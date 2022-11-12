@@ -4,7 +4,7 @@
 
 > The quiet Beatle\. Listen to all his essential tracks.
 
-78 songs - 5 hr 10 min - [published](https://open.spotify.com/playlist/7dDRiy335B5YClsB9QvI3a)
+80 songs - 5 hr 19 min - [published](https://open.spotify.com/playlist/7dDRiy335B5YClsB9QvI3a)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [Awaiting On You All](https://open.spotify.com/track/47ZOXXxvdzBwog8cnA2Wv6) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(Remastered\)](https://open.spotify.com/album/7I2wUjVsMFGVaJvchEzXSP) | 2:48 | 2021-06-11 | 2022-07-29 |
 | [Awaiting On You All \- Remastered 2014](https://open.spotify.com/track/2VXjgueoSOIxAEswR3uRsp) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(Remastered 2014\)](https://open.spotify.com/album/4I4xtHaIFOzhZfp1NIHkY6) | 2:48 | 2021-06-11 |  |
 | [Ballad Of Sir Frankie Crisp \(Let It Roll\)](https://open.spotify.com/track/2rqjQ9seqvnhwyyysPwtSr) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(Remastered\)](https://open.spotify.com/album/7I2wUjVsMFGVaJvchEzXSP) | 3:48 | 2021-06-11 | 2022-07-29 |
-| [Ballad Of Sir Frankie Crisp \(Let It Roll\) \- Remastered 2014](https://open.spotify.com/track/0sX4OzAtIubFc4s9y5KrB7) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(Remastered 2014\)](https://open.spotify.com/album/4I4xtHaIFOzhZfp1NIHkY6) | 3:48 | 2021-06-11 |  |
+| [Ballad Of Sir Frankie Crisp \(Let It Roll\) \- 2009 Mix](https://open.spotify.com/track/60pxshhXLeimv7gsUKu9Gy) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Let It Roll \- Songs Of George Harrison](https://open.spotify.com/album/1aswOMHGBTkp0MsSVIn2YU) | 3:48 | 2021-06-11 |  |
+| [Ballad Of Sir Frankie Crisp \(Let It Roll\) \- Remastered 2014](https://open.spotify.com/track/0sX4OzAtIubFc4s9y5KrB7) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(Remastered 2014\)](https://open.spotify.com/album/4I4xtHaIFOzhZfp1NIHkY6) | 3:48 | 2021-06-11 | 2022-11-12 |
 | [Beautiful Girl \- Remastered 2004](https://open.spotify.com/track/6utKZ21ASljZWbC5nDzIYo) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Thirty Three & 1/3](https://open.spotify.com/album/7y9Fefugnr5b8fHHt9eE7X) | 3:42 | 2021-06-11 |  |
 | [Behind That Locked Door](https://open.spotify.com/track/1qqGWtUzp1kGrVbuFU4EmQ) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(Remastered\)](https://open.spotify.com/album/7I2wUjVsMFGVaJvchEzXSP) | 3:06 | 2021-06-11 | 2022-07-29 |
 | [Behind That Locked Door \- Remastered 2014](https://open.spotify.com/track/2pTZsG61UdgMK24OLa3ofa) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(Remastered 2014\)](https://open.spotify.com/album/4I4xtHaIFOzhZfp1NIHkY6) | 3:06 | 2021-06-11 |  |
@@ -65,8 +66,9 @@
 | [Living In The Material World](https://open.spotify.com/track/5NTATcezbDapq50Zwxl7Ri) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Living In The Material World \(Remastered\)](https://open.spotify.com/album/79hB4QtJjn0Y4DyRPpllZg) | 5:30 | 2021-06-11 |  |
 | [Looking For My Life](https://open.spotify.com/track/1Dgn1VU5l9eMV8WuSRNwmI) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Brainwashed](https://open.spotify.com/album/2VFLjY1S0D8nKml6nlU2MD) | 3:49 | 2021-06-11 |  |
 | [Love Comes To Everyone \- Remastered 2004](https://open.spotify.com/track/1dYimSgEq46lJ30MKQP9l6) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [George Harrison](https://open.spotify.com/album/5LEZHIvSR7NRc9J4ojDUwU) | 4:36 | 2021-06-11 |  |
+| [My Sweet Lord](https://open.spotify.com/track/6u9pmFX8oAmaUyQ6k8gEkw) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Eric Clapton: Life In 12 Bars \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2cfUT6PId9Jnjar3ftQ3Bk) | 4:40 | 2021-06-11 |  |
 | [My Sweet Lord](https://open.spotify.com/track/3Njxl86N4inxFi5xBuCoR1) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(Remastered\)](https://open.spotify.com/album/7I2wUjVsMFGVaJvchEzXSP) | 4:41 | 2021-06-11 | 2022-07-29 |
-| [My Sweet Lord \- Remastered 2014](https://open.spotify.com/track/0qdQUeKVyevrbKhAo0ibxS) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(Remastered 2014\)](https://open.spotify.com/album/4I4xtHaIFOzhZfp1NIHkY6) | 4:41 | 2021-06-11 |  |
+| [My Sweet Lord \- Remastered 2014](https://open.spotify.com/track/0qdQUeKVyevrbKhAo0ibxS) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(Remastered 2014\)](https://open.spotify.com/album/4I4xtHaIFOzhZfp1NIHkY6) | 4:41 | 2021-06-11 | 2022-11-12 |
 | [Roll Over Beethoven \- Live In Japan, 1991 / 2004 Mix](https://open.spotify.com/track/6cm97MSTgQ4bLCq0eHEoTw) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Live In Japan](https://open.spotify.com/album/4S2ZR5njbJez1rV8DV5Vtl) | 4:45 | 2021-06-11 |  |
 | [Run Of The Mill](https://open.spotify.com/track/3QLZFIQaJebqAovcAIpk7L) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(Remastered\)](https://open.spotify.com/album/7I2wUjVsMFGVaJvchEzXSP) | 2:51 | 2021-06-11 | 2022-07-29 |
 | [Run Of The Mill \- Remastered 2014](https://open.spotify.com/track/3S574gsoQJl826YjsuRqSr) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(Remastered 2014\)](https://open.spotify.com/album/4I4xtHaIFOzhZfp1NIHkY6) | 2:51 | 2021-06-11 |  |

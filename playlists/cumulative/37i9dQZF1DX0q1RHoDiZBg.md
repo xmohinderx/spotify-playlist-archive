@@ -4,7 +4,7 @@
 
 > Fresh takes—from new revisions and iconic covers to unexpected versions and the songwriter's own covers\. Cover: <a href="spotify:artist:74ASZWbe4lXaubB36ztrGX">Bob Dylan</a>
 
-118 songs - 9 hr 7 min - [published](https://open.spotify.com/playlist/7FOkiByivaOfywG07ibr9a)
+120 songs - 9 hr 17 min - [published](https://open.spotify.com/playlist/7FOkiByivaOfywG07ibr9a)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,8 @@
 | [It Ain't Me Babe](https://open.spotify.com/track/0TDlaRlo5DnfW9LUfPvf3b) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [June Carter Cash](https://open.spotify.com/artist/0ZnY6mQmgr2yZarjry68td) | [Carryin' On With Johnny Cash And June Carter](https://open.spotify.com/album/5ZfjQcvHkndkcGsewUeVNM) | 3:03 | 2018-02-08 |  |
 | [It's All Over Now, Baby Blue \(feat\. Van Morrison\)](https://open.spotify.com/track/6p0PlK8KoSERN4LX0bIq9u) | [Them](https://open.spotify.com/artist/5BaHqGtf6UAZnHfqdPaTDA), [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Complete Them \(1964\-1967\) \(feat\. Van Morrison\)](https://open.spotify.com/album/0I5bDXICWz4idoFkxv0W4Z) | 3:47 | 2018-08-02 |  |
 | [Just Like a Woman](https://open.spotify.com/track/2Jo0Yp0OcxlDyLxVGQazYC) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [You and I](https://open.spotify.com/album/6XLWjo1tddkGvNVGJ2kxgm) | 6:28 | 2018-08-02 | 2022-07-29 |
-| [Just Like a Woman](https://open.spotify.com/track/3uIQZXaYnPrl7ROe1BkKtA) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [You and I \(Expanded Edition\)](https://open.spotify.com/album/4pmq7Cvj5fkPcspI8FaqPm) | 6:28 | 2018-08-02 |  |
+| [Just Like a Woman](https://open.spotify.com/track/3bOrKW9lmZwDboxrJ7zDdE) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [You and I \(Extended Edition\)](https://open.spotify.com/album/2PPqAPDd9E6TpdxGG530Yn) | 6:28 | 2018-08-02 |  |
+| [Just Like a Woman](https://open.spotify.com/track/3uIQZXaYnPrl7ROe1BkKtA) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [You and I \(Expanded Edition\)](https://open.spotify.com/album/4pmq7Cvj5fkPcspI8FaqPm) | 6:28 | 2018-08-02 | 2022-11-12 |
 | [Just Like Tom Thumb's Blues](https://open.spotify.com/track/1E1qWlczlv3IEpAZfQ5lJr) | [The Handsome Family](https://open.spotify.com/artist/72PnPUc1qv9UjRPaGVZ1jq) | [Scattered](https://open.spotify.com/album/06iGGLNnQrEjhP9JkG7Kgo) | 5:39 | 2018-08-02 |  |
 | [Kansas City](https://open.spotify.com/track/2JTBNz8VZx7i38pcPROWuz) | [The New Basement Tapes](https://open.spotify.com/artist/2oQpz9DEfhuSbuT8hjhTDK) | [Lost On The River \(Deluxe\)](https://open.spotify.com/album/2d25Dhlk9EcJjrW0K0tnV9) | 4:04 | 2018-08-02 |  |
 | [Knockin' On Heaven's Door](https://open.spotify.com/track/2GSFSTeDDRw9WXpc63T6up) | [Antony and the Johnsons](https://open.spotify.com/artist/4fxp616ALtFWnXfwxnjLzW) | [I'm Not There \(Music From The Motion Picture\)](https://open.spotify.com/album/6ZSp2CcRWdyTm50DbI9MAX) | 4:11 | 2018-08-02 | 2022-07-29 |
@@ -73,7 +74,8 @@
 | [Love Is Just A Four\-Letter Word](https://open.spotify.com/track/3qq5qOc70lovPvgBqI0vBI) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Baez Sings Dylan](https://open.spotify.com/album/5WfJY3Ke6v1ybgSoAnEdIG) | 4:28 | 2018-08-02 |  |
 | [Maggie's Farm](https://open.spotify.com/track/2t0tVmiSkHWvKgojpjO21Z) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [Renegades](https://open.spotify.com/album/6iVOwFVjFRoQPgj8GUwSsi) | 6:34 | 2018-08-02 |  |
 | [Make You Feel My Love](https://open.spotify.com/track/0mqTcM8kuu2IYPotMt7AzS) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/2YO1F9DHVEzXPriA1JHoOQ) | 3:32 | 2018-08-02 | 2022-07-29 |
-| [Make You Feel My Love](https://open.spotify.com/track/5FgPwJ7Nh2FVmIXviKl2VF) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0) | 3:32 | 2018-08-02 |  |
+| [Make You Feel My Love](https://open.spotify.com/track/5FgPwJ7Nh2FVmIXviKl2VF) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0) | 3:32 | 2018-08-02 | 2022-11-12 |
+| [Make You Feel My Love](https://open.spotify.com/track/6otXN6h5J6e49Lvse5yCwD) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Make You Feel My Love](https://open.spotify.com/album/4K1tS9SCKWJX4NQCcMUcUx) | 3:32 | 2018-08-02 |  |
 | [Mama, You Been on My Mind \- Studio Outtake \- 1993](https://open.spotify.com/track/0qUged3a0Bk6l5rtYGMsYn) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Grace \(Legacy Edition\)](https://open.spotify.com/album/07Fr36M0hRPJrSJMFWGnvD) | 3:25 | 2018-02-08 | 2022-07-29 |
 | [Mama, You Been on My Mind \- Studio Outtake \- 1993](https://open.spotify.com/track/4yg2qSpnVAbQLPjCJTWwtY) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Grace \(Legacy Edition\)](https://open.spotify.com/album/283hKbicgg933wSdd24U2s) | 3:25 | 2018-02-08 |  |
 | [Man In The Long Black Coat](https://open.spotify.com/track/7IGUD6b2HQ0wovy9EtFU0M) | [Joan Osborne](https://open.spotify.com/artist/0djV4iaxhNfYWpH60ia85o) | [Relish \(20th Anniversary Edition\)](https://open.spotify.com/album/41stlvVIHnm6prMIEdDOFD) | 4:50 | 2018-08-02 |  |

@@ -4,7 +4,7 @@
 
 > Beat the traffic blues with these killer tunes.
 
-143 songs - 7 hr 22 min - [published](https://open.spotify.com/playlist/58LDkLtnAZW2SWAYqFauit)
+144 songs - 7 hr 26 min - [published](https://open.spotify.com/playlist/58LDkLtnAZW2SWAYqFauit)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [Bruk Off](https://open.spotify.com/track/1b3ghcUEupktU9teqrGqEe) | [J.Derobie](https://open.spotify.com/artist/0Mb4ieQOX8g5d8lnjdCVZ2) | [Bruk Off](https://open.spotify.com/album/3qjTAhmzeeQZyFjoCn1VME) | 2:25 | 2022-09-30 | 2022-10-31 |
 | [Buga \(Lo Lo Lo\)](https://open.spotify.com/track/4eZZofkV1OQ9GDqAgHqNpA) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Buga \(Lo Lo Lo\)](https://open.spotify.com/album/0nNEQYgoVlVYZEOrAC2D3h) | 3:03 | 2022-06-20 |  |
 | [Call of Duty](https://open.spotify.com/track/2wfWK2cmM5DZ4VnT7rDnFO) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Call of Duty](https://open.spotify.com/album/4ULxpCQINF17EWAhbE8w2T) | 2:24 | 2022-08-25 |  |
-| [Calm Down](https://open.spotify.com/track/3BnDvpeuGOj21Ir2aVEtQo) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses](https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG) | 3:39 | 2022-06-09 |  |
+| [Calm Down](https://open.spotify.com/track/3BnDvpeuGOj21Ir2aVEtQo) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses](https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG) | 3:39 | 2022-06-09 | 2022-11-12 |
+| [Calm Down](https://open.spotify.com/track/6hgoYQDUcPyCz7LcTUHKxa) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Calm Down](https://open.spotify.com/album/37iaWiKMa9YBbEDlw5c3Qh) | 3:39 | 2022-06-09 |  |
 | [Casanova](https://open.spotify.com/track/3gUHEZ6jmTWtBzUGUwLjyy) | [Lady Jay](https://open.spotify.com/artist/0rNTIEZKm4LYPn16AcpTaS), [Ayisi](https://open.spotify.com/artist/1MGX3ZU8JMwM05waT6BBvU) | [Casanova](https://open.spotify.com/album/3nmLAVi2ezgqHeYLyTtVHI) | 2:26 | 2022-10-13 | 2022-10-22 |
 | [Cash Out](https://open.spotify.com/track/09nKQUX0rISchtWlsDS4uB) | [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [Cash Out](https://open.spotify.com/album/1Ne4TthIrhxHoCM4TrlzXX) | 3:08 | 2022-10-21 |  |
 | [Celebrate](https://open.spotify.com/track/0UUczvIt4oAghLNuY8WSEA) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [Celebrate](https://open.spotify.com/album/1DjCbRACl4Q9bLtT0hhiIF) | 2:28 | 2022-06-09 | 2022-08-22 |

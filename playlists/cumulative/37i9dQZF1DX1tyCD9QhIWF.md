@@ -4,7 +4,7 @@
 
 > Big riffs and pounding drums to help you strut the streets.
 
-98 songs - 5 hr 36 min - [published](https://open.spotify.com/playlist/7gqp6Qihy76TgbYOyECoLT)
+99 songs - 5 hr 40 min - [published](https://open.spotify.com/playlist/7gqp6Qihy76TgbYOyECoLT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,8 @@
 | [Oh!](https://open.spotify.com/track/4e72LGraX8sW5iztJvS5fo) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Oh!](https://open.spotify.com/album/13YVOGugpbcH7MZCwDEWnE) | 2:35 | 2021-11-30 |  |
 | [Parasite Eve](https://open.spotify.com/track/5OxclJsdFESni44YlpNpkR) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Parasite Eve](https://open.spotify.com/album/5PMPY8a70DCHnQic13XueL) | 4:51 | 2021-11-30 |  |
 | [Puzzles](https://open.spotify.com/track/0rWIAbUoOL67JAHxxGRKx7) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Puzzles](https://open.spotify.com/album/4LULr4Lz6obf9eL2BA0tiJ) | 2:41 | 2022-06-10 |  |
-| [Ready For Something](https://open.spotify.com/track/0Tep6Kp3UHzpewyC0iSsDd) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [How Will I Know If Heaven Will Find Me?](https://open.spotify.com/album/5wtPiwfkmZQSbrMUODMD4f) | 3:57 | 2022-09-13 |  |
+| [Ready For Something](https://open.spotify.com/track/0Tep6Kp3UHzpewyC0iSsDd) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [How Will I Know If Heaven Will Find Me?](https://open.spotify.com/album/5wtPiwfkmZQSbrMUODMD4f) | 3:57 | 2022-09-13 | 2022-11-12 |
+| [Ready For Something](https://open.spotify.com/track/7jxszj5PkDm69WQGda2S21) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [Ready For Something](https://open.spotify.com/album/0kybYEkeYAZJDCzxqmrtvE) | 3:57 | 2022-09-13 |  |
 | [Ready for the High](https://open.spotify.com/track/1v7w94vaYr1gcVUkIgN7y1) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Ready for the High](https://open.spotify.com/album/0IVC8NNkU0KiDmWCRHeoHN) | 4:05 | 2021-11-30 | 2022-10-13 |
 | [Ready for the High](https://open.spotify.com/track/3jEZhSyuSWh64QY12LuXkc) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Everything I Love Is Going To Die](https://open.spotify.com/album/5dQGkEzPNdkyFlDrMSnVbS) | 4:05 | 2022-09-13 |  |
 | [Ready for the High](https://open.spotify.com/track/6gReaFvSI1Pabi3xE0Oh9V) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Fix Yourself, Not the World](https://open.spotify.com/album/2PZIytLiCWDHEjAXuwkVKz) | 4:05 | 2022-09-13 | 2022-11-11 |

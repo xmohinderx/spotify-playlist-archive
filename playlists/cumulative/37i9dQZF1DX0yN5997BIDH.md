@@ -4,7 +4,7 @@
 
 > ¡Deja que la música te inspire para acabar con tu tarea!
 
-226 songs - 12 hr 23 min - [published](https://open.spotify.com/playlist/6RF1E793gGxvwvWp2MLyJS)
+228 songs - 12 hr 29 min - [published](https://open.spotify.com/playlist/6RF1E793gGxvwvWp2MLyJS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,8 +93,9 @@
 | [I Ain't Worried](https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Ain’t Worried \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2) | 2:28 | 2022-10-14 |  |
 | [I am not a woman, I'm a god](https://open.spotify.com/track/0tW41hxixVG9BHqYDNa0Go) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [If I Can’t Have Love, I Want Power \(Extended\)](https://open.spotify.com/album/0yMLTRxwcDN5XHjP5w8jAH) | 2:56 | 2022-02-01 | 2022-08-31 |
 | [I AM WOMAN](https://open.spotify.com/track/3nOz1U41SZZ0N3fuUWr9nb) | [Emmy Meli](https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k) | [I AM WOMAN](https://open.spotify.com/album/4zxSM7n57ny7FztFtjSj7n) | 3:52 | 2022-02-25 |  |
+| [i can't help it](https://open.spotify.com/track/0LQGDAv1siMLMfBeeAdodG) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what falling out of love feels like \(392Hz\)](https://open.spotify.com/album/5PtDyeWcF9Z0exa9vKqHIV) | 2:57 | 2022-10-14 |  |
 | [i can't help it](https://open.spotify.com/track/1HkRnB3c6aVMJxAryrsMsc) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [i can't help it](https://open.spotify.com/album/1vJ1jmaxBT3tHp54igkrmK) | 2:57 | 2022-08-30 | 2022-10-13 |
-| [i can't help it](https://open.spotify.com/track/3F3roWqJPMtmLbPPl93bbR) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what \_\_\_\_ feels like \(Vol\. 1\-4\)](https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT) | 2:57 | 2022-10-01 |  |
+| [i can't help it](https://open.spotify.com/track/3F3roWqJPMtmLbPPl93bbR) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what \_\_\_\_ feels like \(Vol\. 1\-4\)](https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT) | 2:57 | 2022-10-01 | 2022-11-12 |
 | [I Like That](https://open.spotify.com/track/0kWQn0wLok1lawHAkGSMW9) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [Infinite Dream](https://open.spotify.com/album/7CY2Iv5eX7eGAOdRNHfIBr) | 2:38 | 2022-09-09 | 2022-11-11 |
 | [I Like That](https://open.spotify.com/track/2RkZZh5XQ4y3sG8gCu96Tz) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [I Like That](https://open.spotify.com/album/0Nu5uWgrnNGWWbWfzXPgPI) | 2:38 | 2022-02-01 | 2022-09-29 |
 | [I Like That](https://open.spotify.com/track/3oOd4ux5MX7MN7fsabW0Nx) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [Fresh Pop](https://open.spotify.com/album/7xjcwTTWUFwbz2Yswtfh6W) | 2:38 | 2022-10-14 |  |
@@ -122,7 +123,8 @@
 | [Let's Fall in Love for the Night](https://open.spotify.com/track/6p97rhyuy0YEQn0OOQeM1H) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Blood Harmony](https://open.spotify.com/album/51V8Fme8o9GthQ3O1RNMtE) | 3:10 | 2022-02-01 | 2022-10-14 |
 | [Level of Concern](https://open.spotify.com/track/6xZ4Q2k2ompmDppyeESIY8) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Level of Concern](https://open.spotify.com/album/4h3HXlnt6lryGzGbWmcFuY) | 3:40 | 2022-02-01 | 2022-02-19 |
 | [Light Switch](https://open.spotify.com/track/3AVXwaOGCEL8cmBecfcsFJ) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Light Switch \(Instrumental\)](https://open.spotify.com/album/4RRj9PqBj79OFDB2ydM7qs) | 3:07 | 2022-06-24 |  |
-| [Little Miss](https://open.spotify.com/track/5bd5tnV0yMeR1dn1oydUo5) | [Will Joseph Cook](https://open.spotify.com/artist/3YO2a6i2cfdFbgxk2HDfPe) | [Every Single Thing](https://open.spotify.com/album/03h4StW2BAHz9c822kAPtG) | 2:52 | 2022-10-01 |  |
+| [Little Miss](https://open.spotify.com/track/00bctunyoqRNgNWCrt0Gh1) | [Will Joseph Cook](https://open.spotify.com/artist/3YO2a6i2cfdFbgxk2HDfPe) | [BOP](https://open.spotify.com/album/0oS6s31ETsc3If8kmfnZZP) | 2:52 | 2022-10-14 |  |
+| [Little Miss](https://open.spotify.com/track/5bd5tnV0yMeR1dn1oydUo5) | [Will Joseph Cook](https://open.spotify.com/artist/3YO2a6i2cfdFbgxk2HDfPe) | [Every Single Thing](https://open.spotify.com/album/03h4StW2BAHz9c822kAPtG) | 2:52 | 2022-10-01 | 2022-11-12 |
 | [Little Miss](https://open.spotify.com/track/5xtNtoKG2fE1gEe8JGexyS) | [Will Joseph Cook](https://open.spotify.com/artist/3YO2a6i2cfdFbgxk2HDfPe) | [Little Miss](https://open.spotify.com/album/6mGpTiv7McWu5YLeKgupGp) | 2:52 | 2022-02-11 | 2022-07-29 |
 | [Lonely \(with benny blanco\)](https://open.spotify.com/track/4y4spB9m0Q6026KfkAvy9Q) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [Lonely \(with benny blanco\)](https://open.spotify.com/album/3P5WIUJO0Ots1lQx09TOxk) | 2:29 | 2022-02-01 |  |
 | [Look For The Good](https://open.spotify.com/track/05Ysei8K5zQxvLRzHcEhhe) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Look For The Good](https://open.spotify.com/album/1PuBipBX8qqeUN3FOPIexs) | 5:09 | 2022-02-01 | 2022-05-16 |

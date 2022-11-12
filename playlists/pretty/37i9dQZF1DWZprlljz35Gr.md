@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZprlljz35Gr.md) - [plain]
 
 > Bluesy blips and blops
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,056 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,076 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZprlljz35Gr.md) - [plain]
 | 10 | [Beauty Beats](https://open.spotify.com/track/0Jk5J9HrDmCEKV7xYmaB6m) | [Beats Antique](https://open.spotify.com/artist/30DZgkaEYdezg2QMrMgrnm) | [Collide](https://open.spotify.com/album/5UPjxVI1xabSZjcRXEpl52) | 3:45 |
 | 11 | [Left Behind](https://open.spotify.com/track/5gSHmVV30dqKESS4nYGpXg) | [Scarecrow](https://open.spotify.com/artist/4c4n12jAnviXAyqzsyRCLT) | [Left Behind](https://open.spotify.com/album/08SSscS6DCQ4QOp4plJcOF) | 3:36 |
 | 12 | [Honeybee Blues](https://open.spotify.com/track/36ED2y9oraEa2mIp1DDxXT) | [The Tao Of Groove](https://open.spotify.com/artist/66nWqKHAI8Q8w72wfUqmZa) | [Fresh Goods](https://open.spotify.com/album/3cTRg8cy3cBIDWhN1XYrxZ) | 3:31 |
-| 13 | [John the Revelator](https://open.spotify.com/track/4OKEETxdou0lR7LEVvEpaG) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX), [Steve Fitzmaurice](https://open.spotify.com/artist/5jeYVkZ5F8orMysIIFNtOY) | [Playing the Angel](https://open.spotify.com/album/0oHWHIlUObaSopO9wOhvfz) | 3:41 |
+| 13 | [A Blues Thang](https://open.spotify.com/track/1xuBWp4HuSE6Yast5lmVPv) | [Basement Freaks](https://open.spotify.com/artist/77OQMkKBvHUwYyRCv6ossJ) | [Funk from the Trunk](https://open.spotify.com/album/3HA988sMUDSHmW0i7L5Wzl) | 3:23 |
 | 14 | [Wolves](https://open.spotify.com/track/2oLo4vGUIP3eJ9T001keTu) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Human \(Deluxe\)](https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng) | 2:55 |
-| 15 | [A Blues Thang](https://open.spotify.com/track/1xuBWp4HuSE6Yast5lmVPv) | [Basement Freaks](https://open.spotify.com/artist/77OQMkKBvHUwYyRCv6ossJ) | [Funk from the Trunk](https://open.spotify.com/album/3HA988sMUDSHmW0i7L5Wzl) | 3:23 |
+| 15 | [John the Revelator](https://open.spotify.com/track/4OKEETxdou0lR7LEVvEpaG) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX), [Steve Fitzmaurice](https://open.spotify.com/artist/5jeYVkZ5F8orMysIIFNtOY) | [Playing the Angel](https://open.spotify.com/album/0oHWHIlUObaSopO9wOhvfz) | 3:41 |
 | 16 | [Seeing Red](https://open.spotify.com/track/27CSMEytwIjbQJG0118q4a) | [MY BABY](https://open.spotify.com/artist/0c103ZyWDycpfVxR0lNrjm) | [Shamanaid](https://open.spotify.com/album/2Itmzzv39Z7w6mL8WVeU3x) | 4:56 |
 | 17 | [This Is For Everyone \- Original Mix](https://open.spotify.com/track/1uGvKTjvBCN1NYzS2DIjCr) | [Jamie Berry](https://open.spotify.com/artist/5sM4cZ9MHihs0tbmkiE9n8), [Paul Naylor](https://open.spotify.com/artist/5oIDnYdFJFobh1AMGFdfm5) | [This Is For Everyone](https://open.spotify.com/album/1QHlV8vwF7QQjYXO7J2sS7) | 3:49 |
 | 18 | [I'm Back With Trouble](https://open.spotify.com/track/61VHo7IoMJhIMgaYPvG6gk) | [Thomas Vent](https://open.spotify.com/artist/7qh7VUg1GOWzb1DklOkwBd) | [I'm Back With Trouble](https://open.spotify.com/album/5YufvnETZxSN5wb3Q9sEqn) | 3:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZprlljz35Gr.md) - [plain]
 | 49 | [Come on Jump Right In](https://open.spotify.com/track/1dqcArKoJmhj8cjg26Mu5Q) | [Akolo](https://open.spotify.com/artist/5n31j1CydRWUtmfct89c5J) | [Come on Jump Right In](https://open.spotify.com/album/4YZOzLozsvdyka8cBHZNAy) | 3:30 |
 | 50 | [Hymn For Warriors \(Theme From Wolfgang Wee Uncut\)](https://open.spotify.com/track/6A7nVlQbJwyrPx0w4OrE0t) | [Wolfgang Wee](https://open.spotify.com/artist/1xHOAt9wZzZkPqGEPxUSVV) | [Hymn For Warriors \(Theme From Wolfgang Wee Uncut\)](https://open.spotify.com/album/78Xa03zYJRJK307rN8MuHZ) | 3:58 |
 
-Snapshot ID: `MTY2NDUxMDQ2MCwwMDAwMDAwMGY2NGEyYmVlNTZmYTRiMjdhNGZhMDc1MDcyOGRiZWM0`
+Snapshot ID: `MTY2NDUxMDQ2MCwwMDAwMDAwMGU1OGY3OTg0ZGFkYjMxNmE1YTYwZmNmYTBkZDljODdm`

@@ -1116,6 +1116,28 @@
     },
     {
       "album": {
+        "name": "White Christmas",
+        "url": "https://open.spotify.com/album/7ibGcQub2qvfi3kGpELFdB"
+      },
+      "artists": [
+        {
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+        },
+        {
+          "name": "Michel Legrand",
+          "url": "https://open.spotify.com/artist/1EtE0iSY6iFlN9L9c53ETy"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198320,
+      "name": "Let It Snow",
+      "url": "https://open.spotify.com/track/5q9NKPdVKJUfL3kseOrs5R"
+    },
+    {
+      "album": {
         "name": "No\u00ebl ! No\u00ebl !! No\u00ebl !!!",
         "url": "https://open.spotify.com/album/7aSS08mDcSGVRQWKRH5cEh"
       },
@@ -1153,7 +1175,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 198746,
       "name": "Let It Snow (with Michel Legrand)",
       "url": "https://open.spotify.com/track/5tRAaJn5XtjQbIcrkHligQ"
@@ -1568,6 +1590,24 @@
     },
     {
       "album": {
+        "name": "Hot Christmas",
+        "url": "https://open.spotify.com/album/51CQSyEr41Ec8DPNJjQCGG"
+      },
+      "artists": [
+        {
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150412,
+      "name": "Show Me The Magic",
+      "url": "https://open.spotify.com/track/3etxM9QNQzuxQhzOdTN5cm"
+    },
+    {
+      "album": {
         "name": "Taller",
         "url": "https://open.spotify.com/album/7jOdaYjTq3ErydG8Z8DVNj"
       },
@@ -1579,7 +1619,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 150733,
       "name": "Show Me The Magic",
       "url": "https://open.spotify.com/track/5Tn2KoGE5GErtIvFxuELzP"
@@ -1723,7 +1763,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 167586,
       "name": "Snowfall",
       "url": "https://open.spotify.com/track/1z3WlkUJyytQOt15Dzck3H"
@@ -1745,6 +1785,24 @@
       "duration_ms": 170106,
       "name": "Snowfall",
       "url": "https://open.spotify.com/track/32axcV9zBkJKmh1cq7Yka7"
+    },
+    {
+      "album": {
+        "name": "Sounds Of The Season",
+        "url": "https://open.spotify.com/album/4iryAPVDKPc8OeXghdQhBd"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170173,
+      "name": "Snowfall",
+      "url": "https://open.spotify.com/track/2GTjxAKOgViPNu6RGS3Z5v"
     },
     {
       "album": {
@@ -2077,7 +2135,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 135333,
       "name": "Winter Wonderland",
       "url": "https://open.spotify.com/track/0z8aYfRIIvNibAccZRYu8x"
@@ -2099,6 +2157,24 @@
       "duration_ms": 135333,
       "name": "Winter Wonderland",
       "url": "https://open.spotify.com/track/5yfvRLEwGII97pYJEByx4y"
+    },
+    {
+      "album": {
+        "name": "Chilled Jazz Christmas",
+        "url": "https://open.spotify.com/album/3Wdn3HrY4pnw9u66UMyxJR"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137026,
+      "name": "Winter Wonderland",
+      "url": "https://open.spotify.com/track/7tzYDG5R2upxMrIDzNcMIz"
     },
     {
       "album": {

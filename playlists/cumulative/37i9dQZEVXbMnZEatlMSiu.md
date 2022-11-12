@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Taiwan.
 
-518 songs - 1 day 7 hr 38 min - [published](https://open.spotify.com/playlist/6qEGFgtQEnclzvoSiB5z4r)
+519 songs - 1 day 7 hr 41 min - [published](https://open.spotify.com/playlist/6qEGFgtQEnclzvoSiB5z4r)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [deja vu](https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:35 | 2021-05-23 | 2021-07-11 |
 | [deja vu](https://open.spotify.com/track/61KpQadow081I2AsbeLcsb) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [deja vu](https://open.spotify.com/album/3lwHyR4joA1xB7Nun21EP6) | 3:35 | 2021-04-07 | 2021-05-23 |
 | [DICE](https://open.spotify.com/track/6C734SmqoIYuRWo2qSCnpC) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [ENTWURF](https://open.spotify.com/album/2uB0PgzqqWLdk2R736sMkP) | 2:45 | 2022-09-21 | 2022-10-11 |
+| [Die For You](https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [SMITHEREENS](https://open.spotify.com/album/2hEnymoejldpuxSdTnkard) | 3:31 | 2022-11-11 |  |
 | [Don't Go Yet](https://open.spotify.com/track/1058fW9H3fZA6QjYCdOBad) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Don't Go Yet](https://open.spotify.com/album/4gxhWdfO9qAogokjIc2bPZ) | 2:44 | 2021-07-30 | 2021-08-14 |
 | [Don’t Go \(with Justin Bieber & Don Toliver\)](https://open.spotify.com/track/55sgQENF3LY1sUcJUwasLl) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Don’t Go \(with Justin Bieber & Don Toliver\)](https://open.spotify.com/album/76HLs4wSTOuCNwcGl4dycr) | 2:48 | 2021-08-28 | 2021-09-09 |
 | [Doubt?](https://open.spotify.com/track/31gpyqD4Hy1DGHBJCtweBW) | [高爾宣 OSN](https://open.spotify.com/artist/4TcOznbEZBqev21LzAH4KE), [李浩瑋 Howard Lee](https://open.spotify.com/artist/7EkkWNWPiWFQ0rA9IEmMXs) | [\#OSNRAP\-BYGONES](https://open.spotify.com/album/2Ae4FbzK5MLP29D1xAvlR3) | 3:46 | 2021-09-16 | 2021-10-08 |
@@ -306,7 +307,7 @@
 | [一途](https://open.spotify.com/track/7ncPjJBktLEOpstY5JOUMK) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [一途](https://open.spotify.com/album/5sCVCfINkiQ40ozBngqGaY) | 3:10 | 2022-03-01 | 2022-03-26 |
 | [不在一起就不會分開](https://open.spotify.com/track/4ozGCLtrgrzy6Ve3WWwtjN) | [Pei\-Yu Hung](https://open.spotify.com/artist/0rARfHZ4ZteUlzbAuxUwAs) | [不在一起就不會分開](https://open.spotify.com/album/3zdOCw1uKKB8I9jHC0E7Cg) | 4:47 | 2022-07-31 | 2022-08-24 |
 | [不小心愛上你 Accidentally in Love ft\. 魏如萱 waa wei](https://open.spotify.com/track/0Gw3VYIA5RbpZVnOYUiLsP) | [Sweet John](https://open.spotify.com/artist/78UcIEW1VFh2WOgNk0E7mm), [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y) | [不小心愛上你 Accidentally in Love ft\. 魏如萱 waa wei](https://open.spotify.com/album/6IFGIOFQtPKTytLxFnoweD) | 3:59 | 2022-10-19 | 2022-10-30 |
-| [不小心愛上你 ft\. 魏如萱 waa wei](https://open.spotify.com/track/49vNlEFxO7Uv95ZNC9stIP) | [Sweet John](https://open.spotify.com/artist/78UcIEW1VFh2WOgNk0E7mm), [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y) | [In Mind](https://open.spotify.com/album/2tU8bZsg1ZnPRZO1gfGdpZ) | 3:59 | 2022-10-29 |  |
+| [不小心愛上你 ft\. 魏如萱 waa wei](https://open.spotify.com/track/49vNlEFxO7Uv95ZNC9stIP) | [Sweet John](https://open.spotify.com/artist/78UcIEW1VFh2WOgNk0E7mm), [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y) | [In Mind](https://open.spotify.com/album/2tU8bZsg1ZnPRZO1gfGdpZ) | 3:59 | 2022-10-29 | 2022-11-12 |
 | [不想聽見的歌](https://open.spotify.com/track/6ZBWEbwzGrKZOcE2Hh2fZR) | [Princess Ai](https://open.spotify.com/artist/71l6Wfk7PaTVPAOH7ln56V) | [不想聽見的歌](https://open.spotify.com/album/39bMPyNcfUGGxHesBJGe1D) | 4:47 | 2022-04-01 | 2022-04-08 |
 | [不愛我就拉倒](https://open.spotify.com/track/4oeHo4sQtR0hMaLAdxYNGy) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [最偉大的作品](https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa) | 4:06 | 2022-07-16 | 2022-07-24 |
 | [不搖滾](https://open.spotify.com/track/1ZgxIcqFpdHYIF7pjHe1Yc) | [831](https://open.spotify.com/artist/3TtgOeQcNkf9WVDA4xPBJM), [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [\[ 人生就是用來XX的 \] 2021 線上生日趴 \(Live Session\)](https://open.spotify.com/album/2wsteom79gJHf9C6EAZ7df) | 4:51 | 2021-10-02 | 2021-10-07 |

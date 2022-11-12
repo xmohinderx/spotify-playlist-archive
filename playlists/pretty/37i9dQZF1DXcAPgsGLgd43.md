@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 
 > Introducing Alma — a soul born from Latin and house music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,071 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,079 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 | 22 | [Bailar Riddim](https://open.spotify.com/track/4jvCYgzFijnYGxqQcJgRnu) | [Simon Fava](https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc), [Yvvan Back](https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3) | [Bailar Riddim](https://open.spotify.com/album/3L07N9QtjRLysBgtx8aesx) | 3:31 |
 | 23 | [Alma Roja \- DJ Chus Remix](https://open.spotify.com/track/0MlIalMAtTaIhOjmSFmCgW) | [Roger Sanchez](https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ), [Oba Frank Lords](https://open.spotify.com/artist/5JZJF4dsiH01QVSoJpReDM), [DJ Chus](https://open.spotify.com/artist/7kxOVclB0zQamtBR0syCrg) | [Alma Roja \(DJ CHUS Remix\)](https://open.spotify.com/album/5wJgKF4QlNNcsLX0xsxS8w) | 3:04 |
 | 24 | [Diamonds](https://open.spotify.com/track/7k7dPK1j1yRW4qW3WfwoZy) | [Sam Blans](https://open.spotify.com/artist/3aqsqogSTXrUJdcnFySUMi), [Jayson Alanzo](https://open.spotify.com/artist/6RpWxHyYKaMf59DRdgbCg5) | [Diamonds](https://open.spotify.com/album/1swFMuQMyNIKrR3ywxQYVk) | 2:55 |
-| 25 | [Quiribi \- Yamil Remix](https://open.spotify.com/track/0orz2g3pXj7q9meh8ccGzA) | [Rosalinda de la Espada](https://open.spotify.com/artist/1rORrFKQT8vxvmb8gIAqwl), [Yamil](https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS) | [Quiribi \(Yamil Remix\)](https://open.spotify.com/album/14vA1aUbS1VAl99DurxZXL) | 6:06 |
-| 26 | [Olvidar](https://open.spotify.com/track/3unK4aO28ZE2NNQM9BuCmX) | [kryptogram](https://open.spotify.com/artist/184mGxeseZkY2w05Nr4Tui) | [krypt\. vol2](https://open.spotify.com/album/5vUygeQA7S7lsbwnTHpgwq) | 5:48 |
+| 25 | [Olvidar](https://open.spotify.com/track/3unK4aO28ZE2NNQM9BuCmX) | [kryptogram](https://open.spotify.com/artist/184mGxeseZkY2w05Nr4Tui) | [krypt\. vol2](https://open.spotify.com/album/5vUygeQA7S7lsbwnTHpgwq) | 5:48 |
+| 26 | [Quiribi \- Yamil Remix](https://open.spotify.com/track/0orz2g3pXj7q9meh8ccGzA) | [Rosalinda de la Espada](https://open.spotify.com/artist/1rORrFKQT8vxvmb8gIAqwl), [Yamil](https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS) | [Quiribi \(Yamil Remix\)](https://open.spotify.com/album/14vA1aUbS1VAl99DurxZXL) | 6:06 |
 | 27 | [Tribesmen \- Original Mix](https://open.spotify.com/track/3s6dh2duRyDcs3iu56CqgY) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ) | [Tribesmen](https://open.spotify.com/album/4zHC8hqVij0EsQ7l29PaQk) | 7:17 |
 | 28 | [Jaleo](https://open.spotify.com/track/1YcBeCPxCdPCxXOrWJEiwm) | [Kenny Brian](https://open.spotify.com/artist/11Wf5ZORjHp2zPQxbRTyKc), [Gregor Salto](https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew) | [Jaleo](https://open.spotify.com/album/1ZdmmuqN2FXZrSvR4bvu0C) | 3:07 |
 | 29 | [Libre](https://open.spotify.com/track/6mCu7S5fBIlaF81L17ZDoM) | [Bart B More](https://open.spotify.com/artist/1eOOXqRHILTxqrEUAYyQU0) | [Libre](https://open.spotify.com/album/0arqdWadUzAgi4OImNKHjs) | 3:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 | 49 | [Colombiana](https://open.spotify.com/track/09wXTzm6Q3NpBDKS4kUAqc) | [Gettoblaster](https://open.spotify.com/artist/5LGa1U6Mwiib6ocVuJItcG), [CZR](https://open.spotify.com/artist/4whL137jgt9m3zwTUlGJDz) | [Colombiana](https://open.spotify.com/album/7vvmaTj1zNgUxP3M61v2gA) | 2:58 |
 | 50 | [Can't Have It](https://open.spotify.com/track/1TwJ9U24E9WtfUngEpadMf) | [SWAYLÓ](https://open.spotify.com/artist/6UrFs6kJkQTO9k2rKzfqEv) | [Can't Have It](https://open.spotify.com/album/65EAWbqxyp9658YllENyER) | 3:50 |
 
-Snapshot ID: `MTY1MTU4OTc5NCwwMDAwMDAwMGRkZDA1Mjk0NzZhOWVhZTU3YzgzNGMzMzg5YTVhNGMz`
+Snapshot ID: `MTY1MTU4OTc5NCwwMDAwMDAwMDFmZjI4NjMyMDExZTgwNzgzMDJiODQ1OWY5NDU5MGU2`

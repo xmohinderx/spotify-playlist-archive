@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:0JQ5IMCbQBLzTital6q4J3">Click here to explore more rapid changes, complex progressions and improvisation\.  </a>
 
-64 songs - 5 hr 30 min - [published](https://open.spotify.com/playlist/4bWPWLczBZLcY1lnRQKTuI)
+65 songs - 5 hr 35 min - [published](https://open.spotify.com/playlist/4bWPWLczBZLcY1lnRQKTuI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [Move](https://open.spotify.com/track/7nCdeDrv9Tu4nsT3K638em) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Birth Of The Cool](https://open.spotify.com/album/0QWea2w5Y6pSoSWHuc7JMf) | 2:34 | 2020-03-24 | 2022-11-11 |
 | [Move \- Remastered](https://open.spotify.com/track/5CEh7PH1TuHjzBaRTG5WbI) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [The Complete Birth Of The Cool](https://open.spotify.com/album/2vm2b8COVMLIoHqB58iN4w) | 2:34 | 2020-03-24 | 2022-07-29 |
 | [My Favorite Things](https://open.spotify.com/track/39U1hyOxq7Xze2yroZM1DL) | [J.J\. Johnson](https://open.spotify.com/artist/3hZ5sdhYTvgrmXIwtVwqmS) | [Now Playing J.J\. Johnson](https://open.spotify.com/album/5UdLaownAN7ufjM5hhDtXm) | 4:14 | 2020-03-24 | 2022-07-29 |
-| [My Favorite Things](https://open.spotify.com/track/45mRiuCMudVfPbndTvTYnr) | [J.J\. Johnson](https://open.spotify.com/artist/3hZ5sdhYTvgrmXIwtVwqmS) | [J.J.'s Broadway](https://open.spotify.com/album/2oPDLNSWKOLIYLfHsB7h75) | 4:14 | 2020-03-24 |  |
+| [My Favorite Things](https://open.spotify.com/track/45mRiuCMudVfPbndTvTYnr) | [J.J\. Johnson](https://open.spotify.com/artist/3hZ5sdhYTvgrmXIwtVwqmS) | [J.J.'s Broadway](https://open.spotify.com/album/2oPDLNSWKOLIYLfHsB7h75) | 4:14 | 2020-03-24 | 2022-11-12 |
+| [My Favorite Things](https://open.spotify.com/track/5YKNMKiNljtAhcw5y5wFnz) | [J.J\. Johnson](https://open.spotify.com/artist/3hZ5sdhYTvgrmXIwtVwqmS) | [Christmas Dinner Party](https://open.spotify.com/album/3DHkMDDJ9idaUq5yQVyg0y) | 4:14 | 2020-03-24 |  |
 | [Night Tide](https://open.spotify.com/track/0J3aFmlaCsdbKk3g6QrLaP) | [Carmell Jones](https://open.spotify.com/artist/1Fz7kYXFWKM4L4Hjaq9ktx) | [Carmell Jones](https://open.spotify.com/album/6jVNKhUW9f1x069q8xEMI7) | 4:04 | 2020-03-24 |  |
 | [Nutty](https://open.spotify.com/track/0sWqnxofErf7mk8VKgbrXw) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Thelonious Monk with John Coltrane \(OJC Remaster\)](https://open.spotify.com/album/5WqkiRiXHyiML0QkLjqooy) | 6:38 | 2020-03-24 |  |
 | [Oop\-Bop\-Sh\-Bam \- Remastered 2002](https://open.spotify.com/track/2DduQCINkaRAFsc5eeBS7y) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A), [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB), [Austin Roberts](https://open.spotify.com/artist/79QvtIFqpA95nxbCT7pqPW), [Clarence Jones](https://open.spotify.com/artist/2gBS8QeP3Y0SGevpCxo3Eh) | [This Is Oscar Peterson](https://open.spotify.com/album/3Ptsp2KxqKP7RsO7eShIqN) | 2:50 | 2020-03-24 |  |

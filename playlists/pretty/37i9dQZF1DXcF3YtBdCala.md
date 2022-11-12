@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF3YtBdCala.md) - [plain]
 
 > Jóvenes y renovadas expresiones de la bella tradición mexicana\. Lupita Infante en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,638 likes - 75 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,658 likes - 75 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF3YtBdCala.md) - [plain]
 | 35 | [Mi Ego](https://open.spotify.com/track/07YArNoh8ZeQfnQc4sDXxB) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R), [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [México de Mi Corazón, Vol\. 2](https://open.spotify.com/album/1Me7BNQom5WrqVsZE2igCY) | 3:23 |
 | 36 | [La Reina](https://open.spotify.com/track/5hgtFPs0T9r4YQqLjmam3h) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [La Fuerza](https://open.spotify.com/album/10g6da1CbqB78EddjRvJK5) | 3:48 |
 | 37 | [Amor Ilegal](https://open.spotify.com/track/4RBH4sNzQen0YqoIhqw7Eg) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Amor Ilegal](https://open.spotify.com/album/65WCj2K3NGk7Qe63CKlvUW) | 2:50 |
-| 38 | [Se Disfrazó](https://open.spotify.com/track/3Z33YVoP5VK4lLjwDR8Yb7) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Se Disfrazó](https://open.spotify.com/album/0e90dEopSeHMvkBdWB2nX8) | 3:26 |
-| 39 | [Pobre Corazón](https://open.spotify.com/track/4pqwjUljhAaxFPW9fmOGLC) | [Ingrid Contreras](https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By) | [Pobre Corazón](https://open.spotify.com/album/1wKf4J6fA55pKnRRXHZU9c) | 3:18 |
+| 38 | [Pobre Corazón](https://open.spotify.com/track/4pqwjUljhAaxFPW9fmOGLC) | [Ingrid Contreras](https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By) | [Pobre Corazón](https://open.spotify.com/album/1wKf4J6fA55pKnRRXHZU9c) | 3:18 |
+| 39 | [Se Disfrazó](https://open.spotify.com/track/3Z33YVoP5VK4lLjwDR8Yb7) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Se Disfrazó](https://open.spotify.com/album/0e90dEopSeHMvkBdWB2nX8) | 3:26 |
 | 40 | [Desaires](https://open.spotify.com/track/1Kr3Yod5u7TrZMTPqOeNto) | [Laraim](https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Pa' Los Dolidos](https://open.spotify.com/album/2GQFwhWhS0guyuKxD7hoMi) | 2:41 |
 | 41 | [Te He Prometido](https://open.spotify.com/track/1sqtCRFaeXlqiMxM5MGMdC) | [Chayín Rubio](https://open.spotify.com/artist/6dZF1SMkMqrSFJKp0mhk4B) | [Te He Prometido](https://open.spotify.com/album/5akcpTEFuh8Ey7laB8c3TR) | 3:06 |
 | 42 | [Te Vas](https://open.spotify.com/track/17zk128PQ4dP3aYrCDEg3v) | [El Bala](https://open.spotify.com/artist/5vJg40S7jbzIIe6kEkouwY), [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Te Vas](https://open.spotify.com/album/617Pd9DjDcepMn7CWlkKbR) | 2:37 |
@@ -65,23 +65,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF3YtBdCala.md) - [plain]
 | 55 | [En Tu Sonrisa](https://open.spotify.com/track/4oQzPltRkO9KPkynf5kOdD) | [Jary Franco](https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6) | [En Tu Sonrisa](https://open.spotify.com/album/7IONZPJFcvW3wBC0ihjf8F) | 3:01 |
 | 56 | [No Te Apartes De Mí](https://open.spotify.com/track/7s2vND0qEFZBWr7Z7VAhFI) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [No Te Apartes De Mí](https://open.spotify.com/album/4vZEQj9Y4lmnz7Vq8fk9QJ) | 3:59 |
 | 57 | [Navajas En El Viento](https://open.spotify.com/track/6EhatS1CYbGwgn1Sip0nG7) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Navajas En El Viento](https://open.spotify.com/album/2yGAqrfzTvChwWsB10c5Nj) | 3:45 |
-| 58 | [No Me Queda Más](https://open.spotify.com/track/639NmACfrGWlwQ6mBZxtjp) | [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn) | [No Me Queda Más](https://open.spotify.com/album/1sNgMbz7THERzs2wCMpbFR) | 3:22 |
-| 59 | [Te Seguiré Queriendo](https://open.spotify.com/track/20QNDtc0S5p4CracDvoG94) | [Ingrid Contreras](https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By) | [Te Seguiré Queriendo](https://open.spotify.com/album/0dulJ0c8NRZ33f7VswWSxH) | 3:35 |
+| 58 | [Te Seguiré Queriendo](https://open.spotify.com/track/20QNDtc0S5p4CracDvoG94) | [Ingrid Contreras](https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By) | [Te Seguiré Queriendo](https://open.spotify.com/album/0dulJ0c8NRZ33f7VswWSxH) | 3:35 |
+| 59 | [No Me Queda Más](https://open.spotify.com/track/639NmACfrGWlwQ6mBZxtjp) | [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn) | [No Me Queda Más](https://open.spotify.com/album/1sNgMbz7THERzs2wCMpbFR) | 3:22 |
 | 60 | [La Muerte](https://open.spotify.com/track/57r6aaVaCxnOL9ntFEYySS) | [Miguelón Martínez](https://open.spotify.com/artist/5eTHk7xdW6Jf6RSEennGnz) | [La Muerte](https://open.spotify.com/album/1kXogJjit1w6TYkm7Thclz) | 2:18 |
 | 61 | [La Lotería](https://open.spotify.com/track/749UHtYWSdzlLqE9TTrjSs) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [La Lotería](https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY) | 3:06 |
 | 62 | [Buscando el Olvido](https://open.spotify.com/track/56aRaS11MbGV9Co9mOKjdP) | [Alex Fernández](https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC) | [Buscando el Olvido](https://open.spotify.com/album/49Dk6xhj6vzfkl71ngoMZJ) | 2:32 |
 | 63 | [Yo Quiero Ser](https://open.spotify.com/track/7zXyVTdASO4dzlKkvA26uj) | [Jary Franco](https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6) | [Yo Quiero Ser](https://open.spotify.com/album/6IQASp9gvLbyMzzVB1FD9v) | 3:17 |
 | 64 | [Tu Adiós Como Tequila \- Versión Mariachi](https://open.spotify.com/track/6ByvWKgYeXKxw8WXQzluWi) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [Tu Adiós Como Tequila \(Versión Mariachi\)](https://open.spotify.com/album/32ZSvVzmVoHGeXeT9JIxRH) | 3:35 |
-| 65 | [No Mereces Que Te Quiera](https://open.spotify.com/track/6xtNRDtb45QqLNHNPYjw6f) | [Ingrid Contreras](https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By) | [No Mereces Que Te Quiera](https://open.spotify.com/album/0CVsGdZD4eXqiONcjibWBg) | 3:18 |
-| 66 | [Es Mejor Decir Adiós](https://open.spotify.com/track/5sI2Uak0Ma7wnYVypyjeT3) | [Neto Bernal](https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5) | [Es Mejor Decir Adiós](https://open.spotify.com/album/5ULdbRI84YH7MWi21emnYP) | 4:32 |
-| 67 | [Dime Que Sí](https://open.spotify.com/track/6BqRzKHibZ9HhBHmbsCoez) | [Nabález](https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF) | [Dime Que Sí](https://open.spotify.com/album/3MzH50WWwdkZTcKp27T1p2) | 2:35 |
+| 65 | [Es Mejor Decir Adiós](https://open.spotify.com/track/5sI2Uak0Ma7wnYVypyjeT3) | [Neto Bernal](https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5) | [Es Mejor Decir Adiós](https://open.spotify.com/album/5ULdbRI84YH7MWi21emnYP) | 4:32 |
+| 66 | [Dime Que Sí](https://open.spotify.com/track/6BqRzKHibZ9HhBHmbsCoez) | [Nabález](https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF) | [Dime Que Sí](https://open.spotify.com/album/3MzH50WWwdkZTcKp27T1p2) | 2:35 |
+| 67 | [No Mereces Que Te Quiera](https://open.spotify.com/track/6xtNRDtb45QqLNHNPYjw6f) | [Ingrid Contreras](https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By) | [No Mereces Que Te Quiera](https://open.spotify.com/album/0CVsGdZD4eXqiONcjibWBg) | 3:18 |
 | 68 | [Qué Ironía](https://open.spotify.com/track/4OBNBGe8w5un8KJbONIhYF) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv), [Nabález](https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF) | [Qué Ironía](https://open.spotify.com/album/0t0aSpLPZ8jaJ498eog6Lr) | 3:49 |
 | 69 | [Se Olvidó \- Versión Mariachi](https://open.spotify.com/track/3fLCCuQPA7kO2ZMIoB3bp1) | [Chayín Rubio](https://open.spotify.com/artist/6dZF1SMkMqrSFJKp0mhk4B) | [Se Olvidó \(Versión Mariachi\)](https://open.spotify.com/album/0SoeOj7WfmVbqtw8jir9Ys) | 3:11 |
 | 70 | [El Mejor Regalo](https://open.spotify.com/track/6KvOWCCY4MHKpeKl49AYAS) | [Alex Fernández](https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC) | [El Mejor Regalo](https://open.spotify.com/album/63FUo6H8jIIIOAAm231spd) | 2:43 |
 | 71 | [Decidí Olvidarte](https://open.spotify.com/track/4pcdPdeZeNkkQK7CBEJbbj) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Decidí Olvidarte](https://open.spotify.com/album/4sqwNxU9rv3Supn6Pbjz5P) | 2:20 |
-| 72 | [Mi Reflejo](https://open.spotify.com/track/1wi1GAdmpU1qdbrtNBss75) | [Nora González](https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9) | [Mi Reflejo](https://open.spotify.com/album/2YOA7R8fMyfUqGjNn4CYuP) | 3:34 |
+| 72 | [Amigos](https://open.spotify.com/track/4uoHAwCca3pR6SCnYA3XPZ) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Amigos](https://open.spotify.com/album/74Hes6pOqG1u1DN65jg0aV) | 2:48 |
 | 73 | [Ven Porque Te Necesito](https://open.spotify.com/track/6pcm2wQRgnXeRUQWT0KPfM) | [Jary Franco](https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6) | [Ven Porque Te Necesito](https://open.spotify.com/album/4S0KgxfZKGheQqeV11vkqX) | 3:05 |
-| 74 | [Amigos](https://open.spotify.com/track/4uoHAwCca3pR6SCnYA3XPZ) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Amigos](https://open.spotify.com/album/74Hes6pOqG1u1DN65jg0aV) | 2:48 |
+| 74 | [Mi Reflejo](https://open.spotify.com/track/1wi1GAdmpU1qdbrtNBss75) | [Nora González](https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9) | [Mi Reflejo](https://open.spotify.com/album/2YOA7R8fMyfUqGjNn4CYuP) | 3:34 |
 | 75 | [No Me Hace Falta Nada](https://open.spotify.com/track/6mbugMNw6tfCJUdmJhP9oE) | [Nuevo Elemento](https://open.spotify.com/artist/5bX24ABh13zF8hf5oPwc3N) | [No Me Hace Falta Nada](https://open.spotify.com/album/72gV9k0jtquTeAUzHvvIE1) | 3:13 |
 
-Snapshot ID: `MTY2NjkzMzIwMCwwMDAwMDAwMDE1YjE0MzUzMzFlOWFkNjdiZjVjNTYwMGNlMWJlMDkw`
+Snapshot ID: `MTY2NjkzMzIwMCwwMDAwMDAwMDQ0ZDZlMmJlZTVlMDNlNjI0ODM5ZWY4MTU2NDM5NDI0`

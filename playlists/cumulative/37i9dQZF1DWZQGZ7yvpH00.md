@@ -2,9 +2,9 @@
 
 ### [sad sierreño](https://open.spotify.com/playlist/37i9dQZF1DWZQGZ7yvpH00)
 
-> guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 Los Del Limit en portada.
+> guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 Porte Diferente en portada.
 
-93 songs - 5 hr 15 min - [published](https://open.spotify.com/playlist/7yuqccTYEQrtqPBOlPtt5b)
+95 songs - 5 hr 22 min - [published](https://open.spotify.com/playlist/7yuqccTYEQrtqPBOlPtt5b)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Despues De Ti](https://open.spotify.com/track/3NvmjLWLihMep2IXcm9TuF) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3) | [Despues De Ti](https://open.spotify.com/album/3mhfl1thpSC4HEvooCfwqx) | 2:15 | 2022-07-08 |  |
 | [Diablo](https://open.spotify.com/track/2xmH5KTkTsRWAxxHbXJkoL) | [Bajo Perfil](https://open.spotify.com/artist/04CzckYeljqT6be7fR954D), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [En Donde Quedo Yo](https://open.spotify.com/album/0fFL3CyMKpIA6OOfjKlDWo) | 2:48 | 2022-05-23 |  |
 | [Dias Nublados](https://open.spotify.com/track/7xQrt5TkFBBmlTEPJvXTH8) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [MUSICA <3](https://open.spotify.com/album/1wAx2wnAA7F1SRrznW2GcH) | 3:41 | 2022-06-10 |  |
+| [Dices Que Me Quieres](https://open.spotify.com/track/6YjnTgoNTiRKIcSGcFRZwE) | [Porte Diferente](https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf) | [Con Un Porte Diferente \(Vol 2\)](https://open.spotify.com/album/23uvyq2VGIf4l5uUt9OgHN) | 3:36 | 2022-11-11 |  |
 | [Distantes](https://open.spotify.com/track/0o3DbryDgbWANJNZJo8x9R) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT), [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3) | [Distantes](https://open.spotify.com/album/2bLiF7ZGHwIHco3WGb9vsM) | 3:33 | 2022-06-24 | 2022-08-06 |
 | [DOS MORRITAS](https://open.spotify.com/track/2gpaJPUWNx2xmOwy2NNLu8) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [NOSTALGIA](https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd) | 3:58 | 2022-05-06 | 2022-06-25 |
 | [Dulcito e Coco](https://open.spotify.com/track/3tD4abUOGHZHeL1eOl0gyy) | [Cachas De Oro](https://open.spotify.com/artist/17FY0cfPgTE9dHFHU7kxcU), [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT) | [Dulcito e Coco](https://open.spotify.com/album/74yUD8QPWPKOFsyLS93g92) | 3:18 | 2022-06-24 |  |
@@ -56,6 +57,7 @@
 | [Me Vuelves Loco](https://open.spotify.com/track/5dCkGth7tNwJzX19iKKKKr) | [Officialalex425](https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ) | [Me Vuelves Loco](https://open.spotify.com/album/7a3pecJxQO32p5KeC7FnW4) | 4:36 | 2021-12-13 | 2022-07-09 |
 | [Mi Despedida](https://open.spotify.com/track/6Svlf7ToRwf8VFaHWpdN9O) | [Los Del Limit](https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw) | [Mi Despedida](https://open.spotify.com/album/23INaDzOxYRJqQOm5X2Twv) | 3:16 | 2022-01-28 |  |
 | [Mi Despedida](https://open.spotify.com/track/0V3vAtJgeOEI58diEdq5by) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Brindo](https://open.spotify.com/album/39BGT0v33s4yMplCSCILeI) | 4:05 | 2022-07-22 |  |
+| [Mi Soledad](https://open.spotify.com/track/77sMV8IQQb8azd7v3ZAtvC) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [INERCIA](https://open.spotify.com/album/18FytbcvGlN2wufzYgjc8l) | 3:40 | 2022-11-11 |  |
 | [Mientras Duermes](https://open.spotify.com/track/22PH5e4SxE8EPI5YVc0Zin) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Mientras Duermes](https://open.spotify.com/album/3MZAzqL04CpxMuymwFdA8j) | 3:07 | 2022-05-06 | 2022-07-09 |
 | [MODO DEPRE :\(](https://open.spotify.com/track/2U27fF38cgWIPsfoMDuYQD) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [NOSTALGIA](https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd) | 3:19 | 2022-05-06 | 2022-06-11 |
 | [No Eres La Oficial](https://open.spotify.com/track/7LYWPZL216dyiN02mjefro) | [David Santos](https://open.spotify.com/artist/3sc9qeCcbKwYiiBspwVUzU) | [No Eres La Oficial](https://open.spotify.com/album/3Y1AadLWzuo9uXJ2SD0w8V) | 3:20 | 2021-11-22 | 2022-06-25 |

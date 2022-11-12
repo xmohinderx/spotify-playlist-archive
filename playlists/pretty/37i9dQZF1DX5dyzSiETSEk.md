@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dyzSiETSEk.md) - [plain]
 
 > The whole family will enjoy popular hits from yesterday and today!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,227 likes - 99 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,230 likes - 99 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dyzSiETSEk.md) - [plain]
 | 31 | [Nonstop](https://open.spotify.com/track/28t4A1DdvuZzub3p8E7qFF) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [Nonstop](https://open.spotify.com/album/3Rfex8n3nRVBZyN0JX059j) | 2:20 |
 | 32 | [What I Like About You \(feat\. Theresa Rex\)](https://open.spotify.com/track/4NSW0Km5ZG60L8FthUebPJ) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Theresa Rex](https://open.spotify.com/artist/6t9tbRO9Lv6Oq6xtVwfdrn) | [What I Like About You \(feat\. Theresa Rex\)](https://open.spotify.com/album/6gPZmYBSipug1asf4zu9jh) | 3:40 |
 | 33 | [All I Want \- From "High School Musical: The Musical: The Series"](https://open.spotify.com/track/4Yxc55NX3tAXC2mHRAhtcW) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [All I Want \(From "High School Musical: The Musical: The Series"\)](https://open.spotify.com/album/5p3gSxNiXeYlPlztVAUjB2) | 2:57 |
-| 34 | [Black Magic](https://open.spotify.com/track/6rmXhRIemCTPyMYZRDN7Qg) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Get Weird \(Expanded Edition\)](https://open.spotify.com/album/2FnfZiFMv7bmXAIATOJDHs) | 3:31 |
+| 34 | [Black Magic](https://open.spotify.com/track/0ABDzNYFRcW6ltSQ3Bq2aQ) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Feel Good Friday](https://open.spotify.com/album/1bNlBFmUkqsRu6Fsa9jzAV) | 3:30 |
 | 35 | [Don't Stop the Party \(feat\. TJR\)](https://open.spotify.com/track/7ahuMdaf5gdVi35BzyU9Qu) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [TJR](https://open.spotify.com/artist/2L8yW8GIoirHEdeW4bWQXq) | [Greatest Hits](https://open.spotify.com/album/1webHYaeCy8j9smqS23sgE) | 3:25 |
 | 36 | [Happy \- From "Despicable Me 2"](https://open.spotify.com/track/60nZcImufyMA1MKQY3dcCH) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [G I R L](https://open.spotify.com/album/0lrmy4pJINsFzycJvttX2W) | 3:52 |
 | 37 | [Rather Be \(feat\. Jess Glynne\)](https://open.spotify.com/track/3s4U7OHV7gnj42VV72eSZ6) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [Rather Be \(feat\. Jess Glynne\)](https://open.spotify.com/album/4UB0J5V3JsZZtNR360pZ6r) | 3:47 |
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dyzSiETSEk.md) - [plain]
 | 58 | [All Star](https://open.spotify.com/track/2P1ZqQq8rQtmV7BLZ0Junn) | [Smash Mouth](https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd) | [Shrek](https://open.spotify.com/album/4fFn4t0JoZrNB3VY4HZ970) | 3:20 |
 | 59 | [Sweet but Psycho](https://open.spotify.com/track/5UQe0mUQaoCJ60LHpOLrGR) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [A Sweet but Psycho Halloween](https://open.spotify.com/album/1SgQFgwjMyZG0B00SurN0T) | 3:07 |
 | 60 | [Hard Times](https://open.spotify.com/track/0w5Bdu51Ka25Pf3hojsKHh) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [After Laughter](https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs) | 3:02 |
-| 61 | [Swing, Swing](https://open.spotify.com/track/003FTlCpBTM4eSqYSWPv4H) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [The All\-American Rejects](https://open.spotify.com/album/0TvOeelcHQXYgPcyQiLhyR) | 3:53 |
+| 61 | [Swing, Swing](https://open.spotify.com/track/27kE8Qy4ui0a0um1TLNkKi) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [New Year's Pop Rock Party](https://open.spotify.com/album/69MnR5AvIaVYy4yywgN6Ih) | 3:53 |
 | 62 | [Centuries](https://open.spotify.com/track/04aAxqtGp5pv12UXAg4pkq) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [American Beauty/American Psycho](https://open.spotify.com/album/022DrG7Wp2PSCwzuD0bSzT) | 3:48 |
 | 63 | [Pompeii](https://open.spotify.com/track/3gbBpTdY8lnQwqxNCcf795) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Bad Blood](https://open.spotify.com/album/64fQ94AVziavTPdnkCS6Nj) | 3:34 |
 | 64 | [Better When I'm Dancin'](https://open.spotify.com/track/5k5fWendNngd89O8JKoE8L) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Better When I'm Dancin'](https://open.spotify.com/album/6C2AXbI5gZZ0eEFEQY83yH) | 2:56 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dyzSiETSEk.md) - [plain]
 | 98 | [High Hopes](https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pray for the Wicked](https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge) | 3:10 |
 | 99 | [Youth](https://open.spotify.com/track/42SgYs5vIUaFsJdeUxCxUP) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Use Your Voice](https://open.spotify.com/album/3ElKZAFRK6cunr2SanLf8r) | 3:10 |
 
-Snapshot ID: `MTY1ODQ5MzE5NywwMDAwMDAwMDdkMTM5OTNmYWJlMWZlMjdmMGMyZWJiY2Q4YzMyOGMy`
+Snapshot ID: `MTY1ODQ5MzE5NywwMDAwMDAwMDdkYmYyYzQ4ZjI4ZGYyOWUzMGQzNTZmMmQyNGRiN2Nk`

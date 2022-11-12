@@ -4,7 +4,7 @@
 
 > Club classics from the homeland of dance music.
 
-57 songs - 4 hr 42 min - [published](https://open.spotify.com/playlist/7G46PFdAwpJzEu1i0XREw2)
+59 songs - 4 hr 48 min - [published](https://open.spotify.com/playlist/7G46PFdAwpJzEu1i0XREw2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Deep Inside](https://open.spotify.com/track/22eUyC9vOG2aoP5yHX8VxV) | [Hardrive](https://open.spotify.com/artist/0IF4B0ZFCLAbcshTusfEl1) | [Deep Inside \(2009 Mixes\)](https://open.spotify.com/album/573BQbP4hPr12C32Np5XDW) | 6:32 | 2022-04-13 |  |
 | [Domino](https://open.spotify.com/track/6VGNzYErt08Rai78mLkIzI) | [Oxia](https://open.spotify.com/artist/2zgFYHwSEYOc1KnldGsBXK) | [Domino Remixes](https://open.spotify.com/album/70AZz9g5tbnbURmbuAbCxI) | 7:15 | 2022-04-13 |  |
 | [Everybody's Free \(Single Version\)](https://open.spotify.com/track/1gMZCGs6bxhyPeHAEiNc3i) | [Rozalla](https://open.spotify.com/artist/2wnJCxpnKAagrdBJAvaDrQ) | [Everybody's Free](https://open.spotify.com/album/5aQvlWnZ4ccLkCSOUMIA2X) | 3:32 | 2022-04-13 |  |
+| [Frank Sinatra](https://open.spotify.com/track/3mK7ll5qJEKgsV3IQtpJJP) | [Miss Kittin](https://open.spotify.com/artist/3QhNv79NoIvarU6N57GBzL), [The Hacker](https://open.spotify.com/artist/763V8ZisRsw5kCoquzKTUp) | [First Album \(2009 Reissue\)](https://open.spotify.com/album/4YSmNOiY47nx2VodZ8N1I8) | 3:55 | 2022-04-13 |  |
 | [French Kiss \- The Original Underground Mix](https://open.spotify.com/track/7hnqJYCKZFW7vMoykaraZG) | [Lil' Louis](https://open.spotify.com/artist/5A16TE7083RJq3yzpdsQWs), [The World](https://open.spotify.com/artist/62ltJFdLVl9JUrdhzWqp0F) | [Club Epic \- A Collection Of Classic Dance Mixes: Volume 4](https://open.spotify.com/album/5EeLmKBK9L5zt1m2hpzIjW) | 9:51 | 2022-04-13 |  |
 | [Go](https://open.spotify.com/track/0e8C9dPERvvARURkNOFrrC) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Moby](https://open.spotify.com/album/1slROdhMf4S9kwLHGfMrSk) | 3:37 | 2022-04-13 |  |
 | [Go](https://open.spotify.com/track/6bzV0xGO4dROmmL9GmVkjM) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Moby](https://open.spotify.com/album/0KfKzsskBe8a8Cf3JheeSm) | 3:37 | 2022-04-13 | 2022-10-13 |
@@ -33,8 +34,9 @@
 | [It's My Life \- 1997 Remaster](https://open.spotify.com/track/4jhsuQCUCJKA5f0bXb6XdJ) | [Talk Talk](https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf) | [It's My Life](https://open.spotify.com/album/152Hw6E0tNz3EQNq9c1CDf) | 3:52 | 2022-04-13 |  |
 | [Lady \- Hear Me Tonight](https://open.spotify.com/track/49X0LAl6faAusYq02PRAY6) | [Modjo](https://open.spotify.com/artist/0AkpPlFLnr0VQwZQeMGht0) | [Modjo \(Remastered\)](https://open.spotify.com/album/0vwDxngkhZuwNbcxzebCXI) | 5:07 | 2022-04-13 |  |
 | [Les Nuits](https://open.spotify.com/track/4P8qXnroR43S0xk0hmSbNs) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Carboot Soul](https://open.spotify.com/album/5pwdeiIEpfn2TF7M1J21MR) | 6:20 | 2022-04-13 |  |
-| [Let Me Think About It](https://open.spotify.com/track/4LjfIjS8iweFCPdKxLnEoV) | [Ida Corr](https://open.spotify.com/artist/30ut8L4gmEz4vNr1zNhpbh), [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE) | [Singled Out](https://open.spotify.com/album/4nLyl2aEgi2qQrcPiFlmD7) | 2:31 | 2022-04-13 |  |
-| [Let the Sun Shine \- Terrace Vocal Radio Edit](https://open.spotify.com/track/18wQx3mWVM5qBVckrLZjj3) | [Milk & Sugar](https://open.spotify.com/artist/159cwGtgCzNpyHWY6tzihH), [Lizzy Pattinson](https://open.spotify.com/artist/1rxn6ryjjQGlWB6onfUZyG) | [Housemusic.De](https://open.spotify.com/album/1Y1ejuQvNlSQXKA7Ef5qzW) | 3:33 | 2022-04-13 |  |
+| [Let Me Think About It](https://open.spotify.com/track/4LjfIjS8iweFCPdKxLnEoV) | [Ida Corr](https://open.spotify.com/artist/30ut8L4gmEz4vNr1zNhpbh), [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE) | [Singled Out](https://open.spotify.com/album/4nLyl2aEgi2qQrcPiFlmD7) | 2:31 | 2022-04-13 | 2022-11-12 |
+| [Let Me Think About It \- Radio Edit](https://open.spotify.com/track/53rQM3LpXLf2hyClva3jiz) | [Ida Corr](https://open.spotify.com/artist/30ut8L4gmEz4vNr1zNhpbh), [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE) | [Let Me Think About It \(Remixes\)](https://open.spotify.com/album/0em4Q3loArIZYCdXcRrygg) | 2:33 | 2022-04-13 |  |
+| [Let the Sun Shine \- Terrace Vocal Radio Edit](https://open.spotify.com/track/18wQx3mWVM5qBVckrLZjj3) | [Milk & Sugar](https://open.spotify.com/artist/159cwGtgCzNpyHWY6tzihH), [Lizzy Pattinson](https://open.spotify.com/artist/1rxn6ryjjQGlWB6onfUZyG) | [Housemusic.De](https://open.spotify.com/album/1Y1ejuQvNlSQXKA7Ef5qzW) | 3:33 | 2022-04-13 | 2022-11-12 |
 | [Love Story](https://open.spotify.com/track/3SdXO2B5AVG6BDHiS7dOH6) | [Layo & Bushwacka!](https://open.spotify.com/artist/4XO18kRHLT6F5RhomZGrpc) | [Night Works](https://open.spotify.com/album/7a25FtnvBLOmW6BA9444Wn) | 5:12 | 2022-04-13 |  |
 | [Madan](https://open.spotify.com/track/5aoJnOhycrs0NtXomySi3e) | [Martin Solveig](https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [So Far](https://open.spotify.com/album/2lZokCz6x1j296NYepSBxB) | 4:50 | 2022-04-13 |  |
 | [Music Is the Answer \- Original Extended 12\-Inch Mix](https://open.spotify.com/track/4n8YdXETqQ3NvWs5XNpvar) | [Celeda](https://open.spotify.com/artist/6eOBEYGx9M4t87osYMIakb), [Danny Tenaglia](https://open.spotify.com/artist/2tG935baRE4mH8B3saiwbm) | [Music Is the Answer \(Part 2\)](https://open.spotify.com/album/06DQnIInJxEezrxyFBHERC) | 14:09 | 2022-04-13 |  |

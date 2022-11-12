@@ -4,7 +4,7 @@
 
 > Instrumental bliss beyond genre classification.
 
-193 songs - 15 hr 21 min - [published](https://open.spotify.com/playlist/0oD5iC51KNsAwsn7m40tDg)
+195 songs - 15 hr 33 min - [published](https://open.spotify.com/playlist/0oD5iC51KNsAwsn7m40tDg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Cheve](https://open.spotify.com/track/16f4s3WLYMbCtIVlyaqO89) | [Siete Catorce](https://open.spotify.com/artist/3MVzVLPSlOV0s6mGQ2YZHr) | [Cruda](https://open.spotify.com/album/2Ia0Ig2JkLx3NNpdxuICeH) | 5:29 | 2022-04-29 |  |
 | [Cinétique \- Edit](https://open.spotify.com/track/1jRdRoJqx2s6v4T5VZM41C) | [Jinjé](https://open.spotify.com/artist/59ceK8A6RxzUQZF05aXezk) | [Cinétique](https://open.spotify.com/album/36j2hkJhjKKiGDu6IRT9Vr) | 4:00 | 2021-10-15 | 2022-01-20 |
 | [Closer \- Daniel Avery Edit](https://open.spotify.com/track/57Vf7VMA5QSahRghyzywIa) | [Rolo Tomassi](https://open.spotify.com/artist/3uHCTHxtg3IVAvhyrYsZvI), [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Closer \(Daniel Avery Edit\)](https://open.spotify.com/album/7ibaWfGIltYCxmRD9Qjz1G) | 4:06 | 2022-07-08 |  |
-| [Clouds](https://open.spotify.com/track/4h28da1metrUE6DMRbCYY5) | [rAHHH](https://open.spotify.com/artist/1Y6WK1BxA34xgovJAKPYki) | [Ones](https://open.spotify.com/album/1DNOCMa2UrOXEHU8oJ8M7s) | 4:05 | 2022-01-11 |  |
+| [Clouds](https://open.spotify.com/track/4h28da1metrUE6DMRbCYY5) | [rAHHH](https://open.spotify.com/artist/1Y6WK1BxA34xgovJAKPYki) | [Ones](https://open.spotify.com/album/1DNOCMa2UrOXEHU8oJ8M7s) | 4:05 | 2022-01-11 | 2022-11-12 |
 | [Clouds](https://open.spotify.com/track/6VipQibtXdo7Dy3uuW981g) | [rAHHH](https://open.spotify.com/artist/1Y6WK1BxA34xgovJAKPYki) | [Ones](https://open.spotify.com/album/6lo52TlixgAYR8gX6vescb) | 4:05 | 2022-01-11 | 2022-07-29 |
 | [Coral Jazz](https://open.spotify.com/track/5o3FOmZJPxN4hfLlaFR6hM) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Coral Jazz](https://open.spotify.com/album/5vK2QLhligjEJXejUhKLLi) | 3:03 | 2021-10-15 | 2022-01-13 |
 | [Cuarzo](https://open.spotify.com/track/1aIModmKDbvX4xJqBFgQv8) | [Syntrovert](https://open.spotify.com/artist/541d4y9qEGqgZBoHrR0NmA) | [Amuleto](https://open.spotify.com/album/03fMs2DjHK6n5zbDqKkGHg) | 3:35 | 2022-01-11 | 2022-03-12 |
@@ -78,6 +78,7 @@
 | [Get There](https://open.spotify.com/track/4QzQFNQnwNqmdOKwkfWeTi) | [Evil Needle](https://open.spotify.com/artist/37nE9g0LRDhDSIejDuPKPS) | [Souvenirs](https://open.spotify.com/album/0762wvRziSk7teli97iy1A) | 4:33 | 2021-10-15 | 2022-01-04 |
 | [Go \(Otik Remix\)](https://open.spotify.com/track/0LF47HeMZteqsbcQRk1hkJ) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Otik](https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB) | [Go \(Otik Remix\)](https://open.spotify.com/album/0ybL4M8dUUD1YaxxUTVUcI) | 4:05 | 2022-07-08 | 2022-08-14 |
 | [Goddess Calling](https://open.spotify.com/track/4npxPQ7jYsO9RL6aN9EDjl) | [Octo Octa](https://open.spotify.com/artist/2GH8Mzo3Ur1AdOnGUUpt17) | [She's Calling EP](https://open.spotify.com/album/4QIzvwiurfYaLWAATLXU0N) | 7:40 | 2021-10-15 | 2022-01-21 |
+| [Grammar](https://open.spotify.com/track/6GwRMUJIwhTQArxvhoW4wc) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Someone Close](https://open.spotify.com/album/5e6az1Hmeagy2OBe9hjJbc) | 7:41 | 2022-11-11 |  |
 | [Gripper](https://open.spotify.com/track/1Ic1HKNFUzgomJECOGpg1X) | [Robin Ball](https://open.spotify.com/artist/3BkQkIMX2qIvwRgUQoxk15) | [X To C](https://open.spotify.com/album/7upSj25Yd2zUW2AneFDlfu) | 7:42 | 2021-10-15 | 2022-01-20 |
 | [Harmonic Frequencies](https://open.spotify.com/track/2U2dlU4ELCrmUOnojBsMcT) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Harmonic Frequencies](https://open.spotify.com/album/4KI8PM8G8iT5tc2yAz3PBl) | 4:10 | 2021-10-15 | 2022-01-11 |
 | [Head Above The Parakeets](https://open.spotify.com/track/1F7wFVvXwazyZdy4jq3Bj8) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Put Your Head Above The Parakeets](https://open.spotify.com/album/6SJSwXUsU7XAuI32YfX2iC) | 7:16 | 2021-10-15 |  |
@@ -148,7 +149,7 @@
 | [Sip It](https://open.spotify.com/track/1luiFY5znojT6YoJrn5HIb) | [SFV Acid](https://open.spotify.com/artist/6n6FVIstoz4bEZSPYB3YEi) | [Firezone](https://open.spotify.com/album/65uFN8GiouuRmMghukyEoX) | 4:17 | 2021-10-15 | 2022-01-14 |
 | [Siren](https://open.spotify.com/track/5umBsHgpB2WsRA9ccQZGdz) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Siren](https://open.spotify.com/album/0IUYJNrMt8Eny3zaKeEAc2) | 6:22 | 2021-10-15 | 2022-01-20 |
 | [Sirens \(feat\. Caroline Polachek\)](https://open.spotify.com/track/56Qg15afWhWx83aFusmXc4) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Sirens \(feat\. Caroline Polachek\)](https://open.spotify.com/album/5uQmuKzNPNelihF5FnvXLJ) | 3:58 | 2022-04-06 | 2022-06-21 |
-| [Skylines](https://open.spotify.com/track/1TKeKz3JYu302uXKYseuFB) | [Otik](https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB) | [Eden Portal](https://open.spotify.com/album/5MSQc9lUHv65o5sF6HTtA2) | 5:42 | 2022-07-15 |  |
+| [Skylines](https://open.spotify.com/track/1TKeKz3JYu302uXKYseuFB) | [Otik](https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB) | [Eden Portal](https://open.spotify.com/album/5MSQc9lUHv65o5sF6HTtA2) | 5:42 | 2022-07-15 | 2022-11-12 |
 | [Slice of Life](https://open.spotify.com/track/1Ef4AmovzJ5RhoUOqj1iZn) | [usr/friendly](https://open.spotify.com/artist/2Tf35i1626AZKiQqUx2xfE), [Oketo](https://open.spotify.com/artist/5JBjc1UhLlvqmifk3WLAFg) | [This Is An Advertisement](https://open.spotify.com/album/3dD5AxY5S7g5j4he0QOSJ9) | 3:19 | 2022-01-12 |  |
 | [So](https://open.spotify.com/track/55CCxcBWmurfDqbrJfphD0) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [So](https://open.spotify.com/album/7azgAC2wWDEQwkFtH1oUxS) | 4:39 | 2021-10-15 |  |
 | [Solar Plexus](https://open.spotify.com/track/0KjraktVUU6osERgW3oF7c) | [Karakter](https://open.spotify.com/artist/0D0rrh5OVFbBgSYYOG5jtL) | [Solar Plexus](https://open.spotify.com/album/4bulJeXa9kmJz5m7t5us4A) | 3:49 | 2022-08-31 |  |
@@ -185,6 +186,7 @@
 | [Vale Da Lua](https://open.spotify.com/track/7aZlJBPtjrvbgrdNrJzLMz) | [LAZA](https://open.spotify.com/artist/6OplzHOsBjoyyYIkkfmu9D) | [Chamas Do Cerrado](https://open.spotify.com/album/6BVJFFh1kOBNNwKiRABk9h) | 3:33 | 2022-03-30 |  |
 | [Vibrations on a String](https://open.spotify.com/track/6UdhadB8RTc9cVGIljWdqv) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Articulation](https://open.spotify.com/album/6gcAUc2LUZfbHwZZJLgvtm) | 6:09 | 2021-10-15 | 2022-01-20 |
 | [Vocoder](https://open.spotify.com/track/4nT9x3zgwomLhyuc6ZXPeD) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Vocoder](https://open.spotify.com/album/7nlHOrNbeFFid40EuBoTsN) | 7:35 | 2022-03-11 | 2022-08-04 |
+| [Wall of Sleep](https://open.spotify.com/track/1zii8HjrZpVEIsAECYGwrV) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Ultra Truth](https://open.spotify.com/album/4qw8zs6nZyjpgPPBxZWpTI) | 4:47 | 2022-11-11 |  |
 | [Warm Electronics Box](https://open.spotify.com/track/4DGStMzbYCCuNy5GoPfUCC) | [RX\-101](https://open.spotify.com/artist/1nxxFDcQjl85Vn3PSZs651) | [Dopamine](https://open.spotify.com/album/32dttKpIJvL2ndTAUSyQui) | 5:49 | 2021-10-15 |  |
 | [Warm Fuzzies: The Glory](https://open.spotify.com/track/3NuV0mFdhmGDXMlyeXCIHA) | [Bon\-Psy](https://open.spotify.com/artist/5Vv4f9pucnXPVExpBKfBXn) | [Order](https://open.spotify.com/album/2pnHsON4bWzSzB7Vl6Juer) | 3:26 | 2022-08-19 |  |
 | [Wastelands and Oases](https://open.spotify.com/track/0ovt7COFyFzCr0ooiLLJhK) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [Wastelands and Oases](https://open.spotify.com/album/1dvKTNYiGUOz4VCOkJbxKy) | 4:19 | 2021-10-15 | 2022-02-10 |

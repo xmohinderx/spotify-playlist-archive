@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3ZjVksUlfu.md) - [plain]
 
 > The defining alternative hits from a decade that changed music\. Cover: Betty Davis
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,319 likes - 85 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 321,495 likes - 85 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Love Will Tear Us Apart \- 2020 Remaster](https://open.spotify.com/track/34iOH7LY3vme5rQxsVILZ4) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [Love Will Tear Us Apart](https://open.spotify.com/album/0u0CJa9zwFbGSU8JWQYS5G) | 3:28 |
+| 1 | [Love Will Tear Us Apart](https://open.spotify.com/track/3VvEhFK7YJFXho2Hwfx9Uk) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [Early 80s](https://open.spotify.com/album/7bb5Hu7BJAkkzM0bDH5Ro4) | 3:24 |
 | 2 | [Starman \- 2012 Remaster](https://open.spotify.com/track/43R4zUjfnrz0rjlcdzir3D) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [ChangesTwoBowie](https://open.spotify.com/album/7xPIMxW4eWRTehFphCiDbH) | 4:14 |
 | 3 | [They Say I'm Different](https://open.spotify.com/track/7yQpHgbDPweCZhTD5ZtXES) | [Betty Davis](https://open.spotify.com/artist/5Ryxgm3uLvQOsw4H5ZpHDn) | [They Say I'm Different](https://open.spotify.com/album/6cnH06Wxjb2QqUHFa8PEwc) | 4:15 |
 | 4 | [Shot By Both Sides \- Remastered](https://open.spotify.com/track/3aInErz06eEAbRHMnsORR2) | [Magazine](https://open.spotify.com/artist/4VuMnSnoTGrma3a79UhfMs) | [Real Life](https://open.spotify.com/album/5cy3t8bW0lNzw9hjCPkRUT) | 4:04 |
 | 5 | [Ever Fallen in Love \(With Someone You Shouldn't've\)?](https://open.spotify.com/track/6Gk5zyUVwolJHTi3kZMTEp) | [Buzzcocks](https://open.spotify.com/artist/2DxlS3lTLFIq70S7ap5H3y) | [Ever Fallen In Love? Buzzcocks Finest](https://open.spotify.com/album/2fEo8f9CUTtyf65VJgMWpb) | 2:42 |
 | 6 | [Hong Kong Garden](https://open.spotify.com/track/5bxBosfOC3upyOK9tjxZ35) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [The Scream](https://open.spotify.com/album/3uMr78kOScjc6eLHMYcVl4) | 2:55 |
 | 7 | [Psycho Killer \- 2005 Remaster](https://open.spotify.com/track/1i6N76fftMZhijOzFQ5ZtL) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Talking Heads '77 \(Deluxe Version\)](https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN) | 4:21 |
-| 8 | [Sound and Vision \- 2017 Remaster](https://open.spotify.com/track/1vP2JEXRsGrFbwOZ0foOQ5) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Low \(2017 Remaster\)](https://open.spotify.com/album/2de6LD7eOW8zrlorbS28na) | 3:04 |
+| 8 | [Sound and Vision \- 1999 Remaster](https://open.spotify.com/track/0246uGRZi0ByBV2r8PUPIJ) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Sound And Vision Remix E.P.](https://open.spotify.com/album/3kC9fTEYWzYeSSB1y0Ud06) | 3:05 |
 | 9 | [20th Century Boy](https://open.spotify.com/track/66hdYurKbEfP74fvWtR7mj) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [20th Century Boy](https://open.spotify.com/album/7wT1X3FR8vE0IL9Bi6GOXE) | 3:41 |
 | 10 | [Another Girl Another Planet](https://open.spotify.com/track/0PDZ4Rgj36MxVgvoMv3sk5) | [The Only Ones](https://open.spotify.com/artist/16VudBYGOd9sMpOtA0szfp) | [Another Girl Another Planet The Best Of](https://open.spotify.com/album/5G4f8hTTzGH0QGqGeQjsS1) | 3:00 |
-| 11 | [The Passenger](https://open.spotify.com/track/15BQ7vEDv2LJuh8TxWIhtd) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Lust For Life](https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz) | 4:43 |
+| 11 | [The Passenger](https://open.spotify.com/track/1fQF2LubzHxezK4nHjfj6j) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Golden Hits](https://open.spotify.com/album/00vgtp4aKHzr2qvhTSANfu) | 4:41 |
 | 12 | [Hanging Around \- 1996 Remaster](https://open.spotify.com/track/4OvQsAObGMF3dpkCV6DZzb) | [The Stranglers](https://open.spotify.com/artist/0RUEHcBiENFEqxgicqS2ig) | [Rattus Norvegicus](https://open.spotify.com/album/38lyLeszq1p2sck1lB53dq) | 4:25 |
 | 13 | [Dancing In The Moonlight \(It's Caught Me In It's Spotlight\)](https://open.spotify.com/track/6BmzbaB08O0FjHXeS0cR5b) | [Thin Lizzy](https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ) | [Bad Reputation \(Expanded Edition\)](https://open.spotify.com/album/0DHKadXfnYCAXp28F3HI8U) | 3:24 |
 | 14 | [The Model \- 2009 Remaster](https://open.spotify.com/track/1FL9DHDSED6lxNMDJUJQvB) | [Kraftwerk](https://open.spotify.com/artist/0dmPX6ovclgOy8WWJaFEUU) | [The Man\-Machine \(2009 Remaster\)](https://open.spotify.com/album/3eyz60xEK5dGEeZF1JJSi9) | 3:40 |
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3ZjVksUlfu.md) - [plain]
 | 16 | [London Calling \- Remastered](https://open.spotify.com/track/5jzma6gCzYtKB1DbEwFZKH) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [London Calling \(Remastered\)](https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a) | 3:20 |
 | 17 | [Anarchy In the U.K.](https://open.spotify.com/track/1H0Qvm9vTEOXYDqh3CGOmC) | [Sex Pistols](https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR) | [Guitar Hero Hits](https://open.spotify.com/album/7vSfW0XLNSwGfGNRME7bz7) | 3:31 |
 | 18 | [Teenage Kicks](https://open.spotify.com/track/7ATyLePQnHxFk5kzxWCcsh) | [The Undertones](https://open.spotify.com/artist/2WRStKp4ihGVUzlzWfv1Qt) | [The Undertones](https://open.spotify.com/album/2CGEIN4OnLWDewCT7C4JLh) | 2:28 |
-| 19 | [Sheena Is a Punk Rocker \- 2017 Remaster](https://open.spotify.com/track/61MZN0yyMWSEwrLPUUGfgJ) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Rocket to Russia \(40th Anniversary Deluxe Edition\)](https://open.spotify.com/album/7Jb0VtDTacuQdXM3pYyrbv) | 2:49 |
+| 19 | [Sheena Is a Punk Rocker \(Single Version\)](https://open.spotify.com/track/2ihp717aK0nGPVHfREihyF) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Original New Wave](https://open.spotify.com/album/2OT7MIEzu1izaVXHEj3zon) | 2:48 |
 | 20 | [Ça Plane Pour Moi](https://open.spotify.com/track/7bx4zW72qdZKBb8p6g80jb) | [Plastic Bertrand](https://open.spotify.com/artist/1KeIof0zqga5ojkmOKg88P) | [Ça Plane Pour Moi](https://open.spotify.com/album/6bv0t7P61aPvCjgbqMZk0V) | 2:59 |
 | 21 | [Shoo\-B\-Doop and Cop Him](https://open.spotify.com/track/1MCh9c35k0NAxE81oCrHU1) | [Betty Davis](https://open.spotify.com/artist/5Ryxgm3uLvQOsw4H5ZpHDn) | [They Say I'm Different](https://open.spotify.com/album/6cnH06Wxjb2QqUHFa8PEwc) | 3:56 |
 | 22 | [Immigrant Song \- Remaster](https://open.spotify.com/track/78lgmZwycJ3nzsdgmPPGNx) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin III \(Remaster\)](https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut) | 2:26 |
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3ZjVksUlfu.md) - [plain]
 | 25 | [Cars \- Remastered 2009](https://open.spotify.com/track/4zejia18gcGShkkzdDvhWE) | [Gary Numan](https://open.spotify.com/artist/5KQMtyPE8DCQNUzoNqlEsE) | [The Pleasure Principle \(Expanded Edition\)](https://open.spotify.com/album/1VBLoSl4Nl8Z90xfEfGWPb) | 3:57 |
 | 26 | [Lola \- 2020 Stereo Remaster](https://open.spotify.com/track/6oric9Y2FfCpI0VFWYIi69) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Chart Toppers](https://open.spotify.com/album/6LhXcT9U6igze3sgwi1sbJ) | 4:01 |
 | 27 | [Wuthering Heights](https://open.spotify.com/track/5YSI1311X8t31PBjkBG4CZ) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Kick Inside](https://open.spotify.com/album/5NKTuBLCYhN0OwqFiGdXd1) | 4:29 |
-| 28 | [Brown Sugar \- 2009 Remaster](https://open.spotify.com/track/61UuPxxYUvacEH6SHIK3sU) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Sticky Fingers \(Remastered\)](https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz) | 3:48 |
+| 28 | [Brown Sugar \- 2009 Remaster](https://open.spotify.com/track/1ibeJPfM8Q3LccjV6oI6S1) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Sticky Fingers \(Deluxe\)](https://open.spotify.com/album/5t59EkgjG0CEwuiCCQRkOj) | 3:48 |
 | 29 | [Dreaming](https://open.spotify.com/track/5pEbciwaLIMTcMukwkG2ZY) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Zack and Miri Make a Porno](https://open.spotify.com/album/3yPpR5yh8FX8qVzVDW9YUr) | 3:04 |
-| 30 | [Cool For Cats](https://open.spotify.com/track/7sPEGLqEhyHDLGrz4EeLm2) | [Squeeze](https://open.spotify.com/artist/6Jrj26oAY96EEC2lqC6fua) | [Cool For Cats](https://open.spotify.com/album/6BXnJVcUbSdC6E82xouYK5) | 3:39 |
+| 30 | [Cool For Cats](https://open.spotify.com/track/2PnI2FGErcOb0a0ZeiKKb5) | [Squeeze](https://open.spotify.com/artist/6Jrj26oAY96EEC2lqC6fua) | [Cool For Cats](https://open.spotify.com/album/05jmfc8CqPDSckD935qrWy) | 3:39 |
 | 31 | [Anti Love Song](https://open.spotify.com/track/3zMVsONH6RZv528HANVm3Y) | [Betty Davis](https://open.spotify.com/artist/5Ryxgm3uLvQOsw4H5ZpHDn) | [Betty Davis](https://open.spotify.com/album/6fNx8ioP99WoRiLidrqrmz) | 4:32 |
 | 32 | [Rock Lobster](https://open.spotify.com/track/5pR4w1oeOsVCM2U6eGQlkP) | [The B\-52's](https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN) | [70s Rock](https://open.spotify.com/album/5TmYQSSXVV80f9qD6yZGKU) | 6:49 |
 | 33 | [Lucky Number](https://open.spotify.com/track/0kqFlkmfvKzQ4QSmx5PZ1A) | [Lene Lovich](https://open.spotify.com/artist/1yFJnlNMiBUBplMaOP5CMX) | [Stateless](https://open.spotify.com/album/5qz97wcq8cv3LRLpJr9noR) | 2:51 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3ZjVksUlfu.md) - [plain]
 | 84 | [I Want More](https://open.spotify.com/track/20n6XLqBw6ueKUHdV4dJKJ) | [CAN](https://open.spotify.com/artist/4l8xPGtl6DHR2uvunqrl8r) | [I Want More](https://open.spotify.com/album/1E8r8NHBlALGddsaU8vmcZ) | 3:34 |
 | 85 | [My Sex](https://open.spotify.com/track/4uq0OuAtODFKsEMO478Lt8) | [Ultravox](https://open.spotify.com/artist/3iUjRVvYCsMfz7tuAQtBDI) | [Ultravox!](https://open.spotify.com/album/09H76Y3uRhgJSu7u5f3e6f) | 3:02 |
 
-Snapshot ID: `MTY2NDQ2NzI4OCwwMDAwMDAwMDI3MWU1NGExNDljM2NkMjk5Mzc0NmU0ODJjYWIxZGE3`
+Snapshot ID: `MTY2NDQ2NzI4OCwwMDAwMDAwMDJhYmE4MDExZDM3MGFmNDNiZmY1M2RjNzAwMjZmZTk3`

@@ -675,7 +675,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 186041,
       "name": "Denadie",
       "url": "https://open.spotify.com/track/6JuEz0iSyCHLCMUOM0hsY2"
@@ -1165,7 +1165,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 241194,
       "name": "Escapar",
       "url": "https://open.spotify.com/track/4ipgJtYhCTrsGnkL1XRRET"
@@ -1748,6 +1748,24 @@
     },
     {
       "album": {
+        "name": "La Verdad",
+        "url": "https://open.spotify.com/album/5liRXIIe5NXzgqR1c1qvjn"
+      },
+      "artists": [
+        {
+          "name": "Elis Paprika",
+          "url": "https://open.spotify.com/artist/7LVz7xRg5YcXb6bD5JZRtk"
+        }
+      ],
+      "date_added": "2022-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204878,
+      "name": "La Verdad",
+      "url": "https://open.spotify.com/track/41e6XAUwzXXu9CcKqYtOoa"
+    },
+    {
+      "album": {
         "name": "La Voz de Iemanya",
         "url": "https://open.spotify.com/album/5kZeMUMDGm2b6rgBvCRpHN"
       },
@@ -1983,7 +2001,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 256200,
       "name": "Madera Metal",
       "url": "https://open.spotify.com/track/6WeLCsoNpcUdW1NlRsyju2"
@@ -2359,6 +2377,24 @@
       "duration_ms": 164885,
       "name": "No Hay Santos",
       "url": "https://open.spotify.com/track/3cxNVuq0RAy0zymBZ8u4FG"
+    },
+    {
+      "album": {
+        "name": "Rock Pa' Gozar Vol. 3",
+        "url": "https://open.spotify.com/album/7bloZmH0zOUczXixny0cg9"
+      },
+      "artists": [
+        {
+          "name": "Kenny y los El\u00e9ctricos",
+          "url": "https://open.spotify.com/artist/4HvW0NM2QwnXGZXxLRuW1N"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227066,
+      "name": "No Huyas De Mi",
+      "url": "https://open.spotify.com/track/1WLzRkCyCF1muqSyrr1jcs"
     },
     {
       "album": {
@@ -3659,6 +3695,24 @@
       "duration_ms": 220249,
       "name": "Tu Caminar",
       "url": "https://open.spotify.com/track/0AikKCO53aUEgxvpjkNK9b"
+    },
+    {
+      "album": {
+        "name": "TUYA",
+        "url": "https://open.spotify.com/album/1EHUwCiRmMRNNADQsKuiIB"
+      },
+      "artists": [
+        {
+          "name": "Alejandra Guzman",
+          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
+        }
+      ],
+      "date_added": "2022-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174336,
+      "name": "Tuya",
+      "url": "https://open.spotify.com/track/22mKcpHMIMg2bmeBMnfaz0"
     },
     {
       "album": {

@@ -4,13 +4,14 @@
 
 > Our editorial picks for Folk's best of 2021 in Canada\. Cover: Ocie Elliott
 
-129 songs - 7 hr 56 min - [published](https://open.spotify.com/playlist/6iR9FAQx2rscTZFHnWNECo)
+130 songs - 8 hr 0 min - [published](https://open.spotify.com/playlist/6iR9FAQx2rscTZFHnWNECo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Troubled Mind](https://open.spotify.com/track/3onPL6KjCPM0K8wZkDeU7y) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Cape Elizabeth](https://open.spotify.com/album/7rAXvbNQSxnAnVl3taoMLj) | 3:01 | 2021-12-01 |  |
+| [All the Time](https://open.spotify.com/track/2ZEfUihEUaHyBEgutzEJeC) | [Mattie Leon](https://open.spotify.com/artist/3hJTvfT20mDphCF1yJsnC0) | [Hallelujah \(I Found You\)](https://open.spotify.com/album/6UAMIJESFsj1L8YfFP9Px7) | 3:33 | 2021-12-01 |  |
 | [All The Time](https://open.spotify.com/track/31owmdBKTNs0rAZzs5mWtb) | [Mattie Leon](https://open.spotify.com/artist/3hJTvfT20mDphCF1yJsnC0) | [In Natural Light](https://open.spotify.com/album/2UWI6DUp9mY9nOAZJBZVxO) | 3:33 | 2021-12-01 | 2022-07-29 |
-| [All the Time](https://open.spotify.com/track/7IkvPENG8NFXxptGXv4koL) | [Mattie Leon](https://open.spotify.com/artist/3hJTvfT20mDphCF1yJsnC0) | [In Natural Light](https://open.spotify.com/album/2rXqhLEZgf7uESXnpAhlMY) | 3:33 | 2021-12-01 |  |
+| [All the Time](https://open.spotify.com/track/7IkvPENG8NFXxptGXv4koL) | [Mattie Leon](https://open.spotify.com/artist/3hJTvfT20mDphCF1yJsnC0) | [In Natural Light](https://open.spotify.com/album/2rXqhLEZgf7uESXnpAhlMY) | 3:33 | 2021-12-01 | 2022-11-12 |
 | [All This Time Running](https://open.spotify.com/track/4qrVC09Ud9a0B2hpwT1EGV) | [Craig Cardiff](https://open.spotify.com/artist/2VMxEtyyo7Jg3jmVDQPHwx) | [All This Time Running](https://open.spotify.com/album/71FWp5uo78GM4C7ZseK2O9) | 3:05 | 2021-12-01 |  |
 | [Always Alone](https://open.spotify.com/track/2Iams73705r7Q06aSSm0XA) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [This Time I See It](https://open.spotify.com/album/5GKghelnfdwT1Xnzc4RF2O) | 4:41 | 2021-12-01 | 2022-07-29 |
 | [Always Alone](https://open.spotify.com/track/5xHsqsOBaQ7cFKeaJ5xK6x) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN), [John Raham](https://open.spotify.com/artist/4O69V0EOEfhStOBvJtHtXO) | [This Time I See It](https://open.spotify.com/album/3VGWawHYkkcHTBftEfD5Ev) | 4:41 | 2021-12-01 |  |

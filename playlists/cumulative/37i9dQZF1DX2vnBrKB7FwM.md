@@ -4,7 +4,7 @@
 
 > Porque Colombia es tierra de MCs, Rap y Hip\-Hop\. Foto: La Etnnia
 
-85 songs - 4 hr 50 min - [published](https://open.spotify.com/playlist/3zmU4gkPj0G6pq0uLvvBh3)
+86 songs - 4 hr 53 min - [published](https://open.spotify.com/playlist/3zmU4gkPj0G6pq0uLvvBh3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,8 @@
 | [La Caza de Nariño](https://open.spotify.com/track/5MeIi5WpWhvCmRAqn0ODgm) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [La Caza de Nariño](https://open.spotify.com/album/5hMkRwGOLJN3nQxJ4BkJwW) | 3:41 | 2022-02-25 |  |
 | [La Nada](https://open.spotify.com/track/1RqeXjIirY9nD9rypTvU2G) | [Tsh Sudaca](https://open.spotify.com/artist/6kfPkheKpxesJXLqA4h7jO) | [La Nada](https://open.spotify.com/album/5ziIa95wsIA1lUiDEpm2ad) | 3:06 | 2022-07-15 |  |
 | [La Nada](https://open.spotify.com/track/3EXRgZtRcCgcjpCBj5Qi5Z) | [Tsh Sudaca](https://open.spotify.com/artist/6kfPkheKpxesJXLqA4h7jO) | [La Nada](https://open.spotify.com/album/4sLgEndvHbNyqRL0B6YB84) | 3:06 | 2022-02-25 | 2022-07-29 |
-| [La Típica \(2.018\)](https://open.spotify.com/track/2blFjWGr603ReBmTLFTsAM) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [En Letras Mayúsculas \(Reedición 2018\)](https://open.spotify.com/album/6gp7h46R7nNNYBlN04dEQY) | 2:51 | 2022-07-15 |  |
+| [La Típica](https://open.spotify.com/track/03TwdngKfoPWtXEHwkhid0) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [La Típica](https://open.spotify.com/album/16TDlWh7XgEuclEP0waHxh) | 2:51 | 2022-07-15 |  |
+| [La Típica \(2.018\)](https://open.spotify.com/track/2blFjWGr603ReBmTLFTsAM) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [En Letras Mayúsculas \(Reedición 2018\)](https://open.spotify.com/album/6gp7h46R7nNNYBlN04dEQY) | 2:51 | 2022-07-15 | 2022-11-12 |
 | [La Típica \(2.018\)](https://open.spotify.com/track/2sM2CvBHegavYx0LUCWZrx) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [En Letras Mayúsculas \(Reedición 2018\)](https://open.spotify.com/album/1n2cyFuubJtLlIyQWjtNEi) | 2:51 | 2022-02-25 | 2022-07-29 |
 | [La Vida Es Solo Una](https://open.spotify.com/track/5CwIPEZLQWwYB8tKruccJm) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [La Vida Es Solo Una](https://open.spotify.com/album/6nMhlrzDLRGETUIxjpqXiU) | 3:04 | 2022-02-25 |  |
 | [Mal Ejemplo](https://open.spotify.com/track/1IwdJy0egbXlhmY6dmTU9j) | [Gordo Sarkasmus](https://open.spotify.com/artist/38N7geKwv6xd2fESw199BD), [Granuja](https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS), [ZetaZeta](https://open.spotify.com/artist/5Njezu4xqAnJWdyzDf5gW7) | [Mal Ejemplo](https://open.spotify.com/album/26dgbqThI76gzXN2lTAcfK) | 3:11 | 2022-02-25 |  |

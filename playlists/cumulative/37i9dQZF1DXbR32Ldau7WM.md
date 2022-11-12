@@ -4,7 +4,7 @@
 
 > The biggest rock artists in Japan right now! Cover: Ulfuls\(ウルフルズ\)
 
-386 songs - 1 day 1 hr 21 min - [published](https://open.spotify.com/playlist/58cr9qiZRcBgGXeUmGq6P3)
+387 songs - 1 day 1 hr 24 min - [published](https://open.spotify.com/playlist/58cr9qiZRcBgGXeUmGq6P3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,9 +170,10 @@
 | [Running In The Dark \- Image Song for Arknights mobile game](https://open.spotify.com/track/3D46cXfwM4id5YfQbpTvKA) | [Monkey Majik](https://open.spotify.com/artist/6U2dgcU46Iy9pF3RQBj5hG) | [Running In The Dark \(Image Song for Arknights mobile game\)](https://open.spotify.com/album/16X7XTvj35X5fVmE8d8jnR) | 3:40 | 2022-10-29 |  |
 | [S.O.S\. \[Share One Sorrow\] \- feat.Tokyo Tanaka & Jean\-Ken Johnny](https://open.spotify.com/track/0WiJhz5KOuIjtXkjo5Ckt2) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Tokyo Tanaka](https://open.spotify.com/artist/1CCYrklxWCwWnOEm2mn4zC), [Jean\-Ken Johnny](https://open.spotify.com/artist/1Bk56nx76xE4nP01ZhDsPE) | [S.O.S\. \[Share One Sorrow\] \(feat.Tokyo Tanaka & Jean\-Ken Johnny\)](https://open.spotify.com/album/0dCx3huClCtbq4KZvi4SRr) | 4:02 | 2022-05-12 | 2022-07-28 |
 | [Save Yourself](https://open.spotify.com/track/1B04DTxiZUA5QW9Zxe1IEJ) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Save Yourself](https://open.spotify.com/album/00h2yL9yVQdjxPqC3n3Qqw) | 3:17 | 2022-06-23 | 2022-07-29 |
+| [Save Yourself](https://open.spotify.com/track/2FudXNJ5QUq21NeeMlb3lv) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Next Ex \- Fresh Alt](https://open.spotify.com/album/2x1hYSyeiOp0QvRGFWeDwo) | 3:17 | 2022-11-10 |  |
 | [Save Yourself](https://open.spotify.com/track/5D5fiDX8MhK3lfHJmZZmpt) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Luxury Disease](https://open.spotify.com/album/7bR908SDBENoC7rqC0k4h4) | 3:17 | 2022-09-08 | 2022-11-11 |
 | [Save Yourself \- Japanese Version](https://open.spotify.com/track/2noRPwBUD3h98s09YuxHf9) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Save Yourself](https://open.spotify.com/album/1xs19Gxdqwyb3jfNQlEOUo) | 3:17 | 2022-07-28 | 2022-09-12 |
-| [Save Yourself \- Japanese Version](https://open.spotify.com/track/5e1lq4ACnnVhiQb4g04ehq) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Let Me Let You Go](https://open.spotify.com/album/4DSQT7lIc5Unlz6LoyBPzI) | 3:17 | 2022-11-10 |  |
+| [Save Yourself \- Japanese Version](https://open.spotify.com/track/5e1lq4ACnnVhiQb4g04ehq) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Let Me Let You Go](https://open.spotify.com/album/4DSQT7lIc5Unlz6LoyBPzI) | 3:17 | 2022-11-10 | 2022-11-12 |
 | [Say to Me](https://open.spotify.com/track/4C7blDlsxEUJmTkBFv1bUR) | [LOW IQ 01](https://open.spotify.com/artist/03iXYfVe4ZvZ0Q0dfLxzKc) | [Say to Me](https://open.spotify.com/album/5wcMuNXeFRiaBongYrmhl0) | 5:35 | 2022-09-27 | 2022-10-05 |
 | [Scratch](https://open.spotify.com/track/1ydPcEQXyiTD5FrK4oD7w8) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS), [Koshi Inaba](https://open.spotify.com/artist/0EvnQ89Ry2DPyn2xYAH9Ls) | [Scratch](https://open.spotify.com/album/0OXWfiuTWqxgavDwqPfSLC) | 4:25 | 2022-05-10 | 2022-09-15 |
 | [seasons change](https://open.spotify.com/track/4KmylhamK7Vpzxn0iS1DbZ) | [Small Circle of Friends](https://open.spotify.com/artist/3CJQBC8srg8KknVotylRsC) | [seasons change](https://open.spotify.com/album/1PHKDL7Zf6a4bFdriImVE8) | 3:16 | 2022-05-10 | 2022-07-29 |

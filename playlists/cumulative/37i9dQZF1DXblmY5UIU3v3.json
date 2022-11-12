@@ -235,7 +235,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 165000,
       "name": "Ass Like That",
       "url": "https://open.spotify.com/track/5B5JPM2b9mkgVBYiK3LeaL"
@@ -569,7 +569,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 163304,
       "name": "Catch Me Now",
       "url": "https://open.spotify.com/track/7FLCUEak70Wow8Ewbc4ADU"
@@ -1211,6 +1211,28 @@
       "duration_ms": 135000,
       "name": "Getting High",
       "url": "https://open.spotify.com/track/1d2uBy3sqVEMtO7iCWkbHQ"
+    },
+    {
+      "album": {
+        "name": "Go Away",
+        "url": "https://open.spotify.com/album/04ATbfkuAkKlxYv9mirGHr"
+      },
+      "artists": [
+        {
+          "name": "Alieff Green",
+          "url": "https://open.spotify.com/artist/75mrERnQpiYVQ0yg7ObPLe"
+        },
+        {
+          "name": "Rio Bakoo",
+          "url": "https://open.spotify.com/artist/0baOAtqOc46DHJmE2v4w1c"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177715,
+      "name": "Go Away",
+      "url": "https://open.spotify.com/track/1U6rcpjOhEDWTMRMamZkQ1"
     },
     {
       "album": {
@@ -2048,6 +2070,24 @@
     },
     {
       "album": {
+        "name": "My Skyline",
+        "url": "https://open.spotify.com/album/7v9aoGWmGNRFwgwHQTr6ya"
+      },
+      "artists": [
+        {
+          "name": "Obzkure",
+          "url": "https://open.spotify.com/artist/2A0Vr6jboum6XRvVfMD3Tl"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144028,
+      "name": "My Skyline",
+      "url": "https://open.spotify.com/track/6EXYMLHG0Xhe1aNFphyayQ"
+    },
+    {
+      "album": {
         "name": "VIRAL",
         "url": "https://open.spotify.com/album/38AXCejmMct40fRrQhYPoZ"
       },
@@ -2235,7 +2275,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 175200,
       "name": "Optimus Prime",
       "url": "https://open.spotify.com/track/2ZxvQG2j2ylkQWGYyShM98"
@@ -2635,6 +2675,24 @@
       "duration_ms": 158446,
       "name": "RVBLE & DVST",
       "url": "https://open.spotify.com/track/2CiCGSQjwQS9dweknIs91G"
+    },
+    {
+      "album": {
+        "name": "SAMURAI",
+        "url": "https://open.spotify.com/album/01u5x15oJm1a8uKVN3pP7T"
+      },
+      "artists": [
+        {
+          "name": "FanEOne",
+          "url": "https://open.spotify.com/artist/6kQPCQf0NTmbj6hwim0vkT"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169721,
+      "name": "SAMURAI",
+      "url": "https://open.spotify.com/track/3yUDo3vkOE5XI0W5k6A1vI"
     },
     {
       "album": {

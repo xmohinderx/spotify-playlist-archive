@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1oAkEHKtiU.md) - [plain]
 
 > Los hermanos Durán, López y Basualto nos dejaron estos temas desde Concepción al mundo..\. ¡Grande Los Bunkers!
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,811 likes - 66 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,887 likes - 66 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Bailando Solo](https://open.spotify.com/track/1wGNjZQoO4Ac5zotF3aZTb) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [La Velocidad de la Luz](https://open.spotify.com/album/7AihR949bXqDLbDfg5EZfG) | 4:27 |
+| 1 | [Bailando Solo](https://open.spotify.com/track/5AmJkJE6LvQvIUDe4yj4Pm) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Bailando Solo](https://open.spotify.com/album/0OnzKh81TkfvqqJX3JZCfm) | 4:27 |
 | 2 | [No Me Hables de sufrir](https://open.spotify.com/track/7y8UFkYgOei3yc3EG3u8BX) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Grandes Exitos](https://open.spotify.com/album/4nTCqGfi86F9LLJd9ozdDJ) | 3:54 |
-| 3 | [Nada Nuevo Bajo El Sol](https://open.spotify.com/track/6hBfF54vgIAdtb5kbbvt75) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Barrio Estación](https://open.spotify.com/album/28VjwDx4sL5GJRBUgOlJ7v) | 4:46 |
+| 3 | [Nada Nuevo Bajo El Sol](https://open.spotify.com/track/76dlIPH0zzkTpH2HRwyDnL) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [¡Dame Rock!](https://open.spotify.com/album/7nZYV7oimC52ufvzJv2OfU) | 4:46 |
 | 4 | [Ahora Que No Estas](https://open.spotify.com/track/5CZCd2o6GTom7hnWajd488) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Nacional Records Esenciales: Chile](https://open.spotify.com/album/2PSuiUqwHHlW8C993bssMB) | 5:51 |
 | 5 | [Ven Aquí](https://open.spotify.com/track/13eBG1b8pd7PxlEAAChfHO) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Vida De Perros](https://open.spotify.com/album/76HflPZm3Uo1WHlRQIPKEC) | 3:37 |
 | 6 | [Si Estás Pensando Mal de Mí](https://open.spotify.com/track/1ToDgrH9HTOkxRD6irXDD4) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [La Velocidad de la Luz](https://open.spotify.com/album/7AihR949bXqDLbDfg5EZfG) | 4:26 |
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1oAkEHKtiU.md) - [plain]
 | 12 | [Las Cosas Que Cambié y Dejé For Ti](https://open.spotify.com/track/1YCUqK1BYwLMUmZIP7JRxp) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Grandes Exitos](https://open.spotify.com/album/4nTCqGfi86F9LLJd9ozdDJ) | 3:14 |
 | 13 | [Una Nube Cuelga Sobre Mí](https://open.spotify.com/track/2MSJ50aq8QDUguqpb49FR8) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Atardeceres Rockeros](https://open.spotify.com/album/27Pv1OjUBDl6opcY1yDzOu) | 3:54 |
 | 14 | [La Exiliada del Sur](https://open.spotify.com/track/6OE6ZLMe8RXLUuzYdQQm1T) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Grandes Exitos](https://open.spotify.com/album/4nTCqGfi86F9LLJd9ozdDJ) | 4:11 |
-| 15 | [Ángel Para Un Final](https://open.spotify.com/track/6MV5epXO1r9krAVGSDJz5L) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Música Libre](https://open.spotify.com/album/4ZIg4y7DVpIBYJAOHKXsx0) | 4:03 |
-| 16 | [Llueve Sobre La Ciudad](https://open.spotify.com/track/6ftHPJyEHGqMaml3ZEwPm1) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Vida De Perros](https://open.spotify.com/album/76HflPZm3Uo1WHlRQIPKEC) | 3:56 |
+| 15 | [Ángel Para Un Final](https://open.spotify.com/track/7mxb50sHPN1QwWdOYVwpT3) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [HITS CHILENOS](https://open.spotify.com/album/0uXHKJeHNrDT8ljHUFpxz5) | 4:03 |
+| 16 | [Llueve Sobre La Ciudad](https://open.spotify.com/track/11LGmfLrLWLjEdtpHrYY2J) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Nacional Records Esenciales: Chile](https://open.spotify.com/album/2PSuiUqwHHlW8C993bssMB) | 3:56 |
 | 17 | [Llueve sobre la ciudad](https://open.spotify.com/track/5ZtePsjXwleIBXXS4UBl2o) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [En Vivo](https://open.spotify.com/album/177h7SmvoBDOpzeI3V7qcY) | 3:56 |
 | 18 | [Te Vistes y Te Vas](https://open.spotify.com/track/5tz0gxE0XJgPEEVpKAJh3Q) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Vida De Perros](https://open.spotify.com/album/76HflPZm3Uo1WHlRQIPKEC) | 3:30 |
 | 19 | [Entre Mis Brazos](https://open.spotify.com/track/1hM3r9AKtL3XZwPqRHcCMG) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Los Bunkers](https://open.spotify.com/album/2q3hCmiutB5Q1myHXBEpZV) | 5:02 |
@@ -44,12 +44,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1oAkEHKtiU.md) - [plain]
 | 34 | [Desperdíciame](https://open.spotify.com/track/3O8hKcAqHvmdZbGBHvkUsP) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [La Velocidad de la Luz](https://open.spotify.com/album/7AihR949bXqDLbDfg5EZfG) | 6:53 |
 | 35 | [Sábado](https://open.spotify.com/track/1MZfEEGOGdbqhATwhef2m6) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [La Velocidad de la Luz](https://open.spotify.com/album/7AihR949bXqDLbDfg5EZfG) | 3:38 |
 | 36 | [Sueño Con Serpientes](https://open.spotify.com/track/1mD64rMFuAOUfzU3WIzUCT) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Tiempos Rockeros](https://open.spotify.com/album/7hD7sehxKwFUTOkicq3R2F) | 4:25 |
-| 37 | [Andén](https://open.spotify.com/track/5u5CEsc2MTX5MrnRNhlXzr) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Barrio Estación](https://open.spotify.com/album/28VjwDx4sL5GJRBUgOlJ7v) | 4:12 |
+| 37 | [Andén](https://open.spotify.com/track/7eIWPqGO4t3PVtiPYEELdS) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Rock in Chile](https://open.spotify.com/album/4RQKozjqNrJMi9psRtWWbS) | 4:13 |
 | 38 | [Canción de Lejos](https://open.spotify.com/track/2zpX1lQX2uMQtZu9OrLyUB) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Canción De Lejos](https://open.spotify.com/album/6mEv2ZSIvmq8hMtnBDPpCK) | 4:08 |
 | 39 | [Culpable](https://open.spotify.com/track/2EVknDXzYBubG2COE7hMxI) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Grandes Exitos](https://open.spotify.com/album/4nTCqGfi86F9LLJd9ozdDJ) | 3:25 |
 | 40 | [La Velocidad de la Luz](https://open.spotify.com/track/4zaLmlOC7t1QJSCZHq9IfJ) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [La Velocidad de la Luz](https://open.spotify.com/album/7AihR949bXqDLbDfg5EZfG) | 3:52 |
-| 41 | [Que Ya Viví, Que Te Vas](https://open.spotify.com/track/4eTzYXTqDOpAFD6eyhakvb) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Música Libre](https://open.spotify.com/album/4ZIg4y7DVpIBYJAOHKXsx0) | 3:37 |
-| 42 | [Al Final De Este Viaje En La Vida](https://open.spotify.com/track/4PkVa3T0Y0KS3piaCzOl62) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT), [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX) | [Música Libre](https://open.spotify.com/album/4ZIg4y7DVpIBYJAOHKXsx0) | 3:21 |
+| 41 | [Que Ya Viví, Que Te Vas](https://open.spotify.com/track/01nvmWlFU5DfeEGwyTutDt) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Transportate al recital](https://open.spotify.com/album/7dREN2bYKCvgWqcgbZfsrY) | 3:37 |
+| 42 | [Al Final De Este Viaje En La Vida](https://open.spotify.com/track/7v0rn13tEGudJf9AxUhWH7) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT), [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX) | [Vibras Indie](https://open.spotify.com/album/7FNYEh2I6CAE0hHPmONpwZ) | 3:23 |
 | 43 | [Tu](https://open.spotify.com/track/2JDMtGpoF2DyI8SgiwMHNJ) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Vida De Perros](https://open.spotify.com/album/76HflPZm3Uo1WHlRQIPKEC) | 3:05 |
 | 44 | [Ahora Que No Estás \- En Vivo](https://open.spotify.com/track/3yoEVNxsoWxTNAtQE3THWv) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Ahora Que No Estás](https://open.spotify.com/album/3pgK6tM2kqeKSBh0ADiqKd) | 9:09 |
 | 45 | [Nada Es Igual](https://open.spotify.com/track/7niEic2atQVHSzfc2eau3s) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Vida De Perros](https://open.spotify.com/album/76HflPZm3Uo1WHlRQIPKEC) | 3:56 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1oAkEHKtiU.md) - [plain]
 | 65 | [El día en Que Dejaste de Fingir](https://open.spotify.com/track/2fzn3EaklnRkKiWsKpLtfE) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [La Velocidad de la Luz](https://open.spotify.com/album/7AihR949bXqDLbDfg5EZfG) | 3:44 |
 | 66 | [Nada Más De Mi](https://open.spotify.com/track/3ccqnu4sNRcyeRUW1HxvA6) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Vida De Perros](https://open.spotify.com/album/76HflPZm3Uo1WHlRQIPKEC) | 3:13 |
 
-Snapshot ID: `MTY0NzI3OTEyMCwwMDAwMDAwMGJiMjc4MjFkNjBlNDIyNjU4ODY2MmNiODIwNWUxY2Q0`
+Snapshot ID: `MTY0NzI3OTEyMCwwMDAwMDAwMGUxNDI1ZmY3NGU2YTUzYmMzNDg2YWQ2YjBkMTg2NWI3`

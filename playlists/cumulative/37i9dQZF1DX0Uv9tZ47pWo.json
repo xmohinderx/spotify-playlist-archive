@@ -150,6 +150,24 @@
     },
     {
       "album": {
+        "name": "Title (Deluxe)",
+        "url": "https://open.spotify.com/album/5W98Ab4VvQEuFEE4TIe5fE"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187920,
+      "name": "All About That Bass",
+      "url": "https://open.spotify.com/track/5jE48hhRu8E6zBDPRSkEq7"
+    },
+    {
+      "album": {
         "name": "All I Know So Far",
         "url": "https://open.spotify.com/album/0uVOhoZbkmOIM4kxJFT2IH"
       },
@@ -427,7 +445,7 @@
       ],
       "date_added": "2021-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 197866,
       "name": "Beautiful People (feat. Khalid)",
       "url": "https://open.spotify.com/track/4evmHXcjt3bTUHD1cvny97"
@@ -653,6 +671,24 @@
       "duration_ms": 217653,
       "name": "Call You Mine (feat. Bebe Rexha)",
       "url": "https://open.spotify.com/track/05CwHjIk71RXVU40boRMnR"
+    },
+    {
+      "album": {
+        "name": "Circus (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2tve5DGwub1TtbX1khPX5j"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192360,
+      "name": "Circus",
+      "url": "https://open.spotify.com/track/7jk7gqyEonmVVYahZN5zhW"
     },
     {
       "album": {
@@ -1191,7 +1227,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 178146,
       "name": "good 4 u",
       "url": "https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG"
@@ -1234,6 +1270,24 @@
     },
     {
       "album": {
+        "name": "Cuz I Love You (Super Deluxe)",
+        "url": "https://open.spotify.com/album/7hBV0wo7cDHZQLYnuOJ312"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159735,
+      "name": "Good as Hell",
+      "url": "https://open.spotify.com/track/6KgBpzTuTRPebChN0VTyzV"
+    },
+    {
+      "album": {
         "name": "Good as Hell (feat. Ariana Grande) [Remix]",
         "url": "https://open.spotify.com/album/1k1HuvFs562Z3CCiSYhtc1"
       },
@@ -1267,7 +1321,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 232720,
       "name": "Happy - From \"Despicable Me 2\"",
       "url": "https://open.spotify.com/track/60nZcImufyMA1MKQY3dcCH"
@@ -1713,7 +1767,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 162398,
       "name": "Kings & Queens",
       "url": "https://open.spotify.com/track/7a53HqqArd4b9NF4XAmlbI"
@@ -1885,7 +1939,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 205946,
       "name": "Let Me Love You",
       "url": "https://open.spotify.com/track/0lYBSQXN6rCTvUZvg9S0lU"
@@ -2153,7 +2207,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 231906,
       "name": "Malibu",
       "url": "https://open.spotify.com/track/1UZOjK1BwmwWU14Erba9CZ"
@@ -2361,7 +2415,7 @@
       ],
       "date_added": "2021-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 148960,
       "name": "My Heart Goes (La Di Da) (feat. Topic)",
       "url": "https://open.spotify.com/track/4xMbBESczlHPUO8QeYi56p"
@@ -2853,10 +2907,36 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 223546,
       "name": "Roar",
       "url": "https://open.spotify.com/track/27tNWlhdAryQY04Gb2ZhUI"
+    },
+    {
+      "album": {
+        "name": "Rockabye (feat. Sean Paul & Anne-Marie)",
+        "url": "https://open.spotify.com/album/3meZFplbMmji648oWUNEfQ"
+      },
+      "artists": [
+        {
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+        },
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        },
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251088,
+      "name": "Rockabye (feat. Sean Paul & Anne-Marie)",
+      "url": "https://open.spotify.com/track/5knuzwU65gJK7IF5yJsuaW"
     },
     {
       "album": {
@@ -3380,6 +3460,28 @@
     },
     {
       "album": {
+        "name": "Sweet Dreams",
+        "url": "https://open.spotify.com/album/5WV1czZI9hnO6REVS6yKHR"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138819,
+      "name": "Sweet Dreams",
+      "url": "https://open.spotify.com/track/4uDhts78RdwIDjEqPrYVKp"
+    },
+    {
+      "album": {
         "name": "Sweet Melody",
         "url": "https://open.spotify.com/album/5GGIgiGtxIgcVJQnsKQW94"
       },
@@ -3727,7 +3829,7 @@
       ],
       "date_added": "2021-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 139563,
       "name": "Wasted Love (feat. Lagique)",
       "url": "https://open.spotify.com/track/2pPO9YecZimmuVQfIzfV6U"
@@ -3895,7 +3997,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 181672,
       "name": "Without You (feat. Sandro Cavazza)",
       "url": "https://open.spotify.com/track/6Pgkp4qUoTmJIPn7ReaGxL"
@@ -3917,7 +4019,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 214480,
       "name": "Work from Home (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/4tCtwWceOPWzenK2HAIJSb"

@@ -4,7 +4,7 @@
 
 > Food sing\-a\-longs for breakfast, lunch, or snack time.
 
-126 songs - 4 hr 45 min - [published](https://open.spotify.com/playlist/13RbIJFt6BWK5QypeKN401)
+127 songs - 4 hr 47 min - [published](https://open.spotify.com/playlist/13RbIJFt6BWK5QypeKN401)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,8 @@
 | [I'd Eat It Anyway](https://open.spotify.com/track/4pNSUTNUmVicSriWSCoGDY) | [Imagination Movers](https://open.spotify.com/artist/3nkUcLzl9v6cIxFI6cvTeD) | [Good Ideas](https://open.spotify.com/album/1i8TZqSzAGr0IfHRhvkP1b) | 2:25 | 2022-04-05 |  |
 | [Ice Cream \(Scoopy Doo\)](https://open.spotify.com/track/0H1pkHp6A8mfCHsuf6s90j) | [The MikMaks](https://open.spotify.com/artist/1cL6b5xIECGYkaelSuRalF) | [Ice Cream \(Scoopy Doo\)](https://open.spotify.com/album/28BjXfGmMdf2geHjPVezfZ) | 2:33 | 2022-04-05 |  |
 | [Jelly Beans](https://open.spotify.com/track/3UsXljh1OzBOjRie7kHRVV) | [The Hipwaders](https://open.spotify.com/artist/1bl9sV1dYYUeY1XRYn1LQs) | [The Hipwaders](https://open.spotify.com/album/09F5V1USMyqra4XFaWF5Ep) | 1:46 | 2022-04-05 |  |
-| [Jelly On A Plate](https://open.spotify.com/track/76urTUQpOsUmi9nM8fqI5y) | [Pre\-Teens](https://open.spotify.com/artist/53y0JudctNqoyg3uMVPTka) | [Song Time](https://open.spotify.com/album/1r8aZcuQ83GGK2FlFpu6JE) | 2:06 | 2022-04-05 |  |
+| [Jelly On A Plate](https://open.spotify.com/track/76urTUQpOsUmi9nM8fqI5y) | [Pre\-Teens](https://open.spotify.com/artist/53y0JudctNqoyg3uMVPTka) | [Song Time](https://open.spotify.com/album/1r8aZcuQ83GGK2FlFpu6JE) | 2:06 | 2022-04-05 | 2022-11-12 |
+| [Jelly On A Plate](https://open.spotify.com/track/343RCyqoTAPfdqRDjY1sVw) | [The Birthday Bunch](https://open.spotify.com/artist/0DLUrbFqDNVA1G5c3Dq3Ot) | [Happy Birthday Travis](https://open.spotify.com/album/40EzyLoHEobRZgEBFmJxzg) | 2:06 | 2022-04-05 |  |
 | [Jelly On A Plate](https://open.spotify.com/track/5V2sffHrOaupHL5gZ7IJaR) | [The Kids Band](https://open.spotify.com/artist/06Hm0MteCKQgT0fkP1iJyz) | [Ultimate Kids Collection](https://open.spotify.com/album/5iiEm8Wg3dkoLk9rI9bxBf) | 2:07 | 2022-04-05 | 2022-07-29 |
 | [Ketchup\(I like it, I love it\)](https://open.spotify.com/track/7GhPe9v9lvnNdug8aLYCLO) | [Dad Jokes Duo](https://open.spotify.com/artist/4alPoOoReavkZAMBR5E4y0) | [Are We There Yet?](https://open.spotify.com/album/1WKVF97SZHVb7fAVkVHsoz) | 2:51 | 2022-04-05 |  |
 | [Leftovers](https://open.spotify.com/track/6OoxPCCi2pICdzt4GngJMd) | [Koo Koo Kanga Roo](https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb), [Slug](https://open.spotify.com/artist/7chNNfvkeVylUbmpQHzfxf) | [Celebrate This!](https://open.spotify.com/album/5hukeI5hHKtT4qgMkL0Im6) | 2:49 | 2022-04-05 |  |

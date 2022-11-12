@@ -170,6 +170,24 @@
     },
     {
       "album": {
+        "name": "BOYS",
+        "url": "https://open.spotify.com/album/3VtKNel48q9NVpK6vJ66qB"
+      },
+      "artists": [
+        {
+          "name": "Aidan Martin",
+          "url": "https://open.spotify.com/artist/3JKrNnhjEv9h3fyKhQpylb"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175500,
+      "name": "BOYS",
+      "url": "https://open.spotify.com/track/3eOIjdurn3lxeOMn90L8Fn"
+    },
+    {
+      "album": {
         "name": "Good Things",
         "url": "https://open.spotify.com/album/440oB4r9sCDlk3Le7Jzlwe"
       },

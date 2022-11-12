@@ -560,6 +560,28 @@
     },
     {
       "album": {
+        "name": "Carols Without Words",
+        "url": "https://open.spotify.com/album/2vsG13X4JWVDyx7kXua8HJ"
+      },
+      "artists": [
+        {
+          "name": "John Metcalfe",
+          "url": "https://open.spotify.com/artist/6s8AUvcmf2fp0Kh7PctPnd"
+        },
+        {
+          "name": "Cliff Masterson",
+          "url": "https://open.spotify.com/artist/0cUh2BRVeZhzTX9dfQBx3e"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251333,
+      "name": "It Came Upon A Midnight Clear",
+      "url": "https://open.spotify.com/track/6MAC5m83LjGzldqDBvKJ5q"
+    },
+    {
+      "album": {
         "name": "Christmas - Plain & Simple II",
         "url": "https://open.spotify.com/album/5iE7AiFYmKjsdUEAcntqX4"
       },

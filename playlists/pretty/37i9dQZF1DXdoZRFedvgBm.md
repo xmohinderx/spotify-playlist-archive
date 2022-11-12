@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdoZRFedvgBm.md) - [plain]
 
 > This Is PSY\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,037 likes - 106 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,089 likes - 106 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdoZRFedvgBm.md) - [plain]
 | 37 | [SING \- PSYmix](https://open.spotify.com/track/4PkPUo26XvMPjrWWj2IAJ0) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [PSY 7TH ALBUM](https://open.spotify.com/album/1aHmoh8Iog2xqwVk9A77yc) | 3:57 |
 | 38 | [Blue Frog \(Feat\. G\-DRAGON\)](https://open.spotify.com/track/05mUYNwDJBeUdWv94njtDN) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [PSY SIX RULES, Pt\. 1](https://open.spotify.com/album/0Nq7k5hqml23K1VlrEnLNR) | 3:27 |
 | 39 | [Passionate Goodbye \(Feat\. Sung Si Kyung\)](https://open.spotify.com/track/6tesMK7YkPOig4yPffZNEP) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [PSY SIX RULES, Pt\. 1](https://open.spotify.com/album/0Nq7k5hqml23K1VlrEnLNR) | 3:28 |
-| 40 | [Gangnam Style \(강남스타일\)](https://open.spotify.com/track/03UrZgTINDqvnUMbbIMhql) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh) | [Gangnam Style \(강남스타일\)](https://open.spotify.com/album/0ZjxizLeMyFEjR27JIvD99) | 3:39 |
+| 40 | [Gangnam Style \(강남스타일\)](https://open.spotify.com/track/0iWlsODzRa4Vrm4wBTaW7h) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh) | [Kids Dance Party Music](https://open.spotify.com/album/3IJxyZ07BQS9q5oCZScKV2) | 3:39 |
 | 41 | [Year of 77 \(Feat\. Leessang & Kim Jinpyo\)](https://open.spotify.com/track/6qxg0oUIoVV4cL5sxvE1kY) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [Leessang](https://open.spotify.com/artist/0JGN9XIqm3vfg7hhPHjExI), [Kim Jin Pyo](https://open.spotify.com/artist/57YbQhFBBDksLzX08lqVnw) | [PSY SIX RULES, Pt\. 1](https://open.spotify.com/album/0Nq7k5hqml23K1VlrEnLNR) | 4:39 |
 | 42 | [What Would Have Been? \(Feat\. Lena Park\)](https://open.spotify.com/track/5Kbpcd3hOqu4ZRAJNAjIcg) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [Lena Park](https://open.spotify.com/artist/7MNyflLAWpaH0EPw1fdORD) | [PSY SIX RULES, Pt\. 1](https://open.spotify.com/album/0Nq7k5hqml23K1VlrEnLNR) | 4:03 |
 | 43 | [Never Say Goodbye \(Feat\. Yoon Do Hyun\)](https://open.spotify.com/track/0LBkGgFmXNJepZzOzjGFfY) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [Yoon Do Hyun](https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB) | [PSY SIX RULES, Pt\. 1](https://open.spotify.com/album/0Nq7k5hqml23K1VlrEnLNR) | 3:21 |
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdoZRFedvgBm.md) - [plain]
 | 105 | [Gangnam Style \(강남스타일\) \- Diplo Remix \(Instrumental\)](https://open.spotify.com/track/627xBFaO4u6mgNkYakPYfG) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Gangnam Style \(강남스타일\)](https://open.spotify.com/album/3V9e90jaA4vyV7dkO8dwND) | 3:27 |
 | 106 | [Gangnam Style \(강남스타일\) \- Instrumental](https://open.spotify.com/track/7cuBwxBkmy3njuq50Df9x8) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh) | [Gangnam Style \(강남스타일\)](https://open.spotify.com/album/3V9e90jaA4vyV7dkO8dwND) | 3:40 |
 
-Snapshot ID: `MTY1MTIyMzczOCwwMDAwMDAwMDRiMGVhMWEyZGYzNjMxMzQ4MTE0ZjUyODIwM2I2NGE1`
+Snapshot ID: `MTY1MTIyMzczOCwwMDAwMDAwMDVjZjVlNzc5YzcxMDE1YjU0MjliYWYyODQ1ODIxMzk2`

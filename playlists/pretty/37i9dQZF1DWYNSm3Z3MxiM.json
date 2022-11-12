@@ -1,12 +1,12 @@
 {
   "description": "Anthems only. For an extra rep, an extra set or an extra mile.",
-  "num_followers": 626384,
+  "num_followers": 626652,
   "original_name": "Classic Rock Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjU2MzQxMCwwMDAwMDAwMGI1NmRkMTYxMjhhYWFkZTg1NTg4N2M5MjEzOWFkYmE1",
+  "snapshot_id": "MTY2MjU2MzQxMCwwMDAwMDAwMDRlYTU5NDAwYjliMjYxNzIxOGYxYjkzZWFjNTNlYTE4",
   "tracks": [
     {
       "added_at": "2021-12-14 20:27:19",
@@ -203,22 +203,6 @@
     {
       "added_at": "2021-12-14 20:27:19",
       "album": {
-        "name": "Slippery When Wet",
-        "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
-      },
-      "artists": [
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        }
-      ],
-      "duration_ms": 308666,
-      "name": "Wanted Dead Or Alive",
-      "url": "https://open.spotify.com/track/0oerlffJSzhRVvtDfLcp3N"
-    },
-    {
-      "added_at": "2021-12-14 20:27:19",
-      "album": {
         "name": "Full Moon Fever",
         "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
       },
@@ -251,22 +235,6 @@
     {
       "added_at": "2021-12-14 20:27:19",
       "album": {
-        "name": "Tattoo You (2009 Re-Mastered)",
-        "url": "https://open.spotify.com/album/15XNBzVWARPMlu0sEbfBjJ"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 213066,
-      "name": "Start Me Up - Remastered 2009",
-      "url": "https://open.spotify.com/track/7HKez549fwJQDzx3zLjHKC"
-    },
-    {
-      "added_at": "2021-12-14 20:27:19",
-      "album": {
         "name": "Layla And Other Assorted Love Songs (Remastered 2010)",
         "url": "https://open.spotify.com/album/5iIWnMgvSM8uEBwXKsPcXM"
       },
@@ -283,18 +251,18 @@
     {
       "added_at": "2021-12-14 20:27:19",
       "album": {
-        "name": "Back In Black",
-        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
+        "name": "Tattoo You (2009 Re-Mastered)",
+        "url": "https://open.spotify.com/album/15XNBzVWARPMlu0sEbfBjJ"
       },
       "artists": [
         {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
         }
       ],
-      "duration_ms": 210173,
-      "name": "You Shook Me All Night Long",
-      "url": "https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo"
+      "duration_ms": 213066,
+      "name": "Start Me Up - Remastered 2009",
+      "url": "https://open.spotify.com/track/7HKez549fwJQDzx3zLjHKC"
     },
     {
       "added_at": "2021-12-14 20:27:19",
@@ -315,18 +283,18 @@
     {
       "added_at": "2021-12-14 20:27:19",
       "album": {
-        "name": "Paranoid (Remaster)",
-        "url": "https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7"
+        "name": "Back In Black",
+        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
       },
       "artists": [
         {
-          "name": "Black Sabbath",
-          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
         }
       ],
-      "duration_ms": 168405,
-      "name": "Paranoid - 2012 - Remaster",
-      "url": "https://open.spotify.com/track/1Y373MqadDRtclJNdnUXVc"
+      "duration_ms": 210173,
+      "name": "You Shook Me All Night Long",
+      "url": "https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo"
     },
     {
       "added_at": "2021-12-14 20:27:19",
@@ -363,6 +331,22 @@
     {
       "added_at": "2021-12-14 20:27:19",
       "album": {
+        "name": "Paranoid (Remaster)",
+        "url": "https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7"
+      },
+      "artists": [
+        {
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+        }
+      ],
+      "duration_ms": 168405,
+      "name": "Paranoid - 2012 - Remaster",
+      "url": "https://open.spotify.com/track/1Y373MqadDRtclJNdnUXVc"
+    },
+    {
+      "added_at": "2021-12-14 20:27:19",
+      "album": {
         "name": "Frontiers",
         "url": "https://open.spotify.com/album/2EFUNYmwxe0AOGxBORrfaw"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 323706,
       "name": "Separate Ways (Worlds Apart)",
       "url": "https://open.spotify.com/track/4ECNtOnqzxutZkXP4TE3n3"
+    },
+    {
+      "added_at": "2021-12-14 20:27:19",
+      "album": {
+        "name": "Little Queen",
+        "url": "https://open.spotify.com/album/1LaeNhiUpL3X6N0LcFvuDF"
+      },
+      "artists": [
+        {
+          "name": "Heart",
+          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
+        }
+      ],
+      "duration_ms": 261933,
+      "name": "Barracuda",
+      "url": "https://open.spotify.com/track/4KfSdst7rW39C0sfhArdrz"
     },
     {
       "added_at": "2022-01-04 20:30:57",
@@ -395,18 +395,18 @@
     {
       "added_at": "2021-12-14 20:27:19",
       "album": {
-        "name": "Little Queen",
-        "url": "https://open.spotify.com/album/1LaeNhiUpL3X6N0LcFvuDF"
+        "name": "Led Zeppelin IV (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK"
       },
       "artists": [
         {
-          "name": "Heart",
-          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
         }
       ],
-      "duration_ms": 261933,
-      "name": "Barracuda",
-      "url": "https://open.spotify.com/track/4KfSdst7rW39C0sfhArdrz"
+      "duration_ms": 295386,
+      "name": "Black Dog - Remaster",
+      "url": "https://open.spotify.com/track/3qT4bUD1MaWpGrTwcvguhb"
     },
     {
       "added_at": "2021-12-14 20:27:19",
@@ -427,18 +427,18 @@
     {
       "added_at": "2021-12-14 20:27:19",
       "album": {
-        "name": "Led Zeppelin IV (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK"
+        "name": "A Night At The Opera (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/6X9k3hSsvQck2OfKYdBbXr"
       },
       "artists": [
         {
-          "name": "Led Zeppelin",
-          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
         }
       ],
-      "duration_ms": 295386,
-      "name": "Black Dog - Remaster",
-      "url": "https://open.spotify.com/track/3qT4bUD1MaWpGrTwcvguhb"
+      "duration_ms": 354320,
+      "name": "Bohemian Rhapsody - Remastered 2011",
+      "url": "https://open.spotify.com/track/7tFiyTwD0nx5a1eklYtX2J"
     },
     {
       "added_at": "2021-12-14 20:27:19",
@@ -489,22 +489,6 @@
       "url": "https://open.spotify.com/track/0C80GCp0mMuBzLf3EAXqxv"
     },
     {
-      "added_at": "2021-12-14 20:27:19",
-      "album": {
-        "name": "A Night At The Opera (Deluxe Remastered Version)",
-        "url": "https://open.spotify.com/album/6X9k3hSsvQck2OfKYdBbXr"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 354320,
-      "name": "Bohemian Rhapsody - Remastered 2011",
-      "url": "https://open.spotify.com/track/7tFiyTwD0nx5a1eklYtX2J"
-    },
-    {
       "added_at": "2022-06-29 15:30:44",
       "album": {
         "name": "Moving Pictures (2011 Remaster)",
@@ -519,22 +503,6 @@
       "duration_ms": 276880,
       "name": "Tom Sawyer",
       "url": "https://open.spotify.com/track/3QZ7uX97s82HFYSmQUAN1D"
-    },
-    {
-      "added_at": "2022-01-04 20:30:57",
-      "album": {
-        "name": "Girls, Girls, Girls (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2KT9tWALjIRjnaGYDYPg3k"
-      },
-      "artists": [
-        {
-          "name": "M\u00f6tley Cr\u00fce",
-          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
-        }
-      ],
-      "duration_ms": 270426,
-      "name": "Girls, Girls, Girls",
-      "url": "https://open.spotify.com/track/549Go7a66CX6k523uK9kUv"
     },
     {
       "added_at": "2021-12-14 20:27:19",
@@ -619,22 +587,6 @@
     {
       "added_at": "2021-12-14 20:27:19",
       "album": {
-        "name": "1984 (Remastered)",
-        "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
-      },
-      "artists": [
-        {
-          "name": "Van Halen",
-          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
-        }
-      ],
-      "duration_ms": 282746,
-      "name": "Hot for Teacher - 2015 Remaster",
-      "url": "https://open.spotify.com/track/6QDbGdbJ57Mtkflsg42WV5"
-    },
-    {
-      "added_at": "2021-12-14 20:27:19",
-      "album": {
         "name": "Eliminator",
         "url": "https://open.spotify.com/album/5LMGAYhn2ywaxGZdtmXGpw"
       },
@@ -647,6 +599,22 @@
       "duration_ms": 241080,
       "name": "Gimme All Your Lovin'",
       "url": "https://open.spotify.com/track/0OBwxFLu6Yj61s2OagYbgY"
+    },
+    {
+      "added_at": "2021-12-14 20:27:19",
+      "album": {
+        "name": "1984 (Remastered)",
+        "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
+      },
+      "artists": [
+        {
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        }
+      ],
+      "duration_ms": 282746,
+      "name": "Hot for Teacher - 2015 Remaster",
+      "url": "https://open.spotify.com/track/6QDbGdbJ57Mtkflsg42WV5"
     },
     {
       "added_at": "2022-06-29 15:30:44",
@@ -731,22 +699,6 @@
     {
       "added_at": "2022-06-29 15:30:44",
       "album": {
-        "name": "Physical Graffiti (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/26tH0kjUhkxBEd3ipGkx3Y"
-      },
-      "artists": [
-        {
-          "name": "Led Zeppelin",
-          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
-        }
-      ],
-      "duration_ms": 517125,
-      "name": "Kashmir - Remaster",
-      "url": "https://open.spotify.com/track/6Vjk8MNXpQpi0F4BefdTyq"
-    },
-    {
-      "added_at": "2022-06-29 15:30:44",
-      "album": {
         "name": "4 (Expanded)",
         "url": "https://open.spotify.com/album/2Pw51hAGvWpTA3AYl2WVuu"
       },
@@ -759,22 +711,6 @@
       "duration_ms": 259800,
       "name": "Juke Box Hero",
       "url": "https://open.spotify.com/track/00qOE7OjRl0BpYiCiweZB2"
-    },
-    {
-      "added_at": "2021-12-14 20:27:19",
-      "album": {
-        "name": "Van Halen (Remastered)",
-        "url": "https://open.spotify.com/album/7DdEbYFPKTZ8KB4z6L4UnQ"
-      },
-      "artists": [
-        {
-          "name": "Van Halen",
-          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
-        }
-      ],
-      "duration_ms": 214960,
-      "name": "Runnin' with the Devil - 2015 Remaster",
-      "url": "https://open.spotify.com/track/3KhF2YiNpJvGpfiCW45R6D"
     },
     {
       "added_at": "2022-05-31 17:29:22",
@@ -807,6 +743,38 @@
       "duration_ms": 217613,
       "name": "The Stroke - Remastered",
       "url": "https://open.spotify.com/track/52KvuGmgcgRdrLMXOtda0E"
+    },
+    {
+      "added_at": "2021-12-14 20:27:19",
+      "album": {
+        "name": "Van Halen (Remastered)",
+        "url": "https://open.spotify.com/album/7DdEbYFPKTZ8KB4z6L4UnQ"
+      },
+      "artists": [
+        {
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        }
+      ],
+      "duration_ms": 214960,
+      "name": "Runnin' with the Devil - 2015 Remaster",
+      "url": "https://open.spotify.com/track/3KhF2YiNpJvGpfiCW45R6D"
+    },
+    {
+      "added_at": "2022-06-29 15:30:44",
+      "album": {
+        "name": "Physical Graffiti (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/26tH0kjUhkxBEd3ipGkx3Y"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "duration_ms": 517125,
+      "name": "Kashmir - Remaster",
+      "url": "https://open.spotify.com/track/6Vjk8MNXpQpi0F4BefdTyq"
     },
     {
       "added_at": "2021-12-14 20:27:19",
@@ -891,22 +859,6 @@
     {
       "added_at": "2021-12-14 20:27:19",
       "album": {
-        "name": "Led Zeppelin",
-        "url": "https://open.spotify.com/album/3ycjBixZf7S3WpC5WZhhUK"
-      },
-      "artists": [
-        {
-          "name": "Led Zeppelin",
-          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
-        }
-      ],
-      "duration_ms": 166266,
-      "name": "Good Times Bad Times - 1993 Remaster",
-      "url": "https://open.spotify.com/track/0QwZfbw26QeUoIy82Z2jYp"
-    },
-    {
-      "added_at": "2021-12-14 20:27:19",
-      "album": {
         "name": "Pyromania",
         "url": "https://open.spotify.com/album/5ab6RIlAGwbVAacV1JIr2d"
       },
@@ -919,6 +871,22 @@
       "duration_ms": 247962,
       "name": "Photograph",
       "url": "https://open.spotify.com/track/18URo35acNKRTHfEdjTcGn"
+    },
+    {
+      "added_at": "2021-12-14 20:27:19",
+      "album": {
+        "name": "Van Halen (Remastered)",
+        "url": "https://open.spotify.com/album/7DdEbYFPKTZ8KB4z6L4UnQ"
+      },
+      "artists": [
+        {
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        }
+      ],
+      "duration_ms": 227800,
+      "name": "Ain't Talkin' 'Bout Love - 2015 Remaster",
+      "url": "https://open.spotify.com/track/6fybp4N6eW3bsFAvARxyVe"
     },
     {
       "added_at": "2021-12-14 20:27:19",
@@ -939,6 +907,22 @@
     {
       "added_at": "2021-12-14 20:27:19",
       "album": {
+        "name": "Led Zeppelin",
+        "url": "https://open.spotify.com/album/3ycjBixZf7S3WpC5WZhhUK"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "duration_ms": 166266,
+      "name": "Good Times Bad Times - 1993 Remaster",
+      "url": "https://open.spotify.com/track/0QwZfbw26QeUoIy82Z2jYp"
+    },
+    {
+      "added_at": "2021-12-14 20:27:19",
+      "album": {
         "name": "Blackout",
         "url": "https://open.spotify.com/album/6x75r5C54z1quun86Bbqbr"
       },
@@ -951,22 +935,6 @@
       "duration_ms": 237466,
       "name": "No One Like You",
       "url": "https://open.spotify.com/track/26fZwf1ImE4aUJ4XaqOkUg"
-    },
-    {
-      "added_at": "2021-12-14 20:27:19",
-      "album": {
-        "name": "Van Halen (Remastered)",
-        "url": "https://open.spotify.com/album/7DdEbYFPKTZ8KB4z6L4UnQ"
-      },
-      "artists": [
-        {
-          "name": "Van Halen",
-          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
-        }
-      ],
-      "duration_ms": 227800,
-      "name": "Ain't Talkin' 'Bout Love - 2015 Remaster",
-      "url": "https://open.spotify.com/track/6fybp4N6eW3bsFAvARxyVe"
     },
     {
       "added_at": "2021-12-14 20:27:19",
@@ -1047,6 +1015,38 @@
       "duration_ms": 296466,
       "name": "The Spirit Of Radio",
       "url": "https://open.spotify.com/track/4e9hUiLsN4mx61ARosFi7p"
+    },
+    {
+      "added_at": "2021-12-14 20:27:19",
+      "album": {
+        "name": "Damn The Torpedoes (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 201693,
+      "name": "Refugee",
+      "url": "https://open.spotify.com/track/4mcZYzoGwPRDdhWVlygiHf"
+    },
+    {
+      "added_at": "2021-12-14 20:27:19",
+      "album": {
+        "name": "Van Halen II (Remastered)",
+        "url": "https://open.spotify.com/album/3w93PGkmXAmEAdJVvmPbzI"
+      },
+      "artists": [
+        {
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        }
+      ],
+      "duration_ms": 188083,
+      "name": "Dance the Night Away - 2015 Remaster",
+      "url": "https://open.spotify.com/track/4RS9PmtHQe7I0o5fEeweOY"
     }
   ],
   "unique_name": "Classic Rock Workout",

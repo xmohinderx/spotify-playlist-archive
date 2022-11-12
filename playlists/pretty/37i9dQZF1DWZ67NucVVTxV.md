@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ67NucVVTxV.md) - [plain]
 
 > Grind day motivation
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,367 likes - 80 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,435 likes - 80 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ67NucVVTxV.md) - [plain]
 | 27 | [Time](https://open.spotify.com/track/5KwDovDFkhSaBuRlcVke0x) | [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Time](https://open.spotify.com/album/5cJW97FT5Uo34WKxkkuOJk) | 2:45 |
 | 28 | [Propeller \(feat\. Dave & BNXN\)](https://open.spotify.com/track/4A7sSA10D35HQUNrSOl5Zo) | [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Propeller \(feat\. Dave & BNXN\)](https://open.spotify.com/album/1HpHd9hLNy77kZx5w07xqD) | 3:24 |
 | 29 | [Stop Nonsense](https://open.spotify.com/track/2PLjbUapab2cpATtNjvXmf) | [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk) | [Stop Nonsense](https://open.spotify.com/album/48gsJqhB5us0lFC37ImxxO) | 2:37 |
-| 30 | [Finesse](https://open.spotify.com/track/4Gasn91fsCefnN8zM5GjA8) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Finesse](https://open.spotify.com/album/4QEC4uzBJJfLVv2bD337g1) | 2:35 |
+| 30 | [Finesse](https://open.spotify.com/track/6H4z94Rq4Gz7SzL7VmpGRR) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Top Hits UK](https://open.spotify.com/album/49d0Ii0oCrS9BshhcpLRhr) | 2:35 |
 | 31 | [Way Too Big](https://open.spotify.com/track/4rlaH7EbXL55bj9pvp57nP) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Twice As Tall](https://open.spotify.com/album/218CJKDCszsQQj7Amk7vIu) | 3:20 |
 | 32 | [Second Sermon \- Remix](https://open.spotify.com/track/574QNMkQGedluLOgr275s9) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Second Sermon \(Remix\)](https://open.spotify.com/album/2YaqeghqhsIi2u9fQjGBsq) | 3:14 |
 | 33 | [Try](https://open.spotify.com/track/5p8e2CxX9frZepKoc8E9Z4) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Try](https://open.spotify.com/album/5dfCER3jaE7kbvSZNUOnCS) | 2:13 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ67NucVVTxV.md) - [plain]
 | 79 | [Stacks](https://open.spotify.com/track/2EbyVRYATEEvyc6T23wrlO) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Stacks](https://open.spotify.com/album/13RRd735LR5ZlRK6RzKS4u) | 2:57 |
 | 80 | [Non Stop](https://open.spotify.com/track/4frYjcru01K8WkQZYc3KqX) | [Kaptain](https://open.spotify.com/artist/7ML0FG7erVlQvCsfktO4EH), [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [Non Stop](https://open.spotify.com/album/5MJX3wuUeSpFqqI3aRpIAn) | 2:50 |
 
-Snapshot ID: `MTY2NzU0NzM5MywwMDAwMDAwMGI5NzMzNmE5NTQwN2FiMDJmODc5ZTM2NzRlZjJkMDk5`
+Snapshot ID: `MTY2NzU0NzM5MywwMDAwMDAwMDYxZmJlNTQxNWZjMGZiMTY1NWUyYTRkNDkyMDE1NmMy`

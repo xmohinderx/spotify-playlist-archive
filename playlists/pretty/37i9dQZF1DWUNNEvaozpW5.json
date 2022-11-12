@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del rock de aqu\u00ed, como Fito.",
-  "num_followers": 526984,
+  "num_followers": 527165,
   "original_name": "Rock Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODEyMTIwMCwwMDAwMDAwMDRlNGYxMWFlYzQxM2VjOWQzZTVmZmEwZGY0NzRkZWQ1",
+  "snapshot_id": "MTY2ODEyMTIwMCwwMDAwMDAwMDgzZDI3YjU2YjQ3ODBhNjg3YzQxNDllYzEzNTdiMTQy",
   "tracks": [
     {
       "added_at": "2022-11-10 23:00:00",
@@ -63,8 +63,8 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "La Flaca",
-        "url": "https://open.spotify.com/album/1O5kJTerozuI2WLgzvIz2m"
+        "name": "En la vida conoc\u00ed mujer igual a la Flaca: 20 a\u00f1os (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/46HlKlgX5YULMqWAs5yazT"
       },
       "artists": [
         {
@@ -74,7 +74,7 @@
       ],
       "duration_ms": 288053,
       "name": "El lado oscuro",
-      "url": "https://open.spotify.com/track/7DwKN1lzYui7iKUmRvzOU1"
+      "url": "https://open.spotify.com/track/7nP9BSAUePje126iRzmwLA"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -247,8 +247,8 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "Las 100 mejores canciones del Pop Espa\u00f1ol, Vol. 3",
-        "url": "https://open.spotify.com/album/1gf951espzPzb9yxLsxP7T"
+        "name": "Pop Espa\u00f1ol De Los 90",
+        "url": "https://open.spotify.com/album/5Qk1y41EXPWr98u1TsH35Y"
       },
       "artists": [
         {
@@ -257,8 +257,8 @@
         }
       ],
       "duration_ms": 218160,
-      "name": "Como un burro amarrado en la puerta del baile - 2008 Remastered Version",
-      "url": "https://open.spotify.com/track/6IMIx38wIqHoLTdGcBwyEC"
+      "name": "Como Un Burro Amarrado En La Puerta Del Baile - Remastered",
+      "url": "https://open.spotify.com/track/2igMoFouNmVPGsjsIgXYgR"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -739,6 +739,30 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
+        "name": "Plan fatal (feat. Juancho Sidecars, Sidecars)",
+        "url": "https://open.spotify.com/album/4SADYirwzSPh8Z0vtot42I"
+      },
+      "artists": [
+        {
+          "name": "Dani Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC"
+        },
+        {
+          "name": "Sidecars",
+          "url": "https://open.spotify.com/artist/1OxGzd3ks0V8CVWtXT1VMj"
+        },
+        {
+          "name": "Juancho Sidecars",
+          "url": "https://open.spotify.com/artist/0SbrR0n1dENC05Dg3Wt5wH"
+        }
+      ],
+      "duration_ms": 223263,
+      "name": "Plan fatal (feat. Juancho Sidecars, Sidecars)",
+      "url": "https://open.spotify.com/track/3WJYbZVCqG5EygdjCiBLmh"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
         "name": "Por la boca vive el pez",
         "url": "https://open.spotify.com/album/5iW5yzlJsGBIfsemMr8v8y"
       },
@@ -767,30 +791,6 @@
       "duration_ms": 208026,
       "name": "Chica de ayer",
       "url": "https://open.spotify.com/track/4chpfrjIqrOPshlDU4ZrKe"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
-        "name": "Plan fatal (feat. Juancho Sidecars, Sidecars)",
-        "url": "https://open.spotify.com/album/4SADYirwzSPh8Z0vtot42I"
-      },
-      "artists": [
-        {
-          "name": "Dani Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC"
-        },
-        {
-          "name": "Sidecars",
-          "url": "https://open.spotify.com/artist/1OxGzd3ks0V8CVWtXT1VMj"
-        },
-        {
-          "name": "Juancho Sidecars",
-          "url": "https://open.spotify.com/artist/0SbrR0n1dENC05Dg3Wt5wH"
-        }
-      ],
-      "duration_ms": 223263,
-      "name": "Plan fatal (feat. Juancho Sidecars, Sidecars)",
-      "url": "https://open.spotify.com/track/3WJYbZVCqG5EygdjCiBLmh"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "La Flaca",
-        "url": "https://open.spotify.com/album/1O5kJTerozuI2WLgzvIz2m"
-      },
-      "artists": [
-        {
-          "name": "Jarabe De Palo",
-          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
-        }
-      ],
-      "duration_ms": 261200,
-      "name": "La flaca",
-      "url": "https://open.spotify.com/track/0ll9JAIrM3NVBOMl45sxSX"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
         "name": "La Rosa De Los Vientos",
         "url": "https://open.spotify.com/album/51ohZ4F4nZ40R8eGyK7tZT"
       },
@@ -875,22 +859,6 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "Insurreccion (En Directo)",
-        "url": "https://open.spotify.com/album/5focapBHI0lsefUUz46XxG"
-      },
-      "artists": [
-        {
-          "name": "El \u00daltimo De La Fila",
-          "url": "https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I"
-        }
-      ],
-      "duration_ms": 134200,
-      "name": "Insurreccion (En Directo)",
-      "url": "https://open.spotify.com/track/4SafR3a8senZ2r65hZWMKN"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
         "name": "Muy Deficiente",
         "url": "https://open.spotify.com/album/6nSNoI4zgtfMm1H9NXI4r1"
       },
@@ -903,6 +871,22 @@
       "duration_ms": 250093,
       "name": "El roce de tu cuerpo",
       "url": "https://open.spotify.com/track/3EPd9riN2R8Zjl6GkrxxGl"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "Insurreccion (En Directo)",
+        "url": "https://open.spotify.com/album/5focapBHI0lsefUUz46XxG"
+      },
+      "artists": [
+        {
+          "name": "El \u00daltimo De La Fila",
+          "url": "https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I"
+        }
+      ],
+      "duration_ms": 134200,
+      "name": "Insurreccion (En Directo)",
+      "url": "https://open.spotify.com/track/4SafR3a8senZ2r65hZWMKN"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -971,22 +955,6 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "La ley innata",
-        "url": "https://open.spotify.com/album/1GYJUlbVr5FuNU7awwMGzu"
-      },
-      "artists": [
-        {
-          "name": "Extremoduro",
-          "url": "https://open.spotify.com/artist/3bgsNtcf5d5h9jbQbohfBK"
-        }
-      ],
-      "duration_ms": 462013,
-      "name": "Dulce introducci\u00f3n al caos",
-      "url": "https://open.spotify.com/track/1aDeaDooAd79p2sdImGG4a"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
         "name": "Sin Trampa Ni Cart\u00f3n",
         "url": "https://open.spotify.com/album/45ctqDxKNe2QVYVvq0dGRR"
       },
@@ -1007,6 +975,22 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
+        "name": "La ley innata",
+        "url": "https://open.spotify.com/album/1GYJUlbVr5FuNU7awwMGzu"
+      },
+      "artists": [
+        {
+          "name": "Extremoduro",
+          "url": "https://open.spotify.com/artist/3bgsNtcf5d5h9jbQbohfBK"
+        }
+      ],
+      "duration_ms": 462013,
+      "name": "Dulce introducci\u00f3n al caos",
+      "url": "https://open.spotify.com/track/1aDeaDooAd79p2sdImGG4a"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
         "name": "Coces al Aire 1997-2007",
         "url": "https://open.spotify.com/album/3mfnHHROaUAzdzmTZHI1YQ"
       },
@@ -1023,22 +1007,6 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "Historia de una Banda (En Directo)",
-        "url": "https://open.spotify.com/album/5yxWQnpSWZdXeiZ6YPOOlu"
-      },
-      "artists": [
-        {
-          "name": "El \u00daltimo De La Fila",
-          "url": "https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I"
-        }
-      ],
-      "duration_ms": 230779,
-      "name": "Aviones Plateados - En Directo",
-      "url": "https://open.spotify.com/track/2fqKBa80qJ7yhucBwLXZF5"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
         "name": "Devil Came to Me",
         "url": "https://open.spotify.com/album/31cccvot053zKCeLHnnic1"
       },
@@ -1051,6 +1019,22 @@
       "duration_ms": 234280,
       "name": "Serenade",
       "url": "https://open.spotify.com/track/4tzi4VV1vCTZsT4SEKQIKJ"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "Historia de una Banda (En Directo)",
+        "url": "https://open.spotify.com/album/5yxWQnpSWZdXeiZ6YPOOlu"
+      },
+      "artists": [
+        {
+          "name": "El \u00daltimo De La Fila",
+          "url": "https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I"
+        }
+      ],
+      "duration_ms": 230779,
+      "name": "Aviones Plateados - En Directo",
+      "url": "https://open.spotify.com/track/2fqKBa80qJ7yhucBwLXZF5"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -1123,6 +1107,22 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
+        "name": "Heroes De Los 80",
+        "url": "https://open.spotify.com/album/6Lml9AoEtkTD7BW6J57wzd"
+      },
+      "artists": [
+        {
+          "name": "Loquillo",
+          "url": "https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr"
+        }
+      ],
+      "duration_ms": 293533,
+      "name": "El ritmo del garaje",
+      "url": "https://open.spotify.com/track/020aPMXlwYFpPB7cI8Kuc1"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
         "name": "Historia de una Banda (En Directo)",
         "url": "https://open.spotify.com/album/5yxWQnpSWZdXeiZ6YPOOlu"
       },
@@ -1135,22 +1135,6 @@
       "duration_ms": 217379,
       "name": "Mar Antiguo - En Directo",
       "url": "https://open.spotify.com/track/0kaXTiic9ZOOAxBc1cmO01"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
-        "name": "28.000 pu\u00f1aladas",
-        "url": "https://open.spotify.com/album/2yMi2lDSI8eZ3GND3TBirR"
-      },
-      "artists": [
-        {
-          "name": "Marea",
-          "url": "https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ"
-        }
-      ],
-      "duration_ms": 234106,
-      "name": "La rueca",
-      "url": "https://open.spotify.com/track/3C3EQeacSrIsdYdPl921qk"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -1171,18 +1155,18 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "Heroes De Los 80",
-        "url": "https://open.spotify.com/album/6Lml9AoEtkTD7BW6J57wzd"
+        "name": "28.000 pu\u00f1aladas",
+        "url": "https://open.spotify.com/album/2yMi2lDSI8eZ3GND3TBirR"
       },
       "artists": [
         {
-          "name": "Loquillo",
-          "url": "https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr"
+          "name": "Marea",
+          "url": "https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ"
         }
       ],
-      "duration_ms": 293533,
-      "name": "El ritmo del garaje",
-      "url": "https://open.spotify.com/track/020aPMXlwYFpPB7cI8Kuc1"
+      "duration_ms": 234106,
+      "name": "La rueca",
+      "url": "https://open.spotify.com/track/3C3EQeacSrIsdYdPl921qk"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -1259,6 +1243,22 @@
       "duration_ms": 231000,
       "name": "Corazon de Tango",
       "url": "https://open.spotify.com/track/5Hep3JI0YhpNNpbcurrvSS"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "28.000 pu\u00f1aladas",
+        "url": "https://open.spotify.com/album/2yMi2lDSI8eZ3GND3TBirR"
+      },
+      "artists": [
+        {
+          "name": "Marea",
+          "url": "https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ"
+        }
+      ],
+      "duration_ms": 305253,
+      "name": "Que se joda el viento",
+      "url": "https://open.spotify.com/track/35RZlC2of95tgErjy8BtVx"
     }
   ],
   "unique_name": "Rock Espa\u00f1ol",

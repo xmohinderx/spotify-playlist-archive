@@ -4,7 +4,7 @@
 
 > Instrumental guitar shreddery\. Cover: Polyphia
 
-107 songs - 8 hr 11 min - [published](https://open.spotify.com/playlist/0bu5PNgzpzDIKLJOSeiugj)
+109 songs - 8 hr 17 min - [published](https://open.spotify.com/playlist/0bu5PNgzpzDIKLJOSeiugj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [The Answer](https://open.spotify.com/track/1ez3IST5sbHJsHXhzefpDR) | [Richie Kotzen](https://open.spotify.com/artist/6nYo7m5cO64bANRvilwVBb) | [Slow](https://open.spotify.com/album/5F5w7O6boIDy3lKnrzxXNP) | 1:16 | 2021-05-04 |  |
 | [The Roaring Twenties](https://open.spotify.com/track/7jrR6S8gfJyVrWZ8K5FmsB) | [Maarten Ouweneel](https://open.spotify.com/artist/4tZfjyeyjqlORFxtCYJdjG) | [The Roaring Twenties](https://open.spotify.com/album/6Sy81CHsix5Idl3jkXs5sw) | 4:58 | 2022-04-08 |  |
 | [Theme from a Perfect World](https://open.spotify.com/track/5s25dl6bXuRn6nyGJMgwe5) | [Andy Timmons](https://open.spotify.com/artist/1Yt0NXI2k1f0y884jJduBj) | [Theme from a Perfect World](https://open.spotify.com/album/62bvGtckemXfkTyTs0sFbi) | 7:26 | 2021-05-04 |  |
+| [Together](https://open.spotify.com/track/23R5kepMliUvCaq5hsug04) | [Sterfry](https://open.spotify.com/artist/2ZRvR99Cg42zMNIfEnP5HK), [Go Yama](https://open.spotify.com/artist/4Gbw8LGu071GAshE7dqqum), [Jason Leech](https://open.spotify.com/artist/1RPNr9u1LyyIjFVrXdIq1G) | [Together](https://open.spotify.com/album/77ya30BnZ7Kat4yD8KCEN4) | 2:47 | 2022-11-11 |  |
 | [Tumescent](https://open.spotify.com/track/3YrsPyrXHkV5EZnSuyLpCN) | [Steve Lukather](https://open.spotify.com/artist/7vLNQciZsWdkYFCqY2osFM) | [All's Well That Ends Well](https://open.spotify.com/album/0MUOKjKpJOWr9PFwgt4OtN) | 4:02 | 2021-05-04 | 2022-07-29 |
 | [Tumescent](https://open.spotify.com/track/47XVn2ciuhWqHorHdWn89D) | [Steve Lukather](https://open.spotify.com/artist/7vLNQciZsWdkYFCqY2osFM) | [All's Well That Ends Well](https://open.spotify.com/album/37Ge505lCbErq9PAjkKEyd) | 4:02 | 2021-05-04 |  |
 | [Undoing](https://open.spotify.com/track/2TtKJKiZmP54qgcKS56BSy) | [Brett Garsed](https://open.spotify.com/artist/01mN2lVKpGYTgyu1X9Tfas) | [Big Sky](https://open.spotify.com/album/5QmMhhXoF5jvbSD7DTYO0T) | 4:57 | 2021-05-04 | 2022-10-12 |
@@ -112,6 +113,7 @@
 | [Up into the Ether](https://open.spotify.com/track/2LbkjfSzAPl94K0vGWTNDc) | [I Built the Sky](https://open.spotify.com/artist/4URPAJlk8ay7npvNVVLpKN) | [The Zenith Rise](https://open.spotify.com/album/2jP2Jy1vyCKq6ZTBuh5NCk) | 5:01 | 2021-05-04 |  |
 | [Vanish](https://open.spotify.com/track/0HkxndKKtxlNJQzP45YKTM) | [Waxamilion](https://open.spotify.com/artist/7G97Mckd7WAQsjZLUF3vN6), [Bormsen](https://open.spotify.com/artist/5epoZlpLXp6iEoOLPbgkNy) | [Vanish](https://open.spotify.com/album/2mD8Ppr3WZCmV1JeFMi9zB) | 3:51 | 2021-06-11 |  |
 | [What Really Matters](https://open.spotify.com/track/4dIOwzpO6MVitMIDtm5UHC) | [Loida Liuzzi](https://open.spotify.com/artist/4jgaSs1mcow0wJuSXccH9U) | [The Journey](https://open.spotify.com/album/0NPxrtK8Z8vZzEirkcdOMb) | 4:22 | 2022-05-27 |  |
+| [When I Met You](https://open.spotify.com/track/0qLSej5O1b7IviLseDChHk) | [Martin Gonzalez](https://open.spotify.com/artist/5JM8caNvIgCqRWYtLYxxNg), [Lechuga](https://open.spotify.com/artist/2SDcND6iKTDeQtHYV7OmoB) | [Blossoms](https://open.spotify.com/album/2JeTEgwVR74F3OUd1QPhCE) | 3:33 | 2022-11-11 |  |
 | [When She Leaves](https://open.spotify.com/track/2Z29IIOq6xaec3uwJj84Uq) | [TORA](https://open.spotify.com/artist/7wml1FKnTWVEj05OrqIVUg) | [Seventeen](https://open.spotify.com/album/6MjtsP8KTYhasnb1sdrUkZ) | 1:20 | 2022-09-23 |  |
 | [When Words Fail...](https://open.spotify.com/track/3mQ06QA9KD996YAAjb8TBe) | [Andy Timmons](https://open.spotify.com/artist/1Yt0NXI2k1f0y884jJduBj) | [Electric Truth](https://open.spotify.com/album/3jL5Ne8atGXQfBlabEibHE) | 5:09 | 2022-04-01 |  |
 | [À l’avenir](https://open.spotify.com/track/6GhvoVU3BOpqN6bCdID8QP) | [Pete Thorn](https://open.spotify.com/artist/2fGIc4JSHwzCB7HIzATFtV) | [Pete Thorn II](https://open.spotify.com/album/26pXUKMlyQXLjhaHLHUZEe) | 3:31 | 2021-05-04 |  |

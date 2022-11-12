@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU05aHRDUDnL.md) - [plain]
 
 > Put your headphones on and enjoy your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,976 likes - 20 songs - 1 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,000 likes - 20 songs - 1 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU05aHRDUDnL.md) - [plain]
 | 6 | [Toys In The Attic](https://open.spotify.com/track/4pj8ElgSWmmy5LT9a7jb0s) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Toys In The Attic](https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B) | 3:05 |
 | 7 | [Honky Tonk Women \- Mono Version](https://open.spotify.com/track/4z7OCDAAIZxfzQ6qyUSx1O) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Through The Past, Darkly \(Big Hits Vol\. 2\)](https://open.spotify.com/album/1Dsx0X79p4owIdoS0kTYgb) | 2:59 |
 | 8 | [Are You Gonna Go My Way](https://open.spotify.com/track/45Ia1U4KtIjAPPU7Wv1Sea) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Are You Gonna Go My Way](https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ) | 3:31 |
-| 9 | [Jamie's Cryin' \- 2015 Remaster](https://open.spotify.com/track/6MumccCPd4N6qBVdl0gSeM) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [Van Halen \(Remastered\)](https://open.spotify.com/album/7DdEbYFPKTZ8KB4z6L4UnQ) | 3:29 |
+| 9 | [Jamie's Cryin'](https://open.spotify.com/track/511UpUlCkPLy1uiGvLCDdm) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [Howard Stern: Private Parts \(The Album\) \[Music from and Inspired By the Motion Picture\]](https://open.spotify.com/album/66mAZAAcVKgX9NEn99BgUN) | 3:26 |
 | 10 | [Dr\. Feelgood](https://open.spotify.com/track/47IUkJHzpwzTzbJjO4AcoF) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [The Dirt Soundtrack](https://open.spotify.com/album/1FeIa1My6QQ6oQjUYxI36O) | 4:51 |
 | 11 | [Pinball Wizard](https://open.spotify.com/track/6LbbHFEajG9e4m0G3L47c4) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Tommy](https://open.spotify.com/album/5cT7ee1sy2oEbFalP4asS4) | 3:00 |
 | 12 | [Real Wild Child \(Wild One\)](https://open.spotify.com/track/6uNZVE09i7dmhEYHOwo4D7) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Hits 80's & 90's](https://open.spotify.com/album/3NIjbnvM8NKJD6kcL3GIVn) | 3:38 |
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU05aHRDUDnL.md) - [plain]
 | 19 | [Roadhouse Blues \- New Stereo Mix](https://open.spotify.com/track/4VHvZjaD1sdWA7vC4Dm2Au) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Future Starts Here: The Essential Doors Hits](https://open.spotify.com/album/3OIjlStgBVQfGjkiftDAZp) | 4:08 |
 | 20 | [Nothing Else Matters \(Remastered\)](https://open.spotify.com/track/387HyFFE8BOAi7lv9tIUJP) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica \(Remastered Deluxe Box Set\)](https://open.spotify.com/album/12nEtB2TU44qNHt6IsyIrZ) | 6:28 |
 
-Snapshot ID: `MTY0Mzc1NTU5MSwwMDAwMDAwMGQ4NTI1OGFjYjA5Y2FhOTgwMjUyMTJhNjRjOTU1YTVj`
+Snapshot ID: `MTY0Mzc1NTU5MSwwMDAwMDAwMDUwYzdkZTUyNDdmYTk0OWZjNGRhNjJkMDY2ZDExNjhh`

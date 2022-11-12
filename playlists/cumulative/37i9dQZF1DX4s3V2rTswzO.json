@@ -52,6 +52,36 @@
     },
     {
       "album": {
+        "name": "CAT RELAX \u732b\u732b\u653e\u9b06\u97f3\u6a02",
+        "url": "https://open.spotify.com/album/57MMCRcUpJySscWlwWWem5"
+      },
+      "artists": [
+        {
+          "name": "Reynaldo Hahn",
+          "url": "https://open.spotify.com/artist/6Eu8djOGFxGaykaqJlbzEf"
+        },
+        {
+          "name": "Albrecht Mayer",
+          "url": "https://open.spotify.com/artist/1Mbvbes7vW2Pg3bWD9aDgW"
+        },
+        {
+          "name": "Academy of St. Martin in the Fields",
+          "url": "https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF"
+        },
+        {
+          "name": "Mathias M\u00f6nius",
+          "url": "https://open.spotify.com/artist/4EzLpGogNPoWpjOp6TAfc5"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245520,
+      "name": "A Chloris (Arr. For Cor Anglais & Orchestra)",
+      "url": "https://open.spotify.com/track/0PIsEQ6Z7wMvhL2nNMHZD3"
+    },
+    {
+      "album": {
         "name": "Bonjour Paris",
         "url": "https://open.spotify.com/album/6jcQdndeu7DBoZ0fctrqaG"
       },
@@ -105,7 +135,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 255213,
       "name": "A Chloris (Arr. For Cor Anglais & Orchestra)",
       "url": "https://open.spotify.com/track/6kielg9pAlREPv4fnFaT91"

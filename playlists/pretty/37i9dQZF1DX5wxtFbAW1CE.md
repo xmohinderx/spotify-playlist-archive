@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wxtFbAW1CE.md) - [plain]
 
 > Soothing songs for family yoga time.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,631 likes - 202 songs - 10 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,633 likes - 202 songs - 10 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -183,7 +183,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wxtFbAW1CE.md) - [plain]
 | 173 | [Sueño tranquilo](https://open.spotify.com/track/7vCDAK4DJNr1GHYEG3Ylyp) | [Pedro Caceres](https://open.spotify.com/artist/61YOovGWdnYImyV9dgnaMA) | [Sueño tranquilo](https://open.spotify.com/album/7jstHQo9AWHr8buCOkbM1K) | 3:02 |
 | 174 | [Everyday Peace](https://open.spotify.com/track/7CGtdNBijQGEvkZeLU4699) | [Moira Kent](https://open.spotify.com/artist/75XVrjr0r3FvwErC3VDPcl) | [Everyday Peace](https://open.spotify.com/album/1UiPNc6vzfDESq9EcXoO0B) | 2:15 |
 | 175 | [Movements of Dimensions](https://open.spotify.com/track/7BQDfK8Emfh80YJuvoGrb4) | [Everlight](https://open.spotify.com/artist/6RavlD6YjBgKC9iSh3uHgg) | [The One We Got](https://open.spotify.com/album/1dAqoThlD7EKzg0Kg03NY3) | 2:40 |
-| 176 | [Soul Blanket](https://open.spotify.com/track/7xgCM9MkPIJ0MWFJqGGKQD) | [Sofia's Choice](https://open.spotify.com/artist/6CXWg7xfVjOtwgILyQZZ20) | [Into The Stillness](https://open.spotify.com/album/0FQWkQhEOXL0IuICFw4XaE) | 4:01 |
+| 176 | [Soul Blanket](https://open.spotify.com/track/3udiwLxQnr2lr0higOdi8Z) | [Sofia's Choice](https://open.spotify.com/artist/6CXWg7xfVjOtwgILyQZZ20) | [Acoustic Favourites](https://open.spotify.com/album/3HrMtl0ZYK194zU8sfcpZx) | 4:01 |
 | 177 | [From Shores To Mountains](https://open.spotify.com/track/5kOy4Ap0QsN24vCL9H3KTt) | [The 2 Inversions](https://open.spotify.com/artist/2v62tGVulAui917rxpcmVJ) | [From Shores To Mountains](https://open.spotify.com/album/1jtEPkPm0pQeNBJ6ygS8OO) | 2:25 |
 | 178 | [Lost in a Meadow](https://open.spotify.com/track/4CUCv76HiC0FJ7tcwXQTZv) | [Benjamin Martins](https://open.spotify.com/artist/5oqbogYQRxno77NT1FFrt5) | [Floating](https://open.spotify.com/album/3ppEryBS6RaQDTrwmqB8n8) | 2:45 |
 | 179 | [Return to Nature](https://open.spotify.com/track/4F1nTd77jLSbEZDAYgNDXB) | [Milo Graves](https://open.spotify.com/artist/5hzPkgJBMM9LUlO00sH6TV) | [Inner Spirit](https://open.spotify.com/album/0mV5nvQuTZt7HpQO6q9CXA) | 2:57 |
@@ -211,4 +211,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wxtFbAW1CE.md) - [plain]
 | 201 | [Chasing Love](https://open.spotify.com/track/5HCMc28iow2u67EgxHejfZ) | [Mondbery](https://open.spotify.com/artist/3Ao4LdOPmNHIsDq8Y5gTmh) | [Chasing Love](https://open.spotify.com/album/3r9LKZab8u1XmEJbxQjSjV) | 2:11 |
 | 202 | [Closed Captions](https://open.spotify.com/track/3K3mUDPEx0sbqBWDMPmaWM) | [Broken Legacy](https://open.spotify.com/artist/3hG7itMdTJT8vc0JYh771M) | [Closed Captions](https://open.spotify.com/album/7yxynO2PaBolNG90xpL0W6) | 2:54 |
 
-Snapshot ID: `MTYyNTE3NDM3OSwwMDAwMDAwMDc0MzQzNDI5ZTVmNTY2MGFhZDYzNjNhOTMxYTQzMTYz`
+Snapshot ID: `MTYyNTE3NDM3OSwwMDAwMDAwMDRmOGI4OGE1OGE3ZDFjYzIxYTg0MDgzNDliZmFhMTA4`

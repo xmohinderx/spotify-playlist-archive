@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiLfJ2acJnZ.md) - [plain]
 
 > Lovely, pop\-filled, fun.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,239 likes - 80 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,250 likes - 80 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiLfJ2acJnZ.md) - [plain]
 | 15 | [Missing Piece](https://open.spotify.com/track/5YqdiryRmdAzYFlxo43hAJ) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Missing Piece](https://open.spotify.com/album/6zQCdokfVne8dFU5Z5BpS3) | 3:37 |
 | 16 | [Wave of You](https://open.spotify.com/track/5Ne1q9Hv3l2NHBA3Agt8WT) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Wave of You](https://open.spotify.com/album/0ghwCnjmc0QPPccZfYQuXc) | 3:33 |
 | 17 | [working](https://open.spotify.com/track/31sSFHIe4NaxltVFOEIcTa) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [working](https://open.spotify.com/album/4iCcsBlzVQVZoJzxBvhuyS) | 3:30 |
-| 18 | [people pleaser](https://open.spotify.com/track/3UEOT0hD60yGB1OMWJxLQ8) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [people pleaser / sleep at night](https://open.spotify.com/album/6zMAsUOpcpxqOCjYAIku7C) | 2:26 |
-| 19 | [Girls Like Us](https://open.spotify.com/track/5SFXOMJJ334Wn2PwBHeRZN) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Girls Like Us](https://open.spotify.com/album/5boy0Dm6JWz7YP8yIWdiyg) | 3:09 |
+| 18 | [Girls Like Us](https://open.spotify.com/track/5SFXOMJJ334Wn2PwBHeRZN) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Girls Like Us](https://open.spotify.com/album/5boy0Dm6JWz7YP8yIWdiyg) | 3:09 |
+| 19 | [people pleaser](https://open.spotify.com/track/3UEOT0hD60yGB1OMWJxLQ8) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [people pleaser / sleep at night](https://open.spotify.com/album/6zMAsUOpcpxqOCjYAIku7C) | 2:26 |
 | 20 | [Cloudy Day](https://open.spotify.com/track/0mA7zotmg2ZFMRALljdZsS) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Cloudy Day](https://open.spotify.com/album/3IbmFFjHMuAkhfk1zFDSow) | 3:05 |
 | 21 | [Another Life \(feat\. FLETCHER & Josh Golden\)](https://open.spotify.com/track/3ng7epefERNazaZkkbwLdq) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg), [Josh Golden](https://open.spotify.com/artist/6wUAn24MOirNVNqQM47fda) | [Another Life](https://open.spotify.com/album/5NUs7V7ETbYhyArrEGxyPr) | 2:42 |
 | 22 | [Holiday](https://open.spotify.com/track/6nV2dFZXpv1JlqDWBeTXRl) | [KSI](https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z) | [Holiday](https://open.spotify.com/album/2FiATmtrSNjakqKjqgC6Vb) | 3:13 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiLfJ2acJnZ.md) - [plain]
 | 28 | [roots](https://open.spotify.com/track/5AllnsqFHeN3a08icQsKIb) | [Grace Davies](https://open.spotify.com/artist/55VbVrjmAWcvCknVFfPzvK) | [roots](https://open.spotify.com/album/3igERXsCW4cXwDUmvVpGlx) | 3:34 |
 | 29 | [Feet Don't Fail Me Now](https://open.spotify.com/track/1GVkrFVc94CTjm9bdSmGjp) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Feet Don't Fail Me Now](https://open.spotify.com/album/4AsNUFCul8wrgyUbvBJeQZ) | 3:18 |
 | 30 | [Beautiful](https://open.spotify.com/track/5yv6tEdYkY3EfWXGSMSnWj) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Beautiful](https://open.spotify.com/album/6XrF9flkOo2jQuCTXPitha) | 3:14 |
-| 31 | [Nothing Lasts Forever](https://open.spotify.com/track/6IzTSuvoY6w3QAhCfN1Sgb) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [Nothing Lasts Forever](https://open.spotify.com/album/0eeLFV76Mnl91MEXf893YQ) | 2:47 |
-| 32 | [Mirror](https://open.spotify.com/track/4NjTrZ2IQeWnIbzyY2SOfz) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Mirror](https://open.spotify.com/album/70xpiL7Pl2AlH9J64acWpD) | 2:36 |
+| 31 | [Mirror](https://open.spotify.com/track/4NjTrZ2IQeWnIbzyY2SOfz) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Mirror](https://open.spotify.com/album/70xpiL7Pl2AlH9J64acWpD) | 2:36 |
+| 32 | [Nothing Lasts Forever](https://open.spotify.com/track/6IzTSuvoY6w3QAhCfN1Sgb) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [Nothing Lasts Forever](https://open.spotify.com/album/0eeLFV76Mnl91MEXf893YQ) | 2:47 |
 | 33 | [Thinking of You \(Spotify Singles\)](https://open.spotify.com/track/0zXhiHHnUzhCYd3ehnZEe5) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Thinking of You \(Spotify Singles\)](https://open.spotify.com/album/27zEODZr1lHmrtaapO6r8r) | 4:32 |
 | 34 | [American Boy \- Spotify Singles](https://open.spotify.com/track/5ey77lEIBo0I8XztudXKGP) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Spotify Singles](https://open.spotify.com/album/5Pn6UVgFupbLC1wgrUHlWO) | 3:19 |
 | 35 | [More](https://open.spotify.com/track/3mS7QkIx75iVG9JjXzKfIz) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [More](https://open.spotify.com/album/6whNqO63IXyrbpV6iZ1MBL) | 3:48 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiLfJ2acJnZ.md) - [plain]
 | 79 | [Bottled Up](https://open.spotify.com/track/62OhbVFaFnxYDhz07TdTnV) | [Soran](https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x) | [Bottled Up](https://open.spotify.com/album/3sSwZcy3p5NVyKT28C1AnT) | 3:09 |
 | 80 | [Sleepover](https://open.spotify.com/track/1X0oGnw7yE9fZUeKUdrYFg) | [Litany](https://open.spotify.com/artist/2z6JjrrJKNLilqlx8mlxcc) | [Sleepover](https://open.spotify.com/album/7EN5v9KXPXjQXVWuUlpiXx) | 2:48 |
 
-Snapshot ID: `MTY2Njk5MDY4OCwwMDAwMDAwMDgyOTBkODkzZTNmOWM5OWZiMDQ5NTBiYTU3OGJkNTMw`
+Snapshot ID: `MTY2Njk5MDY4OCwwMDAwMDAwMDA2NTUyODFhNmYwYjc4OGZmNWZhYTc2ZDg2MzkzMDVh`

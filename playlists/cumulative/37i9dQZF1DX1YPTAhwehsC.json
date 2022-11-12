@@ -26,6 +26,28 @@
     },
     {
       "album": {
+        "name": "1 On 3 (feat. Rvssian)",
+        "url": "https://open.spotify.com/album/3F6GpeUViLprCorwucXYmQ"
+      },
+      "artists": [
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        },
+        {
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96000,
+      "name": "1 On 3 (feat. Rvssian)",
+      "url": "https://open.spotify.com/track/5APTC8XAiHLn89cpgWqrWl"
+    },
+    {
+      "album": {
         "name": "Tana Talk 4",
         "url": "https://open.spotify.com/album/4FZ2ilW8I4HxVz0gWEYzX2"
       },
@@ -175,7 +197,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 224687,
       "name": "Ain't My Dog",
       "url": "https://open.spotify.com/track/55yPlote432saxAHYwlqp4"
@@ -971,7 +993,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 178786,
       "name": "Brand New 911",
       "url": "https://open.spotify.com/track/1SJnJJmrqRyE8YSdhEtbPv"
@@ -1663,7 +1685,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 153750,
       "name": "Dear Life",
       "url": "https://open.spotify.com/track/5A9ctbShMyrhJqLqW0G1lB"
@@ -1921,7 +1943,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 207045,
       "name": "Do Not Disturb ft. NAV and Yung Bleu",
       "url": "https://open.spotify.com/track/2pY5ZVUFscLWhOonrR4knh"
@@ -2889,6 +2911,24 @@
       "duration_ms": 130965,
       "name": "Girls Love Rod Wave",
       "url": "https://open.spotify.com/track/1scYWeRVHLNoKVT8DXKsOC"
+    },
+    {
+      "album": {
+        "name": "Give You What You Want",
+        "url": "https://open.spotify.com/album/49OQ6tF3eo3Fdgp3GMhHep"
+      },
+      "artists": [
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159330,
+      "name": "Give You What You Want",
+      "url": "https://open.spotify.com/track/6PQK1Y3Dl6dym9pj0y9Chy"
     },
     {
       "album": {
@@ -4002,6 +4042,24 @@
     },
     {
       "album": {
+        "name": "Krash Out",
+        "url": "https://open.spotify.com/album/2P2AoAbtzvF39nm1cBaSpa"
+      },
+      "artists": [
+        {
+          "name": "Kenzo Balla",
+          "url": "https://open.spotify.com/artist/7J7r6Srf58AAPsTJrEXMCp"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151578,
+      "name": "Krash Out",
+      "url": "https://open.spotify.com/track/0feZz6FZLnuBACiRNIVvWL"
+    },
+    {
+      "album": {
         "name": "Balens Cho (Hot Candles)",
         "url": "https://open.spotify.com/album/3lYDlFILOCtV39ompt2uRs"
       },
@@ -4746,6 +4804,24 @@
     },
     {
       "album": {
+        "name": "King's Disease III",
+        "url": "https://open.spotify.com/album/3vQuGKQJMfdXmkjRKqUesk"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167724,
+      "name": "Michael & Quincy",
+      "url": "https://open.spotify.com/track/5MfCvL6jCTkxPCBQf3OkYH"
+    },
+    {
+      "album": {
         "name": "Life In Plastic 3",
         "url": "https://open.spotify.com/album/1dBsWvtX0Ji3sMHKjvjEyR"
       },
@@ -4761,7 +4837,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 158901,
       "name": "Misunderstood (feat. Tish Hyman)",
       "url": "https://open.spotify.com/track/4VnOiQpgmc3uPLc9iYWhsT"
@@ -7204,6 +7280,32 @@
     },
     {
       "album": {
+        "name": "Spinnin",
+        "url": "https://open.spotify.com/album/3QA6sWUac76SKaQ5mmZtYO"
+      },
+      "artists": [
+        {
+          "name": "Dougie B",
+          "url": "https://open.spotify.com/artist/6ykgQbKcZFy5qoKBU4YiWj"
+        },
+        {
+          "name": "B-Lovee",
+          "url": "https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y"
+        },
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138947,
+      "name": "Spinnin (with B-Lovee & Cordae)",
+      "url": "https://open.spotify.com/track/1C41orKYTaul2aYazWzQ0E"
+    },
+    {
+      "album": {
         "name": "Splash",
         "url": "https://open.spotify.com/album/7hl3EAz28smU0peFwA4Lxp"
       },
@@ -8035,7 +8137,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 121285,
       "name": "Walk Em",
       "url": "https://open.spotify.com/track/7Fb1CXeHkU4axxhebmT7Io"
@@ -8115,7 +8217,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 180000,
       "name": "WASTE NO TIME",
       "url": "https://open.spotify.com/track/0jF9AZAaMv49jsy3InMUjQ"
@@ -8731,6 +8833,24 @@
       "duration_ms": 157714,
       "name": "YEET (feat. Yeat)",
       "url": "https://open.spotify.com/track/19b1RB0jrScAK1MKe3IRnk"
+    },
+    {
+      "album": {
+        "name": "Yes I Do",
+        "url": "https://open.spotify.com/album/1FM1qrdhlFIdpLzhBvHdm7"
+      },
+      "artists": [
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123552,
+      "name": "Yes I Do",
+      "url": "https://open.spotify.com/track/4GWO4LeUE6fc4V5WVQ2MhQ"
     },
     {
       "album": {

@@ -736,6 +736,24 @@
     },
     {
       "album": {
+        "name": "Spring Break 2011",
+        "url": "https://open.spotify.com/album/3qmc45KqeQB4VBa8QhvJQX"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303386,
+      "name": "Helplessness Blues",
+      "url": "https://open.spotify.com/track/0dO6w8Z5ZUPSeuARe0sebQ"
+    },
+    {
+      "album": {
         "name": "We Must Become the Pitiless Censors of Ourselves",
         "url": "https://open.spotify.com/album/6lfo4f2EW26I06q2cIMPof"
       },
@@ -1352,6 +1370,24 @@
     },
     {
       "album": {
+        "name": "Rocker Vol. 1",
+        "url": "https://open.spotify.com/album/1gUAZTI7M6pBlASwnmFLpU"
+      },
+      "artists": [
+        {
+          "name": "The Drums",
+          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233655,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/4sY4CiSZYPBh8UOQphUAnW"
+    },
+    {
+      "album": {
         "name": "Portamento",
         "url": "https://open.spotify.com/album/0gi6GxcVnTUjOaFWozw9en"
       },
@@ -1435,7 +1471,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 369386,
       "name": "Need You Now",
       "url": "https://open.spotify.com/track/1abUzN0mxXuoiGsMvj1FxS"
@@ -1763,10 +1799,28 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 277720,
       "name": "Shake It Out",
       "url": "https://open.spotify.com/track/4lY95OMGb9WxP6IYut64ir"
+    },
+    {
+      "album": {
+        "name": "Empowerment",
+        "url": "https://open.spotify.com/album/6sFFxalyuTGpFeXc7RobWy"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278777,
+      "name": "Shake It Out",
+      "url": "https://open.spotify.com/track/51Pb4ZBXwVgyyVJUEc1J3L"
     },
     {
       "album": {
@@ -1835,7 +1889,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 342163,
       "name": "Space Is Only Noise If You Can See",
       "url": "https://open.spotify.com/track/7uW6TpsG5sqP5JxTLV7Bf0"
@@ -1871,10 +1925,28 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 225986,
       "name": "Suck It and See",
       "url": "https://open.spotify.com/track/3UZfvX4ky5C4mblUIR0LE1"
+    },
+    {
+      "album": {
+        "name": "Suck It and See",
+        "url": "https://open.spotify.com/album/4isZNDTpU3tF6t8QuZ3EWg"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225986,
+      "name": "Suck It and See",
+      "url": "https://open.spotify.com/track/3cGaALJXHNRrxsbhZc8sPl"
     },
     {
       "album": {

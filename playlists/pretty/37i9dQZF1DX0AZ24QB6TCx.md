@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 
 > Relax with deep house and electronica.
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,988 likes - 70 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,132 likes - 70 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 | 26 | [Firmoral](https://open.spotify.com/track/4o2LMdyunFhlVlDacprnUQ) | [Polar Inc.](https://open.spotify.com/artist/5r2fdrpH44S8EdFXO4jWfI) | [Purified Fragments Vi](https://open.spotify.com/album/7zy8P6zIkCeX5dEBwbNTGJ) | 3:48 |
 | 27 | [Forget You](https://open.spotify.com/track/5aFD0QPy4BQqUq39l0o5HD) | [Lemon & Herb](https://open.spotify.com/artist/0YbodxZ8dsnWW002EWS51w), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Aura](https://open.spotify.com/album/60qadrHOmLoafmRjgRw3BS) | 4:48 |
 | 28 | [Yuregine Deprem](https://open.spotify.com/track/0Kavkt38dZ0P4G2zSYHb6E) | [Buddha\-Bar](https://open.spotify.com/artist/2X2QKxpUF4yemFqILMoZUQ), [Ali Kuru](https://open.spotify.com/artist/4ljGdf7WSUgs2gc0TVGNGV) | [Yuregine Deprem](https://open.spotify.com/album/6zgNxbXp8mi1c3WxG28F99) | 3:47 |
-| 29 | [Fjäll](https://open.spotify.com/track/7KuYN3fAlt1JM689zzx3wJ) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Fejká](https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9) | [Fjäll](https://open.spotify.com/album/0QgzD9uaXYFfohdHQPKYG1) | 5:15 |
-| 30 | [Tears](https://open.spotify.com/track/1XtlpDLDLbuk9mFnUs614k) | [Tim Green](https://open.spotify.com/artist/68vO4fkFxLbWPxTSHosxsB) | [Eastbound Silhouette](https://open.spotify.com/album/7CgB2RVayWXcMSd3cv0gOa) | 8:47 |
+| 29 | [Tears](https://open.spotify.com/track/1XtlpDLDLbuk9mFnUs614k) | [Tim Green](https://open.spotify.com/artist/68vO4fkFxLbWPxTSHosxsB) | [Eastbound Silhouette](https://open.spotify.com/album/7CgB2RVayWXcMSd3cv0gOa) | 8:47 |
+| 30 | [Fjäll](https://open.spotify.com/track/7KuYN3fAlt1JM689zzx3wJ) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Fejká](https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9) | [Fjäll](https://open.spotify.com/album/0QgzD9uaXYFfohdHQPKYG1) | 5:15 |
 | 31 | [5 Seconds Before Sunrise](https://open.spotify.com/track/0hz9lCgIKOtZthsP2JTPAL) | [VER:WEST](https://open.spotify.com/artist/0Ig1YsHXd4GGVLWXXYqM2W), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [5 Seconds Before Sunrise](https://open.spotify.com/album/1K2ATTJF7dA45WWBAHs4md) | 4:35 |
 | 32 | [Sumidero](https://open.spotify.com/track/1ZcT9DpO9dPmW3wov6Tlze) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [Sumidero](https://open.spotify.com/album/1DElDXosVfJvgArfUOsQYQ) | 4:58 |
 | 33 | [Spectrum](https://open.spotify.com/track/4rw9xbxHWWRuihfAvQG3M2) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Unspoken Words](https://open.spotify.com/album/5JuO2GgzgGLrF1Kz0l82Qk) | 4:45 |
@@ -54,12 +54,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 | 44 | [World Turns](https://open.spotify.com/track/7gLVKmFdPHGTrrK5QknUnw) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Now Is](https://open.spotify.com/album/5volqabPjMCyMnT1GZKYgz) | 5:23 |
 | 45 | [Wellenlänge](https://open.spotify.com/track/6dhY3WUqryHUh8aPDYxQxh) | [Rezident](https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc) | [Wellenlänge](https://open.spotify.com/album/0oVcTDdNLjp3vieIbawJOm) | 3:38 |
 | 46 | [Eolian](https://open.spotify.com/track/5HTHygByKpqhVYIFLXBx0D) | [Xande \(IT\)](https://open.spotify.com/artist/13HuSRmBchb6XxM5M0lJU8), [Latteo](https://open.spotify.com/artist/4IQLm7ZNKGlw7AaV7okjKv) | [Eolian](https://open.spotify.com/album/3JaX0K75UU23Kb4A3lrH87) | 6:21 |
-| 47 | [Don't Go Asking \- Radio Edit](https://open.spotify.com/track/1wS7aQmC0S26hONOBL99Qb) | [Roswitha Nash](https://open.spotify.com/artist/1FbEK4vAkcgk8Iraf75d6S), [Roswitha](https://open.spotify.com/artist/3S7xRyDELQRBHJwdqC25ZT), [Nash \(NL\)](https://open.spotify.com/artist/1oZ9VaYo9aRLk0myoEr0Je) | [Don't Go Asking](https://open.spotify.com/album/61IwZ9b7ob482lwl6SXuHt) | 3:17 |
-| 48 | [Clarion \- Kiasmos Remix](https://open.spotify.com/track/3VSQJhXdcJZOLyTLPbmxDr) | [Ben Lukas Boysen](https://open.spotify.com/artist/0lYoJnsYMVaAitj1pZVqER), [Kiasmos](https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD) | [Clarion \(Kiasmos Remix\)](https://open.spotify.com/album/57HX6lB11c4KENls8XUfAD) | 5:43 |
+| 47 | [Clarion \- Kiasmos Remix](https://open.spotify.com/track/3VSQJhXdcJZOLyTLPbmxDr) | [Ben Lukas Boysen](https://open.spotify.com/artist/0lYoJnsYMVaAitj1pZVqER), [Kiasmos](https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD) | [Clarion \(Kiasmos Remix\)](https://open.spotify.com/album/57HX6lB11c4KENls8XUfAD) | 5:43 |
+| 48 | [Don't Go Asking \- Radio Edit](https://open.spotify.com/track/1wS7aQmC0S26hONOBL99Qb) | [Roswitha Nash](https://open.spotify.com/artist/1FbEK4vAkcgk8Iraf75d6S), [Roswitha](https://open.spotify.com/artist/3S7xRyDELQRBHJwdqC25ZT), [Nash \(NL\)](https://open.spotify.com/artist/1oZ9VaYo9aRLk0myoEr0Je) | [Don't Go Asking](https://open.spotify.com/album/61IwZ9b7ob482lwl6SXuHt) | 3:17 |
 | 49 | [Solo](https://open.spotify.com/track/3aJSJAzqPfTGX05wAXGFxS) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Solo](https://open.spotify.com/album/46UzxFevi5s9dLn4Tez9th) | 4:53 |
 | 50 | [I Won't Be](https://open.spotify.com/track/5X5JHsuS1lmJYaOISpXTJN) | [NIHILS](https://open.spotify.com/artist/0O7NhieDairfQvi9jr66Cx) | [I Won't Be](https://open.spotify.com/album/3K2b6GOuzImeJjTpHM17J5) | 3:32 |
-| 51 | [The Center Will Not Hold](https://open.spotify.com/track/0BLVpXtzwE4EsJHNuYYq4e) | [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [The Center Will Not Hold](https://open.spotify.com/album/2mNElAq0uWkYumVt2KJB7S) | 3:50 |
-| 52 | [Just To Hear You Say](https://open.spotify.com/track/1SJsKYhiDRLLddBnGzGgbW) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza) | [Just To Hear You Say](https://open.spotify.com/album/7MxJMLEo4D1Jej3TYPPG95) | 3:33 |
+| 51 | [Just To Hear You Say](https://open.spotify.com/track/1SJsKYhiDRLLddBnGzGgbW) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza) | [Just To Hear You Say](https://open.spotify.com/album/7MxJMLEo4D1Jej3TYPPG95) | 3:33 |
+| 52 | [The Center Will Not Hold](https://open.spotify.com/track/0BLVpXtzwE4EsJHNuYYq4e) | [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [The Center Will Not Hold](https://open.spotify.com/album/2mNElAq0uWkYumVt2KJB7S) | 3:50 |
 | 53 | [The Tribe](https://open.spotify.com/track/7LiOGey9rkzEndaZ0nSIvs) | [Mark Tarmonea](https://open.spotify.com/artist/0G0DRVtduDqqikbVbZXaNn) | [The Tribe](https://open.spotify.com/album/6HdlZw4vN6vtMGDVNRVFZk) | 8:28 |
 | 54 | [Holy \- Frank Wiedemann Remix](https://open.spotify.com/track/49Imb1YVmhSFvKmgSQlykO) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN), [Frank Wiedemann](https://open.spotify.com/artist/1gbnoyNZEf6K9HytIv1D94) | [Home \(Remixes\)](https://open.spotify.com/album/2whcMWhKWfBMDbrl2SBujq) | 5:34 |
 | 55 | [Message](https://open.spotify.com/track/6jtw8sBH0NCmFw7x94s5DF) | [Rezident](https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc) | [Perspective EP](https://open.spotify.com/album/0xZahoke4fTh9QtdCcduwh) | 5:04 |
@@ -73,10 +73,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 | 63 | [AvA](https://open.spotify.com/track/3iCcDV8pYG9m5RnOMLhL2n) | [Amy Root](https://open.spotify.com/artist/25BkQ40MvbdCyNbX8DJd73) | [AvA](https://open.spotify.com/album/2tbdf6Acn9D7UFOB10EedD) | 4:47 |
 | 64 | [Bosque](https://open.spotify.com/track/0ZNZu14IJ7gFmWeKo4B7pv) | [Bosquemar](https://open.spotify.com/artist/6GG1iBZgzl6OlPpfY7hyPY) | [Bosquemar](https://open.spotify.com/album/6sjXeme4j3kjsQqhniTSp5) | 6:33 |
 | 65 | [Neunivai \- Original Mix](https://open.spotify.com/track/3S8gi2Vq1t8bKysBJ4783m) | [Volen Sentir](https://open.spotify.com/artist/7scXA3hBD8JyGGajVR9q9l) | [Neunivai](https://open.spotify.com/album/7l228NGTYSldObg2XLzCfS) | 7:18 |
-| 66 | [Bloom](https://open.spotify.com/track/2r4Xr6SX8m8KhqQuKFyUmG) | [Fejká](https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9) | [Bloom](https://open.spotify.com/album/0TSx6t9ZxdVmH4r0kXHLbq) | 4:44 |
-| 67 | [Goodbye](https://open.spotify.com/track/122Q96pdQ0hlfbgDzcxndg) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Goodbye](https://open.spotify.com/album/3XcU0mvjzG4Ww84JCqVEbt) | 6:03 |
+| 66 | [Goodbye](https://open.spotify.com/track/122Q96pdQ0hlfbgDzcxndg) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Goodbye](https://open.spotify.com/album/3XcU0mvjzG4Ww84JCqVEbt) | 6:03 |
+| 67 | [Bloom](https://open.spotify.com/track/2r4Xr6SX8m8KhqQuKFyUmG) | [Fejká](https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9) | [Bloom](https://open.spotify.com/album/0TSx6t9ZxdVmH4r0kXHLbq) | 4:44 |
 | 68 | [CTG](https://open.spotify.com/track/5JlEWsqXWnIT4rPTJF3bny) | [Branko](https://open.spotify.com/artist/1lEBJGJgdoevi1Clv9CqLT), [Iúri Oliveira](https://open.spotify.com/artist/6OUoXZid4ik4nXQ4FuYLPg) | [CTG](https://open.spotify.com/album/7xdjpdKWXPxXYynt2DDFG0) | 3:18 |
 | 69 | [Harlem River](https://open.spotify.com/track/6gAM5yFXa4V54zUMR03QSp) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Under Darkening Skies](https://open.spotify.com/album/7fDsHkCbzW928mVa9irayU) | 4:37 |
 | 70 | [Undecided](https://open.spotify.com/track/25CSuITuHOTUSrCx4u72UT) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp) | [Undecided](https://open.spotify.com/album/1Ybr2PycNvqre2mpj35VRD) | 4:06 |
 
-Snapshot ID: `MTY2Njk2MjY4NCwwMDAwMDAwMDFiM2RhNzMyNmVmNDhkY2QxNGNlZmU0NGQ5NzkwOWM1`
+Snapshot ID: `MTY2Njk2MjY4NCwwMDAwMDAwMDMxOTdjMjgyOWIwMTVhNzA1ZDFmZGZlM2RlODRmMDZi`

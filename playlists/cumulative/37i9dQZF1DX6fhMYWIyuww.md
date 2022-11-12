@@ -4,7 +4,7 @@
 
 > Classic soft rock\. For that free and easy feeling.
 
-103 songs - 6 hr 48 min - [published](https://open.spotify.com/playlist/08neF8htQhOTNoWwHUhonx)
+105 songs - 6 hr 58 min - [published](https://open.spotify.com/playlist/08neF8htQhOTNoWwHUhonx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,10 +19,11 @@
 | [Changes In Latitudes, Changes In Attitudes](https://open.spotify.com/track/5nIqitaV7WyyuM3KVUju1G) | [Jimmy Buffett](https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0) | [Changes In Latitudes, Changes In Attitudes](https://open.spotify.com/album/3JWlQzyse21gwhqu2D6UQD) | 3:17 | 2021-04-22 |  |
 | [China Grove](https://open.spotify.com/track/7cy1bEJV6FCtDaYpsk8aG6) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz) | [The Captain and Me](https://open.spotify.com/album/0M2KWMbvY5x1sUnIKNpyUt) | 3:15 | 2021-04-22 |  |
 | [Dance with Me](https://open.spotify.com/track/3D0fUBloGwPcLGLyheGWXu) | [Orleans](https://open.spotify.com/artist/1667U2YoucgG5Pdvm2M59c) | [The Essentials: Orleans](https://open.spotify.com/album/3b3CBmEMZKC4ugmcM2iPc6) | 3:00 | 2021-04-22 |  |
+| [Do It Again](https://open.spotify.com/track/7wP7USocbL8sX4o0DvqS1J) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Happy Classics](https://open.spotify.com/album/2cnDTz7eNou1DKvA5bEY35) | 5:54 | 2021-04-22 |  |
 | [Do It Again](https://open.spotify.com/track/2BstRQGodshjGpeDGQiNgo) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Can't Buy A Thrill](https://open.spotify.com/album/4Gh6pRaXqXTtJx4plAJbBw) | 5:56 | 2021-04-22 | 2022-11-09 |
 | [Doctor My Eyes](https://open.spotify.com/track/3QcuZo6WLcFkqqLmDs0d95) | [Jackson Browne](https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m) | [Jackson Browne \(Saturate Before Using\)](https://open.spotify.com/album/0n93YRc9GP3ZgREgTHvP5u) | 3:19 | 2021-04-22 |  |
 | [Don't Turn Me Away](https://open.spotify.com/track/5jEuU57nvKw74sYR9Rcej5) | [Air Supply](https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW) | [The Essential Air Supply](https://open.spotify.com/album/1szGVsmiZJRyOAGOVk0mCY) | 3:40 | 2021-04-22 |  |
-| [Dream On](https://open.spotify.com/track/2zjs7VtYszHqh3gHcSHGJP) | [Bill LaBounty](https://open.spotify.com/artist/7F81AqbZ2eUSjf9FpVptwO) | [Bill LaBounty](https://open.spotify.com/album/7aPh03VcoR5N96qC6odwS2) | 4:22 | 2021-04-22 |  |
+| [Dream On](https://open.spotify.com/track/2zjs7VtYszHqh3gHcSHGJP) | [Bill LaBounty](https://open.spotify.com/artist/7F81AqbZ2eUSjf9FpVptwO) | [Bill LaBounty](https://open.spotify.com/album/7aPh03VcoR5N96qC6odwS2) | 4:22 | 2021-04-22 | 2022-11-12 |
 | [Escape \(The Pina Colada Song\)](https://open.spotify.com/track/5IMtdHjJ1OtkxbGe4zfUxQ) | [Rupert Holmes](https://open.spotify.com/artist/0TqIPD4IS1w4e30R38B3vj) | [Partners In Crime](https://open.spotify.com/album/163iYwl7Kdm9ayTnD4VyfN) | 4:36 | 2021-04-22 |  |
 | [Everybody Needs Love](https://open.spotify.com/track/0rLemgaftUhE0iYxp6VQSm) | [Stephen Bishop](https://open.spotify.com/artist/3JhRHqCi8HEzkJVWt19LtN) | [20th Century Masters: The Millennium Collection: Best Of Stephen Bishop](https://open.spotify.com/album/5xQPBKkD2vZQag95dVpyOs) | 3:41 | 2021-04-22 | 2022-07-29 |
 | [Fins](https://open.spotify.com/track/4X6qvY7lDpNxq9QokS5F0u) | [Jimmy Buffett](https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0) | [Volcano](https://open.spotify.com/album/1sU8u99py6xR0RhLY70vMD) | 3:27 | 2021-04-22 |  |
@@ -52,7 +53,7 @@
 | [Love Is the Answer \(Single Version\)](https://open.spotify.com/track/7FM0XCpgR3HMZcwjDo2TlI) | [England Dan & John Ford Coley](https://open.spotify.com/artist/01W8kYNqFHyKicPfR0pLwO) | [Nights Are Forever](https://open.spotify.com/album/3oY6Per6dlppqYHahhu1ED) | 4:41 | 2021-04-22 | 2022-11-11 |
 | [Love Is the Answer \- Single Version](https://open.spotify.com/track/7xKGghZ59EGUT0Ft9BRVMr) | [England Dan & John Ford Coley](https://open.spotify.com/artist/01W8kYNqFHyKicPfR0pLwO) | [Rhino Hi\-Five: England Dan & John Ford Coley](https://open.spotify.com/album/40V7QExJNlpQZaxZf1JTF5) | 4:41 | 2021-04-22 | 2022-08-06 |
 | [Love the One You're With](https://open.spotify.com/track/5cKb2kQzChjhE5Rd1ExYNY) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [Summer Breeze \- The Best Of](https://open.spotify.com/album/6Un0lZsdNGDhV9Q4vbqvDe) | 3:38 | 2021-04-22 | 2022-07-29 |
-| [Love the One You're With](https://open.spotify.com/track/0NnyYBnyStcNKDu7PejLPF) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [Givin' It Back](https://open.spotify.com/album/0xd0GqZYWh9wEA3TuqMy5h) | 3:43 | 2021-04-22 |  |
+| [Love the One You're With](https://open.spotify.com/track/0NnyYBnyStcNKDu7PejLPF) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [Givin' It Back](https://open.spotify.com/album/0xd0GqZYWh9wEA3TuqMy5h) | 3:43 | 2021-04-22 | 2022-11-12 |
 | [Love Will Find A Way](https://open.spotify.com/track/2LqzuRukwnpeWYLXBtiwmq) | [Pablo Cruise](https://open.spotify.com/artist/3Y5abCLsMxsOLaZ8rYusSR) | [Worlds Away](https://open.spotify.com/album/4aYsq7sHYon9fInMOboyfK) | 4:11 | 2021-04-22 |  |
 | [MARGARITA](https://open.spotify.com/track/63y6jcHLksixY9FKiitvrv) | [Marc Jordan](https://open.spotify.com/artist/2clUjxvyf90rQi8Rz7absT) | [A HOLE IN THE WALL](https://open.spotify.com/album/5rrgkeYn7KWtTqbZJZw4JX) | 4:10 | 2021-04-22 | 2022-07-29 |
 | [MARGARITA](https://open.spotify.com/track/6FTkyVYA8sQv43TK28zJON) | [Marc Jordan](https://open.spotify.com/artist/2clUjxvyf90rQi8Rz7absT) | [A HOLE IN THE WALL](https://open.spotify.com/album/7piu0CaJxClSyIvPQO9aNz) | 4:10 | 2021-04-22 | 2022-11-11 |
@@ -69,6 +70,7 @@
 | [One More Look At The Night](https://open.spotify.com/track/7vUbFCefkYWl4uSpMManF1) | [Andy Gibb](https://open.spotify.com/artist/4YPqbAiLzBg5DIfsgQZ8QK) | [Shadow Dancing](https://open.spotify.com/album/3Ru1PEQBFI88kBIWcPGGS8) | 3:47 | 2021-04-22 |  |
 | [Peaceful Easy Feeling \- 2013 Remaster](https://open.spotify.com/track/40h65HAR8COEoqkMwUUQHu) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Eagles \(2013 Remaster\)](https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7) | 4:17 | 2021-04-22 |  |
 | [Reminiscing \- 2002 Digital Remaster](https://open.spotify.com/track/4NoLnnJvVK5tpOdlNQI6RG) | [Little River Band](https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg) | [The Definitive Collection](https://open.spotify.com/album/1iZgFhl4ik5FfPxaRiv3RN) | 4:09 | 2021-04-22 | 2022-10-15 |
+| [Reminiscing \- Remastered](https://open.spotify.com/track/2wtniL1hD2aNtkAxYFao9U) | [Little River Band](https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg) | [70s Rock Essentials](https://open.spotify.com/album/2nUKl9sXFdOVPyRV3dGoWA) | 4:13 | 2021-04-22 |  |
 | [Reminiscing \- Remastered](https://open.spotify.com/track/34D6mvDTAPypm92EPs8Rxa) | [Little River Band](https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg) | [Sleeper Catcher \(Remastered\)](https://open.spotify.com/album/362Gq4moTnxkud6hQEKsm1) | 4:13 | 2021-04-22 | 2022-10-19 |
 | [Reminiscing \- Remastered 2022](https://open.spotify.com/track/7i3xpu7SFWvzhGa9AZyySR) | [Little River Band](https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg) | [Sleeper Catcher \(Remastered 2022\)](https://open.spotify.com/album/5XXymqS9NunPlUbovZK8WJ) | 4:17 | 2021-04-22 | 2022-11-11 |
 | [Ride Like the Wind](https://open.spotify.com/track/7gUMShP1l20tC0xf17Zplk) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Christopher Cross](https://open.spotify.com/album/2m2nl8cBT7bEgIA6LLmgah) | 4:35 | 2021-04-22 |  |

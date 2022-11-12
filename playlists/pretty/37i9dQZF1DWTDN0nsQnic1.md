@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDN0nsQnic1.md) - [plain]
 
 > Lush, shimmery guitars\. Cover: Tom Misch
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,613 likes - 59 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,636 likes - 59 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDN0nsQnic1.md) - [plain]
 | 5 | [Surface](https://open.spotify.com/track/44bTGsp2iJO8AjYEjRqP47) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Kazuki Isogai](https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K), [INIMI](https://open.spotify.com/artist/4tge67x7Fvdd1Z04eJr2LL) | [Could It Be U / Surface](https://open.spotify.com/album/4cU2LPwnLxgMwF8151yNxt) | 3:07 |
 | 6 | [thinking of you](https://open.spotify.com/track/21ZVMmHXpt3Qht5pjVgBMS) | [Ichika Nito](https://open.spotify.com/artist/1v7B6ZWa7QRQS3knn3Jvf4) | [until the end](https://open.spotify.com/album/5PsSXT8MDeQtsGWaoOhajF) | 1:53 |
 | 7 | [So What](https://open.spotify.com/track/265wSVvd8vDhT10eskjJS5) | [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC), [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH), [Epektase](https://open.spotify.com/artist/31jYTsfmnHqcK7ahdqlqmo), [Cool Cats Lofi](https://open.spotify.com/artist/6tchLnaQY0JmNKvYJ2riX3) | [So What](https://open.spotify.com/album/7DXMRH7UGYLZ6eSrqNxd3C) | 2:09 |
-| 8 | [It's a Moot Point](https://open.spotify.com/track/0MsP3Z4x4VCmveUxidTch1) | [Melanie Faye](https://open.spotify.com/artist/4pcfFC9isxezJyTwbV1nIp) | [It's a Moot Point](https://open.spotify.com/album/7mjQUO0wc40aBdyx7ZOtJW) | 4:02 |
+| 8 | [It's a Moot Point](https://open.spotify.com/track/6SpF83K9p93tAK4Su3IFmg) | [Melanie Faye](https://open.spotify.com/artist/4pcfFC9isxezJyTwbV1nIp) | [Melanie Faye EP](https://open.spotify.com/album/3kehonQztenD0u318m715k) | 4:02 |
 | 9 | [Where I Want to Be](https://open.spotify.com/track/5OJD3ceQHISjim2MVDUGkJ) | [Myles Jasnowski](https://open.spotify.com/artist/4l5Tb3tgzJlGTA6VC4aDV3) | [Where I Want to Be](https://open.spotify.com/album/3C3oFWTYx44bZwlzh4ByjS) | 4:39 |
 | 10 | [Sunn](https://open.spotify.com/track/5dqMx00nPmSH6fKdqq7r67) | [Beau Diako](https://open.spotify.com/artist/3W02sTifN8tW1bapAkS1hu) | [Flutter](https://open.spotify.com/album/1iXnreOHsfrUOF81pv2Alk) | 2:36 |
 | 11 | [Pasta Shinjuku](https://open.spotify.com/track/3GaJtMgcVrxwoIanmLrYaL) | [Kazuki Isogai](https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K), [yuhei miura](https://open.spotify.com/artist/6p9EJBuYNleKnGIll5vHA5) | [work\_2](https://open.spotify.com/album/3SFbd4P6g9jDfDBzNF17zH) | 1:46 |
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDN0nsQnic1.md) - [plain]
 | 50 | [Negai](https://open.spotify.com/track/4G4wIWnQXvJzdBifQwx749) | [Zoology](https://open.spotify.com/artist/3V1zHjaKSXKbaOEGNHjuPO) | [Negai](https://open.spotify.com/album/69QyT4Q2OvYPQG5zZ2Nh8A) | 3:16 |
 | 51 | [Wandering Ways](https://open.spotify.com/track/0Nkp56EKreoWMYxpXJqUNZ) | [Matt Quentin](https://open.spotify.com/artist/23cC3RI0hgD5sWmXKPAJuG) | [Skyline](https://open.spotify.com/album/1uGIwfw9F1lR7TDDukbNyQ) | 2:48 |
 | 52 | [Tell Me When](https://open.spotify.com/track/4IrukTHhqJsr8SEpqz2Zx4) | [Christian Kuria](https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG) | [Borderline](https://open.spotify.com/album/5qoVwu8l7VyXOiMjjmyeAD) | 4:26 |
-| 53 | [Second Wind](https://open.spotify.com/track/02u9LupbcUXwrQfGH0Q9ub) | [L'Indécis](https://open.spotify.com/artist/5p1ichthTka1KT0iUvrlIu) | [Second Wind](https://open.spotify.com/album/3yx7NLldcqxw39HoKLPaRG) | 3:00 |
+| 53 | [Second Wind](https://open.spotify.com/track/1UfbR1M6uB5mKucBd8EyhD) | [L'Indécis](https://open.spotify.com/artist/5p1ichthTka1KT0iUvrlIu) | [Second Wind](https://open.spotify.com/album/1FmC93lmqEaANdidtglbNS) | 3:00 |
 | 54 | [This World](https://open.spotify.com/track/5UrRSpJaU8sCp1C8OeurgV) | [Justus West](https://open.spotify.com/artist/1Rr0QwTQSGjUCpYFfXqnWO), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [This World](https://open.spotify.com/album/0VuUpLsPLvDF51IvRGk4jV) | 4:27 |
 | 55 | [Agua](https://open.spotify.com/track/1FxClYw5oCPtta2I6jsqP1) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [Kazuki Isogai](https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K), [yuhei miura](https://open.spotify.com/artist/6p9EJBuYNleKnGIll5vHA5) | [Agua](https://open.spotify.com/album/0O0cMYT5mf86GEswEyH3D0) | 2:00 |
 | 56 | [The Brook](https://open.spotify.com/track/0sK6jRVjGwUTEXVNCFe9t7) | [Kurt Stewart](https://open.spotify.com/artist/1SzLvjYm0lQLPi3AneCpDO), [Lomme](https://open.spotify.com/artist/2UxHowdAHxVWPhQQswzpT6), [yutaka hirasaka](https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ) | [Pegan Hill](https://open.spotify.com/album/1qT0jx1jNSzgWzvOt50qfI) | 1:55 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDN0nsQnic1.md) - [plain]
 | 58 | [Buttermilk](https://open.spotify.com/track/7MJC5ROiAjImSkGm85eIWa) | [Beau Diako](https://open.spotify.com/artist/3W02sTifN8tW1bapAkS1hu), [emawk](https://open.spotify.com/artist/2zAshenjqDlcL4pudfySBY) | [Flutter](https://open.spotify.com/album/1iXnreOHsfrUOF81pv2Alk) | 3:25 |
 | 59 | [Trip 5](https://open.spotify.com/track/6sVSbqlpbATtUEOGC4XNLh) | [Heavy Mellow](https://open.spotify.com/artist/59WT73GxJi40AmPXYvJEYx), [Melanie Faye](https://open.spotify.com/artist/4pcfFC9isxezJyTwbV1nIp) | [Acid R&B Vol\. 1](https://open.spotify.com/album/6I5PK3PCQhOQHRwBHgCVfQ) | 2:22 |
 
-Snapshot ID: `MTY2MzkwNTYwMCwwMDAwMDAwMGVmMTQ5OGE5NzY5NmZhYzdmZmNhZjk5NjU1M2YzMDVh`
+Snapshot ID: `MTY2MzkwNTYwMCwwMDAwMDAwMGYzY2EyZmE0ZjkxNzFlNGNkMDQyODFhZGJlYmYxNWIx`

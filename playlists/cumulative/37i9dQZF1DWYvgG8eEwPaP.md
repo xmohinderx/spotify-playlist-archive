@@ -4,12 +4,13 @@
 
 > Celebrating the oral tradition of Punjabi poetry.
 
-41 songs - 2 hr 59 min - [published](https://open.spotify.com/playlist/4mYwTcH6PxKTxtN3dhZN3h)
+43 songs - 3 hr 6 min - [published](https://open.spotify.com/playlist/4mYwTcH6PxKTxtN3dhZN3h)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Akh Surme Di](https://open.spotify.com/track/0CQfzve7uGmOSWjAsQSZSe) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Raman Romana](https://open.spotify.com/artist/7mJ4nj92W37kxFUmTZXpbv) | [Vadhayiyaan Ji Vadhayiyaan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/200xbCAhb4tXcR8UWOkz8p) | 3:35 | 2019-08-19 |  |
-| [Baari Baari Barsi](https://open.spotify.com/track/2xCdRazgyBUYtPtEaxrFw3) | [Miss Pooja](https://open.spotify.com/artist/0DyXyd0D6fMUsuD6yONANx) | [Miss Pooja \- Kudi Punjab Di](https://open.spotify.com/album/5MV1TtROzY1r75MunvHdeY) | 3:41 | 2019-08-19 |  |
+| [Baari Baari Barsi](https://open.spotify.com/track/2xCdRazgyBUYtPtEaxrFw3) | [Miss Pooja](https://open.spotify.com/artist/0DyXyd0D6fMUsuD6yONANx) | [Miss Pooja \- Kudi Punjab Di](https://open.spotify.com/album/5MV1TtROzY1r75MunvHdeY) | 3:41 | 2019-08-19 | 2022-11-12 |
+| [Baari Baari Barsi](https://open.spotify.com/track/4j5dnM92MU1O6pQnoZu1de) | [Miss Pooja](https://open.spotify.com/artist/0DyXyd0D6fMUsuD6yONANx) | [Top Hits \- Baisakhi Special](https://open.spotify.com/album/5IVDSbgPKN4CcKOvxRvz4T) | 3:41 | 2019-08-19 |  |
 | [Baari Baari Barsi](https://open.spotify.com/track/60Ne3aGDgfPayz36USh52x) | [Miss Pooja](https://open.spotify.com/artist/0DyXyd0D6fMUsuD6yONANx), [G Guri](https://open.spotify.com/artist/1wyLADmnHMGhDbTEOcGrwA) | [Baari Baari Barsi](https://open.spotify.com/album/6n1Ut1hOzm9i2TFfEziYGQ) | 3:41 | 2019-08-19 | 2022-07-29 |
 | [Bathinda](https://open.spotify.com/track/3PXMOjduIIgqtEKCa9JEML) | [Miss Pooja](https://open.spotify.com/artist/0DyXyd0D6fMUsuD6yONANx) | [Best of Miss Pooja](https://open.spotify.com/album/7KOSz005q6xlD4bfCKcSw0) | 4:23 | 2019-08-19 |  |
 | [Bhabhi \- From "Ishq My Religion"](https://open.spotify.com/track/1scZ5UKdbOv8XBtVH7c43V) | [Abrar Ul Haq](https://open.spotify.com/artist/5Z1MqXZgG3ooTyK3oqQVpw), [Shipra Goyal](https://open.spotify.com/artist/7gOZcXPfLtLbFgUyHGV7cZ), [Jaidev Kumar](https://open.spotify.com/artist/3jFf4UnboFrqsHZA8qBkH8) | [Bhabhi \(From "Ishq My Religion"\)](https://open.spotify.com/album/3PSh4IapNx8UAzagdJ8UYT) | 4:37 | 2019-08-19 |  |
@@ -45,8 +46,9 @@
 | [Multan](https://open.spotify.com/track/2Qr6caRtWpQitY0t7qjsxi) | [Mannat Noor](https://open.spotify.com/artist/0TxBLummgAxRkxn21HrLDp) | [Multan](https://open.spotify.com/album/0QQwhLBFDqjzMiWYcQaiNi) | 4:05 | 2019-08-19 |  |
 | [Nachdi De Pairan Vich \- The TD Mix](https://open.spotify.com/track/37Jyck288MWxC42kimJTf7) | [Miss Pooja](https://open.spotify.com/artist/0DyXyd0D6fMUsuD6yONANx), [Tarli Digital](https://open.spotify.com/artist/3HnnQuxIRLSc69XMDesEbr) | [Romantic Jatt](https://open.spotify.com/album/0AWuL0QXKaLRjh0WwndvgL) | 3:45 | 2019-08-19 |  |
 | [Neriyan \- Desi\-Flex Remix](https://open.spotify.com/track/2qeOC4INMJQTGTxBxOH8Li) | [DJ Sanj](https://open.spotify.com/artist/1kfqHPfj8yygKGMD3NrDE5), [Miss Pooja](https://open.spotify.com/artist/0DyXyd0D6fMUsuD6yONANx) | [Unbreakable](https://open.spotify.com/album/0iMtL5czlwziTmdnEe7v2A) | 3:30 | 2019-08-19 |  |
+| [Painkiller](https://open.spotify.com/track/1mPHNNaw93DXUqPe1NxXGm) | [Miss Pooja](https://open.spotify.com/artist/0DyXyd0D6fMUsuD6yONANx) | [Miss Pooja \- Kudi Punjab Di](https://open.spotify.com/album/5MV1TtROzY1r75MunvHdeY) | 3:25 | 2019-08-19 |  |
 | [Painkiller](https://open.spotify.com/track/133oRYe55wNjNVFsB6fpcM) | [Miss Pooja](https://open.spotify.com/artist/0DyXyd0D6fMUsuD6yONANx), [Dr Zeus](https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm), [Fateh](https://open.spotify.com/artist/1t44XSPiW7z8PebleCo7uP) | [Painkiller](https://open.spotify.com/album/7j6alVyEZyVi34VsBEXQU9) | 3:25 | 2019-08-19 | 2022-07-29 |
-| [Painkiller](https://open.spotify.com/track/2a7Mun0qIv8Xr0raXZwAP7) | [Miss Pooja](https://open.spotify.com/artist/0DyXyd0D6fMUsuD6yONANx), [Fateh](https://open.spotify.com/artist/1t44XSPiW7z8PebleCo7uP) | [Painkiller \- Single](https://open.spotify.com/album/5xnkPSxaEFhsc2pu019e66) | 3:25 | 2019-08-19 |  |
+| [Painkiller](https://open.spotify.com/track/2a7Mun0qIv8Xr0raXZwAP7) | [Miss Pooja](https://open.spotify.com/artist/0DyXyd0D6fMUsuD6yONANx), [Fateh](https://open.spotify.com/artist/1t44XSPiW7z8PebleCo7uP) | [Painkiller \- Single](https://open.spotify.com/album/5xnkPSxaEFhsc2pu019e66) | 3:25 | 2019-08-19 | 2022-11-12 |
 | [Seeti Maar Ke](https://open.spotify.com/track/5NiLpcsWJnKqftntyvyyEV) | [Geeta Zaildar](https://open.spotify.com/artist/78rdC4FvVaOJmEgfjlUi4a), [Miss Pooja](https://open.spotify.com/artist/0DyXyd0D6fMUsuD6yONANx) | [Shartan \(Seeti Maar Ke\)](https://open.spotify.com/album/0D6ZUI004iUbOCzeOPDWX6) | 4:48 | 2019-08-19 |  |
 | [Seeti Maar Ke](https://open.spotify.com/track/7Lxu1B5i37iGvdHzyKdAGy) | [Geeta Zaildar](https://open.spotify.com/artist/78rdC4FvVaOJmEgfjlUi4a), [Miss Pooja](https://open.spotify.com/artist/0DyXyd0D6fMUsuD6yONANx) | [The Hits](https://open.spotify.com/album/0yas287pCP4F1yxKEpPV1f) | 4:48 | 2019-08-19 | 2022-07-29 |
 

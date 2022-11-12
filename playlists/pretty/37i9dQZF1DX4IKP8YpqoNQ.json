@@ -1,18 +1,18 @@
 {
   "description": "Experience the best live performances.",
-  "num_followers": 21552,
+  "num_followers": 21567,
   "original_name": "Soul Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDkxNjI2NywwMDAwMDAwMDlmMTE1ZWFmZWYwZDQ4ZGZlOGFjZTZlZDg0ZDI1Zjg2",
+  "snapshot_id": "MTY1MDkxNjI2NywwMDAwMDAwMGQyZTU2YWQ0MmRkMmI3MDBkZGJiOTJlYTVlODdjMWQ0",
   "tracks": [
     {
       "added_at": "2022-02-10 23:02:00",
       "album": {
-        "name": "Back To Black (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG"
+        "name": "AMY (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5Fb59VtYjJNTXPcNGpoDU3"
       },
       "artists": [
         {
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
         }
       ],
-      "duration_ms": 233733,
-      "name": "Valerie - Live At BBC Radio 1 Live Lounge, London / 2007",
-      "url": "https://open.spotify.com/track/6nLvaCZFR1wEzW3sIKpsnr"
+      "duration_ms": 152093,
+      "name": "Love Is A Losing Game - Live At The Mercury Music Awards",
+      "url": "https://open.spotify.com/track/1DYCdxNAVNUCAOlAi7aP5o"
     },
     {
       "added_at": "2022-02-10 23:02:00",
@@ -171,8 +171,8 @@
     {
       "added_at": "2022-02-10 23:02:00",
       "album": {
-        "name": "AMY (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5Fb59VtYjJNTXPcNGpoDU3"
+        "name": "Back To Black (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG"
       },
       "artists": [
         {
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
         }
       ],
-      "duration_ms": 152093,
-      "name": "Love Is A Losing Game - Live At The Mercury Music Awards",
-      "url": "https://open.spotify.com/track/1DYCdxNAVNUCAOlAi7aP5o"
+      "duration_ms": 145066,
+      "name": "To Know Him Is To Love Him - Live",
+      "url": "https://open.spotify.com/track/1Nz1PPjU3ONNEgjg8Pkppg"
     },
     {
       "added_at": "2022-02-10 23:02:00",
@@ -251,22 +251,6 @@
     {
       "added_at": "2022-02-10 23:02:00",
       "album": {
-        "name": "Unplugged",
-        "url": "https://open.spotify.com/album/4KCe4KPxUSyKPLu5a6mDVg"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 310133,
-      "name": "Fallin' - Unplugged Live at the Brooklyn Academy of Music, Brooklyn, NY - July 2005",
-      "url": "https://open.spotify.com/track/1fzYdlr2RdnhxsI0bZsTms"
-    },
-    {
-      "added_at": "2022-02-10 23:02:00",
-      "album": {
         "name": "MTV Unplugged",
         "url": "https://open.spotify.com/album/5ejwNegV5hPkQRyMi7CiCs"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 260106,
       "name": "The Lady Suite - Live from MTV Unplugged, Brooklyn, NY - May 1997",
       "url": "https://open.spotify.com/track/1wygFl6hCok4naRPSrDdWL"
+    },
+    {
+      "added_at": "2022-02-10 23:02:00",
+      "album": {
+        "name": "Unplugged",
+        "url": "https://open.spotify.com/album/4KCe4KPxUSyKPLu5a6mDVg"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 310133,
+      "name": "Fallin' - Unplugged Live at the Brooklyn Academy of Music, Brooklyn, NY - July 2005",
+      "url": "https://open.spotify.com/track/1fzYdlr2RdnhxsI0bZsTms"
     },
     {
       "added_at": "2022-02-10 23:02:00",
@@ -315,8 +315,8 @@
     {
       "added_at": "2022-02-10 23:02:00",
       "album": {
-        "name": "Back To Black (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG"
+        "name": "AMY (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5Fb59VtYjJNTXPcNGpoDU3"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
         }
       ],
-      "duration_ms": 145066,
-      "name": "To Know Him Is To Love Him - Live",
-      "url": "https://open.spotify.com/track/1Nz1PPjU3ONNEgjg8Pkppg"
+      "duration_ms": 285453,
+      "name": "What Is It About Men - Live At North Sea Jazz Festival",
+      "url": "https://open.spotify.com/track/40GTKaedGtzka8dlV4NuqI"
     },
     {
       "added_at": "2022-02-10 23:02:00",
@@ -427,8 +427,8 @@
     {
       "added_at": "2022-02-10 23:02:00",
       "album": {
-        "name": "AMY (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5Fb59VtYjJNTXPcNGpoDU3"
+        "name": "At The BBC",
+        "url": "https://open.spotify.com/album/741JhzvIOudONDzRg6wuWJ"
       },
       "artists": [
         {
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
         }
       ],
-      "duration_ms": 285453,
-      "name": "What Is It About Men - Live At North Sea Jazz Festival",
-      "url": "https://open.spotify.com/track/40GTKaedGtzka8dlV4NuqI"
+      "duration_ms": 231066,
+      "name": "Valerie - Live Jo Whiley, BBC Live Lounge Session / 2007",
+      "url": "https://open.spotify.com/track/4ml8AFICctVaeDXoZyhp42"
     },
     {
       "added_at": "2022-02-10 23:02:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2022-02-10 23:02:00",
       "album": {
-        "name": "Live (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1e2wF72vtLQkH6jTvYvFQV"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 374973,
-      "name": "Distant Lover - Live At Oakland Coliseum, CA/1974",
-      "url": "https://open.spotify.com/track/5JUbydhL4lOuxYB4nWAZ0W"
-    },
-    {
-      "added_at": "2022-02-10 23:02:00",
-      "album": {
         "name": "MTV Unplugged",
         "url": "https://open.spotify.com/album/5ejwNegV5hPkQRyMi7CiCs"
       },
@@ -743,22 +727,6 @@
     {
       "added_at": "2022-02-10 23:02:00",
       "album": {
-        "name": "Live",
-        "url": "https://open.spotify.com/album/7Cg83CbNY30zxin7u5zwSX"
-      },
-      "artists": [
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        }
-      ],
-      "duration_ms": 244973,
-      "name": "Apple Tree",
-      "url": "https://open.spotify.com/track/00ceVqQBhF9Angv9jSkNtW"
-    },
-    {
-      "added_at": "2022-02-10 23:02:00",
-      "album": {
         "name": "'Live' At The Apollo (Vol. II)",
         "url": "https://open.spotify.com/album/3jbnkGDaYChChu5Cs8LEvD"
       },
@@ -771,6 +739,22 @@
       "duration_ms": 247106,
       "name": "That's Life - Live At The Apollo Theater, 1967",
       "url": "https://open.spotify.com/track/0jA9aoNAGU3J9YX0fEUZXO"
+    },
+    {
+      "added_at": "2022-02-10 23:02:00",
+      "album": {
+        "name": "Live",
+        "url": "https://open.spotify.com/album/7Cg83CbNY30zxin7u5zwSX"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "duration_ms": 244973,
+      "name": "Apple Tree",
+      "url": "https://open.spotify.com/track/00ceVqQBhF9Angv9jSkNtW"
     },
     {
       "added_at": "2022-02-10 23:02:00",
@@ -859,6 +843,22 @@
     {
       "added_at": "2022-02-10 23:02:00",
       "album": {
+        "name": "Live Radio City Music Hall 2003",
+        "url": "https://open.spotify.com/album/5wq0AUenn2o3RXoBelNsxu"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "duration_ms": 242933,
+      "name": "Never Too Much",
+      "url": "https://open.spotify.com/track/13lur7EjGHqLbKCaJRh5aG"
+    },
+    {
+      "added_at": "2022-02-10 23:02:00",
+      "album": {
         "name": "Gumbo Unplugged (Live)",
         "url": "https://open.spotify.com/album/6au0qzMOjqEgc79ntU2bf6"
       },
@@ -879,22 +879,6 @@
       "duration_ms": 452500,
       "name": "Everything's Gonna Be Alright (feat. BJ the Chicago Kid & The HamilTones) - Live",
       "url": "https://open.spotify.com/track/5EjEUW3OLWDcFR3JTnenIM"
-    },
-    {
-      "added_at": "2022-02-10 23:02:00",
-      "album": {
-        "name": "Live Radio City Music Hall 2003",
-        "url": "https://open.spotify.com/album/5wq0AUenn2o3RXoBelNsxu"
-      },
-      "artists": [
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        }
-      ],
-      "duration_ms": 242933,
-      "name": "Never Too Much",
-      "url": "https://open.spotify.com/track/13lur7EjGHqLbKCaJRh5aG"
     },
     {
       "added_at": "2022-02-10 23:02:00",
@@ -1003,22 +987,6 @@
     {
       "added_at": "2022-02-10 23:02:00",
       "album": {
-        "name": "Ex-Factor (BBC 1Xtra Live Lounge Recording)",
-        "url": "https://open.spotify.com/album/1rBjxPuibrLyILDyfIQUiu"
-      },
-      "artists": [
-        {
-          "name": "Jarrod Lawson",
-          "url": "https://open.spotify.com/artist/4iWcAreTBOIi9hUBa1TM2f"
-        }
-      ],
-      "duration_ms": 253183,
-      "name": "Ex-Factor - BBC 1Xtra Live Lounge Recording",
-      "url": "https://open.spotify.com/track/1Dhl63qchF6ZJ2BKIFvW3L"
-    },
-    {
-      "added_at": "2022-02-10 23:02:00",
-      "album": {
         "name": "Natural Wonder",
         "url": "https://open.spotify.com/album/6hu9W3TWiCF5sETB1pvrHl"
       },
@@ -1035,22 +1003,18 @@
     {
       "added_at": "2022-02-10 23:02:00",
       "album": {
-        "name": "Gumbo Unplugged (Live)",
-        "url": "https://open.spotify.com/album/6au0qzMOjqEgc79ntU2bf6"
+        "name": "Life on Planet Groove",
+        "url": "https://open.spotify.com/album/5GlkTpCBgyu1C8K25p9zj7"
       },
       "artists": [
         {
-          "name": "PJ Morton",
-          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
-        },
-        {
-          "name": "Keyon Harrold",
-          "url": "https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA"
+          "name": "Maceo Parker",
+          "url": "https://open.spotify.com/artist/4RAQZfFgR7NPAWjKwUpEeC"
         }
       ],
-      "duration_ms": 310091,
-      "name": "Claustrophobic (feat. Keyon Harrold) - Live",
-      "url": "https://open.spotify.com/track/6iT6Kah1ZZeCMGxKDmwcZF"
+      "duration_ms": 225893,
+      "name": "I Got You (I Feel Good)",
+      "url": "https://open.spotify.com/track/6aFyyr9Xm4zUtrrjlXeILO"
     },
     {
       "added_at": "2022-02-10 23:02:00",
@@ -1071,18 +1035,22 @@
     {
       "added_at": "2022-02-10 23:02:00",
       "album": {
-        "name": "Life on Planet Groove",
-        "url": "https://open.spotify.com/album/5GlkTpCBgyu1C8K25p9zj7"
+        "name": "Gumbo Unplugged (Live)",
+        "url": "https://open.spotify.com/album/6au0qzMOjqEgc79ntU2bf6"
       },
       "artists": [
         {
-          "name": "Maceo Parker",
-          "url": "https://open.spotify.com/artist/4RAQZfFgR7NPAWjKwUpEeC"
+          "name": "PJ Morton",
+          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
+        },
+        {
+          "name": "Keyon Harrold",
+          "url": "https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA"
         }
       ],
-      "duration_ms": 225893,
-      "name": "I Got You (I Feel Good)",
-      "url": "https://open.spotify.com/track/6aFyyr9Xm4zUtrrjlXeILO"
+      "duration_ms": 310091,
+      "name": "Claustrophobic (feat. Keyon Harrold) - Live",
+      "url": "https://open.spotify.com/track/6iT6Kah1ZZeCMGxKDmwcZF"
     },
     {
       "added_at": "2022-02-10 23:02:00",
@@ -1183,6 +1151,22 @@
     {
       "added_at": "2022-02-10 23:02:00",
       "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/0jEAeDxv9hnoIc1YO1kpUk"
+      },
+      "artists": [
+        {
+          "name": "Charles Bradley",
+          "url": "https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf"
+        }
+      ],
+      "duration_ms": 191611,
+      "name": "The World (Is Going Up in Flames) - Live From Spotify House SXSW '16",
+      "url": "https://open.spotify.com/track/1BbzDXEzmgyNT8jeCQvawN"
+    },
+    {
+      "added_at": "2022-02-10 23:02:00",
+      "album": {
         "name": "Stompin' At The Savoy",
         "url": "https://open.spotify.com/album/3j0kxKahatiR5d0sPPtTjP"
       },
@@ -1199,22 +1183,6 @@
       "duration_ms": 336440,
       "name": "You Got the Love - Live Version",
       "url": "https://open.spotify.com/track/5QVr1U4qIpdYIWOzAjbXfr"
-    },
-    {
-      "added_at": "2022-02-10 23:02:00",
-      "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/0jEAeDxv9hnoIc1YO1kpUk"
-      },
-      "artists": [
-        {
-          "name": "Charles Bradley",
-          "url": "https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf"
-        }
-      ],
-      "duration_ms": 191611,
-      "name": "The World (Is Going Up in Flames) - Live From Spotify House SXSW '16",
-      "url": "https://open.spotify.com/track/1BbzDXEzmgyNT8jeCQvawN"
     },
     {
       "added_at": "2022-02-10 23:02:00",
@@ -1251,18 +1219,18 @@
     {
       "added_at": "2022-02-10 23:02:00",
       "album": {
-        "name": "Live From San Francisco",
-        "url": "https://open.spotify.com/album/5AcqbIgJL2xHdmQqYM5TKn"
+        "name": "Grow (Live)",
+        "url": "https://open.spotify.com/album/6FzSw4Dgm0W32Fl9kqJ2iL"
       },
       "artists": [
         {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+          "name": "Samm Henshaw",
+          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
         }
       ],
-      "duration_ms": 295306,
-      "name": "I'd Rather Go Blind",
-      "url": "https://open.spotify.com/track/42iYnuwyoPHCV04u6WImDW"
+      "duration_ms": 182117,
+      "name": "Grow - Live",
+      "url": "https://open.spotify.com/track/781fdksygYiSUmabvlqKQQ"
     },
     {
       "added_at": "2022-02-10 23:02:00",
@@ -1283,18 +1251,18 @@
     {
       "added_at": "2022-02-10 23:02:00",
       "album": {
-        "name": "Grow (Live)",
-        "url": "https://open.spotify.com/album/6FzSw4Dgm0W32Fl9kqJ2iL"
+        "name": "Live From San Francisco",
+        "url": "https://open.spotify.com/album/5AcqbIgJL2xHdmQqYM5TKn"
       },
       "artists": [
         {
-          "name": "Samm Henshaw",
-          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
         }
       ],
-      "duration_ms": 182117,
-      "name": "Grow - Live",
-      "url": "https://open.spotify.com/track/781fdksygYiSUmabvlqKQQ"
+      "duration_ms": 295306,
+      "name": "I'd Rather Go Blind",
+      "url": "https://open.spotify.com/track/42iYnuwyoPHCV04u6WImDW"
     },
     {
       "added_at": "2022-02-10 23:02:00",
@@ -1331,6 +1299,22 @@
     {
       "added_at": "2022-02-10 23:02:00",
       "album": {
+        "name": "Live At The Jazz Cafe, London",
+        "url": "https://open.spotify.com/album/6CJecR5ViEgD3KxVGMmiRi"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 398986,
+      "name": "Cruisin' - Live At The Jazz Cafe, London/1995",
+      "url": "https://open.spotify.com/track/5jwiURsWM9gljlr4IWIk1l"
+    },
+    {
+      "added_at": "2022-02-10 23:02:00",
+      "album": {
         "name": "One Nite Alone... The Aftershow: It Ain't Over! (Up Late with Prince & The NPG) [Live]",
         "url": "https://open.spotify.com/album/4cnxxYwMvBQN4LGEq2nKVq"
       },
@@ -1351,18 +1335,18 @@
     {
       "added_at": "2022-02-10 23:02:00",
       "album": {
-        "name": "Live At The Jazz Cafe, London",
-        "url": "https://open.spotify.com/album/6CJecR5ViEgD3KxVGMmiRi"
+        "name": "These Songs for You, Live!",
+        "url": "https://open.spotify.com/album/1cjwUx7RBiHrMcTmknJKVY"
       },
       "artists": [
         {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+          "name": "Donny Hathaway",
+          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
         }
       ],
-      "duration_ms": 398986,
-      "name": "Cruisin' - Live At The Jazz Cafe, London/1995",
-      "url": "https://open.spotify.com/track/5jwiURsWM9gljlr4IWIk1l"
+      "duration_ms": 355400,
+      "name": "I Love You More Than You'll Ever Know - Live at the Bitter End, New York City, 1971",
+      "url": "https://open.spotify.com/track/76SMwORz2FzhaKYia69yaa"
     },
     {
       "added_at": "2022-02-10 23:02:00",
@@ -1379,22 +1363,6 @@
       "duration_ms": 222490,
       "name": "Walk With Me - Live from Blackbird Studio",
       "url": "https://open.spotify.com/track/0TL3xsQ95neiYaeDcZAW3L"
-    },
-    {
-      "added_at": "2022-02-10 23:02:00",
-      "album": {
-        "name": "These Songs for You, Live!",
-        "url": "https://open.spotify.com/album/1cjwUx7RBiHrMcTmknJKVY"
-      },
-      "artists": [
-        {
-          "name": "Donny Hathaway",
-          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
-        }
-      ],
-      "duration_ms": 355400,
-      "name": "I Love You More Than You'll Ever Know - Live at the Bitter End, New York City, 1971",
-      "url": "https://open.spotify.com/track/76SMwORz2FzhaKYia69yaa"
     },
     {
       "added_at": "2022-02-10 23:02:00",
@@ -1431,18 +1399,18 @@
     {
       "added_at": "2022-02-10 23:02:00",
       "album": {
-        "name": "Live (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1e2wF72vtLQkH6jTvYvFQV"
+        "name": "Floacism \"Live\"",
+        "url": "https://open.spotify.com/album/09dDtTXan9iHABpbgea1oa"
       },
       "artists": [
         {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+          "name": "Floetry",
+          "url": "https://open.spotify.com/artist/0un6YenPxWZ2VW4aFGMupM"
         }
       ],
-      "duration_ms": 289600,
-      "name": "What's Going On - Live At Oakland Coliseum, CA / 1974",
-      "url": "https://open.spotify.com/track/5HKeylrH9lOy90PXK3KmAn"
+      "duration_ms": 356493,
+      "name": "Say Yes - Live At The House Of Blues, New Orleans / 2003",
+      "url": "https://open.spotify.com/track/54tuUilU05mObbh1Xhqu44"
     },
     {
       "added_at": "2022-02-10 23:02:00",
@@ -1463,54 +1431,6 @@
       "duration_ms": 236026,
       "name": "Feeling Good - Live",
       "url": "https://open.spotify.com/track/3mPaCNDaL3PhzpLbS9Xnwj"
-    },
-    {
-      "added_at": "2022-02-10 23:02:00",
-      "album": {
-        "name": "Floacism \"Live\"",
-        "url": "https://open.spotify.com/album/09dDtTXan9iHABpbgea1oa"
-      },
-      "artists": [
-        {
-          "name": "Floetry",
-          "url": "https://open.spotify.com/artist/0un6YenPxWZ2VW4aFGMupM"
-        }
-      ],
-      "duration_ms": 356493,
-      "name": "Say Yes - Live At The House Of Blues, New Orleans / 2003",
-      "url": "https://open.spotify.com/track/54tuUilU05mObbh1Xhqu44"
-    },
-    {
-      "added_at": "2022-02-10 23:02:00",
-      "album": {
-        "name": "Live At The Jazz Cafe, London",
-        "url": "https://open.spotify.com/album/6CJecR5ViEgD3KxVGMmiRi"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 645040,
-      "name": "Brown Sugar - Live At The Jazz Cafe, London/1995",
-      "url": "https://open.spotify.com/track/0OrHlUYXJ0AdHUD24AS7Ya"
-    },
-    {
-      "added_at": "2022-02-10 23:02:00",
-      "album": {
-        "name": "In Performance",
-        "url": "https://open.spotify.com/album/5GKpUSUujdodLbsrJPu4FW"
-      },
-      "artists": [
-        {
-          "name": "Donny Hathaway",
-          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
-        }
-      ],
-      "duration_ms": 348240,
-      "name": "A Song for You - Live at the Troubador, Los Angeles, CA",
-      "url": "https://open.spotify.com/track/5oGeWBSshB56q9dXNLZpdN"
     },
     {
       "added_at": "2022-02-10 23:02:00",
@@ -1543,6 +1463,38 @@
       "duration_ms": 158266,
       "name": "Nobody Knows You When You're Down And Out - Live In New York",
       "url": "https://open.spotify.com/track/3fNTedfPQEwQhBNxGHtR3F"
+    },
+    {
+      "added_at": "2022-02-10 23:02:00",
+      "album": {
+        "name": "Live At The Jazz Cafe, London",
+        "url": "https://open.spotify.com/album/6CJecR5ViEgD3KxVGMmiRi"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 645040,
+      "name": "Brown Sugar - Live At The Jazz Cafe, London/1995",
+      "url": "https://open.spotify.com/track/0OrHlUYXJ0AdHUD24AS7Ya"
+    },
+    {
+      "added_at": "2022-02-10 23:02:00",
+      "album": {
+        "name": "In Performance",
+        "url": "https://open.spotify.com/album/5GKpUSUujdodLbsrJPu4FW"
+      },
+      "artists": [
+        {
+          "name": "Donny Hathaway",
+          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
+        }
+      ],
+      "duration_ms": 348240,
+      "name": "A Song for You - Live at the Troubador, Los Angeles, CA",
+      "url": "https://open.spotify.com/track/5oGeWBSshB56q9dXNLZpdN"
     },
     {
       "added_at": "2022-02-10 23:02:00",
@@ -1583,22 +1535,6 @@
     {
       "added_at": "2022-02-10 23:02:00",
       "album": {
-        "name": "Live In Stockholm",
-        "url": "https://open.spotify.com/album/0VgPK1zGg0JIe5fXAbfkVT"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 341551,
-      "name": "Send It On",
-      "url": "https://open.spotify.com/track/65sYHQJ9QJTgG5RHZY4gRN"
-    },
-    {
-      "added_at": "2022-02-10 23:02:00",
-      "album": {
         "name": "Betty Wright Live",
         "url": "https://open.spotify.com/album/1jssvEYMHpe5sR0PwRhUTu"
       },
@@ -1611,22 +1547,6 @@
       "duration_ms": 348733,
       "name": "You Can't See for Lookin' - Live",
       "url": "https://open.spotify.com/track/1qM8NHToA1ObTPMEVI7Yy8"
-    },
-    {
-      "added_at": "2022-02-10 23:02:00",
-      "album": {
-        "name": "The Womack Live",
-        "url": "https://open.spotify.com/album/6V7Xe40jkKb1MtdCwzO21A"
-      },
-      "artists": [
-        {
-          "name": "Bobby Womack",
-          "url": "https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq"
-        }
-      ],
-      "duration_ms": 366773,
-      "name": "California Dreamin' - Live In Hollywood / 1968",
-      "url": "https://open.spotify.com/track/1nmwDIOcxdrL81PQXHI9kg"
     },
     {
       "added_at": "2022-02-10 23:02:00",
@@ -1647,6 +1567,38 @@
     {
       "added_at": "2022-02-10 23:02:00",
       "album": {
+        "name": "Live In Stockholm",
+        "url": "https://open.spotify.com/album/0VgPK1zGg0JIe5fXAbfkVT"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 341551,
+      "name": "Send It On",
+      "url": "https://open.spotify.com/track/65sYHQJ9QJTgG5RHZY4gRN"
+    },
+    {
+      "added_at": "2022-02-10 23:02:00",
+      "album": {
+        "name": "The Womack Live",
+        "url": "https://open.spotify.com/album/6V7Xe40jkKb1MtdCwzO21A"
+      },
+      "artists": [
+        {
+          "name": "Bobby Womack",
+          "url": "https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq"
+        }
+      ],
+      "duration_ms": 366773,
+      "name": "California Dreamin' - Live In Hollywood / 1968",
+      "url": "https://open.spotify.com/track/1nmwDIOcxdrL81PQXHI9kg"
+    },
+    {
+      "added_at": "2022-02-10 23:02:00",
+      "album": {
         "name": "Tokyo... Live",
         "url": "https://open.spotify.com/album/5ON1SpKi7LFb8axFjAmpEJ"
       },
@@ -1659,6 +1611,54 @@
       "duration_ms": 232706,
       "name": "Let's Stay Together - Live",
       "url": "https://open.spotify.com/track/474iAHLvDbXAQnEI82i4RW"
+    },
+    {
+      "added_at": "2022-02-10 23:02:00",
+      "album": {
+        "name": "Good To Me: Recorded Live At The Whisky A Go Go Vol. 2",
+        "url": "https://open.spotify.com/album/4GBpI2RteJ9C51Mf1OgZAQ"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 210666,
+      "name": "These Arms Of Mine",
+      "url": "https://open.spotify.com/track/03pSPi9O3N1CkZ12M6Av44"
+    },
+    {
+      "added_at": "2022-02-10 23:02:00",
+      "album": {
+        "name": "Alive (Live At the Jazz Cafe, London)",
+        "url": "https://open.spotify.com/album/4uF0UXKgm2kqBUlN4NHcie"
+      },
+      "artists": [
+        {
+          "name": "Terry Callier",
+          "url": "https://open.spotify.com/artist/5cHmjJA9Lo0ga8s8QdxEzs"
+        }
+      ],
+      "duration_ms": 413413,
+      "name": "You're Gonna Miss Your Candy Man - Live",
+      "url": "https://open.spotify.com/track/4lHfktTRWq6a3pjq2Km8Xb"
+    },
+    {
+      "added_at": "2022-02-10 23:02:00",
+      "album": {
+        "name": "One Night Only (Live At The Royal Albert Hall / 02 April 2018)",
+        "url": "https://open.spotify.com/album/35q1zz2A5vTQvzSlmv2Aun"
+      },
+      "artists": [
+        {
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+        }
+      ],
+      "duration_ms": 333577,
+      "name": "No Love Dying - Live At The Royal Albert Hall / 02 April 2018",
+      "url": "https://open.spotify.com/track/5zqOcGH3Is5EvPoMG9rBtx"
     }
   ],
   "unique_name": "Soul Live",

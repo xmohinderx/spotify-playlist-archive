@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd4bJEFQJTXh.md) - [plain]
 
 > Turn down the lights, snack on some popcorn, and enjoy these tracks from your family's favorite films.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,284 likes - 139 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,291 likes - 139 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd4bJEFQJTXh.md) - [plain]
 | 83 | [That's How You Know \- From "Enchanted"/Soundtrack Version](https://open.spotify.com/track/1OzSfjFW08DTD51XoNnog7) | [Amy Adams](https://open.spotify.com/artist/1gkcZQArk5rV8uBwG8y5FX) | [Enchanted](https://open.spotify.com/album/3juYz5KfvUJYunlI3caxIc) | 3:48 |
 | 84 | [If I Didn't Have You \- From "Monsters, Inc."](https://open.spotify.com/track/1p71gtNQ7bolivNnzmNGAu) | [Billy Crystal](https://open.spotify.com/artist/4obZSxPoSs6iedmMKPzhwh), [John Goodman](https://open.spotify.com/artist/7dHoDG0MERt9fs7DHyWRJJ) | [Disney/Pixar Greatest](https://open.spotify.com/album/4Tf4nzRuf5W3EvHqigxcmv) | 3:39 |
 | 85 | [Parting Ways](https://open.spotify.com/track/7oYOgl26e4KPofzPKJhFxJ) | [Cody Chesnutt](https://open.spotify.com/artist/3sO8muEXafy2NGwUZByrTr) | [Soul \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88) | 2:20 |
-| 86 | [I Thought I Lost You \- Soundtrack](https://open.spotify.com/track/2Hlf0en29gylVvAPIFMRte) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [John Travolta](https://open.spotify.com/artist/4hKkEHkaqCsyxNxXEsszVH) | [Bolt](https://open.spotify.com/album/4pRN2ctEESw8NdxpWie66B) | 3:35 |
+| 86 | [I Thought I Lost You \- From "Bolt"](https://open.spotify.com/track/6NgpjbyLW4ung84NxbEm7N) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [John Travolta](https://open.spotify.com/artist/4hKkEHkaqCsyxNxXEsszVH) | [NOW That's What I Call Disney 3](https://open.spotify.com/album/5W902SLKc7njFSdXireqdC) | 3:35 |
 | 87 | [Forever](https://open.spotify.com/track/0nELsIU1usFlFYwGiszSTK) | [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz) | [The Lego Batman Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/20Am1bee946Kdace8R9bC0) | 3:48 |
 | 88 | [Can't Help Falling In Love](https://open.spotify.com/track/6zLXWVAskybBaM2L5rCxiG) | [A\*Teens](https://open.spotify.com/artist/5zMgvYBz4AW0gFyPtg7fR9) | [Lilo & Stitch](https://open.spotify.com/album/0tNLpUZfJKyxMS0nKlnyXP) | 3:07 |
 | 89 | [Rewrite The Stars](https://open.spotify.com/track/65fpYBrI8o2cfrwf2US4gq) | [Zac Efron](https://open.spotify.com/artist/6U1dBXJhC8gXFjamvFTmHg), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [The Greatest Showman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7ayBZIe1FHkNv0T5xFCX6F) | 3:37 |
@@ -129,7 +129,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd4bJEFQJTXh.md) - [plain]
 | 119 | [Shine Your Way](https://open.spotify.com/track/6xV6bjb0E7qdY6s1RVVr4t) | [Owl City](https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [The Croods \(Music from the Motion Picture\)](https://open.spotify.com/album/0qCghphBMTxX8cttxnWGXI) | 3:27 |
 | 120 | [Ooh La La \(from "The Smurfs 2"\)](https://open.spotify.com/track/7bpvfjoneSQvW0tbtVm1Jk) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Ooh La La \(from "The Smurfs 2"\)](https://open.spotify.com/album/7qMTrZjF1sh0rujrgczf8P) | 4:17 |
 | 121 | [I'm Still Standing \- From "Sing" Original Motion Picture Soundtrack](https://open.spotify.com/track/0mb7btREdC3wuIUmuVRgWn) | [Taron Egerton](https://open.spotify.com/artist/5nwjcZ87CGNRiO98nFKdOD) | [Sing \(Original Motion Picture Soundtrack / Deluxe\)](https://open.spotify.com/album/5Sdmly0VRVw0wIow5eMHAW) | 3:07 |
-| 122 | [Shiny \- From "Moana"/Soundtrack Version](https://open.spotify.com/track/4BEHMW1RcHJ0wOyKK1CH7B) | [Jemaine Clement](https://open.spotify.com/artist/1Ymky4GOgYA1NI96FCY8yE) | [Disney Summer Songs](https://open.spotify.com/album/6qykGE5x584duyLVYcnojE) | 3:05 |
+| 122 | [Shiny](https://open.spotify.com/track/1IZwCzAmaFmmdJj0cmhaax) | [Jemaine Clement](https://open.spotify.com/artist/1Ymky4GOgYA1NI96FCY8yE) | [Moana \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs) | 3:05 |
 | 123 | [CAN'T STOP THE FEELING! \(from DreamWorks Animation's "TROLLS"\)](https://open.spotify.com/track/1WkMMavIMc4JZ8cfMmxHkI) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [TROLLS \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7) | 3:57 |
 | 124 | [I Like To Move It](https://open.spotify.com/track/6iQL8Gf8tRk3J9MR3bymBq) | [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA) | [Kids Mega Hits 2021](https://open.spotify.com/album/4ImJNhGABc7QgMXlN7IdEO) | 3:42 |
 | 125 | [Firework](https://open.spotify.com/track/4lCv7b86sLynZbXhfScfm2) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 3:47 |
@@ -146,6 +146,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd4bJEFQJTXh.md) - [plain]
 | 136 | [Despicable Me](https://open.spotify.com/track/2EOMe4XAS7U6UA1mhDs9tP) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Despicable Me](https://open.spotify.com/album/0FcxFAcd4gP2kzHrQ95e1m) | 4:12 |
 | 137 | [Pokémon Theme](https://open.spotify.com/track/3OIHgTyQdiAGMmpjQaNxp3) | [Pokémon](https://open.spotify.com/artist/6goK4KMSdP4A8lw8jk4ADk) | [Pokemon \- 2.b.a\. Master \- Music From The Hit Tv Series](https://open.spotify.com/album/4R0boGQyiCUt3i7pAKCitR) | 3:18 |
 | 138 | [We No Speak Americano](https://open.spotify.com/track/2uWb5lvnMkQ3NfSXtlYaRR) | [Yolanda Be Cool](https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F), [DCup](https://open.spotify.com/artist/6OkVmXCnj1BPjTf5aihiwt) | [Sweat It Out! Classics](https://open.spotify.com/album/6QKgRO4xqRZUVRqEVAzVhS) | 4:29 |
-| 139 | [Freedom](https://open.spotify.com/track/6RB9YvNyP0RZfCUcMtZELH) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Freedom](https://open.spotify.com/album/3Aw8a13WJi24hkjRRtMp9n) | 2:42 |
+| 139 | [Freedom](https://open.spotify.com/track/5cq7ZfNEAT3Rw2GRQJmVq0) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [2010s Hits](https://open.spotify.com/album/5jdzXYmv7zWMdoJzcXrFQ9) | 2:42 |
 
-Snapshot ID: `MTY1MTUwMzI0OCwwMDAwMDAwMGI5MWYyZWVmYTZiZGU3NWY1NDMzMWM4M2Y1Yzc0ZjFj`
+Snapshot ID: `MTY1MTUwMzI0OCwwMDAwMDAwMGE5MTIzMmM2NjcxMDA4N2VkMmU5NDY3NzI3NjBhNjQx`

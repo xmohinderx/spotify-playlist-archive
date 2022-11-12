@@ -9767,7 +9767,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 129812,
       "name": "Next Ex",
       "url": "https://open.spotify.com/track/6pkDDxuxe9gkkLRI33mQFn"
@@ -9977,6 +9977,24 @@
       "duration_ms": 167759,
       "name": "Nomu",
       "url": "https://open.spotify.com/track/4vLqMaYufCNrk4D2DA3mja"
+    },
+    {
+      "album": {
+        "name": "Sonder (Deluxe)",
+        "url": "https://open.spotify.com/album/3GsklSgrjsGXpon2kSFT5J"
+      },
+      "artists": [
+        {
+          "name": "The Wrecks",
+          "url": "https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273157,
+      "name": "Normal (Acoustic)",
+      "url": "https://open.spotify.com/track/2gbDhXquxmfOEDhOyWaZrc"
     },
     {
       "album": {
@@ -14569,7 +14587,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 240866,
       "name": "Tunnel Vision",
       "url": "https://open.spotify.com/track/74kXBXZW06evdyhknXq6ZX"
@@ -15385,7 +15403,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-03",
+      "date_removed": null,
       "duration_ms": 188891,
       "name": "When You're Around",
       "url": "https://open.spotify.com/track/4C3vAnXJmFR2McECc1du5l"

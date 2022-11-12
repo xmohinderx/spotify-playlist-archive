@@ -4,7 +4,7 @@
 
 > The most definitive female voices in Disco\. Cover: Chaka Khan
 
-55 songs - 3 hr 48 min - [published](https://open.spotify.com/playlist/6o3V1jZmHWvECMVGyJ14Gh)
+58 songs - 4 hr 0 min - [published](https://open.spotify.com/playlist/6o3V1jZmHWvECMVGyJ14Gh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,14 +31,16 @@
 | [Funky Town](https://open.spotify.com/track/7723JnKU2R15Iv4T7OJrly) | [Lipps Inc.](https://open.spotify.com/artist/0lwRI7lvmlRY5DiA5Xa6wQ) | [Paradas Continuas](https://open.spotify.com/album/3r4KvV3xbEN0VAHthWYnAE) | 3:59 | 2019-02-26 | 2022-07-29 |
 | [Funkytown \- Single Version](https://open.spotify.com/track/0iSrfG3WOzSBE4eOsXHsrj) | [Lipps Inc.](https://open.spotify.com/artist/0lwRI7lvmlRY5DiA5Xa6wQ) | [WEDDING CEREMONY MUSIC](https://open.spotify.com/album/3Rsf9NCUUALZNz6moKCrkM) | 3:54 | 2019-02-26 | 2022-08-01 |
 | [Funkytown \- Single Version](https://open.spotify.com/track/1tyP720IpIJl4dxnMmlYis) | [Lipps Inc.](https://open.spotify.com/artist/0lwRI7lvmlRY5DiA5Xa6wQ) | [70's Music \- I Grandi Successi](https://open.spotify.com/album/62SQumLuxmWJvXzIYul0pg) | 3:54 | 2019-02-26 | 2022-08-22 |
-| [Funkytown \- Single Version](https://open.spotify.com/track/0B5kY9i9bmP7554oU4jRoO) | [Lipps Inc.](https://open.spotify.com/artist/0lwRI7lvmlRY5DiA5Xa6wQ) | ['80s Pop \#1's](https://open.spotify.com/album/4Z1n0xes29RVzPttal9QOY) | 4:05 | 2019-02-26 |  |
+| [Funkytown \- Single Version](https://open.spotify.com/track/6al1jqUvx8DNy1LLlxiXCo) | [Lipps Inc.](https://open.spotify.com/artist/0lwRI7lvmlRY5DiA5Xa6wQ) | [Smile](https://open.spotify.com/album/3Ops0OHRGwjdQYgIRFRORt) | 3:54 | 2019-02-26 |  |
+| [Funkytown \- Single Version](https://open.spotify.com/track/0B5kY9i9bmP7554oU4jRoO) | [Lipps Inc.](https://open.spotify.com/artist/0lwRI7lvmlRY5DiA5Xa6wQ) | ['80s Pop \#1's](https://open.spotify.com/album/4Z1n0xes29RVzPttal9QOY) | 4:05 | 2019-02-26 | 2022-11-12 |
 | [Got to Be Real](https://open.spotify.com/track/58r4JuwHhXLAkttkaUZfLw) | [Cheryl Lynn](https://open.spotify.com/artist/6UfoTQXaV3DuqtDVjZIxwZ) | [Cheryl Lynn \(Expanded Edition\)](https://open.spotify.com/album/059jmsqbxhu2n78LMS0H3P) | 5:07 | 2019-02-26 |  |
 | [He's the Greatest Dancer \- 1995 Remaster](https://open.spotify.com/track/5MuNxNox3zTanAFIO5KcTl) | [Sister Sledge](https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays) | [Atlantic 60th: On The Dance Floor Vol\. 2](https://open.spotify.com/album/7liGswqymvHdcDREn3FQDz) | 6:15 | 2019-02-26 |  |
 | [Heart Of Glass \- Special Mix](https://open.spotify.com/track/0a4agFmqHXxcZl1nho1BxM) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Best Of Blondie](https://open.spotify.com/album/7mEjsBlRmfP63cH1gdPT6A) | 4:35 | 2019-02-26 |  |
 | [Hot Stuff](https://open.spotify.com/track/424pNN5XqYHje4vNpuHgBT) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [The Dance Collection](https://open.spotify.com/album/7FqRt16IDbD2LvgJ4Otqcp) | 6:40 | 2019-02-26 |  |
 | [I Wanna Dance with Somebody \(Who Loves Me\)](https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney](https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t) | 4:51 | 2019-02-26 |  |
 | [I Will Survive](https://open.spotify.com/track/5xqdvCH8vYWqk90X0HJ2z3) | [Gloria Gaynor](https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5) | [Universal Masters Collection](https://open.spotify.com/album/7lguLDHv2F0Jm03mI9oDjS) | 3:17 | 2019-02-26 | 2022-07-29 |
-| [I Will Survive \- Original 7" Version](https://open.spotify.com/track/6fw12s3vAJQAt7lbICodwC) | [Gloria Gaynor](https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5) | [I Will Survive \(Phil Kelsey Remix\)](https://open.spotify.com/album/0afBUyhZUpKrvV9gxWWXM1) | 3:18 | 2019-02-26 |  |
+| [I Will Survive \- Original 7" Version](https://open.spotify.com/track/6fw12s3vAJQAt7lbICodwC) | [Gloria Gaynor](https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5) | [I Will Survive \(Phil Kelsey Remix\)](https://open.spotify.com/album/0afBUyhZUpKrvV9gxWWXM1) | 3:18 | 2019-02-26 | 2022-11-12 |
+| [I Will Survive \- Single Version](https://open.spotify.com/track/11mbgudZg9xtzd1NQUMQsh) | [Gloria Gaynor](https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5) | [20 \#1’s: Disco](https://open.spotify.com/album/516VlzUNettigNhOnhMY5w) | 3:16 | 2019-02-26 |  |
 | [I'm Every Woman](https://open.spotify.com/track/1oFiPGBafH9Woo9AMwgBSl) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Chaka](https://open.spotify.com/album/2lvaLIoEg3hwL2dybu6zTC) | 4:09 | 2019-02-26 |  |
 | [I'm So Excited](https://open.spotify.com/track/1XvrMOEi2oLFYdrkfIX3xG) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [Hits!](https://open.spotify.com/album/0LBcWbF2oWhRfCbbUyB35L) | 3:53 | 2019-02-26 |  |
 | [If I Can't Have You](https://open.spotify.com/track/0QjPiq9Wka9I1b4uzWETYI) | [Yvonne Elliman](https://open.spotify.com/artist/2d6JU9LvNhZR7AAtu4x2rS) | [The Best Of Yvonne Elliman](https://open.spotify.com/album/0AzxFeB4qg0FXpmXTDuyDj) | 3:00 | 2019-02-26 | 2022-11-11 |
@@ -55,7 +57,8 @@
 | [Love Sensation](https://open.spotify.com/track/4OmDRl8nlE1IkWkwS82nY3) | [Loleatta Holloway](https://open.spotify.com/artist/3m5hegxlB80Z2zQb1893pc) | [Love Sensation](https://open.spotify.com/album/4eK7j8ZSR9AGn3mR8WGqtr) | 6:06 | 2019-02-26 |  |
 | [More, More, More](https://open.spotify.com/track/4hepyFFOO9I7oZCNn3T2sz) | [Andrea True Connection](https://open.spotify.com/artist/3GHovBcEWpbnwCZDPF9GpM) | [More, More, More](https://open.spotify.com/album/4xQKeiJzX2EmCXt5XdGiTN) | 3:42 | 2019-02-26 |  |
 | [Pull Up To The Bumper](https://open.spotify.com/track/3a5l5ngK3O7sprzL3FUoAs) | [Grace Jones](https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd) | [Nightclubbing \(2014 Remaster / Deluxe\)](https://open.spotify.com/album/0Asrv0BRKSQcRPMcfFFXaK) | 4:41 | 2019-02-26 | 2022-07-29 |
-| [Pull Up To The Bumper](https://open.spotify.com/track/653Fi3bqMxQQQmjw72ur6G) | [Grace Jones](https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd) | [Nightclubbing](https://open.spotify.com/album/4RmUcjaKiuQIw3NGMrjBca) | 4:41 | 2019-02-26 |  |
+| [Pull Up To The Bumper](https://open.spotify.com/track/5VpDYLvj2R2D69irsL5Mra) | [Grace Jones](https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd) | [Fill The Dance Floor](https://open.spotify.com/album/5gc6mLkEYKdwD58QlODJED) | 4:41 | 2019-02-26 |  |
+| [Pull Up To The Bumper](https://open.spotify.com/track/653Fi3bqMxQQQmjw72ur6G) | [Grace Jones](https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd) | [Nightclubbing](https://open.spotify.com/album/4RmUcjaKiuQIw3NGMrjBca) | 4:41 | 2019-02-26 | 2022-11-12 |
 | [Ring My Bell](https://open.spotify.com/track/2BEArHIJsI5fxYEpCZv2sF) | [Anita Ward](https://open.spotify.com/artist/3Dd6jD1AApgtNoU6SJWR7P) | [Ring My Bell](https://open.spotify.com/album/5iGr1ahzViyPqmOUxSzYWo) | 3:32 | 2019-02-26 |  |
 | [Rough Diamond](https://open.spotify.com/track/0xeHrqvJVonxLfhhklFSsp) | [Madleen Kane](https://open.spotify.com/artist/2nCH7NlCpkfhzJMS4opstC) | [Rough Diamond](https://open.spotify.com/album/5ENQf6cVALR7MGWP50D7xY) | 6:20 | 2019-02-26 |  |
 | [Upside Down](https://open.spotify.com/track/76as3dkOkHGMAvwmaKXPMD) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [20th Century Masters: The Millennium Collection: Best of Diana Ross](https://open.spotify.com/album/54fyYXrRRfl7sMJYF8FXcX) | 4:06 | 2019-02-26 |  |

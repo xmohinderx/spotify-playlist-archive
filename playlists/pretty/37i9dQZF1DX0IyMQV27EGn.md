@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IyMQV27EGn.md) - [plain]
 
 > A collection of powerful voices and alluring siren songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 597,786 likes - 70 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 597,829 likes - 70 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IyMQV27EGn.md) - [plain]
 | 9 | [San Andreas' Fault](https://open.spotify.com/track/2jVIOVCin4pVYNSfPzaG4Z) | [Kathleen](https://open.spotify.com/artist/6UqUYZ8pMGiYhuyIcsH61y) | [San Andreas' Fault](https://open.spotify.com/album/1cBv7tS0NsZAlTxd6qLelN) | 3:44 |
 | 10 | [Kill Of The Night](https://open.spotify.com/track/2m17BTWlZq0wtS9cpJsCfM) | [Gin Wigmore](https://open.spotify.com/artist/4Gzfk9Lxm67nBs7E9BZjzG) | [Gravel & Wine](https://open.spotify.com/album/2HtT4gawEGgOvAPUO7tiU2) | 3:25 |
 | 11 | [Desire \[Feat Lucius\]](https://open.spotify.com/track/0AwEQyt4fcZNTIggXmkIRq) | [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht), [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Daylight](https://open.spotify.com/album/1ZUZuW2fR7J5JscL8FHpSC) | 3:00 |
-| 12 | [Not All Men](https://open.spotify.com/track/16HzLmAArSTpIUkgkizfOM) | [Morgan St\. Jean](https://open.spotify.com/artist/4kAyoGhVlC6PFg0FvMqmFB) | [Not All Men](https://open.spotify.com/album/7yuzurKlvq68HdLJj7l1lo) | 2:57 |
-| 13 | [Bravado](https://open.spotify.com/track/1vbnYODenOFCFWxYNRYw1N) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [The Love Club EP](https://open.spotify.com/album/0zUEZI3Z9kZuPoyoWakf75) | 3:41 |
+| 12 | [Bravado](https://open.spotify.com/track/1vbnYODenOFCFWxYNRYw1N) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [The Love Club EP](https://open.spotify.com/album/0zUEZI3Z9kZuPoyoWakf75) | 3:41 |
+| 13 | [Not All Men](https://open.spotify.com/track/16HzLmAArSTpIUkgkizfOM) | [Morgan St\. Jean](https://open.spotify.com/artist/4kAyoGhVlC6PFg0FvMqmFB) | [Not All Men](https://open.spotify.com/album/7yuzurKlvq68HdLJj7l1lo) | 2:57 |
 | 14 | [Fortune](https://open.spotify.com/track/3pgcazrvz4Rh6NXMkh2oaF) | [Wye Oak](https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB) | [Walk Soft](https://open.spotify.com/album/7gODKrPTaRE8iICxhmtI2K) | 3:49 |
 | 15 | [Raise Hell](https://open.spotify.com/track/4TWn4YeBaTqDURrYLd6k0a) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Bear Creek](https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE) | 4:08 |
 | 16 | [Devil’s Backbone](https://open.spotify.com/track/1XTp9AoHDoCQMmMWH0ch8M) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [The Civil Wars](https://open.spotify.com/album/79FSQez4eiOFA4Kx8Bxgyy) | 2:29 |
@@ -47,11 +47,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IyMQV27EGn.md) - [plain]
 | 37 | [Spider in the Roses \(feat\. Rob the Man\)](https://open.spotify.com/track/7GRjFivuEaOyRMYcKGryXz) | [Sonia Leigh](https://open.spotify.com/artist/6xezzx8L2FAC0MsGZSRLxg), [Daphne Willis](https://open.spotify.com/artist/40Qm9cpj6FlrkoL1sziJ2S), [Rob the Man](https://open.spotify.com/artist/3jO133hmnKXdj74oUVnEyr) | [Spider in the Roses \(feat\. Rob the Man\)](https://open.spotify.com/album/6gyyN6PWr0zYPg5y3EUOwf) | 3:22 |
 | 38 | [Glass Piano](https://open.spotify.com/track/4Rz3FamBRVJ6s1d0B0XGJ4) | [Kathleen](https://open.spotify.com/artist/6UqUYZ8pMGiYhuyIcsH61y) | [Kathleen II](https://open.spotify.com/album/53i39sp8XOhqNPZ9q7reFG) | 3:25 |
 | 39 | [Banshee](https://open.spotify.com/track/3GmYxpXRc62mj4SuJ4WEsl) | [Kendra Morris](https://open.spotify.com/artist/7rtM2wPKQlFpsm0C4qJlDk) | [Banshee](https://open.spotify.com/album/3dWQ2TtlpW3crGadeOldHe) | 3:46 |
-| 40 | [Want](https://open.spotify.com/track/7BVRDaghQHyDqtRdjdMTsu) | [Kelsey Waters](https://open.spotify.com/artist/7rjqEDqvREzfmSP58SLYXT) | [Want](https://open.spotify.com/album/0QrNnavvkoA9dehE8N3sSQ) | 2:50 |
-| 41 | [Get Free](https://open.spotify.com/track/1gYOBTHkk0Fv6hU8eow6sZ) | [Whissell](https://open.spotify.com/artist/1JIc2FMsvtccdSllBI6vZh) | [Get Free](https://open.spotify.com/album/3VQvjeHddEgwcWWlPpYUIe) | 3:14 |
+| 40 | [Moonrise](https://open.spotify.com/track/5NcrIQBZQDI5ngzOU06S54) | [WILDWOOD](https://open.spotify.com/artist/3Lzf1IWlT9sawIHyxBj89V) | [Moonrise](https://open.spotify.com/album/3xdz6wjuFKBPjCWoj0W7Dh) | 3:43 |
+| 41 | [Want](https://open.spotify.com/track/7BVRDaghQHyDqtRdjdMTsu) | [Kelsey Waters](https://open.spotify.com/artist/7rjqEDqvREzfmSP58SLYXT) | [Want](https://open.spotify.com/album/0QrNnavvkoA9dehE8N3sSQ) | 2:50 |
 | 42 | [Serious Love](https://open.spotify.com/track/5QPXi2dKDMQIpgDHxHODFt) | [Anya Marina](https://open.spotify.com/artist/6xYBLeSMu1AqPsnUzEvx5n) | [Serious Love](https://open.spotify.com/album/3Bfuqp7jMJ6lxrh5ZfVS3I) | 4:13 |
 | 43 | [Dark River](https://open.spotify.com/track/0b9sQP9v5pqIHOG2bEJhRu) | [Lydia Luce](https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH) | [Dark River](https://open.spotify.com/album/72vwwazB0Mccfmaev230zw) | 3:24 |
-| 44 | [Moonrise](https://open.spotify.com/track/5NcrIQBZQDI5ngzOU06S54) | [WILDWOOD](https://open.spotify.com/artist/3Lzf1IWlT9sawIHyxBj89V) | [Moonrise](https://open.spotify.com/album/3xdz6wjuFKBPjCWoj0W7Dh) | 3:43 |
+| 44 | [Get Free](https://open.spotify.com/track/1gYOBTHkk0Fv6hU8eow6sZ) | [Whissell](https://open.spotify.com/artist/1JIc2FMsvtccdSllBI6vZh) | [Get Free](https://open.spotify.com/album/3VQvjeHddEgwcWWlPpYUIe) | 3:14 |
 | 45 | [Beside Myself](https://open.spotify.com/track/4qVLEVLK2bbNHBKBuE8JZ3) | [Hesta Prynn](https://open.spotify.com/artist/1Ng8y6ZAaf4gS3ywP851bV) | [We Could Fall In Love](https://open.spotify.com/album/0IGGMUU4aXkCm0TYIsPiUh) | 3:55 |
 | 46 | [Master Hunter](https://open.spotify.com/track/2OqnctQz4VZpk8wcb9TPp4) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Once I Was An Eagle](https://open.spotify.com/album/35He6RuwS8C2KjG067Gobl) | 3:16 |
 | 47 | [It's All Okay](https://open.spotify.com/track/6S7kSzXe4dtiQSqqmkM0dD) | [Julia Stone](https://open.spotify.com/artist/4gZRt9wlRx1IsxT9glJdrc) | [By The Horns](https://open.spotify.com/album/3ZeDSF0GVS6jGFIrxsyjHE) | 3:54 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IyMQV27EGn.md) - [plain]
 | 65 | [Should I Stay Or Should I Go \- From The TV Show "Wicked City"](https://open.spotify.com/track/04wrnpT0QumuU3GPWbf0VV) | [KT Tunstall](https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL) | [Should I Stay Or Should I Go \(From The TV Show "Wicked City"\)](https://open.spotify.com/album/1ivkZkfGqLU1Rf8E92hxwf) | 4:03 |
 | 66 | [Presence](https://open.spotify.com/track/2wntS3awxMEUUJOd3Py19o) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Good Luck, Kid](https://open.spotify.com/album/4Nz2TKH4snc8EZMhsMDjgi) | 2:51 |
 | 67 | [God, Help Me](https://open.spotify.com/track/0MHl3Mr31DYK8p1lsUEVqP) | [Leah Blevins](https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW) | [God, Help Me](https://open.spotify.com/album/39zshfgyTuvgEfx4YOXAMT) | 2:57 |
-| 68 | [Don't Let Our Love Go Cold](https://open.spotify.com/track/1SuW6XhW5LpaynRzivaFnK) | [Red Rosamond](https://open.spotify.com/artist/5sWFdgVLTZt5jVHJfiPnJ3) | [Don't Let Our Love Go Cold](https://open.spotify.com/album/1Q4b0inFzXAsg9rTS4hDih) | 3:39 |
-| 69 | [This World](https://open.spotify.com/track/3ttKMMwWGBcp08UWhtdqd7) | [Selah Sue](https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu) | [Selah Sue](https://open.spotify.com/album/4QodEuQxjtrNR9htVuaUYr) | 4:44 |
+| 68 | [This World](https://open.spotify.com/track/3ttKMMwWGBcp08UWhtdqd7) | [Selah Sue](https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu) | [Selah Sue](https://open.spotify.com/album/4QodEuQxjtrNR9htVuaUYr) | 4:44 |
+| 69 | [Don't Let Our Love Go Cold](https://open.spotify.com/track/1SuW6XhW5LpaynRzivaFnK) | [Red Rosamond](https://open.spotify.com/artist/5sWFdgVLTZt5jVHJfiPnJ3) | [Don't Let Our Love Go Cold](https://open.spotify.com/album/1Q4b0inFzXAsg9rTS4hDih) | 3:39 |
 | 70 | [Touched \(Live\)](https://open.spotify.com/track/6WMqm7SOuCGgIBqXifY67N) | [Earl](https://open.spotify.com/artist/7pwoWOh2sbcmRFkk7QWQsS) | [Live at St\. Margarets Chapel \(Live\)](https://open.spotify.com/album/4iUKF6bSM4dAsGAfPHVQXm) | 3:02 |
 
-Snapshot ID: `MTY2MTQ4NjQwMCwwMDAwMDAwMGRkNWIxNGI0ZDc1NmQ0NGUyZjZhODVkNWFkZDVlYzM1`
+Snapshot ID: `MTY2MTQ4NjQwMCwwMDAwMDAwMDczZDZlMTljODVlNGQwMzYwNGJiNTFmMWMxODJjOWQw`

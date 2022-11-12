@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wQVfUHI1zt.md) - [plain]
 
 > All the Tejano classics for you to enjoy! Cover: Selena
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,265 likes - 75 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,366 likes - 75 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wQVfUHI1zt.md) - [plain]
 | 58 | [Lágrimas](https://open.spotify.com/track/2xPlmpzWIaOZftGk6f5e1r) | [La Tropa F](https://open.spotify.com/artist/4SsZpXami0QZZ5ScCsGsL1) | [Linea De Oro](https://open.spotify.com/album/1BLra4ZIzkDemHHTmMw1ae) | 3:42 |
 | 59 | [Eres Mi Todo](https://open.spotify.com/track/0bWKrBW9avAHSqsgYa19nE) | [Ram Herrera](https://open.spotify.com/artist/36wLXYkjSzjSqQ41WcVczE) | [Mucho Mas Que Amor](https://open.spotify.com/album/3LeSzG6DuuxpKdq48olrny) | 3:25 |
 | 60 | [Por Favor Corazon](https://open.spotify.com/track/1V7PDVic6fNKnq3Wk1jxiA) | [Gary Hobbs](https://open.spotify.com/artist/274Y6HvCIUkt5pi7jPWRke) | [Tejano Award Nominees](https://open.spotify.com/album/593414IuPj6r0WKUnqAdBy) | 3:43 |
-| 61 | [Como Te Extrano](https://open.spotify.com/track/1xXacwtojBabEce1MTLvkY) | [Pete Astudillo](https://open.spotify.com/artist/5wB9uZHnYDudrgfxOXUsjY) | [Tejano Award Nominees](https://open.spotify.com/album/593414IuPj6r0WKUnqAdBy) | 3:50 |
-| 62 | [Te Aprovechas](https://open.spotify.com/track/7gwiizzC4vTW5CuG7ibhmr) | [Grupo Limite](https://open.spotify.com/artist/2qWNYueLfc979iEdLOIK2C) | [90's Pop Hits en Español](https://open.spotify.com/album/5rQUlfLj9G99FGSpATHMxS) | 3:06 |
+| 61 | [Te Aprovechas](https://open.spotify.com/track/7gwiizzC4vTW5CuG7ibhmr) | [Grupo Limite](https://open.spotify.com/artist/2qWNYueLfc979iEdLOIK2C) | [90's Pop Hits en Español](https://open.spotify.com/album/5rQUlfLj9G99FGSpATHMxS) | 3:06 |
+| 62 | [Como Te Extrano](https://open.spotify.com/track/1xXacwtojBabEce1MTLvkY) | [Pete Astudillo](https://open.spotify.com/artist/5wB9uZHnYDudrgfxOXUsjY) | [Tejano Award Nominees](https://open.spotify.com/album/593414IuPj6r0WKUnqAdBy) | 3:50 |
 | 63 | [Todavía](https://open.spotify.com/track/7841qiiOMT0rInEgvm7JZd) | [Elsa Garcia](https://open.spotify.com/artist/1ueN9z9M3Xyk27jcjn8tLE) | [Tejano Old School](https://open.spotify.com/album/7H13yKuwgcVDVUkDObHcGU) | 3:37 |
 | 64 | [Que Tristeza](https://open.spotify.com/track/2oM0iRiHYqh7SDzjIKWRap) | [Jay Pérez](https://open.spotify.com/artist/4YqSt6mlUQUKuPLsMTDWTC) | [ANTHOLOGY: BACK IN THE DAY](https://open.spotify.com/album/23oqTk9aC9aeA1iKzPDBRE) | 2:47 |
 | 65 | [Amor Querido](https://open.spotify.com/track/3Wx6K6u4Q13a4lbdCLlXjR) | [Ram Herrera](https://open.spotify.com/artist/36wLXYkjSzjSqQ41WcVczE) | [12 Favoritas](https://open.spotify.com/album/6AAXyPYIMRcRSJjsboOZdk) | 4:00 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wQVfUHI1zt.md) - [plain]
 | 74 | [Si Una Vez](https://open.spotify.com/track/6XFduBZIOMyOV8sCcHuYzb) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Lo Mejor De…](https://open.spotify.com/album/2M4sLkOugMuMYosMaM0X6f) | 2:47 |
 | 75 | [A Tu Lado](https://open.spotify.com/track/5X4XT9GZFvPgpQGx7hjzJX) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Siempre Pensando en Ti](https://open.spotify.com/album/7qOe8Bc1072Lf2z1tdZTYH) | 3:44 |
 
-Snapshot ID: `MTY0MTAyNDAwMCwwMDAwMDAwMDI3YjUzYmVlZDkxYmZlZmVlOTlmZmYyMjVmOGQ4MmU5`
+Snapshot ID: `MTY0MTAyNDAwMCwwMDAwMDAwMDVhZDhjNmE3YzEyMzkyYThiZmU1ZmMyNjNkZTBhNjQ3`

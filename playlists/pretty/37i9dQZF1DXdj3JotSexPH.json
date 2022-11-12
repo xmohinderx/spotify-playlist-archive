@@ -1,29 +1,13 @@
 {
   "description": "It\u2019s Gaming Time!",
-  "num_followers": 31143,
+  "num_followers": 31167,
   "original_name": "Yalla Gaming",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTg0NzY5NiwwMDAwMDAwMDc2OTliN2UyZjM1MDk5ZjY3NWI2MjEzOTI4YjU1NGEy",
+  "snapshot_id": "MTY2NTg0NzY5NiwwMDAwMDAwMDViZGRhZGVhMmI5NDA3ZjdkNzI1YWY4YzRiNDA0YzY0",
   "tracks": [
-    {
-      "added_at": "2022-10-15 15:28:16",
-      "album": {
-        "name": "After Hours",
-        "url": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 200040,
-      "name": "Blinding Lights",
-      "url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
-    },
     {
       "added_at": "2022-10-15 15:28:16",
       "album": {
@@ -43,6 +27,22 @@
       "duration_ms": 218364,
       "name": "Jimmy Cooks (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe"
+    },
+    {
+      "added_at": "2022-10-15 15:28:16",
+      "album": {
+        "name": "After Hours",
+        "url": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 200040,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
     },
     {
       "added_at": "2022-10-15 15:28:16",
@@ -147,6 +147,26 @@
     {
       "added_at": "2022-10-15 15:28:16",
       "album": {
+        "name": "Certified Lover Boy",
+        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 291175,
+      "name": "Fair Trade (with Travis Scott)",
+      "url": "https://open.spotify.com/track/40iJIUlhi6renaREYGeIDS"
+    },
+    {
+      "added_at": "2022-10-15 15:28:16",
+      "album": {
         "name": "Music To Be Murdered By",
         "url": "https://open.spotify.com/album/4otkd9As6YaxxEkIjXPiZ6"
       },
@@ -167,22 +187,6 @@
     {
       "added_at": "2022-10-15 15:28:16",
       "album": {
-        "name": "?",
-        "url": "https://open.spotify.com/album/2Ti79nwTsont5ZHfdxIzAm"
-      },
-      "artists": [
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        }
-      ],
-      "duration_ms": 166605,
-      "name": "SAD!",
-      "url": "https://open.spotify.com/track/3ee8Jmje8o58CHK66QrVC2"
-    },
-    {
-      "added_at": "2022-10-15 15:28:16",
-      "album": {
         "name": "FUTURE",
         "url": "https://open.spotify.com/album/17FBoXK1NU2rvJBbzdzw0r"
       },
@@ -199,22 +203,18 @@
     {
       "added_at": "2022-10-15 15:28:16",
       "album": {
-        "name": "Certified Lover Boy",
-        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
+        "name": "?",
+        "url": "https://open.spotify.com/album/2Ti79nwTsont5ZHfdxIzAm"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
         }
       ],
-      "duration_ms": 291175,
-      "name": "Fair Trade (with Travis Scott)",
-      "url": "https://open.spotify.com/track/40iJIUlhi6renaREYGeIDS"
+      "duration_ms": 166605,
+      "name": "SAD!",
+      "url": "https://open.spotify.com/track/3ee8Jmje8o58CHK66QrVC2"
     },
     {
       "added_at": "2022-10-15 15:28:16",
@@ -251,6 +251,22 @@
       "duration_ms": 175720,
       "name": "HIGHEST IN THE ROOM",
       "url": "https://open.spotify.com/track/3eekarcy7kvN4yt5ZFzltW"
+    },
+    {
+      "added_at": "2022-10-15 15:28:16",
+      "album": {
+        "name": "Honestly, Nevermind",
+        "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 243227,
+      "name": "Sticky",
+      "url": "https://open.spotify.com/track/4rmVZajAF7PkrCagGPHbqa"
     },
     {
       "added_at": "2022-10-15 15:28:16",
@@ -363,22 +379,6 @@
     {
       "added_at": "2022-10-15 15:28:16",
       "album": {
-        "name": "Honestly, Nevermind",
-        "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 243227,
-      "name": "Sticky",
-      "url": "https://open.spotify.com/track/4rmVZajAF7PkrCagGPHbqa"
-    },
-    {
-      "added_at": "2022-10-15 15:28:16",
-      "album": {
         "name": "ASTROWORLD",
         "url": "https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I"
       },
@@ -455,26 +455,6 @@
     {
       "added_at": "2022-10-15 15:28:16",
       "album": {
-        "name": "BLAME IT ON BABY",
-        "url": "https://open.spotify.com/album/623PL2MBg50Br5dLXC9E9e"
-      },
-      "artists": [
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        },
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        }
-      ],
-      "duration_ms": 181733,
-      "name": "ROCKSTAR (feat. Roddy Ricch)",
-      "url": "https://open.spotify.com/track/7ytR5pFWmSjzHJIeQkgog4"
-    },
-    {
-      "added_at": "2022-10-15 15:28:16",
-      "album": {
         "name": "Laugh Now Cry Later (feat. Lil Durk)",
         "url": "https://open.spotify.com/album/0qGdc7fNq9RNIPEzZufa43"
       },
@@ -495,6 +475,26 @@
     {
       "added_at": "2022-10-15 15:28:16",
       "album": {
+        "name": "BLAME IT ON BABY",
+        "url": "https://open.spotify.com/album/623PL2MBg50Br5dLXC9E9e"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "duration_ms": 181733,
+      "name": "ROCKSTAR (feat. Roddy Ricch)",
+      "url": "https://open.spotify.com/track/7ytR5pFWmSjzHJIeQkgog4"
+    },
+    {
+      "added_at": "2022-10-15 15:28:16",
+      "album": {
         "name": "The Melodic Blue",
         "url": "https://open.spotify.com/album/3r46DPIQeBQbjvjjV5mXGg"
       },
@@ -511,22 +511,6 @@
       "duration_ms": 252262,
       "name": "family ties (with Kendrick Lamar)",
       "url": "https://open.spotify.com/track/3QFInJAm9eyaho5vBzxInN"
-    },
-    {
-      "added_at": "2022-10-15 15:28:16",
-      "album": {
-        "name": "Nicotine",
-        "url": "https://open.spotify.com/album/0D7yJonn41qsrIQ7YdWk2z"
-      },
-      "artists": [
-        {
-          "name": "Trevor Daniel",
-          "url": "https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT"
-        }
-      ],
-      "duration_ms": 159381,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/0Aqi7ArnBrGblW5T6p2jmD"
     },
     {
       "added_at": "2022-10-15 15:28:16",
@@ -619,6 +603,26 @@
     {
       "added_at": "2022-10-15 15:28:16",
       "album": {
+        "name": "The Best In The World Pack",
+        "url": "https://open.spotify.com/album/00HZxSA1sOS9T3nA950sg4"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        }
+      ],
+      "duration_ms": 205426,
+      "name": "Money In The Grave (Drake ft. Rick Ross)",
+      "url": "https://open.spotify.com/track/5ry2OE6R2zPQFDO85XkgRb"
+    },
+    {
+      "added_at": "2022-10-15 15:28:16",
+      "album": {
         "name": "Breaking Me",
         "url": "https://open.spotify.com/album/3nBQlhUvErkw8DVpF47WAn"
       },
@@ -675,26 +679,6 @@
       "duration_ms": 139741,
       "name": "WHATS POPPIN",
       "url": "https://open.spotify.com/track/1jaTQ3nqY3oAAYyCTbIvnM"
-    },
-    {
-      "added_at": "2022-10-15 15:28:16",
-      "album": {
-        "name": "The Best In The World Pack",
-        "url": "https://open.spotify.com/album/00HZxSA1sOS9T3nA950sg4"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Rick Ross",
-          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
-        }
-      ],
-      "duration_ms": 205426,
-      "name": "Money In The Grave (Drake ft. Rick Ross)",
-      "url": "https://open.spotify.com/track/5ry2OE6R2zPQFDO85XkgRb"
     },
     {
       "added_at": "2022-10-15 15:28:16",
@@ -947,26 +931,6 @@
     {
       "added_at": "2022-10-15 15:28:16",
       "album": {
-        "name": "Extremes",
-        "url": "https://open.spotify.com/album/7h1PPe6YeLHGSu9gLRzQLj"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Trevor Daniel",
-          "url": "https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT"
-        }
-      ],
-      "duration_ms": 149508,
-      "name": "Extremes",
-      "url": "https://open.spotify.com/track/5nkkVqGi9YgFOwdbn4BYFM"
-    },
-    {
-      "added_at": "2022-10-15 15:28:16",
-      "album": {
         "name": "D-Day: A Gangsta Grillz Mixtape",
         "url": "https://open.spotify.com/album/3tFjhFPqGhhLrCULnPu7Wy"
       },
@@ -1055,6 +1019,26 @@
       "duration_ms": 177314,
       "name": "Heatin Up (feat. Gunna)",
       "url": "https://open.spotify.com/track/7KSSdFCBHCfq4KPzz78ghk"
+    },
+    {
+      "added_at": "2022-10-15 15:28:16",
+      "album": {
+        "name": "Extremes",
+        "url": "https://open.spotify.com/album/7h1PPe6YeLHGSu9gLRzQLj"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Trevor Daniel",
+          "url": "https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT"
+        }
+      ],
+      "duration_ms": 149508,
+      "name": "Extremes",
+      "url": "https://open.spotify.com/track/5nkkVqGi9YgFOwdbn4BYFM"
     },
     {
       "added_at": "2022-10-15 15:28:16",
@@ -1335,26 +1319,6 @@
     {
       "added_at": "2022-10-15 15:28:16",
       "album": {
-        "name": "Floor Seats II",
-        "url": "https://open.spotify.com/album/0QcZ0udPMK7JkcZW3ptDXV"
-      },
-      "artists": [
-        {
-          "name": "A$AP Ferg",
-          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
-        },
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 198306,
-      "name": "Dennis Rodman (feat. Tyga)",
-      "url": "https://open.spotify.com/track/2N8jIpNMutjwnt50OroVVL"
-    },
-    {
-      "added_at": "2022-10-15 15:28:16",
-      "album": {
         "name": "Hiya Hiya",
         "url": "https://open.spotify.com/album/4huoXKTPj0UF1x3GchIe0H"
       },
@@ -1371,6 +1335,26 @@
       "duration_ms": 217021,
       "name": "Hiya Hiya",
       "url": "https://open.spotify.com/track/24vfdXHFUYbUisMutVNjDQ"
+    },
+    {
+      "added_at": "2022-10-15 15:28:16",
+      "album": {
+        "name": "Floor Seats II",
+        "url": "https://open.spotify.com/album/0QcZ0udPMK7JkcZW3ptDXV"
+      },
+      "artists": [
+        {
+          "name": "A$AP Ferg",
+          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 198306,
+      "name": "Dennis Rodman (feat. Tyga)",
+      "url": "https://open.spotify.com/track/2N8jIpNMutjwnt50OroVVL"
     },
     {
       "added_at": "2022-10-15 15:28:16",
@@ -1583,6 +1567,22 @@
     {
       "added_at": "2022-10-15 15:28:16",
       "album": {
+        "name": "NDA",
+        "url": "https://open.spotify.com/album/3PgXw2IxijRfY0BdcSWESV"
+      },
+      "artists": [
+        {
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+        }
+      ],
+      "duration_ms": 188343,
+      "name": "hot girl bummer",
+      "url": "https://open.spotify.com/track/1K83A2018ofBsrIXbAjTrC"
+    },
+    {
+      "added_at": "2022-10-15 15:28:16",
+      "album": {
         "name": "Adriana Lima",
         "url": "https://open.spotify.com/album/11nWr65Cj1cRZ79eeRJICS"
       },
@@ -1595,6 +1595,22 @@
       "duration_ms": 181392,
       "name": "Adriana Lima",
       "url": "https://open.spotify.com/track/615yIBsABjpxbMLVXqYQgt"
+    },
+    {
+      "added_at": "2022-10-15 15:28:16",
+      "album": {
+        "name": "Only Positive Energy",
+        "url": "https://open.spotify.com/album/37eQtckqMN0s9eSNO7LyS9"
+      },
+      "artists": [
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+        }
+      ],
+      "duration_ms": 209438,
+      "name": "Dance Monkey",
+      "url": "https://open.spotify.com/track/03OHZnpZoELFxS7Jn5mT6L"
     },
     {
       "added_at": "2022-10-15 15:28:16",
@@ -1639,6 +1655,22 @@
     {
       "added_at": "2022-10-15 15:28:16",
       "album": {
+        "name": "NOW That's What I Call Music! Vol. 83",
+        "url": "https://open.spotify.com/album/3qCvZmBYk84q2vj3jonmEu"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 192666,
+      "name": "N95",
+      "url": "https://open.spotify.com/track/4GsMplCKuZQaYoLKlYXK8i"
+    },
+    {
+      "added_at": "2022-10-15 15:28:16",
+      "album": {
         "name": "Pablo",
         "url": "https://open.spotify.com/album/7yvCJaFB6MLnXbbZvbVk4R"
       },
@@ -1655,54 +1687,18 @@
     {
       "added_at": "2022-10-15 15:28:16",
       "album": {
-        "name": "No Pressure",
-        "url": "https://open.spotify.com/album/7zbu593gOe2GxgAmeXKWmw"
+        "name": "NOW That's What I Call Music! Vol. 74",
+        "url": "https://open.spotify.com/album/6numEuZLppWcXTtfhRJQmd"
       },
       "artists": [
         {
-          "name": "Logic",
-          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+          "name": "Trevor Daniel",
+          "url": "https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT"
         }
       ],
-      "duration_ms": 100291,
-      "name": "Perfect",
-      "url": "https://open.spotify.com/track/3kFDz5WB9H9he8ooZ7CkJo"
-    },
-    {
-      "added_at": "2022-10-15 15:28:16",
-      "album": {
-        "name": "\u0623\u0648\u0639\u062f\u0643",
-        "url": "https://open.spotify.com/album/3Xf22frxiaVa0XpStWpjWk"
-      },
-      "artists": [
-        {
-          "name": "Somaya El Khashab",
-          "url": "https://open.spotify.com/artist/2MU66oxMF85eZ0tItCiV0t"
-        },
-        {
-          "name": "Omar Kamal",
-          "url": "https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV"
-        }
-      ],
-      "duration_ms": 188499,
-      "name": "\u0623\u0648\u0639\u062f\u0643",
-      "url": "https://open.spotify.com/track/1wL4eoEifeVuF0ih7WXCfY"
-    },
-    {
-      "added_at": "2022-10-15 15:28:16",
-      "album": {
-        "name": "150",
-        "url": "https://open.spotify.com/album/6TpjzgthHnWlyejxMPBinW"
-      },
-      "artists": [
-        {
-          "name": "Freek",
-          "url": "https://open.spotify.com/artist/3mDNOQ147emFZ8WK7Fa2nI"
-        }
-      ],
-      "duration_ms": 101239,
-      "name": "Doos",
-      "url": "https://open.spotify.com/track/10p9dAdwouu6jqsb0vzeJg"
+      "duration_ms": 154093,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/6oUMWq0hCCAdtpcp2GemLd"
     }
   ],
   "unique_name": "Yalla Gaming",

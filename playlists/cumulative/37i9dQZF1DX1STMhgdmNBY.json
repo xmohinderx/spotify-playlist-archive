@@ -633,7 +633,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 298800,
       "name": "I Got a Mind to Give up Living",
       "url": "https://open.spotify.com/track/0WpiGyQFNJbtfxlSvBiQl2"
@@ -760,6 +760,24 @@
     },
     {
       "album": {
+        "name": "Bluesed Up Soul Classics",
+        "url": "https://open.spotify.com/album/2qKVu08JXkp4lpL57VjDq0"
+      },
+      "artists": [
+        {
+          "name": "Koko Taylor",
+          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300466,
+      "name": "I'd Rather Go Blind",
+      "url": "https://open.spotify.com/track/1CPoz537R6npR3w4VircRz"
+    },
+    {
+      "album": {
         "name": "From The Heart Of A Woman",
         "url": "https://open.spotify.com/album/5o48YTSOnQu5UrC8HEuj9h"
       },
@@ -771,7 +789,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 300466,
       "name": "I'd Rather Go Blind",
       "url": "https://open.spotify.com/track/1KQEzCaNkk8ioBMbBeSYLw"
@@ -973,7 +991,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 616560,
       "name": "Lucille",
       "url": "https://open.spotify.com/track/4ZSJs1cqeincEi2KjUGmZC"

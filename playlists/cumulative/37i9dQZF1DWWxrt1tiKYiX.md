@@ -4,7 +4,7 @@
 
 > Stripped\-down versions of all your favorite pop hits\. Cover: Dean Lewis
 
-138 songs - 7 hr 41 min - [published](https://open.spotify.com/playlist/6HVsDWyBbAUBPhu4S7Fnez)
+139 songs - 7 hr 45 min - [published](https://open.spotify.com/playlist/6HVsDWyBbAUBPhu4S7Fnez)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [Devil Doesn’t Bargain \- Acoustic](https://open.spotify.com/track/5iRlgbAfme5SYmUPYnZs6y) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Devil Doesn’t Bargain \(Acoustic\)](https://open.spotify.com/album/6R9I3f43R1OLJSGWixrqBo) | 2:41 | 2022-07-15 |  |
 | [Diamonds \- Acoustic](https://open.spotify.com/track/4y8OZW2dyWRobsi2w0C64W) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Diamonds \(Acoustic\)](https://open.spotify.com/album/6xMjjKuAngFJw7oh0lsfG8) | 3:14 | 2022-01-28 |  |
 | [everything i wanted](https://open.spotify.com/track/1YYFccBnGLTgNpzVjmAKQr) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Covers](https://open.spotify.com/album/1Nqzqrf8Gzapm03aVTQBWP) | 4:34 | 2022-01-28 | 2022-07-29 |
-| [everything i wanted](https://open.spotify.com/track/3kHPYnFzwQCPF7RaJs8Ezv) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Covers](https://open.spotify.com/album/56I8Oktz4fuZ58HYg1sXAe) | 4:34 | 2022-07-15 |  |
+| [everything i wanted](https://open.spotify.com/track/3kHPYnFzwQCPF7RaJs8Ezv) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Covers](https://open.spotify.com/album/56I8Oktz4fuZ58HYg1sXAe) | 4:34 | 2022-07-15 | 2022-11-12 |
+| [everything i wanted](https://open.spotify.com/track/7dj0cmssIZuJVj5BoGldRO) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [ACOUSTIC](https://open.spotify.com/album/3QOQBzwIpD6Xpg8RXxBc1R) | 4:34 | 2022-10-14 |  |
 | [Everytime \(Cover\)](https://open.spotify.com/track/0LbOiJLqqVStCVdO8lX1IR) | [AJ Mitchell](https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77) | [Everytime \(Cover\)](https://open.spotify.com/album/6BUQxlgMnt6sDXkfcm7Clm) | 2:28 | 2022-01-28 | 2022-07-02 |
 | [Fall Into Me \- Acoustic](https://open.spotify.com/track/3tb8o3JQwicRSkbaB2uUcG) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [Fall Into Me \(Acoustic\)](https://open.spotify.com/album/72yeKeLsex6CggzAfQ2mKz) | 3:55 | 2022-01-28 |  |
 | [Fear Of Being Alone \- Acoustic](https://open.spotify.com/track/2yT9NODpTJU5baYzEUTW38) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Three\. Two\. One\. \(Alternate Versions\)](https://open.spotify.com/album/7ANFds5bgqG6WycfbGlFfD) | 2:43 | 2022-01-28 |  |

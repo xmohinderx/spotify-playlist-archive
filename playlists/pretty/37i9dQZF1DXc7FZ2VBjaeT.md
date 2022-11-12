@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7FZ2VBjaeT.md) - [plain]
 
 > Listen to all her biggest hits, in one place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,413,334 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,413,914 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,18 +14,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7FZ2VBjaeT.md) - [plain]
 | 4 | [Rain On Me \(with Ariana Grande\)](https://open.spotify.com/track/24ySl2hOPGCDcxBxFIqWBu) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Rain On Me \(with Ariana Grande\)](https://open.spotify.com/album/4TqgXMSSTwP3RCo3MMSR6t) | 3:02 |
 | 5 | [The Edge Of Glory](https://open.spotify.com/track/2aoa5cKuiFjqVGpHUk4edI) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Pop Workout](https://open.spotify.com/album/2Qf3vLaKU7fg4a0x0ei8Ov) | 5:20 |
 | 6 | [Stupid Love](https://open.spotify.com/track/4K3Do0kIWdq1ZIEwhBa7ct) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Shower Studio](https://open.spotify.com/album/3CHZ4q1Z6A47iYz0opP8gB) | 3:13 |
-| 7 | [Poker Face](https://open.spotify.com/track/5R8dQOPq8haW94K7mgERlO) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Fame](https://open.spotify.com/album/1jpUMnKpRlng1OJN7LJauV) | 3:57 |
+| 7 | [Poker Face](https://open.spotify.com/track/2q55kslMGD7M0TVW85pcca) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [2000年代に流行った洋楽!](https://open.spotify.com/album/3iUSCE0uE5euGQZZV3wCNu) | 3:58 |
 | 8 | [Shallow \- Radio Edit](https://open.spotify.com/track/6QfS2wq5sSC1xAJCQsTSlj) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bradley Cooper](https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG) | [A Star Is Born Soundtrack \(Without Dialogue\)](https://open.spotify.com/album/3edjzMAVB9RYRd4UcZBchx) | 3:37 |
 | 9 | [Telephone](https://open.spotify.com/track/74yHWV5b0Ot9aaOpUcJmoO) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [The Post COVID\-19 Mixtape](https://open.spotify.com/album/4UIuRHezUozTl6eTJKnfwT) | 3:41 |
 | 10 | [Just Dance](https://open.spotify.com/track/0jU3QF8VMMAQCd9H8SVRad) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Colby O'Donis](https://open.spotify.com/artist/7fObcBw9VM3x7ntWKCYl0z) | [Throwback Summer Hits](https://open.spotify.com/album/6auf2DtlPoEpf5suJZ22JD) | 4:04 |
-| 11 | [Yoü And I](https://open.spotify.com/track/6rkAY9rk1NTFB94QxG3LJR) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Born This Way](https://open.spotify.com/album/2KkMVsxymoNR7hRmBcMttd) | 5:07 |
+| 11 | [Yoü And I](https://open.spotify.com/track/7Evcno8z8lqcWe0jSzkotS) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Merenda con POP](https://open.spotify.com/album/71T5BsRfSmKIH775IWTc8Y) | 5:07 |
 | 12 | [Alejandro](https://open.spotify.com/track/5qzeMc6uL3s9QvfeHK6VMP) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Pop Hits 2010 Vol\. 1I](https://open.spotify.com/album/7mXtjVnyUrunfAdGoNJdl2) | 4:34 |
 | 13 | [Million Reasons](https://open.spotify.com/track/1rpDLMm4FjGqMz6N1dZZo8) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Joanne \(Deluxe\)](https://open.spotify.com/album/1QV5fPVm9bIVWsm0ngE34T) | 3:25 |
 | 14 | [Sour Candy \(with BLACKPINK\)](https://open.spotify.com/track/6R6ZoHTypt5lt68MWbzZXv) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Sour Candy \(with BLACKPINK\)](https://open.spotify.com/album/6y6lP1WRfqEhv8RLy4ufZB) | 2:37 |
-| 15 | [Marry The Night](https://open.spotify.com/track/1k18nxjYj8R5iz82Ap7GEY) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Born This Way](https://open.spotify.com/album/2KkMVsxymoNR7hRmBcMttd) | 4:24 |
+| 15 | [Marry The Night](https://open.spotify.com/track/6xhcrb3BSNxqNVXfH6N1Uj) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [BORN THIS WAY THE TENTH ANNIVERSARY](https://open.spotify.com/album/6Yf9kML4wT3opmXhTUIfk7) | 4:24 |
 | 16 | [911](https://open.spotify.com/track/6qI0MU175Dk2DeoUjlrOpy) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Chromatica](https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP) | 2:52 |
 | 17 | [Paparazzi](https://open.spotify.com/track/5LXzcURZiVPEhTnTuEhmzR) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [First Class](https://open.spotify.com/album/2DxrG6YhMZCdoOrYfOi5iC) | 3:28 |
-| 18 | [Applause](https://open.spotify.com/track/5ka2ajep9OAvU5Sgduhiex) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [ARTPOP](https://open.spotify.com/album/2eRJUtI7nXrQ5uYQ7tzTo9) | 3:32 |
+| 18 | [Applause](https://open.spotify.com/track/4V709xAq9eM1LpSf7m2GYl) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [House Party Jams 2022](https://open.spotify.com/album/2aWER8L58L5S8NdZoxaWFc) | 3:32 |
 | 19 | [LoveGame](https://open.spotify.com/track/0mzQBmvulZc2nSPscftR7d) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Football Game Day](https://open.spotify.com/album/7mrb8JKVOjQpYtHs16DZau) | 3:36 |
 | 20 | [Perfect Illusion](https://open.spotify.com/track/2KZSAE8Q2czVxKAzEuxbNu) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Joanne \(Deluxe\)](https://open.spotify.com/album/1QV5fPVm9bIVWsm0ngE34T) | 3:02 |
 | 21 | [Hair](https://open.spotify.com/track/27pMfH0ba5cWg2tEl3zegS) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Uplifting Pop](https://open.spotify.com/album/3p5jlBmgiaEtU6UtOcD9I5) | 5:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7FZ2VBjaeT.md) - [plain]
 | 49 | [Joanne \(Where Do You Think You're Goin'?\) \- Piano Version](https://open.spotify.com/track/2jhD828DCOaOrmrwC4ZX9a) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Chill Out Good Vibes](https://open.spotify.com/album/3PBMkwiN2L1bLPkrDj4DvL) | 4:39 |
 | 50 | [Anything Goes](https://open.spotify.com/track/53AmnlRSyicd0MP1u0MaUH) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [christmas but not christmas songs](https://open.spotify.com/album/6WTqtw3HlucpR9AFlVDlaa) | 2:03 |
 
-Snapshot ID: `MTY1NDg1MDM4MCwwMDAwMDAwMDk0ODIzMGJlNzkyYTZlNDk3ZDJhZDk4ODRiMmY2M2Vk`
+Snapshot ID: `MTY1NDg1MDM4MCwwMDAwMDAwMDU2NjNjYzMzZDc0NjIyOWRhOWNiZjgxZTY2ZGZhYjFk`

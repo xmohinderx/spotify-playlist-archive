@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU4C3nPzApC.md) - [plain]
 
 > The best music with a Nashville flavour\. Cover: The Shires
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,733 likes - 55 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,813 likes - 55 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU4C3nPzApC.md) - [plain]
 | 45 | [My Boy](https://open.spotify.com/track/47fyYjbsfq48e3fUys4Xaa) | [Elvie Shane](https://open.spotify.com/artist/2eIB6vFotL2su94z3pUC1j) | [Backslider](https://open.spotify.com/album/3ajAv3GaQivcQyU5JuE8eY) | 3:23 |
 | 46 | [Ceremony](https://open.spotify.com/track/4ei1wfqTvqneY8b9pbdtY6) | [Tommy Ashby](https://open.spotify.com/artist/7y1RS42LqlRYnpONXTjN3t), [Lydia Clowes](https://open.spotify.com/artist/4KNIAGw8aeV4ZgMxzjqkeH) | [Lay Low EP](https://open.spotify.com/album/6ybtVG56huE7EZGWsz6gYv) | 3:05 |
 | 47 | [Song of the Summer](https://open.spotify.com/track/6Ig11LezmkpIA32TnirLhB) | [Tebey](https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo) | [Song of the Summer](https://open.spotify.com/album/4fpWwAbSqxqm1QmomZuBxk) | 3:06 |
-| 48 | [Diamond Studded Shoes](https://open.spotify.com/track/5SfM1f729pv1DdiEcyDiex) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Stand For Myself](https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV) | 3:24 |
+| 48 | [Diamond Studded Shoes](https://open.spotify.com/track/40IKRcWQ7AmmLe0397l1Wb) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Festival Music 2022](https://open.spotify.com/album/4GWUWeGzDHP3J6hIKKrTB5) | 3:24 |
 | 49 | [Little House Big Love](https://open.spotify.com/track/3qaFMNCJrxzO8o5Yi13uwN) | [Jack & Tim](https://open.spotify.com/artist/1fgrPRvmKUdRM6nwm3skRB) | [Little House Big Love](https://open.spotify.com/album/0qHXZk39IiGrPUhj2UwtS3) | 3:03 |
 | 50 | [State of Confusion](https://open.spotify.com/track/6ArMUBqG9GGwcIaB9Wxzds) | [Cody Feechan](https://open.spotify.com/artist/56nyJ2SOAZ68LazVaeMSZE) | [State of Confusion](https://open.spotify.com/album/2MAMSO7SadIyXAEVXxMDq6) | 3:41 |
 | 51 | [Bruise You Left](https://open.spotify.com/track/4QlQ9E86UWTyLNO8724Drv) | [The Rising](https://open.spotify.com/artist/0I4Sg6JkRdKpkOTichDMpI) | [Bruise You Left](https://open.spotify.com/album/0lCoGeUUOQ2iQXk8FJsg2D) | 3:00 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU4C3nPzApC.md) - [plain]
 | 54 | [Sunshine & White Wine](https://open.spotify.com/track/5ZrU3Wkpro4V1b9jNXuZRw) | [Savannah Jaine](https://open.spotify.com/artist/1EiW3GLNSmLFCr9TuPGUCO) | [Sunshine & White Wine](https://open.spotify.com/album/47lEkhKprkM7dEGOs7B6sW) | 3:44 |
 | 55 | [Back To The Beginning](https://open.spotify.com/track/79D9sS05hiL69QszESYsAr) | [Tim McNary](https://open.spotify.com/artist/37CGTzcBezP4KjLI2lKk2u), [Machaela Nesler](https://open.spotify.com/artist/2DK8dF5cpYKCWYBmQefqKV) | [Back To The Beginning](https://open.spotify.com/album/1mu2MMauRuWXh1v8ztD7rD) | 3:36 |
 
-Snapshot ID: `MTY2MjEyNzU0NSwwMDAwMDAwMGIzYWVkMTRjMDRjZWI0NTM4Yzg4NGZmNDRmYTFmMjQ3`
+Snapshot ID: `MTY2MjEyNzU0NSwwMDAwMDAwMGVkYzczNjQwNjgzNDFlMzE4OGE3YzNkM2U0YWIwZjFk`

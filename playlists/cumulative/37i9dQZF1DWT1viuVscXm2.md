@@ -4,7 +4,7 @@
 
 > A bailar con la mejor cumbia sudamericana\. Foto: Sergio Dalma & La K'onga.
 
-175 songs - 10 hr 29 min - [published](https://open.spotify.com/playlist/2BOWiJCT4dyOyema50dxx0)
+176 songs - 10 hr 32 min - [published](https://open.spotify.com/playlist/2BOWiJCT4dyOyema50dxx0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,8 +136,9 @@
 | [Quedate](https://open.spotify.com/track/0NxxoaArPqmo2ivluHFCPD) | [Marito](https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred) | [Quedate](https://open.spotify.com/album/6KLtoJE5SMa2NpeV3DmW91) | 3:28 | 2022-08-26 |  |
 | [Quieres Ser Mi Amante](https://open.spotify.com/track/6ZIHXMuIfggpBH9vhpTusl) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [Rompiendo el Silencio](https://open.spotify.com/album/5tV5Ufq4DosqkKprcC3KFB) | 2:56 | 2022-06-30 |  |
 | [Roto](https://open.spotify.com/track/5SInsDoEw0bovpyJnVWfF8) | [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4) | [Roto](https://open.spotify.com/album/7nWdrfnpgCMWK4PoJdFvHn) | 3:40 | 2022-10-28 |  |
+| [Sabrosón](https://open.spotify.com/track/5qcW5UQBIsVdudxjWILt8s) | [La Base](https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0) | [Parulo](https://open.spotify.com/album/27c6V4uv7IxUHR9tGB5jeY) | 2:54 | 2022-10-28 |  |
 | [Sabrosón](https://open.spotify.com/track/3O2RDUmiywqchEFgJTd58X) | [La Base](https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0) | [Parulo](https://open.spotify.com/album/6syUUZEnaRDxJ7oh2uRbNz) | 2:54 | 2021-12-24 | 2022-07-29 |
-| [Sabrosón](https://open.spotify.com/track/3i9RlCwMh2I0semxufRnyS) | [La Base](https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0) | [Parulo](https://open.spotify.com/album/00A8Fwcno8bR8PghDYmcv8) | 2:54 | 2022-07-22 |  |
+| [Sabrosón](https://open.spotify.com/track/3i9RlCwMh2I0semxufRnyS) | [La Base](https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0) | [Parulo](https://open.spotify.com/album/00A8Fwcno8bR8PghDYmcv8) | 2:54 | 2022-07-22 | 2022-11-12 |
 | [Saca La Casa Pal Mambo](https://open.spotify.com/track/3L9s7NzT1CYOqmPzFk129W) | [El Bloque 8](https://open.spotify.com/artist/6nX2IctRER6z2UkUmJvpE9) | [Saca La Casa Pal Mambo](https://open.spotify.com/album/7rtg30guVaiiMZIrODJVrG) | 2:42 | 2022-09-09 |  |
 | [Se lo Juro Vieja](https://open.spotify.com/track/4ygglDwHeNrTMEy9vAbaq2) | [La Mona Jimenez](https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf), [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [Se lo Juro Vieja](https://open.spotify.com/album/4RRhVZL8QFOfJwvfuYZFRb) | 2:49 | 2021-12-24 | 2022-08-01 |
 | [Se Me Ha Perdido Un Corazón](https://open.spotify.com/track/2OzSJG7HmZYTiggNoGujZP) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [Los Más Grandes Exitos](https://open.spotify.com/album/6IGIqpi9vP4bbBBjwJUL0y) | 3:30 | 2021-12-24 |  |

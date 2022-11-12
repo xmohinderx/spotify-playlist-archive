@@ -415,7 +415,7 @@
       ],
       "date_added": "2020-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-10",
+      "date_removed": null,
       "duration_ms": 149533,
       "name": "El 38",
       "url": "https://open.spotify.com/track/2qLmEdr1UoLetZUjPgSB9X"
@@ -433,7 +433,7 @@
       ],
       "date_added": "2020-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 149533,
       "name": "El 38",
       "url": "https://open.spotify.com/track/5Ywzb69fz015zVnTFMY22i"
@@ -664,6 +664,24 @@
     },
     {
       "album": {
+        "name": "Old Songs",
+        "url": "https://open.spotify.com/album/1Y5ZSJrKqfZzl1GsyZXyso"
+      },
+      "artists": [
+        {
+          "name": "No Doubt",
+          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
+        }
+      ],
+      "date_added": "2020-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242586,
+      "name": "Hella Good",
+      "url": "https://open.spotify.com/track/1QpaUFTW7G8DAFw5y1OFwj"
+    },
+    {
+      "album": {
         "name": "Rock Steady",
         "url": "https://open.spotify.com/album/6ENy8DWFCnqF4dfaeH6352"
       },
@@ -693,7 +711,7 @@
       ],
       "date_added": "2020-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 242586,
       "name": "Hella Good",
       "url": "https://open.spotify.com/track/6AfLmKXzhEZjwiVPs5jhdV"
@@ -989,10 +1007,28 @@
       ],
       "date_added": "2020-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 271092,
       "name": "Ritmo y Blues con Armonica",
       "url": "https://open.spotify.com/track/6AH0CRRdj5R2WXUNP972Dq"
+    },
+    {
+      "album": {
+        "name": "Jerem\u00edas Pies De Plomo",
+        "url": "https://open.spotify.com/album/6ffmIHsB2FHxwL0c7ifNt6"
+      },
+      "artists": [
+        {
+          "name": "Vox Dei",
+          "url": "https://open.spotify.com/artist/1sTOtMflHQ1ULtuozST5RR"
+        }
+      ],
+      "date_added": "2020-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271066,
+      "name": "Ritmo Y Blues Con Arm\u00f3nica",
+      "url": "https://open.spotify.com/track/02bDSyJIoe89P0El2K2hju"
     },
     {
       "album": {
@@ -1043,10 +1079,28 @@
       ],
       "date_added": "2020-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 301920,
       "name": "Smells Like Teen Spirit",
       "url": "https://open.spotify.com/track/5ghIJDpPoe3CfHMGu71E6T"
+    },
+    {
+      "album": {
+        "name": "Nevermind (30th Anniversary Super Deluxe)",
+        "url": "https://open.spotify.com/album/5eA0qtE7Yu29XiMlwoby2G"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "date_added": "2020-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300893,
+      "name": "Smells Like Teen Spirit - Remastered 2021",
+      "url": "https://open.spotify.com/track/4TMhakloPMPS84lNHNTSa3"
     },
     {
       "album": {

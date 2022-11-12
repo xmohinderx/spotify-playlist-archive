@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxk55r8Lbgr.md) - [plain]
 
 > 這些歌手將以其令人讚嘆的嗓音和演唱技巧牽動你的心弦。
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,945 likes - 28 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,947 likes - 28 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,13 +28,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxk55r8Lbgr.md) - [plain]
 | 18 | [Fantasy](https://open.spotify.com/track/6xkryXuiZU360Lngd4sx13) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 4:03 |
 | 19 | [All\-American Girl](https://open.spotify.com/track/2dRPQFwPqAmc42mDRnsDQu) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Carnival Ride](https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX) | 3:32 |
 | 20 | [Be Without You \- Kendu Mix](https://open.spotify.com/track/0UOD3dxFQLowphGYXb7xEV) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [24 Hours Of R&B](https://open.spotify.com/album/17yGMddUjDE8BrjAhnqaFh) | 4:10 |
-| 21 | [What's Love Got to Do with It \- 2015 Remaster](https://open.spotify.com/track/3ErsOxqe2RmXkR65wkygDz) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [Private Dancer \(30th Anniversary Issue\)](https://open.spotify.com/album/7gVHUNPQr0AE2A0Yf5MjqR) | 3:50 |
+| 21 | [What's Love Got to Do with It](https://open.spotify.com/track/6xPxEagNChvJEeRacoPf3i) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [100 Greatest Dinner Party Songs](https://open.spotify.com/album/6YMk3Ja8VBYJQxH7TEFMO2) | 3:46 |
 | 22 | [Uninvited](https://open.spotify.com/track/7c1iI6dwdCpHGYT8DGEfab) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [The Collection \(Standard Edition\)](https://open.spotify.com/album/4N7LuZYpstQrtcHIoOKzqg) | 4:36 |
 | 23 | [At Your Best \(You Are Love\)](https://open.spotify.com/track/4lRrk574qIHpoEEKC1zuam) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4) | [Age Ain't Nothing But A Number](https://open.spotify.com/album/3E3QRjL4Cre7Krms420Irl) | 4:51 |
 | 24 | [You Lost Me](https://open.spotify.com/track/1maOjghpUSvVHj9F9WPujZ) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Bionic \(Deluxe Version\)](https://open.spotify.com/album/1HfdmIok11uUjysVWdxq6H) | 4:17 |
 | 25 | [Carry On](https://open.spotify.com/track/4TebWmEYsYpdh3suakII7q) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Roses](https://open.spotify.com/album/4nQg1mUddBTQqnBTDyHCr6) | 3:35 |
 | 26 | [Writing's On The Wall \- From "Spectre" Soundtrack](https://open.spotify.com/track/1PWnAEQcbwQwK759otUbta) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Writing's On The Wall](https://open.spotify.com/album/50bQvrNAFsAaIbqCcfD7FT) | 4:38 |
 | 27 | [Love Me Harder](https://open.spotify.com/track/5J4ZkQpzMUFojo1CtAZYpn) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [My Everything \(Deluxe\)](https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj) | 3:56 |
-| 28 | [Domino](https://open.spotify.com/track/6MAdEUilV2p9RQUqE5bMAK) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Who You Are \(Platinum Edition\)](https://open.spotify.com/album/3ga4adzUpLaS2LDcoqfs2r) | 3:51 |
+| 28 | [Domino](https://open.spotify.com/track/5P7doOWGZOnz0tFvlQwcNA) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Pop Royalty](https://open.spotify.com/album/15WQObBzFWbMEeoUjSjHYl) | 3:51 |
 
-Snapshot ID: `MTQ5MTMwMTY1MywwMDAwMDAwMDU5Nzc5MTUxMjU3ZDM4MmUzNmJjMGVlYmVhM2VkMDcz`
+Snapshot ID: `MTQ5MTMwMTY1MywwMDAwMDAwMDg2ZmUyMmE4ZTU0MWE2NmVlNTc5ZGRiMDE5OWE3NzQw`

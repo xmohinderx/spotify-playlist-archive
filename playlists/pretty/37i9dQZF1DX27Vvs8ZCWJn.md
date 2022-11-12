@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27Vvs8ZCWJn.md) - [plain]
 
 > Clásicas románticas, melodiosas, apacibles.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,284 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,431 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hasta Que Me Olvides](https://open.spotify.com/track/6vPAmoERUMRoTZaCCSWQ12) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Aries](https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC) | 4:41 |
 | 2 | [Tú de Qué Vas](https://open.spotify.com/track/66iygyOSvvoQQsKJ1vEXfT) | [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu) | [Stop](https://open.spotify.com/album/4BI3oXrWF0YvtWpfYWUxeX) | 3:58 |
 | 3 | [¿Y cómo es él?](https://open.spotify.com/track/7aSxNjoVoAwNL7HDAKwGtC) | [José Luis Perales](https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP) | [Entre El Agua Y El Fuego](https://open.spotify.com/album/2D6nGOEEyp7GZCyWlO99GI) | 4:08 |
-| 4 | [A Puro Dolor \- Balada](https://open.spotify.com/track/28upjDakWVnHAgW2anm273) | [Son By Four](https://open.spotify.com/artist/1qyAl8T6GTcaOViaI7fs1j) | [Son By 4](https://open.spotify.com/album/6FaDCE5IxXXMXVn3etukKq) | 3:30 |
-| 5 | [Vamos a Darnos Tiempo](https://open.spotify.com/track/4hsISengUD6beOi6kUIcXl) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Gracias](https://open.spotify.com/album/306myLvJlcA5LBGoIYDp2D) | 4:08 |
+| 4 | [Vamos a Darnos Tiempo](https://open.spotify.com/track/4hsISengUD6beOi6kUIcXl) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Gracias](https://open.spotify.com/album/306myLvJlcA5LBGoIYDp2D) | 4:08 |
+| 5 | [A Puro Dolor \- Balada](https://open.spotify.com/track/28upjDakWVnHAgW2anm273) | [Son By Four](https://open.spotify.com/artist/1qyAl8T6GTcaOViaI7fs1j) | [Son By 4](https://open.spotify.com/album/6FaDCE5IxXXMXVn3etukKq) | 3:30 |
 | 6 | [Burbujas de Amor](https://open.spotify.com/track/0TarPYIjJndYucFUOMce8P) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Bachata Rosa](https://open.spotify.com/album/3lRQHKkCpntPvEoqh3C3B0) | 4:10 |
 | 7 | [No Sé Tú](https://open.spotify.com/track/2DAsLftcRKP3iarCPmI1RY) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Romance](https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP) | 3:49 |
 | 8 | [Tabaco Y Chanel](https://open.spotify.com/track/48svUiwMMYQRPyesVEnof1) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Bacilos \(Re\-Issue\)](https://open.spotify.com/album/3oCkAeDln8FVoGIOvf9TNl) | 5:12 |
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27Vvs8ZCWJn.md) - [plain]
 | 18 | [Y Nos Dieron las Diez](https://open.spotify.com/track/1eCie6lwjb4crxeAvkRaSi) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [Fisica Y Quimica](https://open.spotify.com/album/6MeLjaERUK6fJ58YZpPlyC) | 5:02 |
 | 19 | [Con los Años Que Me Quedan](https://open.spotify.com/track/5UPd6Gyj4aoaTUTlpWSak5) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Mi Tierra](https://open.spotify.com/album/2K2yvhTFeRBZdDboSQzFAJ) | 4:36 |
 | 20 | [Querida](https://open.spotify.com/track/5ySxlyvySBhIEvoO2xx7uT) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Recuerdos II](https://open.spotify.com/album/1xrQ48Vvnvm3SmAbnIukGt) | 5:28 |
-| 21 | [Detalles \(Detalhes\)](https://open.spotify.com/track/4tAwP9QKeLEQJ2fgd1RWcY) | [Roberto Carlos](https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65) | [Un Gato En La Oscuridad](https://open.spotify.com/album/6QehPjFB3Q8uH2btA35cQm) | 5:08 |
-| 22 | [Vida Loca](https://open.spotify.com/track/4w9o81y0dXFKgraEwfEgTz) | [Francisco Céspedes](https://open.spotify.com/artist/54jti4nqabEAlBvIDU2zt8) | [Vida Loca](https://open.spotify.com/album/11lYdxQdsgkvKfDjX0nTHa) | 3:14 |
+| 21 | [Vida Loca](https://open.spotify.com/track/4w9o81y0dXFKgraEwfEgTz) | [Francisco Céspedes](https://open.spotify.com/artist/54jti4nqabEAlBvIDU2zt8) | [Vida Loca](https://open.spotify.com/album/11lYdxQdsgkvKfDjX0nTHa) | 3:14 |
+| 22 | [Detalles \(Detalhes\)](https://open.spotify.com/track/4tAwP9QKeLEQJ2fgd1RWcY) | [Roberto Carlos](https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65) | [Un Gato En La Oscuridad](https://open.spotify.com/album/6QehPjFB3Q8uH2btA35cQm) | 5:08 |
 | 23 | [Entra en Mi Vida](https://open.spotify.com/track/4W6za66pgH7QBbeiU9kS1v) | [Sin Bandera](https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87) | [Sin Bandera](https://open.spotify.com/album/01vioqAF5o29uDHYhXs6Vo) | 4:08 |
 | 24 | [Si Me Tenías](https://open.spotify.com/track/2wBhRmkGC098tLGo2dhWo2) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [Canto Por Ti](https://open.spotify.com/album/0FhBt22SV28wg41ecDy1RO) | 3:59 |
 | 25 | [Todo Se Derrumbó Dentro de Mí](https://open.spotify.com/track/4hWUYwFwJKpu4o49Gon76Z) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Solo Exitos](https://open.spotify.com/album/5b01rzpRKnF0NZXgdcgcA1) | 5:12 |
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27Vvs8ZCWJn.md) - [plain]
 | 37 | [No Hace Falta](https://open.spotify.com/track/5DiHLU0npIbhSTZm8EGeuT) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [Que Nada Nos Separe](https://open.spotify.com/album/0tv0ugArh5TtRPMORE70RY) | 4:27 |
 | 38 | [Tómame o Déjame \- Remasterizado](https://open.spotify.com/track/1ZJe2q23LXHnE79UjnJqyx) | [Mocedades](https://open.spotify.com/artist/4Sm7JCttzWMwHJtb3UJ8SY) | [Mocedades 5](https://open.spotify.com/album/09wkGIEU9667gEzg6Ywsbx) | 3:07 |
 | 39 | [Aquellas Pequeñas Cosas](https://open.spotify.com/track/0AYP9qfJJumsxSOZF3MndI) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7) | [Mediterráneo](https://open.spotify.com/album/7h6vVYPUiuDF6KKcqMdE72) | 1:50 |
-| 40 | [Todo Cambia](https://open.spotify.com/track/0njOsb3y8TnwIJC7GnlWwD) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7) | [¿Será Posible El Sur?](https://open.spotify.com/album/3qbjXmDq5KNBU5BbycE3cj) | 4:44 |
-| 41 | [Medley \(Yo Que No Vivo Sin Ti / Culpable O No / Más Allá De Todo / Fría Como El Viento / Entrégate /Tengo Todo Excepto A Ti / La Incondicional\) \- En Vivo](https://open.spotify.com/track/2VbKzmGzbd2qjO0xw3WhKq) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [El Concierto](https://open.spotify.com/album/6efyUFJcUK18KRFTMoxNSI) | 16:32 |
-| 42 | [Por Ti](https://open.spotify.com/track/5yRsYFUzZma7IaXhROkuo8) | [Óscar Chávez](https://open.spotify.com/artist/4QHjJWgPhculd31AHEsjOb) | [16 Exitos De Oro](https://open.spotify.com/album/7bwndiQmsxDxO4BE5OFdfb) | 2:47 |
-| 43 | [Necesito](https://open.spotify.com/track/7H62s62eUQqYXTA3WsrTK7) | [Sui Generis](https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8) | [Vida](https://open.spotify.com/album/0EdYPXNaKi8QOBwq1C13jM) | 2:13 |
+| 40 | [Medley \(Yo Que No Vivo Sin Ti / Culpable O No / Más Allá De Todo / Fría Como El Viento / Entrégate /Tengo Todo Excepto A Ti / La Incondicional\) \- En Vivo](https://open.spotify.com/track/2VbKzmGzbd2qjO0xw3WhKq) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [El Concierto](https://open.spotify.com/album/6efyUFJcUK18KRFTMoxNSI) | 16:32 |
+| 41 | [Por Ti](https://open.spotify.com/track/5yRsYFUzZma7IaXhROkuo8) | [Óscar Chávez](https://open.spotify.com/artist/4QHjJWgPhculd31AHEsjOb) | [16 Exitos De Oro](https://open.spotify.com/album/7bwndiQmsxDxO4BE5OFdfb) | 2:47 |
+| 42 | [Necesito](https://open.spotify.com/track/7H62s62eUQqYXTA3WsrTK7) | [Sui Generis](https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8) | [Vida](https://open.spotify.com/album/0EdYPXNaKi8QOBwq1C13jM) | 2:13 |
+| 43 | [Luna mágica](https://open.spotify.com/track/38TOLZUaluhotS1fOFtpOb) | [Rocio Banquells](https://open.spotify.com/artist/0WaPMyYYZZ7yxzG1qhZ5kz) | [Rocio Banquells](https://open.spotify.com/album/2XWgQoX6V3MDSm9dGZGkGz) | 4:13 |
 | 44 | [Carta urgente \(feat\. Abel Pintos\)](https://open.spotify.com/track/7ljsdGh3oj4bNGqQsx4UM7) | [Rosana](https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0) | [8 Lunas](https://open.spotify.com/album/4zsSDL0SbCqgifIHgiNxll) | 4:20 |
-| 45 | [Luna mágica](https://open.spotify.com/track/38TOLZUaluhotS1fOFtpOb) | [Rocio Banquells](https://open.spotify.com/artist/0WaPMyYYZZ7yxzG1qhZ5kz) | [Rocio Banquells](https://open.spotify.com/album/2XWgQoX6V3MDSm9dGZGkGz) | 4:13 |
+| 45 | [Te Voy a Enseñar a Querer](https://open.spotify.com/track/1611GmlolwbEqZgoi3nqvN) | [Manoella Torres](https://open.spotify.com/artist/4JRKcLbpjobmoOVoOXPd6y) | [La Gran Colección del 60 Aniversario CBS \- Manoella Torres](https://open.spotify.com/album/7Hri6gZJ0HGvNoM7pZxPfi) | 3:16 |
 | 46 | [Eres Tú](https://open.spotify.com/track/08HeIb9BidFjKROf9ptln0) | [Mocedades](https://open.spotify.com/artist/4Sm7JCttzWMwHJtb3UJ8SY) | [Grandes Exitos](https://open.spotify.com/album/1PCiyADys8TTu8HrSFrTAl) | 3:34 |
-| 47 | [Te Voy a Enseñar a Querer](https://open.spotify.com/track/1611GmlolwbEqZgoi3nqvN) | [Manoella Torres](https://open.spotify.com/artist/4JRKcLbpjobmoOVoOXPd6y) | [La Gran Colección del 60 Aniversario CBS \- Manoella Torres](https://open.spotify.com/album/7Hri6gZJ0HGvNoM7pZxPfi) | 3:16 |
+| 47 | [Señora](https://open.spotify.com/track/3sKfWfo0VSspTmBmK3jKzr) | [Francisco Céspedes](https://open.spotify.com/artist/54jti4nqabEAlBvIDU2zt8) | [Vida Loca](https://open.spotify.com/album/11lYdxQdsgkvKfDjX0nTHa) | 3:24 |
 | 48 | [Cantares](https://open.spotify.com/track/3sjv1TBUwUjXeyUrsH3DwJ) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7) | [Dedicado A Antonio Machado, Poeta](https://open.spotify.com/album/3EF2QL5cEctLrXwNqTIBZX) | 3:16 |
-| 49 | [Señora](https://open.spotify.com/track/3sKfWfo0VSspTmBmK3jKzr) | [Francisco Céspedes](https://open.spotify.com/artist/54jti4nqabEAlBvIDU2zt8) | [Vida Loca](https://open.spotify.com/album/11lYdxQdsgkvKfDjX0nTHa) | 3:24 |
-| 50 | [A Esa](https://open.spotify.com/track/1TJS7POzl1qrGhqvFcjtHv) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Secretos](https://open.spotify.com/album/1Bzdy4dRu2czCWd4bpCzUh) | 3:04 |
+| 49 | [A Esa](https://open.spotify.com/track/1TJS7POzl1qrGhqvFcjtHv) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Secretos](https://open.spotify.com/album/1Bzdy4dRu2czCWd4bpCzUh) | 3:04 |
+| 50 | [No Soy De Aqui, Ni Soy De Alla](https://open.spotify.com/track/70xSLxbCLBQSxBtP46AuZq) | [Facundo Cabral](https://open.spotify.com/artist/1vCCUwNiIwC41lEu7EuBmx) | [Serie De Oro](https://open.spotify.com/album/3PG4hwXoSc0ElxiMslu4jy) | 3:44 |
 
-Snapshot ID: `MTY0MDQ1NTM0NywwMDAwMDAwMGNhMWI2NDU0YTYxYTdhODM0NTA2MDljMDkyNGI3YTY3`
+Snapshot ID: `MTY0MDQ1NTM0NywwMDAwMDAwMGQ0ODlhYzY3MjE1MWM1OGFhMmMyODg1NjFjNjA2NTMx`

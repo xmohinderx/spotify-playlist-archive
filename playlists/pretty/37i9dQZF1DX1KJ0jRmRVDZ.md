@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,470 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,563 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 15 | [蜜蜂](https://open.spotify.com/track/6oDv2ylQf1fiqOMp7UWcV8) | [DUSTCELL](https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B) | [Hypnotize](https://open.spotify.com/album/4ZN7YVrRO7uGeAchbVMmBm) | 3:14 |
 | 16 | [ただ声一つ](https://open.spotify.com/track/2e1gUS6Wv8GS8ZT6FMeE1J) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [ただ声一つ](https://open.spotify.com/album/4XSyWcP9Ofb0aGunNVVV6t) | 2:41 |
 | 17 | [Butterfly](https://open.spotify.com/track/1kJGuGXY4YUKD2I5UpnzZ6) | [R+...](https://open.spotify.com/artist/0h64O16J1F4o7wfmOBhN32) | [Butterfly](https://open.spotify.com/album/4JZgEloxGusyotoEfxPgaO) | 3:21 |
-| 18 | [好きだ](https://open.spotify.com/track/7537JfhvVpEqkrY2CIY7zu) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [好きだ](https://open.spotify.com/album/1IOv9TZ1IarsEQ6RB7HEe0) | 3:37 |
-| 19 | [Backlight](https://open.spotify.com/track/3WY0iazRPHOlIq6CdbKLZ6) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [UTA'S SONGS ONE PIECE FILM RED](https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172) | 3:57 |
+| 18 | [Backlight](https://open.spotify.com/track/3WY0iazRPHOlIq6CdbKLZ6) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [UTA'S SONGS ONE PIECE FILM RED](https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172) | 3:57 |
+| 19 | [好きだ](https://open.spotify.com/track/7537JfhvVpEqkrY2CIY7zu) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [好きだ](https://open.spotify.com/album/1IOv9TZ1IarsEQ6RB7HEe0) | 3:37 |
 | 20 | [ブロードウェイ](https://open.spotify.com/track/2raSZjamdHq3bVk8GdGIgv) | [いゔどっと](https://open.spotify.com/artist/1IgcHRzXg2POh5QKM1p7mj) | [ブロードウェイ](https://open.spotify.com/album/7MSLbK6M2XYDpjQYyTziX4) | 3:03 |
 | 21 | [消えてしまいそうです](https://open.spotify.com/track/4wYCZ6QS5EClBXqjakTieR) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [消えてしまいそうです](https://open.spotify.com/album/6UdhROGy9pKEVMLZxTQU5Z) | 4:17 |
 | 22 | [Surges](https://open.spotify.com/track/66a0Ib85gRjtZmac4HFsvw) | [Orangestar](https://open.spotify.com/artist/420aixNZr4paRQmuRXz3DS), [夏背](https://open.spotify.com/artist/3xRckHz0CRl2Z328bNeVpC), [ルワン](https://open.spotify.com/artist/0UOSYwTdo7kX41HWeuykKm) | [Surges](https://open.spotify.com/album/3Ub59gYPmtgwd0FUDeptaH) | 2:00 |
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 24 | [アゲクノハテ](https://open.spotify.com/track/72dWbrgPBzjtyyPLLdd4mu) | [Mr.FanTastiC](https://open.spotify.com/artist/42Z74v9b8xkEsOe6zkhsdA) | [アゲクノハテ](https://open.spotify.com/album/3YFPMd5vQQKAT4PXQqbOel) | 3:41 |
 | 25 | [ミスター](https://open.spotify.com/track/2YbNZLoiREBYZo4HeKB8Np) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [ミスター](https://open.spotify.com/album/4oGSH2U1aP0Jr0zldlMRAt) | 3:07 |
 | 26 | [SeishunKippu](https://open.spotify.com/track/0gb9k8uR9jC9Jtk2OdapKs) | [Mafumafu](https://open.spotify.com/artist/6t6aXZlmnAF1VuiG8BVjQZ) | [SeishunKippu](https://open.spotify.com/album/4bHwSxmTANprSv6iGwNezt) | 4:04 |
-| 27 | [夜撫でるメノウ](https://open.spotify.com/track/6IHWPY5iBUI1AOUclbtE6F) | [Ayase](https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ) | [夜撫でるメノウ / 幽霊東京](https://open.spotify.com/album/2eGDVgL9Vbz6Pehc9Kz7hS) | 4:22 |
+| 27 | [踊](https://open.spotify.com/track/7z6qHGEKxRtwtYym2epV7l) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [踊](https://open.spotify.com/album/6jfXGkieuNnsFxi5pS3vJ2) | 3:28 |
 | 28 | [インナアチャイルド](https://open.spotify.com/track/2VviHaihEuSsYo6OOqxJ7m) | [理芽](https://open.spotify.com/artist/1rFELoNfdLOYWPwtrBN6zS) | [インナアチャイルド](https://open.spotify.com/album/62EfA5beimUuWAijkPLY4H) | 3:55 |
-| 29 | [踊](https://open.spotify.com/track/7z6qHGEKxRtwtYym2epV7l) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [踊](https://open.spotify.com/album/6jfXGkieuNnsFxi5pS3vJ2) | 3:28 |
+| 29 | [夜撫でるメノウ](https://open.spotify.com/track/6IHWPY5iBUI1AOUclbtE6F) | [Ayase](https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ) | [夜撫でるメノウ / 幽霊東京](https://open.spotify.com/album/2eGDVgL9Vbz6Pehc9Kz7hS) | 4:22 |
 | 30 | [Honjitsu no Shotai](https://open.spotify.com/track/01ZBfQ4OjFODqWfvkgKn7y) | [NEE](https://open.spotify.com/artist/1gh7KnvnbRnc1gXEPuV8KH) | [Honjitsu no Shotai](https://open.spotify.com/album/1dXMQs6RfDHv6lgAPA1yxq) | 3:25 |
 | 31 | [チノカテ](https://open.spotify.com/track/7w1taFiEu8GGQJkzQaEWpx) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [チノカテ](https://open.spotify.com/album/1ItS3Da6sbCmwwTgkBHttk) | 4:08 |
 | 32 | [化け猫](https://open.spotify.com/track/3Wnba0vkxR4nmXbaRF9foE) | [キタニタツヤ](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [化け猫](https://open.spotify.com/album/5g9QalFqw7go87CtbuBbdK) | 0:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 49 | [なにやってもうまくいかない](https://open.spotify.com/track/2ILz4eU7UCTv0Wup7F5lVt) | [meiyo](https://open.spotify.com/artist/6ggtLFRSvZsS61lbxLujd9) | [なにやってもうまくいかない](https://open.spotify.com/album/0L3CTv09dL9iJL35WNzGXv) | 2:26 |
 | 50 | [知らないままで](https://open.spotify.com/track/0kEXWokTVYKFxRnNH1xvlg) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [知らないままで](https://open.spotify.com/album/5A0437E0mWQ7RJFYovBBvC) | 2:14 |
 
-Snapshot ID: `MTY2ODA5MjU1MSwwMDAwMDAwMDQ0OWNmYzJhYjNmNGIwZDFkMGRkMjUyMTE0NWNhYTJm`
+Snapshot ID: `MTY2ODA5MjU1MSwwMDAwMDAwMDE5MGUyYzk0YjZhNmVkNGVhZGE0MjY0ZWQxZDVmNzdi`

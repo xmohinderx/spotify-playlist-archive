@@ -1,12 +1,12 @@
 {
   "description": "LGBTQ+ artists and allies join this fiesta. \nCover: Nicole Zignago",
-  "num_followers": 123879,
+  "num_followers": 123881,
   "original_name": "Latin Pride",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzA0ODgwNCwwMDAwMDAwMDA3NTgxOTRhMmJiYzA1ZjgwNmJjMWNhNTliNzM5YmVl",
+  "snapshot_id": "MTY1NzA0ODgwNCwwMDAwMDAwMDBjZTNjYTI3MmJjZjdhYjY0ZDg1ZmMyZjExNzNkMjM3",
   "tracks": [
     {
       "added_at": "2022-07-05 19:20:04",
@@ -355,6 +355,22 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
+        "name": "Sereno",
+        "url": "https://open.spotify.com/album/1UufdUSICfRcrISutnCtyv"
+      },
+      "artists": [
+        {
+          "name": "Miguel Bos\u00e9",
+          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
+        }
+      ],
+      "duration_ms": 291440,
+      "name": "Morena m\u00eda",
+      "url": "https://open.spotify.com/track/0HmQkmfYXRPweIg1ycw1R8"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
         "name": "Resistir\u00e9",
         "url": "https://open.spotify.com/album/5xl9aTPziZye5Jy5fGsyPh"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 252443,
       "name": "Resistir\u00e9",
       "url": "https://open.spotify.com/track/0XFQb7pNfT90A7fRxjMWgz"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
-        "name": "Sereno",
-        "url": "https://open.spotify.com/album/1UufdUSICfRcrISutnCtyv"
-      },
-      "artists": [
-        {
-          "name": "Miguel Bos\u00e9",
-          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
-        }
-      ],
-      "duration_ms": 291440,
-      "name": "Morena m\u00eda",
-      "url": "https://open.spotify.com/track/0HmQkmfYXRPweIg1ycw1R8"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -739,22 +739,6 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "Ivory",
-        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 146786,
-      "name": "En El Olvido",
-      "url": "https://open.spotify.com/track/46j76ZoimljoNL55h26U70"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
         "name": "Tab\u00fa",
         "url": "https://open.spotify.com/album/4js3JAU4F9I0iBMGHzEOvn"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 179774,
       "name": "Tab\u00fa",
       "url": "https://open.spotify.com/track/471HeGJPKw07MObixON0Um"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
+        "name": "Ivory",
+        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 146786,
+      "name": "En El Olvido",
+      "url": "https://open.spotify.com/track/46j76ZoimljoNL55h26U70"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -899,22 +899,6 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "Clich\u00e9s",
-        "url": "https://open.spotify.com/album/1HX7p55GnAwv6kPb9m0Qs9"
-      },
-      "artists": [
-        {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
-        }
-      ],
-      "duration_ms": 224066,
-      "name": "Imagina",
-      "url": "https://open.spotify.com/track/4Fe2oAGo6fmPVwBNkbEdw1"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
         "name": "Castillos de arena",
         "url": "https://open.spotify.com/album/0iNZh2qDkWIwcIikCMAeMq"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 252221,
       "name": "Castillos de arena",
       "url": "https://open.spotify.com/track/7njQTsT1xvKVDE0jPJAvrU"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
+        "name": "Clich\u00e9s",
+        "url": "https://open.spotify.com/album/1HX7p55GnAwv6kPb9m0Qs9"
+      },
+      "artists": [
+        {
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+        }
+      ],
+      "duration_ms": 224066,
+      "name": "Imagina",
+      "url": "https://open.spotify.com/track/4Fe2oAGo6fmPVwBNkbEdw1"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -1871,6 +1871,22 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
+        "name": "Te Doy Igual",
+        "url": "https://open.spotify.com/album/2Zx8OgxGlLq3FRYcFKvdhl"
+      },
+      "artists": [
+        {
+          "name": "Bearoid",
+          "url": "https://open.spotify.com/artist/2qxjB0LkbwvgLxmXN31Gp4"
+        }
+      ],
+      "duration_ms": 146024,
+      "name": "Te Doy Igual",
+      "url": "https://open.spotify.com/track/5MjgAWBRFkKU2OKgLHqWdZ"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
         "name": "D.I.V.A",
         "url": "https://open.spotify.com/album/3XgtO4AI9o0PAO88WFcDwh"
       },
@@ -1899,22 +1915,6 @@
       "duration_ms": 212293,
       "name": "Qui\u00e9n Como T\u00fa",
       "url": "https://open.spotify.com/track/0G8Z54XEe5ArAcefdEwRNs"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
-        "name": "Te Doy Igual",
-        "url": "https://open.spotify.com/album/2Zx8OgxGlLq3FRYcFKvdhl"
-      },
-      "artists": [
-        {
-          "name": "Bearoid",
-          "url": "https://open.spotify.com/artist/2qxjB0LkbwvgLxmXN31Gp4"
-        }
-      ],
-      "duration_ms": 146024,
-      "name": "Te Doy Igual",
-      "url": "https://open.spotify.com/track/5MjgAWBRFkKU2OKgLHqWdZ"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -2003,6 +2003,22 @@
       "duration_ms": 150441,
       "name": "La Cura",
       "url": "https://open.spotify.com/track/2M6Bh076nMWAuZPFJxFQkU"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
+        "name": "Descanso Dominical / Une Femme Avec Une Femme",
+        "url": "https://open.spotify.com/album/2ZDJqivdYjfPdm2mXISGo5"
+      },
+      "artists": [
+        {
+          "name": "Mecano",
+          "url": "https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G"
+        }
+      ],
+      "duration_ms": 245266,
+      "name": "Mujer contra mujer",
+      "url": "https://open.spotify.com/track/06XYi6rHD1MuelKGJHXXou"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -2159,22 +2175,6 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "HUGITO",
-        "url": "https://open.spotify.com/album/4GVUmgD20UFchp7dIp5ItU"
-      },
-      "artists": [
-        {
-          "name": "Hugo D Almonte",
-          "url": "https://open.spotify.com/artist/4cJdMWi5D3uJC93mePpJAP"
-        }
-      ],
-      "duration_ms": 147692,
-      "name": "VA HABLAR",
-      "url": "https://open.spotify.com/track/1D9JQx1HkH3VFfBlsJCckF"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
         "name": "Soy Asi",
         "url": "https://open.spotify.com/album/6LKhRfBpI3Osjue9OgxWUl"
       },
@@ -2187,6 +2187,22 @@
       "duration_ms": 232362,
       "name": "Soy Asi",
       "url": "https://open.spotify.com/track/7qYCZTW9lkTYqvmat6S3RJ"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
+        "name": "HUGITO",
+        "url": "https://open.spotify.com/album/4GVUmgD20UFchp7dIp5ItU"
+      },
+      "artists": [
+        {
+          "name": "Hugo D Almonte",
+          "url": "https://open.spotify.com/artist/4cJdMWi5D3uJC93mePpJAP"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "VA HABLAR",
+      "url": "https://open.spotify.com/track/1D9JQx1HkH3VFfBlsJCckF"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -2267,6 +2283,22 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
+        "name": "Locura",
+        "url": "https://open.spotify.com/album/64mfvKVchxfSgy2LR9efNc"
+      },
+      "artists": [
+        {
+          "name": "Alex Anwandter",
+          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
+        }
+      ],
+      "duration_ms": 216475,
+      "name": "Locura",
+      "url": "https://open.spotify.com/track/0gmwrgMCLDdfYGDqsOU1sr"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
         "name": "Exterra",
         "url": "https://open.spotify.com/album/4YoUqV4ZdD652Z49VqEw4B"
       },
@@ -2303,22 +2335,6 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "Locura",
-        "url": "https://open.spotify.com/album/64mfvKVchxfSgy2LR9efNc"
-      },
-      "artists": [
-        {
-          "name": "Alex Anwandter",
-          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
-        }
-      ],
-      "duration_ms": 216475,
-      "name": "Locura",
-      "url": "https://open.spotify.com/track/0gmwrgMCLDdfYGDqsOU1sr"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
         "name": "MANLY FRESA",
         "url": "https://open.spotify.com/album/6f8hrsCyhBoYLH20l7coSm"
       },
@@ -2331,22 +2347,6 @@
       "duration_ms": 95121,
       "name": "MANLY FRESA",
       "url": "https://open.spotify.com/track/3PbrpWZjpl3gUbUtr7rB9u"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
-        "name": "Descanso Dominical / Une Femme Avec Une Femme",
-        "url": "https://open.spotify.com/album/2ZDJqivdYjfPdm2mXISGo5"
-      },
-      "artists": [
-        {
-          "name": "Mecano",
-          "url": "https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G"
-        }
-      ],
-      "duration_ms": 245266,
-      "name": "Mujer contra mujer",
-      "url": "https://open.spotify.com/track/06XYi6rHD1MuelKGJHXXou"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -2371,22 +2371,6 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "Como un Drag\u00f3n",
-        "url": "https://open.spotify.com/album/47LV3jJu8o4ae64QMQRCpc"
-      },
-      "artists": [
-        {
-          "name": "Rita Indiana",
-          "url": "https://open.spotify.com/artist/6xjy0XOCLNmstyCRTA8lIp"
-        }
-      ],
-      "duration_ms": 168734,
-      "name": "Como un Drag\u00f3n",
-      "url": "https://open.spotify.com/track/1dqOeCbuvkeLltsLEsrCdM"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
         "name": "\u00cdndigo",
         "url": "https://open.spotify.com/album/1JUFR4Qgot2SmMssrlsYNz"
       },
@@ -2399,6 +2383,22 @@
       "duration_ms": 193340,
       "name": "Buena Suerte Muchacha",
       "url": "https://open.spotify.com/track/2YY77lkRQXm4B4fdTHkrbO"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
+        "name": "Como un Drag\u00f3n",
+        "url": "https://open.spotify.com/album/47LV3jJu8o4ae64QMQRCpc"
+      },
+      "artists": [
+        {
+          "name": "Rita Indiana",
+          "url": "https://open.spotify.com/artist/6xjy0XOCLNmstyCRTA8lIp"
+        }
+      ],
+      "duration_ms": 168734,
+      "name": "Como un Drag\u00f3n",
+      "url": "https://open.spotify.com/track/1dqOeCbuvkeLltsLEsrCdM"
     },
     {
       "added_at": "2022-07-05 19:20:04",

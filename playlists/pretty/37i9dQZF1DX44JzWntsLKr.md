@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44JzWntsLKr.md) - [plain]
 
 > Every Monbebe's HERO.
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,787 likes - 121 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,828 likes - 121 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44JzWntsLKr.md) - [plain]
 | 87 | [COOL LOVE \(Prod\. dress\)](https://open.spotify.com/track/3BgamBEaNxWkO7BFe1EzzL) | [HONGBIN](https://open.spotify.com/artist/42v37YfovlfevjT7WkYk9G), [HYUNGWON](https://open.spotify.com/artist/2X7BGapA7C4ELFcpFWNNTx) | [THE LOVE OF SUMMER : THE PERFORMANCE](https://open.spotify.com/album/6FVAyZtifggLrVvbz5IH7b) | 3:23 |
 | 88 | [INTRO: WE ARE HERE](https://open.spotify.com/track/1cFrRHNHae4bw6ssxvGdNZ) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Take.2 We Are Here.](https://open.spotify.com/album/2zLSiu6FFxav0kHP2mUUzM) | 1:12 |
 | 89 | [RUSH](https://open.spotify.com/track/3dKx1EvSEaceoN5Qnhe5iS) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [RUSH](https://open.spotify.com/album/0ESTAnvX2zjMBxzesNAiR7) | 3:42 |
-| 90 | [SPOTLIGHT](https://open.spotify.com/track/3f50PPDmlxAduJaOTvsTfL) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [PIECE](https://open.spotify.com/album/25JXdPqltw5vOH8KPOzd2c) | 3:56 |
+| 90 | [SPOTLIGHT](https://open.spotify.com/track/1VLJS6hjrzQHH8f1ciW2wF) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [SPOTLIGHT](https://open.spotify.com/album/3TesGv9z2jzsum7wAzF5fu) | 3:59 |
 | 91 | [난기류](https://open.spotify.com/track/06vXZ4guKCWbhPtenXWESL) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Take.2 We Are Here.](https://open.spotify.com/album/2zLSiu6FFxav0kHP2mUUzM) | 3:21 |
 | 92 | [Queen](https://open.spotify.com/track/6RikqnZEtACiF2w12v0u51) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [THE CLAN pt.2 <GUILTY>](https://open.spotify.com/album/2aYSiytcrXyVj6ADo6Z7Cl) | 3:12 |
 | 93 | [Stealer](https://open.spotify.com/track/79NmwJEiY9maHX8djC3FN7) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Take.2 We Are Here.](https://open.spotify.com/album/2zLSiu6FFxav0kHP2mUUzM) | 3:28 |
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44JzWntsLKr.md) - [plain]
 | 120 | [I'll Be There](https://open.spotify.com/track/3AhSHpQhUasqq1Ni8xRh3c) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [THE CLAN pt.2.5 \[BEAUTIFUL\]](https://open.spotify.com/album/2QCHpaj2zkIhrghESZwPui) | 3:12 |
 | 121 | [부나비 \(The Tiger Moth\)](https://open.spotify.com/track/1h68rW9DjBqyphvchkFHNE) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [쇼핑왕 루이 Shopping King Louie \(Music from the Korean Tv Drama\)](https://open.spotify.com/album/5akkvAV2X14XXJdWawFUxm) | 3:24 |
 
-Snapshot ID: `MTY2MDA2Mzc5MywwMDAwMDAwMGIzZjM5YWQxMWZhMmRhN2Q2MWJiOGJjZTk4MjhiMDc2`
+Snapshot ID: `MTY2MDA2Mzc5MywwMDAwMDAwMGFkNWZlZTdjOGE4YjMyNzhmMDFmNzFmYmRjZTkyYTU4`

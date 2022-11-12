@@ -4,7 +4,7 @@
 
 > Songs about the iconic city\. Welcome to the Big Apple!
 
-103 songs - 6 hr 59 min - [published](https://open.spotify.com/playlist/304x1Ce1d77xP3lFWeIUYd)
+105 songs - 7 hr 7 min - [published](https://open.spotify.com/playlist/304x1Ce1d77xP3lFWeIUYd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [City of Blinding Lights](https://open.spotify.com/track/4ItWussj1AjpGcBEwhMLP2) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Devil Wears Prada \(Music from the Motion Picture\)](https://open.spotify.com/album/2JMIfKLVIBC2ecgFhxuT5s) | 5:44 | 2020-05-13 | 2022-05-16 |
 | [City Of Blinding Lights](https://open.spotify.com/track/4ao9bdN6ozxdlQ9j2rGDFy) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [How To Dismantle An Atomic Bomb](https://open.spotify.com/album/2nPJlUlcyQ24e1VdayD6TT) | 5:47 | 2022-01-24 |  |
 | [Coney Island](https://open.spotify.com/track/4Yo5ugCS9WjFBu5HhBpcBk) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [The Photo Album](https://open.spotify.com/album/60Rnz307ETOWHn6LWlKMrK) | 2:40 | 2020-05-13 | 2022-07-29 |
-| [Downtown](https://open.spotify.com/track/0ZQ6ckgerHYM5mOUxTl99Q) | [Petula Clark](https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8) | [The Ultimate Petula Clark](https://open.spotify.com/album/4pvPAWiVRHdnVXkOt49sKk) | 3:07 | 2022-01-24 |  |
+| [Downtown](https://open.spotify.com/track/4AK7JaKbg3LLVszqndBXOF) | [Petula Clark](https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8) | [Best Of](https://open.spotify.com/album/6hBP1ZDOKNjjaPODomhGmN) | 3:05 | 2022-01-24 |  |
+| [Downtown](https://open.spotify.com/track/0ZQ6ckgerHYM5mOUxTl99Q) | [Petula Clark](https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8) | [The Ultimate Petula Clark](https://open.spotify.com/album/4pvPAWiVRHdnVXkOt49sKk) | 3:07 | 2022-01-24 | 2022-11-12 |
 | [Downtown \- 64 Original Release With Petula Clark](https://open.spotify.com/track/5ixPfNV1Sx1HCuxdmBnbmE) | [Petula Clark](https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8) | [Downtown](https://open.spotify.com/album/0R9IY9LOH0uP2ibtPjfut5) | 3:05 | 2020-05-13 | 2022-07-29 |
 | [Downtown Train](https://open.spotify.com/track/3fPqUl4lPDUQmY0T7dKUv2) | [Tom Waits](https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM) | [Rain Dogs](https://open.spotify.com/album/5bbb7E51zaDCuD85uLyFkK) | 3:50 | 2020-05-13 |  |
 | [Déjà Vu \(Uptown Baby\)](https://open.spotify.com/track/33i1NxhGadaXhPgJaiD6ad) | [Lord Tariq](https://open.spotify.com/artist/5EC3MUN6vECf8sxUU9IVw6), [Peter Gunz](https://open.spotify.com/artist/2P5QeggPPvmSmFFJ9EcaNp) | [Make It Reign](https://open.spotify.com/album/4KWMxsh4rouk0fttqn4c0p) | 4:43 | 2020-05-13 | 2022-01-26 |
@@ -86,10 +87,11 @@
 | [One More Night In Brooklyn](https://open.spotify.com/track/4xv3P9DiKTKMfFaClyZtgn) | [Justin Townes Earle](https://open.spotify.com/artist/3znXuXT3xkCtjgOxXBBVnq) | [Harlem River Blues](https://open.spotify.com/album/0hihWmULfM5FNgrS7NOXjN) | 3:04 | 2020-05-13 |  |
 | [Piazza, New York Catcher](https://open.spotify.com/track/12eefUObewFbvXYQ3bN7E4) | [Belle and Sebastian](https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h) | [Dear Catastrophe Waitress](https://open.spotify.com/album/7HNrDkHNFopKBXGWf0UZML) | 3:03 | 2022-01-24 |  |
 | [Positively 4th Street](https://open.spotify.com/track/3laR7U9SoYE9C6227MlX78) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Essential Bob Dylan](https://open.spotify.com/album/2FfFQlRgh841SHCLikuZsC) | 3:52 | 2020-05-13 | 2022-07-29 |
+| [Positively 4th Street \- Single Version](https://open.spotify.com/track/4heMx0OAwfILu13Lf0VbBM) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Essential Bob Dylan](https://open.spotify.com/album/1y3abw64BlSEeFuuhjlke1) | 4:07 | 2022-01-24 |  |
 | [Queens](https://open.spotify.com/track/5fcWsUs0Au4IxrhWMFQAj3) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Our Own House](https://open.spotify.com/album/726GB3GTBwPdsGr5XzOQbz) | 3:13 | 2020-05-13 | 2022-01-26 |
 | [Rockaway Beach \- 2002 Remaster](https://open.spotify.com/track/3Mgc6hFpByowXDImggLF8S) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Rocket to Russia](https://open.spotify.com/album/3SBh2kzao9z3gLCzOV45ho) | 2:06 | 2020-05-13 | 2022-07-29 |
 | [Still New York \(feat\. Joey Bada$$\)](https://open.spotify.com/track/4txpZk7WSjV1dsZAw5WYcT) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Still New York \(feat\. Joey Bada$$\)](https://open.spotify.com/album/21sbS4jxqWY2oB1GTMOwqP) | 3:44 | 2020-05-13 | 2022-01-26 |
-| [Still New York \(feat\. Joey Bada$$\)](https://open.spotify.com/track/6EIAHyD9gIDnz2hvEynZJz) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Still New York \(feat\. Joey Bada$$\)](https://open.spotify.com/album/35qwUQ9VvCwVgwPT7QM7yt) | 3:44 | 2022-01-24 |  |
+| [Still New York \(feat\. Joey Bada$$\)](https://open.spotify.com/track/6EIAHyD9gIDnz2hvEynZJz) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Still New York \(feat\. Joey Bada$$\)](https://open.spotify.com/album/35qwUQ9VvCwVgwPT7QM7yt) | 3:44 | 2022-01-24 | 2022-11-12 |
 | [Subway Train](https://open.spotify.com/track/3utG7uK9ERDILMsIQwJRHb) | [New York Dolls](https://open.spotify.com/artist/0WhGV9lzljq2QKJ8ipw6jx) | [New York Dolls](https://open.spotify.com/album/2xbTV0Awe4Qm5caUVuPbMr) | 4:20 | 2022-01-24 | 2022-07-26 |
 | [Summer in the City \- Remastered](https://open.spotify.com/track/7AzFID6u1b3zIWbd9pb8Dk) | [The Lovin' Spoonful](https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe) | [Hums Of The Lovin' Spoonful](https://open.spotify.com/album/3enoBBhSA6i2pXEP8rjAWY) | 2:40 | 2020-05-13 |  |
 | [Take the "A" Train](https://open.spotify.com/track/6KBsivP3Of4z2x6uNMAyE3) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Piano In The Background](https://open.spotify.com/album/5HRYqb7mp810fhgWiUL0uo) | 5:31 | 2020-05-13 |  |

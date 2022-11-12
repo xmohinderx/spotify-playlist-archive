@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [2nd Win](https://open.spotify.com/track/2GjOk5EmK3njFZPx0aXtm4) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [GRACELAND](https://open.spotify.com/album/7CeLcdXA8rCbkZSbmZYM0S) | 2:55 | 2021-06-25 | 2022-10-13 |
+| [2nd Win](https://open.spotify.com/track/2GjOk5EmK3njFZPx0aXtm4) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [GRACELAND](https://open.spotify.com/album/7CeLcdXA8rCbkZSbmZYM0S) | 2:55 | 2021-06-25 |  |
 | [A Billion People](https://open.spotify.com/track/0eidZQA8WPrWcBRfj7YHCa) | [Deitrick Haddon](https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9) | [Deitrick Haddon & Hill City Worship Camp](https://open.spotify.com/album/54fmFSJ25qYXO4mUD9wt3O) | 7:38 | 2021-06-25 | 2022-07-29 |
 | [Already Getting Better](https://open.spotify.com/track/6qCzqsSB1FLP3pr5fIrrAL) | [William Murphy](https://open.spotify.com/artist/1FQJqgKQDNLWfeLBQoQLmD) | [WOW Gospel 2016](https://open.spotify.com/album/6MA7ireN4cN0GxrfL2IHVV) | 4:02 | 2021-06-25 | 2022-07-29 |
 | [Believe For It \- Live](https://open.spotify.com/track/2kSt5gqwUhufhV3mDP38JK) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Believe For It](https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor) | 8:22 | 2021-06-25 |  |
@@ -82,7 +82,7 @@
 | [Touch From You](https://open.spotify.com/track/2IHroOC3rcvR8fx0SN8Xva) | [Tamela Mann](https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt) | [Touch From You](https://open.spotify.com/album/4qcJq2M19yycNn4wIFo78y) | 3:57 | 2021-06-25 | 2022-07-29 |
 | [Unstoppable](https://open.spotify.com/track/7ImLXs35qALCxJMiz33Ab9) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW) | [Unstoppable](https://open.spotify.com/album/5ZyTkx6rT1LnFXvZhpEang) | 3:13 | 2021-06-25 |  |
 | [Victory Belongs To Jesus](https://open.spotify.com/track/1Ewkl1ys052xqnnCGPssbv) | [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [A Worshipper's Heart](https://open.spotify.com/album/7AM048RcQMeKhZ9iwSNXIS) | 5:44 | 2021-06-25 | 2022-07-29 |
-| [Victory Belongs To Jesus](https://open.spotify.com/track/4bJM66nNeI2TZ1cSRKpLfm) | [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [A Worshipper's Heart](https://open.spotify.com/album/5xaGK6HOJPPpRlcQEDVBfJ) | 5:44 | 2021-06-25 |  |
+| [Victory Belongs To Jesus](https://open.spotify.com/track/4bJM66nNeI2TZ1cSRKpLfm) | [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [A Worshipper's Heart](https://open.spotify.com/album/5xaGK6HOJPPpRlcQEDVBfJ) | 5:44 | 2021-06-25 | 2022-11-12 |
 | [We Gon’ Be Alright](https://open.spotify.com/track/0ErItBOhcHJahcQ8BGqk4V) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [We Gon’ Be Alright](https://open.spotify.com/album/7mlzDISRd3IcS4MFf0Cuxb) | 3:34 | 2021-06-25 |  |
 | [Weak](https://open.spotify.com/track/77Ozvyd5Hb2JelgPAefv5I) | [Sunday Service Choir](https://open.spotify.com/artist/2c9O21YLFy4tFI9zCVhbFg) | [Jesus Is Born](https://open.spotify.com/album/65zhpgwMMRxncpa7zHckQ6) | 3:05 | 2021-06-25 |  |
 | [Well Done](https://open.spotify.com/track/64hIlYHCreOzGCuzWsivXW) | [Erica Campbell](https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp) | [Well Done](https://open.spotify.com/album/2T6MoExj6ZfHxd5az22f35) | 4:52 | 2021-06-25 | 2022-07-21 |

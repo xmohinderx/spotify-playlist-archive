@@ -4,7 +4,7 @@
 
 > Celebrate Women's History Month with these powerful voices\. Cover: Greeicy
 
-162 songs - 9 hr 7 min - [published](https://open.spotify.com/playlist/3pQFKhnY33a9QIrCBLbj5H)
+163 songs - 9 hr 11 min - [published](https://open.spotify.com/playlist/3pQFKhnY33a9QIrCBLbj5H)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [La Reina](https://open.spotify.com/track/5hgtFPs0T9r4YQqLjmam3h) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [La Fuerza](https://open.spotify.com/album/10g6da1CbqB78EddjRvJK5) | 3:48 | 2022-03-14 |  |
 | [La Vida Es Un Carnaval](https://open.spotify.com/track/3Rjc14RoRucHhEWvv3W3xW) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Mi Vida Es Cantar](https://open.spotify.com/album/2clEi9iP3VkzZzkydAjFDA) | 4:35 | 2022-03-14 | 2022-07-29 |
 | [La Vida Es Un Carnaval](https://open.spotify.com/track/1BwrMGGhPA6GarWIYaFrW8) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Para La Eternidad](https://open.spotify.com/album/2MSP1JG7KflqYqAHtk7wlB) | 4:38 | 2022-03-28 | 2022-11-11 |
+| [La Vida Es Un Carnaval](https://open.spotify.com/track/7HL0P35A96wkutKopiovaX) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Festejá con ritmos latinos](https://open.spotify.com/album/3nnjSxO8sva22SJQgOwKYL) | 4:38 | 2022-03-28 |  |
 | [Las Nenas \(feat\. La Duraca\)](https://open.spotify.com/track/2KTCXvWUbqfiinbFe7PJKP) | [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90), [La Duraca](https://open.spotify.com/artist/7x7vfF89MqM94K8wvK3Omq) | [Las Nenas \(feat\. La Duraca\)](https://open.spotify.com/album/46To3XT2EvHUnLPF08E8SI) | 3:44 | 2022-03-14 |  |
 | [Let's Get Loud](https://open.spotify.com/track/42nSaPdT6g3ZIMHmKLlP2p) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [On The 6](https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc) | 3:59 | 2022-03-14 |  |
 | [Limón y Sal](https://open.spotify.com/track/7dITAq1YP5e0kTcaDq4YWI) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Limon Y Sal](https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q) | 3:25 | 2022-03-14 |  |
@@ -124,7 +125,7 @@
 | [Perdón, Perdón \- HA\-ASH Primera Fila \- Hecho Realidad \[En Vivo\]](https://open.spotify.com/track/15Hx1oi6C3AxYhhvolqrJG) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [HA\-ASH Primera Fila \- Hecho Realidad](https://open.spotify.com/album/2RCKVV7j5dZax3YZHfG0QM) | 3:46 | 2022-03-14 |  |
 | [Policía](https://open.spotify.com/track/6qv6O0VQhXbhzEu4v5ASv5) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Policía](https://open.spotify.com/album/3zvNDd5D18bAtpul2jTyLY) | 2:53 | 2022-03-14 |  |
 | [Por La Noche](https://open.spotify.com/track/3ecsRxQMTIUZCgf4GBAp41) | [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ) | [Por La Noche \(Remixes\)](https://open.spotify.com/album/7IVKPPu2lvLRs858SMMitY) | 3:44 | 2022-03-14 |  |
-| [Por Última Vez \(feat\. Franco de Vita\)](https://open.spotify.com/track/0n6jpmetO3fnMM4H8LO54Y) | [Debi Nova](https://open.spotify.com/artist/5zaG384VZzAb6AMfEnSy2r), [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu) | [Soy](https://open.spotify.com/album/0RHpMEN3Xn3nIuJOitlImO) | 4:09 | 2022-03-28 |  |
+| [Por Última Vez \(feat\. Franco de Vita\)](https://open.spotify.com/track/0n6jpmetO3fnMM4H8LO54Y) | [Debi Nova](https://open.spotify.com/artist/5zaG384VZzAb6AMfEnSy2r), [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu) | [Soy](https://open.spotify.com/album/0RHpMEN3Xn3nIuJOitlImO) | 4:09 | 2022-03-28 | 2022-11-12 |
 | [Por Última Vez \(feat\. Franco De Vita\)](https://open.spotify.com/track/0XCaxeshWC9TdLImxSb9G5) | [Debi Nova](https://open.spotify.com/artist/5zaG384VZzAb6AMfEnSy2r), [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu) | [Soy](https://open.spotify.com/album/7yQB4Z7B4g6KSuaYEJd7Zr) | 4:11 | 2022-03-14 | 2022-07-29 |
 | [Quién Podrá Saberlo](https://open.spotify.com/track/4Ioz0P53jC1z6zVUcj12GW) | [Dom La Nena](https://open.spotify.com/artist/7cfKXiA9YUupXEjCUWPtxY), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Quién Podrá Saberlo](https://open.spotify.com/album/5cvmkQT4H1rfZT8reSzanZ) | 2:43 | 2022-03-14 |  |
 | [Qué Será](https://open.spotify.com/track/0EixXz4ZIBS5sq7LjyN1VV) | [Leslie Grace](https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc), [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR) | [Qué Será](https://open.spotify.com/album/3YsT4UC2mHKo7ax2cmoGGd) | 3:13 | 2022-03-14 |  |

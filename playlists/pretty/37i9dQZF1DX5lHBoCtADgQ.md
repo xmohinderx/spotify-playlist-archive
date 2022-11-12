@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lHBoCtADgQ.md) - [plain]
 
 > Enjoy the folk from Punjab\. Cover: Neha Bhasin
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,367 likes - 54 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,384 likes - 54 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,6 +61,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lHBoCtADgQ.md) - [plain]
 | 51 | [Dupatta Tera Sat Rang Da](https://open.spotify.com/track/7GOVdCsVtKiVdyFjXJERDm) | [Surjit Bindrakhia](https://open.spotify.com/artist/2tcB32mxjVzmLcyfGizWNX) | [Greatest Old Skool Bhangra Hits, Vol\. 2](https://open.spotify.com/album/4oluT9XHuyEP7eegMh4xTa) | 4:28 |
 | 52 | [Kala Dooria](https://open.spotify.com/track/2IvSrdat1OK4xMArwWEWyt) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC), [Prakash Kaur](https://open.spotify.com/artist/51te2iwubcXb5dKxUxpWkh) | [Virasat\-E\-Punjab, Vol\. 1](https://open.spotify.com/album/7BLztbcJkDA2UvmCsrU7fW) | 2:59 |
 | 53 | [Duma Dum Mast Qalandar](https://open.spotify.com/track/02c0dOVxkBAHXP8nxFsgKB) | [Hans Raj Hans](https://open.spotify.com/artist/7967TUOaS203OMlBrsHS8X) | [The Best of Hans Raj Hans](https://open.spotify.com/album/2IWlYsJ3zRA2umEAYccWtK) | 8:52 |
-| 54 | [Ek Meri Akk Kaashni](https://open.spotify.com/track/3DdCB4DFq9m6vzU2mtI6CM) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC), [Asa Singh Mastana](https://open.spotify.com/artist/5MjQby5pq8m4mANED6jFbA), [Hazara Singh Ramta](https://open.spotify.com/artist/7LbnqdejlXAPj3k6T7rY4b) | [Folk Music of Punjab, Vol\. 1](https://open.spotify.com/album/71vtvcxf58EwWSv8Nnpzf9) | 3:22 |
+| 54 | [Ek Meri Akh Kashni](https://open.spotify.com/track/77B95qDRO4z5x4Rs1hYrO5) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC) | [Hits of Surinder Kaur, Vol\. 1 & 2](https://open.spotify.com/album/0u8nU0LaB5vUHuEZ8jG9gI) | 3:26 |
 
-Snapshot ID: `MTY2Nzk3NjI4MywwMDAwMDAwMDU3ZmU2NmFjNDI2YzIzYWFlZWIzY2FhMjliZjUzY2I0`
+Snapshot ID: `MTY2Nzk3NjI4MywwMDAwMDAwMDM1YmJjOGVlZjdjNjMwNjRhYTA4MDI5NWFjODk4MGRk`

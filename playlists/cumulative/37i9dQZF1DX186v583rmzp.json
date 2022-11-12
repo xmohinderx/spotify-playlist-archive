@@ -351,7 +351,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 298707,
       "name": "Book of Life",
       "url": "https://open.spotify.com/track/6g4FjLtgaFN6ADpE1FiAwM"
@@ -636,6 +636,24 @@
     },
     {
       "album": {
+        "name": "Here Come The Lords",
+        "url": "https://open.spotify.com/album/15nPVESpZNf0QBRwu2sMbI"
+      },
+      "artists": [
+        {
+          "name": "Lords Of The Underground",
+          "url": "https://open.spotify.com/artist/17Q9sCBpIyS6yM2YyaI6R4"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247400,
+      "name": "Chief Rocka",
+      "url": "https://open.spotify.com/track/34MRi5GRWHFUa731JBxFEl"
+    },
+    {
+      "album": {
         "name": "Uptown Saturday Night",
         "url": "https://open.spotify.com/album/21EglTSwzUorpiXpMBNW2E"
       },
@@ -847,7 +865,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 262800,
       "name": "Don't Sweat The Technique",
       "url": "https://open.spotify.com/track/48ZUwXrEOhaXLCxvmRYhZv"
@@ -941,7 +959,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 265200,
       "name": "Elevators (Me & You)",
       "url": "https://open.spotify.com/track/2oLwDI8tZUOh6SmTMRRfKs"
@@ -1297,7 +1315,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 274937,
       "name": "Get Money",
       "url": "https://open.spotify.com/track/53oWwSxPuyH2cjYKXH8fgO"
@@ -1581,7 +1599,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 284693,
       "name": "Hey Lover",
       "url": "https://open.spotify.com/track/5wG7d4cNogw0ETKaICPEYA"
@@ -1603,6 +1621,24 @@
       "duration_ms": 243106,
       "name": "Hip 2 Da Game",
       "url": "https://open.spotify.com/track/30eW6IlBK3wCwcB8TsPXua"
+    },
+    {
+      "album": {
+        "name": "The Awakening",
+        "url": "https://open.spotify.com/album/7tIapzAUTxUTYMvWWFSzV5"
+      },
+      "artists": [
+        {
+          "name": "Lord Finesse",
+          "url": "https://open.spotify.com/artist/1C6G15UmVQMDGpYbdsf1Oi"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243106,
+      "name": "Hip 2 Da Game",
+      "url": "https://open.spotify.com/track/3yjVsUq8psgcHm8SQrZ8i4"
     },
     {
       "album": {
@@ -1635,7 +1671,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 214066,
       "name": "Hip-Hop",
       "url": "https://open.spotify.com/track/2HoDr1yVksl19omOhc1zWy"
@@ -3109,7 +3145,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 214440,
       "name": "Ruff Ryders' Anthem",
       "url": "https://open.spotify.com/track/1BKT2I9x4RGKaKqW4up34s"
@@ -3293,7 +3329,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 218333,
       "name": "Slam",
       "url": "https://open.spotify.com/track/0W2mz7mvaBaEsC4rmoRNPn"
@@ -3492,6 +3528,24 @@
     },
     {
       "album": {
+        "name": "A Wolf In Sheep's Clothing",
+        "url": "https://open.spotify.com/album/4tIQR0m3PPwybQ32P256IO"
+      },
+      "artists": [
+        {
+          "name": "Black Sheep",
+          "url": "https://open.spotify.com/artist/0NnCgUxhtWt1yBtpDyvFQf"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243200,
+      "name": "The Choice Is Yours (Revisited)",
+      "url": "https://open.spotify.com/track/4k9EkhkFZY8Bk41Qi0Ob7P"
+    },
+    {
+      "album": {
         "name": "Sex Packets",
         "url": "https://open.spotify.com/album/6HWrL7hDFxfc8Z17JI9JIL"
       },
@@ -3503,7 +3557,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 391693,
       "name": "The Humpty Dance",
       "url": "https://open.spotify.com/track/0YEC3pNS0uIKvZb5u4lgsu"
@@ -3717,7 +3771,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 214866,
       "name": "Uknowhowwedu",
       "url": "https://open.spotify.com/track/5KapB9KJnRsZrprzIAXycW"
@@ -4149,7 +4203,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 325733,
       "name": "Young G's (feat. The Notorious B.I.G. & Jay-Z)",
       "url": "https://open.spotify.com/track/1z1btB03Hw1gYwSLPlt67z"

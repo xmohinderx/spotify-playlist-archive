@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX571ttkrxAeN.md) - [plain]
 
 > Sit and sip a cup as you soak up some acoustic vibes from across the world\. Cover: Souad Massi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,302 likes - 78 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,362 likes - 78 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX571ttkrxAeN.md) - [plain]
 | 58 | [Sola](https://open.spotify.com/track/1eSAk6eLmRu7nGjyTx6T83) | [Lovely Luna](https://open.spotify.com/artist/2oiZAAYFPCML72PNdfZqSL) | [Las Cosas Que Nadie Debe Ver](https://open.spotify.com/album/35DW6GCuuzHDMxdEGmbcW7) | 3:17 |
 | 59 | [Half du temps](https://open.spotify.com/track/4b4uzzZAXHlAoEh1ZQ0Myb) | [Les Hay Babies](https://open.spotify.com/artist/19MYB7a3GOTcbnZrl7juwx) | [La 4ième dimension \(Version Longue\)](https://open.spotify.com/album/5B8tJiqykn7ahWsA6gBM0M) | 4:55 |
 | 60 | [Si jamais j'oublie \- Sur la route Live 2015](https://open.spotify.com/track/1KkPVmfNmNND1vm5PhUv5R) | [Zaz](https://open.spotify.com/artist/1mbgj8ERPs8lWi7t5cYrdy) | [Sur la route](https://open.spotify.com/album/2XjgaeNxdUvGMwggCTSLXn) | 3:28 |
-| 61 | [Luna Llena](https://open.spotify.com/track/20A1JcPTZK3yaTNKXn08O9) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Ciclo](https://open.spotify.com/album/3RdOl7kpv8eExyjI9YhANs) | 3:07 |
+| 61 | [Luna Llena](https://open.spotify.com/track/74nL250MVJW7NtrpySAxT7) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Luna Llena](https://open.spotify.com/album/5rFme5RIAGPcFm36feh5Mo) | 3:14 |
 | 62 | [Ja må du leva \- Akustisk version](https://open.spotify.com/track/1Bh4HmorrjRSTAMgyHTkL5) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Ja må du leva \(Akustisk version\)](https://open.spotify.com/album/0frL0AdL5jK1RisL0nCObh) | 3:32 |
 | 63 | [Vi lovar \(Besvärjelse\)](https://open.spotify.com/track/7o3FCfwainpUiPMF4wyGdP) | [Eva Weel Skram](https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3) | [Vi lovar \(Besvärjelse\)](https://open.spotify.com/album/51wjspTv8Bw7qy3AmgljWI) | 4:10 |
 | 64 | [Je t'emmènerai](https://open.spotify.com/track/0e1tpQ8A7L2BTRpXXs8znZ) | [Willows](https://open.spotify.com/artist/0UNhcjtUIMb5u5v6niKshW) | [Willows](https://open.spotify.com/album/276kwfvHvCeNJYHGhcx7jj) | 3:47 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX571ttkrxAeN.md) - [plain]
 | 77 | [Hora Bruja](https://open.spotify.com/track/3KjUz9upExFV7dxsm9P45R) | [Cuchillo](https://open.spotify.com/artist/4HUoMCRLwJTGvuzcevaLVT) | [Encanto](https://open.spotify.com/album/7ghVkkWsjzTFna6lR0Axt1) | 3:53 |
 | 78 | [Doremifarklı insanlarız \(akustik\)](https://open.spotify.com/track/6vOpTasDwu8gj7IRbFXNjE) | [Canozan](https://open.spotify.com/artist/4MUb8ilmrxyePXwSkG31lC) | [Doremifarklı insanlarız \(akustik\)](https://open.spotify.com/album/2PjJMRedxiuCTtQgTkn2wR) | 3:41 |
 
-Snapshot ID: `MTY2NDIwNDI4OSwwMDAwMDAwMGUzNWMzODI1YjA5OWJmYWJlMmIwNGJlZjkxNGU3N2Y3`
+Snapshot ID: `MTY2NDIwNDI4OSwwMDAwMDAwMDZmNjBiODg4M2U3M2U2M2VhZjA2OWFkMzE1MTZiMWEx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79N7YUDFu8f.md) - [plain]
 
 > Lekker rustig aan doen op zaterdag met deze zachte pop liedjes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,183 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,198 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79N7YUDFu8f.md) - [plain]
 | 23 | [Love on the Weekend](https://open.spotify.com/track/0j2WBxWZnWti5TpSxjJvPb) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Love on the Weekend](https://open.spotify.com/album/5uBT48jKnO59Oylf08pJJA) | 3:32 |
 | 24 | [At Least Once](https://open.spotify.com/track/4i23tbQw9JV9dfvooyfP6T) | [Douglas Firs](https://open.spotify.com/artist/4bIqgUsS9Vgb5vQOPdaLr4) | [At Least Once](https://open.spotify.com/album/26hvixgOgvYF7NEJbbmsk1) | 4:51 |
 | 25 | [Two By Two](https://open.spotify.com/track/43e1QhXItiHWcoHvENyJkI) | [Géonne Hartman](https://open.spotify.com/artist/4DxQTlVe6YC4kzlrPxXXon) | [He Went To The Sea](https://open.spotify.com/album/6sbHZO54hBTlyMhpqqkmom) | 2:40 |
-| 26 | [Lights Down Low](https://open.spotify.com/track/5A6BJLZArq1MPjsnmcuk5f) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [Hell's Kitchen Angel](https://open.spotify.com/album/1fVVnWHdCvIas2Rdmc25Oc) | 3:43 |
+| 26 | [Lights Down Low](https://open.spotify.com/track/4FO19heaoF2X1IecIfPURV) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [NOW That's What I Call Music, Vol\. 65](https://open.spotify.com/album/161uSmI2QrypiAIdlOLYJW) | 3:43 |
 | 27 | [Saturday Sun](https://open.spotify.com/track/6VREttZINnTj7SIjaFEk22) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Quarantine And Chill](https://open.spotify.com/album/0LWQ7dnduJgKC3ZpgfHu3b) | 4:05 |
 | 28 | [I'll Hold On](https://open.spotify.com/track/3kuOpyrGLaBBefUNG5YAnS) | [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx) | [I'll Hold On](https://open.spotify.com/album/6Lusbn0DmVCQjkkN8FV0Sp) | 3:12 |
 | 29 | [Sacrifice](https://open.spotify.com/track/3XuIsQe0Z00LlyMLul6h8r) | [Gyo Kretz](https://open.spotify.com/artist/0JvKdVXySsrLWA3TO4uSnE) | [Sacrifice](https://open.spotify.com/album/7xkRFlCoYQe8bXgwFuFIqt) | 3:35 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79N7YUDFu8f.md) - [plain]
 | 92 | [The Island](https://open.spotify.com/track/5rK6tUpOnpI2zig7JgtAGz) | [Laura Jansen](https://open.spotify.com/artist/1Ecagb1V0oVlO0pFKnhYWM) | [The Island](https://open.spotify.com/album/7HKuPYtqg01NQ899c8hK6x) | 5:08 |
 | 93 | [Let It All Go](https://open.spotify.com/track/70K0ezmzYEZeqoSaZMyP7o) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP), [RHODES](https://open.spotify.com/artist/07FfkbljNIdl45Ijlh1aXS) | [Let It All Go](https://open.spotify.com/album/70kdvnoDEA1srIsofErTEw) | 4:40 |
 | 94 | [Close To You](https://open.spotify.com/track/0ptKXVvF6qrNAjm9HGG0Rw) | [Michael Prins](https://open.spotify.com/artist/02uBraNVAgl8ue5bG8B87m) | [De Beste Singer Songwriter van Nederland 2](https://open.spotify.com/album/5rWkw0mK0WGSWtZnfKE8DV) | 4:50 |
-| 95 | [Selfish Love](https://open.spotify.com/track/5hmLPzFW7oH8QQ9LRu1HUl) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Glasshouse \(Deluxe Edition\)](https://open.spotify.com/album/6mPNjjOl2GHbP4E90l7bJe) | 3:57 |
-| 96 | [Lovely Morning](https://open.spotify.com/track/4768qiI13zMOKseYclY4pN) | [Room Eleven](https://open.spotify.com/artist/1fnqrUzStcFzRdTybhaOdT) | [Mmm..\. Gumbo?](https://open.spotify.com/album/7qvN2X89qpDmaZbYbqFGgQ) | 3:53 |
+| 95 | [Selfish Love](https://open.spotify.com/track/5E0ooxbzCpT6ukRkimv50g) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Glasshouse](https://open.spotify.com/album/4nfzRON4A8T9UNuhRqWw8X) | 3:57 |
+| 96 | [Lovely Morning](https://open.spotify.com/track/4DSNqIleyyQb5vL18LVgPL) | [Room Eleven](https://open.spotify.com/artist/1fnqrUzStcFzRdTybhaOdT) | [Mmm..\. Gumbo? \[ International Version \]](https://open.spotify.com/album/2GhhKuE8coVyF5us5Glbe2) | 3:53 |
 | 97 | [Princess](https://open.spotify.com/track/7MoXmKuJTCBTE9lQFtMWM2) | [Sonny Tennet](https://open.spotify.com/artist/2hPtxFv2Ftb7xGRdU76bOd) | [Hopeless Romance](https://open.spotify.com/album/5WMuOOML8PANPuUQKeIo8S) | 3:56 |
 | 98 | [September Song \- Guitar Acoustic](https://open.spotify.com/track/7bMkcxifc4EjIQKw49EC7h) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Raised Under Grey Skies \(Deluxe\)](https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo) | 3:32 |
 | 99 | [Where's My Love](https://open.spotify.com/track/0IRmoVD5Zbndp79ShxphRb) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Where's My Love](https://open.spotify.com/album/6U6yE35iYGweoUiFFjuBdC) | 3:22 |
 | 100 | [Days of Old](https://open.spotify.com/track/7EUoHpKl506IJQlpYQUBsc) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e) | [Days of Old](https://open.spotify.com/album/6WUfZhaL11rvcFlgLtvQJP) | 3:15 |
 
-Snapshot ID: `MTY2NzUxNjQwMCwwMDAwMDAwMDNhYWQ3MDY1MTk3ZjJlN2E5YjdlYWEwNjYwMzUyZGU2`
+Snapshot ID: `MTY2NzUxNjQwMCwwMDAwMDAwMDFiZDg5ZmMwMDBiOWMwYTdlMjUzMjBmOTZkNTJkMWY1`

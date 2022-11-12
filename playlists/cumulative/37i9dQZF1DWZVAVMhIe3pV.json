@@ -541,7 +541,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 211706,
       "name": "Bohemian Like You",
       "url": "https://open.spotify.com/track/0yEhNqCwEfy8LHUmnZoHpP"
@@ -2417,7 +2417,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 271240,
       "name": "I Was Made For Lovin' You",
       "url": "https://open.spotify.com/track/07q0QVgO56EorrSGHC48y3"
@@ -2507,7 +2507,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 257920,
       "name": "In the Shadows",
       "url": "https://open.spotify.com/track/1fr92Vupmcs2vgLMFVQ7rd"
@@ -3577,7 +3577,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 268613,
       "name": "New Divide",
       "url": "https://open.spotify.com/track/6Wx88Mv6b9ofjKMKkdwOJd"
@@ -3667,7 +3667,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 185586,
       "name": "Numb",
       "url": "https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h"
@@ -4291,7 +4291,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 222240,
       "name": "Runnin' Wild",
       "url": "https://open.spotify.com/track/71fSn6OIF7HnCbgCzOBqpj"
@@ -4651,7 +4651,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 301920,
       "name": "Smells Like Teen Spirit",
       "url": "https://open.spotify.com/track/5ghIJDpPoe3CfHMGu71E6T"
@@ -5141,6 +5141,24 @@
       "duration_ms": 220480,
       "name": "That's What You Get",
       "url": "https://open.spotify.com/track/0UY4FvG4f9JI6kBR1BlWrZ"
+    },
+    {
+      "album": {
+        "name": "Riot!",
+        "url": "https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220480,
+      "name": "That's What You Get",
+      "url": "https://open.spotify.com/track/1JdKrFyoU05abww0Zv0ayQ"
     },
     {
       "album": {

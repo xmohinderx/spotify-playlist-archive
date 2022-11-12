@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gw71wbsSV6.md) - [plain]
 
 > 忙しかった1日の終わりは、半身浴と心に沁みる音楽でゆったりリラックス。
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,552 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,557 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gw71wbsSV6.md) - [plain]
 | 40 | [Come Home To Me](https://open.spotify.com/track/2K8elWg8ihrZRwZJ7Gy6L3) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [LÉON](https://open.spotify.com/album/4rH2e0qPw9MrwOSdk9rKNe) | 3:45 |
 | 41 | [Promises](https://open.spotify.com/track/6aQ7nlAEOhhRnsHi6eY0zT) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Mother](https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR) | 4:24 |
 | 42 | [Soul Mate](https://open.spotify.com/track/4IOXp1xFiMh5FtSEGim4CO) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [our generation](https://open.spotify.com/album/5MEaV6TQEOzV4l3bhwySJx) | 3:57 |
-| 43 | [Throwaway \(with Clairo\)](https://open.spotify.com/track/2MnEG4htbbdfoUsyzxZ4BM) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Dawn](https://open.spotify.com/album/57TxOlFzG9yvAKEdjjm2yB) | 3:00 |
+| 43 | [F.U.C.K.](https://open.spotify.com/track/0iDuW211AjTsYDPsLxyqX4) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [F.U.C.K.](https://open.spotify.com/album/5ECJ8Rfo3VvvGz7MeBfhFC) | 3:25 |
 | 44 | [夜をループ](https://open.spotify.com/track/5aF7JEshjhV8gsg8INAOYX) | [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [NIGHT TAPE](https://open.spotify.com/album/3FIYJQnPsIVBQiorttCmAB) | 4:26 |
-| 45 | [F.U.C.K.](https://open.spotify.com/track/0iDuW211AjTsYDPsLxyqX4) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [F.U.C.K.](https://open.spotify.com/album/5ECJ8Rfo3VvvGz7MeBfhFC) | 3:25 |
-| 46 | [Champion](https://open.spotify.com/track/1z1mMZtZW0gvR9FSPc7JpJ) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Champion](https://open.spotify.com/album/7Bn79CglkuFFWRJa7w5FPt) | 2:53 |
-| 47 | [Floating \(feat\. Khalid\) \[filous Remix\]](https://open.spotify.com/track/3Vtl4Xc9cKVs1UoenXtScn) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1), [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Floating \(feat\. Khalid\) \[filous Remix\]](https://open.spotify.com/album/0QVHAyioFI1UB5iy7kWJY8) | 3:20 |
-| 48 | [All My Friends](https://open.spotify.com/track/5Xq7KPZSONkhHx6DFTAbTz) | [AJ Mitchell](https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77) | [All My Friends](https://open.spotify.com/album/63hf1KQx1rRyB3xTl1QpPj) | 2:52 |
-| 49 | [Day Dreaming](https://open.spotify.com/track/2JRLoT6z48Pfihyj1s1u77) | [Jack & Jack](https://open.spotify.com/artist/1INuLZXjjVbcJRyWvD1iSq) | [A Good Friend Is Nice](https://open.spotify.com/album/0mjAkDF5xXelx7EOUthdRk) | 3:31 |
-| 50 | [Buddy's Rendezvous](https://open.spotify.com/track/7qqrGV5WpQnMKqVTsDZd9J) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Buddy's Rendezvous](https://open.spotify.com/album/3hL6ZIcwV6zUfqRiPLPBLJ) | 5:01 |
+| 45 | [Champion](https://open.spotify.com/track/1z1mMZtZW0gvR9FSPc7JpJ) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Champion](https://open.spotify.com/album/7Bn79CglkuFFWRJa7w5FPt) | 2:53 |
+| 46 | [Floating \(feat\. Khalid\) \[filous Remix\]](https://open.spotify.com/track/3Vtl4Xc9cKVs1UoenXtScn) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1), [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Floating \(feat\. Khalid\) \[filous Remix\]](https://open.spotify.com/album/0QVHAyioFI1UB5iy7kWJY8) | 3:20 |
+| 47 | [All My Friends](https://open.spotify.com/track/5Xq7KPZSONkhHx6DFTAbTz) | [AJ Mitchell](https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77) | [All My Friends](https://open.spotify.com/album/63hf1KQx1rRyB3xTl1QpPj) | 2:52 |
+| 48 | [Day Dreaming](https://open.spotify.com/track/2JRLoT6z48Pfihyj1s1u77) | [Jack & Jack](https://open.spotify.com/artist/1INuLZXjjVbcJRyWvD1iSq) | [A Good Friend Is Nice](https://open.spotify.com/album/0mjAkDF5xXelx7EOUthdRk) | 3:31 |
+| 49 | [Buddy's Rendezvous](https://open.spotify.com/track/7qqrGV5WpQnMKqVTsDZd9J) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Buddy's Rendezvous](https://open.spotify.com/album/3hL6ZIcwV6zUfqRiPLPBLJ) | 5:01 |
+| 50 | [Slow Fade](https://open.spotify.com/track/3KAPg0XP3176meHGFGN16F) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Maybe I'll Find You Again](https://open.spotify.com/album/55B16U7z2wQTFlr27JKmdX) | 3:31 |
 
-Snapshot ID: `MTY2NzkyODc0MCwwMDAwMDAwMGM3ZjVlODk3ZDAyOWY0ZDVjOGY5ODA2YmJkMTRiYjM1`
+Snapshot ID: `MTY2NzkyODc0MCwwMDAwMDAwMGYzYjBmOTE5ODA3OTdjNGQxODI3OTI1OGFmOTQ3MmFk`

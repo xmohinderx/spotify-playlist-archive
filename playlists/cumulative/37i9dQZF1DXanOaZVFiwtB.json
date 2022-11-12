@@ -618,6 +618,24 @@
     },
     {
       "album": {
+        "name": "SINGLES",
+        "url": "https://open.spotify.com/album/5NpqHrBLsy5higgDkTnrZY"
+      },
+      "artists": [
+        {
+          "name": "Bakufu Slump",
+          "url": "https://open.spotify.com/artist/38S2jSY9Fr0AcZZWMrKuqC"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194826,
+      "name": "\u3055\u3088\u306a\u3089\u6587\u660e",
+      "url": "https://open.spotify.com/track/6JHRrDBuYq0cmOmVLo4urS"
+    },
+    {
+      "album": {
         "name": "\u6c7a\u5b9a\u7248! \u7206\u98a8\u30b9\u30e9\u30f3\u30d7\u5927\u5168\u96c6",
         "url": "https://open.spotify.com/album/22KV3uWwIq9IcM3j5USuo0"
       },
@@ -629,7 +647,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 195466,
       "name": "\u3055\u3088\u306a\u3089\u6587\u660e",
       "url": "https://open.spotify.com/track/5CpSCK9dXdDOOvQsC861HN"

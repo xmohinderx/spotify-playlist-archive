@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8V6C5Nr1MvC.md) - [plain]
 
 > Unwind and drink up these awesome Rock slow songs
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,019 likes - 100 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,325 likes - 100 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8V6C5Nr1MvC.md) - [plain]
 | 14 | [Disarm \- Remastered](https://open.spotify.com/track/6YIggUJW3ttAAPRdnki8RM) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Siamese Dream \(Deluxe Edition\)](https://open.spotify.com/album/0bQglEvsHphrS19FGODEGo) | 3:16 |
 | 15 | [Present Tense](https://open.spotify.com/track/679zqcQuKakOGI93NPCqB8) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [No Code](https://open.spotify.com/album/3FKhxgSZdtJBIjdHsjbxI0) | 5:45 |
 | 16 | [Fade Into You](https://open.spotify.com/track/0v55XuHDYNj4ELPzpRnNo0) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Falling In](https://open.spotify.com/album/59ZFxwkLZ1vUJJVqHTdXEU) | 5:15 |
-| 17 | [Bright Lights](https://open.spotify.com/track/7aO35V27YDi4hKOL9odSya) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Blak and Blu \(Deluxe Edition\)](https://open.spotify.com/album/0YaeFHEYGpdzdFIxDRFvCv) | 5:24 |
+| 17 | [Bright Lights](https://open.spotify.com/track/5HDMKAgLEPOEazIXo6YavF) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Rock's Not Dead](https://open.spotify.com/album/09ecrfUpZHKVXqm1ZZkBFV) | 5:24 |
 | 18 | [Impossible](https://open.spotify.com/track/547VvUJcGmn26XJwHNueOa) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Impossible](https://open.spotify.com/album/1iErEjieuf47K2k7KymkQq) | 4:08 |
 | 19 | [Lazy Eye](https://open.spotify.com/track/1aDLUzCyYpRXgrjwUWzV2X) | [Silversun Pickups](https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h) | [Carnavas](https://open.spotify.com/album/2Qr40p1sv6NYrf9NPehsrO) | 5:54 |
 | 20 | [Drive](https://open.spotify.com/track/7nnWIPM5hwE3DaUBkvOIpy) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Make Yourself](https://open.spotify.com/album/2i6nd4FV6y7K9fln6eelmR) | 3:52 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8V6C5Nr1MvC.md) - [plain]
 | 99 | [Cherry](https://open.spotify.com/track/2HQY0sXTrBJCuxqJxbeMWB) | [Moose Blood](https://open.spotify.com/artist/5fEKZRCUa0JApec5Xy095q) | [I'll Keep You In Mind, From Time to Time](https://open.spotify.com/album/7aMvv0lYIhPyudfM1TmItV) | 2:39 |
 | 100 | [Say Hello 2 Heaven](https://open.spotify.com/track/4L2S9GbwEgwfSbHjTCvNQX) | [Temple Of The Dog](https://open.spotify.com/artist/0iHb0mCbqZTYeb4y9Pirrd) | [Temple Of The Dog](https://open.spotify.com/album/63HdXCn0Xz1pRZc2GzMw7k) | 6:24 |
 
-Snapshot ID: `MTY1MzQwMTQwNCwwMDAwMDAwMDkyNDgyNzUxNjU1ZGRiNjA1NjMzN2E2YzU0NjRhNzhl`
+Snapshot ID: `MTY1MzQwMTQwNCwwMDAwMDAwMDVmZmYzZGVkNjk5NzE2YzEyZjBiMzQxMWI3M2UzODc5`

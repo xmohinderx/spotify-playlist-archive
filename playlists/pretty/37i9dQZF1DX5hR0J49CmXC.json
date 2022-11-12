@@ -1,28 +1,28 @@
 {
   "description": "That real hip-hop. Cover: Ab-Soul",
-  "num_followers": 1096325,
+  "num_followers": 1096490,
   "original_name": "Mind Right",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Nzk0MDE2OSwwMDAwMDAwMDQyNjc2YzNjMTA2ZWY4M2Y0YmM5NTI0N2FkNjc5YjA0",
+  "snapshot_id": "MTY2ODE0NzU0NCwwMDAwMDAwMDUxNTEzMmYzYzA5ZmM5YjVlYWRiNGQzNzQ0YjQ0Mzg5",
   "tracks": [
     {
-      "added_at": "2022-11-04 04:00:00",
+      "added_at": "2022-11-11 05:44:31",
       "album": {
-        "name": "Her Loss",
-        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+        "name": "King's Disease III",
+        "url": "https://open.spotify.com/album/3vQuGKQJMfdXmkjRKqUesk"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
         }
       ],
-      "duration_ms": 356389,
-      "name": "Middle of the Ocean",
-      "url": "https://open.spotify.com/track/410TZrK18uRjtsTunG14cl"
+      "duration_ms": 167724,
+      "name": "Michael & Quincy",
+      "url": "https://open.spotify.com/track/5MfCvL6jCTkxPCBQf3OkYH"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -43,6 +43,102 @@
       "duration_ms": 244250,
       "name": "Peppas (feat. Black Star)",
       "url": "https://open.spotify.com/track/0bKg2V6xY47U5UCU7QuoAX"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Flag on the Play",
+        "url": "https://open.spotify.com/album/0S2t8ZaN7pKejn2oljIrGA"
+      },
+      "artists": [
+        {
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+        },
+        {
+          "name": "Futurewave",
+          "url": "https://open.spotify.com/artist/4i9PacC5mAjVi8DzWcpmxz"
+        }
+      ],
+      "duration_ms": 160392,
+      "name": "Flag on the Play",
+      "url": "https://open.spotify.com/track/5XbnkjcSa8TY535pP633fL"
+    },
+    {
+      "added_at": "2022-11-11 06:19:04",
+      "album": {
+        "name": "Band of Brothers",
+        "url": "https://open.spotify.com/album/2OwdxUvQBCjolqKBZYXI0v"
+      },
+      "artists": [
+        {
+          "name": "38 Spesh",
+          "url": "https://open.spotify.com/artist/32cT1WQRSDg4xsReG7eqyT"
+        },
+        {
+          "name": "Harry Fraud",
+          "url": "https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S"
+        },
+        {
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+        },
+        {
+          "name": "Ransom",
+          "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
+        }
+      ],
+      "duration_ms": 171645,
+      "name": "Band of Brothers",
+      "url": "https://open.spotify.com/track/4UY8uzghtixlMhFR4JFqzF"
+    },
+    {
+      "added_at": "2022-11-11 05:44:31",
+      "album": {
+        "name": "Note To Self",
+        "url": "https://open.spotify.com/album/6cRRJmCi1WIvTSEBmrjj6j"
+      },
+      "artists": [
+        {
+          "name": "Katori Walker",
+          "url": "https://open.spotify.com/artist/2ODTjg0iTHX1QxBeRNI6nT"
+        }
+      ],
+      "duration_ms": 144519,
+      "name": "Note To Self",
+      "url": "https://open.spotify.com/track/3d7aL2Z4Ovrwei3wevMEIt"
+    },
+    {
+      "added_at": "2022-11-11 05:44:31",
+      "album": {
+        "name": "King's Disease III",
+        "url": "https://open.spotify.com/album/3vQuGKQJMfdXmkjRKqUesk"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "duration_ms": 172792,
+      "name": "Get Light",
+      "url": "https://open.spotify.com/track/3iuBfAec9qN2UylQv9NcKR"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Her Loss",
+        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 356389,
+      "name": "Middle of the Ocean",
+      "url": "https://open.spotify.com/track/410TZrK18uRjtsTunG14cl"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -103,26 +199,6 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Flag on the Play",
-        "url": "https://open.spotify.com/album/0S2t8ZaN7pKejn2oljIrGA"
-      },
-      "artists": [
-        {
-          "name": "Boldy James",
-          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
-        },
-        {
-          "name": "Futurewave",
-          "url": "https://open.spotify.com/artist/4i9PacC5mAjVi8DzWcpmxz"
-        }
-      ],
-      "duration_ms": 160392,
-      "name": "Flag on the Play",
-      "url": "https://open.spotify.com/track/5XbnkjcSa8TY535pP633fL"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
         "name": "The Forever Story (Extended Version)",
         "url": "https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g"
       },
@@ -151,6 +227,22 @@
       "duration_ms": 161735,
       "name": "On God",
       "url": "https://open.spotify.com/track/3YPC3cT4i21avYRS9GzJ87"
+    },
+    {
+      "added_at": "2022-11-11 05:44:31",
+      "album": {
+        "name": "King's Disease III",
+        "url": "https://open.spotify.com/album/3vQuGKQJMfdXmkjRKqUesk"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "duration_ms": 156972,
+      "name": "Ghetto Reporter",
+      "url": "https://open.spotify.com/track/0qHXyED9mnRk3DnXowUe6Y"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -851,122 +943,6 @@
       "duration_ms": 170373,
       "name": "Checkmate",
       "url": "https://open.spotify.com/track/3KYTIo9pu84SbLL53iGew4"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "KISS THE RING",
-        "url": "https://open.spotify.com/album/0JvoIKuIaMFmGeRUmHvvQg"
-      },
-      "artists": [
-        {
-          "name": "Rome Streetz",
-          "url": "https://open.spotify.com/artist/7c0zOr4ffb5eteXrxWt7oB"
-        },
-        {
-          "name": "Stove God Cooks",
-          "url": "https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv"
-        },
-        {
-          "name": "Benny The Butcher",
-          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
-        }
-      ],
-      "duration_ms": 243064,
-      "name": "Blow 4 Blow (feat. Stove God Cooks & Benny the Butcher)",
-      "url": "https://open.spotify.com/track/5s1VBegxNUWtFeUpOSOoqv"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Cheat Codes",
-        "url": "https://open.spotify.com/album/0rEbmIQjHTKzKraH4UqiDy"
-      },
-      "artists": [
-        {
-          "name": "Danger Mouse",
-          "url": "https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf"
-        },
-        {
-          "name": "Black Thought",
-          "url": "https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo"
-        },
-        {
-          "name": "MF DOOM",
-          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
-        }
-      ],
-      "duration_ms": 234333,
-      "name": "Belize (feat. MF DOOM)",
-      "url": "https://open.spotify.com/track/5Mi3Qt2bXMqXRG2vnmp4a0"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "DRILLMATIC Heart vs. Mind",
-        "url": "https://open.spotify.com/album/2yBfRM9cxHgHb155SdDoWl"
-      },
-      "artists": [
-        {
-          "name": "The Game",
-          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
-        },
-        {
-          "name": "Pusha T",
-          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
-        },
-        {
-          "name": "2 Chainz",
-          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
-        }
-      ],
-      "duration_ms": 249458,
-      "name": "No Man Falls (Feat. Pusha T & 2 Chainz)",
-      "url": "https://open.spotify.com/track/4BWbRimlDfSTUQkqMrkCem"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Problems (Cocaine in Milan Remix)",
-        "url": "https://open.spotify.com/album/3phpUg6bJSq30wqEkLsobg"
-      },
-      "artists": [
-        {
-          "name": "Conway the Machine",
-          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
-        },
-        {
-          "name": "Hus KingPin",
-          "url": "https://open.spotify.com/artist/4IBACd17ekILQx6xdtKxyI"
-        },
-        {
-          "name": "Manny Megz",
-          "url": "https://open.spotify.com/artist/2WidFQxqT78Fx2kF44gSzb"
-        }
-      ],
-      "duration_ms": 198412,
-      "name": "Problems - Cocaine in Milan Remix",
-      "url": "https://open.spotify.com/track/30TXzF3Gdw11hyF4MQqJ35"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "The Elephant Man's Bones",
-        "url": "https://open.spotify.com/album/3Kkrsa5dgEgl2fYyO51EEf"
-      },
-      "artists": [
-        {
-          "name": "Roc Marciano",
-          "url": "https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri"
-        },
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        }
-      ],
-      "duration_ms": 152693,
-      "name": "Liquid Coke",
-      "url": "https://open.spotify.com/track/0m2NRu7rrpu8yhZHMJMOdv"
     }
   ],
   "unique_name": "Mind Right",

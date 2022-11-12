@@ -2,9 +2,9 @@
 
 ### [Radar España](https://open.spotify.com/playlist/37i9dQZF1DX2KWq7Xwva8j)
 
-> Descubre hoy a los artistas de mañana\. Foto: Marmi
+> Descubre hoy a los artistas de mañana\. Foto: Camin
 
-147 songs - 7 hr 10 min - [published](https://open.spotify.com/playlist/0uaQZzCtnp7y3M4o0OYD28)
+148 songs - 7 hr 13 min - [published](https://open.spotify.com/playlist/0uaQZzCtnp7y3M4o0OYD28)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,10 +77,11 @@
 | [La Lluvia](https://open.spotify.com/track/5aM5QibidKdtMMB8YzGhtR) | [Yarea](https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl), [KICKBOMBO](https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh) | [La Lluvia](https://open.spotify.com/album/0WL9vGpQb9rw1coTXvz6o0) | 2:34 | 2022-02-24 | 2022-09-23 |
 | [la pestaña que soplé](https://open.spotify.com/track/6OABmkT3sMp0rDSsbMt9wT) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [la pestaña que soplé](https://open.spotify.com/album/6amoBQ1iiJHtrnjvwcKG7r) | 2:20 | 2022-07-28 |  |
 | [Lejos de Ti](https://open.spotify.com/track/41cjGl3GutC8CJD6iBV153) | [Cocco Lexa](https://open.spotify.com/artist/5WMoWNq8DuL9pob4qu7mau), [Los del Control](https://open.spotify.com/artist/3Nbij6lwrwz0XB7HubxdN2) | [Lejos de Ti](https://open.spotify.com/album/5p8mllIcbaH0YYtntJdYAV) | 3:26 | 2021-12-31 | 2022-01-28 |
+| [Leyla](https://open.spotify.com/track/6wBtiIDVUTQzukngZ0dNGq) | [Camin](https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY), [Pedro Calderon](https://open.spotify.com/artist/0yfhOzsYbBALSbWK4DjpCh) | [Leyla](https://open.spotify.com/album/1SmBBlgEby0mxo1DDGrT2J) | 2:31 | 2022-11-11 |  |
 | [limón y sal](https://open.spotify.com/track/34V5r1MyrcqpjCx97PI13x) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN), [Maria Blaya](https://open.spotify.com/artist/0Ln3BisQiL0t2w7bsmju75) | [limón y sal](https://open.spotify.com/album/4JN94nMRgfzhvdvJFTTIdh) | 3:26 | 2022-02-03 | 2022-07-15 |
 | [Lloraré por Ti](https://open.spotify.com/track/1fdRQRnVhW0To5a6dekPZr) | [Colectivo Da Silva](https://open.spotify.com/artist/7h2HIXXVcZ6UPkqlCa2QZY) | [Lloraré por Ti](https://open.spotify.com/album/79X7EqEj7YlMMZDJm6Ug5a) | 3:30 | 2021-12-31 | 2022-02-25 |
 | [loco x ti](https://open.spotify.com/track/4QrwmVAXlhQpNcKuzTXTXo) | [tommy 3 balas](https://open.spotify.com/artist/2toYLRPVyQ0VTBzja0WBBL) | [loco x ti](https://open.spotify.com/album/2kKVW6aAIkNelsKx10gwhW) | 2:27 | 2022-01-27 | 2022-06-07 |
-| [Los niños del parque](https://open.spotify.com/track/3sunz9cdyI0xZI5Om6dHO8) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR) | [Los Niños del Parque](https://open.spotify.com/album/6hkJjr8eUF53zDqxXcc4Lf) | 3:17 | 2022-03-17 |  |
+| [Los niños del parque](https://open.spotify.com/track/3sunz9cdyI0xZI5Om6dHO8) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR) | [Los Niños del Parque](https://open.spotify.com/album/6hkJjr8eUF53zDqxXcc4Lf) | 3:17 | 2022-03-17 | 2022-11-12 |
 | [Luna](https://open.spotify.com/track/1gMzbFyFW5ZDSVxGYbvY4T) | [Çantamarta](https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Luna](https://open.spotify.com/album/6ZHdi4JlCmpElsIvtWCXrm) | 2:53 | 2022-01-27 | 2022-06-07 |
 | [mala pinta](https://open.spotify.com/track/6Z2peGnKnV0HfDYDcmnTDH) | [Ana Nieto](https://open.spotify.com/artist/7qWNbGsqKxguxCzk3Q7ibn) | [mala pinta](https://open.spotify.com/album/0faycCgPgBxPx6Yf4KYYWc) | 3:02 | 2022-02-03 | 2022-07-15 |
 | [Malos Hábitos](https://open.spotify.com/track/0RifTE9442lVRpBz7NSzjL) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR) | [Malos Hábitos](https://open.spotify.com/album/19EWEllS3yQpo8CM5Cxuqr) | 3:12 | 2022-02-28 | 2022-10-28 |

@@ -174,6 +174,28 @@
     },
     {
       "album": {
+        "name": "\u00cddolos Del Pac\u00edfico",
+        "url": "https://open.spotify.com/album/1ppvqBwuMGiDYowXVae3QX"
+      },
+      "artists": [
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        },
+        {
+          "name": "Banda Brava",
+          "url": "https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172512,
+      "name": "Alma Enamorada",
+      "url": "https://open.spotify.com/track/6eZUQobBPCmJ98C5xpP4Qd"
+    },
+    {
+      "album": {
         "name": "Alma Enamorada",
         "url": "https://open.spotify.com/album/5zR6lVcijHUyA1l5NnUTxW"
       },
@@ -301,7 +323,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 178932,
       "name": "Bandido De Amores",
       "url": "https://open.spotify.com/track/2GWuXm5FRTGdYai9L5X5zV"
@@ -485,7 +507,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 166556,
       "name": "Cancion Mexicana",
       "url": "https://open.spotify.com/track/5vG5yOxyMHnWDR4Aj1wDg1"
@@ -813,6 +835,24 @@
       "duration_ms": 202160,
       "name": "Cuatro Milpas",
       "url": "https://open.spotify.com/track/20JdUWHwjdTzPRVbZdwWHI"
+    },
+    {
+      "album": {
+        "name": "Rancheras Con Sentimiento",
+        "url": "https://open.spotify.com/album/7DpZO4gbLPjDloVzQIsUmY"
+      },
+      "artists": [
+        {
+          "name": "Lola Beltr\u00e1n",
+          "url": "https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230478,
+      "name": "Cucurrucucu Paloma",
+      "url": "https://open.spotify.com/track/6yWiq9v0NT5fLscGJgFEe2"
     },
     {
       "album": {
@@ -1421,7 +1461,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 162272,
       "name": "Gaviota Traidora",
       "url": "https://open.spotify.com/track/65DppNriLfxOOM5eCSaKm3"
@@ -2026,6 +2066,24 @@
     },
     {
       "album": {
+        "name": "Despecho y Licor",
+        "url": "https://open.spotify.com/album/4jN7mxIJWGV8mh4Etv7hBx"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234666,
+      "name": "Mi Enemigo El Amor",
+      "url": "https://open.spotify.com/track/0RamYKFsyfiVjV8S5e5x2n"
+    },
+    {
+      "album": {
         "name": "El Vagabundo Que Te Ama",
         "url": "https://open.spotify.com/album/4aHIYnbJXldkqugU3YpRSs"
       },
@@ -2235,10 +2293,28 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 183373,
       "name": "No Hay Novedad",
       "url": "https://open.spotify.com/track/5LhkCuUvJeMj308m4vlB8z"
+    },
+    {
+      "album": {
+        "name": "Boleros Para Dos",
+        "url": "https://open.spotify.com/album/2HtqY9Fu6O0r4LKRmUzUSb"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183419,
+      "name": "No Hay Novedad",
+      "url": "https://open.spotify.com/track/0DMgHHCKdn8bDadZiudTK9"
     },
     {
       "album": {
@@ -2307,7 +2383,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 140320,
       "name": "No Sigas Llorando (No Te Dejar\u00e9)",
       "url": "https://open.spotify.com/track/03eGYnS6jOLPJKSFJZIssC"
@@ -2455,6 +2531,24 @@
       "duration_ms": 173733,
       "name": "Ojitos So\u00f1adores",
       "url": "https://open.spotify.com/track/4TKhqpIcNgB4pgZg8T3dIn"
+    },
+    {
+      "album": {
+        "name": "Canciones de Amor y Despecho (Vol. 7)",
+        "url": "https://open.spotify.com/album/6K2ji5An5AFWKSps1WvMIM"
+      },
+      "artists": [
+        {
+          "name": "Dueto Las Palomas",
+          "url": "https://open.spotify.com/artist/3aw6AZo6qz9YtuU9ST824E"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146167,
+      "name": "Ojitos Verdes",
+      "url": "https://open.spotify.com/track/7k78sdzKOu3P5UhmFqrWQg"
     },
     {
       "album": {
@@ -2710,6 +2804,24 @@
     },
     {
       "album": {
+        "name": "Brindis y Despecho",
+        "url": "https://open.spotify.com/album/6jAGg6SaphVUEBfqAxUirX"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263133,
+      "name": "Por Mujeres Como T\u00fa",
+      "url": "https://open.spotify.com/track/2abmlTDvTPuGIGYOHQVqPj"
+    },
+    {
+      "album": {
         "name": "Por Mujeres Como T\u00fa",
         "url": "https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL"
       },
@@ -2721,7 +2833,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 263133,
       "name": "Por Mujeres Como T\u00fa",
       "url": "https://open.spotify.com/track/4Zd6gElrsmSyVomurxAPOD"
@@ -3147,6 +3259,24 @@
       "duration_ms": 176453,
       "name": "Seis Pies Abajo",
       "url": "https://open.spotify.com/track/6oiKbZIaQ8A0Rnsq9jMJ1E"
+    },
+    {
+      "album": {
+        "name": "Ojos Verdes",
+        "url": "https://open.spotify.com/album/7I7vlUn0tLotod826zPFF6"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167514,
+      "name": "Sentimental",
+      "url": "https://open.spotify.com/track/1dHAzT7wMXTpJU1Yo0IpaE"
     },
     {
       "album": {
@@ -3676,6 +3806,24 @@
     },
     {
       "album": {
+        "name": "Una Lagrima y un Recuerdo",
+        "url": "https://open.spotify.com/album/4sVexY8ZoDmnqZEDo2yVl3"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167933,
+      "name": "Una Lagrima y un Recuerdo",
+      "url": "https://open.spotify.com/track/1MeNluJL3QMoCuyaMUIpww"
+    },
+    {
+      "album": {
         "name": "15 Boleros de Oro",
         "url": "https://open.spotify.com/album/37ftvMPjA81bYds5F0NKZs"
       },
@@ -3705,7 +3853,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 169769,
       "name": "Una Lagrima y Un Recuerdo",
       "url": "https://open.spotify.com/track/32wLxgQY6227VTkhZQaBor"
@@ -3903,7 +4051,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 183440,
       "name": "Ya No Me Interesas",
       "url": "https://open.spotify.com/track/2JuiXI8zNZlb6Zzo9MNzU9"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24HW7kIIcEV.md) - [plain]
 
 > Joining the formal campaign to get the Lizzie McGuire reboot back in production.
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,915 likes - 85 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,380 likes - 85 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,11 +54,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24HW7kIIcEV.md) - [plain]
 | 44 | [She's So Gone](https://open.spotify.com/track/4DTrKnvkHtwQN6kBu4XXIF) | [Naomi Scott](https://open.spotify.com/artist/2Zi3RrdQqk63Xj0914STkS) | [Lemonade Mouth](https://open.spotify.com/album/6Vsml6sziVKBHxbMEp5wgQ) | 3:06 |
 | 45 | [Not A Love Song](https://open.spotify.com/track/1UtGcsbiqHtzxaTe3OgvlG) | [Austin Moon](https://open.spotify.com/artist/1eBGyqw9kLsidL0q2dimWF) | [Austin & Ally](https://open.spotify.com/album/5YQqNHp9aG12LrEX978LQC) | 3:02 |
 | 46 | [So Yesterday](https://open.spotify.com/track/0J1Wfjo9H3R62yaCuuNDZX) | [Hilary Duff](https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h) | [Metamorphosis](https://open.spotify.com/album/2zfZe8P8jg53kZaAfCdBYs) | 3:35 |
-| 47 | [Something To Dance For](https://open.spotify.com/track/0WcBvAA59kSYFHeqy0fpZp) | [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Something to Dance For \(From "Shake It Up: Live 2 Dance"\)](https://open.spotify.com/album/3fNsftRp4lSqwXgjx9p8le) | 2:43 |
+| 47 | [Something To Dance For](https://open.spotify.com/track/0kXIEwmKV4cpKdRdIeQLGd) | [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Shake It Up: Live 2 Dance \(Deluxe Edition\)](https://open.spotify.com/album/0zTloBURpitcYURtJLVBct) | 2:42 |
 | 48 | [Don't Forget](https://open.spotify.com/track/4He7bzKBaiu7CRz4wGkZzx) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Don't Forget](https://open.spotify.com/album/0X4XyC6gwsBtEO2iJlSJgw) | 3:43 |
 | 49 | [L.A\. Boyz](https://open.spotify.com/track/2cOpRVjsE4qZLZbFOB47VJ) | [Victorious Cast](https://open.spotify.com/artist/1KYszkVzlhV3rAqmAcYIgd), [Victoria Justice](https://open.spotify.com/artist/2OTfr6S2kuHRYStjt1IkY6), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Victorious 3.0: Even More Music From The Hit TV Show](https://open.spotify.com/album/2QSiC5LBtodAE8M5Fk02ja) | 2:59 |
 | 50 | [One and the Same \- From "Princess Protection Program"](https://open.spotify.com/track/1QkJBQnCv81ef7gyWMDL3Q) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Disney Channel Playlist](https://open.spotify.com/album/3f4bhDIvXL4xOnM4elWNmK) | 3:00 |
-| 51 | [Party In The U.S.A.](https://open.spotify.com/track/5Q0Nhxo0l2bP3pNjpGJwV1) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [The Time Of Our Lives](https://open.spotify.com/album/64aKkqxc3Ur2LYIKeS5osS) | 3:22 |
+| 51 | [Party in the U.S.A.](https://open.spotify.com/track/65FLvpwtcMn2PHVOMcGNoG) | [Chelsea Heart](https://open.spotify.com/artist/2o3YvwaLj1ZcVAp0wYQKxL) | [4th July Bbq Grill Party Mix](https://open.spotify.com/album/7cNleXCYpNr2GhTBAy37Xz) | 3:24 |
 | 52 | [S.O.S.](https://open.spotify.com/track/7tidSoiTUdW8y8HZTHP3zV) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [The Biggest Dance Trends](https://open.spotify.com/album/3o5O0QFbO4Gw295m5LFJds) | 2:33 |
 | 53 | [Bet On It](https://open.spotify.com/track/4EnwhEyuVrC1CgvSur5YL4) | [Troy](https://open.spotify.com/artist/6zTbBugfNc95zo8ClFDhIn), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [High School Musical 2 \(Original Soundtrack\)](https://open.spotify.com/album/04Xde0FJSo4LVQ1GE36t49) | 3:18 |
 | 54 | [The Best of Both Worlds \- From "Hannah Montana"/Soundtrack Version](https://open.spotify.com/track/6Z0F3Mqj7tq1CBZo5qMlUg) | [Hannah Montana](https://open.spotify.com/artist/7nU4hB040gTmHm45YYMvqc) | [Hannah Montana](https://open.spotify.com/album/0TyDqWrWHzuyFjjnKqDClu) | 2:54 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24HW7kIIcEV.md) - [plain]
 | 84 | [Jump To The Rhythm](https://open.spotify.com/track/4QFbZ1cSkL718J6A8cMJdA) | [Jordan Pruitt](https://open.spotify.com/artist/1JfkqBTXs6VC3JZ7RJNu7h) | [No Ordinary Girl](https://open.spotify.com/album/3ZN6vRXDZhoYf9Zdc5ubpE) | 3:47 |
 | 85 | [Make You Believe](https://open.spotify.com/track/6IvOCyrwW7VuCjQFCD7h7r) | [Lucy Hale](https://open.spotify.com/artist/4gWAItIMhYCdD82T8tvv3T) | [A Cinderella Story: Once Upon A Song \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5fDujJMK88H9vZYRjVb2Bz) | 3:31 |
 
-Snapshot ID: `MTY2MjgzOTgxNSwwMDAwMDAwMGU5YmQ0MmQzODc2NmZmZTMyN2Y5MmEwNTAwMzhiOWU2`
+Snapshot ID: `MTY2MjgzOTgxNSwwMDAwMDAwMGY4NTBjODJmMDZmMjEyMGUwNDYxNzI3NGY5NjNjNDQ1`

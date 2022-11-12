@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZbHJkHSDOTR.md) - [plain]
 
 > Our editorial picks for R&B’s best of 2021 in Canada\. Cover: The Weeknd
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,547 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,552 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZbHJkHSDOTR.md) - [plain]
 | 3 | [No Love \(with SZA\)](https://open.spotify.com/track/08SB2OtZkaliju77WYEKxk) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Still Over It](https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx) | 3:51 |
 | 4 | [On It](https://open.spotify.com/track/4Xr6BbSSu5HhImp8vfxMbg) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Heaux Tales](https://open.spotify.com/album/5g9YhHW8tE7Tcslgxsk5u9) | 3:25 |
 | 5 | [24hrs](https://open.spotify.com/track/23S3Ec0TsHifidDXWL0hzR) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [24hrs](https://open.spotify.com/album/4h3Eyvv9Bu4L9seooUcdiz) | 3:22 |
-| 6 | [Leave The Door Open](https://open.spotify.com/track/02VBYrHfVwfEWXk5DXyf0T) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) | 4:02 |
+| 6 | [Leave the Door Open](https://open.spotify.com/track/1WQkIkrkEc0mydf6SVULgH) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Totally Romantic Ballads](https://open.spotify.com/album/3zeuHqBj3w0Hd4MPgUGCqi) | 4:02 |
 | 7 | [In The Bible \(with Lil Durk & Giveon\)](https://open.spotify.com/track/61S79KIVA4I9FXbnsylEHT) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 4:56 |
 | 8 | [I Believed It \(feat\. Mac Miller\)](https://open.spotify.com/track/0BKuCr5M2nggLQnUjllayK) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Cheers to the Best Memories](https://open.spotify.com/album/1WNwlBvoohUFZcJt3uLrd4) | 4:06 |
 | 9 | [Up From The Ashes](https://open.spotify.com/track/6MTtOV150uwitRZz4anI2h) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda \(Deluxe\)](https://open.spotify.com/album/2Wiyo7LzdeBCsVZiRA6vVZ) | 2:42 |
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZbHJkHSDOTR.md) - [plain]
 | 86 | [Stacy](https://open.spotify.com/track/3nixPfJdbVsPP3uNcHTLAp) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [Lost In You](https://open.spotify.com/album/23kfRYglxsFBBSNQ0uEZOt) | 2:24 |
 | 87 | [Coastin’](https://open.spotify.com/track/1IjeGPU5hqHlJpm00zObN7) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Coastin’](https://open.spotify.com/album/6PVTVZo9iYmpcQucpIN9Kr) | 2:55 |
 | 88 | [Nova](https://open.spotify.com/track/0n1JxQTqtzezc6y6sDLzuT) | [Justin Nozuka](https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t) | [Nova](https://open.spotify.com/album/1fTBfblP2agHA345cRJmX6) | 3:25 |
-| 89 | [altar](https://open.spotify.com/track/1DVgSm1FpFBT8usWhnC5vF) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [blue water road](https://open.spotify.com/album/1fZRXWVJVe07UcD4GowJ8j) | 4:04 |
+| 89 | [Altar](https://open.spotify.com/track/0m0axAMEyWEvzezaLwrLVE) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Twenties Playlist](https://open.spotify.com/album/5fQEyU8UFm6oPfFqhqGODI) | 4:03 |
 | 90 | [Worst \(I Assume\)](https://open.spotify.com/track/6LUHCk4qqqupsz0yF48Opr) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [Worst \(I Assume\)](https://open.spotify.com/album/0bHH4umiElJUvPIvqrQVfA) | 3:07 |
 | 91 | [All I Know](https://open.spotify.com/track/6lVzAJftbOM5Mnd3jw3otO) | [anders](https://open.spotify.com/artist/6G1yTgvoYsuVb2Ja8cVVJ2) | [Honest](https://open.spotify.com/album/4KDGs6PnBOFXBrRJ2y0yMe) | 2:30 |
 | 92 | [Red Lights \(feat\. Wale\)](https://open.spotify.com/track/2A9l1TsM78JQqQMYqAQEZe) | [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Constellations](https://open.spotify.com/album/0X4X4hGytNt85z9zZQW8F9) | 3:39 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZbHJkHSDOTR.md) - [plain]
 | 99 | [On One](https://open.spotify.com/track/0evKTZ9MpgVcCd5TBvmeD6) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [On One](https://open.spotify.com/album/3cxYmtH9abCdqR0XkkGW16) | 3:25 |
 | 100 | [Sugar](https://open.spotify.com/track/5XGTYltLDKyl7MW3MzydnL) | [Notifi](https://open.spotify.com/artist/4d0LzyckWWWn04Jt8amiLY), [Sara Kashani](https://open.spotify.com/artist/6hTX1Ms0YCaadCMGF0ZJeJ) | [Sugar](https://open.spotify.com/album/2sf79K9Sr8UC3FYoAwkmys) | 3:33 |
 
-Snapshot ID: `MTY0MDIxNzYxNCwwMDAwMDAwMDI4ZjBiMzMzMTQ1ZDAzOGZiMTMwMTBlYTc2YjY1NDQ1`
+Snapshot ID: `MTY0MDIxNzYxNCwwMDAwMDAwMDA4ZDg0NmU3OTUxZGE3YjhiOWRiNDlmYjJiZGMxMDky`

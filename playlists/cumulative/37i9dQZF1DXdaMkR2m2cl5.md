@@ -4,7 +4,7 @@
 
 > Soft, smoky undertones of singer\-songwriter sounds give way to lingering notes of rich, earthy chamber folk\. Cover: Glen Hansard.
 
-226 songs - 14 hr 11 min - [published](https://open.spotify.com/playlist/2Hethr1BcIJ6J3upAu0u4u)
+228 songs - 14 hr 18 min - [published](https://open.spotify.com/playlist/2Hethr1BcIJ6J3upAu0u4u)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Beautiful](https://open.spotify.com/track/2PrKpiABSB2urRv8ufrN6F) | [Rosemary & Garlic](https://open.spotify.com/artist/7MZvYitgCWAOaKjxdm2S17) | [Beautiful](https://open.spotify.com/album/1NtSOubl1XIxofKxY90fX3) | 3:14 | 2020-11-25 | 2022-07-21 |
 | [Beautiful](https://open.spotify.com/track/7ywlrwAu4bmxRmHlSK454v) | [Rosemary & Garlic](https://open.spotify.com/artist/7MZvYitgCWAOaKjxdm2S17) | [Beautiful](https://open.spotify.com/album/2NGTqvtRN7EqnlSKWkjjVn) | 3:14 | 2020-11-25 |  |
 | [Berlin](https://open.spotify.com/track/1dgCF73ruK4qTXrx0TZ0j7) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [Berlin](https://open.spotify.com/album/5AFR0ia3oPGsmYNK6fxZNu) | 3:39 | 2020-11-25 | 2022-07-29 |
-| [Berlin](https://open.spotify.com/track/7tbR2WSnuTUOGgkUQiAupD) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [BREACH](https://open.spotify.com/album/0KsNopmZLaB71o6i2nw95I) | 3:39 | 2020-11-25 |  |
+| [Berlin](https://open.spotify.com/track/7tbR2WSnuTUOGgkUQiAupD) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [BREACH](https://open.spotify.com/album/0KsNopmZLaB71o6i2nw95I) | 3:39 | 2020-11-25 | 2022-11-12 |
 | [Beyond](https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 4:00 | 2020-11-25 |  |
 | [Bones](https://open.spotify.com/track/6GpR9XtEpuKWMA3onpPkOP) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [Bones](https://open.spotify.com/album/4FkVOW9SXcaVtok2YecpkU) | 3:50 | 2020-11-25 |  |
 | [Boys](https://open.spotify.com/track/39kdh33tGQuSINsUasOl8v) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [Boys](https://open.spotify.com/album/1VmSyB9w03QNYxa1UXndVm) | 3:55 | 2020-11-25 | 2022-07-28 |
@@ -121,7 +121,7 @@
 | [Little Bit Sweet](https://open.spotify.com/track/3xsgF2bDlvb10Dy1VA7rXE) | [The Wood Brothers](https://open.spotify.com/artist/6FxuPrpa8phaP3Xn73emhT) | [Little Bit Sweet](https://open.spotify.com/album/6w5n5ZIDw2AvPuNByudKMf) | 3:48 | 2020-11-25 | 2022-07-29 |
 | [Long Blue Light](https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Long Blue Light](https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei) | 3:20 | 2020-11-25 |  |
 | [Losing Battles \- Acoustic](https://open.spotify.com/track/4vSkrhpwJ6krXg1oaZAaz9) | [Josh Ritter](https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo), [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [Losing Battles \(Acoustic\)](https://open.spotify.com/album/62i2sayoTnaamWkZjgtdyY) | 5:08 | 2020-11-25 | 2022-07-28 |
-| [Losing You](https://open.spotify.com/track/6tPrmeifTXshblYA7ahTUA) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [This Is Really Going To Hurt](https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0) | 3:18 | 2020-11-25 |  |
+| [Losing You](https://open.spotify.com/track/6tPrmeifTXshblYA7ahTUA) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [This Is Really Going To Hurt](https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0) | 3:18 | 2020-11-25 | 2022-11-12 |
 | [Losing You](https://open.spotify.com/track/3ASaECH1ebS3BKpizNHk35) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [Losing You](https://open.spotify.com/album/4eekFhEz7Ifb3KpTKkjxBa) | 3:26 | 2020-11-25 | 2022-07-29 |
 | [Love Gone Wrong](https://open.spotify.com/track/66tPKJsQrztXP44JJitoOZ) | [Lula Wiles](https://open.spotify.com/artist/71gZrMk44x3W6NGg5OUJHY) | [Love Gone Wrong / Good Old American Values](https://open.spotify.com/album/4LLB4ANOB7t51Kv3EJWx5b) | 3:56 | 2020-11-25 | 2022-07-25 |
 | [Lucky for You](https://open.spotify.com/track/19jTCAxeVnkwKnWHSsdg0i) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi), [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [No Fun / Lucky for You](https://open.spotify.com/album/7DVkaDX0Y47rRsJqgvHjyh) | 2:16 | 2020-11-25 |  |
@@ -202,6 +202,7 @@
 | [This Sweet Love](https://open.spotify.com/track/1aPIOiggxmM2pjDBky1HIo) | [James Yuill](https://open.spotify.com/artist/0jypmaLN034G9UkeQdqsps) | [Turning Down Water For Air](https://open.spotify.com/album/7kpw1eWU9vr1K6BnFXKJ3r) | 3:43 | 2020-11-25 |  |
 | [Thousand \(feat\. Lisa Hannigan\)](https://open.spotify.com/track/2QlPMIhutG3WHV26Eza8u9) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9), [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [Bare](https://open.spotify.com/album/11uRisUr2dNqeKIn8dhB3Z) | 3:26 | 2020-11-25 |  |
 | [Thousand \- Acoustic](https://open.spotify.com/track/0NSqOUjf55rgVEqN7e9fhb) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9), [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [Thousand \(acoustic\)](https://open.spotify.com/album/2Xi1N0ITpSzirX15uhBFpI) | 3:22 | 2020-11-25 |  |
+| [Three Oh Nine](https://open.spotify.com/track/3VZuWLaacuE4Qis1ln8b1J) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [On Hold](https://open.spotify.com/album/1uvisLwZwDzXoMhbk9POzZ) | 3:32 | 2020-11-25 |  |
 | [Three Oh Nine](https://open.spotify.com/track/1JNeOgkS06nCH3wvFQePOH) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [Three Oh Nine](https://open.spotify.com/album/7rEzHNDgxYsPWO8DaK8RQs) | 3:32 | 2020-11-25 | 2022-06-18 |
 | [Time After Time](https://open.spotify.com/track/5JEM7lT9uSyhUsKFXwGfSm) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Time After Time](https://open.spotify.com/album/5NovnTHEYZjadICACf4yPo) | 2:50 | 2020-11-25 |  |
 | [Time After Time](https://open.spotify.com/track/5kOBEsqVNwi4udPRbagNIV) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Time After Time](https://open.spotify.com/album/1jqSjDD9xDV8QYWyRW0U6q) | 2:50 | 2020-11-25 | 2022-07-29 |
@@ -226,6 +227,7 @@
 | [Whiskey Whiskey](https://open.spotify.com/track/0c1rlIZao3TFvRWKBig16H) | [Joshua Burnside](https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV) | [Into the Depths of Hell](https://open.spotify.com/album/7BMZsEBUvcUTxTjnhXbl9c) | 2:51 | 2020-11-25 |  |
 | [White Bird](https://open.spotify.com/track/7n0oyohwoDeRqD5ktNGBQr) | [Matthew And The Atlas](https://open.spotify.com/artist/0lSENl3bteP8p2NbiSP7RM) | [White Bird](https://open.spotify.com/album/4zHrB2f7c1S9CuEJnz8woA) | 3:24 | 2020-11-25 | 2022-07-29 |
 | [Why Woman](https://open.spotify.com/track/7Kjh6A5voYQ1rFFnYEbYq6) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [Between Two Shores](https://open.spotify.com/album/3tjUgeVvMqN457eeVeunb0) | 3:03 | 2020-11-25 |  |
+| [Wild Blue Wind](https://open.spotify.com/track/4B5KrJ7KVVIH6xCGPrZxd5) | [Erin Rae](https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6) | [Putting On Airs](https://open.spotify.com/album/5y03U2xxe0NBrI5KSr2jGK) | 3:28 | 2020-11-25 |  |
 | [Wild Blue Wind](https://open.spotify.com/track/5rW24MHtNOhKl8C08fmqDs) | [Erin Rae](https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6) | [Putting on Airs](https://open.spotify.com/album/1LK9gWKqJTOSPE0sHYPVBJ) | 3:28 | 2020-11-25 | 2022-07-29 |
 | [Wildwood Flower](https://open.spotify.com/track/6Hw1VP98PW5QMcOGOWw1Xo) | [Andrea von Kampen](https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY) | [Wildwood Flower](https://open.spotify.com/album/7aMiIpr39dyEbykG95vGDo) | 2:31 | 2020-11-25 | 2022-07-29 |
 | [Wonder](https://open.spotify.com/track/5CFTXIziYkuV7V9zf0GRLx) | [Jamie Drake](https://open.spotify.com/artist/7rvB7ONJSqlmaCrcbhelir) | [Wonder](https://open.spotify.com/album/2a8lQTZXJhE4P2Jhh6Sqvk) | 2:07 | 2020-11-25 | 2022-07-29 |

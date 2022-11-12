@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXawR86Jfwxln.md) - [plain]
 
 > Revisit the year in Folk & Americana with the best songs released in 2021\. Cover: Brandi Carlile
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,432 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,430 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXawR86Jfwxln.md) - [plain]
 | 15 | [Sapling](https://open.spotify.com/track/6E40D1iwXILbSs8GNSs5Bh) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Signs of Life](https://open.spotify.com/album/4MOkPB90s3AsnbjNmGJ5x2) | 4:17 |
 | 16 | [CRY](https://open.spotify.com/track/4fwCa8XejynU81AhXovR9r) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [WE ARE](https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE) | 3:57 |
 | 17 | [Hypotheticals](https://open.spotify.com/track/5lE2EFXt4muvLFMGQg4hZN) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Obviously](https://open.spotify.com/album/2Zi7uv234eNZJfLPGUIkSD) | 3:50 |
-| 18 | [BRIGHTSIDE](https://open.spotify.com/track/55yQgka1wuEeSmrpW8NeG2) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [BRIGHTSIDE](https://open.spotify.com/album/3K8XmeN3jQvl6reRJcfakL) | 3:49 |
+| 18 | [BRIGHTSIDE](https://open.spotify.com/track/1TX0ImiGMYiikRash29a2b) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [BRIGHTSIDE](https://open.spotify.com/album/35oJ7lIOHpQtRxr4QiCK5j) | 3:49 |
 | 19 | [Diamond Studded Shoes](https://open.spotify.com/track/5SfM1f729pv1DdiEcyDiex) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Stand For Myself](https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV) | 3:24 |
 | 20 | [New Star](https://open.spotify.com/track/5XCySQu79sw9DDCuAjdn2R) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Watchhouse](https://open.spotify.com/album/2ZURBTlzCG2WCMuEwvRBaK) | 3:05 |
 | 21 | [Fire Line](https://open.spotify.com/track/53DleDiH6Vaj0Vx8Opp6Kc) | [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Fire Line](https://open.spotify.com/album/0BdclIcrznTE1jZPb8BbT4) | 4:34 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXawR86Jfwxln.md) - [plain]
 | 99 | [The Man Who Sees Tomorrow](https://open.spotify.com/track/3tML0isKJJ3DJUQKcm3L0e) | [Uwade](https://open.spotify.com/artist/57qPRqUfnRY0KJtO5lrjWL) | [The Man Who Sees Tomorrow / Lodarore](https://open.spotify.com/album/6wEU7UQkhZSuLZLdVt2ypQ) | 3:31 |
 | 100 | [Morning Prayer](https://open.spotify.com/track/3pbigw15hLWzmaHruO6Ac5) | [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy) | [Strawberry Mansion](https://open.spotify.com/album/36IMFWSc4Xvq5P49sWOgWn) | 3:02 |
 
-Snapshot ID: `MTY0NzM1NjAzNywwMDAwMDAwMGJmNmU1OTdjMThiNjZkNGIxMjc5NzMyZjZlOTYzZWFi`
+Snapshot ID: `MTY0NzM1NjAzNywwMDAwMDAwMDAyOGQ0MTE2OGJmZjEyY2IzZmY3MmE2MjZhMDQyMzhm`

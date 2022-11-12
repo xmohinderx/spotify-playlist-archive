@@ -4,7 +4,7 @@
 
 > Classic soft rock for a nice and easy drive.
 
-84 songs - 5 hr 40 min - [published](https://open.spotify.com/playlist/3OchtZtRRSTJjBGa1WgVzc)
+85 songs - 5 hr 46 min - [published](https://open.spotify.com/playlist/3OchtZtRRSTJjBGa1WgVzc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Burn Down The Mission](https://open.spotify.com/track/3ggTCH9i9dJ0sRdAxFGzcr) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Tumbleweed Connection](https://open.spotify.com/album/03zfU3IwWmymKoaWnwFNaY) | 6:22 | 2020-01-07 |  |
 | [Chevy Van](https://open.spotify.com/track/31S6oGx81hVIjWz6cu5oNw) | [Sammy Johns](https://open.spotify.com/artist/5L2UqkzpfZD5OpdA6fSfVH) | [Sammy Johns](https://open.spotify.com/album/2hIJCiimrkUy3RMeIIF89Z) | 2:59 | 2020-01-07 |  |
 | [Dance with Me](https://open.spotify.com/track/2GORop0i2cyx8C0A3JzL44) | [Orleans](https://open.spotify.com/artist/1667U2YoucgG5Pdvm2M59c) | [Dance With Me: The Best Of Orleans](https://open.spotify.com/album/43inWGDznUuVwJoIX0jKtl) | 3:00 | 2020-01-07 |  |
+| [Do It Again](https://open.spotify.com/track/7wP7USocbL8sX4o0DvqS1J) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Happy Classics](https://open.spotify.com/album/2cnDTz7eNou1DKvA5bEY35) | 5:54 | 2020-01-07 |  |
 | [Do It Again](https://open.spotify.com/track/2BstRQGodshjGpeDGQiNgo) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Can't Buy A Thrill](https://open.spotify.com/album/4Gh6pRaXqXTtJx4plAJbBw) | 5:56 | 2020-01-07 | 2022-11-09 |
 | [Escape \(The Pina Colada Song\)](https://open.spotify.com/track/5IMtdHjJ1OtkxbGe4zfUxQ) | [Rupert Holmes](https://open.spotify.com/artist/0TqIPD4IS1w4e30R38B3vj) | [Partners In Crime](https://open.spotify.com/album/163iYwl7Kdm9ayTnD4VyfN) | 4:36 | 2020-01-07 |  |
 | [Eye In The Sky](https://open.spotify.com/track/39qYD4J4BKvZMQgxfXl5bv) | [The Alan Parsons Project](https://open.spotify.com/artist/2m62cc253Xvd9qYQ8d2X3d) | [Eye In The Sky \(Expanded Edition\)](https://open.spotify.com/album/4BGd9BmpePqeSfHLeYiCDr) | 4:36 | 2020-01-07 |  |
@@ -73,7 +74,7 @@
 | [Shannon](https://open.spotify.com/track/4IYoyOVK9oQyJS1QZt5Vyj) | [Henry Gross](https://open.spotify.com/artist/3u2E9OhKS2vkxi08itc25a) | [Release](https://open.spotify.com/album/5KoWyVRECXH3IYrGuF4oza) | 3:53 | 2020-01-07 |  |
 | [Sharing The Night Together](https://open.spotify.com/track/4M0m4FUdc4wD2guhUHogLF) | [Dr\. Hook](https://open.spotify.com/artist/2Mhi3jfuRSdbVZPdjqsnnN) | [Pleasure & Pain](https://open.spotify.com/album/35XG1sovYmuWPpYCJsEX6F) | 2:54 | 2020-01-07 |  |
 | [She's Always a Woman](https://open.spotify.com/track/5RgFlk1fcClZd0Y4SGYhqH) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Stranger \(Legacy Edition\)](https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6) | 3:21 | 2020-01-07 |  |
-| [Shower the People \- 2019 Remaster](https://open.spotify.com/track/1Pwcxq35Hl2kqwUVd5XCRg) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [In the Pocket \(2019 Remaster\)](https://open.spotify.com/album/45fMwpxS1ZOMqNt8Rq5pxP) | 4:33 | 2020-01-07 |  |
+| [Shower the People \- 2019 Remaster](https://open.spotify.com/track/1Pwcxq35Hl2kqwUVd5XCRg) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [In the Pocket \(2019 Remaster\)](https://open.spotify.com/album/45fMwpxS1ZOMqNt8Rq5pxP) | 4:33 | 2020-01-07 | 2022-11-12 |
 | [Smoke from a Distant Fire](https://open.spotify.com/track/62obgbkuUt75nDIiIcLI4T) | [Sanford Townsend Band](https://open.spotify.com/artist/2PblGVYNdrem5ODxxMNhr0) | [Smoke From A Distant Fire](https://open.spotify.com/album/6vUFJM8PgHDhmzTyAzN2PX) | 3:33 | 2022-06-29 |  |
 | [So Into You](https://open.spotify.com/track/3Sm5TYFgMXyXwgAcY2xweX) | [Atlanta Rhythm Section](https://open.spotify.com/artist/0WgyCbru4tXnMsbTmX4mFw) | [A Rock And Roll Alternative](https://open.spotify.com/album/5vC0MxBXL4i9iowdXSx4yO) | 4:20 | 2020-01-07 |  |
 | [Somebody's Watching You](https://open.spotify.com/track/6xTCqwREMciIQl8PB3JGT8) | [The Jack Moves](https://open.spotify.com/artist/6QR60hk0TiNHphDexqZ6Pp) | [Seabra](https://open.spotify.com/album/3H7gm0dHWQ4CwHWItkQqIe) | 3:34 | 2022-03-29 |  |

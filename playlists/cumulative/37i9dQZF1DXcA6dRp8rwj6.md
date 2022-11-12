@@ -4,7 +4,7 @@
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Nas\)
 
-828 songs - 1 day 18 hr 22 min - [published](https://open.spotify.com/playlist/5iCL6Bkh9tey5devRFvQcq)
+829 songs - 1 day 18 hr 25 min - [published](https://open.spotify.com/playlist/5iCL6Bkh9tey5devRFvQcq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -448,6 +448,7 @@
 | [Mercury \(feat\. ØZI\)](https://open.spotify.com/track/3uxThTbkNafNIFS8nIDlfM) | [ShiGGa Shay](https://open.spotify.com/artist/3vYlOrtxEjNzvUPhacOdoV), [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD) | [I AM U](https://open.spotify.com/album/52cZAcrw0TQpiQSMlW8Bfq) | 2:22 | 2022-04-21 | 2022-05-27 |
 | [mess](https://open.spotify.com/track/2bLmwcjOAGJnJogZoILY4M) | [L8er](https://open.spotify.com/artist/1HT3Z1VACtoCr585fA3SDV), [Jeffu](https://open.spotify.com/artist/4d465C7Ot3kUlV7UuLx2Sq), [Jeff Shadows](https://open.spotify.com/artist/7zLmMFaagkxhVrJISI5Ata) | [mess](https://open.spotify.com/album/3KEfOHbENV6UMUmAppNHq3) | 1:47 | 2022-03-24 | 2022-09-25 |
 | [mess](https://open.spotify.com/track/3ypx8jwG7bkMJCCgRLQSav) | [L8er](https://open.spotify.com/artist/1HT3Z1VACtoCr585fA3SDV), [Jeffu](https://open.spotify.com/artist/4d465C7Ot3kUlV7UuLx2Sq), [Jeff Shadows](https://open.spotify.com/artist/7zLmMFaagkxhVrJISI5Ata) | [mess](https://open.spotify.com/album/3YO79TL9tpbrOIJKFtk6Y2) | 1:47 | 2022-09-23 | 2022-10-28 |
+| [Michael & Quincy](https://open.spotify.com/track/5MfCvL6jCTkxPCBQf3OkYH) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [King's Disease III](https://open.spotify.com/album/3vQuGKQJMfdXmkjRKqUesk) | 2:47 | 2022-11-10 |  |
 | [Million Dollars Worth of Game \(feat\. 42 Dugg\)](https://open.spotify.com/track/3IZWCcD1FYpyeY3ki2VUmL) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [Million Dollars Worth of Game \(feat\. 42 Dugg\)](https://open.spotify.com/album/0eIUsIe0Bo1gH7gld8lFbg) | 2:39 | 2022-01-20 | 2022-02-11 |
 | [MIND OVER MATTER](https://open.spotify.com/track/7vAjjkBloUtj1zhyt5bfzK) | [Diverseddie](https://open.spotify.com/artist/3aia8Qn8pZXJldrYzQqOOq) | [MIND OVER MATTER](https://open.spotify.com/album/7i65HJK5bYlPaVfBlRQEaY) | 2:27 | 2022-02-24 | 2022-03-18 |
 | [MING LING \(feat\. Yung Raja\)](https://open.spotify.com/track/00g4AEpAH40uIlm62yf3Rt) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [Yung Raja](https://open.spotify.com/artist/2HXfSr5CfTPZbcqS2gyGYm) | [MING LING \(feat\. Yung Raja\)](https://open.spotify.com/album/15onMCaLwVnhiovri1Kxzj) | 2:43 | 2022-08-11 | 2022-09-02 |

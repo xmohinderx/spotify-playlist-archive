@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0OzPeadl0h.md) - [plain]
 
 > Elevate the moment and unwind with the lush sounds of these ethereal tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,275,893 likes - 105 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,276,001 likes - 105 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0OzPeadl0h.md) - [plain]
 | 55 | [You and I](https://open.spotify.com/track/7j9DRB3AzXxQNRHAY3RfAx) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [You and I](https://open.spotify.com/album/0H7AadTjFvdH0XYB2oVuCe) | 3:12 |
 | 56 | [BE OK](https://open.spotify.com/track/2qzByN3XSyRZAOJA5CBsQV) | [Samoht](https://open.spotify.com/artist/25uXu4OnYB9IH9GI6OgxsK) | [CLEAR](https://open.spotify.com/album/5Awez3x6KU5lKsHCJjGWWi) | 3:24 |
 | 57 | [Dissolving](https://open.spotify.com/track/6KqSaedLlwolztRtpOYUaN) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Welcome Home](https://open.spotify.com/album/0b4TocuPShTGNAFy5tZx73) | 3:37 |
-| 58 | [Sapphire](https://open.spotify.com/track/6GqYyrBzHkrE8PJCO6nPId) | [Diamond Thug](https://open.spotify.com/artist/4mXcRr0lognLc6xSb1vUTX) | [Apastron](https://open.spotify.com/album/6C97cDlZPNtq0yl7aAcG1H) | 3:11 |
+| 58 | [Sapphire](https://open.spotify.com/track/4Kbv92f2Ikx6i3djxiuU8T) | [Diamond Thug](https://open.spotify.com/artist/4mXcRr0lognLc6xSb1vUTX) | [Sapphire](https://open.spotify.com/album/6o1xiiPYHv7e8fxIpOxGDJ) | 3:11 |
 | 59 | [Eight](https://open.spotify.com/track/5T20empZEdKnAdIq26xtTA) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS), [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Eight](https://open.spotify.com/album/5R6BFu0xrBtlOXN8NR12c4) | 2:49 |
 | 60 | [When The Body Is Gone \- SA TA NA MA DEMO](https://open.spotify.com/track/32q6vxuceVf5FjUmCabNFf) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [When The Body Is Gone \(SA TA NA MA DEMO\)](https://open.spotify.com/album/5ZCG9vRnlb3BaMOB55yvWJ) | 4:05 |
 | 61 | [Smoke Signals](https://open.spotify.com/track/5mIudBddFfhym8FMdStyl0) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Smoke Signals](https://open.spotify.com/album/6gouZs8Y2Tx6NVF1zr4hof) | 5:23 |
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0OzPeadl0h.md) - [plain]
 | 89 | [Heal Me](https://open.spotify.com/track/7kWPljVESJuBwANiLZP8ny) | [Arctic Lake](https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6) | [Heal Me](https://open.spotify.com/album/1SLHxMJKpcbaw0M4WSGIlf) | 3:27 |
 | 90 | [Fools and Their Gold \- Radio Edit](https://open.spotify.com/track/5ZrVZbwwxczBujEY2AWvlq) | [PLGRMS](https://open.spotify.com/artist/1KR4mZ0mbC8ATQFqljUR6k) | [Fools and Their Gold \(Radio Edit\)](https://open.spotify.com/album/0grXH08vgBabZbcmw0golH) | 3:48 |
 | 91 | [Electricity](https://open.spotify.com/track/3VoZIN3MSxpLKP0LdsTHqj) | [Sam Pinkerton](https://open.spotify.com/artist/6kumkrVx7tdkxLvXUeJGFp) | [Electricity](https://open.spotify.com/album/1UsMtM3LbIp9GZaDM9enWR) | 5:33 |
-| 92 | [You](https://open.spotify.com/track/6mwHS78L18Da6HRO4HNo0i) | [Kyson](https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx) | [A Book Of Flying](https://open.spotify.com/album/1vXfSRXxuhqCWiVgA2Zzde) | 3:56 |
+| 92 | [You](https://open.spotify.com/track/0VmVQLYdFAL43dhrgaP1E2) | [Kyson](https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx) | [FOF10: You](https://open.spotify.com/album/2616kNRXDaKKozQDIuiuUA) | 3:56 |
 | 93 | [Carve Me Open](https://open.spotify.com/track/6n3eF5U86dQZbU7uBICvYC) | [Silences](https://open.spotify.com/artist/2O7t5nO7qGlTbKxRXVBmBT) | [Luna](https://open.spotify.com/album/5D6TVgFPTKFJuqsZYgLJJ8) | 3:03 |
 | 94 | [Pallid Eyes](https://open.spotify.com/track/5hmI1tgtDXpaSLYbyYZyIB) | [Emily Jane White](https://open.spotify.com/artist/2PqsalqLh5RT6FSy9DrGZh) | [They Moved In Shadow All Together](https://open.spotify.com/album/2SuFHw70l56dvXHijLQUK1) | 3:54 |
 | 95 | [Torn Into Two](https://open.spotify.com/track/1jz93CsktGLt7lELiYKTAn) | [Maria Kelly](https://open.spotify.com/artist/15MkO1zSQcHtjObfkiEUaV) | [The Things I Should](https://open.spotify.com/album/5I62Sj5zJWrwvRmMxNByxw) | 3:32 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0OzPeadl0h.md) - [plain]
 | 104 | [Tapestry](https://open.spotify.com/track/1GkkMgDas91jmc6614MkGf) | [Liv Dawson](https://open.spotify.com/artist/7i8fq2gFSVgPdWVXOlDEx7) | [Tapestry](https://open.spotify.com/album/3FQVZyz9XxFKcyIpxcZtWF) | 3:49 |
 | 105 | [M](https://open.spotify.com/track/7kcMm8WE6jc5mVt2EATrV2) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [Emily Alone](https://open.spotify.com/album/2mpUdUSa6kIzdJQ23BgajX) | 2:46 |
 
-Snapshot ID: `MTY2MjA5MTI2MCwwMDAwMDAwMDRkYjljY2MyMmYwMWMxZmEzODkxODNiZTk0MDhhODUw`
+Snapshot ID: `MTY2MjA5MTI2MCwwMDAwMDAwMDUwNzg4NTQyY2Q0MzNmYjlhMmMyMzEyNzJiN2I0YzM5`

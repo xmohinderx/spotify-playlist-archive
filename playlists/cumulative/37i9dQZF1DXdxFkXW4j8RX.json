@@ -593,7 +593,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 234418,
       "name": "Dile Dile Remix",
       "url": "https://open.spotify.com/track/5L11wZayGyUUMphfhCF16T"
@@ -771,6 +771,28 @@
       "duration_ms": 212408,
       "name": "El Rey Lagarto",
       "url": "https://open.spotify.com/track/5ZVuuD5wAMPMOUE9TQYuBj"
+    },
+    {
+      "album": {
+        "name": "El Santo",
+        "url": "https://open.spotify.com/album/7iJh4ro5Ho0BWvYslKRdY2"
+      },
+      "artists": [
+        {
+          "name": "Tiro De Gracia",
+          "url": "https://open.spotify.com/artist/3yIbPI61iAhMptDnfnyScb"
+        },
+        {
+          "name": "Lalo Meneses",
+          "url": "https://open.spotify.com/artist/2NGxwPmrBXlH3bGem7O45B"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253500,
+      "name": "El Santo",
+      "url": "https://open.spotify.com/track/3KsRuknB6985zNlCCye88W"
     },
     {
       "album": {
@@ -1969,10 +1991,28 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 213770,
       "name": "Preparao",
       "url": "https://open.spotify.com/track/5bODQyM06wzQjER4kMCmo4"
+    },
+    {
+      "album": {
+        "name": "Preparao",
+        "url": "https://open.spotify.com/album/6xQIgAXdHdzG12B2sPsokk"
+      },
+      "artists": [
+        {
+          "name": "Movimiento Original",
+          "url": "https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213770,
+      "name": "Preparao",
+      "url": "https://open.spotify.com/track/7GyNWI4rCHQ8YBTq0Mlmnr"
     },
     {
       "album": {

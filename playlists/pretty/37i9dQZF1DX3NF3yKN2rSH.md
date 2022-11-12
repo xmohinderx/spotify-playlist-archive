@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NF3yKN2rSH.md) - [plain]
 
 > New and classic Gospel songs to celebrate the Easter season.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,303 likes - 100 songs - 9 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,298 likes - 100 songs - 9 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NF3yKN2rSH.md) - [plain]
 | 55 | [Jesus Is the Answer](https://open.spotify.com/track/6sXB1ObEFi5nCrncPp4uxO) | [Andrae Crouch](https://open.spotify.com/artist/3pxLSxg8klHu1L9d93cpq7) | [Classics Vol\. 1](https://open.spotify.com/album/6XLI4B9L9q2wL9oUKLqzrE) | 5:03 |
 | 56 | [Already Won \- Live](https://open.spotify.com/track/6eoJ4Rs6P8H29MZ43JnbRH) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [The Bloody Win \(Live\)](https://open.spotify.com/album/4LJMZurhpJDxopsPlwQvqk) | 3:31 |
 | 57 | [Raised to Life \(feat\. The Walls Group\)](https://open.spotify.com/track/4boN2DqFBWlVTIQhBgNJBo) | [Elevation Collective](https://open.spotify.com/artist/5FgYD1zmYTjBAGuVy0Hj3w), [The Walls Group](https://open.spotify.com/artist/3UZQmKr3fkPDCdIRtdX1RV) | [Evidence](https://open.spotify.com/album/3X10R33baD5m8UJ0KeIfSo) | 2:10 |
-| 58 | [Jesus I Love You \(Live\)](https://open.spotify.com/track/4hLaRpyVQwU3g1VggcSxPw) | [The Brooklyn Tabernacle Choir](https://open.spotify.com/artist/4eDpQV93UILljVxohKoLUs), [Robin Giles](https://open.spotify.com/artist/0gt7HlBDU64IOmHCo5IUn5) | [Live..\. This Is Your House](https://open.spotify.com/album/0lnscqAVc3mOhZcbrR0UPU) | 6:20 |
-| 59 | [Always Jesus](https://open.spotify.com/track/4aGRQYEtZySJ5KRnBU6Yfn) | [Gene Moore](https://open.spotify.com/artist/5Jx60tG2VWnk1g3aDHDGs6) | [Tunnel Vision](https://open.spotify.com/album/36OUmfH7fvxdjJL1Zhkr8v) | 3:57 |
+| 58 | [Always Jesus](https://open.spotify.com/track/4aGRQYEtZySJ5KRnBU6Yfn) | [Gene Moore](https://open.spotify.com/artist/5Jx60tG2VWnk1g3aDHDGs6) | [Tunnel Vision](https://open.spotify.com/album/36OUmfH7fvxdjJL1Zhkr8v) | 3:57 |
+| 59 | [Jesus I Love You \(Live\)](https://open.spotify.com/track/4hLaRpyVQwU3g1VggcSxPw) | [The Brooklyn Tabernacle Choir](https://open.spotify.com/artist/4eDpQV93UILljVxohKoLUs), [Robin Giles](https://open.spotify.com/artist/0gt7HlBDU64IOmHCo5IUn5) | [Live..\. This Is Your House](https://open.spotify.com/album/0lnscqAVc3mOhZcbrR0UPU) | 6:20 |
 | 60 | [The Crucifixion](https://open.spotify.com/track/26hCJDGJpoXYMNXdQTdMYa) | [The Spirituals](https://open.spotify.com/artist/1viPlR6yBVRaBcilVZ8yPy), [PJ Greaves](https://open.spotify.com/artist/3iTsln5dISoI8Oa1oTQswu) | [Easter Project](https://open.spotify.com/album/09ofZQBVrHv1cQoFJDdrTB) | 7:09 |
 | 61 | [Finished Work \- Live From Chattanooga, TN](https://open.spotify.com/track/3jvbdyrWcjXxAXGwbubycq) | [William McDowell](https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN), [Daniel Johnson](https://open.spotify.com/artist/7MEJq0Z47EF6SzR2XEG1DK) | [The Cry: A Live Worship Experience](https://open.spotify.com/album/7rAZtjifsgEThw7tX7R14b) | 7:47 |
 | 62 | [Because He Lives](https://open.spotify.com/track/4V941Tt1pJKFPicJcZMYIy) | [Rev\. Cleophus Robinson](https://open.spotify.com/artist/2KBIwRiovYlac37ehvlF62) | [I Shall Know Him](https://open.spotify.com/album/4mMN2C6hfUmvoiXNmGZpjJ) | 5:14 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NF3yKN2rSH.md) - [plain]
 | 72 | [I Need You Now](https://open.spotify.com/track/128ypdDlPrG9lpwGQzMiBQ) | [Smokie Norful](https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR) | [The Ultimate Playlist](https://open.spotify.com/album/7e7Kn1acCuaq8owAQHt8dI) | 4:10 |
 | 73 | [I Know It Was the Blood](https://open.spotify.com/track/6Id2UIwITk6iJS9pqP4Dxa) | [Gladys Knight](https://open.spotify.com/artist/2aXiJJHJei5BmCykxI37y0), [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn), [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Shirley Caesar and Friends](https://open.spotify.com/album/34nMXtPJ99Ub3uw0BA60hW) | 5:02 |
 | 74 | [Take Me Back \(feat\. Kirk Franklin & Kelontae Gavin\)](https://open.spotify.com/track/6rdU89wSvs8KqkQjsbnpa7) | [Myron Butler & Levi](https://open.spotify.com/artist/5b4vy4GMu5dgRMOt9bHZpY), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Kelontae Gavin](https://open.spotify.com/artist/1G73Usb8ZrWsOSxOmufR3D) | [My Tribute](https://open.spotify.com/album/3CbTWKbmQz0kJnALoC5qsB) | 5:00 |
-| 75 | [Grace](https://open.spotify.com/track/6toqkWDFYdqZo5pTFeCa1E) | [Kelly Price](https://open.spotify.com/artist/49FeZO3eSrJs7oH7lYLU1r) | [Grace](https://open.spotify.com/album/0f4FkJpd9A2b6rGpK1CMnZ) | 3:27 |
-| 76 | [Calvary](https://open.spotify.com/track/740Q0J6Pvt1EPqDEidQm1E) | [The Spirituals](https://open.spotify.com/artist/1viPlR6yBVRaBcilVZ8yPy), [Jason Nicholson\-Porter](https://open.spotify.com/artist/0J41vFW1jyQEmCDNALvGHS) | [Easter Project](https://open.spotify.com/album/09ofZQBVrHv1cQoFJDdrTB) | 5:56 |
+| 75 | [Calvary](https://open.spotify.com/track/740Q0J6Pvt1EPqDEidQm1E) | [The Spirituals](https://open.spotify.com/artist/1viPlR6yBVRaBcilVZ8yPy), [Jason Nicholson\-Porter](https://open.spotify.com/artist/0J41vFW1jyQEmCDNALvGHS) | [Easter Project](https://open.spotify.com/album/09ofZQBVrHv1cQoFJDdrTB) | 5:56 |
+| 76 | [Grace](https://open.spotify.com/track/6toqkWDFYdqZo5pTFeCa1E) | [Kelly Price](https://open.spotify.com/artist/49FeZO3eSrJs7oH7lYLU1r) | [Grace](https://open.spotify.com/album/0f4FkJpd9A2b6rGpK1CMnZ) | 3:27 |
 | 77 | [He Didn't Have To Do It](https://open.spotify.com/track/78qrs0P8o0u1MketFZ6YsV) | [Mississippi Mass Choir](https://open.spotify.com/artist/30aMh21vdYVIjdVgIgHaqW) | [Then Sings My Soul](https://open.spotify.com/album/6iisYpnZhqiG0YV27QjJo9) | 5:37 |
 | 78 | [Nothing But the Blood v1.1](https://open.spotify.com/track/7EozkjVGGgfKvsShP3p5vz) | [Sandra Crouch](https://open.spotify.com/artist/2bE0f7DSV3s415TDqMypaW) | [Classic Gold: We're Waiting](https://open.spotify.com/album/2UqMA74qWsJARd4OKMEgCt) | 4:26 |
 | 79 | [Celebrate \(He Lives\)](https://open.spotify.com/track/1HK61zJJWpppOHE7jZQwYm) | [Fred Hammond](https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484) | [The Essential Fred Hammond](https://open.spotify.com/album/4tjopW7OcRx04doP9Pgke7) | 4:04 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NF3yKN2rSH.md) - [plain]
 | 99 | [Cherish The Cross](https://open.spotify.com/track/7BranHqbktqdiojkd0r07A) | [Rev\. James Moore](https://open.spotify.com/artist/2r7fA3DrMO5JXl3uoOLkaN) | [Live In Detroit \(Live\)](https://open.spotify.com/album/0uKzIXtrSUvzRCFHSOv1vv) | 7:30 |
 | 100 | [The Blood Song](https://open.spotify.com/track/7cjEjTUSiVlWKPPWucNJPa) | [Chris Bender](https://open.spotify.com/artist/1h37aBxNCokuRG8NMgPwEG), [D'Shondra Perry](https://open.spotify.com/artist/1GKvu9PSueVDcFtZjU3lEa) | [The Blood Song](https://open.spotify.com/album/29UFA9YrscWRdKpZTnLnN5) | 5:34 |
 
-Snapshot ID: `MTY1MDE3NTg2NCwwMDAwMDAwMGM0OGFkYjMwZGE0NThmN2M1Zjk5YmU1ZTFmODVlMGYz`
+Snapshot ID: `MTY1MDE3NTg2NCwwMDAwMDAwMDVjYmYzOWFjNzYxZGQyYWQ0NTZhNWQ3YTIxMDRjNDFi`

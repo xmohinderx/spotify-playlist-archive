@@ -26,6 +26,28 @@
     },
     {
       "album": {
+        "name": "A Brand New Day",
+        "url": "https://open.spotify.com/album/4eXicJ43I6xi2DG98KFxJN"
+      },
+      "artists": [
+        {
+          "name": "Zac Zinger",
+          "url": "https://open.spotify.com/artist/6nVreZX9f5zkyfsuQ3Qo3J"
+        },
+        {
+          "name": "Buku",
+          "url": "https://open.spotify.com/artist/0w2QFhEnPG6tLIvkogHbUi"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204761,
+      "name": "A Brand New Day",
+      "url": "https://open.spotify.com/track/2ci8vXPrkqpJI9PjToeJxS"
+    },
+    {
+      "album": {
         "name": "\u30ab\u30d7\u30b3\u30f3\u30a2\u30fc\u30b1\u30fc\u30c9\u30b9\u30bf\u30b8\u30a2\u30e0 \u30df\u30cb\u30a2\u30eb\u30d0\u30e0",
         "url": "https://open.spotify.com/album/1qSeVN4W7UYymi9TZzwyHI"
       },
@@ -532,6 +554,24 @@
     },
     {
       "album": {
+        "name": "MEGAMAN ZERO4 ORIGINAL SOUNDTRACK",
+        "url": "https://open.spotify.com/album/1xRQ8CX4FcSWnm2VKr6elp"
+      },
+      "artists": [
+        {
+          "name": "Umegaki Runa",
+          "url": "https://open.spotify.com/artist/1EttdjOOkUtmSht8NjZ1ax"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139266,
+      "name": "Esperanto",
+      "url": "https://open.spotify.com/track/0pX2s4lnpNTYcDcBEVenSW"
+    },
+    {
+      "album": {
         "name": "MEGAMAN ZERO/ZX SOUND BOX",
         "url": "https://open.spotify.com/album/53jTF5NJogiBRi0H2yMGtE"
       },
@@ -543,7 +583,7 @@
       ],
       "date_added": "2021-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 139266,
       "name": "Esperanto",
       "url": "https://open.spotify.com/track/2bO8wK9Cj7KJieoirM3Klu"
@@ -1601,7 +1641,7 @@
       ],
       "date_added": "2021-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 298106,
       "name": "Shall Never Surrender (End Credits)",
       "url": "https://open.spotify.com/track/11s4cDWdCABvn9Xkg4eHl2"

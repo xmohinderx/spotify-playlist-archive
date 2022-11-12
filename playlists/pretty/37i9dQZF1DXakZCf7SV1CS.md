@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakZCf7SV1CS.md) - [plain]
 
 > Classics by the pioneers of the sound, and its modern\-day icons\. Cover: 100 gecs
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,999 likes - 75 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,189 likes - 75 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakZCf7SV1CS.md) - [plain]
 | 17 | [fuckboy](https://open.spotify.com/track/7cELheBXF3jIShGuewCy44) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [punk2](https://open.spotify.com/album/0BAmcZfsraNVyG6rj782Og) | 2:37 |
 | 18 | [Flamingo](https://open.spotify.com/track/34TufQ4EFzmDIFXJ3A8Yau) | [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [Flamingo](https://open.spotify.com/album/469lPlTo1lL1wbhl3OCMeq) | 3:17 |
 | 19 | [claws](https://open.spotify.com/track/7Dexi5Z2IowCkHrnzlWysc) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [how i'm feeling now](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu) | 2:29 |
-| 20 | [Kismet](https://open.spotify.com/track/3owRFZTvTuWgNlUkbI6YgS) | [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3) | [19](https://open.spotify.com/album/0jQjCFXUVRUrwUN7ACw0h8) | 2:51 |
-| 21 | [i dont want that many friends in the first place](https://open.spotify.com/track/2osO3L8EIQImWGfCGBwYgC) | [quinn](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN) | [i dont want that many friends in the first place](https://open.spotify.com/album/3tOevvBSeZ3VaSIZkFpGXt) | 1:49 |
+| 20 | [i dont want that many friends in the first place](https://open.spotify.com/track/2osO3L8EIQImWGfCGBwYgC) | [quinn](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN) | [i dont want that many friends in the first place](https://open.spotify.com/album/3tOevvBSeZ3VaSIZkFpGXt) | 1:49 |
+| 21 | [Kismet](https://open.spotify.com/track/3owRFZTvTuWgNlUkbI6YgS) | [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3) | [19](https://open.spotify.com/album/0jQjCFXUVRUrwUN7ACw0h8) | 2:51 |
 | 22 | [IRIS](https://open.spotify.com/track/337H7R2AWIlI9s7M4ugelQ) | [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u) | [IRIS](https://open.spotify.com/album/6bauY7PwZaNP7NoXczbKBl) | 1:42 |
 | 23 | [Immaterial](https://open.spotify.com/track/6GoLARmR2OZl2EldehFrsA) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/4z3YbEkKWwiIMSJTWUQbTH) | 3:52 |
 | 24 | [fwb](https://open.spotify.com/track/1XnnLXcvFd21B25H4IHEIY) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [punk2](https://open.spotify.com/album/0BAmcZfsraNVyG6rj782Og) | 2:17 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakZCf7SV1CS.md) - [plain]
 | 38 | [detest me](https://open.spotify.com/track/0XZ5gv6EBByIEuSOIiYaon) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [detest me](https://open.spotify.com/album/4HeO25Tx14zJgMwiDO8NkV) | 1:58 |
 | 39 | [Doritos & Fritos](https://open.spotify.com/track/2WzWwYoxWIqyjzIaazsqYV) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [Doritos & Fritos](https://open.spotify.com/album/1LWmE7Dy299uuwFo8wcOPC) | 3:16 |
 | 40 | [VYZEE](https://open.spotify.com/track/1LzvuqP3L5Q7G61kUBgfCJ) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [VYZEE](https://open.spotify.com/album/619AAL08eHbip6ce8Jixbe) | 3:22 |
-| 41 | [1:15](https://open.spotify.com/track/0TNFCRzOnlgu7W1K47sFnY) | [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo) | [1:15](https://open.spotify.com/album/1UyLZP0hiJA0A2b6CWmQbU) | 2:10 |
-| 42 | [i hate it here](https://open.spotify.com/track/5W2YdxPUqmzYFELNQF95Dt) | [quinn](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN) | [i hate it here](https://open.spotify.com/album/6YaIgWEICYDuhQ7Kb0R5Jx) | 2:37 |
+| 41 | [i hate it here](https://open.spotify.com/track/5W2YdxPUqmzYFELNQF95Dt) | [quinn](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN) | [i hate it here](https://open.spotify.com/album/6YaIgWEICYDuhQ7Kb0R5Jx) | 2:37 |
+| 42 | [1:15](https://open.spotify.com/track/0TNFCRzOnlgu7W1K47sFnY) | [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo) | [1:15](https://open.spotify.com/album/1UyLZP0hiJA0A2b6CWmQbU) | 2:10 |
 | 43 | [Be Your USA](https://open.spotify.com/track/2v3wrFuzJTGl9e4seco6n4) | [EASYFUN](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW), [Iiris](https://open.spotify.com/artist/3Y10Y3MuSy0W1ACvSQwTJv) | [Be Your USA](https://open.spotify.com/album/6iSlPHQkWNc6HSyNXUKoJw) | 2:53 |
 | 44 | [go white boy go](https://open.spotify.com/track/6RZrdPiUXNBC9ENt1mca2O) | [saturn](https://open.spotify.com/artist/42IAg1RgfyE8c66KZcSlSR) | [go white boy go](https://open.spotify.com/album/1vqmNNNPN16WJJ1GrVWwvF) | 1:41 |
 | 45 | [Man To Man](https://open.spotify.com/track/4C9DiRUDbryWo0FRjozaoo) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u) | [Flamboyant](https://open.spotify.com/album/4svcCm5yRZtKE0tXn4n1cn) | 3:17 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakZCf7SV1CS.md) - [plain]
 | 54 | [BIPP](https://open.spotify.com/track/5HuOQHBDbb0UJjEE2fw6Uq) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [BIPP](https://open.spotify.com/album/1xF4KA0folSWB5Wcfkv8QU) | 3:44 |
 | 55 | [team edward](https://open.spotify.com/track/6tYAwvtbq99FKtK08sslC6) | [meat computer](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN) | [team edward](https://open.spotify.com/album/3aDilVU5hkFytlfeoiPQo5) | 1:27 |
 | 56 | [LEGEND](https://open.spotify.com/track/1E1opYkGrFzzJnHyVHDZvq) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL), [Alice Glass](https://open.spotify.com/artist/4ukk0IyB7vL97QirpOcNr3) | [LEGEND](https://open.spotify.com/album/4eLLKhnfVgXbNeiZfKXWfb) | 2:37 |
-| 57 | [1UL](https://open.spotify.com/track/4sPCKi7i8DAdWc1WpQrmOG) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD) | [1UL](https://open.spotify.com/album/1oNKlvMadv8K1wTBd5MwfC) | 3:25 |
-| 58 | [bad idea \(feat\. blackwinterwells\)](https://open.spotify.com/track/21dQoUNcNgkFe52pGmuXRB) | [quinn](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN), [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u) | [bad idea \(feat\. blackwinterwells\)](https://open.spotify.com/album/7AHNBk7kZBFAwZH1UNtf10) | 1:09 |
+| 57 | [bad idea \(feat\. blackwinterwells\)](https://open.spotify.com/track/21dQoUNcNgkFe52pGmuXRB) | [quinn](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN), [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u) | [bad idea \(feat\. blackwinterwells\)](https://open.spotify.com/album/7AHNBk7kZBFAwZH1UNtf10) | 1:09 |
+| 58 | [1UL](https://open.spotify.com/track/4sPCKi7i8DAdWc1WpQrmOG) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD) | [1UL](https://open.spotify.com/album/1oNKlvMadv8K1wTBd5MwfC) | 3:25 |
 | 59 | [Thos Moser](https://open.spotify.com/track/6pe1T2thmWds9hPq67Xv74) | [Gupi](https://open.spotify.com/artist/3YOvdmjSEwOqRAJ0ttfwCx), [Fraxiom](https://open.spotify.com/artist/04Y5zXsFqYRzDr6tMXj6aL), [food house](https://open.spotify.com/artist/41f6TKH0EoBnj3N4xIp26g) | [None](https://open.spotify.com/album/0FuahJaNlb2xX87G54NSLj) | 4:23 |
 | 60 | [Butterfly Bankai](https://open.spotify.com/track/7oQqKP46luTWUUPfcljy3T) | [SEBii](https://open.spotify.com/artist/5fAix5NwfNgHQqYRrHIPxo) | [Visored Vitality](https://open.spotify.com/album/209wPO4XXcc3zTKtV8kKhN) | 2:32 |
 | 61 | [Decay](https://open.spotify.com/track/0gcIejeOFsOjbxzU5m2BV1) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8), [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [Secrets](https://open.spotify.com/album/7B6Xgysqk6NCRcMe6RjCUT) | 2:02 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakZCf7SV1CS.md) - [plain]
 | 74 | [Second hand embarrassment](https://open.spotify.com/track/7tVMsJriHeO3DoPV1d7L1j) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Second hand embarrassment](https://open.spotify.com/album/68dcU3nkn7E9FTi3NDcZtS) | 2:17 |
 | 75 | [Imgonnagetmyrevenge](https://open.spotify.com/track/5X3NLqODCmjLmsGTzB3gks) | [d0llywood1](https://open.spotify.com/artist/2KZogWZPYcACVe4NK80dmc), [Alice Gas](https://open.spotify.com/artist/4RhJ79LFbfmdtpuir6C9nR), [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u), [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo) | [Imgonnagetmyrevenge](https://open.spotify.com/album/3hz9NaG7XUIY5QfRQVEPbY) | 3:15 |
 
-Snapshot ID: `MTY2ODExMDYyNiwwMDAwMDAwMGU1ZmI2MjVmNTIwMmQyZmRjM2M5YWViODAwMGRiYWU3`
+Snapshot ID: `MTY2ODExMDYyNiwwMDAwMDAwMDhiNjc4NDYyODcyNWI1OWY3ZmVjM2M1MDU4MDZmMGFm`

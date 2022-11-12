@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IbLOJtWiun.md) - [plain]
 | 11 | [Adrenaline](https://open.spotify.com/track/5oJrV0mGkw9dilk96X3W0c) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Amaryllis](https://open.spotify.com/album/2WvIDc4wdKshyFh2EzLAs0) | 3:26 |
 | 12 | [I'll Fight](https://open.spotify.com/track/5SYb42keVyr5S9smozZRWl) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot) | [Baptized \(Deluxe Version\)](https://open.spotify.com/album/6UTadUeCxnizkSKAS1VHs4) | 3:00 |
 | 13 | [Odd One \- Radio Edit](https://open.spotify.com/track/3LZyyHny3j4GUVsdGnhVcJ) | [Sick Puppies](https://open.spotify.com/artist/7qAcXJgt1PWnxwUgxMdyuk) | [Odd One](https://open.spotify.com/album/5TT6f2EM0jMJ8U4CSSlQuE) | 3:23 |
-| 14 | [Ladies And Gentlemen](https://open.spotify.com/track/48ncRBVLgiu8MY7O70VVw5) | [Saliva](https://open.spotify.com/artist/5S6hjAxgxjsLylsTtMIimO) | [Blood Stained Love Story](https://open.spotify.com/album/1JA2ZEDY4s6N08dbLCrbAz) | 3:37 |
+| 14 | [Ladies And Gentlemen](https://open.spotify.com/track/5mzMUnH2u7kNMyOUTWQyRr) | [Saliva](https://open.spotify.com/artist/5S6hjAxgxjsLylsTtMIimO) | [Ladies and Gentlemen Hit Pack](https://open.spotify.com/album/6h8tWcRJxztSEoTKrBDJXI) | 3:37 |
 | 15 | [Soldiers](https://open.spotify.com/track/1iWgFnhR0oW5Mup8yXDAPW) | [Otherwise](https://open.spotify.com/artist/1OVyBGCKn7vObVIVPXcmLa) | [Soldiers](https://open.spotify.com/album/6wI2K6ApwaqRa80EEQlLzZ) | 4:01 |
 | 16 | [It's a War](https://open.spotify.com/track/3UdxCgnOWXuVkOn1eZCSaI) | [New Medicine](https://open.spotify.com/artist/3driPpCh1JEUnPFKGyHXDr) | [Race You to the Bottom](https://open.spotify.com/album/13eNs79hvWC8FB96ekbAVy) | 3:33 |
 | 17 | [Headstrong \(Re\-Recorded\)](https://open.spotify.com/track/3UW3ujzllPV9vXJfRsbpBu) | [Trapt](https://open.spotify.com/artist/1UdQqCUR7RwB9YYJONwbdM) | [Headstrong](https://open.spotify.com/album/7iK149AHO75QfxntFk3rIW) | 4:37 |
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IbLOJtWiun.md) - [plain]
 | 19 | [In My Blood](https://open.spotify.com/track/2iIDpuiFj86WKpK6eKyzTP) | [Black Stone Cherry](https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug) | [Between the Devil & the Deep Blue Sea \(Special Edition\)](https://open.spotify.com/album/5VppVyy751PTQWrfJbrJ4H) | 3:47 |
 | 20 | [Here's to Us](https://open.spotify.com/track/0a5UnIvDUBzqwUduJsouRy) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [The Strange Case of..\. \(Deluxe\)](https://open.spotify.com/album/4TyrGrbnsOVKOXVut2huz2) | 2:57 |
 
-Snapshot ID: `MTQ5ODgxNTMzNiwwMDAwMDAwMDMxOWNlMTE1NTE2MDQ5YjFhMjkwZTExYjcyODJkZjA4`
+Snapshot ID: `MTQ5ODgxNTMzNiwwMDAwMDAwMDhiNDgyYmE3YzdhMjkzMTUxZTE0M2IxMGMwMWIxZjBl`

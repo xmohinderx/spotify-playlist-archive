@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYHO8PTSQ9fM.md) - [plain]
 
 > Les hits du moment sont ici\. Cover : Lartiste
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,402 likes - 51 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,593 likes - 51 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Early blues standards and classics
 
-75 songs - 3 hr 44 min - [published](https://open.spotify.com/playlist/1s3RaW5fhxW7VeqvAIPMfc)
+76 songs - 3 hr 47 min - [published](https://open.spotify.com/playlist/1s3RaW5fhxW7VeqvAIPMfc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,8 @@
 | [S.K\. Blues, Pt\. 1](https://open.spotify.com/track/2mRrzCyw3gmyy1cHb7PmFA) | [Big Joe Turner](https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7) | [Atomic Boogie](https://open.spotify.com/album/0TWLL5vjDGxhKfidH8qxyn) | 2:59 | 2018-03-28 | 2022-07-29 |
 | [S.K\. Blues, Pt\. 1](https://open.spotify.com/track/6JrmYq8Fb16eU15qMNJfGk) | [Big Joe Turner](https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7) | [Atomic Boogie](https://open.spotify.com/album/2cHJiocUPJGUzGPadW5rKL) | 3:01 | 2018-03-28 | 2022-11-11 |
 | [Sent For You Yesterday](https://open.spotify.com/track/2l23EymI7ggn06fJAuI4lu) | [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [The Best Of Early Basie](https://open.spotify.com/album/317EFHbxfoTrvlHxEAYa7M) | 2:58 | 2018-03-28 | 2022-07-29 |
-| [Sent For You Yesterday](https://open.spotify.com/track/0jXSghMAEE2ImajlWNBoiT) | [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [The Complete Decca Recordings](https://open.spotify.com/album/22oDCpyHsYIYxMGcmieLDY) | 2:58 | 2018-03-28 |  |
+| [Sent For You Yesterday](https://open.spotify.com/track/4U9SVAuO0GPRfQavNwxmE6) | [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [All Time Jazz](https://open.spotify.com/album/4zNqy339ADVfnF3Sy7hr8C) | 2:58 | 2018-03-28 |  |
+| [Sent For You Yesterday](https://open.spotify.com/track/0jXSghMAEE2ImajlWNBoiT) | [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [The Complete Decca Recordings](https://open.spotify.com/album/22oDCpyHsYIYxMGcmieLDY) | 2:58 | 2018-03-28 | 2022-11-12 |
 | [Sit and Cry \(The Blues\)](https://open.spotify.com/track/2x0uiOepdvCXYk8Wh8bXIk) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Blue On Blues](https://open.spotify.com/album/7I1hciUQhs0IlNPxR6yluS) | 3:00 | 2018-03-28 |  |
 | [Some Day Baby](https://open.spotify.com/track/12MFtyrU4ZPJqClBcjYFIA) | [Lonnie Johnson](https://open.spotify.com/artist/74g0xdNndEjFzMKSRFUMNM) | [Lonnie Johnson Vol\. 3 \(1944\-1947\)](https://open.spotify.com/album/1QsQCR85oK7iTlBkeFXE6E) | 3:08 | 2018-03-28 |  |
 | [That's All Right](https://open.spotify.com/track/4C6KfxHdNt7x4LaqVa5pkD) | [Arthur "Big Boy" Crudup](https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC) | [Rock Me Mama \- When The Sun Goes Down Series](https://open.spotify.com/album/1yKJIfbEdZkEMCMXmsgmGc) | 2:53 | 2018-03-28 |  |

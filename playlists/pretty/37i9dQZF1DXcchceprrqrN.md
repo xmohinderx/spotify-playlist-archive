@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcchceprrqrN.md) - [plain]
 
 > self\-reinvention never sounded so good.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,718 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,955 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcchceprrqrN.md) - [plain]
 | 10 | [Sober to Death](https://open.spotify.com/track/6kOHjAOLz9IvUiRGf72Kec) | [Car Seat Headrest](https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf) | [Twin Fantasy](https://open.spotify.com/album/6gDtROOIYa6OQxwhDNkDRM) | 5:04 |
 | 11 | [What's Up?](https://open.spotify.com/track/141alNiSd9vG4Lb22BLHWM) | [Mom Jeans.](https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h) | [Sweet Tooth](https://open.spotify.com/album/2vMWoMKeyq9m1xIghMKkaL) | 2:21 |
 | 12 | [Angelica](https://open.spotify.com/track/3EwTIu5qka2l5ZekB0b6QC) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 3:52 |
-| 13 | [WHY?](https://open.spotify.com/track/1WCPaQ7zMEMwWbpuTrhM9S) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [<COPINGMECHANISM>](https://open.spotify.com/album/0oMXn0MNLNyvB4iJPZXOuV) | 2:58 |
-| 14 | [God Is a Circle](https://open.spotify.com/track/4sbsJMnW6k7TuLhVmodlFx) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [God Is a Circle](https://open.spotify.com/album/3A290H1hI6mUv3uxGDrLlr) | 3:34 |
+| 13 | [God Is a Circle](https://open.spotify.com/track/4sbsJMnW6k7TuLhVmodlFx) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [God Is a Circle](https://open.spotify.com/album/3A290H1hI6mUv3uxGDrLlr) | 3:34 |
+| 14 | [WHY?](https://open.spotify.com/track/1WCPaQ7zMEMwWbpuTrhM9S) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [<COPINGMECHANISM>](https://open.spotify.com/album/0oMXn0MNLNyvB4iJPZXOuV) | 2:58 |
 | 15 | [DVP](https://open.spotify.com/track/0QpST3fcy7z1xcdFGFTk3D) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [The Dream Is Over](https://open.spotify.com/album/3l94HZBpKFTn1plZ1WWQPf) | 2:28 |
 | 16 | [Fast in My Car](https://open.spotify.com/track/6r9cqn3KG824MXSo7sHPlK) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Paramore](https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF) | 3:42 |
 | 17 | [Valentine](https://open.spotify.com/track/1RcGoniZzjY3oOatGifYK1) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Valentine](https://open.spotify.com/album/0zNWhYDalgisc4uweLIGZJ) | 3:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcchceprrqrN.md) - [plain]
 | 49 | [She Said](https://open.spotify.com/track/2azIROikp58zEAbcYYmLpH) | [Starcrawler](https://open.spotify.com/artist/0ZhtrY2Lt1s9klwm03lu8i) | [She Said](https://open.spotify.com/album/6CCzu7oKzxpJ9pH3aKdAhk) | 2:53 |
 | 50 | [Joni: LA's No\. 1 Health Goth](https://open.spotify.com/track/4gq0UBygSttdeOkjMNDZQB) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O) | [Let Me Do One More](https://open.spotify.com/album/5MH2ICGjLf6Lm9G72Rfx2f) | 3:37 |
 
-Snapshot ID: `MTY2ODExODk3NSwwMDAwMDAwMDViOWY3NzYyMzg0MmViM2FhYjc0ZDIyZWQxMTUyYjMz`
+Snapshot ID: `MTY2ODExODk3NSwwMDAwMDAwMDgyZTEyMTQ2MWE3YmY1MWE4YTAxMDQ2OTRjMjYyMmJi`

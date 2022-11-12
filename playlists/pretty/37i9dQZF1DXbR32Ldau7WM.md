@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 
 > The biggest rock artists in Japan right now! Cover: Ulfuls\(ウルフルズ\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,632 likes - 49 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,723 likes - 49 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,14 +22,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 12 | [一触即発](https://open.spotify.com/track/5rjg2Ko5FKp9k8i8spC1vQ) | [Magokoro Brothers](https://open.spotify.com/artist/7vDBc24PdLxDQEF6tGHnzM) | [TODAY](https://open.spotify.com/album/0DsM76Alyvsrq649owb7Xf) | 3:08 |
 | 13 | [Mountain Top](https://open.spotify.com/track/2VZsN0yEEVmEsohRi56wEm) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [Mountain Top](https://open.spotify.com/album/02S7xatuIOTEWNgLAfKh34) | 4:06 |
 | 14 | [Bloody Power Fame](https://open.spotify.com/track/6oshufDccwvnIwKCvKayb6) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [Bloody Power Fame](https://open.spotify.com/album/4H9aESabZLTv3U8FEAxvsI) | 3:58 |
-| 15 | [Baby's Alright](https://open.spotify.com/track/5jFKVJxMWo7ieMI6TZFkCO) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [Baby's Alright](https://open.spotify.com/album/6X4Uwd6AcExE9pK9yXymFy) | 2:43 |
+| 15 | [Hands Up to the Sky](https://open.spotify.com/track/7kiWVIA95A2H7TMYSrA0b5) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Laco](https://open.spotify.com/artist/7yEsBM3bZnkNfKyB9XGyyd) | [Avid / Hands Up to the Sky](https://open.spotify.com/album/4Uyvexhl7bPlTTrYX5YPAp) | 3:32 |
 | 16 | [From Today](https://open.spotify.com/track/7qLbPd5yhm0Vne45PXPabV) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [Nonnegative](https://open.spotify.com/album/2XA78l6T2geC3hfxcnOs6V) | 3:53 |
-| 17 | [Hands Up to the Sky](https://open.spotify.com/track/7kiWVIA95A2H7TMYSrA0b5) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Laco](https://open.spotify.com/artist/7yEsBM3bZnkNfKyB9XGyyd) | [Avid / Hands Up to the Sky](https://open.spotify.com/album/4Uyvexhl7bPlTTrYX5YPAp) | 3:32 |
+| 17 | [Baby's Alright](https://open.spotify.com/track/5jFKVJxMWo7ieMI6TZFkCO) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [Baby's Alright](https://open.spotify.com/album/6X4Uwd6AcExE9pK9yXymFy) | 2:43 |
 | 18 | [Running In The Dark \- Image Song for Arknights mobile game](https://open.spotify.com/track/3D46cXfwM4id5YfQbpTvKA) | [Monkey Majik](https://open.spotify.com/artist/6U2dgcU46Iy9pF3RQBj5hG) | [Running In The Dark \(Image Song for Arknights mobile game\)](https://open.spotify.com/album/16X7XTvj35X5fVmE8d8jnR) | 3:40 |
 | 19 | [kaleido proud fiesta](https://open.spotify.com/track/3Gl8jfnr5qHzVoWCWc9tV3) | [UNISON SQUARE GARDEN](https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u) | [kaleido proud fiesta](https://open.spotify.com/album/5Hk8uiIjY8CZ0pQ7vRIV1p) | 3:42 |
 | 20 | [Music, Dance & Love](https://open.spotify.com/track/7DbuirumWBjbLNDjImz7H9) | [Original Love](https://open.spotify.com/artist/76QaFuQNldIJkAkDmaMAck) | [Music, Dance & Love](https://open.spotify.com/album/53RSNtlBrBo908JZQcWo5q) | 4:33 |
-| 21 | [Dreaming of you](https://open.spotify.com/track/61AYCZrkESwuQKUULP0fgF) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [Dreaming of you](https://open.spotify.com/album/4QKClAPe6qbAsbioYnC20S) | 2:33 |
-| 22 | [My Vision](https://open.spotify.com/track/7y7RZol3cLs85hO9GtCo9P) | [YUKI](https://open.spotify.com/artist/380DW51qbu5pSP8crFRIII) | [Bump & Grind](https://open.spotify.com/album/5Xo7luQI6DCmzvzJYs3jWj) | 3:56 |
+| 21 | [My Vision](https://open.spotify.com/track/7y7RZol3cLs85hO9GtCo9P) | [YUKI](https://open.spotify.com/artist/380DW51qbu5pSP8crFRIII) | [Bump & Grind](https://open.spotify.com/album/5Xo7luQI6DCmzvzJYs3jWj) | 3:56 |
+| 22 | [Dreaming of you](https://open.spotify.com/track/61AYCZrkESwuQKUULP0fgF) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [Dreaming of you](https://open.spotify.com/album/4QKClAPe6qbAsbioYnC20S) | 2:33 |
 | 23 | [Focus on me](https://open.spotify.com/track/2LW2YGQdWWYW3glzf0gERU) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [Focus on me](https://open.spotify.com/album/2tORGVHZEBoiLJt9qKkewn) | 4:10 |
 | 24 | [Vandalize \- Japanese Version](https://open.spotify.com/track/2nuDirYeA0wsYcFMgC7L8E) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Vandalize](https://open.spotify.com/album/457jZPSKtrWepu8RKsHG1a) | 3:14 |
 | 25 | [Sense](https://open.spotify.com/track/6Nawx5sqYFIbcx2qQgrA67) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Unleash](https://open.spotify.com/album/09kpnVq1iOLRwM8eWKXADw) | 3:24 |
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 39 | [Future Tone Bender](https://open.spotify.com/track/5Ed03SNdYyL69YsW0pOfEz) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS), [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [egomaniac feedback](https://open.spotify.com/album/3XBNvPlVMRZkS10ssu1iRF) | 3:52 |
 | 40 | [Zanshin](https://open.spotify.com/track/7nNnwATQnctS6yLREghFwO) | [envy](https://open.spotify.com/artist/0CfjW2VuMdrhWodHtG7DWi) | [Seimei](https://open.spotify.com/album/6jQP5MIL7cCNHeWxyl8ryg) | 3:24 |
 | 41 | [Papersky](https://open.spotify.com/track/27Aet7xWrKxC6Yvw6S6Si3) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh) | [Papersky](https://open.spotify.com/album/0O07iy0DxbwL1TGOntCBIq) | 4:16 |
-| 42 | [Save Yourself \- Japanese Version](https://open.spotify.com/track/5e1lq4ACnnVhiQb4g04ehq) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Let Me Let You Go](https://open.spotify.com/album/4DSQT7lIc5Unlz6LoyBPzI) | 3:17 |
+| 42 | [Save Yourself](https://open.spotify.com/track/2FudXNJ5QUq21NeeMlb3lv) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Next Ex \- Fresh Alt](https://open.spotify.com/album/2x1hYSyeiOp0QvRGFWeDwo) | 3:17 |
 | 43 | [Unleash!!!!!](https://open.spotify.com/track/5Ti8I2TZIE0CM625nT9e0H) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Unleash](https://open.spotify.com/album/09kpnVq1iOLRwM8eWKXADw) | 3:10 |
 | 44 | [Dramatic](https://open.spotify.com/track/3pT5vtG177l2jrxpPy76jB) | [MASS OF THE FERMENTING DREGS](https://open.spotify.com/artist/14d5KCX9nprUcxnKIShrr1) | [Awakening:Sleeping](https://open.spotify.com/album/3CtgykVNQgaZ42o6f89PQy) | 3:47 |
 | 45 | [Tonight, Tonight](https://open.spotify.com/track/49uaFiZPOQvEPB4IJBfUDg) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [Break and Cross the Walls Ⅱ](https://open.spotify.com/album/63Vs5V4iH9zZf1QGcmqWAU) | 3:32 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 48 | [Only One,Only You](https://open.spotify.com/track/0ff65hi4fvwWPQWPcaIojp) | [GLAY](https://open.spotify.com/artist/00AFbqxvdDK6T1D6MQZ9c1) | [Only One,Only You](https://open.spotify.com/album/2aNNePD0oTIU347BYE8b2x) | 4:28 |
 | 49 | [Be The One](https://open.spotify.com/track/2qsCq95jjiHvlpAT7fsMQm) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Be The One](https://open.spotify.com/album/5242skyRrpMPFR9dYgFZpq) | 3:06 |
 
-Snapshot ID: `MTY2ODA5MjQwMCwwMDAwMDAwMDMzMWM0ODhiMmZkZmMwNmJkODEwOTVmYWY1NzUxNzcy`
+Snapshot ID: `MTY2ODA5MjQwMCwwMDAwMDAwMDA0MmFiMTE5MWI5M2UwY2M4NTI3OWU5MTVjYmZkYWZl`

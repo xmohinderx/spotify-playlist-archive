@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S9gwdi7dev.md) - [plain]
 
 > Fun tracks for your Halloween festivities!
 
-[Spotify](https://open.spotify.com/user/spotify) - 814,230 likes - 75 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 813,710 likes - 75 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ghostbusters](https://open.spotify.com/track/569uHYIB0X324FZOBEhvit) | [Ray Parker Jr.](https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK) | [Greatest Hits](https://open.spotify.com/album/3TaGSuVqPFbNJSo7h4bxB6) | 3:59 |
 | 2 | [Thriller \- Single Version](https://open.spotify.com/track/20efeySIfZoiSaISGLBbNs) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [The Essential Michael Jackson](https://open.spotify.com/album/77dNyQA0z8dV33M4so4eRY) | 5:12 |
 | 3 | [Spooky, Scary Skeletons \- Undead Tombstone Remix](https://open.spotify.com/track/1sUdq3kWa9dJXHu3eYOUll) | [Andrew Gold](https://open.spotify.com/artist/5fmvGUlMVgmnCn45f1he7d) | [Halloween Howls: Fun & Scary Music \(Deluxe Edition\)](https://open.spotify.com/album/2kAB6U6XJQ9lXK7TPsmaR4) | 2:05 |
-| 4 | [Somebody's Watching Me \- Single Version](https://open.spotify.com/track/6hci8n9UowepjRmCc6CKTv) | [Rockwell](https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP) | [Hitsville USA, The Motown Collection 1972\-1992](https://open.spotify.com/album/6nrCHETnE3ZWgwL0uYYWGP) | 3:58 |
+| 4 | [Somebody's Watching Me \- Single Version](https://open.spotify.com/track/6tUEdj7qGKPN3rV6GpBwuc) | [Rockwell](https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP) | [Halloween for Kids](https://open.spotify.com/album/7oYdF4y0Djq4nQpyHlcfYq) | 3:56 |
 | 5 | [Disturbia](https://open.spotify.com/track/2VOomzT6VavJOGBeySqaMc) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Good Girl Gone Bad: Reloaded](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) | 3:58 |
 | 6 | [Everybody \(Backstreet's Back\) \- Radio Edit](https://open.spotify.com/track/4rTeOSYqwXNz5qPR2DUTFZ) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [This Is The End: Original Motion Picture Soundtrack](https://open.spotify.com/album/1SFKmqhTTEkE3PmSBEMpa3) | 3:44 |
 | 7 | [This Is Halloween](https://open.spotify.com/track/01YROQCnF1AQm7SCWJmD2o) | [The Citizens of Halloween](https://open.spotify.com/artist/164hs3x1Tsp3FgJWNHee1r) | [Nightmare Before Christmas Special Edition](https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86) | 3:16 |
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S9gwdi7dev.md) - [plain]
 | 63 | [Midnight City](https://open.spotify.com/track/1eyzqe2QqGZUmfcPZtrIyt) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Hurry Up, We're Dreaming](https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR) | 4:01 |
 | 64 | [Edge of Seventeen](https://open.spotify.com/track/2id8E4WvczfKHB4LHI7Np3) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Crystal Visions...The Very Best of Stevie Nicks](https://open.spotify.com/album/7q0dYnAjmqZBJLhMBre8aL) | 5:29 |
 | 65 | [Hungry Like the Wolf](https://open.spotify.com/track/2qeESyQyH7MRHCBotCQsNq) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Greatest](https://open.spotify.com/album/7xbWtTByfdMWFfxXmeFFl0) | 3:29 |
-| 66 | [Black Magic](https://open.spotify.com/track/6rmXhRIemCTPyMYZRDN7Qg) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Get Weird \(Expanded Edition\)](https://open.spotify.com/album/2FnfZiFMv7bmXAIATOJDHs) | 3:31 |
+| 66 | [Black Magic](https://open.spotify.com/track/0ABDzNYFRcW6ltSQ3Bq2aQ) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Feel Good Friday](https://open.spotify.com/album/1bNlBFmUkqsRu6Fsa9jzAV) | 3:30 |
 | 67 | [Get Ur Freak On](https://open.spotify.com/track/6zsk6uF3MxfIeHPlubKBvR) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Miss E..\. So Addictive](https://open.spotify.com/album/20t54K6C80QQH7vbcpfJcP) | 3:31 |
 | 68 | [Scream & Shout](https://open.spotify.com/track/0EU2TpWyxOrQXld7eGGU81) | [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Boxing workout music 2020](https://open.spotify.com/album/7MawaenOFJRETzCCmO05Sv) | 4:45 |
 | 69 | [A Nightmare on My Street](https://open.spotify.com/track/1ugkqjRKTAX3kExAR4QgQz) | [DJ Jazzy Jeff & The Fresh Prince](https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh) | [Greatest Hits](https://open.spotify.com/album/5XLCFog0qr2dw0877zzypG) | 4:58 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S9gwdi7dev.md) - [plain]
 | 74 | [Oblivion](https://open.spotify.com/track/3LGsgpx4TfxhXbr07OFKqs) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Visions](https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM) | 4:11 |
 | 75 | [Lean On](https://open.spotify.com/track/5HV6C387PhPGCFJPxWdLGY) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Lean On \(Remixes\)](https://open.spotify.com/album/7dGgwByFn57Fg9FVng8aZh) | 2:56 |
 
-Snapshot ID: `MTY2NjYwODA5NywwMDAwMDAwMGQzZGExZGU3NGYwMDc1ZTZhM2ZjOWQ0MjNjNjUwNzJl`
+Snapshot ID: `MTY2NjYwODA5NywwMDAwMDAwMDNkYzI3ZTQ3ODA5NTZhYzE2NzY5NjlkZGVmNWE5ZWE4`

@@ -84,6 +84,24 @@
     },
     {
       "album": {
+        "name": "Motown: The Complete No. 1's",
+        "url": "https://open.spotify.com/album/58pGMCX1LxShUleatShB4x"
+      },
+      "artists": [
+        {
+          "name": "The Originals",
+          "url": "https://open.spotify.com/artist/11EZGTWr2pY0VZPlWokAbl"
+        }
+      ],
+      "date_added": "2019-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201506,
+      "name": "Baby, I'm For Real",
+      "url": "https://open.spotify.com/track/6iz6c83n6Asi3soVTUvdJz"
+    },
+    {
+      "album": {
         "name": "Baby, I'm For Real",
         "url": "https://open.spotify.com/album/3lvFua9jUjltWAqIK01Zdn"
       },
@@ -95,7 +113,7 @@
       ],
       "date_added": "2019-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 201866,
       "name": "Baby, I'm For Real",
       "url": "https://open.spotify.com/track/7vI2UMCyF56ZNDbVZmKiJ2"
@@ -531,7 +549,7 @@
       ],
       "date_added": "2019-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 383706,
       "name": "Square Biz",
       "url": "https://open.spotify.com/track/52bz3fOCyr6GgkJQsLK9PM"
@@ -553,6 +571,24 @@
       "duration_ms": 385573,
       "name": "Square Biz",
       "url": "https://open.spotify.com/track/5lAH3vLN4Gc3jDM25cMIgH"
+    },
+    {
+      "album": {
+        "name": "Motown Queens",
+        "url": "https://open.spotify.com/album/0g4hcfMoBKXPmMvNCHtlTC"
+      },
+      "artists": [
+        {
+          "name": "Teena Marie",
+          "url": "https://open.spotify.com/artist/61UT1Zj9dFgPAjZfwnsqsb"
+        }
+      ],
+      "date_added": "2019-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387533,
+      "name": "Square Biz",
+      "url": "https://open.spotify.com/track/3k168scjk05AuB67bGXkJg"
     },
     {
       "album": {

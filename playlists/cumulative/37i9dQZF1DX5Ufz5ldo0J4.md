@@ -4,7 +4,7 @@
 
 > Lean back, close your eyes, and relax.
 
-262 songs - 12 hr 20 min - [published](https://open.spotify.com/playlist/6R3n3sy2PZgo8hDFzJepwy)
+269 songs - 12 hr 39 min - [published](https://open.spotify.com/playlist/6R3n3sy2PZgo8hDFzJepwy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [Catastrophically in love with you](https://open.spotify.com/track/4CVtPhfKMyA8ST6ZQhJvZY) | [Elsa Greeve](https://open.spotify.com/artist/4K1bmNl7QvLvBZa9v4b9rd) | [Catastrophically in love with you](https://open.spotify.com/album/5voGDlolvDOOgzmjuJKLBH) | 2:57 | 2021-12-10 | 2022-08-13 |
 | [Celandine](https://open.spotify.com/track/5ptMWCoMxUP5phRKZ5MyBx) | [Francesca Caroléo](https://open.spotify.com/artist/2odGPzJOIq98kgGB8N93Ke) | [Lunaria](https://open.spotify.com/album/7DU0LoKUQb14uqooXRxLPn) | 2:53 | 2021-12-10 |  |
 | [Cessura](https://open.spotify.com/track/7uvey8m0ZfknE25sBVWoGY) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Fragment](https://open.spotify.com/album/4hDrHeKxgRFP07lI6RAkoE) | 3:05 | 2021-12-10 |  |
-| [Chasing Cloud Nine](https://open.spotify.com/track/3syIiKL3nOWcphWLsVtMEA) | [LUCHS](https://open.spotify.com/artist/5YNgVaI5vgMjBLel7QShBe) | [Chasing Cloud Nine](https://open.spotify.com/album/3EB3bjFZwEXfdMcMFM4eoK) | 2:42 | 2022-07-12 |  |
+| [Chasing Cloud Nine](https://open.spotify.com/track/2PNnspLf4w92O4niNRR7lN) | [LUCHS](https://open.spotify.com/artist/5YNgVaI5vgMjBLel7QShBe) | [KEEN: Sweet Dreams Vol\. 1](https://open.spotify.com/album/4EysyfJFTHrX08jYXvyfd1) | 2:42 | 2022-11-11 |  |
+| [Chasing Cloud Nine](https://open.spotify.com/track/3syIiKL3nOWcphWLsVtMEA) | [LUCHS](https://open.spotify.com/artist/5YNgVaI5vgMjBLel7QShBe) | [Chasing Cloud Nine](https://open.spotify.com/album/3EB3bjFZwEXfdMcMFM4eoK) | 2:42 | 2022-07-12 | 2022-11-12 |
 | [Chasing Cloud Nine](https://open.spotify.com/track/6nUMS7cttlCUPvl0wfN3sQ) | [LUCHS](https://open.spotify.com/artist/5YNgVaI5vgMjBLel7QShBe) | [KEEN: Peace & Calm Vol\. 1](https://open.spotify.com/album/6Y3wbX1sgVdf2KAVJ0nPt7) | 2:42 | 2021-12-10 | 2022-07-29 |
 | [Chiudete Gli Occhi](https://open.spotify.com/track/1pFCkU2BQHr0mJIj05KXSD) | [Artemio Li Fonti](https://open.spotify.com/artist/78cI0FrhBVpr9Dq0fN5BZw) | [Chiudete gli occhi](https://open.spotify.com/album/1BHrWvwKscYtked2P5mFPt) | 3:52 | 2021-12-10 |  |
 | [Circadian](https://open.spotify.com/track/3bb6awuqz2ZJggqGtvPVYE) | [Alan Ellis](https://open.spotify.com/artist/624bnI8CyQTzYDFICtmHTN) | [Phases](https://open.spotify.com/album/7sJJum4P8SaEmJI6Ud1rpk) | 2:52 | 2021-12-10 |  |
@@ -50,6 +51,7 @@
 | [Close your eyes](https://open.spotify.com/track/53Mz4V3XL02YupbVnJKfMl) | [Koby Laver](https://open.spotify.com/artist/639xerhpqwPMYay6bkjz75) | [Close your eyes](https://open.spotify.com/album/7n60AHGWLfjBq8eEdTbja0) | 3:12 | 2021-12-10 | 2022-08-13 |
 | [Corinne](https://open.spotify.com/track/5C7NbwyZvvGVu8wTxzgg8p) | [Free Arrows](https://open.spotify.com/artist/1p11ASxd4v3ZAMkYgMtxOK) | [Corinne](https://open.spotify.com/album/1rZC9cRFPOo0ouBM7fVMSR) | 2:37 | 2022-02-25 |  |
 | [Cosa Succede Se](https://open.spotify.com/track/00Z7iLsR10x9y00gAZ2Nx3) | [Lucio Francesco](https://open.spotify.com/artist/6SmEyMlUWcw5nzD9YmCCRN) | [Pensieri](https://open.spotify.com/album/12vugt6x4fyG5Uz1enF7zP) | 3:03 | 2021-12-10 |  |
+| [Counting Days](https://open.spotify.com/track/6ICbjz9nRT7tRGDrkabqc6) | [Twilight Time](https://open.spotify.com/artist/3TMpH9YDPUAnGeC5oEtq21) | [Counting Days](https://open.spotify.com/album/6XuscYT9AD9Q45AbvswZVA) | 2:37 | 2022-11-11 |  |
 | [Crystal Clear](https://open.spotify.com/track/0e0z6ymF9TCNEJqvunBVT5) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [KEEN: Peace & Calm Vol\. 1](https://open.spotify.com/album/6Y3wbX1sgVdf2KAVJ0nPt7) | 2:07 | 2021-12-10 | 2022-07-29 |
 | [Crystal Clear](https://open.spotify.com/track/1Z5UON4QasVDZHr52LVg1B) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [The Road To Meteora](https://open.spotify.com/album/3PLSbFdaSc9nHiZsdutrAz) | 2:07 | 2022-07-12 | 2022-10-15 |
 | [Crépuscule](https://open.spotify.com/track/4FE9jhuatcOZZYoHdBDN8T) | [Matilda Charpie](https://open.spotify.com/artist/5W0bcXKJ4xnO3q0ViObq0N) | [Crépuscule](https://open.spotify.com/album/4XWPYDTAaQvjhDSKWbsHP9) | 4:05 | 2021-12-10 | 2022-08-13 |
@@ -70,8 +72,10 @@
 | [Dvala](https://open.spotify.com/track/3MOqT1Ka4jEf9PKSafbDiT) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Dvala](https://open.spotify.com/album/0cE9nCfxJWkXE9MbB8jAuZ) | 2:57 | 2021-12-10 |  |
 | [Echo Valley](https://open.spotify.com/track/4jx3Qj8UTIze5LxJ0WI9x0) | [Xavier H Summers](https://open.spotify.com/artist/18ql1O0CcgLfH59H18jrOc) | [Echo Valley](https://open.spotify.com/album/5AhOkc8DDvQLlLJw45AY0K) | 2:27 | 2021-12-10 |  |
 | [Eclipse](https://open.spotify.com/track/2roGc5wvCNpRmUckCDMUON) | [Indra Jamal](https://open.spotify.com/artist/093uaz0ncoUvd9mN3jKF3E) | [Eclipse](https://open.spotify.com/album/4CLRGpIhLUCwhSJXydDeme) | 3:02 | 2021-12-10 |  |
+| [Efflorescence](https://open.spotify.com/track/4iaZYHsfo1yuZmM9IlTl9g) | [Zhou Thiemo](https://open.spotify.com/artist/3melX7nvzHoJ9w8pCvpTRK) | [Efflorescence](https://open.spotify.com/album/1B6egnIEsekK1eGnNr7yLC) | 3:00 | 2022-11-11 |  |
 | [Endless Dreams](https://open.spotify.com/track/5FRXHIqQWQwIjy736eeESN) | [Vilhelm Brandt](https://open.spotify.com/artist/4k5hcVGerX1LVQ79iXD52S) | [Endless Dreams](https://open.spotify.com/album/0BIZn1Ofz8W7MUIe2cytCh) | 3:07 | 2021-12-10 |  |
 | [Equanimity](https://open.spotify.com/track/5Jq46as1MfI6dYJHgsWr8G) | [Melanie Adler](https://open.spotify.com/artist/551CfpY5WmasLWB8Ir0EKx) | [Equanimity](https://open.spotify.com/album/47dxX9iLiwVnc7CPq3uvHw) | 2:07 | 2021-12-10 |  |
+| [Espiritual](https://open.spotify.com/track/7cRsioZ4YNDjG7ueNhgMui) | [Nait](https://open.spotify.com/artist/45XwPTweTKUqmRfCkuGzCs) | [Espiritual](https://open.spotify.com/album/0uSSxGvk8Z85gcbDMkUS8q) | 1:55 | 2022-11-11 |  |
 | [Essence Of Life](https://open.spotify.com/track/1AEY6qqRFUTssOXfRZOh9p) | [Sama Reicart](https://open.spotify.com/artist/37ciUEYtMGcDUn53mDSCtb) | [Essence Of Life](https://open.spotify.com/album/6meq3ncBqgqKwKmA8Zy7zR) | 3:15 | 2022-10-14 |  |
 | [Eternal Divide](https://open.spotify.com/track/03YjqSYOKjETRbSyRuVXSn) | [Planet Pi](https://open.spotify.com/artist/6mdD8pnh12ENYpp2xIfJqg) | [Eternal Divide](https://open.spotify.com/album/6ivJ2Ybm4CuF6Ass8L0DGQ) | 3:21 | 2021-12-10 |  |
 | [Eudoxie](https://open.spotify.com/track/1onEytWdEeDCZoyF8VOOA9) | [Irizarry Barraza](https://open.spotify.com/artist/3l8Rz2GBf5iqZUpd4FjlLW) | [Eudoxie](https://open.spotify.com/album/402X73RJSmxYwo0ndY8A21) | 3:33 | 2021-12-10 |  |
@@ -121,6 +125,7 @@
 | [Lato](https://open.spotify.com/track/4Dud0QWbw1Xp3z7tqpg1NA) | [Aleksy Wysocki](https://open.spotify.com/artist/3GXTl6tHXIzPcthbBCEskf) | [Lato](https://open.spotify.com/album/1wTOeWZPH0QdpjjhK5VZvm) | 2:07 | 2021-12-10 |  |
 | [Le marchand de sable est passé](https://open.spotify.com/track/4ZHotLx5jX1MPDixEhEakI) | [Delit Quirion](https://open.spotify.com/artist/3Mw8wFkvBzL2syoPuEhM3X) | [Le marchand de sable est passé](https://open.spotify.com/album/6sPS38qm4ZftAtfS8C9iKH) | 3:45 | 2021-12-10 |  |
 | [Les cieux du printemps](https://open.spotify.com/track/1CQqk6DcfC0Q9Iw3jS8UxH) | [Serouj](https://open.spotify.com/artist/2S4Y2TX5b3gYApFYtIzzU2) | [Les cieux du printemps](https://open.spotify.com/album/77vUJEBj4Muy8BCTDqHpfD) | 2:46 | 2021-12-10 |  |
+| [Let The Lights On](https://open.spotify.com/track/5jbEgWSfbxBA7573jEnYhr) | [Christine Malowe](https://open.spotify.com/artist/6v132t3GaQZqfu3okc5VoO) | [Let The Lights On](https://open.spotify.com/album/4L3rZkyKokj7M23tAAgLCF) | 3:01 | 2022-11-11 |  |
 | [Letting Go](https://open.spotify.com/track/1S7ulK4PlPK3KvOWrAq0PG) | [Milo Graves](https://open.spotify.com/artist/5hzPkgJBMM9LUlO00sH6TV) | [Inner Spirit](https://open.spotify.com/album/0mV5nvQuTZt7HpQO6q9CXA) | 2:35 | 2021-12-10 |  |
 | [Loss Trancends to Gain](https://open.spotify.com/track/3KSS4USSsOhXesezYsbaMa) | [Eleanor Arroway](https://open.spotify.com/artist/3x2VCXXsd5bySXXdbhLZPJ) | [Spiritual Synchronicities](https://open.spotify.com/album/1YbA9gfaowEwRK64Se0Q5b) | 4:17 | 2021-12-10 |  |
 | [Lost at Sea](https://open.spotify.com/track/13TlLMjvV0pZqBF7DKIs94) | [The Tides](https://open.spotify.com/artist/0Z3GVEGMJYq0nTdZNJAx4V) | [Wandering the Coast](https://open.spotify.com/album/2ufoGt7vrupWII9nAa2pfa) | 3:12 | 2021-12-10 | 2022-09-03 |
@@ -178,6 +183,7 @@
 | [Postojna Cave](https://open.spotify.com/track/2wmDt99ctDHWmv90eCUmha) | [Goran Sveic](https://open.spotify.com/artist/6IKG997m7bF9OUAGkkdFtL) | [Postojna Cave](https://open.spotify.com/album/4yBH7PEvcVyTzbfBL0Gkr7) | 2:02 | 2021-12-10 |  |
 | [Pour que tu m’aimes encore](https://open.spotify.com/track/4C9ysvTrYnfCjZ8x8HJWp8) | [Joséphine Auclair](https://open.spotify.com/artist/0apUwW6GnlGwDJLyV35jUy) | [Pour que tu m’aimes encore](https://open.spotify.com/album/5Xbze3vkFASbO4tX2rHNuU) | 2:35 | 2021-12-10 |  |
 | [Psalm \#1](https://open.spotify.com/track/2M3TYW4G60raCQnznf0e1o) | [René Sturgess](https://open.spotify.com/artist/5gEyAqENfIITIqk0dUaPUm) | [Psalm \#1](https://open.spotify.com/album/5Pa5qVrKMenKj5XTGkr1JL) | 1:49 | 2021-12-10 | 2022-08-13 |
+| [Puesta Del Sol](https://open.spotify.com/track/4LQTYB6AiOSp1XJpvA6ger) | [Mergen Aurel](https://open.spotify.com/artist/3xcPKdQ9jaodfrdkUR725f) | [Puesta Del Sol](https://open.spotify.com/album/30vNexbOhaTvF52XXULEu9) | 2:48 | 2022-11-11 |  |
 | [Pulses](https://open.spotify.com/track/0g9YBXqgJJ7eRhlTxZyLj0) | [Joan Sterling](https://open.spotify.com/artist/60EppBmOMzamUBBmTjwCdM) | [Pulses](https://open.spotify.com/album/1re1THpQwIZVSnf5O7zgWu) | 2:10 | 2021-12-10 | 2022-10-15 |
 | [Purple Skies](https://open.spotify.com/track/0FgH4pMsTovHYDLs49l5LJ) | [Wolf Keller](https://open.spotify.com/artist/0nL3okOqVl6PvsOmtzWwkb) | [Purple Skies](https://open.spotify.com/album/6kVpioXtXTxlQHZz7bzb2b) | 3:09 | 2021-12-10 |  |
 | [Purple Sunrise](https://open.spotify.com/track/6DkUtEi0XgqV8LmnbDVpna) | [IFEELU](https://open.spotify.com/artist/59TdBGgpKBf2dRrmguF06s) | [Purple Sunrise](https://open.spotify.com/album/1fySOtQ7AtVUlLmwzvd0tg) | 2:57 | 2021-12-10 |  |
@@ -191,6 +197,7 @@
 | [Resurrection](https://open.spotify.com/track/0BtJKY7UaAtw4ViVQJHOHI) | [Reinhard Krause](https://open.spotify.com/artist/51sDI12AiFuof8oXlSrdnM) | [Eternity](https://open.spotify.com/album/5HxEiomNu1exVfU8cokO0A) | 2:00 | 2021-12-10 |  |
 | [Ripples](https://open.spotify.com/track/0ft0r0FkcehEinp25jwzZi) | [Ningaloo](https://open.spotify.com/artist/5q3gVyAUO2idTLuANq9HAu) | [Ripples](https://open.spotify.com/album/4Xqssg19DANuwZyaRuvjzK) | 2:42 | 2021-12-10 |  |
 | [Ripples In Time](https://open.spotify.com/track/3Fmr1WYpTqDlE75KvvxHkx) | [Songs On The Moon](https://open.spotify.com/artist/7pARwZNsXOsLQQ2A21S4Us) | [Ripples In Time](https://open.spotify.com/album/7ypvndLBxxeZ2IlXTMCnSY) | 2:40 | 2021-12-10 |  |
+| [Rising](https://open.spotify.com/track/0Qy6plsdEVd1MIYBIXFJuJ) | [Ami Sanou](https://open.spotify.com/artist/5Xqwv6jmmqS1Vx9vYJtAzY) | [Rising](https://open.spotify.com/album/6L2Zy4AGt4Js9crCKuPwnQ) | 2:34 | 2022-11-11 |  |
 | [Salve](https://open.spotify.com/track/3ciGnLsselzhecVZZiHzfZ) | [Ferdinando Zetticci](https://open.spotify.com/artist/4MLLLG0z38an4nXddu8R3O) | [Salve](https://open.spotify.com/album/73yZQQSNzwlGyMBwndXjrd) | 2:50 | 2021-12-10 |  |
 | [Sarek](https://open.spotify.com/track/7tN9gRPc8eYR9mS5cQsV0M) | [Laponia](https://open.spotify.com/artist/2ofMsV0f4ziG96f4ZKPzGr) | [Sarek](https://open.spotify.com/album/2CmyrbcaDXk5SulZg9nRIi) | 2:10 | 2021-12-10 |  |
 | [Scared To Lose Someone](https://open.spotify.com/track/5BRBfTf0rRIfJgXVacS6cL) | [Bryn Williams](https://open.spotify.com/artist/2EYQUBVJqp5CH3lOSj5FLJ) | [Scared To Lose Someone](https://open.spotify.com/album/3jrXoHU10DsH3EFAuIK9Bo) | 2:13 | 2021-12-10 | 2022-08-13 |

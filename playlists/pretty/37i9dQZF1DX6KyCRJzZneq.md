@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KyCRJzZneq.md) - [plain]
 
 > <a href="spotify:genre:0JQ5IMCbQBLzTital6q4J3">Click here to explore more rapid changes, complex progressions and improvisation\.  </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,503 likes - 45 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,579 likes - 45 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,11 +47,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KyCRJzZneq.md) - [plain]
 | 37 | [Airegin \- RVG Remaster](https://open.spotify.com/track/6KvK5mvFIx4JjfVU0gjl7j) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR), [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5), [Kenny Clarke](https://open.spotify.com/artist/7xwlN7fhoOwNgDmRTwYZOa), [Percy Heath](https://open.spotify.com/artist/0vKbTTNdtagd8xiERj6Szb) | [Bags' Groove \(Rudy Van Gelder Remaster\)](https://open.spotify.com/album/3rs2Wq1755vGmXxIioU7Xo) | 4:59 |
 | 38 | [Nutty](https://open.spotify.com/track/0sWqnxofErf7mk8VKgbrXw) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Thelonious Monk with John Coltrane \(OJC Remaster\)](https://open.spotify.com/album/5WqkiRiXHyiML0QkLjqooy) | 6:38 |
 | 39 | [Yardbird Suite](https://open.spotify.com/track/3s8K5qEnKnqI0UJussDgjR) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [The Genius Of Charlie Parker](https://open.spotify.com/album/7gLP8EvsusOiFKu0G2yjzQ) | 2:55 |
-| 40 | [My Favorite Things](https://open.spotify.com/track/45mRiuCMudVfPbndTvTYnr) | [J.J\. Johnson](https://open.spotify.com/artist/3hZ5sdhYTvgrmXIwtVwqmS) | [J.J.'s Broadway](https://open.spotify.com/album/2oPDLNSWKOLIYLfHsB7h75) | 4:14 |
+| 40 | [My Favorite Things](https://open.spotify.com/track/5YKNMKiNljtAhcw5y5wFnz) | [J.J\. Johnson](https://open.spotify.com/artist/3hZ5sdhYTvgrmXIwtVwqmS) | [Christmas Dinner Party](https://open.spotify.com/album/3DHkMDDJ9idaUq5yQVyg0y) | 4:14 |
 | 41 | [Move](https://open.spotify.com/track/7ztCJ7Xi2xHcKCIFTf7c6g) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Jazz Legends: Miles Davis](https://open.spotify.com/album/0G2uOeDDMYwHXKGDxIjz9X) | 2:33 |
 | 42 | [A Night In Tunisia](https://open.spotify.com/track/5fxJzPPvuvdhHypgme9cVX) | [Dizzy Gillespie](https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn) | [Birks Works: The Verve Big\-Band Sessions](https://open.spotify.com/album/7yyH8DozyrWFMEAWhCV2oS) | 5:34 |
 | 43 | [Lester Left Town](https://open.spotify.com/track/4YiP13DBr6osYKZd9KODGY) | [Art Blakey & The Jazz Messengers](https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz) | [The Best Of Art Blakey](https://open.spotify.com/album/1UqQnjYh6B04eH4vDhjlJS) | 6:27 |
 | 44 | [Invisible](https://open.spotify.com/track/2lwlScELPERmPJzsemoone) | [Ornette Coleman](https://open.spotify.com/artist/47odibUtrN3lnWx0p0pk2P) | [Something Else!!!!: The Music Of Ornette Coleman \(Original Jazz Classics Remasters\)](https://open.spotify.com/album/0uTu0OfCWW6U5hAxDPH1r7) | 4:15 |
 | 45 | [Love For Sale](https://open.spotify.com/track/2HlT0tEiELR2wLgsJhBHYV) | [Sonny Criss](https://open.spotify.com/artist/5HL4KA3y1IyeAD2TbgaoYe) | [This Is Criss!](https://open.spotify.com/album/5RddAbKe6UJ22nodgQ6vPB) | 6:25 |
 
-Snapshot ID: `MTYzMDMzNjI2NSwwMDAwMDAwMDFjYmU0MTE2NGZiNmIzM2E1ZWY2MDg4NTViYTMzZmU2`
+Snapshot ID: `MTYzMDMzNjI2NSwwMDAwMDAwMDE2YzRmNmNiODQ4NTczNDVmODYyY2I3OGYzNTBlN2Qz`

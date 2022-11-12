@@ -4,7 +4,7 @@
 
 > Amigo, ven te invito una copa...
 
-98 songs - 6 hr 12 min - [published](https://open.spotify.com/playlist/4wWNt6GsmMvcFRUsO8irNk)
+100 songs - 6 hr 20 min - [published](https://open.spotify.com/playlist/4wWNt6GsmMvcFRUsO8irNk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,8 @@
 | [Los Hombres No Deben Llorar](https://open.spotify.com/track/705pAm0eXVhL5YDprwYqbQ) | [King Clave](https://open.spotify.com/artist/71FVpPyLHxYTn3CfUOJq7f) | [Los Hombres No Deben Llorar](https://open.spotify.com/album/3B9ucoKy0j4V20ANOXmlCr) | 3:17 | 2020-09-10 | 2022-11-11 |
 | [Los Hombres No Deben Llorar](https://open.spotify.com/track/0wqvXVSwZPQXSsZOUdPp1K) | [King Clave](https://open.spotify.com/artist/71FVpPyLHxYTn3CfUOJq7f) | [Idolos de Argentina](https://open.spotify.com/album/35FMUuGODtyT4i6OcU4tCT) | 3:17 | 2020-09-10 |  |
 | [Maracas](https://open.spotify.com/track/3nKCBdEMj46mWNt2p4hFAq) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Los Mejores Duetos De](https://open.spotify.com/album/5AgB60Z3LgBvN4tIvw9Xd3) | 3:09 | 2020-09-10 | 2022-07-29 |
-| [Maracas](https://open.spotify.com/track/5Cf8MCD6NcYvy8RQL2khAS) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1), [Alberto Vazquez](https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc) | [Grandes Duetos](https://open.spotify.com/album/33DVEiEzNDnc0Ojj2knqtS) | 3:08 | 2020-09-10 |  |
+| [Maracas](https://open.spotify.com/track/5Cf8MCD6NcYvy8RQL2khAS) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1), [Alberto Vazquez](https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc) | [Grandes Duetos](https://open.spotify.com/album/33DVEiEzNDnc0Ojj2knqtS) | 3:08 | 2020-09-10 | 2022-11-12 |
+| [Maracas](https://open.spotify.com/track/5CrzFDK0cq8ATv6fMwcbQc) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1), [Alberto Vazquez](https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc) | [Las Meritas Rolas](https://open.spotify.com/album/5YFS2n2pOsK6pALUUeTKi2) | 3:08 | 2020-09-10 |  |
 | [Me Dediqué a Perderte](https://open.spotify.com/track/4NUt1fcnO9aQAELBgXq3Kr) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [A Corazón Abierto](https://open.spotify.com/album/1MTvtQtk1V2gqCNxnu5cNA) | 3:51 | 2020-09-10 |  |
 | [Mentiras](https://open.spotify.com/track/6nAFf74plLQD5wGVzTVgqx) | [Daniela Romo](https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y) | [Serie 3X4 \(Yuri, Pandora, Daniela Roma\)](https://open.spotify.com/album/5aA1T2eSRBpRDCGuzJWmoV) | 3:51 | 2020-09-10 |  |
 | [Mentiras](https://open.spotify.com/track/0SeEBAaBmDPJmGmhub9SX7) | [Daniela Romo](https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y) | [Solo Lo Mejor: 20 Exitos](https://open.spotify.com/album/5L3DgJ6F7THYRV9mNTJxvD) | 3:56 | 2020-09-10 | 2022-07-29 |
@@ -79,8 +80,9 @@
 | [Que Ganas de No Verte Nunca Mas](https://open.spotify.com/track/1a7QDKA1rQeb6yBtWqQw4A) | [Lupita D'Alessio](https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en) | [Las 15 Consagradas](https://open.spotify.com/album/6m5h3OTjm2V0Jo5I2ckwTa) | 3:55 | 2020-09-10 |  |
 | [Quiero Dormir Cansado](https://open.spotify.com/track/6LmKDVBBlMsWqUbuNTeCuF) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Solo Exitos](https://open.spotify.com/album/5b01rzpRKnF0NZXgdcgcA1) | 4:01 | 2020-09-10 |  |
 | [Señora de las Cuatro Décadas](https://open.spotify.com/track/0TYb115LHay4fUJ3auc8X6) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Historias](https://open.spotify.com/album/110rZdMmIjA335CehJJkuk) | 5:06 | 2020-09-10 |  |
-| [Si No Te Hubieras Ido](https://open.spotify.com/track/3l1ZanpJ3jFQZMqATizqfE) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [La Historia Continúa...Parte IV](https://open.spotify.com/album/6ziRoYI3rWu4TOAUeIJuNO) | 4:46 | 2020-09-10 |  |
+| [Si No Te Hubieras Ido](https://open.spotify.com/track/3l1ZanpJ3jFQZMqATizqfE) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [La Historia Continúa...Parte IV](https://open.spotify.com/album/6ziRoYI3rWu4TOAUeIJuNO) | 4:46 | 2020-09-10 | 2022-11-12 |
 | [Si No Te Hubieras Ido](https://open.spotify.com/track/62qI8m0sXpzlSjYYx0nZ83) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Trozos De Mi Alma](https://open.spotify.com/album/1WHFGlWrRILqkkd2LLflFn) | 4:47 | 2020-09-10 | 2022-07-29 |
+| [Si No Te Hubieras Ido](https://open.spotify.com/track/7BDTgXVdWYyAiW76xrdeAm) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Momento Retro vol\. I](https://open.spotify.com/album/4URCrtMbYzClIt2f6VpstT) | 4:49 | 2020-09-10 |  |
 | [Siempre en Mi Mente](https://open.spotify.com/track/5vmqRHDrMgdbw3CIvQycbj) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Siempre En Mi Mente](https://open.spotify.com/album/7mTaxiOrJEbh3aCHC7Gnkm) | 3:25 | 2020-09-10 |  |
 | [Sola Con Mi Soledad](https://open.spotify.com/track/1DocEW5Vym3fuAHkWN81LE) | [Marisela](https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2) | [15 Éxitos de Marisela, Vol\. 2](https://open.spotify.com/album/4pNjXSgSDPrN2jsJnurJOW) | 3:49 | 2020-09-10 | 2022-07-29 |
 | [Sola Con Mi Soledad](https://open.spotify.com/track/5piVXhB5leKZ3kF5nFSiDZ) | [Marisela](https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2) | [15 Éxitos de Marisela Vol\. 2](https://open.spotify.com/album/4fNcKuACla3rJrdwA5s2hn) | 3:49 | 2020-09-10 |  |

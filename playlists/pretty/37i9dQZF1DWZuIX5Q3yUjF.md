@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 
 > Il meglio dell'R&B italiano\. Cover: Nane'
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,801 likes - 95 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,813 likes - 95 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 | 29 | [SINCERO](https://open.spotify.com/track/1LLZBXC83e2qBZBSTdxyf5) | [HERMES](https://open.spotify.com/artist/7w59Z3nldYeBSD1E2eJRWm) | [SINCERO](https://open.spotify.com/album/5PF3YX0cZsjXPgBnELtsyB) | 2:58 |
 | 30 | [Così](https://open.spotify.com/track/6a8R1ynqMFc6BFOeulmRRF) | [Raçhelle](https://open.spotify.com/artist/2r7IipknIr6LbCIxoXBkuw) | [Così](https://open.spotify.com/album/4xA1F2laLObcuaFPjSfCaY) | 2:07 |
 | 31 | [Anima mundi](https://open.spotify.com/track/4MWXNcxdX4PR7Xm5zBLrVa) | [Orlvndo](https://open.spotify.com/artist/3Bmu3aOG2LZCHs0Isd3w5v) | [Anima mundi](https://open.spotify.com/album/7pSPAplcwIKW6HxUUNhIRu) | 2:42 |
-| 32 | [Fidarti di me](https://open.spotify.com/track/5uisDrJM8rnWmmUrUTVJMw) | [Louis Dee](https://open.spotify.com/artist/0cqKe5aIp6diwasKdXzJF6), [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Fidarti di me](https://open.spotify.com/album/0kqngU92rC6rrcWfdjQUSA) | 2:40 |
+| 32 | [Fidarti di me](https://open.spotify.com/track/5uisDrJM8rnWmmUrUTVJMw) | [Big Joe](https://open.spotify.com/artist/4QoNMSDOoT1DkexKr6VqQR), [Louis Dee](https://open.spotify.com/artist/0cqKe5aIp6diwasKdXzJF6), [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Fidarti di me](https://open.spotify.com/album/0kqngU92rC6rrcWfdjQUSA) | 2:40 |
 | 33 | [Mariposa](https://open.spotify.com/track/7lQ4yvORROiXuznj1ZoTOP) | [M¥RA](https://open.spotify.com/artist/3bSIOqKFJHDEVnuBSuOwWa) | [Mariposa](https://open.spotify.com/album/2OZ46QQ4k72Hsy15w4Lvsl) | 3:36 |
 | 34 | [supernova](https://open.spotify.com/track/1HgQFrZi1J4RuhJ9Z4MAcD) | [anice](https://open.spotify.com/artist/0Sf5IqezdIhXjKogXm0Nad) | [supernova](https://open.spotify.com/album/2LuWFJRsciGayhfir9BNhz) | 2:37 |
 | 35 | [r!va \(feat\. Pinguini Tattici Nucleari\)](https://open.spotify.com/track/3vCa88ij0fqwttqJ7E7pQL) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [c@ra++ere s?ec!@le](https://open.spotify.com/album/7nDSuDHGJMKFtUTEEVJvUS) | 2:50 |

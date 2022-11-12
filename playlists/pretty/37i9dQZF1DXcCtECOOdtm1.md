@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCtECOOdtm1.md) - [plain]
 
 > Get fascinated by Japanese City Pop from the ‘90s with Shibuya\-kei flavor./ シティポップの発展が渋谷系へと向かう。多幸感に溢れる時代の空気と共に、モードな再構築が新たなカルチャーを生んだ。
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,570 likes - 50 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,614 likes - 50 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCtECOOdtm1.md) - [plain]
 | 40 | [PERFECT RAINBOW](https://open.spotify.com/track/2lDjU7CavwuSkwiQUs9Jwl) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [The First Question Award](https://open.spotify.com/album/34R5kaIgo2RPsMS2tb4xjc) | 4:22 |
 | 41 | [Ajisai](https://open.spotify.com/track/7t9HEeNNFRpGMbIXtSMkdZ) | [Sunny Day Service](https://open.spotify.com/artist/4cSyPcpldERtF4eL3NB9dn) | [BEST SKY](https://open.spotify.com/album/6NGBmz6MkGlAVq2jtADTRm) | 4:21 |
 | 42 | [WATERMELON](https://open.spotify.com/track/081ccCOe9myoXhqDm9uNTh) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Yukihiro Takahashi](https://open.spotify.com/artist/5Rv28BOArteQRhL8YUYgD5) | [グランプリ](https://open.spotify.com/album/6P1m4VZS1ekXm2WPhy0zGH) | 5:36 |
-| 43 | [Winter's Tale \~冬物語\~](https://open.spotify.com/track/5OJfMJasV2Cr6n7DKNiruL) | [Hiroshi Takano](https://open.spotify.com/artist/1Z3tfBrHfzbWjvnOQh9GnO), [Takao Tajima](https://open.spotify.com/artist/3SH8KJyDPMZZz7kqAm41NV) | [Free Soul Original Love 90s\~EMI Years](https://open.spotify.com/album/1y4XMGzhAqUZcfpxh9zQ7R) | 5:15 |
+| 43 | [Winter's Tale \~冬物語\~](https://open.spotify.com/track/4IMi0SpaSvBuOL11wUftRN) | [Hiroshi Takano](https://open.spotify.com/artist/1Z3tfBrHfzbWjvnOQh9GnO), [田島貴男](https://open.spotify.com/artist/1b0g24xzPLwgVceaNJXIAU) | [TOKYO SHIBUYA\-KEI](https://open.spotify.com/album/7sPsL4NpNOdD4NxdhrP5M5) | 5:17 |
 | 44 | [淡い季節のサングラス](https://open.spotify.com/track/2LVc1ovrUpZiB7Q2SY7BvV) | [Mikiko Noda](https://open.spotify.com/artist/6rAxZysBIWlwb9wTPPyXwp) | [Rose C'est La Vie](https://open.spotify.com/album/710F6Uqw8f953NxyS3V4iK) | 4:47 |
 | 45 | [6月の雨](https://open.spotify.com/track/3Yj7zIxt2FUFSoeGZR9W7q) | [Yumi Tanimura](https://open.spotify.com/artist/795ohAwDw5aYIOy7K69oJF) | [PRISM](https://open.spotify.com/album/7CXKBaIUgFp0PPNJhKM0lF) | 4:05 |
 | 46 | [DRIVE](https://open.spotify.com/track/3LqAJsEdVCZ8m4BaN81gPH) | [ICE](https://open.spotify.com/artist/2Aszv4lzEl7Nmv4NdzHlDN) | [TOKYO \- LATE NIGHT BREEZE \-](https://open.spotify.com/album/4PH1nBfXyPW6ZipUfE1lpj) | 4:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCtECOOdtm1.md) - [plain]
 | 49 | [双子座グラフィティ \- 2014 Remaster](https://open.spotify.com/track/6SbhXWE47UAGZIYZNcZxkX) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7) | [SINGLES BEST〜Archives〜 \(完全版\) \[リマスター\]](https://open.spotify.com/album/5aofoE06bWoCF43ZXHU4jk) | 4:50 |
 | 50 | [Girl Talk \~never fall in love again\~](https://open.spotify.com/track/2D2Z9gHas01CpA2ciEfDru) | [COSA NOSTRA](https://open.spotify.com/artist/3XTQoYcUS34mM1jloWW85u) | [SEVEN](https://open.spotify.com/album/6KPK1tNvB5qZTJeTBrji7X) | 4:20 |
 
-Snapshot ID: `MTYxODUwNTg1NywwMDAwMDAwMGJlN2EyMmMzNjNkYTlkNGIxNWY3MTNhYzFjMzc1NWQ4`
+Snapshot ID: `MTYxODUwNTg1NywwMDAwMDAwMDMwOGJiOTRlMDkyMTRhNjZiNDA5MmI0MTA1OTA2YTJm`

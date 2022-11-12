@@ -4,7 +4,7 @@
 
 > 유행은 돌고 돌아! 레트로에 새로움을 더한 뉴트로 댄스 음악을 즐겨보세요\. \(커버: SUNMI\(선미\)\)
 
-156 songs - 9 hr 13 min - [published](https://open.spotify.com/playlist/5TvEGY4L7IQ4l4nYERahnP)
+157 songs - 9 hr 17 min - [published](https://open.spotify.com/playlist/5TvEGY4L7IQ4l4nYERahnP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,8 @@
 | [Sign \(SPACECOWBOY Ver.\) \- SPACECOWBOY Ver.](https://open.spotify.com/track/3NhqxjzhOoPhuxU01ecBCK) | [Kim Areum](https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp) | [AQUA CITY](https://open.spotify.com/album/6zwAQwh8Hk0XFWaBfXoux2) | 3:58 | 2021-12-07 |  |
 | [Siren](https://open.spotify.com/track/0gEnVDMhKKjF1qXuvBwq91) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [WARNING](https://open.spotify.com/album/3FlTMPuc3cWXTosTmXOnCr) | 3:19 | 2022-07-04 |  |
 | [Siren](https://open.spotify.com/track/6ySoz8mujfiQS37xjEEZCv) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [WARNING](https://open.spotify.com/album/7FapH4ThxhFnwohoMGs4dR) | 3:19 | 2021-12-07 | 2022-07-29 |
-| [Sorrow](https://open.spotify.com/track/0ShMzeKXipiFZCto7NK0ad) | [RAVI](https://open.spotify.com/artist/42xj5mBLvrFdW6tYns6mxs), [YERI](https://open.spotify.com/artist/4xzwjGxzfKglU0cNW4q4l1), [KIM WOO SEOK](https://open.spotify.com/artist/4k2MyP64uZ78mvjKd1Ciq2) | [Sorrow](https://open.spotify.com/album/4exbO6NlFUfEK4cnXEljkP) | 3:30 | 2022-07-04 |  |
+| [Sorrow](https://open.spotify.com/track/0ShMzeKXipiFZCto7NK0ad) | [RAVI](https://open.spotify.com/artist/42xj5mBLvrFdW6tYns6mxs), [YERI](https://open.spotify.com/artist/4xzwjGxzfKglU0cNW4q4l1), [KIM WOO SEOK](https://open.spotify.com/artist/4k2MyP64uZ78mvjKd1Ciq2) | [Sorrow](https://open.spotify.com/album/4exbO6NlFUfEK4cnXEljkP) | 3:30 | 2022-07-04 | 2022-11-12 |
+| [Sorrow](https://open.spotify.com/track/66SNhXgISELtrMaRAzsNIL) | [RAVI](https://open.spotify.com/artist/42xj5mBLvrFdW6tYns6mxs), [YERI](https://open.spotify.com/artist/4xzwjGxzfKglU0cNW4q4l1), [KIM WOO SEOK](https://open.spotify.com/artist/4k2MyP64uZ78mvjKd1Ciq2) | [Fever Music 2020 Cool Summer Project](https://open.spotify.com/album/5U0qZV4ms3hwfyac60f2br) | 3:30 | 2022-10-18 |  |
 | [Sorrow \(from Cool Summer Project\)](https://open.spotify.com/track/0Wr4uXtBKDkOgvXBGRbwW9) | [RAVI](https://open.spotify.com/artist/42xj5mBLvrFdW6tYns6mxs), [YERI](https://open.spotify.com/artist/4xzwjGxzfKglU0cNW4q4l1), [KIM WOO SEOK](https://open.spotify.com/artist/4k2MyP64uZ78mvjKd1Ciq2) | [Sorrow \(from Cool Summer Project\)](https://open.spotify.com/album/1zlyNnAFYIdmjOTCuvucwv) | 3:30 | 2021-12-07 | 2022-07-29 |
 | [Sorry For My English](https://open.spotify.com/track/0KVgGXhsddvkc8arY0phMK) | [IN2IT](https://open.spotify.com/artist/43GYq8c6nVEgaEyg0qtzJd) | [Into the Night Fever](https://open.spotify.com/album/4lyqblvJqo2aPEwa6zbtRC) | 3:01 | 2021-12-07 | 2022-07-29 |
 | [Sorry For My English](https://open.spotify.com/track/1ofO4zGsmNvVQ5yVGeCGCo) | [IN2IT](https://open.spotify.com/artist/43GYq8c6nVEgaEyg0qtzJd) | [Into the Night Fever](https://open.spotify.com/album/4icRVwq9LJzREocHzjnY03) | 3:01 | 2022-07-04 |  |

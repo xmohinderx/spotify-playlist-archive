@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxlTjrCu8cE.md) - [plain]
 
 > A Luiza preparou uma playlist especial pro momento de autocuidado <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,230 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,224 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxlTjrCu8cE.md) - [plain]
 | 31 | [I Wish I Missed My Ex](https://open.spotify.com/track/3f50PY0yOtMHo9BgCX9WRJ) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [LOVE AND COMPROMISE](https://open.spotify.com/album/6tbaSZ6Q72kofaJtscUwFA) | 3:23 |
 | 32 | [Wicked Games](https://open.spotify.com/track/0TYhf0MgEj4YJaKwo5c4Km) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Selfless](https://open.spotify.com/album/3mt812NnyqmyhujjNNT1oP) | 3:01 |
 | 33 | [Bad Girls](https://open.spotify.com/track/6nzXkCBOhb2mxctNihOqbb) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Matangi](https://open.spotify.com/album/3dAxXNscIj0p53lBMEziYR) | 3:47 |
-| 34 | [I Don't Want It At All](https://open.spotify.com/track/4xhYxKvAxtrRd83MiqOy29) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [I Don't Want It At All](https://open.spotify.com/album/6TreAlV1VSMi8UmHl7byC4) | 4:10 |
+| 34 | [I Don't Want It At All](https://open.spotify.com/track/3NnXeidvZtBnJHGgVA82aQ) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Kiss Me](https://open.spotify.com/album/4GVfR3RWeSfO5AHkYCcTSW) | 4:10 |
 | 35 | [STEREOTYPE](https://open.spotify.com/track/2bZIDMpzVooosmPHn0tHnd) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [STEREOTYPE](https://open.spotify.com/album/7HGjNJBj1NQGNwCzFD2LHj) | 3:11 |
 | 36 | [Aye Yai Yai \(with Yung Bleu\)](https://open.spotify.com/track/2QODQZUTSvhdAdXvQO418e) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [Trendsetter](https://open.spotify.com/album/5diRNQUhdOVkGo8TbWnMIx) | 3:03 |
 | 37 | [Boys Ain't Shit](https://open.spotify.com/track/6vzLbfskWigBsCzNdB0kfE) | [SAYGRACE](https://open.spotify.com/artist/6y5amJcTjeDgLXIjtQLMst) | [Boys Ain't Shit](https://open.spotify.com/album/14h9GgdPLs6rnEqORICaAm) | 2:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxlTjrCu8cE.md) - [plain]
 | 49 | [Girls Need Love \(with Drake\) \- Remix](https://open.spotify.com/track/1axArDrl7n4M3QZMNN0XMs) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Over It](https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK) | 3:42 |
 | 50 | [Girls](https://open.spotify.com/track/1LFu0JwC7x6CFLc6jpRKzH) | [Vetta Borne](https://open.spotify.com/artist/1abBE3BrkgQYrBpcgqrAws) | [Girls](https://open.spotify.com/album/5pmNkvkpQCHdFvdbwEM2aa) | 3:24 |
 
-Snapshot ID: `MTY1MzkxOTM3MiwwMDAwMDAwMDRkYzRiNDYwMGE4MDYyMDdmNTA1YTMwM2FjZjMxNTY1`
+Snapshot ID: `MTY1MzkxOTM3MiwwMDAwMDAwMGNmNTA0MGI1NWQzYTUyOGM0NDc5MTdiOTNlMWM0ZjVi`

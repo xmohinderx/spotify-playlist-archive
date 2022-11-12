@@ -4,7 +4,7 @@
 
 > Fancy Hagood co\-curates a list of the very best songs from LGBTQQIA+ artists and allies Music City has to offer!
 
-46 songs - 2 hr 42 min - [published](https://open.spotify.com/playlist/5JA3OzXsYtkJcZ1drSuF8x)
+47 songs - 2 hr 46 min - [published](https://open.spotify.com/playlist/5JA3OzXsYtkJcZ1drSuF8x)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [Follow Your Arrow](https://open.spotify.com/track/4CLPNURPcKztF9RRdcWLGP) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Same Trailer Different Park](https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6) | 3:19 | 2021-06-01 |  |
 | [Good Man](https://open.spotify.com/track/4Nzqf2Fx6oIcJOEsRBnjbI) | [Fancy Hagood](https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF) | [Southern Curiosity](https://open.spotify.com/album/2VamwwkO7Y0ECHwyNvEIFr) | 4:05 | 2021-06-01 |  |
 | [I'm Not For Everyone](https://open.spotify.com/track/143YESFOZqxVGrKEWisbid) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Skeletons](https://open.spotify.com/album/0OA03FrXlln4FvE30LaEXR) | 2:52 | 2021-06-01 |  |
-| [look up](https://open.spotify.com/track/0oEji7lz6paMOdk97XEK4Z) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness](https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ) | 3:33 | 2021-06-01 |  |
+| [look up](https://open.spotify.com/track/0oEji7lz6paMOdk97XEK4Z) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness](https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ) | 3:33 | 2021-06-01 | 2022-11-12 |
+| [look up](https://open.spotify.com/track/1XO1GBR7sTLAFGHKWuCfTM) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness \(complete\)](https://open.spotify.com/album/7yemOBr0RNb26tsE0lKaDB) | 3:33 | 2021-06-01 |  |
 | [look up](https://open.spotify.com/track/4fAWuHhfAqykApaqrR9tfK) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [look up](https://open.spotify.com/album/1Xk1qcxPB914MvYiiMkm3S) | 3:33 | 2021-06-01 | 2022-07-29 |
 | [Make It Easy](https://open.spotify.com/track/3oy0Z0FmYwAutwMdCJKjAm) | [Kree Harrison](https://open.spotify.com/artist/69EZtIpAexeay0SwCf5EKY) | [Chosen Family Tree](https://open.spotify.com/album/67PmOchcnQC7kIHDlGonsj) | 4:19 | 2021-06-01 |  |
 | [Man In Me](https://open.spotify.com/track/6qNtretPY2YmajrAdNQxmP) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [Man In Me](https://open.spotify.com/album/1wDnYhK35LSEuYIlc7gguF) | 4:48 | 2021-06-01 |  |

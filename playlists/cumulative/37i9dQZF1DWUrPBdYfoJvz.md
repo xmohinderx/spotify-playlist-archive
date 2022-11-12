@@ -4,7 +4,7 @@
 
 > All the greatest Ambient tracks in one place\. Cover: Brian Eno
 
-148 songs - 17 hr 11 min - [published](https://open.spotify.com/playlist/4tCCo6NoGYqZ9eXOzwjcnm)
+149 songs - 17 hr 13 min - [published](https://open.spotify.com/playlist/4tCCo6NoGYqZ9eXOzwjcnm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,8 @@
 | [TWTGA](https://open.spotify.com/track/4ljALrblJ6OyrXFH0PzXwK) | [Bing & Ruth](https://open.spotify.com/artist/0grPfzk6cTnzfQpxjLDPs0) | [Tomorrow Was the Golden Age](https://open.spotify.com/album/4gsrQjP1ahrsA4kvXQsVyr) | 5:55 | 2021-12-22 | 2022-07-29 |
 | [Undercurrent](https://open.spotify.com/track/6Qyy9fqDBBZyl90snerjl0) | [Windy & Carl](https://open.spotify.com/artist/6qNSgOBq7aNMSUh1lxUhYq) | [Depths](https://open.spotify.com/album/4N2itOeznvkwIysfQVjGP1) | 4:41 | 2021-12-22 |  |
 | [unother](https://open.spotify.com/track/363mTP8zzRAr36wlbcdHRP) | [Terekke](https://open.spotify.com/artist/0VkQxm6BXV8KqEFmUpg5Lu) | [Improvisational Loops](https://open.spotify.com/album/7sYiiE8J3sHHCALicu6MUU) | 1:02 | 2021-12-22 |  |
-| [Unreal](https://open.spotify.com/track/3HNd6shi5OkaFn0PftmnaP) | [Lawrence Lek](https://open.spotify.com/artist/6nrCZQONyyfrj5P3DBl2S7) | [AIDOL \(O.S.T.\)](https://open.spotify.com/album/0gJcfpCTgTeNnWiDO587T7) | 2:53 | 2022-07-11 |  |
+| [Unreal](https://open.spotify.com/track/3HNd6shi5OkaFn0PftmnaP) | [Lawrence Lek](https://open.spotify.com/artist/6nrCZQONyyfrj5P3DBl2S7) | [AIDOL \(O.S.T.\)](https://open.spotify.com/album/0gJcfpCTgTeNnWiDO587T7) | 2:53 | 2022-07-11 | 2022-11-12 |
+| [Unreal](https://open.spotify.com/track/3VqwkDkx2HH9u8ykag55jv) | [Lawrence Lek](https://open.spotify.com/artist/6nrCZQONyyfrj5P3DBl2S7) | [Unreal](https://open.spotify.com/album/3eAjo3cKdh6jN21mMevbzs) | 2:53 | 2022-10-14 |  |
 | [Unreal](https://open.spotify.com/track/3liR99bvHUIbDZv1bWKJNd) | [Lawrence Lek](https://open.spotify.com/artist/6nrCZQONyyfrj5P3DBl2S7) | [AIDOL \(OST\)](https://open.spotify.com/album/3w0DWCRJXBcB0aCgeOJ7LX) | 2:54 | 2021-12-22 | 2022-07-29 |
 | [Vapors](https://open.spotify.com/track/4GGdwZABjIFSnFGavhd7Ge) | [Lennart Altgenug](https://open.spotify.com/artist/1gpe3l1VsbKu6qbFIj5ArO), [Still Restless](https://open.spotify.com/artist/6AHEtmyMoioYHE2mEZWEl0) | [Vapors](https://open.spotify.com/album/7pmaEJKmCiewU5BDYlEiAo) | 3:12 | 2022-10-14 |  |
 | [Variations on a Theme by St\-Dipshit](https://open.spotify.com/track/3Q3ZAHNfjtWSTEUIBuXc1K) | [Kyle Bobby Dunn](https://open.spotify.com/artist/5103fOYzuAKogazW0lXwLl) | [Kyle Bobby Dunn and the Infinite Sadness](https://open.spotify.com/album/2NVB7DIA1wTUEM7KmXnWeZ) | 9:22 | 2021-12-22 |  |

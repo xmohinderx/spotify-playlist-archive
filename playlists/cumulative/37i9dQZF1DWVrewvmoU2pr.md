@@ -4,7 +4,7 @@
 
 > Anything from hidden local gems to pop classics about the journey to embracing all kinds of love.
 
-81 songs - 4 hr 56 min - [published](https://open.spotify.com/playlist/6mVBkmhR4OzyzNdQQH6C7g)
+83 songs - 5 hr 2 min - [published](https://open.spotify.com/playlist/6mVBkmhR4OzyzNdQQH6C7g)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [Keep Ya Head Up](https://open.spotify.com/track/4Tttv4p2xuAq1LpQ7LI95E) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Greatest Hits](https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP) | 4:23 | 2022-07-28 |  |
 | [Killing Me](https://open.spotify.com/track/3QD0Y1tTngihByjdWC99lG) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Killing Me](https://open.spotify.com/album/21jf5kUkK5nHYTuZ5GRZVW) | 2:44 | 2022-04-07 | 2022-06-24 |
 | [LA FAMA](https://open.spotify.com/track/6Y46tOTRhkBamosyuWa6YX) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 3:08 | 2022-07-28 |  |
-| [Light Switch](https://open.spotify.com/track/0F1TxVw4mWkqp9vJrnw65w) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Simply Feelgood](https://open.spotify.com/album/6r5uHLa2JBpivqjVTYZdiT) | 3:05 | 2022-07-28 |  |
+| [Light Switch](https://open.spotify.com/track/0F1TxVw4mWkqp9vJrnw65w) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Simply Feelgood](https://open.spotify.com/album/6r5uHLa2JBpivqjVTYZdiT) | 3:05 | 2022-07-28 | 2022-11-12 |
+| [Light Switch](https://open.spotify.com/track/0eXB93GUVd0jhjg8KZJ6af) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [FYP \- Viral Hits](https://open.spotify.com/album/15eWAxGQwHa8jozAYs6Xoc) | 3:05 | 2022-07-28 |  |
 | [Light Switch](https://open.spotify.com/track/1BSMpVGWs3v5BZKnAQziAc) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Light Switch](https://open.spotify.com/album/6PBwTu4IgZMQNTKtrgxzZQ) | 3:05 | 2022-04-07 | 2022-10-16 |
 | [Light Switch](https://open.spotify.com/track/1jEBSDN5vYViJQr78W7jr2) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [CHARLIE](https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt) | 3:07 | 2022-07-28 | 2022-11-11 |
 | [Little Miss Janice](https://open.spotify.com/track/22EE8dhOA8t2XSPMYiQSWi) | [Janice Vidal](https://open.spotify.com/artist/68gYAqni9tSrACmLCp4qoM) | [Little Miss Janice](https://open.spotify.com/album/5d14ViywYO9XTuIVwM4wZ7) | 3:31 | 2022-07-28 |  |
@@ -43,7 +44,8 @@
 | [Matilda](https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 4:05 | 2022-07-28 |  |
 | [Matter To You](https://open.spotify.com/track/1InPL1Qm8qJC3FIIvFruNt) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Only Child](https://open.spotify.com/album/7v0KN0VlHJZrhAbSbxEZvZ) | 3:37 | 2022-07-28 |  |
 | [Mean](https://open.spotify.com/track/2YpqqxAb7TBIVJGC05CBsi) | [Tang Siu Hau](https://open.spotify.com/artist/01LAw9Av7Zcg01A8McfGYB) | [Mean](https://open.spotify.com/album/6EosfD2Tx35BF3wCgaYP9m) | 4:48 | 2022-06-23 | 2022-07-29 |
-| [mona lisa](https://open.spotify.com/track/5Nc3vGiiHFyQegUNjsboj9) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [rising](https://open.spotify.com/album/6moZ0XzoBW9Yg35w0y5GlN) | 3:10 | 2022-07-28 |  |
+| [mona lisa](https://open.spotify.com/track/0B94S8FdP0YrMMygCfEQuM) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [sad disco](https://open.spotify.com/album/1HOTwpOAjng3LgglPLHxMW) | 3:10 | 2022-07-28 |  |
+| [mona lisa](https://open.spotify.com/track/5Nc3vGiiHFyQegUNjsboj9) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [rising](https://open.spotify.com/album/6moZ0XzoBW9Yg35w0y5GlN) | 3:10 | 2022-07-28 | 2022-11-12 |
 | [mona lisa](https://open.spotify.com/track/6tJOpzHYBF6Ym2gmmQy9mE) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [rising](https://open.spotify.com/album/4Ozq72UWig4PdVy3yGyzAE) | 3:10 | 2022-07-28 | 2022-10-13 |
 | [my hair](https://open.spotify.com/track/6u7gmPOz7pzzaeR9xSBpsR) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Positions](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd) | 2:38 | 2022-07-28 |  |
 | [ONE SIZE FITS ALL](https://open.spotify.com/track/5R7ZGxCZElz3ivYaui4IKn) | [Heather Sommer](https://open.spotify.com/artist/0EHYuPn9Xng2lZP2cfz4cV) | [ONE SIZE FITS ALL](https://open.spotify.com/album/0wzhWxSywM34dLDPvxWkUT) | 3:31 | 2022-07-28 |  |

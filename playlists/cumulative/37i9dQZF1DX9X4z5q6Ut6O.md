@@ -4,12 +4,12 @@
 
 > Caminando de la mano..\. eres mi razón de ser.
 
-86 songs - 4 hr 44 min - [published](https://open.spotify.com/playlist/23mdkCkMshzjDWHVkIoEzR)
+87 songs - 4 hr 47 min - [published](https://open.spotify.com/playlist/23mdkCkMshzjDWHVkIoEzR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A La Antigüita](https://open.spotify.com/track/798ahLNEcoFER7Vywg1FMT) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Vamos Bien](https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ) | 2:36 | 2021-12-03 |  |
-| [A Mi Me Interesa](https://open.spotify.com/track/1YZkwuliEh6c0rv7gmumCG) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Detras Del Miedo](https://open.spotify.com/album/6AIaxMBkR2dK1NzgZEgIc9) | 3:09 | 2021-12-03 |  |
+| [A Mi Me Interesa](https://open.spotify.com/track/1YZkwuliEh6c0rv7gmumCG) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Detras Del Miedo](https://open.spotify.com/album/6AIaxMBkR2dK1NzgZEgIc9) | 3:09 | 2021-12-03 | 2022-11-12 |
 | [A Mi Me Interesa](https://open.spotify.com/track/7zMA0QdDkTnpTOZRMkhLMJ) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Detras Del Miedo](https://open.spotify.com/album/1Vly14LQAZX1sW50JRV8dN) | 3:09 | 2021-12-03 | 2022-07-29 |
 | [Acurrucar](https://open.spotify.com/track/0vTmuKsIgqtez9Ups70mQU) | [Los Pescadores Del Rio Conchos](https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U) | [Acurrucar](https://open.spotify.com/album/4vRkAsNoxr8aH9zsJkvvUK) | 2:58 | 2021-12-03 |  |
 | [Alguien Mejor](https://open.spotify.com/track/5RG533H96YnaDKsp0aj2IL) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Inédito](https://open.spotify.com/album/0GjbNjkZ7Bp8rvzU6y8L4w) | 2:39 | 2021-12-03 |  |
@@ -46,6 +46,7 @@
 | [Me Está Gustando](https://open.spotify.com/track/1PPswVdqYYvfBIk5MdB4Lo) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Me Está Gustando](https://open.spotify.com/album/3LLGf8yNKPKud3ErCdOkAu) | 3:00 | 2021-12-03 |  |
 | [Me Gusta Todo De Ti](https://open.spotify.com/track/0lQw1AoV5ZUAatpZN0Lrl5) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Romances](https://open.spotify.com/album/6IQ9Tk73kwPmKbdnMQ7nlo) | 3:04 | 2021-12-03 |  |
 | [Me Gustas](https://open.spotify.com/track/7jtbRKtXtGtsJOBMaBo72W) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Secreto De Amor](https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV) | 3:27 | 2021-12-03 |  |
+| [Me Interesa](https://open.spotify.com/track/02CewGNR8uzOw1YUqtfsLk) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Me Interesa](https://open.spotify.com/album/0DBgEMfzVpQMmoUTvbLkmC) | 3:08 | 2021-12-03 |  |
 | [Me Interesas](https://open.spotify.com/track/5LsTMta9l87n8Z4zpBV2xL) | [Noel Torres](https://open.spotify.com/artist/1GUYk7GLP4tALtorFH1OWG) | [La Balanza](https://open.spotify.com/album/27zodohsIeaDJaZ7lpSHab) | 2:56 | 2021-12-03 |  |
 | [Media Naranja](https://open.spotify.com/track/3wL3XYJ5sAQ7LgFsF5uCV4) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Huele A Peligro](https://open.spotify.com/album/2oKDUOugaCej29UmlmhoyG) | 2:31 | 2021-12-03 |  |
 | [Mi Amor Por Ti \(En Vivo\)](https://open.spotify.com/track/463qI2v2wPH2OOF5m6J8Gm) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Mi Amor Por Ti \(En Vivo\)](https://open.spotify.com/album/2uApDE90u1pYGQvHlkoAyg) | 3:59 | 2021-12-03 |  |

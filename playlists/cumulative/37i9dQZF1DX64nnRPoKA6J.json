@@ -62,6 +62,24 @@
     },
     {
       "album": {
+        "name": "The Madding Crowd",
+        "url": "https://open.spotify.com/album/4BcmNEt6VK0KBVsVY8yClD"
+      },
+      "artists": [
+        {
+          "name": "Nine Days",
+          "url": "https://open.spotify.com/artist/306JHpIRGVaQd6OltnOzUO"
+        }
+      ],
+      "date_added": "2020-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189333,
+      "name": "Absolutely (Story of a Girl) - Radio Mix",
+      "url": "https://open.spotify.com/track/3mNecsYFb6LQg7822DPXCP"
+    },
+    {
+      "album": {
         "name": "Marvin The Album",
         "url": "https://open.spotify.com/album/1ir0cVK6b0TzZgYfgsY6SE"
       },
@@ -818,6 +836,24 @@
     },
     {
       "album": {
+        "name": "Angel Dust (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4cg5GrTMewtbntkO84uE2k"
+      },
+      "artists": [
+        {
+          "name": "Faith No More",
+          "url": "https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5"
+        }
+      ],
+      "date_added": "2020-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186960,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/4Y3WqmBWmG23thvU9xEhMv"
+    },
+    {
+      "album": {
         "name": "Emotions",
         "url": "https://open.spotify.com/album/0SHpIbyBLUugMXsl3yNkUz"
       },
@@ -1009,7 +1045,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 214400,
       "name": "Friday I'm in Love",
       "url": "https://open.spotify.com/track/263aNAQCeFSWipk896byo6"
@@ -1775,7 +1811,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 239400,
       "name": "Let's Get Loud",
       "url": "https://open.spotify.com/track/42nSaPdT6g3ZIMHmKLlP2p"
@@ -1937,7 +1973,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 220293,
       "name": "Mambo No. 5 (a Little Bit of...)",
       "url": "https://open.spotify.com/track/6x4tKaOzfNJpEJHySoiJcs"
@@ -1973,7 +2009,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 234493,
       "name": "Man! I Feel Like A Woman!",
       "url": "https://open.spotify.com/track/6sxptembJVty4sNtcPMAVz"
@@ -2251,7 +2287,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 169760,
       "name": "One Week",
       "url": "https://open.spotify.com/track/29hBRadFZf9QTGRHZmxm65"
@@ -3023,7 +3059,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 194306,
       "name": "This Kiss",
       "url": "https://open.spotify.com/track/5EYWGM3Ns3iYew8ws0FatB"
@@ -3203,7 +3239,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 253295,
       "name": "Walking on Broken Glass",
       "url": "https://open.spotify.com/track/4CcSw8wQAHYf4XNckayPoc"
@@ -3355,7 +3391,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 295533,
       "name": "What's Up?",
       "url": "https://open.spotify.com/track/0jWgAnTrNZmOGmqgvHhZEm"

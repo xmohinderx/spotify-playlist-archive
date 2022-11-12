@@ -4,7 +4,7 @@
 
 > Ambient music backed by the atmospheric sounds and elements of nature.
 
-159 songs - 13 hr 23 min - [published](https://open.spotify.com/playlist/7JtjL9J4rMiUbiR6UqNhl3)
+162 songs - 13 hr 35 min - [published](https://open.spotify.com/playlist/7JtjL9J4rMiUbiR6UqNhl3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Animal](https://open.spotify.com/track/1v09ATzQfzToQrBgu0mkD6) | [Conor C\. Ellis](https://open.spotify.com/artist/2HR4D4z3iLHR57uszqD7mC) | [Soft Earth](https://open.spotify.com/album/7icKhOFCKAwpaLqXUzT68B) | 3:12 | 2021-12-22 |  |
 | [Aru](https://open.spotify.com/track/3imnDatPTaEg1Y1SuBlvEs) | [morimoto naoki](https://open.spotify.com/artist/3ppc3aHU5q1PGQZu42Uu1t) | [Hibi](https://open.spotify.com/album/2ilbAhaYpdlFGe5e3FzRhS) | 2:46 | 2021-12-22 |  |
 | [Ashore](https://open.spotify.com/track/7okAPL9Qoj88byNDbuIjiV) | [Ebauche](https://open.spotify.com/artist/5n0eez6NwUmuLTn2AwA0i3) | [Adrift](https://open.spotify.com/album/19jaJ8g4HUynwp0fREHFe4) | 9:20 | 2021-12-22 |  |
+| [Assured](https://open.spotify.com/track/2yUD0XuUPhhM3l3M6if6Jh) | [East Forest](https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW) | [Headwaters](https://open.spotify.com/album/4zw3XeZ8dDXuUDcd1flLtl) | 7:23 | 2022-11-11 |  |
 | [Ballad of a Sleepless Traveler](https://open.spotify.com/track/1o5IIGHsAPrOcehvvfmP7K) | [Sweatson Klank](https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT) | [Ballad of a Sleepless Traveler](https://open.spotify.com/album/0lk0cAw5RSaFwEbEJrnxoT) | 3:37 | 2022-05-25 |  |
 | [beautiful soundscape \- Spa Edit](https://open.spotify.com/track/6w9GkQiwwzCv9N1LXeyBds) | [RELAX WORLD](https://open.spotify.com/artist/4lqbWKnNx21gjvmC7k3NSx) | [beautiful soundscape \(Spa Edit\)](https://open.spotify.com/album/0vr9IDaXieLwJeEmn1RQxV) | 3:24 | 2021-12-22 |  |
 | [Bee](https://open.spotify.com/track/0G36xXARmnPKGTAbEsaliO) | [Porya Hatami](https://open.spotify.com/artist/6qGn1dMbzeGodjzNfzG4gZ) | [The Garden](https://open.spotify.com/album/2bJ0Z7NdzjwXnTAEMtsZy4) | 7:04 | 2021-12-22 | 2022-07-09 |
@@ -35,6 +36,7 @@
 | [Departure \(The Soul Longs for Freedom\)](https://open.spotify.com/track/72FZCwQOO0M7WZBEM4azIH) | [Charlie Roscoe](https://open.spotify.com/artist/56YgRdEzNaXYkaaoFXB4q1) | [Luminessence](https://open.spotify.com/album/6H1SJeFEtNGELRydkjyKwt) | 7:20 | 2021-12-22 |  |
 | [Destiny](https://open.spotify.com/track/1crOmVyAzM4rNDc6uMHW5l) | [Strolle](https://open.spotify.com/artist/18Ow08CDayCv7wzb6jATnr) | [Destiny](https://open.spotify.com/album/69tdHQnMuEn3JELYRGhFRi) | 2:51 | 2022-07-08 |  |
 | [Duniskwalgunyi](https://open.spotify.com/track/6t6XS68MFIj8UPu9NPJCgn) | [Isaac Helsen](https://open.spotify.com/artist/01xVhqpSuHMXiHWwby8ySK) | [Remnants Series](https://open.spotify.com/album/2MXjXBNtnGLctV5n0tXGBv) | 7:21 | 2021-12-22 |  |
+| [El Esperado Desenlace](https://open.spotify.com/track/4dbIBvGvVqYVd6lizMB55O) | [David Cordero](https://open.spotify.com/artist/5yE5AG06GxRrh6Hw9qSJOQ) | [El Refugio Efímero](https://open.spotify.com/album/7iMEnrd9YEnP7LmZ4ZFP5d) | 2:44 | 2022-11-11 |  |
 | [Epilogue](https://open.spotify.com/track/1LIUJgDSRkNYjo4tVtoz2e) | [Yutaka Hirose](https://open.spotify.com/artist/1FdNQlWcuAjkLTEx7xHf25) | [Nova + 4 \(Extended Version\)](https://open.spotify.com/album/7lETHTMoNPXfiqrEWcuKg1) | 7:41 | 2021-12-22 |  |
 | [Faint Light](https://open.spotify.com/track/1gmQkUuVVE7mIyU4PDnnge) | [Innesti](https://open.spotify.com/artist/6vjQzIlQxwDP0miO2oGoXE) | [Filament and Place](https://open.spotify.com/album/2q3FLsl0yqx0eplaC3rM3t) | 5:20 | 2022-07-08 |  |
 | [Faint Light](https://open.spotify.com/track/53kert0PPHlk8v0ZlKjr30) | [Innesti](https://open.spotify.com/artist/6vjQzIlQxwDP0miO2oGoXE) | [Filament and Place](https://open.spotify.com/album/5ZRUr2HqVBVKeRfoN8rKQz) | 5:20 | 2021-12-22 | 2022-07-29 |
@@ -148,6 +150,7 @@
 | [Triennale](https://open.spotify.com/track/1TpfK6G0X5muasT0eQsipa) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Shutov Assembly](https://open.spotify.com/album/24tydQEhQTIlAaGNk9LrPv) | 4:06 | 2021-12-22 |  |
 | [tsukimi dango \- Meditation](https://open.spotify.com/track/42tLQymkJ8SlkSl7Mebyrt) | [AOI](https://open.spotify.com/artist/3GI4ib0hz1mAxLVdrQldsZ) | [tsukimi dango](https://open.spotify.com/album/3iof4fuNnejiULldVY8Z1R) | 3:02 | 2022-05-06 |  |
 | [Und](https://open.spotify.com/track/0Zseawrdx3aB2JJp0UbknM) | [KMRU](https://open.spotify.com/artist/5blZUSGq0z7HhuSldSXV3a) | [Logue](https://open.spotify.com/album/1KWzByUugnZkV1gFQwn2ik) | 3:24 | 2021-12-22 |  |
+| [Under The Thunder](https://open.spotify.com/track/4L7K2qGigEOYYfAtpgIswc) | [Now Unlimited](https://open.spotify.com/artist/1D1sQVMQGI56YYpFMeO7xS) | [Euphoric Forest](https://open.spotify.com/album/6HrO27BUeHUoFvTKNljTcr) | 2:00 | 2022-11-11 |  |
 | [Vienna](https://open.spotify.com/track/2CZm12Kpg0i9o5h07ZEgNb) | [Rug Rivers](https://open.spotify.com/artist/2IDRzaW4gYnIgqMM2hIdtd) | [Gradients](https://open.spotify.com/album/0BSRvxpcMxZZ17jnegHvni) | 2:11 | 2021-12-22 |  |
 | [Watching](https://open.spotify.com/track/2CaTZJybDGdmBZnVs0XhRz) | [Korossasu](https://open.spotify.com/artist/1mTetqmHQaEyxqGvEcS3P0) | [Gradients](https://open.spotify.com/album/0BSRvxpcMxZZ17jnegHvni) | 5:06 | 2021-12-22 |  |
 | [Welcome to the Four Seasons](https://open.spotify.com/track/6peg5yFyQ1sCwT8zZ9bQwg) | [Martin Glass](https://open.spotify.com/artist/4Icvm8wrj4Btq3O7FHJJZd) | [The Pacific Visions of Martin Glass](https://open.spotify.com/album/1u45eCsl1EhMCVpOzNW8Si) | 1:46 | 2021-12-22 |  |

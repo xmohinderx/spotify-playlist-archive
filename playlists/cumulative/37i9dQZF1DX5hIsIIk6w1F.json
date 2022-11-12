@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Este Flow tiene otro Flow. Foto: Tunechikidd, ITHAN NY & Nickoog Clk.",
+  "description": "Este Flow tiene otro Flow. Foto: Standly",
   "name": "Reggaet\u00f3n Chileno",
   "published_playlist_ids": [
     "2FMJDC0qJwnjZnSiGHmfDy"
@@ -107,7 +107,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 195792,
       "name": "ACTIVO",
       "url": "https://open.spotify.com/track/0r6XXEWcrvnfwPe3wP35xz"
@@ -637,7 +637,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 225668,
       "name": "Como Te Va",
       "url": "https://open.spotify.com/track/3y0h34yThCG2qGO4vR0oi5"
@@ -965,7 +965,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 278948,
       "name": "D\u00e9jate Llevar",
       "url": "https://open.spotify.com/track/3kvManjVdxgUUnNE2fAhGU"
@@ -1015,6 +1015,32 @@
       "duration_ms": 459130,
       "name": "El Carro",
       "url": "https://open.spotify.com/track/3y2iQ87JLSH1J6A6ZaJyn5"
+    },
+    {
+      "album": {
+        "name": "EL D\u00cdA DE MI SUERTE",
+        "url": "https://open.spotify.com/album/72A9s3UnASL0IntsA5ofn1"
+      },
+      "artists": [
+        {
+          "name": "Lleflight",
+          "url": "https://open.spotify.com/artist/5GpRyfJV04fcnHBDzfVb8V"
+        },
+        {
+          "name": "Jairo Vera",
+          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
+        },
+        {
+          "name": "Bayriton",
+          "url": "https://open.spotify.com/artist/29fcEFHRcOhfTYXvS8POPV"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208834,
+      "name": "EL D\u00cdA DE MI SUERTE",
+      "url": "https://open.spotify.com/track/6veLe4GJEe3ssRJjtqIdfI"
     },
     {
       "album": {
@@ -1735,7 +1761,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 169593,
       "name": "Imaginandote",
       "url": "https://open.spotify.com/track/2aEQNAbxozvIwk4VI1tJ2n"
@@ -2355,7 +2381,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 218006,
       "name": "Mi Waxita",
       "url": "https://open.spotify.com/track/3NW1FV4c9UNsPLkFOqTfF5"
@@ -2385,6 +2411,28 @@
       "duration_ms": 218006,
       "name": "Mi Waxita",
       "url": "https://open.spotify.com/track/6phCM48H3WCQfy7MCYwy0A"
+    },
+    {
+      "album": {
+        "name": "Mini Mini",
+        "url": "https://open.spotify.com/album/4zeYzXnl5RwCm4riSOuvOE"
+      },
+      "artists": [
+        {
+          "name": "Punto40",
+          "url": "https://open.spotify.com/artist/2C1Pj5TMq8QjqbwQ4tmDtO"
+        },
+        {
+          "name": "Marcianeke",
+          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197663,
+      "name": "Mini Mini",
+      "url": "https://open.spotify.com/track/3KI4rfS7kRC58Dd4ToY7P3"
     },
     {
       "album": {
@@ -3370,6 +3418,32 @@
     },
     {
       "album": {
+        "name": "PINTA BACANA",
+        "url": "https://open.spotify.com/album/2IAh5Hdy1r7My7WlF9vLF7"
+      },
+      "artists": [
+        {
+          "name": "Carlitos Junior",
+          "url": "https://open.spotify.com/artist/0fTQ3jEDT1eDQG3URLTwEo"
+        },
+        {
+          "name": "Marcianeke",
+          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
+        },
+        {
+          "name": "Tunechikidd",
+          "url": "https://open.spotify.com/artist/0QpMp8Y7jFzwCt8OZjKQdd"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230575,
+      "name": "PINTA BACANA",
+      "url": "https://open.spotify.com/track/2kwxBvO3ex8L3g6f3GYECv"
+    },
+    {
+      "album": {
         "name": "Pistolas Con Chip",
         "url": "https://open.spotify.com/album/2E50wlbLL2tjP3lb1WKDRv"
       },
@@ -3749,6 +3823,24 @@
       "duration_ms": 213913,
       "name": "Recuerdo",
       "url": "https://open.spotify.com/track/0kOr8nY50seObPL9bYHr9f"
+    },
+    {
+      "album": {
+        "name": "11/11",
+        "url": "https://open.spotify.com/album/0fTlLpdntkd3vdeCRmGNbg"
+      },
+      "artists": [
+        {
+          "name": "Standly",
+          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169032,
+      "name": "Reggaet\u00f3n",
+      "url": "https://open.spotify.com/track/0MEUoxYlDHOSnNvtPL5MKN"
     },
     {
       "album": {
@@ -4601,6 +4693,28 @@
       "duration_ms": 190550,
       "name": "Tus Ojitos",
       "url": "https://open.spotify.com/track/4l1SYWEm3bCpoLb07qsKRT"
+    },
+    {
+      "album": {
+        "name": "Tusi",
+        "url": "https://open.spotify.com/album/1BEDxGAOBRrYFqEGZP9IY8"
+      },
+      "artists": [
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        },
+        {
+          "name": "KEVVO",
+          "url": "https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Tusi",
+      "url": "https://open.spotify.com/track/7J6Qcxd2V3MUY3ETrr2y6d"
     },
     {
       "album": {

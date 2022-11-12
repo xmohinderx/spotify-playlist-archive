@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTHlwqNeZ4l.md) - [plain]
 | 5 | [Watch Me](https://open.spotify.com/track/1VG1EM5OL6oObCFaaSzdo4) | [ANOHNI](https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo) | [HOPELESSNESS](https://open.spotify.com/album/7rLsyyAKx19sy9Nwn8WoGH) | 3:26 |
 | 6 | [Talking to Myself](https://open.spotify.com/track/5ivOiIOSkypt3P1jqjlmcf) | [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM) | [Ology](https://open.spotify.com/album/4VZh7EI0gjL2FkLWNBVIWf) | 3:57 |
 | 7 | [Tegan and Sara on Madonna](https://open.spotify.com/track/0NJIw3OZN1e1NtPhoUGs7o) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Tegan and Sara \- Spotify Pride](https://open.spotify.com/album/0xYvIMRxFzd25UqhFOeSIq) | 0:33 |
-| 8 | [Holiday](https://open.spotify.com/track/3ibAzRj9JnowdoLkyllk3n) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Madonna \(Reissue\)](https://open.spotify.com/album/5lrlWKjNY0eTDXp9Bd3LpW) | 3:51 |
+| 8 | [Holiday](https://open.spotify.com/track/49ul7T6QlHsbnwYYNXE87O) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [The Wedding Singer \(More Music From The Motion Picture\)](https://open.spotify.com/album/2qrkWwNyjy7zwFgueA5slQ) | 3:51 |
 | 9 | [Everybody Wants to Love You](https://open.spotify.com/track/38OvTFIg5ZYRow2sA1jgKo) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Psychopomp](https://open.spotify.com/album/3CeBfyjSIfbWyf0RTNbq1G) | 2:12 |
 | 10 | [Sprained Ankle](https://open.spotify.com/track/1qKDjasAnswlbgBsOd8DJp) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Sprained Ankle](https://open.spotify.com/album/5rfzi2DFB4gH5XhXjsuGQN) | 2:22 |
 | 11 | [Tangled Memories](https://open.spotify.com/track/48hWxQRcZhSbXnyJ5y2qe1) | [GEMS](https://open.spotify.com/artist/1hjVmBR8STjix0vBUe5YfN) | [Kill the One You Love](https://open.spotify.com/album/37cusz6UdL545qeHFJkUWq) | 4:00 |
@@ -36,4 +36,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTHlwqNeZ4l.md) - [plain]
 | 26 | [Tegan and Sara on Their Music](https://open.spotify.com/track/2pU9KIVKzkq30Ie8hcEzgn) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Tegan and Sara \- Spotify Pride](https://open.spotify.com/album/0xYvIMRxFzd25UqhFOeSIq) | 0:28 |
 | 27 | [Operator \(He Doesn't Call Me\)](https://open.spotify.com/track/56sYN9utLyjGXju9rU8lWi) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Long Way Home](https://open.spotify.com/album/5h5HjSBjZ2dAuGxGL6L2EB) | 3:24 |
 
-Snapshot ID: `MTQ5NjQxMDc1OSwwMDAwMDAwMDgyZWJjNTgzZTYxNTQzNzAwNjVhZWI4ODQ5NjVhNzk4`
+Snapshot ID: `MTQ5NjQxMDc1OSwwMDAwMDAwMDYxZGEyNzE5YWI4MTY1ZTc0NTgxMDVlM2E0MTY3ZWQz`

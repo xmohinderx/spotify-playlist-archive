@@ -493,7 +493,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 219668,
       "name": "Calm Down",
       "url": "https://open.spotify.com/track/3BnDvpeuGOj21Ir2aVEtQo"
@@ -515,6 +515,24 @@
       "duration_ms": 219813,
       "name": "Calm Down",
       "url": "https://open.spotify.com/track/0prHRcmwD2Kk6no5sMovDD"
+    },
+    {
+      "album": {
+        "name": "Calm Down",
+        "url": "https://open.spotify.com/album/37iaWiKMa9YBbEDlw5c3Qh"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219813,
+      "name": "Calm Down",
+      "url": "https://open.spotify.com/track/6hgoYQDUcPyCz7LcTUHKxa"
     },
     {
       "album": {
@@ -1399,7 +1417,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 155293,
       "name": "Finesse",
       "url": "https://open.spotify.com/track/4Gasn91fsCefnN8zM5GjA8"
@@ -4063,7 +4081,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-16",
+      "date_removed": null,
       "duration_ms": 223260,
       "name": "Stranger",
       "url": "https://open.spotify.com/track/7CDgFr0gMqKCIQkWF7LL0s"
@@ -4501,10 +4519,36 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 186433,
       "name": "WHISTLE (feat. Lojay & Amaarae)",
       "url": "https://open.spotify.com/track/11Ti6zSL9YNLz6tF5fuetQ"
+    },
+    {
+      "album": {
+        "name": "Young Preacher",
+        "url": "https://open.spotify.com/album/5J4BbjFnBq9C31xsph3ld2"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        },
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186433,
+      "name": "WHISTLE (feat. Lojay & Amaarae)",
+      "url": "https://open.spotify.com/track/7KTyBUl3f402RdK4Af7RDB"
     },
     {
       "album": {

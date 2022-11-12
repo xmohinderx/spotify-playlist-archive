@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 
 > Just vibes\. Cover: paopao
 
-[Spotify](https://open.spotify.com/user/spotify) - 696,000 likes - 80 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 695,989 likes - 80 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 | 31 | [RDMDA](https://open.spotify.com/track/4ucFAncTWKzcOjQ9J4SbaM) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Sueños de Dalí](https://open.spotify.com/album/4jfOmy33i7nM0gW5zPslJK) | 2:50 |
 | 32 | [Ojos Negros](https://open.spotify.com/track/0hjbmFnvWmn9QPlEUKJUK3) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC), [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [Ojos Negros](https://open.spotify.com/album/1GpskTNrGXAlgg63EOMANt) | 3:19 |
 | 33 | [Fresh Water](https://open.spotify.com/track/2q8EbgPUw6bCQjVyfGoytw) | [PAMÉ](https://open.spotify.com/artist/5ZSOXLTnZcSjdVCIdjnq03), [Floyd Fuji](https://open.spotify.com/artist/0glUNuyGWUn70JhLMARseD) | [Fresh Water](https://open.spotify.com/album/49y4Fp6dj9ElCGJmEQN7DH) | 2:37 |
-| 34 | [Honey](https://open.spotify.com/track/2FuQp5l27bC1sHWnZr8uA3) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Amor En Español](https://open.spotify.com/album/1e8k4kAKtcC5GIjfP4JDdR) | 3:06 |
-| 35 | [Somebody That You Don't Know \(feat\. Rauw Alejandro\)](https://open.spotify.com/track/2wHNBYCfnVNEXCOORj4tyV) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Cheers to the Best Memories](https://open.spotify.com/album/1WNwlBvoohUFZcJt3uLrd4) | 2:56 |
+| 34 | [Somebody That You Don't Know \(feat\. Rauw Alejandro\)](https://open.spotify.com/track/2wHNBYCfnVNEXCOORj4tyV) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Cheers to the Best Memories](https://open.spotify.com/album/1WNwlBvoohUFZcJt3uLrd4) | 2:56 |
+| 35 | [Honey](https://open.spotify.com/track/2FuQp5l27bC1sHWnZr8uA3) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Amor En Español](https://open.spotify.com/album/1e8k4kAKtcC5GIjfP4JDdR) | 3:06 |
 | 36 | [lo que pasó](https://open.spotify.com/track/6SWwMXdb0XGGsUmNVxjP76) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [lo que pasó](https://open.spotify.com/album/0dhZYPGnqu0hVxVS9saFQa) | 2:30 |
 | 37 | [Just Fine \(feat\. Kiana Ledé\)](https://open.spotify.com/track/4810VYLNArmiy9ftC7yhzV) | [Kitty Ca$h](https://open.spotify.com/artist/1WcZXhILKBJktTKnqfjWMT), [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Just Fine \(feat\. Kiana Ledé\)](https://open.spotify.com/album/39v3mxqGMJSk4VACEvENAc) | 2:51 |
 | 38 | [atrapada en el cielo](https://open.spotify.com/track/0xa6hDuygUskYwHD4hNXUR) | [María Isabel](https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5) | [Stuck in the Sky](https://open.spotify.com/album/30vPoPfOku0lYgfTE903vA) | 2:14 |
@@ -67,20 +67,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 | 57 | [Tu Castigo](https://open.spotify.com/track/5ZhNFzInNjdqmdIglUpidB) | [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [Normal](https://open.spotify.com/album/5Qkxw86wtQYlK2dEjTJcSP) | 3:47 |
 | 58 | [Jungla de locos](https://open.spotify.com/track/6z6SO9VO4pt6hKObRc23Hp) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [EL SUR](https://open.spotify.com/album/1sHYyBeTBczpD87Bt3f8rz) | 4:17 |
 | 59 | [coisa linda](https://open.spotify.com/track/763GYv3anuAaSSA6kQ2bEa) | [Sophie Marks](https://open.spotify.com/artist/6spwry8r7pCSX6cY2Y7bSk) | [coisa linda](https://open.spotify.com/album/0YowymrHvtYwqHyWcvvfkW) | 2:53 |
-| 60 | [caos](https://open.spotify.com/track/666gQThvRTs3OfeJURkKLh) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [3AM](https://open.spotify.com/album/6kq7kwgdD6Iq1naBCJRn2j) | 4:13 |
-| 61 | [Tú y Yo](https://open.spotify.com/track/0rmqnho8rZSEJCqeBDPMmT) | [Jona Camacho](https://open.spotify.com/artist/0t64OqoqDgnfJee9Z6IBOP) | [Memento](https://open.spotify.com/album/0uhQr2Rh3VkMpjx8CF8pbb) | 2:54 |
+| 60 | [Tú y Yo](https://open.spotify.com/track/0rmqnho8rZSEJCqeBDPMmT) | [Jona Camacho](https://open.spotify.com/artist/0t64OqoqDgnfJee9Z6IBOP) | [Memento](https://open.spotify.com/album/0uhQr2Rh3VkMpjx8CF8pbb) | 2:54 |
+| 61 | [caos](https://open.spotify.com/track/666gQThvRTs3OfeJURkKLh) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [3AM](https://open.spotify.com/album/6kq7kwgdD6Iq1naBCJRn2j) | 4:13 |
 | 62 | [Cenizas](https://open.spotify.com/track/54szHYyqK2XSdfsefoiGjj) | [Zizzy](https://open.spotify.com/artist/2h8f3bQReG6QLk3tA1j7NS), [BeatBoy](https://open.spotify.com/artist/5UBcT8h31eT62kHEsNaW3X) | [Cenizas](https://open.spotify.com/album/0blTDBEGqFOeEUOAy0G4kV) | 3:29 |
 | 63 | [Para Ti](https://open.spotify.com/track/3NAA9XN9xarn0V2nmw6EoV) | [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [Til Death](https://open.spotify.com/album/1KdIvpllbhDOBXGxjM6azb) | 1:37 |
 | 64 | [Na Pa Ti \(feat\. Kofi\)](https://open.spotify.com/track/0BdFIT81iB6Irf3XjiBUjk) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG), [Kofi](https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld) | [Na Pa Ti \(feat\. Kofi\)](https://open.spotify.com/album/3UefdYQA4lzyOOZ8SHFSyr) | 2:53 |
 | 65 | [el vuelo](https://open.spotify.com/track/2qtrDGVkMqKrcL44b8U4LG) | [Yarge](https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4) | [el vuelo](https://open.spotify.com/album/50fPKkTgYxNCIaoEWb3jU3) | 3:05 |
-| 66 | [Mi Fanatica](https://open.spotify.com/track/0WrRjLCLiX3ZaTZjyT3KbA) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [Foreplay](https://open.spotify.com/album/0Zyin6wtlQoUC3ZSqMbAtT) | 4:04 |
-| 67 | [MIA](https://open.spotify.com/track/23GhLjcJ26QGrn7g4saZ4k) | [Aleesha](https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi) | [La Patrona](https://open.spotify.com/album/7GTks3uBI8W9D2EeFYp9V1) | 3:31 |
+| 66 | [MIA](https://open.spotify.com/track/23GhLjcJ26QGrn7g4saZ4k) | [Aleesha](https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi) | [La Patrona](https://open.spotify.com/album/7GTks3uBI8W9D2EeFYp9V1) | 3:31 |
+| 67 | [Mi Fanatica](https://open.spotify.com/track/0WrRjLCLiX3ZaTZjyT3KbA) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [Foreplay](https://open.spotify.com/album/0Zyin6wtlQoUC3ZSqMbAtT) | 4:04 |
 | 68 | [Bloom](https://open.spotify.com/track/4T7vbzrubScfDq0bx7Am5M) | [R.I.Pablo](https://open.spotify.com/artist/7KGkYFExwTNpryurLNxdwb) | [Bloom](https://open.spotify.com/album/1FIiSEBdr1vujOzxWfHHiD) | 2:49 |
 | 69 | [Direction](https://open.spotify.com/track/3K2PkX4J57HRMdjchzhV2x) | [Aniya Teno](https://open.spotify.com/artist/3tQk5O9Q3HKn7wA7yAl8MW), [Ivan Orozco](https://open.spotify.com/artist/0YtSuW7FvS3jNpb8dkc2Sl) | [Direction](https://open.spotify.com/album/07oAGIjAdGLI4RAFgPZ3UM) | 3:45 |
 | 70 | [12AM](https://open.spotify.com/track/0pl9fHyiXmEF7siRvdlNMe) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [Natural](https://open.spotify.com/album/0wYdnzS5bRsAZHhxGGDt00) | 2:44 |
 | 71 | [escápate](https://open.spotify.com/track/6hru9IGYTVbMXeyjjlxW2m) | [Yarge](https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4) | [escápate](https://open.spotify.com/album/5y17V9rse9zMvAqh848H8f) | 2:51 |
-| 72 | [9 Times Outta 10](https://open.spotify.com/track/6lPCFkM3CZxabYWDTgwtwB) | [Angelic Montero](https://open.spotify.com/artist/2pxAIkRFeYyAt7Pumm7t7H) | [9 Times Outta 10](https://open.spotify.com/album/3kJqAgJe5yJX8VIcx6ER9b) | 2:52 |
-| 73 | [Me Recuerda a Ti](https://open.spotify.com/track/1Fngw0WPdqz5jRasncUjZS) | [GioBulla](https://open.spotify.com/artist/0Byw4aFEQbFJBgL82P0LKc) | [Me Recuerda a Ti](https://open.spotify.com/album/0CEnEIiJKwelKhAJK8Md20) | 2:54 |
+| 72 | [Me Recuerda a Ti](https://open.spotify.com/track/1Fngw0WPdqz5jRasncUjZS) | [GioBulla](https://open.spotify.com/artist/0Byw4aFEQbFJBgL82P0LKc) | [Me Recuerda a Ti](https://open.spotify.com/album/0CEnEIiJKwelKhAJK8Md20) | 2:54 |
+| 73 | [9 Times Outta 10](https://open.spotify.com/track/6lPCFkM3CZxabYWDTgwtwB) | [Angelic Montero](https://open.spotify.com/artist/2pxAIkRFeYyAt7Pumm7t7H) | [9 Times Outta 10](https://open.spotify.com/album/3kJqAgJe5yJX8VIcx6ER9b) | 2:52 |
 | 74 | [TE EXCITO](https://open.spotify.com/track/5mckOgQpLWXGKDL7JkhinL) | [MKY](https://open.spotify.com/artist/1PqHnWEPEpvvqbNYgMPcxX) | [TE EXCITO](https://open.spotify.com/album/39gMLm6ooahFbaF0EDOsdZ) | 3:00 |
 | 75 | [me piensas ;\)](https://open.spotify.com/track/15o9c1gTVDxkGxq74lrgO9) | [Carlos Unger](https://open.spotify.com/artist/6HjZFRvUOPRuaPNzUxtqWf) | [me piensas ;\)](https://open.spotify.com/album/2m35VBQZcCZqBnKzgEbP4N) | 2:52 |
 | 76 | [IDGAD](https://open.spotify.com/track/458XxiIxKFpKEtIV7QgT02) | [Meekasia](https://open.spotify.com/artist/1uzFAZNYuGEeCjciRFPWkE) | [IDGAD](https://open.spotify.com/album/7BwTm0K4v5ykjOEw1PJb9H) | 2:46 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 | 79 | [Me Fui](https://open.spotify.com/track/5ZJd9k7DEOy3hBJmhd0DDW) | [Izma](https://open.spotify.com/artist/0Hxv2atG2UFJAA8DC2nAVJ) | [Me Fui](https://open.spotify.com/album/576cHKgH3sclXYicBXSiXm) | 4:15 |
 | 80 | [LULLABY](https://open.spotify.com/track/1yXYxa3O00Gcxy6XqGRhpE) | [COASTCITY](https://open.spotify.com/artist/3U6AuiLSmMwlxgEDGZz9xj) | [Wild Americanos](https://open.spotify.com/album/7vkUNL3WH7fg4PwqQlM0fJ) | 3:44 |
 
-Snapshot ID: `MTY2NTM1NTUzNywwMDAwMDAwMGU2MzQ0MmZiYjU3MjlmOGUyY2ExM2RjNWE0ZTVjNzRk`
+Snapshot ID: `MTY2NTM1NTUzNywwMDAwMDAwMDdhN2UzMTBhNDkxZDc4NTc2ZWRiNTE1ZTdhZmRkNjk4`

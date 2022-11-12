@@ -4,7 +4,7 @@
 
 > Timeless tunes served over easy for all your brunching needs!
 
-131 songs - 8 hr 7 min - [published](https://open.spotify.com/playlist/6oBsdW7bJwBzmYuFyvjA6b)
+133 songs - 8 hr 13 min - [published](https://open.spotify.com/playlist/6oBsdW7bJwBzmYuFyvjA6b)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Ahead By A Century](https://open.spotify.com/track/20QnPVTFe3GbDhO1gAcj6d) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Trouble At The Henhouse \(International Version\)](https://open.spotify.com/album/1QVUMGcxGBUrel61pubBIe) | 3:43 | 2022-03-07 | 2022-07-29 |
 | [Ahead By A Century](https://open.spotify.com/track/2SVEOxPGB8Z8WikO4DppNA) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Trouble At The Henhouse](https://open.spotify.com/album/5mMBYPBUI6jHW40ASk1ekn) | 3:43 | 2022-07-26 | 2022-11-11 |
 | [Ain't No Sunshine](https://open.spotify.com/track/1k1Bqnv2R0uJXQN4u6LKYt) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Just As I Am](https://open.spotify.com/album/6N8uPmDqbgXD3ztkCCfxoo) | 2:05 | 2022-03-07 |  |
-| [All I Do](https://open.spotify.com/track/0k3fBeBIcok5gbYQyQbxP5) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Hotter Than July](https://open.spotify.com/album/1ZuQduJGh0lBynUsfzD1tH) | 5:06 | 2022-07-26 |  |
+| [All I Do](https://open.spotify.com/track/0k3fBeBIcok5gbYQyQbxP5) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Hotter Than July](https://open.spotify.com/album/1ZuQduJGh0lBynUsfzD1tH) | 5:06 | 2022-07-26 | 2022-11-12 |
 | [All I Do](https://open.spotify.com/track/5Y4T4O5xy63BbgUfUkNPxA) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Hotter Than July \(Digipak\)](https://open.spotify.com/album/0qdxOwxupH4fh5aWi02s76) | 5:06 | 2022-03-07 | 2022-07-29 |
 | [America](https://open.spotify.com/track/228IDYsx1EAHiuh9xLktmj) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [America](https://open.spotify.com/album/1LbsN7ZwjjnafolKPbnDZK) | 3:38 | 2022-03-07 |  |
 | [Angel Of The Morning](https://open.spotify.com/track/6NVB6W7G3svCKe5zB7kY8q) | [Juice Newton](https://open.spotify.com/artist/4L1z1IcfK7lbqx8izGHaw5) | [Juice Newton's Greatest Hits](https://open.spotify.com/album/0fSvQOkU8rRgcsW6MerdVw) | 4:14 | 2022-07-26 |  |
@@ -51,11 +51,13 @@
 | [Everything She Ain’t](https://open.spotify.com/track/3zAOcNGOFq5Q1OsN0tcxA0) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [Everything She Ain’t](https://open.spotify.com/album/761yinsOXW3p74dFBge4c7) | 2:31 | 2022-09-23 |  |
 | [Fast Car](https://open.spotify.com/track/2M9ro2krNb7nr7HSprkEgo) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [Tracy Chapman](https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8) | 4:56 | 2022-03-07 |  |
 | [Fire and Rain](https://open.spotify.com/track/3LcYYV9ozePfgYYmXv0P3r) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Sweet Baby James](https://open.spotify.com/album/2NEQ5Q4sBbUHVVx3Wf8TEZ) | 3:20 | 2022-03-07 | 2022-07-29 |
-| [Fire and Rain \- 2019 Remaster](https://open.spotify.com/track/1oht5GevPN9t1T3kG1m1GO) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Sweet Baby James \(2019 Remaster\)](https://open.spotify.com/album/1HiG0ukRmFPN13EVcf98Jx) | 3:23 | 2022-07-26 |  |
+| [Fire and Rain](https://open.spotify.com/track/6zgeog6feHU0gpFeG8UbGa) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Calming Ballads](https://open.spotify.com/album/4nGVLxjxJZcgw5f6I4hqi0) | 3:20 | 2022-09-23 |  |
+| [Fire and Rain \- 2019 Remaster](https://open.spotify.com/track/1oht5GevPN9t1T3kG1m1GO) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Sweet Baby James \(2019 Remaster\)](https://open.spotify.com/album/1HiG0ukRmFPN13EVcf98Jx) | 3:23 | 2022-07-26 | 2022-11-12 |
 | [Follow Your Arrow](https://open.spotify.com/track/4CLPNURPcKztF9RRdcWLGP) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Same Trailer Different Park](https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6) | 3:19 | 2022-03-07 |  |
 | [Golden Years \- 2016 Remaster](https://open.spotify.com/track/4JRem7xHp2l0kmUvt9zCKu) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Station to Station \(2016 Remaster\)](https://open.spotify.com/album/0MWrKayUshRuT8maG4ZAOU) | 4:03 | 2022-03-07 |  |
 | [Gypsy](https://open.spotify.com/track/19Ym5Sg0YyOCa6ao21bdoG) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Greatest Hits](https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz) | 4:24 | 2022-03-07 |  |
 | [Happy Together](https://open.spotify.com/track/1JO1xLtVc8mWhIoE3YaCL0) | [The Turtles](https://open.spotify.com/artist/2VIoWte1HPDbZ2WqHd2La7) | [Happy Together](https://open.spotify.com/album/2pMxs38Y5A0mmHrcu3twvB) | 2:56 | 2022-03-07 |  |
+| [Have You Ever Seen The Rain](https://open.spotify.com/track/5N2U0on5JHY4VF8L7k857G) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Music For The Car](https://open.spotify.com/album/4Txw0iCiKPekNcofHqXTdg) | 2:39 | 2022-09-23 |  |
 | [Have You Ever Seen The Rain](https://open.spotify.com/track/2LawezPeJhN4AWuSB0GtAU) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Pendulum \(Expanded Edition\)](https://open.spotify.com/album/372cMadhAGlNuDnc8TssqF) | 2:40 | 2022-07-26 | 2022-11-11 |
 | [Have You Ever Seen The Rain?](https://open.spotify.com/track/4JuJ9ewGWWGy0U3URuXOSI) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Pendulum \(40th Anniversary Edition\)](https://open.spotify.com/album/77Ufm02YB5qgT72qrBFt8P) | 2:40 | 2022-03-07 | 2022-07-29 |
 | [Here You Come Again](https://open.spotify.com/track/6H7nDglS6xWpRidbhMwI2L) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Here You Come Again](https://open.spotify.com/album/64yIGFoYJVg66fRXIxIYJr) | 2:59 | 2022-03-07 |  |

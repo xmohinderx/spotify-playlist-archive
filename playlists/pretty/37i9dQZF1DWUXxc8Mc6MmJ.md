@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXxc8Mc6MmJ.md) - [plain]
 
 > Relive your favourite K\-Drama moments with these classic soundtracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 490,201 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 490,991 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXxc8Mc6MmJ.md) - [plain]
 | 34 | [시작](https://open.spotify.com/track/4kIpBfvK44bxqX7zo8K1oP) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt.2](https://open.spotify.com/album/4AgCiUejVvU6729YAJwRH9) | 3:22 |
 | 35 | [Your Existence](https://open.spotify.com/track/2tmX4T7ODY34NwvQ3DD3MC) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Twenty\-Five Twenty\-One OST Part 4](https://open.spotify.com/album/2Y4nbZENK8auf4oVoQTZ0Y) | 3:24 |
 | 36 | [For You](https://open.spotify.com/track/7rLvsAO1yb7ElxPhkz60qh) | [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq), [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl), [XIUMIN](https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6) | [Moonlovers \- Scarlet Heart Ryeo \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/6Ws1NetwWwXXK50IrNvs7R) | 3:16 |
-| 37 | [You Are My Everything](https://open.spotify.com/track/4s80CRYk3rRPZE56NvmFi7) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [Descendants Of The Sun Pt.4 \(Original Television Soundtrack\)](https://open.spotify.com/album/2xhG5yxzYITJA30jKf2MkQ) | 4:00 |
-| 38 | [Future](https://open.spotify.com/track/2gvlPqqngL3BppFCwLXnVc) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [START\-UP \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/06h9n6zGd1T17s1RkdXIc4) | 3:35 |
+| 37 | [Future](https://open.spotify.com/track/2gvlPqqngL3BppFCwLXnVc) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [START\-UP \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/06h9n6zGd1T17s1RkdXIc4) | 3:35 |
+| 38 | [You Are My Everything](https://open.spotify.com/track/4s80CRYk3rRPZE56NvmFi7) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [Descendants Of The Sun Pt.4 \(Original Television Soundtrack\)](https://open.spotify.com/album/2xhG5yxzYITJA30jKf2MkQ) | 4:00 |
 | 39 | [I Miss You](https://open.spotify.com/track/3SfbB0Y3saMIQnNctxMVhj) | [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb) | [Guardian \(Original Television Soundtrack\), Pt\. 7](https://open.spotify.com/album/36sxaODM0ii4HmNjPLWS9A) | 2:49 |
 | 40 | [Here Always \(SEUNGMIN of Stray Kids\)](https://open.spotify.com/track/2WdnAdw7zpgU0FRkGiRV8n) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Hometown Cha\-Cha\-Cha, Pt\. 7 \(Original Television Soundtrack\)](https://open.spotify.com/album/1XQ5HDkh5xYjyQZl9sQfhc) | 4:14 |
 | 41 | [ALWAYS](https://open.spotify.com/track/4LsMjCB4qt4RnWcJBiHrA6) | [Yoon Mirae](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Descendants Of The Sun Pt.1 \(Original Television Soundtrack\)](https://open.spotify.com/album/1jLD6zV1si5YCQ7y1oI2hu) | 3:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXxc8Mc6MmJ.md) - [plain]
 | 49 | [Give You My Heart](https://open.spotify.com/track/6dGsBRuavumBs5BghcXF3D) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Crash Landing on You OST Part 11](https://open.spotify.com/album/29KU88wZtAigritdYGvgPk) | 4:40 |
 | 50 | [Flower](https://open.spotify.com/track/2m5Ex34NOwIWOwHthEqLco) | [Yoon Mirae](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Crash Landing on You \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/3RJg3rTiDi2r9HJTkARqy4) | 4:12 |
 
-Snapshot ID: `MTY2NTAzNTY3MiwwMDAwMDAwMDY2ZDQ2NTcxY2NiNDYyOGVlNjQ0NWU0NWMwY2I0NGNj`
+Snapshot ID: `MTY2NTAzNTY3MiwwMDAwMDAwMDUxNjFiNDg0ZjMyNGVmOTAxYjNlY2EyYmE0NjZjMGJk`

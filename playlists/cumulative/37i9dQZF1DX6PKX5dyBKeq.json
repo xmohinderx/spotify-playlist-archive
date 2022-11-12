@@ -1177,7 +1177,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 113674,
       "name": "ABC",
       "url": "https://open.spotify.com/track/0CrxeIxaG1YeUXSh9HRds2"
@@ -7025,7 +7025,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 179320,
       "name": "DNA",
       "url": "https://open.spotify.com/track/2zdVZ86G9Hvo3fFl463zj9"
@@ -7660,6 +7660,32 @@
     },
     {
       "album": {
+        "name": "NO TOSS GIVEN",
+        "url": "https://open.spotify.com/album/5tqhYZEWC7HK9SE6A68HRp"
+      },
+      "artists": [
+        {
+          "name": "D38",
+          "url": "https://open.spotify.com/artist/0x1B0bD5jSY4Py6VWB66Fe"
+        },
+        {
+          "name": "Tim & Barry",
+          "url": "https://open.spotify.com/artist/7MdhgOG14jdWpchQuE14Ce"
+        },
+        {
+          "name": "Lil Sykes",
+          "url": "https://open.spotify.com/artist/5g5NVl2cgscKSaIr1IdjZL"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201531,
+      "name": "Drift",
+      "url": "https://open.spotify.com/track/0UPRakQPnFH6xM1IJ03NHN"
+    },
+    {
+      "album": {
         "name": "Drill & Bass",
         "url": "https://open.spotify.com/album/41eeFQd6OxZerFeyhNxbK4"
       },
@@ -7769,7 +7795,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 154906,
       "name": "Drip",
       "url": "https://open.spotify.com/track/42xiqaFveo5HY3tWNjSrh9"
@@ -8111,7 +8137,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 170624,
       "name": "East Side",
       "url": "https://open.spotify.com/track/22eVH66FuTAmnVxXfkoWqp"
@@ -9847,6 +9873,28 @@
       "duration_ms": 216774,
       "name": "Goat",
       "url": "https://open.spotify.com/track/4d23KOSaU7Hj13HmZo1BuP"
+    },
+    {
+      "album": {
+        "name": "GOD SAVE THE STREETS PT. 2",
+        "url": "https://open.spotify.com/album/4W1zMEiNX1YAJqIHNIBc0D"
+      },
+      "artists": [
+        {
+          "name": "Avelino",
+          "url": "https://open.spotify.com/artist/039zhJoEkboZ8Ii6K40Fb6"
+        },
+        {
+          "name": "RA",
+          "url": "https://open.spotify.com/artist/5ZhvnvrPmLxs6pX1lkk9p9"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200258,
+      "name": "GOD SAVE THE STREETS PT. 2",
+      "url": "https://open.spotify.com/track/6yhn90syVbMUKR4X9iZlf8"
     },
     {
       "album": {
@@ -15898,6 +15946,32 @@
     },
     {
       "album": {
+        "name": "No Refunds",
+        "url": "https://open.spotify.com/album/1Al28rcKBLEyLmP7kh7T6s"
+      },
+      "artists": [
+        {
+          "name": "Stay Flee Get Lizzy",
+          "url": "https://open.spotify.com/artist/2oZq6t5DkE2BdGbD6x8RXh"
+        },
+        {
+          "name": "Knucks",
+          "url": "https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa"
+        },
+        {
+          "name": "Nemzzz",
+          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158918,
+      "name": "No Refunds",
+      "url": "https://open.spotify.com/track/2F2U4SLHtbW28Bfgr3jVS2"
+    },
+    {
+      "album": {
         "name": "No Reply",
         "url": "https://open.spotify.com/album/3Lz3AMtaF7yMquHPDx4Jlw"
       },
@@ -15979,6 +16053,24 @@
       "duration_ms": 186666,
       "name": "Noisy Neighbours",
       "url": "https://open.spotify.com/track/2JaH5ZaktJll8VNF2PQ5If"
+    },
+    {
+      "album": {
+        "name": "Nothing Like Me",
+        "url": "https://open.spotify.com/album/3nntNLcAabIwSmIfjRtdks"
+      },
+      "artists": [
+        {
+          "name": "Yung Fume",
+          "url": "https://open.spotify.com/artist/1h5mZb0u9bcFGeViohj87o"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175500,
+      "name": "Nothing Like Me",
+      "url": "https://open.spotify.com/track/0VY1WCcwvmPyOuZgJM5lCU"
     },
     {
       "album": {
@@ -17530,6 +17622,32 @@
     },
     {
       "album": {
+        "name": "No Borders: European Compilation Project",
+        "url": "https://open.spotify.com/album/3RE7S9ZwbNH3dPGY8rJdVP"
+      },
+      "artists": [
+        {
+          "name": "Headie One",
+          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
+        },
+        {
+          "name": "Pajel",
+          "url": "https://open.spotify.com/artist/1bpI6QDUqmfKmV0Tlhj0Jm"
+        },
+        {
+          "name": "Dezzie",
+          "url": "https://open.spotify.com/artist/24Ws1EeobHSyqDxQKfie7Q"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "Place",
+      "url": "https://open.spotify.com/track/109zbOmrUeunCHnZ76B0Kx"
+    },
+    {
+      "album": {
         "name": "Plain Jane",
         "url": "https://open.spotify.com/album/1BytsId0KoI309YrKfNWdL"
       },
@@ -18049,7 +18167,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 204440,
       "name": "Propeller (feat. Dave & BNXN)",
       "url": "https://open.spotify.com/track/4A7sSA10D35HQUNrSOl5Zo"
@@ -20698,6 +20816,24 @@
     },
     {
       "album": {
+        "name": "SMOKE",
+        "url": "https://open.spotify.com/album/3L6OqofrbPjmKNhmLqg7TK"
+      },
+      "artists": [
+        {
+          "name": "KAVO",
+          "url": "https://open.spotify.com/artist/4Rsw28ARMutnjj588QlyWT"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127448,
+      "name": "SMOKE",
+      "url": "https://open.spotify.com/track/54KIiAACOVn736iuStrQH6"
+    },
+    {
+      "album": {
         "name": "Smokey (Freestyle)",
         "url": "https://open.spotify.com/album/1FqKQYH9eWJ3LQsSEkB1vY"
       },
@@ -21087,6 +21223,28 @@
       "duration_ms": 180000,
       "name": "Spoilt",
       "url": "https://open.spotify.com/track/6uPzjHmUcrErMjg4McdTnh"
+    },
+    {
+      "album": {
+        "name": "Spot It I Got It",
+        "url": "https://open.spotify.com/album/61NAFgM8Hmj6sME58lAyh2"
+      },
+      "artists": [
+        {
+          "name": "Nito NB",
+          "url": "https://open.spotify.com/artist/68aKxCNCC9CLaAkMXbbaSD"
+        },
+        {
+          "name": "KG970",
+          "url": "https://open.spotify.com/artist/6m735GSES3duQtLrgqoGUb"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161073,
+      "name": "Spot It I Got It",
+      "url": "https://open.spotify.com/track/7fHWYqJHAeM1eyvZZVbhwY"
     },
     {
       "album": {
@@ -22181,7 +22339,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 150889,
       "name": "Ten Toes",
       "url": "https://open.spotify.com/track/2l6cWeDkec1ZZbiMlI47kR"
@@ -23839,7 +23997,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 166530,
       "name": "Wait 4 Me",
       "url": "https://open.spotify.com/track/5RKxJGS5iYUZu2VTBtnbPW"

@@ -4,12 +4,13 @@
 
 > POV: It's your last night with your high school sweetheart, curated by Jordan Fisher from Hello, Goodbye, and Everything in Between
 
-88 songs - 5 hr 53 min - [published](https://open.spotify.com/playlist/2G6quvBymHtG9ST7C2NhuC)
+90 songs - 6 hr 0 min - [published](https://open.spotify.com/playlist/2G6quvBymHtG9ST7C2NhuC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [1901](https://open.spotify.com/track/1Ug5wxoHthwxctyWTUMGta) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I) | 3:13 | 2022-07-07 |  |
+| [1901](https://open.spotify.com/track/1Ug5wxoHthwxctyWTUMGta) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I) | 3:13 | 2022-07-07 | 2022-11-12 |
 | [1901](https://open.spotify.com/track/3FM33HqRlV7J1QJoPOnd2u) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/0IQbQC6V4UuHLcgO9Yt3uu) | 3:13 | 2022-07-07 | 2022-10-14 |
+| [1901](https://open.spotify.com/track/3LGRTvdAMMZuzCwJBbPfgW) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [This Is Indie](https://open.spotify.com/album/4y7FB4qKDY7u87ry8kO5dm) | 3:13 | 2022-07-07 |  |
 | [1901](https://open.spotify.com/track/7hExqd5aeA6cdDFx6sBfd3) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/7bJTscIEKaObZS61RmpviI) | 3:13 | 2022-07-07 | 2022-07-29 |
 | [2am](https://open.spotify.com/track/0LQ8OWUZXRd7qu5ujC3758) | [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb) | [Chronchitis](https://open.spotify.com/album/6aojA7xVxXyXlJjzAheiIQ) | 4:59 | 2022-07-07 | 2022-07-29 |
 | [2am](https://open.spotify.com/track/4cs6ORX8aKd6rtVdwAnnel) | [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb) | [Chronchitis](https://open.spotify.com/album/2lKYJFAYLywsVOxLMRoAOe) | 4:59 | 2022-07-07 | 2022-11-11 |
@@ -62,7 +63,8 @@
 | [Love Will Tear Us Apart \- 2020 Remaster](https://open.spotify.com/track/34iOH7LY3vme5rQxsVILZ4) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [Love Will Tear Us Apart](https://open.spotify.com/album/0u0CJa9zwFbGSU8JWQYS5G) | 3:28 | 2022-04-14 | 2022-07-08 |
 | [Machinery Of Torment \(From The Netflix Film "Metal Lords"\)](https://open.spotify.com/track/7kww7WSGoTy2Nkvl2tKpIJ) | [Skullflower](https://open.spotify.com/artist/2NyzmKNW0uXrv6jEE3cQfJ) | [Machinery Of Torment \(From The Netflix Film "Metal Lords"\)](https://open.spotify.com/album/5tHxZMveT3armkawVYxETP) | 4:22 | 2022-04-14 | 2022-07-08 |
 | [make up sex \(feat\. blackbear\)](https://open.spotify.com/track/50eJOxJiGmJ7PBZaTKpje1) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [mainstream sellout](https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc) | 2:02 | 2022-07-07 |  |
-| [Midnight City](https://open.spotify.com/track/1eyzqe2QqGZUmfcPZtrIyt) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Hurry Up, We're Dreaming](https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR) | 4:01 | 2022-07-07 |  |
+| [Midnight City](https://open.spotify.com/track/1eyzqe2QqGZUmfcPZtrIyt) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Hurry Up, We're Dreaming](https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR) | 4:01 | 2022-07-07 | 2022-11-12 |
+| [Midnight City](https://open.spotify.com/track/6uaBPdNeTvL4yH9CVJOg6K) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Midnight City](https://open.spotify.com/album/5DB2xMdT0qoWeaHGW9q8e6) | 4:01 | 2022-07-07 |  |
 | [Midnight City](https://open.spotify.com/track/36lqt57OHqk48BVFzPDEKt) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Hurry Up We're Dreaming](https://open.spotify.com/album/6yZtkhTr6TXRoUR72lveEU) | 4:03 | 2022-07-07 | 2022-07-29 |
 | [Mover Awayer](https://open.spotify.com/track/1yyIxshSIfW89EPTW0xkPH) | [Hobo Johnson](https://open.spotify.com/artist/05SdqPzK4m3k1ljK2wrTSP) | [The Fall of Hobo Johnson](https://open.spotify.com/album/3QrkHSj8pBzE1Kwhpnktkw) | 3:35 | 2022-07-07 |  |
 | [Nevermore](https://open.spotify.com/track/4dvLOP9XOBUgrWAnHMJf8m) | [Milk & Bone](https://open.spotify.com/artist/4fmvA5uVlZUNsje29D1PaW) | [Deception Bay](https://open.spotify.com/album/32lqkV59tbtXqcQeyasTmO) | 3:35 | 2022-07-07 |  |

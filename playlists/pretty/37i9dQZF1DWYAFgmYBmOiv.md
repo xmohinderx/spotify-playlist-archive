@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAFgmYBmOiv.md) - [plain]
 
 > POV: It's your last night with your high school sweetheart, curated by Jordan Fisher from Hello, Goodbye, and Everything in Between
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,147 likes - 52 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,151 likes - 52 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Everything I Ever Wanted \(Music from the Netflix Film "Hello, Goodbye, and Everything in Between"\)](https://open.spotify.com/track/3UXHq6nG3t1223oh8zZrM9) | [Jordan Fisher](https://open.spotify.com/artist/60wslYioiBcxSTInM4nIy2) | [Everything I Ever Wanted \(Music from the Netflix Film "Hello, Goodbye, and Everything in Between"\)](https://open.spotify.com/album/119HvKMU8tIao52eIy43X6) | 3:51 |
 | 2 | [Feels Like](https://open.spotify.com/track/2Hyaggl5zUVCwGSbJmkOs3) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Candydrip](https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ) | 3:29 |
-| 3 | [Midnight City](https://open.spotify.com/track/1eyzqe2QqGZUmfcPZtrIyt) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Hurry Up, We're Dreaming](https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR) | 4:01 |
+| 3 | [Midnight City](https://open.spotify.com/track/6uaBPdNeTvL4yH9CVJOg6K) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Midnight City](https://open.spotify.com/album/5DB2xMdT0qoWeaHGW9q8e6) | 4:01 |
 | 4 | [Bennie And The Jets](https://open.spotify.com/track/0LHzd11GIXVmND7TfQnGiy) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [70's Pop Number 1's](https://open.spotify.com/album/5i8kfdER1rHnhzYcQc5KXX) | 5:23 |
 | 5 | [Chicago](https://open.spotify.com/track/1yupbrI7ROhigIHpQBevPh) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Illinois](https://open.spotify.com/album/1pOl0KEC1iQnA6F0XxV4To) | 6:04 |
 | 6 | [Closer](https://open.spotify.com/track/4YtsQv4fham2xoPIQ8Ho9Q) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [The Sea](https://open.spotify.com/album/6BxDGmmHKXvYvvGur0CdTI) | 4:17 |
 | 7 | [Gold](https://open.spotify.com/track/5EUlMkyX5kwBp2SFU6PqVi) | [Bondax](https://open.spotify.com/artist/4qobOrZpdUri80gScwsHfs) | [Gold](https://open.spotify.com/album/6lShEmilgF8MaZG0Hjh3du) | 3:57 |
 | 8 | [Rock With U](https://open.spotify.com/track/5ZHwIIszkgLcVT3CicIylm) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Discipline](https://open.spotify.com/album/5hDjUyxqB0g8uwn3M0g9MM) | 3:52 |
 | 9 | [2am](https://open.spotify.com/track/6j00YWxtOgfHICJsFEb5Gx) | [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb) | [2am \- Single](https://open.spotify.com/album/19riw0861BcVHxwrJbiybk) | 4:59 |
-| 10 | [1901](https://open.spotify.com/track/1Ug5wxoHthwxctyWTUMGta) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I) | 3:13 |
+| 10 | [1901](https://open.spotify.com/track/3LGRTvdAMMZuzCwJBbPfgW) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [This Is Indie](https://open.spotify.com/album/4y7FB4qKDY7u87ry8kO5dm) | 3:13 |
 | 11 | [Dreaming](https://open.spotify.com/track/2NsqAf9DHFzu5wIeO66fpS) | [Smallpools](https://open.spotify.com/artist/4iiQabGKtS2RtTKpVkrVTw) | [Perez Hilton Presents "Pop Up! \#4"](https://open.spotify.com/album/5Bnvm9CtIRFDEBjkYLRGC0) | 3:35 |
 | 12 | [Save Room](https://open.spotify.com/track/5Y3525kHmyPBX4TWqPY4Mq) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [R&B Summer Mix](https://open.spotify.com/album/5vWkCTOFti5ycfczgo389O) | 3:55 |
 | 13 | [Spinning](https://open.spotify.com/track/4tS4iYnPEfV6z1EWcvxLcn) | [Jack's Mannequin](https://open.spotify.com/artist/42aeGx2I3uXINpGqC8L0LD) | [The Glass Passenger](https://open.spotify.com/album/4tD242Idl50T7UUn5iz6Hu) | 2:52 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAFgmYBmOiv.md) - [plain]
 | 51 | [If You Think It's Love](https://open.spotify.com/track/3iiL6merNpFNX1bny9sfvM) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Cheap Queen](https://open.spotify.com/album/00uqjqwLruO346z3cNlNqG) | 3:23 |
 | 52 | [Seventeen](https://open.spotify.com/track/4gsR34XSIE2fUY4odwZqym) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [Seventeen](https://open.spotify.com/album/4BrJEabBSw59bwSjKZl25p) | 3:45 |
 
-Snapshot ID: `MTY1NzIwOTgxOSwwMDAwMDAwMDY4ODJmMzEwNWUyZTBmN2I1OTI0MDIzY2M1YmRjYzI1`
+Snapshot ID: `MTY1NzIwOTgxOSwwMDAwMDAwMDk5MWNiYWViODJlNGI3MjBiMDk5ZTA3YzlhNzVhMGUz`

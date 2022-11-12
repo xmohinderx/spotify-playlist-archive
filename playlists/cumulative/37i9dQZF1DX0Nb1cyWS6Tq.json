@@ -1099,7 +1099,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-19",
+      "date_removed": null,
       "duration_ms": 262000,
       "name": "Desire",
       "url": "https://open.spotify.com/track/4B9lC39ZaRFEku3aneRmAE"
@@ -2057,7 +2057,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 466506,
       "name": "Just a Lifetime",
       "url": "https://open.spotify.com/track/7Bqz2cjdtsdFyMYiAdZdnK"
@@ -2821,6 +2821,24 @@
     {
       "album": {
         "name": "Disintegration (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6vQB3ZBxnQPP3jQcGV2qzg"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317346,
+      "name": "Plainsong - 2010 Remaster",
+      "url": "https://open.spotify.com/track/76rfUs6iZBa3OCf8tCBn27"
+    },
+    {
+      "album": {
+        "name": "Disintegration (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0H6TddUF2M63ZSHGvhk5yy"
       },
       "artists": [
@@ -2867,7 +2885,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 220640,
       "name": "Play for Today - 2006 Remaster",
       "url": "https://open.spotify.com/track/1PnQ1sK77wMXagGDhwfBdY"
@@ -3339,7 +3357,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 252533,
       "name": "She Sells Sanctuary",
       "url": "https://open.spotify.com/track/3qLZ866ZfaK0B0R5FIqXLG"
@@ -3361,6 +3379,24 @@
       "duration_ms": 252533,
       "name": "She Sells Sanctuary",
       "url": "https://open.spotify.com/track/66glXjjFvlS5r1gDUK4ugq"
+    },
+    {
+      "album": {
+        "name": "Love (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4PB81w1uhFht0lUWnrYhje"
+      },
+      "artists": [
+        {
+          "name": "The Cult",
+          "url": "https://open.spotify.com/artist/49DW3KvkyjHO35mK1JnSyS"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262493,
+      "name": "She Sells Sanctuary - Remastered",
+      "url": "https://open.spotify.com/track/5odkO6OPrd13O8WB493f1K"
     },
     {
       "album": {
@@ -4257,7 +4293,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 268013,
       "name": "Twenty Four Hours - 2007 Remaster",
       "url": "https://open.spotify.com/track/36HznXQNGoen7dwq4Vv6nP"
@@ -4275,7 +4311,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 297600,
       "name": "Under the Milky Way",
       "url": "https://open.spotify.com/track/1RCtHLyq1xIbgGMrYRrKJ2"

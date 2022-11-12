@@ -5180,6 +5180,24 @@
     },
     {
       "album": {
+        "name": "Look Away, Look Away",
+        "url": "https://open.spotify.com/album/0i4Zt5ln9MvSGkCeZvrqLM"
+      },
+      "artists": [
+        {
+          "name": "The Go! Team",
+          "url": "https://open.spotify.com/artist/6veTV9sF06FBf2KN0xAdvo"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202754,
+      "name": "Divebomb",
+      "url": "https://open.spotify.com/track/3OXpFoS8OktEEB8FSiO3xU"
+    },
+    {
+      "album": {
         "name": "Divebomb",
         "url": "https://open.spotify.com/album/1YXKiRHBrBczUqXo7cWEC6"
       },
@@ -5191,7 +5209,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 202754,
       "name": "Divebomb",
       "url": "https://open.spotify.com/track/4yDT02dRXXMIZEEYxBiSkE"

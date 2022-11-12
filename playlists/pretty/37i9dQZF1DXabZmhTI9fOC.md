@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 
 > Turn up the heat with music from and inspired by the new season of Love Island USA, streaming only on <a href="https://www.peacocktv.com/stream\-tv/love\-island?cid=2205orglvisldexterndeml5360&utm\_campaign=2205orglvisld&utm\_source=sptfy\_sptfy\_na&utm\_medium=ernd\_eml\_awa\_eml&utm\_term=prtnrcust\_spotifysubs&utm\_content=loveisland">Peacock</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,986 likes - 262 songs - 14 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,997 likes - 262 songs - 14 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 | 46 | [Teardrops](https://open.spotify.com/track/2xF251qIsU4IfvLn469xU0) | [Manafest](https://open.spotify.com/artist/4uOFEWy9mIcvQbr03IbPcL), [UNSECRET](https://open.spotify.com/artist/721Thvnq29Or9LXUyfF75c), [GREYLEE](https://open.spotify.com/artist/2Jphi8NzWnXSePDSLqJ6V5) | [Teardrops](https://open.spotify.com/album/16r7KNalPqPrGUFRBFLvvc) | 2:48 |
 | 47 | [Into You](https://open.spotify.com/track/63y6xWR4gXz7bnUGOk8iI6) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Dangerous Woman](https://open.spotify.com/album/3pdKKSqqLVIKmRTGw0x2N7) | 4:04 |
 | 48 | [Let You Down](https://open.spotify.com/track/54aWi8Afw2HYtKfPHxuGSW) | [Wyn Starks](https://open.spotify.com/artist/3rXMN9AbcZXln8vo79ufNQ) | [Black Is Golden](https://open.spotify.com/album/6jjBFckHG6PiKlHNGjvNQK) | 3:35 |
-| 49 | [Light Switch](https://open.spotify.com/track/0F1TxVw4mWkqp9vJrnw65w) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Simply Feelgood](https://open.spotify.com/album/6r5uHLa2JBpivqjVTYZdiT) | 3:05 |
+| 49 | [Light Switch](https://open.spotify.com/track/0eXB93GUVd0jhjg8KZJ6af) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [FYP \- Viral Hits](https://open.spotify.com/album/15eWAxGQwHa8jozAYs6Xoc) | 3:05 |
 | 50 | [Hardcore](https://open.spotify.com/track/2aRdlM9PMCRcUrM5DruLZv) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Hardcore](https://open.spotify.com/album/41KhQVLtpKGsitTXYrKxeb) | 2:52 |
 | 51 | [I Wanna Dance With Somebody \(Who Loves Me\)](https://open.spotify.com/track/0cbBZFEMcIsQujl5dIdcdi) | [Morgan Harper\-Jones](https://open.spotify.com/artist/73s0o3W8ycCcK4hRjuGNrj) | [Breathe](https://open.spotify.com/album/6HDqgrcQJjK2tckVLCDfvp) | 3:02 |
 | 52 | [It's Tricky](https://open.spotify.com/track/6jBCehpNMkwFVF3dz4nLIW) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA) | [Raising Hell](https://open.spotify.com/album/7AFsTiojVaB2I58oZ1tMRg) | 3:03 |
@@ -208,7 +208,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 | 198 | [Good Life](https://open.spotify.com/track/1H0osKoTCeMscCQhjD0Mee) | [Cardigan Club](https://open.spotify.com/artist/6L6CvdHfpiOkQqdlUORPvW) | [Cardigan Club](https://open.spotify.com/album/6boSllnOkLzfHmPYODwtZU) | 3:04 |
 | 199 | [Next Time](https://open.spotify.com/track/3HQrxN0bBKxWIKRmgjUq06) | [JESSIA](https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY) | [Next Time](https://open.spotify.com/album/7hgfr4aUdhvtwC1xK5XhJ6) | 3:17 |
 | 200 | [Bang Bang](https://open.spotify.com/track/28DeebbtRZEcOLeVCzMhCo) | [Evie Borgia](https://open.spotify.com/artist/0sKrDcettSyvQJ58oAygJi) | [Monster](https://open.spotify.com/album/1P1NwZkprQPUmVs65JQ1lJ) | 3:01 |
-| 201 | [Toxic](https://open.spotify.com/track/10VGirghK8scti9gNw2NTw) | [2WEI](https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc) | [Sequels](https://open.spotify.com/album/3cVAdcxaUZIvkV6Da2BTdC) | 3:57 |
+| 201 | [Toxic](https://open.spotify.com/track/1lhSumcZpcom7vrJRCefSt) | [2WEI](https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc) | [Toxic](https://open.spotify.com/album/01lXgHJJp8bcFZvq5lScUg) | 3:57 |
 | 202 | [HAUNTED](https://open.spotify.com/track/5ff77CZZUpY8Gvu5GuA6vb) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [HAUNTED](https://open.spotify.com/album/4QhZwVQuNbbXtMgjp2Ngp2) | 2:17 |
 | 203 | [Dangerous \(feat\. Joywave\) \- Oliver Remix](https://open.spotify.com/track/3PVukkbEGmJGoyJG2lfBPP) | [Big Data](https://open.spotify.com/artist/4S1nvNHWiZLP4rzwmULmUa), [Joywave](https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m), [Oliver](https://open.spotify.com/artist/0NDElNqwGRCmsYIQFapp6K) | [1.6 \(feat\. Joywave\)](https://open.spotify.com/album/4Sl5PqIX7DpX39AiCNnYQh) | 4:37 |
 | 204 | [Eyes Don’t Lie](https://open.spotify.com/track/2RSqIGxbnTQQjZIS5Iyakn) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Eyes Don’t Lie](https://open.spotify.com/album/5oga4aKPFCUavGaIVSCyK6) | 3:56 |
@@ -271,4 +271,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 | 261 | [Bad Dream](https://open.spotify.com/track/2IwbIGkquI55VOzcWUg8fg) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Bad Dream](https://open.spotify.com/album/4rDxEB6OJqbYb38hY083qw) | 3:22 |
 | 262 | [Everybody Get Up](https://open.spotify.com/track/1N33YOi540BN6xXXiP0WjL) | [Yes Yes No Maybe](https://open.spotify.com/artist/125Kdt1Do4mnDhFALzs0LT) | [Start the Fire](https://open.spotify.com/album/4c3ehhboJ1XlgNSvpFKNh1) | 3:32 |
 
-Snapshot ID: `MTY2MTczNzU4MywwMDAwMDAwMDRkYTA3OTQ0YTE0MGUxNmExYWUzOTljYmJmZmZlOTVh`
+Snapshot ID: `MTY2MTczNzU4MywwMDAwMDAwMGM3MDFiZTI5MDhkMWE0YmRlZTA1MzBlZDI4YjA5MjUx`

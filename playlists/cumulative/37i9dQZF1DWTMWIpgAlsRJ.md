@@ -4,7 +4,7 @@
 
 > The 100 greatest FIFA tracks of all time
 
-113 songs - 7 hr 2 min - not published yet
+115 songs - 7 hr 9 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,13 +69,15 @@
 | [Malemolência](https://open.spotify.com/track/1Wit1Nw3sVBbyyX9NjjT7H) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn) | [CéU](https://open.spotify.com/album/6dG1XPrl1KEeK4MND7WAoB) | 2:54 | 2022-11-07 |  |
 | [Mean Demeanor](https://open.spotify.com/track/3EVwyzb6Q83NHhj1OKV6H4) | [Run The Jewels](https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C), [El\-P](https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl), [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI) | [Mean Demeanor](https://open.spotify.com/album/2VhGMNbiE4aWgUUYT1MV94) | 3:01 | 2022-11-07 |  |
 | [Mercy](https://open.spotify.com/track/78twQ5XCFJMTE37ZSU0gsj) | [Duffy](https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO) | [Rockferry](https://open.spotify.com/album/6freV6eqxuFjSr3E93Oqtz) | 3:39 | 2022-11-07 |  |
-| [Mess Is Mine](https://open.spotify.com/track/29jtZGdgpE2lWm2mkIt6HS) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:43 | 2022-11-07 |  |
+| [Mess Is Mine](https://open.spotify.com/track/29jtZGdgpE2lWm2mkIt6HS) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:43 | 2022-11-07 | 2022-11-12 |
+| [Mess Is Mine](https://open.spotify.com/track/5rVKEtos8JG9HYISy13KyX) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Chilled Breakfast](https://open.spotify.com/album/0BHhuEYiiaI5mR8i9bg1gV) | 3:43 | 2022-11-07 |  |
 | [Monster](https://open.spotify.com/track/6s3kEvE18DIURckoh0mWTZ) | [The Automatic](https://open.spotify.com/artist/7IZcg74X6CKzf0SfRliRrB) | [Not Accepted Anywhere](https://open.spotify.com/album/4GAjTcDqAzIvjarKA715I7) | 3:39 | 2022-11-07 |  |
 | [Morrow](https://open.spotify.com/track/3sIoWQZbJqUKj5iELz8eTA) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Modus Vivendi](https://open.spotify.com/album/6Q2rUMVAKj1DaDh3xB0IEU) | 4:06 | 2022-11-07 |  |
 | [My Type](https://open.spotify.com/track/2Iq6HhIquO7JKr0KfTNLzU) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [My Type EP](https://open.spotify.com/album/2r69WsAMyjbgLf8c4woaUr) | 3:24 | 2022-11-07 |  |
 | [Never Come Back](https://open.spotify.com/track/2xxKJgIpgiancRpSup5dHU) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Suddenly](https://open.spotify.com/album/7Dl44V6YlpZ7apC87YAWnC) | 5:05 | 2022-11-07 |  |
 | [No Problem](https://open.spotify.com/track/5k3jdIh7BpJaV1DntDQoSD) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [No More Idols](https://open.spotify.com/album/245j9BaZFuEso2vfLRVnQr) | 4:10 | 2022-11-07 |  |
-| [Offence](https://open.spotify.com/track/255XENrbBfTCRz6XBL7jJR) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [GREY Area](https://open.spotify.com/album/3Z8Df4ghTJ7afEWkurB2I1) | 2:48 | 2022-11-07 |  |
+| [Offence](https://open.spotify.com/track/255XENrbBfTCRz6XBL7jJR) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [GREY Area](https://open.spotify.com/album/3Z8Df4ghTJ7afEWkurB2I1) | 2:48 | 2022-11-07 | 2022-11-12 |
+| [Offence](https://open.spotify.com/track/3JJXrYlJWw2ruon5KP4mOJ) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Offence](https://open.spotify.com/album/6iXfpbB3SxBKoTnZHAxCnH) | 2:48 | 2022-11-07 |  |
 | [Ojitos Lindos](https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:18 | 2022-11-07 |  |
 | [On Top Of The World](https://open.spotify.com/track/6KuHjfXHkfnIjdmcIvt9r0) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Night Visions \(Deluxe\)](https://open.spotify.com/album/1rzDtYMpZDhRgKNigB467r) | 3:09 | 2022-11-07 |  |
 | [Ounana](https://open.spotify.com/track/5vG6arj1VenNFvm33XTAoP) | [Bianca Costa](https://open.spotify.com/artist/1DcL22xdIWcdNa4ZHaXZjT) | [Ounana](https://open.spotify.com/album/5usO7FkdsJQRcRL3FckUFH) | 2:31 | 2022-11-07 |  |

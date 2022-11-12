@@ -8,6 +8,28 @@
   "tracks": [
     {
       "album": {
+        "name": "The Best Of Bill Medley",
+        "url": "https://open.spotify.com/album/1O7j1wsOIpUZEVYkqAqZyr"
+      },
+      "artists": [
+        {
+          "name": "Bill Medley",
+          "url": "https://open.spotify.com/artist/1XE70WwxhnrXNAJYQQ9ygx"
+        },
+        {
+          "name": "Jennifer Warnes",
+          "url": "https://open.spotify.com/artist/1BwHztAQKypBuy5WBEdJnG"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289066,
+      "name": "(I've Had) The Time Of My Life",
+      "url": "https://open.spotify.com/track/2JCTiiJQFWQNC0Zp8rsJRB"
+    },
+    {
+      "album": {
         "name": "Dirty Dancing",
         "url": "https://open.spotify.com/album/03HVo5MVOWQ4kilTtF1Czg"
       },
@@ -691,7 +713,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 197960,
       "name": "Barbie Girl",
       "url": "https://open.spotify.com/track/5ZrDlcxIDZyjOzHdYW1ydr"
@@ -1895,7 +1917,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 198773,
       "name": "Danza Kuduro",
       "url": "https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw"
@@ -1975,7 +1997,7 @@
       ],
       "date_added": "2021-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 272080,
       "name": "Don't Cha",
       "url": "https://open.spotify.com/track/1gZ7i4qxXkHZb1r6eioaAP"
@@ -2455,7 +2477,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-18",
+      "date_removed": null,
       "duration_ms": 235186,
       "name": "Freek-A-Leek",
       "url": "https://open.spotify.com/track/4MeDnO5yA2Zi6IMlVApRci"
@@ -2719,7 +2741,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 270426,
       "name": "Girls, Girls, Girls",
       "url": "https://open.spotify.com/track/549Go7a66CX6k523uK9kUv"
@@ -3737,7 +3759,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 213306,
       "name": "I Want It That Way",
       "url": "https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya"
@@ -4191,7 +4213,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 215800,
       "name": "In the Summertime",
       "url": "https://open.spotify.com/track/3RNyGLgSvmVRZ7xKUp8Wgd"
@@ -4563,7 +4585,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 197693,
       "name": "Kung Fu Fighting",
       "url": "https://open.spotify.com/track/40NRm1ZLvZpUSCUXAGGZ8J"
@@ -4867,7 +4889,7 @@
       ],
       "date_added": "2021-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 206226,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/2TTYIwTM2iLC1YOyHuhRMt"
@@ -5505,7 +5527,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 169760,
       "name": "One Week",
       "url": "https://open.spotify.com/track/29hBRadFZf9QTGRHZmxm65"
@@ -5765,7 +5787,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 220733,
       "name": "Rasputin - Single Version",
       "url": "https://open.spotify.com/track/67hbP9PFQZrb4XZc3TzB0s"
@@ -6407,7 +6429,7 @@
       ],
       "date_added": "2021-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 173666,
       "name": "Spice Up Your Life",
       "url": "https://open.spotify.com/track/5qGwqO0lkbBXw4xNfzT7SF"
@@ -7139,6 +7161,24 @@
       "duration_ms": 214320,
       "name": "The Ketchup Song (Asereje) - Spanglish Version",
       "url": "https://open.spotify.com/track/1zhCFvo8Snlg9J2lUl3jOM"
+    },
+    {
+      "album": {
+        "name": "Hijas del Tomate",
+        "url": "https://open.spotify.com/album/5Fs94v1xXPl8Q1mTMWMTLO"
+      },
+      "artists": [
+        {
+          "name": "Las Ketchup",
+          "url": "https://open.spotify.com/artist/1e8GEl48ktvfDpruMKB6Oe"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213973,
+      "name": "The Ketchup Song (Aserej\u00e9) - Spanglish Version",
+      "url": "https://open.spotify.com/track/6UEfyhyfhYQsyipxOd95Ie"
     },
     {
       "album": {
@@ -7885,7 +7925,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 296080,
       "name": "We Built This City",
       "url": "https://open.spotify.com/track/6OnfBiiSc9RGKiBKKtZXgQ"
@@ -7997,7 +8037,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 222458,
       "name": "We Like To Party! (The Vengabus)",
       "url": "https://open.spotify.com/track/73ljrkSg4A0q3ByU0Cu7mw"
@@ -8073,7 +8113,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 270373,
       "name": "What Is Love - 7\" Mix",
       "url": "https://open.spotify.com/track/2IHaGyfxNoFPLJnaEg4GTs"
@@ -8179,7 +8219,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 232573,
       "name": "Where the Party At (feat. Nelly)",
       "url": "https://open.spotify.com/track/5mNV8Mz59bzyuQ53gTw0c0"

@@ -4,7 +4,7 @@
 
 > Restaurant style, elegant music for your fancy dinner
 
-275 songs - 11 hr 49 min - [published](https://open.spotify.com/playlist/0gUlOOOztUGwj972hi8oyP)
+276 songs - 11 hr 51 min - [published](https://open.spotify.com/playlist/0gUlOOOztUGwj972hi8oyP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,8 @@
 | [Lekko](https://open.spotify.com/track/6hg8132jlk9fZsSbfpdmGR) | [Marcin Starosta](https://open.spotify.com/artist/3zXWrdKJkoFzMsPsw51Nzw) | [Lekko](https://open.spotify.com/album/2AKOAyRuAkRAg0sNWoH2nL) | 2:27 | 2022-04-27 |  |
 | [Lemons In London](https://open.spotify.com/track/4NEIlZgVYb3lwN81SgxcJV) | [Jesse Brown](https://open.spotify.com/artist/5ou3jxRm9LFgxvuZij5LBT) | [Lemons In London](https://open.spotify.com/album/3ssXGJlbEKzfnqNoHFOJ5S) | 1:52 | 2022-04-27 |  |
 | [Life In Lozario](https://open.spotify.com/track/6C2QuSIfyMvf8M0q7Wq9sX) | [Antoine Di Luzio](https://open.spotify.com/artist/0nvI5DwMokXVsbHH7sBuwv) | [Life In Lozario](https://open.spotify.com/album/1uwWZdaGWerJAS4HpCLc46) | 2:50 | 2022-06-06 |  |
-| [Lillian](https://open.spotify.com/track/5lcjalUNbHaaSvXRTtYd1p) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP), [Søren Tarding](https://open.spotify.com/artist/1bHfoau7ud3dvN33mMtzuj) | [Mursejler](https://open.spotify.com/album/4fQTzcMpCxxpajM3dMUqID) | 2:07 | 2022-07-07 |  |
+| [Lillian](https://open.spotify.com/track/4cwSFF1hXI78ZTmREh6Yww) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP), [Søren Tarding](https://open.spotify.com/artist/1bHfoau7ud3dvN33mMtzuj) | [Lillian](https://open.spotify.com/album/76qmoKhO9fwNsUh1BOcnPf) | 2:07 | 2022-10-24 |  |
+| [Lillian](https://open.spotify.com/track/5lcjalUNbHaaSvXRTtYd1p) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP), [Søren Tarding](https://open.spotify.com/artist/1bHfoau7ud3dvN33mMtzuj) | [Mursejler](https://open.spotify.com/album/4fQTzcMpCxxpajM3dMUqID) | 2:07 | 2022-07-07 | 2022-11-12 |
 | [Lillian](https://open.spotify.com/track/6DGMmL7Y0CG0OFEvRepJpq) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP), [Søren Tarding](https://open.spotify.com/artist/1bHfoau7ud3dvN33mMtzuj) | [Lillian](https://open.spotify.com/album/0E6zHfeSuibVbeFZQR5v4A) | 2:07 | 2022-04-27 | 2022-07-29 |
 | [Lillooet](https://open.spotify.com/track/0XFRQ8WknkxQ58hNekVr9h) | [Leroy Denby](https://open.spotify.com/artist/0KWOqZZPmlWxaNmu9V6QDa) | [Lillooet](https://open.spotify.com/album/2MqiZjH1uLdTjCaDyGt6Jv) | 1:55 | 2022-04-27 |  |
 | [Linger](https://open.spotify.com/track/1dl9NpSOGc99QraGZDAzWx) | [Stephen Canyons](https://open.spotify.com/artist/5ZQycVE891WyyN6kIKe7Oj) | [Linger](https://open.spotify.com/album/62b5qlDwAPMIrK3300tgOP) | 2:04 | 2022-04-27 |  |

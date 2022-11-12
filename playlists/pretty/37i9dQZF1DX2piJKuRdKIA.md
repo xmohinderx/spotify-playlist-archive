@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2piJKuRdKIA.md) - [plain]
 
 > Una sensual selección de canciones para bailar en una sola baldosa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,380 likes - 50 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,963 likes - 50 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,11 +14,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2piJKuRdKIA.md) - [plain]
 | 4 | [Sin Sentimientos](https://open.spotify.com/track/0oHX2BlLsnbu3nnTeEUIuL) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Una Aventura...La Historia](https://open.spotify.com/album/4at8kygDVfKHWHIXox7uGs) | 4:54 |
 | 5 | [Que Locura Enamorarme De Ti](https://open.spotify.com/track/1r2EerxDMVQbXxqsqnjUhy) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Lluvia](https://open.spotify.com/album/5wfnIPd0TYl6ZKNPhvaYwW) | 5:05 |
 | 6 | [Corazon de Acero](https://open.spotify.com/track/1SZMZCqVHIWgyEy2dIHsZR) | [Yiyo Sarante](https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA) | [Corazon de Acero](https://open.spotify.com/album/3BqW7Zt2KkIJaxrqvhyklo) | 3:45 |
-| 7 | [Anhelo](https://open.spotify.com/track/68runhwF0SdEN1DFSadXWk) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [Reclamando Nuestro Espacio](https://open.spotify.com/album/22oTpQbBrBfkrqMsumH3OX) | 4:08 |
+| 7 | [Anhelo](https://open.spotify.com/track/6mqEhKz4AmDjujwZrfnqwq) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [La Historia..\. Los Éxitos](https://open.spotify.com/album/5hVmKtEt52RcmAk6LYB2vJ) | 4:05 |
 | 8 | [Amores Como el Nuestro](https://open.spotify.com/track/1RpCXjlxFGS6LfPOvqSJ7M) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Oro Salsero](https://open.spotify.com/album/0FQmLebvYxK7seqvm32JKA) | 5:01 |
 | 9 | [El Jardín Prohibido](https://open.spotify.com/track/5ucu31GZ6Sxw5K8OgrFTxI) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [Alex Bueno](https://open.spotify.com/album/6MCkKGtuyBZRfS1xvH3mvr) | 5:25 |
 | 10 | [Mía](https://open.spotify.com/track/2on3gXXCAoZKdOWXdgHmUR) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Lluvia \(Baile Total\)](https://open.spotify.com/album/4AgZZalEkba03Ww2hTl8cW) | 4:41 |
-| 11 | [Tu Amigo o Tu Amante](https://open.spotify.com/track/2GgBL5RYZafPzqfHJjn4p6) | [La Sabrosura](https://open.spotify.com/artist/2W3ROz699xenrLLblfUq5i) | [The Best Of](https://open.spotify.com/album/6lkHxEey00QbomsLj9h0Q3) | 4:45 |
+| 11 | [Tu Amigo o Tu Amante](https://open.spotify.com/track/7qn83bgVfVBISsISKIdILC) | [La Sabrosura](https://open.spotify.com/artist/2W3ROz699xenrLLblfUq5i) | [Greatest Salsa Classics Of Colombia, Vol\. 2](https://open.spotify.com/album/3k5FHIHUumKgyMTteH4ckq) | 4:45 |
 | 12 | [Tu Con El](https://open.spotify.com/track/6jCo1ni2ikRL8DWuegc92I) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Oro Salsero](https://open.spotify.com/album/3f7xnh39CMDvC6TVQf9oNU) | 5:03 |
 | 13 | [La Cita](https://open.spotify.com/track/1Wzt0dNLjAqN3OzGwWeGH5) | [Galy Galiano](https://open.spotify.com/artist/2OSKh2JIKMr66DxByxhwzT) | [Galy Galiano 30 Años](https://open.spotify.com/album/07fXyhm97NonPri4FLOqyy) | 7:18 |
 | 14 | [Nuestro Sueño](https://open.spotify.com/track/4rAeOQPV9iTP5FMglXzGEu) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Siempre Una Aventura](https://open.spotify.com/album/2yAheDQ4qgtbVfHVOhKDNF) | 5:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2piJKuRdKIA.md) - [plain]
 | 49 | [Y Nos Amamos](https://open.spotify.com/track/7vZthtH9ThrzjC2NDJlDOr) | [David Pabon](https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE) | [30 Mejores](https://open.spotify.com/album/2VqfWkCqh1smtP2Sy4gkBJ) | 3:49 |
 | 50 | [Condename A Tu Amor](https://open.spotify.com/track/2C40I3YZiqsNlpBxQ4O1y7) | [Tito Rojas](https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH) | [Condename](https://open.spotify.com/album/096iagjZ8Ax48eV49j8P3Q) | 6:01 |
 
-Snapshot ID: `MTY1OTA0OTIwMCwwMDAwMDAwMGM5NzA0ZmZkMWIwYWI2NTkyYWZlMTUzNDEwZjIyOWEw`
+Snapshot ID: `MTY1OTA0OTIwMCwwMDAwMDAwMDBlNGJlMDgwN2MwMjQ4NmM1Y2YwNzI1YjE0OTRiZTA1`

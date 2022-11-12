@@ -4,12 +4,13 @@
 
 > Roots and acoustic tunes, for sun drenched days and balmy nights.
 
-63 songs - 3 hr 43 min - [published](https://open.spotify.com/playlist/00T5sUZpIOM8SUBV1DQ66W)
+67 songs - 3 hr 58 min - [published](https://open.spotify.com/playlist/00T5sUZpIOM8SUBV1DQ66W)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [After the Sun](https://open.spotify.com/track/3VqkvcP3j3kSr1FsKwctBp) | [Kim Churchill](https://open.spotify.com/artist/0ZmJRBCKYicwq9n4FjZpho) | [I AM](https://open.spotify.com/album/7D8yJ8artbOzMvz5Q2HZXX) | 3:33 | 2021-11-30 | 2022-10-13 |
-| [After the Sun](https://open.spotify.com/track/48RnhqwWJba2PMoy9ZItxL) | [Kim Churchill](https://open.spotify.com/artist/0ZmJRBCKYicwq9n4FjZpho) | [I AM](https://open.spotify.com/album/61eBjmrl0HdW6LGhcx6da0) | 3:33 | 2021-11-30 |  |
+| [After the Sun](https://open.spotify.com/track/3sbdt45nDSx8qZDsyKW9YZ) | [Kim Churchill](https://open.spotify.com/artist/0ZmJRBCKYicwq9n4FjZpho) | [After the Sun](https://open.spotify.com/album/6BAEKQpZRpSaIsWLBzwqCm) | 3:33 | 2021-11-30 |  |
+| [After the Sun](https://open.spotify.com/track/48RnhqwWJba2PMoy9ZItxL) | [Kim Churchill](https://open.spotify.com/artist/0ZmJRBCKYicwq9n4FjZpho) | [I AM](https://open.spotify.com/album/61eBjmrl0HdW6LGhcx6da0) | 3:33 | 2021-11-30 | 2022-11-12 |
 | [All Over Again](https://open.spotify.com/track/5Em45mUmCF0n4Q6faQxxhK) | [Miller Roberts](https://open.spotify.com/artist/1J88SHfougnAYWOnonDtvL) | [All Over Again](https://open.spotify.com/album/3rOw0UUyB5dtP8Mj4qzPYL) | 3:43 | 2021-11-30 |  |
 | [Always](https://open.spotify.com/track/2rapj0PNYacYq9HiGJTJ4o) | [Aodhan](https://open.spotify.com/artist/3rlMJg2MzNFDMUoupg8EPB) | [Deadly Hearts \- Walking Together](https://open.spotify.com/album/2K7G4yBnvKCVnqrZNWwImT) | 3:50 | 2021-11-30 |  |
 | [Be Slow](https://open.spotify.com/track/3j2SaDGyzZhiifh5g5tmNw) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Be Slow](https://open.spotify.com/album/2dUqjfW3uN8obZ6i1XnHCZ) | 3:25 | 2021-11-30 | 2022-11-11 |
@@ -19,7 +20,8 @@
 | [By Way of the Sea](https://open.spotify.com/track/2EjmXBw49KJqZXjH2dKTZC) | [Israel Cannan](https://open.spotify.com/artist/4EMl4Y4uEh32Jmfgi6bYZx) | [By Way of the Sea](https://open.spotify.com/album/2hn1o2h58pswUpiYDw9eMg) | 4:19 | 2021-11-30 |  |
 | [Carry You With Me](https://open.spotify.com/track/2zwWemTFAsXkKZYa1MFvRF) | [Voyageur](https://open.spotify.com/artist/4e96iK3tKVtBuCdQPjoik8) | [Carry You With Me](https://open.spotify.com/album/0x0JjWPGNvgnJ4KhJRaXeD) | 4:18 | 2021-11-30 |  |
 | [Carrying](https://open.spotify.com/track/3CfVLDjFpdQxO0kHDin4En) | [Goddess911](https://open.spotify.com/artist/55qm9Rk7W6cAQa0nVIiqd8) | [Carrying](https://open.spotify.com/album/2OzYe3Dj6wxlpckkb8MGoj) | 3:01 | 2021-11-30 |  |
-| [Catch Me](https://open.spotify.com/track/69iZHDveavg2RvuhevpsjW) | [Robbie Miller](https://open.spotify.com/artist/0lkWoQLsP4QWkqefjR9IH1) | [Little Love](https://open.spotify.com/album/0Fm7qXRFQORyiAXCMOecjs) | 2:57 | 2021-11-30 |  |
+| [Catch Me](https://open.spotify.com/track/4DaES19AzphjDNOj96Y2jp) | [Robbie Miller](https://open.spotify.com/artist/0lkWoQLsP4QWkqefjR9IH1) | [Catch Me](https://open.spotify.com/album/1OAFrEWhzjooxhpZifm5UD) | 2:57 | 2021-11-30 |  |
+| [Catch Me](https://open.spotify.com/track/69iZHDveavg2RvuhevpsjW) | [Robbie Miller](https://open.spotify.com/artist/0lkWoQLsP4QWkqefjR9IH1) | [Little Love](https://open.spotify.com/album/0Fm7qXRFQORyiAXCMOecjs) | 2:57 | 2021-11-30 | 2022-11-12 |
 | [Changes](https://open.spotify.com/track/4PBphrsOgdlSPYmT1amL7D) | [Alivan Blu](https://open.spotify.com/artist/1maNTaIZSwGov0ogXWNwCb) | [Changes](https://open.spotify.com/album/5SWUlMmFPjeZaEKHirwc0C) | 3:57 | 2021-11-30 |  |
 | [Concentrate On Breathing](https://open.spotify.com/track/2Tme0GsTtJd8o3CqAd8o2r) | [Charm of Finches](https://open.spotify.com/artist/2vfDwM6xqZbOjg5h6VLoke) | [Concentrate On Breathing](https://open.spotify.com/album/0u2Sv2RH4Yx6MwZMUI5Omu) | 3:39 | 2021-11-30 |  |
 | [Daily Meditation](https://open.spotify.com/track/4wGmgCIQk4jBfbDXvH4LNE) | [Aodhan](https://open.spotify.com/artist/3rlMJg2MzNFDMUoupg8EPB) | [Daily Meditation](https://open.spotify.com/album/3ZFPHrwqnnOEgUU1JlqVha) | 3:16 | 2021-11-30 |  |
@@ -50,10 +52,12 @@
 | [Love Is an Open Road](https://open.spotify.com/track/6nn3h5deAeDf0qgfOW8Hvz) | [Israel Cannan](https://open.spotify.com/artist/4EMl4Y4uEh32Jmfgi6bYZx) | [Love Is an Open Road](https://open.spotify.com/album/5YfnRr6B3SRgJvB1Wl5dC8) | 2:46 | 2021-11-30 |  |
 | [Love Shack](https://open.spotify.com/track/2zbuLLg1jSNhHVEBVlwcgG) | [Luke Morris](https://open.spotify.com/artist/79i6PErg0CppXj9tpcxdOi) | [Love Shack](https://open.spotify.com/album/2zJN6bhIPoTUviXdNslg8C) | 4:09 | 2021-11-30 |  |
 | [Meteorite](https://open.spotify.com/track/5BTHyWBG54XkPukJyIUWW6) | [Husky](https://open.spotify.com/artist/47nuMLurQsLP1gLK7gJtis) | [Meteorite](https://open.spotify.com/album/2KAsSyMMP4pySh1dWMbCj3) | 3:18 | 2021-11-30 |  |
-| [Mexico](https://open.spotify.com/track/47aHDHL31kg3h1qZvz2LX9) | [Lawson Hull](https://open.spotify.com/artist/218354K2Ph7ewCzbVvGe0K) | [Mexico](https://open.spotify.com/album/3zQdAvd7yphzVjGx23Ghrs) | 4:06 | 2021-11-30 |  |
+| [Mexico](https://open.spotify.com/track/2KVhZTH1uQhxWBK80B0qlh) | [Lawson Hull](https://open.spotify.com/artist/218354K2Ph7ewCzbVvGe0K) | [Hangin’ Out with Cowboys](https://open.spotify.com/album/4JvtnKd24pcj1ZLBBgcwzY) | 4:06 | 2021-11-30 |  |
+| [Mexico](https://open.spotify.com/track/47aHDHL31kg3h1qZvz2LX9) | [Lawson Hull](https://open.spotify.com/artist/218354K2Ph7ewCzbVvGe0K) | [Mexico](https://open.spotify.com/album/3zQdAvd7yphzVjGx23Ghrs) | 4:06 | 2021-11-30 | 2022-11-12 |
 | [Midsummer](https://open.spotify.com/track/0WuXqVDS9LLN41RGSAXuVe) | [Paper Cranes 折り鶴](https://open.spotify.com/artist/5YZSzTjciJAaAek3ujVhpc) | [Voices](https://open.spotify.com/album/4MR4vc3bWQwAaZdbAmH7t9) | 2:45 | 2021-11-30 |  |
 | [Morning Light](https://open.spotify.com/track/4WTshd9xB6Y3HHd8snMMQ1) | [Dusty Boots](https://open.spotify.com/artist/4f7aac6rSCC2VopLH049zY) | [Morning Light](https://open.spotify.com/album/78DnLLGhKsf0jgegmqSja9) | 3:11 | 2021-11-30 |  |
-| [Pretty Lady](https://open.spotify.com/track/77R5bq7AvzIevi8wicB3Oz) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Terra Firma](https://open.spotify.com/album/6CubvryZSNI5UsrftXJqhK) | 4:39 | 2021-11-30 |  |
+| [Pretty Lady](https://open.spotify.com/track/4o21k4S4YoueaUfiKkImea) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Pretty Lady](https://open.spotify.com/album/6GvxhHWo3EyQLW94ftqtoz) | 4:37 | 2021-11-30 |  |
+| [Pretty Lady](https://open.spotify.com/track/77R5bq7AvzIevi8wicB3Oz) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Terra Firma](https://open.spotify.com/album/6CubvryZSNI5UsrftXJqhK) | 4:39 | 2021-11-30 | 2022-11-12 |
 | [rains](https://open.spotify.com/track/4GNk8J7ApnCVax7dKvLRnE) | [Solomon Crook](https://open.spotify.com/artist/5B5cUiibtKjZKaXgQdV3G1) | [rains](https://open.spotify.com/album/26iiPtEXta6wX8yBQ0O7OZ) | 2:23 | 2021-11-30 |  |
 | [Sirens](https://open.spotify.com/track/1w03K9ePtRmWKVwwEgRKvB) | [Seph Cove](https://open.spotify.com/artist/1cwhYOFjPswXuRKLrwJrff) | [Sirens](https://open.spotify.com/album/7D2B8DNjDOauyMGPHmRLTK) | 3:18 | 2021-11-30 |  |
 | [Stay Safe](https://open.spotify.com/track/2OyUCgOQnG9n4FZCCk0XD7) | [Husky Gawenda](https://open.spotify.com/artist/1sNJ4MiIoUC38wEPkXdW1W) | [Bedroom Ice Age](https://open.spotify.com/album/2EqclbDgaBBTn0SSQfDmcl) | 1:55 | 2021-11-30 |  |

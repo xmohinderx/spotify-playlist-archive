@@ -4,7 +4,7 @@
 
 > Because bass\. Cover: Victor Wooten
 
-86 songs - 6 hr 21 min - [published](https://open.spotify.com/playlist/3J2o79GoABQYOdRgtP3x7m)
+87 songs - 6 hr 24 min - [published](https://open.spotify.com/playlist/3J2o79GoABQYOdRgtP3x7m)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [No Way](https://open.spotify.com/track/21insAWTe5rKqvBWkTfvkO) | [Alain Caron](https://open.spotify.com/artist/1jonOyRkfkvgd1MUyZtPgj) | [Le Band](https://open.spotify.com/album/0CMnXccmvvCB5YVYNeyJsQ) | 5:24 | 2021-05-06 |  |
 | [Nona Manis](https://open.spotify.com/track/21YTXtdSYjHoPpQYlw8iCB) | [Barry Likumahuwa](https://open.spotify.com/artist/2AdFUyPR5XxpgOI6QYfVDz), [Rascals](https://open.spotify.com/artist/2vztWpd1un1i8DPyAf9N0b), [Matthew Sayersz](https://open.spotify.com/artist/63NYHDp76jwecdrMWYsCEx) | [Nona Manis](https://open.spotify.com/album/5r8UHDyqaEiWtmUCu9AeVx) | 3:20 | 2021-05-06 | 2022-02-04 |
 | [Off The Cuff](https://open.spotify.com/track/6aGE12dPzbEVEL47yb3F5d) | [Pino Palladino](https://open.spotify.com/artist/5vjTuHApbJQOo9L3Ro2KM8), [Blake Mills](https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR) | [Notes With Attachments](https://open.spotify.com/album/5fsq4qeIWboRRPG7mGGfxr) | 2:34 | 2021-05-06 |  |
-| [P.A.C\. Man](https://open.spotify.com/track/3zvq4tHlCZCNor1HpUtKnU) | [Alain Caron](https://open.spotify.com/artist/1jonOyRkfkvgd1MUyZtPgj) | [Play](https://open.spotify.com/album/1ghnYOpMZeus1gJCSGdQl3) | 4:21 | 2021-05-06 |  |
+| [P.A.C\. Man](https://open.spotify.com/track/3zvq4tHlCZCNor1HpUtKnU) | [Alain Caron](https://open.spotify.com/artist/1jonOyRkfkvgd1MUyZtPgj) | [Play](https://open.spotify.com/album/1ghnYOpMZeus1gJCSGdQl3) | 4:21 | 2021-05-06 | 2022-11-12 |
 | [Pop Virgil](https://open.spotify.com/track/1rryMCRc1FhuUeKRHQnvSO) | [The Stanley Clarke Band](https://open.spotify.com/artist/6M9ohMNccb79LCYSCfzdOH) | [Up](https://open.spotify.com/album/30YCt5MD1H4uGULaP3ZsFB) | 3:17 | 2021-05-06 |  |
 | [Porky & Beans](https://open.spotify.com/track/6LcZLOWOzQGFQzRDtqefSq) | [Jeff Berlin](https://open.spotify.com/artist/4S6LWQMlfbLPNrXLY7RxI1) | [Aneurythms](https://open.spotify.com/album/6u8f8EVidJ6TJ3lRIZ4dMR) | 6:24 | 2021-05-06 |  |
 | [Power](https://open.spotify.com/track/2wd1sOeNdzBeRGsL6mPogQ) | [Marcus Miller](https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9) | [M2](https://open.spotify.com/album/1xyfptnTlG1u1fzVxYJm6d) | 4:35 | 2021-05-06 |  |
@@ -81,6 +81,7 @@
 | [The Book of Lies](https://open.spotify.com/track/50I8d0s6Ki2F5cMv7ZdBeS) | [Stuart Hamm](https://open.spotify.com/artist/3QZYlqOQQfe1fzTpWLOye2) | [The Book of Lies](https://open.spotify.com/album/6UXu63mfEhEXRQaPh74R6N) | 4:32 | 2021-05-06 | 2022-07-29 |
 | [The Bridge](https://open.spotify.com/track/4MeTCgjEEXhmcl04NHQY8L) | [Fernando Petry](https://open.spotify.com/artist/4caKiGVGFoxstzqzZixP0G) | [The Bridge](https://open.spotify.com/album/4HwqcDTXtZSK9GzyKvihdI) | 2:58 | 2022-03-11 | 2022-07-29 |
 | [The Lion's Den](https://open.spotify.com/track/68tguTFRYXtSPxn6GJUfi2) | [David Dyson](https://open.spotify.com/artist/4vgc23qLWXuDFK10Ogo3uq) | [Unleashed](https://open.spotify.com/album/1FBSfdULcA0qTo7EgwdeHA) | 3:42 | 2021-05-06 | 2022-07-27 |
+| [The Peace Song](https://open.spotify.com/track/4mcl5y8bBP14UwlSDz7GBN) | [Aron](https://open.spotify.com/artist/3ik0tThzh3jWDLIYezRXMr), [Derrick Hodge](https://open.spotify.com/artist/1jvBVqm4g5Jk8tEmKoYoes) | [The Seed](https://open.spotify.com/album/4PFKs4k84A1sMcUPKEQ5kE) | 3:14 | 2022-11-11 |  |
 | [The Rugged Truth](https://open.spotify.com/track/5tbu6qMdDcnfTSTy7tLeuB) | [The Stanley Clarke Band](https://open.spotify.com/artist/6M9ohMNccb79LCYSCfzdOH) | [The Message](https://open.spotify.com/album/6DtroRg76chWowQn2hXF4x) | 3:32 | 2021-05-06 | 2022-07-25 |
 | [The Sinister Minister](https://open.spotify.com/track/2jWuNKBlgkfb3M0WDKexY8) | [Béla Fleck and the Flecktones](https://open.spotify.com/artist/5Zmur9D9gpr6tXyDrpnbOe) | [Bela Fleck and the Flecktones](https://open.spotify.com/album/58VJzBF0hLb6ylVHdn1XB0) | 4:36 | 2021-05-06 |  |
 | [The Sniper](https://open.spotify.com/track/1v4zBLp1XPct1p0UBnabMK) | [Cristiano Parato](https://open.spotify.com/artist/0snU3Xa97Sq9l2RLuCdWIP), [Lele Melotti](https://open.spotify.com/artist/2LVUVfQksPpfSEcCvU8WaR), [Luca Scarpa](https://open.spotify.com/artist/4Q0nFR5UtI8s7hInvCdYRG) | [Still](https://open.spotify.com/album/2xGGVCtLjPF0C4JBhDFdVU) | 4:32 | 2021-05-06 |  |

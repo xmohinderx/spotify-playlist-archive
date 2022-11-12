@@ -4,7 +4,7 @@
 
 > Commonly known as <a href="https://www.instagram.com/alohodc/">ALOHO</a>, this queer/lesbian bar, safe space, and community hub in Washington, DC  helps to co\-curate a playlist of their favorite Pride jams!
 
-65 songs - 4 hr 5 min - [published](https://open.spotify.com/playlist/3kiPtpB81ucJZ3VLPIWDlu)
+68 songs - 4 hr 15 min - [published](https://open.spotify.com/playlist/3kiPtpB81ucJZ3VLPIWDlu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,17 +45,20 @@
 | [Le Freak](https://open.spotify.com/track/5L6bUnOoGJ0t0Pb9UVWaGa) | [CHIC](https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV) | [Grease \- 70s Party Songs](https://open.spotify.com/album/0DhuO4oG0pCXjzZvmweny8) | 5:29 | 2021-05-31 |  |
 | [Le Freak \- 2018 Remaster](https://open.spotify.com/track/7Kszjzps0xbQXyo1pO4KfE) | [CHIC](https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV) | [C'est Chic \(2018 Remaster\)](https://open.spotify.com/album/4a1EmaXGBiQ61Y4m6SNcYi) | 5:31 | 2021-05-31 | 2022-11-11 |
 | [Let's Have A Kiki](https://open.spotify.com/track/4Q6K6M0HSiRboY3C97AxD4) | [Scissor Sisters](https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o) | [Magic Hour](https://open.spotify.com/album/2Uv5xoWfFbl2o7KdcCglOD) | 3:49 | 2021-05-31 | 2022-07-29 |
-| [Let's Have A Kiki](https://open.spotify.com/track/154Ada4WZXskIMnsKiy26u) | [Scissor Sisters](https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o) | [Magic Hour \(Deluxe\)](https://open.spotify.com/album/2P12s0AcooZGvM6mfgeuw3) | 3:50 | 2021-05-31 |  |
+| [Let's Have A Kiki](https://open.spotify.com/track/154Ada4WZXskIMnsKiy26u) | [Scissor Sisters](https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o) | [Magic Hour \(Deluxe\)](https://open.spotify.com/album/2P12s0AcooZGvM6mfgeuw3) | 3:50 | 2021-05-31 | 2022-11-12 |
+| [Let's Have A Kiki](https://open.spotify.com/track/26CSlPiiRLZkmvo9c4vyiR) | [Scissor Sisters](https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o) | [Music Is Universal: Kiki Classics For PRIDE](https://open.spotify.com/album/512wg0iwuFA0783dvWGf9q) | 3:50 | 2021-05-31 |  |
 | [Lgbt](https://open.spotify.com/track/0lsw4q8Jei7gEoV7kFe3DS) | [cupcakKe](https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM) | [Audacious](https://open.spotify.com/album/0Gg0Pn44Sh7FYtBDzgc5CF) | 2:41 | 2021-05-31 |  |
 | [LUCID](https://open.spotify.com/track/5DVATjQZPVsm5kWbrPmekU) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [LUCID](https://open.spotify.com/album/77ouoghU4UrNpO63JWLR2C) | 3:38 | 2021-05-31 |  |
 | [Make Me Feel](https://open.spotify.com/track/5gW5dSy3vXJxgzma4rQuzH) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Dirty Computer](https://open.spotify.com/album/2PjlaxlMunGOUvcRzlTbtE) | 3:14 | 2021-05-31 |  |
+| [Malibu](https://open.spotify.com/track/02w1bcPNTPrF06IsMoQxUc) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Cold Heart](https://open.spotify.com/album/2ub4hh8QvhlDh9MzsAdzF3) | 3:11 | 2021-05-31 |  |
 | [Malibu](https://open.spotify.com/track/31k41EAntOsjbRBcAASfiL) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Malibu](https://open.spotify.com/album/7AiqBnEFt4gCA9XpKUoZRl) | 3:11 | 2021-05-31 | 2022-07-29 |
-| [Malibu](https://open.spotify.com/track/7G0tY4ErguYZpP6nQ6Qcnc) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Malibu](https://open.spotify.com/album/5wtQMwjNEy1x2OIkUIz5Lk) | 3:11 | 2021-05-31 |  |
+| [Malibu](https://open.spotify.com/track/7G0tY4ErguYZpP6nQ6Qcnc) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Malibu](https://open.spotify.com/album/5wtQMwjNEy1x2OIkUIz5Lk) | 3:11 | 2021-05-31 | 2022-11-12 |
 | [Nights With You](https://open.spotify.com/track/5q5gzmbBS5yQzos2BvVr1t) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Nights With You](https://open.spotify.com/album/0kgy48FPwyVepPIaiO2w7G) | 3:17 | 2021-05-31 |  |
 | [OOOUUU](https://open.spotify.com/track/7JYsArznYOjX2jsrT3UEnL) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Herstory](https://open.spotify.com/album/23Fvpx2T1drg9lJ4WC0fXl) | 3:54 | 2021-05-31 |  |
 | [Overnight Scenario](https://open.spotify.com/track/66nXdAjGXyb76XkmVL0p9n) | [Rare Essence](https://open.spotify.com/artist/4vKZXZH0eDibGsDxMVzZDh) | [Classic Cuts, Vol\. 1](https://open.spotify.com/album/2owP9hfrBzMbvSMppf9wrP) | 4:56 | 2021-05-31 |  |
 | [Rain On Me \(with Ariana Grande\)](https://open.spotify.com/track/24ySl2hOPGCDcxBxFIqWBu) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Rain On Me \(with Ariana Grande\)](https://open.spotify.com/album/4TqgXMSSTwP3RCo3MMSR6t) | 3:02 | 2021-05-31 |  |
-| [Raise Your Glass](https://open.spotify.com/track/1gv4xPanImH17bKZ9rOveR) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Raise Your Glass](https://open.spotify.com/album/3uQMzfrf4kUNGsCtmTtjPh) | 3:22 | 2021-05-31 |  |
+| [Raise Your Glass](https://open.spotify.com/track/1gv4xPanImH17bKZ9rOveR) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Raise Your Glass](https://open.spotify.com/album/3uQMzfrf4kUNGsCtmTtjPh) | 3:22 | 2021-05-31 | 2022-11-12 |
+| [Raise Your Glass](https://open.spotify.com/track/7b0ntlwdNd4R8gaUCaDx4h) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Summer Viral Hits 2022](https://open.spotify.com/album/6dFlSjJamyVX3Um0Joaif3) | 3:23 | 2021-05-31 |  |
 | [Raise Your Glass](https://open.spotify.com/track/12lZTPlXwUtrQuhEty6098) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Raise Your Glass](https://open.spotify.com/album/6Ozsat2gzIj9uXd6JMwYXz) | 3:23 | 2021-05-31 | 2022-07-29 |
 | [Rebel Girl](https://open.spotify.com/track/0XyjtybwqSdqMAFfBEkmZf) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [The Punk Singer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7DoTlKAupC8rNAdb0tNmZ2) | 2:37 | 2021-05-31 |  |
 | [Respect](https://open.spotify.com/track/7s25THrKz86DM225dOYwnr) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [I Never Loved a Man the Way I Love You](https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V) | 2:27 | 2021-05-31 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWW53w3AslFX.md) - [plain]
 
 > Från PJ Harvey via Jenny Wilson till Amanda Bergman och Slowgold\. Här hör du några av alla kvinnor som är med och skriver indiehistoria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,248 likes - 90 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,247 likes - 90 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWW53w3AslFX.md) - [plain]
 | 50 | [Silvana](https://open.spotify.com/track/6O2N7tE7ivFrpyx4QNbdMS) | [F.N.Y](https://open.spotify.com/artist/04yNJEB7tEAEie8UWjzTAI) | [Silvana](https://open.spotify.com/album/4XjErE5yed7xjgfCwZcezm) | 3:28 |
 | 51 | [Shut Up Kiss Me](https://open.spotify.com/track/3EEr6l5PYelwkrvvKX7N0X) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [MY WOMAN](https://open.spotify.com/album/3CHcldbsbrBOOlw8cnLpNm) | 3:22 |
 | 52 | [Mouth to Mouth](https://open.spotify.com/track/5KxKFdP10B76t6R2JGiLuG) | [Sophia Somajo](https://open.spotify.com/artist/5T8zbK3dic52T9bFu0aY8z) | [Mouth to Mouth](https://open.spotify.com/album/6M6ZXKXa6cbrdLJkgJudTY) | 3:29 |
-| 53 | [Mind](https://open.spotify.com/track/1As7Zf2pOE7cfGWbocErVW) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Love in the Milky Way](https://open.spotify.com/album/2d55NIkawwo5HMMendu9vI) | 4:10 |
+| 53 | [Mind](https://open.spotify.com/track/6le001QnP5N3OB9TNGkWPz) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Mind](https://open.spotify.com/album/3T9F85Fw1HB7latqhMRIUI) | 4:10 |
 | 54 | [Demands](https://open.spotify.com/track/645WCVfrWZ65pwFKVLpm2G) | [Makthaverskan](https://open.spotify.com/artist/57MIstrTi3Sw9J9yJybN0E) | [Demands / Onkel](https://open.spotify.com/album/6W7U6V1fc1CtaMuGNGsSej) | 2:59 |
 | 55 | [Lifetime](https://open.spotify.com/track/2u0AwpPXxQY2PJNvYGQYXQ) | [Nicole Sabouné](https://open.spotify.com/artist/2lPG3ptKlBdxvQ8XlH8nEk) | [Lifetime](https://open.spotify.com/album/3X3lBxcaYEMEv0kjOQv9ht) | 5:08 |
 | 56 | [Weekend](https://open.spotify.com/track/5XyQPpTMFzzxB7R0Rpz1u3) | [Linnea Olsson](https://open.spotify.com/artist/5URaqWGLWi0maxmjctj8I0) | [Weekend](https://open.spotify.com/album/6oJyvqAMhh4PL3ahlAPQ9f) | 3:26 |
@@ -92,11 +92,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWW53w3AslFX.md) - [plain]
 | 82 | [Back to Reality](https://open.spotify.com/track/6mfh1SGc5gzdlVjC14YUAq) | [Hey Elbow](https://open.spotify.com/artist/75P1YhfXqy9x3OUjJZjZIk) | [Back to Reality](https://open.spotify.com/album/41qC5RNYI1aTYq9oi91ib4) | 3:39 |
 | 83 | [Döda mig](https://open.spotify.com/track/5SbeOc3hiLtjSdUCCHtAKW) | [Ji Nilsson](https://open.spotify.com/artist/4gXoprttD6M0HwTqQNsxOY), [Min Stora Sorg](https://open.spotify.com/artist/53mirS5AzwzEw9MsquLXFo) | [Döda mig](https://open.spotify.com/album/7mgF19LOCuYQ5EE8Bti0yv) | 3:33 |
 | 84 | [Girls](https://open.spotify.com/track/0Whht4DTOTuEmTxKEakY7H) | [Beatrice Eli](https://open.spotify.com/artist/1lzoEy8yiIBiHOuaO4h5Wj) | [Die Another Day](https://open.spotify.com/album/3szjY405NzyqqNB4EUfxRq) | 3:03 |
-| 85 | [Årstavikens strand](https://open.spotify.com/track/56d4NuZxjcm3gNyByWCImM) | [Iiris Viljanen](https://open.spotify.com/artist/1IYVBUvVz1UbdQboARe43I) | [Mercedes](https://open.spotify.com/album/28HijYE8kCeXeQY7DXwRUS) | 4:44 |
+| 85 | [Årstavikens Strand](https://open.spotify.com/track/5eZ6RcjaBUWYYv7IcxHIPX) | [Iiris Viljanen](https://open.spotify.com/artist/1IYVBUvVz1UbdQboARe43I) | [Årstavikens Strand](https://open.spotify.com/album/37sCpqJO7Kl7AolTiQWQkU) | 4:50 |
 | 86 | [Baby No Name](https://open.spotify.com/track/5oYCY3xAQl7rBWEfqJf2Ly) | [Britta Persson](https://open.spotify.com/artist/1p3J6laThbGvAuz642q1O6) | [If I Was a Band My Name Would Be Forevers](https://open.spotify.com/album/262cPLTeWxmx2PkYJ9XAYu) | 3:17 |
 | 87 | [The Time Is Now](https://open.spotify.com/track/2sUyLVp9ICIMSeDkVcjkr4) | [Asha Ali](https://open.spotify.com/artist/5sy9u3A2zgs5DjuQ6F46nl) | [Hurricane](https://open.spotify.com/album/4eqAzyhFABzlc7T7SiDbzy) | 2:29 |
 | 88 | [Everyone Else In The World](https://open.spotify.com/track/1pmmWF3qZO1DWodZiQ0h0O) | [Stina Nordenstam](https://open.spotify.com/artist/7gPBpCNPTXfU4B6GJ17CwL) | [This Is Stina Nordenstam](https://open.spotify.com/album/1AvkkG7GVesUL13zqiY1M0) | 2:59 |
 | 89 | [Old Beauty/Du Kan Nu Dö](https://open.spotify.com/track/4FJJq6FyEkdk6WZqQSKfMF) | [Anna von Hausswolff](https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6) | [Singing from the Grave](https://open.spotify.com/album/7sKxyjSSUkjq95jIR4oSiw) | 6:22 |
 | 90 | [Play](https://open.spotify.com/track/1lj1ULJD4xZAFOZdMJny4k) | [iamamiwhoami](https://open.spotify.com/artist/6UOcY6w4K6Ek5Lw5rFDHdP) | [Winter](https://open.spotify.com/album/5vKJz47rX1KzD8wBsPfOij) | 5:14 |
 
-Snapshot ID: `MTYyMzc0OTM4NCwwMDAwMDAwMDMwZmYxM2Q0Y2IwOWEyMGFhMjUwZjkwZTkxN2Y3NDUw`
+Snapshot ID: `MTYyMzc0OTM4NCwwMDAwMDAwMDYyYzY0OWQ0OTIzNjlhZTUxZDRiZjI5MWNiYTk1ODAy`

@@ -1,12 +1,12 @@
 {
   "description": "Classic music for cooking and eating with friends. ",
-  "num_followers": 2666,
+  "num_followers": 2679,
   "original_name": "BBQ Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzAwMDcwMSwwMDAwMDAwMDUxNTdiZmQ2M2M2MTc3NGMzODQxZTI4MmEwODU1ZTA3",
+  "snapshot_id": "MTY2MzAwMDcwMSwwMDAwMDAwMDg1NDY5MDgzYzRmZDQwYzQ4YjdlNmU5ODZjYjM0ZTY2",
   "tracks": [
     {
       "added_at": "2022-09-12 16:38:21",
@@ -39,22 +39,6 @@
       "duration_ms": 170000,
       "name": "Spoonful",
       "url": "https://open.spotify.com/track/7j02rdE5RVtNcNMuLGY5SS"
-    },
-    {
-      "added_at": "2022-09-12 16:38:21",
-      "album": {
-        "name": "Taj Mahal",
-        "url": "https://open.spotify.com/album/0kEaFupzvrGdcczROS519i"
-      },
-      "artists": [
-        {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
-        }
-      ],
-      "duration_ms": 289560,
-      "name": "Leaving Trunk",
-      "url": "https://open.spotify.com/track/3E0VKSvZp76kvBU2WwwBul"
     },
     {
       "added_at": "2022-09-12 16:38:21",
@@ -155,6 +139,22 @@
     {
       "added_at": "2022-09-12 16:38:21",
       "album": {
+        "name": "Platinum - A Life In Music",
+        "url": "https://open.spotify.com/album/0gv5aiVS1WBUZOKeb7YawE"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "duration_ms": 138026,
+      "name": "Baby What You Want Me to Do",
+      "url": "https://open.spotify.com/track/4vSYWhfcmqeQpwpGMaRKh7"
+    },
+    {
+      "added_at": "2022-09-12 16:38:21",
+      "album": {
         "name": "Hooker 'N Heat",
         "url": "https://open.spotify.com/album/0D0s7xWS9xH5x2PXO4fVw3"
       },
@@ -171,22 +171,6 @@
       "duration_ms": 277200,
       "name": "Whiskey And Wimmen'",
       "url": "https://open.spotify.com/track/2FbLpNNlImB5mqCHgVIG1c"
-    },
-    {
-      "added_at": "2022-09-12 16:38:21",
-      "album": {
-        "name": "Platinum - A Life In Music",
-        "url": "https://open.spotify.com/album/0gv5aiVS1WBUZOKeb7YawE"
-      },
-      "artists": [
-        {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
-        }
-      ],
-      "duration_ms": 138026,
-      "name": "Baby What You Want Me to Do",
-      "url": "https://open.spotify.com/track/4vSYWhfcmqeQpwpGMaRKh7"
     },
     {
       "added_at": "2022-09-12 16:38:21",
@@ -527,22 +511,6 @@
     {
       "added_at": "2022-09-12 16:38:21",
       "album": {
-        "name": "Crawfish Fiesta (Remastered with Bonus Track)",
-        "url": "https://open.spotify.com/album/06pOxWHDhPhmyVGkWRqw4T"
-      },
-      "artists": [
-        {
-          "name": "Professor Longhair",
-          "url": "https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD"
-        }
-      ],
-      "duration_ms": 193880,
-      "name": "Crawfish Fiesta - Remastered",
-      "url": "https://open.spotify.com/track/7plpvSLmnPIfd7GLY47pIn"
-    },
-    {
-      "added_at": "2022-09-12 16:38:21",
-      "album": {
         "name": "Super Blues",
         "url": "https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s"
       },
@@ -579,6 +547,22 @@
       "duration_ms": 149893,
       "name": "Chicken Rhythm",
       "url": "https://open.spotify.com/track/2bUb0zfTVwB6kMwarTan34"
+    },
+    {
+      "added_at": "2022-09-12 16:38:21",
+      "album": {
+        "name": "Crawfish Fiesta (Remastered with Bonus Track)",
+        "url": "https://open.spotify.com/album/06pOxWHDhPhmyVGkWRqw4T"
+      },
+      "artists": [
+        {
+          "name": "Professor Longhair",
+          "url": "https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD"
+        }
+      ],
+      "duration_ms": 193880,
+      "name": "Crawfish Fiesta - Remastered",
+      "url": "https://open.spotify.com/track/7plpvSLmnPIfd7GLY47pIn"
     },
     {
       "added_at": "2022-09-12 16:38:21",
@@ -667,22 +651,6 @@
     {
       "added_at": "2022-09-12 16:38:21",
       "album": {
-        "name": "Horrifying Deatheating Bloodspider",
-        "url": "https://open.spotify.com/album/27aht0wSf0h3U05DLMTmYY"
-      },
-      "artists": [
-        {
-          "name": "Daniel Norgren",
-          "url": "https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO"
-        }
-      ],
-      "duration_ms": 135853,
-      "name": "Get the Moon Up",
-      "url": "https://open.spotify.com/track/3KqVnlFmCcjimw02I4mXvA"
-    },
-    {
-      "added_at": "2022-09-12 16:38:21",
-      "album": {
         "name": "Guitar Women, Vol.4",
         "url": "https://open.spotify.com/album/7wlp6DWh36rHDUiteuu1yj"
       },
@@ -695,6 +663,22 @@
       "duration_ms": 161440,
       "name": "The Fish",
       "url": "https://open.spotify.com/track/2KyZPxIKzw4skONqNfKEzB"
+    },
+    {
+      "added_at": "2022-09-12 16:38:21",
+      "album": {
+        "name": "Horrifying Deatheating Bloodspider",
+        "url": "https://open.spotify.com/album/27aht0wSf0h3U05DLMTmYY"
+      },
+      "artists": [
+        {
+          "name": "Daniel Norgren",
+          "url": "https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO"
+        }
+      ],
+      "duration_ms": 135853,
+      "name": "Get the Moon Up",
+      "url": "https://open.spotify.com/track/3KqVnlFmCcjimw02I4mXvA"
     },
     {
       "added_at": "2022-09-12 16:38:21",
@@ -751,6 +735,22 @@
     {
       "added_at": "2022-09-12 16:38:21",
       "album": {
+        "name": "Next Time You See Me",
+        "url": "https://open.spotify.com/album/47tUqkIpGOM1Mpn8dkCzmx"
+      },
+      "artists": [
+        {
+          "name": "Junior Parker",
+          "url": "https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u"
+        }
+      ],
+      "duration_ms": 191906,
+      "name": "These Kind of Blues",
+      "url": "https://open.spotify.com/track/6Tol0gzzgXshMaiBkvLoWc"
+    },
+    {
+      "added_at": "2022-09-12 16:38:21",
+      "album": {
         "name": "Blues Roots",
         "url": "https://open.spotify.com/album/7lXGZuaIQXrvNRGVldoDoS"
       },
@@ -779,22 +779,6 @@
       "duration_ms": 210560,
       "name": "Gimme a Pigfoot and a Bottle of Beer",
       "url": "https://open.spotify.com/track/4eCps1RgnG8Oua8JzxbweS"
-    },
-    {
-      "added_at": "2022-09-12 16:38:21",
-      "album": {
-        "name": "Next Time You See Me",
-        "url": "https://open.spotify.com/album/47tUqkIpGOM1Mpn8dkCzmx"
-      },
-      "artists": [
-        {
-          "name": "Junior Parker",
-          "url": "https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u"
-        }
-      ],
-      "duration_ms": 191906,
-      "name": "These Kind of Blues",
-      "url": "https://open.spotify.com/track/6Tol0gzzgXshMaiBkvLoWc"
     },
     {
       "added_at": "2022-09-12 16:38:21",
@@ -863,6 +847,22 @@
     {
       "added_at": "2022-09-12 16:38:21",
       "album": {
+        "name": "Blues Noir",
+        "url": "https://open.spotify.com/album/3uuBqpYFdbhyFiAdTImCPg"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 165106,
+      "name": "I'm In The Mood",
+      "url": "https://open.spotify.com/track/5jviPY8N0nMVnDnrDOyClr"
+    },
+    {
+      "added_at": "2022-09-12 16:38:21",
+      "album": {
         "name": "Steady Gettin' It: The Complete Recordings 1964-67",
         "url": "https://open.spotify.com/album/2KBGPjuA5QSBJmofyF8MT1"
       },
@@ -899,6 +899,38 @@
     {
       "added_at": "2022-09-12 16:38:21",
       "album": {
+        "name": "Atomic Cocktail - Legendary Slim Gaillard",
+        "url": "https://open.spotify.com/album/01zjDSjc9s3pQD3RO1h3d2"
+      },
+      "artists": [
+        {
+          "name": "Slim Gaillard",
+          "url": "https://open.spotify.com/artist/4aKlL2BE2kPNNtruAQqRA1"
+        }
+      ],
+      "duration_ms": 163760,
+      "name": "Atomic Cocktail",
+      "url": "https://open.spotify.com/track/7lpMs73fPCpXxlMpYe83ox"
+    },
+    {
+      "added_at": "2022-09-12 16:38:21",
+      "album": {
+        "name": "I Was a Mod Before You Were a Mod Vol. 2",
+        "url": "https://open.spotify.com/album/2i1qwzfunSyQ1TtYyYh1XW"
+      },
+      "artists": [
+        {
+          "name": "Jesse Stone",
+          "url": "https://open.spotify.com/artist/0bO3bOZwJNmh750eBf0aA0"
+        }
+      ],
+      "duration_ms": 137534,
+      "name": "Crawfish",
+      "url": "https://open.spotify.com/track/1JhlTAhUEtGnQGzsTtpiOW"
+    },
+    {
+      "added_at": "2022-09-12 16:38:21",
+      "album": {
         "name": "No Border Blues",
         "url": "https://open.spotify.com/album/1kN8Wo5psUgDh4srZEDHB4"
       },
@@ -931,22 +963,6 @@
     {
       "added_at": "2022-09-12 16:38:21",
       "album": {
-        "name": "I Was a Mod Before You Were a Mod Vol. 2",
-        "url": "https://open.spotify.com/album/2i1qwzfunSyQ1TtYyYh1XW"
-      },
-      "artists": [
-        {
-          "name": "Jesse Stone",
-          "url": "https://open.spotify.com/artist/0bO3bOZwJNmh750eBf0aA0"
-        }
-      ],
-      "duration_ms": 137534,
-      "name": "Crawfish",
-      "url": "https://open.spotify.com/track/1JhlTAhUEtGnQGzsTtpiOW"
-    },
-    {
-      "added_at": "2022-09-12 16:38:21",
-      "album": {
         "name": "Presenting Smiley Lewis",
         "url": "https://open.spotify.com/album/3cq9NzO0h25zvXqhvxJzIj"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 145000,
       "name": "Gumbo Blues",
       "url": "https://open.spotify.com/track/1jOy5uKsWOVwT0ssWh3wwG"
-    },
-    {
-      "added_at": "2022-09-12 16:38:21",
-      "album": {
-        "name": "Bacon Fat / Pass the Biscuits Please",
-        "url": "https://open.spotify.com/album/0fAOSzXlQ3fJgHf8B2rMPE"
-      },
-      "artists": [
-        {
-          "name": "Andre Williams",
-          "url": "https://open.spotify.com/artist/4mmEKUZZBwnzg4m6hizPyN"
-        }
-      ],
-      "duration_ms": 198149,
-      "name": "Pass the Biscuits Please - Remastered",
-      "url": "https://open.spotify.com/track/6pgoB5EHpLO7SU8uuQM7hd"
     },
     {
       "added_at": "2022-09-12 16:38:21",
@@ -995,22 +995,6 @@
     {
       "added_at": "2022-09-12 16:38:21",
       "album": {
-        "name": "Atomic Cocktail - Legendary Slim Gaillard",
-        "url": "https://open.spotify.com/album/01zjDSjc9s3pQD3RO1h3d2"
-      },
-      "artists": [
-        {
-          "name": "Slim Gaillard",
-          "url": "https://open.spotify.com/artist/4aKlL2BE2kPNNtruAQqRA1"
-        }
-      ],
-      "duration_ms": 163760,
-      "name": "Atomic Cocktail",
-      "url": "https://open.spotify.com/track/7lpMs73fPCpXxlMpYe83ox"
-    },
-    {
-      "added_at": "2022-09-12 16:38:21",
-      "album": {
         "name": "Martin Scorsese Presents The Blues: J.B. Lenoir",
         "url": "https://open.spotify.com/album/1aVJKuACd5SQwCJHVlUtPt"
       },
@@ -1023,6 +1007,38 @@
       "duration_ms": 149506,
       "name": "Mama, What About Your Daughter - Single Version",
       "url": "https://open.spotify.com/track/2yZMo5D2UFFEuesZu63zrz"
+    },
+    {
+      "added_at": "2022-09-12 16:38:21",
+      "album": {
+        "name": "Bacon Fat / Pass the Biscuits Please",
+        "url": "https://open.spotify.com/album/0fAOSzXlQ3fJgHf8B2rMPE"
+      },
+      "artists": [
+        {
+          "name": "Andre Williams",
+          "url": "https://open.spotify.com/artist/4mmEKUZZBwnzg4m6hizPyN"
+        }
+      ],
+      "duration_ms": 198149,
+      "name": "Pass the Biscuits Please - Remastered",
+      "url": "https://open.spotify.com/track/6pgoB5EHpLO7SU8uuQM7hd"
+    },
+    {
+      "added_at": "2022-09-12 16:38:21",
+      "album": {
+        "name": "The Best Of Taj Mahal",
+        "url": "https://open.spotify.com/album/1Es9a7G6NkSRPrGUxfmYmr"
+      },
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        }
+      ],
+      "duration_ms": 289306,
+      "name": "Leaving Trunk",
+      "url": "https://open.spotify.com/track/0MY3zpLhxnbMu0E24eSnXc"
     },
     {
       "added_at": "2022-09-12 16:38:21",
@@ -1075,50 +1091,18 @@
     {
       "added_at": "2022-09-12 16:38:21",
       "album": {
-        "name": "Martin Scorsese Presents The Blues: Taj Mahal",
-        "url": "https://open.spotify.com/album/7mEu9N6y4avTpH373ahlxK"
+        "name": "Best Of The Blues",
+        "url": "https://open.spotify.com/album/1S7OZpDxCMctv23NyauY4U"
       },
       "artists": [
         {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+          "name": "Bobby \"Blue\" Bland",
+          "url": "https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj"
         }
       ],
-      "duration_ms": 157506,
-      "name": "Dust My Broom",
-      "url": "https://open.spotify.com/track/4moD3WaIS55udYYwJVoBrn"
-    },
-    {
-      "added_at": "2022-09-12 16:38:21",
-      "album": {
-        "name": "Blues Noir",
-        "url": "https://open.spotify.com/album/3uuBqpYFdbhyFiAdTImCPg"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 165106,
-      "name": "I'm In The Mood",
-      "url": "https://open.spotify.com/track/5jviPY8N0nMVnDnrDOyClr"
-    },
-    {
-      "added_at": "2022-09-12 16:38:21",
-      "album": {
-        "name": "Bacon Fat / Pass the Biscuits Please",
-        "url": "https://open.spotify.com/album/0fAOSzXlQ3fJgHf8B2rMPE"
-      },
-      "artists": [
-        {
-          "name": "Andre Williams",
-          "url": "https://open.spotify.com/artist/4mmEKUZZBwnzg4m6hizPyN"
-        }
-      ],
-      "duration_ms": 184575,
-      "name": "Bacon Fat - Remastered",
-      "url": "https://open.spotify.com/track/7sDtdfJeneSVNyx8Gm1N6M"
+      "duration_ms": 179893,
+      "name": "Farther Up The Road - Single Version",
+      "url": "https://open.spotify.com/track/52Orpi1a7Md57vu8yZ1yZD"
     },
     {
       "added_at": "2022-09-12 16:38:21",
@@ -1155,18 +1139,34 @@
     {
       "added_at": "2022-09-12 16:38:21",
       "album": {
-        "name": "Best Of The Blues",
-        "url": "https://open.spotify.com/album/1S7OZpDxCMctv23NyauY4U"
+        "name": "Sings The Blues - 16 Blues Classics",
+        "url": "https://open.spotify.com/album/1Xi4jUpdpTO1S6mzT9qo1M"
       },
       "artists": [
         {
-          "name": "Bobby \"Blue\" Bland",
-          "url": "https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj"
+          "name": "Champion Jack Dupree",
+          "url": "https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7"
         }
       ],
-      "duration_ms": 179893,
-      "name": "Farther Up The Road - Single Version",
-      "url": "https://open.spotify.com/track/52Orpi1a7Md57vu8yZ1yZD"
+      "duration_ms": 155320,
+      "name": "She Cooks Me Cabbage",
+      "url": "https://open.spotify.com/track/70LqNvcDYUtGblObUimMi0"
+    },
+    {
+      "added_at": "2022-09-12 16:38:21",
+      "album": {
+        "name": "Bacon Fat / Pass the Biscuits Please",
+        "url": "https://open.spotify.com/album/0fAOSzXlQ3fJgHf8B2rMPE"
+      },
+      "artists": [
+        {
+          "name": "Andre Williams",
+          "url": "https://open.spotify.com/artist/4mmEKUZZBwnzg4m6hizPyN"
+        }
+      ],
+      "duration_ms": 184575,
+      "name": "Bacon Fat - Remastered",
+      "url": "https://open.spotify.com/track/7sDtdfJeneSVNyx8Gm1N6M"
     }
   ],
   "unique_name": "BBQ Blues",

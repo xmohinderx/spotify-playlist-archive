@@ -8,6 +8,32 @@
   "tracks": [
     {
       "album": {
+        "name": "Party 2019",
+        "url": "https://open.spotify.com/album/5SbMB5xPFwrifMoTHLEGnU"
+      },
+      "artists": [
+        {
+          "name": "Fergie",
+          "url": "https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G"
+        },
+        {
+          "name": "Q-Tip",
+          "url": "https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU"
+        },
+        {
+          "name": "GoonRock",
+          "url": "https://open.spotify.com/artist/53sIBaVjXQhfH89Vu6nEGh"
+        }
+      ],
+      "date_added": "2022-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240733,
+      "name": "A Little Party Never Killed Nobody (All We Got)",
+      "url": "https://open.spotify.com/track/1Mq6nWFfXgqpkeuoLG3JIl"
+    },
+    {
+      "album": {
         "name": "Music From Baz Luhrmann's Film The Great Gatsby",
         "url": "https://open.spotify.com/album/6JCgdZOAX8K6SgBw3Oanwd"
       },
@@ -27,7 +53,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 240733,
       "name": "A Little Party Never Killed Nobody (All We Got)",
       "url": "https://open.spotify.com/track/1yW00C89gUWPvUh5fkyzz4"
@@ -165,7 +191,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 283066,
       "name": "Big Pimpin'",
       "url": "https://open.spotify.com/track/7m97yKVzPpXV9Z4ezEziOD"
@@ -191,6 +217,28 @@
       "duration_ms": 284400,
       "name": "Big Pimpin'",
       "url": "https://open.spotify.com/track/4m1B88bynbZIVnrDsUINYc"
+    },
+    {
+      "album": {
+        "name": "The Hits Collection Volume One (Explicit Version)",
+        "url": "https://open.spotify.com/album/58O1BkRgemkyhm8onpQwBb"
+      },
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "UGK",
+          "url": "https://open.spotify.com/artist/6ZhjJOJXXwnPS8PrXdmjLw"
+        }
+      ],
+      "date_added": "2022-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284400,
+      "name": "Big Pimpin'",
+      "url": "https://open.spotify.com/track/5VYkcDWIPJjhTnnckVm1sN"
     },
     {
       "album": {
@@ -886,6 +934,24 @@
     },
     {
       "album": {
+        "name": "Royal",
+        "url": "https://open.spotify.com/album/4o7rdd2fYeSEXcTJLzpvsg"
+      },
+      "artists": [
+        {
+          "name": "The Royal Concept",
+          "url": "https://open.spotify.com/artist/7LAucJAvbQa7ZIA0qP8YI2"
+        }
+      ],
+      "date_added": "2022-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193853,
+      "name": "On Our Way",
+      "url": "https://open.spotify.com/track/3GTXok0dIm0mMqBiVklBYS"
+    },
+    {
+      "album": {
         "name": "Goldrushed",
         "url": "https://open.spotify.com/album/30p1meHBKVwMY9lsOabmwd"
       },
@@ -915,7 +981,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 194186,
       "name": "On Our Way",
       "url": "https://open.spotify.com/track/7yWCstlfqJwCYZFdycrFQe"
@@ -1053,10 +1119,28 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 235493,
       "name": "Only Girl (In The World)",
       "url": "https://open.spotify.com/track/2ENexcMEMsYk0rVJigVD3i"
+    },
+    {
+      "album": {
+        "name": "Loud",
+        "url": "https://open.spotify.com/album/35dJsQDEr549O5DTFUy3uM"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2022-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235520,
+      "name": "Only Girl (In The World)",
+      "url": "https://open.spotify.com/track/6jAsmDJI8iPhGWtS27kZ67"
     },
     {
       "album": {

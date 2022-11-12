@@ -455,7 +455,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 129573,
       "name": "ALL NIGHT LONG",
       "url": "https://open.spotify.com/track/2CHVJkpUoIgz5vt8uX53gG"
@@ -716,8 +716,44 @@
     },
     {
       "album": {
+        "name": "BABYBOY",
+        "url": "https://open.spotify.com/album/24x0SeAnpIRPEsKK3IuV9E"
+      },
+      "artists": [
+        {
+          "name": "Cybertrash",
+          "url": "https://open.spotify.com/artist/6qKNO74t6cNcytBKSunEcW"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121600,
+      "name": "BABYBOY",
+      "url": "https://open.spotify.com/track/0f4iY83d7HGIljumcbKb8H"
+    },
+    {
+      "album": {
         "name": "Back End",
         "url": "https://open.spotify.com/album/40dnVvzZfYX0330N1VqN89"
+      },
+      "artists": [
+        {
+          "name": "Finesse2tymes",
+          "url": "https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg"
+        }
+      ],
+      "date_added": "2022-09-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-12",
+      "duration_ms": 165478,
+      "name": "Back End",
+      "url": "https://open.spotify.com/track/1QrL8zd8MIrCiOPuj02dxC"
+    },
+    {
+      "album": {
+        "name": "Humble",
+        "url": "https://open.spotify.com/album/1HQxQwZS6Le2ndJTl9UAsF"
       },
       "artists": [
         {
@@ -730,7 +766,7 @@
       "date_removed": null,
       "duration_ms": 165478,
       "name": "Back End",
-      "url": "https://open.spotify.com/track/1QrL8zd8MIrCiOPuj02dxC"
+      "url": "https://open.spotify.com/track/1pBOkbXPSz6FdfE5545VoA"
     },
     {
       "album": {
@@ -1583,7 +1619,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 152748,
       "name": "Cap Freestyle",
       "url": "https://open.spotify.com/track/7vJDoWPSNTXu5v8H5siOin"
@@ -1973,6 +2009,24 @@
       "duration_ms": 101826,
       "name": "Cracked (I\u2019m Him 2)",
       "url": "https://open.spotify.com/track/4NwPP9NVYwY5jc66hnaOls"
+    },
+    {
+      "album": {
+        "name": "Creme Brulee",
+        "url": "https://open.spotify.com/album/5zQXPoLBDFCFGN4IPu14VG"
+      },
+      "artists": [
+        {
+          "name": "Cochise",
+          "url": "https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112207,
+      "name": "Creme Brulee",
+      "url": "https://open.spotify.com/track/3jvrZ6mIhVEH4XMpmqSTRI"
     },
     {
       "album": {
@@ -3006,6 +3060,24 @@
     },
     {
       "album": {
+        "name": "Fall Dragon",
+        "url": "https://open.spotify.com/album/2xg986MAj2eacfdcKzTsRQ"
+      },
+      "artists": [
+        {
+          "name": "Overpade",
+          "url": "https://open.spotify.com/artist/03hSZAtyBlgYcfb02Nhh6q"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113044,
+      "name": "Fall Dragon",
+      "url": "https://open.spotify.com/track/0xoyOumQBDZC41QdURfglb"
+    },
+    {
+      "album": {
         "name": "Falling Off",
         "url": "https://open.spotify.com/album/4lQ9BZexDCtaBrDhBKh6Og"
       },
@@ -3939,6 +4011,24 @@
       "duration_ms": 128567,
       "name": "How Much Cash",
       "url": "https://open.spotify.com/track/7MqhkWnXD53EK4XreeK2F1"
+    },
+    {
+      "album": {
+        "name": "Humans Being Humans",
+        "url": "https://open.spotify.com/album/2st8Kbp56wmwC5Z2MLo5R3"
+      },
+      "artists": [
+        {
+          "name": "IVOXYGEN",
+          "url": "https://open.spotify.com/artist/6K9KevAu0cpln7xOsM3Wkm"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131057,
+      "name": "Humans Being Humans",
+      "url": "https://open.spotify.com/track/4UEKSWhyeuqaeDM1BXeypE"
     },
     {
       "album": {
@@ -5497,7 +5587,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 166706,
       "name": "MINUTE FOREVER",
       "url": "https://open.spotify.com/track/2TTowxYr4R1mapPbdZban7"
@@ -6607,7 +6697,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 137090,
       "name": "Prettiest Problem",
       "url": "https://open.spotify.com/track/4xJGDw3NuNpfzIluJjAoye"
@@ -7642,6 +7732,28 @@
     },
     {
       "album": {
+        "name": "Pink Heartz",
+        "url": "https://open.spotify.com/album/1POWgdYTzfFt9rhKlXFwsU"
+      },
+      "artists": [
+        {
+          "name": "SoFaygo",
+          "url": "https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213704,
+      "name": "Stay Awake",
+      "url": "https://open.spotify.com/track/5k9kxCcae70vUElndjveXT"
+    },
+    {
+      "album": {
         "name": "Step 1",
         "url": "https://open.spotify.com/album/5FK1c1mPSV1qVlrP3STXYf"
       },
@@ -7809,7 +7921,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 224937,
       "name": "Suicide",
       "url": "https://open.spotify.com/track/3WYuIKvTLWbv8IwFNakmo5"

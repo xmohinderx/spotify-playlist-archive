@@ -4,7 +4,7 @@
 
 > Get ready, to do, do rocksteady
 
-89 songs - 4 hr 29 min - [published](https://open.spotify.com/playlist/5E2s1kfen5rRaZahEjSJBP)
+92 songs - 4 hr 38 min - [published](https://open.spotify.com/playlist/5E2s1kfen5rRaZahEjSJBP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [Everything Crash](https://open.spotify.com/track/5zmWqhwriJRLBRDEKBAk8t) | [The Ethiopians](https://open.spotify.com/artist/3TUmwNx3l8S2nCoGKqIhjA) | [Dis One A Scorcher! Absolutely The Best Of Roots and Culture Vol\. 1](https://open.spotify.com/album/0c1hEokDa1kA83dV2qFHoE) | 2:37 | 2018-04-23 |  |
 | [Feel Like Jumping](https://open.spotify.com/track/1kbbrBV0TtXE6Su03JiGuA) | [Marcia Griffiths](https://open.spotify.com/artist/4qLV9FR6ZVLS6W8drD78hM) | [Naturally](https://open.spotify.com/album/5eVn4uEttNUmF5TeJkkaEW) | 4:00 | 2014-12-10 |  |
 | [Freedom Street](https://open.spotify.com/track/3K0hfF6eN8gX08YGcoiC0S) | [Ken Boothe](https://open.spotify.com/artist/6jg1EbpTL27toPdfzveorJ) | [50 Greatest Hits Ken Boothe](https://open.spotify.com/album/365AmCmTfs1cvGV2phwmjF) | 2:47 | 2014-12-10 | 2022-07-29 |
-| [Freedom Street](https://open.spotify.com/track/6LbChaXJgm1NmTmWEBoKjg) | [Ken Boothe](https://open.spotify.com/artist/6jg1EbpTL27toPdfzveorJ) | [The Ken Boothe Collection: Eighteen Classic Songs](https://open.spotify.com/album/12NP8Zg49uP77ozUUSTe99) | 2:47 | 2022-03-28 |  |
+| [Freedom Street](https://open.spotify.com/track/6LbChaXJgm1NmTmWEBoKjg) | [Ken Boothe](https://open.spotify.com/artist/6jg1EbpTL27toPdfzveorJ) | [The Ken Boothe Collection: Eighteen Classic Songs](https://open.spotify.com/album/12NP8Zg49uP77ozUUSTe99) | 2:47 | 2022-03-28 | 2022-11-12 |
+| [Freedom Street](https://open.spotify.com/track/3L0eF2Xi7WyNUGphW8FRxf) | [Ken Boothe](https://open.spotify.com/artist/6jg1EbpTL27toPdfzveorJ) | [Freedom Street](https://open.spotify.com/album/4JACUHWYW799BT35ygrp8p) | 2:51 | 2022-03-28 |  |
 | [Have Mercy](https://open.spotify.com/track/5JomjYsjKbnD3wZKOKwexf) | [Delroy Wilson](https://open.spotify.com/artist/10j5vcbnSBWXZ1WYyv2a2D) | [Delroy Wilson Story Vol 1 Platinum Edition](https://open.spotify.com/album/0sQhduNLAEOfIH8mLkfAic) | 3:26 | 2022-03-28 |  |
 | [Have Some Mercy](https://open.spotify.com/track/4vHht02zVM8vnK8I3gwhX7) | [Delroy Wilson](https://open.spotify.com/artist/10j5vcbnSBWXZ1WYyv2a2D) | [Delroy Wilson Anthology](https://open.spotify.com/album/7H1cMrc64VpAShzTKhYAJd) | 3:26 | 2014-12-10 | 2022-07-29 |
 | [Have Some Mercy](https://open.spotify.com/track/6P4TFTWjdO5iXr8EfQVjqz) | [Delroy Wilson](https://open.spotify.com/artist/10j5vcbnSBWXZ1WYyv2a2D) | [Delroy Wilson's Big Hits](https://open.spotify.com/album/2B6fDpOYSkw07Pe7muIihM) | 3:26 | 2022-03-28 | 2022-11-11 |
@@ -51,7 +52,8 @@
 | [Let Your Yeah Be Yeah](https://open.spotify.com/track/1exSXMDd3U6bA81bhvwm7c) | [The Pioneers](https://open.spotify.com/artist/4CSqr95TKzLmNeClcDr219) | [The Best of Trojan Reggae Vol\. 1](https://open.spotify.com/album/1nyiDXPfCbXW1ReQE5lgVm) | 3:08 | 2022-03-28 |  |
 | [Let Your Yeah Be Yeah](https://open.spotify.com/track/0FIHZ7phD18PjIP3zcV5K6) | [The Pioneers](https://open.spotify.com/artist/4CSqr95TKzLmNeClcDr219) | [Reggae Chartbusters, Vol\. 3](https://open.spotify.com/album/0G8x45X2PtcB0w0FedVoN9) | 3:08 | 2014-12-10 | 2022-07-29 |
 | [Little Boy Blue](https://open.spotify.com/track/0LtwkkHxMWPt5LEZa4sBn1) | [Pat Kelly](https://open.spotify.com/artist/5mLxA9ySBmpMnMNvx1bEUi) | [The Vintage Series Pat Kelly](https://open.spotify.com/album/1YXIHpqZqUDBMIhvgtIMdo) | 2:45 | 2014-12-10 | 2022-07-29 |
-| [Little Boy Blue](https://open.spotify.com/track/4M8o993Gt5U6mSogtuviYn) | [Pat Kelly](https://open.spotify.com/artist/5mLxA9ySBmpMnMNvx1bEUi) | [The Vintage Series](https://open.spotify.com/album/79trt5vU4vqyna7znhWjqD) | 2:46 | 2022-03-28 |  |
+| [Little Boy Blue](https://open.spotify.com/track/4M8o993Gt5U6mSogtuviYn) | [Pat Kelly](https://open.spotify.com/artist/5mLxA9ySBmpMnMNvx1bEUi) | [The Vintage Series](https://open.spotify.com/album/79trt5vU4vqyna7znhWjqD) | 2:46 | 2022-03-28 | 2022-11-12 |
+| [Little Boy Blue](https://open.spotify.com/track/765wcwrs7sTkSKHumyyXXE) | [Pat Kelly](https://open.spotify.com/artist/5mLxA9ySBmpMnMNvx1bEUi) | [Little Boy Blue](https://open.spotify.com/album/0ljHDlmjcbM1JmoSaMriBP) | 2:47 | 2022-03-28 |  |
 | [Lost Without You](https://open.spotify.com/track/3TeLqdhzHB9cuFbaKlNvgm) | [Lloyd Charmers](https://open.spotify.com/artist/3mSM2ALYf2unI6Hk6NGBmD) | [Jamaican Rock Steady Party](https://open.spotify.com/album/4UGon6PLiaTnceOnsT1uM3) | 2:02 | 2022-03-28 |  |
 | [Lost Without You](https://open.spotify.com/track/6vGhyZvt0jbLb06wrFnB3K) | [Lloyd Charmers](https://open.spotify.com/artist/3mSM2ALYf2unI6Hk6NGBmD) | [Jamaican Rock Steady Party](https://open.spotify.com/album/3b5MkzDcKc935xC3JR1aVI) | 2:02 | 2014-12-10 | 2022-07-29 |
 | [Love Is a Treasure](https://open.spotify.com/track/6AqMqvhlkC5Q2uxNhoJAi8) | [Freddie McKay](https://open.spotify.com/artist/6BI5BLDBy5dY19EI2cw1P1) | [Duke Reid Rocks Steady](https://open.spotify.com/album/0uKHcuc5kFXnzBfMyJjgxM) | 2:43 | 2022-03-28 |  |
@@ -82,7 +84,8 @@
 | [Sound and Pressure](https://open.spotify.com/track/0gOB0LAnmJK0IzPudWzi2p) | [Hopeton Lewis](https://open.spotify.com/artist/0mO8aKj6nYryzzlEdPYAPb) | [Take It Easy](https://open.spotify.com/album/0df5wnsgG6FBXXmq4DXe1h) | 3:19 | 2022-03-28 | 2022-11-11 |
 | [Sounds And Pressure](https://open.spotify.com/track/0SWEZ8TZynwQp136YuN3hd) | [Hopeton Lewis](https://open.spotify.com/artist/0mO8aKj6nYryzzlEdPYAPb) | [First Class Rock Steady](https://open.spotify.com/album/3rYMAaYm6gRaCoSzoCJEji) | 3:13 | 2022-03-28 |  |
 | [Steady Rock](https://open.spotify.com/track/4qabPWXYmTgayl0IFZmIpQ) | [The Aggrovators](https://open.spotify.com/artist/2qX63C7rYqUDrY3CD7sbUm) | [K\-Town Showdown](https://open.spotify.com/album/4jMuTSL7ETQxrHxNmtfhK0) | 2:39 | 2022-03-28 | 2022-11-11 |
-| [Stop That Train](https://open.spotify.com/track/1Kx41Zr25gtit0eGTkVX1Y) | [Keith & Tex](https://open.spotify.com/artist/1pyZxTpbRw7gwnEw73cfUy) | [Riding the Musical Chariot](https://open.spotify.com/album/0PWSt4l4HLg9t4XpKaBYJy) | 3:14 | 2014-12-10 |  |
+| [Stop That Train](https://open.spotify.com/track/64xngeQGDcFaSWv8O9P4ME) | [Keith & Tex](https://open.spotify.com/artist/1pyZxTpbRw7gwnEw73cfUy) | [Greatest Hits 1966 \- 1970](https://open.spotify.com/album/3B7u6yA4omYG6Fm0y7bFqj) | 3:08 | 2022-03-28 |  |
+| [Stop That Train](https://open.spotify.com/track/1Kx41Zr25gtit0eGTkVX1Y) | [Keith & Tex](https://open.spotify.com/artist/1pyZxTpbRw7gwnEw73cfUy) | [Riding the Musical Chariot](https://open.spotify.com/album/0PWSt4l4HLg9t4XpKaBYJy) | 3:14 | 2014-12-10 | 2022-11-12 |
 | [That Wonderful Sound](https://open.spotify.com/track/46JFegy0KkJNXhZK4BPOrB) | [Dobby Dobson](https://open.spotify.com/artist/5xYXtdpxl2wwzMBSqvgpM0) | [The Vintage Series: Dobby Dobson](https://open.spotify.com/album/3D66zjhBWUvpoYGiBjZrm0) | 3:24 | 2014-12-10 |  |
 | [The Loser](https://open.spotify.com/track/3AGEHHqBOnAmQiJxxbasJu) | [Derrick Harriott](https://open.spotify.com/artist/1ht9oSlPiNywrg22T2sM8d) | [The Loser / Now We Know](https://open.spotify.com/album/3Q9nz0AiROFVdjAwNDpwhv) | 3:38 | 2022-03-28 | 2022-11-11 |
 | [The Loser](https://open.spotify.com/track/4ZIZ5fAAfqyhkscTVTwuiz) | [Derrick Harriott](https://open.spotify.com/artist/1ht9oSlPiNywrg22T2sM8d) | [Derrick Harriott Rocksteady 1965 to 1968 \- 10 Singles Set Pt\. 1](https://open.spotify.com/album/6nEU8MIp585oxwMgF3EvFS) | 3:38 | 2022-03-28 |  |

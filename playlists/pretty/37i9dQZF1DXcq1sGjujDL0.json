@@ -1,12 +1,12 @@
 {
   "description": "S\u00f3 pra quem usa a colher de pau como microfone.",
-  "num_followers": 160519,
+  "num_followers": 160555,
   "original_name": "Cantando na Cozinha",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDg5NzA3NCwwMDAwMDAwMDVkZmFiMzExMTMyZTMxZWYxNmIzNGE3Y2JiOWRkYjk2",
+  "snapshot_id": "MTY2NDg5NzA3NCwwMDAwMDAwMGY4N2Q1NzNkN2M1OWY0ODE2YmM3NmM3MTNhMzU0YWQ2",
   "tracks": [
     {
       "added_at": "2022-06-30 13:51:59",
@@ -183,26 +183,6 @@
     {
       "added_at": "2022-06-30 13:51:59",
       "album": {
-        "name": "Grease (The Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq"
-      },
-      "artists": [
-        {
-          "name": "John Travolta",
-          "url": "https://open.spotify.com/artist/4hKkEHkaqCsyxNxXEsszVH"
-        },
-        {
-          "name": "Olivia Newton-John",
-          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
-        }
-      ],
-      "duration_ms": 169840,
-      "name": "You're The One That I Want - From \u201cGrease\u201d",
-      "url": "https://open.spotify.com/track/0B9x2BRHqj3Qer7biM3pU3"
-    },
-    {
-      "added_at": "2022-06-30 13:51:59",
-      "album": {
         "name": "She's So Unusual",
         "url": "https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0"
       },
@@ -219,18 +199,22 @@
     {
       "added_at": "2022-06-30 13:51:59",
       "album": {
-        "name": "Diana Ross Presents The Jackson 5",
-        "url": "https://open.spotify.com/album/51uoKRa8vT5SULrlF8s2t1"
+        "name": "Grease (The Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq"
       },
       "artists": [
         {
-          "name": "The Jackson 5",
-          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
+          "name": "John Travolta",
+          "url": "https://open.spotify.com/artist/4hKkEHkaqCsyxNxXEsszVH"
+        },
+        {
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
         }
       ],
-      "duration_ms": 176333,
-      "name": "I Want You Back",
-      "url": "https://open.spotify.com/track/5LxvwujISqiB8vpRYv887S"
+      "duration_ms": 169840,
+      "name": "You're The One That I Want - From \u201cGrease\u201d",
+      "url": "https://open.spotify.com/track/0B9x2BRHqj3Qer7biM3pU3"
     },
     {
       "added_at": "2022-06-30 13:51:59",
@@ -271,22 +255,6 @@
     {
       "added_at": "2022-06-30 13:51:59",
       "album": {
-        "name": "24K Magic",
-        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 225983,
-      "name": "24K Magic",
-      "url": "https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P"
-    },
-    {
-      "added_at": "2022-06-30 13:51:59",
-      "album": {
         "name": "Confessions on a Dance Floor",
         "url": "https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr"
       },
@@ -303,34 +271,18 @@
     {
       "added_at": "2022-06-30 13:51:59",
       "album": {
-        "name": "She's So Unusual",
-        "url": "https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0"
+        "name": "24K Magic",
+        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
       },
       "artists": [
         {
-          "name": "Cyndi Lauper",
-          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 241333,
-      "name": "Time After Time",
-      "url": "https://open.spotify.com/track/7o9uu2GDtVDr9nsR7ZRN73"
-    },
-    {
-      "added_at": "2022-06-30 13:51:59",
-      "album": {
-        "name": "Aretha Now",
-        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 216773,
-      "name": "I Say a Little Prayer",
-      "url": "https://open.spotify.com/track/3NfxSdJnVdon1axzloJgba"
+      "duration_ms": 225983,
+      "name": "24K Magic",
+      "url": "https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P"
     },
     {
       "added_at": "2022-06-30 13:51:59",
@@ -363,6 +315,38 @@
       "duration_ms": 245200,
       "name": "How Deep Is Your Love",
       "url": "https://open.spotify.com/track/2JoZzpdeP2G6Csfdq5aLXP"
+    },
+    {
+      "added_at": "2022-06-30 13:51:59",
+      "album": {
+        "name": "She's So Unusual",
+        "url": "https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0"
+      },
+      "artists": [
+        {
+          "name": "Cyndi Lauper",
+          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+        }
+      ],
+      "duration_ms": 241333,
+      "name": "Time After Time",
+      "url": "https://open.spotify.com/track/7o9uu2GDtVDr9nsR7ZRN73"
+    },
+    {
+      "added_at": "2022-06-30 13:51:59",
+      "album": {
+        "name": "I Never Loved a Man the Way I Love You",
+        "url": "https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 147600,
+      "name": "Respect",
+      "url": "https://open.spotify.com/track/7s25THrKz86DM225dOYwnr"
     },
     {
       "added_at": "2022-06-30 13:51:59",
@@ -411,22 +395,6 @@
       "duration_ms": 263573,
       "name": "Free Fallin' - Live at the Nokia Theatre, Los Angeles, CA - December 2007",
       "url": "https://open.spotify.com/track/4LloVtxNZpeh7q7xdi1DQc"
-    },
-    {
-      "added_at": "2022-06-30 13:51:59",
-      "album": {
-        "name": "I Never Loved a Man the Way I Love You",
-        "url": "https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 147600,
-      "name": "Respect",
-      "url": "https://open.spotify.com/track/7s25THrKz86DM225dOYwnr"
     },
     {
       "added_at": "2022-06-30 13:51:59",
@@ -511,22 +479,6 @@
     {
       "added_at": "2022-06-30 13:51:59",
       "album": {
-        "name": "Little Girl Blue (2013 Remastered Version)",
-        "url": "https://open.spotify.com/album/58gOQaPc4RCw8eWdTDRes7"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 215746,
-      "name": "My Baby Just Cares for Me - 2013 Remastered Version",
-      "url": "https://open.spotify.com/track/6VTbbVjKOC2qWagIDbkJrC"
-    },
-    {
-      "added_at": "2022-06-30 13:51:59",
-      "album": {
         "name": "20th Century Masters: The Millennium Collection: Best Of Gloria Gaynor",
         "url": "https://open.spotify.com/album/2BU2SNYoIPtZvGEJckdIhx"
       },
@@ -575,22 +527,6 @@
     {
       "added_at": "2022-06-30 13:51:59",
       "album": {
-        "name": "Stand",
-        "url": "https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD"
-      },
-      "artists": [
-        {
-          "name": "Sly & The Family Stone",
-          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
-        }
-      ],
-      "duration_ms": 141506,
-      "name": "Everyday People",
-      "url": "https://open.spotify.com/track/4ZVZBc5xvMyV3WzWktn8i7"
-    },
-    {
-      "added_at": "2022-06-30 13:51:59",
-      "album": {
         "name": "Ray Charles (aka: Hallelujah, I Love Her So)",
         "url": "https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0"
       },
@@ -603,6 +539,22 @@
       "duration_ms": 171466,
       "name": "I've Got a Woman",
       "url": "https://open.spotify.com/track/2xar08Fq5xra2KKZs5Bw9j"
+    },
+    {
+      "added_at": "2022-06-30 13:51:59",
+      "album": {
+        "name": "Stand",
+        "url": "https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD"
+      },
+      "artists": [
+        {
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+        }
+      ],
+      "duration_ms": 141506,
+      "name": "Everyday People",
+      "url": "https://open.spotify.com/track/4ZVZBc5xvMyV3WzWktn8i7"
     },
     {
       "added_at": "2022-06-30 13:51:59",
@@ -623,22 +575,6 @@
     {
       "added_at": "2022-06-30 13:51:59",
       "album": {
-        "name": "Cheryl Lynn (Expanded Edition)",
-        "url": "https://open.spotify.com/album/059jmsqbxhu2n78LMS0H3P"
-      },
-      "artists": [
-        {
-          "name": "Cheryl Lynn",
-          "url": "https://open.spotify.com/artist/6UfoTQXaV3DuqtDVjZIxwZ"
-        }
-      ],
-      "duration_ms": 307946,
-      "name": "Got to Be Real",
-      "url": "https://open.spotify.com/track/58r4JuwHhXLAkttkaUZfLw"
-    },
-    {
-      "added_at": "2022-06-30 13:51:59",
-      "album": {
         "name": "XSCAPE",
         "url": "https://open.spotify.com/album/7pomP86PUhoJpY3fsC0WDQ"
       },
@@ -651,6 +587,22 @@
       "duration_ms": 235400,
       "name": "Love Never Felt So Good",
       "url": "https://open.spotify.com/track/0S5EEpFAHcT7cm5XOASc29"
+    },
+    {
+      "added_at": "2022-06-30 13:51:59",
+      "album": {
+        "name": "Cheryl Lynn (Expanded Edition)",
+        "url": "https://open.spotify.com/album/059jmsqbxhu2n78LMS0H3P"
+      },
+      "artists": [
+        {
+          "name": "Cheryl Lynn",
+          "url": "https://open.spotify.com/artist/6UfoTQXaV3DuqtDVjZIxwZ"
+        }
+      ],
+      "duration_ms": 307946,
+      "name": "Got to Be Real",
+      "url": "https://open.spotify.com/track/58r4JuwHhXLAkttkaUZfLw"
     },
     {
       "added_at": "2022-06-30 13:51:59",
@@ -715,22 +667,6 @@
       "duration_ms": 193893,
       "name": "Lovefool - Radio Edit",
       "url": "https://open.spotify.com/track/0u4htORODiTK9vHVA89MQX"
-    },
-    {
-      "added_at": "2022-06-30 13:51:59",
-      "album": {
-        "name": "The Best of Sade",
-        "url": "https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK"
-      },
-      "artists": [
-        {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
-        }
-      ],
-      "duration_ms": 217466,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/4tReFKumS5bcFahdXDiM1b"
     },
     {
       "added_at": "2022-06-30 13:51:59",
@@ -847,22 +783,6 @@
     {
       "added_at": "2022-06-30 13:51:59",
       "album": {
-        "name": "2",
-        "url": "https://open.spotify.com/album/2XgBQwGRxr4P7cHLDYiqrO"
-      },
-      "artists": [
-        {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        }
-      ],
-      "duration_ms": 161042,
-      "name": "Cooking Up Something Good",
-      "url": "https://open.spotify.com/track/2Dgfey8RouHR9ziGmThLli"
-    },
-    {
-      "added_at": "2022-06-30 13:51:59",
-      "album": {
         "name": "Every Great Motown Hit Of Marvin Gaye",
         "url": "https://open.spotify.com/album/4JdEAA9aYadM2pZ96VHKNL"
       },
@@ -879,34 +799,34 @@
     {
       "added_at": "2022-06-30 13:51:59",
       "album": {
-        "name": "My Cherie Amour",
-        "url": "https://open.spotify.com/album/51DUbu4v2tjYXxgy4I8vrG"
+        "name": "2",
+        "url": "https://open.spotify.com/album/2XgBQwGRxr4P7cHLDYiqrO"
       },
       "artists": [
         {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
         }
       ],
-      "duration_ms": 185293,
-      "name": "Yester-Me, Yester-You, Yesterday",
-      "url": "https://open.spotify.com/track/0l9RGwc48deJ6j61KXAAvs"
+      "duration_ms": 161042,
+      "name": "Cooking Up Something Good",
+      "url": "https://open.spotify.com/track/2Dgfey8RouHR9ziGmThLli"
     },
     {
       "added_at": "2022-06-30 13:51:59",
       "album": {
-        "name": "Tutto Modugno (Mister Volare)",
-        "url": "https://open.spotify.com/album/3RWfLO5X2CSxBI5oH84mra"
+        "name": "80s 100 Hits",
+        "url": "https://open.spotify.com/album/0pvhletDH7CphbKErUtPCF"
       },
       "artists": [
         {
-          "name": "Domenico Modugno",
-          "url": "https://open.spotify.com/artist/4llklDtTTyMYMY2LfFOkTI"
+          "name": "Bonnie Tyler",
+          "url": "https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2"
         }
       ],
-      "duration_ms": 216373,
-      "name": "Nel blu dipinto di blu",
-      "url": "https://open.spotify.com/track/006Ndmw2hHxvnLbJsBFnPx"
+      "duration_ms": 267266,
+      "name": "Total Eclipse of the Heart",
+      "url": "https://open.spotify.com/track/7q3MflmodGZlOgZ799EpAb"
     },
     {
       "added_at": "2022-06-30 13:51:59",
@@ -927,18 +847,18 @@
     {
       "added_at": "2022-06-30 13:51:59",
       "album": {
-        "name": "80s 100 Hits",
-        "url": "https://open.spotify.com/album/0pvhletDH7CphbKErUtPCF"
+        "name": "Dumb Dumb",
+        "url": "https://open.spotify.com/album/5TwtsmTGlL07c5C6FASrDj"
       },
       "artists": [
         {
-          "name": "Bonnie Tyler",
-          "url": "https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2"
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
         }
       ],
-      "duration_ms": 267266,
-      "name": "Total Eclipse of the Heart",
-      "url": "https://open.spotify.com/track/7q3MflmodGZlOgZ799EpAb"
+      "duration_ms": 239426,
+      "name": "I'm Not The Only One",
+      "url": "https://open.spotify.com/track/1Rl7EuhgigYMo5Ylid1Rke"
     },
     {
       "added_at": "2022-06-30 13:51:59",
@@ -987,6 +907,86 @@
       "duration_ms": 236773,
       "name": "Nothing Without Love",
       "url": "https://open.spotify.com/track/0oPDrdHQwkjaT0aytZavUO"
+    },
+    {
+      "added_at": "2022-06-30 13:51:59",
+      "album": {
+        "name": "High Times: Singles 1992-2006",
+        "url": "https://open.spotify.com/album/3gm6ZS73n5yGZvWfq7CoLX"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 227866,
+      "name": "Cosmic Girl - Remastered",
+      "url": "https://open.spotify.com/track/6qeIktykvTUxU1exu9GkMT"
+    },
+    {
+      "added_at": "2022-06-30 13:51:59",
+      "album": {
+        "name": "Toto IV",
+        "url": "https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D"
+      },
+      "artists": [
+        {
+          "name": "TOTO",
+          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
+        }
+      ],
+      "duration_ms": 252666,
+      "name": "Waiting for Your Love",
+      "url": "https://open.spotify.com/track/1CP967dCzbdR2RMejYyPFz"
+    },
+    {
+      "added_at": "2022-06-30 13:51:59",
+      "album": {
+        "name": "The Very Best Of Nina Simone 1967-1972 - Sugar In My Bowl",
+        "url": "https://open.spotify.com/album/5Dh4qVmcMpDv5qhgdaqGtj"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 188893,
+      "name": "I Wish I Knew How It Would Feel to Be Free",
+      "url": "https://open.spotify.com/track/617BX2z1ctbswU1xjU3LRW"
+    },
+    {
+      "added_at": "2022-06-30 13:51:59",
+      "album": {
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/3JYT9f8X9LOfpTzbKDWN4a"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 216066,
+      "name": "Paradise - Remastered Version",
+      "url": "https://open.spotify.com/track/0vhyCB8RvI8Ruvy324USy5"
+    },
+    {
+      "added_at": "2022-06-30 13:51:59",
+      "album": {
+        "name": "PRIDE \ud83c\udff3\ufe0f\u200d\ud83c\udf08 Musica Pazzeska \ud83c\udf08 2022",
+        "url": "https://open.spotify.com/album/0oeZOlS2Gs1lqJD4xJ276W"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "duration_ms": 284666,
+      "name": "Stayin' Alive - From \"Saturday Night Fever\" Soundtrack",
+      "url": "https://open.spotify.com/track/5eeUPey5v8om0DRCRZjkUK"
     }
   ],
   "unique_name": "Cantando na Cozinha",

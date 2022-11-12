@@ -4,7 +4,7 @@
 
 > Kick it with some of the hottest bars from Uganda +256
 
-55 songs - 3 hr 3 min - [published](https://open.spotify.com/playlist/6huaxOIVGcotGlqbksbqmW)
+56 songs - 3 hr 5 min - [published](https://open.spotify.com/playlist/6huaxOIVGcotGlqbksbqmW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Better than you](https://open.spotify.com/track/6akP9GpmVUmdRa1KZ7FLjz) | [Nsokwa](https://open.spotify.com/artist/3ILdlSQ0HG3yLSchcE49Dz), [Rambe](https://open.spotify.com/artist/3Iiug7IJtwOIdXyIFL1TXJ), [Kxngz](https://open.spotify.com/artist/7Mm93xcywDAJtCm2cHKzPm), [Jeatee](https://open.spotify.com/artist/6U82VZXLy23VS126xtHzFA) | [Better than you](https://open.spotify.com/album/1I9N0OFw8OFUpdclB60RkD) | 2:36 | 2022-09-08 |  |
 | [Blow Up](https://open.spotify.com/track/1vNfNoQklN2A7Qn4h7mJKO) | [Triggah](https://open.spotify.com/artist/0X3KWKamiMstCtGBljaikR) | [Blow Up](https://open.spotify.com/album/58n7ELafEIhHUCMSYeRnJe) | 3:47 | 2022-09-08 |  |
 | [Can You Imagine](https://open.spotify.com/track/2RFWIe4Kyuydzgo7kBJQ8E) | [Rey Macc](https://open.spotify.com/artist/7BVMpH5dEz4jE03STFwdqZ), [J\-Wats](https://open.spotify.com/artist/2hJigwTqQU3CFE4AUGb1Qv), [Isaiah Misanvu](https://open.spotify.com/artist/5mR64cshBueO6oPDga4cgh) | [Can You Imagine](https://open.spotify.com/album/26ZsfOw4zyS5q3QUh0mZdk) | 3:17 | 2022-09-08 |  |
+| [Coming In Hot \- Short Version](https://open.spotify.com/track/4PNUQ1EM9MXcZgf26Lvj6U) | [Drillz The Rapper](https://open.spotify.com/artist/7EjcbHeP9v2XgeyP718axB) | [Coming In Hot](https://open.spotify.com/album/6Yt2pOIVZP1QuqAxrilW2H) | 2:12 | 2022-11-10 |  |
 | [Coronation](https://open.spotify.com/track/4H2N1mJ1ASwOICfB7KssiX) | [The Abstract Kid](https://open.spotify.com/artist/4MdaPhRU2AMaylIfyWm8cW), [Nsokwa](https://open.spotify.com/artist/3ILdlSQ0HG3yLSchcE49Dz) | [Coronation](https://open.spotify.com/album/0BejVTOe8sGM9SCXnsy0Bx) | 3:06 | 2022-09-08 |  |
 | [Crocs &jersey](https://open.spotify.com/track/568EH1ZKN7cAD0jEQnAEPq) | [Keinoh Music](https://open.spotify.com/artist/0sKiFuMsuB9nVLXovDc5bb), [Otis Banuchi](https://open.spotify.com/artist/24o0ghLqqWJsq3Tk9Ngukc), [Fakher Ahmed](https://open.spotify.com/artist/5CAnXsi43dznJE7qXujny3) | [Crocs &jersey](https://open.spotify.com/album/21XTnqu53Mkb5xyQ0M2Dal) | 2:43 | 2022-09-08 |  |
 | [Demons](https://open.spotify.com/track/2CkBcDSWW1VuB0t9kRpsA7) | [Malunda](https://open.spotify.com/artist/7xFi0ADsYYigQwaxsgv5aI) | [Demons](https://open.spotify.com/album/2CGb3UbrAPB7l4lBoi9ySP) | 2:46 | 2022-09-08 | 2022-11-11 |

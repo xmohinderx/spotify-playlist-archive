@@ -91,7 +91,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 213373,
       "name": "A Little Respect",
       "url": "https://open.spotify.com/track/2RVQIq7bLi4Eu6xHPyQ46t"
@@ -163,7 +163,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 163880,
       "name": "Alternative Ulster",
       "url": "https://open.spotify.com/track/2yE3bwbhqypdsuhmv48Svn"
@@ -181,7 +181,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 227760,
       "name": "And We Danced",
       "url": "https://open.spotify.com/track/5xkNd7kCRmjT2DxSAYVVyC"
@@ -329,10 +329,28 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 237653,
       "name": "Because You're Frightened - Remastered 2007",
       "url": "https://open.spotify.com/track/7I2F04fUq0DAetR5BMcQYc"
+    },
+    {
+      "album": {
+        "name": "Reproduction",
+        "url": "https://open.spotify.com/album/7tc1nTdBA717D74uJ07VRn"
+      },
+      "artists": [
+        {
+          "name": "The Human League",
+          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234040,
+      "name": "Being Boiled - Fast Version / 2003 Digital Remaster",
+      "url": "https://open.spotify.com/track/2xN8RYKg69sdfoqtvYnwwM"
     },
     {
       "album": {
@@ -369,6 +387,24 @@
       "duration_ms": 247653,
       "name": "Birth, School, Work, Death",
       "url": "https://open.spotify.com/track/6cKYSjLBhQVFbmXmJSQOA7"
+    },
+    {
+      "album": {
+        "name": "Birth, School, Work, Death (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5kFedIxAmxXyX0CNxjw8wl"
+      },
+      "artists": [
+        {
+          "name": "The Godfathers",
+          "url": "https://open.spotify.com/artist/3Gf6z7kuVRjZ2e3W2cxoXN"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248826,
+      "name": "Birth, School, Work, Death",
+      "url": "https://open.spotify.com/track/7lWvECULXPh7RoAT1fmgo3"
     },
     {
       "album": {
@@ -1085,7 +1121,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 239280,
       "name": "Eighties - 2007 Digital Remaster",
       "url": "https://open.spotify.com/track/21T9lWigjSIMg9uD6ZfRnQ"
@@ -1442,6 +1478,24 @@
     },
     {
       "album": {
+        "name": "Playlist: The Very Best Of Scandal",
+        "url": "https://open.spotify.com/album/5ntJCfCa8PbqoeatwBh8cM"
+      },
+      "artists": [
+        {
+          "name": "Scandal",
+          "url": "https://open.spotify.com/artist/3RFGnJaDVOyxL9YcFaKatu"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226493,
+      "name": "Goodbye to You",
+      "url": "https://open.spotify.com/track/2ARO7celMseIwJvCMS2Mt2"
+    },
+    {
+      "album": {
         "name": "Now That's What I Call Quite Good",
         "url": "https://open.spotify.com/album/60b7ulDviqm8obALV5JDI9"
       },
@@ -1727,6 +1781,24 @@
       "duration_ms": 196480,
       "name": "I Love You, Suzanne",
       "url": "https://open.spotify.com/track/2AMpUK6zPcSecPvDWpuAHs"
+    },
+    {
+      "album": {
+        "name": "New Sensations",
+        "url": "https://open.spotify.com/album/0H1QdJdBc1roGFZ6g2U9Dx"
+      },
+      "artists": [
+        {
+          "name": "Lou Reed",
+          "url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197706,
+      "name": "I Love You, Suzanne",
+      "url": "https://open.spotify.com/track/75ZIcqlga3HJf5IT3UFinx"
     },
     {
       "album": {
@@ -2054,6 +2126,24 @@
     },
     {
       "album": {
+        "name": "Assemblage",
+        "url": "https://open.spotify.com/album/0dAsUU19ezkLw7ZUMgdfc3"
+      },
+      "artists": [
+        {
+          "name": "Japan",
+          "url": "https://open.spotify.com/artist/7vPXrGlSGukcwpaPxUfKKR"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211600,
+      "name": "Life in Tokyo",
+      "url": "https://open.spotify.com/track/7mJl9BQhvdao4M8s5houTL"
+    },
+    {
+      "album": {
         "name": "The Platinum Collection",
         "url": "https://open.spotify.com/album/7oS0WvPmX0SuhAwMPm2w6I"
       },
@@ -2087,7 +2177,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 250746,
       "name": "Living On The Ceiling",
       "url": "https://open.spotify.com/track/7ygp7PFQu9oYlV72tSd2Wz"
@@ -2130,6 +2220,24 @@
     },
     {
       "album": {
+        "name": "Isn't Anything",
+        "url": "https://open.spotify.com/album/3mnv6nzZV5AQhDG7OUsLdo"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217626,
+      "name": "Lose My Breath",
+      "url": "https://open.spotify.com/track/1Ma06PrhbT07YFTlM48rAK"
+    },
+    {
+      "album": {
         "name": "Steps In Time",
         "url": "https://open.spotify.com/album/7dTQ7PhsaV6a6AeGV9l97N"
       },
@@ -2141,7 +2249,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 201386,
       "name": "Love & Pride",
       "url": "https://open.spotify.com/track/3oGcHyoXwBMIAXkgIzLoQn"
@@ -2181,6 +2289,24 @@
       "duration_ms": 215120,
       "name": "Love Buzz",
       "url": "https://open.spotify.com/track/4LzM58Gzcc0Wumj4djK1mX"
+    },
+    {
+      "album": {
+        "name": "Bleach (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0CqchZDaOxckvjnKKfJh1w"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215203,
+      "name": "Love Buzz",
+      "url": "https://open.spotify.com/track/4AkFvW4VdNDNmVXehylmrr"
     },
     {
       "album": {
@@ -2231,7 +2357,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 212573,
       "name": "Love Plus One",
       "url": "https://open.spotify.com/track/4vwLjB2NRtl9b34jRe6cWd"
@@ -2267,7 +2393,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 208453,
       "name": "Love Will Tear Us Apart - 2020 Remaster",
       "url": "https://open.spotify.com/track/34iOH7LY3vme5rQxsVILZ4"
@@ -2321,7 +2447,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 233800,
       "name": "Making Plans For Nigel",
       "url": "https://open.spotify.com/track/3ey3YMZLdl1tQjbz7EJkKG"
@@ -2699,7 +2825,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 220640,
       "name": "Play for Today - 2006 Remaster",
       "url": "https://open.spotify.com/track/1PnQ1sK77wMXagGDhwfBdY"
@@ -2771,7 +2897,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 282600,
       "name": "Pull Up To The Bumper",
       "url": "https://open.spotify.com/track/5FuQfnQIld9Jax9SlzqeBF"
@@ -2843,7 +2969,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 289080,
       "name": "Quiet Life",
       "url": "https://open.spotify.com/track/7GTcfdzY73zsDINXbBzV7B"
@@ -2861,7 +2987,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 245200,
       "name": "Radio Free Europe",
       "url": "https://open.spotify.com/track/46dGFTD918NMz1IP1rPJXO"
@@ -3733,7 +3859,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 205373,
       "name": "Totally Wired",
       "url": "https://open.spotify.com/track/2WcPqaYMXCIuGHasY3TWrv"
@@ -3985,7 +4111,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 161133,
       "name": "Whip It",
       "url": "https://open.spotify.com/track/4sscDOZCkbLSlDqcCgUJnX"
@@ -4079,6 +4205,24 @@
       "duration_ms": 215000,
       "name": "World Shut Your Mouth",
       "url": "https://open.spotify.com/track/2GF0D3d6LKIsDnk8ufpBQa"
+    },
+    {
+      "album": {
+        "name": "Come Away With ESG",
+        "url": "https://open.spotify.com/album/3vPWxVFThDOQZ6siCLque5"
+      },
+      "artists": [
+        {
+          "name": "ESG",
+          "url": "https://open.spotify.com/artist/4EF5vIcCYKMM61oYOG2Tqa"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142640,
+      "name": "You Make No Sense",
+      "url": "https://open.spotify.com/track/5CUeXXccFIxZqpTzYtmORk"
     },
     {
       "album": {

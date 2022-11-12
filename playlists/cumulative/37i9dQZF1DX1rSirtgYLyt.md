@@ -4,7 +4,7 @@
 
 > The best cover versions from the world of Blues\. Taj Mahal on cover.
 
-91 songs - 6 hr 48 min - [published](https://open.spotify.com/playlist/2CACYxcXWrR79wm1dLrCxU)
+92 songs - 6 hr 51 min - [published](https://open.spotify.com/playlist/2CACYxcXWrR79wm1dLrCxU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,8 @@
 | [I Got the Same Old Blues \(feat\. Tom Petty\)](https://open.spotify.com/track/5uIAjyOvC9PjzCpeMRcQo8) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Eric Clapton & Friends \- The Breeze \(An Appreciation of JJ Cale\)](https://open.spotify.com/album/21swqoPE6wszY0IC8sJEYs) | 3:02 | 2022-07-08 |  |
 | [I Loved Another Woman](https://open.spotify.com/track/6Xw030pHwq8vsXWj4WisF6) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [Blues For Greeny](https://open.spotify.com/album/46Lmqo7r5UDYOhIOGOSjdU) | 3:07 | 2022-06-24 |  |
 | [I'd Rather Go Blind](https://open.spotify.com/track/5K4C4We3nhtTYCyPEUae1I) | [Chicken Shack](https://open.spotify.com/artist/7aUVQRiWaOqZU0JwOlGfWi) | [The Complete Blue Horizon Sessions](https://open.spotify.com/album/4gcdawHFamYzxAplmMgeur) | 3:13 | 2022-06-24 | 2022-07-29 |
-| [I'd Rather Go Blind](https://open.spotify.com/track/5i1T44coT8wyZpCMd4F4O8) | [Christine McVie](https://open.spotify.com/artist/6RCsx4p5smZHYz2P5HLcL2) | [The Legendary Christine Perfect Album](https://open.spotify.com/album/5EZHyzIkskrqQwH8OrMlgp) | 3:17 | 2022-07-08 |  |
+| [I'd Rather Go Blind](https://open.spotify.com/track/1RlNXHNrVkFd0ExMdGRSRZ) | [Chicken Shack](https://open.spotify.com/artist/7aUVQRiWaOqZU0JwOlGfWi) | [The Complete Blue Horizon Sessions](https://open.spotify.com/album/4927jpQNUFVlKNZt3Lzwpg) | 3:17 | 2022-10-14 |  |
+| [I'd Rather Go Blind](https://open.spotify.com/track/5i1T44coT8wyZpCMd4F4O8) | [Christine McVie](https://open.spotify.com/artist/6RCsx4p5smZHYz2P5HLcL2) | [The Legendary Christine Perfect Album](https://open.spotify.com/album/5EZHyzIkskrqQwH8OrMlgp) | 3:17 | 2022-07-08 | 2022-11-12 |
 | [I'll Play the Blues for You](https://open.spotify.com/track/6mu0vqpaJQJ0qoTMiP64ao) | [Frank Marino](https://open.spotify.com/artist/4N7EfXrDs4KJFXuN2BIuCT) | [L.A\. Blues Authority Vol\. Iv: Fit for a King](https://open.spotify.com/album/3BsSIZf9F8d6dejzNht08w) | 5:30 | 2022-06-24 |  |
 | [It Takes a Lot to Laugh, It Takes a Train to Cry](https://open.spotify.com/track/5pZ4fMK1D1mPCM7pbGFf9G) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [All Blues'd Up: Songs of Bob Dylan](https://open.spotify.com/album/4WEt5uqbjSbPjF4ziNkQ00) | 4:32 | 2022-06-24 |  |
 | [I’ve Been Loving You Too Long \(Live\)](https://open.spotify.com/track/5D0ZRPvZOCbR520eCZ5mCs) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Blues From The Heart Live \(Live\)](https://open.spotify.com/album/3HhP20GmF6tYJWAkbc1Dvp) | 6:52 | 2022-06-24 |  |

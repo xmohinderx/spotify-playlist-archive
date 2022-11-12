@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8YFRm3hen8.md) - [plain]
 
 > La banda de sonido de tu día.
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,259 likes - 80 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,328 likes - 80 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8YFRm3hen8.md) - [plain]
 | 74 | [Pensamientos](https://open.spotify.com/track/1H7ktqkQx1PIuPfNtqvaBs) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Al Parecer Todo Ha Sido una Trampa](https://open.spotify.com/album/25wv6eU2tDQDPLAYTyuj2Q) | 3:53 |
 | 75 | [El Tesoro de los Inocentes](https://open.spotify.com/track/7qGn9WweEDJw8KZwJqB1KN) | [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4), [Los Fundamentalistas del Aire Acondicionado](https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO) | [El Tesoro de los Inocentes \(Bingo Fuel\)](https://open.spotify.com/album/6c7d0efZpNxeQCOm6Af7fD) | 4:18 |
 | 76 | [El trato](https://open.spotify.com/track/4jsWMUBxGEKn6usvMIO1R8) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z), [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj) | [Cicatrices](https://open.spotify.com/album/0B8RpNMbnIrTB8Q9Si7gYY) | 3:28 |
-| 77 | [Sigue Girando](https://open.spotify.com/track/4wjbUTC312rQO7rziAONDa) | [Ratones Paranoicos](https://open.spotify.com/artist/5fVtUielMhdztOA34ArB6c) | [Girando](https://open.spotify.com/album/5uXPldCWi4gWWQRkbT0m5B) | 3:58 |
-| 78 | [Mi Caramelo \- Live In Buenos Aires / 2001](https://open.spotify.com/track/2pC6LUWFEf2S6BIuBjrWWF) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [De La Cabeza Con Bersuit Vergarabat \(Live In Buenos Aires / 2001\)](https://open.spotify.com/album/7xdsaV2y15dItFMlsoWTqu) | 3:29 |
+| 77 | [Mi Caramelo \- Live In Buenos Aires / 2001](https://open.spotify.com/track/2pC6LUWFEf2S6BIuBjrWWF) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [De La Cabeza Con Bersuit Vergarabat \(Live In Buenos Aires / 2001\)](https://open.spotify.com/album/7xdsaV2y15dItFMlsoWTqu) | 3:29 |
+| 78 | [Sigue Girando](https://open.spotify.com/track/4wjbUTC312rQO7rziAONDa) | [Ratones Paranoicos](https://open.spotify.com/artist/5fVtUielMhdztOA34ArB6c) | [Girando](https://open.spotify.com/album/5uXPldCWi4gWWQRkbT0m5B) | 3:58 |
 | 79 | [Fuiste lo mejor](https://open.spotify.com/track/0pvHj0RHMGZ7JBOYh7Kmsk) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF) | [Otro Día en el Planeta Tierra](https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC) | 4:29 |
 | 80 | [Cállame](https://open.spotify.com/track/5woNfSOnZYbFbA94DqvJJG) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [El Big Blue](https://open.spotify.com/album/1K6DMhbzgcx1T8e4HPnOX4) | 3:07 |
 
-Snapshot ID: `MTY2NzgzNjg0NywwMDAwMDAwMGJlNWRjYzZjY2JmNTBlMTJkY2ZkNjQ1YzFmNmEyZjFk`
+Snapshot ID: `MTY2ODIwMzA4NywwMDAwMDAwMDAwYmU2MzZmYWQ3MjU3MTVmMTUyZGZiYzk4NzcxZWE1`

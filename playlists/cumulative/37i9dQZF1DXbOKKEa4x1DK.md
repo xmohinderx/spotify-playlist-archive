@@ -4,7 +4,7 @@
 
 > Para los enamorados y despechados.
 
-86 songs - 6 hr 22 min - [published](https://open.spotify.com/playlist/38Ai5WsfkNpO3c1KY0X1gl)
+87 songs - 6 hr 27 min - [published](https://open.spotify.com/playlist/38Ai5WsfkNpO3c1KY0X1gl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,8 @@
 | [Un Hombre Busca Una Mujer](https://open.spotify.com/track/0gUEASZhZGZb60JqyQwytv) | [Jossie Esteban](https://open.spotify.com/artist/1n6WShjEhCUMCkHDpvwk8H), [La Patrulla 15](https://open.spotify.com/artist/1oUHedCQed7UGcmwWyCv3O) | [En Accion!](https://open.spotify.com/album/5nXmOTbpGP0z0qtYA1CXAb) | 4:55 | 2021-10-19 |  |
 | [Una Fotografia](https://open.spotify.com/track/77uhiyzPjrQy8jA10PLcIB) | [Bonny Cepeda](https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx) | [12 Golden Hits](https://open.spotify.com/album/04irf8DoODG5y4esqlnLEI) | 4:07 | 2021-10-19 | 2022-11-11 |
 | [Una Fotografía](https://open.spotify.com/track/5Fm2F198vVUuJFhye6FTcv) | [Bonny Cepeda](https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx), [Grupo Mania](https://open.spotify.com/artist/2RqhDUsFkCJbhHntsnCVqp), [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Dance it Bailalo! \- Bailalo!](https://open.spotify.com/album/45cVETJRg6BwWMysv4OCBf) | 4:05 | 2021-10-19 |  |
+| [Vete y Dile](https://open.spotify.com/track/0MbTZaLnuv9wBI9Pkffr5F) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Vete y Dile](https://open.spotify.com/album/4FVAq1YR0xoqSfvBNEunR8) | 4:51 | 2021-10-19 |  |
 | [Vete y Dile](https://open.spotify.com/track/3XKNq4sd6UXmu1dKwIfhL5) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Vete y Dile](https://open.spotify.com/album/6nudGjOlFRKCC2YFcaP2US) | 4:51 | 2021-10-19 | 2022-07-29 |
-| [Vete y Dile](https://open.spotify.com/track/1gcLwCdALFFT5qvpDZgFu7) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Vete y Dile](https://open.spotify.com/album/3bLNzJGuGCJCPnJw4lqwTn) | 4:56 | 2021-10-19 |  |
+| [Vete y Dile](https://open.spotify.com/track/1gcLwCdALFFT5qvpDZgFu7) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Vete y Dile](https://open.spotify.com/album/3bLNzJGuGCJCPnJw4lqwTn) | 4:56 | 2021-10-19 | 2022-11-12 |
 
 \*This playlist was first scraped on 2022-06-03. Prior content cannot be recovered.

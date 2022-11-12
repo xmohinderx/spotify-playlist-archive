@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5XEAHcCzWcH.md) - [plain]
 
 > The unmistakable sound of Blues piano: the best pianists to have pioneered the sound and shape the genre\. Cover: Ray Charles
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,106 likes - 64 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,145 likes - 64 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,13 +49,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5XEAHcCzWcH.md) - [plain]
 | 39 | [Pink Champagne](https://open.spotify.com/track/4NIC2PekIelrjo4DBbGhXG) | [Joe Liggins & The Honeydrippers](https://open.spotify.com/artist/61zdmia3oH5vUieNIqI7iI) | [Joe Liggins & The Honeydrippers](https://open.spotify.com/album/4xhs6dSoAHMYqJuq3zNygO) | 3:00 |
 | 40 | [Honky Tonk](https://open.spotify.com/track/2jrx9e7piANgdK0M3KhHWV) | [Tuts Washington](https://open.spotify.com/artist/2enlsrrQfQ2uHr5MnHucCI) | [New Orleans Piano Professor](https://open.spotify.com/album/73SUBi6wcCs20JawgcGDWy) | 3:22 |
 | 41 | [The Blues Ain't Nothing](https://open.spotify.com/track/0kxvYuAulT8gtAJQMnM52H) | [Julian Fauth](https://open.spotify.com/artist/1q89DTds6UuLXJ9SINH3wr), [Curley Bridges](https://open.spotify.com/artist/734B42JrhaNf5z7J5MvIus) | [Blues Piano\-Rama](https://open.spotify.com/album/1kVLClgeJAWwohZHPbqLGx) | 5:46 |
-| 42 | [Pocketful Of Money](https://open.spotify.com/track/0Y43UwP73ZgegwdVQh4oGY) | [Roosevelt Sykes](https://open.spotify.com/artist/0K0qr72ojMFr5dMkUKgbW5) | [The Honeydripper](https://open.spotify.com/album/6ItEdGX4FUD7O1MFPeUoLm) | 2:32 |
-| 43 | [Train](https://open.spotify.com/track/7wKp4mA6hcs13duOudDQ6C) | [Victor Wainwright](https://open.spotify.com/artist/5iXJjikLdfxrmqGkdyW5C9) | [Victor Wainwright and the Train](https://open.spotify.com/album/1F2skCbg4JAAdWjWM2jr9p) | 3:35 |
+| 42 | [Train](https://open.spotify.com/track/7wKp4mA6hcs13duOudDQ6C) | [Victor Wainwright](https://open.spotify.com/artist/5iXJjikLdfxrmqGkdyW5C9) | [Victor Wainwright and the Train](https://open.spotify.com/album/1F2skCbg4JAAdWjWM2jr9p) | 3:35 |
+| 43 | [Pocketful Of Money](https://open.spotify.com/track/0Y43UwP73ZgegwdVQh4oGY) | [Roosevelt Sykes](https://open.spotify.com/artist/0K0qr72ojMFr5dMkUKgbW5) | [The Honeydripper](https://open.spotify.com/album/6ItEdGX4FUD7O1MFPeUoLm) | 2:32 |
 | 44 | [Somebody To Shack](https://open.spotify.com/track/3UpZ22PXoxj2nRzIOXbuFN) | [Detroit Junior](https://open.spotify.com/artist/3ggFb0YCOrTs2juujB4In3) | [Living Chicago Blues, Vol\. 4](https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J) | 5:22 |
 | 45 | [Make Me a Pallet on the Floor](https://open.spotify.com/track/14AxqPeIqpVySnvgLf6ZKv) | [Jimmy Yancey](https://open.spotify.com/artist/5Htb3OCSbYrsNjXgFP1LqD), [Mama Yancey](https://open.spotify.com/artist/43jwl4inLITN5Xu7D7XcFu) | [Chicago Piano Volume 1](https://open.spotify.com/album/0YXh5wJhimZePRjFK0NSvC) | 4:34 |
-| 46 | [Rockin' with Red \- Remastered 2002](https://open.spotify.com/track/3mowmsy7MT5qN2OQhHlRRp) | [Piano Red](https://open.spotify.com/artist/49vobYCMWUndxJNbtewRsx) | [That's All Right \(When the Sun Goes Down series\)](https://open.spotify.com/album/2Q9GxfO9hi6egkygYvdAX3) | 2:30 |
+| 46 | [Whistling Alex Moore's Blues](https://open.spotify.com/track/3HMJk1q9EfFSvvDPxqhAte) | [Alex Moore](https://open.spotify.com/artist/7xy38VWf17uAjb1ZOSJGq1) | [From North Dallas to the East Side](https://open.spotify.com/album/0y2COhaSasf9M8hQ0JwKb9) | 3:07 |
 | 47 | [Hey Now Baby](https://open.spotify.com/track/3BDE7sDGBihu8EAIE21rto) | [Professor Longhair](https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD) | [The Bach of Rock](https://open.spotify.com/album/3XQzUwB49DzREHCMuFZz8s) | 5:44 |
-| 48 | [Whistling Alex Moore's Blues](https://open.spotify.com/track/3HMJk1q9EfFSvvDPxqhAte) | [Alex Moore](https://open.spotify.com/artist/7xy38VWf17uAjb1ZOSJGq1) | [From North Dallas to the East Side](https://open.spotify.com/album/0y2COhaSasf9M8hQ0JwKb9) | 3:07 |
+| 48 | [Rockin' with Red \- Remastered 2002](https://open.spotify.com/track/3mowmsy7MT5qN2OQhHlRRp) | [Piano Red](https://open.spotify.com/artist/49vobYCMWUndxJNbtewRsx) | [That's All Right \(When the Sun Goes Down series\)](https://open.spotify.com/album/2Q9GxfO9hi6egkygYvdAX3) | 2:30 |
 | 49 | [I Love My Baby](https://open.spotify.com/track/3Zu0ad7UukHVYZHfE4uOWZ) | [Bob Gaddy](https://open.spotify.com/artist/5MnpSXfT5z3JRg6DPChIr2) | [Harlem Blues Operator](https://open.spotify.com/album/5sD0A93pkOyq5QkoxWi7Z3) | 2:30 |
 | 50 | [Early in the Morning](https://open.spotify.com/track/6LnP6nCXhVeRtDaKJU1omH) | [Booker T\. Laury](https://open.spotify.com/artist/6Tsq5rIvRhxQwRsvsRDsWH) | [Blues Routes: Heroes and Tricksters: Blues and Jazz Work Songs and Street Music](https://open.spotify.com/album/3fJ4RbYBvlLsdSVDnK23Gb) | 3:05 |
 | 51 | [If I Hadn't Been High](https://open.spotify.com/track/4AngKkvtjelyQfgBiO9hUt) | [Detroit Junior](https://open.spotify.com/artist/3ggFb0YCOrTs2juujB4In3) | [Living Chicago Blues, Vol\. 4](https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J) | 4:06 |
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5XEAHcCzWcH.md) - [plain]
 | 60 | [Roll 'Em Pete \(with Big Joe Turner\)](https://open.spotify.com/track/23DnwVRtZDPDCKeF1mXxoa) | [Pete Johnson](https://open.spotify.com/artist/7l71rXhsmDwoDgbyXDadtZ), [Big Joe Turner](https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7) | [Juke Joint Jump: A Boogie Woogie Celebration](https://open.spotify.com/album/4mUg9loE0EU7NfqIQQDa1G) | 2:47 |
 | 61 | [I'll Be Right Some Day](https://open.spotify.com/track/3OpoVrckZ1J2IhAri7bWKl) | [Willie Dixon](https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY) | [Nail Jumping](https://open.spotify.com/album/2DegOuID6Bx94UtWX4xYf4) | 2:26 |
 | 62 | [I Don't Know](https://open.spotify.com/track/7kpqOAIaxtgXzW1IHvrRD6) | [Willie Mabon](https://open.spotify.com/artist/7rmHrwuyVuFNIvikHchsQn) | [The Chess Blues\-Rock Songbook](https://open.spotify.com/album/2N6W6Tuq1b9koVr0QGJTQp) | 3:11 |
-| 63 | [Boogie Woogie Country Girl](https://open.spotify.com/track/47XtoBgZySNJlrnuWQSWHM) | [Big Joe Turner](https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7) | [Atlantic Top 60: Doo Wop, Rock And Bobby Socks](https://open.spotify.com/album/5OF57Sz6H8vVvKcFbrXVua) | 2:57 |
-| 64 | [Hastings Street](https://open.spotify.com/track/3XHOgVSMfP2WsS08dFcC9O) | [Charlie Spand](https://open.spotify.com/artist/0lPwDM5AWseYSBCpie9yVP), [Blind Blake](https://open.spotify.com/artist/49KZvkEWchga5D1uhNo1yd) | [Got to Have My Sweetbread](https://open.spotify.com/album/5HSlwJlB6O7X22CgNdzo4q) | 3:15 |
+| 63 | [Hastings Street](https://open.spotify.com/track/3XHOgVSMfP2WsS08dFcC9O) | [Charlie Spand](https://open.spotify.com/artist/0lPwDM5AWseYSBCpie9yVP), [Blind Blake](https://open.spotify.com/artist/49KZvkEWchga5D1uhNo1yd) | [Got to Have My Sweetbread](https://open.spotify.com/album/5HSlwJlB6O7X22CgNdzo4q) | 3:15 |
+| 64 | [Boogie Woogie Country Girl](https://open.spotify.com/track/47XtoBgZySNJlrnuWQSWHM) | [Big Joe Turner](https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7) | [Atlantic Top 60: Doo Wop, Rock And Bobby Socks](https://open.spotify.com/album/5OF57Sz6H8vVvKcFbrXVua) | 2:57 |
 
-Snapshot ID: `MTY1MjQzODk0OCwwMDAwMDAwMDQ0ZTE3OGEyMjQ3YmQ3NTRlNzExYzMwOWY4MDM4N2Nh`
+Snapshot ID: `MTY1MjQzODk0OCwwMDAwMDAwMDRmYTU3NWU4ZTFjYjMxZDU1ZDI0MjQxZDcwNGQ3Y2E0`

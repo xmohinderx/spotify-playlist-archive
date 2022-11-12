@@ -1,12 +1,12 @@
 {
   "description": "Sometimes it's nice to be nice, you know.",
-  "num_followers": 155730,
+  "num_followers": 155752,
   "original_name": "The Lovely Little Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTQ5MjI3MCwwMDAwMDAwMDA5MmVhZTIyODQzMWQ4MDA1MjAxYmE4M2NhMWVlZDIw",
+  "snapshot_id": "MTY2NTQ5MjI3MCwwMDAwMDAwMDFkMzk0MTljZDk1Nzg5ZWM1YzU5OGFlMTdiY2YyNGYw",
   "tracks": [
     {
       "added_at": "2022-08-05 10:31:40",
@@ -115,22 +115,18 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "five seconds flat",
-        "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
+        "name": "Veneer",
+        "url": "https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl"
       },
       "artists": [
         {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        },
-        {
-          "name": "FINNEAS",
-          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
         }
       ],
-      "duration_ms": 156798,
-      "name": "hate to be lame",
-      "url": "https://open.spotify.com/track/26MJjeJ0NSOQDKeZzrEFMl"
+      "duration_ms": 161680,
+      "name": "Heartbeats",
+      "url": "https://open.spotify.com/track/5YqpHuXpFjDVZ7tY1ClFll"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -147,22 +143,6 @@
       "duration_ms": 245640,
       "name": "Always Like This",
       "url": "https://open.spotify.com/track/73M2Vb5MfZh8iGKudkMtlw"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
-        "name": "Veneer",
-        "url": "https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
-        }
-      ],
-      "duration_ms": 161680,
-      "name": "Heartbeats",
-      "url": "https://open.spotify.com/track/5YqpHuXpFjDVZ7tY1ClFll"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -199,22 +179,6 @@
       "duration_ms": 236711,
       "name": "Australia",
       "url": "https://open.spotify.com/track/47TQjzeG4KI0XWWb0wkbri"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
-        "name": "Alvvays",
-        "url": "https://open.spotify.com/album/4PrBMzWzzoMOwm55Bfo3dt"
-      },
-      "artists": [
-        {
-          "name": "Alvvays",
-          "url": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
-        }
-      ],
-      "duration_ms": 196560,
-      "name": "Archie, Marry Me",
-      "url": "https://open.spotify.com/track/5HLes17mwCwKt81mi0Tk35"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -279,22 +243,6 @@
       "duration_ms": 298760,
       "name": "Pretty Pimpin",
       "url": "https://open.spotify.com/track/47cNDW1xyM03mT2kseO41a"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
-        "name": "Solar Power",
-        "url": "https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J"
-      },
-      "artists": [
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 218659,
-      "name": "Secrets from a Girl (Who's Seen it All)",
-      "url": "https://open.spotify.com/track/1toRu029yjgrleWg2w3gNU"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -471,6 +419,22 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
+        "name": "No Burden",
+        "url": "https://open.spotify.com/album/7lQ9R31OcTvMn2MojAuKVE"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 163292,
+      "name": "I Don't Wanna Be Funny Anymore",
+      "url": "https://open.spotify.com/track/7fmqJC1yi3tyys0l72F9Ya"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
         "name": "Seventeen Going Under (Acoustic)",
         "url": "https://open.spotify.com/album/1fjmi1ythcL9bx9rhaGEYy"
       },
@@ -491,22 +455,6 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "No Burden",
-        "url": "https://open.spotify.com/album/7lQ9R31OcTvMn2MojAuKVE"
-      },
-      "artists": [
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 163292,
-      "name": "I Don't Wanna Be Funny Anymore",
-      "url": "https://open.spotify.com/track/7fmqJC1yi3tyys0l72F9Ya"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
         "name": "Once Twice Melody",
         "url": "https://open.spotify.com/album/79NySyjxJ8xric31mXKMAo"
       },
@@ -519,22 +467,6 @@
       "duration_ms": 284906,
       "name": "Once Twice Melody",
       "url": "https://open.spotify.com/track/057rZ21MDp8Ld0TgQndNcv"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
-        "name": "Jockeys of Love",
-        "url": "https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT"
-      },
-      "artists": [
-        {
-          "name": "TOLEDO",
-          "url": "https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO"
-        }
-      ],
-      "duration_ms": 256629,
-      "name": "Sunday Funday",
-      "url": "https://open.spotify.com/track/2OjZhG8BnvrsVWqGnZk4PO"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -555,6 +487,22 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
+        "name": "Jockeys of Love",
+        "url": "https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT"
+      },
+      "artists": [
+        {
+          "name": "TOLEDO",
+          "url": "https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO"
+        }
+      ],
+      "duration_ms": 256629,
+      "name": "Sunday Funday",
+      "url": "https://open.spotify.com/track/2OjZhG8BnvrsVWqGnZk4PO"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
         "name": "Mouthfuls",
         "url": "https://open.spotify.com/album/1Wx4ud28ypU7HAWuOHkmQ2"
       },
@@ -571,22 +519,6 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "In Mind",
-        "url": "https://open.spotify.com/album/7IQn4jT1WciC5O9DZrxeKv"
-      },
-      "artists": [
-        {
-          "name": "Real Estate",
-          "url": "https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT"
-        }
-      ],
-      "duration_ms": 260386,
-      "name": "Darling",
-      "url": "https://open.spotify.com/track/36PQh1G6h7n9VWB799fXpI"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
         "name": "Does It Make You Feel Good?",
         "url": "https://open.spotify.com/album/2mbIiYHX4NXOZAPJcAugNT"
       },
@@ -599,6 +531,22 @@
       "duration_ms": 260532,
       "name": "Comedown",
       "url": "https://open.spotify.com/track/7bFFH4Kfb7rwbDdDli0TAF"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
+        "name": "In Mind",
+        "url": "https://open.spotify.com/album/7IQn4jT1WciC5O9DZrxeKv"
+      },
+      "artists": [
+        {
+          "name": "Real Estate",
+          "url": "https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT"
+        }
+      ],
+      "duration_ms": 260386,
+      "name": "Darling",
+      "url": "https://open.spotify.com/track/36PQh1G6h7n9VWB799fXpI"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -687,18 +635,18 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "Hannah Montana",
-        "url": "https://open.spotify.com/album/1rcZE2CoDdOF8W0XUC4Yjp"
+        "name": "Somewhere In-Between",
+        "url": "https://open.spotify.com/album/2ZM9VkZ1rsJsKgwW1V99Ju"
       },
       "artists": [
         {
-          "name": "flowerovlove",
-          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
+          "name": "Eloise",
+          "url": "https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC"
         }
       ],
-      "duration_ms": 145324,
-      "name": "Hannah Montana",
-      "url": "https://open.spotify.com/track/00ko8Vr9Hbw0hJC9laqBOj"
+      "duration_ms": 161880,
+      "name": "Intertwined",
+      "url": "https://open.spotify.com/track/5fML9iqXgkXu7hUOYlE1aB"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -719,18 +667,18 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "Somewhere In-Between",
-        "url": "https://open.spotify.com/album/2ZM9VkZ1rsJsKgwW1V99Ju"
+        "name": "Hannah Montana",
+        "url": "https://open.spotify.com/album/1rcZE2CoDdOF8W0XUC4Yjp"
       },
       "artists": [
         {
-          "name": "Eloise",
-          "url": "https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC"
+          "name": "flowerovlove",
+          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
         }
       ],
-      "duration_ms": 161880,
-      "name": "Intertwined",
-      "url": "https://open.spotify.com/track/5fML9iqXgkXu7hUOYlE1aB"
+      "duration_ms": 145324,
+      "name": "Hannah Montana",
+      "url": "https://open.spotify.com/track/00ko8Vr9Hbw0hJC9laqBOj"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -831,6 +779,22 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/0GlqIYAIGeib66oR1pyy4F"
+      },
+      "artists": [
+        {
+          "name": "Half Moon Run",
+          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
+        }
+      ],
+      "duration_ms": 193240,
+      "name": "Call Me in the Afternoon",
+      "url": "https://open.spotify.com/track/2BzR2zRJIcFcMCIBKAD68U"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
         "name": "Song For Our Daughter",
         "url": "https://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu"
       },
@@ -859,22 +823,6 @@
       "duration_ms": 235093,
       "name": "Static",
       "url": "https://open.spotify.com/track/4dzJp4NxWFSWUFUhI0s72k"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/0GlqIYAIGeib66oR1pyy4F"
-      },
-      "artists": [
-        {
-          "name": "Half Moon Run",
-          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
-        }
-      ],
-      "duration_ms": 193240,
-      "name": "Call Me in the Afternoon",
-      "url": "https://open.spotify.com/track/2BzR2zRJIcFcMCIBKAD68U"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -1043,18 +991,18 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "This Is Really Going To Hurt",
-        "url": "https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0"
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/3I1oxH4FGfmlO6SSK31N7X"
       },
       "artists": [
         {
-          "name": "Flyte",
-          "url": "https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu"
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
         }
       ],
-      "duration_ms": 198266,
-      "name": "Losing You",
-      "url": "https://open.spotify.com/track/6tPrmeifTXshblYA7ahTUA"
+      "duration_ms": 166053,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/53Mq10qpih00CLPph20MVp"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -1071,22 +1019,6 @@
       "duration_ms": 192026,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/3LvJ7Dj8WsWu7RufNvbOYe"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/3I1oxH4FGfmlO6SSK31N7X"
-      },
-      "artists": [
-        {
-          "name": "Matilda Mann",
-          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
-        }
-      ],
-      "duration_ms": 166053,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/53Mq10qpih00CLPph20MVp"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -1139,6 +1071,22 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
+        "name": "Good Woman",
+        "url": "https://open.spotify.com/album/6b3CgvhvJFT6asCeHiOF3M"
+      },
+      "artists": [
+        {
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+        }
+      ],
+      "duration_ms": 197640,
+      "name": "Good Woman",
+      "url": "https://open.spotify.com/track/6hZ3wAZGh5yQcZMxDXnTL3"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
         "name": "quite early one morning",
         "url": "https://open.spotify.com/album/7COOYAhKymobmwEXFsRdLB"
       },
@@ -1167,22 +1115,6 @@
       "duration_ms": 198893,
       "name": "French Navy",
       "url": "https://open.spotify.com/track/7Mb0qE443GpOcgkmgS4lP1"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
-        "name": "Good Woman",
-        "url": "https://open.spotify.com/album/6b3CgvhvJFT6asCeHiOF3M"
-      },
-      "artists": [
-        {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
-        }
-      ],
-      "duration_ms": 197640,
-      "name": "Good Woman",
-      "url": "https://open.spotify.com/track/6hZ3wAZGh5yQcZMxDXnTL3"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -1219,22 +1151,6 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "My House",
-        "url": "https://open.spotify.com/album/7sSEGFxjJTaT1amaNYOmWD"
-      },
-      "artists": [
-        {
-          "name": "Declan McKenna",
-          "url": "https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c"
-        }
-      ],
-      "duration_ms": 256639,
-      "name": "My House",
-      "url": "https://open.spotify.com/track/5kuSneVOTmvanncpK3RZcl"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
         "name": "Morning Phase",
         "url": "https://open.spotify.com/album/2Qx7dgA5VjX8JDQaXVxzHu"
       },
@@ -1247,6 +1163,22 @@
       "duration_ms": 271106,
       "name": "Heart Is A Drum",
       "url": "https://open.spotify.com/track/573nT62vtbezncIwCfxIm7"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
+        "name": "My House",
+        "url": "https://open.spotify.com/album/7sSEGFxjJTaT1amaNYOmWD"
+      },
+      "artists": [
+        {
+          "name": "Declan McKenna",
+          "url": "https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c"
+        }
+      ],
+      "duration_ms": 256639,
+      "name": "My House",
+      "url": "https://open.spotify.com/track/5kuSneVOTmvanncpK3RZcl"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -1327,6 +1259,70 @@
       "duration_ms": 211826,
       "name": "Manta Rays",
       "url": "https://open.spotify.com/track/7oTi7GKtvXnwnaVFk6OkLU"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
+        "name": "Quiet Is The New Loud",
+        "url": "https://open.spotify.com/album/7MjceL6iPFM86qxxeWCVEz"
+      },
+      "artists": [
+        {
+          "name": "Kings of Convenience",
+          "url": "https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7"
+        }
+      ],
+      "duration_ms": 234626,
+      "name": "Winning A Battle, Losing The War",
+      "url": "https://open.spotify.com/track/654YXpi3jNYFjNoqhuYGxw"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
+        "name": "The Loved Ones",
+        "url": "https://open.spotify.com/album/2LaZxSt2InMpVEu7Wo4dng"
+      },
+      "artists": [
+        {
+          "name": "Flyte",
+          "url": "https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu"
+        }
+      ],
+      "duration_ms": 214387,
+      "name": "Victoria Falls",
+      "url": "https://open.spotify.com/track/6SZgDG2pMgk1iZXYT1ZGPI"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
+        "name": "All Fall Down",
+        "url": "https://open.spotify.com/album/0p6mdiaKAjYCS3uX4VL1rT"
+      },
+      "artists": [
+        {
+          "name": "Travis",
+          "url": "https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh"
+        }
+      ],
+      "duration_ms": 207533,
+      "name": "All Fall Down",
+      "url": "https://open.spotify.com/track/2vl3iQZmJZ2Ztz3USIUHCH"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
+        "name": "Her",
+        "url": "https://open.spotify.com/album/5SlWmYvt5uc2ga9MmkUxBH"
+      },
+      "artists": [
+        {
+          "name": "FUR",
+          "url": "https://open.spotify.com/artist/0e0z6v7dIm0XM7BgQTtB0a"
+        }
+      ],
+      "duration_ms": 231680,
+      "name": "Her",
+      "url": "https://open.spotify.com/track/3vOfOukwKoWE6AGRXscucS"
     }
   ],
   "unique_name": "The Lovely Little Playlist",

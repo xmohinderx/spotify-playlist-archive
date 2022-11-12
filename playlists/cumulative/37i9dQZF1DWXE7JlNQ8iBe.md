@@ -4,7 +4,7 @@
 
 > Carolina Ross le dedica un canto a La Catrina, para mantener nuestra tradición viva.
 
-48 songs - 3 hr 13 min - not published yet
+49 songs - 3 hr 18 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,8 @@
 | [En Toda La Chapa](https://open.spotify.com/track/0lQS5SFMbECLut107qQFc1) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [En Toda La Chapa](https://open.spotify.com/album/2erq5i5VDRtcuy9dZ94KcL) | 2:57 | 2022-10-28 |  |
 | [Espectro \(En Vivo Desde Cuba\)](https://open.spotify.com/track/46S0Ic3yTeYniFbB3Bh69Y) | [Rosalía León](https://open.spotify.com/artist/3CmpJ8AXGUzYIRPmFUbjyx), [Athanai](https://open.spotify.com/artist/7MIemSpbjGiDPJP0SSyF68), [Dayron Ortiz](https://open.spotify.com/artist/2bwwrFM6oWJ4sdKHFaYhKI) | [Espectro \(En Vivo Desde Cuba\)](https://open.spotify.com/album/5gACjsTLSACfENz4Ansroh) | 4:28 | 2022-10-28 |  |
 | [Funeral](https://open.spotify.com/track/2ZNYFHhkBoS4KHr5eXnQth) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Norma](https://open.spotify.com/album/5vwSqLLGqeCTyRVObYjkDq) | 4:28 | 2022-10-28 |  |
-| [Gracias A La Vida](https://open.spotify.com/track/0UKSse3fcKetDzXnXzE1Pv) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7) | [30 años](https://open.spotify.com/album/2mrWvCCYtZn2UyhMopvAoU) | 4:24 | 2022-10-28 |  |
+| [Gracias A La Vida](https://open.spotify.com/track/2rafEy8d80dJh7uUmk5r24) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7) | [Música Argentina](https://open.spotify.com/album/2PYXFKe2K01rtbLgV9XH85) | 4:23 | 2022-10-28 |  |
+| [Gracias A La Vida](https://open.spotify.com/track/0UKSse3fcKetDzXnXzE1Pv) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7) | [30 años](https://open.spotify.com/album/2mrWvCCYtZn2UyhMopvAoU) | 4:24 | 2022-10-28 | 2022-11-12 |
 | [La Calaca](https://open.spotify.com/track/7hmDplqSftS7uQMxsEY9BU) | [Amparo Ochoa](https://open.spotify.com/artist/0qk9IE3icvkYLRii8qAko8) | ["Por Siempre"](https://open.spotify.com/album/1H9VCendIQLE3QFcKDwQ5Q) | 5:10 | 2022-10-28 |  |
 | [La Calaca](https://open.spotify.com/track/1gwDC9eihTyON6HKr9O8NR) | [Calacas Jazz Band](https://open.spotify.com/artist/2ouD4oXicYc0AOFRjm2hIr) | [Nuevos Retros](https://open.spotify.com/album/2EWXBn0wNaSo8dS9sU7esL) | 2:23 | 2022-10-28 |  |
 | [La Catrina](https://open.spotify.com/track/4fh7bdYztWJwfx7FZZHkl2) | [Pedro Dabdoub](https://open.spotify.com/artist/5Rvj0WLMmzRd0vKFxKHkDN) | [Jazzpango: Escenas Mexicanas](https://open.spotify.com/album/6XD12VlYdaYgwz2pvTj0CD) | 3:58 | 2022-10-28 |  |

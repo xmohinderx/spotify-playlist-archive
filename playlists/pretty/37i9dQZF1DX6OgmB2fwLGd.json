@@ -1,12 +1,12 @@
 {
   "description": "The soundtrack to the internet. Featuring new music by Yung Gravy.",
-  "num_followers": 1262250,
+  "num_followers": 1262602,
   "original_name": "Internet People",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODAwNTE3NywwMDAwMDAwMDA3NzZlNGZiMzBmYjI1YzZhNGY4ZDg1OTQ1N2Q2ODA0",
+  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMDkwNGY2NjNmZmZkM2YzMDAyZWI1NmE1ZGE2NDczZDJk",
   "tracks": [
     {
       "added_at": "2022-08-12 18:54:23",
@@ -57,6 +57,22 @@
       "url": "https://open.spotify.com/track/4gKWtJGlhxKKSyV65llt2G"
     },
     {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Creme Brulee",
+        "url": "https://open.spotify.com/album/5zQXPoLBDFCFGN4IPu14VG"
+      },
+      "artists": [
+        {
+          "name": "Cochise",
+          "url": "https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx"
+        }
+      ],
+      "duration_ms": 112207,
+      "name": "Creme Brulee",
+      "url": "https://open.spotify.com/track/3jvrZ6mIhVEH4XMpmqSTRI"
+    },
+    {
       "added_at": "2022-10-28 04:00:00",
       "album": {
         "name": "Marvelous",
@@ -105,10 +121,10 @@
       "url": "https://open.spotify.com/track/22TFAU0e7WHAQFGzwneu1e"
     },
     {
-      "added_at": "2022-10-21 05:21:05",
+      "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Hell Yeah",
-        "url": "https://open.spotify.com/album/1xOSJRyVoXb7wlEJatx5Ow"
+        "name": "Pink Heartz",
+        "url": "https://open.spotify.com/album/1POWgdYTzfFt9rhKlXFwsU"
       },
       "artists": [
         {
@@ -116,13 +132,13 @@
           "url": "https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby"
         },
         {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
         }
       ],
-      "duration_ms": 168160,
-      "name": "Hell Yeah",
-      "url": "https://open.spotify.com/track/0jQ4mEnWB1AuSVqnFLhxT6"
+      "duration_ms": 213704,
+      "name": "Stay Awake",
+      "url": "https://open.spotify.com/track/5k9kxCcae70vUElndjveXT"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -283,6 +299,22 @@
       "duration_ms": 154800,
       "name": "SIMPLE",
       "url": "https://open.spotify.com/track/43KrLcrVbDBimYtjKswIL3"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Fall Dragon",
+        "url": "https://open.spotify.com/album/2xg986MAj2eacfdcKzTsRQ"
+      },
+      "artists": [
+        {
+          "name": "Overpade",
+          "url": "https://open.spotify.com/artist/03hSZAtyBlgYcfb02Nhh6q"
+        }
+      ],
+      "duration_ms": 113044,
+      "name": "Fall Dragon",
+      "url": "https://open.spotify.com/track/0xoyOumQBDZC41QdURfglb"
     },
     {
       "added_at": "2022-06-17 17:10:01",
@@ -505,6 +537,42 @@
       "url": "https://open.spotify.com/track/1jOgJN75btuUONIdf57vHz"
     },
     {
+      "added_at": "2022-10-21 05:21:05",
+      "album": {
+        "name": "Hell Yeah",
+        "url": "https://open.spotify.com/album/1xOSJRyVoXb7wlEJatx5Ow"
+      },
+      "artists": [
+        {
+          "name": "SoFaygo",
+          "url": "https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby"
+        },
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 168160,
+      "name": "Hell Yeah",
+      "url": "https://open.spotify.com/track/0jQ4mEnWB1AuSVqnFLhxT6"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "BABYBOY",
+        "url": "https://open.spotify.com/album/24x0SeAnpIRPEsKK3IuV9E"
+      },
+      "artists": [
+        {
+          "name": "Cybertrash",
+          "url": "https://open.spotify.com/artist/6qKNO74t6cNcytBKSunEcW"
+        }
+      ],
+      "duration_ms": 121600,
+      "name": "BABYBOY",
+      "url": "https://open.spotify.com/track/0f4iY83d7HGIljumcbKb8H"
+    },
+    {
       "added_at": "2022-09-12 19:59:46",
       "album": {
         "name": "Baby Shark",
@@ -637,24 +705,20 @@
       "url": "https://open.spotify.com/track/58k32my5lKofeZRtIvBDg9"
     },
     {
-      "added_at": "2022-10-14 05:22:00",
+      "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Suicide",
-        "url": "https://open.spotify.com/album/4rx5wKkcvknXEV7IZzNhUs"
+        "name": "Humans Being Humans",
+        "url": "https://open.spotify.com/album/2st8Kbp56wmwC5Z2MLo5R3"
       },
       "artists": [
         {
-          "name": "DC The Don",
-          "url": "https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk"
-        },
-        {
-          "name": "midwxst",
-          "url": "https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8"
+          "name": "IVOXYGEN",
+          "url": "https://open.spotify.com/artist/6K9KevAu0cpln7xOsM3Wkm"
         }
       ],
-      "duration_ms": 224937,
-      "name": "Suicide",
-      "url": "https://open.spotify.com/track/3WYuIKvTLWbv8IwFNakmo5"
+      "duration_ms": 131057,
+      "name": "Humans Being Humans",
+      "url": "https://open.spotify.com/track/4UEKSWhyeuqaeDM1BXeypE"
     },
     {
       "added_at": "2022-10-07 07:48:00",
@@ -923,8 +987,8 @@
     {
       "added_at": "2022-09-07 15:41:42",
       "album": {
-        "name": "Back End",
-        "url": "https://open.spotify.com/album/40dnVvzZfYX0330N1VqN89"
+        "name": "Humble",
+        "url": "https://open.spotify.com/album/1HQxQwZS6Le2ndJTl9UAsF"
       },
       "artists": [
         {
@@ -934,7 +998,7 @@
       ],
       "duration_ms": 165478,
       "name": "Back End",
-      "url": "https://open.spotify.com/track/1QrL8zd8MIrCiOPuj02dxC"
+      "url": "https://open.spotify.com/track/1pBOkbXPSz6FdfE5545VoA"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -971,22 +1035,6 @@
       "duration_ms": 151776,
       "name": "Dah Dah DahDah",
       "url": "https://open.spotify.com/track/2TSfStvlAMLw89u3tali79"
-    },
-    {
-      "added_at": "2022-09-30 05:34:00",
-      "album": {
-        "name": "RUFFS",
-        "url": "https://open.spotify.com/album/6pChEm0qiDT32ZHfNwVwqh"
-      },
-      "artists": [
-        {
-          "name": "Kenny Mason",
-          "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv"
-        }
-      ],
-      "duration_ms": 166706,
-      "name": "MINUTE FOREVER",
-      "url": "https://open.spotify.com/track/2TTowxYr4R1mapPbdZban7"
     },
     {
       "added_at": "2022-06-24 05:22:00",
@@ -1119,22 +1167,6 @@
       "duration_ms": 160829,
       "name": "LIVID",
       "url": "https://open.spotify.com/track/23q6bVeIuECLcUeYkwgbRZ"
-    },
-    {
-      "added_at": "2022-10-07 07:48:00",
-      "album": {
-        "name": "ALL NIGHT LONG",
-        "url": "https://open.spotify.com/album/57Ns6doMMJBlNjy1nnYy4e"
-      },
-      "artists": [
-        {
-          "name": "Lancey Foux",
-          "url": "https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11"
-        }
-      ],
-      "duration_ms": 129573,
-      "name": "ALL NIGHT LONG",
-      "url": "https://open.spotify.com/track/2CHVJkpUoIgz5vt8uX53gG"
     },
     {
       "added_at": "2022-06-17 17:10:01",
@@ -1549,22 +1581,6 @@
       "url": "https://open.spotify.com/track/3GbQcjKWT7eVpUfzqwUjxv"
     },
     {
-      "added_at": "2022-07-15 04:01:00",
-      "album": {
-        "name": "Cap Freestyle",
-        "url": "https://open.spotify.com/album/6fMr0JDjgzEubioAdQlVhe"
-      },
-      "artists": [
-        {
-          "name": "Lil Man J",
-          "url": "https://open.spotify.com/artist/5zfsO7xEsAQylcNrIdKm9H"
-        }
-      ],
-      "duration_ms": 152748,
-      "name": "Cap Freestyle",
-      "url": "https://open.spotify.com/track/7vJDoWPSNTXu5v8H5siOin"
-    },
-    {
       "added_at": "2022-09-16 04:00:00",
       "album": {
         "name": "Impostor Syndrome",
@@ -1715,26 +1731,6 @@
       "duration_ms": 103401,
       "name": "Bag",
       "url": "https://open.spotify.com/track/0CyqjmmaRh3TL3ebR7vLhc"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Prettiest Problem",
-        "url": "https://open.spotify.com/album/1B2TwkqjAO0CBknczIjuRk"
-      },
-      "artists": [
-        {
-          "name": "Asian Doll",
-          "url": "https://open.spotify.com/artist/4guK7U9J36z76E1tWecJ0J"
-        },
-        {
-          "name": "DAMU UP",
-          "url": "https://open.spotify.com/artist/6llShcWedgxXoOR1dpsXD1"
-        }
-      ],
-      "duration_ms": 137090,
-      "name": "Prettiest Problem",
-      "url": "https://open.spotify.com/track/4xJGDw3NuNpfzIluJjAoye"
     },
     {
       "added_at": "2022-07-19 15:46:29",

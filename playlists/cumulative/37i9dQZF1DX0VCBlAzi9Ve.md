@@ -4,15 +4,17 @@
 
 > Let it simmer with some smooth R&amp;B.
 
-45 songs - 3 hr 18 min - [published](https://open.spotify.com/playlist/2DkFZ3ifqowOjtkTcUTEzD)
+47 songs - 3 hr 27 min - [published](https://open.spotify.com/playlist/2DkFZ3ifqowOjtkTcUTEzD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Cheyenne](https://open.spotify.com/track/3EofjRgUI1WrzqqtLb8NoF) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Everything Is 4](https://open.spotify.com/album/59eUYETmE1zi31ESb3SUkI) | 3:35 | 2015-07-25 |  |
+| [Cheyenne](https://open.spotify.com/track/3EofjRgUI1WrzqqtLb8NoF) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Everything Is 4](https://open.spotify.com/album/59eUYETmE1zi31ESb3SUkI) | 3:35 | 2015-07-25 | 2022-11-12 |
 | [Cheyenne](https://open.spotify.com/track/6nZqNGBqtyulnTY4wULhuo) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Cheyenne](https://open.spotify.com/album/6WaHxmvk6V6ePqcM8hCXqT) | 3:35 | 2015-07-25 | 2022-07-29 |
+| [Cheyenne](https://open.spotify.com/track/4NF7YbEReuoUt0qv870ahg) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Walking Hits](https://open.spotify.com/album/4KIzmUDsSxeEoGjbbICiG4) | 3:35 | 2015-07-25 |  |
 | [D.A.N.C.E \- Radio Edit](https://open.spotify.com/track/3gcmn2CtOE9SjBevmvGVEk) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [D.A.N.C.E](https://open.spotify.com/album/6cg0y0EJpRzfVbKGCgVMf7) | 3:31 | 2015-07-25 |  |
 | [D.A.N.C.E.](https://open.spotify.com/track/2hQCzcb3qyZirWzOD5Yzoj) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [Cross](https://open.spotify.com/album/3CWD6k4rJIG72OXkSk98tf) | 3:29 | 2015-07-25 | 2022-07-29 |
-| [Daffodils \(feat\. Kevin Parker\)](https://open.spotify.com/track/1v0ufp7FLTFcykUGOmFZKa) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Kevin Parker](https://open.spotify.com/artist/2Lt4GKzyW3WOMf3wvPDszQ) | [Uptown Special](https://open.spotify.com/album/3vLaOYCNCzngDf8QdBg2V1) | 4:58 | 2015-07-25 |  |
+| [Daffodils \(feat\. Kevin Parker\)](https://open.spotify.com/track/0tswbyRzSiGMraKM5v3KLy) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Kevin Parker](https://open.spotify.com/artist/2Lt4GKzyW3WOMf3wvPDszQ) | [Uptown Special](https://open.spotify.com/album/4QcNaJyKfOQr7RhahLJn3D) | 4:58 | 2015-07-25 |  |
+| [Daffodils \(feat\. Kevin Parker\)](https://open.spotify.com/track/1v0ufp7FLTFcykUGOmFZKa) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Kevin Parker](https://open.spotify.com/artist/2Lt4GKzyW3WOMf3wvPDszQ) | [Uptown Special](https://open.spotify.com/album/3vLaOYCNCzngDf8QdBg2V1) | 4:58 | 2015-07-25 | 2022-11-12 |
 | [Daffodils \(feat\. Kevin Parker\)](https://open.spotify.com/track/46moTNsGydR2SEgHZuRe8R) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Kevin Parker](https://open.spotify.com/artist/2Lt4GKzyW3WOMf3wvPDszQ) | [Daffodils \(feat\. Kevin Parker\)](https://open.spotify.com/album/2PkbbTjqRtVSY8bBRWBXGY) | 4:58 | 2015-07-25 | 2022-07-29 |
 | [Do What You Like](https://open.spotify.com/track/1Tv1NuaM2jnCrGUE1cVaG6) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Do What You Like](https://open.spotify.com/album/04zgNiSQl0PiOG85BNHwFP) | 3:20 | 2015-07-25 | 2022-10-14 |
 | [Do What You Like](https://open.spotify.com/track/7rvGF77zKLQ6Z8AxBiWhnt) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Do What You Like](https://open.spotify.com/album/1JJDtUAw0hbuaq6mo4N4zy) | 3:20 | 2015-07-25 |  |

@@ -4,7 +4,7 @@
 
 > Instrumentals from the North Indian school of music.
 
-56 songs - 15 hr 3 min - [published](https://open.spotify.com/playlist/6Y859xNo4TJoGUZatAOuWq)
+57 songs - 15 hr 8 min - [published](https://open.spotify.com/playlist/6Y859xNo4TJoGUZatAOuWq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Raga Bhimpalasi \- Gat in Rupak Tala](https://open.spotify.com/track/4q5mY8KfJJNhJMIHzrPQd2) | [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg), [Aditya Kalyanpur](https://open.spotify.com/artist/0dtEnezEiqvUrVCYxoniSZ) | [Melodies at Dusk](https://open.spotify.com/album/4w3dYv2g2MWQxNjaHXs69S) | 13:54 | 2021-12-07 |  |
 | [Raga Bhimpalasi \- Live](https://open.spotify.com/track/2NAJP1wqoaxbSJLiv2X8tL) | [Ravi Shankar](https://open.spotify.com/artist/4uE9TgBW0AaPDHL1qYbtd0) | [The Ravi Shankar Collection: Live: Ravi Shankar At The Monterey International Pop Festival](https://open.spotify.com/album/3sXkygk2kpWlNAA2neCvW0) | 27:17 | 2021-12-07 |  |
 | [Raga Bhinna Kauns \- Alap](https://open.spotify.com/track/3uKf2XtbIOvwKAj0QF9xoK) | [Shivkumar Sharma](https://open.spotify.com/artist/3ehCEIDusX13qf207bFKGS) | [Rare Masterpiece \- Raga Bhinna Kauns](https://open.spotify.com/album/04PWTDjCdiePmllR2VEXEn) | 9:48 | 2021-12-07 |  |
+| [Raga Bhupali \- Teentaal](https://open.spotify.com/track/1rnN4Sw2lrDrohbbX7KNPP) | [Ulhas Bapat](https://open.spotify.com/artist/1z32zRkxwsdSPdH94j7eF9), [Aneesh Pradhan](https://open.spotify.com/artist/6W68ewYGmJgtVekZFZeBvt) | [Colours of Romance \- Raga Bhupali](https://open.spotify.com/album/5PH0PXYBR6fQI41JFXqFVB) | 4:50 | 2022-11-11 |  |
 | [Raga Chandranandan \- Alap, Jor](https://open.spotify.com/track/3a9XtNboaANi0w3fZGhnKK) | [Rajeev Taranath](https://open.spotify.com/artist/14Bg6ooADk8tSstCJfnJc6) | [Over the Moon](https://open.spotify.com/album/1mmiBzkLYgjoyX8O9U8moV) | 22:11 | 2021-12-07 |  |
 | [Raga Darbari \- Drut Gat \- Teentaal \- Instrumental](https://open.spotify.com/track/6XX6lVVxCdyFkwwiPUl72b) | [Amjad Ali Khan](https://open.spotify.com/artist/1IsvL603uF5ieIXYApKcnr), [Sabri Khan](https://open.spotify.com/artist/4jJPc9HPkYDNJxvloWDTqx) | [Celebrating the Legend \- Amjad Ali Khan](https://open.spotify.com/album/7x2PlNq4pjCvCtD3Q78yIL) | 9:34 | 2021-12-07 |  |
 | [Raga Gauti](https://open.spotify.com/track/3ZH2BZZ4x3vt3gSz7w96tZ) | [Vilayat Khan](https://open.spotify.com/artist/4Gypy00T57lgC7yWaGhNmS) | [Maestro's Choice \- Vilayet Khan](https://open.spotify.com/album/4i83PHlwgynhFALhCfWeef) | 10:55 | 2021-12-07 |  |

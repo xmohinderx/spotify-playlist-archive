@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 
 > New takes on old classics!
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,499 likes - 348 songs - 15 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,678 likes - 348 songs - 15 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -226,7 +226,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 | 216 | [Astronaut In The Ocean](https://open.spotify.com/track/1xOgDZRSKEHZXAdVkT0GJE) | [Crystal Rock](https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e), [Felix Schorn](https://open.spotify.com/artist/5Y3LAQBJps65m6FDjYimC4), [NOTSOBAD](https://open.spotify.com/artist/2aLLYZ0sdqweMEPFUyYIXJ), [Citycreed](https://open.spotify.com/artist/1t6HSm0c9XHmo2uM37JPCc) | [Astronaut In The Ocean](https://open.spotify.com/album/6AR7qwFFcW7UIAvunTIgMg) | 2:13 |
 | 217 | [123 \(Dolly Song\) feat\. Karma Child](https://open.spotify.com/track/3GTyqpv12KmARyhilpvKHA) | [Rompasso](https://open.spotify.com/artist/7dJzxVffEZI5MuHOJiQB5A), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [Karma Child](https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7) | [123 \(Dolly Song\) \(feat\. Karma Child\)](https://open.spotify.com/album/7nKQ40N96dRpJxIm9bEMEp) | 2:21 |
 | 218 | [California Dreaming](https://open.spotify.com/track/1DZvsj6dfrD8aNkYEgFZ5R) | [Besomorph](https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko), [Besomage](https://open.spotify.com/artist/4ivfOZMa6lNjfcfpubOg6q), [Lunis](https://open.spotify.com/artist/1YjaVTeHBlVRRxbk7H30HN), [BRAN](https://open.spotify.com/artist/44CMqAkutKvmCaE2OxyCbd) | [California Dreaming](https://open.spotify.com/album/6BhCiPdND2Xf80HnksrJOR) | 2:13 |
-| 219 | [Just Dance](https://open.spotify.com/track/1T1P4aZxStasNK76EfyZcF) | [Wasback](https://open.spotify.com/artist/3rmYE7edorDWoKVPGk9iLZ) | [Just Dance](https://open.spotify.com/album/7948ooBqNGWktPJnH7f9iX) | 1:54 |
+| 219 | [Just Dance](https://open.spotify.com/track/3f4vOr8YHwPpzzfteITYOz) | [Wasback](https://open.spotify.com/artist/3rmYE7edorDWoKVPGk9iLZ) | [Ibiza 2022](https://open.spotify.com/album/5fMeAtQitXwgs2TTO0dWq5) | 1:54 |
 | 220 | [Friday Night \(It's Not Right\)](https://open.spotify.com/track/4xuoZzmW07K2zCl8bGzOen) | [Bruno Be](https://open.spotify.com/artist/37UXlMGND0Tr7Su43RxHQ0), [Kiko Franco](https://open.spotify.com/artist/3SNKZ8uTQoSyMsUNqNBOD2) | [Friday Night \(It's Not Right\)](https://open.spotify.com/album/3YaYGppuypevDu41rrfttH) | 2:49 |
 | 221 | [I'm Outta Love](https://open.spotify.com/track/7sUsPuCjzjyoNrCtWeIVFB) | [Twelve](https://open.spotify.com/artist/5WwVhFK3J7CWQn30hZ8GPb) | [I'm Outta Love](https://open.spotify.com/album/2mYCZ5X8h5eOOA77qhkh0u) | 2:41 |
 | 222 | [Funky Town](https://open.spotify.com/track/4A7aOnpjE4yytIbXTg6BxT) | [MATTN](https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio), [Maurice West](https://open.spotify.com/artist/1qF8DC6uIBjskqP0hyw1Gk) | [Funky Town](https://open.spotify.com/album/6oiwGJoWZv4EX7wknq8MyA) | 2:48 |
@@ -357,4 +357,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 | 347 | [Never Gonna Give You Up](https://open.spotify.com/track/4dJYjR2lM6SmYfLw2mnHvb) | [RadioClub](https://open.spotify.com/artist/55VEENeFJiaUCpKJQkHarb) | [Never Gonna Give You Up](https://open.spotify.com/album/5OFnJusx08l3GHN4Y9VgGj) | 2:45 |
 | 348 | [Gimme Gimme Gimme \(a man after midnight\)](https://open.spotify.com/track/0Tp3sIeg6YsqDbRyjYWNUu) | [Syzz](https://open.spotify.com/artist/5qQTwkRWNaZngwkU1CPmYJ) | [Gimme Gimme Gimme \(a man after midnight\)](https://open.spotify.com/album/11ZI2tdT8PX0k93wK434Jb) | 2:32 |
 
-Snapshot ID: `MTY2NjkwODAwMCwwMDAwMDAwMGM4OWJiNGQ5ODI5NzU5Y2U1NTM1ODFiOTU5N2E3NTU5`
+Snapshot ID: `MTY2NjkwODAwMCwwMDAwMDAwMDFmMWJkOGJjYjFlZjE4YTYxNDMyMmU2MTQ2OWYwYTM1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrhFFq3bnGV.md) - [plain]
 
 > Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Joey Alexander
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,905 likes - 76 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,917 likes - 76 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,11 +78,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrhFFq3bnGV.md) - [plain]
 | 68 | [Late Motion](https://open.spotify.com/track/6i0NdwSm1upF6v8Sd89jIO) | [Rhesa Siregar](https://open.spotify.com/artist/3QhzGBK0sLrqAnHMOI2YVS) | [Late Motion](https://open.spotify.com/album/3objZ0Q20F9f5R42HfB1B3) | 2:34 |
 | 69 | [Feeling](https://open.spotify.com/track/0lKHpAK3ybZxuX7K5KuOnm) | [Adrian Setiawan](https://open.spotify.com/artist/39XX7BNu95xOOxusr1BzFn), [Diona Dewiriana](https://open.spotify.com/artist/5TCbrPG4VAeoypYoHsLsAf) | [Feeling](https://open.spotify.com/album/6utFX9YFFC48mhZrlUcK9i) | 3:52 |
 | 70 | [Selangkah Lagi](https://open.spotify.com/track/044pFmYIZBYKUWNVbhQJ8e) | [Abdul & The Coffee Theory](https://open.spotify.com/artist/7rTRICDeckWVatQYWZM93J) | [Old Fashioned Way](https://open.spotify.com/album/0z8ipHoQLEcx1nTUAJitTh) | 2:57 |
-| 71 | [Ah Pusing!](https://open.spotify.com/track/0BMHVxay9JQa4Retru9Jau) | [Orkes Kedai Sarinah](https://open.spotify.com/artist/1yoNr5aPC0EEcQfyTcCGcZ) | [Ah Pusing!](https://open.spotify.com/album/7p3GoqgdlYtTxIiUWFyoBt) | 3:12 |
+| 71 | [Ah Pusing!](https://open.spotify.com/track/4Cx5uUfWwjl8kJ0ffFCQih) | [Orkes Kedai Sarinah](https://open.spotify.com/artist/1yoNr5aPC0EEcQfyTcCGcZ) | [Mari Bahagia](https://open.spotify.com/album/7FJlmFABalYgok0ws9aEyS) | 3:12 |
 | 72 | [bitterlove](https://open.spotify.com/track/74OLXYsvpfmSgPCMMi898K) | [Ardhito Pramono](https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd) | [bitterlove](https://open.spotify.com/album/5pSxeG2bdlj3MYdBVRBexK) | 3:36 |
 | 73 | [Afterthought](https://open.spotify.com/track/3cXwYQyvPCwNoWPDisoBOy) | [Anastasya Poetri](https://open.spotify.com/artist/6e2MbJs1OWfSbaCCkJybNt) | [Afterthought](https://open.spotify.com/album/44mPYEF7jEnGsvsA0TFceA) | 3:44 |
 | 74 | [Would You Be Mine](https://open.spotify.com/track/7pJBJRbkvwHvrsNwss0Z8I) | [Kevin Yosua](https://open.spotify.com/artist/1uLcc17o9i3d6maIgWD1g8), [Sri Hanuraga](https://open.spotify.com/artist/6oBbSq1WI51saPC5Vys7z2), [Elfa Zulham](https://open.spotify.com/artist/48uVjt6LfI2I0yI8QLXG0H), [Alex Sipiagin](https://open.spotify.com/artist/7q46e1hkWTUN1IWHzYb40p) | [Would You Be Mine](https://open.spotify.com/album/7rEKGX1ZcmvYBfrd1ghw8t) | 7:49 |
 | 75 | [Melawan Takdir](https://open.spotify.com/track/5NT81HlBEmoi8IEhL5jV8m) | [Hezky Jo](https://open.spotify.com/artist/4xJoIawErbqny2Yj6X6xdy), [Azizah Hanum](https://open.spotify.com/artist/5mEePWMgxiwAULqU0nrQig) | [Melawan Takdir](https://open.spotify.com/album/32Rr9t1JgFxjFAXLXY1vmQ) | 3:09 |
 | 76 | [Piccadilly](https://open.spotify.com/track/4an0lMBXVVuvjp62nNiAJT) | [Dua Empat](https://open.spotify.com/artist/5dPAU1hj01l7evl47KdU9L), [Marini Nainggolan](https://open.spotify.com/artist/68CRp4uznB4jlgbcNEqbTp) | [Two of a Kind](https://open.spotify.com/album/5Wv1AZE2RhdRLhKmrL1jtm) | 4:36 |
 
-Snapshot ID: `MTY2Mzg2NjAwMCwwMDAwMDAwMDJkN2ZjODI2MWExNmNmZWY4ZDkxYjFhM2FlYmQ0MGJl`
+Snapshot ID: `MTY2Mzg2NjAwMCwwMDAwMDAwMGIxYTUxNGM4ZGVlOTc1NmIyYTAyODhlN2NjYTA2ZGZh`

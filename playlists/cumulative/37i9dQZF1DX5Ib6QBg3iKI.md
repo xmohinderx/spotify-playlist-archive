@@ -4,7 +4,7 @@
 
 > Get cozy and relax to these laid\-back festive sounds.
 
-124 songs - 6 hr 47 min - [published](https://open.spotify.com/playlist/3fipqYb0w1LRACIkepntXi)
+126 songs - 6 hr 52 min - [published](https://open.spotify.com/playlist/3fipqYb0w1LRACIkepntXi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,13 +91,15 @@
 | [One I've Been Missing](https://open.spotify.com/track/4VpnrB9Lai2uHsRbh5C8Ft) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [One I've Been Missing](https://open.spotify.com/album/2s0uYI8G5VpBHYaXHQaXJg) | 3:12 | 2021-12-17 | 2022-07-29 |
 | [One I've Been Missing](https://open.spotify.com/track/632gXr9GJAsy7UBd7Dg7G4) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Confetti \(Expanded Edition\)](https://open.spotify.com/album/0KDISpxSUWynoaqwEaEeX8) | 3:12 | 2021-12-17 |  |
 | [Please Come Home for Christmas \- 2013 Remaster](https://open.spotify.com/track/3QIoEi8Enr9uHffwInGIsC) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Please Come Home for Christmas / Funky New Year \(2013 Remaster\)](https://open.spotify.com/album/4QxtDUU3U7gCCyT9Lm3bg5) | 2:57 | 2021-12-17 |  |
-| [Rockin' Around The Christmas Tree](https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [Merry Christmas From Brenda Lee](https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG) | 2:06 | 2021-12-17 |  |
+| [Rockin' Around The Christmas Tree](https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [Merry Christmas From Brenda Lee](https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG) | 2:06 | 2021-12-17 | 2022-11-12 |
+| [Rockin' Around the Christmas Tree \- Re\-Recorded Version](https://open.spotify.com/track/0MSZvONijKwL4NWF8n6pE6) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [It's Beginning to Look a Lot Like Christmas](https://open.spotify.com/album/0TfqrsPnjt2xgFT7nrGy5I) | 2:06 | 2022-10-28 |  |
 | [Rockin' Around The Christmas Tree \- Single Version](https://open.spotify.com/track/3T7dNA7O8c3Axj5WyDNcH3) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [Anthology 1956\-1980 \(Volume 1 & 2\)](https://open.spotify.com/album/2opZywEcmZAJuOsyZZlkTg) | 2:05 | 2021-12-17 | 2022-07-29 |
 | [Santa Baby](https://open.spotify.com/track/7I3jUFxgrCl5rhEYr2zL2D) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [Santa Baby](https://open.spotify.com/album/2yBWp44UvtVrpVU2cWw4L8) | 3:37 | 2021-12-17 |  |
 | [Santa Claus Is Coming To Town](https://open.spotify.com/track/2NflLzkIdUSA5JBKJLM2LB) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [Santa Claus Is Coming To Town](https://open.spotify.com/album/0icxIA0bdzvJdPWM3lyKte) | 2:16 | 2021-12-17 | 2022-07-29 |
 | [Santa Claus Is Coming To Town](https://open.spotify.com/track/3izBQhKOGofHcyILP6iTPs) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [Santa Claus Is Coming To Town](https://open.spotify.com/album/5O82nLMtVVvv6Es9dhNChD) | 2:16 | 2021-12-17 | 2022-11-11 |
 | [Santa Claus Is Coming To Town](https://open.spotify.com/track/6MdsV9aBvKaH14iMBEw0ex) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [Jazz till julfesten](https://open.spotify.com/album/7lZSp6Jt2GUlZMgUCBRUlw) | 2:16 | 2022-10-28 |  |
-| [Santa Tell Me](https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Santa Tell Me](https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97) | 3:24 | 2021-12-17 |  |
+| [Santa Tell Me](https://open.spotify.com/track/0un8vLp0hSudAJNLjImTEE) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [ŚWIĘTA, ŚWIĘTA](https://open.spotify.com/album/2Z0Yk8D7w4nj9thNNZSwub) | 3:23 | 2022-10-28 |  |
+| [Santa Tell Me](https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Santa Tell Me](https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97) | 3:24 | 2021-12-17 | 2022-11-12 |
 | [Santa Tell Me](https://open.spotify.com/track/1ADjWm8QNhgNV8yCNNgQ1T) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Santa Tell Me](https://open.spotify.com/album/2Y42QS2bGi5NokHzjticau) | 3:24 | 2021-12-17 | 2022-07-29 |
 | [Sleigh Ride](https://open.spotify.com/track/2YPBrjg19YfQnCV4iXB8SK) | [Carpenters](https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304) | [Christmas Collection](https://open.spotify.com/album/29ieKZH9kc05zhX92QivPi) | 2:38 | 2021-12-17 | 2022-07-29 |
 | [Sleigh Ride](https://open.spotify.com/track/07RmHXaYqBdUyfAESPZkRO) | [Carpenters](https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304) | [Christmas Portrait \(Special Edition/Reissue\)](https://open.spotify.com/album/5GMAtv4CU6GYQMo36Uuiqc) | 2:39 | 2021-12-17 | 2022-11-11 |

@@ -355,7 +355,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 120000,
       "name": "AVOID ME 3",
       "url": "https://open.spotify.com/track/7dXyRgDZlQnA5OU1SPD1oe"
@@ -917,7 +917,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 117480,
       "name": "Crazy Phonk - Remix - Slowed",
       "url": "https://open.spotify.com/track/6DOKigFVtRVWdOsRyGa0v8"
@@ -1729,7 +1729,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 120000,
       "name": "DYNAMIC",
       "url": "https://open.spotify.com/track/3qVSfd3Z2fmJKfHZeOweyQ"
@@ -2077,7 +2077,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 143709,
       "name": "Flare",
       "url": "https://open.spotify.com/track/6QeeRsxS1wfIIThMPYOnIK"
@@ -2733,7 +2733,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 160000,
       "name": "Hot Wheels",
       "url": "https://open.spotify.com/track/48CEuCTGBn3ynSGVx2hmEz"
@@ -3893,10 +3893,28 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 133548,
       "name": "MISS ME?",
       "url": "https://open.spotify.com/track/6b2wKkUUBCzHpbxxtJcl2w"
+    },
+    {
+      "album": {
+        "name": "Moment",
+        "url": "https://open.spotify.com/album/0EeN9DAkiJa5YmMFOmfdWB"
+      },
+      "artists": [
+        {
+          "name": "Hensonn",
+          "url": "https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109552,
+      "name": "Moment",
+      "url": "https://open.spotify.com/track/1zFuZul9pNIgbNCzhQxG8U"
     },
     {
       "album": {
@@ -4063,6 +4081,28 @@
       "duration_ms": 142045,
       "name": "never enough",
       "url": "https://open.spotify.com/track/48jRCynldeK3WQbvd3jr73"
+    },
+    {
+      "album": {
+        "name": "NEW ERA",
+        "url": "https://open.spotify.com/album/4WGwYGhoVWhbT4Ey5nHkDY"
+      },
+      "artists": [
+        {
+          "name": "HIDEOUS MORBID",
+          "url": "https://open.spotify.com/artist/7G5D01HWj1IELY5nfLQrw6"
+        },
+        {
+          "name": "Skorde",
+          "url": "https://open.spotify.com/artist/3voCipmmrW5uF4EMA6aSbj"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154838,
+      "name": "NEW ERA",
+      "url": "https://open.spotify.com/track/1IjGb3x3n6mzEllLf1qLsT"
     },
     {
       "album": {
@@ -5170,6 +5210,42 @@
     },
     {
       "album": {
+        "name": "Scopin",
+        "url": "https://open.spotify.com/album/6mjnYcgnUPMXZpadY3ctr1"
+      },
+      "artists": [
+        {
+          "name": "Kordhell",
+          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101632,
+      "name": "Scopin",
+      "url": "https://open.spotify.com/track/7KmbiagSkUbepU88x7NWjb"
+    },
+    {
+      "album": {
+        "name": "Scrapyard",
+        "url": "https://open.spotify.com/album/2rR3ic7R3y7rNfqlkeFHkg"
+      },
+      "artists": [
+        {
+          "name": "KSLV Noh",
+          "url": "https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127309,
+      "name": "Scrapyard",
+      "url": "https://open.spotify.com/track/4uvPRByRYtH1AjhhqG6emD"
+    },
+    {
+      "album": {
         "name": "seaside",
         "url": "https://open.spotify.com/album/385VMmkSq2CVCIOTCtTdts"
       },
@@ -5247,6 +5323,24 @@
       "duration_ms": 162041,
       "name": "SHADOW",
       "url": "https://open.spotify.com/track/0wGbyS1tExQSwOYu6UceyE"
+    },
+    {
+      "album": {
+        "name": "SHE IS HYPERACTIVE",
+        "url": "https://open.spotify.com/album/68xuQrNQIlzH0vgMDjYjNH"
+      },
+      "artists": [
+        {
+          "name": "DVRST",
+          "url": "https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137931,
+      "name": "SHE IS HYPERACTIVE",
+      "url": "https://open.spotify.com/track/4cx8mRVCvqGM5XiktQedCJ"
     },
     {
       "album": {
@@ -5388,6 +5482,24 @@
     },
     {
       "album": {
+        "name": "Smoke N Drift (Phonk Version)",
+        "url": "https://open.spotify.com/album/5Wdv4QxrMczOj6qbGHQ1Wn"
+      },
+      "artists": [
+        {
+          "name": "Teflon Sega",
+          "url": "https://open.spotify.com/artist/0JFKmdLuTj0yZi9P05a85X"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129229,
+      "name": "Smoke N Drift - Phonk Version",
+      "url": "https://open.spotify.com/track/7rNn8uJttKjnAcJXtlxLQQ"
+    },
+    {
+      "album": {
         "name": "FROZEN HEIGHS",
         "url": "https://open.spotify.com/album/5zXQdtCqa9iugY2VU7UMLG"
       },
@@ -5483,7 +5595,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 103803,
       "name": "SOUL STEALER",
       "url": "https://open.spotify.com/track/46osOcQFNycwU6a517ewVP"
@@ -6551,6 +6663,28 @@
       "duration_ms": 120137,
       "name": "WITHOUT A HEAD",
       "url": "https://open.spotify.com/track/4EMHwQzXsVW3wvGjvVICcQ"
+    },
+    {
+      "album": {
+        "name": "workin!",
+        "url": "https://open.spotify.com/album/26KtvOHkIvWHCJMs3LfZAr"
+      },
+      "artists": [
+        {
+          "name": "MUPP",
+          "url": "https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG"
+        },
+        {
+          "name": "Sadfriendd",
+          "url": "https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90000,
+      "name": "workin!",
+      "url": "https://open.spotify.com/track/0jBkbsLEtptevgLk9mW66w"
     },
     {
       "album": {

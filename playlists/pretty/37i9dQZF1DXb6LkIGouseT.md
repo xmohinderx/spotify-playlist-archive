@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6LkIGouseT.md) - [plain]
 
 > Honor our native communities\. Listen to the sounds of acclaimed artists' Native American flute music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,310 likes - 70 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,377 likes - 70 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6LkIGouseT.md) - [plain]
 | 44 | [White Horse Dreaming](https://open.spotify.com/track/37oLnXYomz0eazyJFSNOse) | [Johnny Whitehorse](https://open.spotify.com/artist/6ubkj48AdWEtGZpYeWLW2U) | [Johnny Whitehorse](https://open.spotify.com/album/6RGpYr3V6NkNBtKNQATXQK) | 6:09 |
 | 45 | [Soothing Asian Flute](https://open.spotify.com/track/1ESncYAkU10LQO5oqnG9yq) | [Jessita Reyes](https://open.spotify.com/artist/4N57Ev9G6CQqREsZCIrcfL) | [Flute Dreaming \(Asian & Native American Flute for Sleep\)](https://open.spotify.com/album/18ucPWnvAPGEOmE4ytM0yU) | 2:29 |
 | 46 | [Midnight Moon](https://open.spotify.com/track/68ULpIyscv9nRA6nckdoRM) | [John Two\-Hawks](https://open.spotify.com/artist/67Gb7eYu3zEzI8rCg8kpii) | [Vision Seeker \- A Journey in Native Flute, Drum & Voice](https://open.spotify.com/album/2afkInoGkt2kqrMnWhs0na) | 2:27 |
-| 47 | [Sacred Spaces](https://open.spotify.com/track/501zYIHH32JnpZQvt9YTeF) | [Native Flute Ensemble](https://open.spotify.com/artist/3c1jNtzb2xmmwXIcMLEoPK) | [Hearts, Hands & Hides](https://open.spotify.com/album/7FBaZcKjaD4HPCXNP6Tqzn) | 4:24 |
+| 47 | [Sacred Spaces, Sacred Hills](https://open.spotify.com/track/0AN5ILFq2JvCgrhLSSPJT8) | [Sleep Baby Sleep](https://open.spotify.com/artist/6e5ygqf81ECK33tTPpbLLq) | [Ambient Spaces](https://open.spotify.com/album/1ZoDXDZnXwjUrbUF1cVjok) | 4:25 |
 | 48 | [Far From Home](https://open.spotify.com/track/21wyCeUnNsgVN8448C8Bbu) | [Andrew Vasquez](https://open.spotify.com/artist/1RI0qwvjL6cC1dIPxrrjwP) | [V3 \- An American Indian](https://open.spotify.com/album/087eJ8k24KFXHfjiRHd6tW) | 2:37 |
 | 49 | [In the Time of Chiefs](https://open.spotify.com/track/00Qtxh0UAXOqunh1NrD0UL) | [Tony Duncan](https://open.spotify.com/artist/57j0g1L7kjnLpoDKjyaU8m), [Darrin Yazzie](https://open.spotify.com/artist/3eSu0lpgaJFDa1Fn13MNlN), [Jeremy Dancing Bull](https://open.spotify.com/artist/45LhDJhtscti2VOhFi0iBw) | [From Where the Sun Rises](https://open.spotify.com/album/4C1buWTjk8wsGm0YKK9hQc) | 5:49 |
 | 50 | [With All Your Heart](https://open.spotify.com/track/6Ch8gloavE5c2UEAYRA6d6) | [Filtered Light](https://open.spotify.com/artist/5efZgw51kXq3hb95xySNRg) | [The Proverb](https://open.spotify.com/album/3TURic7PP0mwcMnNcmUgOh) | 1:49 |
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6LkIGouseT.md) - [plain]
 | 67 | [Lullaby with Flute & Crickets \- Soothing Crickets And Solo Flute](https://open.spotify.com/track/09n5OYAlgClYFQFYtXjVwS) | [Native American Flute](https://open.spotify.com/artist/0VaYChYezacJi7h3aCmcpG) | [Native American Flute: Sleep Music](https://open.spotify.com/album/3t8ECdZ3ZWuDU0ksoaI8Rz) | 4:22 |
 | 68 | [Translucent Shadows](https://open.spotify.com/track/1OmnvhVmoct7xBGdm0VTXD) | [Coyote Oldman](https://open.spotify.com/artist/7LQeFPitSkKhIskTd8knhP) | [Under An Ancient Sky](https://open.spotify.com/album/3F54i2mdjYQ7dLWmaZTllR) | 5:59 |
 | 69 | [Brother Wolf](https://open.spotify.com/track/57kOtzCpHthVIepprNw5Wi) | [Music Body and Spirit](https://open.spotify.com/artist/4fQId7SvZ1T10dAmQ7ozxo) | [Native American Music](https://open.spotify.com/album/5G1mttC8wtVbOtLK8sJBw4) | 3:15 |
-| 70 | [Healer's Quest](https://open.spotify.com/track/1bvtmhS3ELHZUjo8Od6cBZ) | [Jessita Reyes](https://open.spotify.com/artist/4N57Ev9G6CQqREsZCIrcfL), [Native Flute Ensemble](https://open.spotify.com/artist/3c1jNtzb2xmmwXIcMLEoPK) | [Healers of the Flute](https://open.spotify.com/album/6Dd1QnIuHrg5pilZn9BL26) | 3:12 |
+| 70 | [Healer's Melody](https://open.spotify.com/track/0ksMZ8lKgmfAgpssl3jHRZ) | [Zen Meditation and Natural White Noise and New Age Deep Massage](https://open.spotify.com/artist/5xj0jN2EifogsCRT1f91Zy) | [The Silk of Life](https://open.spotify.com/album/000KEZjGJAR8SCStltZpC9) | 3:12 |
 
-Snapshot ID: `MTY2NjgyMTEwNSwwMDAwMDAwMGIxZjNmMDUzOGY0NmRjZjQ0NjI4MTIwMzdlMjI3ODBj`
+Snapshot ID: `MTY2NjgyMTEwNSwwMDAwMDAwMDZmZjQ2YzkyZTM1M2NjNTBjMGQ0MTM2YjA1NDFhYmU4`

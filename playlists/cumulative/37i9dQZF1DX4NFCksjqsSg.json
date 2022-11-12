@@ -237,7 +237,7 @@
       ],
       "date_added": "2020-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 232760,
       "name": "Comment j'pourrais te l'dire",
       "url": "https://open.spotify.com/track/11avfT4rYocfVCuXSD0i3R"
@@ -442,6 +442,24 @@
     },
     {
       "album": {
+        "name": "Hasta la Vista",
+        "url": "https://open.spotify.com/album/3PW8MkpDwdtQapmJh9qPHE"
+      },
+      "artists": [
+        {
+          "name": "Collage",
+          "url": "https://open.spotify.com/artist/4OUU6LcfZ795unswMN56cT"
+        }
+      ],
+      "date_added": "2020-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286040,
+      "name": "Hasta la Vista",
+      "url": "https://open.spotify.com/track/6tqt5DXqTB1Wq0GJaftmzf"
+    },
+    {
+      "album": {
         "name": "Incognito",
         "url": "https://open.spotify.com/album/3Gc6kXiuACCXzuozrbA1C4"
       },
@@ -550,6 +568,24 @@
     },
     {
       "album": {
+        "name": "Caribou",
+        "url": "https://open.spotify.com/album/43hrsuXAxYjK61wHmnS9KE"
+      },
+      "artists": [
+        {
+          "name": "Martine St Clair",
+          "url": "https://open.spotify.com/artist/7mj0ykOd4nU43TFvJobbyq"
+        }
+      ],
+      "date_added": "2020-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227000,
+      "name": "Je ne sais plus comment je m'appelle",
+      "url": "https://open.spotify.com/track/1HxaNnYOPR4J8Vl1GyujGP"
+    },
+    {
+      "album": {
         "name": "Volume un",
         "url": "https://open.spotify.com/album/5mlYAjASxORUY5zmJ1j6Bd"
       },
@@ -615,7 +651,7 @@
       ],
       "date_added": "2020-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 327200,
       "name": "Je vais t'aimer",
       "url": "https://open.spotify.com/track/7CLGJ43kUYypc1t3nVZ7jD"
@@ -741,7 +777,7 @@
       ],
       "date_added": "2020-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 210186,
       "name": "La maladie d'amour",
       "url": "https://open.spotify.com/track/2flivK5ivlprHRE7YNcRrj"
@@ -965,6 +1001,24 @@
       "duration_ms": 253893,
       "name": "Mon mec \u00e0 moi",
       "url": "https://open.spotify.com/track/69cjFYQg0lE0e48bgOPhfy"
+    },
+    {
+      "album": {
+        "name": "Ole Ole",
+        "url": "https://open.spotify.com/album/0FgtNI0ltf9Srigvo0jojv"
+      },
+      "artists": [
+        {
+          "name": "11:30",
+          "url": "https://open.spotify.com/artist/0F6IyVkqIv4NYaDgGaxNnT"
+        }
+      ],
+      "date_added": "2020-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209186,
+      "name": "Ol\u00e9 Ol\u00e9 (Les D\u00e9esses Oubli\u00e9es)",
+      "url": "https://open.spotify.com/track/3wmx6vVuVu5hDnH9jTDcyx"
     },
     {
       "album": {

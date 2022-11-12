@@ -422,6 +422,24 @@
     },
     {
       "album": {
+        "name": "Film trifft Klassik",
+        "url": "https://open.spotify.com/album/1Jk67VV9YnH7WUmNMBlwHd"
+      },
+      "artists": [
+        {
+          "name": "B. Kudanowski",
+          "url": "https://open.spotify.com/artist/0fqa5yr6KNfunoOKAW6TcM"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142847,
+      "name": "Comptine d'un autre \u00e9t\u00e9 l'apr\u00e8s-midi - From \"Am\u00e9lie\"",
+      "url": "https://open.spotify.com/track/2igUeMIqtLOD7sGrOzvynK"
+    },
+    {
+      "album": {
         "name": "Le Fabuleux destin d'Am\u00e9lie Poulain (Bande originale du film)",
         "url": "https://open.spotify.com/album/6PRPYATK5VvjZ2p911y6U0"
       },
@@ -433,7 +451,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 140733,
       "name": "Comptine d'un autre \u00e9t\u00e9, l'apr\u00e8s-midi",
       "url": "https://open.spotify.com/track/14rZjW3RioG7WesZhYESso"
@@ -1659,7 +1677,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-09",
+      "date_removed": null,
       "duration_ms": 215680,
       "name": "Rain",
       "url": "https://open.spotify.com/track/0B54qwSQBsC4U8XtVVeoDj"
@@ -2207,6 +2225,24 @@
     {
       "album": {
         "name": "Raised By Wolves EP",
+        "url": "https://open.spotify.com/album/5t8nDcjqlWeSg73kA5mIRr"
+      },
+      "artists": [
+        {
+          "name": "Voxtrot",
+          "url": "https://open.spotify.com/artist/7b697TI9p2abLzSo3eJTKW"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271746,
+      "name": "The Start Of Something",
+      "url": "https://open.spotify.com/track/4RuBZPklpqvhNvNdCNy18V"
+    },
+    {
+      "album": {
+        "name": "Raised By Wolves EP",
         "url": "https://open.spotify.com/album/6Le1FSqseZp41WAub4Ct4v"
       },
       "artists": [
@@ -2559,7 +2595,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 122466,
       "name": "What\u2019s Important",
       "url": "https://open.spotify.com/track/0wHAqXzMjoAeOC2aAFNVAS"
@@ -2577,7 +2613,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 147026,
       "name": "White Winter Hymnal",
       "url": "https://open.spotify.com/track/0GegHVxeozw3rdjte45Bfx"
@@ -2599,6 +2635,24 @@
       "duration_ms": 147026,
       "name": "White Winter Hymnal",
       "url": "https://open.spotify.com/track/3QVtICc8ViNOy4I5K14d8Z"
+    },
+    {
+      "album": {
+        "name": "First Collection 2006-2009",
+        "url": "https://open.spotify.com/album/6ou9sQOsIY5xIIX417L3ud"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147026,
+      "name": "White Winter Hymnal",
+      "url": "https://open.spotify.com/track/7II56zDppy5Zyj1oJhkkZ1"
     },
     {
       "album": {
@@ -2685,7 +2739,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 278440,
       "name": "You Should All Be Murdered",
       "url": "https://open.spotify.com/track/3eS1455bVYxlkk1a2GVTaQ"

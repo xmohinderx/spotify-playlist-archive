@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ACGg8vzTNZ.md) - [plain]
 
 > Instrumental, ambient music to awaken your imagination.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,648 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,762 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ACGg8vzTNZ.md) - [plain]
 | 20 | [It's Time For You To Stop Being a Ghost](https://open.spotify.com/track/43Pp5KSyx85rKlvwdg6zI4) | [Sindri Már Sigfússon](https://open.spotify.com/artist/5ghRMejfQGRmEPV9rGWhav), [Sin Fang](https://open.spotify.com/artist/7xsi0kBJ58yWMu4WXFYPHU) | [It's Time For You To Stop Being a Ghost](https://open.spotify.com/album/1QCReS9eCSI383mQQMLQmn) | 1:51 |
 | 21 | [acceptances](https://open.spotify.com/track/49LE9nTYsPzk0ImQ26mZjD) | [Lara Somogyi](https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo) | [acceptances](https://open.spotify.com/album/6LRafypd0VdYQ6uuFIxzxJ) | 3:18 |
 | 22 | [Earnest Leslye](https://open.spotify.com/track/5RJNXi1qzxp01mX7V1IrvG) | [Peter Broderick](https://open.spotify.com/artist/3haVJx9TUcufYl1rPyH0iv) | [Earnest Leslye](https://open.spotify.com/album/4ofVz6Wz5SqA1aMixm6JVK) | 3:49 |
-| 23 | [Coriolis Effect](https://open.spotify.com/track/2wDk4PaXp0B54NFLRPgXHF) | [Kyle Preston](https://open.spotify.com/artist/4y34hJ1oLcRl5wOn7FnhX8) | [Coriolis Effect](https://open.spotify.com/album/6acfVndNASRtb9S6aTUB53) | 2:08 |
+| 23 | [Coriolis Effect](https://open.spotify.com/track/4Vk2YKNmdHLG1jevYtgxWa) | [Kyle Preston](https://open.spotify.com/artist/4y34hJ1oLcRl5wOn7FnhX8) | [Broken Radiance](https://open.spotify.com/album/6Cr9qjS0yH44dcDs26RV7X) | 2:08 |
 | 24 | [Sandlóa](https://open.spotify.com/track/0ONcTpuI4HC0nOGCbPjGsa) | [Snorri Hallgrímsson](https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs) | [Sandlóa](https://open.spotify.com/album/5bxoucRv54ThMvQ2kAZSgF) | 3:35 |
 | 25 | [Solitude I](https://open.spotify.com/track/31leo5SqxFz5BndXp3HKqw) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Solitudes](https://open.spotify.com/album/1Zrfkm3Oc8xhCLGCGmmKev) | 3:49 |
 | 26 | [Remember](https://open.spotify.com/track/5hv1LvnQTAoaZX3GZHRu6P) | [City of the Sun](https://open.spotify.com/artist/4DkYxtaASIKQnk4Gj0TB7k) | [Remember](https://open.spotify.com/album/4ZLxgffaJyuk8zyo2WaK6E) | 4:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ACGg8vzTNZ.md) - [plain]
 | 49 | [Søndermarken \(Video Edit\)](https://open.spotify.com/track/6nr8pvjY7kvf0dVclOzNuj) | [Henrik Lindstrand](https://open.spotify.com/artist/1jdUu8RsoIhTGLeJvzoACP) | [Søndermarken \(Video Edit\)](https://open.spotify.com/album/4Fhv8iZsFv6ZRFNjbmOeSC) | 4:10 |
 | 50 | [Agape](https://open.spotify.com/track/0EftQZBNBfwAqVRtMi3ZWs) | [Glowworm](https://open.spotify.com/artist/6kPNTQ474Zvg8bq86OMutw) | [Agape](https://open.spotify.com/album/2sAxo94o1LjFvb5FqGxgML) | 5:06 |
 
-Snapshot ID: `MTY2Njk0NzA5MiwwMDAwMDAwMDM3ODIxMjY3OTAyMDkwM2Q0MGUzNTEwYjRlNjA5OTgy`
+Snapshot ID: `MTY2Njk0NzA5MiwwMDAwMDAwMDFkZjdjOGUwNDE3MGQzOWMyZDNjMDA1ZWIzMDZmZDE3`

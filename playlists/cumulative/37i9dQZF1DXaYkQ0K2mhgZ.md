@@ -4,7 +4,7 @@
 
 > Move your feet and shake your hips to these family\-friendly tunes.
 
-71 songs - 4 hr 27 min - [published](https://open.spotify.com/playlist/17lFfumF7P2Y3r6EiqvJyM)
+72 songs - 4 hr 31 min - [published](https://open.spotify.com/playlist/17lFfumF7P2Y3r6EiqvJyM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,8 @@
 | [Video](https://open.spotify.com/track/4oiAlcisfimXQc1wyAtX9a) | [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC) | [Acoustic Soul](https://open.spotify.com/album/6ApdnTHD5zXzmZqxf0TA9Z) | 4:09 | 2020-10-01 | 2022-07-29 |
 | [Video](https://open.spotify.com/track/5OvtHC1axvrFvtAV2H2KG7) | [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC) | [Chilled Summer](https://open.spotify.com/album/2i2K253TAzT22nTWpJKFZs) | 4:11 | 2020-10-01 |  |
 | [We Can Work It Out](https://open.spotify.com/track/41q8ZiB3LZl4HRmmzUTIo4) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Signed, Sealed And Delivered](https://open.spotify.com/album/54ootLtDyMZFr9obtWQvvO) | 3:19 | 2020-10-01 |  |
-| [Why Can't We Be Friends](https://open.spotify.com/track/6x959m2QDvatSwUAVCHIuf) | [War](https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I) | [Why Can't We Be Friends?](https://open.spotify.com/album/59euB5Ns7yGbS06OYHwxRN) | 3:50 | 2020-10-01 |  |
+| [Why Can't We Be Friends](https://open.spotify.com/track/591naG1fK1jQfRpVOmJHff) | [War](https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I) | [The Cisco Kid and Other Hits](https://open.spotify.com/album/7041qMbfSPwsmo2GBBOjt2) | 3:50 | 2020-10-01 |  |
+| [Why Can't We Be Friends](https://open.spotify.com/track/6x959m2QDvatSwUAVCHIuf) | [War](https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I) | [Why Can't We Be Friends?](https://open.spotify.com/album/59euB5Ns7yGbS06OYHwxRN) | 3:50 | 2020-10-01 | 2022-11-12 |
 | [Why Can't We Be Friends?](https://open.spotify.com/track/413T0g8pNNXYX6t5RqHvx7) | [War](https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I) | [Why Can't We Be Friends?](https://open.spotify.com/album/6IaC3IRa3OAl6bHmdmjPTf) | 3:50 | 2020-10-01 | 2022-07-29 |
 | [Word Up](https://open.spotify.com/track/7LoGfKBAaOl0nxhodJ1240) | [Cameo](https://open.spotify.com/artist/545idYhdloaSlLGBY8E9u2) | [Word Up](https://open.spotify.com/album/1W8kHQQC7DXg1inR7ZWqhA) | 4:20 | 2020-10-01 |  |
 | [You Make My Dreams \(Come True\)](https://open.spotify.com/track/4o6BgsqLIBViaGVbx5rbRk) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Voices](https://open.spotify.com/album/4LniALl9S6YedTFdiZWOMS) | 3:10 | 2020-10-01 |  |

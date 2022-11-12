@@ -757,7 +757,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 175000,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/3yj6Hc5nO7t88CUAss0tHH"
@@ -1331,7 +1331,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 192000,
       "name": "Call On Me (feat. Georgia Ku)",
       "url": "https://open.spotify.com/track/3pBv3LfvfPft2TqHleqKHo"
@@ -2155,7 +2155,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 157500,
       "name": "Don't Let Go",
       "url": "https://open.spotify.com/track/1L0ZuhK7CHY33fUTQuWG1U"
@@ -2531,7 +2531,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 216666,
       "name": "Face To Face",
       "url": "https://open.spotify.com/track/28pyXNW0jwILn3SZ0zIzJc"
@@ -2791,7 +2791,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 175042,
       "name": "Fell In Love With An Alien",
       "url": "https://open.spotify.com/track/5pOaB3p7eT1lyOPOxAuife"
@@ -3329,7 +3329,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": null,
       "duration_ms": 178514,
       "name": "Gonna Need Ya",
       "url": "https://open.spotify.com/track/1icgSRga7q37rC4eftEQG3"
@@ -3565,7 +3565,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-21",
+      "date_removed": null,
       "duration_ms": 160555,
       "name": "Happy Ever After",
       "url": "https://open.spotify.com/track/0BXCVKsjbKSjfNPGWPh5eo"
@@ -3663,7 +3663,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 191000,
       "name": "Heart to heart",
       "url": "https://open.spotify.com/track/43aIzOGSfwcgevhTtoiGt9"
@@ -3971,7 +3971,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 157304,
       "name": "Hold On To The Night",
       "url": "https://open.spotify.com/track/2Ou5bIxrNTwNFrwfNaOr3R"
@@ -4672,6 +4672,28 @@
     },
     {
       "album": {
+        "name": "I Won\u2019t Need You",
+        "url": "https://open.spotify.com/album/3e1DQ5tYkCUgCNe7b5mXTo"
+      },
+      "artists": [
+        {
+          "name": "Tep No",
+          "url": "https://open.spotify.com/artist/7MlotYZhHjOlXcvmwrITj8"
+        },
+        {
+          "name": "Noak Hellsing",
+          "url": "https://open.spotify.com/artist/47WlUGFrUj1hDhjzX1l6nc"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178938,
+      "name": "I Won\u2019t Need You",
+      "url": "https://open.spotify.com/track/0w16BQtFsrTTesvoWO9zoj"
+    },
+    {
+      "album": {
         "name": "Sunrise To Sunset",
         "url": "https://open.spotify.com/album/3DXfe2cEsCdAjORfXw0NDK"
       },
@@ -4789,7 +4811,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-28",
+      "date_removed": null,
       "duration_ms": 140163,
       "name": "Illuminate",
       "url": "https://open.spotify.com/track/7golrrC213i0pLwckqcQ9S"
@@ -5193,7 +5215,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 182000,
       "name": "Kuala Lumpur",
       "url": "https://open.spotify.com/track/2gK4qTOtzYQiiOW6I2bXj8"
@@ -5714,6 +5736,28 @@
     },
     {
       "album": {
+        "name": "Love",
+        "url": "https://open.spotify.com/album/734Wod5Q6qnIqOcnz2fVwG"
+      },
+      "artists": [
+        {
+          "name": "Honey",
+          "url": "https://open.spotify.com/artist/4lQERYdwY63QCoTVxt0aP9"
+        },
+        {
+          "name": "Shoby",
+          "url": "https://open.spotify.com/artist/1VF2jmv5aWGszBtIVPt2fT"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151636,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/35rWU6zabyoVbcTOIZ4WLU"
+    },
+    {
+      "album": {
         "name": "Love In California",
         "url": "https://open.spotify.com/album/3uec87fKWLQJHVx0azTTgj"
       },
@@ -6011,7 +6055,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-31",
+      "date_removed": null,
       "duration_ms": 140000,
       "name": "Magnificent",
       "url": "https://open.spotify.com/track/14OYnc2WqxyReHJCmVxvcb"
@@ -6709,7 +6753,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 202158,
       "name": "Never Really Loved Me (with Dean Lewis)",
       "url": "https://open.spotify.com/track/1O73ZKgl0THUImkHW6dfAL"
@@ -6837,7 +6881,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-02",
+      "date_removed": null,
       "duration_ms": 149000,
       "name": "Night Sky",
       "url": "https://open.spotify.com/track/29oU36Lm5HxVfiDW1aiQku"
@@ -6929,6 +6973,24 @@
       "duration_ms": 178893,
       "name": "Nobody Else",
       "url": "https://open.spotify.com/track/4qehUdZCqaYo13JrUUrbEm"
+    },
+    {
+      "album": {
+        "name": "ocean breeze",
+        "url": "https://open.spotify.com/album/2961lVPUrCwBhpuyF5CrKX"
+      },
+      "artists": [
+        {
+          "name": "rayn",
+          "url": "https://open.spotify.com/artist/2BGoIfTAwsAi7pcefa0IVM"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117027,
+      "name": "ocean breeze",
+      "url": "https://open.spotify.com/track/7F8YDLKMrrttH5XQLDJ2bt"
     },
     {
       "album": {
@@ -7201,7 +7263,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 152021,
       "name": "On My Way",
       "url": "https://open.spotify.com/track/5wFbhhwqavrKGvSkGeFyLL"
@@ -7696,6 +7758,24 @@
     },
     {
       "album": {
+        "name": "Passing Clouds",
+        "url": "https://open.spotify.com/album/06WTLNXbFeMrujjCJ0CT8P"
+      },
+      "artists": [
+        {
+          "name": "Sum Wave",
+          "url": "https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152413,
+      "name": "Passing Clouds",
+      "url": "https://open.spotify.com/track/3jCTivI1jcDKREf1KKbhM6"
+    },
+    {
+      "album": {
         "name": "Perfect Strangers",
         "url": "https://open.spotify.com/album/3unvtEoEI6Ga2FMKotI20p"
       },
@@ -7955,7 +8035,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 262242,
       "name": "Real",
       "url": "https://open.spotify.com/track/0z2m2MUEp2E15NkLU8lyFU"
@@ -8557,7 +8637,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 195922,
       "name": "Sanity",
       "url": "https://open.spotify.com/track/25fgFKBm7mRjqpmfWouR21"
@@ -9097,7 +9177,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-08",
+      "date_removed": null,
       "duration_ms": 203615,
       "name": "Somewhere Out There",
       "url": "https://open.spotify.com/track/7JPA0E9xnYsJSrYjQyQFRm"
@@ -9761,7 +9841,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 177841,
       "name": "Talk (feat. Askar and the Ghosts)",
       "url": "https://open.spotify.com/track/1BIeWq1iSksVIhPcTU8kEx"
@@ -10119,7 +10199,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-22",
+      "date_removed": null,
       "duration_ms": 148720,
       "name": "Those Were the Days",
       "url": "https://open.spotify.com/track/27APnPhv82IdHrehOUv7lP"
@@ -10331,7 +10411,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 202656,
       "name": "Twilight",
       "url": "https://open.spotify.com/track/2fvhV6sto6aEblNbnZmttv"
@@ -11327,6 +11407,36 @@
       "duration_ms": 182654,
       "name": "You Are A Traveler",
       "url": "https://open.spotify.com/track/0WYyQGmQy979roTvrVwlTb"
+    },
+    {
+      "album": {
+        "name": "You Got Me",
+        "url": "https://open.spotify.com/album/0g3YrJPE80q2FMB2EGyHTY"
+      },
+      "artists": [
+        {
+          "name": "Lonely Night",
+          "url": "https://open.spotify.com/artist/5z7pjN7SUEN8nZFOO4MWhx"
+        },
+        {
+          "name": "Nody",
+          "url": "https://open.spotify.com/artist/2SntfW96QEEwMEGO2Ns61z"
+        },
+        {
+          "name": "Ellou",
+          "url": "https://open.spotify.com/artist/5DtAmwUDq3xbaWecjPBeSy"
+        },
+        {
+          "name": "Ari",
+          "url": "https://open.spotify.com/artist/0V1Q4k9X1xSKiF9JVzRof1"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165120,
+      "name": "You Got Me",
+      "url": "https://open.spotify.com/track/6qyyrqYMmouTVr1p8jDLM1"
     },
     {
       "album": {

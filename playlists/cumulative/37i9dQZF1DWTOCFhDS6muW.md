@@ -4,7 +4,7 @@
 
 > ¡Esto es punta!
 
-73 songs - 5 hr 11 min - [published](https://open.spotify.com/playlist/3CugKSm2PhA83VrYcz2ukm)
+74 songs - 5 hr 15 min - [published](https://open.spotify.com/playlist/3CugKSm2PhA83VrYcz2ukm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Banana](https://open.spotify.com/track/6jceTQXwTqbj4BJGJdlbvg) | [Kazzabe](https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv) | [Puros Éxitos](https://open.spotify.com/album/7iI8ptAWVpe9WWhoIlHOZ7) | 3:16 | 2020-05-26 | 2022-11-11 |
 | [Banana](https://open.spotify.com/track/61AxjjJ98vp7XOzUVutY3l) | [Kazzabe](https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv) | [Banana](https://open.spotify.com/album/4gcyP6xuH2Dz69J7gaNAeR) | 3:16 | 2020-05-26 | 2022-07-29 |
 | [Biamaangui](https://open.spotify.com/track/1VzspFOoNXhEEzMqgCNQf9) | [Kazzabe](https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv) | [Puro Exitos](https://open.spotify.com/album/42LKEb3ZUrsCTXtSvVX8W7) | 3:52 | 2020-05-26 | 2022-07-28 |
+| [Biamaangui](https://open.spotify.com/track/0oX5Mhx73vG5xpK0pcl23t) | [Kazzabe](https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv) | [Puros Éxitos](https://open.spotify.com/album/7iI8ptAWVpe9WWhoIlHOZ7) | 3:53 | 2020-05-26 |  |
 | [Bunabou Live \- Live](https://open.spotify.com/track/3bk84Tl2e3UHheILeVkqIF) | [Xcstacy](https://open.spotify.com/artist/7ACGfyzJQTp8Lehdcy8tZi) | [Bunabou Live](https://open.spotify.com/album/6ONVn4d2fJceFUoWzv0LEc) | 7:29 | 2020-05-26 |  |
 | [Carolina](https://open.spotify.com/track/3EpsFoq6ZFEQREYblovfHZ) | [Supa G](https://open.spotify.com/artist/4lJKjqL2fCL4yfNyKhm1sB) | [Punta Vibe](https://open.spotify.com/album/3IJe0vVXjgILY9PMAhrN5f) | 3:13 | 2020-05-26 |  |
 | [Carolina \(Club Mix\)](https://open.spotify.com/track/44vM0hGs6C6GMvoFrAJpGH) | [Supa G](https://open.spotify.com/artist/4lJKjqL2fCL4yfNyKhm1sB) | [Punta Gold, Vol\. 1](https://open.spotify.com/album/6kN8KMWQJRLCKJtV06Rkdk) | 3:13 | 2020-05-26 | 2022-07-29 |
@@ -72,7 +73,7 @@
 | [Quemala](https://open.spotify.com/track/0NEBWdknV109G27t9N6p4C) | [El Chevo](https://open.spotify.com/artist/2vC9dN2ebF9lBbAFlIUeL4), [Mr Jc](https://open.spotify.com/artist/42TNOe97Vn2D6OgjNpaxZc) | [Quemala](https://open.spotify.com/album/1Jbvn94xFJLtzxVf63RoGB) | 2:25 | 2020-05-26 | 2022-07-29 |
 | [Quemala](https://open.spotify.com/track/3cOelkO6uChynlAKzOSu8D) | [El Chevo](https://open.spotify.com/artist/2vC9dN2ebF9lBbAFlIUeL4), [Mr Jc](https://open.spotify.com/artist/42TNOe97Vn2D6OgjNpaxZc), [MC Productions Inc](https://open.spotify.com/artist/4pqKYtU6pamrZUuTWaaRgA), [KD La Caracola](https://open.spotify.com/artist/4C1zea33GCcaanKPvTbiGy), [Jessy Rose](https://open.spotify.com/artist/70GCrueLWPqtr0HhlyIFAD), [Big Nango](https://open.spotify.com/artist/2pjdmFwCoCFDonp4u6TJEH) | [Quemala](https://open.spotify.com/album/0QHUbFYSwO6Y1WmmDulDEg) | 2:25 | 2020-05-26 | 2022-11-11 |
 | [Si Pudiera Yo](https://open.spotify.com/track/7C0qwetoetcHa3Q4mCBCWz) | [Kazzabe](https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv) | [Puro Exitos](https://open.spotify.com/album/42LKEb3ZUrsCTXtSvVX8W7) | 4:15 | 2020-05-26 | 2022-07-29 |
-| [Si Pudiera Yo](https://open.spotify.com/track/6hOVsyMdpk2aZK6zcKnXMK) | [Kazzabe](https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv), [MC Productions](https://open.spotify.com/artist/00d2syfoHzArTNnxKOMav4) | [Puros Éxitos](https://open.spotify.com/album/7iI8ptAWVpe9WWhoIlHOZ7) | 4:15 | 2020-05-26 |  |
+| [Si Pudiera Yo](https://open.spotify.com/track/6hOVsyMdpk2aZK6zcKnXMK) | [Kazzabe](https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv), [MC Productions](https://open.spotify.com/artist/00d2syfoHzArTNnxKOMav4) | [Puros Éxitos](https://open.spotify.com/album/7iI8ptAWVpe9WWhoIlHOZ7) | 4:15 | 2020-05-26 | 2022-11-12 |
 | [Sopa de Caracol](https://open.spotify.com/track/53FCiG3Gvt6a3ZYExLeOtK) | [Banda Blanca](https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ) | [Con el Ritmo Punta, Vol\. 1](https://open.spotify.com/album/6EuZoWfCGfjeXVMs06m4K7) | 4:49 | 2020-05-26 | 2022-07-29 |
 | [Sopa de Caracol](https://open.spotify.com/track/4V8uHuLaBRxQ02H4YNCOO7) | [Banda Blanca](https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ) | [Lo Mejor de Banda Blanca \- 16 Exitos](https://open.spotify.com/album/696Y05qV9YgqTqA8gPmY20) | 4:53 | 2020-05-26 |  |
 | [Sopa de Caracol \(Remix\)](https://open.spotify.com/track/6NQt5wVpaE1dcwfYmjce7L) | [Pilo Tejeda](https://open.spotify.com/artist/0XVYCj51XvKccyphzKQOAc), [Polache](https://open.spotify.com/artist/407pHQytUNjAXT1tm0AyzY) | [El Otro Yo](https://open.spotify.com/album/6ybT0RRByP5X6ogdQioyaQ) | 3:15 | 2020-05-26 |  |

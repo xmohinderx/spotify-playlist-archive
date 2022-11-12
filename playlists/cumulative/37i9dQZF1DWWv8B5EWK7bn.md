@@ -4,7 +4,7 @@
 
 > Oblique: Angular\. Asymmetrical\. Experimental.
 
-210 songs - 14 hr 55 min - [published](https://open.spotify.com/playlist/53YlmOlKHZkvBIAusSdsbN)
+211 songs - 14 hr 59 min - [published](https://open.spotify.com/playlist/53YlmOlKHZkvBIAusSdsbN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,8 @@
 | [Las Olas Contra Todos](https://open.spotify.com/track/67QxnzLtZh9NiD7NzlBgs1) | [La Villana](https://open.spotify.com/artist/6hZrSCRkq3lgHZ9dFxpzhq) | [Las Olas Contra Todos](https://open.spotify.com/album/4J8d90YhrrYBiZbSeRiacK) | 2:45 | 2022-04-20 |  |
 | [Las Tres Hermanas](https://open.spotify.com/track/5yr6EVWfo3p9C766yeOo3z) | [De Juepuchas](https://open.spotify.com/artist/7oVSI0ddXNkjEtvLoh0SRC), [Las Áñez](https://open.spotify.com/artist/1j2LXEgnuKC1ghy9ioDxl9) | [Las Tres Hermanas](https://open.spotify.com/album/7HJ6ekJSoJP6utcPh1HmK9) | 3:49 | 2022-09-27 |  |
 | [Lawn](https://open.spotify.com/track/0lwRMQQ6BxVBV0WaokbQ22) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Lawn](https://open.spotify.com/album/18fBg00a9TmorB9yvQwYlq) | 3:37 | 2022-01-14 | 2022-07-29 |
-| [Lawn](https://open.spotify.com/track/4YQe4UrNJ0AzFKA6BNQo0c) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Warm Chris](https://open.spotify.com/album/56rWsCsd2UF9l1XTpUfZ1v) | 3:37 | 2022-01-14 |  |
+| [Lawn](https://open.spotify.com/track/4YQe4UrNJ0AzFKA6BNQo0c) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Warm Chris](https://open.spotify.com/album/56rWsCsd2UF9l1XTpUfZ1v) | 3:37 | 2022-01-14 | 2022-11-12 |
+| [Lawn](https://open.spotify.com/track/7nQixpECs10IR5meminpfC) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Lawn](https://open.spotify.com/album/6XqR7N00QJAqEUaO04L8vW) | 3:37 | 2022-01-14 |  |
 | [Living Other Lives](https://open.spotify.com/track/3uaYJY6kH4HscJoROvidcz) | [Efterklang](https://open.spotify.com/artist/3DL71JYSG6VREkmLSzfWhU) | [Living Other Lives](https://open.spotify.com/album/1XuWrakQS8eSMygwDoM2XL) | 5:38 | 2021-10-06 | 2022-08-04 |
 | [Loba](https://open.spotify.com/track/4iurqgyrBFYiCZvMCNrM9B) | [Los Eclipses](https://open.spotify.com/artist/21EtvnD59JJJiUP0qZP7WY), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E), [Dan Solo](https://open.spotify.com/artist/7E1ZwNnXreZgJpmTNUJva7) | [Loba](https://open.spotify.com/album/595FjkgYcTLaN4Ux7nPx3J) | 3:41 | 2022-11-03 |  |
 | [Log In Your Fire](https://open.spotify.com/track/6ZvVNzqFvCXIIpX9Z22CsN) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH), [Emile Mosseri](https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1) | [I Could Be Your Dog / I Could Be Your Moon](https://open.spotify.com/album/0Mh4KBhAf7Rvq2kHCu61YK) | 2:51 | 2022-02-04 |  |

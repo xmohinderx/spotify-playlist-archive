@@ -4,11 +4,12 @@
 
 > Jazz piano ballads to help you focus during the workday.
 
-252 songs - 15 hr 34 min - [published](https://open.spotify.com/playlist/7gjdSVAZmOoZ8qVS2F3i19)
+253 songs - 15 hr 36 min - [published](https://open.spotify.com/playlist/7gjdSVAZmOoZ8qVS2F3i19)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Better Place](https://open.spotify.com/track/6ZDLHi8UtQeT203JjiQU6N) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx) | [A Better Place](https://open.spotify.com/album/5kIBKvyTDfkVFeL3INbvBZ) | 2:13 | 2022-06-29 |  |
+| [A Better Place](https://open.spotify.com/track/6ZDLHi8UtQeT203JjiQU6N) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx) | [A Better Place](https://open.spotify.com/album/5kIBKvyTDfkVFeL3INbvBZ) | 2:13 | 2022-06-29 | 2022-11-12 |
+| [A Better Place](https://open.spotify.com/track/7JfORZg3Tvn0YyDZCiGhMU) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx) | [A Better Place](https://open.spotify.com/album/0BIRayldwphnBlwreGKihM) | 2:13 | 2022-11-10 |  |
 | [A Better Place](https://open.spotify.com/track/38XEHVGy4xCfeaBNKjJOTY) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx), [Niklas Fernqvist](https://open.spotify.com/artist/0RwUWenfKob2FP0P4V5pJS), [Rasmus Svensson Blixt](https://open.spotify.com/artist/7KYea3HNjnreWiEJWn3CkI) | [A Better Place](https://open.spotify.com/album/69jewLma1l3nUoR9FR6yCk) | 2:13 | 2022-06-14 | 2022-07-29 |
 | [A Few Days Ahead](https://open.spotify.com/track/71qHUeI08SIXKXzSrOqcxj) | [Bedford and 7th](https://open.spotify.com/artist/3bAXvct52qoTbMdHW4CYkE) | [A Few Days Ahead](https://open.spotify.com/album/65sw0dCunefgxhFgS3GHuv) | 3:05 | 2022-06-14 |  |
 | [A Few Odd Jobs](https://open.spotify.com/track/3iqhWCI6anGEfsGuHgTOCm) | [Tore Lundblad](https://open.spotify.com/artist/4zNremLzDLV4qylYjP0nR2) | [A Few Odd Jobs](https://open.spotify.com/album/32mipwmPBIaktTnArY4kJt) | 3:12 | 2022-09-29 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 345798,
+  "num_followers": 345933,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODA5MjQwMCwwMDAwMDAwMDZjNTg0OThhMTFkNWUxMWRjOTk1OTA2ZGVlYjc5NjU1",
+  "snapshot_id": "MTY2ODA5MjQwMCwwMDAwMDAwMGJiMDljMDFmZDc5ZTMwOGJjODNjMTRhZDc1NzgxZmIz",
   "tracks": [
     {
       "added_at": "2022-11-10 15:00:00",
@@ -35,8 +35,8 @@
     {
       "added_at": "2022-11-10 15:00:00",
       "album": {
-        "name": "Suzume",
-        "url": "https://open.spotify.com/album/7HT4WPE6gHPxrRmgzhhTMr"
+        "name": "Suzume (Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq"
       },
       "artists": [
         {
@@ -48,9 +48,9 @@
           "url": "https://open.spotify.com/artist/3GzVC7GGbmO2SuBu92DqUn"
         }
       ],
-      "duration_ms": 236390,
+      "duration_ms": 238560,
       "name": "Suzume",
-      "url": "https://open.spotify.com/track/7LHAKF7pBqHch8o6Yo0ad5"
+      "url": "https://open.spotify.com/track/1n1y2kFPISpF9WGD3JaFo5"
     },
     {
       "added_at": "2022-11-10 15:00:00",
@@ -367,18 +367,18 @@
     {
       "added_at": "2022-11-10 15:00:00",
       "album": {
-        "name": "HAWATARI NIOKU CENTI [2-hundred-million-centimeter-long blades] (TV edit)",
-        "url": "https://open.spotify.com/album/22bkV1gcP9weQRmRktdCM4"
+        "name": "\u5203\u6e21\u308a2\u5104\u30bb\u30f3\u30c1(TV edit)",
+        "url": "https://open.spotify.com/album/04tV0O6qn5cXheBUTHmeKv"
       },
       "artists": [
         {
-          "name": "MAXIMUM THE HORMONE",
-          "url": "https://open.spotify.com/artist/3AMut7lAb1JjINkn8Fmkhu"
+          "name": "\u30de\u30ad\u30b7\u30de\u30e0 \u30b6 \u30db\u30eb\u30e2\u30f3 \u4e00\u90e8\u306e\u30a2\u30cb\u30e1\u30c6\u30fc\u30de\u5c02\u7528\u4eee\u8a2d\u30c1\u30e3\u30f3\u30cd\u30eb",
+          "url": "https://open.spotify.com/artist/7ipRKwjoASGW04QLVsDg3g"
         }
       ],
       "duration_ms": 89563,
-      "name": "HAWATARI NIOKU CENTI [2-hundred-million-centimeter-long blades] - TV edit",
-      "url": "https://open.spotify.com/track/1lySGuhlcZUJxLA5W5Bo7k"
+      "name": "\u5203\u6e21\u308a2\u5104\u30bb\u30f3\u30c1(TV edit)",
+      "url": "https://open.spotify.com/track/2rTmZHTXWo9YfIRAxbdkpG"
     },
     {
       "added_at": "2022-11-10 15:00:00",
@@ -403,18 +403,18 @@
     {
       "added_at": "2022-11-10 15:00:00",
       "album": {
-        "name": "\u5203\u6e21\u308a2\u5104\u30bb\u30f3\u30c1(TV edit)",
-        "url": "https://open.spotify.com/album/04tV0O6qn5cXheBUTHmeKv"
+        "name": "HAWATARI NIOKU CENTI [2-hundred-million-centimeter-long blades] (TV edit)",
+        "url": "https://open.spotify.com/album/22bkV1gcP9weQRmRktdCM4"
       },
       "artists": [
         {
-          "name": "\u30de\u30ad\u30b7\u30de\u30e0 \u30b6 \u30db\u30eb\u30e2\u30f3 \u4e00\u90e8\u306e\u30a2\u30cb\u30e1\u30c6\u30fc\u30de\u5c02\u7528\u4eee\u8a2d\u30c1\u30e3\u30f3\u30cd\u30eb",
-          "url": "https://open.spotify.com/artist/7ipRKwjoASGW04QLVsDg3g"
+          "name": "MAXIMUM THE HORMONE",
+          "url": "https://open.spotify.com/artist/3AMut7lAb1JjINkn8Fmkhu"
         }
       ],
       "duration_ms": 89563,
-      "name": "\u5203\u6e21\u308a2\u5104\u30bb\u30f3\u30c1(TV edit)",
-      "url": "https://open.spotify.com/track/2rTmZHTXWo9YfIRAxbdkpG"
+      "name": "HAWATARI NIOKU CENTI [2-hundred-million-centimeter-long blades] - TV edit",
+      "url": "https://open.spotify.com/track/1lySGuhlcZUJxLA5W5Bo7k"
     },
     {
       "added_at": "2022-11-10 15:00:00",
@@ -920,7 +920,7 @@
           "url": "https://open.spotify.com/artist/2IEDOKhzkk1EKk93fZ759r"
         },
         {
-          "name": "J.Lamotta",
+          "name": "J.Lamotta Suzume",
           "url": "https://open.spotify.com/artist/76O0DRobXGao078KT0xci8"
         }
       ],

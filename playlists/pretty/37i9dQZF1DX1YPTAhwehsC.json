@@ -1,13 +1,81 @@
 {
   "description": "Up and down I-95. Cover: Lil Uzi Vert",
-  "num_followers": 422897,
+  "num_followers": 423025,
   "original_name": "State of Mind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzUzNDQwMCwwMDAwMDAwMDUwMmQzODI3NWQxNDAzNjM4MTk5ZTYyMmFkODBkNTQ0",
+  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMGRmYmFlZDU2MDdkMTE4MTYwMGJmYjEzYWQzZDlhMjI5",
   "tracks": [
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Give You What You Want",
+        "url": "https://open.spotify.com/album/49OQ6tF3eo3Fdgp3GMhHep"
+      },
+      "artists": [
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        }
+      ],
+      "duration_ms": 159330,
+      "name": "Give You What You Want",
+      "url": "https://open.spotify.com/track/6PQK1Y3Dl6dym9pj0y9Chy"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "King's Disease III",
+        "url": "https://open.spotify.com/album/3vQuGKQJMfdXmkjRKqUesk"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "duration_ms": 167724,
+      "name": "Michael & Quincy",
+      "url": "https://open.spotify.com/track/5MfCvL6jCTkxPCBQf3OkYH"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Just Wanna Rock",
+        "url": "https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 123890,
+      "name": "Just Wanna Rock",
+      "url": "https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "1 On 3 (feat. Rvssian)",
+        "url": "https://open.spotify.com/album/3F6GpeUViLprCorwucXYmQ"
+      },
+      "artists": [
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        },
+        {
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
+        }
+      ],
+      "duration_ms": 96000,
+      "name": "1 On 3 (feat. Rvssian)",
+      "url": "https://open.spotify.com/track/5APTC8XAiHLn89cpgWqrWl"
+    },
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
@@ -61,36 +129,44 @@
       "url": "https://open.spotify.com/track/1pnwc4c5qjgxr2tVdSU4C5"
     },
     {
-      "added_at": "2022-11-04 04:00:00",
+      "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Just Wanna Rock",
-        "url": "https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 123890,
-      "name": "Just Wanna Rock",
-      "url": "https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Keep It 100",
-        "url": "https://open.spotify.com/album/2qCog50BkPP2sJpLjHGsQG"
+        "name": "Spinnin",
+        "url": "https://open.spotify.com/album/3QA6sWUac76SKaQ5mmZtYO"
       },
       "artists": [
         {
           "name": "Dougie B",
           "url": "https://open.spotify.com/artist/6ykgQbKcZFy5qoKBU4YiWj"
+        },
+        {
+          "name": "B-Lovee",
+          "url": "https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y"
+        },
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
         }
       ],
-      "duration_ms": 170666,
-      "name": "Keep It 100",
-      "url": "https://open.spotify.com/track/2g9RfCXZna6roc6hjvoCn1"
+      "duration_ms": 138947,
+      "name": "Spinnin (with B-Lovee & Cordae)",
+      "url": "https://open.spotify.com/track/1C41orKYTaul2aYazWzQ0E"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Letter 2 Notti",
+        "url": "https://open.spotify.com/album/26LCzQxgr9L97slkouEn80"
+      },
+      "artists": [
+        {
+          "name": "DD Osama",
+          "url": "https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM"
+        }
+      ],
+      "duration_ms": 127397,
+      "name": "Letter 2 Notti",
+      "url": "https://open.spotify.com/track/0MkrMfegYa5anzniOrK0D0"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -125,6 +201,22 @@
       "url": "https://open.spotify.com/track/0vcCzkD7GK0641SPcHM6XF"
     },
     {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Yes I Do",
+        "url": "https://open.spotify.com/album/1FM1qrdhlFIdpLzhBvHdm7"
+      },
+      "artists": [
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        }
+      ],
+      "duration_ms": 123552,
+      "name": "Yes I Do",
+      "url": "https://open.spotify.com/track/4GWO4LeUE6fc4V5WVQ2MhQ"
+    },
+    {
       "added_at": "2022-11-04 04:00:00",
       "album": {
         "name": "2 Mins of Pain (feat. Alborosie)",
@@ -143,22 +235,6 @@
       "duration_ms": 136695,
       "name": "2 Mins of Pain (feat. Alborosie)",
       "url": "https://open.spotify.com/track/2NVXBBbO4xGO851zrMfCFi"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Letter 2 Notti",
-        "url": "https://open.spotify.com/album/26LCzQxgr9L97slkouEn80"
-      },
-      "artists": [
-        {
-          "name": "DD Osama",
-          "url": "https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM"
-        }
-      ],
-      "duration_ms": 127397,
-      "name": "Letter 2 Notti",
-      "url": "https://open.spotify.com/track/0MkrMfegYa5anzniOrK0D0"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -301,6 +377,22 @@
       "url": "https://open.spotify.com/track/2rqB2I2stqNPaVBaObZnDx"
     },
     {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Krash Out",
+        "url": "https://open.spotify.com/album/2P2AoAbtzvF39nm1cBaSpa"
+      },
+      "artists": [
+        {
+          "name": "Kenzo Balla",
+          "url": "https://open.spotify.com/artist/7J7r6Srf58AAPsTJrEXMCp"
+        }
+      ],
+      "duration_ms": 151578,
+      "name": "Krash Out",
+      "url": "https://open.spotify.com/track/0feZz6FZLnuBACiRNIVvWL"
+    },
+    {
       "added_at": "2022-11-04 04:00:00",
       "album": {
         "name": "SHMURDAGOTCASH",
@@ -319,6 +411,22 @@
       "duration_ms": 171480,
       "name": "IN MY BAG",
       "url": "https://open.spotify.com/track/25ERujbX7NlHiKoSpzCFXi"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Keep It 100",
+        "url": "https://open.spotify.com/album/2qCog50BkPP2sJpLjHGsQG"
+      },
+      "artists": [
+        {
+          "name": "Dougie B",
+          "url": "https://open.spotify.com/artist/6ykgQbKcZFy5qoKBU4YiWj"
+        }
+      ],
+      "duration_ms": 170666,
+      "name": "Keep It 100",
+      "url": "https://open.spotify.com/track/2g9RfCXZna6roc6hjvoCn1"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -523,6 +631,26 @@
       "duration_ms": 111537,
       "name": "Level I'm At",
       "url": "https://open.spotify.com/track/0YGjMmz3C622iSLqEqQPGv"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "LaZy, but i have goals (Banned From Vermont)",
+        "url": "https://open.spotify.com/album/4Sfiv5MRybl90Z4iloexTy"
+      },
+      "artists": [
+        {
+          "name": "North Ave Jax",
+          "url": "https://open.spotify.com/artist/7t3WSgiRVbVsTIbsgcHVrY"
+        },
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        }
+      ],
+      "duration_ms": 157059,
+      "name": "Eastside (with Lil Tjay) - Remix",
+      "url": "https://open.spotify.com/track/7zOoDCREaLK0mFa478jmlH"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -747,26 +875,6 @@
       "duration_ms": 170710,
       "name": "MMY Freestyle",
       "url": "https://open.spotify.com/track/6cT6Qvq4eWtSlw7hsSjWOz"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "LaZy, but i have goals (Banned From Vermont)",
-        "url": "https://open.spotify.com/album/4Sfiv5MRybl90Z4iloexTy"
-      },
-      "artists": [
-        {
-          "name": "North Ave Jax",
-          "url": "https://open.spotify.com/artist/7t3WSgiRVbVsTIbsgcHVrY"
-        },
-        {
-          "name": "Lil Tjay",
-          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
-        }
-      ],
-      "duration_ms": 157059,
-      "name": "Eastside (with Lil Tjay) - Remix",
-      "url": "https://open.spotify.com/track/7zOoDCREaLK0mFa478jmlH"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -1151,22 +1259,6 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "WASTE NO TIME",
-        "url": "https://open.spotify.com/album/6e5f6M6FQLhi8pSgxazQ1a"
-      },
-      "artists": [
-        {
-          "name": "AJRadico",
-          "url": "https://open.spotify.com/artist/6n7llPn2HLKS375ZyJQ2VR"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "WASTE NO TIME",
-      "url": "https://open.spotify.com/track/0jF9AZAaMv49jsy3InMUjQ"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
         "name": "DIAMOND DALLAS.",
         "url": "https://open.spotify.com/album/5bWtO72zAGUbqaWOuK0zcl"
       },
@@ -1379,22 +1471,6 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Walk Em",
-        "url": "https://open.spotify.com/album/5SAkuoaJVtQkzNCeA7EN8L"
-      },
-      "artists": [
-        {
-          "name": "26ar",
-          "url": "https://open.spotify.com/artist/5Juzk12OF6455izbnUr10x"
-        }
-      ],
-      "duration_ms": 121285,
-      "name": "Walk Em",
-      "url": "https://open.spotify.com/track/7Fb1CXeHkU4axxhebmT7Io"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
         "name": "RICH HUSTLE",
         "url": "https://open.spotify.com/album/0PJY2gSMWWAzcOq672mUac"
       },
@@ -1575,26 +1651,6 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Life In Plastic 3",
-        "url": "https://open.spotify.com/album/1dBsWvtX0Ji3sMHKjvjEyR"
-      },
-      "artists": [
-        {
-          "name": "DreamDoll",
-          "url": "https://open.spotify.com/artist/1nsdnHv49z0H5oPj3sJ3to"
-        },
-        {
-          "name": "Tish Hyman",
-          "url": "https://open.spotify.com/artist/6WzffCtFJ1iDsAwEV35h6K"
-        }
-      ],
-      "duration_ms": 158901,
-      "name": "Misunderstood (feat. Tish Hyman)",
-      "url": "https://open.spotify.com/track/4VnOiQpgmc3uPLc9iYWhsT"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
         "name": "Luv Me Again",
         "url": "https://open.spotify.com/album/5eJKFgn1w9nPytqjnt1x0s"
       },
@@ -1723,26 +1779,6 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "2000",
-        "url": "https://open.spotify.com/album/261LWEVYViMXijB95mAty3"
-      },
-      "artists": [
-        {
-          "name": "Joey Bada$$",
-          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
-        },
-        {
-          "name": "Westside Gunn",
-          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
-        }
-      ],
-      "duration_ms": 178786,
-      "name": "Brand New 911",
-      "url": "https://open.spotify.com/track/1SJnJJmrqRyE8YSdhEtbPv"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
         "name": "Fly Sh!t",
         "url": "https://open.spotify.com/album/38tlAzTpYRs5lL14yBjLxj"
       },
@@ -1755,22 +1791,6 @@
       "duration_ms": 135133,
       "name": "Fly Sh!t",
       "url": "https://open.spotify.com/track/3HbMXSKuTdKWChpvMIKhg5"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Dear Life",
-        "url": "https://open.spotify.com/album/6DoMHHNrKIdY1716LUmdfZ"
-      },
-      "artists": [
-        {
-          "name": "Marlon Craft",
-          "url": "https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb"
-        }
-      ],
-      "duration_ms": 153750,
-      "name": "Dear Life",
-      "url": "https://open.spotify.com/track/5A9ctbShMyrhJqLqW0G1lB"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -1795,22 +1815,6 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Ain't My Dog",
-        "url": "https://open.spotify.com/album/3W0OjgFTPdNZJqLUCdcdYT"
-      },
-      "artists": [
-        {
-          "name": "Flipp Dinero",
-          "url": "https://open.spotify.com/artist/2HUwZ0kumzCSlhFcjFZfpp"
-        }
-      ],
-      "duration_ms": 224687,
-      "name": "Ain't My Dog",
-      "url": "https://open.spotify.com/track/55yPlote432saxAHYwlqp4"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
         "name": "Close To Me / Active",
         "url": "https://open.spotify.com/album/0LLTJSobm3YdnJVzcfIz1q"
       },
@@ -1823,30 +1827,6 @@
       "duration_ms": 217895,
       "name": "Close To Me / Active",
       "url": "https://open.spotify.com/track/2jud9pEXGNIedccObMnMTu"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Do Not Disturb ft. NAV and Yung Bleu",
-        "url": "https://open.spotify.com/album/3ZJ5yTJlmFFYVIs2dvFszS"
-      },
-      "artists": [
-        {
-          "name": "Vory",
-          "url": "https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG"
-        },
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        },
-        {
-          "name": "Yung Bleu",
-          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
-        }
-      ],
-      "duration_ms": 207045,
-      "name": "Do Not Disturb ft. NAV and Yung Bleu",
-      "url": "https://open.spotify.com/track/2pY5ZVUFscLWhOonrR4knh"
     }
   ],
   "unique_name": "State of Mind",

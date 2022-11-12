@@ -53,7 +53,7 @@
 | [WALK IN THE PARK](https://open.spotify.com/track/1UYc1yNy5jVZbE29tMZRjX) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [SUBJECT TO CHANGE](https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a) | 3:20 | 2022-09-24 | 2022-10-13 |
 | [We Were Like](https://open.spotify.com/track/5wdwd46vdGxRsy6tBRCSAY) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [We Were Like](https://open.spotify.com/album/0yJAsGozlILYqinG4rzjKc) | 3:00 | 2022-09-08 |  |
 | [WEATHER](https://open.spotify.com/track/2ioPOUIEdDPabQsQly3tWX) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [SUBJECT TO CHANGE](https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a) | 2:54 | 2022-09-24 | 2022-10-17 |
-| [WHAT I HAVE](https://open.spotify.com/track/3MAsvuKpI0k45dWmaYKSnl) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [WHAT I HAVE](https://open.spotify.com/album/6oWk4jEBd7ndcZDHFvzxAC) | 2:58 | 2022-09-08 |  |
+| [WHAT I HAVE](https://open.spotify.com/track/3MAsvuKpI0k45dWmaYKSnl) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [WHAT I HAVE](https://open.spotify.com/album/6oWk4jEBd7ndcZDHFvzxAC) | 2:58 | 2022-09-08 | 2022-11-12 |
 | [Xo](https://open.spotify.com/track/2sYJeORxYzEQItfa9VmiwZ) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [The First Time](https://open.spotify.com/album/4smRLX0wglNhMXGyahWuUf) | 2:54 | 2022-09-08 |  |
 | [Yeah Boy](https://open.spotify.com/track/2WaOQWSv0D1tZNxyLvnGAI) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [The First Time](https://open.spotify.com/album/4smRLX0wglNhMXGyahWuUf) | 3:14 | 2022-09-08 |  |
 

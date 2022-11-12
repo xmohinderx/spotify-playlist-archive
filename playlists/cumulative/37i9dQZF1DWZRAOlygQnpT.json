@@ -379,7 +379,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-17",
+      "date_removed": null,
       "duration_ms": 124600,
       "name": "Arriba Abajo Y Lados",
       "url": "https://open.spotify.com/track/7cUDQaXOJdrZH9LN1Sdbiv"
@@ -883,7 +883,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-04",
+      "date_removed": null,
       "duration_ms": 203258,
       "name": "Con y por Amor",
       "url": "https://open.spotify.com/track/2LQU8M7e2SiI9lD172yvCU"
@@ -1139,10 +1139,28 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 165840,
       "name": "Cuando Era un Jovencito",
       "url": "https://open.spotify.com/track/7B1VlOOC2K4UkWNJNXbG6w"
+    },
+    {
+      "album": {
+        "name": "Los 60 M\u00e9xico",
+        "url": "https://open.spotify.com/album/3xbJUwewilXHc2HOGdPI9n"
+      },
+      "artists": [
+        {
+          "name": "Los Apson",
+          "url": "https://open.spotify.com/artist/63MoX25vZtzCSTvRFkAsnW"
+        }
+      ],
+      "date_added": "2020-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167333,
+      "name": "Cuando yo era un jovencito",
+      "url": "https://open.spotify.com/track/2rAHWCsi5TaVUf1f6lJ41d"
     },
     {
       "album": {
@@ -1265,7 +1283,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 155637,
       "name": "Dieciseis Toneladas",
       "url": "https://open.spotify.com/track/4XDg3dwJESetPcy8CgbEuD"
@@ -1557,6 +1575,24 @@
       "duration_ms": 200045,
       "name": "El Pecador",
       "url": "https://open.spotify.com/track/1lDx45n8dnAU1v9yct5bxU"
+    },
+    {
+      "album": {
+        "name": "Antolog\u00eda, Vol. 1",
+        "url": "https://open.spotify.com/album/027jfxDzFzMqctroZ8aI9B"
+      },
+      "artists": [
+        {
+          "name": "Alberto Vazquez",
+          "url": "https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc"
+        }
+      ],
+      "date_added": "2020-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200063,
+      "name": "El Pecador",
+      "url": "https://open.spotify.com/track/2ZUrP4mKzA3P97LDbHTibr"
     },
     {
       "album": {
@@ -1859,7 +1895,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-26",
+      "date_removed": null,
       "duration_ms": 172480,
       "name": "Hanky Panky",
       "url": "https://open.spotify.com/track/3q57sljRO7snXYIsgaBgJT"
@@ -1877,7 +1913,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 142800,
       "name": "Hazme una Se\u00f1al - Gimme Little Sign",
       "url": "https://open.spotify.com/track/0mIBr5Hvy96H5LaRnSi1iS"
@@ -2158,6 +2194,24 @@
     },
     {
       "album": {
+        "name": "Rock Hispano Americano",
+        "url": "https://open.spotify.com/album/335W7j0duXfBBJiDcZ4U5N"
+      },
+      "artists": [
+        {
+          "name": "Los Rebeldes Del Rock",
+          "url": "https://open.spotify.com/artist/5ahSHu8Ulm48wkQalpmjb5"
+        }
+      ],
+      "date_added": "2020-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158493,
+      "name": "La Hiedra Venenosa",
+      "url": "https://open.spotify.com/track/4vC2zMOE1PaBMSYyvaN7AV"
+    },
+    {
+      "album": {
         "name": "La Hiedra Venenosa",
         "url": "https://open.spotify.com/album/2Moy4btjVyC9w3sAcUcFZe"
       },
@@ -2393,6 +2447,24 @@
       "duration_ms": 142533,
       "name": "La Plaga",
       "url": "https://open.spotify.com/track/0bnx1Uil9gj7G1J6DIN0pN"
+    },
+    {
+      "album": {
+        "name": "La Plaga",
+        "url": "https://open.spotify.com/album/5XGOSEvpopRia9Qoil4OId"
+      },
+      "artists": [
+        {
+          "name": "Los Teen Tops",
+          "url": "https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy"
+        }
+      ],
+      "date_added": "2020-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143699,
+      "name": "La Plaga",
+      "url": "https://open.spotify.com/track/2auNSn5gZXZBzn2wxpRjId"
     },
     {
       "album": {
@@ -3453,7 +3525,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 128626,
       "name": "Presumida - High Class Baby [Remasterizado]",
       "url": "https://open.spotify.com/track/6U3Az2TWNkjzeqV5RztJw7"
@@ -3745,7 +3817,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 148546,
       "name": "Siempre Te Amar\u00e9",
       "url": "https://open.spotify.com/track/3i4wiURtk5Sy6DRdVuL3pG"
@@ -3799,7 +3871,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 161146,
       "name": "Significas Todo Para Mi",
       "url": "https://open.spotify.com/track/2AN25qW8T7TBLpUDTWNDip"
@@ -4451,7 +4523,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 166333,
       "name": "\u00c1ngel de Mi Vida - Angel of the Morning",
       "url": "https://open.spotify.com/track/3yETnVVPXdCOs9k8cNChPA"

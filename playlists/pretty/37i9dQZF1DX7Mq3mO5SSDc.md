@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Mq3mO5SSDc.md) - [plain]
 
 > An homage to the iconic label’s 1980s and 1990s roots.
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,886 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,951 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Mq3mO5SSDc.md) - [plain]
 | 42 | [Mona Lisa](https://open.spotify.com/track/5JV45IebgbfO3EylYV49rl) | [Slick Rick](https://open.spotify.com/artist/1W9qOBYRTfP7HcizWN43G1) | [The Great Adventures Of Slick Rick \(Deluxe Edition\)](https://open.spotify.com/album/4TzJROIsnfOkLUWmeOjt2F) | 4:05 |
 | 43 | [It's Yours \(Radio Mix\)](https://open.spotify.com/track/6SuIF8oh96UPJIIJjKvtIe) | [T La Rock](https://open.spotify.com/artist/2YR8RDJEpKZUbcQgSbBmAp) | [It's Yours](https://open.spotify.com/album/0ZBs6IU80LLsNIzB3RRYEm) | 4:21 |
 | 44 | [Daddy's Little Girl](https://open.spotify.com/track/0ySoJyAbKGLI5yShGBOIQ8) | [Nikki D](https://open.spotify.com/artist/3wHL6veDs4kliIKWrE2Bnb) | [Daddy's Little Girl](https://open.spotify.com/album/6ROlQudStSux3K7kuWU6uG) | 4:28 |
-| 45 | [Deeper](https://open.spotify.com/track/3bjMwXzCljym8xBC34Rbqs) | [Boss](https://open.spotify.com/artist/2ptpFHeJc6Do5z8nyMSwHi), [Papa Juggy](https://open.spotify.com/artist/5v0aP96grdt495fENdbRyf) | [Def Jam 25: DJ Bring That Back](https://open.spotify.com/album/6x9b726D8KTyUDZcvQyzxd) | 3:57 |
-| 46 | [\(You Gotta \) Fight For Your Right \(To Party\)](https://open.spotify.com/track/5ODVxUulyknEVXwjDaZpkp) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [Def Jam Classics, Vol.1](https://open.spotify.com/album/3F579i3hQByHOyqIQUa6fq) | 3:29 |
+| 45 | [\(You Gotta \) Fight For Your Right \(To Party\)](https://open.spotify.com/track/5ODVxUulyknEVXwjDaZpkp) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [Def Jam Classics, Vol.1](https://open.spotify.com/album/3F579i3hQByHOyqIQUa6fq) | 3:29 |
+| 46 | [Deeper](https://open.spotify.com/track/3bjMwXzCljym8xBC34Rbqs) | [Boss](https://open.spotify.com/artist/2ptpFHeJc6Do5z8nyMSwHi), [Papa Juggy](https://open.spotify.com/artist/5v0aP96grdt495fENdbRyf) | [Def Jam 25: DJ Bring That Back](https://open.spotify.com/album/6x9b726D8KTyUDZcvQyzxd) | 3:57 |
 | 47 | [Headbanger](https://open.spotify.com/track/17GdAx0kHOFNXZiCj8HuOW) | [EPMD](https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN), [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM), [K\-Solo](https://open.spotify.com/artist/0knb2mXB2y0L44J05Nj6zX) | [Out Of Business \(Deluxe Edition\)](https://open.spotify.com/album/4TdiCmBKujkiyMeJ1guJJa) | 4:51 |
 | 48 | [Tie Goes To The Runner](https://open.spotify.com/track/2TZuNkLb0J6oKLEdlZ0XX3) | [Public Enemy](https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd) | [Greatest Misses](https://open.spotify.com/album/6ViErzJ80VCeOnrTPvX2nW) | 4:17 |
 | 49 | [The Ruler's Back](https://open.spotify.com/track/3cb6gJ7SHYuZ3NVm996ffD) | [Slick Rick](https://open.spotify.com/artist/1W9qOBYRTfP7HcizWN43G1) | [The Great Adventures Of Slick Rick \(Deluxe Edition\)](https://open.spotify.com/album/4TzJROIsnfOkLUWmeOjt2F) | 5:36 |
 | 50 | [Da Joint](https://open.spotify.com/track/0YrijnoCwibZMUOShvJC9e) | [EPMD](https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN) | [Good Morning Music: Hip Hop Bangers](https://open.spotify.com/album/5yRjtWycg6G2DUOnNGR8bQ) | 3:28 |
 
-Snapshot ID: `MTYzOTQ3Nzc4MywwMDAwMDAwMGE0ZjQ1N2I4MDMyMDA4MjM2ZmE3ZmQwMGEwYzE1NmY4`
+Snapshot ID: `MTYzOTQ3Nzc4MywwMDAwMDAwMDVhNDdiNWI2MjljMTg2YWFlZjBmYzY4NGYwNjdjNTQ1`

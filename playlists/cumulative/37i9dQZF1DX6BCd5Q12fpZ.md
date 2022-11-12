@@ -4,7 +4,7 @@
 
 > Floor fillers from the long, illustrious history of the show\. Cover: Verka Serduchka
 
-150 songs - 7 hr 30 min - [published](https://open.spotify.com/playlist/1exkrkQUMlN50irx29MF90)
+152 songs - 7 hr 36 min - [published](https://open.spotify.com/playlist/1exkrkQUMlN50irx29MF90)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [Euphoria \- Single Version](https://open.spotify.com/track/7tY2meg4csUMUjPXgFBRKk) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Euphoria](https://open.spotify.com/album/75aUQwIa504ehmWDDkXMXi) | 3:01 | 2022-05-16 | 2022-11-11 |
 | [Every way that I can \- English Radio Edit](https://open.spotify.com/track/2oWD0Kfu4JogKWouqax5GW) | [Sertab](https://open.spotify.com/artist/6WyyxMwz028GEkIIWOP2qq) | [Alpha hrises epitihies 2004](https://open.spotify.com/album/4bzPUq5nBrxjiDQVgHibbe) | 2:48 | 2022-02-28 | 2022-07-29 |
 | [Every Way That I Can \- Philippe Laurent from Galleon Radio Edit](https://open.spotify.com/track/588wm4NEtOiTHT2N58enQ6) | [Sertab Erener](https://open.spotify.com/artist/4W31XN2JH8mC54NkHdh04s) | [Every Way That I Can](https://open.spotify.com/album/4D2meUQ9mCljoEzvjspr2T) | 2:47 | 2020-02-25 | 2022-03-01 |
-| [Fairytale](https://open.spotify.com/track/6NgYIETQ8U72CVfkzYhK30) | [Alexander Rybak](https://open.spotify.com/artist/3LLNDXrxL4uxXtnUJS5XWM) | [Fairytales](https://open.spotify.com/album/7k1b8wzjRsSTmIBuRlBrxp) | 3:03 | 2022-05-16 |  |
+| [Fairytale](https://open.spotify.com/track/3MnAsEBBsEj86d03RgO4EM) | [Alexander Rybak](https://open.spotify.com/artist/3LLNDXrxL4uxXtnUJS5XWM) | [Fairytale](https://open.spotify.com/album/6EWWmTEOXI58PL13vNk67S) | 3:02 | 2022-05-16 |  |
+| [Fairytale](https://open.spotify.com/track/6NgYIETQ8U72CVfkzYhK30) | [Alexander Rybak](https://open.spotify.com/artist/3LLNDXrxL4uxXtnUJS5XWM) | [Fairytales](https://open.spotify.com/album/7k1b8wzjRsSTmIBuRlBrxp) | 3:03 | 2022-05-16 | 2022-11-12 |
 | [Fairytale](https://open.spotify.com/track/2htdOgnrPTVGlXJ2cqhiNx) | [Alexander Rybak](https://open.spotify.com/artist/3LLNDXrxL4uxXtnUJS5XWM) | [Eurovision Song Contest Moscow 2009](https://open.spotify.com/album/30kwbl8uJa8YiY9WMLP4kS) | 3:03 | 2020-02-25 | 2022-07-29 |
 | [Fly on the Wings of Love](https://open.spotify.com/track/4v2RaPHSsTvNkggw3RqyeT) | [Brødrene Olsen](https://open.spotify.com/artist/4pM3DAhLOqMQT5z4pl0Sri) | [Wings Of Love](https://open.spotify.com/album/0dF4TpultM9Ch3jazO0cN5) | 3:05 | 2022-05-16 | 2022-11-11 |
 | [Fly On The Wings Of Love](https://open.spotify.com/track/0fDTE06NqWwAXyBc77I3qi) | [Olsen Brothers](https://open.spotify.com/artist/5jZxBfE5mClM7utvANvpgA) | [Celebration](https://open.spotify.com/album/6aqsw3SU3ocZZlWD7rmTbv) | 3:04 | 2020-02-25 | 2022-07-29 |
@@ -87,7 +88,7 @@
 | [Marry Me](https://open.spotify.com/track/0lI9LRra3k2RAYrNO0Htcc) | [Krista Siegfrids](https://open.spotify.com/artist/5bqU2hCGu9WZW4HfKiNH39) | [Ding Dong!](https://open.spotify.com/album/68w0MsT47MMzq28AJ3bedc) | 3:09 | 2020-02-25 | 2022-07-29 |
 | [Monsters](https://open.spotify.com/track/0JGbU6NlewrskD138Wq04b) | [Saara Aalto](https://open.spotify.com/artist/2OsS8RgsvMnTgDsbWVzzPn) | [Monsters](https://open.spotify.com/album/3glqvX58NEoX9D7Y60N429) | 3:00 | 2020-02-25 |  |
 | [Moustache](https://open.spotify.com/track/3XiEknHgHpwCuk3CuA2RIV) | [Twin Twin](https://open.spotify.com/artist/2hJPfJfj1VpL2AJvelxxzx) | [Moustache \(Eurovision 2014\)](https://open.spotify.com/album/6AMLDrreLMmEvFYPUbBHh7) | 2:49 | 2022-03-01 | 2022-07-23 |
-| [Moustache](https://open.spotify.com/track/6ILOO5bZA9x6zanAMO0hKr) | [Twin Twin](https://open.spotify.com/artist/2hJPfJfj1VpL2AJvelxxzx) | [Vive la vie \(Edition spéciale\)](https://open.spotify.com/album/64TJ7px9P7xSUXHB3604uf) | 2:49 | 2022-05-16 |  |
+| [Moustache](https://open.spotify.com/track/6ILOO5bZA9x6zanAMO0hKr) | [Twin Twin](https://open.spotify.com/artist/2hJPfJfj1VpL2AJvelxxzx) | [Vive la vie \(Edition spéciale\)](https://open.spotify.com/album/64TJ7px9P7xSUXHB3604uf) | 2:49 | 2022-05-16 | 2022-11-12 |
 | [Moustache \- Eurovision 2014 \- France](https://open.spotify.com/track/5XikhFoJEvwYWEcZbeYEeQ) | [Twin Twin](https://open.spotify.com/artist/2hJPfJfj1VpL2AJvelxxzx) | [Eurovision Song Contest 2014 Copenhagen](https://open.spotify.com/album/2ChBXM2MXu0Kvmkq9gAbXm) | 2:51 | 2020-02-25 | 2022-07-27 |
 | [My Heart Goes Boom](https://open.spotify.com/track/6GViWczPtH2ky3RBYycDhI) | [Charmed](https://open.spotify.com/artist/438uz6Ss2rTiWYPw0dDwF8) | [Charmed](https://open.spotify.com/album/1dl3hAtvGLmsuDJVzJcY9D) | 3:03 | 2020-02-25 | 2022-07-29 |
 | [My Number One](https://open.spotify.com/track/6LkCvCc9oFoLDv4DLhzTox) | [Helena Paparizou](https://open.spotify.com/artist/7D7k550IB6EszWmzVVCJSK) | [My Number One](https://open.spotify.com/album/0JLlI8YNAvvrhHAwz5UCgI) | 2:55 | 2020-02-25 |  |
@@ -147,6 +148,7 @@
 | [Walk On Water](https://open.spotify.com/track/6t9ECIs2ypkHQQ49VvhA3h) | [Ira Losco](https://open.spotify.com/artist/6JSaVx77J1mck0Oyv5D0rV) | [Walk On Water](https://open.spotify.com/album/2gdlErpWJdjuXOo4BJg0DV) | 3:05 | 2020-02-25 |  |
 | [Waterline](https://open.spotify.com/track/0xCMGAf80y3dUevG2qXpvS) | [Jedward](https://open.spotify.com/artist/3WmFNCPmnVuZbVMeExH8hT) | [Young Love](https://open.spotify.com/album/25yASEbY2Pz60pCnx7l3kx) | 3:03 | 2020-02-25 |  |
 | [Waterloo](https://open.spotify.com/track/1CsuK5dlnWAkWhffeteqH3) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [ABBA Gold](https://open.spotify.com/album/2rp5riHULWgrXPsDtsp1ir) | 2:45 | 2020-02-25 | 2022-03-01 |
+| [Waterloo](https://open.spotify.com/track/75uJ2UrLjcjqvIYKkADjPU) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Class of '74](https://open.spotify.com/album/5Uh4u1fz6uu71B6lXm92Lc) | 2:45 | 2022-05-16 |  |
 | [Waterloo](https://open.spotify.com/track/10fRfvMo6WCO9Gaawxy2U9) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Waterloo](https://open.spotify.com/album/5JGTMU2ovYCxC6nfJbft8W) | 2:48 | 2022-03-01 | 2022-07-29 |
 | [Waterloo](https://open.spotify.com/track/3Dy4REq8O09IlgiwuHQ3sk) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Waterloo](https://open.spotify.com/album/5gSBDA6ufk8UZejT4XR7av) | 2:48 | 2022-05-16 | 2022-11-11 |
 | [We Are the Winners \- Original Version](https://open.spotify.com/track/2QNb0E7tUeL5fCQFY5Pf02) | [LT United](https://open.spotify.com/artist/0J5IwFSGSb8BaJAFATnlg4) | [We Are the Winners](https://open.spotify.com/album/3cnlnaHwgCq4iZaywK9tG9) | 2:31 | 2020-02-25 | 2022-07-28 |

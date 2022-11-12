@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRkwbkfuyXo.md) - [plain]
 
 > Seguimos arremangados, pariente\. Régulo Caro en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,646 likes - 75 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,883 likes - 75 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRkwbkfuyXo.md) - [plain]
 | 16 | [Cara A La Muerte \(En Vivo\)](https://open.spotify.com/track/2BwQ9RVjAjLpTM8D7SPlsZ) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Morir y Existir En Vivo](https://open.spotify.com/album/3fFAsEBYDHC89w3Unkk9fY) | 4:42 |
 | 17 | [Culiacán Vs\. Mazatlán](https://open.spotify.com/track/6TlCQBVenVdJWJknrVeCYr) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Renovar O Morir](https://open.spotify.com/album/0Npb5RTXimPOeUQONeuz3A) | 2:49 |
 | 18 | [La Hummer Y El Camaro](https://open.spotify.com/track/6bRkTmvWjUr6aCXrKGIaG5) | [Voz De Mando](https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx), [Escolta De Guerra](https://open.spotify.com/artist/3K6LZGkzrJ4tD0pSrT9QZl), [Jorge Santacruz](https://open.spotify.com/artist/2bPZFtRkurwmMFJ16lnEFx) | [Los Mejores Corridos De](https://open.spotify.com/album/67hj85XV3QKcgKW48hJM4x) | 3:31 |
-| 19 | [El Tamarindo](https://open.spotify.com/track/0ultN7TRlSdYf7dD37szrT) | [Los Buitres De Culiacan Sinaloa](https://open.spotify.com/artist/535ap2f16rTOKTMPTkvbGB) | [Los Buitres Con Tololoche](https://open.spotify.com/album/0zoLvMVhdvhHRFSpQpnO8E) | 2:29 |
+| 19 | [Corrido del Tamarindo \(Feat\. El Komander\)](https://open.spotify.com/track/6t7RQGzGSMGtRxbCH2EpTv) | [Los Buitres De Culiacan Sinaloa](https://open.spotify.com/artist/535ap2f16rTOKTMPTkvbGB), [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [El Movimiento Alterado \- Grandes Exitos](https://open.spotify.com/album/58B6nJm896OlSmn86qrzyv) | 2:22 |
 | 20 | [Comandos Del M.P \(500 Balazos\)](https://open.spotify.com/track/2vtB7ASUDlJkTB7sn1yugu) | [Voz De Mando](https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx) | [Con La Nueva Federación](https://open.spotify.com/album/1MsMQsAojpvdsE6wGtboSa) | 2:19 |
 | 21 | [Mi Amigo el de Arriba](https://open.spotify.com/track/2ThDyuLg8XDB0UtEEOLe7t) | [Los Inquietos Del Norte](https://open.spotify.com/artist/0pgvlX0BkfmeirXTDiNmya) | [La Gritera](https://open.spotify.com/album/1SG347OQS3AuoDcH3y07Z4) | 2:26 |
 | 22 | [El Enamorado](https://open.spotify.com/track/0CcFhIRRW468bAlAwD9FFs) | [Los Titanes De Durango](https://open.spotify.com/artist/3wGRXHdFCbyHhyVbdAWNrd) | [Los Locos Del Corrido](https://open.spotify.com/album/1SkvbWNmVnuTQwNzWRIBTo) | 2:34 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRkwbkfuyXo.md) - [plain]
 | 74 | [J\. Walker](https://open.spotify.com/track/59sVHAfxiIX1uAKXjFksAI) | [Colmillo Norteño](https://open.spotify.com/artist/5YvrXxWXf9n9enAV8HHZSN) | [Sueño Guajiro](https://open.spotify.com/album/7ep8byHyAYeAYiumLDQrhr) | 2:25 |
 | 75 | [El Diablo Como Enemigo](https://open.spotify.com/track/47Cdv8CEajQn17CtUhYvU5) | [Adan Romero](https://open.spotify.com/artist/1gkGKzeXQYnVPI76yDlOqz) | [Corridos Prohibidos](https://open.spotify.com/album/1X4znZJ1tE300zU5dd060r) | 2:49 |
 
-Snapshot ID: `MTY2Nzg2NjQ3NywwMDAwMDAwMGQ3NWQ3MTE0OTFhZWU3ZWQ4Yjg2MWM1Mjc3MjFlMTkx`
+Snapshot ID: `MTY2Nzg2NjQ3NywwMDAwMDAwMDMwNDdiZDVhMTc0NjcxMTQ0OWU3NjRhYzA3YTYyMTIw`

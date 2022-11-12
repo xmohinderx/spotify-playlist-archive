@@ -4,7 +4,7 @@
 
 > Scary monsters and filthy drops.
 
-102 songs - 6 hr 9 min - [published](https://open.spotify.com/playlist/0Sw1qMD3QYX3Np7RcmZMZR)
+103 songs - 6 hr 12 min - [published](https://open.spotify.com/playlist/0Sw1qMD3QYX3Np7RcmZMZR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,8 @@
 | [Phantom \(Haunted Version\) \[feat\. Tokyo's Revenge\]](https://open.spotify.com/track/53EkOo1VrJYEZCvBDLKoiK) | [Allen Mock](https://open.spotify.com/artist/1FWowTsaucHkPDgmAGGk4T), [Chow Chow](https://open.spotify.com/artist/2qntwTfzCkrCHjzi4SPSAt), [TOKYO’S REVENGE](https://open.spotify.com/artist/5TbLOwv8BNnik3f03NZJlt) | [Phantom \(Haunted Version\) \[feat\. Tokyo's Revenge\]](https://open.spotify.com/album/2MXEvZxDkoiCm0sNKXoSgd) | 2:47 | 2021-10-28 |  |
 | [Promises \- Skrillex & Nero Remix](https://open.spotify.com/track/7569Hbv0FUS7vjkdGvdgeZ) | [NERO](https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD) | [Welcome Reality +](https://open.spotify.com/album/1hMXqmEdtxYenRDVm4hEgu) | 4:28 | 2021-10-28 |  |
 | [Psycho \(RAC Mix\)](https://open.spotify.com/track/6Hhg2FepgSwCDI2EsENmiQ) | [LVCRFT](https://open.spotify.com/artist/49JFqkKqN2PWANlXIQlB5T), [redruMNDR](https://open.spotify.com/artist/0rGZih8ZcoxWdXjnNi3Z51), [RAC](https://open.spotify.com/artist/4AGwPDdh1y8hochNzHy5HC) | [The Sequel \(The Remixes\)](https://open.spotify.com/album/0eflAEjBSxtYJkz227JFjw) | 3:11 | 2021-10-28 | 2022-07-29 |
-| [Psycho \- RAC Mix](https://open.spotify.com/track/2WyZycWzHXADJBDKOFc5s2) | [LVCRFT](https://open.spotify.com/artist/49JFqkKqN2PWANlXIQlB5T), [redruMNDR](https://open.spotify.com/artist/0rGZih8ZcoxWdXjnNi3Z51), [RAC](https://open.spotify.com/artist/6JHDUQZMO6HDE6MyDVtUjR) | [The Sequel \(The Remixes\)](https://open.spotify.com/album/3oSmMnaNq31Ys9v8If6Y8Y) | 3:11 | 2021-10-28 |  |
+| [Psycho \- RAC Mix](https://open.spotify.com/track/2WyZycWzHXADJBDKOFc5s2) | [LVCRFT](https://open.spotify.com/artist/49JFqkKqN2PWANlXIQlB5T), [redruMNDR](https://open.spotify.com/artist/0rGZih8ZcoxWdXjnNi3Z51), [RAC](https://open.spotify.com/artist/6JHDUQZMO6HDE6MyDVtUjR) | [The Sequel \(The Remixes\)](https://open.spotify.com/album/3oSmMnaNq31Ys9v8If6Y8Y) | 3:11 | 2021-10-28 | 2022-11-12 |
+| [Psycho \- RAC Mix](https://open.spotify.com/track/3auW9A1llZ8bbGBh9a1t5U) | [LVCRFT](https://open.spotify.com/artist/49JFqkKqN2PWANlXIQlB5T), [redruMNDR](https://open.spotify.com/artist/0rGZih8ZcoxWdXjnNi3Z51), [RAC](https://open.spotify.com/artist/6JHDUQZMO6HDE6MyDVtUjR) | [Halfway There: The Half\-O\-Ween EP](https://open.spotify.com/album/0q3Zpr4JwzhSLrsTFEGAJK) | 3:12 | 2022-10-28 |  |
 | [Purgatory](https://open.spotify.com/track/5B5QxhlyrJ7UrI4CrkyS28) | [ATLiens](https://open.spotify.com/artist/74RET4rCZPTGzhsLjD0i3g), [SVDDEN DEATH](https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0) | [Purgatory](https://open.spotify.com/album/4zQNp38H2n2RpWZ4Nlyi6f) | 2:49 | 2022-10-21 |  |
 | [RAMPAGE](https://open.spotify.com/track/2QanQ4WoQAb8zwOzweQihV) | [GRAVEDGR](https://open.spotify.com/artist/1kiZfWU37oS0pCOV7Os1Pj) | [6 FEET UNDER](https://open.spotify.com/album/25r8pqNVU29qtWSvIxdxGl) | 2:59 | 2021-10-28 |  |
 | [ROCK IT](https://open.spotify.com/track/1yv3aBLO9rgyEHmAR7jI1M) | [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [ROCK IT](https://open.spotify.com/album/4bhVSIjmRIxUNzCsy7xe6c) | 3:11 | 2021-10-28 |  |

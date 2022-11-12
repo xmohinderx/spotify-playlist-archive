@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDAhqlN7e6W.md) - [plain]
 
 > Hits written and produced by Max Martin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,677 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,835 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [...Baby One More Time](https://open.spotify.com/track/3MjUtNVVq3C8Fn0MP3zhXa) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [...Baby One More Time \(Digital Deluxe Version\)](https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx) | 3:31 |
 | 2 | [I Want It That Way](https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Millennium](https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ) | 3:33 |
 | 3 | [Hot N Cold](https://open.spotify.com/track/1y4eb6hmAvsqlDOl3fx9kk) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [One Of The Boys](https://open.spotify.com/album/0r2BUyPTmpbfuz4rR39mLl) | 3:40 |
-| 4 | [Blank Space](https://open.spotify.com/track/1p80LdxRV74UKvL8gnD7ky) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989](https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j) | 3:51 |
+| 4 | [Blank Space](https://open.spotify.com/track/3LB2qckfpZq7aybaoZKRa2) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Gameday Country](https://open.spotify.com/album/3v4prjENcAzBWYOf8FnzQT) | 3:51 |
 | 5 | [Since U Been Gone](https://open.spotify.com/track/3xrn9i8zhNZsTtcoWgQEAd) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Breakaway](https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq) | 3:08 |
 | 6 | [Blinding Lights](https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:20 |
 | 7 | [Break Free](https://open.spotify.com/track/12KUFSHFgT0XCoiSlvdQi4) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) | [My Everything \(Deluxe\)](https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj) | 3:34 |
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDAhqlN7e6W.md) - [plain]
 | 55 | [One More Night](https://open.spotify.com/track/4XNrMwGx1SqP01sqkGTDmo) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Overexposed \(Deluxe\)](https://open.spotify.com/album/2pjfMmH52fryXVQuWTWOgP) | 3:39 |
 | 56 | [Send My Love \(To Your New Lover\)](https://open.spotify.com/track/5GltPAIcCUULOIAglW6R4l) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Send My Love \(To Your New Lover\)](https://open.spotify.com/album/7hplTHLU8PAVs1forXE2NU) | 3:43 |
 | 57 | [Just Like Fire \(From the Original Motion Picture "Alice Through The Looking Glass"\)](https://open.spotify.com/track/7K5dzhGda2vRTaAWYI3hrb) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Just Like Fire \(From the Original Motion Picture "Alice Through The Looking Glass"\)](https://open.spotify.com/album/09K53TLaJZ156prccNvwuS) | 3:35 |
-| 58 | [Domino](https://open.spotify.com/track/6MAdEUilV2p9RQUqE5bMAK) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Who You Are \(Platinum Edition\)](https://open.spotify.com/album/3ga4adzUpLaS2LDcoqfs2r) | 3:51 |
+| 58 | [Domino](https://open.spotify.com/track/5P7doOWGZOnz0tFvlQwcNA) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Pop Royalty](https://open.spotify.com/album/15WQObBzFWbMEeoUjSjHYl) | 3:51 |
 | 59 | [Bang Bang](https://open.spotify.com/track/3zQtNNsPuWtXQ8f0dr12oE) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Mood Booster Hits](https://open.spotify.com/album/7J4AI2iEJ7fU8aFKZYimkO) | 3:10 |
 | 60 | [Last Friday Night \(T.G.I.F.\)](https://open.spotify.com/track/3avYqdwHKEq8beXbeWCKqJ) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1) | 3:50 |
 | 61 | [Va Va Voom](https://open.spotify.com/track/2jATUzETZL49e6SywauZKE) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Pink Friday ..\. Roman Reloaded \(Deluxe\)](https://open.spotify.com/album/6fABwONLawdFjkDpLx41j8) | 3:03 |
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDAhqlN7e6W.md) - [plain]
 | 73 | [...Ready For It?](https://open.spotify.com/track/2yLa0QULdQr0qAIvVwN6B5) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [reputation](https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv) | 3:28 |
 | 74 | [Hold It Against Me](https://open.spotify.com/track/7Dyq1bhhjknLKEGg4k5NLr) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Femme Fatale \(Deluxe Version\)](https://open.spotify.com/album/0oFBaXLFsUVa2gEmJf4FcJ) | 3:48 |
 | 75 | [Birthday](https://open.spotify.com/track/2xLOMHjkOK8nzxJ4r6yOKR) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM \(Deluxe\)](https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn) | 3:35 |
-| 76 | [That's the Way It Is](https://open.spotify.com/track/5s4catxeZsaWFnOrvrXZHf) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [The Very Best of Celine Dion](https://open.spotify.com/album/51DfHvunyUysUZoBJEwbF8) | 4:01 |
+| 76 | [That's the Way It Is](https://open.spotify.com/track/7a1aqeZM7JCXAMDMZxyr19) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [All the Way...A Decade of Song](https://open.spotify.com/album/2ksJEvjT4ezhBeg6b5Irrx) | 4:01 |
 | 77 | [Your Body](https://open.spotify.com/track/2pmtavvgqZN52EePYxutgk) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Lotus \(Deluxe Version\)](https://open.spotify.com/album/56vCgdP2fIuKtvMu6MBL2Q) | 3:59 |
 | 78 | [The Call](https://open.spotify.com/track/1mxTCArq9EhSg4QPGqhjhT) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Black & Blue](https://open.spotify.com/album/41zXjyVr6dzmchWf8tv3UO) | 3:24 |
 | 79 | [I'm Not a Girl, Not Yet a Woman](https://open.spotify.com/track/1xg1yGPy1Y3YUf44s6TB1o) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Britney \(Digital Deluxe Version\)](https://open.spotify.com/album/5ax3GTsfX5uCUaNgnJsSG5) | 3:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDAhqlN7e6W.md) - [plain]
 | 99 | [On My Mind](https://open.spotify.com/track/3mzZQj92fZR0gKNMUcaM38) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Dance In The Rain](https://open.spotify.com/album/64PS2Vr4erzi9aM5yshUSh) | 3:33 |
 | 100 | [Rise](https://open.spotify.com/track/1CwNogTShsnsn1C8UhRmYX) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Rise](https://open.spotify.com/album/7oqEOzrJhQkMHvHKEHEMrK) | 3:23 |
 
-Snapshot ID: `MTY1ODM0Nzk2MywwMDAwMDAwMGUzMThlNzFjNTI3NjBhMjJkZGE0OTdhNzRhNGFmN2Vk`
+Snapshot ID: `MTY1ODM0Nzk2MywwMDAwMDAwMDBlMDhmMzk4YTliZDljNTU3ODgxOTkyNzYzZjQwZTIy`

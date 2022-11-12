@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbhNh5DYTmwV.md) - [plain]
 
 > ¡Las canciones más chéveres están sonando aquí!
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,986 likes - 60 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,021 likes - 60 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbhNh5DYTmwV.md) - [plain]
 | 27 | [No Te Pido Flores](https://open.spotify.com/track/2ctc9nwRgXeeIFaFWTRrRl) | [Fanny Lu](https://open.spotify.com/artist/6GRC8segVAr34gm6pjfSoQ) | [Lágrimas Cálidas](https://open.spotify.com/album/49o3kre7XVq6eandibHyQj) | 4:04 |
 | 28 | [Niña](https://open.spotify.com/track/6hHxqj04s5BbpoNGz25GUm) | [Mauricio & PalodeAgua](https://open.spotify.com/artist/3odWGV3m6MfdawwEXIyyhr) | [Un Canto Caribeño](https://open.spotify.com/album/6F9yJwO5FdMarbsSlZeQsC) | 4:12 |
 | 29 | [Carito](https://open.spotify.com/track/5czkBkWogUvTf2jleGyHaQ) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Dejame Entrar](https://open.spotify.com/album/7qRqrZOCvzZLsNlOawHURC) | 3:38 |
-| 30 | [Andas En Mi Cabeza](https://open.spotify.com/track/23WI5V2eD4EyGKxSl7Pyeq) | [Chino & Nacho](https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Andas En Mi Cabeza](https://open.spotify.com/album/0MaeGZFHJa76NUjYux7ygZ) | 4:07 |
+| 30 | [Andas En Mi Cabeza](https://open.spotify.com/track/2IafEBR4c1ATwDLujqKlrm) | [Chino & Nacho](https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Modo Carrete Vol\. 3](https://open.spotify.com/album/4GTpglJTUq4HDKeQoRETZJ) | 4:07 |
 | 31 | [Vivo en el limbo](https://open.spotify.com/track/6qvCE9WhoF57af6boMwaOz) | [Kaleth Morales](https://open.spotify.com/artist/1JzCCMAjM3FCr9eM3jp0uH), [Andres Herrera](https://open.spotify.com/artist/2b7FVYTLTkP4YTT0VokeJU) | [La Hora de la Verdad](https://open.spotify.com/album/3Go9Lvj1m9UOzidlfDOFVA) | 6:16 |
 | 32 | [Colgando en tus manos \(con Marta Sánchez\)](https://open.spotify.com/track/3UI9I3e1g1y5T3SMfdgfGO) | [Carlos Baute](https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77), [Marta Sánchez](https://open.spotify.com/artist/368rTiMKMrz3b03az6B14w) | [De mi puño y letra \- Edicion Coleccionista](https://open.spotify.com/album/1cz8fhax6HNiCSE1uuV2Vs) | 3:50 |
 | 33 | [Dónde Está el Amor](https://open.spotify.com/track/5GnRzPYfKsnrvnxVDT8OUJ) | [Afrodisiaco](https://open.spotify.com/artist/184bX1ApmIMyWU3TcpTy93) | [Nada Está Perdido](https://open.spotify.com/album/5h3H8naKWOsRnOhs8iO0zS) | 2:55 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbhNh5DYTmwV.md) - [plain]
 | 59 | [Déjala Que Vuelva \(feat\. Manuel Turizo\)](https://open.spotify.com/track/1j6xOGusnyXq3l6IryKF3G) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Ubuntu](https://open.spotify.com/album/0sGGdQF7f03jwgaD9qhtUQ) | 3:40 |
 | 60 | [Te Mentiría](https://open.spotify.com/track/3LSRGvBWTdnUBJC32oBFnZ) | [Gian Marco](https://open.spotify.com/artist/2gDqGAadPIPiA7LtmNn74g) | [A Tiempo](https://open.spotify.com/album/6sjzlisCVw3NUAUV5q9tCd) | 3:47 |
 
-Snapshot ID: `MTY2MjUwMjUzOCwwMDAwMDAwMDE0Njc2ZjM2ZWQ0MTE4YzUzYmYyYTNkYTFlZWJhNTE0`
+Snapshot ID: `MTY2MjUwMjUzOCwwMDAwMDAwMDJiNWNiMTM4N2I3ZDczZWY4NzY4N2YzNzI3NGY4NmM5`

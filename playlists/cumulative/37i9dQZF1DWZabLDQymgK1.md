@@ -4,7 +4,7 @@
 
 > <ahref="https://www.instagram.com/homoelectric/?hl=en">Homoelectric</a> is a legendary queer\-clubbing utopia, creating a safe space at the heart of Manchester’s LGBTQIA+ scene\. This is their sound of Pride.
 
-65 songs - 6 hr 3 min - [published](https://open.spotify.com/playlist/4KFliLiyOHO98s1YWCgllz)
+66 songs - 6 hr 9 min - [published](https://open.spotify.com/playlist/4KFliLiyOHO98s1YWCgllz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [Battle](https://open.spotify.com/track/1Y8R1CKdai0oycCf6K0sjh) | [Wookie](https://open.spotify.com/artist/4MswQnojZK1oRaxNsACqjv), [Lain](https://open.spotify.com/artist/4hq76gdVn9hwIfTks4IG9B) | [Wookie \(Deluxe Edition\)](https://open.spotify.com/album/6GV8kkTilYLCQ8qA39yYzk) | 5:00 | 2021-06-02 |  |
 | [Beam Me Up \- Prins Thomas Diskomiks \- Single Edit](https://open.spotify.com/track/63o8AFj8EjvyUvR8Ez01C5) | [Midnight Magic](https://open.spotify.com/artist/3KuNrap7xPWVJCyBHAE4le), [Prins Thomas](https://open.spotify.com/artist/4rsEVNO1tGTY0beCnsnHi6) | [Beam Me Up \(Prins Thomas Diskomiks \- Single Edit\)](https://open.spotify.com/album/49dNYLSLbFUnguSK2XVqfl) | 5:00 | 2021-06-02 |  |
 | [Bourgie Bourgie](https://open.spotify.com/track/5ul1HJv0yJHYzvUKWjMmz2) | [John Davis](https://open.spotify.com/artist/6e7u1ZLjBS8Pp9CQxGA0rc), [The Monster Orchestra](https://open.spotify.com/artist/1I0M6cH3V4GnOunNUix9s2) | [Joey Negro and Sean P Present the Best of Disco Spectrum](https://open.spotify.com/album/6Snhq073bHXQHQi4BVzD4K) | 6:09 | 2021-06-02 | 2022-07-29 |
-| [BOURGIE, BOURGIE](https://open.spotify.com/track/1LieR25D1qtdj3TdeCRAzY) | [John Davis & The Monster Orchestra](https://open.spotify.com/artist/4N81xA4vupQhBTvKFHCD36) | [The Monster Strikes Again](https://open.spotify.com/album/3pJ6NLQXBjbpOMw6xptsAR) | 6:12 | 2021-06-02 |  |
+| [BOURGIE, BOURGIE](https://open.spotify.com/track/1LieR25D1qtdj3TdeCRAzY) | [John Davis & The Monster Orchestra](https://open.spotify.com/artist/4N81xA4vupQhBTvKFHCD36) | [The Monster Strikes Again](https://open.spotify.com/album/3pJ6NLQXBjbpOMw6xptsAR) | 6:12 | 2021-06-02 | 2022-11-12 |
+| [Bourgie, Bourgie \- Original Mix](https://open.spotify.com/track/1QWNYyZMTOCtrds6F6bH7L) | [John Davis & The Monster Orchestra](https://open.spotify.com/artist/4N81xA4vupQhBTvKFHCD36) | [Bourgie, Bourgie](https://open.spotify.com/album/23R8OiWrISAae5OtHjvccN) | 6:12 | 2021-06-02 |  |
 | [Caught Out There](https://open.spotify.com/track/1ZNOEXFljuBPOf5m0SREdi) | [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM) | [The Hits](https://open.spotify.com/album/2pPNC9cSF3mhMZcT7t3iw7) | 4:09 | 2021-06-02 | 2022-11-11 |
 | [Caught Out There \- Single Radio Edit](https://open.spotify.com/track/3anCuIMGHPXLfPdoxZaGPg) | [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM) | [Women Of R&B](https://open.spotify.com/album/6UXnUgKNd8oH238Qkf1mNR) | 4:09 | 2021-06-02 |  |
 | [Caught Out There \- Single Radio Edit](https://open.spotify.com/track/70lvdxEHWpIigLeYOLhrxR) | [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM) | [The Hits](https://open.spotify.com/album/0nEmvXtfDOXW3sFAoqOitl) | 4:11 | 2021-06-02 | 2022-07-29 |

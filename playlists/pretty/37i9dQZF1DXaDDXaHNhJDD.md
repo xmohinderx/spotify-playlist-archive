@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDDXaHNhJDD.md) - [plain]
 
 > An exclusive collection of Malayalam super hit songs.<br/>Cover: Thallumaala
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,954 likes - 75 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,097 likes - 75 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDDXaHNhJDD.md) - [plain]
 | 41 | [Pavizha Mazha](https://open.spotify.com/track/36bYASwok7rBHAkrqiPdnu) | [P\. S\. Jayhari](https://open.spotify.com/artist/4cR7Pr8HL7eddm7Zm79gV4), [K\. S\. Harisankar](https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB) | [Athiran \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2GMlzCTaWknSK8sTnFm8KJ) | 3:53 |
 | 42 | [Cholappenne \- From "Malayankunju"](https://open.spotify.com/track/6v0c0neh1gNUX5r8B4GdFT) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Vijay Yesudas](https://open.spotify.com/artist/0aUQnP4HhUQXcurZl9GJIA) | [Cholappenne \(From "Malayankunju"\)](https://open.spotify.com/album/3d18bx7mnfeA5Ne0S8Epyb) | 3:42 |
 | 43 | [Kamini](https://open.spotify.com/track/5sC8JC6dHcEifGMB8xPbbO) | [K\. S\. Harisankar](https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB) | [Anugraheethan Antony](https://open.spotify.com/album/2DJyACvp30UFBGAvk9UGmL) | 3:58 |
-| 44 | [Kannilente \(From "Marakkar \- Arabikadalinte Simham"\)](https://open.spotify.com/track/7nh3AwCaZwynihlPhvAaqI) | [Ronnie Raphael](https://open.spotify.com/artist/0de21hsTsnpfWS6cTDRhhe), [Vineeth Sreenivasan](https://open.spotify.com/artist/2uocTdMBXjTsS7QmAj7src), [Shweta Mohan](https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9), [Zia Ul Haq](https://open.spotify.com/artist/3kPqgCCGlCGS9owID1l5n9) | [Kannilente \(From "Marakkar \- Arabikadalinte Simham"\)](https://open.spotify.com/album/77apTBUDZtKhljq8fjoFBw) | 5:34 |
+| 44 | [Kannilente](https://open.spotify.com/track/6JYpXNQCTFP3YScEnVop1b) | [Ronnie Raphael](https://open.spotify.com/artist/0de21hsTsnpfWS6cTDRhhe), [Vineeth Sreenivasan](https://open.spotify.com/artist/2uocTdMBXjTsS7QmAj7src), [Shweta Mohan](https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9), [Zia Ul Haq](https://open.spotify.com/artist/3kPqgCCGlCGS9owID1l5n9) | [Marakkar \- Arabikadalinte Simham \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1V3cJ1qiDl82nufCeQPmYS) | 5:34 |
 | 45 | [Etho Mazhayil](https://open.spotify.com/track/2Psbt9MZfVJNuHXFgG7DHh) | [Vijay Yesudas](https://open.spotify.com/artist/0aUQnP4HhUQXcurZl9GJIA), [Shweta Mohan](https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9), [Prince George](https://open.spotify.com/artist/3Xh6eQ2RZtdSvsbpLHFKu0) | [Vijay Superum Pournamiyum \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2o5ujHPcWrrRmR8UF1Jj6V) | 3:38 |
 | 46 | [Jeevamshamayi \(From "Theevandi"\)](https://open.spotify.com/track/59oAJRA0zzLzl9AXa1R6zh) | [K\. S\. Harisankar](https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Kailas](https://open.spotify.com/artist/2y67yyQYTtfZsXMP6CmZ61) | [Jeevamshamayi \(From "Theevandi"\)](https://open.spotify.com/album/1rMlUn5HViYHGwMrFYCca1) | 5:23 |
 | 47 | [PakalIravukal \(From "Kurup"\)](https://open.spotify.com/track/11Sw3eTPiS3svF1PFA7j1p) | [Neha Nair](https://open.spotify.com/artist/78NGdhTf5oKXObZbj278qk), [Sushin Shyam](https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S) | [PakalIravukal \(From "Kurup"\) \- Single](https://open.spotify.com/album/2Pw0C9hhfkYvzwQl3oJtAS) | 3:33 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDDXaHNhJDD.md) - [plain]
 | 74 | [Kannil \- From "Kappela"](https://open.spotify.com/track/6udtQS1L6UDpRnLyN2eKZh) | [Sooraj Santhosh](https://open.spotify.com/artist/66PGnr0hE7ZIcWir6IwitB), [Shweta Mohan](https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9), [Sushin Shyam](https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S) | [Kannil \(From "Kappela"\)](https://open.spotify.com/album/23atj8mL091k6v1gRzXYEj) | 3:28 |
 | 75 | [Kugramame](https://open.spotify.com/track/3xXGMn7VTB2Zg74PEN3P9M) | [Vipin Raveendran](https://open.spotify.com/artist/02U0IdqBzAwQdBE7LRhSB9), [Sushin Shyam](https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S) | [Minnal Murali](https://open.spotify.com/album/3bBt9Y3qQGSDXws5rNSn3x) | 1:38 |
 
-Snapshot ID: `MTY2Nzc5OTI1MCwwMDAwMDAwMGQ5Mjk4OTVjY2NhMzU4NjlhMTc2MzVmOTUxMmFjNWM2`
+Snapshot ID: `MTY2Nzc5OTI1MCwwMDAwMDAwMDMzNGIzNDliYmYyNTQ1NjA3NGFjNmYyZDFiMDI3NTA5`

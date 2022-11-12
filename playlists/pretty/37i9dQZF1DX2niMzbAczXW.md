@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2niMzbAczXW.md) - [plain]
 
 > Enjoy the world of “COWBOY BEBOP”! アニメ「カウボーイビバップ」の世界を1つのプレイリストで！©SUNRISE
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,253 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,391 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2niMzbAczXW.md) - [plain]
 | 23 | [No Reply](https://open.spotify.com/track/1pvi1LxX7QAGapp2r3yQLo) | [SEATBELTS](https://open.spotify.com/artist/3U3zr5PCRa9ty74uN46iBa) | [COWBOY BEBOP \- Knockin' on Heaven's Door \(Original Motion Picture Soundtrack \- Future Blues\)](https://open.spotify.com/album/0OI4ecYmvVp2LHrLQJG8id) | 6:01 |
 | 24 | [Piano Black](https://open.spotify.com/track/2RHTTJqSpt916kHxR86UOJ) | [SEATBELTS](https://open.spotify.com/artist/3U3zr5PCRa9ty74uN46iBa) | [COWBOY BEBOP Tank! the! Best!](https://open.spotify.com/album/2RQPHIImcaZaJBmptZAY9A) | 2:47 |
 | 25 | [Gotta Knock a Little Harder](https://open.spotify.com/track/6e8IUScjjBJmu8r8rj3Y4u) | [SEATBELTS](https://open.spotify.com/artist/3U3zr5PCRa9ty74uN46iBa) | [COWBOY BEBOP Tank! the! Best!](https://open.spotify.com/album/2RQPHIImcaZaJBmptZAY9A) | 5:20 |
-| 26 | [Einstein Groovin'](https://open.spotify.com/track/1B9vI8zUnixJ9fDoWeJLO0) | [SEATBELTS](https://open.spotify.com/artist/3U3zr5PCRa9ty74uN46iBa) | [COWBOY BEBOP Tank! the! Best!](https://open.spotify.com/album/2RQPHIImcaZaJBmptZAY9A) | 6:19 |
+| 26 | [EINSTEIN GROOVIN'](https://open.spotify.com/track/5fG5mkLehhxDC2LpLFP98v) | [SEATBELTS](https://open.spotify.com/artist/3U3zr5PCRa9ty74uN46iBa) | [YOKO KANNO produce Cyber Bicci](https://open.spotify.com/album/2QmOaMj4JwDkZOhveFu0RY) | 6:18 |
 | 27 | [Pearls](https://open.spotify.com/track/6X1yT94KVkmAgIGJoCRLFw) | [SEATBELTS](https://open.spotify.com/artist/3U3zr5PCRa9ty74uN46iBa) | [COWBOY BEBOP Tank! the! Best!](https://open.spotify.com/album/2RQPHIImcaZaJBmptZAY9A) | 4:44 |
 | 28 | [Road to the West](https://open.spotify.com/track/5yXAYzcJbjiIkRINE68qGX) | [SEATBELTS](https://open.spotify.com/artist/3U3zr5PCRa9ty74uN46iBa) | [COWBOY BEBOP \(Original Motion Picture Soundtrack 3 \- Blue\)](https://open.spotify.com/album/4MhCKW36bndX2VMQ8qYMv1) | 2:55 |
 | 29 | [24hours Open](https://open.spotify.com/track/4q0fDKiADQhoNrc2omO10m) | [SEATBELTS](https://open.spotify.com/artist/3U3zr5PCRa9ty74uN46iBa) | [COWBOY BEBOP \- Knockin' on Heaven's Door \(Original Motion Picture Soundtrack \- Future Blues\)](https://open.spotify.com/album/0OI4ecYmvVp2LHrLQJG8id) | 3:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2niMzbAczXW.md) - [plain]
 | 49 | [Power Of Kung Food Remix](https://open.spotify.com/track/24iinTSs3SnvI4JtdmtmWF) | [SEATBELTS](https://open.spotify.com/artist/3U3zr5PCRa9ty74uN46iBa) | [COWBOY BEBOP \(Original Motion Picture Soundtrack 2 \- No Disc\)](https://open.spotify.com/album/4GeRMwOn7610GFgQ49Y9qd) | 5:28 |
 | 50 | [Black Coffee](https://open.spotify.com/track/3vZpQuIGEFQrMApF9yJReA) | [SEATBELTS](https://open.spotify.com/artist/3U3zr5PCRa9ty74uN46iBa) | [COWBOY BEBOP Vitaminless](https://open.spotify.com/album/0J2DObt0HybwYP91obpHRy) | 3:14 |
 
-Snapshot ID: `MTY1MDU1MzMxNSwwMDAwMDAwMDM1NWI3ZmQ1OThmNjQ3YjVlZmE4ODJkZmQ0MTNkMjk5`
+Snapshot ID: `MTY1MDU1MzMxNSwwMDAwMDAwMGQ1OWU0YmY5MGFkMjgyOTJiOTg1ZGNhNWRkNzQ3MGM5`

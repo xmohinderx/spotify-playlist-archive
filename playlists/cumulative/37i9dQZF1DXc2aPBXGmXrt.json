@@ -1530,6 +1530,24 @@
     },
     {
       "album": {
+        "name": "Toddler and Children Singalong Vol. 5",
+        "url": "https://open.spotify.com/album/5fAi7hYLR44BJ2MEJutE28"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229106,
+      "name": "One Less Lonely Girl",
+      "url": "https://open.spotify.com/track/5YaHat4YWCZcQNfgpTyj0F"
+    },
+    {
+      "album": {
         "name": "My World",
         "url": "https://open.spotify.com/album/1rG5TDs3jYh6OU753I54CI"
       },
@@ -1541,7 +1559,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 229106,
       "name": "One Less Lonely Girl",
       "url": "https://open.spotify.com/track/69ghzc538EQSVon2Gm3wrr"
@@ -1621,7 +1639,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 210160,
       "name": "Purpose",
       "url": "https://open.spotify.com/track/2IjyFRCRn8x1bEquOM3vxg"
@@ -1643,6 +1661,24 @@
       "duration_ms": 210160,
       "name": "Purpose",
       "url": "https://open.spotify.com/track/3jHCXrZNz8fQEEf4BpWCAj"
+    },
+    {
+      "album": {
+        "name": "Cozy Songs 2020",
+        "url": "https://open.spotify.com/album/4UkruAvphs0CweRwOdbiLb"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210173,
+      "name": "Purpose",
+      "url": "https://open.spotify.com/track/4akknPSIJH8JZOadthgXkR"
     },
     {
       "album": {

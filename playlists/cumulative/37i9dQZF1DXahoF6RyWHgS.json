@@ -892,6 +892,36 @@
     },
     {
       "album": {
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/057a4rFQGjDyyPaEQAmmrZ"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "Johnny Pacheco",
+          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
+        },
+        {
+          "name": "Justo Betancourt",
+          "url": "https://open.spotify.com/artist/1Mq5Rgvn4D37tQdwuFL689"
+        },
+        {
+          "name": "Papo Lucca",
+          "url": "https://open.spotify.com/artist/1KbyKzIyGQig2K7sP5E7gv"
+        }
+      ],
+      "date_added": "2020-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274826,
+      "name": "El Yerberito Moderno",
+      "url": "https://open.spotify.com/track/3sV3vr7CzD5ruUM5SBmX2Y"
+    },
+    {
+      "album": {
         "name": "Mujeres con Cajones",
         "url": "https://open.spotify.com/album/50lzMlXqpRzP1qcdZJ7KGz"
       },
@@ -987,7 +1017,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 137240,
       "name": "Gopher Mambo - Remastered 2009",
       "url": "https://open.spotify.com/track/6TsE30wjcOmuQRheHdtaAF"
@@ -1030,6 +1060,24 @@
     },
     {
       "album": {
+        "name": "Exitos De La Epoca De Oro",
+        "url": "https://open.spotify.com/album/6roxqjCBFUaCtkdai2ZfJR"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161697,
+      "name": "Guantanamera",
+      "url": "https://open.spotify.com/track/7CsfF0OqXXZeq2jqxvXxMd"
+    },
+    {
+      "album": {
         "name": "Coleccion de Oro",
         "url": "https://open.spotify.com/album/6WuhBG8F4Izrfmzsb3Fs2y"
       },
@@ -1066,6 +1114,24 @@
     },
     {
       "album": {
+        "name": "D\u00e9jenme Llorar (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3cBtFZ5mqOn3dzzRyjzxgj"
+      },
+      "artists": [
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "date_added": "2020-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241626,
+      "name": "Hasta la Piel",
+      "url": "https://open.spotify.com/track/0CvnbqFHU1PlW9z4IHZXd4"
+    },
+    {
+      "album": {
         "name": "D\u00e9jenme Llorar",
         "url": "https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve"
       },
@@ -1077,7 +1143,7 @@
       ],
       "date_added": "2020-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 241626,
       "name": "Hasta la Piel",
       "url": "https://open.spotify.com/track/5zu4MAEQblGCaTrbXtfpb8"
@@ -1113,7 +1179,7 @@
       ],
       "date_added": "2020-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 153613,
       "name": "Hot Tamales (Los Tamalitos De Olga)",
       "url": "https://open.spotify.com/track/1CcbfkoHGIQvQfVOTmXFvl"
@@ -1705,7 +1771,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 260000,
       "name": "Mi Swing es Tropical - Zeb Remix",
       "url": "https://open.spotify.com/track/3xwJcguCWN0nHRSANZR8O8"
@@ -1843,7 +1909,7 @@
       ],
       "date_added": "2020-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 160679,
       "name": "Oracion caribe",
       "url": "https://open.spotify.com/track/3yEOU4LhTW2DGEPfXiN1u0"
@@ -2096,6 +2162,24 @@
     },
     {
       "album": {
+        "name": "Solo para Rom\u00e1nticos - de Mujer a Mujer",
+        "url": "https://open.spotify.com/album/3LyPtYOOqsTIBNrg7224Pc"
+      },
+      "artists": [
+        {
+          "name": "Agust\u00edn Lara Con Orquesta",
+          "url": "https://open.spotify.com/artist/3nEKOQ6OqzMuDSjzHtYEW9"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159320,
+      "name": "Piensa En Mi",
+      "url": "https://open.spotify.com/track/0zQOVxvve0l1wDRgk07YwQ"
+    },
+    {
+      "album": {
         "name": "Lo Mejor De...",
         "url": "https://open.spotify.com/album/11SbgUOwExKHYdsApzHSuP"
       },
@@ -2179,7 +2263,7 @@
       ],
       "date_added": "2020-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 166093,
       "name": "Por Las Calles De M\u00e9xico",
       "url": "https://open.spotify.com/track/2mPNAaBFLHSYsTm5dBLVrE"
@@ -2201,6 +2285,24 @@
       "duration_ms": 166800,
       "name": "Por Las Calles De M\u00e9xico",
       "url": "https://open.spotify.com/track/3GKrRfIER0czGwKHuTSnMD"
+    },
+    {
+      "album": {
+        "name": "Mis 30 Mejores Canciones",
+        "url": "https://open.spotify.com/album/2aQzF1ccueoLiIzMpKDyYa"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Santanera",
+          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
+        }
+      ],
+      "date_added": "2020-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171493,
+      "name": "Por Las Calles De M\u00e9xico",
+      "url": "https://open.spotify.com/track/3NrCHykyKFGmyTeXh0Ym3g"
     },
     {
       "album": {
@@ -2421,6 +2523,24 @@
       "duration_ms": 198608,
       "name": "Tu Voz",
       "url": "https://open.spotify.com/track/5txLkc2L3XfpKg08hAk26l"
+    },
+    {
+      "album": {
+        "name": "Celia Cruz, Vol. 1",
+        "url": "https://open.spotify.com/album/1CQSCXNA0H2BErrOVXsHWV"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/5rrPgFdBBtM0GVHeSBjmyB"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201247,
+      "name": "Tu Voz",
+      "url": "https://open.spotify.com/track/58Ow1bUrp2dy6Mluz7vOhH"
     },
     {
       "album": {

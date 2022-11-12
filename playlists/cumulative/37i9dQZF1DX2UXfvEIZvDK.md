@@ -4,7 +4,7 @@
 
 > Even rockers need a break.
 
-125 songs - 8 hr 33 min - [published](https://open.spotify.com/playlist/5NZJisOXUDORKjlyimSlVx)
+129 songs - 8 hr 52 min - [published](https://open.spotify.com/playlist/5NZJisOXUDORKjlyimSlVx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [Good Riddance \(Time of Your Life\)](https://open.spotify.com/track/6ORqU0bHbVCRjXm9AjyHyZ) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Nimrod](https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA) | 2:33 | 2021-11-03 |  |
 | [Happiness \- Reworked](https://open.spotify.com/track/68kNk4dgiZcU25IX5B55CV) | [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [All These Countless Nights \(Reworked \- Deluxe Version\)](https://open.spotify.com/album/7Mbg5xs1MVMJzow6nRxXUL) | 3:54 | 2021-11-03 | 2022-07-29 |
 | [Hey Julie](https://open.spotify.com/track/2LGAbm0xHNu7scBDVCkFwN) | [Fountains Of Wayne](https://open.spotify.com/artist/1pgtr4nhBQjp9oCUBPyYWh) | [Welcome Interstate Managers](https://open.spotify.com/album/6TZp52tXShLQbq8yNMxqNT) | 2:36 | 2022-06-16 |  |
-| [Hey There Delilah](https://open.spotify.com/track/4RCWB3V8V0dignt99LZ8vH) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [All That We Needed](https://open.spotify.com/album/4vUClKTFaDWnsHE8rK52GY) | 3:52 | 2022-06-16 |  |
+| [Hey There Delilah](https://open.spotify.com/track/4RCWB3V8V0dignt99LZ8vH) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [All That We Needed](https://open.spotify.com/album/4vUClKTFaDWnsHE8rK52GY) | 3:52 | 2022-06-16 | 2022-11-12 |
+| [Hold On](https://open.spotify.com/track/4u4gi3VbzXQopL8VatxoPV) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Chocolate Starfish And The Hot Dog Flavored Water](https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7) | 5:47 | 2022-10-14 |  |
 | [Home](https://open.spotify.com/track/2fDVMNQmFuMORDD3dP7GkN) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Echoes, Silence, Patience & Grace](https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz) | 4:53 | 2021-11-03 |  |
 | [I Don't Want to Be Here Anymore](https://open.spotify.com/track/1f133Oqpwft2mGNp5cWqaS) | [Lower Than Atlantis](https://open.spotify.com/artist/1kF0gYnHLUJvFuPdoowO02) | [Safe In Sound](https://open.spotify.com/album/2QEGCBGVqN0WvX2wHeuwMP) | 4:10 | 2021-11-03 | 2022-07-29 |
 | [I Miss You](https://open.spotify.com/track/1AdYZ6X00nXmO613Y7GJOl) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [blink\-182](https://open.spotify.com/album/4hBTxv4QRPePXCFcEI7Vjp) | 3:47 | 2021-11-03 |  |
@@ -55,7 +56,7 @@
 | [Immortality \- Remastered](https://open.spotify.com/track/5TxUedy2CM04QihDdOFnsk) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Vitalogy](https://open.spotify.com/album/5pd9B3KQWKshHw4lnsSLNy) | 5:18 | 2021-11-03 |  |
 | [Inside of Love](https://open.spotify.com/track/37oU0liybMY8aI9u6QMVM9) | [Nada Surf](https://open.spotify.com/artist/11zHPjHnZN0ACA50rSnTcy) | [Let Go](https://open.spotify.com/album/7tWx2oRcvpaXVDfvjtgr77) | 4:58 | 2021-11-03 | 2022-07-29 |
 | [Island In The Sun](https://open.spotify.com/track/2MLHyLy5z5l5YRp7momlgw) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer \(Green Album\)](https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c) | 3:20 | 2022-09-20 |  |
-| [It's Been Awhile](https://open.spotify.com/track/25CMmGsl22APKhfuj4Tp7j) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Break the Cycle](https://open.spotify.com/album/0OwSOrPWyP9batKOhOnaPt) | 4:24 | 2022-06-16 |  |
+| [It's Been Awhile](https://open.spotify.com/track/25CMmGsl22APKhfuj4Tp7j) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Break the Cycle](https://open.spotify.com/album/0OwSOrPWyP9batKOhOnaPt) | 4:24 | 2022-06-16 | 2022-11-12 |
 | [Just Breathe](https://open.spotify.com/track/6i81qFkru6Kj1IEsB7KNp2) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Backspacer](https://open.spotify.com/album/4DCwNXpnKEBYbls0T4LQzN) | 3:35 | 2021-11-03 |  |
 | [Karma Police](https://open.spotify.com/track/3SVAN3BRByDmHOhKyIDxfC) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/7dxKtc08dYeRVHt3p9CZJn) | 4:24 | 2021-11-03 | 2022-07-29 |
 | [Karma Police](https://open.spotify.com/track/63OQupATfueTdZMWTxW03A) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 4:24 | 2022-06-16 |  |
@@ -66,14 +67,16 @@
 | [Look What You've Done](https://open.spotify.com/track/4PYEFRzeJGmnszzYJ0XKyK) | [Jet](https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI) | [Get Born \(Deluxe Edition\)](https://open.spotify.com/album/7vCEk05cCBjn93wzoH5ZrK) | 3:50 | 2021-11-03 | 2022-07-29 |
 | [Lucky People](https://open.spotify.com/track/7EJw4qOq9wtJw0FoU3GeBq) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [Entertainment](https://open.spotify.com/album/0DUGIaBZCKKPCqIBsRs9pV) | 2:55 | 2022-10-14 |  |
 | [Machines](https://open.spotify.com/track/2QaaXYzEzLio3POCFCI19r) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Puzzle](https://open.spotify.com/album/6XVx5wCqkpSZRCOHslBVK6) | 3:56 | 2021-11-03 | 2022-07-29 |
-| [Make It Wit Chu](https://open.spotify.com/track/0Cgd3CK6D2hhbwmLRvtscH) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Era Vulgaris](https://open.spotify.com/album/64SL0QEXxulD2QgwJmJbUL) | 4:50 | 2022-06-16 |  |
+| [Make It Wit Chu](https://open.spotify.com/track/0Cgd3CK6D2hhbwmLRvtscH) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Era Vulgaris](https://open.spotify.com/album/64SL0QEXxulD2QgwJmJbUL) | 4:50 | 2022-06-16 | 2022-11-12 |
 | [Make It Wit Chu](https://open.spotify.com/track/6GyDY0yE47rfk8pcuKhioh) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Era Vulgaris](https://open.spotify.com/album/1w71aBHYJ1zTOsSsmr2Fca) | 4:50 | 2021-11-03 | 2022-07-29 |
+| [Make It Wit Chu](https://open.spotify.com/track/6ul6m38lfKYXJKE63MjeXF) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Chill Rock](https://open.spotify.com/album/59FeguL6eopJ0hgCq1LX1K) | 4:50 | 2022-10-14 |  |
 | [Mexico](https://open.spotify.com/track/53qf90GmWQ70MH7LNzJHZb) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Morning View](https://open.spotify.com/album/1rQZbncicoXyB64DqoH7OY) | 4:18 | 2021-11-03 |  |
 | [Miss You Love](https://open.spotify.com/track/7Bz8EMztiuSJeHIjrBw7pw) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Neon Ballroom](https://open.spotify.com/album/75viR4DrKJUIH7wFvQ7PbB) | 4:00 | 2021-11-03 |  |
 | [My Friends](https://open.spotify.com/track/6HksxcBzMVdT17aq1Q79Xe) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [One Hot Minute \(Deluxe Edition\)](https://open.spotify.com/album/2rQ135imvelvp89D8eEZOi) | 4:08 | 2021-11-03 |  |
 | [Nevermind](https://open.spotify.com/track/25cgB8QvrmNetiG5Q0YB3g) | [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [Nevermind](https://open.spotify.com/album/7CHjGNDrCPUppVXm3lX2Gi) | 3:52 | 2022-06-16 | 2022-09-21 |
-| [No Surprises](https://open.spotify.com/track/10nyNJ6zNy2YVYLrcwLccB) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 3:49 | 2022-06-16 |  |
+| [No Surprises](https://open.spotify.com/track/10nyNJ6zNy2YVYLrcwLccB) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 3:49 | 2022-06-16 | 2022-11-12 |
 | [No Surprises](https://open.spotify.com/track/1bSpwPhAxZwlR2enJJsv7U) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/7dxKtc08dYeRVHt3p9CZJn) | 3:49 | 2021-11-03 | 2022-07-29 |
+| [No Surprises \- Remastered](https://open.spotify.com/track/39UJG380DXNHAa07pGdVgI) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer OKNOTOK 1997 2017](https://open.spotify.com/album/0tzfI6NFJqcJkWb23R3lRZ) | 3:48 | 2022-10-14 |  |
 | [Northern Downpour](https://open.spotify.com/track/49SL9f1Kz73p0bzsNPTY4l) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pretty\. Odd.](https://open.spotify.com/album/7Hk9WbjPbN1n2GXaK7aldw) | 4:07 | 2022-06-16 | 2022-11-11 |
 | [Nothing Else Matters](https://open.spotify.com/track/1znPMY3zq78mVuTAmOA9O7) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica](https://open.spotify.com/album/3A4zAmE5c4dUAAqEJz6hCH) | 6:28 | 2021-11-03 | 2022-07-29 |
 | [Nothing Else Matters \(Remastered\)](https://open.spotify.com/track/2CtemffYhT0DJWcT1XW047) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica \(Remastered\)](https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH) | 6:28 | 2022-06-16 | 2022-11-11 |
@@ -132,6 +135,7 @@
 | [Wire To Wire](https://open.spotify.com/track/5YFEqFTmsbqyamFvFA7Wdc) | [Razorlight](https://open.spotify.com/artist/450iujbtN6XgiA9pv6fVZz) | [Slipway Fires](https://open.spotify.com/album/00OgN62HrBU8XAeo1k6oCI) | 2:58 | 2022-06-16 | 2022-11-11 |
 | [With Or Without You \- Remastered](https://open.spotify.com/track/6ADSaE87h8Y3lccZlBJdXH) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree \(Super Deluxe\)](https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU) | 4:55 | 2021-11-03 |  |
 | [Wonderwall](https://open.spotify.com/track/7JrUo70YjhU4S7flcJtK0k) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\[What's The Story\] Morning Glory](https://open.spotify.com/album/1GIiLeoqfB5s7lMYPNPzbB) | 4:18 | 2021-11-03 | 2022-07-29 |
+| [Wonderwall](https://open.spotify.com/track/7dPd3dx4ipBe10xKuhj9eY) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Wonderwall](https://open.spotify.com/album/3ezI4EtsobNEhV0WSEsCGn) | 4:18 | 2022-10-14 |  |
 | [Wonderwall \- Remastered](https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \(Deluxe Remastered Edition\)](https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4) | 4:18 | 2022-06-16 | 2022-11-11 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

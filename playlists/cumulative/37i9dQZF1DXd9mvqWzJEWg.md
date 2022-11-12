@@ -4,7 +4,7 @@
 
 > It's not just about the music, it's about the culture\. Cover: <a href="https://open.spotify.com/artist/4xFNz56JhznT2ic3fhEg8n?si=U8XZqDOSTg2TB7KJPL4dtQ">Temple Boys Cpt</a>
 
-79 songs - 7 hr 2 min - [published](https://open.spotify.com/playlist/7uMJ9CoeHul7GwURVi0bpy)
+80 songs - 7 hr 8 min - [published](https://open.spotify.com/playlist/7uMJ9CoeHul7GwURVi0bpy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [Inkomo](https://open.spotify.com/track/7jBwiQJic2CnGo1B8j28k1) | [Love Devotion](https://open.spotify.com/artist/6eFPf0IqtnIHGbygsL0bwr) | [Inkomo](https://open.spotify.com/album/5LuUwkzXn6v6iH7wdVYKQW) | 5:08 | 2021-10-28 | 2022-11-08 |
 | [Insimbi](https://open.spotify.com/track/2UlEt3E4ER9zEQics8t1Si) | [DJ Tira](https://open.spotify.com/artist/4FC2wXrDWr5lLCZeAUgfVn), [Beast Rsa](https://open.spotify.com/artist/5jSbjWfYWUZpecgalIOldH), [Worst Behaviour](https://open.spotify.com/artist/53j4It5K8cVfNn3WMuOGwk), [Western Boyz](https://open.spotify.com/artist/4lF6jedtQa4W449ejq8Yms) | [Rockstar Forever](https://open.spotify.com/album/665yqgJIsQgcYtPyz4y1u9) | 5:32 | 2021-06-24 | 2022-11-08 |
 | [Into Ongayazi](https://open.spotify.com/track/6oToJUoMwy6ph5JMTzuJPi) | [DJ Lag](https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO) | [Into Ongayazi](https://open.spotify.com/album/1WvN8bvBpkNhXbt65NtWFS) | 6:59 | 2021-11-04 | 2022-11-08 |
-| [Iparty](https://open.spotify.com/track/7J0vho7Fc0aYCdE8GDlX0L) | [Mshayi](https://open.spotify.com/artist/0eIT5Ol4P6JU77oHfyVpmb), [Mr Thela](https://open.spotify.com/artist/5R02jdPgCA1tFILr67znle), [T\-Man](https://open.spotify.com/artist/5p0SkCjy1OmhoXPSM5dvW2) | [Make Cape Town Great Again](https://open.spotify.com/album/1kQBFelXMmWhHhGkyPyJok) | 5:55 | 2020-03-11 |  |
+| [iParty](https://open.spotify.com/track/0G7QEDGrSrn4NhHFpg5xBO) | [Mshayi](https://open.spotify.com/artist/0eIT5Ol4P6JU77oHfyVpmb), [Mr Thela](https://open.spotify.com/artist/5R02jdPgCA1tFILr67znle), [T\-Man](https://open.spotify.com/artist/7dVPODjYLQtb0AIUF8MLSJ) | [iParty](https://open.spotify.com/album/2Sf7CQ5LgntV8K3CdeWbeL) | 5:55 | 2020-03-11 |  |
+| [Iparty](https://open.spotify.com/track/7J0vho7Fc0aYCdE8GDlX0L) | [Mshayi](https://open.spotify.com/artist/0eIT5Ol4P6JU77oHfyVpmb), [Mr Thela](https://open.spotify.com/artist/5R02jdPgCA1tFILr67znle), [T\-Man](https://open.spotify.com/artist/5p0SkCjy1OmhoXPSM5dvW2) | [Make Cape Town Great Again](https://open.spotify.com/album/1kQBFelXMmWhHhGkyPyJok) | 5:55 | 2020-03-11 | 2022-11-12 |
 | [Isgubhu](https://open.spotify.com/track/2HrBhE3ZQFsOPoIe8Eybnp) | [DJ Fanele](https://open.spotify.com/artist/6M8jIo6oHncJ1oIvHFtbY3) | [150K Streams Appreciation](https://open.spotify.com/album/13I5YuZW0RjZWL78sVkiKc) | 5:10 | 2022-08-04 |  |
 | [Iskhathi](https://open.spotify.com/track/1n1DYCOXaHktV9u0sH4DGs) | [Geato](https://open.spotify.com/artist/1mTcXHerXEN5u6xCnV4Q4q), [Rhythm Boys](https://open.spotify.com/artist/5HmQwBUQsPaw4bVSUFed9h) | [Iskhathi](https://open.spotify.com/album/5ENrExL7A2Fqd4kj6nGqgs) | 5:38 | 2022-07-28 |  |
 | [iWalk Ye Phara \(feat\. Moonchild Sanelly, K.O & Zulu Mkhathini\)](https://open.spotify.com/track/75sTLVjlWPUTobrRE6rWLz) | [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [DJ Raybel](https://open.spotify.com/artist/6JDlk9tWyI6Kyp5bIaBWnr), [Moonchild Sanelly](https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw), [K.O](https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z), [Zulu Mkhathini](https://open.spotify.com/artist/2RpDiqMd85E6oDYUtqQNBx) | [iWalk Ye Phara \(feat\. Moonchild Sanelly, K.O & Zulu Mkhathini\)](https://open.spotify.com/album/0MqyL6Tu4ddKBNl8WXHNZM) | 4:07 | 2018-09-24 | 2022-11-08 |

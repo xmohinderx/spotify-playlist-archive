@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xyC5aOjDHG.md) - [plain]
 
 > Music & Episodes of “Sword Art Online” series! 音楽とPodcastで辿る「ソードアート・オンライン」の世界！\(C\)2017 川原 礫／ＫＡＤＯＫＡＷＡ　アスキー・メディアワークス／SAO\-A Project
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,781 likes - 74 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,907 likes - 74 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xyC5aOjDHG.md) - [plain]
 | 3 | [心臓](https://open.spotify.com/track/5jAzYu1dMEp0Mx3RCnTWrM) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [心臓](https://open.spotify.com/album/0wpmbTY0B13k0r9zSeCGWm) | 3:34 |
 | 4 | [往け](https://open.spotify.com/track/4cDm9C5jhBiIyYxVhQmMwB) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [往け](https://open.spotify.com/album/3zQM46m2V0bUGFeCNA0evx) | 3:48 |
 | 5 | [ANIMA](https://open.spotify.com/track/2j1r3ubqqxuoTFaPVnTV1j) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [unknown](https://open.spotify.com/album/0IDNAr9hNxxTC8dBwcsvhW) | 4:29 |
-| 6 | [Resolution](https://open.spotify.com/track/5vaJU5vIRhx6d6lgyYR1Bb) | [Haruka Tomatsu](https://open.spotify.com/artist/17Xrh1jox4g1VQcUcIcgra) | [Resolution](https://open.spotify.com/album/3k4p615S79dsbsuAc0xBhX) | 4:50 |
+| 6 | [Resolution](https://open.spotify.com/track/1soi407KlRSq7VqJz0Jhvd) | [Haruka Tomatsu](https://open.spotify.com/artist/17Xrh1jox4g1VQcUcIcgra) | [Resolution](https://open.spotify.com/album/3yvuFmlp5UZJA4kGqoGAjC) | 4:51 |
 | 7 | [I will...](https://open.spotify.com/track/2BTIKSOhf3X8OA3LWbFW2U) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [I will...](https://open.spotify.com/album/1hSdqP7Dh0PN1hyU91nXFb) | 4:34 |
 | 8 | [Till the End](https://open.spotify.com/track/4iaSSJYuSYd9MSOQ2au3Pc) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [unknown](https://open.spotify.com/album/0IDNAr9hNxxTC8dBwcsvhW) | 6:04 |
 | 9 | [unlasting](https://open.spotify.com/track/7e5p1On2OUz3Pua4A4ZrsR) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [unlasting](https://open.spotify.com/album/7jfP5sIqy7L3NB082no1uM) | 4:57 |
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xyC5aOjDHG.md) - [plain]
 | 30 | [Windia](https://open.spotify.com/track/4VQkyCODavb8ofAW8WzNbr) | [Luna Haruna](https://open.spotify.com/artist/4eL15GpHSLAAvv5sT00c5i) | [LUNA JOULE \(Extra Edition\)](https://open.spotify.com/album/2YQa2eGPuATUACbbTuKqRM) | 4:25 |
 | 31 | [Two of us](https://open.spotify.com/track/5j3tzguUyBwQUGIEcYg2zB) | [Haruka Tomatsu](https://open.spotify.com/artist/17Xrh1jox4g1VQcUcIcgra) | [COLORFUL GIFT](https://open.spotify.com/album/412nHvP191rDXzUZfEtKc5) | 4:51 |
 | 32 | [Thrill, Risk, Heartless](https://open.spotify.com/track/5gf9xFlRXntw7hl3BBAeNp) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LiSA BEST \-Way\-](https://open.spotify.com/album/6qkTX2PnlQkbKnnSWmROls) | 4:16 |
-| 33 | [Catch the Moment](https://open.spotify.com/track/6vRkYTrWDzzVrZTqBJFR0u) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LiTTLE DEViL PARADE](https://open.spotify.com/album/4HWWaor0tTxicWj06jDh0P) | 4:42 |
+| 33 | [Catch the Moment](https://open.spotify.com/track/7pSSCx0NsnJxXoIWJQddjh) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [Catch the Moment](https://open.spotify.com/album/5mr96wuap8SvgVr9YnfUry) | 4:42 |
 | 34 | [S×W \-soul world\-](https://open.spotify.com/track/1s4s3WVHJAB1Sb4IWvxQiZ) | [KOTOKO](https://open.spotify.com/artist/06F1MiFx0dHLHEPQBIrcr9), [Luna Haruna](https://open.spotify.com/artist/4eL15GpHSLAAvv5sT00c5i) | [HARUNA LUNA BEST 2012\-2020](https://open.spotify.com/album/1vCnYHrs6reo0lBGJanOph) | 4:02 |
 | 35 | [My Independent Destiny](https://open.spotify.com/track/2Lgg2Q4gozHkVbsf6c5EWn) | [アスナ \(CV:戸松遥\)](https://open.spotify.com/artist/03WRnU6FJtqmZn7OZppQUq) | [ソードアート・オンライン キャラクターソングコレクション](https://open.spotify.com/album/3xbc01K4cChshvuUvfp4Bi) | 4:58 |
 | 36 | [Memory Heart Message](https://open.spotify.com/track/14JIQY00fGjLW15dXYteUO) | [サチ \(CV:早見沙織\)](https://open.spotify.com/artist/2yB9uZuPikJpMWWBcf0FRe) | [ソードアート・オンライン キャラクターソングコレクション](https://open.spotify.com/album/3xbc01K4cChshvuUvfp4Bi) | 4:18 |
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xyC5aOjDHG.md) - [plain]
 | 63 | [swordland\~to be continued](https://open.spotify.com/track/2ymkEAjk4NHGen1wtr1LzJ) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem) | [ソードアート・オンライン ミュージックコレクション](https://open.spotify.com/album/7t3It6EP6isk5ZpBKgupYZ) | 0:33 |
 | 64 | [think tenderly of you](https://open.spotify.com/track/6G24G2b9bWqz6jZdOmM500) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem) | [ソードアート・オンライン ミュージックコレクション](https://open.spotify.com/album/7t3It6EP6isk5ZpBKgupYZ) | 2:03 |
 | 65 | [good bye, again and again](https://open.spotify.com/track/3QUEUxPhOQcqRO4weYu2k6) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem) | [ソードアート・オンライン ミュージックコレクション](https://open.spotify.com/album/7t3It6EP6isk5ZpBKgupYZ) | 2:09 |
-| 66 | [ピルグリム](https://open.spotify.com/track/28J422M70C4zeTr5JBH8UL) | [神崎エルザ](https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR) | [Elza](https://open.spotify.com/album/5fb2fBe8FYwR5fX935r2rV) | 4:05 |
+| 66 | [ピルグリム](https://open.spotify.com/track/2cQYIGCDgr9BAyCnMNehf9) | [神崎エルザ](https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR) | [ELZA](https://open.spotify.com/album/1CDB7e19xQSb3EQzehBO8I) | 4:05 |
 | 67 | [流星](https://open.spotify.com/track/65nY6YE6AezagJqG3EUPua) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [流星 / 約束](https://open.spotify.com/album/4wrLAS2If2XoK2MURPJ2SG) | 4:13 |
 | 68 | [step, step](https://open.spotify.com/track/7fgq3c35vndIAwNDY2e1fd) | [神崎エルザ](https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR) | [ELZA](https://open.spotify.com/album/1CDB7e19xQSb3EQzehBO8I) | 3:59 |
 | 69 | [ALONE](https://open.spotify.com/track/08EaMQ9Ro0NavqaBpdfJDk) | [神崎エルザ](https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR), [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Prologue](https://open.spotify.com/album/3zGbre3z1scVAZcRyRfTpw) | 5:01 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xyC5aOjDHG.md) - [plain]
 | 73 | [Rea\(s\)oN](https://open.spotify.com/track/6uBKzWKkMX5scyTy389SmX) | [神崎エルザ](https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR) | [ELZA](https://open.spotify.com/album/1CDB7e19xQSb3EQzehBO8I) | 4:27 |
 | 74 | [レプリカ](https://open.spotify.com/track/481leaQhnu88QWqsDEeIru) | [神崎エルザ](https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR) | [Elza](https://open.spotify.com/album/5fb2fBe8FYwR5fX935r2rV) | 3:29 |
 
-Snapshot ID: `MTY2Njg4MzA0MywwMDAwMDAwMDNlODM4NmUxMGE5M2IwZWFkZjU4NjZkMzIzMWYyZTAx`
+Snapshot ID: `MTY2Njg4MzA0MywwMDAwMDAwMDkwNjc3M2NjNDY1N2NkNTA4ODUwOGI1MzM3Yzc0MzNj`

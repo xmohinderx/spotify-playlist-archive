@@ -1,12 +1,12 @@
 {
   "description": "You can dance or chill.",
-  "num_followers": 26915,
+  "num_followers": 26940,
   "original_name": "Dance Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzgyNjgwNywwMDAwMDAwMDAzZWMxMzQ4MGU1MjkyMzM4NDJkYWMwYjAyY2U0ZjMw",
+  "snapshot_id": "MTY2NzgyNjgwNywwMDAwMDAwMDhmYjI4MzZkMDdmYzJjNjc5MDcxZDNlY2FiODEwZWE2",
   "tracks": [
     {
       "added_at": "2022-10-30 13:51:21",
@@ -35,22 +35,6 @@
     {
       "added_at": "2022-10-30 13:51:21",
       "album": {
-        "name": "Crazy",
-        "url": "https://open.spotify.com/album/01w5G9v1aSzqBqzY7PaCUA"
-      },
-      "artists": [
-        {
-          "name": "PL\u00dcM",
-          "url": "https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/3h0tEwAyOCQDa4X8NEcy0Q"
-    },
-    {
-      "added_at": "2022-10-30 13:51:21",
-      "album": {
         "name": "With Me",
         "url": "https://open.spotify.com/album/4PHgNInOiBBOVFL0qNiwn2"
       },
@@ -67,6 +51,22 @@
       "duration_ms": 182056,
       "name": "With Me",
       "url": "https://open.spotify.com/track/59oKLkR9ycVaCXtuTM16mp"
+    },
+    {
+      "added_at": "2022-10-30 13:51:21",
+      "album": {
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/01w5G9v1aSzqBqzY7PaCUA"
+      },
+      "artists": [
+        {
+          "name": "PL\u00dcM",
+          "url": "https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/3h0tEwAyOCQDa4X8NEcy0Q"
     },
     {
       "added_at": "2022-10-30 13:51:21",
@@ -203,26 +203,6 @@
     {
       "added_at": "2022-10-30 13:51:21",
       "album": {
-        "name": "In Another Lifetime",
-        "url": "https://open.spotify.com/album/5YbDMcXp70ko2WzPFA7WEb"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        },
-        {
-          "name": "Hero Baldwin",
-          "url": "https://open.spotify.com/artist/3F5e8tUWnf1MKKwW89rSg6"
-        }
-      ],
-      "duration_ms": 284563,
-      "name": "Rebirth",
-      "url": "https://open.spotify.com/track/4Xz2mxHREzWiEr0AyCJuU6"
-    },
-    {
-      "added_at": "2022-10-30 13:51:21",
-      "album": {
         "name": "Forgot How to Love",
         "url": "https://open.spotify.com/album/7oCCiK2qVfJY019T4Wdhgj"
       },
@@ -239,6 +219,26 @@
       "duration_ms": 149055,
       "name": "Forgot How to Love",
       "url": "https://open.spotify.com/track/2DyOstPCEqOJfBA4tcMC6t"
+    },
+    {
+      "added_at": "2022-10-30 13:51:21",
+      "album": {
+        "name": "In Another Lifetime",
+        "url": "https://open.spotify.com/album/5YbDMcXp70ko2WzPFA7WEb"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        },
+        {
+          "name": "Hero Baldwin",
+          "url": "https://open.spotify.com/artist/3F5e8tUWnf1MKKwW89rSg6"
+        }
+      ],
+      "duration_ms": 284563,
+      "name": "Rebirth",
+      "url": "https://open.spotify.com/track/4Xz2mxHREzWiEr0AyCJuU6"
     },
     {
       "added_at": "2022-10-30 13:51:21",
@@ -363,30 +363,6 @@
     {
       "added_at": "2022-10-30 13:51:21",
       "album": {
-        "name": "Summer Jams",
-        "url": "https://open.spotify.com/album/3joHydRaKKBO8Z6HRq3asQ"
-      },
-      "artists": [
-        {
-          "name": "Blasterjaxx",
-          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
-        },
-        {
-          "name": "Henri PFR",
-          "url": "https://open.spotify.com/artist/6n9XmMc3mX18mrTHYOCPIq"
-        },
-        {
-          "name": "Jay Mason",
-          "url": "https://open.spotify.com/artist/0dS5IlInNc5Qq0wIrFTKob"
-        }
-      ],
-      "duration_ms": 137149,
-      "name": "Summer Jams",
-      "url": "https://open.spotify.com/track/3W3v72EKmAfAiuJm9BDi9b"
-    },
-    {
-      "added_at": "2022-10-30 13:51:21",
-      "album": {
         "name": "Darkroom",
         "url": "https://open.spotify.com/album/41Dkv1wi7AreaeUyNfBY0k"
       },
@@ -407,6 +383,30 @@
       "duration_ms": 156674,
       "name": "Darkroom",
       "url": "https://open.spotify.com/track/41f0NEYvnCWC8rW0TeQmEy"
+    },
+    {
+      "added_at": "2022-10-30 13:51:21",
+      "album": {
+        "name": "Summer Jams",
+        "url": "https://open.spotify.com/album/3joHydRaKKBO8Z6HRq3asQ"
+      },
+      "artists": [
+        {
+          "name": "Blasterjaxx",
+          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
+        },
+        {
+          "name": "Henri PFR",
+          "url": "https://open.spotify.com/artist/6n9XmMc3mX18mrTHYOCPIq"
+        },
+        {
+          "name": "Jay Mason",
+          "url": "https://open.spotify.com/artist/0dS5IlInNc5Qq0wIrFTKob"
+        }
+      ],
+      "duration_ms": 137149,
+      "name": "Summer Jams",
+      "url": "https://open.spotify.com/track/3W3v72EKmAfAiuJm9BDi9b"
     },
     {
       "added_at": "2022-10-30 13:51:21",
@@ -471,26 +471,6 @@
     {
       "added_at": "2022-10-30 13:51:21",
       "album": {
-        "name": "Take Me",
-        "url": "https://open.spotify.com/album/6QyELjKQuXl6Mvorlgf30X"
-      },
-      "artists": [
-        {
-          "name": "W\u00e4nderlost",
-          "url": "https://open.spotify.com/artist/7MN9KqDrLp1f8JZ7f1Wymb"
-        },
-        {
-          "name": "MEDEIA",
-          "url": "https://open.spotify.com/artist/0uR3roDczoaOss4Ro7D30s"
-        }
-      ],
-      "duration_ms": 136800,
-      "name": "Take Me",
-      "url": "https://open.spotify.com/track/7q6WQDxck4kIeoACgtV2Gs"
-    },
-    {
-      "added_at": "2022-10-30 13:51:21",
-      "album": {
         "name": "Bloom (nowifi Remix)",
         "url": "https://open.spotify.com/album/2TevphOQe7SmNqX7dVLYkk"
       },
@@ -511,6 +491,26 @@
       "duration_ms": 121461,
       "name": "Bloom (nowifi Remix)",
       "url": "https://open.spotify.com/track/4Hqznl1iOMNK4Yr2e4H0D4"
+    },
+    {
+      "added_at": "2022-10-30 13:51:21",
+      "album": {
+        "name": "Take Me",
+        "url": "https://open.spotify.com/album/6QyELjKQuXl6Mvorlgf30X"
+      },
+      "artists": [
+        {
+          "name": "W\u00e4nderlost",
+          "url": "https://open.spotify.com/artist/7MN9KqDrLp1f8JZ7f1Wymb"
+        },
+        {
+          "name": "MEDEIA",
+          "url": "https://open.spotify.com/artist/0uR3roDczoaOss4Ro7D30s"
+        }
+      ],
+      "duration_ms": 136800,
+      "name": "Take Me",
+      "url": "https://open.spotify.com/track/7q6WQDxck4kIeoACgtV2Gs"
     },
     {
       "added_at": "2022-10-30 13:51:21",
@@ -547,30 +547,6 @@
     {
       "added_at": "2022-10-30 13:51:21",
       "album": {
-        "name": "Someday (Latroit Edition)",
-        "url": "https://open.spotify.com/album/0imxdkIlwChhIIrJALipXW"
-      },
-      "artists": [
-        {
-          "name": "Lliam Taylor",
-          "url": "https://open.spotify.com/artist/2n01f3fehDpSvUQB3oYFFe"
-        },
-        {
-          "name": "Latroit",
-          "url": "https://open.spotify.com/artist/4keJDDQx0ac2jhmknbSLFK"
-        },
-        {
-          "name": "Brea",
-          "url": "https://open.spotify.com/artist/5nVSKWXkINmkKxSSWfiPwM"
-        }
-      ],
-      "duration_ms": 201656,
-      "name": "Someday (Latroit Edition)",
-      "url": "https://open.spotify.com/track/6oF66hFngUSqA9lHimenPp"
-    },
-    {
-      "added_at": "2022-10-30 13:51:21",
-      "album": {
         "name": "Tell Me How",
         "url": "https://open.spotify.com/album/5M8b8IFy69V7CHCRfdkJuv"
       },
@@ -591,6 +567,30 @@
       "duration_ms": 132742,
       "name": "Tell Me How",
       "url": "https://open.spotify.com/track/0d2yUkzvqA85zHqiKA9IuE"
+    },
+    {
+      "added_at": "2022-10-30 13:51:21",
+      "album": {
+        "name": "Someday (Latroit Edition)",
+        "url": "https://open.spotify.com/album/0imxdkIlwChhIIrJALipXW"
+      },
+      "artists": [
+        {
+          "name": "Lliam Taylor",
+          "url": "https://open.spotify.com/artist/2n01f3fehDpSvUQB3oYFFe"
+        },
+        {
+          "name": "Latroit",
+          "url": "https://open.spotify.com/artist/4keJDDQx0ac2jhmknbSLFK"
+        },
+        {
+          "name": "Brea",
+          "url": "https://open.spotify.com/artist/5nVSKWXkINmkKxSSWfiPwM"
+        }
+      ],
+      "duration_ms": 201656,
+      "name": "Someday (Latroit Edition)",
+      "url": "https://open.spotify.com/track/6oF66hFngUSqA9lHimenPp"
     },
     {
       "added_at": "2022-10-30 13:51:21",
@@ -671,8 +671,8 @@
     {
       "added_at": "2022-10-30 13:51:21",
       "album": {
-        "name": "High Hopes",
-        "url": "https://open.spotify.com/album/61cRWSjiQqbIR2IyhPv8Bm"
+        "name": "Free Falling Love",
+        "url": "https://open.spotify.com/album/5CJZNKNULqU1e71rCIBpWE"
       },
       "artists": [
         {
@@ -680,17 +680,17 @@
           "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
         },
         {
-          "name": "Twan Ray",
-          "url": "https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr"
+          "name": "Stevie Appleton",
+          "url": "https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ"
         },
         {
           "name": "Solar State",
           "url": "https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu"
         }
       ],
-      "duration_ms": 127021,
-      "name": "High Hopes",
-      "url": "https://open.spotify.com/track/2WrlysXGhULyfprVfW20UT"
+      "duration_ms": 155000,
+      "name": "Free Falling Love",
+      "url": "https://open.spotify.com/track/0srHt7dvF0U5ReVRVS3fz0"
     },
     {
       "added_at": "2022-10-30 13:51:21",
@@ -739,22 +739,6 @@
     {
       "added_at": "2022-10-30 13:51:21",
       "album": {
-        "name": "Live In The Moment",
-        "url": "https://open.spotify.com/album/4OYcMY57gpiT6PzvL5tzxn"
-      },
-      "artists": [
-        {
-          "name": "Patrick Lite",
-          "url": "https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Live In The Moment",
-      "url": "https://open.spotify.com/track/7hNec5eJPMhEKFTvF5cvNt"
-    },
-    {
-      "added_at": "2022-10-30 13:51:21",
-      "album": {
         "name": "In The Sun",
         "url": "https://open.spotify.com/album/6mY2Yfw2UaryA7F8KherNy"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 152000,
       "name": "In The Sun",
       "url": "https://open.spotify.com/track/2oOsMm1b1DchtPDNEjLBcm"
+    },
+    {
+      "added_at": "2022-10-30 13:51:21",
+      "album": {
+        "name": "Live In The Moment",
+        "url": "https://open.spotify.com/album/4OYcMY57gpiT6PzvL5tzxn"
+      },
+      "artists": [
+        {
+          "name": "Patrick Lite",
+          "url": "https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Live In The Moment",
+      "url": "https://open.spotify.com/track/7hNec5eJPMhEKFTvF5cvNt"
     },
     {
       "added_at": "2022-10-30 13:51:21",
@@ -791,6 +791,22 @@
     {
       "added_at": "2022-10-30 13:51:21",
       "album": {
+        "name": "Light A Fire",
+        "url": "https://open.spotify.com/album/4j0tX0LsZGN3ZNtVAzGjBl"
+      },
+      "artists": [
+        {
+          "name": "Marc Benjamin",
+          "url": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
+        }
+      ],
+      "duration_ms": 154500,
+      "name": "Light A Fire",
+      "url": "https://open.spotify.com/track/47Ahlfj3ZRc1MRf7np0jaf"
+    },
+    {
+      "added_at": "2022-10-30 13:51:21",
+      "album": {
         "name": "Better Now",
         "url": "https://open.spotify.com/album/223dHoItv1AL15XYaLYzjY"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 169048,
       "name": "Better Now",
       "url": "https://open.spotify.com/track/74Hf2CrG7Y2dzCwPAXYugR"
-    },
-    {
-      "added_at": "2022-10-30 13:51:21",
-      "album": {
-        "name": "Light A Fire",
-        "url": "https://open.spotify.com/album/4j0tX0LsZGN3ZNtVAzGjBl"
-      },
-      "artists": [
-        {
-          "name": "Marc Benjamin",
-          "url": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
-        }
-      ],
-      "duration_ms": 154500,
-      "name": "Light A Fire",
-      "url": "https://open.spotify.com/track/47Ahlfj3ZRc1MRf7np0jaf"
     },
     {
       "added_at": "2022-10-30 13:51:21",
@@ -863,8 +863,8 @@
     {
       "added_at": "2022-10-30 13:51:21",
       "album": {
-        "name": "Free Falling Love",
-        "url": "https://open.spotify.com/album/5CJZNKNULqU1e71rCIBpWE"
+        "name": "High Hopes",
+        "url": "https://open.spotify.com/album/61cRWSjiQqbIR2IyhPv8Bm"
       },
       "artists": [
         {
@@ -872,17 +872,17 @@
           "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
         },
         {
-          "name": "Stevie Appleton",
-          "url": "https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ"
+          "name": "Twan Ray",
+          "url": "https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr"
         },
         {
           "name": "Solar State",
           "url": "https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu"
         }
       ],
-      "duration_ms": 155000,
-      "name": "Free Falling Love",
-      "url": "https://open.spotify.com/track/0srHt7dvF0U5ReVRVS3fz0"
+      "duration_ms": 127021,
+      "name": "High Hopes",
+      "url": "https://open.spotify.com/track/2WrlysXGhULyfprVfW20UT"
     },
     {
       "added_at": "2022-10-30 13:51:21",
@@ -927,26 +927,6 @@
     {
       "added_at": "2022-10-30 13:51:21",
       "album": {
-        "name": "Unrequited",
-        "url": "https://open.spotify.com/album/5vcOqTHsZfnlzcDoqxND2P"
-      },
-      "artists": [
-        {
-          "name": "Rolipso",
-          "url": "https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI"
-        },
-        {
-          "name": "fwd/slash",
-          "url": "https://open.spotify.com/artist/6tFIXOQGf0Hld1gCjBkLaw"
-        }
-      ],
-      "duration_ms": 171696,
-      "name": "Unrequited",
-      "url": "https://open.spotify.com/track/5bJR6i9egmQTzBuqez7eo7"
-    },
-    {
-      "added_at": "2022-10-30 13:51:21",
-      "album": {
         "name": "2 Much",
         "url": "https://open.spotify.com/album/2uyBSSOL4xLjy1AKiySCbc"
       },
@@ -963,6 +943,26 @@
       "duration_ms": 138026,
       "name": "2 Much",
       "url": "https://open.spotify.com/track/7twp7m9ZSxWwWyPgimocpH"
+    },
+    {
+      "added_at": "2022-10-30 13:51:21",
+      "album": {
+        "name": "Unrequited",
+        "url": "https://open.spotify.com/album/5vcOqTHsZfnlzcDoqxND2P"
+      },
+      "artists": [
+        {
+          "name": "Rolipso",
+          "url": "https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI"
+        },
+        {
+          "name": "fwd/slash",
+          "url": "https://open.spotify.com/artist/6tFIXOQGf0Hld1gCjBkLaw"
+        }
+      ],
+      "duration_ms": 171696,
+      "name": "Unrequited",
+      "url": "https://open.spotify.com/track/5bJR6i9egmQTzBuqez7eo7"
     },
     {
       "added_at": "2022-10-30 13:51:21",
@@ -1411,6 +1411,26 @@
     {
       "added_at": "2022-10-30 13:51:21",
       "album": {
+        "name": "This Love",
+        "url": "https://open.spotify.com/album/4JQ00p7OYAiNsa3etPj070"
+      },
+      "artists": [
+        {
+          "name": "Klangkarussell",
+          "url": "https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo"
+        },
+        {
+          "name": "Poppy Baskcomb",
+          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
+        }
+      ],
+      "duration_ms": 235763,
+      "name": "This Love",
+      "url": "https://open.spotify.com/track/6WYRMJqj9wpYmIdSfHQuEO"
+    },
+    {
+      "added_at": "2022-10-30 13:51:21",
+      "album": {
         "name": "See You On The Other Side",
         "url": "https://open.spotify.com/album/1epzNdkMhr8ERPKnYyUcqG"
       },
@@ -1445,7 +1465,7 @@
       "url": "https://open.spotify.com/track/28iHpIakBJCT7WsJAGw2QX"
     },
     {
-      "added_at": "2022-11-11 01:40:22",
+      "added_at": "2022-11-12 05:24:54",
       "album": {
         "name": "One More Night",
         "url": "https://open.spotify.com/album/1yysGeBcekP8zwh286sr5y"
@@ -1459,6 +1479,22 @@
       "duration_ms": 132960,
       "name": "One More Night",
       "url": "https://open.spotify.com/track/6ndYXyIxeRv7pS4hHH830J"
+    },
+    {
+      "added_at": "2022-10-30 13:51:21",
+      "album": {
+        "name": "Heartbreak In Seychelles",
+        "url": "https://open.spotify.com/album/4ZP30YFMMl9TSstermvNmL"
+      },
+      "artists": [
+        {
+          "name": "Thom Merlin",
+          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
+        }
+      ],
+      "duration_ms": 176307,
+      "name": "Heartbreak In Seychelles",
+      "url": "https://open.spotify.com/track/1blZk1wWpMkLflaNHtUOlZ"
     },
     {
       "added_at": "2022-10-30 13:51:21",
@@ -1479,22 +1515,6 @@
       "duration_ms": 153812,
       "name": "Ocean Drive",
       "url": "https://open.spotify.com/track/7lN0cKK4jrnolhjv0myUGm"
-    },
-    {
-      "added_at": "2022-10-30 13:51:21",
-      "album": {
-        "name": "Heartbreak In Seychelles",
-        "url": "https://open.spotify.com/album/4ZP30YFMMl9TSstermvNmL"
-      },
-      "artists": [
-        {
-          "name": "Thom Merlin",
-          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
-        }
-      ],
-      "duration_ms": 176307,
-      "name": "Heartbreak In Seychelles",
-      "url": "https://open.spotify.com/track/1blZk1wWpMkLflaNHtUOlZ"
     },
     {
       "added_at": "2022-10-30 13:51:21",
@@ -1571,22 +1591,6 @@
       "duration_ms": 178236,
       "name": "Room",
       "url": "https://open.spotify.com/track/0nnOUYjKs5IWiMg414VFFT"
-    },
-    {
-      "added_at": "2022-10-30 13:51:21",
-      "album": {
-        "name": "Carefree",
-        "url": "https://open.spotify.com/album/5tkMleJ6r7RNXpDrzgE7vT"
-      },
-      "artists": [
-        {
-          "name": "Cogitation",
-          "url": "https://open.spotify.com/artist/03cw3islnFkglHBqaVuDMq"
-        }
-      ],
-      "duration_ms": 171944,
-      "name": "Carefree",
-      "url": "https://open.spotify.com/track/079DiktOmAQiwoYwFYspSH"
     }
   ],
   "unique_name": "Dance Chill",

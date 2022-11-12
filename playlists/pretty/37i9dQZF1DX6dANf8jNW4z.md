@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dANf8jNW4z.md) - [plain]
 
 > Escucha a estas extraordinarias artistas a todo volumen\. Foto: María Peláe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,037 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,070 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

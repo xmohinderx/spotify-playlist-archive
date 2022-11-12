@@ -459,7 +459,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 213720,
       "name": "Cold Times",
       "url": "https://open.spotify.com/track/1INvWY0xcIMij69ACS9JFm"
@@ -646,6 +646,24 @@
     },
     {
       "album": {
+        "name": "Festival Music 2022",
+        "url": "https://open.spotify.com/album/4GWUWeGzDHP3J6hIKKrTB5"
+      },
+      "artists": [
+        {
+          "name": "Yola",
+          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204693,
+      "name": "Diamond Studded Shoes",
+      "url": "https://open.spotify.com/track/40IKRcWQ7AmmLe0397l1Wb"
+    },
+    {
+      "album": {
         "name": "Stand For Myself",
         "url": "https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV"
       },
@@ -657,7 +675,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 204693,
       "name": "Diamond Studded Shoes",
       "url": "https://open.spotify.com/track/5SfM1f729pv1DdiEcyDiex"
@@ -2338,6 +2356,24 @@
     },
     {
       "album": {
+        "name": "Me Before You (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3WT1mEcabGFCvUWpeN5dtq"
+      },
+      "artists": [
+        {
+          "name": "Max Jury",
+          "url": "https://open.spotify.com/artist/3MuPVbFDynbq9zRTAqjRxi"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245986,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/7DM3hMeOT4yFdzzLJZiafD"
+    },
+    {
+      "album": {
         "name": "Max Jury",
         "url": "https://open.spotify.com/album/4dylZZrQcKM84MAAmvkIlb"
       },
@@ -2349,7 +2385,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 250414,
       "name": "Numb",
       "url": "https://open.spotify.com/track/7n2xBCtl9qFMVnbKjWOvH4"
@@ -2806,6 +2842,24 @@
     },
     {
       "album": {
+        "name": "Mellow Summer",
+        "url": "https://open.spotify.com/album/7rdNrR0gVmevOWDO0CO6Xl"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238560,
+      "name": "River",
+      "url": "https://open.spotify.com/track/4B7iMBGmm5woNqs6Oj3GpT"
+    },
+    {
+      "album": {
         "name": "River",
         "url": "https://open.spotify.com/album/5kw1sYIun4OLLTbgeeDsRz"
       },
@@ -2835,7 +2889,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 240200,
       "name": "River",
       "url": "https://open.spotify.com/track/3hhbDnFUb2bicI2df6VurK"
@@ -3471,7 +3525,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 227092,
       "name": "To the Boys",
       "url": "https://open.spotify.com/track/4km3aB077ieI1Gli9XapiV"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3KVUA2wMxEf.md) - [plain]
 
 > Vibras rastafari para poner en sintonía el corazón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,445 likes - 60 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,542 likes - 60 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3KVUA2wMxEf.md) - [plain]
 | 54 | [El Árbol](https://open.spotify.com/track/1q2GWueMnvjzYGksW2SBPJ) | [Olaya Sound System](https://open.spotify.com/artist/6sVCc3GjCgPU7Vk56h8Zi3) | [El Árbol](https://open.spotify.com/album/5K0vKNaWvRSNKf0EbgUhSu) | 3:31 |
 | 55 | [Sensación](https://open.spotify.com/track/6LbMjdYpQvJxDTgAVqNM0T) | [Contravos](https://open.spotify.com/artist/0q6mxrr4ww5O7gewXHIFMC), [BlackDali](https://open.spotify.com/artist/6fQBCAmdaMg4d9WYOMW58B) | [Actor Espectador](https://open.spotify.com/album/1ZHhYDXil7KaimaJkRa3CF) | 3:49 |
 | 56 | [Distancia y Ficción](https://open.spotify.com/track/6YZFu1qIZA9o8ryEeoCVpl) | [Tarará](https://open.spotify.com/artist/3pOCFYJe0tWqFlX7XqF4cn) | [Distancia y Ficción](https://open.spotify.com/album/3dpycFGnz2H4v4CGOHs1kO) | 2:15 |
-| 57 | [Armonía de Amor](https://open.spotify.com/track/1BOHhZdibWaIAAcezaZcRS) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Pincoya Calipso \- Pasado, Presente y Futuro](https://open.spotify.com/album/7wrqy1Srwe2QqpYb4Rq7V6) | 3:53 |
-| 58 | [Véngase I](https://open.spotify.com/track/10cvJo9m4XDScMszhejYnS) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Véngase I](https://open.spotify.com/album/7xR8qP8sNJ9iVleh6TulR1) | 4:22 |
+| 57 | [Véngase I](https://open.spotify.com/track/10cvJo9m4XDScMszhejYnS) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Véngase I](https://open.spotify.com/album/7xR8qP8sNJ9iVleh6TulR1) | 4:22 |
+| 58 | [Armonía de Amor](https://open.spotify.com/track/1BOHhZdibWaIAAcezaZcRS) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Pincoya Calipso \- Pasado, Presente y Futuro](https://open.spotify.com/album/7wrqy1Srwe2QqpYb4Rq7V6) | 3:53 |
 | 59 | [Sentimiento Original](https://open.spotify.com/track/5zaZFtFBP270yl6vlsRlLM) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Gondwana](https://open.spotify.com/album/5paQ41XAANQ2zxgpVuy3S5) | 4:54 |
 | 60 | [Mi Princesa](https://open.spotify.com/track/0a9HP54S2zpCjO3yOYxL3k) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Tardes Latinas](https://open.spotify.com/album/29qcLHFmOiSVR7Pa6ZC7mT) | 4:23 |
 
-Snapshot ID: `MTY0NTU1MDUyMywwMDAwMDAwMDU1NDk4YmM4NTI5NGE0ZTJhNzJjNDJlNTg2OGI5ZWVh`
+Snapshot ID: `MTY0NTU1MDUyMywwMDAwMDAwMDllMzE1ZjVjN2U0MzhjOTVmYTlkZDJmZDE1ZGQxY2Y1`

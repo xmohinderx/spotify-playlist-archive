@@ -124,6 +124,24 @@
     },
     {
       "album": {
+        "name": "urban lounge",
+        "url": "https://open.spotify.com/album/18S1slBXavEGjhjJgVEPhr"
+      },
+      "artists": [
+        {
+          "name": "Young Disciples",
+          "url": "https://open.spotify.com/artist/3kJihkcV0ZHZCoKngxp5c4"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240053,
+      "name": "Apparently Nothin' - Edit",
+      "url": "https://open.spotify.com/track/5OpfYk7WM53sDn3GQdrnZt"
+    },
+    {
+      "album": {
         "name": "The People Tree",
         "url": "https://open.spotify.com/album/3OPuEGeKNwmxTfvOQJUh0Y"
       },
@@ -244,6 +262,28 @@
     },
     {
       "album": {
+        "name": "The Anthology",
+        "url": "https://open.spotify.com/album/12cGytJRlgjkILDYLB7tdD"
+      },
+      "artists": [
+        {
+          "name": "Omar",
+          "url": "https://open.spotify.com/artist/0BzTIDnFI4pvhy7vVNd41Z"
+        },
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250965,
+      "name": "Be Thankful (feat. Erykah Badu)",
+      "url": "https://open.spotify.com/track/4rmhWBQD1jt02FadWKFHPe"
+    },
+    {
+      "album": {
         "name": "Pass It On",
         "url": "https://open.spotify.com/album/789KsljLATC1ZZDAxBeK27"
       },
@@ -259,7 +299,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 253173,
       "name": "Be Thankful (feat. Erykah Badu)",
       "url": "https://open.spotify.com/track/20RTW1RVNY4B2uUo2MrFTg"
@@ -649,7 +689,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 209509,
       "name": "Crazy That You Love",
       "url": "https://open.spotify.com/track/4Z4lh6KduIfW4REI6XGnDw"
@@ -2463,7 +2503,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 243586,
       "name": "The Light",
       "url": "https://open.spotify.com/track/5fybLNY2eBRnEGg8SUW6yk"
@@ -2903,7 +2943,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 394826,
       "name": "Whatchugot",
       "url": "https://open.spotify.com/track/5kMnWSBKSLnN7Su1XDTttO"

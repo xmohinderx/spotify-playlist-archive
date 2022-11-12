@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5NXVhu59GCz.md) - [plain]
 
 > Acid blues, psy\-blues and the early pioneers of psychedelic rock.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,399 likes - 50 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,426 likes - 50 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5NXVhu59GCz.md) - [plain]
 | 2 | [Piece of My Heart](https://open.spotify.com/track/1xKQbqQtQWrtQS47fUJBtl) | [Big Brother & The Holding Company](https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo), [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Cheap Thrills](https://open.spotify.com/album/2rogKfOpmCFuqNhtGKf2dX) | 4:13 |
 | 3 | [Flying High](https://open.spotify.com/track/5v0ibjQegpYdMUGL95dI1a) | [Country Joe & The Fish](https://open.spotify.com/artist/0a63dfrxBQKqh160P8iUNL) | [Electric Music For The Mind And Body](https://open.spotify.com/album/1PdqT2EZfFkWTsN18x1SZk) | 2:41 |
 | 4 | [Evil Woman](https://open.spotify.com/track/5hZHU4ODhJJhB28Q5MdQHa) | [Canned Heat](https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU) | [Boogie With Canned Heat](https://open.spotify.com/album/4GIv54tOpYbmQ2eGojw4Rr) | 2:57 |
-| 5 | [Mannish Boy](https://open.spotify.com/track/0hnlRgTh80b1emNnM0jmwt) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Both Sides of the Sky](https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407) | 5:01 |
-| 6 | [Strange Brew](https://open.spotify.com/track/3ET8TZWF5sP4SPfJK1lKun) | [Cream](https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw) | [Disraeli Gears](https://open.spotify.com/album/6fRqzJT070Kp9RWlSXmKcY) | 2:46 |
+| 5 | [Strange Brew](https://open.spotify.com/track/3ET8TZWF5sP4SPfJK1lKun) | [Cream](https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw) | [Disraeli Gears](https://open.spotify.com/album/6fRqzJT070Kp9RWlSXmKcY) | 2:46 |
+| 6 | [Mannish Boy](https://open.spotify.com/track/0hnlRgTh80b1emNnM0jmwt) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Both Sides of the Sky](https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407) | 5:01 |
 | 7 | [Baby Please Don't Go](https://open.spotify.com/track/5FDGmW9TgycCTVwPnKZ4xC) | [The Amboy Dukes](https://open.spotify.com/artist/5cVLuEqb7aOHuzwssXHzWI) | [Journey To The Center Of The Mind](https://open.spotify.com/album/1C7Z6X7m9uxVP9Jtaoyvj5) | 5:38 |
 | 8 | [Unconscious Power](https://open.spotify.com/track/1nE3arIIBRNwzzbBxhhSC4) | [Iron Butterfly](https://open.spotify.com/artist/3cdvlbCYf4WoBdy89RWkNS) | [Heavy](https://open.spotify.com/album/1J2sJJSNlSoWAT9JWBEBeW) | 2:30 |
 | 9 | [Death Sound](https://open.spotify.com/track/0H0g1bov9Zf2Ebqgod7R9R) | [Country Joe & The Fish](https://open.spotify.com/artist/0a63dfrxBQKqh160P8iUNL) | [Electric Music For The Mind And Body](https://open.spotify.com/album/1PdqT2EZfFkWTsN18x1SZk) | 4:26 |
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5NXVhu59GCz.md) - [plain]
 | 18 | [3 O'Clock Blues \- 1999 RemasterStereo](https://open.spotify.com/track/41849X1PrqMv0elH2prPWp) | [Love Sculpture](https://open.spotify.com/artist/4D1hYdWKVKyQQQNxNHlYtq) | [Blues Helping](https://open.spotify.com/album/08ihWWd9zFaUBPjF7Hs8PB) | 5:10 |
 | 19 | [Contemporary Chick Con Song \- Remastered](https://open.spotify.com/track/0ejMOOcG8JLEum6LfoPVtl) | [Steamhammer](https://open.spotify.com/artist/78sxSGdMQas5prtm6LZXyj) | [Mk\. II \(Remastered\)](https://open.spotify.com/album/1BSUQlD675LWJVS4owvcQn) | 4:55 |
 | 20 | [The Train Kept A\-Rollin'](https://open.spotify.com/track/6pW2lKORQaIC6JR4qBNG9e) | [The Yardbirds](https://open.spotify.com/artist/2lxX1ivRYp26soIavdG9bX) | [The Yardbirds Story \- Pt\. 3 \- 1965/66 \- Big Hits & America Calling](https://open.spotify.com/album/0lYmtEuL0fLXPP4XKr5O8K) | 3:28 |
-| 21 | [Fox Is Sick](https://open.spotify.com/track/7uEw55wwByGZnEUTX0MaEI) | [The Savage Resurrection](https://open.spotify.com/artist/16dZsYfKoAqmnt1tyhAPkE) | [The Savage Resurrection](https://open.spotify.com/album/2Tzvkt45C7PLlLICWYNslu) | 2:42 |
-| 22 | [A "B" Side](https://open.spotify.com/track/32j6XpAsQ47PFtSyXHTMuI) | [Manfred Mann](https://open.spotify.com/artist/5670CyWrIOA7702gNjsGMZ) | [Ragamuffin Man / A ‘B’ Side](https://open.spotify.com/album/0x7WEKNnRKa9Du2PzXyBP0) | 5:13 |
+| 21 | [A "B" Side](https://open.spotify.com/track/32j6XpAsQ47PFtSyXHTMuI) | [Manfred Mann](https://open.spotify.com/artist/5670CyWrIOA7702gNjsGMZ) | [Ragamuffin Man / A ‘B’ Side](https://open.spotify.com/album/0x7WEKNnRKa9Du2PzXyBP0) | 5:13 |
+| 22 | [Fox Is Sick](https://open.spotify.com/track/7uEw55wwByGZnEUTX0MaEI) | [The Savage Resurrection](https://open.spotify.com/artist/16dZsYfKoAqmnt1tyhAPkE) | [The Savage Resurrection](https://open.spotify.com/album/2Tzvkt45C7PLlLICWYNslu) | 2:42 |
 | 23 | [Crimson & Clover](https://open.spotify.com/track/67kP4RjiGxSggSO5YniuLC) | [Aguaturbia](https://open.spotify.com/artist/1GGnADQvJeAIqtrjWc0CFc) | [Psychedelic Drugstore \- Remastered](https://open.spotify.com/album/6TrlKpZSlcw3qzdHc42QzP) | 10:35 |
 | 24 | [Sally Go 'Round the Roses](https://open.spotify.com/track/1w7Gu4ohc5YLkgJMdRwin1) | [Grace Slick](https://open.spotify.com/artist/3wNX7r7t4Vaahrx9XzyYIY), [The Great Society](https://open.spotify.com/artist/2ukLYCAJW8XDlyobhmWQ8x) | [Grace Slick & The Great Society](https://open.spotify.com/album/74cJP3XQnuylRJDguGCRyY) | 6:32 |
 | 25 | [Too Many Do](https://open.spotify.com/track/68dutymBmCsq2jVjPe4Jek) | [The Peanut Butter Conspiracy](https://open.spotify.com/artist/1mUgTcokhM7BSqp8mXhy8U) | [The Great Conspiracy \(Bonus Track Version\)](https://open.spotify.com/album/676LQ4bm6IMzPIhndDVQM8) | 6:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5NXVhu59GCz.md) - [plain]
 | 49 | [Trials of a City](https://open.spotify.com/track/3b5jvjpB3Uf88uilq0aGLF) | [Mighty Baby](https://open.spotify.com/artist/0OCbY2Rzt59ilutteUnG8I) | [Mighty Baby](https://open.spotify.com/album/32ZtQafs8OxDkFTOFvprN7) | 6:01 |
 | 50 | [I Can't Dance](https://open.spotify.com/track/4MT7JJWn6AOcUHvakxSbpN) | [Barry Melton](https://open.spotify.com/artist/1ugWCcIaInMcgJN2ghXfXi) | [Level with Me](https://open.spotify.com/album/0hURuklitZ9QZFg6OBnWCM) | 2:39 |
 
-Snapshot ID: `MTY0ODQ5NTUwNCwwMDAwMDAwMGJlNTRiMGE4OWUxZDUwNTg4OGUyYjk0NjY5OWU2MDll`
+Snapshot ID: `MTY0ODQ5NTUwNCwwMDAwMDAwMDY0NWU2ZGYxZWFmZmQ0YmZlNjlkNDAyZWY0MzI0YThh`

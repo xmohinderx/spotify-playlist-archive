@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQllLRMgY9S.md) - [plain]
 
 > Listen to brand new music as it arrives and all the classics from the true blue Queen of Pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,860 likes - 59 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,945 likes - 59 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQllLRMgY9S.md) - [plain]
 | 35 | [Vogue \- MDNA World Tour / Live 2012](https://open.spotify.com/track/4A6LUIzDhbu3A01agDT1yz) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [MDNA World Tour](https://open.spotify.com/album/1ZZSvLZfbkBDIFPSMi3Cqk) | 4:08 |
 | 36 | [Hollywood](https://open.spotify.com/track/4ixxz1GXB57Q6K2nbR4AwL) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [American Life](https://open.spotify.com/album/6makHXbA3KBYNlYEPXyFJW) | 4:24 |
 | 37 | [Dark Ballet](https://open.spotify.com/track/4fxz9qgPY0L2EWsbmj5N5j) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Madame X \(Deluxe\)](https://open.spotify.com/album/1G2YEQPXaOj1JZwa3ZiGe8) | 4:14 |
-| 38 | [American Pie](https://open.spotify.com/track/143846q5fnmWrMNx2fHa4W) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [American Pie](https://open.spotify.com/album/387uL7LCtyfUPuUxKvxycI) | 4:33 |
+| 38 | [American Pie](https://open.spotify.com/track/1vo6TY0FyLRBTXohxvflhJ) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [The Next Best Thing \(Music From The Motion Picture\)](https://open.spotify.com/album/3VMwwLeNAMWBdVIgbF6m2v) | 4:33 |
 | 39 | [Beautiful Stranger](https://open.spotify.com/track/3DlRZM6zKSlAZigHbJQ3cp) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 4:20 |
 | 40 | [Dress You Up](https://open.spotify.com/track/4B2r9HXgUqRcPwUG3BYPlc) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 4:02 |
 | 41 | [God Control](https://open.spotify.com/track/1g1KZTgP2crk4QMOIZXlcA) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Madame X \(Deluxe\)](https://open.spotify.com/album/1G2YEQPXaOj1JZwa3ZiGe8) | 6:19 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQllLRMgY9S.md) - [plain]
 | 58 | [Come Alive](https://open.spotify.com/track/6hHPBnTvgBjmJoUowLa23S) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Madame X \(Deluxe\)](https://open.spotify.com/album/1G2YEQPXaOj1JZwa3ZiGe8) | 4:02 |
 | 59 | [Looking For Mercy](https://open.spotify.com/track/1MyVadO3ei1DGHVbDowQGv) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Madame X \(Deluxe\)](https://open.spotify.com/album/1G2YEQPXaOj1JZwa3ZiGe8) | 4:50 |
 
-Snapshot ID: `MTY2MzA3NTg2MCwwMDAwMDAwMDE5NGQ2ZGNkYmQ5ZmQyZTcyNDg2MmM2ZmEzNTY0NjUw`
+Snapshot ID: `MTY2MzA3NTg2MCwwMDAwMDAwMGE3YjZjNzQzMzNkNGJhMzgwMzU2N2EwOWU1NzFlZjFl`

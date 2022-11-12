@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-21",
-  "description": "La m\u00fasica que te acompa\u00f1a en el amor. Foto: Reik + Rusherking",
+  "description": "La m\u00fasica que te acompa\u00f1a en el amor. Foto: Pablo Albor\u00e1n & Maria Becerra",
   "name": "Enamor\u00e1ndose",
   "published_playlist_ids": [
     "1AAjF0AYqsSQNvAOQluejC"
@@ -175,10 +175,32 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 220161,
       "name": "Ahora S\u00e9",
       "url": "https://open.spotify.com/track/4Xn8A5LqK9p8wDDSG2gHiM"
+    },
+    {
+      "album": {
+        "name": "Amigos (con Maria Becerra)",
+        "url": "https://open.spotify.com/album/3znR1F0VbgfKsDyTeC0Nt8"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233755,
+      "name": "Amigos (con Maria Becerra)",
+      "url": "https://open.spotify.com/track/34tHZJLk0adg5tW49iybbE"
     },
     {
       "album": {
@@ -757,6 +779,24 @@
       "duration_ms": 231593,
       "name": "De Vuelta Pa' La Vuelta",
       "url": "https://open.spotify.com/track/7AUhck1sPy11OExQmDDx4P"
+    },
+    {
+      "album": {
+        "name": "SI AYER FUERA HOY",
+        "url": "https://open.spotify.com/album/1BUb9ayIoyy6T3iwMscDts"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144631,
+      "name": "Deb\u00ed Suponerlo",
+      "url": "https://open.spotify.com/track/2pIIRKRwWSi1Sb29VYLOOa"
     },
     {
       "album": {
@@ -2449,7 +2489,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 154293,
       "name": "Se Nos Rompi\u00f3 El Amor",
       "url": "https://open.spotify.com/track/3JjjmUzjEdFdDiNyJdpDTT"
@@ -2729,6 +2769,24 @@
       "duration_ms": 186000,
       "name": "Tarde",
       "url": "https://open.spotify.com/track/0lkwcRAUa1LnzBisyKtAqg"
+    },
+    {
+      "album": {
+        "name": "Te Echo de Menos",
+        "url": "https://open.spotify.com/album/0HVcUL17jKyY4F8PqiUF8T"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Montaner",
+          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205357,
+      "name": "Te Echo de Menos",
+      "url": "https://open.spotify.com/track/5e8muKs11JnVqyEBMsLYFg"
     },
     {
       "album": {
@@ -3087,7 +3145,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 182875,
       "name": "Ya No Quiero Verte",
       "url": "https://open.spotify.com/track/5lSbAT0W53MJJxWMIaPwRX"

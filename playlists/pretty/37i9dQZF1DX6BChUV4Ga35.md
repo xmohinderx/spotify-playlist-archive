@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BChUV4Ga35.md) - [plain]
 
 > Your family can visit all of the animals at the zoo with this fun playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,273 likes - 82 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,275 likes - 82 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,13 +24,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BChUV4Ga35.md) - [plain]
 | 14 | [Monkey Man](https://open.spotify.com/track/0sju4xli0oRgqD92eRbt0H) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf), [Kylie Minogue](https://open.spotify.com/artist/5ohs9d8kIe6Hq5exybThql) | [The Wiggles Duets](https://open.spotify.com/album/3hf0SPHZbOE9SUNpsnnJOU) | 2:22 |
 | 15 | [Big Shark](https://open.spotify.com/track/45hdxGKS4dTgq6KXNF6s6s) | [Urban Tails](https://open.spotify.com/artist/06UozYz8Pa1cAYrMSWUYXI) | [Urban Tails](https://open.spotify.com/album/3CfzVCZnB0PR5HGfu7B5t5) | 1:45 |
 | 16 | [Ants Go Marching](https://open.spotify.com/track/4JwpZ2LNT5pcOwxP5f1bqC) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Ants Go Marching](https://open.spotify.com/album/4sSUjh5Sst0G387Zr77Gbx) | 1:40 |
-| 17 | [Animal Sounds Song](https://open.spotify.com/track/1Y6yUVFfvlWmkt9D227NAL) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn) | [Blippi Tunes, Vol\. 3](https://open.spotify.com/album/4yXRgaXo2hTMr4aRPCL21b) | 2:32 |
+| 17 | [Animal Sounds Song](https://open.spotify.com/track/6ARV6Hi3CgN4iUtDUJfIZ9) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn) | [Animals of the World](https://open.spotify.com/album/1UVpE8K9czwRpKC6xys6Dt) | 2:32 |
 | 18 | [The Jellyfish](https://open.spotify.com/track/08221iLHyVM0hykn8E0ibQ) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [Down In the Deep Blue Sea](https://open.spotify.com/album/2EwkJCo5ob9YTnvD16WUGC) | 1:46 |
 | 19 | [Baby Beluga \- 40th Anniversary Version](https://open.spotify.com/track/40oUxbmsYW6a62kmuJgsEv) | [Raffi](https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk) | [Baby Beluga \(40th Anniversary Version\)](https://open.spotify.com/album/3rJ1zQgh9ngMK5Oby68n36) | 3:28 |
 | 20 | [Come Down Here Monkey](https://open.spotify.com/track/31BRmSfrbw92QFlu6mxVYL) | [Caspar Babypants](https://open.spotify.com/artist/4wwj0BGZ6T61LB1jBWdo0n) | [Happy Heart!](https://open.spotify.com/album/38BYpjGvtDXjUi5hgDyTz1) | 2:28 |
 | 21 | [Oh Deer](https://open.spotify.com/track/5zdiFHxDaLMz1eZ18CHDGg) | [Urban Tails](https://open.spotify.com/artist/06UozYz8Pa1cAYrMSWUYXI) | [Urban Tails](https://open.spotify.com/album/3CfzVCZnB0PR5HGfu7B5t5) | 1:46 |
 | 22 | [Bees Can Talk by Moving Their Butts](https://open.spotify.com/track/3jtsg0PEBWqbTFG9qIdUSx) | [Chompers](https://open.spotify.com/artist/7nfJo4SRyJHZeD7xLaTi7z) | [Songs to Brush Your Teeth To](https://open.spotify.com/album/3kkKwoIagtiBFyUVgZpRtG) | 1:53 |
-| 23 | [Animal Bop](https://open.spotify.com/track/1Y7maeiqIvifJbs5iP0NB2) | [YolanDa](https://open.spotify.com/artist/4hm4WFGcx2tbuHgHkGGLjq), [YolanDa Brown](https://open.spotify.com/artist/4VGGxAkrs07Y4vyCdiaxq0) | [YolanDa's Band Jam](https://open.spotify.com/album/5ao41Lw4krw6XAn8KI0jbc) | 2:56 |
+| 23 | [Animal Bop](https://open.spotify.com/track/7kL28gyDAxXAiOEHTI67tn) | [YolanDa](https://open.spotify.com/artist/4hm4WFGcx2tbuHgHkGGLjq), [YolanDa Brown](https://open.spotify.com/artist/4VGGxAkrs07Y4vyCdiaxq0) | [YolanDa's Band Jam \(Deluxe Version\)](https://open.spotify.com/album/4eBl8hgG2Dm0155Z3zd1qk) | 2:56 |
 | 24 | [Bounce Like a Bunny](https://open.spotify.com/track/2NIFGVRr4hkbefiViKjGpb) | [Bounce Patrol](https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm) | [Bounce Like a Bunny](https://open.spotify.com/album/7iPcccVEN3J8les524Hbc9) | 1:49 |
 | 25 | [Animal Tea Party](https://open.spotify.com/track/12xKVbyhbv4xYuV6ix6X87) | [Mr Yipadee](https://open.spotify.com/artist/2EDBzZNew0M639G7RKCTsS), [Deano Yipadee](https://open.spotify.com/artist/7hQbFjNyMcJxjwmlieqPy1) | [Animal Tea Party](https://open.spotify.com/album/2fgkAS7QhojInU1K29KjvF) | 2:18 |
 | 26 | [Bug Out](https://open.spotify.com/track/5YY2Em0TLlczXmkTsuwKj6) | [The Pop Ups](https://open.spotify.com/artist/3GkU6eKKcQk2cOtu14MDgw) | [Appetite for Construction](https://open.spotify.com/album/7DKfQFAPfVDwBwTdZd8hD3) | 4:04 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BChUV4Ga35.md) - [plain]
 | 81 | [Baby Animals](https://open.spotify.com/track/6Cqinxek9SxhSsooX5rAhL) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Pinkfong Animal Songs](https://open.spotify.com/album/1S7mumn7D4riEX2gVWYgPO) | 1:12 |
 | 82 | [Monkey Man](https://open.spotify.com/track/3vUHNARtop9HTid0kasu66) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf), [Kylie Minogue](https://open.spotify.com/artist/5ohs9d8kIe6Hq5exybThql) | [Hit Songs and Rarities](https://open.spotify.com/album/0sNCyOvNDTgmzFhmfASPzz) | 2:34 |
 
-Snapshot ID: `MTY1ODc1NDUwMiwwMDAwMDAwMGMwYWIwYmUwMWJkY2EzYWEwYjNkZTQwMDNjMWFjNGNm`
+Snapshot ID: `MTY1ODc1NDUwMiwwMDAwMDAwMGU1ZTJiNjlhZTA4NDgyMDA2NjBmYWY5ZjYxOTE5NTQ4`

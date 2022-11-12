@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 
 > 日本の現代ジャズシーンで活躍するアーティストをピックアップ。cover: 河野祐亮
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,383 likes - 50 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,442 likes - 50 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 | 8 | [Blackberry Winter](https://open.spotify.com/track/1QLz0xLqYiTLH1wgFH6syY) | [秩父英里](https://open.spotify.com/artist/3zVWuFMxi3W6BBeKUZX8GO) | [Crossing Reality](https://open.spotify.com/album/1D26JQHB9n7RDINZ5O8tXe) | 4:38 |
 | 9 | [Mr.Kelp](https://open.spotify.com/track/78AsSev9SxDU4H1TNOpeQr) | [寺久保伶矢](https://open.spotify.com/artist/5p9vfpKQ32WYNdtyt6oSlE) | [Mr.Kelp](https://open.spotify.com/album/397OakmJY7vTlw15J9b1dK) | 3:56 |
 | 10 | [具縄](https://open.spotify.com/track/3FuM8gmydIY2D4Q4BYvMTP) | [UHHO UHHO UHHO](https://open.spotify.com/artist/2Deww3VSIaAANtnUSpYLZ1) | [具縄](https://open.spotify.com/album/2KqcYIchslRedPNFe8MPuL) | 5:00 |
-| 11 | [All I Want](https://open.spotify.com/track/5dQBgiQpBL3OUog4yJiWnz) | [Sunaga T Experience](https://open.spotify.com/artist/3wk47tC10a5UfPokpH6lmj), [J.Lamotta Suzume](https://open.spotify.com/artist/4PCjbW43D4mDVZjpMg9iU1) | [All I Want](https://open.spotify.com/album/5Rf11k7OdhnxUAs5EuGadY) | 4:54 |
+| 11 | [All I Want](https://open.spotify.com/track/5dQBgiQpBL3OUog4yJiWnz) | [Sunaga T Experience](https://open.spotify.com/artist/3wk47tC10a5UfPokpH6lmj), [J.Lamotta Suzume](https://open.spotify.com/artist/76O0DRobXGao078KT0xci8) | [All I Want](https://open.spotify.com/album/5Rf11k7OdhnxUAs5EuGadY) | 4:54 |
 | 12 | [Everybody Loves The Sunshine](https://open.spotify.com/track/4F17fOFNxTHhNk6fXq46w6) | [Takuya Kuroda](https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP), [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz) | [Rising Son](https://open.spotify.com/album/7GDnn7XSLCIjZkBkw0SMZd) | 9:25 |
 | 13 | [qualia](https://open.spotify.com/track/5I9k1tmY1hk5WUYQDAvMbh) | [PRIMITIVE ART ORCHESTRA](https://open.spotify.com/artist/5HrFJi08nNdu50d0AQVEi0) | [qualia](https://open.spotify.com/album/17h27Orkm3gSuw7KwjZymP) | 3:24 |
 | 14 | [カリソメ乙女 \- DEATH JAZZ ver.](https://open.spotify.com/track/2M6Do3ldCBgbChvpxXhHfx) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi), [SOIL & “PIMP” SESSIONS](https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF) | [三文ゴシップ](https://open.spotify.com/album/4ryRMlHeVAEoNbN4XTquIm) | 2:29 |

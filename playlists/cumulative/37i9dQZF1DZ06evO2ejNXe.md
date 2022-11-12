@@ -4,7 +4,7 @@
 
 > This is Banda Zarape\. The essential tracks, all in one playlist.
 
-46 songs - 2 hr 32 min - [published](https://open.spotify.com/playlist/6FgtEwLsDoBJ1pzNYHsEP8)
+47 songs - 2 hr 34 min - [published](https://open.spotify.com/playlist/6FgtEwLsDoBJ1pzNYHsEP8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Dale Biberon](https://open.spotify.com/track/4Ld6hcn4xMtetpzPEMD3Jt) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Dale Biberon](https://open.spotify.com/album/4p4HDahX3yQTShFZLQWYyA) | 3:24 | 2022-06-02 |  |
 | [Dejala Que Baile](https://open.spotify.com/track/2Le3iMPtKKmdQmbohKBwXN) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Es La Primera Vez](https://open.spotify.com/album/1oDrAVB7a7vPeNTGiJlFHI) | 2:56 | 2022-06-01 |  |
 | [El Chango Lloron](https://open.spotify.com/track/3wBuwyiOOn3SDWJASq4bHR) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Dale Biberon](https://open.spotify.com/album/4p4HDahX3yQTShFZLQWYyA) | 3:23 | 2022-06-01 |  |
+| [El Loco Bailarín](https://open.spotify.com/track/2r2DOim3Av355zPCaeTHmx) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Pura Pachanga](https://open.spotify.com/album/3gGXqROt966AxFB6rZZFjr) | 2:29 | 2022-11-11 |  |
 | [El Pasadisco](https://open.spotify.com/track/5JkoYyOB55thgJcQicOTsm) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [El Reloj De Mi Corazon](https://open.spotify.com/album/13BpoCwBmr3a3KrK7rV47w) | 3:30 | 2022-06-01 |  |
 | [El Pulpo](https://open.spotify.com/track/15xfPAgrDU5YAJL6wPzpAN) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Caliente, Caliente](https://open.spotify.com/album/6tTgXH5EBY6FFV37ATLoUR) | 3:17 | 2022-06-01 |  |
 | [El Reloj De Mi Corazon](https://open.spotify.com/track/32a7j5CRWr8Yno9aHhU1qn) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [El Reloj De Mi Corazon](https://open.spotify.com/album/13BpoCwBmr3a3KrK7rV47w) | 4:17 | 2022-06-01 |  |

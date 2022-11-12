@@ -4,7 +4,7 @@
 
 > autumn leaves falling like pieces into place
 
-122 songs - 7 hr 59 min - [published](https://open.spotify.com/playlist/2OpSbK6iQOXEIaFpfFSyeZ)
+125 songs - 8 hr 10 min - [published](https://open.spotify.com/playlist/2OpSbK6iQOXEIaFpfFSyeZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,12 +26,14 @@
 | [Baby Where You Are](https://open.spotify.com/track/7tZwFmarYtM2Yxy8IRW8wb) | [Mountain Man](https://open.spotify.com/artist/5kmPNusdo1mCTyz4u1uEGm) | [Magic Ship](https://open.spotify.com/album/26ahuw4JsKSGyNN1PCZe83) | 2:49 | 2022-09-21 |  |
 | [Back to Autumn](https://open.spotify.com/track/3TdZbELsPLWYZAArGSfwyQ) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Holding On, Holding Out](https://open.spotify.com/album/0BmHDh5DQcdfUUGzvQ3pPR) | 3:19 | 2022-10-24 |  |
 | [Back to My Ways](https://open.spotify.com/track/4y35wvOfqaQHviNM8lR0tE) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [Back to My Ways](https://open.spotify.com/album/5PEra2sBfLlX46QY6CFcYS) | 5:47 | 2022-09-21 |  |
-| [Between the Bars](https://open.spotify.com/track/3mtIUX9LrCpIUiAAv9SD4a) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or](https://open.spotify.com/album/6KMdn9HDIqcBPaaok0K34K) | 2:21 | 2022-09-21 |  |
+| [Between the Bars](https://open.spotify.com/track/3mtIUX9LrCpIUiAAv9SD4a) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or](https://open.spotify.com/album/6KMdn9HDIqcBPaaok0K34K) | 2:21 | 2022-09-21 | 2022-11-12 |
+| [Between The Bars](https://open.spotify.com/track/3eLY8xMeyeJqlUG2UPcdEw) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Good Will Hunting](https://open.spotify.com/album/7EX07sDFRX9g2RRlXJB3dN) | 2:21 | 2022-10-24 |  |
 | [Big Jet Plane](https://open.spotify.com/track/3WGsYiBXmaT8XyY4Fmry2v) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Down the Way](https://open.spotify.com/album/78BXB0tWspQKtatJK5DTXZ) | 3:59 | 2022-10-24 |  |
 | [Bitter](https://open.spotify.com/track/2DkZisoN9h1dLa8Sn5sx0n) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [So Long Forever](https://open.spotify.com/album/6cmFNl8lllA6BGc7SKLy3y) | 3:53 | 2022-09-21 |  |
 | [Blackberry Song](https://open.spotify.com/track/2jGWmm8AkM9bEmMZObSXvu) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Childish Prodigy](https://open.spotify.com/album/3TmWAswHIm0Vb08qymeagU) | 3:26 | 2022-09-21 |  |
 | [Blood Red Sentimental Blues](https://open.spotify.com/track/2akMYW6w4sOWL1nhTzPJWu) | [Cotton Jones](https://open.spotify.com/artist/6RHDASo3OVNiNY2nrGx3qc) | [Paranoid Cocoon](https://open.spotify.com/album/44TwNftgA3QYaX3BBJAvGO) | 4:36 | 2022-09-21 |  |
-| [Blue Ridge Mountains](https://open.spotify.com/track/7bzzC7QIfflM9eEj2aqaYX) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Fleet Foxes](https://open.spotify.com/album/5GRnydamKvIeG46dycID6v) | 4:25 | 2022-09-21 |  |
+| [Blue Ridge Mountains](https://open.spotify.com/track/501QhO1l2ORqdauGL1Gnpr) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [First Collection 2006\-2009](https://open.spotify.com/album/6ou9sQOsIY5xIIX417L3ud) | 4:25 | 2022-10-24 |  |
+| [Blue Ridge Mountains](https://open.spotify.com/track/7bzzC7QIfflM9eEj2aqaYX) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Fleet Foxes](https://open.spotify.com/album/5GRnydamKvIeG46dycID6v) | 4:25 | 2022-09-21 | 2022-11-12 |
 | [Breathe \(2 AM\)](https://open.spotify.com/track/5auMzVHFr5Zfw6IbKarZ56) | [Anna Nalick](https://open.spotify.com/artist/4LoM3lMauQ540MW9QiyIcR) | [Wreck of the Day](https://open.spotify.com/album/30y0ZT845hhBoFNRKcZjT9) | 4:39 | 2022-09-21 |  |
 | [Bright Star](https://open.spotify.com/track/2MzJjyG6MWkAY8wQIfDMSZ) | [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Anaïs Mitchell](https://open.spotify.com/album/1ZpLitOlsiSKy0Sdmhudi6) | 3:10 | 2022-09-21 |  |
 | [Broken Finger Blues](https://open.spotify.com/track/71FYSkmSyrEncuZDqBnPiS) | [Richard Swift](https://open.spotify.com/artist/7fSjnDr8tBO37Xbb2UXuYr) | [The Hex](https://open.spotify.com/album/69OHkuXuh8djCi1LXdUCgr) | 4:20 | 2022-09-21 |  |
@@ -43,7 +45,8 @@
 | [Change](https://open.spotify.com/track/3HFBqhotJeEKHJzMEW31jZ) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 4:55 | 2022-09-21 |  |
 | [Changes](https://open.spotify.com/track/0gKiONJeEtwb3hps4sUgyn) | [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy), [The Law](https://open.spotify.com/artist/6DK3E5dh7jJrKyAHfucWBB) | [The Spirit Moves](https://open.spotify.com/album/77UiJMD9OVYj2YXr2gO9L5) | 2:41 | 2022-09-21 |  |
 | [Chateau](https://open.spotify.com/track/48mqfE8RHAaxVWSr3aSOjD) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Snow](https://open.spotify.com/album/4egQIHw55CVeZ9BlS3fEoL) | 4:33 | 2022-09-21 |  |
-| [Chin Up](https://open.spotify.com/track/1Q5gm2dsPwvJeQPQeNs2nv) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Chin Up](https://open.spotify.com/album/2W0l4M80ykkBI8WkPtHf7T) | 4:25 | 2022-09-21 |  |
+| [Chin Up](https://open.spotify.com/track/1Q5gm2dsPwvJeQPQeNs2nv) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Chin Up](https://open.spotify.com/album/2W0l4M80ykkBI8WkPtHf7T) | 4:25 | 2022-09-21 | 2022-11-12 |
+| [Chin Up](https://open.spotify.com/track/1kjmhLKMpBj0SUdW1tvPXY) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Safe and Sound](https://open.spotify.com/album/6iakL77RPmp31AjNV7ENCB) | 4:25 | 2022-10-24 |  |
 | [Chinese Translation](https://open.spotify.com/track/66bI8teVSntNwjQGv3pRtF) | [M\. Ward](https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI) | [Post\-War](https://open.spotify.com/album/7q74XeNS40vgLZhLrCdnuv) | 3:58 | 2022-09-21 |  |
 | [Coffee](https://open.spotify.com/track/30GGIrrJdSNtecPiFcVP5O) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [Sylvan Esso](https://open.spotify.com/album/1862qnxqsLeiNDblknjtiL) | 4:28 | 2022-09-21 |  |
 | [Cottage Roads](https://open.spotify.com/track/1LEK0kOPQrWihpzZO4rMkN) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [Young Men](https://open.spotify.com/album/5ADia0t4o7pA8dyi8jRA4E) | 3:01 | 2022-09-21 |  |

@@ -4,7 +4,7 @@
 
 > Sonido contemporáneo y algunos clásicos\. <br/>Foto: The Strokes.
 
-167 songs - 10 hr 50 min - [published](https://open.spotify.com/playlist/4EagXK2UFeb8VRjckjIwUL)
+169 songs - 10 hr 57 min - [published](https://open.spotify.com/playlist/4EagXK2UFeb8VRjckjIwUL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,8 @@
 | [Creep](https://open.spotify.com/track/70LcF31zb1H0PyJoS1Sx1r) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Pablo Honey](https://open.spotify.com/album/3gBVdu4a1MMJVMy6vwPEb8) | 3:58 | 2022-04-18 |  |
 | [Daddy Issues](https://open.spotify.com/track/5E30LdtzQTGqRvNd7l6kG5) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Wiped Out!](https://open.spotify.com/album/18iFxjZugvKhuNNMbLjZJF) | 4:20 | 2022-04-18 |  |
 | [Days Of Future Past](https://open.spotify.com/track/2L42uB1e5wuanTTPEWVe64) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Senjutsu](https://open.spotify.com/album/3TymcPWXqsCRA5oSL0TkPU) | 4:03 | 2022-04-18 | 2022-07-26 |
-| [Demons](https://open.spotify.com/track/3LlAyCYU26dvFZBDUIMb7a) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Night Visions](https://open.spotify.com/album/6htgf3qv7vGcsdxLCDxKp8) | 2:55 | 2022-07-25 |  |
+| [Demons](https://open.spotify.com/track/3LlAyCYU26dvFZBDUIMb7a) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Night Visions](https://open.spotify.com/album/6htgf3qv7vGcsdxLCDxKp8) | 2:55 | 2022-07-25 | 2022-11-12 |
+| [Demons](https://open.spotify.com/track/1Nv9AeLzP7GVNSe0Cfpned) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Halloween Party 2022](https://open.spotify.com/album/624LASK1ipzgobhmcECvgp) | 2:57 | 2022-10-14 |  |
 | [Demons](https://open.spotify.com/track/5qaEfEh1AtSdrdrByCP7qR) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Night Visions](https://open.spotify.com/album/6nxDQi0FeEwccEPJeNySoS) | 2:57 | 2022-04-18 | 2022-07-29 |
 | [Do I Wanna Know?](https://open.spotify.com/track/5FVd6KXrgO9B3JPmC8OPst) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 4:32 | 2022-04-18 |  |
 | [Don't Stop Me Now \- Remastered 2011](https://open.spotify.com/track/7hQJA50XrCWABAu5v6QZ4i) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Jazz \(Deluxe Remastered Version\)](https://open.spotify.com/album/21HMAUrbbYSj9NiPPlGumy) | 3:29 | 2022-07-25 |  |
@@ -132,7 +133,8 @@
 | [Snow \(Hey Oh\)](https://open.spotify.com/track/2aibwv5hGXSgw7Yru8IYTO) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Stadium Arcadium](https://open.spotify.com/album/7xl50xr9NDkd3i2kBbzsNZ) | 5:34 | 2022-04-18 |  |
 | [So Called Life](https://open.spotify.com/track/5EIKp1TKhUNdsThloWPa53) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [So Called Life](https://open.spotify.com/album/1dlAtdEHKRk6fLGfiPT8RW) | 3:26 | 2022-04-18 | 2022-07-26 |
 | [Softcore](https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Hard To Imagine The Neighbourhood Ever Changing](https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy) | 3:26 | 2022-07-25 |  |
-| [Something In The Way](https://open.spotify.com/track/1nFtiJxYdhtFfFtfXBv06s) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 3:52 | 2022-07-25 |  |
+| [Something In The Way](https://open.spotify.com/track/1UHoHmHWdu0EX557Oqoq2P) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind](https://open.spotify.com/album/6yaiubHHJy8N8QcHy3julo) | 3:52 | 2022-10-14 |  |
+| [Something In The Way](https://open.spotify.com/track/1nFtiJxYdhtFfFtfXBv06s) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 3:52 | 2022-07-25 | 2022-11-12 |
 | [Something In The Way](https://open.spotify.com/track/4gHnSNHs8RyVukKoWdS99f) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2UJcKiJxNryhL050F5Z1Fk) | 3:52 | 2022-07-25 | 2022-07-29 |
 | [Something In The Way \- Remastered 2021](https://open.spotify.com/track/112T8L9nCLAvHHJB3ZBA5U) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(30th Anniversary Super Deluxe\)](https://open.spotify.com/album/5eA0qtE7Yu29XiMlwoby2G) | 3:52 | 2022-04-18 | 2022-07-30 |
 | [Stressed Out](https://open.spotify.com/track/3CRDbSIZ4r5MsZ0YwxuEkn) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Blurryface](https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1) | 3:22 | 2022-04-18 |  |

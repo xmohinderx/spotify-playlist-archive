@@ -752,6 +752,48 @@
     },
     {
       "album": {
+        "name": "Rachmaninov: Bells / Rock (The)",
+        "url": "https://open.spotify.com/album/1pwOByPGP65rt3Ex8myVHM"
+      },
+      "artists": [
+        {
+          "name": "Sergei Rachmaninoff",
+          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
+        },
+        {
+          "name": "Ivan Choupenitch",
+          "url": "https://open.spotify.com/artist/4Mtnio4dydzELqgkRkopYJ"
+        },
+        {
+          "name": "Helen Field",
+          "url": "https://open.spotify.com/artist/4DJkGYFTzYjt0CkPP98vki"
+        },
+        {
+          "name": "Oleg Melnikov",
+          "url": "https://open.spotify.com/artist/6OG3r8FFGTj0915bzR3ewM"
+        },
+        {
+          "name": "RT\u00c9 Philharmonic Choir",
+          "url": "https://open.spotify.com/artist/67dWZTFdHXnciRsYqLQazr"
+        },
+        {
+          "name": "RT\u00c9 National Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/1UKYHr4TXjVaLFkQ0Y0Frq"
+        },
+        {
+          "name": "Alexander Anissimov",
+          "url": "https://open.spotify.com/artist/3HXvkZChjFMEaFWmBwb7mf"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401040,
+      "name": "Kolokola (The Bells), Op. 35: I. Allegro, ma non tanto",
+      "url": "https://open.spotify.com/track/4CW7FMA0aVRPIWdfzvi9dv"
+    },
+    {
+      "album": {
         "name": "RACHMANINOV: Bells / Rock (The)",
         "url": "https://open.spotify.com/album/3OLHaWpmsERizz0sfbvSVE"
       },
@@ -783,7 +825,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 401040,
       "name": "Kolokola (The Bells), Op. 35: I. Allegro, ma non tanto",
       "url": "https://open.spotify.com/track/7sTKiJ3Z4J66WJutW05Ugx"
@@ -1193,7 +1235,7 @@
     {
       "album": {
         "name": "Rachmaninov: Piano Sonatas Nos. 1 and 2",
-        "url": "https://open.spotify.com/album/7I0QAPeBKajM5OoyMIkcH1"
+        "url": "https://open.spotify.com/album/1U7Rc7D6ELXHihcPD7wbJj"
       },
       "artists": [
         {
@@ -1210,7 +1252,51 @@
       "date_removed": null,
       "duration_ms": 714040,
       "name": "Piano Sonata No. 2 in B-Flat Minor, Op. 36 (1913 version): I. Allegro agitato",
+      "url": "https://open.spotify.com/track/1E7Akv4r5ceUCcUKr03EPA"
+    },
+    {
+      "album": {
+        "name": "Rachmaninov: Piano Sonatas Nos. 1 and 2",
+        "url": "https://open.spotify.com/album/7I0QAPeBKajM5OoyMIkcH1"
+      },
+      "artists": [
+        {
+          "name": "Sergei Rachmaninoff",
+          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
+        },
+        {
+          "name": "Idil Biret",
+          "url": "https://open.spotify.com/artist/5SBOWUBQdfga0xprPVBxOr"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-12",
+      "duration_ms": 714040,
+      "name": "Piano Sonata No. 2 in B-Flat Minor, Op. 36 (1913 version): I. Allegro agitato",
       "url": "https://open.spotify.com/track/7snxFqPHbMJYDpjj456OF8"
+    },
+    {
+      "album": {
+        "name": "Horowitz: Complete Recordings on Deutsche Grammophon",
+        "url": "https://open.spotify.com/album/6WbWBjkEqsb7sFCcXBVdE8"
+      },
+      "artists": [
+        {
+          "name": "Sergei Rachmaninoff",
+          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
+        },
+        {
+          "name": "Vladimir Horowitz",
+          "url": "https://open.spotify.com/artist/4Ws5hSoABAwvGJ4LhHwHgq"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152520,
+      "name": "Pr\u00e9lude In G-Sharp Minor, Op. 32, No. 12 - Live",
+      "url": "https://open.spotify.com/track/520bcXjvDjLm4mdCYhNc0G"
     },
     {
       "album": {
@@ -1273,7 +1359,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 152533,
       "name": "Pr\u00e9lude In G-Sharp Minor, Op. 32, No. 12 - Live",
       "url": "https://open.spotify.com/track/59TnBJzx0rt7Ko0fI2OlQC"

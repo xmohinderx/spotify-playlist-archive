@@ -4,7 +4,7 @@
 
 > A Luiza preparou uma playlist especial pro momento de autocuidado <3
 
-93 songs - 5 hr 7 min - [published](https://open.spotify.com/playlist/41vYaKONxsf6dvUNFH56lw)
+94 songs - 5 hr 11 min - [published](https://open.spotify.com/playlist/41vYaKONxsf6dvUNFH56lw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,8 +51,9 @@
 | [Green Eggs & Ham](https://open.spotify.com/track/5J9SUxDPv2nYyWQy0BfnAA) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [Everything is Beautiful](https://open.spotify.com/album/53uhBqvPad79nqxsGmVyiv) | 1:46 | 2021-11-30 | 2022-05-31 |
 | [Hey Now \(Girls Just Want to Have Fun\)](https://open.spotify.com/track/6OFB0ggdNof1Eih8ln8bM5) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [To Wong Foo, Thanks For Everything, Julie Newmar](https://open.spotify.com/album/0Q6zcL0hk3K4shD1g4JOtA) | 3:41 | 2022-05-30 |  |
 | [Honey](https://open.spotify.com/track/5QTdOvIF2ehBMZpSIIGzIo) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Honey](https://open.spotify.com/album/2D37uNhXgherfImusGBKTx) | 3:19 | 2022-05-30 |  |
+| [I Don't Want It At All](https://open.spotify.com/track/3NnXeidvZtBnJHGgVA82aQ) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Kiss Me](https://open.spotify.com/album/4GVfR3RWeSfO5AHkYCcTSW) | 4:10 | 2022-05-30 |  |
 | [I Don't Want It At All](https://open.spotify.com/track/4qexD6ObR5nzpFJNpvQxIr) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [I Don't Want It At All](https://open.spotify.com/album/6rx35EFa5H8vMAlva3T95C) | 4:10 | 2022-05-30 | 2022-07-29 |
-| [I Don't Want It At All](https://open.spotify.com/track/4xhYxKvAxtrRd83MiqOy29) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [I Don't Want It At All](https://open.spotify.com/album/6TreAlV1VSMi8UmHl7byC4) | 4:10 | 2022-05-30 |  |
+| [I Don't Want It At All](https://open.spotify.com/track/4xhYxKvAxtrRd83MiqOy29) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [I Don't Want It At All](https://open.spotify.com/album/6TreAlV1VSMi8UmHl7byC4) | 4:10 | 2022-05-30 | 2022-11-12 |
 | [I Forgot That You Existed](https://open.spotify.com/track/43rA71bccXFGD4C8GOpIlN) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:50 | 2021-11-30 | 2022-05-31 |
 | [I Wish I Missed My Ex](https://open.spotify.com/track/3f50PY0yOtMHo9BgCX9WRJ) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [LOVE AND COMPROMISE](https://open.spotify.com/album/6tbaSZ6Q72kofaJtscUwFA) | 3:23 | 2022-05-30 |  |
 | [imagine](https://open.spotify.com/track/39LmTF9RgyakzSYX8txrow) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 3:32 | 2021-11-30 | 2022-05-31 |

@@ -4,7 +4,7 @@
 
 > ¡Y qué retumbe la bandona, pariente! Julión Álvarez y su Norteño Banda en portada.
 
-166 songs - 9 hr 17 min - [published](https://open.spotify.com/playlist/0LXtInQa0kC0s87IuTby3p)
+167 songs - 9 hr 21 min - [published](https://open.spotify.com/playlist/0LXtInQa0kC0s87IuTby3p)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Aunque Te Duela](https://open.spotify.com/track/6Ng777bqg8fwA7N7GyUDYm) | [Fidel Rueda](https://open.spotify.com/artist/1lQO7ePBTp5yOfVK9hicoJ) | [Cumpliendo Un Sueño](https://open.spotify.com/album/5HNyHXa6z20pWDod3JyLXo) | 3:19 | 2021-12-09 |  |
 | [Basta Ya \- Banda](https://open.spotify.com/track/3ic1CdU3u3vCLm2BlklevZ) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu), [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Joyas Prestadas \(Banda\)](https://open.spotify.com/album/3LqPzDMkoS6yZ7bHDSPVlU) | 4:03 | 2021-12-09 | 2022-07-29 |
 | [Basta Ya \- Banda](https://open.spotify.com/track/51CruNPLETPjo5BV5k2MYt) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu), [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Joyas Prestadas \- Banda](https://open.spotify.com/album/2S1InqamaQuotpISCqos3W) | 4:03 | 2021-12-09 |  |
+| [Borracho de Amor](https://open.spotify.com/track/1VeZsmUCLkYJT55c2nqg9b) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl) | [Borracho de Amor](https://open.spotify.com/album/73IWNJv6zpTOBxKGqAkclB) | 3:22 | 2021-12-09 |  |
 | [Borracho de Amor](https://open.spotify.com/track/2xjxGXr3eASzCvo9MUHk0w) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl) | [De Monterrey a Sinaloa](https://open.spotify.com/album/6M9upytZn0KVS3JvlhbSYE) | 3:24 | 2021-12-09 | 2022-07-29 |
 | [Borracho de Amor](https://open.spotify.com/track/4fYNJdS986IYQWxVoZjY3A) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl) | [De Monterrey a Sinaloa](https://open.spotify.com/album/1RVvXaNvZedvPDVQfozH1I) | 3:24 | 2021-12-09 | 2022-11-11 |
 | [Broche de Oro](https://open.spotify.com/track/35oKShiPehjQg7y1iTIQ0E) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl) | [La Banda Grande de la Sultana del Norte](https://open.spotify.com/album/0zo3LNmIZJr5BeQujgCB2Y) | 3:36 | 2021-12-09 | 2022-07-29 |
@@ -113,7 +114,7 @@
 | [Mil Gracias Por Existir](https://open.spotify.com/track/1HAvMItHMFRlnrbOXZBL8X) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Mil Gracias Por Existir](https://open.spotify.com/album/6jVnCF1Qar2w4ZuAVkxKb6) | 3:45 | 2022-01-20 |  |
 | [Mil Heridas](https://open.spotify.com/track/42QrQFst462IHFXR19hxZQ) | [Banda Cuisillos](https://open.spotify.com/artist/2jPqqtZbK8JDXSz94QLpCX) | [Mil Heridas](https://open.spotify.com/album/1d6M5lgMTJfgwQCReGSWGk) | 3:47 | 2021-12-09 |  |
 | [Muchachita de Ojos Tristes \- Banda Version](https://open.spotify.com/track/1PzeC9bXESHGvPhNMYn0hd) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Plaza Nueva](https://open.spotify.com/album/1p3NVsYWDAYQAPfXEIpHk7) | 3:27 | 2021-12-09 | 2022-07-29 |
-| [Muchachita de Ojos Tristes \- Banda Version](https://open.spotify.com/track/5JLBLEzT1RfT3aWrbwbk2Q) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Recordando A El Shaka](https://open.spotify.com/album/78fYl5Q2DyPivtolvFxGaa) | 3:27 | 2021-12-09 |  |
+| [Muchachita de Ojos Tristes \- Banda Version](https://open.spotify.com/track/5JLBLEzT1RfT3aWrbwbk2Q) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Recordando A El Shaka](https://open.spotify.com/album/78fYl5Q2DyPivtolvFxGaa) | 3:27 | 2021-12-09 | 2022-11-12 |
 | [Muchas Gracias](https://open.spotify.com/track/0hMrhXemQsyYON48v8k21H) | [DCO](https://open.spotify.com/artist/3m8kUt4fTVDHnafKhS66AZ) | [Las Más Perronas de Banda](https://open.spotify.com/album/5YaunEHdo66ZySyG3kGhNu) | 3:03 | 2021-12-09 |  |
 | [Muchas Gracias](https://open.spotify.com/track/3Ym2H5SsNxRQdMfu8hhet7) | [La Adictiva Banda San José de Mesillas](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Muchas Gracias](https://open.spotify.com/album/7nX8NgdRSN9i0Gpk0TJCco) | 2:59 | 2021-12-09 | 2022-07-29 |
 | [Más Allá Del Sol](https://open.spotify.com/track/3rusXt8aQcGDtYImYtL5tm) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Más Allá Del Sol](https://open.spotify.com/album/2xCw6KdAxnF1OBvsrLbKDM) | 2:43 | 2021-12-09 | 2022-11-11 |

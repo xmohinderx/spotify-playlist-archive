@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZu9JWZK2dy.md) - [plain]
 
 > The hottest Anime hits of the 00s\.  2000年代のアニメシーンを特集！Illustration by <a href="https://www.instagram.com/hideyasu\_moto/"> Hideyasu Moto</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,138 likes - 60 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,298 likes - 60 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [ブルーバード](https://open.spotify.com/track/2XpV9sHBexcNrz0Gyf3l18) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [Chou Ikimonobakari Tennen Kinen Members Best Selection](https://open.spotify.com/album/6CM8A3Uhws8mAcNOxpBRNq) | 3:35 |
+| 1 | [ブルーバード](https://open.spotify.com/track/5XKMGlkK6Rvro9sinQpxxZ) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [いきものばかり〜メンバーズBESTセレクション〜](https://open.spotify.com/album/4cmwCfGQ5SMNJnEL4dKB2B) | 3:35 |
 | 2 | [メリッサ](https://open.spotify.com/track/7E79sVpzdsrrRNcofN0rmK) | [PornoGraffitti](https://open.spotify.com/artist/5jQa0f5MIMPEK7udL7UpI6) | [PORNOGRAFFITTI 15th Anniversary “ALL TIME SINGLES”](https://open.spotify.com/album/6Xp9KpYyts9Oowyyu7YVVj) | 4:34 |
 | 3 | [God knows...](https://open.spotify.com/track/71ccYxWvQJ66ebPUZScJzn) | [涼宮ハルヒ \(CV.平野 綾\)](https://open.spotify.com/artist/4eWMhmDkvSkgeHo0D2RT31) | [涼宮ハルヒの完奏〜コンプリートサウンドトラック〜](https://open.spotify.com/album/5Th1Ca5zP4rocYmRCY59NI) | 4:38 |
 | 4 | [GO!!!](https://open.spotify.com/track/12VTlyNjwercpjUSG03OLu) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [FLOW ANIME BEST 極](https://open.spotify.com/album/44oxh50xgNjefTkN94ZXUG) | 3:58 |
@@ -24,12 +24,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZu9JWZK2dy.md) - [plain]
 | 14 | [曇天](https://open.spotify.com/track/1nxHxgGQga4w2WrU1kieOB) | [DOES](https://open.spotify.com/artist/2zwGPEFviyaICCDiAWxLjy) | [The World's Edge](https://open.spotify.com/album/5Y82ECIONUEk8HgbebQS7B) | 3:10 |
 | 15 | [Dearest](https://open.spotify.com/track/4uraEw7BcTjMmUcRKE3XaD) | [Ayumi Hamasaki](https://open.spotify.com/artist/3Mvc8kRgr8LRYYgvFmlZqn) | [I am...](https://open.spotify.com/album/6b4kTS1ynBp5cnXasBxhsM) | 5:32 |
 | 16 | [Mysterious Eyes](https://open.spotify.com/track/3xtFrBrX6yuS1pNPVGufwO) | [GARNET CROW](https://open.spotify.com/artist/6vJEQqtEx2VB8clDzhyhvC) | [THE BEST History of GARNET CROW at the crest...](https://open.spotify.com/album/3e3NS2L4bziOWpIMvnRE3R) | 4:28 |
-| 17 | [D\-tecnoLife](https://open.spotify.com/track/3eyxh8xkW0X7k1FSHlAatt) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [Timeless](https://open.spotify.com/album/5N2L30egSMusfrCvRHlYV0) | 3:53 |
+| 17 | [D\-tecnoLife](https://open.spotify.com/track/5Gd0Ge0KuIDF34HF0X2CYX) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [D\-tecnoLife](https://open.spotify.com/album/6ppa8cVg5a4GLPNJsyKBcr) | 3:53 |
 | 18 | [Secret of my heart](https://open.spotify.com/track/1KvU7iXcyRMden0n9krc4k) | [Mai Kuraki](https://open.spotify.com/artist/4x3GOic9xXFOoOBrEMuvN9) | [倉木麻衣×名探偵コナン COLLABORATION BEST 21 \-真実はいつも歌にある!\-](https://open.spotify.com/album/5iR9vsmguPIjTun6cJVb0Q) | 4:25 |
 | 19 | [DANZEN!ふたりはプリキュア](https://open.spotify.com/track/0eHv2HCxtNv1g3IiydZHjO) | [Mayumi Gojo](https://open.spotify.com/artist/2TIKjS1AvfUGY9HezSZSIg) | [五條真由美ボーカルベスト from ふたりはプリキュア](https://open.spotify.com/album/1lM6q7PcIXK35HJLv0X8dx) | 3:35 |
 | 20 | [創聖のアクエリオン](https://open.spotify.com/track/0AiRpK3u9OeM37Wsdkk8eJ) | [AKINO](https://open.spotify.com/artist/4JPnS8d4UIBnRZf4FiOx6o) | [「創聖のアクエリオン」オープニングテーマ 創聖のアクエリオン](https://open.spotify.com/album/2fZRAf3DOShFYTBZ3dolFN) | 4:43 |
 | 21 | [風になる](https://open.spotify.com/track/1BMYkyKXS6UfnJteWN7nSD) | [Tsuji Ayano](https://open.spotify.com/artist/73kAoAaI4yjMeHuLwpsL4i) | [恋恋風歌](https://open.spotify.com/album/0PeCvuASxym6PnrEzvBCl7) | 4:36 |
-| 22 | [さらば](https://open.spotify.com/track/3GAOg6GTBoqUKvOdjfpqkS) | [キンモクセイ](https://open.spotify.com/artist/14UjZg0MdiVjAkbqWNFsIt) | [ベスト・コンディション〜kinmokusei single collection〜](https://open.spotify.com/album/4et9fqJ89GzkKCvbOsjFDX) | 4:29 |
+| 22 | [さらば](https://open.spotify.com/track/4I710qdCFqAZ7IkPI6Ee8q) | [キンモクセイ](https://open.spotify.com/artist/14UjZg0MdiVjAkbqWNFsIt) | [さらば](https://open.spotify.com/album/718w30FryODQx9pLJGZAtq) | 4:31 |
 | 23 | [心絵](https://open.spotify.com/track/2tHQgtm46XngnOFgATFJWM) | [Road Of Major](https://open.spotify.com/artist/5m0p1hLwjTBVYdgUyQaNaQ) | [ROAD OF MAJOR II](https://open.spotify.com/album/6Te53bOBN20DbtOgshIFrh) | 4:21 |
 | 24 | [I am](https://open.spotify.com/track/1JM0GXE02jU7tWEBk2L0JR) | [hitomi](https://open.spotify.com/artist/5rdloWitZKhrtedmOBdhG8) | [I am/innocence](https://open.spotify.com/album/7rYpxCkxGTFK4sQaZI7x26) | 4:45 |
 | 25 | [逆さまの蝶](https://open.spotify.com/track/7gaaMd98dW4ssle6fc1fBh) | [Snow](https://open.spotify.com/artist/6xmxPrejTuDCgGzgLNp9sp) | [初雪](https://open.spotify.com/album/0fZVnR1Fvucd3SBKHfmBs3) | 4:33 |
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZu9JWZK2dy.md) - [plain]
 | 54 | [CLOSER](https://open.spotify.com/track/2Kld61w2NR7zPPXtaHeIii) | [Joe Inoue](https://open.spotify.com/artist/04q6GxPQU1OTqHGrUxeufd) | [CLOSER](https://open.spotify.com/album/6S6fn5MUmZdzlKrrdr2XcB) | 3:28 |
 | 55 | [DISCOTHEQUE](https://open.spotify.com/track/4i9D1GN4xtGXiYRgx7mfl9) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [THE MUSEUM II](https://open.spotify.com/album/5fgkBCPsotW9RSTYSKnaUN) | 3:59 |
 | 56 | [Love Destiny](https://open.spotify.com/track/14GCPjb7YH4BDvhF0DrvV5) | [Yui Horie](https://open.spotify.com/artist/7LKC71aoVTsDcHP9weRH9R) | [Love Destiny](https://open.spotify.com/album/09wFdGA9QATYbr1yBH7YEL) | 4:33 |
-| 57 | [Garnet](https://open.spotify.com/track/40jwSjLscs3wDOvYUpaJoB) | [Hanako Oku](https://open.spotify.com/artist/2tOwqfTtAMswbLySSaTRYR) | [Hanako Oku Best \~ My Letters \~](https://open.spotify.com/album/10S0x53VUJYn6Dcw7sY1fq) | 5:20 |
+| 57 | [Garnet](https://open.spotify.com/track/2rZUu2qXb7SoUNktHKgfky) | [Hanako Oku](https://open.spotify.com/artist/2tOwqfTtAMswbLySSaTRYR) | [Garnet](https://open.spotify.com/album/1OU1yZN4pMh9IVn9YZVjCL) | 5:19 |
 | 58 | [プリズム](https://open.spotify.com/track/7IMoiKwhGgECXyV9DvHImQ) | [Ayako Ikeda](https://open.spotify.com/artist/5JNDexaGyXylLDla0vmbtf) | [プリズム / 空の欠片](https://open.spotify.com/album/7796xTdWXoOllKCZagQZPV) | 4:04 |
 | 59 | [Gamble Rumble](https://open.spotify.com/track/5r0ZmGWdDPkY4gqAr0t9kf) | [m.o.v.e](https://open.spotify.com/artist/13Y7h239f3l2knkpG5O7Uo) | [頭文字D Final Best Collection](https://open.spotify.com/album/6MbFICztIWFvQAiOfdB0Qx) | 4:26 |
 | 60 | [Agapē](https://open.spotify.com/track/31EVU4Hqjnz3DqH2zdpWZE) | [メロキュア](https://open.spotify.com/artist/7sW7rerkVb9XV7vgsVuMHq) | [メロディック・スーパー・ハード・キュア](https://open.spotify.com/album/1c0wPUwhC8meB2YnOVpVOT) | 4:41 |
 
-Snapshot ID: `MTY1NzA4NDYzOSwwMDAwMDAwMGRiOWE4YmFhZTAxZTQ5ZmU4NmU4ODUyNWMwMWE1ZjUy`
+Snapshot ID: `MTY1NzA4NDYzOSwwMDAwMDAwMDQ3Yjc4NTA1NzI1MWI5MzZlNzZhZWQ3Y2ZhN2E5NTE4`

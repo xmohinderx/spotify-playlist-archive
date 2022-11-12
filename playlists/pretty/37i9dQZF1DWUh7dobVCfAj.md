@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUh7dobVCfAj.md) - [plain]
 
 > Sing\-along favorites\. Cover: Billy Joel
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,219 likes - 65 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,382 likes - 65 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUh7dobVCfAj.md) - [plain]
 | 27 | [Someone Like You](https://open.spotify.com/track/1zwMYTA5nlNjZxYrvBB2pV) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL) | 4:45 |
 | 28 | [Always on My Mind](https://open.spotify.com/track/2xYQTU2bbg6WVAmpY1eae4) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Always On My Mind](https://open.spotify.com/album/5lSPP40Df9t2nkusLZtXTb) | 3:32 |
 | 29 | [Uptown Girl](https://open.spotify.com/track/5zA8vzDGqPl2AzZkEYQGKh) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [An Innocent Man](https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc) | 3:17 |
-| 30 | [With A Little Help From My Friends](https://open.spotify.com/track/0YZ3J8xzGwLOg4yEgST1YK) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI) | [With A Little Help From My Friends](https://open.spotify.com/album/74sIm8QdXqFwYeDS7OfYVw) | 5:12 |
+| 30 | [With A Little Help From My Friends](https://open.spotify.com/track/3gKBNsTvxrlhXEqOt4nAXK) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI) | [Friends Never Fail](https://open.spotify.com/album/6DuOqbWX5h6puWrzyXH7cb) | 5:13 |
 | 31 | [Proud Mary](https://open.spotify.com/track/6gJdDnF2TzfA1WPMXuCa3x) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [What's Love Got to Do with It?](https://open.spotify.com/album/5HmYiJnUkFuciiqRrAAv4o) | 5:27 |
 | 32 | [Thunder Road](https://open.spotify.com/track/56lhDZNQ5J47aog6mGKeGk) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born To Run](https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu) | 4:48 |
 | 33 | [Only the Good Die Young](https://open.spotify.com/track/1xOXXYh6lTW8laxlW7JP2J) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Stranger \(Legacy Edition\)](https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6) | 3:55 |
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUh7dobVCfAj.md) - [plain]
 | 45 | [Doctor My Eyes](https://open.spotify.com/track/3QcuZo6WLcFkqqLmDs0d95) | [Jackson Browne](https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m) | [Jackson Browne \(Saturate Before Using\)](https://open.spotify.com/album/0n93YRc9GP3ZgREgTHvP5u) | 3:19 |
 | 46 | [Werewolves of London](https://open.spotify.com/track/2nmaEzFZrSm2aMLtfJDzyG) | [Warren Zevon](https://open.spotify.com/artist/3mY9Ii0cL5SQxpOTAm8SHx) | [A Quiet Normal Life: The Best of Warren Zevon](https://open.spotify.com/album/41u8E08e0jIP808qLi1GHB) | 3:28 |
 | 47 | [Evil Woman](https://open.spotify.com/track/777NOXupZkFdg8zlPMoVqc) | [Electric Light Orchestra](https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk) | [Face the Music](https://open.spotify.com/album/1HSU8sXRI9HiEAHslHRFQ3) | 4:29 |
-| 48 | [Rocket Man \(I Think It's Going To Be A Long, Long Time\)](https://open.spotify.com/track/64G0Qif9GkKJP22VZHMSJV) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [To Be Continued...](https://open.spotify.com/album/7iKDBfOFUtg8E8RbuDhiux) | 4:42 |
+| 48 | [Rocket Man \(I Think It's Going To Be A Long Long Time\) \- Remastered](https://open.spotify.com/track/05qss0DVKZr7QneuqX4PLc) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Diamonds \(Deluxe\)](https://open.spotify.com/album/45F4Pmp3EJi3T6qYonm4Ml) | 4:42 |
 | 49 | [I Can't Help Myself \(Sugar Pie, Honey Bunch\)](https://open.spotify.com/track/6b6IMqP565TbtFFZg9iFf3) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [Four Tops Second Album](https://open.spotify.com/album/2jvkMPydCpLWwRothqJU1O) | 2:40 |
 | 50 | [Midnight Train to Georgia](https://open.spotify.com/track/7MF7QAodbGzNYav5ZfIhAY) | [Gladys Knight & The Pips](https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1) | [Imagination \(Expanded Edition\)](https://open.spotify.com/album/6pMzuVjsypAwbeKiZm56wP) | 4:39 |
 | 51 | [Jolene](https://open.spotify.com/track/2SpEHTbUuebeLkgs9QB7Ue) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Jolene](https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj) | 2:41 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUh7dobVCfAj.md) - [plain]
 | 64 | [Tiny Dancer](https://open.spotify.com/track/2TVxnKdb3tqe1nhQWwwZCO) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Madman Across The Water](https://open.spotify.com/album/2OZbaW9tgO62ndm375lFZr) | 6:17 |
 | 65 | [You Can't Hurry Love \- 2016 Remaster](https://open.spotify.com/track/4YwbSZaYeYja8Umyt222Qf) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Hello, I Must Be Going! \(Deluxe Edition\)](https://open.spotify.com/album/6sn6eWmPciSiHj0ltTBl7M) | 2:55 |
 
-Snapshot ID: `MTY2MjA0NjI1OSwwMDAwMDAwMGNiZjQwYTg0ZjhlODE3NjZjZGM1NDJlMWYxMDQ5NzRh`
+Snapshot ID: `MTY2MjA0NjI1OSwwMDAwMDAwMDliMTJmMDRmMDcyMzhjYzFhNWFmZWUwZWExMDEwNjIy`

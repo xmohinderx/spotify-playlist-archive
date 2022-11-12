@@ -950,6 +950,24 @@
     },
     {
       "album": {
+        "name": "The Fabelmans (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3dWmhh9KGeDVbOdVSGLgHC"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104320,
+      "name": "Reverie",
+      "url": "https://open.spotify.com/track/4ih3wEKgswM0P1gT4Xq5XI"
+    },
+    {
+      "album": {
         "name": "Road To Perdition (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7v9u5bUHm2tpSC7ZL4hZBG"
       },

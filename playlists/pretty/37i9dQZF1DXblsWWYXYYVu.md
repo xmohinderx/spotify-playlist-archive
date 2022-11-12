@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblsWWYXYYVu.md) - [plain]
 
 > Relax and take it slow today
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,868 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,897 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblsWWYXYYVu.md) - [plain]
 | 50 | [Call Your Mama \(feat\. Little Big Town\)](https://open.spotify.com/track/5dPc0lDy55q0GCyL66Uudy) | [Seth Ennis](https://open.spotify.com/artist/2dEZtPJFspWetycGtouit2), [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Call Your Mama \(feat\. Little Big Town\)](https://open.spotify.com/album/074bfoI8tp9Kpj4alfarw3) | 3:16 |
 | 51 | [War](https://open.spotify.com/track/1UxeYs0x9oyJtCpmH0QbvL) | [The Dryes](https://open.spotify.com/artist/0npnqS0C9n5uuuBQC4oEWE) | [War](https://open.spotify.com/album/5BGimDYo0GQML8zT2gTeJK) | 3:47 |
 | 52 | [People Get Old](https://open.spotify.com/track/2Tm7nXWJouomHeRN9bT6IK) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [The Tree](https://open.spotify.com/album/2Jv8rT6pudH0eIlgu90zKm) | 3:42 |
-| 53 | [Stupid Heart](https://open.spotify.com/track/6flMnPKgGGP9YDM6CmlLBc) | [Kira Isabella](https://open.spotify.com/artist/67Dpp3kDh6tqv9TcIzOi38) | [Sides](https://open.spotify.com/album/5ZvsZpIUyeslcbkaICxJP5) | 3:02 |
+| 53 | [Stupid Heart](https://open.spotify.com/track/2D7lpPTMZIiUjzdVbcfbiE) | [Kira Isabella](https://open.spotify.com/artist/67Dpp3kDh6tqv9TcIzOi38) | [Side A](https://open.spotify.com/album/34bb5VRuc8xCORxsIXSCyw) | 3:02 |
 | 54 | [Old Time's Sake](https://open.spotify.com/track/3IQSmhYf1nst6Gp5BbW3xE) | [Charlie Worsham](https://open.spotify.com/artist/1nYvElumwIjMkOczb985bq) | [Beginning of Things](https://open.spotify.com/album/24XNUmmNY44uGmG4aY001K) | 3:22 |
 | 55 | [The Trouble with Wanting](https://open.spotify.com/track/5ZUObJNpVt2l9GogUSfALc) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Front Porch](https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu) | 3:55 |
 | 56 | [Safe](https://open.spotify.com/track/4pXP1x8noxi1sNU6s70QCJ) | [Ward Thomas](https://open.spotify.com/artist/0xBhUB0EfzvchYnaIWkdBw) | [Cartwheels](https://open.spotify.com/album/13Qj9WO3Udtb1cHO0C55gE) | 4:04 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblsWWYXYYVu.md) - [plain]
 | 99 | [Wrong Side of Goodbye \(Reimagined\)](https://open.spotify.com/track/0uhnVe3CgAhOI4NnSeWxTm) | [Muscadine Bloodline](https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD) | [Wrong Side of Goodbye \(Reimagined\)](https://open.spotify.com/album/7lbcv8zWEcRjWd6XJs2ueK) | 2:17 |
 | 100 | [Run on Ahead](https://open.spotify.com/track/6HQSHdS5IPOU3jme7TlsHs) | [The Steel Woods](https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM) | [Run on Ahead](https://open.spotify.com/album/2drOB2NKBpXv5PU00Rhhc8) | 4:41 |
 
-Snapshot ID: `MTY2MzkwNTYwMCwwMDAwMDAwMDFjYzBiNDg3ZjRkOTMwNWI0MTY4YjMwY2M2ZGY5Njc0`
+Snapshot ID: `MTY2MzkwNTYwMCwwMDAwMDAwMDYwY2QzZDc2MzU3M2Y2NjJmYjczY2Y4MTEwNWYxZGIy`

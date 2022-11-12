@@ -517,7 +517,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 205080,
       "name": "B.L.T (BLING LIKE THIS)",
       "url": "https://open.spotify.com/track/0x7FHlHcZT0awEVE0Ahuhl"
@@ -885,7 +885,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-03",
+      "date_removed": null,
       "duration_ms": 183787,
       "name": "Boogie Up",
       "url": "https://open.spotify.com/track/6u5ipVfAHGjTXvWuiI5sKB"
@@ -1135,7 +1135,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 204493,
       "name": "COME TO ME",
       "url": "https://open.spotify.com/track/1jkO79LWdg5RjkSZ2VfuTo"
@@ -2518,6 +2518,24 @@
     },
     {
       "album": {
+        "name": "Let's!",
+        "url": "https://open.spotify.com/album/32qOVmx27Myng0ejTSby4n"
+      },
+      "artists": [
+        {
+          "name": "Hoppipolla",
+          "url": "https://open.spotify.com/artist/1S80vOcrnT9UD9zgLeyfx2"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195373,
+      "name": "Let's!",
+      "url": "https://open.spotify.com/track/6cYZ8BQtjOQ1aXXGMzrGJi"
+    },
+    {
+      "album": {
         "name": "Highlight",
         "url": "https://open.spotify.com/album/6PjLh9gTBcXIn3r8XJiOHw"
       },
@@ -2623,7 +2641,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 196866,
       "name": "Love & hate (Feat. BIBI)",
       "url": "https://open.spotify.com/track/61IDvkbJDswvorhLqcplMW"
@@ -4245,7 +4263,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 200125,
       "name": "SEE SEA",
       "url": "https://open.spotify.com/track/09Pp9Q9593vnr91Ldi4let"

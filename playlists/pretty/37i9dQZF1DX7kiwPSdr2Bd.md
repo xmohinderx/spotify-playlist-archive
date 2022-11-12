@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 
 > Ouça as principais vozes de adoradoras do gospel brasileiro\. Foto: Ana Nóbrega
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,515 likes - 75 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,602 likes - 75 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 | 2 | [Eu Creio \(Believe For It\)](https://open.spotify.com/track/0KYF47E8xIrKfUnlZOAXJF) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Eu Creio \(Believe For It\)](https://open.spotify.com/album/7arXmK6JfnriihjvrxW5vG) | 6:23 |
 | 3 | [Não Pare](https://open.spotify.com/track/3VCfmjE0oEMYQUil14wd0J) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Não Pare](https://open.spotify.com/album/56P1CgGN8DGhG4ksRz0tfF) | 4:53 |
 | 4 | [Os Sonhos de Deus](https://open.spotify.com/track/18aEZ4QzbuB8OZuxAeqeCd) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Os Sonhos de Deus](https://open.spotify.com/album/5ZbKlJh2vqfhBQobdZT07b) | 4:27 |
-| 5 | [Casinha Favorita](https://open.spotify.com/track/2Bok8eOLrlwBUASYyfuOJw) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Casinha Favorita](https://open.spotify.com/album/0pYSJ00Twfb7cwPDVp1HXJ) | 10:58 |
-| 6 | [Deus Faz Além \- Ao Vivo](https://open.spotify.com/track/5tteTRlti30bR43W34YYbQ) | [Bruna Olly](https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Deus Faz Além \(Ao Vivo\)](https://open.spotify.com/album/2WPOOdQp05sOWXcbHVEs9B) | 4:50 |
+| 5 | [Deus Faz Além \- Ao Vivo](https://open.spotify.com/track/5tteTRlti30bR43W34YYbQ) | [Bruna Olly](https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Deus Faz Além \(Ao Vivo\)](https://open.spotify.com/album/2WPOOdQp05sOWXcbHVEs9B) | 4:50 |
+| 6 | [Casinha Favorita](https://open.spotify.com/track/2Bok8eOLrlwBUASYyfuOJw) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Casinha Favorita](https://open.spotify.com/album/0pYSJ00Twfb7cwPDVp1HXJ) | 10:58 |
 | 7 | [Conta pra Mim](https://open.spotify.com/track/2y1anRkk9uZtINE7xlAbxI) | [Stella Laura](https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm) | [Conta pra Mim](https://open.spotify.com/album/5IAtIi5S69uMdaYxiJQf4B) | 3:47 |
 | 8 | [Poder Pra Salvar \(Mighty to Save\) \[Ao Vivo Em Los Angeles\]](https://open.spotify.com/track/4ZwerMeMyAbdyY2cBmrcGe) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Poder Pra Salvar \(Mighty to Save\) \[Ao Vivo Em Los Angeles\]](https://open.spotify.com/album/2b0XVRX9gGvngP9Dr5onIz) | 3:43 |
 | 9 | [Até te Encontrar \- Ao Vivo](https://open.spotify.com/track/1HucuOdAhqUgPNgZJoFB3K) | [Rebeca Carvalho](https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Até te Encontrar \(Ao Vivo\)](https://open.spotify.com/album/0TULB48BC0rCKXtFFVOX5s) | 9:36 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 | 59 | [Ele Te Escolheu \(Essência Sessions\)](https://open.spotify.com/track/1VllRsyiavxu58wL4FGPv1) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Ele Te Escolheu \(Essência Sessions\)](https://open.spotify.com/album/7vdquHLDt7lLkyOa6CawVN) | 4:01 |
 | 60 | [Tudo é Possível \(Ao Vivo\)](https://open.spotify.com/track/1pZoySbCn2iTP3q03yUOhZ) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR), [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Tudo é Possível \(Ao Vivo\)](https://open.spotify.com/album/1YIJcCFdQGZyLBenh3xPAJ) | 6:23 |
 | 61 | [Montanha \(Sometimes It Takes a Mountain\)](https://open.spotify.com/track/3D5QYKG4NHLImvL51wzrxb) | [Patricia Romania](https://open.spotify.com/artist/0ffURL6H2AXKNqc2yvTN5K) | [Montanha](https://open.spotify.com/album/4Uw611r2Ytu58b1VzjNRXY) | 4:06 |
-| 62 | [Minha Canção \- Ao Vivo](https://open.spotify.com/track/3bFmokoHKRZkGyRfDKXxsp) | [Mari Borges](https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6) | [Minha Canção \(Ao Vivo\)](https://open.spotify.com/album/3ODJ6TFqGPeNNY3MEoVjT4) | 5:02 |
-| 63 | [Oh Quão Lindo Esse Nome É \- Ao Vivo](https://open.spotify.com/track/3FvKZvKIvjicD6K9CUpawq) | [Sarah Oliveira](https://open.spotify.com/artist/41y67kzuqyOCphn9Aj5Teq), [BRAVE](https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h) | [Oh Quão Lindo Esse Nome É \(Ao Vivo\)](https://open.spotify.com/album/1Qc5BQBQYbmBNUDX8tWNgt) | 7:39 |
+| 62 | [Oh Quão Lindo Esse Nome É \- Ao Vivo](https://open.spotify.com/track/3FvKZvKIvjicD6K9CUpawq) | [Sarah Oliveira](https://open.spotify.com/artist/41y67kzuqyOCphn9Aj5Teq), [BRAVE](https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h) | [Oh Quão Lindo Esse Nome É \(Ao Vivo\)](https://open.spotify.com/album/1Qc5BQBQYbmBNUDX8tWNgt) | 7:39 |
+| 63 | [Minha Canção \- Ao Vivo](https://open.spotify.com/track/3bFmokoHKRZkGyRfDKXxsp) | [Mari Borges](https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6) | [Minha Canção \(Ao Vivo\)](https://open.spotify.com/album/3ODJ6TFqGPeNNY3MEoVjT4) | 5:02 |
 | 64 | [Deus dos Meus Pais](https://open.spotify.com/track/3w4BjjmRtTCq9Ilt4ecEwG) | [Sarah Farias](https://open.spotify.com/artist/3YvHDhzmrkcYZuKN7A2KBK) | [Deus dos Meus Pais](https://open.spotify.com/album/4OQVoMAoy1boe5FYUVNA3t) | 4:36 |
 | 65 | [Deus da Graça \(Ao Vivo\)](https://open.spotify.com/track/19GO9uhHb0kWxYcz6irtdY) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Drive In \(Ao Vivo\)](https://open.spotify.com/album/5gSFHSa7M5B1GQjVTNxdqW) | 4:58 |
 | 66 | [100% Homem, 100% Deus \- Ao Vivo](https://open.spotify.com/track/1MKh99as2azJTRC43Yi6Zu) | [Bruna Olly](https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ) | [100% Homem, 100% Deus \(Ao Vivo\)](https://open.spotify.com/album/6LHyXTUDHlGbrfbFuOl2HT) | 4:34 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 | 74 | [A Ele a Glória / Porque Ele vive \- Live 2020](https://open.spotify.com/track/3RdYctD14VWKn1Zu32kJfs) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Juntos Em Adoração \(Live 2020\)](https://open.spotify.com/album/1yYj9smqcSBfxXuYBQ1XbS) | 6:24 |
 | 75 | [A Promessa Está de Pé \(Ao Vivo\)](https://open.spotify.com/track/3RFBznx059TnrkSvJgAzjq) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Midian Lima \(Ao Vivo\)](https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi) | 5:07 |
 
-Snapshot ID: `MTY2NjkzNTIzNSwwMDAwMDAwMDEwYjQ4MGQ3ZjUyNGQyZDgzMWFmY2M1NGM2NTkwMTkz`
+Snapshot ID: `MTY2NjkzNTIzNSwwMDAwMDAwMDViYzUyYjU3MjQ3NjI3Nzc4NGE2YzJiMGI4OGFiMmIx`

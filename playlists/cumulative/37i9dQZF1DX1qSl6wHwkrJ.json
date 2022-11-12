@@ -109,10 +109,28 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 155400,
       "name": "A Weary Silent Night",
       "url": "https://open.spotify.com/track/0XBRbKEaWOUwFFdttU2Q88"
+    },
+    {
+      "album": {
+        "name": "The King of New Orleans",
+        "url": "https://open.spotify.com/album/0q4uWdKttRB6yZOY14n5ia"
+      },
+      "artists": [
+        {
+          "name": "Earl King",
+          "url": "https://open.spotify.com/artist/76ox7koAGPytUmTZGU6zWn"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155400,
+      "name": "A Weary Silent Night",
+      "url": "https://open.spotify.com/track/55tLycsCOJkCmTDedrJm8Z"
     },
     {
       "album": {
@@ -253,10 +271,32 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 192533,
       "name": "Boogie Woogie Santa Claus",
       "url": "https://open.spotify.com/track/1ralRyNhB09WyWlGyGJOrl"
+    },
+    {
+      "album": {
+        "name": "Blues Music Hall of Fame",
+        "url": "https://open.spotify.com/album/55F4od7temcXxHIBfk8rtX"
+      },
+      "artists": [
+        {
+          "name": "Charles Brown",
+          "url": "https://open.spotify.com/artist/3trsSEaKM3UM2R9RBJwdtJ"
+        },
+        {
+          "name": "Scott",
+          "url": "https://open.spotify.com/artist/0ufEUSNUPIOULZSMS2otl1"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192533,
+      "name": "Boogie Woogie Santa Claus",
+      "url": "https://open.spotify.com/track/40btMdetZpHDBM6dG0RRMu"
     },
     {
       "album": {
@@ -582,6 +622,24 @@
     },
     {
       "album": {
+        "name": "Lord Have Mercy",
+        "url": "https://open.spotify.com/album/0zdntBA5tJss6YSMH8pey8"
+      },
+      "artists": [
+        {
+          "name": "Sonny Boy Williamson I",
+          "url": "https://open.spotify.com/artist/1qxTNsrSi4fNXVO0sbMsl4"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204866,
+      "name": "Christmas Morning Blues",
+      "url": "https://open.spotify.com/track/6e8lXv6mEUNwhqnD2qYYuH"
+    },
+    {
+      "album": {
         "name": "The Bluebird Recordings",
         "url": "https://open.spotify.com/album/6zDy9OWPCw9CAS89vWQM0X"
       },
@@ -611,7 +669,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 203173,
       "name": "Christmas Morning Blues - Remastered",
       "url": "https://open.spotify.com/track/6pOb1aPQkuyd3UldXh7SkK"
@@ -1198,6 +1256,24 @@
     },
     {
       "album": {
+        "name": "Happy Xmas (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4vp3vf0hRKawrqUIzcr0P7"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231146,
+      "name": "Lonesome Christmas",
+      "url": "https://open.spotify.com/track/1aiObGa7MfJJhAz4Sb09JM"
+    },
+    {
+      "album": {
         "name": "Happy Xmas",
         "url": "https://open.spotify.com/album/4mq2MC2DC09gWikiZ0NX8J"
       },
@@ -1209,7 +1285,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 231146,
       "name": "Lonesome Christmas",
       "url": "https://open.spotify.com/track/1yBXaVUr6fWW6d0dkqrdRG"

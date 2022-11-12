@@ -2866,6 +2866,24 @@
     },
     {
       "album": {
+        "name": "Voltige",
+        "url": "https://open.spotify.com/album/3B4Iepzw9565ytdQVaalZ0"
+      },
+      "artists": [
+        {
+          "name": "Martin Lizotte",
+          "url": "https://open.spotify.com/artist/4BHr9YxHWGZd8OVIcCVnd5"
+        }
+      ],
+      "date_added": "2021-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200255,
+      "name": "Voltige",
+      "url": "https://open.spotify.com/track/0IYYGzRxUABQGBZGu8ypMB"
+    },
+    {
+      "album": {
         "name": "Ubiquit\u00e9",
         "url": "https://open.spotify.com/album/5SC0ot9Pkx2U33PD0VCBT8"
       },
@@ -2877,7 +2895,7 @@
       ],
       "date_added": "2021-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 200255,
       "name": "Voltige",
       "url": "https://open.spotify.com/track/3k4RLVYe0AGrVfuwYJyCMy"

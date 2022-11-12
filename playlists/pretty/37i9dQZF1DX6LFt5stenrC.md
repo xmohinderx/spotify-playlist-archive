@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LFt5stenrC.md) - [plain]
 
 > Songs from your family's favorite TV shows.
 
-[Spotify](https://open.spotify.com/user/spotify) - 883 likes - 50 songs - 1 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 885 likes - 50 songs - 1 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LFt5stenrC.md) - [plain]
 | 27 | [F.U.N\. Song](https://open.spotify.com/track/0gdLTqxAY4DDUQxXzmwj1z) | [Spongebob Squarepants](https://open.spotify.com/artist/3zCAmjKyHsG7kTGsls1cfj), [Plankton](https://open.spotify.com/artist/4gtF4P04jpHvM0GnWWd3JS) | [SpongeBob's Greatest Hits](https://open.spotify.com/album/7n5FErCSkbQ4g2TZXKU6GD) | 1:24 |
 | 28 | [My Little Pony Theme Song](https://open.spotify.com/track/7IuqzB9NXVqrum0jaDQ0LY) | [Twilight Sparkle](https://open.spotify.com/artist/53CQUfjaBNRwV2nFro1nac), [Apple Jack](https://open.spotify.com/artist/1r0v3fdCiqrr9mYtvbCccT), [Rainbow Dash](https://open.spotify.com/artist/0iKnctG436f9uUKSuSFx2n), [Pinkie Pie](https://open.spotify.com/artist/7ExZeMNpyKhYSokWo9riU5), [Rarity](https://open.spotify.com/artist/6PqIHmHPCKrZoyLMf98era), [Fluttershy](https://open.spotify.com/artist/2KL1HTA8ijZSuf7VJaL4OU) | [Songs Of Ponyville \(Music From The Original TV Series\)](https://open.spotify.com/album/4AisqgQXW57ADDJRBQOpON) | 2:03 |
 | 29 | [Go!](https://open.spotify.com/track/4AORpy9kuI37FvgTF3BWrd) | [Greg Cipes](https://open.spotify.com/artist/6L3vVRDyG1FxVkpfkY27oH), [Scott Menville](https://open.spotify.com/artist/7JrGE2z9m0yDVXELO7o9jB), [Khary Payton](https://open.spotify.com/artist/6NhL2mZ0OKFLvYIeyi5rd0), [Tara Strong](https://open.spotify.com/artist/4CN7jn6DiWNaDnaJdhBMKp), [Hynden Walch](https://open.spotify.com/artist/4yPSwzNyZhysv1v9FlV5jj) | [Teen Titans Go! To The Movies \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0JjBO2WnSE6pjK4TC9Jci2) | 1:37 |
-| 30 | [Ask The StoryBots Theme](https://open.spotify.com/track/1JaN2fP2SeMc0B8vYCkbRm) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [Ask The StoryBots: Season 1 \(Music From The Original Series\)](https://open.spotify.com/album/1SKApykupjLWWole4UiXoT) | 1:00 |
-| 31 | [Pete The Cat Theme \(feat\. Elvis Costello\)](https://open.spotify.com/track/2fcpeIoCs3pVmYzexXAnIk) | [Pete the Cat](https://open.spotify.com/artist/1KbfmqDS5wguok1IaKV9kg), [Elvis Costello](https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn) | [Pete The Cat \(Expanded Version\)](https://open.spotify.com/album/3q9koO8kP01VWel8LYjd37) | 0:45 |
+| 30 | [Pete The Cat Theme \(feat\. Elvis Costello\)](https://open.spotify.com/track/2fcpeIoCs3pVmYzexXAnIk) | [Pete the Cat](https://open.spotify.com/artist/1KbfmqDS5wguok1IaKV9kg), [Elvis Costello](https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn) | [Pete The Cat \(Expanded Version\)](https://open.spotify.com/album/3q9koO8kP01VWel8LYjd37) | 0:45 |
+| 31 | [Ask The StoryBots Theme](https://open.spotify.com/track/1JaN2fP2SeMc0B8vYCkbRm) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [Ask The StoryBots: Season 1 \(Music From The Original Series\)](https://open.spotify.com/album/1SKApykupjLWWole4UiXoT) | 1:00 |
 | 32 | [Make Your Move](https://open.spotify.com/track/2q49j6l5dy3BmNiI36iz8x) | [PJ Masks](https://open.spotify.com/artist/1VBbewnHtegBSEB7kRXDzQ) | [Make Your Move](https://open.spotify.com/album/2nyp8Xkf7tpMADBQ6Xo8vI) | 1:41 |
 | 33 | [The Loud House Theme Song](https://open.spotify.com/track/0iEy24BTc5pGIQxnDlSr8R) | [The Loud House](https://open.spotify.com/artist/49GEHeazyZ8JNJHAxpwAwB) | [The Loud House Theme & End Credit](https://open.spotify.com/album/0DFvGS0XT58ZXHXGghIawV) | 1:20 |
 | 34 | [Blue's Clues & You Theme Song](https://open.spotify.com/track/4NszfZjAmW1XLv9kljvYNi) | [Blue's Clues & You](https://open.spotify.com/artist/40mye8b6PC8ef8GSFgWscG) | [Blue's Clues & You Theme Song](https://open.spotify.com/album/1XwJGm1GcjHHufGqHobsWn) | 1:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LFt5stenrC.md) - [plain]
 | 49 | [Scooby Doo Theme Song](https://open.spotify.com/track/0g8MfCzZoj5nprV25TbPax) | [Best Coast](https://open.spotify.com/artist/5YkBrE0wF8cAlq3GCOw5Eu) | [SCOOB! The Album](https://open.spotify.com/album/2Zg5xZo3WwIoAZys8OcUpG) | 1:00 |
 | 50 | [We're on the Case](https://open.spotify.com/track/7zrf9DSawhAV7TizF05P26) | [Mira, Royal Detective \- Cast](https://open.spotify.com/artist/4wz6QHgIkdmvQwhEmzwWZj) | [Disney Junior Music: Mira, Royal Detective](https://open.spotify.com/album/0bbffEsQXm7Z16d0iC3W2k) | 0:34 |
 
-Snapshot ID: `MTY1MDI5Mzg1NSwwMDAwMDAwMDVhYmI2ODM2NTQyM2MxMmViODY4YWY0MzU0OTQ0MmNi`
+Snapshot ID: `MTY1MDI5Mzg1NSwwMDAwMDAwMDgyNjU5MzFmYjRlODZhY2I2ODU4YzVlYjljMDg2MWFl`

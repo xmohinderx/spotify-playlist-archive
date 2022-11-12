@@ -4,7 +4,7 @@
 
 > Will you be my anti\-valentine?
 
-143 songs - 8 hr 21 min - [published](https://open.spotify.com/playlist/2531pAWHhspIB4sjZf83LQ)
+146 songs - 8 hr 31 min - [published](https://open.spotify.com/playlist/2531pAWHhspIB4sjZf83LQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,8 @@
 | [Easy On Me](https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Easy On Me](https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S) | 3:44 | 2022-01-25 |  |
 | [Fake Love](https://open.spotify.com/track/343YBumqHu19cGoGARUTsd) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [More Life](https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK) | 3:30 | 2021-09-27 |  |
 | [Feeling Myself](https://open.spotify.com/track/5fyIGoaaKelzdyW8ELhYJZ) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [The Pinkprint \(Deluxe\)](https://open.spotify.com/album/5ooCuPIk58IwSo6DRr1JCu) | 3:57 | 2022-01-25 |  |
-| [Fingers Crossed](https://open.spotify.com/track/3yMC1KsTwh0ceXdIe4QQAQ) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Fingers Crossed](https://open.spotify.com/album/7i5dqey54xo8F2flVer0yY) | 2:55 | 2022-01-25 |  |
+| [Fingers Crossed](https://open.spotify.com/track/00vGldARjYnPv2LPGUQHSC) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Pure Acoustic 2022](https://open.spotify.com/album/4DCIc6AsRGKdKLh2bDfQr0) | 2:55 | 2022-01-25 |  |
+| [Fingers Crossed](https://open.spotify.com/track/3yMC1KsTwh0ceXdIe4QQAQ) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Fingers Crossed](https://open.spotify.com/album/7i5dqey54xo8F2flVer0yY) | 2:55 | 2022-01-25 | 2022-11-12 |
 | [Fingers Crossed](https://open.spotify.com/track/5S9Zs5g9lTWnLIboN1pdlU) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Fingers Crossed](https://open.spotify.com/album/1UPlwdM0JYNwlDcKbeXrKZ) | 2:55 | 2022-01-25 | 2022-07-29 |
 | [Free Woman](https://open.spotify.com/track/4L6ihclQPu1hqP9r3WNJjQ) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Chromatica](https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP) | 3:11 | 2022-01-25 |  |
 | [FRIENDS](https://open.spotify.com/track/08bNPGLD8AhKpnnERrAc6G) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [FRIENDS](https://open.spotify.com/album/1BmxOYHjQv1dKZRr13YRZM) | 3:22 | 2021-09-27 |  |
@@ -74,7 +75,8 @@
 | [I Hate U](https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [I Hate U](https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw) | 2:54 | 2022-01-25 |  |
 | [I Knew You Were Trouble.](https://open.spotify.com/track/6FB3v4YcR57y4tXFcdxI1E) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Big Machine Radio Release Special\)](https://open.spotify.com/album/4jTYApZPMapg56gRycOn0D) | 3:39 | 2022-01-25 |  |
 | [I'm Not The Only One](https://open.spotify.com/track/5WLtenwEwifJHYTUw514RH) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour \(Drowning Shadows Edition\)](https://open.spotify.com/album/0kJbDT8VGMScK8YDzNNvzV) | 3:59 | 2021-09-27 | 2022-07-29 |
-| [I'm Not The Only One](https://open.spotify.com/track/7795WJLVKJoAyVoOtCWqXN) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour](https://open.spotify.com/album/08jWgM4vSkTose4blKBWov) | 3:59 | 2022-01-25 |  |
+| [I'm Not The Only One](https://open.spotify.com/track/7795WJLVKJoAyVoOtCWqXN) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour](https://open.spotify.com/album/08jWgM4vSkTose4blKBWov) | 3:59 | 2022-01-25 | 2022-11-12 |
+| [I'm Not The Only One](https://open.spotify.com/track/1Rl7EuhgigYMo5Ylid1Rke) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Dumb Dumb](https://open.spotify.com/album/5TwtsmTGlL07c5C6FASrDj) | 3:59 | 2022-01-25 |  |
 | [i'm so tired...](https://open.spotify.com/track/7COXchtUOMd6uIT6HvmRaI) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [i'm so tired...](https://open.spotify.com/album/13yMsBNa2femeWzhcDOqFw) | 2:42 | 2021-09-27 | 2022-07-29 |
 | [i'm so tired...](https://open.spotify.com/track/0MLLAaSe1dxW4PimqU1zCe) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [\~DRIVING VIBES\~](https://open.spotify.com/album/7pfWwjZcA9DoJwgj5zDtK8) | 2:42 | 2022-01-25 |  |
 | [i'm so tired...](https://open.spotify.com/track/4vjpLMyL3ZO6aphdYr8XYw) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [\~how i'm feeling\~](https://open.spotify.com/album/6EgJXcGqaUvgZIF9bqPXfP) | 2:42 | 2022-01-25 | 2022-11-11 |
@@ -99,7 +101,8 @@
 | [Nothing Breaks Like a Heart \(feat\. Miley Cyrus\)](https://open.spotify.com/track/27rdGxbavYJeBphck5MZAF) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Nothing Breaks Like a Heart \(feat\. Miley Cyrus\)](https://open.spotify.com/album/2hBfao8GWZwHlUGDB8HVQO) | 3:37 | 2021-09-27 |  |
 | [Obsessed](https://open.spotify.com/track/3IcIIZMMS7UArJJPtEHXG8) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Memoirs of an imperfect Angel](https://open.spotify.com/album/3RPImDZ7Ihh5YR5iJh1gH1) | 4:02 | 2022-01-25 |  |
 | [Party For One](https://open.spotify.com/track/39YLC6osLe9btq1vpsDglx) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Party For One](https://open.spotify.com/album/0VrkeLZkbWgMEIsgCLKxjy) | 3:03 | 2021-09-27 | 2022-07-29 |
-| [Party For One](https://open.spotify.com/track/7KW3XQV5Or5CF57MYVj5h4) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Dedicated](https://open.spotify.com/album/25it7uSpNFuRoD6uNc0Tfu) | 3:04 | 2022-01-25 |  |
+| [Party For One](https://open.spotify.com/track/66AdrRLNXbvBRrlZJjDQ4Z) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Mardi Gras 2021](https://open.spotify.com/album/4SURHD4uEns0YnUU7ZhANi) | 3:04 | 2022-01-25 |  |
+| [Party For One](https://open.spotify.com/track/7KW3XQV5Or5CF57MYVj5h4) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Dedicated](https://open.spotify.com/album/25it7uSpNFuRoD6uNc0Tfu) | 3:04 | 2022-01-25 | 2022-11-12 |
 | [Potential Breakup Song](https://open.spotify.com/track/2ieu0FHqTpBUrMoCFVL3cb) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Potential Breakup Song](https://open.spotify.com/album/7GBwVFeuN4IJcsuoYJKlEl) | 3:38 | 2022-01-25 | 2022-10-13 |
 | [Potential Breakup Song](https://open.spotify.com/track/6fyzsHCwnt8oL4XgGIMrdN) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Potential Breakup Song](https://open.spotify.com/album/49mFTJkOKu0labagCQyURy) | 3:38 | 2022-01-25 |  |
 | [Rare](https://open.spotify.com/track/7HMmFQsKsljwTw8bS7lu19) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rare](https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx) | 3:40 | 2021-09-27 |  |

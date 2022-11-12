@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8UMqd36n1X.md) - [plain]
 
 > Music from that amazing era\. Cover: Teddy Riley
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,752 likes - 56 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,825 likes - 56 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8UMqd36n1X.md) - [plain]
 | 43 | [B.B.D\. \(I Thought It Was Me\)?](https://open.spotify.com/track/26yEd8XVwJpHDERXo6rZ8X) | [Bell Biv DeVoe](https://open.spotify.com/artist/2zFZiWQJFFshzojycnXoTL) | [20th Century Masters: The Millennium Collection: Best of Bel Biv DeVoe](https://open.spotify.com/album/2QC1IsQIUNdEz0zgWanPkN) | 4:35 |
 | 44 | [Baby Be Mine](https://open.spotify.com/track/3c2noI6hwdH2YoETIriUbX) | [Blackstreet](https://open.spotify.com/artist/2P3cjUru4H3fhSXXNxE9kA), [David Roland Williams](https://open.spotify.com/artist/3SYKJoZtFzV5d8ngCgxqTE), [Richard Iverson](https://open.spotify.com/artist/5dbRY8iAB9vdUACnschuB2) | [Blackstreet](https://open.spotify.com/album/26yshjRCAGf1mLJtfTrlsb) | 3:02 |
 | 45 | [Give U My Heart \(feat\. Toni Braxton\)](https://open.spotify.com/track/6pMliTILbMMQJVFvru12DX) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [Boomerang](https://open.spotify.com/album/3hrK0o67R7x4ZcG4NMTTXh) | 5:01 |
-| 46 | [Rump Shaker](https://open.spotify.com/track/4dY4JVC0Q9CwpeZ6JAclIc) | [Wreckx\-N\-Effect](https://open.spotify.com/artist/6lLYZf9GpSq6Pf09g2N2xK) | [Hard Or Smooth](https://open.spotify.com/album/6xLyv6QON3hOuKiqRKvNOw) | 5:12 |
+| 46 | [Rump Shaker](https://open.spotify.com/track/31VhyXtutTRdFQ5ihNuLpC) | [Wreckx\-N\-Effect](https://open.spotify.com/artist/6lLYZf9GpSq6Pf09g2N2xK) | [Old School Hip Hop Party](https://open.spotify.com/album/5QRakQ3xreZwDJKqCLPZr0) | 5:10 |
 | 47 | [Let Me Be the One](https://open.spotify.com/track/0T3xmp3KqDklZ12Ze0Nm13) | [Intro](https://open.spotify.com/artist/03n0Ll5tJjUxajYOvc0TQm) | [INTRO](https://open.spotify.com/album/22FyYZYdjTSffRGt9fofBY) | 4:57 |
 | 48 | [The One For Me](https://open.spotify.com/track/6xnJvIPLh9bWG2ZagAL6UN) | [Joe](https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX) | [Everything](https://open.spotify.com/album/41vhgxFJ8NUqKMejOkhDCj) | 4:38 |
 | 49 | [Make You Sweat](https://open.spotify.com/track/3iI6xZkQSWGjWx5phFVLn2) | [Keith Sweat](https://open.spotify.com/artist/2r09Inibex3C4ZNTUVSG3m) | [I'll Give All My Love to You](https://open.spotify.com/album/6SjLhapZQcPYcMP73FdPRZ) | 5:20 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8UMqd36n1X.md) - [plain]
 | 55 | [Under Pressure](https://open.spotify.com/track/3mcbFloFZLeAWJYFR0HITA) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [Cooleyhighharmony \- Expanded Edition](https://open.spotify.com/album/7JnLsJWNUf50DGZ5JhBgbO) | 4:13 |
 | 56 | [Call Me A Mack](https://open.spotify.com/track/32dRq8sTlXLGbDgZ3ZSKQO) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Poetic Justice: Music from the Motion Picture](https://open.spotify.com/album/4cexzIEP1mkthBusUZZeB3) | 4:06 |
 
-Snapshot ID: `MTY2NzE0NDA1OCwwMDAwMDAwMDE2NTk4MTFiODQ2YTYyNDMxNDU4ZWRmOTEwMTU4ZDJj`
+Snapshot ID: `MTY2NzE0NDA1OCwwMDAwMDAwMGM1MDFmZDE2MjkxYjMwMWJhMzdmNzVkOWJhM2FjMWJj`

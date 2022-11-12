@@ -264,6 +264,24 @@
     },
     {
       "album": {
+        "name": "Rhythms of Asia",
+        "url": "https://open.spotify.com/album/545RuKBGvnoxxLJwzSp4HH"
+      },
+      "artists": [
+        {
+          "name": "Shruti Singh",
+          "url": "https://open.spotify.com/artist/3ez3pRLzrPuiEhfwqJfWNn"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 553653,
+      "name": "Raag Bhairavi",
+      "url": "https://open.spotify.com/track/7aIOCBQ4kc89DKdMMMJ94I"
+    },
+    {
+      "album": {
         "name": "Gurdev Singh: Art of the Indian Sarod",
         "url": "https://open.spotify.com/album/3rTQqOxvbVAAxGHHtIf0uo"
       },
@@ -283,7 +301,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 553653,
       "name": "Raag Bhairavi",
       "url": "https://open.spotify.com/track/58178J0qm8wByXjsnDx78v"
@@ -519,10 +537,36 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 595100,
       "name": "Raga Dhani",
       "url": "https://open.spotify.com/track/3oYV5o683DdesdrU5WCnyW"
+    },
+    {
+      "album": {
+        "name": "The Art of the Indian Dilruba",
+        "url": "https://open.spotify.com/album/3sKpqE3Q8WOBeYobxeLO85"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Shrivastav Shanson",
+          "url": "https://open.spotify.com/artist/3IKouO9Y74YNhaDsd65Ogl"
+        },
+        {
+          "name": "Partho Mukherjee",
+          "url": "https://open.spotify.com/artist/1IftW1kiCpeNpYZLCIVk2j"
+        },
+        {
+          "name": "Baluji Shrivastav",
+          "url": "https://open.spotify.com/artist/6W1YoudRbtmvymApgIb238"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 601306,
+      "name": "Raga Dhani (gat in Madhya Laya Jhaptaal)",
+      "url": "https://open.spotify.com/track/4PFNmeSYL8RHGKyb8Kqjcf"
     },
     {
       "album": {

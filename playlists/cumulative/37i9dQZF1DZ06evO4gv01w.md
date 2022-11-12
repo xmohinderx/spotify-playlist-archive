@@ -4,7 +4,7 @@
 
 > This is Larkin Poe\. The essential tracks, all in one playlist.
 
-60 songs - 3 hr 32 min - [published](https://open.spotify.com/playlist/4R9EPFhGfbJ9ffLcucgt7g)
+61 songs - 3 hr 36 min - [published](https://open.spotify.com/playlist/4R9EPFhGfbJ9ffLcucgt7g)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Hard Time Killing Floor Blues](https://open.spotify.com/track/1zhltGZlmgZ2MAs5DZQD2q) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Venom & Faith](https://open.spotify.com/album/4XflGGrR7ASWoMNVfy7txI) | 3:13 | 2022-08-05 |  |
 | [Holy Ghost Fire](https://open.spotify.com/track/3VuJi1qJ2gcL7XHjEJZuga) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Holy Ghost Fire](https://open.spotify.com/album/4VBgT5PAWX8PmnDSvqbdht) | 3:22 | 2022-08-05 |  |
 | [Honey Honey](https://open.spotify.com/track/2rtAiRiVR7flLVl1SDnNEF) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Venom & Faith](https://open.spotify.com/album/4XflGGrR7ASWoMNVfy7txI) | 3:29 | 2022-08-05 |  |
-| [I Belong to Love](https://open.spotify.com/track/7HPmVh2X2DWWyNUQJbszzN) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm), [Thom Hell](https://open.spotify.com/artist/3KwfPMspVY0W2KRZLJqfWW) | [The Sound of the Ocean Sound](https://open.spotify.com/album/1R7itsLluYqsOGTDVVEeaV) | 4:23 | 2022-08-05 |  |
+| [I Belong to Love](https://open.spotify.com/track/7HPmVh2X2DWWyNUQJbszzN) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm), [Thom Hell](https://open.spotify.com/artist/3KwfPMspVY0W2KRZLJqfWW) | [The Sound of the Ocean Sound](https://open.spotify.com/album/1R7itsLluYqsOGTDVVEeaV) | 4:23 | 2022-08-05 | 2022-11-12 |
 | [I Shall Be Released \(feat\. Larkin Poe\)](https://open.spotify.com/track/6w6ZTXBkcf4JurAR0ruRU5) | [Nitty Gritty Dirt Band](https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW), [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [I Shall Be Released \(feat\. Larkin Poe\)](https://open.spotify.com/album/21WX3fvuUwoP0k7GQo5NAo) | 4:47 | 2022-08-05 |  |
 | [In The Air Tonight](https://open.spotify.com/track/6FuMaMKyjOqSnpIu89M1UU) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Kindred Spirits](https://open.spotify.com/album/31HGWFxU5AgjAoMZH1t5ft) | 3:21 | 2022-08-05 |  |
 | [Jailbreak](https://open.spotify.com/track/1AHc7OT7yz3BY9IDDAVD4i) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Kin](https://open.spotify.com/album/0mytUZFeUuGYr4abo8bf92) | 3:48 | 2022-08-05 |  |
@@ -58,6 +58,7 @@
 | [She's A Self Made Man](https://open.spotify.com/track/7Bu4ET2R5zKAeqM68l3Oqk) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [She's A Self Made Man](https://open.spotify.com/album/6dzXBWjuzGjI5TQxJWBh7G) | 3:01 | 2022-08-05 |  |
 | [Shoulder to Shoulder](https://open.spotify.com/track/2sEgt5bf7TT0FZK7l61Jnz) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm), [Thom Hell](https://open.spotify.com/artist/3KwfPMspVY0W2KRZLJqfWW) | [The Sound of the Ocean Sound](https://open.spotify.com/album/1R7itsLluYqsOGTDVVEeaV) | 4:20 | 2022-08-05 |  |
 | [Sometimes](https://open.spotify.com/track/32EakGEjZPjasCLjHN5ktx) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Venom & Faith](https://open.spotify.com/album/4XflGGrR7ASWoMNVfy7txI) | 2:52 | 2022-08-05 |  |
+| [Southern Comfort](https://open.spotify.com/track/42gromQqSqCYSAyGx3QHck) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Southern Comfort](https://open.spotify.com/album/1bzNp3ImoTMHwAvfjTzyeW) | 3:47 | 2022-11-11 |  |
 | [Strike Gold](https://open.spotify.com/track/3eFCcD8aZJIc2wRmJm6Vyx) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Strike Gold](https://open.spotify.com/album/5YPy3q0MV7e5fJHFYNutjV) | 3:20 | 2022-10-09 |  |
 | [Sucker Puncher](https://open.spotify.com/track/5RXqnZB37wzll5IPQLcBX4) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Reskinned](https://open.spotify.com/album/4UwbVHSo5yrp4jkOIrKsRo) | 3:30 | 2022-08-05 |  |
 | [Sugar High](https://open.spotify.com/track/2wSZEb1pCkYoZn0jJs0CGd) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Kin](https://open.spotify.com/album/0mytUZFeUuGYr4abo8bf92) | 3:09 | 2022-08-05 |  |

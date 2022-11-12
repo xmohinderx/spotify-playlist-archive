@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbahoSMxtpoF.md) - [plain]
 
 > Honoring the life and music of the <a href="spotify:artist:5xLSa7l4IV1gsQfhAMvl0U">blues giant</a>, 1925–2015.
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,779 likes - 25 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,851 likes - 25 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbahoSMxtpoF.md) - [plain]
 | 11 | [Every Day I Have The Blues \- Live At The Regal Theater, Chicago, 1964](https://open.spotify.com/track/2FkvHmkTn73JP7tdsFaAWk) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Greatest Hits \(Reissue\)](https://open.spotify.com/album/69sbsm2ecADMQFCC3ZrJMP) | 2:40 |
 | 12 | [Three O'clock Blues](https://open.spotify.com/track/1WeX8wcU8FDEZxWurJLU0r) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Singin' The Blues](https://open.spotify.com/album/0w6Gt4SUI5AduJvcXetxun) | 3:03 |
 | 13 | [How Blue Can You Get?](https://open.spotify.com/track/6ZfSXhqojBGB8BdRFb96Im) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Live In Cook County Jail](https://open.spotify.com/album/3mCS3cMduOlki845XA4gDZ) | 5:12 |
-| 14 | [When Love Comes To Town](https://open.spotify.com/track/6FuZyu29n5GukcBYjbbIHd) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Live At The Apollo](https://open.spotify.com/album/4IZaBHGc8iD7BYflgD0FOp) | 4:53 |
+| 14 | [When Love Comes To Town \- Live At Apollo Theater, New York/1990](https://open.spotify.com/track/0tTNAm3ovef9VcEPlBPIah) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Rock n Roll Blues Bangers](https://open.spotify.com/album/2FzZewTkX8aX4UrifwMSac) | 4:53 |
 | 15 | [Sweet Little Angel](https://open.spotify.com/track/7IbBgyqH30XC0z01QVMYnh) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Classic Masters](https://open.spotify.com/album/3JscWpuM0XXbVvDMkUjlXw) | 3:02 |
 | 16 | [Sweet Sixteen](https://open.spotify.com/track/1H4un1VlmHkMJGMB79rZN7) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Live In Cook County Jail](https://open.spotify.com/album/3mCS3cMduOlki845XA4gDZ) | 4:20 |
 | 17 | [To Know You Is To Love You](https://open.spotify.com/track/6UHl925EKFaFWKzmYz0CMx) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [The Life Of Riley \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4xTMuGIOwzmtZwLKa8XwOw) | 8:38 |
@@ -32,6 +32,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbahoSMxtpoF.md) - [plain]
 | 22 | [You Upset Me, Baby](https://open.spotify.com/track/76TFfQ9o7HFeChpkwUcoQn) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Classic Masters](https://open.spotify.com/album/3JscWpuM0XXbVvDMkUjlXw) | 3:02 |
 | 23 | [Woke Up This Morning \(My Baby She Was Gone\)](https://open.spotify.com/track/3uHBr4hw8J6LAfl2BpvJxt) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Do The Boogie! B.B\. King's Early 50s Classics](https://open.spotify.com/album/7ufYRP55tnM2qou8iCyZO7) | 3:02 |
 | 24 | [Ain't Nobody Home](https://open.spotify.com/track/3hCIZ8sgJm5MUh7ulehPGX) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U), [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Deuces Wild](https://open.spotify.com/album/3fIftPnF4eb7gkg2lFS1TV) | 4:59 |
-| 25 | [Better Not Look Down](https://open.spotify.com/track/20VyHR0s9CdmSLM06I4Y48) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Take It Home](https://open.spotify.com/album/0Mzk6JoxPV6hE9sge7VMGS) | 3:22 |
+| 25 | [Better Not Look Down](https://open.spotify.com/track/24wQ4FIS2uSVo2CtZliEif) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Greatest Hits \(Reissue\)](https://open.spotify.com/album/69sbsm2ecADMQFCC3ZrJMP) | 3:22 |
 
-Snapshot ID: `MTUxOTk0NzE4OCwwMDAwMDAwMDUxZmEzMGRmNmQ2MWM1NTk3NGM3NzRkYmM0NTU5OWY1`
+Snapshot ID: `MTUxOTk0NzE4OCwwMDAwMDAwMGVlNGMyNzc1ZDllY2Y0NzhjZjU4YzY0ZWEwYWU2NTUw`

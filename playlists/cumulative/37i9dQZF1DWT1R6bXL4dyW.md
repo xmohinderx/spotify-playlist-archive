@@ -4,7 +4,7 @@
 
 > Buon Appetito!
 
-68 songs - 3 hr 27 min - [published](https://open.spotify.com/playlist/3DcUKWxUB3c5563KSQxozA)
+69 songs - 3 hr 30 min - [published](https://open.spotify.com/playlist/3DcUKWxUB3c5563KSQxozA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,8 @@
 | [Take My Heart](https://open.spotify.com/track/17mHf9wIBpntdSqDfD8c2g) | [Al Martino](https://open.spotify.com/artist/7egNqIGRldMzifHoh8pib6) | [The Ultimate Al Martino](https://open.spotify.com/album/5ZWGb9xTcmxXAjVNnbqELV) | 3:10 | 2019-03-18 | 2022-11-11 |
 | [Take My Heart \- Remastered](https://open.spotify.com/track/5tg20ochJcAlpj25GM5ZWx) | [Al Martino](https://open.spotify.com/artist/7egNqIGRldMzifHoh8pib6) | [Crooner \(Remastered\)](https://open.spotify.com/album/7pgcJ7XAmi0a41S0l7LKdL) | 3:09 | 2019-03-18 | 2022-07-29 |
 | [Tarantella](https://open.spotify.com/track/5CVSC6Ehnko15JmOuGYFwA) | [Italian Mandolin Torna A Surriento](https://open.spotify.com/artist/6B1qY6diGzu9FFbGOG7fSk) | [Italian Music, Tarantella, Come Back to Sorrento](https://open.spotify.com/album/191xZsXIZWwYcKshzfEJbg) | 2:16 | 2022-02-18 |  |
-| [That's Amore](https://open.spotify.com/track/4I4aQGNJ2HufloNtB65nxR) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9), [Dick Stabile And His Orchestra](https://open.spotify.com/artist/0liyb0PPDyu3pfG7WZtsxO) | [Dean Martin: The Capitol Recordings, Vol\. 4 \(1952\-1954\)](https://open.spotify.com/album/5jQlSnsavt8afiXBFDNE8I) | 3:10 | 2019-03-18 |  |
+| [That's Amore](https://open.spotify.com/track/3chhqO7z6nVOf1fdhcyKFn) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9), [Dick Stabile And His Orchestra](https://open.spotify.com/artist/0liyb0PPDyu3pfG7WZtsxO) | [Piosenki z Filmów](https://open.spotify.com/album/5XppDzLQLDzEAKrpQQwKqi) | 3:07 | 2019-03-18 |  |
+| [That's Amore](https://open.spotify.com/track/4I4aQGNJ2HufloNtB65nxR) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9), [Dick Stabile And His Orchestra](https://open.spotify.com/artist/0liyb0PPDyu3pfG7WZtsxO) | [Dean Martin: The Capitol Recordings, Vol\. 4 \(1952\-1954\)](https://open.spotify.com/album/5jQlSnsavt8afiXBFDNE8I) | 3:10 | 2019-03-18 | 2022-11-12 |
 | [That's Amore \- 1998 Remastered](https://open.spotify.com/track/2yVKRJ026MOBElS97mp2Xl) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [The Essential Dean Martin](https://open.spotify.com/album/3bCD76GPTntFdGOT6KXgO3) | 3:07 | 2019-03-18 | 2022-07-29 |
 | [The Glory of Love](https://open.spotify.com/track/4usvynbYaFqgm4olpzEp9u) | [Jimmy Durante](https://open.spotify.com/artist/5FNHfTn3yzVpqdUyWwej0v) | [Hello Young Lovers](https://open.spotify.com/album/2MxPqVPNpPGx4jYjSJr6Zg) | 2:49 | 2019-03-18 |  |
 | [The Pleasure Of Her Company](https://open.spotify.com/track/5KdkuAfOa5QA2eEYccxLD1) | [Vic Damone](https://open.spotify.com/artist/4seoDLqmOLUf59y72WJP7g) | [16 Most Requested Songs](https://open.spotify.com/album/3BKBbOThU1jKTqirqDkSok) | 3:12 | 2019-03-18 |  |

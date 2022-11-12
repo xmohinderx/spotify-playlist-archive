@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWTyhpyCExup.md) - [plain]
 
 > Blues, Bluegrass, Americana, Folk, & Soul; explore today's Black artists that are driving the evolution of roots music\. Cover: Jon Batiste
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,636 likes - 80 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,641 likes - 80 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWTyhpyCExup.md) - [plain]
 | 16 | [Long Journey Home](https://open.spotify.com/track/4BEoefxFSU1b8C2SM7UtIQ) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5) | [Long Journey Home](https://open.spotify.com/album/5UmtuR2exwkKpcUR5oNiGN) | 3:05 |
 | 17 | [This Must Be The Place](https://open.spotify.com/track/66c2mzrZst8gyTRibuwL9O) | [Ondara](https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W) | [Tax Code 1: Telepathy of a Mammoth](https://open.spotify.com/album/4ZYeCQonqxWYWGqjmyqRwc) | 4:10 |
 | 18 | [The Way Back Home](https://open.spotify.com/track/3PTsvzTENG4jREGGQz9xpb) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [The Way Back Home](https://open.spotify.com/album/1UpWcCKM40cIfTaDY38eFY) | 3:34 |
-| 19 | [Diamond Studded Shoes](https://open.spotify.com/track/5SfM1f729pv1DdiEcyDiex) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Stand For Myself](https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV) | 3:24 |
+| 19 | [Diamond Studded Shoes](https://open.spotify.com/track/40IKRcWQ7AmmLe0397l1Wb) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Festival Music 2022](https://open.spotify.com/album/4GWUWeGzDHP3J6hIKKrTB5) | 3:24 |
 | 20 | [People Need People](https://open.spotify.com/track/6KiWFNyMCXE7dvuj1eU5u0) | [Michael Franti & Spearhead](https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB) | [Follow Your Heart](https://open.spotify.com/album/5ASwxssTkz7SW7WdaGviYR) | 3:24 |
 | 21 | [It's a good day \(to fight the system\) \[feat\. Joy Oladokun\]](https://open.spotify.com/track/4xzCJ65pFTogCfav8IVqSw) | [Shungudzo](https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [It's a good day \(to fight the system\) \[feat\. Joy Oladokun\]](https://open.spotify.com/album/2AU0XiCtjQEU55l846nraF) | 3:17 |
 | 22 | [Do You See The Light Around Me?](https://open.spotify.com/track/6pPfKmVvvu1ztJxqvpQ4Vm) | [Uwade](https://open.spotify.com/artist/57qPRqUfnRY0KJtO5lrjWL) | [Do You See The Light Around Me?](https://open.spotify.com/album/4ryLljFHWYTslwrz8l0UTK) | 3:24 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWTyhpyCExup.md) - [plain]
 | 79 | [Mountain Top](https://open.spotify.com/track/7rJNvxjt9dXQkRYNrQfjOV) | [Toshi Reagon](https://open.spotify.com/artist/1WUAzIurvlhaWxB7fpcuOM) | [Toshi](https://open.spotify.com/album/127jq1AGPCb3ImjhRJ5K0g) | 5:27 |
 | 80 | [Sweet Misery](https://open.spotify.com/track/7bg9GsxzCq4pj0wjmCz4Ke) | [Tré Burt](https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc) | [Sweet Misery](https://open.spotify.com/album/3yLtCH6hQhQ2Q58FMW7JYT) | 3:09 |
 
-Snapshot ID: `MTY1NTQzODQ2MCwwMDAwMDAwMDc0NzI1NmMzY2JkOWIzMTQ1MGQwN2U0Y2JkYjA2YTk4`
+Snapshot ID: `MTY1NTQzODQ2MCwwMDAwMDAwMDI0MmY0ZTFjODkyNjFiMDY1NmViZGRiYzcyOWU2OTky`

@@ -4,7 +4,7 @@
 
 > Remember how love used to be, feel how it is and imagine how it can be with the best South African love songs.
 
-80 songs - 6 hr 3 min - [published](https://open.spotify.com/playlist/4z4liMLXSt1JHB0mmnGsSi)
+82 songs - 6 hr 13 min - [published](https://open.spotify.com/playlist/4z4liMLXSt1JHB0mmnGsSi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [Allow](https://open.spotify.com/track/3GO9CVRhEpksVFi3QeplQt) | [Zu.](https://open.spotify.com/artist/1CQAguK72YsRMOjz1ECeqq) | [Ndim Nawe](https://open.spotify.com/album/57KvERWvmhZrvwEphJVwdw) | 4:38 | 2022-02-11 |  |
 | [Asibe Happy](https://open.spotify.com/track/6F70m9aMK4PSJKBfp1H8DZ) | [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE) | [Asibe Happy](https://open.spotify.com/album/0K6ImXCD9oG3p3HBcAq9UA) | 7:38 | 2022-02-11 |  |
 | [Atamela](https://open.spotify.com/track/0ygf2pf66KVHaaFLPBqisI) | [Presss](https://open.spotify.com/artist/4zvrxiTj59PqL9vRzQI354) | [Evolution of Love](https://open.spotify.com/album/4Q3PFsJo6g39tOvcEEHhVJ) | 3:32 | 2022-02-11 |  |
-| [Baby Girl](https://open.spotify.com/track/5qJpQEJKN2lvm0szJhyvdz) | [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP) | [Thuto](https://open.spotify.com/album/5eqTNk3knYSiqlpcUT91z7) | 4:20 | 2022-02-11 |  |
+| [Baby Girl](https://open.spotify.com/track/14dcMfyhHV1vUdXXfiTuW1) | [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP) | [Once Upon a Time In Africa](https://open.spotify.com/album/75zZ8xLGSeF0UFE5K0kMrj) | 4:20 | 2022-02-11 |  |
+| [Baby Girl](https://open.spotify.com/track/5qJpQEJKN2lvm0szJhyvdz) | [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP) | [Thuto](https://open.spotify.com/album/5eqTNk3knYSiqlpcUT91z7) | 4:20 | 2022-02-11 | 2022-11-12 |
 | [Baby Please](https://open.spotify.com/track/0TmitblYFOtTvESsvQpiAS) | [Robbie Malinga](https://open.spotify.com/artist/1nuPAZ36vprvyuAAGBC9UD), [Kelly Khumalo](https://open.spotify.com/artist/2MhYuOM0iHfOwQ0HeLa0no) | [Soulful Songs: Vol 1](https://open.spotify.com/album/2RtQNzcpmwzwakqzQTnac3) | 4:48 | 2022-02-11 |  |
 | [Black Butterfly](https://open.spotify.com/track/7Eq6djk4VjwNHlSxL1c9n9) | [TK](https://open.spotify.com/artist/7GkLffiNibtscyTkTKltfn) | [Best of TK](https://open.spotify.com/album/2FHSrLJLlcA2XgaCrme0FI) | 4:39 | 2022-02-11 |  |
 | [Cashmere](https://open.spotify.com/track/6lU17eD72HITJQi6whfHH7) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Cashmere](https://open.spotify.com/album/3MSWBNsXCTc7U3lE8FDtY1) | 3:03 | 2022-02-11 |  |
@@ -29,7 +30,8 @@
 | [Hamba](https://open.spotify.com/track/5M0J5ZOt7LPeZrHs9G7c7R) | [Lira](https://open.spotify.com/artist/1ChWj9EwLoK9J0hnHMgKHj) | [Soul In Mind](https://open.spotify.com/album/5ceGC90YEocJP4lXy5ifzV) | 5:36 | 2022-02-11 |  |
 | [Hamba](https://open.spotify.com/track/0NSogHxp78SkhQML9gm4xG) | [Q Twins](https://open.spotify.com/artist/2krUPP3nMYoF1C5WX3yB7J), [DJ Tira](https://open.spotify.com/artist/4FC2wXrDWr5lLCZeAUgfVn) | [Hamba](https://open.spotify.com/album/7wJ5QAcjREHeBjYnaRu9vM) | 4:32 | 2022-02-11 |  |
 | [Hey Wena](https://open.spotify.com/track/6xWKqSm5x9j6AnQJvWiak3) | [Samthing Soweto](https://open.spotify.com/artist/6HwxMgE895sejjGFin9Gvm), [Entity MusiQ](https://open.spotify.com/artist/6EqAIU7pGX8LnmXmAxpO9u), [Alie\-Keys](https://open.spotify.com/artist/3DJ0mAQ0XKTRL1ilhAM38X) | [Danko!](https://open.spotify.com/album/2ki4Bk6f9zxcISNizFW7xa) | 5:44 | 2022-02-11 |  |
-| [I Do \(feat\. Amanda Black\)](https://open.spotify.com/track/4lIVnQXM5nBx3AmhsJ1KSA) | [LaSauce](https://open.spotify.com/artist/7cb8ThGZh7FX75XcX64MKi), [Amanda Black](https://open.spotify.com/artist/4tyWwKFEbho8Vh4qczqbIo) | [Broken Lipstick](https://open.spotify.com/album/2X0MNKHlGm5L6UAaaTsabH) | 5:13 | 2022-02-11 |  |
+| [I Do](https://open.spotify.com/track/3lSUCc7S3h0uD6yT8BnPPB) | [La Sauce](https://open.spotify.com/artist/7M2aTLre33O0Q0bcesHN9b), [Amanda Black](https://open.spotify.com/artist/4tyWwKFEbho8Vh4qczqbIo) | [Evening Of Love Volume 1](https://open.spotify.com/album/1YOYdJxjiUrwP4E6RktAk1) | 5:12 | 2022-02-11 |  |
+| [I Do \(feat\. Amanda Black\)](https://open.spotify.com/track/4lIVnQXM5nBx3AmhsJ1KSA) | [LaSauce](https://open.spotify.com/artist/7cb8ThGZh7FX75XcX64MKi), [Amanda Black](https://open.spotify.com/artist/4tyWwKFEbho8Vh4qczqbIo) | [Broken Lipstick](https://open.spotify.com/album/2X0MNKHlGm5L6UAaaTsabH) | 5:13 | 2022-02-11 | 2022-11-12 |
 | [I'm Scared](https://open.spotify.com/track/46HHaGlrPdy191gxyIkSVC) | [Seba Kaapstad](https://open.spotify.com/artist/6i1YUN2HJGtCdO3s17JV3V), [Oddisee](https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC) | [I'm Scared](https://open.spotify.com/album/4T2aGnQK5dGXMiFt5w9ecH) | 3:56 | 2022-02-11 |  |
 | [Ibhanoyi](https://open.spotify.com/track/1UooO4lFHhFaKX8Jgz9xNI) | [Blaq Diamond](https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe) | [Umuthi](https://open.spotify.com/album/2bjC0ex3FhejL6cuaLToJU) | 4:09 | 2022-02-11 |  |
 | [Intliziyo](https://open.spotify.com/track/0CZjloNcJAOdtB6tsTGUi6) | [Langa Mavuso](https://open.spotify.com/artist/55FBDBLWXQ2sokFravrxop), [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [LANGA](https://open.spotify.com/album/1VRWnJydavNDdU2rKxtjeo) | 4:46 | 2022-02-11 | 2022-11-11 |

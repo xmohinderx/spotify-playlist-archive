@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FSYmdU9mbT.md) - [plain]
 
 > Os grandes artistas da MPB\. Foto: Gal Costa
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,232,771 likes - 90 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,233,476 likes - 90 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FSYmdU9mbT.md) - [plain]
 | 61 | [Lenha](https://open.spotify.com/track/03eJrJinZp8ofxM3nQQs9F) | [Zeca Baleiro](https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8) | [Top Hits](https://open.spotify.com/album/1QKWvjU1m1Eh2CJ2TsiPE8) | 4:09 |
 | 62 | [Anunciação \- Ao Vivo](https://open.spotify.com/track/3JrFuUhcNLHiD3hJPVaHTy) | [Alceu Valença](https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG), [Elba Ramalho](https://open.spotify.com/artist/4ph6Bt1mkDlmf32PSvRa8A), [Geraldo Azevedo](https://open.spotify.com/artist/65TbyndeGrDlFd4IkZNfbN) | [O Grande Encontro 20 Anos: Alceu, Elba e Geraldo \(Ao Vivo\)](https://open.spotify.com/album/33HKZh4hP8FmsVmPGoaDYC) | 5:27 |
 | 63 | [Back in Bahia \- Ao vivo](https://open.spotify.com/track/42XOOCltwfAiy8AdUHA4MT) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ), [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Dois Amigos, Um Século de Música: Multishow Live](https://open.spotify.com/album/5wkh8zB5DgWzdbyrjWwN8r) | 2:24 |
-| 64 | [Não É um Bolero](https://open.spotify.com/track/25D9YD6JDfQnWzPqgM9osJ) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Vidas Pra Contar](https://open.spotify.com/album/1oUVz3XYuycGaodvUPce2M) | 4:21 |
+| 64 | [Não É um Bolero](https://open.spotify.com/track/0B5J5ftNUXMbcsjHz6hb71) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Não É um Bolero](https://open.spotify.com/album/7bTQyV5D8AuUgWaAV7kyDu) | 4:23 |
 | 65 | [Metamorfose Ambulante](https://open.spotify.com/track/2Yk0HvfTaijA47aM0Fj88u) | [Raul Seixas](https://open.spotify.com/artist/7jrRQZg4FZq6dwpi3baKcu) | ["Krig\-Ha, Bandolo"](https://open.spotify.com/album/2xRddGxRH0KdDWLNE5b0iu) | 3:51 |
 | 66 | [Espelhos d'Água](https://open.spotify.com/track/5vUiNgl1rdhYHQORVNtrRP) | [Patricia Marx](https://open.spotify.com/artist/43bh4WLBq3yxN3kIucxnHE), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [Espelhos d'Água](https://open.spotify.com/album/0ZSgZoQkwPq30MIxV6AiV8) | 4:51 |
 | 67 | [Rosa de Hiroshima](https://open.spotify.com/track/5BUmMyyJviZZ5XxVyfUAjO) | [Secos & Molhados](https://open.spotify.com/artist/4EKJxXaAZapG14Q5FTZoxm) | [Gigantes](https://open.spotify.com/album/0hIgIeXzJlQEEDQcrKJ6Wv) | 1:58 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FSYmdU9mbT.md) - [plain]
 | 85 | [Samba da Bênção](https://open.spotify.com/track/2moGHNaU8a4j1iowyOiYnF) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV) | [Que Falta Você Me Faz](https://open.spotify.com/album/32OEAAkXqmtVjP1ZjCopWs) | 3:02 |
 | 86 | [Sangue latino](https://open.spotify.com/track/4LxKSGFZOX66wGSsH0kFRE) | [Secos & Molhados](https://open.spotify.com/artist/4EKJxXaAZapG14Q5FTZoxm) | [Gigantes](https://open.spotify.com/album/0hIgIeXzJlQEEDQcrKJ6Wv) | 2:08 |
 | 87 | [Lança Perfume](https://open.spotify.com/track/0rAX31FT5w3ZQbQMUSkxy8) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ), [Roberto De Carvalho](https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1) | [Rita Hits](https://open.spotify.com/album/7i4l4zXrbUuK3sL3K99J27) | 2:07 |
-| 88 | [O Que Será \(A Flor Da Terra\)](https://open.spotify.com/track/0rfbvwLPBLBsEd4Bxz8IVb) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t), [Milton Nascimento](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM) | [Meus Caros Amigos](https://open.spotify.com/album/2LxncTIR5lf2dzoZb3QNC6) | 2:46 |
+| 88 | [O Que Será \(A Flor Da Terra\)](https://open.spotify.com/track/3oAFECh6UUsYkwpPlOO6SN) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t), [Milton Nascimento](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM) | [Bossa Nova Lo Mejor](https://open.spotify.com/album/4ZzLJX06lJanbO1UHKvvAk) | 2:47 |
 | 89 | [Oba, Lá Vem Ela](https://open.spotify.com/track/1o60EW97NdtvYJiIlZSLOG) | [Jorge Ben](https://open.spotify.com/artist/0Kl4OTnin2VOkJV360fsT4), [Trio Mocoto](https://open.spotify.com/artist/5nriuBVz6NDh6k8gTU5WgP) | [Doce MPB](https://open.spotify.com/album/2XAc4keBjM6sGyrVAsiLhW) | 4:12 |
 | 90 | [O Bêbado e a Equilibrista](https://open.spotify.com/track/3bgRCx8adxUZT7It3ryrWU) | [João Bosco](https://open.spotify.com/artist/3DF0ClNOUuvS3gh8V8sRJH), [Angela Maria](https://open.spotify.com/artist/4SKChJZZUJd8fD4ZbkpL6l) | [Linha De Passe](https://open.spotify.com/album/5hP8pHRsoC1ySE4wVc9wcH) | 3:20 |
 
-Snapshot ID: `MTY2ODAxMTk0MSwwMDAwMDAwMDc4NmIzNTVlYzliODhmYWI5ZWNmNjhlNWExYWE1NGJm`
+Snapshot ID: `MTY2ODAxMTk0MSwwMDAwMDAwMDgzMmQxOWJjZjlhODdlNzNmNTZjMGU3ODMwMjAyODBh`

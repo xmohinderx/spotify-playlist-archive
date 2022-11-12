@@ -1,12 +1,12 @@
 {
   "description": "A new take on the freshest dance tracks with remixes from Dubdogz & J\u00d8RD, Sonny Fodera, LP Giobbi and more!",
-  "num_followers": 14579,
+  "num_followers": 14588,
   "original_name": "mint Remix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTc2NTI2MCwwMDAwMDAwMDNhMWUxMWE4OWVmMDFlYTllMTJmMGM0ZTI4NzJhM2Vj",
+  "snapshot_id": "MTY0NTc2NTI2MCwwMDAwMDAwMDBhNDEzZDVhNzYzY2M3NTFmODg2M2JjZjk3OGNkNDYx",
   "tracks": [
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1615,34 +1615,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Oops (I'm Sorry) (Remixes)",
-        "url": "https://open.spotify.com/album/0CYWtgfYNiTjAvyc9NU0rr"
-      },
-      "artists": [
-        {
-          "name": "Lost Kings",
-          "url": "https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        },
-        {
-          "name": "GASHI",
-          "url": "https://open.spotify.com/artist/0JOxt5QOwq0czoJxvSc5hS"
-        },
-        {
-          "name": "KC Lights",
-          "url": "https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ"
-        }
-      ],
-      "duration_ms": 205645,
-      "name": "Oops (I'm Sorry) - KC Lights Remix",
-      "url": "https://open.spotify.com/track/6GdfTrSKxEYefdOp3l3JRL"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Bad Things (Remixes)",
         "url": "https://open.spotify.com/album/0t1TmK8DoSM9iCOPWs7rBD"
       },
@@ -1683,6 +1655,34 @@
       "duration_ms": 188437,
       "name": "Show Me Love - Sander van Doorn Remix",
       "url": "https://open.spotify.com/track/0Nxp4aH45UtTeL6pe8t7YQ"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Oops (I'm Sorry) (Remixes)",
+        "url": "https://open.spotify.com/album/0CYWtgfYNiTjAvyc9NU0rr"
+      },
+      "artists": [
+        {
+          "name": "Lost Kings",
+          "url": "https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "GASHI",
+          "url": "https://open.spotify.com/artist/0JOxt5QOwq0czoJxvSc5hS"
+        },
+        {
+          "name": "KC Lights",
+          "url": "https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ"
+        }
+      ],
+      "duration_ms": 205645,
+      "name": "Oops (I'm Sorry) - KC Lights Remix",
+      "url": "https://open.spotify.com/track/6GdfTrSKxEYefdOp3l3JRL"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -2071,6 +2071,30 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
+        "name": "My Feelings",
+        "url": "https://open.spotify.com/album/6XnzdnYMwOIEgVMEewejQe"
+      },
+      "artists": [
+        {
+          "name": "Serhat Durmus",
+          "url": "https://open.spotify.com/artist/1R2iRWvuwwokMKGHirNGTD"
+        },
+        {
+          "name": "Mokita",
+          "url": "https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE"
+        },
+        {
+          "name": "Georgia Ku",
+          "url": "https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM"
+        }
+      ],
+      "duration_ms": 181922,
+      "name": "My Feelings - Mokita Remix",
+      "url": "https://open.spotify.com/track/2XTZYSCs3FrfDbDylamb4T"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
         "name": "Desire (Vintage Culture & Kiko Franco Remix)",
         "url": "https://open.spotify.com/album/0UJZSHs32q35cILjLEJi3Y"
       },
@@ -2095,30 +2119,6 @@
       "duration_ms": 225967,
       "name": "Desire - Vintage Culture & Kiko Franco Remix (Edit)",
       "url": "https://open.spotify.com/track/0aSG0K0gRv69dRro1kKtfx"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "My Feelings",
-        "url": "https://open.spotify.com/album/6XnzdnYMwOIEgVMEewejQe"
-      },
-      "artists": [
-        {
-          "name": "Serhat Durmus",
-          "url": "https://open.spotify.com/artist/1R2iRWvuwwokMKGHirNGTD"
-        },
-        {
-          "name": "Mokita",
-          "url": "https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE"
-        },
-        {
-          "name": "Georgia Ku",
-          "url": "https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM"
-        }
-      ],
-      "duration_ms": 181922,
-      "name": "My Feelings - Mokita Remix",
-      "url": "https://open.spotify.com/track/2XTZYSCs3FrfDbDylamb4T"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -2235,30 +2235,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Moving Blind (Gorgon City Remix)",
-        "url": "https://open.spotify.com/album/3LbB1aic7E3WR1wSV4Z0XN"
-      },
-      "artists": [
-        {
-          "name": "Sonny Fodera",
-          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
-        },
-        {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        },
-        {
-          "name": "Gorgon City",
-          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
-        }
-      ],
-      "duration_ms": 203520,
-      "name": "Moving Blind - Gorgon City Remix",
-      "url": "https://open.spotify.com/track/5CpuREPN4XDQRQYxQ6udSe"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Pomegranate (Jay Robinson Remix)",
         "url": "https://open.spotify.com/album/4IyaI98lEWwR2RJTveVmHW"
       },
@@ -2279,6 +2255,30 @@
       "duration_ms": 332691,
       "name": "Pomegranate - Jay Robinson Remix",
       "url": "https://open.spotify.com/track/29i8kD96bdT1yjkdcuTawb"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Moving Blind (Gorgon City Remix)",
+        "url": "https://open.spotify.com/album/3LbB1aic7E3WR1wSV4Z0XN"
+      },
+      "artists": [
+        {
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        },
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        },
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        }
+      ],
+      "duration_ms": 203520,
+      "name": "Moving Blind - Gorgon City Remix",
+      "url": "https://open.spotify.com/track/5CpuREPN4XDQRQYxQ6udSe"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -2375,22 +2375,26 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "You've Done Enough (with DRAMA) [The Purple Prince Version]",
-        "url": "https://open.spotify.com/album/2bmFRz4d6TzkxrYLF89Mcn"
+        "name": "Cry (with John Martin) [Remixes]",
+        "url": "https://open.spotify.com/album/0N8RbnT9FS11c7DDtSjSvk"
       },
       "artists": [
         {
-          "name": "Gorgon City",
-          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
         },
         {
-          "name": "DRAMA",
-          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+          "name": "John Martin",
+          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
+        },
+        {
+          "name": "Trivecta",
+          "url": "https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye"
         }
       ],
-      "duration_ms": 185652,
-      "name": "You've Done Enough (with DRAMA) - The Purple Prince Version",
-      "url": "https://open.spotify.com/track/4lxbbQi7S7wVZCuY34xRjv"
+      "duration_ms": 233959,
+      "name": "Cry (with John Martin) - Trivecta Remix",
+      "url": "https://open.spotify.com/track/3pZTaAHCdNqPcrexRcKaZ6"
     }
   ],
   "unique_name": "mint Remix",

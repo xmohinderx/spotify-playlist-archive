@@ -4,7 +4,7 @@
 
 > Listen to the women of AU & NZ at full volume\. Cover: Pania
 
-295 songs - 16 hr 4 min - [published](https://open.spotify.com/playlist/4PJNyPSll9BI9JEGTXEKxV)
+296 songs - 16 hr 7 min - [published](https://open.spotify.com/playlist/4PJNyPSll9BI9JEGTXEKxV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [Before I Met You](https://open.spotify.com/track/4Mq47WHb5jawIRZR1v3nFz) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj), [The McClymonts](https://open.spotify.com/artist/3rQZpe0EHJWXItfc2OzzKf) | [Before I Met You](https://open.spotify.com/album/5Ey3VOt56tiLcuBptMkvP1) | 3:08 | 2022-02-03 | 2022-03-07 |
 | [Better By Myself](https://open.spotify.com/track/1dKMFUiwghUpGsUqAxUgFJ) | [LARA D](https://open.spotify.com/artist/1QyZxZlQBACv0338oNgmjC) | [Better By Myself](https://open.spotify.com/album/4V0RDhDvoucji5Xi6dTH73) | 3:11 | 2022-05-27 |  |
 | [Black Cloud](https://open.spotify.com/track/4tBehUVhRGqIUb3rTI9x8h) | [merci, mercy](https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH) | [Black Cloud](https://open.spotify.com/album/48ukfFIb3SBlV0RHTMohSr) | 3:14 | 2022-07-03 | 2022-07-29 |
-| [Black Cloud](https://open.spotify.com/track/7eKFpAosi1b37KQXHUVa7p) | [merci, mercy](https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH) | [Black Cloud](https://open.spotify.com/album/2dGVf0K5vgvhqrL3STAGoB) | 3:14 | 2022-07-03 |  |
+| [Black Cloud](https://open.spotify.com/track/6XnSBGNn90Lsoo2v6AUPco) | [merci, mercy](https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH) | [Into You](https://open.spotify.com/album/1AWhTuxn0iTkGqWy6F3jQs) | 3:14 | 2022-10-31 |  |
+| [Black Cloud](https://open.spotify.com/track/7eKFpAosi1b37KQXHUVa7p) | [merci, mercy](https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH) | [Black Cloud](https://open.spotify.com/album/2dGVf0K5vgvhqrL3STAGoB) | 3:14 | 2022-07-03 | 2022-11-12 |
 | [Blank Page](https://open.spotify.com/track/0CWWCOjNGeo40Kl0XbkYe4) | [MISSY](https://open.spotify.com/artist/3Fwrv2f2K0AxSDCrS8qZhD) | [Blank Page](https://open.spotify.com/album/7hKEp9Sh7BwASAeHolaONj) | 2:29 | 2022-04-05 | 2022-10-03 |
 | [BLEED](https://open.spotify.com/track/4PQeiGGiaWjaujJWPjZswy) | [Evie Irie](https://open.spotify.com/artist/2ReivzVeWl6GawKNyVTLmK) | [BLEED](https://open.spotify.com/album/6OQwaX0jFbUlUDdrF2dETa) | 3:02 | 2022-02-03 | 2022-04-06 |
 | [Bottle'o](https://open.spotify.com/track/0QhIgTGx2GpYnmgIQJIsWD) | [Ruby Fields](https://open.spotify.com/artist/1nwPEi1UZdJtCxBqATpsq3) | [Bottle'o](https://open.spotify.com/album/7vHoZyNq7xzQgq6zn3hUt6) | 2:32 | 2022-02-03 | 2022-03-07 |

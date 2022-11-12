@@ -936,6 +936,24 @@
     },
     {
       "album": {
+        "name": "Me La Avente",
+        "url": "https://open.spotify.com/album/2FkDOCRhHBmmuRvVdUlRLh"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155802,
+      "name": "Me La Avente",
+      "url": "https://open.spotify.com/track/16TbKoGzX5erRUW3L5J0kI"
+    },
+    {
+      "album": {
         "name": "El Malo",
         "url": "https://open.spotify.com/album/7kTcIz6EDhc8G0QCyvpOpH"
       },
@@ -965,7 +983,7 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 155802,
       "name": "Me La Avente",
       "url": "https://open.spotify.com/track/3ahvKiNH7l6EpnTnzkZpG1"
@@ -1171,10 +1189,28 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 224253,
       "name": "No Me Conoces A\u00fan",
       "url": "https://open.spotify.com/track/27OazZsnF6N1Hp75pCmBNI"
+    },
+    {
+      "album": {
+        "name": "GRUPERAS QUE TE ENAMORAN EL CORAZ\u00d3N",
+        "url": "https://open.spotify.com/album/3W4VGBM6h6qDln3BbP0kFw"
+      },
+      "artists": [
+        {
+          "name": "Palomo",
+          "url": "https://open.spotify.com/artist/27plYDXNJSOD084j39Lmlj"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224253,
+      "name": "No Me Conoces A\u00fan",
+      "url": "https://open.spotify.com/track/3EDrB9gVZKLx7z7Pu32Kmz"
     },
     {
       "album": {
@@ -1338,6 +1374,24 @@
     },
     {
       "album": {
+        "name": "Primavera Bailando Quebraditas",
+        "url": "https://open.spotify.com/album/7mygVUwyrmGlBekBsqxDCj"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212776,
+      "name": "Ramito De Violetas",
+      "url": "https://open.spotify.com/track/2IT6VVdTU4PT8hT4GTA6eg"
+    },
+    {
+      "album": {
         "name": "Mi Mexico Querido",
         "url": "https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1"
       },
@@ -1349,7 +1403,7 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 212776,
       "name": "Ramito De Violetas",
       "url": "https://open.spotify.com/track/6sRaqq9SYsSTPvrWkL1sRy"

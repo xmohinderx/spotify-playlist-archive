@@ -260,6 +260,28 @@
     },
     {
       "album": {
+        "name": "Blues Rock Crate",
+        "url": "https://open.spotify.com/album/7xPJ8C46QFPy6VVlo37Z3O"
+      },
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        },
+        {
+          "name": "Toumani Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329866,
+      "name": "Catfish Blues",
+      "url": "https://open.spotify.com/track/0LsFBvj1nJRX2PsqC8iMgC"
+    },
+    {
+      "album": {
         "name": "Kulanjan",
         "url": "https://open.spotify.com/album/1WwCoePsIIlf5Szu128XKL"
       },
@@ -275,7 +297,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 329866,
       "name": "Catfish Blues",
       "url": "https://open.spotify.com/track/0ZcNDNY1v8xoeYrZ0PUPao"

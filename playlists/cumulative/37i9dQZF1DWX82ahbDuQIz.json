@@ -2620,6 +2620,28 @@
     },
     {
       "album": {
+        "name": "British Invasion: Broadway 1981-1992",
+        "url": "https://open.spotify.com/album/46LGen75iLMtUkDYl5jeKF"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Pryce",
+          "url": "https://open.spotify.com/artist/26fxwQv5dbSx7ow4faauEh"
+        },
+        {
+          "name": "Martin Koch",
+          "url": "https://open.spotify.com/artist/3GRgEHpFp5ebG1SbyqMEzy"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364240,
+      "name": "The American Dream - From \"Miss Saigon\"",
+      "url": "https://open.spotify.com/track/1oirouChjNeir0vtrixfT2"
+    },
+    {
+      "album": {
         "name": "Highlights From Miss Saigon",
         "url": "https://open.spotify.com/album/2n0cideUzwmcCL7AeNa6Ub"
       },
@@ -2643,7 +2665,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 364133,
       "name": "The American Dream - Original London Cast Recording/1989",
       "url": "https://open.spotify.com/track/4KhKAbwVPgizloys4wDada"

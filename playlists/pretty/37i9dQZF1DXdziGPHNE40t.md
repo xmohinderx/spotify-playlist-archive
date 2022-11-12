@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdziGPHNE40t.md) - [plain]
 
 > Start your day right and wake up with some calm and cool Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,435 likes - 167 songs - 10 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,687 likes - 167 songs - 10 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -140,7 +140,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdziGPHNE40t.md) - [plain]
 | 130 | [I'll Be Seeing You](https://open.spotify.com/track/48w1IYrxtNKmm0bBMICOdu) | [Jenny Jones](https://open.spotify.com/artist/4EDpGeRNin742qDkiwBE1X) | [I'll Be Seeing You](https://open.spotify.com/album/2gPUo8oL5vW9LC5o7SnCSU) | 3:33 |
 | 131 | [More Than You Know](https://open.spotify.com/track/3AyHmUPu0wL0jKCxAkMALo) | [Charlie Regan Three](https://open.spotify.com/artist/13RaAeTknGQIB6kBEDTyRY) | [More Than You Know](https://open.spotify.com/album/3SFDdesj9oBxdrXZJMqHk5) | 4:21 |
 | 132 | [Apple Crumble](https://open.spotify.com/track/0hopRI3X9IUDYDM5jp3U3P) | [Moonlight Jazz Trio](https://open.spotify.com/artist/6PQAkc79UJ2ngAy9uX7wbD) | [The Last Goodbye](https://open.spotify.com/album/5w2EjSu6wKnsZppJAJhnpF) | 2:53 |
-| 133 | [A Better Place](https://open.spotify.com/track/6ZDLHi8UtQeT203JjiQU6N) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx) | [A Better Place](https://open.spotify.com/album/5kIBKvyTDfkVFeL3INbvBZ) | 2:13 |
+| 133 | [A Better Place](https://open.spotify.com/track/7JfORZg3Tvn0YyDZCiGhMU) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx) | [A Better Place](https://open.spotify.com/album/0BIRayldwphnBlwreGKihM) | 2:13 |
 | 134 | [London Plane](https://open.spotify.com/track/7nNFqTKI5xbtmk1iGPmz4n) | [Light Hands Trio](https://open.spotify.com/artist/6knUJcKkiLfAUyLNbE5Ilf) | [London Plane](https://open.spotify.com/album/0i5kK5lQhDiuPmjhMmesXo) | 3:03 |
 | 135 | [Hoppet](https://open.spotify.com/track/50QdRhmKuE8C2z1NGkiKxB) | [Måns & Dotter](https://open.spotify.com/artist/2p01LeKL4qyvQ5xKWs9S40) | [Hoppet](https://open.spotify.com/album/6IOoncN42rM25gZJx0rp8J) | 2:35 |
 | 136 | [Dreamsville](https://open.spotify.com/track/4AnJZTcx01nxo47QyYbskV) | [Pearl Street Trio](https://open.spotify.com/artist/6vOQ06tNCXPAdGfaNV3L0k) | [Dreamsville](https://open.spotify.com/album/60rdAuFzDeyUJIJRneqY3A) | 4:21 |
@@ -176,4 +176,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdziGPHNE40t.md) - [plain]
 | 166 | [Morning Conversations](https://open.spotify.com/track/5NuHONqC1B04om6zp76sH7) | [Carla Anderson](https://open.spotify.com/artist/1TbIqBiSP0SseGrRStPd3o) | [Morning Conversations](https://open.spotify.com/album/5XV9PM38eHcTV7FP8jABbf) | 4:19 |
 | 167 | [Come Rain or Come Shine](https://open.spotify.com/track/1IuKgGmHL5q5SntLbpuW9X) | [The Red Robin Quartet](https://open.spotify.com/artist/6JonKaJAREHNEYiCFcJBVn) | [Mellow Tone](https://open.spotify.com/album/3O30VlAacllXWOuJzXEW0S) | 4:17 |
 
-Snapshot ID: `MTY2ODEyMTI2MCwwMDAwMDAwMGNhYmIzYmIzNmIyMWUxYmIzMGViNWZlZTBiZjc3YTY0`
+Snapshot ID: `MTY2ODEyMTI2MCwwMDAwMDAwMDk5ZWIzMWYzYzAzMmUxNWMyOGNkNjc2N2MzN2UwMjNk`

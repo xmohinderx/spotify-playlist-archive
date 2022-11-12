@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Photo : Gregory Porter
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,389 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,481 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 38 | [Did Somebody Make a Fool Out of You](https://open.spotify.com/track/3y5Z7sB8kKEuBI06G2fZcb) | [Lady Blackbird](https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ) | [Did Somebody Make a Fool Out of You](https://open.spotify.com/album/5VvEOtmiR7TFEWp62vjPOs) | 4:51 |
 | 39 | [Baltimore](https://open.spotify.com/track/0PTdxZ0QwqFFP1Zr0wtlEz) | [Ray Estaire](https://open.spotify.com/artist/0lKJikwQ5t9bivXQHdOzbq) | [Baltimore](https://open.spotify.com/album/1tuRVv8vSpzKvh9aO1SnwA) | 5:16 |
 | 40 | [Feel Like Making Love](https://open.spotify.com/track/6KYUWlts5z7bIZMpVvWpfc) | [Kay Young](https://open.spotify.com/artist/1U7TfUcph2eoBUzG3XnaXK) | [Feel Like Making Love](https://open.spotify.com/album/3Ywtb8G1uRLWRSNBZSFia2) | 4:17 |
-| 41 | [Passaic](https://open.spotify.com/track/2j3u6MfjffdvS7TNGOj1BM) | [Robben Ford](https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy), [Bill Evans](https://open.spotify.com/artist/2PyoC81N6Uz8xs5Lzaquje) | [Common Ground](https://open.spotify.com/album/1TxksZoZOYltLztkow77CS) | 6:11 |
+| 41 | [Passaic](https://open.spotify.com/track/4xamnZxVJxOWQhww1SYBpH) | [Robben Ford](https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy), [Bill Evans](https://open.spotify.com/artist/2PyoC81N6Uz8xs5Lzaquje) | [Passaic](https://open.spotify.com/album/7EDkIqmqmBeEoPq0hlFJTM) | 6:11 |
 | 42 | [Bet](https://open.spotify.com/track/7pnM9gB0aO7WrIYqjeZaPX) | [Snarky Puppy](https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1) | [Empire Central](https://open.spotify.com/album/17sDfQwRab5dr2aVsgu1IA) | 5:33 |
 | 43 | [Piment doux](https://open.spotify.com/track/4YYaJVza3fZCPgLYv2k6Mh) | [Laurent Coulondre](https://open.spotify.com/artist/1yv7gzHLWb53t8smEXXcUV), [Martin Wangermée](https://open.spotify.com/artist/6Cko0OY4MlDWb57nLFMV4q), [Alexis Bourguignon](https://open.spotify.com/artist/3KbkoymkBIQF812bJQYPPE), [Robinson Khoury](https://open.spotify.com/artist/1L0xfJpihhDB3N8GEbmV6J), [Stéphane Guillaume](https://open.spotify.com/artist/2JmUauyONacBoIcYvSggJr), [Lucas Saint\-Cricq](https://open.spotify.com/artist/7AB1iv55p57sSmfa9d7GsI), [Nicolas Folmer](https://open.spotify.com/artist/42oVkAbF0mIgvyFEIfeUUQ), [Adriano Dos Santos Tenorio](https://open.spotify.com/artist/4s4GAWdKDa4sB0wQpA70lS), [Jeremy Bruyere](https://open.spotify.com/artist/27B9cx6PSADN8csmFRU0Tj) | [Meva Festa](https://open.spotify.com/album/36Jal3DfKpkkGEV5ZAA2s5) | 4:10 |
 | 44 | [Freedom Road](https://open.spotify.com/track/5zRlD6bPTJI0zBvqMJ2H95) | [Indra Rios\-Moore](https://open.spotify.com/artist/43WX6yWKK6qAqKCr2d3yw9) | [Freedom Road](https://open.spotify.com/album/3fN5DXHpo9ut4TmVAouTRG) | 3:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 49 | [E Basta \- Vincent Peirani](https://open.spotify.com/track/5TJfACNTfIZGwX36a5gONX) | [Simone Prattico](https://open.spotify.com/artist/5vMEIPZjcvn7bmnMjF1BIZ), [Vincent Peirani](https://open.spotify.com/artist/2aMYfhweGlfp6qj9r6OGUO) | [That's it \(Oriundo\)](https://open.spotify.com/album/7mZ22LtynPQGkYueUtyUxQ) | 3:10 |
 | 50 | [I Get A Kick Out Of You](https://open.spotify.com/track/6uRUfwEJuXbmIqwPiOKaVy) | [Nikki Yanofsky](https://open.spotify.com/artist/1n02UdnML6G4wR162YsSRi) | [I Get A Kick Out Of You](https://open.spotify.com/album/5XPgqAzI6atpfpxdzK17p0) | 2:41 |
 
-Snapshot ID: `MTY2ODEyMTI2MCwwMDAwMDAwMGRmZWQ0NWY2MTMyMDhkMGI5OWI0ZjdlYzRiM2NlMWJl`
+Snapshot ID: `MTY2ODEyMTI2MCwwMDAwMDAwMDRkZWZhYjg4MDQ1YWZmMjIyNGY4NTc0YWJhNmRiZWVj`

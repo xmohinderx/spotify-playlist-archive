@@ -4,7 +4,7 @@
 
 > The best and finest '10s Funk\. Cover: Pharrell Williams.
 
-76 songs - 5 hr 16 min - [published](https://open.spotify.com/playlist/5noqwCCsnUWZmorBqtfD0M)
+77 songs - 5 hr 20 min - [published](https://open.spotify.com/playlist/5noqwCCsnUWZmorBqtfD0M)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,8 @@
 | [Jam On](https://open.spotify.com/track/1ePjiM953NQc7FfRTNjxsq) | [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Brandon "TAZ" Niederauer](https://open.spotify.com/artist/2bmHKyjcdyqTMUxVbhZJth) | [The Power of the One](https://open.spotify.com/album/0HiqFidTpNyPKiaW8B0lwg) | 5:02 | 2021-05-05 |  |
 | [Janxta Funk!](https://open.spotify.com/track/3s5Ja1eydXvkzJp0KAyMup) | [Pimps of Joytime](https://open.spotify.com/artist/6NPWjCsZUtFRognZKJm5N4) | [Janxta Funk!](https://open.spotify.com/album/34kCttpURlBW94TNF7wyJV) | 4:16 | 2021-05-05 |  |
 | [Jax](https://open.spotify.com/track/39PRMLzu72Nz6lSOCF3bWN) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [The Optimist](https://open.spotify.com/album/0A8cq3cjiMMP8lI1SeG4GN) | 4:12 | 2021-05-05 |  |
-| [Jealous \(I Ain't With It\)](https://open.spotify.com/track/3R5FA1Ay1NxgtwbElR78by) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [White Women](https://open.spotify.com/album/1rqJZhedmCFNbaoTRQz9Zj) | 3:48 | 2021-05-05 |  |
+| [Jealous](https://open.spotify.com/track/0nixvV9CYUbjFozKKiQ8oa) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Electronic Summer](https://open.spotify.com/album/5rOOEA8GedOU74lP05LUdc) | 3:48 | 2021-05-05 |  |
+| [Jealous \(I Ain't With It\)](https://open.spotify.com/track/3R5FA1Ay1NxgtwbElR78by) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [White Women](https://open.spotify.com/album/1rqJZhedmCFNbaoTRQz9Zj) | 3:48 | 2021-05-05 | 2022-11-12 |
 | [Jock\-A\-Mo](https://open.spotify.com/track/4TA23Xjs6wutxgFRboldEH) | [Cha Wa](https://open.spotify.com/artist/18OO8F6DbNshxJbZ5ugprO) | [Funk 'n' Feathers](https://open.spotify.com/album/1TXeUohL04taqDBWJgLayN) | 3:46 | 2021-05-05 |  |
 | [Just Ain't Gonna Work Out](https://open.spotify.com/track/6Tdkn9doJ1eiWLH2njMN5X) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [A Strange Arrangement](https://open.spotify.com/album/0kI88dzVn3VuvjfNS2JElU) | 2:30 | 2022-03-07 |  |
 | [Lay Away](https://open.spotify.com/track/3f4CXO5zYSBDC1KE31rwZU) | [Nigel Hall](https://open.spotify.com/artist/04HwdlOSZ8Rnmp4D3vyjI2) | [Ladies & Gentlemen..\. Nigel Hall](https://open.spotify.com/album/0Hh14BVBAMbtgjOMAeC5Em) | 5:55 | 2021-05-05 |  |

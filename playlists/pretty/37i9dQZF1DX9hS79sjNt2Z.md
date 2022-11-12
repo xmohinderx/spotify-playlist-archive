@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9hS79sjNt2Z.md) - [plain]
 | 31 | [On the Third Day](https://open.spotify.com/track/2UJPE9y4UrhJMEoufssWOV) | [Nick & Becky Drake](https://open.spotify.com/artist/3jfLD5DtjrE6sk5cYpNhJQ) | [God Is Here](https://open.spotify.com/album/00MoSFw6UXISxCjwZby5TV) | 3:54 |
 | 32 | [I Believe](https://open.spotify.com/track/6SPnO1v4T3TraOc5lPacGs) | [Go Fish](https://open.spotify.com/artist/60oY0lmnOyCS2ElXAKCNrR) | [I Believe \(An Easter Curriculum\)](https://open.spotify.com/album/1XI67b6DN7yvPAscGjrjMr) | 3:06 |
 | 33 | [God Is so Good](https://open.spotify.com/track/4OzcdElOOHyJULyPcePFGn) | [The Wonder Kids](https://open.spotify.com/artist/7GkPZD0O1btf2e5dtRZyfI) | [Kids Sing Easter Songs](https://open.spotify.com/album/7k96z6PC4ViB8GvRKRhV5I) | 1:15 |
-| 34 | [The Best Thing About Easter \(Jesus is Alive!\)](https://open.spotify.com/track/2ywhjnLZRvIvzbYMByhuMq) | [Colin Buchanan](https://open.spotify.com/artist/10EDEcSwzdTCLhI3hTNG5T) | [Boss of the Cross](https://open.spotify.com/album/54GHJVVB77PyoJRAuazmfo) | 0:58 |
+| 34 | [The Best Thing About Easter \(Jesus Is Alive\)](https://open.spotify.com/track/27Z6U7PqbudhUMaXXQiigw) | [Colin Buchanan](https://open.spotify.com/artist/10EDEcSwzdTCLhI3hTNG5T) | [Colin's Crackers \(Favourites, Vol\. 2\)](https://open.spotify.com/album/3OV4asQNDfkw7wbBS3l21K) | 0:58 |
 | 35 | [Jelly Beans in My Tummy](https://open.spotify.com/track/2I8DxBSiYv8wyq89RfqrKY) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Kids Pop Songs for Easter](https://open.spotify.com/album/3710jZ7w18fCMjjwtleXDl) | 1:56 |
 | 36 | [Easter Bunny Song](https://open.spotify.com/track/0JPlozTo20nLGrjZXmL1BI) | [Super Siah](https://open.spotify.com/artist/36s30oXmxBFCjVoJLiOY9P) | [Easter Bunny Song](https://open.spotify.com/album/4kwLm89dxeSbzyaOczfgHm) | 2:21 |
 | 37 | [Jesus Christ Was Raised to Life](https://open.spotify.com/track/3ZU7LI3XOn8p17orSX1nZL) | [Colin Buchanan](https://open.spotify.com/artist/10EDEcSwzdTCLhI3hTNG5T) | [Boss of the Cross](https://open.spotify.com/album/54GHJVVB77PyoJRAuazmfo) | 2:14 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9hS79sjNt2Z.md) - [plain]
 | 100 | [Lead Me To The Cross](https://open.spotify.com/track/6OJZWfDfxubWxWYWhHI0Og) | [Kids Praise! Company](https://open.spotify.com/artist/13EBQsdgR822icqaSKAGwT) | [Good Good Father](https://open.spotify.com/album/79hijgvISuI86XQD7Q9By2) | 4:21 |
 | 101 | [Christ Is Risen, He Is Risen Indeed](https://open.spotify.com/track/5Fcqe3AVjIf8OBeCZswCOZ) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx) | [Getty Kids Hymnal \- In Christ Alone](https://open.spotify.com/album/7yiENPxEnhGvOLisic94jw) | 4:10 |
 
-Snapshot ID: `MTYxNzk3OTE3OCwwMDAwMDAwMDAwOGI0ZTQ4ZGY2NzU0YTc3YjU3YTVlNjNlMzEwMGE5`
+Snapshot ID: `MTYxNzk3OTE3OCwwMDAwMDAwMGZiMGVlMTNiNWE4ZTcwNjFiYzNjMTQ1NWUzMjk4Zjdh`

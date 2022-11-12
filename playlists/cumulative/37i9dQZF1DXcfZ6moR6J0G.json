@@ -505,7 +505,7 @@
       ],
       "date_added": "2022-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-02",
+      "date_removed": null,
       "duration_ms": 254906,
       "name": "Can't Get the Best of Me",
       "url": "https://open.spotify.com/track/4cmfwCjNRd7kOGlyM36pMw"
@@ -541,7 +541,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 239066,
       "name": "Charlotte",
       "url": "https://open.spotify.com/track/76g4Ybt7SW4PvloFDIzsSX"
@@ -991,7 +991,7 @@
       ],
       "date_added": "2022-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 206200,
       "name": "For You",
       "url": "https://open.spotify.com/track/464HG7mt7NNKtKY0Hco8Y8"
@@ -1137,7 +1137,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 176600,
       "name": "Get Up Again",
       "url": "https://open.spotify.com/track/7jClgHzR5JG69gar7rVMoX"
@@ -1501,6 +1501,24 @@
       "duration_ms": 241066,
       "name": "Just Got Wicked",
       "url": "https://open.spotify.com/track/20QoUUjUE4MW8eWCSeUGhX"
+    },
+    {
+      "album": {
+        "name": "The War Of Art",
+        "url": "https://open.spotify.com/album/5dBhZn63iuwNTQ9JnDktsl"
+      },
+      "artists": [
+        {
+          "name": "American Head Charge",
+          "url": "https://open.spotify.com/artist/6Ig4qybKXgMN2FLSM7GKau"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331600,
+      "name": "Just So You Know",
+      "url": "https://open.spotify.com/track/07TwX5DB1dq9tJ1L7z77qb"
     },
     {
       "album": {
@@ -1875,7 +1893,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 185586,
       "name": "Numb",
       "url": "https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h"
@@ -2037,7 +2055,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 192213,
       "name": "Pitiful",
       "url": "https://open.spotify.com/track/1TTOAw90zzNWKnUgzzcvZW"
@@ -2059,6 +2077,24 @@
       "duration_ms": 189200,
       "name": "Poem",
       "url": "https://open.spotify.com/track/7mQwxVogsnpR3h6AJLQLlR"
+    },
+    {
+      "album": {
+        "name": "Animosity",
+        "url": "https://open.spotify.com/album/6csmoeDVSefHvffDtIgCw1"
+      },
+      "artists": [
+        {
+          "name": "Sevendust",
+          "url": "https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218933,
+      "name": "Praise",
+      "url": "https://open.spotify.com/track/3fXY1GLVF8QmzbTfNTTaFr"
     },
     {
       "album": {
@@ -2275,7 +2311,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 201933,
       "name": "Snot",
       "url": "https://open.spotify.com/track/3qCQNtggJw1gxoptMgDhyR"
@@ -2293,7 +2329,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-02",
+      "date_removed": null,
       "duration_ms": 213933,
       "name": "Somewhere I Belong",
       "url": "https://open.spotify.com/track/3agtg0x11wPvLIWkYR39nZ"
@@ -2491,7 +2527,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 193813,
       "name": "Sun Doesn't Rise",
       "url": "https://open.spotify.com/track/24CeaRaJHiMKFAVZTCu8Y0"
@@ -2765,7 +2801,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 177960,
       "name": "When Worlds Collide",
       "url": "https://open.spotify.com/track/6aF5JtQSrh7wNrkDE9B0My"

@@ -4,7 +4,7 @@
 
 > The essential pop rock songs from the 1990s\. Cover: Third Eye Blind.
 
-152 songs - 9 hr 58 min - [published](https://open.spotify.com/playlist/4bJoP5jiq5y1WJ4iA49HhX)
+153 songs - 10 hr 2 min - [published](https://open.spotify.com/playlist/4bJoP5jiq5y1WJ4iA49HhX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,7 @@
 | [One](https://open.spotify.com/track/3G69vJMWsX6ZohTykad2AU) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Achtung Baby \(Deluxe Edition\)](https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe) | 4:36 | 2021-12-21 |  |
 | [One Headlight](https://open.spotify.com/track/0z1b34WikhOH9ZxU8QDWcv) | [The Wallflowers](https://open.spotify.com/artist/0jJNGWrpjGIHUdTTJiIYeB) | [Bringing Down The Horse](https://open.spotify.com/album/2BOlaNQt6WJ1HO5pQcKHGh) | 5:12 | 2021-12-21 |  |
 | [One Week](https://open.spotify.com/track/1C0pmryC2MdXfa7MZ9uIrU) | [Barenaked Ladies](https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79) | [Stunt](https://open.spotify.com/album/4FsibLgkGMV9AfbLtEqvxT) | 2:49 | 2021-12-21 | 2022-07-29 |
-| [One Week](https://open.spotify.com/track/29hBRadFZf9QTGRHZmxm65) | [Barenaked Ladies](https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79) | [Stunt \(20th Anniversary Edition\)](https://open.spotify.com/album/0DuFDnZcj7B4R0Jik1aDmY) | 2:49 | 2021-12-21 |  |
+| [One Week](https://open.spotify.com/track/29hBRadFZf9QTGRHZmxm65) | [Barenaked Ladies](https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79) | [Stunt \(20th Anniversary Edition\)](https://open.spotify.com/album/0DuFDnZcj7B4R0Jik1aDmY) | 2:49 | 2021-12-21 | 2022-11-12 |
 | [Only Happy When It Rains](https://open.spotify.com/track/1IsGA5ceSC4a5nxgAEYnQd) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Garbage \(20th Anniversary Deluxe Edition/Remastered\)](https://open.spotify.com/album/1Vze7jtjAVQOdIIQ8oO2X7) | 3:56 | 2021-12-21 | 2022-11-10 |
 | [Only Happy When It Rains \- 2015 \- Remaster](https://open.spotify.com/track/6p6Xq0t9XGkVg04cXWdx8v) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Garbage \(20th Anniversary Super Deluxe Edition\)](https://open.spotify.com/album/1zMVQsor2FNTEMdEhsQ48S) | 3:56 | 2021-12-21 | 2022-07-29 |
 | [Parklife \- 2012 Remaster](https://open.spotify.com/track/7FSzJQV6thyoQptFCUTV9c) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Parklife \(Special Edition\)](https://open.spotify.com/album/0DBkFC6739trhCoVreZyds) | 3:05 | 2022-03-23 |  |
@@ -155,6 +155,7 @@
 | [Who's Gonna Ride Your Wild Horses](https://open.spotify.com/track/6pr4l76PYIgtp6xsvyfSqN) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Achtung Baby](https://open.spotify.com/album/1U69hFsxaQxP6fquZmOmNH) | 5:16 | 2021-12-21 | 2022-07-29 |
 | [Wild World \- 2009 Remastered Version](https://open.spotify.com/track/2kj5f1eRhUFhW6K0qUwoD8) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Bump Ahead \[Expanded\]](https://open.spotify.com/album/4CgsfLFMXaJVXz0k2mHkVA) | 3:28 | 2021-12-21 |  |
 | [Wildflowers](https://open.spotify.com/track/2Pr1nZpt8A8WP7QYpyq6L3) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Wildflowers](https://open.spotify.com/album/3ZGUBwDiY5HPOcWv4SBPQg) | 3:10 | 2021-12-21 |  |
+| [Wonderwall](https://open.spotify.com/track/7dPd3dx4ipBe10xKuhj9eY) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Wonderwall](https://open.spotify.com/album/3ezI4EtsobNEhV0WSEsCGn) | 4:18 | 2021-12-21 |  |
 | [Wonderwall \- Remastered](https://open.spotify.com/track/5wj4E6IsrVtn8IBJQOd0Cl) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \(Deluxe Edition\) \[Remastered\]](https://open.spotify.com/album/6ozp33PI3p9AdddB6ZL3xQ) | 4:18 | 2021-12-21 | 2022-07-29 |
 | [Wonderwall \- Remastered](https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \(Deluxe Remastered Edition\)](https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4) | 4:18 | 2021-12-21 | 2022-11-11 |
 | [You Don't Know How It Feels](https://open.spotify.com/track/7MooGz4ZPE4bNxjFegR6Jx) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Wildflowers](https://open.spotify.com/album/3ZGUBwDiY5HPOcWv4SBPQg) | 4:49 | 2021-12-21 | 2022-03-24 |

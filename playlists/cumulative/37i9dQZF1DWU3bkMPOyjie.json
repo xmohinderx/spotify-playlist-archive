@@ -1760,6 +1760,24 @@
     },
     {
       "album": {
+        "name": "The Chamber",
+        "url": "https://open.spotify.com/album/3BByGBLgfp0HvEwe5D5ioD"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "date_added": "2022-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297301,
+      "name": "The Chamber",
+      "url": "https://open.spotify.com/track/0FYormddinnSVh1MRnQbOS"
+    },
+    {
+      "album": {
         "name": "Strut",
         "url": "https://open.spotify.com/album/6ksKEEJaGLjotvGEyWaVNH"
       },
@@ -1771,7 +1789,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 297301,
       "name": "The Chamber",
       "url": "https://open.spotify.com/track/3qvFtKlZ9MV0VYUeZ3EC2A"

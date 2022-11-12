@@ -91,7 +91,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 188824,
       "name": "Adeline",
       "url": "https://open.spotify.com/track/0zGT1LYrHksqJkupsazmKb"
@@ -1413,6 +1413,24 @@
     {
       "album": {
         "name": "I Can't Slow Her Down (Edit)",
+        "url": "https://open.spotify.com/album/3PZDrjbgR0eVSkkA35HUxZ"
+      },
+      "artists": [
+        {
+          "name": "L.A. Salami",
+          "url": "https://open.spotify.com/artist/23HG5wQ67P2pMksEMTbkur"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213585,
+      "name": "I Can't Slow Her Down - Edit",
+      "url": "https://open.spotify.com/track/0WPcX3Q2MXyoGM56qiLjYX"
+    },
+    {
+      "album": {
+        "name": "I Can't Slow Her Down (Edit)",
         "url": "https://open.spotify.com/album/6Ad5Z2MZ9Twe0z4zy2O5oY"
       },
       "artists": [
@@ -2051,7 +2069,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 194320,
       "name": "Mind on Fire",
       "url": "https://open.spotify.com/track/4LEdX9NFK0tVB5anrAIi1q"
@@ -2967,7 +2985,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 212152,
       "name": "September Song - Guitar Acoustic",
       "url": "https://open.spotify.com/track/7bMkcxifc4EjIQKw49EC7h"

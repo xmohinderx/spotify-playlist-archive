@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 166826,
       "name": "(Sittin' On) the Dock of the Bay",
       "url": "https://open.spotify.com/track/3XWiy9JEQ4iyqCzIqqdQu3"
@@ -127,7 +127,7 @@
       ],
       "date_added": "2021-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 278040,
       "name": "After the Love Has Gone",
       "url": "https://open.spotify.com/track/3cfnGXJ9bmiWvFqEO6ff8B"
@@ -149,7 +149,7 @@
       ],
       "date_added": "2021-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 151666,
       "name": "Ain't No Mountain High Enough",
       "url": "https://open.spotify.com/track/7tqhbajSfrz2F7E1Z75ASX"
@@ -387,7 +387,7 @@
       ],
       "date_added": "2021-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 148040,
       "name": "Bitter With The Sweet",
       "url": "https://open.spotify.com/track/6bMrfP9V5s5fgL3Z02tcES"
@@ -502,6 +502,24 @@
     },
     {
       "album": {
+        "name": "Hot Tub Smooth Sounds",
+        "url": "https://open.spotify.com/album/6wmux9b2RmC5LzpN9a8wA6"
+      },
+      "artists": [
+        {
+          "name": "Anita Baker",
+          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
+        }
+      ],
+      "date_added": "2021-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248600,
+      "name": "Caught Up In the Rapture - Single Version",
+      "url": "https://open.spotify.com/track/3rkDgf97gFGDEmFUrALomV"
+    },
+    {
+      "album": {
         "name": "Collected",
         "url": "https://open.spotify.com/album/2vBpHUDhVTInqSLxkw9Kx2"
       },
@@ -571,7 +589,7 @@
       ],
       "date_added": "2021-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 242213,
       "name": "Don't Look Any Further",
       "url": "https://open.spotify.com/track/3GiSgsFwPp8zY7yTGsRlyR"
@@ -611,7 +629,7 @@
       ],
       "date_added": "2021-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 256426,
       "name": "Easy",
       "url": "https://open.spotify.com/track/1JQ6Xm1JrvHfvAqhl5pwaA"
@@ -737,7 +755,7 @@
       ],
       "date_added": "2021-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 255173,
       "name": "Float On - Single Version",
       "url": "https://open.spotify.com/track/4kxDa9niTJIyh89afKjpCR"
@@ -955,7 +973,7 @@
       ],
       "date_added": "2021-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 194293,
       "name": "I Heard It Through The Grapevine",
       "url": "https://open.spotify.com/track/1tqT6DhmsrtQgyCKUwotiw"
@@ -977,6 +995,24 @@
       "duration_ms": 195480,
       "name": "I Heard It Through The Grapevine",
       "url": "https://open.spotify.com/track/6ZqUFyK79l2TYgTfuUmbLB"
+    },
+    {
+      "album": {
+        "name": "Every Great Motown Hit Of Marvin Gaye",
+        "url": "https://open.spotify.com/album/4JdEAA9aYadM2pZ96VHKNL"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "date_added": "2021-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196706,
+      "name": "I Heard It Through The Grapevine",
+      "url": "https://open.spotify.com/track/37j56IWzpplKE5zrlQRmxc"
     },
     {
       "album": {
@@ -1143,6 +1179,24 @@
     {
       "album": {
         "name": "Rit, Vol. 1",
+        "url": "https://open.spotify.com/album/4La5Rv7uDtnbsgVQxGdwMR"
+      },
+      "artists": [
+        {
+          "name": "Lee Ritenour",
+          "url": "https://open.spotify.com/artist/1nDqTUspmq8IXhcEZT93iq"
+        }
+      ],
+      "date_added": "2021-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269653,
+      "name": "Is It You",
+      "url": "https://open.spotify.com/track/5eWTNSMTX5BxuYYuOU4vYq"
+    },
+    {
+      "album": {
+        "name": "Rit, Vol. 1",
         "url": "https://open.spotify.com/album/3hgmTpqejQh4TDm9HNRxK1"
       },
       "artists": [
@@ -1189,7 +1243,7 @@
       ],
       "date_added": "2021-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 190058,
       "name": "It's A Shame",
       "url": "https://open.spotify.com/track/1l1YTy9nJ0trwhsCGcimly"
@@ -1362,6 +1416,24 @@
     },
     {
       "album": {
+        "name": "Lean on Me: The Best of Bill Withers",
+        "url": "https://open.spotify.com/album/0XmgSYx9bj4sqpcXVgKs2C"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "date_added": "2021-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257532,
+      "name": "Lean on Me",
+      "url": "https://open.spotify.com/track/5zCJvrT3C7cIfHsR5iG95l"
+    },
+    {
+      "album": {
         "name": "Still Bill",
         "url": "https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v"
       },
@@ -1373,7 +1445,7 @@
       ],
       "date_added": "2021-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 258834,
       "name": "Lean on Me",
       "url": "https://open.spotify.com/track/3M8FzayQWtkvOhqMn2V4T2"
@@ -1539,7 +1611,7 @@
       ],
       "date_added": "2021-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 299120,
       "name": "Love T.K.O.",
       "url": "https://open.spotify.com/track/3IVaPHncIZWWNjfg29HVLq"
@@ -1809,7 +1881,7 @@
       ],
       "date_added": "2021-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 165000,
       "name": "My Girl",
       "url": "https://open.spotify.com/track/745H5CctFr12Mo7cqa1BMH"
@@ -1867,6 +1939,24 @@
       "duration_ms": 327933,
       "name": "Never Knew Love Like This Before",
       "url": "https://open.spotify.com/track/6pYOR2eGyQRkEawi8B5L04"
+    },
+    {
+      "album": {
+        "name": "Groove On, Vol. 1",
+        "url": "https://open.spotify.com/album/3XITzC6hfZyl7U2C4ngxWa"
+      },
+      "artists": [
+        {
+          "name": "Stephanie Mills",
+          "url": "https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g"
+        }
+      ],
+      "date_added": "2021-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328266,
+      "name": "Never Knew Love Like This Before (Extended Mix)",
+      "url": "https://open.spotify.com/track/1Urr1PLp5Cy0ylztRSJvdB"
     },
     {
       "album": {
@@ -2047,7 +2137,7 @@
       ],
       "date_added": "2021-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 290840,
       "name": "On My Own",
       "url": "https://open.spotify.com/track/5HrVgmO1govSOrPUehW1VV"
@@ -2123,6 +2213,24 @@
       "duration_ms": 259666,
       "name": "Rhythm Of Life",
       "url": "https://open.spotify.com/track/3jOwA8XZplvTVsV0SdLWhc"
+    },
+    {
+      "album": {
+        "name": "Changes (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0hpXGYRKh9jmWz5ueqKaqh"
+      },
+      "artists": [
+        {
+          "name": "Keni Burke",
+          "url": "https://open.spotify.com/artist/1EVOoMiMrmOEYXHd36poF2"
+        }
+      ],
+      "date_added": "2021-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314320,
+      "name": "Risin' to the Top",
+      "url": "https://open.spotify.com/track/5iVxHPyHVO7vWSDnRpNH5d"
     },
     {
       "album": {
@@ -2267,10 +2375,28 @@
       ],
       "date_added": "2021-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 161160,
       "name": "Signed, Sealed, Delivered (I'm Yours)",
       "url": "https://open.spotify.com/track/2eF8pWbiivYsYRpbntYsnc"
+    },
+    {
+      "album": {
+        "name": "Some Type of Love",
+        "url": "https://open.spotify.com/album/5t4A7Loq1pKRFlkBOs1O2O"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "date_added": "2021-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185608,
+      "name": "Some Type of Love",
+      "url": "https://open.spotify.com/track/2nI6aT3cnPFoXQ1L705wcY"
     },
     {
       "album": {
@@ -2364,6 +2490,24 @@
     },
     {
       "album": {
+        "name": "Supernatural Thing",
+        "url": "https://open.spotify.com/album/69MJXfjEtAf2xpyNe4KIfD"
+      },
+      "artists": [
+        {
+          "name": "Ben E. King",
+          "url": "https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3"
+        }
+      ],
+      "date_added": "2021-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251560,
+      "name": "Supernatural Thing, Pt. 1",
+      "url": "https://open.spotify.com/track/62dhSmROhppvuWyeCeC730"
+    },
+    {
+      "album": {
         "name": "The Clarke/Duke Project",
         "url": "https://open.spotify.com/album/0epO2c4fFaUPdcIdqIAtOI"
       },
@@ -2397,7 +2541,7 @@
       ],
       "date_added": "2021-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 262266,
       "name": "Sweet Love",
       "url": "https://open.spotify.com/track/4xVXe1VS5zlQyECVk6GRrL"
@@ -2560,6 +2704,32 @@
     },
     {
       "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/5SEQL40XcXX1FUHtiqa8PG"
+      },
+      "artists": [
+        {
+          "name": "Free Nationals",
+          "url": "https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj"
+        },
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "date_added": "2021-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210279,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/05v5mPkLAOoa7M5tnXXOwq"
+    },
+    {
+      "album": {
         "name": "Gets Next to You",
         "url": "https://open.spotify.com/album/6A2T77SSF5TUglshWSQAiC"
       },
@@ -2643,7 +2813,7 @@
       ],
       "date_added": "2021-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 246757,
       "name": "Video",
       "url": "https://open.spotify.com/track/3H5pp4f0rvJ72AB7UHswY8"
@@ -2874,6 +3044,28 @@
     },
     {
       "album": {
+        "name": "It's Your Night",
+        "url": "https://open.spotify.com/album/28XSg8Y5N9pwKrSrMiwmbs"
+      },
+      "artists": [
+        {
+          "name": "James Ingram",
+          "url": "https://open.spotify.com/artist/5bTTx0CRvZj1kRJwUsWWYo"
+        },
+        {
+          "name": "Michael McDonald",
+          "url": "https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy"
+        }
+      ],
+      "date_added": "2021-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279413,
+      "name": "Yah Mo B There",
+      "url": "https://open.spotify.com/track/5edioRF5SIeNzZafgd1Py1"
+    },
+    {
+      "album": {
         "name": "Rock Me Tonight",
         "url": "https://open.spotify.com/album/4S3z4G29Gm2xxkADtVX5IV"
       },
@@ -2928,6 +3120,24 @@
     },
     {
       "album": {
+        "name": "Rock On",
+        "url": "https://open.spotify.com/album/5ORcHUdS6M1dH8s6IIfHtO"
+      },
+      "artists": [
+        {
+          "name": "Raydio",
+          "url": "https://open.spotify.com/artist/1VQ7baxc9Okx2YuRnpKMMR"
+        }
+      ],
+      "date_added": "2021-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203080,
+      "name": "You Can't Change That",
+      "url": "https://open.spotify.com/track/5vIvHVCP0n6EXTMH0fOpAp"
+    },
+    {
+      "album": {
         "name": "Rockin' Roll Baby",
         "url": "https://open.spotify.com/album/0b1uWSG9X6poSc9SLTYEfz"
       },
@@ -2957,7 +3167,7 @@
       ],
       "date_added": "2021-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 162466,
       "name": "You Send Me",
       "url": "https://open.spotify.com/track/5aivQ5CkXXHJoMLy0o92HL"

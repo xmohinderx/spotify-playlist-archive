@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVVia6qTpojp.md) - [plain]
 
 > The sound of worship in the U.K\. and Europe\. Cover: Luke + Anna Hellebronth
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,590 likes - 60 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,605 likes - 60 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVVia6qTpojp.md) - [plain]
 | 2 | [Counting Every Blessing](https://open.spotify.com/track/2SRk4jVwh5t51JAmiWFCZK) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Happy Mothers Day](https://open.spotify.com/album/0HzA266ajlk8r9EwqYUe1D) | 5:02 |
 | 3 | [Alive \(Breathe On Me\) \- Live](https://open.spotify.com/track/73BDlgL6zIz7zUaMmSV4C7) | [ICF Worship](https://open.spotify.com/artist/0uw5aNQFG4WgdsqkElEHrW) | [Only Jesus \(Live\)](https://open.spotify.com/album/2dUvm3MOU8vX1pg4Y7SotK) | 3:29 |
 | 4 | [Perfect Father](https://open.spotify.com/track/5nrxd3RYpoMfECStDyxk18) | [Josh Gauton](https://open.spotify.com/artist/4PLDTXCudiHDay44OSM79M) | [Perfect Father](https://open.spotify.com/album/772m7JkdTvKHLEeGesX44U) | 5:24 |
-| 5 | [Spirit Fall \- Live](https://open.spotify.com/track/0BrMRDuSxaxcXmnK6Bsb8E) | [New Wine Worship](https://open.spotify.com/artist/2G5uXRzRvQILLfvQCsnSUV), [Susie Woodbridge](https://open.spotify.com/artist/7LWsLUT26iv49pBXRBnc4v) | [Spirit Fall \(Live\)](https://open.spotify.com/album/61pd8daetmghBrcQQWt8EF) | 4:36 |
+| 5 | [Spirit Fall \- Live](https://open.spotify.com/track/4soGniHIBzVWvgDjg8eask) | [New Wine Worship](https://open.spotify.com/artist/2G5uXRzRvQILLfvQCsnSUV), [Susie Woodbridge](https://open.spotify.com/artist/7LWsLUT26iv49pBXRBnc4v) | [Simply Worship](https://open.spotify.com/album/3tTXAa3g7P8iA5fphqeHpW) | 4:37 |
 | 6 | [Rock of Our Salvation](https://open.spotify.com/track/0xIWuowu94DVPnePfM04uX) | [Bright City](https://open.spotify.com/artist/5hYRBkg6k7yq787YZedMaR) | [Hello Maker](https://open.spotify.com/album/22pKUdahZtdO78K72hNK1j) | 5:00 |
 | 7 | [Who You Say I Am \- Live](https://open.spotify.com/track/2dRF8tFKTM4aIr4wFJF3B0) | [Soul Survivor](https://open.spotify.com/artist/3jTzI8EpjES1TRYhWs34nm), [Beth Croft](https://open.spotify.com/artist/4jrrZymKmM0WolEJAqcMJP) | [Standing on the Edge \(Live\)](https://open.spotify.com/album/7CgRdhWMIwdE5fiqNmSdGl) | 4:49 |
 | 8 | [Great Is Your Faithfulness \- Live](https://open.spotify.com/track/2j0XyBffFLVdzjoCA14hrI) | [LIFE Worship](https://open.spotify.com/artist/1ORYkhkN6flHlDSkWVsk4d), [Matt Hooper](https://open.spotify.com/artist/0SnNtSCuDx1RcvwMCau4vC), [Eby Corydon](https://open.spotify.com/artist/6EJe5fsw9zmyuJfYjCCezm) | [Great Is Your Faithfulness \(Live\)](https://open.spotify.com/album/0kZStc0KPbqHe12QmOtRY0) | 4:43 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVVia6qTpojp.md) - [plain]
 | 59 | [Fix MY Eyes On You](https://open.spotify.com/track/5Gvsgw6zvvcK73L8mrN9NY) | [InSalvation](https://open.spotify.com/artist/254N4bAbejA5vO4sJGAUdX) | [NEON](https://open.spotify.com/album/1OahG76uAlkwkaKR4OmxK4) | 5:57 |
 | 60 | [Simple Pursuit](https://open.spotify.com/track/7mrbfKEIvwf8rWXBxEtp89) | [Ben Cantelon](https://open.spotify.com/artist/0hG95VUGURuOHoxgts6Br3) | [The Ascent, Vol\. 1](https://open.spotify.com/album/2GvamlBYznzImkPF1ue7E2) | 5:18 |
 
-Snapshot ID: `MTU0MzMzNDc0OCwwMDAwMDAwMDljNzRmY2IxNGY3N2YzM2UxOWNkNmVkM2YwYTZmNDlk`
+Snapshot ID: `MTU0MzMzNDc0OCwwMDAwMDAwMDIzMjMyZjg3OGJmY2M3ODg1MGI3Y2VlZTJjMjg4NTNh`

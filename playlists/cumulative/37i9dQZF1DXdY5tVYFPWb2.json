@@ -6496,6 +6496,24 @@
     },
     {
       "album": {
+        "name": "\u8e0a\u3089\u305b\u306a\u3044\u3067",
+        "url": "https://open.spotify.com/album/6mfqe5tdipErZXpXjrT3d8"
+      },
+      "artists": [
+        {
+          "name": "eill",
+          "url": "https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227161,
+      "name": "\u8e0a\u3089\u305b\u306a\u3044\u3067",
+      "url": "https://open.spotify.com/track/6XrXyoj9fakX503nc6jePb"
+    },
+    {
+      "album": {
         "name": "LOVE/LIKE/HATE",
         "url": "https://open.spotify.com/album/6S8ZfCFqAdu3qHdCldwM3M"
       },
@@ -6507,7 +6525,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 227161,
       "name": "\u8e0a\u3089\u305b\u306a\u3044\u3067",
       "url": "https://open.spotify.com/track/7vK2DtxftUf2iQgVF0Qnzg"

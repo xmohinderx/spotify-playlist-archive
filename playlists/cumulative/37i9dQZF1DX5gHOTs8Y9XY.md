@@ -4,7 +4,7 @@
 
 > A beginners introduction to the beauty of Jazz\. Cover: Chet Baker
 
-134 songs - 9 hr 49 min - [published](https://open.spotify.com/playlist/6turhzq7wb2AQ4gmSzxhcu)
+135 songs - 9 hr 52 min - [published](https://open.spotify.com/playlist/6turhzq7wb2AQ4gmSzxhcu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Fever](https://open.spotify.com/track/6eCsRg7OBi1zT2CEKKyoXN) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Great Ladies Of Song / Spotlight On Peggy Lee](https://open.spotify.com/album/0MX57ntrC0wpRZpTOXhWEF) | 3:22 | 2022-01-20 |  |
 | [Fly Me To The Moon](https://open.spotify.com/track/7ilc2TB1RZXbQJyFs5qCiC) | [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF) | [The Shadow Of Your Smile](https://open.spotify.com/album/37xKx9ymHBSgYX02zZhwb9) | 2:22 | 2022-01-20 |  |
 | [Fly Me To The Moon](https://open.spotify.com/track/2dR5WkrpwylTuT3jRWNufa) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [Ultimate Sinatra](https://open.spotify.com/album/7gmak9ZGm10y4PtZa9SBQn) | 2:27 | 2022-01-20 |  |
-| [Four Brothers](https://open.spotify.com/track/4eduZPo0PdAhlWRLEiOlSb) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB), [Marty Paich & His Orchestra](https://open.spotify.com/artist/59w6POLuDPBBzkjKLG1SC2) | [Sings The Winners](https://open.spotify.com/album/5EC5UZWQEWFyKy2Kq4ibWB) | 2:27 | 2022-01-20 |  |
+| [Four Brothers](https://open.spotify.com/track/4eduZPo0PdAhlWRLEiOlSb) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB), [Marty Paich & His Orchestra](https://open.spotify.com/artist/59w6POLuDPBBzkjKLG1SC2) | [Sings The Winners](https://open.spotify.com/album/5EC5UZWQEWFyKy2Kq4ibWB) | 2:27 | 2022-01-20 | 2022-11-12 |
 | [Freddie Freeloader \(feat\. John Coltrane, Cannonball Adderley, Wynton Kelly & Paul Chambers\)](https://open.spotify.com/track/3NvYPUNu6nwQgN31UnoDbn) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA), [Wynton Kelly](https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0), [Paul Chambers](https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG) | [Kind Of Blue](https://open.spotify.com/album/1weenld61qoidwYuZ1GESA) | 9:46 | 2022-01-20 |  |
 | [Georgia On My Mind](https://open.spotify.com/track/3rvHtMwpZxmVtT1HB4zvvb) | [Teresa Brewer](https://open.spotify.com/artist/2mPL4g4v9DS55zi6QctLbP) | [Teresa Brewer And The Dixieland Band](https://open.spotify.com/album/3Co57v8XnblqHeFA8saGla) | 3:45 | 2022-01-20 |  |
 | [Have You Met Miss Jones?](https://open.spotify.com/track/2X5idL5vlUv99KEZVc1d4i) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Oscar Peterson: Hits & Rarities](https://open.spotify.com/album/1STwUIMVbwDRey6aEYvXec) | 4:10 | 2022-10-05 | 2022-11-11 |
@@ -138,6 +138,7 @@
 | [Watermelon Man \- Remastered](https://open.spotify.com/track/38xcUjiTP1ivfb7ObwjyGA) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Takin' Off \(Expanded Edition\)](https://open.spotify.com/album/61bXefFZqGbVkmb7qzIIOl) | 7:09 | 2022-01-20 |  |
 | [What A Diff'rence A Day Made](https://open.spotify.com/track/66iKqUazBbTlAEjcZrpDkD) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [What A Diff'rence A Day Makes! \(Expanded Edition\)](https://open.spotify.com/album/0w8YD8Wz1hEkwXdsAMzzFe) | 2:31 | 2022-01-20 |  |
 | [What A Wonderful World](https://open.spotify.com/track/1qCQTy0fTXerET4x8VHyr9) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [What A Wonderful World](https://open.spotify.com/album/19UoBHanqMth4tk0rFw5RJ) | 2:17 | 2022-01-20 | 2022-07-29 |
+| [What A Wonderful World](https://open.spotify.com/track/6qijYphfXANswOiReTbTm6) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Chill Jazz Hits](https://open.spotify.com/album/2E2May9swmlrRnKNBi3YLJ) | 2:17 | 2022-11-09 |  |
 | [What A Wonderful World](https://open.spotify.com/track/29U7stRjqHU6rMiS8BfaI9) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [What A Wonderful World](https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv) | 2:19 | 2022-06-22 | 2022-11-11 |
 | [You Go To My Head \- 2020 Mix](https://open.spotify.com/track/7KsJkshpIjjeIwyKnkhQUc) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Nice 'n' Easy \(2020 Mix\)](https://open.spotify.com/album/5myvnvNMM6RaI2as8s0KpW) | 4:26 | 2022-01-20 |  |
 | [You'd Be So Nice To Come Home To](https://open.spotify.com/track/5eJ90rBnkUv7PqxgTExfvd) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0), [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [Coleman Hawkins Encounters Ben Webster \(Expanded Edition\)](https://open.spotify.com/album/5AmT3edRjRxnDR2ZVW3QJZ) | 4:15 | 2022-08-17 |  |

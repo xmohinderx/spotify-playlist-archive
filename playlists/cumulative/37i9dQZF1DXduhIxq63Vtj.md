@@ -4,7 +4,7 @@
 
 > ¡Achis achis los mariachis!
 
-52 songs - 2 hr 46 min - [published](https://open.spotify.com/playlist/14mIEZGisMRWpXff2RgtSX)
+53 songs - 2 hr 49 min - [published](https://open.spotify.com/playlist/14mIEZGisMRWpXff2RgtSX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Torito Serrano](https://open.spotify.com/track/4BFHo7sWvDEoPErm3aVS9C) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Joan Sebastian Con El Mariachi Vargas](https://open.spotify.com/album/4Cg0XRlaFZkco0rQRP7zGX) | 2:55 | 2022-01-26 |  |
 | [Ya Vas Carnal](https://open.spotify.com/track/3gJO6TqU3wqgrKTy49kVk8) | [Gerardo Reyes](https://open.spotify.com/artist/2HdTW6TLACOcKKsUaRdP0e) | [Serie De Colecc\. 15 Auténticos Exitos](https://open.spotify.com/album/2NBlTAiYb311082CIMKqjU) | 2:50 | 2022-01-26 |  |
 | [Yo No Fui](https://open.spotify.com/track/0SygIagLM5nPX3qWvh53UY) | [Pedro Fernández](https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh) | [Yo No Fui](https://open.spotify.com/album/7gXeZSbYYmSsWvbe8rxcPu) | 4:52 | 2022-01-26 |  |
-| [Yo...El Aventurero](https://open.spotify.com/track/5k4oS18NesIeSpnZEDnh6p) | [Pedro Fernández](https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh) | [La Más Completa Colección](https://open.spotify.com/album/3Jtuf52P0Xo8JaE7oCMAdA) | 2:59 | 2022-01-26 |  |
+| [Yo Soy El Aventurero](https://open.spotify.com/track/03dFbJTkFEqJXotllXzfaf) | [Pedro Fernández](https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh) | [Corazones Mexicanos Vol\. 1](https://open.spotify.com/album/2Zl2Vugjf6EblGmT78CpUk) | 2:58 | 2022-01-26 |  |
+| [Yo...El Aventurero](https://open.spotify.com/track/5k4oS18NesIeSpnZEDnh6p) | [Pedro Fernández](https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh) | [La Más Completa Colección](https://open.spotify.com/album/3Jtuf52P0Xo8JaE7oCMAdA) | 2:59 | 2022-01-26 | 2022-11-12 |
 
 \*This playlist was first scraped on 2022-09-07. Prior content cannot be recovered.

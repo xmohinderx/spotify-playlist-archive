@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXab8DipvnuNU.md) - [plain]
 
 > Essential tunes for time with the family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 367,084 likes - 57 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 367,113 likes - 57 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXab8DipvnuNU.md) - [plain]
 | 29 | [Flash Light](https://open.spotify.com/track/1v1PV2wERHiMPesMWX0qmO) | [Parliament](https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH) | [Funkentelechy Vs\. The Placebo Syndrome](https://open.spotify.com/album/7Kv0H0XMdIyRs41a6USzrd) | 5:46 |
 | 30 | [Luchini AKA This Is It](https://open.spotify.com/track/20DcrlNK0NcRknbX4wcEO4) | [Camp Lo](https://open.spotify.com/artist/4oLZx5FplbgfM8DEe9U8LB) | [Uptown Saturday Night](https://open.spotify.com/album/21EglTSwzUorpiXpMBNW2E) | 4:00 |
 | 31 | [Risin' to the Top](https://open.spotify.com/track/5iVxHPyHVO7vWSDnRpNH5d) | [Keni Burke](https://open.spotify.com/artist/1EVOoMiMrmOEYXHd36poF2) | [Changes \(Expanded Edition\)](https://open.spotify.com/album/0hpXGYRKh9jmWz5ueqKaqh) | 5:14 |
-| 32 | [Square Biz](https://open.spotify.com/track/52bz3fOCyr6GgkJQsLK9PM) | [Teena Marie](https://open.spotify.com/artist/61UT1Zj9dFgPAjZfwnsqsb) | [Best Of/20th Century](https://open.spotify.com/album/0kCD8uT94URPZcr2vZOhW7) | 6:23 |
+| 32 | [Square Biz](https://open.spotify.com/track/3k168scjk05AuB67bGXkJg) | [Teena Marie](https://open.spotify.com/artist/61UT1Zj9dFgPAjZfwnsqsb) | [Motown Queens](https://open.spotify.com/album/0g4hcfMoBKXPmMvNCHtlTC) | 6:27 |
 | 33 | [I Wanna Be Where You Are](https://open.spotify.com/track/3mnVgyzn5HC7Sqkn3B5zHs) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Got To Be There](https://open.spotify.com/album/0F4XW0iBOhNFkbn1BuQ8cu) | 3:02 |
 | 34 | [It Was A Good Day](https://open.spotify.com/track/4tjOQGfqbfMLJLOis3clFb) | [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [Hip Hop 90s](https://open.spotify.com/album/20vWM4wxm2jwPbbNZayU6X) | 4:20 |
 | 35 | [Lovely Day](https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Menagerie](https://open.spotify.com/album/3QjPTUI6UcPr5m9RujkO3c) | 4:14 |
@@ -64,6 +64,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXab8DipvnuNU.md) - [plain]
 | 54 | [Love Come Down \- Single Version](https://open.spotify.com/track/3ZpSFamHHJE4kL59IePR7P) | [Evelyn "Champagne" King](https://open.spotify.com/artist/4JCt4xrbbBB9blkKwNlcJ7) | [Essential \- Soul Love](https://open.spotify.com/album/7LNiJbdcg604Tfr5revoL6) | 3:37 |
 | 55 | [Outstanding \- Original 12" Mix](https://open.spotify.com/track/4SHR8Udn1oQ95yvXRZU1I8) | [The Gap Band](https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp) | [The Best Of The Gap Band](https://open.spotify.com/album/3xep2gRuo1u8ekr5Qz6VQl) | 6:16 |
 | 56 | [Funkin' for Jamaica](https://open.spotify.com/track/0xbkxTqSaW5blsYgRXpB5I) | [Tom Browne](https://open.spotify.com/artist/4Ytvi4r3WPIZmEw1Ndmkp9) | [Funkin' For Jamaica](https://open.spotify.com/album/3QEAp1Cp3DQq6QcQD90arq) | 4:40 |
-| 57 | [Before I Let Go](https://open.spotify.com/track/6e9xnBJPs0y9omrSU3C3N4) | [Maze](https://open.spotify.com/artist/3DvdryKH4O95ZnsUZJKXpt), [Frankie Beverly](https://open.spotify.com/artist/6rXycobs8wkWicUGLtmB0n) | [Great R&B](https://open.spotify.com/album/0ToSKqQnHTBeIVybrONR8V) | 3:56 |
+| 57 | [Before I Let Go](https://open.spotify.com/track/6WUSbDYeGsieoWyEpfgRAF) | [Maze](https://open.spotify.com/artist/3DvdryKH4O95ZnsUZJKXpt) | [Essence Music Festival, Vol\. 1: Songs From Our Triumphant Return to New Orleans](https://open.spotify.com/album/5Mz1QHTcG5xMha6mvcPkjz) | 3:55 |
 
-Snapshot ID: `MTY0NzM2NjE1NSwwMDAwMDAwMDRiYzAyZGNkOTQ4OTIxMTZlMzc1Y2MzZjIyNTA5NzU5`
+Snapshot ID: `MTY0NzM2NjE1NSwwMDAwMDAwMDY5ZjljOWM3YjM5MTBhMmY5MjM0YmIyM2Y2OTRmNzVi`

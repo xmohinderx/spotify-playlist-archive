@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1S1d38suSz.md) - [plain]
 
 > Tú, nosotros y esta lista de canciones\. Foto: Chayanne
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,070 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,359 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,16 +14,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1S1d38suSz.md) - [plain]
 | 4 | [ADMV](https://open.spotify.com/track/3eJMSq78dDaFb7VvhNFnq6) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [ADMV](https://open.spotify.com/album/6wUJI0qgwrwiYJhFr53Gaa) | 3:13 |
 | 5 | [Ojos Marrones \- Con Sebastián Yatra](https://open.spotify.com/track/2GQclWZHwE4fMdqShvOPWU) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Ojos Marrones \(Con Sebastián Yatra\)](https://open.spotify.com/album/6KY4FnsrJZWQNjMw0zgDgd) | 3:18 |
 | 6 | [Heroe](https://open.spotify.com/track/4AkrkORGjiz7c90mwxAvdW) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Escape](https://open.spotify.com/album/045SvC3Y4s8F4BmgZbZ1yt) | 4:23 |
-| 7 | [La Falta](https://open.spotify.com/track/7Ex9Z4MqgbHNiwQJHnXj0R) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [La Falta](https://open.spotify.com/album/6ZEqDHzgAxGE7ZHOk75ZuX) | 3:08 |
-| 8 | [Dia de Enero](https://open.spotify.com/track/0OEBOJhSObnFuHuasXdt52) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Fijación Oral, Vol\. 1](https://open.spotify.com/album/3zHPYwiMJqa3hTBgk695Ae) | 2:53 |
-| 9 | [La Cosa Mas Bella](https://open.spotify.com/track/1EZypwk0xcj64ZLAglhLs2) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Donde Hay Música \(Spanish Version\)](https://open.spotify.com/album/49oNMRzQcMBCqiz03JOQqq) | 4:25 |
-| 10 | [Te Amo y Punto](https://open.spotify.com/track/5cFvInbt4jkAf48cdqhkJc) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Te Amo y Punto](https://open.spotify.com/album/2docoJFd5tY0o9iqbsYhsK) | 2:45 |
-| 11 | [Muero](https://open.spotify.com/track/3duR10TJy7FDaAr65xe4v2) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Muero](https://open.spotify.com/album/4qsSC79CFtpK133Ecl1cVz) | 3:37 |
-| 12 | [NASA](https://open.spotify.com/track/7pt5VZBKEsd4JIQ67DZcnd) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [NASA](https://open.spotify.com/album/3mSoBmP83p0lgfWPB1MkEX) | 3:06 |
-| 13 | [Y Tú Te Vas](https://open.spotify.com/track/7zuwr7YqqpveNtxlKe1vn6) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Grandes Exitos](https://open.spotify.com/album/1HR0VmKYncW4JyMwRCSi9N) | 4:43 |
-| 14 | [Antologia](https://open.spotify.com/track/0KAqMRUSZwzG3dZLdDA4eH) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Pies Descalzos](https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9) | 4:14 |
-| 15 | [En El Muelle De San Blas](https://open.spotify.com/track/0mvocLIWUnT10znvIXwHGr) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Sueños Líquidos](https://open.spotify.com/album/7ydFJUb1tmZPd6p4xIe10V) | 5:52 |
-| 16 | [Casi](https://open.spotify.com/track/511RYafYu9yoYBZN6fyhB5) | [Santiago Cruz](https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7) | [Casi](https://open.spotify.com/album/3h84MHwqGAdHPX03BfKvpV) | 3:07 |
+| 7 | [De Mí Enamórate](https://open.spotify.com/track/4fjf3wTDqNYJcZswg01K6B) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Los Dúo 3](https://open.spotify.com/album/4RM8yIYxFJlOx9IZMsJbR5) | 4:59 |
+| 8 | [La Falta](https://open.spotify.com/track/7Ex9Z4MqgbHNiwQJHnXj0R) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [La Falta](https://open.spotify.com/album/6ZEqDHzgAxGE7ZHOk75ZuX) | 3:08 |
+| 9 | [Dia de Enero](https://open.spotify.com/track/0OEBOJhSObnFuHuasXdt52) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Fijación Oral, Vol\. 1](https://open.spotify.com/album/3zHPYwiMJqa3hTBgk695Ae) | 2:53 |
+| 10 | [La Cosa Mas Bella](https://open.spotify.com/track/1EZypwk0xcj64ZLAglhLs2) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Donde Hay Música \(Spanish Version\)](https://open.spotify.com/album/49oNMRzQcMBCqiz03JOQqq) | 4:25 |
+| 11 | [Te Amo y Punto](https://open.spotify.com/track/5cFvInbt4jkAf48cdqhkJc) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Te Amo y Punto](https://open.spotify.com/album/2docoJFd5tY0o9iqbsYhsK) | 2:45 |
+| 12 | [Muero](https://open.spotify.com/track/3duR10TJy7FDaAr65xe4v2) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Muero](https://open.spotify.com/album/4qsSC79CFtpK133Ecl1cVz) | 3:37 |
+| 13 | [NASA](https://open.spotify.com/track/7pt5VZBKEsd4JIQ67DZcnd) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [NASA](https://open.spotify.com/album/3mSoBmP83p0lgfWPB1MkEX) | 3:06 |
+| 14 | [Y Tú Te Vas](https://open.spotify.com/track/7zuwr7YqqpveNtxlKe1vn6) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Grandes Exitos](https://open.spotify.com/album/1HR0VmKYncW4JyMwRCSi9N) | 4:43 |
+| 15 | [Antologia](https://open.spotify.com/track/0KAqMRUSZwzG3dZLdDA4eH) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Pies Descalzos](https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9) | 4:14 |
+| 16 | [En El Muelle De San Blas](https://open.spotify.com/track/0mvocLIWUnT10znvIXwHGr) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Sueños Líquidos](https://open.spotify.com/album/7ydFJUb1tmZPd6p4xIe10V) | 5:52 |
 | 17 | [Suelta Mi Mano](https://open.spotify.com/track/50xvGsnNmO3k5EtaUBXRRr) | [Sin Bandera](https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87) | [Mañana](https://open.spotify.com/album/5pbMJWLEzbU0HNQBffJyRx) | 4:00 |
 | 18 | [Tardes Negras](https://open.spotify.com/track/0IgtEvYFtZEapMoCcgizGQ) | [Tiziano Ferro](https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m) | [TZN \-The Best Of Tiziano Ferro \(Spanish Edition\)](https://open.spotify.com/album/0Kk7kX25RVvNzkYfyGt8kv) | 4:22 |
 | 19 | [De Repente](https://open.spotify.com/track/1eosB5ApmpsOCza1ZrH4gT) | [Soraya](https://open.spotify.com/artist/5enSNzCwMx61gCMv9jaV4Q) | [Gold](https://open.spotify.com/album/5jpQixMcvqrfvcGiUC8f7F) | 4:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1S1d38suSz.md) - [plain]
 | 49 | [Lo noto \- Versión CD](https://open.spotify.com/track/1k3Y0fhjdYKjfPSacDJm0p) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Peligrosamente Juntos](https://open.spotify.com/album/7eBwifbtzfdnn9NhcUaC8d) | 4:19 |
 | 50 | [Sólo Quédate En Silencio](https://open.spotify.com/track/2RJ1fg4qf2vgZKifTa4HgA) | [RBD](https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs), [Anahí](https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri), [Dulce María](https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL), [Maite Perroni](https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt), [Christian Chávez](https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN), [Christopher von Uckermann](https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo), [Alfonso Herrera](https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN) | [Rebelde](https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj) | 3:39 |
 
-Snapshot ID: `MTY2NDQ4ODgwMCwwMDAwMDAwMDQ1ZGY0YmVmMzIyODlhZGQ5MzI2M2MxNzNjOTZmZTQ3`
+Snapshot ID: `MTY2ODE0MjgwMCwwMDAwMDAwMDVkMjA5ZWYzMjI4ZmM3ZWVlMjQwZTNlZWViOGMyNDY3`

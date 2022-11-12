@@ -687,7 +687,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 189013,
       "name": "butterfly",
       "url": "https://open.spotify.com/track/34ZfAjSGM4vxJ1P6N5geSp"
@@ -1041,6 +1041,24 @@
       "duration_ms": 130955,
       "name": "Desafinado - From 'Minions: The Rise of Gru' Soundtrack",
       "url": "https://open.spotify.com/track/12j5ByuhjK6vsb0vJS1cwM"
+    },
+    {
+      "album": {
+        "name": "SMITHEREENS",
+        "url": "https://open.spotify.com/album/2hEnymoejldpuxSdTnkard"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211666,
+      "name": "Die For You",
+      "url": "https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t"
     },
     {
       "album": {
@@ -1611,7 +1629,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 203613,
       "name": "Fire and Rain - 2019 Remaster",
       "url": "https://open.spotify.com/track/1oht5GevPN9t1T3kG1m1GO"
@@ -1816,6 +1834,28 @@
     },
     {
       "album": {
+        "name": "(self-titled)",
+        "url": "https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE"
+      },
+      "artists": [
+        {
+          "name": "Marcus Mumford",
+          "url": "https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB"
+        },
+        {
+          "name": "Monica Martin",
+          "url": "https://open.spotify.com/artist/2Oq3sgFa2HSvRY0vL6bDxN"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181706,
+      "name": "Go In Light (feat. Monica Martin)",
+      "url": "https://open.spotify.com/track/4gWSTEBZxAvH1cKq2u8jfQ"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/567rqOb89dfo0lvj72Esnp"
       },
@@ -1899,7 +1939,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 205601,
       "name": "Got It Bad",
       "url": "https://open.spotify.com/track/0oADgO0iK3YpTsPkVb2ptT"
@@ -2465,7 +2505,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 216773,
       "name": "I Say a Little Prayer",
       "url": "https://open.spotify.com/track/3NfxSdJnVdon1axzloJgba"
@@ -2732,6 +2772,24 @@
     },
     {
       "album": {
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280720,
+      "name": "Kissing a Fool - Remastered",
+      "url": "https://open.spotify.com/track/1sEGwuvScFU2uNzlI7Aepy"
+    },
+    {
+      "album": {
         "name": "Fleetwood Mac",
         "url": "https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo"
       },
@@ -2837,7 +2895,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 316746,
       "name": "Let's Stay Together - 2015 Remaster",
       "url": "https://open.spotify.com/track/19DVNifOaTnuP0iq1kTqgW"
@@ -3035,7 +3093,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 225853,
       "name": "Lost Without You",
       "url": "https://open.spotify.com/track/3cWI6Hj9LQ0MfMuhw9uSMc"
@@ -3223,7 +3281,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 213320,
       "name": "Mess",
       "url": "https://open.spotify.com/track/1BlQWQgGP84r4GYUVty4Ar"
@@ -3263,6 +3321,28 @@
       "duration_ms": 252346,
       "name": "Mirou",
       "url": "https://open.spotify.com/track/6tYjeVpoBagQoXWIcEaAzP"
+    },
+    {
+      "album": {
+        "name": "Missing You",
+        "url": "https://open.spotify.com/album/2jJlynVhghoeXJXjfbEXyg"
+      },
+      "artists": [
+        {
+          "name": "Stephen Sanchez",
+          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
+        },
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235810,
+      "name": "Missing You (with Ashe)",
+      "url": "https://open.spotify.com/track/7xtsuU7WlDNmTzUQ32oQ7r"
     },
     {
       "album": {
@@ -4078,6 +4158,24 @@
     },
     {
       "album": {
+        "name": "Lazy Days",
+        "url": "https://open.spotify.com/album/3dsG1JN1wE7XL5DLuWNKk5"
+      },
+      "artists": [
+        {
+          "name": "Fat Night",
+          "url": "https://open.spotify.com/artist/0jUjkZEu17LkjSEQJmcqqi"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222320,
+      "name": "Sun Go Down",
+      "url": "https://open.spotify.com/track/6UJThOHpnTSWu583jJ4dbo"
+    },
+    {
+      "album": {
         "name": "Phases EP",
         "url": "https://open.spotify.com/album/67yZd1xUTES5qFQT9XNwZG"
       },
@@ -4089,7 +4187,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 200680,
       "name": "Sunday Morning",
       "url": "https://open.spotify.com/track/0CxVnKu6PG6tYTGVtSD8UU"
@@ -4309,7 +4407,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 256173,
       "name": "The Lady In Red",
       "url": "https://open.spotify.com/track/1GeNWyZtCHbcp3ZWp8GTOO"
@@ -4331,6 +4429,24 @@
       "duration_ms": 191386,
       "name": "The One I Love",
       "url": "https://open.spotify.com/track/4CTkHewevcDjIT3j9qb36e"
+    },
+    {
+      "album": {
+        "name": "The Only Exception",
+        "url": "https://open.spotify.com/album/6ssR342wWYZwPjYG35AWbG"
+      },
+      "artists": [
+        {
+          "name": "Katelyn Tarver",
+          "url": "https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262066,
+      "name": "The Only Exception",
+      "url": "https://open.spotify.com/track/6yBVp6DFh899CRaKww95Hr"
     },
     {
       "album": {
@@ -4363,7 +4479,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 221373,
       "name": "The Rose",
       "url": "https://open.spotify.com/track/562JrM9b7jiu8LgzV62x3o"
@@ -4800,6 +4916,24 @@
     },
     {
       "album": {
+        "name": "Whiskey To My Soul",
+        "url": "https://open.spotify.com/album/7pMY78paFqxpkhTAUanWWb"
+      },
+      "artists": [
+        {
+          "name": "Roan Ash",
+          "url": "https://open.spotify.com/artist/4Tqhn8v9Cws9SRsViQe61U"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225773,
+      "name": "Whiskey To My Soul",
+      "url": "https://open.spotify.com/track/7pSr5TCyEHPPRTXJNAtkNz"
+    },
+    {
+      "album": {
         "name": "Who You Lovin / In a Stranger's Arms",
         "url": "https://open.spotify.com/album/5qPyANB87pkul0IYJbJhwD"
       },
@@ -4959,7 +5093,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 195493,
       "name": "You And Me",
       "url": "https://open.spotify.com/track/0815caqt2Lytro5EIzMufT"

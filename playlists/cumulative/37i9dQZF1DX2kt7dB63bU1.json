@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Jazz voices of today. Cover: Caity Gyorgy",
+  "description": "Jazz voices of today. Cover: Lauren Henderson",
   "name": "Vocal Jazz",
   "published_playlist_ids": [
     "1MJcLwlhyaudSQhL0k2nLU"
@@ -1725,7 +1725,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 207000,
       "name": "Come Away With Me - Alternate Version",
       "url": "https://open.spotify.com/track/4yaoi2yin0n9WHaGFPcszQ"
@@ -4785,6 +4785,40 @@
       "duration_ms": 204890,
       "name": "It's Gonna Happen Tonight (Version with Orchestra)",
       "url": "https://open.spotify.com/track/1k31bVtBl0LsAZjxa5xOkj"
+    },
+    {
+      "album": {
+        "name": "It's Magic",
+        "url": "https://open.spotify.com/album/2GmDXAz7riUllsiCGd0htY"
+      },
+      "artists": [
+        {
+          "name": "Lauren Henderson",
+          "url": "https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l"
+        },
+        {
+          "name": "Eric Wheeler",
+          "url": "https://open.spotify.com/artist/1TvIn0DgifSGnkJL6VTEF5"
+        },
+        {
+          "name": "Joe Dyson",
+          "url": "https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS"
+        },
+        {
+          "name": "John Chin",
+          "url": "https://open.spotify.com/artist/1ixbDzSoXoP26q6TkB3yHU"
+        },
+        {
+          "name": "Nick Tannura",
+          "url": "https://open.spotify.com/artist/17rFfNiQpIFQGk04TNl3xB"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305538,
+      "name": "It's Magic",
+      "url": "https://open.spotify.com/track/3NqvtPL7TUtlNXpypf0n0a"
     },
     {
       "album": {
@@ -8011,6 +8045,24 @@
       "duration_ms": 236469,
       "name": "Sunny",
       "url": "https://open.spotify.com/track/4VHm7ABduF0wRhmoGIOXHJ"
+    },
+    {
+      "album": {
+        "name": "Sunrise",
+        "url": "https://open.spotify.com/album/3xbjnXESasgtICbl418mje"
+      },
+      "artists": [
+        {
+          "name": "CHERISE",
+          "url": "https://open.spotify.com/artist/36J979CZNAI4GsrElYFUOC"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220533,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/60EiB2sz5mqvRiDvDb0ucZ"
     },
     {
       "album": {

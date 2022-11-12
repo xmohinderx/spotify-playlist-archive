@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 
 > The most innovative and forward thinking metal right now\. Cover: Ghostemane
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,352 likes - 95 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,663 likes - 95 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 | 63 | [White Noise](https://open.spotify.com/track/750uSPGwf5jqU1teWD5cdO) | [Blanket](https://open.spotify.com/artist/2AOTmilsEJDBEM6SIHFFy6) | [White Noise](https://open.spotify.com/album/5XK72MyNkvyWhgclcg0XvF) | 4:37 |
 | 64 | [Only Paradise Lost](https://open.spotify.com/track/1w7iFvhfsK0QtFWZFGjYVG) | [vedawave](https://open.spotify.com/artist/1wEiY25dYJBXos4zDqAwz1) | [Only Paradise Lost](https://open.spotify.com/album/10Cjt3n61aOLXuAq7in5iN) | 4:00 |
 | 65 | [Ancestral Recall](https://open.spotify.com/track/66EQnrHuas3WUn8aIOVmdg) | [Emma Ruth Rundle](https://open.spotify.com/artist/34gLicNdz493863yZTanvC), [Thou](https://open.spotify.com/artist/4KoZpKiPeX4jIi7Euwcfuo) | [Ancestral Recall](https://open.spotify.com/album/0ppDekC0zA0aOKt9FxXVMY) | 3:54 |
-| 66 | [Contact](https://open.spotify.com/track/6WTb67YHPih0UCVxXGLDKn) | [Violet Cold](https://open.spotify.com/artist/5eh1n96NC6g34nPqpIItIo) | [Kosmik](https://open.spotify.com/album/5Kx3hP0LhUKsnD1TY0DArM) | 3:34 |
+| 66 | [Contact](https://open.spotify.com/track/2szivijUpHHwYvWqLX17lt) | [Violet Cold](https://open.spotify.com/artist/5eh1n96NC6g34nPqpIItIo) | [Kosmik \(Instrumental Version\)](https://open.spotify.com/album/0ls6oNzxhpHiezAvIgo1uO) | 3:34 |
 | 67 | [AN ITERATION](https://open.spotify.com/track/7vAWLTQr7F9KLKsIu7RbT6) | [The Armed](https://open.spotify.com/artist/4V5obzWMr7BHZrjOiQwB4K) | [AN ITERATION](https://open.spotify.com/album/0xMePIGPcoO7Xirx1Jh0da) | 2:53 |
 | 68 | [Shrinking Violet](https://open.spotify.com/track/2vATuBCSWGaY8SU0hsRAZj) | [Wear Your Wounds](https://open.spotify.com/artist/162Upzibi1m79dQDaEUjl3) | [Rust on the Gates of Heaven](https://open.spotify.com/album/4a2Q2U38lk0uDIQRhpNZ86) | 5:31 |
 | 69 | [Wrecked](https://open.spotify.com/track/23Ct1DllhsUlFtGn6iK59R) | [Zonal](https://open.spotify.com/artist/2FEWIj8qxL0aJKlH5QoOnt) | [Wrecked](https://open.spotify.com/album/7aMDk6WilYTrT8Jjtzv5lL) | 6:26 |
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 | 73 | [Embersólyom \- Kaláka](https://open.spotify.com/track/3PW5V36seHTLVUMzCLTAMS) | [Thy Catafalque](https://open.spotify.com/artist/4sgTqbA7htxYkRRJBPZIom) | [Embersólyom \(Kaláka\)](https://open.spotify.com/album/3kq2ev5Z0FFOyspM6eOcHp) | 4:17 |
 | 74 | [Bleed Like You \- Merzbow Version](https://open.spotify.com/track/5U6uLO5dwhUVZILVKHznu2) | [Mortiis](https://open.spotify.com/artist/4jlxvaggBp7wVV02U6YYRQ), [Merzbow](https://open.spotify.com/artist/5UezsklPScipW64XJm7qql) | [Bleed Like You](https://open.spotify.com/album/686yJX3ubdbx5JO8ewDhxj) | 4:57 |
 | 75 | [Russian Doll](https://open.spotify.com/track/5KY4Km7rllwWovNNU8hhPt) | [Ulver](https://open.spotify.com/artist/6bYFkBNvayh3nGqxcPp7Sv) | [Flowers of Evil](https://open.spotify.com/album/0VYuTYQPftcTUmq2ehYlzV) | 3:55 |
-| 76 | [Love in the Time of Pestilence](https://open.spotify.com/track/61QZFPNZvNKPaY9nnAgKbX) | [The Chronicles of Manimal and Samara](https://open.spotify.com/artist/2V3zzIcq2sbRbaEjbGypc8) | [Full Spectrum](https://open.spotify.com/album/6qXjj4mea3BEEAcwCmXfyJ) | 7:41 |
+| 76 | [Love in the Time of Pestilence](https://open.spotify.com/track/2dsEIPH2RS6cwD1yBXN8u7) | [The Chronicles of Manimal and Samara](https://open.spotify.com/artist/2V3zzIcq2sbRbaEjbGypc8) | [Love in the Time of Pestilence](https://open.spotify.com/album/1nYxUgt8v5OTge59hoDifq) | 7:41 |
 | 77 | [With You](https://open.spotify.com/track/6BDDpHza9P19logSNepfSy) | [IMMERSE](https://open.spotify.com/artist/3S3vmLBBxnscJGPLeqVKQN) | [The Weight That Holds Me Here](https://open.spotify.com/album/7gQ3N4IsQKBxPu6NtTFh84) | 3:06 |
 | 78 | [Alone Against Flames](https://open.spotify.com/track/0chpxeBNSAxm3OcHJEgBgo) | [Realize](https://open.spotify.com/artist/5Lcte3icI4BDaSt7TyRYKL) | [Machine Violence](https://open.spotify.com/album/2adncZksC8j5GeagRKPNsP) | 3:22 |
 | 79 | [Dante's Inspiration](https://open.spotify.com/track/0xqCqprCOqvz2zGridoiqu) | [Cryptodira](https://open.spotify.com/artist/6aaRy3pEsAC5lrbpQC5WEl) | [The Angel of History](https://open.spotify.com/album/5dhT3bPpiEtSDnMvkwjekT) | 3:33 |
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 | 81 | [Spiritual Architecture](https://open.spotify.com/track/14Bif9nrgAFWI8X73sE7cY) | [Ashbringer](https://open.spotify.com/artist/697R3cOlkWzOAkXztLzeg2) | [Spiritual Architecture](https://open.spotify.com/album/3ZnxyzqpDXxW3xAyCuyvRf) | 9:22 |
 | 82 | [A Bellyful of Salt and Spleen](https://open.spotify.com/track/2lKPQGRL2KyIqfEYQyzeGc) | [Napalm Death](https://open.spotify.com/artist/3UqRgrDIQ208yNGiWKRMNt) | [A Bellyful of Salt and Spleen](https://open.spotify.com/album/7tyS8cEiRHj1i3HmvvUszv) | 4:36 |
 | 83 | [The Triumphal Chariot of Antimony](https://open.spotify.com/track/2UaSBb1eH8SxqUZ4qvc8fZ) | [Demon Head](https://open.spotify.com/artist/3deeuqYVw08AeSndTj9aE3) | [The Triumphal Chariot of Antimony](https://open.spotify.com/album/1EIi0O4cK8iTq79mY8PceL) | 5:39 |
-| 84 | [After You Comes the Flood](https://open.spotify.com/track/2C33v3NmRB9cb4L4cLmFWn) | [MONO](https://open.spotify.com/artist/53LVoipNTQ4lvUSJ61XKU3) | [Nowhere Now Here](https://open.spotify.com/album/4wP3wYSBo0h9UfAfG5D94a) | 5:31 |
+| 84 | [After You Comes the Flood](https://open.spotify.com/track/6xwDOUvXD5BmU4NZwHIPZk) | [MONO](https://open.spotify.com/artist/53LVoipNTQ4lvUSJ61XKU3) | [After You Comes the Flood](https://open.spotify.com/album/4e4OGFT9SAPem35VnTjvvE) | 5:31 |
 | 85 | [Within](https://open.spotify.com/track/0v06aI9RK4zWQs7kzJYLPV) | [Neurosis](https://open.spotify.com/artist/1KHydwFySZY3YcWyo2q2dF), [Jarboe](https://open.spotify.com/artist/5cCzokwZSw5IRKcm7LpRbH) | [Neurosis & Jarboe \(Remastered\)](https://open.spotify.com/album/79zjqdyM0kqrIrjjt3jeMq) | 6:14 |
 | 86 | [Wildblood](https://open.spotify.com/track/2Ma12h5UbOSZ5j7eApuDZO) | [Caspian](https://open.spotify.com/artist/4SXj7TVoA3bgfR8AVssACa) | [On Circles](https://open.spotify.com/album/2SCAxvAGQLWK3SwPsZyku1) | 6:53 |
 | 87 | [AVERAGE DEATH](https://open.spotify.com/track/06rUSp5vUkWsZrU1g2DYx1) | [The Armed](https://open.spotify.com/artist/4V5obzWMr7BHZrjOiQwB4K) | [AVERAGE DEATH](https://open.spotify.com/album/3tJMthBdjOgApxrUaFsvEy) | 4:31 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 | 94 | [Huge](https://open.spotify.com/track/4Nbyhv2YTR1Vc83Ajo1gJ9) | [Boris](https://open.spotify.com/artist/3EgMK920cIH5aLxFnJ6zSi) | [Huge](https://open.spotify.com/album/73LxhjxtI5MVlX33VeAwVV) | 9:14 |
 | 95 | [Arcana Imperii](https://open.spotify.com/track/3Vv0Lsh8rGZZSckd5PsOzd) | [Ihsahn](https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za) | [Ámr](https://open.spotify.com/album/5w24JkPfkFs4PPVSnrzO1y) | 4:53 |
 
-Snapshot ID: `MTY2NDQ5MjQwMCwwMDAwMDAwMDI2YzBjNDdlMTgzNTEzZjg1OGE5Nzk1OTg4OTIwMWU2`
+Snapshot ID: `MTY2NDQ5MjQwMCwwMDAwMDAwMGZiNjEzZDM4ZWFlZWFhZGQ2N2Y1NzdhNzg4MDI3MDdk`

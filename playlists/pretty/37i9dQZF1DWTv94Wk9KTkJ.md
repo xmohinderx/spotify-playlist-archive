@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTv94Wk9KTkJ.md) - [plain]
 
 > The sound of 90s Jungle rave\. Cover: Roni Size
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,082 likes - 59 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,126 likes - 59 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Original Nuttah 25](https://open.spotify.com/track/55K24vPjLgAX8yLAq8fErj) | [Uk Apache](https://open.spotify.com/artist/0YE17nrGKTk37bcKpKVUvi), [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j) | [Original Nuttah 25](https://open.spotify.com/album/3CDghMhp5uTwVQVZ9vBVm5) | 3:51 |
 | 2 | [Brown Paper Bag](https://open.spotify.com/track/0vgMaW1oy7F9MfxGwX6ZdP) | [Roni Size](https://open.spotify.com/artist/5UjqeSp9dX6Nrge7WdDukr), [Reprazent](https://open.spotify.com/artist/17Ytfl1DntgvVdragJEqx8) | [90's Alternative](https://open.spotify.com/album/4Xx4P00hWGpP0yGIVnLIYV) | 9:02 |
 | 3 | [Incredible](https://open.spotify.com/track/2Q9F3D53QeclwbsY24cuxO) | [M\-Beat](https://open.spotify.com/artist/42tN6kVgx34E0Oqk2nef4g), [General Levy](https://open.spotify.com/artist/2bHgAaZ7qbGbMMXwAQm48I) | [Knowledge](https://open.spotify.com/album/2AA3AFHAMtp2J0nUVxv1kh) | 4:29 |
-| 4 | [Ruffest Gun Ark \- DJ Rap Mix](https://open.spotify.com/track/3IQNyWPEfNQV7YDmvABjgr) | [Top Cat](https://open.spotify.com/artist/3QR3QV1qQuTpcy1DIqOw9j), [DJ Rap](https://open.spotify.com/artist/68AFCxLSHARThf2XIYwY46) | [Champion Deejay](https://open.spotify.com/album/2IHY99tMm1YQI0mDJ8Y037) | 5:19 |
+| 4 | [Ruffest Gun Ark \(DJ Rap Mix\)](https://open.spotify.com/track/3AvcSYgEcWyrETTSXezc05) | [Top Cat](https://open.spotify.com/artist/3QR3QV1qQuTpcy1DIqOw9j) | [Soul Jazz Records Presents Fashion Records: Style & Fashion](https://open.spotify.com/album/0buptyrZIocgX420dtdJ5M) | 5:23 |
 | 5 | [Atlantis \(I Need You\)](https://open.spotify.com/track/2527WUoKIauHY1tx5TCetu) | [LTJ Bukem](https://open.spotify.com/artist/5Wfn5sc1w3DhMTpU7oPJZL) | [Producer 01](https://open.spotify.com/album/2YgeSuxQWw3NjUPYhjoTFl) | 6:34 |
 | 6 | [Pulp Fiction](https://open.spotify.com/track/6rdX0la76j3RGwtZ3id80o) | [Alex Reece](https://open.spotify.com/artist/74AkwPErO7y6jYZwR7ggJA) | [Welcome To The Jungle, Vol\. 7: Jungle + Drum and Bass Soundclash](https://open.spotify.com/album/1HBvtRVu59WAbKus2WdDH0) | 6:10 |
 | 7 | [Maximum Style \(Lover To Lover\)](https://open.spotify.com/track/5aqLROQOpWX2H8Q3b0IB6b) | [Tom & Jerry](https://open.spotify.com/artist/11XdPK1p3uSxX0qiBy5WBZ) | [Jungle Hits, Vol\. 1](https://open.spotify.com/album/6ajFWIR0zVPWu3cBj68B4z) | 4:05 |
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTv94Wk9KTkJ.md) - [plain]
 | 37 | [Sound Control \(Remix\)](https://open.spotify.com/track/1UuotwszQkTo1d7EmY1gzT) | [Randall](https://open.spotify.com/artist/7eBvRf0FT8X43nN0DAmvLl), [Andy C](https://open.spotify.com/artist/75HK7rgkmDMTnWwwmcN53N) | [Sound Control \(Remix\)](https://open.spotify.com/album/3P6foVyFSCWkMYGcNV8K5e) | 6:27 |
 | 38 | [HitMan \- Marvellous Cain Mix](https://open.spotify.com/track/7iQzj8Y4zrfOaAolpeJf8M) | [Cutty Ranks](https://open.spotify.com/artist/4qDGDPGMIJuIvPfUGe0Ngg) | [Limb By Limb](https://open.spotify.com/album/75DUcqAqDyv0WZwKc6nhGr) | 5:30 |
 | 39 | [Terrorist \- P.A\. Mix](https://open.spotify.com/track/05LBKoyVoXTQRtSO0t5CZs) | [Renegade](https://open.spotify.com/artist/3vBaLrnIgG5WCQ3pTeZexc), [P.A.](https://open.spotify.com/artist/1D0YWwTT54FXCh10i0JmNn) | [Vintage Dread 2000](https://open.spotify.com/album/1eorEF6PNbAm9UGxmPDZg8) | 6:10 |
-| 40 | [This Is L.A\. \- 2021 Remaster](https://open.spotify.com/track/6ATcLYpnpXqoyaDaWPYOVb) | [Lemon D](https://open.spotify.com/artist/4K5Dosv1aTGnVJzfv6QilI) | [Urban Style Music / This Is L.A\. \(Remasters\)](https://open.spotify.com/album/3Kzt4yDn1zgNbOMA0ZngvS) | 7:35 |
+| 40 | [This Is La](https://open.spotify.com/track/71UD8urdcHAFAkIaDhkHMq) | [Lemon D](https://open.spotify.com/artist/4K5Dosv1aTGnVJzfv6QilI) | [15 Years of Metalheadz](https://open.spotify.com/album/1T6Pw94DnmYPnOHIsMAi00) | 7:37 |
 | 41 | [Metropolis](https://open.spotify.com/track/3SRLSSTHyRY50ufRVA8BzK) | [Adam F](https://open.spotify.com/artist/3m38ZSwkLdeBDUhdGnFPrn) | [15 Years of Metalheadz](https://open.spotify.com/album/1T6Pw94DnmYPnOHIsMAi00) | 6:31 |
 | 42 | [Maximum Booty Style Pt\. II](https://open.spotify.com/track/2PWQyaoaNYOQAWBbFHFSYp) | [Tom & Jerry](https://open.spotify.com/artist/11XdPK1p3uSxX0qiBy5WBZ) | [Jungle Hits, Vol\. 2](https://open.spotify.com/album/5cUKFvWH5OENoGjbry6pQO) | 4:23 |
 | 43 | [If I Could Fly \- LTJ Bukem's Roll It Mix](https://open.spotify.com/track/03CK2ZmSE76JGn1FHPMp0r) | [Grace](https://open.spotify.com/artist/1DlbW0TOOja6uqR4CHAaeg), [LTJ Bukem](https://open.spotify.com/artist/5Wfn5sc1w3DhMTpU7oPJZL) | [If I Could Fly \(Remixes\)](https://open.spotify.com/album/1ydAEgb3fe8CJDAYkbNn8b) | 10:01 |
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTv94Wk9KTkJ.md) - [plain]
 | 45 | [Limb By Limb \- DJ SS Remix](https://open.spotify.com/track/7aMmnUhaQdRmBoV2pC17GK) | [Cutty Ranks](https://open.spotify.com/artist/4qDGDPGMIJuIvPfUGe0Ngg) | [Rumble in the Jungle, Vol\. 2](https://open.spotify.com/album/2eZMOpHPQD6mmYr5NygRxg) | 4:59 |
 | 46 | [Ricky](https://open.spotify.com/track/3TdwYEcg8CJ3PGese6vf59) | [DJ Lewi](https://open.spotify.com/artist/4LeLQF1IPB8nAmIWkUQLq4), [Remarc](https://open.spotify.com/artist/0nCxyI85p7XgWv2LLv4S9d) | [Jungle Hits, Vol\. 1](https://open.spotify.com/album/6ajFWIR0zVPWu3cBj68B4z) | 4:04 |
 | 47 | [Pranksters](https://open.spotify.com/track/1ePaN8bYEGckDsyo3YrBNF) | [DJ Zinc](https://open.spotify.com/artist/1cwlYsgHBYvLzT4C24AliQ) | [Reachout / Pranksters](https://open.spotify.com/album/7KrdWbeZMJfRyjB1UoZsXs) | 6:08 |
-| 48 | [Ruff In The Jungle Bizness \- Uplifting Vibes Remix](https://open.spotify.com/track/0Y9x1eEwPIub4z520zdblc) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [Experience: Expanded](https://open.spotify.com/album/1tqILdbeDwfGOlvzCgT5PB) | 4:16 |
+| 48 | [Ruff In The Jungle Bizness \- Uplifting Vibes Remix Remastered](https://open.spotify.com/track/2z4Hbwh9pCOsMnx2Imgu8A) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [Experience: Expanded \(Remixes & B\-sides\)](https://open.spotify.com/album/6ps0BkH76wpg48HoUfVbB6) | 4:16 |
 | 49 | [Here Comes the Drumz](https://open.spotify.com/track/4bNSfwZXF0cUuWen4kGOFy) | [Doc Scott](https://open.spotify.com/artist/1cuov4jcw3lXOvCANG7Kg4) | [Reinforced Presents Doc Scott \- The Early Plates](https://open.spotify.com/album/64nIGwlPFeIyOxgva8PMBl) | 4:30 |
 | 50 | [The Dark Stranger \- Origin Unknown Mix](https://open.spotify.com/track/5xqoIzTFlxXRGx86nIVn3b) | [Boogie Times Tribe](https://open.spotify.com/artist/0IEo8gcFe2WFGGF9L8Rmqy) | [Real Hardcore / The Dark Stranger](https://open.spotify.com/album/3hklWef2q00FpdkGX36QAV) | 5:27 |
 | 51 | [Super Sharp Shooter \(feat\. DJ Zinc\)](https://open.spotify.com/track/6nj8a3vSzXGv23fgwSKY5B) | [The Ganja Kru](https://open.spotify.com/artist/1GNqYPZX9xWLXHQfHKXXVu), [DJ Zinc](https://open.spotify.com/artist/1cwlYsgHBYvLzT4C24AliQ) | [Super Sharp Shooter EP](https://open.spotify.com/album/6SdKsJwKdIxaOBEpou2EAJ) | 6:26 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTv94Wk9KTkJ.md) - [plain]
 | 58 | [Guess](https://open.spotify.com/track/0NKri6cXGR5Kq8t5BXHVfa) | [Krust](https://open.spotify.com/artist/6WPeOlm3f3UGoO1l6OPOUO) | [V Classic](https://open.spotify.com/album/2v6rSLlgweFFDtpDntQVPw) | 7:11 |
 | 59 | [The Slammer](https://open.spotify.com/track/0p3R7sblGEUN0AC0yb5LYx) | [Krome and Time](https://open.spotify.com/artist/34BsYkwksRwsEikxJWx106) | [Into The Night / The Slammer](https://open.spotify.com/album/06ITqlzzrsiRSr0rh0rkph) | 6:10 |
 
-Snapshot ID: `MTY2NDQ2NzIwOCwwMDAwMDAwMGMyMThmYjcyMjAzNTA5MjY5ODQwZWE4ZDkxNDRlMTRm`
+Snapshot ID: `MTY2NDQ2NzIwOCwwMDAwMDAwMGEyOWNkYmQ3NjE3ODIyMDk2ZTI0ODRkMDIzMTBhOTM0`

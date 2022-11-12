@@ -228,6 +228,24 @@
     },
     {
       "album": {
+        "name": "The King R&B Vol. 1 of 4",
+        "url": "https://open.spotify.com/album/1eVmXRmL9l0sJBrZ1s6DYX"
+      },
+      "artists": [
+        {
+          "name": "Wynonie Harris",
+          "url": "https://open.spotify.com/artist/4Imc3wiT22cuynvQNpXcVn"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160440,
+      "name": "Bloodshot Eyes",
+      "url": "https://open.spotify.com/track/0PkwfajdYwSlJcFCD9rDAy"
+    },
+    {
+      "album": {
         "name": "Lovin' Machine",
         "url": "https://open.spotify.com/album/4oHzoB06yfTbggLGro4Oxo"
       },
@@ -239,7 +257,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 160827,
       "name": "Bloodshot Eyes",
       "url": "https://open.spotify.com/track/4w873lwWDABniYU2MOaXYQ"
@@ -809,7 +827,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 150893,
       "name": "Oh Babe",
       "url": "https://open.spotify.com/track/5uNMlXUTvc7M7nELi7I1Nq"
@@ -831,6 +849,24 @@
       "duration_ms": 150800,
       "name": "Oh Babe!",
       "url": "https://open.spotify.com/track/5rjGP2an1PW03auZnOexz0"
+    },
+    {
+      "album": {
+        "name": "Solid Hits by Solid Senders",
+        "url": "https://open.spotify.com/album/7oOb3QzANU0qIYlLnqEjcy"
+      },
+      "artists": [
+        {
+          "name": "Roy Milton & His Solid Senders",
+          "url": "https://open.spotify.com/artist/24E0Uh3YmtQFLPskGf2QiW"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150726,
+      "name": "Oh Babe!",
+      "url": "https://open.spotify.com/track/6YLqPqg3zvDzctYzoIXIDR"
     },
     {
       "album": {
@@ -1051,7 +1087,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 135853,
       "name": "Shake That Thing",
       "url": "https://open.spotify.com/track/28S7lYq6jJxpyT8FYkpOHi"
@@ -1073,6 +1109,24 @@
       "duration_ms": 136773,
       "name": "Shake That Thing",
       "url": "https://open.spotify.com/track/2XacJ1d8YqhSrxxUFykEOY"
+    },
+    {
+      "album": {
+        "name": "Old King Gold Volume 9 (Original Gusto Recordings)",
+        "url": "https://open.spotify.com/album/7CMSoSffdwqf1xqmgez1SQ"
+      },
+      "artists": [
+        {
+          "name": "Wynonie Harris",
+          "url": "https://open.spotify.com/artist/4Imc3wiT22cuynvQNpXcVn"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136360,
+      "name": "Shake That Thing - Original Gusto Recordings",
+      "url": "https://open.spotify.com/track/2beePIyy3mG5D0RHQL6UmB"
     },
     {
       "album": {

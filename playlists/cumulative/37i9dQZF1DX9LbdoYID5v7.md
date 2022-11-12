@@ -4,7 +4,7 @@
 
 > Music that created modern indie as we know it\. Cover: MGMT
 
-158 songs - 10 hr 10 min - [published](https://open.spotify.com/playlist/1TmwbF2mvZkA61FjUDdoHe)
+160 songs - 10 hr 18 min - [published](https://open.spotify.com/playlist/1TmwbF2mvZkA61FjUDdoHe)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Daylight](https://open.spotify.com/track/57i3M29DWoo7RDk0Tf0LZG) | [Matt and Kim](https://open.spotify.com/artist/4MSMDY0ClgWqXApU53I1L1) | [Grand](https://open.spotify.com/album/4bQi4sDv5BugGpaQWJiEXa) | 2:51 | 2021-01-12 |  |
 | [Destiny](https://open.spotify.com/track/27ViQppP3LZPCJl2A0w9kp) | [Zero 7](https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Sophie Barker](https://open.spotify.com/artist/5338nAeek8WVCOPNnT7Qv2) | [Simple Things](https://open.spotify.com/album/1VRBB9iu84o3g16CczH9iH) | 5:38 | 2022-07-28 |  |
 | [Dog Days Are Over](https://open.spotify.com/track/1YLJVmuzeM2YSUkCCaTNUB) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Edition\)](https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ) | 4:11 | 2021-01-12 |  |
+| [Dream](https://open.spotify.com/track/0ngtyvPUKR4YTtkVKvZP02) | [Priscilla Ahn](https://open.spotify.com/artist/5oU0tZlItLctcLOQPS3mCy) | [A Good Day](https://open.spotify.com/album/2y8fiUO036vTYKHM2gNSuW) | 3:31 | 2022-10-11 |  |
 | [Electric Feel](https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 3:49 | 2021-01-12 |  |
 | [Energy](https://open.spotify.com/track/5uAEx8Gbz7FIWhhorTfU9o) | [The Apples In Stereo](https://open.spotify.com/artist/5KIrQe9pb7tn8y775PsoAP) | [New Magnetic Wonder](https://open.spotify.com/album/2njhLjyGJW1jI6X0o2bVpM) | 3:30 | 2021-01-12 | 2022-07-29 |
 | [Everybody's Changing](https://open.spotify.com/track/5hkdfA87RZvNaxl6XiveOA) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Hopes And Fears](https://open.spotify.com/album/0qsT8HLvlWaSWIq8Rc95BI) | 3:35 | 2022-07-28 |  |
@@ -61,6 +62,7 @@
 | [Golden Age](https://open.spotify.com/track/038A1NyyetJslykmlBKyGo) | [TV On The Radio](https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR) | [Dear Science](https://open.spotify.com/album/3bWZ33ZCvHQD3nJnPjpfk7) | 4:09 | 2021-01-12 | 2022-07-14 |
 | [Golden Skans](https://open.spotify.com/track/6BqWhxll86CGGE6WxgdRqG) | [Klaxons](https://open.spotify.com/artist/2qlAMLpUyBjZgnzuFXXZXI) | [Myths Of The Near Future](https://open.spotify.com/album/6NfykVXaIiJG0JkkNI3Ubg) | 2:45 | 2022-07-28 |  |
 | [Good To Sea](https://open.spotify.com/track/2EH1ZVZx2wPGtQb5V2hNih) | [Pinback](https://open.spotify.com/artist/4ZWvN9FEfdTea1SEHjpTNi) | [Autumn of the Seraphs](https://open.spotify.com/album/3Apdb6qGTuQe6ac3yqgl9A) | 3:11 | 2021-01-12 | 2022-07-29 |
+| [Gravity Rides Everything](https://open.spotify.com/track/1pPqVrG2RCHXx81Aw4xp99) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [The Moon & Antarctica](https://open.spotify.com/album/5SbcupirEParczvqqyUPXL) | 4:19 | 2022-10-11 |  |
 | [Half Mast](https://open.spotify.com/track/0GgAAB0ZMllFhbNc3mAodO) | [Empire of the Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Walking On A Dream \(Special Edition\)](https://open.spotify.com/album/1GoqBRUPZzBKvMKZxSQ1mp) | 3:54 | 2021-01-12 | 2022-07-29 |
 | [Hang Me Up To Dry](https://open.spotify.com/track/3IXRdLsQib8m0hBbQpe7T8) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Robbers & Cowards](https://open.spotify.com/album/1LTbo93CjLo48yNP8Ysaz5) | 3:38 | 2021-01-12 |  |
 | [Heads Will Roll](https://open.spotify.com/track/4WiIscpBgQFm5qIyjoH7M4) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz!](https://open.spotify.com/album/4dBMwYZJ84lj8HRTdL8Toj) | 3:41 | 2022-07-28 |  |
@@ -108,7 +110,7 @@
 | [Oxford Comma](https://open.spotify.com/track/0ful4PHfTIxzXiZSZsXQ0H) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY) | 3:15 | 2022-07-28 |  |
 | [Oxford Comma](https://open.spotify.com/track/2Ml0l8YWJLQhPrRDLpQaDM) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/7JcfNKXoHSaog85a1hd4lx) | 3:15 | 2021-01-12 | 2022-07-29 |
 | [Pachuca Sunrise](https://open.spotify.com/track/5UMC0HkqpmwarA1HZ7z3Ck) | [Minus the Bear](https://open.spotify.com/artist/0YQBN02bmZvwGNrrWsg2sT) | [Menos El Oso](https://open.spotify.com/album/3ZJ1AdjAip2Lf0dHwpQui2) | 3:35 | 2021-01-12 | 2022-07-29 |
-| [Paper Planes](https://open.spotify.com/track/1ixbwbeBi5ufN4noUKmW5a) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Kala](https://open.spotify.com/album/2xoj2gYed3IYmGWn3owSfu) | 3:25 | 2022-07-28 |  |
+| [Paper Planes](https://open.spotify.com/track/1ixbwbeBi5ufN4noUKmW5a) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Kala](https://open.spotify.com/album/2xoj2gYed3IYmGWn3owSfu) | 3:25 | 2022-07-28 | 2022-11-12 |
 | [PDA](https://open.spotify.com/track/286mFeYjBJ9fkioaIzaxoN) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [Turn On The Bright Lights](https://open.spotify.com/album/4sW8Eql2e2kdRP1A1R1clG) | 4:59 | 2022-07-28 |  |
 | [People Say](https://open.spotify.com/track/0WTq8iUzSlGDAbowEdRKKD) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [The Satanic Satanist](https://open.spotify.com/album/72uoxpSaDs7keunx3LbvrX) | 2:59 | 2022-10-11 |  |
 | [People Say](https://open.spotify.com/track/1Hle8Xb0v0CE4xJR8Ezr89) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [The Satanic Satanist](https://open.spotify.com/album/5HdvwiCT7MRMtTmGBwPpNX) | 2:59 | 2021-01-12 | 2022-07-29 |
@@ -127,7 +129,7 @@
 | [Such Great Heights \- Remastered](https://open.spotify.com/track/4G21jWo0Cm6lOIUNnZ2mUI) | [The Postal Service](https://open.spotify.com/artist/5yV1qdnmxyIYiSFB02wpDj) | [Give Up \(Deluxe 10th Anniversary Edition\)](https://open.spotify.com/album/5MoaDbFw4nrm2P7Om1on3b) | 4:26 | 2022-07-28 | 2022-11-11 |
 | [Suddenly I See](https://open.spotify.com/track/5p9XWUdvbUzmPCukOmwoU3) | [KT Tunstall](https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL) | [Eye To The Telescope](https://open.spotify.com/album/3j70PDKieTWQAwas3bPHRZ) | 3:21 | 2022-07-28 |  |
 | [Sweet Disposition](https://open.spotify.com/track/5RoIXwyTCdyUjpMMkk4uPd) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Conditions](https://open.spotify.com/album/47enZlu6ssi5aFaAxHc0wt) | 3:50 | 2021-01-12 |  |
-| [Take Me Out](https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Franz Ferdinand](https://open.spotify.com/album/0vi5ePiEHrGZJF7QhnDW2z) | 3:57 | 2022-07-28 |  |
+| [Take Me Out](https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Franz Ferdinand](https://open.spotify.com/album/0vi5ePiEHrGZJF7QhnDW2z) | 3:57 | 2022-07-28 | 2022-11-12 |
 | [Take Me Out](https://open.spotify.com/track/6ooluO7DiEhI1zmK94nRCM) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Franz Ferdinand](https://open.spotify.com/album/0mUEGMT2YlzCWGeWOJjBKD) | 3:57 | 2021-01-12 | 2022-07-26 |
 | [Take Your Mama](https://open.spotify.com/track/0LAfANg75hYiV1IAEP3vY6) | [Scissor Sisters](https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o) | [Scissor Sisters](https://open.spotify.com/album/65Fllu4vQdZQOh6id0YwIM) | 4:31 | 2021-01-12 |  |
 | [Teen Angst](https://open.spotify.com/track/4y7VfYUU5OW8Q2VAQMPgr4) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Before The Dawn Heals Us](https://open.spotify.com/album/3l2yrGYoorWgamklnDhnQ1) | 5:02 | 2021-01-12 | 2022-07-28 |

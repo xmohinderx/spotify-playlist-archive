@@ -4,7 +4,7 @@
 
 > Get pumped, feel the vibe and get ready for the swell coming in.
 
-132 songs - 7 hr 41 min - [published](https://open.spotify.com/playlist/0qekuHpLuIk7DFeuQZ1pAT)
+134 songs - 7 hr 49 min - [published](https://open.spotify.com/playlist/0qekuHpLuIk7DFeuQZ1pAT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Broken Boy \(feat\. Iggy Pop\)](https://open.spotify.com/track/1j717HdHFPFwbBEAk2kwJQ) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Broken Boy \(feat\. Iggy Pop\)](https://open.spotify.com/album/4jCLZy0GRmWrOCiIpj3Gbt) | 2:43 | 2021-04-09 |  |
 | [Buick Mackane](https://open.spotify.com/track/4MYQmhDkFCC7HTrVCdWhGE) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [The Slider](https://open.spotify.com/album/3Dg3quPRLDCsEqnzgPl6PE) | 3:34 | 2021-04-09 | 2022-07-29 |
 | [Buick Mackane](https://open.spotify.com/track/69XHHSqv6aZp1js1NPC2A3) | [Ty Segall](https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx) | [Ty Rex](https://open.spotify.com/album/4l1dguE5eoTrKuyHZKVY40) | 2:45 | 2021-04-09 | 2022-04-18 |
-| [Caesar](https://open.spotify.com/track/1MQeShIRRYCcaSs4XzWldh) | [Ty Segall](https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx) | [Melted](https://open.spotify.com/album/5P0LN9xrnLY1By7mlkKtkx) | 3:30 | 2021-04-09 |  |
+| [Caesar](https://open.spotify.com/track/1MQeShIRRYCcaSs4XzWldh) | [Ty Segall](https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx) | [Melted](https://open.spotify.com/album/5P0LN9xrnLY1By7mlkKtkx) | 3:30 | 2021-04-09 | 2022-11-12 |
 | [Catamaran](https://open.spotify.com/track/36HX9lygdofc2nUOB3okMN) | [Allah\-Las](https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp) | [Allah\-Las](https://open.spotify.com/album/5nbFVTYt5nVBqDqNvaDTxs) | 3:32 | 2021-04-09 | 2022-07-29 |
 | [Catamaran](https://open.spotify.com/track/4H0KLsPpr5atperrHGfz3x) | [Allah\-Las](https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp) | [Allah\-Las](https://open.spotify.com/album/38lCUdjREYv0ugODkoBif0) | 3:32 | 2021-04-09 |  |
 | [Close My Eyes](https://open.spotify.com/track/0XMEbKOyEIWASL3ZBRwWyn) | [FEELS](https://open.spotify.com/artist/3n2689NB8LE4EaQJyRy5jH) | [Feels](https://open.spotify.com/album/3CN49gaVjOI8uq9gA58E2G) | 3:51 | 2021-04-09 | 2022-07-21 |
@@ -81,7 +81,8 @@
 | [Loose \- 2005 Remaster](https://open.spotify.com/track/4jYeoH1fAXq5yRcOKOs1Df) | [The Stooges](https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3) | [Fun House \(Deluxe Edition\)](https://open.spotify.com/album/3FTcomSFg2zWSqWLRgBYpv) | 3:34 | 2021-04-09 |  |
 | [Love Fuzz](https://open.spotify.com/track/7EkDukn0DSarGxnpQS5Ymq) | [Ty Segall](https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx) | [Love Fuzz](https://open.spotify.com/album/1PBA8BAkM4RRM80RCsvZjj) | 7:36 | 2021-04-09 | 2022-07-28 |
 | [Love Supreme \(Work Together!\)](https://open.spotify.com/track/3hdWuSgCuJKxBCrm0GSxVE) | [Ron Gallo](https://open.spotify.com/artist/4rfE3kN2zKNC9L9tt3iVOg) | [Stardust Birthday Party](https://open.spotify.com/album/37BmBj2brWfP9HezMAebdH) | 3:11 | 2021-04-09 | 2022-07-29 |
-| [Lucidity](https://open.spotify.com/track/4EC81w5nKG5tZlkHyKT2vO) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [InnerSpeaker](https://open.spotify.com/album/1DNSmmRLfv97Yjq7MTFWng) | 4:31 | 2021-04-09 |  |
+| [Lucidity](https://open.spotify.com/track/4EC81w5nKG5tZlkHyKT2vO) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [InnerSpeaker](https://open.spotify.com/album/1DNSmmRLfv97Yjq7MTFWng) | 4:31 | 2021-04-09 | 2022-11-12 |
+| [Lucidity](https://open.spotify.com/track/7gBXbOdXEz1olGsTt4WRlN) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [InnerSpeaker \(10 Year Anniversary Edition\)](https://open.spotify.com/album/65BL1WmHblGCNmhzfgYEyD) | 4:31 | 2021-04-09 |  |
 | [Lucidity](https://open.spotify.com/track/0wIycFb49FSJY1uWDLhDfu) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [InnerSpeaker](https://open.spotify.com/album/1UZEI48x6bAvRw5M8AKQVX) | 4:31 | 2021-04-09 | 2022-07-29 |
 | [Lucidity](https://open.spotify.com/track/4aetgBuI5iRQpjy8gdGxY8) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [InnerSpeaker](https://open.spotify.com/album/5RA5hhLlbw31QfQRX11pwo) | 4:31 | 2021-04-09 | 2022-10-20 |
 | [Lust For Life](https://open.spotify.com/track/21YxK0klhpfLW8budkJaMF) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Lust For Life](https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz) | 5:13 | 2021-04-09 |  |
@@ -91,6 +92,7 @@
 | [Modern Art](https://open.spotify.com/track/5CD1zO8FBpSjulmoQlFdse) | [Black Lips](https://open.spotify.com/artist/35C0NSLogAwImm8HAMqEmG) | [Arabia Mountain](https://open.spotify.com/album/7GiUKzR2ImfLJK8Qxrn630) | 2:04 | 2021-04-09 | 2022-07-29 |
 | [Mr\. Brightside](https://open.spotify.com/track/3n3Ppam7vgaVa1iaRUc9Lp) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/4OHNH3sDzIxnmUADXzv2kT) | 3:42 | 2021-04-09 | 2022-07-29 |
 | [Mr\. Brightside](https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg) | 3:42 | 2021-04-09 | 2022-11-11 |
+| [Mr\. Brightside](https://open.spotify.com/track/25vf0eCrswI3GcuMH4fL3R) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Best Male Rock Singers](https://open.spotify.com/album/0MNEMYOJEiBmLv6g3zqTNY) | 3:43 | 2021-04-09 |  |
 | [My Lady's On Fire](https://open.spotify.com/track/2hSd5IqIBoR5Ck5EDVL4kZ) | [Ty Segall](https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx) | [Freedom's Goblin](https://open.spotify.com/album/3RBS1ViF2Y6kJDDs74Ug5i) | 3:52 | 2021-04-09 | 2022-07-29 |
 | [My Lady's On Fire](https://open.spotify.com/track/5EbTamOuKNYlEsOUGc51kE) | [Ty Segall](https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx) | [Freedom's Goblin](https://open.spotify.com/album/5BInay8c4KClHpYL94IBed) | 3:52 | 2021-04-09 |  |
 | [My Sunshine](https://open.spotify.com/track/1hR1K837ZhhMpZ8LFbFlTC) | [Ty Segall](https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx) | [Melted](https://open.spotify.com/album/5P0LN9xrnLY1By7mlkKtkx) | 2:11 | 2021-04-09 | 2022-07-22 |

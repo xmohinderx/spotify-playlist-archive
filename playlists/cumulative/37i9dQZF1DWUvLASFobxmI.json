@@ -467,7 +467,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 180441,
       "name": "Cuando Yo Me Muera",
       "url": "https://open.spotify.com/track/4V927V1JIlJkE7nVU4UBsF"
@@ -1297,7 +1297,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 187146,
       "name": "Especial",
       "url": "https://open.spotify.com/track/08ckx6TnHaRZlp7fZdxxPj"
@@ -3252,6 +3252,24 @@
     },
     {
       "album": {
+        "name": "Jimmy Humilde Presenta Lo Mejor De Las Calles Edici\u00f3n Mexico",
+        "url": "https://open.spotify.com/album/43R7kF6zEbcmD3A5CWwBnv"
+      },
+      "artists": [
+        {
+          "name": "JR Torres",
+          "url": "https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj"
+        }
+      ],
+      "date_added": "2022-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184132,
+      "name": "Un Suspiro",
+      "url": "https://open.spotify.com/track/6JxxhqQo5PQB4IgO4uVAAd"
+    },
+    {
+      "album": {
         "name": "Un Suspiro",
         "url": "https://open.spotify.com/album/1T933O98fS24tmvqNJ4TgF"
       },
@@ -3281,7 +3299,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 184411,
       "name": "Un Suspir\u00f3",
       "url": "https://open.spotify.com/track/3nD8VUJphfkoxSjy4lmeP1"

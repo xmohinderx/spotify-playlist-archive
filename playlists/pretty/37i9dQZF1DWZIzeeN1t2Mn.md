@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIzeeN1t2Mn.md) - [plain]
 
 > Hymns and anthems of artists stepping  into the culture at large! Speak truth\. Cover; Joshua Luke Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,817 likes - 49 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,829 likes - 49 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIzeeN1t2Mn.md) - [plain]
 | 35 | [Crae](https://open.spotify.com/track/2M9exiU076ShM2fMuSrbUy) | [Lamar Riddick](https://open.spotify.com/artist/0xMUuBXUryQ7XVhgIbAhgt), [Eli Williams](https://open.spotify.com/artist/6cpRgzScOKkKse4SlMd97y), [Rapzilla](https://open.spotify.com/artist/2fWSzxY0pvctdhX3Vk2Fav) | [Crae](https://open.spotify.com/album/3Xe2FemHs7u7ThaXkwA2eM) | 3:27 |
 | 36 | [Give Me Heart](https://open.spotify.com/track/0mfWhceGPWQan1NzchWSl7) | [Sophia](https://open.spotify.com/artist/0QNsCtFsLKjWLvo6HkMYqx) | [Give Me Heart](https://open.spotify.com/album/5fiKnD1LutywRwOkdyI7wJ) | 3:18 |
 | 37 | [Death in Reverse](https://open.spotify.com/track/7nANgc1uUNOyVEiAWZqQM9) | [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek), [Sarah McMillan](https://open.spotify.com/artist/1taeI8pm5kXswB7L4603Tz) | [The Mercury Sessions](https://open.spotify.com/album/3DGN1gythJmDQUbRlbyKaf) | 4:01 |
-| 38 | [Bury Me](https://open.spotify.com/track/5wXM3N6mZVKY1KogR8aj8x) | [George Glew](https://open.spotify.com/artist/3841DHBEOAE2ksodVZkV7U) | [Bury Me](https://open.spotify.com/album/4TxEIUXckIIuvTT1UPCsKy) | 3:45 |
-| 39 | [Your Love Is Strong](https://open.spotify.com/track/5ZmzH1JqTrBJ9rckQXZVlY) | [Jon Foreman](https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq) | [Limbs & Branches](https://open.spotify.com/album/6i971rX8SB9Ad5IcpDRysI) | 5:09 |
+| 38 | [Bury Me](https://open.spotify.com/track/5Pndk42KyOEwH7NvAx1Ujy) | [George Glew](https://open.spotify.com/artist/3841DHBEOAE2ksodVZkV7U) | [Vol\. 1](https://open.spotify.com/album/6itb8h3Aaqsovi4beHCTo3) | 3:45 |
+| 39 | [Your Love Is Strong](https://open.spotify.com/track/2m6jBwOy7JJiGzKw62EAHV) | [Jon Foreman](https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq) | [Belief](https://open.spotify.com/album/1wkyXh7iVJgVcY1aYwDCSm) | 5:09 |
 | 40 | [Blinded By Your Grace, Pt\. 2 \(feat\. MNEK\)](https://open.spotify.com/track/0ihguwGVwKihJ1Nj8fGQlY) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Gang Signs & Prayer](https://open.spotify.com/album/5fkFWJ9LZizXE4yPenNGuy) | 3:50 |
 | 41 | [River](https://open.spotify.com/track/4B7iMBGmm5woNqs6Oj3GpT) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Mellow Summer](https://open.spotify.com/album/7rdNrR0gVmevOWDO0CO6Xl) | 3:58 |
 | 42 | [Only God Can Judge Me](https://open.spotify.com/track/1C6L5Lir4LeWhkPo722Rs0) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Zaytoven](https://open.spotify.com/artist/1mceaxtjWdEmwoDVAlkC41) | [Let the Trap Say Amen](https://open.spotify.com/album/1oDkUnjCBAHsaQtr0J0s3t) | 2:57 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIzeeN1t2Mn.md) - [plain]
 | 48 | [The Isle Of Arran](https://open.spotify.com/track/4CpmImAOOBaT46jz5qukCt) | [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [Best Of 2017 Hip Hop](https://open.spotify.com/album/0LpITwRJ2IlzdPLGZL7W2a) | 3:34 |
 | 49 | [Wings](https://open.spotify.com/track/1SEbQnQhi6zdChCiKUpQjB) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [A Curious Tale of Trials + Persons](https://open.spotify.com/album/4hXcI8zGSBClqEs72f0GGR) | 4:06 |
 
-Snapshot ID: `MTU5MjM5ODI3MCwwMDAwMDAwMGU0NDNmMTZjMDAyNGY0NDczZjNlODUzYTA3ODA0YTI3`
+Snapshot ID: `MTU5MjM5ODI3MCwwMDAwMDAwMGZlMzQzOTUwMzE3M2E4ZjU1ZGMzOTMzYWRkNWMzNTA3`

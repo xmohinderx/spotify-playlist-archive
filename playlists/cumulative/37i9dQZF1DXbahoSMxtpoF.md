@@ -4,13 +4,14 @@
 
 > Honoring the life and music of the <a href="spotify:artist:5xLSa7l4IV1gsQfhAMvl0U">blues giant</a>, 1925–2015.
 
-37 songs - 2 hr 49 min - [published](https://open.spotify.com/playlist/4hs8YNDpUeBYmSOihp2h0N)
+39 songs - 2 hr 57 min - [published](https://open.spotify.com/playlist/4hs8YNDpUeBYmSOihp2h0N)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Ain't Nobody Home](https://open.spotify.com/track/3hCIZ8sgJm5MUh7ulehPGX) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U), [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Deuces Wild](https://open.spotify.com/album/3fIftPnF4eb7gkg2lFS1TV) | 4:59 | 2017-06-05 |  |
 | [B\. B\. Boogie \- Take 1](https://open.spotify.com/track/1A3dOZb859JmEKvPCe4boT) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [The 1950\-1951 Modern Recordings](https://open.spotify.com/album/0kGAzQy52goC3pUxKJtmc1) | 3:12 | 2017-06-05 |  |
-| [Better Not Look Down](https://open.spotify.com/track/20VyHR0s9CdmSLM06I4Y48) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Take It Home](https://open.spotify.com/album/0Mzk6JoxPV6hE9sge7VMGS) | 3:22 | 2017-06-05 |  |
+| [Better Not Look Down](https://open.spotify.com/track/20VyHR0s9CdmSLM06I4Y48) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Take It Home](https://open.spotify.com/album/0Mzk6JoxPV6hE9sge7VMGS) | 3:22 | 2017-06-05 | 2022-11-12 |
+| [Better Not Look Down](https://open.spotify.com/track/24wQ4FIS2uSVo2CtZliEif) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Greatest Hits \(Reissue\)](https://open.spotify.com/album/69sbsm2ecADMQFCC3ZrJMP) | 3:22 | 2017-06-05 |  |
 | [Caldonia](https://open.spotify.com/track/24HcuZHAH017C5wp9Z4ziQ) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [In London](https://open.spotify.com/album/7t8bhkUdwrD4nsilxsaW78) | 3:58 | 2017-06-05 |  |
 | [Chains And Things](https://open.spotify.com/track/5x7Oxaa9EEIx9nw17CC5yW) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Indianola Mississippi Seeds](https://open.spotify.com/album/1NgGj5ECcDELHjoQRX2P1l) | 4:53 | 2017-06-05 | 2022-11-11 |
 | [Chains And Things](https://open.spotify.com/track/1sHyh8FH6gPU2B7ZRliJs9) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Gold](https://open.spotify.com/album/4dEjwPbRw2Z8ZHH9LMVyOD) | 4:53 | 2017-06-05 |  |
@@ -37,7 +38,8 @@
 | [Three O'clock Blues](https://open.spotify.com/track/1WeX8wcU8FDEZxWurJLU0r) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Singin' The Blues](https://open.spotify.com/album/0w6Gt4SUI5AduJvcXetxun) | 3:03 | 2017-06-05 |  |
 | [To Know You Is To Love You](https://open.spotify.com/track/4c0Mgs559lG4sPiEC3XcxY) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [To Know You Is To Love You](https://open.spotify.com/album/1ZpLpF64iCjoc0XVrO1sEl) | 8:35 | 2017-06-05 | 2022-11-11 |
 | [To Know You Is To Love You](https://open.spotify.com/track/6UHl925EKFaFWKzmYz0CMx) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [The Life Of Riley \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4xTMuGIOwzmtZwLKa8XwOw) | 8:38 | 2017-06-05 |  |
-| [When Love Comes To Town](https://open.spotify.com/track/6FuZyu29n5GukcBYjbbIHd) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Live At The Apollo](https://open.spotify.com/album/4IZaBHGc8iD7BYflgD0FOp) | 4:53 | 2017-06-05 |  |
+| [When Love Comes To Town](https://open.spotify.com/track/6FuZyu29n5GukcBYjbbIHd) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Live At The Apollo](https://open.spotify.com/album/4IZaBHGc8iD7BYflgD0FOp) | 4:53 | 2017-06-05 | 2022-11-12 |
+| [When Love Comes To Town \- Live At Apollo Theater, New York/1990](https://open.spotify.com/track/0tTNAm3ovef9VcEPlBPIah) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Rock n Roll Blues Bangers](https://open.spotify.com/album/2FzZewTkX8aX4UrifwMSac) | 4:53 | 2017-06-05 |  |
 | [When My Heart Beats Like a Hammer](https://open.spotify.com/track/44FnSZip0XhEBR3l7rPeJ1) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Riding with the King](https://open.spotify.com/album/7b0Ysbudh2BH9A853EfxEu) | 7:09 | 2017-06-05 |  |
 | [Why I Sing The Blues](https://open.spotify.com/track/2bIfM0ZOF4gxK1BeqH3Djm) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Live And Well](https://open.spotify.com/album/7jvyHnOBFvdGtskk6QmlEi) | 8:37 | 2017-06-05 | 2022-11-11 |
 | [Why I Sing The Blues](https://open.spotify.com/track/7Bkq72xL2W4zlPMtGt6RKg) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Why I Sing The Blues](https://open.spotify.com/album/1OTQOkeFJquVHw56swMNwv) | 8:38 | 2017-06-05 |  |

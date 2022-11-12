@@ -2,9 +2,9 @@
 
 ### [Enamorándose](https://open.spotify.com/playlist/37i9dQZF1DX14fkzxPABaL)
 
-> La música que te acompaña en el amor\. Foto: Reik + Rusherking
+> La música que te acompaña en el amor\. Foto: Pablo Alborán & Maria Becerra
 
-158 songs - 8 hr 43 min - [published](https://open.spotify.com/playlist/1AAjF0AYqsSQNvAOQluejC)
+161 songs - 8 hr 52 min - [published](https://open.spotify.com/playlist/1AAjF0AYqsSQNvAOQluejC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [Adiós](https://open.spotify.com/track/7JlkxvPt4HQSzr4XT5Plsl) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Adiós](https://open.spotify.com/album/4Ir9tMgz5BSmUYljvn6pR3) | 3:02 | 2022-01-14 |  |
 | [ADMV](https://open.spotify.com/track/3eJMSq78dDaFb7VvhNFnq6) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [ADMV](https://open.spotify.com/album/6wUJI0qgwrwiYJhFr53Gaa) | 3:13 | 2022-01-14 |  |
 | [Ahora](https://open.spotify.com/track/1K99rDEQIeW9M9FdHp2M5M) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Ahora](https://open.spotify.com/album/5ZR3yqdHl4rkEIKmCnGg2x) | 3:44 | 2022-01-14 |  |
-| [Ahora Sé](https://open.spotify.com/track/4Xn8A5LqK9p8wDDSG2gHiM) | [Sin Bandera](https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87) | [Ahora Sé](https://open.spotify.com/album/7c0oX5ymPQwBlgO9ETKrXx) | 3:40 | 2022-01-14 |  |
+| [Ahora Sé](https://open.spotify.com/track/4Xn8A5LqK9p8wDDSG2gHiM) | [Sin Bandera](https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87) | [Ahora Sé](https://open.spotify.com/album/7c0oX5ymPQwBlgO9ETKrXx) | 3:40 | 2022-01-14 | 2022-11-12 |
+| [Amigos \(con Maria Becerra\)](https://open.spotify.com/track/34tHZJLk0adg5tW49iybbE) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Amigos \(con Maria Becerra\)](https://open.spotify.com/album/3znR1F0VbgfKsDyTeC0Nt8) | 3:53 | 2022-11-11 |  |
 | [Amor de Febrero](https://open.spotify.com/track/5PTXXKeQxOospewN9hDXka) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Amor de Febrero](https://open.spotify.com/album/61dPnucldWCRBWSRiJwuc4) | 3:27 | 2022-01-14 |  |
 | [Amor en Coma](https://open.spotify.com/track/3RasiWohReHWYM1FJ9d1ZD) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Amor en Coma](https://open.spotify.com/album/0NHD8Het1Mqslp46azKDU2) | 3:19 | 2022-01-14 |  |
 | [Amor Ordinario](https://open.spotify.com/track/4WbKmrxCQ8gp8qEjyRpXtb) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [K.O.](https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK) | 3:10 | 2022-01-14 | 2022-07-16 |
@@ -46,6 +47,7 @@
 | [Cursi](https://open.spotify.com/track/2BJ1l2EOTZEiHnJdl2brlG) | [Yamila Ruiz](https://open.spotify.com/artist/3Mh1fBv8JR5AhW6INfwiTl) | [Cursi](https://open.spotify.com/album/0w2G1IC8jXzMtBn4Vzsi8M) | 3:13 | 2022-01-14 | 2022-05-07 |
 | [De Cero](https://open.spotify.com/track/1QOMoYQmiPJsxNemXcblen) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [De Cero](https://open.spotify.com/album/59JoFC5rgdnWP7wNGrcdAb) | 3:07 | 2022-01-14 | 2022-04-02 |
 | [De Vuelta Pa' La Vuelta](https://open.spotify.com/track/7AUhck1sPy11OExQmDDx4P) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [De Vuelta Pa' La Vuelta](https://open.spotify.com/album/1mFvOlraT4JKt4D7aGb9tc) | 3:51 | 2022-01-14 |  |
+| [Debí Suponerlo](https://open.spotify.com/track/2pIIRKRwWSi1Sb29VYLOOa) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [SI AYER FUERA HOY](https://open.spotify.com/album/1BUb9ayIoyy6T3iwMscDts) | 2:24 | 2022-11-11 |  |
 | [Dejarte Ir](https://open.spotify.com/track/0qFf9gJJXG5xSIBibnCuLL) | [Camilú](https://open.spotify.com/artist/305uX4OPy99KGVU2dhE2AF) | [Camilú](https://open.spotify.com/album/3lJ1bpSjYeuDTGBrKmRw2n) | 3:03 | 2022-01-14 |  |
 | [Dejaría Todo](https://open.spotify.com/track/1ZN2Dat0KrO0xqr9t8QP9r) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Déjà Vu](https://open.spotify.com/album/3gLXoSKX6H6l1ulUYZTYvz) | 3:08 | 2022-01-14 |  |
 | [Después De Ti](https://open.spotify.com/track/7Gyw1SoLPJE5x1yF1ogD5o) | [Alejandro Lerner](https://open.spotify.com/artist/6ESkuwldylZr39AIAPC63J), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [Después De Ti](https://open.spotify.com/album/5F5kLsabAGAACpCMxWS1D9) | 3:18 | 2022-05-20 |  |
@@ -129,7 +131,7 @@
 | [Refugio](https://open.spotify.com/track/5iGcOpA2ZVzmpi5gqjHQEA) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Refugio](https://open.spotify.com/album/0USsWJfpUn9FLFTy4TaImn) | 3:13 | 2022-04-01 |  |
 | [Salir Con Vida](https://open.spotify.com/track/5OX1JvE7gTkOd1DSzlrtFw) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Salir Con Vida](https://open.spotify.com/album/3mwKjQSJdQTY0ZdakLi0Vp) | 2:56 | 2022-10-28 |  |
 | [Saturno](https://open.spotify.com/track/2f0Ft2XdvNSMSY5TUlZgEz) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Prometo](https://open.spotify.com/album/4qtl6sl6iwC37wRM9lbssD) | 4:13 | 2022-01-14 |  |
-| [Se Nos Rompió El Amor](https://open.spotify.com/track/3JjjmUzjEdFdDiNyJdpDTT) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Se Nos Rompió El Amor](https://open.spotify.com/album/2bIohYt4kJM896h5LClSz4) | 2:34 | 2022-05-06 |  |
+| [Se Nos Rompió El Amor](https://open.spotify.com/track/3JjjmUzjEdFdDiNyJdpDTT) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Se Nos Rompió El Amor](https://open.spotify.com/album/2bIohYt4kJM896h5LClSz4) | 2:34 | 2022-05-06 | 2022-11-12 |
 | [Será](https://open.spotify.com/track/2DElz2QWtR8ME3VTXsOlWN) | [Llane](https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Será](https://open.spotify.com/album/0uLEkoSJkTWfAaVnEGlbja) | 3:02 | 2022-01-14 | 2022-07-30 |
 | [Si hubieras querido](https://open.spotify.com/track/0Q6Pc3dqsl6qHKZ91DPUTH) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Si hubieras querido](https://open.spotify.com/album/0mag3mrok9LV07L6nnACOt) | 3:41 | 2022-01-14 | 2022-04-02 |
 | [Si Me Dices Que Sí](https://open.spotify.com/track/56Ta1O7Jxxpjnc6cWdDKUo) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Si Me Dices Que Sí](https://open.spotify.com/album/2U2tXCZs8j0H4NEvhfe4zV) | 3:31 | 2022-01-14 |  |
@@ -144,6 +146,7 @@
 | [Tan Enamorados](https://open.spotify.com/track/4z9b9AbzCw32Azqg8uJ0B6) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Tan Enamorados](https://open.spotify.com/album/0GmPTq9AHYUmbelg8bVamu) | 2:59 | 2022-01-14 |  |
 | [Tanto Tiempo](https://open.spotify.com/track/4yf4uC5sUEDd5wmTmQ5TNl) | [Santiago Saez](https://open.spotify.com/artist/6cH6fFLynkDD94hGNqacHV) | [Tanto Tiempo](https://open.spotify.com/album/0NNubU1dSIvFt4xrm8qxCI) | 2:37 | 2022-01-14 | 2022-07-16 |
 | [Tarde](https://open.spotify.com/track/0lkwcRAUa1LnzBisyKtAqg) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Tarde](https://open.spotify.com/album/13cTtlvPu7FxZwSR1okLKi) | 3:06 | 2022-01-14 | 2022-04-06 |
+| [Te Echo de Menos](https://open.spotify.com/track/5e8muKs11JnVqyEBMsLYFg) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Te Echo de Menos](https://open.spotify.com/album/0HVcUL17jKyY4F8PqiUF8T) | 3:25 | 2022-11-11 |  |
 | [Te Necesito \(Live Acoustic\)](https://open.spotify.com/track/79uVK69HCjcVEKsVcl4DAB) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Te Necesito \(Live Acoustic\)](https://open.spotify.com/album/22HjtWbGDotQroRs9Wo3KH) | 3:15 | 2022-01-14 |  |
 | [Te Olvidaré](https://open.spotify.com/track/1z48NPFPNJEV4UAg83OFd2) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [TINI TINI TINI](https://open.spotify.com/album/16TT0OKoyEgD22nj70WUEi) | 3:14 | 2022-01-14 | 2022-07-23 |
 | [Te Quiero](https://open.spotify.com/track/67Rux9WNh2bIIK0Ub1prft) | [Jo Dimata](https://open.spotify.com/artist/5sTptBGZPv9RocQoROWhAp) | [Te Quiero](https://open.spotify.com/album/6zSxml88fNR8yHBztM0ZcQ) | 4:12 | 2022-05-20 | 2022-10-08 |
@@ -162,7 +165,7 @@
 | [Viaje a ningún lado \(con Carin Leon\)](https://open.spotify.com/track/2MqQtML6652d7oIgrdumKH) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Viaje a ningún lado \(con Carin Leon\)](https://open.spotify.com/album/1zsGPMjwq2tK1reGSPhmZ4) | 3:49 | 2022-10-14 |  |
 | [Vida de Rico](https://open.spotify.com/track/73nAK3HgQK8dak83Y2WQ8F) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Vida de Rico](https://open.spotify.com/album/0MmIH2uM4bUsF5VbEkCKzT) | 3:07 | 2022-01-14 | 2022-10-25 |
 | [Volare](https://open.spotify.com/track/6TCnhziFkBPhOTqvh8zVDU) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Volare](https://open.spotify.com/album/56qdykzNrRw4ls93MBNKZc) | 2:27 | 2022-07-15 |  |
-| [Ya No Quiero Verte](https://open.spotify.com/track/5lSbAT0W53MJJxWMIaPwRX) | [Emi D](https://open.spotify.com/artist/15pp37awp1rGZNWW58bgIJ) | [Ya No Quiero Verte](https://open.spotify.com/album/3ilyCEmGHqHFwMNqNN1RB2) | 3:02 | 2022-03-11 |  |
+| [Ya No Quiero Verte](https://open.spotify.com/track/5lSbAT0W53MJJxWMIaPwRX) | [Emi D](https://open.spotify.com/artist/15pp37awp1rGZNWW58bgIJ) | [Ya No Quiero Verte](https://open.spotify.com/album/3ilyCEmGHqHFwMNqNN1RB2) | 3:02 | 2022-03-11 | 2022-11-12 |
 | [Yo No Quiero Suerte](https://open.spotify.com/track/6cT1Y3M784gLrzxuKdf2WJ) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Sanz](https://open.spotify.com/album/0FZBhjDJOY7l3eQ1uswUR4) | 4:24 | 2022-01-14 |  |
 | [¿Para Qué Quieres Volver?](https://open.spotify.com/track/0DRB4J5qRJ4gNbJAuIEZwZ) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [¿Para Qué Quieres Volver?](https://open.spotify.com/album/1rByHoBuAPQcayS0fYEGul) | 3:07 | 2022-01-14 | 2022-04-02 |
 | [Índigo](https://open.spotify.com/track/4knc1Fp3kbuq8bH2byOvLu) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Índigo](https://open.spotify.com/album/1QtYnYj7SFX1EIqF6ALjaX) | 3:34 | 2022-01-14 |  |

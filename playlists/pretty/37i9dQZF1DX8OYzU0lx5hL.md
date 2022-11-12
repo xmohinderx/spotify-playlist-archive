@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OYzU0lx5hL.md) - [plain]
 
 > One of the finest <a href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">voices</a> we've ever known\. Now hear her greatest songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 387,668 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 387,904 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OYzU0lx5hL.md) - [plain]
 | 47 | [Tomorrow Is My Turn](https://open.spotify.com/track/3cfz4PB3iCqG12StNkKvRo) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [I Put A Spell On You](https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez) | 2:48 |
 | 48 | [Nobody Knows You When You're Down And Out](https://open.spotify.com/track/5yMRZqh2HCo5NFbLNt6sD1) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Pastel Blues](https://open.spotify.com/album/31pd81sWDaK2pP3ok5892z) | 2:38 |
 | 49 | [No Woman, No Cry \- Outtake](https://open.spotify.com/track/3SmTSujkbFtr7OKhHhheQi) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [A Single Woman \(Expanded\)](https://open.spotify.com/album/5pSGlGB1DVrSlvQBcvlPyB) | 3:15 |
-| 50 | [The Other Woman \- Live Version \- Sept\. 1959](https://open.spotify.com/track/2kvYMbijT2djq5C0MnMI6h) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [At Town Hall](https://open.spotify.com/album/1F0tyYLIIxNnJuAgwLuIIn) | 3:01 |
+| 50 | [The Other Woman \- Live In New York, 1964](https://open.spotify.com/track/3E40vFxUVm2RsfTOeZzYWF) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Spotlight on Nina Simone](https://open.spotify.com/album/6N4bEm9XVxGP3YdMwDjwoF) | 3:02 |
 
-Snapshot ID: `MTY2Njg1OTEzNiwwMDAwMDAwMDJhOTNkNGM1OWZiOGQ0OWNiMzZiOTJiYWQ5YmYzODQ2`
+Snapshot ID: `MTY2Njg1OTEzNiwwMDAwMDAwMDNmNjljNTFlODI1ODgyMmUzNzdiOGZhNWM2YWQ2ZjZl`

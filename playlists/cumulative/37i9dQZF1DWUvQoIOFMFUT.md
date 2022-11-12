@@ -4,7 +4,7 @@
 
 > Breathe deep and release that pressure.
 
-145 songs - 9 hr 2 min - [published](https://open.spotify.com/playlist/5GZxzvQkasDyP4drhgqZon)
+148 songs - 9 hr 15 min - [published](https://open.spotify.com/playlist/5GZxzvQkasDyP4drhgqZon)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,8 +32,9 @@
 | [Circles](https://open.spotify.com/track/5myZVX38UJW62XkDZR3N4u) | [WILDES](https://open.spotify.com/artist/0ypTT9UqAU5sZpPo5JZmjR) | [Circles](https://open.spotify.com/album/47NSsDlBHgoKAdNAYgQQ9F) | 4:18 | 2021-10-14 | 2022-11-11 |
 | [Circles](https://open.spotify.com/track/5zsUUcqFU7CggQrBHnKbYV) | [WILDES](https://open.spotify.com/artist/0ypTT9UqAU5sZpPo5JZmjR) | [Circles](https://open.spotify.com/album/3ZoiCRWnbxTaQfxuFmGBGi) | 4:18 | 2021-10-14 | 2022-10-15 |
 | [Crystal Eternal](https://open.spotify.com/track/5aLzzVmJAN56Ra5zyyvjcR) | [Deja Blu](https://open.spotify.com/artist/1vKMD4LElQSFvLcdqaA1EB) | [Crystal Eternal](https://open.spotify.com/album/5UTjzWDYPKvjdYO1RgVLMC) | 5:26 | 2021-10-14 |  |
+| [David](https://open.spotify.com/track/07QULx2fegQkAFzCxOAISy) | [NIGHT FLIGHT](https://open.spotify.com/artist/2nMtboATQpmDWebmKRsqpE) | [Up And Coming Groups](https://open.spotify.com/album/0GSB0dlJJpfvOseGwdvk1U) | 3:52 | 2021-10-14 |  |
 | [David](https://open.spotify.com/track/5M2MKjqD3N354s9fKFWzi4) | [NIGHT FLIGHT](https://open.spotify.com/artist/2nMtboATQpmDWebmKRsqpE) | [David](https://open.spotify.com/album/1Fl0WDWf50xNMMnAm8ob4j) | 3:52 | 2021-10-14 | 2022-07-29 |
-| [David](https://open.spotify.com/track/6LXSmPnZczqqzYqVFHupHW) | [NIGHT FLIGHT](https://open.spotify.com/artist/2nMtboATQpmDWebmKRsqpE) | [White Noise EP](https://open.spotify.com/album/2ogVdcADw5gMNtKuccLQRw) | 3:52 | 2021-10-14 |  |
+| [David](https://open.spotify.com/track/6LXSmPnZczqqzYqVFHupHW) | [NIGHT FLIGHT](https://open.spotify.com/artist/2nMtboATQpmDWebmKRsqpE) | [White Noise EP](https://open.spotify.com/album/2ogVdcADw5gMNtKuccLQRw) | 3:52 | 2021-10-14 | 2022-11-12 |
 | [Daylight](https://open.spotify.com/track/3z9c2RxbbBFwlfIwrBqHDl) | [Jome](https://open.spotify.com/artist/4rUMcxwZhidyj6FTbMSXse) | [Daylight](https://open.spotify.com/album/59SlpWaKaSinLa9qoeKiQr) | 2:43 | 2021-10-14 |  |
 | [Deep End](https://open.spotify.com/track/3DXEbjIftmPeBj638CxyJD) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Deep End](https://open.spotify.com/album/4nbcHRQuErLlToxQWa9eRc) | 2:51 | 2021-10-14 |  |
 | [Did You Know?](https://open.spotify.com/track/4ajhEvz68KJrN1xub1wmHN) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [The Sunday Walker EP](https://open.spotify.com/album/2jo4HUAOLOv3pZxt7dOrBc) | 3:30 | 2021-10-14 |  |
@@ -41,7 +42,8 @@
 | [Don't Forget About Me](https://open.spotify.com/track/5qUujOsbcVq8oo3ndNET6e) | [Alice Boman](https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt) | [Dream On](https://open.spotify.com/album/4EKA6cOPmM0VmjHigV03QH) | 3:06 | 2021-10-14 |  |
 | [Drowning In Dreams](https://open.spotify.com/track/6SekGxt9TDUnZX7LcOZeyB) | [Ed Harcourt](https://open.spotify.com/artist/5EOPLr73C9nIPYwVEAsiOY) | [Drowning In Dreams](https://open.spotify.com/album/5nQi4Ay9Ll58sCAuDY0Oi2) | 4:57 | 2021-10-14 |  |
 | [Dry Fantasy](https://open.spotify.com/track/2edpNYAydzfp4Avg4x2Zyh) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [Dry Fantasy](https://open.spotify.com/album/7gCgNBZb7InATNH8fE84V4) | 5:10 | 2021-10-14 | 2022-07-29 |
-| [Dry Fantasy](https://open.spotify.com/track/7lABwF6gabjOLifJFuAaKi) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [As The Love Continues](https://open.spotify.com/album/4LjNbxlMmWNn5Yky9bfxRm) | 5:10 | 2021-10-14 |  |
+| [Dry Fantasy](https://open.spotify.com/track/2oUXRX74mg3tByEamEIPIW) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [Ritchie Sacramento](https://open.spotify.com/album/7l4srAaJNA9IIQNBJj7eqA) | 5:10 | 2021-10-14 |  |
+| [Dry Fantasy](https://open.spotify.com/track/7lABwF6gabjOLifJFuAaKi) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [As The Love Continues](https://open.spotify.com/album/4LjNbxlMmWNn5Yky9bfxRm) | 5:10 | 2021-10-14 | 2022-11-12 |
 | [Eight](https://open.spotify.com/track/5T20empZEdKnAdIq26xtTA) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS), [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Eight](https://open.spotify.com/album/5R6BFu0xrBtlOXN8NR12c4) | 2:49 | 2021-10-14 |  |
 | [Ember](https://open.spotify.com/track/6dYcB7modGAixjXyjkk8Hn) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Ember](https://open.spotify.com/album/3pH3ulLQ0XIYNTEyrjV63f) | 2:40 | 2021-10-14 |  |
 | [Evaporate](https://open.spotify.com/track/0W0OvPCLT47F8FojLyzWM4) | [Dirty Dreamer](https://open.spotify.com/artist/5zoxiaLvLZspEXDf4nRStt) | [Evaporate](https://open.spotify.com/album/1ttNH67F2Yb1E9fMppcyDu) | 4:11 | 2021-10-14 |  |
@@ -117,7 +119,8 @@
 | [RC\-20](https://open.spotify.com/track/4D1lbXrMY3iNnTqmRlcN5t) | [ChiruP](https://open.spotify.com/artist/5vaqhKQFXVxNaLP5qXYjrs) | [RC\-20](https://open.spotify.com/album/6lcAWTaPj9p67z1uBPX2aS) | 3:24 | 2021-10-14 |  |
 | [Reculver](https://open.spotify.com/track/6rkBNzraDcu5xuOMPGM041) | [lotusbliss](https://open.spotify.com/artist/7KasCF2ZfqwGRglWxqPFne) | [Bittersweet](https://open.spotify.com/album/3vbgdxeQbajiKQGphj6nkR) | 4:28 | 2021-10-14 |  |
 | [Redeye](https://open.spotify.com/track/01IySCKQrafxHUaWgBAdJX) | [Richard Orofino](https://open.spotify.com/artist/3xXUZ2bPGudLudm2eBE7I0) | [Redeye](https://open.spotify.com/album/6liww6LJpYzlW5G0sGwT8P) | 3:51 | 2021-10-14 | 2022-07-29 |
-| [Redeye](https://open.spotify.com/track/0dOhHUYXDhNzKWtsvaNv3R) | [Richard Orofino](https://open.spotify.com/artist/3xXUZ2bPGudLudm2eBE7I0) | [Redeye](https://open.spotify.com/album/3bMCftnYUVKzKd1QuJUV4m) | 3:51 | 2021-10-14 |  |
+| [Redeye](https://open.spotify.com/track/0dOhHUYXDhNzKWtsvaNv3R) | [Richard Orofino](https://open.spotify.com/artist/3xXUZ2bPGudLudm2eBE7I0) | [Redeye](https://open.spotify.com/album/3bMCftnYUVKzKd1QuJUV4m) | 3:51 | 2021-10-14 | 2022-11-12 |
+| [Redeye](https://open.spotify.com/track/4JBAXwWUQEB2qVJFBmVAIu) | [Richard Orofino](https://open.spotify.com/artist/3xXUZ2bPGudLudm2eBE7I0) | [Bella Notte](https://open.spotify.com/album/0ewRutFrDWZee6M7KiyPRg) | 3:51 | 2021-10-14 |  |
 | [Shiloh](https://open.spotify.com/track/0sgYRasGsU85hoCMvFnYWO) | [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Shiloh](https://open.spotify.com/album/3JDi0dBUFke6XS30gSQx7r) | 3:17 | 2021-10-14 |  |
 | [Shiloh](https://open.spotify.com/track/6S2YNUnLEUUT4LejZE6WMM) | [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Shiloh](https://open.spotify.com/album/6BpvHghrcCtSKXe7rTYevD) | 3:17 | 2021-10-14 | 2022-07-29 |
 | [Sirens](https://open.spotify.com/track/1EVus1vgkvjSZ7AGXTjMbX) | [LORYN](https://open.spotify.com/artist/0ryyI8NGZJ4MLeRfwbkODZ) | [Sirens](https://open.spotify.com/album/2Hl1GmsR6cRLFmQUqpdPZ5) | 3:09 | 2021-10-14 |  |

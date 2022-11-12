@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvfORzIlDQm.md) - [plain]
 
 > A collection of roots music and covers urging peace and calling for change\. Cover: Tré Burt
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,677 likes - 54 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,685 likes - 54 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvfORzIlDQm.md) - [plain]
 | 10 | [American Flowers](https://open.spotify.com/track/1uSi1D1EzfqpEiA2cmdKbA) | [Birds of Chicago](https://open.spotify.com/artist/2nyv8yYjMSkvUr9OwEQhVf), [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6), [JT Nero](https://open.spotify.com/artist/4KggKI2drVc4UIotyrOcvQ) | [American Flowers](https://open.spotify.com/album/1ySjZoIQXVfB2d8NO1bvOk) | 6:10 |
 | 11 | [Brother, What Happened?](https://open.spotify.com/track/0KVF0f32xUa86fFPaqytwJ) | [Muddy Magnolias](https://open.spotify.com/artist/1t7mdRbvflM5966YVfyk1X) | [Broken People](https://open.spotify.com/album/3MIBce2g1BNk3mUuj10Ylr) | 4:34 |
 | 12 | [Astral Plane](https://open.spotify.com/track/1ISGSSgVnZhyiOGSI8itNa) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Order Of Time](https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k) | 3:38 |
-| 13 | [Strange Fruit](https://open.spotify.com/track/1iklCTpvEXh6NUiwBaAouo) | [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [Blackbirds](https://open.spotify.com/album/3gX2IvOKb8zxDJTTnyeLkf) | 4:14 |
+| 13 | [Strange Fruit](https://open.spotify.com/track/5QkfjUeOFUWNnZQkxcdFbp) | [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [專注爵選 Jazz for Work & Study](https://open.spotify.com/album/1gdOZL2MqhUTdiIfzoZ262) | 4:14 |
 | 14 | [Ohio](https://open.spotify.com/track/2wVrDSnhFnwy9SQLgP9Yiq) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Ohio](https://open.spotify.com/album/0GvYqatNTFDOB4qxoW27t2) | 4:52 |
 | 15 | [Seeds](https://open.spotify.com/track/1NijLAZEVZAvJGHE1RO9if) | [Rissi Palmer](https://open.spotify.com/artist/5M6DR8vZz7e0DZmIHKyjZQ) | [Revival](https://open.spotify.com/album/3ZeYPc2wcoSjM43wc9gdRO) | 3:08 |
 | 16 | [A Change Is Gonna Come](https://open.spotify.com/track/0FEqhGaxp8Gq5m2KvnunJU) | [Los Coast](https://open.spotify.com/artist/22L3FsvrXWoLLEUApoNfpr), [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [A Change Is Gonna Come](https://open.spotify.com/album/4fKOZdl2QP1TNTLbwhpXBp) | 3:23 |
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvfORzIlDQm.md) - [plain]
 | 35 | [Barley](https://open.spotify.com/track/0h7329EnhfoaUEu2sN8o1U) | [Birds of Chicago](https://open.spotify.com/artist/2nyv8yYjMSkvUr9OwEQhVf) | [Real Midnight](https://open.spotify.com/album/7mFltVGJpL7QSFfPAdWeMZ) | 3:04 |
 | 36 | [To the River](https://open.spotify.com/track/6RObl56H8PxTiLAn16VCdK) | [ALA.NI](https://open.spotify.com/artist/3BCNtA8XR8vzu0uTMdMJrF) | [You & I](https://open.spotify.com/album/7uSbBFPjRdHap3xlxiroxS) | 2:39 |
 | 37 | [New Colossus](https://open.spotify.com/track/462nbWwasi5npUIeT79CIx) | [Kaia Kater](https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm) | [Grenades](https://open.spotify.com/album/6Nqb3BPmH4xpzjqJs14W8a) | 4:26 |
-| 38 | [Mind on Fire](https://open.spotify.com/track/4LEdX9NFK0tVB5anrAIi1q) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Pendulum](https://open.spotify.com/album/64uKH4UnWHG6Ea960CSChE) | 3:14 |
+| 38 | [Mind on Fire](https://open.spotify.com/track/3n3PVJbIY4NVSkrxQUYD1X) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Mind on Fire](https://open.spotify.com/album/5trx5tQegiqMUs45EPPFNp) | 3:14 |
 | 39 | [Future People](https://open.spotify.com/track/2g2iRWlBoOVvvW0a8pbhRK) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color](https://open.spotify.com/album/0GaYG9L1sXHQZZ7BTk0hGY) | 3:21 |
 | 40 | [You Don't Own Me](https://open.spotify.com/track/1Bd7sGbg1JgKtvpmjy0WZk) | [Resistance Revival Chorus](https://open.spotify.com/artist/5GAZngXqtUrssaaExOGeT1) | [You Don't Own Me](https://open.spotify.com/album/5MD7r2LyPgi3orFYqshI6K) | 2:07 |
 | 41 | [River](https://open.spotify.com/track/4B7iMBGmm5woNqs6Oj3GpT) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Mellow Summer](https://open.spotify.com/album/7rdNrR0gVmevOWDO0CO6Xl) | 3:58 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvfORzIlDQm.md) - [plain]
 | 53 | [Woodstock](https://open.spotify.com/track/1cXOxrN1qDxgjDvqcJANKc) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Woodstock](https://open.spotify.com/album/6S2lVoBmDELDPVgMtETs1I) | 5:07 |
 | 54 | [Give The People What They Want](https://open.spotify.com/track/5GSVH5qhutFR5k95UMqzTg) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Give The People What They Want](https://open.spotify.com/album/3bKA19kc24Ro0wtEO0IlCg) | 3:45 |
 
-Snapshot ID: `MTY0NDI0NDU0MSwwMDAwMDAwMDYzODMxZTJhMWYzNTA2OGE5NTliNGJjMWYwMTRjNDY5`
+Snapshot ID: `MTY0NDI0NDU0MSwwMDAwMDAwMGI0NWJlMDBmOWNmOTdkYjVjYjI4MzUzODJiOTNhOWEz`

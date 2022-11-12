@@ -242,6 +242,24 @@
     },
     {
       "album": {
+        "name": "Blue Drizzling",
+        "url": "https://open.spotify.com/album/5Jsb727GVJfMCuvQKaMOGO"
+      },
+      "artists": [
+        {
+          "name": "Nami Sato",
+          "url": "https://open.spotify.com/artist/6e9uRUfWhvz2P3fI8EZGOb"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 496813,
+      "name": "Blue Drizzling",
+      "url": "https://open.spotify.com/track/2sMjaKpPoNabmStJizd2hw"
+    },
+    {
+      "album": {
         "name": "World Sketch Monologue",
         "url": "https://open.spotify.com/album/5n9ur47UO8zWyuhRo6zaj7"
       },
@@ -253,7 +271,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 496813,
       "name": "Blue Drizzling",
       "url": "https://open.spotify.com/track/3tePjDdzSunNH67I2dXY5F"
@@ -1821,6 +1839,24 @@
       "duration_ms": 307882,
       "name": "The buzz of the forest - Remaster",
       "url": "https://open.spotify.com/track/42a6hlKyKTHf9bqtP9C3kg"
+    },
+    {
+      "album": {
+        "name": "The Goldfish",
+        "url": "https://open.spotify.com/album/1lVOLpPJ69jxkeKcnQKaT7"
+      },
+      "artists": [
+        {
+          "name": "kita kouhei",
+          "url": "https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285600,
+      "name": "The Goldfish",
+      "url": "https://open.spotify.com/track/4ctQ2nQO1IqWsTE0tpXzWX"
     },
     {
       "album": {

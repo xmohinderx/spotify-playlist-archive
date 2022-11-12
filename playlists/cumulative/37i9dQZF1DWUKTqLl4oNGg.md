@@ -4,7 +4,7 @@
 
 > Above the city of Los Angeles, here are a few of the influential songs that echoed from the hills of Laurel Canyon in the 60s & 70s.
 
-72 songs - 4 hr 8 min - [published](https://open.spotify.com/playlist/3Rtd8cSKHPhlLrvluCR6Gh)
+74 songs - 4 hr 17 min - [published](https://open.spotify.com/playlist/3Rtd8cSKHPhlLrvluCR6Gh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [Doctor My Eyes](https://open.spotify.com/track/3QcuZo6WLcFkqqLmDs0d95) | [Jackson Browne](https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m) | [Jackson Browne \(Saturate Before Using\)](https://open.spotify.com/album/0n93YRc9GP3ZgREgTHvP5u) | 3:19 | 2019-12-05 |  |
 | [Down by the River \- 2009 Remaster](https://open.spotify.com/track/2EFtUP7BmsjHzhQqI6A4rp) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm), [Crazy Horse](https://open.spotify.com/artist/0oi7g8NUnlLh5tJvg2y5e3) | [Everybody Knows This Is Nowhere](https://open.spotify.com/album/70Yl2w1p00whfnC7fj94ox) | 9:18 | 2019-12-05 |  |
 | [Fire and Rain](https://open.spotify.com/track/3LcYYV9ozePfgYYmXv0P3r) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Sweet Baby James](https://open.spotify.com/album/2NEQ5Q4sBbUHVVx3Wf8TEZ) | 3:20 | 2019-12-05 | 2022-07-29 |
-| [Fire and Rain \- 2019 Remaster](https://open.spotify.com/track/1oht5GevPN9t1T3kG1m1GO) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Sweet Baby James \(2019 Remaster\)](https://open.spotify.com/album/1HiG0ukRmFPN13EVcf98Jx) | 3:23 | 2019-12-05 |  |
+| [Fire and Rain](https://open.spotify.com/track/6zgeog6feHU0gpFeG8UbGa) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Calming Ballads](https://open.spotify.com/album/4nGVLxjxJZcgw5f6I4hqi0) | 3:20 | 2019-12-05 |  |
+| [Fire and Rain \- 2019 Remaster](https://open.spotify.com/track/1oht5GevPN9t1T3kG1m1GO) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Sweet Baby James \(2019 Remaster\)](https://open.spotify.com/album/1HiG0ukRmFPN13EVcf98Jx) | 3:23 | 2019-12-05 | 2022-11-12 |
 | [For Everyman](https://open.spotify.com/track/2jMicsmWOmQtkLQGtV1R0I) | [Jackson Browne](https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m) | [For Everyman](https://open.spotify.com/album/12X80pgkHSjMDgAAS0HBdr) | 6:12 | 2019-12-05 |  |
 | [For What It's Worth](https://open.spotify.com/track/1qRA5BS78u3gME0loMl9AA) | [Buffalo Springfield](https://open.spotify.com/artist/3eskO5m0H4yiF64vRySBjr) | [Buffalo Springfield](https://open.spotify.com/album/3PkdGRruLnJ9zCtANiDrpB) | 2:33 | 2019-12-05 |  |
 | [Go Where You Wanna Go](https://open.spotify.com/track/78Piv35GAw7BI81hFi8EmB) | [The Mamas & The Papas](https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN) | [If You Can Believe Your Eyes & Ears](https://open.spotify.com/album/76oMr4Y2pOtcrvZLc2ZikF) | 2:29 | 2019-12-05 |  |
@@ -53,7 +54,8 @@
 | [Never My Love \- Remastered Version](https://open.spotify.com/track/32ssNweOtmacNBEC2kHzA8) | [The Association](https://open.spotify.com/artist/2kuNswDC82PL9xRbfaZJaS) | [Insight Out](https://open.spotify.com/album/1VsmbYW4XCdWje8ii0Yuta) | 3:07 | 2019-12-05 |  |
 | [No Matter What You Do \- Stereo Version](https://open.spotify.com/track/6FUcQ9eELm82iMfFfKRZXi) | [Love](https://open.spotify.com/artist/3Q6OOkfssqoMSTtl11J5Uk) | [Love](https://open.spotify.com/album/36UBSvMuqK8r7WYialQrLV) | 2:45 | 2019-12-05 |  |
 | [No Other](https://open.spotify.com/track/5neFHiejZX5OmTD5ZtJexC) | [Gene Clark](https://open.spotify.com/artist/040Bv6cZTRh30LyyYVXgJX) | [No Other](https://open.spotify.com/album/5pCs9qZgw8VCzahyfAgiio) | 5:08 | 2019-12-05 | 2022-07-29 |
-| [No Other](https://open.spotify.com/track/6gzhmgjSvFuwTLc6XyRv2Q) | [Gene Clark](https://open.spotify.com/artist/040Bv6cZTRh30LyyYVXgJX) | [No Other](https://open.spotify.com/album/0bHiuso3WXpchgSlfX48uY) | 5:08 | 2019-12-05 |  |
+| [No Other](https://open.spotify.com/track/6gzhmgjSvFuwTLc6XyRv2Q) | [Gene Clark](https://open.spotify.com/artist/040Bv6cZTRh30LyyYVXgJX) | [No Other](https://open.spotify.com/album/0bHiuso3WXpchgSlfX48uY) | 5:08 | 2019-12-05 | 2022-11-12 |
+| [No Other \- 2019 Remaster](https://open.spotify.com/track/0wmJ4RC5Cw0hCrc1HJfgIJ) | [Gene Clark](https://open.spotify.com/artist/040Bv6cZTRh30LyyYVXgJX) | [No Other \(Deluxe Edition\)](https://open.spotify.com/album/7DNPQByO5bZDo8Kdph5KOC) | 5:08 | 2019-12-05 |  |
 | [Our House](https://open.spotify.com/track/2hitsKa8SthKhRJBXUHbIv) | [Crosby, Stills, Nash & Young](https://open.spotify.com/artist/1CYsQCypByMVgnv17qsSbQ) | [Deja Vu](https://open.spotify.com/album/5bHkK1X4WEOzNvRhehvOcb) | 2:59 | 2019-12-05 |  |
 | [Out on the Weekend \- 2009 Remaster](https://open.spotify.com/track/7DqktFsRwJa0XDFPMjV1xJ) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm) | [Harvest \(2009 Remaster\)](https://open.spotify.com/album/2l3QxNo4QubBNmVKxLeum0) | 4:31 | 2019-12-05 |  |
 | [Peaches En Regalia](https://open.spotify.com/track/2OHgHf7E58OPmRk1vtvqSW) | [Frank Zappa](https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN) | [Autumn Jazz](https://open.spotify.com/album/6ueI6AlonRqr37d90fwYss) | 3:38 | 2019-12-05 |  |

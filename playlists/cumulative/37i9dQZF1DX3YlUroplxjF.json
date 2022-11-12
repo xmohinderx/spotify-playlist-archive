@@ -253,7 +253,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-26",
+      "date_removed": null,
       "duration_ms": 239349,
       "name": "Ain\u2019t No Thief",
       "url": "https://open.spotify.com/track/1jlXsrAy6N0xBTUbFkM1i0"
@@ -383,7 +383,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 245861,
       "name": "Alone In A Room",
       "url": "https://open.spotify.com/track/5Gw8owErJLfkNxWCSwPQKJ"
@@ -459,7 +459,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 216411,
       "name": "Antisocialist",
       "url": "https://open.spotify.com/track/0tB4qNEFxgtmXIOVbJyuz5"
@@ -589,7 +589,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 254722,
       "name": "Azure",
       "url": "https://open.spotify.com/track/0wPkG2Hq0PCnZpQFaPurfl"
@@ -4067,7 +4067,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 215053,
       "name": "NO WAY OUT",
       "url": "https://open.spotify.com/track/7oib44NmCMvGNWnDDJjv5C"
@@ -4309,6 +4309,24 @@
       "duration_ms": 205333,
       "name": "Overrated",
       "url": "https://open.spotify.com/track/4sgxBtQThrhZ9dkSYjLzb6"
+    },
+    {
+      "album": {
+        "name": "Distance",
+        "url": "https://open.spotify.com/album/5SyXDNKtQTzNiJ2aDQBPKA"
+      },
+      "artists": [
+        {
+          "name": "Boys of Fall",
+          "url": "https://open.spotify.com/artist/0ILEjQuglCTYQkTrKGQvj5"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194853,
+      "name": "Overthinking",
+      "url": "https://open.spotify.com/track/3zjAPGKHe0j92X8NYEW0jc"
     },
     {
       "album": {

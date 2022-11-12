@@ -4,7 +4,7 @@
 
 > A look back at some of the most impactful songs of 2017.
 
-130 songs - 8 hr 11 min - [published](https://open.spotify.com/playlist/3pXmTZBNpu2uGfP0OT5yh6)
+132 songs - 8 hr 18 min - [published](https://open.spotify.com/playlist/3pXmTZBNpu2uGfP0OT5yh6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [Don't Take The Money](https://open.spotify.com/track/0d3BJRrklQ6sTfbmrojuZI) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Don't Take The Money](https://open.spotify.com/album/6XVw1ysE3HyYF9T9axP33Y) | 3:35 | 2017-12-09 |  |
 | [Down To The Bottom](https://open.spotify.com/track/5jddjli3YTIxueb3xFdLaA) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [Down To The Bottom](https://open.spotify.com/album/6QRQuIulSyoqOlNGJGLkmG) | 2:32 | 2017-12-09 |  |
 | [Dream](https://open.spotify.com/track/6O3YFkyKCpBDb9uCrFohPf) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [Dream](https://open.spotify.com/album/2kP2L7f8uy8ztc6Xww1uW3) | 3:14 | 2017-12-09 | 2022-07-29 |
-| [Dream](https://open.spotify.com/track/3fHZJOvXmyHeFLFS1sDE30) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [Church Of Scars](https://open.spotify.com/album/1TTxcgs3zEngN0EB56yXzY) | 3:14 | 2017-12-09 |  |
+| [Dream](https://open.spotify.com/track/3fHZJOvXmyHeFLFS1sDE30) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [Church Of Scars](https://open.spotify.com/album/1TTxcgs3zEngN0EB56yXzY) | 3:14 | 2017-12-09 | 2022-11-12 |
+| [Dream](https://open.spotify.com/track/4pZtEXFILSE8tj60fxHr7y) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [2010s Pop For Kids](https://open.spotify.com/album/198WJuqXaIsy644vWJVHkW) | 3:14 | 2017-12-09 |  |
 | [Feel It Still](https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Woodstock](https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB) | 2:43 | 2017-12-09 |  |
 | [Feels Like Summer](https://open.spotify.com/track/2jz1bw1p0WQj0PDnVDP0uY) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Pacific Daydream](https://open.spotify.com/album/3EwfQtjvyRAXsPWAKO5FDP) | 3:15 | 2017-12-09 |  |
 | [For What It's Worth](https://open.spotify.com/track/5Ih40KFkj3cSzxgisQxBvX) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [As You Were \(Deluxe Edition\)](https://open.spotify.com/album/2V3WS9tlPYmscBNWHHYu9X) | 4:11 | 2017-12-09 |  |
@@ -115,7 +116,7 @@
 | [Sweat](https://open.spotify.com/track/398yyQgNK4gUDUONBlQOYa) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [Sweat](https://open.spotify.com/album/0QqrTxRtjqQmH5XyqwORlU) | 3:03 | 2017-12-09 |  |
 | [Sweet Disaster](https://open.spotify.com/track/7bEDDsy2LFC0KSqhZp5nPE) | [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A) | [This Album Does Not Exist](https://open.spotify.com/album/2dtruUPZ49oSh468hKErtf) | 3:25 | 2017-12-09 |  |
 | [Thank God I'm Not You](https://open.spotify.com/track/4YZVtRbdGOhHdGNi4JpCL5) | [Himalayas](https://open.spotify.com/artist/71NBOcJ9lMeXqnbnya1z0x) | [Thank God I'm Not You](https://open.spotify.com/album/78vmVv9bN0amzSiE1Fvzav) | 3:14 | 2017-12-09 | 2022-07-29 |
-| [Thank God I'm Not You](https://open.spotify.com/track/65cQN8pUC0dkKryUhEqJPh) | [Himalayas](https://open.spotify.com/artist/71NBOcJ9lMeXqnbnya1z0x) | [Thank God I'm Not You](https://open.spotify.com/album/0AnzrEVccYHdrlJd1G5Qpy) | 3:14 | 2017-12-09 |  |
+| [Thank God I'm Not You](https://open.spotify.com/track/65cQN8pUC0dkKryUhEqJPh) | [HIMALAYAS](https://open.spotify.com/artist/71NBOcJ9lMeXqnbnya1z0x) | [Thank God I'm Not You](https://open.spotify.com/album/0AnzrEVccYHdrlJd1G5Qpy) | 3:14 | 2017-12-09 |  |
 | [The Doomed](https://open.spotify.com/track/44OUZyiPnJc4pOZw4J6pid) | [A Perfect Circle](https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc) | [Eat The Elephant](https://open.spotify.com/album/3Jr1RhAyndBxtyi8rJs3Op) | 4:41 | 2017-12-09 |  |
 | [The Doomed](https://open.spotify.com/track/54RaEDwHbCJKMdDq68EyKE) | [A Perfect Circle](https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc) | [The Doomed](https://open.spotify.com/album/4uHOQCxpSE2W3U7uaTd6Mg) | 4:41 | 2017-12-09 | 2022-07-29 |
 | [The Man](https://open.spotify.com/track/5aWhs651KYM26HYM16kRdk) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Wonderful Wonderful](https://open.spotify.com/album/72ZfMxLCPG8mlWC0TXfZQi) | 4:10 | 2017-12-09 |  |
@@ -134,7 +135,8 @@
 | [Walk On Water](https://open.spotify.com/track/2x58hfSPTxHhWAKEf3H5ic) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [New Rock Hits](https://open.spotify.com/album/29A9CcxgHaM77ZpaikWGeG) | 3:05 | 2017-12-09 |  |
 | [Walk On Water](https://open.spotify.com/track/6FT9FZccFD6nE8dMNslz2n) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [AMERICA](https://open.spotify.com/album/0XcHdI2ZyNADjfvo5Ubs39) | 3:05 | 2017-12-09 | 2022-11-11 |
 | [Walk On Water](https://open.spotify.com/track/5UMD1Iz7yyVK8Q5FLsVt3q) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [Walk On Water](https://open.spotify.com/album/3PXrILqM1bJoj2EUhqs8X3) | 3:08 | 2017-12-09 | 2022-07-29 |
-| [We Fight](https://open.spotify.com/track/6hv6d8YnlBPuSnueUjxXny) | [Dashboard Confessional](https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY) | [Crooked Shadows](https://open.spotify.com/album/0qByP4IV1nNHhLs3RfDrGB) | 3:24 | 2017-12-09 |  |
+| [We Fight](https://open.spotify.com/track/6hv6d8YnlBPuSnueUjxXny) | [Dashboard Confessional](https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY) | [Crooked Shadows](https://open.spotify.com/album/0qByP4IV1nNHhLs3RfDrGB) | 3:24 | 2017-12-09 | 2022-11-12 |
+| [We Fight](https://open.spotify.com/track/1dRnPd62r767fM1ziGNI6L) | [Dashboard Confessional](https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY) | [The Best Ones of the Best Ones](https://open.spotify.com/album/4RV8fgalH0XgEMg4CWWDrw) | 3:24 | 2017-12-09 |  |
 | [We Fight](https://open.spotify.com/track/4vSGt6RC1GcfA07OGE3rcs) | [Dashboard Confessional](https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY) | [We Fight](https://open.spotify.com/album/0gTOUVU4gby3KApKH410ek) | 3:24 | 2017-12-09 | 2022-07-29 |
 | [What's Wrong](https://open.spotify.com/track/6U82eC2OHyiQM4Wr5Bejar) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [All We Know Of Heaven, All We Need Of Hell](https://open.spotify.com/album/0jLafOidtMogAbdIjOXXIe) | 4:58 | 2017-12-09 |  |
 | [Young Lady, You're Scaring Me](https://open.spotify.com/track/6PtIXICwmoxCgLjw2zApDs) | [Ron Gallo](https://open.spotify.com/artist/4rfE3kN2zKNC9L9tt3iVOg) | [HEAVY META](https://open.spotify.com/album/6w5N3oL83KiitLdFcCrzTj) | 3:40 | 2017-12-09 |  |

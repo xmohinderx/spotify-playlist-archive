@@ -4,7 +4,7 @@
 
 > Bonitas, orgullosas y empoderadas, así somos las señoras.
 
-158 songs - 10 hr 29 min - [published](https://open.spotify.com/playlist/5RQGt8XcW2ruWJf3X4E6Y2)
+159 songs - 10 hr 33 min - [published](https://open.spotify.com/playlist/5RQGt8XcW2ruWJf3X4E6Y2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Con los Ojos Cerrados](https://open.spotify.com/track/6DIt34Pm9LXZUfs4ap67fJ) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Me Siento Tan Sola](https://open.spotify.com/album/5WiTkNoR4lcdx3senhGDHR) | 3:30 | 2021-05-21 | 2022-07-29 |
 | [Corazón partío](https://open.spotify.com/track/0WlskmmuIGnHDYhHohSuGJ) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Coleccion definitiva \(Deluxe\)](https://open.spotify.com/album/2avjXzB9ndvLElhdXzKOBX) | 5:43 | 2022-05-10 | 2022-07-27 |
 | [Cosas del Amor \(with Vikki Carr\)](https://open.spotify.com/track/62tTi6L4X7jIaUNREaKlWj) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe), [Vikki Carr](https://open.spotify.com/artist/3tM3DTmG7ahfACzwqtazLD) | [Mis 30 Mejores Canciones](https://open.spotify.com/album/1iqZK3q4KcFFZlXo08gBKu) | 4:16 | 2021-05-21 | 2022-07-29 |
+| [Cosas del Amor \(with Vikki Carr\)](https://open.spotify.com/track/4BBJezanyqAj6rRC1fKIg4) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe), [Vikki Carr](https://open.spotify.com/artist/3tM3DTmG7ahfACzwqtazLD) | [Lo Esencial De Ana Gabriel](https://open.spotify.com/album/2bdaZKWu05LqbN8OwJtuPZ) | 4:17 | 2021-05-21 |  |
 | [Costumbres](https://open.spotify.com/track/28ANj8vuad6phtclxhmPYO) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Amor Eterno](https://open.spotify.com/album/0UuQzzrlyxMseEttP9hL3C) | 4:32 | 2021-05-21 | 2022-07-28 |
 | [Cruz de navajas](https://open.spotify.com/track/6VWWU8EFSS7Xx1TZ830Paz) | [Mecano](https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G) | [Entre el Cielo y el Suelo \(Bonus Tracks Edition\)](https://open.spotify.com/album/1D4CJeC3gIhwipRwVKihjy) | 5:02 | 2022-05-10 |  |
 | [Cómo Te Va Mi Amor](https://open.spotify.com/track/6Vy53iriyX8Vqx0V68Jzn2) | [Pandora](https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP) | [Locas Por La Música](https://open.spotify.com/album/5skXUuGQ0Pg7H07k6NywN5) | 3:42 | 2021-05-21 |  |
@@ -71,7 +72,7 @@
 | [Hacer El Amor Con Otro](https://open.spotify.com/track/1OB7cLxxCWA8gbbfjFNNej) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [Flor De Piel](https://open.spotify.com/album/4jVhCAGCEhQUyXrMD4owlU) | 4:43 | 2021-05-21 |  |
 | [Hasta Que Me Olvides](https://open.spotify.com/track/6vPAmoERUMRoTZaCCSWQ12) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Aries](https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC) | 4:41 | 2021-05-21 |  |
 | [Heridas](https://open.spotify.com/track/5KMiMU5PGgzKWPGjjoZSAI) | [Dulce](https://open.spotify.com/artist/6ZYIXbXuZWooEUSJlRtew2) | [Heridas](https://open.spotify.com/album/0j3c954NNObBbkkXvxTI6l) | 3:33 | 2021-05-21 | 2022-05-11 |
-| [Insensible A Ti \(Me Pone A Mil\)](https://open.spotify.com/track/6WP2v1QpghefM2iM4x5L4a) | [Alicia Villarreal](https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn) | [Orgullo De Mujer](https://open.spotify.com/album/4fbZPlF487LFDjYetlqmk3) | 4:03 | 2021-05-21 | 2022-07-27 |
+| [Insensible A Ti \(Me Pone A Mil\)](https://open.spotify.com/track/6WP2v1QpghefM2iM4x5L4a) | [Alicia Villarreal](https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn) | [Orgullo De Mujer](https://open.spotify.com/album/4fbZPlF487LFDjYetlqmk3) | 4:03 | 2021-05-21 |  |
 | [La Chica de Humo](https://open.spotify.com/track/0GZ8UVlhn2tjHPpngzoLJk) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Quisiera](https://open.spotify.com/album/3v2sq3JspM5Kny8Hz6ElyH) | 5:31 | 2022-05-10 |  |
 | [La Cosa Mas Bella](https://open.spotify.com/track/1EZypwk0xcj64ZLAglhLs2) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Donde Hay Música \(Spanish Version\)](https://open.spotify.com/album/49oNMRzQcMBCqiz03JOQqq) | 4:25 | 2022-05-10 |  |
 | [La Gata Bajo la Lluvia](https://open.spotify.com/track/2kfSFdq2h0xLXq01em1zc7) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Sus 16 Grandes Exitos](https://open.spotify.com/album/1QXxmsxolhkqiFtI1mpX4i) | 3:39 | 2021-05-21 |  |
@@ -93,7 +94,7 @@
 | [Me Dediqué a Perderte](https://open.spotify.com/track/0IYNtUIIdFeneIYwCP1zVO) | [Pandora](https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP) | [Más Pandora Que Nunca](https://open.spotify.com/album/7J8LJUlBFJxlCfRNJp6d6d) | 3:54 | 2021-05-21 | 2022-05-11 |
 | [Me equivoqué](https://open.spotify.com/track/0mjwigpuvO4IAAMtoNoUyQ) | [María José](https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs) | [María José](https://open.spotify.com/album/3ZYCIP3Z0UcypRrTLghQ4M) | 3:59 | 2021-05-21 |  |
 | [Me Siento Tan Sola](https://open.spotify.com/track/50VA65XjCfHjXzJeOMYfaa) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Me Siento Tan Sola](https://open.spotify.com/album/5WiTkNoR4lcdx3senhGDHR) | 4:01 | 2021-05-21 | 2022-07-28 |
-| [Me Va A Extranar](https://open.spotify.com/track/0RWbbc4NCcd33aU9tQnaZA) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Un Toque De Misterio](https://open.spotify.com/album/7xpuQcTsD5qYl4kOJkhVPi) | 4:17 | 2021-05-21 |  |
+| [Me Va A Extranar](https://open.spotify.com/track/0RWbbc4NCcd33aU9tQnaZA) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Un Toque De Misterio](https://open.spotify.com/album/7xpuQcTsD5qYl4kOJkhVPi) | 4:17 | 2021-05-21 | 2022-11-12 |
 | [Mentiras](https://open.spotify.com/track/0SeEBAaBmDPJmGmhub9SX7) | [Daniela Romo](https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y) | [Solo Lo Mejor: 20 Exitos](https://open.spotify.com/album/5L3DgJ6F7THYRV9mNTJxvD) | 3:56 | 2021-05-21 | 2022-07-29 |
 | [Mentiras](https://open.spotify.com/track/0FMxHUwc6l3ew3MC2kDKLJ) | [Lupita D'Alessio](https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en) | [Coleccion de Oro](https://open.spotify.com/album/7EeC2bxAGvdygHdAuzYVEf) | 4:10 | 2021-05-21 | 2022-05-25 |
 | [Mi Amor, Amor](https://open.spotify.com/track/52MtS8GblLs1yBVLjecSk1) | [Lucía Méndez](https://open.spotify.com/artist/4MbmeIi7C8qe1LboVhdaUN) | [Enamorada](https://open.spotify.com/album/53a626hUxhtVTAyaVSX2Qc) | 2:44 | 2021-05-21 | 2022-05-11 |
@@ -131,7 +132,7 @@
 | [Si la Ves \(feat\. Sin Bandera\)](https://open.spotify.com/track/7xVEvr9wPXLPU286pCfYM3) | [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu), [Sin Bandera](https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87) | [Stop](https://open.spotify.com/album/4BI3oXrWF0YvtWpfYWUxeX) | 4:08 | 2021-05-21 |  |
 | [Si Me Dejas Ahora](https://open.spotify.com/track/4Ffrs6kqh1cyNC1gdRWI38) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Si Me Dejas Ahora](https://open.spotify.com/album/67vQGGmJo6HWohZswCAnXc) | 4:32 | 2021-05-21 |  |
 | [Si Me Tenías](https://open.spotify.com/track/2wBhRmkGC098tLGo2dhWo2) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [Canto Por Ti](https://open.spotify.com/album/0FhBt22SV28wg41ecDy1RO) | 3:59 | 2021-05-21 |  |
-| [Si No Te Hubieras Ido](https://open.spotify.com/track/3l1ZanpJ3jFQZMqATizqfE) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [La Historia Continúa...Parte IV](https://open.spotify.com/album/6ziRoYI3rWu4TOAUeIJuNO) | 4:46 | 2022-05-10 |  |
+| [Si No Te Hubieras Ido](https://open.spotify.com/track/3l1ZanpJ3jFQZMqATizqfE) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [La Historia Continúa...Parte IV](https://open.spotify.com/album/6ziRoYI3rWu4TOAUeIJuNO) | 4:46 | 2022-05-10 | 2022-11-12 |
 | [Si No Te Hubieras Ido](https://open.spotify.com/track/62qI8m0sXpzlSjYYx0nZ83) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Trozos De Mi Alma](https://open.spotify.com/album/1WHFGlWrRILqkkd2LLflFn) | 4:47 | 2022-05-10 | 2022-07-29 |
 | [Si tú no vuelves](https://open.spotify.com/track/1YFBO31kSEYo1DVkjSj8LG) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Bajo El Signo De Caín](https://open.spotify.com/album/3TNVefBL4j3T9Cr7XU232u) | 4:38 | 2022-05-10 |  |
 | [Si Una Vez](https://open.spotify.com/track/3zLQtoEeXA6Lr1sNrbyYbs) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Amor Prohibido](https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E) | 2:47 | 2021-05-21 |  |

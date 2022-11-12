@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4oL1xd4OWmV.md) - [plain]
 
 > Nadie puede quedarse callado cuando estos clásicos suenan en la tribuna.
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,658 likes - 60 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,744 likes - 60 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,13 +23,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4oL1xd4OWmV.md) - [plain]
 | 13 | [Seven Nation Army](https://open.spotify.com/track/03OGe1S2a7i35BmuKbWaHk) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Seven Nation Army](https://open.spotify.com/album/2ntSwmOLAM0fMML87wtLKq) | 3:52 |
 | 14 | [I Was Made For Lovin' You](https://open.spotify.com/track/07q0QVgO56EorrSGHC48y3) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Dynasty](https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1) | 4:31 |
 | 15 | [Livin' On A Prayer](https://open.spotify.com/track/37ZJ0p5Jm13JPevGcx4SkF) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Slippery When Wet](https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t) | 4:09 |
-| 16 | [Iron Man \- 2012 \- Remaster](https://open.spotify.com/track/3IOQZRcEkplCXg6LofKqE9) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Paranoid \(Remaster\)](https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7) | 5:55 |
+| 16 | [Iron Man](https://open.spotify.com/track/4svkPL62HbvyFgf0nHFXAF) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [The Ultimate Collection](https://open.spotify.com/album/6TcPqftScGmR0aEgIb43Vv) | 5:54 |
 | 17 | [Psycho](https://open.spotify.com/track/383QXk8nb2YrARMUwDdjQS) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Drones](https://open.spotify.com/album/2wart5Qjnvx1fd7LPdQxgJ) | 5:16 |
 | 18 | [Can't Stop](https://open.spotify.com/track/4BcS4LomxUnQpzx4hCaJTs) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [By the Way](https://open.spotify.com/album/1jWKVgnHX8nwR551hQNx5K) | 4:29 |
-| 19 | [Jump Around \- 30 Years Remaster](https://open.spotify.com/track/7L93GESzq43UkKUt5FsOCq) | [House Of Pain](https://open.spotify.com/artist/0AuW7OCyKfFrsMbtHrYgIV) | [House of Pain \(Fine Malt Lyrics\) \[30 Years\] \[Deluxe Edition\]](https://open.spotify.com/album/1GYvmeraQXDxxSC9T3RDvM) | 3:38 |
+| 19 | [Jump Around](https://open.spotify.com/track/3DjB1HJod8AA35UBqrC95A) | [House Of Pain](https://open.spotify.com/artist/0AuW7OCyKfFrsMbtHrYgIV) | [Turbo \(Music From The Motion Picture\)](https://open.spotify.com/album/57oY3i5cyOsr4JsBidlAoh) | 3:39 |
 | 20 | [Reptilia](https://open.spotify.com/track/57Xjny5yNzAcsxnusKmAfA) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Room On Fire](https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh) | 3:39 |
 | 21 | [War Pigs / Luke's Wall \- 2012 \- Remaster](https://open.spotify.com/track/3b5Hry6E3lTtJ10eE5F3UL) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Complete Studio Albums 1970 \- 1978](https://open.spotify.com/album/0B3iKYQdQ3M1WrSeWig1Ay) | 7:53 |
-| 22 | [Master of Puppets \(Remastered\)](https://open.spotify.com/track/54bm2e3tk8cliUz3VSdCPZ) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Master of Puppets \(Remastered Deluxe Box Set\)](https://open.spotify.com/album/7CGhx630DIjdJqaBDVKc5j) | 8:35 |
+| 22 | [Master of Puppets](https://open.spotify.com/track/799XxzSlWNYkuWJxUbuGnF) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Stranger Things: Soundtrack from the Netflix Series, Season 4](https://open.spotify.com/album/3Tij2oa4FJWd7Gk0pJaf0w) | 8:34 |
 | 23 | [Are You Gonna Be My Girl](https://open.spotify.com/track/305WCRhhS10XUcH6AEwZk6) | [Jet](https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI) | [Get Born](https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg) | 3:33 |
 | 24 | [Howlin' for You](https://open.spotify.com/track/0grFc6klR3hxoHLcgCYsF4) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers](https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v) | 3:11 |
 | 25 | [Like a Stone](https://open.spotify.com/track/3YuaBvuZqcwN3CEAyyoaei) | [Audioslave](https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn) | [Audioslave](https://open.spotify.com/album/78guAsers0klWl6RwzgDLd) | 4:53 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4oL1xd4OWmV.md) - [plain]
 | 41 | [It's My Life](https://open.spotify.com/track/0v1XpBHnsbkCn7iJ9Ucr1l) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Crush](https://open.spotify.com/album/0Q9SljCrM0CL0bR23MuP69) | 3:44 |
 | 42 | [Back In Black](https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Back In Black](https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh) | 4:15 |
 | 43 | [Separate Ways \(Worlds Apart\)](https://open.spotify.com/track/4ECNtOnqzxutZkXP4TE3n3) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Frontiers](https://open.spotify.com/album/2EFUNYmwxe0AOGxBORrfaw) | 5:23 |
-| 44 | [Take Me Out](https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Franz Ferdinand](https://open.spotify.com/album/0vi5ePiEHrGZJF7QhnDW2z) | 3:57 |
+| 44 | [Take Me Out](https://open.spotify.com/track/30980KluJ3BlKbKUx7LPZR) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Hits To The Head](https://open.spotify.com/album/1NKpK2wzsNlIf59OvO2RVb) | 3:59 |
 | 45 | [Somebody Told Me](https://open.spotify.com/track/2oWdng9n3DF45F9vjHW0vw) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Skater Head](https://open.spotify.com/album/2S74SV29dhkiWtYZZ83PHr) | 3:20 |
 | 46 | [Song 2 \- 2012 Remaster](https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur \(Special Edition\)](https://open.spotify.com/album/7HvIrSkKGJCzd8AKyjTJ6Q) | 2:01 |
 | 47 | [Sabotage](https://open.spotify.com/track/3EyyhPW2GcLYuwV1MajRd6) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [Ill Communication](https://open.spotify.com/album/290eTJ15EAYJa3JomDWyhh) | 2:58 |
 | 48 | [Rock And Roll All Nite](https://open.spotify.com/track/6KTv0Z8BmVqM7DPxbGzpVC) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Dressed To Kill](https://open.spotify.com/album/1YCC4oZXg2zGn7pVSKVlGF) | 2:48 |
-| 49 | [No One Knows](https://open.spotify.com/track/6NvRxjfYkkT2SpirAlmsjH) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Songs For The Deaf](https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk) | 4:38 |
+| 49 | [No One Knows](https://open.spotify.com/track/5WOKM16QJ4ZTVZx4pr63dR) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [00's Hits](https://open.spotify.com/album/6hz9EMJcTYZguDMozXNBnj) | 4:38 |
 | 50 | [Here I Go Again \- Radio Mix](https://open.spotify.com/track/4PG2AM138hnLljarieZJD9) | [Whitesnake](https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP) | [British Metal](https://open.spotify.com/album/5antyCnG7DhrP2ZMo7R0XJ) | 3:52 |
 | 51 | [Panama](https://open.spotify.com/track/42Lq6GBO5KUSNeSgJsOoke) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [Best of Volume 1](https://open.spotify.com/album/7ndqT6LH9o6YQ5uA7aT0St) | 3:32 |
 | 52 | [Welcome To The Jungle](https://open.spotify.com/track/0G21yYKMZoHa30cYVi1iA8) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction](https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW) | 4:33 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4oL1xd4OWmV.md) - [plain]
 | 59 | [Highway Tune](https://open.spotify.com/track/0GkKtO9yXrnV2WYlP93lwq) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [This Is Rock Music](https://open.spotify.com/album/6ylXupauSn6vzijMaGc5kK) | 3:00 |
 | 60 | [Whiplash \(Remastered\)](https://open.spotify.com/track/0c7TUi67lKsso6WAKpOVzu) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Kill 'Em All \(Deluxe Remaster\)](https://open.spotify.com/album/7GttoSWxEi5lZvIWeSrh6n) | 4:08 |
 
-Snapshot ID: `MTY2Njk4MDYxNCwwMDAwMDAwMDg1ZjA4MmI3YThhYTM2Y2FjMzRiMTIwZGU4YjJlODY2`
+Snapshot ID: `MTY2Njk4MDYxNCwwMDAwMDAwMDlhYTQ2MDFjOGQ0NDZlYzhhNjg1NDhlOTRjMWU5ZWMy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXauOWFg72pbl.md) - [plain]
 
 > Cold beer\. Hot wings\. Great rock.
 
-[Spotify](https://open.spotify.com/user/spotify) - 530,689 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 530,842 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXauOWFg72pbl.md) - [plain]
 | 12 | [Joker And The Thief](https://open.spotify.com/track/7ISL3LO8AWP3fKIXunvqTa) | [Wolfmother](https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4) | [Wolfmother](https://open.spotify.com/album/5ywynDHLHT3l8QSu41TcmC) | 4:40 |
 | 13 | [Song 2](https://open.spotify.com/track/0YZLy2PSpOA7Nw2Yg0Hfxa) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [The Best Of](https://open.spotify.com/album/1fGFAIzXyLi3fVGQwZ1VNT) | 2:01 |
 | 14 | [Sex on Fire](https://open.spotify.com/track/0ntQJM78wzOLVeCUAW7Y45) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Only By The Night](https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp) | 3:23 |
-| 15 | [Highway Tune](https://open.spotify.com/track/7aOor99o8NNLZYElOXlBG1) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [From The Fires](https://open.spotify.com/album/6uSnHSIBGKUiW1uKQLYZ7w) | 3:00 |
+| 15 | [Highway Tune](https://open.spotify.com/track/0GkKtO9yXrnV2WYlP93lwq) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [This Is Rock Music](https://open.spotify.com/album/6ylXupauSn6vzijMaGc5kK) | 3:00 |
 | 16 | [Black Summer](https://open.spotify.com/track/3a94TbZOxhkI9xuNwYL53b) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Black Summer](https://open.spotify.com/album/4a6LkeTXHKjMQgf42wQnbH) | 3:52 |
 | 17 | [How High](https://open.spotify.com/track/0UqNIatgH3yQrJwqajOM2G) | [The Record Company](https://open.spotify.com/artist/6vYg01ZFt1nREsUDMDPUYX) | [Play Loud](https://open.spotify.com/album/4OAf7UEfzLBKjnoWIFkALk) | 3:12 |
 | 18 | [Rest In Peace](https://open.spotify.com/track/2PZ5teF9vepeL2Qq7dkd59) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [Gifts From The Holy Ghost](https://open.spotify.com/album/258YZ2TUzI1SJBU626eYFc) | 3:37 |
@@ -61,9 +61,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXauOWFg72pbl.md) - [plain]
 | 51 | [Coming For You](https://open.spotify.com/track/0FLmCEO4OccwwiHxveEpt1) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Let The Bad Times Roll \(Deluxe Edition\)](https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm) | 3:48 |
 | 52 | [Legendary](https://open.spotify.com/track/2bDENJyfbxj0neGiXUFvIX) | [Welshly Arms](https://open.spotify.com/artist/1xKrH6GSh9CJh8nYwbqW7B) | [No Place Is Home](https://open.spotify.com/album/4UXg0K9s6iGFntzsrYDdWF) | 3:52 |
 | 53 | [Be Legendary](https://open.spotify.com/track/3pOMQhSSzx6IZ96kMef6i1) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Pop Evil](https://open.spotify.com/album/5F9U13GyT071nXmYf13VI9) | 3:23 |
-| 54 | [hometown](https://open.spotify.com/track/6p8DGrcAUBuLUgDIKcUn0P) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [hometown](https://open.spotify.com/album/3vYwarsz5qWMYHL3B9b5ni) | 4:16 |
+| 54 | [hometown](https://open.spotify.com/track/66fqQMyrd72d6MOP1X0VcY) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [the boys](https://open.spotify.com/album/7fnpUcZ2WQa8fZpp5iCbTo) | 4:16 |
 | 55 | [Lo/Hi](https://open.spotify.com/track/25YlltWXRb9k7KbrEBRuhJ) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | ["Let's Rock"](https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg) | 2:57 |
-| 56 | [Bright Lights](https://open.spotify.com/track/7aO35V27YDi4hKOL9odSya) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Blak and Blu \(Deluxe Edition\)](https://open.spotify.com/album/0YaeFHEYGpdzdFIxDRFvCv) | 5:24 |
+| 56 | [Bright Lights](https://open.spotify.com/track/5HDMKAgLEPOEazIXo6YavF) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Rock's Not Dead](https://open.spotify.com/album/09ecrfUpZHKVXqm1ZZkBFV) | 5:24 |
 | 57 | [Oh No](https://open.spotify.com/track/6rF4s1wwsOa2EZF5MF6D3B) | [Goodbye June](https://open.spotify.com/artist/1l9I7G8J8AnMScWQwlNJ4M) | [Magic Valley](https://open.spotify.com/album/4GQp1LbFHcJVkS9M5HUzAL) | 3:41 |
 | 58 | [My Name Is Human](https://open.spotify.com/track/1euszbbvkUzQzIhZUWFmXG) | [Highly Suspect](https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg) | [The Boy Who Died Wolf](https://open.spotify.com/album/3TC40H9dIJArFzy0rWnWCg) | 4:18 |
 | 59 | [Apple Pie](https://open.spotify.com/track/7x7WyzZjrXd1oruLCcTnhw) | [Rafferty](https://open.spotify.com/artist/37Kwz8lKQipujhPpz9Q5cQ) | [Apple Pie](https://open.spotify.com/album/56ILDsDKcf17LunTaJFUR2) | 2:59 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXauOWFg72pbl.md) - [plain]
 | 99 | [Even Flow](https://open.spotify.com/track/6QewNVIDKdSl8Y3ycuHIei) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Ten](https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a) | 4:52 |
 | 100 | [Bullet With Butterfly Wings](https://open.spotify.com/track/5zAaUaXEvjP4LApQOFpVfj) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [90s Best Hits](https://open.spotify.com/album/7a39rtr7TyCtzSnWRb3OIt) | 4:17 |
 
-Snapshot ID: `MTY2NzgzMjE2OSwwMDAwMDAwMGQ5ZGZlNDQwMzgwNTQ5NThiNDNmZGYwZDAzZjY3MWRk`
+Snapshot ID: `MTY2NzgzMjE2OSwwMDAwMDAwMDVlMGU0OTNmMDVkNWEyN2I3MzM3M2M3Zjg3YzQ2YzJi`

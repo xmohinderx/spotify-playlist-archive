@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5e4G40ZHZd6.md) - [plain]
 
 > The very best Blues out of the heart of Northern Mississippi\. Cover: R.L\. Burnside
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,776 likes - 49 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,792 likes - 49 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5e4G40ZHZd6.md) - [plain]
 | 28 | [Good Morning Little Schoolgirl](https://open.spotify.com/track/2LtpyfWWnr5V96l3Js7LLX) | [Mississippi Fred McDowell](https://open.spotify.com/artist/0elA30wLp3RmiPaGtU2jhQ) | [Good Morning Little School Girl](https://open.spotify.com/album/3yYBnIVUvJrM6a0z8HNHOl) | 3:21 |
 | 29 | [Let My Baby Ride](https://open.spotify.com/track/7tokOMPzSHbLJVZh8an2Nq) | [R.L\. Burnside](https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip) | [Come on In](https://open.spotify.com/album/6QyepVbPWpjsQZAEgqmDsJ) | 3:00 |
 | 30 | [We Made It](https://open.spotify.com/track/4tYceKEtQBXxRQfLxuDRYb) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [Benton County Relic](https://open.spotify.com/album/6N2kgU28H4AZWrsnw8IVeu) | 3:34 |
-| 31 | [Don't Let The Devil Ride](https://open.spotify.com/track/5ZwVWdXaJSMnqduVaDXKrn) | [Leo "Bud" Welch](https://open.spotify.com/artist/5UWSCmjMiTImIru9iAvNFd) | [The Angels In Heaven Done Signed My Name](https://open.spotify.com/album/1NJxrv2i8o2eOuRHS6kRxa) | 2:45 |
+| 31 | [Don't Let The Devil Ride](https://open.spotify.com/track/5FAyOBPm74r9Sr53YeeO4g) | [Leo "Bud" Welch](https://open.spotify.com/artist/5UWSCmjMiTImIru9iAvNFd) | [Don't Let The Devil Ride](https://open.spotify.com/album/0gvbQM86z3R4wvGsCRKUY0) | 2:45 |
 | 32 | [Catfish Blues, No\. 3 \(Take 2\)](https://open.spotify.com/track/2VOhiaWNPoLsFTdlhTQyNX) | [Asie Payton](https://open.spotify.com/artist/6ufKm1SiYNIca3hTeRtx0t) | [Blues At Home 13](https://open.spotify.com/album/5HUleHoFAd5xXhslNKk7jU) | 3:48 |
 | 33 | [Pushin' My Luck](https://open.spotify.com/track/6PXCbASGuI05iojK5OCFzw) | [Robert Belfour](https://open.spotify.com/artist/288ptwBqLrqmD6Z2622eLp) | [Pushin' My Luck](https://open.spotify.com/album/2OqzphBQOCs7tLWyRO5FSZ) | 4:34 |
 | 34 | [Before You Accuse Me](https://open.spotify.com/track/669jAiOOlVEcgd40e0C38J) | [Odell Harris](https://open.spotify.com/artist/2MoiG04KmkSy5bxlHccS0F) | [Searching for Odell Harris](https://open.spotify.com/album/3MZWvdJEpIUHFLfJJN8OGk) | 3:51 |
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5e4G40ZHZd6.md) - [plain]
 | 37 | [Big Momma's Door \(Might Return\)](https://open.spotify.com/track/7G2CbHjdnkR9woozKKGceD) | [Alvin Youngblood Hart](https://open.spotify.com/artist/1pmIo6ASaJG24wmYoyxjwG) | [Motivational Speaker](https://open.spotify.com/album/7AJJXxJIYOUkMZzYY0xXOO) | 5:46 |
 | 38 | [Poor Boy](https://open.spotify.com/track/1nzveWJmAph2OKfG26rW3j) | [R.L\. Burnside](https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip) | [A Ass Pocket of Whiskey](https://open.spotify.com/album/6bBWWTnN4B4wwGJpWlZFkW) | 3:38 |
 | 39 | [She\-Wolf](https://open.spotify.com/track/5hY2dAzOUZYyOncGFtHove) | [Jessie Mae Hemphill](https://open.spotify.com/artist/75bUlG7zJQWJkRqESmNWsW) | [She\-Wolf](https://open.spotify.com/album/7rDuDANyPXjzFRw87JMZex) | 4:41 |
-| 40 | [Levee Camp Blues](https://open.spotify.com/track/2w2qoVTeh5uDOKy1pLMmTp) | [Mississippi Fred McDowell](https://open.spotify.com/artist/0elA30wLp3RmiPaGtU2jhQ) | [This Ain't No Rock n' Roll](https://open.spotify.com/album/3Y9ZhOXORSmzayPHuyLAFl) | 5:34 |
+| 40 | [Levee Camp Blues](https://open.spotify.com/track/2KjU7RHXVbDN5xsWGVMZjt) | [Mississippi Fred McDowell](https://open.spotify.com/artist/0elA30wLp3RmiPaGtU2jhQ) | [The Best of Mississippi Fred Mcdowell](https://open.spotify.com/album/7eFEq28tRcPVgjTpWEfH2c) | 5:35 |
 | 41 | [Pucker up Buttercup](https://open.spotify.com/track/1n9PirIPFn4PfFLlFHgUrb) | [Paul Jones](https://open.spotify.com/artist/2kCeJxw09P9O0PrLkNA1qR) | [Pucker up Buttercup](https://open.spotify.com/album/4KRW6RxxEKTxCPfvs1CeiR) | 3:53 |
 | 42 | [Poor Boy a Long Way From Home](https://open.spotify.com/track/3YZFMK3zwAGbCMZQGWY47J) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Delta Kream](https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki) | 4:08 |
 | 43 | [Fireman Ring the Bell](https://open.spotify.com/track/3p0EUhkUeCNrBIZwkjmeYe) | [R.L\. Burnside](https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip) | [Acoustic Stories](https://open.spotify.com/album/6UKvwsK0lc0UcUwNFxEEbr) | 2:52 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5e4G40ZHZd6.md) - [plain]
 | 48 | [Step In](https://open.spotify.com/track/3RI449DPz5BeY9927KWYlH) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [Step In](https://open.spotify.com/album/0VhKwExkg99sIQA9xwBCbD) | 2:35 |
 | 49 | [Crawlin' King Snake](https://open.spotify.com/track/10f8sVNPeHvrtTeWm0lGGv) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [King Of The Boogie](https://open.spotify.com/album/397nqvmmvM4MhJwL3Opf9F) | 3:01 |
 
-Snapshot ID: `MTYyNDU0NDM4MywwMDAwMDAwMGMzZDkxMTI1MjZlNTYwYTJmNzRjYmRhMTUwNTg3MTYz`
+Snapshot ID: `MTYyNDU0NDM4MywwMDAwMDAwMGNmNzBhNzk4MGYwNzUyYmM5NDExZWQ4YTk5OTQzY2U1`

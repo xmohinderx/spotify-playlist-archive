@@ -9,6 +9,24 @@
     {
       "album": {
         "name": "James Brown's Funky People",
+        "url": "https://open.spotify.com/album/7IRjn4x7FRNkv5ezdFbr1Y"
+      },
+      "artists": [
+        {
+          "name": "Fred Wesley & The New J.B.'s",
+          "url": "https://open.spotify.com/artist/363q9Bb7a5LcF9sCjgNDVq"
+        }
+      ],
+      "date_added": "2018-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245653,
+      "name": "(It's Not The Express) It's The JB's Monaurail",
+      "url": "https://open.spotify.com/track/4NHaLROytZf2xIXP5ESJCe"
+    },
+    {
+      "album": {
+        "name": "James Brown's Funky People",
         "url": "https://open.spotify.com/album/5FNifXgW28BA8kHiujO3Iu"
       },
       "artists": [
@@ -37,7 +55,7 @@
       ],
       "date_added": "2018-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 244866,
       "name": "(It's Not The Express) It's The JB's Monaurail - Pt. 1",
       "url": "https://open.spotify.com/track/5C6HAoJeo1fI7t9d71bj3E"
@@ -347,7 +365,7 @@
       ],
       "date_added": "2018-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 428222,
       "name": "As",
       "url": "https://open.spotify.com/track/13toFl1UwJPsRxDiD9jgtn"
@@ -387,6 +405,24 @@
       "duration_ms": 428222,
       "name": "As",
       "url": "https://open.spotify.com/track/3xrqE1ZGbvWHpsxnOPc8g4"
+    },
+    {
+      "album": {
+        "name": "Smooth Flow",
+        "url": "https://open.spotify.com/album/4swZj8OzjVVE3466K3BgWT"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2018-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 428222,
+      "name": "As",
+      "url": "https://open.spotify.com/track/4AYJYYJkbhZx2jhS7gciKH"
     },
     {
       "album": {
@@ -491,10 +527,28 @@
       ],
       "date_added": "2018-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 186093,
       "name": "Back Stabbers",
       "url": "https://open.spotify.com/track/0KpMY3D2G8253VTZbDBUmA"
+    },
+    {
+      "album": {
+        "name": "Ain't No Stoppin' Us Now: 50 Years of P.I.R.",
+        "url": "https://open.spotify.com/album/3GBrRUMKcWG1noKGeW2LLc"
+      },
+      "artists": [
+        {
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+        }
+      ],
+      "date_added": "2018-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187493,
+      "name": "Back Stabbers",
+      "url": "https://open.spotify.com/track/1yULEYmWbYO6ja0pmvrGAc"
     },
     {
       "album": {
@@ -1274,6 +1328,28 @@
     },
     {
       "album": {
+        "name": "Cosmic Funk & Spiritual Sounds: The Flying Dutchman Masters",
+        "url": "https://open.spotify.com/album/1CUwa0UkrTa7wye8qHXVkt"
+      },
+      "artists": [
+        {
+          "name": "Lonnie Liston Smith",
+          "url": "https://open.spotify.com/artist/2hdpXvaQJHBCZIVUd6cLvK"
+        },
+        {
+          "name": "The Cosmic Echoes",
+          "url": "https://open.spotify.com/artist/1FoHP9nats6BdxFSE3b1sb"
+        }
+      ],
+      "date_added": "2018-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365600,
+      "name": "Expansions",
+      "url": "https://open.spotify.com/track/3hlBOJWMSPYRMH9idLhN9y"
+    },
+    {
+      "album": {
         "name": "Expansions",
         "url": "https://open.spotify.com/album/7p96a8I3q2MRN5Ely3WiVm"
       },
@@ -1289,7 +1365,7 @@
       ],
       "date_added": "2018-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 366866,
       "name": "Expansions",
       "url": "https://open.spotify.com/track/1DoWUjcc5sqpRioFPioogU"
@@ -1761,10 +1837,28 @@
       ],
       "date_added": "2018-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 187560,
       "name": "Gimme Some More",
       "url": "https://open.spotify.com/track/1NXyoATCYylbjSDFe8FHbJ"
+    },
+    {
+      "album": {
+        "name": "Rhythm & Soul",
+        "url": "https://open.spotify.com/album/2qMyc9t5cpcQTmhq05a7Cp"
+      },
+      "artists": [
+        {
+          "name": "The J.B.'s",
+          "url": "https://open.spotify.com/artist/4lJHGi5dlJmWwFH0JKF6di"
+        }
+      ],
+      "date_added": "2018-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183453,
+      "name": "Gimme Some More - Single Version",
+      "url": "https://open.spotify.com/track/5sjV5SrFiG1tdGKe1ixd9R"
     },
     {
       "album": {
@@ -4607,10 +4701,32 @@
       ],
       "date_added": "2018-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 432963,
       "name": "Spies Are Watching Me",
       "url": "https://open.spotify.com/track/1UIqpCB0b56K7U0JJPfskN"
+    },
+    {
+      "album": {
+        "name": "Spies Are Watching Me & Le Disco Des Capitales",
+        "url": "https://open.spotify.com/album/07KrIyViEIfGIFolhQFlXk"
+      },
+      "artists": [
+        {
+          "name": "Voilaaa",
+          "url": "https://open.spotify.com/artist/6MQoRoLtsUg7Fzi5nJGmC1"
+        },
+        {
+          "name": "Sir Jean",
+          "url": "https://open.spotify.com/artist/4SkHS4kCrdABhw4KLVrOz0"
+        }
+      ],
+      "date_added": "2018-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 432963,
+      "name": "Spies Are Watching Me",
+      "url": "https://open.spotify.com/track/4DGOSWxnbofYkFctpIzoPQ"
     },
     {
       "album": {
@@ -4853,10 +4969,28 @@
       ],
       "date_added": "2018-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 614426,
       "name": "Stone To The Bone",
       "url": "https://open.spotify.com/track/4vlYqr4IxzIKNl718kxszR"
+    },
+    {
+      "album": {
+        "name": "Super Bad Funk Vol. 4",
+        "url": "https://open.spotify.com/album/783f9UXnhicoUe0jxhNOUM"
+      },
+      "artists": [
+        {
+          "name": "James Brown",
+          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+        }
+      ],
+      "date_added": "2018-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 614426,
+      "name": "Stone To The Bone - Single Version",
+      "url": "https://open.spotify.com/track/2EkmQM1SxUH7pzFYSOUKjj"
     },
     {
       "album": {
@@ -5192,6 +5326,28 @@
     },
     {
       "album": {
+        "name": "Collectors' Item",
+        "url": "https://open.spotify.com/album/1vwY34TADAqrRwfHoa0xzV"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        },
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "date_added": "2018-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381093,
+      "name": "The Love I Lost (feat. Teddy Pendergrass)",
+      "url": "https://open.spotify.com/track/2lVYcVskw2ZgVogwOuv8sG"
+    },
+    {
+      "album": {
         "name": "Black & Blue (Expanded Edition) (feat. Teddy Pendergrass)",
         "url": "https://open.spotify.com/album/13qcPLh0uGE0jlskyLLa1N"
       },
@@ -5207,7 +5363,7 @@
       ],
       "date_added": "2018-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 384613,
       "name": "The Love I Lost (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/4mumFsUDQXpQts1Y7Zjw5H"
@@ -5936,6 +6092,24 @@
     },
     {
       "album": {
+        "name": "70s Disco Dance",
+        "url": "https://open.spotify.com/album/6NEEJ65FEx7Y8cm74mCkxn"
+      },
+      "artists": [
+        {
+          "name": "Rick James",
+          "url": "https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL"
+        }
+      ],
+      "date_added": "2018-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 595520,
+      "name": "You And I - Extended M+M Mix",
+      "url": "https://open.spotify.com/track/0GBN4POdqoApbwba1Vhmww"
+    },
+    {
+      "album": {
         "name": "Come Get It! (Expanded Edition)",
         "url": "https://open.spotify.com/album/3fRI3fAHalHqqnKsW5btnP"
       },
@@ -5947,7 +6121,7 @@
       ],
       "date_added": "2018-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 595520,
       "name": "You And I - Extended M+M Mix",
       "url": "https://open.spotify.com/track/3pNFl9UJAMlFXCGnkBZoDz"

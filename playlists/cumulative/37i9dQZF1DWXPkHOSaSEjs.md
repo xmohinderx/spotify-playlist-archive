@@ -4,7 +4,7 @@
 
 > La mejor energía con los éxitos de Los Pericos.
 
-66 songs - 4 hr 4 min - [published](https://open.spotify.com/playlist/5e3F0pC6AEk532eUmbXbz8)
+67 songs - 4 hr 8 min - [published](https://open.spotify.com/playlist/5e3F0pC6AEk532eUmbXbz8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [Bajo El Mismo Cielo](https://open.spotify.com/track/6hfvDIxS8Bs48zhNso3ni1) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Original Masters](https://open.spotify.com/album/5aGLZiyhur5ThPT5E5az9k) | 4:20 | 2021-11-26 |  |
 | [Bajo El Mismo Cielo](https://open.spotify.com/track/3YsXiYPaM5jCcFMeOlySAf) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Big Yuyo](https://open.spotify.com/album/2zABqsniagHwdKt0x6qgSi) | 4:22 | 2021-11-26 | 2022-07-29 |
 | [Boulevard \- Live](https://open.spotify.com/track/0a7DgM90xUXYZCgArsEIuA) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [1000 Vivos](https://open.spotify.com/album/5wqv1v2PMphDkY5b7ASoPR) | 4:13 | 2021-11-26 |  |
-| [Caliente](https://open.spotify.com/track/2y5cE5IR8Yd7So3tKhdIMC) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Ritual De Los Pericos](https://open.spotify.com/album/0BLRRSjs02ejUyDDIfYRSb) | 3:36 | 2021-11-26 |  |
+| [Caliente](https://open.spotify.com/track/2y5cE5IR8Yd7So3tKhdIMC) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Ritual De Los Pericos](https://open.spotify.com/album/0BLRRSjs02ejUyDDIfYRSb) | 3:36 | 2021-11-26 | 2022-11-12 |
+| [Caliente](https://open.spotify.com/track/2dlfocK9N6cGiBQb7TzOif) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Yo Se Que Te Acordaras \(Pop Vol\. 2\)](https://open.spotify.com/album/72wGQWQ6276wiNaCGIW3r1) | 3:36 | 2021-11-26 |  |
 | [Caliente](https://open.spotify.com/track/7k9655GBLcnaQq1w2ak29r) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Yerba Buena](https://open.spotify.com/album/2ZgriRd8pxsaWfQjZRM9Mb) | 3:36 | 2021-11-26 | 2022-07-29 |
 | [Casi Nunca Lo Ves](https://open.spotify.com/track/52BkhQFJHT4Ri4cRhfjqmk) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR), [Herbert Vianna](https://open.spotify.com/artist/1I3wpGfguTwQmBLtqw2H7A) | [Pericos & Friends \(Extended\)](https://open.spotify.com/album/4IIfIS47aChs97w8hrgCcY) | 4:25 | 2021-11-26 |  |
 | [Complicado Y Aturdido](https://open.spotify.com/track/7g57YDkjFrNecn0sbXN3GI) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Desde Cero](https://open.spotify.com/album/7dbBLrH3VJ3zrKHkL6vtUa) | 3:48 | 2021-11-26 |  |

@@ -4,7 +4,7 @@
 
 > Unforgettable love songs from the 1950s.
 
-76 songs - 3 hr 37 min - [published](https://open.spotify.com/playlist/4ZjJlkSxHJnoI3jnaOXFJU)
+78 songs - 3 hr 42 min - [published](https://open.spotify.com/playlist/4ZjJlkSxHJnoI3jnaOXFJU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,12 +77,14 @@
 | [When I Fall In Love](https://open.spotify.com/track/6bZf2VcN25Hu7jcLNkc5NC) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Ultimate Collection](https://open.spotify.com/album/0X60d06UrpWTMaLwMPd4Od) | 3:11 | 2022-01-10 | 2022-07-29 |
 | [When I Fall In Love \- Remastered 2004](https://open.spotify.com/track/1TUy1TUNg3pvsCp5ZWmJhm) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The World Of Nat King Cole \(Expanded Edition\)](https://open.spotify.com/album/1z5Ut9gopzeYwM7QsseZtP) | 3:10 | 2022-01-10 |  |
 | [Why Do I Love You So](https://open.spotify.com/track/406RedcyUEOwpVQSM1cpsh) | [Johnny Tillotson](https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794) | [Johnny Tillotson's Best](https://open.spotify.com/album/6GLTTJoBUOBz34zOYq0MjA) | 2:05 | 2022-01-10 | 2022-07-29 |
-| [Why Do I Love You So \- 1960 \#42 Billboard chart hit](https://open.spotify.com/track/2hh6RGmBNTGB7fi62fYgUL) | [Johnny Tillotson](https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794) | [Johnny Tillotson's Best](https://open.spotify.com/album/23FZ6dkeF3N8cAfVqzggFR) | 2:07 | 2022-01-10 |  |
+| [Why Do I Love You So](https://open.spotify.com/track/0gdXfNQIVEErhmcwDx47vt) | [Johnny Tillotson](https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794) | [Greatest Hits \- Original Recordings](https://open.spotify.com/album/2Kn6hQVXiF0tmSA42L52xI) | 2:07 | 2022-01-10 |  |
+| [Why Do I Love You So \- 1960 \#42 Billboard chart hit](https://open.spotify.com/track/2hh6RGmBNTGB7fi62fYgUL) | [Johnny Tillotson](https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794) | [Johnny Tillotson's Best](https://open.spotify.com/album/23FZ6dkeF3N8cAfVqzggFR) | 2:07 | 2022-01-10 | 2022-11-12 |
 | [Witchcraft](https://open.spotify.com/track/3BTsv0FthgmDwyKlYShwJF) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Frank Sinatra: The Complete Capitol Singles Collection](https://open.spotify.com/album/7LbB7SuX3op2Xa9FvteJeB) | 2:53 | 2022-01-10 |  |
 | [Words Of Love](https://open.spotify.com/track/3U9Kkv90QElks0pzIgfAxw) | [Buddy Holly](https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D) | [Buddy Holly](https://open.spotify.com/album/4Qy0SOU9Jg7Td10K68SanP) | 1:57 | 2022-01-10 |  |
 | [You Are My One Desire](https://open.spotify.com/track/4Ypc4CISFdkHHbOrrKQtrn) | [Buddy Holly](https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D) | [That'll Be The Day](https://open.spotify.com/album/0KHc3cD7pAOAieo9lPWXkY) | 2:25 | 2022-01-10 |  |
 | [You Belong To Me](https://open.spotify.com/track/3xZe0jFAwc3akvChOrPS7u) | [Jo Stafford](https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw) | [The Magic Of Jo Stafford](https://open.spotify.com/album/1kLGKgc8o8F3Kd4dgti9ka) | 3:12 | 2022-01-10 | 2022-07-29 |
-| [You Belong To Me](https://open.spotify.com/track/2NDMLabAjx4oL7ezx2PNxS) | [Jo Stafford](https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw) | [The Ultimate](https://open.spotify.com/album/7FAu65eXZrds9zcezKtYhl) | 3:13 | 2022-01-10 |  |
+| [You Belong To Me](https://open.spotify.com/track/2NDMLabAjx4oL7ezx2PNxS) | [Jo Stafford](https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw) | [The Ultimate](https://open.spotify.com/album/7FAu65eXZrds9zcezKtYhl) | 3:13 | 2022-01-10 | 2022-11-12 |
+| [You Belong To Me](https://open.spotify.com/track/11COx3sEyCmYqBqaZQqHR2) | [Jo Stafford](https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw) | [50s Nostalgia](https://open.spotify.com/album/1cSO2NyIj1DPyMJE86YCc7) | 3:14 | 2022-01-10 |  |
 | [You Mean Everything to Me](https://open.spotify.com/track/18YPNs20cBfgqkY8YCJlOH) | [Neil Sedaka](https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL) | [Rock with Sedaka \(Expanded Edition\)](https://open.spotify.com/album/1Ue6n39wDCfKyy4IBOuPqO) | 2:37 | 2022-01-10 |  |
 
 \*This playlist was first scraped on 2022-01-21. Prior content cannot be recovered.

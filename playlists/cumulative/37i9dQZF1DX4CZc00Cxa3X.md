@@ -4,7 +4,7 @@
 
 > Inspired by Listening Bars around the world, a finely chosen selection of Ambient to create your very own.
 
-154 songs - 12 hr 44 min - [published](https://open.spotify.com/playlist/5A1SI2B6RgO6SGlWTiXlLb)
+155 songs - 12 hr 46 min - [published](https://open.spotify.com/playlist/5A1SI2B6RgO6SGlWTiXlLb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,7 +149,7 @@
 | [Undone](https://open.spotify.com/track/0BqU3lLOYW0OLRpNhvKDUC) | [Deaf Center](https://open.spotify.com/artist/0GQJRlsTD8irKEDcClYiiA) | [Low Distance](https://open.spotify.com/album/7eA7lexsBpvgs17la5jRc0) | 2:36 | 2022-07-01 |  |
 | [Unfolding \(feat\. Goldmund\)](https://open.spotify.com/track/3TY0bVEJuSw1m80A9g6i9N) | [Hollie Kenniff](https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS), [Goldmund](https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw) | [The Quiet Drift](https://open.spotify.com/album/07tYs3VgPhfY8sUe097xAo) | 2:57 | 2022-03-17 | 2022-07-29 |
 | [Upstream](https://open.spotify.com/track/3dAQ9qpxPkRg3U5stdog6i) | [Halftribe](https://open.spotify.com/artist/6t1kXxXcRynbhVozYNKIUb), [awakened souls](https://open.spotify.com/artist/0rZWhvBtGN1KqVD7mKnwUU) | [Upstream](https://open.spotify.com/album/6ckbxqv6WBX9MbmkaC3axo) | 3:31 | 2022-03-17 |  |
-| [Upward Swimming Fish](https://open.spotify.com/track/5z4mF8QSQRsABywXxYrLUB) | [Patricia Wolf](https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T) | [See\-Through](https://open.spotify.com/album/0fPwWqb47D2PPObYoAzVBF) | 3:12 | 2022-05-25 |  |
+| [Upward Swimming Fish](https://open.spotify.com/track/5z4mF8QSQRsABywXxYrLUB) | [Patricia Wolf](https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T) | [See\-Through](https://open.spotify.com/album/0fPwWqb47D2PPObYoAzVBF) | 3:12 | 2022-05-25 | 2022-11-12 |
 | [Vanir \- Endless Melancholy Rework](https://open.spotify.com/track/2V4D7nvTxdd0LGW58sVp18) | [Matt Tondut](https://open.spotify.com/artist/1dscULdwo1wKG8QtoNgDZX), [Javi Lobe](https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT), [Endless Melancholy](https://open.spotify.com/artist/7hYVnkmEfs0BP27MvYAFEw) | [The Fallout](https://open.spotify.com/album/4tRQM2yaKGtDHqZmE1ayzP) | 3:54 | 2022-03-17 |  |
 | [Waiting For The Wind To Blow](https://open.spotify.com/track/65Pr81qX8J7GuxIIlJHak1) | [Sachi Kobayashi](https://open.spotify.com/artist/7qYpCU93Ep6tVZTOJyg8bT) | [More Than Just A Dream](https://open.spotify.com/album/6u8pXIHQWiMsPjFxdLQkuJ) | 5:34 | 2022-03-17 | 2022-10-15 |
 | [Wake](https://open.spotify.com/track/4M1hruYTFKjnNnJKcZpVp1) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [O Woods / Wake](https://open.spotify.com/album/1voNqheGLAG4jd34kt38FS) | 2:12 | 2022-03-17 |  |
@@ -158,6 +158,7 @@
 | [where thoughts fade](https://open.spotify.com/track/7zEnnB85gJjC2ZRjTRkXlH) | [awakened souls](https://open.spotify.com/artist/0rZWhvBtGN1KqVD7mKnwUU) | [night songs](https://open.spotify.com/album/4HgM0Ms4FM24xEEpgZDWSO) | 6:06 | 2022-08-17 |  |
 | [Wild Violet](https://open.spotify.com/track/3BjmShZfoFt4INhXp9a7Xk) | [Ilyas Ahmed](https://open.spotify.com/artist/0GQ41PAPwwmrEv0DJzpTI3) | [Behold Killers](https://open.spotify.com/album/5CCHGN6Hr0YvYWo2l0JyXI) | 8:56 | 2022-03-30 | 2022-04-21 |
 | [winter fingertips](https://open.spotify.com/track/6gJAiEEQ21ayJHERPL0qYJ) | [monosleep](https://open.spotify.com/artist/2rHHKIugCALDXcAaYryNCt) | [a world of possibility](https://open.spotify.com/album/6w6EdQV1km9T25x209Q4sx) | 6:32 | 2022-06-17 |  |
+| [wistful](https://open.spotify.com/track/3MRsE4kOIhk4FNTTwu3X6w) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X), [james king](https://open.spotify.com/artist/4YFBzXjMSL5zHMlUDyocli) | [wistful](https://open.spotify.com/album/0CIzRlVNXg18ThmbWglFtu) | 2:37 | 2022-11-11 |  |
 | [XI](https://open.spotify.com/track/6XjpafgvNltjXJzvnPIauV) | [Hiroshi Ebina](https://open.spotify.com/artist/6oMHfG0yqLOcbPn4abPFIx), [IDRA](https://open.spotify.com/artist/2hESzaxeYE9Iecec5TwYCH) | [Circle](https://open.spotify.com/album/5KMGm1fqywv05tCAJKjWwe) | 4:27 | 2022-07-08 | 2022-07-28 |
 | [Zero Gravity](https://open.spotify.com/track/4tfaUHGYBCMliBaOHM5vHX) | [Rippling](https://open.spotify.com/artist/4TqiKIyB4xErPAwK4oynTG), [CONNXCT](https://open.spotify.com/artist/0KxtmUPKJe0Rz1TWFaSb4B), [William Cas](https://open.spotify.com/artist/0HT4Y9hhNdkrCEE2tKokzO) | [Zero Gravity](https://open.spotify.com/album/7E8OVvnwnsAAhyiYrrRBox) | 2:39 | 2022-05-06 |  |
 | [Zkoumání duše, Pt\. 2](https://open.spotify.com/track/7fbJJEWelteCwXXACq98ZC) | [Relaxační Hudební Zóna](https://open.spotify.com/artist/7j40NtGJmeq7zorchjvy22), [Relaxační Zvuky](https://open.spotify.com/artist/3jgrS4bj9w1isq1WOAmj7z) | [Zkoumání duše](https://open.spotify.com/album/4gokAFXPBSeCmpL6aJnFz3) | 1:42 | 2022-05-25 | 2022-07-28 |

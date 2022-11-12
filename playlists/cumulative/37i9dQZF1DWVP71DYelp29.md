@@ -4,7 +4,7 @@
 
 > The hits you know like you’ve never heard before\.  Cover: Harry Styles.
 
-155 songs - 9 hr 17 min - [published](https://open.spotify.com/playlist/4vwHHoNBJiy53B2sRKKvPz)
+156 songs - 9 hr 20 min - [published](https://open.spotify.com/playlist/4vwHHoNBJiy53B2sRKKvPz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Congratulations \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/69yDe1giM1sJutQkhFfNZL) | [Hey Violet](https://open.spotify.com/artist/4JNfz6aO9ZFz0gp5GY88am) | [Spotify Singles](https://open.spotify.com/album/0GfdUmTzDZX5TB1HH9cb7Z) | 3:13 | 2021-09-08 |  |
 | [cool girl \- Recorded at Spotify Studios, NYC / 2016](https://open.spotify.com/track/6Cpcf5MKT7O04wlSJ7EixQ) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Spotify Singles](https://open.spotify.com/album/6FOhbAW6X74onlLJOTNIjD) | 3:24 | 2021-09-08 |  |
 | [Creep](https://open.spotify.com/track/056LTDaNpFigGkeN5q8H57) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic) | [Creep \(mint Singles\)](https://open.spotify.com/album/5naSz7p9D3O9y4lkbj7OUz) | 2:41 | 2022-05-27 | 2022-11-11 |
+| [Creep](https://open.spotify.com/track/3nW81vy2T6n7864jjPB2aQ) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic) | [Creep \(mint Singles\)](https://open.spotify.com/album/5PdK5CUy51Jrhr1Z2jxZ79) | 2:41 | 2022-05-27 |  |
 | [Creep \- mint Singles](https://open.spotify.com/track/5LRxdeykOfvKb1aWGrrGyo) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic) | [Creep \(mint Singles\)](https://open.spotify.com/album/31LEjqDdP0TyZgiuse84cf) | 2:41 | 2021-09-08 | 2022-11-02 |
 | [Cry For You \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0w1Dln7VMjPDCNIIQLidgg) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Spotify Singles](https://open.spotify.com/album/6qw9KkJXWqVlQFTQwZdo5P) | 3:01 | 2021-09-08 | 2022-07-29 |
 | [Cry For You \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3XpryMvmOzzlLfqAq8WLN2) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Spotify Singles](https://open.spotify.com/album/0YppXqlu9VxA7tFteqmjMn) | 3:01 | 2022-05-27 |  |
@@ -114,7 +115,7 @@
 | [Rhythm Inside \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/5YsocYoe3DGrh3EBJb5gTU) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Spotify Singles](https://open.spotify.com/album/567rqOb89dfo0lvj72Esnp) | 3:46 | 2021-09-08 |  |
 | [Ride \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5pKJwIFF2FVHAV2DCYzjHh) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Spotify Singles](https://open.spotify.com/album/4HKJv2TGDJlUektNzVgFzQ) | 3:29 | 2021-09-08 |  |
 | [Rockabye \(feat\. Anne\-Marie\) \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2pGC8RQhmhFbZ6Fl5olWHZ) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Spotify Singles](https://open.spotify.com/album/4dEgr3LeNOQIsT8MGgeBTz) | 3:45 | 2021-09-08 |  |
-| [Rockstar \- Recorded At Abbey Road Studios, London](https://open.spotify.com/track/5D6Z7Iof3v5QRbaW2LquoN) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Spotify Singles](https://open.spotify.com/album/2bOO36ZGSYDuXj27cdnxKE) | 3:57 | 2021-09-08 |  |
+| [Rockstar \- Recorded At Abbey Road Studios, London](https://open.spotify.com/track/5D6Z7Iof3v5QRbaW2LquoN) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Spotify Singles](https://open.spotify.com/album/2bOO36ZGSYDuXj27cdnxKE) | 3:57 | 2021-09-08 | 2022-11-12 |
 | [Sending My Love \- Spotify Singles](https://open.spotify.com/track/1KFHD2MK0wQADYddeed7Qf) | [Chloe x Halle](https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW) | [Spotify Singles](https://open.spotify.com/album/7KKRDqdnhfBV61qQ1EVxY2) | 2:53 | 2021-09-08 |  |
 | [Shine \- Jim Eno Sessions](https://open.spotify.com/track/0TposDOdKP9MUfn9zxkYUK) | [Mondo Cozmo](https://open.spotify.com/artist/7ybnRZKtRbWQzJfKyYSyh6) | [Spotify Singles](https://open.spotify.com/album/0JSV7pb2t7Krg2ohhZpx5a) | 4:46 | 2021-09-08 | 2022-07-29 |
 | [Shine \- Jim Eno Sessions](https://open.spotify.com/track/5iha6wXLuWdwBtlkRdsmrk) | [Mondo Cozmo](https://open.spotify.com/artist/7ybnRZKtRbWQzJfKyYSyh6) | [Spotify Singles](https://open.spotify.com/album/0nuevVEmgZ7meuFGnFn5AA) | 4:46 | 2022-05-27 |  |

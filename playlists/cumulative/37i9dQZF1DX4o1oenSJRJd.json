@@ -1204,6 +1204,24 @@
     },
     {
       "album": {
+        "name": "Results May Vary",
+        "url": "https://open.spotify.com/album/3oUoQ0UH7Rv06x1kpSjS36"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269973,
+      "name": "Behind Blue Eyes",
+      "url": "https://open.spotify.com/track/1MTQHCpraD4S8g5PAFKzoj"
+    },
+    {
+      "album": {
         "name": "In Your Honor",
         "url": "https://open.spotify.com/album/2eprpJCYbCbPZRKVGIEJxZ"
       },
@@ -2877,7 +2895,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 212506,
       "name": "Down",
       "url": "https://open.spotify.com/track/6cmm1LMvZdB5zsCwX5BjqE"
@@ -3503,7 +3521,7 @@
       ],
       "date_added": "2021-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2021-07-31",
+      "date_removed": null,
       "duration_ms": 357706,
       "name": "Forever",
       "url": "https://open.spotify.com/track/5UsLjwBaTHBX4ektWIr4XX"
@@ -6777,8 +6795,8 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2021-06-16",
-      "duration_ms": 191360,
+      "date_removed": null,
+      "duration_ms": 189613,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/0IktbUcnAGrvD03AWnz3Q8"
     },
@@ -7019,7 +7037,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 232000,
       "name": "Miss Independent",
       "url": "https://open.spotify.com/track/34ceTg8ChN5HjrqiIYCn9Q"
@@ -7793,7 +7811,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 202066,
       "name": "Party In The U.S.A.",
       "url": "https://open.spotify.com/track/5Q0Nhxo0l2bP3pNjpGJwV1"
@@ -7901,7 +7919,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 237200,
       "name": "Poker Face",
       "url": "https://open.spotify.com/track/5R8dQOPq8haW94K7mgERlO"
@@ -9405,7 +9423,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 236160,
       "name": "Somewhere Only We Know",
       "url": "https://open.spotify.com/track/0ll8uFnc0nANY35E0Lfxvg"
@@ -10364,6 +10382,24 @@
     },
     {
       "album": {
+        "name": "Bops Bops Bops!",
+        "url": "https://open.spotify.com/album/54IC1UkZIkcobPui7FoR5O"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205746,
+      "name": "This Love",
+      "url": "https://open.spotify.com/track/0qRVI5U8ShkX8xwxoPR55M"
+    },
+    {
+      "album": {
         "name": "Songs About Jane",
         "url": "https://open.spotify.com/album/7gGcnUEEQgIMV2JRwVQbrF"
       },
@@ -10393,7 +10429,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 206200,
       "name": "This Love",
       "url": "https://open.spotify.com/track/6ECp64rv50XVz93WvxXMGF"
@@ -10891,7 +10927,7 @@
       ],
       "date_added": "2019-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2021-05-20",
+      "date_removed": null,
       "duration_ms": 201173,
       "name": "Waiting On the World to Change",
       "url": "https://open.spotify.com/track/5imShWWzwqfAJ9gXFpGAQh"
@@ -11187,7 +11223,7 @@
       ],
       "date_added": "2019-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-10-13",
+      "date_removed": null,
       "duration_ms": 267093,
       "name": "What's Luv? (feat. Ja-Rule & Ashanti)",
       "url": "https://open.spotify.com/track/2mKouqwAIdQnMP43zxR89r"

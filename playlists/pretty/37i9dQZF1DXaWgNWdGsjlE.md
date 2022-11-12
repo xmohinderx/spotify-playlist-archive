@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWgNWdGsjlE.md) - [plain]
 
 > make a mess of it\. Cover: DeathbyRomy
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,827 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,971 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWgNWdGsjlE.md) - [plain]
 | 83 | [The Demented](https://open.spotify.com/track/3ROmQ4E9Nu0ZFTJVprp3Iu) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [The Demented](https://open.spotify.com/album/21fvzqzvdgOZL6tPRMKqvo) | 3:12 |
 | 84 | [The Singularity](https://open.spotify.com/track/11NHApIN2R0DZJDypPYeFJ) | [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW) | [N / O / I / S / E](https://open.spotify.com/album/2W5rUof3EANdwzqAMtAWhF) | 2:17 |
 | 85 | [BACK OFF](https://open.spotify.com/track/6dVszMrA3arXVUZKqU0mn2) | [Mimi Barks](https://open.spotify.com/artist/5A4P1UOSqbSvJKoi3VYlCC) | [BACK OFF](https://open.spotify.com/album/78CgiGe3bixRuIq4wtDyQ2) | 2:18 |
-| 86 | [My Own Summer](https://open.spotify.com/track/2XAn1jUbPqylVftkIBiIpY) | [Brass Against](https://open.spotify.com/artist/25uPlxGvXMDy9eUX7oeDei), [Sophia Urista](https://open.spotify.com/artist/0ZOIPu5gy4F5VFvJrRfvVP) | [Brass Against III](https://open.spotify.com/album/1qC10DV747Gmd9wlZGGkpB) | 3:37 |
+| 86 | [My Own Summer](https://open.spotify.com/track/1RJQu4Pq5tZUJEJpo5zqOf) | [Brass Against](https://open.spotify.com/artist/25uPlxGvXMDy9eUX7oeDei) | [Brass Against III](https://open.spotify.com/album/2n8KXe2C9BNPSDAOOe8RVV) | 3:36 |
 | 87 | [My Eyes](https://open.spotify.com/track/7bsshVqFu8ybiu6VgIChUb) | [The Anix](https://open.spotify.com/artist/6nFvVbL2RN5czSm7NZjE51) | [My Eyes](https://open.spotify.com/album/59IsfO40V1emIqykYrBpFr) | 5:12 |
 | 88 | [Monster \(Under My Bed\)](https://open.spotify.com/track/2ndhLYrNNYGMxOauAawcrx) | [Call Me Karizma](https://open.spotify.com/artist/5fENlrINIVP0gJOtKxvORt) | [Monster \(Under My Bed\)](https://open.spotify.com/album/0hrGIJNXZcD1QxlowHnhkf) | 2:19 |
 | 89 | [Crimewave](https://open.spotify.com/track/5kfpeoBEHHmIeVYATl6khw) | [Blue Stahli](https://open.spotify.com/artist/4DWnSG0RYPAds8EIKY26q3) | [Quartz](https://open.spotify.com/album/3shNcErdLLTLJiog9fUUcZ) | 2:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWgNWdGsjlE.md) - [plain]
 | 99 | [Structure of Love II \- Renholdër Remix](https://open.spotify.com/track/1PfCGcRzrnTCFJVoVy03yp) | [VOWWS](https://open.spotify.com/artist/7pBR5RoBlOm3oehKuFCxeb), [Chino Moreno](https://open.spotify.com/artist/0Wfo0pd0KC47vx7uUEVOQ9), [Renholdër](https://open.spotify.com/artist/7nPKXL3VRokWPSYHtsDD5i) | [Structure of Love II \(Renholdër Remix\)](https://open.spotify.com/album/1koqkGT2Qsd5ToPJZgMFCn) | 3:21 |
 | 100 | [Reset](https://open.spotify.com/track/4vnCxv2cGTYye90giGIddD) | [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0) | [You Will Not Be Saved](https://open.spotify.com/album/5Fv7nPEq5xHavK28lt8K5F) | 3:21 |
 
-Snapshot ID: `MTY2Nzk0MTI0MywwMDAwMDAwMDljNmFiZDIzYzVmODU5NDUwZjZmNDc1ZTFiOTc5OTc1`
+Snapshot ID: `MTY2Nzk0MTI0MywwMDAwMDAwMDc2ZjQ1ZDIwYzUyYzQzZmRkNjMxN2M5ZDBiMTE0NDM5`

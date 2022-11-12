@@ -1,12 +1,12 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1393319,
+  "num_followers": 1393948,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTYwMCwwMDAwMDAwMGYxYmI1ZDY0YzU0ODlkYmNmM2UxMDg5MmM2NDZkNGU4",
+  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMGEzYWFiZDJjZGQxZWZkZDFmZmFjZmExZjU5YzU1Zjhi",
   "tracks": [
     {
       "added_at": "2022-10-14 04:00:00",
@@ -617,6 +617,46 @@
       "url": "https://open.spotify.com/track/5VzsokRZMpEDLTaXBPfUdJ"
     },
     {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Rhythm (Of The Night)",
+        "url": "https://open.spotify.com/album/3i4rXOFxdMqzFJtXTxV1IW"
+      },
+      "artists": [
+        {
+          "name": "Something Good",
+          "url": "https://open.spotify.com/artist/0g5BdWwyb5SWkGnz9p4neX"
+        },
+        {
+          "name": "Yotto",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+        }
+      ],
+      "duration_ms": 201621,
+      "name": "Rhythm (Of The Night)",
+      "url": "https://open.spotify.com/track/4G58eym5EGj8ZG1qt8DXIx"
+    },
+    {
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
+        "name": "Out Of Control",
+        "url": "https://open.spotify.com/album/3k9PBFjo8FHjGzV2EvsRUk"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "EDX",
+          "url": "https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6"
+        }
+      ],
+      "duration_ms": 168387,
+      "name": "Out Of Control",
+      "url": "https://open.spotify.com/track/44fFj5FWWuFseMDEvToXCn"
+    },
+    {
       "added_at": "2022-07-01 11:37:35",
       "album": {
         "name": "Out Of Reach",
@@ -659,46 +699,6 @@
       "duration_ms": 286520,
       "name": "About Us (feat. EMME)",
       "url": "https://open.spotify.com/track/6NitJf2pJZ4ssPTWZ1ZuVv"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Rhythm (Of The Night)",
-        "url": "https://open.spotify.com/album/3i4rXOFxdMqzFJtXTxV1IW"
-      },
-      "artists": [
-        {
-          "name": "Something Good",
-          "url": "https://open.spotify.com/artist/0g5BdWwyb5SWkGnz9p4neX"
-        },
-        {
-          "name": "Yotto",
-          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
-        }
-      ],
-      "duration_ms": 201621,
-      "name": "Rhythm (Of The Night)",
-      "url": "https://open.spotify.com/track/4G58eym5EGj8ZG1qt8DXIx"
-    },
-    {
-      "added_at": "2022-08-26 04:00:00",
-      "album": {
-        "name": "Out Of Control",
-        "url": "https://open.spotify.com/album/3k9PBFjo8FHjGzV2EvsRUk"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "EDX",
-          "url": "https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6"
-        }
-      ],
-      "duration_ms": 168387,
-      "name": "Out Of Control",
-      "url": "https://open.spotify.com/track/44fFj5FWWuFseMDEvToXCn"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1239,26 +1239,18 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "Strangers (with Mansionair) [Tinlicker Remix]",
-        "url": "https://open.spotify.com/album/7Mk5uwKvT4OAYQ9kb12lZ6"
+        "name": "Change Your Mind",
+        "url": "https://open.spotify.com/album/4xOxUwV8tnuXPRbUeBqhhR"
       },
       "artists": [
         {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        },
-        {
-          "name": "Mansionair",
-          "url": "https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s"
-        },
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+          "name": "Giorgio Gee",
+          "url": "https://open.spotify.com/artist/2uNkbVQ2yfwLDR79cYe92R"
         }
       ],
-      "duration_ms": 329349,
-      "name": "Strangers (with Mansionair) - Tinlicker Remix",
-      "url": "https://open.spotify.com/track/7nMhRQY2qk6TBfhb64UopK"
+      "duration_ms": 160000,
+      "name": "Change Your Mind",
+      "url": "https://open.spotify.com/track/75D58tUiQZRS4XXWcKNJOk"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1299,18 +1291,26 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "Change Your Mind",
-        "url": "https://open.spotify.com/album/4xOxUwV8tnuXPRbUeBqhhR"
+        "name": "Strangers (with Mansionair) [Tinlicker Remix]",
+        "url": "https://open.spotify.com/album/7Mk5uwKvT4OAYQ9kb12lZ6"
       },
       "artists": [
         {
-          "name": "Giorgio Gee",
-          "url": "https://open.spotify.com/artist/2uNkbVQ2yfwLDR79cYe92R"
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        },
+        {
+          "name": "Mansionair",
+          "url": "https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s"
+        },
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Change Your Mind",
-      "url": "https://open.spotify.com/track/75D58tUiQZRS4XXWcKNJOk"
+      "duration_ms": 329349,
+      "name": "Strangers (with Mansionair) - Tinlicker Remix",
+      "url": "https://open.spotify.com/track/7nMhRQY2qk6TBfhb64UopK"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1351,46 +1351,6 @@
       "duration_ms": 168319,
       "name": "Alive",
       "url": "https://open.spotify.com/track/3IaDHisoQv2Iri6wj57jkZ"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Everyday (Jennifer Cardini Remix)",
-        "url": "https://open.spotify.com/album/29tchebjLMABWzP2jKWa0j"
-      },
-      "artists": [
-        {
-          "name": "WhoMadeWho",
-          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
-        },
-        {
-          "name": "Rampa",
-          "url": "https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8"
-        },
-        {
-          "name": "Jennifer Cardini",
-          "url": "https://open.spotify.com/artist/3AN049igIAaoX0fjTCkpnf"
-        }
-      ],
-      "duration_ms": 440106,
-      "name": "Everyday - Jennifer Cardini Remix",
-      "url": "https://open.spotify.com/track/02awIGJCgPAMs4xLWTfcdf"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
-        "name": "First Contact",
-        "url": "https://open.spotify.com/album/4dCgqMWPJuBmL0BHiXwIEf"
-      },
-      "artists": [
-        {
-          "name": "Lastlings",
-          "url": "https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi"
-        }
-      ],
-      "duration_ms": 311280,
-      "name": "False Reactions",
-      "url": "https://open.spotify.com/track/40bOS5DkpMM7UJB3xZkHoq"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1437,20 +1397,28 @@
       "url": "https://open.spotify.com/track/5XU99uJiaZIlfy1ID23veH"
     },
     {
-      "added_at": "2022-07-01 11:37:35",
+      "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Flame",
-        "url": "https://open.spotify.com/album/5rFLTydLT6ZBIol5sHppj0"
+        "name": "Everyday (Jennifer Cardini Remix)",
+        "url": "https://open.spotify.com/album/29tchebjLMABWzP2jKWa0j"
       },
       "artists": [
         {
-          "name": "ARTBAT",
-          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+          "name": "WhoMadeWho",
+          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
+        },
+        {
+          "name": "Rampa",
+          "url": "https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8"
+        },
+        {
+          "name": "Jennifer Cardini",
+          "url": "https://open.spotify.com/artist/3AN049igIAaoX0fjTCkpnf"
         }
       ],
-      "duration_ms": 326929,
-      "name": "Flame - Edit",
-      "url": "https://open.spotify.com/track/38be6Tha1a4kOJPBaqpeEm"
+      "duration_ms": 440106,
+      "name": "Everyday - Jennifer Cardini Remix",
+      "url": "https://open.spotify.com/track/02awIGJCgPAMs4xLWTfcdf"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1471,6 +1439,22 @@
       "duration_ms": 403902,
       "name": "Dreamers",
       "url": "https://open.spotify.com/track/0iANTai9oZfdFzmrGnMQ3Y"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
+        "name": "Flame",
+        "url": "https://open.spotify.com/album/5rFLTydLT6ZBIol5sHppj0"
+      },
+      "artists": [
+        {
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+        }
+      ],
+      "duration_ms": 326929,
+      "name": "Flame - Edit",
+      "url": "https://open.spotify.com/track/38be6Tha1a4kOJPBaqpeEm"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1511,6 +1495,22 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
+        "name": "Deep State",
+        "url": "https://open.spotify.com/album/52beQVaTRkEsdip6N4nWZo"
+      },
+      "artists": [
+        {
+          "name": "Grum",
+          "url": "https://open.spotify.com/artist/3VEqFWRt47xQAZJMBF3duQ"
+        }
+      ],
+      "duration_ms": 337500,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/0bqjS54zmDlYanW8mlx28k"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
         "name": "All I Want (feat. Goatchy)",
         "url": "https://open.spotify.com/album/5YxKPq0pIJyi4sEyIq8cyv"
       },
@@ -1543,22 +1543,6 @@
       "duration_ms": 278400,
       "name": "Elamy",
       "url": "https://open.spotify.com/track/6jdaBz780wecXanS9elu68"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
-        "name": "Deep State",
-        "url": "https://open.spotify.com/album/52beQVaTRkEsdip6N4nWZo"
-      },
-      "artists": [
-        {
-          "name": "Grum",
-          "url": "https://open.spotify.com/artist/3VEqFWRt47xQAZJMBF3duQ"
-        }
-      ],
-      "duration_ms": 337500,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/0bqjS54zmDlYanW8mlx28k"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1651,22 +1635,6 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "Time and Time Again",
-        "url": "https://open.spotify.com/album/1WkSp0mjBHyipV2iuE2B5x"
-      },
-      "artists": [
-        {
-          "name": "Bob Moses",
-          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
-        }
-      ],
-      "duration_ms": 234098,
-      "name": "Time and Time Again - Single Edit",
-      "url": "https://open.spotify.com/track/6giM7T99H6Xr4O2q4i4MQS"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
         "name": "This Time / Ray",
         "url": "https://open.spotify.com/album/44uAC9UVMSekbXyBJV8nMO"
       },
@@ -1683,22 +1651,18 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "Say",
-        "url": "https://open.spotify.com/album/7cLqRIMFqyzbGRyVYMhCyA"
+        "name": "Time and Time Again",
+        "url": "https://open.spotify.com/album/1WkSp0mjBHyipV2iuE2B5x"
       },
       "artists": [
         {
-          "name": "Paige",
-          "url": "https://open.spotify.com/artist/4Z99ysbztLlZqmYK3urV7w"
-        },
-        {
-          "name": "Nihil Young",
-          "url": "https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC"
+          "name": "Bob Moses",
+          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
         }
       ],
-      "duration_ms": 250587,
-      "name": "Say",
-      "url": "https://open.spotify.com/track/51o86RT9X0EqMLJ43hrYe9"
+      "duration_ms": 234098,
+      "name": "Time and Time Again - Single Edit",
+      "url": "https://open.spotify.com/track/6giM7T99H6Xr4O2q4i4MQS"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1719,6 +1683,26 @@
       "duration_ms": 305078,
       "name": "LINE IN THE SAND",
       "url": "https://open.spotify.com/track/1ChJyLrvuFRUQIbBuavjcO"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
+        "name": "Say",
+        "url": "https://open.spotify.com/album/7cLqRIMFqyzbGRyVYMhCyA"
+      },
+      "artists": [
+        {
+          "name": "Paige",
+          "url": "https://open.spotify.com/artist/4Z99ysbztLlZqmYK3urV7w"
+        },
+        {
+          "name": "Nihil Young",
+          "url": "https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC"
+        }
+      ],
+      "duration_ms": 250587,
+      "name": "Say",
+      "url": "https://open.spotify.com/track/51o86RT9X0EqMLJ43hrYe9"
     },
     {
       "added_at": "2022-08-12 04:02:00",
@@ -1761,26 +1745,6 @@
       "url": "https://open.spotify.com/track/4muUXLYIrhCXtFsPogjIcn"
     },
     {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
-        "name": "Feel Again, Pt. 1",
-        "url": "https://open.spotify.com/album/25UHk7kHvvkRPvXmpkGaTd"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Wrabel",
-          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
-        }
-      ],
-      "duration_ms": 178750,
-      "name": "Feel Again",
-      "url": "https://open.spotify.com/track/2oPwqbELgu5i1UtsjqkR3H"
-    },
-    {
       "added_at": "2022-08-26 13:27:46",
       "album": {
         "name": "Midnight / Equal",
@@ -1799,6 +1763,26 @@
       "duration_ms": 480000,
       "name": "Midnight",
       "url": "https://open.spotify.com/track/0GhMImCJ8bJ1oKDZOhUedJ"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
+        "name": "Feel Again, Pt. 1",
+        "url": "https://open.spotify.com/album/25UHk7kHvvkRPvXmpkGaTd"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Wrabel",
+          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
+        }
+      ],
+      "duration_ms": 178750,
+      "name": "Feel Again",
+      "url": "https://open.spotify.com/track/2oPwqbELgu5i1UtsjqkR3H"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1873,6 +1857,22 @@
       "url": "https://open.spotify.com/track/27nGU2v3syK7aU3AVY2vUO"
     },
     {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Gamma",
+        "url": "https://open.spotify.com/album/3Drkk9lFZi6LdgXG32kW9C"
+      },
+      "artists": [
+        {
+          "name": "NTO",
+          "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
+        }
+      ],
+      "duration_ms": 381254,
+      "name": "Gamma",
+      "url": "https://open.spotify.com/track/0oIbkBXuNKpRGrePp7cAeo"
+    },
+    {
       "added_at": "2022-08-19 04:00:00",
       "album": {
         "name": "Heartbreak",
@@ -1893,20 +1893,24 @@
       "url": "https://open.spotify.com/track/5HopfU98O15r6TiQorUxSD"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "Gamma",
-        "url": "https://open.spotify.com/album/3Drkk9lFZi6LdgXG32kW9C"
+        "name": "Haunt Me",
+        "url": "https://open.spotify.com/album/4CHaFVB6995taaDGXqrBA3"
       },
       "artists": [
         {
-          "name": "NTO",
-          "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        },
+        {
+          "name": "The Moth & The Flame",
+          "url": "https://open.spotify.com/artist/6Fk18HpdnXUsKWpN9mPb9R"
         }
       ],
-      "duration_ms": 381254,
-      "name": "Gamma",
-      "url": "https://open.spotify.com/track/0oIbkBXuNKpRGrePp7cAeo"
+      "duration_ms": 299232,
+      "name": "Haunt Me",
+      "url": "https://open.spotify.com/track/4OEnG3txRzS0UebAHOA2bG"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1929,24 +1933,40 @@
       "url": "https://open.spotify.com/track/0gT8d4DW5wDlJahSlLiuda"
     },
     {
-      "added_at": "2022-07-01 11:37:35",
+      "added_at": "2022-08-12 04:02:00",
       "album": {
-        "name": "Haunt Me",
-        "url": "https://open.spotify.com/album/4CHaFVB6995taaDGXqrBA3"
+        "name": "Playing Chess",
+        "url": "https://open.spotify.com/album/50tXNZuf7nO2A2RvckpFrl"
       },
       "artists": [
         {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        },
-        {
-          "name": "The Moth & The Flame",
-          "url": "https://open.spotify.com/artist/6Fk18HpdnXUsKWpN9mPb9R"
+          "name": "Giol\u00ec & Assia",
+          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
         }
       ],
-      "duration_ms": 299232,
-      "name": "Haunt Me",
-      "url": "https://open.spotify.com/track/4OEnG3txRzS0UebAHOA2bG"
+      "duration_ms": 231739,
+      "name": "Playing Chess",
+      "url": "https://open.spotify.com/track/2leNp4jIw6UIypwbcIVR3S"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
+        "name": "Paradise (feat. Lucas Ariel)",
+        "url": "https://open.spotify.com/album/11AxCghy6UurshHIAKNaRe"
+      },
+      "artists": [
+        {
+          "name": "Luis Torres",
+          "url": "https://open.spotify.com/artist/60esHjNSJRdCNHApNP4XzW"
+        },
+        {
+          "name": "Lucas Ariel",
+          "url": "https://open.spotify.com/artist/6LKOLihOW5mY0KAzMbcu4T"
+        }
+      ],
+      "duration_ms": 232740,
+      "name": "Paradise (feat. Lucas Ariel)",
+      "url": "https://open.spotify.com/track/299lnrCInmGfXBeSu8A6lw"
     },
     {
       "added_at": "2022-09-02 04:02:00",
@@ -1971,26 +1991,6 @@
       "duration_ms": 216274,
       "name": "Your Mind - Epic Edit",
       "url": "https://open.spotify.com/track/3QeQ9CW00jI5J6NPF7vel0"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
-        "name": "Paradise (feat. Lucas Ariel)",
-        "url": "https://open.spotify.com/album/11AxCghy6UurshHIAKNaRe"
-      },
-      "artists": [
-        {
-          "name": "Luis Torres",
-          "url": "https://open.spotify.com/artist/60esHjNSJRdCNHApNP4XzW"
-        },
-        {
-          "name": "Lucas Ariel",
-          "url": "https://open.spotify.com/artist/6LKOLihOW5mY0KAzMbcu4T"
-        }
-      ],
-      "duration_ms": 232740,
-      "name": "Paradise (feat. Lucas Ariel)",
-      "url": "https://open.spotify.com/track/299lnrCInmGfXBeSu8A6lw"
     }
   ],
   "unique_name": "Night Rider",

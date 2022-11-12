@@ -4,7 +4,7 @@
 
 > Dos de los más grandes, frente a frente.
 
-137 songs - 8 hr 51 min - [published](https://open.spotify.com/playlist/5IWlOBv7ISWXyRAfoFCSOM)
+139 songs - 9 hr 0 min - [published](https://open.spotify.com/playlist/5IWlOBv7ISWXyRAfoFCSOM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,8 +29,9 @@
 | [Como Han Pasado los Años \(with Julio Iglesias\)](https://open.spotify.com/track/5PuY7F2jpk1yuD3ZNvzT85) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB), [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Una Estrella En El Cielo](https://open.spotify.com/album/5BKMan1vEF6HtWpj8tNceY) | 3:30 | 2021-09-29 |  |
 | [Como Han Pasado Los Años \- Remastered](https://open.spotify.com/track/2DA49TuANlHIuGSnciLC8C) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8), [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [50 Años Después \(Remastered\)](https://open.spotify.com/album/48Yvne1x8AANcjxZvuPirC) | 3:46 | 2021-09-29 |  |
 | [Como yo te amo](https://open.spotify.com/track/2N1u2w7dbHt058hi7pIFjW) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8) | [Y..\. sigo mi camino](https://open.spotify.com/album/1IWaci4FAbXR9OXmwQFMz3) | 4:39 | 2021-09-29 |  |
-| [Con la Misma Piedra](https://open.spotify.com/track/0SFZ2bE1hVX3k5tECWziYm) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Moments](https://open.spotify.com/album/6zic2LJXY3DaP2DWYVtCdT) | 3:57 | 2021-09-29 |  |
+| [Con la Misma Piedra](https://open.spotify.com/track/0SFZ2bE1hVX3k5tECWziYm) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Moments](https://open.spotify.com/album/6zic2LJXY3DaP2DWYVtCdT) | 3:57 | 2021-09-29 | 2022-11-12 |
 | [Con la Misma Piedra](https://open.spotify.com/track/5FeSv0MFW14wUVCTPJCmbA) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Original Album Classics](https://open.spotify.com/album/17Xr3jDDVGjshMfG0n3DAj) | 3:57 | 2021-09-29 | 2022-07-29 |
+| [Con la Misma Piedra](https://open.spotify.com/track/6fQZlAs27dN6W2IF84KKAU) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Momentos](https://open.spotify.com/album/294b6XChJAN1TMQkQB3csC) | 3:58 | 2021-09-29 |  |
 | [Corazón Partío](https://open.spotify.com/track/6PWaW18BZcY7P1LGd82Dky) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Noche De Cuatro Lunas](https://open.spotify.com/album/76WRudpYnfmWHdAi4evqMy) | 4:48 | 2021-09-29 |  |
 | [Corazón Partío](https://open.spotify.com/track/4UzMs3RQnrUtAFWdQzEZdX) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Julio Iglesias, Volumen 1](https://open.spotify.com/album/2MK0JA0IjFYbqKctsptdsc) | 4:49 | 2021-09-29 | 2022-07-29 |
 | [Crazy](https://open.spotify.com/track/5UPomCrgyIMqN8Itzf2N5L) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [My Life: The Greatest Hits](https://open.spotify.com/album/21GSy4UKShEpEfrojAEK9U) | 3:14 | 2021-09-29 |  |
@@ -100,8 +101,9 @@
 | [Por Un Poco De Tu Amor](https://open.spotify.com/track/5V6Km3jmiBieOaqzxvnjRl) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [The 24 Greatest Songs](https://open.spotify.com/album/4eDknqB3s1EYXcMB1OpE7G) | 2:57 | 2021-09-29 | 2022-07-29 |
 | [Por Un Poco De Tu Amor](https://open.spotify.com/track/18g5bPaSbn4xcqRsRjDaHG) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Begin the Beguine](https://open.spotify.com/album/5siSTOhozc4kGQxQgbFhvS) | 2:58 | 2021-09-29 | 2022-11-11 |
 | [Por una tontería](https://open.spotify.com/track/4hkMxKNMdZurEouLb1cLyU) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8) | [En carne viva](https://open.spotify.com/album/18duCh9suTyPY4xB85bFao) | 3:24 | 2021-09-29 |  |
+| [Preguntale](https://open.spotify.com/track/43oJBwR79PyYfDJ97YD9fG) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Personalidad](https://open.spotify.com/album/2mvTdPihXIOm17QqGlkK3i) | 4:53 | 2021-09-29 |  |
 | [Preguntale](https://open.spotify.com/track/5Qj9QlT2dc4QeiRfYzIPWX) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [The 24 Greatest Songs](https://open.spotify.com/album/4eDknqB3s1EYXcMB1OpE7G) | 4:54 | 2021-09-29 | 2022-07-29 |
-| [Preguntale](https://open.spotify.com/track/7irpyYC0w4gCwQRmZce76M) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Begin the Beguine](https://open.spotify.com/album/5siSTOhozc4kGQxQgbFhvS) | 4:55 | 2021-09-29 |  |
+| [Preguntale](https://open.spotify.com/track/7irpyYC0w4gCwQRmZce76M) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Begin the Beguine](https://open.spotify.com/album/5siSTOhozc4kGQxQgbFhvS) | 4:55 | 2021-09-29 | 2022-11-12 |
 | [Procuro olvidarte](https://open.spotify.com/track/4dK2f3HRUvEVvqdHLn9m9M) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8) | [Cerca de tí](https://open.spotify.com/album/0jUlTAhcK9RuM5DrGgRtK1) | 4:16 | 2021-09-29 |  |
 | [Provocación](https://open.spotify.com/track/3r74rxM9d95U3Pdj4JtrIJ) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8) | [De Amor & Desamor](https://open.spotify.com/album/4J3KKZUHfsZwuzvq7B6eZy) | 3:41 | 2021-09-29 |  |
 | [Que nadie sepa mi sufrir](https://open.spotify.com/track/6XwxOqAEsh56MGw2RaheM4) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8) | [Maravilloso Raphael](https://open.spotify.com/album/2oPRXNiOqeqRCig5ecRCmi) | 3:23 | 2021-09-29 |  |

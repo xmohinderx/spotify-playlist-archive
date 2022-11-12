@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest South African House and Dance singles out right now. Cover: <a href=\"https://open.spotify.com/artist/7eNwLlauwL6tZwbFzJHWAN?si=llxtqtQnSmuH2BLEFC3qYg\">DJ Kent</a>",
+  "description": "Only the hottest South African House and Dance singles out right now. Cover: <a href=\"https://open.spotify.com/artist/4UcrwfAI09CLZ7aBXMiucJ?si=DjQm-D4cSD-PuJIJ2pQHpQ\">Kususa</a> and <a href=\"https://open.spotify.com/artist/4k5ekCq3lqokDeY3JifNjt?si=a-5he1luTZWLbLOg3FbESg\">Argento Dust</a>",
   "name": "mint South Africa",
   "published_playlist_ids": [
     "24Uu3XWGtF4anu2FhCcmjB"
@@ -23,7 +23,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 204513,
       "name": "011 to Paris",
       "url": "https://open.spotify.com/track/1ivk12zHrrW7gQZwQwij79"
@@ -1045,7 +1045,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 482272,
       "name": "Amira - Original Mix",
       "url": "https://open.spotify.com/track/5Z9d6pGOaoChFuoDWpsxpi"
@@ -1290,6 +1290,32 @@
     },
     {
       "album": {
+        "name": "Asanda",
+        "url": "https://open.spotify.com/album/6vCt7Qg2q1ayRZd8vL1IOn"
+      },
+      "artists": [
+        {
+          "name": "Kususa",
+          "url": "https://open.spotify.com/artist/4UcrwfAI09CLZ7aBXMiucJ"
+        },
+        {
+          "name": "Argento Dust",
+          "url": "https://open.spotify.com/artist/4k5ekCq3lqokDeY3JifNjt"
+        },
+        {
+          "name": "Zakes Bantwini",
+          "url": "https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322400,
+      "name": "Asanda",
+      "url": "https://open.spotify.com/track/4iq6mQd3Hkj1BUYC09t3rP"
+    },
+    {
+      "album": {
         "name": "Aura",
         "url": "https://open.spotify.com/album/1sNWODazMIBJZ3XbLDbmji"
       },
@@ -1425,7 +1451,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 138811,
       "name": "Back to You",
       "url": "https://open.spotify.com/track/5jHfCQYPv6OdMU3BaV17Jd"
@@ -1761,6 +1787,28 @@
       "duration_ms": 350000,
       "name": "Bestfriend",
       "url": "https://open.spotify.com/track/3hKwgPKqfjeHrHHawdYVgs"
+    },
+    {
+      "album": {
+        "name": "Better",
+        "url": "https://open.spotify.com/album/33fBEZAESWpNORY7rgbmqH"
+      },
+      "artists": [
+        {
+          "name": "Da Capo",
+          "url": "https://open.spotify.com/artist/4YuviELTmYBvDR66ThrMy9"
+        },
+        {
+          "name": "Jethro Tait",
+          "url": "https://open.spotify.com/artist/1gNzhazbuffPQaf5nkUdcP"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285517,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/1YocXsMVwXfU97DohXUwR7"
     },
     {
       "album": {
@@ -2846,6 +2894,28 @@
     },
     {
       "album": {
+        "name": "OOO: AFRO",
+        "url": "https://open.spotify.com/album/4YNw1RfxL1PBwTcx0D0JCx"
+      },
+      "artists": [
+        {
+          "name": "OUT OF ORDER",
+          "url": "https://open.spotify.com/artist/0EahDneISdyQpDqNzU9XZC"
+        },
+        {
+          "name": "Da Capo",
+          "url": "https://open.spotify.com/artist/4YuviELTmYBvDR66ThrMy9"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 434076,
+      "name": "Decisions (Original Mix)",
+      "url": "https://open.spotify.com/track/5iAA9Z3JbGWEwh3A1py5LB"
+    },
+    {
+      "album": {
         "name": "Dedi",
         "url": "https://open.spotify.com/album/0xj9c1S3ncac1wjpgxFiBn"
       },
@@ -3093,7 +3163,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 369775,
       "name": "Dj From Mount Bay",
       "url": "https://open.spotify.com/track/3hUFZHpABs47onM00CUckK"
@@ -3447,7 +3517,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 245798,
       "name": "Ebsuku - Radio Edit",
       "url": "https://open.spotify.com/track/26v5GteKRWo2vpgRg5FkYk"
@@ -5590,6 +5660,32 @@
     },
     {
       "album": {
+        "name": "IQHAWE",
+        "url": "https://open.spotify.com/album/4FxgWaDxIrMGItb5cc5ur4"
+      },
+      "artists": [
+        {
+          "name": "Kreative Nativez",
+          "url": "https://open.spotify.com/artist/4s2DjPiXzoh6KErcgfMl6G"
+        },
+        {
+          "name": "Dr Feel",
+          "url": "https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq"
+        },
+        {
+          "name": "Philasande",
+          "url": "https://open.spotify.com/artist/3hxC69P9B55P0PDDye6iqi"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 449964,
+      "name": "IQHAWE",
+      "url": "https://open.spotify.com/track/30RylevGyD4EFyV4VYbPj3"
+    },
+    {
+      "album": {
         "name": "Iris (Atmos Blaq Remix)",
         "url": "https://open.spotify.com/album/3WDRhbZt5A3wZKYHuKZO1E"
       },
@@ -5675,7 +5771,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 368977,
       "name": "Isizathu - Original Mix",
       "url": "https://open.spotify.com/track/0ZreUkE9FLVc4l9wNDFlZX"
@@ -6760,6 +6856,28 @@
     },
     {
       "album": {
+        "name": "Loosing Time",
+        "url": "https://open.spotify.com/album/4W74BWiDUF2doTYdyGyKBO"
+      },
+      "artists": [
+        {
+          "name": "Don Diego",
+          "url": "https://open.spotify.com/artist/4xsPF3eWcrzcFYtZnyuVtY"
+        },
+        {
+          "name": "The Fabulous Joker",
+          "url": "https://open.spotify.com/artist/4cKE8QbqfWIakIafzl8DgB"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330756,
+      "name": "Loosing Time",
+      "url": "https://open.spotify.com/track/0A7APmNK9Jf3TaV4YvyWPj"
+    },
+    {
+      "album": {
         "name": "Los Dos",
         "url": "https://open.spotify.com/album/1Ldq4SBeOmEGt9UxcR4Sij"
       },
@@ -7197,6 +7315,24 @@
       "duration_ms": 384905,
       "name": "Mavulindlela",
       "url": "https://open.spotify.com/track/28Fzmb1zisdVPcwjeI0QbW"
+    },
+    {
+      "album": {
+        "name": "Maya",
+        "url": "https://open.spotify.com/album/2hfNUwkRhfw7VjCWIQU4hZ"
+      },
+      "artists": [
+        {
+          "name": "Pierre Johnson",
+          "url": "https://open.spotify.com/artist/2CUjvq6GOAGAMyN3zDyfXz"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399661,
+      "name": "Maya",
+      "url": "https://open.spotify.com/track/37aSg02eKxZMSueTi5qE89"
     },
     {
       "album": {
@@ -8048,6 +8184,28 @@
     },
     {
       "album": {
+        "name": "Never Let You Go",
+        "url": "https://open.spotify.com/album/3s5JBjgZh073p6KqWpkYnF"
+      },
+      "artists": [
+        {
+          "name": "Dave Audinary",
+          "url": "https://open.spotify.com/artist/6O7qXYxw1B8belOxZSwaNm"
+        },
+        {
+          "name": "ZANO",
+          "url": "https://open.spotify.com/artist/0adNleAt3fifQiP12TGZBJ"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340832,
+      "name": "Never Let You Go",
+      "url": "https://open.spotify.com/track/0NXAgDMxY6t7coulYU0PXV"
+    },
+    {
+      "album": {
         "name": "Africa Gets Physical, Vol. 4",
         "url": "https://open.spotify.com/album/3dAuIqHo6q9ObSes44dB4V"
       },
@@ -8281,6 +8439,28 @@
       "duration_ms": 304766,
       "name": "Nkanyezi",
       "url": "https://open.spotify.com/track/16qkCa4zVqLCEYSMWcQHG5"
+    },
+    {
+      "album": {
+        "name": "No Control",
+        "url": "https://open.spotify.com/album/4m8EX0EMs1DNFGIqyongi2"
+      },
+      "artists": [
+        {
+          "name": "Black Box",
+          "url": "https://open.spotify.com/artist/7IHGC6y8NjBwwWhWCF2lKR"
+        },
+        {
+          "name": "Luc Rushmere",
+          "url": "https://open.spotify.com/artist/7IfsuGH0v0gCTz4e5ZSD1p"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173040,
+      "name": "No Control",
+      "url": "https://open.spotify.com/track/7eMsVUlXYFxOXs1UvDF6BR"
     },
     {
       "album": {
@@ -9401,7 +9581,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 375120,
       "name": "S'khanyisele",
       "url": "https://open.spotify.com/track/45B0hJinafl61IjK5WOqFA"
@@ -10431,7 +10611,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 320590,
       "name": "Spirit of Chapita",
       "url": "https://open.spotify.com/track/3PljAdlLnYb9f1dQ3pVp59"
@@ -11496,6 +11676,32 @@
     },
     {
       "album": {
+        "name": "Three Shadows",
+        "url": "https://open.spotify.com/album/2BG3KMdH3ywFJdtRgxwfkR"
+      },
+      "artists": [
+        {
+          "name": "Lovestar De DJ",
+          "url": "https://open.spotify.com/artist/6cYQAMxK2OBJvzgj9q72Ov"
+        },
+        {
+          "name": "Thab De Soul",
+          "url": "https://open.spotify.com/artist/6rOQUGz2uvmVZ6EEjZfIew"
+        },
+        {
+          "name": "Reggie OMC",
+          "url": "https://open.spotify.com/artist/5F7F7V9UtfbuS9Is6PFbVK"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359214,
+      "name": "Three Shadows",
+      "url": "https://open.spotify.com/track/6Rb6OQvlmhIdxaSsF5Tb6i"
+    },
+    {
+      "album": {
         "name": "Bella Mar 09",
         "url": "https://open.spotify.com/album/0bnn0FMVvWpqoG7TkGT10F"
       },
@@ -11537,7 +11743,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 480000,
       "name": "Time is now - Artwork Sounds & SGVO Dub Mix",
       "url": "https://open.spotify.com/track/2jcQRmTrqCuDynkIxAU1vJ"

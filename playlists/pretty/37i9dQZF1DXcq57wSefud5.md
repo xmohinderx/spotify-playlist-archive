@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcq57wSefud5.md) - [plain]
 
 > You'll be up with the sun and running to this playlist of fast paced feel good tunes!
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,225 likes - 25 songs - 1 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,233 likes - 25 songs - 1 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,17 +21,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcq57wSefud5.md) - [plain]
 | 11 | [Dime Store Cowgirl](https://open.spotify.com/track/26ocYTTJY9s9I0Hbq8B44v) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Female Country](https://open.spotify.com/album/09mXIrmJrisHosp2I5ri6R) | 3:35 |
 | 12 | [Call Me in the Afternoon](https://open.spotify.com/track/2BzR2zRJIcFcMCIBKAD68U) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Spotify Sessions](https://open.spotify.com/album/0GlqIYAIGeib66oR1pyy4F) | 3:13 |
 | 13 | [First Time](https://open.spotify.com/track/6OFKVE2HZdK3n2tbTDMhn3) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:44 |
-| 14 | [Way Way Back](https://open.spotify.com/track/386DfI5sZ0eJi1i6SZVqLw) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Kill The Lights \(Deluxe\)](https://open.spotify.com/album/0WtCqmpVN7rRGfDMSWSXBA) | 3:19 |
+| 14 | [Way Way Back](https://open.spotify.com/track/0HeGaguSlSFTrAuGvi2MDv) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Beat The Heat Country Summer Jams](https://open.spotify.com/album/2c8w7XZA5hgdicagwnx7Be) | 3:19 |
 | 15 | [How Bad We Need Each Other](https://open.spotify.com/track/0gWcJrbC41WK5qsKowO0tz) | [Marc Scibilia](https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77) | [Out Of Style](https://open.spotify.com/album/2PbLPXxJ8Hh5PWVrcwgM5T) | 3:13 |
 | 16 | [Walt Whitman](https://open.spotify.com/track/6nQ5z2EDrltb8MZs3HhfgL) | [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [Stars and Satellites](https://open.spotify.com/album/3otETa3Pe9HZon4cP9xZnB) | 2:38 |
 | 17 | [Fool for Love](https://open.spotify.com/track/3g0XVm6ZTWHbtTTfKhmMo7) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Fool for Love](https://open.spotify.com/album/1J4OG63lFxJ65zzwLyF3rp) | 4:34 |
 | 18 | [The Way We Move](https://open.spotify.com/track/40rjypnguxfhPy4Bbv5SWc) | [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy), [The Law](https://open.spotify.com/artist/6DK3E5dh7jJrKyAHfucWBB) | [The Way We Move](https://open.spotify.com/album/6BIZ0siUtYwDqrGSTIdxU7) | 2:48 |
 | 19 | [Little Lion Man](https://open.spotify.com/track/4B4vB3oB8csotplfoQcAd6) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/4828DYqqXoOl1bMPyh5c3S) | 4:07 |
 | 20 | [Mountain Sound](https://open.spotify.com/track/60ZGteAEtPCnGE6zevgUcd) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [My Head Is An Animal](https://open.spotify.com/album/6uD3oJCWT1gtlSCg5lDiNF) | 3:31 |
-| 21 | [Cassy O'](https://open.spotify.com/track/0KlUnDYTACNGFPFIUa3eZd) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Wanted on Voyage \(Expanded Edition\)](https://open.spotify.com/album/6mcMKGEgukjyiR5IKElQ2E) | 3:04 |
+| 21 | [Cassy O' \- Radio Edit](https://open.spotify.com/track/7MfmCzvqJLtaAZTyEaHLCb) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Wanted on Voyage \(Expanded Edition\)](https://open.spotify.com/album/2noXavarvb1s7U5G8yDddY) | 3:04 |
 | 22 | [Heavy Feet](https://open.spotify.com/track/0BmNElDPN8uGmJtCwPY5fH) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Hummingbird](https://open.spotify.com/album/1Zmq4tEgCSyTkud2ahysrq) | 4:06 |
 | 23 | [We Are the Tide](https://open.spotify.com/track/6vpATnRbTUGyMqQ9UYVMh7) | [Blind Pilot](https://open.spotify.com/artist/6qiGjRyN7TJ1GA2nXF68Hi) | [We Are the Tide](https://open.spotify.com/album/4jAXE8gSio8mc9ZFaTTQGs) | 3:17 |
 | 24 | [Run](https://open.spotify.com/track/2ATDLn7rLTcgVPPWCKJotH) | [Delta Rae](https://open.spotify.com/artist/0iidQFemlPhkoHqFroz2my) | [The Complete Sire Albums](https://open.spotify.com/album/1xg1cljaT2FyyN3Xxf85Xw) | 2:58 |
 | 25 | [Kick Drum Heart](https://open.spotify.com/track/0KKist1jJYO17nOqtO1sb2) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [I And Love And You](https://open.spotify.com/album/2PPFtYUnnqMYflIEn3b7ON) | 2:54 |
 
-Snapshot ID: `MTY0ODczOTczOSwwMDAwMDAwMDYwNDU2ZjY3MTM0ODU4NmIwNzJjNTY1NmFlZTlmM2E2`
+Snapshot ID: `MTY0ODczOTczOSwwMDAwMDAwMDBkNGMzOTI1MTk5YmFjMjg1NDg4ZDU1NWNkN2I2MTli`

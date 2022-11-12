@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW37fHr0rhOh.md) - [plain]
 
 > Always there, always true!  These are the songs, old and new, you can count on time after time\.  Cover: Bobby, Teddi, and Billy Ray Cyrus
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,639 likes - 58 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,662 likes - 58 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW37fHr0rhOh.md) - [plain]
 | 10 | [He Took the Nails](https://open.spotify.com/track/5LDnTZwZvZV0OlsYvbCG3x) | [The Browders](https://open.spotify.com/artist/4Ug1lA45bfmGwUx76BWWfW) | [Time Machine](https://open.spotify.com/album/0Sl1oCoNsDtCkSLTaTZzpP) | 4:42 |
 | 11 | [God's Great](https://open.spotify.com/track/5tQUIqejsQcWPaRnqPB3nE) | [The Old Paths](https://open.spotify.com/artist/59FfqLqvVuyo9AIdEnR0HG) | [Right Now](https://open.spotify.com/album/5stgFFoGFOkFz9gzvLMFRl) | 3:51 |
 | 12 | [Victory Shout](https://open.spotify.com/track/7leuQbcKBZL4EG7TIDYqmD) | [Kingsmen](https://open.spotify.com/artist/1KqnnHm6UY5FW6UENrzSVX) | [Victory Shout](https://open.spotify.com/album/1IrD0m8sIrV3NPyY6FMQMk) | 4:01 |
-| 13 | [I Want to Be That Man](https://open.spotify.com/track/5oPdxfCzdBfASHQk2RRVlX) | [Brian Free & Assurance](https://open.spotify.com/artist/57PRB2opCrH6LlWS4INhi0), [Assurance](https://open.spotify.com/artist/0zFdl3BbxeSiBfD8SvvxFv) | [Nothing but Love](https://open.spotify.com/album/0uMrQA4PLWRV6Lh2JkfpHK) | 4:09 |
+| 13 | [I Want To Be That Man](https://open.spotify.com/track/0B9SIV1vMb0Cr9NGATONjC) | [Brian Free](https://open.spotify.com/artist/1jmxa7evBkdy4nw31RX1sc) | [Signature Ballads](https://open.spotify.com/album/0qPhdxk11wSGjWE1nmQryP) | 4:11 |
 | 14 | [Unspoken Request \(Performance Track Demonstration in C\)](https://open.spotify.com/track/0p5ruUrdjKfGTVK9AMARO3) | [Crossroads Performance Tracks](https://open.spotify.com/artist/6aIaHnJNo69R2FX2PWKLiF) | [Unspoken Request \(Made Popular by The McKameys\) \[Performance Track\]](https://open.spotify.com/album/2gX7DzWxGd09iVEroSp1rS) | 3:13 |
 | 15 | [He Is To Me](https://open.spotify.com/track/34tctvGanz52Ozqo7a4cSF) | [Greater Vision](https://open.spotify.com/artist/2OmbA7QlIOP6jrevUft2BG) | [Quartets](https://open.spotify.com/album/5M1DW1IAoNflo3s4FP9490) | 3:26 |
 | 16 | [Never Forsaken](https://open.spotify.com/track/6deffkMvFM7HsKDt5LYAE7) | [Tribute Quartet](https://open.spotify.com/artist/4TYL0NFQgCj8VLdz8gBfAC) | [Here For You](https://open.spotify.com/album/1Fty9zpQEFzVAlMPWzzV4Q) | 3:59 |
@@ -41,15 +41,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW37fHr0rhOh.md) - [plain]
 | 31 | [Sometimes I Cry](https://open.spotify.com/track/3r3bRYlirC5owzlvEusqQk) | [Jason Crabb](https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq) | [Jason Crabb](https://open.spotify.com/album/2zahwYyeNKSLhbRmbaiARq) | 3:09 |
 | 32 | [Take A Stand](https://open.spotify.com/track/40Q0xGbMdYZeKyIk76AAQh) | [Carolina Boys Quartet](https://open.spotify.com/artist/5LoKr7xQFkzgaUw158cXFM) | [Take A Stand](https://open.spotify.com/album/1oEufNB9iwhVOZigPYWhoH) | 3:23 |
 | 33 | [New Day Dawning](https://open.spotify.com/track/296RKoF8mdEZza3CPPkfLC) | [The Whisnants](https://open.spotify.com/artist/4c7zlvrqio2WjtIIGTx1pm) | [Heritage of Hits](https://open.spotify.com/album/5iIR5Dtpojh6yWbkhLh9wj) | 2:33 |
-| 34 | [The Healer](https://open.spotify.com/track/6BrngBvcklK8u4pmv4Bcrr) | [The Talleys](https://open.spotify.com/artist/0xAHllnAJZX2DlM8z2A0hC) | [Hope For Tomorrow](https://open.spotify.com/album/6FvZ3JWxzH0bsilLnATbJZ) | 4:01 |
+| 34 | [The Healer](https://open.spotify.com/track/5R2LCNpZNRtUc6rS1eUqpl) | [The Talleys](https://open.spotify.com/artist/0xAHllnAJZX2DlM8z2A0hC) | [Singing News Best of the Best, Vol\. 3](https://open.spotify.com/album/3TXCw3KrfTUmgij0JnNH2a) | 4:03 |
 | 35 | [Somebody Died For Me](https://open.spotify.com/track/0nr8WV9wznKesNCCGZUcVT) | [Triumphant Quartet](https://open.spotify.com/artist/60yKIk5WTQfPrkZPcdohVC) | [Everyday](https://open.spotify.com/album/5rI5TQVg0ZKN3bm2yDx2tA) | 4:10 |
 | 36 | [I'll Take You Home](https://open.spotify.com/track/6fEsfhqwayJ6ytJSPVgTfN) | [The Hoppers](https://open.spotify.com/artist/76De3CbnkyCKbNg5vDSqI7) | [Count Me In](https://open.spotify.com/album/2RiGB2vhvi05EtUDlLCd6A) | 3:32 |
-| 37 | [The Broken Ones](https://open.spotify.com/track/0gdMxfopB9G1HYTpFBIwh8) | [The Talleys](https://open.spotify.com/artist/0xAHllnAJZX2DlM8z2A0hC) | [Stages](https://open.spotify.com/album/0LahGugFPCcDTUPG7OA7bx) | 3:39 |
+| 37 | [The Broken Ones \(Demonstration in E\)](https://open.spotify.com/track/2gK18cT8hLOS2aIfeCq3sv) | [Crossroads Performance Tracks](https://open.spotify.com/artist/6aIaHnJNo69R2FX2PWKLiF) | [The Broken Ones \(Made Popular By The Talley Trio\) \[Performance Track\]](https://open.spotify.com/album/3q5hL0BltNdHyKodAqUyZH) | 3:39 |
 | 38 | [Saved by Grace](https://open.spotify.com/track/1Vh5gKVhXgmMXrpe6iIbMS) | [Triumphant Quartet](https://open.spotify.com/artist/60yKIk5WTQfPrkZPcdohVC) | [Love Came Calling](https://open.spotify.com/album/6QckA0hXPaoHmER0KrqUin) | 4:03 |
 | 39 | [Hidden Heroes \(Demonstration\)](https://open.spotify.com/track/6cGwowaGo9Wt4pwGGDOVny) | [Crossroads Performance Tracks](https://open.spotify.com/artist/6aIaHnJNo69R2FX2PWKLiF) | [Hidden Heroes \(Made Popular by The Talleys\) \[Performance Track\]](https://open.spotify.com/album/5kfhO6C9SrQYC40ZFMQUiO) | 4:13 |
 | 40 | [Don't You Wanna Go?](https://open.spotify.com/track/0TzF8KqMJsg6FGzoTcthOV) | [The Crabb Family](https://open.spotify.com/artist/2Fg4p216PH5hvVZWbWCguK) | [20 Years: Platinum Edition](https://open.spotify.com/album/1Fe5W3Vcrme8P0HH3kW4Ez) | 3:59 |
 | 41 | [Say Amen](https://open.spotify.com/track/2jMoBd2SMyipPWJum2Mpre) | [Brian Free & Assurance](https://open.spotify.com/artist/57PRB2opCrH6LlWS4INhi0) | [Unashamed](https://open.spotify.com/album/0d7pyEQyRk7xYrz3NKVi9m) | 4:33 |
-| 42 | [Jesus, the One](https://open.spotify.com/track/1fFWNfVcCdPKwmY6CsKA1Z) | [The Hoppers](https://open.spotify.com/artist/76De3CbnkyCKbNg5vDSqI7) | [Life Is Good](https://open.spotify.com/album/4WzWtKW21wYQ6AbYQWlzIC) | 4:32 |
+| 42 | [Jesus, The One](https://open.spotify.com/track/0TPfiHqkxJxb6CI67ZZ7qQ) | [The Hoppers](https://open.spotify.com/artist/76De3CbnkyCKbNg5vDSqI7) | [Jesus, The One](https://open.spotify.com/album/15xVl7tuboa7EPEXyqAuTI) | 4:36 |
 | 43 | [No Bones About It](https://open.spotify.com/track/7IdjRdGpf5aLXrZfh9cUFl) | [Kingdom Heirs](https://open.spotify.com/artist/6CPiQbiF0iVrQfGa4iDjqW) | [We Will Stand Our Ground](https://open.spotify.com/album/3KoNQ5R7a9Yz7MEzqyQtE7) | 2:51 |
 | 44 | [From The Depths Of My Heart](https://open.spotify.com/track/7BrKXKtXrI1NrGWni5PK2S) | [The Isaacs](https://open.spotify.com/artist/7Gr7Uulfyw9J9F74eQfBOp) | [Favorites: Revisited By Request](https://open.spotify.com/album/0HNR2vlmIoaO6zXI0Q7JDo) | 4:59 |
 | 45 | [Preacher Tell Me Like It Is](https://open.spotify.com/track/5u8sJB6NIv1Ys11N7PvlG6) | [Greater Vision](https://open.spotify.com/artist/2OmbA7QlIOP6jrevUft2BG) | [For All He's Done](https://open.spotify.com/album/6uKWhpoywcK7YxjIu7zFmt) | 4:06 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW37fHr0rhOh.md) - [plain]
 | 57 | [Amazing Grace](https://open.spotify.com/track/7jtQO77dvRhXpeOKAva25x) | [The Oak Ridge Boys](https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos) | [Amazing Grace](https://open.spotify.com/album/5pkTyzCT0J9jF82k4WC8Tc) | 2:03 |
 | 58 | [Your Ways Are Higher Than Mine](https://open.spotify.com/track/3AgH9cu0oUrVQUb99TyAEi) | [The Collingsworth Family](https://open.spotify.com/artist/4B43yyRlfQgDEhDPq35wUc) | [Mercy & Love](https://open.spotify.com/album/5efaQ2tF2R8HkroQ9rB3ew) | 4:00 |
 
-Snapshot ID: `MTYyODgzNjQ2NywwMDAwMDAwMDFkMDdiZDZkZmQ4YjE2ZmY5MWIzZjVhZGRjNDliMmE5`
+Snapshot ID: `MTYyODgzNjQ2NywwMDAwMDAwMDlhNmI3YWMyOWFkNzljNjUyNWIzOWM5YTU1MjU4NDE2`

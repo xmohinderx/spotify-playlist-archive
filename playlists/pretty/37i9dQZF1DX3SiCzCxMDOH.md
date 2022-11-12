@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SiCzCxMDOH.md) - [plain]
 
 > Find your study focus with calm instrumental Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 366,783 likes - 267 songs - 16 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 367,246 likes - 267 songs - 16 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -271,9 +271,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SiCzCxMDOH.md) - [plain]
 | 261 | [Stella by Starlight](https://open.spotify.com/track/3wQLuUwHezzoYCmKWztTxm) | [Tommies Trio](https://open.spotify.com/artist/6A8VCzSDHW4C4Q2J0sIJJN) | [Stella by Starlight](https://open.spotify.com/album/1vDFNuVUq9NcQ0QCRpoVbN) | 3:57 |
 | 262 | [Under A Smiling Moon](https://open.spotify.com/track/0aqmVdsk85uvygzAxpJENH) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [A Scandinavian Thing](https://open.spotify.com/album/0qy8kSH76bUb9abjOjfh7W) | 4:23 |
 | 263 | [It Might As Well Be Spring](https://open.spotify.com/track/62sqdTmnNpWcJtxtJXmKzy) | [Mark Roswell Trio](https://open.spotify.com/artist/5LyofWLANV5qojc0VHqh6i) | [It Might As Well Be Spring](https://open.spotify.com/album/0FMeAHDC7zwcktJQ3KUzGw) | 4:35 |
-| 264 | [A Better Place](https://open.spotify.com/track/6ZDLHi8UtQeT203JjiQU6N) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx) | [A Better Place](https://open.spotify.com/album/5kIBKvyTDfkVFeL3INbvBZ) | 2:13 |
+| 264 | [A Better Place](https://open.spotify.com/track/7JfORZg3Tvn0YyDZCiGhMU) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx) | [A Better Place](https://open.spotify.com/album/0BIRayldwphnBlwreGKihM) | 2:13 |
 | 265 | [One of your little friends](https://open.spotify.com/track/24mDMSSd3K07ilwCA83WzW) | [Jasmine Patterson](https://open.spotify.com/artist/2MvVPVskst6WSd1JWA5311) | [One of your little friends](https://open.spotify.com/album/4Y5JiG4M9HjYWqsgK3vv5n) | 2:43 |
 | 266 | [Chelsea Bridge](https://open.spotify.com/track/5GCBRCB2SVSNOu7k38ix5r) | [Leo Krepper](https://open.spotify.com/artist/67l42DKf27egbfdp0XLpY0) | [Chelsea Bridge](https://open.spotify.com/album/7LELdHXIAow8e1HFmoC859) | 5:03 |
 | 267 | [I've Told Every Little Star](https://open.spotify.com/track/2bYWfgNXxt4CQCPWBicqPx) | [LaSalle Street Trio](https://open.spotify.com/artist/0lEDIqg3LH3JQ9YoFMJAIn) | [Deep In A Dream](https://open.spotify.com/album/5FhqZM4vl2D8B3yF0EiDtK) | 4:13 |
 
-Snapshot ID: `MTY2ODEyMTI2MCwwMDAwMDAwMGZhMGYzOWUyMmY5ZDhjNmI0NzdjOTI0ZTFkYWQwMjhl`
+Snapshot ID: `MTY2ODEyMTI2MCwwMDAwMDAwMGI1YzBiYzExY2ZjMjFjZWU0Y2ZkZTI3YmQ5Nzg0NGFh`

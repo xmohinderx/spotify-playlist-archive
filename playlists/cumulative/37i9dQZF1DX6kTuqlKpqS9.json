@@ -512,6 +512,24 @@
     },
     {
       "album": {
+        "name": "Mujeres con Mariachi",
+        "url": "https://open.spotify.com/album/5HOlH78OGhLQx35UudXbPY"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298506,
+      "name": "Inocente Pobre Amiga - En Vivo Desde Culiac\u00e1n, M\u00e9xico/2012",
+      "url": "https://open.spotify.com/track/0Lyg4QD1qDF3T86N7VNZMF"
+    },
+    {
+      "album": {
         "name": "1 Vida - 3 Historias - Despedida De Culiac\u00e1n (En Vivo Desde Culiac\u00e1n, M\u00e9xico/2012)",
         "url": "https://open.spotify.com/album/3WlN6A2y1EKdI74XPoqMHt"
       },
@@ -541,7 +559,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 298506,
       "name": "Inocente Pobre Amiga - Live",
       "url": "https://open.spotify.com/track/0ZUsFHwJXaG7tz1KayJGkX"

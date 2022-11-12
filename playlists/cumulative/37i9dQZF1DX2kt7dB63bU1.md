@@ -2,9 +2,9 @@
 
 ### [Vocal Jazz](https://open.spotify.com/playlist/37i9dQZF1DX2kt7dB63bU1)
 
-> Jazz voices of today\. Cover: Caity Gyorgy
+> Jazz voices of today\. Cover: Lauren Henderson
 
-490 songs - 1 day 10 hr 17 min - [published](https://open.spotify.com/playlist/1MJcLwlhyaudSQhL0k2nLU)
+492 songs - 1 day 10 hr 26 min - [published](https://open.spotify.com/playlist/1MJcLwlhyaudSQhL0k2nLU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [Chiaroscuro](https://open.spotify.com/track/0ytuZShLSnHWQG9uFVJEJl) | [Kristen Lee Sergeant](https://open.spotify.com/artist/5ccV9rNbLyJDuhUstyL2eb), [Jeb Patton](https://open.spotify.com/artist/0wYKpSqMDbPDpq2wVxqNgj) | [Falling](https://open.spotify.com/album/1djEqiwSoAxfiY9Wo1l2mj) | 4:30 | 2022-02-25 | 2022-07-21 |
 | [Choro\-Jazz Song](https://open.spotify.com/track/65S4ycKJQPS3RlSabYBfvs) | [Danilo Penteado](https://open.spotify.com/artist/7qWu8AbQkTMh17CabDpIHe), [Blubell](https://open.spotify.com/artist/7dwYIUDK7ZnTCP4gS7Y46E), [Luca Raele](https://open.spotify.com/artist/0mciU04JoXZua4RVSLqyW3) | [Choro\-Jazz Song](https://open.spotify.com/album/3inPeI0QVQlLj9aBermaeN) | 2:10 | 2022-05-02 | 2022-07-29 |
 | [Come Away With Me \- Alternate Version](https://open.spotify.com/track/4Fjqhauhcq5cf0eXmf7tMD) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me \(Alternate Version\)](https://open.spotify.com/album/2WFysyY3byRvtOsuJy9txO) | 3:27 | 2022-02-25 | 2022-07-29 |
-| [Come Away With Me \- Alternate Version](https://open.spotify.com/track/4yaoi2yin0n9WHaGFPcszQ) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me \(Super Deluxe Edition\)](https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl) | 3:27 | 2022-02-25 |  |
+| [Come Away With Me \- Alternate Version](https://open.spotify.com/track/4yaoi2yin0n9WHaGFPcszQ) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me \(Super Deluxe Edition\)](https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl) | 3:27 | 2022-02-25 | 2022-11-12 |
 | [Come Fly with Me](https://open.spotify.com/track/6Yzl0fJuDnNsQA3I1VVSCP) | [Carol Welsman](https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR) | [Come Fly with Me](https://open.spotify.com/album/1a9XmKMYpi3XJAc626uqyY) | 3:31 | 2022-05-13 | 2022-10-09 |
 | [Come Fly With Me](https://open.spotify.com/track/12v7P7tjpUJmNCdhsBbeSl) | [Eliane Elias](https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR) | [Love Stories](https://open.spotify.com/album/3quRrdM2QORsA07w31zq5N) | 5:52 | 2022-02-18 |  |
 | [Come Fly With Me](https://open.spotify.com/track/49YWNbeuLCWIov2BZQ0Q6d) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs) | [Come Fly With Me](https://open.spotify.com/album/5N5Kjl6K0Wor00djG1evyB) | 2:53 | 2020-10-09 | 2022-02-15 |
@@ -234,6 +234,7 @@
 | [it's alright](https://open.spotify.com/track/0McrsC4SQOTU0tBrxZIaBV) | [Sirintip](https://open.spotify.com/artist/6ZUFztmnNpggjzUXH4irFx) | [it's alright](https://open.spotify.com/album/19roU5ecP9LrpQ8ulgTbq2) | 3:33 | 2022-09-16 | 2022-09-24 |
 | [It's Gonna Happen Tonight](https://open.spotify.com/track/2QcUiQ9NBgHJdX9sGQVaAp) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [It's Gonna Happen Tonight](https://open.spotify.com/album/4wRIv7VL7bUq6gOvccx0DU) | 3:16 | 2021-07-02 | 2022-02-19 |
 | [It's Gonna Happen Tonight \(Version with Orchestra\)](https://open.spotify.com/track/1k31bVtBl0LsAZjxa5xOkj) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [It's Gonna Happen Tonight \(Version with Orchestra\)](https://open.spotify.com/album/0vCHNjynpWM6S7hC89P5A9) | 3:24 | 2022-03-25 |  |
+| [It's Magic](https://open.spotify.com/track/3NqvtPL7TUtlNXpypf0n0a) | [Lauren Henderson](https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l), [Eric Wheeler](https://open.spotify.com/artist/1TvIn0DgifSGnkJL6VTEF5), [Joe Dyson](https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS), [John Chin](https://open.spotify.com/artist/1ixbDzSoXoP26q6TkB3yHU), [Nick Tannura](https://open.spotify.com/artist/17rFfNiQpIFQGk04TNl3xB) | [It's Magic](https://open.spotify.com/album/2GmDXAz7riUllsiCGd0htY) | 5:05 | 2022-11-11 |  |
 | [It's Oh So Quiet](https://open.spotify.com/track/0HRkVSOxjs9qdvAUKc603s) | [Lyambiko](https://open.spotify.com/artist/6ffhnheAv6MHO3B0ybBpnK), [WDR Funkhausorchester](https://open.spotify.com/artist/24dGgI2Wdq3EF0oqq3lhM9) | [It's Oh So Quiet](https://open.spotify.com/album/6C6nBYHDXsWFUAp7D45Pwv) | 3:48 | 2020-10-09 | 2022-02-19 |
 | [James](https://open.spotify.com/track/0crjAWE1C7tHdQArfhSMut) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Typical of Me EP](https://open.spotify.com/album/6gGP0HuDvAzkZQk9wQOwdo) | 2:55 | 2021-04-30 | 2022-10-08 |
 | [James](https://open.spotify.com/track/3yQmQSliq7uJhJet0YGmeX) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Typical of Me](https://open.spotify.com/album/1ZSqGiN0icYQ9AjMRCAiRo) | 2:55 | 2021-04-30 | 2022-07-12 |
@@ -391,6 +392,7 @@
 | [Summertime](https://open.spotify.com/track/70MA6VYfLYs1vSnXU3jmma) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [Summertime](https://open.spotify.com/album/75UH4PTJl3CDxuHjjygfY5) | 3:21 | 2020-10-16 | 2022-02-19 |
 | [Sun For Someone \- Live at Longreel](https://open.spotify.com/track/1LNY7nH1hu4NP70pgJ5gQv) | [Oscar Jerome](https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh) | [Live At Longreel](https://open.spotify.com/album/17878IC3YcaxrHU8T5SL5g) | 5:40 | 2021-04-16 | 2022-04-21 |
 | [Sunny](https://open.spotify.com/track/4VHm7ABduF0wRhmoGIOXHJ) | [Laura Fygi](https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB) | [Jazz Love](https://open.spotify.com/album/2XDDmdrutCzZRwxpkoJBLq) | 3:56 | 2022-02-18 |  |
+| [Sunrise](https://open.spotify.com/track/60EiB2sz5mqvRiDvDb0ucZ) | [CHERISE](https://open.spotify.com/artist/36J979CZNAI4GsrElYFUOC) | [Sunrise](https://open.spotify.com/album/3xbjnXESasgtICbl418mje) | 3:40 | 2022-09-30 |  |
 | [Sunset In The Blue](https://open.spotify.com/track/3fkoZm1DZEfsyAx1Z87bKR) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J) | [Sunset In The Blue](https://open.spotify.com/album/1LIhtVLdBxW5V6rUW1hz8D) | 4:32 | 2020-10-09 | 2022-02-19 |
 | [Suzanne \(feat\. Gregory Porter\)](https://open.spotify.com/track/2IYWqinJpFhid2qRqnqPDA) | [Here It Is](https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw), [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Suzanne](https://open.spotify.com/album/6ZzCxDsaWHAK4kKcjep4iQ) | 4:33 | 2022-09-23 |  |
 | [Sweet Lorraine](https://open.spotify.com/track/5oc7mmLqcClZ4CTIpn8w3W) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Relief \- a Benefit for the Jazz Foundation of America's Musicians' Emergency Fund](https://open.spotify.com/album/4jtdfVBlSM9dHwEb3jtnNi) | 3:54 | 2021-07-23 | 2022-02-19 |

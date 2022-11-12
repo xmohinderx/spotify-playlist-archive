@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXomWOJXYvzn.md) - [plain]
 
 > Commonly known as <a href="https://www.instagram.com/alohodc/">ALOHO</a>, this queer/lesbian bar, safe space, and community hub in Washington, DC  helps to co\-curate a playlist of their favorite Pride jams!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,888 likes - 45 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,887 likes - 45 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,11 +16,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXomWOJXYvzn.md) - [plain]
 | 6 | [I Wanna Dance with Somebody \(Who Loves Me\)](https://open.spotify.com/track/2Xw0ZZqCbMbgEX3zl4WPzI) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Summer Throwback](https://open.spotify.com/album/6uUEbDbH7X3mVqx7WkF7VV) | 4:50 |
 | 7 | [Le Freak](https://open.spotify.com/track/5L6bUnOoGJ0t0Pb9UVWaGa) | [CHIC](https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV) | [Grease \- 70s Party Songs](https://open.spotify.com/album/0DhuO4oG0pCXjzZvmweny8) | 5:29 |
 | 8 | [Toxic](https://open.spotify.com/track/6I9VzXrHxO9rA9A5euc8Ak) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [In The Zone](https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI) | 3:18 |
-| 9 | [Raise Your Glass](https://open.spotify.com/track/1gv4xPanImH17bKZ9rOveR) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Raise Your Glass](https://open.spotify.com/album/3uQMzfrf4kUNGsCtmTtjPh) | 3:22 |
+| 9 | [Raise Your Glass](https://open.spotify.com/track/7b0ntlwdNd4R8gaUCaDx4h) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Summer Viral Hits 2022](https://open.spotify.com/album/6dFlSjJamyVX3Um0Joaif3) | 3:23 |
 | 10 | [Dancing On My Own](https://open.spotify.com/track/1aQzWpzJ1uAhb1yM7UAiP7) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [2010 Top Hits](https://open.spotify.com/album/7pIncnQH1oj8FEKzTs3noB) | 4:48 |
 | 11 | [Cool for the Summer](https://open.spotify.com/track/2zFF6jG5hQArbzcXz3KUWk) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Confident \(Deluxe Edition\)](https://open.spotify.com/album/3HV3ecmJJ2GmHM93vVVKXF) | 3:34 |
 | 12 | [Good as Hell](https://open.spotify.com/track/1fUXdFpj8AbpkdwiaJwQWk) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You \(Super Deluxe\)](https://open.spotify.com/album/2KJjOBX280F3hZZE1xO33O) | 2:39 |
-| 13 | [Let's Have A Kiki](https://open.spotify.com/track/154Ada4WZXskIMnsKiy26u) | [Scissor Sisters](https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o) | [Magic Hour \(Deluxe\)](https://open.spotify.com/album/2P12s0AcooZGvM6mfgeuw3) | 3:50 |
+| 13 | [Let's Have A Kiki](https://open.spotify.com/track/26CSlPiiRLZkmvo9c4vyiR) | [Scissor Sisters](https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o) | [Music Is Universal: Kiki Classics For PRIDE](https://open.spotify.com/album/512wg0iwuFA0783dvWGf9q) | 3:50 |
 | 14 | [Ain't Nobody](https://open.spotify.com/track/2NVpYQqdraEcQwqT7GhUkh) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Epiphany: The Best of Chaka Khan, Vol\. 1](https://open.spotify.com/album/3qeheeurjW0lNtf9d7hJLe) | 4:40 |
 | 15 | [I Like It](https://open.spotify.com/track/58q2HKrzhC3ozto2nDdN4z) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Invasion of Privacy](https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML) | 4:13 |
 | 16 | [Girls Like Girls](https://open.spotify.com/track/3dNjUFt6EFU4Gq6Q5vfJqf) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [This Side of Paradise \- EP](https://open.spotify.com/album/1DBeQGiRdap7iuvuxSx3bD) | 3:49 |
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXomWOJXYvzn.md) - [plain]
 | 32 | [Can't Get You out of My Head](https://open.spotify.com/track/3E7ZwUMJFqpsDOJzEkBrQ7) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Fever](https://open.spotify.com/album/4WzTXHp8bVKkKNu3UQ2Fqu) | 3:50 |
 | 33 | [Side To Side](https://open.spotify.com/track/4HeCFqiB1rBqGqvE10rF1a) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Dangerous Woman](https://open.spotify.com/album/5X7x18kW3mVIvnuNeedM6b) | 3:46 |
 | 34 | [OOOUUU](https://open.spotify.com/track/7JYsArznYOjX2jsrT3UEnL) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Herstory](https://open.spotify.com/album/23Fvpx2T1drg9lJ4WC0fXl) | 3:54 |
-| 35 | [Malibu](https://open.spotify.com/track/7G0tY4ErguYZpP6nQ6Qcnc) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Malibu](https://open.spotify.com/album/5wtQMwjNEy1x2OIkUIz5Lk) | 3:11 |
+| 35 | [Malibu](https://open.spotify.com/track/02w1bcPNTPrF06IsMoQxUc) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Cold Heart](https://open.spotify.com/album/2ub4hh8QvhlDh9MzsAdzF3) | 3:11 |
 | 36 | [Overnight Scenario](https://open.spotify.com/track/66nXdAjGXyb76XkmVL0p9n) | [Rare Essence](https://open.spotify.com/artist/4vKZXZH0eDibGsDxMVzZDh) | [Classic Cuts, Vol\. 1](https://open.spotify.com/album/2owP9hfrBzMbvSMppf9wrP) | 4:56 |
 | 37 | [Nights With You](https://open.spotify.com/track/5q5gzmbBS5yQzos2BvVr1t) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Nights With You](https://open.spotify.com/album/0kgy48FPwyVepPIaiO2w7G) | 3:17 |
 | 38 | [WAP \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/4Oun2ylbjFKMPTiaSbbCih) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [WAP \(feat\. Megan Thee Stallion\)](https://open.spotify.com/album/2ogiazbrNEx0kQHGl5ZBTQ) | 3:07 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXomWOJXYvzn.md) - [plain]
 | 44 | [Soltera \- Remix](https://open.spotify.com/track/1c0hsvHLELX6y8qymnpLKL) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Soltera \(Remix\)](https://open.spotify.com/album/2m9Vuc9Q19qhSm6RQmBgsR) | 4:26 |
 | 45 | [Yo Perreo Sola \- Remix](https://open.spotify.com/track/2cpteAYHcd4cjSxAeCkA52) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Nesi](https://open.spotify.com/artist/0f6U482Lbo91QNqNFH4Tat), [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [Yo Perreo Sola \(Remix\)](https://open.spotify.com/album/5PnvXVpTYKTgaSOGF5DGjL) | 2:54 |
 
-Snapshot ID: `MTYyMjQ2NjI5NCwwMDAwMDAwMDhhNmRhYTU5NjE2ZmY5ODIyOWY0ODFiMTAzNTRmMDI0`
+Snapshot ID: `MTYyMjQ2NjI5NCwwMDAwMDAwMDgwNTZlOTUwN2RmNGY4ZTk2MDZkNDk3YmNkMzIzN2Zk`

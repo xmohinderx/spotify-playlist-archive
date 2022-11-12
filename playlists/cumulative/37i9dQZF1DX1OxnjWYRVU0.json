@@ -4439,10 +4439,28 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 114193,
       "name": "Just Dance",
       "url": "https://open.spotify.com/track/1T1P4aZxStasNK76EfyZcF"
+    },
+    {
+      "album": {
+        "name": "Ibiza 2022",
+        "url": "https://open.spotify.com/album/5fMeAtQitXwgs2TTO0dWq5"
+      },
+      "artists": [
+        {
+          "name": "Wasback",
+          "url": "https://open.spotify.com/artist/3rmYE7edorDWoKVPGk9iLZ"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114193,
+      "name": "Just Dance",
+      "url": "https://open.spotify.com/track/3f4vOr8YHwPpzzfteITYOz"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Your weekly update of the most played tracks right now \- Taiwan.
 
-76 songs - 4 hr 46 min - not published yet
+78 songs - 4 hr 53 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [I Ain't Worried](https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Ain’t Worried \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2) | 2:28 | 2022-09-30 |  |
 | [I Really Want to Stay at Your House](https://open.spotify.com/track/7mykoq6R3BArsSpNDjFQTm) | [Rosa Walton](https://open.spotify.com/artist/1X0HaTcdkHW7LviblBiEeq), [Hallie Coggins](https://open.spotify.com/artist/5JNkPX6dYGLeEm4cUjHNGc) | [Cyberpunk 2077: Radio, Vol\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/1VGVJdmvOSRK2w9RKXk18A) | 4:06 | 2022-09-30 |  |
 | [I'm Alive](https://open.spotify.com/track/0FfNFvy5KRRyB2snvK39zL) | [W.M.L](https://open.spotify.com/artist/5PeVQEj4Yr0TB9CuG83dPB), [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [I'm Alive](https://open.spotify.com/album/494KRb9whsEPJ0IjKS4Dji) | 2:52 | 2022-09-30 |  |
-| [ILLELLA](https://open.spotify.com/track/34vqTQQDhOppwZDbpOJoip) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [MIC ON](https://open.spotify.com/album/2Mg8o2HDAbaGqbLtnNuVUX) | 2:46 | 2022-10-21 |  |
+| [ILLELLA](https://open.spotify.com/track/34vqTQQDhOppwZDbpOJoip) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [MIC ON](https://open.spotify.com/album/2Mg8o2HDAbaGqbLtnNuVUX) | 2:46 | 2022-10-21 | 2022-11-12 |
 | [KICK BACK](https://open.spotify.com/track/3khEEPRyBeOUabbmOPJzAG) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [KICK BACK](https://open.spotify.com/album/6RH1fEIz8HVXregzz5Xp2B) | 3:13 | 2022-10-21 |  |
 | [Lavender Haze](https://open.spotify.com/track/5jQI2r1RdgtuT8S3iG8zFC) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:22 | 2022-10-28 |  |
 | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/track/0mBP9X2gPCuapvpZ7TGDk3) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/album/4LyiYe4wZ6XwzUne79hidF) | 2:34 | 2022-09-30 | 2022-10-15 |
@@ -64,16 +64,18 @@
 | [就忘了吧](https://open.spotify.com/track/0l6w3GsvjJWdZHs3eXTjuL) | [1K](https://open.spotify.com/artist/1zd6jcOk4VE6ey8WbCewFc) | [就忘了吧](https://open.spotify.com/album/2i3Y97GZZj6pH1DTYyyrRt) | 3:23 | 2022-09-30 |  |
 | [怎麼了](https://open.spotify.com/track/5cU1O9P0EDA0rPkPDykhIm) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [終於了解自由 \(Deluxe\)](https://open.spotify.com/album/2lrmHLTedOpdP6TaZDZ77F) | 5:21 | 2022-10-14 | 2022-10-29 |
 | [想知道你在想什麼 \- 《我吃了那男孩一整年的早餐》電影主題曲](https://open.spotify.com/track/6whxKQ0Ocn1FmzpDc7lTHq) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [想知道你在想什麼 \(《我吃了那男孩一整年的早餐》電影主題曲\)](https://open.spotify.com/album/0bk4Iwkx4kZ66ldOfJGQFn) | 4:54 | 2022-09-30 |  |
-| [愛上你算我賤](https://open.spotify.com/track/3jdy4aOla1dwYIqwp69JJN) | [NICKTHEREAL](https://open.spotify.com/artist/1fHw35wWkpOw05sswFSl70) | [REAL LIFE](https://open.spotify.com/album/61lJ7RLdtuMb8vxZB47W4i) | 4:10 | 2022-09-30 |  |
+| [愛上你算我賤](https://open.spotify.com/track/3jdy4aOla1dwYIqwp69JJN) | [NICKTHEREAL](https://open.spotify.com/artist/1fHw35wWkpOw05sswFSl70) | [REAL LIFE](https://open.spotify.com/album/61lJ7RLdtuMb8vxZB47W4i) | 4:10 | 2022-09-30 | 2022-11-12 |
 | [愛人錯過](https://open.spotify.com/track/27FOde2nUw0pFuj7hlPbaS) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [我肯定在幾百年前就說過愛你](https://open.spotify.com/album/7yvCk24AtE9k0vLcolSs2i) | 4:52 | 2022-10-07 | 2022-10-29 |
 | [愛情你比我想的閣較偉大 \-《當男人戀愛時》電影主題曲](https://open.spotify.com/track/4fJlSLYLiu5trFCMZdSQDC) | [EggPlantEgg](https://open.spotify.com/artist/6g641431O1Xkl7HAs2yFEg) | [愛情你比我想的閣較偉大 \-《當男人戀愛時》電影主題曲](https://open.spotify.com/album/0VqgheMWJatfAl6njk2DL8) | 3:52 | 2022-09-30 |  |
 | [慢冷](https://open.spotify.com/track/3NNDJfWMGHuNpvHWTImmlW) | [Fish Leong](https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS) | [我好嗎? \- 太陽如常升起](https://open.spotify.com/album/13EgeVmtvcqQIdJJix6QzM) | 4:49 | 2022-09-30 | 2022-10-15 |
+| [我就想你](https://open.spotify.com/track/0Eh0C7rpC5E0sPy4OcLdsq) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [關掉 / 打開](https://open.spotify.com/album/4lNhQsVRJOBvSgBpdb6sXN) | 3:24 | 2022-11-11 |  |
 | [我很好騙](https://open.spotify.com/track/69AvckyixY1AIGRYDZ1QnO) | [Power Station](https://open.spotify.com/artist/6zCAdMK7SVxKyGMnAc26Cy) | [都是因為愛](https://open.spotify.com/album/642Wu4osR9HAqIC08z1YUg) | 5:13 | 2022-09-30 |  |
 | [披星戴月的想你](https://open.spotify.com/track/7tgzj2IqzSgUpxUhjmcF5m) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [我肯定在幾百年前就說過愛你](https://open.spotify.com/album/7yvCk24AtE9k0vLcolSs2i) | 5:49 | 2022-09-30 |  |
 | [新時代](https://open.spotify.com/track/28MATCYDctW5EiBa2repxb) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ウタの歌 ONE PIECE FILM RED](https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA) | 3:46 | 2022-09-30 | 2022-10-15 |
 | [最偉大的作品](https://open.spotify.com/track/26vo1FuxIs0rINePq3lOx8) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [最偉大的作品](https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa) | 4:04 | 2022-09-30 | 2022-10-29 |
 | [最後一堂課 \- 《媽,別鬧了!》影集片尾曲](https://open.spotify.com/track/2OR5FUKy3GQ7I9DCbRnfsW) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [最後一堂課 \(《媽,別鬧了!》影集片尾曲\)](https://open.spotify.com/album/5x6j8vBf5m91MUBEO5Jdxy) | 4:38 | 2022-09-30 |  |
 | [有些](https://open.spotify.com/track/3V2v19gDm4rmRkMwcgS4X2) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [失眠症候群](https://open.spotify.com/album/1XD00QTaV6BAcPdsmGzyyN) | 3:49 | 2022-11-04 |  |
+| [满天星辰不及你](https://open.spotify.com/track/09io3vVKFutG8rzdjjQYfM) | [yccc](https://open.spotify.com/artist/688ekAE2qdQA7jJbmqcXGL) | [满天星辰不及你](https://open.spotify.com/album/6AvfkqnDNGX27Lz7C02mIt) | 3:36 | 2022-11-11 |  |
 | [炙愛 \- 女聲版](https://open.spotify.com/track/3CEkc8f1UDvI7kohz3ARpA) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [Am I Who I Am](https://open.spotify.com/album/4UNHITlg3vOCdwV2qMwwl1) | 3:01 | 2022-09-30 |  |
 | [祝福](https://open.spotify.com/track/7ajpbW6tBpqUI9foCtwlLw) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [祝福](https://open.spotify.com/album/7KS8ZZpgraGBazVoSeX6O4) | 3:16 | 2022-10-14 | 2022-10-22 |
 | [終究還是因為愛](https://open.spotify.com/track/53yiHIP3ptxWtT4ambRcgb) | [TRASH](https://open.spotify.com/artist/3KZMUYrA5eIfgZdIFRmNe4) | [Holy Trip!](https://open.spotify.com/album/4xI5LoEWLxoTm4DNa4fSUn) | 4:45 | 2022-09-30 |  |

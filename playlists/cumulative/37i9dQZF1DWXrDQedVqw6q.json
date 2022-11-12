@@ -674,6 +674,24 @@
     },
     {
       "album": {
+        "name": "Efflorescence",
+        "url": "https://open.spotify.com/album/1B6egnIEsekK1eGnNr7yLC"
+      },
+      "artists": [
+        {
+          "name": "Zhou Thiemo",
+          "url": "https://open.spotify.com/artist/3melX7nvzHoJ9w8pCvpTRK"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180432,
+      "name": "Efflorescence",
+      "url": "https://open.spotify.com/track/4iaZYHsfo1yuZmM9IlTl9g"
+    },
+    {
+      "album": {
         "name": "Empathy",
         "url": "https://open.spotify.com/album/1HMzKY4ZxTVOoz3ycrkF5w"
       },

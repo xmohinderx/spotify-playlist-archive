@@ -4,7 +4,7 @@
 
 > Take a break from distorted guitars and enjoy punk's mellow side\. Cover: Avril Lavigne
 
-257 songs - 15 hr 14 min - [published](https://open.spotify.com/playlist/2gYz3qj1b5UVMrGVG0Oipm)
+258 songs - 15 hr 17 min - [published](https://open.spotify.com/playlist/2gYz3qj1b5UVMrGVG0Oipm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,6 +147,7 @@
 | [Light On](https://open.spotify.com/track/4QeuXQ7LKdRXo5o7C6al6S) | [Last Night Saved My Life](https://open.spotify.com/artist/0AcQzV75nMVCmChGNyGzPH) | [Light On](https://open.spotify.com/album/0shoi18L4d6jBsFyTs29d2) | 3:45 | 2021-02-08 | 2022-07-17 |
 | [Lights Out](https://open.spotify.com/track/0BoNR72JDBcH7b9v1WpD3D) | [Mike Herrera](https://open.spotify.com/artist/6CoS5eAPJErSSTyEsWcJOp) | [Lights Out](https://open.spotify.com/album/1iu23Ehsxrift5PGUtrPt8) | 3:16 | 2022-04-04 | 2022-04-19 |
 | [Limits \- Unplugged](https://open.spotify.com/track/3Z06DUeSPpGqqVKoOa9Czi) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [Limits](https://open.spotify.com/album/13Kz5MQJaH2Gz74OidluA5) | 3:16 | 2021-02-08 | 2022-11-05 |
+| [Limits \- Unplugged](https://open.spotify.com/track/4WcOPeBNUtQCvGmSIneuA1) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [Limits](https://open.spotify.com/album/1rfwzthKH7XyJ5yIJ4OZ71) | 3:16 | 2022-04-04 |  |
 | [Little Dove](https://open.spotify.com/track/0UQmlGUd4u1v9QxiiBbQtV) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [All Distortions Are Intentional](https://open.spotify.com/album/3fM2J0ilTBGwnzcN3SqUcG) | 3:04 | 2021-02-08 |  |
 | [Little One \(Acoustic\)](https://open.spotify.com/track/2B8p1NMeBV5jEXKVANgrDo) | [Ready Steady Steroids](https://open.spotify.com/artist/1ObNbwiR2rX4PUY2BUF9xN) | [Little One \(Acoustic\)](https://open.spotify.com/album/1jAxMo9plS1NExM4onc2VQ) | 3:16 | 2021-02-08 | 2022-07-27 |
 | [Long Night](https://open.spotify.com/track/57O3KxOf63GafUXTBelpyW) | [With Confidence](https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav) | [Better Weather](https://open.spotify.com/album/73yzCXeZAtNFC7YoIroAPD) | 3:33 | 2021-02-08 | 2022-07-28 |
@@ -195,7 +196,7 @@
 | [Scumbag \- Acoustic](https://open.spotify.com/track/37Eb16TFeVB2dxkoEnzW4W) | [Goody Grace](https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30) | [Scumbag \(Acoustic\)](https://open.spotify.com/album/3bauwJBwUAGFxVCoajMIKv) | 3:29 | 2021-02-08 |  |
 | [Seattle](https://open.spotify.com/track/2T2knVSbMmqPpI4bSdChuV) | [Those Without](https://open.spotify.com/artist/1HTnNmldrSruFvjSz4zhFy) | [Seattle](https://open.spotify.com/album/5Shjpd37iIUMaNoyBLcLGT) | 3:26 | 2021-02-08 |  |
 | [Send Help](https://open.spotify.com/track/1cqSgH6m4nrW1xsTtX6OUj) | [Lonely Avenue](https://open.spotify.com/artist/4opG4daBqDC4UOGwQbweRn) | [Send Help](https://open.spotify.com/album/57JPx4goPt4LjqDQHFKJiV) | 3:23 | 2021-02-08 | 2022-07-28 |
-| [Send Help](https://open.spotify.com/track/3P3OfdWRtg1UTtF1dqeSe8) | [Lonely Avenue](https://open.spotify.com/artist/4opG4daBqDC4UOGwQbweRn) | [Attack on Robot Pirate Island](https://open.spotify.com/album/24RvoXg0dzzXEjThRoV1X6) | 3:23 | 2022-04-04 |  |
+| [Send Help](https://open.spotify.com/track/3P3OfdWRtg1UTtF1dqeSe8) | [Lonely Avenue](https://open.spotify.com/artist/4opG4daBqDC4UOGwQbweRn) | [Attack on Robot Pirate Island](https://open.spotify.com/album/24RvoXg0dzzXEjThRoV1X6) | 3:23 | 2022-04-04 | 2022-11-12 |
 | [Sequel \- Acoustic](https://open.spotify.com/track/7pMq1eqT6Kh2tENYWqZTJ9) | [Ten Foot Pole](https://open.spotify.com/artist/27HBzx6Ox43GPbWLECgbFW) | [Simmer Down \(Acoustic\)](https://open.spotify.com/album/1Yyjm4i0o5NawNialaKuLm) | 3:19 | 2022-04-04 | 2022-04-19 |
 | [She's Quiet \(Acoustic\)](https://open.spotify.com/track/4NlqCEZY5njqLwUR18hcTV) | [The Home Team](https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x) | [She's Quiet \(Acoustic\)](https://open.spotify.com/album/6Lr7fmCihSri2QStZmumN4) | 3:20 | 2021-02-08 |  |
 | [Sixteen](https://open.spotify.com/track/72PRHbPh44Rqj4NiiQYTzL) | [Lonely Spring](https://open.spotify.com/artist/3noGPmqOwQzkj3lMzblV3f) | [Sixteen](https://open.spotify.com/album/5CqlverB4FuW80hC30NQpE) | 3:49 | 2022-04-04 | 2022-04-17 |

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1F8iyK0PtpY1EAYBTssIaz">Billy Strayhorn</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-146 songs - 10 hr 47 min - [published](https://open.spotify.com/playlist/1UyIYAFlZaVwKHGX6GAsd7)
+147 songs - 10 hr 52 min - [published](https://open.spotify.com/playlist/1UyIYAFlZaVwKHGX6GAsd7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,7 +147,8 @@
 | [Triple Play](https://open.spotify.com/track/0WXLbhRZmZ8BuqGW9kqN0a) | [Billy Strayhorn](https://open.spotify.com/artist/6RbBDzGJqAROG0LP9TrXfW) | [Lush Life](https://open.spotify.com/album/43x4d2Sq1mUl2X5VBWa0Ve) | 5:23 | 2022-09-08 | 2022-10-19 |
 | [Triple Play](https://open.spotify.com/track/4LHvcUgH4uw2HvYCnlPMC3) | [Billy Strayhorn](https://open.spotify.com/artist/6RbBDzGJqAROG0LP9TrXfW) | [Lush Life](https://open.spotify.com/album/3YelTkVhlEXydToO9cCDjS) | 5:23 | 2022-10-18 |  |
 | [Tymperturbably Blue](https://open.spotify.com/track/7hjE25giigr2EMT4YORsIe) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Jazz Party](https://open.spotify.com/album/3in4NPGC2wwEBgqFnCDryo) | 4:23 | 2022-09-08 |  |
-| [U.M.M.G\. \(Upper Manhattan Medical Group\)](https://open.spotify.com/track/5sJpQV6iIInQ4DqL3Jfqzc) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Duke \(Remastered 2014\)](https://open.spotify.com/album/4iYz6htNriFtdpgqZNDWSW) | 3:06 | 2022-09-08 |  |
+| [U.M.M.G\. \(Upper Manhattan Medical Group\)](https://open.spotify.com/track/5sJpQV6iIInQ4DqL3Jfqzc) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Duke \(Remastered 2014\)](https://open.spotify.com/album/4iYz6htNriFtdpgqZNDWSW) | 3:06 | 2022-09-08 | 2022-11-12 |
+| [U.M.M.G\. \(Upper Manhattan Medical Group\)](https://open.spotify.com/track/5nZ3cWYXLM6exMFCweubmL) | [Joe Henderson](https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt) | [Lush Life\-The Music Of Billy Strayhorn](https://open.spotify.com/album/79ih1hMMqaYaMXhdlXDxku) | 5:00 | 2022-11-11 |  |
 | [Up and Down, Up and Down \(I Will Lead Them Up and Down\) \[Puck\]](https://open.spotify.com/track/1Cs9WtbQl4eWqzeOLNlBwo) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Such Sweet Thunder](https://open.spotify.com/album/2atnsiXP0oFjUE7SGFdzNA) | 3:02 | 2022-09-08 |  |
 | [Valse](https://open.spotify.com/track/71BIOhurzguCa78klmstoH) | [Bill Charlap](https://open.spotify.com/artist/2QX8yUROOnWTSLFg4sZ9Gg) | [Lush Life](https://open.spotify.com/album/06bL3slLObxuzHxNO8CDyQ) | 2:35 | 2022-09-08 |  |
 | [What Else Can You Do With a Drum, Pt\. 1 \- Calypso](https://open.spotify.com/track/05NaZClsqp0omXp4gYF8S0) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [A Drum Is a Woman](https://open.spotify.com/album/1L06BMH0kRrUQX93Vv3xck) | 1:52 | 2022-09-08 |  |

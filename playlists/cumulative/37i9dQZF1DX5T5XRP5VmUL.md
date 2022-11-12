@@ -4,7 +4,7 @@
 
 > The perfect soundtrack to the holiday season!
 
-221 songs - 12 hr 13 min - [published](https://open.spotify.com/playlist/4IaW87U8saVqpYKumxtPZo)
+222 songs - 12 hr 17 min - [published](https://open.spotify.com/playlist/4IaW87U8saVqpYKumxtPZo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Ain't Christmas Without You](https://open.spotify.com/track/6fllrEGp68zr1x4woBjovV) | [Danielle Ryan](https://open.spotify.com/artist/7lyU0zKn0p7RDoXFoL7opK) | [Ain't Christmas Without You](https://open.spotify.com/album/2zRvR9zw57tyU81Ef78SRe) | 4:13 | 2021-12-24 | 2022-07-29 |
 | [All I Want for Christmas Is You](https://open.spotify.com/track/76hkxEpwPDjCuYj0GrOTqG) | [Dave Thomas Junior](https://open.spotify.com/artist/0mUIey7n1U90IScto35rX7) | [All I Want for Christmas Is You](https://open.spotify.com/album/4JddaIse1rg3jZCbuQDHiE) | 3:25 | 2022-10-29 |  |
 | [All I Want For Christmas Is You](https://open.spotify.com/track/6r7dQe9qCH3ag5orO2WnJw) | [Laurence Nerbonne](https://open.spotify.com/artist/1fPc13ccCnGx3gdESGBhYQ) | [All I Want For Christmas Is You](https://open.spotify.com/album/3kc2Y4D6VJzCgpD7Nd1rHs) | 3:04 | 2021-12-24 | 2022-10-30 |
-| [Alone Tonight](https://open.spotify.com/track/16DR3eCbf4dIRNaXjx7Ioc) | [Olivia Mae Graham](https://open.spotify.com/artist/0aYagTq2r8P9Z8KR8sby2H) | [Alone Tonight](https://open.spotify.com/album/0bpOQcxQeOxO8r8nPUOVUj) | 2:58 | 2022-11-04 |  |
+| [Alone Tonight](https://open.spotify.com/track/16DR3eCbf4dIRNaXjx7Ioc) | [Olivia Mae Graham](https://open.spotify.com/artist/0aYagTq2r8P9Z8KR8sby2H) | [Alone Tonight](https://open.spotify.com/album/0bpOQcxQeOxO8r8nPUOVUj) | 2:58 | 2022-11-04 | 2022-11-12 |
 | [Angels We Have Heard on High](https://open.spotify.com/track/4rGTZ1t0WLFpviiN3zZb0V) | [Nuela Charles](https://open.spotify.com/artist/54l7IHesYhtkP9Dm4jN4Zl) | [Angels We Have Heard on High](https://open.spotify.com/album/7KKitloAE7VWiHFGg6D2u3) | 3:14 | 2021-12-24 | 2022-07-27 |
 | [Another December](https://open.spotify.com/track/0tS0XtGwRbPWjfMfIHJ7id) | [Corey Hart](https://open.spotify.com/artist/0smy8yDrRoI4CnhpOuthg0) | [Another December](https://open.spotify.com/album/0D6d6WlbZrJD9fcSYpIwMV) | 3:20 | 2021-12-24 | 2022-07-29 |
 | [Another December](https://open.spotify.com/track/0vGvie247As4QVcq7z3o64) | [Corey Hart](https://open.spotify.com/artist/0smy8yDrRoI4CnhpOuthg0) | [Dreaming Time Again \- EP](https://open.spotify.com/album/6vtOgyM8mqBML5vTVxTrrN) | 3:20 | 2021-12-24 |  |
@@ -37,7 +37,7 @@
 | [Christmas Alone](https://open.spotify.com/track/4IMBxJ8v95UNXLeAzJTC64) | [Amay Laoni](https://open.spotify.com/artist/2d4upAuUXXLneWMHHloXSp) | [Christmas Alone](https://open.spotify.com/album/5sJ41KUJEVPl3wJQucvPjb) | 3:26 | 2021-12-24 | 2022-07-29 |
 | [Christmas at Home](https://open.spotify.com/track/1xvp1cTKblxibrC9noLknD) | [Madison Olds](https://open.spotify.com/artist/6n1pH8SgKcxx6dILhKqYFb), [Nearly York](https://open.spotify.com/artist/26H6hdDHPoK633qeSs861p) | [Christmas at Home](https://open.spotify.com/album/4XpqjcHnjjjV9G6cOPxqqv) | 3:26 | 2021-12-24 |  |
 | [Christmas Cards](https://open.spotify.com/track/2vIxMkWXzJdaDJVKHK4icG) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Songs for Christmas](https://open.spotify.com/album/232HV9TPBGG4N9p9uu6tFX) | 3:26 | 2021-12-24 |  |
-| [Christmas Cheers](https://open.spotify.com/track/2i9F4Tl8AH8NnXld2QjtLY) | [Amanda Jordan](https://open.spotify.com/artist/5UzX8YYER6nwjEoJjt6QCv) | [Christmas Cheers](https://open.spotify.com/album/4lwmyxolzVTUv5nRbBoFFn) | 3:37 | 2021-12-24 | 2022-10-22 |
+| [Christmas Cheers](https://open.spotify.com/track/2i9F4Tl8AH8NnXld2QjtLY) | [Amanda Jordan](https://open.spotify.com/artist/5UzX8YYER6nwjEoJjt6QCv) | [Christmas Cheers](https://open.spotify.com/album/4lwmyxolzVTUv5nRbBoFFn) | 3:37 | 2021-12-24 |  |
 | [Christmas Eve](https://open.spotify.com/track/4u3p9G8NEyF37rfQ0OHS4T) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [These are Special Times](https://open.spotify.com/album/5k27z7TrQn2O0mKMoiwHzN) | 4:16 | 2021-12-24 |  |
 | [Christmas Eve](https://open.spotify.com/track/5XfVRHoVYasTImnbhjoq94) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [These Are Special Times](https://open.spotify.com/album/32MpBKgfq3OJWbqEFcTwWP) | 4:16 | 2021-12-24 | 2022-07-27 |
 | [Christmas Eve Day](https://open.spotify.com/track/6q7LXAE32qvDvyjtESYmOb) | [Matt Mays](https://open.spotify.com/artist/0VlFTYaJsPHdN3Vb3EvBsn) | [Christmas Eve Day](https://open.spotify.com/album/79N7fdVbTAPQk03YPlZZ40) | 4:00 | 2021-12-24 | 2022-07-27 |
@@ -51,6 +51,7 @@
 | [Christmas Mistletoe](https://open.spotify.com/track/1wQL9RDfMNXoCKNmtA0xrW) | [DiRTY RADiO](https://open.spotify.com/artist/7bhcf6U7Lu1Ra9u0oWLM5x) | [Christmas Mistletoe](https://open.spotify.com/album/4ZReXPucygstGyAsdPrG25) | 3:16 | 2021-12-24 | 2022-07-27 |
 | [Christmas Morning is Finally Here!](https://open.spotify.com/track/1Sc8DzuJiO913kKggm13KU) | [BROS](https://open.spotify.com/artist/4b2FejUQCLbLbalnwPyLQc) | [Yet Another BROS Christmas](https://open.spotify.com/album/38NS7xdd19T0kWT89XDTmZ) | 2:25 | 2021-12-24 | 2022-08-19 |
 | [Christmas Mourn](https://open.spotify.com/track/3cJopoeRGYSXkbU5VGRZhJ) | [Kandle](https://open.spotify.com/artist/5ZX240kHNQyr3jC7JphHIH), [Debra\-Jean Creelman](https://open.spotify.com/artist/3HxOpbJmZGEnco2SGbmqQY) | [Christmas Mourn](https://open.spotify.com/album/5yAhPdQYQKy6zZFNaCy84k) | 3:13 | 2021-12-24 | 2022-07-29 |
+| [Christmas on My Mind](https://open.spotify.com/track/4fF3Vo7XYnHFXvyWD7sv2k) | [Elliot Maginot](https://open.spotify.com/artist/0dX5TveSmyFKxWlYtnWS2X) | [Christmas on My Mind](https://open.spotify.com/album/74wMlK9OHpQVJrFOmGsmMD) | 3:47 | 2022-11-12 |  |
 | [Christmas Time Is Here](https://open.spotify.com/track/6w7Gyt2FzAGeacHgTi6rvi) | [Geneviève Racette](https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU) | [Fa la la la la](https://open.spotify.com/album/0JsfOlNgjBrDUSs1FJx70P) | 3:02 | 2021-12-24 | 2022-07-29 |
 | [Christmas Time's A Comin'](https://open.spotify.com/track/4DfkKEmirSH505jdSR2m2i) | [Good Lovelies](https://open.spotify.com/artist/3hh35eWuRs5ZqIUIKyne5S) | [Christmas Time's A Comin'](https://open.spotify.com/album/3MKhVxsFUt1XYgMCZ4UkPN) | 2:43 | 2021-12-24 | 2022-07-29 |
 | [christmas vacation](https://open.spotify.com/track/5il893TZOiFSpukoeuHoVc) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [christmas vacation](https://open.spotify.com/album/3wQIx8fylcIeKYMmfzVDkp) | 2:13 | 2021-12-24 |  |
@@ -151,7 +152,7 @@
 | [My Favorite Things](https://open.spotify.com/track/38M3eiPzW8pqOXmtvXgx4q) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [My Favorite Things](https://open.spotify.com/album/1o1Dubh9U2GPKc1TzRey0k) | 2:55 | 2021-12-24 |  |
 | [My Little Snowflake](https://open.spotify.com/track/2AVOlfywRkziYM3DgzEPpG) | [Prozzak](https://open.spotify.com/artist/0xJDpKj8NVkSRawbaxRF6q) | [My Little Snowflake](https://open.spotify.com/album/3kdqWoboAHEGeYfjOHBffO) | 2:52 | 2021-12-24 | 2022-10-30 |
 | [No Christmas Blues](https://open.spotify.com/track/5oPAXGqtM1zAJqXczMcPlh) | [Heather Russell](https://open.spotify.com/artist/2207WvrklK8Cn1XeMOlzVN) | [No Christmas Blues](https://open.spotify.com/album/2On0wGiwTeCMzFMnhB1ID3) | 3:29 | 2021-12-24 | 2022-05-22 |
-| [Noël](https://open.spotify.com/track/75kUnhIeG0dGcwanOcX9Dl) | [Mia Martina](https://open.spotify.com/artist/2Mo8dJY6EXvu41mbsJ2vOC) | [Noël](https://open.spotify.com/album/0YGHpzUXxhxm6bSvSuWlWw) | 2:56 | 2021-12-24 |  |
+| [Noël](https://open.spotify.com/track/75kUnhIeG0dGcwanOcX9Dl) | [Mia Martina](https://open.spotify.com/artist/2Mo8dJY6EXvu41mbsJ2vOC) | [Noël](https://open.spotify.com/album/0YGHpzUXxhxm6bSvSuWlWw) | 2:56 | 2021-12-24 | 2022-11-12 |
 | [O Come All Ye Faithful](https://open.spotify.com/track/3PJWrzeVy0zQIEN1WlyCxo) | [Blue Rodeo](https://open.spotify.com/artist/4M1fxLs3K8DkyCaTEpdfo0) | [A Merrie Christmas to You](https://open.spotify.com/album/7smYi6E9oA91ZNKeQWZKai) | 3:43 | 2021-12-24 | 2022-07-28 |
 | [O Holy Night](https://open.spotify.com/track/4inAT5fFLhvhSBSBqwPbvm) | [Flower Face](https://open.spotify.com/artist/0sYlth2PW1zWJMEU2vCukz) | [O Holy Night](https://open.spotify.com/album/4XZvDCCCwPPSI5b667S55r) | 2:46 | 2022-10-29 |  |
 | [O Holy Night \(feat\. The Tenors\)](https://open.spotify.com/track/6nN0z2cPwFydCWPjtPaiLe) | [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31), [The Tenors](https://open.spotify.com/artist/0IuE3Ne32K4i3BZBbr610a) | [O Holy Night \(feat\. The Tenors\)](https://open.spotify.com/album/0p0zK4648YuGhRYWteoQ3l) | 4:19 | 2021-12-24 |  |

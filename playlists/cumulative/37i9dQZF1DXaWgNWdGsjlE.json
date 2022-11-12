@@ -2048,6 +2048,24 @@
     },
     {
       "album": {
+        "name": "Brass Against III",
+        "url": "https://open.spotify.com/album/2n8KXe2C9BNPSDAOOe8RVV"
+      },
+      "artists": [
+        {
+          "name": "Brass Against",
+          "url": "https://open.spotify.com/artist/25uPlxGvXMDy9eUX7oeDei"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216540,
+      "name": "My Own Summer",
+      "url": "https://open.spotify.com/track/1RJQu4Pq5tZUJEJpo5zqOf"
+    },
+    {
+      "album": {
         "name": "My Own Summer",
         "url": "https://open.spotify.com/album/1fMoIeLCqIDYNLd1zn4yKH"
       },
@@ -2085,7 +2103,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 217779,
       "name": "My Own Summer",
       "url": "https://open.spotify.com/track/2XAn1jUbPqylVftkIBiIpY"

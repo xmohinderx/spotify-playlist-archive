@@ -4,7 +4,7 @@
 
 > Bold tracks packing some serious swagger.
 
-177 songs - 10 hr 18 min - [published](https://open.spotify.com/playlist/1mwIOAyn3PtAgQdJFJ2Psa)
+178 songs - 10 hr 20 min - [published](https://open.spotify.com/playlist/1mwIOAyn3PtAgQdJFJ2Psa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,8 @@
 | [Can’t Let Go](https://open.spotify.com/track/6dQh60A0KlpwPT2p9ptJaY) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Raise The Roof](https://open.spotify.com/album/5CQ3SOj1ZgudhbsTLcTTI2) | 3:41 | 2022-07-11 |  |
 | [Chains](https://open.spotify.com/track/7ywUfT35DxrKOoq7ZL0VQ5) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ) | [Natural Conclusion](https://open.spotify.com/album/7vwzdcbSG3qsUBIJ3aVNqi) | 3:14 | 2021-11-19 |  |
 | [Come with Me Now](https://open.spotify.com/track/2kWowW0k4oFymhkr7LmvzO) | [KONGOS](https://open.spotify.com/artist/58R5LHkK3vkmEyGUPOR5kS) | [Lunatic](https://open.spotify.com/album/71C65HI7THrlkpHHa24YJX) | 3:31 | 2021-11-19 |  |
-| [Courage for Love](https://open.spotify.com/track/13bRDQE3zLg7JX6zoZQP6u) | [Jesper Munk](https://open.spotify.com/artist/7lS8dsCoC7M6QbNp3MRpmw) | [CLAIM](https://open.spotify.com/album/0pnpObbo9YZxQ9MzZ1A2Br) | 2:34 | 2022-07-11 |  |
+| [Courage for Love](https://open.spotify.com/track/0dRRLda0fBJmROic0loS2r) | [Jesper Munk](https://open.spotify.com/artist/7lS8dsCoC7M6QbNp3MRpmw) | [Autumn Energy](https://open.spotify.com/album/02WN4DMcWmFDMiq6185cwN) | 2:34 | 2022-07-11 |  |
+| [Courage for Love](https://open.spotify.com/track/13bRDQE3zLg7JX6zoZQP6u) | [Jesper Munk](https://open.spotify.com/artist/7lS8dsCoC7M6QbNp3MRpmw) | [CLAIM](https://open.spotify.com/album/0pnpObbo9YZxQ9MzZ1A2Br) | 2:34 | 2022-07-11 | 2022-11-12 |
 | [Courage for Love](https://open.spotify.com/track/2YCHXHF12UigCNtXsRUoLg) | [Jesper Munk](https://open.spotify.com/artist/7lS8dsCoC7M6QbNp3MRpmw) | [Courage For Love](https://open.spotify.com/album/33tTNU1gX6jr7OjTNCfN4j) | 2:34 | 2021-11-19 | 2022-07-29 |
 | [Different Kind Of Love](https://open.spotify.com/track/5gy7tyFsQIFcxMajZlghLD) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [Silences](https://open.spotify.com/album/4nneOM4v04jUA5AROq5qr3) | 3:24 | 2022-07-11 |  |
 | [Different Kind Of Love](https://open.spotify.com/track/69AKDlGXDAIrxHX9dzIPTi) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [Different Kind Of Love](https://open.spotify.com/album/466wcQapaCx9rPHOHU1o1i) | 3:24 | 2021-11-19 | 2022-07-29 |

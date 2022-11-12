@@ -4,7 +4,7 @@
 
 > The harmony between beautiful Ambient and tape manipulation.
 
-115 songs - 10 hr 45 min - [published](https://open.spotify.com/playlist/5Rfg8kppHGggv2Ug9VpbaA)
+116 songs - 10 hr 50 min - [published](https://open.spotify.com/playlist/5Rfg8kppHGggv2Ug9VpbaA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,8 +83,9 @@
 | [Ravenna](https://open.spotify.com/track/3g1Rsqaisx9U7M5HGGuEyo) | [Andrew Pekler](https://open.spotify.com/artist/4nDIRB3WZRZ40uSmZG0q6J), [Giuseppe Ielasi](https://open.spotify.com/artist/7JqFxlbv8o0djCv6o1LWLL) | [Palimpsests](https://open.spotify.com/album/3zh7gaR5TzIP4qE4QcI4uv) | 3:31 | 2022-03-11 |  |
 | [Reality Scan](https://open.spotify.com/track/1vHVp1GOVrlwoK0B7RqPFU) | [Perila](https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi) | [Everything is Already There](https://open.spotify.com/album/1he2AlYOWu58VJxZQPzdJK) | 4:23 | 2022-03-11 |  |
 | [Rebstock Fold](https://open.spotify.com/track/4APWyWpjQm3qPSpIwMvXJG) | [Francis Harris](https://open.spotify.com/artist/3pTGFfv4bHpC2MO7LS9S6W) | [Rebstock Fold](https://open.spotify.com/album/1mVCBO9JdLbv9cfQkrE9ci) | 5:31 | 2022-03-11 |  |
-| [REEL 2 PHASE 2](https://open.spotify.com/track/3Q3j8OWxPaSWzbniWJIOx2) | [Lomond Campbell](https://open.spotify.com/artist/0dWs32CWUbYmMFC9TBKzAb) | [Lost Loops](https://open.spotify.com/album/1DqWdVDl28G2enTrlEe3XT) | 5:22 | 2022-07-08 |  |
+| [REEL 2 PHASE 2](https://open.spotify.com/track/3Q3j8OWxPaSWzbniWJIOx2) | [Lomond Campbell](https://open.spotify.com/artist/0dWs32CWUbYmMFC9TBKzAb) | [Lost Loops](https://open.spotify.com/album/1DqWdVDl28G2enTrlEe3XT) | 5:22 | 2022-07-08 | 2022-11-12 |
 | [REEL 2 PHASE 2](https://open.spotify.com/track/4UJk2NxHXGcpkjhzhqhVTl) | [Lomond Campbell](https://open.spotify.com/artist/0dWs32CWUbYmMFC9TBKzAb) | [REEL 2 PHASE 2](https://open.spotify.com/album/70kULFcLysFbSLj4YynEVG) | 5:22 | 2022-03-25 | 2022-08-04 |
+| [REEL 2 PHASE 2](https://open.spotify.com/track/6HkBtaVosx5mlqoan6EzfI) | [Lomond Campbell](https://open.spotify.com/artist/0dWs32CWUbYmMFC9TBKzAb) | [Reel 2 Phase 2](https://open.spotify.com/album/2TXWhArYt903ZiAqHGkP7C) | 5:22 | 2022-10-04 |  |
 | [Rest](https://open.spotify.com/track/6lwzPFFTgVWJq4YM9Cf6Ek) | [half light](https://open.spotify.com/artist/77kksV1as6x1oKGfoyYKfK) | [Rest](https://open.spotify.com/album/0j1VtChCYo7clU8Yz4Iohq) | 6:05 | 2022-03-25 |  |
 | [Revolving door](https://open.spotify.com/track/7giXEIu7MPLp0PpPkM6PUi) | [Raum](https://open.spotify.com/artist/6Qsrt0RPmIemQhHjCYDnCU) | [Daughter](https://open.spotify.com/album/6beHH4VPWefU6S7JzaXllj) | 6:42 | 2022-07-08 |  |
 | [River Faith](https://open.spotify.com/track/6NyW1PO1IPf46YjTeJd9sF) | [Marco Caricola](https://open.spotify.com/artist/5B8mOxjZeel228q1wNq0Cp), [Luca Longobardi](https://open.spotify.com/artist/3u2Sq4N5nNzSumzKsbZwDW) | [Aleas \(1\)](https://open.spotify.com/album/1CMsdpTA2lEiwE5bSsteol) | 4:14 | 2022-03-11 |  |

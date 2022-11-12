@@ -4,7 +4,7 @@
 
 > Gotta catch 'em all.
 
-296 songs - 18 hr 27 min - [published](https://open.spotify.com/playlist/4PqfAnZqku8Zl2uq9Q1NkX)
+297 songs - 18 hr 30 min - [published](https://open.spotify.com/playlist/4PqfAnZqku8Zl2uq9Q1NkX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [Fixed It All](https://open.spotify.com/track/3P5MuE6h9d9Rrf8kEA9FmS) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Fixed It All](https://open.spotify.com/album/3wL067SoyL83W04AcNwb8x) | 4:21 | 2022-01-28 | 2022-07-28 |
 | [Follow](https://open.spotify.com/track/4osnZvjbd0nDYYLotiP4ps) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [Coma Happy](https://open.spotify.com/album/6QhOK8ASSEafbqLRoifCnn) | 3:41 | 2021-12-15 |  |
 | [Freddy Kreuger](https://open.spotify.com/track/3hhp5rMoOALDwkHMrkt8Wo) | [Reuben](https://open.spotify.com/artist/2qmpmvIJ66AWEdW0VOVlzS) | [Racecar Is Racecar Backwards \(Tenth Anniversary Deluxe Edition\)](https://open.spotify.com/album/62gx45kIMLQC8vtPdinqaK) | 2:28 | 2021-12-15 | 2022-07-29 |
-| [Freddy Kreuger](https://open.spotify.com/track/6yheqxgSKIkSm4guRLp5Y5) | [Reuben](https://open.spotify.com/artist/2qmpmvIJ66AWEdW0VOVlzS) | [Racecar Is Racecar Backwards \(Tenth Anniversary Deluxe Edition\)](https://open.spotify.com/album/7fBlKCxTGFF8Q2epS9TPwT) | 2:28 | 2022-06-23 |  |
+| [Freddy Kreuger](https://open.spotify.com/track/6yheqxgSKIkSm4guRLp5Y5) | [Reuben](https://open.spotify.com/artist/2qmpmvIJ66AWEdW0VOVlzS) | [Racecar Is Racecar Backwards \(Tenth Anniversary Deluxe Edition\)](https://open.spotify.com/album/7fBlKCxTGFF8Q2epS9TPwT) | 2:28 | 2022-06-23 | 2022-11-12 |
 | [Fresh](https://open.spotify.com/track/35L49nXqs85DEZ9AuWdTsV) | [Tired Lion](https://open.spotify.com/artist/5Vf0Z6jyMOGr07Gf8irDMt) | [Dumb Days](https://open.spotify.com/album/0lu1cJqBxKjJ3yECblnCCy) | 4:10 | 2021-12-15 | 2022-07-29 |
 | [Friends In The Armed Forces](https://open.spotify.com/track/4IALJqOdZE5pwUaL6ag1Ko) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Common Existence \(Deluxe Edition\)](https://open.spotify.com/album/5LHF03QKaoBRZeMcXMrsRj) | 4:10 | 2022-01-11 | 2022-07-24 |
 | [Fuct](https://open.spotify.com/track/75yrIKGSnzJxnmNgGqv5nF) | [Money](https://open.spotify.com/artist/2v0x2qsSuy06OiFIo8zX6s) | [Money](https://open.spotify.com/album/2VXqjyaaqRellg8cw99QVy) | 3:27 | 2022-11-02 |  |
@@ -161,14 +161,14 @@
 | [Milquetoast](https://open.spotify.com/track/6IsnrcSZvmmd5db8QpQb91) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Betty](https://open.spotify.com/album/3RmEvRS56AW6bkVihyMK0q) | 3:53 | 2022-11-02 |  |
 | [Misplaced](https://open.spotify.com/track/0fmbchkYzQHMQHRKJmX2uu) | [Soul Blind](https://open.spotify.com/artist/4u8phrcaIdvRzcGq5DcQJa) | [Third Chain](https://open.spotify.com/album/1t5YBAvPGnaUBbRSmLaU2y) | 3:06 | 2022-01-28 |  |
 | [Monster Side](https://open.spotify.com/track/1Djt22Ts5uyrItiDSTxDCp) | [Addict](https://open.spotify.com/artist/3yQNXH4W7q5NaXCl4tKFyU) | [Stones](https://open.spotify.com/album/2yDqVW1JGlSgX5gLNoDkJr) | 4:13 | 2021-12-15 | 2022-07-24 |
-| [Mother Mary](https://open.spotify.com/track/6qYWC8j3X10bGhtDOhXFu5) | [Far](https://open.spotify.com/artist/0GQXHlIz6zMT0IeXQq26Pt) | [Water & Solutions](https://open.spotify.com/album/4enPQLBdrmgyL6NwrMZXx1) | 2:15 | 2022-11-02 |  |
+| [Mother Mary](https://open.spotify.com/track/6qYWC8j3X10bGhtDOhXFu5) | [Far](https://open.spotify.com/artist/0GQXHlIz6zMT0IeXQq26Pt) | [Water & Solutions](https://open.spotify.com/album/4enPQLBdrmgyL6NwrMZXx1) | 2:15 | 2022-11-02 | 2022-11-12 |
 | [Mother's Day](https://open.spotify.com/track/7jOBnNKTGY10qWnldm1cZ1) | [Nada Surf](https://open.spotify.com/artist/11zHPjHnZN0ACA50rSnTcy) | [The Proximity Effect](https://open.spotify.com/album/2wOGHVmIgLQltkg38bGsVL) | 3:46 | 2021-12-15 | 2022-07-26 |
 | [Moving Out](https://open.spotify.com/track/6weN1MT4nIA3CYt2oO0mk4) | [West Thebarton](https://open.spotify.com/artist/6ZQNx5JnPy6CmVur8jRPrv) | [Different Beings Being Different](https://open.spotify.com/album/6c66rOTBmzqYLdmE1suvBd) | 2:52 | 2021-12-15 |  |
 | [My Friends](https://open.spotify.com/track/2Tv9dXLcMgOy1nx72qET0d) | [The Dead Love](https://open.spotify.com/artist/0G2ShWwCGT5aGubowNDk2N) | [My Friends](https://open.spotify.com/album/3UoQ5r0Vm1dznLfNdgQzxG) | 2:55 | 2021-12-15 |  |
 | [My Heart](https://open.spotify.com/track/297ObeqSx8qhJYIytrusWm) | [Twin Wild](https://open.spotify.com/artist/5k8vZsGwQ2AlHNfsne055D) | [My Heart](https://open.spotify.com/album/4NYQn71dwwpIMO1qXqHshb) | 3:47 | 2022-10-11 | 2022-10-15 |
 | [My Heart](https://open.spotify.com/track/52Je6f392v0tFXm85fboJY) | [Twin Wild](https://open.spotify.com/artist/5k8vZsGwQ2AlHNfsne055D) | [My Heart](https://open.spotify.com/album/7xnNNcgoIX0LJu45dQJiZs) | 3:47 | 2022-04-15 | 2022-04-21 |
 | [My Heart](https://open.spotify.com/track/79P7jTFo4tvUDG8PbICO6b) | [Twin Wild](https://open.spotify.com/artist/5k8vZsGwQ2AlHNfsne055D) | [My Heart](https://open.spotify.com/album/0jd5yRLuxLK5njzgpsnzxq) | 3:47 | 2022-10-11 | 2022-11-03 |
-| [My Name Is Trouble](https://open.spotify.com/track/3YZUBdCdqP8lL9nH82pWKM) | [Nightmare Of You](https://open.spotify.com/artist/6k0ji2eoZH49ysnY3IgLWc) | [Nightmare of You](https://open.spotify.com/album/44sKToWaRjNlnYY5PggLXD) | 4:00 | 2022-01-11 | 2022-07-29 |
+| [My Name Is Trouble](https://open.spotify.com/track/3YZUBdCdqP8lL9nH82pWKM) | [Nightmare Of You](https://open.spotify.com/artist/6k0ji2eoZH49ysnY3IgLWc) | [Nightmare of You](https://open.spotify.com/album/44sKToWaRjNlnYY5PggLXD) | 4:00 | 2022-01-11 |  |
 | [Narrow](https://open.spotify.com/track/4ofBUvD4rrcEbDq7d8VTvv) | [Chokebore](https://open.spotify.com/artist/5BiMbLBGVfPD3SG12obiNj) | [A Taste For Bitters](https://open.spotify.com/album/2WJMvI72kgyx7hex8MogVQ) | 2:43 | 2022-02-02 | 2022-07-17 |
 | [Narrow Mouth](https://open.spotify.com/track/2iyoZuHyuaaBGmLbl6eIEY) | [The Early November](https://open.spotify.com/artist/2rxtSTPBJawYhQAXIpgEAi) | [Imbue](https://open.spotify.com/album/6NnNzBbQKK59S2x6KJzQjI) | 4:30 | 2021-12-15 |  |
 | [Near](https://open.spotify.com/track/4sy4XhaARpaQ1GmHbuoKec) | [Mascara](https://open.spotify.com/artist/1mmu7aIqCo989QSVk0lvHm) | [Near](https://open.spotify.com/album/2iWnS0S4Yi16kehnILCcML) | 4:56 | 2021-12-15 | 2022-04-16 |
@@ -237,6 +237,7 @@
 | [Static King](https://open.spotify.com/track/30c7yitaxCPDer72DuJMpw) | [Dead Horse One](https://open.spotify.com/artist/0CIGn7O0TtfeO2SNeD3rE7) | [Static King](https://open.spotify.com/album/6Ff2MALnanTK465bO5rIsa) | 3:37 | 2021-12-15 | 2022-07-29 |
 | [Succubus](https://open.spotify.com/track/6Dunt2D6P0zuWM8XvusCAm) | [Demob Happy](https://open.spotify.com/artist/6FKokxvL5PCWIxrVhMyDgI) | [Dream Soda](https://open.spotify.com/album/5OZyAu46HVgniWby7lqAWD) | 3:41 | 2021-12-15 | 2022-01-29 |
 | [Super\-fire](https://open.spotify.com/track/1eZDNesUK5TuhHikfQ8K6U) | [Girls Against Boys](https://open.spotify.com/artist/33HLOae9rhJfw6Mh0e8g5r) | [House of GVSB](https://open.spotify.com/album/2h0DWaP2Etm0F6NyoRFziW) | 3:18 | 2021-12-15 | 2022-07-26 |
+| [Super\-fire](https://open.spotify.com/track/2SVQ9NW10PLX2GoGQ6nqlk) | [Girls Against Boys](https://open.spotify.com/artist/33HLOae9rhJfw6Mh0e8g5r) | [House of GVSB](https://open.spotify.com/album/5j6YEMKBN7tyJktFniEeBG) | 3:18 | 2022-11-02 |  |
 | [Swallow](https://open.spotify.com/track/5zodPVnHmq8hOERLIDBmpC) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Chrome Neon Jesus](https://open.spotify.com/album/7DUbrWwDxAeoNzFwKNVpiw) | 3:50 | 2021-12-15 |  |
 | [The Big What If](https://open.spotify.com/track/0j8qJI1KjzSJwuOwggXv2s) | [Pulled Apart By Horses](https://open.spotify.com/artist/0AUkXuvc92Zd0E9qKbkfsy) | [The Haze](https://open.spotify.com/album/6Q4AoT2DyqrhWibThNfRWO) | 3:15 | 2022-11-02 |  |
 | [The Big What If](https://open.spotify.com/track/5cnjSorGZUm4ytova9wQAn) | [Pulled Apart By Horses](https://open.spotify.com/artist/0AUkXuvc92Zd0E9qKbkfsy) | [The Haze](https://open.spotify.com/album/0lM0xW6y3TiB2GyBSZ545d) | 3:15 | 2021-12-15 | 2022-10-21 |

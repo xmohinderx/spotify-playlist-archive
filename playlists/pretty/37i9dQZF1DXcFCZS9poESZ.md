@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFCZS9poESZ.md) - [plain]
 
 > The hottest Anime hits of the 80s\. 1980年代のアニメソングを特集。Illustration by <a href="https://www.instagram.com/hideyasu\_moto/"> Hideyasu Moto</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,278 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,354 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFCZS9poESZ.md) - [plain]
 | 3 | [CAT'S EYE](https://open.spotify.com/track/7FGbwJMZxCbW6U8aGNBgOm) | [Anri](https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo) | [MY FAVORITE SONGS](https://open.spotify.com/album/7zgw8ntFBLiJmamS7HtVyw) | 3:22 |
 | 4 | [ルパン三世'80](https://open.spotify.com/track/273uFgAPSKdPioIGTPmpZb) | [Yuji Ohno](https://open.spotify.com/artist/7xIfi0ePXzLGlYO5lFjnvu), [ユー & ザ・エクスプロージョン・バンド](https://open.spotify.com/artist/3D3jcW12AeIw0FtXJGvilD) | [ルパン三世 オリジナル・サウンドトラック3](https://open.spotify.com/album/7Hnnn5lTZeCIuG1UR1eUFG) | 3:40 |
 | 5 | [翔べ!ガンダム](https://open.spotify.com/track/6K9o8krsunY1ABd6w1FsXW) | [池田鴻](https://open.spotify.com/artist/3fIav2Iwr4ZhYGMe8hRs8V), [フィーリング・フリー](https://open.spotify.com/artist/0jpYHQy9n4YGEUvUtbAH1n), [ミュージッククリエイション](https://open.spotify.com/artist/0IDweRYyKNXtVQTQ69mTRX) | [翔べ!ガンダム](https://open.spotify.com/album/45dDyX7XuKGbtui6sFWy11) | 2:45 |
-| 6 | [Get Wild](https://open.spotify.com/track/7MBCVS5iqoAY6F106jdLOb) | [TM NETWORK](https://open.spotify.com/artist/6aXIcqTy3R1dqSml9HQZUB) | [TM NETWORK THE SINGLES 1](https://open.spotify.com/album/1WrWUdn5cOBA0PbBFrE4z0) | 4:00 |
-| 7 | [愛・おぼえていますか](https://open.spotify.com/track/6rfiZvgzmHoohZs5OCo3D7) | [Mari Iijima](https://open.spotify.com/artist/0dhvGf9gL3XEeRleaJ3xij) | [palette\(パレット\)](https://open.spotify.com/album/2LI4KcqWZH9OT6aDnOpmpU) | 5:08 |
+| 6 | [Get Wild](https://open.spotify.com/track/0y16coW4wqiPmiZmPDDXYL) | [TM NETWORK](https://open.spotify.com/artist/6aXIcqTy3R1dqSml9HQZUB) | [TM NETWORK/TMN BEST TRACKS 〜A message to the next generation〜](https://open.spotify.com/album/3jqLGfV5WZPF14SfmkHXLx) | 4:00 |
+| 7 | [愛・おぼえていますか](https://open.spotify.com/track/31ZOxuWRsNRDi5hyFP4FW2) | [Mari Iijima](https://open.spotify.com/artist/0dhvGf9gL3XEeRleaJ3xij) | [ゴールデン☆ベスト\~ビクター・イヤーズ](https://open.spotify.com/album/0IyNR2UY9CuIwJuJi3eS0I) | 5:11 |
 | 8 | [摩訶不思議アドベンチャー! \(2005 ver.\)](https://open.spotify.com/track/4auleowVdRUDSLGb4tm5Xz) | [高橋 洋樹](https://open.spotify.com/artist/6nMPmmyyIKwyTwZAbZQe4Z) | [アニソンNo.1](https://open.spotify.com/album/3Q80IekfQVdlXUnavNDuTI) | 3:51 |
 | 9 | [愛をとりもどせ!!](https://open.spotify.com/track/3ZiiqVTRW0DKrOnkbTdlrk) | [CRYSTALKING](https://open.spotify.com/artist/4ZkxyrVGZwQYwjEHO99njF) | [アニメ北斗の拳 オリジナルE.P.](https://open.spotify.com/album/3TXGqlSWEfrRPFZT1ccukx) | 2:56 |
 | 10 | [銀河鉄道999](https://open.spotify.com/track/1V2ajA7srKxFOTANKxBPkj) | [Godiego](https://open.spotify.com/artist/7agr01GMFpbX5ie9UsTGxe) | [GODIEGO GREAT BEST VOL.1 \-Japanese Version\-](https://open.spotify.com/album/5vOjykUiJvjx7aPajz1oNj) | 3:29 |
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFCZS9poESZ.md) - [plain]
 | 41 | [NIGHT OF SUMMER SIDE](https://open.spotify.com/track/4KvbMiCSQIqJ7cllp6gjR1) | [Masanori Ikeda](https://open.spotify.com/artist/2sstBJJ14RDUQ8mg7lUb7F) | [TOKYO \-ANIME FLAVOR \-](https://open.spotify.com/album/0j2J4wxN5QTfzYE7YsUN68) | 4:05 |
 | 42 | [Kaze no No Reply](https://open.spotify.com/track/6OyDvvdrdhvssug1GOjWs0) | [Mami Ayukawa](https://open.spotify.com/artist/13chEUM1L3zoaoZ2UI1WpM) | [Heavy Metal L\-GAIM Original Motion Picture Soundtrack Vol.3](https://open.spotify.com/album/1byp8BzOw7eFMBjfBCkNA4) | 3:32 |
 | 43 | [キン肉マン Go Fight! \(キン肉マン\) \- LIVE](https://open.spotify.com/track/4FgRL3zhaMIptBNJoGa8IM) | [Akira Kushida](https://open.spotify.com/artist/0bSMYtPqoMqQoRNtZLoqMD) | [熱烈!アニソン魂 THE ARTIST SELECTION 串田アキラ SELFCOVER COLLECTION](https://open.spotify.com/album/282JrsLMNYIJFYD7MTn8NH) | 3:37 |
-| 44 | [Wakakusa no Shoutaijou](https://open.spotify.com/track/1EV97OZOlKWBSpCSYeB2GF) | [Eri Nitta](https://open.spotify.com/artist/4vvVj2EmAHKouLCoO1f373) | [Ritardando](https://open.spotify.com/album/7ipdXRuKjQJ0vta61HrMUY) | 3:21 |
+| 44 | [Wakakusa no Shoutaijou](https://open.spotify.com/track/3a4GHXjh3U6FWsINJtk2zD) | [Eri Nitta](https://open.spotify.com/artist/4vvVj2EmAHKouLCoO1f373) | [E\-Area + Single Collection](https://open.spotify.com/album/35x04d6gCX2LJ9EDGrjA0J) | 3:22 |
 | 45 | [Daisuki Shinba](https://open.spotify.com/track/68hMeIvF2TKpM9ZZola13Z) | [富永みーな](https://open.spotify.com/artist/5oHyb66DLgPlCxEGovrT75) | [Daisuki Shinba](https://open.spotify.com/album/5tI1JwyeinlZKDHQHK2gvM) | 3:19 |
 | 46 | [夢を信じて](https://open.spotify.com/track/0cgqntmosOzsF1Y3LACcC7) | [Hideaki Tokunaga](https://open.spotify.com/artist/2FTUpyPZ3hqBPLwmaEH14B) | [シングルコレクション<1986\~1991>](https://open.spotify.com/album/2RflyhEsb4RlZH5NY4hogE) | 4:49 |
 | 47 | [君をのせて\(天空の城ラピュタ\)](https://open.spotify.com/track/79AAajz0vc1yhspn9P4ZwB) | [Azumi Inoue](https://open.spotify.com/artist/3lG7z36cCcA64i1S4CBgqp) | [スタジオジブリの歌 \-増補盤\-](https://open.spotify.com/album/4gDHjZDOdAjgeCTXpMTsE5) | 3:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFCZS9poESZ.md) - [plain]
 | 49 | [オタスケマンの歌](https://open.spotify.com/track/6DY51JWmOsHqsr0OhtOxE3) | [山本まさゆき](https://open.spotify.com/artist/7HsndLdK7mnsnqAjIeCHoD), [少年少女合唱団みずうみ](https://open.spotify.com/artist/0hW8Ve499ZAxIM9LD0reCX) | [タイムボカン名曲の夕べ](https://open.spotify.com/album/29CjCxgT9NOdOOHNpkXGfT) | 3:35 |
 | 50 | [めぐりあい](https://open.spotify.com/track/4tbhACZfGzzsyWAe65uY8S) | [Daisuke Inoue](https://open.spotify.com/artist/3kyDvSFMl3B0U59KuJUB5g) | [めぐりあい](https://open.spotify.com/album/7laEqm4NggEgKK68Qg9L1s) | 4:23 |
 
-Snapshot ID: `MTY1NTgyODY2NSwwMDAwMDAwMDNkYmYwZjI2OWRjMWQzMDZjODMwOWM5NjA2MmUzMjRi`
+Snapshot ID: `MTY1NTgyODY2NSwwMDAwMDAwMDE4MGZiNTgwOGEwZWVlZDRjNTNiMDM1NmI2NTJjYWY1`

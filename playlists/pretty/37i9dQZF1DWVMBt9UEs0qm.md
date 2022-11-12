@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVMBt9UEs0qm.md) - [plain]
 
 > Classic pop, rock and folk for a pleasant drive.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,781 likes - 69 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,855 likes - 69 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,16 +16,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVMBt9UEs0qm.md) - [plain]
 | 6 | [Promises](https://open.spotify.com/track/1oar8gdDX5yHWzVstAHDav) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Backless](https://open.spotify.com/album/3Xgt0D7DlSQ5HluyECu33i) | 3:01 |
 | 7 | [And It Stoned Me \- 2013 Remaster](https://open.spotify.com/track/0pLt4z90EzbN7lY9lky1Z9) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Moondance](https://open.spotify.com/album/5PfnCqRbdfIDMb1x3MPQam) | 4:32 |
 | 8 | [Debris](https://open.spotify.com/track/2gFXQQ7dDY4lquHpUNeDTM) | [Faces](https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL) | [A Nod Is as Good as a Wink..\. to a Blind Horse](https://open.spotify.com/album/3mvdHEE56sgj1NtTnTF8qK) | 4:36 |
-| 9 | [Easy](https://open.spotify.com/track/1JQ6Xm1JrvHfvAqhl5pwaA) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [Commodores](https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl) | 4:16 |
-| 10 | [Fire and Rain \- 2019 Remaster](https://open.spotify.com/track/1oht5GevPN9t1T3kG1m1GO) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Sweet Baby James \(2019 Remaster\)](https://open.spotify.com/album/1HiG0ukRmFPN13EVcf98Jx) | 3:23 |
+| 9 | [Easy](https://open.spotify.com/track/3unS9b2XonE6hT47qJhYpS) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [69](https://open.spotify.com/album/0XU17m57Y264VQnJuzGQJx) | 4:16 |
+| 10 | [Fire and Rain](https://open.spotify.com/track/6zgeog6feHU0gpFeG8UbGa) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Calming Ballads](https://open.spotify.com/album/4nGVLxjxJZcgw5f6I4hqi0) | 3:20 |
 | 11 | [Here You Come Again](https://open.spotify.com/track/6H7nDglS6xWpRidbhMwI2L) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Here You Come Again](https://open.spotify.com/album/64yIGFoYJVg66fRXIxIYJr) | 2:59 |
 | 12 | [Dancing in the Moonlight](https://open.spotify.com/track/0q21FNwES2bbtcduB6kjEU) | [King Harvest](https://open.spotify.com/artist/5FHwr1FymaS5kutIEK6e2y) | [Dancing in the Moonlight](https://open.spotify.com/album/2W5SVDEBlGqHYqt5sa9PnA) | 3:01 |
 | 13 | [Wild Horses \- 2009 Mix](https://open.spotify.com/track/52dm9op3rbfAkc1LGXgipW) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Sticky Fingers \(Remastered\)](https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz) | 5:41 |
-| 14 | [Sad Eyes \- Sunset Sound Mix](https://open.spotify.com/track/3puLYSIfEOLnaCrepB4RIg) | [Peter McAllen](https://open.spotify.com/artist/0m2kBNbnPKwAyzRTJHuAVj) | [Sad Eyes \(Sunset Sound Mix\)](https://open.spotify.com/album/2Glz1NdgUBIyMWVJlmrxCi) | 3:34 |
+| 14 | [Sad Eyes \(Sunset Sound Mix\)](https://open.spotify.com/track/0wu0JqmyINzePX13jL6k5f) | [Ambrosia](https://open.spotify.com/artist/0J2Ej2rMQyqaUX3G6MUISw) | [It's a Super '70s Life! Hits You Loved](https://open.spotify.com/album/1iJsLPx1HE93zq0tW3Vky7) | 3:34 |
 | 15 | [When I Need You \- Remastered](https://open.spotify.com/track/2TcwEYyydQuEMJwdmSgVLD) | [Leo Sayer](https://open.spotify.com/artist/04LIHk1SobiQwt2tlupoAV) | [Endless Flight](https://open.spotify.com/album/1d79WI0e5XKTpBymbKADDQ) | 4:13 |
 | 16 | [O\-o\-h Child](https://open.spotify.com/track/1rwGdnrtWnPYBipRrjnzEm) | [The Five Stairsteps](https://open.spotify.com/artist/3Inrg8cs8oc4q8oPES4a6S) | [Stairsteps \(Expanded Edition\)](https://open.spotify.com/album/7H8uLkHFuEqAWpLKBwbGvg) | 3:17 |
 | 17 | [The Heart Of The Matter](https://open.spotify.com/track/7jZ4UZAmg006Qx3rVuF7JI) | [Don Henley](https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2) | [The End Of The Innocence](https://open.spotify.com/album/12lDqJuZIqMk6DNe1fInFl) | 5:22 |
-| 18 | [Solsbury Hill](https://open.spotify.com/track/1CM1wOqD2AIjt2MWd31LV2) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [Peter Gabriel 1: Car \(Remastered Version\)](https://open.spotify.com/album/4jd6oC0It60c1J3GpXCv6M) | 4:21 |
+| 18 | [Solsbury Hill \- 2002 Remastered Version](https://open.spotify.com/track/4NHrS7oy8SFcs4YrcBJbsf) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [Hit](https://open.spotify.com/album/2wucSwlI91HH9EbYgMhCnE) | 4:23 |
 | 19 | [Come and Get Your Love \- Single Version](https://open.spotify.com/track/7GVUmCP00eSsqc4tzj1sDD) | [Redbone](https://open.spotify.com/artist/0w7HLMvZOHatWVbAKee1zF) | [Come and Get Your Love](https://open.spotify.com/album/5Gf5m9M6RiK2lkjpbP0xRu) | 3:25 |
 | 20 | [Wasted Time \- 2013 Remaster](https://open.spotify.com/track/5XiGGv8Ut2jlvL2dkI6dlI) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Hotel California \(40th Anniversary Expanded Edition\)](https://open.spotify.com/album/5NMAdQPrKw5nutWnGEzfpn) | 4:56 |
 | 21 | [All Out of Love](https://open.spotify.com/track/2lmcH6prYo3BlR8LfRUJc3) | [Air Supply](https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW) | [All Out Of Love](https://open.spotify.com/album/1Z0JbC9RPMJNxE82vTQcIX) | 4:01 |
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVMBt9UEs0qm.md) - [plain]
 | 30 | [Leader of the Band](https://open.spotify.com/track/3O4s2m47MFhnGqmpkjoKYk) | [Dan Fogelberg](https://open.spotify.com/artist/0cA5Tg15TwARIRZeiNT1RO) | [Love Songs](https://open.spotify.com/album/2HBiEHyRhKl6dxWBKQpxID) | 4:16 |
 | 31 | [Yesterday \- Remastered 2009](https://open.spotify.com/track/3BQHpFgAp4l80e1XslIjNI) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Help! \(Remastered\)](https://open.spotify.com/album/0PT5m6hwPRrpBwIHVnvbFX) | 2:05 |
 | 32 | [On And On](https://open.spotify.com/track/0Vth3l4XAo8hNYmxjzhr2y) | [Stephen Bishop](https://open.spotify.com/artist/3JhRHqCi8HEzkJVWt19LtN) | [Careless](https://open.spotify.com/album/08zWo4xb7GZ5e3dyUOUAmm) | 3:01 |
-| 33 | [Deacon Blues](https://open.spotify.com/track/61AK5ICbKk20h1dFS3mXuu) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Aja](https://open.spotify.com/album/5Zxv8bCtxjz11jjypNdkEa) | 7:36 |
+| 33 | [Deacon Blues](https://open.spotify.com/track/3czOceQYa4SIzKMHx4lKcy) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Happy Soft Rock For Kids](https://open.spotify.com/album/0Fkuj45yLOf8BcYaTuC56r) | 7:32 |
 | 34 | [Baby, What a Big Surprise \- Edit](https://open.spotify.com/track/11dAtktxQQzipxuLqljEfY) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago XI](https://open.spotify.com/album/2Uq6uCf2FOmVl30J6028N1) | 3:03 |
 | 35 | [Get Together](https://open.spotify.com/track/7CQXyFX44CXmnuq8Bi9Dyc) | [The Youngbloods](https://open.spotify.com/artist/5I6MzhNEMk27cZsCqGAIYo) | [The Youngbloods](https://open.spotify.com/album/5s0VNKqar5MPHpL5atfTFG) | 4:39 |
 | 36 | [Do You Believe in Magic?](https://open.spotify.com/track/1udKn1oNKYQSQ9OmiIWCMu) | [The Lovin' Spoonful](https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe) | [Do you Believe In Magic](https://open.spotify.com/album/5bx2ZHa0KUDMD5T0r9V030) | 2:05 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVMBt9UEs0qm.md) - [plain]
 | 68 | [Somewhere U.S.A.](https://open.spotify.com/track/3ayP2t2qMgIqj8Yy1xHtaa) | [Gordon Lightfoot](https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4) | [Sundown](https://open.spotify.com/album/2IPD9EcNjUmsHvqULDMU9Y) | 2:53 |
 | 69 | [One of Us Must Know \(Sooner or Later\)](https://open.spotify.com/track/40GFPBolcy0yucApV9uxq2) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Blonde On Blonde](https://open.spotify.com/album/4NP1rhnsPdYpnyJP0p0k0L) | 4:52 |
 
-Snapshot ID: `MTY0MzM5MTE3OSwwMDAwMDAwMDBhYWY4MjcwMDUxMzIwNGNjZmYxZDFjNDJhZDdiNzgz`
+Snapshot ID: `MTY0MzM5MTE3OSwwMDAwMDAwMDRlMDg3ZmExOWUxNGIxMmZkNmJkZjk3YzliM2ZmYWJj`

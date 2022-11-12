@@ -580,6 +580,28 @@
     },
     {
       "album": {
+        "name": "The Forever Story (Extended Version)",
+        "url": "https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g"
+      },
+      "artists": [
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "name": "Kenny Mason",
+          "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227555,
+      "name": "Dance Now (feat. Kenny Mason)",
+      "url": "https://open.spotify.com/track/2WrldKXSBVbNNm3A9vJryi"
+    },
+    {
+      "album": {
         "name": "The Forever Story",
         "url": "https://open.spotify.com/album/3QVjpIxcksDkJmOnvlOJjg"
       },
@@ -595,7 +617,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 227555,
       "name": "Dance Now (feat. Kenny Mason)",
       "url": "https://open.spotify.com/track/6wj7wjtegmkziorQ2tt5Pz"
@@ -901,10 +923,32 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 155293,
       "name": "Finesse",
       "url": "https://open.spotify.com/track/4Gasn91fsCefnN8zM5GjA8"
+    },
+    {
+      "album": {
+        "name": "Top Hits UK",
+        "url": "https://open.spotify.com/album/49d0Ii0oCrS9BshhcpLRhr"
+      },
+      "artists": [
+        {
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
+        },
+        {
+          "name": "BNXN fka Buju",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "date_added": "2022-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155293,
+      "name": "Finesse",
+      "url": "https://open.spotify.com/track/6H4z94Rq4Gz7SzL7VmpGRR"
     },
     {
       "album": {

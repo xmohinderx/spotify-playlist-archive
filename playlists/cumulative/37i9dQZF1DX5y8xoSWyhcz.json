@@ -1292,6 +1292,24 @@
     },
     {
       "album": {
+        "name": "Barking Dog",
+        "url": "https://open.spotify.com/album/26t5YekLHHAW56AYr8Ivo4"
+      },
+      "artists": [
+        {
+          "name": "Dizzy",
+          "url": "https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187706,
+      "name": "Barking Dog",
+      "url": "https://open.spotify.com/track/7hx7f6U9ul5JVGiRtGwNVU"
+    },
+    {
+      "album": {
         "name": "batman",
         "url": "https://open.spotify.com/album/0UKYBwb2EobiKlYAvQRxTN"
       },
@@ -1441,7 +1459,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 179141,
       "name": "Before the Fall",
       "url": "https://open.spotify.com/track/2KQmCj4MpTZUKyOVo2sGQZ"
@@ -9600,6 +9618,24 @@
     },
     {
       "album": {
+        "name": "lonely",
+        "url": "https://open.spotify.com/album/64CsI8o99iRKE1TPEfFAK3"
+      },
+      "artists": [
+        {
+          "name": "carpetgarden",
+          "url": "https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228354,
+      "name": "lonely",
+      "url": "https://open.spotify.com/track/3w2SbYo8eSKB7UNfEMCzOR"
+    },
+    {
+      "album": {
         "name": "Lonely Bitch",
         "url": "https://open.spotify.com/album/3WANp0KcO1P5kKWdTcYEM8"
       },
@@ -10419,7 +10455,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 165453,
       "name": "Michael",
       "url": "https://open.spotify.com/track/5niZJWbyibvP1huOd2XUde"
@@ -11183,7 +11219,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 123934,
       "name": "Nobody Like You",
       "url": "https://open.spotify.com/track/10HqYPk8krVdDYQCgYh3z7"
@@ -11223,6 +11259,24 @@
       "duration_ms": 160200,
       "name": "Not Around",
       "url": "https://open.spotify.com/track/1y1RZ1WceXGSr0X7Q6mG0M"
+    },
+    {
+      "album": {
+        "name": "Not Ideal",
+        "url": "https://open.spotify.com/album/11P1h67I1jUbh3ZXUy6uJc"
+      },
+      "artists": [
+        {
+          "name": "afternoon bike ride",
+          "url": "https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203466,
+      "name": "Not Ideal",
+      "url": "https://open.spotify.com/track/6WclB5qGbvCgcFH0MZ1EQy"
     },
     {
       "album": {
@@ -13323,7 +13377,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 203120,
       "name": "Safe Space",
       "url": "https://open.spotify.com/track/3C9LuqZ8kBJItBiZEEZ9xY"
@@ -14137,6 +14191,24 @@
       "duration_ms": 178000,
       "name": "so simple",
       "url": "https://open.spotify.com/track/5b7MYbOXA9FRKvyElEBaLF"
+    },
+    {
+      "album": {
+        "name": "Sober",
+        "url": "https://open.spotify.com/album/6i3ypMIWdzE0YeFHw84Yh9"
+      },
+      "artists": [
+        {
+          "name": "dee holt",
+          "url": "https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146823,
+      "name": "Sober",
+      "url": "https://open.spotify.com/track/577ctFaEJqAL9gdo2Gx63x"
     },
     {
       "album": {
@@ -15737,7 +15809,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 191823,
       "name": "Tek It",
       "url": "https://open.spotify.com/track/751srcHf5tUqcEa9pRCQwP"
@@ -18277,6 +18349,24 @@
       "duration_ms": 241133,
       "name": "You Were in My Dream Last Night",
       "url": "https://open.spotify.com/track/5XdUEaXDQRaSkMT9y2FNvU"
+    },
+    {
+      "album": {
+        "name": "You're in the Way",
+        "url": "https://open.spotify.com/album/3M5T4rxlIzbGvlQfToUkKJ"
+      },
+      "artists": [
+        {
+          "name": "Jordana",
+          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167168,
+      "name": "You're in the Way",
+      "url": "https://open.spotify.com/track/3DVhLbfqydZoui3oL8kfti"
     },
     {
       "album": {

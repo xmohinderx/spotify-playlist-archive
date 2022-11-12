@@ -391,13 +391,13 @@
       },
       "artists": [
         {
-          "name": "Joan Jett & The Blackhearts",
+          "name": "Joan Jett & the Blackhearts",
           "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
         }
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 169186,
       "name": "Bad Reputation",
       "url": "https://open.spotify.com/track/7pu8AhGUxHZSCWTkQ2eb5M"
@@ -2291,7 +2291,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 170133,
       "name": "maybe (feat. Bring Me The Horizon)",
       "url": "https://open.spotify.com/track/25wdC7CJmCJPgnKw9rYquJ"
@@ -2673,7 +2673,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 211026,
       "name": "Partners in Crime (feat. Ash Costello)",
       "url": "https://open.spotify.com/track/4oaU0fMSg3n9kqOwmLPVhH"
@@ -3459,7 +3459,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 165853,
       "name": "The Middle",
       "url": "https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO"

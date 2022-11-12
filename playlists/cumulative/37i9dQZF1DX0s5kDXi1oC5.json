@@ -91,7 +91,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 305746,
       "name": "All I Want",
       "url": "https://open.spotify.com/track/0NlGoUyOJSuSHmngoibVAs"
@@ -273,7 +273,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 204346,
       "name": "Believer",
       "url": "https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP"
@@ -291,7 +291,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 194240,
       "name": "Best Day Of My Life",
       "url": "https://open.spotify.com/track/5Hroj5K7vLpIG4FNCRIjbP"
@@ -997,7 +997,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 232720,
       "name": "Happy - From \"Despicable Me 2\"",
       "url": "https://open.spotify.com/track/60nZcImufyMA1MKQY3dcCH"
@@ -1247,7 +1247,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 213306,
       "name": "I Want It That Way",
       "url": "https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya"
@@ -1563,7 +1563,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 225053,
       "name": "Like I'm Gonna Lose You (feat. John Legend)",
       "url": "https://open.spotify.com/track/2YlZnw2ikdb837oKMKjBkW"
@@ -2189,7 +2189,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-02",
+      "date_removed": null,
       "duration_ms": 284866,
       "name": "On The Floor",
       "url": "https://open.spotify.com/track/3C0nOe05EIt1390bVABLyN"
@@ -2269,7 +2269,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 235493,
       "name": "Only Girl (In The World)",
       "url": "https://open.spotify.com/track/2ENexcMEMsYk0rVJigVD3i"
@@ -2291,6 +2291,28 @@
       "duration_ms": 232893,
       "name": "Only Love Can Hurt Like This",
       "url": "https://open.spotify.com/track/62ke5zFUJN6RvtXZgVH0F8"
+    },
+    {
+      "album": {
+        "name": "Motion",
+        "url": "https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227266,
+      "name": "Outside (feat. Ellie Goulding)",
+      "url": "https://open.spotify.com/track/7MmG8p0F9N3C4AXdK6o6Eb"
     },
     {
       "album": {
@@ -2963,6 +2985,24 @@
       "duration_ms": 340706,
       "name": "Sign of the Times",
       "url": "https://open.spotify.com/track/5Ohxk2dO5COHF1krpoPigN"
+    },
+    {
+      "album": {
+        "name": "21",
+        "url": "https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285240,
+      "name": "Someone Like You",
+      "url": "https://open.spotify.com/track/1zwMYTA5nlNjZxYrvBB2pV"
     },
     {
       "album": {

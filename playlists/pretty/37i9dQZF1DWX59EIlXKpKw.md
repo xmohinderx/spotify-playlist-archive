@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX59EIlXKpKw.md) - [plain]
 
 > Listen to all the music from the hit series, and your favorite science songs!
 
-[Spotify](https://open.spotify.com/user/spotify) - 922 likes - 20 songs - 40 min 30 sec
+[Spotify](https://open.spotify.com/user/spotify) - 931 likes - 20 songs - 40 min 30 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ada Twist, Scientist Theme Song \(From "Ada Twist, Scientist"\)](https://open.spotify.com/track/5fvMWOLISgdDbvm8EYuJMU) | [Ada Twist, Scientist Cast](https://open.spotify.com/artist/76oRycbLitZ9oew9UTIByK), [Renee Elise Goldsberry](https://open.spotify.com/artist/28VFQYsMlusDx4yaVxwu0D) | [Ada Twist, Scientist \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/22aQsYeeE3Bo2X2YOa2d1D) | 0:47 |
 | 2 | [The Why Song](https://open.spotify.com/track/0PPhUn8wym6SElNCXhoHad) | [Ada Twist, Scientist Cast](https://open.spotify.com/artist/76oRycbLitZ9oew9UTIByK) | [Ada Twist, Scientist \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/22aQsYeeE3Bo2X2YOa2d1D) | 1:31 |
-| 3 | [Think Like A Scientist](https://open.spotify.com/track/5bXtUGHULEeYhW2MIEN6iy) | [GoNoodle](https://open.spotify.com/artist/13QcQR3aMDTgC8jdNqSx4f), [Blazer Fresh](https://open.spotify.com/artist/4pgIT5fWtcmcMm0YqPDEV0) | [GoNoodle Presents Blazer Fresh \(Vol\. 1\)](https://open.spotify.com/album/3lCBVaBrl8PogWylUxVqSk) | 2:32 |
+| 3 | [Think Like A Scientist](https://open.spotify.com/track/5326NwvKqHt6kWOVATpSgF) | [GoNoodle](https://open.spotify.com/artist/13QcQR3aMDTgC8jdNqSx4f), [Blazer Fresh](https://open.spotify.com/artist/4pgIT5fWtcmcMm0YqPDEV0) | [Kids Songs: After School Fun!](https://open.spotify.com/album/3tAe0A2NzURsyNRrysCmFZ) | 2:32 |
 | 4 | [Hypothesis](https://open.spotify.com/track/51o2AxOpFq2jqLFUTtON90) | [Ada Twist, Scientist Cast](https://open.spotify.com/artist/76oRycbLitZ9oew9UTIByK) | [Ada Twist, Scientist \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/22aQsYeeE3Bo2X2YOa2d1D) | 1:30 |
 | 5 | [Science Is Real](https://open.spotify.com/track/7xFXq8zWrmUsM4geMf4ieS) | [They Might Be Giants \(For Kids\)](https://open.spotify.com/artist/18ZrIxk5cW5C0MEeTeQx7O) | [Here Comes Science](https://open.spotify.com/album/0DiKDeuH9pBNY9mfiNSpAd) | 1:54 |
 | 6 | [Brainstorm](https://open.spotify.com/track/0KI9LENUe0rDhTe9mWbPeQ) | [Ada Twist, Scientist Cast](https://open.spotify.com/artist/76oRycbLitZ9oew9UTIByK) | [Ada Twist, Scientist \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/22aQsYeeE3Bo2X2YOa2d1D) | 1:18 |
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX59EIlXKpKw.md) - [plain]
 | 19 | [Science](https://open.spotify.com/track/6y527slRv6wrd7eM7PjYaM) | [Teeny Tiny Stevies](https://open.spotify.com/artist/6hhqb0X8Jas5jt96Okhjov) | [Thoughtful Songs for Little People](https://open.spotify.com/album/7f8sw4jRMSFZoAykCkd7CA) | 3:40 |
 | 20 | [Curious \- Radio Edit](https://open.spotify.com/track/5G0lNxYMUZFTIr1GL7EgQA) | [Ants on a Log](https://open.spotify.com/artist/6FhfWrn7f8y6OI8JZV2P3g) | [Curious: Think Outside the Pipeline!](https://open.spotify.com/album/0TgG27H7fFvAhb1RWvrAn6) | 2:30 |
 
-Snapshot ID: `MTY0NjMwNzAwMCwwMDAwMDAwMDhiZjIxNTZjZGQ2NDgzZGFjYjA4YzUyNWRhYTcxMWEy`
+Snapshot ID: `MTY0NjMwNzAwMCwwMDAwMDAwMGViODdmMjgzMzc5MTE3ODlhYjM5Y2RmM2QxOGI1OWIz`

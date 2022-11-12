@@ -1,12 +1,12 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Ab-Soul",
-  "num_followers": 636917,
+  "num_followers": 637024,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzUzNDQwMCwwMDAwMDAwMDQzN2RiZTJkNzQyMzY4NDc2NWNhNDA1NGRiM2RjM2Ez",
+  "snapshot_id": "MTY2ODE0ODEzNywwMDAwMDAwMDRjNTNlMzY1MjRjYjc3MmY1ZGI1OTJjODg3ZDRkNGIz",
   "tracks": [
     {
       "added_at": "2022-11-04 04:00:00",
@@ -29,24 +29,20 @@
       "url": "https://open.spotify.com/track/28qA8y1sz0FTuSapsCxNOG"
     },
     {
-      "added_at": "2022-11-04 04:00:00",
+      "added_at": "2022-11-12 04:59:56",
       "album": {
-        "name": "The Forever Story",
-        "url": "https://open.spotify.com/album/3QVjpIxcksDkJmOnvlOJjg"
+        "name": "King's Disease III",
+        "url": "https://open.spotify.com/album/3vQuGKQJMfdXmkjRKqUesk"
       },
       "artists": [
         {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        },
-        {
-          "name": "Kenny Mason",
-          "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv"
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
         }
       ],
-      "duration_ms": 227555,
-      "name": "Dance Now (feat. Kenny Mason)",
-      "url": "https://open.spotify.com/track/6wj7wjtegmkziorQ2tt5Pz"
+      "duration_ms": 167724,
+      "name": "Michael & Quincy",
+      "url": "https://open.spotify.com/track/5MfCvL6jCTkxPCBQf3OkYH"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -135,26 +131,6 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Fast Life",
-        "url": "https://open.spotify.com/album/2wLlsWj3lhE79LCLmcL1on"
-      },
-      "artists": [
-        {
-          "name": "Vado",
-          "url": "https://open.spotify.com/artist/4ubKsFJjMgWkARG6w2Qlv8"
-        },
-        {
-          "name": "Dave East",
-          "url": "https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5"
-        }
-      ],
-      "duration_ms": 117211,
-      "name": "Fast Life",
-      "url": "https://open.spotify.com/track/3sQujgsglVZVKDvvpape8z"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
         "name": "10",
         "url": "https://open.spotify.com/album/138M0lORis5tDxurpIbd7V"
       },
@@ -175,6 +151,70 @@
       "duration_ms": 209864,
       "name": "Shootouts In Soho (feat. A$AP Rocky & Stove God Cooks)",
       "url": "https://open.spotify.com/track/5jcbcNw3MnXSEhYqXM3pcC"
+    },
+    {
+      "added_at": "2022-11-12 04:59:56",
+      "album": {
+        "name": "Band of Brothers",
+        "url": "https://open.spotify.com/album/2OwdxUvQBCjolqKBZYXI0v"
+      },
+      "artists": [
+        {
+          "name": "38 Spesh",
+          "url": "https://open.spotify.com/artist/32cT1WQRSDg4xsReG7eqyT"
+        },
+        {
+          "name": "Harry Fraud",
+          "url": "https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S"
+        },
+        {
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+        },
+        {
+          "name": "Ransom",
+          "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
+        }
+      ],
+      "duration_ms": 171645,
+      "name": "Band of Brothers",
+      "url": "https://open.spotify.com/track/4UY8uzghtixlMhFR4JFqzF"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Fast Life",
+        "url": "https://open.spotify.com/album/2wLlsWj3lhE79LCLmcL1on"
+      },
+      "artists": [
+        {
+          "name": "Vado",
+          "url": "https://open.spotify.com/artist/4ubKsFJjMgWkARG6w2Qlv8"
+        },
+        {
+          "name": "Dave East",
+          "url": "https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5"
+        }
+      ],
+      "duration_ms": 117211,
+      "name": "Fast Life",
+      "url": "https://open.spotify.com/track/3sQujgsglVZVKDvvpape8z"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Church Clothes 4",
+        "url": "https://open.spotify.com/album/4GnEecDMWGwbCKsd3KTFny"
+      },
+      "artists": [
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        }
+      ],
+      "duration_ms": 201541,
+      "name": "Still In America",
+      "url": "https://open.spotify.com/track/3ZzQQZcaLD8S1IgblayfX6"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -203,18 +243,38 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Church Clothes 4",
-        "url": "https://open.spotify.com/album/4GnEecDMWGwbCKsd3KTFny"
+        "name": "The Forever Story (Extended Version)",
+        "url": "https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g"
       },
       "artists": [
         {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "name": "Kenny Mason",
+          "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv"
         }
       ],
-      "duration_ms": 201541,
-      "name": "Still In America",
-      "url": "https://open.spotify.com/track/3ZzQQZcaLD8S1IgblayfX6"
+      "duration_ms": 227555,
+      "name": "Dance Now (feat. Kenny Mason)",
+      "url": "https://open.spotify.com/track/2WrldKXSBVbNNm3A9vJryi"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Never Freestyle",
+        "url": "https://open.spotify.com/album/77PEXiTnnWU0QhAwVSDFBH"
+      },
+      "artists": [
+        {
+          "name": "Coast Contra",
+          "url": "https://open.spotify.com/artist/4xZTKft62AsF0SC3rAuYwJ"
+        }
+      ],
+      "duration_ms": 266996,
+      "name": "Never Freestyle",
+      "url": "https://open.spotify.com/track/1a9x6fk6pUMxr28vZR3nU3"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -245,20 +305,20 @@
       "url": "https://open.spotify.com/track/3tmpJN9fGVkrhlNkZVgH90"
     },
     {
-      "added_at": "2022-11-04 04:00:00",
+      "added_at": "2022-11-12 04:59:56",
       "album": {
-        "name": "Never Freestyle",
-        "url": "https://open.spotify.com/album/77PEXiTnnWU0QhAwVSDFBH"
+        "name": "Note To Self",
+        "url": "https://open.spotify.com/album/6cRRJmCi1WIvTSEBmrjj6j"
       },
       "artists": [
         {
-          "name": "Coast Contra",
-          "url": "https://open.spotify.com/artist/4xZTKft62AsF0SC3rAuYwJ"
+          "name": "Katori Walker",
+          "url": "https://open.spotify.com/artist/2ODTjg0iTHX1QxBeRNI6nT"
         }
       ],
-      "duration_ms": 266996,
-      "name": "Never Freestyle",
-      "url": "https://open.spotify.com/track/1a9x6fk6pUMxr28vZR3nU3"
+      "duration_ms": 144519,
+      "name": "Note To Self",
+      "url": "https://open.spotify.com/track/3d7aL2Z4Ovrwei3wevMEIt"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -303,22 +363,6 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Good Wine",
-        "url": "https://open.spotify.com/album/6898YVDudEoCou54LQrbrd"
-      },
-      "artists": [
-        {
-          "name": "Katori Walker",
-          "url": "https://open.spotify.com/artist/2ODTjg0iTHX1QxBeRNI6nT"
-        }
-      ],
-      "duration_ms": 126114,
-      "name": "Good Wine",
-      "url": "https://open.spotify.com/track/16QxSt81FZSUynjfopa8pv"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
         "name": "$oul $old $eparately",
         "url": "https://open.spotify.com/album/3PZx4Vntcp5T7UgdfjnFDa"
       },
@@ -355,22 +399,18 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Gang Signs (feat. ScHoolboy Q)",
-        "url": "https://open.spotify.com/album/6djndSUOt3l5SJRc1wHdml"
+        "name": "Francis Ford Coppola",
+        "url": "https://open.spotify.com/album/5niKVfj2vTA0RSCIDZ35PN"
       },
       "artists": [
         {
-          "name": "Freddie Gibbs",
-          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
-        },
-        {
-          "name": "ScHoolboy Q",
-          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
+          "name": "Your Old Droog",
+          "url": "https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp"
         }
       ],
-      "duration_ms": 166840,
-      "name": "Gang Signs (feat. ScHoolboy Q)",
-      "url": "https://open.spotify.com/track/6snYsavG9vq3C7RGN98dst"
+      "duration_ms": 139991,
+      "name": "Francis Ford Coppola",
+      "url": "https://open.spotify.com/track/0wGatt1VN1O7Mt5gwx7lzj"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -395,18 +435,22 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Francis Ford Coppola",
-        "url": "https://open.spotify.com/album/5niKVfj2vTA0RSCIDZ35PN"
+        "name": "Al Pacino",
+        "url": "https://open.spotify.com/album/4c7QeDvdFGVHfe4Q4igrO3"
       },
       "artists": [
         {
-          "name": "Your Old Droog",
-          "url": "https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp"
+          "name": "A$AP TyY",
+          "url": "https://open.spotify.com/artist/3XRvpMCFnLf5pF3uiiuLfY"
+        },
+        {
+          "name": "A$AP Twelvyy",
+          "url": "https://open.spotify.com/artist/0tPjSrb43a58uznKru1k2P"
         }
       ],
-      "duration_ms": 139991,
-      "name": "Francis Ford Coppola",
-      "url": "https://open.spotify.com/track/0wGatt1VN1O7Mt5gwx7lzj"
+      "duration_ms": 145979,
+      "name": "Al Pacino",
+      "url": "https://open.spotify.com/track/4QqCwUVo0YDB4FZPkxQxOc"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -431,22 +475,18 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Al Pacino",
-        "url": "https://open.spotify.com/album/4c7QeDvdFGVHfe4Q4igrO3"
+        "name": "Wimbledon",
+        "url": "https://open.spotify.com/album/3AlI6rmqiVJWDopXWdCb2m"
       },
       "artists": [
         {
-          "name": "A$AP TyY",
-          "url": "https://open.spotify.com/artist/3XRvpMCFnLf5pF3uiiuLfY"
-        },
-        {
-          "name": "A$AP Twelvyy",
-          "url": "https://open.spotify.com/artist/0tPjSrb43a58uznKru1k2P"
+          "name": "Free Party",
+          "url": "https://open.spotify.com/artist/2A1dxDBORVkkbHJDVDOhed"
         }
       ],
-      "duration_ms": 145979,
-      "name": "Al Pacino",
-      "url": "https://open.spotify.com/track/4QqCwUVo0YDB4FZPkxQxOc"
+      "duration_ms": 142409,
+      "name": "Wimbledon",
+      "url": "https://open.spotify.com/track/7AUXScBeRD7EXEFOsglJag"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -467,18 +507,38 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Wimbledon",
-        "url": "https://open.spotify.com/album/3AlI6rmqiVJWDopXWdCb2m"
+        "name": "Gang Signs (feat. ScHoolboy Q)",
+        "url": "https://open.spotify.com/album/6djndSUOt3l5SJRc1wHdml"
       },
       "artists": [
         {
-          "name": "Free Party",
-          "url": "https://open.spotify.com/artist/2A1dxDBORVkkbHJDVDOhed"
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        },
+        {
+          "name": "ScHoolboy Q",
+          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
         }
       ],
-      "duration_ms": 142409,
-      "name": "Wimbledon",
-      "url": "https://open.spotify.com/track/7AUXScBeRD7EXEFOsglJag"
+      "duration_ms": 166840,
+      "name": "Gang Signs (feat. ScHoolboy Q)",
+      "url": "https://open.spotify.com/track/6snYsavG9vq3C7RGN98dst"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "A Quarter Til",
+        "url": "https://open.spotify.com/album/1pH42Rw6Ug6qxBwWFc00Z8"
+      },
+      "artists": [
+        {
+          "name": "A$AP Twelvyy",
+          "url": "https://open.spotify.com/artist/0tPjSrb43a58uznKru1k2P"
+        }
+      ],
+      "duration_ms": 92000,
+      "name": "Jus Lef Phoenix",
+      "url": "https://open.spotify.com/track/67ildkjzEsv38VbiUoCVnc"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -503,42 +563,6 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "A Quarter Til",
-        "url": "https://open.spotify.com/album/1pH42Rw6Ug6qxBwWFc00Z8"
-      },
-      "artists": [
-        {
-          "name": "A$AP Twelvyy",
-          "url": "https://open.spotify.com/artist/0tPjSrb43a58uznKru1k2P"
-        }
-      ],
-      "duration_ms": 92000,
-      "name": "Jus Lef Phoenix",
-      "url": "https://open.spotify.com/track/67ildkjzEsv38VbiUoCVnc"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "$oul $old $eparately",
-        "url": "https://open.spotify.com/album/3PZx4Vntcp5T7UgdfjnFDa"
-      },
-      "artists": [
-        {
-          "name": "Freddie Gibbs",
-          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
-        },
-        {
-          "name": "Scarface",
-          "url": "https://open.spotify.com/artist/19KwjzvIL92r29IINtlPNP"
-        }
-      ],
-      "duration_ms": 194461,
-      "name": "Decoded (feat. Scarface)",
-      "url": "https://open.spotify.com/track/56fofPwaABXBc5qHGkxacV"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
         "name": "GOD DID",
         "url": "https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50"
       },
@@ -559,22 +583,6 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Moonshooter",
-        "url": "https://open.spotify.com/album/0e59aDltSERCndLyQwiBlb"
-      },
-      "artists": [
-        {
-          "name": "Ab-Soul",
-          "url": "https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW"
-        }
-      ],
-      "duration_ms": 182926,
-      "name": "Moonshooter",
-      "url": "https://open.spotify.com/track/4Js5w5HGoSdv7O79RmmEXr"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
         "name": "Walk Out (feat. DJ Premier)",
         "url": "https://open.spotify.com/album/2pSTB0VfDjWUifm3rf9QGt"
       },
@@ -591,6 +599,38 @@
       "duration_ms": 161315,
       "name": "Walk Out (feat. DJ Premier)",
       "url": "https://open.spotify.com/track/1iOrYWTaQGJN3BieqlHEcX"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Dark Hearted",
+        "url": "https://open.spotify.com/album/3uSh69KCgMerblCUeYohUl"
+      },
+      "artists": [
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        }
+      ],
+      "duration_ms": 205851,
+      "name": "Dark Hearted",
+      "url": "https://open.spotify.com/track/2vcdlFDuB7tjdYTCf0u6AL"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Moonshooter",
+        "url": "https://open.spotify.com/album/0e59aDltSERCndLyQwiBlb"
+      },
+      "artists": [
+        {
+          "name": "Ab-Soul",
+          "url": "https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW"
+        }
+      ],
+      "duration_ms": 182926,
+      "name": "Moonshooter",
+      "url": "https://open.spotify.com/track/4Js5w5HGoSdv7O79RmmEXr"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -667,22 +707,6 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Dark Hearted",
-        "url": "https://open.spotify.com/album/3uSh69KCgMerblCUeYohUl"
-      },
-      "artists": [
-        {
-          "name": "Freddie Gibbs",
-          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
-        }
-      ],
-      "duration_ms": 205851,
-      "name": "Dark Hearted",
-      "url": "https://open.spotify.com/track/2vcdlFDuB7tjdYTCf0u6AL"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
         "name": "moMINTs",
         "url": "https://open.spotify.com/album/2w6rI5vijQ6SnOyH0UN4S2"
       },
@@ -715,6 +739,26 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
+        "name": "Plain Sight",
+        "url": "https://open.spotify.com/album/6CzfmHmWBWTbtmjHvbNrjB"
+      },
+      "artists": [
+        {
+          "name": "Vado",
+          "url": "https://open.spotify.com/artist/4ubKsFJjMgWkARG6w2Qlv8"
+        },
+        {
+          "name": "Lloyd Banks",
+          "url": "https://open.spotify.com/artist/3vDUJHQtqT3jFRZ2ECXDTi"
+        }
+      ],
+      "duration_ms": 205400,
+      "name": "Plain Sight",
+      "url": "https://open.spotify.com/track/3Ah4pozwJaRxSCpBpe5feb"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
         "name": "Mannequin",
         "url": "https://open.spotify.com/album/2p6jl1M9uh40sIv1KA5aKW"
       },
@@ -727,6 +771,26 @@
       "duration_ms": 234664,
       "name": "Mannequin",
       "url": "https://open.spotify.com/track/6rCj7kub7xxSvkdKBFyQ4W"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "$oul $old $eparately",
+        "url": "https://open.spotify.com/album/3PZx4Vntcp5T7UgdfjnFDa"
+      },
+      "artists": [
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        },
+        {
+          "name": "Scarface",
+          "url": "https://open.spotify.com/artist/19KwjzvIL92r29IINtlPNP"
+        }
+      ],
+      "duration_ms": 194461,
+      "name": "Decoded (feat. Scarface)",
+      "url": "https://open.spotify.com/track/56fofPwaABXBc5qHGkxacV"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -751,26 +815,6 @@
       "duration_ms": 216267,
       "name": "Comfortable",
       "url": "https://open.spotify.com/track/10zQ7RusGiAimQv92m9wlj"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Plain Sight",
-        "url": "https://open.spotify.com/album/6CzfmHmWBWTbtmjHvbNrjB"
-      },
-      "artists": [
-        {
-          "name": "Vado",
-          "url": "https://open.spotify.com/artist/4ubKsFJjMgWkARG6w2Qlv8"
-        },
-        {
-          "name": "Lloyd Banks",
-          "url": "https://open.spotify.com/artist/3vDUJHQtqT3jFRZ2ECXDTi"
-        }
-      ],
-      "duration_ms": 205400,
-      "name": "Plain Sight",
-      "url": "https://open.spotify.com/track/3Ah4pozwJaRxSCpBpe5feb"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -835,6 +879,22 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
+        "name": "Barely Miss",
+        "url": "https://open.spotify.com/album/4wHVHXSasHh2aq0D4g5NRA"
+      },
+      "artists": [
+        {
+          "name": "REASON",
+          "url": "https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o"
+        }
+      ],
+      "duration_ms": 193656,
+      "name": "Barely Miss",
+      "url": "https://open.spotify.com/track/4QPtyUkP2ysNjZDF5AuZMC"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
         "name": "Hollandaise",
         "url": "https://open.spotify.com/album/64HygXbyafPahxN1avR56P"
       },
@@ -863,22 +923,6 @@
       "duration_ms": 188386,
       "name": "Where I Belong",
       "url": "https://open.spotify.com/track/1PwY8OpvFFt7CmnpnPAw7O"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Barely Miss",
-        "url": "https://open.spotify.com/album/4wHVHXSasHh2aq0D4g5NRA"
-      },
-      "artists": [
-        {
-          "name": "REASON",
-          "url": "https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o"
-        }
-      ],
-      "duration_ms": 193656,
-      "name": "Barely Miss",
-      "url": "https://open.spotify.com/track/4QPtyUkP2ysNjZDF5AuZMC"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -951,46 +995,6 @@
       "duration_ms": 296982,
       "name": "Isis - Remix",
       "url": "https://open.spotify.com/track/2hf7qisR1NhP3MuedFyOkp"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Checkmate",
-        "url": "https://open.spotify.com/album/092m8BBfQD4WLKfZXkD2PI"
-      },
-      "artists": [
-        {
-          "name": "Cordae",
-          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
-        },
-        {
-          "name": "Hit-Boy",
-          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
-        }
-      ],
-      "duration_ms": 170373,
-      "name": "Checkmate",
-      "url": "https://open.spotify.com/track/3KYTIo9pu84SbLL53iGew4"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Vinyl Days",
-        "url": "https://open.spotify.com/album/39Pk4nMutY9mR59Z1n9BH1"
-      },
-      "artists": [
-        {
-          "name": "Logic",
-          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
-        },
-        {
-          "name": "DJ Premier",
-          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
-        }
-      ],
-      "duration_ms": 282581,
-      "name": "Vinyl Days (feat. DJ Premier)",
-      "url": "https://open.spotify.com/track/4Red8fs87G5istv5L8S9kU"
     }
   ],
   "unique_name": "Spilled Ink",

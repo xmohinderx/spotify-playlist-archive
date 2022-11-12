@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdP7Xdr0y4p4.md) - [plain]
 
 > An essential list of recent hits of SoGo\.  Cover: The Guardians
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,338 likes - 80 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,338 likes - 80 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,14 +42,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdP7Xdr0y4p4.md) - [plain]
 | 32 | [Best Thing](https://open.spotify.com/track/2LqfoPg1e7dud9HJSnaVsn) | [Triumphant Quartet](https://open.spotify.com/artist/60yKIk5WTQfPrkZPcdohVC) | [Bigger Than Sunday](https://open.spotify.com/album/0RgdcpTzlEU9m0WnfgsU19) | 3:17 |
 | 33 | [Faith Like That](https://open.spotify.com/track/1cxxA1gqowDgJTwCGDZsi9) | [Gordon Mote](https://open.spotify.com/artist/08EFt670UCZCyxbhI1VtxG) | [All Things New](https://open.spotify.com/album/1PcbJ1DL1tFKjAzsBEoEVe) | 3:39 |
 | 34 | [Celebrate Me Home](https://open.spotify.com/track/0GKnuQf2zv5k8nOQm8HHFd) | [The Perrys](https://open.spotify.com/artist/1xRTBMpX8h8nOZ60Gg98gU) | [Blue Skies Coming](https://open.spotify.com/album/3Ze6pRPw4B3vN99kCnYIHt) | 4:15 |
-| 35 | [Pray Now](https://open.spotify.com/track/6BT4eCTe1MiGwAGgf5ezpJ) | [Karen Peck & New River](https://open.spotify.com/artist/7F1556VoxW6M06EOc2AnA5) | [Pray Now](https://open.spotify.com/album/12uzTrOLpxr3j6zr0PLbC3) | 4:27 |
+| 35 | [Pray Now](https://open.spotify.com/track/47euK3OyEYfzsoEGnGn6wS) | [Karen Peck & New River](https://open.spotify.com/artist/7F1556VoxW6M06EOc2AnA5) | [Daywind 30: 30 Years Of Southern Gospel Excellence](https://open.spotify.com/album/4uBSJsvF2byS5gRlvTiavx) | 4:29 |
 | 36 | [My Name Is Jesus](https://open.spotify.com/track/3DwqOkBGKJKtKTwgsNlehP) | [Mark Bishop](https://open.spotify.com/artist/1rB6iNJyZrKajKrOBwTO6k) | [Seasons](https://open.spotify.com/album/7509pHkOXmmr8sjff1mfly) | 5:09 |
 | 37 | [Thief in the Night](https://open.spotify.com/track/4oScvPoK3ryJ1uzpt4Giw7) | [Joseph Habedank](https://open.spotify.com/artist/1E5fXe9FugDtjPJXLjc3be) | [Thief In The Night](https://open.spotify.com/album/7AfTSlpi35PwEvxGY0otef) | 4:07 |
 | 38 | [Matchless \(feat\. Point Of Grace\)](https://open.spotify.com/track/1iiheCt1EQk8br6NV3f7Y1) | [Tiffany Coburn](https://open.spotify.com/artist/7G6drNZysjZcTxmpTo2vGt), [Point Of Grace](https://open.spotify.com/artist/5y1gFSVnE4DGxUxHeKrGk6) | [You Are More](https://open.spotify.com/album/0HpHgwxC0aBokDhE018SUO) | 3:28 |
 | 39 | [Wake Up](https://open.spotify.com/track/1psN7GabVAeaBo0lTaDNUM) | [Ernie Haase & Signature Sound](https://open.spotify.com/artist/3Qp9Qtdb5G8QYHWfe5qxi0) | [Wake Up](https://open.spotify.com/album/2YUHflr83aTEzmqzpAWH57) | 3:38 |
 | 40 | [King of Kings](https://open.spotify.com/track/5moV2vWD0lThAkubmsRYHU) | [Jack Greene](https://open.spotify.com/artist/14h0UcPJlGYv5Qrjp7m1jQ) | [I Am Not Alone](https://open.spotify.com/album/79NRt7O1NFN3Qs3AToLPlA) | 2:58 |
 | 41 | [Say Amen](https://open.spotify.com/track/2jMoBd2SMyipPWJum2Mpre) | [Brian Free & Assurance](https://open.spotify.com/artist/57PRB2opCrH6LlWS4INhi0) | [Unashamed](https://open.spotify.com/album/0d7pyEQyRk7xYrz3NKVi9m) | 4:33 |
-| 42 | [Welcome To The Family](https://open.spotify.com/track/4HqLgAbPz9pBuCCJbh5fiR) | [The Booth Brothers](https://open.spotify.com/artist/01uI1SCsA0pLwWa2ENV6Gv) | [Room For More](https://open.spotify.com/album/10oPZTgvpINdckHN8yHUuD) | 3:27 |
+| 42 | [Welcome to the Family](https://open.spotify.com/track/2Sawx79uV0jgfy9iaxWEbO) | [The Booth Brothers](https://open.spotify.com/artist/01uI1SCsA0pLwWa2ENV6Gv) | [Daywind 30: 30 Years Of Southern Gospel Excellence](https://open.spotify.com/album/4uBSJsvF2byS5gRlvTiavx) | 3:28 |
 | 43 | [If You Knew Him](https://open.spotify.com/track/3gXHhrxJLiGR4ujyzE2MTZ) | [The Perrys](https://open.spotify.com/artist/1xRTBMpX8h8nOZ60Gg98gU) | [Daywind 30: 30 Years Of Southern Gospel Excellence](https://open.spotify.com/album/4uBSJsvF2byS5gRlvTiavx) | 4:51 |
 | 44 | [The Spirit and the Bride](https://open.spotify.com/track/6QVdPyhG84xBkum4UOUy7M) | [The Wilbanks](https://open.spotify.com/artist/59iNl6j8dYKneqZ1U4012r) | [My Name Is Victory](https://open.spotify.com/album/5mOIV9KyRZNFEHi3Hi4Ftl) | 3:22 |
 | 45 | [How Great Thou Art](https://open.spotify.com/track/3otLzyxTwe5JoBKFA5K1r3) | [Kendra Kay](https://open.spotify.com/artist/55wvuImkFMHjZ1nYmhdXYJ), [Jason Benoit](https://open.spotify.com/artist/0Xi32ldFYxsc4g2vQ7b20w) | [How Great Thou Art](https://open.spotify.com/album/4Uok3QayvnnQUB8ob4J95S) | 3:28 |
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdP7Xdr0y4p4.md) - [plain]
 | 64 | [Favorite Song of All](https://open.spotify.com/track/1jqCZajfj6hAU1RHixoxbd) | [The Erwins](https://open.spotify.com/artist/6fP0zhB7y3p0SKO513H9DD) | [Favorites: On Repeat](https://open.spotify.com/album/7GnVw92Aav72gGVMpG0aXM) | 4:30 |
 | 65 | [Sweeter as the Days Go By](https://open.spotify.com/track/7G6WP9xJHIa18Kr6hFKPoI) | [Canton Junction](https://open.spotify.com/artist/7HuVvxJh7p17tDsVFYIUx9) | [Show Me Your Way](https://open.spotify.com/album/2iiRvEnI8qJCBmxfKZfeDT) | 5:34 |
 | 66 | [Good News From Jerusalem \(Demonstration in C\-C\#\-D\)](https://open.spotify.com/track/3KbuCBE1F1dPBEBaLAN6hb) | [Crossroads Performance Tracks](https://open.spotify.com/artist/6aIaHnJNo69R2FX2PWKLiF) | [Good News From Jerusalem \(Made Popular by Tribute Quartet\) \[Performance Track\]](https://open.spotify.com/album/1T2TM15utzZjxJxO674Q3H) | 3:57 |
-| 67 | [Battle Stand](https://open.spotify.com/track/0HupMziol0Akt3BxX4gfqZ) | [The Old Paths](https://open.spotify.com/artist/59FfqLqvVuyo9AIdEnR0HG) | [Right Now](https://open.spotify.com/album/5stgFFoGFOkFz9gzvLMFRl) | 3:13 |
+| 67 | [Battle Stand](https://open.spotify.com/track/407HZGvGeb9eNMAvOfKDgT) | [The Old Paths](https://open.spotify.com/artist/59FfqLqvVuyo9AIdEnR0HG) | [Shout It Out Vol\. 2](https://open.spotify.com/album/0SKEtfs0TrWS0uaAzKjodI) | 3:13 |
 | 68 | [The Broken Ones \(Demonstration in E\)](https://open.spotify.com/track/2gK18cT8hLOS2aIfeCq3sv) | [Crossroads Performance Tracks](https://open.spotify.com/artist/6aIaHnJNo69R2FX2PWKLiF) | [The Broken Ones \(Made Popular By The Talley Trio\) \[Performance Track\]](https://open.spotify.com/album/3q5hL0BltNdHyKodAqUyZH) | 3:39 |
 | 69 | [Bloodline](https://open.spotify.com/track/4csB0M65mPjoCpo1g9EQiB) | [11th Hour](https://open.spotify.com/artist/1HtIwustFdmwPcgO3IuShY) | [Steppin' Out](https://open.spotify.com/album/0wzJOZsUHlbbxahsZQl2PM) | 3:15 |
 | 70 | [These Are The Days](https://open.spotify.com/track/5R8RKqIh4EKQKY5U5Q8K8y) | [Kingsmen](https://open.spotify.com/artist/1KqnnHm6UY5FW6UENrzSVX) | [These Are The Days](https://open.spotify.com/album/4NLFC87jCshYTUAz3hbhP6) | 3:18 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdP7Xdr0y4p4.md) - [plain]
 | 79 | [Steppin' Out in Faith](https://open.spotify.com/track/00wsJCYNxXPGW9PxcfyZwL) | [Jim Brady Trio](https://open.spotify.com/artist/370fla8RwoHgAhGzUy56OB) | [Daywind 30: 30 Years Of Southern Gospel Excellence](https://open.spotify.com/album/4uBSJsvF2byS5gRlvTiavx) | 3:20 |
 | 80 | [The Lighthouse \- 50 Year Celebration](https://open.spotify.com/track/2ZGDPgfa0rOiRezBCY56qk) | [Ronny Hinson](https://open.spotify.com/artist/6b5TbMekdEbb75ItLBOoRs) | [The Lighthouse \(50 Year Celebration\)](https://open.spotify.com/album/7DTKYFvwOP0q9jBz6OtclE) | 4:22 |
 
-Snapshot ID: `MTY2MTU3OTQzMCwwMDAwMDAwMDViOGUzYmUwZjkzMjNjNmNkNTA3NmIxNzhlNGI3YjU1`
+Snapshot ID: `MTY2MTU3OTQzMCwwMDAwMDAwMDgwMTMyY2ZmNzAzMzY4ZGVhYWViMzQ4ZGIwZTI4MzBl`

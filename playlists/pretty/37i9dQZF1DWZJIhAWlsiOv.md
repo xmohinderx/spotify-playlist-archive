@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJIhAWlsiOv.md) - [plain]
 
 > Latin songs that changed the game\. Cover: Celia Cruz
 
-[Spotify](https://open.spotify.com/user/spotify) - 884,665 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 885,126 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJIhAWlsiOv.md) - [plain]
 | 39 | [El Cantante](https://open.spotify.com/track/166cUvnNBa5ZoFWLIsLZfU) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Éxitos de la Salsa](https://open.spotify.com/album/4dE8XD9VBh3UDOio2LsqKc) | 10:22 |
 | 40 | [Amigo](https://open.spotify.com/track/4CKIoO64EM5M37TkshbaQE) | [Roberto Carlos](https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65) | [Inolvidables](https://open.spotify.com/album/7D79IE8KdqXLvfyxi4IKIl) | 3:28 |
 | 41 | [Mediterraneo](https://open.spotify.com/track/7Bewui7KtaMzROeteRitRz) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7) | [Mediterráneo](https://open.spotify.com/album/7h6vVYPUiuDF6KKcqMdE72) | 3:25 |
-| 42 | [The Girl From Ipanema](https://open.spotify.com/track/3898C4AbdbptwYet6547e5) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy), [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF) | [The Girl From Ipanema \- The Bossa Nova Years](https://open.spotify.com/album/4I26wT2bckDbv8Xl5iVInQ) | 5:21 |
+| 42 | [The Girl From Ipanema](https://open.spotify.com/track/7bk1AEkUMedYDy6uNLk3AE) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Relaxing Jazz](https://open.spotify.com/album/4ULy7VNjcLsgn4wZeihz5Q) | 5:22 |
 | 43 | [Latinoamérica \(feat\. Totó la Momposina, Susana Baca & Maria Rita\)](https://open.spotify.com/track/1xuYajTJZh8zZrPRmUaagf) | [Calle 13](https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb), [Totó La Momposina](https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk), [Susana Baca](https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0), [Maria Rita](https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI) | [Entren Los Que Quieran](https://open.spotify.com/album/3yqcj5G3zkeXuWIx6cjQgx) | 5:01 |
 | 44 | [Soy un Truhán, Soy un Señor](https://open.spotify.com/track/1TGHvWtCeIGMvO75P1hhqa) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Personalidad](https://open.spotify.com/album/2mvTdPihXIOm17QqGlkK3i) | 3:03 |
 | 45 | [La Cumparsita](https://open.spotify.com/track/6tJ0zwyKkJ9pWXN0XWqLqY) | [Gerardo Matos Rodriguez](https://open.spotify.com/artist/5DeRKZrVXp7WP1Y440UwLc), [Orquesta Típica Argentina](https://open.spotify.com/artist/7EifXFUcvp1uAGiKw1Aqek), [Oscar Roma](https://open.spotify.com/artist/2TwhcAoTYkBXMdBBTNVtrt) | [Tango, Tango](https://open.spotify.com/album/7ncoJht0mYFlKMALp2yqf5) | 3:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJIhAWlsiOv.md) - [plain]
 | 49 | [Paloma negra](https://open.spotify.com/track/2ib9PWWqtNyw9rff0qcm5G) | [Lola Beltrán](https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p) | [Serie Diamante \(USA\)](https://open.spotify.com/album/2eoBGUFrJZobGxGpwZ7dAp) | 3:15 |
 | 50 | [Feliz Navidad](https://open.spotify.com/track/5lZgpy1koAXPoB6OIQf1Gg) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [Weihnachtslieder zum Kochen](https://open.spotify.com/album/3YBEFjNxVfvKwKGnQJqxza) | 3:02 |
 
-Snapshot ID: `MTY2MTkyODI1NywwMDAwMDAwMDNkYTg5MTUwNTg2ZjVhMmRjYTU1MTU2MGYzZTU4MmJm`
+Snapshot ID: `MTY2MTkyODI1NywwMDAwMDAwMDBjNGRlY2RjZmUwYTIwM2U0YzEzY2FlZTNmNzAzMjI4`

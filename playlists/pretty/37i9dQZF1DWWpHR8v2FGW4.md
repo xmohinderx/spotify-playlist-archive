@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpHR8v2FGW4.md) - [plain]
 
 > Always come in 1st.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,758 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,130 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,11 +16,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpHR8v2FGW4.md) - [plain]
 | 6 | [Watercolour \- Full Version; Single](https://open.spotify.com/track/5ami95W9OOWQPwrBb5tud5) | [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B) | [Immersion](https://open.spotify.com/album/3XtEGVx9uh7J46nBzEc1VS) | 5:04 |
 | 7 | [Gold Dust \- Fox Stevenson Remix](https://open.spotify.com/track/2rCM9E5gZK2YRiIClGsGpu) | [DJ Fresh](https://open.spotify.com/artist/6r20qOqY7qDWI0PPTxVMlC), [Fox Stevenson](https://open.spotify.com/artist/2BQWHuvxG4kMYnfghdaCIy) | [Gold Dust \(Fox Stevenson Remix\)](https://open.spotify.com/album/1b5Wr7LLfuuHgimQVQRaUP) | 3:53 |
 | 8 | [Issa Vibe](https://open.spotify.com/track/2I5faAdg3IZbd6HEn6Blfz) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R), [BRKLYN](https://open.spotify.com/artist/0sSB3cIRBuBGa1UXLsQtaw) | [House of Wax](https://open.spotify.com/album/3ULXB8LP4xjSHoC5Su2ZMW) | 2:48 |
-| 9 | [Broken](https://open.spotify.com/track/1J4EgK0zwGuLbZT9UBxtfn) | [Netsky](https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP), [Montell2099](https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0) | [Broken](https://open.spotify.com/album/6k7ydahJXGQVdNPYPFfWTx) | 3:19 |
-| 10 | [LIFT YOU UP](https://open.spotify.com/track/2BRLxNhZT3HEKRINTCDBcm) | [BLVCK CROWZ](https://open.spotify.com/artist/6uotnBX5ysB2Y2FIE6FbPg), [Eskei83](https://open.spotify.com/artist/2mwfx4gHhYVlrKjhEM5Q3R) | [LIFT YOU UP](https://open.spotify.com/album/4fkJqKBzqdWEZ7tE0rhXKp) | 3:01 |
+| 9 | [LIFT YOU UP](https://open.spotify.com/track/2BRLxNhZT3HEKRINTCDBcm) | [BLVCK CROWZ](https://open.spotify.com/artist/6uotnBX5ysB2Y2FIE6FbPg), [Eskei83](https://open.spotify.com/artist/2mwfx4gHhYVlrKjhEM5Q3R) | [LIFT YOU UP](https://open.spotify.com/album/4fkJqKBzqdWEZ7tE0rhXKp) | 3:01 |
+| 10 | [Broken](https://open.spotify.com/track/1J4EgK0zwGuLbZT9UBxtfn) | [Netsky](https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP), [Montell2099](https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0) | [Broken](https://open.spotify.com/album/6k7ydahJXGQVdNPYPFfWTx) | 3:19 |
 | 11 | [Feel Alive](https://open.spotify.com/track/28kPohGGsDT7hbOZVhpB8j) | [Slippy](https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG), [SOUNDR](https://open.spotify.com/artist/0YnlfML5Nu6DrpCshXMH0X) | [Lone / Feel Alive](https://open.spotify.com/album/0frTSsh3FnxkCVF4NcNANG) | 3:18 |
-| 12 | [Reviver \- Totally Enormous Extinct Dinosaurs Remix](https://open.spotify.com/track/0LAOGIAFvEnMnzrO5oaAb5) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Reviver \(Totally Enormous Extinct Dinosaurs Remix\)](https://open.spotify.com/album/08fGtbr8PDy84u2KRrNuXS) | 4:06 |
-| 13 | [Fearless](https://open.spotify.com/track/7pDUFFF3J4WEu1aZMW4M4b) | [Guapdad 4000](https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT), [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh) | [Fearless](https://open.spotify.com/album/2foovL6UaCvp5QR72qdm72) | 2:20 |
+| 12 | [Fearless](https://open.spotify.com/track/7pDUFFF3J4WEu1aZMW4M4b) | [Guapdad 4000](https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT), [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh) | [Fearless](https://open.spotify.com/album/2foovL6UaCvp5QR72qdm72) | 2:20 |
+| 13 | [Reviver \- Totally Enormous Extinct Dinosaurs Remix](https://open.spotify.com/track/0LAOGIAFvEnMnzrO5oaAb5) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Reviver \(Totally Enormous Extinct Dinosaurs Remix\)](https://open.spotify.com/album/08fGtbr8PDy84u2KRrNuXS) | 4:06 |
 | 14 | [SUB ZERO](https://open.spotify.com/track/72VyFG8WRK6CeV3ToXccOm) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0) | [AUTOPILOT](https://open.spotify.com/album/72LShUJi8Na0lmTzni1O6c) | 3:14 |
 | 15 | [Fire](https://open.spotify.com/track/31OGLSOWrnr6ufgKHq23Sl) | [Flowidus](https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC), [Matisse](https://open.spotify.com/artist/23htNRZZo1AaSgRb8ZULJV) | [Fire](https://open.spotify.com/album/53PK2MPBcD2Z3umLA3DhX3) | 4:20 |
 | 16 | [where r u](https://open.spotify.com/track/6OiOs0sxOk3vxuEjFBwAhn) | [Kill Paris](https://open.spotify.com/artist/6BNaPZdAIZAJnbgJRiZz2w) | [where r u](https://open.spotify.com/album/2F2609uOxkhgnd6OysbbU4) | 3:14 |
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpHR8v2FGW4.md) - [plain]
 | 24 | [Keep Crashing](https://open.spotify.com/track/3w752Se1mkiTtMqAeoli1y) | [Ruzer](https://open.spotify.com/artist/09mAGI8RIblTO46vN2FQaq) | [Keep Crashing](https://open.spotify.com/album/4tjTuXsc7Icjn6hg9JZyOg) | 2:58 |
 | 25 | [Dreamstate](https://open.spotify.com/track/4WOYAnPBe0qqlgcVAPLCd8) | [Ephixa](https://open.spotify.com/artist/7xYcJfhrRx9Iv8smhoEibc) | [Dreamstate](https://open.spotify.com/album/3GSBcowmQxTWGiBOc4zJwh) | 3:18 |
 | 26 | [Voices](https://open.spotify.com/track/3vYK1bhhuFglF2ucREX4jO) | [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN), [Philip Strand](https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q) | [Voices](https://open.spotify.com/album/1zktHQjfwzgp9x4krbKtJt) | 4:09 |
-| 27 | [Believer](https://open.spotify.com/track/0KuvjeKpXNK6fMPsnpJ0cm) | [Friction](https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr) | [Believer](https://open.spotify.com/album/09539Dh2pzs6OmoWsXFtFH) | 3:38 |
-| 28 | [Feel Alive](https://open.spotify.com/track/40w9Ww6zBhxQ7WZz2owEwX) | [Grafix](https://open.spotify.com/artist/27YdXZOMLqvxI2pB5GyqyY), [Lauren L'aimant](https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ) | [Feel Alive](https://open.spotify.com/album/45j86M3d2PYo2trc8MoEW3) | 4:08 |
+| 27 | [Feel Alive](https://open.spotify.com/track/40w9Ww6zBhxQ7WZz2owEwX) | [Grafix](https://open.spotify.com/artist/27YdXZOMLqvxI2pB5GyqyY), [Lauren L'aimant](https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ) | [Feel Alive](https://open.spotify.com/album/45j86M3d2PYo2trc8MoEW3) | 4:08 |
+| 28 | [Believer](https://open.spotify.com/track/0KuvjeKpXNK6fMPsnpJ0cm) | [Friction](https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr) | [Believer](https://open.spotify.com/album/09539Dh2pzs6OmoWsXFtFH) | 3:38 |
 | 29 | [Vex](https://open.spotify.com/track/5EYmCZ7F6sA7fVhNhkAMf1) | [Bensley](https://open.spotify.com/artist/3SfEKS85dj9v75ROsWJSiL) | [Vex](https://open.spotify.com/album/76zmqdpTOItu1E4PXhgCML) | 3:55 |
 | 30 | [Close To Hell](https://open.spotify.com/track/6tSa72Ivd9ltEV9qJsQTfw) | [KUURO](https://open.spotify.com/artist/5mVWu2Ofpm2mlEpuMm3b4Q), [Goja](https://open.spotify.com/artist/2Gy4HwdmVmRPWDBQO3lw3d) | [Close To Hell](https://open.spotify.com/album/5L0lzeDFIl1qMSO4T0sZBC) | 3:18 |
 | 31 | [MAKE A MOVE](https://open.spotify.com/track/3iXf7W37Yetv36gTgDlZ93) | [REAPER](https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf) | [Make A Move](https://open.spotify.com/album/7y82PxGmIMKNyCmZvRbqIa) | 3:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpHR8v2FGW4.md) - [plain]
 | 49 | [Daydreams](https://open.spotify.com/track/10fCnRDanLFxvi6ni9Xfnf) | [Millbrook](https://open.spotify.com/artist/5yd0a8BOCNke9EhV2ynQOm), [Medyk](https://open.spotify.com/artist/7vbAs9frQTkhTyOWWIwsSL) | [Daydreams](https://open.spotify.com/album/3bx9QqHke58WWn5yeiUpSy) | 3:31 |
 | 50 | [If You Wanna](https://open.spotify.com/track/5BO9RCcQFzOcuweoahVaLZ) | [Subshock & Evangelos](https://open.spotify.com/artist/2zmc5GOSrIaronLdKaqluH), [Voicians](https://open.spotify.com/artist/5DNApAt05XowaylsOJo1eW) | [Want U EP](https://open.spotify.com/album/3F501X0TTF56zKitLaTd5m) | 3:35 |
 
-Snapshot ID: `MTY2NzgzMjY3NSwwMDAwMDAwMGMzMDg5OGUyNTIyMzQwNjQyNzkzNmRhMTI2MjRiNTZi`
+Snapshot ID: `MTY2NzgzMjY3NSwwMDAwMDAwMGZhZDNhYmZmOTUwNGU4OTkzZWNkYTk1YTU0YzRjYWFi`

@@ -1,12 +1,12 @@
 {
   "description": "2014 highlights from the home of indie music.",
-  "num_followers": 30148,
+  "num_followers": 30229,
   "original_name": "Best of Indie 2014",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDE4MDc1MCwwMDAwMDAwMDBiZjI5NDMwNjE0ZDBhZTc0Y2EyZjRkMDVjZjE3MDhk",
+  "snapshot_id": "MTY0MDE4MDc1MCwwMDAwMDAwMDIyZjczYTIxYjdlNTVkZmZmOWIzMjFhNzE5YzU3OTYy",
   "tracks": [
     {
       "added_at": "2021-09-03 05:42:37",
@@ -603,22 +603,6 @@
     {
       "added_at": "2021-09-03 05:42:37",
       "album": {
-        "name": "Little Giant",
-        "url": "https://open.spotify.com/album/3ZTS2uxdWAkBnIXzsCY8PZ"
-      },
-      "artists": [
-        {
-          "name": "Roo Panes",
-          "url": "https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC"
-        }
-      ],
-      "duration_ms": 241720,
-      "name": "Tiger Striped Sky",
-      "url": "https://open.spotify.com/track/4C2aiAVTTVyZbCQZst5Xu1"
-    },
-    {
-      "added_at": "2021-09-03 05:42:37",
-      "album": {
         "name": "Turn Blue",
         "url": "https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 246306,
       "name": "Fever",
       "url": "https://open.spotify.com/track/3Hx7RXqCS7Kzjy2ot2q1Gk"
+    },
+    {
+      "added_at": "2021-09-03 05:42:37",
+      "album": {
+        "name": "Little Giant",
+        "url": "https://open.spotify.com/album/3ZTS2uxdWAkBnIXzsCY8PZ"
+      },
+      "artists": [
+        {
+          "name": "Roo Panes",
+          "url": "https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC"
+        }
+      ],
+      "duration_ms": 241720,
+      "name": "Tiger Striped Sky",
+      "url": "https://open.spotify.com/track/4C2aiAVTTVyZbCQZst5Xu1"
     },
     {
       "added_at": "2021-09-03 05:42:37",
@@ -731,6 +731,22 @@
     {
       "added_at": "2021-09-03 05:42:37",
       "album": {
+        "name": "Turn Blue",
+        "url": "https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 410186,
+      "name": "Weight of Love",
+      "url": "https://open.spotify.com/track/3xMQOd1C3TXsjQ3pmzOmkC"
+    },
+    {
+      "added_at": "2021-09-03 05:42:37",
+      "album": {
         "name": "Yellow Flicker Beat (From The Hunger Games: Mockingjay Part 1)",
         "url": "https://open.spotify.com/album/7sg5iqMiDrM2aJqLAmv83V"
       },
@@ -779,22 +795,6 @@
     {
       "added_at": "2021-09-03 05:42:37",
       "album": {
-        "name": "Turn Blue",
-        "url": "https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 410186,
-      "name": "Weight of Love",
-      "url": "https://open.spotify.com/track/3xMQOd1C3TXsjQ3pmzOmkC"
-    },
-    {
-      "added_at": "2021-09-03 05:42:37",
-      "album": {
         "name": "ZABA",
         "url": "https://open.spotify.com/album/14IOe7ahxQPTwUYUQX3IFi"
       },
@@ -811,22 +811,6 @@
     {
       "added_at": "2021-09-03 05:42:37",
       "album": {
-        "name": "Are We There",
-        "url": "https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4"
-      },
-      "artists": [
-        {
-          "name": "Sharon Van Etten",
-          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
-        }
-      ],
-      "duration_ms": 262520,
-      "name": "Every Time the Sun Comes Up",
-      "url": "https://open.spotify.com/track/61qxP4Vs5DVX0Ic4GnBklu"
-    },
-    {
-      "added_at": "2021-09-03 05:42:37",
-      "album": {
         "name": "I Forget Where We Were",
         "url": "https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 281213,
       "name": "I Forget Where We Were",
       "url": "https://open.spotify.com/track/7gYwIAHB6VxzLJFSZMMv8i"
+    },
+    {
+      "added_at": "2021-09-03 05:42:37",
+      "album": {
+        "name": "Are We There",
+        "url": "https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4"
+      },
+      "artists": [
+        {
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+        }
+      ],
+      "duration_ms": 262520,
+      "name": "Every Time the Sun Comes Up",
+      "url": "https://open.spotify.com/track/61qxP4Vs5DVX0Ic4GnBklu"
     },
     {
       "added_at": "2021-09-03 05:42:37",
@@ -955,6 +955,22 @@
     {
       "added_at": "2021-09-03 05:42:37",
       "album": {
+        "name": "Hozier",
+        "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 198026,
+      "name": "Like Real People Do",
+      "url": "https://open.spotify.com/track/7K6LFPfjdnN6QqvGzhvpRO"
+    },
+    {
+      "added_at": "2021-09-03 05:42:37",
+      "album": {
         "name": "You're Dead!",
         "url": "https://open.spotify.com/album/29luvT98TnqHjVDYSRbbrj"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 239306,
       "name": "A Dream of You and Me",
       "url": "https://open.spotify.com/track/44GeTdr7MktZDqNUkLaj5h"
-    },
-    {
-      "added_at": "2021-09-03 05:42:37",
-      "album": {
-        "name": "Hozier",
-        "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 198026,
-      "name": "Like Real People Do",
-      "url": "https://open.spotify.com/track/7K6LFPfjdnN6QqvGzhvpRO"
     },
     {
       "added_at": "2021-09-03 05:42:37",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2021-09-03 05:42:37",
       "album": {
-        "name": "After the Disco",
-        "url": "https://open.spotify.com/album/0cjMGmZKB9ZWzcb0VcASpf"
-      },
-      "artists": [
-        {
-          "name": "Broken Bells",
-          "url": "https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG"
-        }
-      ],
-      "duration_ms": 236866,
-      "name": "Holding on for Life",
-      "url": "https://open.spotify.com/track/757PJjXAgywxrYkdhMkEV9"
-    },
-    {
-      "added_at": "2021-09-03 05:42:37",
-      "album": {
         "name": "They Want My Soul",
         "url": "https://open.spotify.com/album/55TZx6GWm1hlEbRgkGRjma"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 212653,
       "name": "Do You",
       "url": "https://open.spotify.com/track/08a6PhXyXeN3lv1DCKW9qY"
+    },
+    {
+      "added_at": "2021-09-03 05:42:37",
+      "album": {
+        "name": "After the Disco",
+        "url": "https://open.spotify.com/album/0cjMGmZKB9ZWzcb0VcASpf"
+      },
+      "artists": [
+        {
+          "name": "Broken Bells",
+          "url": "https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG"
+        }
+      ],
+      "duration_ms": 236866,
+      "name": "Holding on for Life",
+      "url": "https://open.spotify.com/track/757PJjXAgywxrYkdhMkEV9"
     },
     {
       "added_at": "2021-09-03 05:42:37",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2021-09-03 05:42:37",
       "album": {
-        "name": "Modern Vampires of the City",
-        "url": "https://open.spotify.com/album/1GXMNFfoHF4sN7lG8gZq1j"
-      },
-      "artists": [
-        {
-          "name": "Vampire Weekend",
-          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
-        }
-      ],
-      "duration_ms": 237973,
-      "name": "Hannah Hunt",
-      "url": "https://open.spotify.com/track/6AY1M1akbsVaQN3ATVyzH7"
-    },
-    {
-      "added_at": "2021-09-03 05:42:37",
-      "album": {
         "name": "Celeste EP",
         "url": "https://open.spotify.com/album/3W0K6QezWMLCYcZlJitqHt"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 203309,
       "name": "Celeste",
       "url": "https://open.spotify.com/track/23cj0rlc0UtTBaCg60VCkm"
+    },
+    {
+      "added_at": "2021-09-03 05:42:37",
+      "album": {
+        "name": "I Forget Where We Were",
+        "url": "https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "duration_ms": 343786,
+      "name": "Small Things",
+      "url": "https://open.spotify.com/track/5RySo0AAUR0reTHSCvb6HC"
     },
     {
       "added_at": "2021-09-03 05:42:37",
@@ -1279,38 +1279,6 @@
       "duration_ms": 265893,
       "name": "Hazey",
       "url": "https://open.spotify.com/track/0Zg4tjgfqw9qzq7lXX2sUM"
-    },
-    {
-      "added_at": "2021-09-03 05:42:37",
-      "album": {
-        "name": "I Forget Where We Were",
-        "url": "https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF"
-      },
-      "artists": [
-        {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        }
-      ],
-      "duration_ms": 343786,
-      "name": "Small Things",
-      "url": "https://open.spotify.com/track/5RySo0AAUR0reTHSCvb6HC"
-    },
-    {
-      "added_at": "2021-09-03 05:42:37",
-      "album": {
-        "name": "Built On Glass",
-        "url": "https://open.spotify.com/album/6DwdzG4UGYLxJ2p7bd483v"
-      },
-      "artists": [
-        {
-          "name": "Chet Faker",
-          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
-        }
-      ],
-      "duration_ms": 218553,
-      "name": "Talk Is Cheap",
-      "url": "https://open.spotify.com/track/7jJsme36M90Cn6aYYC2l3t"
     },
     {
       "added_at": "2021-09-03 05:42:37",
@@ -1447,6 +1415,22 @@
     {
       "added_at": "2021-09-03 05:42:37",
       "album": {
+        "name": "Morning Phase",
+        "url": "https://open.spotify.com/album/2Qx7dgA5VjX8JDQaXVxzHu"
+      },
+      "artists": [
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "duration_ms": 242346,
+      "name": "Blue Moon",
+      "url": "https://open.spotify.com/track/4gNErDjikE9QUQvkkqoB1S"
+    },
+    {
+      "added_at": "2021-09-03 05:42:37",
+      "album": {
         "name": "Are We There",
         "url": "https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4"
       },
@@ -1491,22 +1475,6 @@
       "duration_ms": 223226,
       "name": "Fall In Love",
       "url": "https://open.spotify.com/track/5imUTBF35uIoABlV9g9da2"
-    },
-    {
-      "added_at": "2021-09-03 05:42:37",
-      "album": {
-        "name": "Morning Phase",
-        "url": "https://open.spotify.com/album/2Qx7dgA5VjX8JDQaXVxzHu"
-      },
-      "artists": [
-        {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
-        }
-      ],
-      "duration_ms": 242346,
-      "name": "Blue Moon",
-      "url": "https://open.spotify.com/track/4gNErDjikE9QUQvkkqoB1S"
     },
     {
       "added_at": "2021-09-03 05:42:37",
@@ -1619,6 +1587,42 @@
       "duration_ms": 228840,
       "name": "Sleeping With A Friend",
       "url": "https://open.spotify.com/track/6fFuOXIrVHUmSI8IM889wa"
+    },
+    {
+      "added_at": "2021-09-03 05:42:37",
+      "album": {
+        "name": "Jungle",
+        "url": "https://open.spotify.com/album/5dYCfDcz1KB5E9i2kgWXXr"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 173626,
+      "name": "Drops",
+      "url": "https://open.spotify.com/track/3qfqrPLjWLbIHEc5ZCrKmN"
+    },
+    {
+      "added_at": "2021-09-03 05:42:37",
+      "album": {
+        "name": "Go",
+        "url": "https://open.spotify.com/album/1asVfKGYTD8QqMAVJC5beM"
+      },
+      "artists": [
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        },
+        {
+          "name": "Blood Diamonds",
+          "url": "https://open.spotify.com/artist/4yuvRDaF5kWkFLq6q1Fev4"
+        }
+      ],
+      "duration_ms": 240759,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/6U6UC3Xg5ukTBQIy245bAo"
     }
   ],
   "unique_name": "Best of Indie 2014",

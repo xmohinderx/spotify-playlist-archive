@@ -183,7 +183,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 262457,
       "name": "Amazing Grace (Arr. William Ross)",
       "url": "https://open.spotify.com/track/2p6qtCgJz42Mae5p4zUwDl"
@@ -201,7 +201,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 208866,
       "name": "Amigo",
       "url": "https://open.spotify.com/track/4CKIoO64EM5M37TkshbaQE"
@@ -291,7 +291,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 171653,
       "name": "Angels",
       "url": "https://open.spotify.com/track/3zsRP8rH1kaIAo9fmiP4El"
@@ -640,6 +640,24 @@
     },
     {
       "album": {
+        "name": "Sittin' In",
+        "url": "https://open.spotify.com/album/1EtuN2j0AKVwsiqrddMtco"
+      },
+      "artists": [
+        {
+          "name": "Loggins & Messina",
+          "url": "https://open.spotify.com/artist/7emRV8AluG3d4e5T0DZiK9"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255773,
+      "name": "Danny's Song",
+      "url": "https://open.spotify.com/track/5mnvqisoDJilY0uCEdT8rG"
+    },
+    {
+      "album": {
         "name": "Come Away With Me",
         "url": "https://open.spotify.com/album/1JvoMzqg04nC29gam4Qaiq"
       },
@@ -777,7 +795,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 152760,
       "name": "El reloj",
       "url": "https://open.spotify.com/track/4L6uoUq5Aj6S8zQ0GzAbK9"
@@ -1019,7 +1037,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 201906,
       "name": "He Venido",
       "url": "https://open.spotify.com/track/6SjMwdYagEiKGNtKWMO3zY"
@@ -1383,7 +1401,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 276720,
       "name": "Limit To Your Love",
       "url": "https://open.spotify.com/track/33BnSMHgX0AsbKSIbkuMwh"
@@ -1588,6 +1606,24 @@
     },
     {
       "album": {
+        "name": "Eric Clapton: Life In 12 Bars (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2cfUT6PId9Jnjar3ftQ3Bk"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280466,
+      "name": "My Sweet Lord",
+      "url": "https://open.spotify.com/track/6u9pmFX8oAmaUyQ6k8gEkw"
+    },
+    {
+      "album": {
         "name": "All Things Must Pass (Remastered)",
         "url": "https://open.spotify.com/album/7I2wUjVsMFGVaJvchEzXSP"
       },
@@ -1617,7 +1653,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 281226,
       "name": "My Sweet Lord - Remastered 2014",
       "url": "https://open.spotify.com/track/0qdQUeKVyevrbKhAo0ibxS"
@@ -1855,6 +1891,24 @@
       "duration_ms": 228093,
       "name": "Rolling in the Deep",
       "url": "https://open.spotify.com/track/1c8gk2PeTE04A1pIDH9YMk"
+    },
+    {
+      "album": {
+        "name": "Rolling in the Deep",
+        "url": "https://open.spotify.com/album/636ekSSKYrhxvQEHCY07jv"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228093,
+      "name": "Rolling in the Deep",
+      "url": "https://open.spotify.com/track/3GkqnS8Lt8LDZV565ITUwh"
     },
     {
       "album": {
@@ -2177,7 +2231,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 321826,
       "name": "The Girl From Ipanema",
       "url": "https://open.spotify.com/track/3898C4AbdbptwYet6547e5"
@@ -2217,7 +2271,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 201000,
       "name": "Too Good At Goodbyes",
       "url": "https://open.spotify.com/track/3VlbOrM6nYPprVvzBZllE5"

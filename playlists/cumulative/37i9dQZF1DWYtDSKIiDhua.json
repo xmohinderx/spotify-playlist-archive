@@ -482,6 +482,24 @@
     },
     {
       "album": {
+        "name": "Bittersweet",
+        "url": "https://open.spotify.com/album/35TjHF0WpwF49jciFC6Tgi"
+      },
+      "artists": [
+        {
+          "name": "Jess Connelly",
+          "url": "https://open.spotify.com/artist/1XC87A3NVlw6xDW1kIB5FN"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156142,
+      "name": "Body Language",
+      "url": "https://open.spotify.com/track/7ChkQmb0PDbfTHI9oOPOlh"
+    },
+    {
+      "album": {
         "name": "to be honest",
         "url": "https://open.spotify.com/album/0qRlwYQIRtsqmQsRFYqOVi"
       },
@@ -4291,7 +4309,7 @@
           "url": "https://open.spotify.com/artist/2IEDOKhzkk1EKk93fZ759r"
         },
         {
-          "name": "J.Lamotta",
+          "name": "J.Lamotta Suzume",
           "url": "https://open.spotify.com/artist/76O0DRobXGao078KT0xci8"
         }
       ],

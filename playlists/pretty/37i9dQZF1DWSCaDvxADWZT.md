@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCaDvxADWZT.md) - [plain]
 
 > Sláinte! All the right music to fuel your St\. Patrick's Day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,401 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,400 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,11 +27,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCaDvxADWZT.md) - [plain]
 | 17 | [Picture Of You](https://open.spotify.com/track/2XR9rcXjCptMXXF5e7dHgG) | [Boyzone](https://open.spotify.com/artist/6X9aYHnQ75YI8o08aoa0iS) | [Make A Group](https://open.spotify.com/album/7dUO8eEYY4ZoNEhtfebA3M) | 3:30 |
 | 18 | [Tell Me Ma](https://open.spotify.com/track/7BZOYDhoCAR2AkvGBrj6vw) | [Sham Rock](https://open.spotify.com/artist/3btIWfhXaf5db1gpLbXuB3) | [Tell Me Ma](https://open.spotify.com/album/6vFdEOGr37S7fYj9L0IZRD) | 3:54 |
 | 19 | [Dolan's 6AM](https://open.spotify.com/track/2gHH4oSsdrli2lo0aeSkMW) | [Beoga](https://open.spotify.com/artist/659fOqEHzm3jL8AeWuOwXO) | [How to Tune a Fish](https://open.spotify.com/album/434qaX0gq8wBHp1PaQiJJf) | 3:35 |
-| 20 | [Orinoco Flow](https://open.spotify.com/track/14EUcXXpqrC03Dzzdj8bGr) | [Enya](https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4) | [Watermark](https://open.spotify.com/album/2FZ2y8Z5sTRSnnSa8DIPHz) | 4:26 |
+| 20 | [Orinoco Flow](https://open.spotify.com/track/1U9LTN3N2g3Lr7dGXGdcZX) | [Enya](https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4) | [Absolute 80's](https://open.spotify.com/album/7zS5FCveNTzk3Upp2NnPID) | 4:26 |
 | 21 | [Beautiful Day](https://open.spotify.com/track/5t514bZ4eZPtKJbKfuZJCA) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Best Of 1990\-2000](https://open.spotify.com/album/5I099NUhbRrXaxnxQagElv) | 4:04 |
 | 22 | [Rose Tattoo](https://open.spotify.com/track/4bLKGUkVRxIyrN1770DdDm) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [SIGNED and SEALED in BLOOD](https://open.spotify.com/album/5YYbg2ZO8rK84Zf4Z5yWPJ) | 5:06 |
-| 23 | [Dearg Doom](https://open.spotify.com/track/4LywX4vWjHOS07VuVWC7GD) | [Horslips](https://open.spotify.com/artist/2mcMCQLrNDEW6O1pAEK3dr) | [The Táin \(Bonus Tracks Version\)](https://open.spotify.com/album/0nxIa7m4erGJeFTLbVrtzS) | 3:06 |
-| 24 | [Seven Drunken Nights](https://open.spotify.com/track/0mBgPugbdJQCIAy0YMxG26) | [The Dubliners](https://open.spotify.com/artist/72RvmgEg2omdlMV9aExO6a) | [Dublin](https://open.spotify.com/album/5dSItSnqeWUo5oKsavJd8K) | 3:16 |
+| 23 | [Dearg Doom](https://open.spotify.com/track/37DMBL5uL9MVKxyIM8GA10) | [Horslips](https://open.spotify.com/artist/2mcMCQLrNDEW6O1pAEK3dr) | [Dearg Doom](https://open.spotify.com/album/0XfK3TpT5ssTorPvrNTPdq) | 3:09 |
+| 24 | [Seven Drunken Nights](https://open.spotify.com/track/7BXLdkFExcOs5rQZDJs5QN) | [The Dubliners](https://open.spotify.com/artist/72RvmgEg2omdlMV9aExO6a) | [Echte Irische Trinklieder](https://open.spotify.com/album/7qzmTV99o0014Kw3eOla3o) | 3:12 |
 | 25 | [Galway Girl](https://open.spotify.com/track/0afhq8XCExXpqazXczTSve) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 2:50 |
 | 26 | [The Boys Are Back In Town](https://open.spotify.com/track/43DeSV93pJPT4lCZaWZ6b1) | [Thin Lizzy](https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ) | [Jailbreak \(Deluxe Edition\)](https://open.spotify.com/album/6Cf545T4jkaiyvMnTRPOB2) | 4:26 |
 | 27 | [Zombie](https://open.spotify.com/track/1ybwx3USZGwoSEtenDcMvd) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Halloween Jams 2020](https://open.spotify.com/album/1b9RjoKhEo4jZtS3v7aALc) | 5:07 |
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCaDvxADWZT.md) - [plain]
 | 84 | [The Man Who Can't Be Moved](https://open.spotify.com/track/3IiMX7XqF9aLNnRlkHt4me) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [Chill sur la plage : Beach ambiance](https://open.spotify.com/album/4EaOJiNzRb6tKStrOzvW7P) | 4:01 |
 | 85 | [Bear Claws](https://open.spotify.com/track/3lJIMpVTbmEwUXy0m4U9lU) | [The Academic](https://open.spotify.com/artist/3VLf4DlBTN2ZRwygS3TNti) | [Tales from the Backseat](https://open.spotify.com/album/0rqIHttWQeXbxJvhAx8ktX) | 3:33 |
 | 86 | [Always Come Back To Your Love](https://open.spotify.com/track/5EVXjGtSm65oYpRQpwPjm0) | [Samantha Mumba](https://open.spotify.com/artist/7L12TqJ0fbwtFljTbwfwRI) | [The Collection](https://open.spotify.com/album/6Tc50kI9Vo4F0AQiSMqGhH) | 3:33 |
-| 87 | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/track/6wpGqhRvJGNNXwWlPmkMyO) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree \(Super Deluxe\)](https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU) | 4:37 |
+| 87 | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/track/49Nm3tdtTOZ0nwGDGcqK5w) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [U218 Singles](https://open.spotify.com/album/0pYUq4UiXNgq8mO23rlHVU) | 4:37 |
 | 88 | [Linger](https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We?](https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI) | 4:34 |
 | 89 | [Johnny Got A Boom Boom](https://open.spotify.com/track/7psi2y1Mm973ZkYynLYuEC) | [Imelda May](https://open.spotify.com/artist/6AnjHMqEAps8VJdHU8RykH) | [Love Tattoo](https://open.spotify.com/album/1QFPnggq5et7r2SUymBOap) | 2:59 |
 | 90 | [Nil se ina la](https://open.spotify.com/track/5zSR5MzbPGyfUztlvknkN7) | [Clannad](https://open.spotify.com/artist/0BkAYxgwF9VQiid4wI07yJ) | [Clannad: Christ Church Cathedral](https://open.spotify.com/album/42ZTXOIsWIlHoquBMh26Ip) | 5:58 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCaDvxADWZT.md) - [plain]
 | 95 | [Don't Go](https://open.spotify.com/track/33LfsAZ4kCfD90A3Zwp4sk) | [Hothouse Flowers](https://open.spotify.com/artist/2szQRWh2F0RUs9bkbepwok) | [People](https://open.spotify.com/album/3CmvEkZvuwobL2plDscowF) | 3:49 |
 | 96 | [Only When I Sleep](https://open.spotify.com/track/36DztiNpSIH5ZHTwmqthHW) | [The Corrs](https://open.spotify.com/artist/1VbWUxZTRNY2gw3qZ1tg9W) | [Talk on Corners](https://open.spotify.com/album/1z8ikMQ0VmMJDPmeiKY3o5) | 4:21 |
 | 97 | [Flying Without Wings](https://open.spotify.com/track/0KyDbV6Mxb8VTzYduJGoJr) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Greatest Hits](https://open.spotify.com/album/6gtDABGSqEp6waUHbtVbYT) | 3:36 |
-| 98 | [You're Such a Good Looking Woman](https://open.spotify.com/track/5AMrYxg3lrDzuq0Ldom3jb) | [Joe Dolan](https://open.spotify.com/artist/3sebqZKFZ8aJsgQu4YaKQh) | [Make Me an Island \- The Pye Anthology](https://open.spotify.com/album/34Wi5j7R2bIdS7qILLEV8K) | 2:56 |
+| 98 | [Good Looking Woman](https://open.spotify.com/track/4xv5WyMe0kFIlZcFlfyHgr) | [Joe Dolan](https://open.spotify.com/artist/3sebqZKFZ8aJsgQu4YaKQh) | [Showband Greats](https://open.spotify.com/album/0eQE7Bu0VRA8GpyXGvTgus) | 2:53 |
 | 99 | [Here Come the Good Times \- Single Version](https://open.spotify.com/track/5fhE2kvuLgNqBLk9Cb1V7s) | [A House](https://open.spotify.com/artist/53YkKjHFfjYq6dtcLiQ8NO) | [90s Alt Rock Treasures](https://open.spotify.com/album/0fFzqsaWiP0lG4INT7WNGh) | 3:33 |
 | 100 | [Nothing Compares 2 U \- Live](https://open.spotify.com/track/0s4iYgAV4SZF1Xli9PmE74) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [¡Released! The Human Rights Concerts \- An Embrace Of Hope](https://open.spotify.com/album/19JdXPQrKwjmL2rH2AfFs7) | 5:30 |
 
-Snapshot ID: `MTY0NzAxODI3NywwMDAwMDAwMGIyMTQ0MGE4MTBjNTQ4ZWM1ZmZhMTNhNmVlYWU2YzYy`
+Snapshot ID: `MTY0NzAxODI3NywwMDAwMDAwMGQ1ZGU4NTUyNzBmNjNmZGFkNGY4ZjRkMzhjMWE4YzJm`

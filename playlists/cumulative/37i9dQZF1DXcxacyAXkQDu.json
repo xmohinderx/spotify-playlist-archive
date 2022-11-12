@@ -3514,6 +3514,24 @@
     },
     {
       "album": {
+        "name": "Feel About You",
+        "url": "https://open.spotify.com/album/4TWyibHclHUOEsGqTQxgSh"
+      },
+      "artists": [
+        {
+          "name": "Aislin Evans",
+          "url": "https://open.spotify.com/artist/3v5hwKzY8gS0nDAfT78Ydx"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200470,
+      "name": "Feel About You",
+      "url": "https://open.spotify.com/track/6AC3iPxo3akgoxAyb6PBOU"
+    },
+    {
+      "album": {
         "name": "Fickle Heart",
         "url": "https://open.spotify.com/album/21ZFNf9XDz8VKorfCRVis0"
       },
@@ -4089,7 +4107,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 174706,
       "name": "Fortress",
       "url": "https://open.spotify.com/track/3ri08lx68DvAbQuqLuZoFM"
@@ -5599,7 +5617,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 201197,
       "name": "I Don't Wanna Love You Anymore",
       "url": "https://open.spotify.com/track/7ArrTJ1LwcGAlEO65LUQ7i"
@@ -7048,6 +7066,24 @@
     },
     {
       "album": {
+        "name": "Crying Sad Songs",
+        "url": "https://open.spotify.com/album/0lA0JLGqIRRcsJMdlq3nx9"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261532,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/09Qcv27NMy1HoN6mvok8z3"
+    },
+    {
+      "album": {
         "name": "Highs & Lows",
         "url": "https://open.spotify.com/album/3NPxIfnIdVZiKAOZxe6YVA"
       },
@@ -7117,7 +7153,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 256733,
       "name": "Let Me Love You",
       "url": "https://open.spotify.com/track/3ibKnFDaa3GhpPGlOUj7ff"
@@ -7471,7 +7507,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 225853,
       "name": "Lost Without You",
       "url": "https://open.spotify.com/track/3cWI6Hj9LQ0MfMuhw9uSMc"
@@ -7677,7 +7713,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 148973,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/0AnZrWo2TuUX5BnFjsoy3N"
@@ -7721,7 +7757,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 189506,
       "name": "Mad World",
       "url": "https://open.spotify.com/track/3JOVTQ5h8HGFnDdp4VT3MP"
@@ -8641,7 +8677,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 229960,
       "name": "No Right To Love You - Acoustic",
       "url": "https://open.spotify.com/track/58VJmNB8oeoE2PRqCrduEo"
@@ -8945,7 +8981,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 240933,
       "name": "October",
       "url": "https://open.spotify.com/track/4s0UxMiB8uYcKg4uAxCgn8"
@@ -9543,7 +9579,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 146429,
       "name": "Pick Up Your Phone",
       "url": "https://open.spotify.com/track/4hIppgm5PYoVIoGtCCSJnh"
@@ -9669,7 +9705,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 186987,
       "name": "promise, (From the Original Netflix Series \"Home For Christmas\")",
       "url": "https://open.spotify.com/track/0IZXC3mHpIdPZMZratBAfr"
@@ -10379,7 +10415,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 257133,
       "name": "She Will Be Loved",
       "url": "https://open.spotify.com/track/7sapKrjDij2fpDVj0GxP66"
@@ -10415,7 +10451,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 224692,
       "name": "Shimmer",
       "url": "https://open.spotify.com/track/7rbc7RwalZpLenuSpHjNbB"
@@ -11379,7 +11415,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 272273,
       "name": "Stay Warm",
       "url": "https://open.spotify.com/track/7xY8OieyuKP04FEJt5Ql0Y"
@@ -12780,6 +12816,24 @@
     },
     {
       "album": {
+        "name": "Till I Found You",
+        "url": "https://open.spotify.com/album/5i8yKKrI71gqHdXxYafYAo"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240280,
+      "name": "Till I Found You",
+      "url": "https://open.spotify.com/track/1var9mNP1RLTlu8qVDji0F"
+    },
+    {
+      "album": {
         "name": "Bitter Pill (Deluxe)",
         "url": "https://open.spotify.com/album/5R6OQpNKov9PdX3dxbpxtp"
       },
@@ -13511,6 +13565,24 @@
       "duration_ms": 174267,
       "name": "Wait & See",
       "url": "https://open.spotify.com/track/3nv8Krxy4YzauAdpSoLt8C"
+    },
+    {
+      "album": {
+        "name": "EPII (+ Skisser EP)",
+        "url": "https://open.spotify.com/album/4WQf5Do7ASTXKeaRjnzgm9"
+      },
+      "artists": [
+        {
+          "name": "Alice Boman",
+          "url": "https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184320,
+      "name": "Waiting",
+      "url": "https://open.spotify.com/track/4uVC8WydYHDmemPeYov9rZ"
     },
     {
       "album": {
@@ -14279,6 +14351,24 @@
       "duration_ms": 253773,
       "name": "Wishes",
       "url": "https://open.spotify.com/track/78VUV0gkoeKo0MxUmYiFbJ"
+    },
+    {
+      "album": {
+        "name": "Trail Mix Tape",
+        "url": "https://open.spotify.com/album/7o1kPZMhYTeD78xeKZ6hm6"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186432,
+      "name": "Wishful Thinking",
+      "url": "https://open.spotify.com/track/29FVvO5uqKd4IMfrBRcHey"
     },
     {
       "album": {

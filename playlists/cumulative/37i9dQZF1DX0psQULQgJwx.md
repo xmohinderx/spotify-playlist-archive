@@ -10,7 +10,7 @@
 |---|---|---|---|---|---|
 | [528 Hz Dreaming](https://open.spotify.com/track/03ZyHNqFcZF8aiW4QvUM5K) | [Shiroishi](https://open.spotify.com/artist/2fTvBtxiW8RC5E2ns1AmZC) | [528 Hz Dreaming](https://open.spotify.com/album/0PzmVcnQ8iM7GCjRF4Yjhs) | 1:42 | 2022-09-30 |  |
 | [A New Life Awaits](https://open.spotify.com/track/1gFkZFfUqtcImJLh932LUc) | [Chris Lukas](https://open.spotify.com/artist/2PYNWD01lteVriJrx1nzz9) | [A New Life Awaits](https://open.spotify.com/album/1U7piTwkxpvtNew3eVRWyr) | 3:17 | 2022-09-02 |  |
-| [A Prayer](https://open.spotify.com/track/45YjrCMISpBx7chzkelNaR) | [River Bells](https://open.spotify.com/artist/7tjgFuQTvF34bRoYAiPvVv) | [Temple Meditation](https://open.spotify.com/album/6s1mXif0gMVAqtWeVC65Rx) | 3:19 | 2022-09-02 |  |
+| [A Prayer](https://open.spotify.com/track/45YjrCMISpBx7chzkelNaR) | [River Bells](https://open.spotify.com/artist/7tjgFuQTvF34bRoYAiPvVv) | [Temple Meditation](https://open.spotify.com/album/6s1mXif0gMVAqtWeVC65Rx) | 3:19 | 2022-09-02 | 2022-11-12 |
 | [Adrift](https://open.spotify.com/track/4omXz2PI3nVWBWo8QfUIrk) | [Cold Space](https://open.spotify.com/artist/3PxPykyuBn8TuWjnuJ3jIr) | [Adrift](https://open.spotify.com/album/7rxtpynRElW9XYlujynm5c) | 4:31 | 2022-09-02 |  |
 | [Agoritsa](https://open.spotify.com/track/4lrHlM0lAZe1QlzNO23f2G) | [Orion](https://open.spotify.com/artist/6GWCB8ekz6k8xgOzb8i31f) | [Sirelis](https://open.spotify.com/album/27cJfiiUttUeLho3Lfzi7E) | 3:00 | 2022-09-02 |  |
 | [Akasha](https://open.spotify.com/track/5q4J2KGLDooMaYvsc2WxAu) | [Ewa Drishti](https://open.spotify.com/artist/36bqrOQ7m5YgPYvqSWuw7q) | [Akasha](https://open.spotify.com/album/3PmQ3GHAVKAmZkwP1NyQpA) | 2:51 | 2022-09-02 |  |

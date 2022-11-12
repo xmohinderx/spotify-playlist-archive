@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30D074EWuy7.md) - [plain]
 
 > Il meglio del jazz italiano, in una selezione speciale a cura degli <a href="spotify:artist:1rWbZmR5D63aZU60lMtVZx">Studio Murena</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,632 likes - 50 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,647 likes - 50 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30D074EWuy7.md) - [plain]
 | 43 | [Letzer aufruf](https://open.spotify.com/track/43iMiq89wNufHlFljWDAzz) | [Marco Rauchbombe Cesarini](https://open.spotify.com/artist/35vyDiiFqpQEcqSESv0me9) | [Marco Rauchbombe Cesarini & Uqbar Orchestra \(Transumanza\)](https://open.spotify.com/album/3R5GXfe3stleBEXcJgI7TW) | 4:57 |
 | 44 | [Sogni, Pt\. 3](https://open.spotify.com/track/4RtOrvuNEd7sVmPA44OWVn) | [NH](https://open.spotify.com/artist/4n4ms3LAmbFPneXQoalqgO) | [Stammi Veramente Molto Bene](https://open.spotify.com/album/2kt9cHDSQLEKPIjqegkKoS) | 2:40 |
 | 45 | [Musica e fumo \(featuring Colle Der Fomento\)](https://open.spotify.com/track/3eNc1G2fORU6RqCmTpJxHn) | [Loop Therapy](https://open.spotify.com/artist/53d3BP6XLXNEtoCTfff5jN), [Colle Der Fomento](https://open.spotify.com/artist/7582dstv99hhZhryUNCn3u) | [Opera prima \(Including Ice One Remix\)](https://open.spotify.com/album/2p4Mhuh5f6dDJwVxSPhdWf) | 4:38 |
-| 46 | [The Western Guys](https://open.spotify.com/track/4aZ4Fhkzxl1zBbwJwc9hEA) | [Khalab](https://open.spotify.com/artist/7y31SHFbPMfSy2pJbeYQI3), [M'berra Ensemble](https://open.spotify.com/artist/5FqZynIWuXBOQU3fEIulak) | [M’berra](https://open.spotify.com/album/2UBudXYMxtoWUifgm0uC3e) | 3:52 |
+| 46 | [The Western Guys](https://open.spotify.com/track/5u2BJIr3c9kazCyBFQevvn) | [Khalab & M’berra Ensemble](https://open.spotify.com/artist/2Lb0ATXjulFMvJQlquCgvr) | [M'berra](https://open.spotify.com/album/5BblnhMflAtl1Iz1FCoFsG) | 3:52 |
 | 47 | [Desertico](https://open.spotify.com/track/4EZKZM515HwNLevRgZmFd6) | [Paolo Fresu Devil Quartet](https://open.spotify.com/artist/3HwP2Snx52kveIRHh9k62Z) | [Desertico](https://open.spotify.com/album/7HQw3tDo1g6tyTLQdjIPQt) | 5:53 |
 | 48 | [L'Aventino](https://open.spotify.com/track/549O2wQgtQNcXkJIEpRB2f) | [Giulio Gentile](https://open.spotify.com/artist/5dDXTI6O0vQfGOWQkHDUa9), [Pietro Pancella](https://open.spotify.com/artist/2uLDDucEurdu6oS7ZIUkmj), [Michele Santoleri](https://open.spotify.com/artist/0LPDkCFv1nMPT5GqDlwxKH) | [Insight](https://open.spotify.com/album/3gzI0SA10GGTzeN0UTXnOi) | 6:36 |
 | 49 | [Hangover](https://open.spotify.com/track/4BUOv7mgtR1KT4VIaidMlP) | [AINÉ](https://open.spotify.com/artist/6XLKAr0x6aB0V3aAaqAS9h) | [Alchimia](https://open.spotify.com/album/4bfZxJcBhT7jT7ATaZn1po) | 3:45 |
 | 50 | [Gigi](https://open.spotify.com/track/0En4rr7N50o78ENfLnMptQ) | [Fabio Concato](https://open.spotify.com/artist/71tUraH5ODniYOmjxfc1za), [Paolo Di Sabatino Trio](https://open.spotify.com/artist/2CvzltIoHXR8Dm74R2olgV) | [Gigi](https://open.spotify.com/album/36xYaInaUB5pOuqVkJ0V5a) | 7:14 |
 
-Snapshot ID: `MTY2NzgxMjAyNywwMDAwMDAwMDZjNDhkOGYwMjhhNzgxOWNjZThlYzdjZGExMmIxNjBk`
+Snapshot ID: `MTY2NzgxMjAyNywwMDAwMDAwMDk4ZjU4YzU2YzMwZGUxZGQzNjJkZDg2N2QwOGVjZTdm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83ZswDLVXae.md) - [plain]
 
 > The top hits coming out of the G.O.O.D\. camp with <a href="spotify:artist:5K4W6rqBFWDnAN6FQUkS6x">Yeezy</a> at the helm.
 
-[Spotify](https://open.spotify.com/user/spotify) - 550,891 likes - 73 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 550,873 likes - 73 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83ZswDLVXae.md) - [plain]
 | 45 | [Drive Slow](https://open.spotify.com/track/6vB49BJ70zBpDrrAPwdaB8) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Paul Wall](https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg), [GLC](https://open.spotify.com/artist/2hZ6jVi1cao5VlJHAEPzU7) | [Late Registration](https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g) | 4:32 |
 | 46 | [Blessings \- Extended Version](https://open.spotify.com/track/4UaWrzY75h1tAvlxa4NKP9) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Blessings \(Extended Version\)](https://open.spotify.com/album/5Isq5L9DWNCRfvFAG6WFN7) | 5:01 |
 | 47 | [Heard 'Em Say](https://open.spotify.com/track/6yIjtVtnOBeC8SwdVHzAuF) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n) | [Late Registration](https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g) | 3:23 |
-| 48 | [Don't Like.1](https://open.spotify.com/track/3YqJ0iaDWM0aqEDQExd2j3) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi) | [G.O.O.D.](https://open.spotify.com/album/4YXvNse2P5iuKtCPh91o8q) | 4:43 |
+| 48 | [Don't Like.1](https://open.spotify.com/track/0dvpwiB6Ssz73GMGo164UQ) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi) | [Def Jam Midwest](https://open.spotify.com/album/5HyIR3IiHC8n1ZDfAMSp1F) | 4:43 |
 | 49 | [Stronger](https://open.spotify.com/track/0j2T0R9dR9qdJYsB7ciXhf) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Graduation](https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3) | 5:11 |
 | 50 | [Antidote](https://open.spotify.com/track/1wHZx0LgzFHyeIZkUydNXq) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Rodeo \(Expanded Edition\)](https://open.spotify.com/album/4PWBTB6NYSKQwfo79I3prg) | 4:22 |
 | 51 | [So Appalled](https://open.spotify.com/track/6K07Ahf6V7CAQn0ikrOztl) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [CyHi](https://open.spotify.com/artist/18HVMQsV3tINaTyzT5UIjH), [Swizz Beatz](https://open.spotify.com/artist/2cADQgiLMjNhbsfeN52Bf3), [RZA](https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn) | [My Beautiful Dark Twisted Fantasy](https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv) | 6:37 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83ZswDLVXae.md) - [plain]
 | 72 | [Ordinary People](https://open.spotify.com/track/7BSnwGH37ggErkQbDPBXIq) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Throwback Thursday R&B Jams](https://open.spotify.com/album/13Eiw8EAMPWby4QLHtkbFz) | 4:41 |
 | 73 | [Be \(Intro\)](https://open.spotify.com/track/11aFVmFy8903RwDx4ohQiq) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [Be](https://open.spotify.com/album/2UuvBxV56QWWj2uviGS0up) | 2:24 |
 
-Snapshot ID: `MTY2Mzk0Mjk5NywwMDAwMDAwMGM1MDRmNmZhMDlkNWM4MGJlYjAwMjNiYzc4MGU4OWMx`
+Snapshot ID: `MTY2Mzk0Mjk5NywwMDAwMDAwMDRiMjM4ZGE3Mjc2ODM0YTE1M2YzZjM3MDZmMzQzZTQ3`

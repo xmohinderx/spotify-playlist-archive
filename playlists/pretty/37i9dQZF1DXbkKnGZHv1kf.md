@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbkKnGZHv1kf.md) - [plain]
 
 > Early blues standards and classics
 
-[Spotify](https://open.spotify.com/user/spotify) - 729,886 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 729,934 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbkKnGZHv1kf.md) - [plain]
 | 32 | [Mean Old World \(Tk\. 1\)](https://open.spotify.com/track/2SN7hLyPSHyBKwykU0k0No) | [Big Bill Broonzy](https://open.spotify.com/artist/6HwigzRpuWoCZDqMOQc5eu) | [Big Bill Broonzy Vol\. 6 1937](https://open.spotify.com/album/5gRyd6LSs0JZABTzSj9vth) | 3:03 |
 | 33 | [What's The Use Of Getting Sober \(When You're Gonna Get Drunk Again\)](https://open.spotify.com/track/0zt7Bb8seSANEPfcBCfDgv) | [Louis Jordan & His Tympany Five](https://open.spotify.com/artist/62FPyLpIhmk27hBw6RHlhh) | [Jukebox Hits Volume 1 1942\-1947](https://open.spotify.com/album/5t2ETFvV5RZTwT8vhQiiqz) | 2:53 |
 | 34 | [Call It Stormy Monday But Tuesday Is Just As Bad \- Single Version](https://open.spotify.com/track/2Q0rtxNzQaZM7CMS0MizMJ) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [Chicago Blues Hits](https://open.spotify.com/album/5Yzku2Zgi5y2jbXExeTkYN) | 3:02 |
-| 35 | [Sent For You Yesterday](https://open.spotify.com/track/0jXSghMAEE2ImajlWNBoiT) | [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [The Complete Decca Recordings](https://open.spotify.com/album/22oDCpyHsYIYxMGcmieLDY) | 2:58 |
+| 35 | [Sent For You Yesterday](https://open.spotify.com/track/4U9SVAuO0GPRfQavNwxmE6) | [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [All Time Jazz](https://open.spotify.com/album/4zNqy339ADVfnF3Sy7hr8C) | 2:58 |
 | 36 | [S.K\. Blues, Pt .1](https://open.spotify.com/track/2f0iVZvrvRej0zkjBlgGU6) | [Joe Turner with Pete Johnson](https://open.spotify.com/artist/6ixUDdbleWgnxkEJrMDCiq) | [Savoy Chart Busters](https://open.spotify.com/album/1ya7hsBLid444IDo6kK2Fb) | 3:01 |
 | 37 | [I Can't Be Satisfied](https://open.spotify.com/track/0Q4qVBG7jAF3Ar4sheUidp) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Best Of Muddy Waters](https://open.spotify.com/album/6xU8hHhpGaDmFdOVEGRzpY) | 2:42 |
 | 38 | [Boogie Chillen](https://open.spotify.com/track/7mNFrf8IfgaWMFCz64CtK4) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [King Of The Boogie](https://open.spotify.com/album/397nqvmmvM4MhJwL3Opf9F) | 3:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbkKnGZHv1kf.md) - [plain]
 | 49 | [The Sky Is Crying](https://open.spotify.com/track/1cRTAPP2FG9h2WiYMOIVIK) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Shake Your Money Maker: The Best Of The Fire Sessions](https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu) | 2:46 |
 | 50 | [I'm A Man \- Single Version](https://open.spotify.com/track/0zN29YHQSZz1WbyA3DAOrq) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq) | [Electric Blues](https://open.spotify.com/album/7MtqlIFHBn8g0KhzMNASay) | 3:02 |
 
-Snapshot ID: `MTYzNTQ2NzYwMiwwMDAwMDAwMGY3MTI0NTdkMzIyYjY1ZmQ4NDE1ZWU4MzM5ZWMwYmFk`
+Snapshot ID: `MTYzNTQ2NzYwMiwwMDAwMDAwMGZhYTA0ZThmM2Y0NjRiNzYxZjE3Zjk2MzYzM2Q4Njkw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWoCDtOBjhpE.md) - [plain]
 
 > Listen to the most streamed female artists in the US this year!
 
-[Spotify](https://open.spotify.com/user/spotify) - 248 likes - 20 songs - 1 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 249 likes - 20 songs - 1 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,12 +21,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWoCDtOBjhpE.md) - [plain]
 | 11 | [I Got You](https://open.spotify.com/track/37CFvua9vJeP0lX0yR0U9U) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Perfect 10s Pop](https://open.spotify.com/album/0wFUCA7RjXMPRPjzFweN3Z) | 3:11 |
 | 12 | [NO](https://open.spotify.com/track/357gCNVJh27N31hwiFLNWz) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [NOW That's What I Call Music, Vol\. 59](https://open.spotify.com/album/7Dt2L4GbuzNlvCJ09M6McQ) | 3:30 |
 | 13 | [High By The Beach](https://open.spotify.com/track/7g3htkaLz4ETFn0cifwM3y) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Honeymoon](https://open.spotify.com/album/2DpEBrjCur1ythIZ10gJWw) | 4:17 |
-| 14 | [I Would Like](https://open.spotify.com/track/4Q4jmPHwu0wrJvqrld0FQ6) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [So Good](https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B) | 3:46 |
-| 15 | [Scars To Your Beautiful](https://open.spotify.com/track/0wI7QkCcs8FUQE1OkXUIqd) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Know\-It\-All](https://open.spotify.com/album/7HnbhIDKXIBhMR4EPGuMgu) | 3:50 |
+| 14 | [I Would Like](https://open.spotify.com/track/6V7qmP93Ebr2WGcTqZWnI0) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [So Good](https://open.spotify.com/album/21VqeIyh4YvwA1BUkZ48EV) | 3:46 |
+| 15 | [Scars To Your Beautiful](https://open.spotify.com/track/4WBqOCDRZBUxaZRR1eVFoE) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [傷心情歌](https://open.spotify.com/album/5cVZSXnHawZaLo3vZUHwMF) | 3:50 |
 | 16 | [Still Falling For You \- From "Bridget Jones's Baby"](https://open.spotify.com/track/3odrUVQ9tvRpkC9II2oWzx) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Still Falling For You \(From "Bridget Jones's Baby" Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6YIaqFvhOWma5gbjcB18Nu) | 4:00 |
 | 17 | [Body Say](https://open.spotify.com/track/7xrA11O07xo57Bbg6p4hck) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Body Say](https://open.spotify.com/album/7eh0AAzV329H8VmPnjlSXF) | 3:13 |
 | 18 | [Rise](https://open.spotify.com/track/1CwNogTShsnsn1C8UhRmYX) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Rise](https://open.spotify.com/album/7oqEOzrJhQkMHvHKEHEMrK) | 3:23 |
 | 19 | [Starving](https://open.spotify.com/track/4Ce37cRWvM1vIGGynKcs22) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F), [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl), [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) | [Starving](https://open.spotify.com/album/18pR217SWwBjODSRWFBw0I) | 3:01 |
 | 20 | [Gold](https://open.spotify.com/track/6ZSO7kPn8IMJFymyticbJO) | [Kiiara](https://open.spotify.com/artist/4u5smJBskI6Adzv08PuiUP) | [low kii savage](https://open.spotify.com/album/2EvTMiJyF3H4BoxNCL4HLh) | 3:45 |
 
-Snapshot ID: `MTQ5ODgxNTMxOSwwMDAwMDAwMGMzN2VmMTVlOWYxZjNmYzg5MmUxYWM1OWFlM2VjN2I2`
+Snapshot ID: `MTQ5ODgxNTMxOSwwMDAwMDAwMDBkYmNkOWY5Zjc3NjM2MzgyOWUzZWY0NWI1NTk3YTgy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcndo43KVGbN.md) - [plain]
 
 > The harmony between beautiful Ambient and tape manipulation.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,202 likes - 101 songs - 9 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,239 likes - 101 songs - 9 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcndo43KVGbN.md) - [plain]
 | 12 | [Rest](https://open.spotify.com/track/6lwzPFFTgVWJq4YM9Cf6Ek) | [half light](https://open.spotify.com/artist/77kksV1as6x1oKGfoyYKfK) | [Rest](https://open.spotify.com/album/0j1VtChCYo7clU8Yz4Iohq) | 6:05 |
 | 13 | [Emerging](https://open.spotify.com/track/7833wL428Kl5gD1Yatcwv6) | [Ian Hawgood](https://open.spotify.com/artist/74VB5tp2lrCzeaFg2WPRXC), [Wil Bolton](https://open.spotify.com/artist/63ANock0nMaF32m4e4U1Rt) | [Emerging](https://open.spotify.com/album/06okB10q356etzN1QWVWg7) | 7:18 |
 | 14 | [Cass](https://open.spotify.com/track/483UearCC3xUm09caTe015) | [The Arteries of New York City](https://open.spotify.com/artist/1WplPnixjEsV4JmRmBl72V), [The Last Dinosaur](https://open.spotify.com/artist/69sFt37arbuC0hGSFAoWqZ), [Alex Kozobolis](https://open.spotify.com/artist/6fsUe68biDsnK9f8G41rNO) | [Cass](https://open.spotify.com/album/5iVr8DyMUkcuofJcshS7Gi) | 3:28 |
-| 15 | [REEL 2 PHASE 2](https://open.spotify.com/track/3Q3j8OWxPaSWzbniWJIOx2) | [Lomond Campbell](https://open.spotify.com/artist/0dWs32CWUbYmMFC9TBKzAb) | [Lost Loops](https://open.spotify.com/album/1DqWdVDl28G2enTrlEe3XT) | 5:22 |
+| 15 | [REEL 2 PHASE 2](https://open.spotify.com/track/6HkBtaVosx5mlqoan6EzfI) | [Lomond Campbell](https://open.spotify.com/artist/0dWs32CWUbYmMFC9TBKzAb) | [Reel 2 Phase 2](https://open.spotify.com/album/2TXWhArYt903ZiAqHGkP7C) | 5:22 |
 | 16 | [Sun Glitter / River Glass](https://open.spotify.com/track/2u7JLi2RYhvDFMlUoXt74R) | [Scott Campbell](https://open.spotify.com/artist/1v8lVHhhUnYGz7XqdFpADa) | [Quiet Rituals](https://open.spotify.com/album/0IzYRilaDI4NrG3oM174w4) | 6:33 |
 | 17 | [An Ocean of Minutes \- Rework](https://open.spotify.com/track/6ycNmgngAzewx5PtdCP3yF) | [Yoyu](https://open.spotify.com/artist/3pfhqDnOYI7iPB0DvYbZFA), [Kilometre Club](https://open.spotify.com/artist/0gEyux9kfm4eISIsEtLu4w) | [An Ocean of Minutes \(Rework\)](https://open.spotify.com/album/63FBDQN8CM6YWbi1B21YN0) | 7:08 |
 | 18 | [Unfold](https://open.spotify.com/track/0CWgcsIKobst0UxCI0NFcM) | [half light](https://open.spotify.com/artist/77kksV1as6x1oKGfoyYKfK) | [Unfold](https://open.spotify.com/album/65Dqf1OZtF8MDOUy9CE2fJ) | 2:25 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcndo43KVGbN.md) - [plain]
 | 100 | [Kogarashi, Postcard Five](https://open.spotify.com/track/4joej1hfb433p1mgpNQFdd) | [Carlos Ferreira](https://open.spotify.com/artist/7J6KXAg6cV2B2BKGYZJhEB) | [Six Postcards & Other Stories](https://open.spotify.com/album/3Q4Mj2ui2oGXdZPMiylMY3) | 7:25 |
 | 101 | [Champagne Smoke](https://open.spotify.com/track/0gzwDzpe5eoD1lwJdTPeU4) | [Lisa Lerkenfeldt](https://open.spotify.com/artist/3famB97koyRfo502IWQjFL) | [Collagen](https://open.spotify.com/album/5DCzCJxAkCrd011i8CgZgx) | 4:28 |
 
-Snapshot ID: `MTY2NDg5NDY0OSwwMDAwMDAwMDYyODIzNDhhN2VjZjE2MGEwZDAwZmY0NjJkNGZmZjBi`
+Snapshot ID: `MTY2NDg5NDY0OSwwMDAwMDAwMDljYzBlYWExODE2MWFhMzEyMWNhMWU0OWYzMDdjYTE4`

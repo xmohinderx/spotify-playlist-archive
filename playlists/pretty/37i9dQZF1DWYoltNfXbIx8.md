@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoltNfXbIx8.md) - [plain]
 
 > Uma playlist só com as origens do Rap nacional\. Foto: MV Bill
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,112 likes - 70 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,205 likes - 70 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,11 +72,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoltNfXbIx8.md) - [plain]
 | 62 | [Agora a Casa Cai](https://open.spotify.com/track/77D3GyRZ2ddba9uJ50rQbX) | [Doctor MC's](https://open.spotify.com/artist/3Jj7NIBaqFSHmcsO33ilwh) | [Doctor MC's](https://open.spotify.com/album/18LMHVIJXOZSUwuZSDcnug) | 3:30 |
 | 63 | [Lei da Periferia](https://open.spotify.com/track/0CoYJSj7z3XiUqyIyxY0hO) | [Consciência Humana](https://open.spotify.com/artist/1nwuifu5rxgVlrGwjjoJOt) | [Entre a Adolescência e o Crime](https://open.spotify.com/album/6ndOfkbN2BiLUzE4x5tprw) | 7:21 |
 | 64 | [Verão na Vr](https://open.spotify.com/track/1zmrCI79qVk2BZJA6Skwdi) | [Sistema Negro](https://open.spotify.com/artist/0gTfX03fj7QzSbBTCRbpPI) | [Jogada Final](https://open.spotify.com/album/6l0hajkWQRFXLcdR5Pe455) | 6:33 |
-| 65 | [Viajando Na Balada](https://open.spotify.com/track/6crVEDmeU57DebYfJnr7Qq) | [Somos Nós A Justiça](https://open.spotify.com/artist/4hPSDG97FxGlqYvKPU6b1B) | [Se Tu Lutas Tu Conquistas](https://open.spotify.com/album/0VmL8hxCqd5PwaxybyPASP) | 5:11 |
+| 65 | [Viajando Na Balada](https://open.spotify.com/track/4X7gsZvBDfhQyMGyoP6SYb) | [Somos Nós A Justiça](https://open.spotify.com/artist/4hPSDG97FxGlqYvKPU6b1B) | [Rap \- Edição Especial](https://open.spotify.com/album/20OITeapzgrpqEY0tny63t) | 5:11 |
 | 66 | [Contexto](https://open.spotify.com/track/5eS43KfdjIfUWxAXpfXT8x) | [Planet Hemp](https://open.spotify.com/artist/3nasa4yabzvUeb6DzejDYU) | [A Invasão do Sagaz Homem Fumaça](https://open.spotify.com/album/0ElMwq6ONWreyOISGZKaTl) | 3:45 |
 | 67 | [Enxame](https://open.spotify.com/track/21HGlwk8A6uiTMdb74W4Jb) | [Sp Funk](https://open.spotify.com/artist/6gOXHHfszKFFvIaKUe2aTN), [RZO](https://open.spotify.com/artist/1CQJtHMGhqvrSZiRTjSeOU), [Sabotage](https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B) | [O Lado B do Hip Hop](https://open.spotify.com/album/1Dt0zURMcpStSTSsDFIOVP) | 6:31 |
 | 68 | [Se o Mundo Inteiro Pudesse Me Ouvir](https://open.spotify.com/track/4pEi1lS6zX3MSsMUH1BBwz) | [Filosofia de Rua](https://open.spotify.com/artist/7rwCXuDiu5DR1oLOmTBOLz), [Adriana Lessa](https://open.spotify.com/artist/0rYHFYy1sEUIRLg8vaoIim) | [Valeu a Experiência](https://open.spotify.com/album/5aQEUX7xQXEiBVRjyc5I8v) | 5:36 |
 | 69 | [Saudades Mil](https://open.spotify.com/track/1apGGQByi4X8wWlqdBnwvZ) | [509\-E](https://open.spotify.com/artist/1PA11Cy0SrjmwymvGS9h0C) | [Rap \- Edição Especial](https://open.spotify.com/album/05MN7GfN3uNl2iZv15DXPN) | 8:46 |
 | 70 | [O Clã da Vila](https://open.spotify.com/track/2U1bbnX6oxwdNedX32CL23) | [DBS Gordão Chefe](https://open.spotify.com/artist/5YXT5F24Ljk9YOXg32x93j), [BNegão](https://open.spotify.com/artist/3wYrCJWf6iI5vuUDOnZdUw), [Satiras](https://open.spotify.com/artist/7gDFnhMz0f2jqUeNVr9TdA), [HHC](https://open.spotify.com/artist/4zG1JgcEXdGXtMfPG935gr) | [O Clã da Vila](https://open.spotify.com/album/5mUsmcFBfu9exO4DGDuxPg) | 7:33 |
 
-Snapshot ID: `MTY0NTc1ODA2MCwwMDAwMDAwMDQ2NmZhM2EyNzc0ZjRhNmVkZTE3ODdiMjM0YzI4Y2Yz`
+Snapshot ID: `MTY0NTc1ODA2MCwwMDAwMDAwMDRiOWY1OTRlNTlmYTIyMTMxZDg4ZjViMzY5MDQ3M2Iy`

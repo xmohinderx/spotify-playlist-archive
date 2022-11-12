@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6C8II7sX76D.md) - [plain]
 
 > pov: u hand the internet the aux
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,670 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,903 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6C8II7sX76D.md) - [plain]
 | 29 | [Lose Control](https://open.spotify.com/track/7CHi4DtfK4heMlQaudCuHK) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Lose Control](https://open.spotify.com/album/1qSOaTvsCOyFJya3v1UzkP) | 2:48 |
 | 30 | [Breaking Me](https://open.spotify.com/track/3H7ihDc1dqLriiWXwsc2po) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Breaking Me](https://open.spotify.com/album/3nBQlhUvErkw8DVpF47WAn) | 2:46 |
 | 31 | [all I want is you](https://open.spotify.com/track/7lOvJBqH38ZY59eLU7bioq) | [Rebzyyx](https://open.spotify.com/artist/7GcVOOrldYLwxGrCkELOno), [hoshie star](https://open.spotify.com/artist/0LWHFUzXPTl9BDdJHDE001) | [all I want is you](https://open.spotify.com/album/4aGM4L8ks2bc51kAKcVA9V) | 2:31 |
-| 32 | [Levitating \(feat\. DaBaby\)](https://open.spotify.com/track/463CkQjx2Zk1yXoBuierM9) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Levitating \(feat\. DaBaby\)](https://open.spotify.com/album/04m06KhJUuwe1Q487puIud) | 3:23 |
-| 33 | [Dark Beach](https://open.spotify.com/track/5QmdK8QFbY8TLVKPuJzexD) | [Pastel Ghost](https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W) | [Abyss](https://open.spotify.com/album/0RItfbXPf5eDzwdsgK9rKV) | 3:42 |
+| 32 | [Dark Beach](https://open.spotify.com/track/5QmdK8QFbY8TLVKPuJzexD) | [Pastel Ghost](https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W) | [Abyss](https://open.spotify.com/album/0RItfbXPf5eDzwdsgK9rKV) | 3:42 |
+| 33 | [Levitating \(feat\. DaBaby\)](https://open.spotify.com/track/463CkQjx2Zk1yXoBuierM9) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Levitating \(feat\. DaBaby\)](https://open.spotify.com/album/04m06KhJUuwe1Q487puIud) | 3:23 |
 | 34 | [Love Tonight \- Edit](https://open.spotify.com/track/6OufwUcCqo81guU2jAlDVP) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB) | [Love Tonight](https://open.spotify.com/album/5KXv2MHeoLSqZ96jRuFF9H) | 4:01 |
 | 35 | [ily \(i love you baby\) \(feat\. Emilee\)](https://open.spotify.com/track/62aP9fBQKYKxi7PDXwcUAS) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Emilee](https://open.spotify.com/artist/4ArPQ1Opcksbbf3CPwEjWE) | [ily \(i love you baby\) \(feat\. Emilee\)](https://open.spotify.com/album/4MHHajvRTUHItDsvfdIC8B) | 2:56 |
 | 36 | [BABYDOLL \(Speed\)](https://open.spotify.com/track/5K3SJuYEkvvrLbzOjPyRi1) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [BABYDOLL \(Speed\)](https://open.spotify.com/album/0qMwROWsV0fT5hBqkH1per) | 2:36 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6C8II7sX76D.md) - [plain]
 | 45 | [Where Have You Been](https://open.spotify.com/track/5WQQIDU3HRaMyPkob8mpFb) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Talk That Talk](https://open.spotify.com/album/2g1EakEaW7fPTZC6vBmBCn) | 4:02 |
 | 46 | [Dead To Me \- Slow + Reverb](https://open.spotify.com/track/7xnElMPFCmSlMJ0AY2hnxc) | [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR), [Fraxo](https://open.spotify.com/artist/2lMv8dtufbOPrrf5CPS7tS), [Lox Chatterbox](https://open.spotify.com/artist/3SFVIUlipGj3RpWCKe9s73) | [Dead To Me Slow + Reverb](https://open.spotify.com/album/13juqGwSBOnrdF9GjZO835) | 4:27 |
 | 47 | [Marea \(we’ve lost dancing\)](https://open.spotify.com/track/1t0Jmqg1pKVBbxjQFZebeR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [Marea \(we’ve lost dancing\)](https://open.spotify.com/album/3AAwKutHRWyftJ2GrFdPX9) | 4:45 |
-| 48 | [Latch](https://open.spotify.com/track/1DunhgeZSEgWiIYbHqXl0c) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Settle \(Deluxe\)](https://open.spotify.com/album/1lM5IfaqcIsXd6UCV3aDSs) | 4:15 |
-| 49 | [Let Go](https://open.spotify.com/track/3kdlVcMVsSkbsUy8eQcBjI) | [Ark Patrol](https://open.spotify.com/artist/3zaxUd86U92CdZkNa6NUo9), [Veronika Redd](https://open.spotify.com/artist/6kuFWCCvd7bWB1PV0tJMN2) | [Let Go](https://open.spotify.com/album/1MGkdnByMIGI1ZXcAf4Wze) | 4:08 |
-| 50 | [Bulletproof](https://open.spotify.com/track/0SyxZC4wlqAwf20cHE6Xon) | [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA), [GAMPER & DADONI](https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J) | [Bulletproof](https://open.spotify.com/album/5TSSlGJmfkBNC4M3uoMswL) | 2:42 |
+| 48 | [Let Go](https://open.spotify.com/track/3kdlVcMVsSkbsUy8eQcBjI) | [Ark Patrol](https://open.spotify.com/artist/3zaxUd86U92CdZkNa6NUo9), [Veronika Redd](https://open.spotify.com/artist/6kuFWCCvd7bWB1PV0tJMN2) | [Let Go](https://open.spotify.com/album/1MGkdnByMIGI1ZXcAf4Wze) | 4:08 |
+| 49 | [Bulletproof](https://open.spotify.com/track/0SyxZC4wlqAwf20cHE6Xon) | [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA), [GAMPER & DADONI](https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J) | [Bulletproof](https://open.spotify.com/album/5TSSlGJmfkBNC4M3uoMswL) | 2:42 |
+| 50 | [Down Under \(feat\. Colin Hay\)](https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Colin Hay](https://open.spotify.com/artist/5mxB08ktCukEhGMg2YZeEv) | [Down Under \(feat\. Colin Hay\)](https://open.spotify.com/album/64xmSwJJbFQMf63AFYZXpW) | 2:38 |
 
-Snapshot ID: `MTY2Njk1MTEyMywwMDAwMDAwMDYwYzJkMjA1ODA4ODUyNTI1OWZmMmY5YWVkM2Q4MDk4`
+Snapshot ID: `MTY2Njk1MTEyMywwMDAwMDAwMDg5ZDA2MDg2NzZhNDljMzMxNmQ2MmRlYzYxMDg2ODc2`

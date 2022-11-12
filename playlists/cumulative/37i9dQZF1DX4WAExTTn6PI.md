@@ -4,7 +4,7 @@
 
 > Americana's artists and hits of tomorrow\. Cover: <b>Margo Cilker</b>
 
-122 songs - 7 hr 25 min - [published](https://open.spotify.com/playlist/3WdmenyKB3dQaj0flMEbZm)
+124 songs - 7 hr 34 min - [published](https://open.spotify.com/playlist/3WdmenyKB3dQaj0flMEbZm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Broken Families](https://open.spotify.com/track/2WB5G1nEq09QJoNDL9ShrR) | [Lola Kirke](https://open.spotify.com/artist/1g5bYOQ7ZHGbn0tuUHxSgE) | [Broken Families](https://open.spotify.com/album/1dljQ7Haw2glHe01n1cV93) | 3:17 | 2022-02-25 |  |
 | [Chewing on Fire](https://open.spotify.com/track/7rm6fiURucekbrUD8FAv0C) | [Drayton Farley](https://open.spotify.com/artist/05o2ENqv0CV8aD6BWKEaBD) | [Chewing on Fire](https://open.spotify.com/album/6FcBsDf1ak4GlyADejPDgL) | 3:15 | 2022-01-28 |  |
 | [Country Blues](https://open.spotify.com/track/5ScqgAxMZQSB2ubp9OOAD2) | [JP Harris](https://open.spotify.com/artist/3k5DJmsoipvzJqpjfQFvDy) | [Don't You Marry No Railroad Man](https://open.spotify.com/album/4U4lTsGEiX6lnIwYug9Aep) | 3:20 | 2022-01-28 |  |
+| [cowboy take me away](https://open.spotify.com/track/46Qrlkk74beV2EUTmGKLRg) | [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3) | [if i ever get there: a day at blackbird studio](https://open.spotify.com/album/4N6uVFBQiz6x4UqRmClANc) | 4:36 | 2022-11-11 |  |
 | [Dallas](https://open.spotify.com/track/4p3pm3QpJDPnqrCgWS2XPZ) | [Amanda Anne Platt & the Honeycutters](https://open.spotify.com/artist/1mpvGlHo80X6W8RX8vIQmL) | [Dallas / Reverie](https://open.spotify.com/album/79g9mgaxvBBH2352pThhaB) | 4:01 | 2022-01-28 |  |
 | [Dance Floor](https://open.spotify.com/track/5ZxAGed5sWi1aBbtItv0m8) | [Kirby Brown](https://open.spotify.com/artist/1pe81cUBCGxM11cnOq17kr) | [Dance Floor](https://open.spotify.com/album/6fOXmTIUuUngNNuHDEPfzG) | 3:55 | 2022-01-28 |  |
 | [Eden and Her Borderlands](https://open.spotify.com/track/4bkQi6kVXsm2tbIJruVfDz) | [Anya Hinkle](https://open.spotify.com/artist/6g2FWv22yEWMqEiaEv5CNc) | [Eden and Her Borderlands](https://open.spotify.com/album/0HDAngkED519CKHJGdjTCR) | 5:17 | 2022-01-28 |  |
@@ -121,7 +122,8 @@
 | [That River](https://open.spotify.com/track/7fre8zstP7XaI5VkmRu8I4) | [Margo Cilker](https://open.spotify.com/artist/5E9q1sbVJ2MCiI8MMdPvj7) | [Pohorylle](https://open.spotify.com/album/5fqxOeUUV2uv4cJ1VltThR) | 3:09 | 2022-01-28 |  |
 | [The Storm](https://open.spotify.com/track/4bUtK3pb9bSQ4b3PkDpACx) | [Dori Freeman](https://open.spotify.com/artist/4GCMwhffO4BBQZp2eoOapt) | [Ten Thousand Roses](https://open.spotify.com/album/1IR5XtRzYQd7U2WFXkZc45) | 3:07 | 2022-01-28 |  |
 | [The World: Alone](https://open.spotify.com/track/22rvKfTgeIZdDLvMJH0F5y) | [Sam Williams](https://open.spotify.com/artist/4cwkbiVtJw6GUOka2ZFZqz) | [The World: Alone](https://open.spotify.com/album/4azLnHgYxxuwuHoq64URiR) | 3:47 | 2022-01-28 | 2022-07-29 |
-| [The World: Alone](https://open.spotify.com/track/0Dm78oyjOyOMkWyKhbbkEP) | [Sam Williams](https://open.spotify.com/artist/4cwkbiVtJw6GUOka2ZFZqz) | [Glasshouse Children](https://open.spotify.com/album/7GfFUxRWaHA2Adj0M8N1kl) | 3:50 | 2022-01-28 |  |
+| [The World: Alone](https://open.spotify.com/track/0Dm78oyjOyOMkWyKhbbkEP) | [Sam Williams](https://open.spotify.com/artist/4cwkbiVtJw6GUOka2ZFZqz) | [Glasshouse Children](https://open.spotify.com/album/7GfFUxRWaHA2Adj0M8N1kl) | 3:50 | 2022-01-28 | 2022-11-12 |
+| [The World: Alone](https://open.spotify.com/track/5ItmN0D2K2Db0C71TSmG2H) | [Sam Williams](https://open.spotify.com/artist/4cwkbiVtJw6GUOka2ZFZqz) | [Glasshouse Children: Tilted Crown](https://open.spotify.com/album/4dtznENq1I2Km4Vn2V7DSV) | 3:50 | 2022-10-14 |  |
 | [This Town \(feat\. Shakey Graves\)](https://open.spotify.com/track/2xUcsMzJrII3LhmcxNHIWJ) | [Trixie Mattel](https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc), [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH) | [This Town \(feat\. Shakey Graves\)](https://open.spotify.com/album/0BltgOKIwXpxKJpYjcdHNU) | 2:48 | 2022-01-28 |  |
 | [Tonight](https://open.spotify.com/track/584iamLesWpkNiRfmzKHQE) | [Duquette Johnston](https://open.spotify.com/artist/3jTURi0lXFxmg9f1cd5owQ) | [Tonight](https://open.spotify.com/album/2uVbxTH1y32WDH6dU1jPGl) | 3:32 | 2022-02-10 |  |
 | [Too Late to Write a Love Song](https://open.spotify.com/track/1R9i1h5FaYiGvD7sb99Wm2) | [Riddy Arman](https://open.spotify.com/artist/0h1dIjLACuc4yDLePjLT42) | [Too Late to Write a Love Song](https://open.spotify.com/album/3AjkLHPV9FObFpPpzeSnw0) | 3:14 | 2022-01-28 |  |

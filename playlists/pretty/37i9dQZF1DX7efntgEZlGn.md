@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7efntgEZlGn.md) - [plain]
 
 > Fresh Gospel tracks to make you move and bop your head in Praise
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,308 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,314 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Cheza Gospel](https://open.spotify.com/track/23QRgJ0c7GmQens8wuX9N3) | [Moji Shortbabaa](https://open.spotify.com/artist/75LES04hIh8qYY8Oqdp7rn) | [Cheza Gospel](https://open.spotify.com/album/2VH1TToc1g3wnCzl3cGIM7) | 3:34 |
 | 2 | [Trust Him](https://open.spotify.com/track/5iT7KTkPuHJI6P3PfS5L0G) | [Nahash Mwathi](https://open.spotify.com/artist/76hAkhGlb3BipUcUL4thD1) | [Trust Him](https://open.spotify.com/album/4TF0VK6inwxETbYP3g9nMP) | 3:20 |
-| 3 | [Ipo Siku Remix](https://open.spotify.com/track/70MBx9XPb9qib4iXbezNnl) | [Ringtone](https://open.spotify.com/artist/2O0K1UvQgheBpotSCzRPlB), [Goodluck Gozbert](https://open.spotify.com/artist/4B9O301rvLS2j8hIwzGzHA) | [Ipo Siku Remix](https://open.spotify.com/album/5xXmXsgHB2Aj7s0SN1Fg9l) | 4:13 |
+| 3 | [Ipo Siku Remix](https://open.spotify.com/track/0HBD0KvuD49oRoBmqMNxu9) | [Ringtone](https://open.spotify.com/artist/2O0K1UvQgheBpotSCzRPlB), [Goodluck Gozbert](https://open.spotify.com/artist/4B9O301rvLS2j8hIwzGzHA) | [Ipo Siku Remix](https://open.spotify.com/album/0fUXgCbVaU1Qysy6B6nH9C) | 4:13 |
 | 4 | [Zungusha](https://open.spotify.com/track/2IzGYWr08ntzKVeQ1fTvue) | [Jabidii](https://open.spotify.com/artist/67NSWMQJx1JvJ6su9fACTU) | [Zungusha](https://open.spotify.com/album/09i9zQr2d7m5rxiXCgtAKp) | 2:36 |
 | 5 | [Donjo](https://open.spotify.com/track/7s61PhYsflmINKwYsQfPpI) | [Daddy Owen](https://open.spotify.com/artist/0C0jx86ffVZNW144tEpETy) | [Chapter IV](https://open.spotify.com/album/58JBueyer8tCatNlJ1f3OM) | 3:18 |
 | 6 | [Can't Style Me](https://open.spotify.com/track/5aPAFKyR7ydaaR9B1Mdbzg) | [Bura](https://open.spotify.com/artist/368JQ3ZxIJ55JQaKaGdh8k) | [Can't Style Me](https://open.spotify.com/album/4BD9pAseOoO6vjBlSYWzqx) | 4:00 |
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7efntgEZlGn.md) - [plain]
 | 22 | [I Believe](https://open.spotify.com/track/6aDDgd5crYJ0OQPdq3TUmQ) | [Angel Benard](https://open.spotify.com/artist/7lfpPXqQTNddUIYXLDVbbD) | [I Believe](https://open.spotify.com/album/3omHcm5ucQJ26WUjdoF9DA) | 4:07 |
 | 23 | [Manweri](https://open.spotify.com/track/0Sv9WTeghj3jZZDdYmrEzQ) | [Coopy Bly](https://open.spotify.com/artist/0t6esBNJscmL7K5PIDwA6Y) | [Manweri](https://open.spotify.com/album/1dKIFmNNW3k1MSnya4E9Jb) | 4:17 |
 | 24 | [New Song](https://open.spotify.com/track/6GCPnmXPqNap4pXckghuZF) | [Ben Cyco](https://open.spotify.com/artist/357UDX6McIJEWiI0ttqWug) | [New Song](https://open.spotify.com/album/4MQwDxDIAqaZ6WwJMUnEPb) | 3:35 |
-| 25 | [Huru](https://open.spotify.com/track/5zFw2qypqYA2rZfeoR7YbD) | [Jay General](https://open.spotify.com/artist/7dNS5Gtohaw7dCBdeX5oud) | [Huru](https://open.spotify.com/album/6Pe7sUSnckGI6edYYYQXPi) | 3:06 |
+| 25 | [Huru](https://open.spotify.com/track/0MKqUGeZLxjJeNlMQqMTBz) | [Jay General](https://open.spotify.com/artist/7dNS5Gtohaw7dCBdeX5oud) | [Huru](https://open.spotify.com/album/12mhhGL28768lIEYqcnQvk) | 3:06 |
 | 26 | [Rada Safi](https://open.spotify.com/track/6w4RIy7cpJCY52DSfTeFdB) | [Garvey Royal](https://open.spotify.com/artist/16Kak1UGaE15pDnmAhdH2N), [Timeless Noel](https://open.spotify.com/artist/5NdCpoI2mGRLFZEuR3oxKE) | [Dancehall Royalty](https://open.spotify.com/album/2y8wX65LAWt7pZefN4lyRr) | 3:05 |
 | 27 | [Kingdom Choir](https://open.spotify.com/track/1sFfVH2LOKkI0f2s6pV4dh) | [Jfam](https://open.spotify.com/artist/7IzrPz6N96D0Hu8QsnfAya), [Moodkai](https://open.spotify.com/artist/5fDrroPhERu1w9tkKVbG2d), [Davy Noty](https://open.spotify.com/artist/0Evb0Rducxsch65j5KJ1Iv), [Dj Ruff](https://open.spotify.com/artist/3dqEUMduRYEmtMa8IoOStr) | [Kingdom Choir](https://open.spotify.com/album/5lKTag6OC0bAxAqPIHOMnt) | 3:32 |
 | 28 | [Possible](https://open.spotify.com/track/1xjHrr88CIn17q7gaSpV2I) | [Samukat](https://open.spotify.com/artist/2NhNt3TWmy8G557wEPTxBQ) | [Afro Soca Riddim](https://open.spotify.com/album/1S7lkoGGLrZv5j0HEPqA1J) | 3:40 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7efntgEZlGn.md) - [plain]
 | 44 | [Praise God Lalala](https://open.spotify.com/track/4OIHpTzlgweG0KAtHrGAWi) | [Jfam](https://open.spotify.com/artist/7IzrPz6N96D0Hu8QsnfAya), [Dj Ruff](https://open.spotify.com/artist/3dqEUMduRYEmtMa8IoOStr), [Danny Gift](https://open.spotify.com/artist/7f9xkFaeoq9PAsyzVwqXAK) | [Praise God Lalala](https://open.spotify.com/album/3is3xI92tpOefQmnmmITrv) | 3:04 |
 | 45 | [Wanitazama](https://open.spotify.com/track/33LoZtHwsnaJsCTu9TAIep) | [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI) | [Thamani](https://open.spotify.com/album/5TdcUkGkE9Z4ZMiKJscBdF) | 4:13 |
 | 46 | [Halellujah](https://open.spotify.com/track/5sEKcXRZ3vGZmIoMKa931I) | [Stivo simple boy](https://open.spotify.com/artist/6xB2biiMZCEImA2wB1qm5s), [Made in Kibera](https://open.spotify.com/artist/1az6RcKSE89nahPJFRImGB) | [Halellujah](https://open.spotify.com/album/7IaUFhIEkUBCgQ0dwsPgTo) | 3:04 |
-| 47 | [Backslide](https://open.spotify.com/track/6XGUIaVkvoyc5An6h0uotV) | [Ringtone](https://open.spotify.com/artist/2O0K1UvQgheBpotSCzRPlB), [Martha Mwaipaja](https://open.spotify.com/artist/6sucU5GTxpXKQs1hNTrLDF) | [Backslide](https://open.spotify.com/album/1SfBM3PER9TurMOWK7GC0S) | 3:53 |
+| 47 | [Backslide](https://open.spotify.com/track/53HY4MHnRRh3hOLZQ1yE4c) | [Ringtone](https://open.spotify.com/artist/2O0K1UvQgheBpotSCzRPlB), [Martha Mwaipaja](https://open.spotify.com/artist/6sucU5GTxpXKQs1hNTrLDF) | [Backslide](https://open.spotify.com/album/57scRjZ0ZDIsTcd7jQ3n4q) | 3:53 |
 | 48 | [Adoration](https://open.spotify.com/track/0quCpzMnchCoa6QoQBuCXc) | [Dafari](https://open.spotify.com/artist/30Hds5akpJ0ZpGCLz8pB6x) | [Preacher Bwoy](https://open.spotify.com/album/6oKaA1feSLrZFXRqqxhthu) | 3:57 |
 | 49 | [Enjoy \(Yo Blessings\)](https://open.spotify.com/track/4y9lTRxtVT0OZgzpGRbRqT) | [Levixone](https://open.spotify.com/artist/25rO4hD9VXGMFFfK7zI5lW) | [Enjoy \(Yo Blessings\)](https://open.spotify.com/album/24SeTWvJHoEFzO7zcxKOzy) | 3:15 |
 | 50 | [Ulimi wangu](https://open.spotify.com/track/67J85D0hnKBI12SKKPTLi5) | [Timam Evans](https://open.spotify.com/artist/3Pl2sjphziaizyq0JUBzVO) | [Ulimi wangu](https://open.spotify.com/album/4ehQVrrB1CKU7lE0ZIFG5A) | 3:39 |
 
-Snapshot ID: `MTY2Njk0MDExOCwwMDAwMDAwMDExNDI1MzA4MjhlMWY1ZjFmYTlmNDhkOGMxMGExYTU5`
+Snapshot ID: `MTY2Njk0MDExOCwwMDAwMDAwMGYwOWM3MzU3YjhiZjY1OWJmYjQzZjZmM2I3MDRkYjU3`

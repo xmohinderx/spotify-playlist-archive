@@ -4,7 +4,7 @@
 
 > Drawing from R&B, indie, pop, and more, the electropop act’s singer Olly Alexander shines a light on LGBTQIA+ artists that inspire.
 
-44 songs - 2 hr 26 min - [published](https://open.spotify.com/playlist/5wAeuR8WQRbZzkCM3Rieuk)
+45 songs - 2 hr 29 min - [published](https://open.spotify.com/playlist/5wAeuR8WQRbZzkCM3Rieuk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [What's It Gonna Be?](https://open.spotify.com/track/4ZjYUSlmFOsOKIWKNXBHQH) | [Shura](https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT) | [What's It Gonna Be?](https://open.spotify.com/album/771Cr5TW5QHCCwiuFKjoPR) | 3:34 | 2017-05-31 | 2022-07-29 |
 | [What's It Gonna Be?](https://open.spotify.com/track/4bskZzAD2YTugwvCQb9KEZ) | [Shura](https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT) | [Pride UK](https://open.spotify.com/album/4RcJhq7CQaakxovDwDEa4c) | 3:34 | 2022-11-11 |  |
 | [WILD](https://open.spotify.com/track/2HWWsTZxnLSUdFZ4gjsP5N) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Blue Neighbourhood \(Deluxe\)](https://open.spotify.com/album/5ouTDazE4LF9bVJPx1nlgW) | 3:47 | 2017-05-31 |  |
-| [Worship](https://open.spotify.com/track/4LSaXsi2dyhdKGF6wPsHst) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Communion \(Deluxe\)](https://open.spotify.com/album/09mWpzpUOSjjvK2iNqEIYn) | 3:41 | 2022-07-29 |  |
+| [Worship](https://open.spotify.com/track/1txEdeRJzbUQQMlTpSODtD) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Electropop Hits](https://open.spotify.com/album/4ZWW2IRnYtfazzqrELSr0h) | 3:41 | 2022-11-12 |  |
+| [Worship](https://open.spotify.com/track/4LSaXsi2dyhdKGF6wPsHst) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Communion \(Deluxe\)](https://open.spotify.com/album/09mWpzpUOSjjvK2iNqEIYn) | 3:41 | 2022-07-29 | 2022-11-12 |
 | [Worship](https://open.spotify.com/track/7nwsQTgzQ8p5WqiOOAwkSH) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Communion \(Deluxe\)](https://open.spotify.com/album/50jDQcZjE2kdx5rn3AL0c8) | 3:41 | 2017-05-31 | 2022-07-29 |
 | [Wut](https://open.spotify.com/track/1LZcxhK4BQsFR3kT8hnWmN) | [Kalifa](https://open.spotify.com/artist/0e53LR6d2xTKZz9om9ZGyO) | [Hey](https://open.spotify.com/album/3PbX3SwyXvr3f1htBBcmP0) | 2:47 | 2022-07-29 |  |
 | [Wut](https://open.spotify.com/track/31WIkt099num18R8nsQhZv) | [Kalifa](https://open.spotify.com/artist/0e53LR6d2xTKZz9om9ZGyO) | [Hey](https://open.spotify.com/album/1v8Py9AQuLOfJTzKsTtHy8) | 2:47 | 2017-05-31 | 2022-07-29 |

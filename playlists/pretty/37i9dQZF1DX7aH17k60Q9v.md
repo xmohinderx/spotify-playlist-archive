@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7aH17k60Q9v.md) - [plain]
 
 > Canciones para acompañar la garnacha que apapacha.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,639 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,760 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Me La Avente](https://open.spotify.com/track/3ahvKiNH7l6EpnTnzkZpG1) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [El Malo](https://open.spotify.com/album/4fvBzXczcpD346IFgtWnaI) | 2:35 |
+| 1 | [Me La Avente](https://open.spotify.com/track/16TbKoGzX5erRUW3L5J0kI) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Me La Avente](https://open.spotify.com/album/2FkDOCRhHBmmuRvVdUlRLh) | 2:35 |
 | 2 | [El Final De Nuestra Historia](https://open.spotify.com/track/0t3bKmsTEFHkvMZUARniZk) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Heartbreak Banda](https://open.spotify.com/album/7beMOBvHM8ARVKAZLMOFml) | 3:17 |
 | 3 | [Si Te Pudiera Mentir](https://open.spotify.com/track/3p6eieHX6oEOzJStPtEsLu) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Simplemente Gracias](https://open.spotify.com/album/6s3BOoMKnK60Blq4hIh2cq) | 4:15 |
 | 4 | [Solo Un Dia \(Ahora Te Amo\)](https://open.spotify.com/track/51RcAoNIqe0G3284yxT8G0) | [Adan Romero](https://open.spotify.com/artist/1gkGKzeXQYnVPI76yDlOqz) | [Solo Un Dia…](https://open.spotify.com/album/6CpCo3owrPMEiQjREEFuk0) | 3:23 |
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7aH17k60Q9v.md) - [plain]
 | 33 | [A La Antigüita](https://open.spotify.com/track/798ahLNEcoFER7Vywg1FMT) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Vamos Bien](https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ) | 2:36 |
 | 34 | [Paz en Este Amor](https://open.spotify.com/track/16Im2QhKFPsK4mKOtcQ002) | [Fidel Rueda](https://open.spotify.com/artist/1lQO7ePBTp5yOfVK9hicoJ) | [Paz en Este Amor](https://open.spotify.com/album/4ink40ehZLl2rWbpy5V3FO) | 3:23 |
 | 35 | [Ya Te Perdí La Fe](https://open.spotify.com/track/0KHDthR0XvPoeJaqBc7Sg5) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Ojos En Blanco](https://open.spotify.com/album/6KfwGFnaelkfX5KDET17Bb) | 2:27 |
-| 36 | [No Me Conoces Aún](https://open.spotify.com/track/27OazZsnF6N1Hp75pCmBNI) | [Palomo](https://open.spotify.com/artist/27plYDXNJSOD084j39Lmlj) | [Serie Diamante\- 15 Súper Éxitos](https://open.spotify.com/album/1zMXzVHd4GCImZciz4Qf1n) | 3:44 |
+| 36 | [No Me Conoces Aún](https://open.spotify.com/track/3EDrB9gVZKLx7z7Pu32Kmz) | [Palomo](https://open.spotify.com/artist/27plYDXNJSOD084j39Lmlj) | [GRUPERAS QUE TE ENAMORAN EL CORAZÓN](https://open.spotify.com/album/3W4VGBM6h6qDln3BbP0kFw) | 3:44 |
 | 37 | [Música Romántica](https://open.spotify.com/track/0gOwkN1piWLMINfj97SogV) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Música Romántica](https://open.spotify.com/album/5B6pvL3W5WyqxiZ8k70y8U) | 3:52 |
 | 38 | [Eres Mi Droga](https://open.spotify.com/track/3t4BZRyfrZGgICZGyNewyi) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [IV](https://open.spotify.com/album/43UFBkcvSy10IIqsGIJzUw) | 3:27 |
 | 39 | [Mi Cómplice](https://open.spotify.com/track/1GOvdGVrasTEG5JfDs8V5f) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Compraron Una Cantina](https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk) | 3:09 |
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7aH17k60Q9v.md) - [plain]
 | 53 | [Feliz Feliz](https://open.spotify.com/track/2nSbVFNo6FdvZ7ZCuZytYH) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Puro Fuego \- Quebraditas](https://open.spotify.com/album/7ET9TEPdwGtMF9PYroaJ8I) | 3:37 |
 | 54 | [Mujer De Piedra](https://open.spotify.com/track/4US4uNDUynAor7UMaQHaxv) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Archivos de Mi Vida](https://open.spotify.com/album/3XPV75rmAKWAeVJtXuERzz) | 2:53 |
 | 55 | [El Amor No Fue Pa´ Mí \- En Vivo](https://open.spotify.com/track/3dkEwOKhFselY2m22Nj2vi) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Banda Coloso](https://open.spotify.com/artist/4SmIb5onxiijhyC8BilFED) | [El Amor No Fue Pa´ Mí \(En Vivo\)](https://open.spotify.com/album/2GmxvaOlvl9OSOW3FnVcbX) | 3:46 |
-| 56 | [Ramito De Violetas](https://open.spotify.com/track/6sRaqq9SYsSTPvrWkL1sRy) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Mi Mexico Querido](https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1) | 3:32 |
+| 56 | [Ramito De Violetas](https://open.spotify.com/track/2IT6VVdTU4PT8hT4GTA6eg) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Primavera Bailando Quebraditas](https://open.spotify.com/album/7mygVUwyrmGlBekBsqxDCj) | 3:32 |
 | 57 | [La Buena y la Mala](https://open.spotify.com/track/4y0n8xKuEKE0J2sThzswhg) | [Banda Tierra Sagrada](https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT) | [De Lo Bueno, Lo Mejor](https://open.spotify.com/album/6fg7ANywTbldJWzw8y1p4F) | 3:24 |
 | 58 | [Nieves De Enero](https://open.spotify.com/track/3fNK9wZMHV7CLG1z3rueBO) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Los Amables Del Norte](https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K) | [Nieves de Enero](https://open.spotify.com/album/69CnGWLFrxlYAl5ku4q5XV) | 3:33 |
 | 59 | [A Través Del Vaso](https://open.spotify.com/track/5eY547Fxr6QKiqBkUrx0sC) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [A Través Del Vaso](https://open.spotify.com/album/5fb92VTFSonh6s4IDFqILN) | 3:02 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7aH17k60Q9v.md) - [plain]
 | 74 | [Recuerda](https://open.spotify.com/track/2BaBwcllqDMkoD9184xOxP) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Flores](https://open.spotify.com/album/1JWDyNqyEL0FQBaM1jc6KO) | 2:30 |
 | 75 | [La Casita](https://open.spotify.com/track/0vtYnEw1eJwW26BrBnOAYJ) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [El Trabajo Es La Suerte](https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk) | 3:37 |
 
-Snapshot ID: `MTY0NjY5NjUzMSwwMDAwMDAwMGFhMjM4YzM4ZGRlZmQ4MDIwZGQzZTBlM2U4MDJlNjVl`
+Snapshot ID: `MTY0NjY5NjUzMSwwMDAwMDAwMDJiYWE3MzQzZGYwMTg1YjA2YWU5NWE2NDc5ZGFiY2Jk`

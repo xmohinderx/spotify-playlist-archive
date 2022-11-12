@@ -242,6 +242,24 @@
     },
     {
       "album": {
+        "name": "Indie Covers",
+        "url": "https://open.spotify.com/album/5eHZZDVSgFtZdjXkwW8sdQ"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199386,
+      "name": "Addicted To Love",
+      "url": "https://open.spotify.com/track/24ZpgHPAL3N8036KDgjfBx"
+    },
+    {
+      "album": {
         "name": "Lungs (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
       },
@@ -1321,7 +1339,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 173174,
       "name": "Can't Help Falling in Love",
       "url": "https://open.spotify.com/track/6yIHGmQLJxWAUZ1ZkENemN"
@@ -2133,7 +2151,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 211306,
       "name": "Creep",
       "url": "https://open.spotify.com/track/32SkNdTcuxvUGjtv0ObOgu"
@@ -2227,6 +2245,24 @@
       "duration_ms": 294498,
       "name": "Dakota",
       "url": "https://open.spotify.com/track/6zUVhz0qHuwtZETMf7vgUT"
+    },
+    {
+      "album": {
+        "name": "Barton Hollow",
+        "url": "https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E"
+      },
+      "artists": [
+        {
+          "name": "The Civil Wars",
+          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185053,
+      "name": "Dance Me to the End of Love (Bonus)",
+      "url": "https://open.spotify.com/track/6WoJzSRQeROe5MNpf7cPDu"
     },
     {
       "album": {
@@ -4215,6 +4251,28 @@
       "duration_ms": 230225,
       "name": "Hello",
       "url": "https://open.spotify.com/track/5mCLi8QdP2d9EoSIEoO8jX"
+    },
+    {
+      "album": {
+        "name": "Other People's Songs Volume One",
+        "url": "https://open.spotify.com/album/6sedkUKN10b6Md5CyGI9On"
+      },
+      "artists": [
+        {
+          "name": "Damien Jurado",
+          "url": "https://open.spotify.com/artist/79JJCxCCfJ8HufX6w8q2k4"
+        },
+        {
+          "name": "Richard Swift",
+          "url": "https://open.spotify.com/artist/7fSjnDr8tBO37Xbb2UXuYr"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184693,
+      "name": "Hello Sunshine",
+      "url": "https://open.spotify.com/track/5T9LtP6vTj0vGBRHwmWheX"
     },
     {
       "album": {
@@ -6877,10 +6935,28 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 212040,
       "name": "Make You Feel My Love",
       "url": "https://open.spotify.com/track/5FgPwJ7Nh2FVmIXviKl2VF"
+    },
+    {
+      "album": {
+        "name": "Make You Feel My Love",
+        "url": "https://open.spotify.com/album/4K1tS9SCKWJX4NQCcMUcUx"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212040,
+      "name": "Make You Feel My Love",
+      "url": "https://open.spotify.com/track/6otXN6h5J6e49Lvse5yCwD"
     },
     {
       "album": {
@@ -6935,6 +7011,24 @@
       "duration_ms": 149173,
       "name": "Maps - Single Version",
       "url": "https://open.spotify.com/track/0pqU55UfyCSLyTFHjdYqQP"
+    },
+    {
+      "album": {
+        "name": "Maps",
+        "url": "https://open.spotify.com/album/0IZHHji7czzU5PpMRdDTvp"
+      },
+      "artists": [
+        {
+          "name": "Freya Ridings",
+          "url": "https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149173,
+      "name": "Maps - Single Version",
+      "url": "https://open.spotify.com/track/2qStTBpso4X9ATqSpdMjq9"
     },
     {
       "album": {
@@ -9079,7 +9173,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 222362,
       "name": "Swingin Party",
       "url": "https://open.spotify.com/track/3YYwrOdeMEvmHBWHJ0TmB6"
@@ -9169,7 +9263,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 193280,
       "name": "Take on Me",
       "url": "https://open.spotify.com/track/4GkELkyI3VJstSugqnP39K"
@@ -9945,7 +10039,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 140480,
       "name": "True Colors",
       "url": "https://open.spotify.com/track/4AvvHmGzjW8Y7JZlq51NAQ"
@@ -10491,7 +10585,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 248013,
       "name": "When a Man Loves a Woman",
       "url": "https://open.spotify.com/track/2kPyPBMVkoAdT5yxgn0u6V"
@@ -10859,7 +10953,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 312173,
       "name": "With A Little Help From My Friends",
       "url": "https://open.spotify.com/track/0YZ3J8xzGwLOg4yEgST1YK"
@@ -11185,7 +11279,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-05",
+      "date_removed": null,
       "duration_ms": 131186,
       "name": "Yesterday - The Voice Performance",
       "url": "https://open.spotify.com/track/5fvETjmhp6xoCQKVAjklVE"

@@ -502,6 +502,24 @@
     },
     {
       "album": {
+        "name": "Movement",
+        "url": "https://open.spotify.com/album/2JYgCmWIQNQUNZOR6kvddM"
+      },
+      "artists": [
+        {
+          "name": "Beautiful Chorus",
+          "url": "https://open.spotify.com/artist/1bL7zNdRZRQtgMnMpsCh0K"
+        }
+      ],
+      "date_added": "2021-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379736,
+      "name": "Faith's Hymn",
+      "url": "https://open.spotify.com/track/1bDv6grQB5ohVFI8UDGvKK"
+    },
+    {
+      "album": {
         "name": "Hymns of Spirit",
         "url": "https://open.spotify.com/album/1294eNy4dmeTBKwx6VLQTA"
       },
@@ -513,7 +531,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 379736,
       "name": "Faith\u2019s Hymn",
       "url": "https://open.spotify.com/track/2dBQPRdC3PMPRLDfZXUShJ"
@@ -886,6 +904,24 @@
     },
     {
       "album": {
+        "name": "Spa Lounge",
+        "url": "https://open.spotify.com/album/6ERp3okLOeeQerFReJnCCK"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "date_added": "2021-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 581226,
+      "name": "Illumination of the Heart",
+      "url": "https://open.spotify.com/track/0jOljc9ROlnGTZyLtKKE5z"
+    },
+    {
+      "album": {
         "name": "Reiki Hands of Light",
         "url": "https://open.spotify.com/album/296Ap83do1F6OHL4M6Dn4I"
       },
@@ -897,7 +933,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 581226,
       "name": "Illumination of the Heart",
       "url": "https://open.spotify.com/track/4PSXQc6mV7ZJpLEJ4vkfUR"
@@ -1582,6 +1618,24 @@
     },
     {
       "album": {
+        "name": "2017 Mindfulness Zen Meditation",
+        "url": "https://open.spotify.com/album/6tUb0Dv22zpVlOHLDhCRu9"
+      },
+      "artists": [
+        {
+          "name": "Tom Green",
+          "url": "https://open.spotify.com/artist/5i6KZLTbAeOQN21u8Px2RG"
+        }
+      ],
+      "date_added": "2021-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 418011,
+      "name": "Singing Wire",
+      "url": "https://open.spotify.com/track/5uiSPTqJg6FV2lJ9zJc6zd"
+    },
+    {
+      "album": {
         "name": "#Sereneyogaselection",
         "url": "https://open.spotify.com/album/4eeFNXX0zjGWU5c5edlzPw"
       },
@@ -1593,7 +1647,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 418011,
       "name": "Singing Wire",
       "url": "https://open.spotify.com/track/5iyaBre6AhiW8lia2oOols"
@@ -1717,7 +1771,7 @@
     {
       "album": {
         "name": "Spirit of Yoga",
-        "url": "https://open.spotify.com/album/5t2MF4cYCAbNhcf3nfAD9N"
+        "url": "https://open.spotify.com/album/0uWowf3r9cp0nBhNZX9IsZ"
       },
       "artists": [
         {
@@ -1736,6 +1790,32 @@
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 913626,
+      "name": "The Hierophant",
+      "url": "https://open.spotify.com/track/4Vw5cNbZiNABO9Dh7dem5o"
+    },
+    {
+      "album": {
+        "name": "Spirit of Yoga",
+        "url": "https://open.spotify.com/album/5t2MF4cYCAbNhcf3nfAD9N"
+      },
+      "artists": [
+        {
+          "name": "Ben Leinbach",
+          "url": "https://open.spotify.com/artist/1bs286UUnvo0aH5N0nmZEX"
+        },
+        {
+          "name": "Jai Uttal",
+          "url": "https://open.spotify.com/artist/00DkRCKgM6Ku90WtOfoYlw"
+        },
+        {
+          "name": "Manose",
+          "url": "https://open.spotify.com/artist/4JuGrH8E5Xgddd61nqIViQ"
+        }
+      ],
+      "date_added": "2021-06-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-12",
       "duration_ms": 913626,
       "name": "The Hierophant",
       "url": "https://open.spotify.com/track/5qgQww0z5pK4H07fhXaDzT"

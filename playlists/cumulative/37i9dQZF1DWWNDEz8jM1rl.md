@@ -4,7 +4,7 @@
 
 > ¡Vamos a bailar con Dios!
 
-57 songs - 3 hr 47 min - [published](https://open.spotify.com/playlist/6Y8UbtURyWBf2yUJAyO8WE)
+58 songs - 3 hr 52 min - [published](https://open.spotify.com/playlist/6Y8UbtURyWBf2yUJAyO8WE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Cambio de Plan](https://open.spotify.com/track/0MXbtfy4B2DaUL6ol0ZkXO) | [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu) | [Cambio de Plan](https://open.spotify.com/album/7K3gotaXY44bihQHnD2PGm) | 3:42 | 2020-09-18 |  |
 | [Conmigo](https://open.spotify.com/track/7G6FUIGJigrZrDKYO3uhGG) | [Vaes](https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu), [Pescao Vivo](https://open.spotify.com/artist/5GlkVOsZJwtYsvY55B8ExI) | [Conmigo](https://open.spotify.com/album/46HG8FO29WHwKukGqGVrKs) | 2:50 | 2020-09-18 |  |
 | [Contigo](https://open.spotify.com/track/1ld0Nc6a8kqXjMJw3eRm1j) | [Mr\. Don](https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR) | [Contigo](https://open.spotify.com/album/4EyoMV51X0r69upo5S2na0) | 3:42 | 2020-09-18 |  |
+| [Creo En Ti](https://open.spotify.com/track/4OZcxfCkwY1em4aSG8RKOk) | [Alex D'Castro](https://open.spotify.com/artist/5u21XmwRCdP8za3HRjJIct) | [Alex D'castro, a Mis Amigos ...Lo Mejor](https://open.spotify.com/album/4XwBmjJCCVYcarPMx2iYa0) | 4:24 | 2020-09-18 |  |
 | [Cuando Se Acaba El Amor](https://open.spotify.com/track/2FXKO3yAmNgFE3GcNsuJDd) | [Giovanni Rios](https://open.spotify.com/artist/5bJbyAOugvWGdfwZ2Yzptl) | [Solo Bachata](https://open.spotify.com/album/3r3NL0WmDLp0gpR8TGifhd) | 5:01 | 2020-09-18 |  |
 | [Dame Tus Ojos \(feat\. Laurie Colón\)](https://open.spotify.com/track/3jPaLIbWPyfS5GZluhxh4D) | [Reynaldo Santiago " Chino "](https://open.spotify.com/artist/0d2PKfTXyO0YaqnClQybw1), [Laurie Colon](https://open.spotify.com/artist/3D3ZmxtOiCz4n6UJf9k1R7) | [Chino " De Viaje " ....\. Camino Al Cielo](https://open.spotify.com/album/5fWfAVXPS3buPNuv0tCViu) | 4:10 | 2020-09-18 |  |
 | [Dependo de Ti](https://open.spotify.com/track/6V6BQzogQ4WtHBtGKYpCZ8) | [Daniel Sierra](https://open.spotify.com/artist/59kFGrpOBHO4SS83Hr9qM0), [Gilberto Daza](https://open.spotify.com/artist/6pdXxGaaEGf7huw3C6fz6a) | [Dependo de Ti](https://open.spotify.com/album/651OlbSCsMTaxCRqVgGkIG) | 3:15 | 2020-09-18 |  |
@@ -27,7 +28,7 @@
 | [El Cristiano No Se Enoja](https://open.spotify.com/track/1m4pJIKdaMuyEUiqZiyxCE) | [Giovanni Rios](https://open.spotify.com/artist/5bJbyAOugvWGdfwZ2Yzptl) | [Historia](https://open.spotify.com/album/2wBNUXXpdNns2ReHXr0Vvx) | 4:25 | 2020-09-18 |  |
 | [El Mismo De Ayer](https://open.spotify.com/track/14vPeVOX4it5xXsTKqQlIC) | [Josue Escogido](https://open.spotify.com/artist/75Gl0anAafMmfj2gSUP2VK), [Yariel y Omy](https://open.spotify.com/artist/57rWlpin8dSDoSuO0bcr0f) | [Lo Que Dice El Alma](https://open.spotify.com/album/6diQlol7c5bsMCk85RXRgu) | 4:17 | 2020-09-18 |  |
 | [El Que Reina](https://open.spotify.com/track/5EQtvJcs1972KsmMZDCCHR) | [Niko Eme](https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL) | [Suficiente](https://open.spotify.com/album/6xuPzzkawDA8P9vnRxWNSN) | 3:27 | 2020-09-18 |  |
-| [En Tu Presencia](https://open.spotify.com/track/6ZedH7GdOealnGMGyWarWW) | [Alex D' Castro](https://open.spotify.com/artist/74O8Fdu8PKT7LWjjnfCbpm) | [En Accion](https://open.spotify.com/album/40dMA08JGPjNQjKkUdmnl0) | 4:42 | 2020-09-18 |  |
+| [En Tu Presencia](https://open.spotify.com/track/6ZedH7GdOealnGMGyWarWW) | [Alex D' Castro](https://open.spotify.com/artist/74O8Fdu8PKT7LWjjnfCbpm) | [En Accion](https://open.spotify.com/album/40dMA08JGPjNQjKkUdmnl0) | 4:42 | 2020-09-18 | 2022-11-12 |
 | [Espiritu De Dios](https://open.spotify.com/track/3PchABMkZW9CPTrKiS2IOV) | [Javier Maldonado](https://open.spotify.com/artist/773eYjENFwQa4WWsahVm76) | [No Hay Nada Imposible](https://open.spotify.com/album/3S7tVmHEPScYVF1gflAkI6) | 4:55 | 2020-09-18 |  |
 | [Estoy Contento](https://open.spotify.com/track/6jRFsF1AnnVWmJRzlX0a9s) | [Richard Cepeda](https://open.spotify.com/artist/5Ss0gsyIYSgFgt6l6hjcqq) | [Traigo Alabanza](https://open.spotify.com/album/4g3SmEvXmxDMVJa8iPKB8c) | 4:11 | 2020-09-18 |  |
 | [Eternamente Amor](https://open.spotify.com/track/20TvKgvjIlkUpFPCXUOE46) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3), [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [Fragmentos Do Céu](https://open.spotify.com/album/6TSkaLuTf3krKOP6G9MQ0e) | 4:02 | 2020-09-18 |  |

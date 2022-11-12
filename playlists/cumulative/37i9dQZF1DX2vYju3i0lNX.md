@@ -4,11 +4,12 @@
 
 > Mellow jazz to stay focused or unwind.
 
-323 songs - 19 hr 56 min - [published](https://open.spotify.com/playlist/39kAoyClkonK7qGZPNaJQz)
+324 songs - 19 hr 58 min - [published](https://open.spotify.com/playlist/39kAoyClkonK7qGZPNaJQz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Better Place](https://open.spotify.com/track/6ZDLHi8UtQeT203JjiQU6N) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx) | [A Better Place](https://open.spotify.com/album/5kIBKvyTDfkVFeL3INbvBZ) | 2:13 | 2022-06-28 |  |
+| [A Better Place](https://open.spotify.com/track/6ZDLHi8UtQeT203JjiQU6N) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx) | [A Better Place](https://open.spotify.com/album/5kIBKvyTDfkVFeL3INbvBZ) | 2:13 | 2022-06-28 | 2022-11-12 |
+| [A Better Place](https://open.spotify.com/track/7JfORZg3Tvn0YyDZCiGhMU) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx) | [A Better Place](https://open.spotify.com/album/0BIRayldwphnBlwreGKihM) | 2:13 | 2022-11-10 |  |
 | [A Better Place](https://open.spotify.com/track/38XEHVGy4xCfeaBNKjJOTY) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx), [Niklas Fernqvist](https://open.spotify.com/artist/0RwUWenfKob2FP0P4V5pJS), [Rasmus Svensson Blixt](https://open.spotify.com/artist/7KYea3HNjnreWiEJWn3CkI) | [A Better Place](https://open.spotify.com/album/69jewLma1l3nUoR9FR6yCk) | 2:13 | 2021-12-07 | 2022-07-29 |
 | [A Few Days Ahead](https://open.spotify.com/track/71qHUeI08SIXKXzSrOqcxj) | [Bedford and 7th](https://open.spotify.com/artist/3bAXvct52qoTbMdHW4CYkE) | [A Few Days Ahead](https://open.spotify.com/album/65sw0dCunefgxhFgS3GHuv) | 3:05 | 2021-12-07 |  |
 | [A Future With You](https://open.spotify.com/track/0iIxcgkANZfp1Mk4Es1OUw) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [A Future With You](https://open.spotify.com/album/6BQydkNHQgsSwEhsFm1YUf) | 3:05 | 2022-09-13 |  |

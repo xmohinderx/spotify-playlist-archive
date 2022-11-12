@@ -4,7 +4,7 @@
 
 > Slow down and relax with a mix of calming music.
 
-403 songs - 17 hr 35 min - [published](https://open.spotify.com/playlist/0sIE9FQkVbWlp9u6z9Quwo)
+404 songs - 17 hr 38 min - [published](https://open.spotify.com/playlist/0sIE9FQkVbWlp9u6z9Quwo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [After The Rain](https://open.spotify.com/track/78FM8RL21qznI4xA2Yqtix) | [Dario Crisman](https://open.spotify.com/artist/3z9wB1A84KYedTTWy1ciHF) | [After The Rain](https://open.spotify.com/album/6UoUV4OYZsmo7CUPD7OW1k) | 2:29 | 2022-04-22 |  |
 | [After the Storm](https://open.spotify.com/track/5NOfvyC7EmTHLlM8jCnDYr) | [HILMA](https://open.spotify.com/artist/5cfA35ok9YlWE032xcI423) | [Echo](https://open.spotify.com/album/4B2lXu2ZUFvgzJt6s7hPY1) | 2:56 | 2022-04-22 | 2022-09-16 |
 | [Agonize](https://open.spotify.com/track/3FeGZb9pg7ws79UhhZP8lv) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm) | [Agonize](https://open.spotify.com/album/6PMNbI3D4rsYwWWgXZ9JHS) | 2:51 | 2022-04-22 | 2022-07-29 |
-| [Agonize](https://open.spotify.com/track/4iG6wXPpZIYIpOVkra8SCh) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm) | [The Self](https://open.spotify.com/album/5ULLBGQvMfWw2EeyLiVP56) | 2:51 | 2022-07-27 |  |
+| [Agonize](https://open.spotify.com/track/47QI1Wamg93qBYV60nSjUn) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm) | [Agonize](https://open.spotify.com/album/0UhDXcyKJTmhdKQXJHxm4d) | 2:51 | 2022-09-23 |  |
+| [Agonize](https://open.spotify.com/track/4iG6wXPpZIYIpOVkra8SCh) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm) | [The Self](https://open.spotify.com/album/5ULLBGQvMfWw2EeyLiVP56) | 2:51 | 2022-07-27 | 2022-11-12 |
 | [Airborne](https://open.spotify.com/track/2MdnNxK70QIHwW999cttyQ) | [Maria Novotna](https://open.spotify.com/artist/3Bg7pjZM9srpKAJj1qlgU6) | [Airborne](https://open.spotify.com/album/7tmews40tmF8GyBOqzCpYC) | 2:41 | 2022-04-22 |  |
 | [Aislingeach](https://open.spotify.com/track/45YmYHJG9AoFEg6X2xvmTV) | [Chloe Doyle](https://open.spotify.com/artist/1R7kaqI3qO4ep8YdYsFL3r) | [Aislingeach](https://open.spotify.com/album/1OkHickHsYjJvqrprMhxAr) | 2:01 | 2022-04-22 |  |
 | [Al fín](https://open.spotify.com/track/3F1jev8GAdSB1jyKHuAqhZ) | [Arata Rin](https://open.spotify.com/artist/61cavYEyS6y1T99hc6gjYI) | [Al fín](https://open.spotify.com/album/0FjpiJwqP0wFPTdi0tbTs7) | 2:28 | 2022-07-27 |  |

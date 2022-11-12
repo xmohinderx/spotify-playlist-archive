@@ -397,7 +397,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 157560,
       "name": "Blue Orchid",
       "url": "https://open.spotify.com/track/4jU7NPkz4HVnM4hweqNhI1"
@@ -505,7 +505,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 170253,
       "name": "Brianstorm",
       "url": "https://open.spotify.com/track/5rTIpPWeO0IL4HWlGWrz5G"
@@ -775,7 +775,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 207633,
       "name": "Everything Is Alright",
       "url": "https://open.spotify.com/track/6xyiHZgrmXw7sMyYXbXjPV"
@@ -1027,7 +1027,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 217159,
       "name": "Heart and Soul",
       "url": "https://open.spotify.com/track/7CskFQLRb7IdIEdnAnjMDV"
@@ -1081,7 +1081,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 222840,
       "name": "Hold My Hand",
       "url": "https://open.spotify.com/track/0iWZd4aBNd3vNUF6crMiOp"
@@ -1395,6 +1395,24 @@
     {
       "album": {
         "name": "The Spark",
+        "url": "https://open.spotify.com/album/6i96oOlC1X5vz2XBE5fL3V"
+      },
+      "artists": [
+        {
+          "name": "Enter Shikari",
+          "url": "https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220446,
+      "name": "Live Outside",
+      "url": "https://open.spotify.com/track/4gFBRNM2w934WZMOINd49G"
+    },
+    {
+      "album": {
+        "name": "The Spark",
         "url": "https://open.spotify.com/album/5DluHsIvF63TIRwOwm247N"
       },
       "artists": [
@@ -1481,6 +1499,24 @@
       "duration_ms": 158600,
       "name": "Miss Alissa",
       "url": "https://open.spotify.com/track/1YIxmHt4EKS0gMs3L0mxQV"
+    },
+    {
+      "album": {
+        "name": "Peace Love Death Metal",
+        "url": "https://open.spotify.com/album/1lFroSL8x6KELMkLOS07DT"
+      },
+      "artists": [
+        {
+          "name": "Eagles Of Death Metal",
+          "url": "https://open.spotify.com/artist/02uYdhMhCgdB49hZlYRm9o"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158600,
+      "name": "Miss Alissa",
+      "url": "https://open.spotify.com/track/1dlgaGdQXmsYKMRuewIZkF"
     },
     {
       "album": {
@@ -1769,7 +1805,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 222146,
       "name": "Run For Cover",
       "url": "https://open.spotify.com/track/5NAiPIEzxAexFE3ucV18Q8"
@@ -1949,7 +1985,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 189418,
       "name": "Something's Gotta Give",
       "url": "https://open.spotify.com/track/1SeefzwSDiFCjRWaBslRIj"
@@ -2057,7 +2093,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 229093,
       "name": "Sugar, We're Goin Down",
       "url": "https://open.spotify.com/track/2TfSHkHiFO4gRztVIkggkE"
@@ -2309,7 +2345,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 209000,
       "name": "The Small Print",
       "url": "https://open.spotify.com/track/6mPJvjjx7pcfZuI57Dh95o"
@@ -2507,7 +2543,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 225731,
       "name": "White Flag",
       "url": "https://open.spotify.com/track/0Sie4zIpI18dBZ0ptyo0SP"

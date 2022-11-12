@@ -4,7 +4,7 @@
 
 > 作詞・作曲・編曲を手掛けるマルチ音楽コンポーザー。映画・アニメ・ゲーム・舞台・TVなど幅広い分野で活躍。Kalafinaのプロデュースや自身のユニットSee\-Saw、新プロジェクトFictionJunctionとしての活動でも知られ、ヨーロッパと東洋のエッセンスが融合した独自の世界観で熱い支持を集めている。
 
-100 songs - 7 hr 42 min - [published](https://open.spotify.com/playlist/1XZaYKhiGp9PN6eM141esm)
+101 songs - 7 hr 48 min - [published](https://open.spotify.com/playlist/1XZaYKhiGp9PN6eM141esm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,8 @@
 | [空は高く風は歌う](https://open.spotify.com/track/5fKzBuiXtnpLtXSaZnI5SF) | [Luna Haruna](https://open.spotify.com/artist/4eL15GpHSLAAvv5sT00c5i) | [OVERSKY](https://open.spotify.com/album/5uw8YVzISyCjUPOqs2Dp4T) | 4:30 | 2022-02-28 | 2022-07-29 |
 | [約束](https://open.spotify.com/track/1o6JCEJZOjBieOaaGMTPkC) | [FictionJunction YUUKA](https://open.spotify.com/artist/3JGUu5XReRV4PnHYBNFbZf) | [『エル・カザド』 EDテーマ romanesque](https://open.spotify.com/album/0c18rgo9UL4rRA8bPPZNva) | 5:34 | 2022-02-28 |  |
 | [花の唄](https://open.spotify.com/track/01AsEuJRa5JuYwc3BbB49d) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Penny Rain](https://open.spotify.com/album/2EV8VrWZnqKuqerZesrTbC) | 6:11 | 2022-02-28 | 2022-07-29 |
-| [花の唄](https://open.spotify.com/track/3oSavJ5fMvJWZyR9zNHMte) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Penny Rain](https://open.spotify.com/album/5WxSamBTcE3P1W6sT9My7B) | 6:11 | 2022-02-28 |  |
+| [花の唄](https://open.spotify.com/track/3oSavJ5fMvJWZyR9zNHMte) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Penny Rain](https://open.spotify.com/album/5WxSamBTcE3P1W6sT9My7B) | 6:11 | 2022-02-28 | 2022-11-12 |
+| [花の唄](https://open.spotify.com/track/2HNLThGsrr2asX0ag3BMjg) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [ONE / 花の唄 / 六等星の夜 Magic Blue ver.](https://open.spotify.com/album/2hrsWVbgZvnmKY9QTKDghN) | 6:13 | 2022-02-28 |  |
 | [輝く空の静寂には](https://open.spotify.com/track/34qqPmyjW889PrXbvt0FLy) | [Kalafina](https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy) | [輝く空の静寂には](https://open.spotify.com/album/46RAH8uwedB6VvDPssUYTb) | 4:13 | 2022-02-28 |  |
 | [輝く空の静寂には](https://open.spotify.com/track/3n4MLZyy29Cqpa2SNxGSWv) | [Kalafina](https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy) | [After Eden](https://open.spotify.com/album/5PffrL3d7VY89x5AVvpr6e) | 4:14 | 2022-02-28 | 2022-11-11 |
 | [輝く空の静寂には](https://open.spotify.com/track/6FDzmybpUS0MpVWJfjDAgi) | [Kalafina](https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy) | [After Eden](https://open.spotify.com/album/5dhEp7375IwtIk8NTff2Ps) | 4:14 | 2022-02-28 | 2022-07-29 |

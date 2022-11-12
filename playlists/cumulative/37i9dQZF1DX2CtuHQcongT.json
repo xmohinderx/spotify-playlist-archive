@@ -409,6 +409,32 @@
     {
       "album": {
         "name": "Sonic Adventure 2 Original Soundtrack (vol.1)",
+        "url": "https://open.spotify.com/album/2mnhCObpHcTNkT9PEeYrkn"
+      },
+      "artists": [
+        {
+          "name": "Jun Senoue",
+          "url": "https://open.spotify.com/artist/04jFPnV89o5zz9qix9wAVZ"
+        },
+        {
+          "name": "Ted Poley",
+          "url": "https://open.spotify.com/artist/1uQyJRZqbvwsUqHgEuIEI9"
+        },
+        {
+          "name": "Tony Harnell",
+          "url": "https://open.spotify.com/artist/6alD2yMb2cpw8pQs4iR6DE"
+        }
+      ],
+      "date_added": "2022-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140750,
+      "name": "Escape From The City ...for City Escape",
+      "url": "https://open.spotify.com/track/14XIbMgScfoTteAYn3dC4p"
+    },
+    {
+      "album": {
+        "name": "Sonic Adventure 2 Original Soundtrack (vol.1)",
         "url": "https://open.spotify.com/album/65eoTk5UOmvYKO6diQCd2O"
       },
       "artists": [
@@ -449,7 +475,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 139920,
       "name": "Escape From The City ...for City Escape",
       "url": "https://open.spotify.com/track/5nTgzOZGI5zfhUvhXPIrtg"
@@ -1893,6 +1919,24 @@
     {
       "album": {
         "name": "\u6226\u56fd\u5927\u6226 \u97f3\u66f2\u96c6",
+        "url": "https://open.spotify.com/album/4rrZRVQehnp2lkLbAgpwhe"
+      },
+      "artists": [
+        {
+          "name": "SEGA SOUND TEAM",
+          "url": "https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6"
+        }
+      ],
+      "date_added": "2022-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217280,
+      "name": "\u6df1\u5fd7\u685c Deep Aim Blossoms",
+      "url": "https://open.spotify.com/track/2rswervbV99GICvAizgDpe"
+    },
+    {
+      "album": {
+        "name": "\u6226\u56fd\u5927\u6226 \u97f3\u66f2\u96c6",
         "url": "https://open.spotify.com/album/05w9O1Kcctsr6ceWNCrqWY"
       },
       "artists": [
@@ -1903,7 +1947,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 217280,
       "name": "\u6df1\u5fd7\u685c Deep Aim Blossoms",
       "url": "https://open.spotify.com/track/381CLWjAogweP7jWVQNdWV"

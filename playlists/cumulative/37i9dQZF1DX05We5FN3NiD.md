@@ -4,7 +4,7 @@
 
 > 2019 highlights from the home of indie music.
 
-117 songs - 7 hr 3 min - [published](https://open.spotify.com/playlist/4pANmKCSBoyjeOGG047kTr)
+118 songs - 7 hr 7 min - [published](https://open.spotify.com/playlist/4pANmKCSBoyjeOGG047kTr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Alaska](https://open.spotify.com/track/4HfLQJtVT1KiX1eVedDyTm) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 3:08 | 2022-09-16 |  |
 | [Andromeda](https://open.spotify.com/track/51EMSRpNm9Rg5rGViVCczv) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Titanic Rising](https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk) | 4:40 | 2022-09-16 |  |
 | [Are You Bored Yet? \(feat\. Clairo\)](https://open.spotify.com/track/57RA3JGafJm5zRtKJiKPIm) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Nothing Happens](https://open.spotify.com/album/7eed9MBclFPjjjvotfR2e9) | 2:58 | 2022-09-16 |  |
+| [bad idea!](https://open.spotify.com/track/1HRTFytvp1Bs50ckTlL5qs) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [chapter 2](https://open.spotify.com/album/2PjloAS981jof5y1KEhOPb) | 3:39 | 2022-09-16 |  |
 | [bad idea!](https://open.spotify.com/track/1M4Ud66z18wuIq3oOxqVHa) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [bad idea!](https://open.spotify.com/album/6riOnMD3YhF8kGpAXpxbdj) | 3:39 | 2022-09-16 | 2022-10-14 |
 | [bad idea!](https://open.spotify.com/track/57j65yC2HggQfmYNc6rdOK) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [bad idea!](https://open.spotify.com/album/4AEKKY9Sny3Uj6U3ELK4Sl) | 3:39 | 2022-09-16 | 2022-11-11 |
 | [Bags](https://open.spotify.com/track/6UFivO2zqqPFPoQYsEMuCc) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 4:20 | 2022-09-16 |  |
@@ -55,7 +56,7 @@
 | [Hypersonic Missiles](https://open.spotify.com/track/6CltzquypraYIlWFp48m1O) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Hypersonic Missiles](https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m) | 3:57 | 2022-09-16 |  |
 | [I Met Sarah in the Bathroom](https://open.spotify.com/track/0mr8FAnN9X70p5KRUwMIJx) | [awfultune](https://open.spotify.com/artist/1vkWdqcabQ1swciXipkLBj) | [I Met Sarah in the Bathroom](https://open.spotify.com/album/3z7kfJNZsrAjHY3Q24N4QQ) | 2:01 | 2022-09-16 |  |
 | [I'll Come Too](https://open.spotify.com/track/6EvUAsfncetT0RcWshHCbl) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Assume Form](https://open.spotify.com/album/23dKNZpiadggKHrQgHLi3L) | 3:42 | 2022-09-16 |  |
-| [i'll die anyway.](https://open.spotify.com/track/14tud1FLjpHMYHpD2c7NbO) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [i'll die anyway.](https://open.spotify.com/album/4Zt3XT3vADR97nZGrFoSOY) | 3:12 | 2022-09-16 |  |
+| [i'll die anyway.](https://open.spotify.com/track/14tud1FLjpHMYHpD2c7NbO) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [i'll die anyway.](https://open.spotify.com/album/4Zt3XT3vADR97nZGrFoSOY) | 3:12 | 2022-09-16 | 2022-11-12 |
 | [i'll die anyway.](https://open.spotify.com/track/7yyJF1BYBaCifNmO1RGhv7) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [i'll die anyway.](https://open.spotify.com/album/6RIPvkeMrEPX4iY1H9ZiVc) | 3:12 | 2022-09-16 | 2022-10-13 |
 | [Imagination](https://open.spotify.com/track/2flxduIqEbsicdmPyj1WVW) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Imagination](https://open.spotify.com/album/5LbiR8iqC4hYeIKifnmVqc) | 4:16 | 2022-09-16 |  |
 | [It Might Be Time](https://open.spotify.com/track/558ubozatFQlweufvHa3Ip) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 4:33 | 2022-09-16 |  |

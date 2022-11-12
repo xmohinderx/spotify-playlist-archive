@@ -4,7 +4,7 @@
 
 > 70s rock to fuel your ride\. Cover: Aerosmith
 
-72 songs - 5 hr 15 min - [published](https://open.spotify.com/playlist/3PfkV0A2msjUMG31iPGrco)
+74 songs - 5 hr 22 min - [published](https://open.spotify.com/playlist/3PfkV0A2msjUMG31iPGrco)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Feel like Makin' Love \- 2015 Remaster](https://open.spotify.com/track/3KPwt1LBpt1jVSHz8GXERo) | [Bad Company](https://open.spotify.com/artist/5AEG63ajney2BoDXi0Vb84) | [Straight Shooter](https://open.spotify.com/album/1LgPUiosPMevbB4NHxcNiO) | 5:13 | 2021-03-16 |  |
 | [Fly By Night](https://open.spotify.com/track/54TaGh2JKs1pO9daXNXI5q) | [Rush](https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq) | [Fly By Night](https://open.spotify.com/album/3ZtICWkqezf0bBTUwY1Khe) | 3:22 | 2021-03-16 |  |
 | [Foreplay / Long Time](https://open.spotify.com/track/39C5FuZ8C8M0QI8CrMsPkR) | [Boston](https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK) | [Boston](https://open.spotify.com/album/2QLp07RO6anZHmtcKTEvSC) | 7:47 | 2021-03-16 |  |
+| [Fox On The Run](https://open.spotify.com/track/4uip0lLkMKl1nwchsdXs1r) | [Sweet](https://open.spotify.com/artist/3JaAGmSTpJK35DqWrDUzBz) | [Desolation Boulevard](https://open.spotify.com/album/3PsFboiPeObjAc6gbQHt54) | 3:27 | 2021-03-16 |  |
 | [Free Ride](https://open.spotify.com/track/4DhbiXEuV7JxSR0wuqetTa) | [The Edgar Winter Group](https://open.spotify.com/artist/7j9PMegEgVN1fNp8NZXNCI) | [They Only Come Out At Night](https://open.spotify.com/album/4CNEJF5wYGqhOYEKq8ciu8) | 3:07 | 2021-03-16 |  |
 | [Funk \#49](https://open.spotify.com/track/5h6SovHOYpIMlAkafxcbq3) | [James Gang](https://open.spotify.com/artist/5hfOHpGMsi8O3DA0ROLGqF) | [Rides Again](https://open.spotify.com/album/0FHtUmahwAambT6S4boSP0) | 4:06 | 2021-03-16 |  |
 | [Gimme Three Steps](https://open.spotify.com/track/0x2wtJbtJrox3SDmnMj97x) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Pronounced' Leh\-'Nerd 'Skin\-'Nerd](https://open.spotify.com/album/6DExt1eX4lflLacVjHHbOs) | 4:27 | 2021-03-16 |  |
@@ -45,7 +46,7 @@
 | [I Want You to Want Me](https://open.spotify.com/track/1JkZg3eMQTmTn93E8Yd3UL) | [Cheap Trick](https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU) | [In Color](https://open.spotify.com/album/2sXJQdHykPYcRQ7xFhwzMR) | 3:11 | 2021-03-16 |  |
 | [Jailbreak](https://open.spotify.com/track/4qbiCq2xkNPyojuZFeNeqx) | [Thin Lizzy](https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ) | [Jailbreak \(Deluxe Edition\)](https://open.spotify.com/album/6Cf545T4jkaiyvMnTRPOB2) | 4:00 | 2021-03-16 |  |
 | [Jet \- 2010 Remaster](https://open.spotify.com/track/4D40ZlFAWsvX7lua1Kablh) | [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Band On The Run \(Standard\)](https://open.spotify.com/album/257oomaawruFknt5wYCPDh) | 4:08 | 2021-03-16 |  |
-| [Killer Queen \- Remastered 2011](https://open.spotify.com/track/7GqWnsKhMtEW0nzki5o0d8) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Sheer Heart Attack \(Deluxe Remastered Version\)](https://open.spotify.com/album/6RJyYMIrOtx3VnNIoq31kj) | 2:59 | 2021-03-16 |  |
+| [Killer Queen \- Remastered 2011](https://open.spotify.com/track/7GqWnsKhMtEW0nzki5o0d8) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Sheer Heart Attack \(Deluxe Remastered Version\)](https://open.spotify.com/album/6RJyYMIrOtx3VnNIoq31kj) | 2:59 | 2021-03-16 | 2022-11-12 |
 | [Lawyers, Guns and Money \- 2007 Remaster](https://open.spotify.com/track/64dHj8ZxaI2Wj0brEehVMN) | [Warren Zevon](https://open.spotify.com/artist/3mY9Ii0cL5SQxpOTAm8SHx) | [Excitable Boy](https://open.spotify.com/album/03WJAI8NnJHvCNqnlLw8kg) | 3:30 | 2021-03-16 |  |
 | [Life in the Fast Lane \- 2013 Remaster](https://open.spotify.com/track/6gXrEUzibufX9xYPk3HD5p) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Hotel California \(2013 Remaster\)](https://open.spotify.com/album/2widuo17g5CEC66IbzveRu) | 4:46 | 2021-03-16 |  |
 | [Life's Been Good](https://open.spotify.com/track/2wvMC5EyaaYQwBfiwwY2xE) | [Joe Walsh](https://open.spotify.com/artist/5bDxAyJiTYBat1YnFJhvEK) | [But Seriously, Folks...](https://open.spotify.com/album/5yqBTSoJqE9EfApl2Pptva) | 8:56 | 2021-03-16 |  |
@@ -53,6 +54,7 @@
 | [Me and Bobby McGee](https://open.spotify.com/track/1IqFh00G2kvvMm8pRMpehA) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Pearl \(Legacy Edition\)](https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf) | 4:31 | 2021-03-16 |  |
 | [Mississippi Queen](https://open.spotify.com/track/4vO9dmzNRqDhFY3jD1a3P7) | [Mountain](https://open.spotify.com/artist/7LCp4MN0SOIVWlssid9KyE) | [Climbing!](https://open.spotify.com/album/2tWvZmP9EVRYqmWyJPLzjP) | 2:31 | 2021-03-16 |  |
 | [More Than a Feeling](https://open.spotify.com/track/1QEEqeFIZktqIpPI4jSVSF) | [Boston](https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK) | [Boston](https://open.spotify.com/album/2QLp07RO6anZHmtcKTEvSC) | 4:45 | 2021-03-16 |  |
+| [Move Over](https://open.spotify.com/track/2bD9x9kN4wYyVoyckeqlLk) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Pearl \(Legacy Edition\)](https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf) | 3:43 | 2021-03-16 |  |
 | [Night Moves](https://open.spotify.com/track/6UBjSnyP1O5W5ndJoO9vUk) | [Bob Seger](https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ) | [Night Moves](https://open.spotify.com/album/5QkOpsZupEPLq186YOrBNe) | 5:24 | 2021-03-16 |  |
 | [Paradise By the Dashboard Light](https://open.spotify.com/track/2g7gviEeJr6pyxO7G35EWQ) | [Meat Loaf](https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz) | [Bat Out Of Hell](https://open.spotify.com/album/6mvI80w5r78niBmwtu7RF9) | 8:28 | 2021-03-16 |  |
 | [Radar Love](https://open.spotify.com/track/4Zau4QvgyxWiWQ5KQrwL43) | [Golden Earring](https://open.spotify.com/artist/1iTlOqIrZy8DlvCPJY2sjS) | [The Long Versions \- Part One](https://open.spotify.com/album/2qZLEQ9KsfExIhQKJF3VkD) | 6:26 | 2021-03-16 |  |
@@ -62,7 +64,7 @@
 | [Rock'n Me](https://open.spotify.com/track/1orVKbp6vqtfAPOmvRofVq) | [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [Fly Like An Eagle](https://open.spotify.com/album/0fjJOLqG3v7vXRYhz2wxPC) | 3:07 | 2021-03-16 |  |
 | [Running on Empty](https://open.spotify.com/track/6aqm56xP40foYBBtAWWrnY) | [Jackson Browne](https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m) | [Running on Empty / Nothing but Time \(Digital 45\)](https://open.spotify.com/album/5ivr226sTfgyZMeWnQjKRL) | 4:51 | 2021-03-16 |  |
 | [Show Me The Way](https://open.spotify.com/track/6BD1X1PeV5UzYUdiVaD2yL) | [Peter Frampton](https://open.spotify.com/artist/0543y7yrvny4KymoaneT4W) | [Frampton](https://open.spotify.com/album/0mRXKbepKXO0Il8H1uMaaX) | 4:03 | 2021-03-16 |  |
-| [Somebody To Love \- Remastered 2011](https://open.spotify.com/track/6cFZ4PLC19taNlpl9pbGMf) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Day At The Races \(Deluxe Remastered Version\)](https://open.spotify.com/album/0lmQ6rAGcChLjGXM52Qu3i) | 4:56 | 2021-03-16 |  |
+| [Somebody To Love \- Remastered 2011](https://open.spotify.com/track/6cFZ4PLC19taNlpl9pbGMf) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Day At The Races \(Deluxe Remastered Version\)](https://open.spotify.com/album/0lmQ6rAGcChLjGXM52Qu3i) | 4:56 | 2021-03-16 | 2022-11-12 |
 | [Stay with Me](https://open.spotify.com/track/7fLTytvnvxy653VWxflTRf) | [Faces](https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL) | [A Nod Is as Good as a Wink..\. to a Blind Horse](https://open.spotify.com/album/3mvdHEE56sgj1NtTnTF8qK) | 4:39 | 2021-03-16 |  |
 | [Stuck In The Middle With You](https://open.spotify.com/track/3Vby4nGmtbDo7HDJamOWkT) | [Stealers Wheel](https://open.spotify.com/artist/7bPU7cvfoD20ixGD9Qnqki) | [Stealers Wheel](https://open.spotify.com/album/5ApN9lqru1t3Xh1IaEGTll) | 3:28 | 2021-03-16 |  |
 | [Suffragette City \- 2012 Remaster](https://open.spotify.com/track/3YZa4IzxK2UtEKTvdTgsi8) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [The Rise and Fall of Ziggy Stardust and the Spiders from Mars \(2012 Remaster\)](https://open.spotify.com/album/48D1hRORqJq52qsnUYZX56) | 3:28 | 2021-03-16 |  |

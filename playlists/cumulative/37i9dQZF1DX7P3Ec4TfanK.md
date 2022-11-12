@@ -4,7 +4,7 @@
 
 > Inizia la giornata con la tua dose di caffè e carica musicale!
 
-153 songs - 8 hr 6 min - [published](https://open.spotify.com/playlist/7C2UJmFUbC0XzdnPAkeOBo)
+154 songs - 8 hr 9 min - [published](https://open.spotify.com/playlist/7C2UJmFUbC0XzdnPAkeOBo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Dove Si Balla](https://open.spotify.com/track/3FVa0R2evbgjVOd3bejudr) | [Dargen D'Amico](https://open.spotify.com/artist/7muPB2GhV0sEg2K1Fgj0Xm) | [Dove Si Balla](https://open.spotify.com/album/5iTNhsNPt2pesmEDZlcphf) | 3:18 | 2022-05-06 | 2022-05-20 |
 | [Duecentomila ore](https://open.spotify.com/track/5QcKmCvGDbMvbJQZh75YVd) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [Duecentomila ore](https://open.spotify.com/album/7DZEFakK4SfIg3IbnVNta5) | 3:00 | 2022-05-06 | 2022-05-20 |
 | [Dynamite](https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) | 3:19 | 2022-07-14 | 2022-11-11 |
+| [Dynamite](https://open.spotify.com/track/72wqLtMtkrB0qUw6jSqM0Z) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Dynamite \(NightTime Version\)](https://open.spotify.com/album/7cvsViO3Tg4w5ixs5Aq7mS) | 3:19 | 2022-10-05 |  |
 | [Dynamite](https://open.spotify.com/track/0fQfJFfngYfG26560HLMLN) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Dynamite](https://open.spotify.com/album/50olq3HtK70p3MOSB9hNj8) | 3:32 | 2022-05-06 |  |
 | [Electric \- Pokemon 25 Version](https://open.spotify.com/track/63eV5hreY9feQP2CmYavpj) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Electric](https://open.spotify.com/album/2kjyPzcMPYUZlB9CJzu10f) | 3:13 | 2022-05-19 | 2022-05-21 |
 | [farfalle](https://open.spotify.com/track/5HujDMiRNqZwEzVAh3oFD3) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [farfalle](https://open.spotify.com/album/1WCDSnckeIERycPR36vEiZ) | 2:44 | 2022-05-06 | 2022-09-21 |
@@ -75,7 +76,7 @@
 | [In the Dark](https://open.spotify.com/track/2lGzRg9ccRTa2gllTvy2w7) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [In the Dark](https://open.spotify.com/album/64d2NALUX5nTqpG1Vu3l7x) | 3:05 | 2022-05-06 | 2022-07-29 |
 | [In Your Arms \(For An Angel\)](https://open.spotify.com/track/5WOnsi0Bug74LmhxcPfKvR) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz), [Paul van Dyk](https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR) | [In Your Arms \(For An Angel\)](https://open.spotify.com/album/5wcSb6xtmgO4YvmVV1Xt7b) | 2:30 | 2022-05-06 |  |
 | [In Your Eyes](https://open.spotify.com/track/7szuecWAPwGoV1e5vGu8tl) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:57 | 2022-07-14 |  |
-| [Kings & Queens](https://open.spotify.com/track/7a53HqqArd4b9NF4XAmlbI) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 2:42 | 2022-07-14 |  |
+| [Kings & Queens](https://open.spotify.com/track/7a53HqqArd4b9NF4XAmlbI) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 2:42 | 2022-07-14 | 2022-11-12 |
 | [LA CODA DEL DIAVOLO \(con ELODIE\)](https://open.spotify.com/track/6oYcyS6salzWI1ysjEScFh) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [Elodie](https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY) | [TAXI DRIVER](https://open.spotify.com/album/4D04TN7Kw7Bq98kfDjUmgh) | 3:08 | 2022-05-06 |  |
 | [LAUREA AD HONOREM \(feat\. Calcutta\)](https://open.spotify.com/track/0WgVvy1KelQxG6KBUukTWI) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7), [Calcutta ](https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r) | [NOI, LORO, GLI ALTRI](https://open.spotify.com/album/0rgggvSYGSms079nUlcAGX) | 3:15 | 2022-05-06 | 2022-05-20 |
 | [Leave The Door Open](https://open.spotify.com/track/02VBYrHfVwfEWXk5DXyf0T) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) | 4:02 | 2022-07-14 | 2022-11-11 |

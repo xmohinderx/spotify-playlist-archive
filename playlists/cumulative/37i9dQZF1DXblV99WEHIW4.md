@@ -4,7 +4,7 @@
 
 > Heavy music that understands.
 
-104 songs - 6 hr 52 min - [published](https://open.spotify.com/playlist/0Ngqpcl8RKKzJxWis2gA88)
+105 songs - 6 hr 56 min - [published](https://open.spotify.com/playlist/0Ngqpcl8RKKzJxWis2gA88)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [February Stars](https://open.spotify.com/track/2ceA7CWWx6yIHdzppN8nLF) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [The Colour And The Shape](https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv) | 4:49 | 2021-02-17 |  |
 | [Feel Nothing](https://open.spotify.com/track/26m3OLzCB09qlex7GTZS7h) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs) | [Violent Pop](https://open.spotify.com/album/2kVLN2LUjJWEtoCPllEYyp) | 3:42 | 2022-08-25 |  |
 | [Glasgow](https://open.spotify.com/track/0mAgOUcUmplfqf610W5DVU) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [SUCKAPUNCH](https://open.spotify.com/album/1QjSCSvRARExE1aFFycrPz) | 5:39 | 2022-08-25 |  |
+| [Glass World \(Alternative Version\)](https://open.spotify.com/track/2tcRiF9x1ZiW0QZGLvXOi1) | [Citizen](https://open.spotify.com/artist/0znuUIjvP0LXEslfaq0Nor) | [Glass Mix 3](https://open.spotify.com/album/1VGP2NfyIqKpmdDa0ow60V) | 3:29 | 2022-08-25 |  |
 | [Goodbye](https://open.spotify.com/track/0GXmTWQBqvNZwpcfNeijlt) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [.5: The Gray Chapter \(Special Edition\)](https://open.spotify.com/album/0ApKaazNHf0gzjAYZauexq) | 4:35 | 2021-02-17 |  |
 | [Graduating Life](https://open.spotify.com/track/18mzsMdTswjVIzQ0U06Yqa) | [Mom Jeans.](https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h) | [Graduating Life](https://open.spotify.com/album/7G2sRHP0Xd28Dx4OKjBkqg) | 2:40 | 2022-08-25 |  |
 | [Hated](https://open.spotify.com/track/2NRa4W3rH4e5GKQMN5Qwyr) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Aggressive](https://open.spotify.com/album/5nQE80zQR1NqKDBo4oE4EJ) | 3:31 | 2021-02-17 |  |
@@ -71,7 +72,7 @@
 | [love song](https://open.spotify.com/track/0DZr4tVoYT3rUJzm9w15Lg) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [weird!](https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP) | 4:00 | 2021-02-17 | 2022-11-11 |
 | [love song](https://open.spotify.com/track/3fXttvx25zuTyanmWYRNuq) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [weird!](https://open.spotify.com/album/6Uz65rZH5hnky1CF7pZOMM) | 4:00 | 2021-02-17 | 2022-07-29 |
 | [Make Me Wanna Die](https://open.spotify.com/track/0KGIbrNYktDXYyHopcDI2L) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Light Me Up](https://open.spotify.com/album/0moY5BetMaS0Vyi0Hh3zpb) | 3:55 | 2021-02-17 | 2022-07-29 |
-| [Make Me Wanna Die](https://open.spotify.com/track/2opyAm6zOyjR0An5LkblfN) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Light Me Up](https://open.spotify.com/album/2vv6A1vmzEcnzaIkrKveJy) | 3:55 | 2021-02-17 |  |
+| [Make Me Wanna Die](https://open.spotify.com/track/2opyAm6zOyjR0An5LkblfN) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Light Me Up](https://open.spotify.com/album/2vv6A1vmzEcnzaIkrKveJy) | 3:55 | 2021-02-17 | 2022-11-12 |
 | [mars](https://open.spotify.com/track/6C6aknFp2XtjIq7xuvyfuY) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [weird!](https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP) | 3:01 | 2022-08-25 |  |
 | [Missing Limbs](https://open.spotify.com/track/5sCll6ttgoCHYPI36Hn1h6) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [This Place Will Become Your Tomb](https://open.spotify.com/album/53PfSATgN0YM7IsfI2CDvs) | 3:20 | 2022-08-25 |  |
 | [Moving On](https://open.spotify.com/track/44sLQYgTQgGD5vCaijG8s2) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [From Death To Destiny](https://open.spotify.com/album/3xsYrjxckl6DZiyiPr5U3D) | 4:02 | 2022-08-25 | 2022-11-11 |

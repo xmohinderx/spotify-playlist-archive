@@ -1,28 +1,60 @@
 {
   "description": "All the indescribable feelings that music gives you. cover: hemlocke springs",
-  "num_followers": 951173,
+  "num_followers": 951830,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODEwNzg3OCwwMDAwMDAwMDAyYmIwYTlkODI3N2IyZWFhYmJjNjk3ZDUyMDM2ZjJk",
+  "snapshot_id": "MTY2ODIwNDgxNywwMDAwMDAwMDE0ZmQ0NGNmMDgxYTI2N2Y0ZWU3NjI3ZDY5MWRlZWJi",
   "tracks": [
     {
-      "added_at": "2022-11-02 20:55:55",
+      "added_at": "2022-11-08 19:17:28",
       "album": {
-        "name": "girlfriend",
-        "url": "https://open.spotify.com/album/7tBqY28TsUNRRzSJZ1yMLV"
+        "name": "SPIT IN MY FACE!",
+        "url": "https://open.spotify.com/album/5wtEXxqlCbVuy7hxDsTX3K"
       },
       "artists": [
         {
-          "name": "hemlocke springs",
-          "url": "https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx"
+          "name": "ThxSoMch",
+          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
         }
       ],
-      "duration_ms": 133150,
-      "name": "girlfriend",
-      "url": "https://open.spotify.com/track/0Dl965SLJGi9bB0SrvtPRx"
+      "duration_ms": 147874,
+      "name": "SPIT IN MY FACE!",
+      "url": "https://open.spotify.com/track/2jkyPVk1nbpsZD0KAS98Zw"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "PEE",
+        "url": "https://open.spotify.com/album/5hLHgAMmZbA316eFWJbfiS"
+      },
+      "artists": [
+        {
+          "name": "Devon Again",
+          "url": "https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t"
+        }
+      ],
+      "duration_ms": 228626,
+      "name": "Broke Mine Too",
+      "url": "https://open.spotify.com/track/5uQTrhuOuaefkHmtwT5M3h"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "Casual",
+        "url": "https://open.spotify.com/album/1AcoCd6oWIGkVJGH7HwxBt"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 232796,
+      "name": "Casual",
+      "url": "https://open.spotify.com/track/1UTGAopFU1g7qoxTE8sE3D"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -45,38 +77,6 @@
       "url": "https://open.spotify.com/track/3wbXyVBbFXczjXcLL46GH4"
     },
     {
-      "added_at": "2022-11-08 19:17:28",
-      "album": {
-        "name": "SPIT IN MY FACE!",
-        "url": "https://open.spotify.com/album/5wtEXxqlCbVuy7hxDsTX3K"
-      },
-      "artists": [
-        {
-          "name": "ThxSoMch",
-          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
-        }
-      ],
-      "duration_ms": 147874,
-      "name": "SPIT IN MY FACE!",
-      "url": "https://open.spotify.com/track/2jkyPVk1nbpsZD0KAS98Zw"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
-        "name": "Casual",
-        "url": "https://open.spotify.com/album/1AcoCd6oWIGkVJGH7HwxBt"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 232796,
-      "name": "Casual",
-      "url": "https://open.spotify.com/track/1UTGAopFU1g7qoxTE8sE3D"
-    },
-    {
       "added_at": "2022-11-04 04:00:00",
       "album": {
         "name": "SMITHEREENS",
@@ -93,6 +93,22 @@
       "url": "https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t"
     },
     {
+      "added_at": "2022-11-02 20:55:55",
+      "album": {
+        "name": "girlfriend",
+        "url": "https://open.spotify.com/album/7tBqY28TsUNRRzSJZ1yMLV"
+      },
+      "artists": [
+        {
+          "name": "hemlocke springs",
+          "url": "https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx"
+        }
+      ],
+      "duration_ms": 133150,
+      "name": "girlfriend",
+      "url": "https://open.spotify.com/track/0Dl965SLJGi9bB0SrvtPRx"
+    },
+    {
       "added_at": "2022-10-28 04:01:00",
       "album": {
         "name": "When In Rome",
@@ -107,22 +123,6 @@
       "duration_ms": 220960,
       "name": "The Promise",
       "url": "https://open.spotify.com/track/48p5E25cFPanxuwCTmTpuL"
-    },
-    {
-      "added_at": "2022-07-15 12:08:06",
-      "album": {
-        "name": "HEAD",
-        "url": "https://open.spotify.com/album/0nUKeFKTpaTdoi6jGbGQTZ"
-      },
-      "artists": [
-        {
-          "name": "Devon Again",
-          "url": "https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t"
-        }
-      ],
-      "duration_ms": 111653,
-      "name": "HEAD",
-      "url": "https://open.spotify.com/track/5stVamqETg34UDrpC5Zwhy"
     },
     {
       "added_at": "2022-11-10 19:17:58",
@@ -155,6 +155,26 @@
       "duration_ms": 206222,
       "name": "I\u2019m Not Perfect (But I\u2019m Trying)",
       "url": "https://open.spotify.com/track/10LBv5a9JLom1L6a05goUV"
+    },
+    {
+      "added_at": "2022-11-10 19:17:58",
+      "album": {
+        "name": "Texas",
+        "url": "https://open.spotify.com/album/4MxwYytep1ODnRn3g2qg0m"
+      },
+      "artists": [
+        {
+          "name": "DAGR",
+          "url": "https://open.spotify.com/artist/6jDxyPx376PtDCCWzo7OJi"
+        },
+        {
+          "name": "Cherry Glazerr",
+          "url": "https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg"
+        }
+      ],
+      "duration_ms": 171048,
+      "name": "Texas",
+      "url": "https://open.spotify.com/track/08qq38gqUu5e6jZSPT69GM"
     },
     {
       "added_at": "2022-09-02 04:00:00",
@@ -221,26 +241,6 @@
       "url": "https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9"
     },
     {
-      "added_at": "2022-11-10 19:17:58",
-      "album": {
-        "name": "Texas",
-        "url": "https://open.spotify.com/album/4MxwYytep1ODnRn3g2qg0m"
-      },
-      "artists": [
-        {
-          "name": "DAGR",
-          "url": "https://open.spotify.com/artist/6jDxyPx376PtDCCWzo7OJi"
-        },
-        {
-          "name": "Cherry Glazerr",
-          "url": "https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg"
-        }
-      ],
-      "duration_ms": 171048,
-      "name": "Texas",
-      "url": "https://open.spotify.com/track/08qq38gqUu5e6jZSPT69GM"
-    },
-    {
       "added_at": "2022-11-07 16:39:16",
       "album": {
         "name": "Waiting to Spill",
@@ -271,6 +271,22 @@
       "duration_ms": 113624,
       "name": "no way out",
       "url": "https://open.spotify.com/track/2jPbjvYVWWzQNkMLKP30nX"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/295P3WgTJDQQ27tzM5yWRU"
+      },
+      "artists": [
+        {
+          "name": "SAIAH",
+          "url": "https://open.spotify.com/artist/5ZPYeVqoWNuukwfarvkyJX"
+        }
+      ],
+      "duration_ms": 226833,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/6PeV3ho9kjOYRRT5xJHMYU"
     },
     {
       "added_at": "2022-11-08 19:17:28",
@@ -393,6 +409,26 @@
       "url": "https://open.spotify.com/track/5HLes17mwCwKt81mi0Tk35"
     },
     {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Glitter and Tears (Myra Molloy Remix)",
+        "url": "https://open.spotify.com/album/5uopUaKx0wWta1xbeaLzBY"
+      },
+      "artists": [
+        {
+          "name": "Ella Vos",
+          "url": "https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6"
+        },
+        {
+          "name": "Myra Molloy",
+          "url": "https://open.spotify.com/artist/30yozRF4B2uaL6eDBsLH96"
+        }
+      ],
+      "duration_ms": 204702,
+      "name": "Glitter and Tears - Myra Molloy Remix",
+      "url": "https://open.spotify.com/track/7Etq2Nj6XJkBdlUr3eKOxg"
+    },
+    {
       "added_at": "2022-10-28 04:01:00",
       "album": {
         "name": "ALLIGATOR",
@@ -425,6 +461,22 @@
       "url": "https://open.spotify.com/track/7A3uhvZBmoLzCCFQT14lGU"
     },
     {
+      "added_at": "2022-07-15 12:08:06",
+      "album": {
+        "name": "HEAD",
+        "url": "https://open.spotify.com/album/0nUKeFKTpaTdoi6jGbGQTZ"
+      },
+      "artists": [
+        {
+          "name": "Devon Again",
+          "url": "https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t"
+        }
+      ],
+      "duration_ms": 111653,
+      "name": "HEAD",
+      "url": "https://open.spotify.com/track/5stVamqETg34UDrpC5Zwhy"
+    },
+    {
       "added_at": "2022-10-28 04:01:00",
       "album": {
         "name": "Something in the Orange",
@@ -439,42 +491,6 @@
       "duration_ms": 228013,
       "name": "Something in the Orange",
       "url": "https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI"
-    },
-    {
-      "added_at": "2022-10-28 15:15:50",
-      "album": {
-        "name": "OMOGE WA JO",
-        "url": "https://open.spotify.com/album/0gZF6kUZ77XxQA23NkNp5K"
-      },
-      "artists": [
-        {
-          "name": "Cruel Santino",
-          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
-        },
-        {
-          "name": "L0LA",
-          "url": "https://open.spotify.com/artist/5LkJ2e1N1SuXrUIWkw1r0o"
-        }
-      ],
-      "duration_ms": 145084,
-      "name": "OMOGE WA JO",
-      "url": "https://open.spotify.com/track/3ra7ztUfRIwxw0sO8PhmMC"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Stayed at the Party",
-        "url": "https://open.spotify.com/album/3fNOwnasCq1Aw0Y4M3Pstq"
-      },
-      "artists": [
-        {
-          "name": "Hope Tala",
-          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
-        }
-      ],
-      "duration_ms": 213166,
-      "name": "Stayed at the Party",
-      "url": "https://open.spotify.com/track/4oBGba0gIMq5AKc6tTywwX"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -557,6 +573,42 @@
       "url": "https://open.spotify.com/track/4H33FcfmXo8xHbhV0Vs613"
     },
     {
+      "added_at": "2022-10-28 15:15:50",
+      "album": {
+        "name": "OMOGE WA JO",
+        "url": "https://open.spotify.com/album/0gZF6kUZ77XxQA23NkNp5K"
+      },
+      "artists": [
+        {
+          "name": "Cruel Santino",
+          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
+        },
+        {
+          "name": "L0LA",
+          "url": "https://open.spotify.com/artist/5LkJ2e1N1SuXrUIWkw1r0o"
+        }
+      ],
+      "duration_ms": 145084,
+      "name": "OMOGE WA JO",
+      "url": "https://open.spotify.com/track/3ra7ztUfRIwxw0sO8PhmMC"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Stayed at the Party",
+        "url": "https://open.spotify.com/album/3fNOwnasCq1Aw0Y4M3Pstq"
+      },
+      "artists": [
+        {
+          "name": "Hope Tala",
+          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
+        }
+      ],
+      "duration_ms": 213166,
+      "name": "Stayed at the Party",
+      "url": "https://open.spotify.com/track/4oBGba0gIMq5AKc6tTywwX"
+    },
+    {
       "added_at": "2022-10-28 04:01:00",
       "album": {
         "name": "jm'en bas les couilles",
@@ -603,22 +655,6 @@
       "duration_ms": 233406,
       "name": "Pink + White - Live at Electric Lady",
       "url": "https://open.spotify.com/track/5uJK1i4LU4I5Ai5qCeHonu"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
-        "name": "Demons at the Dinner Table",
-        "url": "https://open.spotify.com/album/2QxLfEiN0Uo4TXpTBUVDJI"
-      },
-      "artists": [
-        {
-          "name": "Lucca Dohr",
-          "url": "https://open.spotify.com/artist/6LaE3kwUey4mWfJ7tvjCe9"
-        }
-      ],
-      "duration_ms": 124532,
-      "name": "Demons at the Dinner Table",
-      "url": "https://open.spotify.com/track/03J7Tq3IWvGel6tvXTYsqm"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -679,22 +715,6 @@
       "duration_ms": 195853,
       "name": "Right Person, Wrong Time (feat. Umi & Yeek)",
       "url": "https://open.spotify.com/track/2m1joPV2mS8CjqxFs7EGMb"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
-        "name": "frog",
-        "url": "https://open.spotify.com/album/4kejzAQudxr4R5CNfvbwmz"
-      },
-      "artists": [
-        {
-          "name": "Cavetown",
-          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
-        }
-      ],
-      "duration_ms": 206293,
-      "name": "frog",
-      "url": "https://open.spotify.com/track/0nSw4I1cTMMBZBIk9ChgBn"
     },
     {
       "added_at": "2022-09-30 15:42:07",
@@ -941,22 +961,6 @@
       "url": "https://open.spotify.com/track/0UV2btQxu47HidfjAaM6f8"
     },
     {
-      "added_at": "2022-10-12 03:48:39",
-      "album": {
-        "name": "Strawberry",
-        "url": "https://open.spotify.com/album/0Ijw0q4XzBPKXfDyO2qvkI"
-      },
-      "artists": [
-        {
-          "name": "hanbee",
-          "url": "https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk"
-        }
-      ],
-      "duration_ms": 162782,
-      "name": "Strawberry",
-      "url": "https://open.spotify.com/track/4T4n6TcazA7p6Q4fjYMzev"
-    },
-    {
       "added_at": "2022-09-09 17:04:50",
       "album": {
         "name": "Kill For Your Love",
@@ -1137,22 +1141,6 @@
       "url": "https://open.spotify.com/track/4ltqfN12ohaVZdM6C45gMg"
     },
     {
-      "added_at": "2022-09-30 15:42:07",
-      "album": {
-        "name": "Something In The Way",
-        "url": "https://open.spotify.com/album/5FaKpeU9tSUUq0XCnToxjG"
-      },
-      "artists": [
-        {
-          "name": "b\u00fclow",
-          "url": "https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4"
-        }
-      ],
-      "duration_ms": 179446,
-      "name": "Something In The Way",
-      "url": "https://open.spotify.com/track/3T1MROShKLQerTSz89ykGL"
-    },
-    {
       "added_at": "2022-10-07 23:25:16",
       "album": {
         "name": "Drive",
@@ -1327,6 +1315,22 @@
       "duration_ms": 235464,
       "name": "Summer Love",
       "url": "https://open.spotify.com/track/0eFKx8VwwDiFWFtP3XLHvv"
+    },
+    {
+      "added_at": "2022-08-18 15:56:09",
+      "album": {
+        "name": "Habits",
+        "url": "https://open.spotify.com/album/4KKuhABzFkGE9UAucodfUo"
+      },
+      "artists": [
+        {
+          "name": "Genevieve Stokes",
+          "url": "https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ"
+        }
+      ],
+      "duration_ms": 136733,
+      "name": "Habits",
+      "url": "https://open.spotify.com/track/4UGvqm3e7UElrrriPtnhwz"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -1509,22 +1513,6 @@
       "url": "https://open.spotify.com/track/1rOKAsJZJDIikOKDeUfPRV"
     },
     {
-      "added_at": "2022-08-26 04:40:34",
-      "album": {
-        "name": "YUKON (INTERLUDE)",
-        "url": "https://open.spotify.com/album/0GxWXE6ltKk4Gx3WyWLLrW"
-      },
-      "artists": [
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        }
-      ],
-      "duration_ms": 141093,
-      "name": "YUKON (INTERLUDE)",
-      "url": "https://open.spotify.com/track/6c1yUgFlhUHLAM9hSDkVBq"
-    },
-    {
       "added_at": "2022-09-13 01:10:35",
       "album": {
         "name": "It's Not Just Me, It's Everybody",
@@ -1591,22 +1579,6 @@
       "duration_ms": 145324,
       "name": "Hannah Montana",
       "url": "https://open.spotify.com/track/00ko8Vr9Hbw0hJC9laqBOj"
-    },
-    {
-      "added_at": "2022-08-18 15:56:09",
-      "album": {
-        "name": "Habits",
-        "url": "https://open.spotify.com/album/4KKuhABzFkGE9UAucodfUo"
-      },
-      "artists": [
-        {
-          "name": "Genevieve Stokes",
-          "url": "https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ"
-        }
-      ],
-      "duration_ms": 136733,
-      "name": "Habits",
-      "url": "https://open.spotify.com/track/4UGvqm3e7UElrrriPtnhwz"
     },
     {
       "added_at": "2022-08-08 18:07:14",

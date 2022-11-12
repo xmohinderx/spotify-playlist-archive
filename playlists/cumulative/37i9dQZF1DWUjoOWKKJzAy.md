@@ -4,7 +4,7 @@
 
 > Os hits históricos da década de ouro do rock nacional\. Foto: Cazuza.
 
-77 songs - 4 hr 56 min - [published](https://open.spotify.com/playlist/63TGYg7jcQRjwyH3XEdPgY)
+79 songs - 5 hr 2 min - [published](https://open.spotify.com/playlist/63TGYg7jcQRjwyH3XEdPgY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,8 +39,9 @@
 | [Fullgás](https://open.spotify.com/track/42ChWRndfQZ4AdoUXylEF1) | [Marina Lima](https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol) | [Mulheres da MPB](https://open.spotify.com/album/5xmXt1N4JJU6oupEeC2z2B) | 4:07 | 2020-10-16 | 2022-11-11 |
 | [Fullgás](https://open.spotify.com/track/6HHoojJSxvkAEgPntE0uqZ) | [Marina Lima](https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol) | [TBT Clássicos](https://open.spotify.com/album/5CBYPKEaP58UK4zqVanWaN) | 4:07 | 2020-10-16 |  |
 | [Garota de Berlim](https://open.spotify.com/track/0i2pVaXri1ne58mfEC5TK1) | [Tokyo](https://open.spotify.com/artist/16NdOHGyaRuFv1365u0XEf), [Nina Hagen](https://open.spotify.com/artist/7xZHrltZh8zIRvjimgABvj) | [Tokyo](https://open.spotify.com/album/0IraYmdQ0putFc89YQ3awM) | 3:05 | 2020-10-16 |  |
-| [Independência](https://open.spotify.com/track/4vFUs0A9jyeCZ6pwVBjs2g) | [Capital Inicial](https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d) | [Flashback Anos 80](https://open.spotify.com/album/1mKCvVc1yy8WBKTrLkRYrq) | 3:04 | 2020-10-16 |  |
+| [Independência](https://open.spotify.com/track/4vFUs0A9jyeCZ6pwVBjs2g) | [Capital Inicial](https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d) | [Flashback Anos 80](https://open.spotify.com/album/1mKCvVc1yy8WBKTrLkRYrq) | 3:04 | 2020-10-16 | 2022-11-12 |
 | [Independência](https://open.spotify.com/track/60JUAZcxvMmtkaRsjz73X8) | [Capital Inicial](https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d) | [Independência](https://open.spotify.com/album/4F0VmoCyXZSlAItT7m2Zy2) | 3:04 | 2020-10-16 | 2022-07-29 |
+| [Independência](https://open.spotify.com/track/6H20sp8DxaXk0DBPWR7nW9) | [Capital Inicial](https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d) | [MPB Anos 80](https://open.spotify.com/album/5glUQpAm9Jk7PeeaVieiEB) | 3:04 | 2020-10-16 |  |
 | [Infinita Highway](https://open.spotify.com/track/266WEiJhZI1dNUcOqr7Yzi) | [Engenheiros Do Hawaii](https://open.spotify.com/artist/0GNq4xh8uFCyihPurnunf7) | [A Revolta Dos Dandis](https://open.spotify.com/album/3EYoZQUIKrDPd1teAZbSsC) | 6:12 | 2020-10-16 |  |
 | [Inútil \- Ao vivo](https://open.spotify.com/track/6N8AhWCi6BT4Cf6e1e5Ucv) | [Ultraje a Rigor](https://open.spotify.com/artist/3zkkrMSBLHuTKMI6I3fDWi) | [O mundo encantado do Ultraje a Rigor](https://open.spotify.com/album/1smKZUszVuPtaDHFlGPEwY) | 3:20 | 2020-10-16 |  |
 | [Kátia Flávia, a godiva de irajá](https://open.spotify.com/track/65w02JSphN11anbBIpqUMy) | [Fausto Fawcett](https://open.spotify.com/artist/5qlJRHM85YKmfOdD1fNe2O) | [Rock BR Anos 80](https://open.spotify.com/album/14uoModjaFv43MvZe33mQP) | 4:09 | 2020-10-16 |  |
@@ -83,7 +84,8 @@
 | [Uns Dias](https://open.spotify.com/track/584A0PrNqDNS5pMmCaCgOm) | [Os Paralamas Do Sucesso](https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70) | [Bora Bora](https://open.spotify.com/album/6ofQIUpWZIGOB9b7MY26Az) | 4:04 | 2020-10-16 | 2022-07-29 |
 | [Veraneio Vascaina](https://open.spotify.com/track/1RDIUWZBd4a7K5POj12fOO) | [Capital Inicial](https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d) | [Capital Inicial](https://open.spotify.com/album/05tsAf1h467AEWN46GtKnD) | 2:15 | 2020-10-16 |  |
 | [Vital E Sua Moto](https://open.spotify.com/track/5XKUTawRWuTb8edaGn38gB) | [Os Paralamas Do Sucesso](https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70) | [Cinema Mudo](https://open.spotify.com/album/1ufuoCMD2OXmkUYNDeQxPV) | 3:11 | 2020-10-16 |  |
-| [Você Não Soube Me Amar](https://open.spotify.com/track/1oFImXYOcGQNmMsewaEj2W) | [Blitz](https://open.spotify.com/artist/1POsQml4E21Ku75BirHFMQ) | [Retratos](https://open.spotify.com/album/4i925vFjSrHT6Q8ALj8H1y) | 3:22 | 2020-10-16 |  |
+| [Você Não Soube Me Amar](https://open.spotify.com/track/1oFImXYOcGQNmMsewaEj2W) | [Blitz](https://open.spotify.com/artist/1POsQml4E21Ku75BirHFMQ) | [Retratos](https://open.spotify.com/album/4i925vFjSrHT6Q8ALj8H1y) | 3:22 | 2020-10-16 | 2022-11-12 |
 | [Você Não Soube Me Amar](https://open.spotify.com/track/5uIKGh0ysPZDJEYadog5em) | [Blitz](https://open.spotify.com/artist/1POsQml4E21Ku75BirHFMQ) | [Nova Bis \- Blitz](https://open.spotify.com/album/5E4mboMBKFPpPQC0SOgRnN) | 3:22 | 2020-10-16 | 2022-07-29 |
+| [Você Não Soube Me Amar](https://open.spotify.com/track/0ZgYkbn97uZnXLUopVFTvU) | [Blitz](https://open.spotify.com/artist/1POsQml4E21Ku75BirHFMQ) | [Flashback Anos 80](https://open.spotify.com/album/1mKCvVc1yy8WBKTrLkRYrq) | 3:23 | 2020-10-16 |  |
 
 \*This playlist was first scraped on 2022-01-18. Prior content cannot be recovered.

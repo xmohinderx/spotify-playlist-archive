@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5voeWIyAtr.md) - [plain]
 
 > pongámonos de acuerdo: nos vamos a querer o ahí la vamos a dejar o de nuevo aparentar que aquí no ha pasado nada 💔
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,270 likes - 77 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,397 likes - 77 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5voeWIyAtr.md) - [plain]
 | 66 | [La Curiosidad](https://open.spotify.com/track/4HYDUMY0xSpeBr0AMY9cUz) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Platonicos](https://open.spotify.com/album/5sEpXan86hEcM8eZSAoWhw) | 3:39 |
 | 67 | [París](https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [París](https://open.spotify.com/album/6Ktv94u6eUIZBiUiBwOADD) | 2:31 |
 | 68 | [200 COPAS](https://open.spotify.com/track/0aZnyTWJNgdzYoOiaW8HKG) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [KG0516](https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW) | 3:37 |
-| 69 | [Un Idiota](https://open.spotify.com/track/5susfx6SX1tebTCLSxe74K) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Secreto De Amor](https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV) | 3:19 |
+| 69 | [Un Idiota](https://open.spotify.com/track/455RCfTWiV8eyMusbcl3tx) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Antología: El Poeta Del Pueblo, Vol\. 3 – Sus Grandes Baladas](https://open.spotify.com/album/3AXSIGs7IkCFhepjnBw4yt) | 3:19 |
 | 70 | [Cada Vez Te Extraño Más](https://open.spotify.com/track/70w1mwTod6NgCNV6e7ZlIQ) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [Cada Vez Te Extraño Más](https://open.spotify.com/album/6VmAsJkmfT8qjXbJH5QOQN) | 4:10 |
 | 71 | [Si Te Pudiera Mentir](https://open.spotify.com/track/3p6eieHX6oEOzJStPtEsLu) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Simplemente Gracias](https://open.spotify.com/album/6s3BOoMKnK60Blq4hIh2cq) | 4:15 |
 | 72 | [No Me Conoce \- Remix](https://open.spotify.com/track/4R8BJggjosTswLxtkw8V7P) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Famouz](https://open.spotify.com/album/1V9QpD8kjA2iHCElhFGvlo) | 5:09 |
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5voeWIyAtr.md) - [plain]
 | 76 | [Sobrio](https://open.spotify.com/track/4HzqWEdAbzcVFDv0pvxV4w) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Sobrio](https://open.spotify.com/album/0R1Ygba9KBj95maQnUvZm5) | 3:21 |
 | 77 | [Tengo Todo Excepto a Ti](https://open.spotify.com/track/27XboT5Wb8VOn7A0heo3Ei) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [20 Años](https://open.spotify.com/album/3D9NENGfg4DFmYJrEaxRHd) | 4:32 |
 
-Snapshot ID: `MTY1OTQ3ODI1MSwwMDAwMDAwMDVhMWU5N2VkN2E5NDU0NjM3ZTM4OWYxZDYyNWM1MjVh`
+Snapshot ID: `MTY1OTQ3ODI1MSwwMDAwMDAwMDgzMjljYjJmYjQ3MThiZTJjYjc4ZjU5YWUyZDg1OTdi`

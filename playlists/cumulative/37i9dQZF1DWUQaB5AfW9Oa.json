@@ -456,6 +456,24 @@
     },
     {
       "album": {
+        "name": "1960s Funk For Kids",
+        "url": "https://open.spotify.com/album/1ej7VLBqdxYuJT4BDdmtRn"
+      },
+      "artists": [
+        {
+          "name": "The Impressions",
+          "url": "https://open.spotify.com/artist/1b1N51wmSK0ckxFAMPSSHO"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166333,
+      "name": "It's All Right - Single Version",
+      "url": "https://open.spotify.com/track/3VXcDftpOb1q3uVWov8inK"
+    },
+    {
+      "album": {
         "name": "It's All Right",
         "url": "https://open.spotify.com/album/2wceBDhnDXDtvwsGaSjYsF"
       },
@@ -467,7 +485,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 167973,
       "name": "It's All Right - Single Version",
       "url": "https://open.spotify.com/track/62PQXBFeAgS3iUseNRVPpF"
@@ -827,10 +845,28 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 141066,
       "name": "Sweet Soul Music",
       "url": "https://open.spotify.com/track/2YuIyYri67bgUXKQW5V9XW"
+    },
+    {
+      "album": {
+        "name": "100 Greatest Feel Good",
+        "url": "https://open.spotify.com/album/5PHIHxs0Xiu66Ah511IRFw"
+      },
+      "artists": [
+        {
+          "name": "Arthur Conley",
+          "url": "https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141066,
+      "name": "Sweet Soul Music",
+      "url": "https://open.spotify.com/track/3GECIBplhAMkgQ2pzUfplS"
     },
     {
       "album": {

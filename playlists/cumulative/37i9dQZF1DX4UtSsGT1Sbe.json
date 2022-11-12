@@ -727,7 +727,7 @@
       ],
       "date_added": "2019-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 234493,
       "name": "Arthur's Theme (Best That You Can Do)",
       "url": "https://open.spotify.com/track/5fnOrhQ4KgT5irGCjIccGH"
@@ -1283,7 +1283,7 @@
       ],
       "date_added": "2019-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 343933,
       "name": "Broken Wings",
       "url": "https://open.spotify.com/track/78FHUZRbFDCG6VkRAQdFLm"
@@ -1571,7 +1571,7 @@
       ],
       "date_added": "2019-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2021-05-27",
+      "date_removed": null,
       "duration_ms": 226333,
       "name": "Cheri Cheri Lady",
       "url": "https://open.spotify.com/track/2aEuA8PSqLa17Y4hKPj5rr"
@@ -2659,7 +2659,7 @@
       ],
       "date_added": "2019-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-10-16",
+      "date_removed": null,
       "duration_ms": 265773,
       "name": "Dude (Looks Like A Lady)",
       "url": "https://open.spotify.com/track/6gQUbFwwdYXlKdmqRoWKJe"
@@ -3507,7 +3507,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 256000,
       "name": "Free Fallin'",
       "url": "https://open.spotify.com/track/5tVA6TkbaAH9QMITTQRrNv"
@@ -3579,7 +3579,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 245413,
       "name": "Funkytown - Single Version",
       "url": "https://open.spotify.com/track/0B5kY9i9bmP7554oU4jRoO"
@@ -4545,7 +4545,7 @@
       ],
       "date_added": "2020-05-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 275533,
       "name": "How Will I Know",
       "url": "https://open.spotify.com/track/5tdKaKLnC4SgtDZ6RlWeal"
@@ -4917,7 +4917,7 @@
       ],
       "date_added": "2019-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 277476,
       "name": "I Still Haven't Found What I'm Looking For",
       "url": "https://open.spotify.com/track/6wpGqhRvJGNNXwWlPmkMyO"
@@ -5663,7 +5663,7 @@
       ],
       "date_added": "2020-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2021-10-14",
+      "date_removed": null,
       "duration_ms": 232400,
       "name": "It's My Life - 1997 Remaster",
       "url": "https://open.spotify.com/track/4jhsuQCUCJKA5f0bXb6XdJ"
@@ -6866,6 +6866,24 @@
     },
     {
       "album": {
+        "name": "Love Will Tear Us Apart",
+        "url": "https://open.spotify.com/album/0u0CJa9zwFbGSU8JWQYS5G"
+      },
+      "artists": [
+        {
+          "name": "Joy Division",
+          "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208453,
+      "name": "Love Will Tear Us Apart - 2020 Remaster",
+      "url": "https://open.spotify.com/track/34iOH7LY3vme5rQxsVILZ4"
+    },
+    {
+      "album": {
         "name": "Disintegration (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0H6TddUF2M63ZSHGvhk5yy"
       },
@@ -7129,7 +7147,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 515386,
       "name": "Master of Puppets (Remastered)",
       "url": "https://open.spotify.com/track/54bm2e3tk8cliUz3VSdCPZ"
@@ -7651,7 +7669,7 @@
       ],
       "date_added": "2020-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 270333,
       "name": "Nothing's Gonna Stop Us Now",
       "url": "https://open.spotify.com/track/3X7uFMzJrEE0sxn62qd8Ch"
@@ -8155,7 +8173,7 @@
       ],
       "date_added": "2019-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 520786,
       "name": "Purple Rain",
       "url": "https://open.spotify.com/track/54X78diSLoUDI3joC2bjMz"
@@ -8865,7 +8883,7 @@
       ],
       "date_added": "2019-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 215773,
       "name": "She Drives Me Crazy",
       "url": "https://open.spotify.com/track/4d6eqRtpDX7tydHJGDZUBQ"
@@ -9245,7 +9263,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 238773,
       "name": "Somebody's Watching Me - Single Version",
       "url": "https://open.spotify.com/track/6hci8n9UowepjRmCc6CKTv"
@@ -10227,7 +10245,7 @@
       ],
       "date_added": "2020-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 297853,
       "name": "The Way It Is",
       "url": "https://open.spotify.com/track/6V50MyHPGhEmwYu0Wdyf0t"
@@ -11257,7 +11275,7 @@
       ],
       "date_added": "2020-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 296080,
       "name": "We Built This City",
       "url": "https://open.spotify.com/track/6OnfBiiSc9RGKiBKKtZXgQ"
@@ -11513,7 +11531,7 @@
       ],
       "date_added": "2019-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-18",
+      "date_removed": null,
       "duration_ms": 352906,
       "name": "When Doves Cry",
       "url": "https://open.spotify.com/track/51H2y6YrNNXcy3dfc3qSbA"

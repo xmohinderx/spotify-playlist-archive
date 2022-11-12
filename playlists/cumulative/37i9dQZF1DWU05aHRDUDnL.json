@@ -264,6 +264,24 @@
     },
     {
       "album": {
+        "name": "Howard Stern: Private Parts (The Album) [Music from and Inspired By the Motion Picture]",
+        "url": "https://open.spotify.com/album/66mAZAAcVKgX9NEn99BgUN"
+      },
+      "artists": [
+        {
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        }
+      ],
+      "date_added": "2015-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206693,
+      "name": "Jamie's Cryin'",
+      "url": "https://open.spotify.com/track/511UpUlCkPLy1uiGvLCDdm"
+    },
+    {
+      "album": {
         "name": "Van Halen (Reissue)",
         "url": "https://open.spotify.com/album/7G2PY8yve3Db0PeGsosb4x"
       },
@@ -293,7 +311,7 @@
       ],
       "date_added": "2015-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 209586,
       "name": "Jamie's Cryin' - 2015 Remaster",
       "url": "https://open.spotify.com/track/6MumccCPd4N6qBVdl0gSeM"

@@ -4,11 +4,11 @@
 
 > Essential tracks from "Resident Evil" series\. 25周年を迎えたホラーゲームの金字塔、バイオハザードシリーズの音楽をプレイリストで。©CAPCOM CO., LTD\. ALL RIGHTS RESERVED.
 
-140 songs - 6 hr 12 min - [published](https://open.spotify.com/playlist/3pyCLmWdflZtbUMknvlqpy)
+142 songs - 6 hr 19 min - [published](https://open.spotify.com/playlist/3pyCLmWdflZtbUMknvlqpy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| ["O vendetta di Dio"](https://open.spotify.com/track/7hH6LXm6mHr8g6Lyml8TRC) | [Takeshi Miura](https://open.spotify.com/artist/1Eii6MJjXMNyoRMvCiYDTN) | [Resident Evil: Revelations Original Soundtrack](https://open.spotify.com/album/2U6Zaj3bDEmxWKG3Nt3JDF) | 3:36 | 2021-08-18 |  |
+| ["O vendetta di Dio"](https://open.spotify.com/track/7hH6LXm6mHr8g6Lyml8TRC) | [Takeshi Miura](https://open.spotify.com/artist/1Eii6MJjXMNyoRMvCiYDTN) | [Resident Evil: Revelations Original Soundtrack](https://open.spotify.com/album/2U6Zaj3bDEmxWKG3Nt3JDF) | 3:36 | 2021-08-18 | 2022-11-12 |
 | [A Loving Message](https://open.spotify.com/track/0IpkxoSXOCaFGTYgeLv8si) | [Akiyuki Morimoto](https://open.spotify.com/artist/2b4MlMK1qUkQXlkoVLgs4d) | [RESIDENT EVIL 7 biohazard Original Soundtrack](https://open.spotify.com/album/1B2KgMQBys7mJcdKdf60ZL) | 1:18 | 2021-08-18 |  |
 | [A Loving Message \- Remastered 2021](https://open.spotify.com/track/5Z6ZtSGT5jYave8gprUyY7) | [Akiyuki Morimoto](https://open.spotify.com/artist/2b4MlMK1qUkQXlkoVLgs4d) | [バイオハザードサウンドクロニクルIII](https://open.spotify.com/album/5fDIzjhsSaH5O5eQTSoG2v) | 1:18 | 2021-08-18 | 2022-07-29 |
 | [A Moment Of Relief](https://open.spotify.com/track/3u4nI2PtZquH661kTJHm0i) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [biohazard SOUND CHRONICLE BEST TRACK BOX](https://open.spotify.com/album/3UgsBIpDg2Ap8I2je4xb8y) | 0:56 | 2021-08-18 | 2022-07-29 |
@@ -87,7 +87,8 @@
 | [Prologue](https://open.spotify.com/track/1qxpKgPsS1is1o4Ha15VfH) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [biohazard SOUND CHRONICLE BEST TRACK BOX](https://open.spotify.com/album/1MGsZkc3qudBr8rjhWu8k0) | 2:21 | 2021-08-18 |  |
 | [Promenons\-nous dans les bois](https://open.spotify.com/track/4XQmzDB1YiyEGiElXcoiyJ) | [Shusaku Uchiyama](https://open.spotify.com/artist/0pLnnIJmeRcWMSpOxujSH8) | [BIOHAZARD VILLAGE ORIGINAL SOUNDTRACK](https://open.spotify.com/album/50PXqGjTFAWNNTghrzcviI) | 2:37 | 2021-08-18 | 2022-07-29 |
 | [Promenons\-nous dans les bois](https://open.spotify.com/track/5bfG0VcNhDIYXtxBqGTKev) | [Shusaku Uchiyama](https://open.spotify.com/artist/0pLnnIJmeRcWMSpOxujSH8) | [RESIDENT EVIL VILLAGE ORIGINAL SOUNDTRACK](https://open.spotify.com/album/0OmHth9izCltpC5ggqkLkA) | 2:37 | 2021-08-18 |  |
-| [R.P.D\. Hall](https://open.spotify.com/track/70sKiW5IIhwcGtB1yFHYVE) | [Masami Ueda](https://open.spotify.com/artist/4Zc9ID5YsCSgTf2l00RmiU) | [Resident Evil 2 Original Soundtrack](https://open.spotify.com/album/2zyghKqvMQ5guwNLsnkMp2) | 3:28 | 2021-08-18 |  |
+| [R.P.D\. Hall](https://open.spotify.com/track/70sKiW5IIhwcGtB1yFHYVE) | [Masami Ueda](https://open.spotify.com/artist/4Zc9ID5YsCSgTf2l00RmiU) | [Resident Evil 2 Original Soundtrack](https://open.spotify.com/album/2zyghKqvMQ5guwNLsnkMp2) | 3:28 | 2021-08-18 | 2022-11-12 |
+| [R.P.D\. Hall](https://open.spotify.com/track/16laXao2zlkpCNm2mI72fG) | [Masami Ueda](https://open.spotify.com/artist/4Zc9ID5YsCSgTf2l00RmiU) | [RESIDENTEVIL SOUND CHRONICLE III](https://open.spotify.com/album/04wI5TSN4crQGKGHnV9DTh) | 3:29 | 2021-08-18 |  |
 | [R.P.D\. Hall \- Remastered 2021](https://open.spotify.com/track/5aPvJlbRBX6M8gljYgKjfC) | [Masami Ueda](https://open.spotify.com/artist/4Zc9ID5YsCSgTf2l00RmiU) | [バイオハザードサウンドクロニクルIII](https://open.spotify.com/album/5fDIzjhsSaH5O5eQTSoG2v) | 3:29 | 2021-08-18 | 2022-07-29 |
 | [Rest & Intensify](https://open.spotify.com/track/5qztqNmizH7W2bUirLkb2m) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [Resident Evil: Revelations Original Soundtrack](https://open.spotify.com/album/2U6Zaj3bDEmxWKG3Nt3JDF) | 1:35 | 2021-08-18 | 2022-11-11 |
 | [Rest & Intensify](https://open.spotify.com/track/2Q89Y1Vd8kuiLASZjJtspz) | [Kota Suzuki](https://open.spotify.com/artist/6Bcj2CNhoJ3MHBPNKWlh0y) | [BIOHAZARD REVELATIONS Best Track Collection](https://open.spotify.com/album/6FirwiQDlNNtKaA2LLmf0x) | 1:35 | 2021-08-18 |  |
@@ -142,6 +143,7 @@
 | [Yearning for Dark Shadows](https://open.spotify.com/track/6hlTkQb3dcL3ZXTnUGh1n3) | [Brian D'Oliveira](https://open.spotify.com/artist/6Ma7ZBVsdilEALEnNl5Tgz) | [BIOHAZARD VILLAGE ORIGINAL SOUNDTRACK](https://open.spotify.com/album/50PXqGjTFAWNNTghrzcviI) | 6:02 | 2021-08-18 | 2022-07-29 |
 | [ZERO](https://open.spotify.com/track/0y2AxvTXJbR4LDbItUWNRi) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [biohazard SOUND CHRONICLE BEST TRACK BOX](https://open.spotify.com/album/3UgsBIpDg2Ap8I2je4xb8y) | 1:02 | 2021-08-18 | 2022-07-29 |
 | [ZERO](https://open.spotify.com/track/6PDRxU59psnqdTkBN8XUgF) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [biohazard SOUND CHRONICLE BEST TRACK BOX](https://open.spotify.com/album/1MGsZkc3qudBr8rjhWu8k0) | 1:02 | 2021-08-18 |  |
+| [“O vendetta di Dio”](https://open.spotify.com/track/3kkMktFCeUiSCqqLJ1lnio) | [Takeshi Miura](https://open.spotify.com/artist/1Eii6MJjXMNyoRMvCiYDTN) | [BIOHAZARD REVELATIONS Best Track Collection](https://open.spotify.com/album/6FirwiQDlNNtKaA2LLmf0x) | 3:36 | 2021-08-18 |  |
 | [“O vendetta di Dio” \- Remastered 2021](https://open.spotify.com/track/7yl5tzutKgS06q8SkoTtUh) | [Takeshi Miura](https://open.spotify.com/artist/1Eii6MJjXMNyoRMvCiYDTN) | [バイオハザードサウンドクロニクルIII](https://open.spotify.com/album/5fDIzjhsSaH5O5eQTSoG2v) | 3:36 | 2021-08-18 | 2022-07-29 |
 | [安息](https://open.spotify.com/track/2p9ajoG6FDNmVweyww5mJm) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [biohazard SOUND CHRONICLE BEST TRACK BOX](https://open.spotify.com/album/3UgsBIpDg2Ap8I2je4xb8y) | 0:46 | 2021-08-18 | 2022-07-29 |
 | [安息](https://open.spotify.com/track/4SWsJihJQui0eTwtOTN1Wl) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [biohazard SOUND CHRONICLE BEST TRACK BOX](https://open.spotify.com/album/1MGsZkc3qudBr8rjhWu8k0) | 0:46 | 2021-08-18 |  |

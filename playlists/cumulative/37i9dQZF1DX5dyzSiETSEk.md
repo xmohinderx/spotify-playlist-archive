@@ -4,7 +4,7 @@
 
 > The whole family will enjoy popular hits from yesterday and today!
 
-119 songs - 6 hr 38 min - [published](https://open.spotify.com/playlist/5XFqsyLYlOB2spadiOeuPU)
+121 songs - 6 hr 45 min - [published](https://open.spotify.com/playlist/5XFqsyLYlOB2spadiOeuPU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,8 +13,9 @@
 | [All Star](https://open.spotify.com/track/2P1ZqQq8rQtmV7BLZ0Junn) | [Smash Mouth](https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd) | [Shrek](https://open.spotify.com/album/4fFn4t0JoZrNB3VY4HZ970) | 3:20 | 2020-09-29 |  |
 | [Am I Wrong](https://open.spotify.com/track/1fidCEsYlaVE3pHwKCvpFZ) | [Nico & Vinz](https://open.spotify.com/artist/0awl5piYwO0CDTHEkCjUhn) | [Black Star Elephant](https://open.spotify.com/album/6zXb9FQMzawvY2Au8Kxky3) | 4:05 | 2020-09-29 |  |
 | [Better When I'm Dancin'](https://open.spotify.com/track/5k5fWendNngd89O8JKoE8L) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Better When I'm Dancin'](https://open.spotify.com/album/6C2AXbI5gZZ0eEFEQY83yH) | 2:56 | 2020-09-29 |  |
+| [Black Magic](https://open.spotify.com/track/0ABDzNYFRcW6ltSQ3Bq2aQ) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Feel Good Friday](https://open.spotify.com/album/1bNlBFmUkqsRu6Fsa9jzAV) | 3:30 | 2022-07-22 |  |
 | [Black Magic](https://open.spotify.com/track/5y6pj7OeBFF0CVgZKhRbOG) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Get Weird \(Deluxe\)](https://open.spotify.com/album/4bzVI1FElc13HQagFR7S1W) | 3:31 | 2020-09-29 | 2022-07-29 |
-| [Black Magic](https://open.spotify.com/track/6rmXhRIemCTPyMYZRDN7Qg) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Get Weird \(Expanded Edition\)](https://open.spotify.com/album/2FnfZiFMv7bmXAIATOJDHs) | 3:31 | 2022-07-22 |  |
+| [Black Magic](https://open.spotify.com/track/6rmXhRIemCTPyMYZRDN7Qg) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Get Weird \(Expanded Edition\)](https://open.spotify.com/album/2FnfZiFMv7bmXAIATOJDHs) | 3:31 | 2022-07-22 | 2022-11-12 |
 | [Blame It on Me](https://open.spotify.com/track/2Zgnaip1c876zmBhz9HifI) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Wanted on Voyage](https://open.spotify.com/album/5tF2lAa2rh2kU2xIiBzWia) | 3:15 | 2020-09-29 | 2022-07-29 |
 | [Blame It on Me](https://open.spotify.com/track/2vzMWO0T008m86yDnXwkII) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Wanted on Voyage \(Expanded Edition\)](https://open.spotify.com/album/6mcMKGEgukjyiR5IKElQ2E) | 3:16 | 2022-07-22 | 2022-11-11 |
 | [Blame It on Me](https://open.spotify.com/track/40Iqtkj3h3BC0CajN7MAmm) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [george ezra songs to play when the sun's out](https://open.spotify.com/album/42HhMLPT9krj1wX9WbxaYy) | 3:16 | 2022-07-22 |  |
@@ -106,7 +107,8 @@
 | [Sweet but Psycho](https://open.spotify.com/track/5UQe0mUQaoCJ60LHpOLrGR) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [A Sweet but Psycho Halloween](https://open.spotify.com/album/1SgQFgwjMyZG0B00SurN0T) | 3:07 | 2022-07-22 |  |
 | [Sweet but Psycho](https://open.spotify.com/track/7DnAm9FOTWE3cUvso43HhI) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 3:07 | 2022-07-22 | 2022-11-11 |
 | [Sweet Dream](https://open.spotify.com/track/1BIKSPrF0M1U6u83MTKmDu) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Sweet Dream](https://open.spotify.com/album/2StstfzDqLhNXWowiBSeHr) | 3:01 | 2021-08-04 |  |
-| [Swing, Swing](https://open.spotify.com/track/003FTlCpBTM4eSqYSWPv4H) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [The All\-American Rejects](https://open.spotify.com/album/0TvOeelcHQXYgPcyQiLhyR) | 3:53 | 2022-07-22 |  |
+| [Swing, Swing](https://open.spotify.com/track/003FTlCpBTM4eSqYSWPv4H) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [The All\-American Rejects](https://open.spotify.com/album/0TvOeelcHQXYgPcyQiLhyR) | 3:53 | 2022-07-22 | 2022-11-12 |
+| [Swing, Swing](https://open.spotify.com/track/27kE8Qy4ui0a0um1TLNkKi) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [New Year's Pop Rock Party](https://open.spotify.com/album/69MnR5AvIaVYy4yywgN6Ih) | 3:53 | 2022-07-22 |  |
 | [Swing, Swing](https://open.spotify.com/track/4jVhSbMMHctghoOTFuLPB2) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [The All\-American Rejects](https://open.spotify.com/album/6sPphURA5x4AkQXudmstAi) | 3:53 | 2020-09-29 | 2022-07-29 |
 | [Take My Breath \- Single Version](https://open.spotify.com/track/6OGogr19zPTM4BALXuMQpF) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Take My Breath](https://open.spotify.com/album/6DmXKM13nNgIIby2FdK0f8) | 3:40 | 2021-08-06 |  |
 | [The Archer](https://open.spotify.com/track/3pHkh7d0lzM2AldUtz2x37) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:31 | 2020-09-29 |  |

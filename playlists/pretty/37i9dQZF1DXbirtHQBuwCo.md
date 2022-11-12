@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbirtHQBuwCo.md) - [plain]
 
 > Trendy & Chill 한국 R&B\. Be laid\-back with groovy K\-R&B\. \(Cover: SAAY\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 811,556 likes - 70 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 811,759 likes - 70 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbirtHQBuwCo.md) - [plain]
 | 16 | [ONLY](https://open.spotify.com/track/6TBJkXHPhu3EsMk1bshwuI) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [4 ONLY](https://open.spotify.com/album/1DKgZeAYrjslAPZVMe6EFt) | 4:00 |
 | 17 | [Ballroom Extravaganza](https://open.spotify.com/track/4vJfBno2d0mTjMcYn5lEln) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Moodswings In To Order](https://open.spotify.com/album/7vp2iMEQzhNX4sEIUbHpiJ) | 3:09 |
 | 18 | [LOVE COUNTDOWN \(Feat\. Wonstein\)](https://open.spotify.com/track/0GnydTKmczMoKOEl1D4URI) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [IM NAYEON](https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw) | 3:17 |
-| 19 | [Animal Farm](https://open.spotify.com/track/3gAXVQOR0h7Ks71lsr5MFZ) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Animal Farm](https://open.spotify.com/album/3Wn89ahl9ccGAxrjIB8Tvt) | 3:23 |
-| 20 | [The Weekend](https://open.spotify.com/track/5q3LwAHTqo9d3rET2EA9Nq) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [The Weekend](https://open.spotify.com/album/6zQD9g698P2LjEtKpoBXWq) | 2:47 |
+| 19 | [The Weekend](https://open.spotify.com/track/5q3LwAHTqo9d3rET2EA9Nq) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [The Weekend](https://open.spotify.com/album/6zQD9g698P2LjEtKpoBXWq) | 2:47 |
+| 20 | [Animal Farm](https://open.spotify.com/track/3gAXVQOR0h7Ks71lsr5MFZ) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Animal Farm](https://open.spotify.com/album/3Wn89ahl9ccGAxrjIB8Tvt) | 3:23 |
 | 21 | [Birthday](https://open.spotify.com/track/2cbllYULJNYhcDK37Uh8hR) | [TEN](https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ) | [Birthday \- SM STATION : NCT LAB](https://open.spotify.com/album/6tcPTRUC3gwmG1iyWyzRzr) | 3:41 |
 | 22 | [GANADARA \(Feat\. IU\)](https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [GANADARA](https://open.spotify.com/album/4cwyl5ynvYVojZRbZ3dSFH) | 3:23 |
 | 23 | [Attention](https://open.spotify.com/track/2pIUpMhHL6L9Z5lnKxJJr9) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 3:00 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbirtHQBuwCo.md) - [plain]
 | 50 | [HOLO](https://open.spotify.com/track/4BSluGpjdLQihMmKgHXMxp) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [HOLO](https://open.spotify.com/album/5xq9sm0jGMMDu5LifpBBo1) | 2:58 |
 | 51 | [What 2 Do](https://open.spotify.com/track/6GS3lnAVy5w6AHWEKYzYeS) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [Jeff Bernat](https://open.spotify.com/artist/2vVT4qoxWje0gVD2FiWZ4u) | [130 Mood : TRBL](https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU) | 3:44 |
 | 52 | [Lovers In The Night](https://open.spotify.com/track/2dX2W20qzwqM6G910woDKo) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [Lovers In The Night](https://open.spotify.com/album/5qewqwnafgBx455s6LNcWv) | 3:30 |
-| 53 | [Winter blossom](https://open.spotify.com/track/1ynuDDHKN7P7fmJEljdCLd) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Ashley Alisha](https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk), [nobody likes you pat](https://open.spotify.com/artist/7pxMZWBZWMMRH3USeGtu1I) | [Spring in Winter](https://open.spotify.com/album/3J9hWyRg3THDctWGtQOgLE) | 2:48 |
-| 54 | [Make Up \(Feat\. Crush\)](https://open.spotify.com/track/19zsSUEuJNzNA6eqInqyF9) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Sun And Moon](https://open.spotify.com/album/0AsQlY5YENtlvd8SLnrSxX) | 3:27 |
+| 53 | [Make Up \(Feat\. Crush\)](https://open.spotify.com/track/19zsSUEuJNzNA6eqInqyF9) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Sun And Moon](https://open.spotify.com/album/0AsQlY5YENtlvd8SLnrSxX) | 3:27 |
+| 54 | [Winter blossom](https://open.spotify.com/track/1ynuDDHKN7P7fmJEljdCLd) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Ashley Alisha](https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk), [nobody likes you pat](https://open.spotify.com/artist/7pxMZWBZWMMRH3USeGtu1I) | [Spring in Winter](https://open.spotify.com/album/3J9hWyRg3THDctWGtQOgLE) | 2:48 |
 | 55 | [Slow Mo](https://open.spotify.com/track/2stElshTCkdXTnCkD9moQF) | [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr) | [B](https://open.spotify.com/album/1J1S8EQgILHHmy64ouQXh7) | 2:32 |
 | 56 | [Love Again](https://open.spotify.com/track/4dYODiAYvJHWQJtNganYCY) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Delight \- The 2nd Mini Album](https://open.spotify.com/album/75sPv82oaDKYjtuuS4l3Vc) | 3:25 |
 | 57 | [Need To Know](https://open.spotify.com/track/0CqZryIJnJhwCCnECIC7Lr) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Need To Know](https://open.spotify.com/album/4IGSbTfm3Xwmp8up7pOR3t) | 2:49 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbirtHQBuwCo.md) - [plain]
 | 69 | [Running Through The Night](https://open.spotify.com/track/3UZ46DvXvB2R7sBUZornlv) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [?depacse ohw](https://open.spotify.com/album/0srUbfZOMUBwUitQGQeUca) | 3:37 |
 | 70 | [nostalgia](https://open.spotify.com/track/6472TSRvXlqcmg3iSh4GEi) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT) | [nostalgia](https://open.spotify.com/album/7posuhCeCtSWbHS2BJTuIG) | 3:16 |
 
-Snapshot ID: `MTY2Nzk4MDc5NCwwMDAwMDAwMDY1ZjJiM2UxNmU1NWQwZjU2MjFlNzRjY2ZlNjRkNTQ2`
+Snapshot ID: `MTY2Nzk4MDc5NCwwMDAwMDAwMDdkMTE3ZmI1Nzg3YTk3MmNkZTAxOWVkMTgzYmYxYzUz`

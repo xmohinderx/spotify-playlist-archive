@@ -4,7 +4,7 @@
 
 > The best new electronic music from Electronica to Techno\. Cover: Adana Twins
 
-1,011 songs - 3 day 20 hr 32 min - [published](https://open.spotify.com/playlist/1PJKlmQboCNGXvNYEgYkxk)
+1,013 songs - 3 day 20 hr 41 min - [published](https://open.spotify.com/playlist/1PJKlmQboCNGXvNYEgYkxk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -476,7 +476,8 @@
 | [Izinto](https://open.spotify.com/track/1LlwsPj31pfx68XXW96vBu) | [Blindsmyth](https://open.spotify.com/artist/316jj0bjhfXGHGBEraGy7P), [Toshi](https://open.spotify.com/artist/6G621T2CmHyx5LCvd8QE63) | [Izinto](https://open.spotify.com/album/2ux1S2Nz5C0MoJhfgKIbQ0) | 4:35 | 2022-11-03 |  |
 | [Jama](https://open.spotify.com/track/0qrFuzJksG1vm1u67m7IM2) | [Lian Gold](https://open.spotify.com/artist/5NgAdRVBzrOLKRQ8RRvBx4), [Erika Krall](https://open.spotify.com/artist/1mFosR8GfDea3Vvdfcz48W) | [Jama](https://open.spotify.com/album/20hK6YrkLQdgzl6V50k9As) | 6:14 | 2022-04-14 | 2022-04-22 |
 | [Jetzt neu: alles wie früher \- DJ Hell X Gregor Tresher Remix](https://open.spotify.com/track/2Yynt0XrPryvK9Cr9MaMTy) | [Extrawelt](https://open.spotify.com/artist/3VRvi42U8SsiT4YKP5LNCB), [DJ Hell](https://open.spotify.com/artist/4WgFczZafuUFBvsCuSK44C), [Gregor Tresher](https://open.spotify.com/artist/3vy8oQAubj1IykJLLqvVFC) | [Jetzt neu: alles wie früher \(DJ Hell X Gregor Tresher Remix\)](https://open.spotify.com/album/490skbxrkWAqdKCpV18I57) | 7:14 | 2022-07-21 | 2022-08-05 |
-| [Jonas](https://open.spotify.com/track/3APO1IJAQXPormFs1hamQ5) | [Helena Hauff](https://open.spotify.com/artist/1JcefSOP7bcWEluL0iEIaN) | [Living With Ladybirds](https://open.spotify.com/album/5oV0oAE2o8EgbXnDp7ApFR) | 4:01 | 2022-11-11 |  |
+| [Jonas](https://open.spotify.com/track/1G3rTe2rXxU1EsIVFkvtCp) | [Helena Hauff](https://open.spotify.com/artist/1JcefSOP7bcWEluL0iEIaN) | [Living With Ladybirds](https://open.spotify.com/album/1UKnsGSYSHQ3HtNkcbnuaE) | 4:01 | 2022-11-11 |  |
+| [Jonas](https://open.spotify.com/track/3APO1IJAQXPormFs1hamQ5) | [Helena Hauff](https://open.spotify.com/artist/1JcefSOP7bcWEluL0iEIaN) | [Living With Ladybirds](https://open.spotify.com/album/5oV0oAE2o8EgbXnDp7ApFR) | 4:01 | 2022-11-11 | 2022-11-12 |
 | [Jungle](https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Jungle](https://open.spotify.com/album/3iDLGLmecmdkmdxYmuol5d) | 3:18 | 2022-06-30 | 2022-07-22 |
 | [Jungly](https://open.spotify.com/track/57wY9yZ77WATPMwVIdwmwq) | [Guille Placencia](https://open.spotify.com/artist/0flK7a9sS4TEcCYVNUaiXU), [George Privatti](https://open.spotify.com/artist/2sasskQYJB0zDfvUUtw0L6) | [Jungly](https://open.spotify.com/album/0g2MmQWQ3SYDW2EN0cZNe9) | 6:15 | 2022-08-12 | 2022-08-26 |
 | [Just Stay](https://open.spotify.com/track/2xerM05DvoPwjjU7A6Nf6E) | [Carbon](https://open.spotify.com/artist/5BSvQ8klrDFPpCJ3TujFoK), [Lampe](https://open.spotify.com/artist/7hvD2Cs8fbF3HvhQCmV3xq) | [Just Stay](https://open.spotify.com/album/3ICIxhIjalYHcf1slfsD64) | 6:12 | 2022-07-28 | 2022-08-19 |
@@ -682,7 +683,8 @@
 | [Pitchblack](https://open.spotify.com/track/6GmKCDCug0MntvzR8flnb2) | [Rauschhaus](https://open.spotify.com/artist/5Mxbf9xF3V5bIL5l0xHdzM) | [Pitchblack \| Lupus](https://open.spotify.com/album/5xbLIFCB2DXv6rX1mxgK1y) | 7:00 | 2022-07-28 | 2022-08-19 |
 | [Planet F](https://open.spotify.com/track/7zL8LOU2Wzhc48ObFxOUq8) | [Moritz Hofbauer](https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE) | [Planet F](https://open.spotify.com/album/2GNTFKRmaZkZSzxGcSAKeQ) | 4:01 | 2022-04-14 | 2022-05-06 |
 | [Plastic Dream](https://open.spotify.com/track/16S7W3yMOD4JmVqIXfSQLc) | [Darksidevinyl](https://open.spotify.com/artist/7JgdmzLGGrt808y5C1STh0) | [Plastic Dream](https://open.spotify.com/album/45CEYxlKWM3NpTVMFcEChf) | 5:55 | 2022-08-18 | 2022-09-09 |
-| [Plastic Future](https://open.spotify.com/track/24QrA5p9SFIIhJbXujnmGz) | [Gold Panda](https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk) | [The Work](https://open.spotify.com/album/0J3pUfI0BKBt2oRmYgNHaA) | 5:37 | 2022-11-11 |  |
+| [Plastic Future](https://open.spotify.com/track/24QrA5p9SFIIhJbXujnmGz) | [Gold Panda](https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk) | [The Work](https://open.spotify.com/album/0J3pUfI0BKBt2oRmYgNHaA) | 5:37 | 2022-11-11 | 2022-11-12 |
+| [Plastic Future](https://open.spotify.com/track/3r0MPlszKS3iIYcZOAJDME) | [Gold Panda](https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk) | [The Work](https://open.spotify.com/album/6WgLRmwO5Kljv9GjDiRHnV) | 5:37 | 2022-11-11 |  |
 | [Platia](https://open.spotify.com/track/6wbYCyePXvS1XCsMigiZTI) | [FOVOS](https://open.spotify.com/artist/1ccmwHm4DPRPR12TZVWdu8) | [Platia](https://open.spotify.com/album/392IhxcdGrDfekRvmCREOl) | 3:12 | 2022-05-26 | 2022-06-17 |
 | [Plato](https://open.spotify.com/track/5eQhX9iv6jDuzaGi6N4z0V) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR), [Cherry \(UA\)](https://open.spotify.com/artist/6xuIqCB0qedzXRYmj7fsGq) | [Plato](https://open.spotify.com/album/4fsQTws2mzQ0p6IemZb0oU) | 4:25 | 2022-08-25 | 2022-09-17 |
 | [Plenty Of Nothing \- Olivier Weiter Remix](https://open.spotify.com/track/0qu7FhmTVlYrig8Sxka1g7) | [Dole & Kom](https://open.spotify.com/artist/5iVuj2TcNIEBNnzGk97vfT), [Johanson](https://open.spotify.com/artist/5oNwxILfJ5rJhMaFdwB9tN), [Olivier Weiter](https://open.spotify.com/artist/32igBIB7PD2T5aJktoB3AS) | [Plenty Of Nothing feat\. Johanson \(Olivier Weiter Remix\)](https://open.spotify.com/album/2hRX5oPhOsNebbl0g3hxFn) | 6:03 | 2022-04-14 | 2022-05-06 |

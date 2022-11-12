@@ -2,9 +2,9 @@
 
 ### [New Blood](https://open.spotify.com/playlist/37i9dQZF1DXdiUbJTV2anj)
 
-> Heavy new bands you need to have an eye on\. Cover: Bloodywood
+> Heavy new bands you need to have an eye on\. Cover: VCTMS
 
-109 songs - 6 hr 23 min - [published](https://open.spotify.com/playlist/0gTCJ5PNCODVC0yVCIKhB7)
+110 songs - 6 hr 26 min - [published](https://open.spotify.com/playlist/0gTCJ5PNCODVC0yVCIKhB7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Mirror Glue](https://open.spotify.com/track/0fEWlqJr3lJXEXmLk7KFOD) | [thoughtcrimes](https://open.spotify.com/artist/7xJ6tFnLODDMEhhlj6ftop) | [Mirror Glue](https://open.spotify.com/album/5vuqiIimLosYL6Gql82oXV) | 5:11 | 2022-08-26 |  |
 | [Misanthropist](https://open.spotify.com/track/0SK1Z1ewBm4jpfOJWTisIt) | [SHIVA](https://open.spotify.com/artist/1yO2jcxDN0jGO6aaSGvYSj) | [Misanthropist](https://open.spotify.com/album/0oBeYD4S7Uqr6qHxup53BB) | 3:46 | 2022-07-29 | 2022-09-17 |
 | [Misery Made Its Home in Me](https://open.spotify.com/track/6M5iR5gvxhkMvs4wpBpZQ1) | [The Escape Artist](https://open.spotify.com/artist/1wth8NJW8FHh2XtnAGKguk) | [Pursuing Love at Its Darkest](https://open.spotify.com/album/3U2McQehfcjpSKFTvFcUsk) | 3:58 | 2022-07-29 | 2022-08-20 |
+| [Mr Medicine](https://open.spotify.com/track/48tHXTsLgLIU4fJNv13LIy) | [Pigs Pigs Pigs Pigs Pigs Pigs Pigs](https://open.spotify.com/artist/1F7QDWyZTLGzkyGLgFjEhU) | [Mr Medicine](https://open.spotify.com/album/61YA2rZJLN30UgkVRlHwZM) | 2:26 | 2022-11-11 |  |
 | [My Demon](https://open.spotify.com/track/7tWHAHMCxxyoxEWafamf3F) | [Points of Conception](https://open.spotify.com/artist/6wQON4XetnZiflTlfsrknf) | [My Demon](https://open.spotify.com/album/0HY8gcdCCNbZnM5cQKnnJH) | 3:01 | 2022-07-29 | 2022-08-20 |
 | [MY DRUGS ARE DIGITAL](https://open.spotify.com/track/5RXtSYCPSDSGwCFmcDSY7e) | [Holy Wars](https://open.spotify.com/artist/2dTOWcCL0cYviin0Uz1lj4) | [EAT IT UP SPIT IT OUT \(DELUXE\)](https://open.spotify.com/album/1aoggoBvLRKQlyozAjfcsK) | 2:53 | 2022-09-09 |  |
 | [NADA](https://open.spotify.com/track/3Hci2iLarYEtZxuQBfIgyZ) | [DEATHSTARE](https://open.spotify.com/artist/1Dr4YjNKFhztnwAIG5iPzC), [screwyounick](https://open.spotify.com/artist/6uUXtzAE4Rm9nuLTdh9YxK), [JOLLY WRLD](https://open.spotify.com/artist/6iQQaCotqs1waJnO44rGt4), [Kamiyada+](https://open.spotify.com/artist/7cB6KjTm98hhNE9eeyhcnF) | [NADA](https://open.spotify.com/album/3YRtscvxhy9ypjoZ1i4U2s) | 2:17 | 2022-07-29 | 2022-09-03 |

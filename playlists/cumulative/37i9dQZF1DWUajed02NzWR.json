@@ -1732,6 +1732,32 @@
     },
     {
       "album": {
+        "name": "Schubert: The Symphonies",
+        "url": "https://open.spotify.com/album/5FsOC7uLO8taQdw3srZeO4"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Chamber Orchestra of Europe",
+          "url": "https://open.spotify.com/artist/1VfDXOsmvKAtebAZ9KxQhC"
+        },
+        {
+          "name": "Claudio Abbado",
+          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
+        }
+      ],
+      "date_added": "2020-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 572933,
+      "name": "Symphony No. 5 in B Flat Major, D. 485: II. Andante con moto",
+      "url": "https://open.spotify.com/track/0uYFmyWGIAGdbYvBseRWl5"
+    },
+    {
+      "album": {
         "name": "Schubert: 8 Symphonies; Rosamunde; Grand Duo",
         "url": "https://open.spotify.com/album/2G7OaFz0poHFHbqBAb6drn"
       },
@@ -1751,7 +1777,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 572933,
       "name": "Symphony No. 5 in B Flat Major, D. 485: II. Andante con moto",
       "url": "https://open.spotify.com/track/3Ru6k46VJpuMUh7lukQLVG"
@@ -2033,10 +2059,32 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 237960,
       "name": "Widmung, Op. 25 No. 1",
       "url": "https://open.spotify.com/track/2ml2xRwuFLv7NtDPzyssfL"
+    },
+    {
+      "album": {
+        "name": "Sleep with Classical Music",
+        "url": "https://open.spotify.com/album/4YgrKIpn8eZNvGSm4dz7xT"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Martin James Bartlett",
+          "url": "https://open.spotify.com/artist/6zWfzjBaMu0anAw2kHMW0O"
+        }
+      ],
+      "date_added": "2020-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237960,
+      "name": "Widmung, Op. 25 No. 1",
+      "url": "https://open.spotify.com/track/2rbB9tFpJdjAkO9XHf0AJZ"
     },
     {
       "album": {

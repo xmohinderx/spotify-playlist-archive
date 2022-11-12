@@ -4,7 +4,7 @@
 
 > Can you keep up? Get moving to the rapid rhythms of Footwork & Juke, originating in 1990s Chicago\. Cover: DJ Manny
 
-117 songs - 7 hr 8 min - [published](https://open.spotify.com/playlist/3oCTRz60otx3xUwTM6srZy)
+119 songs - 7 hr 14 min - [published](https://open.spotify.com/playlist/3oCTRz60otx3xUwTM6srZy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,8 +99,9 @@
 | [Next Subject](https://open.spotify.com/track/6KnzZDxeaW7BLHXep6roA4) | [DJ Curt](https://open.spotify.com/artist/7fhA2N9tmCmCnmiQrkDqyA) | [Footwork Frenzy Ep](https://open.spotify.com/album/6kyXFMA96qp261FU2pnksI) | 5:03 | 2020-12-03 |  |
 | [No Cap 4 2020 \- SBF14](https://open.spotify.com/track/2MPzyS96YOHV8789Bk8j9p) | [DJ Earl](https://open.spotify.com/artist/3Y6Xd3ZOlhkroMrz1Bmo0Y) | [No Cap 4 2020 \(SBF14\)](https://open.spotify.com/album/5MgKGMeW2RO46jiF0R1v2R) | 2:37 | 2020-12-03 |  |
 | [Nycfw](https://open.spotify.com/track/3EQA4h2oX2HsqUXwmb9EMs) | [Dj Spaldin](https://open.spotify.com/artist/2TWLvBrhwsGGnd10vmtIBj) | [Heavy on DA Footwork](https://open.spotify.com/album/3cwJ07tqWWspBoeWQvWBYJ) | 4:06 | 2020-12-03 |  |
-| [One Blood](https://open.spotify.com/track/0ydUOg7O89rwt6cVteWJ2B) | [DJ Roc](https://open.spotify.com/artist/3M5fbUWlySs9LximfJj5Da) | [The Crack Capone](https://open.spotify.com/album/4vOJ3wYsBpJXigwlJ7zpDC) | 2:47 | 2020-12-03 |  |
+| [One Blood](https://open.spotify.com/track/0ydUOg7O89rwt6cVteWJ2B) | [DJ Roc](https://open.spotify.com/artist/3M5fbUWlySs9LximfJj5Da) | [The Crack Capone](https://open.spotify.com/album/4vOJ3wYsBpJXigwlJ7zpDC) | 2:47 | 2020-12-03 | 2022-11-12 |
 | [One Blood](https://open.spotify.com/track/1lw1zYHWWl7sXlQgqqJE4Y) | [DJ Roc](https://open.spotify.com/artist/3M5fbUWlySs9LximfJj5Da) | [Bangs & Works, Vol.1: A Chicago Footwork Compilation](https://open.spotify.com/album/7jm8RDfHY8ezdu5zEn4I2y) | 2:48 | 2020-12-03 | 2022-07-29 |
+| [One Blood](https://open.spotify.com/track/3L2SBN8yNfxxWkJl3YwsVN) | [DJ Roc](https://open.spotify.com/artist/3M5fbUWlySs9LximfJj5Da) | [Bangs & Works, Vol.1: A Chicago Footwork Compilation](https://open.spotify.com/album/1P8EYmCJmjYhtMhR2H3h4m) | 2:48 | 2020-12-03 |  |
 | [Overture of Spaldin](https://open.spotify.com/track/764tyXjLix45eNDYsWIFxw) | [Dj Spaldin](https://open.spotify.com/artist/2TWLvBrhwsGGnd10vmtIBj) | [Heavy on DA Footwork](https://open.spotify.com/album/3cwJ07tqWWspBoeWQvWBYJ) | 3:52 | 2020-12-03 |  |
 | [Pass That](https://open.spotify.com/track/4YKjrt7cGTQnu97OgKaFgC) | [DJ Rashad](https://open.spotify.com/artist/4zGBj9dI63YIWmZkPl3o7V), [Tripletrain](https://open.spotify.com/artist/47UATnEOiiEMa2OFvZjv6i), [DJ Spinn](https://open.spotify.com/artist/0ZGOz1bQgvsT4KSzHB1dg9) | [Afterlife](https://open.spotify.com/album/0lFoUvjrmqtll233XwCyko) | 3:13 | 2020-12-03 |  |
 | [Pop Drop](https://open.spotify.com/track/1IrZcCsY92EhaqCA2QVSsH) | [DJ Paypal](https://open.spotify.com/artist/4hH4fEXPg3qpTDlmdNOO01), [DJ Taye](https://open.spotify.com/artist/4T1sY4aibm24hxfz9JnI7c) | [Computers Smarter Than People](https://open.spotify.com/album/3Hj551CuSFPhth9J6ffqcG) | 2:37 | 2020-12-03 |  |
@@ -116,7 +117,8 @@
 | [Still Geekin'](https://open.spotify.com/track/0TnVZ2ObWc4TeRZiFUEIoL) | [DJ Orange Julius](https://open.spotify.com/artist/4DiPpabfaBSsHYvjlPkazH) | [The Grove](https://open.spotify.com/album/0KRdcfl8C4iPEhmw0Qgwce) | 2:30 | 2020-12-03 |  |
 | [Tear It Up](https://open.spotify.com/track/44UIC6KMStyShoIvRyNSHP) | [Turk Turkelton](https://open.spotify.com/artist/1RJ1QHgaJoiAd1czuhS00d) | [Worldwidejuke Vol.2](https://open.spotify.com/album/5bsOhjBEJ7O3rQGzlmyWPs) | 4:39 | 2020-12-03 |  |
 | [Trippin'](https://open.spotify.com/track/0mmde5walUcEMrhlCWKsrq) | [DJ Taye](https://open.spotify.com/artist/4T1sY4aibm24hxfz9JnI7c) | [Still Trippin'](https://open.spotify.com/album/7xDFC6tA0ADGOv3NmIM7rE) | 3:13 | 2020-12-03 | 2022-07-29 |
-| [Trippin'](https://open.spotify.com/track/49Cxo7HnU6TyR8sLkc2oJk) | [DJ Taye](https://open.spotify.com/artist/4T1sY4aibm24hxfz9JnI7c) | [Still Trippin'](https://open.spotify.com/album/403PDAWEhyjyf8hW0hqZrg) | 3:13 | 2020-12-03 |  |
+| [Trippin'](https://open.spotify.com/track/1w8J2Iw9KIvq05qplNfiep) | [DJ Taye](https://open.spotify.com/artist/4T1sY4aibm24hxfz9JnI7c) | [Trippin'](https://open.spotify.com/album/4DzpBC8jo4fYnECu1TKLQV) | 3:13 | 2020-12-03 |  |
+| [Trippin'](https://open.spotify.com/track/49Cxo7HnU6TyR8sLkc2oJk) | [DJ Taye](https://open.spotify.com/artist/4T1sY4aibm24hxfz9JnI7c) | [Still Trippin'](https://open.spotify.com/album/403PDAWEhyjyf8hW0hqZrg) | 3:13 | 2020-12-03 | 2022-11-12 |
 | [Turn Up](https://open.spotify.com/track/2r9821O4VvvqaRQles7VlL) | [Nangdo](https://open.spotify.com/artist/3q8bo1K12TtwbvsPiwJWDi) | [High On Clouds](https://open.spotify.com/album/3ackwT9BASzdzkoTgqBS67) | 3:14 | 2020-12-03 |  |
 | [Turn Up](https://open.spotify.com/track/5Qdcx5xvBBckTVyYiHdQuN) | [Nangdo](https://open.spotify.com/artist/3q8bo1K12TtwbvsPiwJWDi) | [High on Clouds](https://open.spotify.com/album/7daVVI2wd8FIhzWyWtpq8N) | 3:14 | 2020-12-03 | 2022-07-28 |
 | [Way You Move](https://open.spotify.com/track/4HJADIxeKfoDyE3HVLzxif) | [DJ Manny](https://open.spotify.com/artist/5whJkWAzwCYfeetVpUJKn7), [DJ Chap](https://open.spotify.com/artist/09SMSRxhT4hiqiEAtIv69G) | [Greenlight](https://open.spotify.com/album/39Ir1QmErVs5OlVthfAoFq) | 3:13 | 2020-12-03 |  |

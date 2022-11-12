@@ -1,12 +1,12 @@
 {
   "description": "Classic songs that built the foundations of punk.",
-  "num_followers": 1435107,
+  "num_followers": 1435417,
   "original_name": "Classic Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzE2MDQwMCwwMDAwMDAwMDJjZWUyMTI5MjM2OTQzYmE1MWViNDRhMzZiNTc4Njgx",
+  "snapshot_id": "MTY2MzE2MDQwMCwwMDAwMDAwMGU5ZmMwNGEwOTkxM2NhZmIzMTQwYjVlNjIzYmU0ZjJj",
   "tracks": [
     {
       "added_at": "2022-06-21 19:07:54",
@@ -27,22 +27,6 @@
     {
       "added_at": "2021-10-06 09:12:22",
       "album": {
-        "name": "Unknown Pleasures (Collector's Edition)",
-        "url": "https://open.spotify.com/album/33qkK1brpt6t8unIpeM2Oy"
-      },
-      "artists": [
-        {
-          "name": "Joy Division",
-          "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
-        }
-      ],
-      "duration_ms": 209039,
-      "name": "Disorder - 2007 Remaster",
-      "url": "https://open.spotify.com/track/5fbQCQt91LsVgXusFS0CCD"
-    },
-    {
-      "added_at": "2021-10-06 09:12:22",
-      "album": {
         "name": "The Runaways",
         "url": "https://open.spotify.com/album/5DVNCzpvDrSEIFiU7hm8ey"
       },
@@ -59,22 +43,6 @@
     {
       "added_at": "2021-10-06 09:12:22",
       "album": {
-        "name": "Road to Ruin (40th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/43zbrwwFHh5e7cmDQomx8Z"
-      },
-      "artists": [
-        {
-          "name": "Ramones",
-          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
-        }
-      ],
-      "duration_ms": 149786,
-      "name": "I Wanna Be Sedated",
-      "url": "https://open.spotify.com/track/5NoQvINZLBV1wMYPdNmReL"
-    },
-    {
-      "added_at": "2021-10-06 09:12:22",
-      "album": {
         "name": "13 Songs",
         "url": "https://open.spotify.com/album/1FcRwT7uoNdO8L9wbYsfAY"
       },
@@ -87,38 +55,6 @@
       "duration_ms": 173266,
       "name": "Waiting Room",
       "url": "https://open.spotify.com/track/2DBlfjL5chsdeULzhTp5K8"
-    },
-    {
-      "added_at": "2021-10-06 09:12:22",
-      "album": {
-        "name": "This Year's Model (2021 Remaster)",
-        "url": "https://open.spotify.com/album/4RLIesiAVONV4fOUlOSmr4"
-      },
-      "artists": [
-        {
-          "name": "Elvis Costello & The Attractions",
-          "url": "https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH"
-        }
-      ],
-      "duration_ms": 196680,
-      "name": "Pump It Up - 2021 Remaster",
-      "url": "https://open.spotify.com/track/3oyc1mIdCBGaU55wX7otqM"
-    },
-    {
-      "added_at": "2021-10-06 09:12:22",
-      "album": {
-        "name": "London Calling (Remastered)",
-        "url": "https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a"
-      },
-      "artists": [
-        {
-          "name": "The Clash",
-          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
-        }
-      ],
-      "duration_ms": 200480,
-      "name": "London Calling - Remastered",
-      "url": "https://open.spotify.com/track/5jzma6gCzYtKB1DbEwFZKH"
     },
     {
       "added_at": "2021-10-06 09:12:22",
@@ -175,6 +111,22 @@
     {
       "added_at": "2021-10-06 09:12:22",
       "album": {
+        "name": "London Calling (Remastered)",
+        "url": "https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "duration_ms": 200480,
+      "name": "London Calling - Remastered",
+      "url": "https://open.spotify.com/track/5jzma6gCzYtKB1DbEwFZKH"
+    },
+    {
+      "added_at": "2021-10-06 09:12:22",
+      "album": {
         "name": "The Stooges",
         "url": "https://open.spotify.com/album/3MANoCcmaHWeXSuWiO3iVo"
       },
@@ -207,22 +159,6 @@
     {
       "added_at": "2021-10-06 09:12:22",
       "album": {
-        "name": "Unknown Pleasures (Collector's Edition)",
-        "url": "https://open.spotify.com/album/33qkK1brpt6t8unIpeM2Oy"
-      },
-      "artists": [
-        {
-          "name": "Joy Division",
-          "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
-        }
-      ],
-      "duration_ms": 237013,
-      "name": "She's Lost Control - 2007 Remaster",
-      "url": "https://open.spotify.com/track/0rcLhYRihks3t4lFPtHhQV"
-    },
-    {
-      "added_at": "2021-10-06 09:12:22",
-      "album": {
         "name": "Give Me Convenience or Give Me Death",
         "url": "https://open.spotify.com/album/5Xv8PCJ7ZMmRd3jXnJqg3V"
       },
@@ -235,38 +171,6 @@
       "duration_ms": 207040,
       "name": "California Uber Alles",
       "url": "https://open.spotify.com/track/5szJ8SMwQVEvvdk65w6M6g"
-    },
-    {
-      "added_at": "2021-10-06 09:12:22",
-      "album": {
-        "name": "Songs The Lord Taught Us",
-        "url": "https://open.spotify.com/album/6S9rbimtTmC0v6UBWqSpay"
-      },
-      "artists": [
-        {
-          "name": "The Cramps",
-          "url": "https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3"
-        }
-      ],
-      "duration_ms": 183866,
-      "name": "I Was A Teenage Werewolf - Remastered",
-      "url": "https://open.spotify.com/track/3sEQf5AuiphddGXRIWBcO9"
-    },
-    {
-      "added_at": "2021-10-06 09:12:22",
-      "album": {
-        "name": "Hits Back",
-        "url": "https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S"
-      },
-      "artists": [
-        {
-          "name": "The Clash",
-          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
-        }
-      ],
-      "duration_ms": 163240,
-      "name": "I Fought the Law",
-      "url": "https://open.spotify.com/track/7lSDCrF11sdTVfjbAQVZE8"
     },
     {
       "added_at": "2021-10-06 09:12:22",
@@ -303,6 +207,22 @@
     {
       "added_at": "2021-10-06 09:12:22",
       "album": {
+        "name": "Songs The Lord Taught Us",
+        "url": "https://open.spotify.com/album/6S9rbimtTmC0v6UBWqSpay"
+      },
+      "artists": [
+        {
+          "name": "The Cramps",
+          "url": "https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3"
+        }
+      ],
+      "duration_ms": 183866,
+      "name": "I Was A Teenage Werewolf - Remastered",
+      "url": "https://open.spotify.com/track/3sEQf5AuiphddGXRIWBcO9"
+    },
+    {
+      "added_at": "2021-10-06 09:12:22",
+      "album": {
         "name": "...And Out Come The Wolves",
         "url": "https://open.spotify.com/album/1HisV3ZKLs9It3KlGcPki5"
       },
@@ -331,6 +251,22 @@
       "duration_ms": 137400,
       "name": "Rock 'n' Roll High School - 2002 Remaster",
       "url": "https://open.spotify.com/track/4FzPIalyruWIiefI91qe4B"
+    },
+    {
+      "added_at": "2021-10-06 09:12:22",
+      "album": {
+        "name": "Hits Back",
+        "url": "https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "duration_ms": 163240,
+      "name": "I Fought the Law",
+      "url": "https://open.spotify.com/track/7lSDCrF11sdTVfjbAQVZE8"
     },
     {
       "added_at": "2021-10-06 09:12:22",
@@ -431,22 +367,6 @@
     {
       "added_at": "2021-10-06 09:12:22",
       "album": {
-        "name": "Kaleidoscope (Remastered & Expanded)",
-        "url": "https://open.spotify.com/album/5jynqY8ZyDoeqrIfYSwF8P"
-      },
-      "artists": [
-        {
-          "name": "Siouxsie and the Banshees",
-          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
-        }
-      ],
-      "duration_ms": 231706,
-      "name": "Happy House",
-      "url": "https://open.spotify.com/track/09LikVa6VgPYcsChqn1N0U"
-    },
-    {
-      "added_at": "2021-10-06 09:12:22",
-      "album": {
         "name": "Adolescents",
         "url": "https://open.spotify.com/album/4qwDRyH5SwFcjyoOJKbE2d"
       },
@@ -515,22 +435,6 @@
     {
       "added_at": "2021-10-06 09:12:22",
       "album": {
-        "name": "Pink Flag",
-        "url": "https://open.spotify.com/album/4WXqZZ28geJSPtqLcCF56L"
-      },
-      "artists": [
-        {
-          "name": "Wire",
-          "url": "https://open.spotify.com/artist/2i8ynmFv4qgRksyDlBgi6d"
-        }
-      ],
-      "duration_ms": 157360,
-      "name": "Mannequin - 2006 Remastered Version",
-      "url": "https://open.spotify.com/track/5LEwYNnwG1RSVseSmMZQpo"
-    },
-    {
-      "added_at": "2021-10-06 09:12:22",
-      "album": {
         "name": "Q: Are We Not Men? A: We Are Devo!",
         "url": "https://open.spotify.com/album/1u2Qni8cVRptDTaA00fmBC"
       },
@@ -595,6 +499,22 @@
     {
       "added_at": "2021-10-06 09:12:22",
       "album": {
+        "name": "Never Mind The Bollocks, Here's The Sex Pistols",
+        "url": "https://open.spotify.com/album/5fxYu3rqjCNTSPKN8mtEl2"
+      },
+      "artists": [
+        {
+          "name": "Sex Pistols",
+          "url": "https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR"
+        }
+      ],
+      "duration_ms": 200080,
+      "name": "God Save the Queen",
+      "url": "https://open.spotify.com/track/6ui6l3ZNvlrGQZArwo8195"
+    },
+    {
+      "added_at": "2021-10-06 09:12:22",
+      "album": {
         "name": "13 Songs",
         "url": "https://open.spotify.com/album/1FcRwT7uoNdO8L9wbYsfAY"
       },
@@ -623,22 +543,6 @@
       "duration_ms": 206786,
       "name": "Damaged Goods",
       "url": "https://open.spotify.com/track/0Nn4RrvVfwSSLDvkhdRc1n"
-    },
-    {
-      "added_at": "2021-10-06 09:12:22",
-      "album": {
-        "name": "Never Mind The Bollocks, Here's The Sex Pistols",
-        "url": "https://open.spotify.com/album/5fxYu3rqjCNTSPKN8mtEl2"
-      },
-      "artists": [
-        {
-          "name": "Sex Pistols",
-          "url": "https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR"
-        }
-      ],
-      "duration_ms": 200080,
-      "name": "God Save the Queen",
-      "url": "https://open.spotify.com/track/6ui6l3ZNvlrGQZArwo8195"
     },
     {
       "added_at": "2021-10-06 09:12:22",
@@ -691,22 +595,6 @@
     {
       "added_at": "2021-10-06 09:12:22",
       "album": {
-        "name": "Double Nickels on the Dime",
-        "url": "https://open.spotify.com/album/5viZ5HyYtV0wafK7DoXmgF"
-      },
-      "artists": [
-        {
-          "name": "Minutemen",
-          "url": "https://open.spotify.com/artist/0z6zRFzl5njXWLVAisXQBz"
-        }
-      ],
-      "duration_ms": 145533,
-      "name": "Corona",
-      "url": "https://open.spotify.com/track/2LUVo82IKIpCuBNSaqF0G8"
-    },
-    {
-      "added_at": "2021-10-06 09:12:22",
-      "album": {
         "name": "First Two Seven Inches",
         "url": "https://open.spotify.com/album/6Sty6rLnMTXFjKxKUZEfmy"
       },
@@ -719,6 +607,22 @@
       "duration_ms": 45160,
       "name": "Straight Edge",
       "url": "https://open.spotify.com/track/1x8N5sNHdQtY328uP5DxIp"
+    },
+    {
+      "added_at": "2021-10-06 09:12:22",
+      "album": {
+        "name": "Double Nickels on the Dime",
+        "url": "https://open.spotify.com/album/5viZ5HyYtV0wafK7DoXmgF"
+      },
+      "artists": [
+        {
+          "name": "Minutemen",
+          "url": "https://open.spotify.com/artist/0z6zRFzl5njXWLVAisXQBz"
+        }
+      ],
+      "duration_ms": 145533,
+      "name": "Corona",
+      "url": "https://open.spotify.com/track/2LUVo82IKIpCuBNSaqF0G8"
     },
     {
       "added_at": "2021-10-06 09:12:22",
@@ -867,22 +771,6 @@
     {
       "added_at": "2021-10-06 09:12:22",
       "album": {
-        "name": "Double Nickels on the Dime",
-        "url": "https://open.spotify.com/album/5viZ5HyYtV0wafK7DoXmgF"
-      },
-      "artists": [
-        {
-          "name": "Minutemen",
-          "url": "https://open.spotify.com/artist/0z6zRFzl5njXWLVAisXQBz"
-        }
-      ],
-      "duration_ms": 89666,
-      "name": "Viet Nam",
-      "url": "https://open.spotify.com/track/21vp1orbqySVyww9ngW44w"
-    },
-    {
-      "added_at": "2021-10-06 09:12:22",
-      "album": {
         "name": "Salad Days",
         "url": "https://open.spotify.com/album/5JXGvBK6woRyyxOXro1mW2"
       },
@@ -895,6 +783,22 @@
       "duration_ms": 166120,
       "name": "Salad Days",
       "url": "https://open.spotify.com/track/5TEP4YcPVvBYAbJXrTTced"
+    },
+    {
+      "added_at": "2021-10-06 09:12:22",
+      "album": {
+        "name": "Double Nickels on the Dime",
+        "url": "https://open.spotify.com/album/5viZ5HyYtV0wafK7DoXmgF"
+      },
+      "artists": [
+        {
+          "name": "Minutemen",
+          "url": "https://open.spotify.com/artist/0z6zRFzl5njXWLVAisXQBz"
+        }
+      ],
+      "duration_ms": 89666,
+      "name": "Viet Nam",
+      "url": "https://open.spotify.com/track/21vp1orbqySVyww9ngW44w"
     },
     {
       "added_at": "2021-10-06 09:12:22",
@@ -1075,22 +979,6 @@
     {
       "added_at": "2021-10-06 09:12:22",
       "album": {
-        "name": "GI",
-        "url": "https://open.spotify.com/album/1dwzhoYlTd5ZgPygszllwo"
-      },
-      "artists": [
-        {
-          "name": "Germs",
-          "url": "https://open.spotify.com/artist/39zgKjGWsiZzJ9h6gbrPFY"
-        }
-      ],
-      "duration_ms": 104360,
-      "name": "Lexicon Devil",
-      "url": "https://open.spotify.com/track/0Hl2Vuhhhh8buesoxUk1DW"
-    },
-    {
-      "added_at": "2021-10-06 09:12:22",
-      "album": {
         "name": "Horses (Legacy Edition)",
         "url": "https://open.spotify.com/album/7xg7u99lilTCPbaRfnYuy6"
       },
@@ -1107,6 +995,22 @@
     {
       "added_at": "2021-10-06 09:12:22",
       "album": {
+        "name": "GI",
+        "url": "https://open.spotify.com/album/1dwzhoYlTd5ZgPygszllwo"
+      },
+      "artists": [
+        {
+          "name": "Germs",
+          "url": "https://open.spotify.com/artist/39zgKjGWsiZzJ9h6gbrPFY"
+        }
+      ],
+      "duration_ms": 104360,
+      "name": "Lexicon Devil",
+      "url": "https://open.spotify.com/track/0Hl2Vuhhhh8buesoxUk1DW"
+    },
+    {
+      "added_at": "2021-10-06 09:12:22",
+      "album": {
         "name": "A Million In Prizes: Iggy Pop Anthology (Edited Version)",
         "url": "https://open.spotify.com/album/39vZUsVRUvo1l2HwR7Cfpg"
       },
@@ -1119,22 +1023,6 @@
       "duration_ms": 312040,
       "name": "Lust For Life",
       "url": "https://open.spotify.com/track/0kvH59HS2T2m4bsXJhBGNC"
-    },
-    {
-      "added_at": "2021-10-06 09:12:22",
-      "album": {
-        "name": "Death Rides A Pale Cow: The Ultimate Collection",
-        "url": "https://open.spotify.com/album/2ZNb1MUe50ckOcSe9TQOQz"
-      },
-      "artists": [
-        {
-          "name": "The Dead Milkmen",
-          "url": "https://open.spotify.com/artist/2fhngmJMaaKcdhXHCa4cPK"
-        }
-      ],
-      "duration_ms": 107866,
-      "name": "Dean's Dream",
-      "url": "https://open.spotify.com/track/4Kf80JwKZcrHE0jJQKuH0e"
     },
     {
       "added_at": "2021-10-06 09:12:22",
@@ -1203,22 +1091,6 @@
     {
       "added_at": "2021-10-06 09:12:22",
       "album": {
-        "name": "Cut (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6ppPT0aXOtsAlG1QQVB9E0"
-      },
-      "artists": [
-        {
-          "name": "The Slits",
-          "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
-        }
-      ],
-      "duration_ms": 235653,
-      "name": "Typical Girls",
-      "url": "https://open.spotify.com/track/395kSI564E2Rl1Nh5kGOxQ"
-    },
-    {
-      "added_at": "2021-10-06 09:12:22",
-      "album": {
         "name": "Can I Say",
         "url": "https://open.spotify.com/album/6eSqKJG6HCmYmUUrJWtR93"
       },
@@ -1231,6 +1103,22 @@
       "duration_ms": 166560,
       "name": "Circles",
       "url": "https://open.spotify.com/track/6JLYifKMF5DbeyxsVvGubh"
+    },
+    {
+      "added_at": "2021-10-06 09:12:22",
+      "album": {
+        "name": "Cut (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6ppPT0aXOtsAlG1QQVB9E0"
+      },
+      "artists": [
+        {
+          "name": "The Slits",
+          "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
+        }
+      ],
+      "duration_ms": 235653,
+      "name": "Typical Girls",
+      "url": "https://open.spotify.com/track/395kSI564E2Rl1Nh5kGOxQ"
     },
     {
       "added_at": "2021-10-06 09:12:22",
@@ -1491,22 +1379,6 @@
     {
       "added_at": "2021-10-06 09:12:22",
       "album": {
-        "name": "Born In A Trailer: The Session & Rehearsal Tapes '72-'73",
-        "url": "https://open.spotify.com/album/4FZ7coZzAHNQBNh8rWn5M3"
-      },
-      "artists": [
-        {
-          "name": "The Stooges",
-          "url": "https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3"
-        }
-      ],
-      "duration_ms": 228920,
-      "name": "Search And Destroy - LA & Detroit Rehearsals, 1973",
-      "url": "https://open.spotify.com/track/7pvUnN9f4e7aF25Am8d37W"
-    },
-    {
-      "added_at": "2021-10-06 09:12:22",
-      "album": {
         "name": "GI",
         "url": "https://open.spotify.com/album/1dwzhoYlTd5ZgPygszllwo"
       },
@@ -1519,6 +1391,22 @@
       "duration_ms": 185266,
       "name": "We Must Bleed",
       "url": "https://open.spotify.com/track/4nl8srnmBGjY4fU6bEIDF9"
+    },
+    {
+      "added_at": "2021-10-06 09:12:22",
+      "album": {
+        "name": "80's & 90's Rock",
+        "url": "https://open.spotify.com/album/2zEt4CGp90iI8YYXcyrmyI"
+      },
+      "artists": [
+        {
+          "name": "Violent Femmes",
+          "url": "https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy"
+        }
+      ],
+      "duration_ms": 145706,
+      "name": "Blister In The Sun",
+      "url": "https://open.spotify.com/track/64xiFUU30wcZUb13eT3su8"
     },
     {
       "added_at": "2022-07-13 19:02:14",
@@ -1571,22 +1459,6 @@
     {
       "added_at": "2021-10-06 09:12:22",
       "album": {
-        "name": "Rat Music for Rat People, Vol. 1",
-        "url": "https://open.spotify.com/album/3kPFgmYVQaJs9n3WIaAAfl"
-      },
-      "artists": [
-        {
-          "name": "Circle Jerks",
-          "url": "https://open.spotify.com/artist/4ubY8RYfXkcEqgjEMDuLYl"
-        }
-      ],
-      "duration_ms": 137480,
-      "name": "Don't Care / Live Fast, Die Young",
-      "url": "https://open.spotify.com/track/2ZXFb4Ymu5pplhKScRy5Hi"
-    },
-    {
-      "added_at": "2021-10-06 09:12:22",
-      "album": {
         "name": "Ever Fallen In Love? Buzzcocks Finest",
         "url": "https://open.spotify.com/album/2fEo8f9CUTtyf65VJgMWpb"
       },
@@ -1603,6 +1475,22 @@
     {
       "added_at": "2021-10-06 09:12:22",
       "album": {
+        "name": "80's Hits It's Party Time",
+        "url": "https://open.spotify.com/album/0OJqkYr2eYrJumOuxCvMUz"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "duration_ms": 215106,
+      "name": "One Way Or Another - Remastered/2001",
+      "url": "https://open.spotify.com/track/1nVI3acPU8MWnaOfXBEYyX"
+    },
+    {
+      "added_at": "2021-10-06 09:12:22",
+      "album": {
         "name": "Somery",
         "url": "https://open.spotify.com/album/3aZ0LWZrvkSMJFp8RtLpDe"
       },
@@ -1615,6 +1503,118 @@
       "duration_ms": 102133,
       "name": "Suburban Home",
       "url": "https://open.spotify.com/track/4sOfqxtHrrhVX8mRjCa1aC"
+    },
+    {
+      "added_at": "2021-10-06 09:12:22",
+      "album": {
+        "name": "Power Rock",
+        "url": "https://open.spotify.com/album/1rLnCZv1URu03ofFQVS248"
+      },
+      "artists": [
+        {
+          "name": "Ramones",
+          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+        }
+      ],
+      "duration_ms": 133440,
+      "name": "Blitzkrieg Bop",
+      "url": "https://open.spotify.com/track/5WSU5VZobve0QB8PBYc7rN"
+    },
+    {
+      "added_at": "2021-10-06 09:12:22",
+      "album": {
+        "name": "Spit on a Stranger",
+        "url": "https://open.spotify.com/album/7wYuelr68pEOsEsevothUC"
+      },
+      "artists": [
+        {
+          "name": "Pavement",
+          "url": "https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi"
+        }
+      ],
+      "duration_ms": 206946,
+      "name": "Harness Your Hopes - B-side",
+      "url": "https://open.spotify.com/track/7tdRjmYFis9KM3DgnQcdpo"
+    },
+    {
+      "added_at": "2021-10-06 09:12:22",
+      "album": {
+        "name": "Los Angeles",
+        "url": "https://open.spotify.com/album/1qs5rB2gsrAWDLrUlyjFUD"
+      },
+      "artists": [
+        {
+          "name": "X",
+          "url": "https://open.spotify.com/artist/54NqjhP2rT524Mi2GicG4K"
+        }
+      ],
+      "duration_ms": 145000,
+      "name": "Los Angeles",
+      "url": "https://open.spotify.com/track/4A5OgrRxYQ2k1MB30m6Oyy"
+    },
+    {
+      "added_at": "2021-10-06 09:12:22",
+      "album": {
+        "name": "Rat Music for Rat People, Vol. 1",
+        "url": "https://open.spotify.com/album/3kPFgmYVQaJs9n3WIaAAfl"
+      },
+      "artists": [
+        {
+          "name": "Circle Jerks",
+          "url": "https://open.spotify.com/artist/4ubY8RYfXkcEqgjEMDuLYl"
+        }
+      ],
+      "duration_ms": 137480,
+      "name": "Don't Care / Live Fast, Die Young",
+      "url": "https://open.spotify.com/track/2ZXFb4Ymu5pplhKScRy5Hi"
+    },
+    {
+      "added_at": "2021-10-06 09:12:22",
+      "album": {
+        "name": "70s Rock",
+        "url": "https://open.spotify.com/album/3RI5qzqfW75gfAAlCqZIYY"
+      },
+      "artists": [
+        {
+          "name": "Elvis Costello & The Attractions",
+          "url": "https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH"
+        }
+      ],
+      "duration_ms": 196680,
+      "name": "Pump It Up",
+      "url": "https://open.spotify.com/track/4B5edq9kIXilYbatVWd7Pn"
+    },
+    {
+      "added_at": "2021-10-06 09:12:22",
+      "album": {
+        "name": "Big Lizard In My Backyard",
+        "url": "https://open.spotify.com/album/6N8dOvnSvUMYQWBxC4uZeV"
+      },
+      "artists": [
+        {
+          "name": "The Dead Milkmen",
+          "url": "https://open.spotify.com/artist/2fhngmJMaaKcdhXHCa4cPK"
+        }
+      ],
+      "duration_ms": 109133,
+      "name": "Dean's Dream",
+      "url": "https://open.spotify.com/track/7zkGSISikPcskwsVQ5vKqW"
+    },
+    {
+      "added_at": "2021-10-06 09:12:22",
+      "album": {
+        "name": "Road to Ruin",
+        "url": "https://open.spotify.com/album/4uYGMRwon6fQ2zOJhfr0iC"
+      },
+      "artists": [
+        {
+          "name": "Ramones",
+          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+        }
+      ],
+      "duration_ms": 149466,
+      "name": "I Wanna Be Sedated - 2002 Remaster",
+      "url": "https://open.spotify.com/track/4jDt1y2gCPiqC3PgWuzLjW"
     }
   ],
   "unique_name": "Classic Punk",

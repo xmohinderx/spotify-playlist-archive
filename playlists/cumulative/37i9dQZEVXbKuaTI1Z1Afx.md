@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- USA.
 
-962 songs - 2 day 4 hr 5 min - [published](https://open.spotify.com/playlist/2HKs1wzvUezKZaRpk2HAlO)
+963 songs - 2 day 4 hr 8 min - [published](https://open.spotify.com/playlist/2HKs1wzvUezKZaRpk2HAlO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -489,6 +489,7 @@
 | [Lights Off \(feat\. Gunna & Lil Durk\)](https://open.spotify.com/track/2pqu2XTbal0GehjBj2BDkv) | [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Lights Off \(feat\. Gunna & Lil Durk\)](https://open.spotify.com/album/7J47Z2E4FxitaVruzJKbGx) | 3:35 | 2022-05-17 | 2022-05-20 |
 | [Like a Prayer \- Live](https://open.spotify.com/track/1nM9BUwYIkDbLABWUHjNZH) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [ATTENTION: MILEY LIVE](https://open.spotify.com/album/534enKHcsPhMQOc0TM2yhw) | 3:27 | 2022-04-29 | 2022-05-25 |
 | [Like A Villain](https://open.spotify.com/track/40P5d3p4icYCiN4SMUOE2E) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [THE DEATH OF PEACE OF MIND](https://open.spotify.com/album/0auTn0kFZk71WAv3BbKVxQ) | 3:30 | 2022-03-03 | 2022-03-07 |
+| [Limbo](https://open.spotify.com/track/37F7E7BKEw2E4O2L7u0IEp) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Freddie's Inferno](https://open.spotify.com/album/2ll6KONxe4F87GJku1ZZrl) | 2:49 | 2022-11-11 |  |
 | [LION \(feat\. Chris Brown & Brandon Lake\)](https://open.spotify.com/track/0wokdbjRBEVknN1c6FBf9S) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [LION](https://open.spotify.com/album/6PwjeKXh33Xze41oTPhJUh) | 5:54 | 2022-03-29 | 2022-04-01 |
 | [LOCK IT UP \(feat\. Yeat, midwxst & Matt Ox\)](https://open.spotify.com/track/3LkWdvgrJtFuM0ZoXKPlpH) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Matt Ox](https://open.spotify.com/artist/2J6pigOrBmKQgqJUY5UM7r) | [MIDNIGHT](https://open.spotify.com/album/5l7cOhvgltRPUTJlkZlXee) | 3:03 | 2022-05-24 | 2022-05-26 |
 | [Locksmith](https://open.spotify.com/track/4HcARAxzsbIB3MqiEkejM6) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Locksmith](https://open.spotify.com/album/1XsMFyyPhYodMoE8V0SMkl) | 2:44 | 2022-11-01 | 2022-11-09 |
@@ -931,7 +932,7 @@
 | [Whiskey On You](https://open.spotify.com/track/6Tm4Io4ct4w14nB1EUzsY3) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Whiskey On You](https://open.spotify.com/album/3MrvNAqlEsm5iScBAf9Cfm) | 3:03 | 2022-05-31 | 2022-06-08 |
 | [Whiteboyz](https://open.spotify.com/track/6JRbb3Gpytv9olKoq9O9YP) | [Tom MacDonald](https://open.spotify.com/artist/6DvlemMOlMH6VD9tB7BPRf), [Adam Calhoun](https://open.spotify.com/artist/4fZ8AuVP6Y8mLmCoybfKpC) | [The Brave](https://open.spotify.com/album/65qvJgkTyLzOgZOlQcqUfg) | 3:13 | 2022-03-10 | 2022-03-16 |
 | [Who Is She ?](https://open.spotify.com/track/6AdgGDGbdRMoCVkGye11Zw) | [I Monster](https://open.spotify.com/artist/1CcPlAmcnJjC4FnaPVzv2v) | [Neveroddoreven](https://open.spotify.com/album/4qD7h4hXvmKT49wDrN2kLE) | 3:33 | 2022-09-08 | 2022-09-21 |
-| [Who's Ready for Tomorrow](https://open.spotify.com/track/4mn5HdatHKN7iFGDes9G8i) | [RAT BOY](https://open.spotify.com/artist/2PmIyxmEFsNfQJjEifPDZC), [IBDY](https://open.spotify.com/artist/2XUc6ElGNvAOKaiALMBzhc) | [Cyberpunk 2077: Radio, Vol\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/1VGVJdmvOSRK2w9RKXk18A) | 1:56 | 2022-09-29 |  |
+| [Who's Ready for Tomorrow](https://open.spotify.com/track/4mn5HdatHKN7iFGDes9G8i) | [RAT BOY](https://open.spotify.com/artist/2PmIyxmEFsNfQJjEifPDZC), [IBDY](https://open.spotify.com/artist/2XUc6ElGNvAOKaiALMBzhc) | [Cyberpunk 2077: Radio, Vol\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/1VGVJdmvOSRK2w9RKXk18A) | 1:56 | 2022-09-29 | 2022-11-12 |
 | [Why Am I Like This?](https://open.spotify.com/track/0z29wv0x2IXrpWxNgICET7) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Why Am I Like This?](https://open.spotify.com/album/0EiHyIG1skb5rzVkbBkva6) | 3:32 | 2022-05-03 | 2022-06-01 |
 | [Wide Awake \(feat\. Charlie Houston\)](https://open.spotify.com/track/5OLfObog5za3O71jQgZFsB) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [The Last Goodbye](https://open.spotify.com/album/0xVucRYJf5luWLekMGYh3i) | 3:35 | 2022-07-25 | 2022-08-01 |
 | [Wild as Her](https://open.spotify.com/track/7FEu6U2jXAs2URjx93AyTm) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Wild as Her](https://open.spotify.com/album/5E6Y21xdZI8Ein5d7wfqpI) | 3:21 | 2022-03-29 | 2022-06-01 |

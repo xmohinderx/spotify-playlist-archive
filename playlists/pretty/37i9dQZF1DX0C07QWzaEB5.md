@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0C07QWzaEB5.md) - [plain]
 
 > 유행은 돌고 돌아! 레트로에 새로움을 더한 뉴트로 댄스 음악을 즐겨보세요\. \(커버: SUNMI\(선미\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,499 likes - 115 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,510 likes - 115 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0C07QWzaEB5.md) - [plain]
 | 82 | [오늘 밤](https://open.spotify.com/track/1x3n7gBG88GX5MRpKMfs9Y) | [이새봄](https://open.spotify.com/artist/1yGfj9yNeriR1yJO5c8nXU) | [오늘 밤 내게로 와](https://open.spotify.com/album/4s2vlriZ7PdhsE6VjQWP9T) | 3:35 |
 | 83 | [Sunset](https://open.spotify.com/track/4dmeMZigfLAauiaHIaTRid) | [Kim Areum](https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp) | [AQUA CITY](https://open.spotify.com/album/6zwAQwh8Hk0XFWaBfXoux2) | 3:36 |
 | 84 | [I FEEL LOVE](https://open.spotify.com/track/6OBVvJEf4n7Tz625x6eTbC) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [SOUL LADY](https://open.spotify.com/album/5rsgGy09HIAwtIy5oF5MhF) | 3:55 |
-| 85 | [Sorrow](https://open.spotify.com/track/0ShMzeKXipiFZCto7NK0ad) | [RAVI](https://open.spotify.com/artist/42xj5mBLvrFdW6tYns6mxs), [YERI](https://open.spotify.com/artist/4xzwjGxzfKglU0cNW4q4l1), [KIM WOO SEOK](https://open.spotify.com/artist/4k2MyP64uZ78mvjKd1Ciq2) | [Sorrow](https://open.spotify.com/album/4exbO6NlFUfEK4cnXEljkP) | 3:30 |
+| 85 | [Sorrow](https://open.spotify.com/track/66SNhXgISELtrMaRAzsNIL) | [RAVI](https://open.spotify.com/artist/42xj5mBLvrFdW6tYns6mxs), [YERI](https://open.spotify.com/artist/4xzwjGxzfKglU0cNW4q4l1), [KIM WOO SEOK](https://open.spotify.com/artist/4k2MyP64uZ78mvjKd1Ciq2) | [Fever Music 2020 Cool Summer Project](https://open.spotify.com/album/5U0qZV4ms3hwfyac60f2br) | 3:30 |
 | 86 | [Midnight \(1988 Remix\)](https://open.spotify.com/track/6zKpynDvNISzYJBCYmOXOw) | [Kim Areum](https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp) | [AQUA CITY](https://open.spotify.com/album/6zwAQwh8Hk0XFWaBfXoux2) | 4:06 |
 | 87 | [ORE ORE](https://open.spotify.com/track/5W847howdIqnnPGlD1Q6kb) | [Kirin](https://open.spotify.com/artist/3dFiM806dnbA7YUIgOHDBc), [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [ORE ORE](https://open.spotify.com/album/1MN3vA9yujfECSR8fPpncA) | 2:32 |
 | 88 | [Sign \(SPACECOWBOY Ver.\) \- SPACECOWBOY Ver.](https://open.spotify.com/track/3NhqxjzhOoPhuxU01ecBCK) | [Kim Areum](https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp) | [AQUA CITY](https://open.spotify.com/album/6zwAQwh8Hk0XFWaBfXoux2) | 3:58 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0C07QWzaEB5.md) - [plain]
 | 114 | [The Story Of The Year \(feat\. Wonwoo\)](https://open.spotify.com/track/3r13xapjaH18CkefLlFtyj) | [PARKMOONCHI](https://open.spotify.com/artist/1LIw1nom0dT1E99JFLINqh), [Wonwoo](https://open.spotify.com/artist/4G2Rc8UO9dVp8nJs5fJH7f) | [The Story Of The Year \(feat\. Wonwoo\)](https://open.spotify.com/album/09drbb7KrxZTBhg9Eodvjc) | 4:13 |
 | 115 | [On & On](https://open.spotify.com/track/4gphGdxKYkg5keaBePEet7) | [Kirin](https://open.spotify.com/artist/3dFiM806dnbA7YUIgOHDBc), [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [Club 33](https://open.spotify.com/album/2GgEeiYUeDvspIUSdi8fdu) | 3:00 |
 
-Snapshot ID: `MTY2NjA5NzE5MiwwMDAwMDAwMDk3Y2QyOGQ5ZDBmY2JhMTFkOTUxMjVmZjM4YmIxNWFm`
+Snapshot ID: `MTY2NjA5NzE5MiwwMDAwMDAwMDQyOTdlMWUyNzI4NWI5NTY5ZmVkMDNhZTU2Mzg0YjBm`

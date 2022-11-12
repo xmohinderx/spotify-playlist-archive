@@ -4,7 +4,7 @@
 
 > Hot noise for summer days.
 
-144 songs - 7 hr 54 min - [published](https://open.spotify.com/playlist/5zEkm1jh8QhoO6jxa8ICRU)
+146 songs - 8 hr 0 min - [published](https://open.spotify.com/playlist/5zEkm1jh8QhoO6jxa8ICRU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,8 @@
 | [Garden](https://open.spotify.com/track/00JfiKSB2Ne3dWu6EGcec9) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Garden](https://open.spotify.com/album/7z7oHIPniqVIRGhU5AiI1a) | 3:40 | 2022-04-01 |  |
 | [Getting Started](https://open.spotify.com/track/4jzK6Ey84SAexMK5C2JWKx) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under \(Deluxe\)](https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z) | 3:09 | 2022-07-04 |  |
 | [Glue](https://open.spotify.com/track/5Isz1mw0HOzLOa1jas7MHH) | [The Pale White](https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0) | [Glue](https://open.spotify.com/album/1CUaog8mu2iSV3HmCtlUXl) | 3:37 | 2022-04-01 | 2022-07-28 |
-| [good 4 u](https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:58 | 2022-04-01 |  |
+| [good 4 u](https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:58 | 2022-04-01 | 2022-11-12 |
+| [good 4 u](https://open.spotify.com/track/3QVeeC9M980WM0eLKkyQp6) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [Hits Rentrée 2021](https://open.spotify.com/album/58HtgHgFGdffOpr8lx9QVU) | 2:58 | 2022-04-01 |  |
 | [good 4 u](https://open.spotify.com/track/6PERP62TejQjgHu81OHxgM) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [good 4 u](https://open.spotify.com/album/3rMjL8NA5Wh2hbMNk2fSlY) | 2:58 | 2022-04-01 | 2022-07-26 |
 | [GOOD GRIEF](https://open.spotify.com/track/7j6m9Mc7z7igvOS5sgsUZt) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [Good Grief](https://open.spotify.com/album/35M5vJPCUQNrFiybWiGQXR) | 3:00 | 2022-04-01 | 2022-07-29 |
 | [Handsome Wife](https://open.spotify.com/track/09clHkkyycFtV3jrNi17tQ) | [Pillow Queens](https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d) | [In Waiting](https://open.spotify.com/album/1bcRBsdflwrlfkkVSTFKBI) | 4:13 | 2022-04-01 | 2022-07-25 |
@@ -100,7 +101,7 @@
 | [Rockstar](https://open.spotify.com/track/6XZ8SzOsrIPce5JdgMeJFF) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Don't Wait 'Til Tomorrow](https://open.spotify.com/album/20XIFoAtLYdFGnDoqNwnbf) | 3:43 | 2022-04-01 |  |
 | [Rose\-Colored Boy](https://open.spotify.com/track/2RJfK2pOvGpnxC255YOy5k) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [After Laughter](https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs) | 3:32 | 2022-04-01 |  |
 | [Shakin' Off The Rust](https://open.spotify.com/track/5PUlGG3xO8PUuDcYKuaeZH) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [Hidden Gems](https://open.spotify.com/album/6uI7YirquMLS8hkRFgJ16B) | 3:42 | 2022-04-01 |  |
-| [She Came Down From The Stars](https://open.spotify.com/track/7hx6Llz6nbZSMu1Bby1caB) | [Nathan Day](https://open.spotify.com/artist/3kEC0PwfYf8pGHiKFQk8OX) | [She Came Down From The Stars](https://open.spotify.com/album/3hQeldMOyAY7ojZCk27n9x) | 3:36 | 2022-04-01 |  |
+| [She Came Down From The Stars](https://open.spotify.com/track/7hx6Llz6nbZSMu1Bby1caB) | [Nathan Day](https://open.spotify.com/artist/3kEC0PwfYf8pGHiKFQk8OX) | [She Came Down From The Stars](https://open.spotify.com/album/3hQeldMOyAY7ojZCk27n9x) | 3:36 | 2022-04-01 | 2022-11-12 |
 | [Shine A Little Light](https://open.spotify.com/track/365TSrFPqM66giaxJuafR3) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | ["Let's Rock"](https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg) | 3:16 | 2022-04-01 |  |
 | [Shy Away](https://open.spotify.com/track/2nG54Y4a3sH9YpfxMolOyi) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Scaled And Icy](https://open.spotify.com/album/0Q5XBpCYFgUWiG9DUWyAmJ) | 2:55 | 2022-04-01 | 2022-11-11 |
 | [Shy Away](https://open.spotify.com/track/2z0IupRlVRlDN5r2IVqHyN) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Shy Away](https://open.spotify.com/album/4JFHfIYCtka66G0izGrJhz) | 2:55 | 2022-04-01 | 2022-07-29 |
@@ -147,6 +148,7 @@
 | [You Don't Own Me](https://open.spotify.com/track/1vYFKwcdo4koF1xyK4Oy5m) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [You Don't Own Me](https://open.spotify.com/album/0vZkHaZ5IdsCaIlkvfESiU) | 3:16 | 2022-04-01 | 2022-07-28 |
 | [You Only Live Once](https://open.spotify.com/track/4fPBB44eDH71YohayI4eKV) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [First Impressions Of Earth](https://open.spotify.com/album/1HQ61my1h3VWp2EBWKlp0n) | 3:09 | 2022-04-01 |  |
 | [You Stupid Bitch](https://open.spotify.com/track/4nlT0Ch4qpqoS8O1RsdzjH) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/10nQ1u8Y1zlOb61zwZavDk) | 3:15 | 2022-04-01 | 2022-10-13 |
+| [You Stupid Bitch](https://open.spotify.com/track/4vFKotukXxQXsjYo8udf37) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [You Stupid Bitch](https://open.spotify.com/album/4M2sFHiDlAXasGDTWq6iHA) | 3:15 | 2022-04-01 |  |
 | [You Stupid Bitch](https://open.spotify.com/track/65wEZxhPlAERKLcSbTD7qc) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn) | 3:15 | 2022-04-01 | 2022-11-11 |
 | [Young Dumb](https://open.spotify.com/track/2aR3eKxV0x7VEh6ZMJlduS) | [NOISY](https://open.spotify.com/artist/5bt1iZVk3VV1LxRL4wzZ9F) | [Young Dumb](https://open.spotify.com/album/01yhvFMmHQ3ORrRymeWxxn) | 3:25 | 2022-04-01 | 2022-07-28 |
 | [Young Forever](https://open.spotify.com/track/1m9BaQlbJBW02RF9jR00tX) | [Vistas](https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc) | [Young Forever](https://open.spotify.com/album/1EAnB5KJlF0OEos4z0YDNj) | 3:30 | 2022-04-01 | 2022-07-29 |

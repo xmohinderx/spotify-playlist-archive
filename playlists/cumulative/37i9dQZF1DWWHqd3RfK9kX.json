@@ -48,6 +48,24 @@
     },
     {
       "album": {
+        "name": "Feelgood Klassiker",
+        "url": "https://open.spotify.com/album/3E4WGUFoaa08YekZx2sNR9"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "date_added": "2020-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128785,
+      "name": "(What A) Wonderful World - Mono",
+      "url": "https://open.spotify.com/track/7K99Vc7CcTIHI0C1VISKS0"
+    },
+    {
+      "album": {
         "name": "The Wonderful World Of Sam Cooke",
         "url": "https://open.spotify.com/album/11qEWtxwrKQUgOBPsff4op"
       },
@@ -1005,7 +1023,7 @@
       ],
       "date_added": "2020-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 150613,
       "name": "Garota de Ipanema",
       "url": "https://open.spotify.com/track/7CzWvXHsAFAJeXAEHNXRdf"
@@ -1370,6 +1388,24 @@
     },
     {
       "album": {
+        "name": "Festej\u00e1 con ritmos latinos",
+        "url": "https://open.spotify.com/album/3nnjSxO8sva22SJQgOwKYL"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2020-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278866,
+      "name": "La Vida Es Un Carnaval",
+      "url": "https://open.spotify.com/track/7HL0P35A96wkutKopiovaX"
+    },
+    {
+      "album": {
         "name": "Historia M\u00fasical - 30 \u00c9xitos",
         "url": "https://open.spotify.com/album/1xNSKvjq7Te0taB7oyocdj"
       },
@@ -1493,7 +1529,7 @@
       ],
       "date_added": "2020-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 159466,
       "name": "Mais Que Nada",
       "url": "https://open.spotify.com/track/6YTBfxkdGce9pLEy9jG9Jo"
@@ -1773,7 +1809,7 @@
       ],
       "date_added": "2020-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 123173,
       "name": "O Namorado Da Vi\u00fava",
       "url": "https://open.spotify.com/track/0iM2mFz8ijP7Ngm5BXcRo2"
@@ -2001,7 +2037,7 @@
       ],
       "date_added": "2020-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 167066,
       "name": "Por Causa De Voc\u00ea, Menina",
       "url": "https://open.spotify.com/track/0YojqXjn4xb5hblpFAhqJr"

@@ -4,7 +4,7 @@
 
 > 90s acoustics, mellow hits, and classic unplugged versions.
 
-119 songs - 8 hr 29 min - [published](https://open.spotify.com/playlist/0FgSybGr6AtuqHlcsxaZUL)
+120 songs - 8 hr 34 min - [published](https://open.spotify.com/playlist/0FgSybGr6AtuqHlcsxaZUL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [Lilac Wine](https://open.spotify.com/track/1StXVL5gClph4z4XzanYko) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Grace](https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS) | 4:32 | 2020-11-18 |  |
 | [Linger](https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We?](https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI) | 4:34 | 2020-11-18 |  |
 | [Losing My Religion](https://open.spotify.com/track/74EV0g12ihUoOUXMprFpZB) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Out Of Time \(U.S\. Version\)](https://open.spotify.com/album/4v5hSLj6ClyLqj2nnaPbfD) | 4:27 | 2020-11-18 | 2022-07-29 |
-| [Losing My Religion](https://open.spotify.com/track/31AOj9sFz2gM0O3hMARRBx) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Out Of Time \(25th Anniversary Edition\)](https://open.spotify.com/album/6yEuIwTQpciH1qtj7mP5GK) | 4:28 | 2020-11-18 |  |
+| [Losing My Religion](https://open.spotify.com/track/31AOj9sFz2gM0O3hMARRBx) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Out Of Time \(25th Anniversary Edition\)](https://open.spotify.com/album/6yEuIwTQpciH1qtj7mP5GK) | 4:28 | 2020-11-18 | 2022-11-12 |
 | [Lovefool \- Radio Edit](https://open.spotify.com/track/0u4htORODiTK9vHVA89MQX) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [First Band On The Moon](https://open.spotify.com/album/0YI7QPNUGq8NTB6Nd8nWfd) | 3:13 | 2020-11-18 |  |
 | [More Than Words](https://open.spotify.com/track/1gVgkQFOKa8Wc1HYsJtPdH) | [Extreme](https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L) | [Extreme II \- Pornograffitti](https://open.spotify.com/album/7DKHQxJTI32UyCdDdGwvRC) | 5:34 | 2020-11-18 |  |
 | [Morning Theft](https://open.spotify.com/track/4dYrMJkjysQFCjSbNCzZdz) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Sketches for My Sweetheart The Drunk](https://open.spotify.com/album/6xgKRIMW4HHGXUpfJ6aRuL) | 3:38 | 2020-11-18 | 2022-07-08 |
@@ -88,7 +88,7 @@
 | [Push](https://open.spotify.com/track/2KVwlelhxKUy8LVV6JypH3) | [Matchbox Twenty](https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1) | [Yourself or Someone Like You](https://open.spotify.com/album/4vUXTcKz7tXxrNl84meN6i) | 3:58 | 2020-11-18 |  |
 | [Satisfied Mind \- Live at WFMU, East Orange, NJ \- Oct 1992](https://open.spotify.com/track/59J9tAbY39foKp478aUsWX) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Sketches for My Sweetheart The Drunk](https://open.spotify.com/album/6xgKRIMW4HHGXUpfJ6aRuL) | 5:57 | 2020-11-18 | 2022-07-29 |
 | [Save Me](https://open.spotify.com/track/0EqtsCvcDjEz6svFsaV5HN) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Magnolia \(Music from the Motion Picture\)](https://open.spotify.com/album/6jbjx0LGKl11H6UtrgS2nV) | 4:34 | 2020-11-18 |  |
-| [Save Tonight](https://open.spotify.com/track/1t2Hq2WIBcZINOEnK6mdJG) | [Eagle\-Eye Cherry](https://open.spotify.com/artist/3ngKsDXZAssmljeXCvEgOe) | [Desireless](https://open.spotify.com/album/3P2WRy9eBoBbSTCZWGQOoO) | 3:59 | 2020-11-18 |  |
+| [Save Tonight](https://open.spotify.com/track/1t2Hq2WIBcZINOEnK6mdJG) | [Eagle\-Eye Cherry](https://open.spotify.com/artist/3ngKsDXZAssmljeXCvEgOe) | [Desireless](https://open.spotify.com/album/3P2WRy9eBoBbSTCZWGQOoO) | 3:59 | 2020-11-18 | 2022-11-12 |
 | [Save Tonight](https://open.spotify.com/track/0smyCrJiibi2uwCiq5R1vj) | [Eagle\-Eye Cherry](https://open.spotify.com/artist/3ngKsDXZAssmljeXCvEgOe) | [Desireless](https://open.spotify.com/album/0zS5fFa2I679lrdhSPAyIe) | 4:02 | 2020-11-18 | 2022-07-29 |
 | [Say Yes](https://open.spotify.com/track/1PyPK82Vd79mBJcuqA4Dv1) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or](https://open.spotify.com/album/1Od4S26RB37khls09dsUxL) | 2:19 | 2020-11-18 | 2022-07-25 |
 | [Say Yes](https://open.spotify.com/track/3XtkcPHbYX0BImTQLlbSVN) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or](https://open.spotify.com/album/6KMdn9HDIqcBPaaok0K34K) | 2:19 | 2020-11-18 |  |
@@ -119,8 +119,9 @@
 | [Where Is My Mind? \- Remastered](https://open.spotify.com/track/7wCmS9TTVUcIhRalDYFgPy) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Surfer Rosa](https://open.spotify.com/album/50j4Wm1b9hLpSpPIA39Vp9) | 3:54 | 2020-11-18 |  |
 | [Who Will Save Your Soul](https://open.spotify.com/track/0OH8dSQmKm2zjhqRPYsk1h) | [Jewel](https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP) | [Pieces Of You](https://open.spotify.com/album/3g9baRrkyeaxVVlKALv9Pr) | 3:59 | 2020-11-18 |  |
 | [Who Will Save Your Soul](https://open.spotify.com/track/2U40DawrPNZwD0lcqqx3bq) | [Jewel](https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP) | [Pieces Of You](https://open.spotify.com/album/3og7zxtvC4EmQiLrjg3Pf6) | 3:59 | 2020-11-18 | 2022-07-29 |
-| [Winter \- 2015 Remaster](https://open.spotify.com/track/11dfOCV0oBxzZ9fi2PZhvS) | [Tori Amos](https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32) | [Little Earthquakes \(Deluxe Edition\)](https://open.spotify.com/album/5bxqwBKvCyB67zOEVCrFZE) | 5:41 | 2020-11-18 | 2022-07-29 |
+| [Winter \- 2015 Remaster](https://open.spotify.com/track/11dfOCV0oBxzZ9fi2PZhvS) | [Tori Amos](https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32) | [Little Earthquakes \(Deluxe Edition\)](https://open.spotify.com/album/5bxqwBKvCyB67zOEVCrFZE) | 5:41 | 2020-11-18 |  |
 | [Wonderwall](https://open.spotify.com/track/7JrUo70YjhU4S7flcJtK0k) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\[What's The Story\] Morning Glory](https://open.spotify.com/album/1GIiLeoqfB5s7lMYPNPzbB) | 4:18 | 2020-11-18 | 2022-07-29 |
+| [Wonderwall](https://open.spotify.com/track/7dPd3dx4ipBe10xKuhj9eY) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Wonderwall](https://open.spotify.com/album/3ezI4EtsobNEhV0WSEsCGn) | 4:18 | 2020-11-18 |  |
 | [Wonderwall \- Remastered](https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \(Deluxe Remastered Edition\)](https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4) | 4:18 | 2020-11-18 | 2022-11-11 |
 | [You Learn \- Live / Unplugged](https://open.spotify.com/track/2yx1kAK1Fe2zTOsaDKSNBk) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Live / Unplugged](https://open.spotify.com/album/0LkVxRq8mZbPUaRgEEvxKv) | 4:21 | 2020-11-18 |  |
 | [You Oughta Know](https://open.spotify.com/track/1pYeG5Tc46NR2SmHFV6ZP8) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Spotify Singles](https://open.spotify.com/album/5NKwlPY53QWP0SEsJM3qwY) | 4:42 | 2020-11-18 | 2022-07-29 |

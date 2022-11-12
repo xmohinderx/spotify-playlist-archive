@@ -4,7 +4,7 @@
 
 > Good vibes for good times!
 
-99 songs - 6 hr 0 min - [published](https://open.spotify.com/playlist/5mjM1Y8WNUCGGkDhXj1uoY)
+101 songs - 6 hr 8 min - [published](https://open.spotify.com/playlist/5mjM1Y8WNUCGGkDhXj1uoY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [DJs](https://open.spotify.com/track/05u6c3jCVNewXt0rFUw7p4) | [Iration](https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk) | [The House That Bradley Built \(Deluxe Edition\)](https://open.spotify.com/album/0N5WXAYHV9oq1Xk2YJUYvg) | 3:24 | 2022-06-09 | 2022-08-07 |
 | [DJs](https://open.spotify.com/track/53jbCI3T7Enf0ts76ySNYn) | [Iration](https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk) | [DJs](https://open.spotify.com/album/7xMJkHig1DBtwA6um5ltM1) | 3:24 | 2021-08-24 | 2022-07-29 |
 | [Do Anything](https://open.spotify.com/track/0RPWvTmpHCKp46eyjVZCWm) | [Lion Rezz](https://open.spotify.com/artist/14fxWsn0UdNiW2GQIsL1wR) | [Do Anything](https://open.spotify.com/album/7mOChcsSzAoc1TjQr6TRRt) | 2:57 | 2021-08-24 |  |
-| [Down With You](https://open.spotify.com/track/47Axm1bTbEbOvkXpzOv5ZQ) | [Katchafire](https://open.spotify.com/artist/786hGmAEXHUeCdKPAj3JIa) | [Down With You \- Single](https://open.spotify.com/album/6rDY8B4Q1F3ZBhb7mmfMdT) | 3:30 | 2022-06-09 |  |
+| [Down With You](https://open.spotify.com/track/47Axm1bTbEbOvkXpzOv5ZQ) | [Katchafire](https://open.spotify.com/artist/786hGmAEXHUeCdKPAj3JIa) | [Down With You \- Single](https://open.spotify.com/album/6rDY8B4Q1F3ZBhb7mmfMdT) | 3:30 | 2022-06-09 | 2022-11-12 |
+| [Down With You](https://open.spotify.com/track/4hd7l6rGzpqVL4PwHRamrA) | [Katchafire](https://open.spotify.com/artist/786hGmAEXHUeCdKPAj3JIa) | [Down With You \- Single](https://open.spotify.com/album/3cSpydfTHQ3t8JXFFPTxaJ) | 3:30 | 2022-08-07 |  |
 | [Down With You](https://open.spotify.com/track/5Iok4ErbMb8ozpzZkLe2VA) | [Katchafire](https://open.spotify.com/artist/786hGmAEXHUeCdKPAj3JIa) | [Down With You](https://open.spotify.com/album/6AlOEPBNtnf5aFlKZ9JR4b) | 3:30 | 2021-08-24 | 2022-07-29 |
 | [Duduke](https://open.spotify.com/track/2rcH25kgOyS0cQbtiMkhQw) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Duduke](https://open.spotify.com/album/0GxxbvuvH78qHtiAWz7P4R) | 2:52 | 2021-08-24 | 2022-07-29 |
 | [Duduke](https://open.spotify.com/track/0MardG1WRPku1zcG7X2fBf) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [To Be Honest Tour](https://open.spotify.com/album/1GEaHcKNp2obE9fusfaaoR) | 2:52 | 2022-08-07 |  |
@@ -56,7 +57,8 @@
 | [Keep On Going](https://open.spotify.com/track/7xqZdTUOHGOy0brFTCIDoA) | [JR Kenna](https://open.spotify.com/artist/2ZwZZINTWJqycmO64P77kN), [Hussla D](https://open.spotify.com/artist/5fsptY9U01KKG6YbjrSnaf), [Maikal X](https://open.spotify.com/artist/4tTonvkbofY3aKwUKiUwGA) | [Keep On Going](https://open.spotify.com/album/49G044qCj857V1GK5M8jhn) | 3:09 | 2021-08-24 |  |
 | [Killing It Off](https://open.spotify.com/track/3y00AWgTQV4VOR130fHnpi) | [COTERIE](https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY) | [Killing It Off](https://open.spotify.com/album/1ctFVQRVfSdmXqni7wGgzr) | 2:49 | 2022-08-07 |  |
 | [Lonely Days](https://open.spotify.com/track/3iV6YZ2YC9m8BpifEHC3BZ) | [Fiji](https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Born and Raised II \(The Rebirth\)](https://open.spotify.com/album/2bT0tABmD8OSkWAXOBIdmK) | 3:43 | 2022-06-09 | 2022-09-27 |
-| [Lonely Days](https://open.spotify.com/track/51ejWDUN9Cgk5OTiBzTAwT) | [Fiji](https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Born and Raised II: The Rebirth](https://open.spotify.com/album/6O7o6Px8a8oJKTSY0cV40X) | 3:43 | 2022-08-07 |  |
+| [Lonely Days](https://open.spotify.com/track/51ejWDUN9Cgk5OTiBzTAwT) | [Fiji](https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Born and Raised II: The Rebirth](https://open.spotify.com/album/6O7o6Px8a8oJKTSY0cV40X) | 3:43 | 2022-08-07 | 2022-11-12 |
+| [Lonely Days](https://open.spotify.com/track/5GtGB0PGGApp4SR67OEXUy) | [Fiji](https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Lonely Days](https://open.spotify.com/album/3EO87q6YeR522w0C2qaVt4) | 3:43 | 2022-08-07 |  |
 | [Lonely Days \(feat\. J Boogs\)](https://open.spotify.com/track/4a6TfJDJdjuVCKJJWRSM4V) | [Fiji](https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ), [J Boogs](https://open.spotify.com/artist/6pLdgn9Cd1lc2QJHxrDYdX) | [Born and Raised II \(The Rebirth\)](https://open.spotify.com/album/4rVspDthKkUZ7OM5C0fD5j) | 3:42 | 2021-08-24 | 2022-07-29 |
 | [Love & Reggae](https://open.spotify.com/track/1XZVwke6skZtveoKAR1lCz) | [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Hybrid](https://open.spotify.com/album/0P3wyKb8NvfomTSG9ez9D8) | 3:33 | 2021-08-24 | 2022-07-29 |
 | [Love & Reggae](https://open.spotify.com/track/7nT9lGk3bf5rvnVbzPIE3N) | [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Hybrid](https://open.spotify.com/album/7lJJIGkMzRbMCEpv6N7qKS) | 3:33 | 2022-06-09 |  |

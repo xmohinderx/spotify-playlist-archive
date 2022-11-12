@@ -98,6 +98,24 @@
     },
     {
       "album": {
+        "name": "6am",
+        "url": "https://open.spotify.com/album/1FnVqpgCw1oyWAkogCJ8ex"
+      },
+      "artists": [
+        {
+          "name": "Cape Cub",
+          "url": "https://open.spotify.com/artist/4xbJS00sHh5wBd5nYgsk8z"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224918,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/3SCQzrZ5QtcWf47XjzOYZG"
+    },
+    {
+      "album": {
         "name": "All I Need",
         "url": "https://open.spotify.com/album/37aLvaAV7WyCbSTjYrufg3"
       },
@@ -131,6 +149,24 @@
       "duration_ms": 200917,
       "name": "All Over",
       "url": "https://open.spotify.com/track/70V9RSsIt4EoUTVWpbKIFX"
+    },
+    {
+      "album": {
+        "name": "Rocket Science EP",
+        "url": "https://open.spotify.com/album/0LrEWeJ0CdBQPz829uWYCj"
+      },
+      "artists": [
+        {
+          "name": "Shelbi",
+          "url": "https://open.spotify.com/artist/78c3wnb5LAQ39y1tdCEsIj"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200917,
+      "name": "All Over",
+      "url": "https://open.spotify.com/track/7yPCL1T7Fdit6rPgaEA5Kq"
     },
     {
       "album": {
@@ -909,7 +945,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 267935,
       "name": "Close Your Eyes",
       "url": "https://open.spotify.com/track/4HM8tkHTQ6JVSMfsJOrcAW"
@@ -1651,7 +1687,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 233520,
       "name": "Fountain Of Youth",
       "url": "https://open.spotify.com/track/46exzPPGwXU9Xcoz5u618b"
@@ -1745,7 +1781,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 179946,
       "name": "Friends I Barely Know",
       "url": "https://open.spotify.com/track/4Yzy5bGrMOlLpYcOtWxGIM"
@@ -1889,7 +1925,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 195706,
       "name": "Go Down Together",
       "url": "https://open.spotify.com/track/0oSHS50JBCzpgetwyPuf1d"
@@ -2015,7 +2051,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 185946,
       "name": "Half Light",
       "url": "https://open.spotify.com/track/1tYOB844iD7HxHvPtwDPNu"
@@ -2105,7 +2141,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-21",
+      "date_removed": null,
       "duration_ms": 263946,
       "name": "Heavy Heart",
       "url": "https://open.spotify.com/track/4ax7gFJPsJlE5RYX8Cg78s"
@@ -2231,7 +2267,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 190280,
       "name": "Hero",
       "url": "https://open.spotify.com/track/1B10XgaxSXRLAFq967oMpF"
@@ -2253,6 +2289,24 @@
       "duration_ms": 190280,
       "name": "Hero",
       "url": "https://open.spotify.com/track/6GRDI9suQHikFP6euIXnpq"
+    },
+    {
+      "album": {
+        "name": "Hero",
+        "url": "https://open.spotify.com/album/4quvPdrNahRVu6pP9LWG6a"
+      },
+      "artists": [
+        {
+          "name": "Family of the Year",
+          "url": "https://open.spotify.com/artist/7zsin6IgVsR1rqSRCNYDwq"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190280,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/6oB4bKc4vdPqYM7Ed51DKt"
     },
     {
       "album": {
@@ -3069,6 +3123,24 @@
       "duration_ms": 253880,
       "name": "Lose the Feeling",
       "url": "https://open.spotify.com/track/4Wj8YAiPnuleXJkJ1aEzLN"
+    },
+    {
+      "album": {
+        "name": "Household Name",
+        "url": "https://open.spotify.com/album/19trggALcFlGFsJDUiyVYn"
+      },
+      "artists": [
+        {
+          "name": "Momma",
+          "url": "https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243440,
+      "name": "Lucky",
+      "url": "https://open.spotify.com/track/5F0g9c91FF4xPorfVb0gwA"
     },
     {
       "album": {
@@ -4441,7 +4513,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 155533,
       "name": "The Feel",
       "url": "https://open.spotify.com/track/2w9bvFZOHo6I1ZWEkNKSpa"
@@ -4693,7 +4765,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-16",
+      "date_removed": null,
       "duration_ms": 156448,
       "name": "Until It Stops - Spotify Singles",
       "url": "https://open.spotify.com/track/0dN85vbuUdU7Hnu0hLZHsN"
@@ -4747,7 +4819,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 199360,
       "name": "Vagabonds",
       "url": "https://open.spotify.com/track/1kdSGyQyX0mxq75KSgcjic"

@@ -1,12 +1,12 @@
 {
   "description": "La m\u00fasica que prende la fiesta!",
-  "num_followers": 477960,
+  "num_followers": 478391,
   "original_name": "Joda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Nzg0MDE2MCwwMDAwMDAwMDBkYTBmMTlmMjM5ZTA3MWMxYjg3NGRhZTliM2RlZThj",
+  "snapshot_id": "MTY2Nzg0MDE2MCwwMDAwMDAwMDA1YWFmMjJhZDg1NDRjODk2MDM3MWZhZjYzZWU2ZjEz",
   "tracks": [
     {
       "added_at": "2022-10-22 00:34:57",
@@ -203,26 +203,6 @@
     {
       "added_at": "2022-10-22 00:34:57",
       "album": {
-        "name": "Desesperados",
-        "url": "https://open.spotify.com/album/3w1Tr9F91XMcsmBJQ8hS7H"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        }
-      ],
-      "duration_ms": 224996,
-      "name": "Desesperados",
-      "url": "https://open.spotify.com/track/6ZOcbKub95XSDESsKKuH41"
-    },
-    {
-      "added_at": "2022-10-22 00:34:57",
-      "album": {
         "name": "Volv\u00ed",
         "url": "https://open.spotify.com/album/23zzZlUiABIg4ftZbJ7peK"
       },
@@ -239,6 +219,26 @@
       "duration_ms": 230125,
       "name": "Volv\u00ed",
       "url": "https://open.spotify.com/track/2vmfvSoZBFAt9hhRoEByLi"
+    },
+    {
+      "added_at": "2022-10-22 00:34:57",
+      "album": {
+        "name": "Desesperados",
+        "url": "https://open.spotify.com/album/3w1Tr9F91XMcsmBJQ8hS7H"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        }
+      ],
+      "duration_ms": 224996,
+      "name": "Desesperados",
+      "url": "https://open.spotify.com/track/6ZOcbKub95XSDESsKKuH41"
     },
     {
       "added_at": "2022-10-22 00:34:57",
@@ -285,7 +285,7 @@
       "url": "https://open.spotify.com/track/4HYDUMY0xSpeBr0AMY9cUz"
     },
     {
-      "added_at": "2022-11-11 01:24:07",
+      "added_at": "2022-11-12 05:10:22",
       "album": {
         "name": "Champagne Frances",
         "url": "https://open.spotify.com/album/5vR1XQmIrMuZudpTJzomwI"
@@ -523,18 +523,18 @@
     {
       "added_at": "2022-10-22 00:34:57",
       "album": {
-        "name": "King Of Kings",
-        "url": "https://open.spotify.com/album/5LbfmeWh5cvLpR1Nfvdch5"
+        "name": "Reggaeton Rulers: Los Que Ponen",
+        "url": "https://open.spotify.com/album/369oPiSP9Y3CzTR6uWU4Da"
       },
       "artists": [
         {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
         }
       ],
-      "duration_ms": 315293,
-      "name": "Sali\u00f3 El Sol",
-      "url": "https://open.spotify.com/track/48NXpYRuvv9izul4oXhqS9"
+      "duration_ms": 182186,
+      "name": "Sensacion Del Bloque",
+      "url": "https://open.spotify.com/track/5clFSlfkCRlhnH1cAQjSBi"
     },
     {
       "added_at": "2022-10-22 00:34:57",
@@ -559,18 +559,18 @@
     {
       "added_at": "2022-10-22 00:34:57",
       "album": {
-        "name": "Reggaeton Rulers: Los Que Ponen",
-        "url": "https://open.spotify.com/album/369oPiSP9Y3CzTR6uWU4Da"
+        "name": "King Of Kings",
+        "url": "https://open.spotify.com/album/5LbfmeWh5cvLpR1Nfvdch5"
       },
       "artists": [
         {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
         }
       ],
-      "duration_ms": 182186,
-      "name": "Sensacion Del Bloque",
-      "url": "https://open.spotify.com/track/5clFSlfkCRlhnH1cAQjSBi"
+      "duration_ms": 315293,
+      "name": "Sali\u00f3 El Sol",
+      "url": "https://open.spotify.com/track/48NXpYRuvv9izul4oXhqS9"
     },
     {
       "added_at": "2022-10-22 00:34:57",
@@ -655,26 +655,6 @@
     {
       "added_at": "2022-10-22 00:34:57",
       "album": {
-        "name": "Nuevas Metas",
-        "url": "https://open.spotify.com/album/3jjhGPZjbKkW8b85zd7vfE"
-      },
-      "artists": [
-        {
-          "name": "La Factoria",
-          "url": "https://open.spotify.com/artist/4VsbQvC84B8Z3IsBY1HLQy"
-        },
-        {
-          "name": "Eddy Lover",
-          "url": "https://open.spotify.com/artist/7gR53ad9JjCweCv4f9MWEX"
-        }
-      ],
-      "duration_ms": 242390,
-      "name": "Perd\u00f3name",
-      "url": "https://open.spotify.com/track/6yLqoieklk9gwabLaUDJ4s"
-    },
-    {
-      "added_at": "2022-10-22 00:34:57",
-      "album": {
         "name": "Barrio Fino (Bonus Track Version)",
         "url": "https://open.spotify.com/album/4pLuE50wL9T26lSv42X0J2"
       },
@@ -691,6 +671,26 @@
       "duration_ms": 205520,
       "name": "Tu Pr\u00edncipe",
       "url": "https://open.spotify.com/track/2FNqnsX74ZlwduUAcnmzee"
+    },
+    {
+      "added_at": "2022-10-22 00:34:57",
+      "album": {
+        "name": "Nuevas Metas",
+        "url": "https://open.spotify.com/album/3jjhGPZjbKkW8b85zd7vfE"
+      },
+      "artists": [
+        {
+          "name": "La Factoria",
+          "url": "https://open.spotify.com/artist/4VsbQvC84B8Z3IsBY1HLQy"
+        },
+        {
+          "name": "Eddy Lover",
+          "url": "https://open.spotify.com/artist/7gR53ad9JjCweCv4f9MWEX"
+        }
+      ],
+      "duration_ms": 242390,
+      "name": "Perd\u00f3name",
+      "url": "https://open.spotify.com/track/6yLqoieklk9gwabLaUDJ4s"
     },
     {
       "added_at": "2022-10-22 00:34:57",
@@ -1135,38 +1135,6 @@
     {
       "added_at": "2022-10-22 00:34:57",
       "album": {
-        "name": "Hola (Remix)",
-        "url": "https://open.spotify.com/album/65Pp2tO1Ul66KcCmmkRGWZ"
-      },
-      "artists": [
-        {
-          "name": "Dalex",
-          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
-        },
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-        },
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        },
-        {
-          "name": "Juhn",
-          "url": "https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr"
-        },
-        {
-          "name": "D\u00edmelo Flow",
-          "url": "https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx"
-        }
-      ],
-      "duration_ms": 249520,
-      "name": "Hola - Remix",
-      "url": "https://open.spotify.com/track/5stPVcRqb4qixbafP9e8lt"
-    },
-    {
-      "added_at": "2022-10-22 00:34:57",
-      "album": {
         "name": "Mas Flow - Los Benjamins",
         "url": "https://open.spotify.com/album/0sMHBG6T20O56Wrtu1pR1f"
       },
@@ -1195,6 +1163,38 @@
       "duration_ms": 263293,
       "name": "Noche De Entierro",
       "url": "https://open.spotify.com/track/6ksWMnPcHNyNoNf3y1BQCO"
+    },
+    {
+      "added_at": "2022-10-22 00:34:57",
+      "album": {
+        "name": "Hola (Remix)",
+        "url": "https://open.spotify.com/album/65Pp2tO1Ul66KcCmmkRGWZ"
+      },
+      "artists": [
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        },
+        {
+          "name": "Juhn",
+          "url": "https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr"
+        },
+        {
+          "name": "D\u00edmelo Flow",
+          "url": "https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx"
+        }
+      ],
+      "duration_ms": 249520,
+      "name": "Hola - Remix",
+      "url": "https://open.spotify.com/track/5stPVcRqb4qixbafP9e8lt"
     },
     {
       "added_at": "2022-10-22 00:34:57",
@@ -1463,34 +1463,6 @@
     {
       "added_at": "2022-10-22 00:34:57",
       "album": {
-        "name": "La Mam\u00e1 de la Mam\u00e1",
-        "url": "https://open.spotify.com/album/2WG76KEpCWL8c790ZIEXk7"
-      },
-      "artists": [
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        },
-        {
-          "name": "Chael Produciendo",
-          "url": "https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e"
-        },
-        {
-          "name": "CJ",
-          "url": "https://open.spotify.com/artist/7arQA31aZVS8yS6zUveWzb"
-        },
-        {
-          "name": "El Cherry Scom",
-          "url": "https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "La Mam\u00e1 de la Mam\u00e1",
-      "url": "https://open.spotify.com/track/2L95U6syP0bV3fkYYOzmiW"
-    },
-    {
-      "added_at": "2022-10-22 00:34:57",
-      "album": {
         "name": "Sigue Bailandome",
         "url": "https://open.spotify.com/album/7v95vtyP4yh88N5fx5rYdB"
       },
@@ -1519,6 +1491,34 @@
       "duration_ms": 352441,
       "name": "Sigue Bailandome",
       "url": "https://open.spotify.com/track/0GmiGIxXDNrePrHBpijYDp"
+    },
+    {
+      "added_at": "2022-10-22 00:34:57",
+      "album": {
+        "name": "La Mam\u00e1 de la Mam\u00e1",
+        "url": "https://open.spotify.com/album/2WG76KEpCWL8c790ZIEXk7"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Chael Produciendo",
+          "url": "https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e"
+        },
+        {
+          "name": "CJ",
+          "url": "https://open.spotify.com/artist/7arQA31aZVS8yS6zUveWzb"
+        },
+        {
+          "name": "El Cherry Scom",
+          "url": "https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "La Mam\u00e1 de la Mam\u00e1",
+      "url": "https://open.spotify.com/track/2L95U6syP0bV3fkYYOzmiW"
     },
     {
       "added_at": "2022-10-22 00:34:57",
@@ -1683,46 +1683,6 @@
     {
       "added_at": "2022-10-22 00:34:57",
       "album": {
-        "name": "Nicky Jam: Bzrp Music Sessions, Vol. 41",
-        "url": "https://open.spotify.com/album/0uEAjbeFr70dBF41LTs1cD"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 158086,
-      "name": "Nicky Jam: Bzrp Music Sessions, Vol. 41",
-      "url": "https://open.spotify.com/track/03LfOYi0icz4souspZVVhq"
-    },
-    {
-      "added_at": "2022-10-22 00:34:57",
-      "album": {
-        "name": "Envolver Remix",
-        "url": "https://open.spotify.com/album/33P0aSLbBtHGYPYMehkPRY"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        }
-      ],
-      "duration_ms": 182863,
-      "name": "Envolver Remix",
-      "url": "https://open.spotify.com/track/4B7mXGdCLQFulSxPTIEjPu"
-    },
-    {
-      "added_at": "2022-10-22 00:34:57",
-      "album": {
         "name": "Fiel (Remix)",
         "url": "https://open.spotify.com/album/1jBESH0DEFN7z8WH8B0B5c"
       },
@@ -1751,6 +1711,26 @@
       "duration_ms": 349546,
       "name": "Fiel - Remix",
       "url": "https://open.spotify.com/track/43qcs9NpJhDxtG91zxFkj7"
+    },
+    {
+      "added_at": "2022-10-22 00:34:57",
+      "album": {
+        "name": "Nicky Jam: Bzrp Music Sessions, Vol. 41",
+        "url": "https://open.spotify.com/album/0uEAjbeFr70dBF41LTs1cD"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 158086,
+      "name": "Nicky Jam: Bzrp Music Sessions, Vol. 41",
+      "url": "https://open.spotify.com/track/03LfOYi0icz4souspZVVhq"
     },
     {
       "added_at": "2022-10-22 00:34:57",
@@ -1787,6 +1767,26 @@
       "duration_ms": 289898,
       "name": "El Efecto - Remix",
       "url": "https://open.spotify.com/track/74j34STf8L6uADnTN69ohv"
+    },
+    {
+      "added_at": "2022-10-22 00:34:57",
+      "album": {
+        "name": "Envolver Remix",
+        "url": "https://open.spotify.com/album/33P0aSLbBtHGYPYMehkPRY"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        }
+      ],
+      "duration_ms": 182863,
+      "name": "Envolver Remix",
+      "url": "https://open.spotify.com/track/4B7mXGdCLQFulSxPTIEjPu"
     },
     {
       "added_at": "2022-10-22 00:34:57",
@@ -1891,22 +1891,6 @@
     {
       "added_at": "2022-10-22 00:34:57",
       "album": {
-        "name": "cuatro veinte",
-        "url": "https://open.spotify.com/album/2nanRnmnKHM3TsZRGeKidH"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 133894,
-      "name": "cuatro veinte",
-      "url": "https://open.spotify.com/track/1TpZKxGnHp37ohJRszTSiq"
-    },
-    {
-      "added_at": "2022-10-22 00:34:57",
-      "album": {
         "name": "Si No Te Tengo / \u00c1ngel / Aquello Que Pas\u00f3",
         "url": "https://open.spotify.com/album/0BmRinej1BC9Dk6AmpY6ND"
       },
@@ -1919,6 +1903,22 @@
       "duration_ms": 428438,
       "name": "Si No Te Tengo / \u00c1ngel / Aquello Que Pas\u00f3",
       "url": "https://open.spotify.com/track/1fKFxmSByZfjwVSbq0PHye"
+    },
+    {
+      "added_at": "2022-10-22 00:34:57",
+      "album": {
+        "name": "cuatro veinte",
+        "url": "https://open.spotify.com/album/2nanRnmnKHM3TsZRGeKidH"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 133894,
+      "name": "cuatro veinte",
+      "url": "https://open.spotify.com/track/1TpZKxGnHp37ohJRszTSiq"
     },
     {
       "added_at": "2022-10-22 00:34:57",
@@ -2163,22 +2163,22 @@
     {
       "added_at": "2022-10-22 00:34:57",
       "album": {
-        "name": "Intimo",
-        "url": "https://open.spotify.com/album/1CYQlkKE5Q0khU6eMwVAVt"
+        "name": "Si Me Tomo una Cerveza",
+        "url": "https://open.spotify.com/album/5TXzXK8XclNSvQccVUiCf2"
       },
       "artists": [
         {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+          "name": "Migrantes",
+          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
         },
         {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+          "name": "Alico",
+          "url": "https://open.spotify.com/artist/7n3wAgh1j3RRbxYzfZTQDF"
         }
       ],
-      "duration_ms": 201818,
-      "name": "Te Robar\u00e9",
-      "url": "https://open.spotify.com/track/4PJ3umtW1aWdfh5EITHc6T"
+      "duration_ms": 182198,
+      "name": "Si Me Tomo Una Cerveza",
+      "url": "https://open.spotify.com/track/3lCbsHaN1wCxyDzcNN2x4N"
     },
     {
       "added_at": "2022-10-22 00:34:57",

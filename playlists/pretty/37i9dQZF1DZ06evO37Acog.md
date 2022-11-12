@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO37Acog.md) - [plain]
 
 > This is Ramon Ayala Y Sus Bravos Del Norte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,583 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,633 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO37Acog.md) - [plain]
 | 11 | [Que Me Lleve El Diablo](https://open.spotify.com/track/4aChlMVq129vxl8lb0xreC) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Besos Y Caricias](https://open.spotify.com/album/0IgrzDlCJEiQhvxKlKQHsl) | 3:30 |
 | 12 | [Mi Golondrina \- En Vivo](https://open.spotify.com/track/1oXTiFmljKee2o6tmOO8sR) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [En Vivo...El Hombre Y Su Musica](https://open.spotify.com/album/6HniHEkUrAv3Gb14p7qayA) | 2:58 |
 | 13 | [Entiérrenme Cantando](https://open.spotify.com/track/04vH8GYCVFxARTN7LydGdI) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [PURA MUSICA DE CANTINA](https://open.spotify.com/album/17S07IHyOj067N2Q7ffz4Z) | 4:12 |
-| 14 | [Corrido de Chito Cano](https://open.spotify.com/track/4jKUq8Q2ME0g3cukpQJE7X) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [CORRIDOS FAMOSOS VOL\. 2 \(Grabación Original Remasterizada\)](https://open.spotify.com/album/4HHc12osVCVVYZgJ8JYLd7) | 3:27 |
-| 15 | [Puño De Tierra Aka Un Puño De Tierra](https://open.spotify.com/track/0smNhvm21KgOkfrdaEaZqy) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Puño De Tierra](https://open.spotify.com/album/6eA4QybNgwI6q0txjuKat5) | 3:47 |
+| 14 | [Puño De Tierra Aka Un Puño De Tierra](https://open.spotify.com/track/0smNhvm21KgOkfrdaEaZqy) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Puño De Tierra](https://open.spotify.com/album/6eA4QybNgwI6q0txjuKat5) | 3:47 |
+| 15 | [Corrido de Chito Cano](https://open.spotify.com/track/4jKUq8Q2ME0g3cukpQJE7X) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [CORRIDOS FAMOSOS VOL\. 2 \(Grabación Original Remasterizada\)](https://open.spotify.com/album/4HHc12osVCVVYZgJ8JYLd7) | 3:27 |
 | 16 | [La Vecina Me Puso El Dedo \- \(En Vivo\)](https://open.spotify.com/track/48WxZIQmHcE8spvOV78bih) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [En Vivo...El Hombre Y Su Musica](https://open.spotify.com/album/6HniHEkUrAv3Gb14p7qayA) | 3:50 |
 | 17 | [Chaparra De Mi Amor](https://open.spotify.com/track/6O520IZgFxvuPnBms0But5) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [\(DE LA PELICULA\) DINASTIA DE LA MUERTE \(Grabación Original Remasterizada\)](https://open.spotify.com/album/1bEyiwgCSxtRBpqgEaQ9Qs) | 3:09 |
 | 18 | [Un Puño De Tierra](https://open.spotify.com/track/466JLm2qQmjOzfbee0PIg6) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [40 Éxitos](https://open.spotify.com/album/7L9TeAqSwkvSkFzyogoVxd) | 3:46 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO37Acog.md) - [plain]
 | 42 | [El Tonto Que Te Amó](https://open.spotify.com/track/0U8vL1iTfY59FNyUNeVQxx) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Amigos Del Alma](https://open.spotify.com/album/1ec2ZvSs6ZXYW2PxyfaS1t) | 2:40 |
 | 43 | [Hay Unos Ojos](https://open.spotify.com/track/6sz8xJn16194T5KAIVqrnF) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [No Vengas A Rogarme](https://open.spotify.com/album/2q8HkR7CQ2AB5Xj95p40Ji) | 3:00 |
 | 44 | [Dos Monedas](https://open.spotify.com/track/7eVY9hPDlrY6M23hiR239q) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [40 Éxitos](https://open.spotify.com/album/7L9TeAqSwkvSkFzyogoVxd) | 3:23 |
-| 45 | [Linda Chiquilla \- \(En Vivo\)](https://open.spotify.com/track/3P1s3K8V03Dhwq4o6LDAWH) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [En Vivo...El Hombre Y Su Musica](https://open.spotify.com/album/6HniHEkUrAv3Gb14p7qayA) | 3:03 |
-| 46 | [Tengo Miedo](https://open.spotify.com/track/3ecmw1gIHba4NGkifXwkdv) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [RECORDANDO A LOS RELAMPAGOS \(Grabación Original Remasterizada\)](https://open.spotify.com/album/4FulDas7jKIV4h7JS4ay7x) | 2:52 |
-| 47 | [Llegaste Tu](https://open.spotify.com/track/0TfW20hfAW1DxHkeiKN8R5) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [15 Éxitos](https://open.spotify.com/album/5xA3Oq6EdroHpAW6gBZBsJ) | 2:51 |
-| 48 | [Dos Hojas Sin Rumbo](https://open.spotify.com/track/6yWXKiGLhagm6f9biSM7Bk) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [DOS HOJAS SIN RUMBO / ENSÉÑAME A OLVIDAR \(Grabación Original Remasterizada\)](https://open.spotify.com/album/5igh7OUbG6jyg5yXVWnTQk) | 3:27 |
+| 45 | [Tengo Miedo](https://open.spotify.com/track/3ecmw1gIHba4NGkifXwkdv) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [RECORDANDO A LOS RELAMPAGOS \(Grabación Original Remasterizada\)](https://open.spotify.com/album/4FulDas7jKIV4h7JS4ay7x) | 2:52 |
+| 46 | [Linda Chiquilla \- \(En Vivo\)](https://open.spotify.com/track/3P1s3K8V03Dhwq4o6LDAWH) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [En Vivo...El Hombre Y Su Musica](https://open.spotify.com/album/6HniHEkUrAv3Gb14p7qayA) | 3:03 |
+| 47 | [Dos Hojas Sin Rumbo](https://open.spotify.com/track/6yWXKiGLhagm6f9biSM7Bk) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [DOS HOJAS SIN RUMBO / ENSÉÑAME A OLVIDAR \(Grabación Original Remasterizada\)](https://open.spotify.com/album/5igh7OUbG6jyg5yXVWnTQk) | 3:27 |
+| 48 | [Llegaste Tu](https://open.spotify.com/track/0TfW20hfAW1DxHkeiKN8R5) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [15 Éxitos](https://open.spotify.com/album/5xA3Oq6EdroHpAW6gBZBsJ) | 2:51 |
 | 49 | [Lágrimas](https://open.spotify.com/track/2NGw51VQMr7suG30O3iFsF) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Lagrimas](https://open.spotify.com/album/0JN8mZ3miJNMroapco383C) | 2:18 |
 | 50 | [Atras De La Raya \- \(En Vivo\)](https://open.spotify.com/track/7AZLFXk4B3eA2Rp5nNcr8w) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [En Vivo...El Hombre Y Su Musica](https://open.spotify.com/album/6HniHEkUrAv3Gb14p7qayA) | 3:39 |
 
-Snapshot ID: `Mjc4MDE1OTIsMDAwMDAwMDA0ODlmYjllODIyMDEzN2RlZWY1N2Q1MjYyNzI5ZDhmMA==`
+Snapshot ID: `Mjc4MDI5OTksMDAwMDAwMDBkYThmOTJlNTEwMjA3MGI4NDk1ZWYwODhhOWQ4NGMzNA==`

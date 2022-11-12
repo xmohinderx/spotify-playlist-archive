@@ -4,7 +4,7 @@
 
 > Latin tunes that both you and your little one can enjoy.
 
-73 songs - 4 hr 56 min - [published](https://open.spotify.com/playlist/1SqxzWFC8yJ3MTMxVntHHd)
+74 songs - 5 hr 0 min - [published](https://open.spotify.com/playlist/1SqxzWFC8yJ3MTMxVntHHd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [La Ventanita](https://open.spotify.com/track/5CmVYFZinikaqh9Mf2J1Xl) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Grandes Exitos](https://open.spotify.com/album/7jOSnwx4l31yUCmcE3qElN) | 4:46 | 2022-01-01 |  |
 | [La Vida Es Un Carnaval](https://open.spotify.com/track/3Rjc14RoRucHhEWvv3W3xW) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Mi Vida Es Cantar](https://open.spotify.com/album/2clEi9iP3VkzZzkydAjFDA) | 4:35 | 2022-01-01 | 2022-07-29 |
 | [La Vida Es Un Carnaval](https://open.spotify.com/track/1BwrMGGhPA6GarWIYaFrW8) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Para La Eternidad](https://open.spotify.com/album/2MSP1JG7KflqYqAHtk7wlB) | 4:38 | 2022-01-01 | 2022-11-11 |
+| [La Vida Es Un Carnaval](https://open.spotify.com/track/7HL0P35A96wkutKopiovaX) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Festejá con ritmos latinos](https://open.spotify.com/album/3nnjSxO8sva22SJQgOwKYL) | 4:38 | 2022-01-01 |  |
 | [Lento](https://open.spotify.com/track/2NsMwNWumJXCdTg2IZCLZ5) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Si](https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB) | 3:59 | 2022-01-01 |  |
 | [Let's Get Loud](https://open.spotify.com/track/42nSaPdT6g3ZIMHmKLlP2p) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [On The 6](https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc) | 3:59 | 2022-01-01 |  |
 | [Limón y Sal](https://open.spotify.com/track/7dITAq1YP5e0kTcaDq4YWI) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Limon Y Sal](https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q) | 3:25 | 2022-01-01 |  |
@@ -57,7 +58,7 @@
 | [No Me Ames \(with Marc Anthony\) \- Tropical Remix](https://open.spotify.com/track/2gcnNWEv9x0g6FhEeWtYuV) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [On The 6](https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc) | 5:03 | 2022-01-01 |  |
 | [No Me Queda Más](https://open.spotify.com/track/1r28ZDlVxz24Rmy8Sq9REY) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Amor Prohibido](https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E) | 3:20 | 2022-01-01 |  |
 | [Obsesion](https://open.spotify.com/track/65H6t1WQBim6q93yM8fEwn) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi), [Judy Santos](https://open.spotify.com/artist/1seU2dut8PjGSZbgrPl7by) | [We Broke The Rules](https://open.spotify.com/album/5QdYO6Q2POaG7dhVIsJeWd) | 4:14 | 2022-01-01 |  |
-| [Oye](https://open.spotify.com/track/7k8Ykg4aJ1rSWB1nCBUQsI) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [gloria!](https://open.spotify.com/album/5bSHuTJy9CAEmbHHA5CgjO) | 4:39 | 2022-01-01 |  |
+| [Oye](https://open.spotify.com/track/7k8Ykg4aJ1rSWB1nCBUQsI) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [gloria!](https://open.spotify.com/album/5bSHuTJy9CAEmbHHA5CgjO) | 4:39 | 2022-01-01 | 2022-11-12 |
 | [Oye Mi Amor](https://open.spotify.com/track/5EJ2THuhAapEIeQOtXUQ0x) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [¿Dónde Jugarán Los Niños?](https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK) | 4:23 | 2022-01-01 |  |
 | [Pero Qué Necesidad](https://open.spotify.com/track/5UTmhKIe3xRyYrNnVMNRCw) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Lo Mejor De Los Tres Grandes](https://open.spotify.com/album/3Z5BcHC31NUFParR4uostL) | 5:51 | 2022-01-01 |  |
 | [Piel Morena](https://open.spotify.com/track/2Lv1EpgTXrZ2gzJfoNGVnw) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [En Extasis](https://open.spotify.com/album/48Squ1oYsMrjEGUKnmEHyp) | 4:42 | 2022-01-01 |  |

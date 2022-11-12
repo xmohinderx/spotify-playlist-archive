@@ -4,7 +4,7 @@
 
 > Trace the history of Jazz from timeless classics to boundary\-breaking contemporary favorites from the women of Jazz\. Cover: Diana Krall
 
-181 songs - 12 hr 58 min - [published](https://open.spotify.com/playlist/1MEL3p6LpkU53j4atRB7b3)
+182 songs - 13 hr 2 min - [published](https://open.spotify.com/playlist/1MEL3p6LpkU53j4atRB7b3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [Cry Me A River](https://open.spotify.com/track/3k8WOOIt8iHgfXzTXBonDC) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [The Look Of Love](https://open.spotify.com/album/4nmjBh2Td9I9x9JDncrQr3) | 5:03 | 2021-12-02 |  |
 | [Daddy Won't You Please Come Home \(with The New Englanders\)](https://open.spotify.com/track/3Tr4rNbK1hSMS9hlKwgy1l) | [Annette Hanshaw](https://open.spotify.com/artist/2NH5zRbA36q4uznwcJ8yDk), [The New Englanders](https://open.spotify.com/artist/07x7aTPPSmupbu63ddzTVd) | [Bioshock 2: The Official Soundtrack \- Music From And Inspired By The Game](https://open.spotify.com/album/36ND4UndVMbE4FlGAd90F0) | 2:58 | 2021-12-02 |  |
 | [Dance Me To The End Of Love](https://open.spotify.com/track/4gBdOhWJpOZBTx0fsreDcM) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Queer as Folk \- The Final Season](https://open.spotify.com/album/1MvhUanwf3vj9377tOezPi) | 3:57 | 2021-12-02 | 2022-07-29 |
-| [Dance Me To The End Of Love](https://open.spotify.com/track/13zjNPZUyWvzZC2dlYjW0L) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Careless Love](https://open.spotify.com/album/4Kev9VMY5Ypfo19jRqK6bW) | 3:57 | 2022-03-08 |  |
+| [Dance Me To The End Of Love](https://open.spotify.com/track/0J3zm3hMLDQIOlWSSjJNpu) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Cafe in Bangkok](https://open.spotify.com/album/3xiRTD8CdlPdTNaQbI9AyZ) | 3:57 | 2022-10-07 |  |
+| [Dance Me To The End Of Love](https://open.spotify.com/track/13zjNPZUyWvzZC2dlYjW0L) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Careless Love](https://open.spotify.com/album/4Kev9VMY5Ypfo19jRqK6bW) | 3:57 | 2022-03-08 | 2022-11-12 |
 | [Dark Murmur](https://open.spotify.com/track/5Ei3UKAh5a26K11WPKsu2v) | [Shapeshifters](https://open.spotify.com/artist/1SuFELSa8GkDHVvdMU5mLE) | [Shapeshifters](https://open.spotify.com/album/5T7P7yFBUi5VFL8bczI8gL) | 5:53 | 2021-12-02 | 2022-07-29 |
 | [Dark Murmur](https://open.spotify.com/track/6zOt0uyCSKyAfzt4vd2yMA) | [Shapeshifters](https://open.spotify.com/artist/1SuFELSa8GkDHVvdMU5mLE) | [Shapeshifters](https://open.spotify.com/album/3ibPxfErSDTyhJCVdjJYNv) | 5:53 | 2022-03-08 |  |
 | [Devil's Juice](https://open.spotify.com/track/0snSmazlzJYdVZrTxmomMQ) | [Poppy Ajudha](https://open.spotify.com/artist/6oPQiSj92N4mk5jXLtX1bl) | [Devil's Juice](https://open.spotify.com/album/1UTSfCJYrSYMFMQf8XGTsn) | 3:25 | 2021-12-02 | 2022-07-29 |

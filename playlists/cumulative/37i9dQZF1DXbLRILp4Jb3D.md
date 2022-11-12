@@ -4,7 +4,7 @@
 
 > Dulces canciones para disfrutar con tus bebés.
 
-85 songs - 4 hr 12 min - [published](https://open.spotify.com/playlist/3Sou9Aqcj2mfye1JbwSo0i)
+86 songs - 4 hr 13 min - [published](https://open.spotify.com/playlist/3Sou9Aqcj2mfye1JbwSo0i)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,10 +42,11 @@
 | [El Piojo y la Pulga](https://open.spotify.com/track/5nC6wXvj96JvcAafI4DUZA) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Viva Kids, Vol\. 1](https://open.spotify.com/album/7GaUkXZ3XoxhajIFGd2Cw5) | 2:32 | 2020-07-16 | 2022-07-29 |
 | [El Primer Día de Escuela](https://open.spotify.com/track/3fkpODmwBAdwSl8AbLWGsB) | [Patylu](https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb) | [El Primer Día de Escuela](https://open.spotify.com/album/6Al0OxQ0ESjbWkiWHYpKhX) | 2:38 | 2020-07-16 | 2022-07-29 |
 | [El Valiente Martin](https://open.spotify.com/track/03c1FZqD6XhciDO6yQNMjn) | [Atención Atención](https://open.spotify.com/artist/18xacmB7GVCrXxcPX9IILZ) | [A Descansar Con Atención Atención](https://open.spotify.com/album/4ecgukloYqb5L7Aefaz1cx) | 1:43 | 2020-07-16 | 2022-07-19 |
-| [Elena of Avalor \(Main Title\)](https://open.spotify.com/track/5axMcmrGtshbBUIThgmIis) | [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [Elena de Avalor](https://open.spotify.com/album/1IPKeos1MgU37PeWiAIpOw) | 1:02 | 2020-07-16 |  |
+| [Elena of Avalor \(Main Title\)](https://open.spotify.com/track/5axMcmrGtshbBUIThgmIis) | [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [Elena de Avalor](https://open.spotify.com/album/1IPKeos1MgU37PeWiAIpOw) | 1:02 | 2020-07-16 | 2022-11-12 |
 | [Elena of Avalor \(Main Title\) \- From "Elena of Avalor"/Spanish Version](https://open.spotify.com/track/2RIGpSQlV27eJmf7XfeHjM) | [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [Elena of Avalor \(Main Title\) \[From "Elena of Avalor"/Spanish Version\]](https://open.spotify.com/album/3F5eX5GOjw2NzAZKJahLGA) | 1:02 | 2020-07-16 | 2022-07-29 |
+| [Elena of Avalor \(Main Title\) \- Spanish Version](https://open.spotify.com/track/0BpiiSV7PRX7Jny314xrk4) | [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [Elena of Avalor \(Original Soundtrack\)](https://open.spotify.com/album/42OLLIcdDeCiLitu9o3FYw) | 1:02 | 2020-07-16 |  |
 | [En la Mañana](https://open.spotify.com/track/6tmCiEf2w2Dz4vsDIoQRKX) | [Ola Maya](https://open.spotify.com/artist/2AOTBXCsmvLVnt3KwTFlrF) | [Conciencia Musical para Niños](https://open.spotify.com/album/6ufal3clyi5V10KiAqFmTe) | 2:01 | 2020-07-16 | 2022-07-22 |
-| [Esta Noche Es Para Amar](https://open.spotify.com/track/7DAGQT2LDafeGUdAxTptMe) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Esta Noche Es Para Amar](https://open.spotify.com/album/4fbnK0iTPsM3XweHucKYV3) | 4:01 | 2020-07-16 |  |
+| [Esta Noche Es Para Amar](https://open.spotify.com/track/7DAGQT2LDafeGUdAxTptMe) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Esta Noche Es Para Amar](https://open.spotify.com/album/4fbnK0iTPsM3XweHucKYV3) | 4:01 | 2020-07-16 | 2022-11-12 |
 | [Estrellita](https://open.spotify.com/track/5I1B7QAifCIE2yQVGz7NLb) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Viva Kids, Vol\. 1](https://open.spotify.com/album/7GaUkXZ3XoxhajIFGd2Cw5) | 6:04 | 2020-07-16 |  |
 | [Estrellita Viajera](https://open.spotify.com/track/3HqhXRvZ82kJwAjuc36Vcp) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM) | [Mariposa Azul](https://open.spotify.com/album/5REwUP5ZEXTLMwxDikUmly) | 4:24 | 2020-07-16 | 2022-07-28 |
 | [Estrellita Viajera](https://open.spotify.com/track/5H7jtG5w71nlDSGG5CI4cZ) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM) | [Mariposa Azul](https://open.spotify.com/album/0AnItoUfAoQyJxXrKkTBSU) | 4:24 | 2020-07-16 |  |
@@ -91,7 +92,7 @@
 | [Umbrella](https://open.spotify.com/track/5A4UUONQaBJN2X72gU1Fs9) | [Sweet Little Band](https://open.spotify.com/artist/7HBA3bLuJTLRvjK8NX9ZSy) | [Rihanna for Babies](https://open.spotify.com/album/0Cir0RnkWiXS4GWCVZgUz1) | 3:19 | 2020-07-16 | 2022-07-27 |
 | [Un besito más \(feat\. Juan Luis Guerra\)](https://open.spotify.com/track/1182pxG4uNxr3QqIH8b8k0) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR), [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Un Besito Más](https://open.spotify.com/album/6pmTwCb5SeTjV9wdnkbDo3) | 3:12 | 2020-07-16 |  |
 | [Un Mundo Ideal](https://open.spotify.com/track/374W2LUkFHs3WIRoRaskWi) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [We Love Disney \(Latino\)](https://open.spotify.com/album/2Aoj9UQGgww7hWnziqtFLo) | 3:20 | 2020-07-16 |  |
-| [Vivir Mi Vida](https://open.spotify.com/track/5F2iynEIlALVPgl8RYouu4) | [Marc Anthony For Babies](https://open.spotify.com/artist/4dKFhri6ILBCHZQUHlV0XA) | [Marc Anthony For Babies](https://open.spotify.com/album/414ko0TBJNP8zSFWWr3TVa) | 4:15 | 2020-07-16 | 2022-11-11 |
+| [Vivir Mi Vida](https://open.spotify.com/track/5F2iynEIlALVPgl8RYouu4) | [Marc Anthony For Babies](https://open.spotify.com/artist/4dKFhri6ILBCHZQUHlV0XA) | [Marc Anthony For Babies](https://open.spotify.com/album/414ko0TBJNP8zSFWWr3TVa) | 4:15 | 2020-07-16 |  |
 | [We Don't Talk About Bruno](https://open.spotify.com/track/52xJxFP6TqMuO4Yt0eOkMz) | [Carolina Gaitán \- La Gaita](https://open.spotify.com/artist/29PgYEggDV3cDP9QYTogwv), [Mauro Castillo](https://open.spotify.com/artist/36CUTsdtNgCwMq6zKD1l8I), [Adassa](https://open.spotify.com/artist/72kqSqk124Vnl1wtT6q9Fh), [Rhenzy Feliz](https://open.spotify.com/artist/2as15AH2BTrPk8v4gyElmr), [Diane Guerrero](https://open.spotify.com/artist/18MFcGBHtyW0mU3ufcm0X1), [Stephanie Beatriz](https://open.spotify.com/artist/5PYToRCsrnvikZg3yl2JMr), [Encanto \- Cast](https://open.spotify.com/artist/3xLU748QxpTmIVaiNXXg0P) | [Encanto \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR) | 3:36 | 2022-01-20 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

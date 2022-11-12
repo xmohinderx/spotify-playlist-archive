@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 163733,
       "name": "247",
       "url": "https://open.spotify.com/track/3AUy81OKKb762umTKDmB4H"
@@ -77,7 +77,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 132310,
       "name": "2Tone (feat. YoungBoy Never Broke Again)",
       "url": "https://open.spotify.com/track/7IOrMgzGar3mbtQKNdlbYz"
@@ -973,7 +973,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 186864,
       "name": "Black Visa",
       "url": "https://open.spotify.com/track/3UKJ6X8H1hQDWr22HuKdj4"
@@ -1089,7 +1089,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 158117,
       "name": "Body Bag",
       "url": "https://open.spotify.com/track/04b0tLlmpRhukCXaXT6l2J"
@@ -1686,6 +1686,24 @@
     },
     {
       "album": {
+        "name": "Boys Don\u2019t Cry: Men Do",
+        "url": "https://open.spotify.com/album/3Q5FmYSZFjLZAntQowgfbm"
+      },
+      "artists": [
+        {
+          "name": "Toosii",
+          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160837,
+      "name": "City Of Love",
+      "url": "https://open.spotify.com/track/0pNU90wTsUGC845ZyXISlW"
+    },
+    {
+      "album": {
         "name": "Closure",
         "url": "https://open.spotify.com/album/407bge0e0JWWnqqf1bMPjd"
       },
@@ -1905,6 +1923,28 @@
       "duration_ms": 227555,
       "name": "Dance Now (with Kenny Mason)",
       "url": "https://open.spotify.com/track/6EqF11d0EPJwVynLXu3gvY"
+    },
+    {
+      "album": {
+        "name": "Born To Be Free",
+        "url": "https://open.spotify.com/album/6PRDIYibnBMXOI5JOJfe4s"
+      },
+      "artists": [
+        {
+          "name": "GMK",
+          "url": "https://open.spotify.com/artist/45n8IV3vVbqD8xm8aVtfUj"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202541,
+      "name": "Dark Days",
+      "url": "https://open.spotify.com/track/7qh52GiOH91zmNjUUglsee"
     },
     {
       "album": {
@@ -3229,7 +3269,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 176785,
       "name": "Gleecin (feat. Icewear Vezzo)",
       "url": "https://open.spotify.com/track/3MK1cTENZGGYtjuwBue1Va"
@@ -4454,6 +4494,24 @@
     },
     {
       "album": {
+        "name": "Keep it Playa",
+        "url": "https://open.spotify.com/album/3ZqYTwO4j03qVGpXEzv516"
+      },
+      "artists": [
+        {
+          "name": "Enchanting",
+          "url": "https://open.spotify.com/artist/26XGM4cZDcTgrXo1nis5HT"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165857,
+      "name": "Keep it Playa",
+      "url": "https://open.spotify.com/track/1JBjfBbl1WdRz01inOooWz"
+    },
+    {
+      "album": {
         "name": "Keeper",
         "url": "https://open.spotify.com/album/2coZBB3PhjAsm1HMRucDwm"
       },
@@ -5321,10 +5379,32 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 171840,
       "name": "MR MEMPHIS MASSACRE",
       "url": "https://open.spotify.com/track/0D6uigxXyrqHiFh6lTN7q5"
+    },
+    {
+      "album": {
+        "name": "Drill Season",
+        "url": "https://open.spotify.com/album/7LM5hMPyfvz6XE6iChpxlf"
+      },
+      "artists": [
+        {
+          "name": "BabyDrill",
+          "url": "https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163113,
+      "name": "Mr. CBFW (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/3olMRANIDgoV0UlCKsnn0C"
     },
     {
       "album": {
@@ -5397,7 +5477,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 174928,
       "name": "My Body (feat. B.O.G. Vonnie)",
       "url": "https://open.spotify.com/track/2eJXmksBzY3XlLj1obQJs0"
@@ -5743,7 +5823,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 163453,
       "name": "Not Finished",
       "url": "https://open.spotify.com/track/2A0G0bPmlkUXUbvWqrAXzg"
@@ -5959,7 +6039,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 139038,
       "name": "OOGA BOOGA!",
       "url": "https://open.spotify.com/track/4gKWtJGlhxKKSyV65llt2G"
@@ -6337,7 +6417,7 @@
       ],
       "date_added": "2022-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 83200,
       "name": "Poland",
       "url": "https://open.spotify.com/track/74loibzxXRL875X20kenvk"
@@ -6411,6 +6491,24 @@
       "duration_ms": 173061,
       "name": "Pressurelicious (feat. Future)",
       "url": "https://open.spotify.com/track/5ZWNnO9MyPfGrUHiGWHESB"
+    },
+    {
+      "album": {
+        "name": "Product of the Trenches",
+        "url": "https://open.spotify.com/album/15aptOkjKJrzLFeCTOodEF"
+      },
+      "artists": [
+        {
+          "name": "Rob49",
+          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106607,
+      "name": "Product of the Trenches",
+      "url": "https://open.spotify.com/track/0udAiP0GuXUI4ntJPX4lkT"
     },
     {
       "album": {
@@ -6601,7 +6699,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 242026,
       "name": "Pussy & Millions (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/2KLwPaRDOB87XOYAT2fgxh"
@@ -6791,6 +6889,28 @@
       "duration_ms": 207306,
       "name": "Red Flag",
       "url": "https://open.spotify.com/track/6djtjrpnWcuOaozVb8xKXS"
+    },
+    {
+      "album": {
+        "name": "Her Loss",
+        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239359,
+      "name": "Rich Flex",
+      "url": "https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N"
     },
     {
       "album": {
@@ -7310,6 +7430,36 @@
     },
     {
       "album": {
+        "name": "Shit Crazy Remix (feat. BIG30, Sett, Mac Critter)",
+        "url": "https://open.spotify.com/album/6QqTgZD1V2VOM7UVPYwyqg"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "BIG30",
+          "url": "https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE"
+        },
+        {
+          "name": "Mac Critter",
+          "url": "https://open.spotify.com/artist/7JmGgf8Bb6u8Di8AO1sCne"
+        },
+        {
+          "name": "Sett",
+          "url": "https://open.spotify.com/artist/6STK8LKh7Lhr3t75x5iE7d"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215352,
+      "name": "Shit Crazy Remix (feat. BIG30, Sett, Mac Critter)",
+      "url": "https://open.spotify.com/track/0tLfChoWmx3RK1hoBuImpC"
+    },
+    {
+      "album": {
         "name": "XTENDED",
         "url": "https://open.spotify.com/album/4Pangd3z0ZrONFpx3zMrFK"
       },
@@ -7453,7 +7603,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 149191,
       "name": "SIN (feat. Rylo Rodriguez)",
       "url": "https://open.spotify.com/track/0NtyaNXukC4yLz00xhLcCp"
@@ -7667,7 +7817,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 174891,
       "name": "Soul Keeper",
       "url": "https://open.spotify.com/track/32jSEzk83guTTUmAVydHrL"
@@ -7791,6 +7941,28 @@
       "duration_ms": 175819,
       "name": "Standards",
       "url": "https://open.spotify.com/track/54llkrIQrEyNyHx7PcrtSc"
+    },
+    {
+      "album": {
+        "name": "Pink Heartz",
+        "url": "https://open.spotify.com/album/1POWgdYTzfFt9rhKlXFwsU"
+      },
+      "artists": [
+        {
+          "name": "SoFaygo",
+          "url": "https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213704,
+      "name": "Stay Awake",
+      "url": "https://open.spotify.com/track/5k9kxCcae70vUElndjveXT"
     },
     {
       "album": {
@@ -8053,7 +8225,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 183687,
       "name": "Stressed",
       "url": "https://open.spotify.com/track/0VgFUdSwF7cdQMixbHIXzD"
@@ -8083,6 +8255,24 @@
       "duration_ms": 131882,
       "name": "Strong (EST Gee, Moneybagg Yo)",
       "url": "https://open.spotify.com/track/7vlUxa8sFLirILRYnmHWEh"
+    },
+    {
+      "album": {
+        "name": "Summo",
+        "url": "https://open.spotify.com/album/4Gw5OAKvJETC2BwbMjfM61"
+      },
+      "artists": [
+        {
+          "name": "Finesse2tymes",
+          "url": "https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203031,
+      "name": "Summo",
+      "url": "https://open.spotify.com/track/1AXB0WRiTcSQe9RbBD2Ipx"
     },
     {
       "album": {
@@ -8832,6 +9022,24 @@
     },
     {
       "album": {
+        "name": "Anyways, Life\u2019s Great\u2026",
+        "url": "https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169465,
+      "name": "Unh Unh",
+      "url": "https://open.spotify.com/track/6NBGEI2cU71eT8wM98bF2d"
+    },
+    {
+      "album": {
         "name": "Unsigned Hype",
         "url": "https://open.spotify.com/album/0FEYaz2fMu7xOEeFACjng5"
       },
@@ -9335,6 +9543,24 @@
       "duration_ms": 129269,
       "name": "What It Is",
       "url": "https://open.spotify.com/track/7D4HOXBTsFfC8IJc6UfjsY"
+    },
+    {
+      "album": {
+        "name": "TANTRA",
+        "url": "https://open.spotify.com/album/2m9d5jfphaM15b58uYYRcK"
+      },
+      "artists": [
+        {
+          "name": "Yung Bleu",
+          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183296,
+      "name": "What Type of Games",
+      "url": "https://open.spotify.com/track/2u1ctOsUchwMbWd2kyDgfu"
     },
     {
       "album": {

@@ -300,6 +300,28 @@
     },
     {
       "album": {
+        "name": "Down to Earth",
+        "url": "https://open.spotify.com/album/04GVpETpPlXbSs83NcmBUJ"
+      },
+      "artists": [
+        {
+          "name": "Flight Facilities",
+          "url": "https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM"
+        },
+        {
+          "name": "Giselle",
+          "url": "https://open.spotify.com/artist/5cxol8ruhBU1QpUick7A42"
+        }
+      ],
+      "date_added": "2021-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234786,
+      "name": "Crave You",
+      "url": "https://open.spotify.com/track/2BtImFZlm7U8a2Cr9sEbaW"
+    },
+    {
+      "album": {
         "name": "Down To Earth",
         "url": "https://open.spotify.com/album/5V8798yQx7GwVCXQTyIOJz"
       },
@@ -337,7 +359,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 234786,
       "name": "Crave You",
       "url": "https://open.spotify.com/track/5mdzg7ZwebXNb90LPRusAs"
@@ -377,6 +399,24 @@
       "duration_ms": 536471,
       "name": "Dance Yrself Clean",
       "url": "https://open.spotify.com/track/2cmRpmO04TLaKPzmAzySYZ"
+    },
+    {
+      "album": {
+        "name": "2010 Top Hits",
+        "url": "https://open.spotify.com/album/7pIncnQH1oj8FEKzTs3noB"
+      },
+      "artists": [
+        {
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+        }
+      ],
+      "date_added": "2021-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288670,
+      "name": "Dancing On My Own",
+      "url": "https://open.spotify.com/track/1aQzWpzJ1uAhb1yM7UAiP7"
     },
     {
       "album": {
@@ -629,10 +669,32 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 166200,
       "name": "Far Away",
       "url": "https://open.spotify.com/track/3eYqU6kYLsN67CYz1CvSds"
+    },
+    {
+      "album": {
+        "name": "Death of a Superhero (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5VAQC0kA7MU5roI1LLX6LX"
+      },
+      "artists": [
+        {
+          "name": "Angus",
+          "url": "https://open.spotify.com/artist/2y9Q8D5KMKF3n5W8ep3sBe"
+        },
+        {
+          "name": "Julia Stone",
+          "url": "https://open.spotify.com/artist/4gZRt9wlRx1IsxT9glJdrc"
+        }
+      ],
+      "date_added": "2021-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321653,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/4HOcQyjWXaWkZYFa9kzzFX"
     },
     {
       "album": {
@@ -647,7 +709,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 319533,
       "name": "For You",
       "url": "https://open.spotify.com/track/60wcxIoRFqx9kVE87j562F"
@@ -1141,7 +1203,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 162935,
       "name": "Louder Than Ever",
       "url": "https://open.spotify.com/track/61xc3SlEw9wRpePDz87ryd"
@@ -1487,6 +1549,24 @@
       "duration_ms": 200173,
       "name": "Rhinestone Eyes",
       "url": "https://open.spotify.com/track/1foMv2HQwfQ2vntFf9HFeG"
+    },
+    {
+      "album": {
+        "name": "10 Years of Mom+Pop",
+        "url": "https://open.spotify.com/album/2xd8agIjiL0SNqZvkKyv1B"
+      },
+      "artists": [
+        {
+          "name": "Sleigh Bells",
+          "url": "https://open.spotify.com/artist/59pWgeY26Q6yJy37QvJflh"
+        }
+      ],
+      "date_added": "2021-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229893,
+      "name": "Rill Rill",
+      "url": "https://open.spotify.com/track/0DG2104AFWwy8mkJFwO5fk"
     },
     {
       "album": {
@@ -2039,10 +2119,28 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 211080,
       "name": "Tighten Up",
       "url": "https://open.spotify.com/track/2MVwrvjmcdt4MsYYLCYMt8"
+    },
+    {
+      "album": {
+        "name": "Brothers (Deluxe Remastered Anniversary Edition)",
+        "url": "https://open.spotify.com/album/29bmuSuw3vsPILoexZy6MH"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2021-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211336,
+      "name": "Tighten Up",
+      "url": "https://open.spotify.com/track/2sNNsyQ605b7OfDP8kkvaX"
     },
     {
       "album": {

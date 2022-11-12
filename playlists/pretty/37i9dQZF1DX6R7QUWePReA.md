@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6R7QUWePReA.md) - [plain]
 
 > Chestnuts roasting on an open fire..\. Timeless heart\-warming classics for the holiday season.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,553,443 likes - 70 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,557,760 likes - 70 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,13 +39,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6R7QUWePReA.md) - [plain]
 | 29 | [Mele Kalikimaka \- Single Version](https://open.spotify.com/track/50SpLO86DRvSPfMaIlatL2) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [The Andrews Sisters](https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM) | [Pop Christmas 2022](https://open.spotify.com/album/1UKMpoHAZlywEwEQFs46wj) | 2:55 |
 | 30 | [\(There's No Place Like\) Home for the Holidays \- 1959 Version](https://open.spotify.com/track/2GapxG7BxK55ihQRAlR39e) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu) | [A Perry Como Christmas](https://open.spotify.com/album/6kwOEj6diw9tUSbhgIVeBP) | 2:58 |
 | 31 | [Santa Claus Is Coming To Town](https://open.spotify.com/track/3eqD8kifaVLMNJS1zRk73b) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Weihnachtssongs](https://open.spotify.com/album/2ShvJ5qGxzgHD7u2Ukj1Wq) | 2:24 |
-| 32 | [O Tannenbaum](https://open.spotify.com/track/4YhY2qHdBmSX33uj8ms0oq) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [A Charlie Brown Christmas \[2012 Remastered & Expanded Edition\]](https://open.spotify.com/album/2XnNY3GEkbWHor5kyvXLu4) | 5:09 |
+| 32 | [O Tannenbaum](https://open.spotify.com/track/5IYTUm06pUdo1DHjtijVRW) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [Classic Christmas Hits 2022](https://open.spotify.com/album/7ILcxLRAchjzznQVoD0ESK) | 5:09 |
 | 33 | [Rudolph The Red\-Nosed Reindeer](https://open.spotify.com/track/47otoIkhx3fkdivEXL5OB6) | [Burl Ives](https://open.spotify.com/artist/0MHgLfmQdutffmvWe5XBTN) | [Have A Holly Jolly Christmas](https://open.spotify.com/album/6MvKUOSuPdfH0WLeQjR3eR) | 2:10 |
 | 34 | [A Marshmallow World](https://open.spotify.com/track/7GNsHkiYPcQQjvhTiILFUL) | [Darlene Love](https://open.spotify.com/artist/391oLRVmoTkumiN79HkTWu) | [A Christmas Gift For You From Phil Spector](https://open.spotify.com/album/2kzkwgOFAtRsDsas5Hi0Qu) | 2:23 |
 | 35 | [O Come All Ye Faithful](https://open.spotify.com/track/0H1zX27yxoDrsrQA1hk5Uq) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song \(Expanded Edition\)](https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4) | 2:21 |
 | 36 | [Here Comes Santa Claus \(Right Down Santa Claus Lane\) \- 1947 Version](https://open.spotify.com/track/25leEEaz1gIpp7o21Fqyjo) | [Gene Autry](https://open.spotify.com/artist/5ixB75BQR3ADoWQkcHQJTs) | [Rudolph The Red Nosed Reindeer And Other Christmas Classics](https://open.spotify.com/album/3BPDSjoJlho8oiUPUNrShM) | 2:30 |
 | 37 | [Joy To The World](https://open.spotify.com/track/2SmGhUW6Rnwf5q5a158fJn) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7), [Ralph Carmichael](https://open.spotify.com/artist/4hdd6WRlN1EcACmO8ft0HZ) | [Last Christmas](https://open.spotify.com/album/3zQEGRinB79bznHdOYx1Sj) | 1:26 |
-| 38 | [Run Rudolph Run](https://open.spotify.com/track/2pnPe4pJtq7689i5ydzvJJ) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Rock 'N' Roll Rarities](https://open.spotify.com/album/1DILNh7maaYyKxe15V9xLq) | 2:45 |
+| 38 | [Run Rudolph Run](https://open.spotify.com/track/3CQa7Xu95cwlQVPd3UoiHB) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Noël 2020](https://open.spotify.com/album/0gbWx46O7msHBOfp6fYSkk) | 2:42 |
 | 39 | [My Favourite Things](https://open.spotify.com/track/7qLTpTd1Txpo8Vd84yci7u) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [Snowfall: The Tony Bennett Christmas Album](https://open.spotify.com/album/2zpZloLD6haM3GzorLdfoC) | 3:16 |
 | 40 | [The First Noël](https://open.spotify.com/track/1DvjCIefxg1YsdG3ETROph) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [The Andy Williams Christmas Album](https://open.spotify.com/album/4dcJHxlOJwtyypL7sx1qch) | 3:07 |
 | 41 | [The Little Drummer Boy \- Remastered 2006](https://open.spotify.com/track/0pAT3JUEjIiqUkwxE0vbBQ) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [Bing Crosby \- Christmas Classics](https://open.spotify.com/album/3My4DXwRjAS5HXontsJx1A) | 3:00 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6R7QUWePReA.md) - [plain]
 | 69 | [Santa Claus Is Comin' to Town \- Live at C.W\. Post College, Greenvale, NY \- December 1975](https://open.spotify.com/track/6s2wpWPFPAgKg2LXxi1Oee) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Santa Claus Is Comin' to Town \(Live at C.W\. Post College, Greenvale, NY \- December 1975\)](https://open.spotify.com/album/6SEtGOi92yZM5TyAGlXlpZ) | 4:27 |
 | 70 | [We Wish You A Merry Christmas](https://open.spotify.com/track/0Xrev0e2wVRSkq84SJiEMg) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w), [The Muppets](https://open.spotify.com/artist/0czJqnJDu3vWrLHmsbLunu) | [A Christmas Together](https://open.spotify.com/album/6PHcSJ2860KNPMhguTlqaW) | 1:05 |
 
-Snapshot ID: `MTY2NjUzNzA3MSwwMDAwMDAwMDFmNTQ1ODlkNWZlMGVmNzVmMzg3NDk5YmMwNWU0NGJm`
+Snapshot ID: `MTY2NjUzNzA3MSwwMDAwMDAwMDU1YWM2NjVkOTQzMjVlZmZkNjMwMTg4MTZmMDUwNTg4`

@@ -4,7 +4,7 @@
 
 > Seguimos arremangados, pariente\. Régulo Caro en portada.
 
-109 songs - 5 hr 18 min - [published](https://open.spotify.com/playlist/6WRQ2rQiGlhp2WfZktq7QQ)
+110 songs - 5 hr 20 min - [published](https://open.spotify.com/playlist/6WRQ2rQiGlhp2WfZktq7QQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Comandos Del M.P \(500 Balazos\)](https://open.spotify.com/track/2vtB7ASUDlJkTB7sn1yugu) | [Voz De Mando](https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx) | [Con La Nueva Federación](https://open.spotify.com/album/1MsMQsAojpvdsE6wGtboSa) | 2:19 | 2022-03-07 |  |
 | [Corrido Del Invalido](https://open.spotify.com/track/3JlnKdYKmLDestzbgPsSiJ) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [El Katch](https://open.spotify.com/album/1Kgxdvii3WXGb805Sk6PjM) | 2:42 | 2022-03-07 | 2022-11-11 |
 | [Corrido Del Invalido](https://open.spotify.com/track/4CQGilIvA3AKUlDM2GsDjw) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Corridos De Alto Calibre](https://open.spotify.com/album/56lZXvNZ84mRq5gn85Fuki) | 2:44 | 2022-03-07 |  |
+| [Corrido del Tamarindo \(Feat\. El Komander\)](https://open.spotify.com/track/6t7RQGzGSMGtRxbCH2EpTv) | [Los Buitres De Culiacan Sinaloa](https://open.spotify.com/artist/535ap2f16rTOKTMPTkvbGB), [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [El Movimiento Alterado \- Grandes Exitos](https://open.spotify.com/album/58B6nJm896OlSmn86qrzyv) | 2:22 | 2022-03-07 |  |
 | [Cuernito Armani](https://open.spotify.com/track/2oAlRe4XfVRm3LOOHiErdD) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Belico](https://open.spotify.com/album/7ugXiQHIHbREwSZUyS8iuY) | 3:03 | 2022-03-17 |  |
 | [Culiacán Vs\. Mazatlán](https://open.spotify.com/track/6TlCQBVenVdJWJknrVeCYr) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Renovar O Morir](https://open.spotify.com/album/0Npb5RTXimPOeUQONeuz3A) | 2:49 | 2022-03-07 |  |
 | [Del Negociante](https://open.spotify.com/track/7kDBoiWN02IUeXqeXHfEKL) | [Revolver Cannabis](https://open.spotify.com/artist/7a3g8JUF8iipgP1BCEsm4I) | [Los Amos del Terror](https://open.spotify.com/album/4mMSrnCY36DJpb92fbEGpq) | 3:07 | 2022-03-07 |  |
@@ -65,7 +66,7 @@
 | [El Prostipirugolfo](https://open.spotify.com/track/48rJQa3TdMfnPJxh1oPxsZ) | [Los Titanes De Durango](https://open.spotify.com/artist/3wGRXHdFCbyHhyVbdAWNrd) | [15 Exitos](https://open.spotify.com/album/12DzNqjx3qzgiPoPbal8Vq) | 3:06 | 2022-03-17 |  |
 | [El Sinaloense Americano](https://open.spotify.com/track/3pjsT7agqnrM8Y3b3zx9g9) | [Los Nuevos Elegantes](https://open.spotify.com/artist/3RtWK9v7X0AvL18T3LeC7i) | [Movimiento Alterado Vol\. 1](https://open.spotify.com/album/5yJdyrzgdboYN3nF2YSOnM) | 2:47 | 2022-11-08 |  |
 | [El Tamarindo](https://open.spotify.com/track/0svJOFPsTekhRSUvMdiGPt) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [El Movimiento Alterado, Vol\. 3](https://open.spotify.com/album/3kowXjsAfFpcsFEBzBQzdR) | 2:22 | 2022-03-07 | 2022-07-29 |
-| [El Tamarindo](https://open.spotify.com/track/0ultN7TRlSdYf7dD37szrT) | [Los Buitres De Culiacan Sinaloa](https://open.spotify.com/artist/535ap2f16rTOKTMPTkvbGB) | [Los Buitres Con Tololoche](https://open.spotify.com/album/0zoLvMVhdvhHRFSpQpnO8E) | 2:29 | 2022-03-07 |  |
+| [El Tamarindo](https://open.spotify.com/track/0ultN7TRlSdYf7dD37szrT) | [Los Buitres De Culiacan Sinaloa](https://open.spotify.com/artist/535ap2f16rTOKTMPTkvbGB) | [Los Buitres Con Tololoche](https://open.spotify.com/album/0zoLvMVhdvhHRFSpQpnO8E) | 2:29 | 2022-03-07 | 2022-11-12 |
 | [El Taquicardio](https://open.spotify.com/track/1QsoYk84HOt7F7iqjlydlW) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Belico](https://open.spotify.com/album/7ugXiQHIHbREwSZUyS8iuY) | 3:00 | 2022-03-17 |  |
 | [El Trokero Lokochon](https://open.spotify.com/track/6wMYwA7VyjkvTFUPj2LgyB) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Ni Hoy Ni Manana](https://open.spotify.com/album/7jyBbVcnqfV8vtmyyPJarL) | 2:34 | 2022-03-07 |  |
 | [El Águila Blanca](https://open.spotify.com/track/0crJsMs5FmnMHvQG1itkc0) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Imperio](https://open.spotify.com/album/4n0IYzVbxLFckUKpurk6kN) | 2:20 | 2022-03-07 |  |

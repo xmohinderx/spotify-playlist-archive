@@ -4,7 +4,7 @@
 
 > Artists that have challenged norms and pushed culture forward.
 
-52 songs - 3 hr 37 min - not published yet
+53 songs - 3 hr 43 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,8 @@
 | [Tha Crossroads](https://open.spotify.com/track/5KSJ9k1FYjFLnIRlJT2wF8) | [Bone Thugs\-N\-Harmony](https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg) | [E\. 1999 Eternal](https://open.spotify.com/album/3r25XjxAmLMOhOWoV6X8N9) | 3:43 | 2019-10-17 |  |
 | [The Beautiful People](https://open.spotify.com/track/2aIB1CdRRG7YLBu9hNw9nR) | [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [Antichrist Superstar](https://open.spotify.com/album/7APnZJwayR3lH9aUDPDYQB) | 3:38 | 2019-10-17 |  |
 | [The Crying Game](https://open.spotify.com/track/3txSqHwGING6J7waJXN8RJ) | [Boy George](https://open.spotify.com/artist/2BWfZGPtsjRlRp7JTDqI45) | [At Worst...The Best Of Boy George And Culture Club](https://open.spotify.com/album/7gdwk8zdee8ghIq94Z9ck3) | 3:22 | 2019-10-17 |  |
-| [The Humpty Dance](https://open.spotify.com/track/0YEC3pNS0uIKvZb5u4lgsu) | [Digital Underground](https://open.spotify.com/artist/7jocoSCuCtpCxCI6IbP8ye) | [Sex Packets](https://open.spotify.com/album/6HWrL7hDFxfc8Z17JI9JIL) | 6:31 | 2019-10-17 |  |
+| [The Humpty Dance](https://open.spotify.com/track/0YEC3pNS0uIKvZb5u4lgsu) | [Digital Underground](https://open.spotify.com/artist/7jocoSCuCtpCxCI6IbP8ye) | [Sex Packets](https://open.spotify.com/album/6HWrL7hDFxfc8Z17JI9JIL) | 6:31 | 2019-10-17 | 2022-11-12 |
+| [The Humpty Dance](https://open.spotify.com/track/4mY2ClZ0o5ESykpvJhvZNv) | [Digital Underground](https://open.spotify.com/artist/7jocoSCuCtpCxCI6IbP8ye) | [Hi\-Five: Digital Underground](https://open.spotify.com/album/0D0YA85OKpSDvmgmoPJPn8) | 6:31 | 2019-10-17 |  |
 | [The Rain \(Supa Dupa Fly\)](https://open.spotify.com/track/2WRzpLD8qDRrxMXc63E5WJ) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Supa Dupa Fly](https://open.spotify.com/album/6UkdyvPElK6JDkyeRClbI2) | 4:11 | 2019-10-17 |  |
 | [Wake Me up When September Ends](https://open.spotify.com/track/3ZffCQKLFLUvYM59XKLbVm) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [American Idiot](https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke) | 4:45 | 2019-10-17 |  |
 | [What's My Age Again?](https://open.spotify.com/track/4LJhJ6DQS7NwE7UKtvcM52) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Enema Of The State](https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2) | 2:28 | 2019-10-17 |  |

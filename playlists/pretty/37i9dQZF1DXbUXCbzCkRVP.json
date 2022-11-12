@@ -1,12 +1,12 @@
 {
   "description": "Iconic instrumentals from the history of Blues.",
-  "num_followers": 21252,
+  "num_followers": 21320,
   "original_name": "Instrumental Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTc2MjkyNywwMDAwMDAwMDQwNzQ3OTI3N2RkOWVmZjZiZDYxNTMzMDQ2YWIxZGQ5",
+  "snapshot_id": "MTY2NTc2MjkyNywwMDAwMDAwMDM0MWY4NzQ3NDNlZjkyZGUxY2U4OWM5ZWQ2ZWRmNGM3",
   "tracks": [
     {
       "added_at": "2022-10-14 15:55:27",
@@ -91,22 +91,6 @@
     {
       "added_at": "2022-10-14 15:55:27",
       "album": {
-        "name": "The Morning After",
-        "url": "https://open.spotify.com/album/26PQ24bOMADaGXHApdAsR8"
-      },
-      "artists": [
-        {
-          "name": "The J. Geils Band",
-          "url": "https://open.spotify.com/artist/69Mj3u4FTUrpyeGNSIaU6F"
-        }
-      ],
-      "duration_ms": 158266,
-      "name": "Whammer Jammer",
-      "url": "https://open.spotify.com/track/6ED55VLiJwnaWEuo45f6MF"
-    },
-    {
-      "added_at": "2022-10-14 15:55:27",
-      "album": {
         "name": "Texas Sensation",
         "url": "https://open.spotify.com/album/4umKoGiZh0ddpdQZHqTPVA"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 157400,
       "name": "Hide Away",
       "url": "https://open.spotify.com/track/2bV2rAslNR4CjjG8CuEQhZ"
+    },
+    {
+      "added_at": "2022-10-14 15:55:27",
+      "album": {
+        "name": "The Morning After",
+        "url": "https://open.spotify.com/album/26PQ24bOMADaGXHApdAsR8"
+      },
+      "artists": [
+        {
+          "name": "The J. Geils Band",
+          "url": "https://open.spotify.com/artist/69Mj3u4FTUrpyeGNSIaU6F"
+        }
+      ],
+      "duration_ms": 158266,
+      "name": "Whammer Jammer",
+      "url": "https://open.spotify.com/track/6ED55VLiJwnaWEuo45f6MF"
     },
     {
       "added_at": "2022-10-14 15:55:27",
@@ -543,22 +543,6 @@
     {
       "added_at": "2022-10-14 15:55:27",
       "album": {
-        "name": "King Of The Blues Guitar (Reissue)",
-        "url": "https://open.spotify.com/album/4btZS65kvBlUlw7xSnzehz"
-      },
-      "artists": [
-        {
-          "name": "Albert King",
-          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
-        }
-      ],
-      "duration_ms": 167666,
-      "name": "Cold Feet",
-      "url": "https://open.spotify.com/track/3nmd5lsusqNE1bhcpHwAOH"
-    },
-    {
-      "added_at": "2022-10-14 15:55:27",
-      "album": {
         "name": "The Guitar And Banjo Of Reverend Gary Davis",
         "url": "https://open.spotify.com/album/53QsjgEDlXH9TwIamS0xGJ"
       },
@@ -575,6 +559,22 @@
     {
       "added_at": "2022-10-14 15:55:27",
       "album": {
+        "name": "King Of The Blues Guitar (Reissue)",
+        "url": "https://open.spotify.com/album/4btZS65kvBlUlw7xSnzehz"
+      },
+      "artists": [
+        {
+          "name": "Albert King",
+          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
+        }
+      ],
+      "duration_ms": 167666,
+      "name": "Cold Feet",
+      "url": "https://open.spotify.com/track/3nmd5lsusqNE1bhcpHwAOH"
+    },
+    {
+      "added_at": "2022-10-14 15:55:27",
+      "album": {
         "name": "Screamin' the Blues",
         "url": "https://open.spotify.com/album/6N4DLp1wZDmJyV08vB9vHY"
       },
@@ -587,6 +587,38 @@
       "duration_ms": 188800,
       "name": "Sweet Ginny",
       "url": "https://open.spotify.com/track/4zV9LoMlAnPeHS1kvKJ2ea"
+    },
+    {
+      "added_at": "2022-10-14 15:55:27",
+      "album": {
+        "name": "Second Album",
+        "url": "https://open.spotify.com/album/3sQGboPz478r7roRcq45cZ"
+      },
+      "artists": [
+        {
+          "name": "Roy Buchanan",
+          "url": "https://open.spotify.com/artist/0augulkuXFx1qPfb590w2C"
+        }
+      ],
+      "duration_ms": 205400,
+      "name": "Tribute To Elmore James",
+      "url": "https://open.spotify.com/track/0RGJg8HUx82PSbIKjbips5"
+    },
+    {
+      "added_at": "2022-10-14 15:55:27",
+      "album": {
+        "name": "A Man And The Blues",
+        "url": "https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 172173,
+      "name": "Jam On A Monday Morning",
+      "url": "https://open.spotify.com/track/6UQMeYLE04t3PJY2OYYhA4"
     },
     {
       "added_at": "2022-10-14 15:55:27",
@@ -623,38 +655,6 @@
     {
       "added_at": "2022-10-14 15:55:27",
       "album": {
-        "name": "A Man And The Blues",
-        "url": "https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 172173,
-      "name": "Jam On A Monday Morning",
-      "url": "https://open.spotify.com/track/6UQMeYLE04t3PJY2OYYhA4"
-    },
-    {
-      "added_at": "2022-10-14 15:55:27",
-      "album": {
-        "name": "Second Album",
-        "url": "https://open.spotify.com/album/3sQGboPz478r7roRcq45cZ"
-      },
-      "artists": [
-        {
-          "name": "Roy Buchanan",
-          "url": "https://open.spotify.com/artist/0augulkuXFx1qPfb590w2C"
-        }
-      ],
-      "duration_ms": 205400,
-      "name": "Tribute To Elmore James",
-      "url": "https://open.spotify.com/track/0RGJg8HUx82PSbIKjbips5"
-    },
-    {
-      "added_at": "2022-10-14 15:55:27",
-      "album": {
         "name": "Bittersweet",
         "url": "https://open.spotify.com/album/286Ej4KKpT8Fc02kMA1MBf"
       },
@@ -687,22 +687,6 @@
     {
       "added_at": "2022-10-14 15:55:27",
       "album": {
-        "name": "Blues On The South Side",
-        "url": "https://open.spotify.com/album/0gf11Wt8uQxan5JN6DWIvC"
-      },
-      "artists": [
-        {
-          "name": "Homesick James",
-          "url": "https://open.spotify.com/artist/4XlRNWTeM8KRfRrvxXSsgP"
-        }
-      ],
-      "duration_ms": 254133,
-      "name": "Homesick's Shuffle",
-      "url": "https://open.spotify.com/track/3eIZeCBB7xQc4ZfKDVsNih"
-    },
-    {
-      "added_at": "2022-10-14 15:55:27",
-      "album": {
         "name": "In Session (Remaster w/ eBooklet)",
         "url": "https://open.spotify.com/album/62rUsLpP1lxJ1gJUiXJJI4"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 500586,
       "name": "Overall Junction",
       "url": "https://open.spotify.com/track/1mRpxrgL9La7awQ8LvlHGF"
+    },
+    {
+      "added_at": "2022-10-14 15:55:27",
+      "album": {
+        "name": "Blues On The South Side",
+        "url": "https://open.spotify.com/album/0gf11Wt8uQxan5JN6DWIvC"
+      },
+      "artists": [
+        {
+          "name": "Homesick James",
+          "url": "https://open.spotify.com/artist/4XlRNWTeM8KRfRrvxXSsgP"
+        }
+      ],
+      "duration_ms": 254133,
+      "name": "Homesick's Shuffle",
+      "url": "https://open.spotify.com/track/3eIZeCBB7xQc4ZfKDVsNih"
     },
     {
       "added_at": "2022-10-14 15:55:27",
@@ -743,6 +743,22 @@
     {
       "added_at": "2022-10-14 15:55:27",
       "album": {
+        "name": "Ice Pickin'",
+        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
+      },
+      "artists": [
+        {
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+        }
+      ],
+      "duration_ms": 159626,
+      "name": "Avalanche",
+      "url": "https://open.spotify.com/track/4XtHlG9bac0BxNGSJkuK3J"
+    },
+    {
+      "added_at": "2022-10-14 15:55:27",
+      "album": {
         "name": "Super Session (with Al Kooper & Stephen Stills)",
         "url": "https://open.spotify.com/album/6bdy2PnssuzDkldvAOjVmj"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 418493,
       "name": "Albert's Shuffle - 2002 Remix w/o Horns",
       "url": "https://open.spotify.com/track/7AaUATKp29w0x3C8RAv3lK"
-    },
-    {
-      "added_at": "2022-10-14 15:55:27",
-      "album": {
-        "name": "Ice Pickin'",
-        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
-      },
-      "artists": [
-        {
-          "name": "Albert Collins",
-          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
-        }
-      ],
-      "duration_ms": 159626,
-      "name": "Avalanche",
-      "url": "https://open.spotify.com/track/4XtHlG9bac0BxNGSJkuK3J"
     },
     {
       "added_at": "2022-10-14 15:55:27",

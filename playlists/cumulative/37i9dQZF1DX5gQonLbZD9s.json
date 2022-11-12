@@ -741,7 +741,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 214840,
       "name": "Break Free",
       "url": "https://open.spotify.com/track/12KUFSHFgT0XCoiSlvdQi4"
@@ -1339,7 +1339,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-12",
+      "date_removed": null,
       "duration_ms": 164009,
       "name": "Dancing In The Moonlight (feat. NEIMY)",
       "url": "https://open.spotify.com/track/4GSDkZt7GcmzBWmsMcpaVO"
@@ -1789,7 +1789,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 229506,
       "name": "Feel This Moment (feat. Christina Aguilera)",
       "url": "https://open.spotify.com/track/0Hf4aIJpsN4Os2f0y0VqWl"
@@ -2325,7 +2325,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-12",
+      "date_removed": null,
       "duration_ms": 170813,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/4u4NyuceXP7Uzh7XFJKCr1"
@@ -2489,6 +2489,24 @@
       "duration_ms": 253390,
       "name": "I Like It",
       "url": "https://open.spotify.com/track/58q2HKrzhC3ozto2nDdN4z"
+    },
+    {
+      "album": {
+        "name": "I met you when I was 18. (the playlist)",
+        "url": "https://open.spotify.com/album/71cQY3dUThCY6vVKaUIXqR"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197436,
+      "name": "I Like Me Better",
+      "url": "https://open.spotify.com/track/0EcQcdcbQeVJn9fknj44Be"
     },
     {
       "album": {
@@ -2791,10 +2809,28 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 162398,
       "name": "Kings & Queens",
       "url": "https://open.spotify.com/track/7a53HqqArd4b9NF4XAmlbI"
+    },
+    {
+      "album": {
+        "name": "Teenage Dream",
+        "url": "https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230733,
+      "name": "Last Friday Night (T.G.I.F.)",
+      "url": "https://open.spotify.com/track/3avYqdwHKEq8beXbeWCKqJ"
     },
     {
       "album": {
@@ -3019,7 +3055,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 267413,
       "name": "Love On Top",
       "url": "https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf"
@@ -3331,7 +3367,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-12",
+      "date_removed": null,
       "duration_ms": 225960,
       "name": "Message In A Bottle (Taylor's Version) (From The Vault)",
       "url": "https://open.spotify.com/track/3z6XUommYDWPHeFhmhhT6j"
@@ -3743,7 +3779,7 @@
       ],
       "date_added": "2022-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 202066,
       "name": "Party In The U.S.A.",
       "url": "https://open.spotify.com/track/5Q0Nhxo0l2bP3pNjpGJwV1"
@@ -3819,7 +3855,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 237200,
       "name": "Poker Face",
       "url": "https://open.spotify.com/track/5R8dQOPq8haW94K7mgERlO"
@@ -4993,6 +5029,28 @@
       "duration_ms": 180596,
       "name": "Undeniable (feat. X Ambassadors)",
       "url": "https://open.spotify.com/track/71qB68guEJjbvtjlkZ8DF5"
+    },
+    {
+      "album": {
+        "name": "Unstoppable (R3HAB Remix)",
+        "url": "https://open.spotify.com/album/3qWCIK0fqmaaSTLoqoWsaz"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162352,
+      "name": "Unstoppable - R3HAB Remix",
+      "url": "https://open.spotify.com/track/0F3v8p8ZnEGtZDxNcJ5Klq"
     },
     {
       "album": {

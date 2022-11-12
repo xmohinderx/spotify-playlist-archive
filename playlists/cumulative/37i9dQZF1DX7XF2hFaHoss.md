@@ -4,7 +4,7 @@
 
 > The very best acoustic songs from singer\-songwriters making waves\. Cover: Lizzy McAlpine
 
-147 songs - 8 hr 48 min - [published](https://open.spotify.com/playlist/4nFqLOYDLUIz4zSbVsy852)
+148 songs - 8 hr 51 min - [published](https://open.spotify.com/playlist/4nFqLOYDLUIz4zSbVsy852)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Follow My Voice](https://open.spotify.com/track/7pT3faDXSC5tNAlIKmtrYf) | [Julie Byrne](https://open.spotify.com/artist/10duXbKJkvdGK5RgktEnxV) | [Not Even Happiness](https://open.spotify.com/album/4D0slaYPm4oiwFRlv10rJz) | 4:02 | 2021-03-02 | 2022-09-09 |
 | [For Now](https://open.spotify.com/track/0c99BUd87HQfzgUUQqRyds) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [In the Waiting](https://open.spotify.com/album/0DTXDUMJhpH0dtHlvUGXVd) | 3:18 | 2021-03-02 |  |
 | [Front Porch](https://open.spotify.com/track/0XIUYBQlVNG1c5vjSQKCYU) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Front Porch](https://open.spotify.com/album/50c3CHjqTVnD3dskKzmbL5) | 3:51 | 2021-03-02 | 2022-07-29 |
+| [Front Porch](https://open.spotify.com/track/21tFgyx6DR8YmfqNQ7cwSP) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [No Place Like You](https://open.spotify.com/album/5RFamNorVM8vDpnyTTEoOr) | 3:51 | 2021-03-02 |  |
 | [Front Porch](https://open.spotify.com/track/5sVyefkGgQeYCgnqr4KslQ) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Front Porch](https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu) | 3:51 | 2021-03-02 | 2022-11-11 |
 | [Good for Something](https://open.spotify.com/track/2KKPd7nqbhDzgAYsFjC9WA) | [The Sea The Sea](https://open.spotify.com/artist/3uKFW2tuZB4NFThJfHJtZ1) | [Good for Something](https://open.spotify.com/album/7rh14CSLmsm9HXtLIfq6tC) | 3:20 | 2021-03-02 | 2022-07-27 |
 | [Good Trouble](https://open.spotify.com/track/5uFfNUgECDKqEO0RtyXvOs) | [Leigh Nash](https://open.spotify.com/artist/0KaOODqnbHxMIZ3qUH5F5n), [Ruby Amanfu](https://open.spotify.com/artist/1lpu6LF7kS0bfnu43pi2u0) | [Good Trouble](https://open.spotify.com/album/4dlwSbHa76v2rz3AFTCCVy) | 4:13 | 2021-03-02 | 2022-07-29 |
@@ -81,7 +82,7 @@
 | [Left Off \- Acoustic](https://open.spotify.com/track/7kox4s0cF3z6mx8YEiTzY1) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Left Off \(Acoustic\)](https://open.spotify.com/album/4zAeJbA5nVtlnA23xn4XuV) | 3:20 | 2021-03-02 | 2022-07-29 |
 | [Let Me Hurt \(Acoustic\)](https://open.spotify.com/track/5lCYavZeZIbkVMyiukdTJx) | [Emily Rowed](https://open.spotify.com/artist/0f1BcubFYDkGOTA0bJ0u1w) | [Crying in Cars](https://open.spotify.com/album/4uJrophYlBcAfwQXI6uDlf) | 3:42 | 2021-03-02 |  |
 | [Little Runaway](https://open.spotify.com/track/12GVuNDjD80UjEmkO46Hd8) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Little Runaway](https://open.spotify.com/album/3l0s7gDB5V4xj4TSsEMHj6) | 2:59 | 2021-03-02 |  |
-| [look up](https://open.spotify.com/track/0oEji7lz6paMOdk97XEK4Z) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness](https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ) | 3:33 | 2021-03-02 |  |
+| [look up](https://open.spotify.com/track/0oEji7lz6paMOdk97XEK4Z) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness](https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ) | 3:33 | 2021-03-02 | 2022-11-12 |
 | [look up](https://open.spotify.com/track/1Thyh3NBnJ783exapZJIA3) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [look up](https://open.spotify.com/album/2gR17B4gSlfBVSgSHuKx3d) | 3:33 | 2021-03-02 | 2022-07-29 |
 | [Merry Go Round](https://open.spotify.com/track/4sMYfHAXlPOUzdHcjG5aRh) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Merry Go Round](https://open.spotify.com/album/2JDg4HHyjXlRBiXbLDh3dh) | 2:28 | 2022-03-08 | 2022-07-29 |
 | [Millennial](https://open.spotify.com/track/0UVjJZjlZiOB9pVd9wWABs) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Transcendence](https://open.spotify.com/album/4pJ1cAVfgvAIJLWLO0zpuQ) | 2:53 | 2021-03-02 |  |

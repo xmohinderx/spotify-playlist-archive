@@ -4,7 +4,7 @@
 
 > Music from the ether to focus to.
 
-113 songs - 6 hr 38 min - [published](https://open.spotify.com/playlist/4H4DMjqQpBwmgjBZppzOqM)
+118 songs - 6 hr 51 min - [published](https://open.spotify.com/playlist/4H4DMjqQpBwmgjBZppzOqM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,12 +25,14 @@
 | [Buckle Up](https://open.spotify.com/track/7t4gzANxF6BbappbpKzSxG) | [Josef Briem](https://open.spotify.com/artist/4WPCpYGEKs5yshn2wETIDB) | [authenticity](https://open.spotify.com/album/0CdkSTJwCTIJRd2BgbPyct) | 3:11 | 2022-06-24 |  |
 | [Change Of Tides](https://open.spotify.com/track/1RsZcsLDGwVpkhgeoL75gE) | [Stories Seldom Told](https://open.spotify.com/artist/2Iyf4h2Mpja2cBl9HwEqo7) | [Change Of Tides](https://open.spotify.com/album/0ioaA2clUxqGSROCF1vo53) | 2:58 | 2022-03-30 |  |
 | [Dakota](https://open.spotify.com/track/7pR7yPgbYcipmTUHT5g68p) | [Sheltered Solitude](https://open.spotify.com/artist/2DsYHbz0OEIGzYynekPLlB) | [Dakota](https://open.spotify.com/album/5bbSb8KsPnMFKrdbDIz6dL) | 2:10 | 2022-03-30 |  |
+| [Dreaming While Awake](https://open.spotify.com/track/1KVq03Ocupx3tRE18yZa5Q) | [Roots and Recognition](https://open.spotify.com/artist/0pcVy4l3REi7JxDbLrZ37L) | [Dreaming While Awake](https://open.spotify.com/album/4UWDiNomdDxYTdE6exlgO5) | 2:50 | 2022-11-11 |  |
 | [Drops](https://open.spotify.com/track/1R8Nr8bahMl4LcE91nSUB8) | [Hollow Light](https://open.spotify.com/artist/0ANrW9wJEthapCrJsd4i4F) | [Drops](https://open.spotify.com/album/7ptUhLa9kHS0pKuG04CPXN) | 4:34 | 2022-03-30 |  |
 | [Entering Orbit](https://open.spotify.com/track/3RnuKGjbUw9VZpakg1jzhs) | [Starlight Passage](https://open.spotify.com/artist/5tPdr8cTxT89zPEENTLWoh) | [Entering Orbit](https://open.spotify.com/album/1SuwNAVBZdmY0uB1mUHIwZ) | 2:49 | 2022-09-14 |  |
 | [Estuarium](https://open.spotify.com/track/2ukibgP8lmxgYTHEqcdikz) | [The Eventide](https://open.spotify.com/artist/6jbL9UQUCzae8Vn3NcwQJ6) | [Estuarium](https://open.spotify.com/album/13M0hOUhKMTnKYH0AYFZiv) | 3:10 | 2022-03-30 |  |
 | [Exit](https://open.spotify.com/track/065wPKi9Ldumw5BqGSqWA0) | [ARCADIA](https://open.spotify.com/artist/2892cyfN2JOBuTQGkPl62T) | [Exit](https://open.spotify.com/album/4ecx91bGlsoXRz7P66I04O) | 2:11 | 2022-08-19 |  |
 | [Fade Away](https://open.spotify.com/track/3MwcUcy1w5aN1gMxPgSfwq) | [Astron](https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y) | [Falling Deeply](https://open.spotify.com/album/3zbWYMOUTQ7NkicTxKmAJQ) | 4:02 | 2022-03-30 |  |
 | [Falling Rivers](https://open.spotify.com/track/1Tx1CeHCaOHPvYD25thsRq) | [Yolta](https://open.spotify.com/artist/1FcdysxmyKBfSOyVppN3sw) | [Falling Rivers](https://open.spotify.com/album/6UbSWl0n82pfw3J5TlUI63) | 3:38 | 2022-03-30 |  |
+| [Far Away](https://open.spotify.com/track/2JkeLbjmFANt3dc8BkkdSU) | [Antent](https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW), [Nectry](https://open.spotify.com/artist/5WWf3jqI33Bwufm8vHBqGG) | [Far Away](https://open.spotify.com/album/3XZrGL2liR5HeZorqFolGy) | 1:52 | 2022-11-11 |  |
 | [Fidelity](https://open.spotify.com/track/7aVZPC2jGVBNQ67laOUowW) | [Benjamin Martins](https://open.spotify.com/artist/5oqbogYQRxno77NT1FFrt5) | [Fidelity](https://open.spotify.com/album/1JepRozB8KitEG6WdBLzdT) | 3:04 | 2022-08-05 |  |
 | [Finally You Needed Me](https://open.spotify.com/track/402eCegPnC05HLdbx6Ds3r) | [Ageena](https://open.spotify.com/artist/183DOqgVm3LpcUQFICEpH2) | [Finally You Needed Me](https://open.spotify.com/album/1tQxz4vN24K3C3xoV9M6kN) | 3:46 | 2022-03-30 |  |
 | [finished falling](https://open.spotify.com/track/16UwPw97aFFsprUZrjoU3I) | [Riley Power](https://open.spotify.com/artist/16li8cbi4fTA6Fyztk1Bz1) | [finished falling](https://open.spotify.com/album/7hrcaCivMZsdEEpiBBK9s6) | 3:25 | 2022-03-30 |  |
@@ -70,6 +72,7 @@
 | [Parallels](https://open.spotify.com/track/4ujZScjhNsCcDdK5iriHhU) | [Hollow Light](https://open.spotify.com/artist/0ANrW9wJEthapCrJsd4i4F) | [Parallels](https://open.spotify.com/album/1WEeuWUxTIuVUc3i1lKwFn) | 2:54 | 2022-06-24 |  |
 | [Past the Pasture and Beyond The Hill](https://open.spotify.com/track/4NZoI2toESyiMrobse6WSK) | [Clem Leek](https://open.spotify.com/artist/5FbBZ9ZLIoVdgbbnGmsKNk) | [Lifenotes](https://open.spotify.com/album/4YJIgx2MTliPfREF342MD4) | 2:11 | 2022-03-30 |  |
 | [Pendulum Man](https://open.spotify.com/track/31rWHoaORhEfXqqr6y48Hm) | [Bark Psychosis](https://open.spotify.com/artist/0QwH5InvCwfL4UbYkjP9pi) | [Hex](https://open.spotify.com/album/7j98uMKCZuBQU1SPcrQAxP) | 9:53 | 2022-03-30 |  |
+| [pound for pound](https://open.spotify.com/track/6QqlgQ6xSc4SrsP0vWlmpa) | [Garden Collective](https://open.spotify.com/artist/6rT3tJQmePSMr68mPaqyyp) | [pound for pound](https://open.spotify.com/album/7uFbEtssmk8DYTKqMwjAil) | 2:50 | 2022-11-11 |  |
 | [Prayer of Dreams](https://open.spotify.com/track/56Q6Ub5JGADQglD5FaKqfk) | [Videung](https://open.spotify.com/artist/5otZiXoT8hB9Gi1oFcz4h0) | [Prayer of Dreams](https://open.spotify.com/album/41MmwTxWQMuKWI8I2wWh8J) | 3:00 | 2022-03-30 |  |
 | [Rectifier](https://open.spotify.com/track/2tIF7PmitHZi13Mc2dssPO) | [12dust](https://open.spotify.com/artist/14gSyhJmT6Vl9e4vJCxF5J) | [Rectifier](https://open.spotify.com/album/6hclYDcLNlkaXAnVwgmOlP) | 2:32 | 2022-03-30 |  |
 | [Rent a New Place, Everything Could Change](https://open.spotify.com/track/42T8hyzch4rCR4UsDQ4TS6) | [Merz](https://open.spotify.com/artist/5OLpeoin9igrD2GR6CRkyp), [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4), [Shahzad Ismaily](https://open.spotify.com/artist/4FaBmP30QiO2lXc3yyuqrV) | [Dreams of Sleep and Wakes of Sound](https://open.spotify.com/album/203n39LZt0ktgcQ6mLWLoa) | 5:45 | 2022-03-30 |  |
@@ -78,6 +81,7 @@
 | [Riverside](https://open.spotify.com/track/02YiNo9Ltw4N1aIuf7u8c3) | [Wil Bolton](https://open.spotify.com/artist/63ANock0nMaF32m4e4U1Rt) | [Above The Neon Glow](https://open.spotify.com/album/4qDk81Z78TXyclmv3NSEBm) | 6:40 | 2022-03-30 |  |
 | [Runeii](https://open.spotify.com/track/4ADboMaZ1PMfK4Np69Zb4K) | [Talk Talk](https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf) | [Laughing Stock](https://open.spotify.com/album/3NEa40lY9rNpSIALSIKn79) | 4:57 | 2022-07-15 |  |
 | [Runeii](https://open.spotify.com/track/1nwGXWalB0Ls4Jm4mGUYkp) | [Talk Talk](https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf) | [Laughing Stock](https://open.spotify.com/album/7vqMpYHIqqWQQc0IVR03ue) | 4:58 | 2022-03-30 | 2022-07-29 |
+| [Sam the Record Man](https://open.spotify.com/track/2VhwPhvVI2KWqPA8bpfiiQ) | [Kilometre Club](https://open.spotify.com/artist/0gEyux9kfm4eISIsEtLu4w) | [Memory Canvas](https://open.spotify.com/album/5k803G97CKyWSiClt8UMnF) | 3:21 | 2022-11-11 |  |
 | [Scorpio](https://open.spotify.com/track/5ymZVLbXYU9P9Dml5fGuXP) | [Matteo Edesio](https://open.spotify.com/artist/5KLOjDZreSAbJqW330F03e) | [Scorpio](https://open.spotify.com/album/6eD2kdgpRzfzZqPTXWRbMH) | 2:09 | 2022-03-30 |  |
 | [Sea Level](https://open.spotify.com/track/7L8H804VF1JlDd97EYJ82M) | [Stephane Landgrebe](https://open.spotify.com/artist/5dxvpJIhy9HmkQbasNrqy5) | [Sea Level](https://open.spotify.com/album/7GIdcbJFXgbRf1hORxLV2L) | 1:58 | 2022-06-20 |  |
 | [Serenitivity](https://open.spotify.com/track/41hD0lo1wIP9GX25JE4Kfu) | [Adumbration](https://open.spotify.com/artist/5VWWftIdcTzXDWTicX5l0c) | [Serenitivity](https://open.spotify.com/album/6Vz2CBGS1UcQ1GDTopeXbF) | 3:33 | 2022-03-30 |  |
@@ -92,6 +96,7 @@
 | [taming the tiger](https://open.spotify.com/track/5iR4ziuzYZO1VondRmrvsc) | [Golden Horses](https://open.spotify.com/artist/5MXNb6vuHgdZalR71LkKgd) | [Under And Can't Roll](https://open.spotify.com/album/04IciDXb3cgCpsdfavYvom) | 2:17 | 2022-03-30 |  |
 | [Taurus](https://open.spotify.com/track/0cZQXAwomBlCnuSvTCsKWn) | [Tolga Kahani](https://open.spotify.com/artist/2JwKOYKRy4sxxF8nkpA3ig) | [Taurus](https://open.spotify.com/album/7geRmxkwEeS7IvDLfebFOq) | 2:14 | 2022-03-30 |  |
 | [That Bird of Prey Casts a Long Shadow](https://open.spotify.com/track/0AOz0XTa8sCskJQlBtHfHG) | [Random Forest](https://open.spotify.com/artist/2FIKDET7MkO9hQgSyIW9ia) | [Ascension](https://open.spotify.com/album/2EIbb68h4DZfT8LPK0KR1k) | 3:09 | 2022-09-14 |  |
+| [The Beauty Of Cold](https://open.spotify.com/track/1FD8sEUe8DLfMFZSjLrZaR) | [The Peaceful Silence](https://open.spotify.com/artist/1MPPhE6Gj5OT5QSIW7yik6) | [The Beauty Of Cold](https://open.spotify.com/album/4lBKbzCmFIoRTrCCUHCzrf) | 2:22 | 2022-11-11 |  |
 | [The C In Certain](https://open.spotify.com/track/0ODPuMwahnYlaQpwgSnjtd) | [David Grubbs](https://open.spotify.com/artist/03XSVbjjgDX2hrw1VXlj87) | [Creep Mission](https://open.spotify.com/album/5OpO6CnNwj9uBUc3JaupAr) | 6:23 | 2022-03-30 | 2022-07-29 |
 | [The C In Certain](https://open.spotify.com/track/1rNqvHHH5PTpX2E7guUwbj) | [David Grubbs](https://open.spotify.com/artist/03XSVbjjgDX2hrw1VXlj87) | [Creep Mission](https://open.spotify.com/album/07ZrOXMlp266UZ7QILUOFO) | 6:23 | 2022-07-15 |  |
 | [The Ghosts we keep Inside Ourselves](https://open.spotify.com/track/6yiPwfADSoJQ0k5to30gIi) | [Black Brunswicker](https://open.spotify.com/artist/3EobQTdmT0DDyzqaByPmB4) | [High Peaks](https://open.spotify.com/album/6wpPhkeWCtVWAYZaAaRHTi) | 3:50 | 2022-05-19 |  |

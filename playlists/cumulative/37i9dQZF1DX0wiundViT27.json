@@ -109,7 +109,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 224178,
       "name": "2am",
       "url": "https://open.spotify.com/track/0Tyi56S51KsufCIcqRHWCN"
@@ -307,7 +307,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 205440,
       "name": "Bang Bang",
       "url": "https://open.spotify.com/track/278Ao6KQDxWGGszv24uvhI"
@@ -1445,7 +1445,7 @@
       ],
       "date_added": "2020-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 175342,
       "name": "Heat Seeker",
       "url": "https://open.spotify.com/track/7noHzxuNmeIwYftylZfVRT"
@@ -1615,6 +1615,24 @@
       "duration_ms": 256071,
       "name": "hometown",
       "url": "https://open.spotify.com/track/6p8DGrcAUBuLUgDIKcUn0P"
+    },
+    {
+      "album": {
+        "name": "How Did We Get So Dark?",
+        "url": "https://open.spotify.com/album/3Rz6kF8eGqrDOEteo5YsBj"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207760,
+      "name": "Hook, Line & Sinker",
+      "url": "https://open.spotify.com/track/35lBL83KZl80dHivikZKEq"
     },
     {
       "album": {
@@ -2227,7 +2245,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 180133,
       "name": "Miracle Mile",
       "url": "https://open.spotify.com/track/4RvmQ5qbP5PxgJD0BN4EZK"
@@ -2729,6 +2747,24 @@
       "duration_ms": 181797,
       "name": "Raised By Wolves",
       "url": "https://open.spotify.com/track/4lUubz3TMfHfQDJl0mAo2l"
+    },
+    {
+      "album": {
+        "name": "Tejano Punk Boyz",
+        "url": "https://open.spotify.com/album/4jNsjnBYtuXuprFqRhbA85"
+      },
+      "artists": [
+        {
+          "name": "Giovannie and the Hired Guns",
+          "url": "https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168311,
+      "name": "Ramon Ayala",
+      "url": "https://open.spotify.com/track/6lFVmakxYOXqtBtkbGXrOD"
     },
     {
       "album": {
@@ -3327,10 +3363,28 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 165853,
       "name": "The Middle",
       "url": "https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO"
+    },
+    {
+      "album": {
+        "name": "Emo 2000s",
+        "url": "https://open.spotify.com/album/6YLLFMlYzwDiKTKeqIHMvQ"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166040,
+      "name": "The Middle",
+      "url": "https://open.spotify.com/track/67PzNQl5EyyrNBmFIM917G"
     },
     {
       "album": {

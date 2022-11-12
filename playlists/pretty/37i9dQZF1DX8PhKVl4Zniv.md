@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8PhKVl4Zniv.md) - [plain]
 
 > So you think you got pocket? Cover: Nate Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,606 likes - 65 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,665 likes - 65 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8PhKVl4Zniv.md) - [plain]
 | 42 | [Barreleye](https://open.spotify.com/track/2Dc1pUBABcfMy42W6vxhC3) | [Mark Lettieri](https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP) | [Deep: The Baritone Sessions](https://open.spotify.com/album/2oo8dj4OFcDeioixQgtVgK) | 3:12 |
 | 43 | [Face First](https://open.spotify.com/track/2iuf8q0JzFh6oJdFYXsx1v) | [Tribal Tech](https://open.spotify.com/artist/4OmMxTxYbR4ZDSvw4H0RAz) | [Face First](https://open.spotify.com/album/2IEMGFWKMDb7AgPz6pIATf) | 7:04 |
 | 44 | [Actual Proof](https://open.spotify.com/track/10ayGc2Uxrz7G1EQbnskUG) | [Scott Henderson](https://open.spotify.com/artist/7iqVI0BpCxVVHyVyGSfAmn), [Jeff Berlin](https://open.spotify.com/artist/4S6LWQMlfbLPNrXLY7RxI1), [Dennis Chambers](https://open.spotify.com/artist/5tdGXBxRVers4lWxUqRMzn) | [HBC](https://open.spotify.com/album/177EnulmbDMJdNE5vsrjTU) | 10:15 |
-| 45 | [Smack 'em](https://open.spotify.com/track/0vlHJxm2m5GUdUnhBl5WFK) | [Ghost\-Note](https://open.spotify.com/artist/55BOGnEb0pUuAgbxAwwbKV), [Brandon "TAZ" Niederauer](https://open.spotify.com/artist/2bmHKyjcdyqTMUxVbhZJth) | [Swagism](https://open.spotify.com/album/1nbt7NWLOOyx5uLo2j6Pwu) | 8:19 |
+| 45 | [Smack 'em](https://open.spotify.com/track/0Sd3ETtCBWEEbZAn8P84OZ) | [Ghost\-Note](https://open.spotify.com/artist/55BOGnEb0pUuAgbxAwwbKV), [Brandon "TAZ" Niederauer](https://open.spotify.com/artist/1vHiRPRvebdIAqfoZWJNEZ) | [Swagism](https://open.spotify.com/album/1W3Ze7eoWkAw32AjCRx0Zt) | 8:19 |
 | 46 | [Soundcheck and Whatnots](https://open.spotify.com/track/70e8x2PmWdnWZPlOW2PhGX) | [Shaun Martin](https://open.spotify.com/artist/14Im3li8h1ehG6eM3lersk) | [Focus](https://open.spotify.com/album/2EqaPqR7GfZLpOuEde7dLz) | 1:09 |
 | 47 | [Chameleon](https://open.spotify.com/track/4YsxaxfAA1dwsFy237azXq) | [Huntertones](https://open.spotify.com/artist/3tv8xMO0AkcqN9Th8KHyGd), [Justin Stanton](https://open.spotify.com/artist/51SBwyi6EsedCxohTMWQN5) | [Chameleon](https://open.spotify.com/album/7Maxr67eS8mA5JVjZHBjfJ) | 4:42 |
 | 48 | [Virtual Life](https://open.spotify.com/track/1Pax97BZgQU2uC5BQSAZBl) | [Dennis Chambers](https://open.spotify.com/artist/5tdGXBxRVers4lWxUqRMzn), [Scott Henderson](https://open.spotify.com/artist/7iqVI0BpCxVVHyVyGSfAmn) | [Groove and More](https://open.spotify.com/album/3Trvid1UyXXXrrec9w7kl9) | 7:19 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8PhKVl4Zniv.md) - [plain]
 | 64 | [Schizophrenic](https://open.spotify.com/track/1LJGpXcyLRgdaq2x5WpqCc) | [Oz Noy](https://open.spotify.com/artist/0AM6acfaheGmY5egsH0shd), [Will Lee](https://open.spotify.com/artist/4yfYzng7htuuRXosAJYtun), [Anton Fig](https://open.spotify.com/artist/5xeqgtq9Fkg7XBHuPEm9pf), [Keith Carlock](https://open.spotify.com/artist/1YWzPk73P8Qa1sHvlBEadR), [Steve Lukather](https://open.spotify.com/artist/7vLNQciZsWdkYFCqY2osFM), [Ricky Peterson](https://open.spotify.com/artist/1SB2erkfFBYuaaQLuFmNLk) | [Schizophrenic](https://open.spotify.com/album/2HWoSy3RtGX0KzDWGtMY6e) | 7:12 |
 | 65 | [When the Cat's Away](https://open.spotify.com/track/4MbNQBtfQlIwVrU48IelTS) | [Simon Phillips](https://open.spotify.com/artist/6pPx8jYe1vzHuQea1st8Iy), [Ernest Tibbs](https://open.spotify.com/artist/2IZegJTs1JKp5ymiufjYeD), [Otmaro Ruiz](https://open.spotify.com/artist/1FWrmABS5NEpmqdsHfXj2N), [Jacob Scesney](https://open.spotify.com/artist/4mjIZ1lfDoQsRv2wJT6Ojr), [Alex Sill](https://open.spotify.com/artist/77ggULPl8qUaf8MubyoFLs) | [Protocol V](https://open.spotify.com/album/6K7GPOwmyHmGgu6J4g0ASl) | 6:12 |
 
-Snapshot ID: `MTY2NDUxMDQ2MCwwMDAwMDAwMDFjNjcyNTJkNDQyYTk5NTAxMGM1YzI1ODc1MTRjMDkx`
+Snapshot ID: `MTY2NDUxMDQ2MCwwMDAwMDAwMDcxMzI4OGQyMTNmOTJmOTY2NTk4YzQ2NDIzNGQ1MWU2`

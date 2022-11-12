@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYc8Z858eGwP.md) - [plain]
 
 > The most exciting new artists on the rise from the African continent & diaspora\. Cover: <a href="https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ?si=s7Ba4WY\_RJ63\_SmmSavT\-g">Black Sherif </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,060 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,134 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYc8Z858eGwP.md) - [plain]
 | 39 | [Last Air Bender](https://open.spotify.com/track/4xIFdWcoMb9MqLYpvS8uCy) | [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU), [Big yasa](https://open.spotify.com/artist/4irem3YwBjOoB8CoYIPwRc), [Silverstone Barz](https://open.spotify.com/artist/0ORrak8S66JgLaZFSXH6gg) | [East Mpaka London](https://open.spotify.com/album/0Kz367vVwZ4MKYLanvjUwu) | 2:23 |
 | 40 | [Love Don't Cost A Dime \(Re\-Up\)](https://open.spotify.com/track/0hW02S9ACVYANz1ica10jH) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Love Don't Cost A Dime \(Re\-Up\)](https://open.spotify.com/album/01N6IpG2OxaznUK60C81hT) | 2:27 |
 | 41 | [Tanzania](https://open.spotify.com/track/5z6oqX6l6kTSPB9gSRnLzE) | [Uncle Waffles](https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ), [Tony Duardo](https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z), [Sino Msolo](https://open.spotify.com/artist/5zvuXUYTvZczhbPG9HZRYI), [BoiBizza](https://open.spotify.com/artist/1eEtFWkyKW60yUyVwvAeuR) | [Tanzania](https://open.spotify.com/album/3line3IHxaBqcjloHs4ZKN) | 6:16 |
-| 42 | [Finesse](https://open.spotify.com/track/4Gasn91fsCefnN8zM5GjA8) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Finesse](https://open.spotify.com/album/4QEC4uzBJJfLVv2bD337g1) | 2:35 |
+| 42 | [Finesse](https://open.spotify.com/track/6H4z94Rq4Gz7SzL7VmpGRR) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Top Hits UK](https://open.spotify.com/album/49d0Ii0oCrS9BshhcpLRhr) | 2:35 |
 | 43 | [WITH YOU](https://open.spotify.com/track/3Q78lDuzWs50Gry1eQA7NX) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [WITH YOU](https://open.spotify.com/album/2ujmNlnvMQfnWJBBv3TE5u) | 3:12 |
 | 44 | [Kilometer \- Remix](https://open.spotify.com/track/3aDnVO9Omzz4EytKraWg9o) | [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Kilometer \(Remix\)](https://open.spotify.com/album/3AUbrJDzMndvuenVyyHX8k) | 3:26 |
 | 45 | [Abo Mvelo \(feat\. Mellow & Sleazy & M.J\)](https://open.spotify.com/track/0Ek5bneviajgSzZGonWfds) | [Daliwonga](https://open.spotify.com/artist/0oW137oXCLwA5b4uYRxvIn), [Mellow & Sleazy](https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz), [M.J](https://open.spotify.com/artist/7bbakrxOYa3yL8DDzjU98P) | [Abo Mvelo \(feat\. Mellow & Sleazy & M.J\)](https://open.spotify.com/album/437dkJZjTY2KPRtZAVleKs) | 8:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYc8Z858eGwP.md) - [plain]
 | 49 | [Your Body \(Cocaine\)](https://open.spotify.com/track/0GXGxkfMYquJOWGfG5bC8N) | [Dai Verse](https://open.spotify.com/artist/2G0yYOdnPrffB2Mre1XCMv) | [Your Body \(Cocaine\)](https://open.spotify.com/album/6eMYMGVxrjNxQ6n8FEmn4G) | 2:26 |
 | 50 | [Loyalty](https://open.spotify.com/track/2oOr7XZmuqYTdmCnC5qQsC) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Loyalty](https://open.spotify.com/album/1xaW0G0ccKSbUuHfYGVhbL) | 2:47 |
 
-Snapshot ID: `MTY2NzUyMDAwMCwwMDAwMDAwMGE4MTllYjg4ZDdhNzIxOTE0OGUwYjNlMGVlZTA2YWZk`
+Snapshot ID: `MTY2NzUyMDAwMCwwMDAwMDAwMDVmMzYwYTk2MjAxZjI2ODNlZjJkMzg3NTcwNmY5NjM5`

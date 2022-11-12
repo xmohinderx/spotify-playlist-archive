@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0q1RHoDiZBg.md) - [plain]
 
 > Fresh takes—from new revisions and iconic covers to unexpected versions and the songwriter's own covers\. Cover: <a href="spotify:artist:74ASZWbe4lXaubB36ztrGX">Bob Dylan</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,406 likes - 92 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,491 likes - 92 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Forever Young \- From NBC's Parenthood](https://open.spotify.com/track/0QYgtwYCftkAqunXmvkZtr) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM), [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Forever Young \(From NBC's Parenthood\)](https://open.spotify.com/album/6Q7WssoFXDJoqNEkn8LnWN) | 4:21 |
 | 2 | [A Hard Rain's A\-Gonna Fall](https://open.spotify.com/track/7xnKChdFA6DHWPzULuAWf1) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [A Hard Rain's A\-Gonna Fall](https://open.spotify.com/album/3AWqkqOqGumXVfKfw4TdiX) | 3:55 |
 | 3 | [Like a Rolling Stone](https://open.spotify.com/track/43SCvTx9ME4KhHAVMKGnrT) | [Eddie Berman](https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql), [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Polyhymnia](https://open.spotify.com/album/4ThHnK1QSkpfwzHqpybmlz) | 6:35 |
-| 4 | [Just Like a Woman](https://open.spotify.com/track/3uIQZXaYnPrl7ROe1BkKtA) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [You and I \(Expanded Edition\)](https://open.spotify.com/album/4pmq7Cvj5fkPcspI8FaqPm) | 6:28 |
+| 4 | [Just Like a Woman](https://open.spotify.com/track/3bOrKW9lmZwDboxrJ7zDdE) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [You and I \(Extended Edition\)](https://open.spotify.com/album/2PPqAPDd9E6TpdxGG530Yn) | 6:28 |
 | 5 | [The Times They Are a\-Changin' \- Live at Madison Square Garden, New York, NY \- October 1992](https://open.spotify.com/track/0IvdJ0V3Sl6ClrmJLrGEUV) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [Bob Dylan \- 30th Anniversary Concert Celebration \[\(Deluxe Edition\) \[Remastered\]\]](https://open.spotify.com/album/5OlEEw6gIk32eMhOqRlfGu) | 3:02 |
 | 6 | [Masters of War](https://open.spotify.com/track/3UioODQhZ9cpHcchbWazFq) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [The People Speak](https://open.spotify.com/album/63E7ZQDf441GTZiZgSTOJP) | 5:33 |
-| 7 | [Make You Feel My Love](https://open.spotify.com/track/5FgPwJ7Nh2FVmIXviKl2VF) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0) | 3:32 |
+| 7 | [Make You Feel My Love](https://open.spotify.com/track/6otXN6h5J6e49Lvse5yCwD) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Make You Feel My Love](https://open.spotify.com/album/4K1tS9SCKWJX4NQCcMUcUx) | 3:32 |
 | 8 | [Boots Of Spanish Leather](https://open.spotify.com/track/0r7rLeNXTRTRsyDjYp9tIq) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Boots Of Spanish Leather](https://open.spotify.com/album/1cXHPkqqjAPgjV19nLXvUT) | 4:42 |
 | 9 | [If You've Gotta Go, Go Now \- Bonus Track](https://open.spotify.com/track/51jy98I9q9Nk1xyA0W4ZBg) | [J\. Tillman](https://open.spotify.com/artist/21XbnrbEMUTZelIfoV12hC) | [Subterranean Homesick Blues: A Tribute to Bob Dylan's 'Bringing It All Back Home'](https://open.spotify.com/album/6BpBxbGy2JgkkxiVoLDQg4) | 3:45 |
 | 10 | [House of the Risin' Sun](https://open.spotify.com/track/3yFRbFaSj8MeNuYaN21HIu) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Bob Dylan](https://open.spotify.com/album/5k63xxy9YcKM0H9GS3vP1K) | 5:18 |
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0q1RHoDiZBg.md) - [plain]
 | 91 | [Sad Eyed Lady of the Lowlands \(Live\)](https://open.spotify.com/track/5voOTLOA7LPegmOdNJU7vV) | [Old Crow Medicine Show](https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi) | [50 Years of Blonde on Blonde \(Live\)](https://open.spotify.com/album/0uyUriz7zOAn1G9sB8zH8e) | 9:27 |
 | 92 | [I Can't Get You Off Of My Mind](https://open.spotify.com/track/6O37wVoMQFeh7vZ9mJnoMH) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Hank Williams Timeless](https://open.spotify.com/album/6Wuq8Fn9q0QmTchA8xnR3L) | 2:55 |
 
-Snapshot ID: `MTUzMzIyMzE3NCwwMDAwMDAwMDk2NTlmNGUyYzlkYjg4ZDkyNGQ0NDM2NmE1OTUxNWJh`
+Snapshot ID: `MTUzMzIyMzE3NCwwMDAwMDAwMDM2YjlmNWU0NjYzMzZkOGUxYjAwOWIwMGYzZTVlNTE3`

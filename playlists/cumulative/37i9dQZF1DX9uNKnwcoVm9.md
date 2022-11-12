@@ -4,7 +4,7 @@
 
 > Un playlist que te llena de esperanza\.  ¡Con fe!
 
-167 songs - 14 hr 17 min - [published](https://open.spotify.com/playlist/5VTKv4gJGHX2mH8jSSC2Vt)
+169 songs - 14 hr 31 min - [published](https://open.spotify.com/playlist/5VTKv4gJGHX2mH8jSSC2Vt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [Creemos](https://open.spotify.com/track/1Z33wIAMRaaGFSuBnFcYRU) | [Julissa](https://open.spotify.com/artist/6WCFOdK10oxg9dYaaIyeZu) | [Me Vistió De Promesas](https://open.spotify.com/album/1SUEDD9quNY1LYU36X6UUp) | 4:48 | 2020-11-24 |  |
 | [Creere](https://open.spotify.com/track/2ORT42xQNKCKIEzIIqxbEv) | [Tercer Cielo](https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz) | [Gente Comun Sueños Extraordinarios](https://open.spotify.com/album/5Yj2mPciYoTKNEP3WadauI) | 5:02 | 2020-11-24 |  |
 | [Creo En Ti](https://open.spotify.com/track/0vaqXI37M1v9RfiP1BI0t7) | [Julio Melgar](https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2) | [Creo en Ti](https://open.spotify.com/album/0TrCmb35euEi2wkZvBgjWy) | 7:03 | 2020-11-24 | 2022-07-29 |
-| [Creo En Ti](https://open.spotify.com/track/1ZdBf0NZR4oi7Gtxyy4E9Q) | [Julio Melgar](https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2) | [Creo en Ti](https://open.spotify.com/album/1TMLlJQHzj0J07QexSE72S) | 7:03 | 2020-11-24 |  |
+| [Creo En Ti](https://open.spotify.com/track/1ZdBf0NZR4oi7Gtxyy4E9Q) | [Julio Melgar](https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2) | [Creo en Ti](https://open.spotify.com/album/1TMLlJQHzj0J07QexSE72S) | 7:03 | 2020-11-24 | 2022-11-12 |
+| [Creo En Ti \- Live](https://open.spotify.com/track/4iHlCejE0feD1XEXJRxmAI) | [Julio Melgar](https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2) | [Top Música Cristiana](https://open.spotify.com/album/7jugx6QZ4k8hvkeHCiRftl) | 7:03 | 2020-11-24 |  |
 | [Cuando Oras](https://open.spotify.com/track/5FCDZ3L0Tr0KqYrn3j9v3V) | [Nancy Amancio](https://open.spotify.com/artist/4225vUKDHwHhcYY9IRWwX0) | [Un Toque De Fé](https://open.spotify.com/album/5K06CX20PkHPstgVWLg4Nd) | 4:12 | 2020-11-24 |  |
 | [Cuando Oras](https://open.spotify.com/track/1EhH923QjmKaYYWV9f6lpO) | [Nancy Amancio](https://open.spotify.com/artist/4225vUKDHwHhcYY9IRWwX0) | [Un Toque de Fe](https://open.spotify.com/album/0cKfAwvbAXGeaoDLi7jXPW) | 4:12 | 2020-11-24 | 2022-07-29 |
 | [Danzo en el Río \(En Vivo\)](https://open.spotify.com/track/0I3cmPOnNwgCOVtO6tfQsG) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Pentecostés \(En Vivo\)](https://open.spotify.com/album/7zyFQuz3nZmzpfRstmXZO0) | 4:41 | 2020-11-24 |  |
@@ -131,6 +132,7 @@
 | [Por el poder de tu amor \(The power of your Love\)](https://open.spotify.com/track/3euqm8P1Mye2BiCEtjwFbT) | [Ruth Mixter](https://open.spotify.com/artist/6Y3LN0FCFH8p38tlH7ctJA) | [Inquebrantable](https://open.spotify.com/album/4tsFZXkN7eXwhY4ujk6C3u) | 5:29 | 2020-11-24 |  |
 | [Por el Sueño De Dios](https://open.spotify.com/track/1hKVju5eLUkPkYFVYh7hkR) | [Ruth Mixter](https://open.spotify.com/artist/6Y3LN0FCFH8p38tlH7ctJA) | [Dios Lo Hará Otra Vez](https://open.spotify.com/album/1qu2wAOiIGzTCcS5Dad9jI) | 4:30 | 2020-11-24 |  |
 | [Preciosa Sangre](https://open.spotify.com/track/0LXxKUA4sIwRDSPjyjtijp) | [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ), [Julio Melgar](https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2) | [El Encuentro](https://open.spotify.com/album/0hM8D8RMnadmtLyODuKBZx) | 4:59 | 2020-11-24 |  |
+| [Precioso Jesus](https://open.spotify.com/track/6yHO6SWSv0zLsODTha7NsP) | [Catholic Musicorum](https://open.spotify.com/artist/0Ate3vFhHmmCz3wrwkbaEF), [Tradicional](https://open.spotify.com/artist/1KoxZqxUcBPQgTPgMuQU8N) | [Pistas Cristianas Vol 1](https://open.spotify.com/album/19FdARZhf3ZxvYBIrzfrrX) | 6:19 | 2020-11-24 |  |
 | [Precioso Jesús](https://open.spotify.com/track/3YVVAZB6NvCzzrjDandHkm) | [Esperanza de Vida](https://open.spotify.com/artist/2JjoUSP8dUA7UhlWW59fK1) | [Me Has Hecho Libre](https://open.spotify.com/album/1flyahsdmJyAmkKr6q45ZI) | 6:20 | 2020-11-24 | 2022-07-29 |
 | [Precioso Jesús](https://open.spotify.com/track/7mEYivIHySFGJS8HySzcf2) | [Esperanza de Vida](https://open.spotify.com/artist/2JjoUSP8dUA7UhlWW59fK1) | [Me Has Hecho Libre](https://open.spotify.com/album/0dNBk8BUcnZoA0YouvHGRP) | 6:20 | 2020-11-24 | 2022-11-11 |
 | [Que Se Abra el Cielo](https://open.spotify.com/track/795ipT8LPC3Zlbro5Umykx) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9), [Marcos Brunet](https://open.spotify.com/artist/3XAsLrjUgQ9V2D8MjTfv8C) | [Eterno \(Live\)](https://open.spotify.com/album/6RLlR3KjR7kNUsz8FRW2PS) | 7:25 | 2020-11-24 | 2022-07-29 |
@@ -153,7 +155,7 @@
 | [Tan Solo Cree](https://open.spotify.com/track/52UBY1QBlCTRAyWa6GO0mZ) | [Jose Luis Reyes](https://open.spotify.com/artist/77Zo41CMTIsSUP47AkNhie) | [Algo Grande Viene](https://open.spotify.com/album/72sKgqdTMvoBgWyVo6ZzXX) | 4:12 | 2020-11-24 |  |
 | [Te Vi Llegar](https://open.spotify.com/track/5axhzyUPdFRhf2xBL00Ira) | [Gadiel Espinoza](https://open.spotify.com/artist/6LsF1LrB6rmAiWps0Mo1t6) | [Al Que Vive](https://open.spotify.com/album/0EnsJ3Ctbamkhj0rOVtAhQ) | 4:26 | 2020-11-24 |  |
 | [Tengo Sed De Ti](https://open.spotify.com/track/40cVQj7FN9WmRCcNGcetZn) | [Tony Pérez](https://open.spotify.com/artist/1guiKPfkZCVKA8GoFQS4oJ) | [He Visto Su Gloria](https://open.spotify.com/album/2KNED3ap9Rs4ytPjEdusv6) | 7:27 | 2020-11-24 |  |
-| [Toda la Gloria](https://open.spotify.com/track/16TBvss2BzA7av0e0MGgzn) | [Esperanza de Vida](https://open.spotify.com/artist/2JjoUSP8dUA7UhlWW59fK1) | [Toda la Gloria](https://open.spotify.com/album/5Vt4GH5dbZs4ckSI0ipuiN) | 5:57 | 2020-11-24 |  |
+| [Toda la Gloria](https://open.spotify.com/track/16TBvss2BzA7av0e0MGgzn) | [Esperanza de Vida](https://open.spotify.com/artist/2JjoUSP8dUA7UhlWW59fK1) | [Toda la Gloria](https://open.spotify.com/album/5Vt4GH5dbZs4ckSI0ipuiN) | 5:57 | 2020-11-24 | 2022-11-12 |
 | [Toda la Gloria](https://open.spotify.com/track/108rn8fBtcwYFd7kQzdvRA) | [Esperanza de Vida](https://open.spotify.com/artist/2JjoUSP8dUA7UhlWW59fK1) | [Fuego](https://open.spotify.com/album/5nKR0GJScbq5pcb7PGdBW9) | 6:00 | 2020-11-24 | 2022-07-29 |
 | [Toda la Gloria](https://open.spotify.com/track/3lTjQX4rSNfLhXrqyNM8nn) | [Esperanza de Vida](https://open.spotify.com/artist/2JjoUSP8dUA7UhlWW59fK1) | [Fuego](https://open.spotify.com/album/3cDznNz3cXNQql9O9KTAvi) | 6:00 | 2020-11-24 | 2022-11-11 |
 | [Tu Corazón](https://open.spotify.com/track/1ItqIKkKtgxiyXWCTbsC41) | [Shammai](https://open.spotify.com/artist/3hp9n03tGKNU5O3xMdSRMz) | [Tu Corazon](https://open.spotify.com/album/32ncL8vWO8l6pp69JOWY4B) | 4:04 | 2020-11-24 | 2022-07-29 |

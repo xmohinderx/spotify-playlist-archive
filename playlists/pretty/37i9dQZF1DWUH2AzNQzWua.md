@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUH2AzNQzWua.md) - [plain]
 
 > Instant classics from over the years loaded into one sweet mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,779,776 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,780,191 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUH2AzNQzWua.md) - [plain]
 | 39 | [Teardrops On My Guitar \- Radio Single Remix](https://open.spotify.com/track/7zMcNqs55Mxer82bvZFkpg) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Taylor Swift](https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3) | 3:23 |
 | 40 | [Georgia](https://open.spotify.com/track/429EttO8gs0bDo2SQfUNSm) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:50 |
 | 41 | [100 Years](https://open.spotify.com/track/2lFlveK1y13WWp3vnQtrr3) | [Five For Fighting](https://open.spotify.com/artist/7FgMLbnZVrEnir95O0YujA) | [The Battle for Everything](https://open.spotify.com/album/6RWEJvVwr8aCQfRchRhjMq) | 4:04 |
-| 42 | [Collide](https://open.spotify.com/track/6dwkFmLUz6hx2CZG2EqLol) | [Howie Day](https://open.spotify.com/artist/0ekbDNE2eOq8QiaXM34wer) | [Stop All The World Now](https://open.spotify.com/album/0bQBS1GmZ2sqbHcqiQnldn) | 4:09 |
-| 43 | [No One \- Acoustic](https://open.spotify.com/track/73E08jF1urQQSO0oTzCPpP) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Vault Volume 1](https://open.spotify.com/album/0dICqPiSgbmRRRqWAT0XKk) | 4:19 |
-| 44 | [Photograph](https://open.spotify.com/track/6fxVffaTuwjgEk5h9QyRjy) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Wembley Edition\)](https://open.spotify.com/album/6NoBzYmh5gUusGPCfg0pct) | 4:18 |
-| 45 | [The Story](https://open.spotify.com/track/0EKBV6GybPtALXUgWqWrym) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [The Story](https://open.spotify.com/album/23XH8Ej694esQAb3IYu00h) | 3:58 |
-| 46 | [The Cave](https://open.spotify.com/track/3vUn7FE3ZaQgJmkhIrIirF) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/4828DYqqXoOl1bMPyh5c3S) | 3:37 |
-| 47 | [Falling Slowly](https://open.spotify.com/track/6EIVLz5xM1xE29r0OmIkWt) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0), [Markéta Irglová](https://open.spotify.com/artist/4SklVMGMsWTq7cJd9MixUx) | [Music From The Motion Picture Once](https://open.spotify.com/album/4BUG3kfPOB6DWVKKDY2icE) | 4:04 |
-| 48 | [Jolene](https://open.spotify.com/track/2fSIF8CJhoc9CJhF9vJDXp) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Trouble](https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9) | 4:10 |
-| 49 | [Sympathy](https://open.spotify.com/track/5fIrBv7PrI2MBcktQOcmpI) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Gutterflower](https://open.spotify.com/album/740t2GhGBLY6qIPRNhSo9M) | 2:58 |
+| 42 | [No One \- Acoustic](https://open.spotify.com/track/73E08jF1urQQSO0oTzCPpP) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Vault Volume 1](https://open.spotify.com/album/0dICqPiSgbmRRRqWAT0XKk) | 4:19 |
+| 43 | [Photograph](https://open.spotify.com/track/6fxVffaTuwjgEk5h9QyRjy) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Wembley Edition\)](https://open.spotify.com/album/6NoBzYmh5gUusGPCfg0pct) | 4:18 |
+| 44 | [The Story](https://open.spotify.com/track/0EKBV6GybPtALXUgWqWrym) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [The Story](https://open.spotify.com/album/23XH8Ej694esQAb3IYu00h) | 3:58 |
+| 45 | [The Cave](https://open.spotify.com/track/3vUn7FE3ZaQgJmkhIrIirF) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/4828DYqqXoOl1bMPyh5c3S) | 3:37 |
+| 46 | [Falling Slowly](https://open.spotify.com/track/6EIVLz5xM1xE29r0OmIkWt) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0), [Markéta Irglová](https://open.spotify.com/artist/4SklVMGMsWTq7cJd9MixUx) | [Music From The Motion Picture Once](https://open.spotify.com/album/4BUG3kfPOB6DWVKKDY2icE) | 4:04 |
+| 47 | [Jolene](https://open.spotify.com/track/2fSIF8CJhoc9CJhF9vJDXp) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Trouble](https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9) | 4:10 |
+| 48 | [Sympathy](https://open.spotify.com/track/5fIrBv7PrI2MBcktQOcmpI) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Gutterflower](https://open.spotify.com/album/740t2GhGBLY6qIPRNhSo9M) | 2:58 |
+| 49 | [Take Me to Church](https://open.spotify.com/track/0aOluBqXYd0rFSCsgDyAWX) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier](https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq) | 4:01 |
 | 50 | [Boston](https://open.spotify.com/track/2WZyfujzMweFLnozyUJBkW) | [Augustana](https://open.spotify.com/artist/61YE3whKiuRr83j1yOm5M7) | [All The Stars and Boulevards](https://open.spotify.com/album/36i3fUi7xuuE0UA8pXtdxK) | 4:05 |
 
-Snapshot ID: `MTY0MzI5NjI0OSwwMDAwMDAwMGFhMDI5NzFhMDVjOTAwMzc4ZDkzYjA1NDRkMjJiYWIx`
+Snapshot ID: `MTY0MzI5NjI0OSwwMDAwMDAwMGRlNzY0NzVhYjA5NTAyNmM0M2UzNmI1MzIzY2NjN2Q2`

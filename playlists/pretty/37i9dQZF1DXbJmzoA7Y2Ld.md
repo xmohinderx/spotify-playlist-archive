@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbJmzoA7Y2Ld.md) - [plain]
 
 > Blues favorites released in 2020\. Cover: Shemekia Copeland
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,985 likes - 46 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,987 likes - 46 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbJmzoA7Y2Ld.md) - [plain]
 | 7 | [Somebody Gotta Make A Move](https://open.spotify.com/track/3g8TyEzKyPMYXLSUvXMJU4) | [Sonny Landreth](https://open.spotify.com/artist/7aHLYoLUMdcl0HiT5k0Brz) | [Blacktop Run](https://open.spotify.com/album/583OXr5VnpSpYHHukpZkSc) | 3:54 |
 | 8 | [Get Gone](https://open.spotify.com/track/6U4XpiZrqaYTVmKKfens2L) | [Swamp](https://open.spotify.com/artist/3JnCy7tffnn9EBDGk8ytQS) | [Don't Say Goodbye](https://open.spotify.com/album/4D1EqPba5ZOyIbYkaWqZR2) | 3:05 |
 | 9 | [Bam Bang Boom](https://open.spotify.com/track/28IupVMk18K2zmtm8EYAiS) | [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W), [Billy F Gibbons](https://open.spotify.com/artist/69Iibc3uQ7x2vDeZxTwKCw) | [Blues With Friends](https://open.spotify.com/album/70StIKUEqkP9b5irez4XZD) | 3:57 |
-| 10 | [Wayward Girl Blues](https://open.spotify.com/track/4KqG70KnkbejAZ35ZxEdTD) | [Rory Block](https://open.spotify.com/artist/6hkNj3GAqFbkEUCs3R1dY3) | [Prove It On Me](https://open.spotify.com/album/26caNJjFBmB1bwVeBblL6X) | 4:41 |
+| 10 | [Wayward Girl Blues](https://open.spotify.com/track/6xawtMMBGtqcRp7Ks34gI3) | [Rory Block](https://open.spotify.com/artist/6hkNj3GAqFbkEUCs3R1dY3) | [Wayward Girl Blues](https://open.spotify.com/album/6TcAaXuaa0ke2sf2GRgQ8q) | 4:41 |
 | 11 | [Blues Comin' On](https://open.spotify.com/track/5D7ZBbrS0iSh2jlyaBEBe9) | [Joe Louis Walker](https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD), [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV), [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W) | [Blues Comin' On](https://open.spotify.com/album/3nToFx6LGlS7AUa01g1KCa) | 5:55 |
 | 12 | [Woman Like Me](https://open.spotify.com/track/4apFuI4ptvZBNkPwGr7gpd) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Woman Like Me](https://open.spotify.com/album/2P2PYpBvfCJZO63d24m4Fa) | 4:04 |
 | 13 | [Five Dollars](https://open.spotify.com/track/4m0zS8ogujtTiLcAwCmHFT) | [Black Joe Lewis & The Honeybears](https://open.spotify.com/artist/6kbzJ40luXJ5IKnSpWr7SD) | [Five Dollars](https://open.spotify.com/album/6qjPSLr8oJHocV9Mt6Ax0m) | 3:08 |
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbJmzoA7Y2Ld.md) - [plain]
 | 23 | [Blues For The Weepers](https://open.spotify.com/track/1uOKBuziYCCioYymiwI8zi) | [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [Blackbirds](https://open.spotify.com/album/3gX2IvOKb8zxDJTTnyeLkf) | 3:46 |
 | 24 | [Get Out of My Life Woman](https://open.spotify.com/track/5KN5fmcJShC49J830DEqHI) | [Watermelon Slim](https://open.spotify.com/artist/1GwDrciV2X5gn9uh0UDFwN) | [Church of the Blues](https://open.spotify.com/album/4Zy8gXmsSdNNeVjrmCIq3T) | 3:09 |
 | 25 | [Well Well Well](https://open.spotify.com/track/6Gr0nYfH4DpKYrAggRGGZZ) | [Seasick Steve](https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv) | [Blues In Mono](https://open.spotify.com/album/2IQagMayRx6kAilOpLcBhs) | 2:30 |
-| 26 | [Sleeping Without You Is a Dragg \(feat\. Justin Vernon, Jenny Lewis\)](https://open.spotify.com/track/6wMH6KMlV8PW1iwdxdJ4Hv) | [Swamp Dogg](https://open.spotify.com/artist/6ZEUa75BqZkvpjhuVzCsdX), [Justin Vernon](https://open.spotify.com/artist/13rHmjtJmlIJ2aDyJc7CLV), [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [Sorry You Couldn't Make It](https://open.spotify.com/album/2p5pkNlYTEAzPdNdLHLMlP) | 4:01 |
+| 26 | [Sleeping Without You Is a Dragg \(feat\. Justin Vernon, Jenny Lewis\)](https://open.spotify.com/track/6CUxsqXImlnaiQYdFzrty2) | [Swamp Dogg](https://open.spotify.com/artist/6ZEUa75BqZkvpjhuVzCsdX), [Justin Vernon](https://open.spotify.com/artist/13rHmjtJmlIJ2aDyJc7CLV), [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [Sleeping Without You Is a Dragg \(feat\. Justin Vernon, Jenny Lewis\)](https://open.spotify.com/album/2gZYO0S9sojDQJCwQ12se8) | 4:01 |
 | 27 | [421 South Main](https://open.spotify.com/track/4Pu2Es4ayOB4VneMuhUsOe) | [King Solomon Hicks](https://open.spotify.com/artist/1kwMZiFnFBuniUpHpNHEds) | [Harlem](https://open.spotify.com/album/40eXcTxKtRRv68e4g6k29k) | 2:44 |
 | 28 | [Black Roller Coming](https://open.spotify.com/track/5OLFlnmmC8gQHiFisYvrAh) | [Philip Sayce](https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h) | [Spirit Rising](https://open.spotify.com/album/3dQKiRCBLOnvRmfcTCJP0H) | 2:49 |
 | 29 | [The Juice \(feat\. Marcus King\)](https://open.spotify.com/track/3NQ0Q9VSHzSwwlzFBey6QY) | [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89), [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [The Juice](https://open.spotify.com/album/66glD8iZgTv1vKXZRGQWXL) | 3:07 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbJmzoA7Y2Ld.md) - [plain]
 | 45 | [Just Beyond the Dawn](https://open.spotify.com/track/4Xy2i27HGAGENa13YMmKls) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Just Beyond the Dawn](https://open.spotify.com/album/3V4c8jFN21XSEEBGkXrmiL) | 3:10 |
 | 46 | [Handle Me with Care](https://open.spotify.com/track/1aZnAMv9eYxijTOe2sCF4s) | [Jade Macrae](https://open.spotify.com/artist/3m6tQTaPCGclNhgcC0wgOd) | [Handle Me with Care](https://open.spotify.com/album/3JYupWAKHDibbdw4UwWL2x) | 7:15 |
 
-Snapshot ID: `MTYwNzM4NzQxMSwwMDAwMDAwMDUyMmFmMGViYTcyOTYyOGZkZWMzOTNmMmZjODY0ZjAx`
+Snapshot ID: `MTYwNzM4NzQxMSwwMDAwMDAwMDg2ODdiNTk4YmY2OGNiOTczM2NiM2Y3ZjQyOTZlOGQ3`

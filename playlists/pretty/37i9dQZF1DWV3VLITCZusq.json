@@ -1,12 +1,12 @@
 {
   "description": "A pop rock running mix.",
-  "num_followers": 164150,
+  "num_followers": 164288,
   "original_name": "Pop Rock Run",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTA0ODYwMSwwMDAwMDAwMGIxY2I1MDUwYTA0MzVhMmY2M2IyMzdhM2M1Zjg5MzM1",
+  "snapshot_id": "MTY2NTA0ODYwMSwwMDAwMDAwMGRhNThiYTlkYTEyNzNiMjQwNDM5MWQyZjFjYWUxMjI0",
   "tracks": [
     {
       "added_at": "2022-08-12 10:55:26",
@@ -23,22 +23,6 @@
       "duration_ms": 204346,
       "name": "Believer",
       "url": "https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP"
-    },
-    {
-      "added_at": "2022-08-12 10:55:26",
-      "album": {
-        "name": "SOUR",
-        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 178146,
-      "name": "good 4 u",
-      "url": "https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG"
     },
     {
       "added_at": "2022-08-12 10:55:26",
@@ -123,22 +107,6 @@
     {
       "added_at": "2022-08-12 10:55:26",
       "album": {
-        "name": "Origins (Deluxe)",
-        "url": "https://open.spotify.com/album/3JfSxDfmwS5OeHPwLSkrfr"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 189466,
-      "name": "Natural",
-      "url": "https://open.spotify.com/track/2FY7b99s15jUprqC0M5NCT"
-    },
-    {
-      "added_at": "2022-08-12 10:55:26",
-      "album": {
         "name": "Oh, What A Life",
         "url": "https://open.spotify.com/album/0V4laGZGshNCpurfIdUhHv"
       },
@@ -151,6 +119,22 @@
       "duration_ms": 194240,
       "name": "Best Day Of My Life",
       "url": "https://open.spotify.com/track/5Hroj5K7vLpIG4FNCRIjbP"
+    },
+    {
+      "added_at": "2022-08-12 10:55:26",
+      "album": {
+        "name": "Origins (Deluxe)",
+        "url": "https://open.spotify.com/album/3JfSxDfmwS5OeHPwLSkrfr"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 189466,
+      "name": "Natural",
+      "url": "https://open.spotify.com/track/2FY7b99s15jUprqC0M5NCT"
     },
     {
       "added_at": "2022-08-12 10:55:26",
@@ -281,6 +265,22 @@
       "url": "https://open.spotify.com/track/1Cwsd5xI8CajJz795oy4XF"
     },
     {
+      "added_at": "2022-11-12 05:04:06",
+      "album": {
+        "name": "5SOS5",
+        "url": "https://open.spotify.com/album/26uA5pGrTovBLxikRsMQJ4"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "duration_ms": 215734,
+      "name": "Bad Omens",
+      "url": "https://open.spotify.com/track/2ovVwEXwcRYuIfnfJedGnQ"
+    },
+    {
       "added_at": "2022-08-12 10:55:26",
       "album": {
         "name": "Evolve",
@@ -295,22 +295,6 @@
       "duration_ms": 201240,
       "name": "Whatever It Takes",
       "url": "https://open.spotify.com/track/6Qn5zhYkTa37e91HC1D7lb"
-    },
-    {
-      "added_at": "2022-11-11 01:17:59",
-      "album": {
-        "name": "5SOS5",
-        "url": "https://open.spotify.com/album/26uA5pGrTovBLxikRsMQJ4"
-      },
-      "artists": [
-        {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
-        }
-      ],
-      "duration_ms": 215734,
-      "name": "Bad Omens",
-      "url": "https://open.spotify.com/track/2ovVwEXwcRYuIfnfJedGnQ"
     },
     {
       "added_at": "2022-08-12 10:55:26",
@@ -379,38 +363,6 @@
     {
       "added_at": "2022-08-12 10:55:26",
       "album": {
-        "name": "Follow You / Cutthroat",
-        "url": "https://open.spotify.com/album/1nz0PWfAcTQVbFtpU6u1UY"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 175643,
-      "name": "Follow You",
-      "url": "https://open.spotify.com/track/7FdUvDkaE24o3FPIWTvzv2"
-    },
-    {
-      "added_at": "2022-08-12 10:55:26",
-      "album": {
-        "name": "Habits",
-        "url": "https://open.spotify.com/album/7xpjpdislqMXOCw5xsDt4g"
-      },
-      "artists": [
-        {
-          "name": "Neon Trees",
-          "url": "https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy"
-        }
-      ],
-      "duration_ms": 212293,
-      "name": "Animal",
-      "url": "https://open.spotify.com/track/1fBl642IhJOE5U319Gy2Go"
-    },
-    {
-      "added_at": "2022-08-12 10:55:26",
-      "album": {
         "name": "Pocket Full Of Kryptonite",
         "url": "https://open.spotify.com/album/2TWdmpnFNCMlZDQROleupK"
       },
@@ -423,6 +375,22 @@
       "duration_ms": 256348,
       "name": "Two Princes",
       "url": "https://open.spotify.com/track/4ePP9So5xRzspjLFVVbj90"
+    },
+    {
+      "added_at": "2022-08-12 10:55:26",
+      "album": {
+        "name": "Follow You / Cutthroat",
+        "url": "https://open.spotify.com/album/1nz0PWfAcTQVbFtpU6u1UY"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 175643,
+      "name": "Follow You",
+      "url": "https://open.spotify.com/track/7FdUvDkaE24o3FPIWTvzv2"
     },
     {
       "added_at": "2022-08-12 10:55:26",
@@ -491,18 +459,18 @@
     {
       "added_at": "2022-08-12 10:55:26",
       "album": {
-        "name": "American Beauty/American Psycho",
-        "url": "https://open.spotify.com/album/022DrG7Wp2PSCwzuD0bSzT"
+        "name": "Mylo Xyloto",
+        "url": "https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18"
       },
       "artists": [
         {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
         }
       ],
-      "duration_ms": 211573,
-      "name": "Uma Thurman",
-      "url": "https://open.spotify.com/track/5PUawWFG1oIS2NwEcyHaCr"
+      "duration_ms": 240796,
+      "name": "Every Teardrop Is a Waterfall",
+      "url": "https://open.spotify.com/track/2U8g9wVcUu9wsg6i7sFSv8"
     },
     {
       "added_at": "2022-08-12 10:55:26",
@@ -523,18 +491,18 @@
     {
       "added_at": "2022-08-12 10:55:26",
       "album": {
-        "name": "Mylo Xyloto",
-        "url": "https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18"
+        "name": "American Beauty/American Psycho",
+        "url": "https://open.spotify.com/album/022DrG7Wp2PSCwzuD0bSzT"
       },
       "artists": [
         {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
         }
       ],
-      "duration_ms": 240796,
-      "name": "Every Teardrop Is a Waterfall",
-      "url": "https://open.spotify.com/track/2U8g9wVcUu9wsg6i7sFSv8"
+      "duration_ms": 211573,
+      "name": "Uma Thurman",
+      "url": "https://open.spotify.com/track/5PUawWFG1oIS2NwEcyHaCr"
     },
     {
       "added_at": "2022-08-12 10:55:26",
@@ -553,7 +521,7 @@
       "url": "https://open.spotify.com/track/4bCOAuhvjsxbVBM5MM8oik"
     },
     {
-      "added_at": "2022-11-11 01:17:59",
+      "added_at": "2022-11-12 05:04:06",
       "album": {
         "name": "Tissues",
         "url": "https://open.spotify.com/album/1LIAp7pyElYRzvlP0mXSew"
@@ -603,22 +571,6 @@
       "duration_ms": 206920,
       "name": "I'm Born To Run",
       "url": "https://open.spotify.com/track/6zDs6zI94L761vd0cVScTT"
-    },
-    {
-      "added_at": "2022-08-12 10:55:26",
-      "album": {
-        "name": "Stronger (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1MNvMtEmMMdBXZBDcFNcWj"
-      },
-      "artists": [
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        }
-      ],
-      "duration_ms": 221946,
-      "name": "Stronger (What Doesn't Kill You)",
-      "url": "https://open.spotify.com/track/6D60klaHqbCl9ySc8VcRss"
     },
     {
       "added_at": "2022-08-12 10:55:26",
@@ -787,18 +739,18 @@
     {
       "added_at": "2022-08-12 10:55:26",
       "album": {
-        "name": "Hopes And Fears",
-        "url": "https://open.spotify.com/album/0qsT8HLvlWaSWIq8Rc95BI"
+        "name": "Hits Rentr\u00e9e 2021",
+        "url": "https://open.spotify.com/album/58HtgHgFGdffOpr8lx9QVU"
       },
       "artists": [
         {
-          "name": "Keane",
-          "url": "https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz"
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
         }
       ],
-      "duration_ms": 220133,
-      "name": "Bend & Break",
-      "url": "https://open.spotify.com/track/1hoyGI5Hj81BT7Rkb9uXGF"
+      "duration_ms": 178147,
+      "name": "good 4 u",
+      "url": "https://open.spotify.com/track/3QVeeC9M980WM0eLKkyQp6"
     },
     {
       "added_at": "2022-08-12 10:55:26",
@@ -815,6 +767,58 @@
       "duration_ms": 241933,
       "name": "Called Out In The Dark",
       "url": "https://open.spotify.com/track/4BBt0kc625eUAdG2XpWPHm"
+    },
+    {
+      "added_at": "2022-08-12 10:55:26",
+      "album": {
+        "name": "Into the Wild",
+        "url": "https://open.spotify.com/album/3G59CviMuBFdi1DznMLM3n"
+      },
+      "artists": [
+        {
+          "name": "Night Swimmer",
+          "url": "https://open.spotify.com/artist/18VQpw9DeYcTQpei170WuB"
+        }
+      ],
+      "duration_ms": 163017,
+      "name": "Into the Wild",
+      "url": "https://open.spotify.com/track/66NbdXbJzdncnrL5dOpUqW"
+    },
+    {
+      "added_at": "2022-08-12 10:55:26",
+      "album": {
+        "name": "Housework Hits",
+        "url": "https://open.spotify.com/album/4t3oNFtFLHHXtJ39TBMGbc"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 256760,
+      "name": "Counting Stars",
+      "url": "https://open.spotify.com/track/0oubcPxMP962JtNEfI5pVR"
+    },
+    {
+      "added_at": "2022-08-12 10:55:26",
+      "album": {
+        "name": "2010s Hits",
+        "url": "https://open.spotify.com/album/5jdzXYmv7zWMdoJzcXrFQ9"
+      },
+      "artists": [
+        {
+          "name": "The Script",
+          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
+        },
+        {
+          "name": "will.i.am",
+          "url": "https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA"
+        }
+      ],
+      "duration_ms": 202533,
+      "name": "Hall of Fame (feat. will.i.am)",
+      "url": "https://open.spotify.com/track/3dI2vnaAXH1kykOMu9SgJA"
     }
   ],
   "unique_name": "Pop Rock Run",

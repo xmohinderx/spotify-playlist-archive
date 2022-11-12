@@ -4,7 +4,7 @@
 
 > Victory over death has been won today, forever!
 
-189 songs - 17 hr 24 min - [published](https://open.spotify.com/playlist/0tepX2bOxMzRByDHfGIE6m)
+190 songs - 17 hr 29 min - [published](https://open.spotify.com/playlist/0tepX2bOxMzRByDHfGIE6m)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Diamonds \(Something Beautiful\)](https://open.spotify.com/track/7qWXA4UfXBEqNs3n5r1dmb) | [NP / NIGHTS](https://open.spotify.com/artist/0d2DE8EogxlmaEDA9LhMSL) | [Diamonds \(Something Beautiful\)](https://open.spotify.com/album/6HAYpLUYV5LWy3xPPMiz7K) | 3:47 | 2022-04-17 |  |
 | [Do It Again](https://open.spotify.com/track/3iOpiHDobxZO7S4p9Y2Fgu) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [There Is a Cloud](https://open.spotify.com/album/5sbjJuC7SFAkTUCiQ8YbRB) | 6:38 | 2021-04-04 |  |
 | [Don't Ever Let Me Go \- Live](https://open.spotify.com/track/3OvG9LxwPFPBS2W4JqVDrm) | [Corey Voss](https://open.spotify.com/artist/1eqQW3Oj7MHXK05b8O5RHa) | [Songs of Heaven and Earth \(Vol\. 1\) \[Live\]](https://open.spotify.com/album/74bTU3e8S2m12OYitJsZxc) | 4:15 | 2021-04-04 | 2022-07-28 |
+| [Endlessly](https://open.spotify.com/track/3JrygX9aQ8rAHoQ0Tsm3cq) | [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [The War Is Over](https://open.spotify.com/album/6JFBg8304jW84YNZohE6bY) | 4:35 | 2022-04-17 |  |
 | [Endlessly](https://open.spotify.com/track/7xByqdEiWoLfwAY4eOJK0N) | [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [The War Is Over](https://open.spotify.com/album/6Br4yEtoV8RmArmLIAvEgw) | 4:35 | 2022-04-02 | 2022-04-21 |
 | [Exalted Over All \- Live](https://open.spotify.com/track/16b3DajNe0LzMGSEV2ZQP6) | [Vertical Worship](https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o) | [Frontiers](https://open.spotify.com/album/4dJizxCaLMzz4nWSju40mY) | 6:23 | 2022-04-02 |  |
 | [Extravagant \(Live\)](https://open.spotify.com/track/1LieRwFB0OI3wWGvI71DuX) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW), [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP) | [Starlight \(Live\)](https://open.spotify.com/album/2sjw2PGhdFIHpVbamv41q0) | 6:11 | 2021-04-04 | 2022-07-29 |
@@ -143,7 +144,7 @@
 | [Our God](https://open.spotify.com/track/40lKptao1hxVqA7fd1OOGp) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [And If Our God Is For Us...](https://open.spotify.com/album/2xwFfH8fO1MRmWZbNKZVqt) | 4:45 | 2022-04-02 |  |
 | [Our God Is Alive](https://open.spotify.com/track/2CAztZQ7LpJdtiIBhHWgnM) | [Austin Stone Worship](https://open.spotify.com/artist/5B0gcQCmHJR2VznrIGKh4x) | [With/In](https://open.spotify.com/album/24VYLFYasTOQhFXVv2HUE4) | 4:47 | 2021-04-04 | 2022-07-27 |
 | [Peace Be Still \(feat\. Lauren Daigle\)](https://open.spotify.com/track/6zvSkAEtFZIJD7kVeo5by4) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [All The Earth](https://open.spotify.com/album/6AmRmySvr449vMyF5Eq7ty) | 8:06 | 2021-04-04 | 2022-07-29 |
-| [Peace Be Still \- Live](https://open.spotify.com/track/3QgqMVZdqHdY8e7r7IUBww) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [All The Earth \(Live\)](https://open.spotify.com/album/00T7ckfhNb4TdXDAPCSr0h) | 8:06 | 2022-04-17 |  |
+| [Peace Be Still \- Live](https://open.spotify.com/track/3QgqMVZdqHdY8e7r7IUBww) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [All The Earth \(Live\)](https://open.spotify.com/album/00T7ckfhNb4TdXDAPCSr0h) | 8:06 | 2022-04-17 | 2022-11-12 |
 | [Praise the King](https://open.spotify.com/track/2aZ8ZkqwtVs5nEleyIKygM) | [Corey Voss](https://open.spotify.com/artist/1eqQW3Oj7MHXK05b8O5RHa) | [How Great](https://open.spotify.com/album/5dDRZSDf7fUVAfag8lFBKW) | 4:52 | 2021-04-04 |  |
 | [Promise Keeper](https://open.spotify.com/track/2Cr9jbqKa0fr2ROrHDn8Rb) | [Hope Darst](https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36) | [Peace Be Still](https://open.spotify.com/album/5NB3XmeK1ICymTWKPEWnSt) | 5:00 | 2021-04-04 |  |
 | [Raise a Hallelujah \(Studio Version\)](https://open.spotify.com/track/4LnHfZGEitmIVS17wndaUI) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jonathan David Helser](https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp), [Melissa Helser](https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r) | [Raise a Hallelujah \(Studio Version\)](https://open.spotify.com/album/2lvpEuRkSNanccXya3JLG7) | 4:04 | 2021-04-04 |  |

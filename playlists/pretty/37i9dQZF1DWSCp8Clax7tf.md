@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCp8Clax7tf.md) - [plain]
 
 > The Women who put Country Music on the map\. Cover: Loretta Lynn
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,996 likes - 97 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,216 likes - 97 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Coal Miner's Daughter \- Single Version](https://open.spotify.com/track/3mM14WXoPaLRjjkmxHe99L) | [Loretta Lynn](https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl) | [Coal Miner's Daughter](https://open.spotify.com/album/2SayIIdZkrtb9I4BbdnyOr) | 3:00 |
+| 1 | [Coal Miner's Daughter \- Single Version](https://open.spotify.com/track/48YTGYDGj7sJv7Gj0b5DrZ) | [Loretta Lynn](https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl) | [Happy Mother's Day Y'all](https://open.spotify.com/album/7de0tgPmcZOZmxQ5DwyT4B) | 2:58 |
 | 2 | [9 to 5](https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [9 To 5 And Odd Jobs](https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd) | 2:42 |
 | 3 | [Lesson In Leavin'](https://open.spotify.com/track/0xo5dRgtkZlR2zNJwSYB37) | [Jo Dee Messina](https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3) | [All\-Time Greatest Hits](https://open.spotify.com/album/2W0uJ9ehsjiInD1CDvVHHX) | 3:40 |
 | 4 | [Seven Year Ache](https://open.spotify.com/track/2bYp7DYfjXULM24FUh9Z3Q) | [Rosanne Cash](https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE) | [The Very Best Of Rosanne Cash](https://open.spotify.com/album/2Wc3y0qSYX4fxYBWeiYnFa) | 3:14 |
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCp8Clax7tf.md) - [plain]
 | 21 | [Blue Bayou](https://open.spotify.com/track/3zxklD2EGecZre9MjEEvIU) | [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc) | [Simple Dreams](https://open.spotify.com/album/15lJi5fAnWPltCKBTUbTry) | 3:59 |
 | 22 | [She's In Love With The Boy \- Single Version](https://open.spotify.com/track/2ulBBx6YQ3qY3ci34RadtN) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Trisha Yearwood](https://open.spotify.com/album/6US5XlX7w7nL9pRE0F5jeI) | 4:08 |
 | 23 | [Strawberry Wine](https://open.spotify.com/track/3ODF56f90W3qxDqxHAUi3v) | [Deana Carter](https://open.spotify.com/artist/0aqrM7Fo3Ml66Kc5JAzmjt) | [The Deana Carter Collection](https://open.spotify.com/album/5WqK9zGqUlTw7IPY2k1Yqd) | 4:50 |
-| 24 | [You're Still The One](https://open.spotify.com/track/1wb4P4F0sxAQ2KXrRvsx6n) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9) | 3:32 |
+| 24 | [You're Still The One](https://open.spotify.com/track/3fOEldPK2dTA6C12PzrDtT) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Cleaning At Home \- Pop Edition](https://open.spotify.com/album/6APP9HoLEQFYYySdwgxC1G) | 3:32 |
 | 25 | [Wide Open Spaces](https://open.spotify.com/track/6cjwec9ii5uLK7CDfPBYt1) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Wide Open Spaces](https://open.spotify.com/album/11Rni6y5dnNo6NRVuxltIj) | 3:43 |
 | 26 | [This Kiss](https://open.spotify.com/track/5EYWGM3Ns3iYew8ws0FatB) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Faith](https://open.spotify.com/album/2lKDDrmx5aqyBRkho5ljn5) | 3:14 |
 | 27 | [Harper Valley P.T.A.](https://open.spotify.com/track/2sZIclzhHlH8tzf7wry9hK) | [Jeannie C\. Riley](https://open.spotify.com/artist/3MIwMeYV8vmgQFbbRiJTp2) | [Harper Valley P.T.A\. \(The Plantation Recordings 1968\-70\)](https://open.spotify.com/album/43obe0SQxjP4aFRyyj3QRg) | 3:14 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCp8Clax7tf.md) - [plain]
 | 96 | [I Don't Wanna Play House](https://open.spotify.com/track/0mSywazXcVFQZRk2Gg9ImX) | [Tammy Wynette](https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id) | [Tammy's Greatest Hits](https://open.spotify.com/album/5QF3r0KyftGsWWs6zmyfNI) | 2:34 |
 | 97 | [Paper Roses](https://open.spotify.com/track/00oIqmk1eRn9D2y8BzNLS1) | [Marie Osmond](https://open.spotify.com/artist/3ijY78RxOagYo8FOgSEkWj) | [20th Century Masters: The Millennium Collection: Best of Donny & Marie Osmond](https://open.spotify.com/album/6ywF3v0chlAEmj0xzPAIWM) | 2:38 |
 
-Snapshot ID: `MTY0NzU2OTk4NywwMDAwMDAwMDJlNDdhMmUyNmNlMmQ5YTNlM2NhZmNjOTYxNjkzMzU1`
+Snapshot ID: `MTY0NzU2OTk4NywwMDAwMDAwMDVhNzM3MThkMzAxNDYzN2FlMGNkMDAyZTcyMDE2MDg3`

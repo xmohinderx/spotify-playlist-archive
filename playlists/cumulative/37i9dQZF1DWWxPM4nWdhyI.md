@@ -4,7 +4,7 @@
 
 > All his biggest hits, in one place.
 
-75 songs - 4 hr 41 min - [published](https://open.spotify.com/playlist/1ubXN8ZL3te8j1JSTcPftP)
+76 songs - 4 hr 44 min - [published](https://open.spotify.com/playlist/1ubXN8ZL3te8j1JSTcPftP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,14 +53,15 @@
 | [New Man](https://open.spotify.com/track/5HDPtsnyb3maFmPL8LLUTG) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 3:09 | 2021-12-03 |  |
 | [Overpass Graffiti](https://open.spotify.com/track/4btFHqumCO31GksfuBLLv3) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:56 | 2021-12-03 |  |
 | [Perfect](https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 4:23 | 2021-12-03 |  |
-| [Peru](https://open.spotify.com/track/3s1KwrLP0NlFWiWbjz6bfQ) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Peru](https://open.spotify.com/album/72hpBprZjtHAgsRTIUKrKO) | 3:07 | 2022-04-22 | 2022-08-10 |
+| [Peru](https://open.spotify.com/track/3s1KwrLP0NlFWiWbjz6bfQ) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Peru](https://open.spotify.com/album/72hpBprZjtHAgsRTIUKrKO) | 3:07 | 2022-04-22 |  |
 | [Peru](https://open.spotify.com/track/4hJhHbkhZFnxmWbAkZRoe0) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Peru](https://open.spotify.com/album/5SLXbErenG3tJrVdIMpQHk) | 3:07 | 2022-01-20 | 2022-07-29 |
-| [Peru](https://open.spotify.com/track/4vb777iaycnlFxVkJMmtfd) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Playboy](https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ) | 3:07 | 2022-04-22 |  |
+| [Peru](https://open.spotify.com/track/4vb777iaycnlFxVkJMmtfd) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Playboy](https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ) | 3:07 | 2022-04-22 | 2022-11-12 |
 | [Photograph](https://open.spotify.com/track/1HNkqx9Ahdgi1Ixy2xkKkL) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Deluxe Edition\)](https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd) | 4:18 | 2021-12-03 |  |
 | [Sandman](https://open.spotify.com/track/2Ldb2ytuC9AxhpAkVEJBI6) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 4:19 | 2021-12-03 |  |
 | [Save Myself](https://open.spotify.com/track/6TIU9Ehmi6dMzZK73Ym4yj) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 4:07 | 2021-12-03 |  |
 | [Shape of You](https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 3:53 | 2021-12-03 |  |
-| [Shivers](https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:27 | 2022-04-22 |  |
+| [Shivers](https://open.spotify.com/track/2vJw8oQzwDP9mHm2YCmVcj) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Sunday Feelgood](https://open.spotify.com/album/6Ko420zIBuOY8iMJMrKPns) | 3:27 | 2022-08-12 |  |
+| [Shivers](https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:27 | 2022-04-22 | 2022-11-12 |
 | [Shivers](https://open.spotify.com/track/6bQfNiqyCX7UaQSvVVGo4I) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Shivers](https://open.spotify.com/album/5kFCfioZraFsRWpoitQjmx) | 3:27 | 2021-12-03 | 2022-07-29 |
 | [Sigue](https://open.spotify.com/track/0bBd6K5X4W7t9GyXcaVOA7) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Sigue/Forever My Love](https://open.spotify.com/album/5umofLk634QVTKYtt2Deoy) | 2:39 | 2022-03-28 |  |
 | [Sing](https://open.spotify.com/track/6K8qKeWo5MsFED7wCR6Kop) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Deluxe Edition\)](https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd) | 3:55 | 2021-12-03 |  |

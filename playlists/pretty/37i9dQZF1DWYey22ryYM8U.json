@@ -1,12 +1,12 @@
 {
   "description": "Hits con sabor. Cover: LA INDIA, Goyo.",
-  "num_followers": 529908,
+  "num_followers": 529968,
   "original_name": "Tropical Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njg1MTIxOCwwMDAwMDAwMDQ1NDkwZjJlYzA4NDhhNDJiYmFjMTFkYjYwZTQ4NGQw",
+  "snapshot_id": "MTY2Njg1MTIxOCwwMDAwMDAwMDhhOWE1NjRmYTViYjg5Y2Y4NTQyZTMwNGRmMjFiYjM3",
   "tracks": [
     {
       "added_at": "2022-10-27 06:13:38",
@@ -767,6 +767,26 @@
     {
       "added_at": "2022-10-27 06:13:38",
       "album": {
+        "name": "MOTOMAMI +",
+        "url": "https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 188121,
+      "name": "LA FAMA",
+      "url": "https://open.spotify.com/track/77VjuBo3CJbamC3gzaUzK9"
+    },
+    {
+      "added_at": "2022-10-27 06:13:38",
+      "album": {
         "name": "Dividimos",
         "url": "https://open.spotify.com/album/324fcgIxRLq3CpqA7WmLWX"
       },
@@ -803,26 +823,6 @@
       "duration_ms": 199120,
       "name": "Otra Noche",
       "url": "https://open.spotify.com/track/5i82o3878xCPNCUK8VIeqX"
-    },
-    {
-      "added_at": "2022-10-27 06:13:38",
-      "album": {
-        "name": "MOTOMAMI +",
-        "url": "https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        },
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 188121,
-      "name": "LA FAMA",
-      "url": "https://open.spotify.com/track/77VjuBo3CJbamC3gzaUzK9"
     },
     {
       "added_at": "2022-10-27 06:13:38",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2022-10-27 06:13:38",
       "album": {
+        "name": "Religi\u00f3n",
+        "url": "https://open.spotify.com/album/59M5urdBBastXOof10375B"
+      },
+      "artists": [
+        {
+          "name": "Jhoni The Voice",
+          "url": "https://open.spotify.com/artist/6grrtSwMegDAZVtJgUQtJl"
+        }
+      ],
+      "duration_ms": 220903,
+      "name": "Religi\u00f3n",
+      "url": "https://open.spotify.com/track/14q8qADoS0GfBzCyXhdZHy"
+    },
+    {
+      "added_at": "2022-10-27 06:13:38",
+      "album": {
         "name": "Vamo' a Ver Si el Gas Pela (feat. Miky Woodz & Marvin Santiago)",
         "url": "https://open.spotify.com/album/6voTsTj7qktcItEfbyV5fH"
       },
@@ -1555,22 +1571,6 @@
     {
       "added_at": "2022-10-27 06:13:38",
       "album": {
-        "name": "Religi\u00f3n",
-        "url": "https://open.spotify.com/album/59M5urdBBastXOof10375B"
-      },
-      "artists": [
-        {
-          "name": "Jhoni The Voice",
-          "url": "https://open.spotify.com/artist/6grrtSwMegDAZVtJgUQtJl"
-        }
-      ],
-      "duration_ms": 220903,
-      "name": "Religi\u00f3n",
-      "url": "https://open.spotify.com/track/14q8qADoS0GfBzCyXhdZHy"
-    },
-    {
-      "added_at": "2022-10-27 06:13:38",
-      "album": {
         "name": "Otra Vez",
         "url": "https://open.spotify.com/album/1b50tBHDr0LWi7GAOHPwey"
       },
@@ -1583,6 +1583,22 @@
       "duration_ms": 150071,
       "name": "Otra Vez",
       "url": "https://open.spotify.com/track/5iwezY285OvcvpWZ5DOwHc"
+    },
+    {
+      "added_at": "2022-10-27 06:13:38",
+      "album": {
+        "name": "Leandro D\u00edaz Special Edition",
+        "url": "https://open.spotify.com/album/15YN8Utsvs8BZuxgWGccns"
+      },
+      "artists": [
+        {
+          "name": "Silvestre Dangond",
+          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
+        }
+      ],
+      "duration_ms": 227900,
+      "name": "Matilde Lina",
+      "url": "https://open.spotify.com/track/2uTXEOD9TzgYoD6iupAxab"
     },
     {
       "added_at": "2022-10-27 06:13:38",
@@ -1607,22 +1623,6 @@
     {
       "added_at": "2022-10-27 06:13:38",
       "album": {
-        "name": "Leandro D\u00edaz Special Edition",
-        "url": "https://open.spotify.com/album/15YN8Utsvs8BZuxgWGccns"
-      },
-      "artists": [
-        {
-          "name": "Silvestre Dangond",
-          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
-        }
-      ],
-      "duration_ms": 227900,
-      "name": "Matilde Lina",
-      "url": "https://open.spotify.com/track/2uTXEOD9TzgYoD6iupAxab"
-    },
-    {
-      "added_at": "2022-10-27 06:13:38",
-      "album": {
         "name": "Los Recuerdos",
         "url": "https://open.spotify.com/album/0xGbVhKSRFIzUFLDWsmJYV"
       },
@@ -1635,26 +1635,6 @@
       "duration_ms": 161906,
       "name": "Los Recuerdos",
       "url": "https://open.spotify.com/track/2huEu8faRAhs0OAtTa5hpH"
-    },
-    {
-      "added_at": "2022-10-27 06:13:38",
-      "album": {
-        "name": "Si Me Das Tu Amor",
-        "url": "https://open.spotify.com/album/4HnkFvcWujnLxUcPQkPjRM"
-      },
-      "artists": [
-        {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
-        },
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        }
-      ],
-      "duration_ms": 213186,
-      "name": "Si Me Das Tu Amor",
-      "url": "https://open.spotify.com/track/1O34fFJyV7djSqRtOuRSVh"
     },
     {
       "added_at": "2022-10-27 06:13:38",
@@ -1679,6 +1659,26 @@
     {
       "added_at": "2022-10-27 06:13:38",
       "album": {
+        "name": "Si Me Das Tu Amor",
+        "url": "https://open.spotify.com/album/4HnkFvcWujnLxUcPQkPjRM"
+      },
+      "artists": [
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        },
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        }
+      ],
+      "duration_ms": 213186,
+      "name": "Si Me Das Tu Amor",
+      "url": "https://open.spotify.com/track/1O34fFJyV7djSqRtOuRSVh"
+    },
+    {
+      "added_at": "2022-10-27 06:13:38",
+      "album": {
         "name": "Las Puertas del Cielo",
         "url": "https://open.spotify.com/album/7tn2Du0ZolY76WSl9aMwF7"
       },
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2022-10-27 06:13:38",
       "album": {
-        "name": "Ojal\u00e1",
-        "url": "https://open.spotify.com/album/0kAsWiX9vauYBBqcspZPHW"
-      },
-      "artists": [
-        {
-          "name": "Olga Ta\u00f1\u00f3n",
-          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
-        }
-      ],
-      "duration_ms": 215915,
-      "name": "Ojal\u00e1",
-      "url": "https://open.spotify.com/track/5RsWQQ8DWwrZZEHv9UvcYT"
-    },
-    {
-      "added_at": "2022-10-27 06:13:38",
-      "album": {
         "name": "Soltero",
         "url": "https://open.spotify.com/album/6U6e78fvesTnt6UKHTo685"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 260431,
       "name": "Soltero",
       "url": "https://open.spotify.com/track/77zrNNK2FcNwjtGXOsH4R2"
+    },
+    {
+      "added_at": "2022-10-27 06:13:38",
+      "album": {
+        "name": "Ojal\u00e1",
+        "url": "https://open.spotify.com/album/0kAsWiX9vauYBBqcspZPHW"
+      },
+      "artists": [
+        {
+          "name": "Olga Ta\u00f1\u00f3n",
+          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
+        }
+      ],
+      "duration_ms": 215915,
+      "name": "Ojal\u00e1",
+      "url": "https://open.spotify.com/track/5RsWQQ8DWwrZZEHv9UvcYT"
     },
     {
       "added_at": "2022-10-27 06:13:38",
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2022-10-27 06:13:38",
       "album": {
-        "name": "No Te Vayas",
-        "url": "https://open.spotify.com/album/5LWzkXfz3kWsZ6mAc122X9"
-      },
-      "artists": [
-        {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
-        }
-      ],
-      "duration_ms": 226128,
-      "name": "No Te Vayas",
-      "url": "https://open.spotify.com/track/587xp1Yt8CAPzbHsAuN5nD"
-    },
-    {
-      "added_at": "2022-10-27 06:13:38",
-      "album": {
         "name": "Cari\u00f1o M\u00edo",
         "url": "https://open.spotify.com/album/633EQz5mNZHb0lEl2fbHuz"
       },
@@ -1819,6 +1803,26 @@
     {
       "added_at": "2022-10-27 06:13:38",
       "album": {
+        "name": "C\u00f3mo Olvidar (Versi\u00f3n 2021)",
+        "url": "https://open.spotify.com/album/6hSEwNZfaqGZ6Id9PrOMhO"
+      },
+      "artists": [
+        {
+          "name": "Olga Ta\u00f1\u00f3n",
+          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "duration_ms": 226771,
+      "name": "C\u00f3mo Olvidar - Versi\u00f3n 2021",
+      "url": "https://open.spotify.com/track/54Gc7ov5yGRn4iaGOph0jJ"
+    },
+    {
+      "added_at": "2022-10-27 06:13:38",
+      "album": {
         "name": "Y Le Dije No",
         "url": "https://open.spotify.com/album/3LRxWGnjdFcxjRjO01s7sG"
       },
@@ -1839,22 +1843,18 @@
     {
       "added_at": "2022-10-27 06:13:38",
       "album": {
-        "name": "C\u00f3mo Olvidar (Versi\u00f3n 2021)",
-        "url": "https://open.spotify.com/album/6hSEwNZfaqGZ6Id9PrOMhO"
+        "name": "No Te Vayas",
+        "url": "https://open.spotify.com/album/5LWzkXfz3kWsZ6mAc122X9"
       },
       "artists": [
         {
-          "name": "Olga Ta\u00f1\u00f3n",
-          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
-        },
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
         }
       ],
-      "duration_ms": 226771,
-      "name": "C\u00f3mo Olvidar - Versi\u00f3n 2021",
-      "url": "https://open.spotify.com/track/54Gc7ov5yGRn4iaGOph0jJ"
+      "duration_ms": 226128,
+      "name": "No Te Vayas",
+      "url": "https://open.spotify.com/track/587xp1Yt8CAPzbHsAuN5nD"
     },
     {
       "added_at": "2022-10-27 06:13:38",
@@ -2167,6 +2167,22 @@
     {
       "added_at": "2022-10-27 06:13:38",
       "album": {
+        "name": "Pilot",
+        "url": "https://open.spotify.com/album/3iGoLRveNIQ2I4ibGbzXi4"
+      },
+      "artists": [
+        {
+          "name": "Chavi Leons",
+          "url": "https://open.spotify.com/artist/2NpvOJUmcKkw4BEVsVbUcx"
+        }
+      ],
+      "duration_ms": 179368,
+      "name": "Tu Me Matas",
+      "url": "https://open.spotify.com/track/3suz9KxSek6PgrXVfoIGQd"
+    },
+    {
+      "added_at": "2022-10-27 06:13:38",
+      "album": {
         "name": "Nuestra Esquina",
         "url": "https://open.spotify.com/album/2KmfhRaTEiEARwxWlyyRDD"
       },
@@ -2183,22 +2199,6 @@
       "duration_ms": 248173,
       "name": "Tranquila Bebe",
       "url": "https://open.spotify.com/track/2NisBr13bzzrleg25GDcKv"
-    },
-    {
-      "added_at": "2022-10-27 06:13:38",
-      "album": {
-        "name": "Pilot",
-        "url": "https://open.spotify.com/album/3iGoLRveNIQ2I4ibGbzXi4"
-      },
-      "artists": [
-        {
-          "name": "Chavi Leons",
-          "url": "https://open.spotify.com/artist/2NpvOJUmcKkw4BEVsVbUcx"
-        }
-      ],
-      "duration_ms": 179368,
-      "name": "Tu Me Matas",
-      "url": "https://open.spotify.com/track/3suz9KxSek6PgrXVfoIGQd"
     },
     {
       "added_at": "2022-10-27 06:13:38",

@@ -4,15 +4,16 @@
 
 > You'll be up with the sun and running to this playlist of fast paced feel good tunes!
 
-44 songs - 2 hr 41 min - [published](https://open.spotify.com/playlist/3cJYhu5XOiKw5Z1sCU5J49)
+46 songs - 2 hr 47 min - [published](https://open.spotify.com/playlist/3cJYhu5XOiKw5Z1sCU5J49)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Call Me In The Afternoon](https://open.spotify.com/track/2BBb3UMJBNlofpC25pbSp4) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Spotify Sessions](https://open.spotify.com/album/0FCAIjkz366qJJbLe7RSis) | 3:13 | 2015-07-25 | 2022-07-29 |
 | [Call Me in the Afternoon](https://open.spotify.com/track/2BzR2zRJIcFcMCIBKAD68U) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Spotify Sessions](https://open.spotify.com/album/0GlqIYAIGeib66oR1pyy4F) | 3:13 | 2022-10-13 |  |
 | [Call Me in the Afternoon](https://open.spotify.com/track/3jJuBdO5rrtDufNAf76V1x) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Spotify Sessions](https://open.spotify.com/album/7M2JPV9Q0OzWgI7v46Q9Dg) | 3:13 | 2022-07-29 | 2022-10-13 |
-| [Cassy O'](https://open.spotify.com/track/0KlUnDYTACNGFPFIUa3eZd) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Wanted on Voyage \(Expanded Edition\)](https://open.spotify.com/album/6mcMKGEgukjyiR5IKElQ2E) | 3:04 | 2022-07-29 |  |
+| [Cassy O'](https://open.spotify.com/track/0KlUnDYTACNGFPFIUa3eZd) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Wanted on Voyage \(Expanded Edition\)](https://open.spotify.com/album/6mcMKGEgukjyiR5IKElQ2E) | 3:04 | 2022-07-29 | 2022-11-12 |
 | [Cassy O'](https://open.spotify.com/track/4utxrxc5CohfZa6ZhWDdNn) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Wanted on Voyage](https://open.spotify.com/album/7L4ZwpSwKQCerDQv9C4O1M) | 3:04 | 2015-07-25 | 2022-07-29 |
+| [Cassy O' \- Radio Edit](https://open.spotify.com/track/7MfmCzvqJLtaAZTyEaHLCb) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Wanted on Voyage \(Expanded Edition\)](https://open.spotify.com/album/2noXavarvb1s7U5G8yDddY) | 3:04 | 2022-11-12 |  |
 | [Dime Store Cowgirl](https://open.spotify.com/track/43xanDcfSBWuURZCWbItzf) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Pageant Material](https://open.spotify.com/album/5xxKrpAO6Toq1KmopQ4tox) | 3:34 | 2022-07-29 | 2022-11-11 |
 | [Dime Store Cowgirl](https://open.spotify.com/track/6oU7wRtqnudEKA00egD3sP) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Dime Store Cowgirl](https://open.spotify.com/album/68FVTBYr7BfNK0djLweUcX) | 3:35 | 2015-07-25 | 2022-07-29 |
 | [Dime Store Cowgirl](https://open.spotify.com/track/26ocYTTJY9s9I0Hbq8B44v) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Female Country](https://open.spotify.com/album/09mXIrmJrisHosp2I5ri6R) | 3:35 | 2022-11-11 |  |
@@ -45,7 +46,8 @@
 | [Talk To Me](https://open.spotify.com/track/6DXxNwGTutl5cnAYJkiLVm) | [Kopecky](https://open.spotify.com/artist/0vRO9bFgOrDoFtLcDHV8b6) | [Talk To Me](https://open.spotify.com/album/0PbABISCq1snI3xlCr3agH) | 2:53 | 2015-07-25 | 2022-07-29 |
 | [The Way We Move](https://open.spotify.com/track/40rjypnguxfhPy4Bbv5SWc) | [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy), [The Law](https://open.spotify.com/artist/6DK3E5dh7jJrKyAHfucWBB) | [The Way We Move](https://open.spotify.com/album/6BIZ0siUtYwDqrGSTIdxU7) | 2:48 | 2015-07-25 |  |
 | [Walt Whitman](https://open.spotify.com/track/6nQ5z2EDrltb8MZs3HhfgL) | [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [Stars and Satellites](https://open.spotify.com/album/3otETa3Pe9HZon4cP9xZnB) | 2:38 | 2015-07-25 |  |
-| [Way Way Back](https://open.spotify.com/track/386DfI5sZ0eJi1i6SZVqLw) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Kill The Lights \(Deluxe\)](https://open.spotify.com/album/0WtCqmpVN7rRGfDMSWSXBA) | 3:19 | 2022-07-29 |  |
+| [Way Way Back](https://open.spotify.com/track/386DfI5sZ0eJi1i6SZVqLw) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Kill The Lights \(Deluxe\)](https://open.spotify.com/album/0WtCqmpVN7rRGfDMSWSXBA) | 3:19 | 2022-07-29 | 2022-11-12 |
+| [Way Way Back](https://open.spotify.com/track/0HeGaguSlSFTrAuGvi2MDv) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Beat The Heat Country Summer Jams](https://open.spotify.com/album/2c8w7XZA5hgdicagwnx7Be) | 3:19 | 2022-11-12 |  |
 | [Way Way Back](https://open.spotify.com/track/1EV8rGG6eZIvp7DJ2ravW1) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Kill The Lights](https://open.spotify.com/album/2kUXqmlthYkv0yyW3N9cy8) | 3:19 | 2015-08-07 | 2022-07-29 |
 | [We Are The Tide](https://open.spotify.com/track/25DuRDj1X0FGlTqcmxXC4m) | [Blind Pilot](https://open.spotify.com/artist/6qiGjRyN7TJ1GA2nXF68Hi) | [We Are The Tide](https://open.spotify.com/album/0O1jkxW6eLliaSWJGxOWJi) | 3:17 | 2015-07-25 | 2022-07-29 |
 | [We Are the Tide](https://open.spotify.com/track/6vpATnRbTUGyMqQ9UYVMh7) | [Blind Pilot](https://open.spotify.com/artist/6qiGjRyN7TJ1GA2nXF68Hi) | [We Are the Tide](https://open.spotify.com/album/4jAXE8gSio8mc9ZFaTTQGs) | 3:17 | 2022-07-29 |  |

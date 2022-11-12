@@ -4,7 +4,7 @@
 
 > Simply Texas blues at its best.
 
-70 songs - 5 hr 8 min - [published](https://open.spotify.com/playlist/2yVnQOLdW4J3Zp3OZ1Oj4o)
+72 songs - 5 hr 17 min - [published](https://open.spotify.com/playlist/2yVnQOLdW4J3Zp3OZ1Oj4o)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,8 +30,9 @@
 | [Givin' Up On Love](https://open.spotify.com/track/0z996lfA5XGfC9uwVaBIUW) | [Byther Smith](https://open.spotify.com/artist/6xvCAutMGoKknAWPv0tnxR), [Larry Davis](https://open.spotify.com/artist/27feE7HAmTov8QoZAp1y3A) | [Blues Knights\-Chicago Blues Festival 1985 \(Blues Reference\)](https://open.spotify.com/album/6OEyqgV8cDWD5b3ctNfnqc) | 5:47 | 2018-02-27 |  |
 | [Good Texan](https://open.spotify.com/track/34d6n6HMfyOiQjudsxbfeh) | [The Vaughan Brothers](https://open.spotify.com/artist/2mwN5WQ1mAhOibFEbfFfsG) | [Family Style](https://open.spotify.com/album/1NpSBYjQQK5zJHBAS9SxsL) | 4:21 | 2016-03-18 |  |
 | [Gotta Serve Somebody](https://open.spotify.com/track/5XErREyoO37cJdsXAJVu1J) | [Denny Freeman](https://open.spotify.com/artist/2sCGPaXs1se0qKtGeXAgcv) | [Diggin' On Dylan](https://open.spotify.com/album/1sOAiVbChDBc1SyQf1rCIh) | 4:48 | 2018-02-27 |  |
+| [Have Blues, Will Travel](https://open.spotify.com/track/1acDabJ7hYwJi5QEVfF1xD) | [Bnois King](https://open.spotify.com/artist/17jKRJyvcPLKu8GrxAwff1), [Smokin' Joe Kubek](https://open.spotify.com/artist/5XkftMVm7vxTLcj05etN6B) | [Texas Blues](https://open.spotify.com/album/41lFHX1tk5oIoj0C9Bfgk9) | 4:07 | 2016-03-18 |  |
 | [Have Blues, Will Travel](https://open.spotify.com/track/5uQmSlxgnr19AMo2D5rBqX) | [Smokin' Joe Kubek & Bnois King](https://open.spotify.com/artist/0nMA4cLQjSiZspsoI70aut) | [Have Blues, Will Travel](https://open.spotify.com/album/1aIpCxCpnB70PClhPolZhj) | 4:07 | 2016-03-18 | 2022-07-29 |
-| [Have Blues, Will Travel](https://open.spotify.com/track/6XxHUskI6Q4HZXiXFND9dc) | [Smokin' Joe Kubek & Bnois King](https://open.spotify.com/artist/0nMA4cLQjSiZspsoI70aut) | [Have Blues, Will Travel](https://open.spotify.com/album/2heZTglJ1H7pY5tArsksKC) | 4:07 | 2016-03-18 |  |
+| [Have Blues, Will Travel](https://open.spotify.com/track/6XxHUskI6Q4HZXiXFND9dc) | [Smokin' Joe Kubek & Bnois King](https://open.spotify.com/artist/0nMA4cLQjSiZspsoI70aut) | [Have Blues, Will Travel](https://open.spotify.com/album/2heZTglJ1H7pY5tArsksKC) | 4:07 | 2016-03-18 | 2022-11-12 |
 | [Honest I Do \(feat\. Gary Clark, Jr.\)](https://open.spotify.com/track/7FmfpB1TgA8hi3etdffflO) | [Omar and The Howlers](https://open.spotify.com/artist/70PvPWG9nD4ZujibB1onsO), [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Too Much is not enough](https://open.spotify.com/album/4nBTViXrq2BhHlvnJOE5HD) | 2:21 | 2018-02-27 |  |
 | [Honey, Hush aka Talking Woman Blues](https://open.spotify.com/track/5qPJSWhuZpD79C3CloJvDA) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Ice Pickin'](https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab) | 4:28 | 2016-03-18 | 2022-11-11 |
 | [Honey, Hush Aka Talking Woman Blues](https://open.spotify.com/track/2OcI0qBGh43Ujr4xhxUGg7) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Greatest Blues Covers](https://open.spotify.com/album/16DVtb2ktkxqpkzFsYGnSG) | 4:28 | 2016-03-18 |  |
@@ -53,8 +54,9 @@
 | [Mojo Boogie](https://open.spotify.com/track/0tsKu0o04uNgkXpP8mP6tQ) | [Johnny Winter](https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO) | [3rd Degree](https://open.spotify.com/album/6dVzmBcjw1033jfE8erIH4) | 4:53 | 2018-02-27 | 2022-07-29 |
 | [Mojo Boogie](https://open.spotify.com/track/59yxiso5Y2tDoxsd0qgwOY) | [Johnny Winter](https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO) | [80s Blues](https://open.spotify.com/album/1f1p5nDSrG561cljILaAdJ) | 4:53 | 2018-02-27 |  |
 | [Mojo Boogie \- Remastered](https://open.spotify.com/track/6VbxpZ55Xv2L1CVKIO7Bul) | [Johnny Winter](https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO) | [3rd Degree \(Remastered\)](https://open.spotify.com/album/1RcjOFCn7PDU8GZB97odnZ) | 4:53 | 2018-02-27 | 2022-11-11 |
-| [My Texas Home](https://open.spotify.com/track/16UV31f3UunkFqMOsIMU5n) | [W.C\. Clark](https://open.spotify.com/artist/2eJojpx2Dv1QL3WBjJQXWi) | [Deep In The Heart](https://open.spotify.com/album/5uQXDTWnEd0roTdrSUN1ba) | 4:53 | 2016-03-18 |  |
+| [My Texas Home](https://open.spotify.com/track/16UV31f3UunkFqMOsIMU5n) | [W.C\. Clark](https://open.spotify.com/artist/2eJojpx2Dv1QL3WBjJQXWi) | [Deep In The Heart](https://open.spotify.com/album/5uQXDTWnEd0roTdrSUN1ba) | 4:53 | 2016-03-18 | 2022-11-12 |
 | [My Texas Home](https://open.spotify.com/track/78smBCdkaExMyjg81o3qh5) | [W.C\. Clark](https://open.spotify.com/artist/2eJojpx2Dv1QL3WBjJQXWi) | [Deep In The Heart](https://open.spotify.com/album/4xZ46S0lPn8bNRRRpkRvD2) | 4:53 | 2016-03-18 | 2022-07-29 |
+| [My Texas Home](https://open.spotify.com/track/1pARa4gGAMHICEoIXGQvUy) | [W.C\. Clark](https://open.spotify.com/artist/2eJojpx2Dv1QL3WBjJQXWi), [Clark](https://open.spotify.com/artist/12RE9Kwhju0Tkhv4PXpiMV) | [United States of Blues](https://open.spotify.com/album/7CiLBwUPxLhzdlmy2VgHH1) | 4:53 | 2016-03-18 |  |
 | [My Way Down](https://open.spotify.com/track/2VZYQKBRyGQdVMrzUhRf7J) | [Chris Duarte Group](https://open.spotify.com/artist/4kA3u3oThWqVYQhT47dGyW) | [Texas Sugar Strat Magik](https://open.spotify.com/album/6nsMGqPX8iHHB7FN8XaO6p) | 4:36 | 2016-03-18 |  |
 | [Palace Of The King](https://open.spotify.com/track/2T6pMaivfX7w4tfAUX4uU9) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Getting Ready..\. \(World\)](https://open.spotify.com/album/2bNjljctm6ynfp9Xzdy7RI) | 3:40 | 2018-02-27 |  |
 | [Part Time Love](https://open.spotify.com/track/3ZH4DOwTuTyLciokW7bPSe) | [Texas Bluesmen](https://open.spotify.com/artist/0zxAYpfMkRAisf8HCOWzY1), [Robert Ealey](https://open.spotify.com/artist/1LUaCz87zXDOg9abUxidOd) | [Texas Bluesmen](https://open.spotify.com/album/45O218hUcFN5yPA9rnOj7m) | 6:25 | 2018-02-27 |  |

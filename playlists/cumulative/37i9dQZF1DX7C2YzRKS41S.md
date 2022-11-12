@@ -4,7 +4,7 @@
 
 > Um pouco de folk, MPB e indie para acordar com o pé na estrada.
 
-379 songs - 22 hr 30 min - [published](https://open.spotify.com/playlist/4PN19Rocw5jhy931gtx7Hy)
+380 songs - 22 hr 34 min - [published](https://open.spotify.com/playlist/4PN19Rocw5jhy931gtx7Hy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Admirável Estranho](https://open.spotify.com/track/1gvJoEoO0537OnQ0Pi9V47) | [Suricato](https://open.spotify.com/artist/35j8oMehl8Q9mLnVmkVqMC) | [Na Mão As Flores](https://open.spotify.com/album/6VUhYU4mtkZ4mmK60vIGqF) | 2:59 | 2021-12-24 | 2022-07-14 |
 | [Afterglow](https://open.spotify.com/track/0E4Y1XIbs8GrAT1YqVy6dq) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Afterglow](https://open.spotify.com/album/5bb2Sf8jps2DTyI2urMThV) | 3:05 | 2022-04-06 |  |
 | [Agora](https://open.spotify.com/track/13pdoJpFdZPE5chzicyq8z) | [Miranda](https://open.spotify.com/artist/5a5Q7UmYrVvAtVtantMthJ) | [Agora](https://open.spotify.com/album/1zuvCawadarsr6yWHuNssj) | 3:07 | 2021-12-24 | 2022-07-20 |
-| [Ai de Mim](https://open.spotify.com/track/5df99H7yd4phkyAR9feLdf) | [OUTROEU](https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo), [Sandy](https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8) | [OutroEu](https://open.spotify.com/album/0TkXnCE4W4ePll9mXmjhP4) | 4:18 | 2021-12-24 | 2022-07-29 |
+| [Ai de Mim](https://open.spotify.com/track/5df99H7yd4phkyAR9feLdf) | [OUTROEU](https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo), [Sandy](https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8) | [OutroEu](https://open.spotify.com/album/0TkXnCE4W4ePll9mXmjhP4) | 4:18 | 2021-12-24 |  |
 | [Ai que Saudade D'Ocê \- Sessions](https://open.spotify.com/track/3jLkEBt841U8Nbca03XD0q) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [Mariana Nolasco Sessions 2](https://open.spotify.com/album/5hOl5QyQ3r0Y9DQDoVfszF) | 2:18 | 2021-12-24 |  |
 | [All Fall Down](https://open.spotify.com/track/2vl3iQZmJZ2Ztz3USIUHCH) | [Travis](https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh) | [All Fall Down](https://open.spotify.com/album/0p6mdiaKAjYCS3uX4VL1rT) | 3:27 | 2022-04-06 | 2022-04-18 |
 | [All Three](https://open.spotify.com/track/338xF3140zGWoVFE6pFYcj) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [All Three](https://open.spotify.com/album/2qSdDTBtNp4vT3x8yjE9Jw) | 3:02 | 2022-03-25 | 2022-04-15 |
@@ -57,6 +57,7 @@
 | [Birch](https://open.spotify.com/track/7wo2UNeQBowm28hfAJsEMz) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [How Long Do You Think It's Gonna Last?](https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T) | 5:30 | 2022-04-06 |  |
 | [Bloodstream](https://open.spotify.com/track/5v4sZRuvWDcisoOk1PFv6T) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Deluxe Edition\)](https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd) | 5:00 | 2022-04-06 |  |
 | [Blue Moon](https://open.spotify.com/track/2uWwCU5X1TjJiiN6BbUaB8) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Morning Phase](https://open.spotify.com/album/3BBFUxPg8KFmAv96SmY4ok) | 4:02 | 2022-03-25 | 2022-04-15 |
+| [Blue Moon](https://open.spotify.com/track/4gNErDjikE9QUQvkkqoB1S) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Morning Phase](https://open.spotify.com/album/2Qx7dgA5VjX8JDQaXVxzHu) | 4:02 | 2022-10-14 |  |
 | [Bones](https://open.spotify.com/track/4Twrw5ITmINc8akSEe979c) | [Feliz](https://open.spotify.com/artist/3Kgb1mPd8ZiYrCKqLw6Wvh) | [Dreams and Airplanes](https://open.spotify.com/album/6Ad3RaB9WT6U6W81lWM21g) | 3:05 | 2021-12-24 | 2022-06-25 |
 | [Brigadeiro](https://open.spotify.com/track/7gyyV6gDCX2ORt8jCcTlvi) | [Mira](https://open.spotify.com/artist/66c0QYupOFnMOiTXzHQbcH) | [Brigadeiro](https://open.spotify.com/album/4A1hlTcYv5LdjJ13ctr8Gl) | 3:14 | 2021-12-24 | 2022-04-10 |
 | [Budapest](https://open.spotify.com/track/48gsLPdOUEDjr7P8Wvykne) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Did You Hear the Rain?](https://open.spotify.com/album/17a7gzqcZt6SjXRQVoXN6M) | 3:22 | 2022-03-25 | 2022-04-20 |
@@ -198,7 +199,7 @@
 | [Make Sure Your Head Is Above](https://open.spotify.com/track/3GZdRjRdYu3BLWQNXWwoqz) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn) | [Apká!](https://open.spotify.com/album/2SWt1KSJ7rJ2XkWHlrZL1s) | 3:18 | 2022-03-25 | 2022-04-16 |
 | [Male Fantasy](https://open.spotify.com/track/13lUUFsU6GMvRDN432qKxX) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/5tzRuO6GP7WRvP3rEOPAO9) | 3:14 | 2022-03-25 |  |
 | [Malibu](https://open.spotify.com/track/2habSXqcJGExM6JJyskY7O) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Malibu](https://open.spotify.com/album/7CUczABBlsbd5fqng9mjxo) | 3:51 | 2022-03-25 | 2022-04-09 |
-| [Malibu](https://open.spotify.com/track/1UZOjK1BwmwWU14Erba9CZ) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Younger Now](https://open.spotify.com/album/5xG9gJcs9ut3qDWezHUlsX) | 3:51 | 2022-07-04 |  |
+| [Malibu](https://open.spotify.com/track/1UZOjK1BwmwWU14Erba9CZ) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Younger Now](https://open.spotify.com/album/5xG9gJcs9ut3qDWezHUlsX) | 3:51 | 2022-07-04 | 2022-11-12 |
 | [Man on Fire](https://open.spotify.com/track/5IxaywIlITiuADtbdZBiYh) | [Edward Sharpe & The Magnetic Zeros](https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh) | [Spark: A Burning Man Story \- Day + Night \(Music from & Inspired by Film\)](https://open.spotify.com/album/20DI9D0tdCU6AQDI88fOl0) | 4:16 | 2022-03-25 | 2022-04-18 |
 | [Man On Fire](https://open.spotify.com/track/6Kn5yzAyOw3jf4Y5a6d1Oq) | [Edward Sharpe & The Magnetic Zeros](https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh) | [Here](https://open.spotify.com/album/7n5oHXSwnbGWrFTg9xLhhN) | 4:19 | 2022-07-04 |  |
 | [Mantra](https://open.spotify.com/track/5DYfPDg2pEUv7UKZ2knpAW) | [Luneta](https://open.spotify.com/artist/5DdzWBQBtw2JdugsZthXcO) | [Deságua](https://open.spotify.com/album/4XYJSyQ7zCy1cg4wwcRRn1) | 3:02 | 2022-01-21 | 2022-07-17 |
@@ -218,7 +219,7 @@
 | [nada vale o preço](https://open.spotify.com/track/7DUbJL6jtQBCoCPm0hyQQk) | [Bryan Behr](https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF) | [nada vale o preço](https://open.spotify.com/album/0dAqZacB6swpyjHkBbqnwG) | 4:36 | 2021-12-24 | 2022-07-29 |
 | [Negro Amor \(It's All Over Now, Baby Clue\)](https://open.spotify.com/track/30MATOeQEoIfStCYtqKg0T) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Negro Amor \(It's All Over Now, Baby Clue\)](https://open.spotify.com/album/2ld6L7n11bXJYsjHgBDOgr) | 4:06 | 2021-12-24 | 2022-04-07 |
 | [Never Ending](https://open.spotify.com/track/4XtkmPQ2d3wRhqQvTXyLfs) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI](https://open.spotify.com/album/2hNdpum500dG6mDXs87nbc) | 3:22 | 2022-03-25 | 2022-04-17 |
-| [Never Ending](https://open.spotify.com/track/7Jd5LgnSRQElW6FsTWVPzE) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:22 | 2022-07-04 |  |
+| [Never Ending](https://open.spotify.com/track/7Jd5LgnSRQElW6FsTWVPzE) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:22 | 2022-07-04 | 2022-11-12 |
 | [Nina](https://open.spotify.com/track/1tN3ZjFP7UP2fIn6J5X8Wr) | [João Klein](https://open.spotify.com/artist/0qHyRq7Ac4v4AXjvez82E1) | [Nina](https://open.spotify.com/album/5yMg3IBEgIsw46eEBY4A3p) | 3:53 | 2021-12-24 | 2022-07-12 |
 | [Nina](https://open.spotify.com/track/5dvOuECtrzMg5oo4vInk4X) | [Wado](https://open.spotify.com/artist/3rnWuDRQyfIuj7CdrCWLMo), [Lucas Santtana](https://open.spotify.com/artist/67muZL7DIwZwLnH9BFfI5Z) | [Nina](https://open.spotify.com/album/7fR1Yd1ngdt7H4xQeCrHYn) | 2:45 | 2022-03-25 | 2022-06-24 |
 | [no body, no crime \(feat\. HAIM\)](https://open.spotify.com/track/3RaT22zZsxVYxxKR7TAaYF) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [evermore](https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq) | 3:35 | 2022-03-25 |  |

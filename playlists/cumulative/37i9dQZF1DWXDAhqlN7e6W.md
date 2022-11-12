@@ -4,7 +4,7 @@
 
 > Hits written and produced by Max Martin.
 
-165 songs - 10 hr 0 min - [published](https://open.spotify.com/playlist/493jwAVjZmRSYFyYQPpsaC)
+168 songs - 10 hr 12 min - [published](https://open.spotify.com/playlist/493jwAVjZmRSYFyYQPpsaC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [Beauty And A Beat](https://open.spotify.com/track/2Bm7Jbgz2DnB3ceQJ486yg) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Happy Day](https://open.spotify.com/album/2dYikiz6hWTOlbIsQot6Vr) | 3:48 | 2022-07-20 |  |
 | [Behind These Hazel Eyes](https://open.spotify.com/track/0AKAxdNkwq9ZxRdW1DN9zW) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Breakaway](https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq) | 3:18 | 2022-01-10 |  |
 | [Birthday](https://open.spotify.com/track/2xLOMHjkOK8nzxJ4r6yOKR) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM \(Deluxe\)](https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn) | 3:35 | 2022-01-10 |  |
-| [Blank Space](https://open.spotify.com/track/1p80LdxRV74UKvL8gnD7ky) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989](https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j) | 3:51 | 2022-07-20 |  |
+| [Blank Space](https://open.spotify.com/track/1p80LdxRV74UKvL8gnD7ky) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989](https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j) | 3:51 | 2022-07-20 | 2022-11-12 |
+| [Blank Space](https://open.spotify.com/track/3LB2qckfpZq7aybaoZKRa2) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Gameday Country](https://open.spotify.com/album/3v4prjENcAzBWYOf8FnzQT) | 3:51 | 2022-07-20 |  |
 | [Blank Space](https://open.spotify.com/track/580t2NTEMOuCHV1sN3uhyD) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989](https://open.spotify.com/album/6w36pmMA5bxECalu5rxQAw) | 3:51 | 2018-06-21 | 2022-07-29 |
 | [Blinding Lights](https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:20 | 2022-01-10 |  |
 | [Blow](https://open.spotify.com/track/3pYDZTJM2tVBUhIRifWVzI) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Cannibal \(Expanded Edition\)](https://open.spotify.com/album/0pGumY11G8OGH05ti6jh23) | 3:39 | 2022-01-10 |  |
@@ -61,7 +62,8 @@
 | [Dark Horse](https://open.spotify.com/track/4kgsK0fftHtg9gZOzkU5T2) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [PRISM \(Deluxe\)](https://open.spotify.com/album/4lFDt4sVpCni9DRHRmDjgG) | 3:35 | 2018-06-21 | 2022-07-29 |
 | [Delicate](https://open.spotify.com/track/6NFyWDv5CjfwuzoCkw47Xf) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [reputation](https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv) | 3:52 | 2022-01-10 |  |
 | [DJ Got Us Fallin' In Love \(feat\. Pitbull\)](https://open.spotify.com/track/4356Typ82hUiFAynbLYbPn) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Raymond v Raymond \(Expanded Edition\)](https://open.spotify.com/album/6A1F3Fkq5dYeYYNkXflcTX) | 3:40 | 2018-06-21 |  |
-| [Domino](https://open.spotify.com/track/6MAdEUilV2p9RQUqE5bMAK) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Who You Are \(Platinum Edition\)](https://open.spotify.com/album/3ga4adzUpLaS2LDcoqfs2r) | 3:51 | 2022-07-20 |  |
+| [Domino](https://open.spotify.com/track/5P7doOWGZOnz0tFvlQwcNA) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Pop Royalty](https://open.spotify.com/album/15WQObBzFWbMEeoUjSjHYl) | 3:51 | 2022-07-20 |  |
+| [Domino](https://open.spotify.com/track/6MAdEUilV2p9RQUqE5bMAK) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Who You Are \(Platinum Edition\)](https://open.spotify.com/album/3ga4adzUpLaS2LDcoqfs2r) | 3:51 | 2022-07-20 | 2022-11-12 |
 | [Domino](https://open.spotify.com/track/2fQxE0jVrjNMT9oJAXtSJR) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Who You Are \(Platinum Edition\)](https://open.spotify.com/album/0BZbTNqpXFg6lxNv78X7Lp) | 3:51 | 2018-06-21 | 2022-07-29 |
 | [Dynamite](https://open.spotify.com/track/2CEgGE6aESpnmtfiZwYlbV) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [The Rokstarr Hits Collection](https://open.spotify.com/album/0eGvq1J5Ke7VlLLOYIlY4k) | 3:22 | 2018-06-21 |  |
 | [E.T.](https://open.spotify.com/track/4kkeuVl6gF3RMqE4Nn5W3E) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1) | 3:26 | 2022-01-10 |  |
@@ -147,7 +149,8 @@
 | [Take My Breath](https://open.spotify.com/track/2vgUijXOTRMnWXDtvgMp2b) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 5:39 | 2022-06-22 |  |
 | [Teenage Dream](https://open.spotify.com/track/5jzKL4BDMClWqRguW5qZvh) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1) | 3:47 | 2022-01-10 |  |
 | [That's the Way It Is](https://open.spotify.com/track/1iMoeYXQyq2yaUh10NmeNE) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [The Very Best of Celine Dion](https://open.spotify.com/album/56esyMKCe5skVPB2WHjj0W) | 4:01 | 2018-06-21 | 2022-07-29 |
-| [That's the Way It Is](https://open.spotify.com/track/5s4catxeZsaWFnOrvrXZHf) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [The Very Best of Celine Dion](https://open.spotify.com/album/51DfHvunyUysUZoBJEwbF8) | 4:01 | 2022-07-20 |  |
+| [That's the Way It Is](https://open.spotify.com/track/5s4catxeZsaWFnOrvrXZHf) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [The Very Best of Celine Dion](https://open.spotify.com/album/51DfHvunyUysUZoBJEwbF8) | 4:01 | 2022-07-20 | 2022-11-12 |
+| [That's the Way It Is](https://open.spotify.com/track/7a1aqeZM7JCXAMDMZxyr19) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [All the Way...A Decade of Song](https://open.spotify.com/album/2ksJEvjT4ezhBeg6b5Irrx) | 4:01 | 2022-07-20 |  |
 | [The Call](https://open.spotify.com/track/1mxTCArq9EhSg4QPGqhjhT) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Black & Blue](https://open.spotify.com/album/41zXjyVr6dzmchWf8tv3UO) | 3:24 | 2022-01-10 |  |
 | [This Is How We Do](https://open.spotify.com/track/4DBkrkVzx7jxxIjxI6FYvz) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM \(Deluxe\)](https://open.spotify.com/album/4lFDt4sVpCni9DRHRmDjgG) | 3:24 | 2022-01-10 | 2022-07-21 |
 | [Till the World Ends](https://open.spotify.com/track/38iU2jg98IZZEIJPrP7aWD) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Femme Fatale \(Deluxe Version\)](https://open.spotify.com/album/0oFBaXLFsUVa2gEmJf4FcJ) | 3:57 | 2022-01-10 |  |

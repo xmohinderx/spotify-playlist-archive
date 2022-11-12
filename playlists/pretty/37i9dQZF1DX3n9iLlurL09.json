@@ -1,12 +1,12 @@
 {
   "description": "2012 highlights from the home of indie music.",
-  "num_followers": 54094,
+  "num_followers": 54189,
   "original_name": "Best of Indie 2012",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTAzMjcwMCwwMDAwMDAwMGMxMWU3YzJmNTQyMjlhM2U0M2YxZjFkYzRkZWVmYzMy",
+  "snapshot_id": "MTY2NTAzMjcwMCwwMDAwMDAwMDg0ZWE3YmE4ZDFkYjcwMmZjODZmYjdjODE5YzRjOGVm",
   "tracks": [
     {
       "added_at": "2022-05-19 08:11:23",
@@ -235,18 +235,18 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Loma Vista",
-        "url": "https://open.spotify.com/album/7MbjiPSVdi2TbYALX4gneg"
+        "name": "(III)",
+        "url": "https://open.spotify.com/album/1NIfkZIYVAO6vnfmFOilHc"
       },
       "artists": [
         {
-          "name": "Family of the Year",
-          "url": "https://open.spotify.com/artist/7zsin6IgVsR1rqSRCNYDwq"
+          "name": "Crystal Castles",
+          "url": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
         }
       ],
-      "duration_ms": 190280,
-      "name": "Hero",
-      "url": "https://open.spotify.com/track/1B10XgaxSXRLAFq967oMpF"
+      "duration_ms": 192000,
+      "name": "Kerosene",
+      "url": "https://open.spotify.com/track/6E1YebXpPPtujMUljDNlOo"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -283,22 +283,6 @@
       "duration_ms": 304760,
       "name": "Super Rich Kids",
       "url": "https://open.spotify.com/track/0725YWm6Z0TpZ6wrNk64Eb"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
-        "name": "(III)",
-        "url": "https://open.spotify.com/album/1NIfkZIYVAO6vnfmFOilHc"
-      },
-      "artists": [
-        {
-          "name": "Crystal Castles",
-          "url": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Kerosene",
-      "url": "https://open.spotify.com/track/6E1YebXpPPtujMUljDNlOo"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -383,6 +367,22 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
+        "name": "Babel (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3FfuUD3Je9t9tQq80Zq41y"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 276720,
+      "name": "I Will Wait",
+      "url": "https://open.spotify.com/track/1fXiYSWmkKJfRKMegCkI11"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
         "name": "channel ORANGE",
         "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
       },
@@ -399,22 +399,6 @@
       "duration_ms": 268813,
       "name": "Pink Matter",
       "url": "https://open.spotify.com/track/1fOkmYW3ZFkkjIdOZSf596"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
-        "name": "Babel (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3FfuUD3Je9t9tQq80Zq41y"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 276720,
-      "name": "I Will Wait",
-      "url": "https://open.spotify.com/track/1fXiYSWmkKJfRKMegCkI11"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -467,22 +451,6 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/02PXepuNHYKvGnXYy03oCp"
-      },
-      "artists": [
-        {
-          "name": "Beach House",
-          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
-        }
-      ],
-      "duration_ms": 258653,
-      "name": "Myth",
-      "url": "https://open.spotify.com/track/2NfxtzCIrpCmJX5Z2KMdD5"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
         "name": "Lonerism",
         "url": "https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7"
       },
@@ -531,22 +499,6 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "channel ORANGE",
-        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "duration_ms": 194840,
-      "name": "Forrest Gump",
-      "url": "https://open.spotify.com/track/4YZbVct8l9MnAVIROnLQdx"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
         "name": "Woman",
         "url": "https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9"
       },
@@ -575,6 +527,22 @@
       "duration_ms": 211453,
       "name": "Mountain Sound",
       "url": "https://open.spotify.com/track/3SPVZJzf1Hs30rB6yXVf2y"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
+        "name": "channel ORANGE",
+        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 194840,
+      "name": "Forrest Gump",
+      "url": "https://open.spotify.com/track/4YZbVct8l9MnAVIROnLQdx"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -675,6 +643,22 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
+        "name": "Born To Die \u2013 Paradise Edition (Special Version)",
+        "url": "https://open.spotify.com/album/0Dt3FbpMQwjoT5KNAw0IXR"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 286253,
+      "name": "Born To Die",
+      "url": "https://open.spotify.com/track/5wEreUfwxZxWnEol61ulIi"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
         "name": "Summer's Gone",
         "url": "https://open.spotify.com/album/0ebTxbNe07spVPn7uxKOb1"
       },
@@ -719,22 +703,6 @@
       "duration_ms": 219400,
       "name": "Fitzpleasure",
       "url": "https://open.spotify.com/track/7DdXf9x75iEVCHWfoRwRuR"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
-        "name": "Born To Die \u2013 Paradise Edition (Special Version)",
-        "url": "https://open.spotify.com/album/0Dt3FbpMQwjoT5KNAw0IXR"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 286253,
-      "name": "Born To Die",
-      "url": "https://open.spotify.com/track/5wEreUfwxZxWnEol61ulIi"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -835,38 +803,6 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "shrines",
-        "url": "https://open.spotify.com/album/7nuxFL8lYQTIlpEEPEMpN8"
-      },
-      "artists": [
-        {
-          "name": "Purity Ring",
-          "url": "https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4"
-        }
-      ],
-      "duration_ms": 209760,
-      "name": "fineshrine",
-      "url": "https://open.spotify.com/track/5aJmSzmuhLI6fr1Rm0EnkS"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
-        "name": "Allah-Las",
-        "url": "https://open.spotify.com/album/38lCUdjREYv0ugODkoBif0"
-      },
-      "artists": [
-        {
-          "name": "Allah-Las",
-          "url": "https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp"
-        }
-      ],
-      "duration_ms": 212986,
-      "name": "Catamaran",
-      "url": "https://open.spotify.com/track/4H0KLsPpr5atperrHGfz3x"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
         "name": "An Awesome Wave",
         "url": "https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL"
       },
@@ -879,6 +815,22 @@
       "duration_ms": 181400,
       "name": "Tessellate",
       "url": "https://open.spotify.com/track/1o22EcqsCANhwYdaNOSdwS"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
+        "name": "shrines",
+        "url": "https://open.spotify.com/album/7nuxFL8lYQTIlpEEPEMpN8"
+      },
+      "artists": [
+        {
+          "name": "Purity Ring",
+          "url": "https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4"
+        }
+      ],
+      "duration_ms": 209760,
+      "name": "fineshrine",
+      "url": "https://open.spotify.com/track/5aJmSzmuhLI6fr1Rm0EnkS"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -899,22 +851,18 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Mature Themes",
-        "url": "https://open.spotify.com/album/08RdKFNm8Cu86FSzlhoAoh"
+        "name": "Allah-Las",
+        "url": "https://open.spotify.com/album/38lCUdjREYv0ugODkoBif0"
       },
       "artists": [
         {
-          "name": "Ariel Pink",
-          "url": "https://open.spotify.com/artist/5H0YoDsPDi9fObFmJtTjfN"
-        },
-        {
-          "name": "D\u0101M-FunK",
-          "url": "https://open.spotify.com/artist/1AEcpjnSCmm53IBZQo3g9z"
+          "name": "Allah-Las",
+          "url": "https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp"
         }
       ],
-      "duration_ms": 287426,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/1e4kwCOOIv8OHBHSd3avgQ"
+      "duration_ms": 212986,
+      "name": "Catamaran",
+      "url": "https://open.spotify.com/track/4H0KLsPpr5atperrHGfz3x"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -931,6 +879,26 @@
       "duration_ms": 247506,
       "name": "We Come Running",
       "url": "https://open.spotify.com/track/0eehHRQY2nlimtLjCI9xRf"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
+        "name": "Mature Themes",
+        "url": "https://open.spotify.com/album/08RdKFNm8Cu86FSzlhoAoh"
+      },
+      "artists": [
+        {
+          "name": "Ariel Pink",
+          "url": "https://open.spotify.com/artist/5H0YoDsPDi9fObFmJtTjfN"
+        },
+        {
+          "name": "D\u0101M-FunK",
+          "url": "https://open.spotify.com/artist/1AEcpjnSCmm53IBZQo3g9z"
+        }
+      ],
+      "duration_ms": 287426,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/1e4kwCOOIv8OHBHSd3avgQ"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -1003,22 +971,6 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Sixteen Saltines",
-        "url": "https://open.spotify.com/album/0lPeJhxMC3gIYOv9lmdV6V"
-      },
-      "artists": [
-        {
-          "name": "Jack White",
-          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
-        }
-      ],
-      "duration_ms": 198613,
-      "name": "Love Is Blindness",
-      "url": "https://open.spotify.com/track/1kBM7AURqQTIXFePNVpEwP"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
         "name": "Coexist",
         "url": "https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW"
       },
@@ -1031,6 +983,22 @@
       "duration_ms": 218586,
       "name": "Sunset",
       "url": "https://open.spotify.com/track/76G5L5EC20PrZkH1vvT0s2"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
+        "name": "Sixteen Saltines",
+        "url": "https://open.spotify.com/album/0lPeJhxMC3gIYOv9lmdV6V"
+      },
+      "artists": [
+        {
+          "name": "Jack White",
+          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
+        }
+      ],
+      "duration_ms": 198613,
+      "name": "Love Is Blindness",
+      "url": "https://open.spotify.com/track/1kBM7AURqQTIXFePNVpEwP"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -1067,18 +1035,18 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Arrow",
-        "url": "https://open.spotify.com/album/4g4iUbyDPTz3wCy25Tvivk"
+        "name": "An Awesome Wave",
+        "url": "https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL"
       },
       "artists": [
         {
-          "name": "Heartless Bastards",
-          "url": "https://open.spotify.com/artist/2wwMTLM2da1sa2JcJslf8W"
+          "name": "alt-J",
+          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
         }
       ],
-      "duration_ms": 308066,
-      "name": "Only For You",
-      "url": "https://open.spotify.com/track/17ZnveSDBpG9QtL7zLJNPy"
+      "duration_ms": 314986,
+      "name": "Taro",
+      "url": "https://open.spotify.com/track/4tmwiN9YU7xMjh2hoqcVuI"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -1135,18 +1103,18 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "An Awesome Wave",
-        "url": "https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL"
+        "name": "Coexist",
+        "url": "https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW"
       },
       "artists": [
         {
-          "name": "alt-J",
-          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
+          "name": "The xx",
+          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
         }
       ],
-      "duration_ms": 314986,
-      "name": "Taro",
-      "url": "https://open.spotify.com/track/4tmwiN9YU7xMjh2hoqcVuI"
+      "duration_ms": 176480,
+      "name": "Fiction",
+      "url": "https://open.spotify.com/track/40Gp0YR5kj8vT7Z55YzTFM"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -1163,22 +1131,6 @@
       "duration_ms": 318423,
       "name": "Yet Again",
       "url": "https://open.spotify.com/track/202QyrB6Q3Kimsr7KqJut3"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
-        "name": "Coexist",
-        "url": "https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW"
-      },
-      "artists": [
-        {
-          "name": "The xx",
-          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
-        }
-      ],
-      "duration_ms": 176480,
-      "name": "Fiction",
-      "url": "https://open.spotify.com/track/40Gp0YR5kj8vT7Z55YzTFM"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -1283,6 +1235,22 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
+        "name": "Colour Of The Trap",
+        "url": "https://open.spotify.com/album/671vYDTGlzYQfsibwLHxNB"
+      },
+      "artists": [
+        {
+          "name": "Miles Kane",
+          "url": "https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn"
+        }
+      ],
+      "duration_ms": 209106,
+      "name": "Rearrange",
+      "url": "https://open.spotify.com/track/6f4V3llGPLYgv49ro7vXSE"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
         "name": "II",
         "url": "https://open.spotify.com/album/1RHlOUoinOK5WZconLM6lp"
       },
@@ -1307,38 +1275,6 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Colour Of The Trap",
-        "url": "https://open.spotify.com/album/671vYDTGlzYQfsibwLHxNB"
-      },
-      "artists": [
-        {
-          "name": "Miles Kane",
-          "url": "https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn"
-        }
-      ],
-      "duration_ms": 209106,
-      "name": "Rearrange",
-      "url": "https://open.spotify.com/track/6f4V3llGPLYgv49ro7vXSE"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
-        "name": "The Idler Wheel Is Wiser Than the Driver of the Screw and Whipping Cords Will Serve You More Than Ropes Will Ever Do (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6B5favhKTShFTjRLsKIUfa"
-      },
-      "artists": [
-        {
-          "name": "Fiona Apple",
-          "url": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
-        }
-      ],
-      "duration_ms": 209386,
-      "name": "Every Single Night",
-      "url": "https://open.spotify.com/track/6HPZo9krwjbhMGKbqVkkDQ"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
         "name": "Coexist",
         "url": "https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW"
       },
@@ -1355,18 +1291,18 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "shrines",
-        "url": "https://open.spotify.com/album/7nuxFL8lYQTIlpEEPEMpN8"
+        "name": "The Idler Wheel Is Wiser Than the Driver of the Screw and Whipping Cords Will Serve You More Than Ropes Will Ever Do (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6B5favhKTShFTjRLsKIUfa"
       },
       "artists": [
         {
-          "name": "Purity Ring",
-          "url": "https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4"
+          "name": "Fiona Apple",
+          "url": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
         }
       ],
-      "duration_ms": 209573,
-      "name": "obedear",
-      "url": "https://open.spotify.com/track/2apc40z2R0wwOwLdrQ79NH"
+      "duration_ms": 209386,
+      "name": "Every Single Night",
+      "url": "https://open.spotify.com/track/6HPZo9krwjbhMGKbqVkkDQ"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -1403,26 +1339,6 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Flume: Deluxe Edition",
-        "url": "https://open.spotify.com/album/1yc3Ldus5BkJBVX9mSFMt4"
-      },
-      "artists": [
-        {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
-        },
-        {
-          "name": "T-Shirt",
-          "url": "https://open.spotify.com/artist/09v1n02OCBEntKxrSTw1L1"
-        }
-      ],
-      "duration_ms": 231106,
-      "name": "On Top",
-      "url": "https://open.spotify.com/track/1iLH4eIX2JISmOqLQb9hDQ"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
         "name": "Fear Fun",
         "url": "https://open.spotify.com/album/2CXVonfqGwTQu8dgr2qkNS"
       },
@@ -1451,6 +1367,42 @@
       "duration_ms": 204226,
       "name": "Gimme Twice",
       "url": "https://open.spotify.com/track/3DUBhiM44zetJNERX0n8Nk"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
+        "name": "shrines",
+        "url": "https://open.spotify.com/album/7nuxFL8lYQTIlpEEPEMpN8"
+      },
+      "artists": [
+        {
+          "name": "Purity Ring",
+          "url": "https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4"
+        }
+      ],
+      "duration_ms": 209573,
+      "name": "obedear",
+      "url": "https://open.spotify.com/track/2apc40z2R0wwOwLdrQ79NH"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
+        "name": "Flume: Deluxe Edition",
+        "url": "https://open.spotify.com/album/1yc3Ldus5BkJBVX9mSFMt4"
+      },
+      "artists": [
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        {
+          "name": "T-Shirt",
+          "url": "https://open.spotify.com/artist/09v1n02OCBEntKxrSTw1L1"
+        }
+      ],
+      "duration_ms": 231106,
+      "name": "On Top",
+      "url": "https://open.spotify.com/track/1iLH4eIX2JISmOqLQb9hDQ"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -1551,6 +1503,22 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
+        "name": "CT5 Sampler: Five Years of Captured Tracks",
+        "url": "https://open.spotify.com/album/47z9jovjlgnW9FEr3yKGbO"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "duration_ms": 190845,
+      "name": "My Kind of Woman",
+      "url": "https://open.spotify.com/track/1uZygTnWeieNfd1KcPJszP"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
         "name": "Secondhand Rapture",
         "url": "https://open.spotify.com/album/3OzeRt6qBaj92n9yjiZBPt"
       },
@@ -1583,18 +1551,18 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Beacon",
-        "url": "https://open.spotify.com/album/6Vl6axAAimJLEvRu7pOsuv"
+        "name": "The Lumineers (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/31rem78oWvclOVx1KXBAuq"
       },
       "artists": [
         {
-          "name": "Two Door Cinema Club",
-          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
         }
       ],
-      "duration_ms": 251453,
-      "name": "Next Year",
-      "url": "https://open.spotify.com/track/04Lfe4r35E38e6D0FlJKfn"
+      "duration_ms": 110560,
+      "name": "Flowers in Your Hair",
+      "url": "https://open.spotify.com/track/0Qi29hMhf8tIzDpa2BH9MV"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -1643,6 +1611,38 @@
       "duration_ms": 230293,
       "name": "Don't Save Me",
       "url": "https://open.spotify.com/track/6Je5Vjd8VXVpQYcOiav5KU"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
+        "name": "Mondo",
+        "url": "https://open.spotify.com/album/6AbrLabiBsj3yzk5H2g1al"
+      },
+      "artists": [
+        {
+          "name": "Electric Guest",
+          "url": "https://open.spotify.com/artist/7sgWBYtJpblXpJl2lU5WVs"
+        }
+      ],
+      "duration_ms": 300866,
+      "name": "Awake",
+      "url": "https://open.spotify.com/track/2QoC2SAaXpLrpVNCGJnrgd"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
+        "name": "Teen Spirit (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3lzC2zRQZM0EVP6Zjtc0Cq"
+      },
+      "artists": [
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "duration_ms": 257586,
+      "name": "Genesis",
+      "url": "https://open.spotify.com/track/10JhPJDw9Lezn3P4Mvq65z"
     }
   ],
   "unique_name": "Best of Indie 2012",

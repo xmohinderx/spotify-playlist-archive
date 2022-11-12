@@ -4,7 +4,7 @@
 
 > The perfect mix of the biggest <a href="https://www.instagram.com/sonymusiclatin/">Sony Music Latin</a> hits! Follow this playlist for hot new updates\. Cover: Rauleeto
 
-332 songs - 18 hr 12 min - [published](https://open.spotify.com/playlist/0lGBO3myxqxYAzrucuf31y)
+335 songs - 18 hr 21 min - [published](https://open.spotify.com/playlist/0lGBO3myxqxYAzrucuf31y)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Flores](https://open.spotify.com/track/6aNgqSTPML2B5XsohIiL7D) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [K23](https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6) | 2:16 | 2022-10-31 |  |
 | [Foto de Perfil](https://open.spotify.com/track/39IkVWszvdXMPozlCYi0yX) | [Los Rivera Destino](https://open.spotify.com/artist/7LQaY9LGXHzoJY8DvwpSid), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [BESITOS Y BESITAS](https://open.spotify.com/album/77CfbYt3OGzTxk7bCugAS5) | 3:43 | 2022-04-18 |  |
 | [FULANITO](https://open.spotify.com/track/59L8x0xy8njj75vzVCPMqg) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [FULANITO](https://open.spotify.com/album/5AVKorAwqFCfUiPkNwv89o) | 2:38 | 2022-02-02 |  |
+| [Fumo Weed](https://open.spotify.com/track/7aq3DaRLjfjmz0yhtHvian) | [Neeus](https://open.spotify.com/artist/4OMnvxQdSJeobzinrEjTpO) | [Fumo Weed](https://open.spotify.com/album/1kmhu1HJpoJeHBVHWay4OW) | 2:28 | 2022-11-11 |  |
 | [G Wagon](https://open.spotify.com/track/008aqmngiiKe5jrPSNyV6n) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [G Wagon](https://open.spotify.com/album/7CSrNfB7tAWOMcvqv8r3rq) | 3:29 | 2022-03-10 |  |
 | [Gato de Madrugada](https://open.spotify.com/track/4rhPhB61ylNbpiZReZbK9q) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [Gato de Madrugada](https://open.spotify.com/album/70HmvEK5xlSxwVlyHNY4Y0) | 4:04 | 2022-03-25 |  |
 | [Girasol](https://open.spotify.com/track/1EAzCHtS45JvyXNSposHCY) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Girasol](https://open.spotify.com/album/0HUYIjnn7ttam9r0AUHDmq) | 5:41 | 2022-06-06 |  |
@@ -262,6 +263,7 @@
 | [Risueña](https://open.spotify.com/track/277ia0CBOO47RhG7XSLj4b) | [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF), [Daviles de Novelda](https://open.spotify.com/artist/6E94QKXZv8BbO6QQJxcxLI) | [Risueña](https://open.spotify.com/album/7xDIDj3JXGpFFebsgUE5Bx) | 3:31 | 2022-03-10 |  |
 | [Santo](https://open.spotify.com/track/2M6IDHdaSAyt7FcJcptHjj) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Santo](https://open.spotify.com/album/4M6KWDyo4wi2wY9rxpV9RC) | 3:03 | 2022-02-02 |  |
 | [Se Fue la Luz](https://open.spotify.com/track/2M4UXjgRjbQnS8s7lNR9g3) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Cambios de Luna](https://open.spotify.com/album/0UaPZ3OfJgoTB5RKpZ0UY0) | 2:39 | 2022-03-24 |  |
+| [Se Rumora](https://open.spotify.com/track/0CoXRdJsAoElmYCXldiVIg) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [INERCIA](https://open.spotify.com/album/18FytbcvGlN2wufzYgjc8l) | 3:23 | 2022-11-11 |  |
 | [Serías Tú](https://open.spotify.com/track/7fzskw4tFfvERodAJxSL1o) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [Serías Tú](https://open.spotify.com/album/38IW31iaOK3Zsr73cmSyds) | 3:26 | 2022-05-06 |  |
 | [Si Te Preguntan...](https://open.spotify.com/track/20yLo8tCAM1LXixAdBf3f2) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Si Te Preguntan...](https://open.spotify.com/album/4UDVt5eerRMk5hCMF1qek9) | 3:43 | 2022-06-24 |  |
 | [Si Tú La Ves \(feat\. Wisin\)](https://open.spotify.com/track/4yN6xPLopmTLvc27pO9LIE) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [Fénix](https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ) | 3:41 | 2022-02-02 |  |
@@ -302,6 +304,7 @@
 | [Todo Cambió](https://open.spotify.com/track/4OyzSXRSadNQt5EMwASdap) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU) | [Todo Cambio](https://open.spotify.com/album/7dTSfhp5okEjaYXp38LwVf) | 3:13 | 2022-08-09 |  |
 | [Todo De Ti](https://open.spotify.com/track/4fSIb4hdOQ151TILNsSEaF) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Todo De Ti](https://open.spotify.com/album/3zjKITMp5FHj5aqtWWXrxH) | 3:19 | 2022-02-02 |  |
 | [Todo De Ti \- Summer Remix](https://open.spotify.com/track/642TVG63fTV3bhuMJQfcSM) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Caleb Calloway](https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi) | [Todo De Ti \(Summer Remix\)](https://open.spotify.com/album/63UOW6Vd1pof9NMLTIsJ3Y) | 5:10 | 2022-02-02 |  |
+| [Todo Lo Olvidamos](https://open.spotify.com/track/6MV3R86mvpWQTTDoyy3mvN) | [Yennis](https://open.spotify.com/artist/3s7NHfZvVaqP2dnLfqk6ND) | [Todo Lo Olvidamos](https://open.spotify.com/album/4Zg16RzacQxNOhfhuri3aC) | 2:32 | 2022-11-11 |  |
 | [Todo My Love](https://open.spotify.com/track/0XOr0FAZIbUaxyU84o9AWJ) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Todo My Love](https://open.spotify.com/album/3gdPLbvBV3OAqigyVaV7Lt) | 3:20 | 2022-08-05 |  |
 | [traguito](https://open.spotify.com/track/3t2nOnte5Wp9jbvMenZedH) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [traguito](https://open.spotify.com/album/3w6RnyVHOO4xHAGzO9iOmB) | 3:56 | 2022-09-15 |  |
 | [Tu Debilidad \(feat\. Emilia\)](https://open.spotify.com/track/1XzihhvRzOHYmVImIZ9g8Q) | [Mati Gómez](https://open.spotify.com/artist/23mC5tLCbMk9zqrR2dFtNE), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Tu Debilidad \(feat\. Emilia\)](https://open.spotify.com/album/1qrlFEQBcFkWfH0dxjkMDQ) | 2:41 | 2022-02-02 |  |

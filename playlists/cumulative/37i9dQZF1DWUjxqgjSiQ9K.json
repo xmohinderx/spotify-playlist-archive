@@ -1733,10 +1733,32 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 292186,
       "name": "Dios en Casa",
       "url": "https://open.spotify.com/track/5EkAXS5cUl4WPgyq8lOXSW"
+    },
+    {
+      "album": {
+        "name": "Dios Es la Vuelta",
+        "url": "https://open.spotify.com/album/33fM34n6OZE12cOKUlJm9M"
+      },
+      "artists": [
+        {
+          "name": "Lizzy Parra",
+          "url": "https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz"
+        },
+        {
+          "name": "Alex Linares",
+          "url": "https://open.spotify.com/artist/35DcV9GrbHnpHMpTxqO7aT"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155172,
+      "name": "Dios Es la Vuelta",
+      "url": "https://open.spotify.com/track/0HsVzHslRJxTCW0UJK6DEo"
     },
     {
       "album": {
@@ -2202,6 +2224,28 @@
     },
     {
       "album": {
+        "name": "En Ti Yo Esperar\u00e9 (What I'm Waiting For) (feat. TWICE)",
+        "url": "https://open.spotify.com/album/6ZvTJaNoL6G3G9IEmqVBOU"
+      },
+      "artists": [
+        {
+          "name": "DOE",
+          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
+        },
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/2yp6zqk49KOKKrOSSsUb75"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230389,
+      "name": "En Ti Yo Esperar\u00e9 (What I'm Waiting For) (feat. TWICE)",
+      "url": "https://open.spotify.com/track/5dbsfmhaLJ8yi3maimbuWZ"
+    },
+    {
+      "album": {
         "name": "Encontr\u00e9",
         "url": "https://open.spotify.com/album/0GVj0pvjPLGkEygQkKOAY4"
       },
@@ -2653,7 +2697,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 289970,
       "name": "Gracia Sobre Gracia (feat. Miel San Marcos)",
       "url": "https://open.spotify.com/track/6Y5TIxbM7fsG5j9CqJqZDW"
@@ -5710,6 +5754,40 @@
     },
     {
       "album": {
+        "name": "Te Necesito (Remix)",
+        "url": "https://open.spotify.com/album/7JtlXGjAvs41d2cQ6jfhMz"
+      },
+      "artists": [
+        {
+          "name": "Samuel Adorno",
+          "url": "https://open.spotify.com/artist/18uNULJ5iZf4hIcGq5WvbZ"
+        },
+        {
+          "name": "Alexxander",
+          "url": "https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp"
+        },
+        {
+          "name": "Christian Ponce",
+          "url": "https://open.spotify.com/artist/4Xhe8s10yLiuTzG7k1Kq4W"
+        },
+        {
+          "name": "Gabriel EMC",
+          "url": "https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH"
+        },
+        {
+          "name": "Jay Kalyl",
+          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316650,
+      "name": "Te Necesito (Remix)",
+      "url": "https://open.spotify.com/track/21fY89VrTRDdgavfv5jm9u"
+    },
+    {
+      "album": {
         "name": "Te Seguiremos",
         "url": "https://open.spotify.com/album/6q8Wct06zYF9fj4kv27NPY"
       },
@@ -5958,6 +6036,28 @@
     },
     {
       "album": {
+        "name": "Tu Iglesia",
+        "url": "https://open.spotify.com/album/1Tm3kqQrewzPly3tJZSBJA"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        },
+        {
+          "name": "Steven Richards",
+          "url": "https://open.spotify.com/artist/7nV5z8aBZuot66MlL143o4"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286767,
+      "name": "Tu Iglesia",
+      "url": "https://open.spotify.com/track/2vx5gfAsMpFls9VTIICGKx"
+    },
+    {
+      "album": {
         "name": "Tu Manto (Remix)",
         "url": "https://open.spotify.com/album/4eKpL9SKZ8fqWIOYq6B4o9"
       },
@@ -5977,7 +6077,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 224403,
       "name": "Tu Manto - Remix",
       "url": "https://open.spotify.com/track/0BEDr7n9SCehDvhJnQPYok"
@@ -6186,6 +6286,24 @@
     },
     {
       "album": {
+        "name": "Una Nueva Historia (Espanhol)",
+        "url": "https://open.spotify.com/album/75GTKHL6mcZG5B4Yx6bxG5"
+      },
+      "artists": [
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272895,
+      "name": "Una Nueva Historia - Espanhol",
+      "url": "https://open.spotify.com/track/40ElYEtYTuKC56EwgJltaL"
+    },
+    {
+      "album": {
         "name": "Una Y Otra Vez",
         "url": "https://open.spotify.com/album/7qOnJRFFhmVei4khZI1zba"
       },
@@ -6201,7 +6319,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 315600,
       "name": "Una Y Otra Vez",
       "url": "https://open.spotify.com/track/07RYlmvOrD1Z9ferw3zoZ8"
@@ -6336,6 +6454,24 @@
     },
     {
       "album": {
+        "name": "Vive",
+        "url": "https://open.spotify.com/album/5gThgZJB0mCkrYljBOEour"
+      },
+      "artists": [
+        {
+          "name": "Dariann Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/1sgmTpjFhU8xeSlrDGpiSQ"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261250,
+      "name": "Vive",
+      "url": "https://open.spotify.com/track/3VFOh655IwOLgcz9AePHVv"
+    },
+    {
+      "album": {
         "name": "Vivir\u00e9",
         "url": "https://open.spotify.com/album/44gU1FKixn5rlEw7RKna6u"
       },
@@ -6427,7 +6563,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 221655,
       "name": "When I Pray (Mi Oraci\u00f3n) (feat. Blanca)",
       "url": "https://open.spotify.com/track/5AU3lAWOFwjjCjb9rC2jEr"
@@ -6457,6 +6593,24 @@
       "duration_ms": 404729,
       "name": "X SIEMPRE",
       "url": "https://open.spotify.com/track/6B7zIIqfxXOXaxV8J9VTWd"
+    },
+    {
+      "album": {
+        "name": "Yeshua el Sonido de Libertad",
+        "url": "https://open.spotify.com/album/30TlihsK5Z82paAmsorcB0"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323365,
+      "name": "Yeshua el Sonido de Libertad",
+      "url": "https://open.spotify.com/track/0LDQ2ouudjOH7d8ECeFAyn"
     },
     {
       "album": {

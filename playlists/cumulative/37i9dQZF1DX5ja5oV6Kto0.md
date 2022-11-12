@@ -4,7 +4,7 @@
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: <a href="https://open.spotify.com/artist/0WwZMQoxKjgOOicFhd08yx?si=rOqqDWfMQSOIkZiMVxQlAw"> Dami Oniru </a>
 
-281 songs - 14 hr 4 min - [published](https://open.spotify.com/playlist/3abyZu302ITz5DM9hnTS7F)
+282 songs - 14 hr 7 min - [published](https://open.spotify.com/playlist/3abyZu302ITz5DM9hnTS7F)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -282,7 +282,8 @@
 | [We're Made For Each Other](https://open.spotify.com/track/2G5EyrYbvXoUIpwqzGLgK1) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN) | [Love Letters II](https://open.spotify.com/album/4YPEUtBlXYKlVpxAezEElY) | 2:28 | 2022-03-03 | 2022-03-12 |
 | [Wet](https://open.spotify.com/track/4UYvRJDzEIKvyHRMA8LPNC) | [Gold Fang](https://open.spotify.com/artist/1e8lOc1h26CVBSGh3iiW7M) | [Wet](https://open.spotify.com/album/5ResSYzjEMB3SbKvC8XmxQ) | 2:58 | 2022-07-28 |  |
 | [What To Expect When Expecting](https://open.spotify.com/track/3O9GGQXx5mi1ekYoCJbgXk) | [Flier](https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU) | [What To Expect When Expecting](https://open.spotify.com/album/2VkmTYOfZ1zTHQBhfK1Rbf) | 2:48 | 2022-09-09 | 2022-09-30 |
-| [WHISTLE \(feat\. Lojay & Amaarae\)](https://open.spotify.com/track/11Ti6zSL9YNLz6tF5fuetQ) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [YOUNG PREACHER](https://open.spotify.com/album/4cz1acZPi8BkrfmIooqnlV) | 3:06 | 2022-10-28 |  |
+| [WHISTLE \(feat\. Lojay & Amaarae\)](https://open.spotify.com/track/11Ti6zSL9YNLz6tF5fuetQ) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [YOUNG PREACHER](https://open.spotify.com/album/4cz1acZPi8BkrfmIooqnlV) | 3:06 | 2022-10-28 | 2022-11-12 |
+| [WHISTLE \(feat\. Lojay & Amaarae\)](https://open.spotify.com/track/7KTyBUl3f402RdK4Af7RDB) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Young Preacher](https://open.spotify.com/album/5J4BbjFnBq9C31xsph3ld2) | 3:06 | 2022-10-28 |  |
 | [Wrong for It](https://open.spotify.com/track/4kntTTVtSIfsTl1dEak3X7) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h), [Nubya Garcia](https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ) | [Some Nights I Dream of Doors](https://open.spotify.com/album/4b5bbOFp8eUd5QxQJ6jFs3) | 3:22 | 2022-05-12 | 2022-09-02 |
 | [WTF! \(Euphoria\) \(feat\. 2aab\)](https://open.spotify.com/track/4yUC5HZhaQAt465DEJNDxN) | [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW), [2AAB](https://open.spotify.com/artist/0INY0RufOyabGf8TT1hgRC) | [Denim](https://open.spotify.com/album/38r3tXAVmVr8MpbFWUWEnG) | 1:50 | 2022-09-15 |  |
 | [Y I Want U](https://open.spotify.com/track/5opjJ7bTPyiRDh8DHnnUFc) | [Somadina](https://open.spotify.com/artist/4C9EX8d2FnWMV2yQZqeG8U) | [Y I Want U](https://open.spotify.com/album/4K5uRhVnYbqPSDOLC3jimD) | 1:46 | 2022-11-04 |  |

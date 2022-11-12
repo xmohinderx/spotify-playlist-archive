@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYkQ0K2mhgZ.md) - [plain]
 
 > Move your feet and shake your hips to these family\-friendly tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,472 likes - 62 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,483 likes - 62 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYkQ0K2mhgZ.md) - [plain]
 | 9 | [Flash Light](https://open.spotify.com/track/1v1PV2wERHiMPesMWX0qmO) | [Parliament](https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH) | [Funkentelechy Vs\. The Placebo Syndrome](https://open.spotify.com/album/7Kv0H0XMdIyRs41a6USzrd) | 5:46 |
 | 10 | [I Would Die 4 U](https://open.spotify.com/track/6fBwVe6udYdnRqwqo06if8) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain](https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc) | 2:58 |
 | 11 | [Jungle Boogie](https://open.spotify.com/track/3K0SJUQNbOkUprTFcwwAKN) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Wild And Peaceful](https://open.spotify.com/album/3MRgojA0LfPka4RG7aRjsI) | 3:06 |
-| 12 | [Why Can't We Be Friends](https://open.spotify.com/track/6x959m2QDvatSwUAVCHIuf) | [War](https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I) | [Why Can't We Be Friends?](https://open.spotify.com/album/59euB5Ns7yGbS06OYHwxRN) | 3:50 |
+| 12 | [Why Can't We Be Friends](https://open.spotify.com/track/591naG1fK1jQfRpVOmJHff) | [War](https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I) | [The Cisco Kid and Other Hits](https://open.spotify.com/album/7041qMbfSPwsmo2GBBOjt2) | 3:50 |
 | 13 | [Move on Up \- Single Edit](https://open.spotify.com/track/0MHXrqn909p0LRTPsNsGEi) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [Move on Up](https://open.spotify.com/album/2EwoYRFQRJqw7BTVG6GlTw) | 2:45 |
 | 14 | [Good Times \- 2018 Remaster](https://open.spotify.com/track/4N3stlRuz5cBNI4J4vDJ18) | [CHIC](https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV) | [The Chic Organization 1977\-1979 \(2018 Remaster\)](https://open.spotify.com/album/3Jhtxnrjbk5oxleA3oafAy) | 8:06 |
 | 15 | [It's Your Thing](https://open.spotify.com/track/3ZxfehzRtB3oJcBuxWXFZQ) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [It's Our Thing](https://open.spotify.com/album/2tMcirhdFUp4hS2eJwsHvF) | 2:49 |
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYkQ0K2mhgZ.md) - [plain]
 | 61 | [Say My Name](https://open.spotify.com/track/7H6ev70Weq6DdpZyyTmUXk) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [The Writing's On The Wall](https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG) | 4:31 |
 | 62 | [Mirrors](https://open.spotify.com/track/4rHZZAmHpZrA3iH5zx8frV) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [The 20/20 Experience \(Deluxe Version\)](https://open.spotify.com/album/0O82niJ0NpcptYRxogeEZu) | 8:04 |
 
-Snapshot ID: `MTY0NzI3NjYzOCwwMDAwMDAwMDZmNjkzNmIxYzgwNjhmMDNjODFiY2JhM2I2YWRjODdj`
+Snapshot ID: `MTY0NzI3NjYzOCwwMDAwMDAwMGYwYzU3ZDgwYTgwOTQ4NjUzN2E2OWI4YmQxOTFiNDgw`

@@ -4,7 +4,7 @@
 
 > The most innovative and forward thinking metal right now\. Cover: Ghostemane
 
-129 songs - 9 hr 18 min - [published](https://open.spotify.com/playlist/74UBTR7z0vAmQsRIWWsXwK)
+132 songs - 9 hr 35 min - [published](https://open.spotify.com/playlist/74UBTR7z0vAmQsRIWWsXwK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [A Bellyful of Salt and Spleen](https://open.spotify.com/track/7pFdW0mdlfHPXAmQIPtQzL) | [Napalm Death](https://open.spotify.com/artist/3UqRgrDIQ208yNGiWKRMNt) | [Throes of Joy in the Jaws of Defeatism \(Bonus Tracks Version\)](https://open.spotify.com/album/4O3oSTv5mauxfXPdMRrayQ) | 4:36 | 2022-07-26 | 2022-11-11 |
 | [A Lament](https://open.spotify.com/track/2f4DGYqmBDbfxyPGmPAGoV) | [The Body](https://open.spotify.com/artist/1VFYpTpgmp7ANXqok2dTg3) | [A Lament](https://open.spotify.com/album/1WLtMJBOiWB6yQyEAfFsJA) | 5:54 | 2021-12-20 |  |
 | [ABYSS](https://open.spotify.com/track/0oyLeHwK228pw76jx2VZNQ) | [Mimi Barks](https://open.spotify.com/artist/5A4P1UOSqbSvJKoi3VYlCC) | [ABYSS](https://open.spotify.com/album/5tHG1GajRvMq3PoTxyijCo) | 2:31 | 2022-09-29 |  |
-| [After You Comes the Flood](https://open.spotify.com/track/2C33v3NmRB9cb4L4cLmFWn) | [MONO](https://open.spotify.com/artist/53LVoipNTQ4lvUSJ61XKU3) | [Nowhere Now Here](https://open.spotify.com/album/4wP3wYSBo0h9UfAfG5D94a) | 5:31 | 2022-07-26 |  |
+| [After You Comes the Flood](https://open.spotify.com/track/2C33v3NmRB9cb4L4cLmFWn) | [MONO](https://open.spotify.com/artist/53LVoipNTQ4lvUSJ61XKU3) | [Nowhere Now Here](https://open.spotify.com/album/4wP3wYSBo0h9UfAfG5D94a) | 5:31 | 2022-07-26 | 2022-11-12 |
+| [After You Comes the Flood](https://open.spotify.com/track/6xwDOUvXD5BmU4NZwHIPZk) | [MONO](https://open.spotify.com/artist/53LVoipNTQ4lvUSJ61XKU3) | [After You Comes the Flood](https://open.spotify.com/album/4e4OGFT9SAPem35VnTjvvE) | 5:31 | 2022-09-29 |  |
 | [After You Comes the Flood](https://open.spotify.com/track/66JSsyAmLobSSYZDjwla5b) | [MONO](https://open.spotify.com/artist/53LVoipNTQ4lvUSJ61XKU3) | [Nowhere Now Here](https://open.spotify.com/album/4SnsgTwNCmqJMOiuj4hxH3) | 5:36 | 2021-12-20 | 2022-07-29 |
 | [akuma](https://open.spotify.com/track/3rsNKRINHRvYnQagyTqtnj) | [SPARK!!SOUND!!SHOW!!](https://open.spotify.com/artist/1bFs9Etj0H2sq0vmmwmmDU) | [akuma](https://open.spotify.com/album/6KLzdU4IelYJvpQAzCQ4Yv) | 3:10 | 2022-07-26 |  |
 | [akuma](https://open.spotify.com/track/6cr9O3zBVZ2Ityl8EMy890) | [SPARK!!SOUND!!SHOW!!](https://open.spotify.com/artist/1bFs9Etj0H2sq0vmmwmmDU) | [akuma](https://open.spotify.com/album/7IPaRdgBOJlUahcAZxvazr) | 3:10 | 2022-03-10 | 2022-07-29 |
@@ -42,8 +43,9 @@
 | [Caterpillar](https://open.spotify.com/track/5IYf2klca6lYyOj7jhjF5j) | [Hollow](https://open.spotify.com/artist/64uA1WO40WSspFUnUYirSt) | [Caterpillar](https://open.spotify.com/album/1su4sMJNmHerXssClObphO) | 3:25 | 2021-12-20 |  |
 | [Citadel](https://open.spotify.com/track/3lKhI43QIxljVRKBGANx7d) | [Inter Arma](https://open.spotify.com/artist/5ZG7r3Jg0Y1hGQRMQ8hdRs) | [Citadel](https://open.spotify.com/album/0mSUgzFeuAj79O1hweNT0X) | 6:40 | 2021-12-20 | 2022-03-11 |
 | [Concept Unification](https://open.spotify.com/track/5SDEsNpIsdw4Le3ECGHAql) | [Pinkish Black](https://open.spotify.com/artist/60Ob6q8BCjykLBKuF5aroP) | [Concept Unification](https://open.spotify.com/album/7rWHpoEFxd6qJBRmVS2EPc) | 5:13 | 2021-12-20 |  |
+| [Contact](https://open.spotify.com/track/2szivijUpHHwYvWqLX17lt) | [Violet Cold](https://open.spotify.com/artist/5eh1n96NC6g34nPqpIItIo) | [Kosmik \(Instrumental Version\)](https://open.spotify.com/album/0ls6oNzxhpHiezAvIgo1uO) | 3:34 | 2022-09-29 |  |
 | [Contact](https://open.spotify.com/track/57VzB0aPVjJ7Pfprw21b53) | [Violet Cold](https://open.spotify.com/artist/5eh1n96NC6g34nPqpIItIo) | [Kosmik](https://open.spotify.com/album/4thEO0PIlNvc1txIfO0LA5) | 3:34 | 2021-12-20 | 2022-07-29 |
-| [Contact](https://open.spotify.com/track/6WTb67YHPih0UCVxXGLDKn) | [Violet Cold](https://open.spotify.com/artist/5eh1n96NC6g34nPqpIItIo) | [Kosmik](https://open.spotify.com/album/5Kx3hP0LhUKsnD1TY0DArM) | 3:34 | 2022-07-26 |  |
+| [Contact](https://open.spotify.com/track/6WTb67YHPih0UCVxXGLDKn) | [Violet Cold](https://open.spotify.com/artist/5eh1n96NC6g34nPqpIItIo) | [Kosmik](https://open.spotify.com/album/5Kx3hP0LhUKsnD1TY0DArM) | 3:34 | 2022-07-26 | 2022-11-12 |
 | [Crash 'n Learn](https://open.spotify.com/track/7a9LlgnBXO5qOOdrRJALfb) | [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW) | [Fear Network II](https://open.spotify.com/album/79oY2cGYhbXlh537p1hpVS) | 1:27 | 2021-12-20 |  |
 | [Dante's Inspiration](https://open.spotify.com/track/0xqCqprCOqvz2zGridoiqu) | [Cryptodira](https://open.spotify.com/artist/6aaRy3pEsAC5lrbpQC5WEl) | [The Angel of History](https://open.spotify.com/album/5dhT3bPpiEtSDnMvkwjekT) | 3:33 | 2021-12-20 |  |
 | [Demon Supreme](https://open.spotify.com/track/4gA4TtxgtVdx1lXirn3QdC) | [Lordi](https://open.spotify.com/artist/14SgKNlOCKAI0PfRD1HnWh) | [Demon Supreme](https://open.spotify.com/album/4SltzsJwiJVafqeZmXGiiB) | 3:31 | 2022-03-03 |  |
@@ -82,7 +84,8 @@
 | [Lifers](https://open.spotify.com/track/0cluQGCBtjYHtVTW9GJayG) | [Culted](https://open.spotify.com/artist/3YT1buuj4AVB8KiSSZdJ8F) | [Lifers](https://open.spotify.com/album/4QorJObMBo6fFHnW8CNcGB) | 4:58 | 2021-12-20 |  |
 | [Lost](https://open.spotify.com/track/5GbEVRKvHeBEE8PARaRQOJ) | [Crippled Black Phoenix](https://open.spotify.com/artist/6WEyPcf9ezhNLm1xOBjbwH) | [Lost](https://open.spotify.com/album/3HcXn4sSYlHrNcMfEgP9qJ) | 8:11 | 2021-12-20 |  |
 | [Love in the Time of Pestilence](https://open.spotify.com/track/1L4BtGYob6EaRXLDzSmcom) | [The Chronicles of Manimal and Samara](https://open.spotify.com/artist/2V3zzIcq2sbRbaEjbGypc8) | [Love in the Time of Pestilence](https://open.spotify.com/album/2umQh1Vbk9Kxvpg8dlkvId) | 7:41 | 2021-12-20 | 2022-08-28 |
-| [Love in the Time of Pestilence](https://open.spotify.com/track/61QZFPNZvNKPaY9nnAgKbX) | [The Chronicles of Manimal and Samara](https://open.spotify.com/artist/2V3zzIcq2sbRbaEjbGypc8) | [Full Spectrum](https://open.spotify.com/album/6qXjj4mea3BEEAcwCmXfyJ) | 7:41 | 2022-07-26 |  |
+| [Love in the Time of Pestilence](https://open.spotify.com/track/2dsEIPH2RS6cwD1yBXN8u7) | [The Chronicles of Manimal and Samara](https://open.spotify.com/artist/2V3zzIcq2sbRbaEjbGypc8) | [Love in the Time of Pestilence](https://open.spotify.com/album/1nYxUgt8v5OTge59hoDifq) | 7:41 | 2022-09-29 |  |
+| [Love in the Time of Pestilence](https://open.spotify.com/track/61QZFPNZvNKPaY9nnAgKbX) | [The Chronicles of Manimal and Samara](https://open.spotify.com/artist/2V3zzIcq2sbRbaEjbGypc8) | [Full Spectrum](https://open.spotify.com/album/6qXjj4mea3BEEAcwCmXfyJ) | 7:41 | 2022-07-26 | 2022-11-12 |
 | [LXVE](https://open.spotify.com/track/5RqMRQphaSAQekmaqRGpHH) | [Stain the Canvas](https://open.spotify.com/artist/567L1a4812VuMSRrbCqdo4) | [LXVE](https://open.spotify.com/album/4WxYoN03IGMt48MxwQaLhi) | 3:11 | 2022-03-03 |  |
 | [Make It Out Alive](https://open.spotify.com/track/6lBIyFHLLDe30Rg4kvt9Kw) | [SWARM](https://open.spotify.com/artist/07OF36h5y4S6s9ckQliaj3), [Sentinel Complex](https://open.spotify.com/artist/31K3DcAhtW5bcuFOcNumWK), [Man Ov God](https://open.spotify.com/artist/5IoAhDxIVxXuhZWd1GchB9) | [Make It Out Alive](https://open.spotify.com/album/3QpZhoEwPACrnTWTmSil9K) | 3:22 | 2021-12-20 |  |
 | [Manic](https://open.spotify.com/track/5d0CEohvmvqcizfc0cXn1t) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [Manic](https://open.spotify.com/album/2gSVPsycPerzCuSd67ENuF) | 2:44 | 2022-04-01 |  |

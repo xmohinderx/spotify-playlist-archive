@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWf7hUnPGOw.md) - [plain]
 
 > The official destination for all the music from Virgin River\. Watch on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,221 likes - 176 songs - 10 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,264 likes - 176 songs - 10 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -158,7 +158,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWf7hUnPGOw.md) - [plain]
 | 148 | [November](https://open.spotify.com/track/3mM9vRlgBSZGyTLzJ4je5m) | [Keith Skooglund](https://open.spotify.com/artist/6UxzEMXInwnATIwEbDxkr0) | [November](https://open.spotify.com/album/1cEsGPDHBbS4Ik7eNQwRuF) | 2:59 |
 | 149 | [Better Man](https://open.spotify.com/track/1EHYOYhRaU3dXEPAhEsqDT) | [Black River Delta](https://open.spotify.com/artist/6wuLyOna5Zjh2OYb0ZtLey) | [Vol\. II](https://open.spotify.com/album/0OGhpkvxYC9KUUTCeMblqA) | 3:08 |
 | 150 | [Just Like You](https://open.spotify.com/track/3I960WIrkms9OFGUoYHPvG) | [The Dahls](https://open.spotify.com/artist/5e6QJGOFBAFPoOPIFDKaWt) | [Just Like You](https://open.spotify.com/album/6qyqKi1AztjSruNzsVwiWt) | 3:51 |
-| 151 | [Meant to Stay Hid](https://open.spotify.com/track/5XaEiteF9A84F3ESpBg7jV) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Meant to Stay Hid](https://open.spotify.com/album/0U7yUdZYoCA3yp33ydpPHm) | 3:43 |
+| 151 | [Meant to Stay Hid](https://open.spotify.com/track/3uDisYVXlEiC1SQZlqz2Tu) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Lost](https://open.spotify.com/album/59imk8rR95T1ggfKDKsELD) | 3:43 |
 | 152 | [Howl](https://open.spotify.com/track/5Kdw1n50m2d6XG95H3jttK) | [Jake Houlsby](https://open.spotify.com/artist/7opQBzUd3mv4GsxSIveDB3) | [Howl](https://open.spotify.com/album/6ARw255Jfy9jWjkruP4j2L) | 3:38 |
 | 153 | [Grow Old With You](https://open.spotify.com/track/27eqleJFBew95lK2OLWKun) | [Bobby Watson](https://open.spotify.com/artist/3vJcThDRTiLEhLwNzJewSD) | [I Can't Quit](https://open.spotify.com/album/5zOTkQoMQPvp5ufdCjatYB) | 3:19 |
 | 154 | [Thread](https://open.spotify.com/track/0jtCa3XLLrofXAuh3dQzy7) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Cause And Effect \(Deluxe\)](https://open.spotify.com/album/2V3ebysBMSaKfYUcsCWmKX) | 4:52 |
@@ -185,4 +185,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWf7hUnPGOw.md) - [plain]
 | 175 | [Our Own Cloud](https://open.spotify.com/track/6cvzYgrLWhXyw8q4OfUUJ6) | [Daniel Milewski](https://open.spotify.com/artist/6C8PW0ngsQWToD7bE4nnU5) | [Quarry](https://open.spotify.com/album/37HodiQLdGP1iOnliGWSot) | 6:13 |
 | 176 | [Carry You](https://open.spotify.com/track/3qeTDINIdJjblabgluS5rK) | [Ruelle](https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx), [Fleurie](https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4) | [Carry You](https://open.spotify.com/album/3cDlbiwvay9zjWMqKZqsGa) | 4:28 |
 
-Snapshot ID: `MTY1ODUwODA0NSwwMDAwMDAwMDU1NWJlNjU3N2M4MGFmZjJiZWNkMWIxODE1NTgwMWFm`
+Snapshot ID: `MTY1ODUwODA0NSwwMDAwMDAwMDdlYWIwNTg4NGQ0YmNlMzczYjk2YmIwMzVjNGQ3MzBh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHbNgKAMWAM.md) - [plain]
 
 > 연인에게 전하는 노랫말과 달달한 시간을 함께하세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,023 likes - 60 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,047 likes - 60 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,18 +55,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHbNgKAMWAM.md) - [plain]
 | 45 | [Love in the Milky Way Cafe](https://open.spotify.com/track/6k6Llm7Kw3Ad1Xo1e6sIcR) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [1.0](https://open.spotify.com/album/2NQxbsV4UYXegJQWbzLR2c) | 2:52 |
 | 46 | [ONLY YOU](https://open.spotify.com/track/3QzMvxm28IaEAOpwpkzgqQ) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [I LOVE YOU](https://open.spotify.com/album/76KAp3rsIGWC0FcoPjAHkT) | 2:57 |
 | 47 | [Amazing You](https://open.spotify.com/track/37dkyQQNJLaqk09kkNr7In) | [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [The 3rd Digital Single \`Amazing You'](https://open.spotify.com/album/4thvEEDY1tQFGeIcTbgwMy) | 4:56 |
-| 48 | [Hachiko \(Feat\. Sion, Yescoba, Dayoung Ahn\)](https://open.spotify.com/track/4MrCH9VqTyEKmeXQ7m6Geh) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r), [Yescoba](https://open.spotify.com/artist/5FifK2T7KEKatsWO6WxkS6), [Dayoung Ahn](https://open.spotify.com/artist/1NkurDnX4s44yi7n57Mooz) | [NANGMAN](https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m) | 6:10 |
-| 49 | [First Love](https://open.spotify.com/track/1bhLix8ZApePHFLiVCKpp4) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [First Love](https://open.spotify.com/album/0McpCdcqKHDONKqcMh5UEE) | 3:02 |
+| 48 | [First Love](https://open.spotify.com/track/1bhLix8ZApePHFLiVCKpp4) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [First Love](https://open.spotify.com/album/0McpCdcqKHDONKqcMh5UEE) | 3:02 |
+| 49 | [Hachiko \(Feat\. Sion, Yescoba, Dayoung Ahn\)](https://open.spotify.com/track/4MrCH9VqTyEKmeXQ7m6Geh) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r), [Yescoba](https://open.spotify.com/artist/5FifK2T7KEKatsWO6WxkS6), [Dayoung Ahn](https://open.spotify.com/artist/1NkurDnX4s44yi7n57Mooz) | [NANGMAN](https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m) | 6:10 |
 | 50 | [Our Season](https://open.spotify.com/track/0AZS7hgLM2Iv69X1ZfKebV) | [JAECHAN](https://open.spotify.com/artist/2ggXDRbe4d24r7MD54kVbE) | [SPRING \(Original Soundtrack from Watcha's original show 'Our Season: Spring with Park Jae Chan'\)](https://open.spotify.com/album/0FHf6xPUIGsnYwxOhCuhzP) | 3:50 |
 | 51 | [WANT U](https://open.spotify.com/track/64D4Sjf0D6p1xSh8daZuBX) | [Def.](https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58) | [LOVE.](https://open.spotify.com/album/4gpG6Fw9MP4Le9phEdtdYU) | 2:52 |
 | 52 | [Good For You](https://open.spotify.com/track/1L9X1uzSZoPwyVzFOIOKDh) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [INTERVIEW](https://open.spotify.com/album/0woMyvkTKuCuiMLvUi3BsH) | 3:15 |
 | 53 | [Dearest \(feat\. Sllo\)](https://open.spotify.com/track/4gXUBLN9qdv7SSwvB0dg1u) | [J.BASS](https://open.spotify.com/artist/1xIJdlCfkIVsdO5Egsu8ln), [Sllo](https://open.spotify.com/artist/1wzCU6RJBw1eFzgfSvfsbc) | [Dearest \(feat\. Sllo\)](https://open.spotify.com/album/3WgCQ87OvZIlunqvrMVRRZ) | 2:47 |
-| 54 | [Some Day in the 21century](https://open.spotify.com/track/6FHZgDfoeAMCLTDEAQFkHq) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Some Day in the 21century](https://open.spotify.com/album/0o0Es7FJ0NIPad1723Qk7r) | 3:55 |
-| 55 | [Lean On Me](https://open.spotify.com/track/43IxBx4zsgELpVdMIAkkF0) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [A\-TEEN2 Part.1](https://open.spotify.com/album/2quxDpdeABmtoUbYIHgnNa) | 3:30 |
-| 56 | [But it's Destiny](https://open.spotify.com/track/7adtedpznNgg9UtDS3VR5Q) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Crash Landing on You \(Original Television Soundtrack\)](https://open.spotify.com/album/1lb206sGMTJryXF66FpT0k) | 3:51 |
+| 54 | [But it's Destiny](https://open.spotify.com/track/7adtedpznNgg9UtDS3VR5Q) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Crash Landing on You \(Original Television Soundtrack\)](https://open.spotify.com/album/1lb206sGMTJryXF66FpT0k) | 3:51 |
+| 55 | [Some Day in the 21century](https://open.spotify.com/track/6FHZgDfoeAMCLTDEAQFkHq) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Some Day in the 21century](https://open.spotify.com/album/0o0Es7FJ0NIPad1723Qk7r) | 3:55 |
+| 56 | [Lean On Me](https://open.spotify.com/track/43IxBx4zsgELpVdMIAkkF0) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [A\-TEEN2 Part.1](https://open.spotify.com/album/2quxDpdeABmtoUbYIHgnNa) | 3:30 |
 | 57 | [Mirage](https://open.spotify.com/track/23z6RGYVcJOsY2qwCESHa9) | [Unchan](https://open.spotify.com/artist/2QwMi696g8ta10viltHDzF) | [Mirage](https://open.spotify.com/album/2rk4KNzJtZyJosuI3pU7fP) | 3:34 |
 | 58 | [I Will Be By Your Side](https://open.spotify.com/track/7gWKxBSrDUfs4dWaneLVKm) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [A Korean Odyssey \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/6AB63xLs034lp5hjjB3MJP) | 4:04 |
 | 59 | [gr8](https://open.spotify.com/track/0BsQtnv3ch7w64B52ik72W) | [Llwyd](https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0) | [gr8](https://open.spotify.com/album/4XrJYiy91zJZnYNMYPCUnU) | 2:38 |
 | 60 | [Still with you](https://open.spotify.com/track/4qL1uZDOmVW5sgXi1IAOic) | [SU A](https://open.spotify.com/artist/72XqIIqjxuftxq8x5l0V9Y) | [Minamdang \(Original Television Soundtrack, Pt\. 7\)](https://open.spotify.com/album/2GIuXzkq4ta6ymxiFQuLgv) | 3:06 |
 
-Snapshot ID: `MTY2NzI3ODkyMSwwMDAwMDAwMGFkYjZjMGZiNWVmY2JmNGYzMGQ2Y2ZlMDcyOWIzOWY4`
+Snapshot ID: `MTY2NzI3ODkyMSwwMDAwMDAwMDc1NjUyNWU1NTYwZDBkMjUzNzBjNGM4NjQ0YWZiN2Rk`

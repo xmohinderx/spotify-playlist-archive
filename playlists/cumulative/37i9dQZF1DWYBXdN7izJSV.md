@@ -4,7 +4,7 @@
 
 > Classic cuts from the alternative country music scene\. Cover: Uncle Tupelo
 
-100 songs - 6 hr 21 min - [published](https://open.spotify.com/playlist/78EHvdOEXG9LXU2nIHnS9Q)
+102 songs - 6 hr 30 min - [published](https://open.spotify.com/playlist/78EHvdOEXG9LXU2nIHnS9Q)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,8 +26,9 @@
 | [Can't Let Go](https://open.spotify.com/track/0kyM6MaS573Gt9Yna1rsqd) | [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [Car Wheels On A Gravel Road](https://open.spotify.com/album/3iC6dJobZulVXp0F4Bojig) | 3:28 | 2020-10-13 |  |
 | [Car Wheels On A Gravel Road](https://open.spotify.com/track/5rUqENE7bmNffBbZDhVBty) | [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [Car Wheels On A Gravel Road](https://open.spotify.com/album/3iC6dJobZulVXp0F4Bojig) | 4:44 | 2020-10-13 |  |
 | [Chickamauga](https://open.spotify.com/track/3pnfc7f0fix6C6HcOLYxzH) | [Uncle Tupelo](https://open.spotify.com/artist/2Plkkomsc4DKawkCioLKjc) | [Anodyne](https://open.spotify.com/album/5DQRAlGAFTpHsXGEg5zw9V) | 3:42 | 2020-10-13 |  |
+| [Cigarettes Coffee and Booze](https://open.spotify.com/track/3VbksD93GdhM8fB95GGAjR) | [The Minus 5](https://open.spotify.com/artist/7k8oHbK8ratXIVlYX7fVRU) | [Alternative Country Masterpieces](https://open.spotify.com/album/5kJyeKSrgev5PyfsdYZUgP) | 4:24 | 2020-10-13 |  |
 | [Cigarettes Coffee and Booze](https://open.spotify.com/track/5ZZAwkEnpJDAOv4oD9qvND) | [The Minus 5](https://open.spotify.com/artist/7k8oHbK8ratXIVlYX7fVRU) | [The Minus 5](https://open.spotify.com/album/2fX1V0fpifL0pfLBLtf6Fs) | 4:24 | 2020-10-13 | 2022-07-29 |
-| [Cigarettes Coffee and Booze](https://open.spotify.com/track/5sccRpcrBlsSIbIjSj4Xtt) | [The Minus 5](https://open.spotify.com/artist/7k8oHbK8ratXIVlYX7fVRU) | [The Minus 5](https://open.spotify.com/album/4d1zF9fWmRc5PhWNaoh0us) | 4:24 | 2020-10-13 |  |
+| [Cigarettes Coffee and Booze](https://open.spotify.com/track/5sccRpcrBlsSIbIjSj4Xtt) | [The Minus 5](https://open.spotify.com/artist/7k8oHbK8ratXIVlYX7fVRU) | [The Minus 5](https://open.spotify.com/album/4d1zF9fWmRc5PhWNaoh0us) | 4:24 | 2020-10-13 | 2022-11-12 |
 | [Clear the Crowds](https://open.spotify.com/track/09BqimBt4igAq1YFIDa1vH) | [Jim Bryson](https://open.spotify.com/artist/1PVWC0rStR8mcd9vf3VZpU) | [Where The Bungalows Roam](https://open.spotify.com/album/4YuMZyQ7O67kDGF2iO6RlK) | 2:47 | 2020-10-13 | 2022-07-29 |
 | [Clear the Crowds](https://open.spotify.com/track/4TpJv5H8rPHggIA9iemyac) | [Jim Bryson](https://open.spotify.com/artist/1PVWC0rStR8mcd9vf3VZpU) | [Where the Bungalows Roam](https://open.spotify.com/album/0eH6wqd6RZqWukrhBrRPfe) | 2:47 | 2020-10-13 |  |
 | [Desdemona](https://open.spotify.com/track/7FezHxN3JiG6lK7L5Sl84M) | [The Alternate Routes](https://open.spotify.com/artist/2bIN86ZmfyWfkN9c3C3YXE), [Patty Griffin](https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy) | [A Sucker's Dream](https://open.spotify.com/album/69e9cBeYvuAFXC1iaT8T7H) | 5:54 | 2020-10-13 |  |
@@ -38,7 +39,8 @@
 | [For The Turnstiles](https://open.spotify.com/track/7kpGyXljXAINZnybcsNRkn) | [The Be Good Tanyas](https://open.spotify.com/artist/37PywjKNsxHji5F9eFODF2) | [Hello Love](https://open.spotify.com/album/7vmiUDLIp6w1s4NYDAWjej) | 4:26 | 2020-10-13 |  |
 | [For The Turnstiles](https://open.spotify.com/track/0ShbiDJGWaMyTimkimVohJ) | [The Be Good Tanyas](https://open.spotify.com/artist/37PywjKNsxHji5F9eFODF2) | [Hello Love](https://open.spotify.com/album/1JKxrLcm3e2T9AiWMA18c2) | 4:26 | 2020-10-13 | 2022-07-29 |
 | [Furr](https://open.spotify.com/track/6n1zT8W5EaIYvWIT2DyROL) | [Blitzen Trapper](https://open.spotify.com/artist/72XY3HrDdFfZXNZFCT9Zh1) | [Furr](https://open.spotify.com/album/2X5LfrkRtEik2jGgaDDRMO) | 4:07 | 2020-10-13 | 2022-07-29 |
-| [Furr](https://open.spotify.com/track/2fgbsGWU2Dum08uifQHhiB) | [Blitzen Trapper](https://open.spotify.com/artist/72XY3HrDdFfZXNZFCT9Zh1) | [Furr](https://open.spotify.com/album/2DyjbFqAX5Yxoh3EFMMXh7) | 4:07 | 2020-10-13 |  |
+| [Furr](https://open.spotify.com/track/2fgbsGWU2Dum08uifQHhiB) | [Blitzen Trapper](https://open.spotify.com/artist/72XY3HrDdFfZXNZFCT9Zh1) | [Furr](https://open.spotify.com/album/2DyjbFqAX5Yxoh3EFMMXh7) | 4:07 | 2020-10-13 | 2022-11-12 |
+| [Furr](https://open.spotify.com/track/5yI3EfQFC9vU3eMuvo9LbO) | [Blitzen Trapper](https://open.spotify.com/artist/72XY3HrDdFfZXNZFCT9Zh1) | [Furr \(10th Anniversary Deluxe Edition\)](https://open.spotify.com/album/1SOFyqJwYjVaxoKuDTlb9D) | 4:07 | 2020-10-13 |  |
 | [Gathering Flowers For The Master's Bouquet](https://open.spotify.com/track/0dA2DNenFzwMkSCyTL3wnb) | [Blood Oranges](https://open.spotify.com/artist/4u4wxGuvHyV56OlAKesNNC) | [The Slaughter Rule \(Original Movie Soundtrack\)](https://open.spotify.com/album/7FE8uV5jYFd5OiFWiKIBDU) | 4:40 | 2020-10-13 |  |
 | [Guns of Umpqua](https://open.spotify.com/track/45SUewgCOLuDxdGnfhXHHV) | [Drive\-By Truckers](https://open.spotify.com/artist/1rXr1ZnvbRoYBaedIl9v4v) | [American Band](https://open.spotify.com/album/0TbtGujCU6nlT2e2qnJVcs) | 3:51 | 2020-10-13 |  |
 | [Guns Of Umpqua](https://open.spotify.com/track/4iG03eGYR0liflIrFVj6Zf) | [Drive\-By Truckers](https://open.spotify.com/artist/1rXr1ZnvbRoYBaedIl9v4v) | [American Band](https://open.spotify.com/album/43EtynQuS3r5afZnSY1sYb) | 3:51 | 2020-10-13 | 2022-07-29 |

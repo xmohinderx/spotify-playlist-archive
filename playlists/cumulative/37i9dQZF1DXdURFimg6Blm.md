@@ -4,7 +4,7 @@
 
 > Dance tracks for a big workout.
 
-336 songs - 16 hr 57 min - [published](https://open.spotify.com/playlist/6mUtN4cMwDhmgdGpsWc2qP)
+337 songs - 16 hr 59 min - [published](https://open.spotify.com/playlist/6mUtN4cMwDhmgdGpsWc2qP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [Horizon](https://open.spotify.com/track/5TYxn30EokgCbHXdr0fp8M) | [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK) | [Horizon](https://open.spotify.com/album/6YXuJbuPH2EODwWt5LSWQa) | 3:00 | 2022-01-07 | 2022-03-12 |
 | [Hot Air Balloon](https://open.spotify.com/track/41GfuxQ04frU1uDO5IzvuQ) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7) | [Hot Air Balloon](https://open.spotify.com/album/6EJ1P7VMwVUDyexKyA2X1W) | 2:53 | 2022-01-07 | 2022-04-13 |
 | [Hot In It](https://open.spotify.com/track/3Z7CaxQkqbIs1rewKi6v4W) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Hot In It](https://open.spotify.com/album/6R7Yy0sY9N8PNUhseegr2Q) | 2:09 | 2022-07-01 |  |
+| [Hungry \(For Love\)](https://open.spotify.com/track/4Uz7te06snSlkmcIwwAvkw) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Hungry \(For Love\)](https://open.spotify.com/album/2VhVESPvETnPjoM9XOoeRA) | 2:09 | 2022-11-11 |  |
 | [Hurricane](https://open.spotify.com/track/0iVkWge9ytV4Scgy2hQ2za) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Hurricane](https://open.spotify.com/album/06J9dABYtcM4blnT4cIpsS) | 2:27 | 2022-01-07 | 2022-05-07 |
 | [I Came to Dance](https://open.spotify.com/track/5KsqavNwpQsiqzlkW2r0aI) | [Sugar Jesus](https://open.spotify.com/artist/1cdXZUfRhXZ8DnwMV4CcS5), [Felix Samuel](https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK), [John Skyfield](https://open.spotify.com/artist/6G8Vv979uOK1e7ZBIX2rzp) | [I Came to Dance](https://open.spotify.com/album/2s2ODo85fLa64dcBRBT7ps) | 2:25 | 2022-01-21 | 2022-04-16 |
 | [I Could Be The One \(Avicii Vs\. Nicky Romero\) \- Radio Edit](https://open.spotify.com/track/591nHHHzZl1NLt9PMKpinM) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [I Could Be The One \[Avicii vs Nicky Romero\]](https://open.spotify.com/album/292ltz2MxXuFZw9FaEbaZ3) | 3:28 | 2022-04-01 | 2022-04-16 |
@@ -267,7 +268,7 @@
 | [Safe With Me](https://open.spotify.com/track/1DkbynNilJKbe7V57omrK7) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Drew Love](https://open.spotify.com/artist/76yeOnINtQSXyoEHbkYmtY) | [Safe With Me](https://open.spotify.com/album/2UIzwfd7Fzclt3YbY5MxCf) | 2:29 | 2022-01-07 | 2022-03-12 |
 | [Safe With Me \(feat\. Luma\)](https://open.spotify.com/track/1cfY8NzqmmZgo9aLqAyY4c) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [Soar](https://open.spotify.com/artist/3HCdCKVvXJakGRbVRO5OTa), [Luma](https://open.spotify.com/artist/29siAJ78u7y79BYOyh0lbp) | [Safe With Me \(feat\. Luma\)](https://open.spotify.com/album/3c17SBEmVqOJdo0uzEiu6A) | 4:49 | 2022-01-07 | 2022-04-16 |
 | [Salvation](https://open.spotify.com/track/67RXcunSfFbRKLxo3JjlPs) | [Maur](https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Salvation](https://open.spotify.com/album/6fe0sr7yIir3zRL8ZRAc2R) | 3:07 | 2022-05-27 | 2022-09-10 |
-| [Satisfaction](https://open.spotify.com/track/6k5DKQMC96daK6fSvAxdQv) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6) | [Satisfaction](https://open.spotify.com/album/62hlQlBO241sKpVTPgwAOi) | 2:35 | 2022-10-14 |  |
+| [Satisfaction](https://open.spotify.com/track/6k5DKQMC96daK6fSvAxdQv) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6) | [Satisfaction](https://open.spotify.com/album/62hlQlBO241sKpVTPgwAOi) | 2:35 | 2022-10-14 | 2022-11-12 |
 | [Savage](https://open.spotify.com/track/76A1RRDEyHKtmV3Vh6PeVN) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Savage](https://open.spotify.com/album/6xBP3A3LFhaVl1Hb7XBCsM) | 2:47 | 2022-04-29 |  |
 | [Save Me](https://open.spotify.com/track/4HgPdfsZJa23uioLcQOefo) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [Save Me](https://open.spotify.com/album/5jDl6mDA5gzgvzGyu7Twij) | 2:46 | 2022-05-13 | 2022-09-13 |
 | [Say Yeah](https://open.spotify.com/track/7diiW6RSbOz0o1P7BWGmut) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [Say Yeah](https://open.spotify.com/album/6tdaVrv380eGHJywX3dEOk) | 3:45 | 2022-01-21 | 2022-04-16 |

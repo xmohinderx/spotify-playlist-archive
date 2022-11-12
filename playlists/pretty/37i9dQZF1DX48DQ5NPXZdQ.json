@@ -1,12 +1,12 @@
 {
   "description": "Su m\u00fasica, como ellos, es eterna. En portada: Juan Gabriel",
-  "num_followers": 35621,
+  "num_followers": 35692,
   "original_name": "Inmortales de la Canci\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjYzNTgxMSwwMDAwMDAwMDE3ZjNkZWM1YjQwNDBkMmY4YWQwNmUyNTljNjRjZTVi",
+  "snapshot_id": "MTY2NjYzNTgxMSwwMDAwMDAwMGMzNDViM2Y1NjIwNTc0YTkxYzZjNzBmYjVhNTRlNjhj",
   "tracks": [
     {
       "added_at": "2022-10-24 18:23:31",
@@ -387,22 +387,6 @@
     {
       "added_at": "2022-10-24 18:23:31",
       "album": {
-        "name": "M\u00e1s All\u00e1 Del Sol",
-        "url": "https://open.spotify.com/album/2xCw6KdAxnF1OBvsrLbKDM"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 159172,
-      "name": "Eso Y M\u00e1s",
-      "url": "https://open.spotify.com/track/7HW5tUjaKxBUamSi7nnzPt"
-    },
-    {
-      "added_at": "2022-10-24 18:23:31",
-      "album": {
         "name": "Canta En Espa\u00f1ol Con Los Panchos",
         "url": "https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w"
       },
@@ -491,22 +475,6 @@
       "duration_ms": 195506,
       "name": "Lamento De Amor",
       "url": "https://open.spotify.com/track/6pYz8bkZvf84S49VWLRHah"
-    },
-    {
-      "added_at": "2022-10-24 18:23:31",
-      "album": {
-        "name": "Coleccion Original",
-        "url": "https://open.spotify.com/album/3LuHAtGWeuUngugaJHkZ9K"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Alfredo Jimenez",
-          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
-        }
-      ],
-      "duration_ms": 144653,
-      "name": "Si Nos Dejan",
-      "url": "https://open.spotify.com/track/3nuM254L7Ldb2n6UvY7JCK"
     },
     {
       "added_at": "2022-10-24 18:23:31",
@@ -639,6 +607,22 @@
     {
       "added_at": "2022-10-24 18:23:31",
       "album": {
+        "name": "Greatest Hits - We Will Rock You Edition",
+        "url": "https://open.spotify.com/album/4Qcy60knPmSHjWmOsVVwhL"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 163306,
+      "name": "Crazy Little Thing Called Love - Remastered",
+      "url": "https://open.spotify.com/track/4hNKm844QktyaKubGM8Ggk"
+    },
+    {
+      "added_at": "2022-10-24 18:23:31",
+      "album": {
         "name": "En Bellas Artes 50 Aniversario",
         "url": "https://open.spotify.com/album/7rTITZzdauZDkb9dspUzlx"
       },
@@ -651,6 +635,38 @@
       "duration_ms": 151306,
       "name": "La \u00daltima Noche",
       "url": "https://open.spotify.com/track/2oCpyl3GrXVWVrOx2OLgmu"
+    },
+    {
+      "added_at": "2022-10-24 18:23:31",
+      "album": {
+        "name": "Festej\u00e1 con ritmos latinos",
+        "url": "https://open.spotify.com/album/3nnjSxO8sva22SJQgOwKYL"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 278866,
+      "name": "La Vida Es Un Carnaval",
+      "url": "https://open.spotify.com/track/7HL0P35A96wkutKopiovaX"
+    },
+    {
+      "added_at": "2022-10-24 18:23:31",
+      "album": {
+        "name": "Lo Mejor de Julio Jaramillo",
+        "url": "https://open.spotify.com/album/1vmIQyW1o8tKb4vtBefwi7"
+      },
+      "artists": [
+        {
+          "name": "Julio Jaramillo",
+          "url": "https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8"
+        }
+      ],
+      "duration_ms": 195926,
+      "name": "Nuestro Juramento",
+      "url": "https://open.spotify.com/track/14g4Oi7wtimsoJYLjtiCa9"
     },
     {
       "added_at": "2022-10-24 18:23:31",
@@ -687,18 +703,18 @@
     {
       "added_at": "2022-10-24 18:23:31",
       "album": {
-        "name": "Greatest Hits - We Will Rock You Edition",
-        "url": "https://open.spotify.com/album/4Qcy60knPmSHjWmOsVVwhL"
+        "name": "\u00c9xitos de la Salsa",
+        "url": "https://open.spotify.com/album/4dE8XD9VBh3UDOio2LsqKc"
       },
       "artists": [
         {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
         }
       ],
-      "duration_ms": 163306,
-      "name": "Crazy Little Thing Called Love - Remastered",
-      "url": "https://open.spotify.com/track/4hNKm844QktyaKubGM8Ggk"
+      "duration_ms": 622520,
+      "name": "El Cantante",
+      "url": "https://open.spotify.com/track/166cUvnNBa5ZoFWLIsLZfU"
     },
     {
       "added_at": "2022-10-24 18:23:31",
@@ -719,66 +735,18 @@
     {
       "added_at": "2022-10-24 18:23:31",
       "album": {
-        "name": "Lo Mejor de Julio Jaramillo",
-        "url": "https://open.spotify.com/album/1vmIQyW1o8tKb4vtBefwi7"
+        "name": "Salsa Hits Vol. 1",
+        "url": "https://open.spotify.com/album/09MwMLWF7NltEqilzZQYYw"
       },
       "artists": [
         {
-          "name": "Julio Jaramillo",
-          "url": "https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8"
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
         }
       ],
-      "duration_ms": 195926,
-      "name": "Nuestro Juramento",
-      "url": "https://open.spotify.com/track/14g4Oi7wtimsoJYLjtiCa9"
-    },
-    {
-      "added_at": "2022-10-24 18:23:31",
-      "album": {
-        "name": "Ricardo Gonzalez \"Cepill\u00edn\"",
-        "url": "https://open.spotify.com/album/51eGlVyvZn3ZRW9mIG5Scs"
-      },
-      "artists": [
-        {
-          "name": "Cepillin",
-          "url": "https://open.spotify.com/artist/0GFoaoQJa0vY4qU3IL0aBZ"
-        }
-      ],
-      "duration_ms": 149681,
-      "name": "Amor Chiquito",
-      "url": "https://open.spotify.com/track/7CizjeYnfea12IJX0x4BML"
-    },
-    {
-      "added_at": "2022-10-24 18:23:31",
-      "album": {
-        "name": "\u00c9xitos de la Salsa",
-        "url": "https://open.spotify.com/album/4dE8XD9VBh3UDOio2LsqKc"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 622520,
-      "name": "El Cantante",
-      "url": "https://open.spotify.com/track/166cUvnNBa5ZoFWLIsLZfU"
-    },
-    {
-      "added_at": "2022-10-24 18:23:31",
-      "album": {
-        "name": "Lo Mejor De Carlos Gardel",
-        "url": "https://open.spotify.com/album/09TK8ye7vqvteQc4A59CwL"
-      },
-      "artists": [
-        {
-          "name": "Carlos Gardel",
-          "url": "https://open.spotify.com/artist/05Q9xndTxhXhD5trpmTtfU"
-        }
-      ],
-      "duration_ms": 203885,
-      "name": "El Dia Que Me Quieras",
-      "url": "https://open.spotify.com/track/5f1RX31fGl8upawhonitG9"
+      "duration_ms": 274018,
+      "name": "Oye C\u00f3mo Va",
+      "url": "https://open.spotify.com/track/0FuISXHRJrqpNAx7Unvn9D"
     },
     {
       "added_at": "2022-10-24 18:23:31",
@@ -799,34 +767,66 @@
     {
       "added_at": "2022-10-24 18:23:31",
       "album": {
-        "name": "Festej\u00e1 con ritmos latinos",
-        "url": "https://open.spotify.com/album/3nnjSxO8sva22SJQgOwKYL"
+        "name": "Lo Mejor De Carlos Gardel",
+        "url": "https://open.spotify.com/album/09TK8ye7vqvteQc4A59CwL"
       },
       "artists": [
         {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+          "name": "Carlos Gardel",
+          "url": "https://open.spotify.com/artist/05Q9xndTxhXhD5trpmTtfU"
         }
       ],
-      "duration_ms": 278866,
-      "name": "La Vida Es Un Carnaval",
-      "url": "https://open.spotify.com/track/7HL0P35A96wkutKopiovaX"
+      "duration_ms": 203885,
+      "name": "El Dia Que Me Quieras",
+      "url": "https://open.spotify.com/track/5f1RX31fGl8upawhonitG9"
     },
     {
       "added_at": "2022-10-24 18:23:31",
       "album": {
-        "name": "Salsa Hits Vol. 1",
-        "url": "https://open.spotify.com/album/09MwMLWF7NltEqilzZQYYw"
+        "name": "Mis Favoritas",
+        "url": "https://open.spotify.com/album/7zoWgM0MDVPFFxX1Fn69g5"
       },
       "artists": [
         {
-          "name": "Tito Puente",
-          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+          "name": "Jos\u00e9 Alfredo Jimenez",
+          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
         }
       ],
-      "duration_ms": 274018,
-      "name": "Oye C\u00f3mo Va",
-      "url": "https://open.spotify.com/track/0FuISXHRJrqpNAx7Unvn9D"
+      "duration_ms": 144386,
+      "name": "Si Nos Dejan",
+      "url": "https://open.spotify.com/track/60jflpTIoIoIsgXKSjTYAw"
+    },
+    {
+      "added_at": "2022-10-24 18:23:31",
+      "album": {
+        "name": "Ricardo Gonzalez \"Cepill\u00edn\"",
+        "url": "https://open.spotify.com/album/51eGlVyvZn3ZRW9mIG5Scs"
+      },
+      "artists": [
+        {
+          "name": "Cepillin",
+          "url": "https://open.spotify.com/artist/0GFoaoQJa0vY4qU3IL0aBZ"
+        }
+      ],
+      "duration_ms": 149681,
+      "name": "Amor Chiquito",
+      "url": "https://open.spotify.com/track/7CizjeYnfea12IJX0x4BML"
+    },
+    {
+      "added_at": "2022-10-24 18:23:31",
+      "album": {
+        "name": "Pedaleando un ratito",
+        "url": "https://open.spotify.com/album/2vMmB7QDAEd4xSNRY72v9L"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 159173,
+      "name": "Eso Y M\u00e1s",
+      "url": "https://open.spotify.com/track/1kmqX5Kr2QjUduxXicw0Gx"
     }
   ],
   "unique_name": "Inmortales de la Canci\u00f3n",

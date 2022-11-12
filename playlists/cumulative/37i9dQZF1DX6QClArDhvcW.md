@@ -4,7 +4,7 @@
 
 > Laid\-back beats for an easygoing morning.
 
-239 songs - 8 hr 50 min - [published](https://open.spotify.com/playlist/12agLavhB21B7hX1nj1r3c)
+247 songs - 9 hr 9 min - [published](https://open.spotify.com/playlist/12agLavhB21B7hX1nj1r3c)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,8 +95,11 @@
 | [i cannot believe my eyes](https://open.spotify.com/track/64ag5onD9UYygeni6UAIs6) | [skipweath](https://open.spotify.com/artist/74eByJRUsX1z9H2SvNgkfa) | [i cannot believe my eyes](https://open.spotify.com/album/7EQHbsS3gYzm223QQETZUn) | 2:33 | 2022-05-20 | 2022-09-17 |
 | [i moved yesterday](https://open.spotify.com/track/3tfgAy6ByGnENx1ioCvY8N) | [frad](https://open.spotify.com/artist/1XLYJ9VzlgEpBdlkC4MhOL), [chio](https://open.spotify.com/artist/62yapIXWEg0Wx5zvYM4jLU) | [i moved yesterday](https://open.spotify.com/album/0apurRD8BbhrffPPGRDqjo) | 2:08 | 2022-05-20 |  |
 | [I've Landed](https://open.spotify.com/track/00Io5uAVAiQrBrRDRp9eVD) | [Momentology](https://open.spotify.com/artist/3Hg0Oo6hrlDBYcWqQtTTNr) | [I've Landed](https://open.spotify.com/album/6JyGARDuGP7ccH6R5Q4Ft6) | 2:48 | 2022-09-30 |  |
+| [Imagine Us There](https://open.spotify.com/track/4CsaHdE3Lcloc9pxIYCtc8) | [vhskid.](https://open.spotify.com/artist/7jqvj8jfIMreNLAN8DJWlq) | [Imagine Us There](https://open.spotify.com/album/2p9hsK7n8nTSVZZQ9RXr8A) | 2:31 | 2022-11-11 |  |
 | [Imposter](https://open.spotify.com/track/2xCYIs8abLgrgm47SFMlib) | [Peter Kind](https://open.spotify.com/artist/1xMxQQ71TIGQgzH4NY0ECM) | [Imposter](https://open.spotify.com/album/5SZYGrc8kIwaq1NdEZbdS0) | 2:10 | 2022-05-20 |  |
+| [In Between](https://open.spotify.com/track/020iEfBNomft0siCh50ilV) | [Claptu](https://open.spotify.com/artist/3rLOKzrmb7njqRKYSJgfY7), [Beatmund Noise](https://open.spotify.com/artist/5ANEtiXOfqk6pGqOHj2suV) | [In Between](https://open.spotify.com/album/075iJR8AXb3Xtg4Cp9LUA1) | 2:22 | 2022-11-11 |  |
 | [In Bloom](https://open.spotify.com/track/3fAKzyoj5L5jfAMsXq1joE) | [ENRA](https://open.spotify.com/artist/1jDbZQQs4VNtiC4AerpIg4), [Sleepermane](https://open.spotify.com/artist/4gGsx7blPpBj7gKGmDBEfI) | [In Bloom](https://open.spotify.com/album/3FpzqCIzD3hv1vkgqALa3e) | 2:18 | 2022-05-20 |  |
+| [In His Hands](https://open.spotify.com/track/5c0x1OUR0CxdrkuYTVruvB) | [Just Derrick](https://open.spotify.com/artist/7DNcVzKkSB9PhdvHwl9tpd) | [In His Hands](https://open.spotify.com/album/0hkZvsnTjDDHH7tMzeTKTy) | 3:52 | 2022-11-11 |  |
 | [in the blink of an eye](https://open.spotify.com/track/5MBfOXuYBd43bQseqvL2yo) | [Summer Clarke](https://open.spotify.com/artist/5VJreBDjx8zamtY3YyZyMr) | [in the blink of an eye](https://open.spotify.com/album/1ckuvr9YJHuv0IleVxJLkd) | 2:27 | 2022-05-20 | 2022-10-29 |
 | [Italian Breakfast](https://open.spotify.com/track/0Yi2QUB3BHX3Qsh1RZoN5f) | [Humble Bumble](https://open.spotify.com/artist/40munWRpLLLiDwly8t5Obf) | [Italian Breakfast](https://open.spotify.com/album/4PWamP1qmYWTlkpvScXxLp) | 2:07 | 2022-09-30 |  |
 | [Jazz Cafe](https://open.spotify.com/track/2OhZ1k6PhtBvTJtxyH49lp) | [BUTTER](https://open.spotify.com/artist/2dsmILbZhqhou4oj1qUDm1) | [Jazz Cafe](https://open.spotify.com/album/45Xog21DpeQCkqbLYpovRH) | 1:12 | 2022-06-24 |  |
@@ -119,6 +122,7 @@
 | [life is a balloon](https://open.spotify.com/track/2GoAhMIvnZ1n7ZEqj7jrAa) | [frek!](https://open.spotify.com/artist/00vQreQBu9wC4dQCmHWJin) | [comic sans](https://open.spotify.com/album/5pG11FB3kK2GNbFpW4w6Vu) | 1:44 | 2022-05-20 |  |
 | [light](https://open.spotify.com/track/0gVICqppHibNGhptGLJ0W5) | [créature sonore](https://open.spotify.com/artist/1oex6GCeWzSxHupAa6Fbnb) | [light](https://open.spotify.com/album/5mSh2CSilJ2RE8nkA80nVr) | 1:25 | 2022-07-29 |  |
 | [Lonesome](https://open.spotify.com/track/4lV7chcdj3OH3Hg97L7Rli) | [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB) | [Lonesome](https://open.spotify.com/album/5iO1n0DfhbvzySEYCGZqyn) | 2:35 | 2022-05-20 |  |
+| [lost love.](https://open.spotify.com/track/6lMyaA24CjS5PvdOzYjCl3) | [KhloeAutumn](https://open.spotify.com/artist/5CS3nzAktIkqgSL0IgqyLy) | [lost love.](https://open.spotify.com/album/4QrgErJxylEf8TSt8ylZRX) | 1:00 | 2022-11-11 |  |
 | [lost memories](https://open.spotify.com/track/1dpmFHAy4bxWpWjOJPt33n) | [minor5](https://open.spotify.com/artist/59n0ix9TW7WoF1LCr1og2g) | [lost memories](https://open.spotify.com/album/7xAPf47vM4zzTL2EPy8GHt) | 2:27 | 2022-05-20 | 2022-09-09 |
 | [Low\-Key Into You](https://open.spotify.com/track/2z4t24jysAzffGRI99idTW) | [Benjamin August](https://open.spotify.com/artist/5mYtzsopZvARbaLrR0puNS) | [Low\-Key Into You](https://open.spotify.com/album/0h51gXK0Oe3OyfHBt2sgxV) | 2:20 | 2022-05-20 |  |
 | [lucking out](https://open.spotify.com/track/6f8bZWdO64g2cgCJle01OD) | [late tripper](https://open.spotify.com/artist/6qAFdIh8283HnxwpcVa7yD) | [lucking out](https://open.spotify.com/album/0ESc7FdQlxeel0vvKVJkAa) | 2:13 | 2022-05-20 |  |
@@ -151,12 +155,14 @@
 | [No Spice](https://open.spotify.com/track/4CXxhPs3BHYbw1zpCxOt7E) | [Eazy Chilly](https://open.spotify.com/artist/5U8CoE6n8Qk0CamwlGzvUJ) | [Blue Days](https://open.spotify.com/album/17vgAGk55ehVmJvllHC7J0) | 1:45 | 2022-05-20 |  |
 | [no.2](https://open.spotify.com/track/1OM8kCT4sIrBDU0mFU6cUm) | [Horushi K](https://open.spotify.com/artist/0pOfzllQvQIJCr1zmKppfc) | [Pachong](https://open.spotify.com/album/1OZw6Dvy5YGWsmXx0HtM9Q) | 1:49 | 2022-05-20 |  |
 | [Noites Tranquilas](https://open.spotify.com/track/4XkpCHu3yq9fG22sFpYrxF) | [Jazzavelha](https://open.spotify.com/artist/2Rif6F63hq2L9p8DWkFq4k) | [Noites Tranquilas](https://open.spotify.com/album/3o1FqhlwHaUJVU74gdMcPC) | 2:03 | 2022-05-20 |  |
+| [Notification](https://open.spotify.com/track/27FbD1YqrxGg9zhSv3X91R) | [Laizman](https://open.spotify.com/artist/7IgCfXJ8DHWGTli0aDft56) | [Notification](https://open.spotify.com/album/33XIIDfqzpAOCLTobGaGdJ) | 2:38 | 2022-11-11 |  |
 | [NS\-10M](https://open.spotify.com/track/4PQmzve7LIaJ5IVr64bemX) | [Clique Epique](https://open.spotify.com/artist/42s4wWqRaDFw25sMxt0FsT) | [NS\-10M](https://open.spotify.com/album/0T41HfuaZn1KlgucVAf8rx) | 2:21 | 2022-05-20 |  |
 | [Ocean Drive](https://open.spotify.com/track/35ocNO8HJOYg9DUTxHY3CI) | [Daemon](https://open.spotify.com/artist/0diXRBzOdGZ4i0TKs8Xakh) | [Ocean Drive](https://open.spotify.com/album/7rSGnjAtzEK0aeI3oCi5az) | 2:58 | 2022-10-14 |  |
 | [Ophelia](https://open.spotify.com/track/3tZ9zFWeupwDORFgI0krgD) | [lilhugz](https://open.spotify.com/artist/3MjTMOiHklTmUksExsbTwq) | [Ophelia](https://open.spotify.com/album/7F5LJTqpYbuaxgmbORaJmc) | 2:40 | 2022-05-20 |  |
 | [overcast](https://open.spotify.com/track/5HhaJtn3ilA7rjQHctEI1y) | [Sophia Lopez](https://open.spotify.com/artist/6cgDJHmQSZ3o3jVAQA7lKp) | [overcast](https://open.spotify.com/album/65JKVp9Jb7pc9ickxQoEdF) | 2:00 | 2022-05-20 |  |
 | [Pass It On](https://open.spotify.com/track/6W14nPKn5Xro5bg98uTM33) | [Zen Park](https://open.spotify.com/artist/3XSqByZe2kuUAquw8seGD6) | [Pass It On](https://open.spotify.com/album/50qapmoJ4j60haCzDTp9hX) | 2:15 | 2022-05-20 |  |
 | [pEach cObbler](https://open.spotify.com/track/7nLZjRukkxR0WHv95DrnZX) | [aUra Lu](https://open.spotify.com/artist/2KF0lKsVByoJPAnLjby9ag) | [pEach cObbler](https://open.spotify.com/album/1jYX0kd0KX5wALVLaiur3i) | 1:50 | 2022-05-20 |  |
+| [peg your bardon](https://open.spotify.com/track/00sc16mjcSsbWxoWqwt2nu) | [fresh from the oven](https://open.spotify.com/artist/6glzNO8EqQsWlQfmxnwK36) | [peg your bardon](https://open.spotify.com/album/6jgaFaSDSkS4bUXx3Qu8ot) | 1:59 | 2022-11-11 |  |
 | [perception](https://open.spotify.com/track/6fVMTxRuHpBL5TwL71HL6R) | [cloudi](https://open.spotify.com/artist/64LHvgl55hJTLXtgaO454g) | [perception](https://open.spotify.com/album/4pMhm2IQ8ojjdvOPpaZA91) | 1:25 | 2022-05-20 |  |
 | [pet spider](https://open.spotify.com/track/7lcLYruqGRzJ9Je6Cwmujo) | [Lif Lof](https://open.spotify.com/artist/59klqOnyVLPI3Tyb5uy0zJ) | [pet spider](https://open.spotify.com/album/2MANZUjdHH4BoykEu4sv46) | 2:27 | 2022-08-05 | 2022-10-29 |
 | [Pillow Head](https://open.spotify.com/track/0ISbKdCQjZ3RYF30RBrCbY) | [Dreamy Vibes](https://open.spotify.com/artist/5md3j6tShlKtrcokmLIJJw) | [Pillow Head](https://open.spotify.com/album/30TMwmHW2rtrlqOFEapBSI) | 2:21 | 2022-05-20 |  |
@@ -187,11 +193,13 @@
 | [Side Focus](https://open.spotify.com/track/3bXjePJ9oGJJ4pt7U9yWw6) | [Blue Zombie](https://open.spotify.com/artist/0mDo37vCl8CEDEIhuBMr6x) | [Magic City](https://open.spotify.com/album/4v2xg0Vq1c9JHDwTygsHdN) | 1:55 | 2022-05-20 | 2022-09-09 |
 | [Silicon dreams](https://open.spotify.com/track/4dBQ9HuRLntPJrGJlYywEw) | [Goldie Caris](https://open.spotify.com/artist/5dRlh8hedI9NR7a6teu33k) | [Silicon dreams](https://open.spotify.com/album/5hdSFtpGyU8GvH0UWw4BWs) | 1:22 | 2022-09-30 |  |
 | [Silk Lips](https://open.spotify.com/track/26nnd4xKNuV4jXkr9fJkKc) | [Saif Amo](https://open.spotify.com/artist/0EtMAH16SljSdJ3DFy2pod) | [Silk Lips](https://open.spotify.com/album/3T1Kxwr9f5YRF7EPXIfqeV) | 2:07 | 2022-05-20 |  |
+| [Slow Dance](https://open.spotify.com/track/55khu0OQgoX1E0aVsrYQMU) | [Spade Brooks](https://open.spotify.com/artist/2GCSNNNTph8mnMlU40Q9ne) | [Night Shift](https://open.spotify.com/album/49uzwqjrLr6gS8KrNiBM4Y) | 1:44 | 2022-11-11 |  |
 | [So Unique](https://open.spotify.com/track/2pir3lGD2dNsBjPRCN5Xxt) | [Zho Zho](https://open.spotify.com/artist/1kmThtC0J9kzWqMy89sIyJ) | [Indigo Rum](https://open.spotify.com/album/73gM76gHJIEXqrY1idyLIG) | 2:39 | 2022-05-20 |  |
 | [Something To Sing About](https://open.spotify.com/track/42nEk1NmYLyftkrv1SNfWs) | [X84](https://open.spotify.com/artist/54gir5f5MoNobdGxTWrNy4) | [Something To Sing About](https://open.spotify.com/album/6ZK7xjavf50MFK7iPg27iG) | 2:44 | 2022-05-20 |  |
 | [Somewhere Away](https://open.spotify.com/track/68FMeTfkT6X2IfDJlpLwpz) | [Amess](https://open.spotify.com/artist/2lWv7a6ohSVtXArF7q4dWc) | [Somewhere Away](https://open.spotify.com/album/6TwJC9LpXYCswlkZPJ5Tbx) | 1:51 | 2022-05-20 | 2022-08-19 |
 | [Soul Kitchen](https://open.spotify.com/track/5rwkMQ0tfHdy7zIYDSoKAQ) | [Hi Hat Henry](https://open.spotify.com/artist/7tsp47BEDJSjYQB0YaDV52) | [Soul Kitchen](https://open.spotify.com/album/1ipcVG3TDzv8owuTVMu4tE) | 1:24 | 2022-05-20 | 2022-09-09 |
 | [Souvenir](https://open.spotify.com/track/5GFro8JfW7Scx4XsgS5e32) | [Koralle](https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h) | [Souvenir](https://open.spotify.com/album/6v0GUOWu4WAa4XGjSB5eYx) | 2:28 | 2022-05-20 |  |
+| [Street Lights](https://open.spotify.com/track/7xvsGtzRkHdmzNHv752hYj) | [Orangelo](https://open.spotify.com/artist/6rGGEz9rM3t9SeOvwLJNIT) | [Street Lights](https://open.spotify.com/album/1UnIsZS8dOSJbrWXUTKYH9) | 2:42 | 2022-11-11 |  |
 | [sunday morning](https://open.spotify.com/track/7z5gGEAAV7dT8sEfxQ8wsH) | [Radiocosmo](https://open.spotify.com/artist/3HvDYPOZuI4QsWFCE6exMf) | [sunday morning](https://open.spotify.com/album/2szTk6tCvr5Dbm3iO2rD1r) | 1:58 | 2022-10-28 |  |
 | [Sunday Morning](https://open.spotify.com/track/51dFIbbopBc0U9dFRBAQGE) | [thebombaypanic](https://open.spotify.com/artist/6EjKzk1a3EbiXT2TwPYGVo) | [Sunday Morning](https://open.spotify.com/album/6JTn41nZOA1kLKHI47WFrS) | 2:42 | 2022-07-22 | 2022-09-17 |
 | [Sunday Vibe](https://open.spotify.com/track/2DkudyqbfyxWaHrsFVdcQg) | [Black Phaze](https://open.spotify.com/artist/4Xm7EYlYJm4EqciSxo5emO) | [Sunday Vibe](https://open.spotify.com/album/7u2zSSqdcVSt7jW0IYSF8x) | 2:18 | 2022-05-20 |  |

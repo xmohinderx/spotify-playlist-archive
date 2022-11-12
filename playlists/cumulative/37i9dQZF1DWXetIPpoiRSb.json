@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "The freshest pop sounds. Cover: Arden Jones",
+  "description": "The freshest pop sounds. Cover: Ava Max",
   "name": "New Pop Revolution",
   "published_playlist_ids": [
     "5O9jjDsmvcXgHKwc2ajhjj"
@@ -185,7 +185,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 185875,
       "name": "2 Die 4",
       "url": "https://open.spotify.com/track/3QK2bbLCTGoFXFt64e5TBY"
@@ -1563,7 +1563,7 @@
       ],
       "date_added": "2022-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 204046,
       "name": "Before I Go",
       "url": "https://open.spotify.com/track/3IcTA0EbqrgXbhAoY0b98r"
@@ -1675,7 +1675,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 181333,
       "name": "better",
       "url": "https://open.spotify.com/track/3Tk68CRE6i9sUl7r8amGOc"
@@ -5628,6 +5628,24 @@
     },
     {
       "album": {
+        "name": "Georgia",
+        "url": "https://open.spotify.com/album/5PLNgWXs7Hq6RHgFetDAtJ"
+      },
+      "artists": [
+        {
+          "name": "Thomas Headon",
+          "url": "https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174411,
+      "name": "Georgia",
+      "url": "https://open.spotify.com/track/7d4lvIqCYS2DGTCZAjmCHu"
+    },
+    {
+      "album": {
         "name": "Get To Know Me First",
         "url": "https://open.spotify.com/album/3agkwlYcrKO8FjWzCxGKZU"
       },
@@ -7483,7 +7501,7 @@
       ],
       "date_added": "2022-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 239706,
       "name": "I Should Be a Bird",
       "url": "https://open.spotify.com/track/0ZRZeLNAKPHBwkalUqW1xz"
@@ -9773,7 +9791,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 160385,
       "name": "Monster",
       "url": "https://open.spotify.com/track/1PRA8nmdhUV7dOF6pNqsdz"
@@ -10589,6 +10607,28 @@
       "duration_ms": 165076,
       "name": "nostalgic (luvsick)",
       "url": "https://open.spotify.com/track/1DQj87dLf0PPrpEjvBgHXP"
+    },
+    {
+      "album": {
+        "name": "Not Alone (from Devotion)",
+        "url": "https://open.spotify.com/album/0Wzpt98v7378EqKu3NlONg"
+      },
+      "artists": [
+        {
+          "name": "Joe Jonas",
+          "url": "https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251481,
+      "name": "Not Alone - from Devotion",
+      "url": "https://open.spotify.com/track/6h6TV778sDIHTmx6iaZvZu"
     },
     {
       "album": {
@@ -13003,7 +13043,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 163759,
       "name": "Smoke Slow",
       "url": "https://open.spotify.com/track/4sEN7hRcdfzDpk4wUG47qO"
@@ -13423,6 +13463,24 @@
       "duration_ms": 160292,
       "name": "Sorry Not Sorry",
       "url": "https://open.spotify.com/track/41ojBJmLyjj9l1e0iLK98X"
+    },
+    {
+      "album": {
+        "name": "Sorry To Me Too",
+        "url": "https://open.spotify.com/album/6tIdThlPKMAhHuB3wKSuNS"
+      },
+      "artists": [
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209596,
+      "name": "Sorry To Me Too",
+      "url": "https://open.spotify.com/track/4SDccIA3pVkjaZsivDPaV5"
     },
     {
       "album": {
@@ -15484,6 +15542,24 @@
     },
     {
       "album": {
+        "name": "ugly",
+        "url": "https://open.spotify.com/album/0ZRgqGpF70vz7TZzwJyPa4"
+      },
+      "artists": [
+        {
+          "name": "Dylan Conrique",
+          "url": "https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180626,
+      "name": "ugly",
+      "url": "https://open.spotify.com/track/6BzSgXgzHxqPbGEb7aKAXb"
+    },
+    {
+      "album": {
         "name": "Everything I Didn\u2019t Say",
         "url": "https://open.spotify.com/album/7sb53RUF8x70PzjPmDxF0Q"
       },
@@ -15904,6 +15980,24 @@
     },
     {
       "album": {
+        "name": "Weapons",
+        "url": "https://open.spotify.com/album/2tjMJuZqFVUqHrvXTkhZzO"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151592,
+      "name": "Weapons",
+      "url": "https://open.spotify.com/track/21JOYA45JFkrOjqNwI6g8E"
+    },
+    {
+      "album": {
         "name": "Weekend Vibe",
         "url": "https://open.spotify.com/album/1TYoCRyxN8wUMNuQ7nLUJR"
       },
@@ -15919,6 +16013,24 @@
       "duration_ms": 166909,
       "name": "Weekend Vibe",
       "url": "https://open.spotify.com/track/5c0lWlmIyCq7hzBhpZasYL"
+    },
+    {
+      "album": {
+        "name": "welcome to my life",
+        "url": "https://open.spotify.com/album/1KMdePaDf6qQcMiWVSQ62E"
+      },
+      "artists": [
+        {
+          "name": "Izzi De-Rosa",
+          "url": "https://open.spotify.com/artist/3Z6QJOLlIS8vdKV4f3jc6g"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135644,
+      "name": "welcome to my life",
+      "url": "https://open.spotify.com/track/19WPwFCDUPdie3IJhv615s"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Listen to the top Christian and worship hits of 2022 featuring Hillsong Worship, Maverick City, Kari Jobe, Chris Tomlin and more\.  Cover: Brooke Ligertwood
 
-214 songs - 20 hr 12 min - [published](https://open.spotify.com/playlist/6X7c0KxMq4eDep6Ky35UDy)
+216 songs - 20 hr 29 min - [published](https://open.spotify.com/playlist/6X7c0KxMq4eDep6Ky35UDy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,8 @@
 | [Only Jesus](https://open.spotify.com/track/5xMD8CYZ9VbQS43Yr8JlFC) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD), [Kirby Kaple](https://open.spotify.com/artist/54P5WwDNRFfSzPEZ7p6Io1), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [Only Jesus](https://open.spotify.com/album/3UnE167OVsZRrpookBftI5) | 10:24 | 2022-10-21 |  |
 | [Only You Are \- Live](https://open.spotify.com/track/0H4Xz9DZnvzTMtM52DQBhS) | [29:11 Worship](https://open.spotify.com/artist/2PNEy4Ho4xAIAkX63GBULX), [Zion Rempel](https://open.spotify.com/artist/05Z69sozelP8QXh3nS5Aop), [Justice Couch](https://open.spotify.com/artist/6H9cTjPuW64PRB8qghJx3p) | [Say It Again \(Live\)](https://open.spotify.com/album/4gJtEz4RnbYPipW6Exk9tU) | 6:38 | 2022-09-23 |  |
 | [Our God](https://open.spotify.com/track/40lKptao1hxVqA7fd1OOGp) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [And If Our God Is For Us...](https://open.spotify.com/album/2xwFfH8fO1MRmWZbNKZVqt) | 4:45 | 2022-05-27 | 2022-09-30 |
+| [People Get Ready \- Live](https://open.spotify.com/track/3pW2qc66ssof8KCfnOdLZM) | [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D), [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [People Get Ready \(Live\)](https://open.spotify.com/album/2FrEGPZMpthxbBPoiTtlGO) | 5:57 | 2022-11-11 |  |
+| [Pour My Love On You](https://open.spotify.com/track/0THyR6FIUIrWVOQIYePq2p) | [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5), [Jonathan Lewis](https://open.spotify.com/artist/0yw87LS4yMQ6WhI2pZAPRY) | [Moments: Near 007](https://open.spotify.com/album/4WAhiiG3HkSMh7OvFMGqRA) | 11:31 | 2022-11-11 |  |
 | [Promises](https://open.spotify.com/track/3wkcyREQrVVDOIUjx1eZ1W) | [Maranatha! Music](https://open.spotify.com/artist/67OFzndMlzj7cDF2BqnwYe) | [Promises](https://open.spotify.com/album/0Aq2RVdHV4pzxDTNi3UP7b) | 4:47 | 2022-02-17 |  |
 | [Pursuit \(As The Deer\) \- Live](https://open.spotify.com/track/64uiNB4EjCTBD9PzYEhuUa) | [Citipointe Worship](https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2), [Chardon Lewis](https://open.spotify.com/artist/45LYhTlK3RpgFCIvO8fMcx) | [Pursuit \(As The Deer\) \[Live\]](https://open.spotify.com/album/3zhZEfigz0EQOISW37bx2F) | 6:14 | 2022-10-31 |  |
 | [Raise A Hallelujah \- Live From Passion 2020](https://open.spotify.com/track/7GT8eex9MR0kW80XSMYlYg) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Brett Younker](https://open.spotify.com/artist/1bv56110xRuPw0V8YaWiM5) | [Roar \(Live From Passion 2020\)](https://open.spotify.com/album/3TlEGcbneZP4tE2V0dn1em) | 5:39 | 2022-02-17 |  |

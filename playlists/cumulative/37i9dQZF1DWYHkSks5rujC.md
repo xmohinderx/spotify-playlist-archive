@@ -4,7 +4,7 @@
 
 > A journey through The Beatles' career.
 
-93 songs - 4 hr 25 min - [published](https://open.spotify.com/playlist/2vH7QFejVO1fA3pMsde2oG)
+95 songs - 4 hr 32 min - [published](https://open.spotify.com/playlist/2vH7QFejVO1fA3pMsde2oG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [Can't Buy Me Love \- Remastered 2009](https://open.spotify.com/track/3SdingSsFcZDZAyvcJbgAw) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [A Hard Day's Night \(Remastered\)](https://open.spotify.com/album/6wCttLq0ADzkPgtRnUihLV) | 2:11 | 2022-04-12 |  |
 | [Can't Buy Me Love \- Remastered 2015](https://open.spotify.com/track/7pQAq14Z73YUFMtxCyt0bG) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [1 \(Remastered\)](https://open.spotify.com/album/5ju5Ouzan3QwXqQt1Tihbh) | 2:11 | 2019-06-28 | 2022-07-29 |
 | [Come Together \- Remastered](https://open.spotify.com/track/0MKqeOVdZcUFGJvWpGCKbG) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered\)](https://open.spotify.com/album/2Pqkn9Dq2DFtdfkKAeqgMd) | 4:19 | 2019-06-28 | 2022-07-29 |
-| [Come Together \- Remastered 2009](https://open.spotify.com/track/2EqlS6tkEnglzr7tkKAAYD) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered\)](https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN) | 4:19 | 2022-04-12 |  |
+| [Come Together \- Remastered 2009](https://open.spotify.com/track/2EqlS6tkEnglzr7tkKAAYD) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered\)](https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN) | 4:19 | 2022-04-12 | 2022-11-12 |
+| [Come Together \- Remastered 2015](https://open.spotify.com/track/3CEFDHJSiERlfwRujZ1CkJ) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [1 \(Remastered\)](https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh) | 4:18 | 2022-04-12 |  |
 | [Dear Prudence \- 2018 Mix](https://open.spotify.com/track/21pC0RPgkThjHlwpmCtxGb) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles](https://open.spotify.com/album/1WMVvswNzB9i2UMh9svso5) | 3:54 | 2019-06-28 |  |
 | [Drive My Car \- Remastered](https://open.spotify.com/track/02wfEb4PyvM4XvsqDNtqVm) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Rubber Soul \(Remastered\)](https://open.spotify.com/album/3OdI6e43crvyAHhaqpxSyz) | 2:28 | 2019-06-28 | 2022-07-29 |
 | [Drive My Car \- Remastered 2009](https://open.spotify.com/track/06ypiqmILMdVeaiErMFA91) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Rubber Soul \(Remastered\)](https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm) | 2:28 | 2022-04-12 |  |
@@ -71,8 +72,9 @@
 | [Rock And Roll Music \- Remastered 2009](https://open.spotify.com/track/7Ho3T7ERfooiAfvODaMQ2N) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Beatles For Sale \(Remastered\)](https://open.spotify.com/album/1vANZV20H5B4Fk6yf7Ot9a) | 2:31 | 2022-04-12 |  |
 | [Roll Over Beethoven \- Remastered](https://open.spotify.com/track/5cRyBkxNi0EWEY6fZyPWnh) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [With The Beatles \(Remastered\)](https://open.spotify.com/album/3nkEsxmIX0zRNXGAexaHAn) | 2:45 | 2019-06-28 | 2022-07-29 |
 | [Roll Over Beethoven \- Remastered 2009](https://open.spotify.com/track/3idqWaBn3mRdsIodCU6uBi) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [With The Beatles \(Remastered\)](https://open.spotify.com/album/1aYdiJk6XKeHWGO3FzHHTr) | 2:45 | 2022-04-12 |  |
-| [She Loves You \- Mono / Remastered](https://open.spotify.com/track/6nEkxYIEnrbYH7h1hJ8Xn6) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [1 \(Remastered\)](https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh) | 2:20 | 2022-04-12 |  |
+| [She Loves You \- Mono / Remastered](https://open.spotify.com/track/6nEkxYIEnrbYH7h1hJ8Xn6) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [1 \(Remastered\)](https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh) | 2:20 | 2022-04-12 | 2022-11-12 |
 | [She Loves You \- Mono / Remastered](https://open.spotify.com/track/7zmMlHeeN2DW8D8aKQYC0i) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles 1962 \- 1966 \(Remastered\)](https://open.spotify.com/album/3rCxVyqwgJlkqL8z2dZdHh) | 2:22 | 2019-06-28 | 2022-07-29 |
+| [She Loves You \- Remastered 2009](https://open.spotify.com/track/48JM82SHQTBYkhEYhMaOaa) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Past Masters \(Vols\. 1 & 2 / Remastered\)](https://open.spotify.com/album/3GmCXW10kLxmZrEY0JpRlw) | 2:21 | 2022-04-12 |  |
 | [Something \- Remastered](https://open.spotify.com/track/7oSUp4yZ0FbuSvVmCxH2ty) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered\)](https://open.spotify.com/album/2Pqkn9Dq2DFtdfkKAeqgMd) | 3:02 | 2019-06-28 | 2022-07-29 |
 | [Something \- Remastered 2009](https://open.spotify.com/track/0pNeVovbiZHkulpGeOx1Gj) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered\)](https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN) | 3:02 | 2022-04-12 | 2022-11-11 |
 | [Something \- Remastered 2015](https://open.spotify.com/track/7mzNk14FElnA5DOKQyBrM0) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [1 \(Remastered\)](https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh) | 3:01 | 2022-04-12 |  |

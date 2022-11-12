@@ -2618,6 +2618,24 @@
     },
     {
       "album": {
+        "name": "Zamba de los yuyos",
+        "url": "https://open.spotify.com/album/6s7uk19jxa0drzsviWj3ih"
+      },
+      "artists": [
+        {
+          "name": "Gauchos Of The Pampa",
+          "url": "https://open.spotify.com/artist/3rinfPP8tgOSDHnmmfEWCN"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256124,
+      "name": "Zamba de los yuyos",
+      "url": "https://open.spotify.com/track/7ipuwOjqoLy5hyAEGSMZj5"
+    },
+    {
+      "album": {
         "name": "Zapateo",
         "url": "https://open.spotify.com/album/3e5YZATI5VXN1UCKbi3a60"
       },

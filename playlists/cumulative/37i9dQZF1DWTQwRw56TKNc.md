@@ -4,7 +4,7 @@
 
 > Relax with these timeless tunes\. Cover: John Denver
 
-136 songs - 8 hr 25 min - [published](https://open.spotify.com/playlist/32lp5vkX1hCFRdFKPQMDZK)
+137 songs - 8 hr 29 min - [published](https://open.spotify.com/playlist/32lp5vkX1hCFRdFKPQMDZK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [Lately](https://open.spotify.com/track/1QFNF3quXkux7v4RbWfaaF) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Hotter Than July](https://open.spotify.com/album/1ZuQduJGh0lBynUsfzD1tH) | 4:05 | 2019-05-26\* | 2022-04-22 |
 | [Leader of the Band](https://open.spotify.com/track/3O4s2m47MFhnGqmpkjoKYk) | [Dan Fogelberg](https://open.spotify.com/artist/0cA5Tg15TwARIRZeiNT1RO) | [Love Songs](https://open.spotify.com/album/2HBiEHyRhKl6dxWBKQpxID) | 4:16 | 2019-05-26\* |  |
 | [Lean on Me](https://open.spotify.com/track/5zCJvrT3C7cIfHsR5iG95l) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Lean on Me: The Best of Bill Withers](https://open.spotify.com/album/0XmgSYx9bj4sqpcXVgKs2C) | 4:17 | 2019-05-26\* |  |
-| [Leave a Tender Moment Alone](https://open.spotify.com/track/4Qw41GUmS4rF7GR3am9Rt6) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [An Innocent Man](https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc) | 3:56 | 2019-05-26\* | 2022-07-29 |
+| [Leave a Tender Moment Alone](https://open.spotify.com/track/4Qw41GUmS4rF7GR3am9Rt6) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [An Innocent Man](https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc) | 3:56 | 2019-05-26\* |  |
 | [Leaving on a Jet Plane](https://open.spotify.com/track/6ZSTinOwx5dKFYc6iYyGDn) | [Peter, Paul and Mary](https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB) | [Album 1700](https://open.spotify.com/album/3CDM5os6kA4y6mYYGukMIZ) | 3:27 | 2022-02-28 |  |
 | [Lullabye \(Goodnight, My Angel\)](https://open.spotify.com/track/4cURHmiuYii52BVbhrGbv0) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [River Of Dreams](https://open.spotify.com/album/4HPnwQJAEvTY910q4RNeOu) | 3:34 | 2019-05-26\* |  |
 | [Missing You](https://open.spotify.com/track/1Qrdlkgg9I4J7r3P4kZNwr) | [John Waite](https://open.spotify.com/artist/2TPyCsRoh2tjeZLTQ2ojlj) | [No Brakes](https://open.spotify.com/album/65Uo74eW8L3zXUxSOlSm6H) | 4:29 | 2019-05-26\* |  |
@@ -99,7 +99,8 @@
 | [Racing in the Street](https://open.spotify.com/track/4L6ZmbSmjH5swqGWrelrrN) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Darkness On the Edge of Town](https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc) | 6:52 | 2019-05-26\* | 2021-10-01 |
 | [Reelin' In The Years](https://open.spotify.com/track/1I7zHEdDx8Ny5RxzYPqsU2) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Can't Buy A Thrill](https://open.spotify.com/album/4Gh6pRaXqXTtJx4plAJbBw) | 4:35 | 2019-05-26\* | 2021-10-01 |
 | [Rhiannon](https://open.spotify.com/track/05oETzWbd4SI33qK2gbJfR) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Fleetwood Mac](https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo) | 4:12 | 2019-05-26\* | 2021-10-01 |
-| [Rocky Mountain High](https://open.spotify.com/track/1ne9wOtDF2jM6Cm8WBkaER) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [Rocky Mountain High](https://open.spotify.com/album/2gEurk31djZjI3P3SY8ZcC) | 4:43 | 2021-09-30 |  |
+| [Rocky Mountain High](https://open.spotify.com/track/1ne9wOtDF2jM6Cm8WBkaER) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [Rocky Mountain High](https://open.spotify.com/album/2gEurk31djZjI3P3SY8ZcC) | 4:43 | 2021-09-30 | 2022-11-12 |
+| [Rocky Mountain High](https://open.spotify.com/track/3L2Zetc43qCSJEH5DwsEa2) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [The Essential John Denver](https://open.spotify.com/album/6v3zs4PYQw1esV7ZtrjZut) | 4:43 | 2021-09-30 |  |
 | [Rocky Mountain High](https://open.spotify.com/track/5tlyFGagMcqqpbqo2jYKU5) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w), [Mike Taylor](https://open.spotify.com/artist/46JtIzqxtxDz0ID3fLoqpQ) | [Rocky Mountain High](https://open.spotify.com/album/26puZuYaa7mdM2Q24lBZ1s) | 4:43 | 2019-05-26\* | 2022-07-29 |
 | [Sailing](https://open.spotify.com/track/6Hu6dzwlvoyg3zBUC8k4BK) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Christopher Cross](https://open.spotify.com/album/2m2nl8cBT7bEgIA6LLmgah) | 4:16 | 2019-05-26\* | 2021-10-01 |
 | [San Francisco \(Be Sure to Wear Some Flowers In Your Hair\)](https://open.spotify.com/track/77qBwefBIdzymXNCuAI8YX) | [Scott McKenzie](https://open.spotify.com/artist/7d7AZ3CQC457bFhK0wHpSO) | [The Voice of Scott McKenzie \(Expanded Edition\)](https://open.spotify.com/album/58TeEraOu8GyAFSUwF4fQZ) | 2:58 | 2019-05-26\* |  |
@@ -137,7 +138,7 @@
 | [Wholy Holy](https://open.spotify.com/track/1d9XimiMXrllkSb4BIq5W0) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [What's Going On](https://open.spotify.com/album/6qX4eoPWGteMdJMqGOwPTs) | 3:07 | 2019-05-26\* | 2022-04-21 |
 | [Wild Horses](https://open.spotify.com/track/4M4Q3JLsUbyTkd5WHty1WB) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Hot Rocks \(1964\-1971\)](https://open.spotify.com/album/0aqZJlugIkTUWW1sa4BANp) | 5:42 | 2021-09-30 |  |
 | [Wild World](https://open.spotify.com/track/6Xz7FeyE8HTP90HecgHV57) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Tea For The Tillerman \(Remastered\)](https://open.spotify.com/album/25Vt8FvZBx4BsSJWEsF7sJ) | 3:20 | 2019-05-26\* | 2022-07-29 |
-| [Wild World](https://open.spotify.com/track/7mjSHL2Eb0kAwiKbvNNyD9) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Tea For The Tillerman \(Remastered 2020\)](https://open.spotify.com/album/44VxbAytHpVi3Rq8hRhild) | 3:20 | 2021-09-30 |  |
+| [Wild World](https://open.spotify.com/track/7mjSHL2Eb0kAwiKbvNNyD9) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Tea For The Tillerman \(Remastered 2020\)](https://open.spotify.com/album/44VxbAytHpVi3Rq8hRhild) | 3:20 | 2021-09-30 | 2022-11-12 |
 | [Wildflowers](https://open.spotify.com/track/2Pr1nZpt8A8WP7QYpyq6L3) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Wildflowers](https://open.spotify.com/album/3ZGUBwDiY5HPOcWv4SBPQg) | 3:10 | 2019-05-26\* |  |
 | [Wish You Were Here](https://open.spotify.com/track/6mFkJmJqdDVQ1REhVfGgd1) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Wish You Were Here](https://open.spotify.com/album/0bCAjiUamIFqKJsekOYuRw) | 5:34 | 2019-05-26\* |  |
 | [Wonderful Tonight](https://open.spotify.com/track/6zC0mpGYwbNTpk9SKwh08f) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Slowhand 35th Anniversary \(Super Deluxe\)](https://open.spotify.com/album/5MAL7e4EnKXW1hFg6NbFqP) | 3:45 | 2019-05-26\* | 2021-10-01 |

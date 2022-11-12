@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Celebrate the merriment of the Holiday Season with your favorite country artists.  Cover: Brett Eldredge",
+  "description": "Celebrate the merriment of the Holiday Season with your favorite country artists. Cover: Blake Shelton",
   "name": "Country Christmas",
   "published_playlist_ids": [
     "4Obyr7GsNC8q59bOekRAcO"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 265537,
       "name": "All I Want for Christmas Is You",
       "url": "https://open.spotify.com/track/43IPpuDIrY2PIe43mreKty"
@@ -91,7 +91,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 255866,
       "name": "All I Want For Christmas Is You",
       "url": "https://open.spotify.com/track/5QcbWukYFHHV3RIAPsuyLb"
@@ -156,6 +156,24 @@
     },
     {
       "album": {
+        "name": "Back Home Christmas",
+        "url": "https://open.spotify.com/album/14nKYXwTDf1eZoEdnWD501"
+      },
+      "artists": [
+        {
+          "name": "High Valley",
+          "url": "https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219400,
+      "name": "Back Home Christmas",
+      "url": "https://open.spotify.com/track/2rEVJTkweG9QW6HPXyDJI4"
+    },
+    {
+      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/0Wr6JfWQD7bzK7ipLyeiOD"
       },
@@ -203,7 +221,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 135386,
       "name": "Blue Christmas",
       "url": "https://open.spotify.com/track/60eELuQwcjoTbJKcgJLfo8"
@@ -365,7 +383,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 165000,
       "name": "Christmas (Baby Please Come Home)",
       "url": "https://open.spotify.com/track/0v0dIbR2koou6d1kO9u9SK"
@@ -611,10 +629,36 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 229002,
       "name": "Christmas for One",
       "url": "https://open.spotify.com/track/5yixBGO3xENWIpEmNQoc3A"
+    },
+    {
+      "album": {
+        "name": "Christmas Hallelujah",
+        "url": "https://open.spotify.com/album/3BXHsG2HmFyrHFAWVD3WcE"
+      },
+      "artists": [
+        {
+          "name": "Rod + Rose",
+          "url": "https://open.spotify.com/artist/6xWrMsqTNDV7Pi10GWUhuZ"
+        },
+        {
+          "name": "Rodney Atkins",
+          "url": "https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2"
+        },
+        {
+          "name": "Rose Falcon",
+          "url": "https://open.spotify.com/artist/3M2ei8oRgZ3TwTo6F6votj"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231368,
+      "name": "Christmas Hallelujah",
+      "url": "https://open.spotify.com/track/0fEdvHLRtpuNXa46YGmXM9"
     },
     {
       "album": {
@@ -687,6 +731,24 @@
       "duration_ms": 195066,
       "name": "Christmas Isn't Christmas",
       "url": "https://open.spotify.com/track/6DeGFcrDiYDuyV7e7KnqPd"
+    },
+    {
+      "album": {
+        "name": "A Very Kacey Christmas",
+        "url": "https://open.spotify.com/album/7sIB15nu0Rp1vR8wXnTx3a"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170786,
+      "name": "Christmas Makes Me Cry",
+      "url": "https://open.spotify.com/track/0pZjp6KTdWZVBIHGqfBaW7"
     },
     {
       "album": {
@@ -904,6 +966,24 @@
     },
     {
       "album": {
+        "name": "Family Tree",
+        "url": "https://open.spotify.com/album/1ijvvaXsy9TFA8SqrqZitv"
+      },
+      "artists": [
+        {
+          "name": "Brandon Davis",
+          "url": "https://open.spotify.com/artist/4qdsGbPO1JC8iXFo62qcNV"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221512,
+      "name": "Family Tree",
+      "url": "https://open.spotify.com/track/1PgOvWrifTWMqDqe3gNYfK"
+    },
+    {
+      "album": {
         "name": "My Gift (Special Edition)",
         "url": "https://open.spotify.com/album/7m0f2Km7Zlc7quAIvCYPMr"
       },
@@ -977,10 +1057,28 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 171040,
       "name": "Feliz Navidad (feat. Kevin Fowler and Roger Creager)",
       "url": "https://open.spotify.com/track/48vGPQMCpTYIZganCHaj8B"
+    },
+    {
+      "album": {
+        "name": "First Christmas in Love",
+        "url": "https://open.spotify.com/album/7lqqphThfxWCfj7veofQPe"
+      },
+      "artists": [
+        {
+          "name": "Jordana Bryant",
+          "url": "https://open.spotify.com/artist/69CLILkCLdR4JOoQieAFm2"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218994,
+      "name": "First Christmas in Love",
+      "url": "https://open.spotify.com/track/03aSqyjgywULukp5RY0ToM"
     },
     {
       "album": {
@@ -1231,7 +1329,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 187638,
       "name": "Have Yourself A Merry Little Christmas",
       "url": "https://open.spotify.com/track/3iGFoeKxEw4iJEZ852Xtnx"
@@ -1293,6 +1391,24 @@
       "duration_ms": 271705,
       "name": "Have Yourself A Merry Little Christmas",
       "url": "https://open.spotify.com/track/0op0t0ymD7lOkC1tC99xTg"
+    },
+    {
+      "album": {
+        "name": "A Very Kacey Christmas",
+        "url": "https://open.spotify.com/album/7sIB15nu0Rp1vR8wXnTx3a"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179973,
+      "name": "Have Yourself A Merry Little Christmas",
+      "url": "https://open.spotify.com/track/7us9KL6g1bLBAoUSVu7Qzb"
     },
     {
       "album": {
@@ -1365,6 +1481,24 @@
       "duration_ms": 181026,
       "name": "Holiday Party",
       "url": "https://open.spotify.com/track/2ZiKXOsDvx9TfXIJT5cZGN"
+    },
+    {
+      "album": {
+        "name": "Cheers, It's Christmas (Super Deluxe)",
+        "url": "https://open.spotify.com/album/7BKMLhbGps9SDjUh8FEv8o"
+      },
+      "artists": [
+        {
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131933,
+      "name": "Holly Jolly Christmas",
+      "url": "https://open.spotify.com/track/3RToWSH2mkKq8QfI8bgMH3"
     },
     {
       "album": {
@@ -1575,7 +1709,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 207677,
       "name": "I Only Want You For Christmas",
       "url": "https://open.spotify.com/track/76n4IOwKqXfqbTecQcek7A"
@@ -1647,7 +1781,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 191003,
       "name": "I'll Be Home for Christmas",
       "url": "https://open.spotify.com/track/0V2Anxn5pgRHZElbYbCip0"
@@ -1965,7 +2099,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 131752,
       "name": "Jingle Bell Rock (feat. Kaylee Rose)",
       "url": "https://open.spotify.com/track/3PXbmgRNYcYWuUg7uLZ0bw"
@@ -2185,7 +2319,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 198504,
       "name": "Last Christmas",
       "url": "https://open.spotify.com/track/5CuB3AkiqaQddt1MCrBnpz"
@@ -2265,7 +2399,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 144874,
       "name": "Let It Snow (with Jamie O'Neal)",
       "url": "https://open.spotify.com/track/4WsLBizd0S1ilLBVIc6pZf"
@@ -2402,6 +2536,28 @@
     },
     {
       "album": {
+        "name": "Little Saint Nick",
+        "url": "https://open.spotify.com/album/4dtVpeSNfNnpgFWe4DshBt"
+      },
+      "artists": [
+        {
+          "name": "Ryan Griffin",
+          "url": "https://open.spotify.com/artist/7dMEBGtGI6O7PoTEucAaBT"
+        },
+        {
+          "name": "Jay DeMarcus",
+          "url": "https://open.spotify.com/artist/2rMyXBuAzlrspJyYxQZ8m0"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133111,
+      "name": "Little Saint Nick",
+      "url": "https://open.spotify.com/track/71oTDaEl35vkVSwAdyBA9L"
+    },
+    {
+      "album": {
         "name": "Hell of a Holiday",
         "url": "https://open.spotify.com/album/0xsa9tFddApdX5wlHtKROP"
       },
@@ -2501,6 +2657,24 @@
       "duration_ms": 229640,
       "name": "Mary, Did You Know?",
       "url": "https://open.spotify.com/track/1DG5LFER6WKmn4M9IJYGB5"
+    },
+    {
+      "album": {
+        "name": "Meet Me Under the Mistletoe",
+        "url": "https://open.spotify.com/album/2EGPFLNRc3M1IJX1q2sqdE"
+      },
+      "artists": [
+        {
+          "name": "Hailey Whitters",
+          "url": "https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173293,
+      "name": "Meet Me Under the Mistletoe",
+      "url": "https://open.spotify.com/track/2P5G4Z0LEaZeuKyAIdoab0"
     },
     {
       "album": {
@@ -2771,7 +2945,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 130730,
       "name": "O Holy Night",
       "url": "https://open.spotify.com/track/0PYcIfWZOHx7PZ3lrfA4Fo"
@@ -2890,6 +3064,24 @@
     },
     {
       "album": {
+        "name": "Please Come Home for Christmas",
+        "url": "https://open.spotify.com/album/1SpOC91nQ7fG5gXJIY9RoI"
+      },
+      "artists": [
+        {
+          "name": "Rodell Duff",
+          "url": "https://open.spotify.com/artist/4JMY9dX6C0SYxm1YEGAEky"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178993,
+      "name": "Please Come Home for Christmas",
+      "url": "https://open.spotify.com/track/2ktUQEb33l3zNzHQxkg6TN"
+    },
+    {
+      "album": {
         "name": "A Classic Christmas",
         "url": "https://open.spotify.com/album/72wZVzg03F0dPBRHdOUyYC"
       },
@@ -2901,7 +3093,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 184026,
       "name": "Please Come Home for Christmas",
       "url": "https://open.spotify.com/track/2oXBpkX0wbtZY00iA82qRi"
@@ -2919,7 +3111,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 177440,
       "name": "Please Come Home for Christmas - 2013 Remaster",
       "url": "https://open.spotify.com/track/60e4x4V1ElCjukbAteZdZn"
@@ -2941,7 +3133,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 230480,
       "name": "Present Without A Bow",
       "url": "https://open.spotify.com/track/0Pj9cTJcWbrDPjtCKx4Ody"
@@ -2977,7 +3169,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 243960,
       "name": "River",
       "url": "https://open.spotify.com/track/4YeME4nJUQ5pqhRikI76dX"
@@ -2995,7 +3187,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 110533,
       "name": "Rockin' Around The Christmas Tree",
       "url": "https://open.spotify.com/track/6Bvw7xQblZlNgo5b6jJZ5R"
@@ -3100,6 +3292,24 @@
     },
     {
       "album": {
+        "name": "Country Christmas Music",
+        "url": "https://open.spotify.com/album/0DbmDcT35L2T2DETHavaES"
+      },
+      "artists": [
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174360,
+      "name": "Run Run Rudolph",
+      "url": "https://open.spotify.com/track/6UkK7G5fFg8DgMMDwFDCUr"
+    },
+    {
+      "album": {
         "name": "Run Run Rudolph",
         "url": "https://open.spotify.com/album/0nmKLkVAR3pua1BwHWVU0S"
       },
@@ -3129,7 +3339,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 174360,
       "name": "Run Run Rudolph",
       "url": "https://open.spotify.com/track/6jSGVIEjnRhOl2c8JNx5cS"
@@ -3423,7 +3633,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 102529,
       "name": "Silent Night",
       "url": "https://open.spotify.com/track/13GZEjxchVtGEkaAJt2FH1"
@@ -3445,6 +3655,24 @@
       "duration_ms": 208066,
       "name": "Silent Night",
       "url": "https://open.spotify.com/track/7HBmrReofkxO9KDO6sbSm5"
+    },
+    {
+      "album": {
+        "name": "Silent Night",
+        "url": "https://open.spotify.com/album/0VqmzGTHg4eJdMZubt623Z"
+      },
+      "artists": [
+        {
+          "name": "Liddy Clark",
+          "url": "https://open.spotify.com/artist/5TFWfcZSH39BwHbxpsn1UJ"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166500,
+      "name": "Silent Night",
+      "url": "https://open.spotify.com/track/4kPUv0w3d6ZLuFKpbOWEyc"
     },
     {
       "album": {
@@ -3549,7 +3777,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 145702,
       "name": "Sleigh Ride",
       "url": "https://open.spotify.com/track/3yyIaimMgdXvmYmjfCkszb"
@@ -3607,6 +3835,28 @@
       "duration_ms": 187200,
       "name": "Stretchy Pants",
       "url": "https://open.spotify.com/track/4nEo5fRitrMAf8VBfRBAWQ"
+    },
+    {
+      "album": {
+        "name": "Sweet Christmas Memories (From the Netflix Film \"The Noel Diary\")",
+        "url": "https://open.spotify.com/album/6dx3nrKbmqmRaySSzFvhEP"
+      },
+      "artists": [
+        {
+          "name": "Minnie Murphy",
+          "url": "https://open.spotify.com/artist/4ueTdPKJsGKmJRX7e09aTw"
+        },
+        {
+          "name": "Ty Herndon",
+          "url": "https://open.spotify.com/artist/1Fj0R2t4HaJa3oUe8azB8R"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225661,
+      "name": "Sweet Christmas Memories (From the Netflix Film \"The Noel Diary\")",
+      "url": "https://open.spotify.com/track/1BWHqLB6cytzbN5h2I8UMP"
     },
     {
       "album": {
@@ -3736,6 +3986,24 @@
     },
     {
       "album": {
+        "name": "There's A New Kid In Town",
+        "url": "https://open.spotify.com/album/0iFGrdtIiBuZfxiwxK7sie"
+      },
+      "artists": [
+        {
+          "name": "Jenna Paulette",
+          "url": "https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242659,
+      "name": "There's A New Kid In Town",
+      "url": "https://open.spotify.com/track/7rmlI26YLAGqF5pwzSMWyI"
+    },
+    {
+      "album": {
         "name": "Dear Christmas",
         "url": "https://open.spotify.com/album/0sL6qfdchTqAll5oMh45im"
       },
@@ -3856,6 +4124,24 @@
     },
     {
       "album": {
+        "name": "Cheers, It's Christmas (Super Deluxe)",
+        "url": "https://open.spotify.com/album/7BKMLhbGps9SDjUh8FEv8o"
+      },
+      "artists": [
+        {
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136773,
+      "name": "Up On The House Top",
+      "url": "https://open.spotify.com/track/5p3UXnTGlYfXVZZxydTDBE"
+    },
+    {
+      "album": {
         "name": "What Christmas Means to Me",
         "url": "https://open.spotify.com/album/1wqKDHvJ8JkfRcCETLPw4c"
       },
@@ -3893,7 +4179,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 238031,
       "name": "What Does Christmas Mean (feat. The Shindellas)",
       "url": "https://open.spotify.com/track/5zbEjhZhGcxXXUPePYdwXQ"
@@ -4077,7 +4363,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 210040,
       "name": "Winter Wonderland",
       "url": "https://open.spotify.com/track/4jbXHzjsepzaqixmuEz8r9"
@@ -4121,7 +4407,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 149933,
       "name": "Winter Wonderland",
       "url": "https://open.spotify.com/track/195xKrwnJOQYBsh5gefYuw"
@@ -4175,7 +4461,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 203971,
       "name": "Wonderful Christmastime",
       "url": "https://open.spotify.com/track/5MGkEVBOb3kXpJWUdpcFgI"
@@ -4291,7 +4577,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 177013,
       "name": "You're a Mean One, Mr. Grinch",
       "url": "https://open.spotify.com/track/6tKBvRO0Whyj5HJGKSbnvU"
@@ -4309,7 +4595,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 164240,
       "name": "You're a Mean One, Mr. Grinch",
       "url": "https://open.spotify.com/track/5WwQiQmSC5BXXZChM3sISH"

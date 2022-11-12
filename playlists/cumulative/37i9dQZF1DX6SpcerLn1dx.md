@@ -4,7 +4,7 @@
 
 > Get spooky with these creepy classics
 
-82 songs - 5 hr 37 min - [published](https://open.spotify.com/playlist/5elA8CmvlycmDF2P3OXkCU)
+84 songs - 5 hr 45 min - [published](https://open.spotify.com/playlist/5elA8CmvlycmDF2P3OXkCU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,8 @@
 | [People Are Strange](https://open.spotify.com/track/1Jmqubf9kGkWeYQXQKImL5) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Strange Days](https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf) | 2:10 | 2021-10-25 |  |
 | [Pet Sematary \- 2002 Remaster](https://open.spotify.com/track/3nDCRsKhV3R53tNEBj4M1S) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Greatest Hits](https://open.spotify.com/album/7g7SbdTnbvrA1hGYHwLEn8) | 3:32 | 2021-10-25 |  |
 | [Poison](https://open.spotify.com/track/5mN9EuBLJooifNddx6z9lF) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Old Skool Of Rock](https://open.spotify.com/album/35LnYSwPbgGPQSXNTjpOO8) | 4:27 | 2021-10-25 | 2022-07-29 |
-| [Poison](https://open.spotify.com/track/5XcZRgJv3zMhTqCyESjQrF) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Trash](https://open.spotify.com/album/033cvSPAuSU5ArRfIgQSDU) | 4:30 | 2021-10-25 |  |
+| [Poison](https://open.spotify.com/track/5XcZRgJv3zMhTqCyESjQrF) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Trash](https://open.spotify.com/album/033cvSPAuSU5ArRfIgQSDU) | 4:30 | 2021-10-25 | 2022-11-12 |
+| [Poison](https://open.spotify.com/track/5jq1KMk1pv4jEr79cKh1oD) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Driving Anthems](https://open.spotify.com/album/4hs21RLyO1mmUl68jgplez) | 4:31 | 2021-10-25 |  |
 | [Psycho Killer \- 2005 Remaster](https://open.spotify.com/track/1i6N76fftMZhijOzFQ5ZtL) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Talking Heads '77 \(Deluxe Version\)](https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN) | 4:21 | 2021-10-25 |  |
 | [Runnin' With The Devil](https://open.spotify.com/track/3gLlcZQMvpwgtV9THHXrGp) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [Van Halen \(Reissue\)](https://open.spotify.com/album/7G2PY8yve3Db0PeGsosb4x) | 3:36 | 2021-10-25 | 2022-07-29 |
 | [Runnin' with the Devil \- 2015 Remaster](https://open.spotify.com/track/2rGjxjmxK5ZuksP0jXHHjs) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [The Best of Both Worlds](https://open.spotify.com/album/4O7PQY7R5d5gUV8hftZHHT) | 3:34 | 2021-10-25 |  |
@@ -67,7 +68,8 @@
 | [Shakin' All Over](https://open.spotify.com/track/2jX4y8iUPtrAan4gzzKi7h) | [The Guess Who](https://open.spotify.com/artist/0cQuYRSzlItquYxsQKDvVc) | [Shakin' All Over](https://open.spotify.com/album/4MiiEjLiUWLUDNSbubCNyK) | 2:45 | 2021-10-25 | 2022-07-29 |
 | [Shakin' All Over \- Single Version](https://open.spotify.com/track/58cDx1uTmaAaF2rqU0UrtF) | [The Guess Who](https://open.spotify.com/artist/0cQuYRSzlItquYxsQKDvVc) | [Anthology](https://open.spotify.com/album/3S0M6vf4qXcg38cRrjFUSG) | 2:39 | 2021-10-25 | 2022-11-11 |
 | [Spirit in the Sky](https://open.spotify.com/track/0Y2SrByf4G3kbq2nBEHQRn) | [Norman Greenbaum](https://open.spotify.com/artist/7f8LNBVXN0h35veHrpxQFL) | [Music From The Motion Picture Michael](https://open.spotify.com/album/52LfK1ML8u7Xj1ArC8oC22) | 3:59 | 2021-10-25 | 2022-07-29 |
-| [Spirit In The Sky](https://open.spotify.com/track/0jvN7eQJJt4nxQzgQfZ1SP) | [Norman Greenbaum](https://open.spotify.com/artist/7f8LNBVXN0h35veHrpxQFL) | [Spirit In The Sky](https://open.spotify.com/album/05qYXT9UP6pXR9u0BtntD1) | 4:02 | 2021-10-25 |  |
+| [Spirit In The Sky](https://open.spotify.com/track/0jvN7eQJJt4nxQzgQfZ1SP) | [Norman Greenbaum](https://open.spotify.com/artist/7f8LNBVXN0h35veHrpxQFL) | [Spirit In The Sky](https://open.spotify.com/album/05qYXT9UP6pXR9u0BtntD1) | 4:02 | 2021-10-25 | 2022-11-12 |
+| [Spirit In The Sky](https://open.spotify.com/track/2W0DbzekRbeASpkhfLhHbi) | [Norman Greenbaum](https://open.spotify.com/artist/7f8LNBVXN0h35veHrpxQFL) | [Fourth of July 2021](https://open.spotify.com/album/0fRLn5cUz7tjWvbSz03s0G) | 4:02 | 2021-10-25 |  |
 | [Spooky](https://open.spotify.com/track/4GWQYgA00ta6S6mI9YXXif) | [Atlanta Rhythm Section](https://open.spotify.com/artist/0WgyCbru4tXnMsbTmX4mFw) | [Anthology: Greatest & Latest](https://open.spotify.com/album/77zP5bPRVdgazrSEn0QPkO) | 5:08 | 2021-10-25 |  |
 | [Spooky](https://open.spotify.com/track/5z4iT44mMHyZozsTFy4A51) | [Classics IV](https://open.spotify.com/artist/6XGJvNG372fPJ2TV2OoN0Z) | [Best Of](https://open.spotify.com/album/1Tt7kLJ0EC4t8w3D4WyySr) | 2:55 | 2021-10-25 |  |
 | [Spooky](https://open.spotify.com/track/1683Q5FUEQ4fIG2f87MAW4) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Music From The Motion Picture Lock, Stock And Two Smoking Barrels](https://open.spotify.com/album/2fdAkcqAzhesitKe2q91RL) | 2:35 | 2021-10-25 |  |

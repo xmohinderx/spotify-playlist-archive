@@ -4,7 +4,7 @@
 
 > The latest music from our Country Heroes\. Cover: Tanya Tucker
 
-163 songs - 9 hr 31 min - [published](https://open.spotify.com/playlist/5GBlntmj7cxNabVRK2ZjTV)
+164 songs - 9 hr 35 min - [published](https://open.spotify.com/playlist/5GBlntmj7cxNabVRK2ZjTV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,8 @@
 | [I’ve Gotta Get A Message To You \(feat\. Keith Urban\)](https://open.spotify.com/track/55gWB0E5fwsIVfdGfrydoi) | [Barry Gibb](https://open.spotify.com/artist/7Hd38PVp634oGEb9pIDs5d), [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Greenfields: The Gibb Brothers' Songbook \(Vol\. 1\)](https://open.spotify.com/album/3IFJ7ZGMjHErGmW9NAOdkp) | 3:14 | 2021-10-15 |  |
 | [Jesus, Won't You Come By Here](https://open.spotify.com/track/3TkQkNP31WG8xnXAVkjB93) | [Hank Williams, Jr.](https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb) | [Jesus, Won't You Come By Here](https://open.spotify.com/album/4DOFLP7P2QcvMvQX38jcdm) | 2:50 | 2022-05-27 |  |
 | [Lead Me Home](https://open.spotify.com/track/5okWmLTI9nYRZ5HcSoKffK) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [Lead Me Home](https://open.spotify.com/album/6BtcUNipS0LAGkvkpsSt6b) | 3:34 | 2021-10-15 |  |
-| [Life is Beautiful](https://open.spotify.com/track/1Gh6WLiKriWRKof9E4nSRz) | [The Oak Ridge Boys](https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos) | [Front Porch Singin'](https://open.spotify.com/album/41ueL4w9hoGodvfWHjLfCY) | 3:53 | 2022-07-22 |  |
+| [Life is Beautiful](https://open.spotify.com/track/1Gh6WLiKriWRKof9E4nSRz) | [The Oak Ridge Boys](https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos) | [Front Porch Singin'](https://open.spotify.com/album/41ueL4w9hoGodvfWHjLfCY) | 3:53 | 2022-07-22 | 2022-11-12 |
+| [Life is Beautiful](https://open.spotify.com/track/2I13ZwV1Xz1UqoemhWa7fz) | [The Oak Ridge Boys](https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos) | [Swing Down Chariot](https://open.spotify.com/album/1ZycZB9RBLz942ouEEDJbz) | 3:53 | 2022-11-04 |  |
 | [Life Is Beautiful](https://open.spotify.com/track/4k8AXzJaJ2k85BdZLKRGWW) | [The Oak Ridge Boys](https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos) | [Life Is Beautiful](https://open.spotify.com/album/1td6EkbqoWPK7RWEVnTUGY) | 3:53 | 2021-10-15 | 2022-07-29 |
 | [Live Forever](https://open.spotify.com/track/4ofZpP3iFaQ1GRtxOPbySO) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [Live Forever](https://open.spotify.com/album/61IyMbppx5SvsZO0i3FJnf) | 3:00 | 2022-08-19 |  |
 | [Long Cool Woman \(In a Black Dress\)](https://open.spotify.com/track/34FxbXBm1QjQ44lUBL8Rn9) | [Ronnie Dunn](https://open.spotify.com/artist/1iLuTmIgxCEiEllDSWkeIy) | [Long Cool Woman \(In a Black Dress\)](https://open.spotify.com/album/1v9u00mgkfhhRJm7yMSIdz) | 3:36 | 2021-10-15 |  |

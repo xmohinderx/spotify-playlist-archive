@@ -152,6 +152,24 @@
     },
     {
       "album": {
+        "name": "Twenties Playlist",
+        "url": "https://open.spotify.com/album/5fQEyU8UFm6oPfFqhqGODI"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243090,
+      "name": "Altar",
+      "url": "https://open.spotify.com/track/0m0axAMEyWEvzezaLwrLVE"
+    },
+    {
+      "album": {
         "name": "altar",
         "url": "https://open.spotify.com/album/7aQ67hIkvYTPsXFEPL6CyI"
       },
@@ -181,7 +199,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 244635,
       "name": "altar",
       "url": "https://open.spotify.com/track/1DVgSm1FpFBT8usWhnC5vF"
@@ -1151,7 +1169,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 242096,
       "name": "Leave The Door Open",
       "url": "https://open.spotify.com/track/02VBYrHfVwfEWXk5DXyf0T"
@@ -1181,6 +1199,32 @@
       "duration_ms": 242096,
       "name": "Leave The Door Open",
       "url": "https://open.spotify.com/track/1LPSkqVhWVRUkKE03YUkpB"
+    },
+    {
+      "album": {
+        "name": "Totally Romantic Ballads",
+        "url": "https://open.spotify.com/album/3zeuHqBj3w0Hd4MPgUGCqi"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Silk Sonic",
+          "url": "https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242096,
+      "name": "Leave the Door Open",
+      "url": "https://open.spotify.com/track/1WQkIkrkEc0mydf6SVULgH"
     },
     {
       "album": {

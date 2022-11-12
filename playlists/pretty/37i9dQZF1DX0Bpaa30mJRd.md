@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Bpaa30mJRd.md) - [plain]
 
 > 8/14\(日\)<a href="https://www.promax.co.jp/studiochizu\-inconcert/">オーケストラコンサート</a>初開催！「スタジオ地図」作品の音楽をひとつのプレイリストに。/Music from Studio Chizu's movies\. ©︎2021 スタジオ地図　©︎STUDIO CHIZU
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,385 likes - 80 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,553 likes - 80 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [U](https://open.spotify.com/track/32H7fwKsaYtSl6qiXFI6I6) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ), [Belle](https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40) | [U](https://open.spotify.com/album/6geoEKwXSuETawoDPOkfV7) | 3:07 |
-| 2 | [Garnet](https://open.spotify.com/track/40jwSjLscs3wDOvYUpaJoB) | [Hanako Oku](https://open.spotify.com/artist/2tOwqfTtAMswbLySSaTRYR) | [Hanako Oku Best \~ My Letters \~](https://open.spotify.com/album/10S0x53VUJYn6Dcw7sY1fq) | 5:20 |
+| 2 | [Garnet](https://open.spotify.com/track/2rZUu2qXb7SoUNktHKgfky) | [Hanako Oku](https://open.spotify.com/artist/2tOwqfTtAMswbLySSaTRYR) | [Garnet](https://open.spotify.com/album/1OU1yZN4pMh9IVn9YZVjCL) | 5:19 |
 | 3 | [夏空\~オープニングテーマ\~](https://open.spotify.com/track/6Q7YfM1aKjSYhVojMsMxrC) | [Kiyoshi Yoshida](https://open.spotify.com/artist/1im9uoXp0eRWfygAuNVouL) | [劇場版アニメーション「時をかける少女」オリジナル・サウンドトラック](https://open.spotify.com/album/29DDbva4BT30CiTl2kO1Sg) | 2:57 |
 | 4 | [The Summer Wars](https://open.spotify.com/track/0BAXchbKCkHZqSGlxDDieW) | [Akihiko Matsumoto](https://open.spotify.com/artist/7npYxeGYDN9qZmbxYuzunM) | [Summer Wars \(Original Soundtrack Album\)](https://open.spotify.com/album/7rZZyd2AuWzrNIhJROA0GF) | 1:52 |
 | 5 | [A Million Miles Away](https://open.spotify.com/track/0WQRbcwmUd1fZ5AJcH5GDT) | [Belle](https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40) | [Belle \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0Dh6RJv03InPzUWLwmpezp) | 8:01 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Bpaa30mJRd.md) - [plain]
 | 79 | [Swarms of Song \- English Version](https://open.spotify.com/track/3G7lL3qz3jYYG8dfvyYpjn) | [Belle](https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40) | [Belle \(Original Motion Picture Soundtrack\) \[English Edition\]](https://open.spotify.com/album/7MK9ztclhDon7AgJroo6l4) | 1:38 |
 | 80 | [A Million Miles Away \(reprise\) \- English Version](https://open.spotify.com/track/3LGIequcwZQo02cskDxXVS) | [Belle](https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40) | [Belle \(Original Motion Picture Soundtrack\) \[English Edition\]](https://open.spotify.com/album/7MK9ztclhDon7AgJroo6l4) | 6:27 |
 
-Snapshot ID: `MTY2MTk1ODAwMCwwMDAwMDAwMDM5MTU4MTIxNzg5NjY4ZGJiMzY3YzllMzk5MzI4ZDk2`
+Snapshot ID: `MTY2MTk1ODAwMCwwMDAwMDAwMGZkZjA1ZmNlNmYyMTViZWJlYmUxM2FkNjY0Yzk2Y2Vk`

@@ -4,7 +4,7 @@
 
 > soft, chewy & good for the soul\. uwu
 
-415 songs - 23 hr 5 min - [published](https://open.spotify.com/playlist/7moHOuo8YGkhu2acqCiqv9)
+416 songs - 23 hr 8 min - [published](https://open.spotify.com/playlist/7moHOuo8YGkhu2acqCiqv9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Another](https://open.spotify.com/track/3tspXbvwbQF4zRk6dD7pqq) | [Francis Karel](https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6) | [Another](https://open.spotify.com/album/2o00QOSTq7b4PmxWoXaDfu) | 2:50 | 2022-01-28 | 2022-10-22 |
 | [Anxious](https://open.spotify.com/track/4eEcCdjYBxMD9YsHBvesJt) | [NYK](https://open.spotify.com/artist/009SHiJ9rvFm3vNwL4SjZx) | [Anxious](https://open.spotify.com/album/0e2t5kgPoO2arJl087wrH6) | 3:11 | 2022-01-28 | 2022-07-08 |
 | [Any Other Way](https://open.spotify.com/track/0GLeMtCBYkh98BqwO5BN7b) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Any Other Way](https://open.spotify.com/album/7C5Y9bh4Y8G5sw3bB2bquM) | 2:48 | 2022-01-28 | 2022-07-29 |
-| [Baby Can You Stay](https://open.spotify.com/track/6ukZgsQtCTslc6cbxVd9yc) | [WNRDA](https://open.spotify.com/artist/2Ja7uINE33t1t5d06J6PFQ) | [Baby Can You Stay](https://open.spotify.com/album/12iY7dts3ziwGFq7na5C2L) | 2:58 | 2022-05-09 | 2022-11-11 |
+| [Baby Can You Stay](https://open.spotify.com/track/6ukZgsQtCTslc6cbxVd9yc) | [WNRDA](https://open.spotify.com/artist/2Ja7uINE33t1t5d06J6PFQ) | [Baby Can You Stay](https://open.spotify.com/album/12iY7dts3ziwGFq7na5C2L) | 2:58 | 2022-05-09 |  |
 | [Bad Dreams](https://open.spotify.com/track/0t0p3pFkUxv3KnMGZqPxyP) | [BEVY MACO](https://open.spotify.com/artist/4J8BSoVR5I3Am5CxHMkqYj), [Summer Soul](https://open.spotify.com/artist/6ZDL9IVLcZPApjoBdajrao) | [Still Feel The Same](https://open.spotify.com/album/5MXJrDdgDdH6XXoebSe0Uj) | 5:12 | 2022-01-28 | 2022-04-20 |
 | [baggage](https://open.spotify.com/track/1S0JzPuqUbCw3Jd14fGn2b) | [SHN](https://open.spotify.com/artist/5EovY4LBurcmsfIdpNEtfq) | [baggage](https://open.spotify.com/album/3AuIno5NGIaCoRnILRyxab) | 3:01 | 2022-01-28 | 2022-05-19 |
 | [Be My Blue](https://open.spotify.com/track/2crnJ4q9YCEUO9rpDOD2G4) | [The Night Of Seokyo](https://open.spotify.com/artist/6vrBuDdSYNTK6CwCVflTnx), [ROGI](https://open.spotify.com/artist/7r4f73FzFhDU68V2l9pWU8) | [Be My Blue](https://open.spotify.com/album/67VGMUSY6Jp6wNZmrm0kYG) | 3:33 | 2022-03-29 | 2022-07-03 |
@@ -50,6 +50,7 @@
 | [Blue](https://open.spotify.com/track/0yWA2HMf5Mv3OxgQLUzCgd) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [MAGIC MAN](https://open.spotify.com/album/66k71qtTET4vXFJ6sAAU0U) | 2:39 | 2022-09-12 |  |
 | [Blue Sky](https://open.spotify.com/track/7mZ4AjY7tkBLPAL85YU2jb) | [Wimas Putri](https://open.spotify.com/artist/7jwF8QbhmbET3DDDBo9C7L) | [Blue Sky](https://open.spotify.com/album/0sHfP8xjH0WBDWbSzm6eQt) | 4:09 | 2022-03-29 | 2022-06-01 |
 | [Blur](https://open.spotify.com/track/15IfeWfzxJtcKBgx6oDHvl) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [Blur](https://open.spotify.com/album/0oQLzvDrvXSwmUfXlnCwc8) | 3:40 | 2022-06-24 |  |
+| [Body Language](https://open.spotify.com/track/7ChkQmb0PDbfTHI9oOPOlh) | [Jess Connelly](https://open.spotify.com/artist/1XC87A3NVlw6xDW1kIB5FN) | [Bittersweet](https://open.spotify.com/album/35TjHF0WpwF49jciFC6Tgi) | 2:36 | 2022-11-10 |  |
 | [Breadcrumbs](https://open.spotify.com/track/5uZmsnmHHR1UXqTw8a2urG) | [Serena Sun](https://open.spotify.com/artist/6QE08doGmrNOROa5TWnVnG) | [Breadcrumbs](https://open.spotify.com/album/7MBhogvbQ50jmLjSFmuMW2) | 3:25 | 2022-04-24 | 2022-05-10 |
 | [build a life](https://open.spotify.com/track/7LxlPRasB0Wq4hQRDvU4Sz) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [idk it's complicated](https://open.spotify.com/album/32q4VWN3LXqqGSaaqdsrwJ) | 3:48 | 2022-10-14 | 2022-10-28 |
 | [Burn Book](https://open.spotify.com/track/1aDVkbFZ9qrv4drQUr5D4Y) | [Sobs](https://open.spotify.com/artist/2gj35CRyiuvuJ5VzjkX52i) | [Air Guitar](https://open.spotify.com/album/5jsp54tvHgC19kstd5Kp42) | 4:19 | 2022-10-27 | 2022-11-11 |
@@ -341,7 +342,7 @@
 | [Temple Fair](https://open.spotify.com/track/65IQJhKCLw0yHLL6OSiyvG) | [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [Temple Fair](https://open.spotify.com/album/3sPEorgDnsLIHkEhWyQaZO) | 5:03 | 2022-09-26 |  |
 | [THANK YOU 4 LOVIN’ ME](https://open.spotify.com/track/557XVqKgnYAxvvyczr2zDg) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [LOVERs PLAYBOOK](https://open.spotify.com/album/78UznjghWeYXMeN201KLtC) | 4:29 | 2022-08-26 |  |
 | [That XX \- Spotify Singles](https://open.spotify.com/track/7Ae5WP06rEQfq5tRqrST2j) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [That XX \- Spotify Singles](https://open.spotify.com/album/4jFrmvzBjQc9lnTeaIr8Qo) | 4:49 | 2022-01-28 | 2022-07-05 |
-| [the boy](https://open.spotify.com/track/3WbHsfnKTIpte7B14whqjF) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [the boy](https://open.spotify.com/album/24AGxWAjb7QYqlNaoWlsDz) | 3:36 | 2022-01-28 | 2022-11-11 |
+| [the boy](https://open.spotify.com/track/3WbHsfnKTIpte7B14whqjF) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [the boy](https://open.spotify.com/album/24AGxWAjb7QYqlNaoWlsDz) | 3:36 | 2022-01-28 |  |
 | [The Ones We Once Loved](https://open.spotify.com/track/6YjKd9oPXKqjLUVPo4Y0oi) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [The Ones We Once Loved](https://open.spotify.com/album/0276LtRwBrOo2uoRlTOiPX) | 4:33 | 2022-08-26 |  |
 | [The Outsider](https://open.spotify.com/track/5W1UtLcQLQOFZDpDeNn8Gi) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [The Outsider](https://open.spotify.com/album/0ftVjdPzK7QBpUQiBuL798) | 3:00 | 2022-03-11 |  |
 | [The Trip](https://open.spotify.com/track/0UUwjvjJpPglNiGjJzk5dn) | [liesl\-mae](https://open.spotify.com/artist/2PSBYmtNWEm9f8VOSCFFX0) | [The Trip](https://open.spotify.com/album/0OUuOt452BNPn74et9Iqnr) | 3:46 | 2022-06-24 | 2022-07-19 |
@@ -374,10 +375,10 @@
 | [Unfucktheworld](https://open.spotify.com/track/3DyGcebeqFnG3ropR1bPFX) | [Dylan Pham](https://open.spotify.com/artist/0SSmPhfmyWRy1iFduWAEbV) | [Unfucktheworld](https://open.spotify.com/album/1QE1W1ZeJEX8PEQc8Ft6DJ) | 2:51 | 2022-03-29 | 2022-04-11 |
 | [Use Me](https://open.spotify.com/track/4TF8goaI3qmoRHTq61qmtx) | [Ai.Z](https://open.spotify.com/artist/3WskbYlYe2qJrMtYnkIvKk) | [Use Me](https://open.spotify.com/album/4AmYRXgAs8RpWppl7s63lk) | 4:00 | 2022-02-18 | 2022-07-02 |
 | [Valentine](https://open.spotify.com/track/2EjuEHTRZRgE9pvaBm5Hh3) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Valentine](https://open.spotify.com/album/2BI2mJAuuoQ10WFRz6cqb6) | 2:48 | 2022-03-11 | 2022-10-13 |
-| [Valentine](https://open.spotify.com/track/6cx5CvFhqN19efStehJqoW) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 2:48 | 2022-10-14 |  |
+| [Valentine](https://open.spotify.com/track/6cx5CvFhqN19efStehJqoW) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 2:48 | 2022-10-14 | 2022-11-12 |
 | [Vanilla](https://open.spotify.com/track/1JVS1j91lyFfLltcWerYSh) | [Jinan Laetitia](https://open.spotify.com/artist/0BCK8dKHWITYcDo06Fuxth) | [One](https://open.spotify.com/album/13P9zBl1EtCVYBrMbiPqXJ) | 2:37 | 2022-06-17 | 2022-07-12 |
 | [Vibin](https://open.spotify.com/track/1foCNzIQJMA1lGYtSvBu8m) | [Ylona Garcia](https://open.spotify.com/artist/2qnQOnL1oLKtH779qZ6iuR) | [Vibin](https://open.spotify.com/album/270wSkBt06wNswRpgTWqHT) | 2:45 | 2022-05-27 | 2022-11-11 |
-| [vulnerable](https://open.spotify.com/track/4MiZmaNIbvO7yY8UltCATD) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [rapunzel](https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6) | 3:18 | 2022-07-22 |  |
+| [vulnerable](https://open.spotify.com/track/4MiZmaNIbvO7yY8UltCATD) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [rapunzel](https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6) | 3:18 | 2022-07-22 | 2022-11-12 |
 | [vulnerable](https://open.spotify.com/track/1eOunIE3nhAH5f0jIZ7eMB) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [vulnerable](https://open.spotify.com/album/2tlPwoWpAZ49MReinibqQj) | 3:20 | 2022-01-28 | 2022-07-29 |
 | [W.H.U.T](https://open.spotify.com/track/4dtmj7X21gunWoQf98hW5L) | [Aisha Retno](https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy) | [W.H.U.T \(Wanna Hold U Tight\)](https://open.spotify.com/album/33hKzdCUtE6qkQJrJaDuck) | 2:54 | 2022-01-28 |  |
 | [WANT](https://open.spotify.com/track/7hqlbKbYWLnoIEg9GxyfWu) | [Iman Fandi](https://open.spotify.com/artist/2yv1QEWNbHyf6ErJzCNmlg) | [WANT](https://open.spotify.com/album/0moqUbZQR7GxfDNZTQ8gIA) | 3:45 | 2022-08-26 | 2022-09-12 |

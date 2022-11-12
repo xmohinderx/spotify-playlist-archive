@@ -825,10 +825,28 @@
       ],
       "date_added": "2020-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 254386,
       "name": "My Favorite Things",
       "url": "https://open.spotify.com/track/45mRiuCMudVfPbndTvTYnr"
+    },
+    {
+      "album": {
+        "name": "Christmas Dinner Party",
+        "url": "https://open.spotify.com/album/3DHkMDDJ9idaUq5yQVyg0y"
+      },
+      "artists": [
+        {
+          "name": "J.J. Johnson",
+          "url": "https://open.spotify.com/artist/3hZ5sdhYTvgrmXIwtVwqmS"
+        }
+      ],
+      "date_added": "2020-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254386,
+      "name": "My Favorite Things",
+      "url": "https://open.spotify.com/track/5YKNMKiNljtAhcw5y5wFnz"
     },
     {
       "album": {

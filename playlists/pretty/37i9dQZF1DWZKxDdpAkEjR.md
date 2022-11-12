@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZKxDdpAkEjR.md) - [plain]
 
 > The soundtrack of the Summer 2022.
 
-[Spotify](https://open.spotify.com/user/spotify) - 396,274 likes - 52 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 396,242 likes - 52 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZKxDdpAkEjR.md) - [plain]
 | 35 | [So Sick](https://open.spotify.com/track/2M4MsNop9n0G9HLskcv0k8) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X) | [So Sick](https://open.spotify.com/album/6dbogWoVfRDBIKDvnWY91y) | 2:57 |
 | 36 | [Fading Like A Flower](https://open.spotify.com/track/5THQw2QDTWwOP1Hj543Rb2) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Fading Like A Flower](https://open.spotify.com/album/5wFmirRzEpKhkN1zQR73tT) | 2:25 |
 | 37 | [You're Free](https://open.spotify.com/track/0KF938333oCvIXDxe72K44) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [Ultra Naté](https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN) | [You're Free](https://open.spotify.com/album/3kufQdX9NuDXE0QxT1eDoM) | 2:47 |
-| 38 | [I Swear](https://open.spotify.com/track/3qnDirWYInwzIJC76AQdV4) | [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH) | [I Swear](https://open.spotify.com/album/2RtuGDpu3whgnOz8LvB1rO) | 2:11 |
-| 39 | [NO MIENTEN](https://open.spotify.com/track/3zUtuSPwyqKElkqfnJj3X2) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [NO MIENTEN](https://open.spotify.com/album/1g8y7NQOWqijanTecml5zw) | 2:27 |
+| 38 | [NO MIENTEN](https://open.spotify.com/track/3zUtuSPwyqKElkqfnJj3X2) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [NO MIENTEN](https://open.spotify.com/album/1g8y7NQOWqijanTecml5zw) | 2:27 |
+| 39 | [I Swear](https://open.spotify.com/track/3qnDirWYInwzIJC76AQdV4) | [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH) | [I Swear](https://open.spotify.com/album/2RtuGDpu3whgnOz8LvB1rO) | 2:11 |
 | 40 | [Diamonds \(feat\. Aleyna Tilki\)](https://open.spotify.com/track/2akrIna6A1btLmjPBN8YKI) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X), [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn) | [Diamonds \(feat\. Aleyna Tilki\)](https://open.spotify.com/album/3LNntOoLKspcyfwiYpQZ8o) | 2:48 |
 | 41 | [One By One \- Radio Edit](https://open.spotify.com/track/6kCvQVXRjVmbtZ4k76s4c4) | [Club Soda](https://open.spotify.com/artist/1sQ1gegnvsC0r1OVZHMq5r) | [One By One](https://open.spotify.com/album/21vWD0Q7nVEcl3Unv6Mjm5) | 2:18 |
 | 42 | [Hair Toss, Arms Crossed](https://open.spotify.com/track/3HzMxBV957tidhL2ft7KXA) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Hair Toss, Arms Crossed](https://open.spotify.com/album/62v8uC7bm0dN0FXvkSen7z) | 2:37 |
@@ -59,6 +59,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZKxDdpAkEjR.md) - [plain]
 | 49 | [Let Somebody Go \- Ofenbach Remix](https://open.spotify.com/track/1pDrM3rKlxA9fx3mShxzqx) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw) | [Let Somebody Go \(Ofenbach Remix\)](https://open.spotify.com/album/7lbSZjlBsWuXtR3WqsdOSN) | 3:14 |
 | 50 | [On & On](https://open.spotify.com/track/6KsEcrcGjailfCMFLriTvd) | [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7), [S1mba](https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s) | [On & On](https://open.spotify.com/album/31M60KTaTBuBHOXx16Csv0) | 2:43 |
 | 51 | [Getting Better](https://open.spotify.com/track/0LfyrFWFTEvKuW4EOAT3fj) | [New Hope Club](https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez) | [Getting Better](https://open.spotify.com/album/3x9smhttMTYsCi0vTJxLxz) | 2:46 |
-| 52 | [In The Dark](https://open.spotify.com/track/5nxuz8vIbbfc924Q6kRmba) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [In The Dark](https://open.spotify.com/album/0SOWz92S73oJ6L1kXeqITj) | 3:05 |
+| 52 | [Where Did You Go?](https://open.spotify.com/track/5JVXMPVviYuHnRtKFQZb8S) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Hit Connection 2022](https://open.spotify.com/album/09WpXdZhiURpa2SgD5ZKX0) | 2:57 |
 
-Snapshot ID: `MTY1NjYyNjUyMCwwMDAwMDAwMDRmODljOWFjMTczZTJhYzNjZmY2NDEyZjg5Y2U4Y2Zk`
+Snapshot ID: `MTY1NjYyNjUyMCwwMDAwMDAwMDkzNjhkMGVlZTBlNDQyMjY5MGU2ZTVjOTZmOGI1OTY0`

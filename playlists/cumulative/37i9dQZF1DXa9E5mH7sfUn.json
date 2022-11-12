@@ -941,10 +941,32 @@
       ],
       "date_added": "2020-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 188917,
       "name": "Maracas",
       "url": "https://open.spotify.com/track/5Cf8MCD6NcYvy8RQL2khAS"
+    },
+    {
+      "album": {
+        "name": "Las Meritas Rolas",
+        "url": "https://open.spotify.com/album/5YFS2n2pOsK6pALUUeTKi2"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        },
+        {
+          "name": "Alberto Vazquez",
+          "url": "https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc"
+        }
+      ],
+      "date_added": "2020-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188917,
+      "name": "Maracas",
+      "url": "https://open.spotify.com/track/5CrzFDK0cq8ATv6fMwcbQc"
     },
     {
       "album": {
@@ -1305,7 +1327,7 @@
       ],
       "date_added": "2020-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 286973,
       "name": "Si No Te Hubieras Ido",
       "url": "https://open.spotify.com/track/3l1ZanpJ3jFQZMqATizqfE"
@@ -1327,6 +1349,24 @@
       "duration_ms": 287906,
       "name": "Si No Te Hubieras Ido",
       "url": "https://open.spotify.com/track/62qI8m0sXpzlSjYYx0nZ83"
+    },
+    {
+      "album": {
+        "name": "Momento Retro vol. I",
+        "url": "https://open.spotify.com/album/4URCrtMbYzClIt2f6VpstT"
+      },
+      "artists": [
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        }
+      ],
+      "date_added": "2020-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289226,
+      "name": "Si No Te Hubieras Ido",
+      "url": "https://open.spotify.com/track/7BDTgXVdWYyAiW76xrdeAm"
     },
     {
       "album": {

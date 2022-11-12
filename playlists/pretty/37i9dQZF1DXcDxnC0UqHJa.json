@@ -1,12 +1,12 @@
 {
   "description": "Folksy takes on your favorite tracks. Cover: Madison Cunningham",
-  "num_followers": 466871,
+  "num_followers": 466920,
   "original_name": "Folksy Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Nzg0MjY1OCwwMDAwMDAwMGExNmUwZDVmZmQ5NTBkM2FlMWM1ODJjZDc4N2QyMDc5",
+  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMDJhYTVjODYwNTUwNTU4MGJhZDAwYWY2NWEwMTE5YWY1",
   "tracks": [
     {
       "added_at": "2022-10-14 04:00:00",
@@ -323,18 +323,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Take Me Home, Country Roads",
-        "url": "https://open.spotify.com/album/4hL63mh3FYiIQp35YAKNoo"
+        "name": "Don't Worry Baby",
+        "url": "https://open.spotify.com/album/5I1YyRxt5Gy6hptZI4fcVw"
       },
       "artists": [
         {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+          "name": "The Brook & The Bluff",
+          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
         }
       ],
-      "duration_ms": 185421,
-      "name": "Take Me Home, Country Roads",
-      "url": "https://open.spotify.com/track/154t1fkfSU7zyJojSN6gvR"
+      "duration_ms": 180468,
+      "name": "Don't Worry Baby",
+      "url": "https://open.spotify.com/track/0nR0ejXiTIg57q07kTL5ZL"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -387,18 +387,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Don't Worry Baby",
-        "url": "https://open.spotify.com/album/5I1YyRxt5Gy6hptZI4fcVw"
+        "name": "Take Me Home, Country Roads",
+        "url": "https://open.spotify.com/album/4hL63mh3FYiIQp35YAKNoo"
       },
       "artists": [
         {
-          "name": "The Brook & The Bluff",
-          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
         }
       ],
-      "duration_ms": 180468,
-      "name": "Don't Worry Baby",
-      "url": "https://open.spotify.com/track/0nR0ejXiTIg57q07kTL5ZL"
+      "duration_ms": 185421,
+      "name": "Take Me Home, Country Roads",
+      "url": "https://open.spotify.com/track/154t1fkfSU7zyJojSN6gvR"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -815,18 +815,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "In the Magic Hour Solo Sessions",
-        "url": "https://open.spotify.com/album/3cTvxUix8USFUfjiyre6B4"
+        "name": "A Long December",
+        "url": "https://open.spotify.com/album/4FSXo1nSy4io1w2NUfxMJt"
       },
       "artists": [
         {
-          "name": "Aoife O'Donovan",
-          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
+          "name": "Mary Bragg",
+          "url": "https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj"
         }
       ],
-      "duration_ms": 228626,
-      "name": "Nebraska - Acoustic",
-      "url": "https://open.spotify.com/track/35rs6w32FH0qie0kLfdtla"
+      "duration_ms": 260812,
+      "name": "A Long December",
+      "url": "https://open.spotify.com/track/5MbfStLnmOTHdAc9cftGyR"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -851,18 +851,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "A Long December",
-        "url": "https://open.spotify.com/album/4FSXo1nSy4io1w2NUfxMJt"
+        "name": "In the Magic Hour Solo Sessions",
+        "url": "https://open.spotify.com/album/3cTvxUix8USFUfjiyre6B4"
       },
       "artists": [
         {
-          "name": "Mary Bragg",
-          "url": "https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj"
+          "name": "Aoife O'Donovan",
+          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
         }
       ],
-      "duration_ms": 260812,
-      "name": "A Long December",
-      "url": "https://open.spotify.com/track/5MbfStLnmOTHdAc9cftGyR"
+      "duration_ms": 228626,
+      "name": "Nebraska - Acoustic",
+      "url": "https://open.spotify.com/track/35rs6w32FH0qie0kLfdtla"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Covers",
+        "url": "https://open.spotify.com/album/5Uww2FfuPrPKdX7XfAyRGb"
+      },
+      "artists": [
+        {
+          "name": "The Wild Reeds",
+          "url": "https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH"
+        }
+      ],
+      "duration_ms": 152885,
+      "name": "I Think We\u2019re Alone Now",
+      "url": "https://open.spotify.com/track/2NAY99q4qBsdJVDD3JDtLG"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Crossing Muddy Waters / Be My Husband",
         "url": "https://open.spotify.com/album/7dereZG0ayP3TOQJ3pqvqO"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 228320,
       "name": "Crossing Muddy Waters",
       "url": "https://open.spotify.com/track/7jb1ZSirsHV1H2cLTNbqDX"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Covers",
-        "url": "https://open.spotify.com/album/5Uww2FfuPrPKdX7XfAyRGb"
-      },
-      "artists": [
-        {
-          "name": "The Wild Reeds",
-          "url": "https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH"
-        }
-      ],
-      "duration_ms": 152885,
-      "name": "I Think We\u2019re Alone Now",
-      "url": "https://open.spotify.com/track/2NAY99q4qBsdJVDD3JDtLG"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "By Your Side / Landslide",
-        "url": "https://open.spotify.com/album/47U7NxrdQgfj6Er5KVpz42"
-      },
-      "artists": [
-        {
-          "name": "Allison Russell",
-          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
-        }
-      ],
-      "duration_ms": 266000,
-      "name": "By Your Side",
-      "url": "https://open.spotify.com/track/5bkGMS8DlS5yLnGumN5Hz4"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3nZnDPx6tHdwMeseOnkGnU"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 234917,
       "name": "Lakes of Pontchartrain (Recorded at Spotify Studios NYC)",
       "url": "https://open.spotify.com/track/4QDMaFh7BpJFE6uL4dBIgN"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "By Your Side / Landslide",
+        "url": "https://open.spotify.com/album/47U7NxrdQgfj6Er5KVpz42"
+      },
+      "artists": [
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        }
+      ],
+      "duration_ms": 266000,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/5bkGMS8DlS5yLnGumN5Hz4"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Young Brigham",
-        "url": "https://open.spotify.com/album/4m1PEBRoanU0XSqZMBQ5yO"
-      },
-      "artists": [
-        {
-          "name": "Ramblin' Jack Elliott",
-          "url": "https://open.spotify.com/artist/6iuM8yp1x2N0l6SONhyq4b"
-        }
-      ],
-      "duration_ms": 304693,
-      "name": "If I Were A Carpenter",
-      "url": "https://open.spotify.com/track/07yhlDqS99totZZkdQEWBW"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Leave Me Breathless",
         "url": "https://open.spotify.com/album/62EG6ravDzMqNtGb1CCYjy"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 240080,
       "name": "Girl From The North Country",
       "url": "https://open.spotify.com/track/6WFN2f7IptgrM2QA9LPtaE"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Young Brigham",
+        "url": "https://open.spotify.com/album/4m1PEBRoanU0XSqZMBQ5yO"
+      },
+      "artists": [
+        {
+          "name": "Ramblin' Jack Elliott",
+          "url": "https://open.spotify.com/artist/6iuM8yp1x2N0l6SONhyq4b"
+        }
+      ],
+      "duration_ms": 304693,
+      "name": "If I Were A Carpenter",
+      "url": "https://open.spotify.com/track/07yhlDqS99totZZkdQEWBW"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1863,18 +1863,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Ohio / After The Gold Rush",
-        "url": "https://open.spotify.com/album/0DstfAvDUGVokiUpr8k2ci"
+        "name": "The Circle Game [Expanded & Remastered]",
+        "url": "https://open.spotify.com/album/0Adpd728rlzyY0I3WPMOVm"
       },
       "artists": [
         {
-          "name": "Katie Pruitt",
-          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
+          "name": "Tom Rush",
+          "url": "https://open.spotify.com/artist/6vI5AwXkw8IFD7zsw6NkTp"
         }
       ],
-      "duration_ms": 294142,
-      "name": "After The Gold Rush",
-      "url": "https://open.spotify.com/track/0YDtSXyLnPVYSl31N3bF54"
+      "duration_ms": 317133,
+      "name": "The Circle Game - 2008 Remaster",
+      "url": "https://open.spotify.com/track/0TTg0rW47heYyrLO7fA2ey"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "The Circle Game [Expanded & Remastered]",
-        "url": "https://open.spotify.com/album/0Adpd728rlzyY0I3WPMOVm"
-      },
-      "artists": [
-        {
-          "name": "Tom Rush",
-          "url": "https://open.spotify.com/artist/6vI5AwXkw8IFD7zsw6NkTp"
-        }
-      ],
-      "duration_ms": 317133,
-      "name": "The Circle Game - 2008 Remaster",
-      "url": "https://open.spotify.com/track/0TTg0rW47heYyrLO7fA2ey"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "This Land Is Your Land",
         "url": "https://open.spotify.com/album/6egKGbJYX9n7YJhUBDibh9"
       },
@@ -1923,6 +1907,22 @@
       "duration_ms": 220621,
       "name": "This Land Is Your Land",
       "url": "https://open.spotify.com/track/4UtOOzXrtDa7G4gecQptuf"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Ohio / After The Gold Rush",
+        "url": "https://open.spotify.com/album/0DstfAvDUGVokiUpr8k2ci"
+      },
+      "artists": [
+        {
+          "name": "Katie Pruitt",
+          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
+        }
+      ],
+      "duration_ms": 294142,
+      "name": "After The Gold Rush",
+      "url": "https://open.spotify.com/track/0YDtSXyLnPVYSl31N3bF54"
     },
     {
       "added_at": "2022-10-14 04:00:00",

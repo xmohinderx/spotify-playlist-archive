@@ -1,12 +1,12 @@
 {
   "description": "Bluesy blips and blops",
-  "num_followers": 5056,
+  "num_followers": 5076,
   "original_name": "Bluestronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxMDQ2MCwwMDAwMDAwMGY2NGEyYmVlNTZmYTRiMjdhNGZhMDc1MDcyOGRiZWM0",
+  "snapshot_id": "MTY2NDUxMDQ2MCwwMDAwMDAwMGU1OGY3OTg0ZGFkYjMxNmE1YTYwZmNmYTBkZDljODdm",
   "tracks": [
     {
       "added_at": "2022-09-30 04:01:00",
@@ -207,22 +207,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Playing the Angel",
-        "url": "https://open.spotify.com/album/0oHWHIlUObaSopO9wOhvfz"
+        "name": "Funk from the Trunk",
+        "url": "https://open.spotify.com/album/3HA988sMUDSHmW0i7L5Wzl"
       },
       "artists": [
         {
-          "name": "Depeche Mode",
-          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
-        },
-        {
-          "name": "Steve Fitzmaurice",
-          "url": "https://open.spotify.com/artist/5jeYVkZ5F8orMysIIFNtOY"
+          "name": "Basement Freaks",
+          "url": "https://open.spotify.com/artist/77OQMkKBvHUwYyRCv6ossJ"
         }
       ],
-      "duration_ms": 221933,
-      "name": "John the Revelator",
-      "url": "https://open.spotify.com/track/4OKEETxdou0lR7LEVvEpaG"
+      "duration_ms": 203456,
+      "name": "A Blues Thang",
+      "url": "https://open.spotify.com/track/1xuBWp4HuSE6Yast5lmVPv"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -243,18 +239,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Funk from the Trunk",
-        "url": "https://open.spotify.com/album/3HA988sMUDSHmW0i7L5Wzl"
+        "name": "Playing the Angel",
+        "url": "https://open.spotify.com/album/0oHWHIlUObaSopO9wOhvfz"
       },
       "artists": [
         {
-          "name": "Basement Freaks",
-          "url": "https://open.spotify.com/artist/77OQMkKBvHUwYyRCv6ossJ"
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        },
+        {
+          "name": "Steve Fitzmaurice",
+          "url": "https://open.spotify.com/artist/5jeYVkZ5F8orMysIIFNtOY"
         }
       ],
-      "duration_ms": 203456,
-      "name": "A Blues Thang",
-      "url": "https://open.spotify.com/track/1xuBWp4HuSE6Yast5lmVPv"
+      "duration_ms": 221933,
+      "name": "John the Revelator",
+      "url": "https://open.spotify.com/track/4OKEETxdou0lR7LEVvEpaG"
     },
     {
       "added_at": "2020-12-01 05:01:00",

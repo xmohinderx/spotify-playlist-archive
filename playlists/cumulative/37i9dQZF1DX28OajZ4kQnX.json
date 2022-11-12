@@ -140,6 +140,24 @@
     },
     {
       "album": {
+        "name": "Coming In Hot",
+        "url": "https://open.spotify.com/album/6Yt2pOIVZP1QuqAxrilW2H"
+      },
+      "artists": [
+        {
+          "name": "Drillz The Rapper",
+          "url": "https://open.spotify.com/artist/7EjcbHeP9v2XgeyP718axB"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132121,
+      "name": "Coming In Hot - Short Version",
+      "url": "https://open.spotify.com/track/4PNUQ1EM9MXcZgf26Lvj6U"
+    },
+    {
+      "album": {
         "name": "Coronation",
         "url": "https://open.spotify.com/album/0BejVTOe8sGM9SCXnsy0Bx"
       },

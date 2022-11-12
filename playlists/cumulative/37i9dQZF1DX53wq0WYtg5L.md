@@ -4,7 +4,7 @@
 
 > Celebremos el orgullo mexicano con estas alegres canciones.
 
-187 songs - 9 hr 43 min - [published](https://open.spotify.com/playlist/7vxQPQv3jiLP7qT6UOaWj3)
+188 songs - 9 hr 46 min - [published](https://open.spotify.com/playlist/7vxQPQv3jiLP7qT6UOaWj3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [El Caballito](https://open.spotify.com/track/3eiOUlAZSK8DQ9IIqrg8r3) | [Mariachi Sol](https://open.spotify.com/artist/07CAFCz1O4aIpqgXZjdQHC) | [Mariachi Sol: Viva Mexico](https://open.spotify.com/album/6Gzq7vAbIoNkTAuYKzUpsR) | 2:00 | 2021-09-01 | 2022-07-29 |
 | [El Caballito](https://open.spotify.com/track/5kjGfKsHvI8zk0hd1NyJb5) | [Mariachi Sol](https://open.spotify.com/artist/07CAFCz1O4aIpqgXZjdQHC) | [Mariachi Sol: Viva Mexico](https://open.spotify.com/album/3aoj6ws1N6ePqf9H4uG4OS) | 2:00 | 2022-01-25 |  |
 | [El Caporal de Chihuahua](https://open.spotify.com/track/2XPWSMlqGUf0WlA4esS5GD) | [Mariachi Arriba Juárez](https://open.spotify.com/artist/1QTNMV42e1fk8xoHv0bfpy) | [Mariachi](https://open.spotify.com/album/0s0sjgCn8JRkEYObt8YA93) | 2:56 | 2021-09-01 |  |
-| [El carrettero](https://open.spotify.com/track/0XUNHaJR3KXWnD04OuAOtE) | [Mariachi Azteca](https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW) | [Mariachi Azteca](https://open.spotify.com/album/224xkKynDgFfWPQXnTTgMo) | 2:48 | 2022-01-25 |  |
+| [El carrettero](https://open.spotify.com/track/0XUNHaJR3KXWnD04OuAOtE) | [Mariachi Azteca](https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW) | [Mariachi Azteca](https://open.spotify.com/album/224xkKynDgFfWPQXnTTgMo) | 2:48 | 2022-01-25 | 2022-11-12 |
+| [El carrettero](https://open.spotify.com/track/6xhLVZ8pfj62bPQVkjzhaR) | [Mariachi Azteca](https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW) | [Discover Mariachi](https://open.spotify.com/album/0qxcehC69Y3LPGRlGdZNem) | 2:48 | 2022-09-12 |  |
 | [El Carrettero](https://open.spotify.com/track/0yzxLJNo9gwKWWk1TJJr15) | [Rubén Fuentes](https://open.spotify.com/artist/6q8g3vOMKyrhhRWLsOUC98), [Silvestre Vargas](https://open.spotify.com/artist/4C09kjudW0ZTpef7cMpjPF), [Mariachi Azteca](https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW) | [Mariachi Azteca](https://open.spotify.com/album/7L0qYDZ1E8Pww3fz8qkMpr) | 2:45 | 2021-09-01 | 2022-07-29 |
 | [El Cascabel](https://open.spotify.com/track/7gkwuWZqsoyEZ23ZdmZWxY) | [Mariachi America](https://open.spotify.com/artist/0WfxYVGBDHnF1C989scou2) | [Negra Linda](https://open.spotify.com/album/39YlKYk1kXF46NhElJNyId) | 6:29 | 2021-09-01 |  |
 | [El Fandanguero](https://open.spotify.com/track/1QzsAt7T5aHz1K4CAzOlNW) | [Luis Aguilar](https://open.spotify.com/artist/4vazE48JBgn7Q7itFsfFVx) | [Luis Aguilar](https://open.spotify.com/album/7wYE2NUCtpIJcetqiQ1ybd) | 2:14 | 2021-09-01 |  |

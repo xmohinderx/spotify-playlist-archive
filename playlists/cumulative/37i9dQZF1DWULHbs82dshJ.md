@@ -4,7 +4,7 @@
 
 > A trilha sonora perfeita pra te fazer companhia nesse dia chuvoso.
 
-67 songs - 4 hr 23 min - [published](https://open.spotify.com/playlist/7gdMCDylrYOpHK5il6ycy3)
+68 songs - 4 hr 26 min - [published](https://open.spotify.com/playlist/7gdMCDylrYOpHK5il6ycy3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,11 +24,12 @@
 | [Crazy for You \- Edit](https://open.spotify.com/track/6G7PVlifniapyhDCmWS2VM) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [The Immaculate Collection](https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h) | 3:45 | 2021-12-15 |  |
 | [Cruisin'](https://open.spotify.com/track/2gliw3L0oa4w8LqaHploje) | [Smokey Robinson](https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8) | [Where There's Smoke...](https://open.spotify.com/album/6dePMhqoFfN5mm73ChBgOU) | 5:52 | 2021-12-15 |  |
 | [Don't Know Why](https://open.spotify.com/track/6ybViy2qrO9sIi41EgRJgx) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me](https://open.spotify.com/album/1JvoMzqg04nC29gam4Qaiq) | 3:06 | 2021-12-15 | 2022-07-29 |
+| [Don't Know Why](https://open.spotify.com/track/7umEMqK5YuVk9mJ9fLzdUJ) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [專注爵選 Jazz for Work & Study](https://open.spotify.com/album/1gdOZL2MqhUTdiIfzoZ262) | 3:06 | 2021-12-15 |  |
 | [Don't Know Why](https://open.spotify.com/track/1zNXF2svmdlNxfS5XeNUgr) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me \(Super Deluxe Edition\)](https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl) | 3:06 | 2021-12-15 | 2022-11-11 |
 | [Dona de mim](https://open.spotify.com/track/0H8CBal2Dcu5Yc001VotZN) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Dona de mim](https://open.spotify.com/album/6suxiZXNF0F1NC8nPCJG5C) | 3:28 | 2021-12-15 |  |
 | [Eu Amo Você](https://open.spotify.com/track/04h9o3gtRD7fvGafF7ukJj) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Tim Maia 1970](https://open.spotify.com/album/7HjYI9iWYOsEEvBhyCva66) | 4:03 | 2021-12-15 |  |
 | [Every Little Bit Hurts](https://open.spotify.com/track/3sHGi1Ldr0JfoeZMoV9sNO) | [Brenda Holloway](https://open.spotify.com/artist/3nXMZsj1H0F7h9SDUeYNjg) | [The Motown Anthology](https://open.spotify.com/album/7Jkbnv3tTMR2UHznXOPPt8) | 2:50 | 2021-12-15 |  |
-| [Forfeit\. \(ft\. Lucky Daye\)](https://open.spotify.com/track/4uMvvCwqs046uxyJiFJTT1) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [KIKI](https://open.spotify.com/album/6UmILTxwjM8sME3wbsZgQh) | 4:02 | 2021-12-15 |  |
+| [Forfeit\. \(ft\. Lucky Daye\)](https://open.spotify.com/track/4uMvvCwqs046uxyJiFJTT1) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [KIKI](https://open.spotify.com/album/6UmILTxwjM8sME3wbsZgQh) | 4:02 | 2021-12-15 | 2022-11-12 |
 | [Hey](https://open.spotify.com/track/5HkW47BxKNgkW2bSNghlNa) | [We Are KING](https://open.spotify.com/artist/0FPWyyf6MD4QZTj3aypD3O) | [The Story](https://open.spotify.com/album/7iH4GsgBQHWwl8pz4nsnTM) | 4:27 | 2021-12-15 |  |
 | [How Deep Is Your Love \(feat\. Yebba\) \- Live](https://open.spotify.com/track/3SjAiqAQ6sMmsJBeVw0nMf) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Gumbo Unplugged \(Live\)](https://open.spotify.com/album/6au0qzMOjqEgc79ntU2bf6) | 3:30 | 2021-12-15 |  |
 | [Human Nature](https://open.spotify.com/track/35lAjvsvS9k9HHuP1fjDT8) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller 25 Super Deluxe Edition](https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a) | 4:05 | 2021-12-15 |  |

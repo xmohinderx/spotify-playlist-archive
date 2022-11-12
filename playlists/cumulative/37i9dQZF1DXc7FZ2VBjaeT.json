@@ -236,6 +236,24 @@
     },
     {
       "album": {
+        "name": "House Party Jams 2022",
+        "url": "https://open.spotify.com/album/2aWER8L58L5S8NdZoxaWFc"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212333,
+      "name": "Applause",
+      "url": "https://open.spotify.com/track/4V709xAq9eM1LpSf7m2GYl"
+    },
+    {
+      "album": {
         "name": "ARTPOP",
         "url": "https://open.spotify.com/album/2eRJUtI7nXrQ5uYQ7tzTo9"
       },
@@ -247,7 +265,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 212333,
       "name": "Applause",
       "url": "https://open.spotify.com/track/5ka2ajep9OAvU5Sgduhiex"
@@ -1391,10 +1409,28 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 264520,
       "name": "Marry The Night",
       "url": "https://open.spotify.com/track/1k18nxjYj8R5iz82Ap7GEY"
+    },
+    {
+      "album": {
+        "name": "BORN THIS WAY THE TENTH ANNIVERSARY",
+        "url": "https://open.spotify.com/album/6Yf9kML4wT3opmXhTUIfk7"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264520,
+      "name": "Marry The Night",
+      "url": "https://open.spotify.com/track/6xhcrb3BSNxqNVXfH6N1Uj"
     },
     {
       "album": {
@@ -1557,10 +1593,28 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 237200,
       "name": "Poker Face",
       "url": "https://open.spotify.com/track/5R8dQOPq8haW94K7mgERlO"
+    },
+    {
+      "album": {
+        "name": "2000\u5e74\u4ee3\u306b\u6d41\u884c\u3063\u305f\u6d0b\u697d!",
+        "url": "https://open.spotify.com/album/3iUSCE0uE5euGQZZV3wCNu"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238906,
+      "name": "Poker Face",
+      "url": "https://open.spotify.com/track/2q55kslMGD7M0TVW85pcca"
     },
     {
       "album": {
@@ -2343,10 +2397,28 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 307346,
       "name": "Yo\u00fc And I",
       "url": "https://open.spotify.com/track/6rkAY9rk1NTFB94QxG3LJR"
+    },
+    {
+      "album": {
+        "name": "Merenda con POP",
+        "url": "https://open.spotify.com/album/71T5BsRfSmKIH775IWTc8Y"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307346,
+      "name": "Yo\u00fc And I",
+      "url": "https://open.spotify.com/track/7Evcno8z8lqcWe0jSzkotS"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXc7FZ2VBjaeT"

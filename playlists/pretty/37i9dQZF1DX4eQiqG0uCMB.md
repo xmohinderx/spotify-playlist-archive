@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eQiqG0uCMB.md) - [plain]
 
 > Chill afro music to study with.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,755 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,791 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,9 +27,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eQiqG0uCMB.md) - [plain]
 | 17 | [OMOGE WA JO](https://open.spotify.com/track/3ra7ztUfRIwxw0sO8PhmMC) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [L0LA](https://open.spotify.com/artist/5LkJ2e1N1SuXrUIWkw1r0o) | [OMOGE WA JO](https://open.spotify.com/album/0gZF6kUZ77XxQA23NkNp5K) | 2:25 |
 | 18 | [Confession](https://open.spotify.com/track/4ucXeGcKKzubgHb932T6sl) | [AV](https://open.spotify.com/artist/4zSFP72igZmzWSRpK7AepF) | [Confession](https://open.spotify.com/album/2j6o2L4cimT1ufEDoymvTF) | 3:08 |
 | 19 | [Ijo \(Laba Laba\)](https://open.spotify.com/track/7tZMF9Hn5uGsfC7zGXbSKM) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb) | [Ijo \(Laba Laba\)](https://open.spotify.com/album/5A1qWiQBSEkCpGvQE2YfOH) | 3:06 |
-| 20 | [mmadu](https://open.spotify.com/track/3IzBeYT0GyvpPMTlppy5qr) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo) | 3:16 |
+| 20 | [Dior](https://open.spotify.com/track/6nLdg1lpE3dHLmNam1aoA6) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [The Second Wave](https://open.spotify.com/album/2X0RCBDJankvvvaJgMUUHD) | 3:40 |
 | 21 | [Worth My While](https://open.spotify.com/track/61yCjv5bKruUBDmbsls0Pn) | [Manny Norté](https://open.spotify.com/artist/5IZXhE6DcoszTt30hAeJuw), [Stalk Ashley](https://open.spotify.com/artist/6VCt6Dh7TaZF330ZFeNHv5), [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Worth My While](https://open.spotify.com/album/4xjs0e8UUcJ7HUWrapvqR5) | 3:25 |
-| 22 | [Dior](https://open.spotify.com/track/6nLdg1lpE3dHLmNam1aoA6) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [The Second Wave](https://open.spotify.com/album/2X0RCBDJankvvvaJgMUUHD) | 3:40 |
+| 22 | [mmadu](https://open.spotify.com/track/3IzBeYT0GyvpPMTlppy5qr) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo) | 3:16 |
 | 23 | [Contraband](https://open.spotify.com/track/2XWEtuwV02B9L4UNQ2wf9W) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Hypertension](https://open.spotify.com/album/3opLRe2XgBsWPtccbGUGL8) | 2:43 |
 | 24 | [In My Mind](https://open.spotify.com/track/1IiNgs5RGEYyGQFLXJvte5) | [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Bad Since '97](https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio) | 2:18 |
 | 25 | [Baby Riddim](https://open.spotify.com/track/77eZIuMTB9HrQ86L4ljqEX) | [Fave](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Baby Riddim](https://open.spotify.com/album/6dCmbmHyfCQpmJGZW9Am3b) | 3:10 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eQiqG0uCMB.md) - [plain]
 | 39 | [Different \(With Majid Jordan\)](https://open.spotify.com/track/2U474RK9GnAqXXh5YqigaY) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV), [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Different \(With Majid Jordan\)](https://open.spotify.com/album/0XRJnjejsA9YXjYGdek23k) | 2:26 |
 | 40 | [Wait For You \(feat\. Oxlade\)](https://open.spotify.com/track/1OgoSHtTZyMJt3ns3e5Lui) | [melvitto](https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [THENIGHTISYOUNG.](https://open.spotify.com/album/4np0ohQb06VAAitOpk3Rt4) | 4:14 |
 | 41 | [SHOWING OFF HER BODY \(with Davido\)](https://open.spotify.com/track/5xHodqknQtgokj6oO1giHb) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [SHOWING OFF HER BODY \(with Davido\)](https://open.spotify.com/album/5CgztNME0IW2ebmYmjWqUN) | 3:32 |
-| 42 | [Contour](https://open.spotify.com/track/5OBtqiT5Zg1BqXPx4bBo6T) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Contour](https://open.spotify.com/album/6KEXrw3lLGz9dFro9bwIri) | 3:09 |
-| 43 | [Want You](https://open.spotify.com/track/0vyg6EqfMiu45hQzFmi0YF) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Want You](https://open.spotify.com/album/7I2CUrd8gtIBHVXXhFbCuX) | 3:25 |
+| 42 | [Want You](https://open.spotify.com/track/0vyg6EqfMiu45hQzFmi0YF) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Want You](https://open.spotify.com/album/7I2CUrd8gtIBHVXXhFbCuX) | 3:25 |
+| 43 | [Contour](https://open.spotify.com/track/5OBtqiT5Zg1BqXPx4bBo6T) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Contour](https://open.spotify.com/album/6KEXrw3lLGz9dFro9bwIri) | 3:09 |
 | 44 | [Too Good](https://open.spotify.com/track/2ljnYyH3utOWhdZkkty1dQ) | [WNDRSZN](https://open.spotify.com/artist/7FaCY1DObpp7QO3S9f0RyQ) | [Too Good](https://open.spotify.com/album/3tyZSkDg5L8sti6qwxrAs3) | 3:50 |
 | 45 | [Stand Strong \(feat\. Sunday Service Choir\)](https://open.spotify.com/track/1XUf5lpeTQbrohZWdx6Sbz) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Sunday Service Choir](https://open.spotify.com/artist/2c9O21YLFy4tFI9zCVhbFg) | [Stand Strong \(feat\. Sunday Service Choir\)](https://open.spotify.com/album/3MhLmyxJueeWrXsRWlfw0e) | 3:02 |
 | 46 | [Legalize](https://open.spotify.com/track/1kd8fI9o55GNWvNOfzKcz5) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Legalize](https://open.spotify.com/album/1tEdcrmOZMzd3CACVkxvEV) | 2:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eQiqG0uCMB.md) - [plain]
 | 49 | [These Days](https://open.spotify.com/track/42KrZrk0IG0zFPzVkRNqh0) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [These Days](https://open.spotify.com/album/08qRQYikLvDOV16LBxcRTL) | 2:52 |
 | 50 | [WATAWI \(feat\. Davido, Focalistic & Abidoza\)](https://open.spotify.com/track/3AZY6NZ1R8GI9003EEFPeu) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Abidoza](https://open.spotify.com/artist/1Ck3UYsoNkZ63PLY8yZR33) | [WATAWI \(feat\. Davido, Focalistic & Abidoza\)](https://open.spotify.com/album/5hxrayrgITzYPpQ6uEg3kL) | 5:05 |
 
-Snapshot ID: `MTY2NzU0NzQ5MiwwMDAwMDAwMDgwNGE5OWFlNmIzMGEzNjYxYWI3NDAxOTgzMGE0MWMx`
+Snapshot ID: `MTY2NzU0NzQ5MiwwMDAwMDAwMGIyZDRhY2M2YWNiMjJiNjVkM2EyYzk0M2FlNTZlNGYw`

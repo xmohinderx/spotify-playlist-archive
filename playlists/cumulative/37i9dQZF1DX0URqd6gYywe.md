@@ -4,7 +4,7 @@
 
 > Dejate llevar por los mejores lentos del rock\. Foto: Babasónicos.
 
-117 songs - 8 hr 8 min - [published](https://open.spotify.com/playlist/3Hz5XnPKhoCMvogn26Eynm)
+118 songs - 8 hr 13 min - [published](https://open.spotify.com/playlist/3Hz5XnPKhoCMvogn26Eynm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Ahora 2](https://open.spotify.com/track/0qm1BbzsJEeBcnn58M0Qo1) | [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ) | [El Pozo Brillante](https://open.spotify.com/album/7ADsdI56Jau9vJmmvNWGX1) | 3:01 | 2022-06-03 | 2022-07-25 |
 | [Amanece En La Ruta](https://open.spotify.com/track/5pKVGrmItsCubKWTrYpxSZ) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [Inconsciente Colectivo](https://open.spotify.com/album/3AzpHdFjpWrGE4cCwyXAoE) | 3:14 | 2022-07-06 |  |
 | [Amor Es Dinero / Remo Erdosain](https://open.spotify.com/track/7pExh21ZPAIiH5mPn3sjYB) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Futurología Arlt](https://open.spotify.com/album/3ohXbHtGxu0wDg70yOjeCn) | 1:34 | 2022-06-03 | 2022-07-05 |
-| [Ando Ganas \(Llora Llora\)](https://open.spotify.com/track/3JE8qYm4luylvVnhVuUfvC) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Ay Ay Ay](https://open.spotify.com/album/7DApDgESPxFvCUbZWVXVHB) | 5:30 | 2022-07-06 |  |
+| [Ando Ganas \(Llora Llora\)](https://open.spotify.com/track/3JE8qYm4luylvVnhVuUfvC) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Ay Ay Ay](https://open.spotify.com/album/7DApDgESPxFvCUbZWVXVHB) | 5:30 | 2022-07-06 | 2022-11-12 |
 | [Ando Ganas \(Llora Llora\)](https://open.spotify.com/track/4vsmIkU6VJa9dXXqasvzx0) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Ay Ay Ay](https://open.spotify.com/album/2yk0KfigUqjNZSY0cov92M) | 5:30 | 2022-06-03 | 2022-07-29 |
 | [Arrancacorazones](https://open.spotify.com/track/2zogXcCqvKJwh3o67W3GG3) | [Attaque 77](https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9) | [Antihumano](https://open.spotify.com/album/3NsuNDcnIc0jAxpC9svIbz) | 4:19 | 2022-06-03 |  |
 | [Bajan](https://open.spotify.com/track/6hmYi0E6EBEmDeztQHaH0C) | [Pescado Rabioso](https://open.spotify.com/artist/3q1NXsv9XypOUCJfEatXH9) | [Artaud](https://open.spotify.com/album/5MJR9j21vjEi4ODxzhvoTA) | 3:24 | 2022-06-03 |  |
@@ -69,11 +69,11 @@
 | [Me Gusta](https://open.spotify.com/track/3pMo77B4r1NwwIK78lO4xf) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [27](https://open.spotify.com/album/2TzE5fyGKtTkci8iFNf6zW) | 4:49 | 2022-06-03 | 2022-07-29 |
 | [Me Gusta](https://open.spotify.com/track/67Q93kXygxCskeQiIP0V0j) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [27](https://open.spotify.com/album/53SyvU4UwkCQc2jqZJc0Bo) | 4:49 | 2022-07-06 |  |
 | [Me Quedo Aquí](https://open.spotify.com/track/6lUBD8XA38zIFt6C0giPsP) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Ahí Vamos](https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP) | 3:37 | 2022-06-03 |  |
-| [Mejor Callar](https://open.spotify.com/track/5eWPf8IUMtKXCtolSh678f) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Luz](https://open.spotify.com/album/4C6joZxFL6lTg6tJDE9N6o) | 3:55 | 2022-07-06 | 2022-08-16 |
+| [Mejor Callar](https://open.spotify.com/track/5eWPf8IUMtKXCtolSh678f) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Luz](https://open.spotify.com/album/4C6joZxFL6lTg6tJDE9N6o) | 3:55 | 2022-07-06 |  |
 | [Miel](https://open.spotify.com/track/1L8TwjgQ8kgvFJbpp2ODiO) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Zoe Exitos](https://open.spotify.com/album/0A9jGSvMMxAQr9iNb5p1hr) | 5:18 | 2022-07-06 | 2022-08-17 |
 | [Mirenla](https://open.spotify.com/track/027NtsXW0vpDFhzxsJKmTL) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [27](https://open.spotify.com/album/2TzE5fyGKtTkci8iFNf6zW) | 4:16 | 2022-06-03 | 2022-07-29 |
 | [Motor Psico](https://open.spotify.com/track/3JPweQejF6fiEtWEJe0qsa) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [Oktubre](https://open.spotify.com/album/1Eh8uP6MvoseEDTWIb8qv6) | 4:56 | 2022-06-03 |  |
-| [Mujer Amante](https://open.spotify.com/track/0zLv81RNFByXTZ3wu91y1R) | [Rata Blanca](https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd) | [Col 2x1: Magos, Espadas Y Rosas / Guerrero Del Arco Iris](https://open.spotify.com/album/0cOpyRpGurf8Oeg7SD3znn) | 6:03 | 2022-07-06 |  |
+| [Mujer Amante](https://open.spotify.com/track/0zLv81RNFByXTZ3wu91y1R) | [Rata Blanca](https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd) | [Col 2x1: Magos, Espadas Y Rosas / Guerrero Del Arco Iris](https://open.spotify.com/album/0cOpyRpGurf8Oeg7SD3znn) | 6:03 | 2022-07-06 | 2022-11-12 |
 | [Mujer Amante](https://open.spotify.com/track/4eCrF1FgVL4se3AkHOnLDL) | [Rata Blanca](https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd) | [Magos, Espadas Y Rosas](https://open.spotify.com/album/3wNTH6hg5KKjRtLJZHxhB9) | 6:03 | 2022-06-03 | 2022-07-29 |
 | [Mírenla](https://open.spotify.com/track/0WuKq2LiraBFney78dzwoc) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [27](https://open.spotify.com/album/53SyvU4UwkCQc2jqZJc0Bo) | 4:16 | 2022-07-06 |  |
 | [Nada Es Igual](https://open.spotify.com/track/3YLIsu2NZxqfEPj4ADA7WX) | [La Portuaria](https://open.spotify.com/artist/0Q7HmY08qjZ6SrCb9DYji7) | [Devorador De Corazones](https://open.spotify.com/album/7nJFHb7cLQNlv710wRjbvH) | 2:58 | 2022-06-03 |  |
@@ -115,6 +115,7 @@
 | [Tu Amor](https://open.spotify.com/track/3obYcaXHdTB1EvZE3PVQhd) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo), [Pedro Aznar](https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6) | [Tango 4](https://open.spotify.com/album/0JTWqpFlJobaZW5V0Y0R5T) | 3:06 | 2022-06-03 |  |
 | [Tu Mirada](https://open.spotify.com/track/0f4jyqQuSusaTYaXrWnXzS) | [Ricardo Mollo](https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7) | [Tu Mirada](https://open.spotify.com/album/6Bg5H2XTDziaGhKN0CtPGS) | 3:21 | 2022-06-03 | 2022-07-25 |
 | [Un Pacto \- Live In Buenos Aires / 2001](https://open.spotify.com/track/1lcwoylQLJUtl2pNNdZQ7p) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [De La Cabeza Con Bersuit Vergarabat \(Live In Buenos Aires / 2001\)](https://open.spotify.com/album/7xdsaV2y15dItFMlsoWTqu) | 4:55 | 2022-07-06 | 2022-11-11 |
+| [Un Pacto \- Live In Buenos Aires / 2001](https://open.spotify.com/track/56ApSRqCZjltnow7E0xQMC) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [\#MusicaEnCasa para cocinar](https://open.spotify.com/album/7prmDbc4pNPuJZzswgrxP4) | 4:55 | 2022-07-06 |  |
 | [Un Pacto \- Live In Buenos Aires / 2001](https://open.spotify.com/track/0TNFwyywtAp01QF6mJZWXT) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO), [Manuel Uriona](https://open.spotify.com/artist/750vBTWQA9JFgpnYUfwsNL), [Javier Casalla](https://open.spotify.com/artist/2LzLXJNPrHvw62NE5vKIHo) | [De La Cabeza Con Bersuit Vergarabat](https://open.spotify.com/album/4YD4Z01Dk7Vxb4oPcEPevL) | 4:55 | 2022-06-03 | 2022-07-29 |
 | [Una y Otra Vez](https://open.spotify.com/track/4odPPgH2sPMadY0nKws2pW) | [Ricardo Mollo](https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7) | [Una y Otra Vez](https://open.spotify.com/album/4HbrGsJV51qvPJnmDaMvhK) | 2:10 | 2022-06-03 | 2022-07-28 |
 | [Va a Ser Difícil Olvidar](https://open.spotify.com/track/0Nylt3biQgd30wwgGqFCPm) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Al Parecer Todo Ha Sido una Trampa](https://open.spotify.com/album/25wv6eU2tDQDPLAYTyuj2Q) | 3:53 | 2022-07-06 |  |

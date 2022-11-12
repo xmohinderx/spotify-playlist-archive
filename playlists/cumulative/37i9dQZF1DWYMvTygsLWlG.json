@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "The Best 90s Album In The World...Ever!",
+        "url": "https://open.spotify.com/album/4UkEvuAF0oirvH9HUAWSnk"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394133,
+      "name": "(Everything I Do) I Do It For You",
+      "url": "https://open.spotify.com/track/3RqAEC7aZieiWE7qLjs1jv"
+    },
+    {
+      "album": {
         "name": "Waking Up The Neighbours",
         "url": "https://open.spotify.com/album/061uAXmheZOILmf2rr3tTn"
       },
@@ -37,7 +55,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 394133,
       "name": "(Everything I Do) I Do It For You",
       "url": "https://open.spotify.com/track/6eBK3edMW7bEzecF1eCezc"
@@ -193,6 +211,24 @@
       "duration_ms": 228280,
       "name": "A Moment Like This",
       "url": "https://open.spotify.com/track/4kvdX9zzsix7jYHsRVkVUH"
+    },
+    {
+      "album": {
+        "name": "Feel Good Soft Pop",
+        "url": "https://open.spotify.com/album/7wXzWDRnAysERacu35FhYn"
+      },
+      "artists": [
+        {
+          "name": "Christina Perri",
+          "url": "https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285120,
+      "name": "A Thousand Years",
+      "url": "https://open.spotify.com/track/1xKwzNCnCOpqWJJA5TAZan"
     },
     {
       "album": {
@@ -405,7 +441,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 353026,
       "name": "Always",
       "url": "https://open.spotify.com/track/2RChe0r2cMoyOvuKobZy44"
@@ -693,7 +729,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 254082,
       "name": "Because I Love You (The Postman Song)",
       "url": "https://open.spotify.com/track/6R6tcLW1G8SBSLtfQlXVFM"
@@ -945,10 +981,28 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 274933,
       "name": "By Your Side",
       "url": "https://open.spotify.com/track/7H3ojI1BsVy0dEJENqMt1k"
+    },
+    {
+      "album": {
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/3JYT9f8X9LOfpTzbKDWN4a"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279746,
+      "name": "By Your Side - Remastered",
+      "url": "https://open.spotify.com/track/6wBHYoPsAqS88OwfjCvlaq"
     },
     {
       "album": {
@@ -1263,7 +1317,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 268293,
       "name": "Endless Love - From \"The Endless Love\" Soundtrack",
       "url": "https://open.spotify.com/track/0rt0dZ11FVsvprbarag5tk"
@@ -1321,6 +1375,24 @@
       "duration_ms": 251346,
       "name": "Every Breath You Take",
       "url": "https://open.spotify.com/track/16fzReMJmcLlBccnZCTZNS"
+    },
+    {
+      "album": {
+        "name": "Capodanno 80's Party",
+        "url": "https://open.spotify.com/album/0RC9BkBImV6IAL5942zXHv"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251760,
+      "name": "Every Breath You Take",
+      "url": "https://open.spotify.com/track/3q6iKaLcyppKggDzS9RucN"
     },
     {
       "album": {
@@ -1389,7 +1461,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 212373,
       "name": "Everything",
       "url": "https://open.spotify.com/track/4T6HLdP6OcAtqC6tGnQelG"
@@ -1847,7 +1919,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 251106,
       "name": "Hello",
       "url": "https://open.spotify.com/track/0mHyWYXmmCB9iQyK18m3FQ"
@@ -2013,6 +2085,24 @@
       "duration_ms": 238013,
       "name": "How Can You Mend a Broken Heart - 2009 Remastered Version",
       "url": "https://open.spotify.com/track/5YDy9r7gC44qwT3kaWRBI0"
+    },
+    {
+      "album": {
+        "name": "Love Songs - Timeless Classics",
+        "url": "https://open.spotify.com/album/76lPKmd1V1x0I3gSx0pmTa"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245200,
+      "name": "How Deep Is Your Love",
+      "url": "https://open.spotify.com/track/0TEQwkISusxCFUlfgrV6uc"
     },
     {
       "album": {
@@ -2189,7 +2279,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 257959,
       "name": "I Can Love You Like That",
       "url": "https://open.spotify.com/track/70d8omRI2p7qesFOiy55Ro"
@@ -2261,7 +2351,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 237693,
       "name": "I Don't Want to Live Without You",
       "url": "https://open.spotify.com/track/19aYH2zhbnTNx4plfenrIk"
@@ -2438,6 +2528,24 @@
     },
     {
       "album": {
+        "name": "U218 Singles",
+        "url": "https://open.spotify.com/album/0pYUq4UiXNgq8mO23rlHVU"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277333,
+      "name": "I Still Haven't Found What I'm Looking For",
+      "url": "https://open.spotify.com/track/49Nm3tdtTOZ0nwGDGcqK5w"
+    },
+    {
+      "album": {
         "name": "The Joshua Tree (Super Deluxe)",
         "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
       },
@@ -2449,7 +2557,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 277476,
       "name": "I Still Haven't Found What I'm Looking For",
       "url": "https://open.spotify.com/track/6wpGqhRvJGNNXwWlPmkMyO"
@@ -2604,6 +2712,28 @@
     },
     {
       "album": {
+        "name": "#1 to Infinity",
+        "url": "https://open.spotify.com/album/3FSCbVL6dGzqkHwn7LYqxK"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        },
+        {
+          "name": "Trey Lorenz",
+          "url": "https://open.spotify.com/artist/23kP8xlQifcAV4nd84iHbW"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264240,
+      "name": "I'll Be There (feat. Trey Lorenz) - Live at MTV Unplugged, Kaufman Astoria Studios, New York - March 1992",
+      "url": "https://open.spotify.com/track/2fXNIyzcOjc5Otknzsfi2O"
+    },
+    {
+      "album": {
         "name": "II",
         "url": "https://open.spotify.com/album/1DjxZpmeR9Dzu9tF4J44S7"
       },
@@ -2633,7 +2763,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 236773,
       "name": "I'll Make Love To You",
       "url": "https://open.spotify.com/track/61sQYdFNS6sEBYCyr1q5gn"
@@ -2875,7 +3005,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 214306,
       "name": "If Tomorrow Never Comes",
       "url": "https://open.spotify.com/track/40dCbY0oJsG2ZdvaGVB34d"
@@ -3067,6 +3197,24 @@
       "duration_ms": 290573,
       "name": "Just the Way You Are",
       "url": "https://open.spotify.com/track/49MHCPzvMLXhRjDantBMVH"
+    },
+    {
+      "album": {
+        "name": "Feelgood Love Songs",
+        "url": "https://open.spotify.com/album/5kk3t73x2swdEuZpx4kVVH"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220733,
+      "name": "Just the Way You Are",
+      "url": "https://open.spotify.com/track/4RFE7Lbo5NrXkZfX0qvhKD"
     },
     {
       "album": {
@@ -3279,7 +3427,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 199396,
       "name": "Let's Stay Together",
       "url": "https://open.spotify.com/track/63xdwScd1Ai1GigAwQxE8y"
@@ -3578,6 +3726,24 @@
     },
     {
       "album": {
+        "name": "The Best R&B Album In The World...Ever!",
+        "url": "https://open.spotify.com/album/5951PWo8I0JCeGb6S935xY"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232626,
+      "name": "Love Yourself",
+      "url": "https://open.spotify.com/track/5GsBjgZNyV2LIvLFQDmn4x"
+    },
+    {
+      "album": {
         "name": "Purpose (Deluxe)",
         "url": "https://open.spotify.com/album/7fZH0aUAjY3ay25obOUf2a"
       },
@@ -3715,10 +3881,28 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 212040,
       "name": "Make You Feel My Love",
       "url": "https://open.spotify.com/track/5FgPwJ7Nh2FVmIXviKl2VF"
+    },
+    {
+      "album": {
+        "name": "Make You Feel My Love",
+        "url": "https://open.spotify.com/album/4K1tS9SCKWJX4NQCcMUcUx"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212040,
+      "name": "Make You Feel My Love",
+      "url": "https://open.spotify.com/track/6otXN6h5J6e49Lvse5yCwD"
     },
     {
       "album": {
@@ -3859,10 +4043,46 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 165000,
       "name": "My Girl",
       "url": "https://open.spotify.com/track/745H5CctFr12Mo7cqa1BMH"
+    },
+    {
+      "album": {
+        "name": "Love Songs & Chill",
+        "url": "https://open.spotify.com/album/7oHVRFtPa3Tf6h8AAqczOK"
+      },
+      "artists": [
+        {
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175706,
+      "name": "My Girl - Single Version/Mono",
+      "url": "https://open.spotify.com/track/7sMjzdbSUuhcJIFdR3D8pS"
+    },
+    {
+      "album": {
+        "name": "Titanic: Original Motion Picture Soundtrack - Collector's Anniversary Edition",
+        "url": "https://open.spotify.com/album/3XwgFTxiWxep4s1VjPEaHs"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282733,
+      "name": "My Heart Will Go On (Dialogue Mix) - includes \"Titanic\" film dialogue",
+      "url": "https://open.spotify.com/track/4aId6eo2ChFruN91wIoP6N"
     },
     {
       "album": {
@@ -4230,6 +4450,24 @@
     },
     {
       "album": {
+        "name": "I Will Always Love You: The Best Of Whitney Houston",
+        "url": "https://open.spotify.com/album/0IOYlkPLTNWcByZGPwf9gm"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285000,
+      "name": "One Moment in Time",
+      "url": "https://open.spotify.com/track/3cxjdKOZAlZO1steLpP8dN"
+    },
+    {
+      "album": {
         "name": "Whitney The Greatest Hits",
         "url": "https://open.spotify.com/album/3HIvslQ2pY9AgR3jDmmJkg"
       },
@@ -4241,7 +4479,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 285000,
       "name": "One Moment in Time",
       "url": "https://open.spotify.com/track/5IDUGTWbntYwO9SNmhuSWf"
@@ -4720,6 +4958,24 @@
     },
     {
       "album": {
+        "name": "Summer Wedding 2022",
+        "url": "https://open.spotify.com/album/2yrkPZE0hM0xphk6WY9DRc"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257825,
+      "name": "She Will Be Loved - Radio Mix",
+      "url": "https://open.spotify.com/track/3jtmQIVQtc1LT9pkxm4x9f"
+    },
+    {
+      "album": {
         "name": "Songs About Jane: 10th Anniversary Edition",
         "url": "https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc"
       },
@@ -4926,6 +5182,24 @@
     },
     {
       "album": {
+        "name": "Calm for Kids",
+        "url": "https://open.spotify.com/album/2WfgzVuiRmJLTv9FpiunRu"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172723,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/2V60Yqudwxrmtp7wLxNkq6"
+    },
+    {
+      "album": {
         "name": "Stay With Me",
         "url": "https://open.spotify.com/album/5GLpqSDFk6K9gYLsK6LHRr"
       },
@@ -5081,7 +5355,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 256173,
       "name": "The Lady In Red",
       "url": "https://open.spotify.com/track/1GeNWyZtCHbcp3ZWp8GTOO"
@@ -5103,6 +5377,24 @@
       "duration_ms": 256487,
       "name": "The Lady In Red",
       "url": "https://open.spotify.com/track/5tHbBxWjTxaQpL5SrT17Tz"
+    },
+    {
+      "album": {
+        "name": "20th Century Masters : The Best Of Chris De Burgh",
+        "url": "https://open.spotify.com/album/5gn55uONBqgWjzrlTg54xE"
+      },
+      "artists": [
+        {
+          "name": "Chris de Burgh",
+          "url": "https://open.spotify.com/artist/2RpHsROrX075xfIwHn6B2U"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257506,
+      "name": "The Lady In Red",
+      "url": "https://open.spotify.com/track/299DcgCg1Grd1G16QBrHKH"
     },
     {
       "album": {
@@ -5889,6 +6181,24 @@
       "duration_ms": 313226,
       "name": "Wind Of Change",
       "url": "https://open.spotify.com/track/6wjSNO6uJYlgbbfauyWhiw"
+    },
+    {
+      "album": {
+        "name": "The Best Of 1980-1990 & B-Sides",
+        "url": "https://open.spotify.com/album/205bQLiKXCiUIt3HKlcBUb"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295200,
+      "name": "With Or Without You",
+      "url": "https://open.spotify.com/track/0S7xoZjcE35i0w9cpikMKK"
     },
     {
       "album": {

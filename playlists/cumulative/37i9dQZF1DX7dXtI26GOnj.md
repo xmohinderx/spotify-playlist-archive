@@ -2,9 +2,9 @@
 
 ### [Calorcito](https://open.spotify.com/playlist/37i9dQZF1DX7dXtI26GOnj)
 
-> Todo o calor latino está aqui! 🔥
+> Todo o calor latino está aqui! 🔥  foto: Rauw Alejandro
 
-204 songs - 10 hr 48 min - [published](https://open.spotify.com/playlist/0hWEX2Wmud5ZvfLlh8QTkr)
+205 songs - 10 hr 52 min - [published](https://open.spotify.com/playlist/0hWEX2Wmud5ZvfLlh8QTkr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [La Triple T](https://open.spotify.com/track/7kYbxvrGXv8cmKjkqgqhrw) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [La Triple T](https://open.spotify.com/album/3qawASs1sOKod3clkhZTvv) | 2:47 | 2022-05-06 |  |
 | [La Tóxica](https://open.spotify.com/track/5lwNIm2sP8ixUpCkeoO9G9) | [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [La Tóxica](https://open.spotify.com/album/6Wb4ju59AnNwUgPwKgwyqI) | 2:51 | 2022-01-14 | 2022-02-05 |
 | [Lejos Conmigo](https://open.spotify.com/track/6bEyu7fMzsnP5COEg3RkWn) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Lejos Conmigo](https://open.spotify.com/album/1LofKMQ8ZnMIcghheAXVtM) | 2:55 | 2021-12-31 | 2022-07-09 |
+| [LEJOS DEL CIELO](https://open.spotify.com/track/39qtjJ454r2fgyXaenq8Wv) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [LEJOS DEL CIELO](https://open.spotify.com/album/4144E5wmhkJZJX4UR3Hw5M) | 3:28 | 2022-11-11 |  |
 | [Levado](https://open.spotify.com/track/15psePad9IL6X85xlyjzRh) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Rennan Guerra](https://open.spotify.com/artist/1342WybEuWuTMbl8emV1TA), [Patrick Laplan](https://open.spotify.com/artist/4XfU95qBFC5ZmdhfRXeP6o) | [Levado](https://open.spotify.com/album/2vJRY4PZKv6wtUdG7Uoldy) | 2:55 | 2022-09-30 | 2022-10-15 |
 | [Llueve](https://open.spotify.com/track/5yDAnr9USNQTP6ojiWBCvv) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [Llueve](https://open.spotify.com/album/3z4zsIdBVA0vJh8Udz4TJD) | 4:09 | 2022-06-03 | 2022-06-11 |
 | [Loco](https://open.spotify.com/track/6PDlkWmrq2ZKiUuFt2aQsH) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Loco](https://open.spotify.com/album/0Aq33KpcbXrHkuyfMhEORI) | 3:51 | 2021-12-31 |  |
@@ -141,7 +142,7 @@
 | [Oh Na Na](https://open.spotify.com/track/03NqHNdG3Ur6kciQWK6e8V) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [Oh Na Na](https://open.spotify.com/album/6gkAMKnELz3nS8KtSDTPko) | 3:23 | 2021-12-31 | 2022-02-01 |
 | [OH!](https://open.spotify.com/track/0BdvXA4vGlv0SXx4t5n1l6) | [Ella & The Pepperjuice](https://open.spotify.com/artist/4Tb9GFwAjn7ZdO3Pb1BgzQ), [Yina Rose](https://open.spotify.com/artist/26rJDvsSFAwubgxSpsz5Ba) | [OH!](https://open.spotify.com/album/5FImIH6mATm8FDtx9MFoD2) | 3:09 | 2022-06-17 | 2022-07-09 |
 | [Ojalá](https://open.spotify.com/track/4dLIAE3xbJLoiIBbKkZWJk) | [The Rudeboyz](https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n) | [Ojalá](https://open.spotify.com/album/00XhrF5bpFfMJ0tT85DkTY) | 3:09 | 2022-10-21 |  |
-| [Ojos Rojos](https://open.spotify.com/track/5hYRabCQuFZN8yVCQsSeyF) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Ojos Rojos](https://open.spotify.com/album/4Vk8xZfdH45J2gDHs3lSjY) | 2:32 | 2022-01-31 |  |
+| [Ojos Rojos](https://open.spotify.com/track/5hYRabCQuFZN8yVCQsSeyF) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Ojos Rojos](https://open.spotify.com/album/4Vk8xZfdH45J2gDHs3lSjY) | 2:32 | 2022-01-31 | 2022-11-12 |
 | [Onde Anda](https://open.spotify.com/track/6pjwF61Itkaucau73UsfhK) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um), [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu) | [Onde Anda](https://open.spotify.com/album/2BLhHO8nvFd0rzzCEiJxd0) | 2:57 | 2022-04-01 | 2022-06-18 |
 | [Otra Noche Sin Ti](https://open.spotify.com/track/2CdTLdDjwZdVcm0bresVWx) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Otra Noche Sin Ti](https://open.spotify.com/album/0Q7L1MC5jSE0srnjEWCifV) | 3:48 | 2021-12-31 | 2022-11-11 |
 | [OTRO FILI](https://open.spotify.com/track/4iDhQFNWG6uHWi7LOKhmkP) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [OTRO FILI](https://open.spotify.com/album/5o6DNQH8TFROqbcvnikXkj) | 3:22 | 2021-12-31 | 2022-04-23 |

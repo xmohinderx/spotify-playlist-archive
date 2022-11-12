@@ -4,7 +4,7 @@
 
 > Sit back and unwind to the most selamba songs around.
 
-270 songs - 14 hr 49 min - [published](https://open.spotify.com/playlist/7538s5dwa1woUVGGycWJCO)
+271 songs - 14 hr 52 min - [published](https://open.spotify.com/playlist/7538s5dwa1woUVGGycWJCO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Bad Haircut \(feat\. JVKE\)](https://open.spotify.com/track/0b8HcbULuUTZI07s1q7o4K) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [oh to be in love](https://open.spotify.com/album/4Nd7dd1PVy1LZgfmnp2fa9) | 3:42 | 2022-05-27 |  |
 | [bad together](https://open.spotify.com/track/6hUH9vmhbKRzTBsQhaBqjw) | [CLAUDIA](https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P), [TY:DEL](https://open.spotify.com/artist/2hPhnwoTrcoFeuP9pwdClH), [Irwinandfire](https://open.spotify.com/artist/05OqdicfTgKQVfyEOXfKRa) | [bad together](https://open.spotify.com/album/4boCQFMHPbjwGqIf4hHpa5) | 2:50 | 2022-05-27 | 2022-07-29 |
 | [baggage](https://open.spotify.com/track/1S0JzPuqUbCw3Jd14fGn2b) | [SHN](https://open.spotify.com/artist/5EovY4LBurcmsfIdpNEtfq) | [baggage](https://open.spotify.com/album/3AuIno5NGIaCoRnILRyxab) | 3:01 | 2022-05-27 | 2022-06-20 |
-| [Be My Ocean](https://open.spotify.com/track/6CsbniEMwV9GizQBujF7HJ) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS) | [Michelle](https://open.spotify.com/album/4nwc5hfr304Ucj4MK6c9lb) | 2:33 | 2022-05-27 | 2022-07-29 |
+| [Be My Ocean](https://open.spotify.com/track/6CsbniEMwV9GizQBujF7HJ) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS) | [Michelle](https://open.spotify.com/album/4nwc5hfr304Ucj4MK6c9lb) | 2:33 | 2022-05-27 |  |
 | [BEAUTiFUL](https://open.spotify.com/track/7nDp1GRUcGuwpxLFmL8CZN) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [BEAUTiFUL](https://open.spotify.com/album/2g4oO9W4k5oKtND4ctGzZy) | 3:32 | 2022-08-18 |  |
 | [Beautiful Day](https://open.spotify.com/track/2gTLLRw4CBl709U3dRICEh) | [Coldiac](https://open.spotify.com/artist/42BY4cYu4ZSj37CbSYjDgA) | [Beautiful Day](https://open.spotify.com/album/03ZB5kFwcHIijh2urFzcOV) | 2:55 | 2022-05-27 |  |
 | [Bedroom \(feat\. Anne\-Marie\)](https://open.spotify.com/track/2TkAUHBaCReXruGnMVPGNL) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Bedroom \(feat\. Anne\-Marie\)](https://open.spotify.com/album/2oF2nQnJr8Fg43g2oo68uX) | 3:23 | 2022-05-27 |  |
@@ -95,7 +95,7 @@
 | [gave u my h3@rt](https://open.spotify.com/track/0tvhSkTe9W8dRbnh6DtuB5) | [Talitha.](https://open.spotify.com/artist/4wkxDp8esk6g2W9Fw7IQGY) | [gave u my h3@rt](https://open.spotify.com/album/7GbJMCNrNaWVmlGExxLvy9) | 3:11 | 2022-08-18 | 2022-09-10 |
 | [girl of the earth](https://open.spotify.com/track/4yLWk1DIcgBihCDFD7MshU) | [noui](https://open.spotify.com/artist/3NNLu9Wli3fbZW22xzN08B) | [innerchild](https://open.spotify.com/album/72jZtqNaiAbUmcU5OqVgp9) | 3:50 | 2022-07-10 | 2022-07-18 |
 | [Give Me Your Forever \(ft\. Billkin\)](https://open.spotify.com/track/7g3ryXLtXExZ0OFCj17Ae1) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac), [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [Give Me Your Forever](https://open.spotify.com/album/38BPy1OGJ1aX8IYvveN3hv) | 4:04 | 2022-05-27 |  |
-| [Go Higher](https://open.spotify.com/track/350MlI4iDtv6fYwM4PKSA4) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Go Higher](https://open.spotify.com/album/1e1tDPUR08v96ZT7RPV7eb) | 3:28 | 2022-07-10 |  |
+| [Go Higher](https://open.spotify.com/track/350MlI4iDtv6fYwM4PKSA4) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Go Higher](https://open.spotify.com/album/1e1tDPUR08v96ZT7RPV7eb) | 3:28 | 2022-07-10 | 2022-11-12 |
 | [gone too long](https://open.spotify.com/track/2EXvZ3ZSOEVGnFZXVVyzTf) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [gone too long](https://open.spotify.com/album/4ONi7DThlpcPq7O3Dhf7Na) | 2:27 | 2022-05-27 | 2022-07-29 |
 | [Good Behaviour](https://open.spotify.com/track/3nnvLEArRQf6HgpC8VNqgK) | [Linying](https://open.spotify.com/artist/5IIP34JBy1d8kBYlAGnRaW) | [Good Behaviour](https://open.spotify.com/album/4bAfpIai1dvdqA0UgA5r7c) | 4:03 | 2022-05-27 | 2022-07-22 |
 | [Good For A Time \(feat\. Bea Lorenzo\)](https://open.spotify.com/track/3uan6scrspVI9GQQWdtya2) | [Benjamin Kheng](https://open.spotify.com/artist/53GouHDfCfsBJIn1OjYmPO), [Bea Lorenzo](https://open.spotify.com/artist/6IwtJ7xt7qhukLAqLwHvzG) | [Good For A Time \(feat\. Bea Lorenzo\)](https://open.spotify.com/album/3KjBwYUsTtWGFVJ2IjV6qs) | 2:24 | 2022-05-27 |  |
@@ -152,6 +152,7 @@
 | [Mirage](https://open.spotify.com/track/3D25C0kj7TvfTUJukgjast) | [Sezairi](https://open.spotify.com/artist/51sob9QZyfLff9XqvYluN5) | [Mirage](https://open.spotify.com/album/2OEKd71pRVBSPHmmwwPqnc) | 3:25 | 2022-06-03 | 2022-06-10 |
 | [mirror](https://open.spotify.com/track/1EgzmXxvjwC5aS8g6A2osl) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [mirror](https://open.spotify.com/album/0aC3BQYnDDhjdKlJEPMGmc) | 3:01 | 2022-06-16 | 2022-06-26 |
 | [miss u](https://open.spotify.com/track/14AjZE4ChxwMepTzvz56RO) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj) | [miss u](https://open.spotify.com/album/7gZBX0q9eBUVXeOind7AxT) | 3:18 | 2022-06-16 | 2022-07-14 |
+| [Moonlight](https://open.spotify.com/track/54EWwXt6RCv5Err39SHUxK) | [YAØ](https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ) | [Moonlight](https://open.spotify.com/album/1GoPGMUac5hoSm6A7UF819) | 3:06 | 2022-10-27 |  |
 | [Morning Blue](https://open.spotify.com/track/71qr4SoRZ61SKxhH4XhAqP) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Morning Blue](https://open.spotify.com/album/2ewGI2tIH2rBS0j5avcEfG) | 3:37 | 2022-07-10 |  |
 | [move](https://open.spotify.com/track/2Ryp5LkAWyJwRqoFd8N7Kk) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [move](https://open.spotify.com/album/1gaYhlmZa4fT0NfH1IiSQ4) | 2:28 | 2022-07-10 |  |
 | [mr\. lonely](https://open.spotify.com/track/1vVjUmCkaV9cIg5ZeS7MTZ) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [mr\. lonely](https://open.spotify.com/album/5pZxeK0sV5o4Su8OmJ8iyR) | 2:58 | 2022-05-27 | 2022-07-28 |
@@ -226,7 +227,7 @@
 | [Spring Will Always Come](https://open.spotify.com/track/3I0s4RQYDXPSZ5v6dEnaxf) | [Annette Lee](https://open.spotify.com/artist/7DOJeU8k34aMTZl014gcEC) | [Spring Will Always Come](https://open.spotify.com/album/7MBq8el4axrJJG811qiraL) | 3:05 | 2022-06-03 | 2022-07-27 |
 | [Springtime](https://open.spotify.com/track/12OsT8udgAJilYkSMHU6tl) | [Linying](https://open.spotify.com/artist/5IIP34JBy1d8kBYlAGnRaW) | [Springtime](https://open.spotify.com/album/2SZuHCD2C6ePvxkL81QoGE) | 3:52 | 2022-05-27 | 2022-07-28 |
 | [Stay Where You Are](https://open.spotify.com/track/1hCss2zjMPOdWFbr5Ryf3F) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Stay Where You Are](https://open.spotify.com/album/4gHiYSPUmmPoTT8h4AHHaS) | 3:29 | 2022-05-27 | 2022-07-20 |
-| [Stay Where You Are](https://open.spotify.com/track/68GFZFc2Fa5HLdv6TXziSD) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Stay Where You Are](https://open.spotify.com/album/1Mun53MZEPEfXJpHbCArDJ) | 3:29 | 2022-07-10 |  |
+| [Stay Where You Are](https://open.spotify.com/track/68GFZFc2Fa5HLdv6TXziSD) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Stay Where You Are](https://open.spotify.com/album/1Mun53MZEPEfXJpHbCArDJ) | 3:29 | 2022-07-10 | 2022-11-12 |
 | [Summertime](https://open.spotify.com/track/6oFFjz1MwyU3qtaXnyqQ8X) | [Dru Chen](https://open.spotify.com/artist/0n1n8JVg3vec8svJHivjnf), [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [Summertime](https://open.spotify.com/album/72mAZGmywwA8WkAjyceo6T) | 2:38 | 2022-05-27 | 2022-07-24 |
 | [Sumthin Bout Love](https://open.spotify.com/track/36PagkhheRVG0iFaM55njV) | [Belanegara Abe](https://open.spotify.com/artist/7ynDbLbbf0ldcQvzPyALuA), [Kaleb J](https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb), [Rayi Putra](https://open.spotify.com/artist/3FduEXHFSq8Hboekc8JMUR) | [Sumthin Bout Love](https://open.spotify.com/album/6eqKKHirJmjLlVBJCN87i9) | 3:50 | 2022-06-16 | 2022-07-08 |
 | [sweet girl](https://open.spotify.com/track/6R0YOHfWscZ5RDmkgHLInC) | [Tyas Iglesias](https://open.spotify.com/artist/7BWkc2qgMWZWVbP2vUTob1) | [sweet girl](https://open.spotify.com/album/1KIN0eKn4uiVvNNNGltm4n) | 3:10 | 2022-06-03 | 2022-06-11 |

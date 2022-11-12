@@ -4,7 +4,7 @@
 
 > alternative hits of today, tomorrow, and then some\. Cover: Blu DeTiger
 
-438 songs - 22 hr 47 min - [published](https://open.spotify.com/playlist/1wVw7z1lWnvceI3e0NeFmp)
+439 songs - 22 hr 50 min - [published](https://open.spotify.com/playlist/1wVw7z1lWnvceI3e0NeFmp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -393,7 +393,7 @@
 | [THREE HEADS\*](https://open.spotify.com/track/4apXjryIqMFUdOjWMM6zZp) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [THREE HEADS\*](https://open.spotify.com/album/02BIHNzIl0WCC17CPM83gN) | 2:51 | 2022-08-19 | 2022-10-11 |
 | [three wheels and it still drives!](https://open.spotify.com/track/7z21w7xNVQyAnTtoQhhlBk) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [three wheels and it still drives!](https://open.spotify.com/album/6j7Str8rnrWCUEWOe4rPFV) | 3:20 | 2022-10-07 |  |
 | [Thriving](https://open.spotify.com/track/05iLS2VOLss6mnHYDV0Lfd) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Lady Jesus](https://open.spotify.com/album/3INiPPjvwK4RGIV4Qed2Qu) | 2:15 | 2022-02-04 | 2022-03-12 |
-| [Tightrope](https://open.spotify.com/track/1ftxpepwP6o3oEPTIlKK58) | [bennytheghost](https://open.spotify.com/artist/2RhVihxqFGSR3bDu32i9B2) | [29 Palms \(Deluxe\)](https://open.spotify.com/album/5NTmiYnxmIBVKqKAR9Ql4x) | 2:20 | 2022-10-07 |  |
+| [Tightrope](https://open.spotify.com/track/1ftxpepwP6o3oEPTIlKK58) | [bennytheghost](https://open.spotify.com/artist/2RhVihxqFGSR3bDu32i9B2) | [29 Palms \(Deluxe\)](https://open.spotify.com/album/5NTmiYnxmIBVKqKAR9Ql4x) | 2:20 | 2022-10-07 | 2022-11-12 |
 | [Tightrope](https://open.spotify.com/track/5kzsfmg5XrlG2cxnHbBNC5) | [bennytheghost](https://open.spotify.com/artist/2RhVihxqFGSR3bDu32i9B2) | [Tightrope](https://open.spotify.com/album/6tUJXb2qxc4VBSmPeQYXrp) | 2:20 | 2022-04-22 | 2022-10-13 |
 | [To Let Go](https://open.spotify.com/track/7ybxuSL3NzBDlshVO9Vhul) | [Quarters of Change](https://open.spotify.com/artist/0mnruuV4CcKu7Ux7kBZ5sa) | [To Let Go](https://open.spotify.com/album/66Vkva6n6mO7oWJEUyEA4N) | 3:19 | 2022-10-28 |  |
 | [Tokyo](https://open.spotify.com/track/37UEu9sWDiGp1GpufYw2Tc) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY), [Christo Bowman](https://open.spotify.com/artist/6KSZuZigeTureDNedWHZxz) | [Heart Eater](https://open.spotify.com/album/0kRUwtTUfl40ftsYlxJg8V) | 3:20 | 2022-06-13 | 2022-07-29 |
@@ -419,6 +419,7 @@
 | [Wake Me Up](https://open.spotify.com/track/4MDDOpA7BwGDjYclTmCTVw) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Wake Me Up](https://open.spotify.com/album/7MyrKdRkvj8hK20cLBj5jI) | 4:23 | 2022-02-04 | 2022-03-26 |
 | [Wake Up](https://open.spotify.com/track/4lanb9IYNnwzlQd9XmTjju) | [7evin7ins](https://open.spotify.com/artist/4Nr6sbnl0dWasnapIxS92I) | [Wake Up](https://open.spotify.com/album/7jc2djmbyBkslfXec7H6yv) | 2:54 | 2022-06-10 | 2022-07-13 |
 | [Wake Up](https://open.spotify.com/track/2JLhVqWY3tzTwtjZXbUdnQ) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Wake Up](https://open.spotify.com/album/635iu3VXqCVPvUJvOoCDB9) | 3:36 | 2022-06-17 | 2022-10-13 |
+| [Wake Up](https://open.spotify.com/track/2VSTOiCySVABw6AzuIDK2F) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [American Bollywood: Acts I & II](https://open.spotify.com/album/19DppuPPGsQ5fBy0gT5aaz) | 3:36 | 2022-10-28 |  |
 | [Wake Up](https://open.spotify.com/track/4h29sbk9D6LsjFPrOw6CZn) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [ACT I & II](https://open.spotify.com/album/03V8BTCJiId2kr7HktYpJb) | 3:36 | 2022-10-07 | 2022-11-02 |
 | [Want Want](https://open.spotify.com/track/1dSTDwgJBmHw3RaiM9h2ah) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Surrender](https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI) | 3:08 | 2022-10-07 | 2022-11-11 |
 | [Want Want](https://open.spotify.com/track/5fmaigGNZqMUv3bW6FCs2L) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Want Want](https://open.spotify.com/album/4hHUyNuLV7kIyHh4pBQNCE) | 3:08 | 2022-06-03 | 2022-10-23 |

@@ -1,12 +1,12 @@
 {
   "description": "Funky Jazz from the mid 1950s to the early 1960s. Cover: Art Blakey",
-  "num_followers": 54455,
+  "num_followers": 54503,
   "original_name": "Hard Bop Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMxNTQ5NCwwMDAwMDAwMDY1MDgyMjUwMDBjYTA1ZmYzYmNkY2RkMTU3MTM5YzI1",
+  "snapshot_id": "MTY2MzMxNTQ5NCwwMDAwMDAwMGMyMDkyNGQ2ZjNjOGU3MmMzNmI1NmRjZDBkNjgwNWNh",
   "tracks": [
     {
       "added_at": "2022-09-16 08:04:53",
@@ -631,18 +631,18 @@
     {
       "added_at": "2022-09-16 08:04:53",
       "album": {
-        "name": "Back To The Tracks",
-        "url": "https://open.spotify.com/album/1bMz9hj91rrk0lj8SbTdgE"
+        "name": "Search For The New Land (Rudy Van Gelder Edition/2000 Remastered)",
+        "url": "https://open.spotify.com/album/6NmykD5FJftiDWqjWlwKfr"
       },
       "artists": [
         {
-          "name": "Tina Brooks",
-          "url": "https://open.spotify.com/artist/4JgvfZeCWGzEPGR6yVaXuX"
+          "name": "Lee Morgan",
+          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
         }
       ],
-      "duration_ms": 483293,
-      "name": "Back To The Tracks",
-      "url": "https://open.spotify.com/track/5HkIObvZo2mjjt3JMJRqGR"
+      "duration_ms": 304453,
+      "name": "The Joker - Remastered",
+      "url": "https://open.spotify.com/track/5NgqgpKQz0zjyERVrmY9hb"
     },
     {
       "added_at": "2022-09-16 08:04:53",
@@ -663,18 +663,18 @@
     {
       "added_at": "2022-09-16 08:04:53",
       "album": {
-        "name": "Sonic Boom",
-        "url": "https://open.spotify.com/album/4DMAjEeHrtO1OPmMy9FeND"
+        "name": "Back To The Tracks",
+        "url": "https://open.spotify.com/album/1bMz9hj91rrk0lj8SbTdgE"
       },
       "artists": [
         {
-          "name": "Lee Morgan",
-          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
+          "name": "Tina Brooks",
+          "url": "https://open.spotify.com/artist/4JgvfZeCWGzEPGR6yVaXuX"
         }
       ],
-      "duration_ms": 328800,
-      "name": "Mumbo Jumbo",
-      "url": "https://open.spotify.com/track/2k5QlnGxJ0tsAWCRXs5Gag"
+      "duration_ms": 483293,
+      "name": "Back To The Tracks",
+      "url": "https://open.spotify.com/track/5HkIObvZo2mjjt3JMJRqGR"
     },
     {
       "added_at": "2022-09-16 08:04:53",
@@ -795,8 +795,8 @@
     {
       "added_at": "2022-09-16 08:04:53",
       "album": {
-        "name": "Search For The New Land (Rudy Van Gelder Edition/2000 Remastered)",
-        "url": "https://open.spotify.com/album/6NmykD5FJftiDWqjWlwKfr"
+        "name": "Sonic Boom",
+        "url": "https://open.spotify.com/album/4DMAjEeHrtO1OPmMy9FeND"
       },
       "artists": [
         {
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
         }
       ],
-      "duration_ms": 304453,
-      "name": "The Joker - Remastered",
-      "url": "https://open.spotify.com/track/5NgqgpKQz0zjyERVrmY9hb"
+      "duration_ms": 328800,
+      "name": "Mumbo Jumbo",
+      "url": "https://open.spotify.com/track/2k5QlnGxJ0tsAWCRXs5Gag"
     },
     {
       "added_at": "2022-09-16 08:04:53",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2022-09-16 08:04:53",
       "album": {
-        "name": "Boss Tenor",
-        "url": "https://open.spotify.com/album/4u4T0lYZ2VbDHOmAwHKxJs"
-      },
-      "artists": [
-        {
-          "name": "Gene Ammons",
-          "url": "https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK"
-        }
-      ],
-      "duration_ms": 507933,
-      "name": "Hittin' The Jug - Rudy Van Gelder Remaster",
-      "url": "https://open.spotify.com/track/3kIhfQW7A4H7yd4a86uFt5"
-    },
-    {
-      "added_at": "2022-09-16 08:04:53",
-      "album": {
         "name": "Quartet / Quintet / Sextet",
         "url": "https://open.spotify.com/album/2Aflwf98ECEhjpowdENj7d"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 201226,
       "name": "Down Home",
       "url": "https://open.spotify.com/track/7dZhndMC31yTsQuaCfhOuy"
+    },
+    {
+      "added_at": "2022-09-16 08:04:53",
+      "album": {
+        "name": "Boss Tenor",
+        "url": "https://open.spotify.com/album/4u4T0lYZ2VbDHOmAwHKxJs"
+      },
+      "artists": [
+        {
+          "name": "Gene Ammons",
+          "url": "https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK"
+        }
+      ],
+      "duration_ms": 507933,
+      "name": "Hittin' The Jug - Rudy Van Gelder Remaster",
+      "url": "https://open.spotify.com/track/3kIhfQW7A4H7yd4a86uFt5"
     },
     {
       "added_at": "2022-09-16 08:04:53",

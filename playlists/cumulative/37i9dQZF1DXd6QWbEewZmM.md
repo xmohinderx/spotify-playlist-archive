@@ -4,7 +4,7 @@
 
 > IYKYK 💔🥀
 
-276 songs - 15 hr 52 min - [published](https://open.spotify.com/playlist/6hdW75HewRIei2mn7kkcEI)
+278 songs - 15 hr 59 min - [published](https://open.spotify.com/playlist/6hdW75HewRIei2mn7kkcEI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Dame Un Segundo](https://open.spotify.com/track/64hZSFhbRYHz6WueQv9npj) | [Nivel Codiciado](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK) | [Dame Un Segundo](https://open.spotify.com/album/6rHLvbCWFOoongQ2GYXqHO) | 2:34 | 2022-01-01 |  |
 | [Darte Todo](https://open.spotify.com/track/71GxMOVQDOT2GSvp9mJddM) | [Officialalex425](https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ) | [Darte Todo](https://open.spotify.com/album/0P9fkEPK48Vr4kmSNmg1bq) | 2:53 | 2022-07-22 | 2022-10-15 |
 | [De Mi Para Ti](https://open.spotify.com/track/1IrdLJmBmhIrzl52VwyAZQ) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Seguimos Avanzando](https://open.spotify.com/album/0oN9LSWr8UQGbxfCZvk2RC) | 3:12 | 2022-01-01 | 2022-07-28 |
-| [Dejame Decir](https://open.spotify.com/track/7r4TISG81dgI6DEuwGVNoK) | [Leonilo Jaimes](https://open.spotify.com/artist/0n7CmDFQT0O48cLiBHx7XH) | [Dejame Decir](https://open.spotify.com/album/5xO35NsDA3TfOdAZQjfyUJ) | 3:37 | 2022-02-04 |  |
+| [Dejame Decir](https://open.spotify.com/track/7r4TISG81dgI6DEuwGVNoK) | [Leonilo Jaimes](https://open.spotify.com/artist/0n7CmDFQT0O48cLiBHx7XH) | [Dejame Decir](https://open.spotify.com/album/5xO35NsDA3TfOdAZQjfyUJ) | 3:37 | 2022-02-04 | 2022-11-12 |
 | [Dejame Explicarte](https://open.spotify.com/track/3S10MmPYXAHWL9j7aVGqmI) | [Uliseesssss](https://open.spotify.com/artist/6IuHLYVEFYdAyXJ95RU66t) | [Dejame Explicarte](https://open.spotify.com/album/46T3E4gakx0eTRVyCryan9) | 2:56 | 2022-01-01 | 2022-07-23 |
 | [Descansando](https://open.spotify.com/track/3QXBaUQ8iwP2WI1GpQIP18) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Descansando](https://open.spotify.com/album/4n05Mdr8HuetVr4V6TWnWI) | 3:45 | 2022-01-01 |  |
 | [Deseandote](https://open.spotify.com/track/4GrqU3zJiJdtCT3lyxtMcr) | [Tony Herrera](https://open.spotify.com/artist/6Qn8kPbvrx7Qji2rCqtKbk) | [Deseandote](https://open.spotify.com/album/4ce6iGcipxIz39Ks7DMWbi) | 3:55 | 2022-07-22 |  |
@@ -132,6 +132,7 @@
 | [Marcándote](https://open.spotify.com/track/0rtoh7bC7nW9clwmnCTeAe) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Marcándote](https://open.spotify.com/album/3ZxRpyYUN1tEAusn7aG3N1) | 2:59 | 2022-02-11 | 2022-07-21 |
 | [Mariposa Traicionera](https://open.spotify.com/track/1MFANkoG1Wubm9s6fticCT) | [Porte Diferente](https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf) | [B.A.S](https://open.spotify.com/album/52LCfcij1vNamKkTXFAn7y) | 4:00 | 2022-01-01 | 2022-07-23 |
 | [Me Consume](https://open.spotify.com/track/3tDG0JVZo0Y0KwRVZgYIa7) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [$ad Boyz 4 Life](https://open.spotify.com/album/0X24VcVf6nQJ52c5QmncsO) | 4:21 | 2022-01-01 |  |
+| [Me Dejaste en Cero](https://open.spotify.com/track/677dhnA2KeTjbTdCLldI7E) | [Omar Rodriguez](https://open.spotify.com/artist/49rfzquok2HChfbpCvvHKD) | [Me Dejaste en Cero](https://open.spotify.com/album/2ibH9gTeQQ741EqrYNoaiv) | 3:20 | 2022-11-11 |  |
 | [Me Estoy Enamorando \- en Vivo](https://open.spotify.com/track/43UQAAZQB9eVlZhdz5pnt1) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Desde El Cantón \(en Vivo\)](https://open.spotify.com/album/2c3E1sKcWvcIt1lxYbiqgv) | 2:53 | 2022-01-01 |  |
 | [Me Hiciste un Loco](https://open.spotify.com/track/0iade05WRF2AsjkRHDXz0v) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Dañado](https://open.spotify.com/album/1i5VsPI1sXn847oHyXyZCh) | 3:26 | 2022-10-14 |  |
 | [me olvidaste](https://open.spotify.com/track/72nuzO5wkGs5S7qq6dddtH) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3) | [me olvidaste](https://open.spotify.com/album/4qoeo1Oc7rWrHxpUoIhpke) | 2:15 | 2022-06-03 | 2022-07-28 |
@@ -148,6 +149,7 @@
 | [Mi Mariposa](https://open.spotify.com/track/2yNYLIzkmsWEaa9Qyo1FYS) | [Reflejo Nuevo](https://open.spotify.com/artist/48x8d1G7hZkHfnbIhz9fi8) | [Mi Mariposa](https://open.spotify.com/album/7iaBYTdxStB3mA1GvhRbKg) | 2:22 | 2022-02-25 | 2022-07-25 |
 | [Mi Nena](https://open.spotify.com/track/4X9r5jOEmvl5Qr3ozFwTww) | [Nueva Conducta](https://open.spotify.com/artist/2y2QGr28RmKBEzhBOzlNz5) | [Mi Nena](https://open.spotify.com/album/7tTDJOKYxMElrI7Sk8TNUF) | 2:29 | 2022-01-01 |  |
 | [Mi Otra Mitad](https://open.spotify.com/track/2GWbiQolZqxJhuq4ScqrCY) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Love </3](https://open.spotify.com/album/6dgBlaN3n2sALXgwzIRmBn) | 2:51 | 2022-01-01 |  |
+| [Mi Soledad](https://open.spotify.com/track/77sMV8IQQb8azd7v3ZAtvC) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [INERCIA](https://open.spotify.com/album/18FytbcvGlN2wufzYgjc8l) | 3:40 | 2022-11-11 |  |
 | [Mil Gracias Por Existir](https://open.spotify.com/track/1HAvMItHMFRlnrbOXZBL8X) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Mil Gracias Por Existir](https://open.spotify.com/album/6jVnCF1Qar2w4ZuAVkxKb6) | 3:45 | 2022-01-01 |  |
 | [Mil Rosas](https://open.spotify.com/track/606i1vgi5zH7BDJ8QA1zdg) | [Colocho y Su Eminencia](https://open.spotify.com/artist/6c61IOPGx9WFbMgtHvm8wz) | [Mil Rosas](https://open.spotify.com/album/6fZfjoPL1FgwgZgQTrYT6Z) | 2:44 | 2022-01-01 | 2022-07-23 |
 | [Mirarte Preciosa \(Capitulo 1\)](https://open.spotify.com/track/0ZTB7QEV1MLIgokS1YZq2q) | [Angel Perez](https://open.spotify.com/artist/39dTY1F07rdtbJ1zgjDQOe) | [Enamorarme De Nuevo](https://open.spotify.com/album/2zvc2GVZiUxK7N986UyP13) | 2:28 | 2022-10-14 |  |
@@ -201,7 +203,7 @@
 | [Quiero Estar Contigo](https://open.spotify.com/track/7aaW2FiJ3bGELNtGp6PUo7) | [Ekipo Inicial](https://open.spotify.com/artist/0zykJcUDLHRS0nZEoG5slZ) | [Quiero Estar Contigo](https://open.spotify.com/album/0dMiI3roMGiGxCTlopNjmu) | 4:31 | 2022-06-03 | 2022-06-11 |
 | [Quiero Llorar y No Puedo](https://open.spotify.com/track/1S7FT0rhQ6AaTg0yBbFxYS) | [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW) | [Dinero Fácil](https://open.spotify.com/album/7CRtdR3YSFhXOQ22ZVomgy) | 3:44 | 2022-01-01 |  |
 | [Quiero Ser](https://open.spotify.com/track/2kVLk4yuZCOZuqxIHfOTaf) | [6 Doble 7](https://open.spotify.com/artist/4uASG4oYMAOJbP30XK4hmW) | [Quiero Ser](https://open.spotify.com/album/3Fb0ImmxdtFNo46B2kQubI) | 3:33 | 2022-09-23 | 2022-10-15 |
-| [Quiero Ser](https://open.spotify.com/track/0iEW2LlHNXVyZhwO96sL3z) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Quiero Ser](https://open.spotify.com/album/3m8CehR62XfplLx70gamwo) | 3:29 | 2022-10-14 |  |
+| [Quiero Ser](https://open.spotify.com/track/0iEW2LlHNXVyZhwO96sL3z) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Quiero Ser](https://open.spotify.com/album/3m8CehR62XfplLx70gamwo) | 3:29 | 2022-10-14 | 2022-11-12 |
 | [Quiero Ser](https://open.spotify.com/track/2O97frCXRrFLDV10UeCd9V) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [PDE](https://open.spotify.com/album/1dyaVG9mr6sHveJI0RWaUT) | 3:29 | 2022-07-22 | 2022-11-11 |
 | [Quiero Ser](https://open.spotify.com/track/2vYYytKYc2MJN6MvkFL7fY) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Quiero Ser](https://open.spotify.com/album/4ZZiiVRnqfz8ssM80aeAkG) | 3:29 | 2022-01-01 | 2022-07-27 |
 | [Recuerda](https://open.spotify.com/track/2BaBwcllqDMkoD9184xOxP) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Flores](https://open.spotify.com/album/1JWDyNqyEL0FQBaM1jc6KO) | 2:30 | 2022-02-11 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO408cU0.md) - [plain]
 
 > This is Banda Carnaval\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,893 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,913 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,10 +31,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO408cU0.md) - [plain]
 | 21 | [El Que Se Enamora Pierde](https://open.spotify.com/track/24Yw6Hoi0sPaJKb16uQZGI) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [La Historia De Mis Manos](https://open.spotify.com/album/5xSNjB8PaOWJ4nSW3WF50z) | 2:20 |
 | 22 | [El Mentiroso](https://open.spotify.com/track/5OQGBfftOwNNCurN60x8SC) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [El Número 1](https://open.spotify.com/album/6DNKBX6yM88feUvaifEWfX) | 3:27 |
 | 23 | [Ella Es Mi Mujer](https://open.spotify.com/track/5WdjiXWPnfjgwFssJGFU4K) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Como No Queriendo](https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ) | 2:43 |
-| 24 | [Así Te Necesito](https://open.spotify.com/track/0VjQnUClspAvDIejRi8vRl) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Máximo Nivel](https://open.spotify.com/album/2o3N95qE0jyJm4huXhK0WE) | 3:00 |
+| 24 | [Cosas De La Peda](https://open.spotify.com/track/0756e1uD52MeG9AaRir5tF) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Cosas De La Peda](https://open.spotify.com/album/4eyKTMJHSOkBASyTf2fDnr) | 2:44 |
 | 25 | [El Cajoncito \- En Vivo](https://open.spotify.com/track/3L3fOyV49wTqBU0BYu5cQQ) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Corridos, Rancheras Y Caballos En Vivo](https://open.spotify.com/album/0Qy6qGMqzEoZCUu0hKtMu2) | 3:41 |
-| 26 | [Sueña](https://open.spotify.com/track/6XbAAQ8v3UojztTYdo4jLv) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Porque Así Tenía Que Ser](https://open.spotify.com/album/6SNW0LavcXREHAQcMA9Zdk) | 3:28 |
-| 27 | [Cosas De La Peda](https://open.spotify.com/track/0756e1uD52MeG9AaRir5tF) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Cosas De La Peda](https://open.spotify.com/album/4eyKTMJHSOkBASyTf2fDnr) | 2:44 |
+| 26 | [Así Te Necesito](https://open.spotify.com/track/0VjQnUClspAvDIejRi8vRl) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Máximo Nivel](https://open.spotify.com/album/2o3N95qE0jyJm4huXhK0WE) | 3:00 |
+| 27 | [Sueña](https://open.spotify.com/track/6XbAAQ8v3UojztTYdo4jLv) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Porque Así Tenía Que Ser](https://open.spotify.com/album/6SNW0LavcXREHAQcMA9Zdk) | 3:28 |
 | 28 | [En Qué Cabeza Cabe](https://open.spotify.com/track/6HUMffUSppjuuO8v193wWM) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Hombre De Trabajo](https://open.spotify.com/album/7uIF84opYzXLtE0fX7EVxp) | 2:53 |
 | 29 | [El Pistolero \- En Vivo](https://open.spotify.com/track/5LO8ZNqDLAKtqhTlHoQEQo) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Corridos, Rancheras Y Caballos En Vivo](https://open.spotify.com/album/0Qy6qGMqzEoZCUu0hKtMu2) | 2:16 |
 | 30 | [¿Desde Cuándo No Me Quieres?](https://open.spotify.com/track/6kKP6onITDDHShtAeOFRRt) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Las Bandas Románticas](https://open.spotify.com/album/0nhYBDq7AGkaOFqrqYwN2I) | 3:26 |
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO408cU0.md) - [plain]
 | 38 | [El Herradero \- En Vivo Desde El Rancho](https://open.spotify.com/track/1XSQE1KKdfIO8auVrK2l2s) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [En Vivo Desde El Rancho](https://open.spotify.com/album/0MhHMBaSyymJS9CslAtVxI) | 2:56 |
 | 39 | [El Prisionero De La Celda 909](https://open.spotify.com/track/5U8ZVNyGoGD32pBeEJ3Px5) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Puros Corridos](https://open.spotify.com/album/7ydDpPVpV2VviGIIc5uYG1) | 3:41 |
 | 40 | [Entre Ella Y Tú](https://open.spotify.com/track/2HavagLtOTS95ZX8Fmyz6z) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Como No Queriendo](https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ) | 2:32 |
-| 41 | [Vuelve, Vuelve \- En Vivo](https://open.spotify.com/track/6aCCj56P1fRI9l0pkwDBfF) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Acústicos \(En Vivo\)](https://open.spotify.com/album/1mMTAEorTDJjxHVeN4eKLo) | 4:22 |
-| 42 | [La Repetidora](https://open.spotify.com/track/0F94OmFF77qyj3HCy1DKFz) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Porque Así Tenía Que Ser](https://open.spotify.com/album/6SNW0LavcXREHAQcMA9Zdk) | 2:35 |
+| 41 | [La Repetidora](https://open.spotify.com/track/0F94OmFF77qyj3HCy1DKFz) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Porque Así Tenía Que Ser](https://open.spotify.com/album/6SNW0LavcXREHAQcMA9Zdk) | 2:35 |
+| 42 | [Vuelve, Vuelve \- En Vivo](https://open.spotify.com/track/6aCCj56P1fRI9l0pkwDBfF) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Acústicos \(En Vivo\)](https://open.spotify.com/album/1mMTAEorTDJjxHVeN4eKLo) | 4:22 |
 | 43 | [Caballo De Patas Blancas](https://open.spotify.com/track/2snAmWK7MqZMLHlAb0fu7f) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Puros Corridos](https://open.spotify.com/album/7ydDpPVpV2VviGIIc5uYG1) | 1:42 |
 | 44 | [La Primera Vez](https://open.spotify.com/track/0epRumtLjExXKVCdnzxxDx) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [La Historia De Mis Manos](https://open.spotify.com/album/5xSNjB8PaOWJ4nSW3WF50z) | 3:24 |
-| 45 | [¿Quién Es El Patrón? \- En Vivo](https://open.spotify.com/track/6AEIaEfIETFP831ZAOf3bE) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj), [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Corridos Y Rancheras En Vivo \(En Vivo Desde Mazatlán, Sinaloa/México 2016\)](https://open.spotify.com/album/37BLoPJ2s2zTBx2QsSoO2r) | 2:41 |
-| 46 | [Porque Así Tenía Que Ser](https://open.spotify.com/track/0pmmaDa3lIHX5YoAv29WMZ) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Porque Así Tenía Que Ser](https://open.spotify.com/album/6SNW0LavcXREHAQcMA9Zdk) | 2:33 |
+| 45 | [Porque Así Tenía Que Ser](https://open.spotify.com/track/0pmmaDa3lIHX5YoAv29WMZ) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Porque Así Tenía Que Ser](https://open.spotify.com/album/6SNW0LavcXREHAQcMA9Zdk) | 2:33 |
+| 46 | [¿Quién Es El Patrón? \- En Vivo](https://open.spotify.com/track/6AEIaEfIETFP831ZAOf3bE) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj), [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Corridos Y Rancheras En Vivo \(En Vivo Desde Mazatlán, Sinaloa/México 2016\)](https://open.spotify.com/album/37BLoPJ2s2zTBx2QsSoO2r) | 2:41 |
 | 47 | [El Número 1 \- En Vivo](https://open.spotify.com/track/0bcmcH4Dw3hizwWB7JKdSE) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Acústicos \(En Vivo\)](https://open.spotify.com/album/1mMTAEorTDJjxHVeN4eKLo) | 3:20 |
 | 48 | [Mis Dos Vicios](https://open.spotify.com/track/6HbeUTNk0RyDBgU4a1KwV6) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Máximo Nivel](https://open.spotify.com/album/2o3N95qE0jyJm4huXhK0WE) | 3:07 |
 | 49 | [El Becerro No Ha Mamado Y El Borrego Cachetón \- En Vivo](https://open.spotify.com/track/76FZVlzBjXGtbN9ff9sdtV) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Corridos, Rancheras Y Caballos En Vivo](https://open.spotify.com/album/0Qy6qGMqzEoZCUu0hKtMu2) | 3:11 |
 | 50 | [Rendido A Tus Pies](https://open.spotify.com/track/6CxTdAoG4OX4gvnoonTudO) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Las Vueltas De La Vida](https://open.spotify.com/album/4EsRdUztvnblHNgu53aqZr) | 3:42 |
 
-Snapshot ID: `Mjc4MDE1OTIsMDAwMDAwMDA2MWZhMzgwYTBiNWYzYzdhYTgxOWE1Zjc2NDBmNDE4ZQ==`
+Snapshot ID: `Mjc4MDI5OTksMDAwMDAwMDAyN2JiM2QxODMwNWEwNGQxYmQ3MDk5YWY1MWI5ODU3OQ==`

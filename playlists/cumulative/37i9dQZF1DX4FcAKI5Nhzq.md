@@ -4,7 +4,7 @@
 
 > Future K\-Pop hits! Cover: ASH ISLAND
 
-681 songs - 1 day 13 hr 52 min - [published](https://open.spotify.com/playlist/365X6AQFdYqkXtDjWksHVf)
+682 songs - 1 day 13 hr 55 min - [published](https://open.spotify.com/playlist/365X6AQFdYqkXtDjWksHVf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,6 +227,7 @@
 | [Gas Pedal](https://open.spotify.com/track/0IYOm3308cQ6drkr4M92WE) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [CRAVITY 1ST ALBUM PART 1 \[The Awakening: Written In The Stars\]](https://open.spotify.com/album/7CtpVv2DV2DXiZxjsf6jEo) | 3:17 | 2021-09-02 | 2021-10-28 |
 | [Gasoline](https://open.spotify.com/track/59WDxA3UxKvJDIJcK6dVZv) | [KEY](https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v) | [Gasoline \- The 2nd Album](https://open.spotify.com/album/1STTad4531T7StJ4EiVwAG) | 3:11 | 2022-09-01 |  |
 | [GEMINI](https://open.spotify.com/track/7L9gc9u9Ev2OprF08AMhGH) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [GEMINI](https://open.spotify.com/album/2kikdfulAIPagHRLh18uJH) | 3:46 | 2021-05-28 | 2021-07-30 |
+| [Generation](https://open.spotify.com/track/1RHTdr5QfviCYI70QPPDJN) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [Acid Angel from Asia <ACCESS>](https://open.spotify.com/album/0EsUBCjxGF328J7VRAE48Y) | 2:44 | 2022-11-11 |  |
 | [Get Away](https://open.spotify.com/track/5W37S0nq1XvGEyTlUkmr3f) | [VERIVERY](https://open.spotify.com/artist/1fWUcRSok57yRm8gPKj1Fc) | [SERIES ‘O’ \[ROUND 1 : HALL\]](https://open.spotify.com/album/5wQhc8SEKiiXb5b5Ou7tHE) | 3:20 | 2021-03-02 | 2021-06-03 |
 | [GET IT OUT](https://open.spotify.com/track/4OCwwHsLQ0tNzC0PzTi47I) | [APOKI](https://open.spotify.com/artist/0JVB3oaSxGrbnhzIiKwiR9) | [GET IT OUT](https://open.spotify.com/album/7GJYlGZQBxVjgXk1TCq9xk) | 3:37 | 2021-02-23 | 2021-04-22 |
 | [GHOST](https://open.spotify.com/track/73ND9EgLxCG4abSmc4z9ww) | [DreamNote](https://open.spotify.com/artist/3ILvL0HM0cST4iR8RzQh2V) | [Dreams Alive](https://open.spotify.com/album/6y4hTtarOLzcNanux6QfNX) | 3:32 | 2021-10-30 | 2022-01-04 |

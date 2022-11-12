@@ -26,6 +26,28 @@
     },
     {
       "album": {
+        "name": "songs that lowkey slap",
+        "url": "https://open.spotify.com/album/5iy19BhOQpUmNGqTIgJYW4"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        },
+        {
+          "name": "Tammi Terrell",
+          "url": "https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147266,
+      "name": "Ain't No Mountain High Enough",
+      "url": "https://open.spotify.com/track/0ejSOUMcnYJlIuTZZWgOTb"
+    },
+    {
+      "album": {
         "name": "United",
         "url": "https://open.spotify.com/album/5LqviduT0g0J0ypFrFSwCE"
       },
@@ -41,7 +63,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 151666,
       "name": "Ain't No Mountain High Enough",
       "url": "https://open.spotify.com/track/7tqhbajSfrz2F7E1Z75ASX"
@@ -359,7 +381,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 237546,
       "name": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
       "url": "https://open.spotify.com/track/1WkMMavIMc4JZ8cfMmxHkI"
@@ -1507,7 +1529,7 @@
       ],
       "date_added": "2020-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 226240,
       "name": "Kiss",
       "url": "https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05"
@@ -2565,7 +2587,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 197813,
       "name": "Take Me Home, Country Roads",
       "url": "https://open.spotify.com/track/1QbOvACeYanja5pbnJbAmk"
@@ -2695,7 +2717,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 165853,
       "name": "The Middle",
       "url": "https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO"

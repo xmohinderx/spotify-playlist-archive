@@ -4,7 +4,7 @@
 
 > Country music with a Latin flair\. Cover: Frank Ray
 
-103 songs - 5 hr 43 min - [published](https://open.spotify.com/playlist/1WK5MqHO5idzyfqGcT0LRT)
+104 songs - 5 hr 46 min - [published](https://open.spotify.com/playlist/1WK5MqHO5idzyfqGcT0LRT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,8 +28,9 @@
 | [Day Drinking \- Party Mix](https://open.spotify.com/track/4zVwASFqCT6XUmpBrnuIJK) | [Triston Marez](https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88) | [Day Drinking \(Party Mix\)](https://open.spotify.com/album/221DPZOZH1TDYisXjLeC81) | 3:35 | 2021-12-10 |  |
 | [Dos Copas de Más \- HA\-ASH Primera Fila \- Hecho Realidad \[En Vivo\]](https://open.spotify.com/track/6SJHD4x5Utx7lnBJCtOpML) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [HA\-ASH Primera Fila \- Hecho Realidad](https://open.spotify.com/album/7swLFakFeCrD0XeazxzJd1) | 3:42 | 2021-12-10 |  |
 | [Down The Road](https://open.spotify.com/track/5kdajqHHMPDsFEQEY7YstN) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q), [The Buckleys](https://open.spotify.com/artist/5MgruQdD3UhVfysDjMqG7p) | [Down The Road](https://open.spotify.com/album/6TmzDsVkEq3j3xNdkDahCM) | 2:58 | 2022-06-03 |  |
-| [Drinkin' Problem \(Brindemos\)](https://open.spotify.com/track/6RJH2nSmmxFOynFDzNfik8) | [La Zenda Norteña](https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG) | [Cuarentena](https://open.spotify.com/album/2LT6UCYbbOx7KbXgxG73rV) | 3:01 | 2022-07-08 |  |
+| [Drinkin' Problem \(Brindemos\)](https://open.spotify.com/track/6RJH2nSmmxFOynFDzNfik8) | [La Zenda Norteña](https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG) | [Cuarentena](https://open.spotify.com/album/2LT6UCYbbOx7KbXgxG73rV) | 3:01 | 2022-07-08 | 2022-11-12 |
 | [Drinkin' Problem \(Brindemos\)](https://open.spotify.com/track/70TQ2bBSD5J39rmggn0wRR) | [La Zenda Norteña](https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG) | [Drinkin' Problem \(Brindemos\)](https://open.spotify.com/album/6X84FPyedv5spo1tdQxLuQ) | 3:01 | 2021-12-10 | 2022-07-29 |
+| [Drinkin' Problem \(Brindemos\)](https://open.spotify.com/track/7MT3csTkm4yhkmNOlsbwn5) | [La Zenda Norteña](https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG) | [Drinkin' Problem \(Brindemos\)](https://open.spotify.com/album/4Uty8PTjWY2INcCub7h40P) | 3:01 | 2022-11-04 |  |
 | [Drinkin' Problem \(Brindemos\)](https://open.spotify.com/track/7AY1uEEkYfFLFCEuc8QvUH) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi), [Jay de la Cueva](https://open.spotify.com/artist/2PQW0MnXmZd19XKZQyoPgu) | [Drinkin' Problem \(Brindemos\)](https://open.spotify.com/album/0yGUU5Wcj5PBvXOyMWuGp5) | 3:40 | 2021-12-10 |  |
 | [El Trabajador](https://open.spotify.com/track/4HMN1CLGPYKs1tRda7U7iC) | [Jesse Daniel](https://open.spotify.com/artist/69YAYxHfpqcXtsQ8n1pupY), [Raul Malo](https://open.spotify.com/artist/2GHyWa3uUslUFgOayQLW6b) | [Beyond These Walls](https://open.spotify.com/album/2KQOp4bGm40HvQIcxQbrCp) | 3:11 | 2021-12-10 |  |
 | [Friend](https://open.spotify.com/track/0ae7hcCowMnsMAreiJq9AT) | [Angie K](https://open.spotify.com/artist/7tk53T02nvDYOvWz5T9qZL) | [Sun Up to Sundown](https://open.spotify.com/album/57FPKfJyjp3hXukgNjFsym) | 3:06 | 2022-04-08 |  |

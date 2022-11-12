@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ciKEeRL2zU.md) - [plain]
 
 > Remember how love used to be, feel how it is and imagine how it can be with the best South African love songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,142 likes - 75 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,153 likes - 75 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ciKEeRL2zU.md) - [plain]
 | 2 | [Ndilinde](https://open.spotify.com/track/5PwPfqoN2EnW2hVYS7rv1f) | [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N) | [Zabalaza](https://open.spotify.com/album/3SEMoWOREyDMSWGFzrfb0O) | 5:51 |
 | 3 | [Sondela](https://open.spotify.com/track/749pe97jomnW5rw0mEjCkR) | [Ringo Madlingozi](https://open.spotify.com/artist/3CR7n4hexD7pE3BRnLEDUJ), [Sipho Mbele](https://open.spotify.com/artist/5zzBzuDDkT4uz1UWubvWh5) | [Sondela](https://open.spotify.com/album/7GeMrR8cQSwri1oBuAahiD) | 5:30 |
 | 4 | [Nomakanjani](https://open.spotify.com/track/7sAaRNhvkHH87PnV5ArZ98) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Greatest Hits 1964\-2004](https://open.spotify.com/album/7nPJeqaecmuCa9fau1OHQ0) | 3:40 |
-| 5 | [I Do \(feat\. Amanda Black\)](https://open.spotify.com/track/4lIVnQXM5nBx3AmhsJ1KSA) | [LaSauce](https://open.spotify.com/artist/7cb8ThGZh7FX75XcX64MKi), [Amanda Black](https://open.spotify.com/artist/4tyWwKFEbho8Vh4qczqbIo) | [Broken Lipstick](https://open.spotify.com/album/2X0MNKHlGm5L6UAaaTsabH) | 5:13 |
+| 5 | [I Do](https://open.spotify.com/track/3lSUCc7S3h0uD6yT8BnPPB) | [La Sauce](https://open.spotify.com/artist/7M2aTLre33O0Q0bcesHN9b), [Amanda Black](https://open.spotify.com/artist/4tyWwKFEbho8Vh4qczqbIo) | [Evening Of Love Volume 1](https://open.spotify.com/album/1YOYdJxjiUrwP4E6RktAk1) | 5:12 |
 | 6 | [Hamba](https://open.spotify.com/track/5M0J5ZOt7LPeZrHs9G7c7R) | [Lira](https://open.spotify.com/artist/1ChWj9EwLoK9J0hnHMgKHj) | [Soul In Mind](https://open.spotify.com/album/5ceGC90YEocJP4lXy5ifzV) | 5:36 |
 | 7 | [Uthando](https://open.spotify.com/track/5WrnM103yLSiufFT9r1tWL) | [Kelly Khumalo](https://open.spotify.com/artist/2MhYuOM0iHfOwQ0HeLa0no) | [Sounds of Love: Side A](https://open.spotify.com/album/53PGiw3oxtHwHrzi72Ypa9) | 4:53 |
 | 8 | [Ndikuthandile](https://open.spotify.com/track/1Tj0262AYJa0RKh74HGB6G) | [Vusi Nova](https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8) | [Naninina](https://open.spotify.com/album/6HbXfrFurzm5mKB4IOcwh9) | 4:14 |
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ciKEeRL2zU.md) - [plain]
 | 23 | [Yelele](https://open.spotify.com/track/2FRbe1TC626TxkVeufmNsa) | [Aubrey Qwana](https://open.spotify.com/artist/6uVEWgg7sAAzfPQsXjzTRi) | [Yelele](https://open.spotify.com/album/2R6tuyZ91QkYAJJuvfyEWA) | 3:42 |
 | 24 | [Akanamali \(feat\. Samthing Soweto\)](https://open.spotify.com/track/2OaBQc07gJ9ZcDJJhhCMSf) | [Sun\-El Musician](https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6), [Samthing Soweto](https://open.spotify.com/artist/6HwxMgE895sejjGFin9Gvm) | [Akanamali \(feat\. Samthing Soweto\)](https://open.spotify.com/album/57jBRm6pXwxvjm3SlWyi8I) | 5:21 |
 | 25 | [Ibhanoyi](https://open.spotify.com/track/1UooO4lFHhFaKX8Jgz9xNI) | [Blaq Diamond](https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe) | [Umuthi](https://open.spotify.com/album/2bjC0ex3FhejL6cuaLToJU) | 4:09 |
-| 26 | [Baby Girl](https://open.spotify.com/track/5qJpQEJKN2lvm0szJhyvdz) | [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP) | [Thuto](https://open.spotify.com/album/5eqTNk3knYSiqlpcUT91z7) | 4:20 |
+| 26 | [Baby Girl](https://open.spotify.com/track/14dcMfyhHV1vUdXXfiTuW1) | [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP) | [Once Upon a Time In Africa](https://open.spotify.com/album/75zZ8xLGSeF0UFE5K0kMrj) | 4:20 |
 | 27 | [Asibe Happy](https://open.spotify.com/track/6F70m9aMK4PSJKBfp1H8DZ) | [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE) | [Asibe Happy](https://open.spotify.com/album/0K6ImXCD9oG3p3HBcAq9UA) | 7:38 |
 | 28 | [Ungawa Kum](https://open.spotify.com/track/47VpnKqSM6UhAGFjGaUlvy) | [Thebe](https://open.spotify.com/artist/1aAwAVypEAUVCgMy67bprS) | [Top Dawg](https://open.spotify.com/album/1rrPsxH64XF7uwG7PInaYp) | 5:37 |
 | 29 | [Ndikuthandile](https://open.spotify.com/track/5dkicllD31FgPf1WoE7wfD) | [Vusi Nova](https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8) | [Evening Of Love Volume 1](https://open.spotify.com/album/1YOYdJxjiUrwP4E6RktAk1) | 4:14 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ciKEeRL2zU.md) - [plain]
 | 74 | [Sour Milk](https://open.spotify.com/track/3AYK6HKlBhIibr1vp2Wqwy) | [Joda Kgosi](https://open.spotify.com/artist/4JKR7xRiiHNUXEiHHwg1E8) | [Sour Milk](https://open.spotify.com/album/67CS03j1fTXxcdDSzHfqqd) | 3:03 |
 | 75 | [Truth Is](https://open.spotify.com/track/5oXYsq4dCGNrKq84Se3erf) | [Joda Kgosi](https://open.spotify.com/artist/4JKR7xRiiHNUXEiHHwg1E8) | [Truth Is](https://open.spotify.com/album/60iWM9LDKsLqDKKEThsI5g) | 3:22 |
 
-Snapshot ID: `MTY0NDU2ODYyMiwwMDAwMDAwMDBhZDg1NGM3YzRlZGVlZmU2ZmMzMzUyMzAzYzA5ZDc5`
+Snapshot ID: `MTY0NDU2ODYyMiwwMDAwMDAwMGEzN2QwNjgxYjlhMDUzZWM3MWFjMzEzNTY4MmFiOGZi`

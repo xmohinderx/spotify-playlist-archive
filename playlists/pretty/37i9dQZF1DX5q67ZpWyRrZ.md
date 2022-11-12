@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q67ZpWyRrZ.md) - [plain]
 
 > 'Anuv Jain'  is on the cover of Indie India.
 
-[Spotify](https://open.spotify.com/user/spotify) - 426,584 likes - 76 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 427,306 likes - 76 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Heer Ranjha](https://open.spotify.com/track/3wwLWFRLiReDf5AqgmAJwT) | [Rito Riba](https://open.spotify.com/artist/63QHbwCDdJ50C72D4ojeo1), [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB), [Rana Sotal](https://open.spotify.com/artist/0AS5y6FY1c4JRl0oWAYu2y) | [Heer Ranjha](https://open.spotify.com/album/5jZOJxJvZj63YKrPEWPy63) | 3:43 |
 | 2 | [Mera Safar](https://open.spotify.com/track/2AB7fsbG0eZJjDGile69CQ) | [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk) | [Mera Safar](https://open.spotify.com/album/5MaDDfFcO8Eao37Crt324Q) | 3:10 |
-| 3 | [Kho Gaye](https://open.spotify.com/track/5iaKalECn9aYPfh9w07yOX) | [Taaruk Raina](https://open.spotify.com/artist/1FWl7I9wJpb7Bhhutef4Xe), [Mismatched](https://open.spotify.com/artist/3TR3Ehl4idJ38cJo2K3PlF) | [Mismatched: Season 2 \(Music from the Netflix Series\)](https://open.spotify.com/album/2bJRbj971pXenefii5i3mY) | 3:17 |
-| 4 | [Akhiyaan](https://open.spotify.com/track/2l3dFxtoSMgMQVyRIUHjpz) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Akhiyaan](https://open.spotify.com/album/4MBCBnMZyFFv8Ch9elmLsL) | 3:11 |
+| 3 | [Akhiyaan](https://open.spotify.com/track/2l3dFxtoSMgMQVyRIUHjpz) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Akhiyaan](https://open.spotify.com/album/4MBCBnMZyFFv8Ch9elmLsL) | 3:11 |
+| 4 | [Kho Gaye](https://open.spotify.com/track/5iaKalECn9aYPfh9w07yOX) | [Taaruk Raina](https://open.spotify.com/artist/1FWl7I9wJpb7Bhhutef4Xe), [Mismatched](https://open.spotify.com/artist/3TR3Ehl4idJ38cJo2K3PlF) | [Mismatched: Season 2 \(Music from the Netflix Series\)](https://open.spotify.com/album/2bJRbj971pXenefii5i3mY) | 3:17 |
 | 5 | [Aankhon Se Batana](https://open.spotify.com/track/1ZiReD9pPTttQWwSoYqdyH) | [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR) | [Aankhon Se Batana](https://open.spotify.com/album/57FSK7an8LmvStMZviJ8Ws) | 3:41 |
 | 6 | [Khwaab](https://open.spotify.com/track/0iEdt7cayQ2XbicDeWFztj) | [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Khwaab](https://open.spotify.com/album/2kNkewZHbS6gbDlDoIqFy4) | 2:58 |
 | 7 | [Muskurahat](https://open.spotify.com/track/6oURWs2pULRYC9JAhLEaw8) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Muskurahat](https://open.spotify.com/album/57G6FAPEMtXBDKEcsatBa1) | 4:18 |
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q67ZpWyRrZ.md) - [plain]
 | 57 | [Rab Raakha](https://open.spotify.com/track/6cmPjiylmkjv2wiBCx2AHz) | [The Yellow Diary](https://open.spotify.com/artist/6xlrAAgxcRlgCXnbg2hcFc) | [Rab Raakha](https://open.spotify.com/album/7waXLin5hX3LJ6bxrCHxZf) | 3:59 |
 | 58 | [Betahasha](https://open.spotify.com/track/7D5x7oRRK279Tx3SzJ95it) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL), [Nilotpal Sinha](https://open.spotify.com/artist/5JJJXKgD03icW3z2dkjTTV) | [Betahasha](https://open.spotify.com/album/56DhJ2JIMfgT8mEI5VczxT) | 3:16 |
 | 59 | [Khaare Raste](https://open.spotify.com/track/54jXWKDWh2IAFnuYcYEwb3) | [Raghav Kaushik](https://open.spotify.com/artist/2NSBUoP14iO3vxm14Slc5H), [Yashika Sikka](https://open.spotify.com/artist/0lve5IC1Fy0kxyzy8deBih) | [Khaare Raste](https://open.spotify.com/album/0UbMs14msg4N7BBzwWh1il) | 4:06 |
-| 60 | [cold/mess](https://open.spotify.com/track/7uhINGViZPygI2AljxO8KN) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [cold/mess](https://open.spotify.com/album/6FzicG6wlKHogiRaGAbvBK) | 4:41 |
+| 60 | [cold/mess](https://open.spotify.com/track/4QVeAu5Sha4eGfPlGJPR69) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [cold/mess \(on piano\)](https://open.spotify.com/album/3AXu7GBasMntxZvZS7dL8g) | 4:41 |
 | 61 | [Sukoon](https://open.spotify.com/track/3DwDpL9QpO5gqPFuHZXUx9) | [Samar Mehdi](https://open.spotify.com/artist/0kn5e77RPjL0jdsLYcN4rN) | [Sukoon](https://open.spotify.com/album/1b43QbuhfXPgBGU6lDxn0I) | 3:04 |
 | 62 | [Blush](https://open.spotify.com/track/6IjeHG6oLIkZeSq2SMEAtd) | [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy) | [Blush](https://open.spotify.com/album/5XLBXjciXLRxhhRI99zaOP) | 3:19 |
 | 63 | [Jaadoogari](https://open.spotify.com/track/0HDm8hVrpUDAXLmvortmoy) | [Anand Bhaskar Collective](https://open.spotify.com/artist/45m11y8OUyx5EgHiKvEC3c) | [Jaadoogari](https://open.spotify.com/album/7xH1diJuXLqpv10oc2skWV) | 4:20 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q67ZpWyRrZ.md) - [plain]
 | 75 | [Rehnuma](https://open.spotify.com/track/4l9YKebWc0WGhcNbtJFeRe) | [Last Minute India](https://open.spotify.com/artist/6yi4BexeHDzQeuiDzXqTcg) | [Rehnuma](https://open.spotify.com/album/5ZG20aDD6ZyqeFHyDzufeO) | 3:13 |
 | 76 | [Noor](https://open.spotify.com/track/3p2WQ8mlRhETkOxcn8tVDc) | [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi), [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL), [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2) | [Noor](https://open.spotify.com/album/6FsuMwzuqjWhy9OIA3pY5R) | 2:38 |
 
-Snapshot ID: `MTY2NzgwMjQ5NiwwMDAwMDAwMDcyOWRjZTM2NzAzNzAxNWQwZTNhZGFkNzQzNjQ0OTBm`
+Snapshot ID: `MTY2ODE0Nzk2MiwwMDAwMDAwMDllNGVmNWQ3ZDI3MTNlMjkwMGIzMWU1OWJjN2QzM2Zh`

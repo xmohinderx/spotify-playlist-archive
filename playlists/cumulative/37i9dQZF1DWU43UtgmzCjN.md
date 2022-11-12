@@ -4,7 +4,7 @@
 
 > Los más pesados y polémicos del Regional Mexicano\. Los Tigres del Norte en portada.
 
-68 songs - 3 hr 32 min - [published](https://open.spotify.com/playlist/1CrwH8POYCHyYSONehJDrB)
+69 songs - 3 hr 35 min - [published](https://open.spotify.com/playlist/1CrwH8POYCHyYSONehJDrB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [La Camioneta Gris](https://open.spotify.com/track/7e9vWIQWNE6r74PBC7ixdS) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Corridos Prohibidos](https://open.spotify.com/album/6ur3OZ3UXA4Y4IgLpMW5Rw) | 3:15 | 2021-10-15 | 2022-11-11 |
 | [La Camioneta Gris](https://open.spotify.com/track/61AMt2RcGeddpfJNPJ0hWD) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Mezcla Mexicana](https://open.spotify.com/album/5RyK7OP8o5WrlqzTAcZau3) | 3:18 | 2021-10-15 |  |
 | [La Caspa Del Diablo](https://open.spotify.com/track/2n4F4KH34FujRuaNmFILv7) | [Los Originales De San Juan](https://open.spotify.com/artist/3aVB3VLnoAn6bKiHOEzHag), [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [La Caspa Del Diablo\-Corridos A Toda Ley](https://open.spotify.com/album/5HDXSSCgm7nJ3bso2d8xWD) | 2:36 | 2021-10-15 |  |
-| [La Cheyene del Año](https://open.spotify.com/track/1k1kg1xFTxodz5bhh1WIG3) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [De Mexico para el Mundo](https://open.spotify.com/album/32TIJn1x8SCsHVCswGnQZQ) | 3:00 | 2021-10-15 |  |
+| [La Cheyene del Año](https://open.spotify.com/track/1k1kg1xFTxodz5bhh1WIG3) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [De Mexico para el Mundo](https://open.spotify.com/album/32TIJn1x8SCsHVCswGnQZQ) | 3:00 | 2021-10-15 | 2022-11-12 |
+| [La Cheyene del Año](https://open.spotify.com/track/6FbTnV8JlOXqhCCHEAuRDF) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Los 20 Mejores Corridos y Rancheras, Vol\. 2](https://open.spotify.com/album/1JXX5Z7nbAS2P2t8fH7S73) | 3:01 | 2021-10-15 |  |
 | [La Cheyene del Año](https://open.spotify.com/track/74c22PUka78qXVFudVnLJT) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Los 20 Mejores Corridos y Rancheras](https://open.spotify.com/album/6fNcLl4TR9uUUj6ZkoVHiD) | 3:01 | 2021-10-15 | 2022-08-20 |
 | [La Cheyene del Año](https://open.spotify.com/track/1Befsq8QTEAJNKnxKlPPUM) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [¡pa Puros Compas! Vol\. Ii](https://open.spotify.com/album/5NdplNnKYPN84dicsTocv4) | 3:03 | 2021-10-15 | 2022-07-29 |
 | [La Escuadra \(En Que Trabaja El Muchacho\)](https://open.spotify.com/track/3gxbdfAgpjJiODrpx64e0C) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Con Fuerza y Sentimiento: Legado Norteño](https://open.spotify.com/album/2eQNUZSF2grKGYk05AZ68f) | 2:01 | 2022-03-02 |  |

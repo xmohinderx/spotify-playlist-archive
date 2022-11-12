@@ -4,7 +4,7 @@
 
 > This is Little Simz\. The essential tracks, all in one playlist.
 
-41 songs - 2 hr 24 min - not published yet
+42 songs - 2 hr 27 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [Little Q, Pt\. 2](https://open.spotify.com/track/2awkR27GHixnzSiswN0AiT) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/0DBoWQ52XUHtrZQdfAqOVj) | 3:46 | 2022-10-28 |  |
 | [Location \(feat\. Little Simz\)](https://open.spotify.com/track/7veYmTIhhDuVIpCW6UeoxJ) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Location \(feat\. Little Simz\)](https://open.spotify.com/album/5XpjnV9EuzkH60PtpwHn1E) | 4:05 | 2022-10-28 |  |
 | [might bang, might not](https://open.spotify.com/track/0lAenyfo765pFS0irWQ0sG) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Drop 6](https://open.spotify.com/album/6QrGmXbUtjyekuW83gXBBb) | 2:06 | 2022-10-28 |  |
-| [Offence](https://open.spotify.com/track/4cakdyTV2GRb9ktqBNMChH) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [GREY Area](https://open.spotify.com/album/4Wwm4xg2748zhYuzDRFTgY) | 2:48 | 2022-10-28 |  |
+| [Offence](https://open.spotify.com/track/255XENrbBfTCRz6XBL7jJR) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [GREY Area](https://open.spotify.com/album/3Z8Df4ghTJ7afEWkurB2I1) | 2:48 | 2022-11-11 |  |
+| [Offence](https://open.spotify.com/track/4cakdyTV2GRb9ktqBNMChH) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [GREY Area](https://open.spotify.com/album/4Wwm4xg2748zhYuzDRFTgY) | 2:48 | 2022-10-28 | 2022-11-12 |
 | [One In Rotation + Wide Awake](https://open.spotify.com/track/4HGabMXDHtjOYTNihq6YXF) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [Stillness In Wonderland \(Deluxe Edition\)](https://open.spotify.com/album/6uMKb8DaGGTHOjt9lBK7XL) | 3:55 | 2022-10-28 |  |
 | [one life, might live](https://open.spotify.com/track/5kZ3mNo3Sjstbq5nVa5CMG) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Drop 6](https://open.spotify.com/album/6QrGmXbUtjyekuW83gXBBb) | 2:34 | 2022-10-28 |  |
 | [Our Conversations w/ Badbadnotgood](https://open.spotify.com/track/5Z8djxiUdWwprRTJWN035z) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Stillness In Wonderland \(Deluxe Edition\)](https://open.spotify.com/album/6uMKb8DaGGTHOjt9lBK7XL) | 6:03 | 2022-10-28 |  |

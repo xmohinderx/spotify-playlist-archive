@@ -4,7 +4,7 @@
 
 > 
 
-96 songs - 7 hr 3 min - [published](https://open.spotify.com/playlist/00UhKXWqnjDp1h5ObJQWCd)
+97 songs - 7 hr 6 min - [published](https://open.spotify.com/playlist/00UhKXWqnjDp1h5ObJQWCd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Dream \- Edit](https://open.spotify.com/track/7KeANzNehacJlX4AsNUeG2) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH) | [Dream](https://open.spotify.com/album/6HZmtl6ABrzfwsoGGVtkvr) | 4:06 | 2022-10-12 |  |
 | [Estación Esperanza](https://open.spotify.com/track/1jGkLUJCl46NmXIM6rUghn) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf), [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Estación Esperanza](https://open.spotify.com/album/64q41JtvnThaB2VaVrqfpQ) | 5:16 | 2022-01-18 | 2022-08-04 |
 | [Faint of Hearts](https://open.spotify.com/track/0CaOlIGjs5oZH8V7zzTEIb) | [Folly Group](https://open.spotify.com/artist/39RnqcMpFSK4e7tbODSsaP) | [Human and Kind](https://open.spotify.com/album/6NVZcL5hrDcO3QlEC6Wy40) | 3:29 | 2022-03-25 | 2022-07-29 |
+| [Fragments of a Butterfly’s Face \- Edit](https://open.spotify.com/track/2tjotfP0A3kTyx71G42exR) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH) | [Dummy Corporation](https://open.spotify.com/album/0HZSknL80HGgxczYAi2qEU) | 3:28 | 2022-11-11 |  |
 | [Frisco](https://open.spotify.com/track/1cU4jWWFTAiclPWyD3X2KP) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Frisco](https://open.spotify.com/album/2ZW8wrrHv95qMif7MaGWb4) | 3:42 | 2022-08-10 |  |
 | [From You](https://open.spotify.com/track/3Qfqbu22C7aK2MuWBSnM5A) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [From You](https://open.spotify.com/album/7CynwysFOxoGWp1QLAB6uZ) | 3:30 | 2022-01-03 | 2022-07-09 |
 | [Geronimo](https://open.spotify.com/track/50p95vsF3KsQ1Yp4tt6Qkf) | [Young Fathers](https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV) | [Geronimo](https://open.spotify.com/album/618RtNZZo1Qmgm3CkDaqdn) | 3:33 | 2022-07-12 |  |
@@ -52,7 +53,7 @@
 | [I Love The Drive](https://open.spotify.com/track/1LpkTDHQkQ02lL3RnZYYCy) | [Kiss Nuka](https://open.spotify.com/artist/3VXmLRdy5ho8J1Btv7zffg) | [I Love The Drive](https://open.spotify.com/album/0XzTYBWfL8T431l7kb3ObF) | 5:28 | 2022-09-29 |  |
 | [I Raise You \(The Price of Your Head\)](https://open.spotify.com/track/302te1PaXydwxxX6aIjkhn) | [Folly Group](https://open.spotify.com/artist/39RnqcMpFSK4e7tbODSsaP) | [I Raise You \(The Price of Your Head\)](https://open.spotify.com/album/0KGJSvayWmKlbQW49bZQIt) | 3:51 | 2022-02-10 | 2022-07-15 |
 | [I Saw](https://open.spotify.com/track/2KyawAGl39jfqeZOrVJanN) | [Young Fathers](https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV) | [I Saw](https://open.spotify.com/album/5dYFkoGHXg0xjjtXEqZkwV) | 3:27 | 2022-10-20 |  |
-| [In Contemplation of Clair’s Scent \- Edit](https://open.spotify.com/track/6evizKGLv223qG5hpReBWy) | [Terence Etc.](https://open.spotify.com/artist/3PRli833wyTmzJrKQGNOKj) | [In Contemplation of Clair’s Scent](https://open.spotify.com/album/5WzvJZurKSZfBZZjundIzb) | 2:50 | 2022-07-07 |  |
+| [In Contemplation of Clair’s Scent \- Edit](https://open.spotify.com/track/6evizKGLv223qG5hpReBWy) | [Terence Etc.](https://open.spotify.com/artist/3PRli833wyTmzJrKQGNOKj) | [In Contemplation of Clair’s Scent](https://open.spotify.com/album/5WzvJZurKSZfBZZjundIzb) | 2:50 | 2022-07-07 | 2022-11-12 |
 | [In Your Spirit](https://open.spotify.com/track/4PQPYZ863197i6DImT4fmY) | [James Heather](https://open.spotify.com/artist/7GMpkbegUlL4UvUe5w47zu) | [Invisible Forces](https://open.spotify.com/album/77VUrQTnM0m5F1fIbdiwXr) | 4:47 | 2022-05-03 | 2022-08-24 |
 | [Incredibly Annoying](https://open.spotify.com/track/7iHetqDyri7aXIyl69QqHG) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [Incredibly Annoying](https://open.spotify.com/album/2EHzdOCliBlaKJWTJ7A8li) | 2:14 | 2022-07-05 |  |
 | [Infinite Window](https://open.spotify.com/track/2EqeGPRUCz1sFz7etlN21Y) | [Kuedo](https://open.spotify.com/artist/1SYQUJukd40ps4z6RT77rC) | [Infinite Window](https://open.spotify.com/album/7nUDFp7PYZGbXD6FFkhKB2) | 4:49 | 2022-06-29 | 2022-07-22 |

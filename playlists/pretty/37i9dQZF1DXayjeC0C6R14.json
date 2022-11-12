@@ -1,12 +1,12 @@
 {
   "description": "Canciones de rock dignas de festival para dedicarle a tu media naranja.",
-  "num_followers": 90413,
+  "num_followers": 90492,
   "original_name": "Amor Festivalero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDA2NTUzNywwMDAwMDAwMDU1ZmZkOGExZmYyYmE4MzM3OGY3OGYwMTg4MGNkMTQx",
+  "snapshot_id": "MTY2MDA2NTUzNywwMDAwMDAwMDRmZGYxMTNhZTAwZDE3NzY2MmY1NmJjMjIzMTBiMGE0",
   "tracks": [
     {
       "added_at": "2022-08-09 17:18:57",
@@ -323,18 +323,18 @@
     {
       "added_at": "2022-08-09 17:18:57",
       "album": {
-        "name": "Igual Que Ayer",
-        "url": "https://open.spotify.com/album/5L7tBkravu3KFBQlry16Jp"
+        "name": "Rock En Espanol - Lo Mejor De Los Amantes De Lola",
+        "url": "https://open.spotify.com/album/38l9gB9jzOiWkQaR36ZhUG"
       },
       "artists": [
         {
-          "name": "Los Enanitos Verdes",
-          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+          "name": "Los Amantes De Lola",
+          "url": "https://open.spotify.com/artist/7IwYwKG6VacXOThKHvPgUc"
         }
       ],
-      "duration_ms": 290063,
-      "name": "Igual Que Ayer",
-      "url": "https://open.spotify.com/track/2JlVEgNJwskpAGSudKPqLD"
+      "duration_ms": 276773,
+      "name": "Beber de Tu Sangre",
+      "url": "https://open.spotify.com/track/3Gr4OWY7lAXAq7PpgUbctG"
     },
     {
       "added_at": "2022-08-09 17:18:57",
@@ -355,18 +355,18 @@
     {
       "added_at": "2022-08-09 17:18:57",
       "album": {
-        "name": "Rock En Espanol - Lo Mejor De Los Amantes De Lola",
-        "url": "https://open.spotify.com/album/38l9gB9jzOiWkQaR36ZhUG"
+        "name": "Igual Que Ayer",
+        "url": "https://open.spotify.com/album/5L7tBkravu3KFBQlry16Jp"
       },
       "artists": [
         {
-          "name": "Los Amantes De Lola",
-          "url": "https://open.spotify.com/artist/7IwYwKG6VacXOThKHvPgUc"
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
         }
       ],
-      "duration_ms": 276773,
-      "name": "Beber de Tu Sangre",
-      "url": "https://open.spotify.com/track/3Gr4OWY7lAXAq7PpgUbctG"
+      "duration_ms": 290063,
+      "name": "Igual Que Ayer",
+      "url": "https://open.spotify.com/track/2JlVEgNJwskpAGSudKPqLD"
     },
     {
       "added_at": "2022-08-09 17:18:57",
@@ -699,22 +699,6 @@
     {
       "added_at": "2022-08-09 17:18:57",
       "album": {
-        "name": "La Flaca",
-        "url": "https://open.spotify.com/album/1O5kJTerozuI2WLgzvIz2m"
-      },
-      "artists": [
-        {
-          "name": "Jarabe De Palo",
-          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
-        }
-      ],
-      "duration_ms": 261200,
-      "name": "La flaca",
-      "url": "https://open.spotify.com/track/0ll9JAIrM3NVBOMl45sxSX"
-    },
-    {
-      "added_at": "2022-08-09 17:18:57",
-      "album": {
         "name": "Rock En Espa\u00f1ol - Lo Mejor De Tex Tex",
         "url": "https://open.spotify.com/album/3Sx5ggdxFDZxsn3Y6IjmhG"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 311400,
       "name": "Noches de Tu Piel",
       "url": "https://open.spotify.com/track/2YJV5BX5npoh8FjwNmMbiP"
+    },
+    {
+      "added_at": "2022-08-09 17:18:57",
+      "album": {
+        "name": "Arepa 3000",
+        "url": "https://open.spotify.com/album/4VRNs3TfQWZjRXiv378FNN"
+      },
+      "artists": [
+        {
+          "name": "Los Amigos Invisibles",
+          "url": "https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN"
+        }
+      ],
+      "duration_ms": 239613,
+      "name": "Qu\u00e9 Rico",
+      "url": "https://open.spotify.com/track/75NBuHx7ad04FAXKsoEbrg"
     }
   ],
   "unique_name": "Amor Festivalero",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gU1rnYEgSF.md) - [plain]
 
 > Your family can stomp, roar, and growl along to these songs about dinosaurs!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,611 likes - 93 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,618 likes - 93 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gU1rnYEgSF.md) - [plain]
 | 2 | [We Are The Dinosaurs](https://open.spotify.com/track/21ryEt5nCkFjsHJHegnLOA) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Whaddaya Think Of That?](https://open.spotify.com/album/43laH3uvyD7glYUOQ6RnjB) | 2:17 |
 | 3 | [Dinosaur Song](https://open.spotify.com/track/4O2xH89juk0LbwDOYi2rgq) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Animal Songs, Vol\. 1](https://open.spotify.com/album/5Pf03M2kgAKGuSQU2sTDD7) | 1:35 |
 | 4 | [If Dinosaurs Were Still Alive](https://open.spotify.com/track/77gY2Dpk26t4U6s3NbDTpF) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Pinkfong Dinosaur Songs](https://open.spotify.com/album/4C2baITZMPwU2M5zB2VIjj) | 1:21 |
-| 5 | [Dino Groove](https://open.spotify.com/track/2GLRXgnX2PhxmALVX6X7e1) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn), [Meekah](https://open.spotify.com/artist/4JJorCbOXi1yUsKma0RKMA) | [Blippi's Treehouse Vol.1](https://open.spotify.com/album/25E577jWtQp1P5xsBSQV43) | 2:39 |
+| 5 | [Dino Groove](https://open.spotify.com/track/2GLRXgnX2PhxmALVX6X7e1) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn), [Meekah](https://open.spotify.com/artist/7vXebg7HlyNsHfRPJnelJ3) | [Blippi's Treehouse Vol.1](https://open.spotify.com/album/25E577jWtQp1P5xsBSQV43) | 2:39 |
 | 6 | [Dinosaur Song](https://open.spotify.com/track/2Va8eZGeFZuHNqRtmJ2x3C) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [CoComelon Kids Hits, Vol\. 4](https://open.spotify.com/album/202Xrd9Peqjaat9r4sPGxy) | 3:04 |
 | 7 | [Roar Like a Dinosaur](https://open.spotify.com/track/5V8PN3AF3IEckdMJo9Zunq) | [Bounce Patrol](https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm) | [Dance Party!](https://open.spotify.com/album/304rgWamJDyKqMD8wDkgUf) | 2:39 |
 | 8 | [I Love Dinosaurs](https://open.spotify.com/track/0IB73Mtp2oC8bL8e5dOPf4) | [The MikMaks](https://open.spotify.com/artist/1cL6b5xIECGYkaelSuRalF) | [The Mik Maks](https://open.spotify.com/album/4b6GbQQXuAGsmsgpjuMQI0) | 1:50 |
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gU1rnYEgSF.md) - [plain]
 | 67 | [Whew!](https://open.spotify.com/track/1guk4SGLVPEXw30FIBSDDD) | [Wee Sing](https://open.spotify.com/artist/4lzlU08DosVqrpEoOvf3DQ) | [Wee Sing Dinosaurs](https://open.spotify.com/album/3CtjxdVm5LRDEPMSi6EzR1) | 0:57 |
 | 68 | [Who Named the Dinosaur?](https://open.spotify.com/track/7bDaPngCjBKnWdp37sHJjU) | [Wee Sing](https://open.spotify.com/artist/4lzlU08DosVqrpEoOvf3DQ) | [Wee Sing Dinosaurs](https://open.spotify.com/album/3CtjxdVm5LRDEPMSi6EzR1) | 1:09 |
 | 69 | [There's A Dinosaur Knocking At My Door](https://open.spotify.com/track/3B0ELI0yd3h0BpSpw1z5FK) | [Susan Shane\-Linder](https://open.spotify.com/artist/24hTKVtx1aWKa04LRIMdW1) | [Singin' With Susan, Too!](https://open.spotify.com/album/2zT7vrhzsTrf31OJSKfecH) | 2:59 |
-| 70 | [Dinosaur Bones](https://open.spotify.com/track/1cHMpmuOIKGLTq9cPO22Vm) | [Pancake Manor](https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C) | [Pancake Manor](https://open.spotify.com/album/5nfoLW8Ut0picjRjdGcC0g) | 1:19 |
+| 70 | [Dinosaur Bones](https://open.spotify.com/track/12Jcwk5fRzlCKKn0xhECoL) | [Pancake Manor](https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C) | [Best of Kids Music](https://open.spotify.com/album/5jxyozu7nLcgyhMFaMuVmi) | 1:19 |
 | 71 | [Dinosaur Detective](https://open.spotify.com/track/0A3q7zqwx8fhhSdSN2IW4M) | [Wee Sing](https://open.spotify.com/artist/4lzlU08DosVqrpEoOvf3DQ) | [Wee Sing Dinosaurs](https://open.spotify.com/album/3CtjxdVm5LRDEPMSi6EzR1) | 1:03 |
 | 72 | [Let's Sing About Dinosaurs](https://open.spotify.com/track/6Gs7Cv18lX5p2ebusnbO0D) | [Wee Sing](https://open.spotify.com/artist/4lzlU08DosVqrpEoOvf3DQ) | [Wee Sing Dinosaurs](https://open.spotify.com/album/3CtjxdVm5LRDEPMSi6EzR1) | 2:55 |
 | 73 | [Do the Dinosaur Stomp](https://open.spotify.com/track/1IHFP0JpPkwSnHu2qHzbY8) | [Dan and Dani](https://open.spotify.com/artist/4delqeWMRDCFJwtGHkq2aL) | [Do the Dinosaur Stomp!!](https://open.spotify.com/album/0wCuEugnQlLrAuwJ7RtJRJ) | 2:21 |
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gU1rnYEgSF.md) - [plain]
 | 92 | [Brachiosaurus Song](https://open.spotify.com/track/3uJmMKTwR7dK9tfBPgik2N) | [Press Play Picture House](https://open.spotify.com/artist/3kkuBZw9vZG5rsZkEvyGhS) | [Dinosaur Songs](https://open.spotify.com/album/1D38NNP8GnoD4ft4dTtLVt) | 1:30 |
 | 93 | [Stack up the Dinosaurs](https://open.spotify.com/track/7vHTkPmEceEaARz6JWZGuw) | [Press Play Picture House](https://open.spotify.com/artist/3kkuBZw9vZG5rsZkEvyGhS) | [Dinosaur Songs](https://open.spotify.com/album/1D38NNP8GnoD4ft4dTtLVt) | 3:23 |
 
-Snapshot ID: `MTY2MDY2MDgzNSwwMDAwMDAwMDUzMDgwOTRiZDc4OWUzNmI2OWFlNjFlOTU4NGNlZWIz`
+Snapshot ID: `MTY2MDY2MDgzNSwwMDAwMDAwMDZmZjc4NjUyY2NmZmVjYzY4YjkxNjFmZDg0Mzk2OTlj`

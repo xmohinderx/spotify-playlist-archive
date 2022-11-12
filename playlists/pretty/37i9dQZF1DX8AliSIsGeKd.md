@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: Adana Twins
 
-[Spotify](https://open.spotify.com/user/spotify) - 559,659 likes - 80 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 559,791 likes - 80 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 35 | [Evolution of Thinking](https://open.spotify.com/track/5mcCm356p4P3EAAJld3ZCd) | [Juliet Fox](https://open.spotify.com/artist/7zH0EpzFgwmwpnEprtvDig) | [Evolution of Thinking](https://open.spotify.com/album/7wihVpHT2KIgsYvxPhr8Ya) | 3:42 |
 | 36 | [Is Mine](https://open.spotify.com/track/2OVKwL3wYbbaKjGTCKS0Cc) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B), [Valeria Mancini](https://open.spotify.com/artist/2npPeervUSog9B67xmw4h9) | [Is Mine](https://open.spotify.com/album/1KSDLMWVPRjKQgxafjrdJR) | 5:44 |
 | 37 | [Creation](https://open.spotify.com/track/16qQCgWt6EYrVQ505W91m1) | [Felix Kröcher](https://open.spotify.com/artist/6lDsCwKwjMQAmR2ueIGUGJ) | [Creation](https://open.spotify.com/album/0wP5dWgoy8SzBdGs7CYBiP) | 5:39 |
-| 38 | [Jonas](https://open.spotify.com/track/3APO1IJAQXPormFs1hamQ5) | [Helena Hauff](https://open.spotify.com/artist/1JcefSOP7bcWEluL0iEIaN) | [Living With Ladybirds](https://open.spotify.com/album/5oV0oAE2o8EgbXnDp7ApFR) | 4:01 |
+| 38 | [Jonas](https://open.spotify.com/track/1G3rTe2rXxU1EsIVFkvtCp) | [Helena Hauff](https://open.spotify.com/artist/1JcefSOP7bcWEluL0iEIaN) | [Living With Ladybirds](https://open.spotify.com/album/1UKnsGSYSHQ3HtNkcbnuaE) | 4:01 |
 | 39 | [Night](https://open.spotify.com/track/253xpyhXIk9zrOveyC1i0D) | [AKZENTH](https://open.spotify.com/artist/33ARHtMLoXkzNYXqnSXhkL) | [Night](https://open.spotify.com/album/3gBbhTYRUfKkdN68v3nnBX) | 4:13 |
 | 40 | [Summer Storm](https://open.spotify.com/track/7w1U6JsBZw8lSHJ3rODHcO) | [Alexander Kowalski](https://open.spotify.com/artist/3h6qziz3eTK8pNQ2JSzHPs) | [Rave the Planet: Supporter Series, Vol\. 012](https://open.spotify.com/album/0VXpUVJ4GW3lzVXjudgzKK) | 7:48 |
 | 41 | [Katapult](https://open.spotify.com/track/2VfW4ObQ6Fp84vSPJwHQB6) | [Rafael Cerato](https://open.spotify.com/artist/3NUcxMYt10f6cx567crDk2), [ID ID](https://open.spotify.com/artist/5NF2J9XTpy7Riu5A5LQiHQ) | [Way to Freedom](https://open.spotify.com/album/76b6KTGkR6er4LeFYEHxzY) | 7:00 |
@@ -83,10 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 73 | [Storm](https://open.spotify.com/track/3LlulBDS9wVascj3UGc7kT) | [Alex Breitling](https://open.spotify.com/artist/4CBrawfeZ5WugRTqsXgwgI) | [Storm](https://open.spotify.com/album/1MS6lNY8R2TneXvXP110ZC) | 4:35 |
 | 74 | [Dramatizer](https://open.spotify.com/track/4vlIztxpOQ3qRwDRv3no6h) | [Marco Faraone](https://open.spotify.com/artist/00IUMN7pWAU2jYWcdOt5c3) | [Dramatizer](https://open.spotify.com/album/6xLXv5SyVgNJEtcaJdNLUD) | 6:08 |
 | 75 | [Soul Seekers \- Booka Shade Remix](https://open.spotify.com/track/1aVYY4p0FkbfDPiKglWd9P) | [Lufthaus](https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU), [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw), [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [Soul Seekers \(Booka Shade Remix\)](https://open.spotify.com/album/0V44oq3IKTUyB4EVXkC24w) | 3:33 |
-| 76 | [Plastic Future](https://open.spotify.com/track/24QrA5p9SFIIhJbXujnmGz) | [Gold Panda](https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk) | [The Work](https://open.spotify.com/album/0J3pUfI0BKBt2oRmYgNHaA) | 5:37 |
+| 76 | [Plastic Future](https://open.spotify.com/track/3r0MPlszKS3iIYcZOAJDME) | [Gold Panda](https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk) | [The Work](https://open.spotify.com/album/6WgLRmwO5Kljv9GjDiRHnV) | 5:37 |
 | 77 | [Tonight](https://open.spotify.com/track/3kEESvip59Vvej6YtzG2HO) | [Drunken Kong](https://open.spotify.com/artist/2c8K7cdY2IU2jBacPOxYqk) | [Tonight EP](https://open.spotify.com/album/5NpM4yflQB8uDiymMbmgBv) | 5:44 |
 | 78 | [Don't Come](https://open.spotify.com/track/4aVMFZfOt8GgmpmHw8GHby) | [Marc DePulse](https://open.spotify.com/artist/7dhJPaz7uYAPpQSBj1SPaN) | [S.O.S\. 4 Luv](https://open.spotify.com/album/3WXh1wCypcwoXqpcjD64f1) | 5:13 |
 | 79 | [Magenta](https://open.spotify.com/track/7dfmRPjeclzvCQaIVnlgpH) | [AIKON](https://open.spotify.com/artist/7Aq2oT2xuzRxIqdiqjRESp) | [Spektrum 4, pt\. I](https://open.spotify.com/album/3uq8sQrLGEyNZfzRGuo6zF) | 6:26 |
 | 80 | [Phanta](https://open.spotify.com/track/1EqMDEEotYXA74qiFCieQr) | [Dejago](https://open.spotify.com/artist/2oQ8lsOgSIOntumJByTq7C) | [Phanta](https://open.spotify.com/album/0lPwLPHJyDXY0LBhl9Mln1) | 6:56 |
 
-Snapshot ID: `MTY2ODEyNDg2MCwwMDAwMDAwMDZjNzY3YTRlZjNhNTIxODRkNWRlNTlmYjEzMjNkMTEy`
+Snapshot ID: `MTY2ODEyNDg2MCwwMDAwMDAwMGNiNzZiNzk3MDI2OTBlOWM3MDUzMmNiMThhODc2MWMw`

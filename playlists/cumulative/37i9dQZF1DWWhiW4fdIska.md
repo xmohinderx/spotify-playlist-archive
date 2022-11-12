@@ -4,7 +4,7 @@
 
 > Legendary blues guitarists\. Cover: Buddy Guy
 
-55 songs - 4 hr 45 min - [published](https://open.spotify.com/playlist/0WLGgGEvXglWBwuFupEmwy)
+56 songs - 4 hr 48 min - [published](https://open.spotify.com/playlist/0WLGgGEvXglWBwuFupEmwy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [Crosscut Saw \- Mono Mix](https://open.spotify.com/track/0WvSYVnEXD7QLa5pDJ920S) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o) | [Born Under A Bad Sign \(Mono\)](https://open.spotify.com/album/0Ez9S8Dhzr1fa6ZCkcIJiR) | 2:36 | 2020-10-21 |  |
 | [Crossroads \- Live](https://open.spotify.com/track/6PUabSMXmPnZna361Wwmf7) | [Cream](https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw) | [Wheels Of Fire](https://open.spotify.com/album/0zrtTZC7yY2TOEhnbJzSb9) | 4:18 | 2020-10-21 |  |
 | [Cuttin' In](https://open.spotify.com/track/3zIFZYaOv5xqtszhnXxYkb) | [Johnny "Guitar" Watson](https://open.spotify.com/artist/6uB4Ax6mlzohDTLqLOJ6Vl) | [Gangster Of Love](https://open.spotify.com/album/1Smhg9Z3vsvr4GcMg8cQSp) | 3:15 | 2020-10-21 | 2022-07-29 |
-| [Cuttin' In](https://open.spotify.com/track/5m57WfsR7tbGs22SmE6OSX) | [Johnny "Guitar" Watson](https://open.spotify.com/artist/6uB4Ax6mlzohDTLqLOJ6Vl) | [Vivid Sound](https://open.spotify.com/album/4TxbXyp5SZGPxZoKCll7ZF) | 3:15 | 2020-10-21 |  |
+| [Cuttin' In](https://open.spotify.com/track/5m57WfsR7tbGs22SmE6OSX) | [Johnny "Guitar" Watson](https://open.spotify.com/artist/6uB4Ax6mlzohDTLqLOJ6Vl) | [Vivid Sound](https://open.spotify.com/album/4TxbXyp5SZGPxZoKCll7ZF) | 3:15 | 2020-10-21 | 2022-11-12 |
+| [Cuttin' In](https://open.spotify.com/track/5lxNHGYZnHpzKO3TX4T9Hh) | [Johnny "Guitar" Watson](https://open.spotify.com/artist/6uB4Ax6mlzohDTLqLOJ6Vl) | [Gangster Of Love](https://open.spotify.com/album/6Z1ccpvWsRGRzvrq1hA387) | 3:15 | 2020-10-21 |  |
 | [Don't Drive Me Baby](https://open.spotify.com/track/0YwiXJVTCIqIuqqexiDOym) | [Lowell Fulson](https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5) | [The Complete Chess Masters](https://open.spotify.com/album/1oKzIjaJ00OKzVxwjSfCXl) | 2:39 | 2020-10-21 |  |
 | [Downhearted Blues](https://open.spotify.com/track/0h0pAsjw7YVQyn43cbAPqF) | [Son House](https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda) | [The Original Delta Blues \(Mojo Workin': Blues For The Next Generation\)](https://open.spotify.com/album/3k3hqZqYl9XYgKC63wrKMq) | 6:03 | 2020-10-21 |  |
 | [Freeway Jam](https://open.spotify.com/track/55u4NSV62uOjfTySS4Fi6i) | [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Blow By Blow](https://open.spotify.com/album/6fhTDVBs7qeoP3254hMu6u) | 4:58 | 2020-10-21 |  |

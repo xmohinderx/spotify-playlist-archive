@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9aFcuM4nAnw.md) - [plain]
 
 > Immerse deeper into obscure alternate dimensions..\. 🦇🔮
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,038 likes - 75 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,045 likes - 75 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Upside Down](https://open.spotify.com/track/5rwltqXrIniDtZIx4J6u50) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things, Vol\. 1 \(A Netflix Original Series Soundtrack\)](https://open.spotify.com/album/1puplOrvmUGoq2VxsB0ENJ) | 5:07 |
 | 2 | [Reach For The Dead](https://open.spotify.com/track/2hgerKBJ7tetp3JfL5OZX9) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Tomorrow's Harvest](https://open.spotify.com/album/159ORixBSSemxiualv1Woj) | 4:47 |
 | 3 | [Kommissar Brenkstrupp \(Main Titles\)](https://open.spotify.com/track/5azy9UxSBD7XKgL83HOJDN) | [Ørdop Wolkenscheidt](https://open.spotify.com/artist/7kMXAaL47nt5wVkkyEbiON) | [Kommissar Brenkstrupp: Fragments of a Troubled Detective](https://open.spotify.com/album/22rItGEjuiHXUPAl3pp2DC) | 2:40 |
-| 4 | [Melancholia I](https://open.spotify.com/track/6mO6BqqwxzdzofedxrixBA) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [Melancholia](https://open.spotify.com/album/40PGXFDDAcsyKVFA3IcN4q) | 3:25 |
+| 4 | [Melancholia I](https://open.spotify.com/track/6GsXMqsYc6lpo6Ay0aeOMs) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [Coming Home by Pantha du Prince](https://open.spotify.com/album/43kzl72U8vM6i4t400YoJ2) | 3:22 |
 | 5 | [Night](https://open.spotify.com/track/0tdZbCUN57uLhTPMjfQz1f) | [John Carpenter](https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq) | [Lost Themes](https://open.spotify.com/album/0RvpicJFMbX7pNWFG6MCe9) | 3:38 |
 | 6 | [Fields of Coral](https://open.spotify.com/track/27iy87clL6mJQh9ybqLNK8) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Oceanic](https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb) | 7:43 |
 | 7 | [1st Night](https://open.spotify.com/track/12yR0xcp0nGr0pSsDzzMUe) | [Debit](https://open.spotify.com/artist/101vLnWdoeyAyQhADB4bqe) | [The Long Count](https://open.spotify.com/album/5E3VtquEh09l4f1jvLbksN) | 3:28 |
@@ -65,16 +65,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9aFcuM4nAnw.md) - [plain]
 | 55 | [Prepare the Stage of Night](https://open.spotify.com/track/2LNvSjqhxh9UBv0rF1PMlR) | [Atrium Carceri](https://open.spotify.com/artist/6UIsHrMMddC9hmkwI4J3Jr), [Cities Last Broadcast](https://open.spotify.com/artist/4TiCdaMLVAz0W8GqeZ6jN4) | [Black Corner Den](https://open.spotify.com/album/10flibooBjjwWKy02B5obV) | 4:24 |
 | 56 | [Utopian Facade](https://open.spotify.com/track/5g8LIlFT97iTmn4VBgUi6k) | [John Carpenter](https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq) | [Lost Themes II](https://open.spotify.com/album/5LgbAAdBK2hWlrQdWplfGK) | 3:47 |
 | 57 | [The Moment Before You Fall Asleep](https://open.spotify.com/track/7AwHujsWTO74KJ6yDbQQbk) | [ALLSEITS](https://open.spotify.com/artist/3KEZRlZ6GtlMcK6ICypOAD) | [Cycles "Cyclic Law's 10th Year Anniversary Label Sampler"](https://open.spotify.com/album/6aPaiQi44SS1IPE6bU5dLp) | 8:28 |
-| 58 | [Mannequin Metric](https://open.spotify.com/track/2B32tq6y3LxOnV9OkCZLOe) | [Cavern of Anti\-Matter](https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt) | [In Fabric OST](https://open.spotify.com/album/17kJIlUTdZBateK6SysxZ1) | 4:14 |
+| 58 | [The Willows](https://open.spotify.com/track/0e9Zk8SwtlzNJ27ch4HIsY) | [Belbury Poly](https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB) | [The Willows](https://open.spotify.com/album/5ilT4DXjIzF81QkF5uYMZU) | 4:43 |
 | 59 | [Immemorial](https://open.spotify.com/track/6N5cVdUFPXwrFdlAjlsRwA) | [Apocryphos](https://open.spotify.com/artist/64qsbZn2w42kGEHQWsjgdP), [Kammarheit](https://open.spotify.com/artist/3uUghlgJJQPZOHB6KRrSXZ), [Atrium Carceri](https://open.spotify.com/artist/6UIsHrMMddC9hmkwI4J3Jr) | [Onyx](https://open.spotify.com/album/6fSwC689X5NJC8hIOEOBLS) | 5:33 |
-| 60 | [The Willows](https://open.spotify.com/track/0e9Zk8SwtlzNJ27ch4HIsY) | [Belbury Poly](https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB) | [The Willows](https://open.spotify.com/album/5ilT4DXjIzF81QkF5uYMZU) | 4:43 |
+| 60 | [Mannequin Metric](https://open.spotify.com/track/2B32tq6y3LxOnV9OkCZLOe) | [Cavern of Anti\-Matter](https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt) | [In Fabric OST](https://open.spotify.com/album/17kJIlUTdZBateK6SysxZ1) | 4:14 |
 | 61 | [Aesthetic](https://open.spotify.com/track/3ATbLqkrK5N5rKKQLW9WfE) | [Enmarta](https://open.spotify.com/artist/06w0fwBJQtrtvs5iU9UVqs) | [Sea of Black](https://open.spotify.com/album/01pQ8hR7osCIMZ7nXKTcid) | 6:26 |
 | 62 | [The Ruins And The Serene](https://open.spotify.com/track/4VjOSSo1o605t3tYZNFgs3) | [Kammarheit](https://open.spotify.com/artist/3uUghlgJJQPZOHB6KRrSXZ) | [Asleep And Well Hidden](https://open.spotify.com/album/1LUPlzy1smiOY2YFEA04AZ) | 7:10 |
 | 63 | [Anthropic Uncreation](https://open.spotify.com/track/4Z355byisU8j1DVSwA3biP) | [Vestigial](https://open.spotify.com/artist/6NgdG349NLTViR0NJqGGRV) | [Translucent Communion](https://open.spotify.com/album/7h6pY9nZuq2ytVcplRLbOl) | 5:16 |
 | 64 | [Teresa, Lark of Ascension](https://open.spotify.com/track/05d3d97A54UUffKia3WKpJ) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [Berberian Sound Studio](https://open.spotify.com/album/7ov3GoQhZr9Ii6PXOqAVv9) | 3:37 |
 | 65 | [That Which Lies Beyond](https://open.spotify.com/track/25Dy49um1MbZVN96c1dS6m) | [Sinke Dûs](https://open.spotify.com/artist/7G1jLG6TOGiYhRsdiUdm1k) | [Akrasia](https://open.spotify.com/album/2mpTyxf7rUWZh18pQw0rNo) | 7:11 |
-| 66 | [Loneliness](https://open.spotify.com/track/2ttcbHh6jc3fil4h9BIs7A) | [New Risen Throne](https://open.spotify.com/artist/2PBztP9oVOgzWXiIrXONKi) | [Loneliness of Hidden Structures](https://open.spotify.com/album/5zmFF4XK5jiz9i8yNvMyiS) | 9:14 |
-| 67 | [Interior Synthesis of Polarity](https://open.spotify.com/track/1rDKcl40U9HOF6VFQoSwqU) | [Inade](https://open.spotify.com/artist/4pFSQZfXbBzabeOT7necWo) | [Delineation.Metamorphosis.Permanence.](https://open.spotify.com/album/64vjzqH3ZpsUvO8dZ9NZyr) | 5:10 |
+| 66 | [Interior Synthesis of Polarity](https://open.spotify.com/track/1rDKcl40U9HOF6VFQoSwqU) | [Inade](https://open.spotify.com/artist/4pFSQZfXbBzabeOT7necWo) | [Delineation.Metamorphosis.Permanence.](https://open.spotify.com/album/64vjzqH3ZpsUvO8dZ9NZyr) | 5:10 |
+| 67 | [Loneliness](https://open.spotify.com/track/2ttcbHh6jc3fil4h9BIs7A) | [New Risen Throne](https://open.spotify.com/artist/2PBztP9oVOgzWXiIrXONKi) | [Loneliness of Hidden Structures](https://open.spotify.com/album/5zmFF4XK5jiz9i8yNvMyiS) | 9:14 |
 | 68 | [Vocerah](https://open.spotify.com/track/0MkIIsZx4D5fKp0pMZOEQr) | [Treha Sektori](https://open.spotify.com/artist/4JuuDx7VBaILvOOnTiWEDh) | [Endessiah](https://open.spotify.com/album/2CJSxFuH7DhuiWweDbwBQH) | 6:06 |
 | 69 | [Witch's Will](https://open.spotify.com/track/2y5fGTCA30VoH783YvhUWy) | [Wilburn Burchette](https://open.spotify.com/artist/5V2gmjVAI4RLvfCNAXf9rZ) | [I Am the Center: Private Issue New Age Music in America, 1950\-1990](https://open.spotify.com/album/5J6elnQWSwhzzD6Zo6QZso) | 4:57 |
 | 70 | [The Magi](https://open.spotify.com/track/1Ma5XYumHN0yAp5yzaWReq) | [Council of Nine](https://open.spotify.com/artist/3m9vrJ0nacuuhkK5tvqInR) | [Dakhma](https://open.spotify.com/album/2ySAn302IJRRc3PJpkuRfM) | 10:24 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9aFcuM4nAnw.md) - [plain]
 | 74 | [Sticks and Stones](https://open.spotify.com/track/2B0IVAINVS2tD7m1P2dZPx) | [Belbury Poly](https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB) | [The Gone Away](https://open.spotify.com/album/0xd7v6oCe19dDOKz7Po6lv) | 4:02 |
 | 75 | [Slipping Away \(In a Dream\)](https://open.spotify.com/track/7puJT8Dq180XAnVWs0wLAA) | [Don](https://open.spotify.com/artist/2ldH4h3nkIuOio5BW1KWUs) | [Distanced](https://open.spotify.com/album/19EnpeDNAmXtZrSnMBPcc8) | 1:31 |
 
-Snapshot ID: `MTY2MzcxOTkxMywwMDAwMDAwMDVkZmY3MTg1YjM3YzllOTM5NzIxODFhOTlhMjhhZjA5`
+Snapshot ID: `MTY2MzcxOTkxMywwMDAwMDAwMGYzZTcxOTAyYzgxZGVlMTRlZmY0MjZlN2MxODE0YTU0`

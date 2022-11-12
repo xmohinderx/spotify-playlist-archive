@@ -403,7 +403,7 @@
           "url": "https://open.spotify.com/artist/7l77Y7qC5sVTsVoU2MymGX"
         }
       ],
-      "date_added": "2022-10-11",
+      "date_added": "2022-10-10",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 256640,
@@ -1091,7 +1091,7 @@
           "url": "https://open.spotify.com/artist/16Nni80EpZ7s54i3hJKvft"
         }
       ],
-      "date_added": "2022-10-11",
+      "date_added": "2022-10-10",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 172801,
@@ -1165,10 +1165,28 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 212373,
       "name": "Home Again",
       "url": "https://open.spotify.com/track/46EuzanXhKwIc7755wLAvS"
+    },
+    {
+      "album": {
+        "name": "Modern Soul",
+        "url": "https://open.spotify.com/album/07L2WQcWfWxVAdOjhymppR"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212373,
+      "name": "Home Again",
+      "url": "https://open.spotify.com/track/7EIoTuGqO2j9aP9tRrOWNw"
     },
     {
       "album": {
@@ -1299,7 +1317,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 300466,
       "name": "I'd Rather Go Blind",
       "url": "https://open.spotify.com/track/1KQEzCaNkk8ioBMbBeSYLw"
@@ -1333,7 +1351,7 @@
           "url": "https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY"
         }
       ],
-      "date_added": "2022-10-11",
+      "date_added": "2022-10-10",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 188520,
@@ -1637,7 +1655,7 @@
           "url": "https://open.spotify.com/artist/2RWOiWqyH0TkExmKSjZ9sd"
         }
       ],
-      "date_added": "2022-10-11",
+      "date_added": "2022-10-10",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 190772,
@@ -2375,6 +2393,28 @@
       "duration_ms": 222496,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/2UvjzFa5j6V2oi6PStN2TT"
+    },
+    {
+      "album": {
+        "name": "Grandes Temazos: Blues",
+        "url": "https://open.spotify.com/album/4gXvc3NifLO9FboTiRyf0b"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        },
+        {
+          "name": "Tracy Chapman",
+          "url": "https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301133,
+      "name": "The Thrill Is Gone",
+      "url": "https://open.spotify.com/track/0cfwfMpxXwA36einrkgRcD"
     },
     {
       "album": {

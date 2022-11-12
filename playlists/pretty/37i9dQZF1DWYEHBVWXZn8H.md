@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEHBVWXZn8H.md) - [plain]
 
 > The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,118 likes - 65 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,175 likes - 65 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEHBVWXZn8H.md) - [plain]
 | 40 | [Galleon Ship](https://open.spotify.com/track/4B1uwPgjl263qMNHys2J7h) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Ghosteen](https://open.spotify.com/album/5TkXgoeyGznBNOjrw17eA7) | 4:14 |
 | 41 | [There She Goes, My Beautiful World](https://open.spotify.com/track/4KQOt8UvwZmUF8sjT4Za50) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Abattoir Blues / The Lyre of Orpheus](https://open.spotify.com/album/4OrbNhWLOrWi6lb40T0IHM) | 5:17 |
 | 42 | [Ghosteen Speaks](https://open.spotify.com/track/7jSJkyPZFnA44t1sM3pkil) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Ghosteen](https://open.spotify.com/album/5TkXgoeyGznBNOjrw17eA7) | 4:02 |
-| 43 | [Give Us a Kiss](https://open.spotify.com/track/6Ey2XKLjRuyWE5U3pqedvR) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [B\-Sides & Rarities \(Part II\)](https://open.spotify.com/album/70BESZ62GkFlBw0O3mxKo9) | 3:33 |
+| 43 | [Give Us a Kiss](https://open.spotify.com/track/5gM0aZK9iW8r92uqDIQVMo) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Give Us a Kiss](https://open.spotify.com/album/2XyULUK9a00BF3fcHjkDrq) | 3:31 |
 | 44 | [Grief Came Riding](https://open.spotify.com/track/0j4WEjwlD6xt3xuJZ1n4iR) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [B\-Sides and Rarities](https://open.spotify.com/album/2Bsy1Jgzx6SwGtah8SQzx5) | 5:05 |
 | 45 | [Love Letter \- 2011 Remastered Version](https://open.spotify.com/track/0aKozTzglADfnFue4Vwuif) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [No More Shall We Part \(2011 Remastered Version\)](https://open.spotify.com/album/5JpkwEcDxy92C3e9vSJTVX) | 4:08 |
 | 46 | [He Wants You](https://open.spotify.com/track/1VBoU7OLK8Vg0OV4qhvS5n) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Lovely Creatures \- The Best of Nick Cave and The Bad Seeds \(1984\-2014\) \[Deluxe Edition\]](https://open.spotify.com/album/05hXano83YIfeLyfdOoMIf) | 3:31 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEHBVWXZn8H.md) - [plain]
 | 64 | [Loverman \- 2011 Remastered Version](https://open.spotify.com/track/5E7hQtltnGgqIpBiVspGAY) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Lovely Creatures \- The Best of Nick Cave and The Bad Seeds \(1984\-2014\) \[Deluxe Edition\]](https://open.spotify.com/album/05hXano83YIfeLyfdOoMIf) | 6:21 |
 | 65 | [Release The Bats](https://open.spotify.com/track/2CVsEpXpqU8ZEafa5SzIGI) | [The Birthday Party](https://open.spotify.com/artist/5I2hMUcztc6QbzkyLskdt4) | [Junkyard](https://open.spotify.com/album/7dnXe2EVoWKwGGGRLnoieV) | 2:31 |
 
-Snapshot ID: `MTY0MTg2MTA5NywwMDAwMDAwMDRjNzdhMGRjNTYwNDU4OTQwNDk5ODRhMzlmYjMwZjY0`
+Snapshot ID: `MTY0MTg2MTA5NywwMDAwMDAwMGExNGE2NWVhYTc1YWI2MWI2MDgyYzdiYWY1ODg4M2Nk`

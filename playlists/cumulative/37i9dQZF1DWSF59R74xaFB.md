@@ -4,7 +4,7 @@
 
 > El amor no se escucha, se siente...
 
-365 songs - 22 hr 22 min - [published](https://open.spotify.com/playlist/59UyBs8MpCXHCEwX4JQKmo)
+366 songs - 22 hr 26 min - [published](https://open.spotify.com/playlist/59UyBs8MpCXHCEwX4JQKmo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Amar de Verdad](https://open.spotify.com/track/1OeD1SbTRbuV4qbA51hHKX) | [Samo](https://open.spotify.com/artist/68QUssU8KffP7KmgO3Z6Ye), [Sandoval](https://open.spotify.com/artist/4FG27h3EzTkxI1YDnHhuRW) | [Amar de Verdad](https://open.spotify.com/album/4ev82wQiHx9qCacVcUmJXB) | 2:52 | 2021-10-21 | 2022-07-02 |
 | [Amar y Querer](https://open.spotify.com/track/1fgaOwpFRwsQr9V8sPMbka) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [20 Triunfadoras De Jose Jose](https://open.spotify.com/album/16XWFsX4Qt9Wr4XmUBlKfX) | 3:06 | 2021-10-21 | 2022-07-26 |
 | [Amarte y Perderte](https://open.spotify.com/track/28WKeqbRKcTG2GH8aaHupO) | [Chucho Rivas](https://open.spotify.com/artist/1tClPu7uXdaZEQ32vihyJ1) | [Amarte y Perderte](https://open.spotify.com/album/4sCYEJsIyiBtyEofmjrnsj) | 3:28 | 2021-10-21 | 2022-04-20 |
+| [Amigos \(con Maria Becerra\)](https://open.spotify.com/track/34tHZJLk0adg5tW49iybbE) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Amigos \(con Maria Becerra\)](https://open.spotify.com/album/3znR1F0VbgfKsDyTeC0Nt8) | 3:53 | 2022-11-12 |  |
 | [Amigos Con Derechos \- Versión Pop](https://open.spotify.com/track/3KJ8GfRID66ZarOfkPK2po) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Amigos Con Derechos \(Versión Pop\)](https://open.spotify.com/album/2QYR6ssvZMCYszAgRh1QrB) | 3:55 | 2021-10-21 | 2022-07-27 |
 | [Amigos No por Favor \(Primera Fila\) \- En Vivo](https://open.spotify.com/track/2hyAEExgoEfxrVJKUJTqZV) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Primera Fila \(En Vivo\)](https://open.spotify.com/album/59AvNgPPcI6C8o3kuWfZQG) | 3:45 | 2021-10-21 |  |
 | [Amor Ordinario](https://open.spotify.com/track/4WbKmrxCQ8gp8qEjyRpXtb) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [K.O.](https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK) | 3:10 | 2021-10-21 |  |
@@ -182,7 +183,7 @@
 | [Ley De Gravedad](https://open.spotify.com/track/2vKbltUtfh6QxlnfPKZTda) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Ley De Gravedad](https://open.spotify.com/album/4iuzVlCaj60ttwNyV1tHFg) | 2:22 | 2022-02-11 | 2022-04-17 |
 | [Llamada Perdida](https://open.spotify.com/track/1f6PB9enEpg3o07aHu0Cl4) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Llamada Perdida](https://open.spotify.com/album/51D2HpSpX5cD0sSXcl6Nm1) | 2:46 | 2022-02-18 |  |
 | [Llegaste A Mi Vida](https://open.spotify.com/track/4rARugNCdlOra7sQz10md1) | [Yahir](https://open.spotify.com/artist/1bqHIHJm8coUJqqoguolZJ) | [Llegaste A Mi Vida](https://open.spotify.com/album/2AD2wLTonKRvabtGNmaY2U) | 3:20 | 2021-10-21 | 2022-07-28 |
-| [Llueve sobre mojado](https://open.spotify.com/track/3z4XtoZVf8AOoR18Lnp7e1) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5) | [Llueve sobre mojado](https://open.spotify.com/album/16KVHgtlAeiAiav4Yko9KB) | 3:48 | 2021-10-26 |  |
+| [Llueve sobre mojado](https://open.spotify.com/track/3z4XtoZVf8AOoR18Lnp7e1) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5) | [Llueve sobre mojado](https://open.spotify.com/album/16KVHgtlAeiAiav4Yko9KB) | 3:48 | 2021-10-26 | 2022-11-12 |
 | [Lo Mejor de Mi](https://open.spotify.com/track/022OMGUcC60n0BqT1z76sk) | [Noel Schajris](https://open.spotify.com/artist/2uEjXyVi0SA1HPpj3zquXh) | [Lo Mejor de Mi](https://open.spotify.com/album/5yH1HkrgbPifiv6JYUElI3) | 4:08 | 2021-10-21 | 2022-04-21 |
 | [Lo Nuestro Vale Más](https://open.spotify.com/track/6y5oTJz2ch5Xw8LNbOSEgj) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Lo Nuestro Vale Más](https://open.spotify.com/album/3YLLprZSzUxIhuTPiUqIqQ) | 3:27 | 2021-10-21 | 2022-07-27 |
 | [Lo Que Construimos](https://open.spotify.com/track/5wWxUdgn2OugIOvLJOdreH) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Hasta la Raíz \(Edición Especial\)](https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv) | 4:39 | 2021-10-21 |  |

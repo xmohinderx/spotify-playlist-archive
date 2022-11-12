@@ -4,7 +4,7 @@
 
 > Blues, Bluegrass, Americana, Folk, & Soul; explore today's Black artists that are driving the evolution of roots music\. Cover: Jon Batiste
 
-102 songs - 6 hr 12 min - [published](https://open.spotify.com/playlist/2zeMD6M2G1mrTH8hnWvyw7)
+103 songs - 6 hr 16 min - [published](https://open.spotify.com/playlist/2zeMD6M2G1mrTH8hnWvyw7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [Come Love Come](https://open.spotify.com/track/3VMgj5W7ui3LIbf3XYc8WB) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [Freedom Highway](https://open.spotify.com/album/1CVuPxNHwY5ORJ8MhjD0UB) | 5:19 | 2021-10-22 |  |
 | [CRY](https://open.spotify.com/track/4fwCa8XejynU81AhXovR9r) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [WE ARE](https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE) | 3:57 | 2021-12-01 |  |
 | [Danger](https://open.spotify.com/track/5KzwHKqX7NZXgO54FjgRpp) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Danger](https://open.spotify.com/album/1pOhvqkRotSBZwRcxxpft1) | 3:25 | 2021-10-22 |  |
-| [Diamond Studded Shoes](https://open.spotify.com/track/5SfM1f729pv1DdiEcyDiex) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Stand For Myself](https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV) | 3:24 | 2022-06-17 |  |
+| [Diamond Studded Shoes](https://open.spotify.com/track/40IKRcWQ7AmmLe0397l1Wb) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Festival Music 2022](https://open.spotify.com/album/4GWUWeGzDHP3J6hIKKrTB5) | 3:24 | 2022-06-17 |  |
+| [Diamond Studded Shoes](https://open.spotify.com/track/5SfM1f729pv1DdiEcyDiex) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Stand For Myself](https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV) | 3:24 | 2022-06-17 | 2022-11-12 |
 | [Diamond Studded Shoes](https://open.spotify.com/track/5vJzPLEkqOXaqKZqzsYt9r) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Diamond Studded Shoes](https://open.spotify.com/album/1hH8sinTRPta1RQMY8SFX5) | 3:24 | 2021-10-22 | 2022-07-29 |
 | [Do You See The Light Around Me?](https://open.spotify.com/track/6pPfKmVvvu1ztJxqvpQ4Vm) | [Uwade](https://open.spotify.com/artist/57qPRqUfnRY0KJtO5lrjWL) | [Do You See The Light Around Me?](https://open.spotify.com/album/4ryLljFHWYTslwrz8l0UTK) | 3:24 | 2022-02-04 |  |
 | [Don't Let Me Disappear](https://open.spotify.com/track/1StMd0fcQFpwrkYTJuHj8z) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Don't Let Me Disappear](https://open.spotify.com/album/3Oliq76kwRgabXMJOtuUz7) | 4:24 | 2021-10-22 |  |

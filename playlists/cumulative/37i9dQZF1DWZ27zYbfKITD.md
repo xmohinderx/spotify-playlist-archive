@@ -4,7 +4,7 @@
 
 > Focus and relax with the help of these chilled cinematic soundtracks.
 
-73 songs - 3 hr 38 min - [published](https://open.spotify.com/playlist/11XWwRk7eQQIfj4KpfiOmZ)
+74 songs - 3 hr 40 min - [published](https://open.spotify.com/playlist/11XWwRk7eQQIfj4KpfiOmZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [One Day: Piano Suite](https://open.spotify.com/track/7yjawyAnSGGV6ScksB6v0g) | [Rachel Portman](https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR) | [One Day: Piano Suite](https://open.spotify.com/album/7F2phIIa9WNbzL9Iy4MYuC) | 3:53 | 2022-11-04 |  |
 | [Prince Phillip](https://open.spotify.com/track/6pGHTRfuXLZjta0Kdc9wNG) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Maleficent \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4NCaxImo95pQKUonZwKtRA) | 2:29 | 2022-08-05 |  |
 | [Ragnar Dreams of Home](https://open.spotify.com/track/3nVc5ARjS5gpGOV34QkTlw) | [Trevor Morris](https://open.spotify.com/artist/5ikWl4mjoiFlLPvkFRZETq) | [The Vikings IV \(Music from the TV Series\)](https://open.spotify.com/album/5zJORKvOIkroj9fmKdUPZI) | 1:41 | 2022-11-08 |  |
+| [Reverie](https://open.spotify.com/track/4ih3wEKgswM0P1gT4Xq5XI) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [The Fabelmans \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3dWmhh9KGeDVbOdVSGLgHC) | 1:44 | 2022-11-11 |  |
 | [Road To Perdition](https://open.spotify.com/track/1ybtJbR4ARqmjl6dD2VtYU) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [Road To Perdition \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7v9u5bUHm2tpSC7ZL4hZBG) | 3:55 | 2022-08-05 |  |
 | [Romance Suite \(From the Motion Picture "Promising Young Woman"\)](https://open.spotify.com/track/7HYsIVxaKJtbCfaPDj8hMy) | [Anthony Willis](https://open.spotify.com/artist/3eQRx2K7xDJFIbuzZt4wOk) | [Promising Young Woman \(Original Motion Picture Score\)](https://open.spotify.com/album/5tw3WvlmNGNBACzwUSPbJd) | 3:32 | 2022-08-05 |  |
 | [San Miguel](https://open.spotify.com/track/2ro1HWV6SK7r6c6PhRSEpj) | [Jordan Seigel](https://open.spotify.com/artist/1s6Tpkmcu82ZnLoRjESUbI) | [Half Brothers \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6Hvhg2DNn8ECerbfhHpDXe) | 1:34 | 2022-10-24 |  |

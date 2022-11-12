@@ -1,18 +1,18 @@
 {
   "description": "A dose of high-energy, feel-good rock tunes.",
-  "num_followers": 611825,
+  "num_followers": 611827,
   "original_name": "Rock Me Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExNTIwMCwwMDAwMDAwMDE1ODkxZmZjMDhjNWFlMzQ2YTZhYmI3ZGFkNzk0NjVm",
+  "snapshot_id": "MTY2NTExNTIwMCwwMDAwMDAwMGNjMzUwZTMyNWZiNTdjN2Y0OTNmY2YxNjBmN2NjZjJm",
   "tracks": [
     {
       "added_at": "2022-10-05 20:33:45",
       "album": {
-        "name": "Bleed American",
-        "url": "https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP"
+        "name": "Emo 2000s",
+        "url": "https://open.spotify.com/album/6YLLFMlYzwDiKTKeqIHMvQ"
       },
       "artists": [
         {
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 165853,
+      "duration_ms": 166040,
       "name": "The Middle",
-      "url": "https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO"
+      "url": "https://open.spotify.com/track/67PzNQl5EyyrNBmFIM917G"
     },
     {
       "added_at": "2022-10-05 20:33:45",
@@ -407,22 +407,6 @@
     {
       "added_at": "2022-10-05 20:33:45",
       "album": {
-        "name": "California",
-        "url": "https://open.spotify.com/album/4wuYQ9hyF1EGmrtjMpgpE9"
-      },
-      "artists": [
-        {
-          "name": "blink-182",
-          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
-        }
-      ],
-      "duration_ms": 235613,
-      "name": "Bored To Death",
-      "url": "https://open.spotify.com/track/44TuSOP6xIAEeJmZsN3nXO"
-    },
-    {
-      "added_at": "2022-10-05 20:33:45",
-      "album": {
         "name": "Riptide",
         "url": "https://open.spotify.com/album/5pq4qSf7QPmEu7F1IhhVmn"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 211119,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/6FqBQIRLJMluO10YtDbETv"
+    },
+    {
+      "added_at": "2022-10-05 20:33:45",
+      "album": {
+        "name": "California",
+        "url": "https://open.spotify.com/album/4wuYQ9hyF1EGmrtjMpgpE9"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "duration_ms": 235613,
+      "name": "Bored To Death",
+      "url": "https://open.spotify.com/track/44TuSOP6xIAEeJmZsN3nXO"
     },
     {
       "added_at": "2022-10-05 20:33:45",
@@ -575,6 +575,22 @@
     {
       "added_at": "2022-10-05 20:33:45",
       "album": {
+        "name": "THE DEATH OF PEACE OF MIND",
+        "url": "https://open.spotify.com/album/3p7m1Pmg6n3BlpL9Py7IUA"
+      },
+      "artists": [
+        {
+          "name": "Bad Omens",
+          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
+        }
+      ],
+      "duration_ms": 210685,
+      "name": "Like A Villain",
+      "url": "https://open.spotify.com/track/0xoyUiHhxVH4gwb0CRgNmg"
+    },
+    {
+      "added_at": "2022-10-05 20:33:45",
+      "album": {
         "name": "Fallout",
         "url": "https://open.spotify.com/album/74K2vGYMdCCO29n4s4Y41h"
       },
@@ -627,22 +643,6 @@
     {
       "added_at": "2022-10-05 20:33:45",
       "album": {
-        "name": "THE DEATH OF PEACE OF MIND",
-        "url": "https://open.spotify.com/album/3p7m1Pmg6n3BlpL9Py7IUA"
-      },
-      "artists": [
-        {
-          "name": "Bad Omens",
-          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
-        }
-      ],
-      "duration_ms": 210685,
-      "name": "Like A Villain",
-      "url": "https://open.spotify.com/track/0xoyUiHhxVH4gwb0CRgNmg"
-    },
-    {
-      "added_at": "2022-10-05 20:33:45",
-      "album": {
         "name": "Life's Coming in Slow (from GRAN TURISMO 7)",
         "url": "https://open.spotify.com/album/6SCFmqcXOVneLBo6eks8k1"
       },
@@ -655,22 +655,6 @@
       "duration_ms": 169655,
       "name": "Life's Coming in Slow - from GRAN TURISMO 7",
       "url": "https://open.spotify.com/track/24SyVpif5eshcNmLKdvOcj"
-    },
-    {
-      "added_at": "2022-10-05 20:33:45",
-      "album": {
-        "name": "Life Is Yours",
-        "url": "https://open.spotify.com/album/7CBK26TFXHyt2l6NQcXIsq"
-      },
-      "artists": [
-        {
-          "name": "Foals",
-          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
-        }
-      ],
-      "duration_ms": 224178,
-      "name": "2am",
-      "url": "https://open.spotify.com/track/0Tyi56S51KsufCIcqRHWCN"
     },
     {
       "added_at": "2022-10-05 20:33:45",
@@ -787,38 +771,6 @@
     {
       "added_at": "2022-10-05 20:33:45",
       "album": {
-        "name": "Dear Miss Lonelyhearts",
-        "url": "https://open.spotify.com/album/3InEURs5PQ2CMrnvzSVaPy"
-      },
-      "artists": [
-        {
-          "name": "Cold War Kids",
-          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
-        }
-      ],
-      "duration_ms": 180133,
-      "name": "Miracle Mile",
-      "url": "https://open.spotify.com/track/4RvmQ5qbP5PxgJD0BN4EZK"
-    },
-    {
-      "added_at": "2022-10-05 20:33:45",
-      "album": {
-        "name": "Revolution Radio",
-        "url": "https://open.spotify.com/album/5a3LqvNt2nv1B4aRKXmgOV"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 205440,
-      "name": "Bang Bang",
-      "url": "https://open.spotify.com/track/278Ao6KQDxWGGszv24uvhI"
-    },
-    {
-      "added_at": "2022-10-05 20:33:45",
-      "album": {
         "name": "THREE HEADS*",
         "url": "https://open.spotify.com/album/02BIHNzIl0WCC17CPM83gN"
       },
@@ -851,22 +803,6 @@
     {
       "added_at": "2022-10-05 20:33:45",
       "album": {
-        "name": "Typhoons",
-        "url": "https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi"
-      },
-      "artists": [
-        {
-          "name": "Royal Blood",
-          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
-        }
-      ],
-      "duration_ms": 236933,
-      "name": "Typhoons",
-      "url": "https://open.spotify.com/track/5aFGo8wHEntVxFI8IF7Wuj"
-    },
-    {
-      "added_at": "2022-10-05 20:33:45",
-      "album": {
         "name": "Battle Scars",
         "url": "https://open.spotify.com/album/0SnmtDqaj4eNcdraEEnJ9W"
       },
@@ -883,18 +819,18 @@
     {
       "added_at": "2022-10-05 20:33:45",
       "album": {
-        "name": "Planet Zero",
-        "url": "https://open.spotify.com/album/2p732bJ3OshHkiQGJfz1Jo"
+        "name": "Typhoons",
+        "url": "https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi"
       },
       "artists": [
         {
-          "name": "Shinedown",
-          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
         }
       ],
-      "duration_ms": 222738,
-      "name": "Planet Zero",
-      "url": "https://open.spotify.com/track/3GL1RQKHV0TDRq8EXHMhGq"
+      "duration_ms": 236933,
+      "name": "Typhoons",
+      "url": "https://open.spotify.com/track/5aFGo8wHEntVxFI8IF7Wuj"
     },
     {
       "added_at": "2022-10-05 20:33:45",
@@ -927,6 +863,22 @@
       "duration_ms": 216859,
       "name": "Everything's Electric",
       "url": "https://open.spotify.com/track/63JU4kHsgytIKkSM4tedme"
+    },
+    {
+      "added_at": "2022-10-05 20:33:45",
+      "album": {
+        "name": "Planet Zero",
+        "url": "https://open.spotify.com/album/2p732bJ3OshHkiQGJfz1Jo"
+      },
+      "artists": [
+        {
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+        }
+      ],
+      "duration_ms": 222738,
+      "name": "Planet Zero",
+      "url": "https://open.spotify.com/track/3GL1RQKHV0TDRq8EXHMhGq"
     },
     {
       "added_at": "2022-10-05 20:33:45",
@@ -1043,6 +995,22 @@
     {
       "added_at": "2022-10-05 20:33:45",
       "album": {
+        "name": "Wildfire",
+        "url": "https://open.spotify.com/album/1EEFnTyINt6GLnTrNJH1zT"
+      },
+      "artists": [
+        {
+          "name": "Against The Current",
+          "url": "https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B"
+        }
+      ],
+      "duration_ms": 166779,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/2yHmIxXi48DFl6zQlIhEaj"
+    },
+    {
+      "added_at": "2022-10-05 20:33:45",
+      "album": {
         "name": "The Emperor",
         "url": "https://open.spotify.com/album/48QqIBzNdsmVimYeINIAxt"
       },
@@ -1071,38 +1039,6 @@
       "duration_ms": 263080,
       "name": "All Comes Crashing",
       "url": "https://open.spotify.com/track/1gKLWryPONC9dyrx5fX3Dr"
-    },
-    {
-      "added_at": "2022-10-05 20:33:45",
-      "album": {
-        "name": "Pop Evil",
-        "url": "https://open.spotify.com/album/5F9U13GyT071nXmYf13VI9"
-      },
-      "artists": [
-        {
-          "name": "Pop Evil",
-          "url": "https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2"
-        }
-      ],
-      "duration_ms": 203273,
-      "name": "Be Legendary",
-      "url": "https://open.spotify.com/track/3pOMQhSSzx6IZ96kMef6i1"
-    },
-    {
-      "added_at": "2022-10-05 20:33:45",
-      "album": {
-        "name": "Wildfire",
-        "url": "https://open.spotify.com/album/1EEFnTyINt6GLnTrNJH1zT"
-      },
-      "artists": [
-        {
-          "name": "Against The Current",
-          "url": "https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B"
-        }
-      ],
-      "duration_ms": 166779,
-      "name": "Wildfire",
-      "url": "https://open.spotify.com/track/2yHmIxXi48DFl6zQlIhEaj"
     },
     {
       "added_at": "2022-10-05 20:33:45",
@@ -1139,6 +1075,22 @@
     {
       "added_at": "2022-10-05 20:33:45",
       "album": {
+        "name": "Pop Evil",
+        "url": "https://open.spotify.com/album/5F9U13GyT071nXmYf13VI9"
+      },
+      "artists": [
+        {
+          "name": "Pop Evil",
+          "url": "https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2"
+        }
+      ],
+      "duration_ms": 203273,
+      "name": "Be Legendary",
+      "url": "https://open.spotify.com/track/3pOMQhSSzx6IZ96kMef6i1"
+    },
+    {
+      "added_at": "2022-10-05 20:33:45",
+      "album": {
         "name": "This Album Does Not Exist",
         "url": "https://open.spotify.com/album/2dtruUPZ49oSh468hKErtf"
       },
@@ -1151,22 +1103,6 @@
       "duration_ms": 202626,
       "name": "Painkiller",
       "url": "https://open.spotify.com/track/15BsrefgYpMgu1ZCIr8EJw"
-    },
-    {
-      "added_at": "2022-10-05 20:33:45",
-      "album": {
-        "name": "Something Loud",
-        "url": "https://open.spotify.com/album/07jTFwFWX1boeyv2mTmtx1"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 196618,
-      "name": "Something Loud",
-      "url": "https://open.spotify.com/track/5wZK0hHduZpjWWoT0rq9p4"
     },
     {
       "added_at": "2022-10-05 20:33:45",
@@ -1187,6 +1123,22 @@
     {
       "added_at": "2022-10-05 20:33:45",
       "album": {
+        "name": "Something Loud",
+        "url": "https://open.spotify.com/album/07jTFwFWX1boeyv2mTmtx1"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 196618,
+      "name": "Something Loud",
+      "url": "https://open.spotify.com/track/5wZK0hHduZpjWWoT0rq9p4"
+    },
+    {
+      "added_at": "2022-10-05 20:33:45",
+      "album": {
         "name": "Castlecomer",
         "url": "https://open.spotify.com/album/5DUFivlOxblQTTRTfrlT15"
       },
@@ -1203,18 +1155,38 @@
     {
       "added_at": "2022-10-05 20:33:45",
       "album": {
-        "name": "Foxglove",
-        "url": "https://open.spotify.com/album/0l684ODdBRRFtnBrNn6wSd"
+        "name": "Tejano Punk Boyz",
+        "url": "https://open.spotify.com/album/4jNsjnBYtuXuprFqRhbA85"
       },
       "artists": [
         {
-          "name": "Boston Manor",
-          "url": "https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM"
+          "name": "Giovannie and the Hired Guns",
+          "url": "https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94"
         }
       ],
-      "duration_ms": 218552,
-      "name": "Foxglove",
-      "url": "https://open.spotify.com/track/3kpW19uTVTQF9EYJ9jhIOG"
+      "duration_ms": 168311,
+      "name": "Ramon Ayala",
+      "url": "https://open.spotify.com/track/6lFVmakxYOXqtBtkbGXrOD"
+    },
+    {
+      "added_at": "2022-10-05 20:33:45",
+      "album": {
+        "name": "Heat Seeker",
+        "url": "https://open.spotify.com/album/56XJWuqnHhxXsM73y8ecZM"
+      },
+      "artists": [
+        {
+          "name": "DREAMERS",
+          "url": "https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A"
+        },
+        {
+          "name": "grandson",
+          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
+        }
+      ],
+      "duration_ms": 175342,
+      "name": "Heat Seeker",
+      "url": "https://open.spotify.com/track/7noHzxuNmeIwYftylZfVRT"
     },
     {
       "added_at": "2022-10-05 20:33:45",
@@ -1235,6 +1207,38 @@
       "duration_ms": 134266,
       "name": "DIE OUT HERE (feat. POORSTACY)",
       "url": "https://open.spotify.com/track/3PqpLZTiiwJjYD1uSvQoCC"
+    },
+    {
+      "added_at": "2022-10-05 20:33:45",
+      "album": {
+        "name": "Foxglove",
+        "url": "https://open.spotify.com/album/0l684ODdBRRFtnBrNn6wSd"
+      },
+      "artists": [
+        {
+          "name": "Boston Manor",
+          "url": "https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM"
+        }
+      ],
+      "duration_ms": 218552,
+      "name": "Foxglove",
+      "url": "https://open.spotify.com/track/3kpW19uTVTQF9EYJ9jhIOG"
+    },
+    {
+      "added_at": "2022-10-05 20:33:45",
+      "album": {
+        "name": "How Did We Get So Dark?",
+        "url": "https://open.spotify.com/album/3Rz6kF8eGqrDOEteo5YsBj"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "duration_ms": 207760,
+      "name": "Hook, Line & Sinker",
+      "url": "https://open.spotify.com/track/35lBL83KZl80dHivikZKEq"
     }
   ],
   "unique_name": "Rock Me Up",

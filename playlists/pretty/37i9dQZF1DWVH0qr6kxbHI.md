@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVH0qr6kxbHI.md) - [plain]
 
 > Canciones inmortales, sentimientos a flor de piel y figuras gigantescas de nuestra música\. Foto: Rocío Jurado
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,936 likes - 75 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,031 likes - 75 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,15 +38,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVH0qr6kxbHI.md) - [plain]
 | 28 | [Señora](https://open.spotify.com/track/6XSYNsvSOtDzmH3lFUJnQl) | [Rocío Jurado](https://open.spotify.com/artist/1FlYevYLENR3IMgMlnMvf9) | [15 Exitos Originales Con Rocio Jurado](https://open.spotify.com/album/2uQ2R6i42oi4qVF4JUxlMf) | 3:39 |
 | 29 | [Un año de amor](https://open.spotify.com/track/7EANhLnU0DW0SZf8e4dPDm) | [Luz Casal](https://open.spotify.com/artist/1HUbv0v2f9HNE6qIbB35El) | [A Contraluz](https://open.spotify.com/album/3YU2xPZsi4hq3psgarabmD) | 3:21 |
 | 30 | [S.O.S.](https://open.spotify.com/track/2UHz5julqHL9gtroI5c1Vt) | [Falete](https://open.spotify.com/artist/4y7BzzNw7IVw2J7IjDHaqD) | [Amar Duele](https://open.spotify.com/album/1kytw4zNG55ejk7a4xI3u2) | 3:46 |
-| 31 | [La Paloma](https://open.spotify.com/track/33sMZ91EO8OIc2tiSu2gyK) | [Mari Trini](https://open.spotify.com/artist/0CVHw8AAgA5brxfblp1lsQ), [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Mari Trini Con los Panchos](https://open.spotify.com/album/1ak1aKu5l4UwtM1zh7UiMC) | 3:24 |
-| 32 | [No Se por Que Te Quiero \(with Pablo Albóran\) \- Con Pablo Alboran](https://open.spotify.com/track/0545pp6WZyT1aSd9stPeu9) | [Maria Dolores Pradera](https://open.spotify.com/artist/58LNn3iNPmmHusH1EkyBm4), [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Gracias A Vosotros](https://open.spotify.com/album/0U2kCRus4ANRCL4SoDkNRO) | 3:44 |
+| 31 | [No Se por Que Te Quiero \(with Pablo Albóran\) \- Con Pablo Alboran](https://open.spotify.com/track/0545pp6WZyT1aSd9stPeu9) | [Maria Dolores Pradera](https://open.spotify.com/artist/58LNn3iNPmmHusH1EkyBm4), [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Gracias A Vosotros](https://open.spotify.com/album/0U2kCRus4ANRCL4SoDkNRO) | 3:44 |
+| 32 | [La Paloma](https://open.spotify.com/track/33sMZ91EO8OIc2tiSu2gyK) | [Mari Trini](https://open.spotify.com/artist/0CVHw8AAgA5brxfblp1lsQ), [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Mari Trini Con los Panchos](https://open.spotify.com/album/1ak1aKu5l4UwtM1zh7UiMC) | 3:24 |
 | 33 | [Beso a beso..\. dulcemente](https://open.spotify.com/track/5jY16zDOTWeHKArHy5Rjw3) | [Paloma San Basilio](https://open.spotify.com/artist/1QcwtcwAClkmeaVofZ4zUn) | [En directo](https://open.spotify.com/album/1deWXlYT0YUbKvR56Yv4IQ) | 4:12 |
-| 34 | [Quédate conmigo \- Eurovisión](https://open.spotify.com/track/2BSe0bFhNhDUXqyQbcGyFJ) | [Pastora Soler](https://open.spotify.com/artist/6nh96lsvDLuCVpgpfjeYnM) | [Carácter Latino 2012](https://open.spotify.com/album/5NiODkbnfFQxA05xlWYoMJ) | 3:04 |
-| 35 | [A Tu Vera](https://open.spotify.com/track/4awJGQ6TIS542X4XS7PWu7) | [Lola Flores](https://open.spotify.com/artist/1ZcvF2meiXi5UPDJWxrKR5) | [La Inimitable](https://open.spotify.com/album/1XgissTsraQasZKaNzxWvZ) | 3:28 |
+| 34 | [A Tu Vera](https://open.spotify.com/track/4awJGQ6TIS542X4XS7PWu7) | [Lola Flores](https://open.spotify.com/artist/1ZcvF2meiXi5UPDJWxrKR5) | [La Inimitable](https://open.spotify.com/album/1XgissTsraQasZKaNzxWvZ) | 3:28 |
+| 35 | [Quédate conmigo \- Eurovisión](https://open.spotify.com/track/2BSe0bFhNhDUXqyQbcGyFJ) | [Pastora Soler](https://open.spotify.com/artist/6nh96lsvDLuCVpgpfjeYnM) | [Carácter Latino 2012](https://open.spotify.com/album/5NiODkbnfFQxA05xlWYoMJ) | 3:04 |
 | 36 | [Hazme Tuya una Vez Mas](https://open.spotify.com/track/6nRaI3IcbXMi3iHbfuiiVk) | [Isabel Pantoja](https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo) | [Desde Andalucia](https://open.spotify.com/album/2z0nGeab4W4lk2AjxG3kbw) | 6:07 |
 | 37 | [Mi Querida España](https://open.spotify.com/track/4yRhJ1Hz8Flm364Y1WJj5w) | [Cecilia](https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR) | [Un Ramito De Violetas](https://open.spotify.com/album/6Kp4RsT85CYZq11sqzfPAw) | 2:39 |
-| 38 | [Te amaré, te amo, y te querré](https://open.spotify.com/track/7niuvgIISf1vGrnh00cVuQ) | [Mari Trini](https://open.spotify.com/artist/0CVHw8AAgA5brxfblp1lsQ) | [Oraciones de amor](https://open.spotify.com/album/7LO9wG4cG5xUNC01xUVwdg) | 4:41 |
-| 39 | [Bandido](https://open.spotify.com/track/2rHhKu1hW8uqyr7LSrRn8E) | [Azucar Moreno](https://open.spotify.com/artist/2WrKqjMRKr5MitNYaNgvl3) | [Bandido](https://open.spotify.com/album/4WkxTr5s8N6LLNscUyl3oW) | 3:02 |
+| 38 | [Bandido](https://open.spotify.com/track/2rHhKu1hW8uqyr7LSrRn8E) | [Azucar Moreno](https://open.spotify.com/artist/2WrKqjMRKr5MitNYaNgvl3) | [Bandido](https://open.spotify.com/album/4WkxTr5s8N6LLNscUyl3oW) | 3:02 |
+| 39 | [Te amaré, te amo, y te querré](https://open.spotify.com/track/7niuvgIISf1vGrnh00cVuQ) | [Mari Trini](https://open.spotify.com/artist/0CVHw8AAgA5brxfblp1lsQ) | [Oraciones de amor](https://open.spotify.com/album/7LO9wG4cG5xUNC01xUVwdg) | 4:41 |
 | 40 | [Fina Estampa \(with Miguel Poveda\) \- Con Miguel Poveda](https://open.spotify.com/track/1xONwDb3ux0Ld2q5mswsUE) | [Maria Dolores Pradera](https://open.spotify.com/artist/58LNn3iNPmmHusH1EkyBm4), [Miguel Poveda](https://open.spotify.com/artist/0BwjxWHTct80Qp5Xk7pxZj) | [Gracias A Vosotros](https://open.spotify.com/album/0U2kCRus4ANRCL4SoDkNRO) | 3:10 |
 | 41 | [Punto De Partida \(with Monica Naranjo\)](https://open.spotify.com/track/75cWbqIqhfEfX8uOHlgWZV) | [Rocío Jurado](https://open.spotify.com/artist/1FlYevYLENR3IMgMlnMvf9), [Monica Naranjo](https://open.spotify.com/artist/0zGM73sadbAOBLev02P8LO) | [Rocio Siempre](https://open.spotify.com/album/74YcUbPOS42uQJGpWTo9bn) | 7:35 |
 | 42 | [Dama Dama \(Album Version\)](https://open.spotify.com/track/50tK3gc47HHVffxRehbRuC) | [Cecilia](https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR) | [Cecilia](https://open.spotify.com/album/50Pefah2v2rCOfXSdLNkg0) | 3:18 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVH0qr6kxbHI.md) - [plain]
 | 74 | [Se Nos Rompio el Amor \(with Malú\)](https://open.spotify.com/track/2Wp7kX7Kj38MgIBe3p0MBE) | [Rocío Jurado](https://open.spotify.com/artist/1FlYevYLENR3IMgMlnMvf9), [Malú](https://open.spotify.com/artist/3TLGNOdp1UWYMnV5XG9HkR) | [Rocio Siempre](https://open.spotify.com/album/74YcUbPOS42uQJGpWTo9bn) | 4:39 |
 | 75 | [Dejandonos La Piel \(with Lolita\)](https://open.spotify.com/track/7FjpkYUDZhR66hR1Us8PrW) | [Rocío Jurado](https://open.spotify.com/artist/1FlYevYLENR3IMgMlnMvf9), [Lolita](https://open.spotify.com/artist/1Jl0XzEt7csnco2FUybCrK) | [Rocio Siempre](https://open.spotify.com/album/74YcUbPOS42uQJGpWTo9bn) | 4:42 |
 
-Snapshot ID: `MTY2NzUxNjQwMCwwMDAwMDAwMDBhNGE5M2Y5YjNiZGQ4ZjI5NmQxOWY1YzdmN2VmYmY2`
+Snapshot ID: `MTY2NzUxNjQwMCwwMDAwMDAwMDdlODM2ODQ5ZGJlOTZlNTk5ZjdjNjcxZTRhOWQ2MDg1`

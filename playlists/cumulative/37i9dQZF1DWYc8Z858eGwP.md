@@ -4,7 +4,7 @@
 
 > The most exciting new artists on the rise from the African continent & diaspora\. Cover: <a href="https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ?si=s7Ba4WY\_RJ63\_SmmSavT\-g">Black Sherif </a>
 
-135 songs - 7 hr 25 min - [published](https://open.spotify.com/playlist/1XAJ71W9OWLJNt1VAjOZn2)
+136 songs - 7 hr 27 min - [published](https://open.spotify.com/playlist/1XAJ71W9OWLJNt1VAjOZn2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,8 @@
 | [Ex](https://open.spotify.com/track/352jbBYOtwkzJEMC2KkuiG) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [A Side Of Me](https://open.spotify.com/album/6A66i8kXtfeQqrFpRyW7Em) | 3:24 | 2022-05-05 | 2022-11-04 |
 | [Fashion Week](https://open.spotify.com/track/0Deqz1Pwbek73HLmf51iH2) | [It's Different](https://open.spotify.com/artist/60ETw93KnLzkysVpiZ3VYA), [Hugo Pooe](https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ) | [Fashion Week](https://open.spotify.com/album/3hnr7QZ2QdaVZgJ6WqARqc) | 2:32 | 2022-05-05 | 2022-08-23 |
 | [Finesse](https://open.spotify.com/track/3UqcIgObI7zZk8e7nvqmfc) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Finesse](https://open.spotify.com/album/09eq0dG75Fddf2HAHOotDx) | 2:31 | 2022-05-05 | 2022-07-29 |
-| [Finesse](https://open.spotify.com/track/4Gasn91fsCefnN8zM5GjA8) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Finesse](https://open.spotify.com/album/4QEC4uzBJJfLVv2bD337g1) | 2:35 | 2022-05-05 |  |
+| [Finesse](https://open.spotify.com/track/4Gasn91fsCefnN8zM5GjA8) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Finesse](https://open.spotify.com/album/4QEC4uzBJJfLVv2bD337g1) | 2:35 | 2022-05-05 | 2022-11-12 |
+| [Finesse](https://open.spotify.com/track/6H4z94Rq4Gz7SzL7VmpGRR) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Top Hits UK](https://open.spotify.com/album/49d0Ii0oCrS9BshhcpLRhr) | 2:35 | 2022-09-15 |  |
 | [For Here](https://open.spotify.com/track/5yOzTV0lLUDjjrPFzimeLI) | [Terri](https://open.spotify.com/artist/6h3iqdnfBKV2jRhUJz0oto) | [In Transit](https://open.spotify.com/album/5mbF3xlYXQDSfMOmf6k5Ly) | 2:56 | 2022-05-05 | 2022-08-26 |
 | [For My Sanity](https://open.spotify.com/track/5niAmm5V1bj0wY4IVcwd3u) | [A\-Reece](https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP) | [The Burning Tree](https://open.spotify.com/album/0NnJ99VCcTCuKBB2PUpdp2) | 3:24 | 2022-05-05 | 2022-10-14 |
 | [Foreigner](https://open.spotify.com/track/1nIhLChEGB8Y2dP7CHt3PN) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Foreigner](https://open.spotify.com/album/4JUUgaTGiFYaZmA4mXlieZ) | 3:54 | 2022-05-05 | 2022-10-14 |

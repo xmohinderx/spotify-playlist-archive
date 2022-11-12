@@ -4,7 +4,7 @@
 
 > A trilha sonora do verão.
 
-150 songs - 7 hr 29 min - [published](https://open.spotify.com/playlist/26p8TFBUNyvm12xCRNHL4H)
+151 songs - 7 hr 32 min - [published](https://open.spotify.com/playlist/26p8TFBUNyvm12xCRNHL4H)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [I Ain't Worried](https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Ain’t Worried \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2) | 2:28 | 2022-07-21 |  |
 | [I Like You \(A Happier Song\) \(with Doja Cat\)](https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Twelve Carat Toothache](https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx) | 3:12 | 2022-07-21 | 2022-08-31 |
 | [If You Really Love Me \(How Will I Know\)](https://open.spotify.com/track/1V7bZ9gEIwFQpm8yGxRHNA) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MistaJam](https://open.spotify.com/artist/3qi5fhSI6aUecvRN0XqIJ2), [John Newman](https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf) | [If You Really Love Me \(How Will I Know\)](https://open.spotify.com/album/2jchxs2dbRKpdHZl5O3FEY) | 3:04 | 2022-07-07 |  |
-| [In The Dark](https://open.spotify.com/track/0k5RQGviUoEt78mfqI3wDV) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [Exotica \(Deluxe\)](https://open.spotify.com/album/24SuLVhTS9iDvnH3fh0gms) | 3:05 | 2022-07-21 |  |
+| [In The Dark](https://open.spotify.com/track/0k5RQGviUoEt78mfqI3wDV) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [Exotica \(Deluxe\)](https://open.spotify.com/album/24SuLVhTS9iDvnH3fh0gms) | 3:05 | 2022-07-21 | 2022-11-12 |
 | [Juramento eterno de sal](https://open.spotify.com/track/23E53f3C9SJ9MqBh1f6hEw) | [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5) | [Juramento eterno de sal](https://open.spotify.com/album/181dabcN6rArn5DwOYr3eP) | 3:25 | 2022-07-07 |  |
 | [Kikando e Me Olhando](https://open.spotify.com/track/4a0sqvCBo7aRIS4GzBQpnp) | [MC Braz](https://open.spotify.com/artist/7htxZTR76qcXYJylEmkLiJ), [MC Tairon](https://open.spotify.com/artist/7ujbuq6hAjLSf7cGr6au0b), [Dj Win](https://open.spotify.com/artist/04NtfTeul9H9B41tPvF3MG) | [Kikando e Me Olhando](https://open.spotify.com/album/0f8qsGhJ3RZf4ol3YqIuMw) | 3:30 | 2022-07-07 |  |
 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/748mdHapucXQri7IAO8yFK) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/album/1OnzqJTL9bwe4kvaLxRYxt) | 3:28 | 2022-07-21 | 2022-10-14 |
@@ -128,6 +128,7 @@
 | [Simplesmente Ela](https://open.spotify.com/track/4NJKCE1TBC653P3dCnto0u) | [Mc Gabzin](https://open.spotify.com/artist/5RmXJq0g7MNmgtxXLGbd6K) | [Simplesmente Ela](https://open.spotify.com/album/1SuKWIQ4PxaWIiv0DfmqsQ) | 2:41 | 2022-07-07 |  |
 | [SloMo](https://open.spotify.com/track/3XREkzDHsWdBL5tybyCDBH) | [Chanel](https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1) | [SloMo](https://open.spotify.com/album/0UMDRKVU0rz2nALo2bms9d) | 2:56 | 2022-07-19 | 2022-08-31 |
 | [SNAP](https://open.spotify.com/track/0QPRDC97rIQB3Jh3hrVJoH) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP](https://open.spotify.com/album/4Cv9qCS1q3FDyyRFHGyc1g) | 2:59 | 2022-08-16 | 2022-08-19 |
+| [SNAP](https://open.spotify.com/track/4Qd8lWWPRLv4x6ZZVJykRB) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP PACK](https://open.spotify.com/album/3CVEB0FPk25Ds64ALgxjH7) | 2:59 | 2022-10-13 |  |
 | [SNAP](https://open.spotify.com/track/76OGwb5RA9h4FxQPT33ekc) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP](https://open.spotify.com/album/4fb1QzgTJpTk9TBjFzjmlR) | 2:59 | 2022-08-16 | 2022-11-11 |
 | [Socadona \(feat\. Mr\. Vegas\)](https://open.spotify.com/track/5jYEiTNR3FQXFouTX7Ju0N) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar), [Topo La Maskara](https://open.spotify.com/artist/3kgQWNZNpp8d8JQZhuKbPP), [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE) | [Socadona \(feat\. Mr\. Vegas\)](https://open.spotify.com/album/7DtOy4YHoRoFQDbCNi9rDi) | 3:06 | 2022-07-07 |  |
 | [SORRIA](https://open.spotify.com/track/4cKn3YjlRNowwNQi5LuZkk) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL) | [SORRIA](https://open.spotify.com/album/2zGGywHWKqNShqjjpbA3fs) | 3:01 | 2022-07-07 |  |

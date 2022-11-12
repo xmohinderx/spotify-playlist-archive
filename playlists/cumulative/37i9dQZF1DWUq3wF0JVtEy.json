@@ -435,7 +435,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 171362,
       "name": "Be Good",
       "url": "https://open.spotify.com/track/5AZLFrMsM9URNM77tqxdNZ"
@@ -875,7 +875,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 182612,
       "name": "Crystallise",
       "url": "https://open.spotify.com/track/7jJfACKhaxK3kF3bda6AVS"
@@ -1191,7 +1191,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 161048,
       "name": "Down Low",
       "url": "https://open.spotify.com/track/5jbz9ONajDOe1AW5c3ob5U"
@@ -1708,6 +1708,28 @@
     },
     {
       "album": {
+        "name": "For The People",
+        "url": "https://open.spotify.com/album/5QcP3EZoMWUi0ETWkh0NAj"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Third Party",
+          "url": "https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219345,
+      "name": "For The People",
+      "url": "https://open.spotify.com/track/4MvA2osUdPQpDKNwuDjlM8"
+    },
+    {
+      "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/0wUYDmuHRXBKgz2yIvWp3e"
       },
@@ -1719,7 +1741,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-20",
+      "date_removed": null,
       "duration_ms": 238085,
       "name": "Forever",
       "url": "https://open.spotify.com/track/45H1RahLdHlhXfDNDFip1H"
@@ -1883,7 +1905,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 161951,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/4RXw5GRcFbOCmWQ85oEguu"
@@ -2881,7 +2903,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 193170,
       "name": "Let's Get Down",
       "url": "https://open.spotify.com/track/0XMEQwAZFgX4PGb5eu67B8"
@@ -3620,6 +3642,24 @@
     },
     {
       "album": {
+        "name": "Nightbird",
+        "url": "https://open.spotify.com/album/2uZGmZtHVVcUNWzsNDdfUx"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156190,
+      "name": "Nightbird",
+      "url": "https://open.spotify.com/track/0CADZTEOUaMw9bHnKB59Ts"
+    },
+    {
+      "album": {
         "name": "No Ass",
         "url": "https://open.spotify.com/album/2Bi5R2jfPGIRDBB3mSC82o"
       },
@@ -3891,7 +3931,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-04",
+      "date_removed": null,
       "duration_ms": 159791,
       "name": "Noise",
       "url": "https://open.spotify.com/track/1VqDOw9oGH0pExiKzzeRXE"
@@ -4045,7 +4085,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 204160,
       "name": "Poison",
       "url": "https://open.spotify.com/track/2xNxxDFIoCBIUYlTNK8oiU"
@@ -4697,7 +4737,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 185730,
       "name": "Sleepless",
       "url": "https://open.spotify.com/track/0AQ1twwDGVlIVpcHDkGkXD"
@@ -5183,7 +5223,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-19",
+      "date_removed": null,
       "duration_ms": 128272,
       "name": "This Is Love",
       "url": "https://open.spotify.com/track/0TeIpXK4mS251xn4HNbL5x"
@@ -5249,7 +5289,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-20",
+      "date_removed": null,
       "duration_ms": 176632,
       "name": "Time",
       "url": "https://open.spotify.com/track/55f2O4I6eZ8GLCinoWRF6y"
@@ -5601,7 +5641,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-27",
+      "date_removed": null,
       "duration_ms": 184271,
       "name": "Whisper (with James Yuill) - John Summit Remix",
       "url": "https://open.spotify.com/track/04mYhQGTujxxPjPzxRrgTL"

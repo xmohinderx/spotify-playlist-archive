@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bAcly2ZueH.md) - [plain]
 
 > 例えば、部屋で猫と昼寝をするように、ゆったりとしたエレクトロチルで小休憩しませんか？？
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,476 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,489 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bAcly2ZueH.md) - [plain]
 | 60 | [Wind](https://open.spotify.com/track/3LjGELUWmmnJErN3FeQPZL) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Before We Begin](https://open.spotify.com/album/4K7wiPGhUtsuqsSwi01cvG) | 2:43 |
 | 61 | [three](https://open.spotify.com/track/7jKmTkHT3FQGJdhf0SrHNV) | [ILIVEHERE.](https://open.spotify.com/artist/5gSlfhS3FhzfAruPQh0Wro) | [three](https://open.spotify.com/album/4cu4k1E6jn1vmNTuJgqVKl) | 3:07 |
 | 62 | [garden](https://open.spotify.com/track/4Xn6llzlcBkd02iXpySmbs) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Afterglow](https://open.spotify.com/album/1xgaY66wY1j5WOW8J7orN8) | 3:20 |
-| 63 | [in your arms](https://open.spotify.com/track/4fgIoBKHzO7YO5eATyYbMl) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [in your arms](https://open.spotify.com/album/5nNs8PotoPHT8MDTHD9wD5) | 4:37 |
+| 63 | [in your arms](https://open.spotify.com/track/14yTQbKnhRnr4EcXGqszvB) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Escape Everything](https://open.spotify.com/album/32fmXtwTmYZMpKhDD8JYQK) | 4:37 |
 | 64 | [Catch Me](https://open.spotify.com/track/5lC6ryISkGNFPR2PMMdiSV) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB), [Sherry W](https://open.spotify.com/artist/1VRYoddmAxzr1h41tzCwms) | [Catharsis](https://open.spotify.com/album/6RqEBspNZboimm13lOf5Hj) | 3:51 |
 | 65 | [Emi](https://open.spotify.com/track/13kpVy1mmtoxyGs7TSQS1F) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3) | [Emi](https://open.spotify.com/album/5oVfx9FpogQzFa3UKJsMMM) | 2:29 |
 | 66 | [Thank You \(feat\. Jozzy\)](https://open.spotify.com/track/5xN7LpsBhJb277t1lsfpLR) | [Netsky](https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [Abbot Kinney](https://open.spotify.com/album/3H1ZzSXNWaIqiCpgHajR8F) | 3:11 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bAcly2ZueH.md) - [plain]
 | 95 | [Yura Yura](https://open.spotify.com/track/5clAgVJ2jUqP9diNgNuV82) | [paniyolo](https://open.spotify.com/artist/3HXP7bQnSqzXn76CRDRDnr) | [Yura Yura](https://open.spotify.com/album/4I6LEZPwd2lRIsbRgfbOBd) | 2:18 |
 | 96 | [Holding On](https://open.spotify.com/track/5WhLz63p2yzbpTROq87AT0) | [LAKEY INSPIRED](https://open.spotify.com/artist/3zDGjdtoxUiH7YcTWOdtMd) | [Holding On](https://open.spotify.com/album/1hVENLbXnEHqjREdfjurS7) | 2:26 |
 | 97 | [one hymn](https://open.spotify.com/track/5uJPjiuGC70uRlFyoYS5Af) | [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [Light years \(THE NORTH FACE Sphere 2022 S/A\)](https://open.spotify.com/album/3AR39FZ5jLZJltCVdzQiXN) | 7:10 |
-| 98 | [A Deeper Understanding](https://open.spotify.com/track/3mkvXHxUGTiuEwQvHZ3vW0) | [Aviino](https://open.spotify.com/artist/6poGVkPdF42Kfchhw1cu0J), [Aso](https://open.spotify.com/artist/45Ui3GdcxzbdJhhTtZLXO8) | [A Miniature Existence](https://open.spotify.com/album/0pLL3CDKtVR7Tb0wX6d9ZT) | 2:41 |
+| 98 | [A Deeper Understanding](https://open.spotify.com/track/6BVt6hi3Z7IE2h3bElR6rG) | [Aviino](https://open.spotify.com/artist/6poGVkPdF42Kfchhw1cu0J), [Aso](https://open.spotify.com/artist/45Ui3GdcxzbdJhhTtZLXO8) | [A Deeper Understanding](https://open.spotify.com/album/4ZInQdWGYfbZJvXnDcx2te) | 2:41 |
 | 99 | [Good Night](https://open.spotify.com/track/6CTqCqStHM2ji0liLLVJvk) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O), [Late Era](https://open.spotify.com/artist/6SRj6cRWRVlDvFB0gHHVkN) | [Dove](https://open.spotify.com/album/46KM2P8PERBA1CrK5nvIFZ) | 2:37 |
 | 100 | [Coconut Water](https://open.spotify.com/track/48HATQmXssKoCAqhaFjtAh) | [Dana and Alden](https://open.spotify.com/artist/6xKRT9Uw0XOxNsmWX2vNBr), [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Coconut Water](https://open.spotify.com/album/0cOHCnax9JHkbL3c6zxuV1) | 3:59 |
 
-Snapshot ID: `MTY2NTUwNDcxMCwwMDAwMDAwMDc3Mzg3N2FmN2Q0N2MzNDQ4MGUzNmE5OWFhZWM5ZDMx`
+Snapshot ID: `MTY2NTUwNDcxMCwwMDAwMDAwMGUxMzI1ZmVjYjkxZDk3MzMxY2NhNmIwYThmMjM5Mzcz`

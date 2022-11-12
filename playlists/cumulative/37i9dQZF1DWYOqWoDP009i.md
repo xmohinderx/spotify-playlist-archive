@@ -4,14 +4,15 @@
 
 > The best and finest '70s Funk\. Cover: Kool & The Gang.
 
-108 songs - 8 hr 27 min - [published](https://open.spotify.com/playlist/43vCWCUSR0OchxOLKb5RA4)
+109 songs - 8 hr 33 min - [published](https://open.spotify.com/playlist/43vCWCUSR0OchxOLKb5RA4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(Are You Ready\) Do the Bus Stop](https://open.spotify.com/track/7xVROxF46Qhup7e3eIfV3U) | [Fatback Band](https://open.spotify.com/artist/6PWU6JQvvYv5sz5FOODHg6) | [Hustle! The Ultimate Fatback](https://open.spotify.com/album/6mo3A78g0oowVasMGT2Heb) | 3:14 | 2020-12-01 |  |
 | [2000 Black](https://open.spotify.com/track/23IyKrW90Ocw0lrGofQ4l3) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Evolution: The Polydor Anthology](https://open.spotify.com/album/1rA1iPf6VWrHLRUNse6i3l) | 5:21 | 2020-12-01 | 2022-11-11 |
 | [2000 Black](https://open.spotify.com/track/7hEy4aJVsYKpowcYSRKhhF) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Electric Jazz](https://open.spotify.com/album/6RKgh8R3ZoKEqP4IOutI4J) | 5:24 | 2020-12-01 |  |
-| [A Chance for Peace](https://open.spotify.com/track/5Nt5jH0oX4qktPE6kxEPx3) | [Lonnie Liston Smith](https://open.spotify.com/artist/2hdpXvaQJHBCZIVUd6cLvK), [The Cosmic Echoes](https://open.spotify.com/artist/1FoHP9nats6BdxFSE3b1sb) | [Visions of a New World](https://open.spotify.com/album/5VAwd5IGltpuBUlCgLBngP) | 5:22 | 2020-12-01 |  |
+| [A Chance for Peace](https://open.spotify.com/track/3FPrzPbfu7A9pe9oBEtnZt) | [Lonnie Liston Smith](https://open.spotify.com/artist/2hdpXvaQJHBCZIVUd6cLvK), [The Cosmic Echoes](https://open.spotify.com/artist/1FoHP9nats6BdxFSE3b1sb) | [Cosmic Funk & Spiritual Sounds: The Flying Dutchman Masters](https://open.spotify.com/album/1CUwa0UkrTa7wye8qHXVkt) | 5:20 | 2020-12-01 |  |
+| [A Chance for Peace](https://open.spotify.com/track/5Nt5jH0oX4qktPE6kxEPx3) | [Lonnie Liston Smith](https://open.spotify.com/artist/2hdpXvaQJHBCZIVUd6cLvK), [The Cosmic Echoes](https://open.spotify.com/artist/1FoHP9nats6BdxFSE3b1sb) | [Visions of a New World](https://open.spotify.com/album/5VAwd5IGltpuBUlCgLBngP) | 5:22 | 2020-12-01 | 2022-11-12 |
 | [A Real Mother For Ya](https://open.spotify.com/track/27QTVCKEfq41PjPKQVa7vW) | [Johnny "Guitar" Watson](https://open.spotify.com/artist/6uB4Ax6mlzohDTLqLOJ6Vl) | [A Real Mother For Ya](https://open.spotify.com/album/6VXm9FkSL27WhRo8pyc8hr) | 5:04 | 2020-12-01 |  |
 | [ABC](https://open.spotify.com/track/6D8kc7RO0rqBLSo2YPflJ5) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [ABC](https://open.spotify.com/album/2tukc7pH4qTuXcfaHjLIBc) | 2:54 | 2020-12-01 |  |
 | [ABC](https://open.spotify.com/track/6wDviYDtmSDZ0S6TVMM9Vc) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [ABC](https://open.spotify.com/album/3btVhknqDeGAEd1Qj7lL57) | 2:57 | 2020-12-01 | 2022-10-13 |
@@ -23,8 +24,8 @@
 | [Brick House](https://open.spotify.com/track/5VJjhHyG8NZ5xdgG6uTb3P) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [Commodores](https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl) | 3:28 | 2020-12-01 |  |
 | [Bump and Hustle Music](https://open.spotify.com/track/1c3IcwpIsIn7RmP8p8KBI8) | [Tommy Stewart](https://open.spotify.com/artist/45aq6v1UQb6h7XOAqDgq9h) | [Luv N' Haight: Edit Series, Vol\. 2](https://open.spotify.com/album/4yKhdgQ0f68CUVqZS12nZZ) | 5:03 | 2020-12-01 |  |
 | [Bus Stop \- Remastered](https://open.spotify.com/track/3GrvFBxKFjaYnYpDiKcPWK) | [Oliver Sain](https://open.spotify.com/artist/3wCv06G7ihSdnhsd8kaoCx) | [Bus Stop \(Remastered\)](https://open.spotify.com/album/1FP4Ni1gQv1LfjMKGEHLDT) | 3:10 | 2020-12-01 |  |
-| [Can You Get It](https://open.spotify.com/track/54sxsI1fcUJSAmKyty00r5) | [Mandrill](https://open.spotify.com/artist/6RWnslEkqboHbDg0OUabe5) | [Le monde de demain \(Bande originale de la série\)](https://open.spotify.com/album/1E4Sem9us4sINNq1XD4iuC) | 7:07 | 2020-12-01 |  |
-| [Can You Get It](https://open.spotify.com/track/1iNWWO3i1L4gpy7fZpdUwP) | [Mandrill](https://open.spotify.com/artist/6RWnslEkqboHbDg0OUabe5) | [We Are One](https://open.spotify.com/album/7IgADQJ3fC8kcacByNzT0K) | 7:08 | 2020-12-01 | 2022-11-11 |
+| [Can You Get It](https://open.spotify.com/track/54sxsI1fcUJSAmKyty00r5) | [Mandrill](https://open.spotify.com/artist/6RWnslEkqboHbDg0OUabe5) | [Le monde de demain \(Bande originale de la série\)](https://open.spotify.com/album/1E4Sem9us4sINNq1XD4iuC) | 7:07 | 2020-12-01 | 2022-11-12 |
+| [Can You Get It](https://open.spotify.com/track/1iNWWO3i1L4gpy7fZpdUwP) | [Mandrill](https://open.spotify.com/artist/6RWnslEkqboHbDg0OUabe5) | [We Are One](https://open.spotify.com/album/7IgADQJ3fC8kcacByNzT0K) | 7:08 | 2020-12-01 |  |
 | [Clean up Woman](https://open.spotify.com/track/6uqTETWok9npbL4c9cuLVh) | [Betty Wright](https://open.spotify.com/artist/0PDqlUGugF5Jt6DZyATvfz) | [I Love The Way You Love](https://open.spotify.com/album/4dCm84vJLO30e0fiS3sgPi) | 2:49 | 2020-12-01 |  |
 | [Concrete Jungle](https://open.spotify.com/track/71ytCqYJSS94LgdVezfa3G) | [Little Beaver](https://open.spotify.com/artist/6avpsZzjS5Yy9daHLBCYmn) | [When Was the Last Time](https://open.spotify.com/album/0I3DdnnwYIFETIW9fXPs76) | 4:54 | 2020-12-01 |  |
 | [Dazz \- Single Version](https://open.spotify.com/track/5gQCUf4lfy6GpuhdPzxQ6B) | [Brick](https://open.spotify.com/artist/4Uv0Jg45Oq7vBXXwQNhXyf) | [Super Hits](https://open.spotify.com/album/0NQ5vEtFfn6MDbFtNk3gUQ) | 3:22 | 2022-03-03 |  |

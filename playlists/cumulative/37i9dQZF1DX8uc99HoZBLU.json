@@ -1707,6 +1707,24 @@
     {
       "album": {
         "name": "Good Looking",
+        "url": "https://open.spotify.com/album/78rO0EfpVs1RPfpxzF6kUz"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214800,
+      "name": "Good Looking",
+      "url": "https://open.spotify.com/track/0j3mqDTK4Z6lvrLzFCUUz6"
+    },
+    {
+      "album": {
+        "name": "Good Looking",
         "url": "https://open.spotify.com/album/5dfLsxzcFhYFoihyaNZA3E"
       },
       "artists": [
@@ -2169,7 +2187,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 185875,
       "name": "I'll Keep You Safe",
       "url": "https://open.spotify.com/track/01Rc6yXYtujAnMaR1NME11"
@@ -2339,6 +2357,24 @@
       "duration_ms": 142727,
       "name": "Jovial",
       "url": "https://open.spotify.com/track/2COBMrpsGXEagCGkjp2Siz"
+    },
+    {
+      "album": {
+        "name": "Animal Kingdom",
+        "url": "https://open.spotify.com/album/40MJoESOQ4BDr5Y6jY7cFa"
+      },
+      "artists": [
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278991,
+      "name": "Juliet",
+      "url": "https://open.spotify.com/track/45ROR8UMn60YEVQnDy0uVF"
     },
     {
       "album": {
@@ -2918,6 +2954,24 @@
     },
     {
       "album": {
+        "name": "Cavetown",
+        "url": "https://open.spotify.com/album/0ZyaO9oGhq7blYJzo3l65t"
+      },
+      "artists": [
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265010,
+      "name": "Meteor Shower",
+      "url": "https://open.spotify.com/track/6A2itXgDf96XHp9qR6oyPN"
+    },
+    {
+      "album": {
         "name": "Moonlight Shawty",
         "url": "https://open.spotify.com/album/40Clsjg6Obb6Bg3wb17anY"
       },
@@ -3077,7 +3131,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 224444,
       "name": "N Side",
       "url": "https://open.spotify.com/track/12ILYlOEfWL8ei0BEgFJn0"
@@ -4147,7 +4201,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 167439,
       "name": "stuck on you",
       "url": "https://open.spotify.com/track/0Ebv4nwxtPcRNSTKq6xDXv"

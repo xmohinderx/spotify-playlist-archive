@@ -4,7 +4,7 @@
 
 > Where jazz meets classical, and classical meets jazz.
 
-76 songs - 7 hr 0 min - [published](https://open.spotify.com/playlist/4YuG6HthB2L9AI2fFZW3dd)
+78 songs - 7 hr 9 min - [published](https://open.spotify.com/playlist/4YuG6HthB2L9AI2fFZW3dd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [Aria / Goldberg Variation No\. 1](https://open.spotify.com/track/3JZCddd48NgLYgHvLkLylo) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Iiro Rantala](https://open.spotify.com/artist/5dP0K6UFJq6UOewk4qIKmL), [Lars Danielsson](https://open.spotify.com/artist/7c9O0hfRy2u32JVcWhoope), [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP) | [My History of Jazz](https://open.spotify.com/album/7ahVUrtlbmVq29CPbt1J85) | 4:42 | 2021-12-02 |  |
 | [Bach à la jazz](https://open.spotify.com/track/18mefzc19revZMMDVPxMPT) | [Matt Herskowitz](https://open.spotify.com/artist/4qixXDBzpahvfXrHux93Ck) | [Les triplettes de Belleville \(Bande originale du film\)](https://open.spotify.com/album/1HTooPlkTxGohRy43IvZ3c) | 1:20 | 2021-12-02 |  |
 | [Beethoven's Piano Sonata No\. 8, Pathetique](https://open.spotify.com/track/7hdbfMdjsdclkZONmT7lD6) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc) | [Voice](https://open.spotify.com/album/1LeBjxguhl0sNpmJSc4aKu) | 5:13 | 2021-12-02 | 2022-07-29 |
-| [Beethoven's Piano Sonata No\. 8, Pathetique](https://open.spotify.com/track/08kouBwoppDP70MmwiNUPr) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [Anthony Jackson](https://open.spotify.com/artist/4jSvNq6yedPhkC4p3zlznC), [Simon Phillips](https://open.spotify.com/artist/6pPx8jYe1vzHuQea1st8Iy) | [Voice](https://open.spotify.com/album/26WGFrTj3fwGJysohbdK04) | 5:13 | 2022-07-07 |  |
+| [Beethoven's Piano Sonata No\. 8, Pathetique](https://open.spotify.com/track/08kouBwoppDP70MmwiNUPr) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [Anthony Jackson](https://open.spotify.com/artist/4jSvNq6yedPhkC4p3zlznC), [Simon Phillips](https://open.spotify.com/artist/6pPx8jYe1vzHuQea1st8Iy) | [Voice](https://open.spotify.com/album/26WGFrTj3fwGJysohbdK04) | 5:13 | 2022-07-07 | 2022-11-12 |
+| [Beethoven's Piano Sonata No\. 8, Pathetique](https://open.spotify.com/track/770ue5LMRBMepzOYRR1w4T) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [Anthony Jackson](https://open.spotify.com/artist/4jSvNq6yedPhkC4p3zlznC), [Simon Phillips](https://open.spotify.com/artist/6pPx8jYe1vzHuQea1st8Iy) | [Full Focus](https://open.spotify.com/album/4E7rG83GDh32JwCzOtwCiV) | 5:13 | 2022-10-14 |  |
 | [Beltà poi che t'assenti \(Arr\. for 2 Pianos\)](https://open.spotify.com/track/3V0UWSP292tAoj4SeLI5eZ) | [Jenny Lin](https://open.spotify.com/artist/5ltTFQjDQXwqvBo5kmhGOM), [Carlo Gesualdo](https://open.spotify.com/artist/7wi1x9DxLtqnhzJIQa7JQF), [Uri Caine](https://open.spotify.com/artist/1l10UPSXfbHFvNnDN7kgbA) | [The Spirio Sessions](https://open.spotify.com/album/2R7KLL90rj7MQZctiKbRmr) | 2:59 | 2021-12-02 |  |
 | [Chopin: Prelude Op\. 28 \#4 \- Live in Paris / 2018](https://open.spotify.com/track/0BLJ7JRKXTRNU5r1OiXNiL) | [Chick Corea](https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq) | [Plays](https://open.spotify.com/album/0bCQBbSG0KGv9X5pb4IQY0) | 4:14 | 2021-12-02 |  |
 | [Clair de Lune](https://open.spotify.com/track/0kP8p4d5FIkXZicuWzXZNz) | [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q) | [Impromptu](https://open.spotify.com/album/59d7F7J0Ib4e2YEVWS1WQs) | 7:40 | 2022-07-07 |  |
@@ -83,6 +84,7 @@
 | [Valse Triste](https://open.spotify.com/track/2dqiYQ0iva5sGg13VVcvsx) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [Footprints \- Live](https://open.spotify.com/album/77hBFKuRXGV6kgHsG2c034) | 7:59 | 2021-12-02 | 2022-07-05 |
 | [Variation 25 \(From J.S\. Bach: Goldberg Variations, BWV 988\)](https://open.spotify.com/track/6FCsAVLJWMamkoglmADxS6) | [Marcin Wasilewski Trio](https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL) | [En attendant](https://open.spotify.com/album/5StrH1ERbMpncR1LR5xWfv) | 7:11 | 2021-12-02 |  |
 | [Variation d'Apollon](https://open.spotify.com/track/7xfirUVtWnX4xkFiTlSUbP) | [The Bad Plus](https://open.spotify.com/artist/5qOfTfMzTj2dvvpWKzIFk6) | [For All I Care \(Exclusive Online Version\)](https://open.spotify.com/album/3yQwCBZDdUAljCho8QF4Ve) | 4:35 | 2021-12-02 | 2022-07-29 |
-| [Variation d’Apollon](https://open.spotify.com/track/4xxsj5DGpSyqpe4IwaAHkP) | [The Bad Plus](https://open.spotify.com/artist/5qOfTfMzTj2dvvpWKzIFk6) | [For All I Care](https://open.spotify.com/album/3CGYqqKu94N6TBohkL35OV) | 4:33 | 2022-07-07 |  |
+| [Variation d’Apollon](https://open.spotify.com/track/1AA9EwPhRGUKlMgUCwN5MU) | [The Bad Plus](https://open.spotify.com/artist/5qOfTfMzTj2dvvpWKzIFk6) | [For All I Care](https://open.spotify.com/album/4MRm20cerW5Kv9wU3Wrs3v) | 4:33 | 2022-10-14 |  |
+| [Variation d’Apollon](https://open.spotify.com/track/4xxsj5DGpSyqpe4IwaAHkP) | [The Bad Plus](https://open.spotify.com/artist/5qOfTfMzTj2dvvpWKzIFk6) | [For All I Care](https://open.spotify.com/album/3CGYqqKu94N6TBohkL35OV) | 4:33 | 2022-07-07 | 2022-11-12 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

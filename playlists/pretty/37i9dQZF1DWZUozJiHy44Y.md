@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUozJiHy44Y.md) - [plain]
 
 > 30 has landed, alongside all her biggest hits!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,731,968 likes - 39 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,732,782 likes - 39 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,10 +24,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUozJiHy44Y.md) - [plain]
 | 14 | [Someone Like You](https://open.spotify.com/track/1zwMYTA5nlNjZxYrvBB2pV) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL) | 4:45 |
 | 15 | [Love In The Dark](https://open.spotify.com/track/7B5Npv8NjjTCzk8PLpU66h) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi) | 4:45 |
 | 16 | [Set Fire to the Rain](https://open.spotify.com/track/73CMRj62VK8nUS4ezD2wvi) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL) | 4:02 |
-| 17 | [Rolling in the Deep](https://open.spotify.com/track/1c8gk2PeTE04A1pIDH9YMk) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL) | 3:48 |
+| 17 | [Rolling in the Deep](https://open.spotify.com/track/3GkqnS8Lt8LDZV565ITUwh) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Rolling in the Deep](https://open.spotify.com/album/636ekSSKYrhxvQEHCY07jv) | 3:48 |
 | 18 | [Send My Love \(To Your New Lover\)](https://open.spotify.com/track/5GltPAIcCUULOIAglW6R4l) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Send My Love \(To Your New Lover\)](https://open.spotify.com/album/7hplTHLU8PAVs1forXE2NU) | 3:43 |
 | 19 | [Make You Feel My Love](https://open.spotify.com/track/6otXN6h5J6e49Lvse5yCwD) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Make You Feel My Love](https://open.spotify.com/album/4K1tS9SCKWJX4NQCcMUcUx) | 3:32 |
-| 20 | [Hello](https://open.spotify.com/track/62PaSfnXSMyLshYJrlTuL3) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi) | 4:55 |
+| 20 | [Hello](https://open.spotify.com/track/3AuzZHPlohKLpildLyORSM) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Hello](https://open.spotify.com/album/5givPbMFm0AMPUYWulmbzg) | 4:55 |
 | 21 | [Chasing Pavements](https://open.spotify.com/track/3fLT97x5VBTi09GZeZbqwf) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Chasing Pavements](https://open.spotify.com/album/5Kclo2Kmw2v94UqKwZam8F) | 3:30 |
 | 22 | [All I Ask](https://open.spotify.com/track/05TOt5Vz4StdjMpEdFPlvB) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi) | 4:31 |
 | 23 | [Turning Tables](https://open.spotify.com/track/4oy98QoABnGKpvapDkI525) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL) | 4:10 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUozJiHy44Y.md) - [plain]
 | 38 | [Many Shades of Black](https://open.spotify.com/track/1nX4VLG50VzERLthNEXWtY) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY), [The Raconteurs](https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc) | [19](https://open.spotify.com/album/2YO1F9DHVEzXPriA1JHoOQ) | 4:28 |
 | 39 | [Hometown Glory \- High Contrast Remix](https://open.spotify.com/track/1ESvthpg6hWmjlNJdpTrbH) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY), [High Contrast](https://open.spotify.com/artist/0bxHci3JIhhKA53n8rH3tT) | [Hometown Glory](https://open.spotify.com/album/1uT2pOgyFOXic7AyGCRCwx) | 6:36 |
 
-Snapshot ID: `MTY0MjU4MDgzNSwwMDAwMDAwMDYxNzExOTY1MzI0MDg4ODcwMTZmODQyMzdmMTYzZWM4`
+Snapshot ID: `MTY0MjU4MDgzNSwwMDAwMDAwMGNhMDUxYjkyNzAzYmY3ZWM5YjBiNjdkNjJhYWVhMDUz`

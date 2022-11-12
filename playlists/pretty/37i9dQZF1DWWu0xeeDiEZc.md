@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWu0xeeDiEZc.md) - [plain]
 
 > Get your kids singing along with this fun playlist! They're sure to know these kid\-friendly classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,843 likes - 45 songs - 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,051 likes - 45 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,10 +15,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWu0xeeDiEZc.md) - [plain]
 | 5 | [I'm a Little Teapot](https://open.spotify.com/track/1t6Gro7Tzeja1SBEiqmH2Q) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [The Wiggles Nursery Rhymes](https://open.spotify.com/album/2Rw0nDYlmZctMw6dOhKCT6) | 1:17 |
 | 6 | [Do You Want to Build a Snowman? \- From "Frozen"/Soundtrack Version](https://open.spotify.com/track/2yi7HZrBOC4bMUSTcs4VK6) | [Kristen Bell](https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI), [Agatha Lee Monn](https://open.spotify.com/artist/6kHu5ICQRBZdsAHjAjQlmp), [Katie Lopez](https://open.spotify.com/artist/5Kkhk21siwbW3BfZUwpykJ) | [Frozen \(Original Motion Picture Soundtrack / Deluxe Edition\)](https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0) | 3:26 |
 | 7 | [Baby Beluga](https://open.spotify.com/track/7zQFM7bHcyMh4QQFdBkjrE) | [Raffi](https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5) | [Baby Beluga](https://open.spotify.com/album/0sOARc9azSO1btKcDtM7o1) | 2:40 |
-| 8 | [Old Macdonald](https://open.spotify.com/track/47ffTXm408U9thU7xS7CVE) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Wheels on the Bus & Other Nursery Rhymes with Little Baby Bum](https://open.spotify.com/album/11C07gKgzFhkl1AArySEfL) | 1:59 |
+| 8 | [Old Macdonald](https://open.spotify.com/track/6Ms66PRX5gSYvtzySYuSSd) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Happy and I Know It!](https://open.spotify.com/album/0JkcbVg79vcTXwFXJNqPIn) | 1:59 |
 | 9 | [Bingo \- Sing with Me](https://open.spotify.com/track/3fwTHMM4gvjUwMBwXxSr4d) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Baby Shark & Other Animal Songs! Fun Music for Children with LittleBabyBum](https://open.spotify.com/album/77u8x13BHWehiOtLrLs1Id) | 1:56 |
 | 10 | [This Is the Song That Never Ends \- 2014 Version](https://open.spotify.com/track/0ukPjtaTzUNwkdKju0IPz8) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Fun Sing\-Along Songs for Kids](https://open.spotify.com/album/0yZG70i1dnNtw2UX6koJGt) | 1:46 |
-| 11 | [Who Took The Cookie?](https://open.spotify.com/track/3PpuDg0ZVPviHuljT3R087) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [Do You Like Broccoli Ice Cream? & More Kids Songs](https://open.spotify.com/album/1VypRh8WKSwIjDCkHuiQah) | 1:58 |
+| 11 | [Who Took The Cookie?](https://open.spotify.com/track/3laACoxQ8OWFjJWvExqA9p) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [Silly Songs for Kids](https://open.spotify.com/album/5IWkf4dmMoB5YJfqJR444i) | 1:58 |
 | 12 | [This Is Me](https://open.spotify.com/track/45aBsnKRWUzhwbcqOJLwfe) | [Keala Settle](https://open.spotify.com/artist/7HV2RI2qNug4EcQqLbCAKS), [The Greatest Showman Ensemble](https://open.spotify.com/artist/63nv0hWWDob56Rk8GlNpN8) | [The Greatest Showman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7ayBZIe1FHkNv0T5xFCX6F) | 3:54 |
 | 13 | [Fruit Salad](https://open.spotify.com/track/0n73IMpYOJ4NdGzYn2tjNz) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Hit Songs and Rarities](https://open.spotify.com/album/0sNCyOvNDTgmzFhmfASPzz) | 2:28 |
 | 14 | [ABC's](https://open.spotify.com/track/4NDYZiBOwDzlnOinhw4SbV) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn), [Nicky Notes](https://open.spotify.com/artist/46BsCUZeInrbY0IkvQ1OQ1) | [50 Favourite Nursery Rhymes](https://open.spotify.com/album/42H0CbJkbMCuP6iImziJMF) | 1:15 |
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWu0xeeDiEZc.md) - [plain]
 | 26 | [If You're Happy and You Know It](https://open.spotify.com/track/4jbFdoR43axNgUz4SE3Vnd) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [The Wiggles Nursery Rhymes](https://open.spotify.com/album/2Rw0nDYlmZctMw6dOhKCT6) | 1:32 |
 | 27 | [Miss Mary Mack](https://open.spotify.com/track/6n8vAY5flz0VChNl2evwEc) | [Ella Jenkins](https://open.spotify.com/artist/2AdaJlzNcOpdrvMSBN92Wp) | [You'll Sing a Song and I'll Sing a Song](https://open.spotify.com/album/65VNMkYGsMwLrYE8kP9NYf) | 2:01 |
 | 28 | [Toot Toot, Chugga Chugga, Big Red Car](https://open.spotify.com/track/29GySukCfSSEmOsFoSg1et) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Hit Songs and Rarities](https://open.spotify.com/album/0sNCyOvNDTgmzFhmfASPzz) | 2:23 |
-| 29 | [Shake My Sillies Out](https://open.spotify.com/track/01lr2Sr5lB3uSQbEAHeMGc) | [Play School](https://open.spotify.com/artist/0gkeMf1I9r5U5Hne19vr9A) | [It's Play School](https://open.spotify.com/album/3weOS7S2Vb8LMVRVbNYgBB) | 0:42 |
+| 29 | [Shake My Sillies Out](https://open.spotify.com/track/0tJ43FGFzNR809XgezZAPz) | [Play School](https://open.spotify.com/artist/0gkeMf1I9r5U5Hne19vr9A) | [Big Ted, Prince of Bears](https://open.spotify.com/album/7iYotMvxhHrbk9v9e6KyLk) | 0:45 |
 | 30 | [You're Welcome](https://open.spotify.com/track/6U4VqEHy4n5VeiH4pQPL24) | [Dwayne Johnson](https://open.spotify.com/artist/1T8S48bD91THNKBByWBDyn) | [Moana \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs) | 2:43 |
 | 31 | [Skidamarink](https://open.spotify.com/track/5GjXNfKlNfOgacGtTUMXKe) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [It's Time for Bed](https://open.spotify.com/album/3MKm8koz5nvtGYRaTkLYXe) | 2:16 |
 | 32 | [Apples and Bananas](https://open.spotify.com/track/4SI0hC16YcC5fZaCEY0ue4) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [We're All Fruit Salad!: The Wiggles' Greatest Hits](https://open.spotify.com/album/6ExeBKmXwBqZRRlEDfZmMJ) | 1:55 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWu0xeeDiEZc.md) - [plain]
 | 44 | [Wheels on the Bus \(All Through the Town\)](https://open.spotify.com/track/5BKgTd1H9NZQYdJAJm6Ms0) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Wheels on the Bus & Other Nursery Rhymes with Little Baby Bum](https://open.spotify.com/album/11C07gKgzFhkl1AArySEfL) | 2:10 |
 | 45 | [Kiss the Girl](https://open.spotify.com/track/4HGIPyqDxSf863tPOwXiLJ) | [Samuel E\. Wright](https://open.spotify.com/artist/6Id8rcDNyBXPcgKQVfQ8rX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [The Little Mermaid Special Edition](https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6) | 2:43 |
 
-Snapshot ID: `MTY1ODc1NTkwMywwMDAwMDAwMGRiNTAwMmYyYmRjYzEzMDAwY2Y0MDhlMDM2ZjYwNzVi`
+Snapshot ID: `MTY1ODc1NTkwMywwMDAwMDAwMDM1MWNkY2U3MTBlZGMzYTA2ODhmYThjMmZhMmRiNTA2`

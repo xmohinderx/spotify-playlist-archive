@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX127GJMzd1vB.md) - [plain]
 
 > ¡De amor y desamor! Las canciones que no pueden faltar a la hora de llevar gallo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,743 likes - 75 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,817 likes - 75 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,16 +67,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX127GJMzd1vB.md) - [plain]
 | 57 | [Novia Mía](https://open.spotify.com/track/5IJ691iklYJBremu40wZLI) | [Los Tres Reyes](https://open.spotify.com/artist/6QZS9lcGeckgZNy0PN7R7u) | [The Golden Record, Vol\. 1](https://open.spotify.com/album/60IfvvlBBoGXZpCFVS6KSF) | 2:31 |
 | 58 | [Yo Se Que Te Acordaras](https://open.spotify.com/track/0fXfqbA0R0lr6fpuU84DSx) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Penas, Desengaños..\. y Amores](https://open.spotify.com/album/6tTkLSvfUKUFOW7BhD7Rm0) | 3:23 |
 | 59 | [La Gloria Eres Tú](https://open.spotify.com/track/5HpsHF2ZSw9NMAVKy04RMI) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Grandes Exitos A La Manera De Alejandro Fernandez](https://open.spotify.com/album/3PEIsRKWPx5w1RSoOnrOoh) | 2:57 |
-| 60 | [Bonita](https://open.spotify.com/track/5O59qe8KiEjw5ztBelzWQp) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Cancionero](https://open.spotify.com/album/51lIIXFRzYwMB0SgdgEKTn) | 2:56 |
-| 61 | [Nuestro Juramento](https://open.spotify.com/track/14g4Oi7wtimsoJYLjtiCa9) | [Julio Jaramillo](https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8) | [Lo Mejor de Julio Jaramillo](https://open.spotify.com/album/1vmIQyW1o8tKb4vtBefwi7) | 3:15 |
-| 62 | [Historia de un Amor](https://open.spotify.com/track/18a0S9xkgaUvwh7yqxIk2D) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Personalidad](https://open.spotify.com/album/6eKInlHy9RWytTMavlm6aw) | 2:29 |
+| 60 | [Nuestro Juramento](https://open.spotify.com/track/14g4Oi7wtimsoJYLjtiCa9) | [Julio Jaramillo](https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8) | [Lo Mejor de Julio Jaramillo](https://open.spotify.com/album/1vmIQyW1o8tKb4vtBefwi7) | 3:15 |
+| 61 | [Bonita](https://open.spotify.com/track/5O59qe8KiEjw5ztBelzWQp) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Cancionero](https://open.spotify.com/album/51lIIXFRzYwMB0SgdgEKTn) | 2:56 |
+| 62 | [La Que Se Fue](https://open.spotify.com/track/74yLkIS7O070GJ9AMgQNoG) | [Jorge Negrete](https://open.spotify.com/artist/4W5RbLZybsLfAzE7QqdibE) | [Latinos de Oro](https://open.spotify.com/album/7vhSZgkHBPzOwur3ILGgJL) | 2:53 |
 | 63 | [Muy despacito](https://open.spotify.com/track/2kRPH2YipMzJd4BxCRuNYE) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [60 Rancheras Inmortales](https://open.spotify.com/album/7r20ZE4dXhmE7Ldc9sGeok) | 2:33 |
 | 64 | [Nube Viajera](https://open.spotify.com/track/2AeINN6irBPsFOvW7oFniJ) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Súper Éxitos Rancheros Vol\. 2](https://open.spotify.com/album/4ZEM9AniXRQyM0lySCRUc0) | 4:05 |
-| 65 | [Ya No Me Interesas](https://open.spotify.com/track/2JuiXI8zNZlb6Zzo9MNzU9) | [Lucha Villa](https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1) | [Nuestra Tradición](https://open.spotify.com/album/5QgzGbRnhcLmP9FO51JPuN) | 3:03 |
-| 66 | [La Que Se Fue](https://open.spotify.com/track/74yLkIS7O070GJ9AMgQNoG) | [Jorge Negrete](https://open.spotify.com/artist/4W5RbLZybsLfAzE7QqdibE) | [Latinos de Oro](https://open.spotify.com/album/7vhSZgkHBPzOwur3ILGgJL) | 2:53 |
+| 65 | [No Discutamos](https://open.spotify.com/track/0McUHLOuLMRvCJFKxO8F1d) | [Lucha Villa](https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1) | [The Best Of \- Bolero Ranchero](https://open.spotify.com/album/4P0XeKzZBU0Sq1t2ADjOLX) | 2:16 |
+| 66 | [Historia de un Amor](https://open.spotify.com/track/18a0S9xkgaUvwh7yqxIk2D) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Personalidad](https://open.spotify.com/album/6eKInlHy9RWytTMavlm6aw) | 2:29 |
 | 67 | [Qué te ha dado esa mujer](https://open.spotify.com/track/2nlQuH5g1My2gVI0VNdyA5) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [15 Inmortales de Pedro Infante](https://open.spotify.com/album/0EUGqkj07wWx27XADAq3Ba) | 2:38 |
 | 68 | [Entrega Total](https://open.spotify.com/track/74h5o0eQbX6qesW5pvMwYf) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Romance / Inolvidables Con ..\. \(Serie 2 En 1\)](https://open.spotify.com/album/7qSxsblKfzcm1z6kZaQXhT) | 2:30 |
-| 69 | [No Discutamos](https://open.spotify.com/track/0McUHLOuLMRvCJFKxO8F1d) | [Lucha Villa](https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1) | [The Best Of \- Bolero Ranchero](https://open.spotify.com/album/4P0XeKzZBU0Sq1t2ADjOLX) | 2:16 |
+| 69 | [Ya No Me Interesas](https://open.spotify.com/track/2JuiXI8zNZlb6Zzo9MNzU9) | [Lucha Villa](https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1) | [Nuestra Tradición](https://open.spotify.com/album/5QgzGbRnhcLmP9FO51JPuN) | 3:03 |
 | 70 | [Motivos](https://open.spotify.com/track/4yEJ1SNpgfK5GPx3Y0YhIU) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Mexico en la Piel \(edicion diamante\)](https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM) | 3:32 |
 | 71 | [Y \- En vivo](https://open.spotify.com/track/6QbEENozheS46xQY56acH9) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Vivo](https://open.spotify.com/album/2GtCBgC1SYeeb8fcxGWCLo) | 2:42 |
 | 72 | [La Diferencia](https://open.spotify.com/track/0UjaaTDGZcDhNZITXW9nUI) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Con el Mariachi de América de Jesús Rodríguez de Hijar](https://open.spotify.com/album/1KyEwimgjlEeq4Ovc1D8ws) | 3:20 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX127GJMzd1vB.md) - [plain]
 | 74 | [Amaneci Entre Tus Brazos \- En Vivo](https://open.spotify.com/track/2wUyUpg8oOrvZ2MsEHph0m) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [El Concierto](https://open.spotify.com/album/6efyUFJcUK18KRFTMoxNSI) | 2:30 |
 | 75 | [Esta Noche Voy a Verla](https://open.spotify.com/track/4fk7Dwmt0AcIWfJ1JOXMcc) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Siempre Estoy Pensando En Ti](https://open.spotify.com/album/3GZBUlOokXQdZxBdby96bZ) | 2:39 |
 
-Snapshot ID: `MTY0MDgyMTYxNywwMDAwMDAwMDZiMDE5ZjIxNGZiY2MxNDQxODY4YzVkZWMzYmU1MjM0`
+Snapshot ID: `MTY0MDgyMTYxNywwMDAwMDAwMDUyODM1ZjM2ODc5NmVhMGFkYWIyOGY1YWFmM2MyYzk0`

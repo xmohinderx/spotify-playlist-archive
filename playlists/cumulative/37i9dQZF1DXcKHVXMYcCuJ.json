@@ -1481,7 +1481,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 148826,
       "name": "Freddy Kreuger",
       "url": "https://open.spotify.com/track/6yheqxgSKIkSm4guRLp5Y5"
@@ -2777,7 +2777,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 135826,
       "name": "Mother Mary",
       "url": "https://open.spotify.com/track/6qYWC8j3X10bGhtDOhXFu5"
@@ -2903,7 +2903,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 240573,
       "name": "My Name Is Trouble",
       "url": "https://open.spotify.com/track/3YZUBdCdqP8lL9nH82pWKM"
@@ -4131,6 +4131,24 @@
       "duration_ms": 198066,
       "name": "Super-fire",
       "url": "https://open.spotify.com/track/1eZDNesUK5TuhHikfQ8K6U"
+    },
+    {
+      "album": {
+        "name": "House of GVSB",
+        "url": "https://open.spotify.com/album/5j6YEMKBN7tyJktFniEeBG"
+      },
+      "artists": [
+        {
+          "name": "Girls Against Boys",
+          "url": "https://open.spotify.com/artist/33HLOae9rhJfw6Mh0e8g5r"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198066,
+      "name": "Super-fire",
+      "url": "https://open.spotify.com/track/2SVQ9NW10PLX2GoGQ6nqlk"
     },
     {
       "album": {

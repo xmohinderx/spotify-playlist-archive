@@ -4,7 +4,7 @@
 
 > The country way of testifying\. Cover: Darius Rucker
 
-166 songs - 10 hr 12 min - [published](https://open.spotify.com/playlist/6cE3SvtvS08f7zxJyG9uyM)
+168 songs - 10 hr 20 min - [published](https://open.spotify.com/playlist/6cE3SvtvS08f7zxJyG9uyM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,8 @@
 | [Less Than Whole](https://open.spotify.com/track/3OzqxGvLzW00YOet2P78sD) | [Eric Paslay](https://open.spotify.com/artist/4TONBKcqVR1LmPdfJxvkMU) | [Eric Paslay](https://open.spotify.com/album/79RwxrHw6uKVimeEGyM00W) | 4:44 | 2021-12-10 |  |
 | [Let My Heart Be Moved](https://open.spotify.com/track/2pESp2B7x0b0sAIJGoxZS9) | [Shadowlands](https://open.spotify.com/artist/1qwYptsAoTdF79AffnMnpe), [Luke Laird](https://open.spotify.com/artist/68TC0JwoMubeom8X4c7UVI), [Sandra McCracken](https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN), [Brett Taylor](https://open.spotify.com/artist/1qw1LjONRwzcP0oFHuuPJy) | [November Songs](https://open.spotify.com/album/1GRwT3QAIDEAmAUwmpv1TG) | 3:44 | 2022-10-07 |  |
 | [Like Jesus Does](https://open.spotify.com/track/3wxgj5N8ZKoZWHDw6FJUf2) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Chief](https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF) | 3:18 | 2021-12-10 |  |
-| [Long Black Train](https://open.spotify.com/track/2HqCaO7BV010qXS5FuiTED) | [Josh Turner](https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT) | [Long Black Train](https://open.spotify.com/album/7DgePplMBaKbi8l5c8s64n) | 4:10 | 2022-07-15 |  |
+| [Long Black Train](https://open.spotify.com/track/2HqCaO7BV010qXS5FuiTED) | [Josh Turner](https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT) | [Long Black Train](https://open.spotify.com/album/7DgePplMBaKbi8l5c8s64n) | 4:10 | 2022-07-15 | 2022-11-12 |
+| [Long Black Train](https://open.spotify.com/track/48Qs4WAbfw6ZC7xApFoLkW) | [Josh Turner](https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT) | [Country Songs With Color In The Title](https://open.spotify.com/album/23YMyZJ5Uxm2ydPuCo2FO3) | 4:10 | 2022-11-04 |  |
 | [Long Black Train](https://open.spotify.com/track/4qRY8LbGGsy9L5GETfi8li) | [Josh Turner](https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT) | [Long Black Train](https://open.spotify.com/album/1jledek9KEGKEpa9KsuvkT) | 4:10 | 2021-12-10 | 2022-07-29 |
 | [Lookin' for You](https://open.spotify.com/track/7nDImE3NrWzpmOb3r2oV50) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [Lookin' for You](https://open.spotify.com/album/4RKHZ5tvicbNXz4EXbiARq) | 3:45 | 2022-09-09 |  |
 | [Lord, I Hope This Day Is Good](https://open.spotify.com/track/4cFvCa5PLr7HTVosmwX4iL) | [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9), [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Lord, I Hope This Day Is Good](https://open.spotify.com/album/0VtHnpHrd8gzt5T8FVmCGK) | 2:49 | 2021-12-10 |  |
@@ -155,7 +156,8 @@
 | [Three Wooden Crosses](https://open.spotify.com/track/1S4fpfX2u0hzFD9vb6FEB6) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [On the Other Hand \- All the Number Ones](https://open.spotify.com/album/0UCCMRZib7d6eCdEWQiPJ3) | 3:21 | 2022-07-15 | 2022-11-11 |
 | [Three Wooden Crosses](https://open.spotify.com/track/46xU9J8WQiQoMVJ67faeXY) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | ['Til You Can't \- Sad Country](https://open.spotify.com/album/7u18s6Yb1UvHVfe7pbzWPH) | 3:21 | 2022-11-04 |  |
 | [Three Wooden Crosses \- The Bootlegger Sessions](https://open.spotify.com/track/2mhU8jchJbM4u164c2CQ1z) | [Michael Ray](https://open.spotify.com/artist/6ghiFYcwn2Vzl6K50U0UPz) | [Three Wooden Crosses \(The Bootlegger Sessions\)](https://open.spotify.com/album/29Zi5oXaoj4XnTKw4gvE1d) | 3:14 | 2022-09-23 |  |
-| [Today](https://open.spotify.com/track/1IO13V09b01gLSbmZJZ9dM) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Love and War](https://open.spotify.com/album/43xH1kPS7aNKc2WJtUHRAs) | 3:49 | 2022-07-15 |  |
+| [Today](https://open.spotify.com/track/0ykWGiYuB9gJmEcvSSS0aj) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [NOW That's What I Call Country Vol\. 10 \(Deluxe Edition\)](https://open.spotify.com/album/3PJeU5QNgycnIXNNrRPjFX) | 3:42 | 2022-11-04 |  |
+| [Today](https://open.spotify.com/track/1IO13V09b01gLSbmZJZ9dM) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Love and War](https://open.spotify.com/album/43xH1kPS7aNKc2WJtUHRAs) | 3:49 | 2022-07-15 | 2022-11-12 |
 | [Today](https://open.spotify.com/track/1PB1crNoxv0Jezj0Y8LqO0) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Today](https://open.spotify.com/album/73oc4kEemraQEzKGcgtwOm) | 3:49 | 2021-12-10 | 2022-07-29 |
 | [Undivided](https://open.spotify.com/track/2DINVEELpI3ibUW2EzeDs7) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd), [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Undivided](https://open.spotify.com/album/0r9cbjDibgfT9Zvj5PHiFw) | 2:55 | 2021-12-10 |  |
 | [Way Home](https://open.spotify.com/track/3rK8TFLvwfbEGBOP0G76T9) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Way Home](https://open.spotify.com/album/57bEdmDvPY66UIjq0Ot9w8) | 3:09 | 2022-07-15 |  |

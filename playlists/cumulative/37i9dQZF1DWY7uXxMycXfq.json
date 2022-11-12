@@ -1644,6 +1644,24 @@
     },
     {
       "album": {
+        "name": "The Steady Heart",
+        "url": "https://open.spotify.com/album/7CGeLL2ynKNd5QRJAbrcgQ"
+      },
+      "artists": [
+        {
+          "name": "Kaitlyn Aurelia Smith",
+          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339493,
+      "name": "The Steady Heart",
+      "url": "https://open.spotify.com/track/07b7wamvmtxZdHPRVjdQjW"
+    },
+    {
+      "album": {
         "name": "The Mosaic of Transformation",
         "url": "https://open.spotify.com/album/2uacatJeUrWB2Fj3epyMgA"
       },
@@ -1655,7 +1673,7 @@
       ],
       "date_added": "2021-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 339493,
       "name": "The Steady Heart",
       "url": "https://open.spotify.com/track/0ZRoGWrVDfK5J6nbZTywr2"
@@ -1703,7 +1721,7 @@
     {
       "album": {
         "name": "TILT",
-        "url": "https://open.spotify.com/album/0dTcjoXoUdeFlXZgWLqd6E"
+        "url": "https://open.spotify.com/album/2nSFDTb59uyMdMkh5p8Rzf"
       },
       "artists": [
         {
@@ -1718,6 +1736,28 @@
       "date_added": "2021-06-30",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 188000,
+      "name": "TILT - Single Edit",
+      "url": "https://open.spotify.com/track/2egz3UsJqqcTPgg3cXcivE"
+    },
+    {
+      "album": {
+        "name": "TILT",
+        "url": "https://open.spotify.com/album/0dTcjoXoUdeFlXZgWLqd6E"
+      },
+      "artists": [
+        {
+          "name": "K\u00c1RYYN",
+          "url": "https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI"
+        },
+        {
+          "name": "Young Paint",
+          "url": "https://open.spotify.com/artist/2fhkMDN3asvYcvkWTh8x0w"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-12",
       "duration_ms": 188000,
       "name": "TILT - Single Edit",
       "url": "https://open.spotify.com/track/3Y7Y2OBvupVBPBUDU0FaFC"
@@ -1789,7 +1829,7 @@
       ],
       "date_added": "2021-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 205580,
       "name": "Tulpar",
       "url": "https://open.spotify.com/track/1vdlZbL65vnKLxCxiafNHx"
@@ -1811,6 +1851,24 @@
       "duration_ms": 205580,
       "name": "Tulpar",
       "url": "https://open.spotify.com/track/2O5bsifaBuEHnnsllXNKkw"
+    },
+    {
+      "album": {
+        "name": "EP ONE",
+        "url": "https://open.spotify.com/album/4KdAj9k6Xk1n8I0qkGlCtE"
+      },
+      "artists": [
+        {
+          "name": "Galya Bisengalieva",
+          "url": "https://open.spotify.com/artist/5XT7fo7ijBPZAWWzXDEaRh"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205580,
+      "name": "Tulpar",
+      "url": "https://open.spotify.com/track/32V0XnQJOsIQGI1xVlHUN5"
     },
     {
       "album": {

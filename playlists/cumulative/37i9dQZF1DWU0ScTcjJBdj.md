@@ -4,7 +4,7 @@
 
 > Let your worries and cares slip away.
 
-252 songs - 16 hr 29 min - [published](https://open.spotify.com/playlist/48nHSzZWFJZqa0aL14cfvw)
+254 songs - 16 hr 35 min - [published](https://open.spotify.com/playlist/48nHSzZWFJZqa0aL14cfvw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Foreign Hands](https://open.spotify.com/track/78e02OxzIocXs21FqQ4UGK) | [George Ogilvie](https://open.spotify.com/artist/56NSAhpJRoeaGi5uyUdYlI) | [Foreign Hands](https://open.spotify.com/album/11OoifQTfRnad4m4ocQdZs) | 4:18 | 2022-06-24 |  |
 | [Foreign Hands](https://open.spotify.com/track/3nnXAqJVpdiwYKAXFBpnlG) | [George Ogilvie](https://open.spotify.com/artist/56NSAhpJRoeaGi5uyUdYlI) | [Foreign Hands](https://open.spotify.com/album/5PAnvxRPA6ewcH22vxjfxe) | 4:18 | 2019-05-26\* | 2022-07-29 |
 | [Georgia](https://open.spotify.com/track/6Fha6tXHkL3r9m9nNqQG8p) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away](https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg) | 3:50 | 2019-05-26\* | 2021-06-10 |
+| [Getting It Right](https://open.spotify.com/track/3W2DvPUsPGyCbfBZEgqPn8) | [Caitlin Rose](https://open.spotify.com/artist/41LGTx1fpA69G2ZAJKZntM), [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [Getting It Right](https://open.spotify.com/album/3zA17MmyBmEogW6WHIDsWj) | 2:50 | 2022-11-11 |  |
 | [Give Me The Reason \- Stripped Acoustic](https://open.spotify.com/track/1swgoSkNmzepVAXcBL6xv0) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Give Me The Reason \(Stripped Acoustic\)](https://open.spotify.com/album/3EtG50pcQ4QExmabzcHnzn) | 3:52 | 2022-06-08 |  |
 | [Glory Strums \(Loneliness of the Long\-Distance Runner\)](https://open.spotify.com/track/3BxIJ9VN7BdE7MuArlAhAv) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Quietly Blowing It](https://open.spotify.com/album/1iNOO5VSJciTGogwlClRsa) | 3:28 | 2022-01-07 |  |
 | [Going Where the Lonely Go](https://open.spotify.com/track/1obqA76qNSGEnN4kTafsQw) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Raise The Roof \(Deluxe Edition\)](https://open.spotify.com/album/48wFAtpgBV5rUTTDrNKCoN) | 4:10 | 2021-11-19 | 2022-07-29 |
@@ -133,8 +134,9 @@
 | [Movement](https://open.spotify.com/track/1djzKW3eYLyzjjHXazEWWh) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Wasteland, Baby!](https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw) | 3:57 | 2019-05-26\* | 2020-07-14 |
 | [My Ego Dies At The End](https://open.spotify.com/track/7wWr0jb8Z1FZaEkb977AK0) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [My Ego Dies At The End](https://open.spotify.com/album/5OBhCOu9PsEEcLldCbwDn8) | 4:02 | 2022-02-23 |  |
 | [Need The Sun To Break](https://open.spotify.com/track/1OwHOfTeJkdRhdqq93y2XV) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chaos And The Calm](https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO) | 3:44 | 2019-05-26\* | 2022-06-09 |
+| [Need You](https://open.spotify.com/track/1W12DZMEZi3mV3cTpkwGF2) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [Voodoo](https://open.spotify.com/album/21AHYRK63m0XxdQCeGKhzD) | 3:09 | 2022-06-24 |  |
 | [Need You](https://open.spotify.com/track/2EO0D7WCnC38HzKncS4nAv) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [Olly Olly](https://open.spotify.com/album/6898mgjdVWLEBf9gCQpCAS) | 3:09 | 2022-01-26 | 2022-07-29 |
-| [Need You](https://open.spotify.com/track/7f0PCIJFVw7U5tbuFH4rb0) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [Olly Olly](https://open.spotify.com/album/4ruy6zMB9t2sKrNyK2B8zF) | 3:09 | 2022-06-24 |  |
+| [Need You](https://open.spotify.com/track/7f0PCIJFVw7U5tbuFH4rb0) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [Olly Olly](https://open.spotify.com/album/4ruy6zMB9t2sKrNyK2B8zF) | 3:09 | 2022-06-24 | 2022-11-12 |
 | [Nervous](https://open.spotify.com/track/4HLnKxeTmOuyD81L4lX3t7) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Bitter Pill](https://open.spotify.com/album/1O1BzHEnq2sItopGcE2PS0) | 3:36 | 2019-05-26\* |  |
 | [New Star](https://open.spotify.com/track/3PUln07oXes6xzvFFBnPO1) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [New Star](https://open.spotify.com/album/3zRIyC1QFzYOxRuuocyOt3) | 3:05 | 2021-07-01 |  |
 | [Nightflyer](https://open.spotify.com/track/6BxDMOnim3Ut7nQaOj01DJ) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Outside Child](https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw) | 4:55 | 2021-06-10 |  |

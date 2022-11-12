@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0qVgUFKIZBO.md) - [plain]
 
 > ¡Agarra el micrófono y empieza a cantar estos éxitos inolvidables!
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,843 likes - 75 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,899 likes - 75 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [La flaca](https://open.spotify.com/track/0ll9JAIrM3NVBOMl45sxSX) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [La Flaca](https://open.spotify.com/album/1O5kJTerozuI2WLgzvIz2m) | 4:21 |
+| 1 | [La flaca](https://open.spotify.com/track/2sXknzW9MIR2RfZF6dgiUR) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [Latin Sensual Pop](https://open.spotify.com/album/2pIP9i4oiGTDnWmxMLRdR0) | 4:21 |
 | 2 | [Cuando Pase El Temblor \- Remasterizado 2007](https://open.spotify.com/track/3uMYq07Kj5m564OQwdSCrD) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Nada Personal \(Remastered\)](https://open.spotify.com/album/0hyq754QnaKHYpH32QnWqs) | 3:49 |
 | 3 | [Procura](https://open.spotify.com/track/2q9udNV9NK0BL3q9p6TLxf) | [ChiChi Peralta](https://open.spotify.com/artist/5GNSVtCq2hiXDx7jUA5Iou), [Jandy Feliz](https://open.spotify.com/artist/3hz57XL7wSiPMO9g3k1CW6) | [Pa' Otro La 'O](https://open.spotify.com/album/1AwPrz3G3D1Xx9wiKHNmHX) | 4:31 |
 | 4 | [Yo No Sé Mañana](https://open.spotify.com/track/7nDIflSHQXzaa8zupxwv3U) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Ciclos](https://open.spotify.com/album/63irJwZoWLRUc1lBKtuxmQ) | 4:19 |
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0qVgUFKIZBO.md) - [plain]
 | 37 | [1.000 pedazos](https://open.spotify.com/track/40WYGxtCpSMJUhetMgdb9F) | [Christina y Los Subterraneos](https://open.spotify.com/artist/37VCh7nhSDrULox2fOnBoU) | [Que Me Parta Un Rayo](https://open.spotify.com/album/6erY8dgTTxjdsX5yBnsYwU) | 4:18 |
 | 38 | [La Cosa Mas Bella](https://open.spotify.com/track/1EZypwk0xcj64ZLAglhLs2) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Donde Hay Música \(Spanish Version\)](https://open.spotify.com/album/49oNMRzQcMBCqiz03JOQqq) | 4:25 |
 | 39 | [Azúcar Amargo](https://open.spotify.com/track/4Gf68vwxa69hCiXmJ1jvgj) | [Fey](https://open.spotify.com/artist/3uC20p2EoNm5LYtzSVWdkL) | [Tierna La Noche](https://open.spotify.com/album/6okRyANFqFxUmxBcGwRp9Y) | 4:41 |
-| 40 | [Te Mando Flores](https://open.spotify.com/track/2in1gSZtv2lRbcZUmN9aAl) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP) | [Corazón](https://open.spotify.com/album/6O0WvW7JA4B02y8D9Kd3Bx) | 3:48 |
+| 40 | [Te Mando Flores](https://open.spotify.com/track/2tHG7d2On9xKt3U6DWJsnX) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP) | [Top Colombia](https://open.spotify.com/album/6mHmDuiCzn5ZCMYqXdiSqX) | 3:48 |
 | 41 | [La Playa](https://open.spotify.com/track/2DNyZP4Py6f4zMASLBnIu6) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [El Viaje de Copperpot](https://open.spotify.com/album/3HnSOodhuufrSTBnGZQ3fu) | 4:07 |
 | 42 | [De Música Ligera \- Remasterizado 2007](https://open.spotify.com/track/2lpIh6Gr6HYjg1CFBaucS5) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Canción Animal \(Remastered\)](https://open.spotify.com/album/3GoSlKTNcVOp1ZxE5OOXeN) | 3:32 |
 | 43 | [La soledad](https://open.spotify.com/track/2JTwPGmzMRW0gO4CBCzsyS) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Laura Pausini: 25 Aniversario \(Spanish Version\)](https://open.spotify.com/album/0EXcVDePo397i4Um4vGxGs) | 3:59 |
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0qVgUFKIZBO.md) - [plain]
 | 49 | [La player \(Bandolera\)](https://open.spotify.com/track/0VKkyBKCXyR99navhVRqcP) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [La Player \(Bandolera\)](https://open.spotify.com/album/57BGq6lpz8RK1cqr2fPVIi) | 4:09 |
 | 50 | [La Quiero A Morir](https://open.spotify.com/track/3rsVX2Pd8UkjqF2MAZqeif) | [DLG](https://open.spotify.com/artist/0z0w28IvsF1gsKhVAMbh9p) | [Lo Esencial](https://open.spotify.com/album/0xgbPkhH5Hvuqa0hBGjpj3) | 5:02 |
 | 51 | [No Es Justo](https://open.spotify.com/track/5qFeMRz4TvetPmzjre9Dq7) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Vibras](https://open.spotify.com/album/5kprdYds6oZb4iSldfflOT) | 4:10 |
-| 52 | [Quién Como Tú](https://open.spotify.com/track/0ElaCi1Qf86iEWhsxCw5h5) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Quien Como Tú](https://open.spotify.com/album/4r2m65IXlmzhi06V5V9Cs5) | 3:31 |
+| 52 | [Quién Como Tú \- En Vivo](https://open.spotify.com/track/6hYPDNpjyiSSSqUITuHNsk) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Ana Gabriel En La Plaza De Toros México](https://open.spotify.com/album/7CM0yI1hoqA8jBVi2mRBPC) | 3:33 |
 | 53 | [Azul](https://open.spotify.com/track/6pHCJmx9FXnMwEqB0LWUEH) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Grandes Hits](https://open.spotify.com/album/6Q2UpW0s9cDeZ59bCd5CYL) | 4:19 |
 | 54 | [El Sol No Regresa](https://open.spotify.com/track/0c8f8b76ThPP2MInXEZyTY) | [La Quinta Estacion](https://open.spotify.com/artist/7FZj349hdLfD6qzXkJLuAh) | [Recuérdame Con Cartas Y Algo Más..\. Los Exitos \(Deluxe Edition\)](https://open.spotify.com/album/3PXv5uwPtZmtg0Qq6PxAgm) | 3:48 |
 | 55 | [Maldita Primavera](https://open.spotify.com/track/3GUyiFEglEm9rSToOf5YZW) | [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx) | [Coleccion Suprema](https://open.spotify.com/album/3CxDiBxX6u10UpaRnYeKSx) | 3:54 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0qVgUFKIZBO.md) - [plain]
 | 74 | [Ya Nada Volvera a Ser Como Antes](https://open.spotify.com/track/55BClNby0SuB7MHxp1Tdn8) | [El Canto Del Loco](https://open.spotify.com/artist/5RK6c1tyaKpwcDpbgCGNgj) | [Estados de Animo](https://open.spotify.com/album/6Fs4ZLz6N8IZtXR20zjwjy) | 2:55 |
 | 75 | [Cuando los sapos bailen flamenco](https://open.spotify.com/track/6L9NMwK94nyeFFJnpHAsqC) | [Ella Baila Sola](https://open.spotify.com/artist/6xvRfsmnwd0qcDUomtlmAt) | [Ella Baila Sola](https://open.spotify.com/album/7bxkE1uwNfUmBpDPyhHh2R) | 3:15 |
 
-Snapshot ID: `MTY1OTEzNDM3NSwwMDAwMDAwMGYxMGIyNGJmMjYxMzFhYWI4OTBkOWJhYTU1Y2RmNjg2`
+Snapshot ID: `MTY1OTEzNDM3NSwwMDAwMDAwMGNlYWUwYmVjNzNhNWRkZjhmZGY2ZDNlZGFjMzc3MDkw`

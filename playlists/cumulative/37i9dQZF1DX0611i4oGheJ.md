@@ -4,7 +4,7 @@
 
 > Sweet gems to help you slow down and savor your day.
 
-288 songs - 18 hr 27 min - [published](https://open.spotify.com/playlist/1IVOoA16apieUJxkNJzI8P)
+289 songs - 18 hr 31 min - [published](https://open.spotify.com/playlist/1IVOoA16apieUJxkNJzI8P)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Home](https://open.spotify.com/track/70HhtHhn1xrStdbWIv0tmV) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Orphan Offering](https://open.spotify.com/album/13Mv60XAKeUqr12McFiz2y) | 4:22 | 2021-10-22 | 2022-06-01 |
 | [Horse to Water](https://open.spotify.com/track/0szmjOw9XbtbQYWz0GvXSp) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Neptune](https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS) | 4:04 | 2021-10-22 |  |
 | [How \(feat\. Brandi Carlile\)](https://open.spotify.com/track/171xo7JC4bf7vqFmjF88M8) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [\(self\-titled\)](https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE) | 3:44 | 2022-09-16 |  |
+| [How Can I](https://open.spotify.com/track/5VM83HUNtlw9TVXaNab6Ui) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [You Stay by the Sea](https://open.spotify.com/album/5X5eUmIPAuLOzyvej11FlN) | 4:16 | 2022-09-16 |  |
 | [How Can I](https://open.spotify.com/track/4Inffk6ZI4UZEEgozB2ROP) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [How Can I](https://open.spotify.com/album/5nV8zMPI9ag3WZ19MuSjRr) | 4:16 | 2021-10-22 | 2022-07-29 |
 | [Humble & Kind](https://open.spotify.com/track/4ZBFIzNwC3QUn0pdqIy1JN) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [The Bird & the Rifle](https://open.spotify.com/album/61WR0KS7E4RJV6JC2TZ8Gk) | 4:03 | 2021-10-22 |  |
 | [I Am Not Afraid](https://open.spotify.com/track/5pD6DyYeglUby2x5CXrqfA) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [In the Night](https://open.spotify.com/album/79XBpEmfWK9in4maPa8Kuh) | 2:44 | 2021-10-22 |  |
@@ -145,7 +146,7 @@
 | [Millennial](https://open.spotify.com/track/0UVjJZjlZiOB9pVd9wWABs) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Transcendence](https://open.spotify.com/album/4pJ1cAVfgvAIJLWLO0zpuQ) | 2:53 | 2022-05-27 |  |
 | [Millennial](https://open.spotify.com/track/10JRIlS2NWwUlEePtwaUhX) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Transcendence](https://open.spotify.com/album/4ZjJMYZSIk0mbZ6iXkwgvM) | 2:53 | 2021-10-22 | 2022-07-29 |
 | [Mind on Fire](https://open.spotify.com/track/45RX9we2ExTAPtPmHRJT9C) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Mind on Fire](https://open.spotify.com/album/1Ms5teyYCQM0bHa2aSKfod) | 3:14 | 2021-10-22 | 2022-07-28 |
-| [Mind on Fire](https://open.spotify.com/track/4LEdX9NFK0tVB5anrAIi1q) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Pendulum](https://open.spotify.com/album/64uKH4UnWHG6Ea960CSChE) | 3:14 | 2022-05-27 |  |
+| [Mind on Fire](https://open.spotify.com/track/4LEdX9NFK0tVB5anrAIi1q) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Pendulum](https://open.spotify.com/album/64uKH4UnWHG6Ea960CSChE) | 3:14 | 2022-05-27 | 2022-11-12 |
 | [Mirrored Heart](https://open.spotify.com/track/5uza8rA0hPAbb34xBDlB5W) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [...but i'd rather be with you](https://open.spotify.com/album/1Misn812Z5W216eNI7NuIy) | 4:10 | 2021-10-22 | 2022-07-29 |
 | [Mockingbird](https://open.spotify.com/track/2CaLpacfbqCPvcLmX4ZN8e) | [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [Mockingbird](https://open.spotify.com/album/6Nk8Q2py4XcHpOGtwlADXE) | 4:37 | 2021-10-22 | 2022-07-29 |
 | [Mockingbird](https://open.spotify.com/track/6fS1CEMY4LlvQNWuUMoWEQ) | [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [Dying Star](https://open.spotify.com/album/0HglC8wDUKL0VV5KI31bqU) | 4:37 | 2022-05-27 |  |

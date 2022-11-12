@@ -4,7 +4,7 @@
 
 > Los grandes éxitos de Daddy Yankee y Nicky Jam en un mismo lugar.
 
-88 songs - 5 hr 2 min - [published](https://open.spotify.com/playlist/2iNy939SfL8nLUv0oj5dNy)
+90 songs - 5 hr 9 min - [published](https://open.spotify.com/playlist/2iNy939SfL8nLUv0oj5dNy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,8 +63,9 @@
 | [Rompe](https://open.spotify.com/track/4Xtlw8oXkIOvzV7crUBKeZ) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Barrio Fino En Directo](https://open.spotify.com/album/2rNUIqPFIbq5bSH46jHUZy) | 3:08 | 2021-12-09 |  |
 | [RUMBATÓN](https://open.spotify.com/track/3XjN0mvFkQp1FMVM9Ro5hm) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [LEGENDADDY](https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt) | 4:08 | 2022-08-17 |  |
 | [Satisfacción](https://open.spotify.com/track/21WvAGxPUNJARcZoSqswd7) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Satisfacción](https://open.spotify.com/album/54kKKlH1NeDeihHxTYEvGA) | 4:16 | 2021-12-09 |  |
+| [Shaky Shaky](https://open.spotify.com/track/4DLDu5aTPEpg69QlLG2lsY) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [40 Éxitos: Fiestón](https://open.spotify.com/album/4QfueEYpYMx5Eu6lhufXug) | 3:54 | 2022-08-17 |  |
 | [Shaky Shaky](https://open.spotify.com/track/58IL315gMSTD37DOZPJ2hf) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Shaky Shaky](https://open.spotify.com/album/2zrLk90b4qjmrxRZKyIY7X) | 3:54 | 2021-12-09 | 2022-07-29 |
-| [Shaky Shaky](https://open.spotify.com/track/7gcMKL3lnDxsp4bIXyv6Zk) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Shaky Shaky](https://open.spotify.com/album/0j74hxgbgc4THmz7rasxgn) | 3:54 | 2022-07-27 |  |
+| [Shaky Shaky](https://open.spotify.com/track/7gcMKL3lnDxsp4bIXyv6Zk) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Shaky Shaky](https://open.spotify.com/album/0j74hxgbgc4THmz7rasxgn) | 3:54 | 2022-07-27 | 2022-11-12 |
 | [Si Supieras](https://open.spotify.com/track/7MRU4vOkywuhZ9kbFiPuiu) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Si Supieras](https://open.spotify.com/album/4lmKt00bHLEeqJRTlNOxXS) | 4:01 | 2021-12-09 |  |
 | [Si Tú No Estás](https://open.spotify.com/track/5BAmltzhQpFXtBddPN4sUf) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Greatest Hits, Vol\. 1](https://open.spotify.com/album/5ytonwvl51xqB6BYnzX68U) | 3:38 | 2021-12-09 | 2022-07-29 |
 | [Si Tú No Estás](https://open.spotify.com/track/2pDODfTQlKUvlq2lc83Whl) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Si Tú No Estás](https://open.spotify.com/album/0amNwDcNVIINDp6zXfjxSg) | 3:38 | 2022-07-27 |  |
@@ -76,7 +77,8 @@
 | [Tanta Falta Remix](https://open.spotify.com/track/6GxEpbOvB4dXgRF2SLJliK) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Tanta Falta Remix](https://open.spotify.com/album/296ygxpV1TLiYxQqiMLrvu) | 3:01 | 2021-12-09 | 2022-07-29 |
 | [Te Busco](https://open.spotify.com/track/2M2WWJE863upPYUrzCRjN6) | [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Te Busco](https://open.spotify.com/album/1rvF6y0pavyw1cJHeibSnE) | 3:53 | 2021-12-09 | 2022-07-29 |
 | [Te Busco](https://open.spotify.com/track/2hi1aFllOFRNH8gIHxQvD9) | [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Te Busco](https://open.spotify.com/album/5mTPkLSMfQdLrb4DOXDQDh) | 3:53 | 2022-07-27 |  |
-| [Te Robaré](https://open.spotify.com/track/4PJ3umtW1aWdfh5EITHc6T) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Intimo](https://open.spotify.com/album/1CYQlkKE5Q0khU6eMwVAVt) | 3:21 | 2022-07-27 |  |
+| [Te Robaré](https://open.spotify.com/track/4PJ3umtW1aWdfh5EITHc6T) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Intimo](https://open.spotify.com/album/1CYQlkKE5Q0khU6eMwVAVt) | 3:21 | 2022-07-27 | 2022-11-12 |
+| [Te Robaré](https://open.spotify.com/track/4mVWg4OwQy9bDsgPYAutqK) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Reggaetón 2020 \- Éxitos Urbanos](https://open.spotify.com/album/72cMrdnkM1mJfvvIxvv4ya) | 3:21 | 2022-08-17 |  |
 | [Te Robaré](https://open.spotify.com/track/6v0lAdFF4haL8xjBIUjtOw) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Te Robaré](https://open.spotify.com/album/4ykGcrqJO8PcTePuNOFMxa) | 3:21 | 2021-12-09 | 2022-07-29 |
 | [Travesuras](https://open.spotify.com/track/2t7LjWmKWJV1X59zYaCsvy) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Travesuras](https://open.spotify.com/album/0bHiWhnjri1A0PSLEQE0He) | 3:15 | 2022-07-27 | 2022-11-11 |
 | [Travesuras](https://open.spotify.com/track/1PtL0YQRtq3qxDGUSwZPJ5) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Nicky Jam Hits](https://open.spotify.com/album/4etANPc5BMELu5yx987Rpx) | 3:15 | 2021-12-09 | 2022-07-29 |

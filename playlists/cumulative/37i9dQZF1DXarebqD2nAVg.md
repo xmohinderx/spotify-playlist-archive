@@ -4,7 +4,7 @@
 
 > Raw, sentimental feels.
 
-77 songs - 3 hr 7 min - [published](https://open.spotify.com/playlist/4EXf5AMaeP3Fe932ZLNuWq)
+78 songs - 3 hr 10 min - [published](https://open.spotify.com/playlist/4EXf5AMaeP3Fe932ZLNuWq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Driftwood](https://open.spotify.com/track/7JVfIv0ymBzxJNGuWpHbWZ) | [Fujitsu](https://open.spotify.com/artist/2a42gzUH51UAvwcfy0N6JT) | [Corals](https://open.spotify.com/album/1o5iflLRe5yh0B8o9gbbF4) | 2:04 | 2019-03-27 |  |
 | [emerald](https://open.spotify.com/track/09ekHMx7dXh7EQMAmNqUrD) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35) | [in.the.forest.we.are.wizards](https://open.spotify.com/album/6bG4Sy0DN6zYSi6kLlBJMF) | 2:34 | 2019-03-27 | 2022-07-29 |
 | [emerald](https://open.spotify.com/track/0kglaBttNwzxtNeDdWafej) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35) | [in.the.forest.we.are.wizards](https://open.spotify.com/album/5dtl7XhfdMYSmTBaBSuaTS) | 2:34 | 2019-03-27 |  |
-| [Frostthrone](https://open.spotify.com/track/50wKmfNUZppZJsAunClnYF) | [Mishaal](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g), [Madson Project.](https://open.spotify.com/artist/7dEFLdpxjmqhnv5ePvCTP7) | [Frostthrone](https://open.spotify.com/album/3WvdfonSJ1Rjz7hxHUcxcl) | 3:48 | 2019-03-27 |  |
+| [Frostthrone](https://open.spotify.com/track/50wKmfNUZppZJsAunClnYF) | [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g), [Madson Project.](https://open.spotify.com/artist/7dEFLdpxjmqhnv5ePvCTP7) | [Frostthrone](https://open.spotify.com/album/3WvdfonSJ1Rjz7hxHUcxcl) | 3:48 | 2019-03-27 |  |
 | [Gone](https://open.spotify.com/track/1s5sE20grtcHlIDOo0V883) | [jalowo](https://open.spotify.com/artist/2D78J8PPLKuEZqmArTFlQS) | [Cinemotional, Vol\. 2](https://open.spotify.com/album/46BBiaHMDLvG25ei4TUIdf) | 2:03 | 2019-03-27 |  |
 | [harbor](https://open.spotify.com/track/6rdaAm9JfVbwQUy6PVqNzv) | [shogonodo](https://open.spotify.com/artist/0AvxQyO8YtsZQn0OYqbNxx) | [harbor](https://open.spotify.com/album/7lUFGPgW9uDcFtVtji6ePc) | 2:12 | 2019-03-27 | 2022-07-29 |
 | [harbor](https://open.spotify.com/track/6pn1Irt9QHN3F0MSODlItV) | [shogonodo](https://open.spotify.com/artist/0AvxQyO8YtsZQn0OYqbNxx) | [harbor](https://open.spotify.com/album/1TUQ3R4sHrb8dDRA75QRYn) | 2:13 | 2019-03-27 |  |
@@ -81,8 +81,9 @@
 | [Why](https://open.spotify.com/track/44z4AP1yhEjcbihu5qdXsZ) | [Ohwell](https://open.spotify.com/artist/2bUPDZFoC3GlwJyEggn8Jj) | [Why](https://open.spotify.com/album/2CeXy96kABQhtJP2dsXr2a) | 1:14 | 2019-03-27 |  |
 | [Woozy](https://open.spotify.com/track/15yOoJ6KjB2945Nuzhdtey) | [Toonorth](https://open.spotify.com/artist/5cnRXRa8otbppSiXvfdmo3) | [Adomania](https://open.spotify.com/album/2MjfX0GYyRsVUdqHtGZP7D) | 1:30 | 2019-03-27 |  |
 | [Wretched](https://open.spotify.com/track/1rPy4B02RJf6NILtwBJpsu) | [Shrimpnose](https://open.spotify.com/artist/6My0aHQrZyz0vqqcf06s1D) | [Good Grief](https://open.spotify.com/album/0y8tstF4swTvZdDWYdsknY) | 2:10 | 2019-03-27 |  |
-| [YEAH RIGHT](https://open.spotify.com/track/1VGzxJnVQND7Cg5H5wGj14) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [BALLADS 1](https://open.spotify.com/album/34GQP3dILpyCN018y2k61L) | 2:54 | 2019-03-27 |  |
+| [YEAH RIGHT](https://open.spotify.com/track/1VGzxJnVQND7Cg5H5wGj14) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [BALLADS 1](https://open.spotify.com/album/34GQP3dILpyCN018y2k61L) | 2:54 | 2019-03-27 | 2022-11-12 |
 | [Yeah Right](https://open.spotify.com/track/2815rSBccLxZc67jEWBEvD) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Yeah Right](https://open.spotify.com/album/4lSynJxg1TaU4Mv0t9qz4c) | 2:54 | 2019-03-27 | 2022-07-29 |
+| [YEAH RIGHT \- Remix](https://open.spotify.com/track/2VdJmtAFT6oAzyk7DBlzuk) | [Laramka](https://open.spotify.com/artist/6U6cRPPnfTlme9kG2xoCYJ) | [YEAH RIGHT \(Remix\)](https://open.spotify.com/album/5epJTU7vBb4OqitAjk9w6O) | 2:55 | 2019-03-27 |  |
 | [You'r in My Head](https://open.spotify.com/track/0h7TlF8gKb61aSm874s3cV) | [moow](https://open.spotify.com/artist/4dGUoQuMs1zVpafybz4O9d), [Lotte Kestner](https://open.spotify.com/artist/0LmmhAkoebSsbFfgCybcGI) | [I Can't Tell You How Much It Hurts](https://open.spotify.com/album/0cJqUzKvnix8tJEVY2HjhR) | 1:37 | 2019-03-27 | 2022-07-29 |
 | [You're in My Head](https://open.spotify.com/track/4gz5ioUWuYkmtBGKXVZkXY) | [moow](https://open.spotify.com/artist/4dGUoQuMs1zVpafybz4O9d), [Lotte Kestner](https://open.spotify.com/artist/0LmmhAkoebSsbFfgCybcGI) | [I Can't Tell You How Much It Hurts](https://open.spotify.com/album/3f046S4KzdvS5pEmSDMofP) | 1:37 | 2019-03-27 |  |
 

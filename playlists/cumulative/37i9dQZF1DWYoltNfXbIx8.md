@@ -4,7 +4,7 @@
 
 > Uma playlist só com as origens do Rap nacional\. Foto: MV Bill
 
-98 songs - 9 hr 30 min - [published](https://open.spotify.com/playlist/17snTQx4nUc5vx1ksDMIHE)
+99 songs - 9 hr 36 min - [published](https://open.spotify.com/playlist/17snTQx4nUc5vx1ksDMIHE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,8 @@
 | [Us Mano e as Mina](https://open.spotify.com/track/75LqUvMAxMeEvcJsrVahB1) | [Xis](https://open.spotify.com/artist/1y8yhK12XTLCbWDs4aLgc1) | [Seja Como For](https://open.spotify.com/album/7I9xil7ukJrSkUY46RjMSd) | 4:39 | 2022-02-25 | 2022-07-29 |
 | [Us Mano e as Mina](https://open.spotify.com/track/4MzP4ITKbtQ9e844ZjJwIP) | [Xis](https://open.spotify.com/artist/1y8yhK12XTLCbWDs4aLgc1) | [Seja Como For \(Remasterizado\)](https://open.spotify.com/album/2EakaAF1aDE6yD08rq60iy) | 4:39 | 2022-02-25 |  |
 | [Verão na Vr](https://open.spotify.com/track/1zmrCI79qVk2BZJA6Skwdi) | [Sistema Negro](https://open.spotify.com/artist/0gTfX03fj7QzSbBTCRbpPI) | [Jogada Final](https://open.spotify.com/album/6l0hajkWQRFXLcdR5Pe455) | 6:33 | 2022-02-25 |  |
+| [Viajando Na Balada](https://open.spotify.com/track/4X7gsZvBDfhQyMGyoP6SYb) | [Somos Nós A Justiça](https://open.spotify.com/artist/4hPSDG97FxGlqYvKPU6b1B) | [Rap \- Edição Especial](https://open.spotify.com/album/20OITeapzgrpqEY0tny63t) | 5:11 | 2022-02-25 |  |
 | [Viajando Na Balada](https://open.spotify.com/track/1bJC1W4KGqqSQ58Vt4xQBx) | [Somos Nós A Justiça](https://open.spotify.com/artist/4hPSDG97FxGlqYvKPU6b1B) | [Se Tu Lutas Tu Conquistas](https://open.spotify.com/album/5EiEUPlz8hHCWC5jpF9Ms6) | 5:11 | 2022-02-25 | 2022-07-29 |
-| [Viajando Na Balada](https://open.spotify.com/track/6crVEDmeU57DebYfJnr7Qq) | [Somos Nós A Justiça](https://open.spotify.com/artist/4hPSDG97FxGlqYvKPU6b1B) | [Se Tu Lutas Tu Conquistas](https://open.spotify.com/album/0VmL8hxCqd5PwaxybyPASP) | 5:11 | 2022-02-25 |  |
+| [Viajando Na Balada](https://open.spotify.com/track/6crVEDmeU57DebYfJnr7Qq) | [Somos Nós A Justiça](https://open.spotify.com/artist/4hPSDG97FxGlqYvKPU6b1B) | [Se Tu Lutas Tu Conquistas](https://open.spotify.com/album/0VmL8hxCqd5PwaxybyPASP) | 5:11 | 2022-02-25 | 2022-11-12 |
 
 \*This playlist was first scraped on 2022-03-24. Prior content cannot be recovered.

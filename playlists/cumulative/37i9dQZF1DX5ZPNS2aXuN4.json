@@ -1648,6 +1648,28 @@
     },
     {
       "album": {
+        "name": "Bart\u00f3k: Complete Solo Piano Works",
+        "url": "https://open.spotify.com/album/2QGqrHVhT67lWT1MYO4lqB"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Zolt\u00e1n Kocsis",
+          "url": "https://open.spotify.com/artist/5Gi9bw3svtZMwonzcQG2wm"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279986,
+      "name": "Out Doors, BB 89, Sz. 81 - Volume 2: 4. The Night's Music",
+      "url": "https://open.spotify.com/track/35zhVPPe9YZJmk5IbUmImN"
+    },
+    {
+      "album": {
         "name": "Bart\u00f3k: Works for Solo Piano, Vol. 4",
         "url": "https://open.spotify.com/album/1wkpZYx1Fw5KtVrS4JZ8l6"
       },
@@ -1663,7 +1685,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 280000,
       "name": "Out Doors, BB 89, Sz. 81 - Volume 2: 4. The Night's Music",
       "url": "https://open.spotify.com/track/66to0qDs0qnH0m4I0VWDW0"
@@ -2655,7 +2677,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 629960,
       "name": "Violin Concerto No. 2, BB 117: II. Andante tranquillo",
       "url": "https://open.spotify.com/track/5ICjfrq4tShFH8GG905wkd"
@@ -2689,6 +2711,36 @@
       "duration_ms": 918026,
       "name": "Violin Concerto No. 2, Sz. 112: I. Allegro non troppo (excerpt)",
       "url": "https://open.spotify.com/track/6eJO3KPASyzKrVP9izfCEC"
+    },
+    {
+      "album": {
+        "name": "Bart\u00f3k: Violin Concertos Nos. 1 & 2",
+        "url": "https://open.spotify.com/album/2QWfldlmPWdPvrSJ42sguH"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Gy\u00f6rgy Pauk",
+          "url": "https://open.spotify.com/artist/4FHDvIlpvSVTpXXsfMsEK0"
+        },
+        {
+          "name": "Narodowa Orkiestra Symfoniczna Polskiego Radia",
+          "url": "https://open.spotify.com/artist/5wJU2iErPVY3o6ssijvY3H"
+        },
+        {
+          "name": "Antoni Wit",
+          "url": "https://open.spotify.com/artist/2OJaTm0rPZVyMA5k5s8vbh"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 625800,
+      "name": "Violin Concerto No. 2, Sz. 112: II. Andante tranquillo",
+      "url": "https://open.spotify.com/track/5eQzglLh0Hq8nj1Ow2X4E3"
     },
     {
       "album": {

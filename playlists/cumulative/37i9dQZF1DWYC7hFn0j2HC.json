@@ -242,6 +242,24 @@
     },
     {
       "album": {
+        "name": "Mis N\u00famero 1... Pa' Todo el A\u00f1o",
+        "url": "https://open.spotify.com/album/6JZ2h7P15MxTI8hHWOxBW2"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Alfredo Jimenez",
+          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184600,
+      "name": "Camino de Guanajuato",
+      "url": "https://open.spotify.com/track/5BRx13zPTL7euQtTNasI6O"
+    },
+    {
+      "album": {
         "name": "Corridos Y Rancheras",
         "url": "https://open.spotify.com/album/0RZ4nhnAHsZeYPtKMX16hf"
       },
@@ -307,10 +325,28 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 237426,
       "name": "Coplas de dos tipos de cuidado",
       "url": "https://open.spotify.com/track/3IBIwsWrPv2mpJa4SSfNGc"
+    },
+    {
+      "album": {
+        "name": "Grandes \u00c9xitos de Jorge Negrete",
+        "url": "https://open.spotify.com/album/6g2LAcYIVoHAJPrvQ3NfKe"
+      },
+      "artists": [
+        {
+          "name": "Jorge Negrete",
+          "url": "https://open.spotify.com/artist/4W5RbLZybsLfAzE7QqdibE"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242800,
+      "name": "Coplas de Dos Tipos de Cuidado",
+      "url": "https://open.spotify.com/track/6Df0zv5IRjldWdegFBF23Y"
     },
     {
       "album": {
@@ -743,7 +779,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 226455,
       "name": "Fallaste Coraz\u00f3n",
       "url": "https://open.spotify.com/track/0rUMr9AGCAaNhBWwCGgLl4"
@@ -869,7 +905,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 208440,
       "name": "Juan Charrasqueado",
       "url": "https://open.spotify.com/track/6N4N27KYUdgz7Ku1ZRTF4p"
@@ -891,6 +927,24 @@
       "duration_ms": 208440,
       "name": "Juan charrasqueado (remastered)",
       "url": "https://open.spotify.com/track/7uqgScMcvxaAJ2MkBudh2X"
+    },
+    {
+      "album": {
+        "name": "Viva M\u00e9xico (Remastered)",
+        "url": "https://open.spotify.com/album/5Vvkijcd0ytPuVRv6CMjJz"
+      },
+      "artists": [
+        {
+          "name": "Jorge Negrete",
+          "url": "https://open.spotify.com/artist/4W5RbLZybsLfAzE7QqdibE"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208426,
+      "name": "Juan Charrasqueado - Remastered",
+      "url": "https://open.spotify.com/track/4i0xJYVDfQ1dUXMOzO3s15"
     },
     {
       "album": {
@@ -1470,6 +1524,24 @@
     },
     {
       "album": {
+        "name": "Yo Soy Mexicano",
+        "url": "https://open.spotify.com/album/4m0LxvhdrLu0pUkR0VFzhJ"
+      },
+      "artists": [
+        {
+          "name": "Jorge Negrete",
+          "url": "https://open.spotify.com/artist/4W5RbLZybsLfAzE7QqdibE"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188533,
+      "name": "Serenata de Tapat\u00eda",
+      "url": "https://open.spotify.com/track/3V7s8dbbpCB2l8u8web2VZ"
+    },
+    {
+      "album": {
         "name": "Las 100 Clasicas Vol. 2",
         "url": "https://open.spotify.com/album/0A7PWw6nPn5DztmUhIICiG"
       },
@@ -1715,7 +1787,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 140998,
       "name": "\u00a1Ay Jalisco No Te Rajes! - Digitally Remastered",
       "url": "https://open.spotify.com/track/1nBvOJs88Bc4ViEGjnuexV"

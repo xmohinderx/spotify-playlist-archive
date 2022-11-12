@@ -4692,6 +4692,24 @@
     },
     {
       "album": {
+        "name": "The Only Exception",
+        "url": "https://open.spotify.com/album/6ssR342wWYZwPjYG35AWbG"
+      },
+      "artists": [
+        {
+          "name": "Katelyn Tarver",
+          "url": "https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262066,
+      "name": "The Only Exception",
+      "url": "https://open.spotify.com/track/6yBVp6DFh899CRaKww95Hr"
+    },
+    {
+      "album": {
         "name": "The Sweet Escape",
         "url": "https://open.spotify.com/album/3jCd27MDogNResJz6axMOP"
       },

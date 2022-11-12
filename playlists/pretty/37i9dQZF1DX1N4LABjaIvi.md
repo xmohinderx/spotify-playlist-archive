@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1N4LABjaIvi.md) - [plain]
 
 > Todo lo nuevo y lo esencial de Luciano en una sola lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,101 likes - 60 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,201 likes - 60 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1N4LABjaIvi.md) - [plain]
 | 5 | [Aunque Te Enamores](https://open.spotify.com/track/2qDQiPI2F0tMefcNQHGrQS) | [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW), [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Aunque Te Enamores](https://open.spotify.com/album/4m4KiRsQNV8wWvrfDgqBgA) | 2:10 |
 | 6 | [Que Suerte Tiene El](https://open.spotify.com/track/4Ns7smiEmRcJ9IZCDqJ0wz) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Hitazos Ruteros](https://open.spotify.com/album/2iM7TGRpyteJDz2gumsDBu) | 3:22 |
 | 7 | [Ahora](https://open.spotify.com/track/1K99rDEQIeW9M9FdHp2M5M) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Ahora](https://open.spotify.com/album/5ZR3yqdHl4rkEIKmCnGg2x) | 3:44 |
-| 8 | [Sin Testigos](https://open.spotify.com/track/45XPaGD819HyrMaQCQNRhS) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Luciano](https://open.spotify.com/album/2Cb4GVmEcVOHY2t958Xt4D) | 3:43 |
+| 8 | [Sin Testigos](https://open.spotify.com/track/2p9VQI8E0ebi36gJvtfWqo) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Mucha Música](https://open.spotify.com/album/1wVWthE4ftWURmAX6GVQqa) | 3:43 |
 | 9 | [Si No Es Muy Tarde \- En Vivo Luna Park / 2016](https://open.spotify.com/track/4evJzKiGMN9aXlLUIa69J7) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Si No Es Muy Tarde \(En Vivo Luna Park / 2016\)](https://open.spotify.com/album/7EwQYK20s9GcMX67V0falQ) | 4:06 |
 | 10 | [Te Estás Enamorando de Mí](https://open.spotify.com/track/0VKNy1fBPb3ZcMJE3v17VF) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Te Estás Enamorando de Mí](https://open.spotify.com/album/6dIOyfEblWiLaoRfJkNdLY) | 2:45 |
 | 11 | [Tu Dolor](https://open.spotify.com/track/5NK924P7dMa56U1uL2i4PI) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Noches Latinas](https://open.spotify.com/album/64IgNT7ZkTgZ9SsZqur0oM) | 3:54 |
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1N4LABjaIvi.md) - [plain]
 | 33 | [Como Siempre](https://open.spotify.com/track/0WCh8Ma4nPEKJvoZTcHPor) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU), [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62) | [Como Siempre](https://open.spotify.com/album/0uPL477tKrfnU7UzzyB2nU) | 3:06 |
 | 34 | [¿Para Qué Quieres Volver?](https://open.spotify.com/track/0DRB4J5qRJ4gNbJAuIEZwZ) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [¿Para Qué Quieres Volver?](https://open.spotify.com/album/1rByHoBuAPQcayS0fYEGul) | 3:07 |
 | 35 | [Seré \- Live](https://open.spotify.com/track/5LryS9a8i3XW9qx0z4I6rW) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Romántico En El Teatro Colón \(Live At Teatro Colón, Argentina / 2019\)](https://open.spotify.com/album/66terILLwOxCjnUvFDUnAi) | 5:19 |
-| 36 | [Quiero Que Te Quedes Conmigo](https://open.spotify.com/track/1fb7gThs5Lgu4GNitHC1PY) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Luciano](https://open.spotify.com/album/2Cb4GVmEcVOHY2t958Xt4D) | 2:59 |
+| 36 | [Quiero Que Te Quedes Conmigo](https://open.spotify.com/track/6HiTQvdQ7MpT2vFtSFzTTC) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Argentina Folclórica](https://open.spotify.com/album/2e2eBIsP6iNpB8lbxZbUOX) | 2:59 |
 | 37 | [En Busca De Los Dos \- Live](https://open.spotify.com/track/1dx7XGB8DyLj10X6o0Tlqe) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Romántico En El Teatro Colón \(Live At Teatro Colón, Argentina / 2019\)](https://open.spotify.com/album/66terILLwOxCjnUvFDUnAi) | 4:12 |
 | 38 | [Vivir A Tu Lado](https://open.spotify.com/track/7yG6pGlDiE5M63NAuHuqqv) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Música pal cora](https://open.spotify.com/album/0cGmhN8KKTabnZ0DQ8b77Y) | 3:34 |
 | 39 | [Quiero Volver](https://open.spotify.com/track/4Iyzbvj5VHyNfBLHmDiyxI) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Energía para las mañanas](https://open.spotify.com/album/6DxB5v9MV5JSPwiDRYRqIU) | 3:43 |
@@ -52,10 +52,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1N4LABjaIvi.md) - [plain]
 | 42 | [Será Mejor Medley \- En Vivo](https://open.spotify.com/track/5b7dwvZRy5mCZXyca2gszV) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [\#TuMano En Vivo](https://open.spotify.com/album/3RkJ014vEJFNOjqvnQWXn5) | 12:27 |
 | 43 | [Puede Suceder](https://open.spotify.com/track/7tTnUNnrUH3dQ5oCPyrB4T) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Dispuesto A Amarte](https://open.spotify.com/album/2TjcppxUUfwFZ7H9XAxwfw) | 3:59 |
 | 44 | [Juntos En La Vida \- Bonus Track](https://open.spotify.com/track/5wkgCJO4qMxrQnSIwp7LKm) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [\#TuMano En Vivo](https://open.spotify.com/album/3RkJ014vEJFNOjqvnQWXn5) | 3:13 |
-| 45 | [Una Noche De Amor](https://open.spotify.com/track/5LyB0fuSLZsKKbgGBduwHU) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Luciano](https://open.spotify.com/album/2Cb4GVmEcVOHY2t958Xt4D) | 3:53 |
+| 45 | [Una Noche De Amor](https://open.spotify.com/track/3o6hhOrBPZHOHGPkvQG7OR) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Mes del Amor](https://open.spotify.com/album/3kUXIJPEir21H7pCHtHqkn) | 3:53 |
 | 46 | [Por Volverte A Ver](https://open.spotify.com/track/1hLCHrOE3HUdA9XLucEgfL) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU), [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Mejor de a dos](https://open.spotify.com/album/1LHyI9hR9YjeQfVMjiYemi) | 4:04 |
 | 47 | [Amor En Silencio](https://open.spotify.com/track/0d6jcLcqLCSQ0hLwbKnbd2) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Amor En Silencio](https://open.spotify.com/album/5mrebxYgmW2IZV9U21o3Mw) | 3:46 |
-| 48 | [Me Gusta](https://open.spotify.com/track/7HbfNjd2TY64DeCidC7mhm) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Soy Tuyo](https://open.spotify.com/album/75UJv8LULojeRTLWrhHPOf) | 4:22 |
+| 48 | [Me Gusta](https://open.spotify.com/track/6qxfYjCRtcc8psb6aGD5as) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Soy Tuyo](https://open.spotify.com/album/4X3xiOeAP7xY7cyd89ESDV) | 4:22 |
 | 49 | [Luz De Mis Ojos](https://open.spotify.com/track/2Lzq3f8WDhkg1402IlEYCR) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Luciano](https://open.spotify.com/album/2Cb4GVmEcVOHY2t958Xt4D) | 3:41 |
 | 50 | [Un Mundo Ideal](https://open.spotify.com/track/4wyx0IQZn01l3UTurIR0NN) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Tardes de Galletas y Chocolates](https://open.spotify.com/album/6o6stv8Sv9XdpmoDFB2zWM) | 3:20 |
 | 51 | [No Quisiera Quererte](https://open.spotify.com/track/2Q4UyEWcfs8QzXwADlmGyu) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Clásicos del Folklore](https://open.spotify.com/album/690LjHI6oNlyRmOgwPm8ej) | 3:28 |
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1N4LABjaIvi.md) - [plain]
 | 53 | [Bajo la Sombra de un Árbol](https://open.spotify.com/track/5Jq1FEHslo8xNloO9CHtC0) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU), [Peteco Carabajal](https://open.spotify.com/artist/5gii2fYcxLoUHWd1lWe4aT) | [Sin Estribos](https://open.spotify.com/album/2lFIjlBjuK7275OXuyjlPR) | 3:38 |
 | 54 | [Mar De Amor](https://open.spotify.com/track/3HBOPvS56T1dmEpKRxaOJU) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Recordándote](https://open.spotify.com/album/3dMMO1ZRDwgZy8gjhbyn8V) | 2:39 |
 | 55 | [Cuentos De Amor](https://open.spotify.com/track/4thse65gf8ELnKPhJ39nLr) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Quiero Folclore](https://open.spotify.com/album/55arX0p3dpmKppOSmXyNmK) | 2:57 |
-| 56 | [Con Todo Y Mi Tristeza](https://open.spotify.com/track/2JqdigoVWQNWwbPf0N9wbS) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Amaneciendo](https://open.spotify.com/album/2mwNRP6pKKgjAAC1zSmKDF) | 4:07 |
+| 56 | [Con Todo Y Mi Tristeza](https://open.spotify.com/track/5TXWYAzQ8rcJNcKrYhKfuI) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Folclore por las venas](https://open.spotify.com/album/6J4zZ0GDcrNU1o1TgmHSdx) | 4:07 |
 | 57 | [Yo No Se Que Me Han Hecho Tus Ojos](https://open.spotify.com/track/1fWVcl28j0PoHicOWKJjvy) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Grandes Éxitos](https://open.spotify.com/album/07R9tu4qZnWCviNTWHKvNS) | 3:44 |
 | 58 | [Me Mentiste](https://open.spotify.com/track/3I0BY51N78SJsuRrDohDFk) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Me Mentiste](https://open.spotify.com/album/6gxRNiuPDWxbaFTN556rEj) | 2:44 |
 | 59 | [Historia De Amor](https://open.spotify.com/track/7u2MP6s7HEHVEIDkcRRdcK) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Siestas al sol](https://open.spotify.com/album/264OfsVrD86xAK0etuaR3P) | 4:12 |
 | 60 | [Tu Mano](https://open.spotify.com/track/7GTGVk6D7jrRN6AjQXrI8G) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Estilo Romántico](https://open.spotify.com/album/2Jz0lXj2tcyaCCyAe3nnw2) | 3:45 |
 
-Snapshot ID: `MTY0Mzk3OTgxNiwwMDAwMDAwMGRjZmY3NjZlZGYxMzRlNmMxZjE1MmI3OTRhNjVjZGUy`
+Snapshot ID: `MTY0Mzk3OTgxNiwwMDAwMDAwMDM0NDQ3ZDZlZjc3MGJmNzYxZmNlZmYzN2Y5ZjM1Zjhl`

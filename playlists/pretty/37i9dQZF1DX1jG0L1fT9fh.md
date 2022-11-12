@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jG0L1fT9fh.md) - [plain]
 
 > Enjoy music from "KENGAN ASHURA"! "音楽で辿る、Netflixオリジナルアニメシリーズ「ケンガンアシュラ」の世界。
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,522 likes - 40 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,548 likes - 40 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sorrow Like Lightning / Ai\-shiden\-issen](https://open.spotify.com/track/5UnQWHa6w10et1huDEtoII) | [Happy Heads NANIYORI](https://open.spotify.com/artist/6jkKuw4J4SWKrPQCcPGEYl) | [Aishidenissen](https://open.spotify.com/album/4kv18tu0MEWXpzIz5WDmQO) | 3:14 |
 | 2 | [Ashura](https://open.spotify.com/track/3s0gzo5HXzWsNWIZehFEGP) | [TAEYO](https://open.spotify.com/artist/2nZaGgjgDDlxleFV47azlV) | [Ashura](https://open.spotify.com/album/2t9jICyK70zMX3ESeb2X1C) | 2:24 |
-| 3 | [King & Ashley](https://open.spotify.com/track/3TeMXdcKef8xeWrjepm2IP) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [King & Ashley](https://open.spotify.com/album/31usMFo80loZLgeHF7yljO) | 3:23 |
+| 3 | [King & Ashley](https://open.spotify.com/track/6Es6em3IFz10fiXsoz7VSG) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [The Anthems](https://open.spotify.com/album/3IN2b696fNjU1amGL72mGX) | 3:24 |
 | 4 | [Born This Way](https://open.spotify.com/track/7nTUrBZ75T323NFQUIAUjC) | [BAD HOP](https://open.spotify.com/artist/3FCZbxRcaSgYfklG2HCFh2), [Yzer](https://open.spotify.com/artist/6ddEkqVqLpfgQwaGQGMXCQ), [Vingo](https://open.spotify.com/artist/7s0XITv7PpvCkdr0rKWQqH), [Bark](https://open.spotify.com/artist/2Bcv6wxg5utKznPPCiOxvm) | [The Anthems](https://open.spotify.com/album/3IN2b696fNjU1amGL72mGX) | 2:47 |
 | 5 | [Kengan](https://open.spotify.com/track/6TAg3R8ku21TdzZxjzxcBM) | [Yasuharu Takanashi](https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o) | [Kengan Ashura Original Soundtrack](https://open.spotify.com/album/4RWidQYHU2iYiQd45LbwqD) | 1:58 |
 | 6 | [Gekitotsu](https://open.spotify.com/track/1a3zRVtzkUWPv2BydOJD6D) | [Yasuharu Takanashi](https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o) | [Kengan Ashura Original Soundtrack](https://open.spotify.com/album/4RWidQYHU2iYiQd45LbwqD) | 2:13 |
@@ -42,11 +42,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jG0L1fT9fh.md) - [plain]
 | 32 | [The Opera House of Illusions](https://open.spotify.com/track/5Kub0TfM6VtZM4aUPMLksB) | [Emille's Moonlight Serenade](https://open.spotify.com/artist/6WefiwN2CEiEf8y5wyl2Rx) | [Gengaku Horror House](https://open.spotify.com/album/3GASUfKPKUcxOEPWSBMzxq) | 5:59 |
 | 33 | [Here It Comes\-Ogre](https://open.spotify.com/track/1YlQD45CGr7z2ZZzKP3FQr) | [K\-A\-Z](https://open.spotify.com/artist/5DhycJUgBtSUvUuLPPTZFc) | [The Anthems](https://open.spotify.com/album/3IN2b696fNjU1amGL72mGX) | 5:58 |
 | 34 | [Karuma](https://open.spotify.com/track/3GCKrG98s94uax7AVa3eOO) | [Amaterasu](https://open.spotify.com/artist/57Jp2FcAxMLH8UpSGhRBWG) | [The Anthems](https://open.spotify.com/album/3IN2b696fNjU1amGL72mGX) | 4:57 |
-| 35 | [Cyber Moon](https://open.spotify.com/track/7ki0Hij3iEmpgpCUSmmFo2) | [Rie a.k.a\. Suzaku](https://open.spotify.com/artist/4fK9DBwFEOUlBeAGpsf317) | [Kingdom of the Sun](https://open.spotify.com/album/01z8YeW6P5smczs2o6v5tw) | 3:38 |
+| 35 | [Cyber Moon](https://open.spotify.com/track/2sYlD3j9d9c1BOctT2BuYz) | [Rie a.k.a\. Suzaku](https://open.spotify.com/artist/4fK9DBwFEOUlBeAGpsf317) | [Best of Instrumental](https://open.spotify.com/album/7eEkSQIKWauNBGMuHDlbSa) | 3:38 |
 | 36 | [The Fall](https://open.spotify.com/track/6Uz9WOKaZNpTApx0E1Rnot) | [Alice In Hell](https://open.spotify.com/artist/7mHNLf3TP7WwIkNXuw3050) | [The Anthems](https://open.spotify.com/album/3IN2b696fNjU1amGL72mGX) | 3:21 |
 | 37 | [The Emperor](https://open.spotify.com/track/6YJxp0Lkm5mR3VVDoriHSV) | [Zing!](https://open.spotify.com/artist/6EbdfiSSNNCWQuBf050z8T), [Rapbit](https://open.spotify.com/artist/7qtLoCkVxJO9Kykqnpngi1), [Kento Hama](https://open.spotify.com/artist/5mkifMgDqmOi6qKZMkboOf) | [The Anthems](https://open.spotify.com/album/3IN2b696fNjU1amGL72mGX) | 3:59 |
 | 38 | [Kaisen](https://open.spotify.com/track/5bLRqYAgLYiA04kUGukwT6) | [Yasuharu Takanashi](https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o) | [Kengan Ashura Original Soundtrack](https://open.spotify.com/album/4RWidQYHU2iYiQd45LbwqD) | 3:21 |
 | 39 | [Shitou](https://open.spotify.com/track/0KAdaH8W42wWW0WE8uE8Lh) | [Yasuharu Takanashi](https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o) | [Kengan Ashura Original Soundtrack](https://open.spotify.com/album/4RWidQYHU2iYiQd45LbwqD) | 2:32 |
 | 40 | [Eccentric Parade](https://open.spotify.com/track/0neSATRBSylvwnttpqxUwK) | [Akinari Suzuki](https://open.spotify.com/artist/6BZSloar9skDGo2lVsveeC) | [Kengan Ashura Original Soundtrack](https://open.spotify.com/album/4RWidQYHU2iYiQd45LbwqD) | 3:37 |
 
-Snapshot ID: `MTYyMjAwOTc2MSwwMDAwMDAwMGRjNmQzNjYxZDU5MDUxM2JmOTMyZTA1NDUzNjM5OTI1`
+Snapshot ID: `MTYyMjAwOTc2MSwwMDAwMDAwMDMxYjE3NzJkZDA2ZmIxODE4NDA3MTRmNjQzMDFlYTA1`

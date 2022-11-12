@@ -251,7 +251,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 231500,
       "name": "Avec Gang",
       "url": "https://open.spotify.com/track/3iNTexknoEaPnvU2y1VNGH"
@@ -423,7 +423,7 @@
           "url": "https://open.spotify.com/artist/6Z9jFhogCbjbbzlHlE2MIn"
         }
       ],
-      "date_added": "2022-11-09",
+      "date_added": "2022-11-04",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 232900,
@@ -497,7 +497,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 279785,
       "name": "Beastmode",
       "url": "https://open.spotify.com/track/5vYQpxkQkWhOj7tx44byhk"
@@ -3387,7 +3387,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-13",
+      "date_removed": null,
       "duration_ms": 303942,
       "name": "Lankershim Stroll",
       "url": "https://open.spotify.com/track/3LHETC47Ll94QcwN1Y0gMx"
@@ -4147,6 +4147,24 @@
       "duration_ms": 280191,
       "name": "Miss\u00e3o - Phaeleh Remix",
       "url": "https://open.spotify.com/track/4oZBL99pTAzpuGdZhjmpYq"
+    },
+    {
+      "album": {
+        "name": "MK Ultra",
+        "url": "https://open.spotify.com/album/65sXJcNAQkp3yUAV46SIMq"
+      },
+      "artists": [
+        {
+          "name": "Visages",
+          "url": "https://open.spotify.com/artist/1QEJm4mWKmrboH7if0CYoL"
+        }
+      ],
+      "date_added": "2022-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329825,
+      "name": "MK Ultra",
+      "url": "https://open.spotify.com/track/7326GqGYEL8T0nG6uSt5TZ"
     },
     {
       "album": {
@@ -5395,6 +5413,28 @@
       "duration_ms": 277933,
       "name": "Roots Music",
       "url": "https://open.spotify.com/track/47Q2U9ao1PdM1VAYz0eVUl"
+    },
+    {
+      "album": {
+        "name": "Rush Hour",
+        "url": "https://open.spotify.com/album/4yzJhjAl7SAtvl2TLmCwPd"
+      },
+      "artists": [
+        {
+          "name": "Black Carl!",
+          "url": "https://open.spotify.com/artist/07oZEFDySnjPl7vqqD8XSq"
+        },
+        {
+          "name": "Saka",
+          "url": "https://open.spotify.com/artist/78JjBYPpCRwGwaZff4qQrv"
+        }
+      ],
+      "date_added": "2022-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246857,
+      "name": "Rush Hour",
+      "url": "https://open.spotify.com/track/1pV7JC2ClVZP4hQIuzM8wN"
     },
     {
       "album": {
@@ -7435,7 +7475,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 291437,
       "name": "Wayside",
       "url": "https://open.spotify.com/track/7axXCD13byjnziiRZutoRX"

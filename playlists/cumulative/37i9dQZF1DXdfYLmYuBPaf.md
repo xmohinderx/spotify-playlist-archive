@@ -4,7 +4,7 @@
 
 > Reggae tracks from the Arab world\. Cover: <a href="spotify:artist:6Gej8kFQeKbjY7dS9HXu1w">Ahmed Ben Ali</a>
 
-69 songs - 4 hr 37 min - [published](https://open.spotify.com/playlist/0GoQG8PRV51P9Lf8L1GQ1U)
+70 songs - 4 hr 42 min - [published](https://open.spotify.com/playlist/0GoQG8PRV51P9Lf8L1GQ1U)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,8 +57,9 @@
 | [Selem selem alikoum](https://open.spotify.com/track/4FrN0UeXDXMMjwdVWZKG8M) | [Jimmy Oihid](https://open.spotify.com/artist/1NCgkTTXC4rzdoh5xZPhAn) | [Oriental Roots](https://open.spotify.com/album/7EjIvFhQ0MFnDOneE274ZU) | 3:41 | 2021-08-11 |  |
 | [Sky Is the Limit](https://open.spotify.com/track/5uxVUEUGkPChGLyL9qTuqt) | [Dub Afrika](https://open.spotify.com/artist/3Ygncis5SCdY1uk31LZam6) | [Sky Is the Limit](https://open.spotify.com/album/46UmPpN9g4z1zUkg4gp81f) | 3:42 | 2021-08-11 |  |
 | [Soudani](https://open.spotify.com/track/4PH29GIlJAYrQse5wQ1fIV) | [Hamid El Gnawi](https://open.spotify.com/artist/4xLi9gEjLRTw3MdQYwrfYG) | [Gnawa Fusion, Vol\. 1](https://open.spotify.com/album/1KYi4Hx9USuRDd8Ruu2Rap) | 5:12 | 2021-08-11 |  |
+| [Subhana](https://open.spotify.com/track/28pnHNZWzhn2HJ13zatziE) | [Ahmed Ben Ali](https://open.spotify.com/artist/6Gej8kFQeKbjY7dS9HXu1w) | [Subhana \(Habibi Funk 012\)](https://open.spotify.com/album/53dT1l75UAQQlqCRl2IZRY) | 5:00 | 2021-08-11 |  |
 | [Subhana](https://open.spotify.com/track/6pVRs13wFVFyZrCgONzpAM) | [Ahmed Ben Ali](https://open.spotify.com/artist/6Gej8kFQeKbjY7dS9HXu1w) | [Subhana \(Habibi Funk 012\)](https://open.spotify.com/album/3siDndXTdBZqnO8mJiV3uY) | 5:00 | 2021-08-11 | 2022-07-29 |
-| [Subhana](https://open.spotify.com/track/6sDmNtyDHv4WModGvSiRSd) | [Ahmed Ben Ali](https://open.spotify.com/artist/6Gej8kFQeKbjY7dS9HXu1w) | [Subhana \(Habibi Funk 012\)](https://open.spotify.com/album/2ppquFRzC1KIUJC1Sjv2Eo) | 5:00 | 2021-08-11 |  |
+| [Subhana](https://open.spotify.com/track/6sDmNtyDHv4WModGvSiRSd) | [Ahmed Ben Ali](https://open.spotify.com/artist/6Gej8kFQeKbjY7dS9HXu1w) | [Subhana \(Habibi Funk 012\)](https://open.spotify.com/album/2ppquFRzC1KIUJC1Sjv2Eo) | 5:00 | 2021-08-11 | 2022-11-12 |
 | [Tika Tika](https://open.spotify.com/track/7cBLZYvbnaAKyN0O11i67D) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv), [Tchotcho](https://open.spotify.com/artist/3UG63kf0QuUZSTK15rJtkb) | [Tika Tika](https://open.spotify.com/album/1ogbmkyRQwWGGz99qT3NRQ) | 3:14 | 2021-08-11 | 2022-07-29 |
 | [Tika Tika](https://open.spotify.com/track/7Ii3cWYMiQt18YiZbkYOJh) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv), [Tchotcho](https://open.spotify.com/artist/3UG63kf0QuUZSTK15rJtkb) | [Tika Tika](https://open.spotify.com/album/2TxQgwTTSlAjmx6M5ln2oq) | 3:14 | 2021-08-11 |  |
 | [Wailou Wailou](https://open.spotify.com/track/3RgksXVnjthMnLshINQfaw) | [Najwa Farouk](https://open.spotify.com/artist/0nGyyjulhM4IB5kNqyKvGq) | [Najwa Farouk Essentiels](https://open.spotify.com/album/7op66gekUCPSCRtX74E2cW) | 2:33 | 2021-08-11 |  |

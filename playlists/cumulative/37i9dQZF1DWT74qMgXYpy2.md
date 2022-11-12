@@ -4,7 +4,7 @@
 
 > Flute and fiddle, drums and drops.
 
-90 songs - 6 hr 39 min - [published](https://open.spotify.com/playlist/2xJUsXL10xTMGcRnqRGJHk)
+91 songs - 6 hr 43 min - [published](https://open.spotify.com/playlist/2xJUsXL10xTMGcRnqRGJHk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,8 +42,9 @@
 | [Into the Light](https://open.spotify.com/track/4CRFusPzKiPpRr7hWOoaUk) | [Ímar](https://open.spotify.com/artist/0BdsizQXvwb1BPeEKqfuVs) | [Afterlight](https://open.spotify.com/album/43DarYsvUv9ljGzt666wqr) | 3:57 | 2020-11-11 |  |
 | [Kadisha](https://open.spotify.com/track/02FrlgjziTVbewcolGVdrI) | [The Trials of Cato](https://open.spotify.com/artist/4IeC7nJG3VMbzXlObCCsYC) | [Hide and Hair](https://open.spotify.com/album/4tzSvK1Mo2GsW9jcIXrBd0) | 5:05 | 2020-11-11 |  |
 | [Kings](https://open.spotify.com/track/2t6dq7278w9vxw0PDqz8OE) | [Ross Ainslie](https://open.spotify.com/artist/5qP1QgTFbxBrG4WXN0gRrq), [Ali Hutton](https://open.spotify.com/artist/72zr6hTSr85kBmNqaCMtwh) | [Symbiosis II](https://open.spotify.com/album/3EpS355iRGU2E2CFG0HMoq) | 6:29 | 2020-11-11 |  |
+| [Knees Up](https://open.spotify.com/track/0lkkDlHWpgpPWWQOQqvQjx) | [Breabach](https://open.spotify.com/artist/1HyT0AtzTH5lVzlm8yQgbI) | [Knees Up](https://open.spotify.com/album/2mDsVuMML0onkMQCY8A71X) | 3:27 | 2020-11-11 |  |
 | [Knees Up](https://open.spotify.com/track/0w9DLBvg5p0sl16z0Qn8Ry) | [Breabach](https://open.spotify.com/artist/1HyT0AtzTH5lVzlm8yQgbI) | [Frenzy of the Meeting](https://open.spotify.com/album/1dKru5DafMfAT372Ps1V8R) | 3:27 | 2020-11-11 | 2022-07-29 |
-| [Knees Up](https://open.spotify.com/track/49RXdBY5e5w0iutd2OwloU) | [Breabach](https://open.spotify.com/artist/1HyT0AtzTH5lVzlm8yQgbI) | [Frenzy of the Meeting](https://open.spotify.com/album/2sywyHAUIELn9C4XNbVG7g) | 3:27 | 2020-11-11 |  |
+| [Knees Up](https://open.spotify.com/track/49RXdBY5e5w0iutd2OwloU) | [Breabach](https://open.spotify.com/artist/1HyT0AtzTH5lVzlm8yQgbI) | [Frenzy of the Meeting](https://open.spotify.com/album/2sywyHAUIELn9C4XNbVG7g) | 3:27 | 2020-11-11 | 2022-11-12 |
 | [Let Ramensky Go](https://open.spotify.com/track/0jwwsNQKAZIMYXr9kh00Fe) | [Claire Hastings](https://open.spotify.com/artist/61AuimKILFw6yaMHOwwfTh) | [Between River and Railway](https://open.spotify.com/album/60rYkVRoKbS0yZwaPIs648) | 3:57 | 2020-11-11 | 2022-07-29 |
 | [Let Ramensky Go](https://open.spotify.com/track/3lJEdmXJRDdCx4AMeGfVqd) | [Claire Hastings](https://open.spotify.com/artist/61AuimKILFw6yaMHOwwfTh) | [Between River and Railway](https://open.spotify.com/album/3AsOLSILgLyvcSNd5NQjHt) | 3:57 | 2020-11-11 |  |
 | [Lullaby](https://open.spotify.com/track/7gwa7ucwGF6KlBpvn3sIEL) | [Lankum](https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z) | [Cold Old Fire](https://open.spotify.com/album/77RgTgt3go7p8k35zmwqsT) | 5:31 | 2020-11-11 |  |

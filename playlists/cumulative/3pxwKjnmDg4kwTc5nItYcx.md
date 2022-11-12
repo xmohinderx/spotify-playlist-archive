@@ -4,7 +4,7 @@
 
 > Let your mind float away with these down\-tempo easy listening tracks\. Cover: Genevieve Stokes
 
-645 songs - 1 day 10 hr 51 min - [published](https://open.spotify.com/playlist/131I5jMqZujDbJb8JAE5m8)
+646 songs - 1 day 10 hr 53 min - [published](https://open.spotify.com/playlist/131I5jMqZujDbJb8JAE5m8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [Dreams](https://open.spotify.com/track/1K0Shi82LENoyXxAjJj8XG) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Dreams](https://open.spotify.com/album/6wAglOLfrqaHTBY8LmUcUF) | 3:35 | 2021-01-08 |  |
 | [Dreams \- 2004 Remaster](https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 4:17 | 2020-10-15 |  |
 | [Driveway](https://open.spotify.com/track/31kjORmT1nNkMjqaZp8ATH) | [Late June](https://open.spotify.com/artist/5zMJZTfga0uJURmLLymnoh), [Courtney Drummey](https://open.spotify.com/artist/4sF2Kkq3hn0yTEGTNfanGl) | [Driveway](https://open.spotify.com/album/1PQvSiT0XqpDKDJm8yZNUK) | 2:25 | 2021-04-13 |  |
+| [DRIVING](https://open.spotify.com/track/7GT3vqR1ClCIgsOUtegETd) | [Stevan](https://open.spotify.com/artist/24RDdXWdq95PlTMTpFTvC6) | [DRIVING](https://open.spotify.com/album/3wDpJ2oaji80033791QTSp) | 2:39 | 2022-11-11 |  |
 | [Drunk Talk](https://open.spotify.com/track/36FYP4AmrrnRi5ytvPMyGB) | [Jack Gray](https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw) | [Drunk Talk](https://open.spotify.com/album/7cwmLDx2MjQiTGFRvbYXzj) | 3:29 | 2019-08-27\* | 2019-11-11 |
 | [Dum Dum Dum \- Stripped Down Remix](https://open.spotify.com/track/6cngLez2baDrhqmijvZt69) | [Tvilling](https://open.spotify.com/artist/2AX5R5SIikV7NGMOZupAGm) | [Dum Dum Dum \(Stripped Down Remix\)](https://open.spotify.com/album/41nEpQq5Sff1nt5nOCxTeP) | 2:59 | 2020-12-18 | 2021-05-12 |
 | [dumbass](https://open.spotify.com/track/61vyrw41EkR5koGRjKMFkz) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [dumbass](https://open.spotify.com/album/5eYuByaxRTwzGPoW7rEiiP) | 2:42 | 2020-01-31 | 2020-05-19 |

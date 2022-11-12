@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "20 Grandes Exitos",
+        "url": "https://open.spotify.com/album/15BImV1p0VDe9oDL1GdAj5"
+      },
+      "artists": [
+        {
+          "name": "Chaque\u00f1o Palavecino",
+          "url": "https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3"
+        }
+      ],
+      "date_added": "2022-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149093,
+      "name": "A Don Amancio",
+      "url": "https://open.spotify.com/track/3o4NjXoZe5ahhS6NIlAZHk"
+    },
+    {
+      "album": {
         "name": "Chaque\u00f1adas",
         "url": "https://open.spotify.com/album/56iNtYlcmkViyQhjah60Kb"
       },
@@ -707,7 +725,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 416573,
       "name": "Candombe del Olvido",
       "url": "https://open.spotify.com/track/6fdZSdKd2ukOJ9rYH559ru"
@@ -725,7 +743,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 178186,
       "name": "Candombe para Jose",
       "url": "https://open.spotify.com/track/5DWCoojpitiZmqvmfbIMVl"
@@ -1147,7 +1165,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 177720,
       "name": "Cuando Ya Nadie Te Nombre",
       "url": "https://open.spotify.com/track/5RyS7JpzPMacnkKzQIpeka"
@@ -1367,7 +1385,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 231813,
       "name": "El Alazan",
       "url": "https://open.spotify.com/track/28AbmVT1sueLjRRYV984WI"
@@ -1457,7 +1475,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 146373,
       "name": "El Escondido - En Vivo",
       "url": "https://open.spotify.com/track/77uewrFQboHT7EkiXP8tTx"
@@ -1965,7 +1983,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 235386,
       "name": "La Cautiva",
       "url": "https://open.spotify.com/track/15cSWHIrhn61e77VJ6uqYZ"
@@ -2055,7 +2073,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-19",
+      "date_removed": null,
       "duration_ms": 188400,
       "name": "La Enga\u00f1era",
       "url": "https://open.spotify.com/track/4CW7J5XQGm24KMXD6euxfM"
@@ -2203,7 +2221,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 242893,
       "name": "La Lopez Pereyra",
       "url": "https://open.spotify.com/track/7DwLCYC4Vd9YUDjRsEgVw5"
@@ -2311,7 +2329,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-20",
+      "date_removed": null,
       "duration_ms": 211533,
       "name": "La Pastorcita Perdida",
       "url": "https://open.spotify.com/track/36wpfInAPheD9NuswqTR3f"
@@ -2477,7 +2495,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 170733,
       "name": "La Yapa",
       "url": "https://open.spotify.com/track/0gcZzig5VyR2MHSjCM5FbV"
@@ -3113,7 +3131,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 161773,
       "name": "Recuerdo Salte\u00f1o",
       "url": "https://open.spotify.com/track/3esSMzPYxYBnW6ARIgr4Oo"
@@ -3269,7 +3287,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 201640,
       "name": "Si Se Calla El Cantor",
       "url": "https://open.spotify.com/track/2P7OgqbN6vtwsAvJnXh7q5"
@@ -3495,6 +3513,24 @@
       "duration_ms": 269155,
       "name": "Tiempo al Tiempo",
       "url": "https://open.spotify.com/track/2U9KaZRDXuSsQ4Hi3aoCYP"
+    },
+    {
+      "album": {
+        "name": "Tierra Colorada en el Teatro Col\u00f3n: Chango Spasiuk en Concierto (En Vivo en el Teatro Col\u00f3n)",
+        "url": "https://open.spotify.com/album/502Tc6vY1fm9WQ9ceBhsZg"
+      },
+      "artists": [
+        {
+          "name": "Chango Spasiuk",
+          "url": "https://open.spotify.com/artist/0qGRkfnUqWeG49vbCv6rMY"
+        }
+      ],
+      "date_added": "2022-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288866,
+      "name": "Tierra Colorada - En Vivo en el Teatro Col\u00f3n",
+      "url": "https://open.spotify.com/track/4A2Gnw92jmcEWpFba6i7x9"
     },
     {
       "album": {

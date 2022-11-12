@@ -1,13 +1,29 @@
 {
   "description": "The pulse of new indie rock. Featuring new music by The Backseat Lovers.",
-  "num_followers": 838362,
+  "num_followers": 838548,
   "original_name": "Today's Indie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Nzg0MDQ4NywwMDAwMDAwMDFjZGI1NjQ4NjM2ZmJiMzgxYzlkOTM0Y2FjYTVmZTBk",
+  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMGFhMDIxM2MzMGQ1YThjY2Y1MmRmYmQwZmJlYjcwODMw",
   "tracks": [
+    {
+      "added_at": "2022-10-28 04:05:00",
+      "album": {
+        "name": "Waiting to Spill",
+        "url": "https://open.spotify.com/album/2Gb2plO2TkNRIgoCuJGm7C"
+      },
+      "artists": [
+        {
+          "name": "The Backseat Lovers",
+          "url": "https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI"
+        }
+      ],
+      "duration_ms": 197746,
+      "name": "Snowbank Blues",
+      "url": "https://open.spotify.com/track/3SsGrCb1eaSpGhRDqPaTln"
+    },
     {
       "added_at": "2022-09-30 05:45:00",
       "album": {
@@ -41,6 +57,22 @@
       "url": "https://open.spotify.com/track/21rpBPAlXAvBavvu5kCQzs"
     },
     {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Cooking",
+        "url": "https://open.spotify.com/album/1a48ZfwsNdTMdy3NNrdeh7"
+      },
+      "artists": [
+        {
+          "name": "Current Joys",
+          "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
+        }
+      ],
+      "duration_ms": 171315,
+      "name": "Cooking",
+      "url": "https://open.spotify.com/track/6QS1OLPLLjKiZsdIs9GUdi"
+    },
+    {
       "added_at": "2022-11-04 04:05:00",
       "album": {
         "name": "Attaboy",
@@ -55,22 +87,6 @@
       "duration_ms": 213530,
       "name": "Start This Over",
       "url": "https://open.spotify.com/track/3rghzWiJzh59FHeec1hcfK"
-    },
-    {
-      "added_at": "2022-10-28 04:05:00",
-      "album": {
-        "name": "Waiting to Spill",
-        "url": "https://open.spotify.com/album/2Gb2plO2TkNRIgoCuJGm7C"
-      },
-      "artists": [
-        {
-          "name": "The Backseat Lovers",
-          "url": "https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI"
-        }
-      ],
-      "duration_ms": 197746,
-      "name": "Snowbank Blues",
-      "url": "https://open.spotify.com/track/3SsGrCb1eaSpGhRDqPaTln"
     },
     {
       "added_at": "2022-11-07 17:01:27",
@@ -89,20 +105,36 @@
       "url": "https://open.spotify.com/track/2jkyPVk1nbpsZD0KAS98Zw"
     },
     {
-      "added_at": "2022-11-04 04:05:00",
+      "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "worm food",
-        "url": "https://open.spotify.com/album/6esicDmiVKUGrff14ahfrK"
+        "name": "No Rule",
+        "url": "https://open.spotify.com/album/3q44ueZD50lWp4BXm0GDcE"
       },
       "artists": [
         {
-          "name": "Cavetown",
-          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+          "name": "Manchester Orchestra",
+          "url": "https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f"
         }
       ],
-      "duration_ms": 206280,
-      "name": "heart attack",
-      "url": "https://open.spotify.com/track/08noUkx67pSwQuHnFhIcsF"
+      "duration_ms": 325888,
+      "name": "No Rule",
+      "url": "https://open.spotify.com/track/5SvYRapjngsO2dYfBC9ZXV"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Nightlight",
+        "url": "https://open.spotify.com/album/2noUvSaD3LsoZAiWdPy9vK"
+      },
+      "artists": [
+        {
+          "name": "Oscar Lang",
+          "url": "https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn"
+        }
+      ],
+      "duration_ms": 204240,
+      "name": "Nightlight",
+      "url": "https://open.spotify.com/track/1ydoX3Oa8caQOrbQatbATa"
     },
     {
       "added_at": "2022-10-14 07:40:00",
@@ -119,6 +151,38 @@
       "duration_ms": 163990,
       "name": "cough drops",
       "url": "https://open.spotify.com/track/5Jpj3lCgX06bu6STIjUYKN"
+    },
+    {
+      "added_at": "2022-11-04 04:05:00",
+      "album": {
+        "name": "worm food",
+        "url": "https://open.spotify.com/album/6esicDmiVKUGrff14ahfrK"
+      },
+      "artists": [
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        }
+      ],
+      "duration_ms": 206280,
+      "name": "heart attack",
+      "url": "https://open.spotify.com/track/08noUkx67pSwQuHnFhIcsF"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "lonely",
+        "url": "https://open.spotify.com/album/64CsI8o99iRKE1TPEfFAK3"
+      },
+      "artists": [
+        {
+          "name": "carpetgarden",
+          "url": "https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG"
+        }
+      ],
+      "duration_ms": 228354,
+      "name": "lonely",
+      "url": "https://open.spotify.com/track/3w2SbYo8eSKB7UNfEMCzOR"
     },
     {
       "added_at": "2022-10-14 07:40:00",
@@ -169,6 +233,22 @@
       "url": "https://open.spotify.com/track/5a8QUc4ubHJqQm7vzs2YhA"
     },
     {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Consequences",
+        "url": "https://open.spotify.com/album/11am3mDeSxGDV8rrGpJwVP"
+      },
+      "artists": [
+        {
+          "name": "Kate Davis",
+          "url": "https://open.spotify.com/artist/4jXKRg7GZPm3mKGgKwUEco"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Consequences",
+      "url": "https://open.spotify.com/track/4ivH644trNJe9wyi0OmHuw"
+    },
+    {
       "added_at": "2022-09-30 05:45:00",
       "album": {
         "name": "Body Paint",
@@ -183,22 +263,6 @@
       "duration_ms": 290584,
       "name": "Body Paint",
       "url": "https://open.spotify.com/track/11jRCxY01k9jvCdUru0EeP"
-    },
-    {
-      "added_at": "2022-11-04 04:05:00",
-      "album": {
-        "name": "Miss Power",
-        "url": "https://open.spotify.com/album/37pi6A0dr6Puse1u2xHkdD"
-      },
-      "artists": [
-        {
-          "name": "Connie Constance",
-          "url": "https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt"
-        }
-      ],
-      "duration_ms": 137840,
-      "name": "Kamikaze",
-      "url": "https://open.spotify.com/track/0JpQfoBOdJ2ftUi7VGj6dx"
     },
     {
       "added_at": "2022-10-07 04:05:00",
@@ -255,6 +319,22 @@
       "duration_ms": 215149,
       "name": "New Gold (feat. Tame Impala and Bootie Brown)",
       "url": "https://open.spotify.com/track/64dLd6rVqDLtkXFYrEUHIU"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Heaven Is A Place",
+        "url": "https://open.spotify.com/album/4mL87tGrk35L47qxO5CTp8"
+      },
+      "artists": [
+        {
+          "name": "The Arcs",
+          "url": "https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK"
+        }
+      ],
+      "duration_ms": 289826,
+      "name": "Heaven Is A Place",
+      "url": "https://open.spotify.com/track/5KkeyBF2tSvOkFnsJSU12p"
     },
     {
       "added_at": "2022-10-21 13:12:31",
@@ -353,6 +433,22 @@
       "url": "https://open.spotify.com/track/260Ub1Yuj4CobdISTOBvM9"
     },
     {
+      "added_at": "2022-11-04 04:05:00",
+      "album": {
+        "name": "Miss Power",
+        "url": "https://open.spotify.com/album/37pi6A0dr6Puse1u2xHkdD"
+      },
+      "artists": [
+        {
+          "name": "Connie Constance",
+          "url": "https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt"
+        }
+      ],
+      "duration_ms": 137840,
+      "name": "Kamikaze",
+      "url": "https://open.spotify.com/track/0JpQfoBOdJ2ftUi7VGj6dx"
+    },
+    {
       "added_at": "2022-10-14 07:40:00",
       "album": {
         "name": "Love Will Get You There",
@@ -367,6 +463,22 @@
       "duration_ms": 250280,
       "name": "Love Will Get You There",
       "url": "https://open.spotify.com/track/0UgCI5TiOQthbrEVSqHC9j"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "JFK",
+        "url": "https://open.spotify.com/album/0Z3gNNJPHuJUdtz8c5kRAd"
+      },
+      "artists": [
+        {
+          "name": "HUNNY",
+          "url": "https://open.spotify.com/artist/5rebfYbZVIhbRVcRKWVOAh"
+        }
+      ],
+      "duration_ms": 96413,
+      "name": "JFK",
+      "url": "https://open.spotify.com/track/56uGt5agaLDUWApEM4PZ7W"
     },
     {
       "added_at": "2022-10-07 04:05:00",
@@ -533,6 +645,22 @@
       "url": "https://open.spotify.com/track/3Ilb3Q1okDhJMGKs2gyudt"
     },
     {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Keep It Average",
+        "url": "https://open.spotify.com/album/17HqzoG2vfT71L68dAmMLC"
+      },
+      "artists": [
+        {
+          "name": "GRLwood",
+          "url": "https://open.spotify.com/artist/0yrzVTuk6PgF51NYgfgKXe"
+        }
+      ],
+      "duration_ms": 193478,
+      "name": "Keep It Average",
+      "url": "https://open.spotify.com/track/1XzzByAlOg45CFjTKONinS"
+    },
+    {
       "added_at": "2022-10-14 07:40:00",
       "album": {
         "name": "Turn It On",
@@ -669,22 +797,6 @@
       "url": "https://open.spotify.com/track/1qz7fAa2IVL0vtaswCE445"
     },
     {
-      "added_at": "2022-10-14 07:40:00",
-      "album": {
-        "name": "[redacted]",
-        "url": "https://open.spotify.com/album/25TYH4rc3INhrbHtmAxo9q"
-      },
-      "artists": [
-        {
-          "name": "Nitefire",
-          "url": "https://open.spotify.com/artist/6sIMsIWHy6VE1bbB1XP7fl"
-        }
-      ],
-      "duration_ms": 166285,
-      "name": "Clandestino",
-      "url": "https://open.spotify.com/track/0aGZXenXxYlbNuJypCHLgT"
-    },
-    {
       "added_at": "2022-10-14 17:54:38",
       "album": {
         "name": "i haunt ur dreams",
@@ -765,38 +877,6 @@
       "url": "https://open.spotify.com/track/6s9WMApmrO549X59MV0pr3"
     },
     {
-      "added_at": "2022-10-21 13:12:31",
-      "album": {
-        "name": "liminal spaces",
-        "url": "https://open.spotify.com/album/7KFoizTd1KGrJQBqFS58Z8"
-      },
-      "artists": [
-        {
-          "name": "zzzahara",
-          "url": "https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn"
-        }
-      ],
-      "duration_ms": 123579,
-      "name": "coldish",
-      "url": "https://open.spotify.com/track/5GidzN9AiIHoe3f1VgjBPk"
-    },
-    {
-      "added_at": "2022-10-14 07:40:00",
-      "album": {
-        "name": "2002",
-        "url": "https://open.spotify.com/album/4rJmJ9Iqe1SdQ8Sg5hmZUx"
-      },
-      "artists": [
-        {
-          "name": "Enumclaw",
-          "url": "https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb"
-        }
-      ],
-      "duration_ms": 152462,
-      "name": "2002",
-      "url": "https://open.spotify.com/track/7duZGjDETceWUu5KvKJjQU"
-    },
-    {
       "added_at": "2022-10-07 04:05:00",
       "album": {
         "name": "Makes Me Sick Makes Me Smile",
@@ -811,22 +891,6 @@
       "duration_ms": 229961,
       "name": "Self Fulfilling Prophecy",
       "url": "https://open.spotify.com/track/5EKyAgoER5Y9iIghmr7Ivm"
-    },
-    {
-      "added_at": "2022-10-07 04:05:00",
-      "album": {
-        "name": "Matador",
-        "url": "https://open.spotify.com/album/1ADdB9S5nwi0sM35WYzIGi"
-      },
-      "artists": [
-        {
-          "name": "Sam Austins",
-          "url": "https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V"
-        }
-      ],
-      "duration_ms": 196964,
-      "name": "Matador",
-      "url": "https://open.spotify.com/track/2uvwRdYOa3e5Z87JAtPK3Y"
     },
     {
       "added_at": "2022-10-07 04:05:00",
@@ -859,54 +923,6 @@
       "duration_ms": 157065,
       "name": "Lying Through Their Teeth",
       "url": "https://open.spotify.com/track/3hneGCI7tzgFpQeZyv83hq"
-    },
-    {
-      "added_at": "2022-08-26 05:12:00",
-      "album": {
-        "name": "biking to your house",
-        "url": "https://open.spotify.com/album/3hXJwZ60kLymEBGkWedUOO"
-      },
-      "artists": [
-        {
-          "name": "april june",
-          "url": "https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "biking to your house",
-      "url": "https://open.spotify.com/track/1RgONUxcu6VC4ukbhgS6Nx"
-    },
-    {
-      "added_at": "2022-09-30 05:45:00",
-      "album": {
-        "name": "Like You",
-        "url": "https://open.spotify.com/album/1OjE1EtUXj4FBJ9TYC5whs"
-      },
-      "artists": [
-        {
-          "name": "Miss Grit",
-          "url": "https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD"
-        }
-      ],
-      "duration_ms": 230169,
-      "name": "Like You",
-      "url": "https://open.spotify.com/track/5qpv56mk9Sbs5gx9wAD9uD"
-    },
-    {
-      "added_at": "2022-10-07 04:05:00",
-      "album": {
-        "name": "De Facto",
-        "url": "https://open.spotify.com/album/53mFa0T7xdQAQ6z8gkWeWl"
-      },
-      "artists": [
-        {
-          "name": "Oso Oso",
-          "url": "https://open.spotify.com/artist/63GTn25wbdRNX3ijCHvYxD"
-        }
-      ],
-      "duration_ms": 261000,
-      "name": "De Facto",
-      "url": "https://open.spotify.com/track/0IqDJs8WRXwAR5TlaAdFA8"
     },
     {
       "added_at": "2022-07-01 14:01:58",
@@ -1055,22 +1071,6 @@
       "duration_ms": 225278,
       "name": "ILY2",
       "url": "https://open.spotify.com/track/7tgteKiRkLq30c9qG4mWQr"
-    },
-    {
-      "added_at": "2022-09-30 05:45:00",
-      "album": {
-        "name": "Runner",
-        "url": "https://open.spotify.com/album/5jhIfSbDYyInZbF9c4EauX"
-      },
-      "artists": [
-        {
-          "name": "Alex G",
-          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
-        }
-      ],
-      "duration_ms": 156772,
-      "name": "Runner",
-      "url": "https://open.spotify.com/track/5PmvRPR1SedsWA08jDDgF9"
     },
     {
       "added_at": "2022-07-01 14:01:58",

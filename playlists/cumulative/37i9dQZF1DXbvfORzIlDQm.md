@@ -4,7 +4,7 @@
 
 > A collection of roots music and covers urging peace and calling for change\. Cover: Tré Burt
 
-70 songs - 4 hr 33 min - [published](https://open.spotify.com/playlist/1wp9q6mgZAPtFlSyAaNYpg)
+72 songs - 4 hr 40 min - [published](https://open.spotify.com/playlist/1wp9q6mgZAPtFlSyAaNYpg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,8 +35,9 @@
 | [If All I Was Was Black](https://open.spotify.com/track/3urjT4HEkfpPGJWGPf8cB9) | [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0) | [If All I Was Was Black](https://open.spotify.com/album/7lyJLRjQk2dC16AiMQyyUf) | 3:55 | 2021-02-24 |  |
 | [Little Bit](https://open.spotify.com/track/7sqCVKFc2fTLKtET4TU5bC) | [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0) | [If All I Was Was Black](https://open.spotify.com/album/7lyJLRjQk2dC16AiMQyyUf) | 3:50 | 2021-02-24 |  |
 | [Little Sparrow](https://open.spotify.com/track/6n2H3jy9SDo5k22pIyMCU0) | [Leyla McCalla](https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y) | [A Day for the Hunter, A Day for the Prey](https://open.spotify.com/album/4whjlDovn35OzIY4TnbARA) | 3:16 | 2021-02-24 |  |
+| [Mind on Fire](https://open.spotify.com/track/3n3PVJbIY4NVSkrxQUYD1X) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Mind on Fire](https://open.spotify.com/album/5trx5tQegiqMUs45EPPFNp) | 3:14 | 2021-02-24 |  |
 | [Mind on Fire](https://open.spotify.com/track/45RX9we2ExTAPtPmHRJT9C) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Mind on Fire](https://open.spotify.com/album/1Ms5teyYCQM0bHa2aSKfod) | 3:14 | 2021-02-24 | 2022-07-29 |
-| [Mind on Fire](https://open.spotify.com/track/4LEdX9NFK0tVB5anrAIi1q) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Pendulum](https://open.spotify.com/album/64uKH4UnWHG6Ea960CSChE) | 3:14 | 2021-02-24 |  |
+| [Mind on Fire](https://open.spotify.com/track/4LEdX9NFK0tVB5anrAIi1q) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Pendulum](https://open.spotify.com/album/64uKH4UnWHG6Ea960CSChE) | 3:14 | 2021-02-24 | 2022-11-12 |
 | [Mississippi Goddam \(feat\. Adia Victoria & Kyshona Armstrong\)](https://open.spotify.com/track/5d02bbrSQZzjZzEfKiopHm) | [Kelsey Waldon](https://open.spotify.com/artist/6hQxXJuBnpCcS2VLTezQv1), [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl), [Kyshona](https://open.spotify.com/artist/6W2VAlwJmXUkGwOmtFCFUA) | [Mississippi Goddam / They'll Never Keep Us Down](https://open.spotify.com/album/7dn7kSgHlzwaPD8aVrh8O3) | 4:54 | 2021-02-24 |  |
 | [New Colossus](https://open.spotify.com/track/462nbWwasi5npUIeT79CIx) | [Kaia Kater](https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm) | [Grenades](https://open.spotify.com/album/6Nqb3BPmH4xpzjqJs14W8a) | 4:26 | 2021-02-24 |  |
 | [Nina Cried Power \(feat\. Mavis Staples\)](https://open.spotify.com/track/7wR5r0KYGXBpyWXCdyYs3F) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS), [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0) | [Nina Cried Power \- EP](https://open.spotify.com/album/78o6vcPIRwoph8a3StqaTU) | 3:45 | 2021-02-24 |  |
@@ -48,8 +49,9 @@
 | [River](https://open.spotify.com/track/3hhbDnFUb2bicI2df6VurK) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home \(Deluxe\)](https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv) | 4:00 | 2021-02-24 | 2022-11-11 |
 | [Seeds](https://open.spotify.com/track/1NijLAZEVZAvJGHE1RO9if) | [Rissi Palmer](https://open.spotify.com/artist/5M6DR8vZz7e0DZmIHKyjZQ) | [Revival](https://open.spotify.com/album/3ZeYPc2wcoSjM43wc9gdRO) | 3:08 | 2021-02-24 |  |
 | [South Gotta Change](https://open.spotify.com/track/4hDxqXmufOdDFlqnUqcamD) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [South Gotta Change](https://open.spotify.com/album/2fqnpucDvUPFqFTTn3MTiQ) | 3:45 | 2021-02-24 |  |
-| [Strange Fruit](https://open.spotify.com/track/1iklCTpvEXh6NUiwBaAouo) | [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [Blackbirds](https://open.spotify.com/album/3gX2IvOKb8zxDJTTnyeLkf) | 4:14 | 2021-02-24 |  |
+| [Strange Fruit](https://open.spotify.com/track/1iklCTpvEXh6NUiwBaAouo) | [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [Blackbirds](https://open.spotify.com/album/3gX2IvOKb8zxDJTTnyeLkf) | 4:14 | 2021-02-24 | 2022-11-12 |
 | [Strange Fruit](https://open.spotify.com/track/52l6GPIMJWIZhW2a2JRpDX) | [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [Strange Fruit](https://open.spotify.com/album/03eO08yzfWAMWFtiNZtI6Z) | 4:14 | 2021-02-24 | 2022-07-29 |
+| [Strange Fruit](https://open.spotify.com/track/5QkfjUeOFUWNnZQkxcdFbp) | [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [專注爵選 Jazz for Work & Study](https://open.spotify.com/album/1gdOZL2MqhUTdiIfzoZ262) | 4:14 | 2021-02-24 |  |
 | [Stuck In The South](https://open.spotify.com/track/7gCQxWpBtMg2tpEdqGUQa8) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [Beyond The Bloodhounds](https://open.spotify.com/album/3N5acrSXdpjx4GBwvvHQv8) | 3:07 | 2021-02-24 |  |
 | [The Capitalist Blues](https://open.spotify.com/track/7LPxn9YKOA8K1U6wMzhfc6) | [Leyla McCalla](https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y) | [The Capitalist Blues](https://open.spotify.com/album/24ZcXwoLdmjsrXTYWPsaXJ) | 3:55 | 2021-02-24 |  |
 | [The Devil's Tongue](https://open.spotify.com/track/0zJ5Alcy6I5mqjQVcUqTSx) | [Mirel Wagner](https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx) | [When the Cellar Children See the Light of Day](https://open.spotify.com/album/4RP8ZcEWH1tPoEdkaPf8KK) | 2:13 | 2021-02-24 |  |

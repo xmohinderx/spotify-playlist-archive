@@ -64,6 +64,32 @@
     },
     {
       "album": {
+        "name": "Renaissance Vol.2",
+        "url": "https://open.spotify.com/album/0EZD6ycjc0efpIPDGQU7X5"
+      },
+      "artists": [
+        {
+          "name": "Gregorio Allegri",
+          "url": "https://open.spotify.com/artist/4I47QTluHCo2t2Gj6V7AIG"
+        },
+        {
+          "name": "Sistine Chapel Choir",
+          "url": "https://open.spotify.com/artist/44mVUbyXXXCjiOpbleXk1F"
+        },
+        {
+          "name": "Massimo Palombella",
+          "url": "https://open.spotify.com/artist/5HCYO2b77nY538cmZ4tYLl"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261653,
+      "name": "\"Nasceris, alme puer\"",
+      "url": "https://open.spotify.com/track/2j4gfdkfnJAWsKVJT1M0kz"
+    },
+    {
+      "album": {
         "name": "Veni Domine: Advent & Christmas At The Sistine Chapel",
         "url": "https://open.spotify.com/album/1KkwB5ixbFr8sNpYOkiVEY"
       },
@@ -83,7 +109,7 @@
       ],
       "date_added": "2020-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 261653,
       "name": "\"Nasceris, alme puer\"",
       "url": "https://open.spotify.com/track/6aOHGZpBKzoqxhoCsA48Kc"
@@ -560,6 +586,36 @@
     },
     {
       "album": {
+        "name": "Relaxing Christmas",
+        "url": "https://open.spotify.com/album/4PGnstAi8ekFcuDN5FgZVY"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9rotin",
+          "url": "https://open.spotify.com/artist/2xeXoF8arRZILlw5MKR2f2"
+        },
+        {
+          "name": "Cecilia Bartoli",
+          "url": "https://open.spotify.com/artist/3uw6GzeL10NfFrcikMo9Na"
+        },
+        {
+          "name": "Sistine Chapel Choir",
+          "url": "https://open.spotify.com/artist/44mVUbyXXXCjiOpbleXk1F"
+        },
+        {
+          "name": "Massimo Palombella",
+          "url": "https://open.spotify.com/artist/5HCYO2b77nY538cmZ4tYLl"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228026,
+      "name": "Beata viscera Mariae Virginis",
+      "url": "https://open.spotify.com/track/2sTlO7Y6T2BIjXJnIlT9dV"
+    },
+    {
+      "album": {
         "name": "Veni Domine: Advent & Christmas At The Sistine Chapel",
         "url": "https://open.spotify.com/album/1KkwB5ixbFr8sNpYOkiVEY"
       },
@@ -583,7 +639,7 @@
       ],
       "date_added": "2020-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 228066,
       "name": "Beata viscera Mariae Virginis",
       "url": "https://open.spotify.com/track/4lRPKLzo7ZhHteXI2454UB"
@@ -1749,10 +1805,32 @@
       ],
       "date_added": "2020-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 255773,
       "name": "Lux Aurumque",
       "url": "https://open.spotify.com/track/5bUdtdODnRPeQpmMoqhvVY"
+    },
+    {
+      "album": {
+        "name": "Yoga Music Classical",
+        "url": "https://open.spotify.com/album/5nmhonqNdfKkr2OB2lx8gs"
+      },
+      "artists": [
+        {
+          "name": "Eric Whitacre",
+          "url": "https://open.spotify.com/artist/5TWpCLIhvGlbJmLK1zNpiL"
+        },
+        {
+          "name": "Eric Whitacre Singers",
+          "url": "https://open.spotify.com/artist/2tPhboxrWrQ4LxOhWlXAeN"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255773,
+      "name": "Lux Aurumque",
+      "url": "https://open.spotify.com/track/6eYBCKmpPRcgNAflT977eh"
     },
     {
       "album": {

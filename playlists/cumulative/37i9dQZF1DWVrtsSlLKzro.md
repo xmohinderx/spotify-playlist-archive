@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">electronic</a> melancholy < / 3
 
-238 songs - 14 hr 26 min - [published](https://open.spotify.com/playlist/7JbBYAKP63QvI8IYc5wpSU)
+239 songs - 14 hr 29 min - [published](https://open.spotify.com/playlist/7JbBYAKP63QvI8IYc5wpSU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,6 +210,7 @@
 | [The Last Goodbye \(feat\. Bettye LaVette\)](https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [The Last Goodbye \(feat\. Bettye LaVette\)](https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2) | 5:58 | 2022-02-11 |  |
 | [The Trouble with Us](https://open.spotify.com/track/47OJzoslrchHSbjAeR4Srv) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [Happiness, Guaranteed](https://open.spotify.com/album/2MrsSz89mk5XCcRF3gccLG) | 3:43 | 2022-05-06 | 2022-10-03 |
 | [The Trouble with Us](https://open.spotify.com/track/6zsoP81Lhi2XfAb0k1ZULN) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [Happiness, Guaranteed](https://open.spotify.com/album/2CqFgdXnnF8nmsiP9qDuhX) | 3:43 | 2022-07-15 |  |
+| [To Last](https://open.spotify.com/track/10aCY2jJFNYGf9qpiN2LZy) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [To Last](https://open.spotify.com/album/00RMnS3psKLla6O7sYp8mB) | 2:56 | 2022-11-11 |  |
 | [Treading Water](https://open.spotify.com/track/4b7pT27gKEESHwnffFMDUp) | [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Treading Water](https://open.spotify.com/album/20ZPAqgm26vHBDt3S6oRLu) | 3:37 | 2022-08-12 |  |
 | [Trust Issues](https://open.spotify.com/track/5nAcDjHi1Sn9d24ZPwYpZc) | [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ), [Adam Pearce](https://open.spotify.com/artist/0AhdWP01wLAKxDfhsKMEKf), [Zack Gray](https://open.spotify.com/artist/4ts4KzTqLDytonufwGpl9l) | [Trust Issues](https://open.spotify.com/album/1l3DW3iuvlS7uxxhxjAWoF) | 3:02 | 2022-03-04 |  |
 | [Underwater](https://open.spotify.com/track/5ZvHcR4OSwvEV5IhigbTOT) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [SOLACE](https://open.spotify.com/album/5Jazpq8mEgSgQs06mdwkQd) | 5:49 | 2021-12-03 | 2022-02-12 |

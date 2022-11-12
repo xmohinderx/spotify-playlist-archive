@@ -1,12 +1,12 @@
 {
   "description": "Uptempo gospel songs from West Africa to get you dancing and praising. ",
-  "num_followers": 23313,
+  "num_followers": 23380,
   "original_name": "Praise and Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjMzMjU3MSwwMDAwMDAwMGIyNWIxMzdkMTI0ZDFhNTcwMmJhMjY1MjVjMWU3NjA2",
+  "snapshot_id": "MTY2NjMzMjU3MSwwMDAwMDAwMDRkZDY1OWI5ZTVmMmE2OTQ4OTFhNzQ1NzJkYWFiZWFh",
   "tracks": [
     {
       "added_at": "2022-09-08 23:00:00",
@@ -255,22 +255,6 @@
     {
       "added_at": "2022-06-30 23:00:00",
       "album": {
-        "name": "The Glory Experience (Songs of Zion)",
-        "url": "https://open.spotify.com/album/5CekMpHMo17ilQctFxI6TT"
-      },
-      "artists": [
-        {
-          "name": "Dunsin Oyekan",
-          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
-        }
-      ],
-      "duration_ms": 577592,
-      "name": "Kaabo",
-      "url": "https://open.spotify.com/track/5RrEkgXlClry1Wln0LTpIa"
-    },
-    {
-      "added_at": "2022-06-30 23:00:00",
-      "album": {
         "name": "SATISFIED",
         "url": "https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 280424,
       "name": "Chinedum",
       "url": "https://open.spotify.com/track/7LcoRUZI1URqzeumgGbKWp"
+    },
+    {
+      "added_at": "2022-06-30 23:00:00",
+      "album": {
+        "name": "The Glory Experience (Songs of Zion)",
+        "url": "https://open.spotify.com/album/5CekMpHMo17ilQctFxI6TT"
+      },
+      "artists": [
+        {
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+        }
+      ],
+      "duration_ms": 577592,
+      "name": "Kaabo",
+      "url": "https://open.spotify.com/track/5RrEkgXlClry1Wln0LTpIa"
     },
     {
       "added_at": "2022-06-30 23:00:00",
@@ -355,18 +355,18 @@
     {
       "added_at": "2022-06-30 23:00:00",
       "album": {
-        "name": "I Will Sing (Refreshed)",
-        "url": "https://open.spotify.com/album/5MtpR8Yf1nlAwjGgu8gqKD"
+        "name": "SATISFIED",
+        "url": "https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU"
       },
       "artists": [
         {
-          "name": "Ada Ehi",
-          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
         }
       ],
-      "duration_ms": 350847,
-      "name": "I Will Sing (Refreshed)",
-      "url": "https://open.spotify.com/track/76sNlwv6Jt2mTJDAzRfhxj"
+      "duration_ms": 267572,
+      "name": "Na You Dey Reign",
+      "url": "https://open.spotify.com/track/66KhGOqJXHLZQCmfWKMdqC"
     },
     {
       "added_at": "2022-09-30 06:46:03",
@@ -389,22 +389,6 @@
       "url": "https://open.spotify.com/track/4wDlHsa0h7kg42T94CWmU2"
     },
     {
-      "added_at": "2022-06-30 23:00:00",
-      "album": {
-        "name": "SATISFIED",
-        "url": "https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 267572,
-      "name": "Na You Dey Reign",
-      "url": "https://open.spotify.com/track/66KhGOqJXHLZQCmfWKMdqC"
-    },
-    {
       "added_at": "2022-09-30 06:46:03",
       "album": {
         "name": "Taking Care",
@@ -423,6 +407,22 @@
       "duration_ms": 222315,
       "name": "Taking Care - Remix",
       "url": "https://open.spotify.com/track/28BKMZMQzetbKzNPkSdIBe"
+    },
+    {
+      "added_at": "2022-06-30 23:00:00",
+      "album": {
+        "name": "I Will Sing (Refreshed)",
+        "url": "https://open.spotify.com/album/5MtpR8Yf1nlAwjGgu8gqKD"
+      },
+      "artists": [
+        {
+          "name": "Ada Ehi",
+          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
+        }
+      ],
+      "duration_ms": 350847,
+      "name": "I Will Sing (Refreshed)",
+      "url": "https://open.spotify.com/track/76sNlwv6Jt2mTJDAzRfhxj"
     },
     {
       "added_at": "2022-06-30 23:00:00",
@@ -455,6 +455,22 @@
       "duration_ms": 214989,
       "name": "Clarity",
       "url": "https://open.spotify.com/track/0BSGQmGCwbUOru8zrUryal"
+    },
+    {
+      "added_at": "2022-06-30 23:00:00",
+      "album": {
+        "name": "Suddenly + Amazing God (Double Single)",
+        "url": "https://open.spotify.com/album/79mjv5qhSTzJ3gMM8k7lMS"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 291493,
+      "name": "Suddenly",
+      "url": "https://open.spotify.com/track/1r0l8K0zN1IsKwIGBpV86r"
     },
     {
       "added_at": "2022-06-30 23:00:00",
@@ -501,22 +517,6 @@
       "url": "https://open.spotify.com/track/5Twvf31nhxFi1K56nJT3Jv"
     },
     {
-      "added_at": "2022-06-30 23:00:00",
-      "album": {
-        "name": "Taking care (Live at Bliss Experience)",
-        "url": "https://open.spotify.com/album/6VgacHLoO0aATC9DjJ135k"
-      },
-      "artists": [
-        {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
-        }
-      ],
-      "duration_ms": 310278,
-      "name": "Taking care - Live at Bliss Experience",
-      "url": "https://open.spotify.com/track/4MY8Sn24Enjfi1e3tnxbBo"
-    },
-    {
       "added_at": "2022-09-30 06:46:03",
       "album": {
         "name": "Mine",
@@ -543,18 +543,18 @@
     {
       "added_at": "2022-06-30 23:00:00",
       "album": {
-        "name": "Suddenly + Amazing God (Double Single)",
-        "url": "https://open.spotify.com/album/79mjv5qhSTzJ3gMM8k7lMS"
+        "name": "Taking care (Live at Bliss Experience)",
+        "url": "https://open.spotify.com/album/6VgacHLoO0aATC9DjJ135k"
       },
       "artists": [
         {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
         }
       ],
-      "duration_ms": 291493,
-      "name": "Suddenly",
-      "url": "https://open.spotify.com/track/1r0l8K0zN1IsKwIGBpV86r"
+      "duration_ms": 310278,
+      "name": "Taking care - Live at Bliss Experience",
+      "url": "https://open.spotify.com/track/4MY8Sn24Enjfi1e3tnxbBo"
     },
     {
       "added_at": "2022-06-30 23:00:00",
@@ -885,22 +885,6 @@
       "url": "https://open.spotify.com/track/7G7GIlgSM9eLi84zH9C6Oq"
     },
     {
-      "added_at": "2022-06-30 23:00:00",
-      "album": {
-        "name": "Hosanna (Live)",
-        "url": "https://open.spotify.com/album/6L5UqzUyUe0oATYWcH0Ig8"
-      },
-      "artists": [
-        {
-          "name": "KODA",
-          "url": "https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB"
-        }
-      ],
-      "duration_ms": 344862,
-      "name": "Hossana (Live)",
-      "url": "https://open.spotify.com/track/0jxNjSnkH44UZZ5vWe0wVG"
-    },
-    {
       "added_at": "2022-09-30 06:46:03",
       "album": {
         "name": "Blessings Follow Me",
@@ -919,6 +903,22 @@
       "duration_ms": 165839,
       "name": "Blessings Follow Me",
       "url": "https://open.spotify.com/track/6K2Pm2e6qTqb1vC8qT3INV"
+    },
+    {
+      "added_at": "2022-06-30 23:00:00",
+      "album": {
+        "name": "Hosanna (Live)",
+        "url": "https://open.spotify.com/album/6L5UqzUyUe0oATYWcH0Ig8"
+      },
+      "artists": [
+        {
+          "name": "KODA",
+          "url": "https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB"
+        }
+      ],
+      "duration_ms": 344862,
+      "name": "Hossana (Live)",
+      "url": "https://open.spotify.com/track/0jxNjSnkH44UZZ5vWe0wVG"
     },
     {
       "added_at": "2022-06-30 23:00:00",
@@ -1043,26 +1043,6 @@
     {
       "added_at": "2022-06-30 23:00:00",
       "album": {
-        "name": "Blessings",
-        "url": "https://open.spotify.com/album/7rcxNFwtfBjFHeu9BSGeXW"
-      },
-      "artists": [
-        {
-          "name": "King Dareal",
-          "url": "https://open.spotify.com/artist/2Fh0nGDeyjps1Y1L4bayKY"
-        },
-        {
-          "name": "Rehmahz",
-          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
-        }
-      ],
-      "duration_ms": 161333,
-      "name": "Blessings",
-      "url": "https://open.spotify.com/track/4qLj7niX2TDu5XMakOKcYU"
-    },
-    {
-      "added_at": "2022-06-30 23:00:00",
-      "album": {
         "name": "Nkwa Abodoo (feat. Nacy)",
         "url": "https://open.spotify.com/album/4EbIet3CbVqMRyW3BlZ9kk"
       },
@@ -1079,6 +1059,26 @@
       "duration_ms": 409999,
       "name": "Nkwa Abodoo (feat. Nacy)",
       "url": "https://open.spotify.com/track/6Uwiv3r9XfvyBAQqTtngNb"
+    },
+    {
+      "added_at": "2022-06-30 23:00:00",
+      "album": {
+        "name": "Blessings",
+        "url": "https://open.spotify.com/album/7rcxNFwtfBjFHeu9BSGeXW"
+      },
+      "artists": [
+        {
+          "name": "King Dareal",
+          "url": "https://open.spotify.com/artist/2Fh0nGDeyjps1Y1L4bayKY"
+        },
+        {
+          "name": "Rehmahz",
+          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
+        }
+      ],
+      "duration_ms": 161333,
+      "name": "Blessings",
+      "url": "https://open.spotify.com/track/4qLj7niX2TDu5XMakOKcYU"
     },
     {
       "added_at": "2022-06-30 23:00:00",
@@ -1153,6 +1153,30 @@
       "url": "https://open.spotify.com/track/5YWEXH09aiqtsN9HFmp8Et"
     },
     {
+      "added_at": "2022-09-09 09:04:44",
+      "album": {
+        "name": "NEVER FORGET",
+        "url": "https://open.spotify.com/album/4hrg22mA1U6Jae5LRPNkgq"
+      },
+      "artists": [
+        {
+          "name": "King Dareal",
+          "url": "https://open.spotify.com/artist/2Fh0nGDeyjps1Y1L4bayKY"
+        },
+        {
+          "name": "K3ndrick",
+          "url": "https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5"
+        },
+        {
+          "name": "Nolly",
+          "url": "https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM"
+        }
+      ],
+      "duration_ms": 217959,
+      "name": "NEVER FORGET",
+      "url": "https://open.spotify.com/track/1ijxBrziPh6sxVk45tlZT8"
+    },
+    {
       "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Come Alive (Deluxe)",
@@ -1223,30 +1247,6 @@
       "duration_ms": 219144,
       "name": "W'asem",
       "url": "https://open.spotify.com/track/6tkg5oZJuhHOy99LyN1qfN"
-    },
-    {
-      "added_at": "2022-09-09 09:04:44",
-      "album": {
-        "name": "NEVER FORGET",
-        "url": "https://open.spotify.com/album/4hrg22mA1U6Jae5LRPNkgq"
-      },
-      "artists": [
-        {
-          "name": "King Dareal",
-          "url": "https://open.spotify.com/artist/2Fh0nGDeyjps1Y1L4bayKY"
-        },
-        {
-          "name": "K3ndrick",
-          "url": "https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5"
-        },
-        {
-          "name": "Nolly",
-          "url": "https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM"
-        }
-      ],
-      "duration_ms": 217959,
-      "name": "NEVER FORGET",
-      "url": "https://open.spotify.com/track/1ijxBrziPh6sxVk45tlZT8"
     },
     {
       "added_at": "2022-06-30 23:00:00",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2022-06-30 23:00:00",
       "album": {
-        "name": "Mo Ne Yo",
-        "url": "https://open.spotify.com/album/1xKvG0UAigXX8lQZDw2Fit"
-      },
-      "artists": [
-        {
-          "name": "Diana Hamilton",
-          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
-        }
-      ],
-      "duration_ms": 269169,
-      "name": "Mo Ne Yo",
-      "url": "https://open.spotify.com/track/3tnVmqNWiawZP16jHSD4p5"
-    },
-    {
-      "added_at": "2022-06-30 23:00:00",
-      "album": {
         "name": "Satisfy",
         "url": "https://open.spotify.com/album/3fxGuECzrTfEaPpQOOHbUh"
       },
@@ -1411,6 +1395,38 @@
       "duration_ms": 127200,
       "name": "Satisfy",
       "url": "https://open.spotify.com/track/6DGi6J7yowxdGkzWBuXa28"
+    },
+    {
+      "added_at": "2022-06-30 23:00:00",
+      "album": {
+        "name": "No Other God",
+        "url": "https://open.spotify.com/album/558lqIaLddfY4Lh5bZLF8H"
+      },
+      "artists": [
+        {
+          "name": "KOFI OWUSU PEPRAH",
+          "url": "https://open.spotify.com/artist/4JSIYTjaWsMFQWvp46CNH1"
+        }
+      ],
+      "duration_ms": 437345,
+      "name": "No Other God",
+      "url": "https://open.spotify.com/track/62u93O6E9BU8IEbTOPB5b0"
+    },
+    {
+      "added_at": "2022-06-30 23:00:00",
+      "album": {
+        "name": "Mo Ne Yo",
+        "url": "https://open.spotify.com/album/1xKvG0UAigXX8lQZDw2Fit"
+      },
+      "artists": [
+        {
+          "name": "Diana Hamilton",
+          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
+        }
+      ],
+      "duration_ms": 269169,
+      "name": "Mo Ne Yo",
+      "url": "https://open.spotify.com/track/3tnVmqNWiawZP16jHSD4p5"
     },
     {
       "added_at": "2022-07-14 23:00:00",
@@ -1443,22 +1459,6 @@
       "duration_ms": 155520,
       "name": "Tatafo",
       "url": "https://open.spotify.com/track/2FbHSnjLmSF77Uy5IkHjnf"
-    },
-    {
-      "added_at": "2022-06-30 23:00:00",
-      "album": {
-        "name": "No Other God",
-        "url": "https://open.spotify.com/album/558lqIaLddfY4Lh5bZLF8H"
-      },
-      "artists": [
-        {
-          "name": "KOFI OWUSU PEPRAH",
-          "url": "https://open.spotify.com/artist/4JSIYTjaWsMFQWvp46CNH1"
-        }
-      ],
-      "duration_ms": 437345,
-      "name": "No Other God",
-      "url": "https://open.spotify.com/track/62u93O6E9BU8IEbTOPB5b0"
     }
   ],
   "unique_name": "Praise and Worship",

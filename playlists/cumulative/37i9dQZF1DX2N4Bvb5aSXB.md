@@ -4,7 +4,7 @@
 
 > Brought to you by <a href="spotify:artist:2cADQgiLMjNhbsfeN52Bf3">Swizz Beatz</a> and <a href="spotify:artist:5Y5TRrQiqgUO4S36tzjIRZ">Timbaland</a>.
 
-42 songs - 2 hr 48 min - [published](https://open.spotify.com/playlist/6pmXUIcSEyX5s3Z3qVD0DW)
+43 songs - 2 hr 52 min - [published](https://open.spotify.com/playlist/6pmXUIcSEyX5s3Z3qVD0DW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,8 +15,9 @@
 | [Can't Help but Wait](https://open.spotify.com/track/5k3VjTwIsOjQ2woGz3Yx71) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Trey Day](https://open.spotify.com/album/6vnUL0NxqV1JrBvYW1M2wn) | 3:26 | 2020-04-12 |  |
 | [Do You](https://open.spotify.com/track/0JKjqJLo145b1mqA6MnhIl) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Because Of You](https://open.spotify.com/album/52q9xNv8COtSU9phlbO5sg) | 3:48 | 2020-04-12 |  |
 | [Don't](https://open.spotify.com/track/3pXF1nA74528Edde4of9CC) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [T R A P S O U L](https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl) | 3:18 | 2020-04-12 |  |
-| [Don't Forget About Us \- Radio Edit](https://open.spotify.com/track/1HkVSmzBbdZ5Bzdd00IZgh) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Emancipation Of Mimi \(Ultra Platinum Edition\)](https://open.spotify.com/album/7MMpjM0wynysTbhpvKjHrm) | 3:53 | 2020-04-12 |  |
+| [Don't Forget About Us \- Radio Edit](https://open.spotify.com/track/1HkVSmzBbdZ5Bzdd00IZgh) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Emancipation Of Mimi \(Ultra Platinum Edition\)](https://open.spotify.com/album/7MMpjM0wynysTbhpvKjHrm) | 3:53 | 2020-04-12 | 2022-11-12 |
 | [Don't Forget About Us \- Radio Edit](https://open.spotify.com/track/2hQU8LNZFUcXLUwqeABX3K) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Emancipation of Mimi](https://open.spotify.com/album/0yv6r2Prvx8j0tibLJf9pj) | 3:53 | 2020-04-12 | 2022-07-29 |
+| [Don't Forget About Us \- Radio Edit](https://open.spotify.com/track/16YYQme8BlKAujcNAaOp65) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Don't Forget About Us](https://open.spotify.com/album/7myqJhKQhXMcr9j8vEkkZc) | 3:54 | 2020-04-12 |  |
 | [Flaws and All](https://open.spotify.com/track/30Z84zKyyx3Hn2Af8OdwaR) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [B'Day Deluxe Edition](https://open.spotify.com/album/0Zd10MKN5j9KwUST0TdBBB) | 4:08 | 2020-04-12 |  |
 | [Get Gone](https://open.spotify.com/track/0CofintZCm8MhxiOMrauiT) | [Ideal](https://open.spotify.com/artist/2bK1rpFhmGkImiZNuUyHVT) | [Ideal](https://open.spotify.com/album/0sCYqD1xXtAvHiYETuTP0K) | 4:35 | 2020-04-12 |  |
 | [Go On Girl](https://open.spotify.com/track/3QE7ObGjkt1kYnhLvZPRUy) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Because Of You](https://open.spotify.com/album/52q9xNv8COtSU9phlbO5sg) | 4:21 | 2020-04-12 |  |

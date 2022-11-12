@@ -70,6 +70,28 @@
     },
     {
       "album": {
+        "name": "Alaska Blue",
+        "url": "https://open.spotify.com/album/06Kzl9ecftxWgV62vO4ufq"
+      },
+      "artists": [
+        {
+          "name": "Barry Mcloughlin",
+          "url": "https://open.spotify.com/artist/2QZ7RuIJkak04FNwfoUs7d"
+        },
+        {
+          "name": "Chris Kramer",
+          "url": "https://open.spotify.com/artist/7w3T4vxCmCgARMHf4gyGNZ"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173688,
+      "name": "Alaska Blue",
+      "url": "https://open.spotify.com/track/4O1R9qRPlfmuOlBMsWtrIZ"
+    },
+    {
+      "album": {
         "name": "Martin Scorsese Presents The Blues: Keb' Mo'",
         "url": "https://open.spotify.com/album/1El1ZLtpLoUpQHjUdXtLxc"
       },
@@ -291,7 +313,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 229150,
       "name": "Blues Before Sunrise",
       "url": "https://open.spotify.com/track/0gHeDEGKk5Pnm3LfgrY9tG"
@@ -349,7 +371,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 227503,
       "name": "Born Of A Woman",
       "url": "https://open.spotify.com/track/6NMY2CP95XrD8ZkecH8IXA"
@@ -833,7 +855,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 305160,
       "name": "For The Last Time - Alternate Take 1",
       "url": "https://open.spotify.com/track/2gdpaGn0NrBoto2xWFH30O"
@@ -1121,7 +1143,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 167360,
       "name": "I'm In The Mood",
       "url": "https://open.spotify.com/track/6iQ0OIxisPxhzEICEXtaWS"
@@ -1175,7 +1197,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-05",
+      "date_removed": null,
       "duration_ms": 175933,
       "name": "I'm Satisfied",
       "url": "https://open.spotify.com/track/6YWXv1B0n4jktNLb6LJ2QN"
@@ -1576,6 +1598,24 @@
     },
     {
       "album": {
+        "name": "A Soul to Claim",
+        "url": "https://open.spotify.com/album/1wXsCNbcEIPuW4Gkf11afj"
+      },
+      "artists": [
+        {
+          "name": "Doug MacLeod",
+          "url": "https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267512,
+      "name": "Only Porter at the Station",
+      "url": "https://open.spotify.com/track/5SPr9SKT4ipy5X4ngnX40A"
+    },
+    {
+      "album": {
         "name": "His Best",
         "url": "https://open.spotify.com/album/1ZpGSzyrRcrp6tn8IczHDU"
       },
@@ -1775,7 +1815,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 202840,
       "name": "Shine on Moon (feat. Keb' Mo')",
       "url": "https://open.spotify.com/track/7JqE3pDK2ZMUhk5BE5vTT9"

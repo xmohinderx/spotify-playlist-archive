@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDjX0hus3Iu.md) - [plain]
 
 > The early pioneers and current favorites in Southern Rock\.  Cover:  The Godfather...Charlie Daniels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 457,898 likes - 106 songs - 8 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 458,041 likes - 106 songs - 8 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDjX0hus3Iu.md) - [plain]
 | 26 | [Gimme Three Steps](https://open.spotify.com/track/0x2wtJbtJrox3SDmnMj97x) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Pronounced' Leh\-'Nerd 'Skin\-'Nerd](https://open.spotify.com/album/6DExt1eX4lflLacVjHHbOs) | 4:27 |
 | 27 | [Fooled Around And Fell In Love](https://open.spotify.com/track/2hE5Lm5XOHR4t3xlhIFauP) | [Elvin Bishop](https://open.spotify.com/artist/2G1yVp387GlUf9yvLk6V11) | [Struttin' My Stuff](https://open.spotify.com/album/2z2y977JvwU1rbnVO97RmY) | 4:36 |
 | 28 | [Saturday Night Special](https://open.spotify.com/track/0ZQmpf5gk4k5VMopcAtyAc) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Nuthin' Fancy](https://open.spotify.com/album/6SIQDipZD7xtkwnlS5FvQx) | 5:09 |
-| 29 | [Statesboro Blues \- Live At Fillmore East, March 13, 1971](https://open.spotify.com/track/1BnfAYVesByA18sA9EAGiI) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [At Fillmore East](https://open.spotify.com/album/0Y5Wlv2OJKaW0uDJ5HnUfy) | 4:19 |
-| 30 | [Keep Your Hands to Yourself](https://open.spotify.com/track/5tORtBzHUAnNrIw5Ql3kHZ) | [The Georgia Satellites](https://open.spotify.com/artist/2hnzQ6eCFkxUIPsVcsdj8A) | [Georgia Satellites](https://open.spotify.com/album/0obHqsEpkaCWGWGjxcdXel) | 3:25 |
+| 29 | [Statesboro Blues \- Live At Fillmore East, March 13, 1971](https://open.spotify.com/track/7K4jh3V3fP00WKg7c6lwqA) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [At Fillmore East](https://open.spotify.com/album/5Fk98C255zupZ17srJxary) | 4:19 |
+| 30 | [Keep Your Hands to Yourself](https://open.spotify.com/track/2UgYZEPVEEAjFPTubgQmYJ) | [The Georgia Satellites](https://open.spotify.com/artist/2hnzQ6eCFkxUIPsVcsdj8A) | [Southern Rock Summer](https://open.spotify.com/album/57l4FsR2QySyZP0xLBWJjG) | 3:27 |
 | 31 | [Oh, Atlanta](https://open.spotify.com/track/1PraqvAnggduSq9zCTOSTF) | [Little Feat](https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S) | [Feats Don't Fail Me Now](https://open.spotify.com/album/5nflfddG6Tlrt2YiZhXJAD) | 3:29 |
 | 32 | [Third Rate Romance \- Remastered](https://open.spotify.com/track/1oRvLqwJowH9JU0uO1iVzA) | [Amazing Rhythm Aces](https://open.spotify.com/artist/5wpS6LUdQYMoAreKITVtrH) | [Stacked Deck \(Remastered\)](https://open.spotify.com/album/5ZfcBQTytv6PBbl0Q68Qg9) | 3:21 |
 | 33 | [Homesick](https://open.spotify.com/track/1gA9l5loCNn8fOFIzXb6T2) | [Atlanta Rhythm Section](https://open.spotify.com/artist/0WgyCbru4tXnMsbTmX4mFw) | [Quinella](https://open.spotify.com/album/2J54cdWZ2zZOsk3tQW8zdN) | 4:13 |
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDjX0hus3Iu.md) - [plain]
 | 36 | [\(Ghost\) Riders In The Sky](https://open.spotify.com/track/5Y8gFnBzwcMEWa2vmmUABR) | [The Outlaws](https://open.spotify.com/artist/72JEwd3EjDEwTLypkFYJn9) | [Platinum & Gold Collection](https://open.spotify.com/album/6Lx6Uk2ToDnKo5T3BhIT9v) | 5:46 |
 | 37 | [Jackie Blue](https://open.spotify.com/track/1R9EHsvzpXwOvlGkgDmE55) | [The Ozark Mountain Daredevils](https://open.spotify.com/artist/7jM2XoJBKhdL8oNnDr4re9) | [It'll Shine When It Shines](https://open.spotify.com/album/558WlMriwRXU9I2Hq6JMzG) | 4:10 |
 | 38 | [Can't Keep Running](https://open.spotify.com/track/09VHjYoL6VRHh5anKV1e09) | [The Gregg Allman Band](https://open.spotify.com/artist/5jTAPkN0XtPH0cinWMRyzw) | [I'm No Angel](https://open.spotify.com/album/6x8lu9zMzEAz2GKB63kKAe) | 4:02 |
-| 39 | [Ain't Wastin' Time No More](https://open.spotify.com/track/4euYSSvpQZSAQ4gThyL2QD) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [Eat A Peach](https://open.spotify.com/album/6D9I7GZsqc3pwDg3DFrtjs) | 3:41 |
+| 39 | [Ain't Wastin' Time No More](https://open.spotify.com/track/6CqqWS334M1mIOU2W7Po9e) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [Eat A Peach](https://open.spotify.com/album/3MJH2Hkxy7I1CHoElVxDZL) | 3:40 |
 | 40 | [Georgia Rhythm](https://open.spotify.com/track/7aV9xwnPgzTWj3yG0nAURt) | [Atlanta Rhythm Section](https://open.spotify.com/artist/0WgyCbru4tXnMsbTmX4mFw) | [20th Century Masters: The Millennium Collection: Best Of Atlanta Rhythm Section](https://open.spotify.com/album/72HlYFr3YD7gWjFacHOZ6f) | 4:53 |
 | 41 | [Bounty Hunter](https://open.spotify.com/track/50d2zWUEVp9jn0EphgvdWe) | [Molly Hatchet](https://open.spotify.com/artist/4ZqBwBVB3dsYWL3d5Spi10) | [Molly Hatchet](https://open.spotify.com/album/7cNiOClQZsNQKUfKSi6QN3) | 2:57 |
 | 42 | [Blue Sky](https://open.spotify.com/track/58j73VkXRUMXiIAQv1LhyN) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [Greatest Album Covers](https://open.spotify.com/album/33hO2uSIxOhfmjRbCUy3ZU) | 5:09 |
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDjX0hus3Iu.md) - [plain]
 | 65 | [Takin' Up Space](https://open.spotify.com/track/5sulm1kqJnbnqL4wo6xwRJ) | [Van Zant](https://open.spotify.com/artist/6ZRkCThyw6syuSOAGT7lY1) | [Get Right With The Man](https://open.spotify.com/album/1TlZtsAIXuZWNP8i7gKXsp) | 2:45 |
 | 66 | [Bad Little Doggie](https://open.spotify.com/track/3ugXVwlV5FvbyeYRZ0YjFN) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Dark Side of the Mule \(Deluxe Edition\)](https://open.spotify.com/album/2V78RuVG8YmX509TP0DM51) | 3:43 |
 | 67 | [Party in the Parking Lot](https://open.spotify.com/track/5QhdEo73fM2wIFKbXvOkDd) | [Johnny Van Zant](https://open.spotify.com/artist/1oLVItT6UETI2EYrGlxSt1) | [Brickyard Road](https://open.spotify.com/album/7wsoPFu2KaBpVgUvgHBjER) | 5:08 |
-| 68 | [Travelin' Shoes](https://open.spotify.com/track/4pxj2nEkmypTXihGBv6gB1) | [Elvin Bishop](https://open.spotify.com/artist/2G1yVp387GlUf9yvLk6V11) | [Let It Flow](https://open.spotify.com/album/51KKT6XplZzoUF4h2uWV29) | 7:20 |
+| 68 | [Travelin' Shoes](https://open.spotify.com/track/2AEOAkwJahnL1wfDziDXzY) | [Elvin Bishop](https://open.spotify.com/artist/2G1yVp387GlUf9yvLk6V11) | [20th Century Masters: The Millennium Collection: Best Of Elvin Bishop](https://open.spotify.com/album/1BNmf02FpfNKSvDflm1ITR) | 7:18 |
 | 69 | [Left Turn on a Red Light](https://open.spotify.com/track/16pGi1ZNrsPvx5TD8oFleb) | [Blackfoot](https://open.spotify.com/artist/10rzK0sLCXsUlDhl8ed0MV) | [Strikes](https://open.spotify.com/album/2nI6tciaY3r6CQR8YkXaYM) | 4:37 |
 | 70 | [Gimme, Gimme, Gimme](https://open.spotify.com/track/1f45G1LRvCKuq7BTC67HZx) | [Blackfoot](https://open.spotify.com/artist/10rzK0sLCXsUlDhl8ed0MV) | [Train, Train](https://open.spotify.com/album/1XhDXpPbnaPmyB526mHa0I) | 4:04 |
 | 71 | [That's Your Secret](https://open.spotify.com/track/4cPgzpdeKtOkgBYqHNLe9P) | [Sea Level](https://open.spotify.com/artist/3VqsPf2lM6ulJ5fjCJquyP) | [Cats On The Coast](https://open.spotify.com/album/3R4P3ai1blLNI2c8WXhpqR) | 5:16 |
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDjX0hus3Iu.md) - [plain]
 | 105 | [Searchin' for a Rainbow](https://open.spotify.com/track/5zS2DXR0XKNsVQSCHGEhx2) | [The Marshall Tucker Band](https://open.spotify.com/artist/59QxeZBL6k9L4oJBGSyukd) | [Greatest Hits](https://open.spotify.com/album/1fxEYNwdEzlAMOIzpdXy5w) | 3:05 |
 | 106 | [Come On](https://open.spotify.com/track/4sGtV91CRzmMqVCwWPdPuM) | [Southern Bitch](https://open.spotify.com/artist/5zpWZ217cRQHwQlSZSdKnR) | [Snake in the Grass](https://open.spotify.com/album/6tq5yl940mgDAIEdkZe98J) | 4:03 |
 
-Snapshot ID: `MTYwNDQzMDA3MiwwMDAwMDAwMGYzZTZjNjllMzBkY2FjNTI4N2ExNTUwZmYxMTNiYmE4`
+Snapshot ID: `MTYwNDQzMDA3MiwwMDAwMDAwMGRjMDUyMzlhMzg1ZTc0YTc3ZmE2MTUwZGQzMTM0NDAx`

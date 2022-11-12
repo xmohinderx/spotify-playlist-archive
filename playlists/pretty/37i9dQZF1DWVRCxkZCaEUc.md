@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVRCxkZCaEUc.md) - [plain]
 
 > tracks to play at full volume with the windows down
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,728 likes - 70 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,710 likes - 70 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVRCxkZCaEUc.md) - [plain]
 | 32 | [Everybody Talks](https://open.spotify.com/track/2iUmqdfGZcHIhS3b9E9EWq) | [Neon Trees](https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy) | [Picture Show](https://open.spotify.com/album/0uRFz92JmjwDbZbB7hEBIr) | 2:57 |
 | 33 | [Talk Too Much](https://open.spotify.com/track/4djIFfof5TpbSGRZUpsTXq) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [How Will You Know If You Never Try](https://open.spotify.com/album/4TJUrdwbeKC9qcouPlBuLe) | 3:07 |
 | 34 | [Slide \(feat\. Frank Ocean & Migos\)](https://open.spotify.com/track/6gpcs5eMhJwax4mIfKDYQk) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Slide \(feat\. Frank Ocean & Migos\)](https://open.spotify.com/album/1UIlzhqJLiA3f6OVw7QKn6) | 3:50 |
-| 35 | [Ribs](https://open.spotify.com/track/2MvvoeRt8NcOXWESkxWn3g) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine](https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v) | 4:18 |
+| 35 | [Ribs](https://open.spotify.com/track/6RkbWSg7BERrqohwadO7eG) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Lo\-Fi Chill](https://open.spotify.com/album/1lqsaGfQnES7sOl0PnIPEA) | 4:18 |
 | 36 | [Brazil](https://open.spotify.com/track/4sNG6zQBmtq7M8aeeKJRMQ) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [What Do You Think About the Car?](https://open.spotify.com/album/3HJiLDJgWA9Z0MvCxlzHYQ) | 4:12 |
 | 37 | [Better Days \(NEIKED x Mae Muller x Polo G\)](https://open.spotify.com/track/6f5ExP43esnvdKPddwKXJH) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Better Days \(NEIKED x Mae Muller x Polo G\)](https://open.spotify.com/album/2wcv0lHk5fUYyNGKugGa7q) | 2:40 |
 | 38 | [Wasted](https://open.spotify.com/track/7m3povhdMDLZwuEKak0l0n) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Matthew Koma](https://open.spotify.com/artist/1mU61l2mcjEFraXZLpvVMo) | [A Town Called Paradise \(Deluxe\)](https://open.spotify.com/album/1116PKIKlArm87HVaPtonW) | 3:10 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVRCxkZCaEUc.md) - [plain]
 | 69 | [Doses & Mimosas](https://open.spotify.com/track/44CZRkOxv7UItaAUmh8PgN) | [Cherub](https://open.spotify.com/artist/00dwwnz3V4kRfu3UFYpJLz) | [Year of the Caprese](https://open.spotify.com/album/070DVvXuLD3fM3KYs47tas) | 5:23 |
 | 70 | [Photo ID \(with Dominic Fike\)](https://open.spotify.com/track/1F35Dmog9pekyCVnH1eQpl) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [We Love Dogs!](https://open.spotify.com/album/1Aus1dFkP2BSyzibCl0HA7) | 3:29 |
 
-Snapshot ID: `MTY2MDIyNTk4NSwwMDAwMDAwMGUyMzM3NGE4NjJlMGIzYzVmOTQ1NjVkZDU2NTJhZDM2`
+Snapshot ID: `MTY2MDIyNTk4NSwwMDAwMDAwMDdiOWE5OGNkYjlmMDAxOTI2MDc2NzgyNjE2ZjEyZTZk`

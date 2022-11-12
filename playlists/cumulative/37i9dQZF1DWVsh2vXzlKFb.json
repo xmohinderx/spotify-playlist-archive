@@ -787,7 +787,7 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-06",
+      "date_removed": null,
       "duration_ms": 215814,
       "name": "Catch Me In The Air",
       "url": "https://open.spotify.com/track/6VRfsebyIwzt9otSvcuV87"
@@ -2005,7 +2005,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-19",
+      "date_removed": null,
       "duration_ms": 193731,
       "name": "Hot Crush Lover",
       "url": "https://open.spotify.com/track/2cBvJkneFRqK62VDL3yr0c"
@@ -3109,7 +3109,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 224444,
       "name": "N Side",
       "url": "https://open.spotify.com/track/12ILYlOEfWL8ei0BEgFJn0"
@@ -3441,6 +3441,24 @@
       "duration_ms": 176732,
       "name": "Peach",
       "url": "https://open.spotify.com/track/5JRMqkR82k2fdDEAim9SCN"
+    },
+    {
+      "album": {
+        "name": "Boys Cry",
+        "url": "https://open.spotify.com/album/55hp8spWuKixazOfG5olQQ"
+      },
+      "artists": [
+        {
+          "name": "Oscar Scheller",
+          "url": "https://open.spotify.com/artist/6BToM88XrzNI6VL5GxazUq"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212252,
+      "name": "Peach",
+      "url": "https://open.spotify.com/track/530kyqiGiyVWIArbjrGwKj"
     },
     {
       "album": {
@@ -4347,7 +4365,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 192120,
       "name": "T-Shirt Weather",
       "url": "https://open.spotify.com/track/1gR9y60Vr70iUtfC61JIXH"
@@ -5383,7 +5401,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 195951,
       "name": "You Stupid Bitch",
       "url": "https://open.spotify.com/track/65wEZxhPlAERKLcSbTD7qc"

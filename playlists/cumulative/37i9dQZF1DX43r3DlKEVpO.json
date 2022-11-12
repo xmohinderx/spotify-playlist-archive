@@ -742,6 +742,24 @@
     },
     {
       "album": {
+        "name": "Kell Smith",
+        "url": "https://open.spotify.com/album/0XN0Ml1SMmIgyX8IAXMchz"
+      },
+      "artists": [
+        {
+          "name": "Kell Smith",
+          "url": "https://open.spotify.com/artist/74WDLxBsm1TLxV6WVwD994"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Era uma Vez",
+      "url": "https://open.spotify.com/track/4jadi3XVifPdv5vzaoTll6"
+    },
+    {
+      "album": {
         "name": "Nossa Hist\u00f3ria (Ao Vivo)",
         "url": "https://open.spotify.com/album/4qEeyIC0z30gL0se5SxBYx"
       },
@@ -1635,7 +1653,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 140080,
       "name": "One and One Makes Two",
       "url": "https://open.spotify.com/track/14hfHTtZCp3xkD68IeQAEr"
@@ -1671,7 +1689,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 122066,
       "name": "Pela Luz Dos Olhos Teus",
       "url": "https://open.spotify.com/track/17RazUjuedPH44SoWaRTGI"
@@ -2050,6 +2068,24 @@
     },
     {
       "album": {
+        "name": "Hopeful Music",
+        "url": "https://open.spotify.com/album/2KLYTP6Lm6Sgsc4oCxWYO4"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180800,
+      "name": "Three Little Birds",
+      "url": "https://open.spotify.com/track/7G50pcN2iGxpJGVY34otOK"
+    },
+    {
+      "album": {
         "name": "Odessey & Oracle_ 30th Anniversary Edition",
         "url": "https://open.spotify.com/album/4f1WyuUDKJsfFMjUytsbA3"
       },
@@ -2101,6 +2137,24 @@
       "duration_ms": 214026,
       "name": "Time of the Season - Mono Version",
       "url": "https://open.spotify.com/track/6hleUCx3E4gB2urwRvx1QT"
+    },
+    {
+      "album": {
+        "name": "The Original Studio Recordings, Vol. 4",
+        "url": "https://open.spotify.com/album/0s2PMsWqj8BUaPr5PyhcCu"
+      },
+      "artists": [
+        {
+          "name": "The Zombies",
+          "url": "https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214026,
+      "name": "Time of the Season - Mono Version",
+      "url": "https://open.spotify.com/track/7Cs1pwjAhDtUms7QfBrwJR"
     },
     {
       "album": {
@@ -2311,7 +2365,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 179268,
       "name": "Voc\u00ea mentiu",
       "url": "https://open.spotify.com/track/51RD9ZadNXepSPBdDrAmNa"

@@ -474,6 +474,24 @@
     },
     {
       "album": {
+        "name": "Summer 90's Party",
+        "url": "https://open.spotify.com/album/2VK2N7r4Natalp58tod7dH"
+      },
+      "artists": [
+        {
+          "name": "Stereo MC's",
+          "url": "https://open.spotify.com/artist/1k8VBufn1nBs8LN9n4snc8"
+        }
+      ],
+      "date_added": "2021-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313000,
+      "name": "Connected",
+      "url": "https://open.spotify.com/track/35ycIb1IgAV92DkHaknNdc"
+    },
+    {
+      "album": {
         "name": "Connected",
         "url": "https://open.spotify.com/album/2IozNWNXp77fqFQOgzpLcw"
       },
@@ -485,7 +503,7 @@
       ],
       "date_added": "2021-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 314133,
       "name": "Connected",
       "url": "https://open.spotify.com/track/5t09SnxOR2AelOghumKkXO"
@@ -1031,10 +1049,28 @@
       ],
       "date_added": "2021-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 309093,
       "name": "Idioteque",
       "url": "https://open.spotify.com/track/1W5XugQJGhnSATMI5n002M"
+    },
+    {
+      "album": {
+        "name": "KID A MNESIA",
+        "url": "https://open.spotify.com/album/6ofEQubaL265rIW6WnCU8y"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "date_added": "2021-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309093,
+      "name": "Idioteque",
+      "url": "https://open.spotify.com/track/7Kx2i89MjDBLaT6zwy6eM2"
     },
     {
       "album": {
@@ -1676,6 +1712,24 @@
     },
     {
       "album": {
+        "name": "The Fat of the Land - Expanded Edition",
+        "url": "https://open.spotify.com/album/3knGLri9I3X3oO24mDNdkG"
+      },
+      "artists": [
+        {
+          "name": "The Prodigy",
+          "url": "https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB"
+        }
+      ],
+      "date_added": "2021-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343386,
+      "name": "Smack My Bitch Up",
+      "url": "https://open.spotify.com/track/1yYMtoXAnmivjrm0FD31Ok"
+    },
+    {
+      "album": {
         "name": "The Fat of the Land",
         "url": "https://open.spotify.com/album/2qivROlvQ8BcUKTaCA7dL2"
       },
@@ -1687,7 +1741,7 @@
       ],
       "date_added": "2021-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 343386,
       "name": "Smack My Bitch Up",
       "url": "https://open.spotify.com/track/2iwGE4y7yF8qzKc5WZ2Z8R"

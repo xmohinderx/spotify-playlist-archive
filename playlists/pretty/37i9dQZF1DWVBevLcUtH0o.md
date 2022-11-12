@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVBevLcUtH0o.md) - [plain]
 
 > When the music and the message is honest, songs can be both personal and universal\.   Here is a list that pushes and reflects the culture at large.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,667 likes - 52 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,670 likes - 52 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVBevLcUtH0o.md) - [plain]
 | 41 | [Gold](https://open.spotify.com/track/3wiw6GBuZrz9NK8V33Uecz) | [A.I\. The Anomaly](https://open.spotify.com/artist/3PoVfuLf8nvX4HLntiLTUa), [Eshon Burgundy](https://open.spotify.com/artist/25VsRrXJg8wvvMSSVwmp8E) | [Soul's Acrylic](https://open.spotify.com/album/5S1GbXsBQnHi4rsIXbh8CL) | 4:24 |
 | 42 | [The Solution](https://open.spotify.com/track/4m2H8u1tXCqgrJFCIPL67U) | [Jackie Hill Perry](https://open.spotify.com/artist/0Lf9qKpKwy6fJtfM7UWLV0), [Eshon Burgundy](https://open.spotify.com/artist/25VsRrXJg8wvvMSSVwmp8E) | [The Art of Joy](https://open.spotify.com/album/5onYnoS1ziFOeS97mNukM9) | 6:50 |
 | 43 | [Chapter 9: Jim Crow](https://open.spotify.com/track/1svcGl2eFoC5QPvl6TMAwf) | [Sho Baraka](https://open.spotify.com/artist/3dpswct31rsudWf8ZASWZe) | [Talented 10th](https://open.spotify.com/album/5q7DPccOYhZGsXzf6OeF6w) | 5:22 |
-| 44 | [Cynical](https://open.spotify.com/track/3a0Why8uuPhUrO6XjqO0gm) | [Propaganda](https://open.spotify.com/artist/7wGizTRCLYwsLnTuCBbJ6t), [Aaron Marsh](https://open.spotify.com/artist/1iCRhLSPD5G9D33YVYBdX6), [Sho Baraka](https://open.spotify.com/artist/3dpswct31rsudWf8ZASWZe) | [Crooked](https://open.spotify.com/album/0DzwXN6eBlVAU3qCslDgv4) | 3:52 |
+| 44 | [Cynical](https://open.spotify.com/track/4QvhkYvJhleC2fweo7jIVJ) | [Propaganda](https://open.spotify.com/artist/7wGizTRCLYwsLnTuCBbJ6t), [Aaron Marsh](https://open.spotify.com/artist/1iCRhLSPD5G9D33YVYBdX6), [Sho Baraka](https://open.spotify.com/artist/3dpswct31rsudWf8ZASWZe) | [Cynical](https://open.spotify.com/album/2Z52Ku7N5BXOmX47gNUUNV) | 3:52 |
 | 45 | [King](https://open.spotify.com/track/3Klw5pno7AxSdl1W7IFSuW) | [Bizzle](https://open.spotify.com/artist/0P8V2XSw1mIo8739T1qjzr), [H.U.R.T.](https://open.spotify.com/artist/1mOPjLn8di3tMig4uO4Fgq) | [Crowns & Crosses](https://open.spotify.com/album/7pxrgXnK0sYcH0Z1bJ9Joy) | 4:29 |
 | 46 | [Crooked Ways](https://open.spotify.com/track/2IKm4pDopgAgBSVKZd2Fqw) | [Propaganda](https://open.spotify.com/artist/7wGizTRCLYwsLnTuCBbJ6t), [Terence F\. Clark](https://open.spotify.com/artist/1POjjGDdXoEeXv27GsMxp5) | [Crooked](https://open.spotify.com/album/0DzwXN6eBlVAU3qCslDgv4) | 6:22 |
 | 47 | [Flood](https://open.spotify.com/track/5uM243tBt7bWKDrXH8HbJv) | [Davis Absolute](https://open.spotify.com/artist/3ky8U0naf7LBnhlA1VC5IW) | [Flood](https://open.spotify.com/album/6aPYWi3ttbbolu1wapO4p4) | 3:15 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVBevLcUtH0o.md) - [plain]
 | 51 | [One Day](https://open.spotify.com/track/6oH5sjilDhOF7cZpkocOJc) | [Lawren](https://open.spotify.com/artist/2g6ZseL9bJT7cB4T0BdiXj), [Beleaf](https://open.spotify.com/artist/7N204QRVuZ3LCoVkKRPf1T) | [Pieces](https://open.spotify.com/album/6ricKbHwORwyebGUNEKkw7) | 2:18 |
 | 52 | [No Hate \(feat\. Bumps Inf\)](https://open.spotify.com/track/4JFHumqDdqiJ8hzazjZT23) | [Bizzle](https://open.spotify.com/artist/0P8V2XSw1mIo8739T1qjzr), [Bumps Inf](https://open.spotify.com/artist/0kbnFIVENMVtl0VBSwdysP) | [Surrender](https://open.spotify.com/album/4lMRz04k2wnJmf2Yr3F15E) | 3:51 |
 
-Snapshot ID: `MTYxNjgwODY0NSwwMDAwMDAwMDAyODkyY2QwZWYxN2Q3Nzg3MmI0NWVmNTFkZTcyMjk5`
+Snapshot ID: `MTYxNjgwODY0NSwwMDAwMDAwMDdjYzQwODJmNTc5MmI2ZjY5OTY1ZDViMWQwMDkyMmUx`

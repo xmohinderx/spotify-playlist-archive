@@ -1,13 +1,49 @@
 {
-  "description": "Where R&B from around the world comes to play with hip-hop & pop!   Cover: CoCo Jones",
-  "num_followers": 1754156,
+  "description": "Where R&B from around the world comes to play with hip-hop & pop!   Cover: Mahalia",
+  "num_followers": 1754372,
   "original_name": "Channel-X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzU3MjU5OSwwMDAwMDAwMGFhOTUyM2NjZWU0YjZlMWRkM2NhOWQ2Mjg1OTIzYjQx",
+  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMGZiNDEyMzYxYjE1Y2EzZTE0MDdiYjAxMTVmOTcyYjJj",
   "tracks": [
+    {
+      "added_at": "2022-10-28 07:48:58",
+      "album": {
+        "name": "Shirt",
+        "url": "https://open.spotify.com/album/6Kqm5aSp69hTaOHTx38hsD"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 181830,
+      "name": "Shirt",
+      "url": "https://open.spotify.com/track/34ZAzO78a5DAVNrYIGWcPm"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "More Love, Less Ego",
+        "url": "https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 187906,
+      "name": "2 Sugar (feat. Ayra Starr)",
+      "url": "https://open.spotify.com/track/1DA2ADZs6O28y2rmdmpekw"
+    },
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
@@ -29,22 +65,6 @@
       "url": "https://open.spotify.com/track/0sSRLXxknVTQDStgU1NqpY"
     },
     {
-      "added_at": "2022-10-28 07:48:58",
-      "album": {
-        "name": "Shirt",
-        "url": "https://open.spotify.com/album/6Kqm5aSp69hTaOHTx38hsD"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 181830,
-      "name": "Shirt",
-      "url": "https://open.spotify.com/track/34ZAzO78a5DAVNrYIGWcPm"
-    },
-    {
       "added_at": "2022-10-03 18:11:06",
       "album": {
         "name": "Buckles Laboratories Presents: The Intermission",
@@ -59,6 +79,42 @@
       "duration_ms": 202519,
       "name": "Spread Thin",
       "url": "https://open.spotify.com/track/4MbzauKV2ydtZZjLsPcuTF"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Bag Of You",
+        "url": "https://open.spotify.com/album/4J2ZnI41Z9yElyzM2TzBrM"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        }
+      ],
+      "duration_ms": 197427,
+      "name": "Bag Of You",
+      "url": "https://open.spotify.com/track/3X7aFBB2ja4QT2XEuxKCIA"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "TANTRA",
+        "url": "https://open.spotify.com/album/2m9d5jfphaM15b58uYYRcK"
+      },
+      "artists": [
+        {
+          "name": "Yung Bleu",
+          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "duration_ms": 169756,
+      "name": "Your Love Is Dangerous",
+      "url": "https://open.spotify.com/track/1sSirMADazMg5vdkpdQgy0"
     },
     {
       "added_at": "2022-10-28 07:48:58",
@@ -285,6 +341,22 @@
       "url": "https://open.spotify.com/track/37oNzLFCyw2On6e39bN2sp"
     },
     {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Firebabe",
+        "url": "https://open.spotify.com/album/4VKvqrfZFcNM28kXsbTwcz"
+      },
+      "artists": [
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        }
+      ],
+      "duration_ms": 220346,
+      "name": "Firebabe",
+      "url": "https://open.spotify.com/track/0IkcOWI1DIFM2L6kIukxr4"
+    },
+    {
       "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "Take Shots (feat. Tory Lanez)",
@@ -303,6 +375,26 @@
       "duration_ms": 281985,
       "name": "Take Shots (feat. Tory Lanez)",
       "url": "https://open.spotify.com/track/2tFwYCvY0x9IfeW63AdMpM"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "More Love, Less Ego",
+        "url": "https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 203026,
+      "name": "Special (feat. Don Toliver)",
+      "url": "https://open.spotify.com/track/6MtFM9kbhhuN04rwDxPvn4"
     },
     {
       "added_at": "2022-09-23 04:07:20",
@@ -339,6 +431,38 @@
       "duration_ms": 134875,
       "name": "Crazy For Me",
       "url": "https://open.spotify.com/track/1WgkChJ5Yc5evU18bSHEzA"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "SATIN",
+        "url": "https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "duration_ms": 181144,
+      "name": "DAYDREAM",
+      "url": "https://open.spotify.com/track/2dsbZwFPMYhchakMgL72DD"
+    },
+    {
+      "added_at": "2022-10-15 00:20:03",
+      "album": {
+        "name": "Drunk",
+        "url": "https://open.spotify.com/album/7vHBQDqwzB7uDvoE5bncMM"
+      },
+      "artists": [
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        }
+      ],
+      "duration_ms": 188453,
+      "name": "Them Changes",
+      "url": "https://open.spotify.com/track/7CH99b2i1TXS5P8UUyWtnM"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -491,8 +615,8 @@
     {
       "added_at": "2022-10-28 07:48:58",
       "album": {
-        "name": "YOUNG PREACHER",
-        "url": "https://open.spotify.com/album/4cz1acZPi8BkrfmIooqnlV"
+        "name": "Young Preacher",
+        "url": "https://open.spotify.com/album/5J4BbjFnBq9C31xsph3ld2"
       },
       "artists": [
         {
@@ -510,7 +634,27 @@
       ],
       "duration_ms": 186433,
       "name": "WHISTLE (feat. Lojay & Amaarae)",
-      "url": "https://open.spotify.com/track/11Ti6zSL9YNLz6tF5fuetQ"
+      "url": "https://open.spotify.com/track/7KTyBUl3f402RdK4Af7RDB"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Roll On Me",
+        "url": "https://open.spotify.com/album/5fNWSpENYMGAqIYehytNyU"
+      },
+      "artists": [
+        {
+          "name": "evrYwhr",
+          "url": "https://open.spotify.com/artist/11xAvdpLHrDd9f2VIG8QB3"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 169006,
+      "name": "Roll On Me",
+      "url": "https://open.spotify.com/track/7dwgWc4n7rp7ruK9c21cyo"
     },
     {
       "added_at": "2022-08-05 04:15:19",
@@ -615,22 +759,6 @@
       "duration_ms": 141886,
       "name": "Gummy",
       "url": "https://open.spotify.com/track/657jlDn3QlxiuR0pFcyjPB"
-    },
-    {
-      "added_at": "2022-10-15 00:20:03",
-      "album": {
-        "name": "Drunk",
-        "url": "https://open.spotify.com/album/7vHBQDqwzB7uDvoE5bncMM"
-      },
-      "artists": [
-        {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
-        }
-      ],
-      "duration_ms": 188453,
-      "name": "Them Changes",
-      "url": "https://open.spotify.com/track/7CH99b2i1TXS5P8UUyWtnM"
     },
     {
       "added_at": "2022-10-21 04:00:00",

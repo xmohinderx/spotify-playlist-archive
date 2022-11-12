@@ -4,13 +4,15 @@
 
 > Soothing drones, ambient piano and new age music.
 
-270 songs - 14 hr 3 min - [published](https://open.spotify.com/playlist/1tJP4oFBS9EBb2EwWUOI1D)
+279 songs - 14 hr 30 min - [published](https://open.spotify.com/playlist/1tJP4oFBS9EBb2EwWUOI1D)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Cabinet With Phosphorescence](https://open.spotify.com/track/4PO5kkTwxCqpumXdDAFQVw) | [Genevieve Bertram](https://open.spotify.com/artist/10ODqXnN38l7oy4TaMbsGO) | [A Cabinet With Phosphorescence](https://open.spotify.com/album/1QU2tdTMOOBv0DUkiMeoeR) | 3:28 | 2022-05-25 |  |
+| [A Neutral Place](https://open.spotify.com/track/6Db6Cz42MGCRkM28KHivIy) | [Logan Docherty](https://open.spotify.com/artist/7amQ98BuFYDzaxShGajJ1e) | [A Neutral Place](https://open.spotify.com/album/5gQ1Y7dwVAIWwTwjzZNZho) | 2:49 | 2022-11-11 |  |
 | [A New Day](https://open.spotify.com/track/2YmHA1zfrkam6TaO5mkQgZ) | [Cooper Sams](https://open.spotify.com/artist/5dQtzw5YaP9ZCMv0GWymws) | [A New Day](https://open.spotify.com/album/0yfSVnunzAXRjdc89P502Q) | 4:15 | 2022-05-25 | 2022-09-28 |
 | [A Soft Echo](https://open.spotify.com/track/0p4YqnuGL81qRn6UNg4mxN) | [Lusciousness](https://open.spotify.com/artist/5mFwFCtioyQoqFUYY3VKtf) | [A Soft Echo](https://open.spotify.com/album/38a7MUTk2Rl9Za9HlGAB1O) | 3:53 | 2022-05-25 |  |
+| [A Tu Lado](https://open.spotify.com/track/2774iv7rt5UytxvyYe4z4O) | [Artura Ponce Valles](https://open.spotify.com/artist/1V3rUG8q0KGU4wPVS0LIq1) | [A Tu Lado](https://open.spotify.com/album/3rxGCfwUAdQuABxVVYmY3k) | 3:17 | 2022-11-11 |  |
 | [A Warm Welcoming 432 Hz](https://open.spotify.com/track/7k3AUCixyOTdwGCc5u0JKN) | [Joni Ende](https://open.spotify.com/artist/1Ufx5KF5HaWoZD6stEKlD4) | [Pearls](https://open.spotify.com/album/3cWfXIIpbZe37wFkG671iP) | 2:48 | 2022-10-07 |  |
 | [Aan de andere kant](https://open.spotify.com/track/0pIQQqzZpzh00oTnY1VhXi) | [Cyrano Brussee](https://open.spotify.com/artist/7tlxZyGtbGvlr4TPWLhJx6) | [Aan de andere kant](https://open.spotify.com/album/1QaSWd0iizfIrmRKuuqfIM) | 4:06 | 2022-05-25 | 2022-10-01 |
 | [Acceptance](https://open.spotify.com/track/303e6fTCQ5d3ljcg1TQrkC) | [Johann Eder](https://open.spotify.com/artist/0aCbxLi0ypSIj30oAT4T3o) | [Acceptance](https://open.spotify.com/album/5TifGwgK5S9VTApf5z4Qfx) | 2:54 | 2022-05-25 | 2022-09-28 |
@@ -21,6 +23,7 @@
 | [All Rivers](https://open.spotify.com/track/5bw8YBybhZA37RZKjZ2voM) | [Static Garden](https://open.spotify.com/artist/3uuH2jEYv8ZArIf83io4hN) | [All Rivers](https://open.spotify.com/album/0QgSmP4m5QXm8s76qrUM91) | 3:57 | 2022-05-25 | 2022-09-03 |
 | [Amethyst](https://open.spotify.com/track/3d1399HgDr0DSrnmd2EUIx) | [Spirit Minds](https://open.spotify.com/artist/3GrOqlDYHDtloOS3v1cnvD) | [Amethyst](https://open.spotify.com/album/1yXjEkY9ngLsAW8Fc1Hur5) | 3:02 | 2022-09-23 |  |
 | [Amoralis](https://open.spotify.com/track/2mTpYXCPuy7FVLyi958Qpl) | [Sheila's Disciples](https://open.spotify.com/artist/6fVRZUOhSnwc3dtmooHbkO) | [Amoralis](https://open.spotify.com/album/1O1xjqTSjZzCmAMIGNYYwg) | 4:13 | 2022-05-25 |  |
+| [Anachronic](https://open.spotify.com/track/28BhahBC2qOpui6ryXoCev) | [Jeila Sander](https://open.spotify.com/artist/1AhX9oQWyvwH5cYYSQbqUZ) | [Anachronic](https://open.spotify.com/album/4xvH0fR97sPN1K2NXajyLB) | 2:48 | 2022-11-11 |  |
 | [Anay degimay](https://open.spotify.com/track/3wuEQyST9B3qhPlNymA4Vl) | [Petros Idris](https://open.spotify.com/artist/2KPSqFXX8R2WJ72KyFFEdc) | [Anay degimay](https://open.spotify.com/album/23hYRiBfshqH0kACbIGjiH) | 3:17 | 2022-05-25 |  |
 | [Angalalluarina](https://open.spotify.com/track/7HMqoo6TbtoZLHwqkfp7Lw) | [Søren Jeremiassen](https://open.spotify.com/artist/54h5UZPx5rj7dEDGaofoaj) | [Angalalluarina](https://open.spotify.com/album/0Oi2WtaSEaPXedHjY4bbV2) | 4:00 | 2022-05-25 |  |
 | [Angel Gamma Choir](https://open.spotify.com/track/3ecLObZD4KDhSTokl9HGOS) | [Binaural Landscapes](https://open.spotify.com/artist/5F1SC2pxuIO4iT2LnMIjQn) | [Relaxing Delta](https://open.spotify.com/album/5O8YZFDlUoxesk17FCIECn) | 3:46 | 2022-05-25 |  |
@@ -97,6 +100,7 @@
 | [Finistère](https://open.spotify.com/track/0Qp6bdPb0XxwGCW2TDzL9d) | [xerLK](https://open.spotify.com/artist/5UI7y2lrDYhqcM7sdbTbQ9) | [Finistère](https://open.spotify.com/album/4lwNTmD62b3cssnfE0G1yr) | 2:21 | 2022-05-25 | 2022-07-29 |
 | [Finistère](https://open.spotify.com/track/14eatj3LOOiVomamOwczLf) | [xerLK](https://open.spotify.com/artist/5UI7y2lrDYhqcM7sdbTbQ9) | [Finistère](https://open.spotify.com/album/39MfK6NqI34RT34rwvHn2I) | 2:21 | 2022-07-15 | 2022-09-28 |
 | [Finn roen](https://open.spotify.com/track/0NtkoVSkVKRmybx0Vau21E) | [Andrine Årdal](https://open.spotify.com/artist/4bxTOGvKxGPNTKqgbDsoIx) | [Finn roen](https://open.spotify.com/album/2eX9Kdyv7Pb6ro098w5yke) | 3:34 | 2022-05-25 |  |
+| [Following The Seasons](https://open.spotify.com/track/748k8Bk5Nousy75IFv6QQy) | [Aisha Akebono](https://open.spotify.com/artist/1lI0k1BiLHvfJub3QQfe72) | [Following The Seasons](https://open.spotify.com/album/22h16XP7CqXPQAzro1YXcb) | 3:31 | 2022-11-11 |  |
 | [Fragments Café](https://open.spotify.com/track/0BIStdXlI7hvMEkIfROFUt) | [Paris Atmosphere](https://open.spotify.com/artist/7nd5uBLriymq37OCBKq71k) | [Paris Atmosphere](https://open.spotify.com/album/0hEKprQBXJUWFSgrYxbGYb) | 3:54 | 2022-07-15 | 2022-09-03 |
 | [Fragments Café](https://open.spotify.com/track/3jg4Z0yPJsVx5M3BOYkBS0) | [Paris Atmosphere](https://open.spotify.com/artist/7nd5uBLriymq37OCBKq71k) | [Paris Atmosphere](https://open.spotify.com/album/71Ao0d8AcoKZdzOFhZzScO) | 3:54 | 2022-05-25 | 2022-07-29 |
 | [Friendship Of The Gebora](https://open.spotify.com/track/5kJiKkxRlAX62gNCCoMBan) | [Lost Rainbow](https://open.spotify.com/artist/2AcvgHNvj15wvGtQZQDTbh) | [Friendship Of The Gebora](https://open.spotify.com/album/592uas3YkCZMuDdVQnV4BL) | 3:24 | 2022-05-25 |  |
@@ -180,6 +184,7 @@
 | [Peaceful Dreams](https://open.spotify.com/track/4dXeSoH8k8iq8uQz2ZZZSK) | [Menidia](https://open.spotify.com/artist/4scbgnFpSTNWZgSaxcXLS8) | [The Far Distance](https://open.spotify.com/album/4BsjkgUXT2QBtig8ONnvks) | 3:27 | 2022-10-07 |  |
 | [Peaceful Harmony](https://open.spotify.com/track/5YXMvnrosh3tVYusmR8lyb) | [Jasmine Bordeaux](https://open.spotify.com/artist/5kxIHAETC8i2dwHZOASyVD) | [Peaceful Harmony](https://open.spotify.com/album/6yigwF9cIfuoVoWwhf1YET) | 2:15 | 2022-05-25 |  |
 | [Peaceful Sundown](https://open.spotify.com/track/03o9SRxgQAu7lpmvqePASW) | [Buddha’s Sleep](https://open.spotify.com/artist/32JsxZpT1TFmRtCJzr7lg2) | [Peaceful Sundown](https://open.spotify.com/album/7owwupvVS9cNFJLvI1hQKI) | 2:34 | 2022-09-27 |  |
+| [Peaks](https://open.spotify.com/track/08ZVl6IBiPemNOsVfkoIyv) | [Yves Alija](https://open.spotify.com/artist/6pUJ81I1hkjgVQ6TW448Lw) | [Peaks](https://open.spotify.com/album/2xv2cURnTpq0NdL39xJsCw) | 2:48 | 2022-11-11 |  |
 | [Petribungi](https://open.spotify.com/track/57kdkW0uoj8wZkKj6J6ucp) | [Numerorum mysteria](https://open.spotify.com/artist/3DAhwqtZw5k7ygr3JxFuKL) | [Petribungi](https://open.spotify.com/album/5QTxoUuOXKWxpeXbLKyRhP) | 3:36 | 2022-05-25 |  |
 | [Phi](https://open.spotify.com/track/48Tgnq986GrPCGJJz65n4M) | [Steven Goldmund](https://open.spotify.com/artist/3dwkO7z23scCJppeqHGTy3) | [Constants](https://open.spotify.com/album/77TLggcnKVaRn7CyfdbUtH) | 3:45 | 2022-05-25 |  |
 | [Pojď se mnou](https://open.spotify.com/track/1s8Nw1IcBENpU7pIGOH8Uk) | [Václav Slezák](https://open.spotify.com/artist/3VHBfS16hX93D0BLGwraUz) | [Pojď se mnou](https://open.spotify.com/album/5fTi5LgFPvSVBBEMAJRL6s) | 3:05 | 2022-09-02 |  |
@@ -189,6 +194,7 @@
 | [Primordeal Instincts](https://open.spotify.com/track/2HFa8YQM9xXsaqquv8efKI) | [Michel LeBond](https://open.spotify.com/artist/49r28kFLIBUEgxnjLUvUwA) | [Eternal Sunshine of](https://open.spotify.com/album/1lHy2i4BtaeDccL7h4yiHN) | 3:20 | 2022-05-25 |  |
 | [Purple Sunrise](https://open.spotify.com/track/6DkUtEi0XgqV8LmnbDVpna) | [IFEELU](https://open.spotify.com/artist/59TdBGgpKBf2dRrmguF06s) | [Purple Sunrise](https://open.spotify.com/album/1fySOtQ7AtVUlLmwzvd0tg) | 2:57 | 2022-05-25 | 2022-09-28 |
 | [Purpose](https://open.spotify.com/track/5GzuDxMuqENSCZ61rb3Zex) | [Yonatan Awate](https://open.spotify.com/artist/6ptntg50Xz0ACYkxCIOHz0) | [Purpose](https://open.spotify.com/album/20huIijfp7AeN5jvvzfeYv) | 3:34 | 2022-05-25 |  |
+| [Quiet Motions](https://open.spotify.com/track/5G5T4D1uFd2mjhuM5O7bXu) | [Spheres](https://open.spotify.com/artist/3c3ccZ0IYqJ9cfMdSfVt02) | [Quiet Motions](https://open.spotify.com/album/7JycG0PMs6yxJBgSmx1Cmr) | 3:15 | 2022-11-11 |  |
 | [Quiet Nights](https://open.spotify.com/track/0Xn2rEgAEJ82XKXLttBNEv) | [The Only Star In The Sky](https://open.spotify.com/artist/0V0CTs5Y6qKqbzZ7lomgkz) | [Wave After Wave EP](https://open.spotify.com/album/2BTITyM3Rlo6tL1Z2wnZj2) | 3:06 | 2022-05-25 | 2022-09-28 |
 | [Raindrops](https://open.spotify.com/track/28xGur60VKWbXN0xO53r28) | [Enzo](https://open.spotify.com/artist/2zhxw6A7BNmwZpgCJkjwRz) | [Sunrise](https://open.spotify.com/album/4OqOKmqpBvfAw1NF68Vd83) | 3:11 | 2022-07-15 | 2022-09-28 |
 | [Raindrops](https://open.spotify.com/track/4E0yiWum59pIWFOYhMSmH1) | [Enzo](https://open.spotify.com/artist/2zhxw6A7BNmwZpgCJkjwRz) | [Far & Away](https://open.spotify.com/album/3nKaL2gpdF60hvUKfMBOBZ) | 3:11 | 2022-05-25 | 2022-07-29 |
@@ -203,6 +209,7 @@
 | [Sangre](https://open.spotify.com/track/6eck4C7AFDsmv8AAwozNa1) | [Pathos Humano](https://open.spotify.com/artist/7vXoDYDNvHHzx4DG7T1cO9) | [Sangre](https://open.spotify.com/album/4HZ6xvpX9SxOHE2JX72iar) | 3:46 | 2022-05-25 |  |
 | [Sapnis](https://open.spotify.com/track/0UmxO4xdWoH3hRUQwcqdqC) | [Pax Gene](https://open.spotify.com/artist/1IxEav5X3hEPqk0of4PY1I) | [Sapnis](https://open.spotify.com/album/4T8YxsVIllqkGfBz1RRUhW) | 3:37 | 2022-05-25 |  |
 | [Sapphire Destiny](https://open.spotify.com/track/4MX7s8DZ4nIAWhtPzaUK41) | [Real'ax Melody](https://open.spotify.com/artist/0PJmEawyjX5GHTMYmOZSif) | [A Relaxed Sleep](https://open.spotify.com/album/6tK8199QPE2y52zzGjxvkO) | 4:20 | 2022-05-25 |  |
+| [Seascapes](https://open.spotify.com/track/18ZduE8dvitDNwas6MkmhR) | [Furna](https://open.spotify.com/artist/2MtNVvbfAnblCOA9RXKfBx) | [Seascapes](https://open.spotify.com/album/2dGui3KCKyBOlpNqKVgqJH) | 2:57 | 2022-11-11 |  |
 | [Secret Haven](https://open.spotify.com/track/0sk2c1F1WqhnBDFlxefiQM) | [August D\. Valentine](https://open.spotify.com/artist/4MJYe0nbmZr7ty64T1VGoN) | [Secret Haven](https://open.spotify.com/album/6VjqiyIPItbntWdMsTH3DB) | 4:30 | 2022-05-25 | 2022-09-28 |
 | [Seguro](https://open.spotify.com/track/33jgsXDccgPQ6C4LLLPwhp) | [Alma Meris](https://open.spotify.com/artist/7nHBvqVu3gxM1AFY5gHQs0) | [Descanso](https://open.spotify.com/album/1pzm6eTtrCOHYuyqGeCpoZ) | 2:37 | 2022-07-08 |  |
 | [Selama Aku Bersamamu](https://open.spotify.com/track/6j3XbhOPbyAqJcYc1gkRdS) | [Indah Bethari](https://open.spotify.com/artist/6PEb2KuIsMYIR8DFdBL2al) | [Selama Aku Bersamamu](https://open.spotify.com/album/14AvT6nrlER3v91lS8MvDs) | 4:12 | 2022-05-25 |  |
@@ -227,6 +234,8 @@
 | [Soft Waves and Relaxing Piano 2](https://open.spotify.com/track/1uwgFTlhVezGm03UgDZ6jX) | [Vilhelm Brandt](https://open.spotify.com/artist/4k5hcVGerX1LVQ79iXD52S) | [Soft Waves and Relaxing Piano](https://open.spotify.com/album/6MwZDExAHrpKWbTmnGDf7Y) | 3:29 | 2022-05-25 | 2022-09-28 |
 | [Solitude](https://open.spotify.com/track/5TwlZ0NAJcQfaLuxKMCA6u) | [Minonna](https://open.spotify.com/artist/6mysyQI353vNbwstr6pT1Y) | [Reflections](https://open.spotify.com/album/7n8TXa3WbjkS4vbcD9zqgr) | 3:17 | 2022-05-25 |  |
 | [Source of Wind](https://open.spotify.com/track/0T07s204fGJju5AXG66q9T) | [Kazuhiro Hotaru](https://open.spotify.com/artist/6E4AAQrnf9tTnO5V4okE2W) | [Amulet](https://open.spotify.com/album/2GQEOYKfnufvPkchfeRukl) | 3:05 | 2022-05-25 |  |
+| [Southward Bound \(432 Hz\)](https://open.spotify.com/track/4kVJriKGhf4s47EnbfIloH) | [Halcyon Wings](https://open.spotify.com/artist/1bMx6u2wXC3Ox3Cld6zyGQ) | [Southward Bound](https://open.spotify.com/album/3i5u5gnGKkgEH6eiqMcYjr) | 2:34 | 2022-11-11 |  |
+| [Spirals](https://open.spotify.com/track/78HCy9rFb20PwAJvk9Tv73) | [Hrothgar Tarek](https://open.spotify.com/artist/3qck56pCDgsvfDR5WK15SB) | [Spirals](https://open.spotify.com/album/4bzZ0mCQXJOBOvTVLxa7iZ) | 2:49 | 2022-11-11 |  |
 | [Spirito](https://open.spotify.com/track/7t8ODF7MgfkJzRRkpNb4DP) | [Pathos Humano](https://open.spotify.com/artist/7vXoDYDNvHHzx4DG7T1cO9) | [Sangre](https://open.spotify.com/album/4HZ6xvpX9SxOHE2JX72iar) | 4:38 | 2022-05-25 | 2022-09-28 |
 | [Stability](https://open.spotify.com/track/3TtUdxpTryn7LFH88bCsLS) | [Eight Dimentional](https://open.spotify.com/artist/1yyFV6PGI3TOJ2XLS60ZKV) | [Inner Self](https://open.spotify.com/album/6CJRH9BowxB72eKpVrPtKx) | 2:55 | 2022-05-25 |  |
 | [Stilhed](https://open.spotify.com/track/1pAKUFLp8gtOrAAPwkFYJ0) | [Alba Lie](https://open.spotify.com/artist/3l67IPTFGbGnzJGQCnXQQl) | [Stilhed](https://open.spotify.com/album/3Caf8c4V7JpRTEI4FSUfPk) | 3:19 | 2022-09-27 |  |

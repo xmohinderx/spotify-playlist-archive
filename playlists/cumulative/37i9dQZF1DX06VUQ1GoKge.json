@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 284715,
       "name": "666 - World Divided",
       "url": "https://open.spotify.com/track/2OsCkXO8524Qxwe1pR3eAb"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2021-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": null,
       "duration_ms": 214477,
       "name": "A Flag to Wave",
       "url": "https://open.spotify.com/track/2vbIlZuY3e7Coho7Av1eYz"
@@ -199,7 +199,7 @@
       ],
       "date_added": "2021-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": null,
       "duration_ms": 291967,
       "name": "Afflicted",
       "url": "https://open.spotify.com/track/2gpw73Uq840rdD5YqJZkWk"
@@ -325,7 +325,7 @@
       ],
       "date_added": "2021-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 291440,
       "name": "Angel Of Death",
       "url": "https://open.spotify.com/track/61dTqhd46yMkSWmC5LAh5F"
@@ -577,7 +577,7 @@
       ],
       "date_added": "2021-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": null,
       "duration_ms": 172571,
       "name": "Bird On A Chain",
       "url": "https://open.spotify.com/track/4IF5tqSLknKGYp0uQPZw6P"
@@ -1515,7 +1515,7 @@
       ],
       "date_added": "2021-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 176600,
       "name": "Get Up Again",
       "url": "https://open.spotify.com/track/7jClgHzR5JG69gar7rVMoX"
@@ -1785,7 +1785,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": null,
       "duration_ms": 286000,
       "name": "I Am Damnation",
       "url": "https://open.spotify.com/track/17ExHVQYfJBlTSnbidz0LQ"
@@ -2099,7 +2099,7 @@
       ],
       "date_added": "2021-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 161626,
       "name": "Looking Down the Barrel of Today",
       "url": "https://open.spotify.com/track/5IVA7WzOlWrmZh8EqZqMaw"
@@ -2160,6 +2160,24 @@
     },
     {
       "album": {
+        "name": "Stranger Things: Soundtrack from the Netflix Series, Season 4",
+        "url": "https://open.spotify.com/album/3Tij2oa4FJWd7Gk0pJaf0w"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2021-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 514479,
+      "name": "Master of Puppets",
+      "url": "https://open.spotify.com/track/799XxzSlWNYkuWJxUbuGnF"
+    },
+    {
+      "album": {
         "name": "Master Of Puppets (Remastered)",
         "url": "https://open.spotify.com/album/2Lq2qX3hYhiuPckC8Flj21"
       },
@@ -2189,7 +2207,7 @@
       ],
       "date_added": "2021-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 515386,
       "name": "Master of Puppets (Remastered)",
       "url": "https://open.spotify.com/track/54bm2e3tk8cliUz3VSdCPZ"
@@ -2387,7 +2405,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-25",
+      "date_removed": null,
       "duration_ms": 227899,
       "name": "Omens",
       "url": "https://open.spotify.com/track/1sA4cTWNcQMwzrqYG0hCci"
@@ -2855,7 +2873,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 222240,
       "name": "Runnin' Wild",
       "url": "https://open.spotify.com/track/71fSn6OIF7HnCbgCzOBqpj"
@@ -3147,7 +3165,7 @@
       ],
       "date_added": "2021-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 193813,
       "name": "Sun Doesn't Rise",
       "url": "https://open.spotify.com/track/24CeaRaJHiMKFAVZTCu8Y0"
@@ -3613,7 +3631,7 @@
       ],
       "date_added": "2021-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 260773,
       "name": "Unsainted",
       "url": "https://open.spotify.com/track/5mpUKTdskZea0gStWzeHUZ"

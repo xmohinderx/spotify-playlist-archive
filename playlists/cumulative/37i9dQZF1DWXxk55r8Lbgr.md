@@ -4,7 +4,7 @@
 
 > 這些歌手將以其令人讚嘆的嗓音和演唱技巧牽動你的心弦。
 
-47 songs - 3 hr 16 min - [published](https://open.spotify.com/playlist/4GzdWnyuh34dYIiqYkZc9p)
+49 songs - 3 hr 24 min - [published](https://open.spotify.com/playlist/4GzdWnyuh34dYIiqYkZc9p)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [Carry On](https://open.spotify.com/track/2yWvcoWITUwEPPi06eN289) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Roses](https://open.spotify.com/album/4Nn3apTNl52ztIAKqjVPDH) | 3:35 | 2016-06-08 | 2022-07-29 |
 | [Carry On](https://open.spotify.com/track/3y9NrDzc6IfDQabE38Xw0D) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Roses \(Deluxe Edition\)](https://open.spotify.com/album/4rb0ToWRx0JUKakgtc8VOy) | 3:35 | 2022-07-29 | 2022-11-11 |
 | [Carry On](https://open.spotify.com/track/4TebWmEYsYpdh3suakII7q) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Roses](https://open.spotify.com/album/4nQg1mUddBTQqnBTDyHCr6) | 3:35 | 2022-11-11 |  |
-| [Domino](https://open.spotify.com/track/6MAdEUilV2p9RQUqE5bMAK) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Who You Are \(Platinum Edition\)](https://open.spotify.com/album/3ga4adzUpLaS2LDcoqfs2r) | 3:51 | 2022-07-29 |  |
+| [Domino](https://open.spotify.com/track/5P7doOWGZOnz0tFvlQwcNA) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Pop Royalty](https://open.spotify.com/album/15WQObBzFWbMEeoUjSjHYl) | 3:51 | 2022-11-12 |  |
+| [Domino](https://open.spotify.com/track/6MAdEUilV2p9RQUqE5bMAK) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Who You Are \(Platinum Edition\)](https://open.spotify.com/album/3ga4adzUpLaS2LDcoqfs2r) | 3:51 | 2022-07-29 | 2022-11-12 |
 | [Domino](https://open.spotify.com/track/2fQxE0jVrjNMT9oJAXtSJR) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Who You Are \(Platinum Edition\)](https://open.spotify.com/album/0BZbTNqpXFg6lxNv78X7Lp) | 3:51 | 2016-06-08 | 2022-07-29 |
 | [Fantasy](https://open.spotify.com/track/6xkryXuiZU360Lngd4sx13) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 4:03 | 2016-06-08 |  |
 | [Fighter](https://open.spotify.com/track/7nXq1vaZiz7PdbfojpPjW5) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Stripped](https://open.spotify.com/album/2USigX9DhGuAini71XZEEK) | 4:05 | 2016-06-08 |  |
@@ -48,8 +49,9 @@
 | [Turn Me On](https://open.spotify.com/track/1ujrk4yPeKyJ3OxNLht8um) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Sunrise Music 2020](https://open.spotify.com/album/3MRWqWJIMs9ySiM909xwpQ) | 2:34 | 2022-11-11 |  |
 | [Uninvited](https://open.spotify.com/track/7c1iI6dwdCpHGYT8DGEfab) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [The Collection \(Standard Edition\)](https://open.spotify.com/album/4N7LuZYpstQrtcHIoOKzqg) | 4:36 | 2016-06-08 |  |
 | [Vision of Love](https://open.spotify.com/track/0gLQ6jhJsyYfl7PrD1RZ7X) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Mariah Carey](https://open.spotify.com/album/5SwNGsGw1I8H361DKiYnnn) | 3:29 | 2016-06-08 |  |
+| [What's Love Got to Do with It](https://open.spotify.com/track/6xPxEagNChvJEeRacoPf3i) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [100 Greatest Dinner Party Songs](https://open.spotify.com/album/6YMk3Ja8VBYJQxH7TEFMO2) | 3:46 | 2022-11-12 |  |
 | [What's Love Got To Do WIth It \- 1997 Digital Remaster](https://open.spotify.com/track/4QjjabJx7K14tHwxEVI0Xc) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [Tina Turner Love Songs](https://open.spotify.com/album/2leURyZTNszWf0NOrbWOW4) | 3:48 | 2016-06-08 | 2022-07-29 |
-| [What's Love Got to Do with It \- 2015 Remaster](https://open.spotify.com/track/3ErsOxqe2RmXkR65wkygDz) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [Private Dancer \(30th Anniversary Issue\)](https://open.spotify.com/album/7gVHUNPQr0AE2A0Yf5MjqR) | 3:50 | 2022-07-29 |  |
+| [What's Love Got to Do with It \- 2015 Remaster](https://open.spotify.com/track/3ErsOxqe2RmXkR65wkygDz) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [Private Dancer \(30th Anniversary Issue\)](https://open.spotify.com/album/7gVHUNPQr0AE2A0Yf5MjqR) | 3:50 | 2022-07-29 | 2022-11-12 |
 | [When I See U](https://open.spotify.com/track/4iuNZTcvT9diFySSzVsnVS) | [Fantasia](https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1) | [Fantasia](https://open.spotify.com/album/42DybH3gl3WcfXAQySOEiX) | 3:37 | 2016-06-08 |  |
 | [Writing's On The Wall](https://open.spotify.com/track/4oWmroatZtMmlgc3havMrv) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Writing's On The Wall](https://open.spotify.com/album/0iOC24pLNQ6BsEU74GuhNe) | 4:38 | 2016-06-08 | 2022-07-29 |
 | [Writing's On The Wall \- From "Spectre" Soundtrack](https://open.spotify.com/track/1PWnAEQcbwQwK759otUbta) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Writing's On The Wall](https://open.spotify.com/album/50bQvrNAFsAaIbqCcfD7FT) | 4:38 | 2022-07-29 |  |

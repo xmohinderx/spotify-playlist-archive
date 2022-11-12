@@ -224,6 +224,24 @@
     },
     {
       "album": {
+        "name": "Happy Classics",
+        "url": "https://open.spotify.com/album/2cnDTz7eNou1DKvA5bEY35"
+      },
+      "artists": [
+        {
+          "name": "Steely Dan",
+          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+        }
+      ],
+      "date_added": "2020-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354933,
+      "name": "Do It Again",
+      "url": "https://open.spotify.com/track/7wP7USocbL8sX4o0DvqS1J"
+    },
+    {
+      "album": {
         "name": "Can't Buy A Thrill",
         "url": "https://open.spotify.com/album/4Gh6pRaXqXTtJx4plAJbBw"
       },
@@ -1189,7 +1207,7 @@
       ],
       "date_added": "2020-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 273306,
       "name": "Shower the People - 2019 Remaster",
       "url": "https://open.spotify.com/track/1Pwcxq35Hl2kqwUVd5XCRg"

@@ -4,7 +4,7 @@
 
 > ¡Empieza un nuevo día con una sonrisa!
 
-109 songs - 6 hr 59 min - [published](https://open.spotify.com/playlist/2LTCHqxWDmLKlpGpK2kxc6)
+110 songs - 7 hr 2 min - [published](https://open.spotify.com/playlist/2LTCHqxWDmLKlpGpK2kxc6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [Bonito](https://open.spotify.com/track/5FiB1uNoGZE4PenzZd7Imu) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [Bonito](https://open.spotify.com/album/2Hv4CIt50qRTakHeBsTpNf) | 4:14 | 2021-04-23 | 2022-07-29 |
 | [Bonito](https://open.spotify.com/track/6YEyOOEDB1VgnIMbMHsRfo) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [Música para planchar](https://open.spotify.com/album/6JutZ7DJaL4V8Vd0v6AYgT) | 4:14 | 2022-08-02 |  |
 | [Bonito](https://open.spotify.com/track/6adD0zZ2sdxRaqsUz6Axb3) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [En la vida conocí mujer igual a la Flaca: Colección Definitiva](https://open.spotify.com/album/1JlPTZA5IzaMdMVKLFX4Bl) | 4:14 | 2021-04-23 | 2022-11-11 |
-| [Brillas](https://open.spotify.com/track/6OKmGZASRCmiKQKz4hCNrs) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Solstis \- De León Larregui](https://open.spotify.com/album/0UwCZ5d7AFISyHxrpHjbqZ) | 3:44 | 2021-04-23 |  |
+| [Brillas](https://open.spotify.com/track/0wVU74Grfynyrl7vlaCM0E) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Baladas Románticas Latinas](https://open.spotify.com/album/07EhDhHjge4hEJcXzUUq0j) | 3:44 | 2022-08-02 |  |
+| [Brillas](https://open.spotify.com/track/6OKmGZASRCmiKQKz4hCNrs) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Solstis \- De León Larregui](https://open.spotify.com/album/0UwCZ5d7AFISyHxrpHjbqZ) | 3:44 | 2021-04-23 | 2022-11-12 |
 | [Brillas](https://open.spotify.com/track/6VuUMo1TusnqBxLTnr3hOI) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Solstis \- De León Larregui](https://open.spotify.com/album/6XMk5rlnvEtbOUhUlIGl0R) | 3:46 | 2021-04-23 | 2022-07-29 |
 | [Buenos Días Señor Sol](https://open.spotify.com/track/6tx719DGT8HQhTN61h3CAj) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Me Gusta Bailar Contigo](https://open.spotify.com/album/4GdxQEtF9cqClixhyJ9Cmy) | 2:39 | 2021-04-23 |  |
 | [Buenos Días, Amor](https://open.spotify.com/track/5uXc8RpwAwKylPa0qeBhJl) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Reencuentro](https://open.spotify.com/album/6raiLPK4vKJD34Q33Gkpgt) | 3:43 | 2021-04-23 | 2022-08-03 |

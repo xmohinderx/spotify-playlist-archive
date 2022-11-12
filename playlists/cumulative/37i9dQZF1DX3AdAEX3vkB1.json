@@ -698,6 +698,24 @@
     },
     {
       "album": {
+        "name": "Soul Essentials",
+        "url": "https://open.spotify.com/album/2HEREQzFsq56E8Wh66s0V7"
+      },
+      "artists": [
+        {
+          "name": "Martha Reeves & The Vandellas",
+          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159960,
+      "name": "Dancing In The Street - Stereo",
+      "url": "https://open.spotify.com/track/5P8fQy7MaTW5GXwxtqnq7d"
+    },
+    {
+      "album": {
         "name": "Dance Party",
         "url": "https://open.spotify.com/album/3lFGAL3WruNTdBXfct7ZbZ"
       },
@@ -709,7 +727,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 165226,
       "name": "Dancing In The Street - Stereo",
       "url": "https://open.spotify.com/track/6rLqjzGV5VMLDWEnuUqi8q"
@@ -1040,6 +1058,24 @@
     },
     {
       "album": {
+        "name": "The Ultimate Classic Rock Album Vol.2",
+        "url": "https://open.spotify.com/album/1a6sgS4ziH70NrHDdNa9Jy"
+      },
+      "artists": [
+        {
+          "name": "The Spencer Davis Group",
+          "url": "https://open.spotify.com/artist/3i9hP422d2KMjaupTzBNVS"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176066,
+      "name": "Gimme Some Lovin'",
+      "url": "https://open.spotify.com/track/3qIqO4MfNTGm6XF7wHq7tR"
+    },
+    {
+      "album": {
         "name": "Keep On Running",
         "url": "https://open.spotify.com/album/3Z0XNzsJC1cY6szFkxVE1h"
       },
@@ -1069,7 +1105,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 178840,
       "name": "Gimme Some Lovin' - Single Mix",
       "url": "https://open.spotify.com/track/3qCHUm73I3o5F1mDEfibzo"
@@ -1465,10 +1501,28 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 165800,
       "name": "I Got You (I Feel Good)",
       "url": "https://open.spotify.com/track/5haXbSJqjjM0TCJ5XkfEaC"
+    },
+    {
+      "album": {
+        "name": "Play Non Stop",
+        "url": "https://open.spotify.com/album/3yUjJMnoXLeuOBBdnx7uJY"
+      },
+      "artists": [
+        {
+          "name": "James Brown & The Famous Flames",
+          "url": "https://open.spotify.com/artist/32r72WOqqRO1DtSznId7Lr"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168893,
+      "name": "I Got You (I Feel Good)",
+      "url": "https://open.spotify.com/track/2LFUPGsXG0kp9QjKAmB7iQ"
     },
     {
       "album": {
@@ -1793,7 +1847,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 119800,
       "name": "It's Not Unusual",
       "url": "https://open.spotify.com/track/3TlIt0ReIxPsVZcOEivT5U"
@@ -1815,6 +1869,24 @@
       "duration_ms": 119800,
       "name": "It's Not Unusual",
       "url": "https://open.spotify.com/track/67csrS6po7IyXfwds4azjr"
+    },
+    {
+      "album": {
+        "name": "Good Mood Music",
+        "url": "https://open.spotify.com/album/6jXF2xbdN3fkzeixf9664N"
+      },
+      "artists": [
+        {
+          "name": "Tom Jones",
+          "url": "https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120240,
+      "name": "It's Not Unusual",
+      "url": "https://open.spotify.com/track/6QxQuWimpuZaDxC3q6tteE"
     },
     {
       "album": {
@@ -1847,7 +1919,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 142117,
       "name": "Jambalaya (On The Bayou)",
       "url": "https://open.spotify.com/track/0Zkuewgtp8XbeJ5xInG4p8"
@@ -1869,6 +1941,24 @@
       "duration_ms": 146333,
       "name": "Jambalaya (On The Bayou)",
       "url": "https://open.spotify.com/track/6YS9gh6dxp4rYKWk5jjBDC"
+    },
+    {
+      "album": {
+        "name": "The Fats Domino Jukebox: 20 Greatest Hits The Way You Originally Heard Them",
+        "url": "https://open.spotify.com/album/1hs1BjRp9t8AjVY9J6vE1b"
+      },
+      "artists": [
+        {
+          "name": "Fats Domino",
+          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143600,
+      "name": "Jambalaya (On The Bayou) - Remastered 2002",
+      "url": "https://open.spotify.com/track/69S4GgVyV3Fs7kIz5gl3rv"
     },
     {
       "album": {
@@ -2531,10 +2621,28 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 171026,
       "name": "Rescue Me",
       "url": "https://open.spotify.com/track/1GY8zOFi8rC39xXnD0tKO8"
+    },
+    {
+      "album": {
+        "name": "60s Pop",
+        "url": "https://open.spotify.com/album/1RGE1uCIcrpujBse08Z013"
+      },
+      "artists": [
+        {
+          "name": "Fontella Bass",
+          "url": "https://open.spotify.com/artist/6k3YMXJ1MJLgUEAlSPC6hA"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172493,
+      "name": "Rescue Me",
+      "url": "https://open.spotify.com/track/7f4iRGSLR9ser7Gex9lzhF"
     },
     {
       "album": {
@@ -2963,10 +3071,28 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 141066,
       "name": "Sweet Soul Music",
       "url": "https://open.spotify.com/track/2YuIyYri67bgUXKQW5V9XW"
+    },
+    {
+      "album": {
+        "name": "100 Greatest Feel Good",
+        "url": "https://open.spotify.com/album/5PHIHxs0Xiu66Ah511IRFw"
+      },
+      "artists": [
+        {
+          "name": "Arthur Conley",
+          "url": "https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141066,
+      "name": "Sweet Soul Music",
+      "url": "https://open.spotify.com/track/3GECIBplhAMkgQ2pzUfplS"
     },
     {
       "album": {
@@ -3341,7 +3467,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 174400,
       "name": "Uptight (Everything's Alright)",
       "url": "https://open.spotify.com/track/0Hw6SCrtU9pFCjgAONpnGZ"
@@ -3363,6 +3489,24 @@
       "duration_ms": 175066,
       "name": "Uptight (Everything's Alright)",
       "url": "https://open.spotify.com/track/5q5q7yDHiVkBnaivsda4TN"
+    },
+    {
+      "album": {
+        "name": "Legends Of Pop",
+        "url": "https://open.spotify.com/album/1MMYzszXVVtgeZKbtg7d7V"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172813,
+      "name": "Uptight (Everything's Alright) - Single Version",
+      "url": "https://open.spotify.com/track/5Z6nTefiDzqoTFZhlLNvFs"
     },
     {
       "album": {

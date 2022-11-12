@@ -1,12 +1,12 @@
 {
   "description": "Corridos + Perreo para las bichotas y buchonas \ud83d\udd25",
-  "num_followers": 17749,
+  "num_followers": 17867,
   "original_name": "Buchona Vibez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMDBmNjRiNjkyODViYzdhZDA0ZjgzODY1ODVjNmM4YmIz",
+  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMGUzZTMxOTIzOTE2ZDg0OGU0ZjU3ZDhmMmY2OTUyNjFj",
   "tracks": [
     {
       "added_at": "2022-10-14 04:00:00",
@@ -803,6 +803,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "House Of Pleasure",
+        "url": "https://open.spotify.com/album/3WEwS5DLsagnqQtHP2oEEu"
+      },
+      "artists": [
+        {
+          "name": "Plan B",
+          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
+        }
+      ],
+      "duration_ms": 220056,
+      "name": "Si No Le Contesto",
+      "url": "https://open.spotify.com/track/3XaWuYsTtnkzCSBr0RmROc"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "KG0516",
         "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 209160,
       "name": "EL MAKINON",
       "url": "https://open.spotify.com/track/2FSGUA0gFgGeQdprjtGM2M"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "House Of Pleasure",
-        "url": "https://open.spotify.com/album/3WEwS5DLsagnqQtHP2oEEu"
-      },
-      "artists": [
-        {
-          "name": "Plan B",
-          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
-        }
-      ],
-      "duration_ms": 220056,
-      "name": "Si No Le Contesto",
-      "url": "https://open.spotify.com/track/3XaWuYsTtnkzCSBr0RmROc"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Ven Bailalo (Reggaeton Mix)",
-        "url": "https://open.spotify.com/album/0jgWVVvhT0tbpzFIr73p3f"
-      },
-      "artists": [
-        {
-          "name": "Angel Y Khriz",
-          "url": "https://open.spotify.com/artist/7npqy7rgdX2D3yfVyWExKo"
-        }
-      ],
-      "duration_ms": 252773,
-      "name": "Ven Bailalo - Reggaeton Mix",
-      "url": "https://open.spotify.com/track/5nZYc9ZDMhlXv6iWahZTU8"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Mi Vida En Un Cigarro 2",
         "url": "https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 225152,
       "name": "Como Jordan",
       "url": "https://open.spotify.com/track/2q7DY7bBua9e9Aygmz8XmB"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Ven Bailalo (Reggaeton Mix)",
+        "url": "https://open.spotify.com/album/0jgWVVvhT0tbpzFIr73p3f"
+      },
+      "artists": [
+        {
+          "name": "Angel Y Khriz",
+          "url": "https://open.spotify.com/artist/7npqy7rgdX2D3yfVyWExKo"
+        }
+      ],
+      "duration_ms": 252773,
+      "name": "Ven Bailalo - Reggaeton Mix",
+      "url": "https://open.spotify.com/track/5nZYc9ZDMhlXv6iWahZTU8"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "BICHOTA",
-        "url": "https://open.spotify.com/album/6LO6I2uJMkc0u7GHBYHa4Y"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 178946,
-      "name": "BICHOTA",
-      "url": "https://open.spotify.com/track/7vrJn5hDSXRmdXoR30KgF1"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "NataKong",
         "url": "https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 154760,
       "name": "Brillo",
       "url": "https://open.spotify.com/track/5gS11pL9yQcnKrzbmliOwh"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "BICHOTA",
+        "url": "https://open.spotify.com/album/6LO6I2uJMkc0u7GHBYHa4Y"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 178946,
+      "name": "BICHOTA",
+      "url": "https://open.spotify.com/track/7vrJn5hDSXRmdXoR30KgF1"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "El Fugitivo (En Vivo)",
+        "url": "https://open.spotify.com/album/2gVGRsRpBJOZs2hZTvwlpc"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "El Fugitivo - En Vivo",
+      "url": "https://open.spotify.com/track/0qyofIr6dHSb8AcEVnywBY"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "El Chino (En Vivo)",
         "url": "https://open.spotify.com/album/38WE0G7MQhz8f9hJjuK1rK"
       },
@@ -1455,22 +1471,6 @@
       "duration_ms": 180047,
       "name": "El Chino (En Vivo)",
       "url": "https://open.spotify.com/track/4b148u8CHf38OU1yW5Xf1F"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "El Fugitivo (En Vivo)",
-        "url": "https://open.spotify.com/album/2gVGRsRpBJOZs2hZTvwlpc"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "El Fugitivo - En Vivo",
-      "url": "https://open.spotify.com/track/0qyofIr6dHSb8AcEVnywBY"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1967,22 +1967,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Sensual Beb\u00e9",
-        "url": "https://open.spotify.com/album/2k3Qqrw8oQT3lq4XPe1xWC"
-      },
-      "artists": [
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        }
-      ],
-      "duration_ms": 209146,
-      "name": "Sensual Beb\u00e9",
-      "url": "https://open.spotify.com/track/1xqbfjRuUw0ot43wgBuVkt"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Se\u00f1alado por Costumbre",
         "url": "https://open.spotify.com/album/0zwj2mx5EeRPkdU9r9yeXs"
       },
@@ -1999,6 +1983,22 @@
       "duration_ms": 176000,
       "name": "La Escuela No Me Gust\u00f3",
       "url": "https://open.spotify.com/track/4qArKIA7dnmdushoBlkV94"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Sensual Beb\u00e9",
+        "url": "https://open.spotify.com/album/2k3Qqrw8oQT3lq4XPe1xWC"
+      },
+      "artists": [
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "duration_ms": 209146,
+      "name": "Sensual Beb\u00e9",
+      "url": "https://open.spotify.com/track/1xqbfjRuUw0ot43wgBuVkt"
     },
     {
       "added_at": "2022-10-14 04:00:00",

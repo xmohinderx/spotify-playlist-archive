@@ -4,7 +4,7 @@
 
 > Your family can stomp, roar, and growl along to these songs about dinosaurs!
 
-112 songs - 3 hr 43 min - [published](https://open.spotify.com/playlist/5xr5WhoYuNNtSpHlvThomm)
+113 songs - 3 hr 44 min - [published](https://open.spotify.com/playlist/5xr5WhoYuNNtSpHlvThomm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,13 +21,14 @@
 | [Did You See a Dinosaur Today?](https://open.spotify.com/track/4Pygb5NREJO6pXEXdOd6Ah) | [Daddy Donut](https://open.spotify.com/artist/5A2AuQZwTIH1KtbV6g47D4) | [Dinosaur Songs](https://open.spotify.com/album/2E0PvfB0DgRIcNVbnW8MOr) | 1:51 | 2022-01-14 | 2022-07-29 |
 | [Did You See A Dinosaur Today?](https://open.spotify.com/track/7sOX44wOMbYEJrhdoYkf97) | [Daddy Donut](https://open.spotify.com/artist/5A2AuQZwTIH1KtbV6g47D4) | [Dinosaur Songs](https://open.spotify.com/album/3mZbA0yTM5pDkS32CczH6F) | 1:51 | 2022-07-08 |  |
 | [Dig It Up](https://open.spotify.com/track/7lVGjuWs3hxEK40eAL6cSO) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Pinkfong Dinosaur Songs](https://open.spotify.com/album/4C2baITZMPwU2M5zB2VIjj) | 1:16 | 2022-01-14 |  |
-| [Dino Groove](https://open.spotify.com/track/2GLRXgnX2PhxmALVX6X7e1) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn), [Meekah](https://open.spotify.com/artist/4JJorCbOXi1yUsKma0RKMA) | [Blippi's Treehouse Vol.1](https://open.spotify.com/album/25E577jWtQp1P5xsBSQV43) | 2:39 | 2022-01-14 |  |
+| [Dino Groove](https://open.spotify.com/track/2GLRXgnX2PhxmALVX6X7e1) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn), [Meekah](https://open.spotify.com/artist/7vXebg7HlyNsHfRPJnelJ3) | [Blippi's Treehouse Vol.1](https://open.spotify.com/album/25E577jWtQp1P5xsBSQV43) | 2:39 | 2022-01-14 |  |
 | [Dino Rap](https://open.spotify.com/track/7keBoSqDEfhfTCqW7BzWzw) | [The Kerplunks](https://open.spotify.com/artist/1FtSjJqBHqIdhB4jW1E7Hy) | [Walk On](https://open.spotify.com/album/7C4z3FagwSJYuoBSMJ9T86) | 2:03 | 2022-01-14 |  |
 | [Dino\-dino\-dinosaur](https://open.spotify.com/track/3YUewYkLTxa4Out5wF9bsr) | [Rick & Audrey](https://open.spotify.com/artist/6osU6dIAUuyqlnv9kzly6a) | [Imagine That!](https://open.spotify.com/album/6kE0BtzzksGe9Gsh6f5F3X) | 3:13 | 2022-01-14 |  |
 | [Dinosaur](https://open.spotify.com/track/3exDuR6wcyLuT2qoiykN2A) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [CoComelon Fun Learning](https://open.spotify.com/album/68pllW49tJvjL0TPwGpQIM) | 2:19 | 2022-01-14 |  |
 | [Dinosaur](https://open.spotify.com/track/4cPnCfFTy0ytbq9JkmqUNg) | [We Kids Rock](https://open.spotify.com/artist/11w4XkomQWLgLIcx90igCT) | [Let The Sun Shine](https://open.spotify.com/album/5abWJo4J0NxR4pVgkkjHCx) | 2:08 | 2022-01-14 |  |
 | [Dinosaur Bones](https://open.spotify.com/track/2OVW2YkuliLysSriq6dARo) | [Cody](https://open.spotify.com/artist/7rAaRqIDuMiQuG4oy8vygE), [Heart](https://open.spotify.com/artist/6UEVx8BU4FwqzFHO4U72R7), [Mr\. Primm](https://open.spotify.com/artist/1LWRjmEu1mWd95oX6Vqlyb), [Scatter](https://open.spotify.com/artist/745OTOZLsTL84LJrF4szKm), [Paleontologist Paloma](https://open.spotify.com/artist/5G0YQqdQPR8gnBfap8cUFv) | [Helpsters: Apple TV+ Original Series Soundtrack, Vol\. 1](https://open.spotify.com/album/1iUfQktugNa5K7QmP5PukO) | 1:35 | 2022-01-14 |  |
-| [Dinosaur Bones](https://open.spotify.com/track/1cHMpmuOIKGLTq9cPO22Vm) | [Pancake Manor](https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C) | [Pancake Manor](https://open.spotify.com/album/5nfoLW8Ut0picjRjdGcC0g) | 1:19 | 2022-07-08 |  |
+| [Dinosaur Bones](https://open.spotify.com/track/12Jcwk5fRzlCKKn0xhECoL) | [Pancake Manor](https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C) | [Best of Kids Music](https://open.spotify.com/album/5jxyozu7nLcgyhMFaMuVmi) | 1:19 | 2022-08-16 |  |
+| [Dinosaur Bones](https://open.spotify.com/track/1cHMpmuOIKGLTq9cPO22Vm) | [Pancake Manor](https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C) | [Pancake Manor](https://open.spotify.com/album/5nfoLW8Ut0picjRjdGcC0g) | 1:19 | 2022-07-08 | 2022-11-12 |
 | [Dinosaur Bones](https://open.spotify.com/track/56UczceUY5do7JigeiuVhn) | [Pancake Manor](https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C) | [Pancake Manor](https://open.spotify.com/album/6SCnHCUmOHe77UlUouWyrO) | 1:19 | 2022-01-14 | 2022-07-29 |
 | [Dinosaur Detective](https://open.spotify.com/track/0A3q7zqwx8fhhSdSN2IW4M) | [Wee Sing](https://open.spotify.com/artist/4lzlU08DosVqrpEoOvf3DQ) | [Wee Sing Dinosaurs](https://open.spotify.com/album/3CtjxdVm5LRDEPMSi6EzR1) | 1:03 | 2022-01-14 |  |
 | [Dinosaur Dinosaur](https://open.spotify.com/track/6eNvLNNROfrzfnhhoykexF) | [CSS](https://open.spotify.com/artist/2K13AVg3bFpHSxDM1vJ0qA) | [Fantastic Voyages](https://open.spotify.com/album/3zVRLqmMADrwtlvGl7Z4G7) | 1:29 | 2022-01-14 |  |

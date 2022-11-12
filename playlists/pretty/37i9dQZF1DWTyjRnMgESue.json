@@ -1,12 +1,12 @@
 {
   "description": "The best new songs from modern singer-songwriters. Cover: Hozier",
-  "num_followers": 37143,
+  "num_followers": 37240,
   "original_name": "Today's Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMDlkNzYyN2VjMjFkYjliN2JlMWE3NjA5NDQ5MDg4NGY2",
+  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMGI1OGUzNjNjZjJhNjQ5ZjhmMjNlYzQ0ZTBmNTg4OThm",
   "tracks": [
     {
       "added_at": "2022-10-07 04:00:00",
@@ -123,22 +123,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Fingers Crossed",
-        "url": "https://open.spotify.com/album/7i5dqey54xo8F2flVer0yY"
-      },
-      "artists": [
-        {
-          "name": "Lauren Spencer Smith",
-          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
-        }
-      ],
-      "duration_ms": 175344,
-      "name": "Fingers Crossed",
-      "url": "https://open.spotify.com/track/3yMC1KsTwh0ceXdIe4QQAQ"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "This Is What It Feels Like",
         "url": "https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at"
       },
@@ -187,22 +171,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Turnham Green",
-        "url": "https://open.spotify.com/album/20u6ns1ue1dRrjc0cl4U8N"
-      },
-      "artists": [
-        {
-          "name": "Adam Melchor",
-          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
-        }
-      ],
-      "duration_ms": 225626,
-      "name": "Turnham Green",
-      "url": "https://open.spotify.com/track/2zzbA5a4ZTzjYEbr4X0zOW"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "j's lullaby (darlin' i'd wait for you)",
         "url": "https://open.spotify.com/album/5AgFxBgabzR7iCsuzeibrT"
       },
@@ -219,18 +187,18 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Boston Accent",
-        "url": "https://open.spotify.com/album/3Eiafb9pwTkgnOxjRz3QVb"
+        "name": "Turnham Green",
+        "url": "https://open.spotify.com/album/20u6ns1ue1dRrjc0cl4U8N"
       },
       "artists": [
         {
-          "name": "Matt Nathanson",
-          "url": "https://open.spotify.com/artist/4NGiEU3Pkd8ASRyQR30jcA"
+          "name": "Adam Melchor",
+          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
         }
       ],
-      "duration_ms": 201453,
-      "name": "German Cars",
-      "url": "https://open.spotify.com/track/64ymwIGgOLjM1ckgnOcBUX"
+      "duration_ms": 225626,
+      "name": "Turnham Green",
+      "url": "https://open.spotify.com/track/2zzbA5a4ZTzjYEbr4X0zOW"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -251,6 +219,22 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
+        "name": "Boston Accent",
+        "url": "https://open.spotify.com/album/3Eiafb9pwTkgnOxjRz3QVb"
+      },
+      "artists": [
+        {
+          "name": "Matt Nathanson",
+          "url": "https://open.spotify.com/artist/4NGiEU3Pkd8ASRyQR30jcA"
+        }
+      ],
+      "duration_ms": 201453,
+      "name": "German Cars",
+      "url": "https://open.spotify.com/track/64ymwIGgOLjM1ckgnOcBUX"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
         "name": "Something to Someone",
         "url": "https://open.spotify.com/album/5XVJCXSorhPUlf8rTl4iOI"
       },
@@ -267,22 +251,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "What Happiness Is",
-        "url": "https://open.spotify.com/album/2o76vZToghhg9NBmSCb0sD"
-      },
-      "artists": [
-        {
-          "name": "Trousdale",
-          "url": "https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE"
-        }
-      ],
-      "duration_ms": 201253,
-      "name": "Any Day Now",
-      "url": "https://open.spotify.com/track/2YzM9n2UdWc5iiMbg8B4Mb"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "Clarity",
         "url": "https://open.spotify.com/album/4V3BerycmgxqE3sr3RaDYE"
       },
@@ -295,6 +263,22 @@
       "duration_ms": 227240,
       "name": "Clarity",
       "url": "https://open.spotify.com/track/5c6lM2zjAF6MFoD8C1hiBr"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "What Happiness Is",
+        "url": "https://open.spotify.com/album/2o76vZToghhg9NBmSCb0sD"
+      },
+      "artists": [
+        {
+          "name": "Trousdale",
+          "url": "https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE"
+        }
+      ],
+      "duration_ms": 201253,
+      "name": "Any Day Now",
+      "url": "https://open.spotify.com/track/2YzM9n2UdWc5iiMbg8B4Mb"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -351,22 +335,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "End of the Day",
-        "url": "https://open.spotify.com/album/2xBbejBQKutWWyCjlJ17Nf"
-      },
-      "artists": [
-        {
-          "name": "Erika Sirola",
-          "url": "https://open.spotify.com/artist/1OHw2r7Diz2rc9JktaFV6N"
-        }
-      ],
-      "duration_ms": 236079,
-      "name": "End of the Day",
-      "url": "https://open.spotify.com/track/1piMjMBuN0NRkoDy9aMD4u"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "ROOM FOR 2",
         "url": "https://open.spotify.com/album/51XyM5nK6zGwa4hWNNMmSz"
       },
@@ -383,18 +351,18 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Th\u00e9r\u00e8se",
-        "url": "https://open.spotify.com/album/1lbJOgLXOtyxQbvjt17eGT"
+        "name": "End of the Day",
+        "url": "https://open.spotify.com/album/2xBbejBQKutWWyCjlJ17Nf"
       },
       "artists": [
         {
-          "name": "Maya Hawke",
-          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
+          "name": "Erika Sirola",
+          "url": "https://open.spotify.com/artist/1OHw2r7Diz2rc9JktaFV6N"
         }
       ],
-      "duration_ms": 207389,
-      "name": "Th\u00e9r\u00e8se",
-      "url": "https://open.spotify.com/track/1LklAGxyeK07JYRzw3Vzx9"
+      "duration_ms": 236079,
+      "name": "End of the Day",
+      "url": "https://open.spotify.com/track/1piMjMBuN0NRkoDy9aMD4u"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -415,6 +383,22 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
+        "name": "Th\u00e9r\u00e8se",
+        "url": "https://open.spotify.com/album/1lbJOgLXOtyxQbvjt17eGT"
+      },
+      "artists": [
+        {
+          "name": "Maya Hawke",
+          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
+        }
+      ],
+      "duration_ms": 207389,
+      "name": "Th\u00e9r\u00e8se",
+      "url": "https://open.spotify.com/track/1LklAGxyeK07JYRzw3Vzx9"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
         "name": "Long Blue Light",
         "url": "https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 200173,
       "name": "Long Blue Light",
       "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Burn",
+        "url": "https://open.spotify.com/album/5GHOtUAqaPIoUtfQwIQz79"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "duration_ms": 179173,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/3gw2Mz111daFVWm7IF0Gb7"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -447,22 +447,18 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "five seconds flat",
-        "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
+        "name": "Love Like That (Words from Her)",
+        "url": "https://open.spotify.com/album/2cyVImStYiCtHmE3xdlWIy"
       },
       "artists": [
         {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        },
-        {
-          "name": "FINNEAS",
-          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+          "name": "Suriel Hess",
+          "url": "https://open.spotify.com/artist/5MLIxVYkY4Fc2dwdaYSS8G"
         }
       ],
-      "duration_ms": 156798,
-      "name": "hate to be lame",
-      "url": "https://open.spotify.com/track/26MJjeJ0NSOQDKeZzrEFMl"
+      "duration_ms": 174489,
+      "name": "Love Like That (Words from Her)",
+      "url": "https://open.spotify.com/track/1ALOR6EcFzN0AcIAzwWl2U"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -499,18 +495,18 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Burn",
-        "url": "https://open.spotify.com/album/5GHOtUAqaPIoUtfQwIQz79"
+        "name": "All I Ever Asked",
+        "url": "https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn"
       },
       "artists": [
         {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
         }
       ],
-      "duration_ms": 179173,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/3gw2Mz111daFVWm7IF0Gb7"
+      "duration_ms": 215384,
+      "name": "All I Ever Asked",
+      "url": "https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -563,38 +559,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Love Like That (Words from Her)",
-        "url": "https://open.spotify.com/album/2cyVImStYiCtHmE3xdlWIy"
-      },
-      "artists": [
-        {
-          "name": "Suriel Hess",
-          "url": "https://open.spotify.com/artist/5MLIxVYkY4Fc2dwdaYSS8G"
-        }
-      ],
-      "duration_ms": 174489,
-      "name": "Love Like That (Words from Her)",
-      "url": "https://open.spotify.com/track/1ALOR6EcFzN0AcIAzwWl2U"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "All I Ever Asked",
-        "url": "https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn"
-      },
-      "artists": [
-        {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
-        }
-      ],
-      "duration_ms": 215384,
-      "name": "All I Ever Asked",
-      "url": "https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "Forget I Exist",
         "url": "https://open.spotify.com/album/4S8raPrW3aRYC3npe8gTEN"
       },
@@ -607,22 +571,6 @@
       "duration_ms": 172626,
       "name": "Forget I Exist",
       "url": "https://open.spotify.com/track/54q7FLhWb9FEObFBziNRTq"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "Cate\u2019s Brother",
-        "url": "https://open.spotify.com/album/1dj4gSIuS1Zn0dX4TUJp9F"
-      },
-      "artists": [
-        {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
-        }
-      ],
-      "duration_ms": 180589,
-      "name": "Cate\u2019s Brother",
-      "url": "https://open.spotify.com/track/7uHJpostAYqNJ8nZM1tp78"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -643,34 +591,18 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "The Way Back Home",
-        "url": "https://open.spotify.com/album/1UpWcCKM40cIfTaDY38eFY"
+        "name": "Cate\u2019s Brother",
+        "url": "https://open.spotify.com/album/1dj4gSIuS1Zn0dX4TUJp9F"
       },
       "artists": [
         {
-          "name": "Aisha Badru",
-          "url": "https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK"
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
         }
       ],
-      "duration_ms": 214361,
-      "name": "The Way Back Home",
-      "url": "https://open.spotify.com/track/3PTsvzTENG4jREGGQz9xpb"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "Sleep Deprivation",
-        "url": "https://open.spotify.com/album/4ppwp26lKTKqRGE70HzlOd"
-      },
-      "artists": [
-        {
-          "name": "Chance Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh"
-        }
-      ],
-      "duration_ms": 155660,
-      "name": "Sleep Deprivation",
-      "url": "https://open.spotify.com/track/7sPcz0XlmcxQnd3rK45fOx"
+      "duration_ms": 180589,
+      "name": "Cate\u2019s Brother",
+      "url": "https://open.spotify.com/track/7uHJpostAYqNJ8nZM1tp78"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -691,6 +623,38 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
+        "name": "Sleep Deprivation",
+        "url": "https://open.spotify.com/album/4ppwp26lKTKqRGE70HzlOd"
+      },
+      "artists": [
+        {
+          "name": "Chance Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh"
+        }
+      ],
+      "duration_ms": 155660,
+      "name": "Sleep Deprivation",
+      "url": "https://open.spotify.com/track/7sPcz0XlmcxQnd3rK45fOx"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "The Way Back Home",
+        "url": "https://open.spotify.com/album/1UpWcCKM40cIfTaDY38eFY"
+      },
+      "artists": [
+        {
+          "name": "Aisha Badru",
+          "url": "https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK"
+        }
+      ],
+      "duration_ms": 214361,
+      "name": "The Way Back Home",
+      "url": "https://open.spotify.com/track/3PTsvzTENG4jREGGQz9xpb"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
         "name": "Give Me The Reason",
         "url": "https://open.spotify.com/album/2IKvoLYI5mb0eyKWiB2G2z"
       },
@@ -703,22 +667,6 @@
       "duration_ms": 234186,
       "name": "Give Me The Reason",
       "url": "https://open.spotify.com/track/5viz8trU1uh1pngW0hWr3l"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "How Do You Dress for the Rain?",
-        "url": "https://open.spotify.com/album/5qXWbwkmZ5HL2AlweZD9Bh"
-      },
-      "artists": [
-        {
-          "name": "Sam MacPherson",
-          "url": "https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh"
-        }
-      ],
-      "duration_ms": 160533,
-      "name": "How Do You Dress for the Rain?",
-      "url": "https://open.spotify.com/track/42ZSEXG0TtHAHbWOho7GDS"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -739,6 +687,22 @@
       "duration_ms": 266219,
       "name": "london",
       "url": "https://open.spotify.com/track/4mmtgoBJCUA8l8uDRJlnro"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "How Do You Dress for the Rain?",
+        "url": "https://open.spotify.com/album/5qXWbwkmZ5HL2AlweZD9Bh"
+      },
+      "artists": [
+        {
+          "name": "Sam MacPherson",
+          "url": "https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh"
+        }
+      ],
+      "duration_ms": 160533,
+      "name": "How Do You Dress for the Rain?",
+      "url": "https://open.spotify.com/track/42ZSEXG0TtHAHbWOho7GDS"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -773,6 +737,22 @@
       "url": "https://open.spotify.com/track/7aDIsG4RJx4THcSEMeM01x"
     },
     {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Midnight",
+        "url": "https://open.spotify.com/album/4JheIQU7B3Fb8pCld4z5iB"
+      },
+      "artists": [
+        {
+          "name": "Rhys Lewis",
+          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
+        }
+      ],
+      "duration_ms": 228066,
+      "name": "Midnight",
+      "url": "https://open.spotify.com/track/3uTdOMyG1ixtUxdtspkngM"
+    },
+    {
       "added_at": "2022-08-12 04:00:00",
       "album": {
         "name": "The Walls Are Way Too Thin",
@@ -789,20 +769,20 @@
       "url": "https://open.spotify.com/track/7b7wO3Je7i2HhyipNhcs1u"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Midnight",
-        "url": "https://open.spotify.com/album/4JheIQU7B3Fb8pCld4z5iB"
+        "name": "Sidelines",
+        "url": "https://open.spotify.com/album/4R09OvFyz47HfjecIjoEtP"
       },
       "artists": [
         {
-          "name": "Rhys Lewis",
-          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
+          "name": "Wild Rivers",
+          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
         }
       ],
-      "duration_ms": 228066,
-      "name": "Midnight",
-      "url": "https://open.spotify.com/track/3uTdOMyG1ixtUxdtspkngM"
+      "duration_ms": 196266,
+      "name": "Long Time",
+      "url": "https://open.spotify.com/track/33xLf3oPBqsQVtmnpXQRMj"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -843,18 +823,18 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Sidelines",
-        "url": "https://open.spotify.com/album/4R09OvFyz47HfjecIjoEtP"
+        "name": "All My Loving",
+        "url": "https://open.spotify.com/album/5W1sTXqVYuJIgUF6CCy2US"
       },
       "artists": [
         {
-          "name": "Wild Rivers",
-          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
+          "name": "Sam Fischer",
+          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
         }
       ],
-      "duration_ms": 196266,
-      "name": "Long Time",
-      "url": "https://open.spotify.com/track/33xLf3oPBqsQVtmnpXQRMj"
+      "duration_ms": 178537,
+      "name": "All My Loving",
+      "url": "https://open.spotify.com/track/4qiiEZPtUtgyDb5qGnEWKl"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -871,22 +851,6 @@
       "duration_ms": 257853,
       "name": "Sapling",
       "url": "https://open.spotify.com/track/3pMbjkN5k9z6kZ2bcEZH1s"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "All My Loving",
-        "url": "https://open.spotify.com/album/5W1sTXqVYuJIgUF6CCy2US"
-      },
-      "artists": [
-        {
-          "name": "Sam Fischer",
-          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
-        }
-      ],
-      "duration_ms": 178537,
-      "name": "All My Loving",
-      "url": "https://open.spotify.com/track/4qiiEZPtUtgyDb5qGnEWKl"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -971,6 +935,26 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
+        "name": "Witness (feat. Rajiv Dhall)",
+        "url": "https://open.spotify.com/album/1JE0utQ8jkvsB77SJ3gXbt"
+      },
+      "artists": [
+        {
+          "name": "Rosie Darling",
+          "url": "https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI"
+        },
+        {
+          "name": "Rajiv Dhall",
+          "url": "https://open.spotify.com/artist/5vZ5k7ySgoaLpLdZB98nfo"
+        }
+      ],
+      "duration_ms": 213133,
+      "name": "Witness - feat. Rajiv Dhall",
+      "url": "https://open.spotify.com/track/3zC3W1qHKdfPIjRbjnn56W"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
         "name": "My Father's Daughter (From The \u201cFlag Day\u201d Original Soundtrack)",
         "url": "https://open.spotify.com/album/7alk37quFoAf91whDEJ8a1"
       },
@@ -991,26 +975,6 @@
       "duration_ms": 170893,
       "name": "My Father's Daughter",
       "url": "https://open.spotify.com/track/2LxglhGxGhHF4P11HPEFwu"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "Witness (feat. Rajiv Dhall)",
-        "url": "https://open.spotify.com/album/1JE0utQ8jkvsB77SJ3gXbt"
-      },
-      "artists": [
-        {
-          "name": "Rosie Darling",
-          "url": "https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI"
-        },
-        {
-          "name": "Rajiv Dhall",
-          "url": "https://open.spotify.com/artist/5vZ5k7ySgoaLpLdZB98nfo"
-        }
-      ],
-      "duration_ms": 213133,
-      "name": "Witness - feat. Rajiv Dhall",
-      "url": "https://open.spotify.com/track/3zC3W1qHKdfPIjRbjnn56W"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1307,22 +1271,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "October Sky",
-        "url": "https://open.spotify.com/album/6w7gENsq0E5THRxQZkA1D0"
-      },
-      "artists": [
-        {
-          "name": "Yebba",
-          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
-        }
-      ],
-      "duration_ms": 195065,
-      "name": "October Sky",
-      "url": "https://open.spotify.com/track/4dGuN04mLIr6EgFkrBe5Vl"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "Picture of You (feat. Hayden Calnin)",
         "url": "https://open.spotify.com/album/7wC9pX406TglFwy4ALYYy4"
       },
@@ -1339,6 +1287,22 @@
       "duration_ms": 261523,
       "name": "Picture of You",
       "url": "https://open.spotify.com/track/41UWHXKrP9VaNuLHNlWEV2"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "October Sky",
+        "url": "https://open.spotify.com/album/6w7gENsq0E5THRxQZkA1D0"
+      },
+      "artists": [
+        {
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+        }
+      ],
+      "duration_ms": 195065,
+      "name": "October Sky",
+      "url": "https://open.spotify.com/track/4dGuN04mLIr6EgFkrBe5Vl"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1373,22 +1337,6 @@
       "url": "https://open.spotify.com/track/2bY0fCLZ2wzWFqujDEGQKY"
     },
     {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "The Man Who Sees Tomorrow / Lodarore",
-        "url": "https://open.spotify.com/album/6wEU7UQkhZSuLZLdVt2ypQ"
-      },
-      "artists": [
-        {
-          "name": "Uwade",
-          "url": "https://open.spotify.com/artist/57qPRqUfnRY0KJtO5lrjWL"
-        }
-      ],
-      "duration_ms": 211733,
-      "name": "The Man Who Sees Tomorrow",
-      "url": "https://open.spotify.com/track/3tML0isKJJ3DJUQKcm3L0e"
-    },
-    {
       "added_at": "2022-09-09 04:00:00",
       "album": {
         "name": "Evergreen",
@@ -1403,6 +1351,22 @@
       "duration_ms": 181514,
       "name": "Evergreen",
       "url": "https://open.spotify.com/track/5tP2NMeAOujUeK0w3C96nh"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "The Man Who Sees Tomorrow / Lodarore",
+        "url": "https://open.spotify.com/album/6wEU7UQkhZSuLZLdVt2ypQ"
+      },
+      "artists": [
+        {
+          "name": "Uwade",
+          "url": "https://open.spotify.com/artist/57qPRqUfnRY0KJtO5lrjWL"
+        }
+      ],
+      "duration_ms": 211733,
+      "name": "The Man Who Sees Tomorrow",
+      "url": "https://open.spotify.com/track/3tML0isKJJ3DJUQKcm3L0e"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1439,26 +1403,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "A Good Love, Pt. 2",
-        "url": "https://open.spotify.com/album/76CfuswZ7S6qJJSNQY5BPt"
-      },
-      "artists": [
-        {
-          "name": "Bear's Den",
-          "url": "https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi"
-        },
-        {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
-        }
-      ],
-      "duration_ms": 213556,
-      "name": "A Good Love, Pt. 2",
-      "url": "https://open.spotify.com/track/7I2PEItnKfXLY4JTDYlSGY"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "You & I",
         "url": "https://open.spotify.com/album/3Hgnwo776L50LdBk4JkwmR"
       },
@@ -1475,18 +1419,22 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "All in My Head",
-        "url": "https://open.spotify.com/album/5Q7YRZ6YKXgoli9IlOfLjy"
+        "name": "A Good Love, Pt. 2",
+        "url": "https://open.spotify.com/album/76CfuswZ7S6qJJSNQY5BPt"
       },
       "artists": [
         {
-          "name": "Erika Sirola",
-          "url": "https://open.spotify.com/artist/1OHw2r7Diz2rc9JktaFV6N"
+          "name": "Bear's Den",
+          "url": "https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi"
+        },
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
         }
       ],
-      "duration_ms": 150054,
-      "name": "All in My Head",
-      "url": "https://open.spotify.com/track/042VxsK2Y8MMxoWBQ5SLxn"
+      "duration_ms": 213556,
+      "name": "A Good Love, Pt. 2",
+      "url": "https://open.spotify.com/track/7I2PEItnKfXLY4JTDYlSGY"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1523,6 +1471,22 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
+        "name": "All in My Head",
+        "url": "https://open.spotify.com/album/5Q7YRZ6YKXgoli9IlOfLjy"
+      },
+      "artists": [
+        {
+          "name": "Erika Sirola",
+          "url": "https://open.spotify.com/artist/1OHw2r7Diz2rc9JktaFV6N"
+        }
+      ],
+      "duration_ms": 150054,
+      "name": "All in My Head",
+      "url": "https://open.spotify.com/track/042VxsK2Y8MMxoWBQ5SLxn"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
         "name": "Texas Girl",
         "url": "https://open.spotify.com/album/1CCH7mhb1jy84jMV6Y4xMp"
       },
@@ -1535,6 +1499,22 @@
       "duration_ms": 172808,
       "name": "Texas Girl",
       "url": "https://open.spotify.com/track/33ADzejAdZCu13hAcnzkIC"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Pure Acoustic 2022",
+        "url": "https://open.spotify.com/album/4DCIc6AsRGKdKLh2bDfQr0"
+      },
+      "artists": [
+        {
+          "name": "Lauren Spencer Smith",
+          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
+        }
+      ],
+      "duration_ms": 175344,
+      "name": "Fingers Crossed",
+      "url": "https://open.spotify.com/track/00vGldARjYnPv2LPGUQHSC"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1671,6 +1651,26 @@
       "duration_ms": 215111,
       "name": "Beat of My Heart",
       "url": "https://open.spotify.com/track/44fTa1co7zmof732liprRg"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Everything's Waiting for You",
+        "url": "https://open.spotify.com/album/2v22a5ayFfHDy1Ez7J5cLk"
+      },
+      "artists": [
+        {
+          "name": "Lydia Clowes",
+          "url": "https://open.spotify.com/artist/4KNIAGw8aeV4ZgMxzjqkeH"
+        },
+        {
+          "name": "Tom Speight",
+          "url": "https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91"
+        }
+      ],
+      "duration_ms": 198093,
+      "name": "Hymn for Her",
+      "url": "https://open.spotify.com/track/6pGiAaDuRg3VJGE18rmWcs"
     }
   ],
   "unique_name": "Today's Singer-Songwriters",

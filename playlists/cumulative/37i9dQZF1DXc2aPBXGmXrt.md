@@ -4,7 +4,7 @@
 
 > This is the essential Justin Bieber.
 
-93 songs - 5 hr 14 min - [published](https://open.spotify.com/playlist/6l4lBg2UWguODj4gDE9AzT)
+95 songs - 5 hr 21 min - [published](https://open.spotify.com/playlist/6l4lBg2UWguODj4gDE9AzT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,12 +79,14 @@
 | [Next To You \(feat\. Justin Bieber\)](https://open.spotify.com/track/7gd01LMH2gBcoDngSt8sq9) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [F.A.M.E\. \(Expanded Edition\)](https://open.spotify.com/album/6df0qvkMXoyHGt9J8cujZb) | 4:25 | 2022-04-29 |  |
 | [No Brainer](https://open.spotify.com/track/5WvAo7DNuPRmk4APhdPzi8) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [No Brainer](https://open.spotify.com/album/02drHFQa59AoJWU6DXSSjd) | 4:20 | 2021-11-17 |  |
 | [Off My Face](https://open.spotify.com/track/3T03rPwlL8NVk1yIaxeD8U) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:36 | 2021-11-17 |  |
-| [One Less Lonely Girl](https://open.spotify.com/track/69ghzc538EQSVon2Gm3wrr) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [My World](https://open.spotify.com/album/1rG5TDs3jYh6OU753I54CI) | 3:49 | 2022-04-29 |  |
+| [One Less Lonely Girl](https://open.spotify.com/track/5YaHat4YWCZcQNfgpTyj0F) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Toddler and Children Singalong Vol\. 5](https://open.spotify.com/album/5fAi7hYLR44BJ2MEJutE28) | 3:49 | 2022-09-02 |  |
+| [One Less Lonely Girl](https://open.spotify.com/track/69ghzc538EQSVon2Gm3wrr) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [My World](https://open.spotify.com/album/1rG5TDs3jYh6OU753I54CI) | 3:49 | 2022-04-29 | 2022-11-12 |
 | [One Less Lonely Girl](https://open.spotify.com/track/7qUcqYzOtfZe65bednDxmz) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [My Worlds \(International Version\)](https://open.spotify.com/album/6gdLfnf2vdNlMTyhJHaDLs) | 3:49 | 2021-11-17 | 2022-07-29 |
 | [One Time](https://open.spotify.com/track/6eDApnV9Jdb1nYahOlbbUh) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [My World](https://open.spotify.com/album/1rG5TDs3jYh6OU753I54CI) | 3:35 | 2021-11-17 |  |
 | [Peaches \(feat\. Daniel Caesar & Giveon\)](https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:18 | 2021-11-17 |  |
-| [Purpose](https://open.spotify.com/track/2IjyFRCRn8x1bEquOM3vxg) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Purpose \(Deluxe\)](https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr) | 3:30 | 2022-04-29 |  |
+| [Purpose](https://open.spotify.com/track/2IjyFRCRn8x1bEquOM3vxg) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Purpose \(Deluxe\)](https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr) | 3:30 | 2022-04-29 | 2022-11-12 |
 | [Purpose](https://open.spotify.com/track/3jHCXrZNz8fQEEf4BpWCAj) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Purpose \(Deluxe\)](https://open.spotify.com/album/7fZH0aUAjY3ay25obOUf2a) | 3:30 | 2021-11-17 | 2022-07-29 |
+| [Purpose](https://open.spotify.com/track/4akknPSIJH8JZOadthgXkR) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Cozy Songs 2020](https://open.spotify.com/album/4UkruAvphs0CweRwOdbiLb) | 3:30 | 2022-09-02 |  |
 | [Red Eye \(feat\. TroyBoi\)](https://open.spotify.com/track/24OeEKPQ8qqNZnPevRHxUT) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI) | [Justice \(The Complete Edition\)](https://open.spotify.com/album/3uPnO1aZBwMgWK1DI5zve9) | 3:07 | 2021-11-17 |  |
 | [Second Emotion \(feat\. Travis Scott\)](https://open.spotify.com/track/1PnAx788sAvcI3ZxTlEyX8) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Changes](https://open.spotify.com/album/63iWSELt9V1kV6RSMxN7Ii) | 3:22 | 2021-11-17 |  |
 | [Somebody](https://open.spotify.com/track/0pYUyZ3aQR1fAOdhXfoD3R) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/0w1dwXfG5z6Xjjgj524JkD) | 2:59 | 2021-11-17 |  |

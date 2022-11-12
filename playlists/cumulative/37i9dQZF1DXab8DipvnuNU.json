@@ -120,6 +120,24 @@
     },
     {
       "album": {
+        "name": "Essence Music Festival, Vol. 1: Songs From Our Triumphant Return to New Orleans",
+        "url": "https://open.spotify.com/album/5Mz1QHTcG5xMha6mvcPkjz"
+      },
+      "artists": [
+        {
+          "name": "Maze",
+          "url": "https://open.spotify.com/artist/3DvdryKH4O95ZnsUZJKXpt"
+        }
+      ],
+      "date_added": "2021-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235080,
+      "name": "Before I Let Go",
+      "url": "https://open.spotify.com/track/6WUSbDYeGsieoWyEpfgRAF"
+    },
+    {
+      "album": {
         "name": "Great R&B",
         "url": "https://open.spotify.com/album/0ToSKqQnHTBeIVybrONR8V"
       },
@@ -135,7 +153,7 @@
       ],
       "date_added": "2021-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 236106,
       "name": "Before I Let Go",
       "url": "https://open.spotify.com/track/6e9xnBJPs0y9omrSU3C3N4"
@@ -1263,7 +1281,7 @@
       ],
       "date_added": "2021-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 383706,
       "name": "Square Biz",
       "url": "https://open.spotify.com/track/52bz3fOCyr6GgkJQsLK9PM"
@@ -1285,6 +1303,24 @@
       "duration_ms": 385573,
       "name": "Square Biz",
       "url": "https://open.spotify.com/track/5lAH3vLN4Gc3jDM25cMIgH"
+    },
+    {
+      "album": {
+        "name": "Motown Queens",
+        "url": "https://open.spotify.com/album/0g4hcfMoBKXPmMvNCHtlTC"
+      },
+      "artists": [
+        {
+          "name": "Teena Marie",
+          "url": "https://open.spotify.com/artist/61UT1Zj9dFgPAjZfwnsqsb"
+        }
+      ],
+      "date_added": "2021-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387533,
+      "name": "Square Biz",
+      "url": "https://open.spotify.com/track/3k168scjk05AuB67bGXkJg"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Pop songs for birds looking to stretch their vocal cords.
 
-44 songs - 2 hr 52 min - [published](https://open.spotify.com/playlist/7AnMeMSuNFMKhWWNJyi8tQ)
+45 songs - 2 hr 56 min - [published](https://open.spotify.com/playlist/7AnMeMSuNFMKhWWNJyi8tQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,8 +34,9 @@
 | [I'm Like A Bird](https://open.spotify.com/track/2aGw77pZqli064JiPuXYRi) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Whoa, Nelly! \(Expanded Edition\)](https://open.spotify.com/album/0emt7fmxNjW3lb37nTOXR0) | 4:03 | 2020-01-10 | 2022-11-11 |
 | [I'm Like A Bird](https://open.spotify.com/track/2ze7s5CrESggiWA3RpDYIy) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Whoa, Nelly! \(Special Edition\)](https://open.spotify.com/album/0on8zrPIIlANtVlNw6Uea7) | 4:03 | 2020-01-10 | 2022-07-29 |
 | [I'm Like A Bird](https://open.spotify.com/track/6UcjigslMEsZOSO2l9xEZY) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Summer Vacation](https://open.spotify.com/album/4W19zAhjKAKRkbNdvsd6HW) | 4:03 | 2020-01-10 |  |
+| [If I Could Turn Back Time](https://open.spotify.com/track/12wNutje5PfMeDHrZwjEXC) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Graduation Songs](https://open.spotify.com/album/4EJlbpMh9UUcpaUHK6KPZQ) | 3:57 | 2020-01-10 |  |
 | [If I Could Turn Back Time](https://open.spotify.com/track/0eHZ7dpv4iT7bMEYDoILIa) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Heart Of Stone](https://open.spotify.com/album/60Q5H9OJaMs0sFzImKDJ8s) | 3:59 | 2020-01-10 | 2022-07-29 |
-| [If I Could Turn Back Time](https://open.spotify.com/track/6mYrhCAGWzTdF8QnKuchXM) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Heart Of Stone](https://open.spotify.com/album/3srdrIrP3V7LTmRujRfLhK) | 3:59 | 2020-01-10 |  |
+| [If I Could Turn Back Time](https://open.spotify.com/track/6mYrhCAGWzTdF8QnKuchXM) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Heart Of Stone](https://open.spotify.com/album/3srdrIrP3V7LTmRujRfLhK) | 3:59 | 2020-01-10 | 2022-11-12 |
 | [Joanne](https://open.spotify.com/track/2kecdnlyueotEMC8rdNlf6) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Joanne \(Deluxe\)](https://open.spotify.com/album/2ZUwFxlWo0gwTsvZ6L4Meh) | 3:16 | 2020-01-10 |  |
 | [Killing Me Softly With His Song](https://open.spotify.com/track/1MAqR81Tz28IIqMJ2KUDAO) | [Fugees](https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY) | [The Score](https://open.spotify.com/album/7m1r9h3wfPRm3Iv8uvq9vQ) | 4:58 | 2020-01-10 | 2022-07-29 |
 | [Killing Me Softly With His Song](https://open.spotify.com/track/0Q0IVlqMV64kNLlwjPj0Hl) | [Fugees](https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY), [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Score \(Expanded Edition\)](https://open.spotify.com/album/18XFe4CPBgVezXkxZP6rTb) | 4:58 | 2020-01-10 |  |

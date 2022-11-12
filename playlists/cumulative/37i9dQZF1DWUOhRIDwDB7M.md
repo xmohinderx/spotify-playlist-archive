@@ -4,7 +4,7 @@
 
 > Positive and uplifting ambient instrumental tracks.
 
-255 songs - 12 hr 37 min - [published](https://open.spotify.com/playlist/6fLxyccnSrhX5ogq1L5BVp)
+257 songs - 12 hr 42 min - [published](https://open.spotify.com/playlist/6fLxyccnSrhX5ogq1L5BVp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,8 @@
 | [Coral Spawning](https://open.spotify.com/track/4qpOmf3eph1SAVh1kPQj15) | [Dowafu](https://open.spotify.com/artist/678BANurtj1ZV9EVaW7E2n) | [Coral Spawning](https://open.spotify.com/album/3yWljI4on5BuqfU3bRwl3l) | 4:03 | 2021-09-06 |  |
 | [Corridors](https://open.spotify.com/track/66CiuQCGRMNy6sRzsi1Q6j) | [Mylo Rivers](https://open.spotify.com/artist/20MoKIG566PkzNMFkRldKy) | [Corridors of Diamonds](https://open.spotify.com/album/1M4Dd2Z9ulJQmITzC0q8A2) | 3:21 | 2021-09-06 |  |
 | [Cross My Heart](https://open.spotify.com/track/1c8FmuRVU394oqbNKDX6mH) | [They Dream By Day](https://open.spotify.com/artist/0bcsH2FSusCuTAZ8aAgbJV) | [Limbo](https://open.spotify.com/album/2oL51NXTh3XyG4ZQBYo5qd) | 2:27 | 2021-09-06 | 2022-07-29 |
-| [Cross My Heart](https://open.spotify.com/track/50BBDsisFzJGiFbg6FDRAV) | [They Dream By Day](https://open.spotify.com/artist/0bcsH2FSusCuTAZ8aAgbJV) | [Limbo](https://open.spotify.com/album/58LZpp4XabjGyR8Dc7NVtI) | 2:28 | 2022-07-11 |  |
+| [Cross My Heart](https://open.spotify.com/track/4bSnRystHv5Th9z3TlcYHF) | [They Dream By Day](https://open.spotify.com/artist/0bcsH2FSusCuTAZ8aAgbJV) | [KEEN: Sweet Dreams Vol\. 1](https://open.spotify.com/album/4EysyfJFTHrX08jYXvyfd1) | 2:28 | 2022-11-11 |  |
+| [Cross My Heart](https://open.spotify.com/track/50BBDsisFzJGiFbg6FDRAV) | [They Dream By Day](https://open.spotify.com/artist/0bcsH2FSusCuTAZ8aAgbJV) | [Limbo](https://open.spotify.com/album/58LZpp4XabjGyR8Dc7NVtI) | 2:28 | 2022-07-11 | 2022-11-12 |
 | [Crossing](https://open.spotify.com/track/08Q4GyxnB8ak1ZwHnjwova) | [The Tides](https://open.spotify.com/artist/0Z3GVEGMJYq0nTdZNJAx4V) | [Crossing](https://open.spotify.com/album/3FljiBhzr6zWL9zymtBkpV) | 2:33 | 2021-09-06 |  |
 | [Curiosity](https://open.spotify.com/track/3WEdWvAScE1EcBfErseQnC) | [Beau Projet](https://open.spotify.com/artist/5bLGj9jAzmBqGwjB2UbjOC) | [Curiosity](https://open.spotify.com/album/5FbnGcGNWnjufAuOrXss3k) | 2:35 | 2021-09-06 |  |
 | [Curious Morning](https://open.spotify.com/track/5lZyYNi8OfFWKiX1p9zDQP) | [Michael Orvind](https://open.spotify.com/artist/5T6TsN3w0beYOD37SZqb6n) | [Curious Morning](https://open.spotify.com/album/4XJCJP5JB80dwJKDt0rlpN) | 3:02 | 2021-09-06 |  |
@@ -223,6 +224,7 @@
 | [Tendrils](https://open.spotify.com/track/7FHyT32LoAMUFZCJXyvBg9) | [Realizer](https://open.spotify.com/artist/7I2pqQX5c5XTjyl8InIrbt) | [Tendrils](https://open.spotify.com/album/5o1ieatpIUcozmIdMwbT7H) | 2:19 | 2021-09-06 |  |
 | [The Discovery](https://open.spotify.com/track/5NKK0t7lYlyDsT5auDYKmq) | [Sulfur Springs](https://open.spotify.com/artist/4W3lH1l0pEtX21XX6nOIRF) | [The Discovery](https://open.spotify.com/album/5AIoZtcwqxJZ5HOc5CFUKI) | 3:13 | 2021-09-06 |  |
 | [The Dusk](https://open.spotify.com/track/1IP6Rxvohb7Sv6c7eqCzx8) | [Zoe Connelly](https://open.spotify.com/artist/1jrYQH3c0RnD9Gcq43NDIO) | [The Dusk](https://open.spotify.com/album/0Ed6n6t6YsIFh4XbInQaVv) | 2:40 | 2021-09-06 |  |
+| [The First Light](https://open.spotify.com/track/4LHU2ae5wv5SN7KNwZFM9d) | [Mo Fiera](https://open.spotify.com/artist/3L536wLE8wGiLp3ttXomqz) | [Crepuscule](https://open.spotify.com/album/7zOlVGVm9AGwbPBr6TpWzI) | 2:46 | 2022-11-11 |  |
 | [The Five Times I Loved You](https://open.spotify.com/track/0W4RUo3m0jL0wHADS0PLme) | [Cora Zea](https://open.spotify.com/artist/2GW7BMmmFwI0cDvop6sOWg) | [Pyramid Train](https://open.spotify.com/album/0GYSu9KaftfjSxHE3vqW66) | 3:25 | 2021-09-06 |  |
 | [The Flow](https://open.spotify.com/track/5utTNDqFPpLSC19SqHNIXx) | [Toledo Rains](https://open.spotify.com/artist/76uaa6flgNHI5elCp0ssBF) | [Sleepwalking](https://open.spotify.com/album/7i4b354sCe4KyTPaelIKdn) | 2:45 | 2021-09-06 |  |
 | [The Land Untouched](https://open.spotify.com/track/76m4OZPd4JPBzPELtXeBwz) | [Dear Gravity](https://open.spotify.com/artist/28MEj0HGdwvJYdbMAVpXU6) | [The Pilgrimage Series: Departure](https://open.spotify.com/album/5bX3B8XiOHrmOlq33D2iTG) | 4:00 | 2021-09-06 |  |

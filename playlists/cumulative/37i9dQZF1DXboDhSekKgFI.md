@@ -4,7 +4,7 @@
 
 > Los niños se volverán locos por estas canciones de fiesta.
 
-74 songs - 3 hr 58 min - [published](https://open.spotify.com/playlist/3yUTzo8lbBlDnOya9cliI9)
+75 songs - 4 hr 2 min - [published](https://open.spotify.com/playlist/3yUTzo8lbBlDnOya9cliI9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,8 +46,9 @@
 | [I Like To Move It](https://open.spotify.com/track/3hYvZHS6dqEhvBbO302MjR) | [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA) | [Fiesta despúes de la siesta](https://open.spotify.com/album/4h6x8zsA7RXuHL2TEkYYy0) | 3:42 | 2020-04-27 | 2022-08-22 |
 | [I Like To Move It](https://open.spotify.com/track/6iQL8Gf8tRk3J9MR3bymBq) | [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA) | [Kids Mega Hits 2021](https://open.spotify.com/album/4ImJNhGABc7QgMXlN7IdEO) | 3:42 | 2020-04-27 |  |
 | [If I Can't Have You](https://open.spotify.com/track/2bT1PH7Cw3J9p3t7nlXCdh) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn Mendes \(Deluxe\)](https://open.spotify.com/album/0xzScN8P3hQAz3BT3YYX5w) | 3:11 | 2020-04-27 |  |
+| [Ki Ki Kí \- Co Co Có](https://open.spotify.com/track/7Hke8WSxLAqufLClxWsy78) | [Payasitas Nifu Nifa](https://open.spotify.com/artist/3p8aW7ByUTuXOA7RI9A10T) | [Entre Ayer y Hoy](https://open.spotify.com/album/4m5LfcppTzq4IMILYui52g) | 3:42 | 2020-04-27 |  |
 | [Ki Ki Kí \- Co Co Có \(Arturo Cabrera Remix\)](https://open.spotify.com/track/4retjOENUHtaD9bmnNrIIP) | [Payasitas Nifu Nifa](https://open.spotify.com/artist/3p8aW7ByUTuXOA7RI9A10T), [Arturo Cabrera](https://open.spotify.com/artist/2tnkqXDQ6S1FosAwwS0do1) | [Por Tí Y Para Tí](https://open.spotify.com/album/5lY38DKcpTaEsO0s3yzML8) | 3:42 | 2020-04-27 | 2022-07-29 |
-| [Ki Ki Kí \- Co Co Có \- Dance Remix](https://open.spotify.com/track/0dT11N8Apg5dqZrm5iYHyF) | [Payasitas Nifu Nifa](https://open.spotify.com/artist/3p8aW7ByUTuXOA7RI9A10T) | [Por Ti y Para Ti](https://open.spotify.com/album/553Z8YDy0KOYGyh1BegVoH) | 3:42 | 2020-04-27 |  |
+| [Ki Ki Kí \- Co Co Có \- Dance Remix](https://open.spotify.com/track/0dT11N8Apg5dqZrm5iYHyF) | [Payasitas Nifu Nifa](https://open.spotify.com/artist/3p8aW7ByUTuXOA7RI9A10T) | [Por Ti y Para Ti](https://open.spotify.com/album/553Z8YDy0KOYGyh1BegVoH) | 3:42 | 2020-04-27 | 2022-11-12 |
 | [La Canciòn](https://open.spotify.com/track/58Ezud7EmDJTWdN5enfRpM) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [La Canciòn](https://open.spotify.com/album/7p3hSlLxQtEZ3OWinN1TF8) | 3:09 | 2020-04-27 |  |
 | [La familia Madrigal](https://open.spotify.com/track/6740sbqgB64LZopHUEiBG8) | [Olga Lucía Vives](https://open.spotify.com/artist/1xtEM6Ynrm8jO1o7rXzP22), [Yaneth Waldman](https://open.spotify.com/artist/49xYVBMRskbDXPIZJZxJwR), [Encanto \- Elenco](https://open.spotify.com/artist/52l7jN5e0g2n3IVOHulkA6) | [Encanto \(Banda Sonora Original en Español\)](https://open.spotify.com/album/4X5y4Xykl9IdiLqQtUInVF) | 4:17 | 2022-07-11 |  |
 | [La Luz](https://open.spotify.com/track/7Jafrholm3CJ8AIfWKi77X) | [Isabella Castillo](https://open.spotify.com/artist/1VMbsWJQQaRlubXsKcEOcL) | [Yo Soy Franky \(Música Original de la Serie\)](https://open.spotify.com/album/4b1h8Ne7RKTyIpQ9WfWm8F) | 3:40 | 2020-04-27 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-31",
-  "description": "A collection of hits that will have you singing every word. Cover: Bailey Zimmerman",
+  "description": "A collection of hits that will have you singing every word. Cover: Luke Combs",
   "name": "Country Favourites",
   "published_playlist_ids": [
     "5Q1iirswdRnV2OItF004D6"
@@ -95,6 +95,24 @@
       "duration_ms": 179152,
       "name": "Almost Maybes",
       "url": "https://open.spotify.com/track/14JFKtBSqefxfMiKhq6JT8"
+    },
+    {
+      "album": {
+        "name": "The Woman In Me",
+        "url": "https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246760,
+      "name": "Any Man Of Mine",
+      "url": "https://open.spotify.com/track/0pdfN7nOHMYmKykzu1cyfm"
     },
     {
       "album": {
@@ -370,6 +388,24 @@
     },
     {
       "album": {
+        "name": "Country On",
+        "url": "https://open.spotify.com/album/3XgzAqjFk10Vyspx8c7OEm"
+      },
+      "artists": [
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236455,
+      "name": "Country On",
+      "url": "https://open.spotify.com/track/1tRxwf8Q0AcshfHuaD86Yt"
+    },
+    {
+      "album": {
         "name": "Dear Alcohol",
         "url": "https://open.spotify.com/album/6TtLuu7MV4ptXoXBCIq6xL"
       },
@@ -381,7 +417,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 236307,
       "name": "Dear Alcohol",
       "url": "https://open.spotify.com/track/3HgmGFYiO8967EFji8CSdM"
@@ -609,7 +645,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 181400,
       "name": "Ghost Story",
       "url": "https://open.spotify.com/track/2FGOg7uYBfnspkPOISXTFY"
@@ -841,7 +877,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 202346,
       "name": "Head Over Boots",
       "url": "https://open.spotify.com/track/4ly1QBXEwYoDmje9rmEgC4"
@@ -899,7 +935,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 156275,
       "name": "hole in the bottle (with Shania Twain)",
       "url": "https://open.spotify.com/track/2bV4NwncWMnVvcWyU2yxwB"
@@ -1045,7 +1081,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 250413,
       "name": "I Wish Grandpas Never Died",
       "url": "https://open.spotify.com/track/7Dxes6VnfbZYV0S2QTnVuT"
@@ -1183,6 +1219,24 @@
       "duration_ms": 199106,
       "name": "Leave Her Wild",
       "url": "https://open.spotify.com/track/4oFAJvXFB2W9FWgaww9cQo"
+    },
+    {
+      "album": {
+        "name": "Life",
+        "url": "https://open.spotify.com/album/4zRPTUJpjsQ9j4wEA4z9wB"
+      },
+      "artists": [
+        {
+          "name": "Florida Georgia Line",
+          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232464,
+      "name": "Life",
+      "url": "https://open.spotify.com/track/5ta8NyQiixodcCinI6jjS6"
     },
     {
       "album": {
@@ -1371,7 +1425,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 160706,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/5TWAIHYaOnYg4txfmCgon5"
@@ -1534,6 +1588,24 @@
     },
     {
       "album": {
+        "name": "Pickup",
+        "url": "https://open.spotify.com/album/75yTVtHRGlobA0IvgGG59X"
+      },
+      "artists": [
+        {
+          "name": "MacKenzie Porter",
+          "url": "https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168447,
+      "name": "Pickup",
+      "url": "https://open.spotify.com/track/2kEhQe0BVtY8IIaFE5ALA0"
+    },
+    {
+      "album": {
         "name": "THIS OLE BOY",
         "url": "https://open.spotify.com/album/74G3iEDTbqrBTN3USAlquk"
       },
@@ -1639,7 +1711,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 190451,
       "name": "Same Boat",
       "url": "https://open.spotify.com/track/4HD9SLK4s9rwRyuFt3n8N7"
@@ -1679,6 +1751,24 @@
       "duration_ms": 204973,
       "name": "She Don't Know",
       "url": "https://open.spotify.com/track/5s95DvyPmrEGQz68fECUS8"
+    },
+    {
+      "album": {
+        "name": "Stereotype",
+        "url": "https://open.spotify.com/album/5UgaQfAOaOdfLxFClw8EWa"
+      },
+      "artists": [
+        {
+          "name": "Cole Swindell",
+          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206106,
+      "name": "She Had Me At Heads Carolina",
+      "url": "https://open.spotify.com/track/200x8ONbPfFzByUr3fVz46"
     },
     {
       "album": {
@@ -1751,7 +1841,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 217960,
       "name": "Slow Down Summer",
       "url": "https://open.spotify.com/track/6c9mvipi1OooFPcU2dbwxq"
@@ -1939,6 +2029,24 @@
       "duration_ms": 215140,
       "name": "The Good Ones",
       "url": "https://open.spotify.com/track/3hLuHKzG1cmlRpq53ZVWd8"
+    },
+    {
+      "album": {
+        "name": "The Kind of Love We Make",
+        "url": "https://open.spotify.com/album/77B78XJKo4LcsrRg34GNTu"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224426,
+      "name": "The Kind of Love We Make",
+      "url": "https://open.spotify.com/track/28n8z9IQKyjMPxmvYMBqZa"
     },
     {
       "album": {
@@ -2130,6 +2238,24 @@
     },
     {
       "album": {
+        "name": "What My World Spins Around",
+        "url": "https://open.spotify.com/album/4oTrQ9TmOapgT6uI8W6wsS"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186790,
+      "name": "What My World Spins Around",
+      "url": "https://open.spotify.com/track/6HBRLaSQ7NB8MNlaqzYen1"
+    },
+    {
+      "album": {
         "name": "Country Again (Side A)",
         "url": "https://open.spotify.com/album/3W2BTPUHJX51hweWPNRenv"
       },
@@ -2185,6 +2311,24 @@
       "duration_ms": 174322,
       "name": "Where'd You Learn How To Do That",
       "url": "https://open.spotify.com/track/4Do7NhvafmOQENTNAus874"
+    },
+    {
+      "album": {
+        "name": "Whiskey On You",
+        "url": "https://open.spotify.com/album/3MrvNAqlEsm5iScBAf9Cfm"
+      },
+      "artists": [
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183789,
+      "name": "Whiskey On You",
+      "url": "https://open.spotify.com/track/6Tm4Io4ct4w14nB1EUzsY3"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV2mRphxMWjR.md) - [plain]
 
 > The official playlist for "ONE PIECE FILM RED"\. <a href="https://www.onepiece\-film.jp/">『ONE PIECE FILM RED』</a>公式プレイリスト。「ONE PIECE」映画作品の主題歌集。 ©尾田栄一郎／2022「ワンピース」製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,288 likes - 72 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,157 likes - 72 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV2mRphxMWjR.md) - [plain]
 | 3 | [私は最強 \- ウタ from ONE PIECE FILM RED](https://open.spotify.com/track/7bmAgiUc4W4bfyZRCc6lOh) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [私は最強 \(ウタ from ONE PIECE FILM RED\)](https://open.spotify.com/album/4kSYCYHzG8vyNQcROLlHUq) | 4:17 |
 | 4 | [逆光 \- ウタ from ONE PIECE FILM RED](https://open.spotify.com/track/5GXYKnnzBlHvrzBQ5WoxME) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [逆光 \(ウタ from ONE PIECE FILM RED\)](https://open.spotify.com/album/3ZARNbKk2zkYDeVQpHE564) | 3:57 |
 | 5 | [Fleeting Lullaby](https://open.spotify.com/track/1pnXMEGyw85jtg9fFZf4GP) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [UTA'S SONGS ONE PIECE FILM RED](https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172) | 2:53 |
-| 6 | [Tot Musica](https://open.spotify.com/track/4eChbtoFoOmWQt03aRDzaJ) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [UTA'S SONGS ONE PIECE FILM RED](https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172) | 3:15 |
+| 6 | [Tot Musica](https://open.spotify.com/track/4ca6LN5b17Qjo2GinxmA5v) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [TOKYO \- HALLOWEEN \-](https://open.spotify.com/album/3bl9atzKcDPSm6YM9zJyZN) | 3:15 |
 | 7 | [The World's Continuation](https://open.spotify.com/track/7k9Y8EXEvzKOH3zdMVXXo4) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [UTA'S SONGS ONE PIECE FILM RED](https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172) | 4:47 |
 | 8 | [Where the Wind Blows](https://open.spotify.com/track/51iiBOpcbxJQWf1cI8kSf6) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [UTA'S SONGS ONE PIECE FILM RED](https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172) | 4:32 |
 | 9 | [Straw Hat Pirates Anthem Steve Aoki Remix](https://open.spotify.com/track/3ARhBWi7sTpQXrlseshVOt) | [スティーヴ・アオキ](https://open.spotify.com/artist/3wcyIIlkfkrqmJ87xhWNuM) | [ONE PIECE FILM RED Original Sound Track](https://open.spotify.com/album/1l2K2FjloL4AGyqRWf17U4) | 4:17 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV2mRphxMWjR.md) - [plain]
 | 71 | [絶望トットムジカ](https://open.spotify.com/track/1481hejmBZuoeyZHOkARlM) | [Yasutaka Nakata](https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG) | [ONE PIECE FILM RED Original Sound Track](https://open.spotify.com/album/1l2K2FjloL4AGyqRWf17U4) | 1:09 |
 | 72 | [RED 海賊の生きざま](https://open.spotify.com/track/3ektWJ35SuVMvcMwrflilV) | [Yasutaka Nakata](https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG) | [ONE PIECE FILM RED Original Sound Track](https://open.spotify.com/album/1l2K2FjloL4AGyqRWf17U4) | 0:47 |
 
-Snapshot ID: `MTY2NzQ2NTI1MywwMDAwMDAwMDY0NGUzYWZhNjA3YzFkYjNlOWJiZTU2MmJhNzNiYWVh`
+Snapshot ID: `MTY2NzQ2NTI1MywwMDAwMDAwMGJlN2IwZjI5MDg4YWIxN2NiNTA0ZTE2N2NhMjU3YTRj`

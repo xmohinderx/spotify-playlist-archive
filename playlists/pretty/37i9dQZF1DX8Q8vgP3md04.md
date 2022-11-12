@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Q8vgP3md04.md) - [plain]
 
 > Hit music from Ethiopia's finest.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,240 likes - 54 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,252 likes - 54 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Q8vgP3md04.md) - [plain]
 | 38 | ['Sey](https://open.spotify.com/track/6q26FbrCmwzSr869JeYXaT) | [Ephrem Amare](https://open.spotify.com/artist/6l7ED7MvvS43jtq5TUMB95) | ['Sey](https://open.spotify.com/album/2n1YBeI82wlaiLQkg1POZ0) | 4:45 |
 | 39 | [Tilobign](https://open.spotify.com/track/57eim2kUA5BYD7m6fdLeDM) | [Rahel Getu](https://open.spotify.com/artist/6KbkfWzDjN1R46Dt3usSwZ) | [Tilobign](https://open.spotify.com/album/0r806TJjYUw4g4d5LEoSh9) | 4:55 |
 | 40 | [Ena](https://open.spotify.com/track/3lDh5FFo45l6iPMQ223yn0) | [Muluken Dawit](https://open.spotify.com/artist/2zUgHt41Ctg8PSdKvqBRwV) | [Mengedegna](https://open.spotify.com/album/7ktHIg4rf3y3U4DToGlIO3) | 4:42 |
-| 41 | [Sitalekish Des Alishign](https://open.spotify.com/track/2UMLCweE5NvY4sdeJCaFFX) | [Abinet Agonafir](https://open.spotify.com/artist/0R8QDnSxcOe9PLNBI6m80j) | [Hidden Beauty](https://open.spotify.com/album/2HPUUWewF1dWh0IXbP6LUh) | 5:05 |
+| 41 | [Setaleksh Des Alishign, Abinet Agonafir](https://open.spotify.com/track/3x1IPNc49eHFIRYPqrge1h) | [Abinet Agonafir](https://open.spotify.com/artist/0R8QDnSxcOe9PLNBI6m80j) | [The Ethiopian Millennium Collection \- Dance](https://open.spotify.com/album/7JIzV5YLIR8GidhHgQ4LJa) | 5:04 |
 | 42 | [Ayeneye](https://open.spotify.com/track/4wSz0N4SCEwdHolekBUdmv) | [Hayleyesus Feyssa](https://open.spotify.com/artist/4jYB05zmRJeaMatlpZTn9i) | [Yeaddis Ken Tsehay](https://open.spotify.com/album/77Nr43rl51Q1PsN78MlhCF) | 7:02 |
 | 43 | [Mengedegna](https://open.spotify.com/track/6FLzUgglQPqA78lKior10y) | [Betty G](https://open.spotify.com/artist/0DhTQscKk7XJt49yxEyqDV) | [Wegegta](https://open.spotify.com/album/0ZKMte07PAbDkYoMFP500R) | 3:15 |
 | 44 | [Yebleniloo](https://open.spotify.com/track/5Jl2tQyJUmFJRcdAtLrbfo) | [Selamawit Yohannes](https://open.spotify.com/artist/107XXfLHCmU4H5Konxlqg8) | [Yebleniloo](https://open.spotify.com/album/7xF9to8GK2yUYND3JRZBMa) | 4:51 |
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Q8vgP3md04.md) - [plain]
 | 50 | [Chall Zendero](https://open.spotify.com/track/7K7n8T0Ozc1EquLicWRs9r) | [Dawit Tsige](https://open.spotify.com/artist/0er7UYZjJL3ack3JOGzq5q) | [Yene Zema](https://open.spotify.com/album/7ENDKOE0sFneQCIXLwNyjf) | 3:52 |
 | 51 | [Kenat Wediya](https://open.spotify.com/track/4iKrEZyjF2JcC5AukB2rBF) | [Jano Band](https://open.spotify.com/artist/29rBOow0bKfFfNXRSzZrBm) | [Lerasih New](https://open.spotify.com/album/0uz6rUwEMsK4pHO39fsapv) | 4:54 |
 | 52 | [Lijay](https://open.spotify.com/track/1H8X1BVWxWlGopjmqEhle5) | [Mulatu Astatke](https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv), [Black Jesus Experience](https://open.spotify.com/artist/4zoaPormj8VuScjdQX9Rh4) | [Lijay](https://open.spotify.com/album/6Q5i8LyFcC7rxILCKqXZ3N) | 5:24 |
-| 53 | [Shelter](https://open.spotify.com/track/5hiih9ZGthFog3buukf7Ss) | [Yohana](https://open.spotify.com/artist/2noU35ow21LQjXl4msANBG) | [Shelter](https://open.spotify.com/album/1aDK3U8NLFyi5zBYLRFxUK) | 4:19 |
+| 53 | [Shelter](https://open.spotify.com/track/0InSfY3vAN0dcy7MiyxdSM) | [Yohana](https://open.spotify.com/artist/2noU35ow21LQjXl4msANBG) | [Shelter](https://open.spotify.com/album/5gbL8MJfWftKPNW4JfXp2P) | 4:19 |
 | 54 | [Welday Weni](https://open.spotify.com/track/7hFZoxd3fHB6kn3M2fZbgz) | [Liham Melody](https://open.spotify.com/artist/4mgP2hXsnULBqWou6ld9rQ) | [Welday Weni](https://open.spotify.com/album/2KbxKjKmOB2IPUsDdGBb8z) | 4:25 |
 
-Snapshot ID: `MTY2NTA2MTcwMiwwMDAwMDAwMDE3ZGFlMmIyNmM5YWNkODdmODM4Y2M1YTkxNmI0YjNl`
+Snapshot ID: `MTY2NTA2MTcwMiwwMDAwMDAwMDM2YWY4NWFiNjJlMGUwMTMxYzVhZTIzNzQ0MjczODJh`

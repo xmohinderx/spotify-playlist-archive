@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX137AZKLkKC6.md) - [plain]
 
 > Las grandes del Despecho y el Género Popular\. Foto: Paola Jara
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,726 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,824 likes - 75 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,12 +70,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX137AZKLkKC6.md) - [plain]
 | 60 | [Ángel o Demonio](https://open.spotify.com/track/3t17siJ4pNDgSxtpcTVB1m) | [Fredy Montoya](https://open.spotify.com/artist/226KQHhYMB4ss3DyK17zk9), [Luisito Muñoz](https://open.spotify.com/artist/0ajy8rupiCOgvmsOtaG83P) | [Ángel o Demonio](https://open.spotify.com/album/1XnfrUTeFCfXEFXXu4d2qM) | 3:19 |
 | 61 | [Copita de Licor](https://open.spotify.com/track/6sBvUFDc0MmcAr4VFfp838) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu) | [Maldita Traicion](https://open.spotify.com/album/5xYcQs87dQWn1hNYn0dc7h) | 3:47 |
 | 62 | [Te Extraño](https://open.spotify.com/track/41r4Bi95vksuMFgKx9yftT) | [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx) | [Te Extraño](https://open.spotify.com/album/1pdxfcoAl2QOW3WOC1R8zd) | 3:03 |
-| 63 | [OK](https://open.spotify.com/track/7CpzHbrYhaqLHUdpfyYUsM) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Repítelas](https://open.spotify.com/album/4QRs1syzARn1dej4RWRPtY) | 2:21 |
+| 63 | [OK](https://open.spotify.com/track/6g13x2XNa9kAmRxJgac6T0) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Éxitos Mano de Obra](https://open.spotify.com/album/46OnImUL8cGg0srjXJxj2l) | 2:21 |
 | 64 | [Muy Bandida](https://open.spotify.com/track/74Q5KgYnmaaD4onOW77Deu) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu) | [De Regreso al Dolor](https://open.spotify.com/album/5g86joQp94OGhGhKrzU9Yc) | 3:01 |
 | 65 | [Ellas Así Son](https://open.spotify.com/track/7tg8QC49iqo6swPF6kXmWN) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Ellas Así Son](https://open.spotify.com/album/0J9nQoFFEZlrvAjNnwsGOP) | 3:35 |
 | 66 | [Sin Sentimientos](https://open.spotify.com/track/3x0cDerFLCgNxTsUWtjoAi) | [Jhon Alex Castaño](https://open.spotify.com/artist/5pbzj8JGUpUCMHESd1yHFv) | [El Rey del Chupe](https://open.spotify.com/album/7jDZkDqmE1QNWEvcrxXwwm) | 2:28 |
 | 67 | [Que Te Lo Crea Tu Madre](https://open.spotify.com/track/1FEH4cNvTNkBO5tM4mMyag) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Las Compuse para Ti](https://open.spotify.com/album/6MPAzfdQFWe5IadlxhcUNv) | 3:20 |
-| 68 | [Adiós Amor](https://open.spotify.com/track/63bmZnBN1CiJ9sA4qTEe8y) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Me Dejé Llevar](https://open.spotify.com/album/2XHw4PFHT6srg7dxA3yrKv) | 3:19 |
+| 68 | [Adiós Amor](https://open.spotify.com/track/1AfE3gHrlA57QOTemKuVDb) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Cena Mexicana](https://open.spotify.com/album/6PZrzKy73syaMZvWZku2lv) | 3:22 |
 | 69 | [Como una Pelota](https://open.spotify.com/track/5iJBBQOi25f86NEurPAszB) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y), [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx) | [Como una Pelota](https://open.spotify.com/album/306ib7yX5JegvImZ8VMrSF) | 2:55 |
 | 70 | [Ni Que Fueras la Mas Buena](https://open.spotify.com/track/3rbeV5mt1vaQP0p7Ts1E17) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu) | [Maldita Traicion](https://open.spotify.com/album/1s5tPLQ8CZguYP8Skuwgas) | 2:35 |
 | 71 | [La Cita](https://open.spotify.com/track/3oqopsjoBm9wRdbT4QXtIE) | [Galy Galiano](https://open.spotify.com/artist/2OSKh2JIKMr66DxByxhwzT), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [La Cita](https://open.spotify.com/album/1TpTCn8O48aX2O8UyOspLB) | 3:45 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX137AZKLkKC6.md) - [plain]
 | 74 | [Matemos las Ganas](https://open.spotify.com/track/0bID0lGh8aR5jc6PkiyPUN) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Matemos las Ganas](https://open.spotify.com/album/4F9KrbhXKsZaHMv5R0zmom) | 3:02 |
 | 75 | [Qué Mal Te Ves Sin Mí](https://open.spotify.com/track/4lc3SmNj0FBtPGygUfeGc4) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [No Pongan Esas Canciones](https://open.spotify.com/album/0NTVddhlKzjxGdCAdWR80h) | 3:17 |
 
-Snapshot ID: `MTY2NzU1NTcwMCwwMDAwMDAwMDg3MzFmMGU1YTQ4MmRlYWJlM2ViYzhiZWE3NzMxOThh`
+Snapshot ID: `MTY2NzU1NTcwMCwwMDAwMDAwMGVkMDc5MGYwNmE2ODcwNGMyOTQxZTdlYzU3NDVmYzMw`

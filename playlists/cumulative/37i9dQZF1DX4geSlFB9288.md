@@ -4,7 +4,7 @@
 
 > Indie music to keep your gaming session properly soundtracked.
 
-376 songs - 20 hr 57 min - [published](https://open.spotify.com/playlist/6eT1nwSC8c4kaxWfBxqE4a)
+377 songs - 21 hr 2 min - [published](https://open.spotify.com/playlist/6eT1nwSC8c4kaxWfBxqE4a)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,7 +159,7 @@
 | [I WANNA BE YOUR SLAVE](https://open.spotify.com/track/4pt5fDVTg5GhEvEtlz9dKk) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 2:53 | 2022-02-25 | 2022-10-07 |
 | [i was all over her](https://open.spotify.com/track/7svpAkwc6xaSxlbZ7V7JiS) | [salvia palth](https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo) | [melanchole](https://open.spotify.com/album/23KJrzHF1IBfjzpRgTtaJx) | 2:41 | 2021-10-20 | 2022-02-26 |
 | [I'll Be Good](https://open.spotify.com/track/4JuJZzGcswQszYiKJSnC6i) | [Jaymes Young](https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2) | [Feel Something](https://open.spotify.com/album/6MuWCR3WPjwyKhqsTKLZ3z) | 4:07 | 2021-10-20 | 2021-12-21 |
-| [i'll die anyway.](https://open.spotify.com/track/14tud1FLjpHMYHpD2c7NbO) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [i'll die anyway.](https://open.spotify.com/album/4Zt3XT3vADR97nZGrFoSOY) | 3:12 | 2022-10-24 |  |
+| [i'll die anyway.](https://open.spotify.com/track/14tud1FLjpHMYHpD2c7NbO) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [i'll die anyway.](https://open.spotify.com/album/4Zt3XT3vADR97nZGrFoSOY) | 3:12 | 2022-10-24 | 2022-11-12 |
 | [i'll die anyway.](https://open.spotify.com/track/7yyJF1BYBaCifNmO1RGhv7) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [i'll die anyway.](https://open.spotify.com/album/6RIPvkeMrEPX4iY1H9ZiVc) | 3:12 | 2022-04-22 | 2022-10-13 |
 | [I'll Keep You Safe](https://open.spotify.com/track/01Rc6yXYtujAnMaR1NME11) | [sagun](https://open.spotify.com/artist/4YJkA3YshwZ8FwljpMW0II), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [I'll Keep You Safe](https://open.spotify.com/album/0VKgiEdp517vGQAI9speIX) | 3:05 | 2022-02-25 |  |
 | [IDGAF \(with blackbear\)](https://open.spotify.com/track/6Jrdb6CFOJEGaHjaa6c4WR) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [IDGAF](https://open.spotify.com/album/3XEOlBcb076IIUTSr98AMu) | 2:20 | 2022-04-07 |  |
@@ -203,6 +203,7 @@
 | [Marionettes](https://open.spotify.com/track/5Qv6KzhJuP2PwCs0MqaFlg) | [Kanaya](https://open.spotify.com/artist/1VrRQ4h5tjhsWoC2Q2ygPw) | [November 16th](https://open.spotify.com/album/21vfuQ3G3sd1sioGn1iLZz) | 4:02 | 2021-10-21 | 2022-04-06 |
 | [Marlboro Nights](https://open.spotify.com/track/7fuQc3IfjiB1gCqP9c1Xvy) | [Lonely God](https://open.spotify.com/artist/6pF6MN603wSrisJcf7HS5v) | [Marlboro Nights](https://open.spotify.com/album/67kzmAbAwzOWcLONoB8cg1) | 1:08 | 2021-10-23\* | 2021-12-15 |
 | [Mask](https://open.spotify.com/track/3IxMaULfjq4IT2IN6v54PB) | [Dream](https://open.spotify.com/artist/6LArUyIoMiHmDvvOAsE2cd) | [Mask](https://open.spotify.com/album/5d9iCqwcR7htS1E7OxOnhp) | 2:54 | 2021-10-23\* | 2021-11-09 |
+| [Medicine](https://open.spotify.com/track/1ujiHGg5p9SVrNIV4jumQK) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [Wild Youth](https://open.spotify.com/album/6BxQ7IyCBbx4CeB7BHQwet) | 4:18 | 2022-10-24 |  |
 | [Medicine](https://open.spotify.com/track/5Zz8mrmVVhOq3iuv8Gh0MX) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [The Wild Youth EP](https://open.spotify.com/album/4oi6YYTdruWtLATvNiVE46) | 4:18 | 2021-10-20 | 2022-04-24 |
 | [Meet Me At Our Spot](https://open.spotify.com/track/07MDkzWARZaLEdKxo6yArG) | [THE ANXIETY](https://open.spotify.com/artist/64H8UqGLbJFHwKtGxiV8OP), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Tyler Cole](https://open.spotify.com/artist/1xoxekeb8jUVHKJB7m6bfg) | [THE ANXIETY](https://open.spotify.com/album/2kZyqn4Cmr78D74K9TcO4K) | 2:42 | 2022-02-25 |  |
 | [Melting](https://open.spotify.com/track/2kSb3wYSOV996xA2NSmpck) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Por Vida](https://open.spotify.com/album/6f5gAJpM85TE6aQ81h46T5) | 3:28 | 2021-11-11 | 2021-11-12 |

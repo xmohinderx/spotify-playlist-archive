@@ -4,7 +4,7 @@
 
 > The greatest female voices in blues today\. Cover: Amythyst Kiah
 
-95 songs - 6 hr 43 min - [published](https://open.spotify.com/playlist/2WCAFMoi6tvwzKLrQPlf9a)
+96 songs - 6 hr 47 min - [published](https://open.spotify.com/playlist/2WCAFMoi6tvwzKLrQPlf9a)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,12 +16,13 @@
 | [Be The Love You Want](https://open.spotify.com/track/5UAYqhxCxhZIL6A667eYBV) | [Southern Avenue](https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ) | [Be The Love You Want](https://open.spotify.com/album/3XDIgxvmrVhFItGN3gkVdH) | 3:16 | 2022-02-18 |  |
 | [Black Myself](https://open.spotify.com/track/2BbFd78ykW1pnR5vZreQkr) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Wary + Strange](https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda) | 3:21 | 2022-02-18 |  |
 | [Blood Red Blues](https://open.spotify.com/track/6tUaoQubP95G9YseowN2Fc) | [Cee Cee James](https://open.spotify.com/artist/6Y21yqal00z7As840atRpD) | [Blood Red Blues](https://open.spotify.com/album/6AmwjavjuaLjqA9II7pLDO) | 3:54 | 2021-03-01 |  |
+| [Call on God](https://open.spotify.com/track/0MY6kBXw8kbDgJiAoO0RUk) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Soul of a Woman](https://open.spotify.com/album/6dQ4PANge8QXfOywlHNd2J) | 3:37 | 2022-03-08 |  |
 | [Call On God](https://open.spotify.com/track/6S2WRQBK9uKW2J6RTJXY6N) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Call on God \- Single](https://open.spotify.com/album/4H7Zk2z3wYfj5UuwoPIoPl) | 3:37 | 2021-03-01 | 2022-07-16 |
 | [Cheats and Liars](https://open.spotify.com/track/3gcIVcnO6Y1DLVo8hQaPuM) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Cheats and Liars](https://open.spotify.com/album/0KvQMS4pJ9rmvBfFyKCcll) | 3:48 | 2022-02-18 | 2022-07-29 |
 | [Cheats and Liars](https://open.spotify.com/track/4PXYmSraZ4JEZsaBDJh2QG) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Cheats and Liars](https://open.spotify.com/album/2rZ2hqlzxMXvj2XN1i8DSZ) | 3:48 | 2022-03-08 |  |
 | [Cheats and Liars](https://open.spotify.com/track/7k0hyVgSg0woUwN1qAuuBf) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Shining in the Half Light](https://open.spotify.com/album/1qXhwQrfr59v0uk5wUOshO) | 3:48 | 2022-03-08 | 2022-11-11 |
 | [Clotilda's On Fire](https://open.spotify.com/track/0G42OWO7nynxXHht2X9mEU) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Uncivil War](https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM) | 4:26 | 2021-03-01 |  |
-| [Cry for Me](https://open.spotify.com/track/2LGB8fWyHBw8ENzD9qH1Gv) | [TORA](https://open.spotify.com/artist/7wml1FKnTWVEj05OrqIVUg) | [Girls](https://open.spotify.com/album/2itCiWDyCrtpV6FuHzLxVA) | 3:00 | 2021-03-01 | 2022-07-29 |
+| [Cry for Me](https://open.spotify.com/track/2LGB8fWyHBw8ENzD9qH1Gv) | [TORA](https://open.spotify.com/artist/7wml1FKnTWVEj05OrqIVUg) | [Girls](https://open.spotify.com/album/2itCiWDyCrtpV6FuHzLxVA) | 3:00 | 2021-03-01 |  |
 | [Desire](https://open.spotify.com/track/0hIPL3LDdCkgpfZSFugRLu) | [TORA](https://open.spotify.com/artist/7wml1FKnTWVEj05OrqIVUg) | [Girls](https://open.spotify.com/album/2itCiWDyCrtpV6FuHzLxVA) | 3:03 | 2022-03-08 | 2022-05-17 |
 | [Earthshaker](https://open.spotify.com/track/55JA2ADUmJvPdIWpyqHTaJ) | [Joanna Connor](https://open.spotify.com/artist/0MJGyEl8BgJbBTv3xeeFeB) | [Rise](https://open.spotify.com/album/0pC44Owu9L5cki0FGk9KuG) | 4:07 | 2021-03-01 | 2022-07-29 |
 | [Falling](https://open.spotify.com/track/30h268bCKmGWxFleXGYATy) | [Dani Wilde](https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB) | [Juice Me Up](https://open.spotify.com/album/6YbtdgILdYRkOVFNK2PPha) | 5:03 | 2021-03-01 |  |
@@ -58,7 +59,7 @@
 | [Love's Truly Blind](https://open.spotify.com/track/6Sm45PLFiplvxlQuLnMUMC) | [Anni Piper](https://open.spotify.com/artist/3piOtc3OX0x7Z4rtdDuNBo) | [Texas Hold 'Em](https://open.spotify.com/album/2fUmLqaNyVUIRuIqUFFHui) | 3:27 | 2021-03-01 |  |
 | [Made Up Mind](https://open.spotify.com/track/5XTDvPvCDO9lxrwkEE9aUF) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Made Up Mind](https://open.spotify.com/album/7L64rhLRuHGIEqnWMMPPXh) | 3:40 | 2022-02-25 |  |
 | [Masters of War](https://open.spotify.com/track/4KIpaOe8mx1Ss7THfddQCR) | [Dani Wilde](https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB) | [Masters of War](https://open.spotify.com/album/32L4ByoDGk3hSJTfXunr58) | 4:56 | 2021-03-01 |  |
-| [Medicine Man](https://open.spotify.com/track/0PtMZ1pEoqCGf58PNGN2DT) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Road I Call Home](https://open.spotify.com/album/3isKOTZKofEvSaMmYUgkCT) | 3:39 | 2022-03-08 |  |
+| [Medicine Man](https://open.spotify.com/track/0PtMZ1pEoqCGf58PNGN2DT) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Road I Call Home](https://open.spotify.com/album/3isKOTZKofEvSaMmYUgkCT) | 3:39 | 2022-03-08 | 2022-11-12 |
 | [Medicine Man](https://open.spotify.com/track/3P55beeDiAOH7qHkj8CPYZ) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Road I Call Home](https://open.spotify.com/album/7rooTZehVu9pdUIirCwA0a) | 3:39 | 2021-03-01 | 2022-10-17 |
 | [Money Makes You Ugly](https://open.spotify.com/track/5niqr1DK4xpCGGcGH6Zk4P) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Uncivil War](https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM) | 3:36 | 2021-03-01 |  |
 | [My Man Called Me](https://open.spotify.com/track/2FqLyyGqLM5KWRkWs4c39D) | [Heather Crosse](https://open.spotify.com/artist/0OdyBBQn3J8hwZN1oMSEQT) | [Groovin' at the Crosse Roads](https://open.spotify.com/album/0cTXGsOEadB2wpKMtIzhN0) | 3:34 | 2021-03-01 | 2022-07-28 |
@@ -73,7 +74,7 @@
 | [Romance In The Dark](https://open.spotify.com/track/5FlUpgml57EvfrdM9IFXwS) | [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [Blackbirds](https://open.spotify.com/album/3gX2IvOKb8zxDJTTnyeLkf) | 4:18 | 2021-03-01 | 2022-07-29 |
 | [Save Me](https://open.spotify.com/track/42O2R9NmHyZqN6CvGcwzrl) | [Danielle Nicole](https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn) | [Cry No More](https://open.spotify.com/album/6uqgNfRltyZuGzFhMF256y) | 4:35 | 2021-03-01 |  |
 | [Savior](https://open.spotify.com/track/0oNrkWjdY3U8sZRJkcjbDP) | [Southern Avenue](https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ) | [Keep On](https://open.spotify.com/album/50CK5WZHyOwMeZHVYGCDIJ) | 3:43 | 2021-03-01 |  |
-| [Seems I’m Never Tired Lovin’ You](https://open.spotify.com/track/4HAm0GNYIHLIMJxVO5U3rW) | [Lizz Wright](https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW) | [Grace](https://open.spotify.com/album/2U1zLHhEmPFEOoZTezdXQg) | 4:43 | 2022-03-08 |  |
+| [Seems I’m Never Tired Lovin’ You](https://open.spotify.com/track/4HAm0GNYIHLIMJxVO5U3rW) | [Lizz Wright](https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW) | [Grace](https://open.spotify.com/album/2U1zLHhEmPFEOoZTezdXQg) | 4:43 | 2022-03-08 | 2022-11-12 |
 | [Seems I’m Never Tired Lovin’ You](https://open.spotify.com/track/7vCfPnxfZstgS5QUlWV7aY) | [Lizz Wright](https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW) | [Seems I’m Never Tired Lovin’ You](https://open.spotify.com/album/026ZioCze6KbxDpunugdId) | 4:43 | 2021-03-01 | 2022-07-29 |
 | [She Just Wants To Dance](https://open.spotify.com/track/32jhfaxUgrYIAvhrYElR8R) | [Gaye Adegbalola](https://open.spotify.com/artist/0rHaAC7EOfI1AssVbzlLIM) | [Bitter Sweet Blues](https://open.spotify.com/album/053qUnFHyBEyu3HrRq2xRY) | 4:52 | 2021-03-01 | 2022-07-29 |
 | [She Was a Doorman](https://open.spotify.com/track/1CgGro1rXhkxs7LviofPyT) | [Ana Popovic](https://open.spotify.com/artist/5kPUAJihniO5WfEfbOCjLf) | [Trilogy, Vol\. 1](https://open.spotify.com/album/7M78ou62qwyei46ZvdPorP) | 4:03 | 2021-03-01 |  |

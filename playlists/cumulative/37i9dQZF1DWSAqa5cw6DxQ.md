@@ -4,7 +4,7 @@
 
 > Clear your mind with soothing new age guitar.
 
-106 songs - 5 hr 20 min - [published](https://open.spotify.com/playlist/436FR3vTM10amif2FlaZkJ)
+111 songs - 5 hr 36 min - [published](https://open.spotify.com/playlist/436FR3vTM10amif2FlaZkJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Chill Spa Music](https://open.spotify.com/track/1Nvjwg3i5wiWOoG1SN0J8q) | [Michael Marc](https://open.spotify.com/artist/3fcQI5iYhwISYHwUf3G4Ok) | [Guitar Meditation](https://open.spotify.com/album/7oJFr5m28N95DBG6dv54UX) | 2:13 | 2022-04-08 |  |
 | [Clermont](https://open.spotify.com/track/0WNOQLJP7OsYJ9nLUO1IPY) | [Luka Vida](https://open.spotify.com/artist/0likNjMTiDiVjqPr4OcsZC) | [Clermont](https://open.spotify.com/album/0XciGzBUV8HJUcSkYo0vku) | 2:11 | 2022-07-08 |  |
 | [contextures](https://open.spotify.com/track/7vE97xuXIoWRAzKRPk3TuI) | [Samaneh Awad](https://open.spotify.com/artist/2r6oyERO8APn3d2BXDB3e1) | [mise\-en\-scène](https://open.spotify.com/album/3TKTuzJj6Wdngg3Fm7dVzZ) | 1:47 | 2022-06-24 |  |
+| [Deliverance](https://open.spotify.com/track/1iiNGLareyph69mzwYYBnn) | [12dust](https://open.spotify.com/artist/14gSyhJmT6Vl9e4vJCxF5J) | [Deliverance](https://open.spotify.com/album/0m45a3uHxy34FO0Lv3VfF6) | 5:11 | 2022-11-11 |  |
 | [Desire](https://open.spotify.com/track/4B65VdJ4nSXcdNsjQcYPyl) | [Jero Toga](https://open.spotify.com/artist/7udo52qeGxSsK69WMRmBvP) | [Desire](https://open.spotify.com/album/5aKMHMuWCuWH2AeiLElqzQ) | 2:46 | 2022-02-28 |  |
 | [Distant Voices](https://open.spotify.com/track/3eR65X6SJv94InSu0RCqMf) | [Billie Mercedez](https://open.spotify.com/artist/6bERRNVRJkiIq1kChAyaQG) | [Distant Voices](https://open.spotify.com/album/7awFxbltxhtOq6iakKUof5) | 2:56 | 2022-02-28 |  |
 | [Dream dependence](https://open.spotify.com/track/0rdOvRimwzjyBHdZ0pR2E7) | [Viclo](https://open.spotify.com/artist/455quPWcJkDlINNu7NfI97) | [Dream Dependence](https://open.spotify.com/album/6Jle8T0G5NdKPJkfOuIVQd) | 2:35 | 2022-02-28 |  |
@@ -50,6 +51,7 @@
 | [Ikaria](https://open.spotify.com/track/4NVV2FdOTnoUh8wn6YKD5v) | [Christos Konstantinidis](https://open.spotify.com/artist/1r6SmaBSJVyCN1gT5mMODO) | [Ikaria](https://open.spotify.com/album/7icipzkeRenveeDSeaYXEK) | 2:52 | 2022-02-28 |  |
 | [In And Around](https://open.spotify.com/track/4726jds0AnASQYMT4gazmH) | [Alex Cambozo](https://open.spotify.com/artist/1ldeIYrSl6pDLlJkPyyqkP) | [In And Around](https://open.spotify.com/album/7vrR4A4dtEj0gLG5AuxKib) | 2:48 | 2022-02-28 |  |
 | [In the Far Away Distance](https://open.spotify.com/track/1oHDNBIxtHai4IcMQ4mJuL) | [Zen Gaya](https://open.spotify.com/artist/5zC4k86g6y3NsIvUwFVX1G) | [In the Far Away Distance](https://open.spotify.com/album/6hxNWvBvsKr4mV1YAjz9HS) | 2:56 | 2022-02-28 |  |
+| [Into The Wild](https://open.spotify.com/track/2p43Bh0htWx0zzluceN4AY) | [Luka Vida](https://open.spotify.com/artist/0likNjMTiDiVjqPr4OcsZC) | [Into The Wild](https://open.spotify.com/album/6f8novNcKvEeS4kZj3CgLL) | 3:12 | 2022-11-11 |  |
 | [Journey Within](https://open.spotify.com/track/3SrOqXX1Lez961c6hSKQnT) | [Voyager](https://open.spotify.com/artist/4nvRxWe5SwOuTDQZ500nzo) | [Journey Within](https://open.spotify.com/album/7dq1vjG3DOb0aiUxMYKItr) | 3:15 | 2022-02-28 |  |
 | [Kepler's Law](https://open.spotify.com/track/6KI4H8nNADQYHQXrcWgJ4k) | [Aislinn Delarosa](https://open.spotify.com/artist/3uwheBIstOkeaW8Mx2hEv9) | [Greet The Day](https://open.spotify.com/album/7x4emLYlGslRZDwlffehF9) | 3:05 | 2022-02-28 |  |
 | [Kulning](https://open.spotify.com/track/66hBtNKN7ofJ4tWy0kSqQ3) | [Sten Hammarlund](https://open.spotify.com/artist/5OtOvmgag48UrQamOtdP9x) | [Kulning](https://open.spotify.com/album/0FQQzyWWFlrWYil8EyTTQw) | 1:50 | 2022-02-28 |  |
@@ -102,8 +104,10 @@
 | [The Book Of Yoga](https://open.spotify.com/track/4tPIBR9sLZtovsTWNmXOWb) | [Demar Brisak](https://open.spotify.com/artist/7xkbL3vqclYAKnO7s7VBxh) | [The Book Of Yoga](https://open.spotify.com/album/3TVqinoDcLyLjqoZHhmoiJ) | 3:05 | 2022-02-28 | 2022-05-27 |
 | [The Deepest Well](https://open.spotify.com/track/2PGA57Sy2RDLAnO7azTXUS) | [Lionheart](https://open.spotify.com/artist/7sHTXnqmYqCECjKKb2iqWS) | [Older](https://open.spotify.com/album/3MFF1D8Z2a2XVXXG8TbUDS) | 3:14 | 2022-02-28 |  |
 | [The Healing Process](https://open.spotify.com/track/23puVz6Rhiq8Wax9KxnZtW) | [Koh Lantana](https://open.spotify.com/artist/5D20KUB6A3CzLjb2DfRJqc) | [The Healing Process](https://open.spotify.com/album/6Rx2jbmQ5RWp5aCabk5LJq) | 2:41 | 2022-02-28 |  |
+| [The Journey Within](https://open.spotify.com/track/3q0ss0KoYMVsUmgiaMRc7q) | [Samaneh Awad](https://open.spotify.com/artist/2r6oyERO8APn3d2BXDB3e1) | [The Journey Within](https://open.spotify.com/album/17IeLGiiEG70TNZ9KG21US) | 2:08 | 2022-11-11 |  |
 | [The Shed](https://open.spotify.com/track/6zVrlSfa7L9bRuYcgq8Di4) | [Alex Miracone](https://open.spotify.com/artist/4AbloHgnodXgCbW2JHB3Jh) | [The Shed](https://open.spotify.com/album/6sVPnW1rebLMRMSFBfmhp4) | 2:30 | 2022-02-28 |  |
 | [Thoughtsurfing](https://open.spotify.com/track/3hwHqRtc1JJD37wreiLL78) | [Thoughtsurfing](https://open.spotify.com/artist/1ecXldlIFJPftmiDd4K25a) | [Thoughtsurfing](https://open.spotify.com/album/2Q5VhpyKC9HJKeYCtNuonN) | 2:13 | 2022-02-28 |  |
+| [Tidal Flow](https://open.spotify.com/track/519f6rIBUjy8bZ8yl06gwR) | [Dag Sommer](https://open.spotify.com/artist/7C14yKyhGQefwbz7ckNHmy) | [Tidal Flow](https://open.spotify.com/album/6eNwDrsRWJ6jXWS9H5VYX6) | 3:29 | 2022-11-11 |  |
 | [Transparency](https://open.spotify.com/track/73ZnCLiPERq5SRGZ3cOpEz) | [Tristan Wilson](https://open.spotify.com/artist/0Whtro6LqFditoj7nzIOMH) | [Transparency](https://open.spotify.com/album/7L0fkPPLzgQWjo9CApHGOJ) | 2:14 | 2022-07-22 |  |
 | [Travel in Time](https://open.spotify.com/track/1mZIS3P7VQuPUu8hQPg0Bk) | [Christos Konstantinidis](https://open.spotify.com/artist/1r6SmaBSJVyCN1gT5mMODO) | [State of Existence](https://open.spotify.com/album/4VBg4QcYhgsnVVFGEU5wzI) | 2:51 | 2022-02-28 |  |
 | [Tremoland](https://open.spotify.com/track/13z3AL9gEDxGWr1sGk0UZe) | [Palacín](https://open.spotify.com/artist/4AFGBpC7hxvSJArGRadDoL) | [Tremoland](https://open.spotify.com/album/1PLLrdOtibrkAzPxV8j3jj) | 2:43 | 2022-02-28 |  |
@@ -113,6 +117,7 @@
 | [volatile](https://open.spotify.com/track/0xfdG0kvDuuYWfzfoUF11N) | [Yasmin Ryan](https://open.spotify.com/artist/5yNo2UDxYyUsMrH7UdPW1g) | [volatile](https://open.spotify.com/album/3ejmdIOzSjSK77jXZokL1a) | 2:34 | 2022-02-28 |  |
 | [Walk The Earth](https://open.spotify.com/track/6UeToMuJzKjBMTwBzUToua) | [Man In Cloud](https://open.spotify.com/artist/1gwUh8lFeihWpMGyuYYARs) | [Walk The Earth](https://open.spotify.com/album/0PtQeqx1U6vqmcidsR199S) | 2:55 | 2022-02-28 |  |
 | [Waves](https://open.spotify.com/track/6b0IEewTmxjEoowlloqId2) | [Aliya Coldwell](https://open.spotify.com/artist/0kUap0NamZGz6FwR7tCjUE) | [Waves](https://open.spotify.com/album/45zsAjed9wN1PpVTnkl6n5) | 2:56 | 2022-02-28 |  |
+| [Wherever You Go](https://open.spotify.com/track/29vkYjTn6LlSkyLKzhvNhM) | [Yasmin Ryan](https://open.spotify.com/artist/5yNo2UDxYyUsMrH7UdPW1g) | [Wherever You Go](https://open.spotify.com/album/6rfPi75eYBbCaiHCIAIW7U) | 2:35 | 2022-11-11 |  |
 | [Zenya](https://open.spotify.com/track/5ks86NE9jyrLfQJinAcfiA) | [Voyage Control](https://open.spotify.com/artist/2ZxdgHyc8cnGVXvUgaApbc) | [Zenya](https://open.spotify.com/album/3loauhCt2lDAVpdhYSTgrE) | 4:21 | 2022-08-05 |  |
 
 \*This playlist was first scraped on 2022-03-22. Prior content cannot be recovered.

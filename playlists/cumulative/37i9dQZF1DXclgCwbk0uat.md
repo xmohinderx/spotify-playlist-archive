@@ -4,7 +4,7 @@
 
 > ¡Escucha los éxitos de hoy! <br/>Foto: Feid & Ozuna.
 
-124 songs - 7 hr 23 min - [published](https://open.spotify.com/playlist/6ib4E7QcDsjYbPU6AdAszH)
+125 songs - 7 hr 26 min - [published](https://open.spotify.com/playlist/6ib4E7QcDsjYbPU6AdAszH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Baby Doll](https://open.spotify.com/track/4dzBUpIYEnECzf5TIq4jFL) | [Pablo Pesadilla](https://open.spotify.com/artist/41vcoPejPG3vv8emJ2R5Ox), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH) | [Baby Doll](https://open.spotify.com/album/3w8QAeLI6MlLCdTo5GeR5P) | 4:07 | 2022-05-05 | 2022-07-01 |
 | [BABY OTAKU](https://open.spotify.com/track/0kTMK4gNFfLXaTb62w1UaJ) | [Pablito Pesadilla](https://open.spotify.com/artist/41vcoPejPG3vv8emJ2R5Ox), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Nickoog Clk](https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj), [Fran C](https://open.spotify.com/artist/5NenY2Jl9wwLRxf86go4Y8) | [BABY OTAKU](https://open.spotify.com/album/7HUH0lFoay2KzGEZqGp55G) | 2:56 | 2022-08-26 |  |
 | [Bailando](https://open.spotify.com/track/0kRJ3rwE3rTDJGnGO4HmoD) | [El Jordan 23](https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V), [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz) | [Bailando](https://open.spotify.com/album/15w28xIK85L1TcTjNjjTAI) | 3:44 | 2022-04-14 |  |
-| [Bailemos Reggaeton](https://open.spotify.com/track/0YRgRpM2bdmQEkiI8bWDBA) | [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz) | [Bailemos Reggaeton](https://open.spotify.com/album/22Suc9rycbfTgtCYqfIz5M) | 2:58 | 2022-04-14 |  |
+| [Bailemos Reggaeton](https://open.spotify.com/track/0YRgRpM2bdmQEkiI8bWDBA) | [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz) | [Bailemos Reggaeton](https://open.spotify.com/album/22Suc9rycbfTgtCYqfIz5M) | 2:58 | 2022-04-14 | 2022-11-12 |
 | [Besos Moja2](https://open.spotify.com/track/6TsVhM8qIkWN5cJVDIVbbz) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [La Última Misión](https://open.spotify.com/album/5YLmrfqNRJK66Gl4QVLwHW) | 3:49 | 2022-11-10 |  |
 | [Caile](https://open.spotify.com/track/6i1g5ZRmJZAkDwBaUZ3f2i) | [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [L3tra](https://open.spotify.com/album/70ubyVo5JwY94DLaZBkIBI) | 2:21 | 2022-08-11 |  |
 | [Caminemos de la Mano](https://open.spotify.com/track/1cZqrdhWL6f3EiY23zpnTe) | [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb), [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq) | [Caminemos de la Mano](https://open.spotify.com/album/4mN6kuLwt2N8SLascdzLyB) | 3:34 | 2022-08-12 |  |
@@ -99,6 +99,7 @@
 | [Que se hace](https://open.spotify.com/track/5oIDyDmPYEzEOBIcZqfJ4C) | [Nickoog Clk](https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj), [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz) | [Que se hace](https://open.spotify.com/album/288IcGKjznBhxBgDjQsT8J) | 3:08 | 2022-06-06 |  |
 | [Quevedo: Bzrp Music Sessions, Vol\. 52](https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Quevedo: Bzrp Music Sessions, Vol\. 52](https://open.spotify.com/album/4PNqWiJAfjj32hVvlchV5u) | 3:18 | 2022-07-11 |  |
 | [Qué Pasa?](https://open.spotify.com/track/5u0EnFzLd5WmsncTG5uMSP) | [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy) | [Qué Pasa?](https://open.spotify.com/album/6uj6pADiKvNoqF38wAcbdn) | 2:33 | 2022-04-14 | 2022-05-06 |
+| [Reggaetón](https://open.spotify.com/track/0MEUoxYlDHOSnNvtPL5MKN) | [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz) | [11/11](https://open.spotify.com/album/0fTlLpdntkd3vdeCRmGNbg) | 2:49 | 2022-11-11 |  |
 | [RELAX CON MAX \- Spotify Singles](https://open.spotify.com/track/6OsOskqADfdiSX1LqLGtkk) | [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl) | [RELAX CON MAX \- Spotify Singles](https://open.spotify.com/album/4Lj0WgYY0R8DLHM6v2jVr1) | 2:30 | 2022-10-28 |  |
 | [REMIX](https://open.spotify.com/track/65MqlYPOWReasKWcuCaOCW) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [LEGENDADDY](https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt) | 2:43 | 2022-04-14 | 2022-04-22 |
 | [RUMBATÓN](https://open.spotify.com/track/3XjN0mvFkQp1FMVM9Ro5hm) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [LEGENDADDY](https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt) | 4:08 | 2022-04-14 | 2022-10-28 |

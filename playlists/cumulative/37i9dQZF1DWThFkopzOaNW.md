@@ -4,7 +4,7 @@
 
 > Celebrate the career of one of the most influential <a href="spotify:artist:1mFX1QlezK1lNPKQJkhwWb">R&B groups</a> of all time.
 
-54 songs - 4 hr 13 min - [published](https://open.spotify.com/playlist/3gTQhQlbSFMNtLP3beWw6X)
+56 songs - 4 hr 22 min - [published](https://open.spotify.com/playlist/3gTQhQlbSFMNtLP3beWw6X)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [B.B.D\. \(I Thought It Was Me\)?](https://open.spotify.com/track/26yEd8XVwJpHDERXo6rZ8X) | [Bell Biv DeVoe](https://open.spotify.com/artist/2zFZiWQJFFshzojycnXoTL) | [20th Century Masters: The Millennium Collection: Best of Bel Biv DeVoe](https://open.spotify.com/album/2QC1IsQIUNdEz0zgWanPkN) | 4:35 | 2018-09-04 |  |
 | [Boys To Men](https://open.spotify.com/track/3jA9wIZHmiXWYAG06Dc8rp) | [New Edition](https://open.spotify.com/artist/1mFX1QlezK1lNPKQJkhwWb) | [Heart Break](https://open.spotify.com/album/1bTjSqotSDtUjcwFfukTQP) | 4:10 | 2018-09-04 |  |
 | [Can You Stand The Rain](https://open.spotify.com/track/2JWeI3Vs2SwdLch4nZzAN7) | [New Edition](https://open.spotify.com/artist/1mFX1QlezK1lNPKQJkhwWb) | [Gold](https://open.spotify.com/album/7r7Vb7w9Fc3kUDNgIlPIxk) | 4:46 | 2018-09-04 | 2022-07-29 |
-| [Can You Stand The Rain](https://open.spotify.com/track/1vbe9sh7U9vdMceAhitWr2) | [New Edition](https://open.spotify.com/artist/1mFX1QlezK1lNPKQJkhwWb) | [Heart Break](https://open.spotify.com/album/1bTjSqotSDtUjcwFfukTQP) | 4:57 | 2018-09-04 |  |
+| [Can You Stand The Rain](https://open.spotify.com/track/1vbe9sh7U9vdMceAhitWr2) | [New Edition](https://open.spotify.com/artist/1mFX1QlezK1lNPKQJkhwWb) | [Heart Break](https://open.spotify.com/album/1bTjSqotSDtUjcwFfukTQP) | 4:57 | 2018-09-04 | 2022-11-12 |
+| [Can You Stand The Rain](https://open.spotify.com/track/7KWH8VFMLmHMmSRJymvkhs) | [New Edition](https://open.spotify.com/artist/1mFX1QlezK1lNPKQJkhwWb) | [Valentine's Day \- R&B Love](https://open.spotify.com/album/1OWQ0dIUtug87kP5NTjUEp) | 5:00 | 2018-09-04 |  |
 | [Candy Girl](https://open.spotify.com/track/72OrfuJ9RxfLCoqAMeKHCZ) | [New Edition](https://open.spotify.com/artist/1mFX1QlezK1lNPKQJkhwWb) | [Candy Girl](https://open.spotify.com/album/62OvMX7ymbmxO6TKiXDE4v) | 3:55 | 2018-09-04 |  |
 | [Cool It Now](https://open.spotify.com/track/5LkcAjqj5NOctNGi2qUjlw) | [New Edition](https://open.spotify.com/artist/1mFX1QlezK1lNPKQJkhwWb) | [New Edition](https://open.spotify.com/album/68moCweQx7EoMvHdZ6HzDc) | 5:47 | 2018-09-04 |  |
 | [Count Me Out](https://open.spotify.com/track/0XpJaafBTohHGhhdrp83rJ) | [New Edition](https://open.spotify.com/artist/1mFX1QlezK1lNPKQJkhwWb) | [All For Love](https://open.spotify.com/album/3YCJbBunpZPQOJHrwSdNQ2) | 5:40 | 2018-09-04 |  |
@@ -43,8 +44,9 @@
 | [My, My, My](https://open.spotify.com/track/0Z9FRM5zukGVagh8TVSdrI) | [Johnny Gill](https://open.spotify.com/artist/7oHzn7edwmrYClrPRINkbn) | [Johnny Gill](https://open.spotify.com/album/3VNcHyjMgpq2UQN5LTs4qC) | 5:21 | 2018-09-04 |  |
 | [N.E\. Heart Break](https://open.spotify.com/track/3i3W6JXFIIRnrm9RKUkaaC) | [New Edition](https://open.spotify.com/artist/1mFX1QlezK1lNPKQJkhwWb) | [Heart Break](https://open.spotify.com/album/1bTjSqotSDtUjcwFfukTQP) | 5:44 | 2018-09-04 |  |
 | [On Our Own \- With Rap](https://open.spotify.com/track/3gyGarXAYgTgJIIp97DjTt) | [Bobby Brown](https://open.spotify.com/artist/62sPt3fswraiEPnKQpAbdE) | [The Best Of Bobby Brown 20th Century Masters The Millennium Collection](https://open.spotify.com/album/1T7RZdtMdC1svs3WGT15A5) | 4:31 | 2018-09-04 |  |
+| [Perfect Combination](https://open.spotify.com/track/5jgyzAcmar1CAjTDIvuRRu) | [Johnny Gill](https://open.spotify.com/artist/7oHzn7edwmrYClrPRINkbn), [Stacy Lattisaw](https://open.spotify.com/artist/0rKnxuiIepvjtMmrYYV2VA) | [Romantic 80s](https://open.spotify.com/album/1TBVvujFDOdpFIDNPepttp) | 4:09 | 2018-09-04 |  |
 | [Perfect Combination](https://open.spotify.com/track/31pxQwe1mFFhrNyHnsWdUE) | [Johnny Gill](https://open.spotify.com/artist/7oHzn7edwmrYClrPRINkbn), [Stacy Lattisaw](https://open.spotify.com/artist/0rKnxuiIepvjtMmrYYV2VA) | [Ultimate Collection: Johnny Gill](https://open.spotify.com/album/3uhHV5Q8vnQiaSc7TqpEDM) | 4:10 | 2018-09-04 | 2022-07-29 |
-| [Perfect Combination](https://open.spotify.com/track/0Ro6ef31feiNEnrTZCBSeA) | [Stacy Lattisaw](https://open.spotify.com/artist/0rKnxuiIepvjtMmrYYV2VA), [Johnny Gill](https://open.spotify.com/artist/7oHzn7edwmrYClrPRINkbn) | [Perfect Combination](https://open.spotify.com/album/2Mv6pIgSdRzyj6JxH8BTTD) | 4:09 | 2018-09-04 |  |
+| [Perfect Combination](https://open.spotify.com/track/0Ro6ef31feiNEnrTZCBSeA) | [Stacy Lattisaw](https://open.spotify.com/artist/0rKnxuiIepvjtMmrYYV2VA), [Johnny Gill](https://open.spotify.com/artist/7oHzn7edwmrYClrPRINkbn) | [Perfect Combination](https://open.spotify.com/album/2Mv6pIgSdRzyj6JxH8BTTD) | 4:09 | 2018-09-04 | 2022-11-12 |
 | [Poison](https://open.spotify.com/track/6m59VvDUi0UQsB2eZ9wVbH) | [Bell Biv DeVoe](https://open.spotify.com/artist/2zFZiWQJFFshzojycnXoTL) | [Poison](https://open.spotify.com/album/6H5mxGUWguDjtQ4Uzd8veD) | 4:21 | 2018-09-04 |  |
 | [Popcorn Love](https://open.spotify.com/track/6IhyDE3JEBalQFcgod5WlZ) | [New Edition](https://open.spotify.com/artist/1mFX1QlezK1lNPKQJkhwWb) | [Candy Girl](https://open.spotify.com/album/62OvMX7ymbmxO6TKiXDE4v) | 4:56 | 2018-09-04 |  |
 | [Rock Wit'cha](https://open.spotify.com/track/7BVMXNnQSswMX8IJeZUb5T) | [Bobby Brown](https://open.spotify.com/artist/62sPt3fswraiEPnKQpAbdE) | [Don't Be Cruel](https://open.spotify.com/album/44w4sVYJVQzhH2dN3IwyIK) | 4:49 | 2018-09-04 |  |

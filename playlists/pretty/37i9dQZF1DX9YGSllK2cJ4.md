@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YGSllK2cJ4.md) - [plain]
 
 > Give yourself a break, cry it out, take comfort in these sad piano songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,788 likes - 173 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,866 likes - 173 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -164,7 +164,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YGSllK2cJ4.md) - [plain]
 | 154 | [Solêr](https://open.spotify.com/track/3SsXxuvEu20CnDg7LUNFDY) | [Otto A\. Totland](https://open.spotify.com/artist/0Dc8oO0rYX3DgirVK88dcl) | [Pinô](https://open.spotify.com/album/7uPWpTHYqHEQTpZIlgELQK) | 2:35 |
 | 155 | [Ubi Est](https://open.spotify.com/track/5pLSlgg03xSKkCYMOfmHty) | [Jøsefine](https://open.spotify.com/artist/5LQF5EIs7xORz4fOVfpSpO) | [Ubi Est](https://open.spotify.com/album/54UmMhNKBxFFL67jLyWrVI) | 2:06 |
 | 156 | [Persistence](https://open.spotify.com/track/0axAOvyLwfINcKe3tw7U2f) | [Gunnel Boek](https://open.spotify.com/artist/1o402msQD5tWRl4y5jnrvI) | [Persistence](https://open.spotify.com/album/7hihzMSbAIsrcRtSGjebl8) | 2:19 |
-| 157 | [Lillian](https://open.spotify.com/track/5lcjalUNbHaaSvXRTtYd1p) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP), [Søren Tarding](https://open.spotify.com/artist/1bHfoau7ud3dvN33mMtzuj) | [Mursejler](https://open.spotify.com/album/4fQTzcMpCxxpajM3dMUqID) | 2:07 |
+| 157 | [Lillian](https://open.spotify.com/track/4cwSFF1hXI78ZTmREh6Yww) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP), [Søren Tarding](https://open.spotify.com/artist/1bHfoau7ud3dvN33mMtzuj) | [Lillian](https://open.spotify.com/album/76qmoKhO9fwNsUh1BOcnPf) | 2:07 |
 | 158 | [Marussian](https://open.spotify.com/track/3CFKAgnwhhDgL1KpfZJ3dI) | [Nate LaFleur](https://open.spotify.com/artist/7uCSp3FWJEgez6UBDnQb4c) | [Marussian](https://open.spotify.com/album/39Gr6U4GDtLYPgZXqJHWTj) | 2:11 |
 | 159 | [Moods Anemoia](https://open.spotify.com/track/1OypaCAJWzAKpsh9PEX2fk) | [Mario Viñuela](https://open.spotify.com/artist/4hAdpygElM5qnAI534XVRp) | [Moods Anemoia](https://open.spotify.com/album/2MgvsYBhmzWSWJe57z5Fvl) | 2:32 |
 | 160 | [Vespers](https://open.spotify.com/track/6NTDYbHPwOKpGXQw2WWfLo) | [Thomas Welker](https://open.spotify.com/artist/0usxXdyQdV9ucIQRKQjfVG) | [Vespers](https://open.spotify.com/album/1dea5PJqBlByt9C7GYapKH) | 2:42 |
@@ -182,4 +182,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YGSllK2cJ4.md) - [plain]
 | 172 | [Toužebný](https://open.spotify.com/track/3I36NaLQR6zCn5Y2stUg9H) | [Jan Kubec](https://open.spotify.com/artist/1qalElRe3QyFhucbpFX9On) | [Toužebný](https://open.spotify.com/album/79wxphlSK7Xj0dUCMiK7SS) | 2:14 |
 | 173 | [Forever Changed](https://open.spotify.com/track/6u20TgouBczWOOlnR6703e) | [Winifred Kang](https://open.spotify.com/artist/5r0SmbwJ70z8AoUrrbdRnU) | [Forever Changed](https://open.spotify.com/album/5r8Z1CKRpkrqF8IqcHnEY7) | 1:59 |
 
-Snapshot ID: `MTY2NjYxMjA2NiwwMDAwMDAwMGRkNjM0YmI5NGZhN2UwMzU4ZGJjYzJmNTQ0ZjQ1ZDdi`
+Snapshot ID: `MTY2NjYxMjA2NiwwMDAwMDAwMDI0ZTQ5OGYxMmZmMmVhZDJjMzc1Y2UwODk3Yzc2YWNm`

@@ -4,11 +4,12 @@
 
 > 設立10周年を迎えた<a href="http://www.mappa.co.jp/">MAPPA</a>。2022年6月までに公開された作品の音楽をひとつのプレイリストに。Listen to the songs from 30+ anime shows MAPPA has produced in the last decade of its history!
 
-126 songs - 8 hr 20 min - [published](https://open.spotify.com/playlist/07kV54ieqgmMg9uw7cCsZ1)
+128 songs - 8 hr 28 min - [published](https://open.spotify.com/playlist/07kV54ieqgmMg9uw7cCsZ1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Akuma no Ko](https://open.spotify.com/track/4pw7EuK2WTWGHI51jCKuGJ) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [Saiaku Saiai](https://open.spotify.com/album/2CtsgdSCPlWeIdcdk2m2iQ) | 3:49 | 2022-05-10 |  |
+| [Akuma no Ko](https://open.spotify.com/track/5cRKj1kynNFqiliT2ndZ3y) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [Akuma no Ko](https://open.spotify.com/album/1dcNDH0hCRrWPz5IGKr1tR) | 3:47 | 2022-10-11 |  |
+| [Akuma no Ko](https://open.spotify.com/track/4pw7EuK2WTWGHI51jCKuGJ) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [Saiaku Saiai](https://open.spotify.com/album/2CtsgdSCPlWeIdcdk2m2iQ) | 3:49 | 2022-05-10 | 2022-11-12 |
 | [AlegriA](https://open.spotify.com/track/2IpweUPafBsEGOsv9Anblr) | [D\-selections](https://open.spotify.com/artist/3XBLtyAdNpfVKQGnVh0nTL) | [AlegriA](https://open.spotify.com/album/3IaYkVi9q4MoXPWMBm3BxO) | 4:42 | 2022-05-10 |  |
 | [B.B.](https://open.spotify.com/track/0qsR8AYGQ8HAfejVgaWI0z) | [JAM Project](https://open.spotify.com/artist/0CPdwFVMsHZWpNgKuLaTuU) | [B.B.](https://open.spotify.com/album/4w4xDSa5ztppzU0Cyyxrfk) | 3:48 | 2022-05-10 |  |
 | [Between Memories](https://open.spotify.com/track/6Jdy4B9Q9UNynpibATGyV5) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Niki Randa](https://open.spotify.com/artist/47zSdHUfF93kgKjOVGKxU3) | [Black Gold / Between Memories](https://open.spotify.com/album/6wAMeXoPvL8N0sXpUACH2e) | 1:45 | 2022-05-10 | 2022-07-29 |
@@ -84,7 +85,8 @@
 | [タクト](https://open.spotify.com/track/7vFsMU7BORCrf7tZ4oTxlV) | [ryo \(supercell\)](https://open.spotify.com/artist/5Ud2lekREUXjinNlIGjJIX), [Mafumafu](https://open.spotify.com/artist/6t6aXZlmnAF1VuiG8BVjQZ), [gaku](https://open.spotify.com/artist/7jjFT71wanEzrqWDlljqts) | [タクト](https://open.spotify.com/album/00njLWkhVD4MUlLkzoj4HX) | 3:57 | 2022-05-10 | 2022-07-29 |
 | [ナナツイロ REALiZE](https://open.spotify.com/track/54IcYBsKHecx4MgZyqF8TB) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [ナナツイロ REALiZE](https://open.spotify.com/album/6Gae1e4UtFVseYUcDkGNeH) | 4:48 | 2022-05-10 |  |
 | [フレンズ](https://open.spotify.com/track/47Yy8afcdn8fD9E8vgTlRd) | [wacci](https://open.spotify.com/artist/7jCHrVGjeHUYP2pHv8FOJ3) | [フレンズ](https://open.spotify.com/album/0me5yPA5JgPCMqXrJ4bCHv) | 3:57 | 2022-05-10 | 2022-07-29 |
-| [フレンズ](https://open.spotify.com/track/2yw4gK5iALigexA3jUiX3g) | [wacci](https://open.spotify.com/artist/7jCHrVGjeHUYP2pHv8FOJ3) | [フレンズ](https://open.spotify.com/album/2tH1mg6OFlLX2sFg24JSqs) | 3:58 | 2022-05-10 |  |
+| [フレンズ](https://open.spotify.com/track/2yw4gK5iALigexA3jUiX3g) | [wacci](https://open.spotify.com/artist/7jCHrVGjeHUYP2pHv8FOJ3) | [フレンズ](https://open.spotify.com/album/2tH1mg6OFlLX2sFg24JSqs) | 3:58 | 2022-05-10 | 2022-11-12 |
+| [フレンズ](https://open.spotify.com/track/7cYQ9thqXjWg0slZ0CXSxm) | [wacci](https://open.spotify.com/artist/7jCHrVGjeHUYP2pHv8FOJ3) | [suits me! suits you!](https://open.spotify.com/album/6w4UG3KP2TxppJ4QuQeean) | 3:59 | 2022-10-11 |  |
 | [ブチコメ!!](https://open.spotify.com/track/6tzOqDbBuX6U7Hq6yfcZPL) | [SHIKURAMEN](https://open.spotify.com/artist/0TCMXwyEt39idbHRlwGvs8) | [シクラメンの夏](https://open.spotify.com/album/0DnVad4YbEUndhNGChkiSx) | 3:45 | 2022-05-10 |  |
 | [メニメニマニマニ](https://open.spotify.com/track/7EvzUhU6zpdJxAsjNQZ1gN) | [高宮なすの\(CV:鳴海杏子\)](https://open.spotify.com/artist/4YUQrz8swYxgcc9dWV0nIG) | [メニメニマニマニ](https://open.spotify.com/album/0OflLmwcweeJ90j3qShjth) | 4:29 | 2022-05-10 |  |
 | [一途](https://open.spotify.com/track/7ncPjJBktLEOpstY5JOUMK) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [一途](https://open.spotify.com/album/5sCVCfINkiQ40ozBngqGaY) | 3:10 | 2022-05-10 |  |

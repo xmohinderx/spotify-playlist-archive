@@ -513,7 +513,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 407000,
       "name": "DJ Lover - Original Mix",
       "url": "https://open.spotify.com/track/186UsZ2lMmYMwDA9UzQEfA"
@@ -709,7 +709,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 197007,
       "name": "Get Ur Freak On",
       "url": "https://open.spotify.com/track/6FSY2EEtEfW8Xj95dqw3UC"
@@ -1317,7 +1317,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 167638,
       "name": "Nana",
       "url": "https://open.spotify.com/track/1SBEegsKKBMXyXVTLKa1KJ"
@@ -1491,6 +1491,24 @@
       "duration_ms": 206378,
       "name": "Poison",
       "url": "https://open.spotify.com/track/1MeYeeJV7BUmp3Kf0wEmQe"
+    },
+    {
+      "album": {
+        "name": "Purple Edge EP",
+        "url": "https://open.spotify.com/album/6dc9GE1Rkg4He3frvm4iEW"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/1ed0tZqOmgMtPwfCeTy8fz"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 516643,
+      "name": "Purple Edge",
+      "url": "https://open.spotify.com/track/0KX1WIkJABs6laxaMR4PzQ"
     },
     {
       "album": {
@@ -1845,6 +1863,28 @@
       "duration_ms": 212812,
       "name": "So Hot",
       "url": "https://open.spotify.com/track/2uLhfL4MvW6jTGEYt6NYPM"
+    },
+    {
+      "album": {
+        "name": "So Sweet (Matthias Tanzmann Remix)",
+        "url": "https://open.spotify.com/album/5hOWFQMBcssUJsnTAt7lr5"
+      },
+      "artists": [
+        {
+          "name": "Dennis Cruz",
+          "url": "https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu"
+        },
+        {
+          "name": "Matthias Tanzmann",
+          "url": "https://open.spotify.com/artist/6bxLLapj6NByiP5cr6jMeK"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333026,
+      "name": "So Sweet - Matthias Tanzmann Remix",
+      "url": "https://open.spotify.com/track/0KBOVJnMYY8bgqrfzuAIG5"
     },
     {
       "album": {
@@ -2243,10 +2283,28 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 348315,
       "name": "Untitled A",
       "url": "https://open.spotify.com/track/0dCoAtdih1oipgbx4jFqcg"
+    },
+    {
+      "album": {
+        "name": "Warning",
+        "url": "https://open.spotify.com/album/3y5fQAMQcXwch8hlHuhzwp"
+      },
+      "artists": [
+        {
+          "name": "Beltran",
+          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336504,
+      "name": "Warning",
+      "url": "https://open.spotify.com/track/09fLcyru2xKfVPpN01dL0C"
     },
     {
       "album": {
@@ -2331,6 +2389,28 @@
       "duration_ms": 423934,
       "name": "Work Out",
       "url": "https://open.spotify.com/track/38d5OWdfoJGFXg9vpkctkj"
+    },
+    {
+      "album": {
+        "name": "World Is Empty",
+        "url": "https://open.spotify.com/album/5cx3KsmqYxXUEm63MGODda"
+      },
+      "artists": [
+        {
+          "name": "Skream",
+          "url": "https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW"
+        },
+        {
+          "name": "Jansons",
+          "url": "https://open.spotify.com/artist/0gztzLIt9uRDJd4Jl9TSLY"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196030,
+      "name": "World Is Empty",
+      "url": "https://open.spotify.com/track/5hj2rvMtaOkhrkAaPvqvL6"
     },
     {
       "album": {

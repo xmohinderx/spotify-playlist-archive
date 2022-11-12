@@ -4,7 +4,7 @@
 
 > The essential tracks from LiSA\. アニメシーンから世界へと羽ばたく歌姫、LiSAのオールタイム・ベスト!
 
-135 songs - 9 hr 37 min - [published](https://open.spotify.com/playlist/5MXcZPGditWvob2cP9fj5u)
+137 songs - 9 hr 45 min - [published](https://open.spotify.com/playlist/5MXcZPGditWvob2cP9fj5u)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,8 +13,9 @@
 | [1センチ](https://open.spotify.com/track/1UpTXz33U2cZzpGhaKaXzo) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LEO\-NiNE](https://open.spotify.com/album/6qi56zXbhq7PU5lvzWNXIO) | 1:27 | 2022-05-31 |  |
 | [ADAMAS](https://open.spotify.com/track/6RpBs7BsS9oiHKtzJXsMOS) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [赤い罠\(who loves it?\) / ADAMAS](https://open.spotify.com/album/0FzOLNWpmK69dCGZ5AVjKo) | 3:45 | 2022-05-31 |  |
 | [Another Great Day!!](https://open.spotify.com/track/04wHEljnaPozbpkyoRPNkU) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LADYBUG](https://open.spotify.com/album/1X7vvwD3illZKuq4lhZJqB) | 4:58 | 2022-05-31 |  |
-| [ASH](https://open.spotify.com/track/6zxywTNOcgQ4jRWe1qDtSC) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [ASH](https://open.spotify.com/album/0TAZXk1bXxW0Da0mukfzE3) | 3:55 | 2022-05-31 |  |
+| [ASH](https://open.spotify.com/track/6zxywTNOcgQ4jRWe1qDtSC) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [ASH](https://open.spotify.com/album/0TAZXk1bXxW0Da0mukfzE3) | 3:55 | 2022-05-31 | 2022-11-12 |
 | [ASH](https://open.spotify.com/track/0wh0i6cNKsPVAO59qvfTgi) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LiSA BEST \-Way\-](https://open.spotify.com/album/62bCLGSLy7BJ41XO2jLPee) | 3:58 | 2022-05-31 | 2022-07-29 |
+| [ASH](https://open.spotify.com/track/4Mo3Gxku2a200qAjNsrPCO) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LiSA BEST \-Way\-](https://open.spotify.com/album/6qkTX2PnlQkbKnnSWmROls) | 3:58 | 2022-11-07 |  |
 | [AxxxiS](https://open.spotify.com/track/1g2yUrAr0PDerOfqKeZVXi) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LiSA Best \(Day\)](https://open.spotify.com/album/4ToQg7UHlnVKoESEXoMwgl) | 4:22 | 2022-05-31 | 2022-07-29 |
 | [AxxxiS](https://open.spotify.com/track/7DVD1MBmD4JKAUOqu2aDsK) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [Brave Freak Out\(Special Edition\)](https://open.spotify.com/album/5T4l0yWA4cEuKq7I4Pkm3Q) | 4:25 | 2022-05-31 |  |
 | [BEAUTIFUL WORLD](https://open.spotify.com/track/4bKewsiRpYgAX7IV201coC) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LEO\-NiNE](https://open.spotify.com/album/6qi56zXbhq7PU5lvzWNXIO) | 5:12 | 2022-05-31 |  |
@@ -104,8 +105,9 @@
 | [“PROPAGANDA”](https://open.spotify.com/track/2hL9qcl5YTrPwfjfAUIUy0) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [紅蓮華](https://open.spotify.com/album/29HFXP2q5ixW557hc55McT) | 3:21 | 2022-05-31 | 2022-07-29 |
 | [“PROPAGANDA”](https://open.spotify.com/track/5XAmuo3yRsBwd1EqkFkeTE) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [紅蓮華](https://open.spotify.com/album/03dTdtI7lVRiD2D3D9R4Be) | 3:21 | 2022-05-31 |  |
 | [た、い、せ、つ Pile up](https://open.spotify.com/track/6w43lhKdOEFvom2GMFte9D) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [HADASHi NO STEP](https://open.spotify.com/album/4xyRzR05k9WWz5CmO99GLN) | 3:12 | 2022-05-31 |  |
-| [だってアタシのヒーロー。](https://open.spotify.com/track/45UI1yzA7vjkWHoAUZ8nGp) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [だってアタシのヒーロー。](https://open.spotify.com/album/6RIrlLnU6kxuBnYXQVg25m) | 3:54 | 2022-05-31 |  |
+| [だってアタシのヒーロー。](https://open.spotify.com/track/45UI1yzA7vjkWHoAUZ8nGp) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [だってアタシのヒーロー。](https://open.spotify.com/album/6RIrlLnU6kxuBnYXQVg25m) | 3:54 | 2022-05-31 | 2022-11-12 |
 | [だってアタシのヒーロー。](https://open.spotify.com/track/206lhvdpsMEDyi7B5YMM2g) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LiSA BEST \-Day\-](https://open.spotify.com/album/7rI369xJLe8CrWiIDiHKhZ) | 3:54 | 2022-05-31 | 2022-07-29 |
+| [だってアタシのヒーロー。](https://open.spotify.com/track/5u28x17ED7tP6pY327Bb2o) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LiSA BEST \-Day\-](https://open.spotify.com/album/0Ev8ierP0m0upnX26siq1I) | 3:54 | 2022-11-07 |  |
 | [やくそくのうた](https://open.spotify.com/track/06QVTYsrrrs0hWAF9OZjOS) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [紅蓮華](https://open.spotify.com/album/29HFXP2q5ixW557hc55McT) | 4:38 | 2022-05-31 | 2022-07-29 |
 | [やくそくのうた](https://open.spotify.com/track/0qOeDONIVc5h9AiZAVp8yo) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [紅蓮華](https://open.spotify.com/album/03dTdtI7lVRiD2D3D9R4Be) | 4:38 | 2022-05-31 |  |
 | [アコガレ望遠鏡](https://open.spotify.com/track/48Uziue1CfEWHQdwKJHfd5) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [Launcher](https://open.spotify.com/album/2sOcX6ibN1k7TbWeXh8uIs) | 4:06 | 2022-05-31 |  |

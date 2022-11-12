@@ -4,7 +4,7 @@
 
 > Enjoy music from "KENGAN ASHURA"! "音楽で辿る、Netflixオリジナルアニメシリーズ「ケンガンアシュラ」の世界。
 
-42 songs - 2 hr 37 min - [published](https://open.spotify.com/playlist/2rxmgpPODqNB3cMUVgn2dO)
+44 songs - 2 hr 44 min - [published](https://open.spotify.com/playlist/2rxmgpPODqNB3cMUVgn2dO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [Black Phantom](https://open.spotify.com/track/3tQOseJNUgEWVnXdOPz2tF) | [Shuji Katayama](https://open.spotify.com/artist/6gKYymdsQkVKnSegqIetJn) | [The Anthems](https://open.spotify.com/album/3IN2b696fNjU1amGL72mGX) | 3:21 | 2021-05-26 |  |
 | [Born This Way](https://open.spotify.com/track/58d9FID3lkY1DhHuQ71Vsf) | [BAD HOP](https://open.spotify.com/artist/3FCZbxRcaSgYfklG2HCFh2) | [Born This Way](https://open.spotify.com/album/0cYPt4ip9CIeeg6e3v3Yzp) | 2:47 | 2021-05-26 | 2022-11-11 |
 | [Born This Way](https://open.spotify.com/track/7nTUrBZ75T323NFQUIAUjC) | [BAD HOP](https://open.spotify.com/artist/3FCZbxRcaSgYfklG2HCFh2), [Yzer](https://open.spotify.com/artist/6ddEkqVqLpfgQwaGQGMXCQ), [Vingo](https://open.spotify.com/artist/7s0XITv7PpvCkdr0rKWQqH), [Bark](https://open.spotify.com/artist/2Bcv6wxg5utKznPPCiOxvm) | [The Anthems](https://open.spotify.com/album/3IN2b696fNjU1amGL72mGX) | 2:47 | 2021-05-26 |  |
-| [Cyber Moon](https://open.spotify.com/track/7ki0Hij3iEmpgpCUSmmFo2) | [Rie a.k.a\. Suzaku](https://open.spotify.com/artist/4fK9DBwFEOUlBeAGpsf317) | [Kingdom of the Sun](https://open.spotify.com/album/01z8YeW6P5smczs2o6v5tw) | 3:38 | 2021-05-26 |  |
+| [Cyber Moon](https://open.spotify.com/track/2sYlD3j9d9c1BOctT2BuYz) | [Rie a.k.a\. Suzaku](https://open.spotify.com/artist/4fK9DBwFEOUlBeAGpsf317) | [Best of Instrumental](https://open.spotify.com/album/7eEkSQIKWauNBGMuHDlbSa) | 3:38 | 2021-05-26 |  |
+| [Cyber Moon](https://open.spotify.com/track/7ki0Hij3iEmpgpCUSmmFo2) | [Rie a.k.a\. Suzaku](https://open.spotify.com/artist/4fK9DBwFEOUlBeAGpsf317) | [Kingdom of the Sun](https://open.spotify.com/album/01z8YeW6P5smczs2o6v5tw) | 3:38 | 2021-05-26 | 2022-11-12 |
 | [Dark Angel](https://open.spotify.com/track/69DYEtc8SCKzx4PK9FdK7f) | [Funta7](https://open.spotify.com/artist/2krWYpg7HWSuDZjWkGXZTq) | [The Anthems](https://open.spotify.com/album/3IN2b696fNjU1amGL72mGX) | 3:17 | 2021-05-26 |  |
 | [Dengeki Raigo](https://open.spotify.com/track/3ZMWZMwLCHsK4I4YNpigb7) | [Yaiba](https://open.spotify.com/artist/1VcaxZthCTarsWINFwCtqD) | [The Anthems](https://open.spotify.com/album/3IN2b696fNjU1amGL72mGX) | 4:03 | 2021-05-26 |  |
 | [Eccentric Parade](https://open.spotify.com/track/0neSATRBSylvwnttpqxUwK) | [Akinari Suzuki](https://open.spotify.com/artist/6BZSloar9skDGo2lVsveeC) | [Kengan Ashura Original Soundtrack](https://open.spotify.com/album/4RWidQYHU2iYiQd45LbwqD) | 3:37 | 2021-05-26 |  |
@@ -31,7 +32,8 @@
 | [Kaisen](https://open.spotify.com/track/5bLRqYAgLYiA04kUGukwT6) | [Yasuharu Takanashi](https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o) | [Kengan Ashura Original Soundtrack](https://open.spotify.com/album/4RWidQYHU2iYiQd45LbwqD) | 3:21 | 2021-05-26 |  |
 | [Karuma](https://open.spotify.com/track/3GCKrG98s94uax7AVa3eOO) | [Amaterasu](https://open.spotify.com/artist/57Jp2FcAxMLH8UpSGhRBWG) | [The Anthems](https://open.spotify.com/album/3IN2b696fNjU1amGL72mGX) | 4:57 | 2021-05-26 |  |
 | [Kengan](https://open.spotify.com/track/6TAg3R8ku21TdzZxjzxcBM) | [Yasuharu Takanashi](https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o) | [Kengan Ashura Original Soundtrack](https://open.spotify.com/album/4RWidQYHU2iYiQd45LbwqD) | 1:58 | 2021-05-26 |  |
-| [King & Ashley](https://open.spotify.com/track/3TeMXdcKef8xeWrjepm2IP) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [King & Ashley](https://open.spotify.com/album/31usMFo80loZLgeHF7yljO) | 3:23 | 2021-05-26 |  |
+| [King & Ashley](https://open.spotify.com/track/3TeMXdcKef8xeWrjepm2IP) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [King & Ashley](https://open.spotify.com/album/31usMFo80loZLgeHF7yljO) | 3:23 | 2021-05-26 | 2022-11-12 |
+| [King & Ashley](https://open.spotify.com/track/6Es6em3IFz10fiXsoz7VSG) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [The Anthems](https://open.spotify.com/album/3IN2b696fNjU1amGL72mGX) | 3:24 | 2021-05-26 |  |
 | [Kishin](https://open.spotify.com/track/32ZA6l8PSA9TeYwDGNQcqj) | [Kiji \(kyosokarma\)](https://open.spotify.com/artist/1i21yMnYVUPNt1P11KgL7Q) | [The Anthems](https://open.spotify.com/album/3IN2b696fNjU1amGL72mGX) | 4:51 | 2021-05-26 |  |
 | [Knock Me Down](https://open.spotify.com/track/5s2IZgW9Iux4FvzLAA1TDP) | [KATAMALI](https://open.spotify.com/artist/05TvhWQHUWZBos0p1NvqnI) | [The Anthems](https://open.spotify.com/album/3IN2b696fNjU1amGL72mGX) | 4:54 | 2021-05-26 |  |
 | [Kyouteki](https://open.spotify.com/track/5gVXEEc2duUZGurJdWmFh6) | [Yasuharu Takanashi](https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o) | [Kengan Ashura Original Soundtrack](https://open.spotify.com/album/4RWidQYHU2iYiQd45LbwqD) | 2:01 | 2021-05-26 |  |

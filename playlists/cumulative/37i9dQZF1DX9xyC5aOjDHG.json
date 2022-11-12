@@ -193,7 +193,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 282626,
       "name": "Catch the Moment",
       "url": "https://open.spotify.com/track/6vRkYTrWDzzVrZTqBJFR0u"
@@ -215,6 +215,24 @@
       "duration_ms": 282813,
       "name": "Catch the Moment",
       "url": "https://open.spotify.com/track/2CCginq2XDHvfWhTN5pm7D"
+    },
+    {
+      "album": {
+        "name": "Catch the Moment",
+        "url": "https://open.spotify.com/album/5mr96wuap8SvgVr9YnfUry"
+      },
+      "artists": [
+        {
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282813,
+      "name": "Catch the Moment",
+      "url": "https://open.spotify.com/track/7pSSCx0NsnJxXoIWJQddjh"
     },
     {
       "album": {
@@ -1041,7 +1059,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 290233,
       "name": "Resolution",
       "url": "https://open.spotify.com/track/5vaJU5vIRhx6d6lgyYR1Bb"
@@ -1063,6 +1081,24 @@
       "duration_ms": 290233,
       "name": "Resolution",
       "url": "https://open.spotify.com/track/6i9AGn563rAg3tWz95TnyZ"
+    },
+    {
+      "album": {
+        "name": "Resolution",
+        "url": "https://open.spotify.com/album/3yvuFmlp5UZJA4kGqoGAjC"
+      },
+      "artists": [
+        {
+          "name": "Haruka Tomatsu",
+          "url": "https://open.spotify.com/artist/17Xrh1jox4g1VQcUcIcgra"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291040,
+      "name": "Resolution",
+      "url": "https://open.spotify.com/track/1soi407KlRSq7VqJz0Jhvd"
     },
     {
       "album": {
@@ -1909,6 +1945,24 @@
     {
       "album": {
         "name": "ELZA",
+        "url": "https://open.spotify.com/album/1CDB7e19xQSb3EQzehBO8I"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u5d0e\u30a8\u30eb\u30b6",
+          "url": "https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245386,
+      "name": "\u30d4\u30eb\u30b0\u30ea\u30e0",
+      "url": "https://open.spotify.com/track/2cQYIGCDgr9BAyCnMNehf9"
+    },
+    {
+      "album": {
+        "name": "ELZA",
         "url": "https://open.spotify.com/album/7lxa43tv2RRDbU5cLTQGIz"
       },
       "artists": [
@@ -1937,7 +1991,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 245393,
       "name": "\u30d4\u30eb\u30b0\u30ea\u30e0",
       "url": "https://open.spotify.com/track/28J422M70C4zeTr5JBH8UL"

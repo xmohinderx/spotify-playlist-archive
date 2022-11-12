@@ -4,7 +4,7 @@
 
 > Una lista perfecta para aquellos corazones que aún no han sido correspondidos.
 
-81 songs - 5 hr 12 min - [published](https://open.spotify.com/playlist/6zwOwkn8jYbaNjGrktCDGR)
+82 songs - 5 hr 16 min - [published](https://open.spotify.com/playlist/6zwOwkn8jYbaNjGrktCDGR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,8 @@
 | [Salvavidas](https://open.spotify.com/track/2ZXdTXVbAfNde0xbzAOkcr) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX), [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Salvavidas](https://open.spotify.com/album/7vhda7TSmOXiGlLtmVFS6c) | 2:57 | 2022-10-21 |  |
 | [Ser Amigos](https://open.spotify.com/track/1JbwzCItfaWEaCWkgUfrSw) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Estilo Libre](https://open.spotify.com/album/66dvunbgSWOguy0ZJV653Z) | 3:26 | 2021-11-12 |  |
 | [Si Tú Existieras](https://open.spotify.com/track/2MIuZxR2C5DvQhNWdcc3ob) | [Cepeda](https://open.spotify.com/artist/5AMBCoLbNgVCbA3XYMRlks) | [Si Tú Existieras](https://open.spotify.com/album/2RANXNE4W5tRDF90Pn1w22) | 3:57 | 2021-11-12 |  |
-| [Souvenir](https://open.spotify.com/track/2tXJEJyLeG4Ea9E4ntdyt9) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Solstis \- De León Larregui](https://open.spotify.com/album/0UwCZ5d7AFISyHxrpHjbqZ) | 3:58 | 2022-01-21 |  |
+| [Souvenir](https://open.spotify.com/track/2tXJEJyLeG4Ea9E4ntdyt9) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Solstis \- De León Larregui](https://open.spotify.com/album/0UwCZ5d7AFISyHxrpHjbqZ) | 3:58 | 2022-01-21 | 2022-11-12 |
+| [Souvenir](https://open.spotify.com/track/7BxsFwRvu2H9Jtx5TOGvG6) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Café al sol](https://open.spotify.com/album/2hCmSSCpuc7lsz215Vrr83) | 3:58 | 2022-11-04 |  |
 | [Souvenir](https://open.spotify.com/track/68UIOPderAlQy5eb7K4iUO) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Solstis \- De León Larregui](https://open.spotify.com/album/6XMk5rlnvEtbOUhUlIGl0R) | 3:59 | 2021-11-12 | 2022-07-29 |
 | [Sé Que Te Duele](https://open.spotify.com/track/1OJkKHmXsZVKtWlECdpDAe) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9), [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Rompiendo Fronteras](https://open.spotify.com/album/48XvYOTsoGV3Juk0OY7PDp) | 3:48 | 2022-01-21 | 2022-11-11 |
 | [Sé Que Te Duele](https://open.spotify.com/track/2R6r40dVVmkDvCYgan9dGO) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9), [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Sé Que Te Duele](https://open.spotify.com/album/060f2E024r1h0rSTYH6mQC) | 3:48 | 2021-11-12 | 2022-07-29 |

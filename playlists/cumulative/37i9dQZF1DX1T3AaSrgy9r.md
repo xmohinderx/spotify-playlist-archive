@@ -4,7 +4,7 @@
 
 > Underground dance and alternative that went on to define a new millennium.
 
-119 songs - 9 hr 59 min - [published](https://open.spotify.com/playlist/5A3UmZ9akJz7Fe3Cu6Ue68)
+122 songs - 10 hr 15 min - [published](https://open.spotify.com/playlist/5A3UmZ9akJz7Fe3Cu6Ue68)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [Bug Powder Dust](https://open.spotify.com/track/01JiMbcLflocOuTLk3SXuF) | [Bomb The Bass](https://open.spotify.com/artist/1G3Eh23f2hwhEnAMw7HsZ6), [Justin Warfield](https://open.spotify.com/artist/7FsYhkJR8zX4NeEqifNqDA) | [Clear](https://open.spotify.com/album/43znyD1XdGyB02qwhUpfEV) | 4:18 | 2021-07-14 |  |
 | [Busy Child](https://open.spotify.com/track/43F49A8ReVXhH7l0jGMViS) | [The Crystal Method](https://open.spotify.com/artist/5eKLa1xyHLq8ERWmT1CRHj) | [Vegas](https://open.spotify.com/album/1PJxfEx1v3rdvmd4mBwPDt) | 7:25 | 2021-07-14 |  |
 | [Children](https://open.spotify.com/track/1mwHP1SM96OCfO7pgahMS2) | [Robert Miles](https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0) | [90 Discomania](https://open.spotify.com/album/0lEHEHDsJLM2s0ZRre0d3m) | 7:33 | 2021-07-14 |  |
-| [Connected](https://open.spotify.com/track/5t09SnxOR2AelOghumKkXO) | [Stereo MC's](https://open.spotify.com/artist/1k8VBufn1nBs8LN9n4snc8) | [Connected](https://open.spotify.com/album/2IozNWNXp77fqFQOgzpLcw) | 5:14 | 2021-07-14 |  |
+| [Connected](https://open.spotify.com/track/35ycIb1IgAV92DkHaknNdc) | [Stereo MC's](https://open.spotify.com/artist/1k8VBufn1nBs8LN9n4snc8) | [Summer 90's Party](https://open.spotify.com/album/2VK2N7r4Natalp58tod7dH) | 5:13 | 2021-07-14 |  |
+| [Connected](https://open.spotify.com/track/5t09SnxOR2AelOghumKkXO) | [Stereo MC's](https://open.spotify.com/artist/1k8VBufn1nBs8LN9n4snc8) | [Connected](https://open.spotify.com/album/2IozNWNXp77fqFQOgzpLcw) | 5:14 | 2021-07-14 | 2022-11-12 |
 | [Connected](https://open.spotify.com/track/5tXWXbZC2wCvXBzlxu0ZQ6) | [Stereo MC's](https://open.spotify.com/artist/1k8VBufn1nBs8LN9n4snc8) | [Connected](https://open.spotify.com/album/6DvxgXySoAVKEeQ80xnQ4i) | 5:15 | 2021-07-14 | 2022-07-29 |
 | [Cowgirl \- Remastered](https://open.spotify.com/track/5nDndZX9lrYjAS4d1aWFxM) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [Dubnobasswithmyheadman \(20th Anniversary Remaster\)](https://open.spotify.com/album/3WQpmFc7GonmzN40EjbbKY) | 8:29 | 2021-07-14 |  |
 | [Da Funk](https://open.spotify.com/track/0MyY4WcN7DIfbSmp5yej5z) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Homework](https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y) | 5:28 | 2021-07-14 |  |
@@ -62,7 +63,8 @@
 | [Human Behaviour](https://open.spotify.com/track/5OnyZ56HLhrWOXdzeETqLk) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Debut](https://open.spotify.com/album/3icT9XGrBfhlV8BKK4WEGX) | 4:12 | 2021-07-14 |  |
 | [I Adore You](https://open.spotify.com/track/3m8ERzbjadbhyYjfMb5rDX) | [Goldie](https://open.spotify.com/artist/2SYqJ3uDLLXZNyZdLKBy4M), [Ulterior Motive](https://open.spotify.com/artist/711RACYACplatReI4JGaoa), [Natalie Williams](https://open.spotify.com/artist/6MZnLVb7yS0r1C3CejYIFF) | [The Journey Man](https://open.spotify.com/album/3Dnjpajk4EWNDi6o62Jgdt) | 6:06 | 2021-07-14 |  |
 | [I Might Be Wrong](https://open.spotify.com/track/5JZ1jTanqLWVuThmZ6XRAc) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Amnesiac](https://open.spotify.com/album/1HrMmB5useeZ0F5lHrMvl0) | 4:53 | 2021-07-14 |  |
-| [Idioteque](https://open.spotify.com/track/1W5XugQJGhnSATMI5n002M) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Kid A](https://open.spotify.com/album/6GjwtEZcfenmOf6l18N7T7) | 5:09 | 2021-07-14 |  |
+| [Idioteque](https://open.spotify.com/track/1W5XugQJGhnSATMI5n002M) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Kid A](https://open.spotify.com/album/6GjwtEZcfenmOf6l18N7T7) | 5:09 | 2021-07-14 | 2022-11-12 |
+| [Idioteque](https://open.spotify.com/track/7Kx2i89MjDBLaT6zwy6eM2) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [KID A MNESIA](https://open.spotify.com/album/6ofEQubaL265rIW6WnCU8y) | 5:09 | 2021-07-14 |  |
 | [Idioteque](https://open.spotify.com/track/7xqeIdLJSf3bgmZ7vUvHrE) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Kid A](https://open.spotify.com/album/19RUXBFyM4PpmrLRdtqWbp) | 5:09 | 2021-07-14 | 2022-07-29 |
 | [In The Waiting Line](https://open.spotify.com/track/5ARrtxJLVCeTv5TWo1oKgC) | [Zero 7](https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr), [Sophie Barker](https://open.spotify.com/artist/5338nAeek8WVCOPNnT7Qv2) | [Simple Things](https://open.spotify.com/album/1VRBB9iu84o3g16CczH9iH) | 4:31 | 2021-07-14 |  |
 | [Inner City Life \- Radio Edit](https://open.spotify.com/track/4TOIdyhxz1xgAlrrz2HHhT) | [Goldie](https://open.spotify.com/artist/2SYqJ3uDLLXZNyZdLKBy4M) | [Inner City Life](https://open.spotify.com/album/3nlPv0dIcF8CNaiVzsHBsY) | 3:51 | 2021-07-14 |  |
@@ -98,7 +100,8 @@
 | [Roygbiv](https://open.spotify.com/track/2XQSgmtEY2titXhfY414dy) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a) | 2:31 | 2021-07-14 |  |
 | [Sexy Boy](https://open.spotify.com/track/6INLpBxo9F5QMer04VXEnd) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ) | [Moon Safari](https://open.spotify.com/album/5dmYtZVJ1bG9RyrZBRrkOA) | 4:58 | 2021-07-14 |  |
 | [Smack My Bitch Up](https://open.spotify.com/track/1TXBYUD9hRWkuVb3uLw5Yx) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [The Fat of the Land](https://open.spotify.com/album/0cThoJ3Tz1XFYyHjUyEiw6) | 5:42 | 2021-07-14 | 2022-07-29 |
-| [Smack My Bitch Up](https://open.spotify.com/track/2iwGE4y7yF8qzKc5WZ2Z8R) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [The Fat of the Land](https://open.spotify.com/album/2qivROlvQ8BcUKTaCA7dL2) | 5:43 | 2021-07-14 |  |
+| [Smack My Bitch Up](https://open.spotify.com/track/1yYMtoXAnmivjrm0FD31Ok) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [The Fat of the Land \- Expanded Edition](https://open.spotify.com/album/3knGLri9I3X3oO24mDNdkG) | 5:43 | 2021-07-14 |  |
+| [Smack My Bitch Up](https://open.spotify.com/track/2iwGE4y7yF8qzKc5WZ2Z8R) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [The Fat of the Land](https://open.spotify.com/album/2qivROlvQ8BcUKTaCA7dL2) | 5:43 | 2021-07-14 | 2022-11-12 |
 | [Snapshot](https://open.spotify.com/track/4iUEAUm9GfwOH1RHMHZEBA) | [Fluke](https://open.spotify.com/artist/2YzUXecwzcOdlJsnpnJfkJ) | [Puppy](https://open.spotify.com/album/3jMDKHg32dmMYGaDtlWu4C) | 4:09 | 2021-07-14 |  |
 | [Somersault](https://open.spotify.com/track/6CgIaRVXNmpUgeVuHmA4a2) | [Zero 7](https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [When It Falls](https://open.spotify.com/album/2pTVmzJ3y3H2TI9dDQMvl7) | 6:56 | 2021-07-14 |  |
 | [Sour Times](https://open.spotify.com/track/6vTtCOimcPs5H1Jr9d0Aep) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Dummy](https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno) | 4:12 | 2021-07-14 |  |

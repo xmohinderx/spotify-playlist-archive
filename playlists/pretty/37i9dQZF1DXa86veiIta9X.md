@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa86veiIta9X.md) - [plain]
 
 > take over the aux cord and scream sing down Broadway
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,378 likes - 105 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,400 likes - 105 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Man! I Feel Like A Woman!](https://open.spotify.com/track/6sxptembJVty4sNtcPMAVz) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9) | 3:54 |
+| 1 | [Man! I Feel Like A Woman!](https://open.spotify.com/track/2axfAwYden4jkkQZYp6jrs) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Girl Power](https://open.spotify.com/album/6Mn16MIJxdeogJUrwGOi0U) | 3:53 |
 | 2 | [Since U Been Gone](https://open.spotify.com/track/3xrn9i8zhNZsTtcoWgQEAd) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Breakaway](https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq) | 3:08 |
 | 3 | [Country Girl \(Shake It For Me\)](https://open.spotify.com/track/2QPk0d8rW7fI8HTwn0p2A3) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Spring Break 2022: Country Favourites](https://open.spotify.com/album/1uhNDQ24SrZf0PyTzGaFv8) | 3:45 |
 | 4 | [Drunk \(And I Don't Wanna Go Home\)](https://open.spotify.com/track/0QULNNd9z5s35entfiiXoa) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Drunk \(And I Don't Wanna Go Home\)](https://open.spotify.com/album/6F6ZYE96lTFgzWotepEDhZ) | 4:05 |
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa86veiIta9X.md) - [plain]
 | 10 | [Oops!...I Did It Again](https://open.spotify.com/track/6naxalmIoLFWR0siv8dnQQ) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Oops!..\. I Did It Again](https://open.spotify.com/album/5PmgtkodFl2Om3hMXONDll) | 3:31 |
 | 11 | [Beer Never Broke My Heart](https://open.spotify.com/track/7aEtlGHoiPAfRB084NiDmx) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [What You See Is What You Get](https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx) | 3:06 |
 | 12 | [Shake It Off](https://open.spotify.com/track/5xTtaWoae3wi06K5WfVUUH) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989](https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j) | 3:39 |
-| 13 | [Party In The U.S.A.](https://open.spotify.com/track/5Q0Nhxo0l2bP3pNjpGJwV1) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [The Time Of Our Lives](https://open.spotify.com/album/64aKkqxc3Ur2LYIKeS5osS) | 3:22 |
+| 13 | [Party in the U.S.A.](https://open.spotify.com/track/65FLvpwtcMn2PHVOMcGNoG) | [Chelsea Heart](https://open.spotify.com/artist/2o3YvwaLj1ZcVAp0wYQKxL) | [4th July Bbq Grill Party Mix](https://open.spotify.com/album/7cNleXCYpNr2GhTBAy37Xz) | 3:24 |
 | 14 | [Single Ladies \(Put a Ring on It\)](https://open.spotify.com/track/2ZBNclC5wm4GtiWaeh0DMx) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I AM...SASHA FIERCE](https://open.spotify.com/album/23Y5wdyP5byMFktZf8AcWU) | 3:13 |
 | 15 | [Body Like A Back Road](https://open.spotify.com/track/7FpBQ067pHB67deawpbbcY) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [SOUTHSIDE](https://open.spotify.com/album/1xRcR4iSouBrfVhuqFkPAJ) | 2:42 |
 | 16 | [Umbrella](https://open.spotify.com/track/49FYlytm3dAAraYgpoJZux) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Good Girl Gone Bad: Reloaded](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) | 4:35 |
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa86veiIta9X.md) - [plain]
 | 24 | [Love Story \(Taylor’s Version\)](https://open.spotify.com/track/3CeCwYWvdfXbZLXFhBrbnf) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Love Story \(Taylor’s Version\)](https://open.spotify.com/album/4j2syEjl3h1To8KbRgvmJn) | 3:55 |
 | 25 | [Any Man Of Mine](https://open.spotify.com/track/0pdfN7nOHMYmKykzu1cyfm) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [The Woman In Me](https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK) | 4:06 |
 | 26 | [Cheerleader \- Felix Jaehn Remix Radio Edit](https://open.spotify.com/track/023OVLNzXhX0j7CxswUt6D) | [OMI](https://open.spotify.com/artist/5MouCg6ta7zAxsfMEbc1uh) | [Me 4 U](https://open.spotify.com/album/1QwWTLYn9dntAj7l9FRJwY) | 3:00 |
-| 27 | [good 4 u](https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:58 |
-| 28 | [I Hope](https://open.spotify.com/track/23T0OX7QOiIUFShSzbJ5Uo) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Goldmine](https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY) | 3:30 |
+| 27 | [good 4 u](https://open.spotify.com/track/3QVeeC9M980WM0eLKkyQp6) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [Hits Rentrée 2021](https://open.spotify.com/album/58HtgHgFGdffOpr8lx9QVU) | 2:58 |
+| 28 | [I Hope](https://open.spotify.com/track/3BBqGROwzYhNmZNcFtoJjL) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [I Hope \- Sad Country Songs](https://open.spotify.com/album/0TFWNpKEpFTBmGmvvOIYKl) | 3:29 |
 | 29 | [Mr\. Brightside](https://open.spotify.com/track/25vf0eCrswI3GcuMH4fL3R) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Best Male Rock Singers](https://open.spotify.com/album/0MNEMYOJEiBmLv6g3zqTNY) | 3:43 |
 | 30 | [abcdefu](https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu](https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI) | 2:48 |
 | 31 | [Life is a Highway](https://open.spotify.com/track/2Fs18NaCDuluPG1DHGw1XG) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Me And My Gang](https://open.spotify.com/album/5XPdkIryKSpTKW21HUtvV0) | 4:36 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa86veiIta9X.md) - [plain]
 | 104 | [Everybody \(Backstreet's Back\) \- Radio Edit](https://open.spotify.com/track/1K6C2HhsXSSdvxp563iuZT) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Pop para Trabalhar](https://open.spotify.com/album/4tY8vHR2QnJ5UcrUmJmzcG) | 3:45 |
 | 105 | [Girl In A Country Song](https://open.spotify.com/track/1GRiBe0kNCNYpjwCHIyynI) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [Start Here](https://open.spotify.com/album/3MpmJPwKgMQ6hkGVlRwOpj) | 3:37 |
 
-Snapshot ID: `MTY2Mzk2MjMzMywwMDAwMDAwMDYwN2ZkZjYxYmVhZGExYmNiN2Q3ODIzNTE3MjRjMGVm`
+Snapshot ID: `MTY2Mzk2MjMzMywwMDAwMDAwMDA0ZDAyZTc0NmYzYzE2NjVkNDUzZDI5NTljNzYyMjAx`

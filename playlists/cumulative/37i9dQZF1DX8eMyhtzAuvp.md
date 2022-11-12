@@ -4,7 +4,7 @@
 
 > When you pretend to wander through the Pacific Northwest, thinking about your vampire boyfriend.
 
-358 songs - 22 hr 0 min - [published](https://open.spotify.com/playlist/2eXMGwGQulNspuXocRGIiv)
+361 songs - 22 hr 10 min - [published](https://open.spotify.com/playlist/2eXMGwGQulNspuXocRGIiv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,7 +199,8 @@
 | [Little Things](https://open.spotify.com/track/0TAmnCzOtqRfvA38DDLTjj) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Take Me Home \(Expanded Edition\)](https://open.spotify.com/album/2sWX3HYnZjPZ9MrH6MFsBt) | 3:39 | 2022-10-01 | 2022-11-02 |
 | [Look What You've Done](https://open.spotify.com/track/0ZSmRnXnP5fdANtVlCok1g) | [Jet](https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI) | [Get Born](https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg) | 3:50 | 2022-11-01 |  |
 | [Looking Out for You](https://open.spotify.com/track/3jfZ9M23l0L7RxzYMTgBTv) | [Joy Again](https://open.spotify.com/artist/4jCIAMb0zEArF3GYEYzoDk) | [Looking Out for You](https://open.spotify.com/album/7slouenWhZDdDZibkS4nR3) | 2:59 | 2022-06-06 | 2022-07-02 |
-| [Lose You To Love Me](https://open.spotify.com/track/4l0Mvzj72xxOpRrp6h8nHi) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rare](https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx) | 3:26 | 2022-11-01 |  |
+| [Lose You To Love Me](https://open.spotify.com/track/0jCbc081EPMRXTfkfGUDay) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [soft songs to calm you down](https://open.spotify.com/album/7jk7DppYXXIMuQbXv9nc0J) | 3:26 | 2022-11-01 |  |
+| [Lose You To Love Me](https://open.spotify.com/track/4l0Mvzj72xxOpRrp6h8nHi) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rare](https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx) | 3:26 | 2022-11-01 | 2022-11-12 |
 | [Lost Boy](https://open.spotify.com/track/4h0zU3O9R5xzuTmNO7dNDU) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Lost Boy](https://open.spotify.com/album/7drYNu2imHk188vP81icR3) | 4:35 | 2022-11-01 |  |
 | [Love It If We Made It](https://open.spotify.com/track/6WmIyn2fx1PKQ0XDpYj4VR) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [A Brief Inquiry Into Online Relationships](https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY) | 4:12 | 2022-09-01 | 2022-09-15 |
 | [Love Me Like You Do \- From "Fifty Shades Of Grey"](https://open.spotify.com/track/3zHq9ouUJQFQRf3cm1rRLu) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Delirium \(Deluxe\)](https://open.spotify.com/album/20Ol6zZ0nLlc5EGTH1zA0j) | 4:12 | 2022-11-01 |  |
@@ -227,7 +228,8 @@
 | [Ne Me Quitte Pas \(Don't Leave Me\)](https://open.spotify.com/track/7DYkWTA0ckaqm2MFfAIlQr) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Hold Space For Me](https://open.spotify.com/album/4Y9r8QQYroasHOYHUwCeSB) | 2:48 | 2022-09-01 | 2022-09-16 |
 | [Never Be Like You \(feat\. Kai\)](https://open.spotify.com/track/5WI2ltQIdwgzf1SNE76JyR) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [kai](https://open.spotify.com/artist/6xHUXzrfhFgnIv86EBR3Ml) | [Skin](https://open.spotify.com/album/4NZWRpoMuXaHU7csTjWdB5) | 3:54 | 2022-07-01 | 2022-09-15 |
 | [New Slang \- 2021 Remaster](https://open.spotify.com/track/0NslHuacjxQYfUTOW3HCIV) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Oh, Inverted World \(20th Anniversary Remaster\)](https://open.spotify.com/album/5XmhHMj5LZLWo32aA6ntKE) | 3:50 | 2022-09-13 | 2022-10-02 |
-| [No Surprises](https://open.spotify.com/track/10nyNJ6zNy2YVYLrcwLccB) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 3:49 | 2022-11-01 |  |
+| [No Surprises](https://open.spotify.com/track/10nyNJ6zNy2YVYLrcwLccB) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 3:49 | 2022-11-01 | 2022-11-12 |
+| [No Surprises \- Remastered](https://open.spotify.com/track/39UJG380DXNHAa07pGdVgI) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer OKNOTOK 1997 2017](https://open.spotify.com/album/0tzfI6NFJqcJkWb23R3lRZ) | 3:48 | 2022-11-01 |  |
 | [One Call Away](https://open.spotify.com/track/7soJgKhQTO8hLP2JPRkL5O) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Nine Track Mind](https://open.spotify.com/album/3kndSWeE2IYOrZEToZrHEV) | 3:14 | 2022-10-01 | 2022-11-02 |
 | [One Dance](https://open.spotify.com/track/1zi7xx7UVEFkmKfv06H8x0) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Kyla](https://open.spotify.com/artist/77DAFfvm3O9zT5dIoG0eIO) | [Views](https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb) | 2:53 | 2022-07-01 | 2022-08-02 |
 | [Ooh La La \- 2004 Remaster](https://open.spotify.com/track/6TNNMVpOgn8K5NoDC7alG6) | [Faces](https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL) | [The Best of Faces: Good Boys When They're Asleep](https://open.spotify.com/album/375DYMUVvk7xXyKq5IaUTR) | 3:34 | 2022-05-04 | 2022-07-02 |
@@ -354,7 +356,8 @@
 | [When U Loved Me](https://open.spotify.com/track/7pADtei8K3suMQlLBxR4iw) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [When U Loved Me](https://open.spotify.com/album/6ob1fJyKwsUIIoyjz8PL0w) | 3:11 | 2022-09-01 | 2022-09-16 |
 | [Where'd All the Time Go?](https://open.spotify.com/track/0UV5zxRMz6AO4ZwUOZNIKI) | [Dr\. Dog](https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7) | [Shame, Shame \(Deluxe Edition\)](https://open.spotify.com/album/16XswZ18xhMs8qUTN51mRl) | 3:54 | 2022-09-01 | 2022-09-15 |
 | [Where’s My Love \- Alternate Version](https://open.spotify.com/track/5IH7HQEWhToZnMQTZRzp1H) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Hurt for Me](https://open.spotify.com/album/6lwJbpuuA8wENZOuYDVRc8) | 4:08 | 2022-11-01 |  |
-| [White Winter Hymnal](https://open.spotify.com/track/0GegHVxeozw3rdjte45Bfx) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Fleet Foxes](https://open.spotify.com/album/5GRnydamKvIeG46dycID6v) | 2:27 | 2022-11-01 |  |
+| [White Winter Hymnal](https://open.spotify.com/track/0GegHVxeozw3rdjte45Bfx) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Fleet Foxes](https://open.spotify.com/album/5GRnydamKvIeG46dycID6v) | 2:27 | 2022-11-01 | 2022-11-12 |
+| [White Winter Hymnal](https://open.spotify.com/track/7II56zDppy5Zyj1oJhkkZ1) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [First Collection 2006\-2009](https://open.spotify.com/album/6ou9sQOsIY5xIIX417L3ud) | 2:27 | 2022-11-01 |  |
 | [Wicked Game](https://open.spotify.com/track/7w5AOd6HrDIHewHfpABEss) | [Chris Isaak](https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx) | [Heart Shaped World](https://open.spotify.com/album/5Das42Qx4AoU9iT4M7PW3U) | 4:49 | 2022-11-01 |  |
 | [Wild World](https://open.spotify.com/track/7mjSHL2Eb0kAwiKbvNNyD9) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Tea For The Tillerman \(Remastered 2020\)](https://open.spotify.com/album/44VxbAytHpVi3Rq8hRhild) | 3:20 | 2022-09-01 | 2022-09-16 |
 | [Work Song](https://open.spotify.com/track/5TgEJ62DOzBpGxZ7WRsrqb) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Expanded Edition\)](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) | 3:49 | 2022-11-01 |  |

@@ -4,7 +4,7 @@
 
 > The inspiration to be who you truly are—that’s at the center of the Pride playlist curated by the pop vocalist and Queen collaborator.
 
-34 songs - 2 hr 1 min - [published](https://open.spotify.com/playlist/2D6Av3yzPkip4DMqjTyV9j)
+35 songs - 2 hr 5 min - [published](https://open.spotify.com/playlist/2D6Av3yzPkip4DMqjTyV9j)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [Do What U Want](https://open.spotify.com/track/5XKXMWPACPq51OiqzxenZo) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Do What U Want](https://open.spotify.com/album/5R9DO1cXTOaw9p7nd2emkm) | 3:36 | 2017-06-02 |  |
 | [Ghost Town](https://open.spotify.com/track/44aN5xKL3kGHvQ5bXVk6B8) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [The Original High \(Deluxe Version\)](https://open.spotify.com/album/3kaQUt8Mp906u1fI0LDqO6) | 3:28 | 2017-06-02 |  |
 | [La La La](https://open.spotify.com/track/5iaMh3rhscSYEdLGDmA2Cd) | [Naughty Boy](https://open.spotify.com/artist/1bT7m67vi78r2oqvxrP3X5), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [La La La](https://open.spotify.com/album/5cKpq96vMfTwyaUJ15aSCQ) | 3:40 | 2017-06-02 | 2022-07-29 |
-| [La La La](https://open.spotify.com/track/36pLU2ywVeBKEF0rrKtmCB) | [Naughty Boy](https://open.spotify.com/artist/1bT7m67vi78r2oqvxrP3X5), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Hotel Cabana \(Deluxe Version\)](https://open.spotify.com/album/2SVSPhDBqChBe10hJh5owv) | 3:42 | 2022-07-29 |  |
+| [La La La](https://open.spotify.com/track/1RjpMjVNCHWoltfYSBHEKg) | [Naughty Boy](https://open.spotify.com/artist/1bT7m67vi78r2oqvxrP3X5), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Hotel Cabana](https://open.spotify.com/album/53iwAByO7wE7EqnpFPpIB3) | 3:42 | 2022-11-12 |  |
+| [La La La](https://open.spotify.com/track/36pLU2ywVeBKEF0rrKtmCB) | [Naughty Boy](https://open.spotify.com/artist/1bT7m67vi78r2oqvxrP3X5), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Hotel Cabana \(Deluxe Version\)](https://open.spotify.com/album/2SVSPhDBqChBe10hJh5owv) | 3:42 | 2022-07-29 | 2022-11-12 |
 | [Let's Have A Kiki](https://open.spotify.com/track/154Ada4WZXskIMnsKiy26u) | [Scissor Sisters](https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o) | [Magic Hour \(Deluxe\)](https://open.spotify.com/album/2P12s0AcooZGvM6mfgeuw3) | 3:50 | 2017-06-02 |  |
 | [Live Your Life](https://open.spotify.com/track/1DkE9q0AAby1arBO7rIqZ1) | [Boy George](https://open.spotify.com/artist/2BWfZGPtsjRlRp7JTDqI45) | [This Is What I Do](https://open.spotify.com/album/3cU7WKJxiHrZDaDCk1HSkm) | 4:33 | 2017-06-02 |  |
 | [Queen](https://open.spotify.com/track/1DfRCC2qpjjzc6l5DmTjkG) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Too Bright](https://open.spotify.com/album/571wQuGuOOLTbbyYoujGra) | 3:50 | 2022-07-29 |  |

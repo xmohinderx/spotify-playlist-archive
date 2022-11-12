@@ -4,13 +4,14 @@
 
 > Glimmering, warm, and bright memories: Broadcast on the cover.
 
-104 songs - 7 hr 35 min - [published](https://open.spotify.com/playlist/2i2f84b6aFCm4d39FIhHSI)
+105 songs - 7 hr 40 min - [published](https://open.spotify.com/playlist/2i2f84b6aFCm4d39FIhHSI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [](https://open.spotify.com/track/1f6GKy69ltGq9j7EfJJ1BL) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/7EeBLXTesaRmxWoQ2sAMVo) | 0:00 | 2021-10-01 | 2022-07-26 |
 | [23](https://open.spotify.com/track/4HIwL9ii9CcXpTOTzMq0MP) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [23](https://open.spotify.com/album/3CRBMstrlbZNVWQjahQACl) | 5:18 | 2021-10-01 | 2022-07-28 |
 | [Aladdin's Story](https://open.spotify.com/track/7iJJBAXSeuu9ymCdiPPscE) | [Death In Vegas](https://open.spotify.com/artist/5aj3LEYRbuaabjjHkj5oE1) | [The Contino Sessions](https://open.spotify.com/album/4qUKzyXuy3GSzQD5RTJLdq) | 4:44 | 2021-10-01 | 2022-07-29 |
+| [Aladdin's Story](https://open.spotify.com/track/0CatBYe6rcqDFfCV1lA6n2) | [Death In Vegas](https://open.spotify.com/artist/5aj3LEYRbuaabjjHkj5oE1) | [The Contino Sessions](https://open.spotify.com/album/6CAxtEPd8QesIfCp76Wuqt) | 4:45 | 2021-10-01 |  |
 | [Alison](https://open.spotify.com/track/33HRECrmuelZxOpid6XTNX) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Souvlaki](https://open.spotify.com/album/53eHm1f3sFiSzWMaKOl98Z) | 3:50 | 2021-10-01 |  |
 | [Avril 14th](https://open.spotify.com/track/4BN4eqlL0VzTBW0QUo9ChQ) | [YACHT](https://open.spotify.com/artist/57anmI1X2hXWPrNagFdzZr) | [Sub Versions](https://open.spotify.com/album/0Hwtd4hmlTu6aG3bFHVQ7z) | 2:10 | 2021-10-01 |  |
 | [Breathe in, Breathe Out](https://open.spotify.com/track/06fSbKiMP2Z7vzYG4WOBXB) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Bon Voyage](https://open.spotify.com/album/0jolpH4eoj3kSEVg9mvZXr) | 2:50 | 2021-10-01 | 2022-07-29 |
@@ -21,7 +22,7 @@
 | [Crazy for You](https://open.spotify.com/track/3gcIqknhltPEuekVMrP25o) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Pygmalion](https://open.spotify.com/album/7n7VUw9XFam4zMT7zn99tq) | 6:01 | 2021-10-01 |  |
 | [Dance AM](https://open.spotify.com/track/0P57tdDD56YOrjkYSpfBKS) | [Pinkshinyultrablast](https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4) | [Miserable Miracles](https://open.spotify.com/album/2ZDCgglH89doOQH4UVoM0S) | 4:32 | 2021-10-01 | 2022-07-27 |
 | [Days](https://open.spotify.com/track/716OZGLBg3vkNfMTpfbYm6) | [No Vacation](https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq) | [Days](https://open.spotify.com/album/1iKJd6McKWLpeWNotqfZDz) | 5:20 | 2021-10-01 |  |
-| [Desire Lines](https://open.spotify.com/track/7Bv26qd7JX525wGCmhrPtj) | [Lush](https://open.spotify.com/artist/3ysp8GwsheDcBxP9q65lBg) | [Split](https://open.spotify.com/album/6cgDNdc8SN9PJ12tqse69N) | 7:39 | 2021-10-01 |  |
+| [Desire Lines](https://open.spotify.com/track/7Bv26qd7JX525wGCmhrPtj) | [Lush](https://open.spotify.com/artist/3ysp8GwsheDcBxP9q65lBg) | [Split](https://open.spotify.com/album/6cgDNdc8SN9PJ12tqse69N) | 7:39 | 2021-10-01 | 2022-11-12 |
 | [Desire Lines](https://open.spotify.com/track/63JP68VirmCXtWRoMTX8Xi) | [Lush](https://open.spotify.com/artist/3ysp8GwsheDcBxP9q65lBg) | [Split](https://open.spotify.com/album/5TdnjKBwbAYMZ3ZF3cGMgL) | 7:39 | 2021-10-01 | 2022-07-29 |
 | [Die Geschichte Einer Mutter](https://open.spotify.com/track/7KPPysjHZEvFDJSPTd1MKs) | [bel canto](https://open.spotify.com/artist/5Bz8k8phXRsAtBB6xrIR83) | [Shimmering, Warm and Bright](https://open.spotify.com/album/6d2yDqhmiZi054fXscl4Sn) | 6:53 | 2021-10-01 | 2022-05-25 |
 | [Dive](https://open.spotify.com/track/0RBfGcrONMLwLysUhbtxJM) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [7](https://open.spotify.com/album/1zN85Ep8w2JORfCe0RHLDP) | 4:25 | 2021-10-01 |  |
@@ -106,8 +107,8 @@
 | [Time Baby III](https://open.spotify.com/track/5tujK4iuRbqaDQv94ZRH98) | [Medicine](https://open.spotify.com/artist/61uYVpJPgBq9dNrfUy6kTp), [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC) | [The Crow Original Motion Picture Soundtrack](https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n) | 3:51 | 2022-02-18 |  |
 | [Transparent Radiation \- Single Version](https://open.spotify.com/track/3doCN5B3fuqeJ06AY6Cbxx) | [Spacemen 3](https://open.spotify.com/artist/1ZOlVrZ2MtNSY9LcFYklDB) | [Forged Prescriptions \(Remastered\)](https://open.spotify.com/album/5o99dlCEEIKu7fihvSgvVs) | 4:12 | 2021-10-01 | 2022-07-29 |
 | [Valentine](https://open.spotify.com/track/0oPezGTOPITKdmLN4Z77v3) | [Delays](https://open.spotify.com/artist/0NAPmlw3oOKJ3BD7qcjLdQ) | [You See Colours](https://open.spotify.com/album/59IUhrmTXNj8c6TQzp2tdz) | 4:52 | 2021-10-01 | 2022-06-19 |
-| [Wanderlust](https://open.spotify.com/track/3SV1oU3wJOMuYli6dOH9zH) | [Delays](https://open.spotify.com/artist/0NAPmlw3oOKJ3BD7qcjLdQ) | [Faded Seaside Glamour](https://open.spotify.com/album/5PJzOx3aaOjoAlMkV1kVEG) | 3:58 | 2021-10-01 | 2022-11-11 |
-| [Watersong](https://open.spotify.com/track/60kgQtJNMGRaFfzwy18XUY) | [Cranes](https://open.spotify.com/artist/5q2ehaRqAFmM6tLl4vaVwP) | [Wings Of Joy \(Expanded Edition\)](https://open.spotify.com/album/5RzJqDl7qP2xQ2mV8CX4qq) | 3:51 | 2021-10-01 |  |
+| [Wanderlust](https://open.spotify.com/track/3SV1oU3wJOMuYli6dOH9zH) | [Delays](https://open.spotify.com/artist/0NAPmlw3oOKJ3BD7qcjLdQ) | [Faded Seaside Glamour](https://open.spotify.com/album/5PJzOx3aaOjoAlMkV1kVEG) | 3:58 | 2021-10-01 |  |
+| [Watersong](https://open.spotify.com/track/60kgQtJNMGRaFfzwy18XUY) | [Cranes](https://open.spotify.com/artist/5q2ehaRqAFmM6tLl4vaVwP) | [Wings Of Joy \(Expanded Edition\)](https://open.spotify.com/album/5RzJqDl7qP2xQ2mV8CX4qq) | 3:51 | 2021-10-01 | 2022-11-12 |
 | [When the Sun Hits](https://open.spotify.com/track/0oxYB9GoOIDrdzniNdKC44) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Souvlaki](https://open.spotify.com/album/53eHm1f3sFiSzWMaKOl98Z) | 4:45 | 2021-10-01 |  |
 | [World Backwards](https://open.spotify.com/track/7MKm8T2T3QGysN51EeqEVl) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [Maida Vale Sessions](https://open.spotify.com/album/3SIC8gQNPxgqjax8o204Nx) | 3:18 | 2022-03-18 | 2022-06-26 |
 | [Yam Yam](https://open.spotify.com/track/7kyiHjkFdmHcYcIJtFAdaF) | [No Vacation](https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq) | [Yam Yam](https://open.spotify.com/album/33dtgSEkkObUGGyNz2MgkH) | 3:36 | 2021-10-01 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX09NvEVpeM77.md) - [plain]
 
 > Classic rock favorites\. Cover: Bruce Springsteen
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,446 likes - 50 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,968 likes - 50 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX09NvEVpeM77.md) - [plain]
 | 9 | [A Horse with No Name](https://open.spotify.com/track/54eZmuggBFJbV7k248bTTt) | [America](https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo), [George Martin](https://open.spotify.com/artist/0tcbedGX7n5UHrMhVsGmIU) | [America](https://open.spotify.com/album/0E5IKYhiKgbYQkmfsFonbZ) | 4:12 |
 | 10 | [Some Kind Of Wonderful \- Remastered 1999](https://open.spotify.com/track/1cU34sZG9kF4FYHCoAD0Ib) | [Grand Funk Railroad](https://open.spotify.com/artist/0qEcf3SFlpRcb3lK3f2GZI) | [30 Years Of Funk: 1969\-1999 The Anthology](https://open.spotify.com/album/0ib2UtSmLGssyqyoY6X8cm) | 3:22 |
 | 11 | [Carry on Wayward Son](https://open.spotify.com/track/4DMKwE2E2iYDKY01C335Uw) | [Kansas](https://open.spotify.com/artist/2hl0xAkS2AIRAu23TVMBG1) | [Leftoverture \(Expanded Edition\)](https://open.spotify.com/album/7MejfRSNnrpcLZIxkeZDqR) | 5:23 |
-| 12 | [Face It Alone](https://open.spotify.com/track/3LkJaE6mfTskqEV8BUjHei) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Face It Alone](https://open.spotify.com/album/5LyejWyG4J1IoUHBsvL7ju) | 4:07 |
+| 12 | [Face It Alone](https://open.spotify.com/track/4Pdd0rUKJeK9LHE2WotEP8) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Classic Rock Gems](https://open.spotify.com/album/3Q0R296AVU8k5BrSrrV3JN) | 4:07 |
 | 13 | [Give A Little Bit](https://open.spotify.com/track/6XUHsYE38CEbYunT983O9G) | [Supertramp](https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx) | [Even In The Quietest Moments](https://open.spotify.com/album/4X87hQ57jTYQTcYTaJWK5w) | 4:08 |
 | 14 | [The Boys Are Back In Town](https://open.spotify.com/track/43DeSV93pJPT4lCZaWZ6b1) | [Thin Lizzy](https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ) | [Jailbreak \(Deluxe Edition\)](https://open.spotify.com/album/6Cf545T4jkaiyvMnTRPOB2) | 4:26 |
 | 15 | [I'm On Fire](https://open.spotify.com/track/3PzsbWSQdLCKDLxn7YZfkM) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 2:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX09NvEVpeM77.md) - [plain]
 | 49 | [Hollywood Nights](https://open.spotify.com/track/5VbePtZp1at8gH990zVyTI) | [Bob Seger](https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ) | [Stranger In Town](https://open.spotify.com/album/1vhib5WLHRVdOpRjiTHk15) | 5:02 |
 | 50 | [Dancing In The Moonlight \(It's Caught Me In It's Spotlight\)](https://open.spotify.com/track/6BmzbaB08O0FjHXeS0cR5b) | [Thin Lizzy](https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ) | [Bad Reputation \(Expanded Edition\)](https://open.spotify.com/album/0DHKadXfnYCAXp28F3HI8U) | 3:24 |
 
-Snapshot ID: `MTY2NTcyMDA2MCwwMDAwMDAwMGQ0NDQwZWNlNWIzOWQzOTZkMjc1OTdmMjBlMDVlZGYy`
+Snapshot ID: `MTY2NTcyMDA2MCwwMDAwMDAwMGFlMTgyY2IxMzU5MTI4MGJiODIwM2U0YjE5ZWIxZTIz`

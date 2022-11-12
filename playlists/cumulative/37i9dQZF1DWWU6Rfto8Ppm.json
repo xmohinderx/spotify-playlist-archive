@@ -657,7 +657,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 184217,
       "name": "Baila Morena",
       "url": "https://open.spotify.com/track/4dNRA8hrqj7XJvFhGSQsKe"
@@ -2239,10 +2239,32 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 167418,
       "name": "Esc\u00e1pate Conmigo - Remix",
       "url": "https://open.spotify.com/track/4aEOz6ZpXh3wF4FOdJHOPV"
+    },
+    {
+      "album": {
+        "name": "Wolfine",
+        "url": "https://open.spotify.com/album/1WR53EURavK2pIVJwS6qbv"
+      },
+      "artists": [
+        {
+          "name": "Wolfine",
+          "url": "https://open.spotify.com/artist/2OnKRchqP7tT0FzTvWIFI7"
+        },
+        {
+          "name": "\u00d1ejo",
+          "url": "https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167418,
+      "name": "Esc\u00e1pate Conmigo - Remix",
+      "url": "https://open.spotify.com/track/4ijX6zDZKYdgACPwva2y0d"
     },
     {
       "album": {
@@ -4645,6 +4667,24 @@
       "duration_ms": 233266,
       "name": "Pam Pam",
       "url": "https://open.spotify.com/track/3syMVJoaLhRKAw9r9ZB9qD"
+    },
+    {
+      "album": {
+        "name": "Papi Chulo... Te Traigo El Mmmm",
+        "url": "https://open.spotify.com/album/2PXmGyRtObJ5jdRjkaovZs"
+      },
+      "artists": [
+        {
+          "name": "Lorna",
+          "url": "https://open.spotify.com/artist/2AwxAHULVspHSlffbyOSg3"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176853,
+      "name": "Papi Chulo... Te Traigo El Mmmm - Original",
+      "url": "https://open.spotify.com/track/54imcQLSCe7MxGGJ7idPtt"
     },
     {
       "album": {

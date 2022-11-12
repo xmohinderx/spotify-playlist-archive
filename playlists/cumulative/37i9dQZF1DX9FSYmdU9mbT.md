@@ -4,7 +4,7 @@
 
 > Os grandes artistas da MPB\. Foto: Gal Costa
 
-130 songs - 8 hr 23 min - [published](https://open.spotify.com/playlist/0KkIdIP6N50yyjIcbunsdH)
+132 songs - 8 hr 30 min - [published](https://open.spotify.com/playlist/0KkIdIP6N50yyjIcbunsdH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,12 +90,14 @@
 | [Noturno \(Coração Alado\)](https://open.spotify.com/track/02vH3AGn0OBUNhXEi421hS) | [Fagner](https://open.spotify.com/artist/5j3htXVskZF0u8qWY5zcF8), [JB FM](https://open.spotify.com/artist/1xwN91NLLDytxVQkqclZRu) | [Couvert Artístico JB FM: Fagner](https://open.spotify.com/album/0bAb2GnNJrS8AQUOJJvpue) | 4:36 | 2022-08-26 |  |
 | [Nu Com a Minha Música](https://open.spotify.com/track/2RS04SWRKIpffQMPkNszil) | [Ney Matogrosso](https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn) | [Nu Com a Minha Música \(EP\)](https://open.spotify.com/album/576YsQ9t7f2WGkne7NL6Gw) | 4:43 | 2021-12-31 |  |
 | [Não é um Bolero](https://open.spotify.com/track/4ZGMXn6kUqS8CTVkl3lDuk) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Vidas Pra Contar](https://open.spotify.com/album/6MIoj7esxtgwgtG8Mh8rcw) | 4:21 | 2021-12-31 | 2022-07-29 |
-| [Não É um Bolero](https://open.spotify.com/track/25D9YD6JDfQnWzPqgM9osJ) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Vidas Pra Contar](https://open.spotify.com/album/1oUVz3XYuycGaodvUPce2M) | 4:21 | 2022-06-24 |  |
+| [Não É um Bolero](https://open.spotify.com/track/25D9YD6JDfQnWzPqgM9osJ) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Vidas Pra Contar](https://open.spotify.com/album/1oUVz3XYuycGaodvUPce2M) | 4:21 | 2022-06-24 | 2022-11-12 |
+| [Não É um Bolero](https://open.spotify.com/track/0B5J5ftNUXMbcsjHz6hb71) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Não É um Bolero](https://open.spotify.com/album/7bTQyV5D8AuUgWaAV7kyDu) | 4:23 | 2022-11-09 |  |
 | [O Bêbado e a Equilibrista](https://open.spotify.com/track/3bgRCx8adxUZT7It3ryrWU) | [João Bosco](https://open.spotify.com/artist/3DF0ClNOUuvS3gh8V8sRJH), [Angela Maria](https://open.spotify.com/artist/4SKChJZZUJd8fD4ZbkpL6l) | [Linha De Passe](https://open.spotify.com/album/5hP8pHRsoC1ySE4wVc9wcH) | 3:20 | 2021-12-31 |  |
 | [O Leãozinho \- Ao Vivo Em São Paulo / 2017](https://open.spotify.com/track/3ejU8JMenktibKkNz9dPBL) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ), [Moreno Veloso](https://open.spotify.com/artist/57IX1XTNL4DPilyY5pQsaK) | [Ofertório \(Ao Vivo\)](https://open.spotify.com/album/3PlAbFQa9MEymxTgQC51wv) | 2:56 | 2021-12-31 |  |
 | [O Mundo É Um Moinho](https://open.spotify.com/track/1xCbDvw3UNReOWq9BbAThc) | [Cartola](https://open.spotify.com/artist/0RSWHhBUwW7lhCqXqxKxWN) | [Raizes Do Samba](https://open.spotify.com/album/0i9SwtLwZ8cOuH5qtkwTvT) | 3:55 | 2021-12-31 |  |
-| [O Que Será \(A Flor Da Terra\)](https://open.spotify.com/track/0rfbvwLPBLBsEd4Bxz8IVb) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t), [Milton Nascimento](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM) | [Meus Caros Amigos](https://open.spotify.com/album/2LxncTIR5lf2dzoZb3QNC6) | 2:46 | 2022-06-24 |  |
+| [O Que Será \(A Flor Da Terra\)](https://open.spotify.com/track/0rfbvwLPBLBsEd4Bxz8IVb) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t), [Milton Nascimento](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM) | [Meus Caros Amigos](https://open.spotify.com/album/2LxncTIR5lf2dzoZb3QNC6) | 2:46 | 2022-06-24 | 2022-11-12 |
 | [O Que Será \(A Flor Da Terra\)](https://open.spotify.com/track/5bHaPfY8vAnCeHDObKCYT4) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t), [Milton Nascimento](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM) | [Meus Caros Amigos](https://open.spotify.com/album/7e7MmJSUmMt9fQ7f9BHD6s) | 2:46 | 2021-12-31 | 2022-07-29 |
+| [O Que Será \(A Flor Da Terra\)](https://open.spotify.com/track/3oAFECh6UUsYkwpPlOO6SN) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t), [Milton Nascimento](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM) | [Bossa Nova Lo Mejor](https://open.spotify.com/album/4ZzLJX06lJanbO1UHKvvAk) | 2:47 | 2022-11-09 |  |
 | [O Que É Que Há](https://open.spotify.com/track/4UPhXYKlkMcmGqoEamcABC) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [O Que É Que Há](https://open.spotify.com/album/5GY5057U8mZPzaqLXZj8Sa) | 3:45 | 2021-12-31 |  |
 | [O Segundo Sol: Turnê Jardim\-Pomar \(Ao Vivo em Porto Alegre\)](https://open.spotify.com/track/4pID7hvPWS15Xu1e2XdraW) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy) | [O Segundo Sol: Turnê Jardim\-Pomar \(Ao Vivo em Porto Alegre\)](https://open.spotify.com/album/2hrS3ADuXuced8UnMTWubm) | 4:13 | 2021-12-31 |  |
 | [Oba, Lá Vem Ela](https://open.spotify.com/track/1o60EW97NdtvYJiIlZSLOG) | [Jorge Ben](https://open.spotify.com/artist/0Kl4OTnin2VOkJV360fsT4), [Trio Mocoto](https://open.spotify.com/artist/5nriuBVz6NDh6k8gTU5WgP) | [Doce MPB](https://open.spotify.com/album/2XAc4keBjM6sGyrVAsiLhW) | 4:12 | 2022-11-09 |  |

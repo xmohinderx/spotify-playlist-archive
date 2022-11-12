@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0VCBlAzi9Ve.md) - [plain]
 
 > Let it simmer with some smooth R&amp;B.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,651 likes - 25 songs - 1 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,658 likes - 25 songs - 1 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,10 +13,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0VCBlAzi9Ve.md) - [plain]
 | 3 | [Do What You Like](https://open.spotify.com/track/7rvGF77zKLQ6Z8AxBiWhnt) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Do What You Like](https://open.spotify.com/album/1JJDtUAw0hbuaq6mo4N4zy) | 3:20 |
 | 4 | [Uncle ACE](https://open.spotify.com/track/0OnImWGYM4tQUNktj6rOkJ) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Uncle ACE \(Remixes\)](https://open.spotify.com/album/69TdTeE1Ge0sQnJ0BNvtXv) | 4:16 |
 | 5 | [My Type](https://open.spotify.com/track/2Iq6HhIquO7JKr0KfTNLzU) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [My Type EP](https://open.spotify.com/album/2r69WsAMyjbgLf8c4woaUr) | 3:24 |
-| 6 | [Daffodils \(feat\. Kevin Parker\)](https://open.spotify.com/track/1v0ufp7FLTFcykUGOmFZKa) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Kevin Parker](https://open.spotify.com/artist/2Lt4GKzyW3WOMf3wvPDszQ) | [Uptown Special](https://open.spotify.com/album/3vLaOYCNCzngDf8QdBg2V1) | 4:58 |
+| 6 | [Daffodils \(feat\. Kevin Parker\)](https://open.spotify.com/track/0tswbyRzSiGMraKM5v3KLy) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Kevin Parker](https://open.spotify.com/artist/2Lt4GKzyW3WOMf3wvPDszQ) | [Uptown Special](https://open.spotify.com/album/4QcNaJyKfOQr7RhahLJn3D) | 4:58 |
 | 7 | [Uptight Downtown](https://open.spotify.com/track/0o1WzHAdTdI0jpgghsOm2h) | [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA) | [Trouble In Paradise](https://open.spotify.com/album/5RDoYTf4YYNQby1ECCwR2C) | 4:22 |
 | 8 | [D.A.N.C.E \- Radio Edit](https://open.spotify.com/track/3gcmn2CtOE9SjBevmvGVEk) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [D.A.N.C.E](https://open.spotify.com/album/6cg0y0EJpRzfVbKGCgVMf7) | 3:31 |
-| 9 | [Cheyenne](https://open.spotify.com/track/3EofjRgUI1WrzqqtLb8NoF) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Everything Is 4](https://open.spotify.com/album/59eUYETmE1zi31ESb3SUkI) | 3:35 |
+| 9 | [Cheyenne](https://open.spotify.com/track/4NF7YbEReuoUt0qv870ahg) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Walking Hits](https://open.spotify.com/album/4KIzmUDsSxeEoGjbbICiG4) | 3:35 |
 | 10 | [Hey](https://open.spotify.com/track/43x1xTN8fjSGS9BZe4yfBM) | [Nightriders](https://open.spotify.com/artist/13eyxWyCnb7bOEoBORUKuo) | [Hey](https://open.spotify.com/album/4Z3yXN8bWZM65730wraat5) | 4:26 |
 | 11 | [Move Your Feet](https://open.spotify.com/track/4jacsL77ZYnpInmTtUBaJW) | [Junior Senior](https://open.spotify.com/artist/7xNPROyVfkH4mcIxxCxySm) | [d\-d\-don't don't stop the beat \(Explicit Content U.S\. Version\)](https://open.spotify.com/album/7xJ6am4jsZw1Bg0S0g0hmI) | 3:01 |
 | 12 | [Harder, Better, Faster, Stronger \- The Neptunes Remix](https://open.spotify.com/track/5a8PsqWOuGh7FR1tC6UKUs) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi), [The Neptunes](https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr) | [Daft Club](https://open.spotify.com/album/1O5WUh9KsgHT2QaUCJeVPG) | 5:12 |
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0VCBlAzi9Ve.md) - [plain]
 | 24 | [Fiona Coyne](https://open.spotify.com/track/6XkEIIZs0oMUNwaVwHXSZ0) | [Skylar Spence](https://open.spotify.com/artist/0x0u0jCVf5Jf4DNh45XPXL) | [Prom King](https://open.spotify.com/album/7dR9fq3NnKFZDBDU44DTXv) | 4:09 |
 | 25 | [Go Bang](https://open.spotify.com/track/5bnBF6QS1kZj3WOVZ8KqOB) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Go Bang](https://open.spotify.com/album/6Cd6ifsiUF0A2PVr8aJTeX) | 11:04 |
 
-Snapshot ID: `MTUyNTkwMjI5NCwwMDAwMDAwMGQwZDdkMDFiY2QyN2U1YzBiN2FjOTdhNTdmZTRmMjNh`
+Snapshot ID: `MTUyNTkwMjI5NCwwMDAwMDAwMDE2N2UwOTA2MWNmMWY4OGI5N2M2YWM3MTJlNjk4Yjcy`

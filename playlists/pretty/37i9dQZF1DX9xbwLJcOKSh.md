@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xbwLJcOKSh.md) - [plain]
 
 > 作曲、編曲、プロデュースワークを中心に活動。ジャンルを超えた表現で三木鶏郎広告音楽賞等、数々のアワードを受賞。
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,613 likes - 70 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,620 likes - 70 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xbwLJcOKSh.md) - [plain]
 | 26 | [Ask DNA](https://open.spotify.com/track/4p1S6k6k3Clz7293zJI0xF) | [SEATBELTS](https://open.spotify.com/artist/3U3zr5PCRa9ty74uN46iBa), [yabuhara masashi](https://open.spotify.com/artist/21QS4UY91a9ddZtgLBCBf8), [george marino](https://open.spotify.com/artist/1CidExRpByD3vm5iFfEiny) | [COWBOY BEBOP Knockin' on Heaven's Door Ask DNA](https://open.spotify.com/album/1a9ZvRvJCb1RnF37cf9IWW) | 4:51 |
 | 27 | [KIDS ON THE SLOPE](https://open.spotify.com/track/0Nt5XEkIzexUFPPEbhd6Oe) | [Yoko Kanno](https://open.spotify.com/artist/0lbYsAt8JNKNjttbncKg8i) | [アニメ「坂道のアポロン」オリジナル・サウンドトラック](https://open.spotify.com/album/0c0o6oCdk5RmvmEEENpQs2) | 2:29 |
 | 28 | [Power Of The Light](https://open.spotify.com/track/2it7ZKg74kMJInqDd4flyR) | [Yoko Kanno](https://open.spotify.com/artist/0lbYsAt8JNKNjttbncKg8i) | [Brain Powerd \(Original Motion Picture Soundtrack 1\)](https://open.spotify.com/album/0IuZfiSwaDJgIrroLIKhZ9) | 3:07 |
-| 29 | [Hashire Hashire](https://open.spotify.com/track/3Xa8rSFdoqXHmilkjbNsba) | [Kyoko Endo](https://open.spotify.com/artist/5xOKs0yqtUnyLnZcwtcyEQ) | [GOLDEN BEST Kagayakitai no \[Victor Years 1981\-1985 \(+'99\)\]](https://open.spotify.com/album/4s7IzBa4w9Ta87nZJlc7UW) | 4:35 |
+| 29 | [Hashire Hashire](https://open.spotify.com/track/5BHPK7NJ7vewxIFA51Q6Vz) | [Kyoko Endo](https://open.spotify.com/artist/5xOKs0yqtUnyLnZcwtcyEQ) | [DAI GUARD Ending Theme Hashire Hashire](https://open.spotify.com/album/49XVUelIMkR0KQ2kCEVT7M) | 4:30 |
 | 30 | [rise](https://open.spotify.com/track/2Uyz4r0IwXlZIVbkTEASPk) | [Origa](https://open.spotify.com/artist/08pXfHf1e4hLeDz1BgmOqL) | [攻殻機動隊 STAND ALONE COMPLEX O.S.T.2](https://open.spotify.com/album/6vnGlRzjCpJdnojTZZojMc) | 5:28 |
 | 31 | [Master Blaster](https://open.spotify.com/track/7JSSh4nIKrgg2uCmlJEqlA) | [Anna Tsuchiya](https://open.spotify.com/artist/1XTqQwcJw9D1bo0cuO8Oq2), [Yoko Kanno](https://open.spotify.com/artist/0lbYsAt8JNKNjttbncKg8i) | [UNCHAINED GIRL](https://open.spotify.com/album/2ObmAdwAhoXtlcCfssyuEO) | 4:00 |
 | 32 | [Go Tight!](https://open.spotify.com/track/5sa9qL7gEN2CrL9BlN9rAO) | [AKINO](https://open.spotify.com/artist/4JPnS8d4UIBnRZf4FiOx6o) | [「創聖のアクエリオン」オープニングテーマ Go Tight!](https://open.spotify.com/album/50l3rfBJ0VpkXvHW63T4RL) | 4:40 |
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xbwLJcOKSh.md) - [plain]
 | 39 | [愛してるのに Piano version](https://open.spotify.com/track/61SOOWxYCc8WHiFOhBU7Tl) | [Kome Kome Club](https://open.spotify.com/artist/5lTGqFmlTng9jPrs7c2dRA) | [ICTL no.2](https://open.spotify.com/album/61ynUPJZ4xCmxWPiNf7wNn) | 3:23 |
 | 40 | [恵みの雨](https://open.spotify.com/track/1UHkJn4tz1MbYXHXoxu7nZ) | [Chitose Hajime](https://open.spotify.com/artist/0ii3SuIwfRs4pRH2sQ1J0U) | [語り継ぐこと](https://open.spotify.com/album/7MGd8PzdrptHnTFz0hG3qj) | 5:45 |
 | 41 | [約束はいらない](https://open.spotify.com/track/2aMq7JJTMsFqxBORGjnY1c) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [約束はいらない](https://open.spotify.com/album/0UXM1HwBhBraeQl2okP8Db) | 3:32 |
-| 42 | [Flying Dragon](https://open.spotify.com/track/7J5E5BotnQlI6K2rxUQ4tJ) | [Warsaw Philharmonic Orchestra](https://open.spotify.com/artist/3Wqs5ZgX7Orq4YKtPhHdED) | [The Vision of Escaflowne \(Original Motion Picture Soundtrack 1\)](https://open.spotify.com/album/4zBOySfThJ2wF4ZLhYroCR) | 2:39 |
+| 42 | [Flying Dragon](https://open.spotify.com/track/7voPXjubQFKfRrRv5psSWJ) | [Yoko Kanno](https://open.spotify.com/artist/0lbYsAt8JNKNjttbncKg8i) | [The Vision of Escaflowne \- Lovers Only](https://open.spotify.com/album/2v3idQTfuVOSyuC7meKSMO) | 2:39 |
 | 43 | [What Planet Is This.](https://open.spotify.com/track/5kGuWgZTWqroIArQQqttqV) | [SEATBELTS](https://open.spotify.com/artist/3U3zr5PCRa9ty74uN46iBa) | [COWBOY BEBOP Tank! the! Best!](https://open.spotify.com/album/2RQPHIImcaZaJBmptZAY9A) | 2:44 |
 | 44 | [Moon](https://open.spotify.com/track/38vVfkW5EfyLM0BlvYKald) | [Gabriela Robin](https://open.spotify.com/artist/1KvNXSn0FKGELFRpfm3ONi) | [TURN A GUNDAM the Movie Original Motion Picture Soundtrack \- Wakusei No Gogo,Bokuraha Kiss Wo Shita](https://open.spotify.com/album/6yB5cU0jmTsDM5rjQWRjI1) | 5:13 |
 | 45 | [覚醒](https://open.spotify.com/track/1dPG9yEByXqXrU7cdQC3Or) | [Gabriela Robin](https://open.spotify.com/artist/1KvNXSn0FKGELFRpfm3ONi) | [アルジュナ into the another world](https://open.spotify.com/album/49uGwPXsVfNO8jtV5Hp4dU) | 7:57 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xbwLJcOKSh.md) - [plain]
 | 69 | [Ranka to Bobby no SMS Shoutai no Uta](https://open.spotify.com/track/4Z2UGK0tmXr4R0iUtQVh4X) | [Ranka Lee with Bobby Margo](https://open.spotify.com/artist/3zxmHKGd8fsi8XXYDaYgaK) | [MACROSS FRONTIER Ranka to Bobby no SMS Shoutai no Uta Nado.](https://open.spotify.com/album/09TpsQuLrcuECkeQaurAd3) | 1:00 |
 | 70 | [おてもやん](https://open.spotify.com/track/19kZmy3DQQxLbsHdAot5I6) | [Sayuri Ishikawa](https://open.spotify.com/artist/1tYbvS6Nkq4Rxvx8ZRTzJP) | [民 \~Tami\~](https://open.spotify.com/album/7fOVjAaS7rqZFoVpyr6wZK) | 3:36 |
 
-Snapshot ID: `MTY0NjA2MDQwMCwwMDAwMDAwMGFhMzNkOWMzYzBkYmY5NjFlZDIwMTU1MjhmZGNhNzIw`
+Snapshot ID: `MTY0NjA2MDQwMCwwMDAwMDAwMGQ0ZTQ4YzYxM2E1MTk1NDQ3YjYxYjQ4ZGRhM2QzMDMx`

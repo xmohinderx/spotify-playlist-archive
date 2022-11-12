@@ -4,7 +4,7 @@
 
 > Pintamos toooda la casa, sin dejar caer una sola gota de pintura 💀
 
-283 songs - 15 hr 56 min - [published](https://open.spotify.com/playlist/4mSbOXa4eJQwXzHtWqAtSr)
+285 songs - 16 hr 3 min - [published](https://open.spotify.com/playlist/4mSbOXa4eJQwXzHtWqAtSr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,8 @@
 | [Flores Amarillas](https://open.spotify.com/track/4PUmVspCOFioja8MFM653t) | [Floricienta](https://open.spotify.com/artist/7dtC84FkhalFSKToofOdOv) | [Floricienta](https://open.spotify.com/album/2X3U1Ra8bYgf0wXMjYJ1rN) | 3:43 | 2022-09-22 |  |
 | [fornai](https://open.spotify.com/track/3I2uEeXlZX00Z8TrwYeRo4) | [Ritorukai](https://open.spotify.com/artist/0D59XKX7L0hK51MK9fn4H8), [Jaicy Lokote](https://open.spotify.com/artist/0Hk6wEj5wSBQW4f3oL0sG7) | [fornai](https://open.spotify.com/album/6lFiKbfFdxpxTtzAc7yz6B) | 2:48 | 2022-07-18 | 2022-09-27 |
 | [Freaks](https://open.spotify.com/track/0HUTL8i4y4MiGCPId7M7wb) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Buds](https://open.spotify.com/album/4cAEWgTGIU7kL1sgbivyGY) | 2:27 | 2021-12-15 | 2022-07-29 |
-| [Freaks](https://open.spotify.com/track/7EkWXAI1wn8Ii883ecd9xr) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Freaks](https://open.spotify.com/album/5WjaIWthUR3AjA0UYG3jR5) | 2:27 | 2022-06-14 |  |
+| [Freaks](https://open.spotify.com/track/30rxF3hefnkCW2nXmgmnFN) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Light Switch \- Viral Now](https://open.spotify.com/album/3VG0ZnJQDa4TOZ5L8NcpIl) | 2:27 | 2022-10-31 |  |
+| [Freaks](https://open.spotify.com/track/7EkWXAI1wn8Ii883ecd9xr) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Freaks](https://open.spotify.com/album/5WjaIWthUR3AjA0UYG3jR5) | 2:27 | 2022-06-14 | 2022-11-12 |
 | [Fruit de la passion](https://open.spotify.com/track/2THUeP0bmT7Vgm58ZnsChY) | [Francky Vincent](https://open.spotify.com/artist/2f1sCYchPgMRLazyu8XG2h) | [Mon fest' of](https://open.spotify.com/album/34UujAnGCJTpxWUpQLG19W) | 3:58 | 2022-08-12 | 2022-08-20 |
 | [Fuera del mercado](https://open.spotify.com/track/1UdzJEpgJxtuXAlCOvD4S0) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [@dannocean](https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I) | 2:39 | 2022-03-23 | 2022-06-09 |
 | [Gangsta's Paradise](https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p) | [Coolio](https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T), [L.V.](https://open.spotify.com/artist/2LhsePRtgCo4THVKULQBL7) | [Gangsta's Paradise](https://open.spotify.com/album/0BJYNipGyMrw4ngKDJXzXZ) | 4:00 | 2022-10-01 |  |
@@ -123,7 +124,8 @@
 | [K.](https://open.spotify.com/track/7LX4aXtvImhdgUHQBlo8Kp) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC) | 5:19 | 2022-06-16 | 2022-08-02 |
 | [KICK BACK](https://open.spotify.com/track/3khEEPRyBeOUabbmOPJzAG) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [KICK BACK](https://open.spotify.com/album/6RH1fEIz8HVXregzz5Xp2B) | 3:13 | 2022-10-13 |  |
 | [La bebe](https://open.spotify.com/track/1yeN7zkjU0DU1SGEwvxMEk) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y) | [LPM](https://open.spotify.com/album/3fsLDApUM08iTJDtKoXE0L) | 3:43 | 2022-08-25 |  |
-| [La flaca](https://open.spotify.com/track/0ll9JAIrM3NVBOMl45sxSX) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [La Flaca](https://open.spotify.com/album/1O5kJTerozuI2WLgzvIz2m) | 4:21 | 2022-08-18 |  |
+| [La flaca](https://open.spotify.com/track/0ll9JAIrM3NVBOMl45sxSX) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [La Flaca](https://open.spotify.com/album/1O5kJTerozuI2WLgzvIz2m) | 4:21 | 2022-08-18 | 2022-11-12 |
+| [La flaca](https://open.spotify.com/track/2sXknzW9MIR2RfZF6dgiUR) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [Latin Sensual Pop](https://open.spotify.com/album/2pIP9i4oiGTDnWmxMLRdR0) | 4:21 | 2022-10-31 |  |
 | [La Mushasha Shula](https://open.spotify.com/track/4H8AfSDk1cWrYiV35VCdyA) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Las Compuse para Ti](https://open.spotify.com/album/6MPAzfdQFWe5IadlxhcUNv) | 3:46 | 2022-08-08 | 2022-09-23 |
 | [La Niña Está Triste \(En Vivo\) \(feat\. Jesús "Tuti" Martínez\)](https://open.spotify.com/track/3e0C5Pbt3AaFZSQng67gjU) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2), [Jesús "Tuti" Martínez](https://open.spotify.com/artist/0VbBeBrdPbfp2fElD9GQU8) | [Celebrando a una Leyenda \(En Vivo\)](https://open.spotify.com/album/0Cq5RogZ5q5WfXRYGOIN98) | 3:11 | 2022-06-08 | 2022-06-15 |
 | [La Noche Mas Linda](https://open.spotify.com/track/3scW7pt0vlhkCCgCNv5YR9) | [Adalberto Santiago](https://open.spotify.com/artist/6tZxUxheS7w3953cQFOXkd) | [Sex Symbol](https://open.spotify.com/album/5tf8kuqoGGyPD6xxhPLlst) | 5:43 | 2022-07-26 |  |

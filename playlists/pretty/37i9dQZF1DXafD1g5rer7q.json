@@ -1,12 +1,12 @@
 {
   "description": "Create the new vibe by mixing in the retro sounds.",
-  "num_followers": 312612,
+  "num_followers": 312780,
   "original_name": "EDM Samplings",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjYyMTc0MSwwMDAwMDAwMGQyNWY1MDQ4ZWE4NmIzMDQxOWUwMDViZjYzZjg2OWRi",
+  "snapshot_id": "MTY2NjYyMTc0MSwwMDAwMDAwMDNkNjg5MzcwYWJiMWQwMDRjMTRkZDg0MzQ4NmNiMTI2",
   "tracks": [
     {
       "added_at": "2022-10-24 14:29:01",
@@ -119,30 +119,6 @@
     {
       "added_at": "2022-10-24 14:29:01",
       "album": {
-        "name": "Your Love (9PM)",
-        "url": "https://open.spotify.com/album/7F9yYqHRtIZnEGF2tANI4b"
-      },
-      "artists": [
-        {
-          "name": "ATB",
-          "url": "https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9"
-        },
-        {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
-        },
-        {
-          "name": "A7S",
-          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
-        }
-      ],
-      "duration_ms": 150052,
-      "name": "Your Love (9PM)",
-      "url": "https://open.spotify.com/track/5YaskwnGDZFDRipaqzbwQx"
-    },
-    {
-      "added_at": "2022-10-24 14:29:01",
-      "album": {
         "name": "Future Nostalgia",
         "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
       },
@@ -179,6 +155,26 @@
     {
       "added_at": "2022-10-24 14:29:01",
       "album": {
+        "name": "Higher Love",
+        "url": "https://open.spotify.com/album/4wquJImu8RtyEuDtIAsfcE"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 228267,
+      "name": "Higher Love",
+      "url": "https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY"
+    },
+    {
+      "added_at": "2022-10-24 14:29:01",
+      "album": {
         "name": "Deep Down (feat. Never Dull)",
         "url": "https://open.spotify.com/album/3KpxpdySrMR2S7noneu1bI"
       },
@@ -203,26 +199,6 @@
       "duration_ms": 165752,
       "name": "Deep Down (feat. Never Dull)",
       "url": "https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb"
-    },
-    {
-      "added_at": "2022-10-24 14:29:01",
-      "album": {
-        "name": "Higher Love",
-        "url": "https://open.spotify.com/album/4wquJImu8RtyEuDtIAsfcE"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 228267,
-      "name": "Higher Love",
-      "url": "https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY"
     },
     {
       "added_at": "2022-10-24 14:29:01",
@@ -651,30 +627,6 @@
     {
       "added_at": "2022-10-24 14:29:01",
       "album": {
-        "name": "Close Your Eyes",
-        "url": "https://open.spotify.com/album/0PhTTyRWpJVlg4F5RC0xmE"
-      },
-      "artists": [
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        },
-        {
-          "name": "VIZE",
-          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
-        },
-        {
-          "name": "Miss Li",
-          "url": "https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7"
-        }
-      ],
-      "duration_ms": 160794,
-      "name": "Close Your Eyes",
-      "url": "https://open.spotify.com/track/7N06jo3EnV792VFaG8vuW6"
-    },
-    {
-      "added_at": "2022-10-24 14:29:01",
-      "album": {
         "name": "I Was Made",
         "url": "https://open.spotify.com/album/3zHqo2ygJlcfOyzxLyLevV"
       },
@@ -711,6 +663,30 @@
       "duration_ms": 188500,
       "name": "Hear Me Tonight",
       "url": "https://open.spotify.com/track/0v8OKUrqZGoEbgEUXScRSQ"
+    },
+    {
+      "added_at": "2022-10-24 14:29:01",
+      "album": {
+        "name": "Close Your Eyes",
+        "url": "https://open.spotify.com/album/0PhTTyRWpJVlg4F5RC0xmE"
+      },
+      "artists": [
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        },
+        {
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+        },
+        {
+          "name": "Miss Li",
+          "url": "https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7"
+        }
+      ],
+      "duration_ms": 160794,
+      "name": "Close Your Eyes",
+      "url": "https://open.spotify.com/track/7N06jo3EnV792VFaG8vuW6"
     },
     {
       "added_at": "2022-10-24 14:29:01",
@@ -923,6 +899,30 @@
     {
       "added_at": "2022-10-24 14:29:01",
       "album": {
+        "name": "Party Shaker",
+        "url": "https://open.spotify.com/album/705F4ulYgy4RF8w9Haan6D"
+      },
+      "artists": [
+        {
+          "name": "R.I.O.",
+          "url": "https://open.spotify.com/artist/0Ol3Jol2T3lZZVLNNzWPhj"
+        },
+        {
+          "name": "KYANU",
+          "url": "https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ"
+        },
+        {
+          "name": "Nicco",
+          "url": "https://open.spotify.com/artist/56JVNVix1HgLwxGGHnSAdq"
+        }
+      ],
+      "duration_ms": 159052,
+      "name": "Party Shaker",
+      "url": "https://open.spotify.com/track/2jS3ohHKsvGQi0LUWbrFc4"
+    },
+    {
+      "added_at": "2022-10-24 14:29:01",
+      "album": {
         "name": "Let Me Hold You (Turn Me On)",
         "url": "https://open.spotify.com/album/2APVXYBFX7sOVQ8HLO6kG9"
       },
@@ -963,26 +963,22 @@
     {
       "added_at": "2022-10-24 14:29:01",
       "album": {
-        "name": "Party Shaker",
-        "url": "https://open.spotify.com/album/705F4ulYgy4RF8w9Haan6D"
+        "name": "Weekend",
+        "url": "https://open.spotify.com/album/4VZHXgN7AtOJAmUysU6SxF"
       },
       "artists": [
         {
-          "name": "R.I.O.",
-          "url": "https://open.spotify.com/artist/0Ol3Jol2T3lZZVLNNzWPhj"
+          "name": "Mufasa & Hypeman",
+          "url": "https://open.spotify.com/artist/4L2dV3zY7RmkeiNO035Fi0"
         },
         {
-          "name": "KYANU",
-          "url": "https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ"
-        },
-        {
-          "name": "Nicco",
-          "url": "https://open.spotify.com/artist/56JVNVix1HgLwxGGHnSAdq"
+          "name": "Dopamine",
+          "url": "https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN"
         }
       ],
-      "duration_ms": 159052,
-      "name": "Party Shaker",
-      "url": "https://open.spotify.com/track/2jS3ohHKsvGQi0LUWbrFc4"
+      "duration_ms": 170022,
+      "name": "Weekend",
+      "url": "https://open.spotify.com/track/6G3t9WroSJiK5S66umOfIA"
     },
     {
       "added_at": "2022-10-24 14:29:01",
@@ -1007,22 +1003,18 @@
     {
       "added_at": "2022-10-24 14:29:01",
       "album": {
-        "name": "Weekend",
-        "url": "https://open.spotify.com/album/4VZHXgN7AtOJAmUysU6SxF"
+        "name": "Mr. Saxobeat",
+        "url": "https://open.spotify.com/album/70TSV0yHReXgd8pnbnrMmz"
       },
       "artists": [
         {
-          "name": "Mufasa & Hypeman",
-          "url": "https://open.spotify.com/artist/4L2dV3zY7RmkeiNO035Fi0"
-        },
-        {
-          "name": "Dopamine",
-          "url": "https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN"
+          "name": "Klaas",
+          "url": "https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif"
         }
       ],
-      "duration_ms": 170022,
-      "name": "Weekend",
-      "url": "https://open.spotify.com/track/6G3t9WroSJiK5S66umOfIA"
+      "duration_ms": 151181,
+      "name": "Mr. Saxobeat",
+      "url": "https://open.spotify.com/track/2dmZy75CTSv6BFo7IbO0eK"
     }
   ],
   "unique_name": "EDM Samplings",

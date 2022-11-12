@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 212274,
       "name": "22 Make",
       "url": "https://open.spotify.com/track/0lQyu3gXsyuDj1MvZiVzXc"
@@ -827,7 +827,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 201053,
       "name": "Brave",
       "url": "https://open.spotify.com/track/5SfQhaZTGL7IewCIvMifFJ"
@@ -1958,6 +1958,24 @@
     },
     {
       "album": {
+        "name": "Good In Me",
+        "url": "https://open.spotify.com/album/7yQrM7GtpRyxvJyXcE351Z"
+      },
+      "artists": [
+        {
+          "name": "Andy Grammer",
+          "url": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181269,
+      "name": "Good In Me",
+      "url": "https://open.spotify.com/track/0p4K6vPDV2bnwCK1hihpt7"
+    },
+    {
+      "album": {
         "name": "Good Man (First Love)",
         "url": "https://open.spotify.com/album/1vS9mqQQuGIFvLklJucvQJ"
       },
@@ -2095,7 +2113,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 167613,
       "name": "Green Green Grass",
       "url": "https://open.spotify.com/track/3rk4aJ0vAj3cFUIQEeASkT"
@@ -2203,7 +2221,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 140443,
       "name": "Heartbeat (From the \u201cLyle, Lyle, Crocodile\u201d Original Motion Picture Soundtrack)",
       "url": "https://open.spotify.com/track/1gACe11pZiy8Xv3SY0ocyz"
@@ -2575,7 +2593,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 180274,
       "name": "Hurtless",
       "url": "https://open.spotify.com/track/6HJizCbaqaEQG1eLjn341Z"
@@ -2719,7 +2737,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 201306,
       "name": "I Lost Myself In Loving You",
       "url": "https://open.spotify.com/track/0BxUvT1nQ9ufHlxEblueWx"
@@ -2777,6 +2795,24 @@
       "duration_ms": 204713,
       "name": "I wanna love you but I don\u2019t",
       "url": "https://open.spotify.com/track/7JQtczk2YMbVd9u176ltvl"
+    },
+    {
+      "album": {
+        "name": "I'll Be Waiting",
+        "url": "https://open.spotify.com/album/4oCwYpB91xHHFEVlbcVOaR"
+      },
+      "artists": [
+        {
+          "name": "Cian Ducrot",
+          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172547,
+      "name": "I'll Be Waiting",
+      "url": "https://open.spotify.com/track/3fqBhOtYA62A5D20j8OaQY"
     },
     {
       "album": {
@@ -3149,6 +3185,24 @@
       "duration_ms": 193626,
       "name": "Last Thing On Your Mind",
       "url": "https://open.spotify.com/track/0dO9u5u3sgreIQFOq6BLDp"
+    },
+    {
+      "album": {
+        "name": "Late in the Evening",
+        "url": "https://open.spotify.com/album/7ErU9FqlFNDm9neZSk3KlP"
+      },
+      "artists": [
+        {
+          "name": "New Rules",
+          "url": "https://open.spotify.com/artist/75ois9nn8xMuOgVk2oCN1C"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213560,
+      "name": "Late in the Evening",
+      "url": "https://open.spotify.com/track/3Itz6Ki6IPtLDuKvqSbREv"
     },
     {
       "album": {
@@ -3640,6 +3694,24 @@
     },
     {
       "album": {
+        "name": "Words From My Bedroom",
+        "url": "https://open.spotify.com/album/0EYR5dwivh17s1lgiEoD7N"
+      },
+      "artists": [
+        {
+          "name": "Maro",
+          "url": "https://open.spotify.com/artist/0ru1ZJNkRRddceqkIah5Yh"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187741,
+      "name": "Lust Not Love",
+      "url": "https://open.spotify.com/track/5koVy7p8bh0YcwUCUuu3op"
+    },
+    {
+      "album": {
         "name": "Mad At You",
         "url": "https://open.spotify.com/album/1tfeWytB6j3m6yl9OA05mT"
       },
@@ -4027,6 +4099,28 @@
       "duration_ms": 225789,
       "name": "Never Gonna Not Dance Again",
       "url": "https://open.spotify.com/track/6sZo5nJIsFWXefRCCexpx0"
+    },
+    {
+      "album": {
+        "name": "Not Alone (from Devotion)",
+        "url": "https://open.spotify.com/album/0Wzpt98v7378EqKu3NlONg"
+      },
+      "artists": [
+        {
+          "name": "Joe Jonas",
+          "url": "https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251481,
+      "name": "Not Alone - from Devotion",
+      "url": "https://open.spotify.com/track/6h6TV778sDIHTmx6iaZvZu"
     },
     {
       "album": {
@@ -5349,7 +5443,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 192947,
       "name": "West Coast",
       "url": "https://open.spotify.com/track/0sBJA2OCEECMs0HsdIQhvR"
@@ -5451,6 +5545,24 @@
       "duration_ms": 182026,
       "name": "Where We Started",
       "url": "https://open.spotify.com/track/2yBWKK84uebv35lGajIMhc"
+    },
+    {
+      "album": {
+        "name": "why didn't you call???",
+        "url": "https://open.spotify.com/album/5FeMSqLDKegFzCBoQxhZlK"
+      },
+      "artists": [
+        {
+          "name": "Saint Harison",
+          "url": "https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196734,
+      "name": "why didn't you call???",
+      "url": "https://open.spotify.com/track/07c4PaAD3aPavDfZxeHZoY"
     },
     {
       "album": {

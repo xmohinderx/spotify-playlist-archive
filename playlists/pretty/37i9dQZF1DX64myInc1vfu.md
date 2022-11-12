@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64myInc1vfu.md) - [plain]
 
 > The new bolero era just for you\. Los boleritos de hoy\. Cover: Yoss Bones
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,409 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,498 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64myInc1vfu.md) - [plain]
 | 20 | [que te pedí//](https://open.spotify.com/track/2qS9IaT9KBShx2xn1CqYMC) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 1:44 |
 | 21 | [Bésame](https://open.spotify.com/track/05ayzVXVRd5JBtCkQiMFJY) | [El Otro Polo](https://open.spotify.com/artist/6guLg5yfcFlYyRp4DzrEO2), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [A Color](https://open.spotify.com/album/07PxmxlkhdcoxZDXgyef0X) | 2:50 |
 | 22 | [Ojitos de Aceituna](https://open.spotify.com/track/2KhOJ9fPnHE6HJd7R6jF2L) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT), [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Ojitos de Aceituna](https://open.spotify.com/album/0T1toCzjEqFltKmHuwznI5) | 2:47 |
-| 23 | [Costa Rica](https://open.spotify.com/track/6fodcUvAswFV8Az3Imd5F5) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Camas Separadas](https://open.spotify.com/album/7n2Jn4FFREegsVpFlVpbp3) | 3:38 |
-| 24 | [Diferente](https://open.spotify.com/track/3XV1E6VMiiUoRByV7nXVEA) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [Diferente](https://open.spotify.com/album/5t1yTrOm3fbJQltjom2uya) | 3:40 |
+| 23 | [Diferente](https://open.spotify.com/track/3XV1E6VMiiUoRByV7nXVEA) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [Diferente](https://open.spotify.com/album/5t1yTrOm3fbJQltjom2uya) | 3:40 |
+| 24 | [Costa Rica](https://open.spotify.com/track/6fodcUvAswFV8Az3Imd5F5) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Camas Separadas](https://open.spotify.com/album/7n2Jn4FFREegsVpFlVpbp3) | 3:38 |
 | 25 | [Diez Pasos Hacia Ti](https://open.spotify.com/track/54KsfVVnN4YWI2mMrnyUcC) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Suspiros](https://open.spotify.com/album/2dU3JOkZlSKu7WdqIGvCcK) | 3:29 |
 | 26 | [Ser Guitarra](https://open.spotify.com/track/6mtNyMwmlwy8kMq3NsWa6q) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Ser Guitarra](https://open.spotify.com/album/3xZM5pC6lmpRMXnTPSeLJZ) | 2:59 |
 | 27 | [¿A Qué Te Sabe el Café?](https://open.spotify.com/track/5n7a1XYL8oaOGNptOdENIQ) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq) | [Conversaciones Ajenas en un Café](https://open.spotify.com/album/4UHIunQP15TgnfK7aCWhM9) | 3:31 |
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64myInc1vfu.md) - [plain]
 | 37 | [Para No Olvidar](https://open.spotify.com/track/5V2PAJnOJn7H4e8FwSbRdr) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU), [Manolo Garcia](https://open.spotify.com/artist/4eBTqTx5ssOK5YwmijmfU4), [Vicente Amigo](https://open.spotify.com/artist/4uo8Bp99zyj8HQW1ynweoY) | [Para No Olvidar](https://open.spotify.com/album/2oXUAq2lYbpdCVkJjDdZQy) | 4:04 |
 | 38 | [Ojos de Serpiente](https://open.spotify.com/track/4SutBECg5t8YqY1hz8SbwX) | [DORA](https://open.spotify.com/artist/5RHjYsmfT5IskZMoU6UuCj) | [Ojos de Serpiente](https://open.spotify.com/album/2aGMr5JwOn5wMRFn4wWSwt) | 2:51 |
 | 39 | [Pajaritos](https://open.spotify.com/track/2wrXCzqFhTrUiLx1Xra1zN) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC) | [Pajaritos](https://open.spotify.com/album/25sQj4ycXmGdHFu1TNn1r5) | 2:24 |
-| 40 | [Amor En Cuarentena](https://open.spotify.com/track/2siIxRukc4AFw9rxeE9La8) | [Raquel Sofía](https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4) | [Amor En Cuarentena](https://open.spotify.com/album/0NDsxPkfntANuEyF5NpMHW) | 2:45 |
+| 40 | [Si Tú Me Quisieras](https://open.spotify.com/track/3XWCZdvN55Rjly1sSxrXqh) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8), [Nia Vanie](https://open.spotify.com/artist/2AAkCTYG2KE8Ocl7JK97wD) | [Si Tú Me Quisieras](https://open.spotify.com/album/5jS82FjoNBNMEmcoILh0uE) | 4:21 |
 | 41 | [Hoy No](https://open.spotify.com/track/0jGBvWB2j1LfUUTm6oxXKs) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Hoy No](https://open.spotify.com/album/277bMalOjznL9f3X8wtv2A) | 4:02 |
-| 42 | [Si Tú Me Quisieras](https://open.spotify.com/track/3XWCZdvN55Rjly1sSxrXqh) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8), [Nia Vanie](https://open.spotify.com/artist/2AAkCTYG2KE8Ocl7JK97wD) | [Si Tú Me Quisieras](https://open.spotify.com/album/5jS82FjoNBNMEmcoILh0uE) | 4:21 |
+| 42 | [Amor En Cuarentena](https://open.spotify.com/track/2siIxRukc4AFw9rxeE9La8) | [Raquel Sofía](https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4) | [Amor En Cuarentena](https://open.spotify.com/album/0NDsxPkfntANuEyF5NpMHW) | 2:45 |
 | 43 | [Como Fue](https://open.spotify.com/track/1FEeJpSdoPfsTZk9AGqOcN) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa) | [Amores Ajenos](https://open.spotify.com/album/3FRBtXIYzHiiDSXykW2WVT) | 2:42 |
 | 44 | [Salvavidas](https://open.spotify.com/track/1ZVvO03ypa1pSC1WHnHPEx) | [Yoly Saa](https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW) | [Salvavidas](https://open.spotify.com/album/6MnxF6Qm6HVXUXtzsrm7MX) | 2:52 |
 | 45 | [Apasionadamente](https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Apasionadamente](https://open.spotify.com/album/0xgN5G0w8qGlw1onYHHdks) | 3:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64myInc1vfu.md) - [plain]
 | 49 | [Copa Rota](https://open.spotify.com/track/4YGgCgMivD5LUgxNEO2SpY) | [Slay Fox](https://open.spotify.com/artist/32SEdfMH0e32Gr4Ztnn27j), [J Alvarez](https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY), [574](https://open.spotify.com/artist/6LySp35VaLUeUEalGUTBns) | [Super Slay World](https://open.spotify.com/album/3JHk4REKHS109B9N13eQlt) | 2:51 |
 | 50 | [Cuando Los Malandros Lloran](https://open.spotify.com/track/2Hz67xjPicg9Xdq7K8FfDG) | [Çantamarta](https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln) | [Cuando Los Malandros Lloran](https://open.spotify.com/album/1BOErcw8iZR9VkUyeF7flO) | 2:23 |
 
-Snapshot ID: `MTY2MzYwMDM1MiwwMDAwMDAwMDRmYWZkOGJmN2ZjY2IzNzQ5NzA2MzJiZTZjOWQ5OTg5`
+Snapshot ID: `MTY2MzYwMDM1MiwwMDAwMDAwMDdhZWQ3YjQ5MWUxOTJmZTE2OWMyNjlmZTEyNDRhYzJm`

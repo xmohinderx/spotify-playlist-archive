@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 
 > La playlist officielle de l’édition 2022 des Francos de Montréal!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,097 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,096 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 | 2 | [Croire en rien](https://open.spotify.com/track/5SpEASywG04sydPc9QRZhz) | [Louis\-Jean Cormier](https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G) | [Quand la nuit tombe](https://open.spotify.com/album/3TxGclPeiNgoHdw5jIUXuo) | 4:05 |
 | 3 | [Ciao](https://open.spotify.com/track/25akJEUvfU5BrlpcEGn0Gl) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1), [O.Z](https://open.spotify.com/artist/1OOqRDxjjXJZaHjgliZaHc) | [Dixque d'art](https://open.spotify.com/album/5fvUcupi73B843UBlMcRxS) | 3:57 |
 | 4 | [Pilote \(feat\. Hamza\)](https://open.spotify.com/track/12GV2Wr4p1hBWQCrQcVsew) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Enna](https://open.spotify.com/album/0IBVzjJxYn6o69T4FfXMLi) | 3:07 |
-| 5 | [DIMANCHE SOIR](https://open.spotify.com/track/1xTasIo5MGbmSi792apTaz) | [Hubert Lenoir](https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj) | [OCTEMBRE](https://open.spotify.com/album/6U0usnBvoliJcfq7xxmEZA) | 3:09 |
+| 5 | [DIMANCHE SOIR](https://open.spotify.com/track/0R7qTLkd6VR3QJeEmdG2by) | [Hubert Lenoir](https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj) | [OCTEMBRE](https://open.spotify.com/album/3Njv7LsQ4QBCYrtAvexhdO) | 3:09 |
 | 6 | [Cool Colorado](https://open.spotify.com/track/6lbkdQ51nx1XPMGoiG3BZ6) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Paradigmes](https://open.spotify.com/album/1u2Q5MFWptOdPpldjC0xO9) | 3:52 |
 | 7 | [Pourquoi faire aujourd'hui](https://open.spotify.com/track/0vpqlS0843Mu90qyAs30dC) | [Lisa LeBlanc](https://open.spotify.com/artist/4YsjYDobnm0mf2tB4I9Zya) | [Chiac Disco](https://open.spotify.com/album/7IXqRgACJ7HBHa1C5dfN8r) | 3:31 |
 | 8 | [Comptine d'un autre été, l'après\-midi](https://open.spotify.com/track/14rZjW3RioG7WesZhYESso) | [Yann Tiersen](https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um) | [Le Fabuleux destin d'Amélie Poulain \(Bande originale du film\)](https://open.spotify.com/album/6PRPYATK5VvjZ2p911y6U0) | 2:20 |
@@ -82,9 +82,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 | 72 | [Insensible](https://open.spotify.com/track/6HQY0FUesf8elD9rUXtZb8) | [Rosier](https://open.spotify.com/artist/2mIqD0kh2TtNDYpB4weMe1) | [Légèrement](https://open.spotify.com/album/3qevMOyAq8iKlElxTrX6tc) | 3:27 |
 | 73 | [Alaska](https://open.spotify.com/track/5yE3Mi1Vu66PB6zyAIIPFu) | [Andréanne A\. Malette](https://open.spotify.com/artist/7Cm84tcv4znPwVFtFyIdBB) | [SITKA](https://open.spotify.com/album/7vCTMbGtUp6mIOQu1l03DP) | 3:38 |
 | 74 | [La grande évasion](https://open.spotify.com/track/2aA0QjPKz8BDUHx2JTUVjp) | [Patrice Michaud](https://open.spotify.com/artist/5qwQpqVBAApujajOflaRz1) | [Grand voyage désorganisé](https://open.spotify.com/album/1rLmRNRjmGvzDk1rGGKUET) | 2:35 |
-| 75 | [Perdu](https://open.spotify.com/track/26pgQYYmQRxVkHL6FRNdoH) | [Miro](https://open.spotify.com/artist/5j7ql2sFpKxWvZI6TIDfgj) | [Sablier](https://open.spotify.com/album/3VOHZBXEsrwimXbJuC6qCJ) | 2:26 |
+| 75 | [Amazone \(feat\. Laurence Camille\)](https://open.spotify.com/track/1XtDKWKoIN7U5NBKXZWiBM) | [Super Plage](https://open.spotify.com/artist/4dOjpPwKB3QG5uh3lLvIM3), [Laurence Camille](https://open.spotify.com/artist/2fEGbkGz3QjsKC65fL0vJF) | [Électro\-Vacances](https://open.spotify.com/album/6b4K1Y42MS7uzbgBQvd8c5) | 3:06 |
 | 76 | [Tes yeux à Barcelone](https://open.spotify.com/track/45iROClNX8ebbkL95JK3x1) | [Salomé Leclerc](https://open.spotify.com/artist/5gBtHbwwn0bBfrXvs6SY5I) | [Mille ouvrages mon coeur](https://open.spotify.com/album/1KtRuRbQwDAV1OPYst3fDr) | 3:20 |
-| 77 | [Amazone \(feat\. Laurence Camille\)](https://open.spotify.com/track/1XtDKWKoIN7U5NBKXZWiBM) | [Super Plage](https://open.spotify.com/artist/4dOjpPwKB3QG5uh3lLvIM3), [Laurence Camille](https://open.spotify.com/artist/2fEGbkGz3QjsKC65fL0vJF) | [Électro\-Vacances](https://open.spotify.com/album/6b4K1Y42MS7uzbgBQvd8c5) | 3:06 |
+| 77 | [Perdu](https://open.spotify.com/track/26pgQYYmQRxVkHL6FRNdoH) | [Miro](https://open.spotify.com/artist/5j7ql2sFpKxWvZI6TIDfgj) | [Sablier](https://open.spotify.com/album/3VOHZBXEsrwimXbJuC6qCJ) | 2:26 |
 | 78 | [Fontaine à vœux](https://open.spotify.com/track/22zJbNjvH4ZFplXfypE9Yo) | [Les Hay Babies](https://open.spotify.com/artist/19MYB7a3GOTcbnZrl7juwx) | [Boîte aux lettres](https://open.spotify.com/album/4Ziyy1jo91GImMnuTHtU19) | 3:30 |
 | 79 | [Le souhait de Carmen](https://open.spotify.com/track/6SBDaSKJHFlDpaFKDn4Dy7) | [Lynda Lemay](https://open.spotify.com/artist/6rVJyC8TepqtRRPeEFZfi0) | [Haute Mère](https://open.spotify.com/album/4SwLXWJcGSbeWwhRRCs9Kt) | 4:44 |
 | 80 | [Mon coeur pour te garder](https://open.spotify.com/track/3lCtEAvtIuCOtb4wi9k4Jn) | [Amélie Veille](https://open.spotify.com/artist/6l1fj74wjDW6adX1r3H29h) | [Mon coeur pour te garder \(version bonus\)](https://open.spotify.com/album/34H51ANAsWXe9SrANF6BTY) | 3:26 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 | 96 | [Bonsaï](https://open.spotify.com/track/6LzREVOgZqgUhHkfuj209f) | [Gros Mené](https://open.spotify.com/artist/0dTjZUMqyvErZOdHwPQjaT) | [Pax et Bonum](https://open.spotify.com/album/46cTZARrHo7jivv9B8mg9f) | 3:43 |
 | 97 | [Sweet Montérégie](https://open.spotify.com/track/622Po4YytbjATQ1B9J6xid) | [Alex Burger](https://open.spotify.com/artist/03jYzuKwvEWujYj8iVtUo7) | [Sweet Montérégie](https://open.spotify.com/album/62dJ6IUek4cuNPKhgYRaIr) | 3:49 |
 | 98 | [Usage domestique](https://open.spotify.com/track/2ZppabBSZY0rorfI5yxdln) | [Julia Daigle](https://open.spotify.com/artist/2rO9smzz3qf6qGNoKIbE6x) | [Un singe sur l'épaule](https://open.spotify.com/album/1EET3eGh9diFTxDBew3tjo) | 4:14 |
-| 99 | [Sexy](https://open.spotify.com/track/7F1EI4ZSFNOXm1jVl1clsE) | [Gab Paquet](https://open.spotify.com/artist/6RQFfAmeNqrEaTaFWitpOp) | [La Force d'Éros](https://open.spotify.com/album/5a26SnsK7DduKfPoK3Xy3U) | 3:32 |
-| 100 | [Amy](https://open.spotify.com/track/6cjoFnCGY5bBlcxu0W7gvq) | [Marco Ema](https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ) | [Où nos corps s'en vont mourir](https://open.spotify.com/album/5wTzdT6lhcpv8PBqQkxXoA) | 2:57 |
+| 99 | [Amy](https://open.spotify.com/track/6cjoFnCGY5bBlcxu0W7gvq) | [Marco Ema](https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ) | [Où nos corps s'en vont mourir](https://open.spotify.com/album/5wTzdT6lhcpv8PBqQkxXoA) | 2:57 |
+| 100 | [Espoir](https://open.spotify.com/track/6wUL2qBFXtycEgsoMrRjce) | [Ariane Moffatt](https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l) | [Incarnat](https://open.spotify.com/album/7MHCdhvoWFGcKSnuqp5dOS) | 3:29 |
 
-Snapshot ID: `MTY1NTMxMzE4NSwwMDAwMDAwMDNmOTEwNzczODcxMDMzMGQxNzdkZGRjMjhkYzkxMGRl`
+Snapshot ID: `MTY1NTMxMzE4NSwwMDAwMDAwMDRhMTk1YTcyMTEzYWY0ZWQ5YmYzYjViODAyNzBlMDhk`

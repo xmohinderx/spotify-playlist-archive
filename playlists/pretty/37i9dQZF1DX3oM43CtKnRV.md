@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3oM43CtKnRV.md) - [plain]
 
 > These songs rocked the 00s\. Cover: Red Hot Chili Peppers
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,413,645 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,415,335 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,11 +24,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3oM43CtKnRV.md) - [plain]
 | 14 | [The Diary of Jane \- Single Version](https://open.spotify.com/track/5pvJ59i7JxylN8VB24xdMs) | [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP) | [Phobia \(Explicit Version\)](https://open.spotify.com/album/6yJdQMlMkfYJFiSsL6764c) | 3:20 |
 | 15 | [Mr\. Brightside](https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg) | 3:42 |
 | 16 | [The Kill \(Bury Me\)](https://open.spotify.com/track/4P9rDXp7gQbijPvTrnaBy3) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [Throwback Thursday Mix Vol\. 2](https://open.spotify.com/album/0Wo1E6xjtogsprOfFot4Se) | 3:51 |
-| 17 | [Paralyzer](https://open.spotify.com/track/28IEbk5a7twNTbUEvWslUb) | [Finger Eleven](https://open.spotify.com/artist/0niJkG4tKkne3zwr7I8n9n) | [Them Vs\. You Vs\. Me \(Deluxe Edition\)](https://open.spotify.com/album/2pCfqddO9tLKRz3wzSNGsZ) | 3:28 |
+| 17 | [Paralyzer](https://open.spotify.com/track/3TVqK8LnTXSbgmSbDlRLBH) | [Finger Eleven](https://open.spotify.com/artist/0niJkG4tKkne3zwr7I8n9n) | [Work Out Motivations](https://open.spotify.com/album/3enB6egLnLDOu2hX2a8Zej) | 3:28 |
 | 18 | [Teenagers](https://open.spotify.com/track/7j31rVgGX9Q2blT92VBEA0) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade](https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK) | 2:41 |
 | 19 | [How You Remind Me](https://open.spotify.com/track/4nn3hxwbnchJQemcY3POzW) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Classic 00's](https://open.spotify.com/album/1hbivibMS5cBShAfEDWJBC) | 3:43 |
 | 20 | [Savior](https://open.spotify.com/track/3asFGFY3uLjMDmML1p0tYm) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Appeal To Reason](https://open.spotify.com/album/3smHEWBKoqDUFuJrV8BCg1) | 4:02 |
-| 21 | [The Middle](https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Bleed American](https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP) | 2:45 |
+| 21 | [The Middle](https://open.spotify.com/track/67PzNQl5EyyrNBmFIM917G) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Emo 2000s](https://open.spotify.com/album/6YLLFMlYzwDiKTKeqIHMvQ) | 2:46 |
 | 22 | [She Hates Me](https://open.spotify.com/track/16DhvbuyvJob4Q9GHNYu2n) | [Puddle Of Mudd](https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5) | [Come Clean](https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5) | 3:36 |
 | 23 | [What I've Done](https://open.spotify.com/track/18lR4BzEs7e3qzc0KVkTpU) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Minutes to Midnight](https://open.spotify.com/album/2tlTBLz2w52rpGCLBGyGw6) | 3:25 |
 | 24 | [Smooth Criminal](https://open.spotify.com/track/5z6xHjCZr7a7AIcy8sPBKy) | [Alien Ant Farm](https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO) | [Anthology](https://open.spotify.com/album/5klPnHQ5dy6Qm2Ul7h1lp5) | 3:29 |
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3oM43CtKnRV.md) - [plain]
 | 51 | [Island In The Sun](https://open.spotify.com/track/2MLHyLy5z5l5YRp7momlgw) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer \(Green Album\)](https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c) | 3:20 |
 | 52 | [Face Down](https://open.spotify.com/track/4wzjNqjKAKDU82e8uMhzmr) | [The Red Jumpsuit Apparatus](https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo) | [Don't You Fake It](https://open.spotify.com/album/6TyPSzd5rA2rQ9yLJJ1Gg2) | 3:12 |
 | 53 | [The Pretender](https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Echoes, Silence, Patience & Grace](https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz) | 4:29 |
-| 54 | [Best of You](https://open.spotify.com/track/5FZxsHWIvUsmSK1IAvm2pp) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [In Your Honor](https://open.spotify.com/album/2eprpJCYbCbPZRKVGIEJxZ) | 4:15 |
+| 54 | [Best of You](https://open.spotify.com/track/6tgd8OhdnV0ewr7J5Qgkrc) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [The Essential Foo Fighters](https://open.spotify.com/album/2R7sAYjN889jJf8v5a9br0) | 4:16 |
 | 55 | [Yellow](https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) | 4:26 |
 | 56 | [Gives You Hell](https://open.spotify.com/track/6ihL9TjfRjadfEePzXXyVF) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [When The World Comes Down](https://open.spotify.com/album/3BCMpDOcQlbCZpf5vnTadZ) | 3:33 |
 | 57 | [Youth of the Nation](https://open.spotify.com/track/0UrWr7Jnu1heq1o99ZwUd0) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Satellite \(U.S\. Version\)](https://open.spotify.com/album/4eUmncMYQRg0Ot29KKqbuk) | 4:16 |
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3oM43CtKnRV.md) - [plain]
 | 86 | [Fell In Love With a Girl](https://open.spotify.com/track/21Qsj3cMVCx2xF2EVVNbEu) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [White Blood Cells](https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0) | 1:50 |
 | 87 | [Beautiful Day](https://open.spotify.com/track/5t514bZ4eZPtKJbKfuZJCA) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Best Of 1990\-2000](https://open.spotify.com/album/5I099NUhbRrXaxnxQagElv) | 4:04 |
 | 88 | [Every Day Is Exactly The Same](https://open.spotify.com/track/7fDkNHNcFgDly75RlhHOi2) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [Every Day Is Exactly The Same \(Remixes\)](https://open.spotify.com/album/0yKcMnruZxs3oYVpuKUGH6) | 4:55 |
-| 89 | [Little Sister](https://open.spotify.com/track/0BqQWfhMrkpRAUCbdfdHUC) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Lullabies To Paralyze](https://open.spotify.com/album/2OMdsA2I4RxrHCyogwKGvF) | 2:54 |
+| 89 | [Little Sister](https://open.spotify.com/track/6nV6ABvmKEXRaStF0KXZbz) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Rocking Hits](https://open.spotify.com/album/0PM8XW5G2SXAxDr23qxFIR) | 2:54 |
 | 90 | [Hate to Say I Told You So](https://open.spotify.com/track/4WekEzcLyDDdPHG3G6dZg4) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Boyhood: Music from the Motion Picture](https://open.spotify.com/album/6gVaSasSnh85NVEoAUCqbQ) | 3:19 |
 | 91 | [Last Nite](https://open.spotify.com/track/3SUusuA9jH1v6PVwtYMbdv) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE) | 3:13 |
 | 92 | [Reptilia](https://open.spotify.com/track/57Xjny5yNzAcsxnusKmAfA) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Room On Fire](https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh) | 3:39 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3oM43CtKnRV.md) - [plain]
 | 99 | [Your Touch](https://open.spotify.com/track/5lJUXSjRjevVy7I3P87wuK) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Magic Potion](https://open.spotify.com/album/4jFfuHyKmhGeipjRmKIh8O) | 2:42 |
 | 100 | [There, There](https://open.spotify.com/track/5h4y42RUKwYKYWgutNwvKP) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Hail To the Thief](https://open.spotify.com/album/5mzoI3VH0ZWk1pLFR6RoYy) | 5:23 |
 
-Snapshot ID: `MTY2NjczMDEzMSwwMDAwMDAwMGNjYzA5OTZkOThiNjBlYTQ4MGYwMzcxN2FjZDUzYWZh`
+Snapshot ID: `MTY2NjczMDEzMSwwMDAwMDAwMGE4MDI5MjE0NWI1MDk0ZWFlYmQwM2YyNzliMTdlZGY4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwxyU5zGZYe.md) - [plain]
 
 > Best acoustic melodies from Bollywood
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,442 likes - 48 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,519 likes - 48 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwxyU5zGZYe.md) - [plain]
 | 25 | [Allah Ke Bande](https://open.spotify.com/track/6Y1cH3RzDCMWGQtOS0HmP8) | [Kailash Kher](https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4) | [Waisa Bhi Hota Hai Part 2](https://open.spotify.com/album/6NucTCpJkSWDphKnLBXp6P) | 4:06 |
 | 26 | [Kaun Mera](https://open.spotify.com/track/4137w3YEeQSgz52qxyjxHR) | [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT) | [Special 26](https://open.spotify.com/album/6EN0NhqSQIYiLqbNkfXkIq) | 2:52 |
 | 27 | [Aas Paas Khuda \(Unplugged\)](https://open.spotify.com/track/0hVXFWS00liq3W2YAQUma4) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0), [Shruti Pathak](https://open.spotify.com/artist/3wZBspj86lRk2XLf4gfnSE) | [Anjaana Anjaani](https://open.spotify.com/album/6FC95PYKFrO8UYhjCidPZ9) | 3:24 |
-| 28 | [Jeena Jeena \(From "Badlapur"\)](https://open.spotify.com/track/5ZhKD46Q7mhsl0awl7ZMJc) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Jeena Jeena \(From "Badlapur"\)](https://open.spotify.com/album/0U2bBiUD6j9q0GIDsY3J7v) | 3:48 |
+| 28 | [Jeena Jeena \(From "Badlapur"\)](https://open.spotify.com/track/2rDuCCupfPNcqgAOdYHqgI) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Love \- From Him](https://open.spotify.com/album/0IWURtezd0vRUdCAUgfcfE) | 3:48 |
 | 29 | [Sham](https://open.spotify.com/track/5Q58RkKyUafm15Syxg79DW) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Nikhil D'Souza](https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC), [Neuman Pinto](https://open.spotify.com/artist/6LyiUcIr0wG0mC8E01kyI6) | [Aisha \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4h2SfJt00zfnnoQSCuOmkc) | 4:44 |
 | 30 | [Woh Din \(From "Chhichhore"\)](https://open.spotify.com/track/6QPFWNUw9iGFZAXgqecunp) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [TUSHAR JOSHI](https://open.spotify.com/artist/324yz9K4ufBcGkcgUhTiHH) | [Woh Din \(From "Chhichhore"\)](https://open.spotify.com/album/6AO0pgr8j2uk3fQUmXR8lF) | 5:12 |
 | 31 | [Journey Song](https://open.spotify.com/track/7z8XCViP5KT8O7HqoCsRTV) | [Anupam Roy](https://open.spotify.com/artist/5LZ894xYE9MG1sal0gjt5L), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Piku](https://open.spotify.com/album/3CUze5uhJuLcEYfgU4x4w1) | 4:12 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwxyU5zGZYe.md) - [plain]
 | 47 | [Channa Mereya \- Unplugged](https://open.spotify.com/track/0xHvmWCpz9Pnn1sDvRehAs) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Ae Dil Hai Mushkil \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/5xjaz957o6YGSXmlfd2tex) | 2:45 |
 | 48 | [Roobaroo](https://open.spotify.com/track/3vqJY3pVELLIxqXXyI08yr) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Naresh Iyer](https://open.spotify.com/artist/7FaGCZiP3s6X7jQTB8EhfI) | [Rang De Basanti \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0NKNDn80mhKn4Xi6nHrsqQ) | 4:42 |
 
-Snapshot ID: `MTY2MTc4MjY3MCwwMDAwMDAwMDc5Njc3ZWVjMTg4ODVmZWEzODAyNmQzNzExYTVlZTE1`
+Snapshot ID: `MTY2MTc4MjY3MCwwMDAwMDAwMGZmYTY3NGU1MGQ5ZDRmYTgwNDJiNjE5NDVjMmRhZmQ2`

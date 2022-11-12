@@ -4,7 +4,7 @@
 
 > Releases from the legendary label.
 
-52 songs - 3 hr 29 min - [published](https://open.spotify.com/playlist/7aFvSWZ4Nwm3VDtLqTwMGM)
+53 songs - 3 hr 33 min - [published](https://open.spotify.com/playlist/7aFvSWZ4Nwm3VDtLqTwMGM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,8 @@
 | [I Shot The Sheriff](https://open.spotify.com/track/5uBKhKWTJ4E47rcLQqu3YH) | [The Wailers](https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE) | [Burnin' \(Deluxe Edition\)](https://open.spotify.com/album/5EZMcYc3xK0rlru83kHpUe) | 4:39 | 2019-10-02 |  |
 | [Is This Love](https://open.spotify.com/track/6JRLFiX9NJSoRRKxowlBYr) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Kaya](https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a) | 3:52 | 2019-10-02 |  |
 | [Jamming](https://open.spotify.com/track/4zn0kScuV9Oj28d4g9CQQs) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus \(Deluxe Edition\)](https://open.spotify.com/album/1vHvJVBK0WnpbYFw4f4UTD) | 3:31 | 2019-10-02 | 2022-07-29 |
-| [Jamming](https://open.spotify.com/track/5LyfiK6iXEIBNEtcaGKohl) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S) | 3:31 | 2022-03-03 |  |
+| [Jamming](https://open.spotify.com/track/5LyfiK6iXEIBNEtcaGKohl) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S) | 3:31 | 2022-03-03 | 2022-11-12 |
+| [Jamming](https://open.spotify.com/track/0NDJeqkaT4a7WlC3Uj2ig5) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Legend \(Deluxe Edition\)](https://open.spotify.com/album/04VRfesff9bgDA2Q8J2oDo) | 3:32 | 2022-03-03 |  |
 | [Kaya](https://open.spotify.com/track/2rahWhhubhQMhG6coo7Vu9) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Kaya](https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a) | 3:15 | 2019-10-02 | 2022-03-04 |
 | [Kinky Reggae \- Original Album Version](https://open.spotify.com/track/7rzl3uAXLQMWznyVUaoeer) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Catch A Fire](https://open.spotify.com/album/39kLAVdcgW7jbMcTEaY2qy) | 3:37 | 2019-10-02 |  |
 | [Lively Up Yourself](https://open.spotify.com/track/2Xr3NXOz1qg5Jddkm8k4fr) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Natty Dread](https://open.spotify.com/album/1d8lF3nZpEIFeEbWmAt9Ey) | 5:10 | 2019-10-02 |  |

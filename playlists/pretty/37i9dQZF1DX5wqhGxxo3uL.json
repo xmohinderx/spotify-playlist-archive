@@ -1,12 +1,12 @@
 {
   "description": "hairbrush as a microphone type songs.",
-  "num_followers": 2123,
+  "num_followers": 2127,
   "original_name": "Slumber Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxNTQ4MTg1NiwwMDAwMDAwMDZjNTc5N2U3NjZmZTFkZWY0MjA4YTU5OTNlNGFhNzc0",
+  "snapshot_id": "MTYxNTQ4MTg1NiwwMDAwMDAwMDBjNTNhMWExNjJmZmUyYTc1Y2JhZTU5MjYyOTlmYzQ3",
   "tracks": [
     {
       "added_at": "2021-03-05 17:02:38",
@@ -607,22 +607,6 @@
     {
       "added_at": "2021-03-05 17:02:38",
       "album": {
-        "name": "Pure Heroine",
-        "url": "https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v"
-      },
-      "artists": [
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 258969,
-      "name": "Ribs",
-      "url": "https://open.spotify.com/track/2MvvoeRt8NcOXWESkxWn3g"
-    },
-    {
-      "added_at": "2021-03-05 17:02:38",
-      "album": {
         "name": "Fanmail",
         "url": "https://open.spotify.com/album/1CvjjpvqVMoyprsf74bpYW"
       },
@@ -711,6 +695,22 @@
     {
       "added_at": "2021-03-05 17:02:38",
       "album": {
+        "name": "Sweetener",
+        "url": "https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 205920,
+      "name": "no tears left to cry",
+      "url": "https://open.spotify.com/track/2qT1uLXPVPzGgFOx4jtEuo"
+    },
+    {
+      "added_at": "2021-03-05 17:02:38",
+      "album": {
         "name": "Invasion of Privacy",
         "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
       },
@@ -735,18 +735,18 @@
     {
       "added_at": "2021-03-05 17:02:38",
       "album": {
-        "name": "Sweetener",
-        "url": "https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe"
+        "name": "...Baby One More Time (Digital Deluxe Version)",
+        "url": "https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx"
       },
       "artists": [
         {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
         }
       ],
-      "duration_ms": 205920,
-      "name": "no tears left to cry",
-      "url": "https://open.spotify.com/track/2qT1uLXPVPzGgFOx4jtEuo"
+      "duration_ms": 211066,
+      "name": "...Baby One More Time",
+      "url": "https://open.spotify.com/track/3MjUtNVVq3C8Fn0MP3zhXa"
     },
     {
       "added_at": "2021-03-05 17:02:38",
@@ -799,38 +799,6 @@
     {
       "added_at": "2021-03-05 17:02:38",
       "album": {
-        "name": "Joanne (Deluxe)",
-        "url": "https://open.spotify.com/album/2ZUwFxlWo0gwTsvZ6L4Meh"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 205280,
-      "name": "Million Reasons",
-      "url": "https://open.spotify.com/track/7dZ1Odmx9jWIweQSatnRqo"
-    },
-    {
-      "added_at": "2021-03-05 17:02:38",
-      "album": {
-        "name": "...Baby One More Time (Digital Deluxe Version)",
-        "url": "https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx"
-      },
-      "artists": [
-        {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-        }
-      ],
-      "duration_ms": 211066,
-      "name": "...Baby One More Time",
-      "url": "https://open.spotify.com/track/3MjUtNVVq3C8Fn0MP3zhXa"
-    },
-    {
-      "added_at": "2021-03-05 17:02:38",
-      "album": {
         "name": "thank u, next",
         "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
       },
@@ -843,6 +811,22 @@
       "duration_ms": 190440,
       "name": "break up with your girlfriend, i'm bored",
       "url": "https://open.spotify.com/track/4kV4N9D1iKVxx1KLvtTpjS"
+    },
+    {
+      "added_at": "2021-03-05 17:02:38",
+      "album": {
+        "name": "Joanne (Deluxe)",
+        "url": "https://open.spotify.com/album/2ZUwFxlWo0gwTsvZ6L4Meh"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 205280,
+      "name": "Million Reasons",
+      "url": "https://open.spotify.com/track/7dZ1Odmx9jWIweQSatnRqo"
     },
     {
       "added_at": "2021-03-05 17:02:38",
@@ -895,22 +879,6 @@
     {
       "added_at": "2021-03-05 17:02:38",
       "album": {
-        "name": "Bangerz (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3RDqXDc1bAETps54MSSOW0"
-      },
-      "artists": [
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        }
-      ],
-      "duration_ms": 231240,
-      "name": "We Can't Stop",
-      "url": "https://open.spotify.com/track/2y4lAQpi5VTNLu2ldeTdUH"
-    },
-    {
-      "added_at": "2021-03-05 17:02:38",
-      "album": {
         "name": "Don't Forget About Me, Demos",
         "url": "https://open.spotify.com/album/1DNx0H5ZX1ax3yyRwtgT4S"
       },
@@ -927,18 +895,18 @@
     {
       "added_at": "2021-03-05 17:02:38",
       "album": {
-        "name": "Welcome To The Madhouse (Deluxe)",
-        "url": "https://open.spotify.com/album/1AZjTOqvw2ZogWZxnDlhEN"
+        "name": "Bangerz (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3RDqXDc1bAETps54MSSOW0"
       },
       "artists": [
         {
-          "name": "Tones And I",
-          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
         }
       ],
-      "duration_ms": 209438,
-      "name": "Dance Monkey",
-      "url": "https://open.spotify.com/track/2N8m6CYs74qQO4mjVcXO30"
+      "duration_ms": 231240,
+      "name": "We Can't Stop",
+      "url": "https://open.spotify.com/track/2y4lAQpi5VTNLu2ldeTdUH"
     },
     {
       "added_at": "2021-03-05 17:02:38",
@@ -971,22 +939,6 @@
       "duration_ms": 246240,
       "name": "Shout Out to My Ex",
       "url": "https://open.spotify.com/track/0ErK6K0kYr0Ow2RkPMhmMs"
-    },
-    {
-      "added_at": "2021-03-05 17:02:38",
-      "album": {
-        "name": "Back To Black (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG"
-      },
-      "artists": [
-        {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
-        }
-      ],
-      "duration_ms": 233733,
-      "name": "Valerie - Live At BBC Radio 1 Live Lounge, London / 2007",
-      "url": "https://open.spotify.com/track/6nLvaCZFR1wEzW3sIKpsnr"
     },
     {
       "added_at": "2021-03-05 17:02:38",
@@ -1139,22 +1091,6 @@
     {
       "added_at": "2021-03-05 17:02:38",
       "album": {
-        "name": "Back To Black (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG"
-      },
-      "artists": [
-        {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
-        }
-      ],
-      "duration_ms": 257186,
-      "name": "You Know I'm No Good",
-      "url": "https://open.spotify.com/track/0DMRKqrpd0QO4RWiEdMib0"
-    },
-    {
-      "added_at": "2021-03-05 17:02:38",
-      "album": {
         "name": "4",
         "url": "https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ"
       },
@@ -1263,6 +1199,70 @@
       "duration_ms": 193653,
       "name": "Dirty Little Secret",
       "url": "https://open.spotify.com/track/5lDriBxJd22IhOH9zTcFrV"
+    },
+    {
+      "added_at": "2021-03-05 17:02:38",
+      "album": {
+        "name": "1950",
+        "url": "https://open.spotify.com/album/5p0UaZsYWMn4L1dSpc6AhN"
+      },
+      "artists": [
+        {
+          "name": "King Princess",
+          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
+        }
+      ],
+      "duration_ms": 225133,
+      "name": "1950",
+      "url": "https://open.spotify.com/track/0CZ8lquoTX2Dkg7Ak2inwA"
+    },
+    {
+      "added_at": "2021-03-05 17:02:38",
+      "album": {
+        "name": "No Strings Attached",
+        "url": "https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC"
+      },
+      "artists": [
+        {
+          "name": "*NSYNC",
+          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
+        }
+      ],
+      "duration_ms": 200400,
+      "name": "Bye Bye Bye",
+      "url": "https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn"
+    },
+    {
+      "added_at": "2021-03-05 17:02:38",
+      "album": {
+        "name": "Come On Over",
+        "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 218866,
+      "name": "That Don't Impress Me Much",
+      "url": "https://open.spotify.com/track/4FUfoWMypAyWbOavmYyeNu"
+    },
+    {
+      "added_at": "2021-03-05 17:02:38",
+      "album": {
+        "name": "The Writing's On The Wall",
+        "url": "https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG"
+      },
+      "artists": [
+        {
+          "name": "Destiny's Child",
+          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+        }
+      ],
+      "duration_ms": 230200,
+      "name": "Jumpin', Jumpin'",
+      "url": "https://open.spotify.com/track/4pmc2AxSEq6g7hPVlJCPyP"
     }
   ],
   "unique_name": "Slumber Party",

@@ -4,7 +4,7 @@
 
 > Minimalism, electronica and modern classical to concentrate to.
 
-125 songs - 4 hr 43 min - [published](https://open.spotify.com/playlist/16XV8sBUmIP0qhqGG0aA1n)
+126 songs - 4 hr 45 min - [published](https://open.spotify.com/playlist/16XV8sBUmIP0qhqGG0aA1n)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [](https://open.spotify.com/track/6uWjjaiquXsjuQuks2mZME) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/4vrgKKdOXkFTiuzjcDwYNE) | 0:00 | 2021-06-27 | 2022-07-06 |
 | [17th December 2020 \(Waterloo Station\)](https://open.spotify.com/track/705EXk9IA9duuFiQ7ZugNP) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life Piano EP \(April 14 \- December 17 2020\)](https://open.spotify.com/album/77cR5kSztr2fcYtr0vsyes) | 3:40 | 2021-06-27 |  |
 | [A Walking Embrace](https://open.spotify.com/track/4U6iuQU1GjWBLAjb1J4wxG) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Encores 2](https://open.spotify.com/album/2C2LdCgWMw6MkJ5RGJi5eg) | 5:29 | 2021-06-27 |  |
-| [Above It All](https://open.spotify.com/track/4BPjphA5WmmKaJk66jF3oB) | [August Wilhelmsson](https://open.spotify.com/artist/34hmgPKKRJX6fvkosRxDO7) | [I Was Arthur](https://open.spotify.com/album/414Z4UXOjGS0AdGEbPeJQw) | 2:11 | 2022-07-05 |  |
+| [Above It All](https://open.spotify.com/track/4BPjphA5WmmKaJk66jF3oB) | [August Wilhelmsson](https://open.spotify.com/artist/34hmgPKKRJX6fvkosRxDO7) | [I Was Arthur](https://open.spotify.com/album/414Z4UXOjGS0AdGEbPeJQw) | 2:11 | 2022-07-05 | 2022-11-12 |
+| [Above It All](https://open.spotify.com/track/4qAzoVYQQHDM4e4wDaMyt0) | [August Wilhelmsson](https://open.spotify.com/artist/34hmgPKKRJX6fvkosRxDO7) | [KEEN: Complete Concentration Vol\. 2](https://open.spotify.com/album/5TkBqGSUW9amp8A72oLyyz) | 2:11 | 2022-07-05 |  |
 | [Above It All](https://open.spotify.com/track/3uJhBCgvI4Gmkfoz7R5Be8) | [August Wilhelmsson](https://open.spotify.com/artist/34hmgPKKRJX6fvkosRxDO7) | [I Was Arthur](https://open.spotify.com/album/37lG6j92FSavjmG8anuy8a) | 2:11 | 2021-06-27 | 2022-07-29 |
 | [Acceptance](https://open.spotify.com/track/303e6fTCQ5d3ljcg1TQrkC) | [Johann Eder](https://open.spotify.com/artist/0aCbxLi0ypSIj30oAT4T3o) | [Acceptance](https://open.spotify.com/album/5TifGwgK5S9VTApf5z4Qfx) | 2:54 | 2021-06-27 |  |
 | [African Violet](https://open.spotify.com/track/2AS9ZM50B6JkihVq1KY6b6) | [Arden Forest](https://open.spotify.com/artist/3LUa5res2UmvZ04kvlPMc7) | [Dark Taupe](https://open.spotify.com/album/47AoMLS4iKE2Lx942HBIKY) | 3:02 | 2021-06-27 | 2022-07-29 |

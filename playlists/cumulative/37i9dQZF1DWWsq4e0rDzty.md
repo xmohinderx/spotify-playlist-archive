@@ -4,7 +4,7 @@
 
 > For an education in rock.
 
-140 songs - 9 hr 13 min - [published](https://open.spotify.com/playlist/5ccmMNrrlyJcTacvDmU4wz)
+144 songs - 9 hr 30 min - [published](https://open.spotify.com/playlist/5ccmMNrrlyJcTacvDmU4wz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [All Day and All of the Night \- 2014 Remastered Version](https://open.spotify.com/track/6m6pz5PJjySqdgNt3n6NfL) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Best Of](https://open.spotify.com/album/7GzeVj59bwVLFB3SX7zy6W) | 2:22 | 2021-10-05 |  |
 | [And the Cradle Will Rock..\. \- 2015 Remaster](https://open.spotify.com/track/4MM0jT9z9m7VFiusFrGJ8C) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [Women and Children First \(Remastered\)](https://open.spotify.com/album/7fRy246Xzz3gez6stjTgKk) | 3:33 | 2021-10-05 |  |
 | [Another Brick in the Wall, Pt\. 2](https://open.spotify.com/track/4gMgiXfqyzZLMhsksGmbQV) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Wall](https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F) | 3:58 | 2021-10-05 |  |
-| [Are You Gonna Be My Girl](https://open.spotify.com/track/305WCRhhS10XUcH6AEwZk6) | [Jet](https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI) | [Get Born](https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg) | 3:33 | 2021-10-05 |  |
+| [Are You Gonna Be My Girl](https://open.spotify.com/track/305WCRhhS10XUcH6AEwZk6) | [Jet](https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI) | [Get Born](https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg) | 3:33 | 2021-10-05 | 2022-11-12 |
+| [Are You Gonna Be My Girl](https://open.spotify.com/track/6loXttSZPW0Dax7p6FuwK6) | [Jet](https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI) | [American Football Anthems](https://open.spotify.com/album/5bG3znC9oXilzWP7nhjdaF) | 3:35 | 2021-10-05 |  |
 | [Are You Gonna Be My Girl?](https://open.spotify.com/track/0mXKsmuLaSnzfitYEGQDaq) | [Jet](https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI) | [Get Born](https://open.spotify.com/album/0EVrAzQ5qfFrJxcuwjXJBQ) | 3:33 | 2021-10-05 | 2022-07-29 |
 | [Baba O'Riley](https://open.spotify.com/track/3qjs5QlCXa2b9QMGNsbSiI) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [NOW That's What I Call Classic Rock](https://open.spotify.com/album/1mYkkMFjXJae68xGV81IBB) | 4:57 | 2021-10-05 |  |
 | [Baba O'Riley](https://open.spotify.com/track/2KmEgiY8fQs0G6WNxtzQKr) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who's Next \(Deluxe Edition\)](https://open.spotify.com/album/5tqJNAjU163MfKLIP6DtYu) | 5:00 | 2021-10-05 | 2022-07-29 |
@@ -26,8 +27,9 @@
 | [Because the Night](https://open.spotify.com/track/0lIoY4ZQsdn5QzhraM9o9u) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Easter](https://open.spotify.com/album/1p6cWoueuunhpgy6131zAd) | 3:24 | 2022-01-10 |  |
 | [Birdhouse in Your Soul](https://open.spotify.com/track/6pmuu4qSz2WrtGkBjUfyuz) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [Flood](https://open.spotify.com/album/7FwAtuhhWivxvK4aPgyyUD) | 3:18 | 2021-10-05 | 2022-03-08 |
 | [Born To Be Wild](https://open.spotify.com/track/63OFKbMaZSDZ4wtesuuq6f) | [Steppenwolf](https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m) | [Steppenwolf](https://open.spotify.com/album/6GLHwIp1K3u1zdLOdPRG0W) | 3:30 | 2021-10-05 | 2022-01-27 |
-| [Bring Me To Life](https://open.spotify.com/track/0COqiPhxzoWICwFCS4eZcp) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Fallen](https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm) | 3:55 | 2021-10-05 |  |
+| [Bring Me To Life](https://open.spotify.com/track/0COqiPhxzoWICwFCS4eZcp) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Fallen](https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm) | 3:55 | 2021-10-05 | 2022-11-12 |
 | [Bring Me To Life](https://open.spotify.com/track/2gpffYGJGvhgqgA0Aw8wKi) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Fallen](https://open.spotify.com/album/3nuLaHUml2Ul4Vu1hv7iT4) | 3:55 | 2021-10-05 | 2022-07-29 |
+| [Bring Me To Life](https://open.spotify.com/track/4RFOnev1uGYfaDkvSfOLW7) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Sad Songs Sing\-Along](https://open.spotify.com/album/53RP1ZPLTpJ2HHsSr6od6S) | 3:55 | 2021-10-05 |  |
 | [Buddy Holly](https://open.spotify.com/track/3mwvKOyMmG77zZRunnxp9E) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q) | 2:39 | 2021-10-05 |  |
 | [Changes \- 2015 Remaster](https://open.spotify.com/track/0LrwgdLsFaWh9VXIjBRe8t) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Hunky Dory \(2015 Remaster\)](https://open.spotify.com/album/6fQElzBNTiEMGdIeY0hy5l) | 3:37 | 2021-10-05 |  |
 | [Cherry Bomb](https://open.spotify.com/track/7cdnq45E9aP2XDStHg5vd7) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [The Runaways](https://open.spotify.com/album/5DVNCzpvDrSEIFiU7hm8ey) | 2:18 | 2021-10-05 |  |
@@ -58,7 +60,8 @@
 | [In The Air Tonight \- 2015 Remastered](https://open.spotify.com/track/18AXbzPzBS8Y3AkgSxzJPb) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Face Value \(Deluxe Editon\)](https://open.spotify.com/album/1cM3r0WQZWNkCpEbmFjLln) | 5:36 | 2022-02-09 |  |
 | [In the End](https://open.spotify.com/track/60a0Rd6pjrkxjPbaKzXjfq) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Hybrid Theory \(Bonus Edition\)](https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM) | 3:36 | 2021-10-05 |  |
 | [Iron Man](https://open.spotify.com/track/4BWtaaeVIRsR5HgLfuJAB9) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [The Ultimate Collection](https://open.spotify.com/album/1mDCh37cVQHLjD6e27Id4x) | 5:54 | 2021-11-09 | 2022-07-29 |
-| [Iron Man \- 2012 \- Remaster](https://open.spotify.com/track/3IOQZRcEkplCXg6LofKqE9) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Paranoid \(Remaster\)](https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7) | 5:55 | 2021-11-09 |  |
+| [Iron Man](https://open.spotify.com/track/4svkPL62HbvyFgf0nHFXAF) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [The Ultimate Collection](https://open.spotify.com/album/6TcPqftScGmR0aEgIb43Vv) | 5:54 | 2021-11-09 |  |
+| [Iron Man \- 2012 \- Remaster](https://open.spotify.com/track/3IOQZRcEkplCXg6LofKqE9) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Paranoid \(Remaster\)](https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7) | 5:55 | 2021-11-09 | 2022-11-12 |
 | [Joker And The Thief](https://open.spotify.com/track/32icMuQ1S7huXf4Gv4EwHE) | [Wolfmother](https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4) | [Rock 2019](https://open.spotify.com/album/0jpoYCEF9y14GDcinqiaQF) | 4:39 | 2021-10-05 |  |
 | [Joker And The Thief](https://open.spotify.com/track/2yoCk1xYdULGPV1143r7CB) | [Wolfmother](https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4) | [Wolfmother](https://open.spotify.com/album/747qcmgpdnnIG6lIBwNKhO) | 4:40 | 2021-10-05 | 2022-07-29 |
 | [Joker And The Thief](https://open.spotify.com/track/7ISL3LO8AWP3fKIXunvqTa) | [Wolfmother](https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4) | [Wolfmother](https://open.spotify.com/album/5ywynDHLHT3l8QSu41TcmC) | 4:40 | 2021-10-05 | 2022-11-11 |
@@ -105,7 +108,8 @@
 | [School's Out](https://open.spotify.com/track/5Z8EDau8uNcP1E8JvmfkZe) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [School's Out](https://open.spotify.com/album/0zKjnOsXxs63unPR6TWoHq) | 3:30 | 2021-10-05 |  |
 | [Seether](https://open.spotify.com/track/1SY2vughwKmVPm1Lmf5Nl7) | [Veruca Salt](https://open.spotify.com/artist/2QwJQuBekTA4qF7N7uLHDP) | [American Thighs](https://open.spotify.com/album/5Mjt2iha5C99JBqTjJijg9) | 3:16 | 2021-10-05 |  |
 | [Seven Nation Army](https://open.spotify.com/track/3m6KkYKdnbffMpGd9Pm9FP) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Elephant](https://open.spotify.com/album/0rRNLpdA8nA8Sm8Fk490b9) | 3:51 | 2021-10-05 | 2022-07-29 |
-| [Seven Nation Army](https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Elephant](https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE) | 3:52 | 2021-10-05 |  |
+| [Seven Nation Army](https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Elephant](https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE) | 3:52 | 2021-10-05 | 2022-11-12 |
+| [Seven Nation Army](https://open.spotify.com/track/03OGe1S2a7i35BmuKbWaHk) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Seven Nation Army](https://open.spotify.com/album/2ntSwmOLAM0fMML87wtLKq) | 3:52 | 2021-10-05 |  |
 | [Sharp Dressed Man \- 2019 Remaster](https://open.spotify.com/track/5Wqhh9QKqZZmLjLdFLoW04) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Goin' 50](https://open.spotify.com/album/3iCffsNF6mYOY87PWhhqcp) | 4:12 | 2021-10-05 |  |
 | [She Sells Sanctuary](https://open.spotify.com/track/3qLZ866ZfaK0B0R5FIqXLG) | [The Cult](https://open.spotify.com/artist/49DW3KvkyjHO35mK1JnSyS) | [Love](https://open.spotify.com/album/2hallpchkYldMa5lGGf1Ko) | 4:12 | 2022-01-26 | 2022-02-10 |
 | [Sheena Is a Punk Rocker \- 2017 Remaster](https://open.spotify.com/track/61MZN0yyMWSEwrLPUUGfgJ) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Rocket to Russia \(40th Anniversary Deluxe Edition\)](https://open.spotify.com/album/7Jb0VtDTacuQdXM3pYyrbv) | 2:49 | 2021-10-05 |  |

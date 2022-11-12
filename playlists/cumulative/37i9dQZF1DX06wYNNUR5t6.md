@@ -4,7 +4,7 @@
 
 > Build the foundation of your day with this great list of inspired modern rock and hardcore songs!  Cover: Wolves At The Gate
 
-63 songs - 4 hr 1 min - [published](https://open.spotify.com/playlist/0qMMhfEEPvWBJQoaBQvSQq)
+64 songs - 4 hr 5 min - [published](https://open.spotify.com/playlist/0qMMhfEEPvWBJQoaBQvSQq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Breathe Again](https://open.spotify.com/track/6VGItaHKo3GC7I6Ky5S57b) | [Set for the Fall](https://open.spotify.com/artist/770Es4dWiuiq9sNiAdmXTr) | [Still Just Breathing](https://open.spotify.com/album/3o8qPT3byMsUolOB3915wZ) | 3:37 | 2021-04-10 | 2022-08-11 |
 | [Closer](https://open.spotify.com/track/5dVODyGWLMoBPlmgtm86PU) | [Silversyde](https://open.spotify.com/artist/6J0UNeDm5txVjvcI7Pxqz4) | [Casting Shadows](https://open.spotify.com/album/539lpEirrlTBHMsQHgSZzm) | 3:12 | 2021-04-10 |  |
 | [Cuff the Criminal](https://open.spotify.com/track/0J0sGVSqnssg1jfgEcYQrv) | [Disciple](https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO) | [Love Letter Kill Shot](https://open.spotify.com/album/6lcb1LKEbn5HF9Q6N9rOEY) | 3:32 | 2021-04-10 | 2022-07-29 |
-| [Cuff the Criminal](https://open.spotify.com/track/7DBd9nxx1EOivWRY3kYGZM) | [Disciple](https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO) | [Love Letter Kill Shot](https://open.spotify.com/album/41gjae4gxbBmKia3hQaHmM) | 3:32 | 2021-04-10 |  |
+| [Cuff the Criminal](https://open.spotify.com/track/7DBd9nxx1EOivWRY3kYGZM) | [Disciple](https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO) | [Love Letter Kill Shot](https://open.spotify.com/album/41gjae4gxbBmKia3hQaHmM) | 3:32 | 2021-04-10 | 2022-11-12 |
+| [Cuff the Criminal](https://open.spotify.com/track/7jXqscfS2bHSggVZuMLgZk) | [Disciple](https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO) | [Love Letter Kill Shot \(Deluxe\)](https://open.spotify.com/album/1Lhyp4ZNyqk9HqusUePZNK) | 3:32 | 2021-04-10 |  |
 | [Deep Waters](https://open.spotify.com/track/2qEla8ZQF3FN5l5ay89J9m) | [Adelaide](https://open.spotify.com/artist/69GrMdd7iMIjeRJxxJJ1nl) | [Strong and Brave](https://open.spotify.com/album/2qqoxqSsHfSYeKf3VzYdWM) | 3:24 | 2021-04-10 |  |
 | [Driftwood](https://open.spotify.com/track/2qLPxnOjFHilVIrZXZtMWQ) | [The Classic Crime](https://open.spotify.com/artist/4Y2ImQoh83EyhkbaJXmJr1) | [How to Be Human](https://open.spotify.com/album/6J9gRf2PpJL4pDsV5XwANi) | 4:21 | 2021-04-10 |  |
 | [Drive](https://open.spotify.com/track/1TBujZFt2bUwq7Vy7AsiUK) | [Archers Rise](https://open.spotify.com/artist/6ApaGLSpdoD84Z3g7pKIi4) | [Drive](https://open.spotify.com/album/6EDV8HpxLYt7LWbqFMr6th) | 4:40 | 2021-04-10 |  |

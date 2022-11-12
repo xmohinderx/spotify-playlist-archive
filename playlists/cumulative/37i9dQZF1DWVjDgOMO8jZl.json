@@ -1343,6 +1343,28 @@
     {
       "album": {
         "name": "TAXI DRIVER",
+        "url": "https://open.spotify.com/album/3mKwP54SGTWacqb1IakUDs"
+      },
+      "artists": [
+        {
+          "name": "Rkomi",
+          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
+        },
+        {
+          "name": "TOMMY DALI",
+          "url": "https://open.spotify.com/artist/0dus12DVjr0hoFaUDOz9B5"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146494,
+      "name": "SOLO CON ME (con TOMMY DALI)",
+      "url": "https://open.spotify.com/track/4oGM8IoI34tjt7v34MBqPx"
+    },
+    {
+      "album": {
+        "name": "TAXI DRIVER",
         "url": "https://open.spotify.com/album/4D04TN7Kw7Bq98kfDjUmgh"
       },
       "artists": [
@@ -1357,7 +1379,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 146494,
       "name": "SOLO CON ME (con TOMMY DALI)",
       "url": "https://open.spotify.com/track/6v03mGE1388jzs9Ufvivia"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDh4h59PJIQ.md) - [plain]
 
 > ¡Estos son los hits de la electrónica en el 2022!
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,035 likes - 150 songs - 7 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,415 likes - 150 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDh4h59PJIQ.md) - [plain]
 | 38 | [I Was Made For Lovin' You \(feat\. Nile Rodgers & House Gospel Choir\)](https://open.spotify.com/track/2LxdNADWier3MKTei8FbOY) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [House Gospel Choir](https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ) | [I Was Made For Lovin' You \(feat\. Nile Rodgers & House Gospel Choir\)](https://open.spotify.com/album/7rE2qU0GsiIiNd4VPupV3B) | 2:37 |
 | 39 | [Children](https://open.spotify.com/track/3PUnmXpIRfLa8yI9wfgJPC) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Robert Miles](https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0) | [Children](https://open.spotify.com/album/6GtPnONSzvxyWXkSTmLQiR) | 4:05 |
 | 40 | [Don't Start Now](https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Don't Start Now](https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp) | 3:03 |
-| 41 | [Pump It Up](https://open.spotify.com/track/4tcPIwy0UvLYjhXLrMyx89) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Pump It Up](https://open.spotify.com/album/5Y7ArkpG6klUEQuhTvEEpM) | 2:30 |
+| 41 | [Pump It Up](https://open.spotify.com/track/4TQbNIjJHci0ZxPJhdrm9I) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Pump It Up \(Black Caviar Remix\)](https://open.spotify.com/album/46qRJ74IcvW42IzNfegycb) | 2:30 |
 | 42 | [Feel Your Love](https://open.spotify.com/track/4h4c2nt7wTFLn0OYVDWOHC) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Edward Maya](https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq) | [Feel Your Love](https://open.spotify.com/album/6NarQFpErQAqgw7Lzv9SXp) | 3:12 |
 | 43 | [Belly Dancer](https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [BYOR](https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R) | [Belly Dancer](https://open.spotify.com/album/2npvQTpyjLtapBWTNTNlqn) | 2:31 |
 | 44 | [Tell Me Why](https://open.spotify.com/track/0qEW1d0ENwecqiAZTK4Uel) | [Elektrik Disko](https://open.spotify.com/artist/4Gi9MmIJNSFVf2TZWnFpeG) | [Tell Me Why](https://open.spotify.com/album/6rOvIunCKf3WHLmN5EwFZo) | 3:03 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDh4h59PJIQ.md) - [plain]
 | 149 | [Thunder](https://open.spotify.com/track/2USlegnFJLrVLpoVfPimKB) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr) | [Thunder](https://open.spotify.com/album/35Q09Y0b7ZxOoCdF7sBiGf) | 2:40 |
 | 150 | [Paradise \(feat\. Dermot Kennedy\)](https://open.spotify.com/track/6ft4hAq6yde8jPZY2i5zLr) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Paradise](https://open.spotify.com/album/15sy3XQFShOFiDpKoxByyA) | 2:47 |
 
-Snapshot ID: `MTY2MDMzNzUwMiwwMDAwMDAwMDZiZmRhYjRjMmZhZmE5YmFjMGQ5M2RlOGM5ZDQ3OTM4`
+Snapshot ID: `MTY2MDMzNzUwMiwwMDAwMDAwMDkyNjdhNGMyNjUzNmNhYjY5OGNiNWQ4NjM5ZDhkMTY1`

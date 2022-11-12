@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08mhnhv6g9b.md) - [plain]
 
 > This is the PROOF of BTS history\. ARMY is unbeatable💜
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,144,347 likes - 292 songs - 17 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,146,704 likes - 292 songs - 17 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,7 +135,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08mhnhv6g9b.md) - [plain]
 | 125 | [Go Go](https://open.spotify.com/track/5vOT8VO87TAnUjh0oADwb1) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 承 'Her'](https://open.spotify.com/album/07Rq17GzCnIdWJcyVHb57G) | 3:55 |
 | 126 | [Outro: Her](https://open.spotify.com/track/559U79ujLJSP6OUyH2nGLl) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 承 'Her'](https://open.spotify.com/album/07Rq17GzCnIdWJcyVHb57G) | 3:48 |
 | 127 | [Go Go](https://open.spotify.com/track/5vOT8VO87TAnUjh0oADwb1) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 承 'Her'](https://open.spotify.com/album/07Rq17GzCnIdWJcyVHb57G) | 3:55 |
-| 128 | [dimple](https://open.spotify.com/track/6pp6xf9zS55GD4nr318XUH) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 承 'Her'](https://open.spotify.com/album/07Rq17GzCnIdWJcyVHb57G) | 3:16 |
+| 128 | [Dimple](https://open.spotify.com/track/1rLkzFZdokhx6Wcs80uvnw) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 結 'Answer'](https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y) | 3:16 |
 | 129 | [Come Back Home](https://open.spotify.com/track/5dEaQCUCJIQyJs5qVZYXOC) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Come Back Home](https://open.spotify.com/album/1G3HTdPaeUIL6l3mo3q8N8) | 4:04 |
 | 130 | [Intro: Boy Meets Evil](https://open.spotify.com/track/2j9ipQhjMruvvqN2azJgtF) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [You Never Walk Alone](https://open.spotify.com/album/6THpewjqJ15ORBJkh5CEYb) | 2:01 |
 | 131 | [Blood Sweat & Tears](https://open.spotify.com/track/0Yqr9qtmhjYPUtsFB04g9R) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [You Never Walk Alone](https://open.spotify.com/album/6THpewjqJ15ORBJkh5CEYb) | 3:37 |
@@ -301,4 +301,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08mhnhv6g9b.md) - [plain]
 | 291 | [Permission to Dance \- R&B Remix](https://open.spotify.com/track/3IGM6ph0w2fERLlyQtBoQt) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Permission to Dance](https://open.spotify.com/album/5ExDI42RCtISkQXAgv8dtZ) | 3:36 |
 | 292 | [My Universe \- Supernova 7 Mix](https://open.spotify.com/track/6Lgbf4b6c9fwz24eFEWONX) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [My Universe](https://open.spotify.com/album/6iVS1t7wQUHItUnCxH7epG) | 4:39 |
 
-Snapshot ID: `MTY2Nzc5NTA0MiwwMDAwMDAwMDU2NTE1YjhiZDY3NmVlNTYzZmRlZmM4NDZlYWI1ODg0`
+Snapshot ID: `MTY2Nzc5NTA0MiwwMDAwMDAwMDJkOGMyOWU3ZWJiMGM0ZGQ3YTczMWJjMDNmYjVjMDAx`

@@ -2,9 +2,9 @@
 
 ### [Los Que Mandan](https://open.spotify.com/playlist/37i9dQZF1DXb0COFso7q0D)
 
-> The playlist sin fronteras\. Cover: Grupo Los de La O & Ivan Cornejo
+> The playlist sin fronteras\. Cover: Grupo Firme y Joss Favela
 
-232 songs - 12 hr 17 min - [published](https://open.spotify.com/playlist/0V871kSfrlE3mK4NJAUl7m)
+234 songs - 12 hr 24 min - [published](https://open.spotify.com/playlist/0V871kSfrlE3mK4NJAUl7m)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Buena Vibra](https://open.spotify.com/track/6Y2qNukfWKFGbAv2iONhvy) | [Jose Villarreal](https://open.spotify.com/artist/02qtde8veYObRnk68N35sP) | [Buena Vibra](https://open.spotify.com/album/3mnkgCAgh8lwjzMkGxHGw1) | 3:13 | 2021-12-21 | 2022-03-18 |
 | [Buenas Vibras](https://open.spotify.com/track/59RDOIHszAvUmJdnnV1x13) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Don Esteban](https://open.spotify.com/album/4TdFGG8K4OW4O0e8G6udtr) | 3:03 | 2021-12-21 | 2022-03-12 |
 | [Bájale](https://open.spotify.com/track/1LOLsJKiqBjgVg0HWAcfpF) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Consejos Gratis](https://open.spotify.com/album/10e10cYupx3U37Efv5691A) | 2:42 | 2022-10-21 | 2022-11-05 |
-| [Cada Quien](https://open.spotify.com/track/5BE9B2FiFWBbBdoIQ1m1UP) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Cada Quien](https://open.spotify.com/album/5cyWGgkGniYOaNkKrPOy1p) | 3:17 | 2021-12-21 |  |
+| [Cada Quien](https://open.spotify.com/track/5BE9B2FiFWBbBdoIQ1m1UP) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Cada Quien](https://open.spotify.com/album/5cyWGgkGniYOaNkKrPOy1p) | 3:17 | 2021-12-21 | 2022-11-12 |
 | [Calidad](https://open.spotify.com/track/0uBcoM4zxRXk7kmsmxoiFS) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Luis Mexia](https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC) | [Calidad](https://open.spotify.com/album/2ZaaYylAxHJ6sPJe9mHwHb) | 2:50 | 2022-07-22 |  |
 | [Caso Perdido](https://open.spotify.com/track/4YXY87glxNwyzpT3dJ1DyD) | [Polo Gonzalez](https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6) | [Un Album Sencillo](https://open.spotify.com/album/3v0EO4EsCPW8nZiqwbVVZH) | 2:15 | 2021-12-21 | 2022-01-08 |
 | [Cerrando Ciclos](https://open.spotify.com/track/3fBJNawfhtgCmo58trRK2z) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [El Trabajo Es La Suerte](https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk) | 3:15 | 2022-01-28 | 2022-04-02 |
@@ -108,9 +108,10 @@
 | [Infeliz](https://open.spotify.com/track/1HfkiyazS6licNey0lz01N) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Perdido En Ti](https://open.spotify.com/album/6DXKFFQcoS3ovfQVzj26fg) | 3:19 | 2022-01-28 | 2022-02-24 |
 | [Inseparables](https://open.spotify.com/track/57GWBz1UtT6iei1jrbkovI) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A), [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Inseparables](https://open.spotify.com/album/31DfpAhFnPyIXUZFWdu32y) | 2:51 | 2022-10-07 |  |
 | [J.](https://open.spotify.com/track/4lUsBLTAiufWocWtg4H0my) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Dañado](https://open.spotify.com/album/1i5VsPI1sXn847oHyXyZCh) | 3:54 | 2022-08-26 |  |
-| [Jalo](https://open.spotify.com/track/7b6XzXDscAvlxofcXveZIz) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Jalo](https://open.spotify.com/album/5ItVyjlKmm3vm9bJUBgKPc) | 2:25 | 2022-08-26 |  |
+| [Jalo](https://open.spotify.com/track/7b6XzXDscAvlxofcXveZIz) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Jalo](https://open.spotify.com/album/5ItVyjlKmm3vm9bJUBgKPc) | 2:25 | 2022-08-26 | 2022-11-12 |
 | [JGL](https://open.spotify.com/track/5kpxVMDvYGRmNqawPqDTYR) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [JGL](https://open.spotify.com/album/1VwBEj5qv0cbe78LJmANhW) | 2:38 | 2022-03-11 |  |
 | [Jugaste y Sufrí](https://open.spotify.com/track/3NqBxTOMCJ3zW9CIP51td4) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Corta Venas](https://open.spotify.com/album/7C8Wi2KmO6MqPYZqNuhZ1W) | 4:35 | 2021-12-21 | 2022-02-26 |
+| [La Bailadora](https://open.spotify.com/track/1kKfwNFyWF2qN3vjE4H58p) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [La Bailadora](https://open.spotify.com/album/71xDJEFLh2ud9bMWNi9wLI) | 3:28 | 2022-11-11 |  |
 | [La Bicicleta](https://open.spotify.com/track/4IMcI4zguv2V9g1DHbK98T) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [La Bicicleta](https://open.spotify.com/album/10B51Bzh7TxUcm3t08GpQ1) | 3:45 | 2022-04-15 | 2022-07-02 |
 | [La Boda Del Huitlacoche \- Live](https://open.spotify.com/track/1Tcm4Qi0lbzXofH11MIzJs) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Borrachera Con Los Honorables \(Live\)](https://open.spotify.com/album/6dvpGPwp36h1DYPUbp2dmv) | 3:08 | 2022-05-06 |  |
 | [La Cabrona](https://open.spotify.com/track/5yNk9vdrUkNzUuAsElwd2k) | [Michelle BI](https://open.spotify.com/artist/2dUVZnenljNsORRkO4OnzM) | [La Cabrona](https://open.spotify.com/album/4Vq7B4CKTu6pHH1BxX8l75) | 2:31 | 2022-03-04 | 2022-04-02 |
@@ -228,6 +229,7 @@
 | [Vamos Para Arriba](https://open.spotify.com/track/7cZoAjj5vufdREBJZGW2lH) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Vamos Para Arriba](https://open.spotify.com/album/0vzPpFmWik8bxZ7GSvOD37) | 2:52 | 2022-09-09 |  |
 | [Vivo en el 6](https://open.spotify.com/track/3afafgQst7OyR2d7vPbJTM) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Vivo en el 6](https://open.spotify.com/album/11z6QHC7vKHwAbwpzV7Xsz) | 3:12 | 2022-05-06 | 2022-07-02 |
 | [Y Así Fue](https://open.spotify.com/track/6rmVv5Nh80OfI8qWxHiyY2) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Soy Lo Que Quiero..\. Indispensable \(Edición Especial\)](https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb) | 2:46 | 2022-07-08 | 2022-08-20 |
+| [Y Si Me Miran](https://open.spotify.com/track/1WHml9IbQkFUtVz8ZXEkUb) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Y Si Me Miran](https://open.spotify.com/album/4nYKIcuFytcL6fFXrWFO5R) | 3:33 | 2022-11-11 |  |
 | [Y Si Se Quiere Ir](https://open.spotify.com/track/6b68vfUlXy2i2dO79z3h5W) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [Y Si Se Quiere Ir](https://open.spotify.com/album/1TGGJG87FFJsLFkILRN1Dc) | 3:07 | 2022-01-21 | 2022-07-23 |
 | [Ya Acabo](https://open.spotify.com/track/4H3t8C59tXjKf1R2iKtc5M) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [DEV, Vol\. 2](https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU) | 3:09 | 2021-12-21 | 2022-04-29 |
 | [Ya acabó \- Con Becky G](https://open.spotify.com/track/0OPiOIAyw2FUjKm8PXBGhq) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Ya acabó \(Con Becky G\)](https://open.spotify.com/album/6XZejfd76Y8JU23nnaVDTc) | 2:56 | 2022-04-29 | 2022-10-15 |

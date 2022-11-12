@@ -1,12 +1,12 @@
 {
   "description": "Instant classics from over the years loaded into one sweet mix.",
-  "num_followers": 3779776,
+  "num_followers": 3780191,
   "original_name": "Acoustic Hits: Oldies but Goodies",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzI5NjI0OSwwMDAwMDAwMGFhMDI5NzFhMDVjOTAwMzc4ZDkzYjA1NDRkMjJiYWIx",
+  "snapshot_id": "MTY0MzI5NjI0OSwwMDAwMDAwMGRlNzY0NzVhYjA5NTAyNmM0M2UzNmI1MzIzY2NjN2Q2",
   "tracks": [
     {
       "added_at": "2022-01-27 15:10:49",
@@ -679,22 +679,6 @@
     {
       "added_at": "2022-01-27 15:10:49",
       "album": {
-        "name": "Stop All The World Now",
-        "url": "https://open.spotify.com/album/0bQBS1GmZ2sqbHcqiQnldn"
-      },
-      "artists": [
-        {
-          "name": "Howie Day",
-          "url": "https://open.spotify.com/artist/0ekbDNE2eOq8QiaXM34wer"
-        }
-      ],
-      "duration_ms": 249120,
-      "name": "Collide",
-      "url": "https://open.spotify.com/track/6dwkFmLUz6hx2CZG2EqLol"
-    },
-    {
-      "added_at": "2022-01-27 15:10:49",
-      "album": {
         "name": "Vault Volume 1",
         "url": "https://open.spotify.com/album/0dICqPiSgbmRRRqWAT0XKk"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 178146,
       "name": "Sympathy",
       "url": "https://open.spotify.com/track/5fIrBv7PrI2MBcktQOcmpI"
+    },
+    {
+      "added_at": "2022-01-27 15:10:49",
+      "album": {
+        "name": "Hozier",
+        "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 241693,
+      "name": "Take Me to Church",
+      "url": "https://open.spotify.com/track/0aOluBqXYd0rFSCsgDyAWX"
     },
     {
       "added_at": "2022-01-27 15:10:49",

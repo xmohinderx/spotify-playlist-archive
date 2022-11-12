@@ -4,7 +4,7 @@
 
 > Lo mejor del hip hop español\. Foto: Natos y Waor
 
-163 songs - 9 hr 2 min - [published](https://open.spotify.com/playlist/6HU8sOAPcOoaf1vF1QQHTH)
+164 songs - 9 hr 4 min - [published](https://open.spotify.com/playlist/6HU8sOAPcOoaf1vF1QQHTH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,8 @@
 | [Reproches](https://open.spotify.com/track/7aKXQCV7TaA56bnhXTxJFn) | [Ayax y Prok](https://open.spotify.com/artist/5Ypafuz95Xk09YDf4tgAvU) | [Reproches](https://open.spotify.com/album/2z4I2HXUaqMlxprZfXJ0qe) | 4:33 | 2022-07-19 |  |
 | [Russia](https://open.spotify.com/track/0SbIXLGtSyvOTzyF8DSPxE) | [Al Safir](https://open.spotify.com/artist/5NzCASNJVvcPW4uGwMRlPl), [VELA INFAMOUS](https://open.spotify.com/artist/6krSTvZ7LDOpSgT0lR7BPL), [Zamoranobeatz](https://open.spotify.com/artist/2mlNwgkCqA36IEpjtFiClM) | [Russia](https://open.spotify.com/album/1hc3dk3zIXpbdoMzFpi9Ne) | 2:46 | 2022-07-14 | 2022-08-05 |
 | [Salgo pa la calle](https://open.spotify.com/track/1yvTWgoRs6DTMzC6nKa6xb) | [Ayax y Prok](https://open.spotify.com/artist/5Ypafuz95Xk09YDf4tgAvU), [Blasfem](https://open.spotify.com/artist/4FActBvkmDc8h3sI5vbMPZ) | [Salgo pa la calle](https://open.spotify.com/album/73W1l6Mm0T2R6uVsWZz6bq) | 2:21 | 2022-01-21 | 2022-07-29 |
-| [Salgo pa la calle](https://open.spotify.com/track/2LG7Z8Izey6MTCmLIOWmqG) | [Ayax y Prok](https://open.spotify.com/artist/5Ypafuz95Xk09YDf4tgAvU), [Blasfem](https://open.spotify.com/artist/4FActBvkmDc8h3sI5vbMPZ) | [Le cri de la Rue](https://open.spotify.com/album/5TnrJ9WC8HVWexiNoLVaFx) | 2:21 | 2022-07-19 |  |
+| [Salgo pa la calle](https://open.spotify.com/track/2LG7Z8Izey6MTCmLIOWmqG) | [Ayax y Prok](https://open.spotify.com/artist/5Ypafuz95Xk09YDf4tgAvU), [Blasfem](https://open.spotify.com/artist/4FActBvkmDc8h3sI5vbMPZ) | [Le cri de la Rue](https://open.spotify.com/album/5TnrJ9WC8HVWexiNoLVaFx) | 2:21 | 2022-07-19 | 2022-11-12 |
+| [Salgo pa la calle](https://open.spotify.com/track/7BG3AtRNrkv6L27kkeCaaN) | [Ayax y Prok](https://open.spotify.com/artist/5Ypafuz95Xk09YDf4tgAvU), [Blasfem](https://open.spotify.com/artist/4FActBvkmDc8h3sI5vbMPZ) | [Salgo pa la calle](https://open.spotify.com/album/2JVR4R1BKK9H89b3jaDTI1) | 2:21 | 2022-11-08 |  |
 | [Salud y Libertad \- Con Foyone & Sceno](https://open.spotify.com/track/7HCFiXqUki7Fw4g2n86ZuC) | [Kase.O](https://open.spotify.com/artist/7GmXwGXJSsmWTkCyk5Twux), [Foyone](https://open.spotify.com/artist/1F2erLLqRHbaFvEYHeVIHJ), [Sceno](https://open.spotify.com/artist/75CrPxuxEtojeIeFidQeMH) | [Salud y Libertad \(Con Foyone & Sceno\)](https://open.spotify.com/album/3v4tDInGa9kz3roi9rydCj) | 3:42 | 2022-09-16 | 2022-10-04 |
 | [Santo](https://open.spotify.com/track/06OhdnxdHRkRT39NleZJbs) | [Delaossa](https://open.spotify.com/artist/5Uox3n7m4W2CoM9MmHPJwQ) | [Santo](https://open.spotify.com/album/7rTvzzeBjnbK9c6kUzV4m8) | 3:43 | 2022-05-05 | 2022-06-22 |
 | [Septiembre](https://open.spotify.com/track/2vitZ5fxaFmnYmzrzWooaV) | [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw) | [Luna llena](https://open.spotify.com/album/7wgNRpq6MqrRHGRKUaUZTu) | 3:39 | 2022-09-16 | 2022-10-29 |

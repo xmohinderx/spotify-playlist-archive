@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIAgtZV6kbs.md) - [plain]
 
 > ついにシリーズ完結！最新作映画『シン・エヴァンゲリオン劇場版』公開記念『エヴァンゲリオン』シリーズの音楽をプレイリストで！（C）カラー
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,171 likes - 96 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,312 likes - 96 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIAgtZV6kbs.md) - [plain]
 | 2 | [The Cruel Angel's Thesis](https://open.spotify.com/track/1QFPI3slA71XOdiBV5qti1) | [Yoko Takahashi](https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t) | [Evangelion Finally](https://open.spotify.com/album/3MRZ3T8TutKAlQK0d7mqho) | 4:06 |
 | 3 | [euro nerv](https://open.spotify.com/track/4C9gTP0CqhPtU7GIjiRNWj) | [Shiro Sagisu](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [EVANGELION INFINITY](https://open.spotify.com/album/4ljzknLJLgvVsjhAAUGgMG) | 1:27 |
 | 4 | [Strategie "Yashima"](https://open.spotify.com/track/72C0QGw41D3nU0nFAKIQ52) | [Shiro Sagisu](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [Evangelion: 1.0 You Are \(Not\) Alone \(Original Soundtrack Album\)](https://open.spotify.com/album/32A2KzzXniYR82EbtmGINq) | 2:25 |
-| 5 | [Beautiful World](https://open.spotify.com/track/6aOoUkiQ9rLweL8IkPBN0L) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [HEART STATION](https://open.spotify.com/album/4sTehljxd3DNsjHWx3a64L) | 5:17 |
+| 5 | [Beautiful World \- Remastered 2018](https://open.spotify.com/track/05MQ4sk9AmKxbZinu6JCdX) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [ANIME KIDS](https://open.spotify.com/album/1ujdwGwEq3edJaMT4ti4LN) | 5:17 |
 | 6 | [Contre Les Agressions](https://open.spotify.com/track/48CGhrIRMW3KBI94XjGgEa) | [Shiro Sagisu](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [Evangelion: 1.0 You Are \(Not\) Alone \(Original Soundtrack Album\)](https://open.spotify.com/album/32A2KzzXniYR82EbtmGINq) | 2:01 |
 | 7 | [Fly Me To The Moon \(In Other Words\) \- 2007 MIX / 2021 Remastered](https://open.spotify.com/track/0taRUXiwcaiJEWncOvnFyR) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [Fly Me To The Moon \(In Other Words\) \[2007 MIX / 2021 Remastered\]](https://open.spotify.com/album/2YBdzd2eOvci1nJAQz6nHS) | 3:24 |
 | 8 | [翼をください](https://open.spotify.com/track/2CYFFxqdK9wFcpUmSc2g82) | [Megumi Hayashibara](https://open.spotify.com/artist/53e5Lp1qdqsYgfGL9YuW5p) | [ヱヴァンゲリヲン新劇場版:破 オリジナルサウンドトラック](https://open.spotify.com/album/1p5uj4RXumV3nL3GnMohrP) | 4:50 |
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIAgtZV6kbs.md) - [plain]
 | 18 | [F02\_Take01\_EWS\_Amano&Kosei](https://open.spotify.com/track/4rq1ZWQ2LHu9Mx3glfbIe1) | [ヱヴァンゲリヲン新吹奏楽版](https://open.spotify.com/artist/3sVX9uIB7QPe9697OBtbXY) | [ヱヴァンゲリヲン新吹奏楽版:其の2](https://open.spotify.com/album/0SzGPBv99g5BV56tpTNNf6) | 2:14 |
 | 19 | [KOMM, SUSSER TOD \- M\-10 Director's Edit Version](https://open.spotify.com/track/3gy29plS7bgjmYfgfGGwgE) | [fantasy](https://open.spotify.com/artist/3jcjyxkrisZ1dxNuQyMFyO) | [KOMM, SUSSER TOD \- M\-10 Director's Edit Version](https://open.spotify.com/album/3hZAOa09G6paCElkWgyuSe) | 7:46 |
 | 20 | [Beautiful World \- PLANiTb Acoustica Mix](https://open.spotify.com/track/2X5WNn3nHqFhihs8TtulVc) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [Beautiful World \(PLANiTb Acoustica Mix\)](https://open.spotify.com/album/6LHMXCOJ4eWGuTPsotVQu1) | 5:09 |
-| 21 | [今日の日はさようなら](https://open.spotify.com/track/2SsjrvkdZMqkU9DNgQGqIz) | [Megumi Hayashibara](https://open.spotify.com/artist/53e5Lp1qdqsYgfGL9YuW5p) | [ヱヴァンゲリヲン新劇場版:破 オリジナルサウンドトラック](https://open.spotify.com/album/1p5uj4RXumV3nL3GnMohrP) | 2:43 |
+| 21 | [KYOU NO HI WA SAYOUNARA](https://open.spotify.com/track/4lmWXO1Zznr8HVok0vZWLp) | [Megumi Hayashibara](https://open.spotify.com/artist/53e5Lp1qdqsYgfGL9YuW5p) | [Evangelion Finally](https://open.spotify.com/album/3MRZ3T8TutKAlQK0d7mqho) | 2:43 |
 | 22 | [THANATOS \-IF I CAN'T BE YOURS\-](https://open.spotify.com/track/1yoLVeLcgVzPUB4b4gd01R) | [LOREN&MASH](https://open.spotify.com/artist/4z5h4q18iemiP694wTaPDb) | [魂のルフラン/THANATOS \-IF I CAN'T BE YOURS\-](https://open.spotify.com/album/69UM5insSJZYJr69OuHyP2) | 4:50 |
 | 23 | [QuatreMains\_miyagi\_kita](https://open.spotify.com/track/0oyp6WcRJBn2Xoe6FSc1zs) | [Shiro Sagisu](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [EVANGELION Piano Forte](https://open.spotify.com/album/2y6cButHaOhgKxGPjiwIn2) | 2:21 |
 | 24 | [Gods Gift =3EM31=](https://open.spotify.com/track/1OOJbyS3JmALkegYUBmUqq) | [Shiro Sagisu](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [Shiro SAGISU Music from "EVANGELION 3.0"YOU CAN \(NOT\)REDO.](https://open.spotify.com/album/78BrgzadRuj57mDpBnd2dp) | 5:00 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIAgtZV6kbs.md) - [plain]
 | 56 | [Lucifer's Cry](https://open.spotify.com/track/3Bp0ejAD92EY3Vu8kmNbDa) | [Shiro Sagisu](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [Evangelion: 1.0 You Are \(Not\) Alone \(Original Soundtrack Album\)](https://open.spotify.com/album/32A2KzzXniYR82EbtmGINq) | 2:46 |
 | 57 | [The Longest Day III \(2007\)](https://open.spotify.com/track/6Xm8d9HBP92vjnqUNQofrg) | [Shiro Sagisu](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [EVANGELION INFINITY](https://open.spotify.com/album/4ljzknLJLgvVsjhAAUGgMG) | 2:17 |
 | 58 | [Danse des Lucioles](https://open.spotify.com/track/6Ns9v4uTilox4ez3uorJAV) | [Shiro Sagisu](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [Evangelion: 1.0 You Are \(Not\) Alone \(Original Soundtrack Album\)](https://open.spotify.com/album/32A2KzzXniYR82EbtmGINq) | 1:48 |
-| 59 | [Bataille Decisive](https://open.spotify.com/track/1nXyvki4ZKc0UaPNJcIAmm) | [Shiro Sagisu](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [Evangelion: 1.0 You Are \(Not\) Alone \(Original Soundtrack Album\)](https://open.spotify.com/album/32A2KzzXniYR82EbtmGINq) | 4:44 |
+| 59 | [Battaille Decisive \(2007\)](https://open.spotify.com/track/6oyccEIbvlM8xO1atU38fF) | [Shiro Sagisu](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [EVANGELION INFINITY](https://open.spotify.com/album/4ljzknLJLgvVsjhAAUGgMG) | 4:49 |
 | 60 | [Rei\-Opus V](https://open.spotify.com/track/4qTEtgqsduWNmXPvMsfwMS) | [Shiro Sagisu](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [Evangelion: 1.0 You Are \(Not\) Alone \(Original Soundtrack Album\)](https://open.spotify.com/album/32A2KzzXniYR82EbtmGINq) | 2:59 |
 | 61 | [EM21\_Premix\#070705](https://open.spotify.com/track/1bhcXrv5J7q3cae3JQBRuL) | [Shiro Sagisu](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [ヱヴァンゲリヲン新劇場版:序 オリジナルサウンドトラック](https://open.spotify.com/album/42IbFUaAvDHBJTo1ujxlCG) | 3:50 |
 | 62 | [In My Spirit](https://open.spotify.com/track/3JSX9vCJ6qHrfaKhkiLbhD) | [Shiro Sagisu](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [Shiro SAGISU Music from "EVANGELION 2.0" YOU CAN \(NOT\) ADVANCE.](https://open.spotify.com/album/1Etq7R0V6TLzRfUXOPwAwc) | 3:14 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIAgtZV6kbs.md) - [plain]
 | 95 | [世界は二人のために](https://open.spotify.com/track/1vWHMOsvrlwYp0X1rQyXpv) | [Naomi Sagara](https://open.spotify.com/artist/5hIYzEi9gBUCXOmrhV6M04) | [ゴールデン☆ベスト デラックス・58](https://open.spotify.com/album/0x5I0Ep6Qplcp7xQwyshrI) | 3:49 |
 | 96 | [人生を語らず](https://open.spotify.com/track/1zDPaZJxf4zbNPThFqjqu8) | [Takuro Yoshida](https://open.spotify.com/artist/7uv8wNS8ConwlmWKpP8Lz7) | [今はまだ人生を語らず\-1](https://open.spotify.com/album/2uhkQC2DTj5dtAM5wmi9t2) | 4:33 |
 
-Snapshot ID: `MTYzMDQyMjAwMCwwMDAwMDAwMGU1NDU5MzZhN2RlZmQ3NTg5ZTE5M2Y3MjA2MWY0MTM4`
+Snapshot ID: `MTYzMDQyMjAwMCwwMDAwMDAwMDRkNDA3YzcxMThhMTM4ZjBjOWYwNjkyMmUzMDUwNTBm`

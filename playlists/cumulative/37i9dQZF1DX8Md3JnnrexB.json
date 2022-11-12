@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 163755,
       "name": "(Sittin' On) the Dock of the Bay",
       "url": "https://open.spotify.com/track/3zBhihYUHBmGd2bcQIobrF"
@@ -1375,7 +1375,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 326506,
       "name": "Dreamin'",
       "url": "https://open.spotify.com/track/3jQCcmUSBL21Z8Csp96Y9Q"
@@ -1415,7 +1415,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 210546,
       "name": "Easy",
       "url": "https://open.spotify.com/track/4k6eg0pf9IeopgOREVkj5T"
@@ -1705,7 +1705,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 255173,
       "name": "Float On - Single Version",
       "url": "https://open.spotify.com/track/4kxDa9niTJIyh89afKjpCR"
@@ -1723,7 +1723,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 298946,
       "name": "For You",
       "url": "https://open.spotify.com/track/5LvUhG3juSj0TnCoHifKd7"
@@ -1795,7 +1795,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 276733,
       "name": "Get Here",
       "url": "https://open.spotify.com/track/1KT3ndndHOGXePgC4o0Jq9"
@@ -1853,7 +1853,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 230626,
       "name": "Got to Be There",
       "url": "https://open.spotify.com/track/2FtmoFvYo1zBsoxqchpzJC"
@@ -1961,7 +1961,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-22",
+      "date_removed": null,
       "duration_ms": 180523,
       "name": "Grow",
       "url": "https://open.spotify.com/track/2EP9mL8wwfq1RJ7oYkndCe"
@@ -1979,7 +1979,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 180523,
       "name": "Grow",
       "url": "https://open.spotify.com/track/2YyVFxsdtALHVaEJPC8mbA"
@@ -2427,7 +2427,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 236773,
       "name": "I'll Make Love To You",
       "url": "https://open.spotify.com/track/61sQYdFNS6sEBYCyr1q5gn"
@@ -2919,7 +2919,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 233373,
       "name": "Kisses in the Moonlight - 2015 GH Version",
       "url": "https://open.spotify.com/track/7GJMTH4HaeE0BGCnrBzLLs"
@@ -3485,7 +3485,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 279333,
       "name": "Midnight Train to Georgia",
       "url": "https://open.spotify.com/track/7MF7QAodbGzNYav5ZfIhAY"
@@ -3659,7 +3659,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 173306,
       "name": "My Cherie Amour",
       "url": "https://open.spotify.com/track/5ZoDwIP1ntHwciLjydJ8X2"
@@ -3695,10 +3695,28 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 165000,
       "name": "My Girl",
       "url": "https://open.spotify.com/track/745H5CctFr12Mo7cqa1BMH"
+    },
+    {
+      "album": {
+        "name": "Love Songs & Chill",
+        "url": "https://open.spotify.com/album/7oHVRFtPa3Tf6h8AAqczOK"
+      },
+      "artists": [
+        {
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175706,
+      "name": "My Girl - Single Version/Mono",
+      "url": "https://open.spotify.com/track/7sMjzdbSUuhcJIFdR3D8pS"
     },
     {
       "album": {
@@ -4171,7 +4189,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-14",
+      "date_removed": null,
       "duration_ms": 468653,
       "name": "Quiet Storm",
       "url": "https://open.spotify.com/track/1JhpdM2PtIsKC0lrBTPSAK"
@@ -4513,7 +4531,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 178933,
       "name": "So in Love with You",
       "url": "https://open.spotify.com/track/7yLQMOBHYEkFkFQcEoNEpR"
@@ -4817,7 +4835,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 262266,
       "name": "Sweet Love",
       "url": "https://open.spotify.com/track/4xVXe1VS5zlQyECVk6GRrL"

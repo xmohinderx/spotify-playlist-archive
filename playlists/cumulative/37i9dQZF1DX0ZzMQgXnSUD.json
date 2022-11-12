@@ -452,6 +452,36 @@
     },
     {
       "album": {
+        "name": "God Save The Queen: Music for Remembrance",
+        "url": "https://open.spotify.com/album/6TuPl0MgjmapuaKF8RPmEP"
+      },
+      "artists": [
+        {
+          "name": "Antonio Vivaldi",
+          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
+        },
+        {
+          "name": "Andreas Scholl",
+          "url": "https://open.spotify.com/artist/2LnE7uKchgVW2Uv7vzwixZ"
+        },
+        {
+          "name": "Australian Brandenburg Orchestra",
+          "url": "https://open.spotify.com/artist/7bgFF4zaVhszPXXynAENpi"
+        },
+        {
+          "name": "Paul Dyer",
+          "url": "https://open.spotify.com/artist/0RNKUNnZLg1MdRPC37YG3I"
+        }
+      ],
+      "date_added": "2022-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308986,
+      "name": "Nisi Dominus (Psalm 126), R.608: 4. \"Cum dederit\" (Andante)",
+      "url": "https://open.spotify.com/track/6tkRWP0R9sSyocowLGXZPH"
+    },
+    {
+      "album": {
         "name": "Vivaldi: Nisi Dominus; Concerto for Strings & Continuo in F etc.",
         "url": "https://open.spotify.com/album/1aax2xvWBA7z6DnhONGG8E"
       },
@@ -475,7 +505,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 309200,
       "name": "Nisi Dominus (Psalm 126), R.608: 4. \"Cum dederit\" (Andante)",
       "url": "https://open.spotify.com/track/0crY7pPfWKmVzMW03UWN0O"

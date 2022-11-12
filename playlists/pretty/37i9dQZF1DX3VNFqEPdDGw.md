@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3VNFqEPdDGw.md) - [plain]
 
 > Bold bops from Ludhiana to London\. Cover: Sidhu Moose Wala.
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,562 likes - 53 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,593 likes - 53 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Youngest In Charge](https://open.spotify.com/track/2V52mICuJnWB3C4lrJZd7v) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Sunny Malton](https://open.spotify.com/artist/2ScEhgArBEdKyU4vNHSyiY) | [Youngest In Charge](https://open.spotify.com/album/1vgjx6xmhIKGa5eiKeJvSB) | 3:18 |
 | 2 | [Top Notch Gabru](https://open.spotify.com/track/5ACacHdqtOjENeTgh4qfmy) | [Vicky](https://open.spotify.com/artist/7zCChitz4Xn1O7OqXjOhhR) | [Top Notch Gabru](https://open.spotify.com/album/00ZQAJAlj1QPNEm8hfHJDG) | 2:38 |
-| 3 | [Babe Bhangra Paunde Ne \(From "Babe Bhangra Paunde Ne"\)](https://open.spotify.com/track/1whtXubWCdWMhvZiymscRH) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Avvy Sra](https://open.spotify.com/artist/1vKd2cgDOiLcV5YA5uy7GG), [Simmu Dhillon](https://open.spotify.com/artist/4YW1vkeLrmK8sf48aT9HeP) | [Babe Bhangra Paunde Ne \(From "Babe Bhangra Paunde Ne"\) \- Single](https://open.spotify.com/album/0p1TPVG9FeMFXXV9CXvq2e) | 1:54 |
+| 3 | [Babe Bhangra Paunde Ne](https://open.spotify.com/track/3mSTEc5jfuaQ6Hz3uXPlTV) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Simmu Dhillon](https://open.spotify.com/artist/4YW1vkeLrmK8sf48aT9HeP) | [Babe Bhangra Paunde Ne \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/63zguPGRWX1sxdCc4Jl2MF) | 1:54 |
 | 4 | [Diamond Koka](https://open.spotify.com/track/4J0CRtjn6qX0zjLjDt5RsT) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Diamond Koka](https://open.spotify.com/album/5ja8o2ldFyqmyqRJtr9RaD) | 2:52 |
 | 5 | [Gal Sun](https://open.spotify.com/track/7kUNwrzscc83PhP8mnOwz6) | [Jaz Dhami](https://open.spotify.com/artist/5IfJHO9jIE1GVuC517P3nr), [The Kidd](https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A) | [Gal Sun](https://open.spotify.com/album/09FgdndDRPfUCq7mhwdt82) | 3:33 |
 | 6 | [Sharaab](https://open.spotify.com/track/5yAu5xEsC4eJvVL4B2Gjl4) | [Amantej Hundal](https://open.spotify.com/artist/28kGdf2ant8i73Fab2F7xq) | [State of Art](https://open.spotify.com/album/62Wlbcq0ip7IThBYtmxEi6) | 2:49 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3VNFqEPdDGw.md) - [plain]
 | 52 | [Old Skool](https://open.spotify.com/track/4V9rQZOGILc4YfBnCDXgTz) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Old Skool](https://open.spotify.com/album/357wf3qJ5AukE3IfN4e1Am) | 4:13 |
 | 53 | [Pyar Bolda](https://open.spotify.com/track/3RtR0XXNGtBHJkFgY6OvTQ) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Pyar Bolda](https://open.spotify.com/album/3ZcDbMWG4m26hPhQXFLFc8) | 2:42 |
 
-Snapshot ID: `MTY2NTEzNTM0OCwwMDAwMDAwMDkxMmQ0YjliMmNiMmMyN2FiYjk2ODhmMzNiNjkwZjI3`
+Snapshot ID: `MTY2NTEzNTM0OCwwMDAwMDAwMGEzZTE2ODQxM2ZkOGMyMGUwYjAxMzBjMjlhNjcwMzdl`

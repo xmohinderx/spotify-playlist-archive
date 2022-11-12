@@ -4,7 +4,7 @@
 
 > Unwind and let the afternoon unfold.
 
-180 songs - 11 hr 27 min - [published](https://open.spotify.com/playlist/70ri3ZmvP0HS9tUQD53FSg)
+182 songs - 11 hr 32 min - [published](https://open.spotify.com/playlist/70ri3ZmvP0HS9tUQD53FSg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,8 @@
 | [Motel](https://open.spotify.com/track/6qe4MSI8cWbBqo2YBNmUic) | [Caitlin Canty](https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl) | [Motel Bouquet](https://open.spotify.com/album/1wzGEFBlLXHmoW4OK4Qapu) | 3:04 | 2021-09-02 |  |
 | [Mountain Falls for the Sea](https://open.spotify.com/track/0LMquqGldfJIP3GCCw3jxd) | [Findlay Brown](https://open.spotify.com/artist/5SxW5qi5l3VJnO0qzsI8Rs) | [Slow Light](https://open.spotify.com/album/6Sr6Py57eoZHhY4hYcJ67B) | 3:07 | 2021-09-02 |  |
 | [Mountain Falls for the Sea](https://open.spotify.com/track/7oRtHBBKdsl4XLQBWjWDDW) | [Findlay Brown](https://open.spotify.com/artist/5SxW5qi5l3VJnO0qzsI8Rs) | [Slow Light](https://open.spotify.com/album/3p1LmtNY1xMmPqmNMdhly8) | 3:07 | 2021-09-02 | 2022-07-29 |
-| [Naked as We Came](https://open.spotify.com/track/6UIxGIqWlO5wsddY44AV1R) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Our Endless Numbered Days \(Deluxe Edition\)](https://open.spotify.com/album/169vCBCFaW2na816P8Ir7m) | 2:32 | 2021-09-02 |  |
+| [Naked as We Came](https://open.spotify.com/track/4FuBIkfhZMoRgrDiHL6TYG) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Our Endless Numbered Days](https://open.spotify.com/album/2diNeeePw7kIT2K4DYCdJx) | 2:32 | 2021-09-02 |  |
+| [Naked as We Came](https://open.spotify.com/track/6UIxGIqWlO5wsddY44AV1R) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Our Endless Numbered Days \(Deluxe Edition\)](https://open.spotify.com/album/169vCBCFaW2na816P8Ir7m) | 2:32 | 2021-09-02 | 2022-11-12 |
 | [Naked As We Came](https://open.spotify.com/track/2gUSIsapdX6jEJ0DvjqTt2) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Our Endless Numbered Days](https://open.spotify.com/album/20OPxsW0aYB6InxDImJRdt) | 2:32 | 2021-09-02 | 2022-01-17 |
 | [New Person, Old Place](https://open.spotify.com/track/00xsWxrnp7wT3kI5AZqQIU) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [New Person, Old Place](https://open.spotify.com/album/6zEqrImo4scaX31UcjsTjC) | 4:06 | 2021-09-02 |  |
 | [Not a Number](https://open.spotify.com/track/3BZj98tFgveomZpZVboqRs) | [Robby Hecht](https://open.spotify.com/artist/0ZDm55WIaMpvEkX8cY1AAk) | [Not a Number](https://open.spotify.com/album/0WGIz8CnFlGnFRgQU5c0xT) | 3:32 | 2021-09-02 |  |
@@ -106,6 +107,7 @@
 | [Nothing Else](https://open.spotify.com/track/33ZjZqqFuGRTPjNVqO0h8o) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Snow](https://open.spotify.com/album/19KbCZVQpfC3eyD4Db3Vrq) | 4:24 | 2021-09-02 | 2022-07-29 |
 | [Nothing Else](https://open.spotify.com/track/5NEitA75GDKDOET1k83LQw) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Snow](https://open.spotify.com/album/4egQIHw55CVeZ9BlS3fEoL) | 4:24 | 2021-09-02 |  |
 | [Nothing’s Gonna Happen](https://open.spotify.com/track/4WM5HfHQZ0N4o8HDNwRmRk) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Good Woman](https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl) | 3:36 | 2021-09-02 |  |
+| [On the Frame \(Acoustic\)](https://open.spotify.com/track/2UyZLb4rxCgXaFI9wsxsGs) | [Beta Radio](https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB) | [Colony of B\-Sides](https://open.spotify.com/album/4uENKN2umJ1TGfOZ4NIEVs) | 3:04 | 2021-09-02 |  |
 | [On the Frame \(Acoustic\)](https://open.spotify.com/track/5TjAhRtHiLjCrzuOhgk50U) | [Beta Radio](https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB) | [On the Frame \(Acoustic\)](https://open.spotify.com/album/5B0B3PhAdKYQohgwvVJEOs) | 3:04 | 2021-09-02 | 2022-05-07 |
 | [On The Road Again](https://open.spotify.com/track/4Uc8xnNu2Mm1yObB0uxZI6) | [The Brother Brothers](https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5) | [On The Road Again](https://open.spotify.com/album/55usaj7ODaBiksdYFoKUvb) | 2:53 | 2021-09-02 |  |
 | [Overland](https://open.spotify.com/track/6NVOjINdpsyC0Kx7mtRqy8) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr) | [Overland](https://open.spotify.com/album/6EqrL2TFwdDz32yNSVRtvz) | 3:25 | 2021-09-02 | 2022-07-29 |
@@ -172,7 +174,7 @@
 | [Visions](https://open.spotify.com/track/67yniWH9m9UjFwSA0CPeIk) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Visions](https://open.spotify.com/album/3HGLigPm8UcqiA0vPAv3Ye) | 3:55 | 2021-09-02 | 2022-07-29 |
 | [Waiting](https://open.spotify.com/track/5vnEI7lOTPqulXqBuV7o3w) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Waiting](https://open.spotify.com/album/1mtoKw1qiU13YdQkz5vgEe) | 3:32 | 2021-09-02 |  |
 | [Waiting Around](https://open.spotify.com/track/6WQlGuh6c4jciXEyM2rVGX) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Vacancy EP](https://open.spotify.com/album/7rhTvyMcFMaQhRxKfuvis5) | 2:32 | 2021-09-02 | 2022-07-29 |
-| [Waiting Around \- Acoustic](https://open.spotify.com/track/6fWBQnyz8GrH0neN1IsBRc) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Vacancy](https://open.spotify.com/album/3HTmh4jyCRfi8wjlxmm8uL) | 2:32 | 2021-09-02 |  |
+| [Waiting Around \- Acoustic](https://open.spotify.com/track/6fWBQnyz8GrH0neN1IsBRc) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Vacancy](https://open.spotify.com/album/3HTmh4jyCRfi8wjlxmm8uL) | 2:32 | 2021-09-02 | 2022-11-12 |
 | [Warped Window](https://open.spotify.com/track/0C0ESa1ZZ5taXaYUxwnvx9) | [Anna Mieke](https://open.spotify.com/artist/52HjDHLlkCYt5Pemr9wefL) | [Idle Mind](https://open.spotify.com/album/5PncSJwq9TMUU2c3Y54pGZ) | 4:55 | 2021-09-02 | 2022-07-29 |
 | [Warped Window](https://open.spotify.com/track/7jd2h2mIeyKpqkFsrl5EHN) | [Anna Mieke](https://open.spotify.com/artist/52HjDHLlkCYt5Pemr9wefL) | [Idle Mind](https://open.spotify.com/album/5jz07RajgJtqxfBAwWULOW) | 4:55 | 2021-09-02 |  |
 | [Water in the Barrel](https://open.spotify.com/track/7elXaVsrVrwczas2crAE0U) | [Eddie Berman](https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql) | [Water in the Barrel](https://open.spotify.com/album/5VsFe3XWwWGUfyBsKK9WXq) | 3:37 | 2021-12-09 | 2022-07-29 |

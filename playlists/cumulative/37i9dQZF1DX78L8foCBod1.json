@@ -784,6 +784,32 @@
     },
     {
       "album": {
+        "name": "gravityWall/sh0ut",
+        "url": "https://open.spotify.com/album/2K0cY9YMrCDWoNHMpNZMsF"
+      },
+      "artists": [
+        {
+          "name": "SawanoHiroyuki[nZk]",
+          "url": "https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO"
+        },
+        {
+          "name": "Tielle",
+          "url": "https://open.spotify.com/artist/0o6gAoBM3HpKhCOYQSolLe"
+        },
+        {
+          "name": "Gemie",
+          "url": "https://open.spotify.com/artist/7xD8IJZvqsewBhbMyiEIdz"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226320,
+      "name": "gravityWall",
+      "url": "https://open.spotify.com/track/6WBoHxSRyvMyGIzslzJJ8m"
+    },
+    {
+      "album": {
         "name": "2V-Alk",
         "url": "https://open.spotify.com/album/3ncBgCOeYrUJ9hGmySHiUb"
       },
@@ -803,7 +829,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 226333,
       "name": "gravityWall",
       "url": "https://open.spotify.com/track/7wW7booCIm4h6a9upgAyLy"
@@ -1625,10 +1651,36 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 245426,
       "name": "sh0ut",
       "url": "https://open.spotify.com/track/0JUdNScTFs37m9dFGC07qp"
+    },
+    {
+      "album": {
+        "name": "2V-ALK",
+        "url": "https://open.spotify.com/album/6fYnxGhxTWbHLFBnuigaZc"
+      },
+      "artists": [
+        {
+          "name": "SawanoHiroyuki[nZk]",
+          "url": "https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO"
+        },
+        {
+          "name": "Tielle",
+          "url": "https://open.spotify.com/artist/0o6gAoBM3HpKhCOYQSolLe"
+        },
+        {
+          "name": "Gemie",
+          "url": "https://open.spotify.com/artist/7xD8IJZvqsewBhbMyiEIdz"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245426,
+      "name": "sh0ut",
+      "url": "https://open.spotify.com/track/0q02P4yUz4BAcmzbGVrCEU"
     },
     {
       "album": {
@@ -1896,6 +1948,24 @@
     },
     {
       "album": {
+        "name": "TOKYO - HALLOWEEN -",
+        "url": "https://open.spotify.com/album/3bl9atzKcDPSm6YM9zJyZN"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195226,
+      "name": "Tot Musica",
+      "url": "https://open.spotify.com/track/4ca6LN5b17Qjo2GinxmA5v"
+    },
+    {
+      "album": {
         "name": "UTA'S SONGS ONE PIECE FILM RED",
         "url": "https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172"
       },
@@ -1907,7 +1977,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 195226,
       "name": "Tot Musica",
       "url": "https://open.spotify.com/track/4eChbtoFoOmWQt03aRDzaJ"

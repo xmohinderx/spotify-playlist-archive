@@ -4,7 +4,7 @@
 
 > Conscious songs for everyday reflection.
 
-95 songs - 6 hr 44 min - [published](https://open.spotify.com/playlist/6PGA40jJvnwvOGylzYEmlj)
+96 songs - 6 hr 48 min - [published](https://open.spotify.com/playlist/6PGA40jJvnwvOGylzYEmlj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,8 @@
 | [Family Tree \(Live at Sugarshack Sessions\)](https://open.spotify.com/track/2HuVKmAhWpB4bBfzlzJX7X) | [Will Evans](https://open.spotify.com/artist/73spEk5voL22ZXjoSXZmh8), [Sugarshack Sessions](https://open.spotify.com/artist/5CT2hYT8j5uBMqTyMVp1kI) | [Will Evans Live at Sugarshack Sessions](https://open.spotify.com/album/4GJY4OSwmRyll8bB1xrRSw) | 4:43 | 2020-11-25 | 2022-07-29 |
 | [Fast And Slow](https://open.spotify.com/track/4OO9SNBNWasLpz5MiwqxEM) | [The Elovaters](https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3) | [Double Vision](https://open.spotify.com/album/2K4mKmxSsxhkkhqESs6Foj) | 4:40 | 2020-11-25 | 2022-07-29 |
 | [Follow the Sun](https://open.spotify.com/track/2dkUbLShKMCuRqWSTyUdMp) | [Xavier Rudd](https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD) | [Spirit Bird](https://open.spotify.com/album/0PVkmVc7ds2uXTY0FE825K) | 4:15 | 2020-11-25 | 2022-07-29 |
-| [Follow The Sun](https://open.spotify.com/track/3Y7fpFZbHLpAvWJJYGehz0) | [Xavier Rudd](https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD) | [Spirit Bird](https://open.spotify.com/album/2GFXYpDQ1TOZ9zJUk30tXO) | 4:16 | 2020-11-25 |  |
+| [Follow The Sun](https://open.spotify.com/track/00LnZWYIZnFe6vC2KKfDC7) | [Xavier Rudd](https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD) | [Chill Indie Folk](https://open.spotify.com/album/7dvMAw8Rbf9nfbdBnRzScF) | 4:16 | 2020-11-25 |  |
+| [Follow The Sun](https://open.spotify.com/track/3Y7fpFZbHLpAvWJJYGehz0) | [Xavier Rudd](https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD) | [Spirit Bird](https://open.spotify.com/album/2GFXYpDQ1TOZ9zJUk30tXO) | 4:16 | 2020-11-25 | 2022-11-12 |
 | [Garden](https://open.spotify.com/track/4sqyxt6b47PF0mKE7OvLxH) | [Nahko And Medicine For The People](https://open.spotify.com/artist/35fFUv2850L9CQjjNrLBpb) | [Take Your Power Back](https://open.spotify.com/album/2rMukh8IywcLklutZYSPZT) | 3:56 | 2020-11-25 |  |
 | [Garden](https://open.spotify.com/track/772Nh0P9blzezlBWi9xzkH) | [Nahko And Medicine For The People](https://open.spotify.com/artist/35fFUv2850L9CQjjNrLBpb) | [Garden](https://open.spotify.com/album/3ac3FRERIansIsxDDRYnbN) | 3:56 | 2020-11-25 | 2022-07-29 |
 | [Good Vibration \(feat\. Trevor Hall\)](https://open.spotify.com/track/01N1T689bhEHqXWs3ZMZcO) | [HIRIE](https://open.spotify.com/artist/0HYbyzzhI44iTHvYnf1nOs), [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8) | [Wandering Soul](https://open.spotify.com/album/60xPMD97KJfh5x6KBbHYs9) | 4:19 | 2020-11-25 |  |

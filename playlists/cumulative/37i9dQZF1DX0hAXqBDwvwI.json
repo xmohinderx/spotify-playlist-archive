@@ -2454,6 +2454,24 @@
     },
     {
       "album": {
+        "name": "OPEING THEME FROM TV SERIES \u201dOVERLORD IV\u201d",
+        "url": "https://open.spotify.com/album/1iR5yhnaLHIIUEbXq5Zcxh"
+      },
+      "artists": [
+        {
+          "name": "OxT",
+          "url": "https://open.spotify.com/artist/2qaq1aaJNXMlqsdS50FDrW"
+        }
+      ],
+      "date_added": "2022-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223141,
+      "name": "HOLLOW HUNGER",
+      "url": "https://open.spotify.com/track/355nQhlJ37CswXP54GZAz9"
+    },
+    {
+      "album": {
         "name": "HOME",
         "url": "https://open.spotify.com/album/5fxto0FPkSBuYETRE5wT2d"
       },
@@ -3389,7 +3407,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 192400,
       "name": "MUKANJYO",
       "url": "https://open.spotify.com/track/4MTgIH5OZQHAbdBWgbKSAb"
@@ -5623,7 +5641,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 238360,
       "name": "unravel",
       "url": "https://open.spotify.com/track/1rN9QoVxw5U7TJkyaUR8C1"
@@ -7151,7 +7169,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-19",
+      "date_removed": null,
       "duration_ms": 212310,
       "name": "\u30b7\u30f3\u30c7\u30ec\u30e9",
       "url": "https://open.spotify.com/track/6ilTR3RpLCAHDt3Z6YuQGx"
@@ -7715,7 +7733,7 @@
       ],
       "date_added": "2022-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 215706,
       "name": "\u30d6\u30eb\u30fc\u30d0\u30fc\u30c9",
       "url": "https://open.spotify.com/track/2XpV9sHBexcNrz0Gyf3l18"
@@ -10335,7 +10353,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-16",
+      "date_removed": null,
       "duration_ms": 258733,
       "name": "\u8679",
       "url": "https://open.spotify.com/track/7AIj86wFWqm7X1TZ2hzHwS"

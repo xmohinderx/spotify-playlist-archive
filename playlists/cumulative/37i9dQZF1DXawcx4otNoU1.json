@@ -37,10 +37,28 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 193146,
       "name": "Adorn",
       "url": "https://open.spotify.com/track/25cUhiAod71TIQSNicOaW3"
+    },
+    {
+      "album": {
+        "name": "Kaleidoscope Dream",
+        "url": "https://open.spotify.com/album/0vlIws8YGMQAbMEkubJgAP"
+      },
+      "artists": [
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193146,
+      "name": "Adorn",
+      "url": "https://open.spotify.com/track/3trS6e40JCVUOpPVt5OdHj"
     },
     {
       "album": {
@@ -127,7 +145,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 216866,
       "name": "Alone",
       "url": "https://open.spotify.com/track/0iOZD91DEQm3nuTEk5Bt8k"
@@ -438,6 +456,24 @@
     },
     {
       "album": {
+        "name": "R&B Summer Mix",
+        "url": "https://open.spotify.com/album/5vWkCTOFti5ycfczgo389O"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240600,
+      "name": "Beyond",
+      "url": "https://open.spotify.com/track/4jdddqrYIZjKf8YeJly1QG"
+    },
+    {
+      "album": {
         "name": "Beyond",
         "url": "https://open.spotify.com/album/0Nu4xhj7NxdUiL0eMy9yoQ"
       },
@@ -529,6 +565,28 @@
       "duration_ms": 195172,
       "name": "Catch & Release (Deepend remix)",
       "url": "https://open.spotify.com/track/4FqrgfKej2jv450UFW6PP8"
+    },
+    {
+      "album": {
+        "name": "Viaje EDM",
+        "url": "https://open.spotify.com/album/5VpnQVaeuUNN9pNgRbr2LW"
+      },
+      "artists": [
+        {
+          "name": "Matt Simons",
+          "url": "https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7"
+        },
+        {
+          "name": "Deepend",
+          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195053,
+      "name": "Catch & Release - Deepend Remix",
+      "url": "https://open.spotify.com/track/59nMM3eQPHxMEaACbN1Ur1"
     },
     {
       "album": {
@@ -673,7 +731,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 223213,
       "name": "Close To You",
       "url": "https://open.spotify.com/track/6pwWHX2xtRCC0fk7rhCrob"
@@ -713,6 +771,24 @@
       "duration_ms": 277000,
       "name": "Collide - Acoustic Version",
       "url": "https://open.spotify.com/track/5rwq6R0Uq0BngM3rdmCeNg"
+    },
+    {
+      "album": {
+        "name": "Coastal Grandmother Music",
+        "url": "https://open.spotify.com/album/376r9jOZbDw6f8Qe2WSDMF"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197453,
+      "name": "Come Away With Me",
+      "url": "https://open.spotify.com/track/0JMPG9nbd4ftD7uq1xscnL"
     },
     {
       "album": {
@@ -1367,7 +1443,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 270486,
       "name": "Ghost in the Wind",
       "url": "https://open.spotify.com/track/7yyKgVdqUPMAZGIV02Ppip"
@@ -1710,6 +1786,24 @@
     },
     {
       "album": {
+        "name": "Love Songs - Timeless Classics",
+        "url": "https://open.spotify.com/album/76lPKmd1V1x0I3gSx0pmTa"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245200,
+      "name": "How Deep Is Your Love",
+      "url": "https://open.spotify.com/track/0TEQwkISusxCFUlfgrV6uc"
+    },
+    {
+      "album": {
         "name": "Greatest",
         "url": "https://open.spotify.com/album/684Fi6YqIP9xU9JeboAgVM"
       },
@@ -1739,10 +1833,28 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 241093,
       "name": "How Deep Is Your Love - From \"Saturday Night Fever\" Soundtrack",
       "url": "https://open.spotify.com/track/3ZP18us6p6LHOZMG1LLUjF"
+    },
+    {
+      "album": {
+        "name": "Valentines Day 2021",
+        "url": "https://open.spotify.com/album/6TggYmNhal9ODV3MqXeu3y"
+      },
+      "artists": [
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154435,
+      "name": "How Long Will I Love You",
+      "url": "https://open.spotify.com/track/0vmNI1u7ZZOqnili1cp8w3"
     },
     {
       "album": {
@@ -2129,7 +2241,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 211826,
       "name": "Joshua",
       "url": "https://open.spotify.com/track/6O1frpBVWLSIg6tKpeL7oa"
@@ -2576,6 +2688,24 @@
     },
     {
       "album": {
+        "name": "Valentines Day Songs",
+        "url": "https://open.spotify.com/album/1aWzafCfTTaW1913Y0I3w3"
+      },
+      "artists": [
+        {
+          "name": "Freya Ridings",
+          "url": "https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225076,
+      "name": "Lost Without You",
+      "url": "https://open.spotify.com/track/7nenN69yGXnrlOrjQrZSSw"
+    },
+    {
+      "album": {
         "name": "Freya Ridings",
         "url": "https://open.spotify.com/album/3dcenoRctm8OAnqoCrQrLd"
       },
@@ -2587,7 +2717,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 225853,
       "name": "Lost Without You",
       "url": "https://open.spotify.com/track/3cWI6Hj9LQ0MfMuhw9uSMc"
@@ -2648,6 +2778,24 @@
     },
     {
       "album": {
+        "name": "ANTI",
+        "url": "https://open.spotify.com/album/48i37aZTC1prDr4EcpQeEa"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Love On The Brain",
+      "url": "https://open.spotify.com/track/31adnbEEiHwy6DDQ82F3HP"
+    },
+    {
+      "album": {
         "name": "ANTI (Deluxe)",
         "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
       },
@@ -2659,7 +2807,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 224000,
       "name": "Love On The Brain",
       "url": "https://open.spotify.com/track/5oO3drDxtziYU2H1X23ZIp"
@@ -3023,7 +3171,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 182248,
       "name": "Motion",
       "url": "https://open.spotify.com/track/2S9z9vVqHYMHSDaekOIdtB"
@@ -3272,6 +3420,24 @@
     },
     {
       "album": {
+        "name": "Chill Traxx 2022",
+        "url": "https://open.spotify.com/album/21UwmStniLUklSLcOCQdNN"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194453,
+      "name": "One Call Away",
+      "url": "https://open.spotify.com/track/4SeldwhKMitgG5YSgCyQSK"
+    },
+    {
+      "album": {
         "name": "Nine Track Mind",
         "url": "https://open.spotify.com/album/3kndSWeE2IYOrZEToZrHEV"
       },
@@ -3399,7 +3565,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 187156,
       "name": "Palace",
       "url": "https://open.spotify.com/track/05P1cSZbLBYeXerDxxYT7k"
@@ -3511,6 +3677,24 @@
       "duration_ms": 212853,
       "name": "People Change",
       "url": "https://open.spotify.com/track/3Ed55g8hCz1GmqRTelIPIW"
+    },
+    {
+      "album": {
+        "name": "People Change",
+        "url": "https://open.spotify.com/album/381HJLxqIIyyXIOM3S3P9f"
+      },
+      "artists": [
+        {
+          "name": "Mipso",
+          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212853,
+      "name": "People Change",
+      "url": "https://open.spotify.com/track/3X8nisFKqIo9JyCgRXyKZL"
     },
     {
       "album": {
@@ -3637,6 +3821,24 @@
       "duration_ms": 195920,
       "name": "Please Keep Loving Me",
       "url": "https://open.spotify.com/track/1rp1lRbL41qnlw354j8iTp"
+    },
+    {
+      "album": {
+        "name": "Valentine's Day 2020",
+        "url": "https://open.spotify.com/album/3qLDzqU7fPIcfUYRyYPWQ0"
+      },
+      "artists": [
+        {
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195920,
+      "name": "Please Keep Loving Me",
+      "url": "https://open.spotify.com/track/6TQodMD9wZqDi5YuoYW9Yl"
     },
     {
       "album": {
@@ -3893,7 +4095,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 315626,
       "name": "Sam",
       "url": "https://open.spotify.com/track/7MCs0DC2laHGeEYpAlGWwh"
@@ -4384,6 +4586,24 @@
     },
     {
       "album": {
+        "name": "Heart Beats",
+        "url": "https://open.spotify.com/album/4J6q76VVyBWSIvv6q73piZ"
+      },
+      "artists": [
+        {
+          "name": "Jess Glynne",
+          "url": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265381,
+      "name": "Take Me Home",
+      "url": "https://open.spotify.com/track/37r5OjQpfxYCzi8PHTiPvp"
+    },
+    {
+      "album": {
         "name": "I Cry When I Laugh",
         "url": "https://open.spotify.com/album/6AGmGousDdMGevlVZO04LO"
       },
@@ -4543,7 +4763,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 293413,
       "name": "The World's Smiling Now",
       "url": "https://open.spotify.com/track/6KrDF0sid0jwhbVIT0tatx"
@@ -4922,6 +5142,28 @@
     },
     {
       "album": {
+        "name": "2010s Love Songs",
+        "url": "https://open.spotify.com/album/5fVwNqgVSgL5fOiX0E38eo"
+      },
+      "artists": [
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        },
+        {
+          "name": "Leona Lewis",
+          "url": "https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190760,
+      "name": "You Are The Reason - Duet Version",
+      "url": "https://open.spotify.com/track/7jmSkPyeAORJtwcCcdAcOq"
+    },
+    {
+      "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/4LxNdEodxvcd7q41asR17h"
       },
@@ -4969,7 +5211,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 248400,
       "name": "Your Body Is a Wonderland",
       "url": "https://open.spotify.com/track/3o4ZEiNkw3g9JhT08dRa54"
@@ -5023,7 +5265,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 241786,
       "name": "Your Song",
       "url": "https://open.spotify.com/track/38zsOOcu31XbbYj9BIPUF1"
@@ -5045,6 +5287,24 @@
       "duration_ms": 244226,
       "name": "Your Song",
       "url": "https://open.spotify.com/track/17VegeBoHvMlIByrdu64KR"
+    },
+    {
+      "album": {
+        "name": "Diamonds (Deluxe)",
+        "url": "https://open.spotify.com/album/1uzIyRT1QxDx4fMIX0UiAE"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243066,
+      "name": "Your Song - Remastered",
+      "url": "https://open.spotify.com/track/2bUXfclD8DwJwwUENtSCWu"
     },
     {
       "album": {

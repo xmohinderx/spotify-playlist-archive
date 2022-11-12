@@ -4,7 +4,7 @@
 
 > ¿Cuándo te veré otra vez, mi vida, cuándo?
 
-67 songs - 3 hr 47 min - [published](https://open.spotify.com/playlist/0XSAjxkrdo0AUBMhkZnDmQ)
+70 songs - 3 hr 58 min - [published](https://open.spotify.com/playlist/0XSAjxkrdo0AUBMhkZnDmQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,9 +23,11 @@
 | [Dulcemente Enamorada](https://open.spotify.com/track/2hWTlxqGczIVUC3tl6LaMJ) | [Los Mier](https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ) | [Viva el Amor](https://open.spotify.com/album/6agj4FL2hImOYAV3WAGXBN) | 2:39 | 2022-01-25 |  |
 | [El Perro, el Gato y Yo](https://open.spotify.com/track/54TgeMeInoK6wgPWw58ri7) | [Guardianes Del Amor](https://open.spotify.com/artist/3NLDQVyI2LVtQFJt8JeAAx) | [Lo Mejor De Guardianes Del Amor](https://open.spotify.com/album/4Asr02QFyUUEcwtcnGCYhx) | 3:37 | 2022-01-25 |  |
 | [El Regalo](https://open.spotify.com/track/0bjkoyF3RtjVwYVoWnr9ae) | [Los Dueños Del Sol](https://open.spotify.com/artist/1RN7jx2p7hBFXKJ2HyYu8d) | [El Regalo](https://open.spotify.com/album/5LuhrZx5mjU9UQsscVdS2n) | 3:27 | 2022-01-25 | 2022-08-09 |
-| [El Taxista](https://open.spotify.com/track/5ugABx5bnTbKl0j6iPwaku) | [Los Dinnosaurios](https://open.spotify.com/artist/2WI2ub4Nn8cJM70m9IM2Hz) | [Inolvidables](https://open.spotify.com/album/6bMC920IXyDwMQVm6ZtCLU) | 3:44 | 2022-01-25 |  |
+| [El Taxista](https://open.spotify.com/track/5ugABx5bnTbKl0j6iPwaku) | [Los Dinnosaurios](https://open.spotify.com/artist/2WI2ub4Nn8cJM70m9IM2Hz) | [Inolvidables](https://open.spotify.com/album/6bMC920IXyDwMQVm6ZtCLU) | 3:44 | 2022-01-25 | 2022-11-12 |
 | [El Taxista](https://open.spotify.com/track/6vsxXwgCpGppUKFSDOildp) | [Los Dinnosaurios](https://open.spotify.com/artist/2WI2ub4Nn8cJM70m9IM2Hz) | [Inolvidables](https://open.spotify.com/album/7ARafZyz3I2D7aI2DsTF5P) | 3:44 | 2022-01-25 | 2022-07-29 |
-| [En Realidad](https://open.spotify.com/track/0hicPD6pe5ilVkgMWbRbZS) | [Grupo Abracadabra](https://open.spotify.com/artist/5Tr3Dj96kdzVnRiY3H457O) | [Antología, Vol\. 1](https://open.spotify.com/album/53Twpqi0xB4ZRUACwVtBK2) | 3:41 | 2022-01-25 |  |
+| [El Taxista](https://open.spotify.com/track/5aEwy9UczNp7H5cx7qUizQ) | [Los Dinnosaurios](https://open.spotify.com/artist/2WI2ub4Nn8cJM70m9IM2Hz) | [12 Exitos](https://open.spotify.com/album/1V0wvcJICet3CtonrdPYDk) | 3:46 | 2022-01-25 |  |
+| [En realidad](https://open.spotify.com/track/54psJ1LAQuyOfXZV5Pb4zE) | [Abracadabra](https://open.spotify.com/artist/1F10Dyz1RuRFkgHQ5Es3uZ) | [16 de Septiembre: Gruperas \(USA\) \[Vol\. 2\]](https://open.spotify.com/album/63mvOAHFDhD2QZLVfNAMcn) | 3:41 | 2022-01-25 |  |
+| [En Realidad](https://open.spotify.com/track/0hicPD6pe5ilVkgMWbRbZS) | [Grupo Abracadabra](https://open.spotify.com/artist/5Tr3Dj96kdzVnRiY3H457O) | [Antología, Vol\. 1](https://open.spotify.com/album/53Twpqi0xB4ZRUACwVtBK2) | 3:41 | 2022-01-25 | 2022-11-12 |
 | [En Realidad](https://open.spotify.com/track/3BQTmcsZ9DNNJ1qkEraTBm) | [Grupo Abracadabra](https://open.spotify.com/artist/5Tr3Dj96kdzVnRiY3H457O) | [Te Quiero Todavía](https://open.spotify.com/album/0ExehBI8RodvaibxLOlkXK) | 3:41 | 2022-01-25 | 2022-07-29 |
 | [Enamorado De Un Fantasma](https://open.spotify.com/track/47zLjYjuaWunbmMrn6jLLj) | [Liberación](https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5) | [Enamorado De Un Fantasma](https://open.spotify.com/album/4XX1NXGCEwomxl6cYRcW2d) | 4:29 | 2022-01-25 |  |
 | [Ese Loco Soy Yo](https://open.spotify.com/track/0J0zz9v1hRXQXQ2rJLgKq1) | [Liberación](https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5) | [Directo Al Corazón](https://open.spotify.com/album/6w4hod1ifRryFs208eKPLe) | 4:40 | 2022-01-25 |  |
@@ -71,8 +73,9 @@
 | [Un Dolor](https://open.spotify.com/track/17CjK3UlTIKqklXjOf9mIc) | [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt) | [Los Yonic's](https://open.spotify.com/album/1n9JO1nI25yEpiqhie0bpt) | 3:12 | 2022-01-25 |  |
 | [Un Millon de Rosas](https://open.spotify.com/track/1idB3b2IIfal1DPwOuDQwo) | [La Mafia](https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs) | [20th Anniversary Series](https://open.spotify.com/album/61V77t4VuVQcJvUvevRIlX) | 3:29 | 2022-01-25 |  |
 | [Ven Porque Te Necesito](https://open.spotify.com/track/4MNfkZ8dtva3cjJ2biqnDS) | [Los Temerarios](https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3) | [Internacionales Y Románticos](https://open.spotify.com/album/5Ze16psciPmtUvLIOLE5D3) | 2:55 | 2022-01-25 |  |
+| [Voy a pintar un corazón](https://open.spotify.com/track/3xlGAJ2WshMJtWEqPtg3Vc) | [Los Acosta](https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x) | [Musica Regional "Cinco de Mayo" Vol\. 1](https://open.spotify.com/album/5xDqYhYssy4kfNangxzCN6) | 3:28 | 2022-01-25 |  |
 | [Voy a pintar un corazón](https://open.spotify.com/track/5viiB7rsZZ6WZaWMHjTWSG) | [Los Acosta](https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x) | [Vivencias](https://open.spotify.com/album/56mu4xH2JACoVGZhr3f6KZ) | 3:28 | 2022-01-25 | 2022-07-29 |
-| [Voy a pintar un corazón](https://open.spotify.com/track/6ztkxjvne5bjzUUnoskShx) | [Los Acosta](https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x) | [Album de Oro](https://open.spotify.com/album/7yZcbdxZv4trwSe3RfY8LE) | 3:28 | 2022-01-25 |  |
+| [Voy a pintar un corazón](https://open.spotify.com/track/6ztkxjvne5bjzUUnoskShx) | [Los Acosta](https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x) | [Album de Oro](https://open.spotify.com/album/7yZcbdxZv4trwSe3RfY8LE) | 3:28 | 2022-01-25 | 2022-11-12 |
 | [Yo Te Necesito](https://open.spotify.com/track/7yMWuJ6JOZ8Joo5gQrNaYA) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Yo Te Necesito](https://open.spotify.com/album/3hEe5rX51oJiXS3Lv9Yeiz) | 2:58 | 2022-01-25 |  |
 | [Él Soy Yo](https://open.spotify.com/track/2grjdrZ1wGyoykMgDbnnFW) | [Samuray](https://open.spotify.com/artist/6fBjnfeYEU3VFuQl8RPrp8) | [Linea De Oro Contigo O Sin Ti](https://open.spotify.com/album/5VLGX5BkN6IdRYNtETZ6Cs) | 3:15 | 2022-01-25 |  |
 

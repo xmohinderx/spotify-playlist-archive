@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKj6yrmnSvg.md) - [plain]
 
 > ¿Cuándo te veré otra vez, mi vida, cuándo?
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,429 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,513 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ahí Estaré Yo](https://open.spotify.com/track/54gaPLcsCWmPUmrgpib9mS) | [Los Temerarios](https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3) | [Camino del Amor](https://open.spotify.com/album/1fvaT1qOl0H0gAHk5RHbts) | 3:20 |
-| 2 | [Voy a pintar un corazón](https://open.spotify.com/track/6ztkxjvne5bjzUUnoskShx) | [Los Acosta](https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x) | [Album de Oro](https://open.spotify.com/album/7yZcbdxZv4trwSe3RfY8LE) | 3:28 |
+| 2 | [Voy a pintar un corazón](https://open.spotify.com/track/3xlGAJ2WshMJtWEqPtg3Vc) | [Los Acosta](https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x) | [Musica Regional "Cinco de Mayo" Vol\. 1](https://open.spotify.com/album/5xDqYhYssy4kfNangxzCN6) | 3:28 |
 | 3 | [Mi Vida Eres Tú](https://open.spotify.com/track/5mKwzq7UTXf1xwWcpPoteX) | [Los Temerarios](https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3) | [Mi Vida Eres Tú](https://open.spotify.com/album/0pKc1X7fBv9chuZRiSIZyE) | 4:10 |
 | 4 | [Te Quiero A Tí](https://open.spotify.com/track/4v9dVYIvD3EFuzWiXngmDq) | [A.B\. Quintanilla III Y Los Kumbia Kings](https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL) | [Amor, Familia Y Respeto](https://open.spotify.com/album/5XuNzqgx79H4Z2jhfdzFFQ) | 3:14 |
 | 5 | [Tu Traición](https://open.spotify.com/track/2ObbqCZZgwK8VowFYf0RPh) | [Grupo Bryndis](https://open.spotify.com/artist/44WCHvwXBOMz6nm7Mu2ReO) | [Tu Amor Secreto](https://open.spotify.com/album/1ICfNn1KnGQnjyXaYOiB3c) | 3:34 |
 | 6 | [Nunca Voy A Olvidarte](https://open.spotify.com/track/6KzEYqmtqCGDP4wPDz9SRU) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [Las Retro Chingonas](https://open.spotify.com/album/5La6MZ2JRoXzclml34O8MJ) | 2:20 |
 | 7 | [Cosas Buenas Que Parecen Malas](https://open.spotify.com/track/7AlJCYxNunX7EGdazNbM9c) | [Los Rehenes](https://open.spotify.com/artist/5IaAggho4F1gWHE5REe1e8) | [Todo Me Recuerda A Ti](https://open.spotify.com/album/72tOoss9JRTtbatunQg5ai) | 2:50 |
-| 8 | [En Realidad](https://open.spotify.com/track/0hicPD6pe5ilVkgMWbRbZS) | [Grupo Abracadabra](https://open.spotify.com/artist/5Tr3Dj96kdzVnRiY3H457O) | [Antología, Vol\. 1](https://open.spotify.com/album/53Twpqi0xB4ZRUACwVtBK2) | 3:41 |
+| 8 | [En realidad](https://open.spotify.com/track/54psJ1LAQuyOfXZV5Pb4zE) | [Abracadabra](https://open.spotify.com/artist/1F10Dyz1RuRFkgHQ5Es3uZ) | [16 de Septiembre: Gruperas \(USA\) \[Vol\. 2\]](https://open.spotify.com/album/63mvOAHFDhD2QZLVfNAMcn) | 3:41 |
 | 9 | [Fuiste Mala](https://open.spotify.com/track/5LNYnwMBaqUkNmTiPbRsoY) | [A.B\. Quintanilla III Y Los Kumbia Kings](https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL), [Ricardo Muñoz](https://open.spotify.com/artist/4uIopkxtCr4XkXtDVSEBYq) | [A.B\. Quintanilla III & Kumbia Kumbia Kings Present The Duets](https://open.spotify.com/album/05CvQnHFWD0JrII6bfM07e) | 3:18 |
 | 10 | [Tu Última Canción](https://open.spotify.com/track/7dWSrvzawBZPa7VVeHZBn7) | [Los Temerarios](https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3) | [Tu Última Canción](https://open.spotify.com/album/0uunEJN1BK7y3yg2GncXxa) | 4:22 |
 | 11 | [Piensa En Mí](https://open.spotify.com/track/1xKP7GVLY33i5jmx1bB1Kk) | [Grupo Mojado](https://open.spotify.com/artist/28NFZuZbEm7yzMpv1q1Rb7) | [Sueño Y Realidad](https://open.spotify.com/album/3jVJ1fTyUxYdpzb8Pt9V6U) | 2:57 |
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKj6yrmnSvg.md) - [plain]
 | 37 | [Como Una Novela](https://open.spotify.com/track/43Z6YxVTYyr5ewyo2uepdy) | [Los Acosta](https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x) | [Intimidades](https://open.spotify.com/album/40EJlz5pez7U5J6CwlUu39) | 3:46 |
 | 38 | [Por Muchas Razones Te Quiero](https://open.spotify.com/track/4y1mBgVKdjWODLPjHtaAqq) | [Grupo Bryndis](https://open.spotify.com/artist/44WCHvwXBOMz6nm7Mu2ReO), [Kris Melody](https://open.spotify.com/artist/1Ll8UUDAEVALfi1fxdkeOK) | [Romances](https://open.spotify.com/album/5QaE8igXsDA3r0Vz8xg7Wq) | 3:51 |
 | 39 | [Él Soy Yo](https://open.spotify.com/track/2grjdrZ1wGyoykMgDbnnFW) | [Samuray](https://open.spotify.com/artist/6fBjnfeYEU3VFuQl8RPrp8) | [Linea De Oro Contigo O Sin Ti](https://open.spotify.com/album/5VLGX5BkN6IdRYNtETZ6Cs) | 3:15 |
-| 40 | [El Taxista](https://open.spotify.com/track/5ugABx5bnTbKl0j6iPwaku) | [Los Dinnosaurios](https://open.spotify.com/artist/2WI2ub4Nn8cJM70m9IM2Hz) | [Inolvidables](https://open.spotify.com/album/6bMC920IXyDwMQVm6ZtCLU) | 3:44 |
+| 40 | [El Taxista](https://open.spotify.com/track/5aEwy9UczNp7H5cx7qUizQ) | [Los Dinnosaurios](https://open.spotify.com/artist/2WI2ub4Nn8cJM70m9IM2Hz) | [12 Exitos](https://open.spotify.com/album/1V0wvcJICet3CtonrdPYDk) | 3:46 |
 | 41 | [Cómo Me Duele Amor](https://open.spotify.com/track/5Uhu2xCFVq74wvaat8Eu0I) | [La Mafia](https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs) | [Tesoros De Coleccion](https://open.spotify.com/album/0zinXPMSpU4hy0XRlSZtda) | 3:09 |
 | 42 | [Ese Loco Soy Yo](https://open.spotify.com/track/0J0zz9v1hRXQXQ2rJLgKq1) | [Liberación](https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5) | [Directo Al Corazón](https://open.spotify.com/album/6w4hod1ifRryFs208eKPLe) | 4:40 |
 | 43 | [Palabras Tristes](https://open.spotify.com/track/57xX3bw17BSVUu5WXGwoNw) | [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt) | [Solo Baladas](https://open.spotify.com/album/6ThVFZhZjPiHwkeoxjJZjh) | 3:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKj6yrmnSvg.md) - [plain]
 | 49 | [Ven Porque Te Necesito](https://open.spotify.com/track/4MNfkZ8dtva3cjJ2biqnDS) | [Los Temerarios](https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3) | [Internacionales Y Románticos](https://open.spotify.com/album/5Ze16psciPmtUvLIOLE5D3) | 2:55 |
 | 50 | [Perdón Por Tus Lágrimas](https://open.spotify.com/track/3YoLl2RHRhzKg3WhpaFRES) | [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt) | [Siempre Te Amaré](https://open.spotify.com/album/2vBkgzqbxptOQOnFqwJHos) | 3:57 |
 
-Snapshot ID: `MTY2MDAwMDEwMiwwMDAwMDAwMDMwZGJkNmIyMDdiNGZlNWI2M2RhOGRjMzFhZWNiOTg2`
+Snapshot ID: `MTY2MDAwMDEwMiwwMDAwMDAwMGEwNjE3YmUwMGM4YmY1NDcxYTE3ZmU5ODRhNzI3ZGU1`

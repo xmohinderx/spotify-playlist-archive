@@ -1129,10 +1129,28 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 309386,
       "name": "O Tannenbaum",
       "url": "https://open.spotify.com/track/4YhY2qHdBmSX33uj8ms0oq"
+    },
+    {
+      "album": {
+        "name": "Classic Christmas Hits 2022",
+        "url": "https://open.spotify.com/album/7ILcxLRAchjzznQVoD0ESK"
+      },
+      "artists": [
+        {
+          "name": "Vince Guaraldi Trio",
+          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
+        }
+      ],
+      "date_added": "2022-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309386,
+      "name": "O Tannenbaum",
+      "url": "https://open.spotify.com/track/5IYTUm06pUdo1DHjtijVRW"
     },
     {
       "album": {
@@ -1190,6 +1208,24 @@
     },
     {
       "album": {
+        "name": "No\u00ebl 2020",
+        "url": "https://open.spotify.com/album/0gbWx46O7msHBOfp6fYSkk"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162897,
+      "name": "Run Rudolph Run",
+      "url": "https://open.spotify.com/track/3CQa7Xu95cwlQVPd3UoiHB"
+    },
+    {
+      "album": {
         "name": "Rockin' Little Christmas",
         "url": "https://open.spotify.com/album/5hZivEHAxRLhYfsaNdPzkU"
       },
@@ -1219,7 +1255,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 165733,
       "name": "Run Rudolph Run",
       "url": "https://open.spotify.com/track/2pnPe4pJtq7689i5ydzvJJ"

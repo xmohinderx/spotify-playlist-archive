@@ -4,7 +4,7 @@
 
 > El que por su gusto muere, hasta la muerte la sabe\. Las historias de nuestro México 💀🪦💐
 
-51 songs - 2 hr 45 min - not published yet
+53 songs - 2 hr 52 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,9 +32,11 @@
 | [La Ley De La Vida](https://open.spotify.com/track/0B0vC9ItsWMUahbFN7a01H) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [La Ley De La Vida](https://open.spotify.com/album/6nAnqWuOL40YIUfsAPUi4F) | 2:55 | 2022-10-24 |  |
 | [La Tambora Va A Sonar](https://open.spotify.com/track/1qEVrgmfyslOXCpQsVaf1u) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Soy Así](https://open.spotify.com/album/4SrvbBpwiAJf09kK7EvQsk) | 2:36 | 2022-10-24 |  |
 | [La Troca Del Moño Negro](https://open.spotify.com/track/0JeumsWAVXuwYQ2J92A39V) | [Los Originales De San Juan](https://open.spotify.com/artist/3aVB3VLnoAn6bKiHOEzHag) | [El Tequilero](https://open.spotify.com/album/3I9ZxJI6RKfw6l9qq6f8DO) | 3:10 | 2022-10-24 |  |
-| [Las Tres Tumbas](https://open.spotify.com/track/0B2KzUIiv3F3ODkhMye2ZV) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [4 Decadas 20 Corridos](https://open.spotify.com/album/3zmF2n8AJ7gTBpUDiGrJMD) | 3:03 | 2022-10-24 |  |
+| [Las Tres Tumbas](https://open.spotify.com/track/0B2KzUIiv3F3ODkhMye2ZV) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [4 Decadas 20 Corridos](https://open.spotify.com/album/3zmF2n8AJ7gTBpUDiGrJMD) | 3:03 | 2022-10-24 | 2022-11-12 |
+| [Las Tres Tumbas](https://open.spotify.com/track/1jHxbXJ4MPxGZJbq4gvl5N) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [La Historia Del Corrido](https://open.spotify.com/album/7LTYE3QVrARb8p9aiZWhY1) | 3:13 | 2022-10-24 |  |
 | [Las Tres Tumbas](https://open.spotify.com/track/4mcG6SlICWy1KPphstFiWz) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G), [Homero Guerrero y Lupe Tijerina](https://open.spotify.com/artist/029TNxYpdZWjCidyQjNmgE) | [12 Kilates Puros Corridos](https://open.spotify.com/album/1y9lJbemJO1OdyIQvcL1q4) | 3:03 | 2022-10-24 | 2022-11-11 |
-| [Laurita Garza](https://open.spotify.com/track/1kfKyCWFxNp4WHJDcPyYWS) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Corridos Volumen 1](https://open.spotify.com/album/3cQ3TDx7CrpdBdDazb26zi) | 3:12 | 2022-10-24 |  |
+| [Laurita Garza](https://open.spotify.com/track/69pwh3bHrBUHFUelgKP2kI) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Lo Más Escuchado De](https://open.spotify.com/album/2Ogvgywcku2jTB0DH8DK3J) | 3:11 | 2022-10-24 |  |
+| [Laurita Garza](https://open.spotify.com/track/1kfKyCWFxNp4WHJDcPyYWS) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Corridos Volumen 1](https://open.spotify.com/album/3cQ3TDx7CrpdBdDazb26zi) | 3:12 | 2022-10-24 | 2022-11-12 |
 | [Lucio Vazquez](https://open.spotify.com/track/7xygLT3mUqdhdz80VfsN3f) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Antes De Partir](https://open.spotify.com/album/28Kb1pmRPsiBUFKSCs1Qlq) | 2:21 | 2022-10-24 |  |
 | [Mi Funeral](https://open.spotify.com/track/1OeQkgk15yHy05FA4ZBm6T) | [Victor Garcia](https://open.spotify.com/artist/4GZOqR1Cx6YeBN2Lmv0B1e) | [Victor García](https://open.spotify.com/album/7f2HP5bNAaD5avrcW4qdV1) | 3:24 | 2022-10-24 |  |
 | [Mi Vicio Más Grande](https://open.spotify.com/track/3YrTZUat5cgeVhrxEZvG1d) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Mi Vicio Más Grande](https://open.spotify.com/album/4Tl5QOkNgX6INDWg6mMfZB) | 2:17 | 2022-10-24 |  |

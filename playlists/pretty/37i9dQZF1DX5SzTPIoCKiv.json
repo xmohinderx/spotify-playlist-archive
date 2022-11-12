@@ -1,12 +1,12 @@
 {
   "description": "Recent smashes from your favorite Christian Contemporary artists.  Cover: Mac Powell",
-  "num_followers": 550398,
+  "num_followers": 550532,
   "original_name": "Christian Mix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNDI5NzQ1MywwMDAwMDAwMDU2YTJlZTk5YzY0ODEzMWZlNTIxMTk2YWFhMzgzMTkz",
+  "snapshot_id": "MTYzNDI5NzQ1MywwMDAwMDAwMDA4OTJlNGRmOWZlZTc2YWE4N2M5ZjlkNTNhNjYxYzc2",
   "tracks": [
     {
       "added_at": "2021-10-15 11:30:53",
@@ -683,6 +683,22 @@
     {
       "added_at": "2021-10-15 11:30:53",
       "album": {
+        "name": "Let the Ground Rest",
+        "url": "https://open.spotify.com/album/67cPtLz0jVSsGHWLiIMip7"
+      },
+      "artists": [
+        {
+          "name": "Chris Renzema",
+          "url": "https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT"
+        }
+      ],
+      "duration_ms": 254115,
+      "name": "Springtime",
+      "url": "https://open.spotify.com/track/0TmYlHDVP4gUTkUbl7AIsv"
+    },
+    {
+      "added_at": "2021-10-15 11:30:53",
+      "album": {
         "name": "Fresh Start",
         "url": "https://open.spotify.com/album/0deQGdpl2LNu0o7s9wRVGk"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 331613,
       "name": "Eye of the Storm (feat. Gabe Real)",
       "url": "https://open.spotify.com/track/6RSBBvhrP0KvkpaUSMPI11"
-    },
-    {
-      "added_at": "2021-10-15 11:30:53",
-      "album": {
-        "name": "Let the Ground Rest",
-        "url": "https://open.spotify.com/album/67cPtLz0jVSsGHWLiIMip7"
-      },
-      "artists": [
-        {
-          "name": "Chris Renzema",
-          "url": "https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT"
-        }
-      ],
-      "duration_ms": 254115,
-      "name": "Springtime",
-      "url": "https://open.spotify.com/track/0TmYlHDVP4gUTkUbl7AIsv"
     },
     {
       "added_at": "2021-10-15 11:30:53",
@@ -887,22 +887,6 @@
     {
       "added_at": "2021-10-15 11:30:53",
       "album": {
-        "name": "Rivers in the Wasteland",
-        "url": "https://open.spotify.com/album/52e12cyeu7IY7JGSoUArHw"
-      },
-      "artists": [
-        {
-          "name": "NEEDTOBREATHE",
-          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
-        }
-      ],
-      "duration_ms": 275560,
-      "name": "Multiplied",
-      "url": "https://open.spotify.com/track/4zgO1SgXOeFmr6Hno9DLs4"
-    },
-    {
-      "added_at": "2021-10-15 11:30:53",
-      "album": {
         "name": "Trial & Triumph",
         "url": "https://open.spotify.com/album/4milDwwpzRI8oHNuaXmNNX"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 217866,
       "name": "No Impossible with You",
       "url": "https://open.spotify.com/track/2XJ73OpbAluRnivJ4UI1C6"
+    },
+    {
+      "added_at": "2021-10-15 11:30:53",
+      "album": {
+        "name": "Rivers in the Wasteland",
+        "url": "https://open.spotify.com/album/52e12cyeu7IY7JGSoUArHw"
+      },
+      "artists": [
+        {
+          "name": "NEEDTOBREATHE",
+          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
+        }
+      ],
+      "duration_ms": 275560,
+      "name": "Multiplied",
+      "url": "https://open.spotify.com/track/4zgO1SgXOeFmr6Hno9DLs4"
     },
     {
       "added_at": "2021-10-15 11:30:53",
@@ -967,54 +967,18 @@
     {
       "added_at": "2021-10-15 11:30:53",
       "album": {
-        "name": "People (Live)",
-        "url": "https://open.spotify.com/album/5tLfBSUv5KGNNOqbyKo1rD"
+        "name": "God Is Good",
+        "url": "https://open.spotify.com/album/2NjwP5E285YasIUIQ6LPl0"
       },
       "artists": [
         {
-          "name": "Hillsong UNITED",
-          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
-        },
-        {
-          "name": "TAYA",
-          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+          "name": "Francesca Battistelli",
+          "url": "https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA"
         }
       ],
-      "duration_ms": 449253,
-      "name": "Whole Heart (Hold Me Now) - Live",
-      "url": "https://open.spotify.com/track/3XkNkpfHFB0hoS13DdzJup"
-    },
-    {
-      "added_at": "2021-10-15 11:30:53",
-      "album": {
-        "name": "Into The Mystery",
-        "url": "https://open.spotify.com/album/2vDmR7Be0zQwcxDnHAqe5X"
-      },
-      "artists": [
-        {
-          "name": "NEEDTOBREATHE",
-          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
-        }
-      ],
-      "duration_ms": 276574,
-      "name": "I Am Yours",
-      "url": "https://open.spotify.com/track/5nUzRHDvRYqRcOlVWg67Di"
-    },
-    {
-      "added_at": "2021-10-15 11:30:53",
-      "album": {
-        "name": "The Story's Not Over",
-        "url": "https://open.spotify.com/album/3gSR4A397QFdzyvO2qihm3"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Camp",
-          "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
-        }
-      ],
-      "duration_ms": 187266,
-      "name": "Dead Man Walking",
-      "url": "https://open.spotify.com/track/1z5YtEopKg5pyjCM3BEsr5"
+      "duration_ms": 197800,
+      "name": "God Is Good",
+      "url": "https://open.spotify.com/track/55u3TOux7B6QdoOOQ4KCWa"
     },
     {
       "added_at": "2021-10-15 11:30:53",
@@ -1035,6 +999,22 @@
     {
       "added_at": "2021-10-15 11:30:53",
       "album": {
+        "name": "The Story's Not Over",
+        "url": "https://open.spotify.com/album/3gSR4A397QFdzyvO2qihm3"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Camp",
+          "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
+        }
+      ],
+      "duration_ms": 187266,
+      "name": "Dead Man Walking",
+      "url": "https://open.spotify.com/track/1z5YtEopKg5pyjCM3BEsr5"
+    },
+    {
+      "added_at": "2021-10-15 11:30:53",
+      "album": {
         "name": "Chain Breaker (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1SIDIEoYi0EAlRqa1J6J7N"
       },
@@ -1047,22 +1027,6 @@
       "duration_ms": 232333,
       "name": "Survivor",
       "url": "https://open.spotify.com/track/1B0kLftVGJsZqJZGdHbAWZ"
-    },
-    {
-      "added_at": "2021-10-15 11:30:53",
-      "album": {
-        "name": "God Is Good",
-        "url": "https://open.spotify.com/album/2NjwP5E285YasIUIQ6LPl0"
-      },
-      "artists": [
-        {
-          "name": "Francesca Battistelli",
-          "url": "https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA"
-        }
-      ],
-      "duration_ms": 197800,
-      "name": "God Is Good",
-      "url": "https://open.spotify.com/track/55u3TOux7B6QdoOOQ4KCWa"
     },
     {
       "added_at": "2021-10-15 11:30:53",
@@ -1099,6 +1063,22 @@
     {
       "added_at": "2021-10-15 11:30:53",
       "album": {
+        "name": "Into The Mystery",
+        "url": "https://open.spotify.com/album/2vDmR7Be0zQwcxDnHAqe5X"
+      },
+      "artists": [
+        {
+          "name": "NEEDTOBREATHE",
+          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
+        }
+      ],
+      "duration_ms": 276574,
+      "name": "I Am Yours",
+      "url": "https://open.spotify.com/track/5nUzRHDvRYqRcOlVWg67Di"
+    },
+    {
+      "added_at": "2021-10-15 11:30:53",
+      "album": {
         "name": "Haven't Seen It Yet",
         "url": "https://open.spotify.com/album/1keC2a4EU43ByCNGktRgB6"
       },
@@ -1131,6 +1111,22 @@
     {
       "added_at": "2021-10-15 11:30:53",
       "album": {
+        "name": "Different",
+        "url": "https://open.spotify.com/album/6qDY9KRWCs4DX3hNvN9wMB"
+      },
+      "artists": [
+        {
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        }
+      ],
+      "duration_ms": 197946,
+      "name": "Different",
+      "url": "https://open.spotify.com/track/0HGGx9fQ55LFw5QFIB5MKp"
+    },
+    {
+      "added_at": "2021-10-15 11:30:53",
+      "album": {
         "name": "Same God",
         "url": "https://open.spotify.com/album/294x9L2GHOfyL9k0Ufo1qh"
       },
@@ -1147,18 +1143,18 @@
     {
       "added_at": "2021-10-15 11:30:53",
       "album": {
-        "name": "Different",
-        "url": "https://open.spotify.com/album/6qDY9KRWCs4DX3hNvN9wMB"
+        "name": "Holy Roar",
+        "url": "https://open.spotify.com/album/2MsjmtZb4JVzmQ2kmS6dVq"
       },
       "artists": [
         {
-          "name": "Micah Tyler",
-          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
         }
       ],
-      "duration_ms": 197946,
-      "name": "Different",
-      "url": "https://open.spotify.com/track/0HGGx9fQ55LFw5QFIB5MKp"
+      "duration_ms": 271920,
+      "name": "Is He Worthy?",
+      "url": "https://open.spotify.com/track/4E43YlwUlpYDJIxcMjt0S7"
     },
     {
       "added_at": "2021-10-15 11:30:53",
@@ -1179,18 +1175,18 @@
     {
       "added_at": "2021-10-15 11:30:53",
       "album": {
-        "name": "Holy Roar",
-        "url": "https://open.spotify.com/album/2MsjmtZb4JVzmQ2kmS6dVq"
+        "name": "For God Is With Us",
+        "url": "https://open.spotify.com/album/21RhfabPs3qGYmz3DRtNdn"
       },
       "artists": [
         {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
         }
       ],
-      "duration_ms": 271920,
-      "name": "Is He Worthy?",
-      "url": "https://open.spotify.com/track/4E43YlwUlpYDJIxcMjt0S7"
+      "duration_ms": 196846,
+      "name": "For God Is With Us",
+      "url": "https://open.spotify.com/track/3H5ly2nTpUNUdbg1X9dHWJ"
     },
     {
       "added_at": "2021-10-15 11:30:53",
@@ -1227,38 +1223,6 @@
     {
       "added_at": "2021-10-15 11:30:53",
       "album": {
-        "name": "Into The Mystery",
-        "url": "https://open.spotify.com/album/3VJ6mi9zBjEeDOTW167lMF"
-      },
-      "artists": [
-        {
-          "name": "NEEDTOBREATHE",
-          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
-        }
-      ],
-      "duration_ms": 234677,
-      "name": "Into The Mystery",
-      "url": "https://open.spotify.com/track/7zUgIo1qgHuJ3LmeFxmqiN"
-    },
-    {
-      "added_at": "2021-10-15 11:30:53",
-      "album": {
-        "name": "For God Is With Us",
-        "url": "https://open.spotify.com/album/21RhfabPs3qGYmz3DRtNdn"
-      },
-      "artists": [
-        {
-          "name": "for KING & COUNTRY",
-          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
-        }
-      ],
-      "duration_ms": 196846,
-      "name": "For God Is With Us",
-      "url": "https://open.spotify.com/track/3H5ly2nTpUNUdbg1X9dHWJ"
-    },
-    {
-      "added_at": "2021-10-15 11:30:53",
-      "album": {
         "name": "Over And Over",
         "url": "https://open.spotify.com/album/6JSGQXaNZyITJBTMTWGseO"
       },
@@ -1291,6 +1255,22 @@
       "duration_ms": 200333,
       "name": "Weary Traveler",
       "url": "https://open.spotify.com/track/4GvaupCSw4gKdfP0h9H9AB"
+    },
+    {
+      "added_at": "2021-10-15 11:30:53",
+      "album": {
+        "name": "Into The Mystery",
+        "url": "https://open.spotify.com/album/3VJ6mi9zBjEeDOTW167lMF"
+      },
+      "artists": [
+        {
+          "name": "NEEDTOBREATHE",
+          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
+        }
+      ],
+      "duration_ms": 234677,
+      "name": "Into The Mystery",
+      "url": "https://open.spotify.com/track/7zUgIo1qgHuJ3LmeFxmqiN"
     },
     {
       "added_at": "2021-10-15 11:30:53",
@@ -1427,6 +1407,26 @@
     {
       "added_at": "2021-10-15 11:30:53",
       "album": {
+        "name": "I Know A Ghost",
+        "url": "https://open.spotify.com/album/7JiKelPfVrHUCRNsu6k9lq"
+      },
+      "artists": [
+        {
+          "name": "Crowder",
+          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
+        },
+        {
+          "name": "Mandisa",
+          "url": "https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3"
+        }
+      ],
+      "duration_ms": 209840,
+      "name": "Let It Rain (Is There Anybody)",
+      "url": "https://open.spotify.com/track/3Rf7ZckSUqSffVhHmiwOde"
+    },
+    {
+      "added_at": "2021-10-15 11:30:53",
+      "album": {
         "name": "Out Of The Dark",
         "url": "https://open.spotify.com/album/0HXOO7P7QQHPzUHDbSGKMF"
       },
@@ -1451,42 +1451,18 @@
     {
       "added_at": "2021-10-15 11:30:53",
       "album": {
-        "name": "I Know A Ghost",
-        "url": "https://open.spotify.com/album/7JiKelPfVrHUCRNsu6k9lq"
+        "name": "These Simple Truths",
+        "url": "https://open.spotify.com/album/6UtlWkAxBuVPSzFNwiIPqj"
       },
       "artists": [
         {
-          "name": "Crowder",
-          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
-        },
-        {
-          "name": "Mandisa",
-          "url": "https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3"
+          "name": "Sidewalk Prophets",
+          "url": "https://open.spotify.com/artist/2SMYoM2Kbcj6rI6U3FRc4U"
         }
       ],
-      "duration_ms": 209840,
-      "name": "Let It Rain (Is There Anybody)",
-      "url": "https://open.spotify.com/track/3Rf7ZckSUqSffVhHmiwOde"
-    },
-    {
-      "added_at": "2021-10-15 11:30:53",
-      "album": {
-        "name": "Fill This Place (Live)",
-        "url": "https://open.spotify.com/album/16CdyumvxDomk04TnJZYe7"
-      },
-      "artists": [
-        {
-          "name": "Chris McClarney",
-          "url": "https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp"
-        },
-        {
-          "name": "Hollyn",
-          "url": "https://open.spotify.com/artist/2E6Nnh7AAOVajEHHRDALav"
-        }
-      ],
-      "duration_ms": 248854,
-      "name": "I'm Listening - Radio Version",
-      "url": "https://open.spotify.com/track/5ExBj7cdyNLZ1t5PalfPWa"
+      "duration_ms": 260613,
+      "name": "You Love Me Anyway",
+      "url": "https://open.spotify.com/track/7KT088cs0FVVQum6IyT0X9"
     },
     {
       "added_at": "2021-10-15 11:30:53",
@@ -1507,18 +1483,22 @@
     {
       "added_at": "2021-10-15 11:30:53",
       "album": {
-        "name": "These Simple Truths",
-        "url": "https://open.spotify.com/album/6UtlWkAxBuVPSzFNwiIPqj"
+        "name": "Fill This Place (Live)",
+        "url": "https://open.spotify.com/album/16CdyumvxDomk04TnJZYe7"
       },
       "artists": [
         {
-          "name": "Sidewalk Prophets",
-          "url": "https://open.spotify.com/artist/2SMYoM2Kbcj6rI6U3FRc4U"
+          "name": "Chris McClarney",
+          "url": "https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp"
+        },
+        {
+          "name": "Hollyn",
+          "url": "https://open.spotify.com/artist/2E6Nnh7AAOVajEHHRDALav"
         }
       ],
-      "duration_ms": 260613,
-      "name": "You Love Me Anyway",
-      "url": "https://open.spotify.com/track/7KT088cs0FVVQum6IyT0X9"
+      "duration_ms": 248854,
+      "name": "I'm Listening - Radio Version",
+      "url": "https://open.spotify.com/track/5ExBj7cdyNLZ1t5PalfPWa"
     },
     {
       "added_at": "2021-10-15 11:30:53",
@@ -1607,6 +1587,38 @@
     {
       "added_at": "2021-10-15 11:30:53",
       "album": {
+        "name": "Caught In The Reeds (Moses)",
+        "url": "https://open.spotify.com/album/6wQiAgwwdZYXc5d9aYwtSU"
+      },
+      "artists": [
+        {
+          "name": "Chris Renzema",
+          "url": "https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT"
+        }
+      ],
+      "duration_ms": 249894,
+      "name": "Caught In The Reeds (Moses)",
+      "url": "https://open.spotify.com/track/719R9MA3XRpXuVwttEX1Vb"
+    },
+    {
+      "added_at": "2021-10-15 11:30:53",
+      "album": {
+        "name": "Fear No More",
+        "url": "https://open.spotify.com/album/2fB6DEetkiafmJD4hcfMDZ"
+      },
+      "artists": [
+        {
+          "name": "Building 429",
+          "url": "https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY"
+        }
+      ],
+      "duration_ms": 192926,
+      "name": "Fear No More",
+      "url": "https://open.spotify.com/track/2dRkBASYztFHahOf5GNeQ9"
+    },
+    {
+      "added_at": "2021-10-15 11:30:53",
+      "album": {
         "name": "Living With A Fire (Live)",
         "url": "https://open.spotify.com/album/0K4TZjqRa9XgexXHvWTwlp"
       },
@@ -1643,22 +1655,6 @@
     {
       "added_at": "2021-10-15 11:30:53",
       "album": {
-        "name": "Fear No More",
-        "url": "https://open.spotify.com/album/2fB6DEetkiafmJD4hcfMDZ"
-      },
-      "artists": [
-        {
-          "name": "Building 429",
-          "url": "https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY"
-        }
-      ],
-      "duration_ms": 192926,
-      "name": "Fear No More",
-      "url": "https://open.spotify.com/track/2dRkBASYztFHahOf5GNeQ9"
-    },
-    {
-      "added_at": "2021-10-15 11:30:53",
-      "album": {
         "name": "Wonder",
         "url": "https://open.spotify.com/album/5ZWmzqJe0RH6HdT4ntNaX2"
       },
@@ -1679,18 +1675,18 @@
     {
       "added_at": "2021-10-15 11:30:53",
       "album": {
-        "name": "Caught In The Reeds (Moses)",
-        "url": "https://open.spotify.com/album/6wQiAgwwdZYXc5d9aYwtSU"
+        "name": "Ordinary Days",
+        "url": "https://open.spotify.com/album/7dFdGVoxZ8ZLnj1sdxhys5"
       },
       "artists": [
         {
-          "name": "Chris Renzema",
-          "url": "https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT"
+          "name": "JJ Heller",
+          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
         }
       ],
-      "duration_ms": 249894,
-      "name": "Caught In The Reeds (Moses)",
-      "url": "https://open.spotify.com/track/719R9MA3XRpXuVwttEX1Vb"
+      "duration_ms": 248386,
+      "name": "Ordinary Days",
+      "url": "https://open.spotify.com/track/2vfvPpkSwFwsuppSHbLCoR"
     }
   ],
   "unique_name": "Christian Mix",

@@ -44,6 +44,28 @@
     },
     {
       "album": {
+        "name": "10:35",
+        "url": "https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172252,
+      "name": "10:35",
+      "url": "https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3"
+    },
+    {
+      "album": {
         "name": "Special",
         "url": "https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr"
       },
@@ -512,6 +534,24 @@
     },
     {
       "album": {
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194165,
+      "name": "Bejeweled",
+      "url": "https://open.spotify.com/track/3qoftcUZaUOncvIYjFSPdE"
+    },
+    {
+      "album": {
         "name": "Suncity",
         "url": "https://open.spotify.com/album/2Qxc2NJ7yPKVFRWi3llRr2"
       },
@@ -621,7 +661,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 231826,
       "name": "Blank Space",
       "url": "https://open.spotify.com/track/1p80LdxRV74UKvL8gnD7ky"
@@ -919,7 +959,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 206361,
       "name": "COMPLETE MESS",
       "url": "https://open.spotify.com/track/1Y8COP6Oqef3UxIONvzx6I"
@@ -1457,7 +1497,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 175344,
       "name": "Fingers Crossed",
       "url": "https://open.spotify.com/track/3yMC1KsTwh0ceXdIe4QQAQ"
@@ -1627,7 +1667,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 215229,
       "name": "Girls Like You",
       "url": "https://open.spotify.com/track/6OEHjJJvdkk1Ln0p0AZdyz"
@@ -2203,6 +2243,28 @@
       "duration_ms": 222800,
       "name": "It'll Be Okay",
       "url": "https://open.spotify.com/track/2KnLkZ3z7PO3kgVGHGqDpD"
+    },
+    {
+      "album": {
+        "name": "I\u2019m a Mess (with YUNGBLUD)",
+        "url": "https://open.spotify.com/album/7kpLyQOiE4j9bNCZhKvWBr"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        },
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187793,
+      "name": "I\u2019m a Mess (with YUNGBLUD)",
+      "url": "https://open.spotify.com/track/1yvArCvZLTHiawRdWKSAWj"
     },
     {
       "album": {
@@ -3190,6 +3252,24 @@
     },
     {
       "album": {
+        "name": "Never Gonna Not Dance Again",
+        "url": "https://open.spotify.com/album/6MCHSjoEVriUjWE6LERAaR"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225789,
+      "name": "Never Gonna Not Dance Again",
+      "url": "https://open.spotify.com/track/6sZo5nJIsFWXefRCCexpx0"
+    },
+    {
+      "album": {
         "name": "Never Say Never (with Lainey Wilson)",
         "url": "https://open.spotify.com/album/1aW42KGi7ll4z6ALSwfv70"
       },
@@ -3623,7 +3703,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 207853,
       "name": "Shivers",
       "url": "https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5"
@@ -4398,6 +4478,24 @@
     },
     {
       "album": {
+        "name": "Weapons",
+        "url": "https://open.spotify.com/album/2tjMJuZqFVUqHrvXTkhZzO"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151592,
+      "name": "Weapons",
+      "url": "https://open.spotify.com/track/21JOYA45JFkrOjqNwI6g8E"
+    },
+    {
+      "album": {
         "name": "Weatherman",
         "url": "https://open.spotify.com/album/1zyIXJ3Y7IRMaCbIVAgHYq"
       },
@@ -4692,6 +4790,28 @@
     },
     {
       "album": {
+        "name": "Worst Day",
+        "url": "https://open.spotify.com/album/4E87ZGUzJWicBr4Ab9wmxe"
+      },
+      "artists": [
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "MAX",
+          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167274,
+      "name": "Worst Day",
+      "url": "https://open.spotify.com/track/7Bx0oBgnEfVR2bCs6Aul0X"
+    },
+    {
+      "album": {
         "name": "You",
         "url": "https://open.spotify.com/album/6cWawCk4DohREQA42eEOe1"
       },
@@ -4809,7 +4929,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 161200,
       "name": "Your Heart Or Mine",
       "url": "https://open.spotify.com/track/7ETjhPaIU4UmHOiimJBZz9"

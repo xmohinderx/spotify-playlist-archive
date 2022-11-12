@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYHkSks5rujC.md) - [plain]
 
 > A journey through The Beatles' career.
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,647 likes - 45 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,711 likes - 45 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYHkSks5rujC.md) - [plain]
 | 2 | [Twist And Shout \- Remastered 2009](https://open.spotify.com/track/5ZBeML7Lf3FMEVviTyvi8l) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Please Please Me \(Remastered\)](https://open.spotify.com/album/3KzAvEXcqJKBF97HrXwlgf) | 2:35 |
 | 3 | [I Saw Her Standing There \- Remastered 2009](https://open.spotify.com/track/4snBNKn7vD8PeQDAUJX3rT) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles \- New Year's Workout](https://open.spotify.com/album/4AWAZIuMdas1wV50kNkTv3) | 2:53 |
 | 4 | [Baby It's You \- Remastered 2009](https://open.spotify.com/track/2VmB1rF9FtfKUmFHDVnq8Q) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Please Please Me \(Remastered\)](https://open.spotify.com/album/3KzAvEXcqJKBF97HrXwlgf) | 2:40 |
-| 5 | [She Loves You \- Mono / Remastered](https://open.spotify.com/track/6nEkxYIEnrbYH7h1hJ8Xn6) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [1 \(Remastered\)](https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh) | 2:20 |
+| 5 | [She Loves You \- Remastered 2009](https://open.spotify.com/track/48JM82SHQTBYkhEYhMaOaa) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Past Masters \(Vols\. 1 & 2 / Remastered\)](https://open.spotify.com/album/3GmCXW10kLxmZrEY0JpRlw) | 2:21 |
 | 6 | [I Want To Hold Your Hand \- Remastered 2015](https://open.spotify.com/track/4pbG9SUmWIvsROVLF0zF9s) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [1 \(Remastered\)](https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh) | 2:25 |
 | 7 | [Roll Over Beethoven \- Remastered 2009](https://open.spotify.com/track/3idqWaBn3mRdsIodCU6uBi) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [With The Beatles \(Remastered\)](https://open.spotify.com/album/1aYdiJk6XKeHWGO3FzHHTr) | 2:45 |
 | 8 | [I Wanna Be Your Man \- Remastered 2009](https://open.spotify.com/track/0sIZcoe69iSym9AecvZ7CT) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [With The Beatles \(Remastered\)](https://open.spotify.com/album/1aYdiJk6XKeHWGO3FzHHTr) | 1:59 |
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYHkSks5rujC.md) - [plain]
 | 39 | [Why Don't We Do It In The Road? \- 2018 Mix](https://open.spotify.com/track/6CD4ZmCgYyiECTOWjm5LqC) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles](https://open.spotify.com/album/1WMVvswNzB9i2UMh9svso5) | 1:41 |
 | 40 | [Everybody's Got Something To Hide Except Me And My Monkey \- 2018 Mix](https://open.spotify.com/track/4pBM26oKtRWYK2UbYD4OlJ) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles](https://open.spotify.com/album/1WMVvswNzB9i2UMh9svso5) | 2:24 |
 | 41 | [Revolution 9 \- 2018 Mix](https://open.spotify.com/track/6FQkfaghoLt72rLmhsAqFy) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles](https://open.spotify.com/album/1WMVvswNzB9i2UMh9svso5) | 8:20 |
-| 42 | [Come Together \- Remastered 2009](https://open.spotify.com/track/2EqlS6tkEnglzr7tkKAAYD) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered\)](https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN) | 4:19 |
+| 42 | [Come Together \- Remastered 2015](https://open.spotify.com/track/3CEFDHJSiERlfwRujZ1CkJ) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [1 \(Remastered\)](https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh) | 4:18 |
 | 43 | [Something \- Remastered 2015](https://open.spotify.com/track/7mzNk14FElnA5DOKQyBrM0) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [1 \(Remastered\)](https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh) | 3:01 |
 | 44 | [Let It Be \- Remastered 2009](https://open.spotify.com/track/7iN1s7xHE4ifF5povM6A48) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Let It Be \(Remastered\)](https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5) | 4:03 |
 | 45 | [The Long And Winding Road \- Remastered 2009](https://open.spotify.com/track/3mlMpmY8oZIBFc39D9zLbh) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Let It Be \(Remastered\)](https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5) | 3:38 |
 
-Snapshot ID: `MTY0OTc2NjY1NywwMDAwMDAwMGQwMmY5ZDk2ZDFiOGViMzY3YWExY2FmY2IxNGE4MWRj`
+Snapshot ID: `MTY0OTc2NjY1NywwMDAwMDAwMDY5YjAwNGI4YWZmNDNhNWVhOTRkYTg5NzA4OGMyNTRi`

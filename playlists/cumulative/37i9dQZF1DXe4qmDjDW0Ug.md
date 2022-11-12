@@ -4,7 +4,7 @@
 
 > 국내를 강타 했던 R&B곡들을 만나보세요.
 
-112 songs - 7 hr 43 min - [published](https://open.spotify.com/playlist/65Hv4SNB2AgNDDopmquTMX)
+113 songs - 7 hr 47 min - [published](https://open.spotify.com/playlist/65Hv4SNB2AgNDDopmquTMX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,10 +102,11 @@
 | [링가링가 \(RINGA LINGA\)](https://open.spotify.com/track/7fLijBP4BGujlmHRP3aX32) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [RISE](https://open.spotify.com/album/1Y9so4jq4t4taAHu0VdKX3) | 3:47 | 2021-03-11 |  |
 | [벌써 일년](https://open.spotify.com/track/373fb3tsAbcShtD2RZ8edv) | [Brown Eyes](https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ) | [Brown Eyes](https://open.spotify.com/album/59LLKRi3hOZZvszabtTeWA) | 3:27 | 2021-03-11 |  |
 | [불치병](https://open.spotify.com/track/6h13tMy23cM8rzmsaNgTI4) | [Realslow](https://open.spotify.com/artist/7luxe2wCwtDtkKSP8ZhPLn) | [YG 10th Anniversary](https://open.spotify.com/album/7wU8funBokmL3hL1eP9yR5) | 3:42 | 2021-03-11 | 2022-07-28 |
-| [불치병 \(Feat.Masta Wu\)](https://open.spotify.com/track/6HTz1xXLag7pyVlzsXrItU) | [Realslow](https://open.spotify.com/artist/7luxe2wCwtDtkKSP8ZhPLn), [MASTA WU](https://open.spotify.com/artist/7ndYLcobuKuq9ZcoIAVvU6) | [For the moment](https://open.spotify.com/album/5zSnSuP8gPOeZdrEchEv7q) | 3:42 | 2021-03-11 |  |
+| [불치병 \(Feat.Masta Wu\)](https://open.spotify.com/track/6HTz1xXLag7pyVlzsXrItU) | [Realslow](https://open.spotify.com/artist/7luxe2wCwtDtkKSP8ZhPLn), [MASTA WU](https://open.spotify.com/artist/7ndYLcobuKuq9ZcoIAVvU6) | [For the moment](https://open.spotify.com/album/5zSnSuP8gPOeZdrEchEv7q) | 3:42 | 2021-03-11 | 2022-11-12 |
 | [비오는 압구정](https://open.spotify.com/track/1WKoaRdUQGSoo8qfiWc1dT) | [Brown Eyes](https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ) | [Reason 4 breathing?](https://open.spotify.com/album/7yl1TSdq0B20VPe75Y8XAa) | 3:36 | 2021-03-11 |  |
 | [새벽한시 \(1AM\)](https://open.spotify.com/track/3JmlYV4mm5jdo2ZWzATLBv) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [RISE](https://open.spotify.com/album/1Y9so4jq4t4taAHu0VdKX3) | 3:11 | 2021-03-11 |  |
 | [안되나요](https://open.spotify.com/track/52JY05Ks2OsY3NQ3wjI9s1) | [Realslow](https://open.spotify.com/artist/7luxe2wCwtDtkKSP8ZhPLn) | [Like A Movie](https://open.spotify.com/album/5VJSRZsnE47eEGPKHyAA1Z) | 4:30 | 2021-03-11 | 2022-11-02 |
+| [안되나요](https://open.spotify.com/track/7JXQOKFhZ0h8VrYdWbwM8F) | [Realslow](https://open.spotify.com/artist/7luxe2wCwtDtkKSP8ZhPLn) | [Like A Movie](https://open.spotify.com/album/71bHxIobu3Ib3oSL3A4jKj) | 4:30 | 2021-03-11 |  |
 | [안되나요](https://open.spotify.com/track/5njOfvhH1y5CxvdXgUXgTC) | [Realslow](https://open.spotify.com/artist/7luxe2wCwtDtkKSP8ZhPLn) | [YG 10th Anniversary](https://open.spotify.com/album/7wU8funBokmL3hL1eP9yR5) | 4:30 | 2021-03-11 | 2022-07-29 |
 | [애송이의 사랑](https://open.spotify.com/track/12vpE3RdDwSy6D8W1Vp5cm) | [Yangpa](https://open.spotify.com/artist/05Tt2bRgkP3yY2TnpRMvpS) | [Yangpa Best](https://open.spotify.com/album/3ABGP2JrFsCzvkfuvSpDDu) | 3:39 | 2021-03-11 | 2022-07-29 |
 | [애송이의 사랑](https://open.spotify.com/track/5mCY172DdlbnXfXWoLINmF) | [Yangpa](https://open.spotify.com/artist/05Tt2bRgkP3yY2TnpRMvpS) | [애송이의 사랑](https://open.spotify.com/album/2vCLAlhvbVkIgxOX3YFi3b) | 3:40 | 2021-03-11 |  |

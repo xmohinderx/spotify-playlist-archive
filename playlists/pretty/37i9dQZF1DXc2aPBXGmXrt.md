@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc2aPBXGmXrt.md) - [plain]
 
 > This is the essential Justin Bieber.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,776,466 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,777,310 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,11 +54,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc2aPBXGmXrt.md) - [plain]
 | 44 | [Deserve You](https://open.spotify.com/track/5NU40QTlXrDUJzDBdv79bg) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:07 |
 | 45 | [Next To You \(feat\. Justin Bieber\)](https://open.spotify.com/track/7gd01LMH2gBcoDngSt8sq9) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [F.A.M.E\. \(Expanded Edition\)](https://open.spotify.com/album/6df0qvkMXoyHGt9J8cujZb) | 4:25 |
 | 46 | [2 Much](https://open.spotify.com/track/0oaY19dUwZimIgzn3ZZLZO) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:32 |
-| 47 | [One Less Lonely Girl](https://open.spotify.com/track/69ghzc538EQSVon2Gm3wrr) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [My World](https://open.spotify.com/album/1rG5TDs3jYh6OU753I54CI) | 3:49 |
+| 47 | [One Less Lonely Girl](https://open.spotify.com/track/5YaHat4YWCZcQNfgpTyj0F) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Toddler and Children Singalong Vol\. 5](https://open.spotify.com/album/5fAi7hYLR44BJ2MEJutE28) | 3:49 |
 | 48 | [Forever \(feat\. Post Malone & Clever\)](https://open.spotify.com/track/2ZlCGeK30BLRNSPC832pNZ) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Clever](https://open.spotify.com/artist/5yy76ufVriyvidNSvXlRU1) | [Changes](https://open.spotify.com/album/63iWSELt9V1kV6RSMxN7Ii) | 3:39 |
 | 49 | [Lifetime](https://open.spotify.com/track/3kZLeZr4StCy1tlOBRJrUH) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice \(Triple Chucks Deluxe\)](https://open.spotify.com/album/7DjqzdD8MYtzgiJDGHltsp) | 3:27 |
 | 50 | [No Brainer](https://open.spotify.com/track/5WvAo7DNuPRmk4APhdPzi8) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [No Brainer](https://open.spotify.com/album/02drHFQa59AoJWU6DXSSjd) | 4:20 |
-| 51 | [Purpose](https://open.spotify.com/track/2IjyFRCRn8x1bEquOM3vxg) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Purpose \(Deluxe\)](https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr) | 3:30 |
+| 51 | [Purpose](https://open.spotify.com/track/4akknPSIJH8JZOadthgXkR) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Cozy Songs 2020](https://open.spotify.com/album/4UkruAvphs0CweRwOdbiLb) | 3:30 |
 | 52 | [Die For You \(feat\. Dominic Fike\)](https://open.spotify.com/track/6Z2pe32hFnUd2x5NgO5KFc) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Justice](https://open.spotify.com/album/0w1dwXfG5z6Xjjgj524JkD) | 3:18 |
 | 53 | [Don’t Go \(with Justin Bieber & Don Toliver\)](https://open.spotify.com/track/55sgQENF3LY1sUcJUwasLl) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Don’t Go \(with Justin Bieber & Don Toliver\)](https://open.spotify.com/album/76HLs4wSTOuCNwcGl4dycr) | 2:48 |
 | 54 | [Unstable \(feat\. The Kid LAROI\)](https://open.spotify.com/track/137mSruegm1u6x9NvwiagR) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:38 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc2aPBXGmXrt.md) - [plain]
 | 74 | [Be Alright](https://open.spotify.com/track/0nxvFG50rGXkiGQqOO2MHr) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Believe \(Deluxe Edition\)](https://open.spotify.com/album/70f70xLCpH7wHaVvB2oZT9) | 3:09 |
 | 75 | [Get Me \(feat\. Kehlani\)](https://open.spotify.com/track/5VwwpU7KsLhgfbMEecedhJ) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Changes](https://open.spotify.com/album/63iWSELt9V1kV6RSMxN7Ii) | 3:05 |
 
-Snapshot ID: `MTY2MjA5MTI2MCwwMDAwMDAwMDQ5MzMwMjgwMTlmMjdhY2E2ZThiYzM1YTQwNWJhYmRi`
+Snapshot ID: `MTY2MjA5MTI2MCwwMDAwMDAwMGY5NWM4MDA5YzA0Yzk2ZjRmOGE2OTc0YTU2ZTYxY2Ey`

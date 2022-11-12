@@ -4,7 +4,7 @@
 
 > Jungle is still massive
 
-106 songs - 8 hr 46 min - [published](https://open.spotify.com/playlist/5ESlyfMOh8TLILYBOWB5nc)
+107 songs - 8 hr 50 min - [published](https://open.spotify.com/playlist/5ESlyfMOh8TLILYBOWB5nc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [Get Shwifty](https://open.spotify.com/track/2Lexuj2U8cUFSThM8wN7p0) | [Coco Bryce](https://open.spotify.com/artist/08hjAM9XAD28O0nWVKmlx5) | [Ma Bae Be Luv](https://open.spotify.com/album/2vEM9KFW0EcLF8GZX8oRDs) | 3:58 | 2022-05-05 |  |
 | [Gimme the Loot](https://open.spotify.com/track/137WnFeesPp2yE0dJavANT) | [Zero T](https://open.spotify.com/artist/5PKeA9LeUfSjUhy1ja1lsg) | [Come & Reprazent / Gimme the Loot](https://open.spotify.com/album/2bTbgIQuoYmthIfpkz0pcp) | 5:18 | 2022-05-05 |  |
 | [Going In](https://open.spotify.com/track/3MlG2c9fZWbJVB6vI2izmy) | [Sam Interface](https://open.spotify.com/artist/04dcWSXP57PDMzOuQ2tgMw) | [Going in / Shadows](https://open.spotify.com/album/2NHxCLvarSGfVxZKj0p9G2) | 3:53 | 2022-05-05 | 2022-10-15 |
-| [Going In](https://open.spotify.com/track/6hA8HVl34XC2cNgSfwaaBv) | [Sam Interface](https://open.spotify.com/artist/04dcWSXP57PDMzOuQ2tgMw) | [Going in / Shadows](https://open.spotify.com/album/6vJzw8CH2VEXSfqzVM6M4v) | 3:53 | 2022-09-05 |  |
+| [Going In](https://open.spotify.com/track/6hA8HVl34XC2cNgSfwaaBv) | [Sam Interface](https://open.spotify.com/artist/04dcWSXP57PDMzOuQ2tgMw) | [Going in / Shadows](https://open.spotify.com/album/6vJzw8CH2VEXSfqzVM6M4v) | 3:53 | 2022-09-05 | 2022-11-12 |
+| [Going In](https://open.spotify.com/track/6xy4XTJnuhF0P2braEUec6) | [Sam Interface](https://open.spotify.com/artist/04dcWSXP57PDMzOuQ2tgMw) | [Future Bounce Club Series, Vol\. 1](https://open.spotify.com/album/5eJpibTaSRnUfoLuRIgaqQ) | 3:53 | 2022-10-28 |  |
 | [Gold Soul](https://open.spotify.com/track/0x7iceybhRRDkMHuY9vFzt) | [Nectax](https://open.spotify.com/artist/1UV1OG68pz1eNhIS2J0UOf) | [Gold Soul](https://open.spotify.com/album/1u9VM2GL8xRWRIZbQCM6Qz) | 4:51 | 2022-05-05 |  |
 | [Good Time](https://open.spotify.com/track/2LVz0jvvdCSwSEYIvcIXqA) | [4am Kru](https://open.spotify.com/artist/7nrVhzPUJsigF7rt9BL9jQ) | [Good Time](https://open.spotify.com/album/1C9ovUwakv3dr4dMgBJcWg) | 4:37 | 2022-05-05 |  |
 | [Good Time](https://open.spotify.com/track/5BpypPrHuuAvFeZ1LtUgzQ) | [4am Kru](https://open.spotify.com/artist/7nrVhzPUJsigF7rt9BL9jQ) | [Good Time](https://open.spotify.com/album/50aLwBuEQ2bU1bSm2KXyFd) | 4:37 | 2022-05-05 | 2022-07-29 |

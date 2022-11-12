@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYi488IywmOA.md) - [plain]
 | 17 | [Poor Black Children](https://open.spotify.com/track/4Rq02gjGJQSTu0ubHPosIr) | [Big Daddy Wilson](https://open.spotify.com/artist/4xBhIBf0DEjAcJvGSwJdFr) | [Hard Time Blues](https://open.spotify.com/album/4LqKWtUn78Qaj7Jwo7dK0h) | 3:47 |
 | 18 | [Funky Bitch](https://open.spotify.com/track/0cibalqHJd5nVz6U51PpwR) | [Blues Traveler](https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ) | [Traveler's Blues](https://open.spotify.com/album/1FvSXWIYbHm4plK9ytVaLd) | 4:32 |
 | 19 | [Parade](https://open.spotify.com/track/6qzA5ZUivvw1FCZJSVYoNE) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [For My Friends](https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0) | 2:16 |
-| 20 | [Roll Me](https://open.spotify.com/track/1H3htV0mJx2wqx79quNSrt) | [Davy Knowles](https://open.spotify.com/artist/4yiPHMcw2R2SKfIsMuatfB) | [What Happens Next](https://open.spotify.com/album/5YPB4NSqjifClpCCbiNVXB) | 5:07 |
+| 20 | [Roll Me](https://open.spotify.com/track/1ntK0MotJ1rB5a8m4LCecH) | [Davy Knowles](https://open.spotify.com/artist/4yiPHMcw2R2SKfIsMuatfB) | [Hell To Pay](https://open.spotify.com/album/6BvETj5Vvgyq0P1WdWaT0S) | 5:07 |
 | 21 | [Angel In The Alleyways](https://open.spotify.com/track/4q0iE01soDpTD7jObdxTX9) | [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W), [Patti Scialfa](https://open.spotify.com/artist/6kZQOOVmBEdPxeWYe4xbDj), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Angel In The Alleyways](https://open.spotify.com/album/0dDD5xoKda8099F4wTuByT) | 4:20 |
 | 22 | [Cheats and Liars](https://open.spotify.com/track/4PXYmSraZ4JEZsaBDJh2QG) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Cheats and Liars](https://open.spotify.com/album/2rZ2hqlzxMXvj2XN1i8DSZ) | 3:48 |
 | 23 | [Fragile Peace And Certain War](https://open.spotify.com/track/3h3v9Nf0vU8bNr2FGtpYQM) | [Carolyn Wonderland](https://open.spotify.com/artist/0XhsEmCqMW2k9yMl4o8t4n) | [Tempting Fate](https://open.spotify.com/album/5SOM73TJ4GOm9mFzmhaKUv) | 3:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYi488IywmOA.md) - [plain]
 | 49 | [In The Night Time](https://open.spotify.com/track/3XguwJEzc5fWjtqb8ofb8h) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [In The Night Time](https://open.spotify.com/album/7mUS9JWoAWUMmUgBLy1SXq) | 3:08 |
 | 50 | [Comes Easy to Me](https://open.spotify.com/track/3O0Q20ESvI3rLGWmcCSIe8) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Comes Easy to Me](https://open.spotify.com/album/4AyLn4EwySfPvpRGQa1wHy) | 2:49 |
 
-Snapshot ID: `MTYzODM3NjczNCwwMDAwMDAwMGI1ZGIwYzA4YWQ4MzJmMjIyNDNkNTZlODZmNzQ2MjBh`
+Snapshot ID: `MTYzODM3NjczNCwwMDAwMDAwMDY2ZmI5ZmIwZThjYTk5ZmMwOGU5OWUxODg0NDQ2YmQ3`

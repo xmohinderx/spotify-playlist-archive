@@ -4,13 +4,14 @@
 
 > Listen to all of Stormzy's biggest cuts and new music as it drops.
 
-83 songs - 5 hr 12 min - [published](https://open.spotify.com/playlist/1eq441F6Kq07Kj48Nsa7vI)
+84 songs - 5 hr 16 min - [published](https://open.spotify.com/playlist/1eq441F6Kq07Kj48Nsa7vI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [100 Bags](https://open.spotify.com/track/73aLFMrJu7YX7IMaNlo8Ln) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Gang Signs & Prayer](https://open.spotify.com/album/5fkFWJ9LZizXE4yPenNGuy) | 3:37 | 2021-07-08 |  |
 | [21 Gun Salute \(feat\. Wretch 32\) \- Interlude](https://open.spotify.com/track/71GOBk9Dj0NEYNLzLCX4Sq) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Wretch 32](https://open.spotify.com/artist/0T2sGLJKge2eaFmZJxX7sq) | [Gang Signs & Prayer](https://open.spotify.com/album/5fkFWJ9LZizXE4yPenNGuy) | 2:26 | 2021-07-08 |  |
-| [All Time Low](https://open.spotify.com/track/0SuLAslEMFZAXf0SwY7syi) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [The Human Condition](https://open.spotify.com/album/2jJReDZqTuAxr4R0ItimZc) | 3:37 | 2021-07-08 |  |
+| [All Time Low](https://open.spotify.com/track/0SuLAslEMFZAXf0SwY7syi) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [The Human Condition](https://open.spotify.com/album/2jJReDZqTuAxr4R0ItimZc) | 3:37 | 2021-07-08 | 2022-11-12 |
+| [All Time Low](https://open.spotify.com/track/5Gv9zf3uLyRXkFdPJvFiPO) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [Anxiety Relief](https://open.spotify.com/album/4petjewvBRnlVshNlV2RGn) | 3:37 | 2022-10-13 |  |
 | [All Time Low](https://open.spotify.com/track/7JODxUwDCTvuEVkPMm9eHL) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [All Time Low](https://open.spotify.com/album/37ZvH98twhiIkb4fVKYgvT) | 3:39 | 2021-07-08 | 2022-07-29 |
 | [And Dat \(Ft\. Stormzy\)](https://open.spotify.com/track/46QcroVZAqUfqLmGs70OYt) | [Bonkaz](https://open.spotify.com/artist/7JxnnwPLTjVyHHruCMpcJQ), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Mixtape of the Year](https://open.spotify.com/album/7rZy4FrRwRwzoAzePdjZdx) | 3:15 | 2021-07-08 |  |
 | [And Dat \(Ft\. Stormzy\)](https://open.spotify.com/track/78chq26Bmte8cDBp2FCF74) | [Bonkaz](https://open.spotify.com/artist/7JxnnwPLTjVyHHruCMpcJQ), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Mixtape of the Year](https://open.spotify.com/album/3Jt0oBSkfXOZdzyIzv5tt4) | 3:15 | 2021-07-08 | 2022-07-29 |

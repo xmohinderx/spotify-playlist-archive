@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWaD7ByJaBc.md) - [plain]
 
 > Artist, producer and writer behind many of your favourite songs makes his Pride selection for you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,344 likes - 23 songs - 1 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,345 likes - 23 songs - 1 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,12 +17,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWaD7ByJaBc.md) - [plain]
 | 7 | [Ready For Your Love](https://open.spotify.com/track/47QylltdW541V0NPOsygrB) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Feel Good Dance Zone](https://open.spotify.com/album/2F4nLH9MJUxfjz8JQZKOQN) | 3:19 |
 | 8 | [Nobody](https://open.spotify.com/track/4V3AFyNbIcTFCHGB0BtlSL) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R), [Gold Link](https://open.spotify.com/artist/5ejcLivtopCjlEYaC5QK82) | [Leisure](https://open.spotify.com/album/1rGGYPdkJpabSlwScxK8fO) | 3:20 |
 | 9 | [LITE SPOTS](https://open.spotify.com/track/3Fc7k96EGOGiJBMZUxbpq7) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [99.9%](https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa) | 3:50 |
-| 10 | [YOUTH](https://open.spotify.com/track/1cOyWWUr3oXJIxY0AjJEx9) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Blue Neighbourhood \(Deluxe\)](https://open.spotify.com/album/5ouTDazE4LF9bVJPx1nlgW) | 3:05 |
+| 10 | [YOUTH](https://open.spotify.com/track/5SSpCahuVVzeq7M77YKS2N) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [PRIDE Romania 2022](https://open.spotify.com/album/6RXVDjfFhe2dXOc2FKimZv) | 3:05 |
 | 11 | [One Dance](https://open.spotify.com/track/1zi7xx7UVEFkmKfv06H8x0) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Kyla](https://open.spotify.com/artist/77DAFfvm3O9zT5dIoG0eIO) | [Views](https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb) | 2:53 |
 | 12 | [At Night \(I Think About You\)](https://open.spotify.com/track/4lwthdbsRkAnZhFunjjgrs) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [At Night \(I Think About You\)](https://open.spotify.com/album/5v636i01urX364kKa6vtqw) | 3:35 |
 | 13 | [MNEK: Intro \- \#PressPlayForPride](https://open.spotify.com/track/0ULUk1ZukEuiFhceG48dO7) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [\#PressPlayForPride](https://open.spotify.com/album/3pjz5PfLYPdrxQfHuM7nao) | 0:20 |
-| 14 | [5050](https://open.spotify.com/track/4YUyvp6310waHWeOzUst3v) | [RAY BLK](https://open.spotify.com/artist/0CkbPVBpOwwz9NPPglFKyq) | [Durt](https://open.spotify.com/album/2A9YfiOYh4jJ7qsLeUdnDM) | 3:15 |
-| 15 | [Obi Wan](https://open.spotify.com/track/2YhjIZ5x5HNjTsrFJbrhYB) | [Wolfie](https://open.spotify.com/artist/4N5iE70O6AKNuFjnABYc4x) | [8 Ball](https://open.spotify.com/album/02WE69eH7KipFTHJZIwURm) | 3:17 |
+| 14 | [5050](https://open.spotify.com/track/7DR9pieQCvSDIFAlLxQFeH) | [RAY BLK](https://open.spotify.com/artist/0CkbPVBpOwwz9NPPglFKyq) | [5050](https://open.spotify.com/album/04bH3EaK4ie2T4jNCceZJN) | 3:15 |
+| 15 | [Obi Wan](https://open.spotify.com/track/745AhhZKEDi5FKrRM5oyut) | [Wolfie](https://open.spotify.com/artist/4N5iE70O6AKNuFjnABYc4x) | [Dear White People \(A Netflix Original Series Soundtrack\)](https://open.spotify.com/album/6SAx7N8yyg1km8xWCAMts6) | 3:18 |
 | 16 | [Don't Let Me Down](https://open.spotify.com/track/1i1fxkWeaMmKEB4T7zqbzK) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Don't Let Me Down](https://open.spotify.com/album/2SByipSK8eZ2pasaIwwzhf) | 3:28 |
 | 17 | [I Remember](https://open.spotify.com/track/3n9tDQgttAL7txp1wDH2Ja) | [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38) | [I Remember](https://open.spotify.com/album/6KuHbuDiJNcgEvnLTnfQcY) | 4:24 |
 | 18 | [Send Me A Picture](https://open.spotify.com/track/5NkAF10Q9tQGSn03griVeA) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [This Is What The Truth Feels Like \(Deluxe\)](https://open.spotify.com/album/4axtAJxO6n73s5ZGBxWAio) | 3:35 |
@@ -32,4 +32,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWaD7ByJaBc.md) - [plain]
 | 22 | [MNEK: Pride \- \#PressPlayForPride](https://open.spotify.com/track/5ShOjEUeSBr4fgBelfB7Vd) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [\#PressPlayForPride](https://open.spotify.com/album/3pjz5PfLYPdrxQfHuM7nao) | 0:25 |
 | 23 | [Final Song](https://open.spotify.com/track/4qqArAiTPueDxIp7cf87h7) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Final Song](https://open.spotify.com/album/2gcqSlK5xTxcpuLZ1iik3Z) | 3:55 |
 
-Snapshot ID: `MTQ5OTA3MzM2MCwwMDAwMDAwMGMwYjMwYmI4MzYwZjJmMzY5NGFmYzVkMTk5N2FlOTBh`
+Snapshot ID: `MTQ5OTA3MzM2MCwwMDAwMDAwMGIxOTA1YTcwMWI0ZTBlOGQ3MjEwNmJmNjZkYzcyMzlm`

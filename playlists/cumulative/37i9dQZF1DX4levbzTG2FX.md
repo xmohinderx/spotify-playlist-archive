@@ -4,7 +4,7 @@
 
 > In partnership with CCLI, here are the top songs in church in the USA\. Updated monthly.
 
-59 songs - 4 hr 55 min - [published](https://open.spotify.com/playlist/3RGM2UbQTofUFdk6Q5QrCH)
+60 songs - 4 hr 59 min - [published](https://open.spotify.com/playlist/3RGM2UbQTofUFdk6Q5QrCH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,8 @@
 | [Who You Say I Am \- Live](https://open.spotify.com/track/6nkJ6jerrO6S4V0kdc4KRp) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC), [Reuben Morgan](https://open.spotify.com/artist/1pSefalk3Yw0CblqfLvy05) | [Who You Say I Am \(Live\)](https://open.spotify.com/album/6AwxNZobkuWGt3PFL5wFVc) | 5:29 | 2020-04-17 |  |
 | [Yes I Will](https://open.spotify.com/track/1sF4VadVaVTvp9WTEy79JT) | [Vertical Worship](https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o) | [Bright Faith Bold Future](https://open.spotify.com/album/4jrX2w9Y3shbQNVhT43jbj) | 3:54 | 2020-04-17 |  |
 | [Your Grace Is Enough](https://open.spotify.com/track/1sfSQ2d6rTsCSQ2cbBIj8r) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Empty And Beautiful](https://open.spotify.com/album/7C4ZFwSLusbV8DhsDGqqNs) | 4:25 | 2020-04-17 |  |
-| [Your Love Awakens Me](https://open.spotify.com/track/0jdWct4BgFwuZVWAtAg3DL) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Children of God](https://open.spotify.com/album/5Huo8k3PTFpQLlxNak5fMN) | 3:53 | 2020-04-17 |  |
+| [Your Love Awakens Me](https://open.spotify.com/track/0jdWct4BgFwuZVWAtAg3DL) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Children of God](https://open.spotify.com/album/5Huo8k3PTFpQLlxNak5fMN) | 3:53 | 2020-04-17 | 2022-11-12 |
+| [Your Love Awakens Me](https://open.spotify.com/track/1gCh62f6QeSYjFWzSkLp31) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Children of God](https://open.spotify.com/album/4rmparyUPabjG5orBDOLZr) | 3:53 | 2020-04-17 |  |
 | [Your Love Awakens Me](https://open.spotify.com/track/5nQZ8wbyVidzqqHwO4hUtD) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Children of God](https://open.spotify.com/album/4APhyYBjliHGPfs3zLsmVE) | 3:53 | 2020-04-17 | 2022-07-29 |
 
 \*This playlist was first scraped on 2022-03-01. Prior content cannot be recovered.

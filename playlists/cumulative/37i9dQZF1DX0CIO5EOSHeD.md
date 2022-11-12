@@ -4,7 +4,7 @@
 
 > Slacker jams\. Cover: Eyedress
 
-325 songs - 17 hr 24 min - [published](https://open.spotify.com/playlist/3DFRzyGUurZxuvxmPOrIHy)
+326 songs - 17 hr 26 min - [published](https://open.spotify.com/playlist/3DFRzyGUurZxuvxmPOrIHy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,6 +170,7 @@
 | [it only gets worse, i promise](https://open.spotify.com/track/3Y1iVG5c7me95XqqFZY97x) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [it only gets worse, i promise](https://open.spotify.com/album/361dxLkzUSAyH159ZtXUUj) | 2:34 | 2021-09-26 | 2022-07-13 |
 | [it only gets worse, i promise](https://open.spotify.com/track/5H0BawU5IlPVzLTiresJwa) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [NEGATIVE](https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE) | 2:34 | 2021-11-26 |  |
 | [Jealous](https://open.spotify.com/track/1aXV8GrmQLvgoFtBPERP7E) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Jealous](https://open.spotify.com/album/4keJsdw9XhEvimhIgXmtO1) | 2:02 | 2022-03-30 | 2022-11-11 |
+| [Jealous](https://open.spotify.com/track/50T09odwoubQPLVoL8ppeY) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Jealous](https://open.spotify.com/album/7HXurINUslsmsMvsdSgtnn) | 2:02 | 2022-09-13 |  |
 | [Jealous](https://open.spotify.com/track/5KbTBSGUvgDg75gIVhUaAW) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Let's Skip to the Wedding](https://open.spotify.com/album/02U2T90QXPo4XaFUvYURaf) | 2:02 | 2021-03-16 | 2022-07-29 |
 | [Jonah](https://open.spotify.com/track/740cFOON0lTS7vwP8wpXLz) | [Orlando](https://open.spotify.com/artist/2YpPBfgJthYvaI0zwIkLFy) | [Jonah](https://open.spotify.com/album/1GwoB5FkcuDTrODlxHxeV8) | 3:11 | 2021-08-27 | 2022-05-17 |
 | [just the way it is](https://open.spotify.com/track/0hLf3CBO9Oq7OAQx3r4XRR) | [latenitexeno](https://open.spotify.com/artist/4ILu2F4cEF1CiFEUT8XFqF), [Triple$ix](https://open.spotify.com/artist/2UQuceFmElR6ErvDnT54eM), [front room club](https://open.spotify.com/artist/1sSuSoA3Mzz8T9LBA0hT8t) | [just the way it is](https://open.spotify.com/album/7ce6J51paS5QUNBeIwpjf0) | 3:07 | 2020-10-27\* | 2022-07-13 |
@@ -196,7 +197,7 @@
 | [Midnight on a Sunny Day](https://open.spotify.com/track/0xxJmxdsfdNIO4uChWpitR) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [Bee Eyes](https://open.spotify.com/artist/5gSDCsyiVBWWpLyky7xzOf) | [Mulholland Drive](https://open.spotify.com/album/7g0KWmMqYJIWcHVVGycNqU) | 2:43 | 2021-09-03 | 2022-07-27 |
 | [Midnight on a Sunny Day](https://open.spotify.com/track/2IH9CHrARfQJDcRNg3g8Dg) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [Bee Eyes](https://open.spotify.com/artist/5gSDCsyiVBWWpLyky7xzOf) | [Mulholland Drive](https://open.spotify.com/album/0QB8JzlX70ame6G972aEF1) | 2:43 | 2022-03-30 |  |
 | [midnight sun](https://open.spotify.com/track/2P7mPtGjXFzHoLgT6sMSyZ) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [midnight sun](https://open.spotify.com/album/28oyoR8mAfNqRGTuKIUuo3) | 4:42 | 2022-02-03 | 2022-07-29 |
-| [midnight sun](https://open.spotify.com/track/7M3YPejLG9WxQS9i4ZHVXh) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [PAINLESS](https://open.spotify.com/album/2IVL0vnFIe9uHWW1TAocC7) | 4:42 | 2022-03-30 |  |
+| [midnight sun](https://open.spotify.com/track/7M3YPejLG9WxQS9i4ZHVXh) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [PAINLESS](https://open.spotify.com/album/2IVL0vnFIe9uHWW1TAocC7) | 4:42 | 2022-03-30 | 2022-11-12 |
 | [Morning Vibes](https://open.spotify.com/track/1EzEHQjOX0yfJ7dRiRjldl) | [Aytun](https://open.spotify.com/artist/7cPjAZYOPseCzqxvEoqeLY), [Can Menek](https://open.spotify.com/artist/0scw6tyxsoUys8IX5GzoZJ) | [Morning Vibes](https://open.spotify.com/album/37nSlIazGije8vg3BIOuRs) | 2:18 | 2021-12-09 | 2022-07-05 |
 | [MOTH](https://open.spotify.com/track/3TOSmvd8z9ytPEuNidy2TL) | [Jacquard Looms](https://open.spotify.com/artist/7idhuWALyq1ZL4oeNS6wyy) | [MOTH](https://open.spotify.com/album/3fVUJzWc3x37XYwYBPCmDi) | 4:36 | 2020-10-27\* | 2022-07-29 |
 | [MOTH](https://open.spotify.com/track/4N8sFTTjINCUyQL6hDMJCC) | [Jacquard Looms](https://open.spotify.com/artist/7idhuWALyq1ZL4oeNS6wyy) | [MOTH](https://open.spotify.com/album/1Pbk2yTj2dYPH3vLbA4eGE) | 4:36 | 2022-03-30 | 2022-08-15 |

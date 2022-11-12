@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qmDjDW0Ug.md) - [plain]
 
 > 국내를 강타 했던 R&B곡들을 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,464 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,474 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qmDjDW0Ug.md) - [plain]
 | 29 | [점점](https://open.spotify.com/track/0IwDO38DaBE7cMl4aLgybU) | [Brown Eyes](https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ) | [Reason 4 breathing?](https://open.spotify.com/album/7yl1TSdq0B20VPe75Y8XAa) | 3:31 |
 | 30 | [In dreams](https://open.spotify.com/track/1hNYiYh10zoFl4L6RrLDHq) | [Lena Park](https://open.spotify.com/artist/7MNyflLAWpaH0EPw1fdORD) | [Op\. 4](https://open.spotify.com/album/54OnWD6Ei0QGcjwsDBkS8F) | 5:37 |
 | 31 | [그런일은](https://open.spotify.com/track/4VH257CEikqfvmN6TbBFYZ) | [Park Hwayobi](https://open.spotify.com/artist/5oihNt5Zntgh1XIsDqOGq5) | [Across The Romantic Bridge](https://open.spotify.com/album/7MWteKJKnqnYyht3hRa267) | 4:24 |
-| 32 | [Break Away](https://open.spotify.com/track/3xN3UkMQPosLdU6nldyxjl) | [BIG MAMA](https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ) | [Like The Bible](https://open.spotify.com/album/4eBXK4EXrxjzSaAonbyRSe) | 4:19 |
-| 33 | [Emptiness in Memory](https://open.spotify.com/track/3pOuipxjrJEwnnGhE106Rh) | [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [Emptiness in Memory](https://open.spotify.com/album/4dYM107Vn5VXOCenlChbOG) | 4:38 |
+| 32 | [Emptiness in Memory](https://open.spotify.com/track/3pOuipxjrJEwnnGhE106Rh) | [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [Emptiness in Memory](https://open.spotify.com/album/4dYM107Vn5VXOCenlChbOG) | 4:38 |
+| 33 | [Break Away](https://open.spotify.com/track/3xN3UkMQPosLdU6nldyxjl) | [BIG MAMA](https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ) | [Like The Bible](https://open.spotify.com/album/4eBXK4EXrxjzSaAonbyRSe) | 4:19 |
 | 34 | [미워요 I Hate You](https://open.spotify.com/track/4s5j8hpy5nbgvVU0VLBNtt) | [Jung In](https://open.spotify.com/artist/0CO7rEbHBtpqgY9QPYJgPM) | [정인 Jung In from Andromeda](https://open.spotify.com/album/1vaWpmAMtq5MuKCAna7afD) | 3:22 |
 | 35 | [With Me](https://open.spotify.com/track/0cPPyoGJkteS3kBHfsV7qE) | [Realslow](https://open.spotify.com/artist/7luxe2wCwtDtkKSP8ZhPLn) | [It's Real](https://open.spotify.com/album/1XhwZEKRfvdHEaYIQkdasu) | 3:30 |
 | 36 | [새벽한시 \(1AM\)](https://open.spotify.com/track/3JmlYV4mm5jdo2ZWzATLBv) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [RISE](https://open.spotify.com/album/1Y9so4jq4t4taAHu0VdKX3) | 3:11 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qmDjDW0Ug.md) - [plain]
 | 46 | [If You Comeback](https://open.spotify.com/track/7A8iC2yCrq39b2DKej9ek1) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [Like Them](https://open.spotify.com/album/374rk50TgKbQSbeBaLFjek) | 4:48 |
 | 47 | [비오는 압구정](https://open.spotify.com/track/1WKoaRdUQGSoo8qfiWc1dT) | [Brown Eyes](https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ) | [Reason 4 breathing?](https://open.spotify.com/album/7yl1TSdq0B20VPe75Y8XAa) | 3:36 |
 | 48 | [Sometimes](https://open.spotify.com/track/03v7Yf6BkYE0FZdsXevcMT) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Sometimes](https://open.spotify.com/album/5MMfcCtX95tz8c9C0z8cMw) | 4:23 |
-| 49 | [불치병 \(Feat.Masta Wu\)](https://open.spotify.com/track/6HTz1xXLag7pyVlzsXrItU) | [Realslow](https://open.spotify.com/artist/7luxe2wCwtDtkKSP8ZhPLn), [MASTA WU](https://open.spotify.com/artist/7ndYLcobuKuq9ZcoIAVvU6) | [For the moment](https://open.spotify.com/album/5zSnSuP8gPOeZdrEchEv7q) | 3:42 |
+| 49 | [안되나요](https://open.spotify.com/track/7JXQOKFhZ0h8VrYdWbwM8F) | [Realslow](https://open.spotify.com/artist/7luxe2wCwtDtkKSP8ZhPLn) | [Like A Movie](https://open.spotify.com/album/71bHxIobu3Ib3oSL3A4jKj) | 4:30 |
 | 50 | [Love Ballad](https://open.spotify.com/track/1HUPqjUMF7m1qShIn1bDw9) | [BROWN EYED SOUL](https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5) | [Browneyed Soul](https://open.spotify.com/album/7AujHzdkOYaeBVlhA7Z23j) | 5:01 |
 
-Snapshot ID: `MTYxNTQ4MDYxMCwwMDAwMDAwMGQzYWNmN2QzYmM2ZWRhNGYxNzRkZjJjYWQwNzU1MjQw`
+Snapshot ID: `MTYxNTQ4MDYxMCwwMDAwMDAwMDM2MDM4NWU4Mjg3YTY0YzNmNzFjMmJjYzYyZjlmZDk1`

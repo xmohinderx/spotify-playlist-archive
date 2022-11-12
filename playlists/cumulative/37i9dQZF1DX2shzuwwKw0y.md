@@ -2,9 +2,9 @@
 
 ### [Corridos Perrones](https://open.spotify.com/playlist/37i9dQZF1DX2shzuwwKw0y)
 
-> Del rancho a la ciudad, las historias que pocos se atreven a contar\. Natanael Cano, Luis R Conriquez & Gabito Ballesteros en portada.
+> Del rancho a la ciudad, las historias que pocos se atreven a contar\.  Luis R Conriquez en portada.
 
-145 songs - 7 hr 22 min - [published](https://open.spotify.com/playlist/7MKeGtBxLUek4q2wQW5uWo)
+146 songs - 7 hr 25 min - [published](https://open.spotify.com/playlist/7MKeGtBxLUek4q2wQW5uWo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [El Bélico](https://open.spotify.com/track/50pkO56KXHoH53sVPRSbZ3) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Carteles](https://open.spotify.com/album/1c53AOH8tvbZb1mY3jpAHq) | 2:05 | 2022-02-21 |  |
 | [El Bélico](https://open.spotify.com/track/3Aa53BCQxLcCQ5wscC0KuC) | [Voz De Mando](https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx) | [El Bélico](https://open.spotify.com/album/6Hz8mrb4AKtpcprrNEcaBc) | 2:47 | 2022-02-21 | 2022-03-22 |
 | [El Chaman](https://open.spotify.com/track/3yE8qL9HNfyzAbpqoMnUr8) | [Aldo Trujillo](https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu), [Legion RG](https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V), [El Padrinito Toys](https://open.spotify.com/artist/19I7n3fJWbecNWpRUSuIjf) | [El Chaman](https://open.spotify.com/album/0dKlcXtiUXnQK7BZH7UIfE) | 4:41 | 2022-04-08 |  |
-| [El Chino \(En Vivo\)](https://open.spotify.com/track/4b148u8CHf38OU1yW5Xf1F) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [La Decima Banda](https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U) | [El Chino \(En Vivo\)](https://open.spotify.com/album/38WE0G7MQhz8f9hJjuK1rK) | 3:00 | 2022-02-21 |  |
+| [El Chino \(En Vivo\)](https://open.spotify.com/track/4b148u8CHf38OU1yW5Xf1F) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [La Decima Banda](https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U) | [El Chino \(En Vivo\)](https://open.spotify.com/album/38WE0G7MQhz8f9hJjuK1rK) | 3:00 | 2022-02-21 | 2022-11-12 |
 | [El Circo](https://open.spotify.com/track/66SvxvblhUIEL6awyLMGL2) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [El Circo](https://open.spotify.com/album/04lyNlxXhRxoZPC9RLq5Oq) | 2:17 | 2022-02-21 | 2022-09-03 |
 | [El Comando del Diablo \- En Vivo](https://open.spotify.com/track/4ttaps59yHeuSYKhMitFjJ) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Comando del Diablo \(En Vivo\)](https://open.spotify.com/album/7hMQTRIaeXlCAaVxBX4pNx) | 2:53 | 2022-02-28 | 2022-06-18 |
 | [El Comerciante](https://open.spotify.com/track/56YZft0whsresPdufFqwwS) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Sigue La Magia Dando](https://open.spotify.com/album/0QUDmu7pfqsOPgc3kGULkZ) | 4:05 | 2022-02-21 | 2022-03-08 |
@@ -109,6 +109,7 @@
 | [Me Dicen Nini](https://open.spotify.com/track/6E3InxDzcHJG7Pe4HrgxkV) | [Beto Vega](https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak), [Markitos Toys](https://open.spotify.com/artist/48WE0w9PUfMlgMLJhNcX8g) | [Me Dicen Nini](https://open.spotify.com/album/6i5PLMwllcPA7fyJSt4kf5) | 3:35 | 2022-03-29 | 2022-05-20 |
 | [Me Metí En El Ruedo](https://open.spotify.com/track/7KNSQcLwrl3bNEuV1OVHtv) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Bélicos, Vol\. 2](https://open.spotify.com/album/5WWAwbRCM3CyiZNO9rsfWS) | 2:54 | 2022-02-21 | 2022-10-22 |
 | [Mente Positiva](https://open.spotify.com/track/3WQilym5Vi4ypxb70vx0eY) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Atrapado en un Sueño](https://open.spotify.com/album/4UmrKzDJX0agxs2VF9lkaF) | 3:12 | 2022-02-21 | 2022-03-01 |
+| [Mi Momento](https://open.spotify.com/track/0yhduE0AtElWqyPkgeSMja) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Bélicos, Vol\. 3](https://open.spotify.com/album/2tqw9Hsyxr5G3bCR5NgWGo) | 2:42 | 2022-11-11 |  |
 | [Mi Pasado y Mi Presente](https://open.spotify.com/track/588ROs3NuPqlPSYpIuitKS) | [Traviezoz de la Zierra](https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn) | [Plan B](https://open.spotify.com/album/24FPZ021AP83t8OSQHRaAx) | 3:40 | 2022-02-21 |  |
 | [Mi Porvenir](https://open.spotify.com/track/1qOAfH6GJZ7IVuOkOsDit9) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Mi Porvenir](https://open.spotify.com/album/7g3gtNzXyVjmBh7tdd4Lmp) | 2:41 | 2022-06-03 | 2022-10-15 |
 | [Mis Raíces](https://open.spotify.com/track/6d0JsZ14cVI4pkFFJl8wb5) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Cabrones y Vagos](https://open.spotify.com/album/0L6b2Rdy7a4OTY092E5Ei1) | 2:33 | 2022-02-21 | 2022-05-14 |

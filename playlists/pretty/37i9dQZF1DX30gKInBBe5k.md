@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30gKInBBe5k.md) - [plain]
 
 > Bare emotions and stripped\-down intensity: a hardcore home for slowcore fans.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,820 likes - 85 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,050 likes - 85 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30gKInBBe5k.md) - [plain]
 | 51 | [No Sense](https://open.spotify.com/track/7hqgpJchv39sfIWLTXkMMe) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [Moon Pix](https://open.spotify.com/album/6AoSTHrd6oEaeUYBEGdLTb) | 4:50 |
 | 52 | [Ugly Brunette](https://open.spotify.com/track/0fUV4Y51wN8lnG75rkDDwg) | [Horse Jumper of Love](https://open.spotify.com/artist/6U1lmwvy3I9dIYu9RalJi6) | [Horse Jumper of Love](https://open.spotify.com/album/6deqa9Ep8kRZA1xiKbj1jc) | 2:56 |
 | 53 | [Words](https://open.spotify.com/track/01OXa5tVuCssU6j8TY7kxr) | [Low](https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH) | [I Could Live In Hope](https://open.spotify.com/album/61dByu8oBt4qdym9Rkz39w) | 5:48 |
-| 54 | [Liferaft](https://open.spotify.com/track/76tqeZTMX72Fx28PDj3pyk) | [Bedhead](https://open.spotify.com/artist/1555UFA4CyCnJEzCKikGHe) | [WhatFunLifeWas](https://open.spotify.com/album/5K6XN9nSX1yuECZwIYg7FQ) | 4:40 |
+| 54 | [Liferaft](https://open.spotify.com/track/1fdCjKSlvcHyxF0L7tue3b) | [Bedhead](https://open.spotify.com/artist/1555UFA4CyCnJEzCKikGHe) | [1992\-1998](https://open.spotify.com/album/6lJroIlQWuq7H3ZrLyFARZ) | 4:40 |
 | 55 | [Empty Words](https://open.spotify.com/track/330w7iBKrHxlJwx3WMdHVr) | [Bowery Electric](https://open.spotify.com/artist/6a27jEzxHDgONdmADAGcej) | [Beat](https://open.spotify.com/album/6jbGBeBtwD05O0EV9RFjlC) | 3:45 |
 | 56 | [Wop\-A\-Din\-Din](https://open.spotify.com/track/15XoeDfUqg2Q8rp2eOjAFe) | [Red House Painters](https://open.spotify.com/artist/2GATzeg62cr6sH29wSOVWe) | [Old Ramon](https://open.spotify.com/album/4rL0RzmHMQyHiZqJVdt7A8) | 5:37 |
 | 57 | [Black Fly](https://open.spotify.com/track/3AXcnekPeKzjol7iQlM0Xx) | [Circuit des Yeux](https://open.spotify.com/artist/7ASMj5TvVCYDILcfTockhI) | [Reaching For Indigo](https://open.spotify.com/album/1GBJUdudjxW6w96CkPd6Kg) | 7:26 |
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30gKInBBe5k.md) - [plain]
 | 70 | [The Loom](https://open.spotify.com/track/5GbOaR6pcywF3y60jnN36Z) | [Bark Psychosis](https://open.spotify.com/artist/0QwH5InvCwfL4UbYkjP9pi) | [Hex](https://open.spotify.com/album/7j98uMKCZuBQU1SPcrQAxP) | 5:15 |
 | 71 | [Sunflower](https://open.spotify.com/track/5MLBottNJ4s4yL6t9sIryD) | [Low](https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH) | [Things We Lost in the Fire](https://open.spotify.com/album/3YWmAFuOtr9YIDdqJ2Gius) | 4:39 |
 | 72 | [Save Yourself](https://open.spotify.com/track/4EIQZRKN4Qp44YRu5xOCsE) | [Rachel Goswell](https://open.spotify.com/artist/0prEgQscX7BEd2EvCFm6Se) | [Waves Are Universal](https://open.spotify.com/album/1JFDiOWdfuPWEwxieEHXFY) | 3:58 |
-| 73 | [Lie In The Sound](https://open.spotify.com/track/0MsMR2rURAR4gSHzMWx8tZ) | [Trespassers William](https://open.spotify.com/artist/05DG9WOML9BsHwUS5HCcRa) | [Different Stars](https://open.spotify.com/album/4BInGpL7KK8U8up43J5dfj) | 5:42 |
+| 73 | [Lie in the Sound](https://open.spotify.com/track/1YIpoD7bslS2nKTac1WfrZ) | [Trespassers William](https://open.spotify.com/artist/05DG9WOML9BsHwUS5HCcRa) | [Music From The WB Television Series One Tree Hill \(change in 1 track bundle status\)](https://open.spotify.com/album/3XCBGh4tuBd9UXGYUudjz5) | 5:43 |
 | 74 | [Bold Marauder](https://open.spotify.com/track/4AkLsoLJoc3wXjsVN3zsdH) | [Kendra Smith](https://open.spotify.com/artist/4baSCyV2xPPhakoOEOltou) | [Five Ways of Disappearing](https://open.spotify.com/album/6WmyaI6ciyv0XPfyQtf2NE) | 5:33 |
 | 75 | [Duk Koo Kim](https://open.spotify.com/track/5LlfYiHiK7xYMuP6NYaR5w) | [Sun Kil Moon](https://open.spotify.com/artist/4G0XDEk7RbA4BBCTs917U9) | [Ghosts of the Great Highway](https://open.spotify.com/album/1JpwFoxVVutPXtSBohj0rJ) | 14:32 |
 | 76 | [Two Wrongs Won't Make Things Right](https://open.spotify.com/track/0cE2SGmO5eaatzBsCpYPKI) | [Tarnation](https://open.spotify.com/artist/5cVphcm0FP2N0GXVl9csxh) | [Gentle Creatures](https://open.spotify.com/album/2HXMG5PMDO4stERgmNORdx) | 4:09 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30gKInBBe5k.md) - [plain]
 | 84 | [nail i couldn't bite](https://open.spotify.com/track/0AgghN0YfYSZRilCXOb3do) | [SPIRIT OF THE BEEHIVE](https://open.spotify.com/artist/25CgccXK9hJBTuaMF44zeR) | [Hypnic Jerks](https://open.spotify.com/album/3M1hjHgDdFdhZKQRAccl8n) | 5:15 |
 | 85 | [Lullaby](https://open.spotify.com/track/1De66xUavye2fNqhCwtgyo) | [Low](https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH) | [I Could Live In Hope](https://open.spotify.com/album/61dByu8oBt4qdym9Rkz39w) | 9:49 |
 
-Snapshot ID: `MTY0Mjc5OTIwNCwwMDAwMDAwMDI3NzVhMjNjMWM3MGY1M2ZkM2RmNjk5NzkxMWVkYmNh`
+Snapshot ID: `MTY0Mjc5OTIwNCwwMDAwMDAwMGFjYWI5NGMwM2YwNTUwZjMwNjZjZmNiN2E1ZmMyNWQ1`

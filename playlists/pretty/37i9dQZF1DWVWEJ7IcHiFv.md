@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWEJ7IcHiFv.md) - [plain]
 
 > This is the Latin soundtrack of the 80s! Cover: Gloria Estefan
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,737 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,810 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWEJ7IcHiFv.md) - [plain]
 | 42 | [Get on Your Feet](https://open.spotify.com/track/7awBgmQ3B0YscMXPBwE1gQ) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Cuts Both Ways](https://open.spotify.com/album/4rPsV2qfjewaH9tAidFVv9) | 3:38 |
 | 43 | [Toda la Vida](https://open.spotify.com/track/7M8sGCxjrx4tKV1m0g9JDA) | [Franco](https://open.spotify.com/artist/6wPdYdJaogSs1RYe6yx81C) | [Una Historia de Verdad](https://open.spotify.com/album/6wt6YQCPtGJBttgY5CFZCi) | 5:00 |
 | 44 | [Come Into My Arms](https://open.spotify.com/track/6BD7CmcTMOGQTR2fN4Z8YX) | [Judy Torres](https://open.spotify.com/artist/4xuVMH8UgmZ557rJfWQ08n) | [Judy Torres \- The Greatest Hits](https://open.spotify.com/album/7aOCg1PtLFTnyPjMBRHyc4) | 4:24 |
-| 45 | [Rhythm Is Gonna Get You](https://open.spotify.com/track/6302KY4zq4Bpx823hyk4Kk) | [Gloria Estefan And Miami Sound Machine](https://open.spotify.com/artist/2Gop8SbSVt5SaJzuaRFa7D), [Miami Sound Machine](https://open.spotify.com/artist/18xgcedCGxFbqLbIQn5R8F) | [Greatest Hits](https://open.spotify.com/album/5wkQo9u8qrKOdfGqoizWPo) | 3:55 |
-| 46 | [Dr\. Beat](https://open.spotify.com/track/21kwcsNL7YnianpVjXumHc) | [Miami Sound Machine](https://open.spotify.com/artist/18xgcedCGxFbqLbIQn5R8F) | [Eyes Of Innocence](https://open.spotify.com/album/46Hw8UXhTzNrI1Yroh7oEf) | 4:22 |
-| 47 | [I Wonder If I Take You Home \(with Full Force\)](https://open.spotify.com/track/3T2EHbivF5iEO9C9I2tDAJ) | [Lisa Lisa & Cult Jam](https://open.spotify.com/artist/1vgjN6nIPNKiiQGE9PtzTT), [Full Force](https://open.spotify.com/artist/1iQS32l0NPcZeJKVrvayS2) | [Club Columbia](https://open.spotify.com/album/6g7JRPx6SdrEDLQS2fQcsI) | 6:44 |
-| 48 | [Soy Un Desastre](https://open.spotify.com/track/0AGS302RHJblyvmVHsVpGY) | [Timbiriche](https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO) | [e5](https://open.spotify.com/album/1jUH6kLNFJBgGxu4lPybQv) | 2:47 |
+| 45 | [Ven Devórame Otra Vez](https://open.spotify.com/track/3IB7Y3TB7RLEZbXPCT50vv) | [Lalo Rodriguez](https://open.spotify.com/artist/5LmwELEKyxDFxrbZzR8K4U) | [Romanticas para dedicar](https://open.spotify.com/album/7o1AvAiWDcgXcz0IHgwIBk) | 5:14 |
+| 46 | [Rhythm Is Gonna Get You](https://open.spotify.com/track/6302KY4zq4Bpx823hyk4Kk) | [Gloria Estefan And Miami Sound Machine](https://open.spotify.com/artist/2Gop8SbSVt5SaJzuaRFa7D), [Miami Sound Machine](https://open.spotify.com/artist/18xgcedCGxFbqLbIQn5R8F) | [Greatest Hits](https://open.spotify.com/album/5wkQo9u8qrKOdfGqoizWPo) | 3:55 |
+| 47 | [Hijo de la luna](https://open.spotify.com/track/2rJDwZn63BBEXIMnXQFg50) | [Mecano](https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G) | [Esencial Mecano](https://open.spotify.com/album/63hC0VFvoz0pjiNKeZN9GA) | 4:18 |
+| 48 | [Dr\. Beat](https://open.spotify.com/track/21kwcsNL7YnianpVjXumHc) | [Miami Sound Machine](https://open.spotify.com/artist/18xgcedCGxFbqLbIQn5R8F) | [Eyes Of Innocence](https://open.spotify.com/album/46Hw8UXhTzNrI1Yroh7oEf) | 4:22 |
 | 49 | [Nada Personal](https://open.spotify.com/track/0cslUTJ5eB4hUNs0fKyh59) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Originales \- 20 Exitos](https://open.spotify.com/album/75LbseLsPdTkMO9oUD9J8n) | 4:52 |
-| 50 | [Hijo de la luna](https://open.spotify.com/track/2rJDwZn63BBEXIMnXQFg50) | [Mecano](https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G) | [Esencial Mecano](https://open.spotify.com/album/63hC0VFvoz0pjiNKeZN9GA) | 4:18 |
+| 50 | [I Wonder If I Take You Home \(with Full Force\)](https://open.spotify.com/track/3T2EHbivF5iEO9C9I2tDAJ) | [Lisa Lisa & Cult Jam](https://open.spotify.com/artist/1vgjN6nIPNKiiQGE9PtzTT), [Full Force](https://open.spotify.com/artist/1iQS32l0NPcZeJKVrvayS2) | [Club Columbia](https://open.spotify.com/album/6g7JRPx6SdrEDLQS2fQcsI) | 6:44 |
 
-Snapshot ID: `MTY2MTkzMDg2OSwwMDAwMDAwMDgwMjcwODA1YWZlNjM3MjdhNmJlNWEyNWRmZTNhNzc2`
+Snapshot ID: `MTY2MTkzMDg2OSwwMDAwMDAwMGU1YmY2ZTcwZjRkM2QzN2QzYmFlZjhkY2M1ZDA3MmEx`

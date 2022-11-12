@@ -1648,6 +1648,24 @@
     },
     {
       "album": {
+        "name": "Salsa Mix, Vol. 3",
+        "url": "https://open.spotify.com/album/1wOMY5o7ss0MptUEp8oitS"
+      },
+      "artists": [
+        {
+          "name": "Adolescent's Orquesta",
+          "url": "https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279453,
+      "name": "Persona Ideal",
+      "url": "https://open.spotify.com/track/4RqmUue0IPUaI9x1me5asq"
+    },
+    {
+      "album": {
         "name": "Los Adolescentes",
         "url": "https://open.spotify.com/album/6S1EDLEQGq8iofwgUtJxas"
       },
@@ -1677,7 +1695,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 279849,
       "name": "Persona Ideal - Me Tengo Que Ir",
       "url": "https://open.spotify.com/track/4UHRMwbbiZ7tkeEkhyN7iB"
@@ -2257,10 +2275,28 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 253271,
       "name": "Veronica",
       "url": "https://open.spotify.com/track/6r7Fr0fHtsUjfQFSbQeGeF"
+    },
+    {
+      "album": {
+        "name": "Miss Mujerzuela",
+        "url": "https://open.spotify.com/album/4F2vs4bs1hsNJqRBFPFNJ2"
+      },
+      "artists": [
+        {
+          "name": "Caramelos De Cianuro",
+          "url": "https://open.spotify.com/artist/34OLInsXImlQpjzmQw9Wd3"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253271,
+      "name": "Veronica",
+      "url": "https://open.spotify.com/track/7FUC7LjVt9vJHCOxBMMgkv"
     },
     {
       "album": {

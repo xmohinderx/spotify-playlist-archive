@@ -449,7 +449,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 203817,
       "name": "Be Your Man - Acoustic",
       "url": "https://open.spotify.com/track/6mIC0zmQTsvOMfZ1YqQwLU"
@@ -670,6 +670,24 @@
     },
     {
       "album": {
+        "name": "Gameday Country",
+        "url": "https://open.spotify.com/album/3v4prjENcAzBWYOf8FnzQT"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2022-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231826,
+      "name": "Blank Space",
+      "url": "https://open.spotify.com/track/3LB2qckfpZq7aybaoZKRa2"
+    },
+    {
+      "album": {
         "name": "x (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
       },
@@ -753,7 +771,7 @@
       ],
       "date_added": "2022-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 238012,
       "name": "Break My Heart Again",
       "url": "https://open.spotify.com/track/0DGh73t9eaZA3X3ZXHf4Qe"
@@ -955,7 +973,7 @@
       ],
       "date_added": "2021-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 186839,
       "name": "Change",
       "url": "https://open.spotify.com/track/7xYy4fuiPfFEAsjz3H93Sl"
@@ -1291,10 +1309,28 @@
       ],
       "date_added": "2022-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 175200,
       "name": "Demons",
       "url": "https://open.spotify.com/track/3LlAyCYU26dvFZBDUIMb7a"
+    },
+    {
+      "album": {
+        "name": "Halloween Party 2022",
+        "url": "https://open.spotify.com/album/624LASK1ipzgobhmcECvgp"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "date_added": "2022-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177506,
+      "name": "Demons",
+      "url": "https://open.spotify.com/track/1Nv9AeLzP7GVNSe0Cfpned"
     },
     {
       "album": {
@@ -1327,10 +1363,28 @@
       ],
       "date_added": "2022-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 225146,
       "name": "Diamonds",
       "url": "https://open.spotify.com/track/1z9kQ14XBSN0r2v6fx4IdG"
+    },
+    {
+      "album": {
+        "name": "Unapologetic (Deluxe)",
+        "url": "https://open.spotify.com/album/1ciAVKFdlpLi2eGDlXv6Bo"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2022-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225146,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/4JQSMg83F8qYwSBt5xOXsQ"
     },
     {
       "album": {
@@ -2163,7 +2217,7 @@
       ],
       "date_added": "2022-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 295502,
       "name": "Hello",
       "url": "https://open.spotify.com/track/62PaSfnXSMyLshYJrlTuL3"
@@ -2853,7 +2907,7 @@
       ],
       "date_added": "2022-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 226533,
       "name": "Impossible",
       "url": "https://open.spotify.com/track/1T8PwF3JhIiWwBhun23RNe"
@@ -3149,6 +3203,24 @@
       "duration_ms": 242733,
       "name": "Just Give Me a Reason (feat. Nate Ruess)",
       "url": "https://open.spotify.com/track/1mKXFLRA179hdOWQBwUk9e"
+    },
+    {
+      "album": {
+        "name": "Feelgood Love Songs",
+        "url": "https://open.spotify.com/album/5kk3t73x2swdEuZpx4kVVH"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2022-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220733,
+      "name": "Just the Way You Are",
+      "url": "https://open.spotify.com/track/4RFE7Lbo5NrXkZfX0qvhKD"
     },
     {
       "album": {
@@ -3578,6 +3650,28 @@
     },
     {
       "album": {
+        "name": "Souls",
+        "url": "https://open.spotify.com/album/5NBqQgOMgAHbJwDIFw9c0m"
+      },
+      "artists": [
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        },
+        {
+          "name": "Riah",
+          "url": "https://open.spotify.com/artist/5MGoZUcMHAwTKzcXKKofQ9"
+        }
+      ],
+      "date_added": "2022-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215480,
+      "name": "Lie",
+      "url": "https://open.spotify.com/track/3O1uhWkr42NesFnVloLq2a"
+    },
+    {
+      "album": {
         "name": "Lie To Me (feat. Julia Michaels)",
         "url": "https://open.spotify.com/album/2rSrRHcfwJXxni8HczqKAT"
       },
@@ -3965,7 +4059,7 @@
       ],
       "date_added": "2021-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 162732,
       "name": "Make It To Me",
       "url": "https://open.spotify.com/track/2uCMaUojwuqr8CRGsLoPa6"
@@ -4052,6 +4146,24 @@
     },
     {
       "album": {
+        "name": "Summer Pool Party 2021",
+        "url": "https://open.spotify.com/album/4lzPJSvH3dGu37ZMFNCsbH"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "date_added": "2022-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189486,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/33YkmfGXbrD91mf3qprC2j"
+    },
+    {
+      "album": {
         "name": "JORDI (Deluxe)",
         "url": "https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU"
       },
@@ -4063,7 +4175,7 @@
       ],
       "date_added": "2022-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 189486,
       "name": "Memories",
       "url": "https://open.spotify.com/track/4cktbXiXOapiLBMprHFErI"
@@ -4179,6 +4291,24 @@
     {
       "album": {
         "name": "I like it when you sleep, for you are so beautiful yet so unaware of it",
+        "url": "https://open.spotify.com/album/1JFmNyVPdBF1ECvv4fhpW4"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "date_added": "2022-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236746,
+      "name": "Nana",
+      "url": "https://open.spotify.com/track/1JmLA5HZ7Wp7L8DNctLpUW"
+    },
+    {
+      "album": {
+        "name": "I like it when you sleep, for you are so beautiful yet so unaware of it",
         "url": "https://open.spotify.com/album/12zl1WmHPFCSyKYbL4vBZn"
       },
       "artists": [
@@ -4265,7 +4395,7 @@
       ],
       "date_added": "2021-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 215690,
       "name": "New Eyes",
       "url": "https://open.spotify.com/track/5nvPhsgDEqEHQ3bLTfqDsd"
@@ -4381,7 +4511,7 @@
       ],
       "date_added": "2022-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 173933,
       "name": "Nothing's Real but Love",
       "url": "https://open.spotify.com/track/5bPhlByRZCue4HveZarBXY"
@@ -4865,7 +4995,7 @@
       ],
       "date_added": "2022-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 223053,
       "name": "Price Tag",
       "url": "https://open.spotify.com/track/5mvKuE9Lf9ARVXVXA32kK9"
@@ -4883,7 +5013,7 @@
       ],
       "date_added": "2022-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 283706,
       "name": "Read All About It, Pt. III",
       "url": "https://open.spotify.com/track/1U0bhf79qQt8ozR25aXMtH"
@@ -4905,6 +5035,24 @@
       "duration_ms": 283706,
       "name": "Read All About It, Pt. III",
       "url": "https://open.spotify.com/track/30BsewEJZPxfuLNAlZPFje"
+    },
+    {
+      "album": {
+        "name": "Our Version Of Events",
+        "url": "https://open.spotify.com/album/6ss4QxKm0eRrNjc92VnWGS"
+      },
+      "artists": [
+        {
+          "name": "Emeli Sand\u00e9",
+          "url": "https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy"
+        }
+      ],
+      "date_added": "2022-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285241,
+      "name": "Read All About It, Pt. III",
+      "url": "https://open.spotify.com/track/0FRcdft6ABgbT1fX6smwkm"
     },
     {
       "album": {
@@ -5191,7 +5339,7 @@
       ],
       "date_added": "2022-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 257483,
       "name": "Say You Love Me",
       "url": "https://open.spotify.com/track/71AATBHZGo82EnjZnG53Zx"
@@ -5329,7 +5477,7 @@
       ],
       "date_added": "2022-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 170363,
       "name": "shut up",
       "url": "https://open.spotify.com/track/0vBlrSOT8xxEBgKay0Otr4"
@@ -6705,7 +6853,7 @@
       ],
       "date_added": "2022-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 201000,
       "name": "Too Good At Goodbyes",
       "url": "https://open.spotify.com/track/3VlbOrM6nYPprVvzBZllE5"
@@ -6983,6 +7131,24 @@
       "duration_ms": 201072,
       "name": "Wasn't Expecting That",
       "url": "https://open.spotify.com/track/7nm68uKwGwMqznlOSBxhps"
+    },
+    {
+      "album": {
+        "name": "25",
+        "url": "https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "date_added": "2022-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240439,
+      "name": "Water Under the Bridge",
+      "url": "https://open.spotify.com/track/4jL6WWKFDqCOPo2hC3VhSS"
     },
     {
       "album": {
@@ -7741,7 +7907,7 @@
       ],
       "date_added": "2022-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 230000,
       "name": "Your Shirt",
       "url": "https://open.spotify.com/track/6zdg9ovHEPx9EblJcc7FGf"

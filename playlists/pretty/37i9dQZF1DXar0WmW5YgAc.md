@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXar0WmW5YgAc.md) - [plain]
 
 > Love songs from your favorite films
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,840 likes - 96 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,054 likes - 96 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXar0WmW5YgAc.md) - [plain]
 | 39 | [Fake Plastic Trees \- Acoustic Version](https://open.spotify.com/track/29uCXUBVQfMDb8ekQHJns9) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Clueless / Original Motion Picture Soundtrack](https://open.spotify.com/album/3OrviLrUARxsTuGdWdQTMh) | 4:45 |
 | 40 | [A Whole New World \(Aladdin's Theme\)](https://open.spotify.com/track/7fLkHVJAJLENmSvhrEHZxV) | [Peabo Bryson](https://open.spotify.com/artist/49iKbKGqgn8OESkW5WduX0), [Regina Belle](https://open.spotify.com/artist/3J9tQvcK0bY3CcVcgRELxH), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Aladdin \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/29EiOQJnxWlX5nVOWQpu3u) | 4:10 |
 | 41 | [Run to You](https://open.spotify.com/track/6M1M6cRtVkm5d0qTzkSEuK) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Bodyguard \- Original Soundtrack Album](https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96) | 4:24 |
-| 42 | [Angel](https://open.spotify.com/track/3xZMPZQYETEn4hjor3TR1A) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Surfacing](https://open.spotify.com/album/5qC5YqtLMlsm5Pyl6GtfpP) | 4:30 |
-| 43 | [I'm Kissing You](https://open.spotify.com/track/1Xp8MKmfoFDib6dHM6JF53) | [Des'ree](https://open.spotify.com/artist/73ZPfpfg1LBVvDEArK4l5B) | [Supernatural](https://open.spotify.com/album/3SwBajIGtIPylPqzWS9V1i) | 4:53 |
+| 42 | [Angel](https://open.spotify.com/track/2qaKRIXAFosGRFefLkdvYy) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Closer: The Best Of Sarah McLachlan](https://open.spotify.com/album/7iGcUav2lm08aVJC1T2mtp) | 4:30 |
+| 43 | [I'm Kissing You](https://open.spotify.com/track/1AhwSb9SxkekSAGDLKdIMd) | [Des'ree](https://open.spotify.com/artist/73ZPfpfg1LBVvDEArK4l5B) | [Sing Me to Sleep](https://open.spotify.com/album/60k0hyUtTLyJEWQXIGt9OB) | 4:53 |
 | 44 | [Everybody's Free \(To Wear Sunscreen\)](https://open.spotify.com/track/1TQ6a2NEA8LmKfgf0yeBvT) | [Quindon Tarver](https://open.spotify.com/artist/0dfkF1i9s8ZyOAKbV572T7), [Josh Abrahams](https://open.spotify.com/artist/2C18qcP3k1dkMJpByV6rZX) | [Everybody's Free \(To Wear Sunscreen\)](https://open.spotify.com/album/30NOuZiJRlawF26dmWVaJo) | 5:09 |
 | 45 | [Girl, You'll Be a Woman Soon](https://open.spotify.com/track/1mSzuXVjjKC0bPh6iG6xjy) | [Urge Overkill](https://open.spotify.com/artist/5LEUigTSXpwrtERRcSW1N4) | [Stull](https://open.spotify.com/album/07gzuMURkIJ7Iatsz3Uqw0) | 3:09 |
 | 46 | [I Will Remember You](https://open.spotify.com/track/1KRlhnzrWHTqAGww5UFs8r) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [The Brothers McMullen](https://open.spotify.com/album/1k3dl7UuFKTWlwuASPa30N) | 4:50 |
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXar0WmW5YgAc.md) - [plain]
 | 70 | [Someday](https://open.spotify.com/track/7zdpBsafJ1f5eWyaNzvpmh) | [All\-4\-One](https://open.spotify.com/artist/1B8ySGDAiXTCvnJNH4HSCG) | [Walt Disney Records The Legacy Collection: The Hunchback of Notre Dame](https://open.spotify.com/album/62VsbaGIY8h6uI3U1ZP3nU) | 4:18 |
 | 71 | [I Hope You Find It](https://open.spotify.com/track/0xtatwcsyhPEiDXM1wYcg3) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [The Last Song](https://open.spotify.com/album/4LxtqUEjjoA3LvGEnyc7JN) | 3:55 |
 | 72 | [Friday I'm in Love](https://open.spotify.com/track/263aNAQCeFSWipk896byo6) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish](https://open.spotify.com/album/3x1CmNdXWU0DzpTZXFFRZu) | 3:34 |
-| 73 | [Mamma Mia](https://open.spotify.com/track/2TxCwUlqaOH3TIyJqGgR91) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Abba](https://open.spotify.com/album/1kM6xcSYO5ASJaWgygznL7) | 3:33 |
+| 73 | [Mamma Mia](https://open.spotify.com/track/5jfrTNTDBje8pF8y6T4C3X) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Disco Fire](https://open.spotify.com/album/0vt5wvXtXVTqgrs7haKh8K) | 3:32 |
 | 74 | [Waiting for Somebody](https://open.spotify.com/track/3R6GxZEzCWDNnwo8QWeOw6) | [Paul Westerberg](https://open.spotify.com/artist/3N6WAAPHoIjo6na008793X) | [Singles \- Original Motion Picture Soundtrack](https://open.spotify.com/album/58BEJ01sL8wK5LV3TPyngC) | 3:25 |
 | 75 | [When I Fall In Love \(feat\. Clive Griffin\)](https://open.spotify.com/track/34jAkbORFZkPpn8lwuHPPD) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK), [Clive Griffin](https://open.spotify.com/artist/7piYJtFSV6vtj2pK5TyHJI) | [Sleepless In Seattle: Original Motion Picture Soundtrack](https://open.spotify.com/album/3Qz4L6mtgnRBU6UPihqEan) | 4:20 |
 | 76 | [Your Song \- From "Moulin Rouge" Soundtrack](https://open.spotify.com/track/1rDklEm1rIKphZ7EvWinHm) | [Ewan McGregor](https://open.spotify.com/artist/105Paee9vmV5rfLSG652e1), [Alessandro Safina](https://open.spotify.com/artist/5ITJs06INM9JWxK5hROEj3) | [Moulin Rouge](https://open.spotify.com/album/1Kg7AyuyIMTfD6geg9VghI) | 3:38 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXar0WmW5YgAc.md) - [plain]
 | 95 | [My Baby Just Cares for Me \- 2013 Remastered Version](https://open.spotify.com/track/6VTbbVjKOC2qWagIDbkJrC) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Little Girl Blue \(2013 Remastered Version\)](https://open.spotify.com/album/58gOQaPc4RCw8eWdTDRes7) | 3:35 |
 | 96 | [When I Fall In Love \- Remastered 2004](https://open.spotify.com/track/1TUy1TUNg3pvsCp5ZWmJhm) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The World Of Nat King Cole \(Expanded Edition\)](https://open.spotify.com/album/1z5Ut9gopzeYwM7QsseZtP) | 3:10 |
 
-Snapshot ID: `MTY2NjkyOTYwMCwwMDAwMDAwMGM1MDVmMTRiZjY3MjE0OGFmNmQ5MTE1YTM1NTIwNDdl`
+Snapshot ID: `MTY2NjkyOTYwMCwwMDAwMDAwMDkzZDIyNDA2N2Y0MTQ0YjYxMWY3NmYyMzJlMzAyOWJi`

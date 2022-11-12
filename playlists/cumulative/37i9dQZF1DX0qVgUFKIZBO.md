@@ -4,7 +4,7 @@
 
 > ¡Agarra el micrófono y empieza a cantar estos éxitos inolvidables!
 
-95 songs - 6 hr 32 min - [published](https://open.spotify.com/playlist/1J4PyabyPPlQjCqwGqNy6D)
+98 songs - 6 hr 43 min - [published](https://open.spotify.com/playlist/1J4PyabyPPlQjCqwGqNy6D)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,8 +44,9 @@
 | [Juliana](https://open.spotify.com/track/6K5UtSAXChS6Rpm2NZJnrF) | [DLG](https://open.spotify.com/artist/0z0w28IvsF1gsKhVAMbh9p) | [Lo Esencial](https://open.spotify.com/album/0xgbPkhH5Hvuqa0hBGjpj3) | 4:56 | 2022-03-22 |  |
 | [La bikina \- En vivo](https://open.spotify.com/track/1jxO9AwMqYynDsuMWKrPvi) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Vivo](https://open.spotify.com/album/2GtCBgC1SYeeb8fcxGWCLo) | 2:59 | 2022-03-22 |  |
 | [La Cosa Mas Bella](https://open.spotify.com/track/1EZypwk0xcj64ZLAglhLs2) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Donde Hay Música \(Spanish Version\)](https://open.spotify.com/album/49oNMRzQcMBCqiz03JOQqq) | 4:25 | 2022-03-22 |  |
-| [La flaca](https://open.spotify.com/track/0ll9JAIrM3NVBOMl45sxSX) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [La Flaca](https://open.spotify.com/album/1O5kJTerozuI2WLgzvIz2m) | 4:21 | 2022-03-22 |  |
+| [La flaca](https://open.spotify.com/track/0ll9JAIrM3NVBOMl45sxSX) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [La Flaca](https://open.spotify.com/album/1O5kJTerozuI2WLgzvIz2m) | 4:21 | 2022-03-22 | 2022-11-12 |
 | [La flaca](https://open.spotify.com/track/2LsbizbOeNa4x6qsi2jAMb) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [La Flaca](https://open.spotify.com/album/6mD9lN6mqu4313KpY1RfIp) | 4:21 | 2022-03-22 | 2022-07-29 |
+| [La flaca](https://open.spotify.com/track/2sXknzW9MIR2RfZF6dgiUR) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [Latin Sensual Pop](https://open.spotify.com/album/2pIP9i4oiGTDnWmxMLRdR0) | 4:21 | 2022-07-29 |  |
 | [La Gata Bajo la Lluvia](https://open.spotify.com/track/2kfSFdq2h0xLXq01em1zc7) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Sus 16 Grandes Exitos](https://open.spotify.com/album/1QXxmsxolhkqiFtI1mpX4i) | 3:39 | 2022-03-22 |  |
 | [La Lola](https://open.spotify.com/track/0VnAETWOc4BCr4YbzfI7zH) | [Café Quijano](https://open.spotify.com/artist/2ECP3nWC88LaFz4oQzTo3Z) | [La Extraordinaria Paradoja Del Sonido Quijano](https://open.spotify.com/album/6UEfKdBxC0Zf9EIbGvK5QY) | 3:17 | 2022-03-22 | 2022-11-11 |
 | [La Lola](https://open.spotify.com/track/4mNyoXLXjihTfJOny1eAtB) | [Café Quijano](https://open.spotify.com/artist/2ECP3nWC88LaFz4oQzTo3Z) | [El mejor Pop español de los 90\. Memory Park](https://open.spotify.com/album/1JVoRyfzTkbeVU1qEspFeD) | 3:17 | 2022-07-29 |  |
@@ -76,13 +77,15 @@
 | [Procura](https://open.spotify.com/track/7xmp7f74I0rxUOPjVuIOE8) | [ChiChi Peralta](https://open.spotify.com/artist/5GNSVtCq2hiXDx7jUA5Iou) | [Pa' Otro La 'o](https://open.spotify.com/album/5T29t6GK83ntYYu3kjUMar) | 4:32 | 2022-03-22 | 2022-07-29 |
 | [Procura](https://open.spotify.com/track/2q9udNV9NK0BL3q9p6TLxf) | [ChiChi Peralta](https://open.spotify.com/artist/5GNSVtCq2hiXDx7jUA5Iou), [Jandy Feliz](https://open.spotify.com/artist/3hz57XL7wSiPMO9g3k1CW6) | [Pa' Otro La 'O](https://open.spotify.com/album/1AwPrz3G3D1Xx9wiKHNmHX) | 4:31 | 2022-03-22 |  |
 | [Querida](https://open.spotify.com/track/5ySxlyvySBhIEvoO2xx7uT) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Recuerdos II](https://open.spotify.com/album/1xrQ48Vvnvm3SmAbnIukGt) | 5:28 | 2022-03-22 |  |
-| [Quién Como Tú](https://open.spotify.com/track/0ElaCi1Qf86iEWhsxCw5h5) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Quien Como Tú](https://open.spotify.com/album/4r2m65IXlmzhi06V5V9Cs5) | 3:31 | 2022-03-22 |  |
+| [Quién Como Tú](https://open.spotify.com/track/0ElaCi1Qf86iEWhsxCw5h5) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Quien Como Tú](https://open.spotify.com/album/4r2m65IXlmzhi06V5V9Cs5) | 3:31 | 2022-03-22 | 2022-11-12 |
 | [Quién Como Tú](https://open.spotify.com/track/4hfiDzgfMqtcOiUQpZidBQ) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Quién Como tú](https://open.spotify.com/album/6TkpmmUOcvoB76oZdX9f5D) | 3:31 | 2022-03-22 | 2022-07-29 |
+| [Quién Como Tú \- En Vivo](https://open.spotify.com/track/6hYPDNpjyiSSSqUITuHNsk) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Ana Gabriel En La Plaza De Toros México](https://open.spotify.com/album/7CM0yI1hoqA8jBVi2mRBPC) | 3:33 | 2022-07-29 |  |
 | [Si Tú No Estás](https://open.spotify.com/track/5kHfW0q2JHKEDVriX2lqOQ) | [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu) | [Nada Es Igual](https://open.spotify.com/album/5EWfOcNoJIateeGjoC0FNn) | 4:21 | 2022-03-22 |  |
 | [Si tú no vuelves](https://open.spotify.com/track/1YFBO31kSEYo1DVkjSj8LG) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Bajo El Signo De Caín](https://open.spotify.com/album/3TNVefBL4j3T9Cr7XU232u) | 4:38 | 2022-03-22 |  |
 | [Suave](https://open.spotify.com/track/4p7XH4NhQ25iGYrrbg93gt) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Aries](https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC) | 4:49 | 2022-03-22 |  |
 | [Te Mando Flores](https://open.spotify.com/track/6OpHDI8lRiqHLqmUIYUxVr) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP) | [Corazon](https://open.spotify.com/album/7GZadm08rfMiYXhRHlv993) | 3:47 | 2022-03-22 | 2022-07-29 |
-| [Te Mando Flores](https://open.spotify.com/track/2in1gSZtv2lRbcZUmN9aAl) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP) | [Corazón](https://open.spotify.com/album/6O0WvW7JA4B02y8D9Kd3Bx) | 3:48 | 2022-03-22 |  |
+| [Te Mando Flores](https://open.spotify.com/track/2in1gSZtv2lRbcZUmN9aAl) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP) | [Corazón](https://open.spotify.com/album/6O0WvW7JA4B02y8D9Kd3Bx) | 3:48 | 2022-03-22 | 2022-11-12 |
+| [Te Mando Flores](https://open.spotify.com/track/2tHG7d2On9xKt3U6DWJsnX) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP) | [Top Colombia](https://open.spotify.com/album/6mHmDuiCzn5ZCMYqXdiSqX) | 3:48 | 2022-07-29 |  |
 | [Todavia](https://open.spotify.com/track/5wPhERt9izm1T45aFXDWPe) | [La Factoria](https://open.spotify.com/artist/4VsbQvC84B8Z3IsBY1HLQy) | [Exitos](https://open.spotify.com/album/3oIRbufih3VX2kDgTLnk4X) | 3:23 | 2022-03-22 | 2022-10-07 |
 | [Todavia](https://open.spotify.com/track/7gaovXojjqfn276uZR0omT) | [La Factoria](https://open.spotify.com/artist/4VsbQvC84B8Z3IsBY1HLQy) | [Todavia](https://open.spotify.com/album/6MLmdGugNROactcsaoxk9n) | 3:24 | 2022-03-22 | 2022-08-27 |
 | [Todavia](https://open.spotify.com/track/1yGjmKvs01WPabHY1ky4jW) | [La Factoria](https://open.spotify.com/artist/4VsbQvC84B8Z3IsBY1HLQy) | [Todavia](https://open.spotify.com/album/3lZogNziQuUo6hWLOayPhj) | 3:26 | 2022-07-29 | 2022-10-31 |

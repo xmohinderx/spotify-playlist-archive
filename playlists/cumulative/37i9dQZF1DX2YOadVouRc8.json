@@ -682,6 +682,24 @@
     },
     {
       "album": {
+        "name": "Pop Hits Now",
+        "url": "https://open.spotify.com/album/1YDU8JDHG7xdWimuRRdAaf"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164848,
+      "name": "emiliana",
+      "url": "https://open.spotify.com/track/58ZvQ7RAd8PPLUU6lmNy7X"
+    },
+    {
+      "album": {
         "name": "Emiliana",
         "url": "https://open.spotify.com/album/4LTckGxBOI0fEkliC3zbIp"
       },
@@ -2141,7 +2159,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 225640,
       "name": "Wamuhle",
       "url": "https://open.spotify.com/track/1Hfi5ASQy39dZJRnRsE6ws"

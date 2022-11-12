@@ -4,7 +4,7 @@
 
 > Listen to the most streamed female artists in the US this year!
 
-32 songs - 1 hr 59 min - [published](https://open.spotify.com/playlist/0oEXpgdKUn1jp8Zn8AOn2K)
+34 songs - 2 hr 7 min - [published](https://open.spotify.com/playlist/0oEXpgdKUn1jp8Zn8AOn2K)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [I Got You](https://open.spotify.com/track/37CFvua9vJeP0lX0yR0U9U) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Perfect 10s Pop](https://open.spotify.com/album/0wFUCA7RjXMPRPjzFweN3Z) | 3:11 | 2022-11-11 |  |
 | [I Got You](https://open.spotify.com/track/1FUViuNSldssMIawrOXF2i) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I Got You](https://open.spotify.com/album/6IZNCnM8eo8T67i65FrbGA) | 3:11 | 2016-12-01 | 2022-07-29 |
 | [I Would Like](https://open.spotify.com/track/0HVj61S4pQJdQhgZP61G65) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [I Would Like](https://open.spotify.com/album/1ChPmbFVHtAYAEIbdDB4a4) | 3:46 | 2016-12-01 | 2022-07-29 |
-| [I Would Like](https://open.spotify.com/track/4Q4jmPHwu0wrJvqrld0FQ6) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [So Good](https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B) | 3:46 | 2022-07-29 |  |
+| [I Would Like](https://open.spotify.com/track/4Q4jmPHwu0wrJvqrld0FQ6) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [So Good](https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B) | 3:46 | 2022-07-29 | 2022-11-12 |
+| [I Would Like](https://open.spotify.com/track/6V7qmP93Ebr2WGcTqZWnI0) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [So Good](https://open.spotify.com/album/21VqeIyh4YvwA1BUkZ48EV) | 3:46 | 2022-11-12 |  |
 | [Kill Em With Kindness](https://open.spotify.com/track/1QNoKVgA758HFLu3TW2q7R) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Revival \(Deluxe\)](https://open.spotify.com/album/7lDBDk8OQarV5dBMu3qrdz) | 3:37 | 2016-12-01 |  |
 | [New Americana](https://open.spotify.com/track/6Xs7OKt6i0Ddq8B4M5Dgvr) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [BADLANDS](https://open.spotify.com/album/5U5rt98q8Jqx4lP3RdqYfO) | 3:03 | 2016-12-01 |  |
 | [NO](https://open.spotify.com/track/357gCNVJh27N31hwiFLNWz) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [NOW That's What I Call Music, Vol\. 59](https://open.spotify.com/album/7Dt2L4GbuzNlvCJ09M6McQ) | 3:30 | 2022-11-11 |  |
@@ -26,7 +27,8 @@
 | [Pity Party](https://open.spotify.com/track/3fo6DYGktjENCiagUeU9yH) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [Cry Baby \(Deluxe Edition\)](https://open.spotify.com/album/5JpH5T1sCYnUyZD6TM0QaY) | 3:24 | 2016-12-01 |  |
 | [Rise](https://open.spotify.com/track/1CwNogTShsnsn1C8UhRmYX) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Rise](https://open.spotify.com/album/7oqEOzrJhQkMHvHKEHEMrK) | 3:23 | 2016-12-01 |  |
 | [Scars To Your Beautiful](https://open.spotify.com/track/0prNGof3XqfTvNDxHonvdK) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Know\-It\-All \(Deluxe\)](https://open.spotify.com/album/3rDbA12I5duZnlwakqDdZa) | 3:50 | 2016-12-01 | 2022-07-29 |
-| [Scars To Your Beautiful](https://open.spotify.com/track/0wI7QkCcs8FUQE1OkXUIqd) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Know\-It\-All](https://open.spotify.com/album/7HnbhIDKXIBhMR4EPGuMgu) | 3:50 | 2022-07-29 |  |
+| [Scars To Your Beautiful](https://open.spotify.com/track/0wI7QkCcs8FUQE1OkXUIqd) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Know\-It\-All](https://open.spotify.com/album/7HnbhIDKXIBhMR4EPGuMgu) | 3:50 | 2022-07-29 | 2022-11-12 |
+| [Scars To Your Beautiful](https://open.spotify.com/track/4WBqOCDRZBUxaZRR1eVFoE) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [傷心情歌](https://open.spotify.com/album/5cVZSXnHawZaLo3vZUHwMF) | 3:50 | 2022-11-12 |  |
 | [Send My Love \(To Your New Lover\)](https://open.spotify.com/track/0t7fVeEJxO2Xi4H2K5Svc9) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi) | 3:43 | 2022-07-29 | 2022-11-11 |
 | [Send My Love \(To Your New Lover\)](https://open.spotify.com/track/5GltPAIcCUULOIAglW6R4l) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Send My Love \(To Your New Lover\)](https://open.spotify.com/album/7hplTHLU8PAVs1forXE2NU) | 3:43 | 2022-11-11 |  |
 | [Send My Love \(To Your New Lover\)](https://open.spotify.com/track/3LGxef3inmn5jMLGDz9lqw) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Send My Love \(To Your New Lover\)](https://open.spotify.com/album/7xX2GJWXXgIwamzN2vxXy0) | 3:43 | 2016-12-01 | 2022-07-29 |

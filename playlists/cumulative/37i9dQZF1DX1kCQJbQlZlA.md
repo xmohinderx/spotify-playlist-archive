@@ -4,7 +4,7 @@
 
 > Những khúc nhạc quê hương ngợi ca vẻ đẹp Việt Nam.
 
-101 songs - 8 hr 7 min - [published](https://open.spotify.com/playlist/2zCUYqbonj5e3RrsBlMytG)
+102 songs - 8 hr 11 min - [published](https://open.spotify.com/playlist/2zCUYqbonj5e3RrsBlMytG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [Hành Trình Trên Đất Phù Sa](https://open.spotify.com/track/1q9nzKilNQd5hUvwo0hhmD) | [Hương Thủy](https://open.spotify.com/artist/4bQ2P3p1cgvh1oeLAuXjho), [Tâm Đoan](https://open.spotify.com/artist/009DchB833vqAeN8v5zE4O) | [Thương Nhớ Cậu Hai](https://open.spotify.com/album/2tpBn7ctbcP0NQXt6HKjpr) | 4:45 | 2022-05-12 |  |
 | [Hương Sắc Miền Nam](https://open.spotify.com/track/0zRnjt0yYuWYfkUDRIIx4Y) | [Luu Anh Loan](https://open.spotify.com/artist/4doYTYrpvNr6P7JjgTqN0V) | [Không Bao Giờ Quên Anh](https://open.spotify.com/album/1uxJL4jDieeXnXQMVYg0MQ) | 4:00 | 2022-07-15 | 2022-08-10 |
 | [Hương Sắc Miền Nam](https://open.spotify.com/track/0vruGZkZxQxTayxFcKG3F2) | [Luu Anh Loan](https://open.spotify.com/artist/4doYTYrpvNr6P7JjgTqN0V) | [Tổng Hợp Bài Hát Của Lưu Ánh Loan](https://open.spotify.com/album/2rdtFyIr3QmuU8y16A8QtX) | 4:00 | 2022-05-12 | 2022-07-29 |
-| [Hương Sắc Miền Nam](https://open.spotify.com/track/3XClJRr3tGYVDP8oGHs6e1) | [Luu Anh Loan](https://open.spotify.com/artist/4doYTYrpvNr6P7JjgTqN0V) | [Tổng Hợp Bài Hát Của Lưu Ánh Loan](https://open.spotify.com/album/27NpiWC1xTS6TyfNXn8BVq) | 4:00 | 2022-07-15 |  |
+| [Hương Sắc Miền Nam](https://open.spotify.com/track/3XClJRr3tGYVDP8oGHs6e1) | [Luu Anh Loan](https://open.spotify.com/artist/4doYTYrpvNr6P7JjgTqN0V) | [Tổng Hợp Bài Hát Của Lưu Ánh Loan](https://open.spotify.com/album/27NpiWC1xTS6TyfNXn8BVq) | 4:00 | 2022-07-15 | 2022-11-12 |
+| [Hương Sắc Miền Nam](https://open.spotify.com/track/3ymtcCGE3Rv62qDdZcnYnX) | [Luu Anh Loan](https://open.spotify.com/artist/4doYTYrpvNr6P7JjgTqN0V) | [Không Bao Giờ Quên Anh](https://open.spotify.com/album/2gsroMcweagVDoy7ZGfKim) | 4:00 | 2022-07-15 |  |
 | [Hương Tình Bến Tre](https://open.spotify.com/track/6UN7JNZ1d9ITE2Y9qF0J0a) | [Lê Như](https://open.spotify.com/artist/3859HForwBR1clV9yc3ugC) | [Hương Tình Bến Tre](https://open.spotify.com/album/42jLgyRJ3ULOERjCDSpAwo) | 5:28 | 2022-05-12 |  |
 | [Hương Vị Miền Tây](https://open.spotify.com/track/1ZdPVESGh0iRi7i1USZlu1) | [Lê Như](https://open.spotify.com/artist/3859HForwBR1clV9yc3ugC) | [Hương Vị Miền Tây](https://open.spotify.com/album/0DN5ca2C4fQOG04y2KpdZc) | 5:09 | 2022-05-12 |  |
 | [Hướng Về Miền Tây](https://open.spotify.com/track/32YRj4tlS0V6e5o28tPOLL) | [Mạnh Quỳnh](https://open.spotify.com/artist/3KTUDQL8OV9Sv6mvLJpS5W) | [Hướng Về Miền Tây](https://open.spotify.com/album/50ODB17Fi7iDfMr91To6T8) | 5:04 | 2022-07-15 |  |

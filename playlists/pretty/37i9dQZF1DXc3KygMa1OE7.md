@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3KygMa1OE7.md) - [plain]
 
 > The most unforgettable love songs from the 80s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,288,337 likes - 55 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,289,497 likes - 55 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Take My Breath Away \- Love Theme from "Top Gun"](https://open.spotify.com/track/15MJ5NThPjj6xhPcts8MiY) | [Berlin](https://open.spotify.com/artist/2aS6jYh7ysTL1ZUsHneNgM) | [Top Gun \- Motion Picture Soundtrack \(Special Expanded Edition\)](https://open.spotify.com/album/6K8iDZW8jPaoiqSzFFebJA) | 4:15 |
-| 2 | [Heaven](https://open.spotify.com/track/7Ewz6bJ97vUqk5HdkvguFQ) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Reckless \(30th Anniversary / Deluxe Edition\)](https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL) | 4:03 |
+| 2 | [Heaven](https://open.spotify.com/track/3Z2ZkcvjN4NP4iwkIsuI8p) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Valentin\-napi Retro Válogatás 2021](https://open.spotify.com/album/3FVx8KyZez2FCz3UQemuG0) | 4:04 |
 | 3 | [Every Breath You Take](https://open.spotify.com/track/3q6iKaLcyppKggDzS9RucN) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Capodanno 80's Party](https://open.spotify.com/album/0RC9BkBImV6IAL5942zXHv) | 4:11 |
 | 4 | [Just the Two of Us \(feat\. Bill Withers\)](https://open.spotify.com/track/1ko2lVN0vKGUl9zrU0qSlT) | [Grover Washington, Jr.](https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1), [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Anthology](https://open.spotify.com/album/1lKYaRbV0AayVPss9i4oOp) | 7:18 |
 | 5 | [Making Love Out of Nothing at All](https://open.spotify.com/track/01MXkFA8sL7at6txavDErt) | [Air Supply](https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW) | [All Out Of Love](https://open.spotify.com/album/1Z0JbC9RPMJNxE82vTQcIX) | 5:41 |
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3KygMa1OE7.md) - [plain]
 | 22 | [Baby Can I Hold You](https://open.spotify.com/track/2DjWsDGgL1xNbhnr7f6t5F) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [Tracy Chapman](https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8) | 3:13 |
 | 23 | [Eternal Flame](https://open.spotify.com/track/5MoDQWMDMaAGDEiWsJfeCi) | [The Bangles](https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC) | [The Essential Bangles](https://open.spotify.com/album/4yaX6Gmlvo42PnGgBdhzGf) | 3:58 |
 | 24 | [Stuck On You](https://open.spotify.com/track/6epEOdkJW3jNqCskbBUKse) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [I Love Mum \- The Best Mother's Day Album In The World ...Ever!](https://open.spotify.com/album/4UR8Xq65zbRQ5DzzfEAW1y) | 3:11 |
-| 25 | [Nothing's Gonna Stop Us Now](https://open.spotify.com/track/3X7uFMzJrEE0sxn62qd8Ch) | [Starship](https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf) | [No Protection](https://open.spotify.com/album/3nCQjsOzTmnWM6gnjIaT8J) | 4:30 |
+| 25 | [Nothing's Gonna Stop Us Now](https://open.spotify.com/track/6g8VJsF9fPZKKc6BUwLbbm) | [Starship](https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf) | [American Soft Rock](https://open.spotify.com/album/2SSQQYyYy6DYyDaV3eAkJ7) | 4:30 |
 | 26 | [Lost in Your Eyes](https://open.spotify.com/track/6PMDILZiYo4YzMBbE0dGK9) | [Debbie Gibson](https://open.spotify.com/artist/18jZvCsW1PJ4FDQ5gEXuKp) | [Electric Youth](https://open.spotify.com/album/5PnwSSRbLcCLpNMe2LFhOC) | 3:35 |
 | 27 | [Take on Me](https://open.spotify.com/track/2WfaOiMkCvy7F5fcp2zZ8L) | [a\-ha](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) | [Hunting High and Low](https://open.spotify.com/album/1ER3B6zev5JEAaqhnyyfbf) | 3:45 |
 | 28 | [Can't Fight This Feeling](https://open.spotify.com/track/5WwqdeavrQrbeAMDxGawse) | [REO Speedwagon](https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E) | [Wheels Are Turnin'](https://open.spotify.com/album/35KafpmKh0nDLzBLV75MpR) | 4:54 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3KygMa1OE7.md) - [plain]
 | 54 | [Up Where We Belong \- From "An Officer And A Gentleman"](https://open.spotify.com/track/1h22h211rde6dDCeW2hXpN) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI), [Jennifer Warnes](https://open.spotify.com/artist/1BwHztAQKypBuy5WBEdJnG) | [20th Century Masters: The Best Of Joe Cocker \(The Millennium Collection\)](https://open.spotify.com/album/2Qy7P4tvyqZcNOD4II3oKg) | 3:52 |
 | 55 | [What's Love Got to Do with It](https://open.spotify.com/track/4kOfxxnW1ukZdsNbCKY9br) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [What's Love Got to Do with It?](https://open.spotify.com/album/5HmYiJnUkFuciiqRrAAv4o) | 3:46 |
 
-Snapshot ID: `MTY2NTQxNzQ1MCwwMDAwMDAwMGUxOGU3MzZhYTYxOWQxM2YxZmFhMWMwMDVlZjNmYjJl`
+Snapshot ID: `MTY2NTQxNzQ1MCwwMDAwMDAwMDQwMTA1ODM2MTQ1MWRiYjA1ZmJjMTUxMDA3MjMzMjBj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pYJHz6u9GC.md) - [plain]
 
 > Enjoy the sweet Christmas time in the company of the biggest crooners\. Cover: Elvis Presley.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,627 likes - 71 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,723 likes - 71 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,13 +29,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pYJHz6u9GC.md) - [plain]
 | 19 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/6lI6RZIYu6zfBVbVzoUDlv) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [My Favorite Things: Christmas Songs](https://open.spotify.com/album/1Ls3IQbWcXIkMV6sBzpUVl) | 3:02 |
 | 20 | [Christmas Time Is Here](https://open.spotify.com/track/2MslTB54EOMr1GgJbTzj0K) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [A Legendary Christmas](https://open.spotify.com/album/67vlDQxXPo2JKnZ5e6tHKY) | 3:21 |
 | 21 | [It's Beginning to Look a Lot Like Christmas \(with Mitchell Ayres & His Orchestra\)](https://open.spotify.com/track/5KMun6paSlHbeejlmQI279) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu), [The Fontane Sisters](https://open.spotify.com/artist/1Ml4OuStDoympbREURAM15), [Mitchell Ayres & His Orchestra](https://open.spotify.com/artist/0HS96tPggl2nwiz3gNWWI5) | [The Classic Christmas Album](https://open.spotify.com/album/4rBIMMvhMZMa3Q0X4LRYQi) | 2:34 |
-| 22 | [Let It Snow \(with Michel Legrand\)](https://open.spotify.com/track/5tRAaJn5XtjQbIcrkHligQ) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o), [Michel Legrand](https://open.spotify.com/artist/1EtE0iSY6iFlN9L9c53ETy) | [The Pianoman at Christmas](https://open.spotify.com/album/6vWS3FRodKtNLbH25ZbNt5) | 3:18 |
+| 22 | [Let It Snow](https://open.spotify.com/track/5q9NKPdVKJUfL3kseOrs5R) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o), [Michel Legrand](https://open.spotify.com/artist/1EtE0iSY6iFlN9L9c53ETy) | [White Christmas](https://open.spotify.com/album/7ibGcQub2qvfi3kGpELFdB) | 3:18 |
 | 23 | [It's The Most Wonderful Time Of The Year](https://open.spotify.com/track/5r3pYVfO03VNS1rkfkttOX) | [Paul Anka](https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh) | [Merry Christmas \- God Jul](https://open.spotify.com/album/4wyopDrPXbT7iKLb7gQMmA) | 4:49 |
 | 24 | [Rudolph The Red\-Nosed Reindeer](https://open.spotify.com/track/2L9QLAhrvtP4EYg1lY0Tnw) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [A Winter Romance](https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5) | 2:15 |
 | 25 | [Merry Xmas Everybody \(feat\. Jamie Cullum\)](https://open.spotify.com/track/6gPjEHwchHOVoBFHxomCfR) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw), [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Merry Xmas Everybody \(feat\. Jamie Cullum\)](https://open.spotify.com/album/5388FRYDge6ZcLJD3dw4FM) | 3:33 |
 | 26 | [Deck The Halls \- Remastered 1999](https://open.spotify.com/track/6SG3f2G67BowVOe13BZ38l) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Noël jazz 2022](https://open.spotify.com/album/0X92R9KRPSAf7DgaAbYshe) | 1:08 |
-| 27 | [Winter Wonderland](https://open.spotify.com/track/0z8aYfRIIvNibAccZRYu8x) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Wishes You A Swinging Christmas \(Expanded Edition\)](https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb) | 2:15 |
-| 28 | [Show Me The Magic](https://open.spotify.com/track/5Tn2KoGE5GErtIvFxuELzP) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Taller](https://open.spotify.com/album/7jOdaYjTq3ErydG8Z8DVNj) | 2:30 |
+| 27 | [Winter Wonderland](https://open.spotify.com/track/7tzYDG5R2upxMrIDzNcMIz) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Chilled Jazz Christmas](https://open.spotify.com/album/3Wdn3HrY4pnw9u66UMyxJR) | 2:17 |
+| 28 | [Show Me The Magic](https://open.spotify.com/track/3etxM9QNQzuxQhzOdTN5cm) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Hot Christmas](https://open.spotify.com/album/51CQSyEr41Ec8DPNJjQCGG) | 2:30 |
 | 29 | [Jingle Bells \(feat\. The Puppini Sisters\)](https://open.spotify.com/track/5qXUIehZetSx94f6QNT88w) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3), [The Puppini Sisters](https://open.spotify.com/artist/1svaANJTE5KrG16fTGDqOs) | [Christmas \(Deluxe Special Edition\)](https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0) | 2:39 |
 | 30 | [I'll Be Home For Christmas](https://open.spotify.com/track/4lftz0V8DZhWSVtL4GrzMH) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [White Christmas](https://open.spotify.com/album/42KK3F8HTm1dyv5iFsCXdw) | 2:55 |
 | 31 | [A Marshmallow World](https://open.spotify.com/track/3szI9hDVbyOYU0yd77G35n) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [The Dean Martin Christmas Album](https://open.spotify.com/album/4Kd6niUoyuNkcLRVmThm0H) | 2:40 |
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pYJHz6u9GC.md) - [plain]
 | 42 | [Christmas Song \(Chestnuts Roasting\)](https://open.spotify.com/track/6ZAMd3TZVqxIGfrKpYtMk4) | [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [Standards \(Deluxe\)](https://open.spotify.com/album/1VYCn0CRDslR7uAVZ17AGy) | 3:37 |
 | 43 | [Cold December Night](https://open.spotify.com/track/23EvkivHtoFgkSK5pckvwq) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas \(Deluxe Special Edition\)](https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0) | 3:18 |
 | 44 | [Sleigh Ride](https://open.spotify.com/track/0JHDUV7GqkDz3vX8V7GJdc) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Mistletoe](https://open.spotify.com/album/7sKPWXzptrLG6Lt3HZXrds) | 2:55 |
-| 45 | [Snowfall](https://open.spotify.com/track/1z3WlkUJyytQOt15Dzck3H) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [Snowfall: The Tony Bennett Christmas Album](https://open.spotify.com/album/2zpZloLD6haM3GzorLdfoC) | 2:47 |
+| 45 | [Snowfall](https://open.spotify.com/track/2GTjxAKOgViPNu6RGS3Z5v) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [Sounds Of The Season](https://open.spotify.com/album/4iryAPVDKPc8OeXghdQhBd) | 2:50 |
 | 46 | [It's Christmas](https://open.spotify.com/track/0joeuOYjPwa85V6KJpIkem) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Réveillon de Noël](https://open.spotify.com/album/7u4xkx2JRzu0Qg0WRrQ88Y) | 3:14 |
 | 47 | [Silver Bells](https://open.spotify.com/track/6Uj4bRQjTYSgkMsPU0FVjL) | [Paul Anka](https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh) | [Songs of December \(Anniversary Edition\)](https://open.spotify.com/album/6mJY98zjTLSZm9wOL0Tmjk) | 3:34 |
 | 48 | [Frosty The Snowman \- Remastered 2006](https://open.spotify.com/track/35MqcEIVZ7svbBpRt4N30g) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [Bing Crosby \- Christmas Classics](https://open.spotify.com/album/3My4DXwRjAS5HXontsJx1A) | 2:13 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pYJHz6u9GC.md) - [plain]
 | 70 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/1WrksSayukHRLctEsjcSGf) | [Josh Groban](https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/1QKSquXHKLOclEqcstI9vN) | 4:03 |
 | 71 | [O Little Town Of Bethlehem](https://open.spotify.com/track/07grjb29wSIEwP4xKtZUjH) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song \(Expanded Edition\)](https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4) | 2:19 |
 
-Snapshot ID: `MTY2Nzk4NjE5MSwwMDAwMDAwMDJmNmIyM2I2NGYzMzQ5ZjFkOTY3MDFhYTBmNWZlN2Rh`
+Snapshot ID: `MTY2Nzk4NjE5MSwwMDAwMDAwMDAyYTE3NWMyMGFmZmIzODY2MzEzMmQ3YzZjMmVhYzA2`

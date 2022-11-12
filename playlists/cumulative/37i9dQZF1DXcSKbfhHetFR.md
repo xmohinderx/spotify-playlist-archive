@@ -4,7 +4,7 @@
 
 > On a pas pu appeler ça Québec Shiny Tunes\. Photo: EXTERIO
 
-85 songs - 5 hr 4 min - [published](https://open.spotify.com/playlist/74OJ5cYHNaWeOdAyQV6W4i)
+86 songs - 5 hr 9 min - [published](https://open.spotify.com/playlist/74OJ5cYHNaWeOdAyQV6W4i)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Dale Hawerchuk](https://open.spotify.com/track/25Yj66WWWgyXbPNJZNNXvS) | [Les Dales Hawerchuk](https://open.spotify.com/artist/5kYwyvlqsCuDlzmfsSNSSC) | [Les Dales Hawerchuk](https://open.spotify.com/album/5woV8wdB6mPBfgrVONkapY) | 2:12 | 2020-06-23 |  |
 | [Dale Hawerchuk](https://open.spotify.com/track/3p4TDZWyc6Uj8GsPAIPO7D) | [Les Dales Hawerchuk](https://open.spotify.com/artist/5kYwyvlqsCuDlzmfsSNSSC) | [Les Dales Hawerchuk](https://open.spotify.com/album/2kZv4f9cNfQ8327JKqwBYA) | 2:12 | 2020-06-23 | 2022-07-29 |
 | [Dans les airs](https://open.spotify.com/track/1H42q82sVhPcGE7kneM7Iq) | [Vénus 3](https://open.spotify.com/artist/3tpM1Cxh88vORchHhDZmIU) | [Sur quelle planète](https://open.spotify.com/album/269dGCDHJ6nrZJTEfT1YDp) | 5:23 | 2020-06-23 | 2022-10-29 |
+| [Dans les airs](https://open.spotify.com/track/1owMekL4FP43xxlLpUSk7I) | [Vénus 3](https://open.spotify.com/artist/3tpM1Cxh88vORchHhDZmIU) | [Sur quelle planète](https://open.spotify.com/album/73i0S5bK1UMFP8zPpKAfNB) | 5:23 | 2020-06-23 |  |
 | [Decoller \- Remix](https://open.spotify.com/track/6799cdhvfJ3e2btTOIBc97) | [See Spot Run](https://open.spotify.com/artist/6ZBtfiNY3e5y00QjZEHBEI) | [Super\-héros sous peu](https://open.spotify.com/album/2snDIoG1WayOkhPJclnVyo) | 3:52 | 2020-06-23 |  |
 | [Dis\-moi pas ça](https://open.spotify.com/track/3v9aoyKNPznNmB9nEmzjie) | [Okoumé](https://open.spotify.com/artist/2GmkaEeE31sBXm7HPeO43M) | [Okoumé](https://open.spotify.com/album/2Gj5sfPTzxGBXbFH9DjyVn) | 5:05 | 2020-06-23 |  |
 | [Dis\-moi pas ça](https://open.spotify.com/track/6VTJoRIkBhcAnakAJEEvQc) | [Okoumé](https://open.spotify.com/artist/2GmkaEeE31sBXm7HPeO43M) | [Okoumé](https://open.spotify.com/album/6G3Zhr7LGV4fyysgoC2Y5u) | 5:05 | 2020-06-23 | 2022-07-29 |
@@ -47,7 +48,7 @@
 | [Johnny Go](https://open.spotify.com/track/5o6rRZ8wzVlSonh1T49LWZ) | [Jean Leloup](https://open.spotify.com/artist/4wxSKb9ur3AbGRCv81xFAd) | [Je joue de la guitare \(1985\-2003\)](https://open.spotify.com/album/2X3bC7wVi95qxWhWJFBjR5) | 5:28 | 2020-06-23 | 2022-07-29 |
 | [Joyeus'ment désespéré](https://open.spotify.com/track/6Y7D4JU5zPAtrPgyNI6AMA) | [La Chango Family](https://open.spotify.com/artist/5jiNoz1XkdCC2INXqHKQN8) | [La Chango Family](https://open.spotify.com/album/666d4EG1BDpC8s1kIVhbVd) | 3:26 | 2020-06-23 |  |
 | [La chèvre](https://open.spotify.com/track/1FNNDPYgiLFjxdfIAKNiH1) | [Band de Garage](https://open.spotify.com/artist/30faJrJ4VEfodwMTLEHeqa) | [Corpo\-Trash\-Vidange](https://open.spotify.com/album/7tete9W7uNYvZuL2TNgw5C) | 2:55 | 2020-06-23 | 2022-07-28 |
-| [La chèvre](https://open.spotify.com/track/2Nvculpts84TZr7VlUNwMi) | [Band de Garage](https://open.spotify.com/artist/30faJrJ4VEfodwMTLEHeqa) | [Corpo\-Trash\-Vidange](https://open.spotify.com/album/2YPx6Dndpg7rxy6xwck48d) | 2:55 | 2020-06-23 |  |
+| [La chèvre](https://open.spotify.com/track/2Nvculpts84TZr7VlUNwMi) | [Band de Garage](https://open.spotify.com/artist/30faJrJ4VEfodwMTLEHeqa) | [Corpo\-Trash\-Vidange](https://open.spotify.com/album/2YPx6Dndpg7rxy6xwck48d) | 2:55 | 2020-06-23 | 2022-11-12 |
 | [Laissez venir à moi les grandes brunes](https://open.spotify.com/track/3idVQRL9T87FEE7ryZxNPB) | [Le Nombre](https://open.spotify.com/artist/6FkEbRC3V3rjxNLFN5uG1d) | [Le Nombre](https://open.spotify.com/album/4oyUIUYWRmoCLq59RneHuG) | 2:54 | 2020-06-23 |  |
 | [Le coup d'état](https://open.spotify.com/track/1ezk3E6ZvorHOEJjlfbEa3) | [Karkwa](https://open.spotify.com/artist/6l8KabfQ4VAdFHzm3ZOOYZ) | [Les tremblements s'immobilisent](https://open.spotify.com/album/2Tnn8WrAtBgG2OuTtj4OZB) | 4:22 | 2020-06-23 |  |
 | [Le coup d'état](https://open.spotify.com/track/6vNUd4oWXksZURkuaZ0fti) | [Karkwa](https://open.spotify.com/artist/6l8KabfQ4VAdFHzm3ZOOYZ) | [Les tremblements s'immobilisent](https://open.spotify.com/album/6P6e4WkfYYx1cUa265Ibwj) | 4:22 | 2020-06-23 | 2022-07-29 |

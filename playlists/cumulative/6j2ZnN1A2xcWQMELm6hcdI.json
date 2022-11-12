@@ -41,7 +41,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 168401,
       "name": "80/20",
       "url": "https://open.spotify.com/track/3UGjJ29o2HC4Sb06DXjkFQ"
@@ -1390,6 +1390,24 @@
     },
     {
       "album": {
+        "name": "Just Met",
+        "url": "https://open.spotify.com/album/1QRmkbgjBnMudIbFndKyJ8"
+      },
+      "artists": [
+        {
+          "name": "Naomi Lareine",
+          "url": "https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153543,
+      "name": "Just Met",
+      "url": "https://open.spotify.com/track/0YWbtkRY5BWqNSYWcb3aBW"
+    },
+    {
+      "album": {
         "name": "KI-KI",
         "url": "https://open.spotify.com/album/5UcTxoImmX1zOTnk0AvKD1"
       },
@@ -1667,7 +1685,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 187185,
       "name": "Meet You in Hell",
       "url": "https://open.spotify.com/track/2xdye2lhDblrS05XTHgBcb"

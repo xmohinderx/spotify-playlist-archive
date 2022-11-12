@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:3CdsJ9u53uPu3dScKypLVv">Shkoon</a>'s favorite tracks\. Updated regularly\. Curated by Shkoon\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-65 songs - 5 hr 28 min - [published](https://open.spotify.com/playlist/7q42XxhLdyUlgapD7SYD2G)
+67 songs - 5 hr 34 min - [published](https://open.spotify.com/playlist/7q42XxhLdyUlgapD7SYD2G)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,8 +30,10 @@
 | [Flix Bus Nach Beirut](https://open.spotify.com/track/2jM7YpoXbuiRPqeAWipy35) | [Wass On Earth](https://open.spotify.com/artist/3gaOU8JQKa7Ux72eCUSok8) | [Axis of Love](https://open.spotify.com/album/6Cl8n0TpMSWj0euSmYe8QH) | 9:10 | 2022-05-30 |  |
 | [Galah Waji](https://open.spotify.com/track/2JfxHSKimPmQ82IkxB9OwR) | [Etyen](https://open.spotify.com/artist/1QpBNgqTcCpBJvm4hecQPk), [Salwa Jaradat](https://open.spotify.com/artist/1B1k1AzYdmZThsTLMnKMZa) | [Galah Waji](https://open.spotify.com/album/4xGaabwEk3IpHngMwjVS99) | 2:26 | 2022-05-30 |  |
 | [Goats Notes](https://open.spotify.com/track/0WK4eXhMyfvPhWHpszpKXV) | [Zigan Aldi](https://open.spotify.com/artist/5nNJbOr2phyzj0KvIv7HL1), [Monohøle](https://open.spotify.com/artist/75Xo8Q2H05f294UEIA0N8c) | [Goats Notes](https://open.spotify.com/album/6Za5x0KT7HHY2svIRUVdf4) | 6:44 | 2022-05-30 |  |
-| [Hashrab Hashish](https://open.spotify.com/track/6Ah2JMiRc7MTr4SwRVNMh9) | [Luka Salam](https://open.spotify.com/artist/6czL7Hx1NgpdU6m27i3IuK) | [Hashrab Hashish](https://open.spotify.com/album/2Nc4YEEwac5P2s3vjcsrEX) | 3:04 | 2022-05-30 |  |
-| [Herzan](https://open.spotify.com/track/3P3f5t7hVpRSX6YSX64WrV) | [Soapkills](https://open.spotify.com/artist/6PRGhDtDWSgyw60WSfna8v) | [Enta Fen](https://open.spotify.com/album/58A0G1FfTqJGig0TWUjcU3) | 3:21 | 2022-05-30 |  |
+| [Hashrab Hashish](https://open.spotify.com/track/039Zb2ZG9vf6q1uCEpUHyR) | [Luka Salam](https://open.spotify.com/artist/6czL7Hx1NgpdU6m27i3IuK) | [Hashrab Hashish](https://open.spotify.com/album/0bH0hj3BPOXO5jGUDc0ApX) | 3:04 | 2022-10-04 |  |
+| [Hashrab Hashish](https://open.spotify.com/track/6Ah2JMiRc7MTr4SwRVNMh9) | [Luka Salam](https://open.spotify.com/artist/6czL7Hx1NgpdU6m27i3IuK) | [Hashrab Hashish](https://open.spotify.com/album/2Nc4YEEwac5P2s3vjcsrEX) | 3:04 | 2022-05-30 | 2022-11-12 |
+| [Herzan](https://open.spotify.com/track/1mDppvp7awCG1IOGjRZgKQ) | [Soapkills](https://open.spotify.com/artist/6PRGhDtDWSgyw60WSfna8v) | [The Best Of Soapkills](https://open.spotify.com/album/61X01E3XzgYB49RLQcYWXA) | 3:21 | 2022-10-04 |  |
+| [Herzan](https://open.spotify.com/track/3P3f5t7hVpRSX6YSX64WrV) | [Soapkills](https://open.spotify.com/artist/6PRGhDtDWSgyw60WSfna8v) | [Enta Fen](https://open.spotify.com/album/58A0G1FfTqJGig0TWUjcU3) | 3:21 | 2022-05-30 | 2022-11-12 |
 | [I Am Still Here](https://open.spotify.com/track/3Ccmq7nxS8y44m8HKf3deW) | [Arutani](https://open.spotify.com/artist/7g48EWSZL2Zb40hnBcFd1K) | [I Am Still Here](https://open.spotify.com/album/587BdfJd7CAjF1jgxVv1vi) | 4:24 | 2022-05-30 |  |
 | [Ihna Inhabasna](https://open.spotify.com/track/5RdHevEQB8n8gB2ONYZH3y) | [Autostrad](https://open.spotify.com/artist/4WtbPWxKvsXj9lWBi5buWJ) | [Autostrad](https://open.spotify.com/album/3IOSrN1mWyCxjGVMPy1UEa) | 3:44 | 2022-05-30 |  |
 | [Im Spiegel ist Sonntag](https://open.spotify.com/track/1jX0EM8swI9kdNgfDxofMi) | [Kariyan](https://open.spotify.com/artist/1lzhAqKyypA3vYZ6AArD0H) | [Im Spiegel Ist Sonntag](https://open.spotify.com/album/4ODHeL6ZMvsgFGMdN7uzvM) | 5:46 | 2022-05-30 |  |

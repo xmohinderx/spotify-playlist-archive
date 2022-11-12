@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o0zIiTnhmq.md) - [plain]
 
 > Mantras for meditation
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,344 likes - 33 songs - 9 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,508 likes - 33 songs - 9 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o0zIiTnhmq.md) - [plain]
 | 2 | [Gayatri Mantra Without Rhythm](https://open.spotify.com/track/7DF6xE3PU2agEw7pEheTWt) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Gayatri Mantra\-\-\-\-\-Jagjit Singh](https://open.spotify.com/album/7yd4gPISELyKBRsdGDoCTg) | 7:51 |
 | 3 | [Aham Brahmasmi](https://open.spotify.com/track/3xVv0QfLmeJt8EkSCUim4M) | [Meditative Mind](https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7) | [Mantras & Chants](https://open.spotify.com/album/0Yr36b0evAmbg8VQVrdSnN) | 11:41 |
 | 4 | [Mool Mantra](https://open.spotify.com/track/4JfPgYeidGr9eLFbpg1DIB) | [Ananya Bhowmick](https://open.spotify.com/artist/74dv0wmBboWMomobcuanhU) | [Mool Mantra \- Single](https://open.spotify.com/album/5WOVe5LI63N4ci6eNRoHWa) | 7:45 |
-| 5 | [Kar Darshanam](https://open.spotify.com/track/46Uvk0oU8R4iQSM8OMCdVv) | [Sadhana Sargam](https://open.spotify.com/artist/1HGMG8RHvcu1mfdM9MeTek) | [Morning Mantras](https://open.spotify.com/album/7rZWkCmz3Eli2Q9WkOXV0W) | 1:01 |
+| 5 | [Kar Darshanam](https://open.spotify.com/track/4fY8FE3Pd1VgIyMvrBcr61) | [Sadhana Sargam](https://open.spotify.com/artist/1HGMG8RHvcu1mfdM9MeTek) | [Sunrise to Sunset, Vol\. 1](https://open.spotify.com/album/4FDIr0MnhY9R9YKaqOwdBa) | 1:01 |
 | 6 | [Sarvesham Svastir Bhavatu](https://open.spotify.com/track/3wPDOm3yUZdZtxjkDTIUcm) | [Meditative Mind](https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7) | [Mantras for Deep Inner Peace](https://open.spotify.com/album/1jugrSJ5ZNJFaeZvki19Z4) | 45:17 |
 | 7 | [Gayatri Mantra 108 Times](https://open.spotify.com/track/6WX94Hv9LXIzxKvJYJUhMy) | [Dr\. Rahul Joshi](https://open.spotify.com/artist/71cFvaV1O8Jb5jzJc86YLr) | [Gayatri Mantra 108 Times \- Single](https://open.spotify.com/album/76rIJ92IJGiqPju3epWuoM) | 47:29 |
 | 8 | [Tilak Mantra](https://open.spotify.com/track/1P7sFLx6i0iZhJoqWLEppI) | [Kedar Pandit](https://open.spotify.com/artist/3vZMa9tWbeSYpQYhGRKHws) | [Morning Mantras](https://open.spotify.com/album/7rZWkCmz3Eli2Q9WkOXV0W) | 0:38 |
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o0zIiTnhmq.md) - [plain]
 | 32 | [Guru Smaranam](https://open.spotify.com/track/6n4Oa9DqN2ZaAGQlJ94WiR) | [Sadhana Sargam](https://open.spotify.com/artist/1HGMG8RHvcu1mfdM9MeTek) | [Morning Mantras](https://open.spotify.com/album/7rZWkCmz3Eli2Q9WkOXV0W) | 3:39 |
 | 33 | [Antarjami Purakh Bidhate](https://open.spotify.com/track/6gKNIl2Cv47OKDa9JKwX40) | [Meditative Mind](https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7) | [Mantras for Positive Energy](https://open.spotify.com/album/7C97tpyMI6dTlWVAkWXBZ7) | 11:20 |
 
-Snapshot ID: `MTY1OTcwMjg3MCwwMDAwMDAwMGJlMzY4YjgyNTM2ZmNmOTJlMjJmMDUwOTQxM2Q5MDNi`
+Snapshot ID: `MTY1OTcwMjg3MCwwMDAwMDAwMDUyOTc3ZmI1MjU4ODkyOTlkZTRmMGY4YzFhNTNlYjg5`

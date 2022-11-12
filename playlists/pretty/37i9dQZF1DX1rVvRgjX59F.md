@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rVvRgjX59F.md) - [plain]
 
 > These songs rocked the 90s\. Cover: Rage Against The Machine
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,971,855 likes - 100 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,973,258 likes - 100 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rVvRgjX59F.md) - [plain]
 | 25 | [When I Come Around](https://open.spotify.com/track/1Dr1fXbc2IxaK1Mu8P8Khz) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Dookie](https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6) | 2:58 |
 | 26 | [Scar Tissue](https://open.spotify.com/track/1G391cbiT3v3Cywg8T7DM1) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Californication \(Deluxe Edition\)](https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi) | 3:35 |
 | 27 | [Come As You Are](https://open.spotify.com/track/4P5KoWXOxwuobLmHXLMobV) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 3:38 |
-| 28 | [Bullet With Butterfly Wings \- Remastered 2012](https://open.spotify.com/track/6GtX0jaNL8IjVQfrDBx81z) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Mellon Collie And The Infinite Sadness \(Deluxe Edition\)](https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV) | 4:18 |
+| 28 | [Bullet With Butterfly Wings](https://open.spotify.com/track/5zAaUaXEvjP4LApQOFpVfj) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [90s Best Hits](https://open.spotify.com/album/7a39rtr7TyCtzSnWRb3OIt) | 4:17 |
 | 29 | [The Kids Aren't Alright](https://open.spotify.com/track/4EchqUKQ3qAQuRNKmeIpnf) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Americana](https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5) | 3:00 |
 | 30 | [My Hero](https://open.spotify.com/track/4dVbhS6OiYvFikshyaQaCN) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [The Colour And The Shape](https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv) | 4:20 |
 | 31 | [All The Small Things](https://open.spotify.com/track/0qujbJcE5lkpmGB8eqlxB8) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Prom 2021](https://open.spotify.com/album/3dnbszSWuG7K4ol4UsLiWM) | 2:51 |
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rVvRgjX59F.md) - [plain]
 | 53 | [No Rain](https://open.spotify.com/track/6txWz9UapYHVxEd7dDIHXT) | [Blind Melon](https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd) | [Blind Melon](https://open.spotify.com/album/55jET4vDioHHd7ztX7OX3h) | 3:37 |
 | 54 | [Guerrilla Radio](https://open.spotify.com/track/1wsRitfRRtWyEapl0q22o8) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [The Battle Of Los Angeles](https://open.spotify.com/album/2eia0myWFgoHuttJytCxgX) | 3:26 |
 | 55 | [Pardon Me](https://open.spotify.com/track/1Y13csEpu3TK5gQdzGLrd8) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Make Yourself](https://open.spotify.com/album/2i6nd4FV6y7K9fln6eelmR) | 3:43 |
-| 56 | [Don't Look Back In Anger \- Remastered](https://open.spotify.com/track/12dU3vAh6AFoJkisorfoUl) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \(Deluxe Remastered Edition\)](https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4) | 4:49 |
+| 56 | [Don't Look Back In Anger](https://open.spotify.com/track/7ppPZa3TRUSGKaks9wH7VT) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory?](https://open.spotify.com/album/2u30gztZTylY4RG7IvfXs8) | 4:47 |
 | 57 | [Supersonic \- Remastered](https://open.spotify.com/track/4jJfa4mO5JjV9Tz2aAxE2M) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Definitely Maybe \(Deluxe Edition Remastered\)](https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY) | 4:43 |
 | 58 | [What I Got](https://open.spotify.com/track/4m2jLCVMFoz9s2aig2w8mm) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Throwback Songs](https://open.spotify.com/album/1FirK6WH5dVjMLSRpjjHAI) | 2:50 |
 | 59 | [High and Dry](https://open.spotify.com/track/1VxlPYeR35DjigoCs6SraA) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [High & Dry / Planet Telex](https://open.spotify.com/album/5vldPxf0zDeF3S7U3WURJ4) | 4:17 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rVvRgjX59F.md) - [plain]
 | 71 | [Take A Picture](https://open.spotify.com/track/3LMk2ERkd46UY3SM7wNfiU) | [Filter](https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C) | [Title Of Record](https://open.spotify.com/album/5z6hB6RdG0y7YOjQAo0Y76) | 6:03 |
 | 72 | [The Distance](https://open.spotify.com/track/0fsz7tJ7UKXT9hliLfO7aE) | [CAKE](https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV) | [Fashion Nugget](https://open.spotify.com/album/6kPOXxCYCdXBzEbb9dqE90) | 2:59 |
 | 73 | [Celebrity Skin](https://open.spotify.com/track/2V4Bc2I962j7acQj1N0PiQ) | [Hole](https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn) | [Celebrity Skin](https://open.spotify.com/album/2KE8WCHtD8qnAxXeIzNEId) | 2:42 |
-| 74 | [Friday I'm in Love](https://open.spotify.com/track/263aNAQCeFSWipk896byo6) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish](https://open.spotify.com/album/3x1CmNdXWU0DzpTZXFFRZu) | 3:34 |
+| 74 | [Friday I'm In Love](https://open.spotify.com/track/6AyaTeqeStvu3g6RhhYEH7) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Modern Pop Evergreens](https://open.spotify.com/album/1qzuQ8iPMCS0k0HTedbrE5) | 3:36 |
 | 75 | [Cumbersome](https://open.spotify.com/track/6u1yKoh00WaoSpNp46RzKF) | [Seven Mary Three](https://open.spotify.com/artist/2zsLaQhHFdQPdFXqG1nRmM) | [American Standard](https://open.spotify.com/album/4IWy4QGftrQZLLvN6Dq4Lm) | 3:56 |
 | 76 | [Every You Every Me \- Single Version](https://open.spotify.com/track/1uKR986j2j1LdLGRzZsZjT) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [A Place for Us to Dream](https://open.spotify.com/album/7IsvLt8Ldg0YlcrusNP8uA) | 3:34 |
 | 77 | [Lump](https://open.spotify.com/track/2JdzB67NvIa90K4gEZPLeX) | [The Presidents Of The United States Of America](https://open.spotify.com/artist/1lZvg4fNAqHoj6I9N8naBM) | [The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition](https://open.spotify.com/album/5xxeAo8AVneH1OKO5vR604) | 2:14 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rVvRgjX59F.md) - [plain]
 | 99 | [Hedonism \(Just Because You Feel Good\)](https://open.spotify.com/track/2qRZm3cGCUPK40j3g0G5cN) | [Skunk Anansie](https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF) | [Stoosh](https://open.spotify.com/album/4S7eZrznxAyzv8IaoztDDR) | 3:27 |
 | 100 | [Nowhere](https://open.spotify.com/track/368RLF0YBCX8FyB4RGkaVq) | [Therapy?](https://open.spotify.com/artist/3MomZRiJwdZmYnysgtF4Ey) | [Troublegum](https://open.spotify.com/album/6ub0GyzfrkFZahy42i7pfR) | 2:26 |
 
-Snapshot ID: `MTY2MzY3MDM0NiwwMDAwMDAwMGQ3M2FhZjI0Yzg3ZTk4MDZlYjRhZDE3ZjE5NTJiYzM3`
+Snapshot ID: `MTY2MzY3MDM0NiwwMDAwMDAwMDA2YjZjMDExMWE3YTQwOTk5Y2MzMDAxMDY1YWFkOGNh`

@@ -4,7 +4,7 @@
 
 > Anda pa'lante galopante con los grandes del género romántico\. Los Bukis en portada.
 
-131 songs - 7 hr 25 min - [published](https://open.spotify.com/playlist/7rc5ZkDTWKxYThKG4sQb44)
+133 songs - 7 hr 32 min - [published](https://open.spotify.com/playlist/7rc5ZkDTWKxYThKG4sQb44)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,8 +47,9 @@
 | [El Perro, el Gato y Yo](https://open.spotify.com/track/54TgeMeInoK6wgPWw58ri7) | [Guardianes Del Amor](https://open.spotify.com/artist/3NLDQVyI2LVtQFJt8JeAAx) | [Lo Mejor De Guardianes Del Amor](https://open.spotify.com/album/4Asr02QFyUUEcwtcnGCYhx) | 3:37 | 2022-03-17 |  |
 | [El Regalo](https://open.spotify.com/track/0bjkoyF3RtjVwYVoWnr9ae) | [Los Dueños Del Sol](https://open.spotify.com/artist/1RN7jx2p7hBFXKJ2HyYu8d) | [El Regalo](https://open.spotify.com/album/5LuhrZx5mjU9UQsscVdS2n) | 3:27 | 2022-03-17 | 2022-09-15 |
 | [El Regalo](https://open.spotify.com/track/7DRE3azMuqMFWWldlfEnui) | [Los Dueños Del Sol](https://open.spotify.com/artist/1RN7jx2p7hBFXKJ2HyYu8d) | [El Regalo](https://open.spotify.com/album/30gaHyjtnyLYg26C90jNKz) | 3:27 | 2022-03-17 |  |
-| [El Taxista](https://open.spotify.com/track/5ugABx5bnTbKl0j6iPwaku) | [Los Dinnosaurios](https://open.spotify.com/artist/2WI2ub4Nn8cJM70m9IM2Hz) | [Inolvidables](https://open.spotify.com/album/6bMC920IXyDwMQVm6ZtCLU) | 3:44 | 2022-03-17 |  |
+| [El Taxista](https://open.spotify.com/track/5ugABx5bnTbKl0j6iPwaku) | [Los Dinnosaurios](https://open.spotify.com/artist/2WI2ub4Nn8cJM70m9IM2Hz) | [Inolvidables](https://open.spotify.com/album/6bMC920IXyDwMQVm6ZtCLU) | 3:44 | 2022-03-17 | 2022-11-12 |
 | [El Taxista](https://open.spotify.com/track/6vsxXwgCpGppUKFSDOildp) | [Los Dinnosaurios](https://open.spotify.com/artist/2WI2ub4Nn8cJM70m9IM2Hz) | [Inolvidables](https://open.spotify.com/album/7ARafZyz3I2D7aI2DsTF5P) | 3:44 | 2022-03-17 | 2022-07-29 |
+| [El Taxista](https://open.spotify.com/track/5aEwy9UczNp7H5cx7qUizQ) | [Los Dinnosaurios](https://open.spotify.com/artist/2WI2ub4Nn8cJM70m9IM2Hz) | [12 Exitos](https://open.spotify.com/album/1V0wvcJICet3CtonrdPYDk) | 3:46 | 2022-03-17 |  |
 | [En realidad](https://open.spotify.com/track/54psJ1LAQuyOfXZV5Pb4zE) | [Abracadabra](https://open.spotify.com/artist/1F10Dyz1RuRFkgHQ5Es3uZ) | [16 de Septiembre: Gruperas \(USA\) \[Vol\. 2\]](https://open.spotify.com/album/63mvOAHFDhD2QZLVfNAMcn) | 3:41 | 2022-03-17 |  |
 | [En Realidad](https://open.spotify.com/track/0hicPD6pe5ilVkgMWbRbZS) | [Grupo Abracadabra](https://open.spotify.com/artist/5Tr3Dj96kdzVnRiY3H457O) | [Antología, Vol\. 1](https://open.spotify.com/album/53Twpqi0xB4ZRUACwVtBK2) | 3:41 | 2022-03-17 | 2022-11-11 |
 | [En Realidad](https://open.spotify.com/track/3BQTmcsZ9DNNJ1qkEraTBm) | [Grupo Abracadabra](https://open.spotify.com/artist/5Tr3Dj96kdzVnRiY3H457O) | [Te Quiero Todavía](https://open.spotify.com/album/0ExehBI8RodvaibxLOlkXK) | 3:41 | 2022-03-17 | 2022-07-29 |
@@ -108,7 +109,8 @@
 | [Rosas Rojas](https://open.spotify.com/track/4Yu2U0ItuhN1eZ5rA5wAtZ) | [Industria del Amor](https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw) | [Verano De Amor](https://open.spotify.com/album/3KasQgz3Q9WjvbrD270lf5) | 3:30 | 2022-03-17 |  |
 | [Se Fue Mi Paloma](https://open.spotify.com/track/6v4btqrnQRhliof9wGuB3I) | [Los Mismos](https://open.spotify.com/artist/7nkBA0CcBFVR78vPhgcTa7) | [Juntos Para Siempre](https://open.spotify.com/album/0hzBrUq9vGTTyb0TnAdAjU) | 3:08 | 2022-03-17 |  |
 | [Separados](https://open.spotify.com/track/0X36EM2m5Ehd20azrkhE4O) | [Los Acosta](https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x) | [Vivencias](https://open.spotify.com/album/56mu4xH2JACoVGZhr3f6KZ) | 3:12 | 2022-03-17 | 2022-07-29 |
-| [Separados](https://open.spotify.com/track/1ndFCNYYgQaN6PXOeT4QGN) | [Los Acosta](https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x) | [Album de Oro](https://open.spotify.com/album/7yZcbdxZv4trwSe3RfY8LE) | 3:12 | 2022-03-17 |  |
+| [Separados](https://open.spotify.com/track/1ndFCNYYgQaN6PXOeT4QGN) | [Los Acosta](https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x) | [Album de Oro](https://open.spotify.com/album/7yZcbdxZv4trwSe3RfY8LE) | 3:12 | 2022-03-17 | 2022-11-12 |
+| [Separados](https://open.spotify.com/track/3dg0A1h4NWXHtZOCI1GUgc) | [Los Acosta](https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x) | [Las 20 Poderosas \(USA\)](https://open.spotify.com/album/0xKKsTnZePOmlZxelObgjF) | 3:12 | 2022-03-17 |  |
 | [Si Estuvieras Conmigo \- Dueto Con Grupo Bryndis](https://open.spotify.com/track/4JgxmSC0CvOZ4WOzNxS2S7) | [Liberación](https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5), [Grupo Bryndis](https://open.spotify.com/artist/44WCHvwXBOMz6nm7Mu2ReO) | [30 Aniversario Duetos](https://open.spotify.com/album/5BhAjPF7nbVtq2pvz7nbVm) | 2:40 | 2022-03-17 |  |
 | [Soy Yo](https://open.spotify.com/track/49NsFSiOiBOYDAYfZz4fjl) | [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt) | [16 Éxitos De Oro](https://open.spotify.com/album/3E6LOBclSiqtnKW3WWJND9) | 3:33 | 2022-03-17 |  |
 | [Supe Perder](https://open.spotify.com/track/6NUoNxL3tWnICLhFQ5obEW) | [Los Caminantes](https://open.spotify.com/artist/6ziEnj8UydSg8dr68C3aut) | [Nuestras Canciones Romanticas Favoritas "20 Exitazos"](https://open.spotify.com/album/0laRQXcW652scqzEAKqRMM) | 2:57 | 2022-03-17 |  |

@@ -4,7 +4,7 @@
 
 > Let it all go.
 
-134 songs - 7 hr 47 min - [published](https://open.spotify.com/playlist/3yPTKwCyOEi0lpqAaQ8E7k)
+138 songs - 7 hr 58 min - [published](https://open.spotify.com/playlist/3yPTKwCyOEi0lpqAaQ8E7k)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Amplector](https://open.spotify.com/track/3rL6i7GokWtuOwZQ3bWcV9) | [Zibra Inguzu](https://open.spotify.com/artist/1LNciO7hxkWoSQ3V8OWNQF) | [Tibetan Singing Bowls II](https://open.spotify.com/album/20BvJWKj5DK3lnnqvOcNUU) | 4:03 | 2021-12-23 |  |
 | [As I Lay Here](https://open.spotify.com/track/59QJ83aEkzxOCqeWFbjoKa) | [Jennifer Dileo](https://open.spotify.com/artist/2mB3r3m1RWix0kc0f4qxTT) | [As I Lay Here](https://open.spotify.com/album/69cF5zbCD2jCDvAJvXJvgh) | 3:19 | 2021-12-23 |  |
 | [Astral Wonder](https://open.spotify.com/track/7En6m2Yg3J1zAq895bxl78) | [Moon Oceans](https://open.spotify.com/artist/39qPWYWkYbi7esvFXiUpss) | [Solitude in the Stars](https://open.spotify.com/album/20QiaX1rJkQLMxS1UDd9uf) | 3:01 | 2021-12-23 |  |
+| [At Night I Fly](https://open.spotify.com/track/1kOo4z14fQRQdnYXU8VDcv) | [Heur](https://open.spotify.com/artist/73UAkSvLz6yCEeKwPlCmDv) | [At Night I Fly](https://open.spotify.com/album/6U0puq2gcRqfDper0juJzK) | 2:33 | 2022-11-11 |  |
 | [Away](https://open.spotify.com/track/1EVgWgzpE2PWs6BT3qxpKm) | [Eriao](https://open.spotify.com/artist/5liqyeSP9olMkSr5Zvo9YU) | [Away](https://open.spotify.com/album/0GX2UY2tn4q5ms2g6NlGRy) | 2:46 | 2022-06-16 |  |
 | [Awyr](https://open.spotify.com/track/7yMzhnHDOwrRE8xSHg1odL) | [Carwyn](https://open.spotify.com/artist/07xmi3luGn1Zgl4LbQs9i3) | [Awyr](https://open.spotify.com/album/32IqCf3YumpYV4JWvfS8F9) | 3:53 | 2021-12-23 |  |
 | [Beautiful Awakening](https://open.spotify.com/track/7z2XZ3N0nyzZed42lEz2ul) | [Spirit Minds](https://open.spotify.com/artist/3GrOqlDYHDtloOS3v1cnvD) | [Beautiful Awakening](https://open.spotify.com/album/6mSSBidKkhCtzzn4N44FEG) | 3:01 | 2021-12-23 |  |
@@ -86,6 +87,7 @@
 | [Oblivion](https://open.spotify.com/track/676cCislDJ6X51j2mai6xD) | [Norris Melcher](https://open.spotify.com/artist/1uNKwFEjuT8w9eXOCqrcAA) | [Oblivion](https://open.spotify.com/album/03PoUSzMmhA5FYH7yU0BGO) | 3:08 | 2021-12-23 |  |
 | [On Plateau](https://open.spotify.com/track/5SpQc9ByjLPrycqSBdPRKU) | [Suso Saiz](https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh), [Suzanne Kraft](https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m) | [Between No Things](https://open.spotify.com/album/6OQwiuvocNlEp7D9nIBOjj) | 3:55 | 2021-12-23 |  |
 | [Opal](https://open.spotify.com/track/0HUjGplgKAsG0roDYuAWzr) | [Tranquil Journeys](https://open.spotify.com/artist/54FHbjddYi2zgSZ1QNgkPn) | [Opal](https://open.spotify.com/album/7pqkV4CidH4eiKB1FrpQ3e) | 3:11 | 2022-02-18 |  |
+| [Opening Skies](https://open.spotify.com/track/2d634QA1iA1WwWN8h0kCgO) | [Eneyo Emberence](https://open.spotify.com/artist/2TOrhTAycqShzken1KL2dz) | [Opening Skies](https://open.spotify.com/album/6uMHOH5aHwAFbBDUijneGG) | 3:09 | 2022-11-11 |  |
 | [Orca Matriarch](https://open.spotify.com/track/4J5GTc9yuEMKjvjGoFomJO) | [Joseph Beg](https://open.spotify.com/artist/2N40EmjIUVBHidajBVs3Px) | [Orca Matriarch](https://open.spotify.com/album/1u5jX2gYozad5UWrIIoqSa) | 3:59 | 2021-12-23 |  |
 | [Overcome \(Alpha Waves\)](https://open.spotify.com/track/66tcVcibuPYWs182LeINwu) | [Leerseite](https://open.spotify.com/artist/7l8dnU5tDk33Zw78dgfwi5) | [The Power of Now \(Alpha Binaural Beats\)](https://open.spotify.com/album/3paWjmhxh5wcMFRumXjtxk) | 3:09 | 2021-12-23 |  |
 | [Pace Of Nature](https://open.spotify.com/track/1sB226w76E26PZRxcSA8Uq) | [Wissal Sakti](https://open.spotify.com/artist/1FiERGNLIiWDYa2nA0TcGD) | [Pace Of Nature](https://open.spotify.com/album/6NJjyT1Kr57k811DYQ7WEA) | 3:06 | 2021-12-23 | 2022-09-24 |
@@ -103,6 +105,7 @@
 | [Rhythms](https://open.spotify.com/track/2ZvyrcGO1JLsfc2XqD7oio) | [Pascal Dirac](https://open.spotify.com/artist/55UOeJ9KXXCNAQ0b4REsiR) | [Rhythms](https://open.spotify.com/album/3r2nphYPieVtEcbWCfWMP3) | 2:28 | 2022-09-02 |  |
 | [Rising](https://open.spotify.com/track/0VV45CwyCH6IUkrckbVbNd) | [Wellness Portal](https://open.spotify.com/artist/6t5G5UjoSmisKCSYhdI0gs) | [Wellness Portal](https://open.spotify.com/album/19nYyLIiUYfGOtDDVIRoA9) | 2:19 | 2021-12-23 |  |
 | [Sacred part one](https://open.spotify.com/track/7qobsQFx45nRS50uSFUcsr) | [Charlie Roscoe](https://open.spotify.com/artist/56YgRdEzNaXYkaaoFXB4q1) | [Sacred](https://open.spotify.com/album/2JRvXNhvAX1entijhW0F4r) | 8:42 | 2021-12-23 | 2022-09-03 |
+| [Safe](https://open.spotify.com/track/2sYLvR1t37NbXZqRI7KS5a) | [Deruinga](https://open.spotify.com/artist/4QdAxJ3cHi44C5QmSf1yeo) | [Safe](https://open.spotify.com/album/0kVhLQ5BXHeMplSKwtHzGg) | 2:39 | 2022-11-11 |  |
 | [Self Reflection](https://open.spotify.com/track/2VTxY7VSr3SglGky02DHvq) | [Muted Reality](https://open.spotify.com/artist/61XqCx4Ltxr3vCCquzaj7D) | [Beyond Imagination](https://open.spotify.com/album/6F55IABDkakEQqcQAXeAq5) | 3:32 | 2021-12-23 |  |
 | [Shapes of Solitude](https://open.spotify.com/track/679ajBE0hA1KXeV4ksYifn) | [Astron](https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y) | [Peaceful Illusions](https://open.spotify.com/album/56A3q7RrXnTuljybi6L14X) | 2:57 | 2022-06-16 |  |
 | [Signs & Wonders](https://open.spotify.com/track/0sUyb2pkHIrXiEcF0FSFzy) | [Hazel Shore](https://open.spotify.com/artist/77cBxvbzMnrholixIjtXVR) | [Signs & Wonders](https://open.spotify.com/album/0UR5nR089lZUU9GWmhGZrN) | 2:59 | 2021-12-23 |  |
@@ -117,6 +120,7 @@
 | [Stargaze](https://open.spotify.com/track/4lMmoawRGvO419cZgRP9mV) | [Antero Lehto](https://open.spotify.com/artist/7gBBSNhDsDRvI4XfsVNpC8) | [Ascendent](https://open.spotify.com/album/7wnhFQ2b7bGwjyLSiqRyt4) | 2:39 | 2022-06-24 |  |
 | [Stimmung](https://open.spotify.com/track/6mmma8gbZNJcTkG40Nr2vx) | [Leo Baumgart](https://open.spotify.com/artist/0qFeRGzewB33eItfoNqrvd) | [Stimmung](https://open.spotify.com/album/03M9YKu5qpJzxxPKx076fA) | 2:18 | 2021-12-23 |  |
 | [Submergine](https://open.spotify.com/track/3yrsdIc6YMb3Zau5U39BDJ) | [Mao\-Li](https://open.spotify.com/artist/2qIOoLj6ilaacPexeiw7RW) | [Submergine](https://open.spotify.com/album/590lRZbZFXlJgmtdkpOtmO) | 3:09 | 2021-12-23 |  |
+| [Supine](https://open.spotify.com/track/6xNDVglPOwn9YXDyCt33lS) | [Sandra Prime](https://open.spotify.com/artist/2iKoQTuF9oRjVWo6l3BPRc) | [Elucidate](https://open.spotify.com/album/6xKgXH4qCDgMn0IWb8aBI6) | 2:47 | 2022-11-11 |  |
 | [Sweven](https://open.spotify.com/track/7LbnfJ4bZ8UZRcb9l8Txld) | [Andy Kamman](https://open.spotify.com/artist/2bI9xKlbtS0cPS3rQ8x87y) | [Sweven](https://open.spotify.com/album/0Ixj5uPjN9PPtqoPE2u8pS) | 3:13 | 2021-12-23 |  |
 | [Symmetry](https://open.spotify.com/track/7s1zPhZgciTy2ruEy3JUmb) | [Sea of Waves](https://open.spotify.com/artist/4R8zw6rwLPscyd42vMpMmo) | [Liquid Air](https://open.spotify.com/album/70mPe6QZPnJJmQCok7bxBW) | 3:00 | 2021-12-23 |  |
 | [Sólestur](https://open.spotify.com/track/7F6aZaOPixAPSwEWUgUlwH) | [Elsa Gudmundsdottir](https://open.spotify.com/artist/5zgSiZmivqPWPZICFTKarK) | [Sólestur](https://open.spotify.com/album/4Symuw8H6FtmbDWqRRGsbN) | 2:09 | 2022-08-15 |  |

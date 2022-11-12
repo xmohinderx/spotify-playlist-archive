@@ -318,6 +318,24 @@
     },
     {
       "album": {
+        "name": "Barnens barns\u00e5nger",
+        "url": "https://open.spotify.com/album/0NUe1hxuKopyRQ4frjBL6L"
+      },
+      "artists": [
+        {
+          "name": "Lilian Bokestig",
+          "url": "https://open.spotify.com/artist/4gGXmFMnH9pQxFUPxjUu4e"
+        }
+      ],
+      "date_added": "2022-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 51826,
+      "name": "Pr\u00e4stens lilla kr\u00e5ka",
+      "url": "https://open.spotify.com/track/1KuxIKJvxHWQbZYcNslEbE"
+    },
+    {
+      "album": {
         "name": "Pr\u00e4stens lilla kr\u00e5ka",
         "url": "https://open.spotify.com/album/1dnxxDSjSURbR8TlgaOx7E"
       },
@@ -329,7 +347,7 @@
       ],
       "date_added": "2019-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 51826,
       "name": "Pr\u00e4stens lilla kr\u00e5ka",
       "url": "https://open.spotify.com/track/6FDARjuebXcy08AMLLftRk"

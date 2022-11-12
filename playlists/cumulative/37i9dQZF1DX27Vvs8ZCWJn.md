@@ -4,7 +4,7 @@
 
 > Clásicas románticas, melodiosas, apacibles.
 
-78 songs - 5 hr 29 min - [published](https://open.spotify.com/playlist/2Snu25HjMZnX4NZH84ha5a)
+79 songs - 5 hr 33 min - [published](https://open.spotify.com/playlist/2Snu25HjMZnX4NZH84ha5a)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Nada Personal](https://open.spotify.com/track/3XtPN9Var7rerjAzLsCAHt) | [Armando Manzanero](https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT), [Lisset](https://open.spotify.com/artist/3Nhah9QnvO4zqIsuQ1H6aW) | [Te Amo Tv \- Exitos Originales de las Telenovelas](https://open.spotify.com/album/2RagZoyWYlwFcLJSp4VPFG) | 3:11 | 2021-12-25 |  |
 | [Necesito](https://open.spotify.com/track/7H62s62eUQqYXTA3WsrTK7) | [Sui Generis](https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8) | [Vida](https://open.spotify.com/album/0EdYPXNaKi8QOBwq1C13jM) | 2:13 | 2021-12-25 |  |
 | [No Hace Falta](https://open.spotify.com/track/5DiHLU0npIbhSTZm8EGeuT) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [Que Nada Nos Separe](https://open.spotify.com/album/0tv0ugArh5TtRPMORE70RY) | 4:27 | 2021-12-25 |  |
+| [No Soy De Aqui, Ni Soy De Alla](https://open.spotify.com/track/70xSLxbCLBQSxBtP46AuZq) | [Facundo Cabral](https://open.spotify.com/artist/1vCCUwNiIwC41lEu7EuBmx) | [Serie De Oro](https://open.spotify.com/album/3PG4hwXoSc0ElxiMslu4jy) | 3:44 | 2021-12-25 |  |
 | [No Sé Tú](https://open.spotify.com/track/2DAsLftcRKP3iarCPmI1RY) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Romance](https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP) | 3:49 | 2021-12-25 |  |
 | [No Te Apartes de Mi \(Não Se Afaste de Mim\)](https://open.spotify.com/track/6W7Xeg3XH1OFjHe3Ado7Sg) | [Roberto Carlos](https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65) | [Pra Sempre Em Espanhol \- Vol\. 1](https://open.spotify.com/album/2Xq3ImnZEspHHITZy3DOZH) | 4:14 | 2021-12-25 | 2022-07-29 |
 | [Ojalá](https://open.spotify.com/track/5sQGo3fB2NoFalyy4uZjiu) | [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Al Final de Este Viaje...](https://open.spotify.com/album/4WEu5ZKJLZ9bOEav4ELwpd) | 3:32 | 2021-12-25 |  |
@@ -72,7 +73,7 @@
 | [Te Amo](https://open.spotify.com/track/4WtO0pdIHTuVwQAVFmfIHQ) | [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu) | [Franco De Vita En Primera Fila](https://open.spotify.com/album/6IIvdAgLtisXjNnxZpBxOX) | 3:38 | 2021-12-25 |  |
 | [Te Voy a Enseñar a Querer](https://open.spotify.com/track/1611GmlolwbEqZgoi3nqvN) | [Manoella Torres](https://open.spotify.com/artist/4JRKcLbpjobmoOVoOXPd6y) | [La Gran Colección del 60 Aniversario CBS \- Manoella Torres](https://open.spotify.com/album/7Hri6gZJ0HGvNoM7pZxPfi) | 3:16 | 2021-12-25 |  |
 | [Todo A Pulmon](https://open.spotify.com/track/3gOTLS9rDO8P2G6pNqnas8) | [Nicho Hinojosa](https://open.spotify.com/artist/6fs2zAuQ7tpU2kGIpyouQh) | [Nicho..\. En El Bar 2](https://open.spotify.com/album/0BY1dERflJypmx4xm4aUpg) | 3:32 | 2021-12-25 | 2022-07-29 |
-| [Todo Cambia](https://open.spotify.com/track/0njOsb3y8TnwIJC7GnlWwD) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7) | [¿Será Posible El Sur?](https://open.spotify.com/album/3qbjXmDq5KNBU5BbycE3cj) | 4:44 | 2021-12-25 |  |
+| [Todo Cambia](https://open.spotify.com/track/0njOsb3y8TnwIJC7GnlWwD) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7) | [¿Será Posible El Sur?](https://open.spotify.com/album/3qbjXmDq5KNBU5BbycE3cj) | 4:44 | 2021-12-25 | 2022-11-12 |
 | [Todo Se Derrumbó Dentro de Mí](https://open.spotify.com/track/4hWUYwFwJKpu4o49Gon76Z) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Solo Exitos](https://open.spotify.com/album/5b01rzpRKnF0NZXgdcgcA1) | 5:12 | 2021-12-25 |  |
 | [Tómame o Déjame \- Remasterizado](https://open.spotify.com/track/1ZJe2q23LXHnE79UjnJqyx) | [Mocedades](https://open.spotify.com/artist/4Sm7JCttzWMwHJtb3UJ8SY) | [Mocedades 5](https://open.spotify.com/album/09wkGIEU9667gEzg6Ywsbx) | 3:07 | 2021-12-25 |  |
 | [Tú de Qué Vas](https://open.spotify.com/track/66iygyOSvvoQQsKJ1vEXfT) | [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu) | [Stop](https://open.spotify.com/album/4BI3oXrWF0YvtWpfYWUxeX) | 3:58 | 2021-12-25 |  |

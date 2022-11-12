@@ -4,7 +4,7 @@
 
 > The best soft rock from the 1980s.
 
-124 songs - 10 hr 6 min - [published](https://open.spotify.com/playlist/3kc3bqHwUD9C5VMlAQVigN)
+125 songs - 10 hr 9 min - [published](https://open.spotify.com/playlist/3kc3bqHwUD9C5VMlAQVigN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [Pink Houses \- Bonus Track](https://open.spotify.com/track/69ralFmXmtNuPsgpFUtbbt) | [John Mellencamp](https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH) | [Uh\-HUH!](https://open.spotify.com/album/1p4YwrjrP7t6Rfb755yoTQ) | 3:44 | 2020-12-08 | 2022-07-29 |
 | [Private Eyes](https://open.spotify.com/track/5HQ639Z3ms3hnZx0KfWnkp) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Private Eyes \(Expanded Edition\)](https://open.spotify.com/album/7rfpaXxmQG7dnFycZjLae0) | 3:37 | 2022-03-28 |  |
 | [Private Investigations](https://open.spotify.com/track/5KVak7r5YKcnkmARc0hy0Q) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [Love Over Gold](https://open.spotify.com/album/4hJqOIahWodpSJU6uDgjvN) | 6:45 | 2020-12-08 | 2022-07-29 |
-| [Private Investigations](https://open.spotify.com/track/0SqUwlygrVkMWkplNvvld1) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [Love Over Gold](https://open.spotify.com/album/3Iz3o8owPasr8PKUSZPqD5) | 6:46 | 2020-12-08 |  |
+| [Private Investigations](https://open.spotify.com/track/0SqUwlygrVkMWkplNvvld1) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [Love Over Gold](https://open.spotify.com/album/3Iz3o8owPasr8PKUSZPqD5) | 6:46 | 2020-12-08 | 2022-11-12 |
 | [Romeo And Juliet](https://open.spotify.com/track/0PNt5WTw092eED0ru9SuIp) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [Making Movies](https://open.spotify.com/album/3wvclpO3LJmpSQGQ9gBa2a) | 6:00 | 2020-12-08 | 2022-07-29 |
 | [Romeo and Juliet](https://open.spotify.com/track/57MflfPN3ObQQAQtPUp0WF) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [Making Movies](https://open.spotify.com/album/7yTjsInNdNQJAlXAboi1nh) | 6:01 | 2020-12-08 |  |
 | [Sara](https://open.spotify.com/track/0HzjKCZmFhwcO2vnnHpj9q) | [Starship](https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf) | [Knee Deep In The Hoopla](https://open.spotify.com/album/0YCraVqAWvJHiBYP2AXgV6) | 4:52 | 2020-12-08 |  |
@@ -95,6 +95,7 @@
 | [Sister Christian](https://open.spotify.com/track/6LoSKNsYkRQbyuiReooMjG) | [Night Ranger](https://open.spotify.com/artist/1Ha0Fz4i0d4gu5fZbhBCtH) | [Boogie Nights / Music From The Original Motion Picture](https://open.spotify.com/album/4HUntZg0YV0qCvRxmIhq2U) | 5:00 | 2020-12-08 |  |
 | [Southern Cross \- 2005 Remaster](https://open.spotify.com/track/5AoZknxgY6F25gAcVahO41) | [Crosby, Stills & Nash](https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou) | [Daylight Again \(Deluxe Edition\)](https://open.spotify.com/album/7mepsTLhRL4ghKLZ4oB31u) | 4:41 | 2022-07-05 |  |
 | [Stop Draggin' My Heart Around \(with Tom Petty and The Heartbreakers\) \- 2016 Remaster](https://open.spotify.com/track/66LhCsc06aTa2Ig7iYPDSP) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz), [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Bella Donna \(2016 Remastered\)](https://open.spotify.com/album/0IomjU2bXFng4LQBYn7Het) | 4:04 | 2021-10-12 |  |
+| [Straight From The Heart](https://open.spotify.com/track/6oqBRt8j0VSYtGdUsceSq7) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Anthology](https://open.spotify.com/album/6XkXta8AXNmXkZAxM0CYqW) | 3:31 | 2020-12-08 |  |
 | [Straight From The Heart](https://open.spotify.com/track/7uBxi4jHZqgWAjqLEl1KcF) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Cuts Like A Knife](https://open.spotify.com/album/1hUiT5wFSraneBf4aNpbL3) | 3:31 | 2020-12-08 | 2022-07-29 |
 | [Straight From The Heart](https://open.spotify.com/track/5eaK7PLGwyDXmHfTdWZZuE) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Cuts Like A Knife](https://open.spotify.com/album/5ZZ5S9fqcpQo4N3n7nPUk7) | 3:31 | 2020-12-08 | 2022-11-11 |
 | [Sunset Grill](https://open.spotify.com/track/4I9AA9H57ySNSv1ZPinL4D) | [Don Henley](https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2) | [Building The Perfect Beast](https://open.spotify.com/album/2x1s5aVQ01ylPs5nUdeA2i) | 6:19 | 2020-12-08 |  |

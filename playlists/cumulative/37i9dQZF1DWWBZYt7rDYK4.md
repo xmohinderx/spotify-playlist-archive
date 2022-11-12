@@ -4,7 +4,7 @@
 
 > A pop soundtrack that both you and your little one can enjoy.
 
-144 songs - 9 hr 53 min - [published](https://open.spotify.com/playlist/4WGXzSJ3RMfwF6SJ6no75o)
+146 songs - 10 hr 2 min - [published](https://open.spotify.com/playlist/4WGXzSJ3RMfwF6SJ6no75o)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Fantasy](https://open.spotify.com/track/6xkryXuiZU360Lngd4sx13) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 4:03 | 2021-11-23 |  |
 | [Fast Car](https://open.spotify.com/track/2M9ro2krNb7nr7HSprkEgo) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [Tracy Chapman](https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8) | 4:56 | 2021-11-23 |  |
 | [Firework](https://open.spotify.com/track/29192Seg7hQqLi5gW5eOBt) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/3BoUxfC7YhxNq3TpOfnRif) | 3:47 | 2021-11-23 |  |
+| [Flashdance...What A Feelin' \(Re\-Recorded / Remastered\)](https://open.spotify.com/track/5HdWaUvHG6AYk0XMgEE8OA) | [Irene Cara](https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G) | [Top Hits of '80s Pop \(Re\-Recorded / Remastered Versions\)](https://open.spotify.com/album/4j9PxJvpDTMYsAG4I9a0O0) | 4:06 | 2021-11-23 |  |
 | [Flashdance...What A Feeling](https://open.spotify.com/track/1vyI6X2Id2CarE73XOLGxM) | [Irene Cara](https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G) | [80s Mania](https://open.spotify.com/album/5hgzC9IxDx8wcos3LTGrCh) | 4:06 | 2021-11-23 | 2022-07-29 |
 | [Footloose](https://open.spotify.com/track/1KjqybxJeKMlq1h5s6YhIt) | [Kenny Loggins](https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW) | ['80s Pop Hits](https://open.spotify.com/album/7xY34kpisIxOv8WMnNN8wg) | 3:45 | 2021-11-23 |  |
 | [Girls Just Want to Have Fun](https://open.spotify.com/track/0uqOqX59mgWBqfPAdX0BDK) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | ['80s Pop Hits](https://open.spotify.com/album/7xY34kpisIxOv8WMnNN8wg) | 3:47 | 2021-11-23 |  |
@@ -144,9 +145,10 @@
 | [Walking on Broken Glass](https://open.spotify.com/track/4CcSw8wQAHYf4XNckayPoc) | [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum) | [Diva](https://open.spotify.com/album/33ImEB9taJ3Tie4APfTL7B) | 4:13 | 2021-11-23 |  |
 | [Waterfalls](https://open.spotify.com/track/6qspW4YKycviDFjHBOaqUY) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Crazysexycool](https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f) | 4:39 | 2021-11-23 |  |
 | [We Belong](https://open.spotify.com/track/665Jxlgi1HamPKbW1vwzx4) | [Pat Benatar](https://open.spotify.com/artist/43mhFhQ4JAknA7Ik1bOZuV) | [Tropico](https://open.spotify.com/album/5qxb9JwzVz5EqegShruoM8) | 3:41 | 2021-11-23 |  |
-| [What A Feeling](https://open.spotify.com/track/0aAR5HogGoT68EWFbyRFqx) | [Irene Cara](https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G) | [What A Feeling](https://open.spotify.com/album/7C65CLdoGCQZ739kfYVcwY) | 4:04 | 2021-11-23 |  |
+| [What A Feeling](https://open.spotify.com/track/0aAR5HogGoT68EWFbyRFqx) | [Irene Cara](https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G) | [What A Feeling](https://open.spotify.com/album/7C65CLdoGCQZ739kfYVcwY) | 4:04 | 2021-11-23 | 2022-11-12 |
 | [Wonderwall](https://open.spotify.com/track/2CT3r93YuSHtm57mjxvjhH) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Stop The Clocks](https://open.spotify.com/album/1f4I0SpE0O8yg4Eg2ywwv1) | 4:18 | 2021-11-23 | 2022-07-29 |
-| [Wonderwall \- Remastered](https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \(Deluxe Remastered Edition\)](https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4) | 4:18 | 2021-11-23 |  |
+| [Wonderwall](https://open.spotify.com/track/7dPd3dx4ipBe10xKuhj9eY) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Wonderwall](https://open.spotify.com/album/3ezI4EtsobNEhV0WSEsCGn) | 4:18 | 2021-11-23 |  |
+| [Wonderwall \- Remastered](https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \(Deluxe Remastered Edition\)](https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4) | 4:18 | 2021-11-23 | 2022-11-12 |
 | [You Get What You Give](https://open.spotify.com/track/1Cwsd5xI8CajJz795oy4XF) | [New Radicals](https://open.spotify.com/artist/0Grjlu7ncIuCaSYvCs9fcd) | [Maybe You've Been Brainwashed Too](https://open.spotify.com/album/13btXEnBerpA1UjIVtsMAR) | 5:00 | 2021-11-23 |  |
 | [You Gotta Be](https://open.spotify.com/track/6CU0zWIWVTEnmWpSjVHM93) | [Des'ree](https://open.spotify.com/artist/73ZPfpfg1LBVvDEArK4l5B) | [I Ain't Movin'](https://open.spotify.com/album/1Q9leCDLTJZIMmnXziq8mU) | 4:05 | 2021-11-23 |  |
 | [You Learn \- 2015 Remaster](https://open.spotify.com/track/4l7YIni9bAiGwWMqK5wvgV) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Jagged Little Pill \(2015 Remaster\)](https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA) | 3:59 | 2021-11-23 |  |

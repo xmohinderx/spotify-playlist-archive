@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUPO0Sbx2CM.md) - [plain]
 
 > A mix of EDM, Pop, Hip Hop, Worship, and remixes!  Discover songs from artists defining the sound of now and tomorrow!
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,779 likes - 75 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,902 likes - 75 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [joy.](https://open.spotify.com/track/0vBjd0I8iefycEZ2ex1Zpi) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [Burn The Ships](https://open.spotify.com/album/5eDLHSsctG7CccVeYSTLeh) | 3:53 |
-| 2 | [Give Up On Love](https://open.spotify.com/track/6yKHDbeC3YP4u0dNPniIyg) | [Joseph O'Brien](https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa) | [Give Up On Love](https://open.spotify.com/album/6z7orYrUDr1Lyl9IteS5PE) | 3:22 |
-| 3 | [LIFE IS GOOD](https://open.spotify.com/track/1MGJgerlsDFsQsUo7ITVop) | [Courtnie Ramirez](https://open.spotify.com/artist/2nWAWrpwIjcyfaGfeZ13qW), [Apollo LTD](https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp) | [LIFE IS GOOD](https://open.spotify.com/album/04r5bM1EHVW6hlhuOzDv1N) | 3:07 |
+| 2 | [LIFE IS GOOD](https://open.spotify.com/track/1MGJgerlsDFsQsUo7ITVop) | [Courtnie Ramirez](https://open.spotify.com/artist/2nWAWrpwIjcyfaGfeZ13qW), [Apollo LTD](https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp) | [LIFE IS GOOD](https://open.spotify.com/album/04r5bM1EHVW6hlhuOzDv1N) | 3:07 |
+| 3 | [Give Up On Love](https://open.spotify.com/track/6yKHDbeC3YP4u0dNPniIyg) | [Joseph O'Brien](https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa) | [Give Up On Love](https://open.spotify.com/album/6z7orYrUDr1Lyl9IteS5PE) | 3:22 |
 | 4 | [Grace Got You](https://open.spotify.com/track/4BhKsrfLowNbN7F3JVhI8i) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [Lifer](https://open.spotify.com/album/3KVlZJCLMdeU43OwSU0Hac) | 3:35 |
 | 5 | [Higher Ground](https://open.spotify.com/track/6uGKLZ6z8ogdfDRDwOReTf) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [Episode 1 \- EP](https://open.spotify.com/album/2fARr0hI02WNfm4vL6MsWx) | 3:06 |
 | 6 | [Only Ever](https://open.spotify.com/track/3A1etA4fcClRWiPCRhbY9l) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5) | [Only Ever](https://open.spotify.com/album/1OK3WYikBD59j8DxLPXhte) | 3:21 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUPO0Sbx2CM.md) - [plain]
 | 33 | [Lean Back](https://open.spotify.com/track/1QSuiZPdQUpfpM7o8bp754) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Greater is He & Lean Back](https://open.spotify.com/album/2Qw9de5l2J7bmAzLVlicib) | 3:46 |
 | 34 | [Best Friends](https://open.spotify.com/track/0fDEDcUApzHMvBlIIKcmMk) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ) | [All Of My Best Friends](https://open.spotify.com/album/1JqOZim8WcsjtJXuHrgOQO) | 3:05 |
 | 35 | [Summer Meets Winter](https://open.spotify.com/track/5Hqv4oB5KMg9OPHKWfrcUI) | [The Gray Havens](https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC) | [Blue Flower](https://open.spotify.com/album/08ReYUWote4DMo20Ra5zwD) | 4:12 |
-| 36 | [Coming In Hot \- Wuki Remix](https://open.spotify.com/track/2F9jc4l18skWHn6GsjbN5L) | [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q) | [Coming In Hot \- Wuki Remix](https://open.spotify.com/album/3H748cRUjynjpcaBmmd9qz) | 2:59 |
-| 37 | [Unstoppable](https://open.spotify.com/track/7ImLXs35qALCxJMiz33Ab9) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW) | [Unstoppable](https://open.spotify.com/album/5ZyTkx6rT1LnFXvZhpEang) | 3:13 |
+| 36 | [Unstoppable](https://open.spotify.com/track/7ImLXs35qALCxJMiz33Ab9) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW) | [Unstoppable](https://open.spotify.com/album/5ZyTkx6rT1LnFXvZhpEang) | 3:13 |
+| 37 | [Coming In Hot \- Wuki Remix](https://open.spotify.com/track/2F9jc4l18skWHn6GsjbN5L) | [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q) | [Coming In Hot \- Wuki Remix](https://open.spotify.com/album/3H748cRUjynjpcaBmmd9qz) | 2:59 |
 | 38 | [perfection](https://open.spotify.com/track/5TyYCoAhxi9Tm8vIG4wUwJ) | [Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN) | [Better View, Part I \- EP](https://open.spotify.com/album/3Aj9bidByX8DqwLddzbbQb) | 3:33 |
 | 39 | [Miracle](https://open.spotify.com/track/0jJgHF533Wakrjt1lt6zwz) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Citizen of Heaven](https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us) | 3:42 |
 | 40 | [Free](https://open.spotify.com/track/2YKv2yIRlh1MEtKvw0woqO) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Free](https://open.spotify.com/album/1SyeWHgGQBdLSDEA79Qo38) | 3:20 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUPO0Sbx2CM.md) - [plain]
 | 71 | [HAPPY](https://open.spotify.com/track/3ujkAJ4EMZzgMgM1RXqpCJ) | [Wande](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [EXIT](https://open.spotify.com/album/23hocB8tXBHfvImk7SNPnv) | 2:04 |
 | 72 | [Healing](https://open.spotify.com/track/4EKTLzgEPHij7hKpqjuZH5) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Healing](https://open.spotify.com/album/6ptypNaGR4S2XJOPvrXKtY) | 3:24 |
 | 73 | [Find You](https://open.spotify.com/track/3YziXpvMKC74a9bVF7EDsY) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [Find You](https://open.spotify.com/album/6xCw4dK6PgNA26EEux2Phu) | 2:42 |
-| 74 | [I Will Wait](https://open.spotify.com/track/2wkwB6NDsTpt1hBweJmFW5) | [Branan Murphy](https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo) | [Better King](https://open.spotify.com/album/4cVPPMx15HZ4HHpsB7Vcf8) | 3:19 |
-| 75 | [Love Me Like You \- TYE Remix](https://open.spotify.com/track/67uQCds7ugUZn3TZUhc5dB) | [The Young Escape](https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW) | [Love Me Like You \(TYE Remix\)](https://open.spotify.com/album/7t1QRFDMpYbZPFnirwkU3q) | 3:23 |
+| 74 | [Love Me Like You \- TYE Remix](https://open.spotify.com/track/67uQCds7ugUZn3TZUhc5dB) | [The Young Escape](https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW) | [Love Me Like You \(TYE Remix\)](https://open.spotify.com/album/7t1QRFDMpYbZPFnirwkU3q) | 3:23 |
+| 75 | [I Will Wait](https://open.spotify.com/track/2wkwB6NDsTpt1hBweJmFW5) | [Branan Murphy](https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo) | [Better King](https://open.spotify.com/album/4cVPPMx15HZ4HHpsB7Vcf8) | 3:19 |
 
-Snapshot ID: `MTYzNTY0MTI1MCwwMDAwMDAwMDYwNzdhZGE5ZDAwYWIxZmJiZWU5M2QyMGI1Y2UwYjgx`
+Snapshot ID: `MTYzNTY0MTI1MCwwMDAwMDAwMDVkY2MwOGJmNjdjNjAyNTcxNTRjODg3NGQ1YjUxZDQz`

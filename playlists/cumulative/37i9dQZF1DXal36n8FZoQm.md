@@ -4,7 +4,7 @@
 
 > The official playlist for Cobra Kai\. Watch on Netflix.
 
-159 songs - 9 hr 28 min - [published](https://open.spotify.com/playlist/0ndLkmHW7tKwbEqiyvylLh)
+161 songs - 9 hr 36 min - [published](https://open.spotify.com/playlist/0ndLkmHW7tKwbEqiyvylLh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,8 @@
 | [Fight Song](https://open.spotify.com/track/4YCssdAAHp8VPUzuBZj9i9) | [Sister Sin](https://open.spotify.com/artist/3MdnMzNMNENgdrx91CvGR8) | [Now And Forever](https://open.spotify.com/album/1UDaAmmTpoWWpkFIti7LGM) | 4:01 | 2022-01-07 |  |
 | [Fight Song](https://open.spotify.com/track/6SnokqeMmGKiOzMlhag3Mb) | [Sister Sin](https://open.spotify.com/artist/3MdnMzNMNENgdrx91CvGR8) | [Now and Forever](https://open.spotify.com/album/3lOX8tvHmjj2EmnqBUyFy1) | 4:01 | 2022-01-07 | 2022-07-29 |
 | [Five Over Four](https://open.spotify.com/track/0c946BQlEOYlcVq8n6pAKt) | [Jeff Meegan](https://open.spotify.com/artist/2XS2MrkksPqxbs0jputTr8), [David Tobin](https://open.spotify.com/artist/4URqQyKF1NuIVmYiJtQIHb) | [Cocktail Hour](https://open.spotify.com/album/69Ikde32ScwcMTnlNVKCr4) | 4:47 | 2022-01-06 |  |
-| [Girls, Girls, Girls](https://open.spotify.com/track/549Go7a66CX6k523uK9kUv) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Girls, Girls, Girls \(Deluxe Version\)](https://open.spotify.com/album/2KT9tWALjIRjnaGYDYPg3k) | 4:30 | 2022-01-06 |  |
+| [Girls, Girls, Girls](https://open.spotify.com/track/3xdwo1GK8KaXiT36sTLira) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Greatest Hits](https://open.spotify.com/album/4y0me4JaTG2bjBy8Scz8ek) | 4:30 | 2022-01-06 |  |
+| [Girls, Girls, Girls](https://open.spotify.com/track/549Go7a66CX6k523uK9kUv) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Girls, Girls, Girls \(Deluxe Version\)](https://open.spotify.com/album/2KT9tWALjIRjnaGYDYPg3k) | 4:30 | 2022-01-06 | 2022-11-12 |
 | [Girls, Girls, Girls](https://open.spotify.com/track/5xLyTbCFONUGUuG0LtUxjn) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Girls, Girls, Girls](https://open.spotify.com/album/0Tnve4bDxyiBCRaj03qO8z) | 4:30 | 2022-01-06 | 2022-07-29 |
 | [Gonna Make You Sweat \(Everybody Dance Now\)](https://open.spotify.com/track/7eheoW4hxrH51ww2QePVwF) | [C & C Music Factory](https://open.spotify.com/artist/7krx6UBDKLwE0q3s3fesqF) | [Super Hits](https://open.spotify.com/album/7wlnHCWKkBXBWtYgpaCaz7) | 4:04 | 2022-09-09 |  |
 | [Gotta Get Into Something](https://open.spotify.com/track/79JWiNwvgp6Z8I5TZln8Ld) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [This Land](https://open.spotify.com/album/6pwdy6oQdwSQo8XOfpfAJJ) | 3:04 | 2022-01-06 |  |
@@ -122,7 +123,8 @@
 | [Rock 'N' Roll Over You](https://open.spotify.com/track/24ttxzDgbZoMHHSyhhSTOP) | [The Moody Blues](https://open.spotify.com/artist/5BcZ22XONcRoLhTbZRuME1) | [The Other Side Of Life](https://open.spotify.com/album/5dY18oz4mvg4ouRMz7oZTm) | 4:49 | 2022-01-07 |  |
 | [Rock n Roll Superstar](https://open.spotify.com/track/2F55f2G0f8x8NH21aFkWoU) | [Blues Saraceno](https://open.spotify.com/artist/5AVBFCn4Hq4KY2Xjc5Gj4y) | [Glam Rock](https://open.spotify.com/album/2rGcNlGZkpdpR9gxTTzvgh) | 3:03 | 2022-01-06 |  |
 | [Round and Round](https://open.spotify.com/track/5B6Z7NwVqA7W3UFiqBdEJC) | [Ratt](https://open.spotify.com/artist/3tufWJzpCiAGleBt5TkmTn) | [Out of the Cellar](https://open.spotify.com/album/6P3Fqm7z9wr5GeatpVZ5ut) | 4:25 | 2022-01-07 |  |
-| [Runnin' Wild](https://open.spotify.com/track/71fSn6OIF7HnCbgCzOBqpj) | [Airbourne](https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb) | [Runnin' Wild \(Special Edition\)](https://open.spotify.com/album/0xsxAYE1bJEvQYYZRdotdO) | 3:42 | 2022-09-09 |  |
+| [Runnin' Wild](https://open.spotify.com/track/5XMnIXqKsjB4tWBYSqfUVm) | [Airbourne](https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb) | [Runnin' Wild](https://open.spotify.com/album/0kNkrkBOlSqbcILQvceoZw) | 3:42 | 2022-09-09 |  |
+| [Runnin' Wild](https://open.spotify.com/track/71fSn6OIF7HnCbgCzOBqpj) | [Airbourne](https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb) | [Runnin' Wild \(Special Edition\)](https://open.spotify.com/album/0xsxAYE1bJEvQYYZRdotdO) | 3:42 | 2022-09-09 | 2022-11-12 |
 | [Sailing](https://open.spotify.com/track/6Hu6dzwlvoyg3zBUC8k4BK) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Christopher Cross](https://open.spotify.com/album/2m2nl8cBT7bEgIA6LLmgah) | 4:16 | 2022-01-06 |  |
 | [Samoan Balls](https://open.spotify.com/track/1eFHUPqadgI1metnPICFNN) | [Paul Hertzog](https://open.spotify.com/artist/409cI7liPsNtYwPyKLln7d) | [Bloodsport \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/21vQJECQGK9DBbSJulKZIf) | 2:18 | 2022-01-06 |  |
 | [Saudagi](https://open.spotify.com/track/6gFr62xznGSZuzE2nQEOpF) | [DJ Rodriguez](https://open.spotify.com/artist/4bR1pY2AxqH9oRSVHz852L) | [The Magic Touch](https://open.spotify.com/album/72YUKu76KLFDaDdtP7s1Vx) | 5:25 | 2022-01-06 |  |

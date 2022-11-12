@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GnjlK17CLK.md) - [plain]
 
 > Plugged in and cranked up; the hottest Blues records from an amplified era\. Cover: B.B\. King.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,730 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,883 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GnjlK17CLK.md) - [plain]
 | 34 | [Double Trouble](https://open.spotify.com/track/3JggrSor1wtd74bvF2fsmz) | [Otis Rush](https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP) | [1956\-1958 Cobra Recordings](https://open.spotify.com/album/2qmdzBnhgSKueas63F83g7) | 2:43 |
 | 35 | [Blues Before Sunrise](https://open.spotify.com/track/648g2wFtqqzK8rW0Y2F0T3) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [From the Cradle](https://open.spotify.com/album/5P2ZoNb6NJL7P5VexrQOeg) | 2:57 |
 | 36 | [That's All I Need](https://open.spotify.com/track/2DODPLqY24UuvUokVh2JwF) | [Magic Sam](https://open.spotify.com/artist/0XErJwG6aCEj7NpKsEZrrO), [Mighty Joe Young](https://open.spotify.com/artist/3s5c2rjSE7v4KbMsGb5qaL), [Stockholm Slim](https://open.spotify.com/artist/0WKpnBdTIx21ZsPd8zuynC), [Mack Thompson](https://open.spotify.com/artist/26n6ojDqVMAInlzCRGzVxF), [Odie Payne III](https://open.spotify.com/artist/4tcSBbry63txTgC08PNmou) | [West Side Soul \(Deluxe Edition\)](https://open.spotify.com/album/2bonSc9cW7a0YcFBiH9naX) | 3:18 |
-| 37 | [Dust My Broom](https://open.spotify.com/track/1mbD2setZsn2n4U6xs3Dxg) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Whose Muddy Shoes](https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp) | 2:59 |
+| 37 | [Dust My Broom](https://open.spotify.com/track/3LGB6BkiSmzP8IHo03rZMo) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Dust My Broom](https://open.spotify.com/album/2EtFRWTnIw4nLsMI3KZcQq) | 2:54 |
 | 38 | [Strollin' With Bones](https://open.spotify.com/track/5C4lqxcOb2aZPxMV73G00U) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [The Complete Imperial Recordings, 1950\-1954](https://open.spotify.com/album/5wu5aLFVDLguiEmgWzraOX) | 2:30 |
 | 39 | [Double Crossing Time \- Mono](https://open.spotify.com/track/07fmUH4VMyKkCRaugAyke7) | [John Mayall & The Bluesbreakers](https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Bluesbreakers](https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o) | 3:00 |
 | 40 | [I'm A Little Mixed Up](https://open.spotify.com/track/4cLPvcojgZHpaxP7d5akhG) | [Betty James](https://open.spotify.com/artist/4aBu3Gcusv3NI99mFiMI6v) | [The Chess Story 1957\-1964](https://open.spotify.com/album/6hLDuFXaABk2LySPldc5CB) | 2:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GnjlK17CLK.md) - [plain]
 | 49 | [Sweet Home Chicago](https://open.spotify.com/track/1vshrZ49jUnyLM6udiv2vo) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Buddy Guy/ Freddie King/ Sonny Boy Williamson](https://open.spotify.com/album/0K4t8v6w7lXab6n0yTNkA9) | 4:24 |
 | 50 | [Jelly Bread](https://open.spotify.com/track/2eaAUnd8AKIFD0RAfPiW3z) | [Booker T\. & the M.G.'s](https://open.spotify.com/artist/2vDV0T8sxx2ENnKXds75e5) | [Green Onions](https://open.spotify.com/album/2sSDqJOZ7gea3yMbqPUrhq) | 2:30 |
 
-Snapshot ID: `MTY2NDg4MjM1MCwwMDAwMDAwMDU1NGY3MjU5N2JhMzliYmFlNDQ4MzVmZGUwY2Q3ZTA5`
+Snapshot ID: `MTY2NDg4MjM1MCwwMDAwMDAwMDFiYmJhMjA0NjM3YjJlNTY4NmQ2MDg0NzE5YjYxMWE2`

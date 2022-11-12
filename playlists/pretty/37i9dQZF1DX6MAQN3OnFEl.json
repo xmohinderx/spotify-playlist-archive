@@ -1,12 +1,12 @@
 {
   "description": "that's hot",
-  "num_followers": 286514,
+  "num_followers": 286994,
   "original_name": "y2k",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODc5MDQzNCwwMDAwMDAwMGNlNDE5NmY0NzM4MWFkYWMyYTg5YjVmZDRhYTM2ZThl",
+  "snapshot_id": "MTY1ODc5MDQzNCwwMDAwMDAwMDUxYzI1NzFhYWRiZWM3N2VlYWQ0MGYzNDU0YzczNTQy",
   "tracks": [
     {
       "added_at": "2022-03-26 14:30:45",
@@ -127,26 +127,18 @@
     {
       "added_at": "2022-03-26 14:30:45",
       "album": {
-        "name": "Confessions (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
+        "name": "Stankonia",
+        "url": "https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj"
       },
       "artists": [
         {
-          "name": "Usher",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        },
-        {
-          "name": "Lil Jon",
-          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
-        },
-        {
-          "name": "Ludacris",
-          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
         }
       ],
-      "duration_ms": 250373,
-      "name": "Yeah! (feat. Lil Jon & Ludacris)",
-      "url": "https://open.spotify.com/track/5rb9QrpfcKFHM1EUbSIurX"
+      "duration_ms": 270506,
+      "name": "Ms. Jackson",
+      "url": "https://open.spotify.com/track/0I3q5fE6wg7LIfHGngUTnV"
     },
     {
       "added_at": "2022-03-26 14:30:45",
@@ -167,18 +159,26 @@
     {
       "added_at": "2022-03-26 14:30:45",
       "album": {
-        "name": "Stankonia",
-        "url": "https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj"
+        "name": "Confessions (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
       },
       "artists": [
         {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+          "name": "Usher",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        },
+        {
+          "name": "Lil Jon",
+          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+        },
+        {
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
         }
       ],
-      "duration_ms": 270506,
-      "name": "Ms. Jackson",
-      "url": "https://open.spotify.com/track/0I3q5fE6wg7LIfHGngUTnV"
+      "duration_ms": 250373,
+      "name": "Yeah! (feat. Lil Jon & Ludacris)",
+      "url": "https://open.spotify.com/track/5rb9QrpfcKFHM1EUbSIurX"
     },
     {
       "added_at": "2022-03-26 14:30:45",
@@ -323,22 +323,18 @@
     {
       "added_at": "2022-03-26 14:30:45",
       "album": {
-        "name": "Konvicted",
-        "url": "https://open.spotify.com/album/6kzoWb4UzvKYgbDfAwgaFq"
+        "name": "Loose",
+        "url": "https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT"
       },
       "artists": [
         {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        },
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          "name": "Nelly Furtado",
+          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
         }
       ],
-      "duration_ms": 212360,
-      "name": "Smack That",
-      "url": "https://open.spotify.com/track/2kQuhkFX7uSVepCD3h29g5"
+      "duration_ms": 258893,
+      "name": "Maneater",
+      "url": "https://open.spotify.com/track/4wH4dJgrsxONID6KS2tDQM"
     },
     {
       "added_at": "2022-03-26 14:30:45",
@@ -355,22 +351,6 @@
       "duration_ms": 268400,
       "name": "My Name Is",
       "url": "https://open.spotify.com/track/75IN3CtuZwTHTnZvYM4qnJ"
-    },
-    {
-      "added_at": "2022-03-26 14:30:45",
-      "album": {
-        "name": "Loose",
-        "url": "https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT"
-      },
-      "artists": [
-        {
-          "name": "Nelly Furtado",
-          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
-        }
-      ],
-      "duration_ms": 258893,
-      "name": "Maneater",
-      "url": "https://open.spotify.com/track/4wH4dJgrsxONID6KS2tDQM"
     },
     {
       "added_at": "2022-03-26 14:30:45",
@@ -563,18 +543,22 @@
     {
       "added_at": "2022-03-26 14:30:45",
       "album": {
-        "name": "Let Go",
-        "url": "https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy"
+        "name": "Curtain Call: The Hits (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5qENHeCSlwWpEzb25peRmQ"
       },
       "artists": [
         {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "Nate Dogg",
+          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
         }
       ],
-      "duration_ms": 204000,
-      "name": "Sk8er Boi",
-      "url": "https://open.spotify.com/track/00Mb3DuaIH1kjrwOku9CGU"
+      "duration_ms": 274440,
+      "name": "Shake That",
+      "url": "https://open.spotify.com/track/0fGh0trRN1xz3s41r7V5ce"
     },
     {
       "added_at": "2022-03-26 14:30:45",
@@ -595,22 +579,18 @@
     {
       "added_at": "2022-03-26 14:30:45",
       "album": {
-        "name": "Curtain Call: The Hits (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5qENHeCSlwWpEzb25peRmQ"
+        "name": "Let Go",
+        "url": "https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy"
       },
       "artists": [
         {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        },
-        {
-          "name": "Nate Dogg",
-          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
         }
       ],
-      "duration_ms": 274440,
-      "name": "Shake That",
-      "url": "https://open.spotify.com/track/0fGh0trRN1xz3s41r7V5ce"
+      "duration_ms": 204000,
+      "name": "Sk8er Boi",
+      "url": "https://open.spotify.com/track/00Mb3DuaIH1kjrwOku9CGU"
     },
     {
       "added_at": "2022-03-26 14:30:45",
@@ -763,22 +743,6 @@
     {
       "added_at": "2022-03-26 14:30:45",
       "album": {
-        "name": "This Is The End: Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/1SFKmqhTTEkE3PmSBEMpa3"
-      },
-      "artists": [
-        {
-          "name": "Backstreet Boys",
-          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
-        }
-      ],
-      "duration_ms": 224960,
-      "name": "Everybody (Backstreet's Back) - Radio Edit",
-      "url": "https://open.spotify.com/track/4rTeOSYqwXNz5qPR2DUTFZ"
-    },
-    {
-      "added_at": "2022-03-26 14:30:45",
-      "album": {
         "name": "The Sweet Escape",
         "url": "https://open.spotify.com/album/7xnZ539lh8x6de9jzlpCJp"
       },
@@ -795,6 +759,22 @@
       "duration_ms": 246466,
       "name": "The Sweet Escape",
       "url": "https://open.spotify.com/track/66ZcOcouenzZEnzTJvoFmH"
+    },
+    {
+      "added_at": "2022-03-26 14:30:45",
+      "album": {
+        "name": "This Is The End: Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/1SFKmqhTTEkE3PmSBEMpa3"
+      },
+      "artists": [
+        {
+          "name": "Backstreet Boys",
+          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
+        }
+      ],
+      "duration_ms": 224960,
+      "name": "Everybody (Backstreet's Back) - Radio Edit",
+      "url": "https://open.spotify.com/track/4rTeOSYqwXNz5qPR2DUTFZ"
     },
     {
       "added_at": "2022-03-26 14:30:45",
@@ -1035,22 +1015,6 @@
     {
       "added_at": "2022-03-26 14:30:45",
       "album": {
-        "name": "Insomniatic",
-        "url": "https://open.spotify.com/album/4TOOGDpJ9KQ8EM84TC4qj6"
-      },
-      "artists": [
-        {
-          "name": "Aly & AJ",
-          "url": "https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i"
-        }
-      ],
-      "duration_ms": 219773,
-      "name": "Potential Breakup Song",
-      "url": "https://open.spotify.com/track/11dxtPJKR4E0wlSr0A0t47"
-    },
-    {
-      "added_at": "2022-03-26 14:30:45",
-      "album": {
         "name": "The Madding Crowd",
         "url": "https://open.spotify.com/album/4BcmNEt6VK0KBVsVY8yClD"
       },
@@ -1067,18 +1031,18 @@
     {
       "added_at": "2022-03-26 14:30:45",
       "album": {
-        "name": "Best Of La Bouche feat. Melanie Thornton (feat. Melanie Thornton)",
-        "url": "https://open.spotify.com/album/18INLUvzq7lcQUrdaqtgIN"
+        "name": "Insomniatic",
+        "url": "https://open.spotify.com/album/4TOOGDpJ9KQ8EM84TC4qj6"
       },
       "artists": [
         {
-          "name": "La Bouche",
-          "url": "https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie"
+          "name": "Aly & AJ",
+          "url": "https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i"
         }
       ],
-      "duration_ms": 240866,
-      "name": "Be My Lover",
-      "url": "https://open.spotify.com/track/3vSn1frPgFcRXrjWOfhMLl"
+      "duration_ms": 219773,
+      "name": "Potential Breakup Song",
+      "url": "https://open.spotify.com/track/11dxtPJKR4E0wlSr0A0t47"
     },
     {
       "added_at": "2022-03-26 14:30:45",
@@ -1099,6 +1063,22 @@
       "duration_ms": 232000,
       "name": "Move Ya Body",
       "url": "https://open.spotify.com/track/2ndnVdR8si7CW9T8vJRHyW"
+    },
+    {
+      "added_at": "2022-03-26 14:30:45",
+      "album": {
+        "name": "Best Of La Bouche feat. Melanie Thornton (feat. Melanie Thornton)",
+        "url": "https://open.spotify.com/album/18INLUvzq7lcQUrdaqtgIN"
+      },
+      "artists": [
+        {
+          "name": "La Bouche",
+          "url": "https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie"
+        }
+      ],
+      "duration_ms": 240866,
+      "name": "Be My Lover",
+      "url": "https://open.spotify.com/track/3vSn1frPgFcRXrjWOfhMLl"
     },
     {
       "added_at": "2022-03-26 14:30:45",
@@ -1575,6 +1555,26 @@
     {
       "added_at": "2022-03-26 14:30:45",
       "album": {
+        "name": "Rock Steady (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0KFPnm4Ow2L9BuivmWT3pu"
+      },
+      "artists": [
+        {
+          "name": "No Doubt",
+          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
+        },
+        {
+          "name": "Bounty Killer",
+          "url": "https://open.spotify.com/artist/6UuT0BJZ9vF8Y1sxXnJl2s"
+        }
+      ],
+      "duration_ms": 207040,
+      "name": "Hey Baby",
+      "url": "https://open.spotify.com/track/2QsoVMTKj5m5kgztTOep98"
+    },
+    {
+      "added_at": "2022-03-26 14:30:45",
+      "album": {
         "name": "Metamorphosis",
         "url": "https://open.spotify.com/album/2zfZe8P8jg53kZaAfCdBYs"
       },
@@ -1603,26 +1603,6 @@
       "duration_ms": 263440,
       "name": "No More (Baby I'ma Do Right)",
       "url": "https://open.spotify.com/track/5zn1hpm9N0ylKB7kOtpCw2"
-    },
-    {
-      "added_at": "2022-03-26 14:30:45",
-      "album": {
-        "name": "Rock Steady (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0KFPnm4Ow2L9BuivmWT3pu"
-      },
-      "artists": [
-        {
-          "name": "No Doubt",
-          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
-        },
-        {
-          "name": "Bounty Killer",
-          "url": "https://open.spotify.com/artist/6UuT0BJZ9vF8Y1sxXnJl2s"
-        }
-      ],
-      "duration_ms": 207040,
-      "name": "Hey Baby",
-      "url": "https://open.spotify.com/track/2QsoVMTKj5m5kgztTOep98"
     },
     {
       "added_at": "2022-03-26 14:30:45",
@@ -1703,6 +1683,22 @@
       "duration_ms": 186866,
       "name": "Ultimate - From \"Freaky Friday\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/69Zl2MdeQE8twZdiMXJXxZ"
+    },
+    {
+      "added_at": "2022-03-26 14:30:45",
+      "album": {
+        "name": "Perfect Day Single",
+        "url": "https://open.spotify.com/album/5puXns5fNjj1XEnbufYHRJ"
+      },
+      "artists": [
+        {
+          "name": "Hoku",
+          "url": "https://open.spotify.com/artist/7ftZLBtMuNBXnnDFKbAblK"
+        }
+      ],
+      "duration_ms": 208613,
+      "name": "Perfect Day",
+      "url": "https://open.spotify.com/track/4pMyfWdA0eo3JY5RqMotbw"
     }
   ],
   "unique_name": "y2k",

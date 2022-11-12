@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QDedCAYqRI.md) - [plain]
 
 > These beautifully\-hypnotising vocalists are bound to make your evenings more chilling than ever.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,496 likes - 70 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,515 likes - 70 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QDedCAYqRI.md) - [plain]
 | 14 | [囡仔的怹](https://open.spotify.com/track/6fJUqzUwKL8XXcRn3gFkB5) | [TzChien慈謙](https://open.spotify.com/artist/7J3UwMTN9ldjM4ALmCuba2) | [反](https://open.spotify.com/album/5TTb91ckW0j3dzY5PJLXDm) | 4:14 |
 | 15 | [I wish I can be Rich](https://open.spotify.com/track/7FxEJu7QhAzT3MTE6e1FZn) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | [I wish I can be Rich](https://open.spotify.com/album/5EJh5oud3icqeswaDukDp7) | 3:46 |
 | 16 | [Impressions](https://open.spotify.com/track/12ZNnAQqvmJmT1wGXkzKCd) | [Kemrie](https://open.spotify.com/artist/5ZAXoEmG8XufgQpkWbHbSp) | [Impressions](https://open.spotify.com/album/1reOkkyChSAu1w9aWvhJCE) | 4:40 |
-| 17 | [Lost Without You](https://open.spotify.com/track/3cWI6Hj9LQ0MfMuhw9uSMc) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Freya Ridings](https://open.spotify.com/album/3dcenoRctm8OAnqoCrQrLd) | 3:45 |
+| 17 | [Lost Without You](https://open.spotify.com/track/7nenN69yGXnrlOrjQrZSSw) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Valentines Day Songs](https://open.spotify.com/album/1aWzafCfTTaW1913Y0I3w3) | 3:45 |
 | 18 | [Wish That You Were Here \- From “Miss Peregrine’s Home for Peculiar Children” Original Motion Picture](https://open.spotify.com/track/1FrrRHxMKVvd85O3gancxW) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Wish That You Were Here \(From “Miss Peregrine’s Home For Peculiar Children” Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1uqahF2HRLrjnU1VE2D0r6) | 6:42 |
 | 19 | [Horizon](https://open.spotify.com/track/6iLRZGfLd9W4cCEQNKjSjc) | [KLANG](https://open.spotify.com/artist/3lxXfdGXe8k188bUZgKqgF) | [Black Dog: Being a Teacher \(Original Television Soundtrack\)](https://open.spotify.com/album/3DMdesDa5tlBdlTX0u5CV0) | 4:14 |
 | 20 | [Angel Dust](https://open.spotify.com/track/6z6DVKDc11TLiqzzSaATHC) | [Casté](https://open.spotify.com/artist/7zeoSpBQB05hRwUCFO33i5) | [Angel Dust](https://open.spotify.com/album/6cVjGEvXAohfOjvX9gJZmz) | 4:18 |
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QDedCAYqRI.md) - [plain]
 | 22 | [Lust For Life \(with The Weeknd\)](https://open.spotify.com/track/0mt02gJ425Xjm7c3jYkOBn) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Lust For Life](https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo) | 4:24 |
 | 23 | [The City \(You're Missing from Me\)](https://open.spotify.com/track/11T9cbGsdEN0i6OtFb4vBw) | [Loner Lunar](https://open.spotify.com/artist/1a5i97z1wFTOZy3rYWRWIS) | [The City \(You're Missing from Me\)](https://open.spotify.com/album/6MsIhjNXOcMNcCOYlakpQz) | 4:16 |
 | 24 | [come out and play](https://open.spotify.com/track/7wC5eZcFS1Q1BsQ35DU6H4) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [come out and play](https://open.spotify.com/album/0ifM8RTX9HjtCJtY9452bW) | 3:30 |
-| 25 | [Neptune’s Tune](https://open.spotify.com/track/3cLWyiINvFm7N3RuE3hxcw) | [noui](https://open.spotify.com/artist/3NNLu9Wli3fbZW22xzN08B), [JVSAN](https://open.spotify.com/artist/1xA9kgJzlNa0CRc5ddVeJc) | [Neptune’s Tune](https://open.spotify.com/album/4TJ4TMvfuo1boDhfO9uqJl) | 3:41 |
+| 25 | [Neptune’s Tune](https://open.spotify.com/track/1KU9hL3tvOB0JNnCz8D1YM) | [noui](https://open.spotify.com/artist/3NNLu9Wli3fbZW22xzN08B), [JVSAN](https://open.spotify.com/artist/1xA9kgJzlNa0CRc5ddVeJc) | [LoFi For Kids](https://open.spotify.com/album/5Sn0mW5Qc485Fg9u7yBnjk) | 3:41 |
 | 26 | [Somewhere \- Memory Version](https://open.spotify.com/track/4v7qIBfrKC56V7Re2TxU50) | [Hajin](https://open.spotify.com/artist/7KZnYmjUlqcJ8Hozbg64Lu) | [The Guest \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/4DgHafdFhR59KOM6VjEoml) | 3:30 |
 | 27 | [Love](https://open.spotify.com/track/6uGQm999flrd5mB0RIoATp) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Get Up And Start To Shine](https://open.spotify.com/album/7FNHQJwC4r9uZKk6Zd966f) | 4:32 |
 | 28 | [Us \- Acoustic](https://open.spotify.com/track/3tzvuRlfTveGyR12A4WFV6) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Us \(Acoustic\)](https://open.spotify.com/album/4RZ3Ux3PeYeKXXH8MuEuu4) | 3:55 |
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QDedCAYqRI.md) - [plain]
 | 34 | [Porcelain](https://open.spotify.com/track/50DMunbxuRK0ucbiDfncvM) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [Porcelain / Wolf](https://open.spotify.com/album/6X21qWKM7nogd9N7MMMiwJ) | 4:01 |
 | 35 | [Fond Adieu](https://open.spotify.com/track/4PBaW66WiNFXh5pdrYjlhE) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [Fond Adieu](https://open.spotify.com/album/0eoPFyv4fmzB3IFG8U7JYi) | 3:53 |
 | 36 | [In my hand](https://open.spotify.com/track/3cjTqH0FJghhtaheWNkNv7) | [Julia Shortreed](https://open.spotify.com/artist/6Swtf1UAGASXEJXnhDRjoc) | [Violet Sun](https://open.spotify.com/album/5yfMZ1JBzHx1Nt4VYb824M) | 4:21 |
-| 37 | [Half the World Away](https://open.spotify.com/track/4TWshc0BwiunzoppGOqiYR) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [All My Demons Greeting Me as a Friend \(Deluxe\)](https://open.spotify.com/album/0ltlJlYNzuXoMMv7fie9D9) | 3:18 |
+| 37 | [Half the World Away](https://open.spotify.com/track/7rAtXQ4hCQiXyxAunzRaXi) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Half the World Away](https://open.spotify.com/album/4qqOE7xOdHYXeJ4IEf7mH5) | 3:18 |
 | 38 | [It's Happening Again](https://open.spotify.com/track/5uE0ggArLjnpwVPEXc36Hx) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Citizen of Glass](https://open.spotify.com/album/78BjMfLH8YUXM6hbodHKmA) | 4:20 |
 | 39 | [Run Away](https://open.spotify.com/track/3vtSvKUHdwAynIE3xjwDnZ) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [When I Was Young \- EP](https://open.spotify.com/album/67aZECTq3l8kjV7h8EFXCp) | 3:05 |
 | 40 | [Winter's Love](https://open.spotify.com/track/2aXezkhSUuCVEACRHHK1CB) | [My Life As Ali Thomas](https://open.spotify.com/artist/60QGyk5ToNbgI6fVGjZhHa) | [Paper](https://open.spotify.com/album/73Ful0q2t6NtMsIhpDbAsj) | 4:25 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QDedCAYqRI.md) - [plain]
 | 69 | [Revolve](https://open.spotify.com/track/4a2PTeP8MF4q4MphoV3iE3) | [Little Sea](https://open.spotify.com/artist/05JF2urTunljp953SopuXc) | [Revolve](https://open.spotify.com/album/0ATFW1N2rZb1fhW8wUYG16) | 4:04 |
 | 70 | [Had a Love](https://open.spotify.com/track/4xGjnjJMbjLFEJwb0gW1pP) | [Vessels](https://open.spotify.com/artist/6Y1nACvxtuuTjKx2b4Rwmb), [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Had a Love](https://open.spotify.com/album/4pPpxfKMupyb0qLLuaWHlY) | 4:37 |
 
-Snapshot ID: `MTY1NDA0NjMzNSwwMDAwMDAwMDJhYzExMzM0NjA3ZGIzOTY0YWI4MTU0MzM1YTBkODA3`
+Snapshot ID: `MTY1NDA0NjMzNSwwMDAwMDAwMDI2NGI4NWM4MGVlYjkzYTJhYTdkYjhkYjY3ZmQ0OWFl`

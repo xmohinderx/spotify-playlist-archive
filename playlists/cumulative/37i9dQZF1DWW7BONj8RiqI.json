@@ -45,6 +45,28 @@
     {
       "album": {
         "name": "Dennis Riddim",
+        "url": "https://open.spotify.com/album/7rkqjP06OeMwPjcfyPBkuD"
+      },
+      "artists": [
+        {
+          "name": "Deno Outta Range Mason",
+          "url": "https://open.spotify.com/artist/1tb5j7TMoEfvXfYrMifL6V"
+        },
+        {
+          "name": "Temptress",
+          "url": "https://open.spotify.com/artist/65jMZVzV9puGLZnGcwl2Je"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166450,
+      "name": "Ah Doh Have",
+      "url": "https://open.spotify.com/track/136wdXEdhwOHYMsrGceoQl"
+    },
+    {
+      "album": {
+        "name": "Dennis Riddim",
         "url": "https://open.spotify.com/album/264pdxzdLi4eNMSZJPAQnf"
       },
       "artists": [
@@ -918,6 +940,24 @@
     },
     {
       "album": {
+        "name": "Get Soca 2022",
+        "url": "https://open.spotify.com/album/3CG8gFB1aZo3xYW0AfWNO2"
+      },
+      "artists": [
+        {
+          "name": "Lyrikal",
+          "url": "https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190819,
+      "name": "Drink to Dat",
+      "url": "https://open.spotify.com/track/3AvSXtQ7FvmXYwu2sRNqDn"
+    },
+    {
+      "album": {
         "name": "Location Riddim",
         "url": "https://open.spotify.com/album/1jkdIPsKGWZgJxzA9fiXjS"
       },
@@ -929,7 +969,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 190819,
       "name": "Drink to Dat",
       "url": "https://open.spotify.com/track/5zTfojcQTaMHhT4auLiysR"
@@ -1419,7 +1459,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 168463,
       "name": "I Doh Have",
       "url": "https://open.spotify.com/track/2psAPBHRdrNj37su3Mi3te"
@@ -2744,6 +2784,24 @@
     },
     {
       "album": {
+        "name": "Get Soca 2021",
+        "url": "https://open.spotify.com/album/0PApIAfcwQtDRXhMefkkOZ"
+      },
+      "artists": [
+        {
+          "name": "Wetty Beatz",
+          "url": "https://open.spotify.com/artist/3cb9sULs9n1DMoBDQ7YaEC"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177301,
+      "name": "Ting Go Nice Again",
+      "url": "https://open.spotify.com/track/1UKRyezn6KQYNi73yUUv4Z"
+    },
+    {
+      "album": {
         "name": "Ting Go Nice Again",
         "url": "https://open.spotify.com/album/4lRghnOCeOBFQyfuOkANAi"
       },
@@ -2773,7 +2831,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 179739,
       "name": "Ting Go Nice Again",
       "url": "https://open.spotify.com/track/6M9gzAXBcelYzploNJz6TB"

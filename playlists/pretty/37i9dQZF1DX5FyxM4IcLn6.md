@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FyxM4IcLn6.md) - [plain]
 
 > The official playlist for the 64rd GRAMMY Awards.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,110 likes - 81 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,105 likes - 81 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FyxM4IcLn6.md) - [plain]
 | 46 | [Cold](https://open.spotify.com/track/0O5DPkLlre5yNwH6Sqm2dD) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Cold](https://open.spotify.com/album/0HoUfzF16pMqueWYg6naD9) | 5:09 |
 | 47 | [Replace Me \(feat\. Big Sean & Don Toliver\)](https://open.spotify.com/track/1uJ5X7MrxTr21lG5ssm5fT) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [King's Disease](https://open.spotify.com/album/5ZQjqg9obFzyGuxGj0mjSi) | 2:50 |
 | 48 | [Diamond Studded Shoes](https://open.spotify.com/track/5SfM1f729pv1DdiEcyDiex) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Stand For Myself](https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV) | 3:24 |
-| 49 | [Nightflyer](https://open.spotify.com/track/6BxDMOnim3Ut7nQaOj01DJ) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Outside Child](https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw) | 4:55 |
-| 50 | [Nightlight](https://open.spotify.com/track/7ksAGloyLZyKThB86rErvT) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Annika Wells](https://open.spotify.com/artist/0kErUwb6xgWfkdn0RyZWHZ) | [Fallen Embers](https://open.spotify.com/album/4YomxhmDglPvD93W3T6l1V) | 3:42 |
+| 49 | [Nightlight](https://open.spotify.com/track/7ksAGloyLZyKThB86rErvT) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Annika Wells](https://open.spotify.com/artist/0kErUwb6xgWfkdn0RyZWHZ) | [Fallen Embers](https://open.spotify.com/album/4YomxhmDglPvD93W3T6l1V) | 3:42 |
+| 50 | [Nightflyer](https://open.spotify.com/track/6BxDMOnim3Ut7nQaOj01DJ) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Outside Child](https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw) | 4:55 |
 | 51 | [I Get A Kick Out Of You](https://open.spotify.com/track/6tANJIaIQAFhMxgnafAZd2) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Love For Sale \(Deluxe\)](https://open.spotify.com/album/6hBQkPnq5u1BwZncSEDEgs) | 3:33 |
 | 52 | [Ferris Wheel](https://open.spotify.com/track/0yiJNNm39cp1T7RnXOMVLX) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [Free Love](https://open.spotify.com/album/2KAPJ40On8JY1Yt64JJgTk) | 2:57 |
 | 53 | [Right on Time](https://open.spotify.com/track/5uyw6qVn71nKSBVyBl3Ytv) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Right on Time](https://open.spotify.com/album/3w75u634fjDNuVKeI0VYXd) | 3:05 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FyxM4IcLn6.md) - [plain]
 | 56 | [Nothing Compares 2 U](https://open.spotify.com/track/65mnqRK6fcQWpgNV2UibqM) | [Chris Cornell](https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I) | [No One Sings Like You Anymore](https://open.spotify.com/album/50CtNizqlxOXeHICmNwc45) | 4:12 |
 | 57 | [Broken People](https://open.spotify.com/track/3kdBJj2IH9h4urhoAlWWiZ) | [Israel & New Breed](https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E), [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [Project LA: Alive in Los Angeles](https://open.spotify.com/album/45rmoHNeEtDa0SHbl3FdSL) | 9:18 |
 | 58 | [In His Arms](https://open.spotify.com/track/0ddFRjXyLgrNulsOwGJKJZ) | [Jack Ingram](https://open.spotify.com/artist/7HNEfHmDlFofG6YnMt8G7N), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Jon Randall](https://open.spotify.com/artist/696mMRImtIkeOH1cZtwUgX) | [The Marfa Tapes](https://open.spotify.com/album/0Jck41FMi9tJooKSHApv9p) | 2:30 |
-| 59 | [Magnus](https://open.spotify.com/track/6rT1tvDLwn7BhiOoDbbg84) | [Gretchen Parlato](https://open.spotify.com/artist/76Gi1qoWLrIerL5FcL0TZb), [Magnus Thompson](https://open.spotify.com/artist/4f07yMPEAu1vRJYb4yOrda), [Thaddeus Thompson](https://open.spotify.com/artist/1p1XxO4sy31SKZNSWEzFt9), [Ashley Thompson](https://open.spotify.com/artist/21Uy8s7LmNc3uVZBcWCV4c) | [Flor](https://open.spotify.com/album/31DutanyKyJhX0CDb62IZa) | 4:10 |
-| 60 | [Love And Regret](https://open.spotify.com/track/0BdSxc3R86Jw7wOToh19b8) | [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Renewal](https://open.spotify.com/album/2as5ea7TPPkXI2OINaMjZR) | 4:15 |
+| 59 | [Love And Regret](https://open.spotify.com/track/0BdSxc3R86Jw7wOToh19b8) | [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Renewal](https://open.spotify.com/album/2as5ea7TPPkXI2OINaMjZR) | 4:15 |
+| 60 | [Magnus](https://open.spotify.com/track/6rT1tvDLwn7BhiOoDbbg84) | [Gretchen Parlato](https://open.spotify.com/artist/76Gi1qoWLrIerL5FcL0TZb), [Magnus Thompson](https://open.spotify.com/artist/4f07yMPEAu1vRJYb4yOrda), [Thaddeus Thompson](https://open.spotify.com/artist/1p1XxO4sy31SKZNSWEzFt9), [Ashley Thompson](https://open.spotify.com/artist/21Uy8s7LmNc3uVZBcWCV4c) | [Flor](https://open.spotify.com/album/31DutanyKyJhX0CDb62IZa) | 4:10 |
 | 61 | [Wait On You \(Reprise\) \(feat\. Dante Bowe & Chandler Moore\)](https://open.spotify.com/track/11kFlEEi5FR2kHDtmVgMLo) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Old Church Basement](https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg) | 4:14 |
 | 62 | [First Love \- Live](https://open.spotify.com/track/3rqhtNTYBbUxQ2j4NaG0Qx) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [The Blessing \(Live\)](https://open.spotify.com/album/2pVOjdjBRafs3JAL0Q6o2b) | 9:16 |
 | 63 | [Last Night](https://open.spotify.com/track/3OBkjktMqs7QJ6dOUPWTji) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Vulture Prince](https://open.spotify.com/album/6HrBTi1F76h7mJuQDHEijH) | 5:58 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FyxM4IcLn6.md) - [plain]
 | 80 | [Judgement](https://open.spotify.com/track/65CNFUjISyOi08DsvpiUvD) | [Ten City](https://open.spotify.com/artist/3DIaOWIVFxJdTYyEb9mXzi) | [Judgement](https://open.spotify.com/album/0EugyVMjLUJEtY2ssLl1Ek) | 3:10 |
 | 81 | [Time Traveler](https://open.spotify.com/track/4Uf5U3hYFdeAebC2Bm8Wvj) | [Nnenna Freelon](https://open.spotify.com/artist/4WkgNR9kn136k50T4pc7RS) | [Time Traveler](https://open.spotify.com/album/6KEx3AAG8tKgtSyban6cgh) | 4:29 |
 
-Snapshot ID: `MTY0ODU5Mzc3MSwwMDAwMDAwMDBkMWE5MjllMjhhZmRlNzcyZDYwZjQwNThkZTBkMmRl`
+Snapshot ID: `MTY0ODU5Mzc3MSwwMDAwMDAwMGI5NWViZDBlYjdiY2JlYzk0ZTlhNWMwY2U0NjM4NGIz`

@@ -4,7 +4,7 @@
 
 > Only the hottest out now in Hip Hop..\. Cover: <a href="https://open.spotify.com/artist/6dX1EJC9XFlM8Ql1wGHC55?si=ahHSlLIER9uhSN7KxaU8rA">ANATII</a>
 
-111 songs - 6 hr 3 min - [published](https://open.spotify.com/playlist/6I6oFpcK7RBFahZIAhJPwX)
+112 songs - 6 hr 6 min - [published](https://open.spotify.com/playlist/6I6oFpcK7RBFahZIAhJPwX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Major Distribution](https://open.spotify.com/track/46s57QULU02Voy0Kup6UEb) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 2:50 | 2022-11-04 |  |
 | [Maniac](https://open.spotify.com/track/1Ch9ij2JqH3Y9tDEnSrd0n) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [Maniac](https://open.spotify.com/album/3X74V6sPBNbqyWqxBFgsiQ) | 2:46 | 2022-09-22 | 2022-10-14 |
 | [Mel Made Me Do It](https://open.spotify.com/track/3y8xPhq9Ho1hCEMIE9DvZe) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Mel Made Me Do It](https://open.spotify.com/album/2qB4PkpoOUuvLXPzckmYdw) | 7:20 | 2022-09-22 |  |
+| [Michael & Quincy](https://open.spotify.com/track/5MfCvL6jCTkxPCBQf3OkYH) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [King's Disease III](https://open.spotify.com/album/3vQuGKQJMfdXmkjRKqUesk) | 2:47 | 2022-11-10 |  |
 | [MOSHITO](https://open.spotify.com/track/0alylhpp2eVgZYSPfZg9Gi) | [K.O](https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z) | [SR3](https://open.spotify.com/album/6Si2FMyfksVv0PHoSmWGUT) | 2:25 | 2022-09-15 | 2022-11-11 |
 | [My Friends \(feat\. Lil Durk\)](https://open.spotify.com/track/0wTTf3msjDJ8NcZGTmQJQV) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [My Friends \(feat\. Lil Durk\)](https://open.spotify.com/album/2clsCCVAKCSc7PcwJ7uFLW) | 2:38 | 2022-10-06 |  |
 | [NEVER RIDE](https://open.spotify.com/track/3DFw8WqtxcGtUP8X1o4Yti) | [MashBeatz](https://open.spotify.com/artist/4NJo7JbXHgcLiitBFtWras), [Thato Saul](https://open.spotify.com/artist/0R6GDPZ2Hrn2lF4svYJRkn), [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L) | [NEVER RIDE](https://open.spotify.com/album/17BYlFgYEGoqNwJsiM4B4k) | 2:26 | 2022-05-12 |  |

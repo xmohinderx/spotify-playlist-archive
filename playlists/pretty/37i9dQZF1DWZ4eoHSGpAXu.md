@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4eoHSGpAXu.md) - [plain]
 
 > Get your midweek right with these uplifting songs of praise and worship.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,256 likes - 75 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,292 likes - 75 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4eoHSGpAXu.md) - [plain]
 | 14 | [Foundation](https://open.spotify.com/track/2xySupax5LBUgGCJUdJnzL) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb) | [Summer Sessions](https://open.spotify.com/album/3xs22abUTBvc05n0BXmo9p) | 5:31 |
 | 15 | [I Don't Have Much](https://open.spotify.com/track/5GauSw0ZYcQN9VNl4Bm46a) | [Mission House](https://open.spotify.com/artist/1kfAQBrI7qZInqadGFtW8C), [Jess Ray](https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3), [Taylor Leonhardt](https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i) | [I Don't Have Much](https://open.spotify.com/album/13xozrVcJxO5odimOc6UAw) | 5:14 |
 | 16 | [Deeper Water](https://open.spotify.com/track/1sPYj7Rd00yeMRGefniYuT) | [Ry Cox](https://open.spotify.com/artist/16gW6AKnwvZj4t09Jfv4ap) | [Love Unending](https://open.spotify.com/album/2ZIucC5ZWuMUM4Y8cVZFpb) | 4:30 |
-| 17 | [When It Comes to You](https://open.spotify.com/track/7juggaI6hvrlRJq7K0mAUH) | [RNW Music](https://open.spotify.com/artist/4LfdYq6VdNIwj6Cs5x9EKi) | [When It Comes to You](https://open.spotify.com/album/7iEMna8XHGFwwiR17SqtkV) | 6:47 |
+| 17 | [When It Comes to You](https://open.spotify.com/track/2j70cErAhBQ8Kmqlc3ePIl) | [RNW Music](https://open.spotify.com/artist/4LfdYq6VdNIwj6Cs5x9EKi) | [When It Comes to You \(Deluxe\)](https://open.spotify.com/album/3NsAhgtYRgjWmfQFOAG10r) | 6:47 |
 | 18 | [King Of Kings](https://open.spotify.com/track/6kmhapLx51lmwhIIDFsUQU) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [King Of Kings](https://open.spotify.com/album/30RfU2mnzbrCsnZA4TSCcY) | 4:25 |
 | 19 | [I Am Loved](https://open.spotify.com/track/3eWfz0o9bJZ3t9GCPjLtQD) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [I Am Loved](https://open.spotify.com/album/4pHDnWMt0uMGANMTr2yHem) | 7:12 |
 | 20 | [Sigh No More](https://open.spotify.com/track/4dYeMQIK8fvFscQwqpEXAb) | [Audrey Assad](https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw) | [Sigh No More](https://open.spotify.com/album/3um3l6Ctq1A1DyVsm4wZK4) | 3:43 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4eoHSGpAXu.md) - [plain]
 | 74 | [A Thousand More](https://open.spotify.com/track/7tIrrmVZNRypgrP7FQZmLR) | [Thrive Worship](https://open.spotify.com/artist/76mPLB1kgBIInKSrvuEb72) | [A Thousand More](https://open.spotify.com/album/71Wbn8i6LWE44Fgpb2D8aB) | 4:27 |
 | 75 | [While I Wait](https://open.spotify.com/track/1R9UC41siojWolyYYEohqN) | [Lincoln Brewster](https://open.spotify.com/artist/1aoy0R8uP3x33eqKZOLpN1) | [While I Wait](https://open.spotify.com/album/0UDYVuIKNGT6hfvrsjrNBV) | 4:58 |
 
-Snapshot ID: `MTU3NDgzNDgwMiwwMDAwMDAwMGYyZjI5NGQ1OTk5MzIxMmU1YzkxNTQwNmVlYTVjZWNj`
+Snapshot ID: `MTU3NDgzNDgwMiwwMDAwMDAwMDEwMDgwOGU4NzZkODBlMjk4NTc4MDU0NDIwYTRhNjIy`

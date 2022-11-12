@@ -98,6 +98,24 @@
     },
     {
       "album": {
+        "name": "70's Alternative",
+        "url": "https://open.spotify.com/album/3w6eKMdHw7WbxIlUE4eqA9"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222093,
+      "name": "10:15 Saturday Night",
+      "url": "https://open.spotify.com/track/5TjPYRe2JVJv8LBqti6YFU"
+    },
+    {
+      "album": {
         "name": "Three Imaginary Boys (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7gPql7GFpBMOxeO80vMMsC"
       },
@@ -998,6 +1016,24 @@
     },
     {
       "album": {
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/4BgjdeVL7OewN0vw0o72uL"
+      },
+      "artists": [
+        {
+          "name": "Nazareth",
+          "url": "https://open.spotify.com/artist/6fvN9GmMCVKb5LY0WsnjFP"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237040,
+      "name": "Bad Bad Boy",
+      "url": "https://open.spotify.com/track/6C3KBhACqUGN5XJxV5dZxl"
+    },
+    {
+      "album": {
         "name": "Razamanaz",
         "url": "https://open.spotify.com/album/0qdXvUUZQ8kUaNDFdEit90"
       },
@@ -1009,7 +1045,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 237333,
       "name": "Bad Bad Boy",
       "url": "https://open.spotify.com/track/0UIpa8py2QChTdE1KB4yKa"
@@ -1099,7 +1135,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 184213,
       "name": "Banana Rock",
       "url": "https://open.spotify.com/track/5Yl2LkbeXzqig34tP62kRU"
@@ -1121,6 +1157,24 @@
       "duration_ms": 184213,
       "name": "Banana Rock",
       "url": "https://open.spotify.com/track/7l1Biclz2FEZxAbUvuUylI"
+    },
+    {
+      "album": {
+        "name": "The W Factor",
+        "url": "https://open.spotify.com/album/4yLl5ah5mwA4Iz4f06kTvn"
+      },
+      "artists": [
+        {
+          "name": "The Wombles",
+          "url": "https://open.spotify.com/artist/5kskdJ54Y6ZGfxfbz6iHxw"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188800,
+      "name": "Banana Rock",
+      "url": "https://open.spotify.com/track/2AxLastKqkofqICSQ2AD8J"
     },
     {
       "album": {
@@ -1963,7 +2017,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 257399,
       "name": "Can't Give You More",
       "url": "https://open.spotify.com/track/4PriSB05yvskrIRuFVfr57"
@@ -2039,6 +2093,24 @@
       "duration_ms": 256959,
       "name": "Caroline",
       "url": "https://open.spotify.com/track/55tTwiyz2MxqwJa3uyynag"
+    },
+    {
+      "album": {
+        "name": "Girl Talk",
+        "url": "https://open.spotify.com/album/4QWo5TAArJHd76F15h61Gq"
+      },
+      "artists": [
+        {
+          "name": "Status Quo",
+          "url": "https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258092,
+      "name": "Caroline",
+      "url": "https://open.spotify.com/track/1loUwxiKpgF7IHfV4cEfYE"
     },
     {
       "album": {
@@ -3119,7 +3191,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 193346,
       "name": "Don't Stop - 2004 Remaster",
       "url": "https://open.spotify.com/track/4bEb3KE4mSKlTFjtWJQBqO"
@@ -3785,7 +3857,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 197333,
       "name": "Firehouse",
       "url": "https://open.spotify.com/track/2hzyGod8yvzZsDkh6M5x2T"
@@ -4548,6 +4620,24 @@
     },
     {
       "album": {
+        "name": "\u795e\u66f2\u5927\u767e\u79d1 Vol.1",
+        "url": "https://open.spotify.com/album/7HApNyWLjGtGbSyhPK0JrT"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173173,
+      "name": "Good Old-Fashioned Lover Boy - Remastered 2011",
+      "url": "https://open.spotify.com/track/60GOx8U8PkkVlIG9LlVNNZ"
+    },
+    {
+      "album": {
         "name": "The Wall",
         "url": "https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F"
       },
@@ -4649,7 +4739,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 169306,
       "name": "Grinding Halt",
       "url": "https://open.spotify.com/track/4ZRdp3vOeYJv8KnehZ5AUz"
@@ -5045,10 +5135,28 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 368506,
       "name": "Highway Star",
       "url": "https://open.spotify.com/track/4gVTozEmzwAUXpwj3jEetX"
+    },
+    {
+      "album": {
+        "name": "Machine Head (2016 Version)",
+        "url": "https://open.spotify.com/album/3vf9XhG5wL3J0kVZhCEumf"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366960,
+      "name": "Highway Star - 2012 Remaster",
+      "url": "https://open.spotify.com/track/2YiRc3PbBjdfTiA0l2PVEJ"
     },
     {
       "album": {
@@ -5250,6 +5358,24 @@
     },
     {
       "album": {
+        "name": "Pro Skate Hits",
+        "url": "https://open.spotify.com/album/6Ij1mb3WdYkaDh4SoHb2Sm"
+      },
+      "artists": [
+        {
+          "name": "Sex Pistols",
+          "url": "https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202800,
+      "name": "Holidays In the Sun",
+      "url": "https://open.spotify.com/track/0cUiOLdXm0GK0bJBQ52xOd"
+    },
+    {
+      "album": {
         "name": "Never Mind The Bollocks, Here's The Sex Pistols",
         "url": "https://open.spotify.com/album/5fxYu3rqjCNTSPKN8mtEl2"
       },
@@ -5261,7 +5387,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 202800,
       "name": "Holidays in the Sun",
       "url": "https://open.spotify.com/track/2e4RcQohKWo8oZIUfjxiGo"
@@ -5283,6 +5409,24 @@
       "duration_ms": 203080,
       "name": "Holidays In The Sun",
       "url": "https://open.spotify.com/track/4e3TIXJcX3oQJnLup57I0r"
+    },
+    {
+      "album": {
+        "name": "Suzi\u2026 and Other Four Letter Words (2017 Remaster)",
+        "url": "https://open.spotify.com/album/3OzEAZYDyNNqi2G1Dl4rUZ"
+      },
+      "artists": [
+        {
+          "name": "Suzi Quatro",
+          "url": "https://open.spotify.com/artist/15jHZ1EZwmm2QDjKctvqJQ"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180142,
+      "name": "Hollywood - 2017 Remaster",
+      "url": "https://open.spotify.com/track/0lFt5lgDJTGTOwCCKLACHe"
     },
     {
       "album": {
@@ -5938,6 +6082,24 @@
     },
     {
       "album": {
+        "name": "Legend: The Best Of",
+        "url": "https://open.spotify.com/album/2U3VsTGQVWHAqtwZlETdZP"
+      },
+      "artists": [
+        {
+          "name": "Suzi Quatro",
+          "url": "https://open.spotify.com/artist/15jHZ1EZwmm2QDjKctvqJQ"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232994,
+      "name": "If You Can't Give Me Love - 2017 Remaster",
+      "url": "https://open.spotify.com/track/1Dxw2PoJUcUJfeiO0iZiSz"
+    },
+    {
+      "album": {
         "name": "If You Knew Suzi\u2026 (2017 Remaster)",
         "url": "https://open.spotify.com/album/3li6vNhRkVvZCAKzlMD0uI"
       },
@@ -5949,7 +6111,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 232994,
       "name": "If You Can't Give Me Love - 2017 Remaster",
       "url": "https://open.spotify.com/track/45JKOZUyOFoLhmEltJFEeW"
@@ -6310,6 +6472,24 @@
     },
     {
       "album": {
+        "name": "All Things Must Pass (50th Anniversary/Super Deluxe)",
+        "url": "https://open.spotify.com/album/0pDJt9M0HWkIs4vrTK6aC6"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299026,
+      "name": "Isn't It A Pity - Session Outtakes And Jams / Take 27",
+      "url": "https://open.spotify.com/track/1ftMJpLPyuB79Adb4WMNKq"
+    },
+    {
+      "album": {
         "name": "Isn't It A Pity/All Things Must Pass/Cosmic Empire /Run Of The Mill",
         "url": "https://open.spotify.com/album/0XYu51u65pNPZJr2RQd52o"
       },
@@ -6357,7 +6537,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 222173,
       "name": "It's Different For Girls",
       "url": "https://open.spotify.com/track/6RnhPvk4EBbOJVETOQtMA5"
@@ -6379,6 +6559,24 @@
       "duration_ms": 222400,
       "name": "It's Different For Girls",
       "url": "https://open.spotify.com/track/5F3yVP8jINFHyxSCCbnjgi"
+    },
+    {
+      "album": {
+        "name": "20th Century Masters: The Millennium Collection: Best Of Joe Jackson",
+        "url": "https://open.spotify.com/album/1PoY0PKoXc185DkhmYbU11"
+      },
+      "artists": [
+        {
+          "name": "Joe Jackson",
+          "url": "https://open.spotify.com/artist/6KOqPxwfNAmZPkiCnDE9yT"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225293,
+      "name": "It's Different For Girls",
+      "url": "https://open.spotify.com/track/1KQcJYR1eEXk8oMdafk26j"
     },
     {
       "album": {
@@ -6501,7 +6699,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 252440,
       "name": "Jeepster - 2003 Remaster",
       "url": "https://open.spotify.com/track/0v1wsyUb3UplLdgcdTbUEd"
@@ -6627,7 +6825,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 263560,
       "name": "Junior\u2019s Farm",
       "url": "https://open.spotify.com/track/3aQtUiTNMhXEqsLyUUF9Ju"
@@ -7012,6 +7210,24 @@
     },
     {
       "album": {
+        "name": "Electric Warrior",
+        "url": "https://open.spotify.com/album/4Yw5uS8at8GkWmH2gZmLY0"
+      },
+      "artists": [
+        {
+          "name": "T. Rex",
+          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182786,
+      "name": "Lean Woman Blues",
+      "url": "https://open.spotify.com/track/1KlVA8zxjYFt3hPNDPNBZp"
+    },
+    {
+      "album": {
         "name": "All Things Must Pass (Remastered 2014)",
         "url": "https://open.spotify.com/album/4I4xtHaIFOzhZfp1NIHkY6"
       },
@@ -7203,7 +7419,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 144760,
       "name": "Life's a Gas - 2003 Remaster",
       "url": "https://open.spotify.com/track/1MU62iuv0tVWWVkqHcY1tx"
@@ -7279,6 +7495,24 @@
       "duration_ms": 223186,
       "name": "Like Clockwork",
       "url": "https://open.spotify.com/track/6s7iiZXXT26eNNTp9yoD5M"
+    },
+    {
+      "album": {
+        "name": "Dire Straits",
+        "url": "https://open.spotify.com/album/4dKdxly4ji1vfl7sEYuqBe"
+      },
+      "artists": [
+        {
+          "name": "Dire Straits",
+          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303826,
+      "name": "Lions",
+      "url": "https://open.spotify.com/track/62KeChWhY7Inuu8CPSHE3w"
     },
     {
       "album": {
@@ -7786,6 +8020,24 @@
     },
     {
       "album": {
+        "name": "Pure McCartney (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5ikljNZWFHqZP2M0kKvEWb"
+      },
+      "artists": [
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231573,
+      "name": "Maybe I\u2019m Amazed",
+      "url": "https://open.spotify.com/track/70B7IGHu2yer9GhnVSLRsK"
+    },
+    {
+      "album": {
         "name": "McCartney (Archive Collection)",
         "url": "https://open.spotify.com/album/2lOll0xAGw8FPjwmwopAKT"
       },
@@ -7797,7 +8049,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 229826,
       "name": "Maybe I\u2019m Amazed - 2011 Remaster",
       "url": "https://open.spotify.com/track/1Qa0Y05al633fG8f9Peytc"
@@ -8128,6 +8380,24 @@
     },
     {
       "album": {
+        "name": "Electric Warrior",
+        "url": "https://open.spotify.com/album/4Yw5uS8at8GkWmH2gZmLY0"
+      },
+      "artists": [
+        {
+          "name": "T. Rex",
+          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229333,
+      "name": "Monolith",
+      "url": "https://open.spotify.com/track/4aeF3A4ApNRKnU1bwM8DpF"
+    },
+    {
+      "album": {
         "name": "Electric Warrior [Expanded & Remastered]",
         "url": "https://open.spotify.com/album/6k1iylSzWOs7SgavxlJ8kt"
       },
@@ -8139,7 +8409,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 229560,
       "name": "Monolith - 2003 Remaster",
       "url": "https://open.spotify.com/track/7jLYNCaTmEe1OnhYhGtfeC"
@@ -8561,7 +8831,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 241413,
       "name": "Next Time You See Her",
       "url": "https://open.spotify.com/track/19IjIGFbmQW4JSVNEdWpk0"
@@ -9018,6 +9288,24 @@
     },
     {
       "album": {
+        "name": "Very Best Of Leo Sayer",
+        "url": "https://open.spotify.com/album/4rV5mwtsOjBXEld4KSjtIG"
+      },
+      "artists": [
+        {
+          "name": "Leo Sayer",
+          "url": "https://open.spotify.com/artist/04LIHk1SobiQwt2tlupoAV"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214066,
+      "name": "One Man Band - Remastered",
+      "url": "https://open.spotify.com/track/48qZJDrhVtHBu1paLgTBIi"
+    },
+    {
+      "album": {
         "name": "Just A Boy",
         "url": "https://open.spotify.com/album/4U9kO19aacQAfVYdzxQ3Db"
       },
@@ -9029,7 +9317,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 214920,
       "name": "One Man Band - Remastered",
       "url": "https://open.spotify.com/track/0c2mka6WpBC5WTC5lBroMm"
@@ -9249,6 +9537,24 @@
       "duration_ms": 290560,
       "name": "Peaches And Diesel",
       "url": "https://open.spotify.com/track/1oBZT44CuJVYiQhRRA0eXK"
+    },
+    {
+      "album": {
+        "name": "Slowhand 35th Anniversary (Super Deluxe)",
+        "url": "https://open.spotify.com/album/5MAL7e4EnKXW1hFg6NbFqP"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290560,
+      "name": "Peaches And Diesel",
+      "url": "https://open.spotify.com/track/2nqesy7vSlS8QKWE1zgUfE"
     },
     {
       "album": {
@@ -10048,6 +10354,24 @@
     },
     {
       "album": {
+        "name": "Tiger Feet: The Best Of",
+        "url": "https://open.spotify.com/album/7g5eVjH2NjJssU4t2Df54e"
+      },
+      "artists": [
+        {
+          "name": "Mud",
+          "url": "https://open.spotify.com/artist/3cqIsBnzV3BabbPWKz8Txf"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246986,
+      "name": "Rocket",
+      "url": "https://open.spotify.com/track/3khArgueAt9Bwu6pL5zFsr"
+    },
+    {
+      "album": {
         "name": "A's, B's And Rarities",
         "url": "https://open.spotify.com/album/3S9t2MD1HLBshrczST9ULW"
       },
@@ -10059,7 +10383,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 246986,
       "name": "Rocket",
       "url": "https://open.spotify.com/track/4ITNvKm0xxAu1ILtrO0Gp0"
@@ -10761,7 +11085,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 619079,
       "name": "Sheep",
       "url": "https://open.spotify.com/track/55e99bv2wlgTYtNEYHWtN1"
@@ -11125,6 +11449,24 @@
       "duration_ms": 140066,
       "name": "Solid Gold Easy Action",
       "url": "https://open.spotify.com/track/5yxYokipsWlpDCt4Th4VVc"
+    },
+    {
+      "album": {
+        "name": "Demon Queen",
+        "url": "https://open.spotify.com/album/7wcJ0lIInhBhglKqTJkfR5"
+      },
+      "artists": [
+        {
+          "name": "T. Rex",
+          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141773,
+      "name": "Solid Gold Easy Action",
+      "url": "https://open.spotify.com/track/6gB2MRT47iFkbT6kvbbtTM"
     },
     {
       "album": {
@@ -11643,7 +11985,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 247169,
       "name": "Suicide - 2017 Remaster",
       "url": "https://open.spotify.com/track/0690NdRwiOPqvy1Qz5EduM"
@@ -12266,6 +12608,24 @@
     },
     {
       "album": {
+        "name": "The Definitive Rod Stewart",
+        "url": "https://open.spotify.com/album/16B8kK28QgKIYTb7XyLMuj"
+      },
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267853,
+      "name": "The First Cut Is the Deepest - 2008 Remaster",
+      "url": "https://open.spotify.com/track/2FFq7apKbtiPLpnyF92Q83"
+    },
+    {
+      "album": {
         "name": "A Night on the Town (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7nge8Pafna5rU1a0ek7dKN"
       },
@@ -12277,7 +12637,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 269106,
       "name": "The First Cut Is the Deepest - 2009 Remaster",
       "url": "https://open.spotify.com/track/5PCwZK8R7BkK9wVOsm52OJ"
@@ -12573,7 +12933,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 500960,
       "name": "The Prophet's Song - Remastered 2011",
       "url": "https://open.spotify.com/track/1Ji1gZtpgMBepbNpyiLfgv"
@@ -12879,7 +13239,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 171826,
       "name": "The Wild One - Single Version",
       "url": "https://open.spotify.com/track/7ukFfm4TZOSwrnz2wxp4mG"
@@ -13743,7 +14103,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 229626,
       "name": "Where Do You Think You're Going?",
       "url": "https://open.spotify.com/track/1wttxNcudvqE58NQpY7Jdk"
@@ -14075,6 +14435,24 @@
       "duration_ms": 136933,
       "name": "With A Gun",
       "url": "https://open.spotify.com/track/6hCZTtQ84zVg3gGXQaIGZv"
+    },
+    {
+      "album": {
+        "name": "Wings Greatest",
+        "url": "https://open.spotify.com/album/3ukVviHMHQj6H1tMjRjrY5"
+      },
+      "artists": [
+        {
+          "name": "Wings",
+          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347253,
+      "name": "With A Little Luck",
+      "url": "https://open.spotify.com/track/4e7HJXoesmfRboLc3pYGTS"
     },
     {
       "album": {
@@ -14525,6 +14903,24 @@
       "duration_ms": 240182,
       "name": "Your Mama Won't Like Me - 2017 Remaster",
       "url": "https://open.spotify.com/track/3IqZwsaeA895XFqcdLT8cv"
+    },
+    {
+      "album": {
+        "name": "Your Mamma Won't Like Me (2017 Remaster)",
+        "url": "https://open.spotify.com/album/4K2VROeXYYiQUf5IxlukiX"
+      },
+      "artists": [
+        {
+          "name": "Suzi Quatro",
+          "url": "https://open.spotify.com/artist/15jHZ1EZwmm2QDjKctvqJQ"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240182,
+      "name": "Your Mama Won't Like Me - 2017 Remaster",
+      "url": "https://open.spotify.com/track/5QxzbtKeUqTjHtQO3PM6mv"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX0XK1VdFMbTA"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcHV6YH5zTsV.md) - [plain]
 
 > Get ready to twist and shout \- this is the ultimate Beatles party playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,799 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,801 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,10 +35,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcHV6YH5zTsV.md) - [plain]
 | 25 | [Why Don't We Do It In The Road? \- Remastered 2009](https://open.spotify.com/track/4eLIq1nQNwz2qLu8DeiWIp) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles \(Remastered\)](https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL) | 1:41 |
 | 26 | [Baby, You're A Rich Man \- Remastered 2009](https://open.spotify.com/track/0JBvtprXP2Z0LP3jmzA7Xp) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Magical Mystery Tour \(Remastered\)](https://open.spotify.com/album/2BtE7qm1qzM80p9vLSiXkj) | 3:01 |
 | 27 | [Can't Buy Me Love \- Remastered 2009](https://open.spotify.com/track/3SdingSsFcZDZAyvcJbgAw) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [A Hard Day's Night \(Remastered\)](https://open.spotify.com/album/6wCttLq0ADzkPgtRnUihLV) | 2:11 |
-| 28 | [Get Back \- Remastered 2009](https://open.spotify.com/track/4MLBqAEzNN89o2M9h92Z26) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Let It Be \(Remastered\)](https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5) | 3:09 |
+| 28 | [Get Back \- Remastered 2009](https://open.spotify.com/track/0icmsDk2VZtogMojOcBmBy) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles \- New Year's Workout](https://open.spotify.com/album/4AWAZIuMdas1wV50kNkTv3) | 3:09 |
 | 29 | [Lady Madonna \- Remastered 2009](https://open.spotify.com/track/1tM9TBNPjieSOZ2d5VAQ1y) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Past Masters \(Vols\. 1 & 2 / Remastered\)](https://open.spotify.com/album/3GmCXW10kLxmZrEY0JpRlw) | 2:17 |
 | 30 | [Magical Mystery Tour \- Remastered 2009](https://open.spotify.com/track/0qHMhBZqYb99yhX9BHcIkV) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Magical Mystery Tour \(Remastered\)](https://open.spotify.com/album/2BtE7qm1qzM80p9vLSiXkj) | 2:50 |
-| 31 | [All You Need Is Love \- Remastered 2009](https://open.spotify.com/track/68BTFws92cRztMS1oQ7Ewj) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Magical Mystery Tour \(Remastered\)](https://open.spotify.com/album/2BtE7qm1qzM80p9vLSiXkj) | 3:50 |
+| 31 | [All You Need Is Love \- Remastered 2015](https://open.spotify.com/track/6KqiVlOLfDzJViJVAPym1p) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [1 \(Remastered\)](https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh) | 3:47 |
 | 32 | [Hello, Goodbye \- Remastered 2015](https://open.spotify.com/track/0hqjsgWRfMBf2s8xsvRq1M) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [1 \(Remastered\)](https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh) | 3:27 |
 | 33 | [Love Me Do \- Mono Version / Remastered 2009](https://open.spotify.com/track/0h7N5rOgTT1rSwLoj9f3Bk) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles 1962 \- 1966 \(Remastered\)](https://open.spotify.com/album/6126O4XLYAfzU3961ziahP) | 2:22 |
 | 34 | [I'm Looking Through You \- Remastered 2009](https://open.spotify.com/track/5E3BVY66TEDexFutOO5GeS) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Rubber Soul \(Remastered\)](https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm) | 2:26 |
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcHV6YH5zTsV.md) - [plain]
 | 39 | [Please Mister Postman \- Remastered 2009](https://open.spotify.com/track/6wfK1R6FoLpmUA9lk5ll4T) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [With The Beatles \(Remastered\)](https://open.spotify.com/album/1aYdiJk6XKeHWGO3FzHHTr) | 2:34 |
 | 40 | [When I'm Sixty Four \- Remastered 2009](https://open.spotify.com/track/1NrbnHlR2BFREcyWXHIHip) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Sgt\. Pepper's Lonely Hearts Club Band \(Remastered\)](https://open.spotify.com/album/6QaVfG1pHYl1z15ZxkvVDW) | 2:37 |
 | 41 | [Helter Skelter \- Remastered 2009](https://open.spotify.com/track/0Bs0hUYxz7REyIHH7tRhL2) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles \(Remastered\)](https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL) | 4:29 |
-| 42 | [It Won't Be Long \- Remastered 2009](https://open.spotify.com/track/4ekUX4pWizXXksJe0JfS9U) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [With The Beatles \(Remastered\)](https://open.spotify.com/album/1aYdiJk6XKeHWGO3FzHHTr) | 2:13 |
+| 42 | [It Won't Be Long \- Remastered 2009](https://open.spotify.com/track/32UOFQDPgwbr99zRucNUMw) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles \- Got To Get You Into My Life](https://open.spotify.com/album/3G8kDddmwz7Fs1WEOaRXzJ) | 2:13 |
 | 43 | [The Ballad Of John And Yoko \- Remastered 2015](https://open.spotify.com/track/1F7s27lLKshLPt9TPCgMDL) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [1 \(Remastered\)](https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh) | 2:59 |
 | 44 | [Maggie Mae \- Remastered 2009](https://open.spotify.com/track/2VsX1BoWSGiuVXGiFSUr6h) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Let It Be \(Remastered\)](https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5) | 0:40 |
 | 45 | [Penny Lane \- Remastered 2015](https://open.spotify.com/track/7afyyi8zn4FzWbcJ70F56V) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [1 \(Remastered\)](https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh) | 3:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcHV6YH5zTsV.md) - [plain]
 | 49 | [You Really Got A Hold On Me \- Remastered 2009](https://open.spotify.com/track/7rgUYidQh5tH0YlXCoKaYJ) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [With The Beatles \(Remastered\)](https://open.spotify.com/album/1aYdiJk6XKeHWGO3FzHHTr) | 3:01 |
 | 50 | [I Wanna Be Your Man \- Remastered 2009](https://open.spotify.com/track/0sIZcoe69iSym9AecvZ7CT) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [With The Beatles \(Remastered\)](https://open.spotify.com/album/1aYdiJk6XKeHWGO3FzHHTr) | 1:59 |
 
-Snapshot ID: `MTU2OTQ5MDMzMiwwMDAwMDAwMDM2OWNmNjIyMDc4YTZlMzJmYzNmNzAwOTA0MTE1NDdk`
+Snapshot ID: `MTU2OTQ5MDMzMiwwMDAwMDAwMDEyODg5MGJmNDk5NzZmN2QyYzQ0NzkyZjliNzA0ZTE5`

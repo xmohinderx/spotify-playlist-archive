@@ -1043,6 +1043,24 @@
     {
       "album": {
         "name": "The War Is Over",
+        "url": "https://open.spotify.com/album/6JFBg8304jW84YNZohE6bY"
+      },
+      "artists": [
+        {
+          "name": "Josh Baldwin",
+          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
+        }
+      ],
+      "date_added": "2022-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275253,
+      "name": "Endlessly",
+      "url": "https://open.spotify.com/track/3JrygX9aQ8rAHoQ0Tsm3cq"
+    },
+    {
+      "album": {
+        "name": "The War Is Over",
         "url": "https://open.spotify.com/album/6Br4yEtoV8RmArmLIAvEgw"
       },
       "artists": [
@@ -2729,7 +2747,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 486944,
       "name": "Peace Be Still - Live",
       "url": "https://open.spotify.com/track/3QgqMVZdqHdY8e7r7IUBww"

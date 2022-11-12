@@ -4,7 +4,7 @@
 
 > The most unforgettable love songs from the 80s.
 
-67 songs - 4 hr 49 min - [published](https://open.spotify.com/playlist/3zbr3w8bDk6MGZYKrSdbkA)
+69 songs - 4 hr 57 min - [published](https://open.spotify.com/playlist/3zbr3w8bDk6MGZYKrSdbkA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,8 +33,9 @@
 | [Hard to Say I'm Sorry](https://open.spotify.com/track/3dW8BK8BApogqcVONpsxa8) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Pure Ballads](https://open.spotify.com/album/6UPFj5DMjpEWCJ5m0kDA5E) | 3:41 | 2022-10-10 |  |
 | [Hard to Say I'm Sorry \- 2007 Remaster](https://open.spotify.com/track/7boKWlaNVmrhJdX8IbzUdD) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [The Best of Chicago, 40th Anniversary Edition](https://open.spotify.com/album/13etqTFFO9ZKGD3LeRMROL) | 3:43 | 2021-08-13 | 2022-07-29 |
 | [Hard to Say I'm Sorry \- 2009 Remaster](https://open.spotify.com/track/5nDSJO4909uNzMcZH3CggS) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago 16 \(Expanded Edition\)](https://open.spotify.com/album/1I5t0om003Ikyhs8Ks3t8C) | 3:41 | 2022-05-31 | 2022-11-11 |
-| [Heaven](https://open.spotify.com/track/7Ewz6bJ97vUqk5HdkvguFQ) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Reckless \(30th Anniversary / Deluxe Edition\)](https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL) | 4:03 | 2022-05-31 |  |
+| [Heaven](https://open.spotify.com/track/7Ewz6bJ97vUqk5HdkvguFQ) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Reckless \(30th Anniversary / Deluxe Edition\)](https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL) | 4:03 | 2022-05-31 | 2022-11-12 |
 | [Heaven](https://open.spotify.com/track/0GIOPJKTSxagq3rq07Ch3U) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Reckless](https://open.spotify.com/album/0ex8ILH2tYYRfoL4ZnZKwB) | 4:03 | 2021-08-13 | 2022-07-29 |
+| [Heaven](https://open.spotify.com/track/3Z2ZkcvjN4NP4iwkIsuI8p) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Valentin\-napi Retro Válogatás 2021](https://open.spotify.com/album/3FVx8KyZez2FCz3UQemuG0) | 4:04 | 2022-10-10 |  |
 | [Hungry Eyes \- From "Dirty Dancing" Soundtrack](https://open.spotify.com/track/31H6au3jhblhr6MMJiXnCq) | [Eric Carmen](https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU) | [The Definitive Collection](https://open.spotify.com/album/02CxAhdSRhzcm6XQ8m5RNp) | 4:11 | 2021-08-13 |  |
 | [I Just Called To Say I Love You](https://open.spotify.com/track/6RNDeRnWsRMjPdNVgupZCs) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [At The Close Of A Century](https://open.spotify.com/album/04giHQ9zptJUHUvtIyxL9Z) | 4:22 | 2021-08-13 |  |
 | [I Just Can't Stop Loving You \(feat\. Siedah Garrett\) \- 2012 Remaster](https://open.spotify.com/track/2fytePz8UsbUr8n33QBEcm) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm), [Siedah Garrett](https://open.spotify.com/artist/7EVlecngyrLHfQUqFMpwkT) | [Bad 25th Anniversary](https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm) | 4:11 | 2021-08-13 |  |
@@ -52,7 +53,8 @@
 | [Missing You](https://open.spotify.com/track/1Qrdlkgg9I4J7r3P4kZNwr) | [John Waite](https://open.spotify.com/artist/2TPyCsRoh2tjeZLTQ2ojlj) | [No Brakes](https://open.spotify.com/album/65Uo74eW8L3zXUxSOlSm6H) | 4:29 | 2021-08-13 |  |
 | [Nothing's Gonna Change My Love for You](https://open.spotify.com/track/0vB4Vd6PtkJSEnWsmqATnZ) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [20/20](https://open.spotify.com/album/23HV3deh17hOFNg3OKmGnW) | 4:02 | 2021-08-13 |  |
 | [Nothing's Gonna Stop Us Now](https://open.spotify.com/track/2vEQ9zBiwbAVXzS2SOxodY) | [Starship](https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf) | [No Protection](https://open.spotify.com/album/6FTFKwFEs3hwpnj68VKXg3) | 4:30 | 2021-08-13 | 2022-07-29 |
-| [Nothing's Gonna Stop Us Now](https://open.spotify.com/track/3X7uFMzJrEE0sxn62qd8Ch) | [Starship](https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf) | [No Protection](https://open.spotify.com/album/3nCQjsOzTmnWM6gnjIaT8J) | 4:30 | 2022-05-31 |  |
+| [Nothing's Gonna Stop Us Now](https://open.spotify.com/track/3X7uFMzJrEE0sxn62qd8Ch) | [Starship](https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf) | [No Protection](https://open.spotify.com/album/3nCQjsOzTmnWM6gnjIaT8J) | 4:30 | 2022-05-31 | 2022-11-12 |
+| [Nothing's Gonna Stop Us Now](https://open.spotify.com/track/6g8VJsF9fPZKKc6BUwLbbm) | [Starship](https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf) | [American Soft Rock](https://open.spotify.com/album/2SSQQYyYy6DYyDaV3eAkJ7) | 4:30 | 2022-10-10 |  |
 | [One More Night \- 2016 Remaster](https://open.spotify.com/track/6fkvIT9KFKxO8poBeKfaEf) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [No Jacket Required \(2016 Remaster\)](https://open.spotify.com/album/1rVhockt4RAiZFaK3M3zPB) | 4:48 | 2021-08-13 |  |
 | [Open Arms](https://open.spotify.com/track/2w4EpqGasrz9qdTwocx54t) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Escape \(Bonus Track Version\)](https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0) | 3:22 | 2021-08-13 |  |
 | [Right Here Waiting](https://open.spotify.com/track/4LFwNJWoj74Yd71fIr1W8x) | [Richard Marx](https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6) | [Repeat Offender](https://open.spotify.com/album/0Zf6FJVyK6qUxmg1WMNruG) | 4:24 | 2021-08-13 |  |

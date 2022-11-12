@@ -127,7 +127,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 228066,
       "name": "A Strange Kind of Love - Version One",
       "url": "https://open.spotify.com/track/1zPAojZywAA8wCIScNMGK6"
@@ -275,7 +275,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 234333,
       "name": "Army of Me",
       "url": "https://open.spotify.com/track/3vEmpJQC2p8h0U3OiBufQm"
@@ -682,6 +682,24 @@
     },
     {
       "album": {
+        "name": "Obsolete (Special Edition)",
+        "url": "https://open.spotify.com/album/5fg6x19bbTtNv2eOhTUcoN"
+      },
+      "artists": [
+        {
+          "name": "Fear Factory",
+          "url": "https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218333,
+      "name": "Cars - Remix",
+      "url": "https://open.spotify.com/track/5gp7nuCjOwI79WfO65di78"
+    },
+    {
+      "album": {
         "name": "Celebrity Skin",
         "url": "https://open.spotify.com/album/2KE8WCHtD8qnAxXeIzNEId"
       },
@@ -1053,7 +1071,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 234226,
       "name": "Du hast",
       "url": "https://open.spotify.com/track/6uEvFCaOqXyEidoO8BZbyh"
@@ -1439,7 +1457,7 @@
     {
       "album": {
         "name": "The Downward Spiral",
-        "url": "https://open.spotify.com/album/3nJnyDV8fwFpffo0EyHQto"
+        "url": "https://open.spotify.com/album/7a7arAXDE0BiaMgHLhdjGF"
       },
       "artists": [
         {
@@ -1450,6 +1468,24 @@
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 374440,
+      "name": "Hurt",
+      "url": "https://open.spotify.com/track/27tX58NOpv1YKQ0abW7EPy"
+    },
+    {
+      "album": {
+        "name": "The Downward Spiral",
+        "url": "https://open.spotify.com/album/3nJnyDV8fwFpffo0EyHQto"
+      },
+      "artists": [
+        {
+          "name": "Nine Inch Nails",
+          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-12",
       "duration_ms": 375933,
       "name": "Hurt",
       "url": "https://open.spotify.com/track/1lo9k4PrxFd5Np4cAxXoKo"
@@ -1539,7 +1575,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 218134,
       "name": "I Think I'm Paranoid",
       "url": "https://open.spotify.com/track/7fFJ4nfi1mnQ10J8YAu9Di"
@@ -2004,6 +2040,24 @@
     },
     {
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/34ozkv3AkFksZD8srOmOrX"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208333,
+      "name": "Lovesong",
+      "url": "https://open.spotify.com/track/7K71priwuwcWwbgfHVQJdq"
+    },
+    {
+      "album": {
         "name": "Disintegration (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6vQB3ZBxnQPP3jQcGV2qzg"
       },
@@ -2015,7 +2069,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 209573,
       "name": "Lovesong - 2010 Remaster",
       "url": "https://open.spotify.com/track/0X5C4WjQNubRysTkHOubz3"
@@ -2123,7 +2177,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 178640,
       "name": "March Of The Pigs",
       "url": "https://open.spotify.com/track/59FwEQpuagQZQVP71h9OIq"
@@ -2195,7 +2249,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 180733,
       "name": "Mother Mother",
       "url": "https://open.spotify.com/track/6WGaVdhY8uMWMgxiKpdLVy"
@@ -2361,7 +2415,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 448466,
       "name": "Pictures of You - 2010 Remaster",
       "url": "https://open.spotify.com/track/1tuwC1Ob5vnYZhvg3zyzJg"
@@ -2750,6 +2804,24 @@
     },
     {
       "album": {
+        "name": "Nevermind",
+        "url": "https://open.spotify.com/album/6yaiubHHJy8N8QcHy3julo"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232146,
+      "name": "Something In The Way",
+      "url": "https://open.spotify.com/track/1UHoHmHWdu0EX557Oqoq2P"
+    },
+    {
+      "album": {
         "name": "Nevermind (Remastered)",
         "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
       },
@@ -2761,7 +2833,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 232146,
       "name": "Something In The Way",
       "url": "https://open.spotify.com/track/1nFtiJxYdhtFfFtfXBv06s"
@@ -2873,7 +2945,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 254839,
       "name": "Stop",
       "url": "https://open.spotify.com/track/7F0dwqgKzlaIRrngChBRAc"
@@ -2981,7 +3053,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-17",
+      "date_removed": null,
       "duration_ms": 357693,
       "name": "Sugar Kane",
       "url": "https://open.spotify.com/track/6q03mlzKsM1m3TLpi6T6Cw"

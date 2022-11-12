@@ -505,7 +505,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 239706,
       "name": "Everything Counts",
       "url": "https://open.spotify.com/track/31xOx8PgBKBdXk5gfUvr0p"
@@ -545,6 +545,24 @@
       "duration_ms": 241146,
       "name": "Everything Counts - 2006 Digital Remaster",
       "url": "https://open.spotify.com/track/5TQnwwwx5na4rCj6EVcdvV"
+    },
+    {
+      "album": {
+        "name": "The Best of Depeche Mode, Volume 1",
+        "url": "https://open.spotify.com/album/3PIszA6UT9iI99izK60AdV"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238986,
+      "name": "Everything Counts - 2006 Remaster",
+      "url": "https://open.spotify.com/track/6JN0k3R65B7T47lsHwgBjQ"
     },
     {
       "album": {
@@ -1479,6 +1497,24 @@
     {
       "album": {
         "name": "Night And Day",
+        "url": "https://open.spotify.com/album/62rwfuO0qI4y6pSz6zwOlS"
+      },
+      "artists": [
+        {
+          "name": "Joe Jackson",
+          "url": "https://open.spotify.com/artist/6KOqPxwfNAmZPkiCnDE9yT"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259493,
+      "name": "Steppin' Out",
+      "url": "https://open.spotify.com/track/1qaS4rwkm52lpkDZVmvF52"
+    },
+    {
+      "album": {
+        "name": "Night And Day",
         "url": "https://open.spotify.com/album/0qXKy00l8syNSBNjE15o4t"
       },
       "artists": [
@@ -1507,7 +1543,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 268200,
       "name": "Steppin' Out",
       "url": "https://open.spotify.com/track/2KY0QUeRY3IPuJI1gyU9BJ"

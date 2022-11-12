@@ -4,7 +4,7 @@
 
 > Hymns and anthems of artists stepping  into the culture at large! Speak truth\. Cover; Joshua Luke Smith
 
-76 songs - 4 hr 41 min - [published](https://open.spotify.com/playlist/5zoHWtnr63H3IOL754pMXc)
+78 songs - 4 hr 49 min - [published](https://open.spotify.com/playlist/5zoHWtnr63H3IOL754pMXc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [Body in Motion](https://open.spotify.com/track/11xpBwmHDLUb8luVNFfQex) | [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek), [Liz Vice](https://open.spotify.com/artist/5KYcfVCcUgV4d1KP3Wozyx) | [Mercury & Lightning](https://open.spotify.com/album/7IFEn26t34FyQpcSHNdF7P) | 3:41 | 2020-06-17 |  |
 | [Body In Motion](https://open.spotify.com/track/7srkcblVXjo60Clqk9lywq) | [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek), [Liz Vice](https://open.spotify.com/artist/5KYcfVCcUgV4d1KP3Wozyx) | [Mercury & Lightning](https://open.spotify.com/album/2X5598poSfDQ3B0YRytfgf) | 3:41 | 2020-06-17 | 2022-07-29 |
 | [Bury Me](https://open.spotify.com/track/4QDiWSoFqt8u2WZRA5CSU8) | [George Glew](https://open.spotify.com/artist/3841DHBEOAE2ksodVZkV7U) | [Bury Me](https://open.spotify.com/album/6OTdYz0uSfO86gJHpSlXKL) | 3:45 | 2020-06-17 | 2022-10-24 |
-| [Bury Me](https://open.spotify.com/track/5wXM3N6mZVKY1KogR8aj8x) | [George Glew](https://open.spotify.com/artist/3841DHBEOAE2ksodVZkV7U) | [Bury Me](https://open.spotify.com/album/4TxEIUXckIIuvTT1UPCsKy) | 3:45 | 2020-06-17 |  |
+| [Bury Me](https://open.spotify.com/track/5Pndk42KyOEwH7NvAx1Ujy) | [George Glew](https://open.spotify.com/artist/3841DHBEOAE2ksodVZkV7U) | [Vol\. 1](https://open.spotify.com/album/6itb8h3Aaqsovi4beHCTo3) | 3:45 | 2020-06-17 |  |
+| [Bury Me](https://open.spotify.com/track/5wXM3N6mZVKY1KogR8aj8x) | [George Glew](https://open.spotify.com/artist/3841DHBEOAE2ksodVZkV7U) | [Bury Me](https://open.spotify.com/album/4TxEIUXckIIuvTT1UPCsKy) | 3:45 | 2020-06-17 | 2022-11-12 |
 | [Cast Your Cares](https://open.spotify.com/track/7LL4WNn25gRttBo33fNULY) | [Guvna B](https://open.spotify.com/artist/3XgNFNKLstByGKqplDht0H) | [Hands Are Made for Working](https://open.spotify.com/album/4c3cNKOMgMHeZJcD6Q03JO) | 5:35 | 2020-06-17 |  |
 | [Chill Pill \(Experiment 2\)](https://open.spotify.com/track/1HD1bASivIYv2EzAnQUem3) | [Hawk House](https://open.spotify.com/artist/0ot8XpQrZOe4nHZ6EMJHJ9) | [A Handshake To The Brain](https://open.spotify.com/album/7m7U6WAMkNHREaon3KeABY) | 3:32 | 2020-06-17 | 2022-07-29 |
 | [Chill Pill \(Experiment 2\)](https://open.spotify.com/track/58S8PMxk5PgDxYoy8DTSNk) | [Hawk House](https://open.spotify.com/artist/0ot8XpQrZOe4nHZ6EMJHJ9) | [Morning Relaxing](https://open.spotify.com/album/3u725fz8XBZIa2tzBf9zaM) | 3:32 | 2020-06-17 |  |
@@ -82,7 +83,8 @@
 | [Wings](https://open.spotify.com/track/1SEbQnQhi6zdChCiKUpQjB) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [A Curious Tale of Trials + Persons](https://open.spotify.com/album/4hXcI8zGSBClqEs72f0GGR) | 4:06 | 2020-06-17 |  |
 | [Within the Rose](https://open.spotify.com/track/2YVIbDK4GjSR9jaGLXMYM1) | [Matthew And The Atlas](https://open.spotify.com/artist/0lSENl3bteP8p2NbiSP7RM) | [To the North](https://open.spotify.com/album/4Xuo3WeGm636KmRGZjsYwC) | 3:52 | 2020-06-17 | 2022-07-29 |
 | [Within The Rose](https://open.spotify.com/track/3RGPlHgxzIVMnrpdWR0EgM) | [Matthew And The Atlas](https://open.spotify.com/artist/0lSENl3bteP8p2NbiSP7RM) | [To the North](https://open.spotify.com/album/0cKaHI9t8EnlykFdIRspw3) | 3:52 | 2020-06-17 |  |
+| [Your Love Is Strong](https://open.spotify.com/track/2m6jBwOy7JJiGzKw62EAHV) | [Jon Foreman](https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq) | [Belief](https://open.spotify.com/album/1wkyXh7iVJgVcY1aYwDCSm) | 5:09 | 2020-06-17 |  |
 | [Your Love Is Strong](https://open.spotify.com/track/4dKh33Yvn0nsE6p4kgVFHK) | [Jon Foreman](https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq) | [Spring \- EP](https://open.spotify.com/album/1eLTcQe8ZIQ6tFsuiQQ3Ps) | 5:09 | 2020-06-17 | 2022-07-29 |
-| [Your Love Is Strong](https://open.spotify.com/track/5ZmzH1JqTrBJ9rckQXZVlY) | [Jon Foreman](https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq) | [Limbs & Branches](https://open.spotify.com/album/6i971rX8SB9Ad5IcpDRysI) | 5:09 | 2020-06-17 |  |
+| [Your Love Is Strong](https://open.spotify.com/track/5ZmzH1JqTrBJ9rckQXZVlY) | [Jon Foreman](https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq) | [Limbs & Branches](https://open.spotify.com/album/6i971rX8SB9Ad5IcpDRysI) | 5:09 | 2020-06-17 | 2022-11-12 |
 
 \*This playlist was first scraped on 2022-05-11. Prior content cannot be recovered.

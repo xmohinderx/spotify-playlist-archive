@@ -4,7 +4,7 @@
 
 > The cool sound of Cool Jazz\. Cover: Paul Desmond
 
-93 songs - 8 hr 39 min - [published](https://open.spotify.com/playlist/1jn4TAV3vYiCjmyQ8GKNI8)
+95 songs - 8 hr 48 min - [published](https://open.spotify.com/playlist/1jn4TAV3vYiCjmyQ8GKNI8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,12 +38,14 @@
 | [I'll Remember April](https://open.spotify.com/track/2BMorWMRsJPc1hEstsFKRU) | [George Shearing](https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn) | [September In The Rain](https://open.spotify.com/album/5b86ek4lKCKjQgEfCq3142) | 2:46 | 2022-01-20 |  |
 | [I'm Glad There Is You \- Remaster/2004](https://open.spotify.com/track/3P3S3sKYRZpm3Dc87VVKSy) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sextet](https://open.spotify.com/album/0B091u4NksUhGkql0oRF6u) | 3:14 | 2022-01-20 |  |
 | [It Ain't Necessarily So](https://open.spotify.com/track/1XjlS8YfcN2E4OJQ5CgOQC) | [Art Farmer & Benny Golson](https://open.spotify.com/artist/7wBmz5nj8jTmGvQXQC2EqT) | [Meet the Jazztet](https://open.spotify.com/album/56OywEvg2cq2C75EPzpGRc) | 4:30 | 2022-01-20 | 2022-07-29 |
-| [It Ain't Necessarily So](https://open.spotify.com/track/3kfsa9m8BoeKIyHPOOhwdg) | [Art Farmer & Benny Golson Jazztet](https://open.spotify.com/artist/2ZFVQjoQGBbNZ0quLUteyp) | [The Complete Argo Mercury Sessions](https://open.spotify.com/album/1VTJAf7legjTi6EOHHoxFG) | 4:29 | 2022-01-20 |  |
+| [It Ain't Necessarily So](https://open.spotify.com/track/1zzcXzjUaZhOhmdkG2idoR) | [Art Farmer & Benny Golson Jazztet](https://open.spotify.com/artist/2ZFVQjoQGBbNZ0quLUteyp) | [Meet The Jazztet](https://open.spotify.com/album/1rzC0pCbAfgH4RnYuP2CdB) | 4:29 | 2022-09-21 |  |
+| [It Ain't Necessarily So](https://open.spotify.com/track/3kfsa9m8BoeKIyHPOOhwdg) | [Art Farmer & Benny Golson Jazztet](https://open.spotify.com/artist/2ZFVQjoQGBbNZ0quLUteyp) | [The Complete Argo Mercury Sessions](https://open.spotify.com/album/1VTJAf7legjTi6EOHHoxFG) | 4:29 | 2022-01-20 | 2022-11-12 |
 | [It Could Happen To You](https://open.spotify.com/track/10fMVCkTiTE1sLvd5ypZTD) | [Bob Brookmeyer](https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN), [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [The Ivory Hunters](https://open.spotify.com/album/24rcDSSrgn13oqnqsuJH59) | 7:26 | 2022-01-20 |  |
 | [It Had To Be You \- Live At The Half Note, NYC, 1959](https://open.spotify.com/track/2qSaqU4oifGvpq4bP5VOyc) | [Zoot Sims](https://open.spotify.com/artist/1pwr5rTWLVfqhvHfB7Reap), [Al Cohn](https://open.spotify.com/artist/4yPUoMbYxVJ6XNJWZVJV7Y) | [Jazz Alive! A Night At The Half Note \(Live\)](https://open.spotify.com/album/7JG3HQ0se1jy6zJLQvHfrn) | 10:14 | 2022-01-20 |  |
 | [Jeru](https://open.spotify.com/track/7o3lr6ptQ4qAP4uUl81zG1) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Birth Of The Cool](https://open.spotify.com/album/0QWea2w5Y6pSoSWHuc7JMf) | 3:13 | 2022-01-20 |  |
+| [Just A\-Sittin' and A\-Rockin](https://open.spotify.com/track/2Vgi32wknPWeKICeBflun7) | [Kenny Burrell Octet](https://open.spotify.com/artist/4YxFlk2JYAuyhnHfWCXjLE) | [Fine Guitar Blues](https://open.spotify.com/album/3HddoGsRqY62Ngqum1RCZ9) | 4:20 | 2022-09-21 |  |
 | [Just A\-Sittin' And A\-Rockin'](https://open.spotify.com/track/6xchX3noTDiAYo3xbeo9Lc) | [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB) | [A Night At The Vanguard](https://open.spotify.com/album/0uZ93GcHxFj4e1PS2mT1Se) | 4:20 | 2022-01-20 | 2022-07-29 |
-| [Just A\-Sittin' And A\-Rockin' \- Live At The Village Vanguard, New York / 1959](https://open.spotify.com/track/7FtbDCBvrIY3slG5Dj9bl1) | [Kenny Burrell Trio](https://open.spotify.com/artist/1W2Oyg9ATMWvuc3cuf31BU) | [A Night At The Vanguard](https://open.spotify.com/album/6do9DeTC2oWB6Zj9yci6ra) | 4:20 | 2022-01-20 |  |
+| [Just A\-Sittin' And A\-Rockin' \- Live At The Village Vanguard, New York / 1959](https://open.spotify.com/track/7FtbDCBvrIY3slG5Dj9bl1) | [Kenny Burrell Trio](https://open.spotify.com/artist/1W2Oyg9ATMWvuc3cuf31BU) | [A Night At The Vanguard](https://open.spotify.com/album/6do9DeTC2oWB6Zj9yci6ra) | 4:20 | 2022-01-20 | 2022-11-12 |
 | [Just In Time](https://open.spotify.com/track/7mzzu8v59N90qkl9sRk1eF) | [Bud Shank](https://open.spotify.com/artist/2UuKUaomk3bZ0nHM3Y3FdW), [Bob Cooper](https://open.spotify.com/artist/4DnrmZA1htqVJxqycYIswK) | [Blowin' Country](https://open.spotify.com/album/6Gif5fN122j92QDgzgPSZM) | 3:45 | 2022-01-20 |  |
 | [Kathy's Waltz](https://open.spotify.com/track/5d8SK0Qq6S7vxfU85zHnrI) | [D\. Brubeck](https://open.spotify.com/artist/0HQ501eKb3lNaFMNDRbxHd), [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [THE MUSIC OF AMERICA: Inventing Jazz \- Dave Brubeck](https://open.spotify.com/album/0tFNTTbxmknMMpOheMzfTP) | 4:50 | 2022-09-21 |  |
 | [Kathy's Waltz](https://open.spotify.com/track/3XfaSRXfGuWT1rrn9lWx30) | [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [Time Out](https://open.spotify.com/album/0nTTEAhCZsbbeplyDMIFuA) | 4:47 | 2022-01-20 | 2022-11-11 |

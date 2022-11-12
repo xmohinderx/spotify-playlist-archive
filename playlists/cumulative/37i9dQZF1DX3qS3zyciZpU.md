@@ -4,7 +4,7 @@
 
 > Spencer Crandall is taking over to celebrate YOUR forever and the release of his new album Western!
 
-148 songs - 8 hr 48 min - [published](https://open.spotify.com/playlist/2tqwvqLztEVOvwl4EXM922)
+151 songs - 8 hr 59 min - [published](https://open.spotify.com/playlist/2tqwvqLztEVOvwl4EXM922)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,8 +63,9 @@
 | [Honey Bee](https://open.spotify.com/track/0gY2iq0xJPRoIB1PScKSw4) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Red River Blue \(Deluxe Edition\)](https://open.spotify.com/album/1WXCjIDp84rJN6Sa1Um9kJ) | 3:30 | 2021-09-17 |  |
 | [I Can Love You Like That](https://open.spotify.com/track/19lw4C2aW6TYvxqRsek2Kd) | [John Michael Montgomery](https://open.spotify.com/artist/7mPcfx7PhnBh6n4HMCd61A) | [John Michael Montgomery](https://open.spotify.com/album/5UPjyfi3zD7Oak7frjH8zk) | 3:55 | 2021-09-17 |  |
 | [I Cross My Heart](https://open.spotify.com/track/0nzAL0VNodLMlIh0Yl3eSN) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Best Of \(Deluxe Edition\)](https://open.spotify.com/album/2syxP3j7sO6A5NiRPt37H3) | 3:29 | 2021-09-17 |  |
-| [I Do](https://open.spotify.com/track/59GPuKaImwVCqcYRm1xrkY) | [Paul Brandt](https://open.spotify.com/artist/11Rb0Ax3Q2dZJ7jNlOvxxP) | [Calm Before the Storm](https://open.spotify.com/album/4FdWVE3DHKyWCdeNgEpEWR) | 3:40 | 2022-05-23 |  |
+| [I Do](https://open.spotify.com/track/59GPuKaImwVCqcYRm1xrkY) | [Paul Brandt](https://open.spotify.com/artist/11Rb0Ax3Q2dZJ7jNlOvxxP) | [Calm Before the Storm](https://open.spotify.com/album/4FdWVE3DHKyWCdeNgEpEWR) | 3:40 | 2022-05-23 | 2022-11-12 |
 | [I Do](https://open.spotify.com/track/5x1LJjXKVbaM3tkuuaiCPO) | [Paul Brandt](https://open.spotify.com/artist/11Rb0Ax3Q2dZJ7jNlOvxxP) | [Calm Before the Storm](https://open.spotify.com/album/3CRphZcbp9NRNXB5HI29su) | 3:40 | 2021-09-17 | 2022-07-29 |
+| [I Do](https://open.spotify.com/track/6jNl42p3RgPeqzc4m0M1fi) | [Paul Brandt](https://open.spotify.com/artist/11Rb0Ax3Q2dZJ7jNlOvxxP) | [What I Want To Be Remembered For](https://open.spotify.com/album/1mEzihyrWu7HPUxmhfquFk) | 3:40 | 2022-10-21 |  |
 | [I Don't Dance](https://open.spotify.com/track/5aj0xPGiEUN3aI2oOYu14S) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [I Don't Dance \(Deluxe Edition\)](https://open.spotify.com/album/2XIhZ9IjqoIN5V6dfKHzCn) | 3:41 | 2021-09-17 |  |
 | [I Hope You Dance](https://open.spotify.com/track/65B1tEOv5W294uCKbmEcFV) | [Lee Ann Womack](https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet) | [I Hope You Dance](https://open.spotify.com/album/5NwzdF5qHEtXT6SepzhWJv) | 4:54 | 2021-09-17 |  |
 | [I Loved Her First](https://open.spotify.com/track/0fZq48okuWkpAgjsWogAJ4) | [Heartland](https://open.spotify.com/artist/6B10yUcmUVw4RPKe6j58E9) | [I Loved Her First](https://open.spotify.com/album/6TrguRnEqy2RL8mB1n3Z33) | 3:32 | 2021-09-17 | 2022-07-29 |
@@ -77,7 +78,8 @@
 | [It Must Be Love](https://open.spotify.com/track/16OFkCrdYH524sqvTPt6CT) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [34 Number Ones](https://open.spotify.com/album/26w8J2SKCxa80Bwq6G8ctN) | 2:51 | 2021-09-17 |  |
 | [Just Got Started Lovin' You](https://open.spotify.com/track/4b0XF7CDpJEBAdVHMw7amV) | [James Otto](https://open.spotify.com/artist/3VStI6m5Ig9FAyUaa0lYAP) | [Sunset Man \(Standard Version\)](https://open.spotify.com/album/79uExtsVJH2aNcS2Xu4Cim) | 3:54 | 2021-09-17 |  |
 | [Long Haul](https://open.spotify.com/track/4q6L3Ca4YuLHWg8YZqfMvE) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [Long Haul](https://open.spotify.com/album/6hv9rSMxLukAg8nYVegpYL) | 3:51 | 2021-09-17 | 2022-07-29 |
-| [Long Haul](https://open.spotify.com/track/7nERlpaH7QghaO7jC60Xtu) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [Coyote Cry](https://open.spotify.com/album/5uQt9PVJIZvYjOL43EkOId) | 3:51 | 2022-05-23 |  |
+| [Long Haul](https://open.spotify.com/track/6WFhyQ6n43T6bWQgjtW3aX) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [Laidback Country](https://open.spotify.com/album/6HUfFgJtKTXSd9b9B4u1Pc) | 3:51 | 2022-10-21 |  |
+| [Long Haul](https://open.spotify.com/track/7nERlpaH7QghaO7jC60Xtu) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [Coyote Cry](https://open.spotify.com/album/5uQt9PVJIZvYjOL43EkOId) | 3:51 | 2022-05-23 | 2022-11-12 |
 | [Lost in This Moment](https://open.spotify.com/track/6WacAQkSA7QkEPnxse7WWw) | [Big & Rich](https://open.spotify.com/artist/0oBEeN6BCxEgMogzThqrPf) | [Between Raising Hell and Amazing Grace](https://open.spotify.com/album/76oQkM8XLvQ9yJzLCoEJt6) | 3:30 | 2021-09-17 |  |
 | [Love Song](https://open.spotify.com/track/0Rrvd39j2n5k92vwCPw9nc) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Revolution](https://open.spotify.com/album/3uczBfJFFSNjSiF8ScC1pA) | 2:49 | 2021-09-17 |  |
 | [Love Wins](https://open.spotify.com/track/6VcXUV6nNDhFHDxJbtNSWx) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Love Wins](https://open.spotify.com/album/29KdLwIDFZ8DSSgxOQ8kLa) | 3:48 | 2021-09-17 |  |
@@ -151,7 +153,8 @@
 | [Would You Go With Me](https://open.spotify.com/track/1KhrAWvLIjRlQIJtSTgvsi) | [Josh Turner](https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT) | [Your Man](https://open.spotify.com/album/5NATaOfEAcyQFATqWZRKLO) | 3:48 | 2021-09-17 |  |
 | [You](https://open.spotify.com/track/2xPV95cfbyusygMTxpa3SW) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Good Things](https://open.spotify.com/album/7L8IHgiomfEpxOm61vgPTm) | 3:16 | 2022-05-20 |  |
 | [You'll Always Be My Baby \(Written for Daughters' Weddings\)](https://open.spotify.com/track/4ayrjXvDcj4zCwqm0nfJFC) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [You'll Always Be My Baby \(Written For Daughters' Weddings\)](https://open.spotify.com/album/2Hkmg4CKcrtkFQ9c4hKbzK) | 3:46 | 2021-09-17 |  |
-| [You're Still The One](https://open.spotify.com/track/1wb4P4F0sxAQ2KXrRvsx6n) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9) | 3:32 | 2022-05-23 |  |
+| [You're Still The One](https://open.spotify.com/track/1wb4P4F0sxAQ2KXrRvsx6n) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9) | 3:32 | 2022-05-23 | 2022-11-12 |
+| [You're Still The One](https://open.spotify.com/track/3fOEldPK2dTA6C12PzrDtT) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Cleaning At Home \- Pop Edition](https://open.spotify.com/album/6APP9HoLEQFYYySdwgxC1G) | 3:32 | 2022-10-21 |  |
 | [You're Still The One](https://open.spotify.com/track/7wCH9DbgRs7ujHeqNy6oAS) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/0vOj0JVKv2bobFBBUTjgQF) | 3:32 | 2021-09-17 | 2022-07-29 |
 | [Your Man](https://open.spotify.com/track/1WzAeadSKJhqykZFbJNmQv) | [Josh Turner](https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT) | [Your Man](https://open.spotify.com/album/5NATaOfEAcyQFATqWZRKLO) | 3:31 | 2021-09-17 |  |
 | [Yours \- Wedding Edition](https://open.spotify.com/track/30AECxqqjI4oU91fOhAi8I) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Yours](https://open.spotify.com/album/6NxQDh433Rl4EQXT6QiQCE) | 3:36 | 2022-05-23 |  |

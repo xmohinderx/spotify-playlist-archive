@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "No need to wait!  Experience today's best Worship music right here, right now, on Spotify.  Cover:  Hope Darst",
+  "description": "No need to wait!  Experience today's best Worship music right here, right now, on Spotify.  Cover:  Matt Redman",
   "name": "WorshipNow",
   "published_playlist_ids": [
     "12yoI78Chtrh071OwGd6QO"
@@ -3178,6 +3178,24 @@
     },
     {
       "album": {
+        "name": "Make It Out Alive",
+        "url": "https://open.spotify.com/album/3AZuqbUj6FPdh2P5RZYBHi"
+      },
+      "artists": [
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252695,
+      "name": "Make It Out Alive",
+      "url": "https://open.spotify.com/track/42rZoc2XIzvotSs2tczSai"
+    },
+    {
+      "album": {
         "name": "Make Room",
         "url": "https://open.spotify.com/album/4Kb7uvu8D3kfYK71Hfe2if"
       },
@@ -4880,6 +4898,24 @@
     },
     {
       "album": {
+        "name": "The Praise Is Yours (Live)",
+        "url": "https://open.spotify.com/album/0PFT7MRtUwHHW7HdCaPkgD"
+      },
+      "artists": [
+        {
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336008,
+      "name": "The Praise Is Yours - Live",
+      "url": "https://open.spotify.com/track/4JdSYHUht9FFdTGOtSOKBY"
+    },
+    {
+      "album": {
         "name": "The Risen Lamb Of God",
         "url": "https://open.spotify.com/album/3HPUjxyWMwNYfaYBoIEmnn"
       },
@@ -5506,6 +5542,24 @@
     },
     {
       "album": {
+        "name": "Live in the Prayer Room",
+        "url": "https://open.spotify.com/album/2aGiv73UJKLLSjqE4Tvejd"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Riddle",
+          "url": "https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 449551,
+      "name": "We Crown You",
+      "url": "https://open.spotify.com/track/01BsgrD3uoUEhVxyCHc9r2"
+    },
+    {
+      "album": {
         "name": "We Have Hope (feat. Joe L Barnes, Jonathan Traylor & Lizzie Morgan)",
         "url": "https://open.spotify.com/album/5HEsUwF00ttejyWRaKN9UM"
       },
@@ -5669,7 +5723,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 253800,
       "name": "When The World Is Changing",
       "url": "https://open.spotify.com/track/5pfNUsrxG2LScu2mqGFvr8"

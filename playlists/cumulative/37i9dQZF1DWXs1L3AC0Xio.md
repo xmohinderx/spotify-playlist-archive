@@ -4,7 +4,7 @@
 
 > lighters up for these awesome rock ballads.
 
-147 songs - 10 hr 10 min - [published](https://open.spotify.com/playlist/5gPCFlQOL7ecJxKUUBWnZX)
+148 songs - 10 hr 14 min - [published](https://open.spotify.com/playlist/5gPCFlQOL7ecJxKUUBWnZX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [Maybe It's Time](https://open.spotify.com/track/474cWGKmOKwDTmMUAAF6kj) | [Sixx:A.M.](https://open.spotify.com/artist/3886aFez2HDLkio5tUzmP6) | [Prayers for the Blessed](https://open.spotify.com/album/3rxehUgLLUBibFH3iDioVe) | 4:21 | 2021-06-03 |  |
 | [Maybe It’s Time \(feat\. Corey Taylor, Joe Elliott, Brantley Gilbert, Ivan Moody, Slash, AWOLNATION, Tommy Vext\)](https://open.spotify.com/track/1rptK1oec3gjHpzzrxHyln) | [Sixx:A.M.](https://open.spotify.com/artist/3886aFez2HDLkio5tUzmP6), [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q), [Joe Elliott](https://open.spotify.com/artist/5Nbg0g30EwMpYD6jQ2xcfX), [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa), [Ivan Moody](https://open.spotify.com/artist/0IkXJjOYzNVtC7JByRI2cD), [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE), [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz), [Tommy Vext](https://open.spotify.com/artist/2eaZxHkhdNugJwlaKQWewj) | [Maybe It’s Time \(feat\. Corey Taylor, Joe Elliott, Brantley Gilbert, Ivan Moody, Slash, AWOLNATION, Tommy Vext\)](https://open.spotify.com/album/4ezpBhE0MTqAeuSPxoY4dY) | 4:14 | 2021-06-03 |  |
 | [My December](https://open.spotify.com/track/0fxGA5lxrdYNYoE7yJxTNZ) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Hybrid Theory \(Bonus Edition\)](https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM) | 4:20 | 2021-06-03 |  |
-| [My Immortal](https://open.spotify.com/track/4UzVcXufOhGUwF56HT7b8M) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Fallen](https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm) | 4:22 | 2022-07-22 |  |
+| [My Immortal](https://open.spotify.com/track/4UzVcXufOhGUwF56HT7b8M) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Fallen](https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm) | 4:22 | 2022-07-22 | 2022-11-12 |
 | [My Immortal \- Band Version](https://open.spotify.com/track/6MvGz9TuT9exMFmd6PoNso) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Fallen](https://open.spotify.com/album/20mh1X1FQQidKMu2XypyMI) | 4:33 | 2021-06-03 | 2022-07-29 |
 | [Never There](https://open.spotify.com/track/3ujzd7pcdAhILCnS3oGbaU) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Order In Decline](https://open.spotify.com/album/7j11BWRSLFBFUVR4EPG6WD) | 4:20 | 2022-07-22 |  |
 | [Never There](https://open.spotify.com/track/5k8kLXTx77H5Hiu3QkByg0) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Order In Decline](https://open.spotify.com/album/0GGHKJnkFE7PX8ToUPhVjU) | 4:20 | 2021-06-03 | 2022-07-29 |
@@ -113,6 +113,7 @@
 | [Roman Sky](https://open.spotify.com/track/06r4cRb2dnmCSyZ5MgEUGY) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [The Stage](https://open.spotify.com/album/0vINJeraREv5ySgWs57Dko) | 5:00 | 2022-07-22 | 2022-11-11 |
 | [Roman Sky](https://open.spotify.com/track/1cS6bhx9h565rLO0HuDtgu) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [The Stage](https://open.spotify.com/album/0jwnYwJz6XHNrVAYEclQPd) | 5:00 | 2021-06-03 | 2022-07-29 |
 | [Run Away to Mars](https://open.spotify.com/track/16ufCOlMEIJkFstIYtQT4w) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [Run Away to Mars](https://open.spotify.com/album/7zqg9wqNkkdLuaHDB3LU0W) | 3:33 | 2022-08-15 | 2022-08-27 |
+| [Run Away to Mars](https://open.spotify.com/track/2kzb2c50m1prBuB1m9rhTZ) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [HELGMYS](https://open.spotify.com/album/3T6WfgQ7b6evh5m2cHm81h) | 3:33 | 2022-10-07 |  |
 | [Run Away to Mars](https://open.spotify.com/track/6G1Mz5yMgn0ydOlIvTrZ65) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [Run Away to Mars](https://open.spotify.com/album/4ks1Xkpt67UXbJamJFZ8et) | 3:33 | 2022-08-15 | 2022-11-11 |
 | [Rx \(Medicate\)](https://open.spotify.com/track/2UZtI2HUyLRzqBjodvcUmY) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [Wake Up Call](https://open.spotify.com/album/1P2L7DD1DCqb0VfpMyByLl) | 3:53 | 2022-07-22 |  |
 | [Rx \(Medicate\)](https://open.spotify.com/track/7pV6zXFpCwrrmcosBAtp0o) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [Rx \(Medicate\)](https://open.spotify.com/album/1GAkFO17jNudCOK0v1EgiF) | 3:53 | 2021-06-03 | 2022-07-29 |

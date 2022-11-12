@@ -4,7 +4,7 @@
 
 > Estas canciones te pondrán en el mejor mood ever\. Foto: Taylor Swift
 
-153 songs - 8 hr 12 min - [published](https://open.spotify.com/playlist/76xYzwe3LjcbRjLOfIaNXp)
+155 songs - 8 hr 18 min - [published](https://open.spotify.com/playlist/76xYzwe3LjcbRjLOfIaNXp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,8 @@
 | [Evergreen \(You Didn’t Deserve Me At All\)](https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 | 2022-09-29 |  |
 | [Every Summertime](https://open.spotify.com/track/68HocO7fx9z0MgDU0ZPHro) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Every Summertime](https://open.spotify.com/album/2HPj0XZe9WduSsyKTQqgVa) | 3:35 | 2022-01-12 | 2022-03-09 |
 | [F U Anthem \(Fuck You Anthem\)](https://open.spotify.com/track/5VahNEYKPpQ65vXYipahyJ) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [What Just Happened?](https://open.spotify.com/album/257QBCiFw8K0YFITOhKv2J) | 2:35 | 2022-02-01 | 2022-02-22 |
-| [Fingers Crossed](https://open.spotify.com/track/3yMC1KsTwh0ceXdIe4QQAQ) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Fingers Crossed](https://open.spotify.com/album/7i5dqey54xo8F2flVer0yY) | 2:55 | 2022-06-27 |  |
+| [Fingers Crossed](https://open.spotify.com/track/00vGldARjYnPv2LPGUQHSC) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Pure Acoustic 2022](https://open.spotify.com/album/4DCIc6AsRGKdKLh2bDfQr0) | 2:55 | 2022-10-31 |  |
+| [Fingers Crossed](https://open.spotify.com/track/3yMC1KsTwh0ceXdIe4QQAQ) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Fingers Crossed](https://open.spotify.com/album/7i5dqey54xo8F2flVer0yY) | 2:55 | 2022-06-27 | 2022-11-12 |
 | [Fingers Crossed](https://open.spotify.com/track/5S9Zs5g9lTWnLIboN1pdlU) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Fingers Crossed](https://open.spotify.com/album/1UPlwdM0JYNwlDcKbeXrKZ) | 2:55 | 2022-01-12 | 2022-07-29 |
 | [fmk \(with blackbear\)](https://open.spotify.com/track/1hhMX7QQIhBsXjFmTK7owB) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [fmk \(with blackbear\)](https://open.spotify.com/album/2JATwGH1Izmuu47IcnfzSO) | 3:09 | 2022-09-21 | 2022-10-13 |
 | [Forget Me](https://open.spotify.com/track/5uSFGgIfHMT3osrAd9n9ym) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Forget Me](https://open.spotify.com/album/50IWCes196EP2nWO6i4I67) | 3:23 | 2022-09-21 | 2022-11-01 |
@@ -85,7 +86,8 @@
 | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/track/0mBP9X2gPCuapvpZ7TGDk3) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/album/4LyiYe4wZ6XwzUne79hidF) | 2:34 | 2022-06-27 | 2022-10-04 |
 | [Let Somebody Go \- Spotify Singles](https://open.spotify.com/track/4KiWjFLX5A3oUY40OL0FAh) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Spotify Singles](https://open.spotify.com/album/5WSVBLmTp6Fgjm2Dwyu3vr) | 4:03 | 2022-03-01 | 2022-04-28 |
 | [Life Goes On](https://open.spotify.com/track/0eu4C55hL6x29mmeAjytzC) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Ugly is Beautiful: Shorter, Thicker & Uglier \(Deluxe\)](https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob) | 2:41 | 2022-01-07 | 2022-08-18 |
-| [Light Switch](https://open.spotify.com/track/0F1TxVw4mWkqp9vJrnw65w) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Simply Feelgood](https://open.spotify.com/album/6r5uHLa2JBpivqjVTYZdiT) | 3:05 | 2022-10-31 |  |
+| [Light Switch](https://open.spotify.com/track/0F1TxVw4mWkqp9vJrnw65w) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Simply Feelgood](https://open.spotify.com/album/6r5uHLa2JBpivqjVTYZdiT) | 3:05 | 2022-10-31 | 2022-11-12 |
+| [Light Switch](https://open.spotify.com/track/0eXB93GUVd0jhjg8KZJ6af) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [FYP \- Viral Hits](https://open.spotify.com/album/15eWAxGQwHa8jozAYs6Xoc) | 3:05 | 2022-10-31 |  |
 | [Light Switch](https://open.spotify.com/track/1BSMpVGWs3v5BZKnAQziAc) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Light Switch](https://open.spotify.com/album/6PBwTu4IgZMQNTKtrgxzZQ) | 3:05 | 2022-01-24 | 2022-10-16 |
 | [Light Switch](https://open.spotify.com/track/1jEBSDN5vYViJQr78W7jr2) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [CHARLIE](https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt) | 3:07 | 2022-10-12 | 2022-11-11 |
 | [Loser](https://open.spotify.com/track/1BCXUbnU0486n4eeTyyVIj) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [CHARLIE](https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt) | 3:24 | 2022-10-12 |  |

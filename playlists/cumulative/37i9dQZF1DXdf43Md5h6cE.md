@@ -4,7 +4,7 @@
 
 > Fill your mind with music for dreaming, thinking and longing.
 
-98 songs - 7 hr 41 min - [published](https://open.spotify.com/playlist/3J3LPO0Z4tLv0nyKiEt64G)
+101 songs - 7 hr 47 min - [published](https://open.spotify.com/playlist/3J3LPO0Z4tLv0nyKiEt64G)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,8 @@
 | [Fiveless Accretion Pearl \(Desk Lamp Mix\)](https://open.spotify.com/track/2VJD2jBc1ATLkT5SY8T1Ea) | [Imaginary Softwoods](https://open.spotify.com/artist/7KUvseAKmkJLnTRikLsaPG) | [So Extra Bronze Lamp](https://open.spotify.com/album/2kat3SAlqfJWIeUMzEklAf) | 2:32 | 2022-05-19 |  |
 | [floating threads](https://open.spotify.com/track/1W1eiov7zPrmG35PpuGuFC) | [Be Still the Earth](https://open.spotify.com/artist/7FedGrros77uFxBy4PT8k6), [Antarctic Wastelands](https://open.spotify.com/artist/1VMHvHEatPJUkBcBqNe3D1) | [moon balloon](https://open.spotify.com/album/2yPY5BOOer5vs4J2FxWYbB) | 3:46 | 2022-09-23 |  |
 | [Forest and Thought](https://open.spotify.com/track/5snFRLT6VELgxABotZyMmi) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [Late in life](https://open.spotify.com/album/07TkGWGy2jWaol8Y5ZFd3R) | 5:01 | 2022-05-19 | 2022-09-24 |
+| [forgotten thoughts](https://open.spotify.com/track/4SL8NjHJQblUTL8seDLn5Z) | [MADEBYGODES](https://open.spotify.com/artist/4OXlZUkQMXImUKcUGuukhc), [Sedogy Bedam](https://open.spotify.com/artist/198xMLATWaPlxnxW6dzgWt) | [forgotten thoughts](https://open.spotify.com/album/5SSlX0rvu6QrkQmjLi3nMK) | 1:36 | 2022-11-11 |  |
+| [forgotten thoughts, but it's slowed & reverb](https://open.spotify.com/track/1TbF2VK8UEv0Y92YZHYw0O) | [MADEBYGODES](https://open.spotify.com/artist/4OXlZUkQMXImUKcUGuukhc), [Sedogy Bedam](https://open.spotify.com/artist/198xMLATWaPlxnxW6dzgWt) | [forgotten thoughts](https://open.spotify.com/album/5SSlX0rvu6QrkQmjLi3nMK) | 1:52 | 2022-11-11 |  |
 | [Forms](https://open.spotify.com/track/1bOHmmrh740p2MfJTs7kyw) | [Cardamom](https://open.spotify.com/artist/6GE1lOueuEqo5mZhGNrEOl) | [Forms](https://open.spotify.com/album/4zJyzTHbVAZOYfX8kXlGPO) | 3:00 | 2022-05-19 |  |
 | [Frozen Sunlight \- Music Only](https://open.spotify.com/track/4IG0iveYAR1U0WL1YW60ad) | [Sun Echo](https://open.spotify.com/artist/4jhzzWw1hUD1WeZT73WW4D) | [Frozen Sunlight](https://open.spotify.com/album/585o7QhQ8LporxUlnbMR8b) | 3:30 | 2022-10-14 |  |
 | [Gentle Flow](https://open.spotify.com/track/5DsQEpDxcQXXbLyfPsLVFv) | [Astral Wonder](https://open.spotify.com/artist/24JkKS4b8yp9usUXPL0I3G) | [Gentle Flow](https://open.spotify.com/album/0ww0IvjnA5SWBjhUECPgC6) | 3:29 | 2022-07-08 |  |
@@ -88,6 +90,7 @@
 | [Skymning](https://open.spotify.com/track/6Ywas6l9JyqXWDS1PKmzj6) | [Signe Golin](https://open.spotify.com/artist/3CBETDmJHF7pJ4ENoSfs3Z) | [Skymning](https://open.spotify.com/album/2OBSjVmSk1vvXn98hgfo70) | 2:34 | 2022-08-19 |  |
 | [Sleet](https://open.spotify.com/track/1e3ZjpUwm6yRzVaqIIHWdc) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Void XVIII](https://open.spotify.com/album/0izMZjzGPz8KAZayecUQW7) | 8:28 | 2022-07-22 |  |
 | [Sleet](https://open.spotify.com/track/6pfrUVPhrk2qe9BtVOeXwq) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Void XVIII](https://open.spotify.com/album/6KSHRNQJG4N4m3KHA29foi) | 8:28 | 2022-05-19 | 2022-07-29 |
+| [Spheroidal](https://open.spotify.com/track/1vxzqff8m6YqPRt2LmWND5) | [Relax Yourself](https://open.spotify.com/artist/1oXaoCbLY1YghAsNg046iY) | [Spheroidal](https://open.spotify.com/album/0lBQfzaDx2ZqdsNVwatO9h) | 2:15 | 2022-11-11 |  |
 | [Stepping Into Awareness \(Instrumental\)](https://open.spotify.com/track/1tj6iPD0KyAKSQJNebSe6W) | [Superposition](https://open.spotify.com/artist/7B74HjlZ4Kiy6oKndiiRqL) | [Presence \(Instrumentals\)](https://open.spotify.com/album/3VGeGqWVDT6QUFHBQkEdpA) | 8:06 | 2022-05-19 |  |
 | [Sun Ascent](https://open.spotify.com/track/7aKvmuUzQTPR63CCqNyheE) | [Endel](https://open.spotify.com/artist/3JNr31WfX56vgwBuIcdOt4) | [Relax: Easy Morning](https://open.spotify.com/album/7oCTqkeHvRY1umJzPhVFD5) | 3:39 | 2022-07-08 |  |
 | [Sunrise on the Mississippi](https://open.spotify.com/track/5CUVMOya16zes7XHR8Kja7) | [Darshan Ambient](https://open.spotify.com/artist/711EaFigHKV5CTbjIYWswu) | [Fire Light](https://open.spotify.com/album/2fj4Z9IkqS9SK3lOeeHrY3) | 4:09 | 2022-09-20 |  |

@@ -4,7 +4,7 @@
 
 > ملتقي أصوات النساء العربيات! الغلاف: سميرة سعيد
 
-191 songs - 11 hr 49 min - [published](https://open.spotify.com/playlist/4sPCQKTRNsZk6fb72kPu7x)
+192 songs - 11 hr 52 min - [published](https://open.spotify.com/playlist/4sPCQKTRNsZk6fb72kPu7x)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,9 +14,10 @@
 | [3alamat](https://open.spotify.com/track/7FcVmpt7UsJIAw0MQrTiyK) | [Marwa Nasr](https://open.spotify.com/artist/2744sbD3ugMpXydtIG9KE8) | [3alamat](https://open.spotify.com/album/0BDnhdKk2G3NqtVn7UhGJ3) | 2:43 | 2022-04-08 | 2022-07-29 |
 | [3shqi 3shqi](https://open.spotify.com/track/2ijiMws0XoGBkiHhnWeR0R) | [Assala Al Majidi](https://open.spotify.com/artist/2pTl8ndSxB3HXTCkpyxD9D) | [3shqi 3shqi](https://open.spotify.com/album/0oAAOShXtjTUAekbYxWjTw) | 3:14 | 2022-04-08 |  |
 | [A Ya Lil](https://open.spotify.com/track/1nRjVOFLduo55lFamOinIy) | [Ily](https://open.spotify.com/artist/5GKXGt2OyYH2Lw5GpPM8fa) | [A Ya Lil](https://open.spotify.com/album/6HyMqrphwTj72BhRE91Wmg) | 2:29 | 2022-04-08 |  |
+| [Aal Hob Rooh w Sallimli](https://open.spotify.com/track/0RUDIa4tOnST24USIXuyyV) | [Nesreen Tafesh](https://open.spotify.com/artist/4e4G7w1BJQ3qpfpsKf6wg2) | [Aal Hob Rooh w Sallimli](https://open.spotify.com/album/0M5qhGTUrD1KSN7cHIRGUt) | 3:26 | 2022-11-08 |  |
 | [Aal Hob Rooh W Sallimli](https://open.spotify.com/track/1BK9u4OhQv18WPfvGuzTym) | [Nesreen Tafesh](https://open.spotify.com/artist/4e4G7w1BJQ3qpfpsKf6wg2) | [Aal Hob Rooh W Sallimli](https://open.spotify.com/album/78KVbthYIQhnsTksWTaHQ2) | 3:26 | 2022-04-08 | 2022-07-29 |
 | [Aget Adela](https://open.spotify.com/track/6Fz3Ijzsjji0RJ5P0JeX4b) | [Esraa El Aseel](https://open.spotify.com/artist/7wEhCzPMEcxkQGBljv8wuK) | [Aget Adela](https://open.spotify.com/album/4kDWL9L0FuaU7TbfQMVcUO) | 3:39 | 2022-04-08 |  |
-| [Ahki Maa Hali](https://open.spotify.com/track/2wiS0tTZ5QXJLZPdpg4QX9) | [Rahma Riad](https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx) | [Ahki Maa Hali](https://open.spotify.com/album/3MXjfAx5PtcqKxkpbXtod8) | 3:18 | 2022-04-08 | 2022-07-28 |
+| [Ahki Maa Hali](https://open.spotify.com/track/2wiS0tTZ5QXJLZPdpg4QX9) | [Rahma Riad](https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx) | [Ahki Maa Hali](https://open.spotify.com/album/3MXjfAx5PtcqKxkpbXtod8) | 3:18 | 2022-04-08 |  |
 | [Aktar Shewaya](https://open.spotify.com/track/31jm2OsyfhnU3uklUnWWsB) | [Maya Diab](https://open.spotify.com/artist/4b5UHpUmrPycvsgu2M3ujz) | [Aktar Shewaya](https://open.spotify.com/album/7iTyA5W1HKLQ3Mkzogu1WT) | 2:48 | 2022-04-08 |  |
 | [Al Mhabeh](https://open.spotify.com/track/78ASqZBbK8jyMeGZbd30Ds) | [Oumaima Taleb](https://open.spotify.com/artist/0SGQMQQEypFWC2f4ei4nZe) | [Al Mhabeh](https://open.spotify.com/album/23SbmX08uOJQXqeBrIYYhi) | 3:58 | 2022-04-08 | 2022-07-29 |
 | [Al Sourah](https://open.spotify.com/track/4wx0IYEDJhN0ghC1QtqocW) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Al Sourah](https://open.spotify.com/album/24aRGx287iB3Y1OUuM3Z3T) | 4:19 | 2022-04-08 |  |
@@ -77,7 +78,7 @@
 | [Fil Lail](https://open.spotify.com/track/64kEs3TmxItCXxNWtoEhco) | [Nouran AbuTaleb](https://open.spotify.com/artist/0b8NJrWFSqne10bMREfuQh) | [Fil Lail](https://open.spotify.com/album/2fb3xGUCZ3yLQ0wX4mg7bv) | 4:13 | 2022-04-08 |  |
 | [Galbi](https://open.spotify.com/track/1TB1bCnz4Q50H17LdzBpJR) | [Arwa](https://open.spotify.com/artist/25vaZT076LoTTwM5BZ6Dmn) | [Galbi](https://open.spotify.com/album/0H9U0Wg0iY1oGjk3BWwJ47) | 3:07 | 2022-04-08 | 2022-07-28 |
 | [Galbi Tlef](https://open.spotify.com/track/75uPMqyybZN0jPzfV93a9E) | [Ibtissam Tiskat](https://open.spotify.com/artist/4l1fokkgiLZQg1qx0kkKrm) | [Galbi Tlef](https://open.spotify.com/album/02dB6JX78mIrKolDkwiS9q) | 3:04 | 2022-04-08 |  |
-| [Ghyabe Wagaak](https://open.spotify.com/track/1XePTZCLsOggdc8ABNl81J) | [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD) | [Ghyabe Wagaak](https://open.spotify.com/album/72Lvo8ez65pAReNdGyCPkv) | 4:06 | 2022-04-08 | 2022-11-06 |
+| [Ghyabe Wagaak](https://open.spotify.com/track/1XePTZCLsOggdc8ABNl81J) | [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD) | [Ghyabe Wagaak](https://open.spotify.com/album/72Lvo8ez65pAReNdGyCPkv) | 4:06 | 2022-04-08 |  |
 | [Go\-Ahead](https://open.spotify.com/track/7dJ90WUWkUhVftovR92Zjs) | [Emy Hetari](https://open.spotify.com/artist/0KwPocJ1I0Lzrfs4uCQ3D0) | [Go\-Ahead](https://open.spotify.com/album/59bUsavlETDylQVUQhXYcA) | 3:16 | 2022-04-08 | 2022-07-29 |
 | [Hadrat El Walhan](https://open.spotify.com/track/0NFYjeH5IavHNEqJkciJR6) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Hadrat El Walhan](https://open.spotify.com/album/4KlOIXdhTKjuExCP6bTn6m) | 4:05 | 2022-09-22 |  |
 | [Haga Wahda](https://open.spotify.com/track/2ZTvXg1K0WkXdrpByVVjhf) | [Bushra](https://open.spotify.com/artist/2X14AwILJGdfg4YoiWOKra) | [Haga Wahda](https://open.spotify.com/album/0dsTRGZYG07RdME01EuVXs) | 3:03 | 2022-04-08 | 2022-07-29 |
@@ -107,7 +108,7 @@
 | [Kol Shams W Liha Del](https://open.spotify.com/track/0ctwrNGbqdhBBDhYm7VEV6) | [Nesma Mahgoub](https://open.spotify.com/artist/68J05BuI8JQSdEwIyuBBVI) | [Kol Shams W Liha Del](https://open.spotify.com/album/1ACwZETQMrDDeP2wlPo1TH) | 3:09 | 2022-07-21 |  |
 | [Korbag](https://open.spotify.com/track/0gBY3xJ8eig3YWnbASh5Xy) | [Samira Said](https://open.spotify.com/artist/5zHWEsVHtXWQRxPqwJdUYD) | [Korbag](https://open.spotify.com/album/5bNkoDJ2IKDVJu6sNcgzXt) | 3:18 | 2022-08-23 |  |
 | [La Zhar La Mektoub](https://open.spotify.com/track/5n3zeMcQpsOLdUINIVtF2N) | [Fatima Zahra Laaroussi](https://open.spotify.com/artist/0bU3oL3uow8qjpD2YL3Mr1) | [La Zhar La Mektoub](https://open.spotify.com/album/3N6L8BP1VU8RceCFRx5Miz) | 4:09 | 2022-04-08 | 2022-07-28 |
-| [La Zher La Maktoub](https://open.spotify.com/track/5sYkyX02CapaYwK5qJRZSt) | [Fatima Zahra Laaroussi](https://open.spotify.com/artist/0bU3oL3uow8qjpD2YL3Mr1) | [La Zher La Maktoub](https://open.spotify.com/album/02rqEUJDvQLYeRVzON38Qq) | 4:09 | 2022-07-21 |  |
+| [La Zher La Maktoub](https://open.spotify.com/track/5sYkyX02CapaYwK5qJRZSt) | [Fatima Zahra Laaroussi](https://open.spotify.com/artist/0bU3oL3uow8qjpD2YL3Mr1) | [La Zher La Maktoub](https://open.spotify.com/album/02rqEUJDvQLYeRVzON38Qq) | 4:09 | 2022-07-21 | 2022-11-12 |
 | [Lahfet Msafer](https://open.spotify.com/track/0H0hYeozgRiIiidSlFelW5) | [Hanan Redha](https://open.spotify.com/artist/5AFPjqv26lWXQt2UR5BuGV) | [Lahfet Msafer](https://open.spotify.com/album/7p2WXfnhVkOlJf2Z5pl2mo) | 4:33 | 2022-04-08 | 2022-07-29 |
 | [Layali Omri](https://open.spotify.com/track/5CMxtuHpGh356k9gRCwRrM) | [Melissa](https://open.spotify.com/artist/1KIdKvZjMZgx7QA2DJ0pBn) | [Layali Omri](https://open.spotify.com/album/1C94CUMrlye5nH1MFpPbCp) | 3:18 | 2022-04-08 | 2022-07-29 |
 | [Layliyi](https://open.spotify.com/track/0IbG7THwXS3RoswP8OLTOR) | [Maya Diab](https://open.spotify.com/artist/4b5UHpUmrPycvsgu2M3ujz) | [Layliyi](https://open.spotify.com/album/6A5CSUAGJMITw2MlrzUYBC) | 3:27 | 2022-04-08 |  |
@@ -154,7 +155,7 @@
 | [Tholami](https://open.spotify.com/track/0nzTbIlYLklyyVKk58ryYc) | [شيمي](https://open.spotify.com/artist/6x8vq4QX1MQjqasHWpMWhw) | [Tholami](https://open.spotify.com/album/2AGYrWJihiTsyJz6lpLj7m) | 3:20 | 2022-04-08 |  |
 | [Tra Haqi](https://open.spotify.com/track/6AquUqs6BnFxrEjHICtv80) | [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD) | [Tra Haqi](https://open.spotify.com/album/2kZN8xpx72cfkeZ4HkWFHF) | 6:03 | 2022-04-08 |  |
 | [Waed Menni](https://open.spotify.com/track/3dcwxdRMi8nSODD4r5dKsb) | [Rahma Riad](https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx) | [Waed Menni](https://open.spotify.com/album/46ue050agOKXdpUw2QZyJE) | 3:50 | 2022-04-08 | 2022-07-26 |
-| [Waed Menni](https://open.spotify.com/track/3nMPlw2fMXGpbNSwZS7BBd) | [Rahma Riad](https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx) | [Waed Menni](https://open.spotify.com/album/02yAqFYNR8ABy56nQWBTNE) | 3:50 | 2022-07-21 |  |
+| [Waed Menni](https://open.spotify.com/track/3nMPlw2fMXGpbNSwZS7BBd) | [Rahma Riad](https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx) | [Waed Menni](https://open.spotify.com/album/02yAqFYNR8ABy56nQWBTNE) | 3:50 | 2022-07-21 | 2022-11-12 |
 | [Wahda Wahda](https://open.spotify.com/track/3CTjHSDqf0X49TmRSxaG4T) | [شيمي](https://open.spotify.com/artist/6x8vq4QX1MQjqasHWpMWhw) | [Wahda Wahda](https://open.spotify.com/album/2GfNHV6Jme9rnDNZw4zpi9) | 3:53 | 2022-04-08 |  |
 | [Wakfa](https://open.spotify.com/track/2rFOK6Wat6QKb3uqsXURgq) | [Souad Massi](https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k) | [Oumniya](https://open.spotify.com/album/6GQNw3LhEnt6mekhNDafAK) | 4:50 | 2022-04-08 | 2022-06-30 |
 | [Watani Li Jayi](https://open.spotify.com/track/53dJCsOBOr6zks7A9qncVZ) | [Maya Diab](https://open.spotify.com/artist/4b5UHpUmrPycvsgu2M3ujz) | [Watani Li Jayi](https://open.spotify.com/album/0itFgJembtYiLCN4GXzoiA) | 4:07 | 2022-04-08 |  |
@@ -176,7 +177,7 @@
 | [Yazid Alhama](https://open.spotify.com/track/59ZuKOZER5zP4dCUe1U6wM) | [Saria Al Sawas](https://open.spotify.com/artist/3FxDJmY1Dj5bgaGunLoyaZ) | [يزيد الهم](https://open.spotify.com/album/29D1k5ambOiIO7J9KuQzCf) | 4:40 | 2022-06-02 |  |
 | [Zaamat Naamat \- Leadership and Sheep](https://open.spotify.com/track/3NPC89hv3EYrJtTGjWUUO8) | [Mira Awad](https://open.spotify.com/artist/0hlFOvtSOFXtPmTfOt2XpP) | [Zaamat Naamat \(Leadership and Sheep\)](https://open.spotify.com/album/4JfAFXnZuF5adHNwos52Hs) | 3:16 | 2022-04-08 | 2022-07-29 |
 | [Zuruni](https://open.spotify.com/track/1n1Qfej8CS4L0xX5niQpxU) | [Dana Hourani](https://open.spotify.com/artist/15hYqWGQsqwtFi7FgLE4i6) | [Zuruni](https://open.spotify.com/album/2pFIooMgMqaHfgHeqwSb0g) | 3:09 | 2022-04-08 | 2022-07-29 |
-| [Zuruni](https://open.spotify.com/track/0dW503oQBCoCcwl2uTvnr6) | [Dana Hourani](https://open.spotify.com/artist/15hYqWGQsqwtFi7FgLE4i6) | [Ensanein](https://open.spotify.com/album/38MJVqssjkHcmUZKM9ERUt) | 3:09 | 2022-07-21 |  |
+| [Zuruni](https://open.spotify.com/track/0dW503oQBCoCcwl2uTvnr6) | [Dana Hourani](https://open.spotify.com/artist/15hYqWGQsqwtFi7FgLE4i6) | [Ensanein](https://open.spotify.com/album/38MJVqssjkHcmUZKM9ERUt) | 3:09 | 2022-07-21 | 2022-11-12 |
 | [أسيب نفسي وأغنى](https://open.spotify.com/track/2vPWM7HRQqv54d34itTpTS) | [Donia Samir Ghanem](https://open.spotify.com/artist/1ieloBuwzXdMn9VPOufDvB) | [أسيب نفسي وأغنى](https://open.spotify.com/album/0kg0psLhvJNYNSowHPiti6) | 4:43 | 2022-08-08 |  |
 | [أنساك](https://open.spotify.com/track/7Kt2dIB6IvPUs2qSdPRw8X) | [Layla Rina](https://open.spotify.com/artist/1T6zSTnrsGeN5HwgwcGTnt) | [أنساك](https://open.spotify.com/album/1FjKSu7MPy5dDQrA7FpFbn) | 3:52 | 2022-04-08 | 2022-06-03 |
 | [اصعد للكمر](https://open.spotify.com/track/6ZKcyeppoycSkUn2FNPco2) | [Rahma Riad](https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx) | [اصعد للكمر](https://open.spotify.com/album/4IpLAgv5vUkUT9yX2LK3QA) | 3:04 | 2022-07-21 |  |

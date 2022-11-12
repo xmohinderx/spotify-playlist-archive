@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWyCCtyRAvGr.md) - [plain]
 
 > A relaxing evening with a smooth glass never sounded so good\. Hit play and let the room fill with some of the classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,089 likes - 50 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,256 likes - 50 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWyCCtyRAvGr.md) - [plain]
 | 9 | [Midnight Healing](https://open.spotify.com/track/4RKoKePOnKpRlR68xyBQCn) | [Gene Deer](https://open.spotify.com/artist/2eIkIIArGbSEVLzC0rHxGV) | [Soul Tender](https://open.spotify.com/album/1LSwdjVS3iXgNAru0Ly5Vn) | 7:39 |
 | 10 | [She's Crazy](https://open.spotify.com/track/5tRNgEl5hyFr7E2Adt7dhT) | [JT Coldfire](https://open.spotify.com/artist/2ddJt0lQSRzczoG6Yx728j) | [Crazy Sun](https://open.spotify.com/album/0vFy82Bq3HTvNnI5nVVztE) | 5:23 |
 | 11 | [Little Red Rooster](https://open.spotify.com/track/3Gq3uFAdJltar4ddwboPby) | [Willie Dixon](https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY) | [Poet Of the Blues \(Mojo Workin'\- Blues For The Next Generation\)](https://open.spotify.com/album/5kOOtdwY3JI17osYqWEbnD) | 3:35 |
-| 12 | [Lucille](https://open.spotify.com/track/4ZSJs1cqeincEi2KjUGmZC) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Lucille](https://open.spotify.com/album/5aowahjEeRgbLALRPb9a2s) | 10:16 |
-| 13 | [Need Her So Bad](https://open.spotify.com/track/1Msf1vU7lpnbqUDxj6HpnW) | [Aynsley Lister](https://open.spotify.com/artist/7hueZY91Csxv57p4KnPVcU) | [Everything I Need](https://open.spotify.com/album/6XGCDSommzsbG2lDSldCEy) | 7:00 |
+| 12 | [Need Her So Bad](https://open.spotify.com/track/1Msf1vU7lpnbqUDxj6HpnW) | [Aynsley Lister](https://open.spotify.com/artist/7hueZY91Csxv57p4KnPVcU) | [Everything I Need](https://open.spotify.com/album/6XGCDSommzsbG2lDSldCEy) | 7:00 |
+| 13 | [Lucille](https://open.spotify.com/track/4ZSJs1cqeincEi2KjUGmZC) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Lucille](https://open.spotify.com/album/5aowahjEeRgbLALRPb9a2s) | 10:16 |
 | 14 | [Whiskey And Wimmen'](https://open.spotify.com/track/2FbLpNNlImB5mqCHgVIG1c) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x), [Canned Heat](https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU) | [Hooker 'N Heat](https://open.spotify.com/album/0D0s7xWS9xH5x2PXO4fVw3) | 4:37 |
 | 15 | [All Your Love](https://open.spotify.com/track/73GEVn1tqk9bn0KbtWsiqj) | [Magic Sam](https://open.spotify.com/artist/0XErJwG6aCEj7NpKsEZrrO) | [The Essential Magic Sam: The Cobra and Chief Recordings 1957\-1961](https://open.spotify.com/album/5pwsqaIx7UFtjXU3HiF1Nv) | 2:56 |
 | 16 | [You Don't Want Me](https://open.spotify.com/track/6ECnAHxGQilDe32zQqfdz3) | [Earl Hooker](https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O) | [Two Bugs and a Roach](https://open.spotify.com/album/4IWaRuc8RGDetpOm5Bv4Ho) | 5:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWyCCtyRAvGr.md) - [plain]
 | 49 | [One Scotch, One Bourbon, One Beer](https://open.spotify.com/track/0l33ve0XHG5XxKwMQPKcZk) | [Delbert McClinton](https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU) | [One Scotch, One Bourbon, One Beer](https://open.spotify.com/album/7uDIaa0VUbDhhEA4CkqNN6) | 3:12 |
 | 50 | [Go Easy](https://open.spotify.com/track/3owiWE0J2144puM4MB1lxK) | [Willie Dixon](https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY), [Memphis Slim](https://open.spotify.com/artist/5g1Gv9riN5BH4WVnanO1Ia) | [Willie's Blues](https://open.spotify.com/album/3fuRLaRuxNjjBxZILt5ABV) | 5:54 |
 
-Snapshot ID: `MTY2NTc2Mjk2MiwwMDAwMDAwMDEwNzc5YjBiNzUyZGY0ZmM4ZTZkNTJlZjdlYmMxZDhi`
+Snapshot ID: `MTY2NTc2Mjk2MiwwMDAwMDAwMDY4ZDA0NWNlZjdmNGU3MTRkZjU1OTBhNzQwZDU5Njg0`

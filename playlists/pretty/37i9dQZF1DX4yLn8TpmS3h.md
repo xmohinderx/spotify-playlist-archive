@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yLn8TpmS3h.md) - [plain]
 | 22 | [We Can't Stop](https://open.spotify.com/track/2y4lAQpi5VTNLu2ldeTdUH) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Bangerz \(Deluxe Version\)](https://open.spotify.com/album/3RDqXDc1bAETps54MSSOW0) | 3:51 |
 | 23 | [Digital Witness](https://open.spotify.com/track/2p8sv5dTbY1RKRUfdkyNEm) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Pastel Goth](https://open.spotify.com/album/0qMJpB1ZbVLU0p0RkrNyQN) | 3:21 |
 | 24 | [GOT IT GOOD](https://open.spotify.com/track/7pttGrC2YJYQ997ZryXGCG) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [99.9%](https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa) | 3:48 |
-| 25 | [Worship](https://open.spotify.com/track/4LSaXsi2dyhdKGF6wPsHst) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Communion \(Deluxe\)](https://open.spotify.com/album/09mWpzpUOSjjvK2iNqEIYn) | 3:41 |
+| 25 | [Worship](https://open.spotify.com/track/1txEdeRJzbUQQMlTpSODtD) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Electropop Hits](https://open.spotify.com/album/4ZWW2IRnYtfazzqrELSr0h) | 3:41 |
 | 26 | [Son of a Preacher Man](https://open.spotify.com/track/7odHgoLFi3GQ90E9PeraI3) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Dusty In Memphis \[Deluxe Edition\]](https://open.spotify.com/album/6SNMenG3NjZyqgI5p4Hcmg) | 2:29 |
 
-Snapshot ID: `MTQ5Njc4NDc2OSwwMDAwMDAwMGY1NmJlNzg4YmI1YjM4NzUxYWZmMmU4YjYyYzA5M2Ri`
+Snapshot ID: `MTQ5Njc4NDc2OSwwMDAwMDAwMDI5YjZhZmRmN2QzNWUxYTRhNzZhMjE5Zjk0ZTJiY2Y1`

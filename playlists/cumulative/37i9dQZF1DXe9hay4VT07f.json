@@ -615,7 +615,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 135640,
       "name": "Drinking Rum",
       "url": "https://open.spotify.com/track/0xezj8YX96S7m4fCDwCIoJ"
@@ -1211,6 +1211,24 @@
     {
       "album": {
         "name": "I Am Blessed",
+        "url": "https://open.spotify.com/album/2OBChPG9zg8lu4XL3UgY0A"
+      },
+      "artists": [
+        {
+          "name": "Mr. Vegas",
+          "url": "https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188893,
+      "name": "I Am Blessed",
+      "url": "https://open.spotify.com/track/1gpA7IZTNvrL6DUuc4qDPx"
+    },
+    {
+      "album": {
+        "name": "I Am Blessed",
         "url": "https://open.spotify.com/album/7MLvg7HxZlAAmHkmR5mRL9"
       },
       "artists": [
@@ -1221,7 +1239,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 188893,
       "name": "I Am Blessed",
       "url": "https://open.spotify.com/track/4yf5YQEy4sfkRtfuNVLPJ6"
@@ -1820,6 +1838,24 @@
     },
     {
       "album": {
+        "name": "Top Prize",
+        "url": "https://open.spotify.com/album/4d6EnDzUrDot75g66ClShl"
+      },
+      "artists": [
+        {
+          "name": "Alkaline",
+          "url": "https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163800,
+      "name": "Ocean Wave",
+      "url": "https://open.spotify.com/track/6NSRwKmFyhNGPy54LWpFUv"
+    },
+    {
+      "album": {
         "name": "Soul Survivor Riddim",
         "url": "https://open.spotify.com/album/7acAQDsVCREjceQG3ZcT9o"
       },
@@ -1831,7 +1867,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 163866,
       "name": "Ocean Wave",
       "url": "https://open.spotify.com/track/4eTwvH4pVt5U4kPfYgQQ19"
@@ -2256,6 +2292,32 @@
     },
     {
       "album": {
+        "name": "Rum & Redbull",
+        "url": "https://open.spotify.com/album/3og1VflDWwrGfXysXRzdcR"
+      },
+      "artists": [
+        {
+          "name": "Beenie Man",
+          "url": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
+        },
+        {
+          "name": "Future Fambo",
+          "url": "https://open.spotify.com/artist/6iGnMrpoPy3fPn2JwawcUI"
+        },
+        {
+          "name": "Seanizzle",
+          "url": "https://open.spotify.com/artist/4WYP9l7S3oTiE2Pb8awwOX"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135640,
+      "name": "Rum & Redbull",
+      "url": "https://open.spotify.com/track/3rcdpymBJXEExx2YcZbjMU"
+    },
+    {
+      "album": {
         "name": "Run Run",
         "url": "https://open.spotify.com/album/1H6H54RJH3fGexhTOyzIBr"
       },
@@ -2645,6 +2707,24 @@
     {
       "album": {
         "name": "Top Prize",
+        "url": "https://open.spotify.com/album/71X130a6rDyfFgOsIMX1on"
+      },
+      "artists": [
+        {
+          "name": "Alkaline",
+          "url": "https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192500,
+      "name": "Top Prize",
+      "url": "https://open.spotify.com/track/0QtGz0BVckR9AIUke9wdKH"
+    },
+    {
+      "album": {
+        "name": "Top Prize",
         "url": "https://open.spotify.com/album/0ilTzFiPldFMIxfRNDFOxq"
       },
       "artists": [
@@ -2655,7 +2735,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 192500,
       "name": "Top Prize",
       "url": "https://open.spotify.com/track/4Ku4NfHQafSvZXW0kme5KJ"

@@ -4,7 +4,7 @@
 
 > Check out the official playlist from Umbrella Academy\. Watch now on Netflix.
 
-108 songs - 6 hr 53 min - [published](https://open.spotify.com/playlist/7b1BQYuQIj2i5nZNS1UeKq)
+110 songs - 7 hr 2 min - [published](https://open.spotify.com/playlist/7b1BQYuQIj2i5nZNS1UeKq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,8 +32,9 @@
 | [Do You Believe in Magic?](https://open.spotify.com/track/1udKn1oNKYQSQ9OmiIWCMu) | [The Lovin' Spoonful](https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe) | [Do you Believe In Magic](https://open.spotify.com/album/5bx2ZHa0KUDMD5T0r9V030) | 2:05 | 2022-06-22 |  |
 | [Don't Stop Me Now \- Remastered 2011](https://open.spotify.com/track/7hQJA50XrCWABAu5v6QZ4i) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Jazz \(Deluxe Remastered Version\)](https://open.spotify.com/album/21HMAUrbbYSj9NiPPlGumy) | 3:29 | 2022-06-17 |  |
 | [Everybody \(Backstreet's Back\) \- Extended Version](https://open.spotify.com/track/5WTxbyWTpoqhdxEN2szOnl) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Backstreet Boys](https://open.spotify.com/album/0wvQovgaVU99eqw8n3g22S) | 4:47 | 2022-06-17 |  |
-| [Exit Music \(For A Film\)](https://open.spotify.com/track/0z1o5L7HJx562xZSATcIpY) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 4:27 | 2022-06-17 |  |
+| [Exit Music \(For A Film\)](https://open.spotify.com/track/0z1o5L7HJx562xZSATcIpY) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 4:27 | 2022-06-17 | 2022-11-12 |
 | [Exit Music \(For a Film\)](https://open.spotify.com/track/4Na0siMtWOW9pJoWJ1Ponv) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/7dxKtc08dYeRVHt3p9CZJn) | 4:27 | 2022-06-17 | 2022-07-29 |
+| [Exit Music \(For A Film\) \- Remastered](https://open.spotify.com/track/7IjGG1fEIbM6EjlyfYwqni) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer OKNOTOK 1997 2017](https://open.spotify.com/album/0tzfI6NFJqcJkWb23R3lRZ) | 4:25 | 2022-06-17 |  |
 | [Footloose](https://open.spotify.com/track/6W2VbtvMrDXm5vYeB7amkO) | [Kenny Loggins](https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW) | [Yesterday, Today, Tomorrow \- The Greatest Hits Of Kenny Loggins](https://open.spotify.com/album/3uN87hwClF0hult2cxMbAW) | 3:40 | 2022-06-22 |  |
 | [Friday I'm in Love](https://open.spotify.com/track/263aNAQCeFSWipk896byo6) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish](https://open.spotify.com/album/3x1CmNdXWU0DzpTZXFFRZu) | 3:34 | 2022-06-22 |  |
 | [Golden Brown](https://open.spotify.com/track/2AX5E86cn9n2dgioZEjirI) | [The Stranglers](https://open.spotify.com/artist/0RUEHcBiENFEqxgicqS2ig) | [La Folie](https://open.spotify.com/album/3bosyDPGOYmLnwMNhU06Rx) | 3:26 | 2022-06-17 |  |
@@ -107,7 +108,8 @@
 | [The Order of Death](https://open.spotify.com/track/3QOQEObqJvCi4M2SNeko7V) | [Public Image Ltd.](https://open.spotify.com/artist/70MMkLXtue3Edj3RJhJkYp) | [This is What You Want..\. This Is What You Get](https://open.spotify.com/album/72V5EfB3sa97eKf0Fs99EJ) | 4:49 | 2022-06-17 |  |
 | [The Passenger](https://open.spotify.com/track/15BQ7vEDv2LJuh8TxWIhtd) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Lust For Life](https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz) | 4:43 | 2022-06-22 |  |
 | [This Year's Love](https://open.spotify.com/track/1dQOMZz9SkT7ig0w65lQWC) | [David Gray](https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV) | [White Ladder](https://open.spotify.com/album/0rK8K0z9sYhEhCW51v9jrp) | 4:05 | 2022-06-17 | 2022-10-13 |
-| [This Year's Love](https://open.spotify.com/track/4X6F9xoYUyJh4OhnXbAZv2) | [David Gray](https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV) | [White Ladder](https://open.spotify.com/album/27h98zEMf4R8Q25uOkumGe) | 4:05 | 2022-06-17 |  |
+| [This Year's Love](https://open.spotify.com/track/4X6F9xoYUyJh4OhnXbAZv2) | [David Gray](https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV) | [White Ladder](https://open.spotify.com/album/27h98zEMf4R8Q25uOkumGe) | 4:05 | 2022-06-17 | 2022-11-12 |
+| [This Year's Love \- 2020 Remaster](https://open.spotify.com/track/5LAAykvFusHpsTd03OgqPw) | [David Gray](https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV) | [White Ladder \(20th Anniversary Edition\)](https://open.spotify.com/album/3ng5VSbmPioTrHajoJgr4X) | 4:05 | 2022-06-17 |  |
 | [Twistin' the Night Away](https://open.spotify.com/track/7FS541dJh3iQAEXEZoDhE6) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Twistin' the Night Away](https://open.spotify.com/album/406RCIvK6uh49XviqAI6kY) | 2:39 | 2022-06-17 |  |
 | [Unwind Yourself](https://open.spotify.com/track/0h7pMUK2EKEj7E4gGvhDO5) | [Marva Whitney](https://open.spotify.com/artist/691nF1fI0SKCfsIypzFr7h) | [It's My Thing](https://open.spotify.com/album/5DRDGz9y5gyLgd0S8gI0aO) | 2:50 | 2022-06-17 |  |
 | [We'll Get Through](https://open.spotify.com/track/7qzWNwTdiodHlOMgC1MC5A) | [The Slugs](https://open.spotify.com/artist/2uVd7a7CGDZKUYP4yK7aer) | [Fort Fun](https://open.spotify.com/album/1LSJiyGSX7F27HwJj5bpVq) | 3:16 | 2022-06-22 |  |

@@ -4,7 +4,7 @@
 
 > Ritmos latinos para encender la llama de la pasión.
 
-125 songs - 8 hr 35 min - [published](https://open.spotify.com/playlist/5zFuETfEhKRghsm5a0dGCk)
+127 songs - 8 hr 43 min - [published](https://open.spotify.com/playlist/5zFuETfEhKRghsm5a0dGCk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,8 @@
 | [Nos Comemos Vivos](https://open.spotify.com/track/3SlKme42qm1vWrkl3BrZmm) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Nos Comemos Vivos](https://open.spotify.com/album/5aBWDVvyEWx7XFz7Isvgww) | 3:45 | 2022-08-02 |  |
 | [Obsesion](https://open.spotify.com/track/65H6t1WQBim6q93yM8fEwn) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi), [Judy Santos](https://open.spotify.com/artist/1seU2dut8PjGSZbgrPl7by) | [We Broke The Rules](https://open.spotify.com/album/5QdYO6Q2POaG7dhVIsJeWd) | 4:14 | 2022-01-21 |  |
 | [Ojitos Lindos](https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:18 | 2022-06-07 |  |
-| [Otra vez \(feat\. J Balvin\)](https://open.spotify.com/track/3QwBODjSEzelZyVjxPOHdq) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Motivan2](https://open.spotify.com/album/22lEQJ7khtB2yvsq84FDQb) | 3:29 | 2022-06-07 |  |
+| [Otra vez](https://open.spotify.com/track/5cADvuEXTFGjrDfeZIPI0Q) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Trending Top Hits Now!](https://open.spotify.com/album/2Abj4pdxIatBcRJqHvpZhh) | 3:29 | 2022-08-02 |  |
+| [Otra vez \(feat\. J Balvin\)](https://open.spotify.com/track/3QwBODjSEzelZyVjxPOHdq) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Motivan2](https://open.spotify.com/album/22lEQJ7khtB2yvsq84FDQb) | 3:29 | 2022-06-07 | 2022-11-12 |
 | [Otra vez \(feat\. J Balvin\)](https://open.spotify.com/track/7pk3EpFtmsOdj8iUhjmeCM) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Otra Vez \(feat\. J Balvin\)](https://open.spotify.com/album/5GjKG3Y8OvSVJO55dQTFyD) | 3:29 | 2021-05-25 | 2022-07-29 |
 | [Pa Que Me Llames](https://open.spotify.com/track/7f9xOgsbm7SYjBRU7blQaJ) | [Luis Miguel Del Amargue](https://open.spotify.com/artist/0tJDMMp9vT1q6zrPih0yFQ) | [Amor de Locos](https://open.spotify.com/album/21UeXvBlGC8gUjxRovFSsF) | 4:48 | 2022-01-21 |  |
 | [Pantysito](https://open.spotify.com/track/4srcMdbm2qzVG98tJajHxp) | [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [Pantysito](https://open.spotify.com/album/1cGXuAtoUe4xzxRHhvxkyW) | 4:00 | 2022-06-07 |  |
@@ -115,7 +116,8 @@
 | [Te Espero](https://open.spotify.com/track/46GsFW8AFIvi8TUDlYRlXR) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Te Espero](https://open.spotify.com/album/6vBJJJEUCqmzaBnzwtRgPK) | 4:06 | 2022-06-07 |  |
 | [Te Extraño \- Bachata Version](https://open.spotify.com/track/0muI8DpTEpLqqibPm3sKYf) | [Xtreme](https://open.spotify.com/artist/47bVt95bvBMpmJFWoyhH0C) | [Xtreme](https://open.spotify.com/album/66g9Nydw29UNG9b2ndrlRi) | 3:32 | 2022-01-21 |  |
 | [Tití Me Preguntó](https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:03 | 2022-06-07 |  |
-| [Tu Amigo o Tu Amante](https://open.spotify.com/track/2GgBL5RYZafPzqfHJjn4p6) | [La Sabrosura](https://open.spotify.com/artist/2W3ROz699xenrLLblfUq5i) | [The Best Of](https://open.spotify.com/album/6lkHxEey00QbomsLj9h0Q3) | 4:45 | 2022-08-02 |  |
+| [Tu Amigo o Tu Amante](https://open.spotify.com/track/2GgBL5RYZafPzqfHJjn4p6) | [La Sabrosura](https://open.spotify.com/artist/2W3ROz699xenrLLblfUq5i) | [The Best Of](https://open.spotify.com/album/6lkHxEey00QbomsLj9h0Q3) | 4:45 | 2022-08-02 | 2022-11-12 |
+| [Tu Amigo o Tu Amante](https://open.spotify.com/track/7qn83bgVfVBISsISKIdILC) | [La Sabrosura](https://open.spotify.com/artist/2W3ROz699xenrLLblfUq5i) | [Greatest Salsa Classics Of Colombia, Vol\. 2](https://open.spotify.com/album/3k5FHIHUumKgyMTteH4ckq) | 4:45 | 2022-08-02 |  |
 | [Tu Amigo o Tu Amante](https://open.spotify.com/track/3XCqINkynQfUcB75MrihyK) | [La Sabrosura Orquesta](https://open.spotify.com/artist/5mudirGeAjQgkS2AaIQVCb) | [La Sabrosura Salsa](https://open.spotify.com/album/3gclDdpd6tqWide104VRuz) | 4:44 | 2022-01-21 | 2022-07-29 |
 | [Tu Con El](https://open.spotify.com/track/5ONnbTPRBGp25qlQutPCAd) | [Frankie Ruiz y Su Orquesta](https://open.spotify.com/artist/6W5KPtMeIS9zMqHCGxGwzh) | [Esta Cobardía](https://open.spotify.com/album/6fcH0RHemRnvokMVf2Ogjj) | 5:03 | 2022-01-21 |  |
 | [Tu Me Quemas](https://open.spotify.com/track/2EgTgfFKOvCpV3ACbJlDrl) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Atrevido Y Diferente](https://open.spotify.com/album/0qFXgEQ4pj1i6VQ80AMqTG) | 4:59 | 2021-05-25 |  |

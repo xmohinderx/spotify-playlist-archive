@@ -990,6 +990,24 @@
     },
     {
       "album": {
+        "name": "Songs for Smiling",
+        "url": "https://open.spotify.com/album/42B34LRfKk5xXlcrFx1W10"
+      },
+      "artists": [
+        {
+          "name": "Junior Senior",
+          "url": "https://open.spotify.com/artist/7xNPROyVfkH4mcIxxCxySm"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180906,
+      "name": "Move Your Feet",
+      "url": "https://open.spotify.com/track/0DYTsIJg2SsTWbV6YGBqEa"
+    },
+    {
+      "album": {
         "name": "D-D-Don't Don't Stop the Beat",
         "url": "https://open.spotify.com/album/2mv4iqMpFW99tKHpZwKETJ"
       },
@@ -1019,7 +1037,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 181906,
       "name": "Move Your Feet",
       "url": "https://open.spotify.com/track/4jacsL77ZYnpInmTtUBaJW"
@@ -1162,6 +1180,24 @@
     },
     {
       "album": {
+        "name": "4th July Bbq Grill Party Mix",
+        "url": "https://open.spotify.com/album/7cNleXCYpNr2GhTBAy37Xz"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Heart",
+          "url": "https://open.spotify.com/artist/2o3YvwaLj1ZcVAp0wYQKxL"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Party in the U.S.A.",
+      "url": "https://open.spotify.com/track/65FLvpwtcMn2PHVOMcGNoG"
+    },
+    {
+      "album": {
         "name": "The Time Of Our Lives (International Version)",
         "url": "https://open.spotify.com/album/0IuHVgAvbNDJnJepuSZ8Oz"
       },
@@ -1191,7 +1227,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 202066,
       "name": "Party In The U.S.A.",
       "url": "https://open.spotify.com/track/5Q0Nhxo0l2bP3pNjpGJwV1"

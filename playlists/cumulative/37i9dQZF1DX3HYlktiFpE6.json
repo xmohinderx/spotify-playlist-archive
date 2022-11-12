@@ -492,6 +492,24 @@
     },
     {
       "album": {
+        "name": "2010s Happy For Kids",
+        "url": "https://open.spotify.com/album/2BOfcIDlSA1zDivcDUCFPx"
+      },
+      "artists": [
+        {
+          "name": "The Treblemakers",
+          "url": "https://open.spotify.com/artist/1T81IFRFywCJW0SNWMv3T1"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184560,
+      "name": "Don't Stop The Music",
+      "url": "https://open.spotify.com/track/0WnM1mNuXRR9sjVbk6WeAJ"
+    },
+    {
+      "album": {
         "name": "Ultimate Pitch Perfect (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3C81mDhWllB5q56pfvik3U"
       },
@@ -503,7 +521,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 184560,
       "name": "Don't Stop The Music",
       "url": "https://open.spotify.com/track/7mwaAS5hqSuSxsFLpQh5NU"
@@ -528,6 +546,24 @@
     },
     {
       "album": {
+        "name": "Ultimate Pitch Perfect (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3C81mDhWllB5q56pfvik3U"
+      },
+      "artists": [
+        {
+          "name": "The Sockapellas",
+          "url": "https://open.spotify.com/artist/4iMeGfjSNJnmmg6yPKCzhd"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72053,
+      "name": "F**k You",
+      "url": "https://open.spotify.com/track/7A2JJ6L13W5WTdi2NCyn6R"
+    },
+    {
+      "album": {
         "name": "Pitch Perfect (More Music From The Motion Picture) EP",
         "url": "https://open.spotify.com/album/7a2PTJIJdgJZPRoO1op0hS"
       },
@@ -539,7 +575,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 72906,
       "name": "F**k You",
       "url": "https://open.spotify.com/track/2iSznonsMCSU95AHXFGVcH"
@@ -801,7 +837,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 293920,
       "name": "I See Fire",
       "url": "https://open.spotify.com/track/1ZapqbVeMR92xHFDDJcTy3"
@@ -967,7 +1003,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 176813,
       "name": "Landslide - Studio Version",
       "url": "https://open.spotify.com/track/0JEhzXDgrRJmZFGqQ4U2ME"
@@ -1714,6 +1750,24 @@
     },
     {
       "album": {
+        "name": "Ultimate Pitch Perfect (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3C81mDhWllB5q56pfvik3U"
+      },
+      "artists": [
+        {
+          "name": "Hullabahoos",
+          "url": "https://open.spotify.com/artist/3S1DEHnGNfWmamdZEyLs8I"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74733,
+      "name": "The Final Countdown",
+      "url": "https://open.spotify.com/track/1EuF6M90XKRg3zK1qG7I95"
+    },
+    {
+      "album": {
         "name": "Pitch Perfect (More Music From The Motion Picture) EP",
         "url": "https://open.spotify.com/album/7a2PTJIJdgJZPRoO1op0hS"
       },
@@ -1725,7 +1779,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 75360,
       "name": "The Final Countdown",
       "url": "https://open.spotify.com/track/219eMYSoZBDsGb2ISHc5Xr"
@@ -1887,10 +1941,28 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 199801,
       "name": "Waka Waka (This Time For Africa)",
       "url": "https://open.spotify.com/track/1ZRXk2GjLeHu1Ojv4WDWs4"
+    },
+    {
+      "album": {
+        "name": "Voices Only 2013 College A Cappella, Vol. 1",
+        "url": "https://open.spotify.com/album/6zr4GyBIMy2GRvIGPflYaK"
+      },
+      "artists": [
+        {
+          "name": "University of Rochester YellowJackets",
+          "url": "https://open.spotify.com/artist/5PdBpsZXvnEbbTe1589fMO"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200561,
+      "name": "Waka Waka (This Time for Africa)",
+      "url": "https://open.spotify.com/track/37x7PLzv5rAxTZAgfCInUx"
     },
     {
       "album": {

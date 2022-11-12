@@ -4,7 +4,7 @@
 
 > Novidades e destaques do indie nacional\. Foto: Mariana Volker
 
-289 songs - 16 hr 35 min - [published](https://open.spotify.com/playlist/6JgS0nFYvZfSw5mDRlDbjL)
+290 songs - 16 hr 37 min - [published](https://open.spotify.com/playlist/6JgS0nFYvZfSw5mDRlDbjL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Agora Eu Preciso Pagar Contas](https://open.spotify.com/track/58xEYZkV8UyFZxTO9UlwVO) | [Valentin](https://open.spotify.com/artist/25VoPjFx405WzNspA0BDw9), [Amanda Gabana](https://open.spotify.com/artist/7GTsKZxpRghgTKeNWKN54i) | [Agora Eu Preciso Pagar Contas](https://open.spotify.com/album/2IBGgqV3XGhtL9dz6PiUsn) | 3:11 | 2022-08-05 |  |
 | [Albatroz Azul](https://open.spotify.com/track/71hoAmvlJ9HSWvSTU7PlFC) | [Gab Lara](https://open.spotify.com/artist/4fMswJeTIgrLStwvUi1npH) | [Albatroz Azul](https://open.spotify.com/album/4wYBRx8hOzUQiSysTDihpn) | 3:35 | 2022-04-08 | 2022-05-07 |
 | [Algum Lugar](https://open.spotify.com/track/3yEXRZC6m1M9XtAwijENfx) | [Alinbloom](https://open.spotify.com/artist/1H0bbgsPwDFykP6VgfgbN9) | [Algum Lugar](https://open.spotify.com/album/3gZhHRrxUCADMINe8AXkQ9) | 3:12 | 2022-01-14 | 2022-07-09 |
+| [alguém](https://open.spotify.com/track/6UDPt5g8OZtUHIQDUGztQc) | [Konai](https://open.spotify.com/artist/12YpLBd0FvDYA0c4nsaxFp) | [NJDDAMC](https://open.spotify.com/album/6TLehgZQDQ4TcvBayNmN89) | 2:08 | 2022-11-11 |  |
 | [Alice](https://open.spotify.com/track/1Mt9t8HeHtqXFktUYATbdS) | [kamaitachi](https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm) | [Alice](https://open.spotify.com/album/1t8mCGvgHxiPqpw0ldQ5DF) | 3:25 | 2022-06-24 |  |
 | [alice \(só que sem as maravilhas\)](https://open.spotify.com/track/5FSjNo8QjPCMU5qo8NKOxY) | [lalalaura](https://open.spotify.com/artist/0xzFVGq4LIQxHwcTkUZACD) | [alice \(só que sem as maravilhas\)](https://open.spotify.com/album/4XmvZFL27XoT4ghFQG1Wrg) | 2:31 | 2022-06-03 | 2022-11-05 |
 | [AMADA](https://open.spotify.com/track/6nEm0lC3exE9EnyZQLFzBQ) | [Ambivalente](https://open.spotify.com/artist/68sZEcd1SSqZyEE0qK5GUr), [Matheus Who](https://open.spotify.com/artist/7dk9vFezaTtPWPnygmbWgf) | [AMADA](https://open.spotify.com/album/75NHZbvpPsGxpXtQgoZTuJ) | 2:32 | 2022-01-14 | 2022-08-06 |
@@ -287,7 +288,7 @@
 | [Vira\-Lata](https://open.spotify.com/track/0rUvuGRs0uYbh1LZUtBF7g) | [Maglore](https://open.spotify.com/artist/24me6m3bV7l2rnUwaXV0Tj) | [Vira\-Lata](https://open.spotify.com/album/42XXrbrpqdGr6oJ2BQ6M7E) | 3:59 | 2022-07-22 | 2022-10-29 |
 | [Viver É Urgente](https://open.spotify.com/track/7jSV6Rj6qwfpWp6217Pesb) | [Victor de Albuquerque](https://open.spotify.com/artist/5HJapWQnaATkzrc8UGlKgD) | [Viver É Urgente](https://open.spotify.com/album/3hhCQrv2j5qGROGEFaP7Cf) | 3:18 | 2022-01-21 |  |
 | [Você Não Vê](https://open.spotify.com/track/03o9imYVmPeXwJEGLZrWbv) | [Pablo Vermell](https://open.spotify.com/artist/1QXsIqLfotA6OnwVqQvPs5), [Personas](https://open.spotify.com/artist/0mb0ogPa9MGn5LEWPI9MrQ) | [Você Não Vê](https://open.spotify.com/album/3B1OvmobOdKZvwGvme9WR3) | 2:44 | 2022-04-01 | 2022-07-09 |
-| [Volta](https://open.spotify.com/track/2pZudWjHskvC5RDM2buIdo) | [Fogo Fera](https://open.spotify.com/artist/0QSdV5uL8HUJOwsyzL5rEI), [Tiê](https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7), [Adriano Cintra](https://open.spotify.com/artist/6ZhHDKgsucGUUkEeH1mzyH) | [Eu Te Amo, Pt\. 4](https://open.spotify.com/album/1fRe9hw31nEe1H5AD5SDMn) | 5:40 | 2022-10-21 |  |
+| [Volta](https://open.spotify.com/track/2pZudWjHskvC5RDM2buIdo) | [Fogo Fera](https://open.spotify.com/artist/0QSdV5uL8HUJOwsyzL5rEI), [Tiê](https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7), [Adriano Cintra](https://open.spotify.com/artist/6ZhHDKgsucGUUkEeH1mzyH) | [Eu Te Amo, Pt\. 4](https://open.spotify.com/album/1fRe9hw31nEe1H5AD5SDMn) | 5:40 | 2022-10-21 | 2022-11-12 |
 | [voltas \(áudio de whatsapp\)](https://open.spotify.com/track/3qROJDOCZ7eoxAbr6hiKkB) | [lalalaura](https://open.spotify.com/artist/0xzFVGq4LIQxHwcTkUZACD) | [n sei usar excel](https://open.spotify.com/album/5uxJG9jWXfk8LVHS39aGrE) | 2:09 | 2022-07-15 |  |
 | [Vou Te Bagunçar](https://open.spotify.com/track/4zy6LZlj8g5sM3lOI7FChL) | [Xande](https://open.spotify.com/artist/0IqLSb4h4c1SaAijKMmUai), [Vila Condin](https://open.spotify.com/artist/5XrH8sfPNab2LWXuTjwyud) | [Vou Te Bagunçar](https://open.spotify.com/album/1ocxzbRIMJBpeIaCCQFvgH) | 2:43 | 2022-02-04 | 2022-03-12 |
 | [Vou Ter Que Me Virar \- Mu540 FUNK RITMADO](https://open.spotify.com/track/3Femu5oJJpDjwG7rRqvvvy) | [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [VTQMV RMXS 01](https://open.spotify.com/album/22SwyqFqkdfIc6uPXtC9tK) | 3:14 | 2022-02-25 | 2022-03-12 |

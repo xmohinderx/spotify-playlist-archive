@@ -4,7 +4,7 @@
 
 > Island vibes for the whole family.
 
-50 songs - 3 hr 10 min - [published](https://open.spotify.com/playlist/1sOJ79s7c3GxAyycUWxTU0)
+51 songs - 3 hr 14 min - [published](https://open.spotify.com/playlist/1sOJ79s7c3GxAyycUWxTU0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [I'm Still In Love With You/ Three Piece Suit](https://open.spotify.com/track/6Q2laMBCfP9h7Qf2z2S4TZ) | [Marcia Aitken](https://open.spotify.com/artist/24II60UJj3zxZEY587JvjB), [Trinity](https://open.spotify.com/artist/6FftYVsB3RIsyDO9oL2Vxb) | [Special Deluxe Edition: Old To The New](https://open.spotify.com/album/4eXjwWJ3wwlz394ChHnKm8) | 7:06 | 2021-04-20 | 2022-07-29 |
 | [Is This Love](https://open.spotify.com/track/2sevvnMrqH607r5lwk3kFT) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Legend \- The Best Of Bob Marley And The Wailers](https://open.spotify.com/album/4jKeipwuUTjlx9USNYdhZn) | 3:50 | 2021-04-20 |  |
 | [Jamming](https://open.spotify.com/track/4zn0kScuV9Oj28d4g9CQQs) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus \(Deluxe Edition\)](https://open.spotify.com/album/1vHvJVBK0WnpbYFw4f4UTD) | 3:31 | 2021-04-20 | 2022-07-29 |
-| [Jamming](https://open.spotify.com/track/5LyfiK6iXEIBNEtcaGKohl) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S) | 3:31 | 2021-04-20 |  |
+| [Jamming](https://open.spotify.com/track/5LyfiK6iXEIBNEtcaGKohl) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S) | 3:31 | 2021-04-20 | 2022-11-12 |
+| [Jamming](https://open.spotify.com/track/0NDJeqkaT4a7WlC3Uj2ig5) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Legend \(Deluxe Edition\)](https://open.spotify.com/album/04VRfesff9bgDA2Q8J2oDo) | 3:32 | 2021-04-20 |  |
 | [Johnny B\. Goode \- 2002 Remaster](https://open.spotify.com/track/5uPYEStMW3KsXnnLV7iCTw) | [Peter Tosh](https://open.spotify.com/artist/0oea1hwGMfUxZbLxJc1XUN), [John Benitez](https://open.spotify.com/artist/04tkc4IcAn3q0zy1C6oWBI) | [Mama Africa](https://open.spotify.com/album/6iFMsJMHQ9zqty9vnRmycq) | 4:04 | 2021-04-20 |  |
 | [Morning Is Coming \(with Shaggy\)](https://open.spotify.com/track/1MIoqrkFISWV3q3JvifC4S) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk), [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij) | [44/876 \(Deluxe\)](https://open.spotify.com/album/1CoVw7saic0ozYSDTeQ26l) | 3:11 | 2021-04-20 |  |
 | [Oh Carolina](https://open.spotify.com/track/7MjTPvXSAYB1NyzXLQKsMn) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij) | [Pure Pleasure](https://open.spotify.com/album/4tOYuq5DyDsY1rOSluTUcg) | 3:10 | 2021-04-20 |  |

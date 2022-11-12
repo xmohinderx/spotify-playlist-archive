@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcdGxYPVUKPf.md) - [plain]
 
 > Mental strength begins here—Dwayne Johnson’s Iron Paradise Tour.
 
-[Spotify](https://open.spotify.com/user/spotify) - 414,166 likes - 25 songs - 1 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 414,155 likes - 25 songs - 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcdGxYPVUKPf.md) - [plain]
 | 4 | [Face Off](https://open.spotify.com/track/0M5igzLuVkGfr76ezrAZI3) | [Tech N9ne](https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos), [Joey Cool](https://open.spotify.com/artist/1A8NEJYo3VW9aIZ6l55Dgu), [King Iso](https://open.spotify.com/artist/7vTyZmNA6LC0WRDg7V6yle), [Dwayne Johnson](https://open.spotify.com/artist/1T8S48bD91THNKBByWBDyn) | [ASIN9NE](https://open.spotify.com/album/3eYtzrCbHWAW0tRW93gaxj) | 3:39 |
 | 5 | [Get Up On My Level](https://open.spotify.com/track/7hXPF6mq76yeknggOnCNID) | [Mike Zombie](https://open.spotify.com/artist/4Vb3ImmWPDA7Jszi6WLhdQ), [Aja Elan](https://open.spotify.com/artist/5vSvL2GNm9anuyWiy9YZCL) | [Get Up On My Level](https://open.spotify.com/album/0retIMfRSCLdGiUUatMct8) | 2:50 |
 | 6 | [Black Betty](https://open.spotify.com/track/6kooDsorCpWVMGc994XjWN) | [Ram Jam](https://open.spotify.com/artist/6FITmSxIMsk6TfulFiCIIz) | [Ram Jam](https://open.spotify.com/album/4z2REZpvRsVMpHFrsIz7PD) | 3:58 |
-| 7 | [Work Hard](https://open.spotify.com/track/6DSdSwWlQF30DkuRPvBkQn) | [Frankie Paul](https://open.spotify.com/artist/1J4CDjVHn8ummXVmJ7Q73u) | [Hard Work](https://open.spotify.com/album/7kkZyqCkWIOQs4JHuWFSTg) | 3:40 |
+| 7 | [Work Hard](https://open.spotify.com/track/7AxLkHObRt76cLyte1VyGv) | [Frankie Paul](https://open.spotify.com/artist/1J4CDjVHn8ummXVmJ7Q73u) | [Hard Work](https://open.spotify.com/album/1Z6OZ6k6PkjiOC65QWiiQy) | 3:40 |
 | 8 | [Rake It Up \(feat\. Nicki Minaj\)](https://open.spotify.com/track/4knL4iPxPOZjQzTUlELGSY) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [I Still Am](https://open.spotify.com/album/1tSsb3t0pqVVONvBJivoT9) | 4:36 |
 | 9 | [The Ecstasy of Gold \(Live\)](https://open.spotify.com/track/0L5ZW54haCFM84is0UhLjj) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB), [San Francisco Symphony](https://open.spotify.com/artist/1qHStDLIc8uV7hvTG6FGRJ) | [S&M2](https://open.spotify.com/album/4vxkHVyS6D66Rwt0mpz0cS) | 2:41 |
 | 10 | [Standing in the Headlights](https://open.spotify.com/track/0C4NHwuJdQn6b5SZB0ewUF) | [Eric Strickland & the B Sides](https://open.spotify.com/artist/5ITwDrWvrtMxVRlR10QYFn) | [Honky Tonk Till I Die](https://open.spotify.com/album/7FOBfMubIyN5ywBlQQldth) | 3:32 |
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcdGxYPVUKPf.md) - [plain]
 | 24 | [Black Skinhead](https://open.spotify.com/track/722tgOgdIbNe3BEyLnejw4) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Yeezus](https://open.spotify.com/album/7D2NdGvBHIavgLhmcwhluK) | 3:08 |
 | 25 | [Bulls On Parade](https://open.spotify.com/track/0tZ3mElWcr74OOhKEiNz1x) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [Evil Empire](https://open.spotify.com/album/24E6rDvGDuYFjlGewp4ntF) | 3:49 |
 
-Snapshot ID: `MTY2NjcyMDQ4NywwMDAwMDAwMGY4YjM2ZjE0NDIyOTJhNTE2Y2Y5NTlkZjYxODA4MGIw`
+Snapshot ID: `MTY2NjcyMDQ4NywwMDAwMDAwMDEyODE0ZTE5YWQ4MDU1ZDYxNDMzOGU2MmUwNjkzNjY1`

@@ -4,7 +4,7 @@
 
 > These songs from superhero movies and TV shows will take you up, up, and away!
 
-73 songs - 3 hr 17 min - [published](https://open.spotify.com/playlist/6Eg56fPi95mF2NORpXv3Iq)
+74 songs - 3 hr 20 min - [published](https://open.spotify.com/playlist/6Eg56fPi95mF2NORpXv3Iq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,8 +29,9 @@
 | [Everybody Knows](https://open.spotify.com/track/34b3PCTLUISY153eb2F72k) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Justice League \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3aQNN5zuOmA20K0CNlI1O7) | 4:25 | 2019-10-29 |  |
 | [Everything I Need \- Film Version](https://open.spotify.com/track/5B6082J94hvTWxLjWBIm2g) | [Skylar Grey](https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV) | [Aquaman \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/0LbBu7ge5bkDeI17ozc174) | 3:16 | 2019-10-29 |  |
 | [Everything I Need \- Film Version](https://open.spotify.com/track/6QcERmfQKHKtRE4yW7f0cC) | [Skylar Grey](https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV) | [Aquaman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6SSFokNpOOCKzrN6znsaCb) | 3:16 | 2019-10-29 | 2022-07-29 |
+| [Flash \- Remastered 2011](https://open.spotify.com/track/4Xxra8s5kUaLy7CMRkw7mn) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Greatest Hits](https://open.spotify.com/album/6a8nlV9V8kPUbTTCJNVSsh) | 2:47 | 2019-10-29 |  |
 | [Flash \- Single Version](https://open.spotify.com/track/5aswWmjJLHBSYFknQjegfg) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Flash Gordon \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/4r9kNse038AoF2KfbqPUOS) | 2:48 | 2019-10-29 | 2022-07-29 |
-| [Flash \- Single Version](https://open.spotify.com/track/6tYYT8zNxkadSCujCdR6Ur) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Flash Gordon \(Deluxe Remastered Version\)](https://open.spotify.com/album/0JCLXuGXJ7lKKOD5mc1Ela) | 2:48 | 2019-10-29 |  |
+| [Flash \- Single Version](https://open.spotify.com/track/6tYYT8zNxkadSCujCdR6Ur) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Flash Gordon \(Deluxe Remastered Version\)](https://open.spotify.com/album/0JCLXuGXJ7lKKOD5mc1Ela) | 2:48 | 2019-10-29 | 2022-11-12 |
 | [Go!](https://open.spotify.com/track/4AORpy9kuI37FvgTF3BWrd) | [Greg Cipes](https://open.spotify.com/artist/6L3vVRDyG1FxVkpfkY27oH), [Scott Menville](https://open.spotify.com/artist/7JrGE2z9m0yDVXELO7o9jB), [Khary Payton](https://open.spotify.com/artist/6NhL2mZ0OKFLvYIeyi5rd0), [Tara Strong](https://open.spotify.com/artist/4CN7jn6DiWNaDnaJdhBMKp), [Hynden Walch](https://open.spotify.com/artist/4yPSwzNyZhysv1v9FlV5jj) | [Teen Titans Go! To The Movies \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0JjBO2WnSE6pjK4TC9Jci2) | 1:37 | 2019-10-29 |  |
 | [Hero \(feat\. Josey Scott\)](https://open.spotify.com/track/779ooI3rBd0CLqCiiJmtVo) | [Chad Kroeger](https://open.spotify.com/artist/7fJYw1vK9yWb8o51I8qHin), [Josey Scott](https://open.spotify.com/artist/5mNloTgSaf5qCyk48t9NSP) | [Hero \(feat\. Josey Scott\)](https://open.spotify.com/album/4JLTenJ9u07tFnk3On1ypa) | 3:20 | 2019-10-29 |  |
 | [Heroes](https://open.spotify.com/track/3h8DQEl5vgt5BRIlVXXycl) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [Avengers: Age of Ultron \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1UaUCko4qqWnT2gJKmaQLT) | 2:07 | 2019-10-29 | 2022-07-29 |

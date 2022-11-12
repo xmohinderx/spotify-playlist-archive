@@ -113,7 +113,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 201866,
       "name": "Any Way You Want It",
       "url": "https://open.spotify.com/track/2DyHhPyCZgZzNXn1IrtsTu"
@@ -657,7 +657,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 253920,
       "name": "Every Breath You Take",
       "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
@@ -801,7 +801,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 163800,
       "name": "Fire",
       "url": "https://open.spotify.com/track/5LI7PoHEolR8plrf3I16sq"
@@ -837,7 +837,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 270426,
       "name": "Girls, Girls, Girls",
       "url": "https://open.spotify.com/track/549Go7a66CX6k523uK9kUv"
@@ -1179,7 +1179,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 194120,
       "name": "Jessie's Girl",
       "url": "https://open.spotify.com/track/5RsUlxLto4NZbhJpqJbHfN"
@@ -1449,7 +1449,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 267680,
       "name": "Lola Montez",
       "url": "https://open.spotify.com/track/1wnq9TwifJ9ipLUFsm8vKx"
@@ -1665,7 +1665,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 278706,
       "name": "No One Knows",
       "url": "https://open.spotify.com/track/6NvRxjfYkkT2SpirAlmsjH"
@@ -1777,7 +1777,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 224906,
       "name": "Personal Jesus - Original Single Version",
       "url": "https://open.spotify.com/track/1xShPgQbOUa98avWJQFDBY"
@@ -1813,7 +1813,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 269600,
       "name": "Poison",
       "url": "https://open.spotify.com/track/1iQpStZpzBb5TOuTDKJKdj"
@@ -2047,7 +2047,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 233506,
       "name": "Run to the Hills - 2015 Remaster",
       "url": "https://open.spotify.com/track/0sxYYT48UPkmrDx8p4Hnrl"
@@ -2087,6 +2087,24 @@
       "duration_ms": 178440,
       "name": "Sabotage",
       "url": "https://open.spotify.com/track/0Puj4YlTm6xNzDDADXHMI9"
+    },
+    {
+      "album": {
+        "name": "Rock Of The 80's",
+        "url": "https://open.spotify.com/album/2avyCubWluhpGqAbYYbmph"
+      },
+      "artists": [
+        {
+          "name": "Men Without Hats",
+          "url": "https://open.spotify.com/artist/34PLzyi7CdXUekiLHYyqXq"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165506,
+      "name": "Safety Dance",
+      "url": "https://open.spotify.com/track/4t5lrf5rFX6JWAUPKCDlKk"
     },
     {
       "album": {
@@ -2353,7 +2371,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 279440,
       "name": "Sunday Bloody Sunday - Remastered 2008",
       "url": "https://open.spotify.com/track/4nuUssdgKFy2QyYHHNkZQW"
@@ -2551,7 +2569,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-19",
+      "date_removed": null,
       "duration_ms": 346280,
       "name": "The Killing Moon",
       "url": "https://open.spotify.com/track/15049rGLXHwrWtE4euUb5C"
@@ -2569,7 +2587,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 165853,
       "name": "The Middle",
       "url": "https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO"
@@ -2627,6 +2645,24 @@
       "duration_ms": 234960,
       "name": "The State of Massachusetts",
       "url": "https://open.spotify.com/track/7b7mtUwxYqTCPsxBvfzbd2"
+    },
+    {
+      "album": {
+        "name": "Garage, Inc.",
+        "url": "https://open.spotify.com/album/5b7HQ04lPT7eGJQ7fmVsjC"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366400,
+      "name": "Turn The Page",
+      "url": "https://open.spotify.com/track/7HPhrbgMHV5cUskknWA2oo"
     },
     {
       "album": {
@@ -2713,7 +2749,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 253800,
       "name": "Video Killed The Radio Star",
       "url": "https://open.spotify.com/track/6t1FIJlZWTQfIZhsGjaulM"
@@ -2987,7 +3023,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 161133,
       "name": "Whip It",
       "url": "https://open.spotify.com/track/4sscDOZCkbLSlDqcCgUJnX"
@@ -3077,7 +3113,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 343640,
       "name": "You Could Be Mine",
       "url": "https://open.spotify.com/track/0dlTGl67UFWcKupzkxZYOn"

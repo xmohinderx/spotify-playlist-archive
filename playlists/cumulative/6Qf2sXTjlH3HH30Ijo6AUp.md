@@ -4,7 +4,7 @@
 
 > 100 uplifting and happy songs to get you smiling, put a spring in your step &amp; lift your mood
 
-162 songs - 9 hr 49 min - [published](https://open.spotify.com/playlist/1kdYqyrvSgLGyOvVSgusQG)
+163 songs - 9 hr 53 min - [published](https://open.spotify.com/playlist/1kdYqyrvSgLGyOvVSgusQG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [I'm Yours](https://open.spotify.com/track/1EzrEOXmMH3G43AXT1y7pA) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [We Sing\. We Dance\. We Steal Things.](https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5) | 4:02 | 2022-06-07 |  |
 | [In My Place](https://open.spotify.com/track/2nvC4i2aMo4CzRjRflysah) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Rush of Blood to the Head](https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ) | 3:46 | 2022-08-09 |  |
 | [Into the Groove](https://open.spotify.com/track/2m0M7YqCy4lXfedh18qd8N) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 4:45 | 2022-07-18 |  |
+| [Juice](https://open.spotify.com/track/0k664IuFwVP557Gnx7RhIl) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You](https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL) | 3:15 | 2022-11-11 |  |
 | [Just the Two of Us \(feat\. Bill Withers\)](https://open.spotify.com/track/2tH28YyKYOldxhuBHoI79M) | [Grover Washington, Jr.](https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1), [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Lean on Me: The Best of Bill Withers](https://open.spotify.com/album/0XmgSYx9bj4sqpcXVgKs2C) | 3:57 | 2022-08-09 |  |
 | [Just the Two of Us \(feat\. Bill Withers\)](https://open.spotify.com/track/1ko2lVN0vKGUl9zrU0qSlT) | [Grover Washington, Jr.](https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1), [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Anthology](https://open.spotify.com/album/1lKYaRbV0AayVPss9i4oOp) | 7:18 | 2022-07-18 | 2022-08-10 |
 | [Just the Way You Are](https://open.spotify.com/track/47Slg6LuqLaX0VodpSCvPt) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL) | 3:40 | 2022-07-18 | 2022-08-25 |
@@ -137,7 +138,7 @@
 | [So Young](https://open.spotify.com/track/1vpFjf7k2b6TOfeuVrp4vG) | [The Corrs](https://open.spotify.com/artist/1VbWUxZTRNY2gw3qZ1tg9W) | [Talk on Corners](https://open.spotify.com/album/1z8ikMQ0VmMJDPmeiKY3o5) | 3:52 | 2022-06-07 | 2022-07-09 |
 | [Somebody](https://open.spotify.com/track/4cB03uRsnOSABer7gv7gPt) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [Somebody](https://open.spotify.com/album/1DGXrB5U3Vyqs5UXirE7e8) | 3:19 | 2022-08-19 |  |
 | [Something Got Me Started \- 2008 Remaster](https://open.spotify.com/track/7EVSRJ9eH21ri2lIHkKkoP) | [Simply Red](https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8) | [Stars \(Expanded Version\)](https://open.spotify.com/album/5IF8lK2MyVeLHxo0UNWMO7) | 4:00 | 2022-06-07 | 2022-07-19 |
-| [Something in the Orange](https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Something in the Orange](https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv) | 3:48 | 2022-10-14 |  |
+| [Something in the Orange](https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Something in the Orange](https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv) | 3:48 | 2022-10-14 | 2022-11-12 |
 | [Somewhere in My Heart](https://open.spotify.com/track/0pBqW7bLA3soohExT1bU8g) | [Aztec Camera](https://open.spotify.com/artist/7sbwBqdkynNUDgiWU3TQ5J) | [Love](https://open.spotify.com/album/1SUPpY4sx4B8c0rLyMhZc7) | 4:02 | 2022-06-07 | 2022-07-19 |
 | [SPACE MAN](https://open.spotify.com/track/3nhGk6VnrDHy67pXvMhdPa) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [SPACE MAN](https://open.spotify.com/album/7uJgYMaJcQ25PhywdJfrJF) | 3:37 | 2022-06-07 |  |
 | [Stand by Me](https://open.spotify.com/track/3SdTKo2uVsxFblQjpScoHy) | [Ben E\. King](https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3) | [Don't Play That Song \(Mono\)](https://open.spotify.com/album/18Fj7coTfyMi7mEPXIweN7) | 3:00 | 2022-06-07 |  |

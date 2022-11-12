@@ -1,15 +1,31 @@
 {
-  "description": "\u00a1En este punto tropical, se encuentra un poco de todo! Foto: Shakira, Ozuna",
-  "num_followers": 125153,
+  "description": "\u00a1En este punto tropical, se encuentra un poco de todo! Foto: Gusi",
+  "num_followers": 125269,
   "original_name": "Punto Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkzMzIwMCwwMDAwMDAwMDI1ODM2ZTkzYmVjYzExZmE4YTIxOGU5NTA4MjAyM2Ix",
+  "snapshot_id": "MTY2ODE0MjgwNCwwMDAwMDAwMDkzM2U3YzM1NzA2NTZiOWU3Nzg2NGFjNWRhYmI2NTBi",
   "tracks": [
     {
-      "added_at": "2022-10-28 05:00:00",
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "24/7",
+        "url": "https://open.spotify.com/album/7C6LwNsw7ClFlZZEhjkqkO"
+      },
+      "artists": [
+        {
+          "name": "Gusi",
+          "url": "https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe"
+        }
+      ],
+      "duration_ms": 199481,
+      "name": "24/7",
+      "url": "https://open.spotify.com/track/28IydUm2BpsO9NP3lPjGvX"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "Monoton\u00eda",
         "url": "https://open.spotify.com/album/5pJtcJojr98hbb6KF0ImMe"
@@ -29,7 +45,7 @@
       "url": "https://open.spotify.com/track/6G12ZafqofSq7YtrMqUm76"
     },
     {
-      "added_at": "2022-10-28 05:00:00",
+      "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
@@ -45,7 +61,27 @@
       "url": "https://open.spotify.com/track/1dm6z1fWB0cErMszU25dy2"
     },
     {
-      "added_at": "2022-10-28 05:00:00",
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "@dannocean",
+        "url": "https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 212914,
+      "name": "SI ES AMOR",
+      "url": "https://open.spotify.com/track/7JahThtCGJ9cdn6HWTWf9S"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "Debut y Segunda Tanda (Deluxe)",
         "url": "https://open.spotify.com/album/4uBIS6rAEZQX8NCDgoLKq2"
@@ -65,7 +101,79 @@
       "url": "https://open.spotify.com/track/0ZQuLDHTb6xo5y8UQb2T9X"
     },
     {
-      "added_at": "2022-10-28 05:00:00",
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "F\u00f3rmula, Vol. 2 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L"
+      },
+      "artists": [
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        },
+        {
+          "name": "Santana",
+          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+        }
+      ],
+      "duration_ms": 264266,
+      "name": "Necio (feat. Carlos Santana)",
+      "url": "https://open.spotify.com/track/3DKWF8is9hzp84aSxnhlag"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "De Adentro Pa Afuera",
+        "url": "https://open.spotify.com/album/1UTDgnpHmthIsdzSxbhpV2"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        }
+      ],
+      "duration_ms": 212821,
+      "name": "Ambulancia",
+      "url": "https://open.spotify.com/track/5OPte07J5hRK1pTn0f7ldr"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Ens\u00e9\u00f1ame a Bailar",
+      "url": "https://open.spotify.com/track/2NMjggapJcXXM7WccGEBUO"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "100 % Latino Vol. 1",
+        "url": "https://open.spotify.com/album/6M7YGALzaiR2xPezIz73FA"
+      },
+      "artists": [
+        {
+          "name": "Grupo Merenguisimo",
+          "url": "https://open.spotify.com/artist/4KcGb6w8lBbsV0tErkz3fW"
+        }
+      ],
+      "duration_ms": 206373,
+      "name": "Vale la Pena",
+      "url": "https://open.spotify.com/track/1gnkKuNpKnOvXMftw747lu"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "Prohibido",
         "url": "https://open.spotify.com/album/2QmoW4oUr31FGEXmCPkOYJ"
@@ -89,7 +197,7 @@
       "url": "https://open.spotify.com/track/7FrC84e3mKxhFA4H9Xexaf"
     },
     {
-      "added_at": "2022-10-28 05:00:00",
+      "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "Por Un Perro",
         "url": "https://open.spotify.com/album/1S7umwRqsNaYeoSWe0UjLw"
@@ -109,27 +217,27 @@
       "url": "https://open.spotify.com/track/3OBIkfgxatom7uCRNZxEa3"
     },
     {
-      "added_at": "2022-10-28 05:00:00",
+      "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "F\u00f3rmula, Vol. 2 (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L"
+        "name": "Good Girl",
+        "url": "https://open.spotify.com/album/5S93JhNP9BcdtAgcCxAOLt"
       },
       "artists": [
         {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
         },
         {
-          "name": "Santana",
-          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
         }
       ],
-      "duration_ms": 264266,
-      "name": "Necio (feat. Carlos Santana)",
-      "url": "https://open.spotify.com/track/3DKWF8is9hzp84aSxnhlag"
+      "duration_ms": 208604,
+      "name": "Good Girl",
+      "url": "https://open.spotify.com/track/2Z7ulQhQLbZJYyk6U2unUK"
     },
     {
-      "added_at": "2022-10-28 05:00:00",
+      "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "INTRUSO",
         "url": "https://open.spotify.com/album/4K5N6FoZm9Oki26KjmLrRw"
@@ -153,7 +261,7 @@
       "url": "https://open.spotify.com/track/003A7dXikhqxbT1dWXPuf3"
     },
     {
-      "added_at": "2022-10-28 05:00:00",
+      "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "PEDRO",
         "url": "https://open.spotify.com/album/3H5A0XAVLqPIc6p1UyFx0q"
@@ -169,7 +277,7 @@
       "url": "https://open.spotify.com/track/6NXE0MUQCfWKSElHh7PaHb"
     },
     {
-      "added_at": "2022-10-28 05:00:00",
+      "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "La \u00daltima Misi\u00f3n",
         "url": "https://open.spotify.com/album/5YLmrfqNRJK66Gl4QVLwHW"
@@ -189,43 +297,7 @@
       "url": "https://open.spotify.com/track/0GRqaS1RZuqNTlnlOPb5sX"
     },
     {
-      "added_at": "2022-10-28 05:00:00",
-      "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Ens\u00e9\u00f1ame a Bailar",
-      "url": "https://open.spotify.com/track/2NMjggapJcXXM7WccGEBUO"
-    },
-    {
-      "added_at": "2022-10-28 05:00:00",
-      "album": {
-        "name": "De Adentro Pa Afuera",
-        "url": "https://open.spotify.com/album/1UTDgnpHmthIsdzSxbhpV2"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        },
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        }
-      ],
-      "duration_ms": 212821,
-      "name": "Ambulancia",
-      "url": "https://open.spotify.com/track/5OPte07J5hRK1pTn0f7ldr"
-    },
-    {
-      "added_at": "2022-10-28 05:00:00",
+      "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "Tu Apellido",
         "url": "https://open.spotify.com/album/7CNIv4WRksLzyIKg039mj4"
@@ -245,7 +317,7 @@
       "url": "https://open.spotify.com/track/2TU4tlyGdNznDYinTE7yiL"
     },
     {
-      "added_at": "2022-10-28 05:00:00",
+      "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "OzuTochi",
         "url": "https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF"
@@ -265,23 +337,7 @@
       "url": "https://open.spotify.com/track/52AHKfP6qQ3feLjPCDTiRI"
     },
     {
-      "added_at": "2022-10-28 05:00:00",
-      "album": {
-        "name": "Ni Es Lo Mismo Ni Es Igual",
-        "url": "https://open.spotify.com/album/0RWsJiIvRxAbmzfSTJsabn"
-      },
-      "artists": [
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 207333,
-      "name": "Vale la Pena",
-      "url": "https://open.spotify.com/track/7uC9TpGGHrAssX8NUKBqed"
-    },
-    {
-      "added_at": "2022-10-28 05:00:00",
+      "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "AMANTES",
         "url": "https://open.spotify.com/album/2yEEceuPovV5sAoey4GUJF"
@@ -301,7 +357,7 @@
       "url": "https://open.spotify.com/track/3Q7o2zzvXj7QiSCumjBpvu"
     },
     {
-      "added_at": "2022-10-28 05:00:00",
+      "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "La Bachata",
         "url": "https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2"
@@ -317,7 +373,7 @@
       "url": "https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u"
     },
     {
-      "added_at": "2022-10-28 05:00:00",
+      "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "Dale Pa' Ya (feat. Gente De Zona)",
         "url": "https://open.spotify.com/album/14JiS3KmsTYfDD1gPMXkUA"
@@ -341,7 +397,7 @@
       "url": "https://open.spotify.com/track/591rTyO18GKHVUbb6M0WIX"
     },
     {
-      "added_at": "2022-10-28 05:00:00",
+      "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "El Pa\u00f1uelo",
         "url": "https://open.spotify.com/album/6UHVdZCYgXo8xeSCw4RXp5"
@@ -361,7 +417,7 @@
       "url": "https://open.spotify.com/track/3c7H5RL3H6jFgDTbMxGBe9"
     },
     {
-      "added_at": "2022-10-28 05:00:00",
+      "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "Aqui No Se Sienta Nadie!",
         "url": "https://open.spotify.com/album/18m4lag970uk1AMSvaUZmg"
@@ -377,7 +433,7 @@
       "url": "https://open.spotify.com/track/0k1hbeZodoEw34FAdbh8xM"
     },
     {
-      "added_at": "2022-10-28 05:00:00",
+      "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "DESPECH\u00c1",
         "url": "https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv"
@@ -393,7 +449,7 @@
       "url": "https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc"
     },
     {
-      "added_at": "2022-10-28 05:00:00",
+      "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "La Peruana",
         "url": "https://open.spotify.com/album/69yHTiNzBYqJVtzYj1fOT1"
@@ -413,7 +469,7 @@
       "url": "https://open.spotify.com/track/3GwmnvymwiVxTQ02d1wWB1"
     },
     {
-      "added_at": "2022-10-28 05:00:00",
+      "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "Las Locuras M\u00edas",
         "url": "https://open.spotify.com/album/0PE6hxgSMyjrsiN0MktJpL"
@@ -429,7 +485,7 @@
       "url": "https://open.spotify.com/track/58sCyRSFBV0m60kbV9rtp9"
     },
     {
-      "added_at": "2022-10-28 05:00:00",
+      "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "Se\u00f1or Juez",
         "url": "https://open.spotify.com/album/7jAArelViCK8oA7Anmlw5v"
@@ -449,7 +505,7 @@
       "url": "https://open.spotify.com/track/2PH533J1xudlfZ5GaHAdVX"
     },
     {
-      "added_at": "2022-10-28 05:00:00",
+      "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "Mala",
         "url": "https://open.spotify.com/album/6w2JzY6IjHoT8KH4IuSlIY"
@@ -465,7 +521,7 @@
       "url": "https://open.spotify.com/track/2kjj1x4sXh2D9ACYNnvVMn"
     },
     {
-      "added_at": "2022-10-28 05:00:00",
+      "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "H\u00e1blame de Miami",
         "url": "https://open.spotify.com/album/4yHi7BzkWVcF7SOIAGhJHE"
@@ -485,7 +541,7 @@
       "url": "https://open.spotify.com/track/1dYV5vIMPKqkGKgxlZ5CL0"
     },
     {
-      "added_at": "2022-10-28 05:00:00",
+      "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "El Mismo Aire",
         "url": "https://open.spotify.com/album/58jn8fMK2cWTJUuVLjLJdY"
@@ -501,7 +557,7 @@
       "url": "https://open.spotify.com/track/5Y0hkLkzdrTuPGWYLvm6oO"
     },
     {
-      "added_at": "2022-10-28 05:00:00",
+      "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "Pa'lla Voy",
         "url": "https://open.spotify.com/album/7Egfnc2y2UO9Gqeh5nYzDh"
@@ -517,7 +573,7 @@
       "url": "https://open.spotify.com/track/05jVbjHBsX3V8OxFWlpayR"
     },
     {
-      "added_at": "2022-10-28 05:00:00",
+      "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "ALTER EGO",
         "url": "https://open.spotify.com/album/3si9Tt0MEyLf26borb6B5p"
@@ -533,7 +589,7 @@
       "url": "https://open.spotify.com/track/30oZjF87SHCd0CE0ttGm5U"
     },
     {
-      "added_at": "2022-10-28 05:00:00",
+      "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "Cumbia Del Coraz\u00f3n",
         "url": "https://open.spotify.com/album/3mfwypID037UHlutwTYINo"
@@ -553,7 +609,7 @@
       "url": "https://open.spotify.com/track/4dURe03os9BAxIO0RThU28"
     },
     {
-      "added_at": "2022-10-28 05:00:00",
+      "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "Como Tu No Hay Dos (Acoustic Version)",
         "url": "https://open.spotify.com/album/6LxvokuIy4HhATjbxNAXzH"
@@ -573,7 +629,7 @@
       "url": "https://open.spotify.com/track/4CpPFzhamJ5cuxZmBL8NTd"
     },
     {
-      "added_at": "2022-10-28 05:00:00",
+      "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "Ateo",
         "url": "https://open.spotify.com/album/6Re7sviVustR53KeArspwK"
@@ -593,7 +649,7 @@
       "url": "https://open.spotify.com/track/5xiAfKzE3mbxYbOkUZPR11"
     },
     {
-      "added_at": "2022-10-28 05:00:00",
+      "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "BEB\u00c9",
         "url": "https://open.spotify.com/album/0krfGu8Xf8xZGOeEcQUjai"
@@ -613,7 +669,7 @@
       "url": "https://open.spotify.com/track/7D7EH7MGyNHWSkqrszerI1"
     },
     {
-      "added_at": "2022-10-28 05:00:00",
+      "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "Canci\u00f3n Bonita",
         "url": "https://open.spotify.com/album/0MykRhKNiatX85K4bCHL8U"
@@ -633,7 +689,7 @@
       "url": "https://open.spotify.com/track/5iF33sXejXwfTuidVHMll0"
     },
     {
-      "added_at": "2022-10-28 05:00:00",
+      "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "40",
         "url": "https://open.spotify.com/album/1uF0bcswgdJBg2aq2r1HPk"
@@ -649,7 +705,7 @@
       "url": "https://open.spotify.com/track/1JXcB149QtbcIpDUA6YZOB"
     },
     {
-      "added_at": "2022-10-28 05:00:00",
+      "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "Conv\u00e9nceme",
         "url": "https://open.spotify.com/album/6oxouERjg3yRQALERagHVx"
@@ -669,7 +725,7 @@
       "url": "https://open.spotify.com/track/12oFSoib1tf0r2rd1Fgsfe"
     },
     {
-      "added_at": "2022-10-28 05:00:00",
+      "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "Como Te Pago",
         "url": "https://open.spotify.com/album/4wsFdlinRYh4XPvMLwSgEM"
@@ -685,7 +741,7 @@
       "url": "https://open.spotify.com/track/4lkbBBumrQF1SDhQkqs0Y3"
     },
     {
-      "added_at": "2022-10-28 05:00:00",
+      "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "Sin Fin",
         "url": "https://open.spotify.com/album/6bcsXfLlMTAWGWdWofzM2l"
@@ -705,7 +761,7 @@
       "url": "https://open.spotify.com/track/3qaHzxjNtFU7QiEuhGx70x"
     },
     {
-      "added_at": "2022-10-28 05:00:00",
+      "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "atravesao",
         "url": "https://open.spotify.com/album/2NQf4yrGL2SCUFvOYIKdFr"
@@ -721,7 +777,7 @@
       "url": "https://open.spotify.com/track/00HU2RYUeBcOVJPbdOtdJ2"
     },
     {
-      "added_at": "2022-10-28 05:00:00",
+      "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "Prince Royce",
         "url": "https://open.spotify.com/album/5zEFCJy9kAyD8rMbBESdYh"
@@ -737,7 +793,7 @@
       "url": "https://open.spotify.com/track/07p0kLnvfQQ2bLujHyzSGK"
     },
     {
-      "added_at": "2022-10-28 05:00:00",
+      "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "Ayer Me Llam\u00f3 Mi Ex \u2013 Remix",
         "url": "https://open.spotify.com/album/1Sgw2Rij4RGIzFzZK2oKWE"
@@ -765,7 +821,7 @@
       "url": "https://open.spotify.com/track/59nnGpAU3AiL2tD0o2It11"
     },
     {
-      "added_at": "2022-10-28 05:00:00",
+      "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "Pa'lla Voy",
         "url": "https://open.spotify.com/album/463Gp4DWFkicvZ3DCfgj0S"
@@ -781,7 +837,7 @@
       "url": "https://open.spotify.com/track/4CX96IInUaO0d6COMz62Qp"
     },
     {
-      "added_at": "2022-10-28 05:00:00",
+      "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "Mi Mundo Entero",
         "url": "https://open.spotify.com/album/072Mfoviq24EXm7lQXzqUw"
@@ -797,7 +853,7 @@
       "url": "https://open.spotify.com/track/3NSpi51nrX9BkWUHN08QAJ"
     },
     {
-      "added_at": "2022-10-28 05:00:00",
+      "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "Cartas Sobre La Mesa",
         "url": "https://open.spotify.com/album/2vHiGSGYRjcoJMarvktzhi"
@@ -813,27 +869,7 @@
       "url": "https://open.spotify.com/track/0uXqpDkoW72tss8cbja7Ew"
     },
     {
-      "added_at": "2022-10-28 05:00:00",
-      "album": {
-        "name": "Dios As\u00ed Lo Quiso",
-        "url": "https://open.spotify.com/album/2XLdU438g2M5bBHAO1yNWf"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Montaner",
-          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
-        },
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 213316,
-      "name": "Dios As\u00ed Lo Quiso",
-      "url": "https://open.spotify.com/track/6pSS2IOxlapb62T7NAOX1Q"
-    },
-    {
-      "added_at": "2022-10-28 05:00:00",
+      "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "Te Espero",
         "url": "https://open.spotify.com/album/6vBJJJEUCqmzaBnzwtRgPK"
@@ -853,7 +889,7 @@
       "url": "https://open.spotify.com/track/46GsFW8AFIvi8TUDlYRlXR"
     },
     {
-      "added_at": "2022-10-28 05:00:00",
+      "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "Bailando Bachata",
         "url": "https://open.spotify.com/album/29fbzUtbrxI4VBEcH5odVx"
@@ -873,7 +909,7 @@
       "url": "https://open.spotify.com/track/0wJTU840o7lLDqWumgyf33"
     },
     {
-      "added_at": "2022-10-28 05:00:00",
+      "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "De Vuelta Pa' La Vuelta",
         "url": "https://open.spotify.com/album/1mFvOlraT4JKt4D7aGb9tc"
@@ -893,7 +929,7 @@
       "url": "https://open.spotify.com/track/7AUhck1sPy11OExQmDDx4P"
     },
     {
-      "added_at": "2022-10-28 05:00:00",
+      "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "Ya Me Enter\u00e9",
         "url": "https://open.spotify.com/album/1T4GzD73DNzvF7jx6uNdUd"
@@ -909,23 +945,7 @@
       "url": "https://open.spotify.com/track/4Kjll3JYjHkaOySaJyUNjH"
     },
     {
-      "added_at": "2022-10-28 05:00:00",
-      "album": {
-        "name": "Rosal\u00eda (Live)",
-        "url": "https://open.spotify.com/album/22mTAWnV1iRTeYdF9sq7D8"
-      },
-      "artists": [
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 200520,
-      "name": "Rosal\u00eda - Live",
-      "url": "https://open.spotify.com/track/4YwUVJPlq93RcAYDLz31uP"
-    },
-    {
-      "added_at": "2022-10-28 05:00:00",
+      "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "De Menor a Mayor",
         "url": "https://open.spotify.com/album/2e2SQ7KNvfX4B5MinwH4Cs"
@@ -945,7 +965,7 @@
       "url": "https://open.spotify.com/track/3OymSyNaXj5AQI6veTh9f2"
     },
     {
-      "added_at": "2022-10-28 05:00:00",
+      "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "11:11",
         "url": "https://open.spotify.com/album/3YIUNL7qFE8NP3X3zaYSND"
@@ -961,7 +981,7 @@
       "url": "https://open.spotify.com/track/71WrR2qgwisH0tJZnI5xiQ"
     },
     {
-      "added_at": "2022-10-28 05:00:00",
+      "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "Otra Noche (feat. Chimbala)",
         "url": "https://open.spotify.com/album/3WrSZZRpIC59kGA2ALvpTA"
@@ -985,7 +1005,7 @@
       "url": "https://open.spotify.com/track/2mOPn2j1CpwHDPmoevW1y6"
     },
     {
-      "added_at": "2022-10-28 05:00:00",
+      "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "Lao' a Lao'",
         "url": "https://open.spotify.com/album/1tvJvDz3tXfhq0xfABFuU9"
@@ -1001,7 +1021,7 @@
       "url": "https://open.spotify.com/track/7FERDnffKGQKul3P32Sm37"
     },
     {
-      "added_at": "2022-10-28 05:00:00",
+      "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "No Dudo",
         "url": "https://open.spotify.com/album/6CUbJ80uoznmK83or6sAnA"
@@ -1017,7 +1037,7 @@
       "url": "https://open.spotify.com/track/5GM9s07GhcM7f71kDnRc5l"
     },
     {
-      "added_at": "2022-10-28 05:00:00",
+      "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "Sus Huellas",
         "url": "https://open.spotify.com/album/3dlSb1l960OG7kjmPvirXU"
@@ -1033,7 +1053,7 @@
       "url": "https://open.spotify.com/track/2NTMjOwveAazm5GS2wgDgw"
     },
     {
-      "added_at": "2022-10-28 05:00:00",
+      "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "Friends & Legends",
         "url": "https://open.spotify.com/album/6ynC3pKZOdcjotW7NTFta1"
@@ -1053,7 +1073,7 @@
       "url": "https://open.spotify.com/track/6ut8ePIEbWycmzEHXWU06p"
     },
     {
-      "added_at": "2022-10-28 05:00:00",
+      "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "MAFIOSA",
         "url": "https://open.spotify.com/album/2UViwTgvnwO2aKYLFrQ9RH"
@@ -1069,23 +1089,7 @@
       "url": "https://open.spotify.com/track/1X1vW0xDpkOS35ZxcPqLv6"
     },
     {
-      "added_at": "2022-10-28 05:00:00",
-      "album": {
-        "name": "Esc\u00fachame Mi Amor",
-        "url": "https://open.spotify.com/album/2JLsZ8rCJFCnjNIkepUej0"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Rod",
-          "url": "https://open.spotify.com/artist/5UjFDinYOVndyri7JqzcAP"
-        }
-      ],
-      "duration_ms": 225914,
-      "name": "Esc\u00fachame Mi Amor - (Versi\u00f3n Salsa)",
-      "url": "https://open.spotify.com/track/3ls8JeVnVqZjgxBUQ6dFmN"
-    },
-    {
-      "added_at": "2022-10-28 05:00:00",
+      "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "Al Son del Amor",
         "url": "https://open.spotify.com/album/6goR8Q0XST04Tef97Gy1aB"
@@ -1101,7 +1105,7 @@
       "url": "https://open.spotify.com/track/2atJaPb759uwrX8Z2tVeNA"
     },
     {
-      "added_at": "2022-10-28 05:00:00",
+      "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "Tuki Tuki",
         "url": "https://open.spotify.com/album/0dU3EdsJVImaGc9kYRQF9p"

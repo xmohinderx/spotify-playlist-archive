@@ -4,7 +4,7 @@
 
 > Keep calm and focus with ambient and post\-rock music.
 
-488 songs - 1 day 4 hr 0 min - [published](https://open.spotify.com/playlist/5W4NxHsN7nLdCvGkEWUuYB)
+494 songs - 1 day 4 hr 17 min - [published](https://open.spotify.com/playlist/5W4NxHsN7nLdCvGkEWUuYB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Another Mellow Morning](https://open.spotify.com/track/3Zo7qbx3AaRTfQBzrcYwy8) | [Spirits Of Our Dreams](https://open.spotify.com/artist/2RmEoDzAVo3AKLolGZ1Uss) | [Another Mellow Morning](https://open.spotify.com/album/2rv2qbzEqctupxhMXkDX7n) | 3:59 | 2019-12-07 | 2020-08-07 |
 | [Any Given Place](https://open.spotify.com/track/2WltUi1jhpoiksDrlJUBlr) | [Of Water](https://open.spotify.com/artist/0vrr0Uu8SDXaogmsFovyC2) | [Beyond Exploding Stars](https://open.spotify.com/album/1eiqm039IN4hvY85s8VgQP) | 3:04 | 2019-05-26\* | 2020-04-13 |
 | [Anything You Synthesize \- Ambient](https://open.spotify.com/track/0OF6WSdeVmYEGBZlxvwvLq) | [The American Dollar](https://open.spotify.com/artist/5r4OqYJL7JrtZlffx7FJlb) | [Ambient One](https://open.spotify.com/album/7A6VoC5v3dHcINkZudtJaD) | 4:08 | 2019-05-26\* | 2020-01-03 |
+| [apple of my eye](https://open.spotify.com/track/6obsAYZi05zj2412g9UsGJ) | [Spaced Out Dreams](https://open.spotify.com/artist/7iGqNpmYWmkzGG6gwIVAha) | [apple of my eye](https://open.spotify.com/album/2DCZOJBOiKA7VZDNyXuwl0) | 2:29 | 2022-11-11 |  |
 | [Apricity](https://open.spotify.com/track/6cr9XbO2yAJgTNa6XNRINF) | [Imala Zir](https://open.spotify.com/artist/5hOW2X7ZiiV85jFgK4mLlo) | [Apricity](https://open.spotify.com/album/1NaEmkywxX1nBWYK7Erqog) | 2:38 | 2022-06-16 |  |
 | [Archipelago Dreams](https://open.spotify.com/track/0tWJSrOeixKQQcYEws7HTF) | [Halcyon Fields](https://open.spotify.com/artist/7xaDRbKDpOyZnL91F1ki3E) | [Waves Of Hope](https://open.spotify.com/album/1sZDGmD13RMH6acZ2Ix2hO) | 2:36 | 2019-05-26\* | 2020-01-09 |
 | [Arriving](https://open.spotify.com/track/0VZSqwbrOlZxOEakvAQX5a) | [Hilder Sky](https://open.spotify.com/artist/4VtFCdJXVb9aKGq8Pt5dZQ) | [Arriving](https://open.spotify.com/album/7CosLPjvMgHwpwVgZiwNbi) | 2:25 | 2019-06-19\* |  |
@@ -157,6 +158,7 @@
 | [Focus](https://open.spotify.com/track/3l7mCSypI6tYJvYe8dDI4f) | [IFEELU](https://open.spotify.com/artist/59TdBGgpKBf2dRrmguF06s) | [Focus](https://open.spotify.com/album/0Q6OXWzRgM4pbUlxYMV2Pb) | 2:47 | 2020-05-18 |  |
 | [Focus](https://open.spotify.com/track/3DZ7DFolE5U2xEGIzFjeGo) | [Light of Sun](https://open.spotify.com/artist/1G18ferRDAgDuiTaMkoFQf) | [Focus](https://open.spotify.com/album/11a6ahi4zzT4ZRFH06KODz) | 3:10 | 2019-06-27 |  |
 | [Follow me](https://open.spotify.com/track/7d44sL4znFm5HZ6ltUVqbI) | [Andre Ehmann](https://open.spotify.com/artist/1PsIQFkwqSXuQpqK4lxkf6) | [Follow me](https://open.spotify.com/album/7u7hd3qp84YgMuLtsT0GJU) | 3:24 | 2019-07-31 |  |
+| [Follow My Voice](https://open.spotify.com/track/5bUMUrnrWr29gSRy7UgUOO) | [Niveous](https://open.spotify.com/artist/3KIXk1rxDXMHyRgUvKplyx) | [Follow My Voice](https://open.spotify.com/album/1bVYg6JB1Z0zc0IsHNNHUb) | 2:59 | 2022-11-11 |  |
 | [For a Moment](https://open.spotify.com/track/1hPEjphQtd9xBOLL4v1VYn) | [Amaranth Cove](https://open.spotify.com/artist/1Gt39QnTBTndeyiJ5SO04q) | [Reconstruct](https://open.spotify.com/album/07xYLClB2NU5CC5wxFlU4d) | 2:49 | 2020-10-08 |  |
 | [Forever Distant](https://open.spotify.com/track/6phzRtzX5AMmgRVhB02Xas) | [The Echelon Effect](https://open.spotify.com/artist/20lGLFmdtadbUYmqzFRcA2) | [Drift Static](https://open.spotify.com/album/1ZDokMeeup5hmKWk0tgPdu) | 3:00 | 2020-11-18 |  |
 | [Found](https://open.spotify.com/track/2T2EemW8X3GlKvJe1gxpBC) | [Martin Gauffin](https://open.spotify.com/artist/5dDn2NkprqEkypmRzyAtPt) | [Found](https://open.spotify.com/album/2LtKNN5HRbG0Acos9YDAMA) | 2:39 | 2019-09-14 |  |
@@ -370,6 +372,7 @@
 | [Sleepwalking](https://open.spotify.com/track/2JTCTVErzT3ydfILSvfImZ) | [Toledo Rains](https://open.spotify.com/artist/76uaa6flgNHI5elCp0ssBF) | [The Flow](https://open.spotify.com/album/4No1BWcLfp9OnirTStsSPC) | 2:33 | 2019-06-19\* | 2020-06-19 |
 | [Slip Away](https://open.spotify.com/track/7Dxb8siYBoC5rZRPTmhob4) | [Elementaries](https://open.spotify.com/artist/1kB8QJP6BXE8ezroP29Z5r) | [Slip Away](https://open.spotify.com/album/1ZSKyQhiqExn4Sj1jYT8qd) | 3:29 | 2021-09-14 |  |
 | [Snowfields](https://open.spotify.com/track/5l3iFPNLr9pWXeYOI7dDhs) | [Shape Of Our Dreams](https://open.spotify.com/artist/17QBpw01txiuRtneh0l1tc) | [Snowfields](https://open.spotify.com/album/2IdkBSoQpjPa5LUo46DDe5) | 2:48 | 2022-04-07 |  |
+| [So Far So Good](https://open.spotify.com/track/6zTbtySCRStJOv5xA4XvRE) | [Sun Of They](https://open.spotify.com/artist/5zmB7dGi1rKdsEYVxQvJpS) | [Silent Hills](https://open.spotify.com/album/7xYYqOvmtEajArpzTEcAQZ) | 2:31 | 2022-11-11 |  |
 | [So Long, Lonesome](https://open.spotify.com/track/5veFQvY6ooJ0rzjxO9cAkW) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [All of a Sudden I Miss Everyone](https://open.spotify.com/album/7LNOp3ZlUVM32K3bBczUux) | 3:40 | 2019-05-26\* | 2019-06-19 |
 | [Soft Upon Your Face](https://open.spotify.com/track/2BhV8WT7wkp5T3pcl7RRNa) | [Ave Air](https://open.spotify.com/artist/2P6DMnuFgtU6UWuxTcF5nU) | [Paper Thin Reality](https://open.spotify.com/album/0yly5h7LGTBQz6Z8Mx72HV) | 3:14 | 2022-07-27 | 2022-10-15 |
 | [Soft Upon Your Face](https://open.spotify.com/track/49LQIdr4hToVH3JdvzTQYC) | [Ave Air](https://open.spotify.com/artist/2P6DMnuFgtU6UWuxTcF5nU) | [Paper Thin Reality](https://open.spotify.com/album/177eLIIJkUNlLVYqxxfPCO) | 3:14 | 2019-06-19\* | 2022-07-29 |
@@ -411,6 +414,7 @@
 | [The Light](https://open.spotify.com/track/2JPF4tCg8thUuISn496ynn) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [Into The Blue Again](https://open.spotify.com/album/1pFrCdJfefM5UgijeacUpB) | 4:29 | 2019-05-26\* | 2019-06-19 |
 | [The Light is on](https://open.spotify.com/track/2Sz1ecyIujZ248BMzSjE8z) | [Man With A Horse](https://open.spotify.com/artist/4VIQtKYdZ6NMgCLGLx7BfO) | [The Light Is On](https://open.spotify.com/album/6aWGNwCECmCu0iJQBs9Iqw) | 4:55 | 2019-05-26\* | 2019-06-19 |
 | [The Light of Day](https://open.spotify.com/track/214O1Gcgv9lCWJoley3Ttg) | [Chymeris](https://open.spotify.com/artist/2WuwBckoWivO9e7DgRFt6F) | [The Light of Day](https://open.spotify.com/album/7mMVxWIPhNEyozLDXxqw71) | 2:47 | 2019-06-19\* | 2021-09-14 |
+| [the light of day](https://open.spotify.com/track/0gDMSJ8JtTjnAnROaM4L9w) | [Imala Zir](https://open.spotify.com/artist/5hOW2X7ZiiV85jFgK4mLlo) | [the light of day](https://open.spotify.com/album/3OsB2G6NwObtL0CLG8rkW7) | 3:23 | 2022-11-11 |  |
 | [The Meaning](https://open.spotify.com/track/4XBdcBdB8cIlJIipHbTd7G) | [Fondur](https://open.spotify.com/artist/13HVLXNw3aIkcbo354xEcS) | [The Meaning](https://open.spotify.com/album/6R8HbHMhZq7h4LgxIQ5OeD) | 3:18 | 2022-04-14 |  |
 | [The Outlook](https://open.spotify.com/track/58BB8I0IO8pxDkwuwWyEdw) | [Benjamin Martins](https://open.spotify.com/artist/5oqbogYQRxno77NT1FFrt5) | [The Outlook](https://open.spotify.com/album/4hoEgPCfFsv0fr9F5gkZ3t) | 2:58 | 2021-12-22 |  |
 | [The Plains of Dover](https://open.spotify.com/track/3ExU31i7Fh2vbhB1DzM1Gr) | [Ceilidh](https://open.spotify.com/artist/3c4jBYA9Q6SFvKxMBTACgg) | [The Plains of Dover](https://open.spotify.com/album/0aA4oMl9Ggfh4ZyvjM2fMM) | 3:11 | 2019-05-26\* | 2020-08-07 |
@@ -434,6 +438,7 @@
 | [they sink](https://open.spotify.com/track/4tnWEXeAgZWTRULCkJ6IGL) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [re:member](https://open.spotify.com/album/6JpQGIi2he6iskzR4aLwPG) | 2:35 | 2019-06-19\* |  |
 | [Threnody](https://open.spotify.com/track/7hyAAjHZaDWSPDzlUYNUIa) | [Goldmund](https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw) | [The Malady Of Elegance](https://open.spotify.com/album/1vF5y6BC66nKozxg0Dsvvo) | 4:41 | 2019-05-26\* | 2019-06-19 |
 | [Thunder Rising](https://open.spotify.com/track/6ssI2e4kR5YA78MRoeskKS) | [The American Dollar](https://open.spotify.com/artist/5r4OqYJL7JrtZlffx7FJlb) | [Thunder Rising](https://open.spotify.com/album/6Tcoj33aj1RyF7w8IV4Rvk) | 5:46 | 2019-06-19\* | 2019-06-27 |
+| [Tied Together](https://open.spotify.com/track/6fE5kgw2HR8AxQGqA3e2Gu) | [Agnes Lundh](https://open.spotify.com/artist/3OJ5pC5H7eYoyow4sXULSt) | [next to everything](https://open.spotify.com/album/4ps47i5khFyqqMrkd87l1U) | 2:36 | 2022-11-11 |  |
 | [Time \- Ambient Version](https://open.spotify.com/track/0KTtCugGvdvAMaO1VhyLhS) | [The American Dollar](https://open.spotify.com/artist/5r4OqYJL7JrtZlffx7FJlb) | [Music for Chilling Out](https://open.spotify.com/album/4Rvy7O67o7ZEx0IpBoqkIf) | 5:12 | 2019-06-19\* | 2019-08-13 |
 | [Time Travel](https://open.spotify.com/track/2ENH05Q7PkilEF6WujXNjG) | [AMBIE](https://open.spotify.com/artist/5oo57Q3XAVgiuF4D2BSz6D) | [Rooftops](https://open.spotify.com/album/7xZXttB5IlX5eoYBPlwrEa) | 2:40 | 2020-08-07 |  |
 | [Timeless](https://open.spotify.com/track/2dqeTHHeyLioSSCn9L3xbc) | [Orchestrate the Universe](https://open.spotify.com/artist/1zNZgpcWzRGBIxYh815Mim) | [Timeless](https://open.spotify.com/album/7Bs9jEwbi5uF0iVPd0NN0o) | 1:56 | 2019-07-31 |  |
@@ -448,6 +453,7 @@
 | [Two One, Four](https://open.spotify.com/track/5aZiydPTohZchLHmPUUxTD) | [Fyfe](https://open.spotify.com/artist/1xkxEEm60IyknT2Eh469mX), [Iskra Strings](https://open.spotify.com/artist/3y05eQyusaM1cfQTKuCzPK) | [Fyfe & Iskra Strings EP 1](https://open.spotify.com/album/0dxUL60NElc89vqxXypMrX) | 4:37 | 2019-06-19\* | 2021-09-14 |
 | [U Adelie](https://open.spotify.com/track/5GbSZr9Wi8i7MWv8HugyPt) | [Arctic Vision](https://open.spotify.com/artist/3bt00stZuACL1bcaDZjFpg) | [Arctic Vision](https://open.spotify.com/album/0riEsCVLa5iRC3bl74wRc9) | 5:38 | 2019-05-26\* | 2019-06-19 |
 | [Ultraviolet](https://open.spotify.com/track/5zaYPmW3fWxDcPrGQxPsZ2) | [Evan Michael Brown](https://open.spotify.com/artist/6JA76EJW25d9MGVwGCmX1z) | [Above The Clouds](https://open.spotify.com/album/6Sjxd5p5VEM0Mj6FnhqPpP) | 4:16 | 2019-06-19\* | 2020-10-27 |
+| [Ultraviolet](https://open.spotify.com/track/1m1G0nm9tWDY8Jr3T1Dzi4) | [Josef Briem](https://open.spotify.com/artist/4WPCpYGEKs5yshn2wETIDB) | [Ultraviolet](https://open.spotify.com/album/71YZyF8JuiLTb5OomLMqGr) | 2:53 | 2022-11-11 |  |
 | [Undeniable](https://open.spotify.com/track/3aQlVIegX4nPS2igYBFllB) | [Hollow Light](https://open.spotify.com/artist/0ANrW9wJEthapCrJsd4i4F) | [Undeniable](https://open.spotify.com/album/0NjytImwGt0Y7a6Ay4wdiF) | 2:55 | 2022-02-09 |  |
 | [Under The Wind](https://open.spotify.com/track/4YS6FM8lct3QyV2oGIrCp4) | [The Tides](https://open.spotify.com/artist/0Z3GVEGMJYq0nTdZNJAx4V) | [Under The Wind](https://open.spotify.com/album/6E1x5WibS1p1kHsDuXfiau) | 4:00 | 2019-12-11 | 2022-10-15 |
 | [Understudy](https://open.spotify.com/track/0Y41ZfnVaNRQp9dQiagwbC) | [Josie Mehlin](https://open.spotify.com/artist/3VkUsVhRvP02IX46EWGzQz) | [Understudy](https://open.spotify.com/album/3VcIkzC32KOKkJNheSSwzW) | 2:43 | 2019-12-31 | 2020-10-08 |

@@ -4,7 +4,7 @@
 
 > Lasers, lights & euphoric beats \- all your favorite trance anthems!
 
-86 songs - 7 hr 0 min - [published](https://open.spotify.com/playlist/7xW7e8MTRyrmROWiDQT1hb)
+87 songs - 7 hr 4 min - [published](https://open.spotify.com/playlist/7xW7e8MTRyrmROWiDQT1hb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Awakening \- Radio Edit](https://open.spotify.com/track/5QiCJ1Uxzk1lgzbuk9WH2L) | [Rank 1](https://open.spotify.com/artist/1eQe86RbDKRIiGZk08r9YJ) | [Symsonic](https://open.spotify.com/album/6P7JbeaSgpo5XdLzXmin1z) | 2:55 | 2022-04-13 |  |
 | [Beachball \- Vocal Radio Edit](https://open.spotify.com/track/6iyxF36JnQYzqMbpQD861R) | [Nalin & Kane](https://open.spotify.com/artist/6JUsbe4yjY4fZbXTtpyfh6) | [Beachball](https://open.spotify.com/album/5twL3A9cQUR61zLddNP6cf) | 3:54 | 2022-04-13 |  |
 | [Better Off Alone](https://open.spotify.com/track/0pMUR7Uvp6vxlbG0qBFvgM) | [Alice Deejay](https://open.spotify.com/artist/2tbvDi9eXf9XXp06LupkED) | [Who Needs Guitars Anyway?](https://open.spotify.com/album/5oPKlo7IBFXlh12tqDVoAU) | 3:34 | 2022-04-13 | 2022-07-20 |
+| [Better Off Alone](https://open.spotify.com/track/4u4JMXuhg94qU88lzeiiuq) | [Alice Deejay](https://open.spotify.com/artist/2tbvDi9eXf9XXp06LupkED) | [Better Off Alone](https://open.spotify.com/album/6TQUSCFEAaprlLgqBgMSXb) | 3:34 | 2022-04-13 |  |
 | [Better Off Alone](https://open.spotify.com/track/5XVjNRubJUW0iPhhSWpLCj) | [Alice Deejay](https://open.spotify.com/artist/2tbvDi9eXf9XXp06LupkED) | [Who Needs Guitars Anyway?](https://open.spotify.com/album/7wyEph8JrTyNFNPmRCu3pU) | 3:34 | 2022-04-13 | 2022-11-11 |
 | [Bits N Pianos](https://open.spotify.com/track/6F85zMy5Ucjr1H6dsdZYYx) | [SDC](https://open.spotify.com/artist/6qSmkoM4CdhOuo08wFdwDx) | [Bits N Pianos](https://open.spotify.com/album/5ThZFZtXcEDqXzsu970pdd) | 5:29 | 2022-04-13 |  |
 | [Blue Fear](https://open.spotify.com/track/4ljvM25QQsr2qRYnN5COID) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Trance Top 1000 \- The Legends](https://open.spotify.com/album/6EFXK7ipsLo87KEXAkONR0) | 3:40 | 2022-04-13 | 2022-04-21 |
@@ -74,7 +75,7 @@
 | [Silence \- Airscape Remix Edit](https://open.spotify.com/track/3HyU67HfMANQxFg34kHfco) | [Delerium](https://open.spotify.com/artist/0IUq1plF3ON4Fboj1bE6kN), [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp), [Airscape](https://open.spotify.com/artist/2tTZL2CE2Z190UPlHsjzym) | [Silence](https://open.spotify.com/album/6smXgAugj1QBLAO0BXol5P) | 3:51 | 2022-04-13 |  |
 | [Silence \- DJ Tiësto's In Search Of Sunrise Edit](https://open.spotify.com/track/2jAjkmZIKwV5VOBiZ3qUUL) | [Delerium](https://open.spotify.com/artist/0IUq1plF3ON4Fboj1bE6kN), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [The Best Of](https://open.spotify.com/album/2YrnYkO6WGGx5e0UfNbGps) | 3:55 | 2022-04-13 | 2022-11-11 |
 | [Silence \- DJ Tiësto's in Search of Sunrise Remix](https://open.spotify.com/track/47st2meAZHGnG9UJU1YyVU) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Magik Six \(Live in Amsterdam\)](https://open.spotify.com/album/1zBJu5maXZeKtN2Sj571Rp) | 11:32 | 2022-04-13 |  |
-| [Someone \- Original Mix](https://open.spotify.com/track/2IZnE8sBqz4X8zgaRiAM7p) | [Ascension](https://open.spotify.com/artist/6R02LUvSJaMB0WXZ8cRHRQ) | [Someone](https://open.spotify.com/album/3cYHxVX4Q14aKb0XUGZNLK) | 8:56 | 2022-04-13 |  |
+| [Someone \- Original Mix](https://open.spotify.com/track/2IZnE8sBqz4X8zgaRiAM7p) | [Ascension](https://open.spotify.com/artist/6R02LUvSJaMB0WXZ8cRHRQ) | [Someone](https://open.spotify.com/album/3cYHxVX4Q14aKb0XUGZNLK) | 8:56 | 2022-04-13 | 2022-11-12 |
 | [Something](https://open.spotify.com/track/3e9L9HiHKcfYLAga28Vmcf) | [Lasgo](https://open.spotify.com/artist/25Kw8f1zcn9VtUk5Nl3qrp) | [Some Things](https://open.spotify.com/album/7d5N4KB4rlO1kqcoyLdm3h) | 3:40 | 2022-04-13 |  |
 | [Southern Sun \- DJ Tiësto Remix](https://open.spotify.com/track/1bAHNj6NQQqbRmnlWyOQvC) | [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [Carla Werner](https://open.spotify.com/artist/3SMF5D7b8NM3YFSsgu9WQ9), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Southern Sun / Ready Steady Go](https://open.spotify.com/album/10vaUmlTOpclr1x7xjYS8h) | 9:44 | 2022-04-13 |  |
 | [Stonecold \- Radio Edit](https://open.spotify.com/track/0DqhPqYIRfWAylYpBBtnNd) | [Bossanova](https://open.spotify.com/artist/3WZRhTTwhsDVDbpsy2mi7l) | [A State Of Trance Classics, Vol\. 7](https://open.spotify.com/album/7fV9Ip8u5o1BRMPPrpZhNF) | 3:30 | 2022-04-13 | 2022-07-29 |

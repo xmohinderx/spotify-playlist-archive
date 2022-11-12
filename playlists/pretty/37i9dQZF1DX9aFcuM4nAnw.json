@@ -1,12 +1,12 @@
 {
   "description": "Immerse deeper into obscure alternate dimensions... \ud83e\udd87\ud83d\udd2e",
-  "num_followers": 2038,
+  "num_followers": 2045,
   "original_name": "Stranger Ambient",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzcxOTkxMywwMDAwMDAwMDVkZmY3MTg1YjM3YzllOTM5NzIxODFhOTlhMjhhZjA5",
+  "snapshot_id": "MTY2MzcxOTkxMywwMDAwMDAwMGYzZTcxOTAyYzgxZGVlMTRlZmY0MjZlN2MxODE0YTU0",
   "tracks": [
     {
       "added_at": "2022-07-06 17:58:03",
@@ -59,8 +59,8 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "Melancholia",
-        "url": "https://open.spotify.com/album/40PGXFDDAcsyKVFA3IcN4q"
+        "name": "Coming Home by Pantha du Prince",
+        "url": "https://open.spotify.com/album/43kzl72U8vM6i4t400YoJ2"
       },
       "artists": [
         {
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB"
         }
       ],
-      "duration_ms": 205133,
+      "duration_ms": 202338,
       "name": "Melancholia I",
-      "url": "https://open.spotify.com/track/6mO6BqqwxzdzofedxrixBA"
+      "url": "https://open.spotify.com/track/6GsXMqsYc6lpo6Ay0aeOMs"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -951,18 +951,18 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "In Fabric OST",
-        "url": "https://open.spotify.com/album/17kJIlUTdZBateK6SysxZ1"
+        "name": "The Willows",
+        "url": "https://open.spotify.com/album/5ilT4DXjIzF81QkF5uYMZU"
       },
       "artists": [
         {
-          "name": "Cavern of Anti-Matter",
-          "url": "https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt"
+          "name": "Belbury Poly",
+          "url": "https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB"
         }
       ],
-      "duration_ms": 254624,
-      "name": "Mannequin Metric",
-      "url": "https://open.spotify.com/track/2B32tq6y3LxOnV9OkCZLOe"
+      "duration_ms": 283786,
+      "name": "The Willows",
+      "url": "https://open.spotify.com/track/0e9Zk8SwtlzNJ27ch4HIsY"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -991,18 +991,18 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "The Willows",
-        "url": "https://open.spotify.com/album/5ilT4DXjIzF81QkF5uYMZU"
+        "name": "In Fabric OST",
+        "url": "https://open.spotify.com/album/17kJIlUTdZBateK6SysxZ1"
       },
       "artists": [
         {
-          "name": "Belbury Poly",
-          "url": "https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB"
+          "name": "Cavern of Anti-Matter",
+          "url": "https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt"
         }
       ],
-      "duration_ms": 283786,
-      "name": "The Willows",
-      "url": "https://open.spotify.com/track/0e9Zk8SwtlzNJ27ch4HIsY"
+      "duration_ms": 254624,
+      "name": "Mannequin Metric",
+      "url": "https://open.spotify.com/track/2B32tq6y3LxOnV9OkCZLOe"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "Loneliness of Hidden Structures",
-        "url": "https://open.spotify.com/album/5zmFF4XK5jiz9i8yNvMyiS"
-      },
-      "artists": [
-        {
-          "name": "New Risen Throne",
-          "url": "https://open.spotify.com/artist/2PBztP9oVOgzWXiIrXONKi"
-        }
-      ],
-      "duration_ms": 554760,
-      "name": "Loneliness",
-      "url": "https://open.spotify.com/track/2ttcbHh6jc3fil4h9BIs7A"
-    },
-    {
-      "added_at": "2022-07-06 17:58:03",
-      "album": {
         "name": "Delineation.Metamorphosis.Permanence.",
         "url": "https://open.spotify.com/album/64vjzqH3ZpsUvO8dZ9NZyr"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 310333,
       "name": "Interior Synthesis of Polarity",
       "url": "https://open.spotify.com/track/1rDKcl40U9HOF6VFQoSwqU"
+    },
+    {
+      "added_at": "2022-07-06 17:58:03",
+      "album": {
+        "name": "Loneliness of Hidden Structures",
+        "url": "https://open.spotify.com/album/5zmFF4XK5jiz9i8yNvMyiS"
+      },
+      "artists": [
+        {
+          "name": "New Risen Throne",
+          "url": "https://open.spotify.com/artist/2PBztP9oVOgzWXiIrXONKi"
+        }
+      ],
+      "duration_ms": 554760,
+      "name": "Loneliness",
+      "url": "https://open.spotify.com/track/2ttcbHh6jc3fil4h9BIs7A"
     },
     {
       "added_at": "2022-07-06 17:58:03",

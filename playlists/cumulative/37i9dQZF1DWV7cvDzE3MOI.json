@@ -266,6 +266,36 @@
     },
     {
       "album": {
+        "name": "Chopin For Inspiration",
+        "url": "https://open.spotify.com/album/0lcSvG8KeR4DbD9bId9gLn"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Eldar Nebolsin",
+          "url": "https://open.spotify.com/artist/45ts2AJTWlzJ9JrQlCGxpX"
+        },
+        {
+          "name": "Warsaw Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/3Wqs5ZgX7Orq4YKtPhHdED"
+        },
+        {
+          "name": "Antoni Wit",
+          "url": "https://open.spotify.com/artist/2OJaTm0rPZVyMA5k5s8vbh"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 575773,
+      "name": "Andante spianato and Grande polonaise brillante in E-flat Major, Op. 22: Andante spianato and Grande polonaise brillante in E-flat Major, Op. 22",
+      "url": "https://open.spotify.com/track/4GvwTSQ9qrUKMiOQOnBn2B"
+    },
+    {
+      "album": {
         "name": "Chopin: Piano Concerto No. 2 - Variations on La ci darem - Andante spianato and Grande polonaise brillante",
         "url": "https://open.spotify.com/album/69Ce8PM5A9OBSG5kBeZiHS"
       },
@@ -319,7 +349,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 575773,
       "name": "Andante spianato and Grande Polonaise Brillante, Op. 22: Grande polonaise brillante",
       "url": "https://open.spotify.com/track/5KoStcjKUconPkWFbqVXCh"
@@ -2076,6 +2106,28 @@
     },
     {
       "album": {
+        "name": "Chopin - A Classical Dawn",
+        "url": "https://open.spotify.com/album/68VVls8JOHSJHdrnfd3xdY"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Rafa\u0142 Blechacz",
+          "url": "https://open.spotify.com/artist/4SbPzV12NmiqoWBMCvtP3X"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306053,
+      "name": "Polonaise No. 3 in A Major, Op. 40, No. 1 'Military'",
+      "url": "https://open.spotify.com/track/2wgXU3nBxt3RRnfrcTd3Cu"
+    },
+    {
+      "album": {
         "name": "Chopin: Polonaises",
         "url": "https://open.spotify.com/album/6VKtoTP1F2NzGjNH1ASS68"
       },
@@ -2091,7 +2143,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 306053,
       "name": "Polonaise No. 3 in A Major, Op. 40, No. 1 'Military'",
       "url": "https://open.spotify.com/track/4GIxB5XC9OeeQoIab7rM5S"

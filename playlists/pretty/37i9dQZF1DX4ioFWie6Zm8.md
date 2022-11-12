@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ioFWie6Zm8.md) - [plain]
 
 > A pastoral, uplifting pan\-African café sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,307 likes - 101 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,503 likes - 101 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ioFWie6Zm8.md) - [plain]
 | 19 | [Klé](https://open.spotify.com/track/54aJYTjYCQj6PoabMUGciv) | [Tom Diakité](https://open.spotify.com/artist/5xMaTGRQqjr7dj4YSADneO), [Uckadela](https://open.spotify.com/artist/1abdUt9foYanfxqiJ3buZj) | [Fala](https://open.spotify.com/album/6sUOxZPxWKs2KFVPQcC9Ap) | 4:21 |
 | 20 | [Warico](https://open.spotify.com/track/5GTYdbtzQpudmlo3Madhjf) | [Cheikh Lô](https://open.spotify.com/artist/6CFWXwqEBUi0UFoIIxmg9h) | [Jamm](https://open.spotify.com/album/4sh5kAaYaucu6sFbAakF2y) | 3:25 |
 | 21 | [Atse Tewodros](https://open.spotify.com/track/21RdOi6iAjdIJK9yx8TYrG) | [Gabriella Ghermandi](https://open.spotify.com/artist/65kOUo79VAnY3KLSlkA620), [Yohannes Afework](https://open.spotify.com/artist/4sg8WHFt697sqaEvEmsySU), [Endris Hassan](https://open.spotify.com/artist/3S22bs2bLpIpscRmxjYSEe), [Michele Giuliani](https://open.spotify.com/artist/7MwNSA8qsLd0kBBtfbxAts), [Marcello Piarulli](https://open.spotify.com/artist/43JPaMurizq1fa9KKdnbKa), [Fasika Hailu](https://open.spotify.com/artist/20E2ikHhvy0jFgbcV9pqPf), [Cesare Pastanella](https://open.spotify.com/artist/5QqlZTWbIONXML0zihecw5) | [Celebrating Emperor Tewodros II](https://open.spotify.com/album/4oVxYRZO3pHTIhEd9g6hR1) | 6:06 |
-| 22 | [Imbukula](https://open.spotify.com/track/3UMbW5c5Zgg6gqWPFS1T6I) | [Jackson Ingosi](https://open.spotify.com/artist/131MvZBkyG1UPiYBeppPM7) | [I am a child of the 80s](https://open.spotify.com/album/3iAUsJ7jLcWvpn1gUmMTL2) | 4:45 |
+| 22 | [Imbukula](https://open.spotify.com/track/49SD731vKkB8DOy1Rqr340) | [Jackson Ingosi](https://open.spotify.com/artist/131MvZBkyG1UPiYBeppPM7) | [Discover Music from Africa](https://open.spotify.com/album/6NzbFxFvkvUCoRn2YmjLXj) | 4:45 |
 | 23 | [Ndule](https://open.spotify.com/track/1z0iOMCfT7b5Wk9P8TR0cG) | [Jaja Bashengezi](https://open.spotify.com/artist/1RQv52rbKYfSKVkPfCvxxw) | [Putumayo Presents African Café](https://open.spotify.com/album/1hbhZdfJFRJsWttOQVlNMD) | 3:42 |
 | 24 | [Kora by Night](https://open.spotify.com/track/2hU4x98c0LUwRUqjJE4ujy) | [Maher Cissoko](https://open.spotify.com/artist/7v8qNR5OXbOludbhQoLabP) | [Kora Fo](https://open.spotify.com/album/5cBxRTB0SAwp8EWUcQKXQh) | 3:45 |
 | 25 | [Sarama](https://open.spotify.com/track/7jDvPH18QP0Y35l20cjYgy) | [Rokia Traoré](https://open.spotify.com/artist/6sz0k1q2aEtG5dxEgr4YWV) | [Beautiful Africa](https://open.spotify.com/album/5gCev1aMAHiG6qmS32mfzj) | 5:01 |
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ioFWie6Zm8.md) - [plain]
 | 29 | [Jairaby Lé](https://open.spotify.com/track/1hqJGbTYFNVxlJYQnGH9Y6) | [Tunde Jegede](https://open.spotify.com/artist/5gPITPJ367q2LVTwzVXhLJ) | [Heritage](https://open.spotify.com/album/256XbjH0BrerKZyE8bm8Qk) | 5:31 |
 | 30 | [Bougoudani](https://open.spotify.com/track/7ENxFeh3Ca4TIWbUsZ0zH7) | [Boubacar Traoré](https://open.spotify.com/artist/63Bilw49Uv4s2wnovytDVU) | [Mbalimaou](https://open.spotify.com/album/5VDVsvEYE0VqVvxUNLZ3gO) | 6:26 |
 | 31 | [Seydou](https://open.spotify.com/track/2SD12dIAtIKz39Sqp1LYPo) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | ["Folon".....The Past](https://open.spotify.com/album/1ban68aN7UrIS3MTKKp7SV) | 5:48 |
-| 32 | [Obili Éba](https://open.spotify.com/track/2qzJMEchqA8gedge0kXMkL) | [Sally Nyolo and the Original Bands of Yaounde](https://open.spotify.com/artist/6uBVl1CGtKrAlqASeY4b5M) | [Studio Cameroon](https://open.spotify.com/album/6V74TNnndUh9BXTh4lfZ5A) | 5:22 |
+| 32 | [Obili Éba](https://open.spotify.com/track/0nrNIDZjIDFlupCkcPiSd2) | [Sally Nyolo and the Original Bands of Yaounde](https://open.spotify.com/artist/6uBVl1CGtKrAlqASeY4b5M) | [Rough Guide To Acoustic Africa](https://open.spotify.com/album/2RdS4iINtmF5E6oHc0uUxK) | 5:22 |
 | 33 | [Kanou](https://open.spotify.com/track/43jFFMQlyY38tWloRAhdYy) | [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC) | [Fatou](https://open.spotify.com/album/2jdSj8ZhRoGvKFD9r22BtT) | 3:53 |
 | 34 | [Isqoqodo](https://open.spotify.com/track/3TM2ZDpXyHjM7WEERiUmbE) | [Insingizi](https://open.spotify.com/artist/6FcmgYayMAYjPOeH3YRc2w) | [Insingizi: Voices of Southern Africa](https://open.spotify.com/album/7gAUCIDKQCEZ26KoQmT68e) | 3:06 |
 | 35 | [Gbê](https://open.spotify.com/track/3uwaKT9AIPP2fhi9pLBALu) | [Lionel Loueke](https://open.spotify.com/artist/6q6EXv5ybArXqifMdmTIig), [Etienne Charles](https://open.spotify.com/artist/4JykHd21q5YnsKDekqnqD3), [Cyro Baptista](https://open.spotify.com/artist/2y9NOhiVDG6jZEMDwGUZhz) | [The Journey](https://open.spotify.com/album/0C2dTdoCdfo6mgH72ht6zt) | 3:48 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ioFWie6Zm8.md) - [plain]
 | 100 | [Djelia](https://open.spotify.com/track/3tDIl6vOp35dSn2PFLaxbJ) | [Massa Dembele](https://open.spotify.com/artist/3hPXu7TVE8f09TD6z11FlW) | [Mezana Dounia](https://open.spotify.com/album/2SmxsoK36dY9Adxf6M81zz) | 5:30 |
 | 101 | [Makambo](https://open.spotify.com/track/1KhDeUDKgkPPGTi2yLh42C) | [Geoffrey Oryema](https://open.spotify.com/artist/4JzBPiRKBOG8U0jef4M60l) | [African Tranquility: The Contemplative Soul of Africa](https://open.spotify.com/album/5yct2YFar38IONhbcTzWjm) | 5:01 |
 
-Snapshot ID: `MTY1OTY5OTk2MCwwMDAwMDAwMGMwOGI2YzE1ODRjNjAxYTBkMTNlZjdhYTk1NGNmOTk1`
+Snapshot ID: `MTY1OTY5OTk2MCwwMDAwMDAwMDZlNmQwYmJiNWNhMjAwODhkODgxYjhjNzZmNTMwYWQ4`

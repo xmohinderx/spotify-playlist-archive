@@ -4,7 +4,7 @@
 
 > Genre\-defying artists pushing boundaries in electronic ambient music\. Cover: JakoJako
 
-251 songs - 21 hr 29 min - [published](https://open.spotify.com/playlist/7yZuMWSP3DmPnpKPoOfSdU)
+252 songs - 21 hr 34 min - [published](https://open.spotify.com/playlist/7yZuMWSP3DmPnpKPoOfSdU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Before the Sun](https://open.spotify.com/track/2b2AWoPByakgDUCYE7Zy6N) | [Araceae](https://open.spotify.com/artist/7rG4fiGiMXMiRol0Vp2TR6) | [Nothing Will Last](https://open.spotify.com/album/0yb48UxkZD93mHNWIIw8Cr) | 9:17 | 2022-03-25 | 2022-07-26 |
 | [Blaumeise](https://open.spotify.com/track/4mIa8n3SpM8qB0ekc8J0HI) | [Dominik Eulberg](https://open.spotify.com/artist/44zcDDVZOY0ck7KECNUPK1) | [Avichrom](https://open.spotify.com/album/41ipvn1E4Mbcetr3Wgs2oP) | 5:09 | 2022-03-04 |  |
 | [Blessed Are The Lovers](https://open.spotify.com/track/4r4nxAUZjc0yqscVMYqeSA) | [Soundwalk Collective](https://open.spotify.com/artist/3fo31cpxTYmcMT3m4A1RNC), [Charlotte Gainsbourg](https://open.spotify.com/artist/2rBcvLKWCZs9w1qIWv560v) | [Lovotic](https://open.spotify.com/album/6vvJSGqQBCtkNatM2nUyF0) | 5:47 | 2022-04-01 | 2022-07-29 |
+| [Bluet](https://open.spotify.com/track/60bo73nbYGzjwrWqxbVJrG) | [Ah! Kosmos](https://open.spotify.com/artist/1PtegeWYDiBNTVmbINxtgD), [Büşra Kayıkçı](https://open.spotify.com/artist/0iOvtl1pydfRgGpJWOOP8E) | [Bluet](https://open.spotify.com/album/6yTZTcsW4Q6hxaNI0kx3bP) | 4:51 | 2022-11-11 |  |
 | [Bouncing Rays](https://open.spotify.com/track/4ZvQwjVFNvq27c1Um6msmB) | [Flug 8](https://open.spotify.com/artist/1TUyL6A6jprqDVEAJOZ29I) | [Enroute](https://open.spotify.com/album/6qDEGPB0n5IDCx1oD5wXW1) | 3:45 | 2022-05-06 |  |
 | [Breakdown \(The End of Chemical Romance\)](https://open.spotify.com/track/4GqaPXGufg6y8yrBnBgkjn) | [Tentacle](https://open.spotify.com/artist/52MyOkwwYswnDTHL4gvQap) | [Breakdown](https://open.spotify.com/album/1IqGcxtak2nImHCN0JZNc0) | 7:27 | 2021-12-26 |  |
 | [Bucolic Architecture \- Flug 8 Remix](https://open.spotify.com/track/3cQWC4VNioX0gQVRXv8Yhi) | [Yoann Pisterman](https://open.spotify.com/artist/3LZxoiZhqiHHz5R1YcVC9A), [Flug 8](https://open.spotify.com/artist/1TUyL6A6jprqDVEAJOZ29I) | [Bucolic Architecture \(Flug 8 Remix\)](https://open.spotify.com/album/6KWziNGstz2rpZS5H88PGW) | 6:26 | 2022-01-24 | 2022-10-05 |
@@ -179,7 +180,7 @@
 | [Proof of My Existence](https://open.spotify.com/track/7DOzFtfWtleNT2nXfxrkJM) | [METAHESH](https://open.spotify.com/artist/0GOeXrdg9HYdG0etf07eyP) | [Proof of My Existence](https://open.spotify.com/album/1yqH34M8NBfm5sDYW6Idqh) | 2:24 | 2022-10-16 |  |
 | [Pulse of the Underdrive](https://open.spotify.com/track/4jRV4brshwypOxfLsyJbY6) | [Schacke](https://open.spotify.com/artist/3bphZJ7NojBKcoCeBOSJ5Z) | [Underworlds](https://open.spotify.com/album/4HODRQX7N0krTEO5XHdyv6) | 4:40 | 2021-12-26 | 2022-07-27 |
 | [Purple](https://open.spotify.com/track/68XYj0LKFtVKzqsQy8CdVP) | [Sundayman](https://open.spotify.com/artist/4QBplENqCYmyjKCsVKOWRy) | [Outerland II](https://open.spotify.com/album/2iMNkkCosQP2B1caimXt9I) | 4:20 | 2022-03-25 | 2022-07-25 |
-| [Razor \- Foam and Sand Remix](https://open.spotify.com/track/5ZyaMRIDY85TeCIwn8kete) | [Delhia De France](https://open.spotify.com/artist/7A4TdwdnxfR9auD1yAmpWD), [Robot Koch](https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI), [Foam and Sand](https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd) | [Razor \(Foam and Sand Remix\)](https://open.spotify.com/album/7avH6B4ow8bIPK0aAOYUky) | 4:02 | 2021-12-26 |  |
+| [Razor \- Foam and Sand Remix](https://open.spotify.com/track/5ZyaMRIDY85TeCIwn8kete) | [Delhia De France](https://open.spotify.com/artist/7A4TdwdnxfR9auD1yAmpWD), [Robot Koch](https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI), [Foam and Sand](https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd) | [Razor \(Foam and Sand Remix\)](https://open.spotify.com/album/7avH6B4ow8bIPK0aAOYUky) | 4:02 | 2021-12-26 | 2022-11-12 |
 | [Reciprocal capture \(ft\. Speaker Music\)](https://open.spotify.com/track/736tmPjGGT8MG6DcD15UoB) | [Hiro Kone](https://open.spotify.com/artist/1BCUHvti8crTWtc0h0U4W4), [Speaker Music](https://open.spotify.com/artist/1H0aWZUg7aOHQmo5h09xso) | [Reciprocal capture \(ft\. Speaker Music\)](https://open.spotify.com/album/7eiwWV48yCvvrUqSCQ9uXw) | 5:40 | 2021-12-26 | 2022-07-29 |
 | [Reflejo](https://open.spotify.com/track/6555TzyEWY0FMiR8QKKXIg) | [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd) | [Remembranza](https://open.spotify.com/album/7daEEsVemtGgl9NONjmBZk) | 9:06 | 2022-09-20 |  |
 | [Relacional](https://open.spotify.com/track/0LXnwxKWZ21A2bmKe7Qm0m) | [Mucho Sueño](https://open.spotify.com/artist/0ohtInQhL4yYgwv7PdBCMM) | [Relacional](https://open.spotify.com/album/29Jd8KosRaZANCLxCg77dw) | 3:22 | 2021-12-26 | 2022-07-28 |

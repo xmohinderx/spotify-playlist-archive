@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-01-03",
-  "description": "De la douceur pour accompagner votre journ\u00e9e. Photo: Hanorah",
+  "description": "De la douceur pour accompagner votre journ\u00e9e. Photo: Vanille",
   "name": "Caf\u00e9 montr\u00e9alais",
   "published_playlist_ids": [
     "17ts8jbTOK4YpL5tyLJ1kX"
@@ -2504,6 +2504,28 @@
     },
     {
       "album": {
+        "name": "Je retourne \u00e0 la maison",
+        "url": "https://open.spotify.com/album/1XaroAGE9SU4W2ImUI5Scl"
+      },
+      "artists": [
+        {
+          "name": "Meghan Oak",
+          "url": "https://open.spotify.com/artist/0zcVg1Jym2sknaMn46kO2k"
+        },
+        {
+          "name": "Laurence Castera",
+          "url": "https://open.spotify.com/artist/4lBTYV3dOG4aAFKyKmeHsx"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200397,
+      "name": "Je retourne \u00e0 la maison",
+      "url": "https://open.spotify.com/track/5uJYXto5Lbfb3fCb1VXgR8"
+    },
+    {
+      "album": {
         "name": "Je n'veux pas dormir ce soir",
         "url": "https://open.spotify.com/album/46bZg3CYLTULjGp4tSevVX"
       },
@@ -3153,6 +3175,24 @@
       "duration_ms": 215291,
       "name": "Laissez-Moi",
       "url": "https://open.spotify.com/track/7KEPFYAiLCen71RTOMUzup"
+    },
+    {
+      "album": {
+        "name": "Le bois",
+        "url": "https://open.spotify.com/album/485Zc5MM4peA0rQQzLCAiC"
+      },
+      "artists": [
+        {
+          "name": "Vanille",
+          "url": "https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179833,
+      "name": "Le bois",
+      "url": "https://open.spotify.com/track/48rln9BcoGPT5WlLzns2FP"
     },
     {
       "album": {
@@ -4025,7 +4065,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 239573,
       "name": "Maison ouverte",
       "url": "https://open.spotify.com/track/6y3a7T7IHodmrJrr48aBi0"
@@ -5115,7 +5155,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 280513,
       "name": "Phile\u0301douche",
       "url": "https://open.spotify.com/track/0CKC1pIz3wLRcVkZAy0eJI"

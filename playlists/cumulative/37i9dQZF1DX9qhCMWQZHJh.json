@@ -1165,10 +1165,28 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 215066,
       "name": "Traveling Blind",
       "url": "https://open.spotify.com/track/35XfDzvI1jR8wFzYVPtMvy"
+    },
+    {
+      "album": {
+        "name": "Traveling Blind",
+        "url": "https://open.spotify.com/album/76XJq3lpUPoIJsvDxBGIif"
+      },
+      "artists": [
+        {
+          "name": "Faces on TV",
+          "url": "https://open.spotify.com/artist/3lLMK7bxYJxcaeThcvL8NJ"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215066,
+      "name": "Traveling Blind",
+      "url": "https://open.spotify.com/track/5DlqIjt7z45BDTRVdvlqpI"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVDVRzaLYm4M.md) - [plain]
 
 > The quiet Beatle\. Listen to all his essential tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,227 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,281 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,13 +15,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVDVRzaLYm4M.md) - [plain]
 | 5 | [What Is Life \- 2009 Mix](https://open.spotify.com/track/0oBw6F8Wl5tTbwexgcFV1N) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Let It Roll \- Songs Of George Harrison](https://open.spotify.com/album/1aswOMHGBTkp0MsSVIn2YU) | 4:24 |
 | 6 | [Here Comes The Sun \- Live In Japan, 1991 / 2004 Mix](https://open.spotify.com/track/4gdhsYfXJoVQsWpbmh32Da) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Live In Japan](https://open.spotify.com/album/4S2ZR5njbJez1rV8DV5Vtl) | 3:31 |
 | 7 | [End Of The Line](https://open.spotify.com/track/2OUzV6yTNSWmsvkjGHcWuq) | [Traveling Wilburys](https://open.spotify.com/artist/2hO4YtXUFJiUYS2uYFvHNK) | [Trending Classic Hits](https://open.spotify.com/album/1flJw0uicWg1LYNxJiIZ0F) | 3:29 |
-| 8 | [My Sweet Lord \- Remastered 2014](https://open.spotify.com/track/0qdQUeKVyevrbKhAo0ibxS) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(Remastered 2014\)](https://open.spotify.com/album/4I4xtHaIFOzhZfp1NIHkY6) | 4:41 |
+| 8 | [My Sweet Lord](https://open.spotify.com/track/6u9pmFX8oAmaUyQ6k8gEkw) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Eric Clapton: Life In 12 Bars \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2cfUT6PId9Jnjar3ftQ3Bk) | 4:40 |
 | 9 | [Dark Sweet Lady \- Remastered 2004](https://open.spotify.com/track/3WzTqTiSXXIFeKEYqd7U5b) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [George Harrison](https://open.spotify.com/album/5LEZHIvSR7NRc9J4ojDUwU) | 3:22 |
 | 10 | [Run Of The Mill \- Session Outtakes And Jams / Take 36](https://open.spotify.com/track/4AohRRap7A8q6LmgkoPMWw) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(50th Anniversary/Super Deluxe\)](https://open.spotify.com/album/0pDJt9M0HWkIs4vrTK6aC6) | 2:25 |
 | 11 | [Love Comes To Everyone \- Remastered 2004](https://open.spotify.com/track/1dYimSgEq46lJ30MKQP9l6) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [George Harrison](https://open.spotify.com/album/5LEZHIvSR7NRc9J4ojDUwU) | 4:36 |
 | 12 | [Handle With Care](https://open.spotify.com/track/49RDkqyoajMxcejmU09uyU) | [Traveling Wilburys](https://open.spotify.com/artist/2hO4YtXUFJiUYS2uYFvHNK) | [Happy Soft Rock For Kids](https://open.spotify.com/album/0Fkuj45yLOf8BcYaTuC56r) | 3:19 |
 | 13 | [Give Me Love \(Give Me Peace On Earth\) \- 2009 Mix](https://open.spotify.com/track/09VtDFWlxC9v9tyRnmpGPl) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Let It Roll \- Songs Of George Harrison](https://open.spotify.com/album/1aswOMHGBTkp0MsSVIn2YU) | 3:35 |
-| 14 | [Ballad Of Sir Frankie Crisp \(Let It Roll\) \- Remastered 2014](https://open.spotify.com/track/0sX4OzAtIubFc4s9y5KrB7) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(Remastered 2014\)](https://open.spotify.com/album/4I4xtHaIFOzhZfp1NIHkY6) | 3:48 |
+| 14 | [Ballad Of Sir Frankie Crisp \(Let It Roll\) \- 2009 Mix](https://open.spotify.com/track/60pxshhXLeimv7gsUKu9Gy) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Let It Roll \- Songs Of George Harrison](https://open.spotify.com/album/1aswOMHGBTkp0MsSVIn2YU) | 3:48 |
 | 15 | [Cheer Down \- 2009 Mix](https://open.spotify.com/track/6g5x0JGaOiDrUMYWul6gLs) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Let It Roll \- Songs Of George Harrison](https://open.spotify.com/album/1aswOMHGBTkp0MsSVIn2YU) | 4:06 |
 | 16 | [All Things Must Pass \- Remastered 2014](https://open.spotify.com/track/6QLFNz62dpOgQTloWuUbNh) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(Remastered 2014\)](https://open.spotify.com/album/4I4xtHaIFOzhZfp1NIHkY6) | 3:46 |
 | 17 | [While My Guitar Gently Weeps \- Live From Madison Square Garden, New York, U.S.A, 1971 / 2009 Mix](https://open.spotify.com/track/3DwKoC1oDOOPBdulE4aMsY) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Let It Roll \- Songs Of George Harrison](https://open.spotify.com/album/1aswOMHGBTkp0MsSVIn2YU) | 4:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVDVRzaLYm4M.md) - [plain]
 | 49 | [Devil's Radio \- Remastered 2004](https://open.spotify.com/track/19Rse1n6cwfl98trLEKW6A) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Cloud Nine](https://open.spotify.com/album/1nbq8GgaVdINI3PulXvPUq) | 3:53 |
 | 50 | [Wake Up My Love \- Remastered 2004](https://open.spotify.com/track/3dRafF3mJEGCxVaONlh4h2) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Gone Troppo](https://open.spotify.com/album/6hqxSTZauLStrt5lThvY2r) | 3:36 |
 
-Snapshot ID: `MTYyNTc4NTIwMCwwMDAwMDAwMGYxZjJjNjllZGU4ZDI1N2ZhOWYwN2U0NzQzNWUwNDkz`
+Snapshot ID: `MTYyNTc4NTIwMCwwMDAwMDAwMDBhOTUwZGY2Zjc1MzhiMGZiOTU2NjdkNjJhODliN2Vj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYC7hFn0j2HC.md) - [plain]
 
 > ¡Lo mejor de los charros cantores! Vicente Fernández en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,884 likes - 70 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,093 likes - 70 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,13 +37,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYC7hFn0j2HC.md) - [plain]
 | 27 | [La Chancla](https://open.spotify.com/track/312yuF1Zl8N7M2RuuJ4MUi) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Rancheras de Relajo](https://open.spotify.com/album/5ZvBBcbj77jfjhfkvJtr7N) | 3:44 |
 | 28 | [¡Qué Va!](https://open.spotify.com/track/47D0iJGFMrbKk01W9iACKc) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Sombras](https://open.spotify.com/album/38BNQJvYJ4KPOmAT9dEq9B) | 2:45 |
 | 29 | [Cielo Rojo](https://open.spotify.com/track/2r0EW4QDRuYwWrXlVcTVK1) | [Miguel Aceves Mejia](https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY) | [RCA 100 Anos De Musica \- Segunda Parte](https://open.spotify.com/album/2A95eoCbJRaNzcf7PCxATm) | 3:39 |
-| 30 | [Coplas de dos tipos de cuidado](https://open.spotify.com/track/3IBIwsWrPv2mpJa4SSfNGc) | [Jorge Negrete](https://open.spotify.com/artist/4W5RbLZybsLfAzE7QqdibE) | [Jorge Negrete, Vol II.](https://open.spotify.com/album/0EdYht3AXlnmT4saeMDjFN) | 3:57 |
+| 30 | [Juan Charrasqueado \- Remastered](https://open.spotify.com/track/4i0xJYVDfQ1dUXMOzO3s15) | [Jorge Negrete](https://open.spotify.com/artist/4W5RbLZybsLfAzE7QqdibE) | [Viva México \(Remastered\)](https://open.spotify.com/album/5Vvkijcd0ytPuVRv6CMjJz) | 3:28 |
 | 31 | [Mi cariñito](https://open.spotify.com/track/4VCXBuzshKoXGqCu5C12tz) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [15 Inmortales de Pedro Infante](https://open.spotify.com/album/0EUGqkj07wWx27XADAq3Ba) | 2:41 |
 | 32 | [Tata Dios](https://open.spotify.com/track/3hk6MLu7MCPDGQJPL6SY9s) | [Miguel Aceves Mejia](https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY) | [Lo Mejor De Lo Mejor De RCA Victor](https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo) | 3:29 |
 | 33 | [Payaso](https://open.spotify.com/track/4bvgQHmxuwOt251YF0FrUa) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Payaso](https://open.spotify.com/album/1t1tLeEvAthN8QnMpB69QN) | 3:01 |
-| 34 | [Juan Charrasqueado](https://open.spotify.com/track/6N4N27KYUdgz7Ku1ZRTF4p) | [Jorge Negrete](https://open.spotify.com/artist/4W5RbLZybsLfAzE7QqdibE) | [Yo Soy Mexicano](https://open.spotify.com/album/5VZBNCZlegrwEBbmgWryRE) | 3:28 |
-| 35 | [¡Ay Jalisco No Te Rajes! \- Digitally Remastered](https://open.spotify.com/track/1nBvOJs88Bc4ViEGjnuexV) | [Jorge Negrete](https://open.spotify.com/artist/4W5RbLZybsLfAzE7QqdibE) | [Jorge Negrete, Vol\. 1](https://open.spotify.com/album/5LcErTNl2NN85YeMDydaqg) | 2:20 |
-| 36 | [La Que Se Fue](https://open.spotify.com/track/74yLkIS7O070GJ9AMgQNoG) | [Jorge Negrete](https://open.spotify.com/artist/4W5RbLZybsLfAzE7QqdibE) | [Latinos de Oro](https://open.spotify.com/album/7vhSZgkHBPzOwur3ILGgJL) | 2:53 |
+| 34 | [Coplas de Dos Tipos de Cuidado](https://open.spotify.com/track/6Df0zv5IRjldWdegFBF23Y) | [Jorge Negrete](https://open.spotify.com/artist/4W5RbLZybsLfAzE7QqdibE) | [Grandes Éxitos de Jorge Negrete](https://open.spotify.com/album/6g2LAcYIVoHAJPrvQ3NfKe) | 4:02 |
+| 35 | [La Que Se Fue](https://open.spotify.com/track/74yLkIS7O070GJ9AMgQNoG) | [Jorge Negrete](https://open.spotify.com/artist/4W5RbLZybsLfAzE7QqdibE) | [Latinos de Oro](https://open.spotify.com/album/7vhSZgkHBPzOwur3ILGgJL) | 2:53 |
+| 36 | [Serenata de Tapatía](https://open.spotify.com/track/3V7s8dbbpCB2l8u8web2VZ) | [Jorge Negrete](https://open.spotify.com/artist/4W5RbLZybsLfAzE7QqdibE) | [Yo Soy Mexicano](https://open.spotify.com/album/4m0LxvhdrLu0pUkR0VFzhJ) | 3:08 |
 | 37 | [Volver, Volver](https://open.spotify.com/track/4Fvnz1ZJ86IdqDAepWYPAh) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Arriba Huentitan](https://open.spotify.com/album/5C4hWSmiBTcTKbBGB4ILx9) | 3:00 |
 | 38 | [La Diferencia](https://open.spotify.com/track/6wwMqdntt3An3mmVSb613i) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Es La Diferencia](https://open.spotify.com/album/4m82EF4noEFkd5vBBRe63u) | 2:50 |
 | 39 | [Para Siempre](https://open.spotify.com/track/0uyVgmoXDbwS1ubv8AurVZ) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernandez Para Siempre](https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203) | 2:51 |
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYC7hFn0j2HC.md) - [plain]
 | 64 | [Árboles De La Barranca](https://open.spotify.com/track/1gbfUKAtyJQivt4gw2J3CG) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Un Puño de Tierra](https://open.spotify.com/album/65VUOaoJRlzDEwFSIJdWS3) | 3:09 |
 | 65 | [Amigo Organillero](https://open.spotify.com/track/2X0b91ScoA2jM29eu5zftG) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Mexicanisimo](https://open.spotify.com/album/5MTcdzp13fvpZ2mvCg5zCj) | 3:11 |
 | 66 | [Jamás, Jamás](https://open.spotify.com/track/2GUB96lR5LWCbAhfLxEQU0) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Amigo Organillero](https://open.spotify.com/album/2Rv1ejNPg23IdQQhlZxdOQ) | 2:49 |
-| 67 | [Qué de Raro Tiene](https://open.spotify.com/track/3FCAOnsWGBqR7jPGhZubbi) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Mi Historia](https://open.spotify.com/album/4enkI4ehsQArESgX8mGfYH) | 3:19 |
-| 68 | [Acá Entre Nos](https://open.spotify.com/track/08RSWfMnyN9RXbOlRyOsyH) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [La Historia De Un +dolo](https://open.spotify.com/album/0u4xfjVgoY1mEJTjpUspns) | 3:13 |
-| 69 | [Entrega Total](https://open.spotify.com/track/74h5o0eQbX6qesW5pvMwYf) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Romance / Inolvidables Con ..\. \(Serie 2 En 1\)](https://open.spotify.com/album/7qSxsblKfzcm1z6kZaQXhT) | 2:30 |
-| 70 | [Fallaste Corazón](https://open.spotify.com/track/0rUMr9AGCAaNhBWwCGgLl4) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [Pedro Infante y Luis Aguilar](https://open.spotify.com/album/4xyvfvC7IEY0kF9JU9Mqmf) | 3:46 |
+| 67 | [Acá Entre Nos](https://open.spotify.com/track/08RSWfMnyN9RXbOlRyOsyH) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [La Historia De Un +dolo](https://open.spotify.com/album/0u4xfjVgoY1mEJTjpUspns) | 3:13 |
+| 68 | [Qué de Raro Tiene](https://open.spotify.com/track/3FCAOnsWGBqR7jPGhZubbi) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Mi Historia](https://open.spotify.com/album/4enkI4ehsQArESgX8mGfYH) | 3:19 |
+| 69 | [Camino de Guanajuato](https://open.spotify.com/track/5BRx13zPTL7euQtTNasI6O) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [Mis Número 1..\. Pa' Todo el Año](https://open.spotify.com/album/6JZ2h7P15MxTI8hHWOxBW2) | 3:04 |
+| 70 | [Entrega Total](https://open.spotify.com/track/74h5o0eQbX6qesW5pvMwYf) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Romance / Inolvidables Con ..\. \(Serie 2 En 1\)](https://open.spotify.com/album/7qSxsblKfzcm1z6kZaQXhT) | 2:30 |
 
-Snapshot ID: `MTY0MzE1MzkxMSwwMDAwMDAwMDljZjYyODAzNWVhMjY4ZDAwOGI5ODdiZmIyMGE4MjQw`
+Snapshot ID: `MTY0MzE1MzkxMSwwMDAwMDAwMGU4Mzk2MjljMTAxNzM2YWM4ZGZkMjhhMjk3M2Y0NGZi`

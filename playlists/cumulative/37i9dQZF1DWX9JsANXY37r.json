@@ -1221,7 +1221,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 201640,
       "name": "Dontcha",
       "url": "https://open.spotify.com/track/6dET51TwAJPrKV5wmA5Vhr"
@@ -1365,7 +1365,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 239666,
       "name": "Everybody Loves The Sunshine",
       "url": "https://open.spotify.com/track/5le4sn0iMcnKU56bdmNzso"
@@ -1801,7 +1801,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-18",
+      "date_removed": null,
       "duration_ms": 270066,
       "name": "Hope",
       "url": "https://open.spotify.com/track/23bwujVYKeGdbcLd2LQxVo"
@@ -1963,7 +1963,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 250615,
       "name": "I Don't Want It At All",
       "url": "https://open.spotify.com/track/4xhYxKvAxtrRd83MiqOy29"
@@ -2155,7 +2155,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 261881,
       "name": "It Runs Through Me",
       "url": "https://open.spotify.com/track/02CygBCQOIyEuhNZqHHcNx"
@@ -2485,7 +2485,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 214578,
       "name": "Lose My Cool",
       "url": "https://open.spotify.com/track/3G9zeErd0kMx012kmYUrm7"
@@ -3041,7 +3041,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 217466,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/4tReFKumS5bcFahdXDiM1b"
@@ -3187,6 +3187,24 @@
       "duration_ms": 326493,
       "name": "Quem N\u00e3o Quer Sou Eu",
       "url": "https://open.spotify.com/track/2pSOBtKOC9TnjSigCMK9kf"
+    },
+    {
+      "album": {
+        "name": "Musica para Churrasco, Vol. 1",
+        "url": "https://open.spotify.com/album/3LVFK1YwvyZMU1u20U2dMg"
+      },
+      "artists": [
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326493,
+      "name": "Quem N\u00e3o Quer Sou Eu",
+      "url": "https://open.spotify.com/track/7JFGnfONNe5vepbGwZBkhL"
     },
     {
       "album": {
@@ -3527,7 +3545,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 196754,
       "name": "Sticky",
       "url": "https://open.spotify.com/track/1rfGO3N4DPGodJLSSY9Re5"
@@ -3947,6 +3965,28 @@
       "duration_ms": 368758,
       "name": "VIRGO'S GROOVE",
       "url": "https://open.spotify.com/track/0Fl4eWzVaMUOdXcOrj6F1q"
+    },
+    {
+      "album": {
+        "name": "Take Off",
+        "url": "https://open.spotify.com/album/5OcN75jhxA156Jg60s88eP"
+      },
+      "artists": [
+        {
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+        },
+        {
+          "name": "Madelyn Grant",
+          "url": "https://open.spotify.com/artist/7kdIgG6b9e3DZVmroWzu9w"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262317,
+      "name": "Waiting",
+      "url": "https://open.spotify.com/track/6PijBqDTCJtL6VlFO0orTm"
     },
     {
       "album": {

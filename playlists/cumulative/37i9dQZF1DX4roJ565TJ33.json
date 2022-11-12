@@ -2248,6 +2248,24 @@
     },
     {
       "album": {
+        "name": "Midsommarklassiker 2021",
+        "url": "https://open.spotify.com/album/5fAkO01sraQ7NUWqFdY7FV"
+      },
+      "artists": [
+        {
+          "name": "Monica Zetterlund",
+          "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161533,
+      "name": "Visa fr\u00e5n Utanmyra",
+      "url": "https://open.spotify.com/track/5DpUTzuGKVVxIkiqRAF5RV"
+    },
+    {
+      "album": {
         "name": "Ohh! Monica!",
         "url": "https://open.spotify.com/album/67oyumtZk7JqH5onehTByo"
       },
@@ -2259,7 +2277,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 162373,
       "name": "Visa fr\u00e5n Utanmyra",
       "url": "https://open.spotify.com/track/7jFARkl6eGiEUQZnwv5qrP"

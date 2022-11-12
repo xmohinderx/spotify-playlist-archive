@@ -153,10 +153,32 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 287786,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/5tLDX5Z50VZAvga5695enB"
+    },
+    {
+      "album": {
+        "name": "Beautiful",
+        "url": "https://open.spotify.com/album/5RMEm6Ot1GCwwp7Bw5kzFz"
+      },
+      "artists": [
+        {
+          "name": "Damian Marley",
+          "url": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi"
+        },
+        {
+          "name": "Bobby Brown",
+          "url": "https://open.spotify.com/artist/62sPt3fswraiEPnKQpAbdE"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287800,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/4UDTa7Oqp67A1UyadKyAiw"
     },
     {
       "album": {
@@ -207,7 +229,7 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 189013,
       "name": "Bend Ova",
       "url": "https://open.spotify.com/track/7LC5sCPdYJPgKiUXdnIlYe"
@@ -539,7 +561,7 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 158000,
       "name": "Click Mi Finger",
       "url": "https://open.spotify.com/track/0cB3PmOkBRTW0afu5Z4x0K"
@@ -666,6 +688,24 @@
     },
     {
       "album": {
+        "name": "Best Of Greensleeves: From Dubplate To Download",
+        "url": "https://open.spotify.com/album/60loZfjpshy3dXkZlQunTG"
+      },
+      "artists": [
+        {
+          "name": "Tony Matterhorn",
+          "url": "https://open.spotify.com/artist/6taesTUSevB9eK8bm5Y7b9"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171173,
+      "name": "Dutty Wine",
+      "url": "https://open.spotify.com/track/5fCUtC3cEoIIONqsCJeeJs"
+    },
+    {
+      "album": {
         "name": "Dutty Wine",
         "url": "https://open.spotify.com/album/7n4bzCw5PPdLJsxhtbrSnv"
       },
@@ -695,7 +735,7 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 186265,
       "name": "Dye Dye (Raw)",
       "url": "https://open.spotify.com/track/0xWrs2bY4UyaQ3uRm71goW"
@@ -857,7 +897,7 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 236906,
       "name": "Ganja Farmer",
       "url": "https://open.spotify.com/track/2zAJvh4y1DBXo7KIqQjumc"
@@ -915,6 +955,24 @@
       "duration_ms": 210280,
       "name": "Get Busy",
       "url": "https://open.spotify.com/track/2PAur5UdDtOOYq234rqZRD"
+    },
+    {
+      "album": {
+        "name": "Happy at Home",
+        "url": "https://open.spotify.com/album/30ZBDSwohb5ccKIm8gREDg"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211520,
+      "name": "Get Busy",
+      "url": "https://open.spotify.com/track/46jn2cZC7LihghZZosipy2"
     },
     {
       "album": {
@@ -1099,7 +1157,7 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 161041,
       "name": "Gyal Bruk Out",
       "url": "https://open.spotify.com/track/3oeicU1vhOHoySeNBhSUFv"
@@ -1197,6 +1255,24 @@
       "duration_ms": 233253,
       "name": "Hold You - Hold Yuh",
       "url": "https://open.spotify.com/track/13YwTYF5hUBz9VKuxL4QA5"
+    },
+    {
+      "album": {
+        "name": "Out Of Many - 50 Years Of Reggae Music",
+        "url": "https://open.spotify.com/album/0Nn2tXLCRQCDBHi510pE1a"
+      },
+      "artists": [
+        {
+          "name": "Gyptian",
+          "url": "https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233253,
+      "name": "Hold You - Hold Yuh",
+      "url": "https://open.spotify.com/track/48xfw4QT4ufduinmWzEVYD"
     },
     {
       "album": {
@@ -1339,7 +1415,7 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 227600,
       "name": "It Wasn't Me",
       "url": "https://open.spotify.com/track/3WkibOpDF7cQ5xntM1epyf"
@@ -1365,6 +1441,28 @@
       "duration_ms": 227720,
       "name": "It Wasn't Me",
       "url": "https://open.spotify.com/track/4i387P9kogblRBfjFi3NaX"
+    },
+    {
+      "album": {
+        "name": "Viral Hits Volume 1",
+        "url": "https://open.spotify.com/album/19ziLGUdSx7l3QxPoTgKxY"
+      },
+      "artists": [
+        {
+          "name": "Shaggy",
+          "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
+        },
+        {
+          "name": "Rik Rok",
+          "url": "https://open.spotify.com/artist/67wCYxOq4A1ohAs7jWYaOJ"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229194,
+      "name": "It Wasn't Me",
+      "url": "https://open.spotify.com/track/2EhmgdXQeWIqB9ws0ldlBu"
     },
     {
       "album": {
@@ -1437,7 +1535,7 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 195317,
       "name": "Kotch",
       "url": "https://open.spotify.com/track/0V64KIinm3gUN04DhxEHwW"
@@ -1575,6 +1673,24 @@
       "duration_ms": 165026,
       "name": "Love Yuh Everything",
       "url": "https://open.spotify.com/track/0Bhgvv9rPEAGkh8SA5TAtR"
+    },
+    {
+      "album": {
+        "name": "Love Yuh Everything",
+        "url": "https://open.spotify.com/album/32CHNFFfNt5l2bc3vmaPcT"
+      },
+      "artists": [
+        {
+          "name": "Alkaline",
+          "url": "https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165026,
+      "name": "Love Yuh Everything - Radio",
+      "url": "https://open.spotify.com/track/3hwAt57KI4hi7qxQWIJWAY"
     },
     {
       "album": {
@@ -1885,7 +2001,7 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 176587,
       "name": "One Man - Raw",
       "url": "https://open.spotify.com/track/3Ixu8v1mkMjhCrwIBKxax7"
@@ -1907,7 +2023,7 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-17",
+      "date_removed": null,
       "duration_ms": 176587,
       "name": "One Man / Moving On - Raw",
       "url": "https://open.spotify.com/track/4zmzJgtsV1oPnp1a7Ryi6L"
@@ -1983,6 +2099,24 @@
       "duration_ms": 221194,
       "name": "Ova Dweet",
       "url": "https://open.spotify.com/track/0RQEpWykgNyAMCeuZJDKJt"
+    },
+    {
+      "album": {
+        "name": "Summer Dancehall Jammz",
+        "url": "https://open.spotify.com/album/2xx3A7djBVHOIb1MRQHMQO"
+      },
+      "artists": [
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230391,
+      "name": "Party Shot",
+      "url": "https://open.spotify.com/track/0KGtoNI8useRh4SGxlAvPi"
     },
     {
       "album": {
@@ -2073,6 +2207,24 @@
       "duration_ms": 246960,
       "name": "Pon de Replay",
       "url": "https://open.spotify.com/track/4TsmezEQVSZNNPv5RJ65Ov"
+    },
+    {
+      "album": {
+        "name": "Reggae Gold 2003",
+        "url": "https://open.spotify.com/album/0SFA15LcitRvgBM5SeHQ4v"
+      },
+      "artists": [
+        {
+          "name": "Elephant Man",
+          "url": "https://open.spotify.com/artist/6NOvBZrkd83MSD51xkq4on"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239786,
+      "name": "Pon De River Pon De Bank",
+      "url": "https://open.spotify.com/track/1tCWnejv08195hF9ZSS3X3"
     },
     {
       "album": {
@@ -2417,7 +2569,7 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 251026,
       "name": "She's Royal",
       "url": "https://open.spotify.com/track/6dFOwtd9iBMERardJvsIxY"
@@ -2507,7 +2659,7 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 167053,
       "name": "Summer Tiime",
       "url": "https://open.spotify.com/track/2aULMaE3NgcnVluZCvxFmT"
@@ -2543,7 +2695,7 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 95133,
       "name": "Suspense",
       "url": "https://open.spotify.com/track/6PKJhovmnRMA6UJDu3sYwS"
@@ -2579,7 +2731,7 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 176453,
       "name": "Tek Weh Yuhself",
       "url": "https://open.spotify.com/track/6PWhaGqUfwAXX7MyRluOAu"
@@ -2615,7 +2767,7 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 177834,
       "name": "Text Message",
       "url": "https://open.spotify.com/track/4u63rBIcBRmEXArgnwMoaa"
@@ -2633,7 +2785,7 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 206582,
       "name": "Things Mi Love",
       "url": "https://open.spotify.com/track/5pUR6ZtoAJ6RZ1NY7EIAZh"
@@ -2687,7 +2839,7 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 192106,
       "name": "Turn Me On",
       "url": "https://open.spotify.com/track/0BBOLOV5JntPL3341swIre"
@@ -2705,7 +2857,7 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 192106,
       "name": "Turn Me On",
       "url": "https://open.spotify.com/track/0RmXtDH1cBMGImRrmn5xL6"

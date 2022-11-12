@@ -4,7 +4,7 @@
 
 > Las grandes del Despecho y el Género Popular\. Foto: Paola Jara
 
-89 songs - 4 hr 38 min - [published](https://open.spotify.com/playlist/09JnbAwg5RJpS8FdxS2fcC)
+91 songs - 4 hr 44 min - [published](https://open.spotify.com/playlist/09JnbAwg5RJpS8FdxS2fcC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [2 Veces](https://open.spotify.com/track/2G5kj8gYNAVM4pQ0IBBaGA) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [2 Veces](https://open.spotify.com/album/0ddW33CDTAi75BC9ELsXSJ) | 3:09 | 2022-08-12 |  |
 | [200 COPAS](https://open.spotify.com/track/0aZnyTWJNgdzYoOiaW8HKG) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [KG0516](https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW) | 3:37 | 2022-08-12 |  |
 | [Adicta al Dolor](https://open.spotify.com/track/0V0350NvG0jvbiUTXPzIXU) | [Marbelle](https://open.spotify.com/artist/3UMc63PbdGvuOzUk0Gd1Fg) | [Adicta al Dolor](https://open.spotify.com/album/4s8Cb35rdzwYijUoRpXCPL) | 2:53 | 2022-08-12 |  |
-| [Adiós Amor](https://open.spotify.com/track/63bmZnBN1CiJ9sA4qTEe8y) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Me Dejé Llevar](https://open.spotify.com/album/2XHw4PFHT6srg7dxA3yrKv) | 3:19 | 2022-08-12 |  |
+| [Adiós Amor](https://open.spotify.com/track/63bmZnBN1CiJ9sA4qTEe8y) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Me Dejé Llevar](https://open.spotify.com/album/2XHw4PFHT6srg7dxA3yrKv) | 3:19 | 2022-08-12 | 2022-11-12 |
+| [Adiós Amor](https://open.spotify.com/track/1AfE3gHrlA57QOTemKuVDb) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Cena Mexicana](https://open.spotify.com/album/6PZrzKy73syaMZvWZku2lv) | 3:22 | 2022-11-04 |  |
 | [Alaska](https://open.spotify.com/track/607ZGkxOxHJUVDEU3MZl86) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Alaska](https://open.spotify.com/album/6un8b7BMCwlYBFxbf3rSnZ) | 4:01 | 2022-08-26 | 2022-10-29 |
 | [Alguien Más \- Versión Regional](https://open.spotify.com/track/3Br6gkQqhN4obEhaucA7Sh) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Alguien Más \(Versión Regional\)](https://open.spotify.com/album/6e6r99qv7LJue8WVljNOqk) | 2:16 | 2022-08-12 |  |
 | [Amiga Botella](https://open.spotify.com/track/7bsXNZS48T1IhHrtyfjmNU) | [El Charrito Negro](https://open.spotify.com/artist/4e8vIrZBkqRocfY0TrT0s6) | [Amiga Botella](https://open.spotify.com/album/57nPQiegrO6AEch9AvwPIu) | 3:15 | 2022-10-28 |  |
@@ -64,7 +65,8 @@
 | [Ni Tengo Ni Necesito](https://open.spotify.com/track/2TV5peMu6MRFONxHHE9ZrV) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Ni Tengo Ni Necesito](https://open.spotify.com/album/3y0wLmxhOrDjmSw0LUUVEi) | 3:21 | 2022-08-12 |  |
 | [No Te Contaron Mal](https://open.spotify.com/track/1LO951RWD10l9Vys0NrFty) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [No Te Contaron Mal](https://open.spotify.com/album/2IVO6VBGIEP4EA7qB2EAQi) | 2:36 | 2022-08-12 |  |
 | [Nuestro Juramento](https://open.spotify.com/track/0uzR8Ehgl6BGsU2ZvLPe3A) | [Juan Fernando Velasco](https://open.spotify.com/artist/3vA0UcLmHZEoVavifm65mc), [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu) | [Nuestro Juramento](https://open.spotify.com/album/59P55KVxpocTwKRlpahlDR) | 3:22 | 2022-09-16 |  |
-| [OK](https://open.spotify.com/track/7CpzHbrYhaqLHUdpfyYUsM) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Repítelas](https://open.spotify.com/album/4QRs1syzARn1dej4RWRPtY) | 2:21 | 2022-08-12 |  |
+| [OK](https://open.spotify.com/track/6g13x2XNa9kAmRxJgac6T0) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Éxitos Mano de Obra](https://open.spotify.com/album/46OnImUL8cGg0srjXJxj2l) | 2:21 | 2022-11-04 |  |
+| [OK](https://open.spotify.com/track/7CpzHbrYhaqLHUdpfyYUsM) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Repítelas](https://open.spotify.com/album/4QRs1syzARn1dej4RWRPtY) | 2:21 | 2022-08-12 | 2022-11-12 |
 | [Pa Todo el Año](https://open.spotify.com/track/0uf7n9tUDhsj6f8ioS0WQm) | [Marbelle](https://open.spotify.com/artist/3UMc63PbdGvuOzUk0Gd1Fg), [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Pa Todo El Año](https://open.spotify.com/album/2UufMxMzrT7slWILaSfR0T) | 3:08 | 2022-08-12 |  |
 | [Pasado Pisado](https://open.spotify.com/track/4se93i19bLXGvZrFyJPF91) | [Giovanny Ayala](https://open.spotify.com/artist/1UVPfNPbTcrDocjT0O5jcv) | [Pasado Pisado](https://open.spotify.com/album/5sc1umOiGXOncvv3oSj3p8) | 3:26 | 2022-08-12 | 2022-10-29 |
 | [Por Qué la Envidia](https://open.spotify.com/track/4AQT9Lh9tjYztUGmubRD9q) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Mi Promesa \(Con el Corazon\)](https://open.spotify.com/album/41unRHnDM7z4qslFNtwWbp) | 2:57 | 2022-11-04 |  |

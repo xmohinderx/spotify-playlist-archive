@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdg3JLYhYrif.md) - [plain]
 
 > Hits brasileiros dos últimos anos para animar sua faxina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 279,950 likes - 60 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,157 likes - 60 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdg3JLYhYrif.md) - [plain]
 | 40 | [Vingança \- Ao Vivo](https://open.spotify.com/track/7KdcbYcVF8LkQeQcTYOixJ) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r), [MC Kekel](https://open.spotify.com/artist/2ZXnTEyYopSLCDiz5Z0XIf) | [Live\-Móvel \(Ao Vivo\)](https://open.spotify.com/album/4ypgnFdLUnA00qg9a6Z1k2) | 3:01 |
 | 41 | [Hit Contagiante](https://open.spotify.com/track/5dKesZwp6deuhEeW8F1UEi) | [Felipe Original](https://open.spotify.com/artist/2Cra8I2P4OnMkVguqZRVwi), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Sodré](https://open.spotify.com/artist/07qgzS86XBNsyrY6MAVDAc), [JS o Mão de Ouro](https://open.spotify.com/artist/7C7NNCiIFavKH6oDarjp0v) | [Hit Contagiante](https://open.spotify.com/album/5da8Quq01mGKZvEpBRfFZh) | 2:17 |
 | 42 | [Não Fala Não pra Mim](https://open.spotify.com/track/0PaAB17axL9hn88mHiw8g0) | [Humberto & Ronaldo](https://open.spotify.com/artist/1zEo6Fk1iaaOYFlFPBHCFn), [Jerry Smith](https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk) | [Não Fala Não pra Mim](https://open.spotify.com/album/6ARrHdaTbtLGCYzs5ZGrHG) | 3:16 |
-| 43 | [Dona Maria](https://open.spotify.com/track/0dGqIEsFN3KakdPCMkgjre) | [Thiago Brava](https://open.spotify.com/artist/1LGh5vyaoQP9bgTwLSMTyW), [Jorge](https://open.spotify.com/artist/6gLW5LlLEXdtWaS0EWfzaJ) | [Dona Maria](https://open.spotify.com/album/1uqofIktCiIpJZBitA6aur) | 3:07 |
-| 44 | [Na Ponta Ela Fica](https://open.spotify.com/track/1OtZIaJBXo3Pe6nfaMsjKT) | [Delano](https://open.spotify.com/artist/5TmW0cFVEYEbypgTdSNNDn) | [Na Ponta Ela Fica](https://open.spotify.com/album/6gF531wpZQpmM84C9vaEjW) | 2:34 |
+| 43 | [Na Ponta Ela Fica](https://open.spotify.com/track/1OtZIaJBXo3Pe6nfaMsjKT) | [Delano](https://open.spotify.com/artist/5TmW0cFVEYEbypgTdSNNDn) | [Na Ponta Ela Fica](https://open.spotify.com/album/6gF531wpZQpmM84C9vaEjW) | 2:34 |
+| 44 | [Dona Maria](https://open.spotify.com/track/0dGqIEsFN3KakdPCMkgjre) | [Thiago Brava](https://open.spotify.com/artist/1LGh5vyaoQP9bgTwLSMTyW), [Jorge](https://open.spotify.com/artist/6gLW5LlLEXdtWaS0EWfzaJ) | [Dona Maria](https://open.spotify.com/album/1uqofIktCiIpJZBitA6aur) | 3:07 |
 | 45 | [Fuleragem](https://open.spotify.com/track/6tuzPD1zPPvwMbGiD0TBay) | [MC WM](https://open.spotify.com/artist/14D0I0RYqvIorkPL2EWoQh) | [Fuleragem](https://open.spotify.com/album/0tyHlKvPDsGxeCzqS12iPT) | 2:21 |
 | 46 | [Invocada \(Participação especial de Léo Santana\) \- Ao vivo](https://open.spotify.com/track/4k20Ie47EcWtS4wMBn8w8S) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR) | [Hello mundo \(Ao vivo\)](https://open.spotify.com/album/3VDQ3Oa1bICtnbII8HowVw) | 2:37 |
 | 47 | [Deu Onda](https://open.spotify.com/track/0HiOQzcBkMLj2t5m3ghcbm) | [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6) | [Deu Onda](https://open.spotify.com/album/2ksQI4wyde528WS4Ci7gGl) | 2:23 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdg3JLYhYrif.md) - [plain]
 | 59 | [Loka](https://open.spotify.com/track/4rMTRPQcWIcZAlKR8bygRY) | [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Duetos](https://open.spotify.com/album/7duv0ozDPdbrjVq38Hhw9x) | 3:35 |
 | 60 | [Embrasa](https://open.spotify.com/track/4iANxSIDT3kGekiquMSAgT) | [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Vitão](https://open.spotify.com/album/1O8LPICWMyVScYtJb3zdJ8) | 4:03 |
 
-Snapshot ID: `MTY2MDc1NDE1OSwwMDAwMDAwMGU5ZTk3YjMwMjNhZjczMjBiYTdmYTM4Y2ExZGRlNjU0`
+Snapshot ID: `MTY2MDc1NDE1OSwwMDAwMDAwMDFjZTdhOTRiMWMxZDk4ZTJhNDI2NmE4MjExYTAxNDE0`

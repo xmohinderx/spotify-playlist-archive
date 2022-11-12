@@ -525,10 +525,28 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 171693,
       "name": "El balaju",
       "url": "https://open.spotify.com/track/46fIkmK53h3Rk2yoEdQHx0"
+    },
+    {
+      "album": {
+        "name": "Best of Mariachi",
+        "url": "https://open.spotify.com/album/2A3EjRPEGMLRzdMZi3NCXY"
+      },
+      "artists": [
+        {
+          "name": "Trio Azteca",
+          "url": "https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171693,
+      "name": "El balaju",
+      "url": "https://open.spotify.com/track/51H0NWOftCFO9xzVWMl8u7"
     },
     {
       "album": {
@@ -1933,10 +1951,28 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 173800,
       "name": "La raspa",
       "url": "https://open.spotify.com/track/59kogGBmBNHC3r7t9DZ3ip"
+    },
+    {
+      "album": {
+        "name": "The Most Essential Mariachi",
+        "url": "https://open.spotify.com/album/2ICw7FA2TLfk5GRsikELpB"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Azteca",
+          "url": "https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173800,
+      "name": "La raspa",
+      "url": "https://open.spotify.com/track/7iu5HhBwgNRlKh8j22ukhz"
     },
     {
       "album": {

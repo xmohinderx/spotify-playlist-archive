@@ -4,7 +4,7 @@
 
 > The iconic songs celebrating love across the African continent from the 2000's to date
 
-112 songs - 8 hr 1 min - [published](https://open.spotify.com/playlist/2NQLrFSoKR34tgxbFWZBgI)
+114 songs - 8 hr 9 min - [published](https://open.spotify.com/playlist/2NQLrFSoKR34tgxbFWZBgI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [Akanamali \(feat\. Samthing Soweto\)](https://open.spotify.com/track/2OaBQc07gJ9ZcDJJhhCMSf) | [Sun\-El Musician](https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6), [Samthing Soweto](https://open.spotify.com/artist/6HwxMgE895sejjGFin9Gvm) | [Akanamali \(feat\. Samthing Soweto\)](https://open.spotify.com/album/57jBRm6pXwxvjm3SlWyi8I) | 5:21 | 2022-02-10 |  |
 | [Asibe Happy](https://open.spotify.com/track/6F70m9aMK4PSJKBfp1H8DZ) | [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE) | [Asibe Happy](https://open.spotify.com/album/0K6ImXCD9oG3p3HBcAq9UA) | 7:38 | 2022-02-10 |  |
 | [Aye](https://open.spotify.com/track/7wh3ROxsX7i6GflbQGhGo7) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Aye](https://open.spotify.com/album/54KREqr92Gm0dbTLGHp0JE) | 3:55 | 2022-02-10 |  |
-| [Baby Girl](https://open.spotify.com/track/5qJpQEJKN2lvm0szJhyvdz) | [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP) | [Thuto](https://open.spotify.com/album/5eqTNk3knYSiqlpcUT91z7) | 4:20 | 2022-02-10 |  |
+| [Baby Girl](https://open.spotify.com/track/14dcMfyhHV1vUdXXfiTuW1) | [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP) | [Once Upon a Time In Africa](https://open.spotify.com/album/75zZ8xLGSeF0UFE5K0kMrj) | 4:20 | 2022-02-10 |  |
+| [Baby Girl](https://open.spotify.com/track/5qJpQEJKN2lvm0szJhyvdz) | [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP) | [Thuto](https://open.spotify.com/album/5eqTNk3knYSiqlpcUT91z7) | 4:20 | 2022-02-10 | 2022-11-12 |
 | [Bahebak](https://open.spotify.com/track/6a4l9CrvajT9qtcFAY9oxk) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Bahebak](https://open.spotify.com/album/12IyIdjFQNAWCrKXbtEunW) | 3:26 | 2022-02-10 |  |
 | [Before You Wake Up](https://open.spotify.com/track/2PKRz9DR6lUX6zAJgW5aRV) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Before You Wake Up](https://open.spotify.com/album/7c3illLdUqSIVXTb6h3zEC) | 2:54 | 2022-02-10 |  |
 | [Beginning](https://open.spotify.com/track/7hKkeswtn0FRLblD4bnrxv) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Love & Light](https://open.spotify.com/album/5ycopkcsa3kPg1cbw9sDqu) | 2:38 | 2022-02-10 |  |
@@ -62,7 +63,8 @@
 | [Na Wewe Milele](https://open.spotify.com/track/1Ytwf25YZz90rJlDljEHUs) | [Ray C](https://open.spotify.com/artist/5Z0z4Dno7vlHGTw35vO66O) | [Na Wewe Milele](https://open.spotify.com/album/5Y8kt7pGgxX49WnAarqvtv) | 4:53 | 2022-02-10 | 2022-08-25 |
 | [NA WEWE MILELE](https://open.spotify.com/track/6FXngxda5ylUIIcFLQqqLb) | [Ray C](https://open.spotify.com/artist/3Dgejeu7lJ0wsom5Q06W0U) | [NA WEWE MILELE](https://open.spotify.com/album/7urOXTfV19PHfPKgk4IoRk) | 4:53 | 2022-02-10 |  |
 | [Naksh Naksh Mrembo](https://open.spotify.com/track/3bEUcbgCWnyuXKrjR9OLnn) | [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT), [Hakeem 5](https://open.spotify.com/artist/1kE23z6YUfh9fBj1kWeohZ) | [CINDERELLA](https://open.spotify.com/album/0QSQibBpOOzPpiZcR54iY8) | 5:24 | 2022-02-10 |  |
-| [Naogopa](https://open.spotify.com/track/0vybWIHJOFMSwMVJQpAFxv) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [Flowers](https://open.spotify.com/album/1yYgqZbQEi9NdfrGg364bW) | 3:43 | 2022-02-10 |  |
+| [Naogopa](https://open.spotify.com/track/0vybWIHJOFMSwMVJQpAFxv) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [Flowers](https://open.spotify.com/album/1yYgqZbQEi9NdfrGg364bW) | 3:43 | 2022-02-10 | 2022-11-12 |
+| [Naogopa](https://open.spotify.com/track/3RZR4vq0AtTx1NZvfH85Bc) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [Naogopa](https://open.spotify.com/album/1CUXqJ0kl6wgeZ3mih9DXP) | 3:43 | 2022-02-10 |  |
 | [Ndikuthandile](https://open.spotify.com/track/1Tj0262AYJa0RKh74HGB6G) | [Vusi Nova](https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8) | [Naninina](https://open.spotify.com/album/6HbXfrFurzm5mKB4IOcwh9) | 4:14 | 2022-02-10 |  |
 | [Ndilinde](https://open.spotify.com/track/5PwPfqoN2EnW2hVYS7rv1f) | [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N) | [Zabalaza](https://open.spotify.com/album/3SEMoWOREyDMSWGFzrfb0O) | 5:51 | 2022-02-10 |  |
 | [Ndizele Wena](https://open.spotify.com/track/15P4w866PR3iyQ4b3KlLbK) | [Amanda Black](https://open.spotify.com/artist/4tyWwKFEbho8Vh4qczqbIo) | [Power](https://open.spotify.com/album/6dDz2SDdhnaeKTLoe0BRhH) | 2:38 | 2022-02-10 |  |

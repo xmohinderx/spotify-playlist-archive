@@ -4,7 +4,7 @@
 
 > Soundtrack your 2022 resolutions with Mia Lind.
 
-111 songs - 6 hr 40 min - [published](https://open.spotify.com/playlist/0EZ10vaXi6e4DT5iiN3ZcO)
+112 songs - 6 hr 43 min - [published](https://open.spotify.com/playlist/0EZ10vaXi6e4DT5iiN3ZcO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [Girl on Fire](https://open.spotify.com/track/4esOae7i4rqTbAu9o5Pxco) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Girl on Fire \(Remixes\) \- EP](https://open.spotify.com/album/3zZSz5VOYSu0jE4MkPCOvN) | 3:44 | 2022-01-12 |  |
 | [Girls in the Hood](https://open.spotify.com/track/6WbTTAGKrQtCQvmc5BuYfh) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Girls in the Hood](https://open.spotify.com/album/0pcFMWHPMVHE25NiT1U6Bc) | 2:34 | 2022-01-12 |  |
 | [Glamorous](https://open.spotify.com/track/4KTtYhxFtFL7mBwnjkKfLm) | [Fergie](https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [The Dutchess](https://open.spotify.com/album/3t8HFQNlwLBW7htwLvFfzA) | 4:06 | 2022-01-12 |  |
-| [good 4 u](https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:58 | 2022-01-12 |  |
+| [good 4 u](https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:58 | 2022-01-12 | 2022-11-12 |
+| [good 4 u](https://open.spotify.com/track/3QVeeC9M980WM0eLKkyQp6) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [Hits Rentrée 2021](https://open.spotify.com/album/58HtgHgFGdffOpr8lx9QVU) | 2:58 | 2022-01-12 |  |
 | [good 4 u](https://open.spotify.com/track/6PERP62TejQjgHu81OHxgM) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [good 4 u](https://open.spotify.com/album/3rMjL8NA5Wh2hbMNk2fSlY) | 2:58 | 2022-01-12 | 2022-07-29 |
 | [Hollaback Girl](https://open.spotify.com/track/0LzrhCZFXW94Y8nwtTuRlw) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Love Angel Music Baby \(Deluxe Version\)](https://open.spotify.com/album/3Lqn8M0QxPLIPRJ4nUKTGN) | 3:19 | 2022-01-12 | 2022-11-11 |
 | [Hollaback Girl](https://open.spotify.com/track/4JauPmOQRt5YTYakRhBAnD) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Best Hits 2000](https://open.spotify.com/album/4d7i3qaFIkqmmF4fMxexwp) | 3:19 | 2022-01-12 |  |

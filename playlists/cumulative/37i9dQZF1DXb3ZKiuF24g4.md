@@ -4,7 +4,7 @@
 
 > The perfect soundtrack for when you're having fun in the sun.
 
-65 songs - 3 hr 8 min - [published](https://open.spotify.com/playlist/3LCmoDT9YdMiDU2JUfP0Gb)
+67 songs - 3 hr 15 min - [published](https://open.spotify.com/playlist/3LCmoDT9YdMiDU2JUfP0Gb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,9 +21,11 @@
 | [Hot Beach Hop](https://open.spotify.com/track/7ou35IxsYMKLvttu8qsIpZ) | [Splashdance](https://open.spotify.com/artist/4Ice11eCBrh8t9cBQ48xAh) | [Get Your Splash Hands Ready!](https://open.spotify.com/album/3rrFsOAwF0D7klzbrLzhfD) | 1:48 | 2021-05-25 |  |
 | [Hot Beach Hop](https://open.spotify.com/track/7vyYyyGh5rwpCYuBO2KLMP) | [Splashdance](https://open.spotify.com/artist/4Ice11eCBrh8t9cBQ48xAh) | [Get Your Splash Hands Ready](https://open.spotify.com/album/6x4woJfLWo0EXsulbpoA5L) | 1:48 | 2021-05-25 | 2022-07-29 |
 | [In the Summertime](https://open.spotify.com/track/4OT4AvPAq1o0rscVNdC20X) | [Mungo Jerry](https://open.spotify.com/artist/2mbvqMGpwLsakeH45p1Jrb) | [In the Summertime](https://open.spotify.com/album/7wop1zYIUtT0T9auF2s1jz) | 3:31 | 2021-05-25 | 2022-07-29 |
-| [In the Summertime](https://open.spotify.com/track/3RNyGLgSvmVRZ7xKUp8Wgd) | [Mungo Jerry](https://open.spotify.com/artist/2mbvqMGpwLsakeH45p1Jrb) | [In the Summertime](https://open.spotify.com/album/30UgyUTvmdYXNo7CeMabXY) | 3:35 | 2021-05-25 |  |
+| [In the Summertime](https://open.spotify.com/track/3RNyGLgSvmVRZ7xKUp8Wgd) | [Mungo Jerry](https://open.spotify.com/artist/2mbvqMGpwLsakeH45p1Jrb) | [In the Summertime](https://open.spotify.com/album/30UgyUTvmdYXNo7CeMabXY) | 3:35 | 2021-05-25 | 2022-11-12 |
+| [In The Summertime](https://open.spotify.com/track/2DdEKsE7xI60WGuGQNM8Cb) | [Mungo Jerry](https://open.spotify.com/artist/2mbvqMGpwLsakeH45p1Jrb) | [One Hit Wonders \- Vol\. 7](https://open.spotify.com/album/3kwz9WsdaspUscD1jVVDmG) | 3:41 | 2021-05-25 |  |
 | [Island In The Sun](https://open.spotify.com/track/2MLHyLy5z5l5YRp7momlgw) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer \(Green Album\)](https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c) | 3:20 | 2021-05-25 |  |
-| [Jamming](https://open.spotify.com/track/5LyfiK6iXEIBNEtcaGKohl) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S) | 3:31 | 2021-05-25 |  |
+| [Jamming](https://open.spotify.com/track/5LyfiK6iXEIBNEtcaGKohl) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S) | 3:31 | 2021-05-25 | 2022-11-12 |
+| [Jamming](https://open.spotify.com/track/0NDJeqkaT4a7WlC3Uj2ig5) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Legend \(Deluxe Edition\)](https://open.spotify.com/album/04VRfesff9bgDA2Q8J2oDo) | 3:32 | 2021-05-25 |  |
 | [Jamming](https://open.spotify.com/track/0fF0HtZGSXZgGrC6b7Pq4I) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Gold](https://open.spotify.com/album/3Nvfpup2KU1NjD4uVEbxzz) | 3:34 | 2021-05-25 | 2022-07-29 |
 | [Kokomo](https://open.spotify.com/track/1oA9t2tKsEUeqesFG7SFfe) | [Music For Little People Choir](https://open.spotify.com/artist/56VxN57aiLCz1TXtVi9Pt6) | [Catch A Wave: Beach Songs For Kids](https://open.spotify.com/album/4bv3l226v9aulHL5wga5B6) | 4:12 | 2021-05-25 |  |
 | [Making Waves](https://open.spotify.com/track/7ya9Wb5ek21dYx06TtD0V5) | [Recess Monkey](https://open.spotify.com/artist/0oXrvAp6NnKeWz1qnKrNLb) | [Deep Sea Diver](https://open.spotify.com/album/36XrVhfFQBakUcrnWOsuo8) | 3:08 | 2021-05-25 |  |

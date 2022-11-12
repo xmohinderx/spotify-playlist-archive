@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2rFMAzWFwNe.md) - [plain]
 
 > ¡Y suena y suena..\. MS!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,234,337 likes - 95 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,234,769 likes - 95 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2rFMAzWFwNe.md) - [plain]
 | 23 | [El Patrón](https://open.spotify.com/track/7y8euUGZzG1E58Nt6bOKNb) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Amor Enfermo](https://open.spotify.com/album/0WS7m1l6aKMdpsdIWeodxo) | 2:19 |
 | 24 | [Me Gusta Tu Vieja](https://open.spotify.com/track/7LSPHfVcaebR9Oo20ZyRDd) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [No Me Pidas Perdón](https://open.spotify.com/album/1Iq9u0VsxfFDoLmX5bLTVL) | 3:07 |
 | 25 | [Mejor Me Alejo](https://open.spotify.com/track/5OUGSwa2eadrcAsMdUItmO) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Con Todas Las Fuerzas](https://open.spotify.com/album/265Gtj6TCk9UcWpyE2LDeM) | 3:21 |
-| 26 | [Te Equivocas](https://open.spotify.com/track/09T1GOcYbjJFxfYFmMqrbn) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [En Preparación](https://open.spotify.com/album/6SkVZ9EJpL1pQkf79qFnLF) | 3:21 |
+| 26 | [Te Equivocas](https://open.spotify.com/track/5CyLgVfF5C3q3ra6PZKPYZ) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Sólo Hits \(20 Éxitos\)](https://open.spotify.com/album/0H84MmPUGDOZx7hS7ec5Bb) | 3:20 |
 | 27 | [Sin Evidencia](https://open.spotify.com/track/1uKIMkHwpAd9vlS9rWT770) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Póker De Ases Banda Vol\. 1](https://open.spotify.com/album/4FdJecU6rWHWJG2xoBDkh2) | 2:41 |
-| 28 | [Es Tuyo Mi Amor](https://open.spotify.com/track/3Tshb8DCw7TEdnNMJc8Yuw) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [La Mejor Versión De Mí](https://open.spotify.com/album/6UV1wTga3v0p7rXwxxbUL1) | 2:57 |
+| 28 | [Es Tuyo Mi Amor](https://open.spotify.com/track/3gKm50XbXVnjJfNmCk4LZ0) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Es Tuyo Mi Amor](https://open.spotify.com/album/6azkxP424VV5wchQ97Ufdr) | 2:55 |
 | 29 | [Cerrando Ciclos](https://open.spotify.com/track/3fBJNawfhtgCmo58trRK2z) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [El Trabajo Es La Suerte](https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk) | 3:15 |
 | 30 | [La Casita](https://open.spotify.com/track/0vtYnEw1eJwW26BrBnOAYJ) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [El Trabajo Es La Suerte](https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk) | 3:37 |
 | 31 | [Qué Maldición](https://open.spotify.com/track/2RxC2peY3FtrurYmbbmanr) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Qué Maldición](https://open.spotify.com/album/3w8ZmQeTQo1390hdupmxvJ) | 3:23 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2rFMAzWFwNe.md) - [plain]
 | 94 | [La Sacamos Del Estadio](https://open.spotify.com/track/4UMEfSlU8YwRDHfXQWDYxc) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Con Todas Las Fuerzas](https://open.spotify.com/album/265Gtj6TCk9UcWpyE2LDeM) | 3:25 |
 | 95 | [Si Te Dejo de Querer](https://open.spotify.com/track/20N5T2Zun2FZQqrMMRzEQ5) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Que Bendición](https://open.spotify.com/album/5VL90afs1EsezktD44XMIN) | 2:24 |
 
-Snapshot ID: `MTY2NjYyMDc5MCwwMDAwMDAwMDQ3ZGQ5YjlkZjhkZmI3ZmMzOTA2ODJhNjliOTQwYjQw`
+Snapshot ID: `MTY2NjYyMDc5MCwwMDAwMDAwMGE5ZDEzMDFiNGQ3Zjc4ZGI1NzE0NTNmZTNlMDBkOWQ1`

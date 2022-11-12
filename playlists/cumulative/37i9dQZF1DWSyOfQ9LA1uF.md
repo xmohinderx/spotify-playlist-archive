@@ -4,7 +4,7 @@
 
 > Bedroom bootlegs and electroclash gems\. Cover: Chromeo
 
-153 songs - 11 hr 49 min - [published](https://open.spotify.com/playlist/5Cxep01SDXktRYE7g6krlV)
+155 songs - 12 hr 0 min - [published](https://open.spotify.com/playlist/5Cxep01SDXktRYE7g6krlV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,8 @@
 | [Lisztomania \- Classixx Version](https://open.spotify.com/track/378HDaqOZxzBkEIHzBzAJr) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [Classixx](https://open.spotify.com/artist/0vUTfcBDZZo2OUQJci5UNZ) | [Kitsuné: Lisztomania \(Remixes\)](https://open.spotify.com/album/393Oc9jktBl8cNFrcEkSJT) | 5:04 | 2022-02-03 | 2022-11-11 |
 | [Lisztomania \- Classixx Version](https://open.spotify.com/track/5rv4eHaluaLvw9yUSQP9sR) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [Classixx](https://open.spotify.com/artist/0vUTfcBDZZo2OUQJci5UNZ) | [Kitsuné: Lisztomania Remixes \- EP](https://open.spotify.com/album/1nSxkq2wInNszSPz0gyKEE) | 5:04 | 2022-02-03 | 2022-07-29 |
 | [Love Sweet Sound](https://open.spotify.com/track/48u0k7If0SEl1gSgQ652w7) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ) | [Soundboy Rock](https://open.spotify.com/album/7tRuSfPQNDZ5IbWFS6dNF9) | 4:35 | 2022-02-03 |  |
-| [Lucky Boy \- Outlines Remix](https://open.spotify.com/track/5zWOZ9upQkrFL5lfZ8GPCh) | [DJ Mehdi](https://open.spotify.com/artist/5ffMSKGQRhetAjBjEgkRun) | [Lucky Boy At Night](https://open.spotify.com/album/34ir3zlhfLzKq2kO54Gall) | 4:26 | 2022-02-03 |  |
+| [Lucky Boy \- Outlines Remix](https://open.spotify.com/track/5zWOZ9upQkrFL5lfZ8GPCh) | [DJ Mehdi](https://open.spotify.com/artist/5ffMSKGQRhetAjBjEgkRun) | [Lucky Boy At Night](https://open.spotify.com/album/34ir3zlhfLzKq2kO54Gall) | 4:26 | 2022-02-03 | 2022-11-12 |
+| [Lucky Boy \- Outlines Remix](https://open.spotify.com/track/1y6sI4BrtktJLLtc7Eti0A) | [DJ Mehdi](https://open.spotify.com/artist/5ffMSKGQRhetAjBjEgkRun) | [Lucky Girl](https://open.spotify.com/album/4nPSFdPtaZwp7oyy5bTumn) | 4:30 | 2022-08-24 |  |
 | [Lucky Boy \- Outlines Remix](https://open.spotify.com/track/7mtGla88gfdWGg76cxR9UA) | [DJ Mehdi](https://open.spotify.com/artist/5ffMSKGQRhetAjBjEgkRun) | [Lucky Girl](https://open.spotify.com/album/24M4RHQiCD92uqxXomsOyl) | 4:30 | 2022-02-03 | 2022-07-28 |
 | [Mars](https://open.spotify.com/track/59psl7nHl2qbUbht6mTeWp) | [Fake Blood](https://open.spotify.com/artist/6NaTOhsj6iiUNONPrE980Z) | [Mars](https://open.spotify.com/album/3AybLunP9HeRxlcmYzJJ7B) | 4:21 | 2022-02-03 |  |
 | [Meddle](https://open.spotify.com/track/5hBeax0At5KAHY2XjVRvxX) | [Little Boots](https://open.spotify.com/artist/0MoXIHcFwhIWnFgBfdvQ30) | [Hands \(US\)](https://open.spotify.com/album/6hfQ4H9mS2s9h1UGtvDu5p) | 3:15 | 2021-01-12 | 2022-07-28 |
@@ -96,8 +97,9 @@
 | [Mr Overtime \- Oliver Remix](https://open.spotify.com/track/19ATUXl74zSVALEEAJoX65) | [Punks Jump Up](https://open.spotify.com/artist/6C0GG4MVnkPKYwfAscQqzD), [Dave 1](https://open.spotify.com/artist/0UhiWhPuGtayAOBBf8avtO) | [Mr Overtime](https://open.spotify.com/album/4t7fpWyRglP8KjNyagBdUK) | 4:33 | 2022-02-03 | 2022-07-24 |
 | [Music Is My Hot, Hot Sex](https://open.spotify.com/track/5GpV1FvwKtSD1u6UcyiYXW) | [CSS](https://open.spotify.com/artist/2K13AVg3bFpHSxDM1vJ0qA) | [Cansei De Ser Sexy](https://open.spotify.com/album/4hE0UliYSCQiItKmKRDBaD) | 3:07 | 2021-01-12 |  |
 | [Music Is My Hot, Hot Sex](https://open.spotify.com/track/6M2iIzUzlea2yZROhTlxDl) | [CSS](https://open.spotify.com/artist/2K13AVg3bFpHSxDM1vJ0qA) | [Cansei De Ser Sexy](https://open.spotify.com/album/6IiKo8hbnqheYfEHaEmHoz) | 3:07 | 2021-01-12 | 2022-07-29 |
-| [My Moon My Man \- Boys Noize Classic Mix](https://open.spotify.com/track/2HTByMXgBpDqDw5mPwnk1m) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [The Reminder \(Deluxe Version\)](https://open.spotify.com/album/4la6HtYlMo0JWW1pgKbtB7) | 6:40 | 2021-01-12 |  |
+| [My Moon My Man \- Boys Noize Classic Mix](https://open.spotify.com/track/2HTByMXgBpDqDw5mPwnk1m) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [The Reminder \(Deluxe Version\)](https://open.spotify.com/album/4la6HtYlMo0JWW1pgKbtB7) | 6:40 | 2021-01-12 | 2022-11-12 |
 | [My Moon My Man \- Boys Noize Classic Mix](https://open.spotify.com/track/1peCEXpR0stP2NH9VQcVRH) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [My Man My Moon](https://open.spotify.com/album/0Aplm2prq8wVdsT1XSDJdh) | 6:40 | 2021-01-12 | 2022-07-29 |
+| [My Moon My Man \- Boys Noize Remix](https://open.spotify.com/track/5SOmPa1x00jAmZLHptSGm6) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Oi Oi Oi](https://open.spotify.com/album/5McKybquvC9GQ3Ppifsmxf) | 6:42 | 2022-08-24 |  |
 | [Night by Night](https://open.spotify.com/track/5bgYTzUDzerRFN7fp86MkQ) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Business Casual](https://open.spotify.com/album/7iZU6KMPD0iT7QqtMkTmL1) | 3:45 | 2022-02-03 |  |
 | [Nightcall \- Breakbot Remix](https://open.spotify.com/track/199fvGLqoH23blptlIIz86) | [Kavinsky](https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV), [Breakbot](https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL) | [Nightcall](https://open.spotify.com/album/07nBld9enf1PyRysZAVSqJ) | 3:39 | 2021-01-12 |  |
 | [Nights Off](https://open.spotify.com/track/3UubSlnwOhvZQq4lyCzTJG) | [Siriusmo](https://open.spotify.com/artist/22680B8sUdq6bL6nQaJfwg) | [Mosaik](https://open.spotify.com/album/5joNe9uuYWY9GjJlpASff2) | 4:07 | 2021-01-12 |  |

@@ -1241,7 +1241,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 209509,
       "name": "Crazy That You Love",
       "url": "https://open.spotify.com/track/4Z4lh6KduIfW4REI6XGnDw"
@@ -1431,7 +1431,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-08",
+      "date_removed": null,
       "duration_ms": 325500,
       "name": "Distraction",
       "url": "https://open.spotify.com/track/1RYvG5NlbR0tXBZvdLLDDS"
@@ -1449,7 +1449,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 269589,
       "name": "DiVine Ascension",
       "url": "https://open.spotify.com/track/4nm2iwvavAyduOTOqiq8PF"
@@ -1605,7 +1605,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 355493,
       "name": "Ego Killah",
       "url": "https://open.spotify.com/track/2PK9U7mNneWb55trrTP3S5"
@@ -1671,7 +1671,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-30",
+      "date_removed": null,
       "duration_ms": 211426,
       "name": "Epistrophy",
       "url": "https://open.spotify.com/track/3W5Wg12biSkttF8NTUzlET"
@@ -2712,6 +2712,24 @@
     },
     {
       "album": {
+        "name": "Ina Crueler",
+        "url": "https://open.spotify.com/album/3YSL3M37LHDYbiU2r0MXxc"
+      },
+      "artists": [
+        {
+          "name": "Bricknasty",
+          "url": "https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214062,
+      "name": "Ina Crueler",
+      "url": "https://open.spotify.com/track/601p9XbcpwRGFMbkY2HgVY"
+    },
+    {
+      "album": {
         "name": "India",
         "url": "https://open.spotify.com/album/5Vw736E5xvnzP9NfVIWLu5"
       },
@@ -3361,7 +3379,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 341200,
       "name": "Love In Outer Space (feat. Nao)",
       "url": "https://open.spotify.com/track/0PiP7roaErZrFZwE91bHlG"
@@ -4457,7 +4475,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-24",
+      "date_removed": null,
       "duration_ms": 291374,
       "name": "Pray - Edit",
       "url": "https://open.spotify.com/track/1BZqxYM0Q365Q62FlvigIq"
@@ -4559,7 +4577,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 270129,
       "name": "Relaxing at the Underbelly",
       "url": "https://open.spotify.com/track/2LE0NkEYXutnOK7nHRyNUR"
@@ -5273,7 +5291,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 267856,
       "name": "Spectre",
       "url": "https://open.spotify.com/track/4hGMFPGgQ56bwUw8DQMOHa"

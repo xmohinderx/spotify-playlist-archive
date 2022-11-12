@@ -4,7 +4,7 @@
 
 > This is Banda Maguey\. The essential tracks, all in one playlist.
 
-75 songs - 3 hr 34 min - [published](https://open.spotify.com/playlist/12cLMFUlwhG9QUaeXV6IET)
+76 songs - 3 hr 36 min - [published](https://open.spotify.com/playlist/12cLMFUlwhG9QUaeXV6IET)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Mil Gracias](https://open.spotify.com/track/1bzIOUvASf8r8Qtz6dlRyO) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [15 Canciones Favoritas](https://open.spotify.com/album/7bQTZGWH4siZ5JBnGsOAcU) | 3:17 | 2022-06-01 |  |
 | [Mujer Paseada](https://open.spotify.com/track/0pySFIvfAnwApyMz2i5SnS) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tu Eterno Enamorado](https://open.spotify.com/album/1yVWFex6NKNjEpYzwbKkui) | 2:22 | 2022-08-21 | 2022-10-11 |
 | [Niño Travieso](https://open.spotify.com/track/3Tnap1wm45mf3rAtUUJzV1) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tu Eterno Enamorado](https://open.spotify.com/album/1yVWFex6NKNjEpYzwbKkui) | 3:09 | 2022-06-01 | 2022-10-13 |
-| [No Vales la Pena \- Live Version](https://open.spotify.com/track/4bBpVAW8b2bwgtng5Bx0nS) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Exitos En Vivo](https://open.spotify.com/album/7GxLafMEpqfNA8mz8ojHbF) | 3:05 | 2022-06-01 |  |
+| [No Vales la Pena \- Live Version](https://open.spotify.com/track/4bBpVAW8b2bwgtng5Bx0nS) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Exitos En Vivo](https://open.spotify.com/album/7GxLafMEpqfNA8mz8ojHbF) | 3:05 | 2022-06-01 | 2022-11-12 |
 | [Pa Que Sientas Lo Que Siento](https://open.spotify.com/track/780DuUv8gplMFVTRe5Q9Tp) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Pa Que Veas Lo Que Se Siente](https://open.spotify.com/album/1GxBZ4J8MGYc2aPocy0Lcg) | 3:09 | 2022-06-02 | 2022-10-13 |
 | [Para Que No Me Olvides](https://open.spotify.com/track/7Lb2R3yGVlHH12OwbejcZN) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Para Que No Me Olvides](https://open.spotify.com/album/2I1Gl3XePqBREJ3iLNm7lf) | 3:11 | 2022-06-01 |  |
 | [Pero Te Amo \- Live Version](https://open.spotify.com/track/61xuXpyNQ8VGTqNcI2JxV1) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Exitos En Vivo](https://open.spotify.com/album/7GxLafMEpqfNA8mz8ojHbF) | 4:24 | 2022-06-01 |  |
@@ -82,6 +82,7 @@
 | [Tu Precio](https://open.spotify.com/track/1N7iPUvDor2HA8wOlS5LIB) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tumbando Caña](https://open.spotify.com/album/7Ja4lDuleKTZV67LuqlGA5) | 2:52 | 2022-06-05 |  |
 | [Tumbando Caña \(El Alacrán\)](https://open.spotify.com/track/3U047sYv0nyixJuVA9JNOv) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tumbando Caña \(Serie Clásica\)](https://open.spotify.com/album/2pQaVwjXRlqHnQ0RD8cf4e) | 2:30 | 2022-06-01 |  |
 | [Vamos a Bailar](https://open.spotify.com/track/4z1epl2x7FM0r7ImLr2Lq7) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [La Estrella de Los Bailes](https://open.spotify.com/album/5olkVTeTitf7wFn0xpvzaU) | 2:50 | 2022-06-01 |  |
+| [Y Andale](https://open.spotify.com/track/6ZrnySwVbRAQVIxWUbXjkk) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Metamorfosis](https://open.spotify.com/album/4ydVpa0y2L99cdlNAsg8Vy) | 2:28 | 2022-11-11 |  |
 | [Yo Le Bautizo el Chiquito](https://open.spotify.com/track/3D9tVDp399MoQvJD9g8F4P) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Soy Mexicano](https://open.spotify.com/album/6Mc8AQvP2LBKHZGX5ihwpa) | 3:10 | 2022-06-01 |  |
 
 \*This playlist was first scraped on 2022-06-02. Prior content cannot be recovered.

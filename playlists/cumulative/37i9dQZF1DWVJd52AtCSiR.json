@@ -686,6 +686,24 @@
     },
     {
       "album": {
+        "name": "Frozen: Il Regno di Ghiaccio (Colonna Sonora Originale)",
+        "url": "https://open.spotify.com/album/1Bt080kF4bPYckdp4Amc5V"
+      },
+      "artists": [
+        {
+          "name": "Christophe Beck",
+          "url": "https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185186,
+      "name": "Epilogue - From \"Frozen\"/Score",
+      "url": "https://open.spotify.com/track/7yuH2lBjZq0fGecbZa8wXr"
+    },
+    {
+      "album": {
         "name": "Frozen (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/19dqa2yIehtaN4kBwpSEvP"
       },
@@ -715,7 +733,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 186200,
       "name": "Epilogue - From \"Frozen\"/Score",
       "url": "https://open.spotify.com/track/3awivj0Q2xo4YNZeUaFUpB"
@@ -956,6 +974,24 @@
     },
     {
       "album": {
+        "name": "Pocahontas, Une L\u00e9gende Indienne (Bande Originale Fran\u00e7aise du Film)",
+        "url": "https://open.spotify.com/album/3HkPvUe2kaXsrh4guMIVBx"
+      },
+      "artists": [
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87386,
+      "name": "Grandmother Willow - From \"Pocahontas\"/Score",
+      "url": "https://open.spotify.com/track/7kixeLQcvdiUs8DK5lyA2y"
+    },
+    {
+      "album": {
         "name": "Pocahontas",
         "url": "https://open.spotify.com/album/7L6kEZVkWh7OEI71b1JHZd"
       },
@@ -967,7 +1003,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 87520,
       "name": "Grandmother Willow - From \"Pocahontas\"/Score",
       "url": "https://open.spotify.com/track/0YlqJkfuox9LpJ5uW3NPM8"
@@ -2296,6 +2332,28 @@
     },
     {
       "album": {
+        "name": "The Lion King: Special Edition Original Soundtrack (Swedish Version)",
+        "url": "https://open.spotify.com/album/1Dn2s7K0vTc55MtRTBN9sx"
+      },
+      "artists": [
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        },
+        {
+          "name": "Lebo M.",
+          "url": "https://open.spotify.com/artist/0zp9qNDSeYi3QEodhcKAAA"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224520,
+      "name": "Under Stj\u00e4rnorna",
+      "url": "https://open.spotify.com/track/3Y4GJ1fC9YDlgi13y2wpO7"
+    },
+    {
+      "album": {
         "name": "The Lion King: Special Edition Original Soundtrack (English Version)",
         "url": "https://open.spotify.com/album/6V642KcHwzOSyYGwH58kgO"
       },
@@ -2333,7 +2391,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 225266,
       "name": "Under the Stars - From \"The Lion King\"/Score",
       "url": "https://open.spotify.com/track/37lotBTQcBbYI7vEoGsOfg"

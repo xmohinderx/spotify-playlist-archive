@@ -1,12 +1,12 @@
 {
   "description": "Soft songs that gives you a gentle start of the day.",
-  "num_followers": 145489,
+  "num_followers": 145522,
   "original_name": "Soft Morning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODA3NDYyMiwwMDAwMDAwMGJkYjA4Mjc1NzUyNTViNWRiODQ5YzY4ZmM4NzUwZTQ1",
+  "snapshot_id": "MTY2ODA3NDYyMiwwMDAwMDAwMGE3NDA3MTFjNzM1Zjc2MWY3OWJmZmU1ZTJjOWNjYWY0",
   "tracks": [
     {
       "added_at": "2022-11-07 15:51:38",
@@ -235,22 +235,6 @@
     {
       "added_at": "2022-11-07 15:51:38",
       "album": {
-        "name": "Darling Arithmetic",
-        "url": "https://open.spotify.com/album/1hrv3F7Fbi9gMPkkcwCxRG"
-      },
-      "artists": [
-        {
-          "name": "Villagers",
-          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
-        }
-      ],
-      "duration_ms": 210013,
-      "name": "Everything I Am Is Yours",
-      "url": "https://open.spotify.com/track/281ioxkZbJ3p9hCvjD2bon"
-    },
-    {
-      "added_at": "2022-11-07 15:51:38",
-      "album": {
         "name": "I Am Easy to Find",
         "url": "https://open.spotify.com/album/5M5LPGsAR9mxbBa22GOp5h"
       },
@@ -443,6 +427,22 @@
     {
       "added_at": "2022-11-07 15:51:38",
       "album": {
+        "name": "Please Keep Loving Me (Acoustic)",
+        "url": "https://open.spotify.com/album/12EsSwU4gUwWmSaM6ziFxX"
+      },
+      "artists": [
+        {
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+        }
+      ],
+      "duration_ms": 197626,
+      "name": "Please Keep Loving Me - Acoustic",
+      "url": "https://open.spotify.com/track/6lay0FicAbIevv4Oxfv4Bz"
+    },
+    {
+      "added_at": "2022-11-07 15:51:38",
+      "album": {
         "name": "#Acoustic",
         "url": "https://open.spotify.com/album/6NIj5YBKDtfqUJ5qDy9PbI"
       },
@@ -487,22 +487,6 @@
       "duration_ms": 288731,
       "name": "Bigger Heart (Acoustic)",
       "url": "https://open.spotify.com/track/0bUm2G8Iz9oWd6NvGyNWOz"
-    },
-    {
-      "added_at": "2022-11-07 15:51:38",
-      "album": {
-        "name": "Please Keep Loving Me (Acoustic)",
-        "url": "https://open.spotify.com/album/12EsSwU4gUwWmSaM6ziFxX"
-      },
-      "artists": [
-        {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
-        }
-      ],
-      "duration_ms": 197626,
-      "name": "Please Keep Loving Me - Acoustic",
-      "url": "https://open.spotify.com/track/6lay0FicAbIevv4Oxfv4Bz"
     },
     {
       "added_at": "2022-11-07 15:51:38",
@@ -843,22 +827,6 @@
     {
       "added_at": "2022-11-07 15:51:38",
       "album": {
-        "name": "Things I Chose To Remember",
-        "url": "https://open.spotify.com/album/13DpMn525oKHXLQSgq96TF"
-      },
-      "artists": [
-        {
-          "name": "Rhys Lewis",
-          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
-        }
-      ],
-      "duration_ms": 229960,
-      "name": "No Right To Love You - Acoustic",
-      "url": "https://open.spotify.com/track/58VJmNB8oeoE2PRqCrduEo"
-    },
-    {
-      "added_at": "2022-11-07 15:51:38",
-      "album": {
         "name": "Most of Us Are Strangers",
         "url": "https://open.spotify.com/album/5ufRr4lWvGLNQsd6caY2bE"
       },
@@ -987,6 +955,22 @@
     {
       "added_at": "2022-11-07 15:51:38",
       "album": {
+        "name": "Sunflower",
+        "url": "https://open.spotify.com/album/2TI8ta6DUPmaupm4NZQpEw"
+      },
+      "artists": [
+        {
+          "name": "Sara Farell",
+          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
+        }
+      ],
+      "duration_ms": 181897,
+      "name": "Sunflower",
+      "url": "https://open.spotify.com/track/0v1yN5C75um5Wx2WPtFl6k"
+    },
+    {
+      "added_at": "2022-11-07 15:51:38",
+      "album": {
         "name": "Handwritten",
         "url": "https://open.spotify.com/album/6sUOosXuYt0oUeczJRbedZ"
       },
@@ -1035,22 +1019,6 @@
     {
       "added_at": "2022-11-07 15:51:38",
       "album": {
-        "name": "Sunflower",
-        "url": "https://open.spotify.com/album/2TI8ta6DUPmaupm4NZQpEw"
-      },
-      "artists": [
-        {
-          "name": "Sara Farell",
-          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
-        }
-      ],
-      "duration_ms": 181897,
-      "name": "Sunflower",
-      "url": "https://open.spotify.com/track/0v1yN5C75um5Wx2WPtFl6k"
-    },
-    {
-      "added_at": "2022-11-07 15:51:38",
-      "album": {
         "name": "Volition",
         "url": "https://open.spotify.com/album/5o5VHNjnZ5E5fb5cuoRzBZ"
       },
@@ -1067,18 +1035,18 @@
     {
       "added_at": "2022-11-07 15:51:38",
       "album": {
-        "name": "Where Light Pours In",
-        "url": "https://open.spotify.com/album/7EEAwQmw3KwyoJoQ88fVnF"
+        "name": "Leap (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7mmPsJx2nVfmeLoNV2l8ZN"
       },
       "artists": [
         {
-          "name": "Gustavo Bertoni",
-          "url": "https://open.spotify.com/artist/3SBeVI3ELQKQTEDoQ9ztq9"
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
         }
       ],
-      "duration_ms": 219133,
-      "name": "Be Here Now",
-      "url": "https://open.spotify.com/track/1zH6hFHwovpSxn0FmVpX6Q"
+      "duration_ms": 199375,
+      "name": "One Life - Acoustic",
+      "url": "https://open.spotify.com/track/39oAsq0WaFq1I4SzPN3vbj"
     },
     {
       "added_at": "2022-11-07 15:51:38",
@@ -1095,22 +1063,6 @@
       "duration_ms": 222810,
       "name": "Clean Eyes - Acoustic",
       "url": "https://open.spotify.com/track/0ixVfs0GvBfLNRA2qgjjk5"
-    },
-    {
-      "added_at": "2022-11-07 15:51:38",
-      "album": {
-        "name": "Leap (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7mmPsJx2nVfmeLoNV2l8ZN"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 199375,
-      "name": "One Life - Acoustic",
-      "url": "https://open.spotify.com/track/39oAsq0WaFq1I4SzPN3vbj"
     },
     {
       "added_at": "2022-11-07 15:51:38",
@@ -1183,22 +1135,6 @@
     {
       "added_at": "2022-11-07 15:51:38",
       "album": {
-        "name": "Walk Me Home",
-        "url": "https://open.spotify.com/album/5FU9XgMIfRKhBDBXg7Z9o4"
-      },
-      "artists": [
-        {
-          "name": "Searows",
-          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
-        }
-      ],
-      "duration_ms": 277374,
-      "name": "Walk Me Home",
-      "url": "https://open.spotify.com/track/5UvXzxI8LyaHbAw8sncdMZ"
-    },
-    {
-      "added_at": "2022-11-07 15:51:38",
-      "album": {
         "name": "I Will Wait",
         "url": "https://open.spotify.com/album/32aNqk2YkbDuULGnhW0UaX"
       },
@@ -1211,6 +1147,22 @@
       "duration_ms": 216841,
       "name": "I Will Wait",
       "url": "https://open.spotify.com/track/2VVWWwQ3FiWnmbukTb6Kd3"
+    },
+    {
+      "added_at": "2022-11-07 15:51:38",
+      "album": {
+        "name": "Walk Me Home",
+        "url": "https://open.spotify.com/album/5FU9XgMIfRKhBDBXg7Z9o4"
+      },
+      "artists": [
+        {
+          "name": "Searows",
+          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
+        }
+      ],
+      "duration_ms": 277374,
+      "name": "Walk Me Home",
+      "url": "https://open.spotify.com/track/5UvXzxI8LyaHbAw8sncdMZ"
     },
     {
       "added_at": "2022-11-07 15:51:38",
@@ -1323,22 +1275,6 @@
       "duration_ms": 131644,
       "name": "Bizarre Love Triangle - Acoustic",
       "url": "https://open.spotify.com/track/0PGDrKpe6yHPNRP1eSvCFy"
-    },
-    {
-      "added_at": "2022-11-07 15:51:38",
-      "album": {
-        "name": "I'll Buy A House (Acoustic)",
-        "url": "https://open.spotify.com/album/6h7sLh540K9kgPlwc382wO"
-      },
-      "artists": [
-        {
-          "name": "Violet Skies",
-          "url": "https://open.spotify.com/artist/56w356OnIbrmFsOFcx3NQN"
-        }
-      ],
-      "duration_ms": 186187,
-      "name": "I'll Buy A House - Acoustic",
-      "url": "https://open.spotify.com/track/1dpb7KzEnftZr3yfDqKyqg"
     },
     {
       "added_at": "2022-11-07 15:51:38",
@@ -1503,22 +1439,6 @@
     {
       "added_at": "2022-11-07 15:51:38",
       "album": {
-        "name": "I'm on Fire",
-        "url": "https://open.spotify.com/album/6EQMRKHTgh1ajs7NChXIkg"
-      },
-      "artists": [
-        {
-          "name": "Imaginary Future",
-          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
-        }
-      ],
-      "duration_ms": 140130,
-      "name": "I'm on Fire",
-      "url": "https://open.spotify.com/track/4R6mG0Y3xHrasfjsOx5LE7"
-    },
-    {
-      "added_at": "2022-11-07 15:51:38",
-      "album": {
         "name": "Planets",
         "url": "https://open.spotify.com/album/2CarDiOUtxpQx9iaFlLA1O"
       },
@@ -1535,6 +1455,22 @@
       "duration_ms": 195737,
       "name": "Cut Me Loose (feat. SKAAR) - Acoustic",
       "url": "https://open.spotify.com/track/0fHTzQDHHNGlX1gwPZWENh"
+    },
+    {
+      "added_at": "2022-11-07 15:51:38",
+      "album": {
+        "name": "I'm on Fire",
+        "url": "https://open.spotify.com/album/6EQMRKHTgh1ajs7NChXIkg"
+      },
+      "artists": [
+        {
+          "name": "Imaginary Future",
+          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
+        }
+      ],
+      "duration_ms": 140130,
+      "name": "I'm on Fire",
+      "url": "https://open.spotify.com/track/4R6mG0Y3xHrasfjsOx5LE7"
     },
     {
       "added_at": "2022-11-07 15:51:38",
@@ -1611,22 +1547,6 @@
     {
       "added_at": "2022-11-07 15:51:38",
       "album": {
-        "name": "Fine On Your Own",
-        "url": "https://open.spotify.com/album/7Ip0syd58UqHIO4i74FHUl"
-      },
-      "artists": [
-        {
-          "name": "Nicklas Sahl",
-          "url": "https://open.spotify.com/artist/3k785W4GFDnZfTortQlhMA"
-        }
-      ],
-      "duration_ms": 222473,
-      "name": "Fine On Your Own",
-      "url": "https://open.spotify.com/track/5AVInbrIxdDksDyAqjvE7l"
-    },
-    {
-      "added_at": "2022-11-07 15:51:38",
-      "album": {
         "name": "Leave a Light On",
         "url": "https://open.spotify.com/album/3pr3n0FMxhgOBQE3JycU3E"
       },
@@ -1647,18 +1567,98 @@
     {
       "added_at": "2022-11-07 15:51:38",
       "album": {
-        "name": "Glasshouse (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6mPNjjOl2GHbP4E90l7bJe"
+        "name": "Should I Stay Or Should I Go",
+        "url": "https://open.spotify.com/album/6Gq8DXdAYBC7R3kzFCztNz"
       },
       "artists": [
         {
-          "name": "Jessie Ware",
-          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+          "name": "Ofelia",
+          "url": "https://open.spotify.com/artist/3JJykf1FPCxClLzswrKxPr"
         }
       ],
-      "duration_ms": 226160,
-      "name": "Alone - Acoustic",
-      "url": "https://open.spotify.com/track/0vDnzajlY189JIRlQ0cOUs"
+      "duration_ms": 157750,
+      "name": "Should I Stay Or Should I Go",
+      "url": "https://open.spotify.com/track/2FEa7a9fEAfqlW3hx7MQAC"
+    },
+    {
+      "added_at": "2022-11-07 15:51:38",
+      "album": {
+        "name": "Luck Pusher",
+        "url": "https://open.spotify.com/album/5J23ETJ3kP5Nwc3vY9GgSm"
+      },
+      "artists": [
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        }
+      ],
+      "duration_ms": 163410,
+      "name": "Luck Pusher",
+      "url": "https://open.spotify.com/track/3OXwGvg4SZgc6bHWedBYsI"
+    },
+    {
+      "added_at": "2022-11-07 15:51:38",
+      "album": {
+        "name": "Get Lost",
+        "url": "https://open.spotify.com/album/0xie7ofeyXxvtFqPgvnSIv"
+      },
+      "artists": [
+        {
+          "name": "moon tang",
+          "url": "https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7"
+        }
+      ],
+      "duration_ms": 186101,
+      "name": "Get Lost",
+      "url": "https://open.spotify.com/track/6T5h25GMtJWOhGcObvjlHq"
+    },
+    {
+      "added_at": "2022-11-07 15:51:38",
+      "album": {
+        "name": "Fine On Your Own",
+        "url": "https://open.spotify.com/album/7Ip0syd58UqHIO4i74FHUl"
+      },
+      "artists": [
+        {
+          "name": "Nicklas Sahl",
+          "url": "https://open.spotify.com/artist/3k785W4GFDnZfTortQlhMA"
+        }
+      ],
+      "duration_ms": 222473,
+      "name": "Fine On Your Own",
+      "url": "https://open.spotify.com/track/5AVInbrIxdDksDyAqjvE7l"
+    },
+    {
+      "added_at": "2022-11-07 15:51:38",
+      "album": {
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/6CEQVWd8lCfQN849wYVIxc"
+      },
+      "artists": [
+        {
+          "name": "Emma Steinbakken",
+          "url": "https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td"
+        }
+      ],
+      "duration_ms": 272680,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/0GuIHTNw6hNvkMNLf8bBdh"
+    },
+    {
+      "added_at": "2022-11-07 15:51:38",
+      "album": {
+        "name": "Cursed",
+        "url": "https://open.spotify.com/album/4UAYE2CieGFmNrEzJCQlri"
+      },
+      "artists": [
+        {
+          "name": "Chachi",
+          "url": "https://open.spotify.com/artist/7lb78m877P9dEjjyDjrv8S"
+        }
+      ],
+      "duration_ms": 263226,
+      "name": "Cursed II",
+      "url": "https://open.spotify.com/track/38DSyUHQmyVKeUWnbn6dkG"
     }
   ],
   "unique_name": "Soft Morning",

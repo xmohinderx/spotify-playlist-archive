@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVjvpZJKWWzO.md) - [plain]
 
 > Los grandes éxitos de Celia Cruz Y Tito Puente en un mismo lugar\. Listen to both icons here!
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,282 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,318 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVjvpZJKWWzO.md) - [plain]
 | 22 | [Guajira Ven](https://open.spotify.com/track/60SzOJfsiQmP6tjB9t1pIA) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [Lo Mato](https://open.spotify.com/album/4TzXeIsjyPLaNvgOd84bwr) | 4:08 |
 | 23 | [Tu Voz](https://open.spotify.com/track/58lScp6uPaORVpKoMriUw4) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [La Reina Y Sus Amigos](https://open.spotify.com/album/0FLIEL0LI4A6lIYqRekRWH) | 5:01 |
 | 24 | [Celia Y Tito](https://open.spotify.com/track/3flZnMUMEKYjwvSXalOegN) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [2En1](https://open.spotify.com/album/3LTZ2KOyO71W1p5LepHuSM) | 5:58 |
-| 25 | [La Dicha Mía](https://open.spotify.com/track/3MtmJFVMDcJQye0ke1qwlx) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Pete "El Conde" Rodriguez](https://open.spotify.com/artist/1Nl2RRbigQuX1TqV1tSPHa) | [Celia, Johnny, And Pete](https://open.spotify.com/album/03NIcOwe2QNrqWvyrM80CT) | 5:51 |
+| 25 | [La Dicha Mía](https://open.spotify.com/track/2ov4WN93psTYPcFv4SuZ86) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Pete "El Conde" Rodriguez](https://open.spotify.com/artist/1Nl2RRbigQuX1TqV1tSPHa) | [Anthology](https://open.spotify.com/album/057a4rFQGjDyyPaEQAmmrZ) | 5:51 |
 | 26 | [Baile Mi Mambo](https://open.spotify.com/track/4hj0qM3g6ioPpDdBqBxVGK) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [Besame Mucho and More Golden Hits](https://open.spotify.com/album/55iu99b3CQUneNy1hTeRig) | 3:07 |
 | 27 | [Usted Abusó](https://open.spotify.com/track/4PVWX7hULw7iaZqfzmjg8u) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Cocinar y Cantar](https://open.spotify.com/album/6Bp4EoszmnTvPSZwjBfiYz) | 4:15 |
 | 28 | [Para Los Rumberos](https://open.spotify.com/track/2pa96dSFmYfIV284Fivscl) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [Para los Rumberos](https://open.spotify.com/album/0NO0lAOqHxaM5wCdSZ8x8P) | 4:03 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVjvpZJKWWzO.md) - [plain]
 | 33 | [Por Si Acaso No Regreso](https://open.spotify.com/track/1n52ulXSj7E3GOjcpw1EKF) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Siempre Viviré](https://open.spotify.com/album/1AiGzUZRRNllVXmbCsawwj) | 5:47 |
 | 34 | [Todos Somos Iguales](https://open.spotify.com/track/702kV9fumQ7Bl09IwdrFdK) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Fania Classics: Celia Cruz & Willie Colón](https://open.spotify.com/album/2Aa055iU5gYEcGNe7Mo0ht) | 3:04 |
 | 35 | [Cha Cha Cha](https://open.spotify.com/track/50PhinYVSRNrftDCXCv7t0) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [Hoy y Ayer](https://open.spotify.com/album/1Gg0LMPxbrR8SCXtAMveyG) | 2:27 |
-| 36 | [Cúcala](https://open.spotify.com/track/4lDazSsfp0eKRWUh4BKCgI) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o) | [Tremendo Cache](https://open.spotify.com/album/1Wbmg5TqfFELODTlgeihcN) | 3:49 |
-| 37 | [El Guabá](https://open.spotify.com/track/5N2qXP1223XwTkvBxmBKyz) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o) | [La Candela](https://open.spotify.com/album/1ZKQhL5PnDYRRQUAKUMOIq) | 4:03 |
+| 36 | [Cúcala](https://open.spotify.com/track/0O4krq7bi4e5Lq4Zsi2try) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o) | [Celia](https://open.spotify.com/album/2xBaORsHP0AqtXhjTaXFai) | 3:49 |
+| 37 | [El Guabá](https://open.spotify.com/track/0CPmjH0yfxwsVVHd6BKdRC) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o) | [Anthology](https://open.spotify.com/album/057a4rFQGjDyyPaEQAmmrZ) | 3:59 |
 | 38 | [Wouldn’t It Be Lovely](https://open.spotify.com/track/5ho1Lrgs60ayRjCOdZaeXa) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [My Fair Lady Goes Latin](https://open.spotify.com/album/66BEuXKJcaOagDDeFxWTH6) | 3:04 |
 | 39 | [La Guarachera](https://open.spotify.com/track/7kWdf24d03AheJu4KF4mo3) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Cuba y Puerto Rico](https://open.spotify.com/album/1P7Ucst33FwWbnoCj0TlNw) | 2:44 |
 | 40 | [Quizás, Quizás, Quizás](https://open.spotify.com/track/7FES7rrRiopj1YLqIUyyGO) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Boleros](https://open.spotify.com/album/7DSbg77hDxJs4dnvi1qVgj) | 2:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVjvpZJKWWzO.md) - [plain]
 | 49 | [Yeah!](https://open.spotify.com/track/24cOWyNs4aTr4Ol1dtXhh8) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [Tito's Idea](https://open.spotify.com/album/1kHWWswdYnqytKxTQS6rxE) | 7:26 |
 | 50 | [Yo No Quiero Piedras En Mi Camino](https://open.spotify.com/track/6MPEQFBZERZBaZJw0f7LPY) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [The Rough Guide to Salsa Divas](https://open.spotify.com/album/2PpNoXeZBMt1gdGIdg2PZJ) | 5:00 |
 
-Snapshot ID: `MTY1ODk0MDUzMCwwMDAwMDAwMGE0NmU3NDcxNWIzMjZhZmY0MWE0YTY2M2Q1ZjY5YmFi`
+Snapshot ID: `MTY1ODk0MDUzMCwwMDAwMDAwMDY4M2NmZjU0ZjMzYjRhYmJmODNjMzQwMTg4MmQ5OGNj`

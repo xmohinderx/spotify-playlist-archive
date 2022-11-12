@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ib6QBg3iKI.md) - [plain]
 
 > Get cozy and relax to these laid\-back festive sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,234 likes - 73 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,290 likes - 73 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ib6QBg3iKI.md) - [plain]
 | 9 | [Happy Xmas \(War Is Over\)](https://open.spotify.com/track/2HVzChP0rkqzQFSwuvT6l6) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Happy Xmas \(War Is Over\)](https://open.spotify.com/album/3ooj2KhGGLaLa7QNmse1t5) | 3:55 |
 | 10 | [The Lighthouse Keeper](https://open.spotify.com/track/2WUVQQAsWvScEdBVilRYaR) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Lighthouse Keeper](https://open.spotify.com/album/30Nf68hbXjDvoacY0K5fFB) | 4:07 |
 | 11 | [Christmas Bells](https://open.spotify.com/track/5XpNyWYhthe92tlmkOXqwI) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Christmas Bells](https://open.spotify.com/album/1dXRKuoD1gJpa4ZQp0zN46) | 4:06 |
-| 12 | [Rockin' Around The Christmas Tree](https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [Merry Christmas From Brenda Lee](https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG) | 2:06 |
+| 12 | [Rockin' Around the Christmas Tree \- Re\-Recorded Version](https://open.spotify.com/track/0MSZvONijKwL4NWF8n6pE6) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [It's Beginning to Look a Lot Like Christmas](https://open.spotify.com/album/0TfqrsPnjt2xgFT7nrGy5I) | 2:06 |
 | 13 | [Step Into Christmas](https://open.spotify.com/track/5AG7WObBQyMrmAfP5X9FKw) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Happy Navidad](https://open.spotify.com/album/1PpiyGryY19O7Lk6L1IbFu) | 4:32 |
 | 14 | [Santa Claus Is Coming To Town](https://open.spotify.com/track/6MdsV9aBvKaH14iMBEw0ex) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [Jazz till julfesten](https://open.spotify.com/album/7lZSp6Jt2GUlZMgUCBRUlw) | 2:16 |
 | 15 | [Jingle Bell Rock \- Single Version](https://open.spotify.com/track/0t97lL3ZMyuxbABB0dgYhf) | [Bobby Helms](https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC) | [Natale 2020](https://open.spotify.com/album/000t7Ge3vazfHDgDwYV8dZ) | 2:10 |
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ib6QBg3iKI.md) - [plain]
 | 24 | [Please Come Home for Christmas \- 2013 Remaster](https://open.spotify.com/track/3QIoEi8Enr9uHffwInGIsC) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Please Come Home for Christmas / Funky New Year \(2013 Remaster\)](https://open.spotify.com/album/4QxtDUU3U7gCCyT9Lm3bg5) | 2:57 |
 | 25 | [Last Christmas](https://open.spotify.com/track/0mKbWzFb9EsTJgDwzbYtRc) | [Stephanie Rainey](https://open.spotify.com/artist/59W7vyEBvLFnrimGrfEUiD) | [Last Christmas](https://open.spotify.com/album/443y0OW2T8uu2sFEOqxzVN) | 3:08 |
 | 26 | [The Christmas Song \(Shawn Mendes & Camila Cabello\)](https://open.spotify.com/track/0fwxmtpxpMmEMphmJbCAEx) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Wonder \(Deluxe\)](https://open.spotify.com/album/2sDPTkswUWDLtZYiOzubTe) | 3:16 |
-| 27 | [Santa Tell Me](https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Santa Tell Me](https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97) | 3:24 |
+| 27 | [Santa Tell Me](https://open.spotify.com/track/0un8vLp0hSudAJNLjImTEE) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [ŚWIĘTA, ŚWIĘTA](https://open.spotify.com/album/2Z0Yk8D7w4nj9thNNZSwub) | 3:23 |
 | 28 | [Baby It's Cold Outside](https://open.spotify.com/track/5u6twnQs1d6ontqhUOWh7t) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR), [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Ave Maria \- Merry Christmas](https://open.spotify.com/album/0kdIJZ7T44dlfXSp1EIvW8) | 2:46 |
 | 29 | [All You're Dreaming Of](https://open.spotify.com/track/17Xof0GRZZfS7ZgjUJ27pH) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [All You're Dreaming Of](https://open.spotify.com/album/7J50mCUWpCQdoMQ6RAUKaG) | 4:01 |
 | 30 | [lonely christmas \(feat\. Justin Bieber & Poo Bear\)](https://open.spotify.com/track/5FZNkiHoC7fbc30acoRpfb) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Poo Bear](https://open.spotify.com/artist/3JXpwnHbLvXxY99EuXqFPX) | [A Different Christmas](https://open.spotify.com/album/52QMK9SFNjiuz3ipkuVVZu) | 3:50 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ib6QBg3iKI.md) - [plain]
 | 72 | [Loneliest Time Of Year](https://open.spotify.com/track/7dfWGm8f6joB6tLnZN2avh) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Loneliest Time Of Year](https://open.spotify.com/album/4AKesH5kCVXdZKeWuAHVUQ) | 3:22 |
 | 73 | [Snowman](https://open.spotify.com/track/6ujtWaqT4ZDkMhDgVQzXtH) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Cold December Night](https://open.spotify.com/album/59z4CNPuuXCl3r0DsMG2MS) | 2:45 |
 
-Snapshot ID: `MTY2NzMwNzAxMywwMDAwMDAwMDBjNzNlNGRjMzI2YjQ1YmU0NDNiY2MwYjc3MTYwY2Q3`
+Snapshot ID: `MTY2NzMwNzAxMywwMDAwMDAwMDFiMTJjZTY4MGJjNWE3ZDE2ZjM1NGU4MmM4NTQ3OTY4`

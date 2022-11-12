@@ -4,7 +4,7 @@
 
 > Brighten your day with a mix of folksy mood boosters.
 
-189 songs - 11 hr 9 min - [published](https://open.spotify.com/playlist/4lWrIHnS7oBXtFO6UQpyPP)
+192 songs - 11 hr 21 min - [published](https://open.spotify.com/playlist/4lWrIHnS7oBXtFO6UQpyPP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Bride](https://open.spotify.com/track/258ONJcunOE7KA225pLP2x) | [San Fermin](https://open.spotify.com/artist/7fSnislKgW9Mz0YIqWQmGt) | [Belong](https://open.spotify.com/album/22sKyWyE7QGrAtfPHDboXV) | 3:49 | 2022-06-21 | 2022-09-17 |
 | [Bride](https://open.spotify.com/track/6IG4Z0sKhLG7MaXOgPCaa8) | [San Fermin](https://open.spotify.com/artist/7fSnislKgW9Mz0YIqWQmGt) | [Bride](https://open.spotify.com/album/28owF5FXqCYlH1nfT09uVU) | 3:49 | 2021-11-12 | 2022-07-29 |
 | [BRIGHTSIDE](https://open.spotify.com/track/1TX0ImiGMYiikRash29a2b) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [BRIGHTSIDE](https://open.spotify.com/album/35oJ7lIOHpQtRxr4QiCK5j) | 3:49 | 2021-11-12 | 2022-06-22 |
+| [Brother To You](https://open.spotify.com/track/4reQP8WeF311w1sDlCBS3F) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [New Mythology](https://open.spotify.com/album/0m1s2KM4LbDqD2lwZhOTJw) | 3:34 | 2022-06-21 |  |
 | [By and By](https://open.spotify.com/track/75nZ4W6quZhI55LKiqCXWh) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [By and By](https://open.spotify.com/album/4Ib3LE6FimfhNVnY7Tc1zM) | 4:40 | 2021-11-12 |  |
 | [California](https://open.spotify.com/track/6bQgMGR0zwVYYs2WU13PKR) | [Bonny Light Horseman](https://open.spotify.com/artist/0Qi9Fcmn1DJAoG8Agf5ibb), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s), [Eric D\. Johnson](https://open.spotify.com/artist/4LBdlNpHBD8dHPcVCrjSB6), [Josh Kaufman](https://open.spotify.com/artist/3kKgcBXTgyAZhXPV3AaSZc) | [California](https://open.spotify.com/album/7p60qDZbD3VqHVhFQDX4Ry) | 3:16 | 2022-06-21 |  |
 | [Call It Dreaming](https://open.spotify.com/track/1MxHIIzcTeFnaNsDGY3pfj) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Beast Epic](https://open.spotify.com/album/33zayrSBdboyCyGTjtQrsw) | 3:51 | 2022-06-21 |  |
@@ -101,6 +102,7 @@
 | [Just A Little While](https://open.spotify.com/track/3CL0eXel8usNNSCQ6OT7KJ) | [The 502s](https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX) | [Could It Get Better Than This](https://open.spotify.com/album/1sewF9zfVLURBL1CEKJmMC) | 2:42 | 2021-12-15 | 2022-06-22 |
 | [Just Kids](https://open.spotify.com/track/2RWO1r4CV3HF3U9mJSvkdt) | [Lowland Circus](https://open.spotify.com/artist/41vAWKpK5vw3TuYahI6jcI) | [Just Kids](https://open.spotify.com/album/2gDfmGQxYnqaAis661XZT4) | 2:47 | 2021-11-12 | 2022-07-29 |
 | [Katie Queen of Tennessee](https://open.spotify.com/track/0o8LEuOfOGDJK1o6d9yTUu) | [The Apache Relay](https://open.spotify.com/artist/62pBNClOEZJEyRXrzC2CtI) | [Apache Relay](https://open.spotify.com/album/44BZ4l91xbXHSaRILp6obP) | 3:28 | 2021-11-12 | 2022-11-04 |
+| [Katie Queen of Tennessee](https://open.spotify.com/track/4C7GZbwKnoucpGdkBQ9iGt) | [The Apache Relay](https://open.spotify.com/artist/62pBNClOEZJEyRXrzC2CtI) | [Apache Relay](https://open.spotify.com/album/771ZFXvbXuZEFPiPyQGxFh) | 3:28 | 2022-06-21 |  |
 | [Lay by Me](https://open.spotify.com/track/5HUynLdprJzINndFXcidfu) | [firekid](https://open.spotify.com/artist/61XyQHQKfzbzgTmtbiVOR3) | [firekid](https://open.spotify.com/album/6qb5fl4U5XsxZOFNHqwxxw) | 3:12 | 2021-11-12 |  |
 | [Life's What You Make It](https://open.spotify.com/track/5rRDCbF97rcJW0ES9RhPhC) | [Graham Colton](https://open.spotify.com/artist/3bCmhyXqTr9ZNGlHNYNTFA) | [Life's What You Make It](https://open.spotify.com/album/2p1lJKQNcodNZVqsuFq6H2) | 3:06 | 2021-11-12 |  |
 | [Little Road](https://open.spotify.com/track/4wDhECcwcKR4jZEEDiye5a) | [Devarrow](https://open.spotify.com/artist/6MrZj6wqVagXe1UQ8AYWgZ) | [The Great Escape](https://open.spotify.com/album/155osgcutzrJu9a1w5aIgB) | 3:15 | 2021-11-12 |  |
@@ -110,7 +112,7 @@
 | [Making Do](https://open.spotify.com/track/46quRQAj7MxBJ38B5EyJOc) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Making Do](https://open.spotify.com/album/3sI7Qkzzjs4lSleiRvfJlC) | 3:34 | 2021-11-12 |  |
 | [McKenzie](https://open.spotify.com/track/6FLkXWDTvUc36qYYRhm4jg) | [Houndmouth](https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5) | [Good For You](https://open.spotify.com/album/7pDkPWgwrc2weqXdL0ID6m) | 3:14 | 2022-06-21 |  |
 | [McKenzie](https://open.spotify.com/track/6r105oew3DqGLUEIYRMk9L) | [Houndmouth](https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5) | [McKenzie](https://open.spotify.com/album/5EK1qziAlurOZINUJC1yPe) | 3:14 | 2021-11-12 | 2022-07-29 |
-| [Mess Is Mine](https://open.spotify.com/track/29jtZGdgpE2lWm2mkIt6HS) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:43 | 2022-06-21 |  |
+| [Mess Is Mine](https://open.spotify.com/track/29jtZGdgpE2lWm2mkIt6HS) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:43 | 2022-06-21 | 2022-11-12 |
 | [Mess Is Mine](https://open.spotify.com/track/7BVwi9cIzSc6tpyxsp47vJ) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away](https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg) | 3:43 | 2021-11-12 | 2022-07-29 |
 | [Mighty Soul](https://open.spotify.com/track/1beRzsjfMsFtrXkw0I4OPZ) | [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy) | [Strawberry Mansion \- Side A](https://open.spotify.com/album/0mbKHuV8g0FQ2WDQgDZgGR) | 1:57 | 2021-11-12 |  |
 | [Mountain Man](https://open.spotify.com/track/3QnxeNu890sL0Lcfy0iFzQ) | [Liz Cooper](https://open.spotify.com/artist/58irgKwXTjCCuYQB58aXeH), [The Stampede](https://open.spotify.com/artist/6naWDjIIvxOhHfu99ubAC7) | [Window Flowers](https://open.spotify.com/album/799tX7gorQNl08X2e6Bdt8) | 3:58 | 2022-06-21 | 2022-11-11 |
@@ -120,11 +122,12 @@
 | [My Boy](https://open.spotify.com/track/5PHbusMmCka1GbXiYoSD47) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [My Boy](https://open.spotify.com/album/67UzYNh0EZimd6Cp0usqSN) | 2:43 | 2022-06-21 | 2022-09-13 |
 | [My Boy](https://open.spotify.com/track/5ndSLoHMt298BYsru2seYK) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [My Boy](https://open.spotify.com/album/6BkPM6yssffxIhcKimWI3B) | 2:43 | 2022-06-21 |  |
 | [Need You](https://open.spotify.com/track/2EO0D7WCnC38HzKncS4nAv) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [Olly Olly](https://open.spotify.com/album/6898mgjdVWLEBf9gCQpCAS) | 3:09 | 2022-02-11 | 2022-07-29 |
-| [Need You](https://open.spotify.com/track/7f0PCIJFVw7U5tbuFH4rb0) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [Olly Olly](https://open.spotify.com/album/4ruy6zMB9t2sKrNyK2B8zF) | 3:09 | 2022-06-21 |  |
+| [Need You](https://open.spotify.com/track/7f0PCIJFVw7U5tbuFH4rb0) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [Olly Olly](https://open.spotify.com/album/4ruy6zMB9t2sKrNyK2B8zF) | 3:09 | 2022-06-21 | 2022-11-12 |
 | [New Girl](https://open.spotify.com/track/7EN7VVggDQew9Ki60a47x4) | [Jamie Drake](https://open.spotify.com/artist/7rvB7ONJSqlmaCrcbhelir) | [New Girl](https://open.spotify.com/album/2CgSadfSWTw2Sbv2ZA4QlK) | 3:27 | 2022-06-21 | 2022-07-29 |
 | [Officer of Love](https://open.spotify.com/track/4KhBvLbRr58rHPF24bdL9Q) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Officer of Love](https://open.spotify.com/album/7JQPBE6v0PxayunYaJ0CiT) | 3:59 | 2021-11-12 | 2022-06-22 |
+| [Olalla](https://open.spotify.com/track/0vrlxoXcbwD8Sklwy59N9g) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Nocturne EP](https://open.spotify.com/album/3KeZeDLfggA5icZ8HG9FHm) | 4:07 | 2022-06-21 |  |
 | [Olalla](https://open.spotify.com/track/4d4OJTq2Yl7TyiuGMLxa1h) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Olalla](https://open.spotify.com/album/7ezEVlzMBGfVkGWuwcINqY) | 4:07 | 2021-11-12 | 2022-07-29 |
-| [Olalla](https://open.spotify.com/track/4R59wt5nnhYo88PIu3cUIt) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [On the Other Side](https://open.spotify.com/album/7ruII5ZslQNpw4viJv10yG) | 4:08 | 2022-06-21 |  |
+| [Olalla](https://open.spotify.com/track/4R59wt5nnhYo88PIu3cUIt) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [On the Other Side](https://open.spotify.com/album/7ruII5ZslQNpw4viJv10yG) | 4:08 | 2022-06-21 | 2022-11-12 |
 | [Only the Wild Ones](https://open.spotify.com/track/0ErpHxNt1kTyCQGlh43wr1) | [DISPATCH](https://open.spotify.com/artist/6v4jPZO3UIDNJIgdxRxtr9) | [America, Location 12](https://open.spotify.com/album/2GkDG2SbBX4lewmepYLAYV) | 4:13 | 2021-11-12 | 2022-10-13 |
 | [Only the Wild Ones](https://open.spotify.com/track/3LwjMORRPuf7j7WiFHW350) | [DISPATCH](https://open.spotify.com/artist/6v4jPZO3UIDNJIgdxRxtr9) | [America, Location 12](https://open.spotify.com/album/4aWKSKDk0EKPuyv3IsTrsw) | 4:13 | 2022-06-21 | 2022-11-11 |
 | [Ophelia](https://open.spotify.com/track/3qhobDAfBcVoOWZP8Ck8R2) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Ophelia](https://open.spotify.com/album/6lyCWslIfNEmAWe6ps2KNh) | 2:40 | 2021-11-12 |  |

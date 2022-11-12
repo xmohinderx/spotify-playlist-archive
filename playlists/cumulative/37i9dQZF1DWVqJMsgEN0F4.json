@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Phoenix along with the top Alternative songs of today.",
+  "description": "Paramore along with the top Alternative songs of today.",
   "name": "Alt NOW",
   "published_playlist_ids": [
     "6EMN1AhrUHWzoAMRYyK1Q6"
@@ -329,7 +329,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 197040,
       "name": "Barely on My Mind",
       "url": "https://open.spotify.com/track/7LigIDzs63Y4uFlZvNzCZq"
@@ -513,7 +513,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 198480,
       "name": "boy",
       "url": "https://open.spotify.com/track/3Qw0WuniULBdYjXe2jsqCy"
@@ -1014,6 +1014,28 @@
     },
     {
       "album": {
+        "name": "don't sleep, repeat (feat. Machine Gun Kelly)",
+        "url": "https://open.spotify.com/album/4QI0QDu2k1PpD4432zbNHK"
+      },
+      "artists": [
+        {
+          "name": "44phantom",
+          "url": "https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ"
+        },
+        {
+          "name": "Machine Gun Kelly",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149160,
+      "name": "don't sleep, repeat (feat. Machine Gun Kelly)",
+      "url": "https://open.spotify.com/track/2qtqIinDwJQzsUofMtkH0D"
+    },
+    {
+      "album": {
         "name": "EDGING",
         "url": "https://open.spotify.com/album/0EspGdWdoWAxa5mBdQ5z55"
       },
@@ -1171,6 +1193,28 @@
       "duration_ms": 187626,
       "name": "Free",
       "url": "https://open.spotify.com/track/679TFYvv44xVWXiEPefOSu"
+    },
+    {
+      "album": {
+        "name": "FUCK ABOUT IT",
+        "url": "https://open.spotify.com/album/2U9uohrVqMVGb1pBqPFTXX"
+      },
+      "artists": [
+        {
+          "name": "Waterparks",
+          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
+        },
+        {
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172375,
+      "name": "FUCK ABOUT IT (feat. blackbear)",
+      "url": "https://open.spotify.com/track/3MOKBkpsarb0AfAABcLAsn"
     },
     {
       "album": {
@@ -2748,6 +2792,24 @@
     },
     {
       "album": {
+        "name": "CHAOS NOW*",
+        "url": "https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM"
+      },
+      "artists": [
+        {
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129119,
+      "name": "SICK OF IT*",
+      "url": "https://open.spotify.com/track/25SRFuJqLVrgApeFw4vFCb"
+    },
+    {
+      "album": {
         "name": "Sick of U",
         "url": "https://open.spotify.com/album/2DA4VGpM7OkPIAiyviDPCl"
       },
@@ -2879,6 +2941,24 @@
       "duration_ms": 257746,
       "name": "Spitting Off the Edge of the World",
       "url": "https://open.spotify.com/track/3kBBjItT7JnKi28k68dGkr"
+    },
+    {
+      "album": {
+        "name": "Stars",
+        "url": "https://open.spotify.com/album/2T1BQNqAnEB9VC2dNrvpRR"
+      },
+      "artists": [
+        {
+          "name": "Andrew McMahon in the Wilderness",
+          "url": "https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270483,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/2lGIQz1KaDIFSoAtsYZWxI"
     },
     {
       "album": {
@@ -3419,7 +3499,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 171842,
       "name": "THREE HEADS*",
       "url": "https://open.spotify.com/track/4apXjryIqMFUdOjWMM6zZp"
@@ -3863,7 +3943,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 202693,
       "name": "Weeds",
       "url": "https://open.spotify.com/track/6p0Nvka9pKB9PYEC8kyc03"

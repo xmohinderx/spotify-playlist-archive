@@ -1,12 +1,12 @@
 {
   "description": "The songs and collaborations pushing the Mexican sound to a global level. Cover: Kany Garc\u00eda & Christian Nodal. ",
-  "num_followers": 17001,
+  "num_followers": 17037,
   "original_name": "Internacional Mexicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMDAzZjc5YTc1ZmZjMTg0ZDY3NDNmN2E3NjE2MDkzMGQ1",
+  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMGE1NDc2OWQ0MTEyYjYwNTdjYmZiY2IzMjFkZDgwNDU5",
   "tracks": [
     {
       "added_at": "2022-09-23 04:00:00",
@@ -803,6 +803,22 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
+        "name": "Apolonio",
+        "url": "https://open.spotify.com/album/7HlxxaJOHK0ArY4Ae4Qfc7"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 187417,
+      "name": "Dos Uno Nueve (219)",
+      "url": "https://open.spotify.com/track/4h4Yy4DUZw0NkivxwBHM32"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
         "name": "Estamos Aqu\u00ed",
         "url": "https://open.spotify.com/album/6IbnsjiPCSJwhALs37S2Mu"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 182698,
       "name": "Estamos Aqu\u00ed",
       "url": "https://open.spotify.com/track/74Ubz79KvXRUZWoJIIZl7f"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "Apolonio",
-        "url": "https://open.spotify.com/album/7HlxxaJOHK0ArY4Ae4Qfc7"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 187417,
-      "name": "Dos Uno Nueve (219)",
-      "url": "https://open.spotify.com/track/4h4Yy4DUZw0NkivxwBHM32"
     },
     {
       "added_at": "2022-09-23 04:00:00",

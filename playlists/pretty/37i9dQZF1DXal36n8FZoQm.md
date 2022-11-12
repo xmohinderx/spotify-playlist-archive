@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXal36n8FZoQm.md) - [plain]
 
 > The official playlist for Cobra Kai\. Watch on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,700 likes - 143 songs - 8 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,733 likes - 143 songs - 8 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXal36n8FZoQm.md) - [plain]
 | 11 | [Eye of the Tiger](https://open.spotify.com/track/2KH16WveTQWT6KOG9Rg6e2) | [Survivor](https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg) | [Rocky IV](https://open.spotify.com/album/3t3BbpFJiGcXl4jI5CRLLA) | 4:05 |
 | 12 | [My Way](https://open.spotify.com/track/3ApYSLmZkBGMY7Ahs7PGWM) | [Paul Anka](https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh) | [Classic Hits](https://open.spotify.com/album/2N8ccUOSYseAHTkBWTmq8e) | 4:38 |
 | 13 | [Boneshaker](https://open.spotify.com/track/1fvmljBBL2lsyewZBKYj93) | [Airbourne](https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb) | [Boneshaker](https://open.spotify.com/album/0qluDo8WVqgdZ4aSm1dm3T) | 3:30 |
-| 14 | [Runnin' Wild](https://open.spotify.com/track/71fSn6OIF7HnCbgCzOBqpj) | [Airbourne](https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb) | [Runnin' Wild \(Special Edition\)](https://open.spotify.com/album/0xsxAYE1bJEvQYYZRdotdO) | 3:42 |
+| 14 | [Runnin' Wild](https://open.spotify.com/track/5XMnIXqKsjB4tWBYSqfUVm) | [Airbourne](https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb) | [Runnin' Wild](https://open.spotify.com/album/0kNkrkBOlSqbcILQvceoZw) | 3:42 |
 | 15 | [Love Is A Deserter](https://open.spotify.com/track/5tT1aeBgz7kbAugGXNQZ7n) | [The Kills](https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr) | [No Wow](https://open.spotify.com/album/1wPUWq21gP0rYhaSBqBaEp) | 3:48 |
 | 16 | [Might Find Love](https://open.spotify.com/track/3ygBWDtkVCCoeTQUstWbsT) | [Hero The Band](https://open.spotify.com/artist/2PZZXkVyUo7SV4wfKwa8FW), [Audio Chateau](https://open.spotify.com/artist/4rtX2hxqvqi1IMDmA8dVDD) | [Might Find Love](https://open.spotify.com/album/7fpx2paVple1TBRoXGtxba) | 3:20 |
 | 17 | [The Moment of Truth \(From the "Cobra Kai" Season 4 Soundtrack\)](https://open.spotify.com/track/6l80jvpzBXXMIqVyX98Fji) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Cobra Kai: Season 4, Vol\. 1 "All Valley Tournament 51" \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/2ORE6f4jS4dLKvk9VA6oDl) | 3:47 |
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXal36n8FZoQm.md) - [plain]
 | 43 | [Dinner For Two](https://open.spotify.com/track/2KkuQEFHO2f3C3Z9fsgUKj) | [Jeff Meegan](https://open.spotify.com/artist/2XS2MrkksPqxbs0jputTr8), [David Tobin](https://open.spotify.com/artist/4URqQyKF1NuIVmYiJtQIHb) | [Cocktail Hour](https://open.spotify.com/album/69Ikde32ScwcMTnlNVKCr4) | 4:32 |
 | 44 | [A Storm of Senseis](https://open.spotify.com/track/1z42EWv0uIgy4P132bkGMV) | [Leo Birenberg & Zach Robinson](https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp) | [Cobra Kai: Season 4, Vol\. 2 \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/0g3Il2Pkxk4M941pOoGTQn) | 2:24 |
 | 45 | [We’re Not Harming Anyone](https://open.spotify.com/track/1YyfiBy4RDLC9FPGHHFt28) | [Teddy Mac](https://open.spotify.com/artist/3Xn49Qihn5s2xmV3F8pO6N), [Midnight Swami](https://open.spotify.com/artist/1jQtOWiZrQWEei6yyCx53B), [Blake Blumenthal](https://open.spotify.com/artist/5vYRJLaZhqOVpaHL8Ow85Z) | [Noise Rock 2](https://open.spotify.com/album/4UdP6rUiljyhEuR9EJooRs) | 3:10 |
-| 46 | [Girls, Girls, Girls](https://open.spotify.com/track/549Go7a66CX6k523uK9kUv) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Girls, Girls, Girls \(Deluxe Version\)](https://open.spotify.com/album/2KT9tWALjIRjnaGYDYPg3k) | 4:30 |
+| 46 | [Girls, Girls, Girls](https://open.spotify.com/track/3xdwo1GK8KaXiT36sTLira) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Greatest Hits](https://open.spotify.com/album/4y0me4JaTG2bjBy8Scz8ek) | 4:30 |
 | 47 | [Yeah We Do It Like](https://open.spotify.com/track/3xkI9xyUrkl5UnQR8UpIus) | [Lee Richardson](https://open.spotify.com/artist/16BxOX67lWcQpiglrMa2HY), [Jonathan Murrill](https://open.spotify.com/artist/1koTy008UTQlXfupIGp0q5), [Tom Ford](https://open.spotify.com/artist/16Hec1v49TSJCAwuXYcPn1), [James Cocozza](https://open.spotify.com/artist/2MqahmsaUt6ZQhBDC4moBR) | [Perc Pop 2](https://open.spotify.com/album/3FIG7MhtpdvkjRlFX8TOU4) | 2:23 |
 | 48 | [Dirty Deeds Done Dirt Cheap](https://open.spotify.com/track/2d4e45fmUnguxh6yqC7gNT) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Dirty Deeds Done Dirt Cheap](https://open.spotify.com/album/76mvVgXOde87B9aOzLXCOI) | 3:51 |
 | 49 | [Divide and Conquer](https://open.spotify.com/track/04ogUiDHLHbxNYQemPB8ju) | [Leo Birenberg & Zach Robinson](https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp) | [Cobra Kai: Season 4, Vol\. 2 \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/0g3Il2Pkxk4M941pOoGTQn) | 0:59 |
@@ -152,4 +152,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXal36n8FZoQm.md) - [plain]
 | 142 | [All of Us](https://open.spotify.com/track/26RRShwHcBtzAmSWKhQfJO) | [Leo Birenberg & Zach Robinson](https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp) | [Cobra Kai: Season 5, Vol 1 \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/4i0ZzMWF8i4GgyhQlVgml1) | 2:11 |
 | 143 | [The Eagle and the Lion](https://open.spotify.com/track/72FDfor2MIk4PfXCsupKp3) | [Leo Birenberg & Zach Robinson](https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp) | [Cobra Kai: Season 5, Vol 1 \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/4i0ZzMWF8i4GgyhQlVgml1) | 1:30 |
 
-Snapshot ID: `MTY2MzYxNDIxNiwwMDAwMDAwMGY2YTczMDJhN2RkODFhOGVjYzViMjhjNjdmZGZlNGVh`
+Snapshot ID: `MTY2MzYxNDIxNiwwMDAwMDAwMDEyNTk3M2M1OTJkMDk0Yzg1NDEyMTEzZWM4ZThjZjhk`

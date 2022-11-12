@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 
 > Praise and worship from East Africa\. Your ultimate Swahili Spiritual nourishment here
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,107 likes - 60 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,120 likes - 60 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 | 33 | [I Have Tasted / Nimeonja](https://open.spotify.com/track/3BlvopHOGCh134vhugmiyv) | [Reuben Kigame](https://open.spotify.com/artist/0bTD7Hz0264DFfTV9e5PQf), [Sifa Voices](https://open.spotify.com/artist/75UlA58ClvAkoGrCouQQAI) | [Tulia](https://open.spotify.com/album/6xsRFuy3hZsnxqppb5e6mT) | 6:50 |
 | 34 | [Wewe Ni Zaidi](https://open.spotify.com/track/6tbeRA24xQkjvqB7nmqcfo) | [Erick Smith](https://open.spotify.com/artist/2DyY70tIr0laRzbYBA7bLg) | [Wewe Ni Zaidi](https://open.spotify.com/album/6twPp6yBQOTyAevVPbUZj1) | 5:20 |
 | 35 | [Ni Wewe](https://open.spotify.com/track/0zr2BK2H3UZSumcgdgsyQf) | [Tumaini Akilimali](https://open.spotify.com/artist/1dcMfUubOyKq3IIvllRhyc) | [Nisizame](https://open.spotify.com/album/086oaldphWYNgGMJUmwaS8) | 6:24 |
-| 36 | [Victory Belongs To Jesus](https://open.spotify.com/track/4bJM66nNeI2TZ1cSRKpLfm) | [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [A Worshipper's Heart](https://open.spotify.com/album/5xaGK6HOJPPpRlcQEDVBfJ) | 5:44 |
+| 36 | [Victory Belongs To Jesus \(Live\)](https://open.spotify.com/track/0Bgd1ABS94lhwYDCEQHpsP) | [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [A Worshipper's Heart \(Live\)](https://open.spotify.com/album/1jjOEtC7Kr6GjyWiyipYCB) | 5:44 |
 | 37 | [Umejua Kunifurahisha](https://open.spotify.com/track/1cHVVMDu1J9pCWGHHoMkIA) | [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI), [Chris Shalom](https://open.spotify.com/artist/6yUXTmXtmFqVonxo7eRqBU) | [Umejua Kunifurahisha](https://open.spotify.com/album/5xpGzNwYqlCRs1ViZqZG7w) | 5:12 |
 | 38 | [Umenitendea](https://open.spotify.com/track/5WhazdGfAcEAsdkFlPDrDv) | [Angaza Singers](https://open.spotify.com/artist/1TP3yP8t1j51qOgC1yFuMM) | [Tangu Mwanzo](https://open.spotify.com/album/70AH9ZkKrDBzoB8lRs6pL9) | 6:17 |
 | 39 | [Utukuzwe](https://open.spotify.com/track/1v2QEyebDcGuDyhfJPpInb) | [Grace Mwai](https://open.spotify.com/artist/3DY2UOhqxJUmaYW3yUgAIQ) | [Kirathimo](https://open.spotify.com/album/4ol5duZtTeX4gpDZZm2SWa) | 4:53 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 | 59 | [Wewe Pekee](https://open.spotify.com/track/28IQhL2pviXFkWXMz4sxn3) | [Alice Kamande](https://open.spotify.com/artist/4jmGHeX5bemV98UWtA3nuJ) | [Wewe Pekee](https://open.spotify.com/album/1eP2tdKCLnJbBPuXiMiL2j) | 4:57 |
 | 60 | [Anatengeneza](https://open.spotify.com/track/52C9ZVQeeeVUb9q9hXe0f7) | [Paul Clement](https://open.spotify.com/artist/7fJIPDHIZxV1gm0LPYX46T) | [Usiyeshindwa](https://open.spotify.com/album/6ylay7Gxa7KZvitFvR5won) | 8:28 |
 
-Snapshot ID: `MTY1NjA5MjQ3MywwMDAwMDAwMDE0Y2JjNmIxMTU4YjFlYzU0YjZiZTFjM2ZmYmMwZjU1`
+Snapshot ID: `MTY1NjA5MjQ3MywwMDAwMDAwMDRiOTMwNTczMzJiNTM0ZjA4NDIzZTVjYTlmMTQ3MTAx`

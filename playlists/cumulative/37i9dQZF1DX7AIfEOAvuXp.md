@@ -4,7 +4,7 @@
 
 > Introducing the Fresh Finds Class of 2020\. Editors' picks of the top Fresh Finds this year.
 
-173 songs - 8 hr 41 min - [published](https://open.spotify.com/playlist/1giw7CrUS9tqrBMopkrkJg)
+176 songs - 8 hr 51 min - [published](https://open.spotify.com/playlist/1giw7CrUS9tqrBMopkrkJg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,8 +97,9 @@
 | [moonlight](https://open.spotify.com/track/70MgcT507FGdoDBBLdmsqu) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [moonlight](https://open.spotify.com/album/6jvIUGhZWFV3FkyLM4c3WN) | 2:39 | 2020-12-07 |  |
 | [Morbid Mind](https://open.spotify.com/track/7g729lW7Fcm3knbVp5VzPG) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [Morbid Mind](https://open.spotify.com/album/3BP6lUwl9Hw1ewnjpDeO2I) | 2:16 | 2020-12-07 | 2022-07-29 |
 | [MORBID MIND](https://open.spotify.com/track/6eKfQnTHKeqyyfaGlwMIcG) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [MIXED EMOTIONS](https://open.spotify.com/album/0boaHbYImj8KkpcFarxgiN) | 2:16 | 2020-12-07 |  |
-| [Morning](https://open.spotify.com/track/1ZOInA89l84oYwjac57Nzs) | [Tennis Club](https://open.spotify.com/artist/6kVv3d4WEjR4gjHzAbOvNo) | [Morning](https://open.spotify.com/album/3i7N47m8fan34AmuBzzSbf) | 4:01 | 2020-12-07 |  |
+| [Morning](https://open.spotify.com/track/1ZOInA89l84oYwjac57Nzs) | [Tennis Club](https://open.spotify.com/artist/6kVv3d4WEjR4gjHzAbOvNo) | [Morning](https://open.spotify.com/album/3i7N47m8fan34AmuBzzSbf) | 4:01 | 2020-12-07 | 2022-11-12 |
 | [Morning](https://open.spotify.com/track/1xPYXQ677AtLALqqQM8jVR) | [Tennis Club](https://open.spotify.com/artist/6kVv3d4WEjR4gjHzAbOvNo) | [Morning](https://open.spotify.com/album/73eZyoV82Ht3Z884QL1q6J) | 4:01 | 2020-12-07 | 2022-10-14 |
+| [Morning](https://open.spotify.com/track/6wo5U6dmmM4fpNsBP8628k) | [Tennis Club](https://open.spotify.com/artist/6kVv3d4WEjR4gjHzAbOvNo) | [Bryce Drive](https://open.spotify.com/album/6sg52CYJUwjpfmB7KQTRzx) | 4:01 | 2020-12-07 |  |
 | [My Mind Is a Maze](https://open.spotify.com/track/2P4qoMmSqElFcI7GYaPLwf) | [Alann8h](https://open.spotify.com/artist/1PG2FugIT1iF2CWnzjw0We) | [Dumb Daze](https://open.spotify.com/album/1XhSLcdqiYIsjMjc0zPsUa) | 2:26 | 2020-12-07 |  |
 | [Naked](https://open.spotify.com/track/5Vth7eImumlAyhsW8PqqAM) | [Bickle](https://open.spotify.com/artist/1xFMeZFEf4ZUfuKwrfs5lB) | [Naked](https://open.spotify.com/album/6hTRp6fXyHzkMfSEdjvwlT) | 3:30 | 2020-12-07 |  |
 | [NARCOTICS](https://open.spotify.com/track/3NsY2xR20MN1VvefwD4yvg) | [CHLOBOCOP](https://open.spotify.com/artist/56SXq1dAUN2vu4iWfXVnsL) | [NARCOTICS](https://open.spotify.com/album/1FEMGb4AMOkv2ct5H3QZge) | 2:21 | 2020-12-07 |  |
@@ -153,8 +154,9 @@
 | [Summer](https://open.spotify.com/track/3YmTTULju4GaSlnkizJPrq) | [Simpson](https://open.spotify.com/artist/0uaV2JpwdbHof3chjM8sow) | [Summer](https://open.spotify.com/album/1YHlj5gp5YYLcBscSxBNHA) | 4:02 | 2020-12-07 | 2022-07-29 |
 | [Summer](https://open.spotify.com/track/51xpZKrnRMlcmwWCv7jcfd) | [Simpson](https://open.spotify.com/artist/0uaV2JpwdbHof3chjM8sow) | [Summer](https://open.spotify.com/album/2LbNDL18GTe9x3YDJNzHY9) | 4:02 | 2020-12-07 | 2022-10-13 |
 | [Sweatshirt](https://open.spotify.com/track/0AzHjWUE45TMaglWwz2qKK) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Sweatshirt](https://open.spotify.com/album/03YqH9kNxfPRPcvzaXnkG8) | 3:27 | 2020-12-07 | 2022-09-22 |
+| [Sweatshirt](https://open.spotify.com/track/1laJUKhvEunwkiYuND2bfP) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Special](https://open.spotify.com/album/5B6f4Orq3JNb3Ri0AMO7C8) | 3:27 | 2020-12-07 |  |
 | [Sweatshirt](https://open.spotify.com/track/2Lp3YWgTMuA94YhwCg3nY6) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Sweatshirt](https://open.spotify.com/album/4143L9i3dl8e3zJFhTAjLv) | 3:27 | 2020-12-07 | 2022-07-29 |
-| [Sweatshirt](https://open.spotify.com/track/44SMpuP6NAhV6l5OIwE090) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Sweatshirt](https://open.spotify.com/album/2BxTahQtqyiQ89mnX9rtmH) | 3:27 | 2020-12-07 |  |
+| [Sweatshirt](https://open.spotify.com/track/44SMpuP6NAhV6l5OIwE090) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Sweatshirt](https://open.spotify.com/album/2BxTahQtqyiQ89mnX9rtmH) | 3:27 | 2020-12-07 | 2022-11-12 |
 | [talking in my sleep](https://open.spotify.com/track/16UfdNMAfLPkBqq1JgMdAl) | [Heather Sommer](https://open.spotify.com/artist/0EHYuPn9Xng2lZP2cfz4cV) | [talking in my sleep](https://open.spotify.com/album/1MMru7B3vILRGqQyQNw4Ug) | 2:34 | 2020-12-07 |  |
 | [The 1](https://open.spotify.com/track/311lnc9FJHqg5XWV6VE4XI) | [María Isabel](https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5) | [Stuck in the Sky](https://open.spotify.com/album/30vPoPfOku0lYgfTE903vA) | 2:56 | 2020-12-07 |  |
 | [The 1](https://open.spotify.com/track/4RZyqmqauYuQlvB4NfElJc) | [María Isabel](https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5) | [Stuck in the Sky](https://open.spotify.com/album/6lRsrrPqbQaPMSR9KSzega) | 2:56 | 2020-12-07 | 2022-11-11 |
@@ -171,7 +173,8 @@
 | [Waiting For \(feat\. Jamila Woods\)](https://open.spotify.com/track/02nZeTbm2dRHisH6qsUM5E) | [rum.gold](https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [aiMless](https://open.spotify.com/album/4l165PoCFHBzfg88mpC68n) | 3:20 | 2020-12-07 |  |
 | [Weekend](https://open.spotify.com/track/0qPeakaeFndczx9OhJIFp6) | [Clubhouse](https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX) | [Weekend](https://open.spotify.com/album/5vREvSe0O7QJeXhT3OaTLS) | 3:08 | 2020-12-07 | 2022-07-29 |
 | [Weekend](https://open.spotify.com/track/4Zc6fjadh1ONHDtec9poAD) | [Clubhouse](https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX) | [Are We Going Too Slow?](https://open.spotify.com/album/4WrVZgQ5FMGG8596elftve) | 3:08 | 2020-12-07 | 2022-10-13 |
-| [Weekend](https://open.spotify.com/track/7zFtgo8QMmJQj6dWKrtQwM) | [Clubhouse](https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX) | [Are We Going Too Slow?](https://open.spotify.com/album/5xIG1uX52BQikNOdXtL10N) | 3:08 | 2020-12-07 |  |
+| [Weekend](https://open.spotify.com/track/7jXO2KuhobrDcEL4ifhhD1) | [Clubhouse](https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX) | [Weekend](https://open.spotify.com/album/092FyXsaCbzzHP4fXzBbOA) | 3:08 | 2020-12-07 |  |
+| [Weekend](https://open.spotify.com/track/7zFtgo8QMmJQj6dWKrtQwM) | [Clubhouse](https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX) | [Are We Going Too Slow?](https://open.spotify.com/album/5xIG1uX52BQikNOdXtL10N) | 3:08 | 2020-12-07 | 2022-11-12 |
 | [WEEKEND](https://open.spotify.com/track/00ZLGdaJWUaLNpzD9ChGZ9) | [Emily Vu](https://open.spotify.com/artist/3t3oOB1GYe4PFV2X6D29NS) | [WEEKEND](https://open.spotify.com/album/5xyla5BjDKD0aQEZuHoNo1) | 2:46 | 2020-12-07 | 2022-07-29 |
 | [Weekend](https://open.spotify.com/track/0XoRbQwHULyjf0tO1S9abf) | [Emily Vu](https://open.spotify.com/artist/3t3oOB1GYe4PFV2X6D29NS) | [Weekend](https://open.spotify.com/album/3EcOE2h7DHr5m6IaALejAs) | 2:46 | 2020-12-07 |  |
 | [What Dreams Are Made Of](https://open.spotify.com/track/4kU3W9CBmw5s7f5R5A8Axt) | [Evann McIntosh](https://open.spotify.com/artist/2YSzmcSn7vQaFiB2B5LpCB) | [MOJO](https://open.spotify.com/album/1xtL6ok6dwZ473pkdzgUy2) | 4:25 | 2020-12-07 |  |

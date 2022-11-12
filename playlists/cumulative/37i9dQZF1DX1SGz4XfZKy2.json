@@ -296,6 +296,24 @@
     },
     {
       "album": {
+        "name": "Dance Layan Dance",
+        "url": "https://open.spotify.com/album/0Ry9xPX8V0oG3IXcJgmayP"
+      },
+      "artists": [
+        {
+          "name": "Dhafer Youssef",
+          "url": "https://open.spotify.com/artist/5UefiThiZ352HWMOgZvOhx"
+        }
+      ],
+      "date_added": "2021-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276679,
+      "name": "Dance Layan Dance",
+      "url": "https://open.spotify.com/track/0XunFJIsl3MVDjikiekSJo"
+    },
+    {
+      "album": {
         "name": "Sounds Of Mirrors",
         "url": "https://open.spotify.com/album/4RgbDDGwmTiA8ypNDSoEc6"
       },
@@ -325,7 +343,7 @@
       ],
       "date_added": "2021-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 276679,
       "name": "Dance Layan Dance",
       "url": "https://open.spotify.com/track/2YMpjElPsH8VfYhTLtCauC"

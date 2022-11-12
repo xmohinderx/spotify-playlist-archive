@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 
 ### [Esquenta Sertanejo](https://open.spotify.com/playlist/37i9dQZF1DXdSjVZQzv2tl)
 
-> O melhor do sertanejo em uma só playlist! Foto: Gustavo Mioto, Mari Fernandez
+> O melhor do sertanejo em uma só playlist! Foto: Matheus & Kauan, Jorge & Mateus
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,704,519 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,707,931 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Eu Gosto Assim \- Ao Vivo](https://open.spotify.com/track/4ASA1PZyWGbuc4d9N8OAcF) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP), [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Eu Gosto Assim \(Ao Vivo\)](https://open.spotify.com/album/704T1TAZMGGokh8HyNaMbO) | 2:28 |
-| 2 | [Assunto Delicado \- Ao Vivo](https://open.spotify.com/track/3yHXEidSu4gYVRqKoI653O) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu), [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616) | [Assunto Delicado \(Ao Vivo\)](https://open.spotify.com/album/7fMbYVUDAIWPuKcyehDYlT) | 3:00 |
-| 3 | [Pactos \- Ao Vivo](https://open.spotify.com/track/2M4kQD87lKnAS9vFlb4Bez) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr), [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Pactos \(Ao Vivo\)](https://open.spotify.com/album/0I7xW9b6gDavthLOX9aphS) | 3:03 |
+| 1 | [Pactos \- Ao Vivo](https://open.spotify.com/track/2M4kQD87lKnAS9vFlb4Bez) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr), [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Pactos \(Ao Vivo\)](https://open.spotify.com/album/0I7xW9b6gDavthLOX9aphS) | 3:03 |
+| 2 | [Eu Gosto Assim \- Ao Vivo](https://open.spotify.com/track/4ASA1PZyWGbuc4d9N8OAcF) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP), [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Eu Gosto Assim \(Ao Vivo\)](https://open.spotify.com/album/704T1TAZMGGokh8HyNaMbO) | 2:28 |
+| 3 | [Assunto Delicado \- Ao Vivo](https://open.spotify.com/track/3yHXEidSu4gYVRqKoI653O) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu), [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616) | [Assunto Delicado \(Ao Vivo\)](https://open.spotify.com/album/7fMbYVUDAIWPuKcyehDYlT) | 3:00 |
 | 4 | [Beijo de Glicose \- Ao Vivo](https://open.spotify.com/track/6gyhp7IcNhTYzwlk8utsgP) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF), [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Beijo de Glicose \(Ao Vivo\)](https://open.spotify.com/album/6Y3F7RFN8cOh7ewKiyn2rC) | 2:51 |
 | 5 | [5 Regras \- Ao Vivo](https://open.spotify.com/track/3gCWngngUs1uojw33vrE8K) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [É Simples Assim \(Ao Vivo\)](https://open.spotify.com/album/3KOePCX9vdj3OrAC2ruEFk) | 2:41 |
 | 6 | [Bombonzinho \- Ao Vivo](https://open.spotify.com/track/4o6v3Oooyt7HF20idztRD4) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Bombonzinho \(Ao Vivo\)](https://open.spotify.com/album/2VXbLDxcWq4K4gsAEtLbBs) | 2:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 | 49 | [Troca de Calçada](https://open.spotify.com/track/4AAIAVjSyiq1N7SXKkwXZe) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Troca de Calçada](https://open.spotify.com/album/4CwfuAMrV2zwnoOzJtuI1k) | 3:23 |
 | 50 | [Rasteira \- Ao Vivo](https://open.spotify.com/track/685gjMmRjwLFrtCWtF2sXo) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Manifesto Musical \(Ao Vivo / Vol\. 1\)](https://open.spotify.com/album/34C5pWtJWvLUfKoIZTNrug) | 3:09 |
 
-Snapshot ID: `MTY2ODA5NjI4MywwMDAwMDAwMGNkNjc2MWU5M2ZjMTMyYjMxYTA4ZDE4MDBmMGQ2YzM4`
+Snapshot ID: `MTY2ODEzNTc4MCwwMDAwMDAwMGU4ODViNzY1MzdhODc2N2MwMzY1YWQ5NzVjMGYxYjg4`

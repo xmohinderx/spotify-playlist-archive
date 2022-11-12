@@ -4,7 +4,7 @@
 
 > Le plus beau, le plus triste\. Photo: Alexandra Streliski
 
-159 songs - 10 hr 16 min - [published](https://open.spotify.com/playlist/1uamJwZjgxkyJHjt785hKa)
+160 songs - 10 hr 19 min - [published](https://open.spotify.com/playlist/1uamJwZjgxkyJHjt785hKa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,7 +161,8 @@
 | [Une lettre](https://open.spotify.com/track/2KX9orMuqVBhFiG3WdqpIH) | [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP) | [La science du cœur](https://open.spotify.com/album/0eT3LEaBjGYxLrodHdw5SR) | 3:21 | 2021-02-06 |  |
 | [Vers le sud](https://open.spotify.com/track/6xLShjU3d1mZEc0mm9nL4q) | [Salomé Leclerc](https://open.spotify.com/artist/5gBtHbwwn0bBfrXvs6SY5I) | [27 fois l'aurore](https://open.spotify.com/album/1LsEG2EDzMtdnLNkaazRUd) | 3:11 | 2021-02-06 | 2022-07-29 |
 | [Vers le sud](https://open.spotify.com/track/7k5JH3TPQppL1zZt40kIbz) | [Salomé Leclerc](https://open.spotify.com/artist/5gBtHbwwn0bBfrXvs6SY5I) | [27 fois l'aurore](https://open.spotify.com/album/50NmsF9dRHdp2vXaVwTvfT) | 3:11 | 2021-02-06 |  |
-| [Voltige](https://open.spotify.com/track/3k4RLVYe0AGrVfuwYJyCMy) | [Martin Lizotte](https://open.spotify.com/artist/4BHr9YxHWGZd8OVIcCVnd5) | [Ubiquité](https://open.spotify.com/album/5SC0ot9Pkx2U33PD0VCBT8) | 3:20 | 2021-02-06 |  |
+| [Voltige](https://open.spotify.com/track/0IYYGzRxUABQGBZGu8ypMB) | [Martin Lizotte](https://open.spotify.com/artist/4BHr9YxHWGZd8OVIcCVnd5) | [Voltige](https://open.spotify.com/album/3B4Iepzw9565ytdQVaalZ0) | 3:20 | 2021-02-06 |  |
+| [Voltige](https://open.spotify.com/track/3k4RLVYe0AGrVfuwYJyCMy) | [Martin Lizotte](https://open.spotify.com/artist/4BHr9YxHWGZd8OVIcCVnd5) | [Ubiquité](https://open.spotify.com/album/5SC0ot9Pkx2U33PD0VCBT8) | 3:20 | 2021-02-06 | 2022-11-12 |
 | [Voltige](https://open.spotify.com/track/59CsL0dvACi3jEN4G8zAdk) | [Martin Lizotte](https://open.spotify.com/artist/4BHr9YxHWGZd8OVIcCVnd5) | [Voltige](https://open.spotify.com/album/5eeo0yCPI1IkTQslCTxouy) | 3:20 | 2021-02-06 | 2022-07-29 |
 | [Where's My Love \(feat\. Lily Kershaw\) \- French Version](https://open.spotify.com/track/1bhnF7ddAquPs1S1lwk3ef) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0), [Lily Kershaw](https://open.spotify.com/artist/0p0ksmwMDQlAM24TWKu4Ua) | [Where's My Love](https://open.spotify.com/album/79eTuxHrv8BNv6yPosXC9J) | 4:07 | 2021-02-06 | 2022-07-29 |
 | [Where's My Love \- French Version](https://open.spotify.com/track/11xs8VwgHHIQqz3dbyEcLS) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0), [Lily Kershaw](https://open.spotify.com/artist/0p0ksmwMDQlAM24TWKu4Ua) | [Where's My Love](https://open.spotify.com/album/6U6yE35iYGweoUiFFjuBdC) | 4:07 | 2021-02-06 |  |

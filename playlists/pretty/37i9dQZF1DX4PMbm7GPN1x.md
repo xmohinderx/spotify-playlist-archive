@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PMbm7GPN1x.md) - [plain]
 
 > Relive the 80s disco era with these hits\. Cover\- Bappi Lahiri
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,659 likes - 50 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,694 likes - 50 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,11 +12,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PMbm7GPN1x.md) - [plain]
 | 2 | [Yaar Bina Chain Kanha Ray](https://open.spotify.com/track/5k38rm1bPeiKG6D12s4XoN) | [Bappi Lahiri](https://open.spotify.com/artist/2jqTyPt0UZGrthPF4KMpeN), [S\. Janaki](https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu) | [Saaheb \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5CknHm912teQ2WUbCqNqqy) | 4:33 |
 | 3 | [Aap Jaisa Koi \- Qurbani / Soundtrack Version](https://open.spotify.com/track/0Zq2n84Eplok8MnRE8P5hE) | [Nazia Hassan](https://open.spotify.com/artist/5hW7KULTxMzCDnqaV7LASR), [Feroz Khan](https://open.spotify.com/artist/0J3qMXOTkJBJ2dxIXjyTns) | [Qurbani](https://open.spotify.com/album/5XUhA9v9BBihWJBwTq2ZKs) | 4:09 |
 | 4 | [Auva Auva Koi Yahan Nache](https://open.spotify.com/track/4foMq4FFkVaoVu9oPJMc0z) | [Usha Uthup](https://open.spotify.com/artist/63gvl4egwBtz2czz3aENGa), [Bappi Lahiri](https://open.spotify.com/artist/2jqTyPt0UZGrthPF4KMpeN) | [Disco Dancer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7HWHznN9Yi0HBMYWxifg3S) | 5:31 |
-| 5 | [Laila O Laila \- Qurbani / Soundtrack Version](https://open.spotify.com/track/05oQXL5mtuktNigwBOGs6y) | [Kanchan](https://open.spotify.com/artist/20LxVmOnMzPm716JTA7XKi), [Amit Kumar](https://open.spotify.com/artist/5l1aGNGCRGomCMHVufh6xC) | [Qurbani](https://open.spotify.com/album/5XUhA9v9BBihWJBwTq2ZKs) | 4:31 |
+| 5 | [Laila O Laila \- Qurbani / Soundtrack Version](https://open.spotify.com/track/2FgLWCrsi0pcLB4RkxnGCy) | [Kanchan](https://open.spotify.com/artist/20LxVmOnMzPm716JTA7XKi), [Amit Kumar](https://open.spotify.com/artist/5l1aGNGCRGomCMHVufh6xC) | [The Best of Bollywood](https://open.spotify.com/album/5rcu0wi22UCQpc99UEdpeM) | 4:28 |
 | 6 | [Jawani Janeman](https://open.spotify.com/track/32S5nqTsMlizQPTG6MwSqN) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U) | [Namak Halaal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1JuMfPhV42wJD0dcjn9ZX3) | 5:35 |
 | 7 | [Boom Boom \(From "Star"\)](https://open.spotify.com/track/1bDJ4xZASMyFXSalow9c33) | [Nazia Hassan](https://open.spotify.com/artist/5hW7KULTxMzCDnqaV7LASR) | [Live The Moment](https://open.spotify.com/album/3h1WauTcZMADpYuoB7H0b0) | 5:18 |
 | 8 | [Dance Dance](https://open.spotify.com/track/7mudoo9FXpSXeK4cxR32fJ) | [Salma Agha](https://open.spotify.com/artist/7liaWSL1uPVjIrnYSFDB6V) | [Kasam Paida Karnewale Ki \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5ZoSahDz4EiFY4F79oyelY) | 5:39 |
-| 9 | [Title Music \(Qurbani\) \- Qurbani / Soundtrack Version](https://open.spotify.com/track/5ToLmYAuL24JMEUSqyKttT) | [Kalyanji\-Anandji](https://open.spotify.com/artist/7pWXlTjky0KXWgbdZi9ebq) | [Qurbani](https://open.spotify.com/album/5XUhA9v9BBihWJBwTq2ZKs) | 2:40 |
+| 9 | [Qurbani Title Music \- From "Qurbani"](https://open.spotify.com/track/46mQ0riuehHT7fzaykSs7V) | [Kalyanji\-Anandji](https://open.spotify.com/artist/7pWXlTjky0KXWgbdZi9ebq) | [Bollywood Movie Themes](https://open.spotify.com/album/0Xaa3uHKZACht0jPmQfS4v) | 2:40 |
 | 10 | [Ramba Hohoho Samba Hohoho](https://open.spotify.com/track/7fPBSUi6aSjYOlhggXfyrF) | [Usha Uthup](https://open.spotify.com/artist/63gvl4egwBtz2czz3aENGa) | [Armaan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1bAPmAnR6st4K2Jx2HIOhT) | 6:00 |
 | 11 | [Paisa O Paisa](https://open.spotify.com/track/3kud1zrPYsQ3fhOGCxJZoq) | [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y) | [Karz \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0jz17xUt6l9nYcmY2Anj2J) | 5:07 |
 | 12 | [Dance Dance \- Duet](https://open.spotify.com/track/56bc1nyaqAvnEa6dT4UqHu) | [Salma Agha](https://open.spotify.com/artist/7liaWSL1uPVjIrnYSFDB6V), [Bappi Lahiri](https://open.spotify.com/artist/2jqTyPt0UZGrthPF4KMpeN) | [Kasam Paida Karnewale Ki \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5ZoSahDz4EiFY4F79oyelY) | 3:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PMbm7GPN1x.md) - [plain]
 | 49 | [Y.O.G.A\. / Dialogue : Aurat Ke Khoobsurati \(Haadsaa\) \- Haadsaa / Soundtrack Version](https://open.spotify.com/track/6lcmNYpKOZTPOHoXh13V3Y) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Haadsaa](https://open.spotify.com/album/5nJU3UwPAn7lxPqI7TUI7B) | 6:04 |
 | 50 | [Tunak Tunak](https://open.spotify.com/track/31WTP7wNINdClak1Mj7JUD) | [Saira Nasim](https://open.spotify.com/artist/4l632n8KALACmPGRC0lqXi) | [Daku Rani](https://open.spotify.com/album/3V7kk7dsX8EUEu82UZ2UCQ) | 6:46 |
 
-Snapshot ID: `MTY1NDY4MjQ3OCwwMDAwMDAwMGE2OWQ1ZWNlN2IyNmYwYmI1ODlmNTdiMjdjMTllYzdj`
+Snapshot ID: `MTY1NDY4MjQ3OCwwMDAwMDAwMGZiZDY0MDQwZjk2NmEwMTE3NTZmY2I1ZDJjZWMwMDZh`

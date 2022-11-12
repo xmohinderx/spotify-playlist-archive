@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa87Zq4SJwzv.md) - [plain]
 
 > Celebra el amor igualitario con una fina selección hecha por Sobrino.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,649 likes - 43 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,652 likes - 43 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,15 +41,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa87Zq4SJwzv.md) - [plain]
 | 31 | [Baila](https://open.spotify.com/track/0kIPoNlimbRPn16NfQ7ggt) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Caótica Belleza](https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS) | 3:42 |
 | 32 | [Advice](https://open.spotify.com/track/2CsSaYUPI57QaeB90gwzGT) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [SweetSexySavage \(Deluxe\)](https://open.spotify.com/album/4B4in9QlrlYWSHlYSRebdC) | 3:22 |
 | 33 | [Milionària](https://open.spotify.com/track/2K3bjojp1sCLdMMoO5lJ2p) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Fucking Money Man](https://open.spotify.com/album/7qJZgNj9IMy9onoTe5uhZc) | 2:18 |
-| 34 | [Cold War](https://open.spotify.com/track/5al9is1AQnaI3lTi20DUG6) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [The ArchAndroid](https://open.spotify.com/album/7MvSB0JTdtl1pSwZcgvYQX) | 3:23 |
+| 34 | [Cold Heart \- PNAU Remix](https://open.spotify.com/track/66nNMbwyH4N3vqEZ7E4Z8n) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Makeup Music](https://open.spotify.com/album/0gXqxyq1ExjL17Co6rbdaS) | 3:22 |
 | 35 | [Heavy Metal and Reflective](https://open.spotify.com/track/71PgrkvpCrNxpM1nvapbqG) | [Azealia Banks](https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I) | [Broke with Expensive Taste](https://open.spotify.com/album/6ptPMZzScoFqSVfzph6m9B) | 2:36 |
 | 36 | [Born This Way](https://open.spotify.com/track/6aDi4gOE2Cfc6ecynvP81R) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Born This Way](https://open.spotify.com/album/2KkMVsxymoNR7hRmBcMttd) | 4:20 |
-| 37 | [Huellas](https://open.spotify.com/track/6zAnj2RqKMo16ioTmwpM0s) | [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [Huellas](https://open.spotify.com/album/3XuSgPkpzVPVaYD0n0a8Pd) | 2:58 |
+| 37 | [Cold War](https://open.spotify.com/track/5al9is1AQnaI3lTi20DUG6) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [The ArchAndroid](https://open.spotify.com/album/7MvSB0JTdtl1pSwZcgvYQX) | 3:23 |
 | 38 | [Nonbinary](https://open.spotify.com/track/4lUlYGT5VvZWN3GBDIc9KT) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [KiCk i](https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr) | 2:19 |
 | 39 | [CUUUUuuuuuute](https://open.spotify.com/track/3BQPPsoxlhuSIEPlNRHHZt) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:30 |
 | 40 | [Burkina Faso](https://open.spotify.com/track/0oYlFcq0DgLXMzzBSZuPfR) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Amor Libre](https://open.spotify.com/album/3ZNcUIksSrVfc5Ow7f4J6F) | 3:55 |
-| 41 | [Half Of Me](https://open.spotify.com/track/3JmvdozLe9TNpLGeCCghD2) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Unapologetic \(Deluxe Version\)](https://open.spotify.com/album/7yjQZX94GxVyqDTehxBejk) | 3:12 |
-| 42 | [Cold Heart \- PNAU Remix](https://open.spotify.com/track/66nNMbwyH4N3vqEZ7E4Z8n) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Makeup Music](https://open.spotify.com/album/0gXqxyq1ExjL17Co6rbdaS) | 3:22 |
+| 41 | [Huellas](https://open.spotify.com/track/6zAnj2RqKMo16ioTmwpM0s) | [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [Huellas](https://open.spotify.com/album/3XuSgPkpzVPVaYD0n0a8Pd) | 2:58 |
+| 42 | [Half Of Me](https://open.spotify.com/track/3JmvdozLe9TNpLGeCCghD2) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Unapologetic \(Deluxe Version\)](https://open.spotify.com/album/7yjQZX94GxVyqDTehxBejk) | 3:12 |
 | 43 | [Born Yesterday](https://open.spotify.com/track/0M6kxde1FdGI95X0XPuru6) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Born Yesterday](https://open.spotify.com/album/7mjYTOjmcH4UHnCdct2xZi) | 3:18 |
 
-Snapshot ID: `MTY1NjU0NjIxNywwMDAwMDAwMDM0ODJkNjgyNzQ0NDRmY2JkOWI1NTkxMzhmODE0OTM4`
+Snapshot ID: `MTY1NjU0NjIxNywwMDAwMDAwMDRjOGRhMGY5ZTMwODQwOTJjOGE4YThlNTc0NWY5YmQ5`

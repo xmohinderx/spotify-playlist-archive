@@ -1,12 +1,12 @@
 {
   "description": "Traditional country sounds from artists of yesterday and today.",
-  "num_followers": 598707,
+  "num_followers": 599125,
   "original_name": "Traditional Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExNTIwMCwwMDAwMDAwMDY5OGZhOTM2YmJhODI4OWVmNTc2N2RjY2E5NjY1ODc5",
+  "snapshot_id": "MTY2NTExNTIwMCwwMDAwMDAwMGY4ZWFiMWYyY2ViNzRhZGE0MTZkMTJkNDFkZmU3ZDJm",
   "tracks": [
     {
       "added_at": "2022-10-07 04:00:00",
@@ -339,22 +339,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Out With A Bang",
-        "url": "https://open.spotify.com/album/1hB7vz3JKWZ2sKEPeVolH9"
-      },
-      "artists": [
-        {
-          "name": "David Lee Murphy",
-          "url": "https://open.spotify.com/artist/78OAtwN3XpjMcjibnF2Kw5"
-        }
-      ],
-      "duration_ms": 224666,
-      "name": "Dust On The Bottle",
-      "url": "https://open.spotify.com/track/0Xg68XXMRWzKQvD5S6BFvI"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "Doin' Somethin' Right",
         "url": "https://open.spotify.com/album/01XmoBPJ8VwC6IyOEvGhy5"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 215853,
       "name": "Good Directions",
       "url": "https://open.spotify.com/track/7GQjJEwqlp6m5HNWVQd6OR"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Out With A Bang",
+        "url": "https://open.spotify.com/album/1hB7vz3JKWZ2sKEPeVolH9"
+      },
+      "artists": [
+        {
+          "name": "David Lee Murphy",
+          "url": "https://open.spotify.com/artist/78OAtwN3XpjMcjibnF2Kw5"
+        }
+      ],
+      "duration_ms": 224666,
+      "name": "Dust On The Bottle",
+      "url": "https://open.spotify.com/track/0Xg68XXMRWzKQvD5S6BFvI"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Outlaws Like Me",
-        "url": "https://open.spotify.com/album/43WYprY30K1r0pbDmf3amq"
-      },
-      "artists": [
-        {
-          "name": "Justin Moore",
-          "url": "https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk"
-        }
-      ],
-      "duration_ms": 223280,
-      "name": "If Heaven Wasn't So Far Away",
-      "url": "https://open.spotify.com/track/0aW7CSfoMBKBzLE7VerHyn"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "16 Biggest Hits",
         "url": "https://open.spotify.com/album/07KOJyGSNCoYVoWZafFt5W"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 259893,
       "name": "Gone Country",
       "url": "https://open.spotify.com/track/1A0I5aiVZRwecRlbQcweBh"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Outlaws Like Me",
+        "url": "https://open.spotify.com/album/43WYprY30K1r0pbDmf3amq"
+      },
+      "artists": [
+        {
+          "name": "Justin Moore",
+          "url": "https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk"
+        }
+      ],
+      "duration_ms": 223280,
+      "name": "If Heaven Wasn't So Far Away",
+      "url": "https://open.spotify.com/track/0aW7CSfoMBKBzLE7VerHyn"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
+        "name": "Too Cold At Home",
+        "url": "https://open.spotify.com/album/4AayO56uNmJLHcHtF0aTpA"
+      },
+      "artists": [
+        {
+          "name": "Mark Chesnutt",
+          "url": "https://open.spotify.com/artist/2cNV8vNe2fPFf6OfGOBbSS"
+        }
+      ],
+      "duration_ms": 184840,
+      "name": "Brother Jukebox",
+      "url": "https://open.spotify.com/track/1Ov6koHfZL43pGCDdfIoHf"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
         "name": "Small Town Hypocrite",
         "url": "https://open.spotify.com/album/19Rq07L8SBNeIWRQqFLkiT"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 241899,
       "name": "Small Town Hypocrite",
       "url": "https://open.spotify.com/track/7Bpivl6q9y2FgSp1nr5MZ8"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "Too Cold At Home",
-        "url": "https://open.spotify.com/album/4AayO56uNmJLHcHtF0aTpA"
-      },
-      "artists": [
-        {
-          "name": "Mark Chesnutt",
-          "url": "https://open.spotify.com/artist/2cNV8vNe2fPFf6OfGOBbSS"
-        }
-      ],
-      "duration_ms": 184840,
-      "name": "Brother Jukebox",
-      "url": "https://open.spotify.com/track/1Ov6koHfZL43pGCDdfIoHf"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1383,8 +1383,8 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "The Last Resort: Greetings From",
-        "url": "https://open.spotify.com/album/6qURbeUcbhHdGXDAUzZcag"
+        "name": "On The Rocks",
+        "url": "https://open.spotify.com/album/5p5lKDY6Ag62f8HWfIFzQ0"
       },
       "artists": [
         {
@@ -1392,9 +1392,9 @@
           "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
         }
       ],
-      "duration_ms": 207773,
-      "name": "Sunrise Tells The Story",
-      "url": "https://open.spotify.com/track/1fCl1BY97PPNnac9oewVBJ"
+      "duration_ms": 261826,
+      "name": "Out Of Sight",
+      "url": "https://open.spotify.com/track/5zRHjnfnJyahARo5ugxHgV"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Greatest Hits: From the Beginning",
-        "url": "https://open.spotify.com/album/5pDzCS2g2oZueNkPr1S1Ey"
-      },
-      "artists": [
-        {
-          "name": "Travis Tritt",
-          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
-        }
-      ],
-      "duration_ms": 152640,
-      "name": "Here's a Quarter (Call Someone Who Cares)",
-      "url": "https://open.spotify.com/track/0RdMBceHhBJLqNjObk1NPP"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "Son Of A",
         "url": "https://open.spotify.com/album/5krj7eQSqb08k9RVxujeJ3"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 190660,
       "name": "Hot Beer",
       "url": "https://open.spotify.com/track/5CawRA9RzdlvF8ladonjsl"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Greatest Hits: From the Beginning",
+        "url": "https://open.spotify.com/album/5pDzCS2g2oZueNkPr1S1Ey"
+      },
+      "artists": [
+        {
+          "name": "Travis Tritt",
+          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
+        }
+      ],
+      "duration_ms": 152640,
+      "name": "Here's a Quarter (Call Someone Who Cares)",
+      "url": "https://open.spotify.com/track/0RdMBceHhBJLqNjObk1NPP"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "On The Rocks",
-        "url": "https://open.spotify.com/album/5p5lKDY6Ag62f8HWfIFzQ0"
-      },
-      "artists": [
-        {
-          "name": "Midland",
-          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
-        }
-      ],
-      "duration_ms": 261826,
-      "name": "Out Of Sight",
-      "url": "https://open.spotify.com/track/5zRHjnfnJyahARo5ugxHgV"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "The Highwomen",
         "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
       },
@@ -1607,6 +1591,22 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
+        "name": "Hell on an Angel",
+        "url": "https://open.spotify.com/album/1V6RHh2eMlzWTgcEPgOAbu"
+      },
+      "artists": [
+        {
+          "name": "Dillon Carmichael",
+          "url": "https://open.spotify.com/artist/3lvYE3o75PNjyvcKuBPXo6"
+        }
+      ],
+      "duration_ms": 227198,
+      "name": "Dancing Away with My Heart",
+      "url": "https://open.spotify.com/track/3ss88YLxa2pYOtyKgyKIjM"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
         "name": "Lee Ann Womack",
         "url": "https://open.spotify.com/album/6GfwKwr0IXUY95d5UaRgC3"
       },
@@ -1623,18 +1623,18 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Hell on an Angel",
-        "url": "https://open.spotify.com/album/1V6RHh2eMlzWTgcEPgOAbu"
+        "name": "Sounds So Good",
+        "url": "https://open.spotify.com/album/6z5A4jV5MDikX4blitvPiO"
       },
       "artists": [
         {
-          "name": "Dillon Carmichael",
-          "url": "https://open.spotify.com/artist/3lvYE3o75PNjyvcKuBPXo6"
+          "name": "Ashton Shepherd",
+          "url": "https://open.spotify.com/artist/43eAoOm70bzBUNs4JKP5nE"
         }
       ],
-      "duration_ms": 227198,
-      "name": "Dancing Away with My Heart",
-      "url": "https://open.spotify.com/track/3ss88YLxa2pYOtyKgyKIjM"
+      "duration_ms": 207066,
+      "name": "Sounds So Good",
+      "url": "https://open.spotify.com/track/6ONHzocQurXRl6HkQ4th2y"
     }
   ],
   "unique_name": "Traditional Country",

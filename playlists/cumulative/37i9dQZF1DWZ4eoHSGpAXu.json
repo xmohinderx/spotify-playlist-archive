@@ -1654,6 +1654,24 @@
     },
     {
       "album": {
+        "name": "When It Comes to You (Deluxe)",
+        "url": "https://open.spotify.com/album/3NsAhgtYRgjWmfQFOAG10r"
+      },
+      "artists": [
+        {
+          "name": "RNW Music",
+          "url": "https://open.spotify.com/artist/4LfdYq6VdNIwj6Cs5x9EKi"
+        }
+      ],
+      "date_added": "2019-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 407190,
+      "name": "When It Comes to You",
+      "url": "https://open.spotify.com/track/2j70cErAhBQ8Kmqlc3ePIl"
+    },
+    {
+      "album": {
         "name": "When It Comes to You",
         "url": "https://open.spotify.com/album/7iEMna8XHGFwwiR17SqtkV"
       },
@@ -1665,7 +1683,7 @@
       ],
       "date_added": "2019-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 407190,
       "name": "When It Comes to You",
       "url": "https://open.spotify.com/track/7juggaI6hvrlRJq7K0mAUH"

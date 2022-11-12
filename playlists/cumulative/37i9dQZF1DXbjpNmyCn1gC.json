@@ -102,6 +102,24 @@
     },
     {
       "album": {
+        "name": "distance",
+        "url": "https://open.spotify.com/album/6BggWKw3P610cfEvYfyWue"
+      },
+      "artists": [
+        {
+          "name": "Long Shot Party",
+          "url": "https://open.spotify.com/artist/3JdNagrq4kPXQ3Coj6INjp"
+        }
+      ],
+      "date_added": "2021-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187026,
+      "name": "distance",
+      "url": "https://open.spotify.com/track/51GkuUEVKb17ctG5d6JYfI"
+    },
+    {
+      "album": {
         "name": "LONG SHOT PARTY",
         "url": "https://open.spotify.com/album/6LxMGTkHBLhdzgtN3oHJu2"
       },
@@ -113,7 +131,7 @@
       ],
       "date_added": "2021-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 187346,
       "name": "distance",
       "url": "https://open.spotify.com/track/17zGkwutNrdgAAfC61QLWF"
@@ -1631,10 +1649,28 @@
       ],
       "date_added": "2021-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 222826,
       "name": "\u30d6\u30e9\u30c3\u30c9\u30b5\u30fc\u30ad\u30e5\u30ec\u30fc\u30bf\u30fc",
       "url": "https://open.spotify.com/track/2sFBiCSUNc3ptKrCR8JABx"
+    },
+    {
+      "album": {
+        "name": "\u30d6\u30e9\u30c3\u30c9\u30b5\u30fc\u30ad\u30e5\u30ec\u30fc\u30bf\u30fc",
+        "url": "https://open.spotify.com/album/65Fx2KLDsAUCQ8Yq009qwD"
+      },
+      "artists": [
+        {
+          "name": "ASIAN KUNG-FU GENERATION",
+          "url": "https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt"
+        }
+      ],
+      "date_added": "2021-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223013,
+      "name": "\u30d6\u30e9\u30c3\u30c9\u30b5\u30fc\u30ad\u30e5\u30ec\u30fc\u30bf\u30fc",
+      "url": "https://open.spotify.com/track/4ubg5I8l75BPuAffKFcRxX"
     },
     {
       "album": {
@@ -1649,10 +1685,28 @@
       ],
       "date_added": "2021-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 215706,
       "name": "\u30d6\u30eb\u30fc\u30d0\u30fc\u30c9",
       "url": "https://open.spotify.com/track/2XpV9sHBexcNrz0Gyf3l18"
+    },
+    {
+      "album": {
+        "name": "\u3044\u304d\u3082\u306e\u3070\u304b\u308a\u301c\u30e1\u30f3\u30d0\u30fc\u30baBEST\u30bb\u30ec\u30af\u30b7\u30e7\u30f3\u301c",
+        "url": "https://open.spotify.com/album/4cmwCfGQ5SMNJnEL4dKB2B"
+      },
+      "artists": [
+        {
+          "name": "Ikimonogakari",
+          "url": "https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ"
+        }
+      ],
+      "date_added": "2021-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215760,
+      "name": "\u30d6\u30eb\u30fc\u30d0\u30fc\u30c9",
+      "url": "https://open.spotify.com/track/5XKMGlkK6Rvro9sinQpxxZ"
     },
     {
       "album": {
@@ -2071,7 +2125,7 @@
       ],
       "date_added": "2021-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 236293,
       "name": "\u6708\u306e\u5927\u304d\u3055",
       "url": "https://open.spotify.com/track/4bY2oZGA5Br3pTE1Jd1IfY"
@@ -2093,6 +2147,24 @@
       "duration_ms": 236293,
       "name": "\u6708\u306e\u5927\u304d\u3055",
       "url": "https://open.spotify.com/track/5zzfDKUAzsHns9KhQ24iQz"
+    },
+    {
+      "album": {
+        "name": "\u30d0\u30ec\u30c3\u30bf TypeA",
+        "url": "https://open.spotify.com/album/4Cf115NeABti7qSFD3C68w"
+      },
+      "artists": [
+        {
+          "name": "Nogizaka46",
+          "url": "https://open.spotify.com/artist/08lN7bm4Etec8ETFxaTUmq"
+        }
+      ],
+      "date_added": "2021-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236293,
+      "name": "\u6708\u306e\u5927\u304d\u3055",
+      "url": "https://open.spotify.com/track/7rFFbn3v6eN0AP05lQ8ZuZ"
     },
     {
       "album": {
@@ -2143,7 +2215,7 @@
       ],
       "date_added": "2021-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 251600,
       "name": "\u6ce2\u98a8\u30b5\u30c6\u30e9\u30a4\u30c8",
       "url": "https://open.spotify.com/track/4OLVgNgoTslbcSAyR4PmCq"
@@ -2165,6 +2237,24 @@
       "duration_ms": 252733,
       "name": "\u6ce2\u98a8\u30b5\u30c6\u30e9\u30a4\u30c8",
       "url": "https://open.spotify.com/track/2ytqDhgvsWd8Q6lLiIbpfa"
+    },
+    {
+      "album": {
+        "name": "\u6ce2\u98a8\u30b5\u30c6\u30e9\u30a4\u30c8",
+        "url": "https://open.spotify.com/album/43z4dalSRVz5xz7gBinofh"
+      },
+      "artists": [
+        {
+          "name": "SNOWKEL",
+          "url": "https://open.spotify.com/artist/12OSHhni6aZbqfUp7nzjKC"
+        }
+      ],
+      "date_added": "2021-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252733,
+      "name": "\u6ce2\u98a8\u30b5\u30c6\u30e9\u30a4\u30c8",
+      "url": "https://open.spotify.com/track/59TkuVpbtcJxcCneIzzVH4"
     },
     {
       "album": {

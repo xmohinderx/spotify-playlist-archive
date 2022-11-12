@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX02EVVXSnFB.md) - [plain]
 
 > <a href="spotify:artist:6mK0vAO13gT8jWYANyoXAl">Young Franco's </a> favourite tracks\.  Updated regularly\. Curated by Young Franco\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,534 likes - 51 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,574 likes - 51 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX02EVVXSnFB.md) - [plain]
 | 22 | [1\-800\-HITMYLINE](https://open.spotify.com/track/0DkpnbiHYv3tbhzL6HHxZQ) | [Stevedreez](https://open.spotify.com/artist/3KJzwEs0Tr6egQZ65WTncE) | [1\-800\-HITMYLINE](https://open.spotify.com/album/0H3latnKNjE2Q1CWC6zy5U) | 3:34 |
 | 23 | [Shine On](https://open.spotify.com/track/7anTdHy8B3QSnxmldi6H2u) | [George Duke](https://open.spotify.com/artist/3EB0uKE2lGw6BB1UFJrONl) | [Dream On](https://open.spotify.com/album/2uuDPTEvQCzMyvmAVsbqk7) | 5:12 |
 | 24 | [I Miss Having Someone To Talk To](https://open.spotify.com/track/0y5D6gtFl3WNx06rOXLWJ6) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS), [Liv East](https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7) | [I Miss Having Someone To Talk To](https://open.spotify.com/album/17PBUuvBGmmwD0L6CtKtPR) | 3:43 |
-| 25 | [The Sweetest Meditation](https://open.spotify.com/track/6Ds341awJUTMJ7Zmx3Gl1i) | [Lord Echo](https://open.spotify.com/artist/4SkLPRjzPXh6d5n32Vypy5), [Mara TK](https://open.spotify.com/artist/3GzJfrTYqGHMASNHNNN7hN) | [Harmonies](https://open.spotify.com/album/2l6MYrhN7T3DwsH05XsXxp) | 5:54 |
+| 25 | [The Sweetest Meditation](https://open.spotify.com/track/02wV5Rj4zxYI6xp9SLb58e) | [Lord Echo](https://open.spotify.com/artist/4SkLPRjzPXh6d5n32Vypy5), [Mara TK](https://open.spotify.com/artist/3GzJfrTYqGHMASNHNNN7hN) | [Sweetest Meditation](https://open.spotify.com/album/3e6wUvHZ2zV5FCPpzFjTQ7) | 5:54 |
 | 26 | [Disco Sole](https://open.spotify.com/track/4shVjgoOMa73JgBtZIDDz4) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Nuova Napoli](https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD) | 4:23 |
 | 27 | [Underneath](https://open.spotify.com/track/4wyrc8IPFe1tE1ZPMnEx7C) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS) | [Underneath](https://open.spotify.com/album/0B7GgmnsWIqYN55jCk0pjJ) | 3:49 |
 | 28 | [Got 2 Be Loved](https://open.spotify.com/track/2Rsn3b2wzflcjX0pXcZFdj) | [Soul Reductions](https://open.spotify.com/artist/1z0WDGqbharsGI6n33mwhj) | [Got 2 Be Loved](https://open.spotify.com/album/2jeNULyvELdIrhrQsCOVmq) | 3:32 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX02EVVXSnFB.md) - [plain]
 | 50 | [Watch Your Step \(Harvey Sutherland Remix\)](https://open.spotify.com/track/7G24eVWGQFcDP5DxXGgCSj) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM), [Harvey Sutherland](https://open.spotify.com/artist/4CxFlJDif0atTK3gZebcEf) | [ENERGY \(Special Edition\)](https://open.spotify.com/album/7zkGnjPwwQvjW7RCMnmPEz) | 3:50 |
 | 51 | [On and On](https://open.spotify.com/track/4d0UM1L06EmBBc9c8Ulv5R) | [Harvey Mason](https://open.spotify.com/artist/2MNNVXEpagQ3QWiOkXjQyT) | [M.V.P\. \(Expanded Edition\)](https://open.spotify.com/album/0749f8G3xK1yPfkgY1u5ia) | 5:00 |
 
-Snapshot ID: `MTY0ODAxNTk3MCwwMDAwMDAwMDNjMWUwZDQwOTgxNjkyYzVlZTYyNjc0N2M5MjNkMmFh`
+Snapshot ID: `MTY0ODAxNTk3MCwwMDAwMDAwMDY1NzJmOTBkYTRlNzU4NjAzOGRmZjQ3MzhkZDBkZDhm`

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 
 > welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. scene queen
 
-[Spotify](https://open.spotify.com/user/spotify) - 456,744 likes - 80 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 456,876 likes - 80 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Rapture \(but it’s Pink\) \[feat\. Mothica\]](https://open.spotify.com/track/1dxx2lYR9cBgd3ULMG3Pc9) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4), [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [The Rapture \(but it’s Pink\) \[feat\. Mothica\]](https://open.spotify.com/album/6RWgLevYdI5PuF95hfykPf) | 2:28 |
 | 2 | [I Really F\*\*ked It Up](https://open.spotify.com/track/4MTPjzLzoi4HiR5fRAQ2Hx) | [girli](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [I Really F\*\*ked It Up](https://open.spotify.com/album/6N1ZdKUo4kw13gQMGQX4iZ) | 2:45 |
-| 3 | [Like That](https://open.spotify.com/track/2SpphQibJfkN9GY5nuzlof) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Sad Girl](https://open.spotify.com/album/23yFRTbLS2jvXfFedgFDFM) | 2:35 |
+| 3 | [Like That](https://open.spotify.com/track/2SpphQibJfkN9GY5nuzlof) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Sad Girl Mixtape](https://open.spotify.com/album/23yFRTbLS2jvXfFedgFDFM) | 2:35 |
 | 4 | [DEATHWISH](https://open.spotify.com/track/3yaX8Vf44B5Ou63LMPjTdw) | [Red Leather](https://open.spotify.com/artist/2qltFRTCjw1j67Da9FR8F1) | [DEATHWISH](https://open.spotify.com/album/3UYh3uBNQeQ5nagIafCnZy) | 2:47 |
 | 5 | [KILL ALL PREDATORS](https://open.spotify.com/track/116m1FqbddR1KEFTw7ZItH) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf), [ZAND](https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury) | [KILL ALL PREDATORS](https://open.spotify.com/album/33OtJjrHXYS7cHY7O6NDXn) | 2:05 |
 | 6 | [Choose Your Fighter](https://open.spotify.com/track/5GJgz8jChM8AA7cSStOqjU) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Choose Your Fighter](https://open.spotify.com/album/3HoyLFKUF2HKmYJjjFhd5s) | 2:15 |

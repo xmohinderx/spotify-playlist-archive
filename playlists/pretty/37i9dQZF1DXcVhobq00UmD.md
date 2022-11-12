@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcVhobq00UmD.md) - [plain]
 
 > Welcome to the LOOΠΔverse\. Are you making an 'Orbit' around LOOΠΔ?
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,356 likes - 113 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,421 likes - 113 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcVhobq00UmD.md) - [plain]
 | 56 | [ViViD \- Acoustic Mix Version](https://open.spotify.com/track/3w9DXhZIfOJpStUSkLHxWg) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [HeeJin](https://open.spotify.com/album/4bAHdv04do1PfJcGIjD2cX) | 3:36 |
 | 57 | [The Carol](https://open.spotify.com/track/2jvTBj2oSJi3fij1WH1AJR) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [HaSeul](https://open.spotify.com/album/5i0Av4RNFxgWGbi6VpeQBP) | 3:26 |
 | 58 | [키스는 다음에](https://open.spotify.com/track/3DGKXLtVjawKFweymvHn84) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [YeoJin](https://open.spotify.com/album/7j4J6jWNmKjzpiWxPEdEcS) | 3:19 |
-| 59 | [My Sunday](https://open.spotify.com/track/7vgLNwdUzUQelOr9aacuxA) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [YeoJin](https://open.spotify.com/album/7j4J6jWNmKjzpiWxPEdEcS) | 3:02 |
+| 59 | [My Sunday](https://open.spotify.com/track/1IEGeQZD2By2YKow9pgqDU) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [YeoJin](https://open.spotify.com/album/5y41xb7QBK29gQI6HgTMjL) | 3:02 |
 | 60 | [My Melody](https://open.spotify.com/track/6f1PlxNaKfbbBosoRXmoAF) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [YeoJin](https://open.spotify.com/album/7j4J6jWNmKjzpiWxPEdEcS) | 3:02 |
 | 61 | [Hide & Seek](https://open.spotify.com/track/5QZHS9YzYpNDY8nmG2h64N) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [\[12:00\]](https://open.spotify.com/album/3obToaukLcPbCLPPmWFzQi) | 3:02 |
 | 62 | [Into the New Heart](https://open.spotify.com/track/1vFgGSZOjdomaUakHJi3oB) | [LOOΠΔ 1/3](https://open.spotify.com/artist/4u9YxYzCjpMjnMcwNu9fzy), [JUNGMO](https://open.spotify.com/artist/265utmyoXKhopQTAHBXByE) | [Love & Live](https://open.spotify.com/album/24xMv1Q8SdNoCrKoKUPQJD) | 1:07 |
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcVhobq00UmD.md) - [plain]
 | 72 | [Rain 51db](https://open.spotify.com/track/3WALXPWdol0F0quHImXEYm) | [LOOΠΔ 1/3](https://open.spotify.com/artist/4u9YxYzCjpMjnMcwNu9fzy) | [Love & Evil](https://open.spotify.com/album/2o19HGYWURILfZ9BSNw4ue) | 3:21 |
 | 73 | [Eclipse](https://open.spotify.com/track/3y3gnrkETEr90Zpe6fNuOt) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [Kim Lip](https://open.spotify.com/album/4Ihp1Q01jIrLrVHqzCMJEn) | 3:51 |
 | 74 | [Twilight](https://open.spotify.com/track/1QzbeeShhAATdT87ssWtK4) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [Kim Lip](https://open.spotify.com/album/5BTKWSg65wQMCj0CnPSx34) | 3:06 |
-| 75 | [Singing in the Rain](https://open.spotify.com/track/1uNTfm5WZVGdig95SAXajH) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [JinSoul](https://open.spotify.com/album/4aihvbWq3RQ1TAR2awMsqi) | 3:31 |
+| 75 | [Singing in the Rain](https://open.spotify.com/track/4uwDQJ76uGBkuP6OpLQia2) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [JinSoul](https://open.spotify.com/album/4Jux7c6OjyQHtK12AH3NEA) | 3:31 |
 | 76 | [Love Letter](https://open.spotify.com/track/3GAKRdjL6Snq9C7u5tMC01) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [JinSoul](https://open.spotify.com/album/4aihvbWq3RQ1TAR2awMsqi) | 3:08 |
 | 77 | [Puzzle](https://open.spotify.com/track/0Y1oSjd9U7Qy5t7EDjAjPq) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [Choerry](https://open.spotify.com/album/7zWV8dHkh06EclukKh1jVh) | 3:40 |
 | 78 | [ODD](https://open.spotify.com/track/3GRwM20EPVWjKoVsNsHjrj) | [LOOΠΔ / ODD EYE CIRCLE](https://open.spotify.com/artist/5KPaeBm0fVfCSZLydp9jdy) | [Mix & Match](https://open.spotify.com/album/1a8lndLvlxQsRyiLdKPtze) | 0:45 |
@@ -120,6 +120,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcVhobq00UmD.md) - [plain]
 | 110 | [\#](https://open.spotify.com/track/0g4EXf2GxjePFGl6EXnGFZ) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [\[\#\]](https://open.spotify.com/album/3OOqAsk58Xv8DHu1gRGtaC) | 1:06 |
 | 111 | [Number 1](https://open.spotify.com/track/1W9fuK1bUimZRvyckkQR05) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [\[\#\]](https://open.spotify.com/album/3OOqAsk58Xv8DHu1gRGtaC) | 3:22 |
 | 112 | [Ding Ding Dong](https://open.spotify.com/track/5wXl54GxirvUdS9ne70mC7) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [\[\#\]](https://open.spotify.com/album/3OOqAsk58Xv8DHu1gRGtaC) | 2:58 |
-| 113 | [As Time Goes](https://open.spotify.com/track/5AL7gnyJ5qpsZB4cVCJgQZ) | [JinSoul](https://open.spotify.com/artist/1rAZr0bwMTcobwrOFHhfJr) | [Meow the secret boy \(Original Television Soundtrack\) Pt\. 8](https://open.spotify.com/album/4m71LoXK1OfvkOlWkYmWFk) | 3:06 |
+| 113 | [As Time Goes](https://open.spotify.com/track/3st0u3poyKOsWHVIDY35zS) | [JinSoul](https://open.spotify.com/artist/1rAZr0bwMTcobwrOFHhfJr) | [Meow the secret boy \(Original Television Soundtrack\) Special](https://open.spotify.com/album/4ACCjU7zaJME7qZHF1dvdr) | 3:06 |
 
-Snapshot ID: `MTY1NTk3MTE2NywwMDAwMDAwMGQ2OWVhMTg2OGUwMjRlZmNlZGY4OGE5ODZkOTZkMTJj`
+Snapshot ID: `MTY1NTk3MTE2NywwMDAwMDAwMGEwODdmZjYyNWRhYmMyOGM5YWVlN2U1YjY0NTA4ZThj`

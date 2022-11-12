@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 
 > it's a generation ⛓ cover: jxdn
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,976 likes - 91 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 335,152 likes - 91 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 | 18 | [dead inside](https://open.spotify.com/track/2Oo397nWzelAKMQBBIL8YI) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [in loving memory](https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau) | 3:02 |
 | 19 | [Twinkle Twinkle](https://open.spotify.com/track/6zBqlhWjEhNyH4Z8eUDzMT) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Twinkle Twinkle](https://open.spotify.com/album/1ybrTFXVkVuSmFdS0twHzb) | 2:36 |
 | 20 | [Still into You](https://open.spotify.com/track/1yjY7rpaAQvKwpdUliHx0d) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Paramore](https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF) | 3:36 |
-| 21 | [Like That](https://open.spotify.com/track/2SpphQibJfkN9GY5nuzlof) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Sad Girl](https://open.spotify.com/album/23yFRTbLS2jvXfFedgFDFM) | 2:35 |
+| 21 | [Like That](https://open.spotify.com/track/2SpphQibJfkN9GY5nuzlof) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Sad Girl Mixtape](https://open.spotify.com/album/23yFRTbLS2jvXfFedgFDFM) | 2:35 |
 | 22 | [Seeing Red \(with Dusty Locane & Rah Swish\)](https://open.spotify.com/track/7eokpLlr9FBg6PdqzA2hLh) | [7evin7ins](https://open.spotify.com/artist/4Nr6sbnl0dWasnapIxS92I), [DUSTY LOCANE](https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L), [Rah Swish](https://open.spotify.com/artist/4FeLiFUPdxVfFo8oOfA4BH) | [Seeing Red](https://open.spotify.com/album/5niGkfpw5sNpXPQnicsAKO) | 2:41 |
 | 23 | [boohoo](https://open.spotify.com/track/51kJeBoHeHcji1fNsSIHZV) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [debbie downer](https://open.spotify.com/album/0h5j78YPHOMhUD1PNLlmp9) | 3:04 |
 | 24 | [fmk \(with blackbear\) \- messier](https://open.spotify.com/track/5CO8EbwcxnvA28O7NCDKfJ) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [fmk \(with blackbear\) \[messier\]](https://open.spotify.com/album/6awuYwlqz9cN5h3yCOffbg) | 3:06 |

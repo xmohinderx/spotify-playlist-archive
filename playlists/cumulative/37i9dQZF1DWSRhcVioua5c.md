@@ -4,7 +4,7 @@
 
 > Una selección de baladas para suspirar de amor.
 
-132 songs - 8 hr 32 min - [published](https://open.spotify.com/playlist/6iMV8piE9igffxc51R0RU9)
+134 songs - 8 hr 39 min - [published](https://open.spotify.com/playlist/6iMV8piE9igffxc51R0RU9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Angélica](https://open.spotify.com/track/22MtFu7CYyj0pPjEFHOSgG) | [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [Ven por Mi \(Sesiones 2020\)](https://open.spotify.com/album/1hGf9vvJOi3ULdTSTRcPpW) | 3:29 | 2021-10-08 | 2022-07-29 |
 | [Ansiado Encuentro](https://open.spotify.com/track/4bgaEcs1bsLuV49Q67DtRT) | [ALEJANDRO FARIAS](https://open.spotify.com/artist/5p5tYck12ZHCLPdbFp13rh), [La Eulogia Folk](https://open.spotify.com/artist/044zb14KOZosDnxI71XpGr) | [Ansiado Encuentro](https://open.spotify.com/album/3Z3dyIUxHZfTlBarrWrHLR) | 4:35 | 2021-10-08 |  |
 | [Antes De Ti](https://open.spotify.com/track/4lCExNr3B8tP17auPWB9Le) | [Los Santiagueños del Río](https://open.spotify.com/artist/6r9uNliQhXN4hiabQVvwi2) | [Antes De Ti](https://open.spotify.com/album/2T3j2ziSjbAwlpryq8awBV) | 4:23 | 2021-10-08 | 2022-09-02 |
-| [Asuntos Pendientes](https://open.spotify.com/track/6kS0RzghvmItZOz99eutk2) | [Yanet Mayoral](https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO) | [Asuntos Pendientes](https://open.spotify.com/album/5PC43L0Gftheh1WbrjW1VC) | 2:50 | 2021-10-08 |  |
+| [Asuntos Pendientes](https://open.spotify.com/track/6kS0RzghvmItZOz99eutk2) | [Yanet Mayoral](https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO) | [Asuntos Pendientes](https://open.spotify.com/album/5PC43L0Gftheh1WbrjW1VC) | 2:50 | 2021-10-08 | 2022-11-12 |
 | [Ausencia](https://open.spotify.com/track/2RNfWFgY8Zd2ipPGtKAtPv) | [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [Signos \(Sesiones 2020\)](https://open.spotify.com/album/3mrsqUgypqoCX1xyZzlJFk) | 3:14 | 2021-10-08 | 2022-07-29 |
 | [Aventura](https://open.spotify.com/track/01yql5Z187oXNK51jhbPJZ) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Reevolución](https://open.spotify.com/album/6mh57IdIEVmRX7YWnG83pO) | 3:29 | 2021-10-08 | 2022-07-29 |
 | [Aventura \(feat\. Marcela Morelo\)](https://open.spotify.com/track/6qkS2ebQrNmSznA50ODfxs) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa), [Marcela Morelo](https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9) | [Reevolución](https://open.spotify.com/album/3YL3YmNrEYympobNbV3eXT) | 3:29 | 2022-07-15 |  |
@@ -64,6 +64,7 @@
 | [La Guada](https://open.spotify.com/track/5p62JsJMyb0qgHoPtNBZZ7) | [Mariana Baraj](https://open.spotify.com/artist/3kNByUYht34hI6ugWqMtCq) | [Churita](https://open.spotify.com/album/7pgzkHyoKg2QDTOiVG7j7e) | 3:03 | 2021-10-08 |  |
 | [La Ley Y La Trampa](https://open.spotify.com/track/0L5wghl5RSXbOInxDhHAUU) | [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [La Ley Y La Trampa](https://open.spotify.com/album/1iBOBHP4VTGUKplKdtXot4) | 2:48 | 2022-07-15 | 2022-11-11 |
 | [La Ley Y La Trampa](https://open.spotify.com/track/2sb31nQbx4QnFD9FQv2D28) | [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [La Ley Y La Trampa](https://open.spotify.com/album/4u22Umljn6A5UYjDfQSOjc) | 2:48 | 2021-10-08 | 2022-07-29 |
+| [La Ley y La Trampa](https://open.spotify.com/track/22Lq8kVbpIUJeaqwaWMbc6) | [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [La Ley y La Trampa](https://open.spotify.com/album/3zYO2TBoDkiRim2Lpmz0mJ) | 2:53 | 2022-10-07 |  |
 | [La Luna](https://open.spotify.com/track/113QNBn4EGOGo2uGNCa1J3) | [AHYRE](https://open.spotify.com/artist/2IucHN96T0BZ3e4mXe9AgP) | [La Luna](https://open.spotify.com/album/4GBYS12uU7UxPhQ1jbAXZw) | 3:42 | 2021-10-08 | 2022-07-29 |
 | [La Luna](https://open.spotify.com/track/5m3SdNod7s5n2vFkQiJqYF) | [AHYRE](https://open.spotify.com/artist/2IucHN96T0BZ3e4mXe9AgP) | [Ahyre](https://open.spotify.com/album/2jJyXMCAAQmgk1WlsFFwAN) | 3:42 | 2022-07-15 |  |
 | [La Noche Sin Tí](https://open.spotify.com/track/6dT5W7zuEcUZHnZuVlSIJ5) | [Los Huayra](https://open.spotify.com/artist/796YUyTCTkXZAZg4CLUoWl) | [La Voz Del Viento](https://open.spotify.com/album/0fbAh4EhR85ddKTzO7vS8a) | 4:18 | 2021-10-08 |  |
@@ -136,7 +137,8 @@
 | [Zamba para Decir Adiós](https://open.spotify.com/track/58ovR1eDL61corweuS4h40) | [Campedrinos](https://open.spotify.com/artist/5EQuMf3chH4yv7UPEiVIxx) | [Zamba para Decir Adiós](https://open.spotify.com/album/2mv60g9gXQFuCr6gp3aG0N) | 3:54 | 2021-10-08 | 2022-07-29 |
 | [Zamba para Olvidarte](https://open.spotify.com/track/5V1FwqoPmvZllRuQCuZAyx) | [Daniel Toro](https://open.spotify.com/artist/3kww2RwVsla3J0eZyfRLIu) | [Zamba para Olvidarte](https://open.spotify.com/album/30n0qbEez9YgxftQ9Kv7jO) | 3:19 | 2021-10-08 |  |
 | [Zamba y Acuarela](https://open.spotify.com/track/1X2Z8Js9G8YmXIbrwSIptK) | [Raly Barrionuevo](https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf) | [El Principio del Final](https://open.spotify.com/album/0jZXoejsjx2oS5vEHXmWzt) | 4:32 | 2021-10-08 | 2022-07-29 |
-| [Zamba y Acuarela](https://open.spotify.com/track/4M7ODmOvmSny2kBEOgp2cX) | [Raly Barrionuevo](https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf) | [El Principio del Final](https://open.spotify.com/album/2ww3i7PqUVMM4JmokgyRb5) | 4:32 | 2022-07-15 |  |
+| [Zamba y Acuarela](https://open.spotify.com/track/4M7ODmOvmSny2kBEOgp2cX) | [Raly Barrionuevo](https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf) | [El Principio del Final](https://open.spotify.com/album/2ww3i7PqUVMM4JmokgyRb5) | 4:32 | 2022-07-15 | 2022-11-12 |
+| [Zamba y Acuarela](https://open.spotify.com/track/4NuT2p7BwMRM4FwKr7TtEl) | [Raly Barrionuevo](https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf) | [Grandes Éxitos](https://open.spotify.com/album/5yl4DxJbBo7gq9soEW7fmY) | 4:33 | 2022-10-07 |  |
 | [Zambas Románticas: Mujer, Niña y Amiga / Gustito a Mistol / Gallitos del Aire / Jazmín de Luna](https://open.spotify.com/track/4fGfiuxECgwNDL8cTC9SOT) | [Campedrinos](https://open.spotify.com/artist/5EQuMf3chH4yv7UPEiVIxx) | [Zambas Románticas: Mujer, Niña y Amiga / Gustito a Mistol / Gallitos del Aire / Jazmín de Luna](https://open.spotify.com/album/475rRqqrmSGkwYYJFcOUaz) | 7:26 | 2022-07-15 |  |
 | [Zambas Románticas: Mujer, Niña y Amiga / Gustito a Mistol / Gallitos del Aire / Jazmín de Luna](https://open.spotify.com/track/6vGgOdL3ouVHmuw8U7oA2v) | [Campedrinos](https://open.spotify.com/artist/5EQuMf3chH4yv7UPEiVIxx) | [Zambas Románticas: Mujer, Niña y Amiga / Gustito a Mistol / Gallitos del Aire / Jazmín de Luna](https://open.spotify.com/album/1Dbq7br5fPpceiVaoNnBEH) | 7:26 | 2021-10-08 | 2022-07-29 |
 | [Zambita pa' Enamorar](https://open.spotify.com/track/6TVKi26ExwcSdv7NhAi8Iq) | [Franco Ramirez](https://open.spotify.com/artist/3wtmjgdgUKVK3tonnKSh9a) | [De Barrio](https://open.spotify.com/album/6hm9pBwn4NXDV29seneaJ7) | 3:12 | 2021-10-08 |  |

@@ -4,7 +4,7 @@
 
 > los tenis bien limpios y la bocina retumbando
 
-128 songs - 7 hr 20 min - [published](https://open.spotify.com/playlist/2U4Xvmq56X8XXDw4ib4Fua)
+129 songs - 7 hr 23 min - [published](https://open.spotify.com/playlist/2U4Xvmq56X8XXDw4ib4Fua)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,8 +50,9 @@
 | [El Ruddy](https://open.spotify.com/track/0vNtFN67TIMgDokyyuUUwA) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602](https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO) | 3:03 | 2022-06-10 |  |
 | [Ella Y Yo \- Featuring Don Omar](https://open.spotify.com/track/6G4U9avyBNEfP0fAIduev3) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi), [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [God's Project](https://open.spotify.com/album/3dCEXNx36W29EYCMUAx5p5) | 4:27 | 2022-07-04 |  |
 | [En El Radio Un Cochinero](https://open.spotify.com/track/2NWaWZZLFMcr5P4uI2KvWy) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8) | [En El Radio Un Cochinero](https://open.spotify.com/album/6fCSthptZ0wBlpqeSlUKHy) | 3:43 | 2022-06-10 |  |
+| [En El Refuego](https://open.spotify.com/track/2AoqaGQiMT1Yt10f2qypUk) | [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY) | [Paranormal](https://open.spotify.com/album/3WdqL2AIorwJ4ofhNGR1w0) | 3:04 | 2022-09-07 |  |
 | [en el Refuego](https://open.spotify.com/track/2dDfS3g7VYjQLDqPnMY8oB) | [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY) | [en el Refuego](https://open.spotify.com/album/2pGsHPDALnunKWNyvnr03f) | 3:04 | 2022-06-10 | 2022-07-28 |
-| [En El Refuego](https://open.spotify.com/track/5a03ZGBn3dqr3H3W3li7FO) | [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY) | [En El Refuego](https://open.spotify.com/album/2JJpo95vrGC1A7GMphV8FS) | 3:04 | 2022-06-10 |  |
+| [En El Refuego](https://open.spotify.com/track/5a03ZGBn3dqr3H3W3li7FO) | [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY) | [En El Refuego](https://open.spotify.com/album/2JJpo95vrGC1A7GMphV8FS) | 3:04 | 2022-06-10 | 2022-11-12 |
 | [Es Difícil Ser Un Santo](https://open.spotify.com/track/6NuJqPmsZEag7XJf0B67ZI) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Pa Las Vibras](https://open.spotify.com/album/6oElOd3f50sDYPdjW1qMNM) | 3:01 | 2022-06-10 |  |
 | [Fuga Pa Cali 2](https://open.spotify.com/track/5IdyvWCaUa7AgTxMsFj0wB) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [La Clase](https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY) | 3:16 | 2022-06-10 |  |
 | [Gracias \- En Vivo](https://open.spotify.com/track/2XlGKZNMkRKvEJsbwQ6MCl) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Grupo Codiciado](https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc) | [Gracias \(En Vivo\)](https://open.spotify.com/album/1J5sBLRkJnpnXOYK31M2ad) | 3:55 | 2022-06-10 |  |

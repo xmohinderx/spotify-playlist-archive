@@ -2572,6 +2572,24 @@
     },
     {
       "album": {
+        "name": "All Time Hits",
+        "url": "https://open.spotify.com/album/6QsaW4ddxzbKj6S5JfnAEB"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "date_added": "2022-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162398,
+      "name": "Kings & Queens",
+      "url": "https://open.spotify.com/track/00SyBVoq9zYcivUUYl1IbU"
+    },
+    {
+      "album": {
         "name": "Kings & Queens",
         "url": "https://open.spotify.com/album/6yUkGEJftbJl1QPvz4WTjO"
       },
@@ -2601,7 +2619,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 162398,
       "name": "Kings & Queens",
       "url": "https://open.spotify.com/track/7a53HqqArd4b9NF4XAmlbI"
@@ -3386,6 +3404,28 @@
     },
     {
       "album": {
+        "name": "Dance electro mood",
+        "url": "https://open.spotify.com/album/1z9nNuYJuBwgOVI9efNg7B"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "date_added": "2022-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "Moth To A Flame",
+      "url": "https://open.spotify.com/track/5skCXaRnin2BIR8U5V2Z10"
+    },
+    {
+      "album": {
         "name": "Paradise Again",
         "url": "https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH"
       },
@@ -3401,7 +3441,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 234000,
       "name": "Moth To A Flame (with The Weeknd)",
       "url": "https://open.spotify.com/track/0VO8gYVDSwM1Qdd2GsMoYK"
@@ -3870,6 +3910,28 @@
     },
     {
       "album": {
+        "name": "Techno House Hits",
+        "url": "https://open.spotify.com/album/3LXqRURW0i6qjNOyIeX937"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+        }
+      ],
+      "date_added": "2022-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152913,
+      "name": "Piece Of Your Heart",
+      "url": "https://open.spotify.com/track/0fhcf188VjTwUEalqfFRtn"
+    },
+    {
+      "album": {
         "name": "Piece Of Your Heart",
         "url": "https://open.spotify.com/album/0cqRGWD3uc5Lggpducn5nD"
       },
@@ -3885,7 +3947,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 152913,
       "name": "Piece Of Your Heart",
       "url": "https://open.spotify.com/track/1DFD5Fotzgn6yYXkYsKiGs"

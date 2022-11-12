@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8YFIEyRvxXj.md) - [plain]
 
 > These artists changed the world by changing their tune\.  Their music not only grooved but moved the world with personal and political messages.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,026 likes - 22 songs - 1 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,075 likes - 22 songs - 1 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [What's Going On](https://open.spotify.com/track/3Um9toULmYFGCpvaIPFw7l) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [What's Going On](https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B) | 3:53 |
+| 1 | [What's Going On](https://open.spotify.com/track/263r3yt2PU9kLeGJZB8nwU) | [Profyle](https://open.spotify.com/artist/4WC2Edj7Ruq94JH2jkC5hB) | [Marvin Is 60: A Tribute Album](https://open.spotify.com/album/3SX6I8EJMwO2GAvlv3mC4h) | 3:58 |
 | 2 | [I Should Be Proud](https://open.spotify.com/track/2nxSAQBvF6gDIwZmG6B9nO) | [Martha Reeves & The Vandellas](https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP) | [Natural Resources](https://open.spotify.com/album/2LVHRojdrMALUMJpXX4aFJ) | 2:56 |
 | 3 | [Ball Of Confusion \(That's What The World Is Today\) \- Single Version/Mono](https://open.spotify.com/track/6jgiZygyAJ9mebZwhRnZyr) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [Motown: The Revolution](https://open.spotify.com/album/3uTpxAjAxFu7mW2hh4okbq) | 4:05 |
 | 4 | [War](https://open.spotify.com/track/4ZEEcEMGjkWOfZNBcIB9yE) | [Edwin Starr](https://open.spotify.com/artist/1B8AXU6gIIafpyLEpbcv1u) | [War And Peace](https://open.spotify.com/album/26pzgagMwY4opUvVUdSuum) | 3:20 |
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8YFIEyRvxXj.md) - [plain]
 | 9 | [Message From A Black Man \- Stereo](https://open.spotify.com/track/7uwymVAAwqC5VI5IUkGt6s) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [Psychedelic Soul](https://open.spotify.com/album/5zPOHYH3syqB7vMfo6hs6G) | 6:04 |
 | 10 | [Brother's Gonna Work It Out \- The Mack/Soundtrack Version](https://open.spotify.com/track/1haurWCw5Yb1oP8xNQTfCV) | [Willie Hutch](https://open.spotify.com/artist/5w834ZosnqiBBV8xXCi3oD) | [The Mack \- Original Motion Picture Soundtrack](https://open.spotify.com/album/0iOSxNFl6YhVjWxlzyq5T1) | 4:47 |
 | 11 | [My People...Hold On](https://open.spotify.com/track/5zKAlrdrdEkBkylhwT3cqH) | [Eddie Kendricks](https://open.spotify.com/artist/2Uuon75BhnuuxdKLYn4wHn) | [People..\. Hold On](https://open.spotify.com/album/56H0s8mDvyhVZOWn3vEBgS) | 5:40 |
-| 12 | [Mercy Mercy Me \(The Ecology\)](https://open.spotify.com/track/3IDc87lrpEHWFBASmgTgFV) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [What's Going On](https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B) | 3:13 |
+| 12 | [Mercy Mercy Me \(The Ecology\)](https://open.spotify.com/track/5dtab4o0NqDeeymFjg0RfK) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Black History Month](https://open.spotify.com/album/32ngS0LPwYA1OqO59sCP6z) | 3:16 |
 | 13 | [Higher Ground](https://open.spotify.com/track/0dMd4rilfd6gPbXaLpNYhu) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Innervisions](https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8) | 3:42 |
 | 14 | [What The World Needs Now Is Love/Abraham, Martin And John](https://open.spotify.com/track/706CvlhWdQi3hmCEas3iBN) | [Tom Clay](https://open.spotify.com/artist/07PipPbqSffwUKRCQ5AcC6) | [The Complete Motown Singles Vol\. 11A: 1971](https://open.spotify.com/album/7B8AZ5Vx6quCCl5sDX6TaZ) | 6:19 |
 | 15 | [Greetings \(This Is Uncle Sam\) \- Single Version](https://open.spotify.com/track/4IlsLphpkrX1fxA1vuuSjy) | [The Valadiers](https://open.spotify.com/artist/7FJuJVKIVnGjlTQWksXwX7) | [The Complete Motown Singles, Vol\. 1: 1959\-1961](https://open.spotify.com/album/13z3kSJRI5AzqRuPnSHyOU) | 2:45 |
@@ -31,4 +31,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8YFIEyRvxXj.md) - [plain]
 | 21 | [Zoom](https://open.spotify.com/track/14Tj6yYXItEhy466a0yeR0) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [Commodores](https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl) | 6:44 |
 | 22 | [O\-o\-h Child](https://open.spotify.com/track/4huOPF1DlqeSkF3PPcUYcJ) | [The Spinners](https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5) | [The Best Of The Spinners](https://open.spotify.com/album/1YtoIFW84QtpYVlkOR8xTe) | 3:13 |
 
-Snapshot ID: `MTU2MTQ5NzM1OCwwMDAwMDAwMDAyMTQ5NmRhN2I4MjNjMTliMDMzOTc4MGVlNzc5YmE3`
+Snapshot ID: `MTU2MTQ5NzM1OCwwMDAwMDAwMDdmYzA2ZjFjMmVlZTkwNzIzM2QzMzgxOTU4ZjNkODM5`

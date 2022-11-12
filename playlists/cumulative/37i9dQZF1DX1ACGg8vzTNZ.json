@@ -255,10 +255,28 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 128192,
       "name": "Coriolis Effect",
       "url": "https://open.spotify.com/track/2wDk4PaXp0B54NFLRPgXHF"
+    },
+    {
+      "album": {
+        "name": "Broken Radiance",
+        "url": "https://open.spotify.com/album/6Cr9qjS0yH44dcDs26RV7X"
+      },
+      "artists": [
+        {
+          "name": "Kyle Preston",
+          "url": "https://open.spotify.com/artist/4y34hJ1oLcRl5wOn7FnhX8"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128192,
+      "name": "Coriolis Effect",
+      "url": "https://open.spotify.com/track/4Vk2YKNmdHLG1jevYtgxWa"
     },
     {
       "album": {

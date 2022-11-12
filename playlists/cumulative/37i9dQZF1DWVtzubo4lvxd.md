@@ -4,7 +4,7 @@
 
 > Chill lo\-fi beats to enjoy a great afternoon.
 
-199 songs - 8 hr 1 min - [published](https://open.spotify.com/playlist/7on3y4t0dpM9kcFySbFRWF)
+200 songs - 8 hr 3 min - [published](https://open.spotify.com/playlist/7on3y4t0dpM9kcFySbFRWF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,9 +122,10 @@
 | [one summer's eve](https://open.spotify.com/track/5eDApqll4iKrtS5z53tCfS) | [Brxvs](https://open.spotify.com/artist/3LoO7TNHi4wqe78tsBMMv5), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [one summer's eve](https://open.spotify.com/album/6DARVyutsNq7DRCvBL8Xjj) | 2:59 | 2022-04-15 | 2022-07-29 |
 | [Open Window](https://open.spotify.com/track/2VOzEIIxnfu2t1ZNu9ebcB) | [Jaeden Camstra](https://open.spotify.com/artist/1xOgtDBKnZvSLAgCVSOmNH) | [Kids' Menu](https://open.spotify.com/album/7fNY08KDH3jG1XxZQ84C7t) | 2:20 | 2022-04-15 | 2022-07-29 |
 | [Open Window](https://open.spotify.com/track/703hSWNgehWT0F16awNLr1) | [Jaeden Camstra](https://open.spotify.com/artist/1xOgtDBKnZvSLAgCVSOmNH) | [Kids' Menu](https://open.spotify.com/album/5QZRe9oZyiwJG3LqYzLQc2) | 2:28 | 2022-04-15 | 2022-11-11 |
-| [ORANGE](https://open.spotify.com/track/2QFvsZEjbketrpCgCNC9Zp) | [SINY](https://open.spotify.com/artist/6d1bmKQyB8OJWCOJJPCkVT) | [Shinigami](https://open.spotify.com/album/3ylB3HxdcNx6lCRJT2bruW) | 2:40 | 2022-04-15 |  |
+| [ORANGE](https://open.spotify.com/track/2QFvsZEjbketrpCgCNC9Zp) | [SINY](https://open.spotify.com/artist/6d1bmKQyB8OJWCOJJPCkVT) | [Shinigami](https://open.spotify.com/album/3ylB3HxdcNx6lCRJT2bruW) | 2:40 | 2022-04-15 | 2022-11-12 |
 | [ORANGE](https://open.spotify.com/track/2kRIzQCgP2apb7ERUHBcZ2) | [SINY](https://open.spotify.com/artist/6d1bmKQyB8OJWCOJJPCkVT) | [Shinigami](https://open.spotify.com/album/47couheC4wUEeHig9mBYHW) | 2:40 | 2022-04-15 | 2022-07-29 |
 | [Osbourne](https://open.spotify.com/track/0ydin5vhIPU09KVyNJPEmF) | [Oldeaf](https://open.spotify.com/artist/0FWH2ZX43fYJZYhf9FhvuH) | [Smile](https://open.spotify.com/album/7jBnJJKJScR4FjbW7frJQp) | 4:20 | 2022-04-15 | 2022-07-25 |
+| [P a z](https://open.spotify.com/track/1iOui2AZhEphqH5Yk1ktNz) | [Jaeden Camstra](https://open.spotify.com/artist/1xOgtDBKnZvSLAgCVSOmNH) | [v i d r i o](https://open.spotify.com/album/3hQgn6o9UbwOFtAnU6ADq6) | 1:50 | 2022-04-15 |  |
 | [Paperboi](https://open.spotify.com/track/450CM9o94E8fbdNZndtww6) | [Veritas](https://open.spotify.com/artist/2S6iwClVoSNnpOcCzyMeUj) | [Paperboi](https://open.spotify.com/album/47s0F8r6lLeki1W3BPV1Yq) | 3:26 | 2022-04-15 | 2022-07-28 |
 | [passage](https://open.spotify.com/track/5x6NyRDJl3AZ53oaYAH23o) | [linanthem](https://open.spotify.com/artist/0HrxevJVGTEFBWFfAc88H3) | [passage](https://open.spotify.com/album/3pE40Iu2rLeYQWMQK1Mh2D) | 2:34 | 2022-04-15 | 2022-07-29 |
 | [Popsicle](https://open.spotify.com/track/4ckgfk6svzgE1FmYWbJiCl) | [Funk Andrews](https://open.spotify.com/artist/7qHVz54RdRADqyKWnvmYUh) | [Popsicle](https://open.spotify.com/album/5B0i573qDyP4p5fMp1zLvJ) | 2:26 | 2022-04-15 | 2022-07-25 |

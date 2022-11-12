@@ -4,7 +4,7 @@
 
 > 'Anuv Jain'  is on the cover of Indie India.
 
-163 songs - 9 hr 29 min - [published](https://open.spotify.com/playlist/5J0oFaPhwRhYmz4fIMaWG7)
+164 songs - 9 hr 34 min - [published](https://open.spotify.com/playlist/5J0oFaPhwRhYmz4fIMaWG7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [Choo Lo](https://open.spotify.com/track/2qgXrzJsry4KgYoJCpuaul) | [The Local Train](https://open.spotify.com/artist/7b6Ui7JVaBDEfZB9k6nHL0) | [Aalas Ka Pedh](https://open.spotify.com/album/4U2xdJPJfGo2HofVpSynwO) | 3:53 | 2021-12-06 |  |
 | [City Life](https://open.spotify.com/track/2jfLNlyUpxhFkoo1lJjiL3) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [City Life \- Single](https://open.spotify.com/album/2q1dmnBWQqQAYxcXybUNAr) | 2:40 | 2021-12-06 | 2022-08-23 |
 | [cold/mess](https://open.spotify.com/track/2AoWWiMelowkStJoqPMDed) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [cold / mess](https://open.spotify.com/album/668sak5iUcXZeaOwq3fERM) | 4:41 | 2022-01-05 | 2022-07-29 |
-| [cold/mess](https://open.spotify.com/track/7uhINGViZPygI2AljxO8KN) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [cold/mess](https://open.spotify.com/album/6FzicG6wlKHogiRaGAbvBK) | 4:41 | 2022-07-25 |  |
+| [cold/mess](https://open.spotify.com/track/4QVeAu5Sha4eGfPlGJPR69) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [cold/mess \(on piano\)](https://open.spotify.com/album/3AXu7GBasMntxZvZS7dL8g) | 4:41 | 2022-09-21 |  |
+| [cold/mess](https://open.spotify.com/track/7uhINGViZPygI2AljxO8KN) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [cold/mess](https://open.spotify.com/album/6FzicG6wlKHogiRaGAbvBK) | 4:41 | 2022-07-25 | 2022-11-12 |
 | [Cool Kids](https://open.spotify.com/track/4EARhoKrvwopHfqiEd4xSo) | [Kayan](https://open.spotify.com/artist/3lfolnS8yn0VWK2FKM0hWs) | [Cool Kids](https://open.spotify.com/album/2nFDQjOYZqRB7THcM5eEqs) | 2:52 | 2021-12-06 | 2022-08-11 |
 | [days](https://open.spotify.com/track/7xxk2elVJN3IjhbV3T8Shz) | [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2) | [days](https://open.spotify.com/album/0CFZJ9jU1NkaV14kEqrFvF) | 2:30 | 2022-01-05 |  |
 | [Dear Mind \(En Route\)](https://open.spotify.com/track/1zINTeMqxjb9UtMhOsIQPJ) | [Rachel Singh](https://open.spotify.com/artist/4yrsPV1KOPO7GTR1Dlds8V) | [Dear Mind \(En Route\)](https://open.spotify.com/album/4Q8UxMXgLhub4QoiE9c5Ff) | 3:54 | 2021-12-06 | 2022-01-06 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjoRs40XkRL.md) - [plain]
 
 > Unwind to the best Indian classical sounds out there.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,882 likes - 102 songs - 8 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,938 likes - 102 songs - 8 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjoRs40XkRL.md) - [plain]
 | 66 | [Sagariya](https://open.spotify.com/track/092NFcCnJaSbcZQd76IGSf) | [Bombay Bandook](https://open.spotify.com/artist/3VkYRrfqoEIhBfcHTvdYGs) | [Sagariya](https://open.spotify.com/album/1hDVhG2pylmO3ef4y15jD0) | 6:52 |
 | 67 | [Hamsadhwani](https://open.spotify.com/track/2kp7AnVKbDVZyrcRHjWvLB) | [Advaita](https://open.spotify.com/artist/4FMduZvsMYM69TKN3i0YRp) | [Grounded in Space](https://open.spotify.com/album/1yK7ntJYhALEey1VQTTrMw) | 6:16 |
 | 68 | [Nindiya Na Aaye](https://open.spotify.com/track/7ioAQhNCKwt4JyXLDQVLH1) | [Prathama Dey](https://open.spotify.com/artist/5EnfdD46Y3dkuPg30FQt5B), [Prajna Dutta](https://open.spotify.com/artist/4CFjungEFZLSKaGjl9su8I) | [Nindiya Na Aaye](https://open.spotify.com/album/0dO7G9X3n7psqVAmWjy8Hw) | 3:45 |
-| 69 | [One Family \(Live\)](https://open.spotify.com/track/5H5BQEnXcHV349qCuwm5Gy) | [Ricky Kej](https://open.spotify.com/artist/2pG6h1xYYv5j7fuxackcfl) | [Shiva \- Ricky Kej Live in India](https://open.spotify.com/album/2nLzw4gKPSvjuubgf4NyaG) | 4:00 |
+| 69 | [One Family](https://open.spotify.com/track/6U4MqwWt8qkyLAZREUN2YN) | [Ricky Kej](https://open.spotify.com/artist/2pG6h1xYYv5j7fuxackcfl), [Siddhartha Belmannu](https://open.spotify.com/artist/0M0qOys6eONaDvSRKNwKWc), [Lonnie Park](https://open.spotify.com/artist/34fDpfsOWv8Z8r7A1goy8N), [Alexis D'souza](https://open.spotify.com/artist/33vRHKiT2D7oiHPwOeJLT5) | [One Family](https://open.spotify.com/album/783ROhokY1Rxp2LOiV5V71) | 4:00 |
 | 70 | [Hans Dhuni](https://open.spotify.com/track/0PxuNctTRp08Bemc9CFL7T) | [Ustad Raees Khan](https://open.spotify.com/artist/5Obutzzc5UZP1l6t6jmjwh) | [Coke Studio Season 7](https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv) | 3:59 |
 | 71 | [Indian Summer](https://open.spotify.com/track/54ruOsJVivnYVW6SWmbPX6) | [Anoushka Shankar](https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU) | [Traces Of You](https://open.spotify.com/album/3JhWoZyK2xTHTbwVXyaleq) | 4:54 |
 | 72 | [Spinning](https://open.spotify.com/track/5ljHA0RktQzKcuIEw6CH6l) | [Advaita](https://open.spotify.com/artist/4FMduZvsMYM69TKN3i0YRp) | [The Silent Sea](https://open.spotify.com/album/3EnuabTWwljjKXRfjyePy3) | 6:39 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjoRs40XkRL.md) - [plain]
 | 101 | [Shiva Moon \(Prem Joshua & Maneesh de Moor's Moon Nectar Remix\)](https://open.spotify.com/track/0xU1OWWZdbmCjLWpC9YDau) | [Prem Joshua](https://open.spotify.com/artist/1Bs9FqmJBHrAJN6DLFIPt1) | [Dakini Lounge: Prem Joshua Remixed](https://open.spotify.com/album/3POYtJ1eftAtmn3VoZkc7A) | 8:14 |
 | 102 | [Tangerine Thumri \(Orange Turban Mix\)](https://open.spotify.com/track/1ZpDROkwHFYtpsRkBTG2Sr) | [Prem Joshua](https://open.spotify.com/artist/1Bs9FqmJBHrAJN6DLFIPt1), [Maneesh de Moor](https://open.spotify.com/artist/7CUmdcvfZJrSsg4jnNNwHA) | [Shiva Moon](https://open.spotify.com/album/1TtTFpcrxspPiuBsD7f1gT) | 7:12 |
 
-Snapshot ID: `MTY2MzkxMTM4MiwwMDAwMDAwMDgzOWZjNmRkZDdlMDliMjkzOTQ0NTM0YmNkYjA3Yzhi`
+Snapshot ID: `MTY2MzkxMTM4MiwwMDAwMDAwMGI0YmRkM2M5YzM2NjhhODJlZDc2YzE0MjQyMmZhMTZk`

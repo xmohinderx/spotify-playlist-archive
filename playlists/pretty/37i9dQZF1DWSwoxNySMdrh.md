@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwoxNySMdrh.md) - [plain]
 
 > Listen Korean indie queen BOL4's melting voice.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,217 likes - 77 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,269 likes - 77 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwoxNySMdrh.md) - [plain]
 | 29 | [Chocolate Drive 초콜릿](https://open.spotify.com/track/0z4PaEdeIpX4yJPNBdN34x) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Full Album RED PLANET](https://open.spotify.com/album/5bA5ItGeDXS2XIt9axBSwL) | 3:10 |
 | 30 | [Freesia 프리지아](https://open.spotify.com/track/0KX2V65DSgo9ii3A0rJAPw) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Full Album RED PLANET](https://open.spotify.com/album/5bA5ItGeDXS2XIt9axBSwL) | 3:06 |
 | 31 | [Picnic](https://open.spotify.com/track/1MZ1Y6rIbt008t1TOhHlt5) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Puberty BookⅠ Bom](https://open.spotify.com/album/0JkeId5EsudMnCK3UHe7cg) | 3:04 |
-| 32 | [Stars over me](https://open.spotify.com/track/7e0ped11lt3lOukL7c9y0z) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [私だけ、春](https://open.spotify.com/album/28M9D7jC927PJdl0eoOEnJ) | 3:22 |
+| 32 | [Stars over me](https://open.spotify.com/track/6DUm0mHHRdQSaVMYYstk5x) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Puberty BookⅠ Bom](https://open.spotify.com/album/0JkeId5EsudMnCK3UHe7cg) | 3:20 |
 | 33 | [Blue](https://open.spotify.com/track/2oAktpQukxopxpFMbmG6JZ) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Red Diary Page.1](https://open.spotify.com/album/0d3mf5fBaIBbozCgeEI9AE) | 3:06 |
 | 34 | [Fix me](https://open.spotify.com/track/6bSkF997fC5HQz6BuEZkXV) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Red Diary Page.1](https://open.spotify.com/album/0d3mf5fBaIBbozCgeEI9AE) | 3:06 |
 | 35 | [From the beginning You and I](https://open.spotify.com/track/2t1WqERs4wHZ1NfEfetbSr) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [The Emperor: Owner of the Mask \(MBC Drama\) OST Part.2](https://open.spotify.com/album/2fG57s6vQIw6PkGsOahggY) | 3:24 |
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwoxNySMdrh.md) - [plain]
 | 76 | [Stars over me](https://open.spotify.com/track/7e0ped11lt3lOukL7c9y0z) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [私だけ、春](https://open.spotify.com/album/28M9D7jC927PJdl0eoOEnJ) | 3:22 |
 | 77 | [宇宙をあげる](https://open.spotify.com/track/6yyitDguIfosrN4cY3hVkn) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [RED PLANET \(JAPAN EDITION\)](https://open.spotify.com/album/3H2mYPNMNlxP0526fFQdLU) | 3:36 |
 
-Snapshot ID: `MTY1MDQ1Nzk2MSwwMDAwMDAwMDYyOTkwZGJmY2U2MDRmMzI3OThmOGViOGM4NmUwOGNm`
+Snapshot ID: `MTY1MDQ1Nzk2MSwwMDAwMDAwMDYwNjI3MDQyYmUwODU0Yzc3MmE0ZDljYThjMjI0NTQ0`

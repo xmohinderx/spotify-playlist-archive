@@ -1762,6 +1762,24 @@
     },
     {
       "album": {
+        "name": "Rave & Roses",
+        "url": "https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219668,
+      "name": "Calm Down",
+      "url": "https://open.spotify.com/track/3BnDvpeuGOj21Ir2aVEtQo"
+    },
+    {
+      "album": {
         "name": "Calm Down (with Selena Gomez)",
         "url": "https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp"
       },
@@ -1941,7 +1959,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-06",
+      "date_removed": null,
       "duration_ms": 266280,
       "name": "Chauffeur",
       "url": "https://open.spotify.com/track/6V4jmeqDnknIYFaX738Iik"
@@ -2035,7 +2053,7 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 236795,
       "name": "Circo Loco",
       "url": "https://open.spotify.com/track/7GeTsDIc5ykNB6lORO6Cee"
@@ -3438,6 +3456,28 @@
     },
     {
       "album": {
+        "name": "Eu Gosto Assim (Ao Vivo)",
+        "url": "https://open.spotify.com/album/704T1TAZMGGokh8HyNaMbO"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Mioto",
+          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
+        },
+        {
+          "name": "Mari Fernandez",
+          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148800,
+      "name": "Eu Gosto Assim - Ao Vivo",
+      "url": "https://open.spotify.com/track/4ASA1PZyWGbuc4d9N8OAcF"
+    },
+    {
+      "album": {
         "name": "EU J\u00c1 SOFRI POR AMOR MAS N\u00c3O SOFRO MAIS",
         "url": "https://open.spotify.com/album/5YS88OklifkV7ULH1Qssrb"
       },
@@ -4326,7 +4366,7 @@
     },
     {
       "album": {
-        "name": "Gorillaz (feat. L7NNON)",
+        "name": "Gorillaz",
         "url": "https://open.spotify.com/album/6fUyo3fkgWK66QRXO6VCjF"
       },
       "artists": [
@@ -4343,7 +4383,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 218288,
-      "name": "Gorillaz (feat. L7NNON)",
+      "name": "Gorillaz",
       "url": "https://open.spotify.com/track/3nX9NxKOHrxhtA45jRFyAd"
     },
     {
@@ -7263,7 +7303,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 174782,
       "name": "Midnight Rain",
       "url": "https://open.spotify.com/track/3rWDp9tBPQR9z6U5YyRSK4"
@@ -8353,7 +8393,7 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 261543,
       "name": "On BS",
       "url": "https://open.spotify.com/track/34tz0eDhGuFErIuW3q4mPX"
@@ -10839,7 +10879,7 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 214588,
       "name": "Spin Bout U",
       "url": "https://open.spotify.com/track/2ZL7WZcjuYKi1KUDtp4kCC"
@@ -12053,7 +12093,7 @@
       ],
       "date_added": "2022-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-04",
+      "date_removed": null,
       "duration_ms": 149076,
       "name": "Tubar\u00e3o Te Amo",
       "url": "https://open.spotify.com/track/4UldILPVpnZO69ffK4B9aA"

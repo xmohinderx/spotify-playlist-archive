@@ -4,7 +4,7 @@
 
 > Sit back with this fun and diverse mix of acoustic covers.
 
-284 songs - 17 hr 21 min - [published](https://open.spotify.com/playlist/56MimGQfv13ynX1TQdHFIl)
+285 songs - 17 hr 25 min - [published](https://open.spotify.com/playlist/56MimGQfv13ynX1TQdHFIl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -256,6 +256,7 @@
 | [The Joke](https://open.spotify.com/track/6KLO6Ycu2Y03i3nLw6PgyW) | [Nicole Serrano](https://open.spotify.com/artist/1Q3Bf69OLRJEZBigSjtUs5) | [The Joke](https://open.spotify.com/album/3NYJFYtOLRXbDJzAHN3eie) | 4:03 | 2022-05-27 |  |
 | [The Middle](https://open.spotify.com/track/6gSez5Tx9i2vW5H5oHMEdM) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [The Middle](https://open.spotify.com/album/6hai0956WFUXCZ5GlDtvgW) | 3:43 | 2021-11-12 |  |
 | [The Night We Met](https://open.spotify.com/track/4XgSJltrqGvZQaiUpcgfOi) | [Colin & Caroline](https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm), [Hope Morgan](https://open.spotify.com/artist/6PP1a619tR9xW3lHqSMmm5) | [The Night We Met](https://open.spotify.com/album/57M1iqr3AzXL4lobiMYUmi) | 3:58 | 2021-11-12 |  |
+| [The Only Exception](https://open.spotify.com/track/6yBVp6DFh899CRaKww95Hr) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [The Only Exception](https://open.spotify.com/album/6ssR342wWYZwPjYG35AWbG) | 4:22 | 2022-11-11 |  |
 | [The Sweet Escape](https://open.spotify.com/track/0UPYSuHKAZq6diZrCaBAsW) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [The Sweet Escape](https://open.spotify.com/album/3jCd27MDogNResJz6axMOP) | 2:46 | 2021-11-12 |  |
 | [The Sweetest Taboo](https://open.spotify.com/track/76gehpLHsVLab7fnagEhUf) | [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [The Sweetest Taboo](https://open.spotify.com/album/1eL5u5pLXLFgHlrwano6TV) | 2:52 | 2021-11-12 |  |
 | [Time After Time](https://open.spotify.com/track/5JEM7lT9uSyhUsKFXwGfSm) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Time After Time](https://open.spotify.com/album/5NovnTHEYZjadICACf4yPo) | 2:50 | 2022-07-27 |  |

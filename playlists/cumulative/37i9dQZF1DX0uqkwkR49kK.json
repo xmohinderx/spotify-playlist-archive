@@ -1136,6 +1136,24 @@
     },
     {
       "album": {
+        "name": "Thank Christ For The Bomb (50th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/4eqjBQnVHdo98Xg2CnYRn5"
+      },
+      "artists": [
+        {
+          "name": "The Groundhogs",
+          "url": "https://open.spotify.com/artist/0c3RL3vVEgfxD6VBv7CGak"
+        }
+      ],
+      "date_added": "2018-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324493,
+      "name": "Garden - 2003 Remastered Version",
+      "url": "https://open.spotify.com/track/04qmk935CEZ1fUmPV0rgwU"
+    },
+    {
+      "album": {
         "name": "Thank Christ For The Bomb",
         "url": "https://open.spotify.com/album/5AnSUP7g2xmTzamSux1F7K"
       },
@@ -1165,7 +1183,7 @@
       ],
       "date_added": "2018-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 324493,
       "name": "Garden - 2003 Remastered Version",
       "url": "https://open.spotify.com/track/5mOp43r4ByLSgYjTtLSqVd"
@@ -1309,10 +1327,28 @@
       ],
       "date_added": "2018-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 285760,
       "name": "Karn Evil 9 1st Impression, Pt. 2 - 2014 Remaster",
       "url": "https://open.spotify.com/track/0nDQu5i6B93GvUJH8iJ0y9"
+    },
+    {
+      "album": {
+        "name": "The Anthology",
+        "url": "https://open.spotify.com/album/0frleTv0z2bVtd6ZwAr2LV"
+      },
+      "artists": [
+        {
+          "name": "Emerson, Lake & Palmer",
+          "url": "https://open.spotify.com/artist/0nCiidE5GgDrc5kWN3NZgZ"
+        }
+      ],
+      "date_added": "2018-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289133,
+      "name": "Karn Evil 9 1st Impression, Pt. 2 - 2014 Remaster",
+      "url": "https://open.spotify.com/track/7kwH1GDFeVL01QNhGS2Ele"
     },
     {
       "album": {
@@ -2774,6 +2810,24 @@
     },
     {
       "album": {
+        "name": "The Best of Emerson Lake & Palmer",
+        "url": "https://open.spotify.com/album/3uYhG442MU4ca3ZsovlGVh"
+      },
+      "artists": [
+        {
+          "name": "Emerson, Lake & Palmer",
+          "url": "https://open.spotify.com/artist/0nCiidE5GgDrc5kWN3NZgZ"
+        }
+      ],
+      "date_added": "2018-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 534733,
+      "name": "Trilogy",
+      "url": "https://open.spotify.com/track/4Aj68wDjVrplT35jk8wkeE"
+    },
+    {
+      "album": {
         "name": "Trilogy (Deluxe)",
         "url": "https://open.spotify.com/album/4Swf9iftTTaoEPbPXyxxUQ"
       },
@@ -2785,7 +2839,7 @@
       ],
       "date_added": "2018-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 532026,
       "name": "Trilogy - 2015 Remaster",
       "url": "https://open.spotify.com/track/0TRzbNlR34FoO3HjHvb8FX"

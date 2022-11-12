@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7fmFWnsK8n.md) - [plain]
 
 > アイドリッシュセブンの煌びやかな物語を彩る楽曲たちを1つのプレイリストに。Enjoy Music from the game & anime series of “IDOLiSH 7”!  ©アイドリッシュセブン
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,129 likes - 70 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,156 likes - 70 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,13 +70,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7fmFWnsK8n.md) - [plain]
 | 60 | [DIAMOND FUSION](https://open.spotify.com/track/4Gjmzcq9XJReCWl4wiyULk) | [TRIGGER](https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH) | [Heavenly Visitor / DIAMOND FUSION](https://open.spotify.com/album/2zJdW8ocEayG7miC7CZaIL) | 3:57 |
 | 61 | [Leopard Eyes](https://open.spotify.com/track/1pBQJ0hZyFIwKCayM9nISj) | [TRIGGER](https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH) | [REGALITY](https://open.spotify.com/album/1lYrz8KfQ6O2sb31UMtTrU) | 4:32 |
 | 62 | [My Precious World](https://open.spotify.com/track/2BBSxqfQ0Tl24L9smDc7Yb) | [TRIGGER](https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH) | [My Precious World](https://open.spotify.com/album/7Hl7VHWsWdBRFe7pS2OrXk) | 3:37 |
-| 63 | [Mr.AFFECTiON](https://open.spotify.com/track/2vGVhtVqqhldFTbBGFtzZL) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [Mr.AFFECTiON](https://open.spotify.com/album/7JrXymArQDokcZIEuGP0rm) | 4:42 |
-| 64 | [DiSCOVER THE FUTURE](https://open.spotify.com/track/1996GO8XdzaIzstVxlQ6VT) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [DiSCOVER THE FUTURE](https://open.spotify.com/album/3T3IUShTLoWT6DCxs9U0dF) | 3:41 |
+| 63 | [DiSCOVER THE FUTURE](https://open.spotify.com/track/1996GO8XdzaIzstVxlQ6VT) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [DiSCOVER THE FUTURE](https://open.spotify.com/album/3T3IUShTLoWT6DCxs9U0dF) | 3:41 |
+| 64 | [Mr.AFFECTiON](https://open.spotify.com/track/2vGVhtVqqhldFTbBGFtzZL) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [Mr.AFFECTiON](https://open.spotify.com/album/7JrXymArQDokcZIEuGP0rm) | 4:42 |
 | 65 | [Poisonous Gangster](https://open.spotify.com/track/6ofggKiHtSyvR2ZMoDDkV3) | [ŹOOĻ](https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol) | [Poisonous Gangster](https://open.spotify.com/album/4kmAe9Rr3hKdtBrG2pUGVd) | 3:45 |
 | 66 | [太陽のEsperanza](https://open.spotify.com/track/328HshC1dgRylZWfoBYLqC) | [Re:vale](https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU) | [Re:al Axis](https://open.spotify.com/album/1GL2a2l2jLE3jPcFMn0zQT) | 3:52 |
 | 67 | [Start Rec](https://open.spotify.com/track/1y405pTIwFqIThLlvSH7GA) | [Re:vale](https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU) | [ココロ、ハレ晴レ](https://open.spotify.com/album/1m2PwqWbu5EjHRxKTgz5mE) | 4:44 |
 | 68 | [激情](https://open.spotify.com/track/4qHyUISAAOWmdZvARpq5Y4) | [Re:vale](https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU) | [Re:al Axis](https://open.spotify.com/album/1GL2a2l2jLE3jPcFMn0zQT) | 4:23 |
-| 69 | [SILVER SKY](https://open.spotify.com/track/6oF3fTNb3ZmP9HQb5dzsuU) | [Re:vale](https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU) | [SILVER SKY](https://open.spotify.com/album/0Rrg4JsoBPX6BuCX0mhy1I) | 4:03 |
-| 70 | [NO DOUBT](https://open.spotify.com/track/3a1YngFQXMRL0qyYUKVdGt) | [Re:vale](https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU) | [NO DOUBT](https://open.spotify.com/album/4rWk8ApWuufjAhA6KuXveM) | 4:51 |
+| 69 | [In the meantime](https://open.spotify.com/track/6n1zhNf9zUqffLObNEDRUH) | [TRIGGER](https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH) | [REGALITY](https://open.spotify.com/album/1lYrz8KfQ6O2sb31UMtTrU) | 4:03 |
+| 70 | [SILVER SKY](https://open.spotify.com/track/6oF3fTNb3ZmP9HQb5dzsuU) | [Re:vale](https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU) | [SILVER SKY](https://open.spotify.com/album/0Rrg4JsoBPX6BuCX0mhy1I) | 4:03 |
 
-Snapshot ID: `MTY2NDg5NTYwMCwwMDAwMDAwMGUyNzgyMTYwZmQxMDZjZjM4MjQ1OTVkZjZjMzgwYWZk`
+Snapshot ID: `MTY2NDg5NTYwMCwwMDAwMDAwMDYyYjMyZTRmNmEwYTM3MTYxYWU5NTJlODVlMGVmYWNi`

@@ -1508,6 +1508,24 @@
     },
     {
       "album": {
+        "name": "Latin Halloween",
+        "url": "https://open.spotify.com/album/43gbSK7c6LfANqf1YwALmW"
+      },
+      "artists": [
+        {
+          "name": "Misterio",
+          "url": "https://open.spotify.com/artist/1AR7DhOaS04R0L8SubO5ES"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102226,
+      "name": "Vampirella",
+      "url": "https://open.spotify.com/track/46XIYDknHnw6u15WLWjsVg"
+    },
+    {
+      "album": {
         "name": "10 Year Old Zombie",
         "url": "https://open.spotify.com/album/6D0KOO5zdjmfXH9umBIru8"
       },
@@ -1519,7 +1537,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 102933,
       "name": "Vampirella",
       "url": "https://open.spotify.com/track/3I2KYR9fGoHweDesKZ6t26"

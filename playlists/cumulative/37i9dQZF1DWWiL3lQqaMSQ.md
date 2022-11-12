@@ -4,7 +4,7 @@
 
 > All of the nominees in one playlist! More info on this year's event can be found at <a href="http://www.stellarawards.com">stellarawards.com</a>.
 
-68 songs - 5 hr 42 min - [published](https://open.spotify.com/playlist/3VeowKesVCgXddAbbsHRxd)
+69 songs - 5 hr 46 min - [published](https://open.spotify.com/playlist/3VeowKesVCgXddAbbsHRxd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [Have It All](https://open.spotify.com/track/6h2tyhpxtw8QR7IWpLFdBV) | [Fresh Start Worship](https://open.spotify.com/artist/68DSgQk6h3W5oBCsWIgmWG), [Sarai](https://open.spotify.com/artist/4HmMtATYC7WoVVbvEAIfrR) | [Have It All](https://open.spotify.com/album/4TvhlCVIzUi74MhG4N7LqG) | 3:34 | 2020-09-08 |  |
 | [He Worked It Out \- Live](https://open.spotify.com/track/4U5HnmNq0bRbUdsITMv46V) | [The Tommies Reunion](https://open.spotify.com/artist/41WuewTCHqFQSvRdkyWhjT) | [The Tommies Reunion \(Live\)](https://open.spotify.com/album/4T7P2uJYdsTgCllyJdITY4) | 5:09 | 2020-09-08 |  |
 | [Healing](https://open.spotify.com/track/7zAbUXqtR1IB7PUMG3KeBu) | [Deborah Joy Winans](https://open.spotify.com/artist/64ol6da07DF7satZ0IQhwo) | [Greenleaf, Season 3 \(Music from the Original TV Series\)](https://open.spotify.com/album/4HBxCMRCyfxHhoW1vFiK2i) | 4:26 | 2020-09-08 |  |
-| [I Got It \- Bonus Track](https://open.spotify.com/track/6y8ZVdDFBly8GJhFJAM97L) | [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS) | [I Got It: Singles Ministry, Vol\. 1](https://open.spotify.com/album/5jxxVFeOULCVZR5K3n9Zwa) | 4:07 | 2020-09-08 |  |
+| [I Got It](https://open.spotify.com/track/10pOcnlNCuyVCLBr4M7Nis) | [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS), [Kerry Douglas](https://open.spotify.com/artist/4c2cuY9TIk79ilLtjwJXL4) | [Big: Freedom Session \(LIVE\)](https://open.spotify.com/album/6esoWZzd8PZHYS40n4MWbo) | 4:07 | 2020-09-08 |  |
+| [I Got It \- Bonus Track](https://open.spotify.com/track/6y8ZVdDFBly8GJhFJAM97L) | [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS) | [I Got It: Singles Ministry, Vol\. 1](https://open.spotify.com/album/5jxxVFeOULCVZR5K3n9Zwa) | 4:07 | 2020-09-08 | 2022-11-12 |
 | [I Love Him](https://open.spotify.com/track/0m5RnG9Zaxi6ierwUtrOIh) | [Renee Spearman](https://open.spotify.com/artist/4UhXj07SO0QVDVJlj6sMcW), [Hezekiah Walker](https://open.spotify.com/artist/0pXt4sMs2oRnt528LTYgyd), [Dr\. Holly Carter](https://open.spotify.com/artist/3mZT0ejcCmnNswl8HXOxNA) | [I Love Him](https://open.spotify.com/album/5yLNbxR3Ho43FXKGU997lf) | 3:55 | 2020-09-08 |  |
 | [I Made It Out \(Radio Edit\)](https://open.spotify.com/track/23XInhCvpwCVcMZhzfNgrq) | [John P\. Kee](https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl), [Zacardi Cortez](https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp) | [I Made It Out](https://open.spotify.com/album/2UZ50ykEFFtYVe7Tg0b6N4) | 4:58 | 2020-09-08 |  |
 | [I See Miracles](https://open.spotify.com/track/4c11HmomjkYU2wf9maxf17) | [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [I See Miracles](https://open.spotify.com/album/09PFJeifkOxQbhkhV8igtM) | 4:20 | 2020-09-08 |  |

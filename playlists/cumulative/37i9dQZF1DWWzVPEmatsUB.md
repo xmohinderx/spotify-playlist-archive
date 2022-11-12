@@ -4,7 +4,7 @@
 
 > Have a quiet morning with this mix of something familiar and something new.
 
-290 songs - 17 hr 43 min - [published](https://open.spotify.com/playlist/28RD6nYufPNLui4c84uOdv)
+291 songs - 17 hr 47 min - [published](https://open.spotify.com/playlist/28RD6nYufPNLui4c84uOdv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,7 +218,7 @@
 | [Perfect Day](https://open.spotify.com/track/0cpdfHdRIhp0MQ9Cxk1MDV) | [Melissa Polinar](https://open.spotify.com/artist/2O6S01fSY6YHfZT6qLAgxG), [Glenn Lumanta](https://open.spotify.com/artist/1ZrIkUK72f4v7tYetjxxme) | [Perfect Day](https://open.spotify.com/album/2V5GaU7Cb8RtmAd7Qs9zWL) | 3:48 | 2022-06-10 | 2022-07-16 |
 | [Petrified](https://open.spotify.com/track/0G41EUi3xiwUR6iOtXAQCz) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:17 | 2022-04-08 |  |
 | [Piece of Me](https://open.spotify.com/track/5CbcqhKsBbiOsjdkh5Hsea) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Piece of Me](https://open.spotify.com/album/76yrGYfxRIv1FnVU01IhdS) | 3:42 | 2020-10-17 | 2022-04-18 |
-| [Piece Of Me](https://open.spotify.com/track/63hmrFUS4mvbiWzFP9u2LK) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Piece of Me](https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB) | 3:44 | 2020-10-17 |  |
+| [Piece Of Me](https://open.spotify.com/track/63hmrFUS4mvbiWzFP9u2LK) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Piece of Me](https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB) | 3:44 | 2020-10-17 | 2022-11-12 |
 | [Pills](https://open.spotify.com/track/2fHOiCZWlGwLCEJx1Mpn3z) | [asiatic.wav](https://open.spotify.com/artist/3tGCfr3ALXtQrYHPOm9OTx), [Thomas Ng](https://open.spotify.com/artist/2ZeeJPDvqzQ7c8iG3rRsyc), [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [Pills](https://open.spotify.com/album/3PX7TASSTR0GE1TjHD246d) | 3:20 | 2022-04-29 |  |
 | [Polite](https://open.spotify.com/track/3i4u18kxSsy56LUYqlwCzJ) | [Katie Buchanan](https://open.spotify.com/artist/45JkiNZMtPXDGoKXzxoPE1) | [Are You Mad Yet?](https://open.spotify.com/album/5hqt9vPCSmnDdcJMX1VG0h) | 3:23 | 2022-03-18 | 2022-07-29 |
 | [Pretty Girl Hi Reimagined](https://open.spotify.com/track/6aSdfeuUMtk7XOEHn93kkP) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Introspection Reimagined](https://open.spotify.com/album/3H1v8w26UVp4tylel4cRrr) | 3:33 | 2021-04-01 | 2022-07-29 |
@@ -251,6 +251,7 @@
 | [Static Feels](https://open.spotify.com/track/717JJIF2yw3dV3XaUr0w7c) | [Delta Maid](https://open.spotify.com/artist/3U3DcUha9m8BQGBhe338S9) | [Static Feels](https://open.spotify.com/album/1Z0YVTppPlqx1eX1zkFqAD) | 2:57 | 2021-04-23 | 2022-07-29 |
 | [Stay](https://open.spotify.com/track/4zu19OtPZq8ljWVhPthram) | [Abraham Alexander](https://open.spotify.com/artist/2f6fW5uWhqbEDXDK6IGirN) | [Stay](https://open.spotify.com/album/1Thc6xEDDKf6LsyE55ytOv) | 3:49 | 2020-10-17 | 2022-07-29 |
 | [Stay](https://open.spotify.com/track/0PoOUab1FVY2r1d3MlnF7S) | [Sarah Close](https://open.spotify.com/artist/5nQybVOGIy5TZ1XK9CaDiS) | [And Now, We're Shining](https://open.spotify.com/album/6hsl8s8m3Le812hnQfrNAv) | 3:19 | 2020-10-17 | 2022-04-14 |
+| [Stay The Same](https://open.spotify.com/track/2gTjoqM7H982Tt4pZlqvK9) | [Cindy Zhang](https://open.spotify.com/artist/7jcxdl5JqHWfuq00QC6egz) | [Songs for Rainy Days](https://open.spotify.com/album/0rz68chCF7fIUSkfsAkUCD) | 3:41 | 2022-11-11 |  |
 | [Still Blue](https://open.spotify.com/track/24kEcxphKufCs6KNPkyf5K) | [Cypress](https://open.spotify.com/artist/0J7CXD5MWLqn3pcTDoGEhu) | [A Fine Line](https://open.spotify.com/album/3yp0ICS4BC2ZizQ0k8yQCV) | 5:00 | 2020-10-17 | 2022-07-25 |
 | [Storms](https://open.spotify.com/track/2SLUYFuTP916sEvAUDjdDx) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Storms](https://open.spotify.com/album/2iUeeOtZyp0oDyvbESnnwT) | 2:56 | 2020-10-17 | 2022-07-29 |
 | [Strangers](https://open.spotify.com/track/00u9VXj7jnmE60OUtFkZpr) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Only Ticket Home](https://open.spotify.com/album/6JpQ684RhKhJJK9ZDIDT88) | 3:02 | 2020-10-17 | 2022-04-19 |

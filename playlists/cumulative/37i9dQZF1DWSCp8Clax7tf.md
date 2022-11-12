@@ -4,7 +4,7 @@
 
 > The Women who put Country Music on the map\. Cover: Loretta Lynn
 
-120 songs - 6 hr 43 min - [published](https://open.spotify.com/playlist/1Tu1mArc6Ym1uHBqG7xX3z)
+122 songs - 6 hr 49 min - [published](https://open.spotify.com/playlist/1Tu1mArc6Ym1uHBqG7xX3z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [Bye\-Bye](https://open.spotify.com/track/2ntHn11Aeg0foJEqByRybL) | [Jo Dee Messina](https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3) | [All\-Time Greatest Hits](https://open.spotify.com/album/2W0uJ9ehsjiInD1CDvVHHX) | 3:20 | 2021-10-22 |  |
 | [Can I Sleep In Your Arms](https://open.spotify.com/track/5QCRmgCNVFTrGWUoIA2Y7u) | [Jeannie Seely](https://open.spotify.com/artist/0i9f82nIFjrLnnsf2YX3vY) | [20 All Time Greatest Hits](https://open.spotify.com/album/0OLuf06Au1Tfr6n7h7Wx5l) | 3:07 | 2022-03-01 |  |
 | [Coal Miner's Daughter](https://open.spotify.com/track/1em1d8w28YNTYz5U3NNFc1) | [Loretta Lynn](https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl) | [20 \#1's: Classic Country](https://open.spotify.com/album/2kCdzYHccdKQbPUA6Xkwxp) | 3:01 | 2021-10-22 | 2022-07-29 |
-| [Coal Miner's Daughter \- Single Version](https://open.spotify.com/track/3mM14WXoPaLRjjkmxHe99L) | [Loretta Lynn](https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl) | [Coal Miner's Daughter](https://open.spotify.com/album/2SayIIdZkrtb9I4BbdnyOr) | 3:00 | 2022-03-18 |  |
+| [Coal Miner's Daughter \- Single Version](https://open.spotify.com/track/48YTGYDGj7sJv7Gj0b5DrZ) | [Loretta Lynn](https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl) | [Happy Mother's Day Y'all](https://open.spotify.com/album/7de0tgPmcZOZmxQ5DwyT4B) | 2:58 | 2022-03-18 |  |
+| [Coal Miner's Daughter \- Single Version](https://open.spotify.com/track/3mM14WXoPaLRjjkmxHe99L) | [Loretta Lynn](https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl) | [Coal Miner's Daughter](https://open.spotify.com/album/2SayIIdZkrtb9I4BbdnyOr) | 3:00 | 2022-03-18 | 2022-11-12 |
 | [Cowboy Take Me Away](https://open.spotify.com/track/3rXCZRMiMZp0feGcYXpwYX) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Fly](https://open.spotify.com/album/3y6G5El2I6QrJA9BdfAbqA) | 4:47 | 2021-10-22 |  |
 | [Crazy \- Single Version](https://open.spotify.com/track/2vILNBzNcHRUqoqaAh1mTu) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK), [The Jordanaires](https://open.spotify.com/artist/6CXezToiGS8K6jr9kr8Muv) | [Country Queens](https://open.spotify.com/album/6WANlC3gkajxLjCmaCNJdR) | 2:41 | 2022-03-18 |  |
 | [Crazy \- Single Version](https://open.spotify.com/track/4DuBNU1r50XEv4dvsrQcpY) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK), [The Jordanaires](https://open.spotify.com/artist/6CXezToiGS8K6jr9kr8Muv) | [Gold](https://open.spotify.com/album/3kwl00I9hJSfwfWc4T3NAx) | 2:42 | 2021-10-22 | 2022-07-29 |
@@ -125,7 +126,8 @@
 | [XXX's And OOO's \(An American Girl\)](https://open.spotify.com/track/7b05yUcjnxPDUhWNL4nE3K) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Greatest Hits](https://open.spotify.com/album/2p6Kod7VSlWtuQG5N6K2qF) | 2:47 | 2021-10-22 |  |
 | [You Were Mine](https://open.spotify.com/track/2qdVHdkLxKntNjPh3Ssz7s) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Wide Open Spaces](https://open.spotify.com/album/11Rni6y5dnNo6NRVuxltIj) | 3:37 | 2021-10-22 |  |
 | [You Win My Love](https://open.spotify.com/track/2lKA9bNdd4kAoeHiufa0aK) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [The Woman In Me](https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK) | 4:25 | 2021-10-22 |  |
-| [You're Still The One](https://open.spotify.com/track/1wb4P4F0sxAQ2KXrRvsx6n) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9) | 3:32 | 2022-03-18 |  |
+| [You're Still The One](https://open.spotify.com/track/1wb4P4F0sxAQ2KXrRvsx6n) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9) | 3:32 | 2022-03-18 | 2022-11-12 |
+| [You're Still The One](https://open.spotify.com/track/3fOEldPK2dTA6C12PzrDtT) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Cleaning At Home \- Pop Edition](https://open.spotify.com/album/6APP9HoLEQFYYySdwgxC1G) | 3:32 | 2022-03-18 |  |
 | [You're Still The One](https://open.spotify.com/track/7wCH9DbgRs7ujHeqNy6oAS) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/0vOj0JVKv2bobFBBUTjgQF) | 3:32 | 2021-10-22 | 2022-07-29 |
 | [Your Good Girl's Gonna Go Bad](https://open.spotify.com/track/2OFXgZXGzMwDQScl2qFavV) | [Tammy Wynette](https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id) | [The Essential Tammy Wynette](https://open.spotify.com/album/5lmYjjjnij8ug8WrEoVQK7) | 2:01 | 2021-10-22 |  |
 

@@ -4,7 +4,7 @@
 
 > Removing the barriers of gender and genre, these are the brilliant sounds of transgender, non\-binary and gender\-fluid artists\. Cover: G Flip
 
-175 songs - 9 hr 53 min - [published](https://open.spotify.com/playlist/3TfPbe8v3NXKs8gIFWRfn6)
+177 songs - 10 hr 1 min - [published](https://open.spotify.com/playlist/3TfPbe8v3NXKs8gIFWRfn6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,8 +106,9 @@
 | [Love Me More](https://open.spotify.com/track/16MQETUgqXwY4lZcyRafU3) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Love Me More](https://open.spotify.com/album/59NkDiHvjWqXHHIxzoWAUe) | 3:10 | 2022-05-31 |  |
 | [Loved By U](https://open.spotify.com/track/1SldN7GTd0ADTjspv96wCl) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [Loved By U](https://open.spotify.com/album/3ZWTn4QQX16aHY64yVeC1D) | 3:27 | 2022-04-13 |  |
 | [macrodosing \- Spotify Singles](https://open.spotify.com/track/7BDQqjYCBiqtEuDzWtUaln) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [macrodosing \- Spotify Singles](https://open.spotify.com/album/5TGRGz8e1vdknsuShTrBZr) | 2:50 | 2021-10-05 | 2022-06-17 |
+| [Malibu](https://open.spotify.com/track/02w1bcPNTPrF06IsMoQxUc) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Cold Heart](https://open.spotify.com/album/2ub4hh8QvhlDh9MzsAdzF3) | 3:11 | 2022-07-14 |  |
 | [Malibu](https://open.spotify.com/track/31k41EAntOsjbRBcAASfiL) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Malibu](https://open.spotify.com/album/7AiqBnEFt4gCA9XpKUoZRl) | 3:11 | 2021-10-05 | 2022-07-29 |
-| [Malibu](https://open.spotify.com/track/7G0tY4ErguYZpP6nQ6Qcnc) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Malibu](https://open.spotify.com/album/5wtQMwjNEy1x2OIkUIz5Lk) | 3:11 | 2022-07-14 |  |
+| [Malibu](https://open.spotify.com/track/7G0tY4ErguYZpP6nQ6Qcnc) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Malibu](https://open.spotify.com/album/5wtQMwjNEy1x2OIkUIz5Lk) | 3:11 | 2022-07-14 | 2022-11-12 |
 | [Mama Told Me](https://open.spotify.com/track/5hO0jrFAVdZcVbfj4Y6VFR) | [Alex Newell](https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN) | [Mama Told Me](https://open.spotify.com/album/2EGmmPZw7m8FoWz5KW6SGN) | 2:43 | 2021-10-05 | 2022-07-15 |
 | [Man To Man](https://open.spotify.com/track/4C9DiRUDbryWo0FRjozaoo) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u) | [Flamboyant](https://open.spotify.com/album/4svcCm5yRZtKE0tXn4n1cn) | 3:17 | 2021-10-05 |  |
 | [Mannish Boy](https://open.spotify.com/track/4P8w7rdtAHEibetAqD8aF9) | [imbi](https://open.spotify.com/artist/2IHmdcnsjh89cIaDcVxTuF) | [Mannish Boy](https://open.spotify.com/album/4bv0aDc9XUkx9UcxuzR4p2) | 4:47 | 2022-07-14 |  |
@@ -133,8 +134,9 @@
 | [Perfect Day](https://open.spotify.com/track/3as34NSXSAq8GII0L2mpq2) | [RVG](https://open.spotify.com/artist/4a2c6VZMfp0CdNg1JgSPR9) | [Feral](https://open.spotify.com/album/3CG7xLmHCRCpwpkM8Z57DV) | 3:09 | 2021-10-05 | 2022-07-29 |
 | [Pills & Good Advice](https://open.spotify.com/track/7mVua1NkDiqHpy5YDkUCfu) | [Left at London](https://open.spotify.com/artist/3xPCFC8f7U3raEXOXQ3MrE) | [t.i.a.p.f.y.h.](https://open.spotify.com/album/3AmtZIC01fVMxFCGIIlMzO) | 10:13 | 2022-03-04 |  |
 | [Precious and Perfect](https://open.spotify.com/track/4pxxxqnaDQZMEHWS9AP5gD) | [Sports Bra](https://open.spotify.com/artist/3U4YNgmMwXjWfIt4UTNm4b) | [Talk It Out](https://open.spotify.com/album/2Pd2r2Lif7ChcLIlZNPG61) | 3:00 | 2021-10-05 |  |
+| [Pretty Lady](https://open.spotify.com/track/4o21k4S4YoueaUfiKkImea) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Pretty Lady](https://open.spotify.com/album/6GvxhHWo3EyQLW94ftqtoz) | 4:37 | 2022-07-14 |  |
 | [Pretty Lady](https://open.spotify.com/track/3KJBV5kgbjswZD8JIqtLHt) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Terra Firma](https://open.spotify.com/album/5cB5c50EJjxKTEnA599RCm) | 4:39 | 2022-07-14 | 2022-07-29 |
-| [Pretty Lady](https://open.spotify.com/track/77R5bq7AvzIevi8wicB3Oz) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Terra Firma](https://open.spotify.com/album/6CubvryZSNI5UsrftXJqhK) | 4:39 | 2022-07-14 |  |
+| [Pretty Lady](https://open.spotify.com/track/77R5bq7AvzIevi8wicB3Oz) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Terra Firma](https://open.spotify.com/album/6CubvryZSNI5UsrftXJqhK) | 4:39 | 2022-07-14 | 2022-11-12 |
 | [Prosecco](https://open.spotify.com/track/4rrEmelWLx5GkbpKTFWbcx) | [Rachel Maria Cox](https://open.spotify.com/artist/1xIb3fCc3TqfNJ24DNKKBq) | [Prosecco](https://open.spotify.com/album/6KeTVzhEgbAHWt3NTJ5QvI) | 2:46 | 2021-10-05 |  |
 | [Puppy Pound](https://open.spotify.com/track/4xcTKltCfTCqYNtJfShnX8) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Puppy Pound](https://open.spotify.com/album/5zGyQgvJKk2o8qBYh5O1PZ) | 3:20 | 2022-05-31 | 2022-07-15 |
 | [RE\(a\)D \(with Bas\)](https://open.spotify.com/track/3zkb4iEBArtWivbkhw4Jnd) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ) | [RE\(a\)D \(with Bas\)](https://open.spotify.com/album/3OMZpoECIvg1U8HWYXMLgX) | 3:04 | 2021-10-05 | 2022-02-21 |

@@ -1,11 +1,33 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "What's happening in R&B, right now. Cover: SZA",
+  "description": "What's happening in R&B, right now. Cover: Rihanna",
   "name": "R&B Right Now",
   "published_playlist_ids": [
     "1MI0QV708eM6TBitmgfhKB"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "More Love, Less Ego",
+        "url": "https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187906,
+      "name": "2 Sugar (feat. Ayra Starr)",
+      "url": "https://open.spotify.com/track/1DA2ADZs6O28y2rmdmpekw"
+    },
     {
       "album": {
         "name": "24 Hrs",
@@ -251,7 +273,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 224262,
       "name": "All That Matters - Spotify Singles",
       "url": "https://open.spotify.com/track/3lAVnqeRhV3zmkdDhEunUq"
@@ -455,7 +477,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 176850,
       "name": "Bad To Me",
       "url": "https://open.spotify.com/track/2pUlBBWq8R10ylbBvZJV9j"
@@ -485,6 +507,24 @@
       "duration_ms": 202247,
       "name": "Baddest (feat. Chris Brown & 2 Chainz)",
       "url": "https://open.spotify.com/track/2CDVqsGGkf2v1tMETt3fq5"
+    },
+    {
+      "album": {
+        "name": "Bag Of You",
+        "url": "https://open.spotify.com/album/4J2ZnI41Z9yElyzM2TzBrM"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197427,
+      "name": "Bag Of You",
+      "url": "https://open.spotify.com/track/3X7aFBB2ja4QT2XEuxKCIA"
     },
     {
       "album": {
@@ -645,6 +685,24 @@
       "duration_ms": 189226,
       "name": "Bl\u00fc Moon",
       "url": "https://open.spotify.com/track/3fZYsBgwG8TUI53S14V0HD"
+    },
+    {
+      "album": {
+        "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
+        "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213333,
+      "name": "Born Again",
+      "url": "https://open.spotify.com/track/18zQTt3ifDv6iLni2YuXMg"
     },
     {
       "album": {
@@ -2684,6 +2742,28 @@
     },
     {
       "album": {
+        "name": "Her Loss",
+        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399153,
+      "name": "Hours In Silence",
+      "url": "https://open.spotify.com/track/0sSRLXxknVTQDStgU1NqpY"
+    },
+    {
+      "album": {
         "name": "Heart On My Sleeve",
         "url": "https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy"
       },
@@ -2903,6 +2983,24 @@
       "duration_ms": 173549,
       "name": "Iffy",
       "url": "https://open.spotify.com/track/3kfqYE0jGONOrkVpkPPOd5"
+    },
+    {
+      "album": {
+        "name": "Bad Since '97",
+        "url": "https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio"
+      },
+      "artists": [
+        {
+          "name": "BNXN fka Buju",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138034,
+      "name": "In My Mind",
+      "url": "https://open.spotify.com/track/1IiNgs5RGEYyGQFLXJvte5"
     },
     {
       "album": {
@@ -3477,7 +3575,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 202371,
       "name": "Let Me See Your Phone",
       "url": "https://open.spotify.com/track/5rBXXZWDsIRsi5Ur2JWTsC"
@@ -4133,7 +4231,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 212975,
       "name": "Monalisa",
       "url": "https://open.spotify.com/track/3baPniPXS0iEII8rDUJdYP"
@@ -5158,6 +5256,28 @@
     },
     {
       "album": {
+        "name": "Poison Ivy",
+        "url": "https://open.spotify.com/album/3ssj5GjOwObWF7eiAoYUl0"
+      },
+      "artists": [
+        {
+          "name": "K. Forest",
+          "url": "https://open.spotify.com/artist/1uaS3ZokV40ZrpzSRhx4Ol"
+        },
+        {
+          "name": "Skip Waiters",
+          "url": "https://open.spotify.com/artist/4VarNqx7kH5tBCBQwtixav"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237505,
+      "name": "Poison Ivy",
+      "url": "https://open.spotify.com/track/2UnIW0DQShzvsojtzGeF16"
+    },
+    {
+      "album": {
         "name": "Pressure",
         "url": "https://open.spotify.com/album/5lpInBYJiEtNyOXLIa3c9B"
       },
@@ -5691,7 +5811,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 230453,
       "name": "See Through Love (feat. Chris Brown)",
       "url": "https://open.spotify.com/track/0IogifAdwkriM0XAW0zESH"
@@ -5913,6 +6033,24 @@
       "duration_ms": 174398,
       "name": "Special",
       "url": "https://open.spotify.com/track/3m7IYU7ySuFMwdm7OCShQN"
+    },
+    {
+      "album": {
+        "name": "Spin the Block",
+        "url": "https://open.spotify.com/album/2eco2tXEVHu9oaI1uwxCYC"
+      },
+      "artists": [
+        {
+          "name": "RAAHiiM",
+          "url": "https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229052,
+      "name": "Spin the Block",
+      "url": "https://open.spotify.com/track/0IomPr5dBXw2sIkZKvZSSp"
     },
     {
       "album": {
@@ -6333,7 +6471,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 308820,
       "name": "Texts Go Green",
       "url": "https://open.spotify.com/track/4FIgHqXd4KkOwxrGeLDYM2"
@@ -6709,7 +6847,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 182226,
       "name": "up at night (feat. justin bieber)",
       "url": "https://open.spotify.com/track/4WghJOMjDpGdlk3b8aJIgy"

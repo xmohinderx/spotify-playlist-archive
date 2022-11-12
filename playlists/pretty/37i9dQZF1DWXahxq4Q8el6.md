@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXahxq4Q8el6.md) - [plain]
 
 > Uplifting scores and soundtracks to make your heart happy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,944 likes - 56 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,128 likes - 56 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXahxq4Q8el6.md) - [plain]
 | 27 | [Define Dancing](https://open.spotify.com/track/5zeaIcBVA0Ta8JVp1S5zDM) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [WALL\-E \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2LhcAFdMWcB49mHSxYrqJT) | 2:23 |
 | 28 | [Transformation \- From "Brother Bear"/Soundtrack Version](https://open.spotify.com/track/3oEllCjRbaRJrZKtZVLsDJ) | [Bulgarian Women's Choir](https://open.spotify.com/artist/6POdwLUtKqP6qQ9bRBx7NZ) | [Brother Bear](https://open.spotify.com/album/0aJ2SqX6w8pJsaFaTiBUgJ) | 2:28 |
 | 29 | [The bioluminescence of the night](https://open.spotify.com/track/7mJNJKQ1eZFKMmJoaqyw55) | [James Horner](https://open.spotify.com/artist/3PhL2Vdao2v8SS8AptuhAr) | [AVATAR Music From The Motion Picture Music Composed and Conducted by James Horner](https://open.spotify.com/album/1H81jGoWeLI8ufq42GfDPn) | 3:37 |
-| 30 | [Flying Theme \- From "E.T"](https://open.spotify.com/track/4hbNZBElPjwCdfzYkJcTR2) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc), [Gavin Greenaway](https://open.spotify.com/artist/3TaTCYiv3QcamWjvRCcz6Q) | [John Williams: A Life In Music](https://open.spotify.com/album/6qhYCCFVOQKNFq5QbYpje8) | 4:05 |
+| 30 | [Flying Theme \- From "E.T"](https://open.spotify.com/track/3lokYBPKuTWPoY9MnexcGM) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc), [Gavin Greenaway](https://open.spotify.com/artist/3TaTCYiv3QcamWjvRCcz6Q) | [Film Music](https://open.spotify.com/album/2U6wKbSz9jLaKgiwZBtKOC) | 4:05 |
 | 31 | [Field Trip \- From "Finding Nemo"](https://open.spotify.com/track/4QPbG0FbmzqLCevDIielia) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [Disney/Pixar Greatest](https://open.spotify.com/album/4Tf4nzRuf5W3EvHqigxcmv) | 0:56 |
 | 32 | [The Bell Tower](https://open.spotify.com/track/1Dc6Mb9u2az5sQOvqfOqX7) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ) | [The Hunchback Of Notre Dame \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7btQeUDTIIfnh2iCQ8Pfhq) | 3:05 |
 | 33 | [Fairytale](https://open.spotify.com/track/1e3hPMCGrwPXYZ1DQhsiCE) | [Harry Gregson\-Williams](https://open.spotify.com/artist/1BxqJ6pOCi8mkSjCbFYjpW), [John Powell](https://open.spotify.com/artist/3EAHF3jdnHHdko5DBrhRUP) | [Shrek \(Original Motion Picture Score\)](https://open.spotify.com/album/6Hv7UZCLx4kCYZCY0kBbZc) | 1:26 |
@@ -63,6 +63,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXahxq4Q8el6.md) - [plain]
 | 53 | [Adventures of a London Gentleman](https://open.spotify.com/track/16iqQIS5kz8tj2EeoDvq7i) | [Christopher Willis](https://open.spotify.com/artist/1Qu6r22G2M8Xqz0GawYv8P) | [The Personal History of David Copperfield \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5b1HuHbpxKSfnjmuHFhFVW) | 3:49 |
 | 54 | [Flying Vessel](https://open.spotify.com/track/1kmkBb6u7bA37GxDaNPils) | [Ilan Eshkeri](https://open.spotify.com/artist/147dKKwnUn9qesNx8uAs3Z), [London Metropolitan Orchestra](https://open.spotify.com/artist/3fYr24qYhJejxewFrckFE4), [Andy Brown](https://open.spotify.com/artist/6u83LnSsShAAixAassk1pB) | [Stardust \- Music From The Motion Picture](https://open.spotify.com/album/0HBJxR0Sm2tUcrL5wGOPof) | 3:41 |
 | 55 | [Nuovo Cinema Paradiso](https://open.spotify.com/track/06kh9LReI7DrNWYxYAZzMm) | [Ennio Morricone](https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C) | [Classics: Ennio Morricone \- Vol\. 3](https://open.spotify.com/album/4KqqrffIOZrNTFmEkIBtYa) | 2:58 |
-| 56 | [Under the Stars \- From "The Lion King"/Score](https://open.spotify.com/track/37lotBTQcBbYI7vEoGsOfg) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [Lebo M.](https://open.spotify.com/artist/0zp9qNDSeYi3QEodhcKAAA) | [The Lion King](https://open.spotify.com/album/3YA5DdB3wSz4pdfEXoMyRd) | 3:45 |
+| 56 | [Under Stjärnorna](https://open.spotify.com/track/3Y4GJ1fC9YDlgi13y2wpO7) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [Lebo M.](https://open.spotify.com/artist/0zp9qNDSeYi3QEodhcKAAA) | [The Lion King: Special Edition Original Soundtrack \(Swedish Version\)](https://open.spotify.com/album/1Dn2s7K0vTc55MtRTBN9sx) | 3:44 |
 
-Snapshot ID: `MTY2MzMwMDg2MCwwMDAwMDAwMDk5NDc2ZWJlZjE0NDk4NGRjZjc2MGJhNGNiNTA0MmZk`
+Snapshot ID: `MTY2MzMwMDg2MCwwMDAwMDAwMDM5YWU0N2Y4Yjk5YjEwYzIxNGE3NDFiMTg0OTEzYjgy`

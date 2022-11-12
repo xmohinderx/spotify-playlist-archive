@@ -4,7 +4,7 @@
 
 > Transport yourself to a quieter place with these downtempo beats and ambient soundscapes.
 
-261 songs - 14 hr 54 min - [published](https://open.spotify.com/playlist/2Jt65y4t0Q0R06nWIg25oY)
+262 songs - 14 hr 57 min - [published](https://open.spotify.com/playlist/2Jt65y4t0Q0R06nWIg25oY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Cherish](https://open.spotify.com/track/47CcDHVJSLChnXpXd0Xan7) | [Shrimpnose](https://open.spotify.com/artist/6My0aHQrZyz0vqqcf06s1D) | [Small Wonders](https://open.spotify.com/album/2rU5cwHDgBh16XilEuEco8) | 3:13 | 2021-10-16 | 2022-11-11 |
 | [Chopiko Park](https://open.spotify.com/track/5qThc4z7yYNEa6DKniSpr0) | [Rakuto](https://open.spotify.com/artist/3TdtGIrs1VN2rb5eCD911V) | [Futureboy](https://open.spotify.com/album/4AAZahcCcVsNtFxO294eSA) | 3:32 | 2021-10-16 | 2022-07-29 |
 | [Circular Wave Forms.](https://open.spotify.com/track/2naBJ9nAQbE2k90VW7LrXz) | [LFO Waves](https://open.spotify.com/artist/1JjFLJxtZ8Es5nRpz4146Z) | [Circular Wave Forms.](https://open.spotify.com/album/1OkmNV0J7pYQQy9wfcD5dd) | 3:00 | 2021-10-16 | 2022-07-10 |
+| [Circular Wave Forms.](https://open.spotify.com/track/7b6GiDnHmOC18lYhDCUJfj) | [LFO Waves](https://open.spotify.com/artist/1JjFLJxtZ8Es5nRpz4146Z) | [Circular Wave Forms.](https://open.spotify.com/album/062LGURSKpRw9BYEpR2Pla) | 3:00 | 2021-10-16 |  |
 | [Cloud Boutique](https://open.spotify.com/track/5HRicBHhQNKDfijY3KyjVE) | [Akureyri](https://open.spotify.com/artist/3kWtgQ5akmWPNq4OCzOyc6) | [Cloud Boutique](https://open.spotify.com/album/34otDrwJWcRiSHJKGLVkHT) | 2:49 | 2021-10-16 | 2022-07-28 |
 | [cold summer](https://open.spotify.com/track/4kXttabp1lTFSfb2OYN1UY) | [Peter Bark](https://open.spotify.com/artist/1owDCRcm8r3mCfAVzwNbB2) | [cold summer // hazy memories](https://open.spotify.com/album/0eEqJd1VqXFNGTjGCd7IK5) | 6:18 | 2022-02-18 | 2022-07-29 |
 | [Columbus Park](https://open.spotify.com/track/18nfdd8jk4iiCUf5tLBLWZ) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [English Breakfast](https://open.spotify.com/album/6bqFWuCzfQjP3pvL5LtsP1) | 2:32 | 2021-10-16 | 2022-07-29 |
@@ -126,7 +127,7 @@
 | [Kalimba Heart](https://open.spotify.com/track/4UVYWa3Pq8pjm0bKw9uZ9u) | [A Lily](https://open.spotify.com/artist/1OugEGrHZi728PHbhwUSUS) | [Sleep Through the Storm](https://open.spotify.com/album/3EFWBA9qmXMMwX48QdSOm7) | 3:11 | 2021-10-16 |  |
 | [Kalimba Heart](https://open.spotify.com/track/6zHLUchfVKSSvDOYqrQu4U) | [A Lily](https://open.spotify.com/artist/1OugEGrHZi728PHbhwUSUS) | [Sleep Through the Storm](https://open.spotify.com/album/2cJUkDSiyikvlTBtM3Dekx) | 3:11 | 2021-10-16 | 2022-07-29 |
 | [Key Biscayne](https://open.spotify.com/track/13BzLaprFANuAWHvsjJUHO) | [Spencer Zahn](https://open.spotify.com/artist/7Besl9VdibJqiIjJ40fphx) | [Key Biscayne](https://open.spotify.com/album/1heNLAFADQlacIrKljVI2w) | 5:15 | 2021-10-16 | 2022-07-29 |
-| [Key Biscayne](https://open.spotify.com/track/4jSpf1sB1WXLeRjY2gnsgV) | [Spencer Zahn](https://open.spotify.com/artist/7Besl9VdibJqiIjJ40fphx) | [Sunday Painter](https://open.spotify.com/album/1ktavSWpvxxD4w7QmBxSww) | 5:15 | 2021-10-16 |  |
+| [Key Biscayne](https://open.spotify.com/track/4jSpf1sB1WXLeRjY2gnsgV) | [Spencer Zahn](https://open.spotify.com/artist/7Besl9VdibJqiIjJ40fphx) | [Sunday Painter](https://open.spotify.com/album/1ktavSWpvxxD4w7QmBxSww) | 5:15 | 2021-10-16 | 2022-11-12 |
 | [Kombucha](https://open.spotify.com/track/0DdKTv7NiZ4DWV99zoNv6A) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O) | [Imperfections](https://open.spotify.com/album/27cW4XLj3mNWOb5VOv8k79) | 1:23 | 2021-10-16 |  |
 | [Kombucha](https://open.spotify.com/track/3MCvwmA6zeYml0q7kQLgLu) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O) | [Imperfections](https://open.spotify.com/album/49duPTHJJzvzXch9KUQhtU) | 1:23 | 2021-10-16 | 2022-07-29 |
 | [lake hylia](https://open.spotify.com/track/1DE2OTIUPBhBCmwrfSgnu4) | [Poetics](https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP) | [lake hylia](https://open.spotify.com/album/1iGEDqPy6ZLwqO2mSIUqg3) | 1:51 | 2021-10-16 | 2022-09-20 |
@@ -136,7 +137,7 @@
 | [Light](https://open.spotify.com/track/3is4aHMSpsFnrDx0btsuEW) | [Ajmw](https://open.spotify.com/artist/64StAk1W7veJKQ9x0rlE2R) | [No Thoughts I](https://open.spotify.com/album/7zCzUUixLiKDCNcoHfVkd0) | 1:50 | 2021-10-16 |  |
 | [Lilac](https://open.spotify.com/track/0Ymu1QBwxsXpwsLdxWBRtA) | [G Mills](https://open.spotify.com/artist/0djvqMepj2XkHfvWTqkH1N) | [Lilac](https://open.spotify.com/album/4lqw1wICfF7tNfVjj3TPgX) | 2:40 | 2021-10-16 | 2022-07-29 |
 | [Lilac](https://open.spotify.com/track/1o6NbOV0dqkjeaXFiTMJOO) | [G Mills](https://open.spotify.com/artist/0djvqMepj2XkHfvWTqkH1N) | [Lilac](https://open.spotify.com/album/7s9B2fGXMeIgYEnoHxrzWN) | 2:40 | 2021-10-16 | 2022-11-11 |
-| [logical](https://open.spotify.com/track/3E87Le6IN9RYKhgRfJp3BN) | [Shuttle358](https://open.spotify.com/artist/1scitKDOobvcQlJb8DdP4n) | [Chessa](https://open.spotify.com/album/3vnNHitqzdPjWNBNGuZSrl) | 3:02 | 2021-10-16 |  |
+| [logical](https://open.spotify.com/track/3E87Le6IN9RYKhgRfJp3BN) | [Shuttle358](https://open.spotify.com/artist/1scitKDOobvcQlJb8DdP4n) | [Chessa](https://open.spotify.com/album/3vnNHitqzdPjWNBNGuZSrl) | 3:02 | 2021-10-16 | 2022-11-12 |
 | [Lonely](https://open.spotify.com/track/3xzPOzDfNDJcub1s1MXKcJ) | [Hyperparadise](https://open.spotify.com/artist/4uajeI5EPh9v3im2UwQH5s) | [Midnight Thoughts](https://open.spotify.com/album/3bAbS8r4SzB4sRRsiDqyfc) | 3:12 | 2021-10-16 | 2022-07-27 |
 | [Lonely](https://open.spotify.com/track/77Gt9f138HG8AEN8IoTrnu) | [Hyperparadise](https://open.spotify.com/artist/4uajeI5EPh9v3im2UwQH5s) | [Midnight Thoughts](https://open.spotify.com/album/7BJriCkxc7S82hL3T0qtxf) | 3:12 | 2021-10-16 | 2022-10-22 |
 | [Louie's Lullaby](https://open.spotify.com/track/7F8Xws8eSnpObHqUfbei71) | [Harris Cole](https://open.spotify.com/artist/6DnF6PBcTSsEZuEjXpK0gX) | [Pause](https://open.spotify.com/album/1SGKhtJ0H8iLa4Q9CKsjOP) | 2:51 | 2021-10-16 |  |
@@ -246,7 +247,7 @@
 | [Underwater Temples of Mahabalipuram](https://open.spotify.com/track/17D02dGk9OaLePiabFtJFf) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [Underwater Temples of Mahabalipuram](https://open.spotify.com/album/2iRT0PbeJWu7qgmeeO2wei) | 2:30 | 2021-10-16 | 2022-07-27 |
 | [Underwater Temples of Mahabalipuram](https://open.spotify.com/track/3qebe3F4sfNJLxbUBlMJnQ) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [Underwater Temples of Mahabalipuram](https://open.spotify.com/album/1R1mrvSewIDG7aiLvrAKuN) | 2:30 | 2021-10-16 |  |
 | [Unmo](https://open.spotify.com/track/2wQpl8D5EExuyARWBaoH1M) | [goosetaf](https://open.spotify.com/artist/46NCqFl8vhQZD77y7XkvJs), [lōland](https://open.spotify.com/artist/5AUK3KLrqdHpcsRowJVJIn) | [Unmo](https://open.spotify.com/album/5SB94F4ACl0iqteWlsaV86) | 2:13 | 2021-10-16 | 2022-07-29 |
-| [Unmo](https://open.spotify.com/track/5EnSB1D05EPzOtKq9DIvZ8) | [goosetaf](https://open.spotify.com/artist/46NCqFl8vhQZD77y7XkvJs), [lōland](https://open.spotify.com/artist/5AUK3KLrqdHpcsRowJVJIn) | [Unmo](https://open.spotify.com/album/0JjXqs8cr8ovqSUQIPOYBo) | 2:13 | 2021-10-16 | 2022-11-06 |
+| [Unmo](https://open.spotify.com/track/5EnSB1D05EPzOtKq9DIvZ8) | [goosetaf](https://open.spotify.com/artist/46NCqFl8vhQZD77y7XkvJs), [lōland](https://open.spotify.com/artist/5AUK3KLrqdHpcsRowJVJIn) | [Unmo](https://open.spotify.com/album/0JjXqs8cr8ovqSUQIPOYBo) | 2:13 | 2021-10-16 |  |
 | [Untethering](https://open.spotify.com/track/2qwUHXTpXXDGuCpjbssBdQ) | [Sea Oleena](https://open.spotify.com/artist/4WnK1atCqqiU7DRaOChhKP) | [Untethering](https://open.spotify.com/album/7pQyhMhsJvmpghevCKZnhw) | 6:58 | 2021-11-10 |  |
 | [Untitled \#1](https://open.spotify.com/track/67R6OxxmHwL0N1vLjetR75) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [Drone](https://open.spotify.com/album/7t9tqpprC4pOSyoIFnRZx1) | 8:21 | 2021-10-16 | 2022-11-11 |
 | [Untitled \#1](https://open.spotify.com/track/76OcZrqKbSjdieuZANmhCC) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [The Ocean No Longer Wants Us](https://open.spotify.com/album/19ES9czYSnkJaASi8hlZPC) | 8:21 | 2021-10-16 | 2022-07-26 |

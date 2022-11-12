@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDSHGzTpRHX.md) - [plain]
 
 > Our editors' picks of the freshest finds of the year! Cover: Lil Tecca
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,289 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,293 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDSHGzTpRHX.md) - [plain]
 | 96 | [Type](https://open.spotify.com/track/0nQRHEFAmxrACvpJ2nEdKm) | [Joël](https://open.spotify.com/artist/1aKxOOjrr9tPOCat11beik) | [GRUNGE GOSPEL](https://open.spotify.com/album/1MRemdCQXbm08VgK6ZUxEl) | 3:01 |
 | 97 | [What I Do](https://open.spotify.com/track/0pSv8kfVtfIFGmo8jfCZ2W) | [LG Izz](https://open.spotify.com/artist/6QTXiCqm2kDOWnLqgyYi4y) | [What I Do](https://open.spotify.com/album/0aL2czw7s7TKTfCwVpE67G) | 2:54 |
 | 98 | [In My Head](https://open.spotify.com/track/7H5jn1FKEhUGbewLxXNGNE) | [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [Hasta La Vista](https://open.spotify.com/album/4orC5HDPd0VTsaWs5vNMtb) | 2:20 |
-| 99 | [Light Personified](https://open.spotify.com/track/1AQlZoCOk9SHb4nIZF07uf) | [Fintan](https://open.spotify.com/artist/1JLB3JYl1p8ob8o5Y35bT6) | [Light Personified](https://open.spotify.com/album/7CNT44xDuQHv8gKnhd30SQ) | 3:20 |
+| 99 | [Light Personified](https://open.spotify.com/track/08RkaVOwN4k3wkaFVk4n8m) | [Fintan](https://open.spotify.com/artist/1JLB3JYl1p8ob8o5Y35bT6) | [Then We Fall](https://open.spotify.com/album/72WxeOsMAn01fWASxQ31m0) | 3:20 |
 | 100 | [E](https://open.spotify.com/track/5Jn3W2PPpKDj4SBQTdC8op) | [Jean Carter](https://open.spotify.com/artist/2LRR1XoqMZ64hebNjiFJqj) | [E](https://open.spotify.com/album/0oUNDHvJ03IKXEXh7LIimN) | 3:00 |
 
-Snapshot ID: `MTU3NjAyMzg0OCwwMDAwMDAwMDM5YjllMjQxNWRiZGJhYTVkNjIxOTZmZDBmNGM0ZjEz`
+Snapshot ID: `MTU3NjAyMzg0OCwwMDAwMDAwMDA2YTkyMTcyY2IzZGYwZDA3ZDAwNzJiMzMwOGRiZTRi`

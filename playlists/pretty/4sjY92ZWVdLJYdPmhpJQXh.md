@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4sjY92ZWVdLJYdPmhpJQXh.md) - [plain]
 
 > Atlantic Records Presents the hottest tracks in hip\-hop, pop, rock, R&amp;B, indie and more! Updated every Friday.
 
-[Atlantic Records](https://open.spotify.com/user/atlanticrecords) - 1,835 likes - 289 songs - 14 hr 30 min
+[Atlantic Records](https://open.spotify.com/user/atlanticrecords) - 1,836 likes - 303 songs - 15 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -297,5 +297,19 @@ pretty - [cumulative](/playlists/cumulative/4sjY92ZWVdLJYdPmhpJQXh.md) - [plain]
 | 287 | [Seasons](https://open.spotify.com/track/6GAMUQpIEh7JaYLk37JAVM) | [Eloise Alterman](https://open.spotify.com/artist/6fwUdydSdIHu9NHHTCDYc0) | [Sad Bird](https://open.spotify.com/album/38YnlQciGtGudiPFp3GCDT) | 3:29 |
 | 288 | [Ballin](https://open.spotify.com/track/2eWHHPZS4pb7mEMcow4bqT) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Ballin](https://open.spotify.com/album/0dzZgJ3jzWe2WD7rG6nPaE) | 2:56 |
 | 289 | [The Biggest](https://open.spotify.com/track/7M4M1GExnJhatiVlHf1Nfm) | [DCG BROTHERS](https://open.spotify.com/artist/7MP0JM4me8DNocS55hbd2J), [DCG Shun](https://open.spotify.com/artist/7okkZ7wwW0Jkh3N8FHOR11), [DCG Bsavv](https://open.spotify.com/artist/1mU5tzu4Oi1c7pq0WPqMOL) | [The Biggest](https://open.spotify.com/album/27MhJVEQWJlpQMAh7aEM4U) | 2:00 |
+| 290 | [SARA](https://open.spotify.com/track/7IlWwsL01c1dizJTHgD5rK) | [KILLBOY](https://open.spotify.com/artist/3lPSkTq1kiSuxDcr996Nlm) | [SARA](https://open.spotify.com/album/2dXlLCZoS2qhel0sUTJrZ0) | 4:38 |
+| 291 | [Spin](https://open.spotify.com/track/2GAEB0Bcdl47BZSIPbz32z) | [KATO2X](https://open.spotify.com/artist/4xH1O3WPbNGJZYyfB9pfIm), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Spin](https://open.spotify.com/album/4FjRYunXKNaFHoqTQuqEs5) | 3:18 |
+| 292 | [Summo](https://open.spotify.com/track/1AXB0WRiTcSQe9RbBD2Ipx) | [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg) | [Summo](https://open.spotify.com/album/4Gw5OAKvJETC2BwbMjfM61) | 3:23 |
+| 293 | [Bag Of You](https://open.spotify.com/track/3X7aFBB2ja4QT2XEuxKCIA) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Bag Of You](https://open.spotify.com/album/4J2ZnI41Z9yElyzM2TzBrM) | 3:17 |
+| 294 | [Hachiko](https://open.spotify.com/track/0QXQCwvUmUSB36N2j1cgM3) | [Nathan Day](https://open.spotify.com/artist/3kEC0PwfYf8pGHiKFQk8OX) | [Hachiko](https://open.spotify.com/album/3tO1iMKFjUYG3SW2bhf3Ce) | 2:54 |
+| 295 | [Can We Pretend That We’re Good? \- Cello Version](https://open.spotify.com/track/2JIYgfzJOjSAB0MRn0035k) | [Daniel Seavey](https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2) | [Can We Pretend That We’re Good? \(Cello Version\)](https://open.spotify.com/album/4cRF1sZ9alkPhG6HR0oVHT) | 3:03 |
+| 296 | [Dissolve](https://open.spotify.com/track/7pBrj5rt4SSxXwFKOyZfHR) | [Absofacto](https://open.spotify.com/artist/7gAYvcQFmAruyvwGjxrSUr), [NITESHIFT](https://open.spotify.com/artist/31aY8MVhn7ZKrobYTLssax) | [Thousand Peaces](https://open.spotify.com/album/79mdn7airf7jJw1dhV1PCI) | 3:44 |
+| 297 | [Dreamscape](https://open.spotify.com/track/0NopaADlfQvinf5r1iGJ0b) | [Miramare](https://open.spotify.com/artist/1GobnwKx4ZG8tvfqJxOMXg), [Atlantic Chill](https://open.spotify.com/artist/0IgHIEE4S1p89l6xs28SlP) | [Dreamscape](https://open.spotify.com/album/47lYrMlf9SqfTp5uuIOJ7V) | 1:25 |
+| 298 | [Family, Man](https://open.spotify.com/track/1ybiXCaXIx3XwFRadx08cs) | [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [two](https://open.spotify.com/album/3yEJgyvpFHo7FhnxZyyFz3) | 3:10 |
+| 299 | [Money, Love & Death](https://open.spotify.com/track/5bmVklahEfXTYdILTP0XFn) | [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [two](https://open.spotify.com/album/3yEJgyvpFHo7FhnxZyyFz3) | 2:43 |
+| 300 | [love counts](https://open.spotify.com/track/7hTIiQtyodbfSmrb1Th5Qr) | [Nashon](https://open.spotify.com/artist/12X1zDSQlW0c6uRXGoOzHi) | [love counts](https://open.spotify.com/album/72vwjPwlPnlzn65SRg6fnO) | 2:33 |
+| 301 | [Miss You \- Remix](https://open.spotify.com/track/10seI1aWbosvrnlA9Cidhc) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Yosuf](https://open.spotify.com/artist/0pceb68in41LfgvQbkvCzg), [Dionysus](https://open.spotify.com/artist/7olPZFkqjZyoBY6Jxase3b) | [Miss You \(Remix\)](https://open.spotify.com/album/2O54fayUeFzRLbPOrndaFy) | 2:51 |
+| 302 | [Nothing I Won’t Do \(feat\. TMW\)](https://open.spotify.com/track/4vVNebuWcKFSJiSQhTQxGH) | [David Solomon](https://open.spotify.com/artist/3fzRb5i8Wn7ao2KPDxEiTR), [TMW](https://open.spotify.com/artist/7pT8sFYUdnI4qR493BHY6k) | [Nothing I Won’t Do \(feat\. TMW\)](https://open.spotify.com/album/3HNK1GBkAIXU9aUOoXxXIK) | 2:59 |
+| 303 | [Reborn](https://open.spotify.com/track/4F9P5JpkAyoQKuRAsVjwS3) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Reborn](https://open.spotify.com/album/3KlP88EbXSetW7idNEqSSp) | 2:47 |
 
-Snapshot ID: `NDg4Miw5MTIyNDlhMGZhOTU2ZjA5MDdmNmZhYWY1NGEzNDhiYWRkNTFjOWFj`
+Snapshot ID: `NDg5NiwzZTdkN2Q0ZTE5OGZjNTVhZGQ4ZTNlY2E3MjAzMGQxMDdlNzllYzJk`

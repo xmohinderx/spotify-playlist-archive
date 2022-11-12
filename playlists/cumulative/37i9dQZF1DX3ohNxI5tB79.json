@@ -647,10 +647,36 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 303160,
       "name": "Everybody Love [Feat. Musiq Soulchild & Posdnuos]",
       "url": "https://open.spotify.com/track/78Al5zZW8NubOJjlmscmEa"
+    },
+    {
+      "album": {
+        "name": "Black Radio III (Supreme Edition)",
+        "url": "https://open.spotify.com/album/0koSNz785od22spE0DlKO7"
+      },
+      "artists": [
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        },
+        {
+          "name": "Musiq Soulchild",
+          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
+        },
+        {
+          "name": "Posdnuos",
+          "url": "https://open.spotify.com/artist/4OydvmAsJa7r6W8Q0xwkI7"
+        }
+      ],
+      "date_added": "2022-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303160,
+      "name": "Everybody Love [Feat. Musiq Soulchild, Posdnuos]",
+      "url": "https://open.spotify.com/track/7oGl54MjGGZ3e0RFgcqbOH"
     },
     {
       "album": {
@@ -1728,6 +1754,28 @@
     },
     {
       "album": {
+        "name": "+1",
+        "url": "https://open.spotify.com/album/2Fb6www7WW1at79mrVwfmh"
+      },
+      "artists": [
+        {
+          "name": "Das Sound Kollektiv",
+          "url": "https://open.spotify.com/artist/2bKpcqe6vWzB9YvzoLVm2B"
+        },
+        {
+          "name": "Ntjam Rosie",
+          "url": "https://open.spotify.com/artist/44XhJ4fcKrMzrVr6WpF69R"
+        }
+      ],
+      "date_added": "2022-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235081,
+      "name": "Nothing Can Tear Us Apart",
+      "url": "https://open.spotify.com/track/3S0beLtAcR6uEn7hSUWiEk"
+    },
+    {
+      "album": {
         "name": "These Ways",
         "url": "https://open.spotify.com/album/1BAvPtcPcurtLpH9WgCsrq"
       },
@@ -1743,7 +1791,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 235081,
       "name": "Nothing Can Tear Us Apart",
       "url": "https://open.spotify.com/track/7AU4jI516r2a9ZxnoCmA5k"
@@ -2385,10 +2433,28 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 251013,
       "name": "The Good Life",
       "url": "https://open.spotify.com/track/61sH4Kpbpz9arNiudx07Sf"
+    },
+    {
+      "album": {
+        "name": "Au r\u00e9veil",
+        "url": "https://open.spotify.com/album/0yNqcfWQR82GVjOd9Jh5Wx"
+      },
+      "artists": [
+        {
+          "name": "Ben L'Oncle Soul",
+          "url": "https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK"
+        }
+      ],
+      "date_added": "2022-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251013,
+      "name": "The Good Life",
+      "url": "https://open.spotify.com/track/7vYgmYEBvzcJp1MYus34XI"
     },
     {
       "album": {
@@ -2794,6 +2860,24 @@
     },
     {
       "album": {
+        "name": "Actually, I Can.",
+        "url": "https://open.spotify.com/album/0L0JffGJcm2ybbDcd6BJmO"
+      },
+      "artists": [
+        {
+          "name": "SABRI",
+          "url": "https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5"
+        }
+      ],
+      "date_added": "2022-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181599,
+      "name": "Wish The Love Never Died",
+      "url": "https://open.spotify.com/track/19Yyk8JtxvHKI4byINCi5J"
+    },
+    {
+      "album": {
         "name": "Wish The Love Never Died",
         "url": "https://open.spotify.com/album/0jE5Jhr77m6Gq4myLVgC1l"
       },
@@ -2805,7 +2889,7 @@
       ],
       "date_added": "2022-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 181599,
       "name": "Wish The Love Never Died",
       "url": "https://open.spotify.com/track/3eoN5fDD9Dq0dsZ29l51Sf"

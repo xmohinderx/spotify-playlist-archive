@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhiW4fdIska.md) - [plain]
 
 > Legendary blues guitarists\. Cover: Buddy Guy
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,770 likes - 50 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,800 likes - 50 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhiW4fdIska.md) - [plain]
 | 37 | [Ventilator Blues](https://open.spotify.com/track/1TvWKgvwVEYzmgqlN9NbKa) | [Clarence "Gatemouth" Brown](https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo) | [All Blues'd Up: Songs of the Rolling Stones](https://open.spotify.com/album/0Ov999p2Fo5q4ia5m4oT9M) | 6:13 |
 | 38 | [Blues At Sunrise](https://open.spotify.com/track/466HB0s7nG40VJ7dplDmaI) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o), [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In Session \(Remaster w/ eBooklet\)](https://open.spotify.com/album/62rUsLpP1lxJ1gJUiXJJI4) | 15:10 |
 | 39 | [Blue Guitar](https://open.spotify.com/track/4W5I9ht9ZzD2uvCTMIuhVG) | [Earl Hooker](https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O) | [Blue Guitar](https://open.spotify.com/album/3Ln9Dp42I8Y0GiY6eFSwUP) | 2:41 |
-| 40 | [Cuttin' In](https://open.spotify.com/track/5m57WfsR7tbGs22SmE6OSX) | [Johnny "Guitar" Watson](https://open.spotify.com/artist/6uB4Ax6mlzohDTLqLOJ6Vl) | [Vivid Sound](https://open.spotify.com/album/4TxbXyp5SZGPxZoKCll7ZF) | 3:15 |
-| 41 | [Cradle Rock](https://open.spotify.com/track/0mew0kA2gBAqtEleoaDiK8) | [Rory Gallagher](https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV) | [Tattoo \(Remastered 2017\)](https://open.spotify.com/album/4lC6XXj4Cq9rsaJh7EghRg) | 6:15 |
-| 42 | [Wild About You, Baby](https://open.spotify.com/track/4bSX7lBKZlyIVP4cHJVhna) | [Hound Dog Taylor](https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4) | [Hound Dog Taylor & The Houserockers](https://open.spotify.com/album/3whc6JMkDLZMngoWFIMJYV) | 3:39 |
-| 43 | [Sit and Cry \(The Blues\)](https://open.spotify.com/track/2x0uiOepdvCXYk8Wh8bXIk) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Blue On Blues](https://open.spotify.com/album/7I1hciUQhs0IlNPxR6yluS) | 3:00 |
-| 44 | [Let Me Love You](https://open.spotify.com/track/7ELwHVSWfMNy4zEq1IIbWu) | [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Truth](https://open.spotify.com/album/0Tt2yDuJ0jiy0JwZzUZdlE) | 4:40 |
-| 45 | [Downhearted Blues](https://open.spotify.com/track/0h0pAsjw7YVQyn43cbAPqF) | [Son House](https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda) | [The Original Delta Blues \(Mojo Workin': Blues For The Next Generation\)](https://open.spotify.com/album/3k3hqZqYl9XYgKC63wrKMq) | 6:03 |
+| 40 | [Cradle Rock](https://open.spotify.com/track/0mew0kA2gBAqtEleoaDiK8) | [Rory Gallagher](https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV) | [Tattoo \(Remastered 2017\)](https://open.spotify.com/album/4lC6XXj4Cq9rsaJh7EghRg) | 6:15 |
+| 41 | [Wild About You, Baby](https://open.spotify.com/track/4bSX7lBKZlyIVP4cHJVhna) | [Hound Dog Taylor](https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4) | [Hound Dog Taylor & The Houserockers](https://open.spotify.com/album/3whc6JMkDLZMngoWFIMJYV) | 3:39 |
+| 42 | [Sit and Cry \(The Blues\)](https://open.spotify.com/track/2x0uiOepdvCXYk8Wh8bXIk) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Blue On Blues](https://open.spotify.com/album/7I1hciUQhs0IlNPxR6yluS) | 3:00 |
+| 43 | [Let Me Love You](https://open.spotify.com/track/7ELwHVSWfMNy4zEq1IIbWu) | [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Truth](https://open.spotify.com/album/0Tt2yDuJ0jiy0JwZzUZdlE) | 4:40 |
+| 44 | [Downhearted Blues](https://open.spotify.com/track/0h0pAsjw7YVQyn43cbAPqF) | [Son House](https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda) | [The Original Delta Blues \(Mojo Workin': Blues For The Next Generation\)](https://open.spotify.com/album/3k3hqZqYl9XYgKC63wrKMq) | 6:03 |
+| 45 | [Tired Of Your Jive \- Live At The International Club, Chicago/1966](https://open.spotify.com/track/5IGQhVuiVCPUtr7gatwbfM) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Blues Is King \(Live At The International Club, Chicago/1966\)](https://open.spotify.com/album/1iYvqgZGYpBkkkTt37g0ti) | 3:31 |
 | 46 | [Blues Power](https://open.spotify.com/track/79rWsO8ZlvekVEsGAzeFeA) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o) | [The Very Best Of Albert King](https://open.spotify.com/album/4OlzrLmYCCqAXdEGS2UkJx) | 3:12 |
-| 47 | [Tired Of Your Jive \- Live At The International Club, Chicago/1966](https://open.spotify.com/track/5IGQhVuiVCPUtr7gatwbfM) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Blues Is King \(Live At The International Club, Chicago/1966\)](https://open.spotify.com/album/1iYvqgZGYpBkkkTt37g0ti) | 3:31 |
-| 48 | [Don't Drive Me Baby](https://open.spotify.com/track/0YwiXJVTCIqIuqqexiDOym) | [Lowell Fulson](https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5) | [The Complete Chess Masters](https://open.spotify.com/album/1oKzIjaJ00OKzVxwjSfCXl) | 2:39 |
-| 49 | [It's My Own Fault](https://open.spotify.com/track/35bFBYboT095ukNp4lUYiU) | [Otis Rush](https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP) | [Ain't Enough Comin' In](https://open.spotify.com/album/4aEPDrXRjEqkI6FTO7UNIA) | 5:16 |
+| 47 | [Don't Drive Me Baby](https://open.spotify.com/track/0YwiXJVTCIqIuqqexiDOym) | [Lowell Fulson](https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5) | [The Complete Chess Masters](https://open.spotify.com/album/1oKzIjaJ00OKzVxwjSfCXl) | 2:39 |
+| 48 | [It's My Own Fault](https://open.spotify.com/track/35bFBYboT095ukNp4lUYiU) | [Otis Rush](https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP) | [Ain't Enough Comin' In](https://open.spotify.com/album/4aEPDrXRjEqkI6FTO7UNIA) | 5:16 |
+| 49 | [Cuttin' In](https://open.spotify.com/track/5lxNHGYZnHpzKO3TX4T9Hh) | [Johnny "Guitar" Watson](https://open.spotify.com/artist/6uB4Ax6mlzohDTLqLOJ6Vl) | [Gangster Of Love](https://open.spotify.com/album/6Z1ccpvWsRGRzvrq1hA387) | 3:15 |
 | 50 | [Stone Crazy](https://open.spotify.com/track/3vn0f3JPAErg8fzJs19ObG) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Buddy's Blues](https://open.spotify.com/album/1VUo4Kxd4tLGHrx13V1TVu) | 7:11 |
 
-Snapshot ID: `MTYzODkwNTIwOSwwMDAwMDAwMDZiMzEyZTk2OGNjYmQ1ZjhhMzhlZDliOThiM2VlNDAy`
+Snapshot ID: `MTYzODkwNTIwOSwwMDAwMDAwMGM5MmRjNzE4MWE4YmUxZTEwMTgyOTYyOTNkYzg4ZDhl`

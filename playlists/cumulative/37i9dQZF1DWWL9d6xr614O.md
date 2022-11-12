@@ -4,11 +4,12 @@
 
 > Be inspired and let the music heal your soul and uplift your spirits.
 
-84 songs - 6 hr 27 min - [published](https://open.spotify.com/playlist/52RI4Gq3FQmvdVfo6uxBM5)
+86 songs - 6 hr 39 min - [published](https://open.spotify.com/playlist/52RI4Gq3FQmvdVfo6uxBM5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [10,000 Reasons / What a Beautiful Name](https://open.spotify.com/track/1AWPIzLVFnRvUKsNdG97PL) | [Caleb and Kelsey](https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg) | [Worship](https://open.spotify.com/album/7qXTIRbsNuTB1Jlnx3WfMn) | 2:58 | 2022-04-15 |  |
+| [10,000 Reasons / What a Beautiful Name](https://open.spotify.com/track/1AWPIzLVFnRvUKsNdG97PL) | [Caleb and Kelsey](https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg) | [Worship](https://open.spotify.com/album/7qXTIRbsNuTB1Jlnx3WfMn) | 2:58 | 2022-04-15 | 2022-11-12 |
+| [10,000 Reasons / What a Beautiful Name](https://open.spotify.com/track/33Ush8XeSGoH1qivkTF8ED) | [Caleb and Kelsey](https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg) | [Worship](https://open.spotify.com/album/6DbXxaqDbuh6WXTWnPQh47) | 2:58 | 2022-11-03 |  |
 | [10,000 Reasons / What a Beautiful Name](https://open.spotify.com/track/34r6cLVbeT4UoPgTRSBIE0) | [Caleb and Kelsey](https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg) | [10,000 Reasons / What a Beautiful Name](https://open.spotify.com/album/00rMWiOm3uX2yNcvsvLns4) | 2:58 | 2022-04-15 | 2022-07-29 |
 | [Age to Age](https://open.spotify.com/track/1bhqpLlmbpvOVcFNx0CQ8Y) | [Living Word Christian Music](https://open.spotify.com/artist/38OYSwcUYA1udLHszdRFAn), [Ferdinand Aragon](https://open.spotify.com/artist/199ECS30J1oOc3Ftz93dsk), [Delight Grace](https://open.spotify.com/artist/2H1kZsKy72sPXPNTIhsB3T) | [Age to Age](https://open.spotify.com/album/6RiosIiIQrqNjPnSAZINqd) | 5:29 | 2022-04-15 |  |
 | [AIK](https://open.spotify.com/track/00ByIMCGwbb50bOaZNwjQQ) | [JC Ronato](https://open.spotify.com/artist/4cgXg3h3kODZFxAnCW11vq) | [AIK](https://open.spotify.com/album/1w1vPLFbFyaSOh2dyzdzS0) | 4:39 | 2022-04-15 |  |
@@ -58,7 +59,8 @@
 | [Never Wanna Go Back](https://open.spotify.com/track/6CUop28tecrP4AEsnKNpZ3) | [May Angeles](https://open.spotify.com/artist/3QnnsnDjUGYX8cYQuub0eh), [People & Songs](https://open.spotify.com/artist/0DLoqaxhfWU5litFyzLqn8) | [Never Wanna Go Back](https://open.spotify.com/album/5ZuLfsc8PRhiJj84sC2idX) | 3:35 | 2022-04-15 |  |
 | [New Generation](https://open.spotify.com/track/2yFze3Tul0hCB0eBOkz324) | [Cocoy Claravall](https://open.spotify.com/artist/7or90S16MNx8VogdeOqlKq), [Jeng Belen](https://open.spotify.com/artist/0l1E52m5uF5Ah2wQr8HAlw) | [New Generation](https://open.spotify.com/album/7ehgv9ZB0HgxtcxBmCeQsG) | 3:29 | 2022-04-15 |  |
 | [Oceans \(Where Feet May Fail\)](https://open.spotify.com/track/2PDlIgTWeNkVwx3QIAQT0i) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM) | [Zion](https://open.spotify.com/album/4rbOCwVhFYT2yYBmmUsekd) | 8:56 | 2022-04-15 | 2022-07-29 |
-| [Oceans \(Where Feet May Fail\)](https://open.spotify.com/track/5Mw9bXG1dLNhbjofkVS2oR) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Zion \(Deluxe Edition\)](https://open.spotify.com/album/3A24aBx6jZCAgovIbZUubC) | 8:55 | 2022-04-15 |  |
+| [Oceans \(Where Feet May Fail\)](https://open.spotify.com/track/5Mw9bXG1dLNhbjofkVS2oR) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Zion \(Deluxe Edition\)](https://open.spotify.com/album/3A24aBx6jZCAgovIbZUubC) | 8:55 | 2022-04-15 | 2022-11-12 |
+| [Oceans \(Where Feet May Fail\)](https://open.spotify.com/track/6ax2Ggo7GekdiKS8rnaQFP) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Essential Christian Mix](https://open.spotify.com/album/3u318s3bi0JWwEH3p5zmaJ) | 8:55 | 2022-11-03 |  |
 | [On This Day on This Hour](https://open.spotify.com/track/3QVdA3isRpwIt6t5KMRNMw) | [Mark Anthony Cuevas](https://open.spotify.com/artist/52ngUZYjfnI4GOTkqyMbhd) | [On This Day on This Hour](https://open.spotify.com/album/4bq1w4dtLOtZ7qNOSJSEb0) | 6:05 | 2022-04-15 |  |
 | [PAANO MO KINAYA \- WATERWALK Sessions Version](https://open.spotify.com/track/6NjHzLaJLk8ej0e6o6XqFF) | [Lee Simon Brown](https://open.spotify.com/artist/2JCVZPC2G6aBFrcDfLRSIX) | [PAANO MO KINAYA \(WATERWALK Sessions Version\)](https://open.spotify.com/album/33uY0RKMoBPf63yOOFtTj3) | 4:10 | 2022-11-03 |  |
 | [Pagsintang Papuri](https://open.spotify.com/track/0tccKQmX8sjrqo3xe9eW0d) | [Jojo Ibañez](https://open.spotify.com/artist/05NCyKg98MYGeFobMmMd2x) | [Pagsintang Papuri](https://open.spotify.com/album/2HYoXU1zBTE8up9zx1fSDR) | 4:46 | 2022-04-15 |  |

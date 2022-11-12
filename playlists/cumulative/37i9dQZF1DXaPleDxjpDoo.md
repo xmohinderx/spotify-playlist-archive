@@ -4,7 +4,7 @@
 
 > Bathe in Ambient and nature sounds and reconnect to nature, with the Japanese practice of shinrin yoku.
 
-77 songs - 4 hr 29 min - [published](https://open.spotify.com/playlist/1JVIPhfXNBVJ46NAgYD6DU)
+82 songs - 4 hr 45 min - [published](https://open.spotify.com/playlist/1JVIPhfXNBVJ46NAgYD6DU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,15 +17,18 @@
 | [As I Dream](https://open.spotify.com/track/0sWE39QKRcEFzEkd4fiBDZ) | [Tranquil Journeys](https://open.spotify.com/artist/54FHbjddYi2zgSZ1QNgkPn) | [As I Dream](https://open.spotify.com/album/3rzsB1SKf06JVz94jRszfY) | 3:26 | 2022-10-14 |  |
 | [Asha](https://open.spotify.com/track/6xLtuBNPyD7fBS1XzlSKE2) | [Beatriz Andersson](https://open.spotify.com/artist/2DAZifHcKzL4h3nk6nuBKF) | [Asha](https://open.spotify.com/album/3oOt8cLuvB7sdnb75HaI5k) | 3:30 | 2022-09-15 |  |
 | [Backwood Recline](https://open.spotify.com/track/2PFy9vF3sK1J736Dw55Yt8) | [Pia Singh](https://open.spotify.com/artist/2ZwBCFyYPefWuccMWR34ZE) | [Backwood Recline](https://open.spotify.com/album/2n2onOGsIkuUaD3192y8u4) | 3:49 | 2022-09-15 |  |
+| [Being](https://open.spotify.com/track/1EEDHsrBnIEwgv3Tx0f4mU) | [Astral Wonder](https://open.spotify.com/artist/24JkKS4b8yp9usUXPL0I3G) | [Being](https://open.spotify.com/album/2XuXdx0PWF9MRZ6jI1jJrR) | 3:21 | 2022-11-11 |  |
 | [Breath Of The Wilderness](https://open.spotify.com/track/7lVRii95o1sRkanRZTNVOk) | [Mhino](https://open.spotify.com/artist/1DR1nFSKpiWjUZO4PpydG8) | [Breath Of The Wilderness](https://open.spotify.com/album/4WiJ4NAttKpGAYkdT2TnTK) | 3:15 | 2022-09-15 |  |
 | [Calihue](https://open.spotify.com/track/1DLvqCj6UGzQcPoXzH6wMM) | [Paihuén](https://open.spotify.com/artist/4UOw7vZ41cwDXGNce9zTLB) | [Calihue](https://open.spotify.com/album/4E0BbqjU0J9EU3aIPtwkp6) | 2:11 | 2022-09-15 |  |
 | [Call of the Sea](https://open.spotify.com/track/4aB1CV3jThJqcdCvoh70ZT) | [Applefish](https://open.spotify.com/artist/2tXSmVWVgzUAot6441wbTS) | [Call of the Sea](https://open.spotify.com/album/7orgE1tuvFQoWVQpxgh9ep) | 4:51 | 2022-10-07 |  |
+| [Calm Forest](https://open.spotify.com/track/0lC8zT7WHcpDfY4nXly46Y) | [Human Is Alive](https://open.spotify.com/artist/7dTbMBySbElMEZs1RfUYO7) | [Calm Forest](https://open.spotify.com/album/3shOyi6D4SFu1LG27tSyO4) | 3:12 | 2022-11-11 |  |
 | [Catchacoma Lake](https://open.spotify.com/track/0KBDOOB3rmySzqcqIet1wp) | [Little Symphony](https://open.spotify.com/artist/4SCWiQbJCMTHK737aNUqBJ) | [Catchacoma Lake](https://open.spotify.com/album/7fTupqeF42aDgxnwxZ4XAj) | 2:59 | 2022-09-23 |  |
 | [Clarity](https://open.spotify.com/track/2SEFRp8tsRpHMDuoOLDySR) | [Jaylen Sharise](https://open.spotify.com/artist/0xrQf6fTJb3fjpYyddA0ph) | [Clarity](https://open.spotify.com/album/6Zfm4chfknuDbhHbwrmWZf) | 2:46 | 2022-09-15 |  |
 | [Comfortable under the Surface](https://open.spotify.com/track/3W63szGlVtLFTkmrA8dgXJ) | [Hanna Lindgren](https://open.spotify.com/artist/34GCwt10cx3SKWmWbTgUC2) | [Comfortable under the Surface](https://open.spotify.com/album/0AzrK9ejFOS16BOM2feyHg) | 3:05 | 2022-09-15 |  |
 | [Daydream](https://open.spotify.com/track/1z2QFjVmDqQYyriK5q7DzS) | [Human Is Alive](https://open.spotify.com/artist/7dTbMBySbElMEZs1RfUYO7) | [Daydream](https://open.spotify.com/album/3RdB7JUZymsf7iWvonsUAo) | 4:07 | 2022-10-07 |  |
 | [Deep Blue](https://open.spotify.com/track/66XGxK7oj3XzAkhVbqSYpb) | [Sound Bath](https://open.spotify.com/artist/1wuPfTKt5zzbZixeifF5DO), [Adam Bokesch](https://open.spotify.com/artist/2p01X9u8SiKbMseuTkgdoI) | [Deep Blue](https://open.spotify.com/album/0iqpQ0FHOu8oFzmRyFuVtZ) | 3:15 | 2022-09-15 |  |
 | [Delta Spirit](https://open.spotify.com/track/5Nl0Uy3C5GhECu1wePK0Ty) | [Spiritualizer](https://open.spotify.com/artist/608axORAeMj8OmGsz5eu8C) | [Spiritualizer](https://open.spotify.com/album/1CnFJVEozeGpXtd6ih5ldP) | 2:40 | 2022-09-15 |  |
+| [Dreamwalking](https://open.spotify.com/track/730N7FLjGbW4R98k2a4tq5) | [Atmospheric Lights](https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX) | [Dreamwalking](https://open.spotify.com/album/37ZnhjPhruA4YzrNnmLaOy) | 3:53 | 2022-11-11 |  |
 | [Emberly Path](https://open.spotify.com/track/6LQiwabLqjy1jEJEACKcyj) | [Peaceful Plausible](https://open.spotify.com/artist/2jBR2Yedi7YgJOjZLDtSJI) | [Emberly Path](https://open.spotify.com/album/2E7vitCgw71paDzGHMukLQ) | 2:59 | 2022-09-15 |  |
 | [Espira Naturesque](https://open.spotify.com/track/4rpZd4h0WnZqDr67kLE3KR) | [Miriam van Steeg](https://open.spotify.com/artist/5w21WblmOUdUPdA4YgBAnu) | [Espira](https://open.spotify.com/album/2lnksrCViusZPlkyVbxDJJ) | 3:20 | 2022-09-15 |  |
 | [Essence](https://open.spotify.com/track/5k4d2aTb3iv6SyPFM2ThRt) | [George Memfri](https://open.spotify.com/artist/45b6UK7Bn3GavDYBkkgTxl) | [Essence](https://open.spotify.com/album/5OAJ05tD9LeiJTAUcThnUL) | 3:45 | 2022-09-15 |  |
@@ -41,6 +44,7 @@
 | [Frozen Sunlight](https://open.spotify.com/track/02tb4HZydiOwErys8qitIc) | [Sun Echo](https://open.spotify.com/artist/4jhzzWw1hUD1WeZT73WW4D), [Whispering Landscapes](https://open.spotify.com/artist/7myvpdTsqwTbYbdaFcR5r9) | [Frozen Sunlight](https://open.spotify.com/album/585o7QhQ8LporxUlnbMR8b) | 3:30 | 2022-10-14 |  |
 | [Golden Sky \(Meditation\)](https://open.spotify.com/track/7244jlCIRFqRp8yhMaklLN) | [Astron](https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y) | [Golden Sky](https://open.spotify.com/album/57F1Vi6HQ24RkweWm87Yyt) | 3:06 | 2022-09-15 |  |
 | [Horizon](https://open.spotify.com/track/3ifemXqhR8ap2nIVvoeYyV) | [Cosmo Strings](https://open.spotify.com/artist/7FEeRD2uPEsGElexmXe3lc) | [Horizon](https://open.spotify.com/album/3x2d2u4oJ8Ip0Ucq7oZdlp) | 3:17 | 2022-09-15 |  |
+| [In Early Autumn](https://open.spotify.com/track/5JqHpCJecMueZXSzgCPzQp) | [Sun Echo](https://open.spotify.com/artist/4jhzzWw1hUD1WeZT73WW4D), [Whispering Landscapes](https://open.spotify.com/artist/7myvpdTsqwTbYbdaFcR5r9) | [In Early Autumn](https://open.spotify.com/album/1vvGTNlVzcxZ51VPjr8pIz) | 3:06 | 2022-11-11 |  |
 | [In Rhythm](https://open.spotify.com/track/5KuUhoDmQ6NvwHUAHhVmHB) | [Little Symphony](https://open.spotify.com/artist/4SCWiQbJCMTHK737aNUqBJ) | [In Terra](https://open.spotify.com/album/45CJ4LhQDf4eHyfyrFvo29) | 2:45 | 2022-09-15 |  |
 | [Invitado De La Naturaleza](https://open.spotify.com/track/4BsGi3xKuLzJ5rIOnOPwYN) | [Javi Rama](https://open.spotify.com/artist/5HBMPTDogj1YyvFHxoPk2z) | [Invitado De La Naturaleza](https://open.spotify.com/album/5p2lBL3zw0Ga9L9WskiXJk) | 3:33 | 2022-09-15 |  |
 | [Izza Bella](https://open.spotify.com/track/04SBXh7gAhybrSgCADK81Y) | [Jacqueline Bain](https://open.spotify.com/artist/7BjP91EWRsme41uhXNRmNK) | [Izza Bella](https://open.spotify.com/album/0n9ruQ1Lw3qLfUDKKMkJwR) | 3:18 | 2022-09-15 |  |
@@ -58,6 +62,7 @@
 | [My Pace](https://open.spotify.com/track/0IsnhN1xPrCDCl0m5rSW39) | [Rhucle](https://open.spotify.com/artist/0y0cl3t1UlQf0730g7Zjkl) | [Holy](https://open.spotify.com/album/1lfZhvhyyBiKOctE1lKVMY) | 2:45 | 2022-09-15 |  |
 | [My Pace \- Remix](https://open.spotify.com/track/14q3zVXljoHZ7DqDyF3kQl) | [Rhucle](https://open.spotify.com/artist/0y0cl3t1UlQf0730g7Zjkl) | [My Pace \(Remix\)](https://open.spotify.com/album/3NmlnEt8dF1oGVuEsBUe8j) | 2:22 | 2022-09-15 |  |
 | [Nature's Drone 432Hz](https://open.spotify.com/track/0t4H5P4RqjlO7GjmqmoRCm) | [Blissful Drones](https://open.spotify.com/artist/3cABDOr2C1puyZ9wro5vvZ) | [Nature's Drone 432Hz](https://open.spotify.com/album/0dxeNYb0H4Mu9Wkdad2LPA) | 2:35 | 2022-09-30 |  |
+| [Nature's Serenade \(432 Hz\)](https://open.spotify.com/track/7iv8k4zVh3KREyGS36c1Ej) | [Jourado Sky](https://open.spotify.com/artist/5QY48b9fOopYTVlgfkcBqp) | [Nature's Serenade](https://open.spotify.com/album/4vLm6LVhLLSMJ1o1XjgHby) | 2:39 | 2022-11-11 |  |
 | [Natuurlijk](https://open.spotify.com/track/2BqSwsKNtp7gTAmH479Jmj) | [Ebba Dekker](https://open.spotify.com/artist/1IyHF3iElYVD2QGDF0zZKg) | [Natuurlijk](https://open.spotify.com/album/4NUMUE1zC63L8XIndUip2e) | 2:49 | 2022-09-15 |  |
 | [Not quite there yet](https://open.spotify.com/track/5uUKuVWqa2xF1TqNaBqJkw) | [Dust Merchant](https://open.spotify.com/artist/4fbbE6iUtkyYBXQpYuuyqn) | [Insomnia Tamer](https://open.spotify.com/album/1XELmRwGmVDmehuINfxmZ2) | 1:54 | 2022-09-15 |  |
 | [Paddling](https://open.spotify.com/track/6ArermgdPUH5Iu4ZXG9QgN) | [CoryaYo](https://open.spotify.com/artist/3xqrRhBSgCer7lokC0Lhk4) | [Paddling](https://open.spotify.com/album/51MINJirySns0EC825x26Y) | 4:01 | 2022-09-15 |  |

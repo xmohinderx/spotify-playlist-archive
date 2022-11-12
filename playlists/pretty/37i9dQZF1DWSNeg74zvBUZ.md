@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNeg74zvBUZ.md) - [plain]
 
 > Sunlight! The most precious gold to be found on Earth.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,400 likes - 50 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,397 likes - 50 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,15 +33,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNeg74zvBUZ.md) - [plain]
 | 23 | [First Light \- Remastered 2004](https://open.spotify.com/track/0r4FEHukFd50r43uTuYmHY) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 2: The Plateaux Of Mirror \(Remastered 2004\)](https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO) | 7:06 |
 | 24 | [Ralome](https://open.spotify.com/track/1XLeX0E7yeFHrSkTgVNtMm) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD), [Benet Walsh](https://open.spotify.com/artist/4MqsYgT5rDgG907p84pzIY) | [Rest Proof Clockwork](https://open.spotify.com/album/4IkvCDzidC5XbElsN1SUsg) | 4:29 |
 | 25 | [Welcome](https://open.spotify.com/track/2Mt27qdkzzjwSQq2TbTRnN) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [7RAYS](https://open.spotify.com/artist/0AkP07i2cYjfWmxqCpdwwx) | [Music For Psychedelic Therapy](https://open.spotify.com/album/2zY5p176SfmupXceLKT6bH) | 6:22 |
-| 26 | [Tobiume](https://open.spotify.com/track/4IQWc6rhJwpFrRKBLx27X6) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Sakura](https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2) | 4:38 |
-| 27 | [\#17](https://open.spotify.com/track/5Ae091FBx68ZZ6JrCue7XI) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/17vHPMmoxN5B8cdhCDeMTe) | 2:05 |
+| 26 | [\#17](https://open.spotify.com/track/5Ae091FBx68ZZ6JrCue7XI) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/17vHPMmoxN5B8cdhCDeMTe) | 2:05 |
+| 27 | [Tobiume](https://open.spotify.com/track/4IQWc6rhJwpFrRKBLx27X6) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Sakura](https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2) | 4:38 |
 | 28 | [GREEN](https://open.spotify.com/track/6RPQdkI8t1eaG2abymrYVK) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Green](https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl) | 5:14 |
 | 29 | [Mary, You Were Wrong](https://open.spotify.com/track/7cAjwU15bF9O81UjiC1HpH) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Mary, You Were Wrong](https://open.spotify.com/album/1QumBx2mlFuTfFu8zR2sM7) | 4:58 |
 | 30 | [Dawn Chorus](https://open.spotify.com/track/6a06vmzIppjBTTdVrx8t5D) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Dawn Chorus](https://open.spotify.com/album/09wpxcomjoPy3G0wKpZZzD) | 3:28 |
 | 31 | [Dissolving Clouds](https://open.spotify.com/track/2IB1P4oT2EHRFJA5O7eRnC) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Dropsonde](https://open.spotify.com/album/20oIWphcRX2FDfRHa2e580) | 4:28 |
-| 32 | [Petiatil Cx Htdui](https://open.spotify.com/track/6sSQ3VO0XNK5APus7sIkwh) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Drukqs](https://open.spotify.com/album/1maoQPAmw44bbkNOxKlwsx) | 2:11 |
-| 33 | [Coconut Mango](https://open.spotify.com/track/6VRgvci0hYokJguaBzGZmj) | [Arrangement](https://open.spotify.com/artist/6RxI3tCP0Olcb9dMar7e9e) | [Coconut Mango](https://open.spotify.com/album/5paYeeVQtrLKO68IaCCtwj) | 5:25 |
-| 34 | [A Sea Of Love](https://open.spotify.com/track/7feFMZxaNV6km5QZAXYyv0) | [Huerco S.](https://open.spotify.com/artist/0Wy3xgOTkgtDlT9wJsOQjy) | [For Those Of You Who Have Never \(And Also Those Who Have\)](https://open.spotify.com/album/57o6rhS5v8qPeRPzrNRWF9) | 7:17 |
+| 32 | [Coconut Mango](https://open.spotify.com/track/6VRgvci0hYokJguaBzGZmj) | [Arrangement](https://open.spotify.com/artist/6RxI3tCP0Olcb9dMar7e9e) | [Coconut Mango](https://open.spotify.com/album/5paYeeVQtrLKO68IaCCtwj) | 5:25 |
+| 33 | [A Sea Of Love](https://open.spotify.com/track/7feFMZxaNV6km5QZAXYyv0) | [Huerco S.](https://open.spotify.com/artist/0Wy3xgOTkgtDlT9wJsOQjy) | [For Those Of You Who Have Never \(And Also Those Who Have\)](https://open.spotify.com/album/57o6rhS5v8qPeRPzrNRWF9) | 7:17 |
+| 34 | [Petiatil Cx Htdui](https://open.spotify.com/track/6sSQ3VO0XNK5APus7sIkwh) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Drukqs](https://open.spotify.com/album/1maoQPAmw44bbkNOxKlwsx) | 2:11 |
 | 35 | [Peperomia Seedling](https://open.spotify.com/track/5Gly7CIj29ZKPw5Zo0qFmz) | [Green\-House](https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45) | [Six Songs for Invisible Gardens](https://open.spotify.com/album/6cxjFHSQOwAeURTpzDjp0t) | 3:43 |
 | 36 | [Oceanic Feeling](https://open.spotify.com/track/6pkXXWpMwdZZTXoaCDZ6Ci) | [Molly Lewis](https://open.spotify.com/artist/16eM95zw2t0KRDniuNFKVt) | [Oceanic Feeling](https://open.spotify.com/album/3XNiuRi67PCCF4SradXcqH) | 2:23 |
 | 37 | [Impossible Island](https://open.spotify.com/track/312f1c2NbtQKam65h7Mq39) | [Gaussian Curve](https://open.spotify.com/artist/2rxgmguaQSynTMnBKZL73G) | [Clouds](https://open.spotify.com/album/4FC9qI04vobItNEKVeRh8Q) | 7:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNeg74zvBUZ.md) - [plain]
 | 49 | [Gradual of Image](https://open.spotify.com/track/23nCdon9t8jCCBFKqZDpXf) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Antiphonals](https://open.spotify.com/album/0Nha8uIw64SpmOukz4zLYh) | 3:08 |
 | 50 | [Ho Renomo](https://open.spotify.com/track/2nBtV4NSZJiarMBMpsn6UH) | [Cluster](https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Cluster & Eno](https://open.spotify.com/album/0VSmGsL1RtyjE7bdAaSAvy) | 5:11 |
 
-Snapshot ID: `MTY2NDUwNTk5OCwwMDAwMDAwMDdjM2QzYWU2MDcwYTlhMTkwMTk0OWQzZWZhM2YyYTQ5`
+Snapshot ID: `MTY2NDUwNTk5OCwwMDAwMDAwMGRhZWFmMjk1OGM2ODZiNTg4MDhhMzJlYTdjYTY1MTcx`

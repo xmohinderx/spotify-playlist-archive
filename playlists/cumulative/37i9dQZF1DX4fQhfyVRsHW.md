@@ -4,7 +4,7 @@
 
 > Lie back to chilled ambient with the sounds of nature.
 
-119 songs - 6 hr 19 min - [published](https://open.spotify.com/playlist/4jMsvFFwerORd09qoF4GsL)
+121 songs - 6 hr 26 min - [published](https://open.spotify.com/playlist/4jMsvFFwerORd09qoF4GsL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Days Off](https://open.spotify.com/track/1wy3AxABAmIuF735t91GAM) | [Dayonas Dream](https://open.spotify.com/artist/46iZlIvXWYhgSp8geA7Ea3) | [Angel Wings](https://open.spotify.com/album/4psQ5TZuuI03EmVtmuHkR4) | 2:39 | 2022-05-25 |  |
 | [Depths of the Andaman](https://open.spotify.com/track/4mAz6ncZQSDOBshABwyPOa) | [Inkognitone](https://open.spotify.com/artist/4QboCl4BNGAbXTeFx4zFGl) | [Depths of the Andaman](https://open.spotify.com/album/4nod12TTbsMj6l4yrEFzkh) | 3:16 | 2022-05-25 |  |
 | [Designer of Dreams](https://open.spotify.com/track/4rzLabiZZiwJghfwPDn6H9) | [Dream Design](https://open.spotify.com/artist/5QoS65KDcb9ygxrwK5d6Bc) | [Designer of Dreams](https://open.spotify.com/album/6JXO48KpeVsnIFwDYx2exI) | 2:54 | 2022-05-25 |  |
+| [Dormire Bowls](https://open.spotify.com/track/2jYioAcAHOTxS4IPu0zZxO) | [Temple of Schrawa](https://open.spotify.com/artist/246BPwHoKsivpZL7i7Q1Lt) | [Dormire Bowls](https://open.spotify.com/album/2Xh3s8zADoWWZ5Qzzch0sl) | 2:59 | 2022-11-11 |  |
 | [Dream Birds](https://open.spotify.com/track/10XcNcTJsPmsnqjiI0aUeE) | [Ashcan Johansen](https://open.spotify.com/artist/2ct2G7jHNMHPisFrLyBpMh) | [Dream Birds](https://open.spotify.com/album/16PvXp8E8Sw3IxQRrokYq3) | 2:20 | 2022-05-25 |  |
 | [Dream Dust](https://open.spotify.com/track/6CgRz9Iave95cynHn7yVEA) | [Horizon Lights](https://open.spotify.com/artist/0vAwD3TFaQCotThnaYmnFJ) | [Gentle Night](https://open.spotify.com/album/2Ab3cmAWhFZ2XqOIHytNPD) | 3:22 | 2022-05-25 |  |
 | [Dream Keeper](https://open.spotify.com/track/5MkHTzooL7E4aMVXzFpQDX) | [Elijah Reilly](https://open.spotify.com/artist/40cyqxW9Yq0YEUY8NME3sy) | [Dream Keeper](https://open.spotify.com/album/5xSDOT3xhjSlUvafM3jvjk) | 3:51 | 2022-05-25 |  |
@@ -86,6 +87,7 @@
 | [Organic Peace](https://open.spotify.com/track/5WS9MN7qSwRF07eJLswCHu) | [Portrait of Nature](https://open.spotify.com/artist/5OQ80Fm55v0aCjLF7hXOwj) | [Natural Life](https://open.spotify.com/album/2dWhwh8lM31AKfywr2uDcA) | 3:36 | 2022-05-25 |  |
 | [Over the Clouds](https://open.spotify.com/track/3I6s8eG7sjaba4kncQbqWJ) | [The Golden Peas](https://open.spotify.com/artist/2O29EK5hLrDu3Pr5K3r250) | [Over the Clouds](https://open.spotify.com/album/0gs2T9fj1WaEl2IrHUCVhA) | 3:00 | 2022-05-25 |  |
 | [Peaceful Pond](https://open.spotify.com/track/2CYFC2xg3yXvQPPuH6oIel) | [KLXX](https://open.spotify.com/artist/5Vau7AVtTr4wKVibmML0fP) | [Peaceful Pond](https://open.spotify.com/album/2kjvF7IfjbNtmmhnjZ9ewo) | 3:27 | 2022-05-25 |  |
+| [Perennial Waterflow](https://open.spotify.com/track/1y5VTWasp7vgqUxjaKUK0B) | [D'Verti](https://open.spotify.com/artist/09rAM5GlzBVG3FODKTlrRu) | [Jillion](https://open.spotify.com/album/0Qi6IIzYtaFw3dr19FFPmr) | 4:01 | 2022-11-11 |  |
 | [Perfect Stillness](https://open.spotify.com/track/0AHodj4ntSD8GHe9Amjjds) | [Moon Lakes](https://open.spotify.com/artist/46GLnKiAEhXShMrhcqYjWy) | [Perfect Stillness](https://open.spotify.com/album/6ICIXHDWpg5EHb9Jy0029R) | 3:45 | 2022-05-25 |  |
 | [Phantoms](https://open.spotify.com/track/6hy4E7w34T5hAEtYQlYMXG) | [Everlight](https://open.spotify.com/artist/6RavlD6YjBgKC9iSh3uHgg) | [Quest for Peace](https://open.spotify.com/album/6VXYvrJOtOrDp8ypj6nnmd) | 3:23 | 2022-05-25 |  |
 | [Plain Water](https://open.spotify.com/track/0Xic6q8uMVdaI7QOTlbIqQ) | [Project Gayā](https://open.spotify.com/artist/76PzU6hA4dr6ViFleVXtyD) | [Project Gayā](https://open.spotify.com/album/6Iz5qEsZN5rB962SlPlOm7) | 3:46 | 2022-05-25 |  |

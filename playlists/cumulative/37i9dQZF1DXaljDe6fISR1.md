@@ -4,7 +4,7 @@
 
 > Ouça grandes MCs do hip hop nacional\. Foto: 509\-E
 
-91 songs - 7 hr 6 min - [published](https://open.spotify.com/playlist/39eOoZa4goYLkWs21ZTiBM)
+92 songs - 7 hr 12 min - [published](https://open.spotify.com/playlist/39eOoZa4goYLkWs21ZTiBM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,8 +90,9 @@
 | [That's My Way](https://open.spotify.com/track/4M7bbRsVNB8iWQaX8Sbfln) | [Edi Rock](https://open.spotify.com/artist/2fYAyTS2erZgqEHKHYqgi2), [Bagua Records](https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo), [Leon Mobley](https://open.spotify.com/artist/6uEEza0WufPi44ybkWACFc) | [Contra Nós Ninguém Será](https://open.spotify.com/album/23ieEuWkymGJWTP3PlXLRa) | 5:39 | 2022-03-11 |  |
 | [Triunfo](https://open.spotify.com/track/1mKxoW3WG9YN6vvYTn1gRK) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Pra Quem Já Mordeu um Cachorro por Comida Até Que Eu Cheguei Longe](https://open.spotify.com/album/3HoPJLp2P1pkNlMnjNfp0Z) | 3:29 | 2022-03-11 | 2022-07-29 |
 | [Triunfo \(A Rua É Nóiz\)](https://open.spotify.com/track/3XELYgcY0b9mGsJE28r4Fh) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Pra Quem Já Mordeu um Cachorro por Comida Até Que Eu Cheguei Longe](https://open.spotify.com/album/3ZA85zeudxFA1NGeb6avXS) | 3:29 | 2022-04-22 |  |
+| [Tudo por Você Também](https://open.spotify.com/track/1fAiFANM8c3OZaZQ2KvJg4) | [Dj KLJay](https://open.spotify.com/artist/2MpPNxxzzAF1gWSyEotsNV), [Xis](https://open.spotify.com/artist/1y8yhK12XTLCbWDs4aLgc1) | [KL Jay na Batida \(Vol.3\)](https://open.spotify.com/album/2IsDDsPKbNzKS3A2ueUGWl) | 6:08 | 2022-10-14 |  |
 | [Tudo por Você Também](https://open.spotify.com/track/2Z0XhdBvcULuRGiOBjZixb) | [Dj KLJay](https://open.spotify.com/artist/2MpPNxxzzAF1gWSyEotsNV), [Xis](https://open.spotify.com/artist/1y8yhK12XTLCbWDs4aLgc1) | [Na Batida \(Vol\. 3\)](https://open.spotify.com/album/6sRhjHVE4b0DC7EdaynzuU) | 6:08 | 2022-03-11 | 2022-07-29 |
-| [Tudo por Você Também](https://open.spotify.com/track/7a2m3Z3GV54fPWhKNv55vI) | [Xis](https://open.spotify.com/artist/1y8yhK12XTLCbWDs4aLgc1) | [Fortificando a Desobediência](https://open.spotify.com/album/2cGL7y3C3yRMv7qo6Bk5Rt) | 6:09 | 2022-04-22 |  |
+| [Tudo por Você Também](https://open.spotify.com/track/7a2m3Z3GV54fPWhKNv55vI) | [Xis](https://open.spotify.com/artist/1y8yhK12XTLCbWDs4aLgc1) | [Fortificando a Desobediência](https://open.spotify.com/album/2cGL7y3C3yRMv7qo6Bk5Rt) | 6:09 | 2022-04-22 | 2022-11-12 |
 | [Ucê Lembra](https://open.spotify.com/track/04KQ5fhrzEdfGB2L3OJJSv) | [Trilha Sonora do Gueto](https://open.spotify.com/artist/5gOXpF0vOYUvYwBCd80hQv), [Ester Mello](https://open.spotify.com/artist/30DjiOaSbDvlqJQGkJAQZo), [jonatas nascimento](https://open.spotify.com/artist/7GrNVXnQ800k7EqwBIEPoI) | [Ucê Lembra](https://open.spotify.com/album/5UfHBBQWL96CR6saMUKmUz) | 5:24 | 2022-04-01 |  |
 | [Us Mano e as Mina](https://open.spotify.com/track/75LqUvMAxMeEvcJsrVahB1) | [Xis](https://open.spotify.com/artist/1y8yhK12XTLCbWDs4aLgc1) | [Seja Como For](https://open.spotify.com/album/7I9xil7ukJrSkUY46RjMSd) | 4:39 | 2022-03-11 | 2022-07-29 |
 | [Us Mano e as Mina](https://open.spotify.com/track/4MzP4ITKbtQ9e844ZjJwIP) | [Xis](https://open.spotify.com/artist/1y8yhK12XTLCbWDs4aLgc1) | [Seja Como For \(Remasterizado\)](https://open.spotify.com/album/2EakaAF1aDE6yD08rq60iy) | 4:39 | 2022-04-22 |  |

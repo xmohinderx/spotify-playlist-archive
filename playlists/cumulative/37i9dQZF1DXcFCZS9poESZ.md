@@ -4,7 +4,7 @@
 
 > The hottest Anime hits of the 80s\. 1980年代のアニメソングを特集。Illustration by <a href="https://www.instagram.com/hideyasu\_moto/"> Hideyasu Moto</a>
 
-81 songs - 5 hr 5 min - [published](https://open.spotify.com/playlist/0uSxULhDNVOvYtYBEkyzjw)
+84 songs - 5 hr 17 min - [published](https://open.spotify.com/playlist/0uSxULhDNVOvYtYBEkyzjw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [Daisuki Shinba](https://open.spotify.com/track/68hMeIvF2TKpM9ZZola13Z) | [富永みーな](https://open.spotify.com/artist/5oHyb66DLgPlCxEGovrT75) | [Daisuki Shinba](https://open.spotify.com/album/5tI1JwyeinlZKDHQHK2gvM) | 3:19 | 2022-06-21 |  |
 | [Dang Dang 気になる](https://open.spotify.com/track/11YTv3GEL4jjdjhiql2UP2) | [Yuma Nakamura](https://open.spotify.com/artist/7u6xeEpCiWIujinH9b5Npb) | [美味しんぼ オリジナル・サウンドトラック アンティパスト](https://open.spotify.com/album/0rjITZo3YffaNud5UBbXN5) | 3:46 | 2021-10-07 |  |
 | [Get Wild](https://open.spotify.com/track/5CwhBU7eqQgkOVMnRNuzzT) | [TM NETWORK](https://open.spotify.com/artist/6aXIcqTy3R1dqSml9HQZUB) | [GIFT FOR FANKS](https://open.spotify.com/album/5DgpgDOhxb73qG70raHy3F) | 4:00 | 2021-10-07 | 2022-07-29 |
-| [Get Wild](https://open.spotify.com/track/7MBCVS5iqoAY6F106jdLOb) | [TM NETWORK](https://open.spotify.com/artist/6aXIcqTy3R1dqSml9HQZUB) | [TM NETWORK THE SINGLES 1](https://open.spotify.com/album/1WrWUdn5cOBA0PbBFrE4z0) | 4:00 | 2022-06-21 |  |
+| [Get Wild](https://open.spotify.com/track/7MBCVS5iqoAY6F106jdLOb) | [TM NETWORK](https://open.spotify.com/artist/6aXIcqTy3R1dqSml9HQZUB) | [TM NETWORK THE SINGLES 1](https://open.spotify.com/album/1WrWUdn5cOBA0PbBFrE4z0) | 4:00 | 2022-06-21 | 2022-11-12 |
+| [Get Wild](https://open.spotify.com/track/0y16coW4wqiPmiZmPDDXYL) | [TM NETWORK](https://open.spotify.com/artist/6aXIcqTy3R1dqSml9HQZUB) | [TM NETWORK/TMN BEST TRACKS 〜A message to the next generation〜](https://open.spotify.com/album/3jqLGfV5WZPF14SfmkHXLx) | 4:00 | 2022-06-21 |  |
 | [Jajauma ni Sasenaide](https://open.spotify.com/track/3kNZCnIW7TfSWyuPIfYvp0) | [Ranma 1/2](https://open.spotify.com/artist/72qUhfSJSbholn96Bpayw1) | [Ranma 1/2 Okamochi Tokusen \~ Nekohanten Menu Song \~](https://open.spotify.com/album/3pM4KHEXQ6YyAv0gEK8hs3) | 1:40 | 2022-06-21 |  |
 | [Kanashimi wa Beat ni Kaete \~ Rise and Shine \~ \(Bonus Track\)](https://open.spotify.com/track/3RhVQ3218s7D8IigCIGWeD) | [Ami Ozaki](https://open.spotify.com/artist/0BPn2k0BoBN6XceavMVCTj) | [Lapis Lazuli](https://open.spotify.com/album/0Xt59Se0urYzrnJ0OjdVGD) | 5:00 | 2022-06-21 |  |
 | [Kanashimi yo Konnichiwa](https://open.spotify.com/track/6dV9T2lZXxtOy9xFcovDoU) | [Yuki Saitou](https://open.spotify.com/artist/5ySccSThgufSUXyDQHnLae) | [Yuki Saitou Best](https://open.spotify.com/album/2Ro6G8Ovz6oTSSDkr8QRRd) | 3:55 | 2022-06-21 |  |
@@ -36,7 +37,8 @@
 | [Touch](https://open.spotify.com/track/4aFneI3IWBoVUQAVQq3DBt) | [Yoshimi Iwasaki](https://open.spotify.com/artist/7mAczrzrX3yC9yix8DM1YV) | [Touch](https://open.spotify.com/album/7xPNqHgWm3mNT859JSRy8I) | 3:14 | 2022-06-21 |  |
 | [TRANSFORMAR \~トランスフォーマー\~](https://open.spotify.com/track/1atzPmoTCzu2kAiazwkEMO) | [下成佐登子](https://open.spotify.com/artist/6wUc7IOOkKB2WJhZL1wmvy) | [日本テレビ 懐かしのアニメソング集](https://open.spotify.com/album/5m3o3dKcH1JpkzkXnVUtqT) | 3:40 | 2021-10-07 |  |
 | [Ushiroyubi Sasare Gumi](https://open.spotify.com/track/00DIQnX8LllF7OWKGuawqI) | [Ushiroyubi Sasaregumi](https://open.spotify.com/artist/41Sy2SaLzGisGM4k2SOH1l) | ["Ushiroyubi Sasare Gumi + Ushirogami Hikare Tai" Singles Complete](https://open.spotify.com/album/6wUPyUGeOSrAd4P2cYgJhk) | 4:21 | 2022-06-21 |  |
-| [Wakakusa no Shoutaijou](https://open.spotify.com/track/1EV97OZOlKWBSpCSYeB2GF) | [Eri Nitta](https://open.spotify.com/artist/4vvVj2EmAHKouLCoO1f373) | [Ritardando](https://open.spotify.com/album/7ipdXRuKjQJ0vta61HrMUY) | 3:21 | 2022-06-21 |  |
+| [Wakakusa no Shoutaijou](https://open.spotify.com/track/1EV97OZOlKWBSpCSYeB2GF) | [Eri Nitta](https://open.spotify.com/artist/4vvVj2EmAHKouLCoO1f373) | [Ritardando](https://open.spotify.com/album/7ipdXRuKjQJ0vta61HrMUY) | 3:21 | 2022-06-21 | 2022-11-12 |
+| [Wakakusa no Shoutaijou](https://open.spotify.com/track/3a4GHXjh3U6FWsINJtk2zD) | [Eri Nitta](https://open.spotify.com/artist/4vvVj2EmAHKouLCoO1f373) | [E\-Area + Single Collection](https://open.spotify.com/album/35x04d6gCX2LJ9EDGrjA0J) | 3:22 | 2022-06-21 |  |
 | [うしろゆびさされ組](https://open.spotify.com/track/3d6RE0vvmNiu2Eigwn7OxW) | [Ushiroyubi Sasaregumi](https://open.spotify.com/artist/41Sy2SaLzGisGM4k2SOH1l) | [∞](https://open.spotify.com/album/4oVD5p4q6K6mD6I94iasoN) | 4:23 | 2021-10-07 | 2022-07-29 |
 | [じゃじゃ馬にさせないで](https://open.spotify.com/track/2CN6Ku8RAJc14d4BbkD5rk) | [らんま1/2](https://open.spotify.com/artist/50h5fygfWtNlFN4FrddJCd) | [らんま1/2 おか持ち特選\~猫飯店メニュー・ソング\~](https://open.spotify.com/album/0dRu0BUHGRswjKwqoQtRlk) | 1:40 | 2021-10-07 | 2022-07-29 |
 | [だいすきシンバ](https://open.spotify.com/track/1I1FRDNHyVHWFNCg3Ill9Y) | [富永みーな](https://open.spotify.com/artist/5oHyb66DLgPlCxEGovrT75) | [だいすきシンバ](https://open.spotify.com/album/2eal8rVg8qsXHqnxqitfdY) | 3:19 | 2022-06-21 | 2022-07-29 |
@@ -75,8 +77,9 @@
 | [愛よ ファラウェイ](https://open.spotify.com/track/34DdWdz35Zlfu8BOHmv2g3) | [Rie Fujiwara](https://open.spotify.com/artist/61EJNeLSuvuA8n8As8YENc) | [青春したい](https://open.spotify.com/album/2Bvzzo7LW4efdBu9UhdAik) | 3:51 | 2021-10-07 | 2022-07-29 |
 | [愛よ ファラウェイ](https://open.spotify.com/track/0v3JsfnNpx8ikSKU7mP6SI) | [Rie Fujiwara](https://open.spotify.com/artist/61EJNeLSuvuA8n8As8YENc) | [BOMB presents 「永遠の'80お宝アイドル大集合!」](https://open.spotify.com/album/3plRttRxjRmbfJiYesocdu) | 3:53 | 2022-06-21 |  |
 | [愛をとりもどせ!!](https://open.spotify.com/track/3ZiiqVTRW0DKrOnkbTdlrk) | [CRYSTALKING](https://open.spotify.com/artist/4ZkxyrVGZwQYwjEHO99njF) | [アニメ北斗の拳 オリジナルE.P.](https://open.spotify.com/album/3TXGqlSWEfrRPFZT1ccukx) | 2:56 | 2021-10-07 |  |
-| [愛・おぼえていますか](https://open.spotify.com/track/6rfiZvgzmHoohZs5OCo3D7) | [Mari Iijima](https://open.spotify.com/artist/0dhvGf9gL3XEeRleaJ3xij) | [palette\(パレット\)](https://open.spotify.com/album/2LI4KcqWZH9OT6aDnOpmpU) | 5:08 | 2022-06-21 |  |
+| [愛・おぼえていますか](https://open.spotify.com/track/6rfiZvgzmHoohZs5OCo3D7) | [Mari Iijima](https://open.spotify.com/artist/0dhvGf9gL3XEeRleaJ3xij) | [palette\(パレット\)](https://open.spotify.com/album/2LI4KcqWZH9OT6aDnOpmpU) | 5:08 | 2022-06-21 | 2022-11-12 |
 | [愛・おぼえていますか](https://open.spotify.com/track/2uTwJLK1BaFVbEX5qX9D1W) | [Mari Iijima](https://open.spotify.com/artist/0dhvGf9gL3XEeRleaJ3xij) | [「映画 超時空要塞マクロス」 愛・おぼえていますか <音楽篇>](https://open.spotify.com/album/4M8FC84kiEbXl7W49WxspP) | 5:09 | 2021-10-07 | 2022-07-29 |
+| [愛・おぼえていますか](https://open.spotify.com/track/31ZOxuWRsNRDi5hyFP4FW2) | [Mari Iijima](https://open.spotify.com/artist/0dhvGf9gL3XEeRleaJ3xij) | [ゴールデン☆ベスト\~ビクター・イヤーズ](https://open.spotify.com/album/0IyNR2UY9CuIwJuJi3eS0I) | 5:11 | 2022-06-21 |  |
 | [摩訶不思議アドベンチャー! \(2005 ver.\)](https://open.spotify.com/track/4auleowVdRUDSLGb4tm5Xz) | [高橋 洋樹](https://open.spotify.com/artist/6nMPmmyyIKwyTwZAbZQe4Z) | [アニソンNo.1](https://open.spotify.com/album/3Q80IekfQVdlXUnavNDuTI) | 3:51 | 2022-06-21 |  |
 | [摩訶不思議アドベンチャー! \(2005 Ver.\)](https://open.spotify.com/track/0lxh7xJI8smaLySC8dhfcY) | [高橋 洋樹](https://open.spotify.com/artist/6nMPmmyyIKwyTwZAbZQe4Z) | [摩訶不思議アドベンチャー! \(2005ver.\)](https://open.spotify.com/album/3TAO77XY0Aq5OKf0rixkLG) | 3:53 | 2021-10-07 | 2022-07-29 |
 | [正調 おそ松節](https://open.spotify.com/track/6iq0zO56ijjOVpbcP44e3v) | [Takashi Hosokawa](https://open.spotify.com/artist/0Ap43v8UntUyEB5kLb7vac) | [芸道40年記念 細川たかし全集 心のこり〜艶歌船](https://open.spotify.com/album/4Y5hOPaaQBHbXJQsKyebom) | 3:42 | 2021-10-07 |  |

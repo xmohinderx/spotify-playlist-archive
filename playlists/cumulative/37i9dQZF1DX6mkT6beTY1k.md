@@ -4,7 +4,7 @@
 
 > time to confess your crush
 
-62 songs - 3 hr 33 min - [published](https://open.spotify.com/playlist/56BPEJhjg8AFimSmGrGe6w)
+63 songs - 3 hr 37 min - [published](https://open.spotify.com/playlist/56BPEJhjg8AFimSmGrGe6w)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,8 @@
 | [This Love \(Taylor’s Version\)](https://open.spotify.com/track/4d1CG5ei1E2vGbvmgf5KKv) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [This Love \(Taylor’s Version\)](https://open.spotify.com/album/3In1CblWZswwun5MhOa10y) | 4:10 | 2022-05-06 |  |
 | [Until I Found You](https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Until I Found You](https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i) | 2:57 | 2022-05-06 |  |
 | [We Belong Together](https://open.spotify.com/track/7caj6X6NMX3tlhWnu1du6V) | [Ritchie Valens](https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P) | [Ritchie Valens](https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W) | 1:56 | 2022-05-06 |  |
-| [You're Still The One](https://open.spotify.com/track/1wb4P4F0sxAQ2KXrRvsx6n) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9) | 3:32 | 2022-05-06 |  |
+| [You're Still The One](https://open.spotify.com/track/1wb4P4F0sxAQ2KXrRvsx6n) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9) | 3:32 | 2022-05-06 | 2022-11-12 |
+| [You're Still The One](https://open.spotify.com/track/3fOEldPK2dTA6C12PzrDtT) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Cleaning At Home \- Pop Edition](https://open.spotify.com/album/6APP9HoLEQFYYySdwgxC1G) | 3:32 | 2022-05-06 |  |
 | [You're Still The One](https://open.spotify.com/track/7wCH9DbgRs7ujHeqNy6oAS) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/0vOj0JVKv2bobFBBUTjgQF) | 3:32 | 2022-05-06 | 2022-07-29 |
 | [Young And Beautiful](https://open.spotify.com/track/2nMeu6UenVvwUktBCpLMK9) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Young And Beautiful](https://open.spotify.com/album/1D92WOHWUI2AGQCCdplcXL) | 3:56 | 2022-05-06 |  |
 | [Your Song](https://open.spotify.com/track/38zsOOcu31XbbYj9BIPUF1) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Elton John](https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0) | 4:01 | 2022-05-06 |  |

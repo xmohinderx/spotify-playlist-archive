@@ -4,7 +4,7 @@
 
 > Epic and melodic metal, for the dragonslayer in you! Cover: Beyond The Black
 
-498 songs - 1 day 14 hr 26 min - [published](https://open.spotify.com/playlist/7kEcasUjgrsWeDSNxMBt56)
+501 songs - 1 day 14 hr 40 min - [published](https://open.spotify.com/playlist/7kEcasUjgrsWeDSNxMBt56)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -268,7 +268,8 @@
 | [Melancholia](https://open.spotify.com/track/6WtbP3cLqZzCTpE5hixRox) | [Dark Sarah](https://open.spotify.com/artist/6TvwiAPxsB2Zj2o8bNlogk) | [Melancholia](https://open.spotify.com/album/7y6GgbKr1I0kFTh84eQcsk) | 6:28 | 2020-11-29\* | 2021-09-04 |
 | [Melancholy Angel](https://open.spotify.com/track/0sfsaYvx2fMwJq3WNrVnX5) | [Visions of Atlantis](https://open.spotify.com/artist/5kanN1nKzrkW1m2gZmo82x) | [Melancholy Angel](https://open.spotify.com/album/0d4Xfz2PLvuCgy5TEVieHi) | 3:55 | 2022-05-13 | 2022-07-29 |
 | [Melancholy Angel](https://open.spotify.com/track/3dUh0IyeVBCEaHZciFOSAO) | [Visions of Atlantis](https://open.spotify.com/artist/5kanN1nKzrkW1m2gZmo82x) | [Melancholy Angel](https://open.spotify.com/album/5vZb64hkg5telnO3kemLaJ) | 3:55 | 2022-04-15 | 2022-05-14 |
-| [Melancholy Angel](https://open.spotify.com/track/4N4N0iUDXixLEm7RIIVBJt) | [Visions of Atlantis](https://open.spotify.com/artist/5kanN1nKzrkW1m2gZmo82x) | [Pirates](https://open.spotify.com/album/0fLeH63QKjTuh7pr2RbEYj) | 3:55 | 2022-07-08 |  |
+| [Melancholy Angel](https://open.spotify.com/track/4EoWt8hpTaax6v6Ckuyoyo) | [Visions of Atlantis](https://open.spotify.com/artist/5kanN1nKzrkW1m2gZmo82x) | [Master the Hurricane](https://open.spotify.com/album/02dWOZprnwjXGkggw6Fwz4) | 3:55 | 2022-10-26 |  |
+| [Melancholy Angel](https://open.spotify.com/track/4N4N0iUDXixLEm7RIIVBJt) | [Visions of Atlantis](https://open.spotify.com/artist/5kanN1nKzrkW1m2gZmo82x) | [Pirates](https://open.spotify.com/album/0fLeH63QKjTuh7pr2RbEYj) | 3:55 | 2022-07-08 | 2022-11-12 |
 | [Metal United](https://open.spotify.com/track/2J39E5ALx4hS1WkhWl6qXu) | [Majestica](https://open.spotify.com/artist/52lkxAYfC9ypaPJ2EB22ki) | [Metal United](https://open.spotify.com/album/0GVawmsGBiJTnKcY0rpIDX) | 3:38 | 2021-09-11 | 2022-05-07 |
 | [Midnight and Mescaline](https://open.spotify.com/track/3t4YDFoNxY1aXV4dt2J3xl) | [Pelican](https://open.spotify.com/artist/0Gq06EJlfPumvCdMsnkJFp) | [Midnight and Mescaline](https://open.spotify.com/album/5a2EP1IWgSmqqILvd0pGCL) | 4:56 | 2022-07-13 | 2022-07-29 |
 | [Moonlight Rendezvous](https://open.spotify.com/track/30cxiM2snx2Hstvhk8Z7pv) | [Beast In Black](https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH) | [Moonlight Rendezvous](https://open.spotify.com/album/4Hzr7Tgtvn9QQX3HQmLktH) | 5:38 | 2021-09-04 | 2021-10-01 |
@@ -337,8 +338,9 @@
 | [Ragnarök \- Era Metallum \- Single Edit](https://open.spotify.com/track/2j3jNQO24XOiCa6g3kikMD) | [Corvus Corax](https://open.spotify.com/artist/0Qeg2Ytz5AcfvkIO3RYV3z), [SAMI YLI\-SIRNIO](https://open.spotify.com/artist/5OpE2VHSQsDY77cYQ6uueg), [Arndis Halla](https://open.spotify.com/artist/1kbHZGHbzWSHRLoWYsxCuv) | [Ragnarök](https://open.spotify.com/album/1EdKAmwjbSaY1dIaXxkGHa) | 7:34 | 2020-11-29\* | 2021-06-19 |
 | [Rain of Fury](https://open.spotify.com/track/0uk6pxp37C1pyiEJlArHjw) | [Rhapsody Of Fire](https://open.spotify.com/artist/2GnCQNJbs4xqFulqAdAg2U) | [Rain of Fury](https://open.spotify.com/album/2tPRCM3gWcRJtYlkxbB9SK) | 4:09 | 2020-11-29\* | 2021-03-19 |
 | [Raindancer](https://open.spotify.com/track/1olGgDin8tiO3kTIoyledK) | [Wontolla](https://open.spotify.com/artist/6sLPjMfzIyZdS6wlKALiyM) | [Raindancer \(And Other Stories\)](https://open.spotify.com/album/1PjEzFU7OCRnSIr1k5Cbcd) | 4:23 | 2022-07-13 | 2022-07-27 |
-| [Reborn](https://open.spotify.com/track/0hCBk9VMLgCfbnikfUgmbA) | [Xandria](https://open.spotify.com/artist/1jzIEzXVJ4p1kFDmio6LEL) | [Reborn](https://open.spotify.com/album/06K3aF7hbLYGAQHAH6Wo83) | 5:13 | 2022-07-08 |  |
+| [Reborn](https://open.spotify.com/track/0hCBk9VMLgCfbnikfUgmbA) | [Xandria](https://open.spotify.com/artist/1jzIEzXVJ4p1kFDmio6LEL) | [Reborn](https://open.spotify.com/album/06K3aF7hbLYGAQHAH6Wo83) | 5:13 | 2022-07-08 | 2022-11-12 |
 | [Reborn](https://open.spotify.com/track/2rrA5aGSHeye6rrLwOALyL) | [Xandria](https://open.spotify.com/artist/1jzIEzXVJ4p1kFDmio6LEL) | [Reborn](https://open.spotify.com/album/0zh2lUNCj933FBJ4xJwk8J) | 5:13 | 2022-05-27 | 2022-07-29 |
+| [Reborn](https://open.spotify.com/track/3Wryqjwxdj49PN0lsjt73G) | [Xandria](https://open.spotify.com/artist/1jzIEzXVJ4p1kFDmio6LEL) | [Ghosts](https://open.spotify.com/album/0aayBd4RiH5GfNHfatX9U2) | 5:13 | 2022-10-26 |  |
 | [Recalibrate](https://open.spotify.com/track/7Mpg3d00sbxjBo0VpevFfz) | [Interiors](https://open.spotify.com/artist/6TEuvabwty4rd8HKukzadp) | [Recalibrate](https://open.spotify.com/album/6tTOBaL3M15a4R98RqSHZu) | 4:52 | 2022-07-13 | 2022-07-15 |
 | [Regeneration](https://open.spotify.com/track/67RxGeIlRqO7vF8Y7jlcKe) | [7 Horns 7 Eyes](https://open.spotify.com/artist/7yIB0NEraChQWo3igWkGOJ) | [Throes of Absolution](https://open.spotify.com/album/2kaJFqDRn17lsqQ48X7dgD) | 6:41 | 2022-07-13 | 2022-07-29 |
 | [Reincarnation](https://open.spotify.com/track/3scNYs59MN2puKtlwnzq9Z) | [Beyond The Black](https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf) | [Reincarnation](https://open.spotify.com/album/4yc9P5BoQkFrHlKPcW6UsQ) | 4:09 | 2022-06-17 |  |
@@ -464,7 +466,8 @@
 | [Verloren Strijd](https://open.spotify.com/track/4W93X5QjtJGiIaVjTVIfKi) | [Maudits](https://open.spotify.com/artist/14DmKdELQIMUDvuixsXU4K) | [Maudits](https://open.spotify.com/album/0kuZgQGzr35LrM1ZKLKKUl) | 5:15 | 2022-07-13 | 2022-07-28 |
 | [Victorious](https://open.spotify.com/track/5fj8gbxJ0LR464ylTwJPZ6) | [Psychework](https://open.spotify.com/artist/4uKphGSJb3SgI2gsAbcCPp) | [Victorious](https://open.spotify.com/album/3dYmEXVat2fvSDh0JimSjR) | 3:55 | 2021-06-19 | 2022-02-26 |
 | [Victorious Dinogods](https://open.spotify.com/track/2WaIiTbj3K9aosf0L0qvat) | [Victorius](https://open.spotify.com/artist/2INeE2VBbawRQNI6ezc4lN) | [Victorious Dinogods](https://open.spotify.com/album/6fAAa9vaM15S6LerBoaN6P) | 4:46 | 2022-04-22 | 2022-07-29 |
-| [Victorious Dinogods](https://open.spotify.com/track/3OgXzA0isNtksoVjTgHRPf) | [Victorius](https://open.spotify.com/artist/2INeE2VBbawRQNI6ezc4lN) | [Dinosaur Warfare Pt\. 2 – The Great Ninja War](https://open.spotify.com/album/1mOt5zGtWlns8V3AD5HMCr) | 4:46 | 2022-07-08 |  |
+| [Victorious Dinogods](https://open.spotify.com/track/3IELmqSo9EZ3PZAKzfPd2R) | [Victorius](https://open.spotify.com/artist/2INeE2VBbawRQNI6ezc4lN) | [Mighty Magic Mammoth](https://open.spotify.com/album/3B2nV6ZF3dmuxRkofL6BnV) | 4:46 | 2022-10-26 |  |
+| [Victorious Dinogods](https://open.spotify.com/track/3OgXzA0isNtksoVjTgHRPf) | [Victorius](https://open.spotify.com/artist/2INeE2VBbawRQNI6ezc4lN) | [Dinosaur Warfare Pt\. 2 – The Great Ninja War](https://open.spotify.com/album/1mOt5zGtWlns8V3AD5HMCr) | 4:46 | 2022-07-08 | 2022-11-12 |
 | [Virtuous Tragedy](https://open.spotify.com/track/6RfFbtkicdF4e4UdPgvm1F) | [Aram Zero](https://open.spotify.com/artist/4w90cLrCPXk5Z5x7d8tetY) | [Virtuous Tragedy](https://open.spotify.com/album/5TUTInpDsD7lSJAls9WN0x) | 4:06 | 2022-07-13 | 2022-07-30 |
 | [Vita Nova](https://open.spotify.com/track/2o7Exjn3bLrKOYS7rsJXlr) | [Eye of Melian](https://open.spotify.com/artist/4o6EEebyNsDyI14s2jnB4G), [Johanna Kurkela](https://open.spotify.com/artist/7fsO7iJz8gv776THRffk0A) | [Vita Nova](https://open.spotify.com/album/6HLg30KBqgZsKRhWeKmops) | 6:04 | 2022-01-21 |  |
 | [Viva La Victoria](https://open.spotify.com/track/0TpukZ7KJGyxYGFe6AgtOD) | [Eclipse](https://open.spotify.com/artist/23ajwxFk5RBpPERZrcjHUr) | [Viva La Victoria](https://open.spotify.com/album/22VcmOjOj8Dx7GBcYmFu8A) | 3:11 | 2020-11-29\* | 2021-06-04 |

@@ -4,7 +4,7 @@
 
 > Check out these throwback R&B jams from the first decade of the 21st century\. Cover: Chris Brown
 
-138 songs - 9 hr 31 min - [published](https://open.spotify.com/playlist/7MJ3ipEjnPWxpL2L6nZbav)
+139 songs - 9 hr 35 min - [published](https://open.spotify.com/playlist/7MJ3ipEjnPWxpL2L6nZbav)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Into You \(feat\. Fabolous\)](https://open.spotify.com/track/0ceeRNqbOzRiGE42KWSrRa) | [Tamia](https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy) | [More](https://open.spotify.com/album/43QuYbSfbTjcsghwJyUnyP) | 4:54 | 2021-09-10 | 2022-07-28 |
 | [It's Over Now](https://open.spotify.com/track/769geiA8btidGHda4BBDOJ) | [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [Part III](https://open.spotify.com/album/6QlbqTqKJt1UnuH3PLz9mb) | 4:24 | 2021-09-10 |  |
 | [Just Friends \(Sunny\)](https://open.spotify.com/track/5jgEJXjECdlhzNgfITSTVm) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [Aijuswanaseing](https://open.spotify.com/album/2RmMKj20xouC3Mqq1CyZ3c) | 4:11 | 2022-08-21 |  |
+| [Just in Case](https://open.spotify.com/track/0YHBvFhfCJHyP5qfgtiX1o) | [Jaheim](https://open.spotify.com/artist/4sbB4Yy6Qig51pKCIKSLw3) | [Ghetto Love](https://open.spotify.com/album/2Hvu2Yh4ghgcLvYLr3V5dM) | 4:23 | 2022-08-21 |  |
 | [Kiss Kiss \(feat\. T\-Pain\)](https://open.spotify.com/track/3wKKkGVn7cVSfgPeYYIiXG) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Exclusive \(Expanded Edition\)](https://open.spotify.com/album/6p5pW2WwgVECsOhrXPAyhI) | 4:10 | 2022-02-11 |  |
 | [Let It Go](https://open.spotify.com/track/2RqZFOLOnzVmHUX7ZMcaES) | [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX) | [Just Like You](https://open.spotify.com/album/7mdy09EO4q6F9VWBtXDDjK) | 3:58 | 2021-09-10 |  |
 | [Let Me Love You](https://open.spotify.com/track/3ibKnFDaa3GhpPGlOUj7ff) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Let Me Love You](https://open.spotify.com/album/7EXstuWka51pNFzEAidEol) | 4:16 | 2021-09-10 |  |
@@ -111,7 +112,7 @@
 | [Shoulda Let You Go](https://open.spotify.com/track/1yTfczdv9qGCfJpZF3y4yQ) | [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3), [Amina](https://open.spotify.com/artist/642UEJuKWqIch9pOmTWquR) | [Just Like You](https://open.spotify.com/album/7mdy09EO4q6F9VWBtXDDjK) | 3:40 | 2021-09-10 | 2022-07-29 |
 | [Since You've Been Gone](https://open.spotify.com/track/6gA3b0M69d0SzuZqWtZXWD) | [DAY26](https://open.spotify.com/artist/7dpKVB4mK3ufNdZOpMKtrd) | [DAY26](https://open.spotify.com/album/6nNMXP0XTdOCMaV23JmNM2) | 4:10 | 2021-09-10 | 2022-06-07 |
 | [Slow Down \- 12" Version](https://open.spotify.com/track/3SfZpKjMwvUQKGCty1dJ0T) | [Bobby V.](https://open.spotify.com/artist/4HgF4KnohByNElYid7iCNb) | [Disturbing Tha Peace Presents Bobby Valentino](https://open.spotify.com/album/5D7khI4iB1RseZNgoBQPLi) | 4:18 | 2021-09-10 | 2022-07-29 |
-| [Slow Down \- 12" Version](https://open.spotify.com/track/4Ilen0VxPEsVRLpnePji8P) | [Bobby V.](https://open.spotify.com/artist/4HgF4KnohByNElYid7iCNb) | [Disturbing Tha Peace Presents Bobby Valentino](https://open.spotify.com/album/6tiqcLj9TP3qaxWUbNuPYn) | 4:18 | 2022-02-11 |  |
+| [Slow Down \- 12" Version](https://open.spotify.com/track/4Ilen0VxPEsVRLpnePji8P) | [Bobby V.](https://open.spotify.com/artist/4HgF4KnohByNElYid7iCNb) | [Disturbing Tha Peace Presents Bobby Valentino](https://open.spotify.com/album/6tiqcLj9TP3qaxWUbNuPYn) | 4:18 | 2022-02-11 | 2022-11-12 |
 | [So Gone](https://open.spotify.com/track/6BIcjFZIVDZxNAcofRFPx4) | [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [After The Storm](https://open.spotify.com/album/4lSQkGgFffaUOd22Yrc25v) | 4:02 | 2021-09-10 |  |
 | [Soldier \(feat\. T.I\. & Lil' Wayne\)](https://open.spotify.com/track/4FTOpNYcGxnQdGNWSxIcio) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Destiny Fulfilled](https://open.spotify.com/album/0b6ivSFfDs38MG7aLn9rvO) | 5:25 | 2021-09-10 |  |
 | [Southside](https://open.spotify.com/track/7lurcq2Yw96B1K0KOJAHxg) | [Lloyd](https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9), [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Southside](https://open.spotify.com/album/317R21F7calEn6gpLnHEkb) | 4:37 | 2022-08-21 |  |

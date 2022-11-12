@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3yw5kZsheMK.md) - [plain]
 
 > Lyrical lullabies for your bedtime routine.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,965 likes - 82 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,984 likes - 82 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3yw5kZsheMK.md) - [plain]
 | 59 | [Paper Boat](https://open.spotify.com/track/6MwywkGKmWtYDtsHEtVnB4) | [Timbuktu](https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe), [Mapei](https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz), [Lullabies](https://open.spotify.com/artist/49Ig1fdepIMRJ5JUIr7Ppg) | [Lullabies](https://open.spotify.com/album/1Lcth0stK7A9Xl46Gknzc7) | 2:45 |
 | 60 | [I Can See Clearly Now](https://open.spotify.com/track/3e6JSJ8NtOzxbatXKnV6xh) | [Renee & Jeremy](https://open.spotify.com/artist/7IBisryIBGbvj4wBDuRvy5), [Renee Stahl](https://open.spotify.com/artist/2WfQMdILaDJoPYCcWKKqpJ), [Jeremy Toback](https://open.spotify.com/artist/1aH1XTozXuGinGzdNWzyrt) | [Whole Lotta Love](https://open.spotify.com/album/1VbKUzv2wMxhQq1itmdHyR) | 2:50 |
 | 61 | [Paseo Lunar](https://open.spotify.com/track/1BjvW2l7mZHx5AFwSCXjZd) | [The Lucky Band](https://open.spotify.com/artist/4cYmyYabyJSvdIOsTweQMz) | [Paseo Lunar](https://open.spotify.com/album/5PX2YJFNfAEBrgj8GfzaIs) | 3:05 |
-| 62 | [You Are My Sunshine](https://open.spotify.com/track/0tIwgdXaGSp9rYvjVNAoP7) | [Nursery Rhymes 123](https://open.spotify.com/artist/47tuSUJMhsa3twW6wgKdIW) | [Lullaby Baby](https://open.spotify.com/album/49k5jl8u2iuxMU4iyczJ9M) | 2:16 |
+| 62 | [You Are My Sunshine](https://open.spotify.com/track/2qKHqkqAY9OvzxuT3hoopH) | [Nursery Rhymes 123](https://open.spotify.com/artist/47tuSUJMhsa3twW6wgKdIW) | [Sleep Baby Lullabies](https://open.spotify.com/album/3zd4FY7D8AZGLM3SG8AUde) | 2:16 |
 | 63 | [Landslide](https://open.spotify.com/track/7LZkMzyslPJIhDMGnBFPty) | [Gardiner Sisters](https://open.spotify.com/artist/3J28FLi8jjXtUGWf69cP7I) | [Covers, Vol\. 1](https://open.spotify.com/album/3fGMt0VMIZqH08nfarMzjE) | 2:41 |
 | 64 | [XO](https://open.spotify.com/track/0oa6d6Nz5BmP7jquxEoyMm) | [Anna Elizabeth Laube](https://open.spotify.com/artist/6O0rWDT0LuZk9Cpe45kbcx) | [Tree](https://open.spotify.com/album/3pALJvtTxIm5i1aYlaZDnA) | 3:55 |
 | 65 | [Fix You](https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Fix You](https://open.spotify.com/album/0GqKv6ZSLVMgbjE8gVDpkC) | 2:21 |
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3yw5kZsheMK.md) - [plain]
 | 78 | [Rise and Fall](https://open.spotify.com/track/0OYxmXAaOipWo1dC4Osia7) | [Little Ripples](https://open.spotify.com/artist/4GucBSEcHamouGFsjPnAbZ) | [Rise and Fall](https://open.spotify.com/album/40LAPAJ4LC0dj1MTkrIjVi) | 5:34 |
 | 79 | [If You Can't Sleep](https://open.spotify.com/track/7o2T5dYOjQf7qpmavRerQE) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Volume Two](https://open.spotify.com/album/47A8zr0CzKLILnYcrXh2Rc) | 2:48 |
 | 80 | [Good Night](https://open.spotify.com/track/4dsDamCdYIyxQhKg5y7W39) | [Kidsongs](https://open.spotify.com/artist/4kFnO9EhFN74EK1a2UH5ZW) | [Baby Songs & Lullabies](https://open.spotify.com/album/0TmJVpPygubYNn8dMsmtsY) | 2:32 |
-| 81 | [Hush Little Baby](https://open.spotify.com/track/3AY9D4csUC3lUxmMntdGJw) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Laurie Berkner Lullabies](https://open.spotify.com/album/63Kg240oKnWjsXlKLE7lzt) | 3:01 |
+| 81 | [Hush Little Baby](https://open.spotify.com/track/2cgJ4loDbrQawzg3ug7IPX) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Calming Lullabies](https://open.spotify.com/album/5wcyqJKYGYqZL9n30E2BYp) | 3:01 |
 | 82 | [Brahms Lullaby \(Cradle Song\)](https://open.spotify.com/track/5iaobBgDcg2zPvhgXf0Z7g) | [Johannes Brahms](https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq), [Liona Boyd](https://open.spotify.com/artist/33lm6MIpEXiHzv06MUIUBu) | [Brahms Lullaby \(Cradle Song\)](https://open.spotify.com/album/60Ugf0sCUQdKbKl4MdPxYe) | 2:24 |
 
-Snapshot ID: `MTY1MzUwNjgxMCwwMDAwMDAwMDg1MGEyZTlhMjc4MmVmMTQyM2NhMzgwNTA2NDI4MDYz`
+Snapshot ID: `MTY1MzUwNjgxMCwwMDAwMDAwMDQwZDQzYmM1OTY2YzUxYjkzYmU3MjdkZDY2MzQ0ZjE0`

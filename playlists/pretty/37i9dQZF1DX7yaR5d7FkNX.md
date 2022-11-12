@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yaR5d7FkNX.md) - [plain]
 
 > Disfrutemos del amor en los tiempos del rock.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,286 likes - 115 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,457 likes - 115 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yaR5d7FkNX.md) - [plain]
 | 16 | [Inevitable](https://open.spotify.com/track/1gptFG7KprUHogyVXLZytK) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [Inevitable](https://open.spotify.com/album/2v0nWKYp3INzkGDRTQBqQa) | 3:24 |
 | 17 | [TQM](https://open.spotify.com/track/3ugSNE8PdPr2sfRWSNfCtX) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Río Salvaje](https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI) | 5:19 |
 | 18 | [Contour](https://open.spotify.com/track/3YY5FrLS9mnYOBnhr4uVoX) | [Rob](https://open.spotify.com/artist/08MbVpIfR68DibfHcDYaUe), [Jack Lahana](https://open.spotify.com/artist/1hN9BKDXYUmkZa9B1gOn69), [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Contour](https://open.spotify.com/album/7BBg5lA5vQOoiUWnrVWj86) | 3:44 |
-| 19 | [Brillas](https://open.spotify.com/track/6OKmGZASRCmiKQKz4hCNrs) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Solstis \- De León Larregui](https://open.spotify.com/album/0UwCZ5d7AFISyHxrpHjbqZ) | 3:44 |
+| 19 | [Brillas](https://open.spotify.com/track/0wVU74Grfynyrl7vlaCM0E) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Baladas Románticas Latinas](https://open.spotify.com/album/07EhDhHjge4hEJcXzUUq0j) | 3:44 |
 | 20 | [Libertad](https://open.spotify.com/track/1MMoSzv2oTgPNpsy54DKUR) | [Celest](https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl) | [Libertad](https://open.spotify.com/album/0dq3J0IKSXF3wDPbmrWSz8) | 5:05 |
 | 21 | [Sognare](https://open.spotify.com/track/5V6YkO4iQ9vAiq4d3shqnw) | [División Minúscula](https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p) | [Rock Meloso](https://open.spotify.com/album/3aTfDidXuV8i9NqfecHuFv) | 5:13 |
 | 22 | [Hoy Tengo Miedo](https://open.spotify.com/track/7dkzqJnqaLDEH8MsP1Rxx7) | [Fobia](https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS) | [Rosa Venus](https://open.spotify.com/album/35YMu32GI36kpBDG0Ts1ul) | 4:30 |
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yaR5d7FkNX.md) - [plain]
 | 48 | [Como Un Sol](https://open.spotify.com/track/3TDJAqSeDZheVTrPU7Ruui) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Alma En Fuego](https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk) | 4:17 |
 | 49 | [Sobre Natural](https://open.spotify.com/track/5ObT21PnQHQN7LMP3ItLZf) | [Victimas Del Doctor Cerebro](https://open.spotify.com/artist/6Z112eJxKl1E3nAbYZBr7M) | [Sobre Natural](https://open.spotify.com/album/4plALexvYJjioZhfvh47PA) | 3:25 |
 | 50 | [Girl](https://open.spotify.com/track/4zE9ITlebRL6Qx9K729Rkq) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5) | [Donde los Ponys Pastan](https://open.spotify.com/album/0trdxYmH6A4QEtdlbYWjtx) | 3:57 |
-| 51 | [Azul Oscuro](https://open.spotify.com/track/2arKxdHBNpI1zwTJDNmjwn) | [Zurdok](https://open.spotify.com/artist/2A2x3ZwZEOgWdSmSHZRIok) | [Azul Oscuro](https://open.spotify.com/album/5iYmmcWr3mTo9xzQOXByPe) | 4:21 |
+| 51 | [Azul Oscuro](https://open.spotify.com/track/0foav3p9d6BKaYhzFkGP7Y) | [Zurdok](https://open.spotify.com/artist/2A2x3ZwZEOgWdSmSHZRIok) | [Rock Latino Pa' Curar La Cruda](https://open.spotify.com/album/37g0WUTlL4p92pVKi9gRqg) | 4:21 |
 | 52 | [Andar Conmigo](https://open.spotify.com/track/05iMQqncVBIm4AE26EvaTL) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Si](https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB) | 3:13 |
 | 53 | [Historia](https://open.spotify.com/track/4NSZG57YtWfNbNH4ZUD7DE) | [Comisario Pantera](https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR), [Santi Balmes](https://open.spotify.com/artist/4ZvaqTTKRSOdPsuNBU9kSO) | [Cosmovisiones](https://open.spotify.com/album/2Jpnr6hBjbmSDrfWMWRYgZ) | 3:17 |
 | 54 | [Hablando Lento](https://open.spotify.com/track/0KdTs8DIDALkkxmbqGJQvr) | [Odisseo](https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd) | [Cambio Estacional](https://open.spotify.com/album/4l9pCun5O9jMUUqeJ7LiwU) | 3:36 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yaR5d7FkNX.md) - [plain]
 | 114 | [Góndola \- Live Session](https://open.spotify.com/track/1dOYmzJmvUTOAShmw6pT7V) | [Aceros del Pacífico](https://open.spotify.com/artist/4pF9TANr0OM6Ppf7Ejb91o), [Ana Rizo](https://open.spotify.com/artist/3jD6zAJRKQkylpOsaAVCiz) | [Góndola](https://open.spotify.com/album/4ETJicMeq2u0te2o6JxBdY) | 5:40 |
 | 115 | [El Ruido](https://open.spotify.com/track/6YJLHnSvofGO8vvKC8Bps0) | [Anthrés](https://open.spotify.com/artist/69euPppXM1JP7UYXzKBvi4) | [El Ruido](https://open.spotify.com/album/0P4JYnPhEPPdSmFq1jxObl) | 2:57 |
 
-Snapshot ID: `MTY2NDQwNjcyNCwwMDAwMDAwMGY5ZTNmMmMwMzRiMzYzZGQyMTg0MzI1MjgyYThkZmJm`
+Snapshot ID: `MTY2NDQwNjcyNCwwMDAwMDAwMGUxNjE0N2ZiNGE3NGQzNGVmZjVkNmU0N2IxYTcwYWI1`

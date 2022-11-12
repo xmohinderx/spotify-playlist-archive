@@ -4,7 +4,7 @@
 
 > The Latin soundtrack of the 90s! Cover: Selena
 
-124 songs - 8 hr 50 min - [published](https://open.spotify.com/playlist/16bzmiNJN2B7CeLU7dd3R4)
+126 songs - 8 hr 59 min - [published](https://open.spotify.com/playlist/16bzmiNJN2B7CeLU7dd3R4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [La Bilirrubina](https://open.spotify.com/track/4xzcXQrlMKwvv3kDpvBKWm) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Bachata Rosa](https://open.spotify.com/album/3lRQHKkCpntPvEoqh3C3B0) | 4:05 | 2022-01-01 |  |
 | [La Bomba](https://open.spotify.com/track/2IAtnd4UG52HQP9Rwart5h) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Vuelve](https://open.spotify.com/album/3B7djG7pr1PycUJiWW6NQL) | 4:34 | 2022-01-01 |  |
 | [La Calle De Las Sirenas](https://open.spotify.com/track/4KwYQPF1MrpItRpb2H6mdT) | [Kabah](https://open.spotify.com/artist/61hAcjvvUS6EXMpeeHwaDi) | [La Más Completa Colección](https://open.spotify.com/album/6kLkzewL7iIg1qGAnTaJwx) | 3:51 | 2022-01-01 | 2022-07-29 |
+| [La Calle De Las Sirenas](https://open.spotify.com/track/5sZpTiojY5snupqXOFIyeH) | [Kabah](https://open.spotify.com/artist/61hAcjvvUS6EXMpeeHwaDi) | [ICONIC \- Latin Pop Groups](https://open.spotify.com/album/1tZwxNj00Ncv9N6aDWw6Or) | 3:53 | 2022-08-31 |  |
 | [La Calle De Las Sirenas](https://open.spotify.com/track/1SVm64B4Ry7dqFSxHY8e65) | [Kabah](https://open.spotify.com/artist/61hAcjvvUS6EXMpeeHwaDi) | [La Calle De Las Sirenas](https://open.spotify.com/album/3Qe5Ldqub3nZPjq26sS1fS) | 3:56 | 2022-01-01 | 2022-11-11 |
 | [La Copa de la Vida \(La Cancion Oficial de la Copa Mundial, Francia '98\) \- Spanglish Radio Edit](https://open.spotify.com/track/0KnZ3Fgnqjmz4Sl2OA5zwa) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Ricky Martin](https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj) | 4:37 | 2022-01-01 |  |
 | [La Gota Fria](https://open.spotify.com/track/4tXR895KKljrC2VptgyEhJ) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Clasicos de la Provincia](https://open.spotify.com/album/2WtC5PE25yxWNPpAinn2in) | 3:35 | 2022-01-01 |  |
@@ -68,7 +69,7 @@
 | [María](https://open.spotify.com/track/0QQHPRbgLJJ5XNzJV1l9BW) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [A Medio Vivir](https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM) | 4:22 | 2022-01-01 |  |
 | [Matador \- Remasterizado 2008](https://open.spotify.com/track/5qULxNiifOwQ6qTVdx8JnE) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Éxitos del Pop Español de los Años 90](https://open.spotify.com/album/3EEOjXCSXAMxkJ6Czpecm8) | 4:34 | 2022-08-31 |  |
 | [Me haces tanto bien](https://open.spotify.com/track/5PM8SxOW02F9ChM0BLjALX) | [Amistades Peligrosas](https://open.spotify.com/artist/15FscPIs0VO23BCCMaPglf) | [La Ultima Tentación](https://open.spotify.com/album/4zgAUvHWJU5TsT7eoBM9Vq) | 3:55 | 2022-01-01 |  |
-| [Media Naranja](https://open.spotify.com/track/0m13X7XRcR5iijJuiotj3Q) | [Fey](https://open.spotify.com/artist/3uC20p2EoNm5LYtzSVWdkL) | [Lo Esencial](https://open.spotify.com/album/03NNoTNQrvsTVqeIt8icUM) | 3:41 | 2022-08-31 |  |
+| [Media Naranja](https://open.spotify.com/track/0m13X7XRcR5iijJuiotj3Q) | [Fey](https://open.spotify.com/artist/3uC20p2EoNm5LYtzSVWdkL) | [Lo Esencial](https://open.spotify.com/album/03NNoTNQrvsTVqeIt8icUM) | 3:41 | 2022-08-31 | 2022-11-12 |
 | [Media Naranja](https://open.spotify.com/track/2xhRroGUvJTSqHqPeLjdwC) | [Fey](https://open.spotify.com/artist/3uC20p2EoNm5LYtzSVWdkL) | [Fey](https://open.spotify.com/album/28ibwBS08IFdLkcmYSN7Jh) | 3:41 | 2022-01-01 | 2022-07-29 |
 | [Media Naranja](https://open.spotify.com/track/5qOOJibHjeGx0rhzL20JSc) | [Fey](https://open.spotify.com/artist/3uC20p2EoNm5LYtzSVWdkL) | [Originales \- 20 Exitos](https://open.spotify.com/album/3XJ5zeV7FVsvZQl0SNPBhy) | 3:41 | 2022-08-31 | 2022-11-11 |
 | [Mi Tierra](https://open.spotify.com/track/41LiGcvaTkXHyPjfsxKvWv) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Mi Tierra](https://open.spotify.com/album/2K2yvhTFeRBZdDboSQzFAJ) | 4:38 | 2022-01-01 |  |
@@ -82,6 +83,7 @@
 | [No Me Ames \(with Marc Anthony\) \- Tropical Remix](https://open.spotify.com/track/2gcnNWEv9x0g6FhEeWtYuV) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [On The 6](https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc) | 5:03 | 2022-01-01 |  |
 | [No Puedo Olvidarme Ti](https://open.spotify.com/track/3AZ2FAKI5pGoRgRdAwN2Mq) | [MDO](https://open.spotify.com/artist/08xFgTEmizKwzfDSbxvODp) | [MDO](https://open.spotify.com/album/1Qh8IqiGgpCGxHGXQdpbVr) | 3:30 | 2022-01-01 |  |
 | [Nunca Voy A Olvidarte](https://open.spotify.com/track/0ZeXFBOLHKW9kENLQFE6bt) | [Cristian](https://open.spotify.com/artist/3udlGv7o6NeUWRlRFGqPY9) | [Mis Mejores Momentos:Para Coleccionistas Romantic](https://open.spotify.com/album/101Hh240WmUplE337DUCEO) | 5:06 | 2022-08-31 | 2022-11-11 |
+| [Nunca Voy A Olvidarte](https://open.spotify.com/track/5wtP7I3lgRwtSXyD8IwZLz) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Elegante Latin Pop Vol\. 1](https://open.spotify.com/album/3zDvB1YMqJPy4vFWfiF6Yy) | 4:59 | 2022-08-31 |  |
 | [Nunca Voy A Olvidarte](https://open.spotify.com/track/5c0T9friT5Ea8KaMPu9bjc) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Un Segundo En El Tiempo](https://open.spotify.com/album/3sdXZ8YwW56VwcLaRbl4mH) | 5:03 | 2022-01-01 | 2022-07-29 |
 | [Ojos Así](https://open.spotify.com/track/4EDfdYJ7mqXRoWAqzF1PVO) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Donde Estan Los Ladrones](https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe) | 3:55 | 2022-01-01 | 2022-07-27 |
 | [Otro Día Más Sin Verte](https://open.spotify.com/track/7i38EXhbFJjF5tGvTsJMmx) | [Jon Secada](https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW) | [Jon Secada](https://open.spotify.com/album/1duV6ATgfQWMvjNyfHmxZL) | 5:27 | 2022-01-01 |  |
@@ -89,7 +91,7 @@
 | [Oye Mi Amor](https://open.spotify.com/track/5EJ2THuhAapEIeQOtXUQ0x) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [¿Dónde Jugarán Los Niños?](https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK) | 4:23 | 2022-01-01 |  |
 | [Pa' Mayte](https://open.spotify.com/track/00gAVWgRJy92PCAHFzVu83) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [La Tierra del Olvido \(005\)](https://open.spotify.com/album/5laSrhYFBn1OxVZKCK2B9Y) | 3:08 | 2022-01-01 |  |
 | [Pa' Mayté](https://open.spotify.com/track/72wEtgEkcLQ5x4F4ktiVSH) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [La Tierra del Olvido](https://open.spotify.com/album/4eULyeHcegYFenTA5T0P51) | 3:08 | 2022-01-01 | 2022-07-29 |
-| [Pelo Suelto](https://open.spotify.com/track/5cSL4f200gFJB47ynqm73m) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Soy Mujer](https://open.spotify.com/album/2nXE17JauOeyVltE92GMng) | 3:26 | 2022-08-31 |  |
+| [Pelo Suelto](https://open.spotify.com/track/5cSL4f200gFJB47ynqm73m) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Soy Mujer](https://open.spotify.com/album/2nXE17JauOeyVltE92GMng) | 3:26 | 2022-08-31 | 2022-11-12 |
 | [Pelo Suelto](https://open.spotify.com/track/1H8aAoRO817bygKpgvAcpf) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Tu Angel De La Guarda](https://open.spotify.com/album/4CdCwTNFcMTxVt7ugotlkL) | 3:26 | 2022-01-01 | 2022-07-29 |
 | [Pelo Suelto](https://open.spotify.com/track/3ZbIfOTLykp21uW9C6Qjjt) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Tu Angel De La Guarda](https://open.spotify.com/album/37g1a9T6uyQu0Pwoz6ZkOA) | 3:27 | 2022-08-31 | 2022-11-11 |
 | [Pero Qué Necesidad](https://open.spotify.com/track/5UTmhKIe3xRyYrNnVMNRCw) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Lo Mejor De Los Tres Grandes](https://open.spotify.com/album/3Z5BcHC31NUFParR4uostL) | 5:51 | 2022-01-01 |  |

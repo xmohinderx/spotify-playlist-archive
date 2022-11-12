@@ -4,7 +4,7 @@
 
 > These songs rocked the 00s\. Cover: Red Hot Chili Peppers
 
-145 songs - 9 hr 9 min - [published](https://open.spotify.com/playlist/2YBiD0YO7GUD6vsbO2o7zT)
+149 songs - 9 hr 23 min - [published](https://open.spotify.com/playlist/2YBiD0YO7GUD6vsbO2o7zT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [Beautiful Day](https://open.spotify.com/track/5t514bZ4eZPtKJbKfuZJCA) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Best Of 1990\-2000](https://open.spotify.com/album/5I099NUhbRrXaxnxQagElv) | 4:04 | 2022-10-25 |  |
 | [Beautiful Day](https://open.spotify.com/track/1VuBmEauSZywQVtqbxNqka) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [All That You Can't Leave Behind](https://open.spotify.com/album/7gskILm9UyDvFlmmAoqn2g) | 4:06 | 2022-04-17 | 2022-11-11 |
 | [Beautiful Day](https://open.spotify.com/track/0gzqZ9d1jIKo9psEIthwXe) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [All That You Can't Leave Behind](https://open.spotify.com/album/7a5U0GPoAvT3gvEY66FRuN) | 4:08 | 2021-12-10 | 2022-07-29 |
-| [Best of You](https://open.spotify.com/track/5FZxsHWIvUsmSK1IAvm2pp) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [In Your Honor](https://open.spotify.com/album/2eprpJCYbCbPZRKVGIEJxZ) | 4:15 | 2022-04-17 |  |
+| [Best of You](https://open.spotify.com/track/5FZxsHWIvUsmSK1IAvm2pp) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [In Your Honor](https://open.spotify.com/album/2eprpJCYbCbPZRKVGIEJxZ) | 4:15 | 2022-04-17 | 2022-11-12 |
+| [Best of You](https://open.spotify.com/track/6tgd8OhdnV0ewr7J5Qgkrc) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [The Essential Foo Fighters](https://open.spotify.com/album/2R7sAYjN889jJf8v5a9br0) | 4:16 | 2022-10-25 |  |
 | [Best of You](https://open.spotify.com/track/4nUM7pGcTUK2pY1d2LybrT) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Best Of You](https://open.spotify.com/album/6nf2P1xl5Z4qHdTAsdvo6B) | 4:16 | 2021-12-10 | 2022-07-29 |
 | [Beverly Hills](https://open.spotify.com/track/1yKu2MhpwzDXXH2tzG6xoa) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Make Believe](https://open.spotify.com/album/4D8A8M0NJjEdQhusawyeDz) | 3:16 | 2021-12-10 |  |
 | [Blurry](https://open.spotify.com/track/1YrJCGCuGZQFBwTb6gwIEM) | [Puddle Of Mudd](https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5) | [Come Clean \(Repackaged International Version\)](https://open.spotify.com/album/6hwbHXJsHxC2FDKqN7cGfd) | 5:03 | 2021-12-10 | 2022-01-20 |
@@ -79,8 +80,9 @@
 | [Last Resort](https://open.spotify.com/track/5W8YXBz9MTIDyrpYaCg2Ky) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Infest](https://open.spotify.com/album/0BHa0ePkvGAVKymB4FU58m) | 3:19 | 2022-04-17 | 2022-11-11 |
 | [Last Resort](https://open.spotify.com/track/3LPoYPseLwGKa5BdkWZ2xr) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Skater Head](https://open.spotify.com/album/2S74SV29dhkiWtYZZ83PHr) | 3:20 | 2022-10-25 |  |
 | [Like a Stone](https://open.spotify.com/track/3YuaBvuZqcwN3CEAyyoaei) | [Audioslave](https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn) | [Audioslave](https://open.spotify.com/album/78guAsers0klWl6RwzgDLd) | 4:53 | 2021-12-10 |  |
-| [Little Sister](https://open.spotify.com/track/0BqQWfhMrkpRAUCbdfdHUC) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Lullabies To Paralyze](https://open.spotify.com/album/2OMdsA2I4RxrHCyogwKGvF) | 2:54 | 2022-04-17 |  |
+| [Little Sister](https://open.spotify.com/track/0BqQWfhMrkpRAUCbdfdHUC) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Lullabies To Paralyze](https://open.spotify.com/album/2OMdsA2I4RxrHCyogwKGvF) | 2:54 | 2022-04-17 | 2022-11-12 |
 | [Little Sister](https://open.spotify.com/track/1rzYrkxgRuLLJDqWdB32pK) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Lullabies To Paralyze](https://open.spotify.com/album/03srSIJshSQQOh2vJ3uVZi) | 2:54 | 2021-12-10 | 2022-07-29 |
+| [Little Sister](https://open.spotify.com/track/6nV6ABvmKEXRaStF0KXZbz) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Rocking Hits](https://open.spotify.com/album/0PM8XW5G2SXAxDr23qxFIR) | 2:54 | 2022-10-25 |  |
 | [Misery Business](https://open.spotify.com/track/3l9CW99AHtExIRV4hW2N5m) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Riot!](https://open.spotify.com/album/3UoOO8m0oxxvUHXUKf3qcZ) | 3:31 | 2021-12-10 | 2022-07-29 |
 | [Misery Business](https://open.spotify.com/track/6SpLc7EXZIPpy0sVko0aoU) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Riot!](https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc) | 3:31 | 2022-04-17 | 2022-11-11 |
 | [Misery Business](https://open.spotify.com/track/7bJL09djprfjLQ2G1zEVrC) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Cool Kids](https://open.spotify.com/album/1mLxjBgGgvsTHhFCr6xHE5) | 3:31 | 2022-10-25 |  |
@@ -92,7 +94,8 @@
 | [Obstacle 1](https://open.spotify.com/track/0vrlOGhCwK3xqy1xNUQJHj) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [Turn On The Bright Lights](https://open.spotify.com/album/2OhUWm2KJay2YWeItU9YcH) | 4:11 | 2021-12-10 | 2022-07-29 |
 | [Obstacle 1](https://open.spotify.com/track/1ZBqJilDGBVYktvlCEo9jC) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [Turn On The Bright Lights](https://open.spotify.com/album/4sW8Eql2e2kdRP1A1R1clG) | 4:11 | 2022-04-17 |  |
 | [Ocean Avenue](https://open.spotify.com/track/23oxJmDc1V9uLUSmN2LIvx) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Ocean Avenue](https://open.spotify.com/album/24IBCzEJlHBI0ioxlSuSPA) | 3:18 | 2021-12-10 |  |
-| [Paralyzer](https://open.spotify.com/track/28IEbk5a7twNTbUEvWslUb) | [Finger Eleven](https://open.spotify.com/artist/0niJkG4tKkne3zwr7I8n9n) | [Them Vs\. You Vs\. Me \(Deluxe Edition\)](https://open.spotify.com/album/2pCfqddO9tLKRz3wzSNGsZ) | 3:28 | 2022-04-17 |  |
+| [Paralyzer](https://open.spotify.com/track/28IEbk5a7twNTbUEvWslUb) | [Finger Eleven](https://open.spotify.com/artist/0niJkG4tKkne3zwr7I8n9n) | [Them Vs\. You Vs\. Me \(Deluxe Edition\)](https://open.spotify.com/album/2pCfqddO9tLKRz3wzSNGsZ) | 3:28 | 2022-04-17 | 2022-11-12 |
+| [Paralyzer](https://open.spotify.com/track/3TVqK8LnTXSbgmSbDlRLBH) | [Finger Eleven](https://open.spotify.com/artist/0niJkG4tKkne3zwr7I8n9n) | [Work Out Motivations](https://open.spotify.com/album/3enB6egLnLDOu2hX2a8Zej) | 3:28 | 2022-10-25 |  |
 | [Paralyzer](https://open.spotify.com/track/6k1njNBYUIQgWJLG4ed26y) | [Finger Eleven](https://open.spotify.com/artist/0niJkG4tKkne3zwr7I8n9n) | [Them vs\. You vs\. Me](https://open.spotify.com/album/2EahKU3Hd3pY5nqfNYOltv) | 3:28 | 2021-12-10 | 2022-07-29 |
 | [Reptilia](https://open.spotify.com/track/57Xjny5yNzAcsxnusKmAfA) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Room On Fire](https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh) | 3:39 | 2021-12-10 |  |
 | [Rock N Roll Train](https://open.spotify.com/track/4feXJ5IC3avXsVW9WNFSag) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Black Ice](https://open.spotify.com/album/7qVfz4UGONwEd5nQjj0ESN) | 4:21 | 2021-12-10 |  |
@@ -125,7 +128,8 @@
 | [The Kill](https://open.spotify.com/track/0lP4HYLmvowOKdsQ7CVkuq) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [A Beautiful Lie](https://open.spotify.com/album/5sHvTCk793vr9EkSKcD7IT) | 3:51 | 2022-04-17 | 2022-11-11 |
 | [The Kill \(Bury Me\)](https://open.spotify.com/track/1p1nO35bbi4ZlQgjIA4oa4) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [A Beautiful Lie](https://open.spotify.com/album/2jPmk6qQzuY5AvKkZxMh7h) | 3:51 | 2021-12-10 | 2022-07-29 |
 | [The Kill \(Bury Me\)](https://open.spotify.com/track/4P9rDXp7gQbijPvTrnaBy3) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [Throwback Thursday Mix Vol\. 2](https://open.spotify.com/album/0Wo1E6xjtogsprOfFot4Se) | 3:51 | 2022-10-25 |  |
-| [The Middle](https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Bleed American](https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP) | 2:45 | 2022-04-17 |  |
+| [The Middle](https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Bleed American](https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP) | 2:45 | 2022-04-17 | 2022-11-12 |
+| [The Middle](https://open.spotify.com/track/67PzNQl5EyyrNBmFIM917G) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Emo 2000s](https://open.spotify.com/album/6YLLFMlYzwDiKTKeqIHMvQ) | 2:46 | 2022-10-25 |  |
 | [The Middle](https://open.spotify.com/track/3mcG2NI5G5vhrQtRda1YnA) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Bleed American \(Deluxe Edition\)](https://open.spotify.com/album/2ZuFyQ3E5n1L0VA9iyH0YV) | 2:48 | 2021-12-10 | 2022-07-29 |
 | [The Pretender](https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Echoes, Silence, Patience & Grace](https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz) | 4:29 | 2021-12-10 |  |
 | [The Reason](https://open.spotify.com/track/1lHtE5JDCas1EwXhQIMOIj) | [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [The Reason](https://open.spotify.com/album/7EtK7XiObsZGF6oBKLrvKH) | 3:52 | 2021-12-10 | 2022-07-29 |

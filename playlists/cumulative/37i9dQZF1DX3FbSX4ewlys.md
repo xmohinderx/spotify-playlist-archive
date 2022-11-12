@@ -4,7 +4,7 @@
 
 > Son los 90 y prendes la radio.
 
-112 songs - 7 hr 30 min - [published](https://open.spotify.com/playlist/67pKKi2yPJLBxmLlI21WX2)
+113 songs - 7 hr 34 min - [published](https://open.spotify.com/playlist/67pKKi2yPJLBxmLlI21WX2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Bolero Falaz](https://open.spotify.com/track/5yMXpZhVnUAFT154F3MQ8G) | [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW) | [Originales \- 20 Exitos](https://open.spotify.com/album/5KSmyxLneU9PjuBZQguAnf) | 3:45 | 2021-12-26 |  |
 | [Boom, Boom, Boom, Boom!!](https://open.spotify.com/track/5N6M8yDiMV32T6Rkzh8EbW) | [Vengaboys](https://open.spotify.com/artist/0cwmNvclzPd8mQnoHuIksj) | [The Party Album!](https://open.spotify.com/album/2hy9sLDt7IVAvJRGVdzZnx) | 3:22 | 2021-12-26 | 2022-11-11 |
 | [Ciega, Sordomuda](https://open.spotify.com/track/7jxHeJLVpnP7S08JFF4GBi) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Donde Estan Los Ladrones](https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe) | 4:27 | 2021-12-26 |  |
-| [Cielo](https://open.spotify.com/track/2bT63N8XN3L82uloE8i4Di) | [Benny](https://open.spotify.com/artist/3YHFRVdfHlJ98iAc50PIYk) | [El tiempo](https://open.spotify.com/album/025y8NVegAk0HEAZwXRHo5) | 3:36 | 2021-12-26 | 2022-07-29 |
+| [Cielo](https://open.spotify.com/track/2bT63N8XN3L82uloE8i4Di) | [Benny](https://open.spotify.com/artist/3YHFRVdfHlJ98iAc50PIYk) | [El tiempo](https://open.spotify.com/album/025y8NVegAk0HEAZwXRHo5) | 3:36 | 2021-12-26 |  |
 | [Come on Eileen](https://open.spotify.com/track/4Z4xFENnvMnRDPpAx5wpaO) | [Save Ferris](https://open.spotify.com/artist/1PAi6SNPtaiFqTRiTfecFr) | [It Means Everything](https://open.spotify.com/album/1AiVqGWu6HcyLYuB0BMvcS) | 4:09 | 2021-12-26 | 2022-07-29 |
 | [Como La Flor](https://open.spotify.com/track/5ubqSAc9LxUS2CsMHcA4kF) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Dreaming Of You](https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0) | 3:04 | 2021-12-26 |  |
 | [Como te extraño mi amor](https://open.spotify.com/track/6hFHsQWB7HdVrSe7efRR82) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Avalancha de éxitos](https://open.spotify.com/album/33iiSdb0XhQI0dSstspDls) | 3:34 | 2021-12-26 |  |
@@ -60,7 +60,7 @@
 | [Iris](https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Dizzy up the Girl](https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T) | 4:49 | 2021-12-26 |  |
 | [Kiss Me](https://open.spotify.com/track/754kgU5rWscRTfvlsuEwFp) | [Sixpence None The Richer](https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg) | [Sixpence None the Richer](https://open.spotify.com/album/0PrcwzkQVEy4y6JPvT5bix) | 3:28 | 2021-12-26 |  |
 | [La Cosa Mas Bella](https://open.spotify.com/track/1EZypwk0xcj64ZLAglhLs2) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Donde Hay Música \(Spanish Version\)](https://open.spotify.com/album/49oNMRzQcMBCqiz03JOQqq) | 4:25 | 2021-12-26 |  |
-| [La flaca](https://open.spotify.com/track/0ll9JAIrM3NVBOMl45sxSX) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [La Flaca](https://open.spotify.com/album/1O5kJTerozuI2WLgzvIz2m) | 4:21 | 2021-12-26 |  |
+| [La flaca](https://open.spotify.com/track/0ll9JAIrM3NVBOMl45sxSX) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [La Flaca](https://open.spotify.com/album/1O5kJTerozuI2WLgzvIz2m) | 4:21 | 2021-12-26 | 2022-11-12 |
 | [La flaca](https://open.spotify.com/track/2LsbizbOeNa4x6qsi2jAMb) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [La Flaca](https://open.spotify.com/album/6mD9lN6mqu4313KpY1RfIp) | 4:21 | 2021-12-26 | 2022-07-29 |
 | [La Ventanita](https://open.spotify.com/track/49nYkvvZTU06Pcwu1SrK4h) | [Garibaldi](https://open.spotify.com/artist/5PMqVxegfGlvhatvLA61uX) | [Caribe](https://open.spotify.com/album/3kpnPvG6TOLfpV0TvD0FUd) | 4:11 | 2021-12-26 |  |
 | [Laura no està](https://open.spotify.com/track/10tzk7ZRjwnLKd3gjKLtTA) | [Nek](https://open.spotify.com/artist/5mXMQJHLLfym1KyNcDrhoZ) | [Nek \(spanish version\)](https://open.spotify.com/album/04HNYs9ilzC2h31dq7pVcP) | 3:45 | 2021-12-26 |  |
@@ -72,7 +72,7 @@
 | [Lovefool](https://open.spotify.com/track/7aQjPecQdIuNd1sz3KCDhD) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [First Band On The Moon \(Remastered\)](https://open.spotify.com/album/56vFkneGivqQcoNQq362iZ) | 3:13 | 2021-12-26 |  |
 | [Mambo No\. 5 \(a Little Bit of...\)](https://open.spotify.com/track/6x4tKaOzfNJpEJHySoiJcs) | [Lou Bega](https://open.spotify.com/artist/46lnlnlU0dXTDpoAUmH6Qx) | [A Little Bit of Mambo](https://open.spotify.com/album/13BmLGhVCLBn3XzKB8HIai) | 3:40 | 2021-12-26 |  |
 | [Man! I Feel Like A Woman!](https://open.spotify.com/track/6WespAS0iElJ3T8pOCKYtb) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/0WaogLYA1OL7TdJ5sQVujT) | 3:52 | 2021-12-26 | 2022-07-29 |
-| [Man! I Feel Like A Woman!](https://open.spotify.com/track/6sxptembJVty4sNtcPMAVz) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9) | 3:54 | 2021-12-26 |  |
+| [Man! I Feel Like A Woman!](https://open.spotify.com/track/6sxptembJVty4sNtcPMAVz) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9) | 3:54 | 2021-12-26 | 2022-11-12 |
 | [Manto Estelar](https://open.spotify.com/track/58HfaJinOwdtvIusPS04Im) | [Mœnia](https://open.spotify.com/artist/3QmmtMrEf7aQrsd1VtejAV) | [Adicion](https://open.spotify.com/album/5J5Ips2LzDrTUaCVB7KZSq) | 4:13 | 2021-12-26 |  |
 | [Mas de Lo Que Te Imaginas \(Classic Version\)](https://open.spotify.com/track/4fXBKW9Xt9oSb7qRvVoU9Y) | [The Sacados](https://open.spotify.com/artist/55n0yLUMpJbCd20oPNRbo6) | [Superexitos Vol\. 2](https://open.spotify.com/album/5x1hFavbDYh9ttS0KMQGmz) | 3:39 | 2021-12-26 |  |
 | [Missing \- Todd Terry Remix / Radio Edit](https://open.spotify.com/track/1IsvXZXAV9EBC4hBKW6yDN) | [Everything But The Girl](https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy) | [Like The Deserts Miss The Rain](https://open.spotify.com/album/3fZbJRKdX4TAoC43xo5kWK) | 3:55 | 2021-12-26 | 2022-07-27 |
@@ -80,7 +80,7 @@
 | [Mujeres](https://open.spotify.com/track/7wNrk2vc0GUUNBFggJzEsI) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Animal Nocturno](https://open.spotify.com/album/3BkE5kvMnXh6ljEvyCSR0I) | 3:26 | 2021-12-26 |  |
 | [Mío](https://open.spotify.com/track/77GJz1FIKgjIp9KtnGc8Fl) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [La Chica Dorada](https://open.spotify.com/album/4zHy5B4JqOi7LaHkzWf57c) | 3:45 | 2021-12-26 |  |
 | [Mírame a los Ojos](https://open.spotify.com/track/0q3P0vjpqqswJSukITnfZA) | [Onda Vaselina](https://open.spotify.com/artist/1T9LdtwSTDoXrbkvHtKpGw) | [Entrega Total](https://open.spotify.com/album/7fgHGpxFOYzXjITOZ2e2Ht) | 4:22 | 2021-12-26 |  |
-| [No Podrás](https://open.spotify.com/track/4PhXIIZ9JVmVSRP3UM4soJ) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Serie 32: Cristian Castro](https://open.spotify.com/album/77bErklAVDVyDAbelCwOBQ) | 4:05 | 2021-12-26 | 2022-07-29 |
+| [No Podrás](https://open.spotify.com/track/4PhXIIZ9JVmVSRP3UM4soJ) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Serie 32: Cristian Castro](https://open.spotify.com/album/77bErklAVDVyDAbelCwOBQ) | 4:05 | 2021-12-26 |  |
 | [No Puedo Olvidarme Ti](https://open.spotify.com/track/3AZ2FAKI5pGoRgRdAwN2Mq) | [MDO](https://open.spotify.com/artist/08xFgTEmizKwzfDSbxvODp) | [MDO](https://open.spotify.com/album/1Qh8IqiGgpCGxHGXQdpbVr) | 3:30 | 2021-12-26 |  |
 | [No Te Extraño](https://open.spotify.com/track/1tGlvcURGYW4olaROV1w6N) | [Litzy](https://open.spotify.com/artist/3u4GbCOWNszEqm4Vzv7liB) | [Transparente](https://open.spotify.com/album/2vLW5vIVvlXL8oPVWgS5Aj) | 3:26 | 2021-12-26 |  |
 | [Oye Mi Amor](https://open.spotify.com/track/5EJ2THuhAapEIeQOtXUQ0x) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [¿Dónde Jugarán Los Niños?](https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK) | 4:23 | 2021-12-26 |  |
@@ -96,6 +96,7 @@
 | [Se fué](https://open.spotify.com/track/5oQadhkuEdEhtdVn0QceyZ) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Laura Pausini \- Spanish Version](https://open.spotify.com/album/3mAzRo03Jk2g3Vq1q382tm) | 4:40 | 2021-12-26 | 2022-07-29 |
 | [Será Que No Me Amas \(Blame It on the Boogie\)](https://open.spotify.com/track/0ULXIAoxSZBcOwygC3PA0i) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [20 Años](https://open.spotify.com/album/3D9NENGfg4DFmYJrEaxRHd) | 4:09 | 2021-12-26 |  |
 | [Shabadabada](https://open.spotify.com/track/66EqOhWfTcdVphw00lcxZO) | [OV7](https://open.spotify.com/artist/5zaT4Qu9otu6z4oyWjRqM2) | [Punto](https://open.spotify.com/album/55OVAEUt48foMS6JrUDit9) | 3:55 | 2021-12-26 | 2022-07-29 |
+| [Shabadabada](https://open.spotify.com/track/0v5lV9xxdEumQ2jKf5CBVp) | [OV7](https://open.spotify.com/artist/5zaT4Qu9otu6z4oyWjRqM2) | [Lo Mejor De OV7](https://open.spotify.com/album/3YEri67vvZWR0WJxbda8D0) | 3:55 | 2021-12-26 |  |
 | [Si tú no vuelves](https://open.spotify.com/track/7Cz6YbX8X6WNZNn2en1pUk) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Lo Mejor De Bosé](https://open.spotify.com/album/22bqL24CaHAULpscOV3Dup) | 4:38 | 2021-12-26 | 2022-07-29 |
 | [Solo Se Vive una Vez](https://open.spotify.com/track/2e7mL0M7mvjYVANfWPUjCH) | [Monica Naranjo](https://open.spotify.com/artist/0zGM73sadbAOBLev02P8LO) | [Monica Naranjo](https://open.spotify.com/album/1JM9myoPgh1n5Hn0RWLKlz) | 4:13 | 2021-12-26 |  |
 | [Steal My Sunshine](https://open.spotify.com/track/4agp6oHofabdUedr0B1krj) | [LEN](https://open.spotify.com/artist/0nyc9SZGLITSOJASmTZsnZ) | [You Can't Stop The Bum Rush](https://open.spotify.com/album/5NndKV7nc18qRQfFvLgZ1k) | 4:25 | 2021-12-26 |  |
@@ -114,7 +115,7 @@
 | [Vuelve](https://open.spotify.com/track/3OK8WgNRmp4F3ahXe6XX6l) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Vuelve](https://open.spotify.com/album/3B7djG7pr1PycUJiWW6NQL) | 5:07 | 2021-12-26 |  |
 | [Wannabe](https://open.spotify.com/track/1Je1IMUlBXcx1Fz0WE7oPT) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 2:53 | 2021-12-26 |  |
 | [Waterfalls](https://open.spotify.com/track/6qspW4YKycviDFjHBOaqUY) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Crazysexycool](https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f) | 4:39 | 2021-12-26 |  |
-| [We're Going To Ibiza!](https://open.spotify.com/track/6trzHhvr6xqYJkNnbWwXz2) | [Vengaboys](https://open.spotify.com/artist/0cwmNvclzPd8mQnoHuIksj) | [The Party Album!](https://open.spotify.com/album/2hy9sLDt7IVAvJRGVdzZnx) | 3:37 | 2021-12-26 |  |
+| [We're Going To Ibiza!](https://open.spotify.com/track/6trzHhvr6xqYJkNnbWwXz2) | [Vengaboys](https://open.spotify.com/artist/0cwmNvclzPd8mQnoHuIksj) | [The Party Album!](https://open.spotify.com/album/2hy9sLDt7IVAvJRGVdzZnx) | 3:37 | 2021-12-26 | 2022-11-12 |
 | [What Is Love \- 7" Mix](https://open.spotify.com/track/2IHaGyfxNoFPLJnaEg4GTs) | [Haddaway](https://open.spotify.com/artist/0Suv0tRrNrUlRzAy8aXjma) | [The Album](https://open.spotify.com/album/1LAx7yCVbGwskdnGDof8SC) | 4:30 | 2021-12-26 |  |
 | [What's Up?](https://open.spotify.com/track/0jWgAnTrNZmOGmqgvHhZEm) | [4 Non Blondes](https://open.spotify.com/artist/0Je74SitssvJg1w4Ra2EK7) | [Bigger, Better, Faster, More !](https://open.spotify.com/album/2P8M5eo4zWFD0JJtH4D0iA) | 4:55 | 2021-12-26 |  |
 | [Wonderwall \- Remastered](https://open.spotify.com/track/5qqabIl2vWzo9ApSC317sa) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \[Remastered\]](https://open.spotify.com/album/1VW1MFNstaJuygaoTPkdCk) | 4:18 | 2021-12-26 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > Enjoy the world of “COWBOY BEBOP”! アニメ「カウボーイビバップ」の世界を1つのプレイリストで！©SUNRISE
 
-101 songs - 6 hr 49 min - [published](https://open.spotify.com/playlist/05hs7oe3MCft9a4unoawXC)
+102 songs - 6 hr 55 min - [published](https://open.spotify.com/playlist/05hs7oe3MCft9a4unoawXC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,8 +43,9 @@
 | [Doggy Dog](https://open.spotify.com/track/6h2Xx6umL3OhGOCd1G6AG0) | [SEATBELTS](https://open.spotify.com/artist/3U3zr5PCRa9ty74uN46iBa) | [COWBOY BEBOP Vitaminless](https://open.spotify.com/album/0J2DObt0HybwYP91obpHRy) | 3:16 | 2022-04-21 |  |
 | [Don't Bother None](https://open.spotify.com/track/08mynMEjdcHLzZJJrnfPKq) | [Mai Yamane](https://open.spotify.com/artist/2jakCNqkEhdRND7btwoFOj) | [COWBOY BEBOP \(Original Motion Picture Soundtrack 2 \- No Disc\)](https://open.spotify.com/album/4GeRMwOn7610GFgQ49Y9qd) | 3:41 | 2022-04-21 |  |
 | [Don't bother none](https://open.spotify.com/track/3q1aZQM0CtOCuSJxJgf67d) | [山根麻衣](https://open.spotify.com/artist/2Ks5U0SNZdEons4wFA9sGn) | [「COWBOY BEBOP」オリジナルサウンドトラック2 NO DISC](https://open.spotify.com/album/5PGg8xI7LYFEW9hBHK3DCe) | 3:39 | 2022-04-21 | 2022-07-29 |
+| [EINSTEIN GROOVIN'](https://open.spotify.com/track/5fG5mkLehhxDC2LpLFP98v) | [SEATBELTS](https://open.spotify.com/artist/3U3zr5PCRa9ty74uN46iBa) | [YOKO KANNO produce Cyber Bicci](https://open.spotify.com/album/2QmOaMj4JwDkZOhveFu0RY) | 6:18 | 2022-04-21 |  |
 | [EINSTEIN GROOVIN'](https://open.spotify.com/track/4QSADdH3Okt53teiB2iul7) | [SEATBELTS](https://open.spotify.com/artist/3U3zr5PCRa9ty74uN46iBa) | [COWBOY BEBOP Tank! THE! BEST!](https://open.spotify.com/album/3Irm9gWGr96IBrVjdmGChF) | 6:19 | 2022-04-21 | 2022-07-29 |
-| [Einstein Groovin'](https://open.spotify.com/track/1B9vI8zUnixJ9fDoWeJLO0) | [SEATBELTS](https://open.spotify.com/artist/3U3zr5PCRa9ty74uN46iBa) | [COWBOY BEBOP Tank! the! Best!](https://open.spotify.com/album/2RQPHIImcaZaJBmptZAY9A) | 6:19 | 2022-04-21 |  |
+| [Einstein Groovin'](https://open.spotify.com/track/1B9vI8zUnixJ9fDoWeJLO0) | [SEATBELTS](https://open.spotify.com/artist/3U3zr5PCRa9ty74uN46iBa) | [COWBOY BEBOP Tank! the! Best!](https://open.spotify.com/album/2RQPHIImcaZaJBmptZAY9A) | 6:19 | 2022-04-21 | 2022-11-12 |
 | [ELM](https://open.spotify.com/track/0f2iGlfdfmW1Hm9XxzlMo8) | [Pierre Bensusan](https://open.spotify.com/artist/5gwjYIVPjuGklvvIhM9EnI) | [COWBOY BEBOP \(Original Motion Picture Soundtrack 2 \- No Disc\)](https://open.spotify.com/album/4GeRMwOn7610GFgQ49Y9qd) | 5:04 | 2022-04-21 |  |
 | [ELM](https://open.spotify.com/track/0VybrPIFPWQo60U1WS60Zm) | [Pierre Bensusan](https://open.spotify.com/artist/5gwjYIVPjuGklvvIhM9EnI) | [「COWBOY BEBOP」オリジナルサウンドトラック2 NO DISC](https://open.spotify.com/album/5PGg8xI7LYFEW9hBHK3DCe) | 5:04 | 2022-04-21 | 2022-07-29 |
 | [Fantaisie Sign](https://open.spotify.com/track/7MniF0KePqMwkAiPmOhg1o) | [Carla Vallet](https://open.spotify.com/artist/5vQvydukggRLNDH16cx2jz) | [COWBOY BEBOP \(Original Motion Picture Soundtrack 2 \- No Disc\)](https://open.spotify.com/album/4GeRMwOn7610GFgQ49Y9qd) | 5:19 | 2022-04-21 |  |

@@ -4,7 +4,7 @@
 
 > Get your midweek right with these uplifting songs of praise and worship.
 
-93 songs - 8 hr 34 min - [published](https://open.spotify.com/playlist/5OjtgsIyPBLp3jbeiq7bOe)
+94 songs - 8 hr 41 min - [published](https://open.spotify.com/playlist/5OjtgsIyPBLp3jbeiq7bOe)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,8 @@
 | [Way Maker \- Live](https://open.spotify.com/track/40ozK0lCJ0EQzVGWsCNUhk) | [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [Better Word \(Live\)](https://open.spotify.com/album/5PobE1kR95I2qvrKI1rDak) | 8:23 | 2019-11-27 | 2022-11-11 |
 | [Way Maker \- Live](https://open.spotify.com/track/4zEj0A56iRFSSvyDyqNOQw) | [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [Way Maker](https://open.spotify.com/album/5QiQRAJgvxkaaJFI0fzO6G) | 8:23 | 2019-11-27 |  |
 | [What You Said \- Live](https://open.spotify.com/track/5ZtnHKAsaog7mGTsaKDAEt) | [Jon Egan](https://open.spotify.com/artist/1S0iYQGlUIb8gJFOXEnaey) | [Unveil \(Live\)](https://open.spotify.com/album/15YnOtSDhaYHqVfr27bjhM) | 6:48 | 2019-11-27 |  |
-| [When It Comes to You](https://open.spotify.com/track/7juggaI6hvrlRJq7K0mAUH) | [RNW Music](https://open.spotify.com/artist/4LfdYq6VdNIwj6Cs5x9EKi) | [When It Comes to You](https://open.spotify.com/album/7iEMna8XHGFwwiR17SqtkV) | 6:47 | 2019-11-27 |  |
+| [When It Comes to You](https://open.spotify.com/track/2j70cErAhBQ8Kmqlc3ePIl) | [RNW Music](https://open.spotify.com/artist/4LfdYq6VdNIwj6Cs5x9EKi) | [When It Comes to You \(Deluxe\)](https://open.spotify.com/album/3NsAhgtYRgjWmfQFOAG10r) | 6:47 | 2019-11-27 |  |
+| [When It Comes to You](https://open.spotify.com/track/7juggaI6hvrlRJq7K0mAUH) | [RNW Music](https://open.spotify.com/artist/4LfdYq6VdNIwj6Cs5x9EKi) | [When It Comes to You](https://open.spotify.com/album/7iEMna8XHGFwwiR17SqtkV) | 6:47 | 2019-11-27 | 2022-11-12 |
 | [When It Comes to You](https://open.spotify.com/track/3zDHLmakrSF2O7ztljntZZ) | [RNW Music](https://open.spotify.com/artist/4LfdYq6VdNIwj6Cs5x9EKi), [Taylor Anderson](https://open.spotify.com/artist/4iaNDZkiTuUk79ZePAlUbb) | [When It Comes to You](https://open.spotify.com/album/3opJIAc7NUj19aoE5Qqfoe) | 6:47 | 2019-11-27 | 2022-07-29 |
 | [While I Wait](https://open.spotify.com/track/1R9UC41siojWolyYYEohqN) | [Lincoln Brewster](https://open.spotify.com/artist/1aoy0R8uP3x33eqKZOLpN1) | [While I Wait](https://open.spotify.com/album/0UDYVuIKNGT6hfvrsjrNBV) | 4:58 | 2019-11-27 |  |
 | [Who We Are](https://open.spotify.com/track/3iPrzSUiI1PojLdulvGudz) | [MDSN](https://open.spotify.com/artist/6iv3P2yMTglEHCYNlmNBdD) | [Who We Are](https://open.spotify.com/album/3B41USIdyMLjgxepjxhi3r) | 3:19 | 2019-11-27 |  |

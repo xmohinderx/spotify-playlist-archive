@@ -4,7 +4,7 @@
 
 > Dale play y llénate de nostalgia con estas canciones inolvidables.
 
-91 songs - 5 hr 42 min - [published](https://open.spotify.com/playlist/3u5yxhoplsyXY7fypHfFVT)
+93 songs - 5 hr 52 min - [published](https://open.spotify.com/playlist/3u5yxhoplsyXY7fypHfFVT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [Ciega, Sordomuda](https://open.spotify.com/track/2KeFEmC9tWtNaF2hZ7yLpm) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Grandes Exitos](https://open.spotify.com/album/3JhHRFetUgAWw376a3sk6C) | 4:28 | 2022-05-17 |  |
 | [Clavado En Un Bar](https://open.spotify.com/track/78DVpEWwmJFC25KGz8fJuE) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Sueños Líquidos](https://open.spotify.com/album/7ydFJUb1tmZPd6p4xIe10V) | 5:10 | 2022-05-17 |  |
 | [Como un burro amarrado en la puerta del baile \- 2008 Remastered Version](https://open.spotify.com/track/0IUFjvwlh18TWiTi6kO5pP) | [El Último De La Fila](https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I) | [Las 101 canciones \- Cinco décadas de Pop Español](https://open.spotify.com/album/3v3s1YhnnWUkQnZMotDz5U) | 3:38 | 2022-05-17 | 2022-09-22 |
-| [Como un burro amarrado en la puerta del baile \- 2008 Remastered Version](https://open.spotify.com/track/6IMIx38wIqHoLTdGcBwyEC) | [El Último De La Fila](https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I) | [Las 100 mejores canciones del Pop Español, Vol\. 3](https://open.spotify.com/album/1gf951espzPzb9yxLsxP7T) | 3:38 | 2022-07-01 |  |
+| [Como un burro amarrado en la puerta del baile \- 2008 Remastered Version](https://open.spotify.com/track/6IMIx38wIqHoLTdGcBwyEC) | [El Último De La Fila](https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I) | [Las 100 mejores canciones del Pop Español, Vol\. 3](https://open.spotify.com/album/1gf951espzPzb9yxLsxP7T) | 3:38 | 2022-07-01 | 2022-11-12 |
+| [Como Un Burro Amarrado En La Puerta Del Baile \- Remastered](https://open.spotify.com/track/2igMoFouNmVPGsjsIgXYgR) | [El Último De La Fila](https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I) | [Pop Español De Los 90](https://open.spotify.com/album/5Qk1y41EXPWr98u1TsH35Y) | 3:38 | 2022-10-28 |  |
 | [Corriendo Con Tijeras](https://open.spotify.com/track/0nhG5W3lqZw7nzaTnYvV0S) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Corriendo Con Tijeras](https://open.spotify.com/album/7vgUy35KgshZVXCB7MebBQ) | 3:15 | 2022-10-28 |  |
 | [Cualquiera](https://open.spotify.com/track/3YJLwVJ2sJaAQFYc74ZNZN) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Cualquiera](https://open.spotify.com/album/6qJpE4usHCDJsOwasJauTD) | 3:31 | 2022-09-09 | 2022-10-29 |
 | [Deja Vu](https://open.spotify.com/track/2zanWa9j1c8ah8SdT4ONOK) | [Christian Meier](https://open.spotify.com/artist/3OgfCHk8YwaZ7NjQHbL4f3) | [Deja Vu](https://open.spotify.com/album/3Y3l3HDUtqZogSr1JM4CKr) | 3:44 | 2022-09-02 | 2022-10-29 |
@@ -97,7 +98,8 @@
 | [Valió La Pena](https://open.spotify.com/track/0ET8DXzYpcYHAXuY6NNfqi) | [Fanny Lu](https://open.spotify.com/artist/6GRC8segVAr34gm6pjfSoQ) | [Valió La Pena](https://open.spotify.com/album/0tjSbtqRjSDIgiXncDEHx0) | 2:32 | 2022-05-17 | 2022-09-03 |
 | [Vivir Lo Nuestro](https://open.spotify.com/track/4qAknKWl2aMvWn4r1nzWAa) | [LA INDIA](https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Dicen Que Soy](https://open.spotify.com/album/5Bj8dRzPK5F1ozrV5IPb4u) | 6:07 | 2022-05-17 |  |
 | [Voy a Vos](https://open.spotify.com/track/0aWGzetUTb4lJqy2m2nl1i) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Fondo Profundo](https://open.spotify.com/album/5pWGHHRgwAoZqBL2zsm7OT) | 5:43 | 2022-05-17 |  |
+| [Y Hubo Alguien](https://open.spotify.com/track/2cSeE7IeRG315Uj6SmjIkx) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Clase de Salsa](https://open.spotify.com/album/36Zq3qAZd9qb46VeJKS0w0) | 6:28 | 2022-10-28 |  |
 | [Y Hubo Alguien](https://open.spotify.com/track/3dPprfpLE8ZFPEYNcMXXcd) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Contra La Corriente \(Remastered\)](https://open.spotify.com/album/0WChs3lvIu8rQ1FHmOarw5) | 6:28 | 2022-05-17 | 2022-07-29 |
-| [Y Hubo Alguien](https://open.spotify.com/track/4lmOvO7Nc0Ppdz2hk8jpHj) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Contra La Corriente](https://open.spotify.com/album/6LIqj7VIJB3K54NBycFxSe) | 6:28 | 2022-07-01 |  |
+| [Y Hubo Alguien](https://open.spotify.com/track/4lmOvO7Nc0Ppdz2hk8jpHj) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Contra La Corriente](https://open.spotify.com/album/6LIqj7VIJB3K54NBycFxSe) | 6:28 | 2022-07-01 | 2022-11-12 |
 
 \*This playlist was first scraped on 2022-06-08. Prior content cannot be recovered.

@@ -80,6 +80,24 @@
     },
     {
       "album": {
+        "name": "La Historia... Los \u00c9xitos",
+        "url": "https://open.spotify.com/album/5hVmKtEt52RcmAk6LYB2vJ"
+      },
+      "artists": [
+        {
+          "name": "Adolescent's Orquesta",
+          "url": "https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245106,
+      "name": "Anhelo",
+      "url": "https://open.spotify.com/track/6mqEhKz4AmDjujwZrfnqwq"
+    },
+    {
+      "album": {
         "name": "Reclamando Nuestro Espacio",
         "url": "https://open.spotify.com/album/22oTpQbBrBfkrqMsumH3OX"
       },
@@ -91,7 +109,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 248555,
       "name": "Anhelo",
       "url": "https://open.spotify.com/track/68runhwF0SdEN1DFSadXWk"
@@ -1133,10 +1151,28 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 285120,
       "name": "Tu Amigo o Tu Amante",
       "url": "https://open.spotify.com/track/2GgBL5RYZafPzqfHJjn4p6"
+    },
+    {
+      "album": {
+        "name": "Greatest Salsa Classics Of Colombia, Vol. 2",
+        "url": "https://open.spotify.com/album/3k5FHIHUumKgyMTteH4ckq"
+      },
+      "artists": [
+        {
+          "name": "La Sabrosura",
+          "url": "https://open.spotify.com/artist/2W3ROz699xenrLLblfUq5i"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285120,
+      "name": "Tu Amigo o Tu Amante",
+      "url": "https://open.spotify.com/track/7qn83bgVfVBISsISKIdILC"
     },
     {
       "album": {

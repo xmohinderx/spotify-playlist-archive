@@ -4,7 +4,7 @@
 
 > Canzoni rap per party fino al mattino! Cover: Rhove
 
-137 songs - 6 hr 49 min - [published](https://open.spotify.com/playlist/5o7py36Yd4VocyDEPVW5BA)
+138 songs - 6 hr 51 min - [published](https://open.spotify.com/playlist/5o7py36Yd4VocyDEPVW5BA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [ANSIA NO](https://open.spotify.com/track/2yuYI5NFhevxa05se7Qht9) | [FSK SATELLITE](https://open.spotify.com/artist/4UikIA2yhd0jVJSXD9IOJH) | [FSK TRAPSHIT REVENGE](https://open.spotify.com/album/4z4zCeqiEjTTBI0a8Uyl0S) | 2:28 | 2022-05-01 |  |
 | [Ayo](https://open.spotify.com/track/0k6DnZMLoEUH8NGD5zh2SE) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Fan of A Fan The Album \(Expanded Edition\)](https://open.spotify.com/album/4neocSMt40stXKK2B8Sy2G) | 3:45 | 2022-07-28 | 2022-08-27 |
 | [Ayy Macarena](https://open.spotify.com/track/6LcauUZjF1eXQrgqMUecHX) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Ayy Macarena](https://open.spotify.com/album/3Cse4lihKX7ww99QnZGQAh) | 2:11 | 2022-07-28 |  |
-| [Baby \(with J Balvin\)](https://open.spotify.com/track/3JCqB2HhpIPNNg1O4os8o5) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Famoso](https://open.spotify.com/album/5fTgdXawyLC7oZEry7jGEk) | 3:13 | 2022-07-28 |  |
+| [Baby \(with J Balvin\)](https://open.spotify.com/track/3JCqB2HhpIPNNg1O4os8o5) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Famoso](https://open.spotify.com/album/5fTgdXawyLC7oZEry7jGEk) | 3:13 | 2022-07-28 | 2022-11-12 |
 | [Baby \(with J Balvin\)](https://open.spotify.com/track/4L5ZhW0VJeQ6je2iqvqZ4X) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Famoso](https://open.spotify.com/album/59znAGeM6NNmzTkkV6MHrT) | 3:13 | 2022-05-01 | 2022-07-29 |
 | [Backwoods](https://open.spotify.com/track/0OOalWuhO3e1fjriNVlvqj) | [Skinny](https://open.spotify.com/artist/1NHdROm8HLgfbar8uCIZGk) | [SKINNY BABY](https://open.spotify.com/album/5IMeTLBNo9M0LUxaHZFx4E) | 2:57 | 2022-05-01 | 2022-07-29 |
 | [BAD BITCH](https://open.spotify.com/track/1gyQ0inxIAFzmSCWSwPWIL) | [Touché](https://open.spotify.com/artist/3sRTjuam7GJ4lA7ewD2sfb), [TY1](https://open.spotify.com/artist/2DWRgncNMnTfwDiKSI0VoP) | [BAD BITCH](https://open.spotify.com/album/1D7VO0tJc3bNG3HdV73oDZ) | 2:28 | 2022-05-11 | 2022-05-13 |
@@ -26,6 +26,7 @@
 | [Bando](https://open.spotify.com/track/0kzGjSRHGVcaWxagzQwAyD) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [Bando](https://open.spotify.com/album/3UtdQcbHhNlEi79pS3282l) | 2:48 | 2022-08-26 |  |
 | [Banlieue](https://open.spotify.com/track/43Yw3ycsVJOb4eDzZ7pwQG) | [Bloy$](https://open.spotify.com/artist/6YnSAmwqze7HFnvSt6lxYj) | [Banlieue](https://open.spotify.com/album/2bz7o8YGDuN1BLD0IMiwR6) | 2:38 | 2022-05-12 | 2022-06-11 |
 | [Bella Giornata \(prod\. Dogslife, Mago del blocco\) \(feat\. Dogslife & Mago del Blocco\)](https://open.spotify.com/track/76xea5TfeyVu8c4dGWpFD2) | [OG Eastbull](https://open.spotify.com/artist/754BJcKdHZH7tj9xFq3hHO), [Dogslife](https://open.spotify.com/artist/73TvGBOaS1WApWEiMefT9O), [Mago del Blocco](https://open.spotify.com/artist/0MNIz36U44uxk0MZeZ2smX) | [Bella Giornata \(prod\. Dogslife, Mago del blocco\) \(feat\. Dogslife & Mago del Blocco\)](https://open.spotify.com/album/4TSk7THVrLQr1D3E61vHta) | 3:01 | 2022-05-01 | 2022-07-27 |
+| [Best Life](https://open.spotify.com/track/67Zlg1f5akUasCKntOpkWl) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [Best Life](https://open.spotify.com/album/6ZVBD4uIocmIjaMNVZVUKr) | 2:19 | 2022-10-27 |  |
 | [BIMBI PER STRADA \(CHILDREN\)](https://open.spotify.com/track/6KF78W66DcQ9m5YqR0r5Ig) | [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i), [Robert Miles](https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0) | [BIMBI PER STRADA \(CHILDREN\)](https://open.spotify.com/album/0p1nAaMSArHL3sz5XKVIsq) | 3:20 | 2022-07-28 |  |
 | [Bisous](https://open.spotify.com/track/74lz9d1soQih0k9QtN0acn) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn), [Timongothekeys](https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk) | [Bisous](https://open.spotify.com/album/18WfbdpSPZ3Gx1qlMlHGSP) | 2:34 | 2022-05-11 |  |
 | [BLA BLA \(feat\. Guè\)](https://open.spotify.com/track/2iyOKKZXBZr39G7evMbzkO) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [BLA BLA \(feat\. Guè\)](https://open.spotify.com/album/3I6UHuh2JAgpVACSqMmV7N) | 2:14 | 2022-05-11 | 2022-07-29 |

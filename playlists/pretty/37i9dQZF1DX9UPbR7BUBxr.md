@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9UPbR7BUBxr.md) - [plain]
 
 > Songs and episodes to help you find that work/pause balance\. Co\-curation: Varun Duggirala
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,191 likes - 68 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,210 likes - 68 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9UPbR7BUBxr.md) - [plain]
 | 45 | [Fading out](https://open.spotify.com/track/35vYyQ06TPM7hiUtNt5Bs3) | [Diamond Telescope](https://open.spotify.com/artist/5y5QOzvDd6odh8MWPt5G79) | [Fading out](https://open.spotify.com/album/1X8oEGczTQOJi9PWeC4mwa) | 2:31 |
 | 46 | [Green Tea](https://open.spotify.com/track/6x2rtY6FC6YizEpvUVKj6o) | [Bertholet](https://open.spotify.com/artist/2igm2vmbeYibaElfyvj9XQ) | [Green Tea](https://open.spotify.com/album/2rGcNBHziENr3UfAIXiwkw) | 1:15 |
 | 47 | [Weightless](https://open.spotify.com/track/65Uo3C5r9GJMPsiRa6uzMV) | [Gentle Leap](https://open.spotify.com/artist/0vTq6p4BHWx0EQnecyGugw) | [So Serene](https://open.spotify.com/album/0l30rC4MLaOtlsfOcisQL6) | 2:22 |
-| 48 | [Lift Me \(Somehow\)](https://open.spotify.com/track/5xg4pqB1l4LdI46Jw9qgtU) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [Views from Sixteen Stories](https://open.spotify.com/album/5W0f89f4bEX9dgbkk1UgmL) | 2:22 |
+| 48 | [Lift Me \(Somehow\)](https://open.spotify.com/track/3Wcl5NEylclu5Txv3ZdPSF) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [ppp](https://open.spotify.com/album/14vioV2YNu0QZiC5G8T0Mk) | 2:22 |
 | 49 | [In Love](https://open.spotify.com/track/16Pc6ZWQZxwc8wLzF2VZUf) | [Tundra Beats](https://open.spotify.com/artist/5j4yh8KxZ3yfg1cHsD24qD) | [Smile](https://open.spotify.com/album/4mXCEus360pAz7z3uF5dp6) | 2:47 |
 | 50 | [solitude](https://open.spotify.com/track/2UonTNnl58lV6nvxQQ0Ly3) | [Jadu Jadu](https://open.spotify.com/artist/2Oe3qtPntosByl21BCcUSc) | [magic](https://open.spotify.com/album/1jZz5EeVbLzHfhDLDQmPKZ) | 1:18 |
 | 51 | [Lofi One](https://open.spotify.com/track/2FvHJmr7XOhmNI9Dch2x4R) | [DeLeon Rovon](https://open.spotify.com/artist/5CY40uLhxYpHIWjaMozKNb) | [Beats + Smoothies](https://open.spotify.com/album/7zcmnWx6KOoqYxr0oQ0EJt) | 3:50 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9UPbR7BUBxr.md) - [plain]
 | 67 | [Komori Uta](https://open.spotify.com/track/5d0Znm8jnIPkHy54i1OeGu) | [pedrolina.](https://open.spotify.com/artist/2mFdkJcl12IZARwSKYhOjx) | [Bai](https://open.spotify.com/album/0gbH2AB8ATXvDZh9TkOJaB) | 2:27 |
 | 68 | [Peach Sky](https://open.spotify.com/track/553ntYSPcu70QIRXtBjAHD) | [Moodula](https://open.spotify.com/artist/6e76Meb8yRDdpn42QfFeOh) | [Echo Cliff](https://open.spotify.com/album/5iPfYQFToHZYZMQHVZf9el) | 2:04 |
 
-Snapshot ID: `MTY2NTQ4ODMxMywwMDAwMDAwMDUzMjQ5YjBmYmI0ZjU1MmQ5NzRmOGNiN2Y0ZWE2NTY1`
+Snapshot ID: `MTY2NTQ4ODMxMywwMDAwMDAwMGMyNWMwMWFjZjlhOWEyN2Q1ZDhkYTJlYTYyOTg0NzQ4`

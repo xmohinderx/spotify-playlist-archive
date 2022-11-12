@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/damsonidris/\">Damson Idris</a>",
-  "num_followers": 1510,
+  "num_followers": 1563,
   "original_name": "Damson Idris' Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MzQ2OSwwMDAwMDAwMDg5NTViNmIzMWU1OWE3ZjQ5OTYxODkzYTNiOTk4M2Mz",
+  "snapshot_id": "MTY2NDY0MzQ2OSwwMDAwMDAwMGRmNTE5Mjk3MWMyNWNiMTIwNjRhNjdiN2M3NWE2MDUz",
   "tracks": [
     {
       "added_at": "2022-10-01 16:57:49",
@@ -43,22 +43,6 @@
       "duration_ms": 190534,
       "name": "Hello (feat. A Boogie Wit da Hoodie)",
       "url": "https://open.spotify.com/track/2r6OAV3WsYtXuXjvJ1lIDi"
-    },
-    {
-      "added_at": "2022-10-01 16:57:49",
-      "album": {
-        "name": "Exodus",
-        "url": "https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Jamming",
-      "url": "https://open.spotify.com/track/5LyfiK6iXEIBNEtcaGKohl"
     },
     {
       "added_at": "2022-10-01 16:57:49",
@@ -531,6 +515,22 @@
     {
       "added_at": "2022-10-01 16:57:49",
       "album": {
+        "name": "Take Care (Deluxe)",
+        "url": "https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 351000,
+      "name": "The Ride",
+      "url": "https://open.spotify.com/track/4xRxYWgAtL6pzRz94GlZlA"
+    },
+    {
+      "added_at": "2022-10-01 16:57:49",
+      "album": {
         "name": "Pastel Blues",
         "url": "https://open.spotify.com/album/31pd81sWDaK2pP3ok5892z"
       },
@@ -547,18 +547,18 @@
     {
       "added_at": "2022-10-01 16:57:49",
       "album": {
-        "name": "Take Care (Deluxe)",
-        "url": "https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q"
+        "name": "Legend (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/04VRfesff9bgDA2Q8J2oDo"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
       ],
-      "duration_ms": 351000,
-      "name": "The Ride",
-      "url": "https://open.spotify.com/track/4xRxYWgAtL6pzRz94GlZlA"
+      "duration_ms": 212640,
+      "name": "Jamming",
+      "url": "https://open.spotify.com/track/0NDJeqkaT4a7WlC3Uj2ig5"
     },
     {
       "added_at": "2022-10-01 16:57:49",

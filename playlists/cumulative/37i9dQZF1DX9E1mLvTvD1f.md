@@ -4,7 +4,7 @@
 
 > 90s rock to fuel your ride\. Cover: The Smashing Pumpkins
 
-62 songs - 4 hr 4 min - [published](https://open.spotify.com/playlist/6Xdv835R3SfJNaxAchmcum)
+63 songs - 4 hr 9 min - [published](https://open.spotify.com/playlist/6Xdv835R3SfJNaxAchmcum)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [My Name Is Jonas](https://open.spotify.com/track/4nzyOwogJuWn1s6QuGFZ6w) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q) | 3:24 | 2021-03-16 |  |
 | [My Song](https://open.spotify.com/track/23xzzmz1qmGO9HrxUGX1iO) | [Jerry Cantrell](https://open.spotify.com/artist/5HUFo8AH9ZILmlyKFfEMNP) | [Boggy Depot](https://open.spotify.com/album/6AK1eIMwW1LxFNlqwiDED5) | 4:07 | 2021-03-16 |  |
 | [Never There](https://open.spotify.com/track/7aKWgpecgLEqisWcXPElDl) | [CAKE](https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV) | [Prolonging the Magic](https://open.spotify.com/album/1vbpW28Od2ATmVyAZ0QZ3j) | 2:44 | 2021-03-16 |  |
+| [Piranha](https://open.spotify.com/track/1vqw24tqUeqKtTA8fiPccF) | [Tripping Daisy](https://open.spotify.com/artist/7hhoMvZJRwEdjJUBpuWiDk) | [I Am An Elastic Firecracker](https://open.spotify.com/album/4H0sGJvU49fFtUH86CJyu5) | 4:47 | 2021-03-16 |  |
 | [Pretend We're Dead](https://open.spotify.com/track/3z5ggGtcs4t8pizW521gW9) | [L7](https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h) | [Bricks Are Heavy](https://open.spotify.com/album/0z7Dc7FRsDH7E4kj32mKyM) | 3:55 | 2021-03-16 |  |
 | [Saint Joe On The School Bus](https://open.spotify.com/track/1LC2Hcgf2RgEbxPHNTnzaC) | [Marcy Playground](https://open.spotify.com/artist/7AQzXO3NPNQsI7oNu5rC3r) | [Marcy Playground](https://open.spotify.com/album/5dR0fhE3oveLRSUMMQ3oRB) | 3:20 | 2021-03-16 |  |
 | [Santa Monica](https://open.spotify.com/track/37EJtTS7jT5WUyXGZzrwnI) | [Everclear](https://open.spotify.com/artist/694QW15WkebjcrWgQHzRYF) | [Sparkle And Fade](https://open.spotify.com/album/27qNa5ef0TpYV17dBY01U0) | 3:11 | 2021-03-16 |  |
@@ -60,7 +61,7 @@
 | [Tahitian Moon](https://open.spotify.com/track/3DwzYRgOgojl0EcdOaJLYr) | [Porno for Pyros](https://open.spotify.com/artist/58etTNn7xmsQZhjnfjpAXL) | [Good God's Urge](https://open.spotify.com/album/6Sa5vHSMHnIm1m0LG82xBM) | 3:47 | 2021-03-16 |  |
 | [Take A Picture](https://open.spotify.com/track/6q4aoWgTQ8td2AvqQXuFqm) | [Filter](https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C) | [Title Of Record \(Expanded Edition\)](https://open.spotify.com/album/0PtuV98eVpJkCORoCH2uCu) | 6:03 | 2021-03-16 | 2022-11-11 |
 | [Teen Angst \(What The World Needs Now\)](https://open.spotify.com/track/21gRGP5LdIgto8sznRZ7xz) | [Cracker](https://open.spotify.com/artist/0ODQJS4mk7rVBJXjdqByX6) | [Cracker](https://open.spotify.com/album/2r1yuRwAB0kmidzNuuNmdp) | 4:14 | 2021-03-16 |  |
-| [The Distance](https://open.spotify.com/track/1szwDbVdIdoQq5mG5GXAmJ) | [CAKE](https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV) | [Fashion Nugget](https://open.spotify.com/album/0xqBjioTJ32aszn90qV2m1) | 2:59 | 2021-03-16 |  |
+| [The Distance](https://open.spotify.com/track/1szwDbVdIdoQq5mG5GXAmJ) | [CAKE](https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV) | [Fashion Nugget](https://open.spotify.com/album/0xqBjioTJ32aszn90qV2m1) | 2:59 | 2021-03-16 | 2022-11-12 |
 | [The Way](https://open.spotify.com/track/7IsEXPk6qqt30FfQv4SZMa) | [Fastball](https://open.spotify.com/artist/7FtVJzRtpQpU61nBwB7cKN) | [All The Pain Money Can Buy](https://open.spotify.com/album/2KVpGKVIzcK9bB13MXJGEb) | 4:17 | 2021-03-16 |  |
 | [This Is a Call](https://open.spotify.com/track/2wO8aOvN1ogLy1N8XT1WJE) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Foo Fighters](https://open.spotify.com/album/4EnNuo8fG7dMoxMefbApRY) | 3:53 | 2021-03-16 |  |
 | [Til I Hear It From You](https://open.spotify.com/track/5TKuf1mxDlHdXcvdIDViUR) | [Gin Blossoms](https://open.spotify.com/artist/6kXp61QMZFPcKMcRPqoiVj) | [Til I Hear It From You](https://open.spotify.com/album/1Hb3wpvKy2PytjaBAZNAut) | 3:52 | 2021-03-16 |  |

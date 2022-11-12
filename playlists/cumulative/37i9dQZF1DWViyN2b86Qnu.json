@@ -1892,6 +1892,24 @@
     },
     {
       "album": {
+        "name": "Cold Heart",
+        "url": "https://open.spotify.com/album/2ub4hh8QvhlDh9MzsAdzF3"
+      },
+      "artists": [
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191808,
+      "name": "Malibu",
+      "url": "https://open.spotify.com/track/02w1bcPNTPrF06IsMoQxUc"
+    },
+    {
+      "album": {
         "name": "Malibu",
         "url": "https://open.spotify.com/album/7AiqBnEFt4gCA9XpKUoZRl"
       },
@@ -1921,7 +1939,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 191808,
       "name": "Malibu",
       "url": "https://open.spotify.com/track/7G0tY4ErguYZpP6nQ6Qcnc"
@@ -2382,6 +2400,24 @@
     },
     {
       "album": {
+        "name": "Pretty Lady",
+        "url": "https://open.spotify.com/album/6GvxhHWo3EyQLW94ftqtoz"
+      },
+      "artists": [
+        {
+          "name": "Tash Sultana",
+          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277908,
+      "name": "Pretty Lady",
+      "url": "https://open.spotify.com/track/4o21k4S4YoueaUfiKkImea"
+    },
+    {
+      "album": {
         "name": "Terra Firma",
         "url": "https://open.spotify.com/album/5cB5c50EJjxKTEnA599RCm"
       },
@@ -2411,7 +2447,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 279137,
       "name": "Pretty Lady",
       "url": "https://open.spotify.com/track/77R5bq7AvzIevi8wicB3Oz"

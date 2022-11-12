@@ -4,7 +4,7 @@
 
 > Welcome to the LOOΠΔverse\. Are you making an 'Orbit' around LOOΠΔ?
 
-140 songs - 7 hr 18 min - [published](https://open.spotify.com/playlist/1XU4almpwByp958TvBy5RK)
+143 songs - 7 hr 27 min - [published](https://open.spotify.com/playlist/1XU4almpwByp958TvBy5RK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [A Different Night](https://open.spotify.com/track/676qfSjSg2f0Qo98tl1CpR) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [\[&\]](https://open.spotify.com/album/747FhjbZXy5H8frCZ90eDv) | 3:38 | 2021-10-27 |  |
 | [ADD](https://open.spotify.com/track/4NzNeHybw9rIbbRb7ztgfm) | [LOOΠΔ / ODD EYE CIRCLE](https://open.spotify.com/artist/5KPaeBm0fVfCSZLydp9jdy) | [Max & Match](https://open.spotify.com/album/6J6hcDzG79Uh0xob2e5J29) | 1:04 | 2021-10-27 |  |
 | [Around You](https://open.spotify.com/track/2Tf6La0o3Jqu7HfKwkWqjJ) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [HyunJin](https://open.spotify.com/album/6h4FJjtRBnNQJzL3dVHrob) | 3:29 | 2021-10-27 | 2022-07-29 |
-| [As Time Goes](https://open.spotify.com/track/5AL7gnyJ5qpsZB4cVCJgQZ) | [JinSoul](https://open.spotify.com/artist/1rAZr0bwMTcobwrOFHhfJr) | [Meow the secret boy \(Original Television Soundtrack\) Pt\. 8](https://open.spotify.com/album/4m71LoXK1OfvkOlWkYmWFk) | 3:06 | 2022-06-23 |  |
+| [As Time Goes](https://open.spotify.com/track/3st0u3poyKOsWHVIDY35zS) | [JinSoul](https://open.spotify.com/artist/1rAZr0bwMTcobwrOFHhfJr) | [Meow the secret boy \(Original Television Soundtrack\) Special](https://open.spotify.com/album/4ACCjU7zaJME7qZHF1dvdr) | 3:06 | 2022-06-23 |  |
+| [As Time Goes](https://open.spotify.com/track/5AL7gnyJ5qpsZB4cVCJgQZ) | [JinSoul](https://open.spotify.com/artist/1rAZr0bwMTcobwrOFHhfJr) | [Meow the secret boy \(Original Television Soundtrack\) Pt\. 8](https://open.spotify.com/album/4m71LoXK1OfvkOlWkYmWFk) | 3:06 | 2022-06-23 | 2022-11-12 |
 | [As Time Goes 시간은 한 바퀴 돌아](https://open.spotify.com/track/0sJTYKbXztWSGJiMDrZ5CK) | [JinSoul](https://open.spotify.com/artist/1rAZr0bwMTcobwrOFHhfJr) | [Meow the secret boy 어서와 \(Original Television Soundtrack\), Pt.8](https://open.spotify.com/album/2zyLp2FCi34qgarQk70aGX) | 3:06 | 2021-10-27 | 2022-07-29 |
 | [Be Honest](https://open.spotify.com/track/7733b9hgMqNkq4DBfU8cz6) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [\[&\]](https://open.spotify.com/album/747FhjbZXy5H8frCZ90eDv) | 3:16 | 2021-10-27 |  |
 | [Butterfly](https://open.spotify.com/track/6wNKKoUQfLPmch7cqSFytV) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [\[X X\]](https://open.spotify.com/album/49CwarPH45v2tFRHhnjtPf) | 3:57 | 2022-06-23 |  |
@@ -73,6 +74,7 @@
 | [My Melody](https://open.spotify.com/track/3uOuaBpMHwYcxej5qRDocD) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [YeoJin](https://open.spotify.com/album/6SwU8IOE4xN1Gw2sGFE6Wq) | 3:02 | 2021-10-27 | 2022-07-29 |
 | [My Melody](https://open.spotify.com/track/6f1PlxNaKfbbBosoRXmoAF) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [YeoJin](https://open.spotify.com/album/7j4J6jWNmKjzpiWxPEdEcS) | 3:02 | 2021-10-27 |  |
 | [My Sunday](https://open.spotify.com/track/0oiVMsDM40biyMxhF1ooI0) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [YeoJin](https://open.spotify.com/album/6SwU8IOE4xN1Gw2sGFE6Wq) | 3:02 | 2021-10-27 | 2022-07-29 |
+| [My Sunday](https://open.spotify.com/track/1IEGeQZD2By2YKow9pgqDU) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [YeoJin](https://open.spotify.com/album/5y41xb7QBK29gQI6HgTMjL) | 3:02 | 2022-06-23 |  |
 | [My Sunday](https://open.spotify.com/track/7vgLNwdUzUQelOr9aacuxA) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [YeoJin](https://open.spotify.com/album/7j4J6jWNmKjzpiWxPEdEcS) | 3:02 | 2021-10-27 |  |
 | [Need U](https://open.spotify.com/track/4V7sAUqroJrjmfrbANLGra) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [Summer Special \[Flip That\]](https://open.spotify.com/album/7odJeHxR62PWP4Cms4GpwB) | 2:56 | 2022-06-23 |  |
 | [new](https://open.spotify.com/track/7eUtsnBNOWfWDObBZyU4F4) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [Yves](https://open.spotify.com/album/4Rkz00xg0zSLdmipbG6uRr) | 3:04 | 2021-10-27 |  |
@@ -108,6 +110,7 @@
 | [See Saw \(Chuu, Go Won\)](https://open.spotify.com/track/1tLmp8dEhaHvU0jm2aG6sS) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7), [Kim Lip](https://open.spotify.com/artist/1fsR8q6ObgP7rLBYdZZD7i) | [Go Won](https://open.spotify.com/album/5li9RKVy6K7WOSR4DNJc5y) | 3:21 | 2021-10-27 |  |
 | [SHAKE IT](https://open.spotify.com/track/1ezubi9SlRqI3fHoGXjuP7) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [<Queendom2> Part.2\-1](https://open.spotify.com/album/4UhIreAIqRgp2l8PlMGqH0) | 4:14 | 2022-04-28 |  |
 | [Singing in the Rain](https://open.spotify.com/track/1uNTfm5WZVGdig95SAXajH) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [JinSoul](https://open.spotify.com/album/4aihvbWq3RQ1TAR2awMsqi) | 3:31 | 2021-10-27 |  |
+| [Singing in the Rain](https://open.spotify.com/track/4uwDQJ76uGBkuP6OpLQia2) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [JinSoul](https://open.spotify.com/album/4Jux7c6OjyQHtK12AH3NEA) | 3:31 | 2022-06-23 |  |
 | [Singing in the Rain](https://open.spotify.com/track/6ZCugHZvchMlF6DqMDYIW1) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [JinSoul](https://open.spotify.com/album/5oy5oSghkmsOjZS5nu2r6W) | 3:31 | 2021-10-27 | 2022-07-29 |
 | [So What](https://open.spotify.com/track/1ry2mTVmAJHbNLzl5qww5v) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [\[\#\]](https://open.spotify.com/album/3OOqAsk58Xv8DHu1gRGtaC) | 3:18 | 2022-06-23 |  |
 | [So What](https://open.spotify.com/track/7w3pIUjz7BTTqj9uAws40m) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [\[\#\]](https://open.spotify.com/album/6rOL2mghTfDyx5CY0eU1Dn) | 3:18 | 2021-10-27 | 2022-07-29 |

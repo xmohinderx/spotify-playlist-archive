@@ -4,7 +4,7 @@
 
 > Songs and episodes to help calm your mind, co curated by Clinical psychologist 'Sonali Gupta'.
 
-78 songs - 3 hr 21 min - [published](https://open.spotify.com/playlist/0vKjwC12x9Psx4QBF8Kziu)
+79 songs - 3 hr 23 min - [published](https://open.spotify.com/playlist/0vKjwC12x9Psx4QBF8Kziu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [One Step Ahead](https://open.spotify.com/track/0MbqHR99kNqNrW3vCmSBRo) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [One Step Ahead](https://open.spotify.com/album/1CnJ8xFUzWfQUS6MhAkZNt) | 3:11 | 2022-09-15 |  |
 | [Origami](https://open.spotify.com/track/5MIyzgrAUZ5TryLLF30hcY) | [Berlioz](https://open.spotify.com/artist/6kndrupH2JaLYqh1wBKGar) | [Origami](https://open.spotify.com/album/689hMeFt2wAkXJjLNsPfQF) | 1:46 | 2022-09-15 |  |
 | [Papperssvalan](https://open.spotify.com/track/537FP4rNU5SILZ5uWF2zDi) | [Norröga](https://open.spotify.com/artist/6k2rfOW9DnWyV4cKXkfjMw) | [Papperssvalan](https://open.spotify.com/album/2Qg3Na5QnWlPFJf0O2CiWV) | 2:33 | 2022-09-15 |  |
-| [Patience](https://open.spotify.com/track/013eYaVKpTVsX41dEPSFt8) | [Augusta Winslow](https://open.spotify.com/artist/6Wn5qwb2t9rkoewfpdAp8z) | [Patience](https://open.spotify.com/album/0v94JSSqZJG235UT7MX2ZB) | 3:03 | 2022-09-15 |  |
+| [Patience](https://open.spotify.com/track/013eYaVKpTVsX41dEPSFt8) | [Augusta Winslow](https://open.spotify.com/artist/6Wn5qwb2t9rkoewfpdAp8z) | [Patience](https://open.spotify.com/album/0v94JSSqZJG235UT7MX2ZB) | 3:03 | 2022-09-15 | 2022-11-12 |
 | [Pensamiento \(Variacion 1\)](https://open.spotify.com/track/1XjmvMlHQeXqXqbIiphr7L) | [Night Effects](https://open.spotify.com/artist/3LYasSAMIunoZHkV2FC7WB) | [Night Effects](https://open.spotify.com/album/6YAH0vPQGXSSWdXv4ENVzU) | 1:42 | 2022-09-15 |  |
 | [Pensierino](https://open.spotify.com/track/2r4aYjCB1TuQXVgRIPb3Oe) | [Maura Bellucci](https://open.spotify.com/artist/7EJf6TnQIBHlzkCmMx6oFW) | [Pensierino](https://open.spotify.com/album/4EpQQNXnD33xDH6Oaw6T8q) | 2:29 | 2022-09-15 |  |
 | [Persistence](https://open.spotify.com/track/3ZAlpXJWeKniBrqSMffs0j) | [Johann Eder](https://open.spotify.com/artist/0aCbxLi0ypSIj30oAT4T3o) | [Persistence](https://open.spotify.com/album/6orrmY7UOM4QMlFLnFwobd) | 2:46 | 2022-09-15 |  |
@@ -82,6 +82,7 @@
 | [Varazdin](https://open.spotify.com/track/4MbjcL460D3UHueKiREBPZ) | [Davorka Poljak](https://open.spotify.com/artist/4BBOdslZwXmnXLC4JUm3xg) | [Varazdin](https://open.spotify.com/album/4vYwpkP10mwLThSSeYpsoV) | 1:46 | 2022-09-15 |  |
 | [Vejlefjord](https://open.spotify.com/track/6ff7MgoSLL9Cxi3t2qYVnA) | [Rasmus H Thomsen](https://open.spotify.com/artist/42jjk371b9jW9zsmrMls10) | [Vejlefjord](https://open.spotify.com/album/1gt84E4kL8DdnXW1XlclX4) | 2:14 | 2022-09-15 |  |
 | [Weightless](https://open.spotify.com/track/6kkwzB6hXLIONkEk9JciA6) | [Marconi Union](https://open.spotify.com/artist/3nZ3ed6p4CKc1McTLypr6H) | [The Ambient Zone Just Music Cafe Vol 4](https://open.spotify.com/album/0JsrUHqVkWkXt0vQeNiVkW) | 8:00 | 2022-09-15 |  |
+| [What A Wonderful World](https://open.spotify.com/track/6qijYphfXANswOiReTbTm6) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Chill Jazz Hits](https://open.spotify.com/album/2E2May9swmlrRnKNBi3YLJ) | 2:17 | 2022-09-15 |  |
 | [What A Wonderful World](https://open.spotify.com/track/29U7stRjqHU6rMiS8BfaI9) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [What A Wonderful World](https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv) | 2:19 | 2022-09-15 | 2022-11-11 |
 | [While You Were Sleeping](https://open.spotify.com/track/54wC2ics8RCpQGYoB516Qs) | [Vincent & A Secret](https://open.spotify.com/artist/56GQPPkhPG3G9LgFEo7Ae6) | [P.S\. I'm Still Here](https://open.spotify.com/album/3c1UFkkA7goX16ZYoHawV1) | 1:45 | 2022-09-15 |  |
 | [With A Little Help From My Friends \- Remastered 2009](https://open.spotify.com/track/2RnPATK99oGOZygnD2GTO6) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Sgt\. Pepper's Lonely Hearts Club Band \(Remastered\)](https://open.spotify.com/album/6QaVfG1pHYl1z15ZxkvVDW) | 2:44 | 2022-09-15 |  |

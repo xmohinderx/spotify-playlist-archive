@@ -4,13 +4,14 @@
 
 > The most iconic piano style in Blues; all the greatest Boogie\-woogie pianists.
 
-86 songs - 4 hr 22 min - [published](https://open.spotify.com/playlist/0K1q36ekheqewhgP75p016)
+87 songs - 4 hr 25 min - [published](https://open.spotify.com/playlist/0K1q36ekheqewhgP75p016)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [501 Boogie](https://open.spotify.com/track/5Jwqv8raO45Q52RLGu3YJA) | [Professor Longhair](https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD) | [Rum and Coke](https://open.spotify.com/album/4LaS8y7kiokSnkfj5PqnOm) | 3:28 | 2022-05-13 |  |
 | [A Boogie Woogie Sunday](https://open.spotify.com/track/2PBCW7owo2RtDjgm5VSkzz) | [Caroline Dahl](https://open.spotify.com/artist/4FGlCQYhmkiTq2vJojjJtg) | ["Devil Digit Boogie Woogie"](https://open.spotify.com/album/0HCzwcdrad0FPYjSyv5U16) | 3:22 | 2022-05-13 |  |
 | [At The Hop](https://open.spotify.com/track/6vkuJbGjyjnSQReeaCh8wT) | [Danny & The Juniors](https://open.spotify.com/artist/6Ahm6X9wSKXitavOvu0XzY) | [Rock 'n' Roll](https://open.spotify.com/album/1xf6bK6YKmBPP6F4tn0UYm) | 2:29 | 2022-05-13 | 2022-07-26 |
+| [At The Hop](https://open.spotify.com/track/1EmCm4UJHBdvDEYUGiJZR9) | [Danny & The Juniors](https://open.spotify.com/artist/6Ahm6X9wSKXitavOvu0XzY) | [Best 50s Songs](https://open.spotify.com/album/0USh1S5PHXqTJJ1VDw2aZX) | 2:30 | 2022-07-29 |  |
 | [At The Hop](https://open.spotify.com/track/4LcrHUkRmXG3c0YD5VYutn) | [Danny & The Juniors](https://open.spotify.com/artist/6Ahm6X9wSKXitavOvu0XzY) | [Rockin' With Danny And The Juniors \(Expanded Edition\)](https://open.spotify.com/album/0AL8t9Dy1L9nf1ZnBlLeLq) | 2:30 | 2022-07-12 | 2022-11-11 |
 | [Barrelhouse Boogie](https://open.spotify.com/track/5z6IgQsUbdf0yUZpnm6ATo) | [Albert Ammons & Pete Johnson](https://open.spotify.com/artist/4EfVjbQT4TAFOJuLpMQCUW) | [The Very Best Of Boogie Woogie](https://open.spotify.com/album/1jSzHpZAFbYSvzGq6mKmQ2) | 3:03 | 2022-05-13 | 2022-07-29 |
 | [Blue Lamp](https://open.spotify.com/track/3GPEPvxXoFf5GYZzlulpvz) | [Jools Holland](https://open.spotify.com/artist/6eLbRJP12OhyvUv4ntto4e) | [Piano](https://open.spotify.com/album/0VafiJdDMi3vB2H40Xrwvv) | 3:01 | 2022-05-13 |  |
@@ -64,7 +65,7 @@
 | [Laci's Boogie](https://open.spotify.com/track/66G1WcKjC8WcIBmpQE9lOR) | [Luca Sestak](https://open.spotify.com/artist/5ypQRq934XJmh9eXioqKiQ) | [New Way](https://open.spotify.com/album/1gWiD8uHEoLtJEmJTpbOY8) | 5:32 | 2022-05-13 |  |
 | [Later Alligator \(See You Later, Alligator\)](https://open.spotify.com/track/15AqwrLBlEwtP1PPUBzUOu) | [Bobby Charles](https://open.spotify.com/artist/1B8vzl6kObOf1cxN4myLS1) | [See You Later, Alligator](https://open.spotify.com/album/6gSDcwUiHZ15E92WQIyx9s) | 3:45 | 2022-05-13 |  |
 | [Let Me Go Home Whiskey](https://open.spotify.com/track/33343QHpDEcf022acPZMw8) | [Amos Milburn](https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX) | [Let's Have A Party! \(The Aladdin Recordings\)](https://open.spotify.com/album/7iDour2LtChLy6IyUYD6JF) | 2:47 | 2022-05-13 | 2022-07-29 |
-| [Let Me Go Home, Whiskey](https://open.spotify.com/track/2ia7Z1wNt0DqPLtUfuH4gA) | [Amos Milburn](https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX) | [Down The Road Apiece \-The Best Of Amos Milburn](https://open.spotify.com/album/04bo29HzmFDq9Un9O93nEp) | 2:49 | 2022-07-12 |  |
+| [Let Me Go Home, Whiskey](https://open.spotify.com/track/2ia7Z1wNt0DqPLtUfuH4gA) | [Amos Milburn](https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX) | [Down The Road Apiece \-The Best Of Amos Milburn](https://open.spotify.com/album/04bo29HzmFDq9Un9O93nEp) | 2:49 | 2022-07-12 | 2022-11-12 |
 | [Long Tall Sally](https://open.spotify.com/track/60MAITKKhg7gofj3EH6xOM) | [Delbert McClinton](https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU) | [Outdated Emotion](https://open.spotify.com/album/2ZmQvtqYsWVFPDrG1ssz7z) | 2:30 | 2022-05-13 |  |
 | [Mac's Boogie](https://open.spotify.com/track/5uCPicEYKIfJwThUgpHkZh) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO) | [Every Road I Take](https://open.spotify.com/album/5F59YDPXOLXek9VaCzUl09) | 4:00 | 2022-05-13 | 2022-07-29 |
 | [Mac's Boogie](https://open.spotify.com/track/2foLnOSkNrOT27RjE0LygE) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO) | [Dr\. John Plays Mac Rebennack The Legendary Sessions V\. 1](https://open.spotify.com/album/2YmByjFIRpY2ZX3c8OHkHF) | 4:01 | 2022-07-12 |  |

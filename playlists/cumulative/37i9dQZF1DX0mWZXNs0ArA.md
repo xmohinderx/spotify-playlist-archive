@@ -4,7 +4,7 @@
 
 > 150%
 
-95 songs - 4 hr 0 min - [published](https://open.spotify.com/playlist/2G3OqMZbrNC2ergi0aOh3M)
+98 songs - 4 hr 8 min - [published](https://open.spotify.com/playlist/2G3OqMZbrNC2ergi0aOh3M)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Desert Rose \- Sped Up \(high highs\)](https://open.spotify.com/track/5YLpkXL0fKNCEhke5ZXMV8) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [Desert Rose \(The Remixes\)](https://open.spotify.com/album/5gBGLLbmbIMNfuiWSWB6He) | 3:25 | 2022-08-16 |  |
 | [die first \- sped up version](https://open.spotify.com/track/209DMKJgqiJwjvFCCEW3N6) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [die first \(love forever\)](https://open.spotify.com/album/6a8W5qyixFCBIhWllbu3bj) | 2:24 | 2022-08-05 |  |
 | [don't miss me \- sped up](https://open.spotify.com/track/2rpez0lqbhLnbFTl1urYwm) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24), [Romy Bornhorst](https://open.spotify.com/artist/4UoDX6M8th8sNyoX7i3nT5) | [don’t miss me \(sped up\)](https://open.spotify.com/album/1ziHMhSrO41E03FPBaKR0P) | 1:32 | 2022-09-22 |  |
+| [don't wanna be your friend \- sped up](https://open.spotify.com/track/5ttbjSyoPvv9saJkeZt8o3) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [don't wanna be your friend \(sped up\)](https://open.spotify.com/album/6RyvFQGGH111be3sSSjdas) | 2:30 | 2022-11-11 |  |
 | [Drowning \- Sped Up Version](https://open.spotify.com/track/40x8vMUHIjqd2A5EtHEvAb) | [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Drowning \(Sped Up Version\)](https://open.spotify.com/album/3Z5FPyxx1sKOTzHsOnS4ZI) | 2:54 | 2022-06-09 |  |
 | [dumb dumb \- sped up](https://open.spotify.com/track/2pJmSaPh5lMe4npn0Z6m8A) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [the rainbow cassette \(bonus\)](https://open.spotify.com/album/0SHvk3FxlmTOyldiqaVT8k) | 1:42 | 2022-09-30 |  |
 | [Fall In Love Alone \- Sped Up Version](https://open.spotify.com/track/24iWUKHLXE4ZDkAj0GK4kt) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [Fall In Love Alone \(Sped Up Version\)](https://open.spotify.com/album/4cTiISMNquBWO0LE3a8tRD) | 2:38 | 2022-10-26 |  |
@@ -78,6 +79,7 @@
 | [Shame \- Sped Up](https://open.spotify.com/track/0h9GRF6sk6ryhOmqp5V3yh) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Last Day Of Summer \(Sped Up\)](https://open.spotify.com/album/2vIAupx3DY7BXPCG2WeQHw) | 2:20 | 2022-11-04 |  |
 | [Shootout](https://open.spotify.com/track/4pTkDIlpFNoeWbahu8pVXW) | [Izzamuzzic](https://open.spotify.com/artist/5EiDVD35ofoSKq1KE0jcs8) | [Shootout](https://open.spotify.com/album/2lQQ5xfJwzELcecvu8gZN5) | 4:55 | 2022-07-08 | 2022-07-12 |
 | [Shootout \(Sped Up\)](https://open.spotify.com/track/3r44Otr6SVUja3SYsCuhVY) | [Izzamuzzic](https://open.spotify.com/artist/5EiDVD35ofoSKq1KE0jcs8), [Julien Marchal](https://open.spotify.com/artist/7e4AmALFiKR69Xra2EksPU) | [Shootout \(Sped Up\)](https://open.spotify.com/album/7Ez9fBTpqn7pTEK09TqMJr) | 4:02 | 2022-07-11 |  |
+| [Shut up My Moms Calling \- \(Sped Up\)](https://open.spotify.com/track/31mzt4ZV8C0f52pIz1NSwd) | [Hotel Ugly](https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb) | [Shut up My Moms Calling \(Sped up\)](https://open.spotify.com/album/0h2GcVhEPwh1mrRg3MSa3A) | 2:15 | 2022-11-11 |  |
 | [SNAP \- High and Fast](https://open.spotify.com/track/2ik0zzlcwHl8hnHw7ZfeNS) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP \(High and Fast\)](https://open.spotify.com/album/6aLC3UK3IBnBCaFQVaDpcP) | 2:15 | 2022-07-06 | 2022-08-20 |
 | [SNAP \- High and Fast](https://open.spotify.com/track/3TWHd23YOrfxx3yDYCE1WC) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP PACK](https://open.spotify.com/album/2nzuzJvr3yowqbPaYjEYof) | 2:15 | 2022-07-06 | 2022-10-07 |
 | [SNAP \- High and Fast](https://open.spotify.com/track/46cdw28EXOhDPnD1emDC6T) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP PACK](https://open.spotify.com/album/3CVEB0FPk25Ds64ALgxjH7) | 2:15 | 2022-09-09 |  |
@@ -99,6 +101,7 @@
 | [Wannabe \- Sped Up Version](https://open.spotify.com/track/6BP729RazoZBV8nrOUJI85) | [why mona](https://open.spotify.com/artist/5C1tex8vm00yFKTitiOnMU) | [Wannabe \(Sped Up Version\)](https://open.spotify.com/album/78cUelBdPNPOmQ5IumegJQ) | 3:19 | 2022-09-30 |  |
 | [WARNING \- Sped Up](https://open.spotify.com/track/5MNfAmHvsqOliIxtwiFzsz) | [MC ORSEN](https://open.spotify.com/artist/2DXPtOc14uPVvK7qggj2a3) | [WARNING \(Sped Up\)](https://open.spotify.com/album/2oRa8uJdTOrDSWvWAy50A3) | 1:48 | 2022-08-24 |  |
 | [Wasted \(Nightcore\)](https://open.spotify.com/track/0zSDG1EI7SGhM62M5iBiGI) | [Murkish](https://open.spotify.com/artist/5anIaPEacO0S5sVfxg6cVw), [Huken](https://open.spotify.com/artist/2i5ApczYJfGAYrtf7QmjCV) | [Wasted \(Nightcore\)](https://open.spotify.com/album/338C6sxO1twtEJn8YqGeh4) | 3:14 | 2022-06-09 |  |
+| [Where's My Love \- Sped Up](https://open.spotify.com/track/6UHkwuFF6CXKMqBtDRxk8C) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Where's My Love \(Slowed\)](https://open.spotify.com/album/7dwAeKkbpzA4ELMDiacfcR) | 2:48 | 2022-11-11 |  |
 | [why so serious?](https://open.spotify.com/track/3CcNuI3JbOw5n5Evl5Qjx6) | [ExotiiC\-](https://open.spotify.com/artist/3t98cVjC4AW3IPjCNsc3em) | [why so serious?](https://open.spotify.com/album/0owMsQYWHryve339icpxYv) | 1:35 | 2022-06-24 | 2022-09-04 |
 | [why so srs?](https://open.spotify.com/track/0rifR43CptApOWLL8kMkcg) | [outer streets](https://open.spotify.com/artist/07Kya5CjMDo2yVV8YFJg9T) | [why so srs?](https://open.spotify.com/album/2cWHWaopqauQCtQYVnN9wC) | 1:35 | 2022-06-09 | 2022-10-12 |
 | [World's Smallest Violin \- Sped Up](https://open.spotify.com/track/2vyyvsyMcJkcvxMKch8Q1e) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [World's Smallest Violin \(Sped Up\)](https://open.spotify.com/album/6DNtrF8Ga0IhBjAZDzfnkx) | 2:16 | 2022-10-11 |  |

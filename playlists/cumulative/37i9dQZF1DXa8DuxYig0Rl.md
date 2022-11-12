@@ -4,7 +4,7 @@
 
 > Tropical y refrescante\. Con todo el sabor y tradición de México.
 
-157 songs - 7 hr 53 min - [published](https://open.spotify.com/playlist/3tRaksmTctFqOi5PZyIiVc)
+159 songs - 7 hr 59 min - [published](https://open.spotify.com/playlist/3tRaksmTctFqOi5PZyIiVc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [Chivirico](https://open.spotify.com/track/2ZWD1ZRsEq5E6AGyJhF5Bh) | [Ramon Marquez](https://open.spotify.com/artist/7MBfHtO5xhuBx6qK0mWb4m) | [15 Exitos 15](https://open.spotify.com/album/1VvquBQWaoSCNmEmQpmwZU) | 3:03 | 2022-01-25 | 2022-07-29 |
 | [Cien Mil Cosas](https://open.spotify.com/track/2r8h4sI14yTfjs8CVGNDP4) | [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD), [Celio Gonzalez](https://open.spotify.com/artist/17fQCVwjvlCEIr3T1dLg5y) | [Los Últimos De Celio González](https://open.spotify.com/album/53o3CHCIpAvcNWBMVBSWV8) | 2:45 | 2022-01-25 |  |
 | [Corazón de Acero](https://open.spotify.com/track/4KqkV3s2fJdCc5Sk7KM4LN) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [Sonora Santanera \- Canta Sonia López](https://open.spotify.com/album/3uODoLPO61aIjF7a2FaDz3) | 2:48 | 2022-01-25 | 2022-07-29 |
-| [Corazón de Acero](https://open.spotify.com/track/4JbZZZC9YXdFuWxYebR0G9) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [Personalidad](https://open.spotify.com/album/6JA41RFqylAYrh84FOPMsy) | 2:49 | 2022-01-25 |  |
+| [Corazón de Acero](https://open.spotify.com/track/4oHf9Tpl6FksvcyegP3Omn) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [16 Exitos](https://open.spotify.com/album/4gNFMEFDpPLjIAp3auMn8E) | 2:49 | 2022-01-25 |  |
+| [Corazón de Acero](https://open.spotify.com/track/4JbZZZC9YXdFuWxYebR0G9) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [Personalidad](https://open.spotify.com/album/6JA41RFqylAYrh84FOPMsy) | 2:49 | 2022-01-25 | 2022-11-12 |
 | [Corazón De Melón](https://open.spotify.com/track/3xKuJ7DZeu7CwMIqjGakgx) | [Ramon Marquez](https://open.spotify.com/artist/7MBfHtO5xhuBx6qK0mWb4m) | [Corazón De Melón](https://open.spotify.com/album/4UvgmY4FJnJNVBF2165wR6) | 2:57 | 2022-01-25 |  |
 | [Cumbia Caletera](https://open.spotify.com/track/5t1feZXRvi9xSFNEEMuboe) | [Billo's](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6) | [Exitos De Billo's Caracas Boys](https://open.spotify.com/album/0NjbROu91EHfCSwebjtU8n) | 3:03 | 2022-01-25 |  |
 | [Cumbia calé](https://open.spotify.com/track/4NISz8OHOds3bujhrNzsmK) | [Los Sonor's](https://open.spotify.com/artist/5t7uHzbQeU3ZeuLuT0Tzn0) | [12 Grandes exitos Vol\. 2](https://open.spotify.com/album/7c4ECJUWnywBDAosMT4jhK) | 2:43 | 2022-01-25 |  |
@@ -38,8 +39,9 @@
 | [De Quen Chon](https://open.spotify.com/track/3EcnaxzS1LPF46N6QjMcEx) | [Chico Che y La Crisis](https://open.spotify.com/artist/36OebUTEGjxsjUnpQhnmHm) | [Para Bailar Sabroso](https://open.spotify.com/album/40WM3JYS7Aj5gtffJgB2T1) | 2:46 | 2022-01-25 |  |
 | [De Quen Chon](https://open.spotify.com/track/3zbZlaVYtlVzAI4J7XI8UC) | [Chico Che y La Crisis](https://open.spotify.com/artist/36OebUTEGjxsjUnpQhnmHm) | [De Quen Chon](https://open.spotify.com/album/2cG9HCc98Bk7WjY1rrmO0Q) | 2:48 | 2022-01-25 | 2022-11-11 |
 | [Despedida](https://open.spotify.com/track/6r6bcAHYlO0bAC5q7mSJYw) | [Daniel Santos](https://open.spotify.com/artist/6ZBL7tzXJCtsYfHVHozmM2), [Orquesta Pedro Flores](https://open.spotify.com/artist/35ePrAW1vdWYsrYywU6Mps) | [40 Temas Originales](https://open.spotify.com/album/6G9XJm8YJ4oO265SWCqmk5) | 3:11 | 2022-01-25 |  |
-| [Dónde Estás Yolanda](https://open.spotify.com/track/4J2EPwzxdv2ellgx5E4QnP) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [15 EXITOS](https://open.spotify.com/album/2CHM7kNjxlfUHpOj1BuxOs) | 3:07 | 2022-01-25 |  |
+| [Dónde Estás Yolanda](https://open.spotify.com/track/4J2EPwzxdv2ellgx5E4QnP) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [15 EXITOS](https://open.spotify.com/album/2CHM7kNjxlfUHpOj1BuxOs) | 3:07 | 2022-01-25 | 2022-11-12 |
 | [Dónde Estás Yolanda](https://open.spotify.com/track/3vbK2Xw4ZpQd0fINeliiET) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [Al Rítmo De La Sonora Santanera](https://open.spotify.com/album/2LYSHLG5x9i8zolOkqevPS) | 3:08 | 2022-01-25 | 2022-07-29 |
+| [Dónde Estás Yolanda](https://open.spotify.com/track/5QN30ILPpezRT29WGzhdFu) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [Mis Favoritas](https://open.spotify.com/album/5hIXhj8lv59r8dXtKxMkKK) | 3:08 | 2022-01-25 |  |
 | [El Ahualulco](https://open.spotify.com/track/6ZNp1Fg2IDhpfxW3yOoHv9) | [Los Sonor's](https://open.spotify.com/artist/5t7uHzbQeU3ZeuLuT0Tzn0) | [Antología...Los Sonor's](https://open.spotify.com/album/4eVt6JVtBQGs63CkWEZkj6) | 2:13 | 2022-01-25 |  |
 | [El Año Viejo](https://open.spotify.com/track/6NjhADkaWwGYO0R7eZXyI4) | [Tony Camargo](https://open.spotify.com/artist/5ty08GXpCMviM7BKWNrdXi) | [RCA 100 Años De Musica](https://open.spotify.com/album/42xizzB2aLakQDBNIhEQJg) | 3:02 | 2022-01-25 |  |
 | [El Año Viejo](https://open.spotify.com/track/5PZlMcW7VUlti8IRdApRIn) | [Tony Camargo](https://open.spotify.com/artist/5ty08GXpCMviM7BKWNrdXi) | [El Año Viejo](https://open.spotify.com/album/71sqz38xfGvclndbAzc4Gc) | 3:05 | 2022-01-25 | 2022-07-29 |

@@ -823,10 +823,28 @@
       ],
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 282191,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/2LoMz4ATefJEQjtS03wDHu"
+    },
+    {
+      "album": {
+        "name": "en:close - The Sound Of The Jane",
+        "url": "https://open.spotify.com/album/3FElf806T53F7s77wSHTOA"
+      },
+      "artists": [
+        {
+          "name": "Marino Canal",
+          "url": "https://open.spotify.com/artist/6qdVbTc8Uvy0VJyDZbYTd8"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282191,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/7AsIHUJdG9CN7KXmYXUoON"
     },
     {
       "album": {

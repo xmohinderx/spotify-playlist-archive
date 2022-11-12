@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4MTfCb9IRyO.md) - [plain]
 
 > Classic blues for a blue summer day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,403 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,401 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4MTfCb9IRyO.md) - [plain]
 | 43 | [All Your Love \(I Miss Loving\)](https://open.spotify.com/track/46UVOp5pnAasev0rak9ta7) | [Otis Rush](https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP) | [An Introduction To Otis Rush](https://open.spotify.com/album/1PD0bGAiG3boXRd7MGHtjO) | 2:37 |
 | 44 | [Let the Good Times Roll](https://open.spotify.com/track/7e5etB94Bx7fVbJtlgkhjM) | [Louis Jordan](https://open.spotify.com/artist/2nRbxpnBMMbtMBWH5QdqH2) | [Jack, You're Dead: The Essential Blue Archive](https://open.spotify.com/album/2s0dl1Uf59BlayS3m47FDy) | 2:48 |
 | 45 | [Queen Bee](https://open.spotify.com/track/4DxM8kI9DUFig4JkWiWxYr) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Evolution \(The Most Recent\)](https://open.spotify.com/album/3TiJzhz6bELDjmTdnwOq9a) | 4:28 |
-| 46 | [It Serves Me Right To Suffer](https://open.spotify.com/track/1R6geFUwTaYU8vnMkAtD2N) | [Jimmy Dawkins](https://open.spotify.com/artist/69mMUlfVNVGQsw733rBShc) | [Fast Fingers](https://open.spotify.com/album/6lcVXsUyWa9WvgBMTuLz5l) | 4:11 |
+| 46 | [Stone Crazy](https://open.spotify.com/track/3vn0f3JPAErg8fzJs19ObG) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Buddy's Blues](https://open.spotify.com/album/1VUo4Kxd4tLGHrx13V1TVu) | 7:11 |
 | 47 | [The Thrill Is Gone](https://open.spotify.com/track/7ttYmKdps89NS0DOZkJivZ) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Martin Scorsese Presents The Blues: B.B\. King](https://open.spotify.com/album/2yMOWJ5fTfDJ6czMYcoa6F) | 5:25 |
-| 48 | [Stone Crazy](https://open.spotify.com/track/3vn0f3JPAErg8fzJs19ObG) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Buddy's Blues](https://open.spotify.com/album/1VUo4Kxd4tLGHrx13V1TVu) | 7:11 |
+| 48 | [It Serves Me Right To Suffer](https://open.spotify.com/track/1R6geFUwTaYU8vnMkAtD2N) | [Jimmy Dawkins](https://open.spotify.com/artist/69mMUlfVNVGQsw733rBShc) | [Fast Fingers](https://open.spotify.com/album/6lcVXsUyWa9WvgBMTuLz5l) | 4:11 |
 | 49 | [Hideaway](https://open.spotify.com/track/0vpQF8zv6436C25Fcy7cO0) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Old King Gold Volume 4](https://open.spotify.com/album/2hkNiiSurEZAK6txnmB138) | 2:37 |
 | 50 | [Farther Up The Road \- Single Version](https://open.spotify.com/track/52Orpi1a7Md57vu8yZ1yZD) | [Bobby "Blue" Bland](https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj) | [Best Of The Blues](https://open.spotify.com/album/1S7OZpDxCMctv23NyauY4U) | 2:59 |
 
-Snapshot ID: `MTU4ODU4NDcyMywwMDAwMDAwMDg2OGQ1MTk0MzVjODY4NTUwNDdlZmRmZjZiOTFmYzdi`
+Snapshot ID: `MTU4ODU4NDcyMywwMDAwMDAwMGUxODlmNGY1OGVkZGFlODNiYTkyMGZhOTJjZWIyOGMx`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "The highest quality blend. Cover: Rayland Baxter",
+  "description": "The highest quality blend ft. Bruce Springsteen",
   "name": "Grade A",
   "published_playlist_ids": [
     "5atRHR4vc4jlkDH31Rwpnd"
@@ -127,7 +127,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 237320,
       "name": "A.M. RADIO",
       "url": "https://open.spotify.com/track/0Hu1ylV8WuaLcLclixNgTV"
@@ -833,7 +833,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 202219,
       "name": "Bad Thing",
       "url": "https://open.spotify.com/track/4jqxfm3BEhHPJ4awPsQ3Sl"
@@ -1702,6 +1702,24 @@
     },
     {
       "album": {
+        "name": "Consequences",
+        "url": "https://open.spotify.com/album/11am3mDeSxGDV8rrGpJwVP"
+      },
+      "artists": [
+        {
+          "name": "Kate Davis",
+          "url": "https://open.spotify.com/artist/4jXKRg7GZPm3mKGgKwUEco"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "Consequences",
+      "url": "https://open.spotify.com/track/4ivH644trNJe9wyi0OmHuw"
+    },
+    {
+      "album": {
         "name": "Crutch",
         "url": "https://open.spotify.com/album/1rNP32XZdvbJAAhJ20gxdi"
       },
@@ -1993,10 +2011,28 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 147040,
       "name": "Do I Love You (Indeed I Do)",
       "url": "https://open.spotify.com/track/0JsyYwcVC0PwaCewYnEBYJ"
+    },
+    {
+      "album": {
+        "name": "Only the Strong Survive",
+        "url": "https://open.spotify.com/album/4XJaXh57G3rZtAzqeVZSfn"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147040,
+      "name": "Do I Love You (Indeed I Do)",
+      "url": "https://open.spotify.com/track/0NdXIfsa0zFZDcCVpUfHQi"
     },
     {
       "album": {
@@ -2195,7 +2231,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 178837,
       "name": "Electric Cowboy",
       "url": "https://open.spotify.com/track/4kKmJL2v9btxEtZ3nWAek8"
@@ -2801,7 +2837,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 262450,
       "name": "Forever In Sunset",
       "url": "https://open.spotify.com/track/7ofb8SMiE4pDit5ewXNArn"
@@ -2844,6 +2880,24 @@
     },
     {
       "album": {
+        "name": "Where the Redwoods Meet the Sea",
+        "url": "https://open.spotify.com/album/3XPdCfPF5QctGxYqHGdqoH"
+      },
+      "artists": [
+        {
+          "name": "Windser",
+          "url": "https://open.spotify.com/artist/0G9ibJ5qs4Zl6iupdrVAG1"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179946,
+      "name": "Friends I Barely Know",
+      "url": "https://open.spotify.com/track/1LrgCvDcHuPnThKRKkeoqL"
+    },
+    {
+      "album": {
         "name": "Friends I Barely Know",
         "url": "https://open.spotify.com/album/51KS9zdT2oJWaRPEH1W6w5"
       },
@@ -2855,7 +2909,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 179946,
       "name": "Friends I Barely Know",
       "url": "https://open.spotify.com/track/4Yzy5bGrMOlLpYcOtWxGIM"
@@ -3374,6 +3428,24 @@
     },
     {
       "album": {
+        "name": "Heart of Gold",
+        "url": "https://open.spotify.com/album/1GepwipVqxIYkIvzkjCHyY"
+      },
+      "artists": [
+        {
+          "name": "Abraham Alexander",
+          "url": "https://open.spotify.com/artist/2f6fW5uWhqbEDXDK6IGirN"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227380,
+      "name": "Heart of Gold",
+      "url": "https://open.spotify.com/track/6rkv3IMtaEyQYzSCNW2YG0"
+    },
+    {
+      "album": {
         "name": "Love Is Real b/w Heart Shape",
         "url": "https://open.spotify.com/album/7kKKozYknjwDR0AoG7RwHu"
       },
@@ -3811,7 +3883,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 187120,
       "name": "How It Ends",
       "url": "https://open.spotify.com/track/0A71gr6oummBVekQZfg7tP"
@@ -3883,10 +3955,28 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 191173,
       "name": "I Ain\u2019t Quite Where I Think I Am",
       "url": "https://open.spotify.com/track/1UwUhKmFxGKs59xiWO60Sx"
+    },
+    {
+      "album": {
+        "name": "I Ain't Quite Where I Think I Am",
+        "url": "https://open.spotify.com/album/1iXbmA1guiEgh69kIcr0On"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191173,
+      "name": "I Ain\u2019t Quite Where I Think I Am",
+      "url": "https://open.spotify.com/track/7DPhusadsTZ2VrXOGcuX2y"
     },
     {
       "album": {
@@ -4559,6 +4649,24 @@
       "duration_ms": 251709,
       "name": "King of Sweden",
       "url": "https://open.spotify.com/track/3UBUSMQXobHQMXkKsv9dgy"
+    },
+    {
+      "album": {
+        "name": "Year Of The Dark Horse",
+        "url": "https://open.spotify.com/album/0HLAkdOg4mPRmdVaIdTK11"
+      },
+      "artists": [
+        {
+          "name": "The White Buffalo",
+          "url": "https://open.spotify.com/artist/3ohcHMuUq1717s8AH17hfT"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208053,
+      "name": "Kingdom For A Fool",
+      "url": "https://open.spotify.com/track/2tKyv5qRq8PTp0sGJ0vu06"
     },
     {
       "album": {
@@ -5854,6 +5962,24 @@
     },
     {
       "album": {
+        "name": "No Rule",
+        "url": "https://open.spotify.com/album/3q44ueZD50lWp4BXm0GDcE"
+      },
+      "artists": [
+        {
+          "name": "Manchester Orchestra",
+          "url": "https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325888,
+      "name": "No Rule",
+      "url": "https://open.spotify.com/track/5SvYRapjngsO2dYfBC9ZXV"
+    },
+    {
+      "album": {
         "name": "Normal Kid",
         "url": "https://open.spotify.com/album/1rX2mSRqM0GmTM0e4YK9H7"
       },
@@ -5901,7 +6027,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 219920,
       "name": "Not Today",
       "url": "https://open.spotify.com/track/32dbM6sFlQmbl4y7nVy9cS"
@@ -7617,7 +7743,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 195804,
       "name": "So Typically Now",
       "url": "https://open.spotify.com/track/1IafXP9REln2SxcNXOCIDS"
@@ -7889,7 +8015,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 231416,
       "name": "Stay (ft. Gary Clark Jr.)",
       "url": "https://open.spotify.com/track/33tVKYG73t7pCmafa3Yn9f"
@@ -8297,7 +8423,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 227373,
       "name": "Tangled",
       "url": "https://open.spotify.com/track/4LbzdtRMTssvtEiGaf1lnS"
@@ -8704,6 +8830,24 @@
     },
     {
       "album": {
+        "name": "Beatopia",
+        "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177533,
+      "name": "the perfect pair",
+      "url": "https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a"
+    },
+    {
+      "album": {
         "name": "Nothing Special",
         "url": "https://open.spotify.com/album/07wtrSTxfDBIKBq4eyY0kM"
       },
@@ -8715,7 +8859,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 338832,
       "name": "The Spiral Season",
       "url": "https://open.spotify.com/track/4BKsfPcXrxMEUmlmNpDfmi"
@@ -10079,6 +10223,24 @@
       "duration_ms": 168172,
       "name": "You Will Never Work In Television Again",
       "url": "https://open.spotify.com/track/2Aa4sRrWDddEmVRfAjVjsw"
+    },
+    {
+      "album": {
+        "name": "You're in the Way",
+        "url": "https://open.spotify.com/album/3M5T4rxlIzbGvlQfToUkKJ"
+      },
+      "artists": [
+        {
+          "name": "Jordana",
+          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167168,
+      "name": "You're in the Way",
+      "url": "https://open.spotify.com/track/3DVhLbfqydZoui3oL8kfti"
     },
     {
       "album": {

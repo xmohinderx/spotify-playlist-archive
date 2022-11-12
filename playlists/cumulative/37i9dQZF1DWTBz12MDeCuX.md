@@ -4,7 +4,7 @@
 
 > Die Playlist, die dich fühlt\. Cover: Ski Aggu, Domiziana
 
-461 songs - 22 hr 23 min - [published](https://open.spotify.com/playlist/4wMgKXJWsULbe4I9HZDGUL)
+462 songs - 22 hr 27 min - [published](https://open.spotify.com/playlist/4wMgKXJWsULbe4I9HZDGUL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [Cradles](https://open.spotify.com/track/18A7ha5BitZjmdHTCwXFbU) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG) | [Cradles](https://open.spotify.com/album/1WTTu8JvpNLQShwwO8o4L9) | 3:29 | 2022-06-09 | 2022-07-05 |
 | [Crashen](https://open.spotify.com/track/5STeQZH1Ahz3h0X9Njaij7) | [t\-low](https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD) | [Benzo Diaries](https://open.spotify.com/album/0HbiTa5jQDKUGTitnI84p1) | 2:58 | 2022-06-09 | 2022-06-14 |
 | [Crazy Phonk \- Remix](https://open.spotify.com/track/2REq597W1UwW66BWqMRfJY) | [Fxbii](https://open.spotify.com/artist/1oYKkRi4r2vlOuIjBj85FR) | [Phonk MixTape \(Remix\)](https://open.spotify.com/album/6CPevPVAkExLmMzVu1EO5u) | 1:57 | 2022-10-10 | 2022-11-04 |
-| [Crazy Phonk \- Remix \- Slowed](https://open.spotify.com/track/6DOKigFVtRVWdOsRyGa0v8) | [Fxbii](https://open.spotify.com/artist/1oYKkRi4r2vlOuIjBj85FR) | [Crazy Phonk Remixes](https://open.spotify.com/album/2F77wWryBSjn3EBIGdSvf1) | 1:57 | 2022-11-03 |  |
+| [Crazy Phonk \- Remix \- Slowed](https://open.spotify.com/track/6DOKigFVtRVWdOsRyGa0v8) | [Fxbii](https://open.spotify.com/artist/1oYKkRi4r2vlOuIjBj85FR) | [Crazy Phonk Remixes](https://open.spotify.com/album/2F77wWryBSjn3EBIGdSvf1) | 2:10 | 2022-11-03 |  |
 | [cro hat mir gesagt es wird easy](https://open.spotify.com/track/4wEMYoQ284TCWOEeEeL3TD) | [LUIS](https://open.spotify.com/artist/1GdFniPzxbAmIGIn89RwoI) | [cro hat mir gesagt es wird easy](https://open.spotify.com/album/6hl9RsxvCWtNxnZeGqk0tH) | 3:01 | 2022-07-07 | 2022-09-16 |
 | [Danielle \(smile on my face\)](https://open.spotify.com/track/2sLVs5iX0osogh4jcsAJkv) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Danielle \(smile on my face\)](https://open.spotify.com/album/7xni0tZQ8q2rTHkIeBYr1Y) | 3:21 | 2022-09-15 | 2022-10-21 |
 | [Day 1](https://open.spotify.com/track/6YbXBb1lpVLo4cMskyODP4) | [CIVO](https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8) | [Day 1](https://open.spotify.com/album/6wEP76NKBnAwt8Yi4YLVAS) | 1:56 | 2022-07-14 | 2022-08-19 |
@@ -252,7 +252,8 @@
 | [MIDNIGHT](https://open.spotify.com/track/2WzAAerBvZvvFXgUpSwHZ9) | [PLAYAMANE](https://open.spotify.com/artist/13itspgSHkUbOq03AhIyjS), [Nateki](https://open.spotify.com/artist/3g0UoyvaTaHUrfpHiRqsD1) | [MIDNIGHT](https://open.spotify.com/album/5nWRdZWdSXAMvLTZFxuD2W) | 2:01 | 2022-08-18 | 2022-10-28 |
 | [Million \(feat\. Lucio101, Nizi19, Omar101 & Karamel19\)](https://open.spotify.com/track/0X2Loosj0gjkusQEcJNBwR) | [1019](https://open.spotify.com/artist/3r82jUxl7ThSdOhB90Qn6u), [Lucio101](https://open.spotify.com/artist/4LwRgSkj7AJJTKLnEaHjMv), [Nizi19](https://open.spotify.com/artist/2IVvZIe3P9BMuCI6h48Bjg), [Omar101](https://open.spotify.com/artist/3OSeYeKlvOhNfcLVQNadmB), [Karamel19](https://open.spotify.com/artist/2NKelK5LrcVeYoDdEBVhmm) | [Million \(feat\. Lucio101, Nizi19, Omar101 & Karamel19\)](https://open.spotify.com/album/6V499PNwFrA4KKKp6AaAtx) | 3:23 | 2022-06-30 | 2022-07-20 |
 | [Mine](https://open.spotify.com/track/1FYbKJI9kRofsRgOVYciic) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn) | [Mine](https://open.spotify.com/album/759xTRwjc0HF1m64zkRm0L) | 3:14 | 2022-11-03 | 2022-11-11 |
-| [Miss You](https://open.spotify.com/track/4tRhRLBxIZ34Iw0eCuiC03) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Miss You](https://open.spotify.com/album/4fmtd5CduUYx2bmMOvXwX4) | 3:26 | 2022-08-05 |  |
+| [Miss You](https://open.spotify.com/track/4tRhRLBxIZ34Iw0eCuiC03) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Miss You](https://open.spotify.com/album/4fmtd5CduUYx2bmMOvXwX4) | 3:26 | 2022-08-05 | 2022-11-12 |
+| [Miss You](https://open.spotify.com/track/6vAUQntCAzBg6kYern6LQM) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Miss You](https://open.spotify.com/album/2IHPG4aVcIcwz9Rpme2WaT) | 3:26 | 2022-11-10 |  |
 | [Miss You](https://open.spotify.com/track/2JgciX6HkDVwRAU8e8VmR6) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Miss You](https://open.spotify.com/album/2Y3dHOjEIxYumXA17T7QDH) | 3:26 | 2022-07-08 | 2022-08-06 |
 | [Mockingbird](https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Encore \(Deluxe Version\)](https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif) | 4:10 | 2022-10-20 |  |
 | [Mockingbird \- Remix](https://open.spotify.com/track/33LFIMKizfQaC2RFeYLQXw) | [E1 \(3x3\)](https://open.spotify.com/artist/63ebc5zUpJ36aoTDQJHa9B) | [Mockingbird \(Remix\)](https://open.spotify.com/album/7BXb7pTQSCicF0duwhWd9E) | 3:12 | 2022-07-25 | 2022-09-30 |

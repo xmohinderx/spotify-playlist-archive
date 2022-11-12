@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 
 > The iconic songs celebrating love across the African continent from the 2000's to date
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,841 likes - 100 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,889 likes - 100 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 | 36 | [Nota](https://open.spotify.com/track/5tPauDRDmFoM8GMEGRQPnt) | [Dizzy DROS](https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh) | [Nota](https://open.spotify.com/album/6kLwbk0ix5h8oDblXNkImY) | 2:20 |
 | 37 | [Djadja](https://open.spotify.com/track/7sKDftgGirHWTVFMtJoDoh) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [NAKAMURA](https://open.spotify.com/album/3jqQFIXUakuDXdhFVvI7Ko) | 2:51 |
 | 38 | [Ibhanoyi](https://open.spotify.com/track/1UooO4lFHhFaKX8Jgz9xNI) | [Blaq Diamond](https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe) | [Umuthi](https://open.spotify.com/album/2bjC0ex3FhejL6cuaLToJU) | 4:09 |
-| 39 | [Naogopa](https://open.spotify.com/track/0vybWIHJOFMSwMVJQpAFxv) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [Flowers](https://open.spotify.com/album/1yYgqZbQEi9NdfrGg364bW) | 3:43 |
+| 39 | [Naogopa](https://open.spotify.com/track/3RZR4vq0AtTx1NZvfH85Bc) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [Naogopa](https://open.spotify.com/album/1CUXqJ0kl6wgeZ3mih9DXP) | 3:43 |
 | 40 | [Suited](https://open.spotify.com/track/1ANr6ZNtwd8klYxYdXLR7t) | [Shekhinah](https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB) | [Rose Gold](https://open.spotify.com/album/0iGhXnhrNFxaSnZN0CK6ML) | 3:53 |
 | 41 | [Odo nwom](https://open.spotify.com/track/7oTOQksidsMI5biGbCS0hB) | [Kofi Nti](https://open.spotify.com/artist/2ms1z7qBF4uLM8hzdjGhL9), [Ofori Amponsah](https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg) | [Rakia](https://open.spotify.com/album/7dXy5OVxXCdsTHvFeSEG7T) | 5:57 |
 | 42 | [Joromi](https://open.spotify.com/track/2veqQDtwehytVhqYJbTHtW) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Simisola](https://open.spotify.com/album/2lHgNW983t05IFHxKSryH3) | 3:55 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 | 94 | [Bembeleza](https://open.spotify.com/track/47S0nvI30nN9VgDcIyGxBo) | [Marlaw](https://open.spotify.com/artist/2Mubfa0R9X7HoCHatHctGL) | [Sungura Na Fisi](https://open.spotify.com/album/6cTRrJGMTZmF1wAtGFVbah) | 4:42 |
 | 95 | [Wangu](https://open.spotify.com/track/3SQZtURKuSTIAt15SVNHNP) | [Nadia Mukami](https://open.spotify.com/artist/5nnVpORg4Aha9aWRTZA5No), [Sanaipei Tande](https://open.spotify.com/artist/1kP9asYdOE5UeBmNVYZX1J) | [African Popstar](https://open.spotify.com/album/4M32W80O9xZpNw9nYOcwmN) | 3:06 |
 | 96 | [Talk to You](https://open.spotify.com/track/5teMc06640wYbmiZrLRyZ9) | [Big Pin](https://open.spotify.com/artist/0OG8e95fwdrVuShmIKW8ME) | [This Is for You](https://open.spotify.com/album/6NxGXoyG4j8LA792eAbu0T) | 3:22 |
-| 97 | [Baby Girl](https://open.spotify.com/track/5qJpQEJKN2lvm0szJhyvdz) | [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP) | [Thuto](https://open.spotify.com/album/5eqTNk3knYSiqlpcUT91z7) | 4:20 |
+| 97 | [Baby Girl](https://open.spotify.com/track/14dcMfyhHV1vUdXXfiTuW1) | [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP) | [Once Upon a Time In Africa](https://open.spotify.com/album/75zZ8xLGSeF0UFE5K0kMrj) | 4:20 |
 | 98 | [Naksh Naksh Mrembo](https://open.spotify.com/track/3bEUcbgCWnyuXKrjR9OLnn) | [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT), [Hakeem 5](https://open.spotify.com/artist/1kE23z6YUfh9fBj1kWeohZ) | [CINDERELLA](https://open.spotify.com/album/0QSQibBpOOzPpiZcR54iY8) | 5:24 |
 | 99 | [Hey Baby](https://open.spotify.com/track/6QSb60sn9DaOuTKoeTHBtr) | [Colonel Moustapha](https://open.spotify.com/artist/6M8r2WBh4hYgx8v5bmw8Yd), [Marya](https://open.spotify.com/artist/5VhnfPg1YsCfdoS5QR9o6J) | [Hey Baby](https://open.spotify.com/album/0joHCEkM7DAir7xqWgm3NW) | 3:05 |
 | 100 | [Haiwihaiwi \(feat\. Bienaime\)](https://open.spotify.com/track/2SNo5wyDBUU7Op1Vz3paVX) | [Wendy Kimani](https://open.spotify.com/artist/0Ep2fNEERde3ns2luc8clT), [Bien Aime](https://open.spotify.com/artist/7F39RDj6PGoOTLqSxWcScL) | [My Essence](https://open.spotify.com/album/0zGiZdTgKFSRLVWd0XLeFi) | 3:29 |
 
-Snapshot ID: `MTY0NDUwNTA5MSwwMDAwMDAwMGEwNGI1Y2RjMWJiZDYzYjJhYWViYTY5MWI2MjQ2NzZj`
+Snapshot ID: `MTY0NDUwNTA5MSwwMDAwMDAwMDA5YjU4Yzg1ODJjNTAzZmNjZGRlMWUzMDlhODYzYzVk`

@@ -4,7 +4,7 @@
 
 > Vegas pool party vibes with a mix of the hottest Latin dance anthems of today.
 
-130 songs - 6 hr 53 min - [published](https://open.spotify.com/playlist/1ZF0pbGIatnjdQmWjkzz9Q)
+131 songs - 6 hr 56 min - [published](https://open.spotify.com/playlist/1ZF0pbGIatnjdQmWjkzz9Q)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,8 @@
 | [Las Niñas](https://open.spotify.com/track/3FirQ6AZVX1lxd8S0VIyZ8) | [Dimelo Yssa](https://open.spotify.com/artist/4Y8NDDstWnqZi2PrwB8dKR) | [Las Niñas](https://open.spotify.com/album/2793FZEEw2WVaYMoYzJXSG) | 3:50 | 2022-05-11 |  |
 | [Lean On](https://open.spotify.com/track/5wldXGLEOoRXxMWJ8rIUWE) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Peace Is The Mission](https://open.spotify.com/album/2MJamyp1d9MRa3xbtaxAGd) | 2:56 | 2022-04-07 | 2022-05-12 |
 | [Legoo](https://open.spotify.com/track/4VPvvQCuMKYPd8teOLKZji) | [Le Twins](https://open.spotify.com/artist/52kfbBndpbamlOcoNPaurb) | [Legoo](https://open.spotify.com/album/5cB9R964vdhuoQRDrI1nlS) | 2:28 | 2022-04-07 | 2022-05-12 |
-| [Lifetime \(with Ty Dolla $ign & 070 Shake\)](https://open.spotify.com/track/3QqHt507QJZCzluEYsnv4u) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Paradise Again](https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH) | 3:06 | 2022-06-03 |  |
+| [Lifetime](https://open.spotify.com/track/4gzGNC0bGE7B1UFHuM8JrV) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [EDM Party](https://open.spotify.com/album/3uoi0WSv99nejC8O0PYoB2) | 3:06 | 2022-06-03 |  |
+| [Lifetime \(with Ty Dolla $ign & 070 Shake\)](https://open.spotify.com/track/3QqHt507QJZCzluEYsnv4u) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Paradise Again](https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH) | 3:06 | 2022-06-03 | 2022-11-12 |
 | [Lifetime \(with Ty Dolla $ign & 070 Shake\)](https://open.spotify.com/track/3zQpGaH50HeMjxurMZVF6q) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Lifetime](https://open.spotify.com/album/4jFxIzyBN7JD5rwLT0chjg) | 3:06 | 2022-05-11 | 2022-07-29 |
 | [Light Up](https://open.spotify.com/track/319XgEPeEfhMw276p5wzg3) | [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22), [Jerome](https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV), [Crooked Bangs](https://open.spotify.com/artist/4gkZO2kbnE03K8xGmZ2DJu) | [Light Up](https://open.spotify.com/album/3lpliBOg303cNhbNCeDMZm) | 2:41 | 2022-05-11 | 2022-07-29 |
 | [Light Up](https://open.spotify.com/track/3WxbeGN19v2MGGbHBvHxFF) | [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22), [Jerome](https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV), [Crooked Bangs](https://open.spotify.com/artist/4gkZO2kbnE03K8xGmZ2DJu) | [Light Up](https://open.spotify.com/album/60V9UD3ADGAYxafKbeHiZc) | 2:41 | 2022-06-03 |  |

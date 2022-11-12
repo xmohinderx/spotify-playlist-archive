@@ -4,7 +4,7 @@
 
 > <a href="https://linktr.ee/PunkaBristol">Punka</a> creates a safe space for the alternative scene with their club night at the heart of Bristol’s LGBTQIA+ community.\. This is their sound of Pride\. Photography: Delirium and Proper Job Productions
 
-78 songs - 4 hr 24 min - [published](https://open.spotify.com/playlist/5jRw18kvgpN77vsHjCscPj)
+81 songs - 4 hr 35 min - [published](https://open.spotify.com/playlist/5jRw18kvgpN77vsHjCscPj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,8 +36,9 @@
 | [Goth Girl](https://open.spotify.com/track/6Hls9RwOCumrOU92veAeLv) | [VENUS GRRRLS](https://open.spotify.com/artist/3ZmtxfuEtTsKgKEiM42jQ9) | [Goth Girl](https://open.spotify.com/album/3ciwyqmDLBZoPmMvs1YKJH) | 2:34 | 2021-06-02 | 2022-11-11 |
 | [Goth Girl](https://open.spotify.com/track/0wY6lSoaPdeM2c9a9fMHrk) | [VENUS GRRRLS](https://open.spotify.com/artist/3ZmtxfuEtTsKgKEiM42jQ9) | [Goth Girl](https://open.spotify.com/album/6jNPenRTscpLTQP0Cb34UD) | 2:34 | 2021-06-02 | 2022-10-19 |
 | [Goth Girl](https://open.spotify.com/track/3XJphWgEqWspF5bA6swplb) | [VENUS GRRRLS](https://open.spotify.com/artist/3ZmtxfuEtTsKgKEiM42jQ9) | [Potions](https://open.spotify.com/album/1KW5fZmB36IsFjHAiuzwJy) | 2:35 | 2021-06-02 |  |
+| [Heads Will Roll](https://open.spotify.com/track/1YaOIrutGLebjpneXgQqol) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Spring Breakers 2021](https://open.spotify.com/album/3mc7YfYD6vojcREl0OA6Ly) | 3:41 | 2021-06-02 |  |
 | [Heads Will Roll](https://open.spotify.com/track/2WRFD9WczJ975X2K1Y9YVs) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz!](https://open.spotify.com/album/6w21zEx5okRPCYJejLVRdR) | 3:41 | 2021-06-02 | 2022-07-29 |
-| [Heads Will Roll](https://open.spotify.com/track/4WiIscpBgQFm5qIyjoH7M4) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz!](https://open.spotify.com/album/4dBMwYZJ84lj8HRTdL8Toj) | 3:41 | 2021-06-02 |  |
+| [Heads Will Roll](https://open.spotify.com/track/4WiIscpBgQFm5qIyjoH7M4) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz!](https://open.spotify.com/album/4dBMwYZJ84lj8HRTdL8Toj) | 3:41 | 2021-06-02 | 2022-11-12 |
 | [I Bet You Look Good On The Dancefloor \- Arctic Babes Mix](https://open.spotify.com/track/64KpCQaeG2yGMkT3OFjfdY) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [Red Dress](https://open.spotify.com/album/3fu794gu0wGWPeU1Ls3Niq) | 2:47 | 2021-06-02 |  |
 | [I Heard It Through The Grapevine](https://open.spotify.com/track/7bZq2oWTiGm46S3oIm88d1) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Women To The Front](https://open.spotify.com/album/2vo07GjorJuX6KJ3WfPBnI) | 3:58 | 2021-06-02 |  |
 | [I Heard It Through The Grapevine](https://open.spotify.com/track/2tlQN0gUJz6tW7bPunEaid) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Cut \(Deluxe Edition\)](https://open.spotify.com/album/6ppPT0aXOtsAlG1QQVB9E0) | 3:58 | 2021-06-02 | 2022-11-11 |
@@ -48,7 +49,8 @@
 | [Just A Girl](https://open.spotify.com/track/2YfLDV9OYa66U9bcFhdHG4) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Work from Home \- Pop Hits Edition](https://open.spotify.com/album/2dkoGIxHxCUOFyUHhZMqWN) | 3:25 | 2021-06-02 |  |
 | [Just A Girl](https://open.spotify.com/track/36bOT34EdRNrNhCWMwNJKu) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Tragic Kingdom](https://open.spotify.com/album/4Rvc82pV7HCKZyRHbLWCac) | 3:28 | 2021-06-02 | 2022-07-29 |
 | [Just A Girl](https://open.spotify.com/track/5lWRaa0fBxDE5yU91npPq7) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Tragic Kingdom](https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8) | 3:29 | 2021-06-02 | 2022-11-11 |
-| [Let's Make Love and Listen to Death From Above](https://open.spotify.com/track/1Jd9W7k8DTnBSovDSxK77n) | [CSS](https://open.spotify.com/artist/2K13AVg3bFpHSxDM1vJ0qA) | [Cansei De Ser Sexy](https://open.spotify.com/album/4hE0UliYSCQiItKmKRDBaD) | 3:31 | 2021-06-02 |  |
+| [Let's Make Love and Listen to Death From Above](https://open.spotify.com/track/1Jd9W7k8DTnBSovDSxK77n) | [CSS](https://open.spotify.com/artist/2K13AVg3bFpHSxDM1vJ0qA) | [Cansei De Ser Sexy](https://open.spotify.com/album/4hE0UliYSCQiItKmKRDBaD) | 3:31 | 2021-06-02 | 2022-11-12 |
+| [Let's Make Love and Listen to Death From Above](https://open.spotify.com/track/5KLE0X8eNk19rORfCDoJgD) | [CSS](https://open.spotify.com/artist/2K13AVg3bFpHSxDM1vJ0qA) | [Let's Make Love And Listen To Death From Above](https://open.spotify.com/album/5iaa3h5dYAAZ4lmghf3syq) | 3:31 | 2021-06-02 |  |
 | [Let's Make Love and Listen to Death From Above](https://open.spotify.com/track/0VYEz3QEWELuILpeyzOF0A) | [CSS](https://open.spotify.com/artist/2K13AVg3bFpHSxDM1vJ0qA) | [Cansei De Ser Sexy](https://open.spotify.com/album/6IiKo8hbnqheYfEHaEmHoz) | 3:31 | 2021-06-02 | 2022-07-29 |
 | [Love Someone Else](https://open.spotify.com/track/3inkqptdmI1W1N7GOh3EbZ) | [Skunk Anansie](https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF) | [Anarchytecture](https://open.spotify.com/album/2sV7D1Zl4HQBDzHQzFhjAE) | 3:31 | 2021-06-02 | 2022-07-29 |
 | [Love Someone Else](https://open.spotify.com/track/5v40kyxnNxfk3NZ4myxsyI) | [Skunk Anansie](https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF) | [Anarchytecture](https://open.spotify.com/album/2QXfiilYaHKvKk1Lqj3T97) | 3:31 | 2021-06-02 |  |
@@ -66,7 +68,8 @@
 | [Resurrection](https://open.spotify.com/track/1AZWLziLGgegCnfaMjIthY) | [Fey Militia](https://open.spotify.com/artist/5NxxFAgCESXZFB6c85VNHD) | [Mabel](https://open.spotify.com/album/7GGqscQe21RIHWXKDOkyXB) | 4:15 | 2021-06-02 |  |
 | [Small Talk](https://open.spotify.com/track/2rfQjAZYGJU1VyED79QTI1) | [Grandmas House](https://open.spotify.com/artist/6BFppN7DZ1DR7zFyNTj7Nv) | [Always Happy / Small Talk](https://open.spotify.com/album/2Zj7Z47Sk8tzbJsm2H7cL0) | 1:36 | 2021-06-02 |  |
 | [Small Talk](https://open.spotify.com/track/6Db9WubNRyJv86SWwTcJEm) | [Grandmas House](https://open.spotify.com/artist/6BFppN7DZ1DR7zFyNTj7Nv) | [Always Happy / Small Talk](https://open.spotify.com/album/6mvGFwAuFiclGLZOckvKTk) | 1:36 | 2021-06-02 | 2022-11-09 |
-| [Somebody](https://open.spotify.com/track/4ygF0U1GZSmrvVnoKhBRur) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [Dream Wife](https://open.spotify.com/album/0fFlloNPNem2XOi4AeU5ty) | 3:29 | 2021-06-02 |  |
+| [Somebody](https://open.spotify.com/track/4ygF0U1GZSmrvVnoKhBRur) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [Dream Wife](https://open.spotify.com/album/0fFlloNPNem2XOi4AeU5ty) | 3:29 | 2021-06-02 | 2022-11-12 |
+| [Somebody](https://open.spotify.com/track/6uRLeaoBrxr8AaTXnLSlgS) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [Somebody](https://open.spotify.com/album/45EqNmQsfluL4ePkiYiK2R) | 3:29 | 2021-06-02 |  |
 | [Somebody](https://open.spotify.com/track/6nVEkpMdoxA1xjcur12B7V) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [Dream Wife](https://open.spotify.com/album/5ALipDbGrV5mJxJqt1MNN1) | 3:29 | 2021-06-02 | 2022-07-29 |
 | [Spellbound](https://open.spotify.com/track/3ePwkVyUDNo4UnITQWZcRS) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Juju \(Remastered & Expanded\)](https://open.spotify.com/album/5ShmAjEGEkWROooVfA0Amb) | 3:17 | 2021-06-02 | 2022-07-29 |
 | [Spellbound](https://open.spotify.com/track/5Ng6UbryNd3eds2zQk9MUf) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Juju](https://open.spotify.com/album/5OEum65e1HMGX51Ifu51Wb) | 3:17 | 2021-06-02 | 2022-11-11 |

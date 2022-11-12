@@ -1,12 +1,12 @@
 {
   "description": "An introduction to the thoroughly dramatic world of Richard Wagner, brimming with ancient legends and timeless love stories.",
-  "num_followers": 79633,
+  "num_followers": 79673,
   "original_name": "This Is Wagner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjQwNjcwNSwwMDAwMDAwMDBjMDNmN2ZhNWYxOGQ5Y2U5N2ExY2VkYzRhZmMwMWM5",
+  "snapshot_id": "MTY1NjQwNjcwNSwwMDAwMDAwMDk4MWIxZTc0MmZjYzNlZDRkMGI0ODA5MzVlNGVhYTlj",
   "tracks": [
     {
       "added_at": "2022-06-28 08:58:25",
@@ -239,30 +239,6 @@
     {
       "added_at": "2022-06-28 08:58:25",
       "album": {
-        "name": "Wagner, R.: Orchestral Highlights From Operas",
-        "url": "https://open.spotify.com/album/4X6uFJUvxxP1RbDmW1oh8T"
-      },
-      "artists": [
-        {
-          "name": "Richard Wagner",
-          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
-        },
-        {
-          "name": "Slovak Philharmonic",
-          "url": "https://open.spotify.com/artist/2rfkmr5WzRN9D9gAfb2ycd"
-        },
-        {
-          "name": "Michael Halasz",
-          "url": "https://open.spotify.com/artist/6Dkj1lYjjOCsGB170vlWc6"
-        }
-      ],
-      "duration_ms": 151666,
-      "name": "Lohengrin, Act III: Prelude",
-      "url": "https://open.spotify.com/track/3MZIf4i9hAEPMYNu0Gbl77"
-    },
-    {
-      "added_at": "2022-06-28 08:58:25",
-      "album": {
         "name": "Richard Strauss: Four Last Songs / Wagner: Arias from Tannh\u00e4user",
         "url": "https://open.spotify.com/album/1fsJhFgqGAJiSJo61ALeSO"
       },
@@ -367,54 +343,6 @@
     {
       "added_at": "2022-06-28 08:58:25",
       "album": {
-        "name": "Wagner, R.: Orchestral Highlights From Operas",
-        "url": "https://open.spotify.com/album/4X6uFJUvxxP1RbDmW1oh8T"
-      },
-      "artists": [
-        {
-          "name": "Richard Wagner",
-          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
-        },
-        {
-          "name": "Slovak Philharmonic",
-          "url": "https://open.spotify.com/artist/2rfkmr5WzRN9D9gAfb2ycd"
-        },
-        {
-          "name": "Michael Halasz",
-          "url": "https://open.spotify.com/artist/6Dkj1lYjjOCsGB170vlWc6"
-        }
-      ],
-      "duration_ms": 428040,
-      "name": "Tannhauser, Act II: Entrance of the Guests",
-      "url": "https://open.spotify.com/track/7goxLsl3NjiAOmujpZtFWz"
-    },
-    {
-      "added_at": "2022-06-28 08:58:25",
-      "album": {
-        "name": "Wagner: Symphonies In E Major & C Major",
-        "url": "https://open.spotify.com/album/5IgdBVEXXfuHleOBxnte8o"
-      },
-      "artists": [
-        {
-          "name": "Richard Wagner",
-          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
-        },
-        {
-          "name": "Tokyo Metropolitan Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/7sZ6l5rUEtMpeqNRPtSM38"
-        },
-        {
-          "name": "Hiroshi Wakasugi",
-          "url": "https://open.spotify.com/artist/4d9YDMvrULZ7CQrONKAs5N"
-        }
-      ],
-      "duration_ms": 284600,
-      "name": "Symphony In E Major, WWV 35: II. Adagio Cantabile",
-      "url": "https://open.spotify.com/track/0b0Qj95orjydO2W9MIeWy3"
-    },
-    {
-      "added_at": "2022-06-28 08:58:25",
-      "album": {
         "name": "Wagner: Die Meistersinger von N\u00fcrnberg",
         "url": "https://open.spotify.com/album/3hU0XFFZkuUE2sqp9udsBO"
       },
@@ -443,6 +371,30 @@
       "duration_ms": 602266,
       "name": "Die Meistersinger von N\u00fcrnberg, WWV 96 / Act III: \"Morgenlich leuchtend\"",
       "url": "https://open.spotify.com/track/001eyxfoYptAWzvF4ewLrR"
+    },
+    {
+      "added_at": "2022-06-28 08:58:25",
+      "album": {
+        "name": "Wagner: Symphonies In E Major & C Major",
+        "url": "https://open.spotify.com/album/5IgdBVEXXfuHleOBxnte8o"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Tokyo Metropolitan Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/7sZ6l5rUEtMpeqNRPtSM38"
+        },
+        {
+          "name": "Hiroshi Wakasugi",
+          "url": "https://open.spotify.com/artist/4d9YDMvrULZ7CQrONKAs5N"
+        }
+      ],
+      "duration_ms": 284600,
+      "name": "Symphony In E Major, WWV 35: II. Adagio Cantabile",
+      "url": "https://open.spotify.com/track/0b0Qj95orjydO2W9MIeWy3"
     },
     {
       "added_at": "2022-06-28 08:58:25",
@@ -480,7 +432,7 @@
       "added_at": "2022-06-28 08:58:25",
       "album": {
         "name": "Wagner, R.: Orchestral Highlights From Operas",
-        "url": "https://open.spotify.com/album/5oMBGw62FJtjdU2fwnyAO9"
+        "url": "https://open.spotify.com/album/4X6uFJUvxxP1RbDmW1oh8T"
       },
       "artists": [
         {
@@ -488,17 +440,17 @@
           "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
         },
         {
-          "name": "Polish National Radio Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/62QURushyB5wug2XPwajwK"
+          "name": "Slovak Philharmonic",
+          "url": "https://open.spotify.com/artist/2rfkmr5WzRN9D9gAfb2ycd"
         },
         {
-          "name": "Johannes Wildner",
-          "url": "https://open.spotify.com/artist/3QEztQUVjL5FGxXuP70mJQ"
+          "name": "Michael Halasz",
+          "url": "https://open.spotify.com/artist/6Dkj1lYjjOCsGB170vlWc6"
         }
       ],
-      "duration_ms": 624653,
-      "name": "Parsifal: Prelude to Act I",
-      "url": "https://open.spotify.com/track/67JXD5szpPe6dGyQMR3tmE"
+      "duration_ms": 740360,
+      "name": "Tannhauser: Venusberg Music",
+      "url": "https://open.spotify.com/track/7dVg4xa3NozZyuBhXkfa94"
     },
     {
       "added_at": "2022-06-28 08:58:25",
@@ -531,30 +483,6 @@
     {
       "added_at": "2022-06-28 08:58:25",
       "album": {
-        "name": "Wagner, R.: Orchestral Highlights From Operas",
-        "url": "https://open.spotify.com/album/4X6uFJUvxxP1RbDmW1oh8T"
-      },
-      "artists": [
-        {
-          "name": "Richard Wagner",
-          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
-        },
-        {
-          "name": "Slovak Philharmonic",
-          "url": "https://open.spotify.com/artist/2rfkmr5WzRN9D9gAfb2ycd"
-        },
-        {
-          "name": "Michael Halasz",
-          "url": "https://open.spotify.com/artist/6Dkj1lYjjOCsGB170vlWc6"
-        }
-      ],
-      "duration_ms": 740360,
-      "name": "Tannhauser: Venusberg Music",
-      "url": "https://open.spotify.com/track/7dVg4xa3NozZyuBhXkfa94"
-    },
-    {
-      "added_at": "2022-06-28 08:58:25",
-      "album": {
         "name": "Wagner: Symphony in C Major, Tristan und Isolde, Siegfried Idyll",
         "url": "https://open.spotify.com/album/6wcBMJ8IJ0r59oRUqcpxsZ"
       },
@@ -575,30 +503,6 @@
       "duration_ms": 846253,
       "name": "Symphony in C Major: II. Andante ma non troppo, un poco maestoso",
       "url": "https://open.spotify.com/track/63LuatqjEm6RW3i469H4W0"
-    },
-    {
-      "added_at": "2022-06-28 08:58:25",
-      "album": {
-        "name": "Wagner, R.: Orchestral Highlights From Operas",
-        "url": "https://open.spotify.com/album/5oMBGw62FJtjdU2fwnyAO9"
-      },
-      "artists": [
-        {
-          "name": "Richard Wagner",
-          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
-        },
-        {
-          "name": "Polish National Radio Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/62QURushyB5wug2XPwajwK"
-        },
-        {
-          "name": "Johannes Wildner",
-          "url": "https://open.spotify.com/artist/3QEztQUVjL5FGxXuP70mJQ"
-        }
-      ],
-      "duration_ms": 583786,
-      "name": "Die Meistersinger von N\u00fcrnberg, WWV 96: Overture",
-      "url": "https://open.spotify.com/track/3D7bf4mpDcyRNpCuzDGPGh"
     },
     {
       "added_at": "2022-06-28 08:58:25",
@@ -879,70 +783,6 @@
     {
       "added_at": "2022-06-28 08:58:25",
       "album": {
-        "name": "Wagner: Die Walk\u00fcre",
-        "url": "https://open.spotify.com/album/13hP609seD6wlWLhKz3qxM"
-      },
-      "artists": [
-        {
-          "name": "Richard Wagner",
-          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
-        },
-        {
-          "name": "Alessandra Marc",
-          "url": "https://open.spotify.com/artist/37YfrOYL3c4sYAo476dRWB"
-        },
-        {
-          "name": "Poul Elming",
-          "url": "https://open.spotify.com/artist/7bHZBuJZGuhcn2YmhMGmoH"
-        },
-        {
-          "name": "Cleveland Orchestra",
-          "url": "https://open.spotify.com/artist/0jJszR81GjA87jeRq0Jgwz"
-        },
-        {
-          "name": "Christoph von Dohn\u00e1nyi",
-          "url": "https://open.spotify.com/artist/00Z7CY1UMeGccawHXlZ6Zd"
-        }
-      ],
-      "duration_ms": 383706,
-      "name": "Die Walk\u00fcre, WWV 86B / Act 1: \"Schl\u00e4fst du, Gast?...Der M\u00e4nner Sippe sa\u00df hier\"",
-      "url": "https://open.spotify.com/track/5BDIQEtnvYf4A2VJvt3TP7"
-    },
-    {
-      "added_at": "2022-06-28 08:58:25",
-      "album": {
-        "name": "Wagner: Siegfried, WWV 86C",
-        "url": "https://open.spotify.com/album/1KWsANADSRtAhadD5UfEA5"
-      },
-      "artists": [
-        {
-          "name": "Richard Wagner",
-          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
-        },
-        {
-          "name": "Simon O'Neill",
-          "url": "https://open.spotify.com/artist/3nOe1h9SyhLnFEB5iYlbxw"
-        },
-        {
-          "name": "Heidi Melton",
-          "url": "https://open.spotify.com/artist/2f0QwltMQafffSUcJIN4bS"
-        },
-        {
-          "name": "Hong Kong Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/2wFEejnAmdHGXYdIX9HN3U"
-        },
-        {
-          "name": "Jaap Van Zweden",
-          "url": "https://open.spotify.com/artist/5UpK57VBAZQ03iTyX5JlXB"
-        }
-      ],
-      "duration_ms": 275520,
-      "name": "Siegfried, WWV 86C, Act III: Ewig war ich, ewig bin ich",
-      "url": "https://open.spotify.com/track/2omc5qLAW5UXDXSAtPhvAj"
-    },
-    {
-      "added_at": "2022-06-28 08:58:25",
-      "album": {
         "name": "Wagner, R.: Tristan Und Isolde",
         "url": "https://open.spotify.com/album/3QFEjUpjMSqxl4XGsQrVUu"
       },
@@ -1004,7 +844,7 @@
       "added_at": "2022-06-28 08:58:25",
       "album": {
         "name": "Wagner: Die Walk\u00fcre",
-        "url": "https://open.spotify.com/album/77X2cJ3JcAAcJi1HKlUwuL"
+        "url": "https://open.spotify.com/album/13hP609seD6wlWLhKz3qxM"
       },
       "artists": [
         {
@@ -1012,17 +852,25 @@
           "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
         },
         {
-          "name": "Hall\u00e9",
-          "url": "https://open.spotify.com/artist/0VzwesVsEMjYDaMrrdukam"
+          "name": "Alessandra Marc",
+          "url": "https://open.spotify.com/artist/37YfrOYL3c4sYAo476dRWB"
         },
         {
-          "name": "Sir Mark Elder",
-          "url": "https://open.spotify.com/artist/5jKPZpM5NojkLVEXxxWZwG"
+          "name": "Poul Elming",
+          "url": "https://open.spotify.com/artist/7bHZBuJZGuhcn2YmhMGmoH"
+        },
+        {
+          "name": "Cleveland Orchestra",
+          "url": "https://open.spotify.com/artist/0jJszR81GjA87jeRq0Jgwz"
+        },
+        {
+          "name": "Christoph von Dohn\u00e1nyi",
+          "url": "https://open.spotify.com/artist/00Z7CY1UMeGccawHXlZ6Zd"
         }
       ],
-      "duration_ms": 200120,
-      "name": "Die Walk\u00fcre: Act II, Scene I, \"Deiner ew\u2019gen Gattin\" (Fricka)",
-      "url": "https://open.spotify.com/track/74BUb8MznOM8EvmdA4GjVM"
+      "duration_ms": 383706,
+      "name": "Die Walk\u00fcre, WWV 86B / Act 1: \"Schl\u00e4fst du, Gast?...Der M\u00e4nner Sippe sa\u00df hier\"",
+      "url": "https://open.spotify.com/track/5BDIQEtnvYf4A2VJvt3TP7"
     },
     {
       "added_at": "2022-06-28 08:58:25",
@@ -1083,6 +931,30 @@
       "duration_ms": 318266,
       "name": "Siegfried, WWV 86C, Act II: Prelude",
       "url": "https://open.spotify.com/track/0Ta5BZyrvDF1IUSSuMDIYR"
+    },
+    {
+      "added_at": "2022-06-28 08:58:25",
+      "album": {
+        "name": "Wagner: Die Walk\u00fcre",
+        "url": "https://open.spotify.com/album/77X2cJ3JcAAcJi1HKlUwuL"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Hall\u00e9",
+          "url": "https://open.spotify.com/artist/0VzwesVsEMjYDaMrrdukam"
+        },
+        {
+          "name": "Sir Mark Elder",
+          "url": "https://open.spotify.com/artist/5jKPZpM5NojkLVEXxxWZwG"
+        }
+      ],
+      "duration_ms": 200120,
+      "name": "Die Walk\u00fcre: Act II, Scene I, \"Deiner ew\u2019gen Gattin\" (Fricka)",
+      "url": "https://open.spotify.com/track/74BUb8MznOM8EvmdA4GjVM"
     },
     {
       "added_at": "2022-06-28 08:58:25",
@@ -1240,30 +1112,6 @@
           "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
         },
         {
-          "name": "Wiener Philharmoniker",
-          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
-        },
-        {
-          "name": "Sir Georg Solti",
-          "url": "https://open.spotify.com/artist/0dicUFoK5LIbqu6OoHu8VH"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Die Walk\u00fcre / Erster Aufzug: Orchestervorspiel",
-      "url": "https://open.spotify.com/track/1YzcrcgR3T2RwAZg5tSvYP"
-    },
-    {
-      "added_at": "2022-06-28 08:58:25",
-      "album": {
-        "name": "Solti - Wagner - The Operas",
-        "url": "https://open.spotify.com/album/0gwWHAzKo3OPiWMnb6HOei"
-      },
-      "artists": [
-        {
-          "name": "Richard Wagner",
-          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
-        },
-        {
           "name": "James King",
           "url": "https://open.spotify.com/artist/5I2cYLH1KGi4ezFJ9X7JTI"
         },
@@ -1283,6 +1131,30 @@
       "duration_ms": 242306,
       "name": "Die Walk\u00fcre / Erster Aufzug: \"Wes Herd dies auch, hier mu\u00df ich rasten\"",
       "url": "https://open.spotify.com/track/4IdGIE4dqgJYisbTek67Nb"
+    },
+    {
+      "added_at": "2022-06-28 08:58:25",
+      "album": {
+        "name": "Wagner Hits",
+        "url": "https://open.spotify.com/album/20DnQOZm8Fg9RlZqsdwlLr"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Philadelphia Orchestra",
+          "url": "https://open.spotify.com/artist/6tdexW8bZTG8NgOFUCYQn1"
+        },
+        {
+          "name": "Wolfgang Sawallisch",
+          "url": "https://open.spotify.com/artist/4VFBTPFWvhecBc2BWYOQkF"
+        }
+      ],
+      "duration_ms": 763226,
+      "name": "Eine Faust-Ouvert\u00fcre, WWV. 59",
+      "url": "https://open.spotify.com/track/2ToS2T6KkOuj0SQN83XwsA"
     },
     {
       "added_at": "2022-06-28 08:58:25",
@@ -1311,30 +1183,6 @@
       "duration_ms": 138840,
       "name": "Die Walk\u00fcre / Dritter Aufzug: \"Leb wohl, du k\u00fchnes, herrliches Kind\"",
       "url": "https://open.spotify.com/track/4L8vnna2HSB5pNTaYTJW7p"
-    },
-    {
-      "added_at": "2022-06-28 08:58:25",
-      "album": {
-        "name": "Wagner Hits",
-        "url": "https://open.spotify.com/album/20DnQOZm8Fg9RlZqsdwlLr"
-      },
-      "artists": [
-        {
-          "name": "Richard Wagner",
-          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
-        },
-        {
-          "name": "Philadelphia Orchestra",
-          "url": "https://open.spotify.com/artist/6tdexW8bZTG8NgOFUCYQn1"
-        },
-        {
-          "name": "Wolfgang Sawallisch",
-          "url": "https://open.spotify.com/artist/4VFBTPFWvhecBc2BWYOQkF"
-        }
-      ],
-      "duration_ms": 763226,
-      "name": "Eine Faust-Ouvert\u00fcre, WWV. 59",
-      "url": "https://open.spotify.com/track/2ToS2T6KkOuj0SQN83XwsA"
     },
     {
       "added_at": "2022-06-28 08:58:25",
@@ -1547,8 +1395,8 @@
     {
       "added_at": "2022-06-28 08:58:25",
       "album": {
-        "name": "Paradisum: Serene Sacred Songs",
-        "url": "https://open.spotify.com/album/69sEf3Ds3ak5x894gIUB4G"
+        "name": "Bleeding Chunks of Wagner",
+        "url": "https://open.spotify.com/album/6TUiuucpGRoiMrMTkgDJfg"
       },
       "artists": [
         {
@@ -1556,27 +1404,23 @@
           "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
         },
         {
-          "name": "Jonas Kaufmann",
-          "url": "https://open.spotify.com/artist/2OHnFY58Dg8c2SC2PtootB"
+          "name": "Polish National Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/62QURushyB5wug2XPwajwK"
         },
         {
-          "name": "Orchester der Deutschen Oper Berlin",
-          "url": "https://open.spotify.com/artist/4UH0f8KeI9GR9H403vxsNO"
-        },
-        {
-          "name": "Donald Runnicles",
-          "url": "https://open.spotify.com/artist/3mcoDPxS0qsZgKYkNP7wua"
+          "name": "Johannes Wildner",
+          "url": "https://open.spotify.com/artist/3QEztQUVjL5FGxXuP70mJQ"
         }
       ],
-      "duration_ms": 194422,
-      "name": "Wesendonck Lieder, WWV 91: Der Engel",
-      "url": "https://open.spotify.com/track/4reLCV56kOvWr50trFciw5"
+      "duration_ms": 591333,
+      "name": "Die Meistersinger von Nurnberg: Overture",
+      "url": "https://open.spotify.com/track/5wt3pU3sjcoEGj6yBDYinX"
     },
     {
       "added_at": "2022-06-28 08:58:25",
       "album": {
-        "name": "Wagner: Der Ring des Nibelungen (Highlights)",
-        "url": "https://open.spotify.com/album/3D7CsCuEbvwgISClUClciV"
+        "name": "Opera Without Words - The Most Famous Overtures, Preludes, and Interludes in Opera",
+        "url": "https://open.spotify.com/album/0x8s9QFGcYYO9oedbK5eGT"
       },
       "artists": [
         {
@@ -1584,97 +1428,17 @@
           "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
         },
         {
-          "name": "Hong Kong Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/2wFEejnAmdHGXYdIX9HN3U"
+          "name": "Slovak Philharmonic",
+          "url": "https://open.spotify.com/artist/2rfkmr5WzRN9D9gAfb2ycd"
         },
         {
-          "name": "Jaap Van Zweden",
-          "url": "https://open.spotify.com/artist/5UpK57VBAZQ03iTyX5JlXB"
+          "name": "Michael Halasz",
+          "url": "https://open.spotify.com/artist/6Dkj1lYjjOCsGB170vlWc6"
         }
       ],
-      "duration_ms": 245280,
-      "name": "Siegfried, WWV 86C, Act I (Highlights): Prelude",
-      "url": "https://open.spotify.com/track/4wXKuNVK8p3aaRyGdeRvCa"
-    },
-    {
-      "added_at": "2022-06-28 08:58:25",
-      "album": {
-        "name": "Wagner: Der Ring des Nibelungen (Highlights)",
-        "url": "https://open.spotify.com/album/3D7CsCuEbvwgISClUClciV"
-      },
-      "artists": [
-        {
-          "name": "Richard Wagner",
-          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
-        },
-        {
-          "name": "Hong Kong Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/2wFEejnAmdHGXYdIX9HN3U"
-        },
-        {
-          "name": "Jaap Van Zweden",
-          "url": "https://open.spotify.com/artist/5UpK57VBAZQ03iTyX5JlXB"
-        }
-      ],
-      "duration_ms": 311946,
-      "name": "G\u00f6tterd\u00e4mmerung, WWV 86D, Prologue (Highlights): Siegfrieds Rheinfahrt",
-      "url": "https://open.spotify.com/track/6zOP8cwJRukiS71ziRtq0n"
-    },
-    {
-      "added_at": "2022-06-28 08:58:25",
-      "album": {
-        "name": "Wagner: Der Ring des Nibelungen",
-        "url": "https://open.spotify.com/album/4IwO6GAWg4hCyAhKMaADJd"
-      },
-      "artists": [
-        {
-          "name": "Richard Wagner",
-          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
-        },
-        {
-          "name": "Simon O'Neill",
-          "url": "https://open.spotify.com/artist/3nOe1h9SyhLnFEB5iYlbxw"
-        },
-        {
-          "name": "Heidi Melton",
-          "url": "https://open.spotify.com/artist/2f0QwltMQafffSUcJIN4bS"
-        },
-        {
-          "name": "Hong Kong Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/2wFEejnAmdHGXYdIX9HN3U"
-        },
-        {
-          "name": "Jaap Van Zweden",
-          "url": "https://open.spotify.com/artist/5UpK57VBAZQ03iTyX5JlXB"
-        }
-      ],
-      "duration_ms": 406773,
-      "name": "Siegfried, WWV 86C, Act III: Siegfried! Siegfried! Seliger Held!",
-      "url": "https://open.spotify.com/track/6KrGuho2sW76LhS3XVfwYH"
-    },
-    {
-      "added_at": "2022-06-28 08:58:25",
-      "album": {
-        "name": "Wagner: Der Ring des Nibelungen",
-        "url": "https://open.spotify.com/album/4IwO6GAWg4hCyAhKMaADJd"
-      },
-      "artists": [
-        {
-          "name": "Richard Wagner",
-          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
-        },
-        {
-          "name": "Hong Kong Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/2wFEejnAmdHGXYdIX9HN3U"
-        },
-        {
-          "name": "Jaap Van Zweden",
-          "url": "https://open.spotify.com/artist/5UpK57VBAZQ03iTyX5JlXB"
-        }
-      ],
-      "duration_ms": 167560,
-      "name": "G\u00f6tterd\u00e4mmerung, WWV 86D, Act III: Vorspiel",
-      "url": "https://open.spotify.com/track/5ZJq13cVij8PW3cVAdmYEh"
+      "duration_ms": 151666,
+      "name": "Lohengrin, Act III: Prelude",
+      "url": "https://open.spotify.com/track/3ZLJpM4VGhzo7OGzsRaBUk"
     },
     {
       "added_at": "2022-06-28 08:58:25",
@@ -1731,30 +1495,6 @@
     {
       "added_at": "2022-06-28 08:58:25",
       "album": {
-        "name": "Mythos Wagner",
-        "url": "https://open.spotify.com/album/1YKreaUwK2QFFy0AOHjdVh"
-      },
-      "artists": [
-        {
-          "name": "Richard Wagner",
-          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
-        },
-        {
-          "name": "Slovak Philharmonic",
-          "url": "https://open.spotify.com/artist/2rfkmr5WzRN9D9gAfb2ycd"
-        },
-        {
-          "name": "Michael Halasz",
-          "url": "https://open.spotify.com/artist/6Dkj1lYjjOCsGB170vlWc6"
-        }
-      ],
-      "duration_ms": 441000,
-      "name": "Tannh\u00e4user: Introduction to Act III: Tannhauser's Pilgrimage",
-      "url": "https://open.spotify.com/track/0QwuEPrRNU1HTPlqk7MDsj"
-    },
-    {
-      "added_at": "2022-06-28 08:58:25",
-      "album": {
         "name": "Cinema Classics, Vol. 8",
         "url": "https://open.spotify.com/album/5GQJ8FvKcKh2BRzLtMufcc"
       },
@@ -1775,6 +1515,278 @@
       "duration_ms": 598000,
       "name": "Tannhauser: Overture (Meeting Venus)",
       "url": "https://open.spotify.com/track/3McHBjyXdpL1gOsihlSDq8"
+    },
+    {
+      "added_at": "2022-06-28 08:58:25",
+      "album": {
+        "name": "Mythos Wagner",
+        "url": "https://open.spotify.com/album/1YKreaUwK2QFFy0AOHjdVh"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Polish National Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/62QURushyB5wug2XPwajwK"
+        },
+        {
+          "name": "Johannes Wildner",
+          "url": "https://open.spotify.com/artist/3QEztQUVjL5FGxXuP70mJQ"
+        }
+      ],
+      "duration_ms": 624653,
+      "name": "Parsifal, Act I: Prelude",
+      "url": "https://open.spotify.com/track/2AMGe97iXYBPzbmXoHU1wm"
+    },
+    {
+      "added_at": "2022-06-28 08:58:25",
+      "album": {
+        "name": "Wagner: Der Ring des Nibelungen (Highlights)",
+        "url": "https://open.spotify.com/album/3D7CsCuEbvwgISClUClciV"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Hong Kong Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2wFEejnAmdHGXYdIX9HN3U"
+        },
+        {
+          "name": "Jaap Van Zweden",
+          "url": "https://open.spotify.com/artist/5UpK57VBAZQ03iTyX5JlXB"
+        }
+      ],
+      "duration_ms": 311946,
+      "name": "G\u00f6tterd\u00e4mmerung, WWV 86D, Prologue (Highlights): Siegfrieds Rheinfahrt",
+      "url": "https://open.spotify.com/track/6zOP8cwJRukiS71ziRtq0n"
+    },
+    {
+      "added_at": "2022-06-28 08:58:25",
+      "album": {
+        "name": "Wagner: Der Ring des Nibelungen (Highlights)",
+        "url": "https://open.spotify.com/album/3D7CsCuEbvwgISClUClciV"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Hong Kong Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2wFEejnAmdHGXYdIX9HN3U"
+        },
+        {
+          "name": "Jaap Van Zweden",
+          "url": "https://open.spotify.com/artist/5UpK57VBAZQ03iTyX5JlXB"
+        }
+      ],
+      "duration_ms": 245280,
+      "name": "Siegfried, WWV 86C, Act I (Highlights): Prelude",
+      "url": "https://open.spotify.com/track/4wXKuNVK8p3aaRyGdeRvCa"
+    },
+    {
+      "added_at": "2022-06-28 08:58:25",
+      "album": {
+        "name": "Paradisum: Serene Sacred Songs",
+        "url": "https://open.spotify.com/album/69sEf3Ds3ak5x894gIUB4G"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Jonas Kaufmann",
+          "url": "https://open.spotify.com/artist/2OHnFY58Dg8c2SC2PtootB"
+        },
+        {
+          "name": "Orchester der Deutschen Oper Berlin",
+          "url": "https://open.spotify.com/artist/4UH0f8KeI9GR9H403vxsNO"
+        },
+        {
+          "name": "Donald Runnicles",
+          "url": "https://open.spotify.com/artist/3mcoDPxS0qsZgKYkNP7wua"
+        }
+      ],
+      "duration_ms": 194422,
+      "name": "Wesendonck Lieder, WWV 91: Der Engel",
+      "url": "https://open.spotify.com/track/4reLCV56kOvWr50trFciw5"
+    },
+    {
+      "added_at": "2022-06-28 08:58:25",
+      "album": {
+        "name": "Wagner: Der Ring des Nibelungen",
+        "url": "https://open.spotify.com/album/4IwO6GAWg4hCyAhKMaADJd"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Hong Kong Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2wFEejnAmdHGXYdIX9HN3U"
+        },
+        {
+          "name": "Jaap Van Zweden",
+          "url": "https://open.spotify.com/artist/5UpK57VBAZQ03iTyX5JlXB"
+        }
+      ],
+      "duration_ms": 167560,
+      "name": "G\u00f6tterd\u00e4mmerung, WWV 86D, Act III: Vorspiel",
+      "url": "https://open.spotify.com/track/5ZJq13cVij8PW3cVAdmYEh"
+    },
+    {
+      "added_at": "2022-06-28 08:58:25",
+      "album": {
+        "name": "Wagner: Der Ring des Nibelungen",
+        "url": "https://open.spotify.com/album/4IwO6GAWg4hCyAhKMaADJd"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Simon O'Neill",
+          "url": "https://open.spotify.com/artist/3nOe1h9SyhLnFEB5iYlbxw"
+        },
+        {
+          "name": "Heidi Melton",
+          "url": "https://open.spotify.com/artist/2f0QwltMQafffSUcJIN4bS"
+        },
+        {
+          "name": "Hong Kong Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2wFEejnAmdHGXYdIX9HN3U"
+        },
+        {
+          "name": "Jaap Van Zweden",
+          "url": "https://open.spotify.com/artist/5UpK57VBAZQ03iTyX5JlXB"
+        }
+      ],
+      "duration_ms": 406773,
+      "name": "Siegfried, WWV 86C, Act III: Siegfried! Siegfried! Seliger Held!",
+      "url": "https://open.spotify.com/track/6KrGuho2sW76LhS3XVfwYH"
+    },
+    {
+      "added_at": "2022-06-28 08:58:25",
+      "album": {
+        "name": "Halloween Music: Classical",
+        "url": "https://open.spotify.com/album/3D1BapxJ40hDYuNxJVoFtt"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Sir Georg Solti",
+          "url": "https://open.spotify.com/artist/0dicUFoK5LIbqu6OoHu8VH"
+        }
+      ],
+      "duration_ms": 195753,
+      "name": "Die Walk\u00fcre, WWV 86B / Act 1: Orchestervorspiel - Remastered 2012",
+      "url": "https://open.spotify.com/track/5Kt0aFaqtL3knTdGTHhbIB"
+    },
+    {
+      "added_at": "2022-06-28 08:58:25",
+      "album": {
+        "name": "Wagner: Der Ring des Nibelungen",
+        "url": "https://open.spotify.com/album/4IwO6GAWg4hCyAhKMaADJd"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Simon O'Neill",
+          "url": "https://open.spotify.com/artist/3nOe1h9SyhLnFEB5iYlbxw"
+        },
+        {
+          "name": "Heidi Melton",
+          "url": "https://open.spotify.com/artist/2f0QwltMQafffSUcJIN4bS"
+        },
+        {
+          "name": "Hong Kong Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2wFEejnAmdHGXYdIX9HN3U"
+        },
+        {
+          "name": "Jaap Van Zweden",
+          "url": "https://open.spotify.com/artist/5UpK57VBAZQ03iTyX5JlXB"
+        }
+      ],
+      "duration_ms": 275520,
+      "name": "Siegfried, WWV 86C, Act III: Ewig war ich, ewig bin ich",
+      "url": "https://open.spotify.com/track/018wMBXRFvhshjUVu4QPzf"
+    },
+    {
+      "added_at": "2022-06-28 08:58:25",
+      "album": {
+        "name": "A Guided Tour of Nationalism in the Romantic Era, Vol. 2",
+        "url": "https://open.spotify.com/album/5ejcyXU3dfa4C7Zln5KDoU"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Lennart Forsen",
+          "url": "https://open.spotify.com/artist/4MLvx3XdOAClnB10RCkbal"
+        },
+        {
+          "name": "John Erik Eleby",
+          "url": "https://open.spotify.com/artist/62mIkPoDm4QBEMTwUr6ZS1"
+        },
+        {
+          "name": "Royal Swedish Opera Chorus",
+          "url": "https://open.spotify.com/artist/3bqjTvyPZcMSuXkdzBghDU"
+        },
+        {
+          "name": "Royal Swedish Orchestra",
+          "url": "https://open.spotify.com/artist/7ksb5dj1dy1o8DuZiNB9ZI"
+        },
+        {
+          "name": "Leif Segerstam",
+          "url": "https://open.spotify.com/artist/1AZTVGOm7t5zkOcweZBivz"
+        }
+      ],
+      "duration_ms": 1430120,
+      "name": "Parsifal, Act I: The Journey to Montsalvat (The Castle of the Guardians of the Grail)",
+      "url": "https://open.spotify.com/track/0eHmaWLSR7xGVGmZFqyArm"
+    },
+    {
+      "added_at": "2022-06-28 08:58:25",
+      "album": {
+        "name": "Mythos Wagner",
+        "url": "https://open.spotify.com/album/1YKreaUwK2QFFy0AOHjdVh"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Slovak Philharmonic",
+          "url": "https://open.spotify.com/artist/2rfkmr5WzRN9D9gAfb2ycd"
+        },
+        {
+          "name": "Michael Halasz",
+          "url": "https://open.spotify.com/artist/6Dkj1lYjjOCsGB170vlWc6"
+        }
+      ],
+      "duration_ms": 441000,
+      "name": "Tannh\u00e4user: Introduction to Act III: Tannhauser's Pilgrimage",
+      "url": "https://open.spotify.com/track/0QwuEPrRNU1HTPlqk7MDsj"
     },
     {
       "added_at": "2022-06-28 08:58:25",
@@ -1835,8 +1847,8 @@
     {
       "added_at": "2022-06-28 08:58:25",
       "album": {
-        "name": "A Guided Tour of Nationalism in the Romantic Era, Vol. 2",
-        "url": "https://open.spotify.com/album/5ejcyXU3dfa4C7Zln5KDoU"
+        "name": "Mythos Wagner",
+        "url": "https://open.spotify.com/album/1YKreaUwK2QFFy0AOHjdVh"
       },
       "artists": [
         {
@@ -1844,29 +1856,17 @@
           "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
         },
         {
-          "name": "Lennart Forsen",
-          "url": "https://open.spotify.com/artist/4MLvx3XdOAClnB10RCkbal"
+          "name": "Slovak Philharmonic",
+          "url": "https://open.spotify.com/artist/2rfkmr5WzRN9D9gAfb2ycd"
         },
         {
-          "name": "John Erik Eleby",
-          "url": "https://open.spotify.com/artist/62mIkPoDm4QBEMTwUr6ZS1"
-        },
-        {
-          "name": "Royal Swedish Opera Chorus",
-          "url": "https://open.spotify.com/artist/3bqjTvyPZcMSuXkdzBghDU"
-        },
-        {
-          "name": "Royal Swedish Orchestra",
-          "url": "https://open.spotify.com/artist/7ksb5dj1dy1o8DuZiNB9ZI"
-        },
-        {
-          "name": "Leif Segerstam",
-          "url": "https://open.spotify.com/artist/1AZTVGOm7t5zkOcweZBivz"
+          "name": "Michael Halasz",
+          "url": "https://open.spotify.com/artist/6Dkj1lYjjOCsGB170vlWc6"
         }
       ],
-      "duration_ms": 1430120,
-      "name": "Parsifal, Act I: The Journey to Montsalvat (The Castle of the Guardians of the Grail)",
-      "url": "https://open.spotify.com/track/0eHmaWLSR7xGVGmZFqyArm"
+      "duration_ms": 428040,
+      "name": "Tannh\u00e4user: Act II: Entrance of the Guests",
+      "url": "https://open.spotify.com/track/56UZ6iln1pR4rIw8JfbrSc"
     }
   ],
   "unique_name": "This Is Wagner",

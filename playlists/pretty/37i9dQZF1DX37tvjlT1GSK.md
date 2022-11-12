@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37tvjlT1GSK.md) - [plain]
 
 > Románticas, rancheras y bravías, las mejores canciones sierreñas\. Jose Manuel en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 704,871 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 704,977 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37tvjlT1GSK.md) - [plain]
 | 20 | [Soy El Unico](https://open.spotify.com/track/4pKhxDtzoLPVy4GzW1ibAz) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Obsessed \(Deluxe\)](https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq) | 3:33 |
 | 21 | [Se Amerita](https://open.spotify.com/track/3pQYf90V5idOGrXzosm9rt) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Cruisin' with Junior H](https://open.spotify.com/album/0HANqWtJABVpAWVrQzE2XM) | 3:55 |
 | 22 | [Brillo](https://open.spotify.com/track/5gS11pL9yQcnKrzbmliOwh) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [NataKong](https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L) | 2:34 |
-| 23 | [El Amor De Tu Vida](https://open.spotify.com/track/5HpXH64cSBNu26yhw3vK37) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Conjunto Primavera](https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb) | [El Amor De Tu Vida](https://open.spotify.com/album/0TkiwzRoKzV332NLyvnKjJ) | 2:43 |
-| 24 | [Amor Fugaz](https://open.spotify.com/track/4O2bxKTnK9En7OPw8kGDDF) | [Los Del Limit](https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw) | [The Life in Your Eyes](https://open.spotify.com/album/7hnH4pDgMDP4veSuZ7Uxlz) | 2:55 |
+| 23 | [Amor Fugaz](https://open.spotify.com/track/4O2bxKTnK9En7OPw8kGDDF) | [Los Del Limit](https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw) | [The Life in Your Eyes](https://open.spotify.com/album/7hnH4pDgMDP4veSuZ7Uxlz) | 2:55 |
+| 24 | [El Amor De Tu Vida](https://open.spotify.com/track/5HpXH64cSBNu26yhw3vK37) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Conjunto Primavera](https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb) | [El Amor De Tu Vida](https://open.spotify.com/album/0TkiwzRoKzV332NLyvnKjJ) | 2:43 |
 | 25 | [Ya acabó \- Con Becky G](https://open.spotify.com/track/0OPiOIAyw2FUjKm8PXBGhq) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Ya acabó \(Con Becky G\)](https://open.spotify.com/album/6XZejfd76Y8JU23nnaVDTc) | 2:56 |
 | 26 | [Cuando Tú Me Miras](https://open.spotify.com/track/5kItv0UayV5g4Xs9FMshDR) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Tu Veneno Mortal, Vol\. 2](https://open.spotify.com/album/3SF8e5ewF7PaqWw6rPnfEg) | 2:35 |
 | 27 | [Si Me Ven](https://open.spotify.com/track/5SkLd0qWWqYtv3Ry0dIyIh) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Si Me Ven](https://open.spotify.com/album/5Z16tpUTnDDwejC6Dvad5r) | 2:54 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37tvjlT1GSK.md) - [plain]
 | 29 | [Cuando Te Acuerdes De Mi \(En Vivo\)](https://open.spotify.com/track/1pQrVutT9kzgLavLMUFubD) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Julián Mercado](https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ) | [Cuando Te Acuerdes De Mi \(En Vivo\)](https://open.spotify.com/album/3c985F15MGQkPkUlCBPj79) | 3:07 |
 | 30 | [Y Si Se Quiere Ir](https://open.spotify.com/track/2qWX4mvuOfCvGgHAV1sWQO) | [Hijos De Barron](https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe) | [Y Si Se Quiere Ir](https://open.spotify.com/album/6o7M6eInloIKefh7YsXEJR) | 3:19 |
 | 31 | [Como Jordan](https://open.spotify.com/track/2q7DY7bBua9e9Aygmz8XmB) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Mi Vida En Un Cigarro 2](https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb) | 3:45 |
-| 32 | [Tú Me Gustas](https://open.spotify.com/track/30TZy1etY3FAGBDGS58hRj) | [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Tú Me Gustas](https://open.spotify.com/album/7tUvz3LUmXYRCZX8lUPTrC) | 3:26 |
-| 33 | [Esta Noche](https://open.spotify.com/track/2sVM0on2db42X3aH5hrx7o) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Obsessed \(Deluxe\)](https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq) | 3:09 |
+| 32 | [Esta Noche](https://open.spotify.com/track/2sVM0on2db42X3aH5hrx7o) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Obsessed \(Deluxe\)](https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq) | 3:09 |
+| 33 | [Tú Me Gustas](https://open.spotify.com/track/30TZy1etY3FAGBDGS58hRj) | [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Tú Me Gustas](https://open.spotify.com/album/7tUvz3LUmXYRCZX8lUPTrC) | 3:26 |
 | 34 | [Perfecta](https://open.spotify.com/track/2bUDsZdvWZyIYFWluUzFe6) | [Alameños de la Sierra](https://open.spotify.com/artist/4C9L4xjlVFB6lsA9v3EfUh) | [Las Pacas](https://open.spotify.com/album/4yMC2UNgGrcWdnMpdQ6noX) | 4:41 |
 | 35 | [La Plebada del 09](https://open.spotify.com/track/1dafTXbbbK0wSsji6VbPJJ) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [La Catafixia](https://open.spotify.com/album/4nbbbprIlA9GDUDqlc59CH) | 2:33 |
 | 36 | [Te Apuesto \- En vivo](https://open.spotify.com/track/7wnO6pBzcWWT8zT4vFx7hM) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [En Vivo EP, Vol\. 1 \(En vivo\)](https://open.spotify.com/album/6ewLeV1GpI2Jg1vMXqXBIN) | 3:48 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37tvjlT1GSK.md) - [plain]
 | 50 | [Pa Que Te Duela](https://open.spotify.com/track/4XkSLgoFq8SGNR4XSFXfyc) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Mi Vida En Un Cigarro 2](https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb) | 3:53 |
 | 51 | [Mía Un Año](https://open.spotify.com/track/0q2CjjP0hoopNMz2924hey) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Mía Un Año](https://open.spotify.com/album/2wBBAPcIsgXx9fsXygNmVT) | 2:54 |
 | 52 | [Triste](https://open.spotify.com/track/3KBPBsKy6quP8PvTo81D5W) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV), [Polo Gonzalez](https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6) | [Triste](https://open.spotify.com/album/2CJGDHYWZziHsTzuFZL0W8) | 2:46 |
-| 53 | [El Chaman](https://open.spotify.com/track/0RstZCli3DcyY1LJq38P4b) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [El Chaman](https://open.spotify.com/album/7v4rU4KEpLAyPG7aGHVYNA) | 2:54 |
-| 54 | [Dejalo Ir](https://open.spotify.com/track/0IWbhl9q9HISium2adh6h2) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Obsessed \(Deluxe\)](https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq) | 2:57 |
+| 53 | [Dejalo Ir](https://open.spotify.com/track/0IWbhl9q9HISium2adh6h2) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Obsessed \(Deluxe\)](https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq) | 2:57 |
+| 54 | [El Chaman](https://open.spotify.com/track/0RstZCli3DcyY1LJq38P4b) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [El Chaman](https://open.spotify.com/album/7v4rU4KEpLAyPG7aGHVYNA) | 2:54 |
 | 55 | [Ya Te Supere \- En Vivo](https://open.spotify.com/track/788e0doWXCkDlnufoDndcy) | [Los Parras](https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp) | [Peda en la Banqueta](https://open.spotify.com/album/1qOSDizKu1dmLl73BF6VdS) | 3:05 |
 | 56 | [Yo Te Necesito \- En vivo](https://open.spotify.com/track/6Yjh5hEKRWoQRM3ltyBOIt) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Las Preferidas, Vol\. 2 \(En vivo\)](https://open.spotify.com/album/7drHvS63o9Crp4k85GNo9D) | 3:08 |
 | 57 | [Vete](https://open.spotify.com/track/0PphCpk9pbs0KDiEGJ2UwQ) | [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [Unas Mías y Otras Prestadas](https://open.spotify.com/album/2QxaFVBRBiPeA6K3tBk7tk) | 3:38 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37tvjlT1GSK.md) - [plain]
 | 99 | [Bla Bla Bla](https://open.spotify.com/track/2Fa31aSs31jeYTK2P85ZkL) | [Polo Gonzalez](https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6), [Los Chavalos De La Perla](https://open.spotify.com/artist/5w2CwSVYz9o6NUY4RgpCCO) | [Bla Bla Bla](https://open.spotify.com/album/3MUTf7mGalEj8B10tFFDY5) | 2:16 |
 | 100 | [Así Soy Yo](https://open.spotify.com/track/1Nm7M7ZUO0HW63oF7HfTQv) | [Jose Manuel](https://open.spotify.com/artist/1rXOb9uSnt1qvPF44FTplr) | [Así Soy Yo](https://open.spotify.com/album/179OE8qVRwDBrc5WZheE2W) | 2:54 |
 
-Snapshot ID: `MTY2NzUwMzg1OCwwMDAwMDAwMDYxNjRiYjZlMjc4ZWVmMmJhZjhhYjZlM2JjNTQyOWU0`
+Snapshot ID: `MTY2NzUwMzg1OCwwMDAwMDAwMDNlMzU3MzdlY2M2ZDUzNmM0Y2RiMmYwNjM4NWFjNmRh`

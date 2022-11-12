@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhxU4AiByxO.md) - [plain]
 
 > Enjoy some kid\-friendly pop tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 441,604 likes - 175 songs - 8 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 441,630 likes - 175 songs - 8 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhxU4AiByxO.md) - [plain]
 | 78 | [Born to Be Brave \- From "High School Musical: The Musical: The Series"](https://open.spotify.com/track/68Q2XfjYwOTdIlLhnfeXib) | [Cast of High School Musical: The Musical: The Series](https://open.spotify.com/artist/1YWJ1WjMkBCB1X3QOJ1Wdn), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Born to Be Brave \(From "High School Musical: The Musical: The Series"\)](https://open.spotify.com/album/0HUaQANiPs6GN9qMRH9aMy) | 3:09 |
 | 79 | [U\-N\-I](https://open.spotify.com/track/4k3i2Qmo8vfhiQwkUszK0K) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [The J Team \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7API0ZipF82Jy6kKwLVGUB) | 2:27 |
 | 80 | [10,000 Hours](https://open.spotify.com/track/78DrMIudWWGuMD7jQHvEqm) | [Mini Pop Kids](https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93) | [Mini Pop Kids 18](https://open.spotify.com/album/02qZqGTGf9c9AIToJ2lRaO) | 2:47 |
-| 81 | [Happy \- From "Despicable Me 2"](https://open.spotify.com/track/60nZcImufyMA1MKQY3dcCH) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [G I R L](https://open.spotify.com/album/0lrmy4pJINsFzycJvttX2W) | 3:52 |
+| 81 | [Happy \- From "Despicable Me 2"](https://open.spotify.com/track/5H1ur8DKF9iTilrVlEdo0w) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [NOW That's What I Call Music!, Vol\. 60 \(Deluxe Edition\)](https://open.spotify.com/album/74BVAeJgcJjomcDq9HKii7) | 3:50 |
 | 82 | [Panini](https://open.spotify.com/track/7LZXuhXXN03F1ndyQOzAZt) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Panini](https://open.spotify.com/album/5wMUxEAX1APPs9PKKwMlhf) | 1:57 |
 | 83 | [I Love Me](https://open.spotify.com/track/6Rc4uKmM2F7kduAxGz33IZ) | [Mini Pop Kids](https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93) | [Mini Pop Kids 18](https://open.spotify.com/album/02qZqGTGf9c9AIToJ2lRaO) | 3:22 |
 | 84 | [How Do You Sleep?](https://open.spotify.com/track/2mqrs0rKVfldonic7ypVWh) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 40](https://open.spotify.com/album/16QkUgvO36X6REmJZgecVJ) | 3:12 |
@@ -121,9 +121,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhxU4AiByxO.md) - [plain]
 | 111 | [Uptown Funk](https://open.spotify.com/track/5FywMibvFZieLXVjA254Fl) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kids Pizza Party](https://open.spotify.com/album/1JURFzgvvufe07o8XiJOW1) | 3:45 |
 | 112 | [Worldwide Party](https://open.spotify.com/track/554PU8Cg8dhsoLwZZirqKx) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [Celebrate](https://open.spotify.com/album/2zoLtD8CJX2IoXj6fen83X) | 2:58 |
 | 113 | [Havana](https://open.spotify.com/track/7dwiNsnIY3xOrE0k4kVDEl) | [Mini Pop Kids](https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93) | [Mini Pop Kids 15](https://open.spotify.com/album/18maOqDk7WqDrp28Kbshdw) | 3:35 |
-| 114 | [ME!](https://open.spotify.com/track/6BMeRg8jpvLqxGiWBX8igP) | [Mini Pop Kids](https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93) | [Mini Pop Kids 17](https://open.spotify.com/album/4RucFi1MogLkft52GQPS0S) | 3:08 |
+| 114 | [ME!](https://open.spotify.com/track/1XEaQ2dwS1oNMig8slVj1e) | [Mini Pop Kids](https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93) | [ME!](https://open.spotify.com/album/2AuMKZ6T5ejyWmyggLU3OP) | 3:08 |
 | 115 | [Carry On \(from the Original Motion Picture "POKÉMON Detective Pikachu"\)](https://open.spotify.com/track/3y3brCCecHC3Db18aIOnny) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Carry On \(from the Original Motion Picture "POKÉMON Detective Pikachu"\)](https://open.spotify.com/album/1Z7WbPmn7QFoJ2DrNfEehz) | 3:35 |
-| 116 | [Best Day Of My Life](https://open.spotify.com/track/31YcvdreTHVPj4ECP8cbrO) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop 26](https://open.spotify.com/album/6AsZVhKAx8srkIJugNmYOj) | 3:14 |
+| 116 | [Best Day Of My Life](https://open.spotify.com/track/3fuLLwM6Gyh77n0c9ZB58d) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Father's Day for Kids](https://open.spotify.com/album/5L1QhVhBKvD6Cf2aAR55Fb) | 3:15 |
 | 117 | [I Don't Care](https://open.spotify.com/track/1DVdHvrk06tW5tbsJCkVFU) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [I Don't Care](https://open.spotify.com/album/253LQdnZTDd0HddPoREscR) | 3:41 |
 | 118 | [Rise](https://open.spotify.com/track/44blRNiipXlYR5O2eK9hzS) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP World Tour](https://open.spotify.com/album/4JdOUhTxfRmyspRyQntSnD) | 3:12 |
 | 119 | [We Go Together](https://open.spotify.com/track/46wRVsmiyO8ephW0wbKtjZ) | [The Sausage Factory Singers](https://open.spotify.com/artist/6V6io3ApRj18jjB2SORQsr) | [The Secret Life of Pets \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ayJFbJkkZtMkPbden2vh4) | 1:24 |
@@ -141,7 +141,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhxU4AiByxO.md) - [plain]
 | 131 | [Sunflower](https://open.spotify.com/track/6Mh1JHzFXhO2j6FDFrTkJ0) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Sunflower](https://open.spotify.com/album/7xeLaqRjeRvZtrsXPY3tob) | 2:42 |
 | 132 | [How Far I'll Go \- Alessia Cara Version](https://open.spotify.com/track/1ehPJRt49h6N0LoryqKZXq) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Moana \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs) | 2:55 |
 | 133 | [Cheap Thrills](https://open.spotify.com/track/3kkDXlv51gNznWohladVfv) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Ultimate Playlist](https://open.spotify.com/album/0ujUpcRjoMRt06Rx1kOGuu) | 3:07 |
-| 134 | [Sorry](https://open.spotify.com/track/1dv3nDyEFjfdfWyfmBTzXl) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 31](https://open.spotify.com/album/5wZgeat7Y8E8dQP1F6hz42) | 3:02 |
+| 134 | [Sorry](https://open.spotify.com/track/3YvAZjrAq9KhJNU6HZGh5a) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Back to School 2022 \- Pop Edition](https://open.spotify.com/album/3PoExk3BVT9y7wC6KavCe3) | 3:02 |
 | 135 | [It’s Gonna Be A Lovely Day \(The Secret Life Of Pets 2\)](https://open.spotify.com/track/4xsA7WwjehjdZHc1tgG7z0) | [LunchMoney Lewis](https://open.spotify.com/artist/2iUbk5KhZYZt4CRvWbwb7S), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [The Secret Life Of Pets 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6v3cV4buefnvRAVq3WzAIE) | 3:51 |
 | 136 | [Here With Me](https://open.spotify.com/track/5gY5Tixu6wV6V1EJIQ3zNI) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [I Don't Care](https://open.spotify.com/album/253LQdnZTDd0HddPoREscR) | 2:37 |
 | 137 | [Broken & Beautiful](https://open.spotify.com/track/1Y9cAYTmyWJCcmfqdG2I29) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Broken & Beautiful](https://open.spotify.com/album/5UHs9Jq0Vy5E3eUdkgcZvj) | 3:38 |
@@ -171,7 +171,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhxU4AiByxO.md) - [plain]
 | 161 | [Walk Me Home](https://open.spotify.com/track/3HPRqipXPgSKMYfwNnN5GR) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Walk Me Home](https://open.spotify.com/album/6mxOggBSVCOeazrjdKoGHm) | 2:58 |
 | 162 | [Thank U, Next](https://open.spotify.com/track/40kdi1ZHChaIkQOXHp3CxB) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Thank U, Next](https://open.spotify.com/album/5jg9380FKFqI7iexIOEYbv) | 3:22 |
 | 163 | [Youngblood](https://open.spotify.com/track/0PVG6vvNCbKwifLXJ7zlBz) | [Mini Pop Kids](https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93) | [Mini Pop Kids 16](https://open.spotify.com/album/2Of9F4htVY5MPY8KWs96E9) | 3:23 |
-| 164 | [The Middle](https://open.spotify.com/track/3TWjPrKJkBqLwbS5Wr43F8) | [Mini Pop Kids](https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93) | [Mini Pop Kids 16](https://open.spotify.com/album/2Of9F4htVY5MPY8KWs96E9) | 3:03 |
+| 164 | [The Middle](https://open.spotify.com/track/0D7Ue5dPgw03UihKlDvE3Z) | [Mini Pop Kids](https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93) | [The Middle / Meant to Be](https://open.spotify.com/album/6tjM5K9vhhNFfCkEjedGGf) | 3:03 |
 | 165 | [Giant](https://open.spotify.com/track/0WrDu71kTgPv9iBJrGWWjP) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Giant](https://open.spotify.com/album/4CxOPoNIndtOycbmKJeTMB) | 3:15 |
 | 166 | [The Greatest](https://open.spotify.com/track/4W63PdwxlreSGoEZg6e7FJ) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 34](https://open.spotify.com/album/2tLmEW6OUwHh2cncZOVpQ7) | 2:51 |
 | 167 | [Me Too](https://open.spotify.com/track/2xpHaFoallE1cEuyo9lawS) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 33](https://open.spotify.com/album/58KAwArwdxMXyEC3OLuInP) | 2:31 |
@@ -184,4 +184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhxU4AiByxO.md) - [plain]
 | 174 | [Meant to Be](https://open.spotify.com/track/6UVyRn5CmTr2hXjC4mtmLK) | [Mini Pop Kids](https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93) | [Mini Pop Kids 16](https://open.spotify.com/album/2Of9F4htVY5MPY8KWs96E9) | 2:45 |
 | 175 | [Mercy](https://open.spotify.com/track/5hx745zVn9ydtxVTPoRU6I) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 35](https://open.spotify.com/album/446h1jQEUAz94QrRd9Ry3y) | 3:10 |
 
-Snapshot ID: `MTY2NjY4ODM5MSwwMDAwMDAwMDA3NDE1NTczN2U4YzBkMTVkOTY2ODIyYTEwOTZhYzUz`
+Snapshot ID: `MTY2NjY4ODM5MSwwMDAwMDAwMDc0ZjA2OThjMTViYWJkOTI1ZGViZGNmZDAxZTA1MmE1`

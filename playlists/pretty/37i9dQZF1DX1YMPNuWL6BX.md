@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YMPNuWL6BX.md) - [plain]
 
 > Ring in 2022 with your favorite party tracks!
 
-[Spotify](https://open.spotify.com/user/spotify) - 401,741 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 401,711 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YMPNuWL6BX.md) - [plain]
 | 12 | [Levitating \(feat\. DaBaby\)](https://open.spotify.com/track/5nujrmhLynf4yMoMtj8AQF) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Future Nostalgia](https://open.spotify.com/album/5lKlFlReHOLShQKyRv6AL9) | 3:23 |
 | 13 | [Do It To It](https://open.spotify.com/track/20on25jryn53hWghthWWW3) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Do It To It](https://open.spotify.com/album/58cd90Jkrovggh556JPN9L) | 2:37 |
 | 14 | [Mr\. Brightside](https://open.spotify.com/track/25vf0eCrswI3GcuMH4fL3R) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Best Male Rock Singers](https://open.spotify.com/album/0MNEMYOJEiBmLv6g3zqTNY) | 3:43 |
-| 15 | [Leave The Door Open](https://open.spotify.com/track/02VBYrHfVwfEWXk5DXyf0T) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) | 4:02 |
+| 15 | [Leave the Door Open](https://open.spotify.com/track/1WQkIkrkEc0mydf6SVULgH) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Totally Romantic Ballads](https://open.spotify.com/album/3zeuHqBj3w0Hd4MPgUGCqi) | 4:02 |
 | 16 | [Pepas](https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Pepas](https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1) | 4:47 |
 | 17 | [Good as Hell \(feat\. Ariana Grande\) \- Remix](https://open.spotify.com/track/07Oz5StQ7GRoygNLaXs2pd) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Good as Hell \(feat\. Ariana Grande\) \[Remix\]](https://open.spotify.com/album/1k1HuvFs562Z3CCiSYhtc1) | 2:39 |
 | 18 | [Passionfruit](https://open.spotify.com/track/5mCPDVBb16L4XQwDdbRUpz) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [More Life](https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK) | 4:58 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YMPNuWL6BX.md) - [plain]
 | 95 | [You Make My Dreams \(Come True\)](https://open.spotify.com/track/7HX9f8AMBl0vQxAoAzLqhS) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [The Very Best of Daryl Hall / John Oates](https://open.spotify.com/album/4tUyNf5dGXwY4TaMaxwhqF) | 3:07 |
 | 96 | [I Want You Back](https://open.spotify.com/track/3tSi6iFO9yLGIYIqMEgjC9) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Anthology: Jackson 5](https://open.spotify.com/album/0EwhxzV0N61hu3S3PkB2Ku) | 2:59 |
 | 97 | [Promises \(with Sam Smith\)](https://open.spotify.com/track/5N5k9nd479b1xpDZ4usjrg) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Promises \(with Sam Smith\)](https://open.spotify.com/album/2tpWgbBdzjkaJVJzR4T8y1) | 3:33 |
-| 98 | [We Are Family \- 1995 Remaster](https://open.spotify.com/track/5IKLwqBQG6KU6MP2zP80Nu) | [Sister Sledge](https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays) | [We Are Family \(1995 Remaster\)](https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT) | 3:36 |
+| 98 | [We Are Family](https://open.spotify.com/track/3MXjVpTOdRcAE5yGUv6qXi) | [Sister Sledge](https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays) | [That 70's Sound!](https://open.spotify.com/album/0J4bLtVrFzXicppU8qvSZD) | 3:19 |
 | 99 | [Thank You for Being a Friend](https://open.spotify.com/track/5yNUgA66PbcPIJPOU2eBwR) | [Andrew Gold](https://open.spotify.com/artist/5fmvGUlMVgmnCn45f1he7d) | [All This and Heaven Too](https://open.spotify.com/album/3XOMPHoTULcm8kEqHp7YlE) | 4:40 |
 | 100 | [One Last Time](https://open.spotify.com/track/7xoUc6faLbCqZO6fQEYprd) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [My Everything \(Deluxe\)](https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj) | 3:17 |
 
-Snapshot ID: `MTY0MTAwMDI2MywwMDAwMDAwMDcxOTdlZGRlMDY2YjdiMWQ2YzIxNjg2NzMwODgwMjdl`
+Snapshot ID: `MTY0MTAwMDI2MywwMDAwMDAwMDViNGI3ZTI1YjkzM2Q0ZTM1NzY0YWMxZTIxOTlmNGZj`

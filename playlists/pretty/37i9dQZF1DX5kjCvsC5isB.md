@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 
 > These women are on the rise, and are rocking our worlds right now / Cover: Maggie Lindemann
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,726 likes - 125 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,913 likes - 125 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 | 68 | [Say It](https://open.spotify.com/track/5FfT45gDQWDyR8lZpn60DD) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Squeeze](https://open.spotify.com/album/54p7fdwenIgGmhUK4qbCiT) | 3:35 |
 | 69 | [People I Don't Like](https://open.spotify.com/track/5srKMwXoeyrRnyTnNbpgIW) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [People I Don't Like](https://open.spotify.com/album/56c9o6LVrsm995xmDpAZrA) | 2:22 |
 | 70 | [Mercy](https://open.spotify.com/track/5vWAgdYgGN5WXzKvfNwx2E) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Mercy](https://open.spotify.com/album/6bLQpivQqQcSn5ACBdliRP) | 2:59 |
-| 71 | [Rockstar](https://open.spotify.com/track/5KYMIVT5vYyeI0OP97nS0Y) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Household Name](https://open.spotify.com/album/19trggALcFlGFsJDUiyVYn) | 3:09 |
+| 71 | [Rockstar](https://open.spotify.com/track/4J8u6uZshJECi35hwoHSxA) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Motorbike](https://open.spotify.com/album/1b2Vn8dIHKLdxUJ43E1boD) | 3:09 |
 | 72 | [Baby Blackout](https://open.spotify.com/track/6hMjfF1z1DpkPVUWxbHp5Q) | [Daisy Grenade](https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH) | [Baby Blackout](https://open.spotify.com/album/5mEQH6RoSrubrXrRj4lKen) | 3:05 |
 | 73 | [Hijacked](https://open.spotify.com/track/5V4CqymSdvKG5Uj63pPUUV) | [Pure Chlorine](https://open.spotify.com/artist/0XJHYxkjfwYpuIZO8tM6fl) | [Hijacked](https://open.spotify.com/album/2MkQLN7BsCZxhX11P7perM) | 2:55 |
 | 74 | [LASSO](https://open.spotify.com/track/2loBPRmc29O9vNAQ5UD9kF) | [VUKOVI](https://open.spotify.com/artist/1844Ua6R4gOuH6GLdlR4dt) | [LASSO](https://open.spotify.com/album/4jUoqzZSmKP9QFOC9DCQba) | 2:58 |
@@ -125,7 +125,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 | 115 | [The Rush](https://open.spotify.com/track/2w1PqXuQG6Fjum7259GzO8) | [JJ Wilde](https://open.spotify.com/artist/1pLZeUSXJwVVJSPhmBSwf6) | [Ruthless](https://open.spotify.com/album/4A9EmspHpAoSVjzYm2U9WM) | 3:07 |
 | 116 | [H B I C](https://open.spotify.com/track/3VTlWV4YoSgVvyfJI0IMZR) | [Gin Wigmore](https://open.spotify.com/artist/4Gzfk9Lxm67nBs7E9BZjzG) | [H B I C](https://open.spotify.com/album/6ZQ0O1rreAlHfDHteGubjh) | 2:38 |
 | 117 | [Difficult](https://open.spotify.com/track/7rY8Iw9HQtmLMDVe6wQ4f3) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [Difficult](https://open.spotify.com/album/4flPdmSeK3DAaiSduOVd2q) | 3:20 |
-| 118 | [Pretty Waste](https://open.spotify.com/track/71HZdwtSopDs87RvpI8ip2) | [BONES UK](https://open.spotify.com/artist/16kd5X3pBMOtXdLlX5LcAw) | [Bones UK](https://open.spotify.com/album/6YkF6eWFU0EhVHBnYzAgqv) | 2:50 |
+| 118 | [Pretty Waste](https://open.spotify.com/track/2eRpD2BvnFAZCXN5fukXZz) | [BONES UK](https://open.spotify.com/artist/16kd5X3pBMOtXdLlX5LcAw) | [Pretty Waste](https://open.spotify.com/album/6NSmYBEztwHriWZF4huXPv) | 2:50 |
 | 119 | [Running Up That Hill](https://open.spotify.com/track/7zLeOgBrdrCfMf47MCyLMC) | [Meg Myers](https://open.spotify.com/artist/0W8xe7IqAPlnBRMUpWOUuJ) | [Running Up That Hill](https://open.spotify.com/album/7a0mQ4UEg2hTop49LkmNuq) | 4:23 |
 | 120 | [State of Me](https://open.spotify.com/track/7mB5qqwuP8LhoauDGLaAgZ) | [Lacey Sturm](https://open.spotify.com/artist/09LCTrVGnMsGbxexUFJoap) | [State of Me](https://open.spotify.com/album/1IK5IoEkmNl99vE9MEEyXX) | 3:14 |
 | 121 | [Kids \(Ain't All Right\)](https://open.spotify.com/track/6DTHkeVHU2CCB3601pJoHM) | [Grace Mitchell](https://open.spotify.com/artist/3VjZEaHXvNbCmV5jc0VfZR) | [Kids \(Ain't All Right\)](https://open.spotify.com/album/7vH4VwsRUUBMJ9qWRfwdyR) | 2:29 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 | 124 | [Only Love Can Save Me Now \[Feat\. Matt Cameron & Kim Thayil\]](https://open.spotify.com/track/4jXoiJSLQkAft0L5D1yjDb) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq), [Matt Cameron](https://open.spotify.com/artist/4NfvOU2TMtQhyBOW0erSDf), [Kim Thayil](https://open.spotify.com/artist/0XY2RjIqyilsOHYiNro5tD) | [Death By Rock And Roll](https://open.spotify.com/album/2ysgEIHY4aOMMbbu0uV6ey) | 5:12 |
 | 125 | [IH8EVERY1](https://open.spotify.com/track/41pILuwCEPKC8RLLR9XGT1) | [Sarah Barrios](https://open.spotify.com/artist/0HJsX1aTdgG1VDIRDiseSJ) | [IH8EVERY1](https://open.spotify.com/album/1Kd1SH6GxOvyEhyH501d3h) | 2:47 |
 
-Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMDQ3ZjNlZDVhOGVkOTk3MGQ4NmYxY2EwYTliNDdhNTM5`
+Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMDcyYmY5YmQ4Mzg2MzUxNjk5YmMwOTRiYmVhNGU0ZjM3`

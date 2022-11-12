@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74DDhiuyXIl.md) - [plain]
 
 > 回家的路上，有好聽的歌曲陪伴，會讓人暫時忘了疲倦。
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,917 likes - 75 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,945 likes - 75 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,10 +12,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74DDhiuyXIl.md) - [plain]
 | 2 | [你不屬於我 \- 《比悲傷更悲傷的故事》影集版片尾曲](https://open.spotify.com/track/5Y47GrCrjQY44qFv8Gt0Gm) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [你不屬於我 \(《比悲傷更悲傷的故事》影集版片尾曲\)](https://open.spotify.com/album/6tsPH97HyxcVfg5mEtOGdv) | 5:22 |
 | 3 | [想見你想見你想見你\(電視劇"想見你"片尾曲\)](https://open.spotify.com/track/69zgyr5HVKdInjeKpq1qHa) | [831](https://open.spotify.com/artist/3TtgOeQcNkf9WVDA4xPBJM) | [想見你想見你想見你\(電視劇"想見你"片尾曲\)](https://open.spotify.com/album/44M14sRDzNZBtfaSH9Au3i) | 3:59 |
 | 4 | [勇气](https://open.spotify.com/track/5rY7xc2h5Imj6iFn97h8Qj) | [棉子](https://open.spotify.com/artist/6Y4Ur76H9vh8gw4QADaUKp) | [勇气](https://open.spotify.com/album/0CVoVI7UnycE7lcKcKqoeU) | 4:01 |
-| 5 | [天空沒有極限](https://open.spotify.com/track/4nivAUgvOrWdkv44kjAlxs) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [啓示錄](https://open.spotify.com/album/4uO5m2nHREvFrTeR7rOCDx) | 4:39 |
-| 6 | [嚣张](https://open.spotify.com/track/78mWZg7F2XRlOr50Z2rKyv) | [En](https://open.spotify.com/artist/1SZdTuxme3mOk0D9pUFrET) | [嚣张](https://open.spotify.com/album/5mW7p3W0I2ZG5pEPdUsfMM) | 4:13 |
-| 7 | [慢冷](https://open.spotify.com/track/3NNDJfWMGHuNpvHWTImmlW) | [Fish Leong](https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS) | [我好嗎? \- 太陽如常升起](https://open.spotify.com/album/13EgeVmtvcqQIdJJix6QzM) | 4:49 |
-| 8 | [年少有為](https://open.spotify.com/track/6XY80Ofqd8j0SGiEdRLwCp) | [Ronghao Li](https://open.spotify.com/artist/0rTP0x4vRFSDbhtqcCqc8K) | [耳朵](https://open.spotify.com/album/0EcIAelkxuOa5hc3XvxyXy) | 4:39 |
+| 5 | [嚣张](https://open.spotify.com/track/78mWZg7F2XRlOr50Z2rKyv) | [En](https://open.spotify.com/artist/1SZdTuxme3mOk0D9pUFrET) | [嚣张](https://open.spotify.com/album/5mW7p3W0I2ZG5pEPdUsfMM) | 4:13 |
+| 6 | [天空沒有極限](https://open.spotify.com/track/4nivAUgvOrWdkv44kjAlxs) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [啓示錄](https://open.spotify.com/album/4uO5m2nHREvFrTeR7rOCDx) | 4:39 |
+| 7 | [年少有為](https://open.spotify.com/track/6XY80Ofqd8j0SGiEdRLwCp) | [Ronghao Li](https://open.spotify.com/artist/0rTP0x4vRFSDbhtqcCqc8K) | [耳朵](https://open.spotify.com/album/0EcIAelkxuOa5hc3XvxyXy) | 4:39 |
+| 8 | [慢冷](https://open.spotify.com/track/3NNDJfWMGHuNpvHWTImmlW) | [Fish Leong](https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS) | [我好嗎? \- 太陽如常升起](https://open.spotify.com/album/13EgeVmtvcqQIdJJix6QzM) | 4:49 |
 | 9 | [星辰大海](https://open.spotify.com/track/47O6EPP78iQOOma2OVsYwS) | [黄霄雲](https://open.spotify.com/artist/4vcc1VAbvzJjbMTsPYL6OU) | [星辰大海](https://open.spotify.com/album/6TMqv3zCwNxM8JbNeUpk4P) | 3:27 |
 | 10 | [真的傻 \(電影《一吻定情》追愛版主題曲\)](https://open.spotify.com/track/7mCr6Rn5jx04Fisvts97Z3) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [真的傻 \(電影《一吻定情》追愛版主題曲\)](https://open.spotify.com/album/1kwz2DPjIizXiCnWz6ru2s) | 4:16 |
 | 11 | [起风了 \- 电视剧"加油你是最棒的"主题曲](https://open.spotify.com/track/5ZiMscIUd9Gozq4JFPnlJQ) | [吳青峰](https://open.spotify.com/artist/5a5vu4RzsAHdKN0aYyblZ8) | [起风了 \(电视剧"加油你是最棒的"主题曲\)](https://open.spotify.com/album/1ETGJpJwupn8IEv4XYxcE7) | 5:13 |
@@ -39,11 +39,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74DDhiuyXIl.md) - [plain]
 | 29 | [裹著心的光](https://open.spotify.com/track/4qasQt2JsuBK8ZwERwuAZO) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [裹著心的光](https://open.spotify.com/album/5Ahq8CVYewyMVVjIcHgqUO) | 4:33 |
 | 30 | [無名之輩 \(電視劇《親愛的, 熱愛的》主題曲\)](https://open.spotify.com/track/4t6xJufZtFgVb0fbjCnWNv) | [陳雪燃](https://open.spotify.com/artist/4S60pJTRGN6LLZsJb7f4Of) | [無名之輩 \(電視劇《親愛的, 熱愛的》主題曲\)](https://open.spotify.com/album/25SPilLsgRVlEgDzbH6KcV) | 4:22 |
 | 31 | [說了再見](https://open.spotify.com/track/2jlT98PnJTq5uwo8AdTpa7) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [跨時代](https://open.spotify.com/album/4cj9Li1HSSvRGEXsDU46dS) | 4:40 |
-| 32 | [因為是你 \- 原創影集《火神的眼淚》片頭曲](https://open.spotify.com/track/0TqOMBOKodVMnr1NgMwOt7) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [因為是你 \(原創影集《火神的眼淚》片頭曲\)](https://open.spotify.com/album/5YSunwRv17InUanAfwwHhr) | 3:31 |
-| 33 | [受夠](https://open.spotify.com/track/5JLLWtgBLRxpd4MRkGAm74) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [小時候的我們](https://open.spotify.com/album/2GaVDyAX5sgrX5CuWxRhZm) | 5:31 |
+| 32 | [受夠](https://open.spotify.com/track/5JLLWtgBLRxpd4MRkGAm74) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [小時候的我們](https://open.spotify.com/album/2GaVDyAX5sgrX5CuWxRhZm) | 5:31 |
+| 33 | [因為是你 \- 原創影集《火神的眼淚》片頭曲](https://open.spotify.com/track/0TqOMBOKodVMnr1NgMwOt7) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [因為是你 \(原創影集《火神的眼淚》片頭曲\)](https://open.spotify.com/album/5YSunwRv17InUanAfwwHhr) | 3:31 |
 | 34 | [路過人間](https://open.spotify.com/track/03UChw9aTMMe4VtF2rSEXe) | [Yisa Yu](https://open.spotify.com/artist/75CM5fojYdKYD0xYSFh22Z) | [路過人間](https://open.spotify.com/album/1ReLs42i1FgChCUqurgmhc) | 4:07 |
-| 35 | [我以為你不會出現 \(UAG安全感形象曲\)](https://open.spotify.com/track/20OrMs4eAhIHyG82wHaGy0) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [我以為你不會出現](https://open.spotify.com/album/6jCdDLLM1EH24grt1rqmIQ) | 5:46 |
-| 36 | [云与海](https://open.spotify.com/track/391EmQt63uXH2dkY5ji3Q9) | [阿YueYue](https://open.spotify.com/artist/1QLBXKM5GCpyQQSVMNZqrZ) | [云与海](https://open.spotify.com/album/2MZWFjLhnd8FiRPxkgKeTk) | 4:18 |
+| 35 | [云与海](https://open.spotify.com/track/391EmQt63uXH2dkY5ji3Q9) | [阿YueYue](https://open.spotify.com/artist/1QLBXKM5GCpyQQSVMNZqrZ) | [云与海](https://open.spotify.com/album/2MZWFjLhnd8FiRPxkgKeTk) | 4:18 |
+| 36 | [我以為你不會出現 \(UAG安全感形象曲\)](https://open.spotify.com/track/20OrMs4eAhIHyG82wHaGy0) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [我以為你不會出現](https://open.spotify.com/album/6jCdDLLM1EH24grt1rqmIQ) | 5:46 |
 | 37 | [溫柔 \#MaydayBlue20th \- feat.孫燕姿](https://open.spotify.com/track/40fcXSuSb80MekMZM1ei2J) | [Mayday](https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY), [Stefanie Sun](https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn) | [溫柔 \#MaydayBlue20th](https://open.spotify.com/album/0hFNgUJRgBphC1NBJaZGI3) | 4:31 |
 | 38 | [聽見下雨的聲音](https://open.spotify.com/track/0nt1LAZjaTjrf30S8hdRDU) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [哎呦 不錯哦](https://open.spotify.com/album/1aYDr6muZPmwYvstDnIbeH) | 4:39 |
 | 39 | [將故事寫成我們](https://open.spotify.com/track/3Vl7IqSQsAsfScssywTDny) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [將故事寫成我們](https://open.spotify.com/album/1HfahU2Hx8p8jq9IHkD4Mq) | 5:35 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74DDhiuyXIl.md) - [plain]
 | 48 | [脫胎換骨](https://open.spotify.com/track/3KMozKCYJDSNJ53paNEIXk) | [Ronghao Li](https://open.spotify.com/artist/0rTP0x4vRFSDbhtqcCqc8K) | [脫胎換骨](https://open.spotify.com/album/0nkgECpB80bkATzGsvvFI7) | 4:30 |
 | 49 | [當我們不在一起](https://open.spotify.com/track/2IrxQL5LAsqdXNOkDP4sAP) | [Quarterback](https://open.spotify.com/artist/0x1cerphBlEKCJL8Mqs6y3) | [當我們不在一起](https://open.spotify.com/album/2aodkqwQyt6hPuMDMwL3Cd) | 4:24 |
 | 50 | [You Better Not Think About Me](https://open.spotify.com/track/0mpo3w2SHXb3rsfepeG5Pr) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [Insignificance](https://open.spotify.com/album/1iD3lBhC6wCUgqNTIMEidj) | 4:40 |
-| 51 | [偽裝](https://open.spotify.com/track/53455JJQIRhArHbF2XA7s9) | [Da Zhuang](https://open.spotify.com/artist/0JvihWUI0PyC4sEJGVwrAg) | [偽裝](https://open.spotify.com/album/1LkriYhUsulFbEL8t2fBc3) | 5:00 |
-| 52 | [你夠了](https://open.spotify.com/track/5vJ2Hw5FQShQIpyDqgQlCR) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [你夠了](https://open.spotify.com/album/0aBj80EllGcejy9XcavrtZ) | 3:21 |
+| 51 | [你夠了](https://open.spotify.com/track/5vJ2Hw5FQShQIpyDqgQlCR) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [你夠了](https://open.spotify.com/album/0aBj80EllGcejy9XcavrtZ) | 3:21 |
+| 52 | [偽裝](https://open.spotify.com/track/53455JJQIRhArHbF2XA7s9) | [Da Zhuang](https://open.spotify.com/artist/0JvihWUI0PyC4sEJGVwrAg) | [偽裝](https://open.spotify.com/album/1LkriYhUsulFbEL8t2fBc3) | 5:00 |
 | 53 | [毒藥](https://open.spotify.com/track/34YwC7hZlGeIyIZGir8WHE) | [蕭秉治](https://open.spotify.com/artist/0Ej4GfzIcW3dWP0rC5d4x1) | [毒藥](https://open.spotify.com/album/49FXdUp7VMFszWjZSHlvWc) | 3:25 |
 | 54 | [放過自己](https://open.spotify.com/track/1AVYznIek3SoK9xSAsnAuH) | [Ada Zhuang](https://open.spotify.com/artist/42l9R70OWvywz9JN9DCVOM) | [放過自己](https://open.spotify.com/album/4JbsUHHIczczvvAPh137S8) | 4:09 |
 | 55 | [愛情怎麼了嗎](https://open.spotify.com/track/5ZaPc3ILOQT4Qc26AZe9od) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [愛情怎麼了嗎](https://open.spotify.com/album/16SRsxQho3RdwRnFIQlE40) | 4:08 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74DDhiuyXIl.md) - [plain]
 | 71 | [心愿](https://open.spotify.com/track/2JvBOfpVxHftlTPaCadw6P) | [Ren Ran](https://open.spotify.com/artist/6f4srX54JFrLNK4aTJe2Sc) | [心愿](https://open.spotify.com/album/5FPSPR3NOTVkZFsT0frnaZ) | 4:20 |
 | 72 | [備胎 \(feat\. Eetu Kalavainen\)](https://open.spotify.com/track/6OuBzoZm0GHYzPNGlvB3yx) | [R\-chord](https://open.spotify.com/artist/5XkrVVn0lQIVPkH55nbTgZ), [Eetu Kalavainen](https://open.spotify.com/artist/2gmrjqnmYgLobcr15nJR3O) | [像水一樣](https://open.spotify.com/album/1ACpdg4OuZtA5MfrK4mM5u) | 4:32 |
 | 73 | [暗戀\(電影《暗戀·橘生淮南》主題曲\)](https://open.spotify.com/track/1oJTWZecSvNcxXrPvY6AHA) | [Jane Zhang](https://open.spotify.com/artist/7qJmFr579WC8MMGj4PiWdu) | [暗戀\(電影《暗戀·橘生淮南》主題曲\)](https://open.spotify.com/album/01zbyEJxIWAjzrOiWtiSSz) | 4:26 |
-| 74 | [假如世上還有一個人](https://open.spotify.com/track/0ki1xpYUdxYxzJocp1jjxa) | [Priscilla Abby](https://open.spotify.com/artist/0zFBdI3ErhNDcIPAKiGoL0) | [假如世上還有一個人](https://open.spotify.com/album/3R0a9X793U1Xi5ayVzrXQk) | 4:20 |
-| 75 | [以年為單位的愛情\(電影《以年為單位的戀愛》片尾主題曲\)](https://open.spotify.com/track/5f939ccwoOJXxU2Sj6RxU4) | [Rainie Yang](https://open.spotify.com/artist/0MEchSWR9pJvw1S5CV3Kuk) | [以年為單位的愛情\(電影《以年為單位的戀愛》片尾主題曲\)](https://open.spotify.com/album/7vLFjY35aHSs0xwkzCTVAR) | 4:31 |
+| 74 | [以年為單位的愛情\(電影《以年為單位的戀愛》片尾主題曲\)](https://open.spotify.com/track/5f939ccwoOJXxU2Sj6RxU4) | [Rainie Yang](https://open.spotify.com/artist/0MEchSWR9pJvw1S5CV3Kuk) | [以年為單位的愛情\(電影《以年為單位的戀愛》片尾主題曲\)](https://open.spotify.com/album/7vLFjY35aHSs0xwkzCTVAR) | 4:31 |
+| 75 | [假如世上還有一個人](https://open.spotify.com/track/0ki1xpYUdxYxzJocp1jjxa) | [Priscilla Abby](https://open.spotify.com/artist/0zFBdI3ErhNDcIPAKiGoL0) | [假如世上還有一個人](https://open.spotify.com/album/3R0a9X793U1Xi5ayVzrXQk) | 4:20 |
 
-Snapshot ID: `MTY2NzgwNTk1OSwwMDAwMDAwMDQyMGRhMTc3NDRiM2Q1ODJkOGU1NTljZDczNjBlMDgw`
+Snapshot ID: `MTY2NzgwNTk1OSwwMDAwMDAwMGUxMjU0ZThmMmQ0YTQ0NDJhNTdiZTdiZDM0NTcwNDBh`

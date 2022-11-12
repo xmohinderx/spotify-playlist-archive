@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXutrsZUdv7b.md) - [plain]
 
 > The legendary producer and songwriting duo: Kenneth Gamble and Leon A\. Huff.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,452 likes - 106 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,498 likes - 106 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXutrsZUdv7b.md) - [plain]
 | 72 | [\(You\) Got What I Need](https://open.spotify.com/track/5NelxeQ8Yd4ytdhdGog8c5) | [Freddie Scott](https://open.spotify.com/artist/3uuQLSmKyXSXIStTYGKLrT) | [Cry To Me\-The Best Of Freddie Scott](https://open.spotify.com/album/4RFn1tAt9wBDGxERS38bZK) | 2:59 |
 | 73 | [Could It Be Magic](https://open.spotify.com/track/5CjhjawgoaHp5t6yy0bnPB) | [Anthony White](https://open.spotify.com/artist/4uLJWWkpzgSb8BP3723f7o) | [Could It Be Magic](https://open.spotify.com/album/4zrerm48QQpeBk3U5PWRG9) | 4:48 |
 | 74 | [See You When I Git There](https://open.spotify.com/track/3vQcIveDIfPe0HFdlpIUSK) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [The Essential Lou Rawls](https://open.spotify.com/album/6vhHreCbPvwLXDreRFHcdG) | 4:25 |
-| 75 | [You Can't Hide from Yourself](https://open.spotify.com/track/0P1CIWMLDE56pE3SQ2Hacq) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Teddy Pendergrass](https://open.spotify.com/album/5MoWcSxnqFuBa0HGGExRM5) | 4:05 |
+| 75 | [You Can't Hide from Yourself](https://open.spotify.com/track/0ZbD5Cr4oSwvEoD33NU5Lc) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [The Best Of Teddy Pendergrass](https://open.spotify.com/album/0jPFkO4kcV3QtR14Im5QP6) | 4:05 |
 | 76 | [Everybody's Talkin'](https://open.spotify.com/track/1N8qShpau2jnIQm60fxiib) | [The Philadelphia International All\-Stars](https://open.spotify.com/artist/65LAAoHRaxtbWobjZdZOuX), [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [Let's Clean Up the Ghetto](https://open.spotify.com/album/2psrWvictVSOOD5zllFWBb) | 3:52 |
 | 77 | [Ghetto Woman \(Pts\. 1 & 2\)](https://open.spotify.com/track/5UxtJOpBoloAFphOKCkMYd) | [Ruth McFadden](https://open.spotify.com/artist/69PXKrlMOtvqpawjuNuGIY) | [Conquer The World: The Lost Soul Of Philadelphia International Records](https://open.spotify.com/album/36EyfRc4KIyWtqdIZw1xSX) | 5:43 |
 | 78 | [I'll Try](https://open.spotify.com/track/5RGxrN3EgvE9ohnToqUN0w) | [The Ebonys](https://open.spotify.com/artist/5lIu3yk3Vz3a2dVSoBHJDt) | [The Ebonys](https://open.spotify.com/album/7g5XludZG0ZYvxb78gJYso) | 6:10 |
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXutrsZUdv7b.md) - [plain]
 | 105 | [I Met Him On A Sunday](https://open.spotify.com/track/1BbuB46ewGPlZYSLtcdANi) | [Laura Nyro](https://open.spotify.com/artist/6QDWC6QeGhvCWCv3nUJwoV), [LaBelle](https://open.spotify.com/artist/3DznKagEU8yMQZR9z33Da5) | [Gonna Take A Miracle](https://open.spotify.com/album/6867EFvLm4xENyg1pdcRdh) | 1:49 |
 | 106 | [Someday You'll Be My Love](https://open.spotify.com/track/5z07SkVTBDO44PMBRwTpHs) | [Kenny Gamble](https://open.spotify.com/artist/0TEdanYTgQdUgNBPjK2vXI), [Tommy Bell](https://open.spotify.com/artist/3lyFG7yieZVPFKpHIzaosB) | [Ain't Nothin But A House Party](https://open.spotify.com/album/6Zd5nGmHAPgw1o1GsRE4zw) | 2:25 |
 
-Snapshot ID: `MTY1MTU4MzE4MSwwMDAwMDAwMGQwZDgzZTI4NjYwMjdlNmU1YTE0ZWZhZGVkNjgxZGY3`
+Snapshot ID: `MTY1MTU4MzE4MSwwMDAwMDAwMGZmNjc3YmFjMThmN2I2OWEwMzU5NDMxZWFhNWZlY2Zm`

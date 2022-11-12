@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OepaGriAIm.md) - [plain]
 
 > Trace the history of Jazz from timeless classics to boundary\-breaking contemporary favorites from the women of Jazz\. Cover: Diana Krall
 
-[Spotify](https://open.spotify.com/user/spotify) - 831,707 likes - 123 songs - 8 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 831,759 likes - 123 songs - 8 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OepaGriAIm.md) - [plain]
 | 71 | [The Boy From Ipanema](https://open.spotify.com/track/3r4znNhIUhY8OtioTP1rfb) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [Capitol Sings Around The World: Far Away Places](https://open.spotify.com/album/7MHnIS6xmPLvq7oAaHVvxp) | 2:14 |
 | 72 | [Waking Up in the Spring](https://open.spotify.com/track/6jUJss4g8nOlVURGqZtdc8) | [Yelena Eckemoff](https://open.spotify.com/artist/7vRtxQT9nKIPHA36iDrCul), [Jukka Perko](https://open.spotify.com/artist/1NSHUz6LEFJC6H7CBhPQgD), [Jarmo Saari](https://open.spotify.com/artist/37iScztCuS0YBVo4ta3Gcn), [Olavi Louhivuori](https://open.spotify.com/artist/7MsLyr0nCXGN6OGoZgZqrT), [Antti Lötjönen](https://open.spotify.com/artist/6uEOkKRkGPB7Z274RWBiCR) | [Waking up in the Spring](https://open.spotify.com/album/6Tkm8isPNWmcs0ZjUfcjNp) | 6:10 |
 | 73 | [Honeysuckle Rose](https://open.spotify.com/track/4LIw2QRvZWvtV48O92yfKu) | [Fats Waller](https://open.spotify.com/artist/0DYWCXTkNqGFZIf67SrWEa), [Jane Monheit](https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ) | [Taking A Chance On Love](https://open.spotify.com/album/3SPCafRVqoXgwY3YsofV6W) | 3:37 |
-| 74 | [Dance Me To The End Of Love](https://open.spotify.com/track/13zjNPZUyWvzZC2dlYjW0L) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Careless Love](https://open.spotify.com/album/4Kev9VMY5Ypfo19jRqK6bW) | 3:57 |
+| 74 | [Dance Me To The End Of Love](https://open.spotify.com/track/0J3zm3hMLDQIOlWSSjJNpu) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Cafe in Bangkok](https://open.spotify.com/album/3xiRTD8CdlPdTNaQbI9AyZ) | 3:57 |
 | 75 | [Finis](https://open.spotify.com/track/6aX8v48UL54ghg6KgCaTvi) | [Amanda Tosoff](https://open.spotify.com/artist/6YqsZpf1iDyUBvvVtiPLaR), [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [Earth Voices](https://open.spotify.com/album/6QHyaqpkhH0J0qqtd3AVRW) | 5:51 |
 | 76 | [Without That Gal!](https://open.spotify.com/track/4HwJCIYAVBciTWHZBOJuTE) | [Blanche Calloway](https://open.spotify.com/artist/4Pb1I6ZTK7XnAfk7bJtvjh) | [Blanche Calloway \(Doxy Collection\)](https://open.spotify.com/album/7joIm6xZU01pPtT2ZVsA1O) | 3:36 |
 | 77 | [I Can't Get Started](https://open.spotify.com/track/2pTg3UNkYi7dT5dghfUjjy) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa) | [No Bounds](https://open.spotify.com/album/2PYZhybffUNK3dMUOu1NIC) | 5:12 |
@@ -132,4 +132,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OepaGriAIm.md) - [plain]
 | 122 | [Lullaby Of Birdland](https://open.spotify.com/track/5z161QQZMgQxSILnv3QoJk) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8), [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO) | [Sarah Vaughan](https://open.spotify.com/album/7wX89EWCK8cNZeGnBS5bMG) | 4:00 |
 | 123 | [My Favourite Things](https://open.spotify.com/track/5RzDUxNC7hKjr8eTEX8n6b) | [Betty Carter](https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ) | [Inside Betty Carter](https://open.spotify.com/album/3rFnwsVrrSYZQsCGTkOT7W) | 1:38 |
 
-Snapshot ID: `MTY2NTEyOTkxNywwMDAwMDAwMDliZTc1MjJlZWNjZTIwMjk0NWNmOWFjMTA1NTE1ZWRl`
+Snapshot ID: `MTY2NTEyOTkxNywwMDAwMDAwMDkzN2VjZGNhMjNhZWZlMGQwYTMxYmU0NzM5ZGE3NWEw`

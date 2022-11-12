@@ -4,7 +4,7 @@
 
 > Experimental electronic beyond the borders of tradition.
 
-110 songs - 8 hr 37 min - [published](https://open.spotify.com/playlist/0QCs1HUhlbrSzyN8H1j10w)
+111 songs - 8 hr 41 min - [published](https://open.spotify.com/playlist/0QCs1HUhlbrSzyN8H1j10w)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,8 @@
 | [Hoshikuzu Tenboudai](https://open.spotify.com/track/4KXBdopxHq9KVemwpazP4q) | [foodman](https://open.spotify.com/artist/4e8VeCyfFRBL1e06oGg1dR) | [Yasuragi Land](https://open.spotify.com/album/3X6y43KU2Rl8dFEMt76aow) | 2:35 | 2021-10-15 | 2022-07-29 |
 | [Hoshikuzu Tenboudai](https://open.spotify.com/track/7Iuyi6oEYvNvTmLVtGUf4e) | [foodman](https://open.spotify.com/artist/4e8VeCyfFRBL1e06oGg1dR) | [Hoshikuzu Tenboudai](https://open.spotify.com/album/6ULKihwZta7tDvqryGAotl) | 2:35 | 2022-06-14 |  |
 | [Hyperpassive](https://open.spotify.com/track/2mkoI2EpQZvm2cy9V1DMjW) | [Lee Gamble](https://open.spotify.com/artist/7rAD9Ws0ihREeDmgPS2ZL8) | [Hyperpassive](https://open.spotify.com/album/6bLfNCqiiePc600uTbJpV5) | 4:01 | 2021-10-15 | 2022-07-29 |
-| [Hyperpassive](https://open.spotify.com/track/4xDFHb4CBzCqYCRnADRouJ) | [Lee Gamble](https://open.spotify.com/artist/7rAD9Ws0ihREeDmgPS2ZL8) | [Flush Real Pharynx 2019\-2021](https://open.spotify.com/album/15Hcvh4wrSAief3Vsx5o3N) | 4:01 | 2022-06-14 |  |
+| [Hyperpassive](https://open.spotify.com/track/4xDFHb4CBzCqYCRnADRouJ) | [Lee Gamble](https://open.spotify.com/artist/7rAD9Ws0ihREeDmgPS2ZL8) | [Flush Real Pharynx 2019\-2021](https://open.spotify.com/album/15Hcvh4wrSAief3Vsx5o3N) | 4:01 | 2022-06-14 | 2022-11-12 |
+| [Hyperpassive](https://open.spotify.com/track/626bqbuBzETdlnTMF97crX) | [Lee Gamble](https://open.spotify.com/artist/7rAD9Ws0ihREeDmgPS2ZL8) | [A Million Pieces of You EP](https://open.spotify.com/album/4assU0dSZqhKwuGAAcEJQ0) | 4:01 | 2022-06-14 |  |
 | [I'll be 20 when I'm 40](https://open.spotify.com/track/4x47gRjGYRRiDGhbdtpnCs) | [Mr\. Mitch](https://open.spotify.com/artist/2XiGESIh2E2ockoVUG4NGv) | [Patrimony](https://open.spotify.com/album/7olQu6AkixLOum1nfMkZvf) | 5:13 | 2021-10-15 |  |
 | [I've Been Thinking A Lot Lately](https://open.spotify.com/track/2ELhlJLWntX7IVZdmLUDiY) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Baby, We're Ascending](https://open.spotify.com/album/78C99zbd0p19B2OmCKVbaN) | 3:49 | 2022-06-14 | 2022-07-29 |
 | [I've Been Thinking A Lot Lately](https://open.spotify.com/track/4NjTVJSrXrOase8DSmNKki) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Baby, We're Ascending](https://open.spotify.com/album/7FlN0x6yjToDvOIjpuIm48) | 3:49 | 2022-06-14 |  |

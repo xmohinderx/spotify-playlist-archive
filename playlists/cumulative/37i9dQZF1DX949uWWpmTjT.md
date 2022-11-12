@@ -4,7 +4,7 @@
 
 > A soft and slow Jazz soundtrack to play in the background to all your activities.
 
-255 songs - 19 hr 34 min - [published](https://open.spotify.com/playlist/4ubA8HpuLOWyQqeLkd644S)
+256 songs - 19 hr 37 min - [published](https://open.spotify.com/playlist/4ubA8HpuLOWyQqeLkd644S)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Blue In Green \(Take 2\)](https://open.spotify.com/track/0QjrKKVrUNmxokCLXUkBe2) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF), [Scott LaFaro](https://open.spotify.com/artist/4g7uUySyORXh2KgDEhgxXa), [Paul Motian](https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX) | [Portrait In Jazz \[Keepnews Collection\]](https://open.spotify.com/album/7dlYNvbD4QYDL3sSkTCjxi) | 4:26 | 2022-04-13 | 2022-11-11 |
 | [Blue Quarter](https://open.spotify.com/track/0bXrgF9139x5z2qXSyC01G) | [Cleo Lounge Trio](https://open.spotify.com/artist/76p8QkVRne7itxQ98sjAvB) | [Blue Quarter](https://open.spotify.com/album/04yhSVC2L9ZzWDVlVMVYoX) | 3:43 | 2022-11-10 |  |
 | [Body & Soul](https://open.spotify.com/track/12Ykc8GW0kQJURPlxZgyXM) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S) | [Joshua Redman](https://open.spotify.com/album/58y5aHbnGlzb1npFhXI1j1) | 4:50 | 2022-05-19 | 2022-11-11 |
+| [Bring Me Yesterday](https://open.spotify.com/track/0jGhhONiu7NOpOqrnTBh8d) | [Wendy Marcini](https://open.spotify.com/artist/4CaTfk4pRkpA8A9gXamYg2) | [October Blue](https://open.spotify.com/album/7kZPEYeThqDrK4xfb4LJJh) | 3:23 | 2022-11-10 |  |
 | [Bring Some Lovin'](https://open.spotify.com/track/0V3X52LW5ERZOOWS8HnJjr) | [Flatland Park](https://open.spotify.com/artist/6xOql32xqR0X46QkNLCzPd) | [Bring Some Lovin'](https://open.spotify.com/album/2yXLY4cvecdiSn24aZF0Fo) | 3:09 | 2022-11-10 |  |
 | [Caerulea](https://open.spotify.com/track/05IRllaVkCLy5Iyz3JUXNC) | [Bladverk Band](https://open.spotify.com/artist/3XGVKlRSkuGWbqonldnI65) | [Obliqua](https://open.spotify.com/album/7wIe87avpXR4ROh0HktLIX) | 3:06 | 2022-11-10 |  |
 | [Chances Are](https://open.spotify.com/track/4gG0X6cfm3Nhlkw3NaL7PC) | [Bruce Willmington & Co](https://open.spotify.com/artist/0hY5GNx2g4D1ZtwrQRAY2y) | [Chances Are](https://open.spotify.com/album/7M0LMFQ86GFzDX8UV1L2Hk) | 4:42 | 2022-11-10 |  |
@@ -205,7 +206,7 @@
 | [Soulville](https://open.spotify.com/track/5nB5mhjWHeUNtoWnTDISOb) | [The Ben Webster Quintet](https://open.spotify.com/artist/3jum9vTIyGt9e42ONsgeIU) | [Verve Jazz Masters 43](https://open.spotify.com/album/4hafeOXr4qO4FqaFGRgCOe) | 8:03 | 2021-12-03 | 2022-09-23 |
 | [Spring Came Early](https://open.spotify.com/track/3vlVtBIC5VDiY98GWAgT67) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Spring Came Early](https://open.spotify.com/album/3m97OF4An5bONucwGKVgm4) | 3:39 | 2022-11-10 |  |
 | [Star Eyes](https://open.spotify.com/track/3fJsrfPYlvYrll2306xwJn) | [Bill Walton](https://open.spotify.com/artist/7fHixSSo2DvBypEXNKjgBl) | [Star Eyes](https://open.spotify.com/album/6sscV2kzdu75DlL4b3bIDX) | 4:29 | 2022-11-10 |  |
-| [Steps Ahead](https://open.spotify.com/track/3PglbYgSF2NiYDRMiONnio) | [Joyce Trio](https://open.spotify.com/artist/75pnTZQozf5CtkbWxmUtCf) | [Steps Ahead](https://open.spotify.com/album/2pVrdxaWpxPeFLtAz3EYIh) | 3:22 | 2022-11-10 |  |
+| [Steps Ahead](https://open.spotify.com/track/3PglbYgSF2NiYDRMiONnio) | [Joyce Trio](https://open.spotify.com/artist/75pnTZQozf5CtkbWxmUtCf) | [Steps Ahead](https://open.spotify.com/album/2pVrdxaWpxPeFLtAz3EYIh) | 3:22 | 2022-11-10 | 2022-11-12 |
 | [Stormy Weather](https://open.spotify.com/track/32pQP3XD7rIYraHKMVq9pu) | [Red Garland Trio](https://open.spotify.com/artist/3XYnsz11kFrkx8F3upvnE5) | [All Kinds Of Weather](https://open.spotify.com/album/1cq8v5c8Y6KuvPtwPi3aWT) | 10:35 | 2021-12-03 |  |
 | [Stormy Weather \(Keeps Rainin' All The Time\)](https://open.spotify.com/track/5nT91D7XR6gWKuAcTy3IZv) | [Betty Carter](https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ) | [The Modern Sound Of Betty Carter](https://open.spotify.com/album/3ohFY3QjkPqVCq1X1jDBgS) | 3:21 | 2022-01-27 | 2022-09-23 |
 | [Stream](https://open.spotify.com/track/16w6mm1Wg1dD9Nqkl720O0) | [Tord Gustavsen Trio](https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a) | [Stream](https://open.spotify.com/album/4pH0Oy0jxql2EanMDhiMde) | 7:03 | 2022-03-10 | 2022-11-11 |

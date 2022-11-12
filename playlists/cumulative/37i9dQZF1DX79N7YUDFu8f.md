@@ -4,7 +4,7 @@
 
 > Lekker rustig aan doen op zaterdag met deze zachte pop liedjes.
 
-186 songs - 11 hr 2 min - [published](https://open.spotify.com/playlist/4jnmTTG5ZTX6s4oUdUnTY2)
+189 songs - 11 hr 14 min - [published](https://open.spotify.com/playlist/4jnmTTG5ZTX6s4oUdUnTY2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,8 +81,9 @@
 | [Let It Go](https://open.spotify.com/track/09Qcv27NMy1HoN6mvok8z3) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Crying Sad Songs](https://open.spotify.com/album/0lA0JLGqIRRcsJMdlq3nx9) | 4:21 | 2022-11-03 |  |
 | [Letters](https://open.spotify.com/track/5II1sTlUHO9QAZBbxFUm8C) | [Maximillian](https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr) | [Letters](https://open.spotify.com/album/4yl0l9uQmFY69HEABZ2IbA) | 3:01 | 2021-11-24 |  |
 | [Lights](https://open.spotify.com/track/7hBkF4gHTeBYFpbojarbWo) | [Janne Schra](https://open.spotify.com/artist/7IGk0iXhaPjqvQF4Zi2R2K) | [Lights](https://open.spotify.com/album/50ncAqMEKX95MGtoCNjQ1w) | 3:32 | 2021-11-24 | 2022-04-29 |
-| [Lights Down Low](https://open.spotify.com/track/5A6BJLZArq1MPjsnmcuk5f) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [Hell's Kitchen Angel](https://open.spotify.com/album/1fVVnWHdCvIas2Rdmc25Oc) | 3:43 | 2022-06-03 |  |
+| [Lights Down Low](https://open.spotify.com/track/5A6BJLZArq1MPjsnmcuk5f) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [Hell's Kitchen Angel](https://open.spotify.com/album/1fVVnWHdCvIas2Rdmc25Oc) | 3:43 | 2022-06-03 | 2022-11-12 |
 | [Lights Down Low](https://open.spotify.com/track/5brHijrNA7UAFw74p4f5v3) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [Lights Down Low](https://open.spotify.com/album/0KWtVo7Q9QIpXycrm9MuWI) | 3:43 | 2021-11-24 | 2022-07-29 |
+| [Lights Down Low](https://open.spotify.com/track/4FO19heaoF2X1IecIfPURV) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [NOW That's What I Call Music, Vol\. 65](https://open.spotify.com/album/161uSmI2QrypiAIdlOLYJW) | 3:43 | 2022-11-03 |  |
 | [Little Birds](https://open.spotify.com/track/3mgFa4MC92Q6iaT1fLKJkm) | [Midas](https://open.spotify.com/artist/7eNngegCrDK76btqeQ78wD) | [Little Birds](https://open.spotify.com/album/3pwDJLTeuu2f1JAkWS6Vnj) | 3:19 | 2022-08-23 |  |
 | [Lonely Nights](https://open.spotify.com/track/1NDRPRFMVnmjqfyfokw2Kq) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6), [Priscilla Ahn](https://open.spotify.com/artist/5oU0tZlItLctcLOQPS3mCy) | [Lonely Nights](https://open.spotify.com/album/0vJAXq86NlUT3gAKfuohvm) | 3:39 | 2022-06-03 | 2022-11-11 |
 | [Lonely Nights](https://open.spotify.com/track/6huqz7x5E4UXQnPFU9MBGe) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6), [Priscilla Ahn](https://open.spotify.com/artist/5oU0tZlItLctcLOQPS3mCy) | [Hello](https://open.spotify.com/album/6e2JVuCWiGeSK70X9PhPNX) | 3:39 | 2022-11-03 |  |
@@ -95,7 +96,8 @@
 | [Love on the Weekend](https://open.spotify.com/track/0j2WBxWZnWti5TpSxjJvPb) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Love on the Weekend](https://open.spotify.com/album/5uBT48jKnO59Oylf08pJJA) | 3:32 | 2021-11-24 |  |
 | [Love Out Loud](https://open.spotify.com/track/6zAnoyecEdyzK1qo569Wa0) | [Sven Ross](https://open.spotify.com/artist/2WiTb3ZPchkTg0JjH6MlBJ) | [Love Out Loud](https://open.spotify.com/album/77A0zjywOShlbv2fZgrOvu) | 3:08 | 2021-11-24 |  |
 | [Love You Anymore](https://open.spotify.com/track/7JEUg9KqmpdIE5Nbb9ss66) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [love \(Deluxe Edition\)](https://open.spotify.com/album/68xKnVblFsSQ48CtgZT0oY) | 3:02 | 2021-11-24 |  |
-| [Lovely Morning](https://open.spotify.com/track/4768qiI13zMOKseYclY4pN) | [Room Eleven](https://open.spotify.com/artist/1fnqrUzStcFzRdTybhaOdT) | [Mmm..\. Gumbo?](https://open.spotify.com/album/7qvN2X89qpDmaZbYbqFGgQ) | 3:53 | 2022-06-03 |  |
+| [Lovely Morning](https://open.spotify.com/track/4768qiI13zMOKseYclY4pN) | [Room Eleven](https://open.spotify.com/artist/1fnqrUzStcFzRdTybhaOdT) | [Mmm..\. Gumbo?](https://open.spotify.com/album/7qvN2X89qpDmaZbYbqFGgQ) | 3:53 | 2022-06-03 | 2022-11-12 |
+| [Lovely Morning](https://open.spotify.com/track/4DSNqIleyyQb5vL18LVgPL) | [Room Eleven](https://open.spotify.com/artist/1fnqrUzStcFzRdTybhaOdT) | [Mmm..\. Gumbo? \[ International Version \]](https://open.spotify.com/album/2GhhKuE8coVyF5us5Glbe2) | 3:53 | 2022-11-03 |  |
 | [Lovely Morning](https://open.spotify.com/track/6efsCy6jKzBN6oz9xQEgKj) | [Room Eleven](https://open.spotify.com/artist/1fnqrUzStcFzRdTybhaOdT) | [Mmm..\. Gumbo?](https://open.spotify.com/album/2prkEzgitQ8uM26lIjWLT3) | 3:53 | 2021-11-24 | 2022-07-29 |
 | [Magnetic Fields](https://open.spotify.com/track/0X9LxiGZ1yu8YqR3RGQdQQ) | [The Analogues Sideshow](https://open.spotify.com/artist/2cwQ2aJ650PUpQmq3aT4kO), [The Analogues](https://open.spotify.com/artist/5kGU4SsIURP34e0AraFpQ2) | [Magnetic Fields](https://open.spotify.com/album/5sEAAWAprzf2j6PW8SgXed) | 2:33 | 2022-07-28 |  |
 | [Make It on Your Own](https://open.spotify.com/track/6g3h5Me9cAPMZVlGWZbXlN) | [Ed Struijlaart](https://open.spotify.com/artist/08cpwYrPWo8Xkxl9qdiDP2) | [Make It on Your Own](https://open.spotify.com/album/6ZrAnpp2UrLMB3EHoTGEgt) | 2:55 | 2021-11-24 |  |
@@ -135,7 +137,8 @@
 | [Saturday Sun](https://open.spotify.com/track/1drLQNS9D5z9lBP4DbtO2R) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Five Leaves Left](https://open.spotify.com/album/7IpcJbVxLLEfW0KXB7ndE2) | 4:05 | 2022-06-03 | 2022-11-11 |
 | [Saturday Sun](https://open.spotify.com/track/6VREttZINnTj7SIjaFEk22) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Quarantine And Chill](https://open.spotify.com/album/0LWQ7dnduJgKC3ZpgfHu3b) | 4:05 | 2022-11-03 |  |
 | [Selfish Love](https://open.spotify.com/track/6ywvpOWVw6GerSxaY8WQI2) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Selfish Love](https://open.spotify.com/album/2XALd6mECQvIXM8Zjg1hIP) | 3:54 | 2021-11-24 | 2022-07-29 |
-| [Selfish Love](https://open.spotify.com/track/5hmLPzFW7oH8QQ9LRu1HUl) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Glasshouse \(Deluxe Edition\)](https://open.spotify.com/album/6mPNjjOl2GHbP4E90l7bJe) | 3:57 | 2022-06-03 |  |
+| [Selfish Love](https://open.spotify.com/track/5E0ooxbzCpT6ukRkimv50g) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Glasshouse](https://open.spotify.com/album/4nfzRON4A8T9UNuhRqWw8X) | 3:57 | 2022-11-03 |  |
+| [Selfish Love](https://open.spotify.com/track/5hmLPzFW7oH8QQ9LRu1HUl) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Glasshouse \(Deluxe Edition\)](https://open.spotify.com/album/6mPNjjOl2GHbP4E90l7bJe) | 3:57 | 2022-06-03 | 2022-11-12 |
 | [September Song \- Guitar Acoustic](https://open.spotify.com/track/7bMkcxifc4EjIQKw49EC7h) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Raised Under Grey Skies \(Deluxe\)](https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo) | 3:32 | 2021-11-24 |  |
 | [Show Me Where It Hurts \- Acoustic](https://open.spotify.com/track/0d7atlmNSW6i3rVaGyIpO0) | [FRIDAY](https://open.spotify.com/artist/1nzhkCvUySFs0Fsj57qXYX) | [Show Me Where It Hurts \(Acoustic\)](https://open.spotify.com/album/1KX2m7tPEsz20wSfugvdWs) | 3:03 | 2021-11-24 |  |
 | [Sister](https://open.spotify.com/track/1IKMzW0NMEWOgNO3LVFZbe) | [Tomas Ferdinand](https://open.spotify.com/artist/04wssUBpRPfy8WOL1JKaLf) | [Airplanes](https://open.spotify.com/album/5Nm3G5vPdDf9hxo11dQiEZ) | 3:25 | 2021-11-24 |  |

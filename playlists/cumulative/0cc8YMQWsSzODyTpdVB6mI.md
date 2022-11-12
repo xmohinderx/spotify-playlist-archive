@@ -4,7 +4,7 @@
 
 > The best NEW Music right now, curated by Kitsuné Musique and added to one HOT playlist : a FRESH selection updated every Monday, Wednesday &amp; Friday.
 
-97 songs - 5 hr 30 min - [published](https://open.spotify.com/playlist/6gxGlcxed4RBnU8Hz4XDes)
+98 songs - 5 hr 36 min - [published](https://open.spotify.com/playlist/6gxGlcxed4RBnU8Hz4XDes)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Be Grateful](https://open.spotify.com/track/1wzmKX0ppikXpAdA7O5BRp) | [Hans.](https://open.spotify.com/artist/41azuh0IUq4g2UPySoYp8A) | [Be Grateful](https://open.spotify.com/album/1rX527XeBVn4tkNwVgUXu9) | 2:47 | 2022-07-06 | 2022-10-04 |
 | [Besserwisser](https://open.spotify.com/track/0TP6kkEvdHXoRWAhW8Urva) | [tigerstate](https://open.spotify.com/artist/5IASPTbco70KYmxQwSg8E1) | [Besserwisser](https://open.spotify.com/album/4Dh6k3ofE42IeCCpPQhB5K) | 3:35 | 2022-10-28 |  |
 | [Better Than That](https://open.spotify.com/track/6kNMiX4NoAtz6ohYdgfhIX) | [Fortuno](https://open.spotify.com/artist/07QJ2IEpirIQN3dlUomBxL) | [Better Than That](https://open.spotify.com/album/503RXKST7zs6k7uoun1NqN) | 2:41 | 2022-04-25 | 2022-07-02 |
-| [Child](https://open.spotify.com/track/2xVL9TdrABknAXZIgtwdk5) | [SENTO](https://open.spotify.com/artist/2rRKwSbT80Ss7cfcz8FeAG), [Pilar Vega](https://open.spotify.com/artist/4gwLO2CpmBhulFPo6tbnRx) | [Child](https://open.spotify.com/album/2iE6czcXDdtPsIjtzJGmJj) | 2:48 | 2022-08-08 |  |
+| [Child](https://open.spotify.com/track/2xVL9TdrABknAXZIgtwdk5) | [SENTO](https://open.spotify.com/artist/2rRKwSbT80Ss7cfcz8FeAG), [Pilar Vega](https://open.spotify.com/artist/4gwLO2CpmBhulFPo6tbnRx) | [Child](https://open.spotify.com/album/2iE6czcXDdtPsIjtzJGmJj) | 2:48 | 2022-08-08 | 2022-11-12 |
 | [Clutch](https://open.spotify.com/track/3F6gcexYwqaLaRx1sCsqfE) | [UOKAYE](https://open.spotify.com/artist/3XDN1ATIMXPVRmK6DmdjNx), [Sei](https://open.spotify.com/artist/2yVmMS1J22h49MU2yHQGJb) | [Clutch](https://open.spotify.com/album/2XjeQuBI4tCzwlNTsC7EZo) | 3:03 | 2022-07-22 | 2022-10-18 |
 | [Comfort](https://open.spotify.com/track/2BmB9dEutF0cDtI5IbT8IE) | [Khazali](https://open.spotify.com/artist/4YrYwip7DToQ8tj6r7ZFVd) | [Going Home, Vol\. 1](https://open.spotify.com/album/4emb3mG0Dm5mJtnMdZm0tz) | 3:37 | 2021-11-05 |  |
 | [Count to Five \(Tensnake Remix\) \- Mixed](https://open.spotify.com/track/4bq9akE1BhJPFMd6SZBQa6) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN), [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq) | [Café Kitsuné Mixed by Young Franco \(Day\)](https://open.spotify.com/album/5i1BngTCStALybm8vtOFyN) | 4:26 | 2021-11-05 |  |
@@ -101,6 +101,7 @@
 | [Want It Bad](https://open.spotify.com/track/6r6WolFiUnf8leQpgM3kzc) | [Slater Manzo](https://open.spotify.com/artist/4o1zIIgHPK4GcdNNbIXNPQ) | [Want It Bad](https://open.spotify.com/album/2BhX3mXTSlYednKnaQmJJZ) | 3:12 | 2022-05-20 | 2022-07-23 |
 | [We Are Shadows](https://open.spotify.com/track/6vpb43NMPkwvX4znUepjhD) | [PRESSYES](https://open.spotify.com/artist/35RtE46owXOQK7XjE1Sxop) | [We Are Shadows](https://open.spotify.com/album/6f9UikQyxUq3sYTc6TY2aX) | 3:39 | 2022-07-15 | 2022-10-08 |
 | [Weekend \- Jai Wolf Remix](https://open.spotify.com/track/6GXSZaHXyN3QJ7QeoMQSw3) | [Mocki](https://open.spotify.com/artist/5Xrk8HKFWj76Jonuerfupw), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Kitsuné: Weekend](https://open.spotify.com/album/1tBXDuJ2OXb7Z2khIAbMlp) | 4:09 | 2021-11-05 |  |
+| [Why Do?](https://open.spotify.com/track/1HutpfzBYz0KdSo4TUiaRx) | [We Are Neurotic](https://open.spotify.com/artist/6Md8JmF20ZQgz6g54LqdIA) | [Why Do?](https://open.spotify.com/album/0kXuLvPHLYV2OsvqWcdPxh) | 5:48 | 2022-11-11 |  |
 | [Willow Tree](https://open.spotify.com/track/7HyQKWEzycUMPaKnPWcZet) | [Frances Baker](https://open.spotify.com/artist/5ANQ3S3Wf5JRqJaEwlOUnw) | [Willow Tree](https://open.spotify.com/album/1ZpdgCDupRZoCP6STmmwcb) | 3:27 | 2022-09-02 |  |
 | [Worship](https://open.spotify.com/track/7bNJSUTF1XreWJYN11YnuY) | [Pecas](https://open.spotify.com/artist/6EWKuUzmkUekywt78dM2oU) | [Worship](https://open.spotify.com/album/5RjcxA4BGTJfkcVK2bPyDF) | 4:26 | 2022-07-08 | 2022-10-06 |
 | [You \- Mixed](https://open.spotify.com/track/6EjgpCbSTdNMjFiBVCQwxt) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Café Kitsuné Mixed by Fabich](https://open.spotify.com/album/3MlhqxDLKTzmEHpHlQFBFS) | 4:42 | 2021-11-05 |  |

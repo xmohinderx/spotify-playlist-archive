@@ -4,7 +4,7 @@
 
 > New and familiar folk in the Irish tradition\. Cover: Ye Vagabonds
 
-74 songs - 5 hr 28 min - [published](https://open.spotify.com/playlist/4dGxVFj5HCMkSll4e0gfQa)
+75 songs - 5 hr 31 min - [published](https://open.spotify.com/playlist/4dGxVFj5HCMkSll4e0gfQa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [The Auld Triangle](https://open.spotify.com/track/4XvNcfDCh0TqLpMkknMGb9) | [Damien Dempsey](https://open.spotify.com/artist/0bmF1w9eyJrY4CHyjpTQOW), [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [It's All Good: The Best of Damien Dempsey \(Deluxe Version\)](https://open.spotify.com/album/19NcknXhRMTVRUmIEue1fq) | 4:17 | 2021-10-12 | 2022-07-29 |
 | [The Bonny Light Horseman](https://open.spotify.com/track/1UDvKubDnJrrBC78bOWGXs) | [Planxty](https://open.spotify.com/artist/15EMC4BhBrkCPwIxCfuY9c) | [After The Break](https://open.spotify.com/album/4DQ6OFzBPa242mYB4fn1eW) | 4:33 | 2021-10-12 |  |
 | [The Bonny Light Horseman \- Remastered 2020](https://open.spotify.com/track/73lCAVSmr6nJ9HjKm4oiYn) | [Planxty](https://open.spotify.com/artist/15EMC4BhBrkCPwIxCfuY9c) | [After The Break \(Remastered 2020\)](https://open.spotify.com/album/3vtc66Q6QnvqWSaHhn9LlK) | 4:30 | 2022-03-11 | 2022-08-21 |
-| [The Butcher Boy](https://open.spotify.com/track/1QLPlGwxxd1xoMLAtKSMGU) | [Tommy Makem](https://open.spotify.com/artist/3oehGAh6rLM6LFdzM7E7zM) | [Songs of Tommy Makem](https://open.spotify.com/album/7bOc9jb25IV1noFgJjgT5g) | 3:24 | 2022-03-11 |  |
+| [The Butcher Boy](https://open.spotify.com/track/4zOopTD0zKIinqgTTbefVS) | [Tommy Makem](https://open.spotify.com/artist/3oehGAh6rLM6LFdzM7E7zM) | [Ultimate Irish Folk](https://open.spotify.com/album/1VVCwLrGiiU3S5t0rzX185) | 3:24 | 2022-03-11 |  |
+| [The Butcher Boy](https://open.spotify.com/track/1QLPlGwxxd1xoMLAtKSMGU) | [Tommy Makem](https://open.spotify.com/artist/3oehGAh6rLM6LFdzM7E7zM) | [Songs of Tommy Makem](https://open.spotify.com/album/7bOc9jb25IV1noFgJjgT5g) | 3:24 | 2022-03-11 | 2022-11-12 |
 | [The Butcher Boy](https://open.spotify.com/track/4A4GkentJ6FWXXM86RwzJI) | [Tommy Makem](https://open.spotify.com/artist/3oehGAh6rLM6LFdzM7E7zM) | [Songs of Tommy Makem](https://open.spotify.com/album/7sISBfKNQJdWxJRY8vMEm1) | 3:24 | 2022-03-11 | 2022-11-11 |
 | [The Butcher Boy](https://open.spotify.com/track/6iQT7r6pow2f9oYku80FSk) | [Tommy Makem](https://open.spotify.com/artist/3oehGAh6rLM6LFdzM7E7zM) | [Songs of Tommy Makem \(Re\-mastered Expanded Edition\)](https://open.spotify.com/album/67QFFSAjCdf9L94TheWt08) | 3:24 | 2021-10-12 | 2022-07-29 |
 | [The Dawning Of The Day](https://open.spotify.com/track/6jck9J7yqPsa8RDWAPJWyw) | [Tommy Makem & Liam Clancy](https://open.spotify.com/artist/4IJmCHcG1RFC3DubtKa7Df) | [Two For The Early Dew](https://open.spotify.com/album/1yJOb6DmQ3GZvTxL2Qq8su) | 4:03 | 2022-03-11 |  |

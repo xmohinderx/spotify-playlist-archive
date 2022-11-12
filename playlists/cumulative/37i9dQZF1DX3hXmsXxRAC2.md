@@ -4,11 +4,12 @@
 
 > Las voces que inmortalizaron las canciones del Divo de Juárez.
 
-141 songs - 9 hr 23 min - [published](https://open.spotify.com/playlist/4QYjPiGAfd9kEfeaSrtn66)
+143 songs - 9 hr 31 min - [published](https://open.spotify.com/playlist/4QYjPiGAfd9kEfeaSrtn66)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Abrázame Muy Fuerte](https://open.spotify.com/track/4gTxKZH5RERMhX9H8EnPAX) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Iconos](https://open.spotify.com/album/5SGUCNeCuGHbR73Iyh2F7g) | 4:34 | 2021-12-29 |  |
+| [Abrázame Muy Fuerte](https://open.spotify.com/track/7r5S7sM4AypvieW7nlrk0O) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Juan Gabriel \- Dúos & Interpretaciones](https://open.spotify.com/album/3UUbSlMUC7dTInWLLkX9g5) | 4:32 | 2021-12-29 |  |
+| [Abrázame Muy Fuerte](https://open.spotify.com/track/4gTxKZH5RERMhX9H8EnPAX) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Iconos](https://open.spotify.com/album/5SGUCNeCuGHbR73Iyh2F7g) | 4:34 | 2021-12-29 | 2022-11-12 |
 | [Abrázame Muy Fuerte](https://open.spotify.com/track/7xPWqlo1ufSDmy5nCzN8rV) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Abrázame Muy Fuerte](https://open.spotify.com/album/2RE4qRw0o1RYdbgeHQ12ap) | 4:34 | 2021-12-29 | 2022-07-29 |
 | [Amor de un Rato](https://open.spotify.com/track/2ZmLc6EVSWKBMNQZTeqBVQ) | [Lucha Villa](https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1) | [Interpreta A Juan Gabriel](https://open.spotify.com/album/3CaLGUG2hGBGom57xsxA1O) | 4:32 | 2021-12-29 |  |
 | [Amor eterno](https://open.spotify.com/track/2IWOOtvbLProMGmNfqujX4) | [Alexandra Gravas](https://open.spotify.com/artist/3jDJ5r0kU32EeVl2Dd5uYv), [Los Macorinos](https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx) | [Songbook 3 El Amor Es Vida](https://open.spotify.com/album/5xTYvmQhMKxPo0W4O2CdDT) | 6:00 | 2021-12-29 |  |
@@ -103,7 +104,8 @@
 | [No Me Vuelvo A Enamorar](https://open.spotify.com/track/2KgbsDLZt3TllBRtFCwrx2) | [Paquita La Del Barrio](https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7) | [No Hay Mujeres Feas](https://open.spotify.com/album/16MRHu1XrPSBuoZ7f0wxeC) | 2:52 | 2021-12-29 |  |
 | [No Me Vuelvo a Enamorar](https://open.spotify.com/track/3gt8ipxgy563LkoeZ6mPww) | [Paquita La Del Barrio](https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7) | [No Hay Mujeres Feas](https://open.spotify.com/album/1kQ78QZlitrnBhDCmWeeR0) | 2:52 | 2021-12-29 | 2022-07-29 |
 | [No Se Ha Dado Cuenta](https://open.spotify.com/track/2eMkbfrDfi9cQB7TTZvlsI) | [Roberto Jordan](https://open.spotify.com/artist/5SyvBTttsNPEcFjtceTBmx) | [Juan Gabriel \- 40 Aniversario](https://open.spotify.com/album/1Iofb00kc6shksa6a7wSah) | 2:34 | 2021-12-29 |  |
-| [No Tengo Dinero](https://open.spotify.com/track/2S7OHGloZFKDo034vN3tVi) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Ayer Y Hoy](https://open.spotify.com/album/301WAwIJ2sSfY8I4Jwujqm) | 3:13 | 2021-12-29 |  |
+| [No Tengo Dinero](https://open.spotify.com/track/2S7OHGloZFKDo034vN3tVi) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Ayer Y Hoy](https://open.spotify.com/album/301WAwIJ2sSfY8I4Jwujqm) | 3:13 | 2021-12-29 | 2022-11-12 |
+| [No Tengo Dinero](https://open.spotify.com/track/1JqBac5IlhsgLCggLrjbH6) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Lo Esencial De Ana Gabriel](https://open.spotify.com/album/2bdaZKWu05LqbN8OwJtuPZ) | 3:14 | 2021-12-29 |  |
 | [No Tengo Dinero](https://open.spotify.com/track/2F4LFkeiKg5OLvohNkBN5D) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Juan Gabriel, el Divo y Sus Divas](https://open.spotify.com/album/3xCWhY4rgMsS2eLBajXuid) | 3:14 | 2021-12-29 | 2022-07-29 |
 | [No Vale la Pena](https://open.spotify.com/track/1ftjkFH9RUzPjPTM9tJbWa) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Fue un Placer Conocerte: Gracias Juan Gabriel, Vol\. 1](https://open.spotify.com/album/53mW1mcrK5HCENdQKkwVtV) | 2:34 | 2021-12-29 |  |
 | [No Vale la Pena](https://open.spotify.com/track/61xsekswNv3eCOOwYGY6GH) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Canta Once Grandes Exitos De Juan Gabriel](https://open.spotify.com/album/61odYv9kH9Zv4rxDOUwlBl) | 2:36 | 2021-12-29 |  |

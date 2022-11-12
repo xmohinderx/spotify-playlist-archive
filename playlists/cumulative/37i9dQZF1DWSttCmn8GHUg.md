@@ -4,7 +4,7 @@
 
 > Patriotic country songs celebrating the land of the free and the home of the brave.
 
-124 songs - 7 hr 35 min - [published](https://open.spotify.com/playlist/2OfGSsRQrmUhNpqr9RXiRv)
+125 songs - 7 hr 38 min - [published](https://open.spotify.com/playlist/2OfGSsRQrmUhNpqr9RXiRv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,8 @@
 | [Where I Find God](https://open.spotify.com/track/1kczRjh9aT7N82jtCYbkqF) | [Larry Fleet](https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw) | [4th of July](https://open.spotify.com/album/78gK94dhgh6ol8WkfX0L6f) | 4:09 | 2022-07-01 |  |
 | [Where I Find God](https://open.spotify.com/track/6eQePEKwbt1y9CkCE6faYi) | [Larry Fleet](https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw) | [Where I Find God](https://open.spotify.com/album/26pbiUILSs4FA7boHlB3QY) | 4:09 | 2021-11-12 | 2022-07-29 |
 | [Where I Find God](https://open.spotify.com/track/6jhLdxpo93lXFaJwX7znaa) | [Larry Fleet](https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw) | [Stack of Records](https://open.spotify.com/album/7AzZB0UHZtWu7Ya8yQN3iW) | 4:09 | 2022-07-01 | 2022-11-11 |
-| [Where The Green Grass Grows](https://open.spotify.com/track/0nDjzA4kns1QOWPXuOn6Xw) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Everywhere](https://open.spotify.com/album/36STfe5P9Cln52ch4nw3i9) | 3:21 | 2022-07-01 |  |
+| [Where The Green Grass Grows](https://open.spotify.com/track/0nDjzA4kns1QOWPXuOn6Xw) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Everywhere](https://open.spotify.com/album/36STfe5P9Cln52ch4nw3i9) | 3:21 | 2022-07-01 | 2022-11-12 |
+| [Where The Green Grass Grows](https://open.spotify.com/track/6ppz9qjSVcrkZgPr1jtF6Y) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [McGRAW \(The Ultimate Collection\)](https://open.spotify.com/album/3ytKtBtqdHsj6XzNu0sMCT) | 3:22 | 2022-07-01 |  |
 | [Where The Green Grass Grows](https://open.spotify.com/track/6MyusyuU2WhmXtraQXImIw) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Number One Hits](https://open.spotify.com/album/2H2XBOxn7GzKRcXpeYKUIn) | 3:22 | 2021-11-12 | 2022-07-29 |
 | [Where The Stars And Stripes And The Eagle Fly](https://open.spotify.com/track/1tTZM7LUDkxcykOVVIGW4W) | [Aaron Tippin](https://open.spotify.com/artist/4XwKU420OWVk38vz1KvH3M) | [Stars And Stripes](https://open.spotify.com/album/1mSzw5lUy0z6iIjBwkBmCK) | 3:48 | 2021-11-12 |  |
 | [Where Were You \(When the World Stopped Turning\)](https://open.spotify.com/track/3eSwvMfSA0Fyku6Ak5JEw0) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [34 Number Ones](https://open.spotify.com/album/26w8J2SKCxa80Bwq6G8ctN) | 5:05 | 2021-11-12 |  |

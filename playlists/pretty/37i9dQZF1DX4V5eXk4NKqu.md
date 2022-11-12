@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 
 > Best Latin Indie tracks right now\. Cover: Kevin Kaarl
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,425 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,446 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 | 20 | [Recuerdos Que Torturan](https://open.spotify.com/track/6cZXekrGcyPkuTAUiyKzIW) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Recuerdos Que Torturan](https://open.spotify.com/album/7K5xL0QYU1brmPwpWSYA2L) | 3:30 |
 | 21 | [nadie me cae bien](https://open.spotify.com/track/35bu49h6EEYptKobXmBQma) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [nadie me cae bien](https://open.spotify.com/album/5xvQJ17xAeaFUV2OApBBea) | 3:48 |
 | 22 | [Universe](https://open.spotify.com/track/7jgBDJZfhiHnIhekjFUrsX) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Garden of Lucid](https://open.spotify.com/album/06l0dAmzy9g9AFUfcCDEeS) | 3:30 |
-| 23 | [Un Millón](https://open.spotify.com/track/4yZq5QgUhKq0bO6ExHF2a0) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Un Millón](https://open.spotify.com/album/33sKQam5Pn9GN0Dwu5Wa9i) | 2:47 |
-| 24 | [Ser De Ti](https://open.spotify.com/track/0i9GosFgbI0w0YLM8DLR2u) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi) | 3:27 |
+| 23 | [Ser De Ti](https://open.spotify.com/track/0i9GosFgbI0w0YLM8DLR2u) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi) | 3:27 |
+| 24 | [Un Millón](https://open.spotify.com/track/4yZq5QgUhKq0bO6ExHF2a0) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Un Millón](https://open.spotify.com/album/33sKQam5Pn9GN0Dwu5Wa9i) | 2:47 |
 | 25 | [tdbn](https://open.spotify.com/track/5PKQelL3yzmUpKTDj0j72t) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tdbn](https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T) | 3:14 |
 | 26 | [jardín de flores](https://open.spotify.com/track/7DHPDiXzR6MIanHwQ0AuZi) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [jardín de flores](https://open.spotify.com/album/7ytEMDrNLT9r9vRYMmjtwi) | 3:19 |
 | 27 | [Paraíso](https://open.spotify.com/track/1jqV2HDLwXJD8NbuzwsgSF) | [Monogem](https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV) | [Gardenia](https://open.spotify.com/album/0vetA0VXGOhBjzaKO8DasX) | 3:52 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 | 35 | [Pastel](https://open.spotify.com/track/6Xur7MWcS7np7zm3ijJO0w) | [Katzù Oso](https://open.spotify.com/artist/4tSzEOfCj6LXhaf0jtk4XO) | [Pastel](https://open.spotify.com/album/3QTnx5ztLT9Ub46YFKWKh3) | 2:09 |
 | 36 | [Someone](https://open.spotify.com/track/15M7rUKWxfg4YZwczUhlkb) | [Gabriel Garzón\-Montano](https://open.spotify.com/artist/1R4GxRuSVTPSb6oy56SPST) | [Agüita](https://open.spotify.com/album/51kUBshxb3ZJGICNNwJUcH) | 3:41 |
 | 37 | [Espera \(feat\. Carlos Sadness\)](https://open.spotify.com/track/40q4bzLjO9zqBIZYP442af) | [MOÜGLI](https://open.spotify.com/artist/786qoKu8y9vQHdegoxNJn9), [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq) | [Espera \(feat\. Carlos Sadness\)](https://open.spotify.com/album/0AZHlKXAlrkRx6iPs3s2dX) | 3:52 |
-| 38 | [Ambar Bossa Nova \- Spotify Singles](https://open.spotify.com/track/3d1SX0Fw0gqVKrdrWCJR12) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Spotify Singles](https://open.spotify.com/album/5MlYmVGHlWSCdKutrQcLAV) | 3:01 |
-| 39 | [PSILOCIBINA](https://open.spotify.com/track/4s89QYq2NW7CvrdGGRXnjg) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [PSILOCIBINA](https://open.spotify.com/album/4waUPRkFL1OD8mRDM6dBM1) | 3:17 |
+| 38 | [PSILOCIBINA](https://open.spotify.com/track/4s89QYq2NW7CvrdGGRXnjg) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [PSILOCIBINA](https://open.spotify.com/album/4waUPRkFL1OD8mRDM6dBM1) | 3:17 |
+| 39 | [Ambar Bossa Nova \- Spotify Singles](https://open.spotify.com/track/3d1SX0Fw0gqVKrdrWCJR12) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Spotify Singles](https://open.spotify.com/album/5MlYmVGHlWSCdKutrQcLAV) | 3:01 |
 | 40 | [Daikiri](https://open.spotify.com/track/4H1FWNakPyBYKkohOm6I8O) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Daikiri](https://open.spotify.com/album/7lHVQTwK5be4j9Lr8L5c5C) | 3:57 |
 | 41 | [El Invento](https://open.spotify.com/track/7daItyBA4UqHyFItCVgzBn) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [El Invento](https://open.spotify.com/album/1XhI1Bcby2CSogky3EiENa) | 2:33 |
 | 42 | [Oscuridad](https://open.spotify.com/track/46ii3SsKP0k6qZYo0mYKi6) | [Jasper](https://open.spotify.com/artist/5H9fLAWx4MHfn3fHeczaAm) | [Oscuridad](https://open.spotify.com/album/6LEhYzZ4z4xjIBJeDPIqll) | 3:30 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 | 45 | [Te Guardo](https://open.spotify.com/track/7c0Au5lLOgO8HmeCRNHoOb) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi) | 3:22 |
 | 46 | [Ya no estoy aquí](https://open.spotify.com/track/72ERVQD9a4KEnLEssH4mg7) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [Ya no estoy aquí](https://open.spotify.com/album/2L2rLbtvGZDkJdSHCAOdh6) | 3:22 |
 | 47 | [Un Animal \(Divina Existencia\)](https://open.spotify.com/track/23ietpawDh7f4PVAGBJ690) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Get Lost In The Music](https://open.spotify.com/album/4r7qQ7yTsRuVghSurlagxs) | 3:01 |
-| 48 | [Better With You](https://open.spotify.com/track/4mW0oRgTmwPGFmpuwbvLud) | [Katzù Oso](https://open.spotify.com/artist/4tSzEOfCj6LXhaf0jtk4XO) | [Tmí](https://open.spotify.com/album/6BFTCcyxGLFBHocDnivQnY) | 2:36 |
-| 49 | [Eva](https://open.spotify.com/track/1txcYMd5pfWZivOfJcZpiP) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Eva](https://open.spotify.com/album/4JwtH9ZZTfQSPMXogxHzgl) | 3:44 |
+| 48 | [Eva](https://open.spotify.com/track/1txcYMd5pfWZivOfJcZpiP) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Eva](https://open.spotify.com/album/4JwtH9ZZTfQSPMXogxHzgl) | 3:44 |
+| 49 | [Better With You](https://open.spotify.com/track/4mW0oRgTmwPGFmpuwbvLud) | [Katzù Oso](https://open.spotify.com/artist/4tSzEOfCj6LXhaf0jtk4XO) | [Tmí](https://open.spotify.com/album/6BFTCcyxGLFBHocDnivQnY) | 2:36 |
 | 50 | [Flor](https://open.spotify.com/track/1VGZbTAP1DVkA6Wa8MaqLM) | [Gabriel Garzón\-Montano](https://open.spotify.com/artist/1R4GxRuSVTPSb6oy56SPST) | [Agüita: Remixes](https://open.spotify.com/album/2AW8yUOeKjNxwkqXU8Cs39) | 3:09 |
 | 51 | [Dung Ding Dang](https://open.spotify.com/track/5OWxGgdDveGYp0iKvJN4H3) | [Estereomance](https://open.spotify.com/artist/0sPz0BuaI7sSF0mzku6fZd) | [Estereomance](https://open.spotify.com/album/5BLPMwnHHRMq6JhrhjX62T) | 4:15 |
 | 52 | [inigualable](https://open.spotify.com/track/0dgiJjVATkBD3IYJr6lTI2) | [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1), [Aloisio](https://open.spotify.com/artist/5kY3nTdGsS4deOS46Auy6U) | [inigualable](https://open.spotify.com/album/3o1aaswVqoB6hrjtzqeptq) | 2:58 |
@@ -91,14 +91,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 | 81 | [PARIS](https://open.spotify.com/track/6RxORxiqBquB74RPHTbx0F) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [PARIS](https://open.spotify.com/album/7K5qtRioGQTedUi5FVEyX4) | 3:18 |
 | 82 | [¿Ypqsp?](https://open.spotify.com/track/0llXdaOFchJsMrPJTikF9D) | [Como Las Movies](https://open.spotify.com/artist/6GXCmKUYqrkqzwKAe5U67v) | [¿Ypqsp?](https://open.spotify.com/album/2uhxgkK5p7FmO1KQ0IPjmX) | 4:32 |
 | 83 | [Corazon de Fieltro](https://open.spotify.com/track/3Zlt9VzAa9MBELpZYFd9Ym) | [Ravo](https://open.spotify.com/artist/3xOxSUVQx9oLgljBu8bLVP) | [Corazon de Fieltro](https://open.spotify.com/album/5cK2mGWhh1IO7E4V2G0NB5) | 2:48 |
-| 84 | [Yo Creo en el Amor](https://open.spotify.com/track/7dZ72UcLeePwDC56oMzEtz) | [REIIINA](https://open.spotify.com/artist/5rMLCHF00RKiN5BQxjUBLT) | [Yo Creo en el Amor](https://open.spotify.com/album/5aazCzx0PIyWPw1DfoUPQQ) | 2:51 |
-| 85 | [Missed Connection](https://open.spotify.com/track/5g5vA6ILBex9HxckYqNzHA) | [Amo Amo](https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm) | [Canta](https://open.spotify.com/album/3RoPVCstBakWHHls5HEoKp) | 3:51 |
+| 84 | [Missed Connection](https://open.spotify.com/track/5g5vA6ILBex9HxckYqNzHA) | [Amo Amo](https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm) | [Canta](https://open.spotify.com/album/3RoPVCstBakWHHls5HEoKp) | 3:51 |
+| 85 | [Yo Creo en el Amor](https://open.spotify.com/track/7dZ72UcLeePwDC56oMzEtz) | [REIIINA](https://open.spotify.com/artist/5rMLCHF00RKiN5BQxjUBLT) | [Yo Creo en el Amor](https://open.spotify.com/album/5aazCzx0PIyWPw1DfoUPQQ) | 2:51 |
 | 86 | [Hate My Face](https://open.spotify.com/track/7h631DjBj4j7aFMFwEA7ma) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Hate My Face](https://open.spotify.com/album/2UUBmbPIewpO7axHpYeScJ) | 3:01 |
 | 87 | [Better Than This](https://open.spotify.com/track/72QD8GncVMD1DdHOtTjDM5) | [Calista Del Toro](https://open.spotify.com/artist/2AdpTsL9U2vslmS8y7XXtc) | [Better Than This](https://open.spotify.com/album/5fvNHqH5OcWu55dUAi03qP) | 2:44 |
 | 88 | [I Don't Mind](https://open.spotify.com/track/3P1TNAPSbEcNWCUpBiRiaj) | [RARRI BLANCO](https://open.spotify.com/artist/1n4e1x8i4mKDSYWBiOtm6U) | [I Don't Mind](https://open.spotify.com/album/7JsJXXMqaP7uDhSCs63sd9) | 3:36 |
-| 89 | [Nena <3](https://open.spotify.com/track/1Ss6kJu8otX3v4yV5fBuq2) | [Julienne Ramos](https://open.spotify.com/artist/6pvopC9Vu2mV6rYsXxxnTg) | [Nena <3](https://open.spotify.com/album/5C3T3vpziN6iA4o2SkPjHY) | 3:13 |
-| 90 | [I know It](https://open.spotify.com/track/5AKALt78WWmtF0KLi8B1QR) | [Chicano Batman](https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN) | [Invisible People](https://open.spotify.com/album/0LQ5gWM3pvpS2iUhppk57p) | 2:31 |
-| 91 | [Colors](https://open.spotify.com/track/4S86HrFNj1b7vL0oY4QGao) | [Amo Amo](https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm) | [Canta](https://open.spotify.com/album/3RoPVCstBakWHHls5HEoKp) | 3:33 |
+| 89 | [Colors](https://open.spotify.com/track/4S86HrFNj1b7vL0oY4QGao) | [Amo Amo](https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm) | [Canta](https://open.spotify.com/album/3RoPVCstBakWHHls5HEoKp) | 3:33 |
+| 90 | [Nena <3](https://open.spotify.com/track/1Ss6kJu8otX3v4yV5fBuq2) | [Julienne Ramos](https://open.spotify.com/artist/6pvopC9Vu2mV6rYsXxxnTg) | [Nena <3](https://open.spotify.com/album/5C3T3vpziN6iA4o2SkPjHY) | 3:13 |
+| 91 | [I know It](https://open.spotify.com/track/5AKALt78WWmtF0KLi8B1QR) | [Chicano Batman](https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN) | [Invisible People](https://open.spotify.com/album/0LQ5gWM3pvpS2iUhppk57p) | 2:31 |
 | 92 | [No Te Vayas with Jane](https://open.spotify.com/track/6dkcbaRHCVqSeWG1cmbZC0) | [Danto](https://open.spotify.com/artist/0L8DGJwLOOu7DePOSdE49v) | [Danto's Inferno](https://open.spotify.com/album/3N9wGucblUYoiCR3uGoIhW) | 2:30 |
 | 93 | [Whatchu Know?](https://open.spotify.com/track/2aIBLMcUJzzBFj0jgQC7bN) | [Sam Sky](https://open.spotify.com/artist/2YiWowjyYqKEXuAle5oNDU) | [Whatchu Know?](https://open.spotify.com/album/29JesIS2vuVrFVtoOp3mur) | 3:48 |
 | 94 | [SE VA](https://open.spotify.com/track/6zwtJ3Hcd3lxA18bbaTdC8) | [unÁnima](https://open.spotify.com/artist/5QxH2WRNyntAccePm1BtD3) | [SE VA](https://open.spotify.com/album/23OlgHn7is9dDUk4ltwmZB) | 3:56 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 | 99 | [Paraíso](https://open.spotify.com/track/1jqV2HDLwXJD8NbuzwsgSF) | [Monogem](https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV) | [Gardenia](https://open.spotify.com/album/0vetA0VXGOhBjzaKO8DasX) | 3:52 |
 | 100 | [Don't Care](https://open.spotify.com/track/3gAxhEtNqFlCLvN6DDKdth) | [Tatiana Hazel](https://open.spotify.com/artist/5NvrRBcK6hRuboOL0CtZXU) | [DUALITY](https://open.spotify.com/album/1mHk73bDEklzG02PtK4lv4) | 3:16 |
 
-Snapshot ID: `MTY2MjQ4MjI5MSwwMDAwMDAwMGU0NzU3MWRhZGI3NTIyOTQwM2NjNjRkYWY1ZmJhMTY4`
+Snapshot ID: `MTY2MjQ4MjI5MSwwMDAwMDAwMDMyNjZhNTkyMWYyMmI1MGQ3NTkyOWZlMGVlZmQyOTBm`

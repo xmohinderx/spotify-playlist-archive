@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZv6UE8BMPO0.md) - [plain]
 
 > Instrumental Christmas favorites to set the perfect mood for your swinging cocktail party this holiday season.
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,027 likes - 86 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,530 likes - 86 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZv6UE8BMPO0.md) - [plain]
 | 38 | [Joy to the World](https://open.spotify.com/track/5xKtM3Y9NrT5VeoVxrAerk) | [Tom Stills Quartet](https://open.spotify.com/artist/2AE39jS64KnonFYcLHAUv0) | [Jingle Bells](https://open.spotify.com/album/5QiRNuqANTMFeKdznWLy7o) | 1:28 |
 | 39 | [Happy Christmas, Little Friend](https://open.spotify.com/track/4k9rdBjThAkWE6dkGRT3a2) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [Happy Christmas, Little Friend](https://open.spotify.com/album/66xxXSW7xjV4bLQwj3FXtF) | 2:31 |
 | 40 | [Silent Night](https://open.spotify.com/track/1ly2fVX5oa3mEYIIJmZy7y) | [Duponte et Duponte](https://open.spotify.com/artist/2deWXMlH853VExXZNmSe5o) | [Silent Night](https://open.spotify.com/album/494ISYC4VJgaXehehLU6zI) | 3:03 |
-| 41 | [What Child Is This](https://open.spotify.com/track/1KYp6R9KfYSna86gFkIhq0) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [A Charlie Brown Christmas \[2012 Remastered & Expanded Edition\]](https://open.spotify.com/album/2XnNY3GEkbWHor5kyvXLu4) | 2:24 |
+| 41 | [What Child Is This](https://open.spotify.com/track/6UTEb3SExkT0sphhwsRjzB) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [Instrumental Christmas](https://open.spotify.com/album/2YxRD4GY8phq9uNHA5tNqx) | 2:21 |
 | 42 | [The Christmas Waltz](https://open.spotify.com/track/7ya0ZMfmZib659gPc1EffF) | [Tiny Stills Quartet](https://open.spotify.com/artist/5YxesetSDEooEMdNHKKDFk) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/05PvwbGSgcL5vwB7vOkYVd) | 2:44 |
 | 43 | [Toyland](https://open.spotify.com/track/3frljinYzzUNd5YRIF6xhj) | [Eli Starr Trio](https://open.spotify.com/artist/5oITtTq61bt7N9ZvaJf7G7) | [Happy Christmas](https://open.spotify.com/album/0vaiiGYLM0VxFC0Krfd1zq) | 3:53 |
 | 44 | [Let It Snow](https://open.spotify.com/track/3DQFbtGXEnr4uWIh04ljQr) | [Greydon Park Band](https://open.spotify.com/artist/6pZIC4vzuNxdwy8hJSq29S) | [Jingle Bell Rock](https://open.spotify.com/album/1ZToBj4EZu8gnR2hLsrFwW) | 2:03 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZv6UE8BMPO0.md) - [plain]
 | 85 | [Frosty the snowman](https://open.spotify.com/track/1TT5txDzWtg7OF8BhS1lWa) | [Gillian Spencer Trio](https://open.spotify.com/artist/4NopJ2j5J608OXktrn5IAM) | [Here Comes Santa Claus](https://open.spotify.com/album/3KANZfLdfrcTDDYaIKWstX) | 2:09 |
 | 86 | [Greensleeves](https://open.spotify.com/track/3yUhFUj9GsId8yqwNIMndK) | [Roddy Doyle Trio](https://open.spotify.com/artist/2NpfQuA1kHiGx9LHgDx4p3) | [It's Christmas in New York](https://open.spotify.com/album/2DmDhBWAZQXULbEPjCtUKI) | 2:16 |
 
-Snapshot ID: `MTY2ODEyMTI2MCwwMDAwMDAwMDA2ZjQwMzI0ZTY2NjRkNDMwZWU5ZWFlYzViZTAyMDJh`
+Snapshot ID: `MTY2ODEyMTI2MCwwMDAwMDAwMDA0NTNjNmMwNmRhNmUwMGU0ZDVmOGU1MDEzZWMyYzNi`

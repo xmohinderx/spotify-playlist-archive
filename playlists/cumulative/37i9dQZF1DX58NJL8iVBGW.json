@@ -811,7 +811,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 203546,
       "name": "Country Blues",
       "url": "https://open.spotify.com/track/4902sigaZA0IflQ6FdWmtk"
@@ -923,7 +923,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 128893,
       "name": "Death Don't Have No Mercy",
       "url": "https://open.spotify.com/track/0BCtG2fGjxoztlnetLoqBc"
@@ -1961,7 +1961,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 245070,
       "name": "Ireland",
       "url": "https://open.spotify.com/track/2RSenaqtDSbjwLWkVdngHW"
@@ -2621,6 +2621,24 @@
       "duration_ms": 370573,
       "name": "Red Right Hand",
       "url": "https://open.spotify.com/track/7HrpPxCR5OYislYvUT4h79"
+    },
+    {
+      "album": {
+        "name": "Lovely Creatures - The Best of Nick Cave and The Bad Seeds (1984-2014) [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/05hXano83YIfeLyfdOoMIf"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2022-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370573,
+      "name": "Red Right Hand - 2011 Remastered Version",
+      "url": "https://open.spotify.com/track/0TiYwuMsemJ0Q9JLWxTjSx"
     },
     {
       "album": {

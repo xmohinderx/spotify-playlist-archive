@@ -4,7 +4,7 @@
 
 > The most calming classical music.
 
-97 songs - 6 hr 6 min - [published](https://open.spotify.com/playlist/4qTfIMAROPU0maC8UIPwXd)
+98 songs - 6 hr 9 min - [published](https://open.spotify.com/playlist/4qTfIMAROPU0maC8UIPwXd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Walk With Us \- For Black Lives Matter](https://open.spotify.com/track/6XmozAAnvBf2VtLL53AkX0) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Walk With Us \(For Black Lives Matter\)](https://open.spotify.com/album/4SjtGpWBAs4PysnpKEg4xu) | 2:00 | 2021-11-15 |  |
 | [Wasserklavier](https://open.spotify.com/track/3LRYwBJECFeQGi16cPxEZY) | [David Arden](https://open.spotify.com/artist/70xr7TopAcWrip0NJWDmOc) | [Luciano Berio \- The Complete Works For Solo Piano](https://open.spotify.com/album/2bYrUpinp9EtQYTsA5h2Wb) | 2:02 | 2022-01-19 |  |
 | [Winter](https://open.spotify.com/track/0TnTf6JpDE2tQoO83zZfD0) | [Ola Gjeilo](https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G) | [Winter](https://open.spotify.com/album/66JvWa2FrAi03M673DXRc7) | 3:08 | 2021-11-15 | 2022-07-29 |
-| [Winter](https://open.spotify.com/track/6k5iJy3uIEhaqZu9MCGCiq) | [Ola Gjeilo](https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G) | [Seasons](https://open.spotify.com/album/5wXv0fuobRh6ZzrJvuHveh) | 3:08 | 2022-07-22 |  |
+| [Winter](https://open.spotify.com/track/6OfnyXVkDHyhbgVTdObIVC) | [Ola Gjeilo](https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G) | [Piano Christmas](https://open.spotify.com/album/4VcK2JO5ukSHjTPK25z0jG) | 3:08 | 2022-11-09 |  |
+| [Winter](https://open.spotify.com/track/6k5iJy3uIEhaqZu9MCGCiq) | [Ola Gjeilo](https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G) | [Seasons](https://open.spotify.com/album/5wXv0fuobRh6ZzrJvuHveh) | 3:08 | 2022-07-22 | 2022-11-12 |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

@@ -37,7 +37,7 @@
       ],
       "date_added": "2019-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 448914,
       "name": "Akula Owu Onyeara",
       "url": "https://open.spotify.com/track/0X7mNbVv1YYJ8SrAk4AsiT"
@@ -233,6 +233,46 @@
       "duration_ms": 373333,
       "name": "Greetings",
       "url": "https://open.spotify.com/track/03P5b745wtD0qS5IdNtrh9"
+    },
+    {
+      "album": {
+        "name": "The Best Of Victor Uwaifo, Vol. 1",
+        "url": "https://open.spotify.com/album/6J90hIcZh9EsJZmQa1YfLD"
+      },
+      "artists": [
+        {
+          "name": "Sir Victor Uwaifo",
+          "url": "https://open.spotify.com/artist/2hCi6vXJyyTG9szd63b4LU"
+        },
+        {
+          "name": "His Titibitis",
+          "url": "https://open.spotify.com/artist/76SmGMAqB730ySrA79c6hm"
+        }
+      ],
+      "date_added": "2019-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353106,
+      "name": "Guitar Boy",
+      "url": "https://open.spotify.com/track/2Sj8A8FS3wiv0B5pIFklg9"
+    },
+    {
+      "album": {
+        "name": "Happy Birthday",
+        "url": "https://open.spotify.com/album/02FKQ2rc5f7XmB03EcFN4m"
+      },
+      "artists": [
+        {
+          "name": "Evi-Edna Ogholi",
+          "url": "https://open.spotify.com/artist/0anRNdIauPbIhAdygRLJVL"
+        }
+      ],
+      "date_added": "2019-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339386,
+      "name": "Happy Birthday",
+      "url": "https://open.spotify.com/track/6GkCK4jJhwQDOnGKXxmvmN"
     },
     {
       "album": {
@@ -857,7 +897,7 @@
       ],
       "date_added": "2020-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 353266,
       "name": "Special Star",
       "url": "https://open.spotify.com/track/5mxIhvGxDJ56wxOQnDNHnt"

@@ -172,6 +172,24 @@
     },
     {
       "album": {
+        "name": "Once Upon a Time In Africa",
+        "url": "https://open.spotify.com/album/75zZ8xLGSeF0UFE5K0kMrj"
+      },
+      "artists": [
+        {
+          "name": "Cassper Nyovest",
+          "url": "https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260413,
+      "name": "Baby Girl",
+      "url": "https://open.spotify.com/track/14dcMfyhHV1vUdXXfiTuW1"
+    },
+    {
+      "album": {
         "name": "Thuto",
         "url": "https://open.spotify.com/album/5eqTNk3knYSiqlpcUT91z7"
       },
@@ -183,7 +201,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 260413,
       "name": "Baby Girl",
       "url": "https://open.spotify.com/track/5qJpQEJKN2lvm0szJhyvdz"
@@ -1067,10 +1085,28 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 223320,
       "name": "Naogopa",
       "url": "https://open.spotify.com/track/0vybWIHJOFMSwMVJQpAFxv"
+    },
+    {
+      "album": {
+        "name": "Naogopa",
+        "url": "https://open.spotify.com/album/1CUXqJ0kl6wgeZ3mih9DXP"
+      },
+      "artists": [
+        {
+          "name": "Rayvanny",
+          "url": "https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223320,
+      "name": "Naogopa",
+      "url": "https://open.spotify.com/track/3RZR4vq0AtTx1NZvfH85Bc"
     },
     {
       "album": {

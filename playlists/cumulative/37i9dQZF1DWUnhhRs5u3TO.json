@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 226466,
       "name": "1000hp",
       "url": "https://open.spotify.com/track/2DpLoT8qfJdZhsLGFg413r"
@@ -199,7 +199,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-07",
+      "date_removed": null,
       "duration_ms": 256872,
       "name": "Addicted To Pain",
       "url": "https://open.spotify.com/track/74ODL6xFR2erTu2mvXFIDz"
@@ -2687,7 +2687,7 @@
       ],
       "date_added": "2022-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 206903,
       "name": "Jekyll and Hyde",
       "url": "https://open.spotify.com/track/5MjkeHk6I0JA0q13eqtnJP"
@@ -3199,7 +3199,7 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 273194,
       "name": "Lost In The Static",
       "url": "https://open.spotify.com/track/7zKoAeplPMS3bcqIZ4crp4"
@@ -3567,7 +3567,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 209786,
       "name": "No Grave but the Sea",
       "url": "https://open.spotify.com/track/5ZOCDXK5pMJ3n3zBPTp1uT"
@@ -3801,7 +3801,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 277714,
       "name": "Perennial",
       "url": "https://open.spotify.com/track/2eqFIWCNNKU94iFUvBCOMR"
@@ -4739,7 +4739,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 239493,
       "name": "Son of a Wolf",
       "url": "https://open.spotify.com/track/69A78zQYA5z0mqmkNZd7rz"
@@ -4955,7 +4955,7 @@
       ],
       "date_added": "2022-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 265823,
       "name": "St\u00e5lf\u00e5gel",
       "url": "https://open.spotify.com/track/4HOVQhtjFCRGY9PnsLoR86"
@@ -5157,6 +5157,24 @@
       "duration_ms": 281332,
       "name": "The Black",
       "url": "https://open.spotify.com/track/4ORXSxr4tV5H6gH5KHAiAh"
+    },
+    {
+      "album": {
+        "name": "The Black",
+        "url": "https://open.spotify.com/album/0IH8nMaCZC4A7DcGR7fW0V"
+      },
+      "artists": [
+        {
+          "name": "Asking Alexandria",
+          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281332,
+      "name": "The Black",
+      "url": "https://open.spotify.com/track/6GoHTm0vZGTcs7I87HUIdX"
     },
     {
       "album": {
@@ -6371,7 +6389,7 @@
       ],
       "date_added": "2022-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 271000,
       "name": "Wrong Side of Heaven",
       "url": "https://open.spotify.com/track/0gMTjqQCHmQpCqmmeCy2wP"

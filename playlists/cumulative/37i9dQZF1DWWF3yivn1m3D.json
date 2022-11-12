@@ -959,7 +959,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 378760,
       "name": "Leave No Man Behind",
       "url": "https://open.spotify.com/track/0eNT9B4PjPpzmOTFSbUWjh"
@@ -981,6 +981,24 @@
       "duration_ms": 378760,
       "name": "Leave No Man Behind",
       "url": "https://open.spotify.com/track/0huGF7tTEVqgT0Xa4PWedg"
+    },
+    {
+      "album": {
+        "name": "Hans Zimmer: Film Music",
+        "url": "https://open.spotify.com/album/507Bj2whrivyVx5H7Zdpd0"
+      },
+      "artists": [
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378760,
+      "name": "Leave No Man Behind",
+      "url": "https://open.spotify.com/track/4CY673yjMFoQRG7OnV1wZ2"
     },
     {
       "album": {
@@ -1425,10 +1443,36 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 271266,
       "name": "Planet Earth II Suite",
       "url": "https://open.spotify.com/track/0PnLxRZKlGsla3Mbg7xMOd"
+    },
+    {
+      "album": {
+        "name": "Planet Earth II Suite",
+        "url": "https://open.spotify.com/album/0gE8ViLEglBGqYaH7YF0tr"
+      },
+      "artists": [
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        },
+        {
+          "name": "Jacob Shea",
+          "url": "https://open.spotify.com/artist/0ZjUUrNDmi4N4Ey5UTMebc"
+        },
+        {
+          "name": "Jasha Klebe",
+          "url": "https://open.spotify.com/artist/7owBDVkVmRAeJINp1Ou9N3"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271266,
+      "name": "Planet Earth II Suite",
+      "url": "https://open.spotify.com/track/6G3s7bng1VqM5aYyI9KMfB"
     },
     {
       "album": {

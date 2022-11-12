@@ -4,7 +4,7 @@
 
 > Sitar, flute, and sounds inspired by India.
 
-127 songs - 9 hr 50 min - [published](https://open.spotify.com/playlist/35PeRJtM8vZWEeAUhuM5S9)
+129 songs - 9 hr 58 min - [published](https://open.spotify.com/playlist/35PeRJtM8vZWEeAUhuM5S9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Heartbreak \(From "White Note"\)](https://open.spotify.com/track/5qXNfo9GL49GtJfhAVAzpK) | [Bickram Ghosh](https://open.spotify.com/artist/5OKmLebAGFQrReDP0cS5GA) | [In The Lounge](https://open.spotify.com/album/0s3INweVmhtbCmBzDcK3Qg) | 6:25 | 2022-04-04 | 2022-07-29 |
 | [Hope](https://open.spotify.com/track/0UcmCmfs4dwM2d931pgyjy) | [The Sinis Spirit](https://open.spotify.com/artist/4FQayJgrEjwuTnwghtmrE9) | [Hope](https://open.spotify.com/album/56Is3vrKgrVrgEyLXwyAed) | 3:42 | 2022-04-04 |  |
 | [In the Far Away Distance](https://open.spotify.com/track/1oHDNBIxtHai4IcMQ4mJuL) | [Zen Gaya](https://open.spotify.com/artist/5zC4k86g6y3NsIvUwFVX1G) | [In the Far Away Distance](https://open.spotify.com/album/6hxNWvBvsKr4mV1YAjz9HS) | 2:56 | 2022-04-04 |  |
+| [Indian Ocean](https://open.spotify.com/track/33mxyPXe3sKUjSxUtljWUM) | [Jasmon](https://open.spotify.com/artist/0YJZvddTNiDjJCFjFVtqx8), [Slow World](https://open.spotify.com/artist/7IU3IM27vQRYGiBvEkyhti) | [Indian Ocean](https://open.spotify.com/album/7wfkuCJJFfBmg55eTcDcuY) | 3:19 | 2022-11-11 |  |
 | [Indian Song](https://open.spotify.com/track/7yAAcErAnwMpDOlVYEaTpl) | [Fold The Sun](https://open.spotify.com/artist/5SOUv2efO5CO6gerIKJlQJ) | [Indian Song](https://open.spotify.com/album/2wGJAE9NZVHEai5PsbI8IB) | 3:30 | 2022-04-04 |  |
 | [Indigo Sky](https://open.spotify.com/track/4KzvtA2qC064UtkxRVsBeE) | [Narmada Shore](https://open.spotify.com/artist/3560FDhIsM3cOYJufizogC) | [Inhale Exhale](https://open.spotify.com/album/0pjLFW61AV1xvnAaSkcEgU) | 3:32 | 2022-06-24 |  |
 | [indriya](https://open.spotify.com/track/2kW2cm8R1FEukN8K2WMtiu) | [Dhani Bhagat](https://open.spotify.com/artist/4nJNF3n7utXCdvAJyEsPy6) | [phir milenge](https://open.spotify.com/album/5cIVE1dbRd4usP53KZYABL) | 3:20 | 2022-07-11 |  |
@@ -62,6 +63,7 @@
 | [Kirwani](https://open.spotify.com/track/3uEHOHPX2pDBLQ6QHWBpZs) | [Tenderlonious](https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo), [Jaubi](https://open.spotify.com/artist/3nb0xF02MfjP2lM9zVNgnp) | [Ragas from Lahore: Improvisations with Jaubi](https://open.spotify.com/album/7a3OBCH6fWKGb1MuKpIBKn) | 4:32 | 2022-04-04 | 2022-07-29 |
 | [Koodu Beat](https://open.spotify.com/track/3eWSufYeo9lVW9QvorDuPz) | [Qalander](https://open.spotify.com/artist/1fgzNEfvwvl89CVNprnohN) | [Koodu Beat](https://open.spotify.com/album/2HMB79pfnDfhWUtC3uosfV) | 3:35 | 2022-04-04 |  |
 | [Lok Samastha \- Instrumental Version](https://open.spotify.com/track/4l3rzdMhFlvk48wCQhAqyN) | [Pawan Krishna](https://open.spotify.com/artist/7MYonYhUeKuW4KKXg3EJ1O) | [Indigo Sky](https://open.spotify.com/album/10s61p3x4e2Y3wBR7kgQz5) | 2:44 | 2022-10-08 |  |
+| [Lost Love of the Rabab](https://open.spotify.com/track/7ulAelTJXZwz75syvdVx4V) | [Palace on Wheels](https://open.spotify.com/artist/0uZC41CwMO6fAbyQQzmjcv) | [Lost Love of the Rabab](https://open.spotify.com/album/3baiVoyNz2OCXGE69Iyo1I) | 4:34 | 2022-11-11 |  |
 | [Loving\-Kindness](https://open.spotify.com/track/4YQn86jDGtlXovQJT9nwiB) | [Vimassana](https://open.spotify.com/artist/1JwJysIUFMsM5HjV5fJvGv) | [Loving\-Kindness](https://open.spotify.com/album/0cHpCmG4oLbGPStNrpdgMD) | 2:50 | 2022-04-04 |  |
 | [Magnetic](https://open.spotify.com/track/31Wui18tjMUSmIig5fvf6o) | [Tabla Beat Science](https://open.spotify.com/artist/4jd6GufdXsJXzwXXb0zX2T) | [Tala Matrix](https://open.spotify.com/album/7K5JvSfWk1vQNdS9V5DNxu) | 7:43 | 2022-04-04 | 2022-09-07 |
 | [Matunga Road](https://open.spotify.com/track/1xyPoM0HauExUsfEaIzdF0) | [Pawan Krishna](https://open.spotify.com/artist/7MYonYhUeKuW4KKXg3EJ1O) | [Moksha](https://open.spotify.com/album/0Kv8gZ0PQe6Bm7CP9Pv9qY) | 3:17 | 2022-05-16 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5FgmqNGPLc.md) - [plain]
 
 > All live, all jazz\. Cover: Erroll Garner
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,851 likes - 94 songs - 14 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,873 likes - 94 songs - 14 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5FgmqNGPLc.md) - [plain]
 | 13 | [Soul Eyes \(Live\)](https://open.spotify.com/track/1QtKtRFcCtacDvGWEhe5uP) | [Mal Waldron](https://open.spotify.com/artist/4cP0bprQSFtZdI9QEKKZA3) | [Soul Eyes \(Live\)](https://open.spotify.com/album/0rOjjtD2olUaP8hRt4DOy0) | 8:49 |
 | 14 | [マネー・ジャングル \- Live](https://open.spotify.com/track/72lmCMKToDf2R7vyeU5qbd) | [桑原あい](https://open.spotify.com/artist/6ATrUDyyYVTcuJPnlafenR) | [Money Jungle \(Live\)](https://open.spotify.com/album/48IZ2dCDjfGQ3jdg4jfCjO) | 5:47 |
 | 15 | [Pops \(AKA When the Saints Go Marching In\) \- Live](https://open.spotify.com/track/6FbS0wgTrEHAB7O7xVo7dx) | [Charles Mingus](https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H) | [The Lost Album from Ronnie Scott’s \(Live\)](https://open.spotify.com/album/3uB6lXxaCmjy76Spz1Gv9A) | 7:35 |
-| 16 | [Heart Song \- Live](https://open.spotify.com/track/1tcpNKH7NWjoPZaELScpd2) | [Søren Lee](https://open.spotify.com/artist/6GyDK2ZWQXmx7sb3ltOvgJ), [Niclas Campagnol](https://open.spotify.com/artist/1VqIpsJWDzAFIxWXCGCLuL), [Linley Marthe](https://open.spotify.com/artist/1gn2Mn6Rn5RD29DcdE8CLo) | [There's a Reason for Things to Do \(Live\)](https://open.spotify.com/album/6TTm8BfUM3bK3hZOJSX9m1) | 7:09 |
+| 16 | [Heart Song \- Live](https://open.spotify.com/track/1RXHyG91v8csxeYjRaFOKM) | [Niclas Campagnol](https://open.spotify.com/artist/1VqIpsJWDzAFIxWXCGCLuL), [Søren Lee](https://open.spotify.com/artist/6GyDK2ZWQXmx7sb3ltOvgJ), [Linley Marthe](https://open.spotify.com/artist/1gn2Mn6Rn5RD29DcdE8CLo) | [Søren Lee Diversity Trio \(Live in Copenhagen\)](https://open.spotify.com/album/0ZPJEqimgcsWwvdqoNdI9k) | 7:09 |
 | 17 | [Chelsea Bridge](https://open.spotify.com/track/0w83dRmOWHezPfzDGD7bYC) | [Joris Teepe](https://open.spotify.com/artist/6O2Rqtez6yYTnUjW7804Nz), [Chris Potter](https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB), [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q) | [Chelsea Bridge](https://open.spotify.com/album/0V4zIOu1Fa82EUShYq8Epf) | 6:35 |
 | 18 | [Latino Suite \- Live](https://open.spotify.com/track/39d6rn4ftwAGaEOjDVqDdg) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr), [Freddie Hubbard Quartet](https://open.spotify.com/artist/2BP1CjtFdJwjtS082ptpSJ) | [Live at Fabrik Hamburg 1986](https://open.spotify.com/album/57TC45obhfyPmfCpoE9NcK) | 14:36 |
 | 19 | [The Muse \- Live in New York City, February 8, 1975](https://open.spotify.com/track/31qdHIkBXaXoCoWTUnDIYh) | [Alan Braufman](https://open.spotify.com/artist/2e0U1o784LrLomZQcvKH6H) | [Live in New York City, February 8, 1975](https://open.spotify.com/album/4Hnv8GaFa8kQgOUn1WeJtM) | 5:55 |
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5FgmqNGPLc.md) - [plain]
 | 93 | [Sweet Georgia Brown \(Live\)](https://open.spotify.com/track/6ptWwk9T4s1CBWNRV1w975) | [Anat Cohen](https://open.spotify.com/artist/64uVMGwRMxvNbymPIveiZH), [Benny Green](https://open.spotify.com/artist/4g55GmK5iQOyCoDdQCzWKZ), [Peter Washington](https://open.spotify.com/artist/6t5ibafOkoWm4GveO6lBzp), [Lewis Nash](https://open.spotify.com/artist/2v2TVDl1P2YDSy9jXntWFt) | [Clarinetwork: Live at the Village Vanguard](https://open.spotify.com/album/3brnYanZeSKFMtx9JGuqaf) | 7:25 |
 | 94 | [Air Pakistan](https://open.spotify.com/track/3KuhFmxiL8cbFdJs8LobPk) | [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK) | [Live](https://open.spotify.com/album/7EpgY8SeCWDsNAN9rZTOUb) | 9:41 |
 
-Snapshot ID: `MTY2NjMyNDg2MCwwMDAwMDAwMDg2OWM0Yzc2ODM3ZWI0NGNlMjc1YWNlNWE0ODE2NTk1`
+Snapshot ID: `MTY2NjMyNDg2MCwwMDAwMDAwMDAzZjY1N2E4NTkwZjQxYWJjMmI3ODFkN2JkMWUwYmU3`

@@ -4,7 +4,7 @@
 
 > A collection of the best recent Prog Rock tracks\. Cover: Steve Vai
 
-104 songs - 9 hr 10 min - [published](https://open.spotify.com/playlist/3ztjRpgCKn1hLb0zkDuLj3)
+106 songs - 9 hr 25 min - [published](https://open.spotify.com/playlist/3ztjRpgCKn1hLb0zkDuLj3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [Blood Moon](https://open.spotify.com/track/2Hf617oOAOOweOpLdsnGmr) | [Converge](https://open.spotify.com/artist/7kHzfxMLtVHHb523s43rY1), [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [Blood Moon](https://open.spotify.com/album/7CgshNfNl5h5CNYR9RVPKi) | 7:50 | 2022-05-20 |  |
 | [Blood Moon Night](https://open.spotify.com/track/4Z4RfWMnxsBG7Fs5KvEVGY) | [Kadavar](https://open.spotify.com/artist/0FfuujZJUa7Z2JzhhiPI2z), [Elder](https://open.spotify.com/artist/1687IqXRdWmbRshgn194tT) | [ELDOVAR \- A Story of Darkness & Light](https://open.spotify.com/album/2SN8LGMcmauPEAr4BLiT6e) | 11:04 | 2022-05-20 |  |
 | [Break It All](https://open.spotify.com/track/1SdxRh3a4qUs3HJcJvsHjr) | [The Pineapple Thief](https://open.spotify.com/artist/4lrBMUSk8PiNnCEZfsmPAk) | [Break It All](https://open.spotify.com/album/4LpRz5IwhznG4gHWeLHcTU) | 4:21 | 2022-05-20 |  |
-| [Broken](https://open.spotify.com/track/0ptQlbSYNp8yKAtHWKRB3f) | [The Flower Kings](https://open.spotify.com/artist/0BI5vXwUl4lZMtARfXQ0No) | [Islands](https://open.spotify.com/album/0cdFTrG6rPXUjcOhBpS6qH) | 6:47 | 2022-05-20 |  |
+| [Broken](https://open.spotify.com/track/0ptQlbSYNp8yKAtHWKRB3f) | [The Flower Kings](https://open.spotify.com/artist/0BI5vXwUl4lZMtARfXQ0No) | [Islands](https://open.spotify.com/album/0cdFTrG6rPXUjcOhBpS6qH) | 6:47 | 2022-05-20 | 2022-11-12 |
+| [Broken](https://open.spotify.com/track/54vAjEj8qRM4cwYCCQWb31) | [The Flower Kings](https://open.spotify.com/artist/0BI5vXwUl4lZMtARfXQ0No) | [Broken](https://open.spotify.com/album/1xYzQiyuN22148NQClXDd0) | 6:47 | 2022-05-20 |  |
 | [Broken](https://open.spotify.com/track/6b5xAENeyuvpA3gRwuKAQs) | [The Flower Kings](https://open.spotify.com/artist/0BI5vXwUl4lZMtARfXQ0No) | [Broken](https://open.spotify.com/album/06ixIi6RB7vy0ns1bUIfpg) | 6:47 | 2022-05-20 | 2022-07-29 |
 | [Castaway Angels](https://open.spotify.com/track/3Gy5q1K4nTwDVVtyQWYv3t) | [Leprous](https://open.spotify.com/artist/4lgrzShsg2FLA89UM2fdO5) | [Castaway Angels](https://open.spotify.com/album/0DSyIQMgYhiwjeh7PW2IRB) | 4:55 | 2022-05-20 |  |
 | [Closer](https://open.spotify.com/track/5TUn5aeSBFYKiQFLO3fE5N) | [Rolo Tomassi](https://open.spotify.com/artist/3uHCTHxtg3IVAvhyrYsZvI) | [Closer](https://open.spotify.com/album/1at11cxee5blIgarVbwuY0) | 5:15 | 2022-05-20 |  |
@@ -68,7 +69,8 @@
 | [Picture Perfect](https://open.spotify.com/track/7ftAV0BluUCWNRAP8o9um9) | [Coliah](https://open.spotify.com/artist/0IuJmtLkQJDC3Q4NjqDQqN) | [Picture Perfect](https://open.spotify.com/album/0F4XuURxfUG5yUwtdjuewY) | 4:15 | 2022-05-20 |  |
 | [Portrait](https://open.spotify.com/track/61OLiZOlb72LJCfl5zVMcG) | [Unprocessed](https://open.spotify.com/artist/13GH7wviJQ9gfZmr1pXHS4) | [Portrait](https://open.spotify.com/album/28dDtNxyObSHx2v0fP3SnO) | 4:03 | 2022-05-20 |  |
 | [Punchin'](https://open.spotify.com/track/1VhH0ZimszA3aPx0JiBAvb) | [The Beefs](https://open.spotify.com/artist/05Q0d2MnKH75xfeXzGDPnX) | [Punchin'](https://open.spotify.com/album/1Mcvljl7BijHztqsa9xFHL) | 3:04 | 2022-05-20 |  |
-| [Raining Hard in Heaven](https://open.spotify.com/track/5uNzKTuYIIumgD63UyHbkV) | [Pattern\-Seeking Animals](https://open.spotify.com/artist/3X2gxHjnxuXGLgs0nrqMuW) | [Prehensile Tales](https://open.spotify.com/album/77hPi3aKn8PRfcyh7GUjqY) | 8:31 | 2022-05-20 |  |
+| [Raining Hard in Heaven](https://open.spotify.com/track/1cWjXUH01GLNqv338A69Od) | [Pattern\-Seeking Animals](https://open.spotify.com/artist/3X2gxHjnxuXGLgs0nrqMuW) | [Raining Hard in Heaven](https://open.spotify.com/album/58wt8eVfJX3Hr9B9HrlWHt) | 8:31 | 2022-05-20 |  |
+| [Raining Hard in Heaven](https://open.spotify.com/track/5uNzKTuYIIumgD63UyHbkV) | [Pattern\-Seeking Animals](https://open.spotify.com/artist/3X2gxHjnxuXGLgs0nrqMuW) | [Prehensile Tales](https://open.spotify.com/album/77hPi3aKn8PRfcyh7GUjqY) | 8:31 | 2022-05-20 | 2022-11-12 |
 | [Raining Hard in Heaven](https://open.spotify.com/track/6b6Ap6kxz1l9JtfTHBt3s9) | [Pattern\-Seeking Animals](https://open.spotify.com/artist/3X2gxHjnxuXGLgs0nrqMuW) | [Raining Hard in Heaven](https://open.spotify.com/album/3zemM1zBtUSnspTVJvRevt) | 8:31 | 2022-05-20 | 2022-07-29 |
 | [Revel in Time](https://open.spotify.com/track/2CmQeA8YUtZDMp2tUsuqj1) | [Arjen Anthony Lucassen's Star One](https://open.spotify.com/artist/1W5pfX7IGyw9wCmfARg1pi) | [Revel in Time](https://open.spotify.com/album/4F4zzCVXkFuDiH9pnf88Jk) | 4:37 | 2022-05-20 |  |
 | [Right Way Back](https://open.spotify.com/track/0GWtq4OpB8fylZWRnrYuwS) | [Crown Lands](https://open.spotify.com/artist/0MnazDWzh4tAnT5y4vWZFr) | [Context: Fearless Pt\. I \(Live Expanded\)](https://open.spotify.com/album/6m92p6SwyPE78eIw45rtpO) | 3:51 | 2022-05-20 | 2022-10-25 |

@@ -4,7 +4,7 @@
 
 > dig through the record bin.
 
-179 songs - 11 hr 49 min - [published](https://open.spotify.com/playlist/1mhOfY9jjNkvaWM7mCmBjC)
+180 songs - 11 hr 52 min - [published](https://open.spotify.com/playlist/1mhOfY9jjNkvaWM7mCmBjC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Between the Bars](https://open.spotify.com/track/3mtIUX9LrCpIUiAAv9SD4a) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or](https://open.spotify.com/album/6KMdn9HDIqcBPaaok0K34K) | 2:21 | 2022-03-25 |  |
 | [Black Metallic](https://open.spotify.com/track/0jmyo9QOmFbjDCYpNaPDhy) | [Catherine Wheel](https://open.spotify.com/artist/1QPWAsWIjRcTfvY5uH8dov) | [Ferment](https://open.spotify.com/album/7LLZLkkBTR42Kb9JPRAzKb) | 7:18 | 2022-02-25 | 2022-07-29 |
 | [Blister In The Sun](https://open.spotify.com/track/2ugghimAssmeO3YpFIV7mb) | [Violent Femmes](https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy) | [Violent Femmes](https://open.spotify.com/album/1IgZxMsdWaIoYyMUGrO53Y) | 2:25 | 2022-02-25 | 2022-07-29 |
-| [Blister In The Sun](https://open.spotify.com/track/7jIAttgQTpLDoNtykIQXjH) | [Violent Femmes](https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy) | [Violent Femmes](https://open.spotify.com/album/0Ojio25IPzIrw1rUmgrhrG) | 2:25 | 2022-05-30 |  |
+| [Blister In The Sun](https://open.spotify.com/track/7jIAttgQTpLDoNtykIQXjH) | [Violent Femmes](https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy) | [Violent Femmes](https://open.spotify.com/album/0Ojio25IPzIrw1rUmgrhrG) | 2:25 | 2022-05-30 | 2022-11-12 |
 | [Blonde On Blonde](https://open.spotify.com/track/7uzbmVkKDp4VieUkbqJ3Vg) | [Nada Surf](https://open.spotify.com/artist/11zHPjHnZN0ACA50rSnTcy) | [Let Go](https://open.spotify.com/album/4zHS8jrrBCdAo11WtNaz8A) | 4:34 | 2022-02-25 | 2022-07-28 |
 | [Boxcar](https://open.spotify.com/track/43Jwg6NHpaYYJmGlPEdHol) | [Jawbreaker](https://open.spotify.com/artist/4bcaz6nXnH8LTRiXALe8XV) | [24 Hour Revenge Therapy \(Remastered\)](https://open.spotify.com/album/3n1jTsW0E5gEsiftAFx3N6) | 1:55 | 2022-02-25 |  |
 | [Boys On The Radio](https://open.spotify.com/track/34MbRO8ywxzIgM7h3e9Cug) | [Hole](https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn) | [Celebrity Skin](https://open.spotify.com/album/2KE8WCHtD8qnAxXeIzNEId) | 5:09 | 2022-03-25 | 2022-07-27 |
@@ -158,7 +158,7 @@
 | [Strange](https://open.spotify.com/track/0ETvqJscQ6HSCNGbAYZDb3) | [Galaxie 500](https://open.spotify.com/artist/6guTJsgPymDUVfqDJyz5UG) | [On Fire \(Deluxe Edition\)](https://open.spotify.com/album/1yTW4t7s6EAFsxo99nAF6e) | 3:17 | 2022-02-25 | 2022-07-29 |
 | [Strange](https://open.spotify.com/track/2TTAPkrGQQOZkaUTUlt21Q) | [Galaxie 500](https://open.spotify.com/artist/6guTJsgPymDUVfqDJyz5UG) | [On Fire](https://open.spotify.com/album/1qhNLXBmt1EW6Kwt2A3u8M) | 3:19 | 2022-05-30 | 2022-11-11 |
 | [Stuck Between Stations](https://open.spotify.com/track/35WmbtcmxN4RhL8uKmsErL) | [The Hold Steady](https://open.spotify.com/artist/3qkZBMz5JgmRN9u5wwhRC6) | [Boys And Girls in America \(Deluxe Edition\)](https://open.spotify.com/album/57AWidQq8F413VXmCJMVuE) | 4:09 | 2022-02-25 | 2022-07-29 |
-| [Sucked Out](https://open.spotify.com/track/4YN94yxYWFfhk9YbmOIqR4) | [Superdrag](https://open.spotify.com/artist/1UGwqiX4QA7R9hNBwzjavF) | [Regretfully Yours](https://open.spotify.com/album/6b2RjEtZ2jIYVlCkgCIW9C) | 2:46 | 2022-02-25 | 2022-07-29 |
+| [Sucked Out](https://open.spotify.com/track/4YN94yxYWFfhk9YbmOIqR4) | [Superdrag](https://open.spotify.com/artist/1UGwqiX4QA7R9hNBwzjavF) | [Regretfully Yours](https://open.spotify.com/album/6b2RjEtZ2jIYVlCkgCIW9C) | 2:46 | 2022-02-25 |  |
 | [Sugar Kane](https://open.spotify.com/track/6q03mlzKsM1m3TLpi6T6Cw) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6) | [Dirty](https://open.spotify.com/album/05Zo2yt4reflRVNXFOYxDD) | 5:57 | 2022-02-25 |  |
 | [Supernova](https://open.spotify.com/track/0xQ8FPMnv2mG9VhTgpxn2R) | [Liz Phair](https://open.spotify.com/artist/2LXeJdQVcFkhkWydphLI74) | [Whip\-Smart](https://open.spotify.com/album/7b2JNONmqJRtIKTofRdcFp) | 2:48 | 2022-02-25 |  |
 | [Teardrop](https://open.spotify.com/track/67Hna13dNDkZvBpTXRIaOJ) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X) | [Mezzanine](https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR) | 5:30 | 2022-03-25 |  |
@@ -168,7 +168,8 @@
 | [The Boy With the Arab Strap](https://open.spotify.com/track/5GPPI3rnZDptLYRN4vTUoZ) | [Belle and Sebastian](https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h) | [The Boy With the Arab Strap](https://open.spotify.com/album/0PnuQg8OK4KoOPrwhgyKRQ) | 5:14 | 2022-02-25 | 2022-07-29 |
 | [The Boy With The Arab Strap](https://open.spotify.com/track/2PV8oZJo3K3bXENO7FRRtp) | [Belle and Sebastian](https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h) | [The Boy With The Arab Strap](https://open.spotify.com/album/4AChnLbiWqxiotXz8kv6D7) | 5:14 | 2022-05-30 |  |
 | [The Concept](https://open.spotify.com/track/702Gf3Gh3NsC1KbCFrlrpe) | [Teenage Fanclub](https://open.spotify.com/artist/2Sp19cOHSqAUlE64hekARW) | [Bandwagonesque](https://open.spotify.com/album/4M6vPZ4hQdOeH07D0JO2JQ) | 6:07 | 2022-02-25 | 2022-07-28 |
-| [The Distance](https://open.spotify.com/track/1szwDbVdIdoQq5mG5GXAmJ) | [CAKE](https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV) | [Fashion Nugget](https://open.spotify.com/album/0xqBjioTJ32aszn90qV2m1) | 2:59 | 2022-05-30 |  |
+| [The Distance](https://open.spotify.com/track/1szwDbVdIdoQq5mG5GXAmJ) | [CAKE](https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV) | [Fashion Nugget](https://open.spotify.com/album/0xqBjioTJ32aszn90qV2m1) | 2:59 | 2022-05-30 | 2022-11-12 |
+| [The Distance](https://open.spotify.com/track/44aNG6BgQoDGQOgXpziWrL) | [CAKE](https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV) | [90 Sweet 90s Hits!](https://open.spotify.com/album/71WupOKqXgSrgg0CivZDHS) | 2:59 | 2022-05-30 |  |
 | [The Distance](https://open.spotify.com/track/0xMEF2WiqKWTIG7Krjungw) | [CAKE](https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV) | [Fashion Nugget](https://open.spotify.com/album/57lJNxlrPSin9SySEnerNb) | 2:59 | 2022-02-25 | 2022-07-29 |
 | [The Drowners](https://open.spotify.com/track/4Dj1sPu7MUYbY32Gwdu6vD) | [The London Suede](https://open.spotify.com/artist/6GuRYj1MEnu1WZhDA2Xy0t) | [Suede \(Deluxe Reissue\)](https://open.spotify.com/album/2IWi9UFlX48hNjdzitmSjA) | 4:10 | 2022-02-25 | 2022-07-29 |
 | [The Hardest Button to Button](https://open.spotify.com/track/3RdQfyk7BBxxIx0zSnCBIw) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Elephant](https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE) | 3:32 | 2022-02-25 |  |

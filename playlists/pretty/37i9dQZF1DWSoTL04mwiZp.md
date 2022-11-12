@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSoTL04mwiZp.md) - [plain]
 | 48 | [I Hope You Dance](https://open.spotify.com/track/65B1tEOv5W294uCKbmEcFV) | [Lee Ann Womack](https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet) | [I Hope You Dance](https://open.spotify.com/album/5NwzdF5qHEtXT6SepzhWJv) | 4:54 |
 | 49 | [Oh! My Mama](https://open.spotify.com/track/1cqVLq0ZAuJ8xVTqygJZJ4) | [Alela Diane](https://open.spotify.com/artist/2QIHd0B2VIKlmLyoq4lUr7) | [The Pirate's Gospel](https://open.spotify.com/album/4cbZ94wBTQCvivwA7VxKdb) | 3:14 |
 | 50 | [Baby I'm Yours](https://open.spotify.com/track/5iUU0Jkby6iXV8I2xC5OcS) | [Rita Wilson](https://open.spotify.com/artist/60LfX8q7jliswygVxBPIL4) | [Am / Fm: The B\-Sides](https://open.spotify.com/album/4IJ12MKAjRgXcAqUv7k3mO) | 2:52 |
-| 51 | [Secret](https://open.spotify.com/track/4Py8X1NUwQjpwpOzsOqBAW) | [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [6: Commitment](https://open.spotify.com/album/6oO1IOd0bM6Bzk0Kzpi2v6) | 3:21 |
+| 51 | [Secret](https://open.spotify.com/track/4uwYNnstKzowAVD4pbqDRY) | [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [10's Ballads](https://open.spotify.com/album/4ce3VjMCB8wKOWEtGQvKqt) | 3:21 |
 | 52 | [This Angel](https://open.spotify.com/track/5Q9MQEOoKXaIOVqmSW8CYn) | [Jennifer Nettles](https://open.spotify.com/artist/2WV4xLQooFalR2cit0XSKp) | [That Girl \(Deluxe\)](https://open.spotify.com/album/7jCbgAamUZSkL2SUchiGyF) | 3:31 |
 | 53 | [Wish for You](https://open.spotify.com/track/7wDV6VoKGEWLRmIAU4e8gC) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Fireflies](https://open.spotify.com/album/7dtjpzbhRH1dc2gM0FLrqh) | 3:28 |
 | 54 | [Chiquitita](https://open.spotify.com/track/762B4bOcXF7I2Y8UlKTyTy) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Voulez\-Vous](https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh) | 5:26 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSoTL04mwiZp.md) - [plain]
 | 58 | [Lullaby For Wyatt](https://open.spotify.com/track/6g7ZJZrLi9DOJVvbKtRoiO) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Detours](https://open.spotify.com/album/245704RhuUXj2ty55RKoJh) | 4:07 |
 | 59 | [That's How Strong My Love Is](https://open.spotify.com/track/5BUanshsri15aT9FCHOY6t) | [The Sweet Inspirations](https://open.spotify.com/artist/1wonEkTZkBGYq7J4w56yZl) | [What The World Needs Now](https://open.spotify.com/album/07XkbaAYNsHEU1dFMrbn3t) | 2:15 |
 
-Snapshot ID: `MTY1MTgwOTcyMCwwMDAwMDAwMDgyYjdmNzZlZGJhNjVkYWUxYjBjMmJlMjliYzg2ZGY1`
+Snapshot ID: `MTY1MTgwOTcyMCwwMDAwMDAwMDUwMzUzMDJkZTQ0ZGQ3NmRhMjQ2MmY3YTE1YjE3YTBk`

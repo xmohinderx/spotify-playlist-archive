@@ -1857,7 +1857,7 @@
     {
       "album": {
         "name": "Kichwa Mbaya",
-        "url": "https://open.spotify.com/album/1Kv8fIpt2TjmXGshsbljT6"
+        "url": "https://open.spotify.com/album/0pQfxuRsGUFQR1GiPZcF6R"
       },
       "artists": [
         {
@@ -1876,6 +1876,32 @@
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 220728,
+      "name": "Kichwa Mbaya",
+      "url": "https://open.spotify.com/track/1Eytt6oPQrAovjGDS1iIdr"
+    },
+    {
+      "album": {
+        "name": "Kichwa Mbaya",
+        "url": "https://open.spotify.com/album/1Kv8fIpt2TjmXGshsbljT6"
+      },
+      "artists": [
+        {
+          "name": "Spice Entertainment",
+          "url": "https://open.spotify.com/artist/7eNGiqYytcIcklJCUt5AaS"
+        },
+        {
+          "name": "Boondocks Gang",
+          "url": "https://open.spotify.com/artist/2NCbtxsrqTAf0XWugY749q"
+        },
+        {
+          "name": "Odi Wa Murang'a",
+          "url": "https://open.spotify.com/artist/4LmwDeDzv98ZgzZ4Kbz3UH"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-12",
       "duration_ms": 220728,
       "name": "Kichwa Mbaya",
       "url": "https://open.spotify.com/track/3Y5PWzTgcRSXZvSalMnjyK"
@@ -2445,10 +2471,40 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 214529,
       "name": "Mapigo",
       "url": "https://open.spotify.com/track/28NbF5GIi1k5Rmkqb95y4m"
+    },
+    {
+      "album": {
+        "name": "Mapigo",
+        "url": "https://open.spotify.com/album/6qn5BLnV7cCKjfTOkMvQ2F"
+      },
+      "artists": [
+        {
+          "name": "Sudi Boy",
+          "url": "https://open.spotify.com/artist/3FWvOlhDqlO3w7DK0BXueF"
+        },
+        {
+          "name": "Mejja",
+          "url": "https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u"
+        },
+        {
+          "name": "Kansoul",
+          "url": "https://open.spotify.com/artist/0rJjOn34J8OZF4rEanYo1W"
+        },
+        {
+          "name": "Tomani",
+          "url": "https://open.spotify.com/artist/2wjMzNZaxZnU6yVI99tsDn"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214529,
+      "name": "Mapigo",
+      "url": "https://open.spotify.com/track/7zE5SOZkynJGwOTWQhk0st"
     },
     {
       "album": {
@@ -2989,10 +3045,36 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 213288,
       "name": "Nawacha Pombe Remix (Feat Ssaru & Benzema)",
       "url": "https://open.spotify.com/track/0u34DWVuRf6hmWJDJx08gT"
+    },
+    {
+      "album": {
+        "name": "Nawacha Pombe Remix (Feat Ssaru & Benzema)",
+        "url": "https://open.spotify.com/album/1kNN171CDs85dUraRxampa"
+      },
+      "artists": [
+        {
+          "name": "Kushman",
+          "url": "https://open.spotify.com/artist/0iQVMwFTMDQumGIfqbV7gB"
+        },
+        {
+          "name": "Ssaru",
+          "url": "https://open.spotify.com/artist/1ARD1FbyU6v65XIlpYLbMW"
+        },
+        {
+          "name": "Benzema",
+          "url": "https://open.spotify.com/artist/4d1VrBTFkryAiW9l43GSgK"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213288,
+      "name": "Nawacha Pombe Remix (Feat Ssaru & Benzema)",
+      "url": "https://open.spotify.com/track/4mmCwOqDjsHc60WUSA5hDB"
     },
     {
       "album": {

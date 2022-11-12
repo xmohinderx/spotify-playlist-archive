@@ -4,7 +4,7 @@
 
 > ¡A rockear con los titanes de Perú! Foto: Afrodisiaco
 
-85 songs - 5 hr 24 min - [published](https://open.spotify.com/playlist/2TM16VdLTGsbk088ETOR0g)
+86 songs - 5 hr 31 min - [published](https://open.spotify.com/playlist/2TM16VdLTGsbk088ETOR0g)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,8 @@
 | [Tú y Yo](https://open.spotify.com/track/2Gsi2U5j3HUja7YcXkbr3B) | [Los Zopilotes](https://open.spotify.com/artist/3LjNoICptpY8EE21CHv46E) | [Más Peruanos Que el Rock, Vol\. 1](https://open.spotify.com/album/5uxCbEVfLhM7P1UoSrBrT0) | 2:16 | 2022-04-01 |  |
 | [Tú y Yo](https://open.spotify.com/track/76LGvZPmgiiOx5NUbhUZtH) | [Los Zopilotes](https://open.spotify.com/artist/3LjNoICptpY8EE21CHv46E) | [Peruvian Rock Anthology: Original Masterpieces, Vol\. 3 \(1993 \- 2001\)](https://open.spotify.com/album/4NptflPTkngrCanK5RZb2Y) | 2:18 | 2022-04-01 | 2022-11-11 |
 | [Tú y Yo](https://open.spotify.com/track/6EesgMPcFrCTh4AqMmC2LO) | [Los Zopilotes](https://open.spotify.com/artist/3LjNoICptpY8EE21CHv46E) | [Más Peruanos Que el Rock, Vol\. 1](https://open.spotify.com/album/35aOC07jH0evroYonYZjZh) | 2:19 | 2022-04-01 | 2022-10-06 |
-| [Un Día Sin Sexo](https://open.spotify.com/track/2Mvg1fyuwuZtWshE9v0M3g) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Lado B](https://open.spotify.com/album/6lAwgVT7xFEeZazlF95q2t) | 6:37 | 2022-04-01 |  |
+| [Un Día Sin Sexo](https://open.spotify.com/track/2Mvg1fyuwuZtWshE9v0M3g) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Lado B](https://open.spotify.com/album/6lAwgVT7xFEeZazlF95q2t) | 6:37 | 2022-04-01 | 2022-11-12 |
+| [Un Día Sin Sexo](https://open.spotify.com/track/2NQiAkkQGqHXg7HxPgI1IV) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Rock Peruano](https://open.spotify.com/album/4lrJX0gvqyOao3TAgmqAgx) | 6:37 | 2022-04-01 |  |
 | [Un Día Sin Sexo](https://open.spotify.com/track/5cmWOkiyVPPme4VeP9cZpR) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Lado B](https://open.spotify.com/album/3hPLzDRCvMNlQHtWB16DD0) | 6:37 | 2022-04-01 | 2022-07-29 |
 | [Un Ovni en Mi Jardín](https://open.spotify.com/track/6EO9B5nyP0cS1auCFDIbYF) | [Trama](https://open.spotify.com/artist/5HT6tm0lJBhS5Zl2tXC0WY) | [Trama](https://open.spotify.com/album/7c7gUfqJxX21nhpDIZ5rX8) | 3:21 | 2022-04-01 |  |
 | [Un Vino, Una Cerveza](https://open.spotify.com/track/5Q2J37xbIR60z6ifswoGKe) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Degeneracion Actual](https://open.spotify.com/album/6uvZ1iuFftQCFX3xuzbGJx) | 4:35 | 2022-04-01 |  |

@@ -4,7 +4,7 @@
 
 > Representando la cultura con orgullo\. Representing with pride! Cover: LAGOS
 
-124 songs - 7 hr 32 min - [published](https://open.spotify.com/playlist/4xACWEQcvbn1jztRRt6IeV)
+126 songs - 7 hr 41 min - [published](https://open.spotify.com/playlist/4xACWEQcvbn1jztRRt6IeV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,8 +90,9 @@
 | [Ojos Marrones](https://open.spotify.com/track/7gwT3HGL84vF7bgtwL1N88) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Ojos Marrones](https://open.spotify.com/album/5cgqNq1Esd6F0D1vQ9uD63) | 3:18 | 2022-07-01 |  |
 | [Pan Con Miel](https://open.spotify.com/track/76KXhl2WCGyc6B0dkhO61W) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Pan Con Miel](https://open.spotify.com/album/3550c67ffZKqFF19wbtM15) | 3:27 | 2021-12-17 | 2022-02-05 |
 | [Permanente](https://open.spotify.com/track/3lDXncCCsimJ17cHYodtRl) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Permanente](https://open.spotify.com/album/5CCwwqcE6HCHSBYgRNS4zz) | 3:55 | 2022-09-30 |  |
+| [Persona Ideal](https://open.spotify.com/track/4RqmUue0IPUaI9x1me5asq) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [Salsa Mix, Vol\. 3](https://open.spotify.com/album/1wOMY5o7ss0MptUEp8oitS) | 4:39 | 2022-09-30 |  |
 | [Persona Ideal](https://open.spotify.com/track/6RgTdJ485ABZ64HkWpEYon) | [Milleniun Hits](https://open.spotify.com/artist/0xbGf3FKLF3P3yzf1hecRY) | [Los Adolescentes](https://open.spotify.com/album/6S1EDLEQGq8iofwgUtJxas) | 4:42 | 2022-07-01 | 2022-07-29 |
-| [Persona Ideal \- Me Tengo Que Ir](https://open.spotify.com/track/4UHRMwbbiZ7tkeEkhyN7iB) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [Persona Ideal](https://open.spotify.com/album/3YuzaY1bX9uhlhWR0f19mP) | 4:39 | 2022-07-01 |  |
+| [Persona Ideal \- Me Tengo Que Ir](https://open.spotify.com/track/4UHRMwbbiZ7tkeEkhyN7iB) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [Persona Ideal](https://open.spotify.com/album/3YuzaY1bX9uhlhWR0f19mP) | 4:39 | 2022-07-01 | 2022-11-12 |
 | [Prende la Cámara RMX](https://open.spotify.com/track/5A1vGSsqw0UQCBxHOyPOjG) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Prende la Cámara RMX](https://open.spotify.com/album/4sMnAW8LBrLh7KL37MdTuo) | 3:32 | 2022-04-22 |  |
 | [Quiero \- TDH's Version](https://open.spotify.com/track/7e3cIM6xKrx10ermMTYu3L) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Quiero \(TDH's Version\)](https://open.spotify.com/album/0mPX5LdIJMkxNUDYhAHncL) | 2:37 | 2022-05-19 | 2022-10-01 |
 | [Reset](https://open.spotify.com/track/2vGR2udwxxgDzH1nRkIAAa) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Clásicos](https://open.spotify.com/album/0t8H6Wc8P63LO0zj7kwZuj) | 3:11 | 2021-12-17 |  |
@@ -121,7 +122,8 @@
 | [Una Fan Enamorada \- Salsa](https://open.spotify.com/track/0yccmoLCJ5J3Z2owPtdwgf) | [Servando & Florentino](https://open.spotify.com/artist/2sU7vdIXtvChlnXIcUliVe) | [Grandes Éxitos](https://open.spotify.com/album/6hwR8ta8BngmQSLZpICskl) | 4:51 | 2022-09-30 |  |
 | [Una Fan Enamorada \- Salsa](https://open.spotify.com/track/5XNeals8E3mLTZO2fmVPOB) | [Servando & Florentino](https://open.spotify.com/artist/2sU7vdIXtvChlnXIcUliVe) | [Los Primera](https://open.spotify.com/album/5hqjRB0TZER795NKsz9tf0) | 4:51 | 2021-12-17 | 2022-07-29 |
 | [Una Vez Más](https://open.spotify.com/track/2lucHwbjszH0cmxigzmtfd) | [Calle Ciega](https://open.spotify.com/artist/1itKPdyPUzkxqK58bw1Q8M) | [Grandes Exitos con Chino y Nacho](https://open.spotify.com/album/68vYBxgxScKS5KmJiCwBGe) | 3:50 | 2021-12-17 |  |
-| [Veronica](https://open.spotify.com/track/6r7Fr0fHtsUjfQFSbQeGeF) | [Caramelos De Cianuro](https://open.spotify.com/artist/34OLInsXImlQpjzmQw9Wd3) | [Miss Mujerzuela](https://open.spotify.com/album/3LU1q4hdfHd60WS6yjEZZP) | 4:13 | 2022-07-01 |  |
+| [Veronica](https://open.spotify.com/track/6r7Fr0fHtsUjfQFSbQeGeF) | [Caramelos De Cianuro](https://open.spotify.com/artist/34OLInsXImlQpjzmQw9Wd3) | [Miss Mujerzuela](https://open.spotify.com/album/3LU1q4hdfHd60WS6yjEZZP) | 4:13 | 2022-07-01 | 2022-11-12 |
+| [Veronica](https://open.spotify.com/track/7FUC7LjVt9vJHCOxBMMgkv) | [Caramelos De Cianuro](https://open.spotify.com/artist/34OLInsXImlQpjzmQw9Wd3) | [Miss Mujerzuela](https://open.spotify.com/album/4F2vs4bs1hsNJqRBFPFNJ2) | 4:13 | 2022-09-30 |  |
 | [Veronica](https://open.spotify.com/track/2qqASN7cEog305AqjU7Bmf) | [Caramelos De Cianuro](https://open.spotify.com/artist/34OLInsXImlQpjzmQw9Wd3) | [Miss Mujerzuela](https://open.spotify.com/album/0s8HORRvzAOMHXtWQMAsPK) | 4:17 | 2021-12-17 | 2022-07-29 |
 | [Virgen](https://open.spotify.com/track/6srBp90EwADKAF7PorGiUC) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [Ahora Más Que Nunca](https://open.spotify.com/album/23TxGN2lFbBkvSIL1yVDKk) | 4:31 | 2021-12-17 |  |
 | [Vivo Pensando En Ti \(feat\. Maluma\)](https://open.spotify.com/track/0H7cz1bR7w9PulJL7Na774) | [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Vivo Pensando En Ti \(feat\. Maluma\)](https://open.spotify.com/album/22GyzVcUc0jsXtnH6TqAyu) | 3:52 | 2021-12-17 |  |

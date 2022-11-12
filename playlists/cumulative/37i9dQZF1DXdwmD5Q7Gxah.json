@@ -3770,6 +3770,24 @@
     },
     {
       "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/295P3WgTJDQQ27tzM5yWRU"
+      },
+      "artists": [
+        {
+          "name": "SAIAH",
+          "url": "https://open.spotify.com/artist/5ZPYeVqoWNuukwfarvkyJX"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226833,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/6PeV3ho9kjOYRRT5xJHMYU"
+    },
+    {
+      "album": {
         "name": "Blue Cellophane",
         "url": "https://open.spotify.com/album/4OfgZO9nnAjfwA1ez25pCg"
       },
@@ -4295,6 +4313,24 @@
       "duration_ms": 211533,
       "name": "Broke Mine",
       "url": "https://open.spotify.com/track/3MWQIH5B6TSqxOT4mTYzJk"
+    },
+    {
+      "album": {
+        "name": "PEE",
+        "url": "https://open.spotify.com/album/5hLHgAMmZbA316eFWJbfiS"
+      },
+      "artists": [
+        {
+          "name": "Devon Again",
+          "url": "https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228626,
+      "name": "Broke Mine Too",
+      "url": "https://open.spotify.com/track/5uQTrhuOuaefkHmtwT5M3h"
     },
     {
       "album": {
@@ -8111,7 +8147,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 124532,
       "name": "Demons at the Dinner Table",
       "url": "https://open.spotify.com/track/03J7Tq3IWvGel6tvXTYsqm"
@@ -11717,7 +11753,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 206293,
       "name": "frog",
       "url": "https://open.spotify.com/track/0nSw4I1cTMMBZBIk9ChgBn"
@@ -12229,6 +12265,28 @@
       "duration_ms": 180146,
       "name": "Glitter",
       "url": "https://open.spotify.com/track/23TPP1eeElFfvYVznskwCY"
+    },
+    {
+      "album": {
+        "name": "Glitter and Tears (Myra Molloy Remix)",
+        "url": "https://open.spotify.com/album/5uopUaKx0wWta1xbeaLzBY"
+      },
+      "artists": [
+        {
+          "name": "Ella Vos",
+          "url": "https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6"
+        },
+        {
+          "name": "Myra Molloy",
+          "url": "https://open.spotify.com/artist/30yozRF4B2uaL6eDBsLH96"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204702,
+      "name": "Glitter and Tears - Myra Molloy Remix",
+      "url": "https://open.spotify.com/track/7Etq2Nj6XJkBdlUr3eKOxg"
     },
     {
       "album": {
@@ -28721,7 +28779,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 179446,
       "name": "Something In The Way",
       "url": "https://open.spotify.com/track/3T1MROShKLQerTSz89ykGL"
@@ -29817,7 +29875,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 162782,
       "name": "Strawberry",
       "url": "https://open.spotify.com/track/4T4n6TcazA7p6Q4fjYMzev"
@@ -36015,7 +36073,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 141093,
       "name": "YUKON (INTERLUDE)",
       "url": "https://open.spotify.com/track/6c1yUgFlhUHLAM9hSDkVBq"

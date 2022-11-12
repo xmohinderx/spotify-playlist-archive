@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5O5m2ypWiqa.md) - [plain]
 
 > ¡Y qué retumbe la bandona, pariente! Julión Álvarez y su Norteño Banda en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,518,446 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,519,284 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5O5m2ypWiqa.md) - [plain]
 | 51 | [El Antes Y El Después](https://open.spotify.com/track/6P89ndGzxFpxtdbzhRoVdn) | [La Poderosa Banda San Juan](https://open.spotify.com/artist/3U1u6ytK0DaM89dqiVxB0u) | [El Antes Y El Después](https://open.spotify.com/album/4JPGULe879NrRFAQi1YSJ0) | 3:03 |
 | 52 | [Palabra de Hombre](https://open.spotify.com/track/4UiaP0wBuy9N9voD91OZOg) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Palabra de Hombre](https://open.spotify.com/album/5EYyJ7ar2hW6Nh1G89wzPb) | 3:16 |
 | 53 | [Para Que Regreses](https://open.spotify.com/track/0EZ5c3oWdpWIaYHvifMqI2) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Tu Yo Y La Luna](https://open.spotify.com/album/6TaajQPlK5bJgltZtbWxF9) | 3:14 |
-| 54 | [Una Aventura](https://open.spotify.com/track/3EpoG9wonOCsp9ImNkz8cw) | [Banda La Costeña](https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7) | [Una Aventura](https://open.spotify.com/album/6XTRRRYyMfJZHqOcy3Hanu) | 3:35 |
-| 55 | [Amantes Escondidos](https://open.spotify.com/track/4PbrxFKJg5rLkZ77vKhhY9) | [Germán Montero](https://open.spotify.com/artist/2mJLFoa2cRqCZHL6MZNaak) | [Pensando En Ti](https://open.spotify.com/album/5jt17hy0CY3U7NuzbXdX4u) | 2:53 |
+| 54 | [Amantes Escondidos](https://open.spotify.com/track/4PbrxFKJg5rLkZ77vKhhY9) | [Germán Montero](https://open.spotify.com/artist/2mJLFoa2cRqCZHL6MZNaak) | [Pensando En Ti](https://open.spotify.com/album/5jt17hy0CY3U7NuzbXdX4u) | 2:53 |
+| 55 | [Una Aventura](https://open.spotify.com/track/3EpoG9wonOCsp9ImNkz8cw) | [Banda La Costeña](https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7) | [Una Aventura](https://open.spotify.com/album/6XTRRRYyMfJZHqOcy3Hanu) | 3:35 |
 | 56 | [Yo Sé Que Te Acordarás](https://open.spotify.com/track/21Pr1VcMqYrK2VOIWqzkNk) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Lo Mejor De Mi Vida](https://open.spotify.com/album/186e8uXfR8a0ysIMIsbIZe) | 3:11 |
 | 57 | [Reencuentro](https://open.spotify.com/track/2shZC1aewiGkuHbpWBZ5lS) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Reencuentro](https://open.spotify.com/album/1XS85OpAMmlBomTh9cxE3e) | 3:46 |
 | 58 | [Mi Razón De Ser](https://open.spotify.com/track/7EDEbNBsxgsTOfrOifN37a) | [Banda Sinaloense MS de Sergio Lizárraga](https://open.spotify.com/artist/6Y6rrQjzcZhaM4RXusI8UP) | [Dany, Te Dedico Esta Canción Con Todo Mi Corazón](https://open.spotify.com/album/5Zm6BtWH4CgLV83H2nWBsL) | 3:29 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5O5m2ypWiqa.md) - [plain]
 | 61 | [Cuando Fuimos Nada](https://open.spotify.com/track/4V3oSMh34oj9SP4KX9do3Y) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [Hecho a Mano](https://open.spotify.com/album/4XQWbicaoDhiiqXEaxBciJ) | 3:37 |
 | 62 | [Típico Clásico](https://open.spotify.com/track/1gZglBXhwXr3XJRWbBwSId) | [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g) | [Borrón y Cuenta Nueva](https://open.spotify.com/album/3Oy6i9dEx4lTFuuwdB3eNo) | 3:34 |
 | 63 | [Después de Ti, ¿Quién?](https://open.spotify.com/track/3qGkFQOEJ0w0SqnAXFeG2v) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Disfruté Engañarte](https://open.spotify.com/album/2GRDNB7h1xv11f6caN3rBr) | 3:54 |
-| 64 | [A Través Del Vaso](https://open.spotify.com/track/5eY547Fxr6QKiqBkUrx0sC) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [A Través Del Vaso](https://open.spotify.com/album/5fb92VTFSonh6s4IDFqILN) | 3:02 |
-| 65 | [Y yo que te amo](https://open.spotify.com/track/5an6zLElxCiCAEbeInEqRY) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Con paso sensual](https://open.spotify.com/album/7GQTANMGR0SlhvqbP1yw4A) | 3:16 |
+| 64 | [Y yo que te amo](https://open.spotify.com/track/5an6zLElxCiCAEbeInEqRY) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Con paso sensual](https://open.spotify.com/album/7GQTANMGR0SlhvqbP1yw4A) | 3:16 |
+| 65 | [A Través Del Vaso](https://open.spotify.com/track/5eY547Fxr6QKiqBkUrx0sC) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [A Través Del Vaso](https://open.spotify.com/album/5fb92VTFSonh6s4IDFqILN) | 3:02 |
 | 66 | [Vanidosa](https://open.spotify.com/track/4iN0LgZ4SwAIVJ7VRrsd27) | [Banda Cuisillos](https://open.spotify.com/artist/2jPqqtZbK8JDXSz94QLpCX) | [Corazón](https://open.spotify.com/album/401GeD9PATUU1PELNOD2MY) | 3:17 |
 | 67 | [Me Pego La Gana](https://open.spotify.com/track/7KHnN8FA0KBbeZXS2iJfMN) | [Toño Lizarraga](https://open.spotify.com/artist/58kEJAbZ1Knbo4UI2phUQv) | [Vuelvo A Nacer](https://open.spotify.com/album/0NiJIxwdkuvfE3YmqZyYpw) | 2:42 |
 | 68 | [Arboles De La Barranca](https://open.spotify.com/track/3Oa31DdD8vxktKoyUf7RyZ) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Puras Rancheras](https://open.spotify.com/album/2oai80RcPheeeg0bNCPDRW) | 2:59 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5O5m2ypWiqa.md) - [plain]
 | 91 | [Me Cansé de Morir por Tu Amor](https://open.spotify.com/track/2OA5ilVM3BrvNntoVLnYSa) | [Chalino y Adán](https://open.spotify.com/artist/2e7Lvf2PX98QIDBa23ik3l) | [Los Sánchez Mano a Mano](https://open.spotify.com/album/1B8zrDGa7z8hk7YvkHR4Vu) | 3:38 |
 | 92 | [El Amor En Carro](https://open.spotify.com/track/3nu6AW7uPt5oCMbhgqcQX0) | [Julio Chaidez](https://open.spotify.com/artist/0iMKZWAsycF13Uu67duuj7) | [Usted Dirá](https://open.spotify.com/album/7pTGlBGC1UJbPyqjySLjfY) | 3:31 |
 | 93 | [Se Va Muriendo Mi Alma](https://open.spotify.com/track/089JwgBFzPhW92N7RmUdNq) | [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [Tirando Party](https://open.spotify.com/album/4Abo4Oityt7ycbQwoRmXvC) | 3:56 |
-| 94 | [24 Horas del Dia](https://open.spotify.com/track/69RBhbgVjnfVzzUvFokYRC) | [Banda Autentica de Jerez](https://open.spotify.com/artist/29SQzMRQAidCYw2l9vIGE1) | [La Autentica de Jerez Zacatecas \- 15 Exitos](https://open.spotify.com/album/5fkYzCrX5WjQxivctHQ2wt) | 2:52 |
-| 95 | [Adiós Mi Amor](https://open.spotify.com/track/1jeCMfIQVMVWToyknhkFvD) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Con Banda](https://open.spotify.com/album/27FFh23ETG95tHvD61nGVV) | 3:21 |
-| 96 | [Solo Tú](https://open.spotify.com/track/7cA72Gk1dqN6w5j0azVHYR) | [Banda Fresa Roja](https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0) | [Gold Collection, Vol.1](https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O) | 3:41 |
+| 94 | [Adiós Mi Amor](https://open.spotify.com/track/1jeCMfIQVMVWToyknhkFvD) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Con Banda](https://open.spotify.com/album/27FFh23ETG95tHvD61nGVV) | 3:21 |
+| 95 | [Solo Tú](https://open.spotify.com/track/7cA72Gk1dqN6w5j0azVHYR) | [Banda Fresa Roja](https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0) | [Gold Collection, Vol.1](https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O) | 3:41 |
+| 96 | [24 Horas del Dia](https://open.spotify.com/track/69RBhbgVjnfVzzUvFokYRC) | [Banda Autentica de Jerez](https://open.spotify.com/artist/29SQzMRQAidCYw2l9vIGE1) | [La Autentica de Jerez Zacatecas \- 15 Exitos](https://open.spotify.com/album/5fkYzCrX5WjQxivctHQ2wt) | 2:52 |
 | 97 | [Número Equivocado](https://open.spotify.com/track/3Z4wHTNI3bm8TCDrLOiEE1) | [Saul El Jaguar Alarcón](https://open.spotify.com/artist/4zDxqX7DmkPcNfXkrPuYro) | [Lo Mejor De](https://open.spotify.com/album/1VMDxbzjwAjfQIdK5tgeTJ) | 3:23 |
 | 98 | [En Peligro de Extinción](https://open.spotify.com/track/4FaGbBvwnR2cq3qTR73nyF) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [En Peligro de Extinción](https://open.spotify.com/album/59J0QGPefPB2EkcmQSSQqL) | 3:54 |
 | 99 | [Te He Prometido](https://open.spotify.com/track/2vdVI9ya3CLLXKCRr4rryJ) | [Jessie Morales El Original De La Sierra](https://open.spotify.com/artist/268KnHQWmmgiX2O8bxoknW) | [Mis 20 Exitos Originales](https://open.spotify.com/album/2EY8NXsnOxgj4E70kSA4xL) | 3:12 |
-| 100 | [Muchachita de Ojos Tristes \- Banda Version](https://open.spotify.com/track/5JLBLEzT1RfT3aWrbwbk2Q) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Recordando A El Shaka](https://open.spotify.com/album/78fYl5Q2DyPivtolvFxGaa) | 3:27 |
+| 100 | [Borracho de Amor](https://open.spotify.com/track/1VeZsmUCLkYJT55c2nqg9b) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl) | [Borracho de Amor](https://open.spotify.com/album/73IWNJv6zpTOBxKGqAkclB) | 3:22 |
 
-Snapshot ID: `MTY1ODE4NTAwOCwwMDAwMDAwMDljYjk5MDA5OTkwNTEzMzIzM2UwMWFkMDE1ODM0ZjBh`
+Snapshot ID: `MTY1ODE4NTAwOCwwMDAwMDAwMDRkZTQ2NjkwZmZlMDM0OWFhYTNhYTE1ZWFmNjcyMzY4`

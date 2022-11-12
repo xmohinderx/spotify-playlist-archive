@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Los \u00e9xitos del momento en Centroam\u00e9rica, con Shakira y Ozuna en portada.",
+  "description": "Los \u00e9xitos del momento en Centroam\u00e9rica, con Ozuna y Feid en portada.",
   "name": "\u00c9xitos Centroam\u00e9rica",
   "published_playlist_ids": [
     "2V52nSYzBBJejzD9Aow8EK"
@@ -107,6 +107,28 @@
       "duration_ms": 208631,
       "name": "911 - Remix",
       "url": "https://open.spotify.com/track/27RSJHEA99Y0Vsow7nA37A"
+    },
+    {
+      "album": {
+        "name": "A Veces (feat. Feid)",
+        "url": "https://open.spotify.com/album/5IUJCo0aRD98yxFbTvEezC"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191555,
+      "name": "A Veces (feat. Feid)",
+      "url": "https://open.spotify.com/track/63OA8vSo2PhUkmQopR1l64"
     },
     {
       "album": {
@@ -441,7 +463,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 112572,
       "name": "c\u00f3mo dormiste?",
       "url": "https://open.spotify.com/track/3fjN3y5x4hN53rykAN2LHQ"
@@ -576,6 +598,24 @@
     },
     {
       "album": {
+        "name": "PARA\u00cdSO",
+        "url": "https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc"
+      },
+      "artists": [
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190745,
+      "name": "DOMINGO DE BOTE",
+      "url": "https://open.spotify.com/track/0rvbMTIWwMZaMC9UnubDPb"
+    },
+    {
+      "album": {
         "name": "Don't Be Shy",
         "url": "https://open.spotify.com/album/2TvfE8CY37OQIPVGcWYpEA"
       },
@@ -631,6 +671,28 @@
       "duration_ms": 213061,
       "name": "Efecto",
       "url": "https://open.spotify.com/track/5Eax0qFko2dh7Rl2lYs3bx"
+    },
+    {
+      "album": {
+        "name": "EL NENE",
+        "url": "https://open.spotify.com/album/66dX9XaTPTYeTg3w7mHV5i"
+      },
+      "artists": [
+        {
+          "name": "Foreign Teck",
+          "url": "https://open.spotify.com/artist/12lHTAdc9T204lw5qPtasv"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179999,
+      "name": "EL NENE",
+      "url": "https://open.spotify.com/track/18onJmAJLKbrQVEt9IiKs1"
     },
     {
       "album": {
@@ -1821,7 +1883,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 142500,
       "name": "Mujeriego",
       "url": "https://open.spotify.com/track/78kygHp1dvW1kncYjBgbe1"
@@ -1985,7 +2047,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 209883,
       "name": "Nost\u00e1lgico",
       "url": "https://open.spotify.com/track/2BEcap3xJtmiPaHKyfQi4e"
@@ -2449,6 +2511,28 @@
       "duration_ms": 177857,
       "name": "Salimo de Noche",
       "url": "https://open.spotify.com/track/6P096SaOzrgGxs8NWOfX7M"
+    },
+    {
+      "album": {
+        "name": "SI AYER FUERA HOY",
+        "url": "https://open.spotify.com/album/1BUb9ayIoyy6T3iwMscDts"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176086,
+      "name": "Salir Con Vida",
+      "url": "https://open.spotify.com/track/0cubEBmB9wjsdBwXNFmzFy"
     },
     {
       "album": {
@@ -3035,7 +3119,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 156943,
       "name": "Unholy (feat. Kim Petras)",
       "url": "https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG"

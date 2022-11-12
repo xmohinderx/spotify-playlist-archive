@@ -1,12 +1,12 @@
 {
   "description": "Soul to brighten up your day.",
-  "num_followers": 46719,
+  "num_followers": 46782,
   "original_name": "Soulful Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDg2MjA0OCwwMDAwMDAwMDIxMGQ1MTUxOGU1YjNmZDJmZTVlMzFmOGM4MTczYjE3",
+  "snapshot_id": "MTY1NDg2MjA0OCwwMDAwMDAwMDRlM2MxYzliYWVhMzExY2U2NDM5ODcxN2M4MTk5ZGMx",
   "tracks": [
     {
       "added_at": "2022-01-05 09:24:56",
@@ -195,22 +195,6 @@
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
-        "name": "100 Days, 100 Nights",
-        "url": "https://open.spotify.com/album/5AaBCtOPHVJMYcDyLgu5BD"
-      },
-      "artists": [
-        {
-          "name": "Sharon Jones & The Dap-Kings",
-          "url": "https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7"
-        }
-      ],
-      "duration_ms": 225133,
-      "name": "100 Days, 100 Nights",
-      "url": "https://open.spotify.com/track/69YW4FrGpsjzt9lr517bUz"
-    },
-    {
-      "added_at": "2022-01-05 09:24:56",
-      "album": {
         "name": "Special Night",
         "url": "https://open.spotify.com/album/02j4VRhJ7MKK0Jf3FtBBsD"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 265003,
       "name": "Never Be Another You",
       "url": "https://open.spotify.com/track/25z7NYgTEt6MiA5qExNSH2"
+    },
+    {
+      "added_at": "2022-01-05 09:24:56",
+      "album": {
+        "name": "100 Days, 100 Nights",
+        "url": "https://open.spotify.com/album/5AaBCtOPHVJMYcDyLgu5BD"
+      },
+      "artists": [
+        {
+          "name": "Sharon Jones & The Dap-Kings",
+          "url": "https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7"
+        }
+      ],
+      "duration_ms": 225133,
+      "name": "100 Days, 100 Nights",
+      "url": "https://open.spotify.com/track/69YW4FrGpsjzt9lr517bUz"
     },
     {
       "added_at": "2022-01-05 09:24:56",
@@ -307,26 +307,6 @@
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
-        "name": "My World",
-        "url": "https://open.spotify.com/album/7ElHdWPD6YbkbltJQgCiDc"
-      },
-      "artists": [
-        {
-          "name": "Lee Fields & The Expressions",
-          "url": "https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K"
-        },
-        {
-          "name": "Lee Fields",
-          "url": "https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0"
-        }
-      ],
-      "duration_ms": 246573,
-      "name": "Honey Dove",
-      "url": "https://open.spotify.com/track/1emxi7e5EWFsJmwSKTuUDH"
-    },
-    {
-      "added_at": "2022-01-05 09:24:56",
-      "album": {
         "name": "Loving You",
         "url": "https://open.spotify.com/album/3iupXYQtertEICrj8oG8ER"
       },
@@ -355,6 +335,26 @@
       "duration_ms": 176560,
       "name": "Come and Be a Winner",
       "url": "https://open.spotify.com/track/6oobvM9iZY1OF18kC36llz"
+    },
+    {
+      "added_at": "2022-01-05 09:24:56",
+      "album": {
+        "name": "My World",
+        "url": "https://open.spotify.com/album/7ElHdWPD6YbkbltJQgCiDc"
+      },
+      "artists": [
+        {
+          "name": "Lee Fields & The Expressions",
+          "url": "https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K"
+        },
+        {
+          "name": "Lee Fields",
+          "url": "https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0"
+        }
+      ],
+      "duration_ms": 246573,
+      "name": "Honey Dove",
+      "url": "https://open.spotify.com/track/1emxi7e5EWFsJmwSKTuUDH"
     },
     {
       "added_at": "2022-01-05 09:24:56",
@@ -439,6 +439,26 @@
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
+        "name": "My World",
+        "url": "https://open.spotify.com/album/7ElHdWPD6YbkbltJQgCiDc"
+      },
+      "artists": [
+        {
+          "name": "Lee Fields & The Expressions",
+          "url": "https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K"
+        },
+        {
+          "name": "Lee Fields",
+          "url": "https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0"
+        }
+      ],
+      "duration_ms": 257386,
+      "name": "Ladies",
+      "url": "https://open.spotify.com/track/6iNHWlOLt4NuDi9iSvtznO"
+    },
+    {
+      "added_at": "2022-01-05 09:24:56",
+      "album": {
         "name": "Young Sick Camellia",
         "url": "https://open.spotify.com/album/4EN9bVE0g7gUvQlNdPrUhL"
       },
@@ -467,26 +487,6 @@
       "duration_ms": 181346,
       "name": "Follow the Sunshine",
       "url": "https://open.spotify.com/track/1gbVT4Och2a9kk3mtpEYQw"
-    },
-    {
-      "added_at": "2022-01-05 09:24:56",
-      "album": {
-        "name": "My World",
-        "url": "https://open.spotify.com/album/7ElHdWPD6YbkbltJQgCiDc"
-      },
-      "artists": [
-        {
-          "name": "Lee Fields & The Expressions",
-          "url": "https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K"
-        },
-        {
-          "name": "Lee Fields",
-          "url": "https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0"
-        }
-      ],
-      "duration_ms": 257386,
-      "name": "Ladies",
-      "url": "https://open.spotify.com/track/6iNHWlOLt4NuDi9iSvtznO"
     },
     {
       "added_at": "2022-01-05 09:24:56",
@@ -575,38 +575,6 @@
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
-        "name": "Rahsaan Patterson",
-        "url": "https://open.spotify.com/album/1uMPGRwlgCjpIxjGTjg93c"
-      },
-      "artists": [
-        {
-          "name": "Rahsaan Patterson",
-          "url": "https://open.spotify.com/artist/5jVkC5rSgdK2EPfRAmtbpH"
-        }
-      ],
-      "duration_ms": 293400,
-      "name": "Spend The Night",
-      "url": "https://open.spotify.com/track/14VwBAL1qSlG4ovOSYUQF4"
-    },
-    {
-      "added_at": "2022-01-05 09:24:56",
-      "album": {
-        "name": "Underneath the Surface",
-        "url": "https://open.spotify.com/album/6rIB87G63Jsdvg67vbHm35"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Starke",
-          "url": "https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub"
-        }
-      ],
-      "duration_ms": 254680,
-      "name": "Cards",
-      "url": "https://open.spotify.com/track/5QZdS4lYhW27Y8RJGSdPfV"
-    },
-    {
-      "added_at": "2022-01-05 09:24:56",
-      "album": {
         "name": "Pieces Of Me",
         "url": "https://open.spotify.com/album/73XPHadCmH3QpfhlMnte0C"
       },
@@ -627,6 +595,22 @@
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
+        "name": "Rahsaan Patterson",
+        "url": "https://open.spotify.com/album/1uMPGRwlgCjpIxjGTjg93c"
+      },
+      "artists": [
+        {
+          "name": "Rahsaan Patterson",
+          "url": "https://open.spotify.com/artist/5jVkC5rSgdK2EPfRAmtbpH"
+        }
+      ],
+      "duration_ms": 293400,
+      "name": "Spend The Night",
+      "url": "https://open.spotify.com/track/14VwBAL1qSlG4ovOSYUQF4"
+    },
+    {
+      "added_at": "2022-01-05 09:24:56",
+      "album": {
         "name": "The Way I Feel",
         "url": "https://open.spotify.com/album/7mSNyOFmQg80PGsrVxYpa2"
       },
@@ -643,22 +627,18 @@
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
-        "name": "Take You There",
-        "url": "https://open.spotify.com/album/6JFYDZX9PRfYrvQBrljBhR"
+        "name": "Underneath the Surface",
+        "url": "https://open.spotify.com/album/6rIB87G63Jsdvg67vbHm35"
       },
       "artists": [
         {
-          "name": "Wantigga",
-          "url": "https://open.spotify.com/artist/6jAydcjNjyqbeVY9LU6ImF"
-        },
-        {
-          "name": "JAEL",
-          "url": "https://open.spotify.com/artist/5p77ntJBUVTiJ00bmwhQaO"
+          "name": "Sabrina Starke",
+          "url": "https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub"
         }
       ],
-      "duration_ms": 212116,
-      "name": "Take You There",
-      "url": "https://open.spotify.com/track/3hIKghnuBBkLkeLDz63MLa"
+      "duration_ms": 254680,
+      "name": "Cards",
+      "url": "https://open.spotify.com/track/5QZdS4lYhW27Y8RJGSdPfV"
     },
     {
       "added_at": "2022-01-05 09:24:56",
@@ -683,6 +663,26 @@
       "duration_ms": 208418,
       "name": "Things We Do for Love",
       "url": "https://open.spotify.com/track/6hrc261IYXhqLVYuXjddhp"
+    },
+    {
+      "added_at": "2022-01-05 09:24:56",
+      "album": {
+        "name": "Take You There",
+        "url": "https://open.spotify.com/album/6JFYDZX9PRfYrvQBrljBhR"
+      },
+      "artists": [
+        {
+          "name": "Wantigga",
+          "url": "https://open.spotify.com/artist/6jAydcjNjyqbeVY9LU6ImF"
+        },
+        {
+          "name": "JAEL",
+          "url": "https://open.spotify.com/artist/5p77ntJBUVTiJ00bmwhQaO"
+        }
+      ],
+      "duration_ms": 212116,
+      "name": "Take You There",
+      "url": "https://open.spotify.com/track/3hIKghnuBBkLkeLDz63MLa"
     },
     {
       "added_at": "2022-01-05 09:24:56",
@@ -719,22 +719,6 @@
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
-        "name": "Rahsaan Patterson",
-        "url": "https://open.spotify.com/album/1uMPGRwlgCjpIxjGTjg93c"
-      },
-      "artists": [
-        {
-          "name": "Rahsaan Patterson",
-          "url": "https://open.spotify.com/artist/5jVkC5rSgdK2EPfRAmtbpH"
-        }
-      ],
-      "duration_ms": 354093,
-      "name": "Stop By",
-      "url": "https://open.spotify.com/track/0Flm1lDGamEbFYLt674t3T"
-    },
-    {
-      "added_at": "2022-01-05 09:24:56",
-      "album": {
         "name": "L.A.B",
         "url": "https://open.spotify.com/album/0bAw54Ih5LQ7SmC7uJ0IUv"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 233000,
       "name": "Every Day a Dream",
       "url": "https://open.spotify.com/track/4EGhtRnsa6DoGImFOzVzLd"
+    },
+    {
+      "added_at": "2022-01-05 09:24:56",
+      "album": {
+        "name": "Rahsaan Patterson",
+        "url": "https://open.spotify.com/album/1uMPGRwlgCjpIxjGTjg93c"
+      },
+      "artists": [
+        {
+          "name": "Rahsaan Patterson",
+          "url": "https://open.spotify.com/artist/5jVkC5rSgdK2EPfRAmtbpH"
+        }
+      ],
+      "duration_ms": 354093,
+      "name": "Stop By",
+      "url": "https://open.spotify.com/track/0Flm1lDGamEbFYLt674t3T"
     },
     {
       "added_at": "2022-01-05 09:24:56",
@@ -831,22 +831,6 @@
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
-        "name": "New Magic",
-        "url": "https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9"
-      },
-      "artists": [
-        {
-          "name": "Son Little",
-          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
-        }
-      ],
-      "duration_ms": 213192,
-      "name": "Blue Magic (Waikiki)",
-      "url": "https://open.spotify.com/track/3auSQjs9kylJwN0aU7S5Qc"
-    },
-    {
-      "added_at": "2022-01-05 09:24:56",
-      "album": {
         "name": "Run Home Slow",
         "url": "https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 249693,
       "name": "Man of the Universe",
       "url": "https://open.spotify.com/track/5LOqxE3oEe3tPTbIs6ytWM"
+    },
+    {
+      "added_at": "2022-01-05 09:24:56",
+      "album": {
+        "name": "New Magic",
+        "url": "https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9"
+      },
+      "artists": [
+        {
+          "name": "Son Little",
+          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
+        }
+      ],
+      "duration_ms": 213192,
+      "name": "Blue Magic (Waikiki)",
+      "url": "https://open.spotify.com/track/3auSQjs9kylJwN0aU7S5Qc"
     },
     {
       "added_at": "2022-01-05 09:24:56",
@@ -895,6 +895,22 @@
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
+        "name": "Make the Road By Walking",
+        "url": "https://open.spotify.com/album/6wdxaAC6P7f6w05QadHFcB"
+      },
+      "artists": [
+        {
+          "name": "Menahan Street Band",
+          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
+        }
+      ],
+      "duration_ms": 198786,
+      "name": "Montego Sunset",
+      "url": "https://open.spotify.com/track/0fsD8umgWm5PxXKY3h741i"
+    },
+    {
+      "added_at": "2022-01-05 09:24:56",
+      "album": {
         "name": "Emma Jean",
         "url": "https://open.spotify.com/album/3u38Zm1pGlCrGZSsUk2396"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 214062,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/2mGWmvIIvs7jKEXxyh7Wfb"
-    },
-    {
-      "added_at": "2022-01-05 09:24:56",
-      "album": {
-        "name": "Make the Road By Walking",
-        "url": "https://open.spotify.com/album/6wdxaAC6P7f6w05QadHFcB"
-      },
-      "artists": [
-        {
-          "name": "Menahan Street Band",
-          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
-        }
-      ],
-      "duration_ms": 198786,
-      "name": "Montego Sunset",
-      "url": "https://open.spotify.com/track/0fsD8umgWm5PxXKY3h741i"
     },
     {
       "added_at": "2022-01-05 09:24:56",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
-        "name": "Special Night",
-        "url": "https://open.spotify.com/album/02j4VRhJ7MKK0Jf3FtBBsD"
-      },
-      "artists": [
-        {
-          "name": "Lee Fields & The Expressions",
-          "url": "https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K"
-        }
-      ],
-      "duration_ms": 278160,
-      "name": "Precious Love",
-      "url": "https://open.spotify.com/track/4LpFfd70HLdNIoVXZplfxH"
-    },
-    {
-      "added_at": "2022-01-05 09:24:56",
-      "album": {
         "name": "A Love Story",
         "url": "https://open.spotify.com/album/2M5NsF6DS8Uemk6WcMewV4"
       },
@@ -1091,50 +1075,18 @@
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
-        "name": "Pink Elephant",
-        "url": "https://open.spotify.com/album/37yEdQQfpnEDpFHmCRj1AA"
+        "name": "Special Night",
+        "url": "https://open.spotify.com/album/02j4VRhJ7MKK0Jf3FtBBsD"
       },
       "artists": [
         {
-          "name": "N'Dambi",
-          "url": "https://open.spotify.com/artist/3Qq0yiyJZJu8L2PS5zpFVX"
+          "name": "Lee Fields & The Expressions",
+          "url": "https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K"
         }
       ],
-      "duration_ms": 266386,
-      "name": "Can't Hardly Wait",
-      "url": "https://open.spotify.com/track/2rKurn6l70BBOZnkCRgkaX"
-    },
-    {
-      "added_at": "2022-01-05 09:24:56",
-      "album": {
-        "name": "Movin' On",
-        "url": "https://open.spotify.com/album/4kWmZoSHYtMxvejnCwv3ID"
-      },
-      "artists": [
-        {
-          "name": "Steffen Morrison",
-          "url": "https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r"
-        }
-      ],
-      "duration_ms": 221866,
-      "name": "Just Another Man",
-      "url": "https://open.spotify.com/track/5pDX9LdKPUu8S56NEpxywo"
-    },
-    {
-      "added_at": "2022-01-05 09:24:56",
-      "album": {
-        "name": "Floetic",
-        "url": "https://open.spotify.com/album/37dLqaW3KP18Aeqesq0Exi"
-      },
-      "artists": [
-        {
-          "name": "Floetry",
-          "url": "https://open.spotify.com/artist/0un6YenPxWZ2VW4aFGMupM"
-        }
-      ],
-      "duration_ms": 303066,
-      "name": "If I Was A Bird",
-      "url": "https://open.spotify.com/track/57Sue0eOgweOlVxc6g2yCo"
+      "duration_ms": 278160,
+      "name": "Precious Love",
+      "url": "https://open.spotify.com/track/4LpFfd70HLdNIoVXZplfxH"
     },
     {
       "added_at": "2022-01-05 09:24:56",
@@ -1155,18 +1107,50 @@
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
-        "name": "Ben L'Oncle Soul",
-        "url": "https://open.spotify.com/album/0cf7toJ9xKuKgsaTDwxaCj"
+        "name": "Soul Revolution",
+        "url": "https://open.spotify.com/album/4qF4sSfF0dHMUdTkqF5yn8"
       },
       "artists": [
         {
-          "name": "Ben L'Oncle Soul",
-          "url": "https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK"
+          "name": "Steffen Morrison",
+          "url": "https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r"
         }
       ],
-      "duration_ms": 222453,
-      "name": "Soulman - New English Version",
-      "url": "https://open.spotify.com/track/7uooKN0tSNN6t6Pw3IJT1V"
+      "duration_ms": 195320,
+      "name": "Soul Revolution",
+      "url": "https://open.spotify.com/track/1ldNwFMKUtCUsYeazPwjq7"
+    },
+    {
+      "added_at": "2022-01-05 09:24:56",
+      "album": {
+        "name": "Pink Elephant",
+        "url": "https://open.spotify.com/album/37yEdQQfpnEDpFHmCRj1AA"
+      },
+      "artists": [
+        {
+          "name": "N'Dambi",
+          "url": "https://open.spotify.com/artist/3Qq0yiyJZJu8L2PS5zpFVX"
+        }
+      ],
+      "duration_ms": 266386,
+      "name": "Can't Hardly Wait",
+      "url": "https://open.spotify.com/track/2rKurn6l70BBOZnkCRgkaX"
+    },
+    {
+      "added_at": "2022-01-05 09:24:56",
+      "album": {
+        "name": "Floetic",
+        "url": "https://open.spotify.com/album/37dLqaW3KP18Aeqesq0Exi"
+      },
+      "artists": [
+        {
+          "name": "Floetry",
+          "url": "https://open.spotify.com/artist/0un6YenPxWZ2VW4aFGMupM"
+        }
+      ],
+      "duration_ms": 303066,
+      "name": "If I Was A Bird",
+      "url": "https://open.spotify.com/track/57Sue0eOgweOlVxc6g2yCo"
     },
     {
       "added_at": "2022-01-05 09:24:56",
@@ -1187,6 +1171,22 @@
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
+        "name": "Bags & Suitcases",
+        "url": "https://open.spotify.com/album/3TwHPffWffk3jvRzgTHVWm"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Starke",
+          "url": "https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub"
+        }
+      ],
+      "duration_ms": 209386,
+      "name": "Sunny Days",
+      "url": "https://open.spotify.com/track/6FXis8xolZr1w66kY27zbs"
+    },
+    {
+      "added_at": "2022-01-05 09:24:56",
+      "album": {
         "name": "Take From Me",
         "url": "https://open.spotify.com/album/20e8oP5W0209A6D87lTzB3"
       },
@@ -1203,22 +1203,6 @@
       "duration_ms": 269706,
       "name": "Lift Me Up",
       "url": "https://open.spotify.com/track/1uyj6ycPIp7i907LsGbUmA"
-    },
-    {
-      "added_at": "2022-01-05 09:24:56",
-      "album": {
-        "name": "Bags & Suitcases",
-        "url": "https://open.spotify.com/album/3TwHPffWffk3jvRzgTHVWm"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Starke",
-          "url": "https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub"
-        }
-      ],
-      "duration_ms": 209386,
-      "name": "Sunny Days",
-      "url": "https://open.spotify.com/track/6FXis8xolZr1w66kY27zbs"
     },
     {
       "added_at": "2022-01-05 09:24:56",
@@ -1251,22 +1235,6 @@
       "duration_ms": 213642,
       "name": "Stupid Mad Love",
       "url": "https://open.spotify.com/track/0EmeMBuxo7JYg6EMKMhng4"
-    },
-    {
-      "added_at": "2022-01-05 09:24:56",
-      "album": {
-        "name": "Soul Revolution",
-        "url": "https://open.spotify.com/album/4qF4sSfF0dHMUdTkqF5yn8"
-      },
-      "artists": [
-        {
-          "name": "Steffen Morrison",
-          "url": "https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r"
-        }
-      ],
-      "duration_ms": 195320,
-      "name": "Soul Revolution",
-      "url": "https://open.spotify.com/track/1ldNwFMKUtCUsYeazPwjq7"
     },
     {
       "added_at": "2022-04-08 07:52:50",
@@ -1331,6 +1299,38 @@
       "duration_ms": 352466,
       "name": "I Want",
       "url": "https://open.spotify.com/track/5z5mgD0gIZ5KBCQgyIUR3j"
+    },
+    {
+      "added_at": "2022-01-05 09:24:56",
+      "album": {
+        "name": "Keepin It Real",
+        "url": "https://open.spotify.com/album/0zcqYY1KpOd6aOyZSbEagF"
+      },
+      "artists": [
+        {
+          "name": "Jeff Floyd",
+          "url": "https://open.spotify.com/artist/4daynj4qj7K17EbBzEhtDe"
+        }
+      ],
+      "duration_ms": 353546,
+      "name": "Lock My Door",
+      "url": "https://open.spotify.com/track/4u6JFQa45iIYPy5l8DK2xc"
+    },
+    {
+      "added_at": "2022-01-05 09:24:56",
+      "album": {
+        "name": "Wild Seed - Wild Flower",
+        "url": "https://open.spotify.com/album/2BUHZXylf9zzMmNOUo0JBW"
+      },
+      "artists": [
+        {
+          "name": "Dionne Farris",
+          "url": "https://open.spotify.com/artist/7HO1DbzU86pWWp1vBN7l6k"
+        }
+      ],
+      "duration_ms": 342746,
+      "name": "Passion",
+      "url": "https://open.spotify.com/track/6IvKGL3DMPRPjJi8pz059W"
     }
   ],
   "unique_name": "Soulful Day",

@@ -4,7 +4,7 @@
 
 > From Songs About Jane to JORDI, find their latest releases here!
 
-83 songs - 5 hr 19 min - [published](https://open.spotify.com/playlist/6Ofp0EBE9ws2oDUdakS608)
+85 songs - 5 hr 25 min - [published](https://open.spotify.com/playlist/6Ofp0EBE9ws2oDUdakS608)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,8 @@
 | [Harder To Breathe](https://open.spotify.com/track/4V9JDRqKjN8F2HWdlEDxvI) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Songs About Jane: 10th Anniversary Edition](https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc) | 2:53 | 2021-07-12 | 2022-11-11 |
 | [Harder To Breathe](https://open.spotify.com/track/7mhaEho5yFDHVSHcOjG3Ky) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Let's Phase It \- Covid\-19 Sad Songs](https://open.spotify.com/album/0fw9IHI5yQ6MpbSWSfNRvw) | 2:53 | 2021-07-12 |  |
 | [If I Ain’t Got You \- Live](https://open.spotify.com/track/3M1aZaO65nz2yuA5g8LIVQ) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Hands All Over \(Deluxe\)](https://open.spotify.com/album/2H4DCvJiZknLngsD2Yqf6k) | 4:00 | 2021-07-12 |  |
-| [If I Never See Your Face Again](https://open.spotify.com/track/4xSjIgsYgd36OAK4QZ55Pr) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [It Won't Be Soon Before Long.](https://open.spotify.com/album/29hJ8AFYZU98OzenrMr6iU) | 3:21 | 2021-07-12 |  |
+| [If I Never See Your Face Again](https://open.spotify.com/track/4xSjIgsYgd36OAK4QZ55Pr) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [It Won't Be Soon Before Long.](https://open.spotify.com/album/29hJ8AFYZU98OzenrMr6iU) | 3:21 | 2021-07-12 | 2022-11-12 |
+| [If I Never See Your Face Again](https://open.spotify.com/track/4yYtYCpKUaTNEB2Pxu1kXj) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [2000s Pop For Kids](https://open.spotify.com/album/2CavZRHh68rQEN8Epdg8AK) | 3:21 | 2021-07-12 |  |
 | [If I Never See Your Face Again](https://open.spotify.com/track/5EQHGvoks3NihOPbDH4YyW) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [It Won't Be Soon Before Long \(International Version\)](https://open.spotify.com/album/1cCm3jwAW9eJtEGyzpxlXY) | 3:21 | 2021-07-12 | 2022-07-29 |
 | [It Was Always You](https://open.spotify.com/track/2PLo8T3kGE9URFvBy3tUdt) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [V](https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI) | 3:59 | 2021-07-12 | 2022-11-11 |
 | [It Was Always You](https://open.spotify.com/track/3WsUKVmB9x7MeO8PBeQgtK) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [V \(Deluxe\)](https://open.spotify.com/album/4KXLjIEas8MTwwX3xpmAdC) | 3:59 | 2021-07-12 | 2022-07-29 |
@@ -87,7 +88,8 @@
 | [Wait \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/track/6K1yBz4AnZT2tCoSoUhJiq) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Wait \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/album/0N6D8o0NqcjS9LEKpnlAHb) | 3:10 | 2021-07-12 | 2022-07-29 |
 | [Wake Up Call](https://open.spotify.com/track/1zqllQUMCgMaInr0CzFVll) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [It Won't Be Soon Before Long.](https://open.spotify.com/album/29hJ8AFYZU98OzenrMr6iU) | 3:21 | 2021-07-12 |  |
 | [What Lovers Do](https://open.spotify.com/track/6J0H3SA8SjW2fnwaPBYdid) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Red Pill Blues \(Deluxe\)](https://open.spotify.com/album/3UtdezpDoFcAJv6HtjK1q0) | 3:19 | 2021-07-12 | 2022-07-29 |
-| [What Lovers Do \(feat\. SZA\)](https://open.spotify.com/track/2j5hsQvApottzvTn4pFJWF) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Red Pill Blues \(Deluxe\)](https://open.spotify.com/album/3ThQ5dvf9wlqB0C7evh5nH) | 3:19 | 2021-07-12 |  |
+| [What Lovers Do](https://open.spotify.com/track/5rgVLR0OimYG1MogWahTH8) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Sexy Songs 2020](https://open.spotify.com/album/7HxknjzFr59SJZjFiUycUK) | 3:19 | 2021-07-12 |  |
+| [What Lovers Do \(feat\. SZA\)](https://open.spotify.com/track/2j5hsQvApottzvTn4pFJWF) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Red Pill Blues \(Deluxe\)](https://open.spotify.com/album/3ThQ5dvf9wlqB0C7evh5nH) | 3:19 | 2021-07-12 | 2022-11-12 |
 | [Won't Go Home Without You](https://open.spotify.com/track/5kTvymHsmlmcy5yQWbWO1U) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [It Won't Be Soon Before Long \(International Version\)](https://open.spotify.com/album/1cCm3jwAW9eJtEGyzpxlXY) | 3:50 | 2021-07-12 | 2022-07-29 |
 | [Won't Go Home Without You](https://open.spotify.com/track/0tuyEYTaqLxE41yGHSsXjy) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [It Won't Be Soon Before Long.](https://open.spotify.com/album/29hJ8AFYZU98OzenrMr6iU) | 3:51 | 2021-07-12 | 2022-11-11 |
 | [Won't Go Home Without You](https://open.spotify.com/track/0z0HaDUFP61jgHOwoH5cBw) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Galau Maksimal](https://open.spotify.com/album/5gZbdMNr5pI2k6IlXlQeVF) | 3:51 | 2021-07-12 |  |

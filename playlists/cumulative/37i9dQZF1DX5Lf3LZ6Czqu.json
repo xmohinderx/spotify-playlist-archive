@@ -1882,6 +1882,32 @@
     },
     {
       "album": {
+        "name": "Together",
+        "url": "https://open.spotify.com/album/77ya30BnZ7Kat4yD8KCEN4"
+      },
+      "artists": [
+        {
+          "name": "Sterfry",
+          "url": "https://open.spotify.com/artist/2ZRvR99Cg42zMNIfEnP5HK"
+        },
+        {
+          "name": "Go Yama",
+          "url": "https://open.spotify.com/artist/4Gbw8LGu071GAshE7dqqum"
+        },
+        {
+          "name": "Jason Leech",
+          "url": "https://open.spotify.com/artist/1RPNr9u1LyyIjFVrXdIq1G"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167446,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/23R5kepMliUvCaq5hsug04"
+    },
+    {
+      "album": {
         "name": "All's Well That Ends Well",
         "url": "https://open.spotify.com/album/0MUOKjKpJOWr9PFwgt4OtN"
       },
@@ -2013,6 +2039,28 @@
       "duration_ms": 262257,
       "name": "What Really Matters",
       "url": "https://open.spotify.com/track/4dIOwzpO6MVitMIDtm5UHC"
+    },
+    {
+      "album": {
+        "name": "Blossoms",
+        "url": "https://open.spotify.com/album/2JeTEgwVR74F3OUd1QPhCE"
+      },
+      "artists": [
+        {
+          "name": "Martin Gonzalez",
+          "url": "https://open.spotify.com/artist/5JM8caNvIgCqRWYtLYxxNg"
+        },
+        {
+          "name": "Lechuga",
+          "url": "https://open.spotify.com/artist/2SDcND6iKTDeQtHYV7OmoB"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213413,
+      "name": "When I Met You",
+      "url": "https://open.spotify.com/track/0qLSej5O1b7IviLseDChHk"
     },
     {
       "album": {

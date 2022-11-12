@@ -4,7 +4,7 @@
 
 > Soothe your mind with gentle instrumentals.
 
-234 songs - 11 hr 6 min - [published](https://open.spotify.com/playlist/5E3sU5b9bqkflT96CV3QHp)
+235 songs - 11 hr 9 min - [published](https://open.spotify.com/playlist/5E3sU5b9bqkflT96CV3QHp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,6 +184,7 @@
 | [Skymning](https://open.spotify.com/track/1nP7LJuu4QMet7xKll1gVh) | [Björnlandet](https://open.spotify.com/artist/5u5mZ8WatCUPXwXfFePPSz) | [Skymning](https://open.spotify.com/album/4FTompXigT36dvBOx8vU5J) | 2:11 | 2021-12-09 |  |
 | [Soft Night](https://open.spotify.com/track/5hAsWMGQXBjDjYMoIlP9Ak) | [Elskavon](https://open.spotify.com/artist/5vDfVxwAH8ANpuIKKxfOeq) | [Traditions & Traitors](https://open.spotify.com/album/2exRntMmxw6A5AQoNiIG3f) | 2:35 | 2021-12-09 |  |
 | [Soledad natural](https://open.spotify.com/track/6rNvJRr2yErh0cRjMq7scQ) | [Sonhos de Solidão](https://open.spotify.com/artist/5u54CVdeb9o3uVJjigbrWS) | [Soledad natural \(Ambient version\)](https://open.spotify.com/album/0uWYghjpGDOUZ5kw9jUIZN) | 2:35 | 2021-12-09 |  |
+| [Solo](https://open.spotify.com/track/3d7eF49gLIxdOo6plwr6kP) | [Brief Moments](https://open.spotify.com/artist/20hwQJcC00dL9lcpmaoiXF) | [Solo](https://open.spotify.com/album/71DeeYazwxnzRgvBHY2rEl) | 2:18 | 2022-11-11 |  |
 | [Somewhere In Between](https://open.spotify.com/track/1F10yAIn8aqtAwZoMMffFq) | [Wandercole](https://open.spotify.com/artist/4Lq1sOwDD8WfE4kgm7yZn4) | [Somewhere In Between](https://open.spotify.com/album/25x9r2SewSxoucruN6we4Y) | 3:49 | 2022-06-24 |  |
 | [Somnolence](https://open.spotify.com/track/2T9BgAmZQT2dLqllKA5UPj) | [Zak Brady](https://open.spotify.com/artist/5sKrAIJIFlKVRkuFyG03aS) | [Somnolence](https://open.spotify.com/album/3wYmN89JOq65AStF3FqMjR) | 3:12 | 2021-12-09 |  |
 | [Somnolent](https://open.spotify.com/track/6dogY6HwvahB2QPFZM0uV5) | [Ghost Of Summer](https://open.spotify.com/artist/2SQs5lwQifKBBhMDYnPZy8) | [Somnolent](https://open.spotify.com/album/5FiohTEKrMcULVMFlk37Ps) | 2:00 | 2021-12-09 |  |

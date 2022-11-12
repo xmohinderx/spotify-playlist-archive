@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSttCmn8GHUg.md) - [plain]
 
 > Patriotic country songs celebrating the land of the free and the home of the brave.
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,084 likes - 105 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,308 likes - 105 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSttCmn8GHUg.md) - [plain]
 | 48 | [Where Were You \(When the World Stopped Turning\)](https://open.spotify.com/track/3eSwvMfSA0Fyku6Ak5JEw0) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [34 Number Ones](https://open.spotify.com/album/26w8J2SKCxa80Bwq6G8ctN) | 5:05 |
 | 49 | [Made in America](https://open.spotify.com/track/7Lmwj2fe8MpGXypOuLGO2C) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Clancy's Tavern](https://open.spotify.com/album/0sndIMIlhlgn1eyavXRK1C) | 3:13 |
 | 50 | [Red Dirt Road](https://open.spotify.com/track/3EZzghqykkfOB0Z8d0kTSt) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [Red Dirt Road](https://open.spotify.com/album/3fVrL1hr7JAWTeFYW0akdf) | 4:20 |
-| 51 | [Where The Green Grass Grows](https://open.spotify.com/track/0nDjzA4kns1QOWPXuOn6Xw) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Everywhere](https://open.spotify.com/album/36STfe5P9Cln52ch4nw3i9) | 3:21 |
+| 51 | [Where The Green Grass Grows](https://open.spotify.com/track/6ppz9qjSVcrkZgPr1jtF6Y) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [McGRAW \(The Ultimate Collection\)](https://open.spotify.com/album/3ytKtBtqdHsj6XzNu0sMCT) | 3:22 |
 | 52 | [The Dash](https://open.spotify.com/track/4F9pqprfOvnv4r2B1LjG9l) | [Scotty McCreery](https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29) | [See You Tonight](https://open.spotify.com/album/4WzDgE5rtzgdklKFoDvUcw) | 3:44 |
 | 53 | [She Goes to Work](https://open.spotify.com/track/1sMLcj9cFRwSFurIOcgDGM) | [Jake Dodds](https://open.spotify.com/artist/52YZB2e6Zr1V7Vwr2oEmrN), [Carly Rogers](https://open.spotify.com/artist/2Wp8J5K9ohY4IY00dIpDtr) | [She Goes to Work](https://open.spotify.com/album/1JYyllDH3ipVkMlMXfykCD) | 3:29 |
 | 54 | [American Heartbreaker](https://open.spotify.com/track/2pHwPZhKl75eC8JVfbT7de) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Mercury Lane](https://open.spotify.com/album/7EpN0TPMSMqGKVjIEzc0Ts) | 2:48 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSttCmn8GHUg.md) - [plain]
 | 104 | [Some Gave All](https://open.spotify.com/track/3wKfQaOgFxZ0qhXjo4iqlI) | [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa) | [Some Gave All](https://open.spotify.com/album/2Rh2JyaBjJwPMFR9Dl60nV) | 4:05 |
 | 105 | [I'm Already There](https://open.spotify.com/track/34Vn9nKfztyLco9lJazy4j) | [Lonestar](https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK) | [I'm Already There](https://open.spotify.com/album/4aC1f4gcfN1lGRG1W9OuMJ) | 4:13 |
 
-Snapshot ID: `MTY1NjY0ODA2MCwwMDAwMDAwMDU3ZmIyOWFhYTQwMDE0OTEzMjU3NTRkM2I3NDY2ZmQw`
+Snapshot ID: `MTY1NjY0ODA2MCwwMDAwMDAwMGQ5YmQ1ZjgzZDJiMjQwZmZhN2QxNWMxYmUyNjU0ZTMx`

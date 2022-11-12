@@ -4,7 +4,7 @@
 
 > Instrumental Christmas favorites to set the perfect mood for your swinging cocktail party this holiday season.
 
-102 songs - 5 hr 22 min - [published](https://open.spotify.com/playlist/46l2vnuSexwyIIH7fOoaMY)
+103 songs - 5 hr 24 min - [published](https://open.spotify.com/playlist/46l2vnuSexwyIIH7fOoaMY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,8 +100,9 @@
 | [We Three Kings \(Jazz Version\)](https://open.spotify.com/track/5uIylVaLyLDOe3YQTo9Arc) | [Ennio Máno](https://open.spotify.com/artist/257NeKIWsdypZxr0j4xnOs) | [A Jazzy Little Christmas](https://open.spotify.com/album/3dEp0spQB8Yz3vPr2PUWc3) | 3:08 | 2021-12-21 |  |
 | [We Wish You A Merry Christmas](https://open.spotify.com/track/24qIDUtuHes8hTXrs13HR6) | [Little Tree Trio](https://open.spotify.com/artist/307akv5BTJh4p9auz0sc0F) | [Merry Christmas](https://open.spotify.com/album/3mhiSS0lSViQWiEpV3rsuY) | 2:33 | 2021-12-21 |  |
 | [What Are You Doing New Year's Eve](https://open.spotify.com/track/2OMXwyF3J4vYDxk5DzV03s) | [Keanan Field Group](https://open.spotify.com/artist/3Nswj36GKhom7iy2bLvJNJ) | [What Are You Doing New Year's Eve](https://open.spotify.com/album/2Q8QtI11tk9L9jBskjBF7E) | 4:28 | 2021-12-21 |  |
+| [What Child Is This](https://open.spotify.com/track/6UTEb3SExkT0sphhwsRjzB) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [Instrumental Christmas](https://open.spotify.com/album/2YxRD4GY8phq9uNHA5tNqx) | 2:21 | 2022-11-10 |  |
 | [What Child Is This](https://open.spotify.com/track/0LP2DlqqEH5Lo0ujWdHkUD) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [A Charlie Brown Christmas \[2012 Remastered & Expanded Edition\]](https://open.spotify.com/album/7DuJYWu66RPdcekF5TuZ7w) | 2:24 | 2021-12-21 | 2022-09-18 |
-| [What Child Is This](https://open.spotify.com/track/1KYp6R9KfYSna86gFkIhq0) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [A Charlie Brown Christmas \[2012 Remastered & Expanded Edition\]](https://open.spotify.com/album/2XnNY3GEkbWHor5kyvXLu4) | 2:24 | 2022-09-16 |  |
+| [What Child Is This](https://open.spotify.com/track/1KYp6R9KfYSna86gFkIhq0) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [A Charlie Brown Christmas \[2012 Remastered & Expanded Edition\]](https://open.spotify.com/album/2XnNY3GEkbWHor5kyvXLu4) | 2:24 | 2022-09-16 | 2022-11-12 |
 | [When You Wish Upon a Star](https://open.spotify.com/track/1RS0fQUXF7GJRC5SJwX6MW) | [Basinettes](https://open.spotify.com/artist/3PGR6FLLZdC24ZKvow1IQQ) | [When You Wish Upon a Star](https://open.spotify.com/album/45GERqZgHo745HSE9VgjgN) | 2:10 | 2021-12-21 | 2022-10-28 |
 | [When You Wish Upon a Star](https://open.spotify.com/track/3W5YtcTpzuf8lwMJ3lUpeq) | [Erik Moreau](https://open.spotify.com/artist/1S08oiBCDKPErHKaJ42YAG) | [When You Wish Upon a Star](https://open.spotify.com/album/7kQaJ4QC9MrLkwgzDz4yfI) | 2:47 | 2022-10-27 |  |
 | [White Christmas](https://open.spotify.com/track/0X5GOwlZZgW0lT1NsCuir5) | [Sian Sullivan](https://open.spotify.com/artist/4VVP1CLZbbGay53RL2Gbe6) | [White Christmas](https://open.spotify.com/album/7iQnxZfcvdaaQX1fYRAfof) | 4:21 | 2022-10-07 |  |

@@ -188,6 +188,24 @@
     },
     {
       "album": {
+        "name": "Pura Pachanga",
+        "url": "https://open.spotify.com/album/3gGXqROt966AxFB6rZZFjr"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149493,
+      "name": "El Loco Bailar\u00edn",
+      "url": "https://open.spotify.com/track/2r2DOim3Av355zPCaeTHmx"
+    },
+    {
+      "album": {
         "name": "El Reloj De Mi Corazon",
         "url": "https://open.spotify.com/album/13BpoCwBmr3a3KrK7rV47w"
       },

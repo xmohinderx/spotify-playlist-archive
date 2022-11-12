@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vYju3i0lNX.md) - [plain]
 
 > Mellow jazz to stay focused or unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 731,250 likes - 279 songs - 17 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 731,564 likes - 279 songs - 17 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -279,7 +279,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vYju3i0lNX.md) - [plain]
 | 269 | [Easy](https://open.spotify.com/track/6IP328KWUVyrLfKLtx6kA0) | [Fulton Street Players](https://open.spotify.com/artist/3ZOpJEdIEoBxNv0MWG5FB0) | [Easy](https://open.spotify.com/album/6GbLOzfl3k3hHOhOsm42m9) | 2:19 |
 | 270 | [Copley Plaza](https://open.spotify.com/track/6FXuCckUGvVWpRrtfuQ5xQ) | [Low City Trio](https://open.spotify.com/artist/1GYL97YxtpuZ6V3QCMRxyo) | [Low City](https://open.spotify.com/album/7l9iEJK2yf9wHuzagin2MX) | 5:06 |
 | 271 | [Stillness](https://open.spotify.com/track/40ydDb82UYQzcZlqNsVj7N) | [KTZ Players](https://open.spotify.com/artist/5IFXbDEfoLijwZB1YB2bTe) | [Stillness](https://open.spotify.com/album/3VLOhMVLh2fwkOdCVWk760) | 2:47 |
-| 272 | [A Better Place](https://open.spotify.com/track/6ZDLHi8UtQeT203JjiQU6N) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx) | [A Better Place](https://open.spotify.com/album/5kIBKvyTDfkVFeL3INbvBZ) | 2:13 |
+| 272 | [A Better Place](https://open.spotify.com/track/7JfORZg3Tvn0YyDZCiGhMU) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx) | [A Better Place](https://open.spotify.com/album/0BIRayldwphnBlwreGKihM) | 2:13 |
 | 273 | [God Bless The Child](https://open.spotify.com/track/6EpATvQFAodhQrHKqsZStm) | [Eddie Harper](https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68) | [God Bless The Child](https://open.spotify.com/album/3QiXg44gYchM0zVHw4JgVz) | 4:16 |
 | 274 | [Alfie](https://open.spotify.com/track/5YTYCMTxcvM29aTYRp99gm) | [Long Island Quartet](https://open.spotify.com/artist/2fmPgnUqExSLjXIwIyigPR) | [Born in July](https://open.spotify.com/album/4IJTErkPQ9dSsEt2FyPuzt) | 3:37 |
 | 275 | [Moonlight in Vermont](https://open.spotify.com/track/2EW5zfxI27hvTxeYr8I0J7) | [Leslie Rossiter Band](https://open.spotify.com/artist/2VSepNTGbjPy4jy4y5qfTA) | [Mack the Knife](https://open.spotify.com/album/4sQs9YGrgwux8mzefYVdVE) | 4:17 |
@@ -288,4 +288,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vYju3i0lNX.md) - [plain]
 | 278 | [Soft Like Rain](https://open.spotify.com/track/1kA2atXO3zrz1L5uEZpVcB) | [Anita Rosswell](https://open.spotify.com/artist/6Qer09QopgWLGMd601P0Zk) | [Soft Like Rain](https://open.spotify.com/album/2et7XBXAiuqsxBX7MgwHiZ) | 2:48 |
 | 279 | [Five Years Ago](https://open.spotify.com/track/1L2aEbr8dOnVUKoeFhmMZG) | [Leonard Peters](https://open.spotify.com/artist/3lnir5hIW9TkpCGJGUuhvk) | [Walk The Dog](https://open.spotify.com/album/1P4DJRMLQ5RhNxYkDPeUf1) | 2:55 |
 
-Snapshot ID: `MTY2ODEyMTI2MCwwMDAwMDAwMDI5OTczNjMzM2MyY2IwNGEzZmQxMzNlMjg5YWQ0ODkz`
+Snapshot ID: `MTY2ODEyMTI2MCwwMDAwMDAwMGY1NTVhMmFkYjdiNjc5NWYwMzg1NjAxZDNjZTA3MGQz`

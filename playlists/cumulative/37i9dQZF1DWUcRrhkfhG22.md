@@ -4,7 +4,7 @@
 
 > Funky vocoders and talk boxes.
 
-83 songs - 6 hr 12 min - [published](https://open.spotify.com/playlist/7j5PeJeRKR16JZLphjYAJm)
+84 songs - 6 hr 16 min - [published](https://open.spotify.com/playlist/7j5PeJeRKR16JZLphjYAJm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,8 @@
 | [With the Music](https://open.spotify.com/track/7ADWPWvgegTdPYEqRtQXYe) | [Matt Johnson](https://open.spotify.com/artist/5gFCOJYoKgxTx0KUXISEAS) | [With the Music](https://open.spotify.com/album/57q2lXAoPUWJTBvlSpzy7F) | 6:17 | 2020-09-18 | 2022-11-11 |
 | [With the Music](https://open.spotify.com/track/5so4fWOUupeEepFqixqdMt) | [Matt Johnson](https://open.spotify.com/artist/5gFCOJYoKgxTx0KUXISEAS) | [With the Music](https://open.spotify.com/album/4h465iyTznZQouao9JLwif) | 6:18 | 2020-09-18 |  |
 | [With You](https://open.spotify.com/track/7hA8vD3WERUwEOTGMMJd3J) | [Daze](https://open.spotify.com/artist/4lTYJ693x10unejOLxoCYr) | [Contrast](https://open.spotify.com/album/41jrWLM0K9x7F3Ux7OJGgv) | 4:06 | 2020-09-18 |  |
-| [With You](https://open.spotify.com/track/079mLSjKkiSnpcSueMrNtQ) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz) | [Velvet Portraits](https://open.spotify.com/album/4PCIOf8X75vWdD1PbLpg3c) | 4:08 | 2020-09-18 |  |
+| [With You](https://open.spotify.com/track/079mLSjKkiSnpcSueMrNtQ) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz) | [Velvet Portraits](https://open.spotify.com/album/4PCIOf8X75vWdD1PbLpg3c) | 4:08 | 2020-09-18 | 2022-11-12 |
 | [With You](https://open.spotify.com/track/34RnMx1hRtypnn03BkTkHV) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz) | [Velvet Portraits](https://open.spotify.com/album/4tfomAZjkkF736D6WTK7tC) | 4:08 | 2020-09-18 | 2022-11-06 |
+| [With You](https://open.spotify.com/track/40NCmCoLUqL62ZaUWBI2Qv) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz) | [Velvet Portraits](https://open.spotify.com/album/2oCzMde3oNEsr2Mz8OBv8P) | 4:08 | 2020-09-18 |  |
 
 \*This playlist was first scraped on 2022-08-06. Prior content cannot be recovered.

@@ -1,12 +1,12 @@
 {
   "description": "Lay back. Chill out.",
-  "num_followers": 84571,
+  "num_followers": 84753,
   "original_name": "floating",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODExOTMyMywwMDAwMDAwMDhkNGFiMGExN2E2NTY0MmFiYjFjZmU3ZGNjZTBjMzdl",
+  "snapshot_id": "MTY2ODExOTMyMywwMDAwMDAwMDIxNTU5MzY0ODJhN2Y0YjJjMTVmMjI0ZmU2YThlZDVm",
   "tracks": [
     {
       "added_at": "2022-11-04 03:52:39",
@@ -463,22 +463,6 @@
     {
       "added_at": "2022-11-04 03:52:39",
       "album": {
-        "name": "Sweet Love",
-        "url": "https://open.spotify.com/album/5ua8gCeWXrvivM9hfVCXhD"
-      },
-      "artists": [
-        {
-          "name": "Anita Baker",
-          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
-        }
-      ],
-      "duration_ms": 262266,
-      "name": "Sweet Love",
-      "url": "https://open.spotify.com/track/4xVXe1VS5zlQyECVk6GRrL"
-    },
-    {
-      "added_at": "2022-11-04 03:52:39",
-      "album": {
         "name": "Broken Hearts Club",
         "url": "https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y"
       },
@@ -551,22 +535,6 @@
     {
       "added_at": "2022-11-04 03:52:39",
       "album": {
-        "name": "Now",
-        "url": "https://open.spotify.com/album/3Ul8Nyuzr2AEwE8iSrQepC"
-      },
-      "artists": [
-        {
-          "name": "Maxwell",
-          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
-        }
-      ],
-      "duration_ms": 240306,
-      "name": "This Woman's Work - Remastered 2021",
-      "url": "https://open.spotify.com/track/741OE401HO7ZCaPhEqCZ7w"
-    },
-    {
-      "added_at": "2022-11-04 03:52:39",
-      "album": {
         "name": "Summer Madness",
         "url": "https://open.spotify.com/album/2g0Mwf7ujbQmtZzMAhiCkp"
       },
@@ -579,6 +547,22 @@
       "duration_ms": 201917,
       "name": "Summer Madness",
       "url": "https://open.spotify.com/track/7fpiYh33Xph4OPj8gS8jL0"
+    },
+    {
+      "added_at": "2022-11-04 03:52:39",
+      "album": {
+        "name": "Now",
+        "url": "https://open.spotify.com/album/3Ul8Nyuzr2AEwE8iSrQepC"
+      },
+      "artists": [
+        {
+          "name": "Maxwell",
+          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
+        }
+      ],
+      "duration_ms": 240306,
+      "name": "This Woman's Work - Remastered 2021",
+      "url": "https://open.spotify.com/track/741OE401HO7ZCaPhEqCZ7w"
     },
     {
       "added_at": "2022-11-04 03:52:39",
@@ -687,6 +671,22 @@
     {
       "added_at": "2022-11-04 03:52:39",
       "album": {
+        "name": "Distance",
+        "url": "https://open.spotify.com/album/5CMAmUz6cXCAyOutxsyYXC"
+      },
+      "artists": [
+        {
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+        }
+      ],
+      "duration_ms": 255800,
+      "name": "Distance",
+      "url": "https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF"
+    },
+    {
+      "added_at": "2022-11-04 03:52:39",
+      "album": {
         "name": "Mine",
         "url": "https://open.spotify.com/album/0RJkdbyHeLAxKXCzIrpyOj"
       },
@@ -703,22 +703,6 @@
       "duration_ms": 212571,
       "name": "Mine",
       "url": "https://open.spotify.com/track/1IxfE1rd0ngSFP8MSqYiv0"
-    },
-    {
-      "added_at": "2022-11-04 03:52:39",
-      "album": {
-        "name": "Distance",
-        "url": "https://open.spotify.com/album/5CMAmUz6cXCAyOutxsyYXC"
-      },
-      "artists": [
-        {
-          "name": "Yebba",
-          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
-        }
-      ],
-      "duration_ms": 255800,
-      "name": "Distance",
-      "url": "https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF"
     },
     {
       "added_at": "2022-11-04 03:52:39",
@@ -839,6 +823,22 @@
     {
       "added_at": "2022-11-04 03:52:39",
       "album": {
+        "name": "Lianne La Havas",
+        "url": "https://open.spotify.com/album/1CqNrKEv2fhF7mudTXrydV"
+      },
+      "artists": [
+        {
+          "name": "Lianne La Havas",
+          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+        }
+      ],
+      "duration_ms": 288453,
+      "name": "Read My Mind",
+      "url": "https://open.spotify.com/track/18yYhT8fTVjFK9IBPiows6"
+    },
+    {
+      "added_at": "2022-11-04 03:52:39",
+      "album": {
         "name": "Lost And Found",
         "url": "https://open.spotify.com/album/0CMYJkOIYIZjo6wCJtlZNq"
       },
@@ -875,18 +875,18 @@
     {
       "added_at": "2022-11-04 03:52:39",
       "album": {
-        "name": "Lianne La Havas",
-        "url": "https://open.spotify.com/album/1CqNrKEv2fhF7mudTXrydV"
+        "name": "Destiny Fulfilled",
+        "url": "https://open.spotify.com/album/0b6ivSFfDs38MG7aLn9rvO"
       },
       "artists": [
         {
-          "name": "Lianne La Havas",
-          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+          "name": "Destiny's Child",
+          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
         }
       ],
-      "duration_ms": 288453,
-      "name": "Read My Mind",
-      "url": "https://open.spotify.com/track/18yYhT8fTVjFK9IBPiows6"
+      "duration_ms": 255880,
+      "name": "If",
+      "url": "https://open.spotify.com/track/2tOvXXicPq04q6Pk28O47m"
     },
     {
       "added_at": "2022-11-04 03:52:39",
@@ -903,22 +903,6 @@
       "duration_ms": 212640,
       "name": "Fool of Me",
       "url": "https://open.spotify.com/track/3Fw7pl6UpksTfmYcXLbvx3"
-    },
-    {
-      "added_at": "2022-11-04 03:52:39",
-      "album": {
-        "name": "Destiny Fulfilled",
-        "url": "https://open.spotify.com/album/0b6ivSFfDs38MG7aLn9rvO"
-      },
-      "artists": [
-        {
-          "name": "Destiny's Child",
-          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
-        }
-      ],
-      "duration_ms": 255880,
-      "name": "If",
-      "url": "https://open.spotify.com/track/2tOvXXicPq04q6Pk28O47m"
     },
     {
       "added_at": "2022-11-04 03:52:39",
@@ -1167,6 +1151,38 @@
     {
       "added_at": "2022-11-04 03:52:39",
       "album": {
+        "name": "80's Hits",
+        "url": "https://open.spotify.com/album/7gFGP7Vk45weSCeMpDbD2z"
+      },
+      "artists": [
+        {
+          "name": "Anita Baker",
+          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
+        }
+      ],
+      "duration_ms": 266173,
+      "name": "Sweet Love",
+      "url": "https://open.spotify.com/track/5c05sy8pAvuU9nLXRPlLbr"
+    },
+    {
+      "added_at": "2022-11-04 03:52:39",
+      "album": {
+        "name": "Bedroom Jams",
+        "url": "https://open.spotify.com/album/4lDhUSlM0N1c4VUs9QoV0X"
+      },
+      "artists": [
+        {
+          "name": "Zhan\u00e9",
+          "url": "https://open.spotify.com/artist/6cjSmkVvMvyE6tCAo1M9Is"
+        }
+      ],
+      "duration_ms": 221173,
+      "name": "Sending My Love",
+      "url": "https://open.spotify.com/track/2iFEJykQ895vembLmQNa67"
+    },
+    {
+      "added_at": "2022-11-04 03:52:39",
+      "album": {
         "name": "Livid",
         "url": "https://open.spotify.com/album/6f5Myi1i6uD0lWz82Kx8G9"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 255906,
       "name": "SULA (Paperback)",
       "url": "https://open.spotify.com/track/26kFP6TwarrLpmXO86PH5k"
-    },
-    {
-      "added_at": "2022-11-04 03:52:39",
-      "album": {
-        "name": "Bedroom Jams",
-        "url": "https://open.spotify.com/album/4lDhUSlM0N1c4VUs9QoV0X"
-      },
-      "artists": [
-        {
-          "name": "Zhan\u00e9",
-          "url": "https://open.spotify.com/artist/6cjSmkVvMvyE6tCAo1M9Is"
-        }
-      ],
-      "duration_ms": 221173,
-      "name": "Sending My Love",
-      "url": "https://open.spotify.com/track/2iFEJykQ895vembLmQNa67"
     }
   ],
   "unique_name": "floating",

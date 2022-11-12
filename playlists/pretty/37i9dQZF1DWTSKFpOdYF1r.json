@@ -1,12 +1,12 @@
 {
   "description": "The songs that defined the other side of the 80s. Cover: Poly Styrene ",
-  "num_followers": 820538,
+  "num_followers": 820859,
   "original_name": "Alternative 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDQ2Njc2MCwwMDAwMDAwMGU3ZGU1YmExMjI3NDFjM2Y3ZDM1MzRmNzkxM2ZkY2Yw",
+  "snapshot_id": "MTY2NDQ2Njc2MCwwMDAwMDAwMGNmN2YzOGZhNzNiYWIyMDc2ZGY4MjM4ODkxYTVkNWI4",
   "tracks": [
     {
       "added_at": "2022-09-29 15:52:40",
@@ -163,18 +163,18 @@
     {
       "added_at": "2022-09-29 15:52:40",
       "album": {
-        "name": "Love Will Tear Us Apart",
-        "url": "https://open.spotify.com/album/0u0CJa9zwFbGSU8JWQYS5G"
+        "name": "Organisation",
+        "url": "https://open.spotify.com/album/3bouQtY9H1DP39yxqHuFf8"
       },
       "artists": [
         {
-          "name": "Joy Division",
-          "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
+          "name": "Orchestral Manoeuvres In The Dark",
+          "url": "https://open.spotify.com/artist/7wJ9NwdRWtN92NunmXuwBk"
         }
       ],
-      "duration_ms": 208453,
-      "name": "Love Will Tear Us Apart - 2020 Remaster",
-      "url": "https://open.spotify.com/track/34iOH7LY3vme5rQxsVILZ4"
+      "duration_ms": 213693,
+      "name": "Enola Gay - Remastered 2003",
+      "url": "https://open.spotify.com/track/3NYCaxkggl0Hh8vQptSUvV"
     },
     {
       "added_at": "2022-09-29 15:52:40",
@@ -191,22 +191,6 @@
       "duration_ms": 162920,
       "name": "This Charming Man - 2011 Remaster",
       "url": "https://open.spotify.com/track/1FvDJ9KGxcqwv1utyPL3JZ"
-    },
-    {
-      "added_at": "2022-09-29 15:52:40",
-      "album": {
-        "name": "Organisation",
-        "url": "https://open.spotify.com/album/3bouQtY9H1DP39yxqHuFf8"
-      },
-      "artists": [
-        {
-          "name": "Orchestral Manoeuvres In The Dark",
-          "url": "https://open.spotify.com/artist/7wJ9NwdRWtN92NunmXuwBk"
-        }
-      ],
-      "duration_ms": 213693,
-      "name": "Enola Gay - Remastered 2003",
-      "url": "https://open.spotify.com/track/3NYCaxkggl0Hh8vQptSUvV"
     },
     {
       "added_at": "2022-09-29 15:52:40",
@@ -259,38 +243,6 @@
     {
       "added_at": "2022-09-29 15:52:40",
       "album": {
-        "name": "Hatful of Hollow",
-        "url": "https://open.spotify.com/album/1j57Q5ntVi7crpibb0h4sv"
-      },
-      "artists": [
-        {
-          "name": "The Smiths",
-          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
-        }
-      ],
-      "duration_ms": 408173,
-      "name": "How Soon Is Now? - 2011 Remaster",
-      "url": "https://open.spotify.com/track/1YrnDTqvcnUKxAIeXyaEmU"
-    },
-    {
-      "added_at": "2022-09-29 15:52:40",
-      "album": {
-        "name": "Freedom of Choice",
-        "url": "https://open.spotify.com/album/6UsP4NQ9K4L4Nqxj0Qis41"
-      },
-      "artists": [
-        {
-          "name": "DEVO",
-          "url": "https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3"
-        }
-      ],
-      "duration_ms": 161133,
-      "name": "Whip It",
-      "url": "https://open.spotify.com/track/4sscDOZCkbLSlDqcCgUJnX"
-    },
-    {
-      "added_at": "2022-09-29 15:52:40",
-      "album": {
         "name": "13 Songs",
         "url": "https://open.spotify.com/album/1FcRwT7uoNdO8L9wbYsfAY"
       },
@@ -303,6 +255,22 @@
       "duration_ms": 173266,
       "name": "Waiting Room",
       "url": "https://open.spotify.com/track/2DBlfjL5chsdeULzhTp5K8"
+    },
+    {
+      "added_at": "2022-09-29 15:52:40",
+      "album": {
+        "name": "Hatful of Hollow",
+        "url": "https://open.spotify.com/album/1j57Q5ntVi7crpibb0h4sv"
+      },
+      "artists": [
+        {
+          "name": "The Smiths",
+          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+        }
+      ],
+      "duration_ms": 408173,
+      "name": "How Soon Is Now? - 2011 Remaster",
+      "url": "https://open.spotify.com/track/1YrnDTqvcnUKxAIeXyaEmU"
     },
     {
       "added_at": "2022-09-29 15:52:40",
@@ -323,22 +291,6 @@
     {
       "added_at": "2022-09-29 15:52:40",
       "album": {
-        "name": "The Innocents",
-        "url": "https://open.spotify.com/album/7BS88XlHgbYq4bEnO6sICd"
-      },
-      "artists": [
-        {
-          "name": "Erasure",
-          "url": "https://open.spotify.com/artist/0z5DFXmhT4ZNzWElsM7V89"
-        }
-      ],
-      "duration_ms": 213373,
-      "name": "A Little Respect",
-      "url": "https://open.spotify.com/track/2RVQIq7bLi4Eu6xHPyQ46t"
-    },
-    {
-      "added_at": "2022-09-29 15:52:40",
-      "album": {
         "name": "Stereo-Typical: A's, B's & Rarities",
         "url": "https://open.spotify.com/album/0EKaJQaxiszKS8DBUDhbtz"
       },
@@ -355,18 +307,18 @@
     {
       "added_at": "2022-09-29 15:52:40",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/5Sh5gjCOggbEb2kMIFKHHo"
+        "name": "The Stone Roses",
+        "url": "https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw"
       },
       "artists": [
         {
-          "name": "The Hooters",
-          "url": "https://open.spotify.com/artist/7uhvDINTTiD0XBrP9fquN1"
+          "name": "The Stone Roses",
+          "url": "https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d"
         }
       ],
-      "duration_ms": 227760,
-      "name": "And We Danced",
-      "url": "https://open.spotify.com/track/5xkNd7kCRmjT2DxSAYVVyC"
+      "duration_ms": 278826,
+      "name": "Waterfall - Remastered",
+      "url": "https://open.spotify.com/track/4CWgqHRJjDLd2PCedMz8eY"
     },
     {
       "added_at": "2022-09-29 15:52:40",
@@ -383,38 +335,6 @@
       "duration_ms": 346280,
       "name": "The Killing Moon",
       "url": "https://open.spotify.com/track/15049rGLXHwrWtE4euUb5C"
-    },
-    {
-      "added_at": "2022-09-29 15:52:40",
-      "album": {
-        "name": "The Queen Is Dead",
-        "url": "https://open.spotify.com/album/5Y0p2XCgRRIjna91aQE8q7"
-      },
-      "artists": [
-        {
-          "name": "The Smiths",
-          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
-        }
-      ],
-      "duration_ms": 193320,
-      "name": "Bigmouth Strikes Again - 2011 Remaster",
-      "url": "https://open.spotify.com/track/2OErSh4oVVAUll0vHxdr6p"
-    },
-    {
-      "added_at": "2022-09-29 15:52:40",
-      "album": {
-        "name": "The Stone Roses",
-        "url": "https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw"
-      },
-      "artists": [
-        {
-          "name": "The Stone Roses",
-          "url": "https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d"
-        }
-      ],
-      "duration_ms": 278826,
-      "name": "Waterfall - Remastered",
-      "url": "https://open.spotify.com/track/4CWgqHRJjDLd2PCedMz8eY"
     },
     {
       "added_at": "2022-09-29 15:52:40",
@@ -467,6 +387,38 @@
     {
       "added_at": "2022-09-29 15:52:40",
       "album": {
+        "name": "The Queen Is Dead",
+        "url": "https://open.spotify.com/album/5Y0p2XCgRRIjna91aQE8q7"
+      },
+      "artists": [
+        {
+          "name": "The Smiths",
+          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+        }
+      ],
+      "duration_ms": 193320,
+      "name": "Bigmouth Strikes Again - 2011 Remaster",
+      "url": "https://open.spotify.com/track/2OErSh4oVVAUll0vHxdr6p"
+    },
+    {
+      "added_at": "2022-09-29 15:52:40",
+      "album": {
+        "name": "The Stone Roses",
+        "url": "https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw"
+      },
+      "artists": [
+        {
+          "name": "The Stone Roses",
+          "url": "https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d"
+        }
+      ],
+      "duration_ms": 594453,
+      "name": "Fools Gold - Remastered",
+      "url": "https://open.spotify.com/track/2mv6GY70UsHiTCGQZ4JfgC"
+    },
+    {
+      "added_at": "2022-09-29 15:52:40",
+      "album": {
         "name": "Off The Bone",
         "url": "https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi"
       },
@@ -495,38 +447,6 @@
       "duration_ms": 417800,
       "name": "Teen Age Riot (Album Version)",
       "url": "https://open.spotify.com/track/0WIbzDVEpmOyBnqqdtqIL9"
-    },
-    {
-      "added_at": "2022-09-29 15:52:40",
-      "album": {
-        "name": "The Stone Roses",
-        "url": "https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw"
-      },
-      "artists": [
-        {
-          "name": "The Stone Roses",
-          "url": "https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d"
-        }
-      ],
-      "duration_ms": 594453,
-      "name": "Fools Gold - Remastered",
-      "url": "https://open.spotify.com/track/2mv6GY70UsHiTCGQZ4JfgC"
-    },
-    {
-      "added_at": "2022-09-29 15:52:40",
-      "album": {
-        "name": "The Queen Is Dead",
-        "url": "https://open.spotify.com/album/5Y0p2XCgRRIjna91aQE8q7"
-      },
-      "artists": [
-        {
-          "name": "The Smiths",
-          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
-        }
-      ],
-      "duration_ms": 349186,
-      "name": "I Know It's Over - 2011 Remaster",
-      "url": "https://open.spotify.com/track/3M2bD9SMYnJIPdrTKUnBd3"
     },
     {
       "added_at": "2022-09-29 15:52:40",
@@ -595,6 +515,22 @@
     {
       "added_at": "2022-09-29 15:52:40",
       "album": {
+        "name": "The Queen Is Dead",
+        "url": "https://open.spotify.com/album/5Y0p2XCgRRIjna91aQE8q7"
+      },
+      "artists": [
+        {
+          "name": "The Smiths",
+          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+        }
+      ],
+      "duration_ms": 349186,
+      "name": "I Know It's Over - 2011 Remaster",
+      "url": "https://open.spotify.com/track/3M2bD9SMYnJIPdrTKUnBd3"
+    },
+    {
+      "added_at": "2022-09-29 15:52:40",
+      "album": {
         "name": "Surfer Rosa",
         "url": "https://open.spotify.com/album/50j4Wm1b9hLpSpPIA39Vp9"
       },
@@ -611,22 +547,6 @@
     {
       "added_at": "2022-09-29 15:52:40",
       "album": {
-        "name": "Night Time",
-        "url": "https://open.spotify.com/album/2qcwXvluk9iFwNNg4eDBXm"
-      },
-      "artists": [
-        {
-          "name": "Killing Joke",
-          "url": "https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD"
-        }
-      ],
-      "duration_ms": 239280,
-      "name": "Eighties - 2007 Digital Remaster",
-      "url": "https://open.spotify.com/track/21T9lWigjSIMg9uD6ZfRnQ"
-    },
-    {
-      "added_at": "2022-09-29 15:52:40",
-      "album": {
         "name": "Orchestral Manoeuvres In The Dark (Remastered 2003)",
         "url": "https://open.spotify.com/album/5AN8aqTrcuMZO7rpD9U2yF"
       },
@@ -639,22 +559,6 @@
       "duration_ms": 219066,
       "name": "Electricity - Remastered 2003",
       "url": "https://open.spotify.com/track/60TmG8cFPMBo7kTTFOLiAB"
-    },
-    {
-      "added_at": "2022-09-29 15:52:40",
-      "album": {
-        "name": "Inflammable Material",
-        "url": "https://open.spotify.com/album/2uXYm7SqdQlOgrx2FEWlkD"
-      },
-      "artists": [
-        {
-          "name": "Stiff Little Fingers",
-          "url": "https://open.spotify.com/artist/2bt3I0VkmYuPvP57sxokab"
-        }
-      ],
-      "duration_ms": 163880,
-      "name": "Alternative Ulster",
-      "url": "https://open.spotify.com/track/2yE3bwbhqypdsuhmv48Svn"
     },
     {
       "added_at": "2022-09-29 15:52:40",
@@ -755,38 +659,6 @@
     {
       "added_at": "2022-09-29 15:52:40",
       "album": {
-        "name": "Pelican West Plus",
-        "url": "https://open.spotify.com/album/6VIiHu2RCwWo4151YCG7ND"
-      },
-      "artists": [
-        {
-          "name": "Haircut 100",
-          "url": "https://open.spotify.com/artist/6imyM8T1Xbe8v2iZe41dR7"
-        }
-      ],
-      "duration_ms": 212573,
-      "name": "Love Plus One",
-      "url": "https://open.spotify.com/track/4vwLjB2NRtl9b34jRe6cWd"
-    },
-    {
-      "added_at": "2022-09-29 15:52:40",
-      "album": {
-        "name": "Hounds of Love (2018 Remaster)",
-        "url": "https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH"
-      },
-      "artists": [
-        {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        }
-      ],
-      "duration_ms": 182866,
-      "name": "Hounds Of Love - 2018 Remaster",
-      "url": "https://open.spotify.com/track/7Gmds7ZyvhKdoU0Ho4GIxK"
-    },
-    {
-      "added_at": "2022-09-29 15:52:40",
-      "album": {
         "name": "Waiting",
         "url": "https://open.spotify.com/album/0JVCzhWigJomwGmQhsBAtx"
       },
@@ -867,6 +739,22 @@
     {
       "added_at": "2022-09-29 15:52:40",
       "album": {
+        "name": "Hounds of Love (2018 Remaster)",
+        "url": "https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "duration_ms": 182866,
+      "name": "Hounds Of Love - 2018 Remaster",
+      "url": "https://open.spotify.com/track/7Gmds7ZyvhKdoU0Ho4GIxK"
+    },
+    {
+      "added_at": "2022-09-29 15:52:40",
+      "album": {
         "name": "Skylarking",
         "url": "https://open.spotify.com/album/3FVsJiQMI7dp0RfTBdWtMW"
       },
@@ -895,42 +783,6 @@
       "duration_ms": 411973,
       "name": "Uncertain Smile",
       "url": "https://open.spotify.com/track/31alFPGPYXPTGLQfmkp8fh"
-    },
-    {
-      "added_at": "2022-09-29 15:52:40",
-      "album": {
-        "name": "Never for Ever (2018 Remaster)",
-        "url": "https://open.spotify.com/album/0KBFDO8qcY0zhybIESEQUt"
-      },
-      "artists": [
-        {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        }
-      ],
-      "duration_ms": 179160,
-      "name": "Army Dreamers - 2018 Remaster",
-      "url": "https://open.spotify.com/track/135ArLV1euyyeegU9D8HVR"
-    },
-    {
-      "added_at": "2022-09-29 15:52:40",
-      "album": {
-        "name": "Happy Families",
-        "url": "https://open.spotify.com/album/0JfH0CgotRyhNiyfUtXS0l"
-      },
-      "artists": [
-        {
-          "name": "Blancmange",
-          "url": "https://open.spotify.com/artist/3LtBdgNHdH0Ix8hCFZ4NJG"
-        },
-        {
-          "name": "Dennis Weinrich with John O.Williams",
-          "url": "https://open.spotify.com/artist/38DOQYh2wbuhXYM2MSDvBb"
-        }
-      ],
-      "duration_ms": 250746,
-      "name": "Living On The Ceiling",
-      "url": "https://open.spotify.com/track/7ygp7PFQu9oYlV72tSd2Wz"
     },
     {
       "added_at": "2022-09-29 15:52:40",
@@ -967,34 +819,18 @@
     {
       "added_at": "2022-09-29 15:52:40",
       "album": {
-        "name": "London Town 1983-1993",
-        "url": "https://open.spotify.com/album/5K5vUTocXxi9OTkSDQEbx8"
+        "name": "Never for Ever (2018 Remaster)",
+        "url": "https://open.spotify.com/album/0KBFDO8qcY0zhybIESEQUt"
       },
       "artists": [
         {
-          "name": "The The",
-          "url": "https://open.spotify.com/artist/7cKtqv9cYVlOwnuCFH95ce"
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
         }
       ],
-      "duration_ms": 297066,
-      "name": "This Is the Day",
-      "url": "https://open.spotify.com/track/5O7RVmqK3AYoFfyeafxOqH"
-    },
-    {
-      "added_at": "2022-09-29 15:52:40",
-      "album": {
-        "name": "Seventeen Seconds",
-        "url": "https://open.spotify.com/album/2KWHRfKSRpgsxNGIl2nQva"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 220640,
-      "name": "Play for Today - 2006 Remaster",
-      "url": "https://open.spotify.com/track/1PnQ1sK77wMXagGDhwfBdY"
+      "duration_ms": 179160,
+      "name": "Army Dreamers - 2018 Remaster",
+      "url": "https://open.spotify.com/track/135ArLV1euyyeegU9D8HVR"
     },
     {
       "added_at": "2022-09-29 15:52:40",
@@ -1063,6 +899,22 @@
     {
       "added_at": "2022-09-29 15:52:40",
       "album": {
+        "name": "London Town 1983-1993",
+        "url": "https://open.spotify.com/album/5K5vUTocXxi9OTkSDQEbx8"
+      },
+      "artists": [
+        {
+          "name": "The The",
+          "url": "https://open.spotify.com/artist/7cKtqv9cYVlOwnuCFH95ce"
+        }
+      ],
+      "duration_ms": 297066,
+      "name": "This Is the Day",
+      "url": "https://open.spotify.com/track/5O7RVmqK3AYoFfyeafxOqH"
+    },
+    {
+      "added_at": "2022-09-29 15:52:40",
+      "album": {
         "name": "Surrender",
         "url": "https://open.spotify.com/album/7l5I3C9sBNZfNG0BiECU2X"
       },
@@ -1127,22 +979,6 @@
     {
       "added_at": "2022-09-29 15:52:40",
       "album": {
-        "name": "Steps In Time",
-        "url": "https://open.spotify.com/album/7dTQ7PhsaV6a6AeGV9l97N"
-      },
-      "artists": [
-        {
-          "name": "King",
-          "url": "https://open.spotify.com/artist/3ckiHuEKcXHXV0QOkCdCki"
-        }
-      ],
-      "duration_ms": 201386,
-      "name": "Love & Pride",
-      "url": "https://open.spotify.com/track/3oGcHyoXwBMIAXkgIzLoQn"
-    },
-    {
-      "added_at": "2022-09-29 15:52:40",
-      "album": {
         "name": "Playlist: The Very Best of A Flock of Seagulls",
         "url": "https://open.spotify.com/album/6cphBfn6beKzazlp3xjftb"
       },
@@ -1155,22 +991,6 @@
       "duration_ms": 330426,
       "name": "Wishing (If I Had a Photograph of You)",
       "url": "https://open.spotify.com/track/2mwdSJZlzXOJqTQ37rpIbv"
-    },
-    {
-      "added_at": "2022-09-29 15:52:40",
-      "album": {
-        "name": "Quiet Life",
-        "url": "https://open.spotify.com/album/5KUNMuwPrKcWkiELM80qKT"
-      },
-      "artists": [
-        {
-          "name": "Japan",
-          "url": "https://open.spotify.com/artist/7vPXrGlSGukcwpaPxUfKKR"
-        }
-      ],
-      "duration_ms": 289080,
-      "name": "Quiet Life",
-      "url": "https://open.spotify.com/track/7GTcfdzY73zsDINXbBzV7B"
     },
     {
       "added_at": "2022-09-29 15:52:40",
@@ -1203,22 +1023,6 @@
       "duration_ms": 248440,
       "name": "I Like Chopin (Single Edit)",
       "url": "https://open.spotify.com/track/3DZnc4lcqJF8FJmRbjrmA0"
-    },
-    {
-      "added_at": "2022-09-29 15:52:40",
-      "album": {
-        "name": "Murmur",
-        "url": "https://open.spotify.com/album/4Mw9Gcu1LT7JaipXdwrq1Q"
-      },
-      "artists": [
-        {
-          "name": "R.E.M.",
-          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
-        }
-      ],
-      "duration_ms": 245200,
-      "name": "Radio Free Europe",
-      "url": "https://open.spotify.com/track/46dGFTD918NMz1IP1rPJXO"
     },
     {
       "added_at": "2022-09-29 15:52:40",
@@ -1299,6 +1103,198 @@
       "duration_ms": 185199,
       "name": "On my Radio",
       "url": "https://open.spotify.com/track/5X7Sbugnqqm3ffA9y7b7wD"
+    },
+    {
+      "added_at": "2022-09-29 15:52:40",
+      "album": {
+        "name": "Isn't Anything",
+        "url": "https://open.spotify.com/album/3mnv6nzZV5AQhDG7OUsLdo"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "duration_ms": 217626,
+      "name": "Lose My Breath",
+      "url": "https://open.spotify.com/track/1Ma06PrhbT07YFTlM48rAK"
+    },
+    {
+      "added_at": "2022-09-29 15:52:40",
+      "album": {
+        "name": "Playlist: The Very Best Of Scandal",
+        "url": "https://open.spotify.com/album/5ntJCfCa8PbqoeatwBh8cM"
+      },
+      "artists": [
+        {
+          "name": "Scandal",
+          "url": "https://open.spotify.com/artist/3RFGnJaDVOyxL9YcFaKatu"
+        }
+      ],
+      "duration_ms": 226493,
+      "name": "Goodbye to You",
+      "url": "https://open.spotify.com/track/2ARO7celMseIwJvCMS2Mt2"
+    },
+    {
+      "added_at": "2022-09-29 15:52:40",
+      "album": {
+        "name": "Come Away With ESG",
+        "url": "https://open.spotify.com/album/3vPWxVFThDOQZ6siCLque5"
+      },
+      "artists": [
+        {
+          "name": "ESG",
+          "url": "https://open.spotify.com/artist/4EF5vIcCYKMM61oYOG2Tqa"
+        }
+      ],
+      "duration_ms": 142640,
+      "name": "You Make No Sense",
+      "url": "https://open.spotify.com/track/5CUeXXccFIxZqpTzYtmORk"
+    },
+    {
+      "added_at": "2022-09-29 15:52:40",
+      "album": {
+        "name": "Grotesque (After the Gramme) [Expanded Edition]",
+        "url": "https://open.spotify.com/album/375U3Kolt8TLiqKg3bUiKJ"
+      },
+      "artists": [
+        {
+          "name": "The Fall",
+          "url": "https://open.spotify.com/artist/6WoTvA9qinpHtSRJuldYh6"
+        }
+      ],
+      "duration_ms": 205373,
+      "name": "Totally Wired",
+      "url": "https://open.spotify.com/track/2WcPqaYMXCIuGHasY3TWrv"
+    },
+    {
+      "added_at": "2022-09-29 15:52:40",
+      "album": {
+        "name": "The Correct Use Of Soap",
+        "url": "https://open.spotify.com/album/0CADblPa3Ui6lnv4251m08"
+      },
+      "artists": [
+        {
+          "name": "Magazine",
+          "url": "https://open.spotify.com/artist/4VuMnSnoTGrma3a79UhfMs"
+        }
+      ],
+      "duration_ms": 237653,
+      "name": "Because You're Frightened - Remastered 2007",
+      "url": "https://open.spotify.com/track/7I2F04fUq0DAetR5BMcQYc"
+    },
+    {
+      "added_at": "2022-09-29 15:52:40",
+      "album": {
+        "name": "Reproduction",
+        "url": "https://open.spotify.com/album/7tc1nTdBA717D74uJ07VRn"
+      },
+      "artists": [
+        {
+          "name": "The Human League",
+          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
+        }
+      ],
+      "duration_ms": 234040,
+      "name": "Being Boiled - Fast Version / 2003 Digital Remaster",
+      "url": "https://open.spotify.com/track/2xN8RYKg69sdfoqtvYnwwM"
+    },
+    {
+      "added_at": "2022-09-29 15:52:40",
+      "album": {
+        "name": "Birth, School, Work, Death (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5kFedIxAmxXyX0CNxjw8wl"
+      },
+      "artists": [
+        {
+          "name": "The Godfathers",
+          "url": "https://open.spotify.com/artist/3Gf6z7kuVRjZ2e3W2cxoXN"
+        }
+      ],
+      "duration_ms": 248826,
+      "name": "Birth, School, Work, Death",
+      "url": "https://open.spotify.com/track/7lWvECULXPh7RoAT1fmgo3"
+    },
+    {
+      "added_at": "2022-09-29 15:52:40",
+      "album": {
+        "name": "New Sensations",
+        "url": "https://open.spotify.com/album/0H1QdJdBc1roGFZ6g2U9Dx"
+      },
+      "artists": [
+        {
+          "name": "Lou Reed",
+          "url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
+        }
+      ],
+      "duration_ms": 197706,
+      "name": "I Love You, Suzanne",
+      "url": "https://open.spotify.com/track/75ZIcqlga3HJf5IT3UFinx"
+    },
+    {
+      "added_at": "2022-09-29 15:52:40",
+      "album": {
+        "name": "Assemblage",
+        "url": "https://open.spotify.com/album/0dAsUU19ezkLw7ZUMgdfc3"
+      },
+      "artists": [
+        {
+          "name": "Japan",
+          "url": "https://open.spotify.com/artist/7vPXrGlSGukcwpaPxUfKKR"
+        }
+      ],
+      "duration_ms": 211600,
+      "name": "Life in Tokyo",
+      "url": "https://open.spotify.com/track/7mJl9BQhvdao4M8s5houTL"
+    },
+    {
+      "added_at": "2022-09-29 15:52:40",
+      "album": {
+        "name": "20th Century Masters: The Millennium Collection: Best Of Grace Jones",
+        "url": "https://open.spotify.com/album/41voXxMLKUvdo3TtXEBa5e"
+      },
+      "artists": [
+        {
+          "name": "Grace Jones",
+          "url": "https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd"
+        }
+      ],
+      "duration_ms": 282600,
+      "name": "Pull Up To The Bumper",
+      "url": "https://open.spotify.com/track/5FuQfnQIld9Jax9SlzqeBF"
+    },
+    {
+      "added_at": "2022-09-29 15:52:40",
+      "album": {
+        "name": "Bleach (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0CqchZDaOxckvjnKKfJh1w"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "duration_ms": 215203,
+      "name": "Love Buzz",
+      "url": "https://open.spotify.com/track/4AkFvW4VdNDNmVXehylmrr"
+    },
+    {
+      "added_at": "2022-09-29 15:52:40",
+      "album": {
+        "name": "The Compact XTC",
+        "url": "https://open.spotify.com/album/6NYMUVXpzsA4XIBD3TmQCA"
+      },
+      "artists": [
+        {
+          "name": "XTC",
+          "url": "https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz"
+        }
+      ],
+      "duration_ms": 233800,
+      "name": "Making Plans For Nigel",
+      "url": "https://open.spotify.com/track/3ey3YMZLdl1tQjbz7EJkKG"
     }
   ],
   "unique_name": "Alternative 80s",

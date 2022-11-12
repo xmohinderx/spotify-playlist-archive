@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:0DqR5aQYPz1s2M3YbycLMJ">jamesjamesjames' </a> favourite tracks\.  Updated regularly\. Curated by jamesjamesjames\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-70 songs - 4 hr 33 min - [published](https://open.spotify.com/playlist/46XZ4IMGhni4OH0JCWukmO)
+71 songs - 4 hr 39 min - [published](https://open.spotify.com/playlist/46XZ4IMGhni4OH0JCWukmO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [Beautiful](https://open.spotify.com/track/2NyST1PrdhrIySjgKG8fop) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [PC Music, Vol\. 1](https://open.spotify.com/album/6v7bvadPuidJL6o6kepl1f) | 3:49 | 2022-03-31 |  |
 | [BFF](https://open.spotify.com/track/2uvmVeBZ2YLk8jPVQnOFsI) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC), [Ayesha Erotica](https://open.spotify.com/artist/6TMGw1UYn6DFEtn2f9mv8J) | [BFF](https://open.spotify.com/album/4pzC10czTKZvSGLISiVOMD) | 3:35 | 2022-03-31 |  |
 | [Bossed Up](https://open.spotify.com/track/2Ht7vK4FOBUnl2C80OdQsO) | [Quay Dash](https://open.spotify.com/artist/6k6lSmhyFpe2oYcredvZHM) | [Transphobic](https://open.spotify.com/album/2vkSCPeqGqr2iCDZEbtieZ) | 2:15 | 2022-03-31 |  |
-| [Breathe](https://open.spotify.com/track/4ZtqsOdBbS6GoedzzRGSo9) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [The Fat of the Land](https://open.spotify.com/album/2qivROlvQ8BcUKTaCA7dL2) | 5:36 | 2022-03-31 |  |
+| [Breathe](https://open.spotify.com/track/0PsRhMfKbjPblbu6Vd7ZGs) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [Their Law The Singles 1990 \- 2005](https://open.spotify.com/album/0aZZ90ZakcGFzFiBMKHrCy) | 5:36 | 2022-03-31 |  |
+| [Breathe](https://open.spotify.com/track/4ZtqsOdBbS6GoedzzRGSo9) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [The Fat of the Land](https://open.spotify.com/album/2qivROlvQ8BcUKTaCA7dL2) | 5:36 | 2022-03-31 | 2022-11-12 |
 | [Cinderella](https://open.spotify.com/track/00I1QKvKaAikK5joEW92Zd) | [Instupendo](https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC) | [Boys by Girls](https://open.spotify.com/album/4KnjTXIO4Znm41fTeNEOPd) | 3:05 | 2022-03-31 |  |
 | [Cinema](https://open.spotify.com/track/5Xjh7Ew2mqrajmvTTZN231) | [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [TOTEP](https://open.spotify.com/album/1JRe4BK6irt43VvOESllLv) | 2:06 | 2022-03-31 |  |
 | [Cinema](https://open.spotify.com/track/7lpcsfhzWhzbBjg3QopQYb) | [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [TOTEP](https://open.spotify.com/album/59qMNeLYyUvxNBO3hXgtE5) | 2:06 | 2022-03-31 | 2022-11-11 |

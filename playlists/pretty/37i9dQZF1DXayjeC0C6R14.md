@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayjeC0C6R14.md) - [plain]
 
 > Canciones de rock dignas de festival para dedicarle a tu media naranja.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,413 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,492 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayjeC0C6R14.md) - [plain]
 | 16 | [Loco \(Tu Forma De Ser\)](https://open.spotify.com/track/3ydweVPwq9PCEVJ8WwqT6u) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [El Milagro Argentino](https://open.spotify.com/album/2pqscM7JlS6XR6fk7Y8tVZ) | 5:13 |
 | 17 | [Algo Contigo](https://open.spotify.com/track/4zsDA31stWMtLveU61hejd) | [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ) | [Vicentico](https://open.spotify.com/album/6Qt9Yiol5QcAEeKPyIQafo) | 3:38 |
 | 18 | [International Love](https://open.spotify.com/track/6WnHvniJIHbDGe9Re8c591) | [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Mexican Institute Of Sound](https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy) | [International Love](https://open.spotify.com/album/4BsnVbmnvKel6j1bR3lCeS) | 4:37 |
-| 19 | [Igual Que Ayer](https://open.spotify.com/track/2JlVEgNJwskpAGSudKPqLD) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Igual Que Ayer](https://open.spotify.com/album/5L7tBkravu3KFBQlry16Jp) | 4:50 |
+| 19 | [Beber de Tu Sangre](https://open.spotify.com/track/3Gr4OWY7lAXAq7PpgUbctG) | [Los Amantes De Lola](https://open.spotify.com/artist/7IwYwKG6VacXOThKHvPgUc) | [Rock En Espanol \- Lo Mejor De Los Amantes De Lola](https://open.spotify.com/album/38l9gB9jzOiWkQaR36ZhUG) | 4:36 |
 | 20 | [Razón](https://open.spotify.com/track/2dSz2px33HmyFwL5rDlh2e) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Bailarín Apocalíptico](https://open.spotify.com/album/1wLDlwN9FfneiyC5ZuJIeQ) | 3:15 |
-| 21 | [Beber de Tu Sangre](https://open.spotify.com/track/3Gr4OWY7lAXAq7PpgUbctG) | [Los Amantes De Lola](https://open.spotify.com/artist/7IwYwKG6VacXOThKHvPgUc) | [Rock En Espanol \- Lo Mejor De Los Amantes De Lola](https://open.spotify.com/album/38l9gB9jzOiWkQaR36ZhUG) | 4:36 |
+| 21 | [Igual Que Ayer](https://open.spotify.com/track/2JlVEgNJwskpAGSudKPqLD) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Igual Que Ayer](https://open.spotify.com/album/5L7tBkravu3KFBQlry16Jp) | 4:50 |
 | 22 | [La Negra Tomasa \- Bilongo \- Versión Tropical](https://open.spotify.com/track/6cVHu0HmKo4oEOSOqooTa3) | [Caifanes](https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9) | [Caifanes](https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr) | 7:52 |
 | 23 | [Lago en el Cielo](https://open.spotify.com/track/17eJyYLIlMNlOqcwHYJ9F2) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Ahí Vamos](https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP) | 5:08 |
 | 24 | [Me Estoy Enamorando](https://open.spotify.com/track/0CYoeBgcZEPjiRhwtxGDTR) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Ska a La Carta](https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd) | 4:03 |
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayjeC0C6R14.md) - [plain]
 | 39 | [Viviré para Ti](https://open.spotify.com/track/2urjF7QhprjmNRK2aqLnxE) | [Los Amigos Invisibles](https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN) | [Commercial](https://open.spotify.com/album/2LjbDdADARNuV39Dxz9ISb) | 3:27 |
 | 40 | [Sol de Medianoche](https://open.spotify.com/track/5IZ0g6oo8OUa6fP1zBQpWB) | [Salon Victoria](https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea) | [Locos y Rucas In Retro](https://open.spotify.com/album/3OEHH1ixOYMH6NKkLmxRmI) | 4:10 |
 | 41 | [Cenit Acústico](https://open.spotify.com/track/0rHLMqXVjJlfV7GrHujBvl) | [La Castañeda](https://open.spotify.com/artist/7fFzUTQmuK6dcxov1opn5Q) | [Trance](https://open.spotify.com/album/3aHa7uq45Sob1hGiKAiwxi) | 4:29 |
-| 42 | [La flaca](https://open.spotify.com/track/0ll9JAIrM3NVBOMl45sxSX) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [La Flaca](https://open.spotify.com/album/1O5kJTerozuI2WLgzvIz2m) | 4:21 |
-| 43 | [Te Vas a Acordar de Mí](https://open.spotify.com/track/1kaLpH5uG4l7RbLKYU7bF5) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Rock En Español \- Lo Mejor De Tex Tex](https://open.spotify.com/album/3Sx5ggdxFDZxsn3Y6IjmhG) | 3:22 |
-| 44 | [Tu Que Pediras](https://open.spotify.com/track/43rvPyr8S3YGjE61efRlrw) | [Maskatesta](https://open.spotify.com/artist/7IyBMp52r2T01C39t27vrE) | [The Maskatonians All Stars And Friends](https://open.spotify.com/album/369qblMdVKisn6er3exhcw) | 3:44 |
-| 45 | [Soun Tha Mi Primer Amor \- Remastered](https://open.spotify.com/track/1ABzvnkHLpLaIN7VlB00LJ) | [Kinky](https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv) | [Kinky \(Remastered\)](https://open.spotify.com/album/0EuvehvpSxGl1Q3GJ0p6pI) | 3:11 |
-| 46 | [Lo Pasado, Pasado](https://open.spotify.com/track/0loVgkJy6V4bK1RwN47eBl) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [A 30 Años](https://open.spotify.com/album/6N14CMYjjUcMFgWIsQqRgY) | 3:21 |
-| 47 | [Caney](https://open.spotify.com/track/1iy127mskdnMF5mC5kicFF) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Jambene](https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8) | [Caney](https://open.spotify.com/album/1x8IWBHGkrxSuHZibxOvgc) | 3:50 |
-| 48 | [Llamame, Si Me Necesitas](https://open.spotify.com/track/42HQLzOUKwStGDTNlX0DzY) | [Miguel Mateos \- Zas](https://open.spotify.com/artist/3YG18nhGaJkR1F6VpcnSG6) | [Solos en América](https://open.spotify.com/album/2xuIhYMc9jjZDUynjd64RM) | 4:29 |
-| 49 | [El Oasis](https://open.spotify.com/track/0QnqvWRqa5SGHBw1F8EFgM) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [No Es Lo Que Parece](https://open.spotify.com/album/3zSpK9IRrUvX96rTL5tmzC) | 3:47 |
-| 50 | [Noches de Tu Piel](https://open.spotify.com/track/2YJV5BX5npoh8FjwNmMbiP) | [La Castañeda](https://open.spotify.com/artist/7fFzUTQmuK6dcxov1opn5Q) | [Rock En Espanol \- Lo Mejor De La Castañeda](https://open.spotify.com/album/4TC8pE18FdImaDP8ql30QA) | 5:11 |
+| 42 | [Te Vas a Acordar de Mí](https://open.spotify.com/track/1kaLpH5uG4l7RbLKYU7bF5) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Rock En Español \- Lo Mejor De Tex Tex](https://open.spotify.com/album/3Sx5ggdxFDZxsn3Y6IjmhG) | 3:22 |
+| 43 | [Tu Que Pediras](https://open.spotify.com/track/43rvPyr8S3YGjE61efRlrw) | [Maskatesta](https://open.spotify.com/artist/7IyBMp52r2T01C39t27vrE) | [The Maskatonians All Stars And Friends](https://open.spotify.com/album/369qblMdVKisn6er3exhcw) | 3:44 |
+| 44 | [Soun Tha Mi Primer Amor \- Remastered](https://open.spotify.com/track/1ABzvnkHLpLaIN7VlB00LJ) | [Kinky](https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv) | [Kinky \(Remastered\)](https://open.spotify.com/album/0EuvehvpSxGl1Q3GJ0p6pI) | 3:11 |
+| 45 | [Lo Pasado, Pasado](https://open.spotify.com/track/0loVgkJy6V4bK1RwN47eBl) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [A 30 Años](https://open.spotify.com/album/6N14CMYjjUcMFgWIsQqRgY) | 3:21 |
+| 46 | [Caney](https://open.spotify.com/track/1iy127mskdnMF5mC5kicFF) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Jambene](https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8) | [Caney](https://open.spotify.com/album/1x8IWBHGkrxSuHZibxOvgc) | 3:50 |
+| 47 | [Llamame, Si Me Necesitas](https://open.spotify.com/track/42HQLzOUKwStGDTNlX0DzY) | [Miguel Mateos \- Zas](https://open.spotify.com/artist/3YG18nhGaJkR1F6VpcnSG6) | [Solos en América](https://open.spotify.com/album/2xuIhYMc9jjZDUynjd64RM) | 4:29 |
+| 48 | [El Oasis](https://open.spotify.com/track/0QnqvWRqa5SGHBw1F8EFgM) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [No Es Lo Que Parece](https://open.spotify.com/album/3zSpK9IRrUvX96rTL5tmzC) | 3:47 |
+| 49 | [Noches de Tu Piel](https://open.spotify.com/track/2YJV5BX5npoh8FjwNmMbiP) | [La Castañeda](https://open.spotify.com/artist/7fFzUTQmuK6dcxov1opn5Q) | [Rock En Espanol \- Lo Mejor De La Castañeda](https://open.spotify.com/album/4TC8pE18FdImaDP8ql30QA) | 5:11 |
+| 50 | [Qué Rico](https://open.spotify.com/track/75NBuHx7ad04FAXKsoEbrg) | [Los Amigos Invisibles](https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN) | [Arepa 3000](https://open.spotify.com/album/4VRNs3TfQWZjRXiv378FNN) | 3:59 |
 
-Snapshot ID: `MTY2MDA2NTUzNywwMDAwMDAwMDU1ZmZkOGExZmYyYmE4MzM3OGY3OGYwMTg4MGNkMTQx`
+Snapshot ID: `MTY2MDA2NTUzNywwMDAwMDAwMDRmZGYxMTNhZTAwZDE3NzY2MmY1NmJjMjIzMTBiMGE0`

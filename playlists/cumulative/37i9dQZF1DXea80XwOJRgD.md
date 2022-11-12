@@ -4,7 +4,7 @@
 
 > Some heart and soul for those up late.
 
-87 songs - 5 hr 40 min - [published](https://open.spotify.com/playlist/4GHpFgqd4bd7kxNUP0brg8)
+89 songs - 5 hr 47 min - [published](https://open.spotify.com/playlist/4GHpFgqd4bd7kxNUP0brg8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,8 +77,9 @@
 | [Part Time Love](https://open.spotify.com/track/3dhpEvVaZ81gUdmQjdNuK8) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [The Boy Who Cried Freedom](https://open.spotify.com/album/6agNoT5WXMENsbQvhxGEws) | 2:49 | 2017-11-04 |  |
 | [Part Time Love](https://open.spotify.com/track/4QlzHnU3kgHfccvRcFePYF) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [The Boy Who Cried Freedom](https://open.spotify.com/album/6gCOpOSzeI2WTNN60VhlSg) | 2:49 | 2017-11-04 | 2022-07-29 |
 | [People Make The World Go Round \- Crooklyn/Soundtrack Version](https://open.spotify.com/track/5DorAy7a2FZEbCDmsgjAEW) | [Marc Dorsey](https://open.spotify.com/artist/7A9mIAVm7NGceBFJkbb612) | [Crooklyn](https://open.spotify.com/album/5xeOuaDHjfirQTsfXvzWDv) | 5:06 | 2017-11-04 | 2022-03-09 |
+| [Run Deep](https://open.spotify.com/track/1xu1FPEKZ5wC2npAfJg0Rj) | [Deva Mahal](https://open.spotify.com/artist/74kTlA5KHbgVuvqOEeKON0), [Coco Peila](https://open.spotify.com/artist/2wqEUjDwdVypX7eCG9Yhnf) | [Run Deep](https://open.spotify.com/album/6WlMXpQRCkdZZh1RCsVjNV) | 3:36 | 2017-11-04 |  |
 | [Run Deep](https://open.spotify.com/track/1VK2R2GPj0UqFZTSPJq3k8) | [Deva Mahal](https://open.spotify.com/artist/74kTlA5KHbgVuvqOEeKON0), [Coco Peila](https://open.spotify.com/artist/2wqEUjDwdVypX7eCG9Yhnf) | [Run Deep](https://open.spotify.com/album/0LoGyKk6ZWdZYZAZNob2Kp) | 3:39 | 2017-11-04 | 2022-07-29 |
-| [Run Deep](https://open.spotify.com/track/5K1QAv6t5t6C1rhfxqXjie) | [Deva Mahal](https://open.spotify.com/artist/74kTlA5KHbgVuvqOEeKON0), [Coco Peila](https://open.spotify.com/artist/2wqEUjDwdVypX7eCG9Yhnf) | [Run Deep](https://open.spotify.com/album/24uAA2v6yqB1gN6YCUL9ed) | 3:39 | 2017-11-04 |  |
+| [Run Deep](https://open.spotify.com/track/5K1QAv6t5t6C1rhfxqXjie) | [Deva Mahal](https://open.spotify.com/artist/74kTlA5KHbgVuvqOEeKON0), [Coco Peila](https://open.spotify.com/artist/2wqEUjDwdVypX7eCG9Yhnf) | [Run Deep](https://open.spotify.com/album/24uAA2v6yqB1gN6YCUL9ed) | 3:39 | 2017-11-04 | 2022-11-12 |
 | [So Good Today \(feat\. The Dap\-Kings\)](https://open.spotify.com/track/0jJSIuK4FbK3yisVwGGMus) | [Ben Westbeech](https://open.spotify.com/artist/0qP3Irw4a8UFvXv6KQf3XM), [The Dap\-Kings](https://open.spotify.com/artist/2HEQPwrF1aP28bTk1GCONU) | [Welcome to the Remixes](https://open.spotify.com/album/0FQQn9kTrlOFGcbtfy9b7v) | 3:20 | 2017-11-04 |  |
 | [So Good Today \- Dapkings Remix](https://open.spotify.com/track/6I9sWDE3Ez9SxBVbPym3GB) | [Ben Westbeech](https://open.spotify.com/artist/0qP3Irw4a8UFvXv6KQf3XM), [The Dap\-Kings](https://open.spotify.com/artist/2HEQPwrF1aP28bTk1GCONU) | [Gilles Peterson Presents Brownswood Are One](https://open.spotify.com/album/5pp8vhkYS8oQuB3iSlRZeJ) | 3:20 | 2017-11-04 | 2022-07-29 |
 | [Someone You Loved](https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 3:02 | 2020-05-30 |  |
@@ -91,8 +92,9 @@
 | [What I'm Feelin' \(feat\. The Hamiltones\)](https://open.spotify.com/track/4ziJkj8dL74R8kaiaa8Ho1) | [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo), [The HamilTones](https://open.spotify.com/artist/1Nj9dLuiwh4DHn8AIkQyqs) | [What I'm Feelin'](https://open.spotify.com/album/5MZKupLJLcvIlCMumgwb9k) | 3:59 | 2017-11-04 |  |
 | [What Would It Take](https://open.spotify.com/track/5DSYSJvmhIWkPmfPfDct2m) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Fifty Shades Darker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5VML6S956h4YfoYPooqLEi) | 3:59 | 2017-11-04 |  |
 | [What Would It Take \- From "Fifty Shades Darker \(Original Motion Picture Soundtrack\)"](https://open.spotify.com/track/4y5tv0m1pUQMAt4AV7xjta) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Fifty Shades Darker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4RPo8gaqAbJksSE8JOIVLF) | 3:59 | 2017-11-04 | 2022-07-29 |
-| [When They Fight, They Fight](https://open.spotify.com/track/0zqmyB1prgGGiOS10sjH8A) | [Generationals](https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL) | [Con Law](https://open.spotify.com/album/6JoADrFrfs62hhWAMzSA8A) | 3:20 | 2017-11-04 |  |
+| [When They Fight, They Fight](https://open.spotify.com/track/0zqmyB1prgGGiOS10sjH8A) | [Generationals](https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL) | [Con Law](https://open.spotify.com/album/6JoADrFrfs62hhWAMzSA8A) | 3:20 | 2017-11-04 | 2022-11-12 |
 | [When They Fight, They Fight](https://open.spotify.com/track/37r6i0GTqgR05rGe5wNhmp) | [Generationals](https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL) | [Con Law](https://open.spotify.com/album/6mES0vIWVEiegixo1F9L0a) | 3:20 | 2017-11-04 | 2022-07-29 |
+| [When They Fight, They Fight](https://open.spotify.com/track/2YMv5sibAHZzzMmNSYAgIv) | [Generationals](https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL) | [Our Idiot Brother \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2zzis85l9bKu77F69OgvB5) | 3:20 | 2017-11-04 |  |
 | [You Know How I Feel](https://open.spotify.com/track/3OZmwgYP0RFTjb2t6GtGBG) | [WILSN](https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr) | [Don't Give It Up](https://open.spotify.com/album/1a6NQvZckQ4wDximKHMlwp) | 4:24 | 2017-11-04 | 2022-07-29 |
 | [Your Love Will Blow Me Away When My Heart Aches](https://open.spotify.com/track/7mTXXQLhBp3W0UCx4bLfYf) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [Son Little \(Deluxe Edition\)](https://open.spotify.com/album/2jGQieA1EggldcxFAiQHjJ) | 3:03 | 2017-11-04 |  |
 

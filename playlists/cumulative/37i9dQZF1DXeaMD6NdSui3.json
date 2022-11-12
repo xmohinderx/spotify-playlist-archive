@@ -420,6 +420,28 @@
     },
     {
       "album": {
+        "name": "Texas Blues",
+        "url": "https://open.spotify.com/album/41lFHX1tk5oIoj0C9Bfgk9"
+      },
+      "artists": [
+        {
+          "name": "Bnois King",
+          "url": "https://open.spotify.com/artist/17jKRJyvcPLKu8GrxAwff1"
+        },
+        {
+          "name": "Smokin' Joe Kubek",
+          "url": "https://open.spotify.com/artist/5XkftMVm7vxTLcj05etN6B"
+        }
+      ],
+      "date_added": "2016-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247373,
+      "name": "Have Blues, Will Travel",
+      "url": "https://open.spotify.com/track/1acDabJ7hYwJi5QEVfF1xD"
+    },
+    {
+      "album": {
         "name": "Have Blues, Will Travel",
         "url": "https://open.spotify.com/album/1aIpCxCpnB70PClhPolZhj"
       },
@@ -449,7 +471,7 @@
       ],
       "date_added": "2016-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 247373,
       "name": "Have Blues, Will Travel",
       "url": "https://open.spotify.com/track/6XxHUskI6Q4HZXiXFND9dc"
@@ -861,7 +883,7 @@
       ],
       "date_added": "2016-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 293373,
       "name": "My Texas Home",
       "url": "https://open.spotify.com/track/16UV31f3UunkFqMOsIMU5n"
@@ -883,6 +905,28 @@
       "duration_ms": 293373,
       "name": "My Texas Home",
       "url": "https://open.spotify.com/track/78smBCdkaExMyjg81o3qh5"
+    },
+    {
+      "album": {
+        "name": "United States of Blues",
+        "url": "https://open.spotify.com/album/7CiLBwUPxLhzdlmy2VgHH1"
+      },
+      "artists": [
+        {
+          "name": "W.C. Clark",
+          "url": "https://open.spotify.com/artist/2eJojpx2Dv1QL3WBjJQXWi"
+        },
+        {
+          "name": "Clark",
+          "url": "https://open.spotify.com/artist/12RE9Kwhju0Tkhv4PXpiMV"
+        }
+      ],
+      "date_added": "2016-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293373,
+      "name": "My Texas Home",
+      "url": "https://open.spotify.com/track/1pARa4gGAMHICEoIXGQvUy"
     },
     {
       "album": {

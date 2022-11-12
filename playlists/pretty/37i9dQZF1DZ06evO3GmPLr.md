@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GmPLr.md) - [plain]
 
 > This is Little Simz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,868 likes - 37 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,899 likes - 37 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,11 +27,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GmPLr.md) - [plain]
 | 17 | [Picture Perfect](https://open.spotify.com/track/35sOsFocK5HbM7iZ0kYuIM) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Stillness in Wonderland](https://open.spotify.com/album/4G50FUTTI4fCDyrxP1UEer) | 3:03 |
 | 18 | [I See You](https://open.spotify.com/track/6V1t4hTpqOyLgeTge1VWxL) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/0DBoWQ52XUHtrZQdfAqOVj) | 3:58 |
 | 19 | [where’s my lighter](https://open.spotify.com/track/77pRtEdMOE9DpVJLjfmrwb) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Alewya](https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm) | [Drop 6](https://open.spotify.com/album/6QrGmXbUtjyekuW83gXBBb) | 3:53 |
-| 20 | [Offence](https://open.spotify.com/track/4cakdyTV2GRb9ktqBNMChH) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [GREY Area](https://open.spotify.com/album/4Wwm4xg2748zhYuzDRFTgY) | 2:48 |
+| 20 | [Boss](https://open.spotify.com/track/1TNLYKpEPZ0g6jQq34pDcU) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [GREY Area](https://open.spotify.com/album/4Wwm4xg2748zhYuzDRFTgY) | 3:05 |
 | 21 | [Backseat](https://open.spotify.com/track/2Rl7RvM8RNEyCj1bLidnaJ) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Stillness In Wonderland \(Deluxe Edition\)](https://open.spotify.com/album/6uMKb8DaGGTHOjt9lBK7XL) | 3:31 |
 | 22 | [Little Q, Pt\. 1 \- Interlude](https://open.spotify.com/track/4Apa0sGc1pEsBXjX8kqdNG) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/0DBoWQ52XUHtrZQdfAqOVj) | 1:08 |
 | 23 | [damn right](https://open.spotify.com/track/12sdOBTZdgxRalR74VwABF) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Drop 6](https://open.spotify.com/album/6QrGmXbUtjyekuW83gXBBb) | 2:00 |
-| 24 | [Boss](https://open.spotify.com/track/1TNLYKpEPZ0g6jQq34pDcU) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [GREY Area](https://open.spotify.com/album/4Wwm4xg2748zhYuzDRFTgY) | 3:05 |
+| 24 | [Offence](https://open.spotify.com/track/255XENrbBfTCRz6XBL7jJR) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [GREY Area](https://open.spotify.com/album/3Z8Df4ghTJ7afEWkurB2I1) | 2:48 |
 | 25 | [Our Conversations w/ Badbadnotgood](https://open.spotify.com/track/5Z8djxiUdWwprRTJWN035z) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Stillness In Wonderland \(Deluxe Edition\)](https://open.spotify.com/album/6uMKb8DaGGTHOjt9lBK7XL) | 6:03 |
 | 26 | [Location \(feat\. Little Simz\)](https://open.spotify.com/track/7veYmTIhhDuVIpCW6UeoxJ) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Location \(feat\. Little Simz\)](https://open.spotify.com/album/5XpjnV9EuzkH60PtpwHn1E) | 4:05 |
 | 27 | [Back to My Love](https://open.spotify.com/track/3Qw29xE1UoPS5mdqoqVnWm) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Back to My Love](https://open.spotify.com/album/0abytCO5C9R9BHsvQ52Kyk) | 3:55 |
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GmPLr.md) - [plain]
 | 36 | [God Bless Mary](https://open.spotify.com/track/4hAhIfnJyBDKtjmWaCPCYT) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [A Curious Tale of Trials + Persons](https://open.spotify.com/album/4hXcI8zGSBClqEs72f0GGR) | 4:16 |
 | 37 | [Wings](https://open.spotify.com/track/1SEbQnQhi6zdChCiKUpQjB) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [A Curious Tale of Trials + Persons](https://open.spotify.com/album/4hXcI8zGSBClqEs72f0GGR) | 4:06 |
 
-Snapshot ID: `Mjc4MDE1OTIsMDAwMDAwMDAzZDk0YzBmNTRjNjdhNzRkNjAzYTFhZWIwYjZjMTYyZQ==`
+Snapshot ID: `Mjc4MDI5OTksMDAwMDAwMDA3YzFlZDE1MTE2NTI2ZDU5YjUxMzJmNDY0OTk1OTY1MQ==`

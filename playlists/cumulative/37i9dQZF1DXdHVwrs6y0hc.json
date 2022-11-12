@@ -212,6 +212,44 @@
     },
     {
       "album": {
+        "name": "Man for Galway: The Best of Sean Tyrrell",
+        "url": "https://open.spotify.com/album/157Wy6gQ2nkxywtT1eEn9f"
+      },
+      "artists": [
+        {
+          "name": "Sean Tyrrell",
+          "url": "https://open.spotify.com/artist/1aW2EHfu09S8SuoikLfF7o"
+        },
+        {
+          "name": "Steve Hanks",
+          "url": "https://open.spotify.com/artist/2JzIQuzOb8hpiB5zhZ7lWI"
+        },
+        {
+          "name": "Liam Lewis",
+          "url": "https://open.spotify.com/artist/2d7KaenH6NFhcG2vQSWq2V"
+        },
+        {
+          "name": "Shane Holden",
+          "url": "https://open.spotify.com/artist/35NQALNohwTvNkHxlq9NPk"
+        },
+        {
+          "name": "Frankie Colohan",
+          "url": "https://open.spotify.com/artist/1Au9cSkLGg1y2zHNTDgSa9"
+        },
+        {
+          "name": "James Blennerhasset",
+          "url": "https://open.spotify.com/artist/1wdeICbFumo0MSCwfE8E8l"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209653,
+      "name": "Cry of the Dreamer",
+      "url": "https://open.spotify.com/track/3mGSLmM8ShResGYCTeVcAD"
+    },
+    {
+      "album": {
         "name": "St. Patrick's Day: Ultimate Irish Pub Songs",
         "url": "https://open.spotify.com/album/4VcdKePWLXjMgOVq59EJ4u"
       },
@@ -347,6 +385,24 @@
       "duration_ms": 189840,
       "name": "Handsome Molly",
       "url": "https://open.spotify.com/track/6na8yhbibdnCNDiQwq1yCF"
+    },
+    {
+      "album": {
+        "name": "Irish Folk",
+        "url": "https://open.spotify.com/album/2n33fR7gNyWd19xPVK1oos"
+      },
+      "artists": [
+        {
+          "name": "House Devils, The",
+          "url": "https://open.spotify.com/artist/668LUkmGWcPgf02VfipBPw"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189840,
+      "name": "Handsome Molly",
+      "url": "https://open.spotify.com/track/7Hgc0UYDqCZg03MvOH5THN"
     },
     {
       "album": {
@@ -667,10 +723,32 @@
       ],
       "date_added": "2021-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 248659,
       "name": "Sweet Ballyvaughaan - Live",
       "url": "https://open.spotify.com/track/4b56EXwD6FWO2MtyHmKB4W"
+    },
+    {
+      "album": {
+        "name": "Man for Galway: The Best of Sean Tyrrell",
+        "url": "https://open.spotify.com/album/157Wy6gQ2nkxywtT1eEn9f"
+      },
+      "artists": [
+        {
+          "name": "Brendan Mulligan",
+          "url": "https://open.spotify.com/artist/0E9QheQjmEKItjqvs0ZHiG"
+        },
+        {
+          "name": "Sean Tyrrell",
+          "url": "https://open.spotify.com/artist/1aW2EHfu09S8SuoikLfF7o"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247440,
+      "name": "Sweet Ballyvaughan",
+      "url": "https://open.spotify.com/track/4L4XZDwmQt0rH1jB1rWOQ4"
     },
     {
       "album": {
@@ -917,7 +995,7 @@
       ],
       "date_added": "2021-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 342200,
       "name": "The Flower of Finea",
       "url": "https://open.spotify.com/track/3Ep3IdTgcSEROxt96TzHkh"
@@ -1017,10 +1095,28 @@
       ],
       "date_added": "2021-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 237133,
       "name": "The Man for Galway / The Rambling Pitchfork",
       "url": "https://open.spotify.com/track/0ekYHUEdwwL9MvzZbw1rxN"
+    },
+    {
+      "album": {
+        "name": "And So the Story Goes",
+        "url": "https://open.spotify.com/album/67xSY1GD1hdg4cipNuh5sJ"
+      },
+      "artists": [
+        {
+          "name": "Se\u00e1n Tyrrell, Ronan Browne & Kevin Glackin",
+          "url": "https://open.spotify.com/artist/0uTrtjSKL3BAkHSb7hA0Ut"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237746,
+      "name": "The Man for Galway / The Rambling Pitchfork (Song & Jig) (feat. Fergus Feely)",
+      "url": "https://open.spotify.com/track/7HtoQYDtTS4QlJpas6NPII"
     },
     {
       "album": {
@@ -1071,7 +1167,7 @@
       ],
       "date_added": "2021-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 248250,
       "name": "The Reason I Left Mullingar",
       "url": "https://open.spotify.com/track/69BIUIZZ8xIYJhQ0t1eY1J"

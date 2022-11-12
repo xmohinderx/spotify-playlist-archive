@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 
 > slowed, reverbed, chopped and screwed.
 
-[Spotify](https://open.spotify.com/user/spotify) - 573,451 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 575,027 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 | 49 | [Us and Them](https://open.spotify.com/track/4vqFDdkdribP2ykIOgnAjx) | [Brothel](https://open.spotify.com/artist/3xYvvJ6tjXyJJdEXBs8qf0), [barnacle boi](https://open.spotify.com/artist/6psDObCnL4BfpwqYzE0Dzu), [Derek Pope](https://open.spotify.com/artist/5wWvcn0hJXPhCw9eYUody0) | [Us and Them](https://open.spotify.com/album/4Hrrad0vv9BbvFjBPYb2xJ) | 2:46 |
 | 50 | [Feel Like \(Slowed\)](https://open.spotify.com/track/5tyiYmxmihXZi0ASdPqsTo) | [AREZRA](https://open.spotify.com/artist/6CgedJ2dk5GP40gS1OmGgE) | [Feel Like \(Slowed\)](https://open.spotify.com/album/2NT2KC0E0YiiC6YHiuGoNJ) | 3:37 |
 
-Snapshot ID: `MTY2NjkyOTYwMCwwMDAwMDAwMDhkM2ViNGYxNjVkNTg4NDVkZmQyZGEwNTg5MDcxOTE3`
+Snapshot ID: `MTY2ODE0ODg2MCwwMDAwMDAwMDVmMGNkZTgyYTFjMmFkODQ1NmI0YWIwOWZjOTAyZDg3`

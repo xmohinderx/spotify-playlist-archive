@@ -4,7 +4,7 @@
 
 > The best and finest '80s Funk\. Cover: Bootsy Collins.
 
-114 songs - 10 hr 1 min - [published](https://open.spotify.com/playlist/3f9kVVAg7rQUcBVrSRpqMR)
+115 songs - 10 hr 5 min - [published](https://open.spotify.com/playlist/3f9kVVAg7rQUcBVrSRpqMR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,8 @@
 | [The Glamorous Life](https://open.spotify.com/track/179SfVFJ0ZN41toTxnpgRD) | [Sheila E.](https://open.spotify.com/artist/6OQrOpxSIfPai3cFaN4v4P) | [The Glamorous Life](https://open.spotify.com/album/2fv3CMkuVgYRtQVnhv1rQW) | 9:03 | 2020-12-01 |  |
 | [The Pleasure Principle](https://open.spotify.com/track/1krKp0OXeCH6SI5SXl8tu5) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Control](https://open.spotify.com/album/7GWkceE5McMVfffd1RGL6Y) | 4:57 | 2020-12-01 |  |
 | [Tie Me Up](https://open.spotify.com/track/09nHziVFmEdVtguyIRlBVM) | [Mtume](https://open.spotify.com/artist/5bHSSREflcAADAyCMlmxmh) | [You, Me And He](https://open.spotify.com/album/0X7IwYZpOn6qyfiI9RLiR6) | 5:49 | 2020-12-01 |  |
-| [Turn It On](https://open.spotify.com/track/7cr6MHjxCKQwqiiCyZrbpo) | [Level 42](https://open.spotify.com/artist/0L9xkvBPcEp1nrhDrodxc5) | [The Early Tapes / Level 42](https://open.spotify.com/album/3jNbBEmjeHSUyrqKpDgiw8) | 4:40 | 2022-08-11 |  |
+| [Turn It On](https://open.spotify.com/track/6RwS8RX83Zh9yYQQ1hoTmv) | [Level 42](https://open.spotify.com/artist/0L9xkvBPcEp1nrhDrodxc5) | [Living It Up \(Deluxe\)](https://open.spotify.com/album/7Jc7f0Y43gY1ntV46cbqUG) | 4:39 | 2022-08-11 |  |
+| [Turn It On](https://open.spotify.com/track/7cr6MHjxCKQwqiiCyZrbpo) | [Level 42](https://open.spotify.com/artist/0L9xkvBPcEp1nrhDrodxc5) | [The Early Tapes / Level 42](https://open.spotify.com/album/3jNbBEmjeHSUyrqKpDgiw8) | 4:40 | 2022-08-11 | 2022-11-12 |
 | [Unity Part 1 \(The Third Coming\)](https://open.spotify.com/track/5miEPw9RhAQ9hModWqKxjT) | [Afrika Bambaataa](https://open.spotify.com/artist/7cg61q8kK8jlFi8TKKw70p), [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Looking for the Perfect Beat 1980 \-1985](https://open.spotify.com/album/2UrZ3obnsIpILX1x86hCfu) | 3:24 | 2020-12-01 |  |
 | [Walkin' The Line](https://open.spotify.com/track/32ZRHR67bss5cpB7Dw2kYb) | [Brass Construction](https://open.spotify.com/artist/5jWuVnPLmjABrgCGianzs9) | [Best Of ..Movin' & Changin'](https://open.spotify.com/album/70mFuD9TrIvjUoZN45R4M0) | 5:45 | 2020-12-01 |  |
 | [What Have You Done For Me Lately](https://open.spotify.com/track/2SFq0UIiBWkBgky0fkrHP0) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Control](https://open.spotify.com/album/7GWkceE5McMVfffd1RGL6Y) | 4:59 | 2020-12-01 | 2022-11-11 |

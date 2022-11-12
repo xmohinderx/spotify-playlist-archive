@@ -4,7 +4,7 @@
 
 > Relax to the more laid back sounds from today's greatest artists.
 
-75 songs - 4 hr 11 min - [published](https://open.spotify.com/playlist/4MQpgVeH9Nbw7P8Sb7jpLO)
+77 songs - 4 hr 18 min - [published](https://open.spotify.com/playlist/4MQpgVeH9Nbw7P8Sb7jpLO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,13 +17,15 @@
 | [Bedroom Walls](https://open.spotify.com/track/6t47JIkO4NgFcInkwBx2Mm) | [Etaoin](https://open.spotify.com/artist/5V9BcFYORnSqjFtBgrpx01) | [Bedroom Walls](https://open.spotify.com/album/0cdwwrdKjoW1g9p4BdEKuy) | 3:32 | 2021-10-14 |  |
 | [Before You Go \- Piano Version](https://open.spotify.com/track/7slfeXbuzr9RYXX6XS6Npi) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Before You Go \(Piano Version\)](https://open.spotify.com/album/0UTqwkUezPRLYSF35rj6br) | 3:38 | 2021-10-14 |  |
 | [Better Days](https://open.spotify.com/track/2vCKQ9NNCTXoAF8ltW0Zv9) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Better Days](https://open.spotify.com/album/41pm4Q8TIe9zixjdIuvgBZ) | 3:18 | 2021-10-14 | 2022-07-29 |
-| [Better Days](https://open.spotify.com/track/48USW4aYqrylYWJmFPbC8A) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Better Days](https://open.spotify.com/album/7jQ8LzeqwAKCXnHEIbp9VR) | 3:18 | 2021-10-14 |  |
+| [Better Days](https://open.spotify.com/track/48USW4aYqrylYWJmFPbC8A) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Better Days](https://open.spotify.com/album/7jQ8LzeqwAKCXnHEIbp9VR) | 3:18 | 2021-10-14 | 2022-11-12 |
+| [Better Days](https://open.spotify.com/track/4k2ZhyLz0BxHUhJgghQpYq) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Songs of Sonder](https://open.spotify.com/album/5KYqiTq9ChwEVhd26dcFM8) | 3:18 | 2021-10-14 |  |
 | [Blueprints](https://open.spotify.com/track/3anbBxikNOxuhTyjgQbATh) | [Lilla Vargen](https://open.spotify.com/artist/1bYTiIHnxEdBncCHYCfE4j) | [Blueprints](https://open.spotify.com/album/7sPrHqcvrDmYO9AhKV5Tgo) | 3:32 | 2021-10-14 |  |
 | [Brush Fire](https://open.spotify.com/track/4jp8ragG1fHm1eucECebYF) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Brush Fire](https://open.spotify.com/album/0q9LcQHXp9DuszlWNJZoLB) | 3:10 | 2021-10-14 |  |
 | [butterfly](https://open.spotify.com/track/34ZfAjSGM4vxJ1P6N5geSp) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [butterfly](https://open.spotify.com/album/4n0NmhE2JvEhqkfdQnPDW6) | 3:09 | 2021-10-14 |  |
 | [Control](https://open.spotify.com/track/50Td3qilgs8BLtv8mHyT1t) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Control](https://open.spotify.com/album/4w177LbRYa3z07NifGptFp) | 3:50 | 2021-10-14 |  |
 | [Crocodiles](https://open.spotify.com/track/03pMITmL4qouGlrfTAhX9W) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Crocodiles](https://open.spotify.com/album/6cLS5tRoyiw8U6lH1Zc4UX) | 4:00 | 2021-10-14 | 2022-07-29 |
-| [Crocodiles](https://open.spotify.com/track/3S83qk7cILQeQhguBaWi7x) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Make Believe](https://open.spotify.com/album/6Cg42RsUj2uTvThXnIHedJ) | 4:00 | 2021-10-14 |  |
+| [Crocodiles](https://open.spotify.com/track/3S83qk7cILQeQhguBaWi7x) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Make Believe](https://open.spotify.com/album/6Cg42RsUj2uTvThXnIHedJ) | 4:00 | 2021-10-14 | 2022-11-12 |
+| [Crocodiles](https://open.spotify.com/track/4fhsZuDDpwbshBn6T6j1Q0) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Make Believe](https://open.spotify.com/album/1VwMUOIMVdhdB80dTVxnxe) | 4:00 | 2021-10-14 |  |
 | [Cry Over Boys](https://open.spotify.com/track/1d9Ve8caYURgqYEVuEHMww) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [Oh No, Not Again! \- EP](https://open.spotify.com/album/3Z87Kdyjc5IC7BidBOFnUd) | 2:50 | 2021-10-14 | 2022-11-11 |
 | [Cry Over Boys](https://open.spotify.com/track/218q4fCmVERKhXEZDr6g4P) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [Cry Over Boys](https://open.spotify.com/album/6hEdISwurRTZlHPsyQhYy6) | 2:50 | 2021-10-14 | 2022-07-29 |
 | [Cry Over Boys](https://open.spotify.com/track/2EQc28mf62IeoDoEOw6OoG) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [Chilled Mix](https://open.spotify.com/album/36hNUgf2fLpK4BV8xiwv7T) | 2:50 | 2021-10-14 |  |

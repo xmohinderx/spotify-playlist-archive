@@ -4,11 +4,12 @@
 
 > Enjoy game soundtracks from Capcom! 最新作から過去まで、多数の人気作品を生み出したカプコンのゲームサントラをお届け！©CAPCOM CO., LTD\. ALL RIGHTS RESERVED.
 
-154 songs - 8 hr 14 min - [published](https://open.spotify.com/playlist/7ij89g35L5wid2aPGmGS4I)
+156 songs - 8 hr 20 min - [published](https://open.spotify.com/playlist/7ij89g35L5wid2aPGmGS4I)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ["DEVILS NEVER CRY"\(スタッフロール\)](https://open.spotify.com/track/3ozivYJGJGq6TSzdy8m64X) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [デビル メイ クライ 3 オリジナル・サウンドトラック](https://open.spotify.com/album/2NTNKtQXpBwf80gpaITckb) | 5:19 | 2021-06-30 |  |
+| [A Brand New Day](https://open.spotify.com/track/2ci8vXPrkqpJI9PjToeJxS) | [Zac Zinger](https://open.spotify.com/artist/6nVreZX9f5zkyfsuQ3Qo3J), [Buku](https://open.spotify.com/artist/0w2QFhEnPG6tLIvkogHbUi) | [A Brand New Day](https://open.spotify.com/album/4eXicJ43I6xi2DG98KFxJN) | 3:24 | 2021-06-30 |  |
 | [ABrandNewDay](https://open.spotify.com/track/6zJH70ln2n4JgSm4WApXHO) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [カプコンアーケードスタジアム ミニアルバム](https://open.spotify.com/album/1qSeVN4W7UYymi9TZzwyHI) | 3:24 | 2021-06-30 | 2022-07-28 |
 | [BOOMER KUWANGER STAGE](https://open.spotify.com/track/0rKHHCxSIyIMUCRSSAABdT) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [ロックマンX サウンド コレクション](https://open.spotify.com/album/5BfJWzKHKG5UrRPsPEgWYs) | 2:20 | 2021-06-30 | 2022-07-25 |
 | [BUBBLEMAN STAGE](https://open.spotify.com/track/2iKSUOKtDn2CdQsAPYJryS) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [ロックマン2 サウンドコレクション](https://open.spotify.com/album/7b6GOY3lEu2o9mxnkMhhEr) | 1:27 | 2021-06-30 | 2022-07-26 |
@@ -36,7 +37,8 @@
 | [Escape](https://open.spotify.com/track/0CnoyKNuuo5kuUNqtw1Tkg) | [Masami Ueda](https://open.spotify.com/artist/4Zc9ID5YsCSgTf2l00RmiU) | [Resident Evil 3 Special Soundtrack](https://open.spotify.com/album/7pQYu8IdEDcvmlhCTCSsaP) | 4:38 | 2021-06-30 | 2022-11-11 |
 | [Escape](https://open.spotify.com/track/1ykLzEi5mWPLfJbA8c5h15) | [Masami Ueda](https://open.spotify.com/artist/4Zc9ID5YsCSgTf2l00RmiU) | [バイオハザード RE:3 アルバム プレビュー](https://open.spotify.com/album/5B26OGt9by1hpAYZqadKlA) | 4:38 | 2021-06-30 | 2022-07-29 |
 | [Escape](https://open.spotify.com/track/5zuSUJY4ZNqXfdZQcsA1dM) | [Masami Ueda](https://open.spotify.com/artist/4Zc9ID5YsCSgTf2l00RmiU) | [RESIDENTEVIL SOUND CHRONICLE III](https://open.spotify.com/album/04wI5TSN4crQGKGHnV9DTh) | 4:38 | 2021-06-30 |  |
-| [Esperanto](https://open.spotify.com/track/2bO8wK9Cj7KJieoirM3Klu) | [Umegaki Runa](https://open.spotify.com/artist/1EttdjOOkUtmSht8NjZ1ax) | [MEGAMAN ZERO/ZX SOUND BOX](https://open.spotify.com/album/53jTF5NJogiBRi0H2yMGtE) | 2:19 | 2021-06-30 |  |
+| [Esperanto](https://open.spotify.com/track/0pX2s4lnpNTYcDcBEVenSW) | [Umegaki Runa](https://open.spotify.com/artist/1EttdjOOkUtmSht8NjZ1ax) | [MEGAMAN ZERO4 ORIGINAL SOUNDTRACK](https://open.spotify.com/album/1xRQ8CX4FcSWnm2VKr6elp) | 2:19 | 2021-06-30 |  |
+| [Esperanto](https://open.spotify.com/track/2bO8wK9Cj7KJieoirM3Klu) | [Umegaki Runa](https://open.spotify.com/artist/1EttdjOOkUtmSht8NjZ1ax) | [MEGAMAN ZERO/ZX SOUND BOX](https://open.spotify.com/album/53jTF5NJogiBRi0H2yMGtE) | 2:19 | 2021-06-30 | 2022-11-12 |
 | [Esperanto](https://open.spotify.com/track/70CUZtpLl7JYn5UJ99HkS4) | [Umegaki Runa](https://open.spotify.com/artist/1EttdjOOkUtmSht8NjZ1ax) | [ロックマン ゼロ4 オリジナルサウンドトラック](https://open.spotify.com/album/5llJtMDrs4Kmtq8iEFZs9s) | 2:19 | 2021-06-30 | 2022-07-29 |
 | [FIRE FIELD](https://open.spotify.com/track/3kXaNzhwlGurylzMT7it2I) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [ロックマンエグゼ サウンドBOX](https://open.spotify.com/album/55R4Hte8N3sbHby8G5QF5g) | 2:00 | 2021-06-30 | 2022-07-23 |
 | [FLAMEMAN STAGE](https://open.spotify.com/track/7qUuFVp8MEafkdiXPfLVcC) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [ロックマン6 サウンドコレクション](https://open.spotify.com/album/3q7opyLzWakfx4pigOHhaY) | 2:02 | 2021-06-30 | 2022-01-11 |
@@ -93,7 +95,7 @@
 | [SENGOKU BASARA](https://open.spotify.com/track/5nMWMpnE0lTGhm88MDc0Gk) | [CHAMY.Ishi](https://open.spotify.com/artist/48lrIJjD2wl3uoNBbFOlsw) | [戦国BASARA 15th Anniversary BEST](https://open.spotify.com/album/7JwD74wMg2XqFigwPE9ju5) | 1:57 | 2021-06-30 | 2022-07-29 |
 | [Serenity](https://open.spotify.com/track/14gmEW2jRMFzBnj3Fo8ZLZ) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [Resident Evil 4 Sound Collection](https://open.spotify.com/album/17E5tbNHce6M2Le73VpoUY) | 1:21 | 2021-06-30 |  |
 | [Serenity](https://open.spotify.com/track/3yJWJiofNlTzZkUSqcRzDO) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [バイオハザード4 サウンドコレクション](https://open.spotify.com/album/1J7UrlOUQT7ugrdPNFxRfN) | 1:21 | 2021-06-30 | 2022-07-19 |
-| [Shall Never Surrender \(End Credits\)](https://open.spotify.com/track/11s4cDWdCABvn9Xkg4eHl2) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [Devil May Cry 4 Original Soundtrack](https://open.spotify.com/album/1tNWUMsxLIT92wZcrYWkyT) | 4:58 | 2021-06-30 |  |
+| [Shall Never Surrender \(End Credits\)](https://open.spotify.com/track/11s4cDWdCABvn9Xkg4eHl2) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [Devil May Cry 4 Original Soundtrack](https://open.spotify.com/album/1tNWUMsxLIT92wZcrYWkyT) | 4:58 | 2021-06-30 | 2022-11-12 |
 | [Shall Never Surrender \(スタッフロール\)](https://open.spotify.com/track/28V8E51oYwpyocyUsqr63y) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [デビル メイ クライ 4 オリジナル・サウンドトラック](https://open.spotify.com/album/0b7BchpS8RT54kTgZVe9Xo) | 4:58 | 2021-06-30 | 2022-07-28 |
 | [Shinsekai](https://open.spotify.com/track/0uUyffcPYS5HGkQrOK9TpJ) | [Chikara Aoshima](https://open.spotify.com/artist/5PT7zMXQaj5nipuNJ0Zfvx) | [SHINSEKAI Into the Depths Hidden Tracks](https://open.spotify.com/album/4J34Ttmtw29MOBVMdNgRM0) | 4:13 | 2021-06-30 |  |
 | [Shinsekai](https://open.spotify.com/track/3qtJwRxouqm1kQD9UWsNvS) | [Chikara Aoshima](https://open.spotify.com/artist/5PT7zMXQaj5nipuNJ0Zfvx) | [深世海 Into the Depths Hidden Tracks](https://open.spotify.com/album/59rgd3dLtg9YLDBBjGDO3F) | 4:13 | 2021-06-30 | 2022-07-29 |

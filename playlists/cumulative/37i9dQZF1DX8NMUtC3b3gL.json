@@ -157,7 +157,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 127090,
       "name": "a warm breeze",
       "url": "https://open.spotify.com/track/3xtFXpqq5OJ4NdlJVxpgRr"
@@ -388,6 +388,24 @@
     },
     {
       "album": {
+        "name": "Fnatic Island Vol. 1",
+        "url": "https://open.spotify.com/album/7wX06Zgl00aBrSMBaRQmbO"
+      },
+      "artists": [
+        {
+          "name": "Sleepermane",
+          "url": "https://open.spotify.com/artist/4gGsx7blPpBj7gKGmDBEfI"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129369,
+      "name": "black & orange fireflies",
+      "url": "https://open.spotify.com/track/0KQiAKffgrI6M2hJvQ05mg"
+    },
+    {
+      "album": {
         "name": "Blacktop Days",
         "url": "https://open.spotify.com/album/7vQJZriJ7kH9uFBt2eREe3"
       },
@@ -399,7 +417,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 129166,
       "name": "Blacktop Days",
       "url": "https://open.spotify.com/track/1dH3oLHEysyPEBP0oyFHp0"
@@ -915,6 +933,24 @@
       "duration_ms": 157708,
       "name": "Complicated",
       "url": "https://open.spotify.com/track/7kTRDpp1p3Yd2gX5kEOyaX"
+    },
+    {
+      "album": {
+        "name": "Corcovado",
+        "url": "https://open.spotify.com/album/62u85DDDN44TQT9weHWCoL"
+      },
+      "artists": [
+        {
+          "name": "Low Tide",
+          "url": "https://open.spotify.com/artist/689IfCNt84v8DehMFN4pQn"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108837,
+      "name": "Corcovado",
+      "url": "https://open.spotify.com/track/0G3OyHyfU3o8z5s5nUMfHc"
     },
     {
       "album": {
@@ -1472,6 +1508,50 @@
     },
     {
       "album": {
+        "name": "Flute Man",
+        "url": "https://open.spotify.com/album/0sKQSlLQ6wh3HX3LpZV2xH"
+      },
+      "artists": [
+        {
+          "name": "Ben Jammin' Beats",
+          "url": "https://open.spotify.com/artist/58flJQprTkM8cMJwnQ6aIi"
+        },
+        {
+          "name": "Luke Pickman",
+          "url": "https://open.spotify.com/artist/2eRZreWzshEqtyBvlqmE93"
+        },
+        {
+          "name": "Chill Select",
+          "url": "https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122553,
+      "name": "Flute Man",
+      "url": "https://open.spotify.com/track/1Xp6kxpRH7RIKGitrc5cyc"
+    },
+    {
+      "album": {
+        "name": "Flying Lofi Bugs",
+        "url": "https://open.spotify.com/album/5Fc5UIAHLFfCdkdd8HhLo2"
+      },
+      "artists": [
+        {
+          "name": "ikioma",
+          "url": "https://open.spotify.com/artist/2rThuiJzp3Df9CyvquCEYd"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99428,
+      "name": "Flying Lofi Bugs",
+      "url": "https://open.spotify.com/track/4cGt0bobV5aGn3d55XMPKv"
+    },
+    {
+      "album": {
         "name": "school daze",
         "url": "https://open.spotify.com/album/13wjmdMsBPJSHNu2a7g8Km"
       },
@@ -1523,7 +1603,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 144013,
       "name": "free agent",
       "url": "https://open.spotify.com/track/3I1EMZaJzJn1PljYX46ZOk"
@@ -1755,6 +1835,24 @@
       "duration_ms": 128000,
       "name": "haze avenue",
       "url": "https://open.spotify.com/track/12YAU1BzBei8xXoSu10Ae8"
+    },
+    {
+      "album": {
+        "name": "Hazy Days",
+        "url": "https://open.spotify.com/album/29PMdosIStKAlcQNXhYlCU"
+      },
+      "artists": [
+        {
+          "name": "PandaBj\u00f8rn",
+          "url": "https://open.spotify.com/artist/3jMHu1ztcMHmgeioLcXBCE"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129750,
+      "name": "Hazy Days",
+      "url": "https://open.spotify.com/track/2exoFnH2pc2Qv9mypJjJX4"
     },
     {
       "album": {
@@ -2544,6 +2642,24 @@
     },
     {
       "album": {
+        "name": "November",
+        "url": "https://open.spotify.com/album/2AHGynZt5NIsQ3xO6QNoKB"
+      },
+      "artists": [
+        {
+          "name": "S\u00e9 Bastian",
+          "url": "https://open.spotify.com/artist/33ToCBrLgNNpi89XvUDX6n"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137000,
+      "name": "November",
+      "url": "https://open.spotify.com/track/01jgvCssPI09qjl87FRa9s"
+    },
+    {
+      "album": {
         "name": "obsidian",
         "url": "https://open.spotify.com/album/3jmhvLz1rfDfhh5gkwGXlj"
       },
@@ -3279,7 +3395,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 104903,
       "name": "Running up that Hill",
       "url": "https://open.spotify.com/track/5KpA4NJDUdkpwUtIBIxap9"
@@ -4050,6 +4166,24 @@
     },
     {
       "album": {
+        "name": "The way we were",
+        "url": "https://open.spotify.com/album/3mqvM8J1gyzZvUwZtKiYEL"
+      },
+      "artists": [
+        {
+          "name": "Conjure kid",
+          "url": "https://open.spotify.com/artist/3mFXDnOibfFGvbYkqAt2XU"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141818,
+      "name": "The way we were",
+      "url": "https://open.spotify.com/track/4ckBQMfbF0MzwP2XWboKvv"
+    },
+    {
+      "album": {
         "name": "They Grew Around Her",
         "url": "https://open.spotify.com/album/6TZ8us7ju80yQ56xN6nJ1q"
       },
@@ -4119,6 +4253,24 @@
       "duration_ms": 131208,
       "name": "Time Flies",
       "url": "https://open.spotify.com/track/6ddmnmfULodDasWZZs2BP4"
+    },
+    {
+      "album": {
+        "name": "Time Machine",
+        "url": "https://open.spotify.com/album/6dpqtZp0dS4NZw53cItU6a"
+      },
+      "artists": [
+        {
+          "name": "MichRyc",
+          "url": "https://open.spotify.com/artist/2JA6IXCI7fxPAmSMJAdGgg"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147454,
+      "name": "Time Machine",
+      "url": "https://open.spotify.com/track/1ZyJvfIBvVyFzB4zzWg5Up"
     },
     {
       "album": {

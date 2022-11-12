@@ -443,7 +443,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-19",
+      "date_removed": null,
       "duration_ms": 233987,
       "name": "Bright Side (with Luke Mitrani)",
       "url": "https://open.spotify.com/track/7b1YnA9efj9Av2ovTEkXZ4"
@@ -929,7 +929,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 199506,
       "name": "Daydreaming",
       "url": "https://open.spotify.com/track/3v5OftOHxaVpaaJ8NArHos"
@@ -987,7 +987,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 210050,
       "name": "Down With You",
       "url": "https://open.spotify.com/track/47Axm1bTbEbOvkXpzOv5ZQ"
@@ -1266,6 +1266,28 @@
     },
     {
       "album": {
+        "name": "All The Colors",
+        "url": "https://open.spotify.com/album/7jlmd4s5qcqzC197INOPgG"
+      },
+      "artists": [
+        {
+          "name": "Tropidelic",
+          "url": "https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl"
+        },
+        {
+          "name": "Surfer Girl",
+          "url": "https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189094,
+      "name": "Free Your Mind (with Surfer Girl)",
+      "url": "https://open.spotify.com/track/1kqDm9FgV3DHWVYPxJ2J4c"
+    },
+    {
+      "album": {
         "name": "Gimme Love",
         "url": "https://open.spotify.com/album/1A1VUJcKkq2zEef0OAuEfm"
       },
@@ -1519,7 +1541,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 288863,
       "name": "Here I Am",
       "url": "https://open.spotify.com/track/2yVhdgjCt0T2keTR1YlKEp"
@@ -2259,7 +2281,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-26",
+      "date_removed": null,
       "duration_ms": 189264,
       "name": "My Wave",
       "url": "https://open.spotify.com/track/5nVJ4fHxEMDex4dDHeKpGj"
@@ -3645,10 +3667,28 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 180266,
       "name": "Three Little Birds",
       "url": "https://open.spotify.com/track/75FYqcxt1YEAtqDLrOeIJn"
+    },
+    {
+      "album": {
+        "name": "Hopeful Music",
+        "url": "https://open.spotify.com/album/2KLYTP6Lm6Sgsc4oCxWYO4"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180800,
+      "name": "Three Little Birds",
+      "url": "https://open.spotify.com/track/7G50pcN2iGxpJGVY34otOK"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPafHP1BJw1.md) - [plain]
 
 > Your favorite pop songs, classically reimagined.
 
-[Spotify](https://open.spotify.com/user/spotify) - 818,882 likes - 106 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 819,148 likes - 106 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,7 +104,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPafHP1BJw1.md) - [plain]
 | 94 | [Stand by Me \(Arr\. Z\. Reaves for String Quartet\)](https://open.spotify.com/track/4RlXEaBtwr5yLWKoR5XbAF) | [Ben E\. King](https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3), [Jerry Leiber](https://open.spotify.com/artist/3oL5CpaC5cBSVmERMXuV7d), [Mike Stoller](https://open.spotify.com/artist/1wsgQOJMWtqd2GF0sGSRUm), [Zachary Reaves](https://open.spotify.com/artist/3PvJOPfvRASwmEQTvNxEdK), [Altius Quartet](https://open.spotify.com/artist/2LLcwkbqzJrcotABcvnktN) | [Dress Code](https://open.spotify.com/album/6PgAziFSFpBCXwuoHW7LhT) | 2:54 |
 | 95 | [Blank Space](https://open.spotify.com/track/2mMarfkPpZPPKV5AUGdz58) | [Brooklyn Duo](https://open.spotify.com/artist/6wBOZ9D65AcqUlfKUqsQ7R) | [Brooklyn Sessions](https://open.spotify.com/album/7hBwTnRSuuOisqubNG4lwv) | 2:35 |
 | 96 | [All Of Me](https://open.spotify.com/track/1BpGZ5bqIC0F6nbK27G4xP) | [Royal Liverpool Philharmonic Orchestra](https://open.spotify.com/artist/6I6fmQU7HGrUsCm4B5Nlk3) | [Pop Goes Classical](https://open.spotify.com/album/20Et1l6jsJdticffIphZQP) | 3:18 |
-| 97 | [Chasing Cars](https://open.spotify.com/track/0QVVV1dbJybtFEDwWndsxC) | [Simply Three](https://open.spotify.com/artist/4ZZVk8undJqXJqQ1GHCTp2) | [Simply Three](https://open.spotify.com/album/0pJfpfWc8YB4HXg89wmMA3) | 3:22 |
+| 97 | [Chasing Cars](https://open.spotify.com/track/7vAP0gqZTynSCBAsunLW20) | [Simply Three](https://open.spotify.com/artist/4ZZVk8undJqXJqQ1GHCTp2) | [Vol\. 1](https://open.spotify.com/album/2Fupb3QjSo2f7C3r03QPAy) | 3:24 |
 | 98 | [Lose Yourself](https://open.spotify.com/track/1crphtLmE5qben7biopmp3) | [David Garrett](https://open.spotify.com/artist/33k6kPYIS5TgseAc70LZjy), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1), [Franck van der Heijden](https://open.spotify.com/artist/0qCO5jL6wFQHv4R2IWcjcw) | [Explosive \(Deluxe\)](https://open.spotify.com/album/1BOjQtnxLLlJupPGOKEeck) | 3:06 |
 | 99 | [A Sky Full of Stars](https://open.spotify.com/track/7k0KOplnvXm5GUkw7RXYg0) | [The Piano Guys](https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI) | [Uncharted](https://open.spotify.com/album/6nNCnm0zCnx2CF033KpEVd) | 4:08 |
 | 100 | [No Woman, No Cry \(Arr\. Kanneh\-Mason\)](https://open.spotify.com/track/1JUkO4vVk4LcvwP9sWBBRM) | [Sheku Kanneh\-Mason](https://open.spotify.com/artist/6OTr0YwLwGdv7mlmX27hRX) | [Bob Marley: No Woman, No Cry \(Arr\. Cello\)](https://open.spotify.com/album/3cf57MihTJV4Flvpc6xGWk) | 2:26 |
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPafHP1BJw1.md) - [plain]
 | 105 | [Such Great Heights](https://open.spotify.com/track/7A4dZr5uXjb8qggBoAJttJ) | [The Section Quartet](https://open.spotify.com/artist/4XBvsNUbZyZT9eynxBQutr) | [Fuzzbox](https://open.spotify.com/album/6obah2tloYKurr25coxtTm) | 4:38 |
 | 106 | [Telephone](https://open.spotify.com/track/7dGI1Zix46a22EPZggjoic) | [Aston](https://open.spotify.com/artist/7sl2Pn0eUTlijsuzJEt2HV) | [Telephone](https://open.spotify.com/album/3tO7eCXXvz3gN9Mkilrf17) | 3:45 |
 
-Snapshot ID: `MTY2NjkyOTY2MCwwMDAwMDAwMDE5ZTRmMWM3N2I1ZDkwOWYwZDA4MzM1YWYwNmIxNzkx`
+Snapshot ID: `MTY2NjkyOTY2MCwwMDAwMDAwMDBkZTIwZjQ3OTBjYzE5M2M5NGE5MDk5Yzc5N2FmNWUw`

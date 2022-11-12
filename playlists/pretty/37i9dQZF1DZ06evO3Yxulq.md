@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Yxulq.md) - [plain]
 
 > This is Christine D'Clario\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,131 likes - 50 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,166 likes - 50 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Yxulq.md) - [plain]
 | 25 | [Dios De Maravillas](https://open.spotify.com/track/6JP6aiZrbthavbl8pd9oI7) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Emanuel](https://open.spotify.com/album/6mNXg7SEzc56gbSEwmoK0Q) | 8:33 |
 | 26 | [Tu Poder \(Creo en Ti\)](https://open.spotify.com/track/3sb13o5UC6YzcvNzOm5aaA) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Famous For \(I Believe\) \- Collection](https://open.spotify.com/album/1qIjL3BCQeXyXmy6fI8iQu) | 4:02 |
 | 27 | [Por la Eternidad \(feat\. Christine D´Clario, Julio Melgar\)](https://open.spotify.com/track/7vi7vdA2mYGC0vkD0bB14J) | [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9), [Julio Melgar](https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2) | [Pura Sal](https://open.spotify.com/album/4VTKlmH5109WzN8ZRJSzdV) | 4:26 |
-| 28 | [Yo Te Busco](https://open.spotify.com/track/2yYEoYSJnQyZlQpch07h5f) | [Adoración](https://open.spotify.com/artist/1TUjfvBVBLetTgJLy29Iz2), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Yo Te Busco](https://open.spotify.com/album/5aI2q7Nzuqy8c0hdOArl5b) | 5:51 |
-| 29 | [El Shaddai \- En Vivo](https://open.spotify.com/track/4qsGLavsH2x74pdqg63Lkv) | [Gateway Worship Español](https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Grande y Fiel \(En Vivo\)](https://open.spotify.com/album/3OXFYZ0hNUqEhgQMiq1716) | 5:35 |
+| 28 | [El Shaddai \- En Vivo](https://open.spotify.com/track/4qsGLavsH2x74pdqg63Lkv) | [Gateway Worship Español](https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Grande y Fiel \(En Vivo\)](https://open.spotify.com/album/3OXFYZ0hNUqEhgQMiq1716) | 5:35 |
+| 29 | [Yo Te Busco](https://open.spotify.com/track/2yYEoYSJnQyZlQpch07h5f) | [Adoración](https://open.spotify.com/artist/1TUjfvBVBLetTgJLy29Iz2), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Yo Te Busco](https://open.spotify.com/album/5aI2q7Nzuqy8c0hdOArl5b) | 5:51 |
 | 30 | [En El Trono Está](https://open.spotify.com/track/1N4f82oSvIKZa0hlwpO7Qi) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Eterno \(Live\)](https://open.spotify.com/album/5qB9zWGB4uaihU7R7MGk4c) | 5:59 |
 | 31 | [No Me Fallarás \(Aún Así\)](https://open.spotify.com/track/09t4NyhBbbt8sFixr8RqVW) | [Fellowship Creative](https://open.spotify.com/artist/1HFukfooHlG0Z5nvBCpLNL), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [No Me Fallarás \(Aún Así\)](https://open.spotify.com/album/2TgO0hQbveZ4r4hMAhbwBH) | 5:43 |
 | 32 | [Solo Tu](https://open.spotify.com/track/6yxDTsYge75Eka9yeXnHuN) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Solo Tu...Lo Unico Que Quiero](https://open.spotify.com/album/1bohZwfenuWFIuFrUETFuq) | 3:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Yxulq.md) - [plain]
 | 49 | [Rey Infinito](https://open.spotify.com/track/5qHACOfv3we8lAA7i5DLzf) | [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [El Encuentro](https://open.spotify.com/album/0hM8D8RMnadmtLyODuKBZx) | 4:46 |
 | 50 | [Ven Satura \- En Vivo](https://open.spotify.com/track/3pfSCaOp79DNAi5rriXaiG) | [Gateway Worship Español](https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Grande y Fiel \(En Vivo\)](https://open.spotify.com/album/3OXFYZ0hNUqEhgQMiq1716) | 9:42 |
 
-Snapshot ID: `Mjc4MDE1OTIsMDAwMDAwMDA4Y2I5NDU5ZDg3YWY5ZWFiMjlmMjI2MTA1YjA1NjQ1Ng==`
+Snapshot ID: `Mjc4MDI5OTksMDAwMDAwMDBhM2IxYzQ5MTg2OTRhMTU1YmNjNzk0NGQzZTY1MDJiMQ==`

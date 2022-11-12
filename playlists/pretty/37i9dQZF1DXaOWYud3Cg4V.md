@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaOWYud3Cg4V.md) - [plain]
 
 > Sounds from the touring circuit that gave Black performers refuge and birthed a new generation of superstars.
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,318 likes - 44 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,373 likes - 44 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaOWYud3Cg4V.md) - [plain]
 | 6 | [Shake, Rattle and Roll](https://open.spotify.com/track/7aLoa1F3EoM8AeC6Ao1RKz) | [Big Joe Turner](https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7) | [Shake Rattle & Rock](https://open.spotify.com/album/3srwW4zf3HJcOItxUokJgI) | 2:59 |
 | 7 | [Upstairs Boogie](https://open.spotify.com/track/3ls73k7OYdZByqr065gZS9) | [Lil Son Jackson](https://open.spotify.com/artist/4KfB5Ki4g9PuVqwFuckn0L) | [The Complete Imperial Recordings Of Lil' Son Jackson](https://open.spotify.com/album/3ZOXOkucWOW0uoqrjU9tJu) | 2:16 |
 | 8 | [Kansas City](https://open.spotify.com/track/4ivBgTQamQRSlpg8fSsxe8) | [Wilbert Harrison](https://open.spotify.com/artist/7rETVFaF9VOFPmmzsY3kO6) | [60s Greatest Hits](https://open.spotify.com/album/1C4XnRTIjHVsxdPOdRiBBY) | 2:19 |
-| 9 | [Castle Rock](https://open.spotify.com/track/1fiVhiSdp7mCu4RKwjPrcN) | [Johnny Hodges & His Orchestra](https://open.spotify.com/artist/586u2f7H540oCefUIazflT) | [Castle Rock](https://open.spotify.com/album/4hMfnrM2BPDK9SHSUAcK3Q) | 2:49 |
+| 9 | [Castle Rock](https://open.spotify.com/track/3ziYOWYJfaJ6slSK9sVxjq) | [Al Sears](https://open.spotify.com/artist/59UXaFl5TP0boyuFGFPk6x) | [It Don't Mean a Thing](https://open.spotify.com/album/2oVb0f3YkvScqdO14wD9g1) | 2:52 |
 | 10 | [The Storm \(01\-16\-52\)](https://open.spotify.com/track/5ulCLAV5XwfdzrQj53xDyT) | [Esther Phillips](https://open.spotify.com/artist/0WZ7IgzdjPvwFdjDjjuZm7) | [1951\-1952](https://open.spotify.com/album/6AaRMC4imsC881iTr1DCX2) | 3:07 |
 | 11 | [I Don't Hurt Anymore](https://open.spotify.com/track/4k73O6d8SDdef8i4GptF9m) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa), [Hal Mooney And His Orchestra](https://open.spotify.com/artist/47ybDT1ZbixVpHfk1CWGzA) | [The Complete Dinah Washington On Mercury, Vol\. 3 \(1952\-1954\)](https://open.spotify.com/album/6PZZc2r0YoCPAS0DaGVImG) | 3:13 |
 | 12 | [Thinking and Drinking](https://open.spotify.com/track/6L5RA7cLhoDF5Gx7HjTJJ4) | [Amos Milburn](https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX) | [Thinking and Drinking](https://open.spotify.com/album/4Zp4CAXhvAQiHDj4JkiYlW) | 2:23 |
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaOWYud3Cg4V.md) - [plain]
 | 19 | [Bip Bam \(with Clyde McPhatter\)](https://open.spotify.com/track/2ohbZgw4yyWbkm5TbR2QLz) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT), [Clyde McPhatter](https://open.spotify.com/artist/4WL6MC4jDW7w7K9hfc4MVS) | [Drift and Dream](https://open.spotify.com/album/5foPEuNXIPYQIpUZgWnRzz) | 2:44 |
 | 20 | [How Many More Years](https://open.spotify.com/track/0MkINaEoNBJfG9G6ewd4xM) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Moanin' In The Moonlight](https://open.spotify.com/album/76MT4lqzC1oSvSYnHHjMam) | 2:43 |
 | 21 | [Pink Champagne](https://open.spotify.com/track/3ZZL75etRHlrYwzXA2DgHh) | [Joe Liggins & His Honeydrippers](https://open.spotify.com/artist/0ACLFWuyN82lEvIRzg7HR1) | [Best \- Swamp Blues](https://open.spotify.com/album/6k1J8HrEsLzAeisvTUPvZO) | 2:59 |
-| 22 | [I Don't Know](https://open.spotify.com/track/7J8g9n29cAxSlLxeHrKCLI) | [Willie Mabon](https://open.spotify.com/artist/7rmHrwuyVuFNIvikHchsQn) | [Presenting Willie Mabon](https://open.spotify.com/album/2Y3IduVxiiyB9cxhFthGim) | 3:10 |
+| 22 | [I Don't Know](https://open.spotify.com/track/7kpqOAIaxtgXzW1IHvrRD6) | [Willie Mabon](https://open.spotify.com/artist/7rmHrwuyVuFNIvikHchsQn) | [The Chess Blues\-Rock Songbook](https://open.spotify.com/album/2N6W6Tuq1b9koVr0QGJTQp) | 3:11 |
 | 23 | [Hurts Me to My Heart 2 \- Remastered](https://open.spotify.com/track/5goezNyn5YdFi2kQUnhZkm) | [Faye Adams](https://open.spotify.com/artist/1bx4W3T0zPKzmsrRTvquWV) | [The Very Best of Atomic Adams \(Remastered\)](https://open.spotify.com/album/4hbxxQbHZ633mT1kDz9i0Z) | 2:59 |
 | 24 | [Smooth Sailing](https://open.spotify.com/track/1eredMnT1NJXYDwk80mVNJ) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Ray Charles Singers](https://open.spotify.com/artist/716xTLDou3FHSi9mXOMU1Z) | [Jubilee Vibes](https://open.spotify.com/album/0FoPklfcJIW3cogJcJF8AA) | 3:07 |
 | 25 | [Hound Dog](https://open.spotify.com/track/2CbYVyT8FubKppn9zil1Uq) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [20th Century Masters: The Millennium Collection: The Best Of Blues Classics](https://open.spotify.com/album/54zrwb4I3fkDaCgfhw16gE) | 2:49 |
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaOWYud3Cg4V.md) - [plain]
 | 35 | [Deacon Rides Again](https://open.spotify.com/track/6VT0pyPchEgvAQeCfMVB2m) | [Big Jay McNeely](https://open.spotify.com/artist/5K3FOIJ4gEZlPaJJpqaXmm) | [The Best Of \(1948\-1955\)](https://open.spotify.com/album/4hPy6XBw8d7WtgDA3WKwUf) | 2:47 |
 | 36 | [Mary Lou](https://open.spotify.com/track/3w6T243eOhuXv6dfasQcoe) | [Young Jessie](https://open.spotify.com/artist/1sTrSq571Q88nMlONdgtth) | [Presenting Young Jessie](https://open.spotify.com/album/53YwQ42xC9PmrqBHgQOilc) | 2:33 |
 | 37 | [The Book of Love](https://open.spotify.com/track/0xk7fU0J6ZMcVHPSboDlsP) | [The Monotones](https://open.spotify.com/artist/39aV9if9R4QuPZxrJsxc9a) | [Doo Wop](https://open.spotify.com/album/6BiKPAs21uM4stg3vJelRM) | 2:18 |
-| 38 | [Grandpa Can Boogie Too](https://open.spotify.com/track/0YiYXAmMqmLQgaJsMQkWgp) | [Lil Greenwood](https://open.spotify.com/artist/1RHzjHTL6ssV7dQPZ4HoYB) | [The King R&B Vol\. 4 of 4](https://open.spotify.com/album/6NsKZppxFo3ESq1JhrFYit) | 2:50 |
+| 38 | [Grandpaw Can Boogie Too](https://open.spotify.com/track/7xGgrNPmqVPMC8THy8yIRC) | [Lil Greenwood](https://open.spotify.com/artist/1RHzjHTL6ssV7dQPZ4HoYB), [The Four Jacks](https://open.spotify.com/artist/2zl4nDHKJV0jn9hRBrB10i) | [The King Records R&B Anthology \- Volume 4](https://open.spotify.com/album/79fQ6fK0WvnneOKQcunRBE) | 2:50 |
 | 39 | [Best Wishes](https://open.spotify.com/track/6fG9YAjxpQXbUyz4tENFzN) | [Roy Milton](https://open.spotify.com/artist/02tMtF5FVucqAJW2TQB9ig) | [Best Of The Blues](https://open.spotify.com/album/7krDrZMLilqYK5ieEVOrpl) | 3:01 |
 | 40 | [Safronia B](https://open.spotify.com/track/27kwBNU1VWNRPjFxvz8EOt) | [Calvin Boze and His All Stars](https://open.spotify.com/artist/4eoLuYkFKv9tETDJoVMgQM) | [Jump Blue: Rockin' The Jukes](https://open.spotify.com/album/5IYJY3LB4L1HDrgaA895kk) | 2:24 |
 | 41 | [Thinking and Drinking](https://open.spotify.com/track/6L5RA7cLhoDF5Gx7HjTJJ4) | [Amos Milburn](https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX) | [Thinking and Drinking](https://open.spotify.com/album/4Zp4CAXhvAQiHDj4JkiYlW) | 2:23 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaOWYud3Cg4V.md) - [plain]
 | 43 | [Booted](https://open.spotify.com/track/3mKwsHWqKv7mzVpZZwPsPH) | [Rosco Gordon](https://open.spotify.com/artist/35SkZMI5CPiCude4FW45O9) | [The Chess Story 1947\-1956](https://open.spotify.com/album/33Ow1zrnDZND0gJFibphEf) | 3:04 |
 | 44 | [I Want You \- Remastered](https://open.spotify.com/track/4DJHfD8qXvko3yGNCAOH9A) | [The Cadets](https://open.spotify.com/artist/6kGIQDvdaEyZBA3aUyRHIO) | [Giving You Do\-Wop! \(Remastered\)](https://open.spotify.com/album/4Bs215DPmboswx7jMnuaDm) | 2:49 |
 
-Snapshot ID: `MTYzOTAwMDgwNSwwMDAwMDAwMDQzM2ZmZjI1MzQ0NDdhODhlZWZmNzk2NjE0YmIyNjc1`
+Snapshot ID: `MTYzOTAwMDgwNSwwMDAwMDAwMDgwNzhjNDk1ODY5NGYxNTA0M2QyZmZmZTZmMDA0OTQ5`

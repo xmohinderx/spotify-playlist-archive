@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaGNG7NmtmZv.md) - [plain]
 
 > Classic songs from the legends of the hardcore scene.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,578 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,672 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,14 +17,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaGNG7NmtmZv.md) - [plain]
 | 7 | [Hard Times](https://open.spotify.com/track/2o3v9646q5cqBv5mdYXAYR) | [Cro\-Mags](https://open.spotify.com/artist/5WCrzTQZ6S6EgebqI57Ilg) | [Before The Quarrel](https://open.spotify.com/album/4cOlUeoODYu4DODpSnlU3i) | 1:36 |
 | 8 | [The Disconnect](https://open.spotify.com/track/5KX5fs2yfRPZ2E2SYYA4lD) | [Counterparts](https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z) | [The Current Will Carry Us](https://open.spotify.com/album/3bJtSVsqSsqmVtfvtnisbU) | 3:56 |
 | 9 | [Caboose](https://open.spotify.com/track/4lIyRjVqJlN8naBv6Cd5Dw) | [Snapcase](https://open.spotify.com/artist/1egTA9mNgTwglPEQLmMd9W) | [Progression Through Unlearning](https://open.spotify.com/album/0EXE2JkwLwhSPaOuMBAxxu) | 2:33 |
-| 10 | [For My Family](https://open.spotify.com/track/4Y4fGklrIKERF6TixxvLQi) | [Agnostic Front](https://open.spotify.com/artist/3zDvanHxaETiHltPkKKYhT) | [Warriors \(Tour Edition\)](https://open.spotify.com/album/5WmhGmiqWgPRmuuAVP7cCP) | 2:22 |
+| 10 | [Step Down](https://open.spotify.com/track/0S3YlKnOR7F6T8t20gLhf0) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Scratch the Surface](https://open.spotify.com/album/64XtvdUB3Ph6xnajJyUIJc) | 3:09 |
 | 11 | [New Direction](https://open.spotify.com/track/7CdGO6KJg20UAAXl7CW8q6) | [Gorilla Biscuits](https://open.spotify.com/artist/4dJX4iJ0qbB4gjkeenbK2N) | [Start Today](https://open.spotify.com/album/1AAn8Qve9N7NET9v1dKceh) | 2:29 |
-| 12 | [Step Down](https://open.spotify.com/track/0S3YlKnOR7F6T8t20gLhf0) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Scratch the Surface](https://open.spotify.com/album/64XtvdUB3Ph6xnajJyUIJc) | 3:09 |
+| 12 | [For My Family](https://open.spotify.com/track/4Y4fGklrIKERF6TixxvLQi) | [Agnostic Front](https://open.spotify.com/artist/3zDvanHxaETiHltPkKKYhT) | [Warriors \(Tour Edition\)](https://open.spotify.com/album/5WmhGmiqWgPRmuuAVP7cCP) | 2:22 |
 | 13 | [Set It Off](https://open.spotify.com/track/165wS8DOyhHPiNgB8vlfsE) | [Madball](https://open.spotify.com/artist/1qh6ppVtiFTKMyta0NXsjf) | [Set It Off](https://open.spotify.com/album/13DHqlzDQfKsvJc69fkElW) | 3:26 |
 | 14 | [Firestorm](https://open.spotify.com/track/49d4jmxM4yyLkJA7NOiQ7M) | [Earth Crisis](https://open.spotify.com/artist/4ITkzAQWPILwWpEWJxHB9g) | [Forever True \(1991\-2001\)](https://open.spotify.com/album/2NlUqiYUsqBqE5o41dl4eh) | 3:51 |
-| 15 | [Pure Trauma](https://open.spotify.com/track/7FpFV1oQhhZm6Vyj7K5FcS) | [Downset](https://open.spotify.com/artist/6SBgDfIRb6IE9TrA6w8Zg6) | [Check Your People](https://open.spotify.com/album/0kFn5JKSC76NteLv33NyVe) | 2:33 |
+| 15 | [Scratch the Surface](https://open.spotify.com/track/6yzoLxsBLiEqyB7zpAcJnX) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Nonstop](https://open.spotify.com/album/5bdXigJqWl2VDffgjWdcXU) | 2:45 |
 | 16 | [Thorn In My Side](https://open.spotify.com/track/55QjemxhcFnHRvTjGHLJCO) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Manic Compression](https://open.spotify.com/album/63jH8y8w07RTXjYqD136U6) | 2:36 |
-| 17 | [Scratch the Surface](https://open.spotify.com/track/6yzoLxsBLiEqyB7zpAcJnX) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Nonstop](https://open.spotify.com/album/5bdXigJqWl2VDffgjWdcXU) | 2:45 |
+| 17 | [Pure Trauma](https://open.spotify.com/track/7FpFV1oQhhZm6Vyj7K5FcS) | [Downset](https://open.spotify.com/artist/6SBgDfIRb6IE9TrA6w8Zg6) | [Check Your People](https://open.spotify.com/album/0kFn5JKSC76NteLv33NyVe) | 2:33 |
 | 18 | [Voice of Rebellion](https://open.spotify.com/track/2BNshqUpO2WSXRpp3lP37y) | [Pro\-Pain](https://open.spotify.com/artist/56F64pmwSSCcmS1CxAnPk8) | [Voice of Rebellion](https://open.spotify.com/album/51TN24k8XMS8vQ98aUshFR) | 4:01 |
 | 19 | [Mailer, Meet Jim](https://open.spotify.com/track/0jxUbJ6Yoj74NqXuOTkI6a) | [Western Addiction](https://open.spotify.com/artist/7xnD2Codf7FyLxsqPh8CIA) | [Cognicide](https://open.spotify.com/album/1GQrz6GLWJ9WNijMQH4MzH) | 1:37 |
 | 20 | [Animal Farm](https://open.spotify.com/track/1QfjU50ABFOfNhoQVREWXa) | [The Hope Conspiracy](https://open.spotify.com/artist/0EE0FUSX633ANADunRfZ9d) | [Death Knows Your Name](https://open.spotify.com/album/6U0Bmn36FE4pISKv5fluBK) | 3:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaGNG7NmtmZv.md) - [plain]
 | 49 | [Proud To Be DFL](https://open.spotify.com/track/4cOG1ei21V0EsLRM0lFeL0) | [DFL](https://open.spotify.com/artist/6y4bvr8bJvqFuOzG6FcABb) | [Proud To Be](https://open.spotify.com/album/7LgklKSetpWGxBnFHwHP1P) | 1:25 |
 | 50 | [Get This Right!](https://open.spotify.com/track/7y952AaC6SYiWlNwuC3Rfv) | [Raised Fist](https://open.spotify.com/artist/7ik758oYwkKmQtbZtAdOOm) | [Dedication](https://open.spotify.com/album/5snErIyF82CrqTpnvLQ32G) | 3:30 |
 
-Snapshot ID: `MTYwNzQ0MDMzMSwwMDAwMDAwMGY0ZGY0ODA0YjVmNjQxNWU5NDJjNmQzY2RmZTRiMjVj`
+Snapshot ID: `MTYwNzQ0MDMzMSwwMDAwMDAwMDcxNWY3MWI3ZDI5NDYwMDg4MDE0MThmNGExZTQyMTg2`

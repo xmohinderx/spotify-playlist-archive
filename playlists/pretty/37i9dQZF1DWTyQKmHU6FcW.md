@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyQKmHU6FcW.md) - [plain]
 
 > Elvis Presley's most romantic songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,680 likes - 36 songs - 1 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,854 likes - 36 songs - 1 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyQKmHU6FcW.md) - [plain]
 | 11 | [Love Me Tender](https://open.spotify.com/track/7iBBcw61QVJxI3NDzlpX2E) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis 30 \#1 Hits](https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc) | 2:42 |
 | 12 | [Burning Love](https://open.spotify.com/track/7zMUCLm1TN9o9JlLISztxO) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis \(Fool\)](https://open.spotify.com/album/3gpHiNAmT5oXVxe6ewTGuN) | 2:50 |
 | 13 | [Memories \- Stereo Mix](https://open.spotify.com/track/6jGzInaZ1QyKLNw61an9y5) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | ['68 Comeback Special \(50th Anniversary Edition\) \[Live\]](https://open.spotify.com/album/62CwfDeiM9t81FaFHebuUm) | 3:09 |
-| 14 | [Gently](https://open.spotify.com/track/0CZ15AP1m1lWcRz8fMuYfr) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE), [The Jordanaires](https://open.spotify.com/artist/6CXezToiGS8K6jr9kr8Muv) | [Something for Everybody](https://open.spotify.com/album/5Yl2lNCQ5wkCdN0S8VOCdE) | 2:16 |
+| 14 | [Gently](https://open.spotify.com/track/6nF0b857H9o6tVBNfvhtoq) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE), [The Jordanaires](https://open.spotify.com/artist/6CXezToiGS8K6jr9kr8Muv) | [From Nashville To Memphis \- The Essential 60s Masters I](https://open.spotify.com/album/2NQk9PwXk5xL8UPOdEvBVr) | 2:16 |
 | 15 | [Love Letters](https://open.spotify.com/track/70VGbJWNkb6xZyjgR3GpQP) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Love Letters from Elvis](https://open.spotify.com/album/3kf5iEHqvuKch85eAvWrGO) | 2:51 |
 | 16 | [Spanish Eyes](https://open.spotify.com/track/5ZKZ4wJsIRBCnVJAMXDJ94) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Good Times](https://open.spotify.com/album/0bVlE6dhJEsCzCX2CWrOCw) | 2:22 |
 | 17 | [Don't](https://open.spotify.com/track/4fgMsJGLDqy4HsJFRgaVNG) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [50,000,000 Elvis Fans Can't Be Wrong: Elvis' Gold Records, Vol\. 2](https://open.spotify.com/album/0s357yjkkRrf0KCXtnISGe) | 2:48 |
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyQKmHU6FcW.md) - [plain]
 | 35 | [\(Let Me Be Your\) Teddy Bear](https://open.spotify.com/track/4FjkmQ9JYaIeh1NxeLEO80) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis 30 \#1 Hits](https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc) | 1:46 |
 | 36 | [I Can't Stop Loving You \- Live at Convention Center Arena, San Antonio, TX \- April 18, 1972](https://open.spotify.com/track/27UvL4m5Si1QmlXdBIEaVt) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis: Close Up](https://open.spotify.com/album/3kBT5ef0KWAuZokS4IWV7C) | 2:25 |
 
-Snapshot ID: `MTY2MTE4NzMwOCwwMDAwMDAwMDdmZjY1NjM2OGUzMzQ5ZmQyM2EzNGU0ZjlmMmQ0NjIx`
+Snapshot ID: `MTY2MTE4NzMwOCwwMDAwMDAwMGVlYzA5ODAxZWMxODg4ZDQ4NjI2NDgzZWQyYzBkYmJm`

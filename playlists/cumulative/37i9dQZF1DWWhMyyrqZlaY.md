@@ -4,7 +4,7 @@
 
 > Los corridos más placosos que suenan en las calles\. Natanael Cano en portada.
 
-72 songs - 3 hr 40 min - [published](https://open.spotify.com/playlist/0pNLi5IU8KFpQH3mzOOXMv)
+73 songs - 3 hr 43 min - [published](https://open.spotify.com/playlist/0pNLi5IU8KFpQH3mzOOXMv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,8 +40,9 @@
 | [El Pochito](https://open.spotify.com/track/6HI6iABWQLnYiqdYFFe1F2) | [Porte Diferente](https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf) | [El Pochito](https://open.spotify.com/album/7ziQeB1l4NSn0dWw08yunZ) | 3:41 | 2022-08-12 | 2022-10-15 |
 | [El Sereno](https://open.spotify.com/track/5QPWf9dawZ1Y9RbQHIUSlA) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [El Sereno](https://open.spotify.com/album/3oA4dxVIFwgL6sjPmRZtHz) | 2:43 | 2022-06-08 |  |
 | [En El Radio Un Cochinero](https://open.spotify.com/track/2NWaWZZLFMcr5P4uI2KvWy) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8) | [En El Radio Un Cochinero](https://open.spotify.com/album/6fCSthptZ0wBlpqeSlUKHy) | 3:43 | 2022-05-13 |  |
+| [En El Refuego](https://open.spotify.com/track/2AoqaGQiMT1Yt10f2qypUk) | [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY) | [Paranormal](https://open.spotify.com/album/3WdqL2AIorwJ4ofhNGR1w0) | 3:04 | 2022-08-12 |  |
 | [en el Refuego](https://open.spotify.com/track/2dDfS3g7VYjQLDqPnMY8oB) | [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY) | [en el Refuego](https://open.spotify.com/album/2pGsHPDALnunKWNyvnr03f) | 3:04 | 2022-02-04 | 2022-07-29 |
-| [En El Refuego](https://open.spotify.com/track/5a03ZGBn3dqr3H3W3li7FO) | [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY) | [En El Refuego](https://open.spotify.com/album/2JJpo95vrGC1A7GMphV8FS) | 3:04 | 2022-02-04 |  |
+| [En El Refuego](https://open.spotify.com/track/5a03ZGBn3dqr3H3W3li7FO) | [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY) | [En El Refuego](https://open.spotify.com/album/2JJpo95vrGC1A7GMphV8FS) | 3:04 | 2022-02-04 | 2022-11-12 |
 | [Fumando Mota](https://open.spotify.com/track/2ytQws1jfyFcY2K2MDUfzd) | [Los Lara](https://open.spotify.com/artist/0GUkPki3DpCkvKDxIKpaI4) | [Desde la Raíz](https://open.spotify.com/album/0QUTQD8QwyAuI1znIdT02Y) | 3:21 | 2022-02-04 |  |
 | [Gente Del Flaco \(En Vivo\)](https://open.spotify.com/track/1nW1RDf642yzi44mOMd4pM) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Gente Del Flaco \(En Vivo\)](https://open.spotify.com/album/5xXahZGlUcDx4oYEsAiBjg) | 2:40 | 2022-03-18 | 2022-06-25 |
 | [GRUPO TÁCTICO](https://open.spotify.com/track/1BZSu3nKKyjnSJHaaUgeFb) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Grupo Táctico](https://open.spotify.com/album/6lbNqeDhky0kDKym5eFaQ0) | 3:00 | 2022-08-12 |  |

@@ -4,7 +4,7 @@
 
 > Disfruta esta fina selección de los mejores Tangos argentinos.
 
-134 songs - 7 hr 37 min - [published](https://open.spotify.com/playlist/48pLdQsTopl1rcmXXDSwY6)
+135 songs - 7 hr 40 min - [published](https://open.spotify.com/playlist/48pLdQsTopl1rcmXXDSwY6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [De Puro Curda](https://open.spotify.com/track/3pO7tabfegqefBPsFHpysR) | [Alfredo Belusi](https://open.spotify.com/artist/64Ni4gszhSPmQhN5zhzhKe) | [Lo Mejor de Alfredo Belusi](https://open.spotify.com/album/20REqo3uTm8pSvAqvUIsmH) | 2:04 | 2022-03-18 | 2022-07-25 |
 | [De Puro Curda](https://open.spotify.com/track/3uAp3dUUD1uB5JoApVhcby) | [Alfredo Belusi](https://open.spotify.com/artist/64Ni4gszhSPmQhN5zhzhKe) | [Lo Mejor de Alfredo Belusi](https://open.spotify.com/album/3wb46GHMf2t8Ljb30eDsB9) | 2:04 | 2022-03-18 | 2022-11-11 |
 | [Desde El Alma \- Instrumental](https://open.spotify.com/track/7hc9R31zHkGP84yPheNFFG) | [Osvaldo Pugliese](https://open.spotify.com/artist/2HO9rAU2R7CRnmhx0ytN41) | [Ausencia](https://open.spotify.com/album/5FgdIk8Td9O66U74UF7slF) | 2:55 | 2022-03-18 | 2022-07-29 |
+| [Desde El Alma \- Instrumental](https://open.spotify.com/track/3x4avp1I0TItgRFwytiTsX) | [Osvaldo Pugliese](https://open.spotify.com/artist/2HO9rAU2R7CRnmhx0ytN41) | [Boleros y Tangos Clásicos Mix](https://open.spotify.com/album/4FQbREiD9Anv7pc1osol0y) | 2:59 | 2022-03-18 |  |
 | [Desencuentro](https://open.spotify.com/track/7hpCXzUdgp4I1aX45W7514) | [Chino Laborde](https://open.spotify.com/artist/5OrKrSqxhTFrtScoJhqLrP) | [El Tango](https://open.spotify.com/album/7akIfhOcL4nMi4vwILqXsX) | 2:38 | 2022-03-18 | 2022-07-29 |
 | [Detrás de los Cerros](https://open.spotify.com/track/5JUyAdVFMa1JCnXabSxj48) | [Orquesta Los Crayones](https://open.spotify.com/artist/1NDpEndAKfNyVFrV6qgiuy) | [Detrás de los Cerros](https://open.spotify.com/album/2d3TaKGXNdYPsRRtxRCId9) | 3:10 | 2022-03-18 | 2022-07-29 |
 | [Don Agustín Bardi](https://open.spotify.com/track/4sTyyFYvesp495YKFX8erD) | [Aldo Saralegui](https://open.spotify.com/artist/3DkOmSI4zaX4mVCZQC7Fm1) | [Viejo Zen del alma](https://open.spotify.com/album/0pzsh5nMb1GJcoIrYrDFMS) | 3:19 | 2022-03-18 | 2022-07-29 |
@@ -63,7 +64,7 @@
 | [Ilusión De Mi Vida \- Instrumental](https://open.spotify.com/track/4bctNy4NQDBheODvK56ab8) | [Horacio Salgán](https://open.spotify.com/artist/2Bh9iQTtKB9vzl6iLtwZ9W) | [Tangos, Valses y Milongas](https://open.spotify.com/album/0zUIMASaUr80TPLQAOhpzT) | 2:55 | 2022-03-18 | 2022-07-29 |
 | [La Bicicleta Blanca](https://open.spotify.com/track/52gnzovIQX4fc8CzmXV3qI) | [Horacio Ferrer](https://open.spotify.com/artist/2YVUCSYeU9bgnXbno2WCu5), [Juan Trepiana](https://open.spotify.com/artist/1raFv3PXteep5J6poiA6we) | [Flor de Tangos y Poemas \(feat\. Juan Trepiana\)](https://open.spotify.com/album/0nAClewMjDbOhV1rCIx2Hz) | 3:51 | 2022-03-18 |  |
 | [La Casita de Mis Viejos](https://open.spotify.com/track/5Howbx5skirZgOf5KI8z3Z) | [Horacio Salgán](https://open.spotify.com/artist/2Bh9iQTtKB9vzl6iLtwZ9W), [Edmundo Rivero](https://open.spotify.com/artist/6ULt24uY5oov72S2fY1qoi) | [Canta Edmundo Rivero](https://open.spotify.com/album/1x8X4zShQiCYVYCaj4XNDj) | 5:14 | 2022-03-18 | 2022-07-28 |
-| [La casita de mis viejos \- Remastered](https://open.spotify.com/track/780oI6gpWrr8ds9gzx98B0) | [Edmundo Rivero](https://open.spotify.com/artist/6ULt24uY5oov72S2fY1qoi), [Horacio Salgán](https://open.spotify.com/artist/2Bh9iQTtKB9vzl6iLtwZ9W) | [Sur \(Remastered\)](https://open.spotify.com/album/4tNFXEyh7O6YxUVDB1ULz6) | 5:10 | 2022-03-18 |  |
+| [La casita de mis viejos \- Remastered](https://open.spotify.com/track/780oI6gpWrr8ds9gzx98B0) | [Edmundo Rivero](https://open.spotify.com/artist/6ULt24uY5oov72S2fY1qoi), [Horacio Salgán](https://open.spotify.com/artist/2Bh9iQTtKB9vzl6iLtwZ9W) | [Sur \(Remastered\)](https://open.spotify.com/album/4tNFXEyh7O6YxUVDB1ULz6) | 5:10 | 2022-03-18 | 2022-11-12 |
 | [La cumparsita](https://open.spotify.com/track/2joB3G4b527szRVC6L5VYL) | [Juan D'Arienzo](https://open.spotify.com/artist/46beGPwcX2QEZcmuvrMqp4) | [Orquesta Juan D' Arienzo \- La cumparsita](https://open.spotify.com/album/0ZmzauQgjoSoVd9QGzPfW9) | 3:42 | 2022-03-18 |  |
 | [La Luz de un Fósforo \- En Vivo](https://open.spotify.com/track/293xyTq2gy7G5PFaMeBbmd) | [Ariel Ardit](https://open.spotify.com/artist/62WLKvGxUiIjMITbNetyR6), [Orquesta Tipica](https://open.spotify.com/artist/04eoPYzcEUkOi9dyDYYUIk) | [A los Cantores \(En Vivo\)](https://open.spotify.com/album/2AN8JN4CJlc1BqgKLQEvvx) | 2:54 | 2022-03-18 |  |
 | [La Ultima Grela](https://open.spotify.com/track/3vshGrAPmdkL0bwAznsmEu) | [Guillermo Fernández](https://open.spotify.com/artist/2zzYRIDKcVq20xeBefKO2J) | [Conexion Piazzolla Ferrer](https://open.spotify.com/album/6oEMkRwv8leVRbPCP7zWtc) | 3:51 | 2022-03-18 | 2022-06-26 |

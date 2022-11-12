@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLAuD69zHkT.md) - [plain]
 
 > Slow, soft and sensual \- the laid back sounds of the Blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,669 likes - 76 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,697 likes - 76 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLAuD69zHkT.md) - [plain]
 | 48 | [Make It Rain](https://open.spotify.com/track/6eoilldRAmDz7IOEvFizIW) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [From Muscle Shoals](https://open.spotify.com/album/7Llh51MCW3JF6e7A56E5qq) | 4:51 |
 | 49 | [Good To Be \(Home Again\)](https://open.spotify.com/track/7HgqEF7aPj3l6BnjoYi3my) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Good To Be \(Home Again\)](https://open.spotify.com/album/7f36mEASmMWIvTmFv6tnOA) | 3:30 |
 | 50 | [New Stranger Blues \- Bonus Track](https://open.spotify.com/track/3c0a8SEFFik5s3OUTn1KXP) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [The Natch'l Blues](https://open.spotify.com/album/6ySAyGtXqiqF3Vya9bIir2) | 5:39 |
-| 51 | [Ain't No Sunshine](https://open.spotify.com/track/1ebftgRZcnctL8GpBu0nu8) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Texas Cannonball](https://open.spotify.com/album/59wGnewkXsHCgDahKUPBqu) | 3:20 |
+| 51 | [Ain't No Sunshine](https://open.spotify.com/track/474v7dAYMQ922017Y8ZgZ9) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Blues for Breakfast](https://open.spotify.com/album/53U7Q4ep8kXfTcwOISAKah) | 3:20 |
 | 52 | [Walking The Backstreets And Crying](https://open.spotify.com/track/5YU67a01EqyrZGlxqmVuCV) | [Little Milton](https://open.spotify.com/artist/0MPtuQaV2GiRdLjAkPOaan) | [Walkin' The Back Streets](https://open.spotify.com/album/2eePvHHhgO81Wqf19eyhC9) | 6:18 |
 | 53 | [Gravity](https://open.spotify.com/track/3SktMqZmo3M9zbB7oKMIF7) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Continuum](https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM) | 4:05 |
 | 54 | [Shine on, Moon!](https://open.spotify.com/track/0tWyaHqwejz2haPAvAtnao) | [Lightnin' Hopkins](https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE) | [Mojo Hand](https://open.spotify.com/album/0X0Z6M1sQQpSRs9UbqpJEo) | 4:23 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLAuD69zHkT.md) - [plain]
 | 75 | [I Love to Sing the Blues](https://open.spotify.com/track/5aBTkEM1vy7GaLeNH4ZBsq) | [Eb Davis Blues Band](https://open.spotify.com/artist/5EFzsijVGUq2VWklM2fxgK) | [Good Time Blues](https://open.spotify.com/album/0G4CO1qvIODlarbiaMOcEa) | 5:35 |
 | 76 | [When My Heart Beats Like a Hammer](https://open.spotify.com/track/44FnSZip0XhEBR3l7rPeJ1) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Riding with the King](https://open.spotify.com/album/7b0Ysbudh2BH9A853EfxEu) | 7:09 |
 
-Snapshot ID: `MTY2NTc2Mjg4NywwMDAwMDAwMGVhMTM5ZDJmNjgxOWU0MDg5N2E1YTBiM2JkY2FkZjlh`
+Snapshot ID: `MTY2NTc2Mjg4NywwMDAwMDAwMGJhNGI0YTljNGE1YTMzOGQwOTE2MTY1YmUzMjA2NjZh`

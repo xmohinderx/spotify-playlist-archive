@@ -4,7 +4,7 @@
 
 > ‘90s melodies that hit the right spot! Cover: Udit Narayan
 
-63 songs - 6 hr 28 min - [published](https://open.spotify.com/playlist/1ULXHWPXGv5rFqwLpYY2CM)
+64 songs - 6 hr 36 min - [published](https://open.spotify.com/playlist/1ULXHWPXGv5rFqwLpYY2CM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [Jaadu Teri Nazar](https://open.spotify.com/track/1mAO7s2X1VfYwNDWIcvdhS) | [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K) | [Darr \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7xGWECEsvj4iI3CajtZ1GH) | 4:39 | 2021-11-26 |  |
 | [Jab Koi Baat Bigad Jaye](https://open.spotify.com/track/0LT0APsnMlmcjpt2ZltCm2) | [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn), [Sadhana Sargam](https://open.spotify.com/artist/1HGMG8RHvcu1mfdM9MeTek) | [Jurm \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1ZSGBrQOJdW0QbtwrTUIqb) | 8:00 | 2021-11-26 |  |
 | [Jooma Chumma De De](https://open.spotify.com/track/0oy4Zk7CVLObwnDX8YZZ1e) | [Sudesh Bhosle](https://open.spotify.com/artist/7GNoTWm5VObvMUeS0Wkueu), [Kavita Krishnamurthy](https://open.spotify.com/artist/6WPmTGeeoymoVlXVtsCwz7), [Laxmikant–Pyarelal](https://open.spotify.com/artist/3yS84AjNFqhmuJlIXy7sax) | [Hum](https://open.spotify.com/album/5zmbuk1OJjZVE5sK3QQjHV) | 8:21 | 2021-11-26 | 2022-07-29 |
-| [Jooma Chumma De De, Pt\. 3](https://open.spotify.com/track/3VcZmUNpoyzWcl6SbfrbDa) | [Sudesh Bhosle](https://open.spotify.com/artist/7GNoTWm5VObvMUeS0Wkueu), [Kavita Krishnamurthy](https://open.spotify.com/artist/6WPmTGeeoymoVlXVtsCwz7) | [Hum \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7l8A4AdQy1pjkRmW78IEMF) | 8:23 | 2022-01-04 |  |
+| [Jooma Chumma De De \(From "Hum"\)](https://open.spotify.com/track/4cGYXeHgY1PI3zk6oKvihL) | [Sudesh Bhosle](https://open.spotify.com/artist/7GNoTWm5VObvMUeS0Wkueu), [Kavita Krishnamurthy](https://open.spotify.com/artist/6WPmTGeeoymoVlXVtsCwz7) | [Workout With Retro Dance Hits](https://open.spotify.com/album/1dYwYo38D1VmML6mrIIp6F) | 8:21 | 2022-01-04 |  |
+| [Jooma Chumma De De, Pt\. 3](https://open.spotify.com/track/3VcZmUNpoyzWcl6SbfrbDa) | [Sudesh Bhosle](https://open.spotify.com/artist/7GNoTWm5VObvMUeS0Wkueu), [Kavita Krishnamurthy](https://open.spotify.com/artist/6WPmTGeeoymoVlXVtsCwz7) | [Hum \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7l8A4AdQy1pjkRmW78IEMF) | 8:23 | 2022-01-04 | 2022-11-12 |
 | [Kagaz Kalam Davaat](https://open.spotify.com/track/6vWo9DUKqQv87oh8r3B141) | [Mohammed Aziz](https://open.spotify.com/artist/3vXBH4XwXSLM1YIrRBt98k), [Shobha Joshi](https://open.spotify.com/artist/0arll9CtoKDxVRfMz1S1Sd) | [Hum \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7l8A4AdQy1pjkRmW78IEMF) | 6:07 | 2022-01-04 |  |
 | [Kagaz Kalam Davaat](https://open.spotify.com/track/1AFhS5Nm9Pc96WoyTiUCaK) | [Mohammed Aziz](https://open.spotify.com/artist/3vXBH4XwXSLM1YIrRBt98k), [Shobha Joshi](https://open.spotify.com/artist/0arll9CtoKDxVRfMz1S1Sd), [Laxmikant–Pyarelal](https://open.spotify.com/artist/3yS84AjNFqhmuJlIXy7sax) | [Hum](https://open.spotify.com/album/5zmbuk1OJjZVE5sK3QQjHV) | 6:07 | 2021-11-26 | 2022-07-29 |
 | [Kuch Kuch Hota Hai](https://open.spotify.com/track/4RixtPhUXlci9ad4qIMj23) | [Jatin\-Lalit](https://open.spotify.com/artist/4YgUVg4p7xtMOrOS4GjiJZ), [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz) | [Kuch Kuch Hota Hai](https://open.spotify.com/album/5i3NjuZceh9iqtcODFTM4Q) | 4:57 | 2021-11-26 |  |

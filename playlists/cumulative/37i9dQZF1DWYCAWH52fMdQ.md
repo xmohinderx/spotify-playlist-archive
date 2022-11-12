@@ -4,7 +4,7 @@
 
 > Get Ready! Show Time! iKON's new EP 'FLASHBACK' is out now! This is iKON playlist is composed of songs that tell iKON's honest and sentimental stories.
 
-60 songs - 3 hr 15 min - [published](https://open.spotify.com/playlist/1B4kGlPntqKPPV2ND1sBSP)
+62 songs - 3 hr 22 min - [published](https://open.spotify.com/playlist/1B4kGlPntqKPPV2ND1sBSP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,14 +42,16 @@
 | [HUG ME](https://open.spotify.com/track/4lhcOa69hv4J74sGtPeglB) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [Return](https://open.spotify.com/album/7th9VLudqM04TpG8hNE1pb) | 3:36 | 2022-05-12 |  |
 | [I MISS YOU SO BAD](https://open.spotify.com/track/3KNUQPxl7F4Lz10KL0vZOp) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [DEBUT FULL ALBUM \[WELCOME BACK\]](https://open.spotify.com/album/1xsNJgTK34ByVUPzQK02Ds) | 3:48 | 2022-05-12 |  |
 | [I'M OK](https://open.spotify.com/track/3j14qtAI9kueKAxtjYYjsZ) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [NEW KIDS REPACKAGE : THE NEW KIDS](https://open.spotify.com/album/6RZYa7F18bu7mmeT8qxWqh) | 3:36 | 2022-05-12 |  |
+| [JERK](https://open.spotify.com/track/3fupZiN43YcXkeikyM7Mqk) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [NEW KIDS REPACKAGE : THE NEW KIDS](https://open.spotify.com/album/6RZYa7F18bu7mmeT8qxWqh) | 3:43 | 2022-05-12 |  |
 | [JERK](https://open.spotify.com/track/47qCXhs9lhxZQlMtKwRh8n) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [NEW KIDS REPACKAGE : THE NEW KIDS](https://open.spotify.com/album/2e2VfakLM318HT1VaJsKq2) | 3:43 | 2022-05-12 | 2022-07-29 |
-| [JERK](https://open.spotify.com/track/5l9yN1JROmX6QptM6n4R9C) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [Return](https://open.spotify.com/album/7th9VLudqM04TpG8hNE1pb) | 3:43 | 2022-05-12 |  |
+| [JERK](https://open.spotify.com/track/5l9yN1JROmX6QptM6n4R9C) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [Return](https://open.spotify.com/album/7th9VLudqM04TpG8hNE1pb) | 3:43 | 2022-05-12 | 2022-11-12 |
 | [JUST GO](https://open.spotify.com/track/24sDjPLeUW4io2AlwlwHku) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [NEW KIDS REPACKAGE : THE NEW KIDS](https://open.spotify.com/album/2e2VfakLM318HT1VaJsKq2) | 3:36 | 2022-05-12 | 2022-07-29 |
 | [JUST GO](https://open.spotify.com/track/7m5Dx1L76Gxnb7osbw8Cdi) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [Return](https://open.spotify.com/album/7th9VLudqM04TpG8hNE1pb) | 3:36 | 2022-05-12 |  |
 | [KILLING ME](https://open.spotify.com/track/1IbpTcFDHRD87cGQOhVCDP) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [NEW KIDS REPACKAGE : THE NEW KIDS](https://open.spotify.com/album/6RZYa7F18bu7mmeT8qxWqh) | 3:13 | 2022-05-12 |  |
 | [KILLING ME](https://open.spotify.com/track/36wruYZk4V9sWeUzR3rB74) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [NEW KIDS REPACKAGE : THE NEW KIDS](https://open.spotify.com/album/2e2VfakLM318HT1VaJsKq2) | 3:13 | 2022-05-12 | 2022-07-29 |
 | [LiAr](https://open.spotify.com/track/1vOvHNRKQs8sriDTok0TC5) | [BOBBY](https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS) | [LUCKY MAN](https://open.spotify.com/album/2dY5DQcOw6DiVpmbDNRm5e) | 3:57 | 2022-05-12 |  |
-| [LOVE ME](https://open.spotify.com/track/6OCwktCtDcutcJiD0XtDhQ) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [Return](https://open.spotify.com/album/7th9VLudqM04TpG8hNE1pb) | 3:28 | 2022-05-12 |  |
+| [LOVE ME](https://open.spotify.com/track/6OCwktCtDcutcJiD0XtDhQ) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [Return](https://open.spotify.com/album/7th9VLudqM04TpG8hNE1pb) | 3:28 | 2022-05-12 | 2022-11-12 |
+| [LOVE ME](https://open.spotify.com/track/6RIC2sbqHaZegmpfk82g2A) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [NEW KIDS REPACKAGE : THE NEW KIDS](https://open.spotify.com/album/6RZYa7F18bu7mmeT8qxWqh) | 3:28 | 2022-05-12 |  |
 | [LOVE ME](https://open.spotify.com/track/7IQIzpoFAuER8n982flpEF) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [NEW KIDS REPACKAGE : THE NEW KIDS](https://open.spotify.com/album/2e2VfakLM318HT1VaJsKq2) | 3:28 | 2022-05-12 | 2022-07-29 |
 | [LOVE SCENARIO](https://open.spotify.com/track/25aawb25AiIdfj5ctvr3Do) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [NEW KIDS REPACKAGE : THE NEW KIDS](https://open.spotify.com/album/2e2VfakLM318HT1VaJsKq2) | 3:29 | 2022-05-12 | 2022-07-29 |
 | [LOVE SCENARIO](https://open.spotify.com/track/3bUw9o4pis3Z5rOeJZJgDS) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [NEW KIDS REPACKAGE : THE NEW KIDS](https://open.spotify.com/album/6RZYa7F18bu7mmeT8qxWqh) | 3:29 | 2022-05-12 |  |

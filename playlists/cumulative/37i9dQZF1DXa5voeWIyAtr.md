@@ -4,7 +4,7 @@
 
 > pongámonos de acuerdo: nos vamos a querer o ahí la vamos a dejar o de nuevo aparentar que aquí no ha pasado nada 💔
 
-96 songs - 5 hr 32 min - [published](https://open.spotify.com/playlist/2JYYQFaZkrXZ0QulPBCtwz)
+97 songs - 5 hr 35 min - [published](https://open.spotify.com/playlist/2JYYQFaZkrXZ0QulPBCtwz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,8 +89,9 @@
 | [Tengo Todo Excepto a Ti](https://open.spotify.com/track/27XboT5Wb8VOn7A0heo3Ei) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [20 Años](https://open.spotify.com/album/3D9NENGfg4DFmYJrEaxRHd) | 4:32 | 2022-01-18 |  |
 | [Traicionera](https://open.spotify.com/track/4Ft0391aLVNtCPPseh98lp) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [MANTRA](https://open.spotify.com/album/1l1zcI8iwJg4WCb7jxHtbN) | 3:49 | 2022-08-02 |  |
 | [Tusa](https://open.spotify.com/track/7k4t7uLgtOxPwTpFmtJNTY) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Tusa](https://open.spotify.com/album/7mKevNHhVnZER3BLgI8O4F) | 3:20 | 2022-01-18 |  |
+| [Un Idiota](https://open.spotify.com/track/455RCfTWiV8eyMusbcl3tx) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Antología: El Poeta Del Pueblo, Vol\. 3 – Sus Grandes Baladas](https://open.spotify.com/album/3AXSIGs7IkCFhepjnBw4yt) | 3:19 | 2022-08-02 |  |
 | [Un Idiota](https://open.spotify.com/track/4TweWE1C4QekSoIZDS2cjf) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Secreto De Amor](https://open.spotify.com/album/1wc7nRyIpIhe2DXcPs7JaM) | 3:19 | 2022-01-18 | 2022-07-29 |
-| [Un Idiota](https://open.spotify.com/track/5susfx6SX1tebTCLSxe74K) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Secreto De Amor](https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV) | 3:19 | 2022-01-18 |  |
+| [Un Idiota](https://open.spotify.com/track/5susfx6SX1tebTCLSxe74K) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Secreto De Amor](https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV) | 3:19 | 2022-01-18 | 2022-11-12 |
 | [UN PESO](https://open.spotify.com/track/7hynhxDoDpgMIV12JuVtNa) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Marciano Cantero](https://open.spotify.com/artist/5QzDzXfXC5lepOBeQXBiVO) | [OASIS](https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN) | 4:37 | 2022-01-18 | 2022-08-03 |
 | [Una Locura](https://open.spotify.com/track/5y7DaS3jAc9eZzcSOoUIwU) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Enoc](https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q) | 3:50 | 2022-01-18 |  |
 | [Vete](https://open.spotify.com/track/5DxXgozhkPLgrbKFY91w0c) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Vete](https://open.spotify.com/album/3fxzSn0ObgCjLadyR53ohN) | 3:12 | 2022-01-18 |  |

@@ -4,7 +4,7 @@
 
 > ¡Adentro! Lo mejor del folklore argentino para bailar hasta el amanecer\. Foto: Los Nocheros
 
-136 songs - 7 hr 36 min - [published](https://open.spotify.com/playlist/4jV8thGCLiOJDMuDg71WqM)
+137 songs - 7 hr 40 min - [published](https://open.spotify.com/playlist/4jV8thGCLiOJDMuDg71WqM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [Vuelve La Llama](https://open.spotify.com/track/5ji0BDOEcT5ITZHsrWfMGX) | [La Cantada](https://open.spotify.com/artist/43JZjapoSHGJCjXhPdKRZb) | [Vuelve La Llama](https://open.spotify.com/album/79mwd2rHekN02U2DuS4tJ0) | 1:59 | 2022-10-07 |  |
 | [Yo seré Jujuy](https://open.spotify.com/track/17KOVqmT5m2Rdloo3440SF) | [La Cantada](https://open.spotify.com/artist/43JZjapoSHGJCjXhPdKRZb) | [Yo Seré Jujuy](https://open.spotify.com/album/4lq8LJDZ53ZJZ2nEsH69cV) | 4:06 | 2021-12-31 |  |
 | [Yo Soy](https://open.spotify.com/track/0JRPALRWpLmVif7MafmBja) | [Francisco Benitez](https://open.spotify.com/artist/6egRIQTuB2wz5MbEBLfncj) | [Yo Soy](https://open.spotify.com/album/7pcf9UsIsZWSQqSVMf4t6C) | 2:41 | 2022-02-18 |  |
+| [Zamba de los yuyos](https://open.spotify.com/track/7ipuwOjqoLy5hyAEGSMZj5) | [Gauchos Of The Pampa](https://open.spotify.com/artist/3rinfPP8tgOSDHnmmfEWCN) | [Zamba de los yuyos](https://open.spotify.com/album/6s7uk19jxa0drzsviWj3ih) | 4:16 | 2022-11-11 |  |
 | [Zapateo](https://open.spotify.com/track/7DRlzBCGO83lfVHV4Z4YjS) | [La Cantada](https://open.spotify.com/artist/43JZjapoSHGJCjXhPdKRZb) | [Zapateo](https://open.spotify.com/album/3e5YZATI5VXN1UCKbi3a60) | 2:59 | 2021-12-31 | 2022-03-12 |
 
 \*This playlist was first scraped on 2022-01-02. Prior content cannot be recovered.

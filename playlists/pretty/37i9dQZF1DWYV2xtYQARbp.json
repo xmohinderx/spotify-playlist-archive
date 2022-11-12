@@ -1,12 +1,12 @@
 {
   "description": "That fuzzy, noisy punk-blues hybrid",
-  "num_followers": 8433,
+  "num_followers": 8461,
   "original_name": "Punk Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5ODQ5OCwwMDAwMDAwMDgwZDM0ZGZlMmQwNzQxMzYwZjg5MDE0OGYxMmQ4NWYw",
+  "snapshot_id": "MTY0ODQ5ODQ5OCwwMDAwMDAwMGQxZjJkNWU2YzA5ZTdiZThhNDQ2ODVlZGEyMDVjNjAz",
   "tracks": [
     {
       "added_at": "2022-03-28 20:14:58",
@@ -587,22 +587,6 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "Beware the Ides of March",
-        "url": "https://open.spotify.com/album/0P1GRmI3zZ5fclhcxiixfV"
-      },
-      "artists": [
-        {
-          "name": "Thee Mighty Caesars",
-          "url": "https://open.spotify.com/artist/0inrs4SRUX8tumpMrZkkiD"
-        }
-      ],
-      "duration_ms": 131039,
-      "name": "You'll Be Sorry Now",
-      "url": "https://open.spotify.com/track/10Wc1g6PLRK6TPFsAXRqtU"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
         "name": "Midnight Soul Serenade",
         "url": "https://open.spotify.com/album/2fuFzP7XWAWmWS4YVOZTKS"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 204320,
       "name": "Isolation",
       "url": "https://open.spotify.com/track/5WQVHv1Vw8VRE904vPsLsL"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
+        "name": "Beware the Ides of March",
+        "url": "https://open.spotify.com/album/0P1GRmI3zZ5fclhcxiixfV"
+      },
+      "artists": [
+        {
+          "name": "Thee Mighty Caesars",
+          "url": "https://open.spotify.com/artist/0inrs4SRUX8tumpMrZkkiD"
+        }
+      ],
+      "duration_ms": 131039,
+      "name": "You'll Be Sorry Now",
+      "url": "https://open.spotify.com/track/10Wc1g6PLRK6TPFsAXRqtU"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -683,22 +683,6 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "Whatcha Doin'",
-        "url": "https://open.spotify.com/album/76ioQYsj2LjKW7hewrz9uX"
-      },
-      "artists": [
-        {
-          "name": "The Go",
-          "url": "https://open.spotify.com/artist/2m0xdXsYglZKSzqVkZtFi8"
-        }
-      ],
-      "duration_ms": 217040,
-      "name": "Summer Sun Blues",
-      "url": "https://open.spotify.com/track/3w9bUhup3zHpeNUhujZKhn"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
         "name": "The Blackout",
         "url": "https://open.spotify.com/album/5w0QE2P3y8PAMAEG9NMgfE"
       },
@@ -711,6 +695,38 @@
       "duration_ms": 126853,
       "name": "Hanky-Joe Digger",
       "url": "https://open.spotify.com/track/1Sv7geImcYAkQw8MQVB3G4"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
+        "name": "Midnight Soul Serenade",
+        "url": "https://open.spotify.com/album/2fuFzP7XWAWmWS4YVOZTKS"
+      },
+      "artists": [
+        {
+          "name": "Heavy Trash",
+          "url": "https://open.spotify.com/artist/1EDKHddaLUxX4ueVGJOGUr"
+        }
+      ],
+      "duration_ms": 207760,
+      "name": "(Sometimes You Got to Be) Gentle",
+      "url": "https://open.spotify.com/track/23SE56CtkeGrThZQdlDpDz"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
+        "name": "Whatcha Doin'",
+        "url": "https://open.spotify.com/album/76ioQYsj2LjKW7hewrz9uX"
+      },
+      "artists": [
+        {
+          "name": "The Go",
+          "url": "https://open.spotify.com/artist/2m0xdXsYglZKSzqVkZtFi8"
+        }
+      ],
+      "duration_ms": 217040,
+      "name": "Summer Sun Blues",
+      "url": "https://open.spotify.com/track/3w9bUhup3zHpeNUhujZKhn"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -747,22 +763,6 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "Midnight Soul Serenade",
-        "url": "https://open.spotify.com/album/2fuFzP7XWAWmWS4YVOZTKS"
-      },
-      "artists": [
-        {
-          "name": "Heavy Trash",
-          "url": "https://open.spotify.com/artist/1EDKHddaLUxX4ueVGJOGUr"
-        }
-      ],
-      "duration_ms": 207760,
-      "name": "(Sometimes You Got to Be) Gentle",
-      "url": "https://open.spotify.com/track/23SE56CtkeGrThZQdlDpDz"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
         "name": "Broad Appeal",
         "url": "https://open.spotify.com/album/1lXul79dEZzoQn6texAGTx"
       },
@@ -779,8 +779,8 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "Serenade in Red",
-        "url": "https://open.spotify.com/album/6KmMuPrapXIwvYobrSrlKh"
+        "name": "Love That's Last: A Wholly Hypnographic and Disturbing Work Regarding Oxbow",
+        "url": "https://open.spotify.com/album/4vNufyxmoWUWnbxcYehLix"
       },
       "artists": [
         {
@@ -788,9 +788,9 @@
           "url": "https://open.spotify.com/artist/4m47y2u5lJBKbakAv5YAh1"
         }
       ],
-      "duration_ms": 370266,
+      "duration_ms": 372373,
       "name": "Insylum",
-      "url": "https://open.spotify.com/track/644lYw5mjg4Ja1saKnpIXK"
+      "url": "https://open.spotify.com/track/7zoYk1BYN3xhUv3LBa75Yr"
     },
     {
       "added_at": "2022-03-28 20:14:58",

@@ -1,12 +1,12 @@
 {
   "description": "Disco forever. Deeper cuts, forgotten gems and 8 minute versions.",
-  "num_followers": 31818,
+  "num_followers": 31897,
   "original_name": "Disco Decadence",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzAyMTY3OSwwMDAwMDAwMGYyNmEzMGVhN2U5NzI2NmQ2MDQ5ZTdiYjZlMWU5MmU1",
+  "snapshot_id": "MTY2MzAyMTY3OSwwMDAwMDAwMDVjMTU4OTUwNjRmNzY1YzFkYWY5NDU4NjRiOTYwYmI0",
   "tracks": [
     {
       "added_at": "2022-09-12 22:27:59",
@@ -191,6 +191,22 @@
     {
       "added_at": "2022-09-12 22:27:59",
       "album": {
+        "name": "Turn This Mutha Out",
+        "url": "https://open.spotify.com/album/4PznnWq19AwatCG4lsyb5I"
+      },
+      "artists": [
+        {
+          "name": "Idris Muhammad",
+          "url": "https://open.spotify.com/artist/6ghiUK2ao3KcmmDt2pbNzN"
+        }
+      ],
+      "duration_ms": 516586,
+      "name": "Could Heaven Ever Be Like This",
+      "url": "https://open.spotify.com/track/1xkOg49ZxldiM1ioIudwUS"
+    },
+    {
+      "added_at": "2022-09-12 22:27:59",
+      "album": {
         "name": "The Dude",
         "url": "https://open.spotify.com/album/2GD9TjWG3Tu4JygAZniBY0"
       },
@@ -207,22 +223,6 @@
       "duration_ms": 386360,
       "name": "Ai No Corrida",
       "url": "https://open.spotify.com/track/0SzAKZYTUvDLqlPgllEb3N"
-    },
-    {
-      "added_at": "2022-09-12 22:27:59",
-      "album": {
-        "name": "Turn This Mutha Out",
-        "url": "https://open.spotify.com/album/4PznnWq19AwatCG4lsyb5I"
-      },
-      "artists": [
-        {
-          "name": "Idris Muhammad",
-          "url": "https://open.spotify.com/artist/6ghiUK2ao3KcmmDt2pbNzN"
-        }
-      ],
-      "duration_ms": 516586,
-      "name": "Could Heaven Ever Be Like This",
-      "url": "https://open.spotify.com/track/1xkOg49ZxldiM1ioIudwUS"
     },
     {
       "added_at": "2022-09-12 22:27:59",
@@ -339,22 +339,6 @@
     {
       "added_at": "2022-09-12 22:27:59",
       "album": {
-        "name": "Pizzazz",
-        "url": "https://open.spotify.com/album/38I3cIZowVjtksvYrpQIJf"
-      },
-      "artists": [
-        {
-          "name": "Patrice Rushen",
-          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
-        }
-      ],
-      "duration_ms": 405293,
-      "name": "Haven't You Heard",
-      "url": "https://open.spotify.com/track/1AAanCnoJF7USJKG9dEjey"
-    },
-    {
-      "added_at": "2022-09-12 22:27:59",
-      "album": {
         "name": "Love Is The Message",
         "url": "https://open.spotify.com/album/6x6beV2H3fTTL2ovxA3iVQ"
       },
@@ -407,22 +391,6 @@
     {
       "added_at": "2022-09-12 22:27:59",
       "album": {
-        "name": "The Boss (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7jqe6yQ9qtHqahli8WSYH4"
-      },
-      "artists": [
-        {
-          "name": "Diana Ross",
-          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
-        }
-      ],
-      "duration_ms": 241333,
-      "name": "The Boss",
-      "url": "https://open.spotify.com/track/5kfQK1Vb1mKSwzVn32Tarj"
-    },
-    {
-      "added_at": "2022-09-12 22:27:59",
-      "album": {
         "name": "Odyssey (Expanded Edition)",
         "url": "https://open.spotify.com/album/1uXAM1SMOvZqP198Xnfda6"
       },
@@ -435,6 +403,22 @@
       "duration_ms": 336466,
       "name": "Native New Yorker - 12\" Disco Mix",
       "url": "https://open.spotify.com/track/1jR4bgFyL3ut5ExAKDDNEZ"
+    },
+    {
+      "added_at": "2022-09-12 22:27:59",
+      "album": {
+        "name": "The Boss (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7jqe6yQ9qtHqahli8WSYH4"
+      },
+      "artists": [
+        {
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+        }
+      ],
+      "duration_ms": 241333,
+      "name": "The Boss",
+      "url": "https://open.spotify.com/track/5kfQK1Vb1mKSwzVn32Tarj"
     },
     {
       "added_at": "2022-09-12 22:27:59",
@@ -831,22 +815,6 @@
     {
       "added_at": "2022-09-12 22:27:59",
       "album": {
-        "name": "The Dance Collection",
-        "url": "https://open.spotify.com/album/7FqRt16IDbD2LvgJ4Otqcp"
-      },
-      "artists": [
-        {
-          "name": "Donna Summer",
-          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
-        }
-      ],
-      "duration_ms": 1067333,
-      "name": "MacArthur Park Suite: MacArthur Park/One Of A Kind/Heavens Knows/MacArthur Park Reprise",
-      "url": "https://open.spotify.com/track/0rXruSqepHUNIrPM7PpEhQ"
-    },
-    {
-      "added_at": "2022-09-12 22:27:59",
-      "album": {
         "name": "The Changing Of The Gard",
         "url": "https://open.spotify.com/album/4EGsIOg5ESHveA9g6InSto"
       },
@@ -879,22 +847,6 @@
     {
       "added_at": "2022-09-12 22:27:59",
       "album": {
-        "name": "Risqu\u00e9 (2018 Remaster)",
-        "url": "https://open.spotify.com/album/7rAk4WPpYlYr0fElVfXTOF"
-      },
-      "artists": [
-        {
-          "name": "CHIC",
-          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
-        }
-      ],
-      "duration_ms": 274960,
-      "name": "My Forbidden Lover - 2018 Remaster",
-      "url": "https://open.spotify.com/track/1HUTQRf1kFERMNNVvCU5R4"
-    },
-    {
-      "added_at": "2022-09-12 22:27:59",
-      "album": {
         "name": "Slippin' and Dippin' (Bonus Track Version)",
         "url": "https://open.spotify.com/album/4LvH1pQ8ysoBXLicmLdifO"
       },
@@ -911,8 +863,8 @@
     {
       "added_at": "2022-09-12 22:27:59",
       "album": {
-        "name": "Bad Girls (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4h63dypm4IYSGfCDe2Gcz6"
+        "name": "The Dance Collection",
+        "url": "https://open.spotify.com/album/7FqRt16IDbD2LvgJ4Otqcp"
       },
       "artists": [
         {
@@ -920,9 +872,9 @@
           "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
         }
       ],
-      "duration_ms": 295125,
-      "name": "Bad Girls - 12\" Version",
-      "url": "https://open.spotify.com/track/0qWZZsiCMibvawWrBOAyhD"
+      "duration_ms": 1067333,
+      "name": "MacArthur Park Suite: MacArthur Park/One Of A Kind/Heavens Knows/MacArthur Park Reprise",
+      "url": "https://open.spotify.com/track/0rXruSqepHUNIrPM7PpEhQ"
     },
     {
       "added_at": "2022-09-12 22:27:59",
@@ -1063,6 +1015,38 @@
     {
       "added_at": "2022-09-12 22:27:59",
       "album": {
+        "name": "Club Columbia",
+        "url": "https://open.spotify.com/album/6g7JRPx6SdrEDLQS2fQcsI"
+      },
+      "artists": [
+        {
+          "name": "Jackie Moore",
+          "url": "https://open.spotify.com/artist/1EialtL6J5R7O0exgdgQ1w"
+        }
+      ],
+      "duration_ms": 433093,
+      "name": "This Time Baby - Special 12\" Version",
+      "url": "https://open.spotify.com/track/1Ywkbr13F7cOzwHs8QKknI"
+    },
+    {
+      "added_at": "2022-09-12 22:27:59",
+      "album": {
+        "name": "Bad Girls (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4h63dypm4IYSGfCDe2Gcz6"
+      },
+      "artists": [
+        {
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+        }
+      ],
+      "duration_ms": 295125,
+      "name": "Bad Girls - 12\" Version",
+      "url": "https://open.spotify.com/track/0qWZZsiCMibvawWrBOAyhD"
+    },
+    {
+      "added_at": "2022-09-12 22:27:59",
+      "album": {
         "name": "Delusions (Bonus Version)",
         "url": "https://open.spotify.com/album/0YbZ9lgPYhxGHS2zpRIOZg"
       },
@@ -1079,38 +1063,6 @@
       "duration_ms": 457746,
       "name": "Doctor Love - Tom Moulton 12\" Mix",
       "url": "https://open.spotify.com/track/0zewaxyhaiad2J2V8X12GL"
-    },
-    {
-      "added_at": "2022-09-12 22:27:59",
-      "album": {
-        "name": "Donna Summer (Re-Mastered & Expanded)",
-        "url": "https://open.spotify.com/album/0kj5N3OTnl3nCmLEDbbt7Z"
-      },
-      "artists": [
-        {
-          "name": "Donna Summer",
-          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
-        }
-      ],
-      "duration_ms": 262320,
-      "name": "Love Is in Control (Finger on the Trigger) [2014 Remaster]",
-      "url": "https://open.spotify.com/track/3UOkQoi2jRxuuBIIlPOETW"
-    },
-    {
-      "added_at": "2022-09-12 22:27:59",
-      "album": {
-        "name": "Club Columbia",
-        "url": "https://open.spotify.com/album/6g7JRPx6SdrEDLQS2fQcsI"
-      },
-      "artists": [
-        {
-          "name": "Jackie Moore",
-          "url": "https://open.spotify.com/artist/1EialtL6J5R7O0exgdgQ1w"
-        }
-      ],
-      "duration_ms": 433093,
-      "name": "This Time Baby - Special 12\" Version",
-      "url": "https://open.spotify.com/track/1Ywkbr13F7cOzwHs8QKknI"
     },
     {
       "added_at": "2022-09-12 22:27:59",
@@ -1159,6 +1111,22 @@
       "duration_ms": 388920,
       "name": "Changin'",
       "url": "https://open.spotify.com/track/0fkmYAlaWRl8PekuNfSsYE"
+    },
+    {
+      "added_at": "2022-09-12 22:27:59",
+      "album": {
+        "name": "Donna Summer (Re-Mastered & Expanded)",
+        "url": "https://open.spotify.com/album/0kj5N3OTnl3nCmLEDbbt7Z"
+      },
+      "artists": [
+        {
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+        }
+      ],
+      "duration_ms": 262320,
+      "name": "Love Is in Control (Finger on the Trigger) [2014 Remaster]",
+      "url": "https://open.spotify.com/track/3UOkQoi2jRxuuBIIlPOETW"
     },
     {
       "added_at": "2022-09-12 22:27:59",
@@ -1363,22 +1331,6 @@
     {
       "added_at": "2022-09-12 22:27:59",
       "album": {
-        "name": "Miss Gladys Knight",
-        "url": "https://open.spotify.com/album/2mY1RyBSnE7tkjh7EVJNNc"
-      },
-      "artists": [
-        {
-          "name": "Gladys Knight",
-          "url": "https://open.spotify.com/artist/2aXiJJHJei5BmCykxI37y0"
-        }
-      ],
-      "duration_ms": 351453,
-      "name": "It's a Better Than Good Time",
-      "url": "https://open.spotify.com/track/07HoKinMluYrInnQoMj4zu"
-    },
-    {
-      "added_at": "2022-09-12 22:27:59",
-      "album": {
         "name": "More, More, More",
         "url": "https://open.spotify.com/album/4xQKeiJzX2EmCXt5XdGiTN"
       },
@@ -1423,6 +1375,54 @@
       "duration_ms": 519546,
       "name": "1979 It's Dancing Time (Full Length Album Mix)",
       "url": "https://open.spotify.com/track/4HeTM95uOsZgfZkj0WKJ3P"
+    },
+    {
+      "added_at": "2022-09-12 22:27:59",
+      "album": {
+        "name": "Feelgood Dinner Music",
+        "url": "https://open.spotify.com/album/1cwqxZw0YgpkmFdJvb0unO"
+      },
+      "artists": [
+        {
+          "name": "CHIC",
+          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
+        }
+      ],
+      "duration_ms": 415466,
+      "name": "I Want Your Love",
+      "url": "https://open.spotify.com/track/5w8HsdIelE4Y4LAGoQAAdV"
+    },
+    {
+      "added_at": "2022-09-12 22:27:59",
+      "album": {
+        "name": "Reddy",
+        "url": "https://open.spotify.com/album/7fX7vwOqp6YRQ3ZQcJR3xI"
+      },
+      "artists": [
+        {
+          "name": "Helen Reddy",
+          "url": "https://open.spotify.com/artist/0Sq7oGrYEe0BDmb13wgjOO"
+        }
+      ],
+      "duration_ms": 399200,
+      "name": "Make Love To Me",
+      "url": "https://open.spotify.com/track/1tUNwvT6XuZU8I3yOPwkNm"
+    },
+    {
+      "added_at": "2022-09-12 22:27:59",
+      "album": {
+        "name": "Pizzazz (Remastered)",
+        "url": "https://open.spotify.com/album/1eU5TsYbq7rD0JgvkKCYjo"
+      },
+      "artists": [
+        {
+          "name": "Patrice Rushen",
+          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
+        }
+      ],
+      "duration_ms": 405413,
+      "name": "Haven't You Heard",
+      "url": "https://open.spotify.com/track/1XH0N21MSNSB9nF3lIti0P"
     }
   ],
   "unique_name": "Disco Decadence",

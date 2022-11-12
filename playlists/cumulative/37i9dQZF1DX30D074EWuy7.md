@@ -4,7 +4,7 @@
 
 > Il meglio del jazz italiano, in una selezione speciale a cura degli <a href="spotify:artist:1rWbZmR5D63aZU60lMtVZx">Studio Murena</a>.
 
-155 songs - 11 hr 7 min - [published](https://open.spotify.com/playlist/4ci8LwC6vBaMAmVvAWXsOb)
+156 songs - 11 hr 10 min - [published](https://open.spotify.com/playlist/4ci8LwC6vBaMAmVvAWXsOb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,7 +144,8 @@
 | [Tempo perduto](https://open.spotify.com/track/55c6MaCvuBjYeV6rcmzmbU) | [Sergio Cammariere](https://open.spotify.com/artist/6dyQKg6sytjgPsPUFjsYXU) | [Dalla pace del mare lontano](https://open.spotify.com/album/16UbX9IfWpgx573NxsdQlH) | 4:23 | 2022-08-31 | 2022-10-01 |
 | [That Place](https://open.spotify.com/track/48FYBcHOQAvt0wFtmKDp7x) | [Emanuele Triglia](https://open.spotify.com/artist/617R11XUjqnwEnjXGsqjTp), [Davide Savarese](https://open.spotify.com/artist/4qxVdV4LGMsYYravUCrwgf), [Benjamin Ventura](https://open.spotify.com/artist/311eLcQf3m45gs1sYUxKNc), [Francesco Fratini](https://open.spotify.com/artist/3DAWdBF9FZhTWbThgzcfNB) | [Make It Pure](https://open.spotify.com/album/6jYUbst4sqwUQAQ3xJt1cl) | 4:36 | 2022-11-02 |  |
 | [The Man I Love](https://open.spotify.com/track/6RkyaHiXGS0BIbOcQ9RVom) | [Enrico Rava](https://open.spotify.com/artist/0NLlZlYs28ClkYXasvqmjy), [Stefano Bollani](https://open.spotify.com/artist/6LO13YjxG7x8waq1RGOYI7), [Paul Motian](https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX) | [Tati](https://open.spotify.com/album/2IMWVfOAIMlDL7SEpXtFVh) | 5:55 | 2022-08-31 | 2022-10-01 |
-| [The Western Guys](https://open.spotify.com/track/4aZ4Fhkzxl1zBbwJwc9hEA) | [Khalab](https://open.spotify.com/artist/7y31SHFbPMfSy2pJbeYQI3), [M'berra Ensemble](https://open.spotify.com/artist/5FqZynIWuXBOQU3fEIulak) | [M’berra](https://open.spotify.com/album/2UBudXYMxtoWUifgm0uC3e) | 3:52 | 2022-11-02 |  |
+| [The Western Guys](https://open.spotify.com/track/4aZ4Fhkzxl1zBbwJwc9hEA) | [Khalab](https://open.spotify.com/artist/7y31SHFbPMfSy2pJbeYQI3), [M'berra Ensemble](https://open.spotify.com/artist/5FqZynIWuXBOQU3fEIulak) | [M’berra](https://open.spotify.com/album/2UBudXYMxtoWUifgm0uC3e) | 3:52 | 2022-11-02 | 2022-11-12 |
+| [The Western Guys](https://open.spotify.com/track/5u2BJIr3c9kazCyBFQevvn) | [Khalab & M’berra Ensemble](https://open.spotify.com/artist/2Lb0ATXjulFMvJQlquCgvr) | [M'berra](https://open.spotify.com/album/5BblnhMflAtl1Iz1FCoFsG) | 3:52 | 2022-11-07 |  |
 | [Time Back](https://open.spotify.com/track/1F1Nm8dXWjSqmQItbENbAD) | [Antonio Faraò](https://open.spotify.com/artist/2rYbcK0bCQ3jLFfd2zr9sI), [Chris Potter](https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB), [Drew Gress](https://open.spotify.com/artist/4HMyzDtVu6uNLYQZqYeOXK), [Jack DeJohnette](https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU) | [The Enja Heritage Collection: Thorn](https://open.spotify.com/album/67rTLugyNX03X8zatBUAWx) | 7:34 | 2022-11-02 |  |
 | [Todo Sentimento](https://open.spotify.com/track/4TKWmujIt48YtFthSjMvkd) | [Maria Pia De Vito](https://open.spotify.com/artist/2WdJBOMuv70FribaCLT5vE), [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [Core \(Coração\)](https://open.spotify.com/album/4Tcpln6hfphJC3DyhXwhUD) | 3:48 | 2022-08-31 | 2022-10-01 |
 | [Transe Napolitaine](https://open.spotify.com/track/2mb0WOhZHdTsIZIEbqLxBd) | [PS5](https://open.spotify.com/artist/7nFGSs3Km6Li7tJocJbLdO) | [Unconscious Collective](https://open.spotify.com/album/3IVOpoj5MwZ3TE2iWM0FNL) | 4:49 | 2022-11-02 |  |

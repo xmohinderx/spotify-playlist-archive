@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4olOMiqFeqU.md) - [plain]
 
 > 100% Pinoy hits from your favorite artists! Cover: Sarah Geronimo
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,312,561 likes - 50 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,313,109 likes - 50 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,9 +18,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4olOMiqFeqU.md) - [plain]
 | 8 | [Ikaw Lamang](https://open.spotify.com/track/2v5VIWMjZxeiG52KckiXxS) | [Silent Sanctuary](https://open.spotify.com/artist/4nGp682WMiKS4X217kPw8C) | [Fuchsiang Pag\-Ibig](https://open.spotify.com/album/08SEZDvRXrrNs1C2y73MLi) | 5:06 |
 | 9 | [Your Song](https://open.spotify.com/track/3OpGUlDmRUXh0NkIYWoIlD) | [Parokya Ni Edgar](https://open.spotify.com/artist/2XHTklRsNMOOQT56Zm3WS4) | [Bigotilyo](https://open.spotify.com/album/0kV35wyXIJKk04VRG0DdF4) | 2:48 |
 | 10 | [AMAKABOGERA](https://open.spotify.com/track/0s3blMulBSWhJoA6Cezb6Z) | [Maymay Entrata](https://open.spotify.com/artist/4JliYPIw09GespZAmZv6rI) | [AMAKABOGERA](https://open.spotify.com/album/1Eh38bZzUklsa4jPf0vDex) | 3:05 |
-| 11 | [Mundo](https://open.spotify.com/track/4u8RkgV6P4TLi89SmlUtv8) | [IV Of Spades](https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG) | [Mundo](https://open.spotify.com/album/2p6QlBCrnKwUFC0wPN1kfV) | 5:49 |
+| 11 | [Tadhana](https://open.spotify.com/track/6FIEuf1JIzmCtach0gXpeG) | [Up Dharma Down](https://open.spotify.com/artist/3wbCeEPAW6po7J46netxMT) | [Capacities](https://open.spotify.com/album/1QpFitywD6FWjFWvTmLOw9) | 3:42 |
 | 12 | [Leaves](https://open.spotify.com/track/6wdCelHrPh7UfliNjwRTUv) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Leaves](https://open.spotify.com/album/5Yl1Bi501CuE72jaVK4e3y) | 5:10 |
-| 13 | [Tadhana](https://open.spotify.com/track/6FIEuf1JIzmCtach0gXpeG) | [Up Dharma Down](https://open.spotify.com/artist/3wbCeEPAW6po7J46netxMT) | [Capacities](https://open.spotify.com/album/1QpFitywD6FWjFWvTmLOw9) | 3:42 |
+| 13 | [Mundo](https://open.spotify.com/track/4u8RkgV6P4TLi89SmlUtv8) | [IV Of Spades](https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG) | [Mundo](https://open.spotify.com/album/2p6QlBCrnKwUFC0wPN1kfV) | 5:49 |
 | 14 | [Pa\-umaga](https://open.spotify.com/track/3U8MbjNAP56IrzpbEFn1qN) | [Al James](https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm) | [Pa\-umaga](https://open.spotify.com/album/6d3mjDBVhzN8ianGFJsKKE) | 3:09 |
 | 15 | [I Need You More Today](https://open.spotify.com/track/04qDUASuSfVp6fktfsxVej) | [Caleb Santos](https://open.spotify.com/artist/3XEHRbR9NMWfNzQ6TQMS9M), [Viva Music Publishing Inc.](https://open.spotify.com/artist/1d1BeULLUX4HWNVypEUMfy) | [I Need You More Today](https://open.spotify.com/album/1Le1ykkfNX7dMyUYVOf6jj) | 3:53 |
 | 16 | [Dating Tayo](https://open.spotify.com/track/267RumTt5KeLBGl2KWxBL0) | [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0) | [TJ Monterde](https://open.spotify.com/album/01f1BJjxsFyuX580Fk8Gjk) | 3:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4olOMiqFeqU.md) - [plain]
 | 49 | [The Way You Look at Me](https://open.spotify.com/track/1C3wg8sCIPqpNQx0wAL4DC) | [Christian Bautista](https://open.spotify.com/artist/4U78sK2D3zASSB6oSR38GQ) | [Christian Bautista](https://open.spotify.com/album/0qEwvzXNVsPFK7eftFej7Q) | 3:27 |
 | 50 | [Same Ground](https://open.spotify.com/track/5iNGxZ1waiyMFylg4QAHk6) | [Kitchie Nadal](https://open.spotify.com/artist/4OjU5UP0GFWeniBC82sGBY) | [Kitchie Nadal](https://open.spotify.com/album/7beVKW0o7iRoM0eRT3kGfk) | 4:27 |
 
-Snapshot ID: `MTY2MzY2MTYyMywwMDAwMDAwMDg1OWQyOTY1MTRiNDM5NDRmODAyOGQxYmNiOGZmZGRh`
+Snapshot ID: `MTY2MzY2MTYyMywwMDAwMDAwMDVjN2Y3YWM4ODFhZGU5MGJlZmFiMWM5ZDZlZDBmMzI1`

@@ -71,7 +71,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 305746,
       "name": "All I Want",
       "url": "https://open.spotify.com/track/0NlGoUyOJSuSHmngoibVAs"
@@ -143,7 +143,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-01",
+      "date_removed": null,
       "duration_ms": 303433,
       "name": "Blank Space/Stand By Me - Live From Spotify London",
       "url": "https://open.spotify.com/track/3Dbgo1HE3DErIBNDIO4Hyd"
@@ -698,6 +698,24 @@
     },
     {
       "album": {
+        "name": "Best Day of My Life",
+        "url": "https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219020,
+      "name": "Just Another Thing We Don't Talk About",
+      "url": "https://open.spotify.com/track/2FjX5cfe8tBV4Qd6ELhUNf"
+    },
+    {
+      "album": {
         "name": "Keep Your Head Up Princess",
         "url": "https://open.spotify.com/album/5Wwvdrq2pNP4zWBh6NtdvK"
       },
@@ -1133,7 +1151,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 212152,
       "name": "September Song - Guitar Acoustic",
       "url": "https://open.spotify.com/track/7bMkcxifc4EjIQKw49EC7h"

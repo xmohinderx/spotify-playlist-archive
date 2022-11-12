@@ -4,7 +4,7 @@
 
 > Sophisticated palates only\. Curated by: <a href="https://open.spotify.com/artist/2PIYZpNwZRt8BDALIFazZh?si=s0u7SNJXQQ\-JKMPH3p8dSw">Usain Bolt</a>
 
-51 songs - 2 hr 46 min - [published](https://open.spotify.com/playlist/4HjCpbcqqGK3SEefouVnLk)
+54 songs - 2 hr 56 min - [published](https://open.spotify.com/playlist/4HjCpbcqqGK3SEefouVnLk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,10 +13,12 @@
 | [Big Moves](https://open.spotify.com/track/5ZbQwNgXeuuKbVOPDam4JX) | [Dexta Daps](https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY) | [Big Moves](https://open.spotify.com/album/19DUz6GJ0KKs1qJluRYzcQ) | 2:39 | 2022-10-01 |  |
 | [Blinding Lights](https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:20 | 2022-10-01 |  |
 | [c l o s e](https://open.spotify.com/track/4YiY551vHi6glMtgVxuqAy) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 2:48 | 2022-10-01 |  |
-| [Champ](https://open.spotify.com/track/0EoNuIITOben2tT4QbUEzi) | [Govana](https://open.spotify.com/artist/5Xi3NfsVBIEbaWVUfBTy39) | [Champ \- Single](https://open.spotify.com/album/5QBtVmIGkMdb6F5PORTLSr) | 3:25 | 2022-10-01 |  |
+| [Champ](https://open.spotify.com/track/0EoNuIITOben2tT4QbUEzi) | [Govana](https://open.spotify.com/artist/5Xi3NfsVBIEbaWVUfBTy39) | [Champ \- Single](https://open.spotify.com/album/5QBtVmIGkMdb6F5PORTLSr) | 3:25 | 2022-10-01 | 2022-11-12 |
+| [Champ](https://open.spotify.com/track/1g4ziqH1kWahITvZg8ppUO) | [Govana](https://open.spotify.com/artist/5Xi3NfsVBIEbaWVUfBTy39) | [Champ \- Single](https://open.spotify.com/album/0JbpYmI0C4fBzPLBLqVOlQ) | 3:25 | 2022-10-01 |  |
 | [Circles](https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Hollywood's Bleeding](https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi) | 3:35 | 2022-10-01 |  |
 | [Come Home](https://open.spotify.com/track/48RxnStoXfZsH0hWuWiJ3C) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Come Home](https://open.spotify.com/album/29K1WhYMmqwUGj3mU4Z0uc) | 3:20 | 2022-10-01 |  |
-| [Crocodile Teeth](https://open.spotify.com/track/3qi98GCs3sbvbAJugWmdQY) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Crocodile Teeth](https://open.spotify.com/album/4UG4l6GtGle8m7zbwinjBH) | 2:46 | 2022-10-01 |  |
+| [Crocodile Teeth](https://open.spotify.com/track/3qi98GCs3sbvbAJugWmdQY) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Crocodile Teeth](https://open.spotify.com/album/4UG4l6GtGle8m7zbwinjBH) | 2:46 | 2022-10-01 | 2022-11-12 |
+| [Crocodile Teeth](https://open.spotify.com/track/3vS8QjHytx8Pi2NMERcfUs) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Consistency \(Through the Years\)](https://open.spotify.com/album/5DB6WURnnV9WDJCgkwMngV) | 2:46 | 2022-10-01 |  |
 | [Don't Start Now](https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Don't Start Now](https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp) | 3:03 | 2022-10-01 |  |
 | [Dream in Color](https://open.spotify.com/track/4f7BNSy2ZVeabUJtjTX3kP) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Just Until....](https://open.spotify.com/album/0mRCQ9zhXQTjXusVJfSXoW) | 3:02 | 2022-10-01 |  |
 | [Dweet](https://open.spotify.com/track/17v1kXWmTCnXMOoZ6wDjSs) | [Christopher Martin](https://open.spotify.com/artist/3dXC1YPbnQPsfHPVkm1ipj) | [Usain Bolt Presents: Olympe Rosé Riddim](https://open.spotify.com/album/2SkSBJ1pRPIsQODif3Wqhk) | 2:45 | 2022-10-01 |  |
@@ -39,7 +41,8 @@
 | [POPSTAR \(feat\. Drake\)](https://open.spotify.com/track/6EDO9iiTtwNv6waLwa1UUq) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [POPSTAR \(feat\. Drake\)](https://open.spotify.com/album/5nNtpPsSUgb9Hlb3dF1gXa) | 3:20 | 2022-10-01 |  |
 | [Rent Money](https://open.spotify.com/track/5W9QCBJ6Em0XWX333YrNhc) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [FUTURE](https://open.spotify.com/album/17FBoXK1NU2rvJBbzdzw0r) | 4:25 | 2022-10-01 |  |
 | [ROCKSTAR \(feat\. Roddy Ricch\)](https://open.spotify.com/track/7ytR5pFWmSjzHJIeQkgog4) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [BLAME IT ON BABY](https://open.spotify.com/album/623PL2MBg50Br5dLXC9E9e) | 3:01 | 2022-10-01 |  |
-| [Roll Deep](https://open.spotify.com/track/7qbYXi2qeCdBoSlDZs9swk) | [10Tik](https://open.spotify.com/artist/6I1j34QzSTWe6u4qQWKYJe) | [Roll Deep](https://open.spotify.com/album/24HPQqwhRn31huvNRg8War) | 3:27 | 2022-10-01 |  |
+| [Roll Deep](https://open.spotify.com/track/5I55hcZJTmdVtyJC4Sn7ae) | [10Tik](https://open.spotify.com/artist/6I1j34QzSTWe6u4qQWKYJe) | [Roll Deep](https://open.spotify.com/album/0DVnruHgsqHFIoYnmpYlc2) | 3:27 | 2022-10-01 |  |
+| [Roll Deep](https://open.spotify.com/track/7qbYXi2qeCdBoSlDZs9swk) | [10Tik](https://open.spotify.com/artist/6I1j34QzSTWe6u4qQWKYJe) | [Roll Deep](https://open.spotify.com/album/24HPQqwhRn31huvNRg8War) | 3:27 | 2022-10-01 | 2022-11-12 |
 | [Rubber Band Man \(feat\. Cam'ron\)](https://open.spotify.com/track/6YVbCxw3Yqyj4dRomrXPhl) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Cam’ron](https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS) | [Still Striving](https://open.spotify.com/album/0tQ7Iu6EicQTPyhYRNWjaT) | 3:25 | 2022-10-01 |  |
 | [Save Your Tears](https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:35 | 2022-10-01 |  |
 | [Say Less](https://open.spotify.com/track/0BCQnF3a3ZKLGbaN6nD3co) | [Usain Bolt](https://open.spotify.com/artist/2PIYZpNwZRt8BDALIFazZh), [Nj](https://open.spotify.com/artist/3KNcuLUfY5AqiRXASRFWjC), [Bibi](https://open.spotify.com/artist/6SC0EXdxo6LSCSsspDxXyT), [Kamal](https://open.spotify.com/artist/49QARoeIkbAkdg1YXaUJ9s) | [Say Less](https://open.spotify.com/album/4qRk52lROgGgQMT9gXY0WA) | 2:40 | 2022-10-01 | 2022-11-04 |

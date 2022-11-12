@@ -4,7 +4,7 @@
 
 > Enjoy the world of <a href="http://caroleandtuesday.com/">CAROLE & TUESDAY</a> with great theme songs and soundtrack! ©ボンズ・渡辺信一郎／キャロル＆チューズデイ製作委員会
 
-69 songs - 4 hr 14 min - [published](https://open.spotify.com/playlist/0vPyHRqPqyMcumijaHE9hs)
+71 songs - 4 hr 21 min - [published](https://open.spotify.com/playlist/0vPyHRqPqyMcumijaHE9hs)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [Endless](https://open.spotify.com/track/5YVscq3IuRmj6mj0SO7oO8) | [アンジェラ \(Vo\. Alisa\)](https://open.spotify.com/artist/19Z6ho646iYK8BK0FrQMot) | [TVアニメ「キャロル&チューズデイ」VOCAL COLLECTION Vol.2](https://open.spotify.com/album/1flIjZeJQnZBNIEtTjzDmd) | 4:07 | 2021-05-26 |  |
 | [Every Breath You Take](https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Synchronicity \(Remastered 2003\)](https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY) | 4:13 | 2021-05-26 |  |
 | [Fire and Rain](https://open.spotify.com/track/3LcYYV9ozePfgYYmXv0P3r) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Sweet Baby James](https://open.spotify.com/album/2NEQ5Q4sBbUHVVx3Wf8TEZ) | 3:20 | 2021-05-26 | 2022-07-29 |
-| [Fire and Rain \- 2019 Remaster](https://open.spotify.com/track/1oht5GevPN9t1T3kG1m1GO) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Sweet Baby James \(2019 Remaster\)](https://open.spotify.com/album/1HiG0ukRmFPN13EVcf98Jx) | 3:23 | 2021-05-26 |  |
+| [Fire and Rain](https://open.spotify.com/track/6zgeog6feHU0gpFeG8UbGa) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Calming Ballads](https://open.spotify.com/album/4nGVLxjxJZcgw5f6I4hqi0) | 3:20 | 2021-05-26 |  |
+| [Fire and Rain \- 2019 Remaster](https://open.spotify.com/track/1oht5GevPN9t1T3kG1m1GO) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Sweet Baby James \(2019 Remaster\)](https://open.spotify.com/album/1HiG0ukRmFPN13EVcf98Jx) | 3:23 | 2021-05-26 | 2022-11-12 |
 | [Galactic mermaid](https://open.spotify.com/track/1yHXUDFaAtxty9N3eklIHY) | [マーメイド・シスターズ\(Vo.クリヤマユウリ\)](https://open.spotify.com/artist/4USrgZyHavtZNMDfftaKSq) | [TVアニメ「キャロル&チューズデイ」VOCAL COLLECTION Vol.1](https://open.spotify.com/album/54hb2cgal71xCmoC9EB4IW) | 2:03 | 2021-05-26 |  |
 | [Give You The World](https://open.spotify.com/track/38GqRYu9s6uJpkbBrhaSAc) | [フローラ\(Vo.Jessica Karpov\)](https://open.spotify.com/artist/6JwVU5Cpde7of58UACCOHg) | [TVアニメ「キャロル&チューズデイ」VOCAL COLLECTION Vol.2](https://open.spotify.com/album/1flIjZeJQnZBNIEtTjzDmd) | 3:23 | 2021-05-26 |  |
 | [God Only Knows \- Mono / 1997 Remastered](https://open.spotify.com/track/6iGU74CwXuT4XVepjc9Emf) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Pet Sounds \(Original Mono & Stereo Mix Versions\)](https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8) | 2:53 | 2021-05-26 |  |
@@ -68,8 +69,9 @@
 | [True Colors](https://open.spotify.com/track/2A6yzRGMgSQCUapR2ptm6A) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [True Colors](https://open.spotify.com/album/31TRqoVBTQi0lzlPLtvINn) | 3:47 | 2021-05-26 |  |
 | [TWO OF US](https://open.spotify.com/track/1rVyeQS9Oq36ZZ65BhVDeY) | [Mocky](https://open.spotify.com/artist/2oofDquWt9tMCETKAHmhlG) | [TVアニメ「キャロル&チューズデイ」ORIGINAL SOUNDTRACK](https://open.spotify.com/album/12AKw7KDtnZ5xEJrOpVKsW) | 3:03 | 2021-05-26 |  |
 | [Unbreakable](https://open.spotify.com/track/6a3NDJ3MihZwUeNAvD8P46) | [クリスタル\(Vo.Lauren Dyson\)](https://open.spotify.com/artist/7xeFg5oXpd6f4vNnM0JNge) | [TVアニメ「キャロル&チューズデイ」VOCAL COLLECTION Vol.1](https://open.spotify.com/album/54hb2cgal71xCmoC9EB4IW) | 3:34 | 2021-05-26 |  |
+| [Video Killed The Radio Star](https://open.spotify.com/track/1XbbCWrCVM6Hv1eOzzgER0) | [The Buggles](https://open.spotify.com/artist/057gc1fxmJ2vkctjQJ7Tal) | [80's Hits](https://open.spotify.com/album/1RSowVgGWeG8hjKR5DtLeN) | 4:12 | 2021-05-26 |  |
 | [Video Killed The Radio Star](https://open.spotify.com/track/7o7E1nrHWncYY7PY94gCiX) | [The Buggles](https://open.spotify.com/artist/057gc1fxmJ2vkctjQJ7Tal) | [The Age Of Plastic](https://open.spotify.com/album/2fgCz9kQCDy0miERCy0sCJ) | 4:12 | 2021-05-26 | 2022-07-29 |
-| [Video Killed The Radio Star](https://open.spotify.com/track/6t1FIJlZWTQfIZhsGjaulM) | [The Buggles](https://open.spotify.com/artist/057gc1fxmJ2vkctjQJ7Tal) | [The Age Of Plastic](https://open.spotify.com/album/5KKpKvLOS4tCV7cSOwIOWF) | 4:13 | 2021-05-26 |  |
+| [Video Killed The Radio Star](https://open.spotify.com/track/6t1FIJlZWTQfIZhsGjaulM) | [The Buggles](https://open.spotify.com/artist/057gc1fxmJ2vkctjQJ7Tal) | [The Age Of Plastic](https://open.spotify.com/album/5KKpKvLOS4tCV7cSOwIOWF) | 4:13 | 2021-05-26 | 2022-11-12 |
 | [Walk This Way](https://open.spotify.com/track/5SZ6zX4rOrEQferfFC2MfP) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Toys In The Attic](https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B) | 3:40 | 2021-05-26 |  |
 | [We've Only Just Begun](https://open.spotify.com/track/7nXZCcFAy1oCKQG2SqLszv) | [Carpenters](https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304) | [Close To You](https://open.spotify.com/album/5z8MFnoVUIfVo6MQW0uIul) | 3:04 | 2021-05-26 | 2022-07-29 |
 | [We've Only Just Begun](https://open.spotify.com/track/3m167vBQI5YLK0a1m6L6Y1) | [Carpenters](https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304) | [Close To You](https://open.spotify.com/album/1CsuCA05y9r7ftG9bGGtWV) | 3:05 | 2021-05-26 |  |

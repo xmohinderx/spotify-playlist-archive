@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ls3pMfEx4A.md) - [plain]
 
 > Songs that will make you and your kids laugh.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,820 likes - 51 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,831 likes - 51 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,6 +58,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ls3pMfEx4A.md) - [plain]
 | 48 | [Do the Robot](https://open.spotify.com/track/4c7XbTDN7eDaXHp9bXTYM3) | [Chompers](https://open.spotify.com/artist/7nfJo4SRyJHZeD7xLaTi7z) | [Songs to Brush Your Teeth To](https://open.spotify.com/album/3kkKwoIagtiBFyUVgZpRtG) | 2:48 |
 | 49 | [Gobble Gobble Burp \- Live](https://open.spotify.com/track/2X7EQQB0gafoVKDUMLiTjo) | [GoNoodle](https://open.spotify.com/artist/13QcQR3aMDTgC8jdNqSx4f), [Moose Tube](https://open.spotify.com/artist/1OPaMKFqNqlj4VKjPPMIOa) | [Chowtown: Music With A Flair For Flavor](https://open.spotify.com/album/1KL7yu3pAhJBlbTHpybX6U) | 2:41 |
 | 50 | [Scatman \(ski\-ba\-bop\-ba\-dop\-bop\)](https://open.spotify.com/track/623rRTKwGmgjH6sjE9uWLh) | [Scatman John](https://open.spotify.com/artist/4omQQTNN7ILiMsSB2k9eqX) | [Scatman's World](https://open.spotify.com/album/2MRWFajfjxfLAF3wwmdv5j) | 3:35 |
-| 51 | [B\-I\-N\-G\-O](https://open.spotify.com/track/4xdQOzApn01AUGHYjOOKEn) | [Cooltime Kids](https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ) | [New Year's Eve 2021 with the Frenchies](https://open.spotify.com/album/5pL4VA9ZMhKEstafBfBGYF) | 1:57 |
+| 51 | [B\-I\-N\-G\-O](https://open.spotify.com/track/3MSRNKg2OkHvOcnxYBctHD) | [Cooltime Kids](https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ) | [52 Sing\-A\-Long Silly Songs](https://open.spotify.com/album/5Q66shHyQ34bAAtgotKWW8) | 1:57 |
 
-Snapshot ID: `MTY0NzAxMTgzMywwMDAwMDAwMGE0MTc2ZDI4NGMwMGVmNTUwYzc1YjhiNmQ0ZmQwNjhl`
+Snapshot ID: `MTY0NzAxMTgzMywwMDAwMDAwMDI1MjYzNTZiYTk5M2QwNmNmZGFlMDdmZGNiNGZmZjdh`

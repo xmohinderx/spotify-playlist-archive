@@ -1,13 +1,61 @@
 {
-  "description": "Our favorite R&B artists on the rise! Cover: Dylan Sinclair",
-  "num_followers": 25273,
+  "description": "Our favorite R&B artists on the rise! Cover: Khamari",
+  "num_followers": 25319,
   "original_name": "The Newness",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzUzNDQwMCwwMDAwMDAwMGY0YWY2MTJkYzZkOGNiMmQwMDFiYWQ0NDNkOWEwOTc5",
+  "snapshot_id": "MTY2ODE4MjIwNCwwMDAwMDAwMGE2MWUxNWIyOGNlMWJlMTYyYjIxOTBjOTRiNTE1Yzc5",
   "tracks": [
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/6533zPPlpWV1bfbToZdD4c"
+      },
+      "artists": [
+        {
+          "name": "Khamari",
+          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
+        }
+      ],
+      "duration_ms": 204033,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/627yvru8268y11clOwn3f4"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Spin the Block",
+        "url": "https://open.spotify.com/album/2eco2tXEVHu9oaI1uwxCYC"
+      },
+      "artists": [
+        {
+          "name": "RAAHiiM",
+          "url": "https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9"
+        }
+      ],
+      "duration_ms": 229052,
+      "name": "Spin the Block",
+      "url": "https://open.spotify.com/track/0IomPr5dBXw2sIkZKvZSSp"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "SATIN",
+        "url": "https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "duration_ms": 167115,
+      "name": "NOBODY KNOWS",
+      "url": "https://open.spotify.com/track/3OJ1TK767oRsv44iHeiCV9"
+    },
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
@@ -77,20 +125,40 @@
       "url": "https://open.spotify.com/track/4pBA16KT5vSpGiML9JC6wK"
     },
     {
-      "added_at": "2022-11-04 04:00:00",
+      "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Can't Deny",
-        "url": "https://open.spotify.com/album/3eCQXg8o621BbPPJ5bGnVO"
+        "name": "Show Me Diamonds",
+        "url": "https://open.spotify.com/album/6GPnDoRWbxnEGRMWZjhqoV"
       },
       "artists": [
         {
-          "name": "Rileyy Lanez",
-          "url": "https://open.spotify.com/artist/1PmrYsZvpVB9ilWx0eZHdr"
+          "name": "Trevor Jackson",
+          "url": "https://open.spotify.com/artist/6vZUJpsm4VHjSWpedp05vg"
+        },
+        {
+          "name": "Haben",
+          "url": "https://open.spotify.com/artist/7FvxQS4LNGyB64KOYBFbIH"
         }
       ],
-      "duration_ms": 134466,
-      "name": "Can't Deny",
-      "url": "https://open.spotify.com/track/4oH24okkrQYSyHNL9FlPQj"
+      "duration_ms": 179223,
+      "name": "Just for Fun (feat. Haben)",
+      "url": "https://open.spotify.com/track/4mjFM3Pb4soPBv5vHMMNpk"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Birthday Girl",
+        "url": "https://open.spotify.com/album/1KfH7Htcq4ck6JNVZrozUa"
+      },
+      "artists": [
+        {
+          "name": "FRVRFRIDAY",
+          "url": "https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW"
+        }
+      ],
+      "duration_ms": 143052,
+      "name": "Birthday Girl",
+      "url": "https://open.spotify.com/track/4AmxBBozDJDeNcsPMcLrTq"
     },
     {
       "added_at": "2022-10-28 04:35:14",
@@ -195,22 +263,6 @@
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
-        "name": "ICU",
-        "url": "https://open.spotify.com/album/340TSpnt92r6fwI1UdNoeW"
-      },
-      "artists": [
-        {
-          "name": "Coco Jones",
-          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
-        }
-      ],
-      "duration_ms": 241920,
-      "name": "ICU",
-      "url": "https://open.spotify.com/track/2MEXtuvS77e7WKVWymBdZl"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
         "name": "Girls Night Out",
         "url": "https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye"
       },
@@ -227,6 +279,54 @@
       "duration_ms": 176922,
       "name": "Say Less (with Tiana Major9)",
       "url": "https://open.spotify.com/track/6tEHDchyWDsI7vRlcNTWVY"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "When It Comes to You - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/4259xkiDix5HdgYHVtzwor"
+      },
+      "artists": [
+        {
+          "name": "Asiahn",
+          "url": "https://open.spotify.com/artist/1mKtlPrXjWK6oIdk9cSOjs"
+        }
+      ],
+      "duration_ms": 204852,
+      "name": "When It Comes to You - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/4mTKSIngylZ5W1uFzoXAHU"
+    },
+    {
+      "added_at": "2022-11-11 15:56:44",
+      "album": {
+        "name": "battlefield",
+        "url": "https://open.spotify.com/album/17CQ0EGQXXsELKDs4dna7n"
+      },
+      "artists": [
+        {
+          "name": "Secily",
+          "url": "https://open.spotify.com/artist/32eZd7DKXr4eQTWqWRHGe2"
+        }
+      ],
+      "duration_ms": 192191,
+      "name": "battlefield",
+      "url": "https://open.spotify.com/track/0ercS4onJVqWW26YQamPiP"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "EGO",
+        "url": "https://open.spotify.com/album/6s7rkUQ60j8BI4CGDgmxBZ"
+      },
+      "artists": [
+        {
+          "name": "Liza",
+          "url": "https://open.spotify.com/artist/7CeUn1UNtIFSZIIBNXV8jk"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "Room",
+      "url": "https://open.spotify.com/track/35wU3ihUZ1RnFPW1Q5NGvT"
     },
     {
       "added_at": "2022-10-28 04:35:14",
@@ -285,6 +385,38 @@
       "url": "https://open.spotify.com/track/1X2Ec2pLTtapRlpECgnGdN"
     },
     {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "SATIN",
+        "url": "https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "duration_ms": 90836,
+      "name": "IT'S YOURS",
+      "url": "https://open.spotify.com/track/10wts7gW6XFI4k1BrDKsAc"
+    },
+    {
+      "added_at": "2022-09-23 04:08:48",
+      "album": {
+        "name": "FTU",
+        "url": "https://open.spotify.com/album/2jVFeHlGtvJKQE5dLmCFOu"
+      },
+      "artists": [
+        {
+          "name": "JON VINYL",
+          "url": "https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu"
+        }
+      ],
+      "duration_ms": 144692,
+      "name": "FTU",
+      "url": "https://open.spotify.com/track/2qpLQjX4rSnNJyUJMdHnSA"
+    },
+    {
       "added_at": "2022-09-30 04:05:18",
       "album": {
         "name": "Open (Remix)",
@@ -309,20 +441,36 @@
       "url": "https://open.spotify.com/track/7aXpFdZ8WIvpSmvu1AW5X7"
     },
     {
-      "added_at": "2022-09-23 04:08:48",
+      "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "FTU",
-        "url": "https://open.spotify.com/album/2jVFeHlGtvJKQE5dLmCFOu"
+        "name": "Can't Deny",
+        "url": "https://open.spotify.com/album/3eCQXg8o621BbPPJ5bGnVO"
       },
       "artists": [
         {
-          "name": "JON VINYL",
-          "url": "https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu"
+          "name": "Rileyy Lanez",
+          "url": "https://open.spotify.com/artist/1PmrYsZvpVB9ilWx0eZHdr"
         }
       ],
-      "duration_ms": 144692,
-      "name": "FTU",
-      "url": "https://open.spotify.com/track/2qpLQjX4rSnNJyUJMdHnSA"
+      "duration_ms": 134466,
+      "name": "Can't Deny",
+      "url": "https://open.spotify.com/track/4oH24okkrQYSyHNL9FlPQj"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "ICU",
+        "url": "https://open.spotify.com/album/340TSpnt92r6fwI1UdNoeW"
+      },
+      "artists": [
+        {
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+        }
+      ],
+      "duration_ms": 241920,
+      "name": "ICU",
+      "url": "https://open.spotify.com/track/2MEXtuvS77e7WKVWymBdZl"
     },
     {
       "added_at": "2022-10-28 04:35:14",
@@ -557,6 +705,22 @@
       "url": "https://open.spotify.com/track/3LpbHOkTRZ0ls06L0xKdpH"
     },
     {
+      "added_at": "2022-11-11 15:56:44",
+      "album": {
+        "name": "In The Meantime...",
+        "url": "https://open.spotify.com/album/1qUcbrfGhJtaYOpZRna9eX"
+      },
+      "artists": [
+        {
+          "name": "Os\u00e9",
+          "url": "https://open.spotify.com/artist/31iLIUM0MeqrkbswnUpUaj"
+        }
+      ],
+      "duration_ms": 130923,
+      "name": "Perfect Timing",
+      "url": "https://open.spotify.com/track/7GJq8XxZby3QLdubVkevYs"
+    },
+    {
       "added_at": "2022-10-14 04:41:47",
       "album": {
         "name": "Selfish",
@@ -611,22 +775,6 @@
       "duration_ms": 179154,
       "name": "3am",
       "url": "https://open.spotify.com/track/1pXiO2TJZw3n2BzstJxWao"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
-        "name": "4 Life",
-        "url": "https://open.spotify.com/album/2lQIJKXONro8Rywqdy4r0D"
-      },
-      "artists": [
-        {
-          "name": "Rileyy Lanez",
-          "url": "https://open.spotify.com/artist/1PmrYsZvpVB9ilWx0eZHdr"
-        }
-      ],
-      "duration_ms": 136400,
-      "name": "4 Life",
-      "url": "https://open.spotify.com/track/5gQQK8mx3L7n7foWEmJbEf"
     },
     {
       "added_at": "2022-10-07 16:28:31",
@@ -1145,26 +1293,6 @@
       "url": "https://open.spotify.com/track/1eSaEAjIt2OOVbvLqtZG6i"
     },
     {
-      "added_at": "2022-09-30 04:05:18",
-      "album": {
-        "name": "ilham",
-        "url": "https://open.spotify.com/album/7mQl8hYhPUwtdyB4jwyO1w"
-      },
-      "artists": [
-        {
-          "name": "ilham",
-          "url": "https://open.spotify.com/artist/0r7PsZB4ePA6vHrW4agoGN"
-        },
-        {
-          "name": "French Montana",
-          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
-        }
-      ],
-      "duration_ms": 153529,
-      "name": "corazon (with French Montana)",
-      "url": "https://open.spotify.com/track/01EFzBpejKX2wzFdMHKGR9"
-    },
-    {
       "added_at": "2022-09-09 04:09:49",
       "album": {
         "name": "Overgold",
@@ -1445,50 +1573,6 @@
       "url": "https://open.spotify.com/track/6DzraB0QNT0e3ZjcAMTf3t"
     },
     {
-      "added_at": "2022-09-09 04:09:49",
-      "album": {
-        "name": "Worth My While",
-        "url": "https://open.spotify.com/album/4xjs0e8UUcJ7HUWrapvqR5"
-      },
-      "artists": [
-        {
-          "name": "Manny Nort\u00e9",
-          "url": "https://open.spotify.com/artist/5IZXhE6DcoszTt30hAeJuw"
-        },
-        {
-          "name": "Stalk Ashley",
-          "url": "https://open.spotify.com/artist/6VCt6Dh7TaZF330ZFeNHv5"
-        },
-        {
-          "name": "Tiana Major9",
-          "url": "https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 205045,
-      "name": "Worth My While",
-      "url": "https://open.spotify.com/track/61yCjv5bKruUBDmbsls0Pn"
-    },
-    {
-      "added_at": "2022-09-09 04:09:49",
-      "album": {
-        "name": "IN THE AIR/BILL$ (SPED UP)",
-        "url": "https://open.spotify.com/album/7CBAUpy4gg6DkJsNAfBf58"
-      },
-      "artists": [
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        }
-      ],
-      "duration_ms": 102013,
-      "name": "IN THE AIR (SPED UP)",
-      "url": "https://open.spotify.com/track/5NmLXvwNgcvE6DhJMxyIV6"
-    },
-    {
       "added_at": "2022-09-02 04:00:00",
       "album": {
         "name": "Bad Decisions",
@@ -1751,74 +1835,6 @@
       "duration_ms": 172000,
       "name": "TALK TO ME - TOO LATE",
       "url": "https://open.spotify.com/track/5dBbcUqd5nh5kPKzMotgjr"
-    },
-    {
-      "added_at": "2022-07-29 04:09:32",
-      "album": {
-        "name": "Who's Loving U?",
-        "url": "https://open.spotify.com/album/1MtvJd3KBWHNTgCsrmjs1C"
-      },
-      "artists": [
-        {
-          "name": "SANNI",
-          "url": "https://open.spotify.com/artist/4KbUzTS1NC8GHIe9LkwIPS"
-        }
-      ],
-      "duration_ms": 163750,
-      "name": "Who's Loving U?",
-      "url": "https://open.spotify.com/track/3WXvkQiB4DHUmb8Y6nPRKL"
-    },
-    {
-      "added_at": "2022-07-29 04:09:32",
-      "album": {
-        "name": "High My Name Is",
-        "url": "https://open.spotify.com/album/1b9Zonmd4gMhp2BILQ9DiV"
-      },
-      "artists": [
-        {
-          "name": "Jae Stephens",
-          "url": "https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT"
-        }
-      ],
-      "duration_ms": 167573,
-      "name": "Please Don't Talk to Me",
-      "url": "https://open.spotify.com/track/5VMM25GeSk123NAhOFdcpu"
-    },
-    {
-      "added_at": "2022-07-22 04:15:19",
-      "album": {
-        "name": "Love Like This",
-        "url": "https://open.spotify.com/album/5tbp7mG9OkS9ChyPFpvyJd"
-      },
-      "artists": [
-        {
-          "name": "Nija",
-          "url": "https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW"
-        }
-      ],
-      "duration_ms": 175386,
-      "name": "Love Like This",
-      "url": "https://open.spotify.com/track/0E7fWVbBA9NxiU4qgcTeqF"
-    },
-    {
-      "added_at": "2022-06-03 05:00:00",
-      "album": {
-        "name": "Bigger Dreams",
-        "url": "https://open.spotify.com/album/7g0ZUn505parZAzW477hHd"
-      },
-      "artists": [
-        {
-          "name": "Nia Sultana",
-          "url": "https://open.spotify.com/artist/1L8An7RfJbMW7zBy2fE0Tz"
-        },
-        {
-          "name": "Rick Ross",
-          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
-        }
-      ],
-      "duration_ms": 267510,
-      "name": "Proven (with Rick Ross)",
-      "url": "https://open.spotify.com/track/1ReSAuZPXUTXYFHIHaLqyG"
     }
   ],
   "unique_name": "The Newness",

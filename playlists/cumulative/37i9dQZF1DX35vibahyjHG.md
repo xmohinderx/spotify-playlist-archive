@@ -4,7 +4,7 @@
 
 > The fiercest African women making waves\. Cover: <a href="https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X?si=zd9KdswjToOZz0yATQGsJQ"> Nikita Kering' </a>
 
-180 songs - 9 hr 50 min - [published](https://open.spotify.com/playlist/6yzD6damvxnHwo13ZRV2qK)
+181 songs - 9 hr 53 min - [published](https://open.spotify.com/playlist/6yzD6damvxnHwo13ZRV2qK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Ethiopia](https://open.spotify.com/track/6lx4aUEcnR7sojpxEQu4mV) | [Alewya](https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm) | [Panther in Mode](https://open.spotify.com/album/23J7otrnhFa80hs2xCpKw1) | 3:05 | 2021-12-02 | 2022-07-06 |
 | [Ex](https://open.spotify.com/track/352jbBYOtwkzJEMC2KkuiG) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [A Side Of Me](https://open.spotify.com/album/6A66i8kXtfeQqrFpRyW7Em) | 3:24 | 2021-10-15 |  |
 | [EX BOYFRIEND](https://open.spotify.com/track/3pcITc6cPAvj5JtOnXiB1X) | [Raybekah](https://open.spotify.com/artist/0SwPkNmxB2YGHWVJMI8kpW) | [EX BOYFRIEND](https://open.spotify.com/album/1OVZQ2AGHb6fQM0CFAviQq) | 2:14 | 2022-07-05 |  |
+| [Falling Down](https://open.spotify.com/track/1OdFpOfUPRTz5r09CKUTXM) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [The Other Side](https://open.spotify.com/album/7M0ZgZyJUYIG6RCHud7Xa6) | 3:04 | 2022-11-11 |  |
 | [Feel](https://open.spotify.com/track/76mz34JYWi4qm4WuTulHWP) | [Philou Louzolo](https://open.spotify.com/artist/4zCYbkxFSNb6T2D2vFSg6C), [DJ Kwamzy](https://open.spotify.com/artist/3hiqYAXIosBBDG9Uqxt37h), [ginius](https://open.spotify.com/artist/1mLnlcLJuK1VpACCwhuciw) | [Feel](https://open.spotify.com/album/1Dym9dRKTcWxh9x0JrqiDh) | 4:41 | 2022-03-08 | 2022-04-06 |
 | [Feels Like Magic](https://open.spotify.com/track/6hE9eQNiZDdbHpaxPcSqjD) | [ginius](https://open.spotify.com/artist/1mLnlcLJuK1VpACCwhuciw) | [Her Notions Since '97](https://open.spotify.com/album/6O0LMIl1QM7YBe4UP9Ofyw) | 2:54 | 2022-09-07 |  |
 | [Find Me Now](https://open.spotify.com/track/6L10afputsSSBq42wmq3VM) | [Lady Zamar](https://open.spotify.com/artist/5BWiwrFskTQRxKUjPMh8kI) | [Find Me Now](https://open.spotify.com/album/3fhfvuaFaruXeGguTHbpHx) | 4:32 | 2022-05-04 | 2022-06-01 |
@@ -82,7 +83,7 @@
 | [Kumasi](https://open.spotify.com/track/6j9hWek1pQDQ0DxTSDs7fQ) | [Br3nya](https://open.spotify.com/artist/2meqc0ogaVLYfKIkUImoGW) | [Kumasi](https://open.spotify.com/album/6vi9k1NXiIn6KH9gje4NJ9) | 2:51 | 2022-09-07 |  |
 | [Lakiriboto](https://open.spotify.com/track/5D3fIoS0kHh6Yzzz3RP9eW) | [Liya](https://open.spotify.com/artist/2mq44nCfRU63sGf70HAPi0), [DaVido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Alari](https://open.spotify.com/album/0hjZTmymeFzADTD4Wevzkg) | 2:48 | 2021-10-15 | 2022-02-02 |
 | [Lane](https://open.spotify.com/track/17DG8UuM9rZpVnz44aJYpG) | [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Powers Pleasant](https://open.spotify.com/artist/0fYw4bch7qTxBZLS3rSVMj) | [Lane](https://open.spotify.com/album/3PMdJrGUZTY3ruBIQiFlPH) | 2:42 | 2022-05-04 | 2022-06-01 |
-| [Last Name](https://open.spotify.com/track/4BwHxEsR5SFJJKGBzrjMGN) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [Last Name](https://open.spotify.com/album/5tUXmCXcOyqRO7lLeWrMHR) | 2:01 | 2022-08-02 |  |
+| [Last Name](https://open.spotify.com/track/4BwHxEsR5SFJJKGBzrjMGN) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [Last Name](https://open.spotify.com/album/5tUXmCXcOyqRO7lLeWrMHR) | 2:01 | 2022-08-02 | 2022-11-12 |
 | [Let Me Be Great \[Feat\. Angélique Kidjo\]](https://open.spotify.com/track/7sXjwoCydLIZlJ1WpIyh9J) | [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [As Above, So Below](https://open.spotify.com/album/3QBYDADSp9ca7yNWL4hGzu) | 3:54 | 2022-09-08 |  |
 | [Life](https://open.spotify.com/track/3xBSBXvY0mSQuiWh58XP05) | [J'Dess](https://open.spotify.com/artist/2aUctDbYODpqWfleSUpK6s) | [Ada](https://open.spotify.com/album/6nZ7n5DR6sqV7AqsGAithg) | 3:50 | 2022-02-02 | 2022-05-05 |
 | [Life Goes On \(feat\. Sampa the Great\)](https://open.spotify.com/track/1LkDZD8d6hWu3mMsMhTX1g) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk) | [No Confusion \(feat\. Kojey Radical\)](https://open.spotify.com/album/1JIZ8ahbpr5CFTFRir5GPR) | 3:23 | 2022-11-04 |  |

@@ -4,7 +4,7 @@
 
 > ☀️
 
-259 songs - 13 hr 8 min - [published](https://open.spotify.com/playlist/7FjuojaNhU1Q6SErzdT98D)
+260 songs - 13 hr 11 min - [published](https://open.spotify.com/playlist/7FjuojaNhU1Q6SErzdT98D)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,7 +119,7 @@
 | [Give Me A Kiss](https://open.spotify.com/track/0ocf3HwWhrXtA8r63Vcd2h) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5) | [Give Me A Kiss](https://open.spotify.com/album/4Cxkou3pFWfzoLsw9Aonfw) | 2:49 | 2022-09-20 | 2022-11-06 |
 | [Go Higher](https://open.spotify.com/track/350MlI4iDtv6fYwM4PKSA4) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Go Higher](https://open.spotify.com/album/1e1tDPUR08v96ZT7RPV7eb) | 3:28 | 2022-05-27 | 2022-06-15 |
 | [Golden](https://open.spotify.com/track/45S5WTQEGOB1VHr1Q4FuPl) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 3:28 | 2022-05-06 |  |
-| [good 4 u](https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:58 | 2022-10-21 |  |
+| [good 4 u](https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:58 | 2022-10-21 | 2022-11-12 |
 | [Good Advice](https://open.spotify.com/track/2mAjXnUG4QJAypppi5J2lA) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Good Advice](https://open.spotify.com/album/5MQethd22cttCRC2uAbrjI) | 2:23 | 2022-05-27 | 2022-06-26 |
 | [Good Times](https://open.spotify.com/track/6GpvHaqp0Yybx9P6YnodRD) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [DNA](https://open.spotify.com/album/0Cm3SGEHCjn9RAQrzuHX9I) | 2:43 | 2022-05-06 | 2022-07-20 |
 | [Grand](https://open.spotify.com/track/4WZ3liyYz5ZzDcL4ibAuOi) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Grand](https://open.spotify.com/album/6u32goyaQHOcbbmdooLRJ4) | 2:58 | 2022-08-12 | 2022-10-22 |
@@ -191,6 +191,7 @@
 | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/track/1SC5rEoYDGUK4NfG82494W) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:17 | 2022-10-21 | 2022-11-11 |
 | [Mood \(feat\. iann dior\)](https://open.spotify.com/track/4jPy3l0RUwlUI9T5XHBW2m) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z), [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [El Dorado](https://open.spotify.com/album/270o30h7cAlEhBnbuSpFZq) | 2:20 | 2022-10-21 |  |
 | [Mood Hoover](https://open.spotify.com/track/1Kma7Z2DAv6tI7beez0Jqo) | [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt) | [Mood Hoover](https://open.spotify.com/album/6QMxKOuHssNVCqphLFbUn1) | 3:14 | 2022-10-28 |  |
+| [Moulaga](https://open.spotify.com/track/5BfCoUcWNXcpyJfjXRIeyC) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Moulaga](https://open.spotify.com/album/2k7vGyQFY5ILNhRf6Ia68J) | 2:59 | 2022-11-11 |  |
 | [My Ordinary Life](https://open.spotify.com/track/6tMdpUXfT70TD6Eh3XfB1p) | [The Living Tombstone](https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF) | [My Ordinary Life](https://open.spotify.com/album/4AmFZET7RGujQAhG80kjwu) | 3:50 | 2022-05-23 | 2022-05-25 |
 | [My Sunny Day](https://open.spotify.com/track/42S4MmuWhMbR75RPKpIbYx) | [Ted Fresco](https://open.spotify.com/artist/2lH1vV1rGOw0ETBmnTAyvZ), [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [My Sunny Day](https://open.spotify.com/album/2VgKPs6EdAvOdySgcnMweQ) | 2:09 | 2022-05-06 | 2022-07-16 |
 | [Never Gonna Give You Up](https://open.spotify.com/track/4cOdK2wGLETKBW3PvgPWqT) | [Rick Astley](https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt) | [Whenever You Need Somebody](https://open.spotify.com/album/5Z9iiGl2FcIfa3BMiv6OIw) | 3:33 | 2022-10-21 | 2022-11-11 |

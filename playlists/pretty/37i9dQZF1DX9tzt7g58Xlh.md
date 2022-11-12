@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9tzt7g58Xlh.md) - [plain]
 
 > Rock on with their latest releases from 'Mercury – Act 1 & 2'!
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,641 likes - 72 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,894 likes - 72 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,10 +41,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9tzt7g58Xlh.md) - [plain]
 | 31 | [They Don't Know You Like I Do](https://open.spotify.com/track/7KGwRAF99Ryell3B2T4DKy) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Mercury \- Acts 1 & 2](https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS) | 4:17 |
 | 32 | [Continual \(feat\. Cory Henry\)](https://open.spotify.com/track/2EhE42VQTKvn6ok6wtA9U8) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Mercury \- Acts 1 & 2](https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS) | 3:49 |
 | 33 | [Radioactive](https://open.spotify.com/track/69yfbpvmkIaB10msnKT7Q5) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Radioactive](https://open.spotify.com/album/2M0IZTKgkN3ZpYluF4lKAM) | 4:36 |
-| 34 | [Believer](https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Evolve](https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU) | 3:24 |
+| 34 | [Believer](https://open.spotify.com/track/1yLWMKQfnoTKbkP57WcUR8) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Summer Vacation Roadtrip](https://open.spotify.com/album/3HN6SAS06UO6DfYcMcOe06) | 3:24 |
 | 35 | [Demons](https://open.spotify.com/track/1Nv9AeLzP7GVNSe0Cfpned) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Halloween Party 2022](https://open.spotify.com/album/624LASK1ipzgobhmcECvgp) | 2:57 |
 | 36 | [Thunder](https://open.spotify.com/track/1PCJfVo3VsAsgPcOl3P4zx) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Schools Out 2022](https://open.spotify.com/album/0YnLYQQ87iuBcqGgjtMdPm) | 3:07 |
-| 37 | [Whatever It Takes](https://open.spotify.com/track/6Qn5zhYkTa37e91HC1D7lb) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Evolve](https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU) | 3:21 |
+| 37 | [Whatever It Takes](https://open.spotify.com/track/00MGybABDrF1uGxdSB7P5z) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Verified Hits](https://open.spotify.com/album/3mEHiYyeAIgeAXA9GFTYmN) | 3:21 |
 | 38 | [Natural](https://open.spotify.com/track/2FY7b99s15jUprqC0M5NCT) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Origins \(Deluxe\)](https://open.spotify.com/album/3JfSxDfmwS5OeHPwLSkrfr) | 3:09 |
 | 39 | [Bad Liar](https://open.spotify.com/track/2RSHsoi04658QL5xgQVov3) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Origins \(Deluxe\)](https://open.spotify.com/album/3JfSxDfmwS5OeHPwLSkrfr) | 4:20 |
 | 40 | [Birds \(feat\. Elisa\)](https://open.spotify.com/track/2uZVfvOK7MTjBTRICYmpso) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [Elisa](https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23) | [Birds](https://open.spotify.com/album/0OXJFBFvYP5b2U0qWUQehJ) | 3:39 |
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9tzt7g58Xlh.md) - [plain]
 | 44 | [Zero \- From the Original Motion Picture "Ralph Breaks The Internet"](https://open.spotify.com/track/2bzitsPcImYC6DZWvvLCQi) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Origins \(Deluxe\)](https://open.spotify.com/album/3JfSxDfmwS5OeHPwLSkrfr) | 3:30 |
 | 45 | [Next To Me](https://open.spotify.com/track/5iu8px0kslkHtPR9s4k7CJ) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Musica per lavorare in uffico](https://open.spotify.com/album/3RBPCfoBPBIvKkW4iUZ34f) | 3:50 |
 | 46 | [Walking The Wire](https://open.spotify.com/track/229DHQsouCXlKQA2wf1Sph) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Herbst Hits](https://open.spotify.com/album/7iZLZGjJiAhCLXFnKCFmHF) | 3:52 |
-| 47 | [Shots \- Broiler Remix](https://open.spotify.com/track/4XLm8FNvaTlmTAZmSrrV82) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [Broiler](https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC) | [Shots EP](https://open.spotify.com/album/5R4Ak5SlTSaVnXNZQQ5CX2) | 3:11 |
+| 47 | [Shots \- Broiler Remix](https://open.spotify.com/track/6QhRiypczyo3ArVyFnIjBK) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [Broiler](https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC) | [Cape Town Beach Party](https://open.spotify.com/album/12P82go9mViSuzMj0VgjPe) | 3:12 |
 | 48 | [Monster](https://open.spotify.com/track/1AdAroOR68qKl0bNAxe1yK) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Rockout Workout](https://open.spotify.com/album/2MW9Aaf1gDZwwkJDPoMxEn) | 4:10 |
 | 49 | [Rise Up](https://open.spotify.com/track/3zT2616WcD9Df5m21OsCX0) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Evolve](https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU) | 3:51 |
 | 50 | [I Bet My Life](https://open.spotify.com/track/15DrrIod12Tc2IoMaHiwlQ) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Smoke + Mirrors](https://open.spotify.com/album/0gmsXcmrcnxdZBrD5EyJEL) | 3:12 |
@@ -79,6 +79,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9tzt7g58Xlh.md) - [plain]
 | 69 | [Gold](https://open.spotify.com/track/1WQFOwtI6EfsvRz7wcDbQm) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Smoke + Mirrors](https://open.spotify.com/album/0gmsXcmrcnxdZBrD5EyJEL) | 3:36 |
 | 70 | [Not Today](https://open.spotify.com/track/2Rhtq8YImFCzqtTmhTesng) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Uma Noite Chuvosa](https://open.spotify.com/album/12UgyNFKeSDe9EZoZldJJO) | 4:21 |
 | 71 | [Tiptoe](https://open.spotify.com/track/5PCdkbHYacEdWbZRRPopmM) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Night Visions \(Deluxe\)](https://open.spotify.com/album/1rzDtYMpZDhRgKNigB467r) | 3:13 |
-| 72 | [I’ll Make It Up To You](https://open.spotify.com/track/0FfX0nofboxZjP0diT1eFv) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Evolve](https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU) | 4:22 |
+| 72 | [I’ll Make It Up To You](https://open.spotify.com/track/12nePv6FEHtuFZRER9Gg6g) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Chocolate Heart](https://open.spotify.com/album/3IeD64yhaqgXDY0HFJjsVV) | 4:22 |
 
-Snapshot ID: `MTY2MDgzMDAxOSwwMDAwMDAwMDZmZGRhMjQ2NTk1Njg0MDc5OGFlMzQ4Yzg2NTQ3NDYx`
+Snapshot ID: `MTY2MDgzMDAxOSwwMDAwMDAwMDdjMDNjYzFhODAyNzRlMmQ3YTVhM2I0NjliOTkyOTZm`

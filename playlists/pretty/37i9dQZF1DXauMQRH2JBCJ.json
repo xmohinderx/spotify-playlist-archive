@@ -1,12 +1,12 @@
 {
   "description": "All your favorite Disney songs wrapped up with love!",
-  "num_followers": 70972,
+  "num_followers": 71054,
   "original_name": "Disney Love Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzIzMzQxMiwwMDAwMDAwMGJlNzE1MzJhMmY3NjZiZGE1ZmZiNmE5YzhmZWRlNjZi",
+  "snapshot_id": "MTY2MzIzMzQxMiwwMDAwMDAwMDYwMzkzNThhMGZkY2NmYzhhNjVlMmRiMWY4NWQ4ZTQ0",
   "tracks": [
     {
       "added_at": "2022-09-15 09:16:52",
@@ -271,8 +271,8 @@
     {
       "added_at": "2022-09-15 09:16:52",
       "album": {
-        "name": "Tarzan (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1zszC1x9HYKxUCKVa62p7C"
+        "name": "Julie Andrews Selects Her Favorite Disney Songs",
+        "url": "https://open.spotify.com/album/25pWkz2bfTai0wmf0CkTYA"
       },
       "artists": [
         {
@@ -284,9 +284,9 @@
           "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
         }
       ],
-      "duration_ms": 96533,
-      "name": "You'll Be In My Heart",
-      "url": "https://open.spotify.com/track/7C11GdiguhLd9j7Y6jHFm9"
+      "duration_ms": 97200,
+      "name": "You'll Be In My Heart - From \"Tarzan\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/6ooMSK5ybtxI0to3kFiKhB"
     },
     {
       "added_at": "2022-09-15 09:16:52",
@@ -727,8 +727,8 @@
     {
       "added_at": "2022-09-15 09:16:52",
       "album": {
-        "name": "Beauty and the Beast (Original Motion Picture Soundtrack/Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3AhP76AusdcJ9sZ4XgUcEc"
+        "name": "La Bella y La Bestia (Banda Sonora Original en Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/1grUQut8vgoI1fdRq6vVjq"
       },
       "artists": [
         {
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
         }
       ],
-      "duration_ms": 227928,
+      "duration_ms": 227933,
       "name": "Beauty and the Beast",
-      "url": "https://open.spotify.com/track/7wMPhUSe6CZga1vOMpLTJP"
+      "url": "https://open.spotify.com/track/5mRNFh0zp9qY1kDpecN9ot"
     },
     {
       "added_at": "2022-09-15 09:16:52",
@@ -779,13 +779,17 @@
     {
       "added_at": "2022-09-15 09:16:52",
       "album": {
-        "name": "Beauty And The Beast (Special Edition)",
-        "url": "https://open.spotify.com/album/5CXS5K2wldOxL8bweRXBrq"
+        "name": "Walt Disney Records The Legacy Collection: Beauty and the Beast",
+        "url": "https://open.spotify.com/album/7hq1LYjKOhg1jn39YzbqVK"
       },
       "artists": [
         {
-          "name": "Robby Benson",
-          "url": "https://open.spotify.com/artist/3QcGV278a6mmLRTOK29WBP"
+          "name": "Angela Lansbury",
+          "url": "https://open.spotify.com/artist/0LtVJXnPR8msCJiE2DjHxy"
+        },
+        {
+          "name": "David Ogden Stiers",
+          "url": "https://open.spotify.com/artist/0N0dbr5s2y20PAo2cDAeVP"
         },
         {
           "name": "Jerry Orbach",
@@ -796,21 +800,13 @@
           "url": "https://open.spotify.com/artist/7oavKrnYbTZPAPq7zCuipM"
         },
         {
-          "name": "Angela Lansbury",
-          "url": "https://open.spotify.com/artist/0LtVJXnPR8msCJiE2DjHxy"
-        },
-        {
-          "name": "David Ogden Stiers",
-          "url": "https://open.spotify.com/artist/0N0dbr5s2y20PAo2cDAeVP"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+          "name": "Robby Benson",
+          "url": "https://open.spotify.com/artist/3QcGV278a6mmLRTOK29WBP"
         }
       ],
-      "duration_ms": 139066,
-      "name": "Something There",
-      "url": "https://open.spotify.com/track/7qQDSdhFkh0MMAE1LO5c3K"
+      "duration_ms": 138413,
+      "name": "Something There - Remastered 2018",
+      "url": "https://open.spotify.com/track/54nheCglJ7KKy12Fr3QlKK"
     },
     {
       "added_at": "2022-09-15 09:16:52",
@@ -931,8 +927,8 @@
     {
       "added_at": "2022-09-15 09:16:52",
       "album": {
-        "name": "Disney Summer Songs",
-        "url": "https://open.spotify.com/album/6qykGE5x584duyLVYcnojE"
+        "name": "Disney's Greatest Vol. 3",
+        "url": "https://open.spotify.com/album/6UuNvv5UFJG5bQkYzQIarh"
       },
       "artists": [
         {
@@ -956,9 +952,9 @@
           "url": "https://open.spotify.com/artist/4y5d67UxD0QON2vRZOjXZ6"
         }
       ],
-      "duration_ms": 176213,
+      "duration_ms": 177880,
       "name": "Can You Feel the Love Tonight - From \"The Lion King\" / Soundtrack Version",
-      "url": "https://open.spotify.com/track/2XQee7HP5QrDwUGHOl6GFf"
+      "url": "https://open.spotify.com/track/1CQWhOlFQFn3je1Q05SDAm"
     },
     {
       "added_at": "2022-09-15 09:16:52",

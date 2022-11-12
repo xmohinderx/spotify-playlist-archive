@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-766 songs - 2 day 6 hr 52 min - [published](https://open.spotify.com/playlist/0rhu3j6f2MxHd8IeLxajNI)
+767 songs - 2 day 6 hr 56 min - [published](https://open.spotify.com/playlist/0rhu3j6f2MxHd8IeLxajNI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,7 +197,7 @@
 | [Echo Paths](https://open.spotify.com/track/4jDp8yN8oBkmLRbhbQMqlJ) | [Lone](https://open.spotify.com/artist/5wZOrGWdg4hq7KIRMupJdI) | [Always Inside Your Head](https://open.spotify.com/album/36BhQCIGZyc0JyZAfysXYI) | 5:12 | 2021-11-12 | 2022-07-29 |
 | [Echoes](https://open.spotify.com/track/0yQwDOqm8IfdsIQ4mI9NYC) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Echoes](https://open.spotify.com/album/5pGxvDYSbfj0DBGkUIeALN) | 5:31 | 2022-07-01 | 2022-08-09 |
 | [Echoes](https://open.spotify.com/track/2EeujvJimt6SNSbIKOjI4v) | [Solstis](https://open.spotify.com/artist/0cWwLbhs4bX6RLNR0r3FMN) | [Echoes](https://open.spotify.com/album/2amSeQJMX3Y94pwa1LNkyk) | 4:00 | 2019-05-26\* | 2020-10-22 |
-| [Eden](https://open.spotify.com/track/4RQKsEW72d4Oipy55ivJ26) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A), [Sublab](https://open.spotify.com/artist/3tjRdPCZTpme7vslZJYtJx) | [Eden](https://open.spotify.com/album/0c8tH9ryCK1MPGqQdi8sMS) | 3:53 | 2019-06-19\* |  |
+| [Eden](https://open.spotify.com/track/4RQKsEW72d4Oipy55ivJ26) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A), [Sublab](https://open.spotify.com/artist/3tjRdPCZTpme7vslZJYtJx) | [Eden](https://open.spotify.com/album/0c8tH9ryCK1MPGqQdi8sMS) | 3:53 | 2019-06-19\* | 2022-11-12 |
 | [Efflorescence](https://open.spotify.com/track/2ZIv64u8EDj0BjecR7IaB2) | [Luke Sanger](https://open.spotify.com/artist/6rCLSvQw54lPJfibDyFZcG) | [Languid Gongue](https://open.spotify.com/album/3h6haEyUYaLtJeEKxLce2s) | 5:30 | 2021-08-13 | 2022-07-28 |
 | [Eisberg \(Hemal\)](https://open.spotify.com/track/6HX2HKDm8nu2m9GwK8eFpH) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [A Forest](https://open.spotify.com/album/7zczp6XRwsdgnAolUjgfEh) | 3:53 | 2019-06-19\* | 2020-08-26 |
 | [El Layali](https://open.spotify.com/track/51qw9DAEYn0RS23LtwZU84) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Amor Fati](https://open.spotify.com/album/67gwUv9SBJYgjhTnysFPU6) | 3:09 | 2021-07-23 |  |
@@ -551,6 +551,7 @@
 | [Rest in Peace](https://open.spotify.com/track/1qxdgsiWSmO6l4Ds1EZBj9) | [Super Duper](https://open.spotify.com/artist/5zFMLXUnqxwdgTpLCX9LDj) | [VHS](https://open.spotify.com/album/5dpCCx6F2ECsqnrdmwNGCH) | 3:31 | 2019-06-19\* | 2020-10-21 |
 | [Restraint](https://open.spotify.com/track/42dw6pVslE7a5k24piTkCC) | [Haywyre](https://open.spotify.com/artist/7aUSp5cOZlwEtd5zPC795k) | [Two Fold Pt\. 2](https://open.spotify.com/album/6WAm1Z7pv03iivo9jCMePQ) | 0:46 | 2019-06-19\* | 2020-10-22 |
 | [Reverie](https://open.spotify.com/track/2iHgZUi62VlyF36yDTz5sX) | [Sleep Surgeon](https://open.spotify.com/artist/5Miv6SXEFSeNVMot3CQPoq) | [Reverie](https://open.spotify.com/album/532JnaXFqRSYbzO6xFHr0D) | 3:31 | 2021-02-27 | 2022-07-29 |
+| [Reverie](https://open.spotify.com/track/7JGe5XiHmtJZ05qt9TYArV) | [Sleep Surgeon](https://open.spotify.com/artist/5Miv6SXEFSeNVMot3CQPoq) | [Reverie](https://open.spotify.com/album/5ELznF0yNzMgNUj3uvRc9L) | 3:31 | 2022-09-09 |  |
 | [Rheo](https://open.spotify.com/track/0rJyTKZRZmW3AAHFnSj2UF) | [Kaelin Ellis](https://open.spotify.com/artist/0QalUUx2C9F1PGbfQVcHAd) | [Veil](https://open.spotify.com/album/3EbTMjtUTNsKO5BC8tEnAU) | 3:01 | 2019-06-19\* | 2022-04-19 |
 | [Right Now](https://open.spotify.com/track/5o9xnscjsBZ7S250klvF9z) | [Solomon Grey](https://open.spotify.com/artist/7pCfNMcSlUWQgBXbyoEcyO) | [Solomon Grey](https://open.spotify.com/album/3NJfv17x2MrV0rKUgv5o2e) | 1:12 | 2019-06-23 | 2020-06-12 |
 | [Rings](https://open.spotify.com/track/5DQEWQoJ3deYCPkRIFm3Ci) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Epoch](https://open.spotify.com/album/0GXI4iAc5FshqWgIlaNAXO) | 4:08 | 2019-06-19\* | 2020-10-21 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xhM3wDbSS5.md) - [plain]
 
 > Artists that have challenged norms and pushed culture forward.
 
-[Spotify](https://open.spotify.com/user/spotify) - 587 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 607 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xhM3wDbSS5.md) - [plain]
 | 42 | [Pa' Que Retozen](https://open.spotify.com/track/5YJ4BVvTFmVCxUyhKejHfR) | [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [El Abayarde](https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY) | 2:31 |
 | 43 | [My Name Is](https://open.spotify.com/track/75IN3CtuZwTHTnZvYM4qnJ) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Slim Shady LP](https://open.spotify.com/album/0vE6mttRTBXRe9rKghyr1l) | 4:28 |
 | 44 | [Insane in the Brain](https://open.spotify.com/track/1oTHteQbmJw15rPxPVXUTv) | [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX) | [Black Sunday](https://open.spotify.com/album/02lktkm4J7K7N8T63Gm7KX) | 3:28 |
-| 45 | [The Humpty Dance](https://open.spotify.com/track/0YEC3pNS0uIKvZb5u4lgsu) | [Digital Underground](https://open.spotify.com/artist/7jocoSCuCtpCxCI6IbP8ye) | [Sex Packets](https://open.spotify.com/album/6HWrL7hDFxfc8Z17JI9JIL) | 6:31 |
+| 45 | [The Humpty Dance](https://open.spotify.com/track/4mY2ClZ0o5ESykpvJhvZNv) | [Digital Underground](https://open.spotify.com/artist/7jocoSCuCtpCxCI6IbP8ye) | [Hi\-Five: Digital Underground](https://open.spotify.com/album/0D0YA85OKpSDvmgmoPJPn8) | 6:31 |
 | 46 | [Wake Me up When September Ends](https://open.spotify.com/track/3ZffCQKLFLUvYM59XKLbVm) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [American Idiot](https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke) | 4:45 |
 | 47 | [Antidote](https://open.spotify.com/track/1wHZx0LgzFHyeIZkUydNXq) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Rodeo \(Expanded Edition\)](https://open.spotify.com/album/4PWBTB6NYSKQwfo79I3prg) | 4:22 |
 | 48 | [Rock And Roll All Nite](https://open.spotify.com/track/6KTv0Z8BmVqM7DPxbGzpVC) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Dressed To Kill](https://open.spotify.com/album/1YCC4oZXg2zGn7pVSKVlGF) | 2:48 |
 | 49 | [I Put A Spell On You](https://open.spotify.com/track/3sesq9P6ndjuqaq5om7sxT) | [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum) | [Nostalgia](https://open.spotify.com/album/1REqQsUK0WRYQVzsmdsj04) | 3:32 |
 | 50 | [Like a Rolling Stone](https://open.spotify.com/track/3AhXZa8sUQht0UEdBJgpGc) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Highway 61 Revisited](https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD) | 6:09 |
 
-Snapshot ID: `MTY0ODY3NzU0MCwwMDAwMDAwMDM3ZTYxOWVkZDUyZThlZTZiZTNlYTcxMzM4NjcwNTg4`
+Snapshot ID: `MTY0ODY3NzU0MCwwMDAwMDAwMDM4NTBhZThlYTYyNTkyMjZlYTU3ODZmNjJlODQ4ZTZk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 
 > Are you afraid of the dark?
 
-[Spotify](https://open.spotify.com/user/spotify) - 323,881 likes - 80 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 324,158 likes - 80 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 | 17 | [Hotel](https://open.spotify.com/track/0JzG1wJuB4v9UPkSE7LMXi) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Hotel](https://open.spotify.com/album/0ykf7jcx3yY49RpkIO1byF) | 3:17 |
 | 18 | [Blue](https://open.spotify.com/track/5XOmmOQZFpzeHnWcsFAEiX) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Blue](https://open.spotify.com/album/6yO5bLMCpNJAlIjkL59KE6) | 3:18 |
 | 19 | [If You Say the Word](https://open.spotify.com/track/3pmSHIHtJC289ImufO7uor) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [If You Say the Word](https://open.spotify.com/album/0SvYW67Kes52rOZziDO9uC) | 4:20 |
-| 20 | [Satanic Slumber Party](https://open.spotify.com/track/5TRDXiHPikN83orTXSmZBz) | [Elita](https://open.spotify.com/artist/7ApzfFN0BmeeVJPsQBReRv) | [Satanic Slumber Party](https://open.spotify.com/album/2v4jEVLq0kmKeWCE7svpyq) | 3:03 |
+| 20 | [Satanic Slumber Party](https://open.spotify.com/track/206BrVbravzDeIJrhyXW0p) | [Elita](https://open.spotify.com/artist/7ApzfFN0BmeeVJPsQBReRv) | [Anxiety Angel](https://open.spotify.com/album/55wxjvYCRXUNrjw6vD9p5d) | 3:03 |
 | 21 | [The Wetlands](https://open.spotify.com/track/6CrTOj2Oa2Vgh6YnKZddIZ) | [Aoife Wolf](https://open.spotify.com/artist/0UjP3boKokgDROjh9HzfYg) | [The Wetlands](https://open.spotify.com/album/2jWDh6LjGtIVyzCqqzGkVU) | 3:57 |
 | 22 | [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 |
 | 23 | [Port](https://open.spotify.com/track/5TnhWeSJAkolB4y8eY3P2T) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [Port](https://open.spotify.com/album/0v8LHvECm25kz8i2ii5n7w) | 4:42 |
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 | 31 | [Sea, Swallow Me](https://open.spotify.com/track/7vPHiwgCOAjSBRjAirbMvS) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [The Moon and the Melodies](https://open.spotify.com/album/5v2I3i4RPD8T1XV0pjvPNo) | 3:09 |
 | 32 | [It Was Gone](https://open.spotify.com/track/5XUpxZO6tIHpupxE97LJ7I) | [Orchid Mantis](https://open.spotify.com/artist/6Yt4jPVBqhLFQcNM0dSZtq) | [It Was Gone](https://open.spotify.com/album/2zz9Kq8rQRdV7y9fvpG6eg) | 5:07 |
 | 33 | [Heavy Water/I'd Rather Be Sleeping](https://open.spotify.com/track/6IUwiHsyKAZtfBy37Wu4ij) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Dragging a Dead Deer Up a Hill](https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL) | 2:53 |
-| 34 | [Taker](https://open.spotify.com/track/1RlstRnDWwqLhOWtL16Iqy) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Deceiver](https://open.spotify.com/album/5FFuado5azIt5lxMLQjCPS) | 4:28 |
+| 34 | [Taker](https://open.spotify.com/track/6bjzPmFPE4y9pnSYFjqdjj) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Taker](https://open.spotify.com/album/6NIIGDCGRuTizmkQpxZDcM) | 4:28 |
 | 35 | [Deep Green](https://open.spotify.com/track/3y7SaLukj7ONKxdZLAoQtH) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [Deaf Heat EP](https://open.spotify.com/album/2NJInBQPfkmgWkNsx2m0DC) | 3:35 |
 | 36 | [Brkn](https://open.spotify.com/track/0kt17oiymmdO5hl4FpVKpu) | [VOID](https://open.spotify.com/artist/5m7jKBcJl9VAPoejUW48gc) | [Brkn](https://open.spotify.com/album/2MMpWxHFQXkCoglx8bHX6G) | 2:59 |
 | 37 | [Sure](https://open.spotify.com/track/2UQspiLx0lmEurmYh3kgyp) | [Bnny](https://open.spotify.com/artist/5WrIiG2BnDY2kouJxzQPsh) | [Sure](https://open.spotify.com/album/2SRfcuFUJffkHAtCcNQiw3) | 3:29 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 | 79 | [Jim, Let's Play](https://open.spotify.com/track/5cfURqfJGCi5EvCmJsDCtl) | [Drug Store Romeos](https://open.spotify.com/artist/7MMjkDVrjxW9iObeZeeejh) | [Jim, Let’s Play](https://open.spotify.com/album/35qMY153LTQElVMozKvPY6) | 3:04 |
 | 80 | [Track X](https://open.spotify.com/track/7oPKmDtDC8DLx2lN50JvGc) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Track X](https://open.spotify.com/album/1to5nlqVrZzV3X5iJ8qf7t) | 4:44 |
 
-Snapshot ID: `MTY2NzI2MDgwMCwwMDAwMDAwMDFiZjFjZDEyNmJkYzlkZTk0NjQ4MGRjZWNjMmUwNTdj`
+Snapshot ID: `MTY2NzI2MDgwMCwwMDAwMDAwMGYxY2FjOThlY2QzYTg1ZTMxZjlmMjU2MjBlNGEwZWUw`

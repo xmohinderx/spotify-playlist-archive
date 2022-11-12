@@ -543,7 +543,7 @@
     {
       "album": {
         "name": "OCTEMBRE",
-        "url": "https://open.spotify.com/album/6U0usnBvoliJcfq7xxmEZA"
+        "url": "https://open.spotify.com/album/3Njv7LsQ4QBCYrtAvexhdO"
       },
       "artists": [
         {
@@ -554,6 +554,24 @@
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 189712,
+      "name": "DIMANCHE SOIR",
+      "url": "https://open.spotify.com/track/0R7qTLkd6VR3QJeEmdG2by"
+    },
+    {
+      "album": {
+        "name": "OCTEMBRE",
+        "url": "https://open.spotify.com/album/6U0usnBvoliJcfq7xxmEZA"
+      },
+      "artists": [
+        {
+          "name": "Hubert Lenoir",
+          "url": "https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-12",
       "duration_ms": 189712,
       "name": "DIMANCHE SOIR",
       "url": "https://open.spotify.com/track/1xTasIo5MGbmSi792apTaz"
@@ -601,6 +619,24 @@
     {
       "album": {
         "name": "Don't Know Why",
+        "url": "https://open.spotify.com/album/0VNovm8OBZjtfjqC4iUPLO"
+      },
+      "artists": [
+        {
+          "name": "Ghostly Kisses",
+          "url": "https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189305,
+      "name": "Don't Know Why",
+      "url": "https://open.spotify.com/track/0UJNHaZIuRHVlc5fKtav0z"
+    },
+    {
+      "album": {
+        "name": "Don't Know Why",
         "url": "https://open.spotify.com/album/1OONF0jdQiEYEh4nXxhB5j"
       },
       "artists": [
@@ -629,7 +665,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 189305,
       "name": "Don't Know Why",
       "url": "https://open.spotify.com/track/1ukvyO3hy4NQ59MTPOOWFz"
@@ -926,6 +962,28 @@
     },
     {
       "album": {
+        "name": "Honeybrains - Just Rock",
+        "url": "https://open.spotify.com/album/7ddAAmGaDQToNTmL4MCa0Z"
+      },
+      "artists": [
+        {
+          "name": "The War On Drugs",
+          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
+        },
+        {
+          "name": "Lucius",
+          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327546,
+      "name": "I Don't Live Here Anymore",
+      "url": "https://open.spotify.com/track/7uBOrEoG9V697UzLzqsKre"
+    },
+    {
+      "album": {
         "name": "I Don't Live Here Anymore (feat. Lucius)",
         "url": "https://open.spotify.com/album/3TlKOq7pgN2XIAM3J2HSyD"
       },
@@ -963,7 +1021,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 327546,
       "name": "I Don't Live Here Anymore (feat. Lucius)",
       "url": "https://open.spotify.com/track/5Uou8idst1XJc0F6MRAk5S"
@@ -1220,6 +1278,32 @@
     },
     {
       "album": {
+        "name": "Jour 2",
+        "url": "https://open.spotify.com/album/6oPjftW7z87lqHWZu7Es58"
+      },
+      "artists": [
+        {
+          "name": "Hildegard",
+          "url": "https://open.spotify.com/artist/2Ffds2i0bCHVuLiJq6GqCC"
+        },
+        {
+          "name": "Helena Deland",
+          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
+        },
+        {
+          "name": "Ouri",
+          "url": "https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281975,
+      "name": "Jour 2",
+      "url": "https://open.spotify.com/track/096tjjJjXqQA3h99KsrJIc"
+    },
+    {
+      "album": {
         "name": "Hildegard",
         "url": "https://open.spotify.com/album/6w7nCE7qv2GNngPYW6HZgV"
       },
@@ -1239,7 +1323,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 281975,
       "name": "Jour 2",
       "url": "https://open.spotify.com/track/2FyxwoPkYNyweSmgnvsMhd"
@@ -1485,7 +1569,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 342604,
       "name": "Lonely Romance",
       "url": "https://open.spotify.com/track/31SXKJBLm38BkGB3I2nVsZ"
@@ -1507,6 +1591,24 @@
       "duration_ms": 342604,
       "name": "Lonely Romance",
       "url": "https://open.spotify.com/track/4TgYdNeqBWTdWLmHVjNBmV"
+    },
+    {
+      "album": {
+        "name": "The Anjunadeep Edition 384 with James Grant",
+        "url": "https://open.spotify.com/album/4GTGlZ3hTvDzr3PBjqr0xX"
+      },
+      "artists": [
+        {
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342604,
+      "name": "Lonely Romance",
+      "url": "https://open.spotify.com/track/65pABo2Ke4fJkDiGiNybGv"
     },
     {
       "album": {

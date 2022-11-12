@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdD040nrEzxm.md) - [plain]
 
 > Editor's picks: The best African songs of 2021\. Cover: <a href="https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu?si=nFgcQ\_fRQH6RnMN65adARg">LADIPOE</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,410 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,418 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Feeling](https://open.spotify.com/track/29e2gdZN35wxeGgDtkXjIa) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Feeling](https://open.spotify.com/album/7HUbrb8z5gdwm9OoPEDh5A) | 3:44 |
 | 2 | [understand](https://open.spotify.com/track/37AvkhxjJKcjjgHsrrGaom) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/673wWns8iuEBeBLRAQU68A) | 2:54 |
 | 3 | [Soundgasm](https://open.spotify.com/track/6hp9eoQBAcjMVrbLCfsVab) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Calm Down](https://open.spotify.com/album/37iaWiKMa9YBbEDlw5c3Qh) | 3:24 |
-| 4 | [Kilometre](https://open.spotify.com/track/03YUNUpazIbzwqJq2YSBvB) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 2:32 |
+| 4 | [Kilometre](https://open.spotify.com/track/0oQgoesQJq0fRnWOY1D73g) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Kilometre](https://open.spotify.com/album/6Vqv0UEcqmB1mMvvxZ4Y9T) | 2:32 |
 | 5 | [MOSLADO](https://open.spotify.com/track/3n8cVzL2mibNoBC6aR5lo0) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [WONDALAND](https://open.spotify.com/album/2a4aRlgreoL2pMyh0fLczw) | 3:26 |
 | 6 | [Door](https://open.spotify.com/track/4ahI2IdM0Z1e7dLopcNJQi) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Door](https://open.spotify.com/album/3NEfHN5barIoNRNa4vPXh1) | 2:32 |
 | 7 | [Peru](https://open.spotify.com/track/0lk5tzmaJWVAv5GBvpm3xu) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Peru](https://open.spotify.com/album/79O3iaxnmfBDwqueQJiNBe) | 2:31 |
-| 8 | [KPK \(Remix\) \[feat\. Sho Madjozi & MohBad\]](https://open.spotify.com/track/35RxQctn6oTy3Z0W8YLsyW) | [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku), [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa), [Sho Madjozi](https://open.spotify.com/artist/08V2vgJBY6VLoUPWlznRKo) | [A True Champion](https://open.spotify.com/album/6cqaFME7zznZclEDFE6bUk) | 3:14 |
+| 8 | [KPK \(Remix\) \[feat\. Sho Madjozi & MohBad\]](https://open.spotify.com/track/72RNwuztCLtpmOWnVx0UjF) | [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku), [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa), [Sho Madjozi](https://open.spotify.com/artist/08V2vgJBY6VLoUPWlznRKo) | [KPK \(Remix\) \[feat\. Sho Madjozi, MohBad\]](https://open.spotify.com/album/0RLKAoyzoF7QtBVVpAKWEs) | 3:14 |
 | 9 | [Dimension \(feat\. Skepta & Rema\)](https://open.spotify.com/track/2Jy4EdqIZswDZvVDh5dx3A) | [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Dimension \(feat\. Skepta & Rema\)](https://open.spotify.com/album/0Zp33hB1LZhbpMQCNfzeVF) | 3:54 |
 | 10 | [Big Thug Boys](https://open.spotify.com/track/64f7mZuEkeNeKOuzSjrIGm) | [AV](https://open.spotify.com/artist/4zSFP72igZmzWSRpK7AepF) | [Big Thug Boys](https://open.spotify.com/album/79PtaeN11NuACxUaeipBom) | 2:51 |
 | 11 | [Sinner](https://open.spotify.com/track/3k6Y1ESBwF1low4hHsY4wu) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Sinner](https://open.spotify.com/album/1kpkSvYRz40cdD1GvfN7OJ) | 2:54 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdD040nrEzxm.md) - [plain]
 | 99 | [Only You](https://open.spotify.com/track/28cKZOhv7MWfUnlOIj1Rid) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Dhurata Dora](https://open.spotify.com/artist/6t7U7sYlVCtlMWzbecJcHd) | [Les vestiges du fleau](https://open.spotify.com/album/10BrhVps4lNlCk75szZSIk) | 3:37 |
 | 100 | [Antidote \(feat\. Adekunle Gold\)](https://open.spotify.com/track/1ndeyZurGdaWqLh3srX0ia) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Antidote \(feat\. Adekunle Gold\)](https://open.spotify.com/album/3KQZiAYQg3kXCKPKKNDdbX) | 3:22 |
 
-Snapshot ID: `MTYzODM2NjQ4MCwwMDAwMDAwMDAzMTJlNDY4NTE3MzIwMzQ5ZWY4ODI3OGI2ZGZiMWQz`
+Snapshot ID: `MTYzODM2NjQ4MCwwMDAwMDAwMGFlNjFlZWE0NzgyOWE4ZTAxMzg3Yjk5ODU3NGI2ZmZj`

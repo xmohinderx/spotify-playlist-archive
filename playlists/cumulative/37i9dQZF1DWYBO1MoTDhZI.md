@@ -4,7 +4,7 @@
 
 > Set it off with these epic anthems\. Only good vibes here!
 
-488 songs - 1 day 2 hr 29 min - [published](https://open.spotify.com/playlist/3Pr9JoGRoGnme0v3kuZyYS)
+489 songs - 1 day 2 hr 32 min - [published](https://open.spotify.com/playlist/3Pr9JoGRoGnme0v3kuZyYS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [11 Hours \- Branchez Remix](https://open.spotify.com/track/1BzdE75pSHlsqF2roxxEWk) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8), [Branchez](https://open.spotify.com/artist/4T5kpUiQUVJhuf9YT28qlf) | [11 Hours \(Branchez Remix\)](https://open.spotify.com/album/2KfzSqGSQ6LGZqbSdRJZlV) | 2:36 | 2019-09-05\* | 2021-03-19 |
 | [15 Minutes](https://open.spotify.com/track/4zGJ5yybuyVgXRt9yCxem1) | [Julian Lamadrid](https://open.spotify.com/artist/60rE8L4eGCSSaJCS1kqNKy) | [15 Minutes](https://open.spotify.com/album/7ewDoS5YHftJf70LZftQGV) | 2:59 | 2021-04-24 | 2021-05-15 |
 | [2 Be Loved \(Am I Ready\)](https://open.spotify.com/track/2rmwqU7yzTvzkiaRV53DpT) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 3:07 | 2022-07-15 |  |
+| [2 Sugar \(feat\. Ayra Starr\)](https://open.spotify.com/track/1DA2ADZs6O28y2rmdmpekw) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [More Love, Less Ego](https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY) | 3:07 | 2022-11-11 |  |
 | [22 \(Taylor's Version\)](https://open.spotify.com/track/3yII7UwgLF6K5zW3xad3MP) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 3:50 | 2022-05-20 | 2022-06-22 |
 | [24 48](https://open.spotify.com/track/74PIF3XMo1MpPutKxQYPGy) | [sammy rash](https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm) | [24 48](https://open.spotify.com/album/4zd4y5FJHwvPn6c2BtKc5l) | 2:33 | 2022-04-15 | 2022-05-28 |
 | [3 Nights](https://open.spotify.com/track/1tNJrcVe6gwLEiZCtprs1u) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/1DNx0H5ZX1ax3yyRwtgT4S) | 2:57 | 2019-09-05\* |  |
@@ -297,7 +298,7 @@
 | [Mile High](https://open.spotify.com/track/0HfrMtru5FIDJj4PsTJUzN) | [Public Library Commute](https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY), [Mills](https://open.spotify.com/artist/7MceGzCJ3bPNyErb440Izo) | [Mile High](https://open.spotify.com/album/2eYwdlhodCN73iyILQmfFM) | 3:29 | 2022-07-22 | 2022-08-13 |
 | [Mon Amour \- Remix](https://open.spotify.com/track/5TMLavqGRKNxgzMBrVpC9R) | [zzoilo](https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Mon Amour \(Remix\)](https://open.spotify.com/album/4TWsxSw8df17aja6JSaar5) | 2:59 | 2022-01-05 | 2022-05-07 |
 | [mona lisa](https://open.spotify.com/track/5O7TgofxqSQh31TiRcKXzo) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [mona lisa](https://open.spotify.com/album/3wVcBPUDJrmInLD0G1W1r2) | 3:10 | 2022-02-11 | 2022-05-20 |
-| [Money & Love](https://open.spotify.com/track/3nIj7jkWVKKmmKPdhgrddu) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Money & Love](https://open.spotify.com/album/1a936IexPb6wtpMlymctZz) | 3:11 | 2022-10-28 |  |
+| [Money & Love](https://open.spotify.com/track/3nIj7jkWVKKmmKPdhgrddu) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Money & Love](https://open.spotify.com/album/1a936IexPb6wtpMlymctZz) | 3:11 | 2022-10-28 | 2022-11-12 |
 | [Moneymaker](https://open.spotify.com/track/5f18AcRmbxcTxd4ehOXuYI) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [Moneymaker](https://open.spotify.com/album/1K8g8sM4GzVOWBfYrlh41Y) | 2:17 | 2022-09-30 |  |
 | [Monte Carlo](https://open.spotify.com/track/3CXCtE8qJIFtUJJZRKCcXC) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Monte Carlo](https://open.spotify.com/album/5jZs0pEMbz0ZDdEqd0GmrI) | 2:23 | 2020-08-07 | 2021-08-28 |
 | [Moon \(And It Went Like\)](https://open.spotify.com/track/24upABZ8A0sAepfu91sEYr) | [Kid Francescoli](https://open.spotify.com/artist/2G7QgTep5IsJHGHm1hXygD) | [Play Me Again](https://open.spotify.com/album/4iII9nfzjxOYQFp8PyV6HD) | 6:30 | 2020-04-10 | 2021-12-11 |

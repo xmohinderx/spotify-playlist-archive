@@ -4,7 +4,7 @@
 
 > Les femmes montent le son\. Photo : Chilla
 
-523 songs - 1 day 3 hr 7 min - [published](https://open.spotify.com/playlist/1j8ppjdvQ9TlzoMiE9zx0Y)
+524 songs - 1 day 3 hr 10 min - [published](https://open.spotify.com/playlist/1j8ppjdvQ9TlzoMiE9zx0Y)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,8 @@
 | [CONTROL](https://open.spotify.com/track/0BJQL4uOXzJCwtVQO141SQ) | [Lala &ce](https://open.spotify.com/artist/1AKP8Tnz8KfOdRM4mqvNtF) | [SunSystem](https://open.spotify.com/album/2iZTwsFoNuV7KywtKM7lVT) | 2:59 | 2022-10-04 | 2022-11-09 |
 | [Corps & âme](https://open.spotify.com/track/65gN23dDtNfa7YWoxOCu6N) | [Edwige](https://open.spotify.com/artist/4XVi33TsEFgWfZPCpLOcNx) | [Corps & âme](https://open.spotify.com/album/0HvRonPYTaVuawTLu5Of0r) | 3:27 | 2022-05-31 | 2022-07-06 |
 | [Coup de soleil](https://open.spotify.com/track/191MxYhNwpsVCh4Az3fkmK) | [ELISA ERKA](https://open.spotify.com/artist/1EkqwqtzsjxMYJZH73RFVM) | [Coup de soleil](https://open.spotify.com/album/1IEh1tmYDI8rCAc4pCxPfK) | 2:42 | 2022-08-02 | 2022-09-07 |
-| [Crazy Sexy Dream Girl](https://open.spotify.com/track/34zZugFmhTGDTO61jT8lyX) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [PLAYGIRL](https://open.spotify.com/album/0hKVypyK1PsoVe3Rjvml0X) | 2:26 | 2022-11-08 |  |
+| [Crazy Sexy Dream Girl](https://open.spotify.com/track/7hoWwNa00H6yxrphgy0JsT) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [Crazy Sexy Dream Girl](https://open.spotify.com/album/51AT6z6XtArrpKzYq3cnbz) | 2:26 | 2022-11-08 |  |
+| [Crazy Sexy Dream Girl](https://open.spotify.com/track/34zZugFmhTGDTO61jT8lyX) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [PLAYGIRL](https://open.spotify.com/album/0hKVypyK1PsoVe3Rjvml0X) | 2:26 | 2022-11-08 | 2022-11-12 |
 | [Crop Top](https://open.spotify.com/track/4Taj3786owTb8Z8JEZBVE2) | [Aloïse Sauvage](https://open.spotify.com/artist/5LYSuLVsB6OVxkDY107AyQ) | [Crop Top](https://open.spotify.com/album/4xGxwhPDfO8WDJ8SrmxXOA) | 2:32 | 2022-07-05 | 2022-08-03 |
 | [Crush \(feat\. Anaïs Demoustier\)](https://open.spotify.com/track/3jHeHzz5MSmBhUuhaS6H7g) | [Requin Chagrin](https://open.spotify.com/artist/7hstPLRSo0ipNnICMpTN5g), [Anaïs Demoustier](https://open.spotify.com/artist/0nWAZSp0jv8b7RDmrbW4Eh) | [Bye Bye Baby](https://open.spotify.com/album/2iVrZlFKJDwvwnXz4VZYwm) | 3:18 | 2022-09-06 | 2022-10-05 |
 | [Cœur à cœur](https://open.spotify.com/track/3T2BybVNTRi1D3BChLPNyX) | [iambillies](https://open.spotify.com/artist/6mvtHZpx2xlegpmqCZ3UpG) | [Cœur à cœur](https://open.spotify.com/album/5mWGbQvxI666IWrLZML4B2) | 3:11 | 2022-04-05 | 2022-05-04 |

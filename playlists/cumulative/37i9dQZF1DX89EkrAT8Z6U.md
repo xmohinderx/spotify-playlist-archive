@@ -4,7 +4,7 @@
 
 > the perfect fight scene\. ft\. Lucy from Cyberpunk: Edgerunners
 
-144 songs - 6 hr 30 min - [published](https://open.spotify.com/playlist/0PIQ3YDGdAmBdhFTNGvmEh)
+145 songs - 6 hr 33 min - [published](https://open.spotify.com/playlist/0PIQ3YDGdAmBdhFTNGvmEh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Kyouran Hey Kids!!](https://open.spotify.com/track/38kcwx5znepLWCIBID0Bwm) | [THE ORAL CIGARETTES](https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q) | [FIXION](https://open.spotify.com/album/7uy0IV2P1VxmeYcssedEq0) | 4:10 | 2022-07-08 |  |
 | [Led](https://open.spotify.com/track/34BjpCWg9uTA5n98hwTM4q) | [GOTOU寄生獣](https://open.spotify.com/artist/3lBMiwsMDQZItXes0VxBsJ), [OmenXIII](https://open.spotify.com/artist/3CBK6TOAiqTv5xsnWZRHuj) | [Led](https://open.spotify.com/album/3rvqx7Dc6HFW6JyTk2Hgjw) | 2:14 | 2022-05-25 | 2022-07-29 |
 | [Led](https://open.spotify.com/track/2tewsqBBUALqKedOrnU1AT) | [GOTOU寄生獣](https://open.spotify.com/artist/3lBMiwsMDQZItXes0VxBsJ), [OmenXIII](https://open.spotify.com/artist/760kxYHN5QTrD1DehiimjB) | [Led](https://open.spotify.com/album/2RIYeR7qaek1c8BNIBsq0a) | 2:14 | 2022-07-08 |  |
+| [LED](https://open.spotify.com/track/0Sgk9iiFGgjVxJfXv2L3iF) | [OmenXIII](https://open.spotify.com/artist/760kxYHN5QTrD1DehiimjB) | [Corrupted](https://open.spotify.com/album/03EVEgGgCJkQBaVCk0eCOS) | 2:14 | 2022-10-27 |  |
 | [LED](https://open.spotify.com/track/0s1MIn7UaPbAfq85CnKVl6) | [OmenXIII](https://open.spotify.com/artist/760kxYHN5QTrD1DehiimjB) | [Corrupted](https://open.spotify.com/album/6NsFF92Eqvk6AYXgW95Vil) | 2:14 | 2022-05-25 | 2022-11-06 |
 | [Let Me Hear](https://open.spotify.com/track/5sqkarfxe7UejHTlCtHCLS) | [Fear, and Loathing in Las Vegas](https://open.spotify.com/artist/5iZSZ19Lnt6iQTDITRF7Mn) | [Feeling of Unity](https://open.spotify.com/album/6jx1agEJ1VGvJR5d53oeQY) | 3:45 | 2022-07-08 |  |
 | [Let's Ride](https://open.spotify.com/track/3dUXPkCP34x762v8cOJTRt) | [Khantrast](https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo) | [Let's Ride](https://open.spotify.com/album/0dZhr1Edoqtjps6fEXuWgP) | 2:00 | 2022-06-21 | 2022-10-22 |
@@ -97,7 +98,7 @@
 | [No Suburban, Pt\. 2](https://open.spotify.com/track/3VayB5gLZGODx8b7RO1y5f) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm) | [One and Only](https://open.spotify.com/album/6lJqLqRmWGmsw8aLEoSlZ9) | 2:33 | 2022-05-25 |  |
 | [OKAY SHAWTY](https://open.spotify.com/track/3qsR1pTGoshzapShuYm0ns) | [Kwe the Artist](https://open.spotify.com/artist/1QduOP354RYyRRGRuvYPD2) | [OKAY SHAWTY](https://open.spotify.com/album/2vtizplVpMIp3cguwoT7nA) | 1:46 | 2022-06-01 | 2022-07-29 |
 | [OKE](https://open.spotify.com/track/6Qah1RanKHrrv7iYoqjNKM) | [Maddy Soma](https://open.spotify.com/artist/1wFTlSSnvzNxs7FpbTyEuO) | [OKE](https://open.spotify.com/album/2yZNGTY9G1WABteaesNDRR) | 2:26 | 2022-10-07 |  |
-| [OLIVIA](https://open.spotify.com/track/2s14ypvd880AiEfZssEjaY) | [Softwilly](https://open.spotify.com/artist/0fAEWMlRd4yiJBT2usaqqc), [Yung Kage](https://open.spotify.com/artist/7j8MiVdcaaVpUvhkXWwYDT) | [OLIVIA](https://open.spotify.com/album/3hNNuCctdqZqKJvPcb5UbV) | 2:23 | 2022-05-25 |  |
+| [OLIVIA](https://open.spotify.com/track/2s14ypvd880AiEfZssEjaY) | [Softwilly](https://open.spotify.com/artist/0fAEWMlRd4yiJBT2usaqqc), [Yung Kage](https://open.spotify.com/artist/7j8MiVdcaaVpUvhkXWwYDT) | [OLIVIA](https://open.spotify.com/album/3hNNuCctdqZqKJvPcb5UbV) | 2:23 | 2022-05-25 | 2022-11-12 |
 | [Paris](https://open.spotify.com/track/6tO5bxNnMuh1c3cziSpecA) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Now the Moon's Rising](https://open.spotify.com/album/12RWpV5WUjYo4SisuFWMNK) | 1:51 | 2022-05-25 |  |
 | [Phantom Troupe \- Remix](https://open.spotify.com/track/07Pv7QJd4kFRyusSSlJODo) | [Shofu](https://open.spotify.com/artist/6Mt5Jv5qiHPyCmnaLbr6Rz), [Token Black](https://open.spotify.com/artist/7o4jUmg3xAzo6IYUawh2YE), [954mari](https://open.spotify.com/artist/4B6My3qCkyAX7n3qzUZONc), [OmarCameUp](https://open.spotify.com/artist/5p9aalXlIMSGKmey78Ah5v), [Dedboii Kez](https://open.spotify.com/artist/6IZOq4fC3vRZvcMdnqME9h), [PE$O PETE](https://open.spotify.com/artist/6VZiS2VunvxmraSXYGLBZv), [Ham Sandwich](https://open.spotify.com/artist/10IrmnIj8FmleJotGxwTRX), [TUCK2SHARP](https://open.spotify.com/artist/7hn7cmaQByxy38U1vGCPE8), [Ty Wild](https://open.spotify.com/artist/2uE23RLfCmZurbJzYgjKMm), [G.Yee](https://open.spotify.com/artist/1dmJ1ESL5MHZAEtLqXYd6t), [BlackLynk](https://open.spotify.com/artist/46ZR1UUZY1GAt4DmlQbZs4), [VI Seconds](https://open.spotify.com/artist/7l7jyhyCooS3qKlBhZLIiG), [ShueTube](https://open.spotify.com/artist/7BmPVzemtO9g4azCeM37Sk), [Tanukes](https://open.spotify.com/artist/4UVz2mDQK34FFq5V5cBZ5l) | [Phantom Troupe \(Remix\)](https://open.spotify.com/album/0ZzUopArm41ddN0orm3j7a) | 7:02 | 2022-05-25 | 2022-07-28 |
 | [PLASTIC ART](https://open.spotify.com/track/0uwdULpmQ5vB62NN0duw8S) | [IVOXYGEN](https://open.spotify.com/artist/6K9KevAu0cpln7xOsM3Wkm) | [KALEIDOSCOPE](https://open.spotify.com/album/1ZyR3m6dXdqBHb96BrtlSZ) | 2:14 | 2022-05-25 | 2022-07-29 |

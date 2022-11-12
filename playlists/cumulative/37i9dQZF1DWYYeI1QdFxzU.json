@@ -73,7 +73,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-31",
+      "date_removed": null,
       "duration_ms": 296250,
       "name": "Adderall",
       "url": "https://open.spotify.com/track/0pAGo08jBvebuxMUoqvulX"
@@ -570,6 +570,24 @@
     },
     {
       "album": {
+        "name": "Drowning",
+        "url": "https://open.spotify.com/album/41zd4PXMqkcthdkrU7cvgZ"
+      },
+      "artists": [
+        {
+          "name": "PYRMDPLAZA",
+          "url": "https://open.spotify.com/artist/7zYtmHNk7UfzvCWOHPdl6x"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180983,
+      "name": "Drowning",
+      "url": "https://open.spotify.com/track/4c9obARU5PWbpIxAFhlg8D"
+    },
+    {
+      "album": {
         "name": "Dune",
         "url": "https://open.spotify.com/album/04NzBREuQBthxSpcoD6EbE"
       },
@@ -863,7 +881,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 222840,
       "name": "Grown Into You",
       "url": "https://open.spotify.com/track/3ITy1AfO27OqKCC8D5lFCy"
@@ -1331,7 +1349,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 259165,
       "name": "Pink & Blue",
       "url": "https://open.spotify.com/track/1TJqHWEHHQ7Z5mJ0P6rXqq"

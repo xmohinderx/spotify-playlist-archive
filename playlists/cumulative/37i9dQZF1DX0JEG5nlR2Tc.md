@@ -4,7 +4,7 @@
 
 > Pack your backpack and get ready for school!
 
-57 songs - 2 hr 8 min - [published](https://open.spotify.com/playlist/2HVuCHulCqBb0FSZwQjcCr)
+59 songs - 2 hr 11 min - [published](https://open.spotify.com/playlist/2HVuCHulCqBb0FSZwQjcCr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,8 +32,9 @@
 | [First Day of School](https://open.spotify.com/track/0iLgt5F1hEEt84McTRQzrB) | [Cocomelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Cocomelon Kids Hits, Vol\. 1](https://open.spotify.com/album/6nwmKOkyH0eaNtND9unuhm) | 2:39 | 2021-08-26 | 2022-07-29 |
 | [First Day of School](https://open.spotify.com/track/3haP3mk7a0lb2VJ5Psg2hU) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [CoComelon Kids Hits, Vol\. 1](https://open.spotify.com/album/1wSJIPGezZDocP5T4DKUSs) | 2:39 | 2021-08-26 | 2022-11-11 |
 | [First Day of School](https://open.spotify.com/track/6Sh2h8v1pwTbsFXx54HlQ8) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [CoComelon Essentials](https://open.spotify.com/album/6dj7EyztDD42IJqsxZ1XMz) | 2:39 | 2021-08-26 |  |
+| [Going Back to School Today](https://open.spotify.com/track/0XE0N7gd2jJknaXmYesi0b) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Going Back to School Today](https://open.spotify.com/album/0dcLCZe0wRIlRLj5v9gkwq) | 1:30 | 2021-08-26 |  |
 | [Going Back to School Today](https://open.spotify.com/track/3y24X9jbxhGUMP5kEGUAGS) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Life Lessons for Children from LittleBabyBum](https://open.spotify.com/album/0n6nBTGAJIJBhvKdjXchIc) | 1:30 | 2021-08-26 | 2022-07-29 |
-| [Going Back to School Today](https://open.spotify.com/track/796sb0EwG3wdXsBqOAnpiP) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Life Lessons for Children from LittleBabyBum](https://open.spotify.com/album/1g9tg76IleuNteUpi6bhd8) | 1:30 | 2021-08-26 |  |
+| [Going Back to School Today](https://open.spotify.com/track/796sb0EwG3wdXsBqOAnpiP) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Life Lessons for Children from LittleBabyBum](https://open.spotify.com/album/1g9tg76IleuNteUpi6bhd8) | 1:30 | 2021-08-26 | 2022-11-12 |
 | [Going to the Library](https://open.spotify.com/track/6hgVBYoHZSqzv7TY6ZjMrg) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Kids Songs for Back to School](https://open.spotify.com/album/107Xpt2jjyZrhHbXXEag0l) | 1:43 | 2021-08-26 |  |
 | [Hop to School](https://open.spotify.com/track/5BNd6pHml6cpuWgBfM2jff) | [Jazzy Ash](https://open.spotify.com/artist/5zToXUC9I6HoncynKnRMhJ) | [Bon Voyage](https://open.spotify.com/album/1oquswZkCaoZ4EU8fSmSZo) | 1:44 | 2021-08-26 |  |
 | [I Love Doing Math](https://open.spotify.com/track/59cch0CzeLOeecVR4NPflH) | [Blake Rules](https://open.spotify.com/artist/5cdbXEnJgop6zjIxn4ljZ8), [Netherfriends](https://open.spotify.com/artist/5nYfBUxnHtI6LAp32fl9qY) | [Kids Trap 2](https://open.spotify.com/album/7ndGSRyfpUFnBtD1sFXQ4j) | 2:59 | 2021-08-26 |  |
@@ -45,7 +46,8 @@
 | [Look At All The Letters](https://open.spotify.com/track/5zif2TsjlvUDhe4PEa1gvE) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Look At All The Letters](https://open.spotify.com/album/61APcLVK3Sok8ur4c5aKA1) | 2:36 | 2021-08-26 | 2022-07-29 |
 | [Look At All The Letters](https://open.spotify.com/track/66amatHrD8i2JcuQsufI05) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Waiting For The Elevator](https://open.spotify.com/album/0e4v336x5GPwp8R5nTUzQd) | 2:36 | 2021-08-26 |  |
 | [Outside Inside](https://open.spotify.com/track/3zfuWX6OTeGwdedqZG6fIK) | [The Pop Ups](https://open.spotify.com/artist/3GkU6eKKcQk2cOtu14MDgw) | [Outside Voices](https://open.spotify.com/album/0Pesak1vor7VVB7IbKmcgY) | 2:55 | 2021-08-26 |  |
-| [Playground Sharing Song](https://open.spotify.com/track/0XIVlPpHZAiOL6QMQkRRq1) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Back to School](https://open.spotify.com/album/0G4SQRSkrkHUq1IcWKmzZm) | 1:46 | 2021-08-26 |  |
+| [Playground Sharing Song](https://open.spotify.com/track/0XIVlPpHZAiOL6QMQkRRq1) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Back to School](https://open.spotify.com/album/0G4SQRSkrkHUq1IcWKmzZm) | 1:46 | 2021-08-26 | 2022-11-12 |
+| [Playground Sharing Song](https://open.spotify.com/track/1KTV5QhJzcX82bRLE1akS9) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Social Emotional Learning](https://open.spotify.com/album/6V5lv2YxGokgdUbem3ReYL) | 1:46 | 2021-08-26 |  |
 | [Playground Sharing Song](https://open.spotify.com/track/56YuLvSbBxQpyMIb6fjV7y) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Back to School](https://open.spotify.com/album/69or5KAxesV56FleRsIfbb) | 1:46 | 2021-08-26 | 2022-07-29 |
 | [Ready Set Go!](https://open.spotify.com/track/2NdPviXMOzvJ6JIotl50CL) | [Divi Roxx Kids](https://open.spotify.com/artist/0sG3uehglpl7yEOaWGuGSR), [Divinity Roxx](https://open.spotify.com/artist/6Jp4e4JHGZN1bmRxovEZSI) | [Ready Set Go!](https://open.spotify.com/album/3cO1RRSX4z4AcrINOuCKAP) | 2:51 | 2021-08-26 |  |
 | [Sammy the School Bus](https://open.spotify.com/track/3nQFL40GzF3F8SJPgiomd2) | [Gecko's Garage](https://open.spotify.com/artist/2xHbxPlwNRVcJR3P3vjtX7), [Toddler Fun Learning](https://open.spotify.com/artist/6J7tunc4bHIFmzTevQ2J6Q) | [Cars, Trucks and Buses with Gecko!](https://open.spotify.com/album/6594786EydH2PJk33SCMa7) | 2:06 | 2021-08-26 | 2022-07-29 |

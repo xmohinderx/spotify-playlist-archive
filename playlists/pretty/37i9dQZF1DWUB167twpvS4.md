@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUB167twpvS4.md) - [plain]
 
 > Be an ear\-witness to the music that gave birth to Country, Pop and Rock.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,715 likes - 63 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,724 likes - 63 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUB167twpvS4.md) - [plain]
 | 13 | [Who Slapped John?](https://open.spotify.com/track/081t37hdBbQVjWGuBd42z6) | [Gene Vincent & His Blue Caps](https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq) | [Blue Jean Bop](https://open.spotify.com/album/28VDX5GZcFakGBuh2Uf5En) | 1:58 |
 | 14 | [Rumble Rock](https://open.spotify.com/track/2Uo5oKoHZdgnJ1pDC44AJd) | [Kip Tyler](https://open.spotify.com/artist/6SfIGvJgOsRC2mguki6OCh) | [Ooh Yeah Baby](https://open.spotify.com/album/622mprs4Ih9Oo1Pg53d0mO) | 2:13 |
 | 15 | [Folsom Prison Blues](https://open.spotify.com/track/5UMiYb0Np44O59EgCcyPuC) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [The Original Sun Recordings](https://open.spotify.com/album/7IAOE5YbqmDGImgpJEIePh) | 2:52 |
-| 16 | [Whole Lot Of Shakin' Going On \- Single Version](https://open.spotify.com/track/7Fyo9lTrk6pjT1rVW3GlBG) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [Original Golden Hits \- Volume 1 \(Vol\. 1\)](https://open.spotify.com/album/22cLZV8YJhDZzJ7lvJQXZj) | 2:53 |
+| 16 | [Whole Lotta Shakin' Going on](https://open.spotify.com/track/78bUBAJE8G62Rj3B6qDspV) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [The Original Sun Recordings](https://open.spotify.com/album/3MOt6Q0Npv4YQe7pcJxgH7) | 2:55 |
 | 17 | [Dixie Fried](https://open.spotify.com/track/5W07idwf58ahnvoPgYb2xI) | [Carl Perkins](https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f) | [Most Wanted 50s Rockabilly](https://open.spotify.com/album/69V0tr8soM6T7zu9ZviP5s) | 2:24 |
 | 18 | [Can't Hardly Stand It](https://open.spotify.com/track/3ZVOIu02drSOsMf6gLE31J) | [Charlie Feathers](https://open.spotify.com/artist/2EcNV0nlF6f6ZDtJJG2vKN) | [Kill Bill Vol\. 2 Original Soundtrack](https://open.spotify.com/album/0yrK3jKRexjtP4CRdYizjs) | 2:48 |
 | 19 | [One Cup of Coffee](https://open.spotify.com/track/5XUiqQLF5mSkBs16ohiEXQ) | [Glen Glenn](https://open.spotify.com/artist/4HA1v7Kj8foWKczaOUbxQx) | [The Glen Glenn Story / Everybody's Movin'](https://open.spotify.com/album/1F0JKGFuKdvtyzMujp3byF) | 2:03 |
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUB167twpvS4.md) - [plain]
 | 51 | [Ready Teddy](https://open.spotify.com/track/69yxuLdxF1hPzWo5x31U2C) | [Buddy Holly](https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D) | [Memorial Collection](https://open.spotify.com/album/6QokLIPpN1S9jylLQd6XMG) | 1:31 |
 | 52 | [Mystery Train](https://open.spotify.com/track/0GvhHQbWSnGltjl0je61dI) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [For LP Fans Only](https://open.spotify.com/album/1NVsMlJgD5GHf0CT1IewbU) | 2:24 |
 | 53 | [Singing the Blues](https://open.spotify.com/track/4vcHOxfV846dVjyToPFBRp) | [Marty Robbins](https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo) | [The Essential Marty Robbins 1951\-1982](https://open.spotify.com/album/4qbCscFZUKcUSTj1Pb2YSl) | 2:25 |
-| 54 | [Drinkin' Wine Spo\-Dee\-O\-Dee](https://open.spotify.com/track/186zX1i9deC8ewXKMp1rDd) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [Monsters](https://open.spotify.com/album/3AISe8rp8zrbn6uaH02Dxr) | 2:35 |
+| 54 | [Drinkin' Wine Spo\-Dee\-O\-Dee](https://open.spotify.com/track/4JozHIQp7ZuG9RGgCJCmzl) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [The Essential Jerry Lee Lewis \[The Sun Sessions\]](https://open.spotify.com/album/6OaajpAGeNsPJFkjyQvqHf) | 2:33 |
 | 55 | [Honey Don't](https://open.spotify.com/track/5wHNN87jPpD6ouu1pWegAj) | [Ronnie Hawkins](https://open.spotify.com/artist/2viYME3n7SlMsIOEqWmEHv) | [Rhino Hi\-Five: Rockin' Bones: 1950s Punk & Rockabilly](https://open.spotify.com/album/2Ot4oR9l5JVrgQxAhWKgTT) | 2:24 |
 | 56 | [Get Rhythm](https://open.spotify.com/track/1xKEI3TDR1NjJSgAlC384x) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Johnny Cash at Sun](https://open.spotify.com/album/2Uu2hccRmXc9NyUNzwRpXT) | 2:13 |
 | 57 | [That Ain't Nothin' but Right](https://open.spotify.com/track/3sMVMkzgfDTVxwIOe2Dodv) | [Mac Curtis](https://open.spotify.com/artist/4Ey70byCWxRScdGvCVgNJs) | [The Rollin' Rock Recordings, Vol\. 2](https://open.spotify.com/album/4rByIxbTk8ArEoS5kIqfS7) | 2:13 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUB167twpvS4.md) - [plain]
 | 62 | [One Hand Loose](https://open.spotify.com/track/1uYlKhktrgikytcB1UQZYs) | [Charlie Feathers](https://open.spotify.com/artist/2EcNV0nlF6f6ZDtJJG2vKN) | [His Complete King Recordings](https://open.spotify.com/album/15IZgzHg7L0LNSglHIC3tC) | 2:24 |
 | 63 | [Home of the Blues](https://open.spotify.com/track/5E2Qj36FIrvGtOUl7XGBAe) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Johnny Cash at Sun](https://open.spotify.com/album/2Uu2hccRmXc9NyUNzwRpXT) | 2:38 |
 
-Snapshot ID: `MTYwMjQzNzcwNiwwMDAwMDAwMDMzYzUzOGY0ZmU5NGUyMGJhYzZlMzMxYTQ2MDhlYzQ4`
+Snapshot ID: `MTYwMjQzNzcwNiwwMDAwMDAwMDg3MDFiNDdlMzEwNzIzNTNhYTYyZGZlOTFjYjNhMzcz`

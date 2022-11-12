@@ -458,6 +458,28 @@
     },
     {
       "album": {
+        "name": "IAM ALFRED HEINRICHS feat. Haexxa",
+        "url": "https://open.spotify.com/album/1Cr9a95UD5guifadqpth5N"
+      },
+      "artists": [
+        {
+          "name": "Alfred Heinrichs",
+          "url": "https://open.spotify.com/artist/6kzCLJOC7MU8mAbhIJNpIo"
+        },
+        {
+          "name": "Haexxa",
+          "url": "https://open.spotify.com/artist/0GY1LiRaEjFG0n8rP8wvrC"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359816,
+      "name": "F\u00fcr die Seele feat. Haexxa",
+      "url": "https://open.spotify.com/track/2fKUMYknbSWF7WOKwMQUZE"
+    },
+    {
+      "album": {
         "name": "30 Years EP",
         "url": "https://open.spotify.com/album/7H8d96hgtZ7Q44M5ZtJMhZ"
       },
@@ -966,6 +988,28 @@
     },
     {
       "album": {
+        "name": "On The Verge",
+        "url": "https://open.spotify.com/album/2ItxgDNKdIqCuTDiDPr6ip"
+      },
+      "artists": [
+        {
+          "name": "DJ Lion",
+          "url": "https://open.spotify.com/artist/0ZwTI7HIWqX7mz1KwdZSoq"
+        },
+        {
+          "name": "Tony Mac",
+          "url": "https://open.spotify.com/artist/4WO5mje9DtK4ACbNOMvbb4"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203809,
+      "name": "On The Verge - Radio Mix",
+      "url": "https://open.spotify.com/track/4zsjBsKQEJhD0VivNDDXCq"
+    },
+    {
+      "album": {
         "name": "Patterns",
         "url": "https://open.spotify.com/album/2UxYojBKGpTT9IKmKL130T"
       },
@@ -1097,7 +1141,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 331680,
       "name": "Prerogative - Moritz Hofbauer Remix",
       "url": "https://open.spotify.com/track/2XMqyEFPsRxA53FO68Gnl9"
@@ -1195,7 +1239,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 483962,
       "name": "Shinsetsu",
       "url": "https://open.spotify.com/track/76aEsWbH7zSLICnB1YM049"
@@ -1235,7 +1279,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 379832,
       "name": "Since we met - Club Mix",
       "url": "https://open.spotify.com/track/37XgAvXPSzS8lKQkmYyI6b"
@@ -1296,6 +1340,28 @@
     },
     {
       "album": {
+        "name": "Something Half Way (feat. Ralf Hildenbeutel)",
+        "url": "https://open.spotify.com/album/6ArJtCbmaktBNpkHsIeAw5"
+      },
+      "artists": [
+        {
+          "name": "Chris Liebing",
+          "url": "https://open.spotify.com/artist/21444lX8gpmOX36icLmbFI"
+        },
+        {
+          "name": "Ralf Hildenbeutel",
+          "url": "https://open.spotify.com/artist/1cpiae3VUqBtLzkOSwycrf"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315297,
+      "name": "Something Half Way (feat. Ralf Hildenbeutel)",
+      "url": "https://open.spotify.com/track/1ALwn074NZpQ7LbEknYgJh"
+    },
+    {
+      "album": {
         "name": "Another Day",
         "url": "https://open.spotify.com/album/0vrJ2GjVQ9lavv0u74PHJn"
       },
@@ -1311,7 +1377,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 315297,
       "name": "Something Half Way (feat. Ralf Hildenbeutel)",
       "url": "https://open.spotify.com/track/4SKkLIyC381iLFbjt0dIWM"
@@ -1623,6 +1689,24 @@
       "duration_ms": 232200,
       "name": "Your Eyes",
       "url": "https://open.spotify.com/track/1CAaDJOqduOgx6CwazkMBH"
+    },
+    {
+      "album": {
+        "name": "Zeitgeist",
+        "url": "https://open.spotify.com/album/6opqQmqgQs8UNLeCQlSMPS"
+      },
+      "artists": [
+        {
+          "name": "Thomas Helmich",
+          "url": "https://open.spotify.com/artist/5TK5jKewjDuQuXXRAguEml"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155978,
+      "name": "Zeitgeist - Edit",
+      "url": "https://open.spotify.com/track/7DAaK0FTmMhFHPdaxaNxew"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWXjs5HmaJqaY"

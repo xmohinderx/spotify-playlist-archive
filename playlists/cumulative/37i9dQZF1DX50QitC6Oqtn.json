@@ -149,7 +149,7 @@
       ],
       "date_added": "2019-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2021-10-14",
+      "date_removed": null,
       "duration_ms": 211453,
       "name": "7 Minutes",
       "url": "https://open.spotify.com/track/2BkyYZmU4JuWW2sYi9EzpC"
@@ -391,7 +391,7 @@
       ],
       "date_added": "2021-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 269560,
       "name": "All of Me",
       "url": "https://open.spotify.com/track/3U4isOIWM3VvDubwSI3y7a"
@@ -427,7 +427,7 @@
       ],
       "date_added": "2019-07-29",
       "date_added_asterisk": true,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 164373,
       "name": "All These Years",
       "url": "https://open.spotify.com/track/4XLu3tTSZiPFVC9mmuR6Zp"
@@ -759,7 +759,7 @@
       ],
       "date_added": "2019-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 226646,
       "name": "Before I Lose My Mind - Stripped",
       "url": "https://open.spotify.com/track/2UTHTASTtmJXiBUmSIXERT"
@@ -1395,7 +1395,7 @@
       ],
       "date_added": "2019-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2021-10-16",
+      "date_removed": null,
       "duration_ms": 164129,
       "name": "Don't Let Me Down",
       "url": "https://open.spotify.com/track/4ks6j7JsfJorc1tb4THJo8"
@@ -1471,7 +1471,7 @@
       ],
       "date_added": "2019-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 194686,
       "name": "Easy",
       "url": "https://open.spotify.com/track/46D0hYb1B7qiU33VtXt21W"
@@ -2553,7 +2553,7 @@
       ],
       "date_added": "2021-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 251760,
       "name": "I Just Can't Stop Loving You (feat. Siedah Garrett) - 2012 Remaster",
       "url": "https://open.spotify.com/track/2fytePz8UsbUr8n33QBEcm"
@@ -2661,7 +2661,7 @@
       ],
       "date_added": "2021-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 259853,
       "name": "I Swear",
       "url": "https://open.spotify.com/track/4WUnM4KNZ0kjp0CUeoyOnS"
@@ -3211,7 +3211,7 @@
       ],
       "date_added": "2021-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 198101,
       "name": "Just You and I - Acoustic",
       "url": "https://open.spotify.com/track/1vkUmedJVhScV9MmRsLGSY"
@@ -3265,7 +3265,7 @@
       ],
       "date_added": "2021-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 208680,
       "name": "Kiss Me",
       "url": "https://open.spotify.com/track/754kgU5rWscRTfvlsuEwFp"
@@ -3643,6 +3643,24 @@
     {
       "album": {
         "name": "Echos",
+        "url": "https://open.spotify.com/album/6NEBdOy6auSHbdeC3jB4hQ"
+      },
+      "artists": [
+        {
+          "name": "Joshua Hyslop",
+          "url": "https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu"
+        }
+      ],
+      "date_added": "2021-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257972,
+      "name": "Long Way Down",
+      "url": "https://open.spotify.com/track/5sdliaZjk3rVGuT13UVhxn"
+    },
+    {
+      "album": {
+        "name": "Echos",
         "url": "https://open.spotify.com/album/5IxfsBZbu9tnPQRgTjwOyc"
       },
       "artists": [
@@ -3689,7 +3707,7 @@
       ],
       "date_added": "2021-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 206458,
       "name": "Lose You To Love Me",
       "url": "https://open.spotify.com/track/4l0Mvzj72xxOpRrp6h8nHi"
@@ -3769,7 +3787,7 @@
       ],
       "date_added": "2021-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 225853,
       "name": "Lost Without You",
       "url": "https://open.spotify.com/track/3cWI6Hj9LQ0MfMuhw9uSMc"
@@ -4153,7 +4171,7 @@
       ],
       "date_added": "2021-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 205453,
       "name": "Marry Me",
       "url": "https://open.spotify.com/track/2MWOqewf5j0qf2b6S5J6cS"
@@ -5223,7 +5241,7 @@
       ],
       "date_added": "2020-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 130545,
       "name": "Renee's Song",
       "url": "https://open.spotify.com/track/13iMiwdY7pgE1f7NwYKr1D"
@@ -5643,7 +5661,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2021-05-24",
+      "date_removed": null,
       "duration_ms": 183874,
       "name": "six thirty",
       "url": "https://open.spotify.com/track/2IKJtXeR5UsaUjZB46fTOK"
@@ -6071,7 +6089,7 @@
       ],
       "date_added": "2021-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 206045,
       "name": "Stay Next To Me (with Chelsea Cutler)",
       "url": "https://open.spotify.com/track/7kTlHVCARylJAqm40yVoWE"
@@ -6439,7 +6457,7 @@
       ],
       "date_added": "2020-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 162726,
       "name": "The Way I Love You",
       "url": "https://open.spotify.com/track/3XV5r1cMB2AlD2ir0v6mfm"
@@ -6721,7 +6739,7 @@
       ],
       "date_added": "2021-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 201000,
       "name": "Too Good At Goodbyes",
       "url": "https://open.spotify.com/track/3VlbOrM6nYPprVvzBZllE5"
@@ -7004,6 +7022,24 @@
     },
     {
       "album": {
+        "name": "Village",
+        "url": "https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "date_added": "2021-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233160,
+      "name": "Unknown (To You)",
+      "url": "https://open.spotify.com/track/4jDDaKTqcZQWvgubuW6N7l"
+    },
+    {
+      "album": {
         "name": "Unknown (To You)",
         "url": "https://open.spotify.com/album/2PLadRmzcbUNcyEWoyZwdF"
       },
@@ -7272,6 +7308,24 @@
     },
     {
       "album": {
+        "name": "Heaven in a World so Cold",
+        "url": "https://open.spotify.com/album/6Mu28q2JNIpShD39DO2coj"
+      },
+      "artists": [
+        {
+          "name": "Tom Gregory",
+          "url": "https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu"
+        }
+      ],
+      "date_added": "2021-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194286,
+      "name": "What Love Is",
+      "url": "https://open.spotify.com/track/7x2fnP5eaWfb3izrpm0U6u"
+    },
+    {
+      "album": {
         "name": "What Would You Do for Love?",
         "url": "https://open.spotify.com/album/4b8s0d8kxJVhKtlTcdNmN9"
       },
@@ -7463,7 +7517,7 @@
       ],
       "date_added": "2021-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 295515,
       "name": "With Or Without You - Remastered",
       "url": "https://open.spotify.com/track/6ADSaE87h8Y3lccZlBJdXH"

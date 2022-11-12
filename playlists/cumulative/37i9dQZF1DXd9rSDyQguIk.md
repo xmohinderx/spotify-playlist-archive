@@ -4,7 +4,7 @@
 
 > Nothing but classic blues tracks
 
-97 songs - 6 hr 31 min - [published](https://open.spotify.com/playlist/25kgjWOtno43YyLeVznhiH)
+99 songs - 6 hr 40 min - [published](https://open.spotify.com/playlist/25kgjWOtno43YyLeVznhiH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Call It Stormy Monday \(But Tuesday Is Just As Bad\)](https://open.spotify.com/track/2N3ppRkdOeZ75RwEqSz7nu) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [The Complete Capitol / Black & White Recordings](https://open.spotify.com/album/2HtbNXkeoKEuCyBImiyb2c) | 3:03 | 2018-03-29 | 2022-07-29 |
 | [Chains And Things](https://open.spotify.com/track/5x7Oxaa9EEIx9nw17CC5yW) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Indianola Mississippi Seeds](https://open.spotify.com/album/1NgGj5ECcDELHjoQRX2P1l) | 4:53 | 2020-01-15 |  |
 | [Cold, Cold Feeling](https://open.spotify.com/track/6kucNn22HB0qb2ZPa1BrNl) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Ice Pickin'](https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab) | 5:18 | 2018-03-29 | 2022-11-11 |
+| [Cold, Cold Feeling](https://open.spotify.com/track/6EYGWDNSuWJ6aY80DyvwfA) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Electric Blues: 1980s](https://open.spotify.com/album/0XFcb1A8zHeIPohzMh3tLz) | 5:19 | 2018-03-29 |  |
 | [Cold, Cold Feeling](https://open.spotify.com/track/7sheAObhEOIqDY8YFu3HJf) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Ice Pickin'](https://open.spotify.com/album/5iFF3KWzukkaBLA6bDGoGw) | 5:19 | 2018-03-29 | 2022-07-29 |
 | [Crosscut Saw \- Mono Mix](https://open.spotify.com/track/0WvSYVnEXD7QLa5pDJ920S) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o) | [Born Under A Bad Sign \(Mono\)](https://open.spotify.com/album/0Ez9S8Dhzr1fa6ZCkcIJiR) | 2:36 | 2020-01-15 |  |
 | [Crossroads \- Live](https://open.spotify.com/track/1sxtxIKhRiQwuGpUwHoEHq) | [Cream](https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw) | [The Cream Of Clapton](https://open.spotify.com/album/64hcdH7h8noDQg9Zr5COkc) | 4:15 | 2018-03-29 |  |
@@ -54,6 +55,7 @@
 | [I'm A King Bee](https://open.spotify.com/track/2uDIGXUD5hLdM7wzyl1PaR) | [Slim Harpo](https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ) | [Best Of Slim Harpo](https://open.spotify.com/album/3odCmJBI5buTzwvQHi53MF) | 3:03 | 2020-01-15 |  |
 | [I'm A Man](https://open.spotify.com/track/51tJjIf9azRnA6om4BcfNm) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq) | [Bo Diddley](https://open.spotify.com/album/6ZM2GOoGAbRZAssx5Lspmu) | 2:44 | 2018-03-29 | 2022-07-29 |
 | [I'm A Man](https://open.spotify.com/track/760clbeDBWmBsBLbszWuNZ) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq) | [Bo Diddley](https://open.spotify.com/album/1cbtDEwxCjMhglb49OgNBR) | 2:44 | 2018-03-29 | 2022-11-11 |
+| [I'm A Man \- Single Version](https://open.spotify.com/track/0zN29YHQSZz1WbyA3DAOrq) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq) | [Electric Blues](https://open.spotify.com/album/7MtqlIFHBn8g0KhzMNASay) | 3:02 | 2018-03-29 |  |
 | [I'm A Woman \- Remastered](https://open.spotify.com/track/01noJYGB8kT65mi8Pc2Ola) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [Alligator Records 50 Years Of Genuine Houserockin' Music](https://open.spotify.com/album/30aecilbP86mA0dVdWcFp0) | 4:34 | 2021-06-18 |  |
 | [I'm Tore Down](https://open.spotify.com/track/2Qj1FilGsXITZbFVmVeoLy) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Getting Ready..\. \(World\)](https://open.spotify.com/album/2bNjljctm6ynfp9Xzdy7RI) | 4:13 | 2020-01-15 |  |
 | [Inflation](https://open.spotify.com/track/0PUWmPna5P0hKtSwXWin9o) | [Earnest Jackson](https://open.spotify.com/artist/5pXRWt2xs9uVuBO2n49jrm), [Sugar Daddy and the Gumbo Roux](https://open.spotify.com/artist/17P966QkX81svuN6uqOjj6) | [Inflation](https://open.spotify.com/album/0AOkZiHga3bBuhdabrVgyD) | 3:19 | 2022-11-03 |  |
@@ -83,10 +85,10 @@
 | [Should I Wait](https://open.spotify.com/track/44s75M70lhq25s3CiW0pxq) | [Luther Allison](https://open.spotify.com/artist/7EynH3keqfKUmauyaeZoxv) | [The Alligator Records Years](https://open.spotify.com/album/6WoAPqWPiXFo21VxGybHvJ) | 5:04 | 2020-01-15 |  |
 | [Smokestack Lightnin'](https://open.spotify.com/track/2HUZVffVPXvqnrml0gXggp) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Moanin' In The Moonlight](https://open.spotify.com/album/76MT4lqzC1oSvSYnHHjMam) | 3:08 | 2018-03-29 | 2022-11-11 |
 | [Smokestack Lightnin'](https://open.spotify.com/track/35ydSuNJn9z4eTjhWp2xUJ) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Moanin' In The Moonlight](https://open.spotify.com/album/7yf03jHwu4ony0nlnNOIPS) | 3:08 | 2018-03-29 | 2022-07-29 |
-| [Somebody Loan Me A Dime](https://open.spotify.com/track/35X1ucjCm7rHK80qJ413ci) | [Fenton Robinson](https://open.spotify.com/artist/5WFeN8vtX0TYqv0IYVbWZT) | [Somebody Loan Me A Dime](https://open.spotify.com/album/5SynQAltvwPyTbz3m8axVl) | 2:59 | 2018-03-29 |  |
+| [Somebody Loan Me A Dime](https://open.spotify.com/track/35X1ucjCm7rHK80qJ413ci) | [Fenton Robinson](https://open.spotify.com/artist/5WFeN8vtX0TYqv0IYVbWZT) | [Somebody Loan Me A Dime](https://open.spotify.com/album/5SynQAltvwPyTbz3m8axVl) | 2:59 | 2018-03-29 | 2022-11-12 |
 | [Somebody Loan Me A Dime](https://open.spotify.com/track/71zy5nvPveBvRVhR5IduJW) | [Fenton Robinson](https://open.spotify.com/artist/5WFeN8vtX0TYqv0IYVbWZT) | [Somebody Loan Me A Dime](https://open.spotify.com/album/7axF99v0pP2oBj5RxAWgrv) | 2:59 | 2018-03-29 | 2022-07-29 |
 | [Stone Crazy](https://open.spotify.com/track/5goa9CsIDXc9G0Df9dL9ft) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [I Was Walking Through The Woods \(Expanded Edition\)](https://open.spotify.com/album/0eE5l0Q2pRLlKsrt7sOEPk) | 7:11 | 2020-01-15 | 2022-11-11 |
-| [Stone Crazy](https://open.spotify.com/track/0hORgg6aV6GgDn5VQfZpcl) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [20th Century Masters: The Millennium Collection: Best of Buddy Guy](https://open.spotify.com/album/3iXDIrZsFitJCltwmfkrks) | 7:13 | 2020-01-15 |  |
+| [Stone Crazy](https://open.spotify.com/track/0hORgg6aV6GgDn5VQfZpcl) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [20th Century Masters: The Millennium Collection: Best of Buddy Guy](https://open.spotify.com/album/3iXDIrZsFitJCltwmfkrks) | 7:13 | 2020-01-15 | 2022-11-12 |
 | [Stone Crazy](https://open.spotify.com/track/3FVpPBl3Jbd5TRLUFZamO9) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [I Was Walkin' Through The Woods](https://open.spotify.com/album/3zAWUcaE9lzjf5qWcNqJlk) | 7:14 | 2020-01-15 | 2022-07-29 |
 | [Stumble](https://open.spotify.com/track/0RTjFVHvqjTdpX2NawwyXI) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [My Feeling For the Blues](https://open.spotify.com/album/1Usun6ssY8Yq6GqRKWsSFz) | 3:36 | 2018-03-29 |  |
 | [T\-Bone Shuffle](https://open.spotify.com/track/1HRx7dciQYCv76XvbBDAGM) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Deluxe Edition](https://open.spotify.com/album/3MSyCHOkBoZQT2byE3vprN) | 4:55 | 2020-01-15 |  |

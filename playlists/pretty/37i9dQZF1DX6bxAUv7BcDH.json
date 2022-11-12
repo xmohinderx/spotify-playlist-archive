@@ -1,29 +1,13 @@
 {
   "description": "Song of the Year winners from 1959-2021. How many do you know? #SpotifyTBT",
-  "num_followers": 26627,
+  "num_followers": 26625,
   "original_name": "#SpotifyTBT: Song of the Year",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDk4OTg2MSwwMDAwMDAwMDAxOGM1NzQ2YWFmYzY0YTMzZDY5OWI3MmNjNTkyMmUx",
+  "snapshot_id": "MTY0NDk4OTg2MSwwMDAwMDAwMDNiZjg2NWEyZDhkZjRhZmQ2YjZkNWQxOGI5ODE0NDY3",
   "tracks": [
-    {
-      "added_at": "2022-02-16 05:37:41",
-      "album": {
-        "name": "Synchronicity (Remastered 2003)",
-        "url": "https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY"
-      },
-      "artists": [
-        {
-          "name": "The Police",
-          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
-        }
-      ],
-      "duration_ms": 253920,
-      "name": "Every Breath You Take",
-      "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
-    },
     {
       "added_at": "2022-02-16 05:37:41",
       "album": {
@@ -403,22 +387,6 @@
     {
       "added_at": "2022-02-16 05:37:41",
       "album": {
-        "name": "Need You Now",
-        "url": "https://open.spotify.com/album/4oT0DxRmc0jr7DCKultQqh"
-      },
-      "artists": [
-        {
-          "name": "Lady A",
-          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
-        }
-      ],
-      "duration_ms": 236440,
-      "name": "Need You Now",
-      "url": "https://open.spotify.com/track/7h70RTLbnhDyPGXjl3iEhh"
-    },
-    {
-      "added_at": "2022-02-16 05:37:41",
-      "album": {
         "name": "All That You Can't Leave Behind",
         "url": "https://open.spotify.com/album/7gskILm9UyDvFlmmAoqn2g"
       },
@@ -431,22 +399,6 @@
       "duration_ms": 246400,
       "name": "Beautiful Day",
       "url": "https://open.spotify.com/track/1VuBmEauSZywQVtqbxNqka"
-    },
-    {
-      "added_at": "2022-02-16 05:37:41",
-      "album": {
-        "name": "Always On My Mind",
-        "url": "https://open.spotify.com/album/5lSPP40Df9t2nkusLZtXTb"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 212666,
-      "name": "Always on My Mind",
-      "url": "https://open.spotify.com/track/2xYQTU2bbg6WVAmpY1eae4"
     },
     {
       "added_at": "2022-02-16 05:37:41",
@@ -467,6 +419,22 @@
       "duration_ms": 243493,
       "name": "A Whole New World (Aladdin's Theme)",
       "url": "https://open.spotify.com/track/4tS8xQfyPGc7f4lJ1JP6BX"
+    },
+    {
+      "added_at": "2022-02-16 05:37:41",
+      "album": {
+        "name": "Always On My Mind",
+        "url": "https://open.spotify.com/album/5lSPP40Df9t2nkusLZtXTb"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 212666,
+      "name": "Always on My Mind",
+      "url": "https://open.spotify.com/track/2xYQTU2bbg6WVAmpY1eae4"
     },
     {
       "added_at": "2022-02-16 05:37:41",
@@ -567,22 +535,6 @@
     {
       "added_at": "2022-02-16 05:37:41",
       "album": {
-        "name": "Simply the Best",
-        "url": "https://open.spotify.com/album/1ZFC0iOKUp4M16eHXVaeG4"
-      },
-      "artists": [
-        {
-          "name": "Tina Turner",
-          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
-        }
-      ],
-      "duration_ms": 226880,
-      "name": "What's Love Got to Do with It",
-      "url": "https://open.spotify.com/track/6FcQD1qOpqV8NdhY45sKyI"
-    },
-    {
-      "added_at": "2022-02-16 05:37:41",
-      "album": {
         "name": "How To Dismantle An Atomic Bomb",
         "url": "https://open.spotify.com/album/5PQPur1PEZFDkI0AXbxFlB"
       },
@@ -595,6 +547,22 @@
       "duration_ms": 305080,
       "name": "Sometimes You Can't Make It On Your Own",
       "url": "https://open.spotify.com/track/6fzcnVO0X2cpYjsHk19GJo"
+    },
+    {
+      "added_at": "2022-02-16 05:37:41",
+      "album": {
+        "name": "Simply the Best",
+        "url": "https://open.spotify.com/album/1ZFC0iOKUp4M16eHXVaeG4"
+      },
+      "artists": [
+        {
+          "name": "Tina Turner",
+          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
+        }
+      ],
+      "duration_ms": 226880,
+      "name": "What's Love Got to Do with It",
+      "url": "https://open.spotify.com/track/6FcQD1qOpqV8NdhY45sKyI"
     },
     {
       "added_at": "2022-02-16 05:37:41",
@@ -647,26 +615,6 @@
     {
       "added_at": "2022-02-16 05:37:41",
       "album": {
-        "name": "An American Tail",
-        "url": "https://open.spotify.com/album/3LcVWwdCl71oSq9MPEAjh9"
-      },
-      "artists": [
-        {
-          "name": "Linda Ronstadt",
-          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
-        },
-        {
-          "name": "James Ingram",
-          "url": "https://open.spotify.com/artist/5bTTx0CRvZj1kRJwUsWWYo"
-        }
-      ],
-      "duration_ms": 238173,
-      "name": "Somewhere Out There - From \"An American Tail\" Soundtrack",
-      "url": "https://open.spotify.com/track/6Zd6gSMyyjSybIw4lK9Ecy"
-    },
-    {
-      "added_at": "2022-02-16 05:37:41",
-      "album": {
         "name": "A Star Is Born",
         "url": "https://open.spotify.com/album/435mubtZvkoTYIPXWy3seP"
       },
@@ -699,6 +647,26 @@
     {
       "added_at": "2022-02-16 05:37:41",
       "album": {
+        "name": "An American Tail",
+        "url": "https://open.spotify.com/album/3LcVWwdCl71oSq9MPEAjh9"
+      },
+      "artists": [
+        {
+          "name": "Linda Ronstadt",
+          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
+        },
+        {
+          "name": "James Ingram",
+          "url": "https://open.spotify.com/artist/5bTTx0CRvZj1kRJwUsWWYo"
+        }
+      ],
+      "duration_ms": 238173,
+      "name": "Somewhere Out There - From \"An American Tail\" Soundtrack",
+      "url": "https://open.spotify.com/track/6Zd6gSMyyjSybIw4lK9Ecy"
+    },
+    {
+      "added_at": "2022-02-16 05:37:41",
+      "album": {
         "name": "Introspect (Bonus Track Version)",
         "url": "https://open.spotify.com/album/0efmkx26DQ4OSiPCdKsQgB"
       },
@@ -715,6 +683,54 @@
     {
       "added_at": "2022-02-16 05:37:41",
       "album": {
+        "name": "Experience The Divine (Greatest Hits)",
+        "url": "https://open.spotify.com/album/0pVxC28TGjIk0SEqm7wUCD"
+      },
+      "artists": [
+        {
+          "name": "Bette Midler",
+          "url": "https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W"
+        }
+      ],
+      "duration_ms": 293853,
+      "name": "Wind Beneath My Wings",
+      "url": "https://open.spotify.com/track/4ErUhFToT1yX52MeHqH8OY"
+    },
+    {
+      "added_at": "2022-02-16 05:37:41",
+      "album": {
+        "name": "Rolling in the Deep",
+        "url": "https://open.spotify.com/album/636ekSSKYrhxvQEHCY07jv"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 228093,
+      "name": "Rolling in the Deep",
+      "url": "https://open.spotify.com/track/3GkqnS8Lt8LDZV565ITUwh"
+    },
+    {
+      "added_at": "2022-02-16 05:37:41",
+      "album": {
+        "name": "Capodanno 80's Party",
+        "url": "https://open.spotify.com/album/0RC9BkBImV6IAL5942zXHv"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "duration_ms": 251760,
+      "name": "Every Breath You Take",
+      "url": "https://open.spotify.com/track/3q6iKaLcyppKggDzS9RucN"
+    },
+    {
+      "added_at": "2022-02-16 05:37:41",
+      "album": {
         "name": "I Can't Breathe",
         "url": "https://open.spotify.com/album/2izdMqMVUz0VSg2jTZIdU5"
       },
@@ -727,6 +743,22 @@
       "duration_ms": 287321,
       "name": "I Can't Breathe",
       "url": "https://open.spotify.com/track/4CPszpSnlbgnQLIQYyzIR2"
+    },
+    {
+      "added_at": "2022-02-16 05:37:41",
+      "album": {
+        "name": "\u5c08\u6ce8\u7235\u9078 Jazz for Work & Study",
+        "url": "https://open.spotify.com/album/1gdOZL2MqhUTdiIfzoZ262"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 186160,
+      "name": "Don't Know Why",
+      "url": "https://open.spotify.com/track/7umEMqK5YuVk9mJ9fLzdUJ"
     },
     {
       "added_at": "2022-02-16 05:37:41",
@@ -751,6 +783,22 @@
     {
       "added_at": "2022-02-16 05:37:41",
       "album": {
+        "name": "Hello",
+        "url": "https://open.spotify.com/album/5givPbMFm0AMPUYWulmbzg"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 295502,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/3AuzZHPlohKLpildLyORSM"
+    },
+    {
+      "added_at": "2022-02-16 05:37:41",
+      "album": {
         "name": "The Greatest Songs Of The Seventies",
         "url": "https://open.spotify.com/album/29MkM2BlD2jnF6g8lcMDuP"
       },
@@ -767,18 +815,34 @@
     {
       "added_at": "2022-02-16 05:37:41",
       "album": {
-        "name": "Experience The Divine (Greatest Hits)",
-        "url": "https://open.spotify.com/album/0pVxC28TGjIk0SEqm7wUCD"
+        "name": "Unplugged (2013 Remaster)",
+        "url": "https://open.spotify.com/album/6zxsfP7TdXLAS9QEGNN0Uy"
       },
       "artists": [
         {
-          "name": "Bette Midler",
-          "url": "https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W"
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
         }
       ],
-      "duration_ms": 293853,
-      "name": "Wind Beneath My Wings",
-      "url": "https://open.spotify.com/track/4ErUhFToT1yX52MeHqH8OY"
+      "duration_ms": 280000,
+      "name": "Tears in Heaven - Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster",
+      "url": "https://open.spotify.com/track/7ocvm7wXghGVo7vIsCSjys"
+    },
+    {
+      "added_at": "2022-02-16 05:37:41",
+      "album": {
+        "name": "Titanic: Original Motion Picture Soundtrack - Collector's Anniversary Edition",
+        "url": "https://open.spotify.com/album/3XwgFTxiWxep4s1VjPEaHs"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 282733,
+      "name": "My Heart Will Go On (Dialogue Mix) - includes \"Titanic\" film dialogue",
+      "url": "https://open.spotify.com/track/4aId6eo2ChFruN91wIoP6N"
     },
     {
       "added_at": "2022-02-16 05:37:41",
@@ -827,22 +891,6 @@
     {
       "added_at": "2022-02-16 05:37:41",
       "album": {
-        "name": "Rolling in the Deep",
-        "url": "https://open.spotify.com/album/636ekSSKYrhxvQEHCY07jv"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 228093,
-      "name": "Rolling in the Deep",
-      "url": "https://open.spotify.com/track/3GkqnS8Lt8LDZV565ITUwh"
-    },
-    {
-      "added_at": "2022-02-16 05:37:41",
-      "album": {
         "name": "What Kind Of Fool Am I & Other Show Stoppers",
         "url": "https://open.spotify.com/album/52FNvUtEGZv8HoeT8V7E0H"
       },
@@ -855,22 +903,6 @@
       "duration_ms": 204026,
       "name": "What Kind of Fool Am I",
       "url": "https://open.spotify.com/track/2ChoPgCQ88DGEDFBwFgZlo"
-    },
-    {
-      "added_at": "2022-02-16 05:37:41",
-      "album": {
-        "name": "Titanic: Original Motion Picture Soundtrack - Collector's Anniversary Edition",
-        "url": "https://open.spotify.com/album/3XwgFTxiWxep4s1VjPEaHs"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 282733,
-      "name": "My Heart Will Go On (Dialogue Mix) - includes \"Titanic\" film dialogue",
-      "url": "https://open.spotify.com/track/4aId6eo2ChFruN91wIoP6N"
     },
     {
       "added_at": "2022-02-16 05:37:41",
@@ -891,6 +923,22 @@
     {
       "added_at": "2022-02-16 05:37:41",
       "album": {
+        "name": "Valentine's Day Mix",
+        "url": "https://open.spotify.com/album/482fSq2psOIUX9ixkKkp2q"
+      },
+      "artists": [
+        {
+          "name": "Lady A",
+          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
+        }
+      ],
+      "duration_ms": 234693,
+      "name": "Need You Now",
+      "url": "https://open.spotify.com/track/1RlOkYcd9n8S21bOFtcuiS"
+    },
+    {
+      "added_at": "2022-02-16 05:37:41",
+      "album": {
         "name": "Little Green Apples",
         "url": "https://open.spotify.com/album/2fzvQ7f72w3GjxKzi8Quax"
       },
@@ -903,22 +951,6 @@
       "duration_ms": 250593,
       "name": "Little Green Apples",
       "url": "https://open.spotify.com/track/40uG3QadBzPpToV2FbPtuF"
-    },
-    {
-      "added_at": "2022-02-16 05:37:41",
-      "album": {
-        "name": "Hello",
-        "url": "https://open.spotify.com/album/5givPbMFm0AMPUYWulmbzg"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 295502,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/3AuzZHPlohKLpildLyORSM"
     },
     {
       "added_at": "2022-02-16 05:37:41",
@@ -1003,22 +1035,6 @@
     {
       "added_at": "2022-02-16 05:37:41",
       "album": {
-        "name": "Theme of Exodus (From \"Exodus\" Soundtrack)",
-        "url": "https://open.spotify.com/album/5micc2oKvQQYFUlUcsVtF0"
-      },
-      "artists": [
-        {
-          "name": "Ernest Gold",
-          "url": "https://open.spotify.com/artist/41SzGMVZclC44YTVneXHlE"
-        }
-      ],
-      "duration_ms": 892203,
-      "name": "Theme of Exodus - From \"Exodus\" Soundtrack",
-      "url": "https://open.spotify.com/track/7A7Bak9REa9pRZzohssUPi"
-    },
-    {
-      "added_at": "2022-02-16 05:37:41",
-      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/6QgU0owjMoOcIJxCOyOnbP"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 146640,
       "name": "Hello, Dolly!",
       "url": "https://open.spotify.com/track/6p9hNGwxJpzWh5cCo3qY7Y"
-    },
-    {
-      "added_at": "2022-02-16 05:37:41",
-      "album": {
-        "name": "\u5c08\u6ce8\u7235\u9078 Jazz for Work & Study",
-        "url": "https://open.spotify.com/album/1gdOZL2MqhUTdiIfzoZ262"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 186160,
-      "name": "Don't Know Why",
-      "url": "https://open.spotify.com/track/7umEMqK5YuVk9mJ9fLzdUJ"
     }
   ],
   "unique_name": "#SpotifyTBT: Song of the Year",

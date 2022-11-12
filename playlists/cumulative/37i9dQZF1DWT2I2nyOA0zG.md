@@ -4,7 +4,7 @@
 
 > Cool vibes from the African continent.
 
-145 songs - 8 hr 19 min - [published](https://open.spotify.com/playlist/4TVTdhLbAi1cx5rQBb4HCt)
+146 songs - 8 hr 23 min - [published](https://open.spotify.com/playlist/4TVTdhLbAi1cx5rQBb4HCt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,8 @@
 | [Real Life \(feat\. Stormzy\)](https://open.spotify.com/track/2eFsasDs4w4YUHBvaKyNNZ) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Twice As Tall](https://open.spotify.com/album/2pANu4qucnliJuRR94eZSV) | 3:17 | 2021-10-11 | 2022-07-29 |
 | [Real Life \(feat\. Stormzy\)](https://open.spotify.com/track/3qvZW1bLvAsJIUhYcuvf4F) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Twice As Tall](https://open.spotify.com/album/218CJKDCszsQQj7Amk7vIu) | 3:17 | 2021-10-11 | 2022-11-11 |
 | [Right Here](https://open.spotify.com/track/1pNiF9HF0G6IvvieIVplAF) | [Blaq Jerzee](https://open.spotify.com/artist/4on7a4BKixLl1rSlEcaY8Y), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Right Here](https://open.spotify.com/album/1DQOERqHos96P7hL1a2sCx) | 3:32 | 2021-11-11 |  |
-| [Rora](https://open.spotify.com/track/0s3NyWRBLiqsj1tfTidSpU) | [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [Rora](https://open.spotify.com/album/1YoKg4rLeRUTxjs9jyYk3u) | 3:51 | 2021-10-11 |  |
+| [Rora](https://open.spotify.com/track/0s3NyWRBLiqsj1tfTidSpU) | [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [Rora](https://open.spotify.com/album/1YoKg4rLeRUTxjs9jyYk3u) | 3:51 | 2021-10-11 | 2022-11-12 |
+| [Rora](https://open.spotify.com/track/2FV6MJfO24fmG7aRMTleX7) | [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [Rora](https://open.spotify.com/album/0qMcStot5HcnmYNCB2DKUT) | 3:51 | 2021-10-11 |  |
 | [Rora](https://open.spotify.com/track/3FoiZ0cJwgfqY9xKHdVSnT) | [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [Rora](https://open.spotify.com/album/7lQwqjZihf3rb4ygUgs87p) | 3:51 | 2021-10-11 | 2022-07-29 |
 | [SABABISHA](https://open.spotify.com/track/0CEI8Si1kO0UwxhFSCSiBZ) | [Savara](https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap) | [SAVAGE LEVEL](https://open.spotify.com/album/4PsVnXWUWZxtGddkxSX110) | 4:00 | 2022-02-24 |  |
 | [safe haven](https://open.spotify.com/track/1LObw2njH6cvdGutpDlP6e) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/47FGKv6DgcDj9YwvoQuTMN) | 2:49 | 2022-07-14 | 2022-07-29 |

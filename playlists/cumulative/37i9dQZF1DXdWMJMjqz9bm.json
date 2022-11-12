@@ -340,6 +340,24 @@
     },
     {
       "album": {
+        "name": "All I Never Wanted",
+        "url": "https://open.spotify.com/album/71BkhJrPstzBgz6So9c2sj"
+      },
+      "artists": [
+        {
+          "name": "Zzz.",
+          "url": "https://open.spotify.com/artist/5ZdULxhIJLbR5bhCzcPTbu"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125257,
+      "name": "All I Never Wanted",
+      "url": "https://open.spotify.com/track/202yaLntC4WM5V7odMhg9z"
+    },
+    {
+      "album": {
         "name": "All My Friends",
         "url": "https://open.spotify.com/album/65BKyryV2LnEfrVMlaYJjZ"
       },
@@ -593,6 +611,24 @@
       "duration_ms": 108800,
       "name": "Bad Day",
       "url": "https://open.spotify.com/track/3wA4ronkc8ZcPXUP0fDgYA"
+    },
+    {
+      "album": {
+        "name": "Bad Radio",
+        "url": "https://open.spotify.com/album/5gBYh1jnNWoFwhG7mOnyO4"
+      },
+      "artists": [
+        {
+          "name": "Felly",
+          "url": "https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185317,
+      "name": "Bad Radio",
+      "url": "https://open.spotify.com/track/7x20NaE8JcByOp09Y4Ir7K"
     },
     {
       "album": {
@@ -1042,6 +1078,24 @@
     },
     {
       "album": {
+        "name": "Return To Sender",
+        "url": "https://open.spotify.com/album/3jOzdF8WPsqwUp9OznStfw"
+      },
+      "artists": [
+        {
+          "name": "KAIRO",
+          "url": "https://open.spotify.com/artist/74fcIBekHLf4hucCT3My0v"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196497,
+      "name": "Brokenhearted",
+      "url": "https://open.spotify.com/track/3dsdUkF3ms4ORWKtEvNLEp"
+    },
+    {
+      "album": {
         "name": "Brokenhearted / Ready",
         "url": "https://open.spotify.com/album/2UUiCulADu8RPldHHm6icj"
       },
@@ -1053,7 +1107,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 196497,
       "name": "Brokenhearted",
       "url": "https://open.spotify.com/track/48CPdX34zpCEvlJoALYvhO"
@@ -1903,6 +1957,24 @@
       "duration_ms": 197307,
       "name": "Do It Over",
       "url": "https://open.spotify.com/track/2lEGr8w1XYJ2cyRoKrGui7"
+    },
+    {
+      "album": {
+        "name": "Don't Matter",
+        "url": "https://open.spotify.com/album/2ZgpmixiU543Vpseg7s04E"
+      },
+      "artists": [
+        {
+          "name": "Kid Travis",
+          "url": "https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146823,
+      "name": "Don't Matter",
+      "url": "https://open.spotify.com/track/3lbHMI0nkBhZPnbb4jnzhK"
     },
     {
       "album": {
@@ -2968,6 +3040,24 @@
     },
     {
       "album": {
+        "name": "Hachiko",
+        "url": "https://open.spotify.com/album/3tO1iMKFjUYG3SW2bhf3Ce"
+      },
+      "artists": [
+        {
+          "name": "Nathan Day",
+          "url": "https://open.spotify.com/artist/3kEC0PwfYf8pGHiKFQk8OX"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174652,
+      "name": "Hachiko",
+      "url": "https://open.spotify.com/track/0QXQCwvUmUSB36N2j1cgM3"
+    },
+    {
+      "album": {
         "name": "Hands On You",
         "url": "https://open.spotify.com/album/7AwODiyS5ghh0uhXt4v2tj"
       },
@@ -3489,7 +3579,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 125302,
       "name": "I WANNA SEE SOME ASS (feat. jetsonmade)",
       "url": "https://open.spotify.com/track/2aWVaW1p2kUc5yuKwBmRJi"
@@ -4694,6 +4784,28 @@
     },
     {
       "album": {
+        "name": "Ms. Poli Sci",
+        "url": "https://open.spotify.com/album/7qypqH6zU0ZowehywC9395"
+      },
+      "artists": [
+        {
+          "name": "Paul Russell",
+          "url": "https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8"
+        },
+        {
+          "name": "Khary",
+          "url": "https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128703,
+      "name": "Ms. Poli Sci",
+      "url": "https://open.spotify.com/track/3imYkN34og7muZbkSZWLUW"
+    },
+    {
+      "album": {
         "name": "Artist",
         "url": "https://open.spotify.com/album/2OQEAqShAl6SodrGhmYZ4Z"
       },
@@ -5659,7 +5771,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 180333,
       "name": "Random",
       "url": "https://open.spotify.com/track/422lAAWQO9TqL1LxIPdhOn"
@@ -6053,7 +6165,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 151053,
       "name": "same squad",
       "url": "https://open.spotify.com/track/0YCl0i8CTDqtISiphhLIE8"
@@ -6469,7 +6581,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 199921,
       "name": "Splash",
       "url": "https://open.spotify.com/track/56K7o58HvDoJW9ABFhJrmR"

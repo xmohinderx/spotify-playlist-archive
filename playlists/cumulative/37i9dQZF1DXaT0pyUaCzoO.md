@@ -4,7 +4,7 @@
 
 > Songs of pride and empowerment to enjoy with little listeners\. Cover: That Girl Lay Lay.
 
-78 songs - 4 hr 53 min - [published](https://open.spotify.com/playlist/3JwO20WCBpROR5efKEjH1t)
+79 songs - 4 hr 56 min - [published](https://open.spotify.com/playlist/3JwO20WCBpROR5efKEjH1t)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,8 +36,9 @@
 | [Get Up, Stand Up](https://open.spotify.com/track/25ugoarRZ6IaZegrjNxGOx) | [The Wailers](https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE) | [Burnin' \(Deluxe Edition\)](https://open.spotify.com/album/5EZMcYc3xK0rlru83kHpUe) | 3:17 | 2020-07-06 |  |
 | [Glory \(From the Motion Picture Selma\)](https://open.spotify.com/track/2fmqPLRFdJNPhLU3b2NSFp) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Glory \(From the Motion Picture Selma\)](https://open.spotify.com/album/3cZ3dS7ogHb55sWjVzaBnx) | 4:32 | 2020-07-06 |  |
 | [Go 100](https://open.spotify.com/track/0St5kKQi6fa690c2L88kQi) | [Uncle Jumbo](https://open.spotify.com/artist/7aV5KB8LdwHDrpgVb3GfAI) | [All One Tribe](https://open.spotify.com/album/1EEVSonqRIjEB0DapNIRs8) | 2:59 | 2021-06-18 |  |
-| [Good Day for a Good Day](https://open.spotify.com/track/0WZ5paMR4zJAdjkBgCVAYN) | [Michael Franti & Spearhead](https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB) | [Follow Your Heart](https://open.spotify.com/album/5ASwxssTkz7SW7WdaGviYR) | 3:10 | 2021-08-20 |  |
+| [Good Day for a Good Day](https://open.spotify.com/track/0WZ5paMR4zJAdjkBgCVAYN) | [Michael Franti & Spearhead](https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB) | [Follow Your Heart](https://open.spotify.com/album/5ASwxssTkz7SW7WdaGviYR) | 3:10 | 2021-08-20 | 2022-11-12 |
 | [Good Day for a Good Day](https://open.spotify.com/track/4lmF7TNUOd5xpnGQoLgQG5) | [Michael Franti & Spearhead](https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB) | [Good Day for a Good Day \(Acoustic\)](https://open.spotify.com/album/7cTvygp5X7cEbrsAph8ZMU) | 3:10 | 2021-08-20 | 2022-07-29 |
+| [Good Day for a Good Day](https://open.spotify.com/track/56iuE0GygnsfkUcv6P3Fsz) | [Michael Franti & Spearhead](https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB) | [No Makeup](https://open.spotify.com/album/4qpnk40ignX6Ue2dnFRiCL) | 3:10 | 2021-08-20 |  |
 | [I am the Future of Black History](https://open.spotify.com/track/4whVnf02gWhhReYvynd0DX) | [Culture Queen](https://open.spotify.com/artist/4IfGc40LRbnwom32WYBhJs) | [All One Tribe](https://open.spotify.com/album/1EEVSonqRIjEB0DapNIRs8) | 2:46 | 2021-06-18 |  |
 | [I Am the Future of Black History](https://open.spotify.com/track/5zhJZXWlXeQBgh93CONXqu) | [Culture Queen](https://open.spotify.com/artist/4IfGc40LRbnwom32WYBhJs) | [I Like the Me I See!](https://open.spotify.com/album/5gptuEMTs3RzCeWYvWEyiO) | 2:47 | 2020-07-06 |  |
 | [I Believe](https://open.spotify.com/track/3MhVjR2dL3FazpkO8HC981) | [Shine & The Moonbeams](https://open.spotify.com/artist/3113UIzVXpx1FROG4LCgDo) | [All One Tribe](https://open.spotify.com/album/1EEVSonqRIjEB0DapNIRs8) | 3:13 | 2021-06-18 |  |

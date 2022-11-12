@@ -4,7 +4,7 @@
 
 > A mix of new songs and beloved classics from your favorite Contemporary Christian artists!
 
-268 songs - 16 hr 53 min - [published](https://open.spotify.com/playlist/3VKHSaQTSqffmNpvFkOoqw)
+269 songs - 16 hr 57 min - [published](https://open.spotify.com/playlist/3VKHSaQTSqffmNpvFkOoqw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Forever Evergreen \(Here in the Winter\)](https://open.spotify.com/track/0GHZixuBIWMWUsED3IaXSR) | [Hannah Kerr](https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq) | [Forever Evergreen \(Here in the Winter\)](https://open.spotify.com/album/0O4AM6bSfFzUPpNOrHi5Zf) | 4:12 | 2021-12-24 | 2022-07-29 |
 | [From Heaven To Earth \(Joy To The World\)](https://open.spotify.com/track/0PrGjIdocNthK35qFKShB4) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd) | [God With Us](https://open.spotify.com/album/5mOQwwrpwCqlkFIMpuPVcX) | 3:48 | 2021-12-24 | 2022-07-24 |
 | [Gloria](https://open.spotify.com/track/2ky0xG7fajmQBSfxoyVlMF) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [The Christmas Sessions](https://open.spotify.com/album/4Y7m2tcSdLbnw0KKolFZg3) | 4:12 | 2021-12-24 | 2022-07-20 |
+| [Gloria](https://open.spotify.com/track/4hEybo6zpRz7Tffjfln4xA) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [The Christmas Sessions](https://open.spotify.com/album/5ekIltuFIN3m09eOBSWpF3) | 4:13 | 2021-12-24 |  |
 | [Glory \(Let There Be Peace\)](https://open.spotify.com/track/6lJHZvzfzUEwnaaAySLD77) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [The Advent of Christmas](https://open.spotify.com/album/3hLsHSAlDv2bJFXKyf8Rjg) | 3:35 | 2021-12-24 | 2022-07-22 |
 | [Glory Born](https://open.spotify.com/track/6cRyGFZQz9omLVKIlzZdUc) | [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1), [Heath Balltzglier](https://open.spotify.com/artist/3GB2s5tExZuuqiaWGRPM4M) | [Ring The Bells](https://open.spotify.com/album/7g3xFxJHim7tERwKYR2wU7) | 3:18 | 2021-12-24 | 2022-07-26 |
 | [Glory In The Highest](https://open.spotify.com/track/2U8ktRTW0SpL7GS994KNQE) | [Meredith Andrews](https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY) | [Receive Our King](https://open.spotify.com/album/37RG4Ybo9LMPZ8pArKkzYy) | 4:51 | 2021-12-24 | 2022-07-28 |
@@ -116,7 +117,7 @@
 | [Heart and Soul of Christmas](https://open.spotify.com/track/1CSqOw750PcDxoFXv86S0L) | [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97) | [Heart and Soul of Christmas](https://open.spotify.com/album/2j7Ysj9HpnZnMUXhnaBX6q) | 3:36 | 2021-12-24 |  |
 | [His Name Is Wonderful](https://open.spotify.com/track/0yA5Tzp6llBKCmtUXbbBZv) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Christmas Day: Christmas Songs Of Worship](https://open.spotify.com/album/0eLOsq4XAPUGmWQbO4Gth8) | 3:31 | 2021-12-24 | 2022-07-29 |
 | [His Name Shall Be](https://open.spotify.com/track/0mzyK6XVIC90D5q94tE7FY) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [His Name Shall Be](https://open.spotify.com/album/09acCs0YrzMbeb2ASCXsXz) | 5:16 | 2021-12-24 | 2022-07-28 |
-| [His Name Shall Be](https://open.spotify.com/track/1rhs3UZ8J2xXbrJnbOqRPa) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [These Christmas Lights](https://open.spotify.com/album/5pgUIgHDhjfGe2rGunmU7a) | 5:16 | 2021-12-24 |  |
+| [His Name Shall Be](https://open.spotify.com/track/1rhs3UZ8J2xXbrJnbOqRPa) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [These Christmas Lights](https://open.spotify.com/album/5pgUIgHDhjfGe2rGunmU7a) | 5:16 | 2021-12-24 | 2022-11-12 |
 | [Holly Jolly Christmas](https://open.spotify.com/track/6V0o74Ptf4aygUPCT2Wdcu) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [More The Merrier](https://open.spotify.com/album/7o83BpMH6xfIhOfDGxLcpa) | 2:21 | 2021-12-24 |  |
 | [Home](https://open.spotify.com/track/1JArBYjls1EZ996UAJopI3) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3), [Hannah Ellis](https://open.spotify.com/artist/6jHWWttC33OQdEDnUXtYrq) | [Home](https://open.spotify.com/album/0TxoOroboezaKCvWAwVVpP) | 3:32 | 2021-12-24 | 2022-07-29 |
 | [How Glorious The Love Of Heaven](https://open.spotify.com/track/3VJLvwssjJJEZgE2BwjU5L) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [How Glorious The Love Of Heaven](https://open.spotify.com/album/5BAmXMvVZeq8Glme23qNC3) | 3:58 | 2021-12-24 | 2022-07-25 |

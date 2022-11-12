@@ -2403,6 +2403,24 @@
     {
       "album": {
         "name": "Spoon & Bang",
+        "url": "https://open.spotify.com/album/27wmufyQeEqEBKik9A4USF"
+      },
+      "artists": [
+        {
+          "name": "Kyle Dion",
+          "url": "https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129666,
+      "name": "Spoon & Bang",
+      "url": "https://open.spotify.com/track/2CQtm3HiUKwjKJ1pMnpnre"
+    },
+    {
+      "album": {
+        "name": "Spoon & Bang",
         "url": "https://open.spotify.com/album/4lBjA3mBpNpZpYh52mtvjF"
       },
       "artists": [
@@ -2431,7 +2449,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 129666,
       "name": "Spoon & Bang",
       "url": "https://open.spotify.com/track/65fTruLlZlBtPiZuEFUFN7"

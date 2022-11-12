@@ -4,7 +4,7 @@
 
 > The official playlist for 365 Days trilogy\. Watch now on Netflix!
 
-79 songs - 3 hr 51 min - [published](https://open.spotify.com/playlist/5DNKEJ1HKMoLMVv9IgJ6lL)
+81 songs - 3 hr 57 min - [published](https://open.spotify.com/playlist/5DNKEJ1HKMoLMVv9IgJ6lL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,11 +29,13 @@
 | [Coming Back](https://open.spotify.com/track/3ohPMjVSAnwj1lfPbZchjR) | [Robin Loxley](https://open.spotify.com/artist/2Lc0SlbkNbedYcGd5V7R4g), [Smudge Mason](https://open.spotify.com/artist/2lnw3CSgw0VsbPd9ucKUOD) | [Indie Ballads](https://open.spotify.com/album/1OjvJU0GnsOYqMgrdTYC6R) | 3:33 | 2022-08-19 |  |
 | [Complicated](https://open.spotify.com/track/2jJgwg74be7o5WlFgxopD8) | [Ian Scott](https://open.spotify.com/artist/2eOYAtEiQnCh4NVIgAh5Jn) | [Complicated](https://open.spotify.com/album/6PHRRwIpkg76Ij1m1cwJnn) | 2:46 | 2022-08-19 |  |
 | [Control](https://open.spotify.com/track/1odriOCBScAqNnMLGsNj9w) | [Natalia Krakowiak](https://open.spotify.com/artist/76V31mzEXwkzFCx6BGzCiS) | [Control](https://open.spotify.com/album/1D6AYYmAQ31hjWxyCWUuh1) | 2:06 | 2022-08-19 |  |
-| [Dark Room](https://open.spotify.com/track/2kf6JUfyPIvTi63HmDu4VV) | [Michele Morrone](https://open.spotify.com/artist/03fLoIOO015incUitpfkad) | [Dark Room](https://open.spotify.com/album/2H2mViAjX9cdztIS9xOwSh) | 3:04 | 2022-08-19 |  |
+| [Dark Room](https://open.spotify.com/track/2TpI97hh8uzSlsbjNhqpNK) | [Michele Morrone](https://open.spotify.com/artist/03fLoIOO015incUitpfkad) | [Dark Room \(Bonus Edition\)](https://open.spotify.com/album/1VkTlPEWLrFtP7IGc10hGJ) | 3:04 | 2022-08-19 |  |
+| [Dark Room](https://open.spotify.com/track/2kf6JUfyPIvTi63HmDu4VV) | [Michele Morrone](https://open.spotify.com/artist/03fLoIOO015incUitpfkad) | [Dark Room](https://open.spotify.com/album/2H2mViAjX9cdztIS9xOwSh) | 3:04 | 2022-08-19 | 2022-11-12 |
 | [Don't Call Me Up](https://open.spotify.com/track/4QjVfuu7om31HBan0jlX4p) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Don't Call Me Up](https://open.spotify.com/album/7eNi4JLsvO4nrHGNjOL45U) | 2:58 | 2022-08-19 |  |
 | [Don't Mess With My Mind](https://open.spotify.com/track/3F2NWpd6VmdHWWL6RhXlHs) | [EMO](https://open.spotify.com/artist/0ORYVI6HcOBBPflrE4EcQM) | [Don't Mess With My Mind](https://open.spotify.com/album/2ZUnnCCu42thIJnMLiQYkP) | 3:17 | 2022-08-19 |  |
 | [Dos Horas](https://open.spotify.com/track/0wRqwxzJ0xzp9xHdBUST8T) | [J.J\. Abel](https://open.spotify.com/artist/2kptWrlEYUY9Tksx9f9EDE), [Daniel Rondon](https://open.spotify.com/artist/2baItk3bvmwJY76tgZXFJn), [Kuinvi](https://open.spotify.com/artist/08w1NsqxgMffO78J6v0uCr) | [Dos Horas](https://open.spotify.com/album/0K0LCTmA5cYuAYNULo6Hy9) | 3:21 | 2022-08-19 |  |
-| [Feel It](https://open.spotify.com/track/1sntdOU6b9fMuUOm3NPIuY) | [Michele Morrone](https://open.spotify.com/artist/03fLoIOO015incUitpfkad) | [Dark Room](https://open.spotify.com/album/2H2mViAjX9cdztIS9xOwSh) | 2:39 | 2022-08-19 |  |
+| [Feel It](https://open.spotify.com/track/3Gj2OMRgE219AgKfGwHH8G) | [Michele Morrone](https://open.spotify.com/artist/03fLoIOO015incUitpfkad) | [Dark Room \(Bonus Edition\)](https://open.spotify.com/album/1VkTlPEWLrFtP7IGc10hGJ) | 2:38 | 2022-08-19 |  |
+| [Feel It](https://open.spotify.com/track/1sntdOU6b9fMuUOm3NPIuY) | [Michele Morrone](https://open.spotify.com/artist/03fLoIOO015incUitpfkad) | [Dark Room](https://open.spotify.com/album/2H2mViAjX9cdztIS9xOwSh) | 2:39 | 2022-08-19 | 2022-11-12 |
 | [Finish Line](https://open.spotify.com/track/5iM1Z3zrieLBRiIqln0zfd) | [SATV Music](https://open.spotify.com/artist/2VMbzdrOBil1vCkU2aitA6) | [Big Hitters](https://open.spotify.com/album/74O0NmWl2cGIynwIMZ7ttV) | 2:13 | 2022-08-19 |  |
 | [Ghost](https://open.spotify.com/track/21XjJd4lFO8p4a4te8WZ5n) | [Marissa](https://open.spotify.com/artist/7lRC2ICJeiCyz2wSU6BVkH) | [Just Breathe](https://open.spotify.com/album/3cGOpNJyVX3PqfsITZ6oop) | 2:45 | 2022-08-19 |  |
 | [Give Em Hell](https://open.spotify.com/track/3k4zd8iEKKtFrJB9oeX1Nl) | [Everybody Loves an Outlaw](https://open.spotify.com/artist/5RCWMaArEntbkeWYVxCiFW) | [I See Red](https://open.spotify.com/album/6vHqcjot5xlaVyJDdwAqxF) | 2:39 | 2022-08-19 |  |

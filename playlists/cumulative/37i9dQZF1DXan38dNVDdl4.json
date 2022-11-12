@@ -2501,6 +2501,24 @@
     {
       "album": {
         "name": "Roll Deep",
+        "url": "https://open.spotify.com/album/0DVnruHgsqHFIoYnmpYlc2"
+      },
+      "artists": [
+        {
+          "name": "10Tik",
+          "url": "https://open.spotify.com/artist/6I1j34QzSTWe6u4qQWKYJe"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207856,
+      "name": "Roll Deep",
+      "url": "https://open.spotify.com/track/5I55hcZJTmdVtyJC4Sn7ae"
+    },
+    {
+      "album": {
+        "name": "Roll Deep",
         "url": "https://open.spotify.com/album/24HPQqwhRn31huvNRg8War"
       },
       "artists": [
@@ -2511,7 +2529,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 207856,
       "name": "Roll Deep",
       "url": "https://open.spotify.com/track/7qbYXi2qeCdBoSlDZs9swk"
@@ -2703,10 +2721,28 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 205251,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/0lpBRGQCaWT1PJQb36AEEO"
+    },
+    {
+      "album": {
+        "name": "I Am Great",
+        "url": "https://open.spotify.com/album/4mrDtR4iMb2dxD1YfY0ttz"
+      },
+      "artists": [
+        {
+          "name": "I-Octane",
+          "url": "https://open.spotify.com/artist/2T5FHRvBN0LYvlvDoU89dS"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205251,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/3M9SdslKjGgu18LtRPiCBA"
     },
     {
       "album": {
@@ -3053,6 +3089,24 @@
     {
       "album": {
         "name": "Top Prize",
+        "url": "https://open.spotify.com/album/71X130a6rDyfFgOsIMX1on"
+      },
+      "artists": [
+        {
+          "name": "Alkaline",
+          "url": "https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192500,
+      "name": "Top Prize",
+      "url": "https://open.spotify.com/track/0QtGz0BVckR9AIUke9wdKH"
+    },
+    {
+      "album": {
+        "name": "Top Prize",
         "url": "https://open.spotify.com/album/0ilTzFiPldFMIxfRNDFOxq"
       },
       "artists": [
@@ -3063,7 +3117,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 192500,
       "name": "Top Prize",
       "url": "https://open.spotify.com/track/4Ku4NfHQafSvZXW0kme5KJ"
@@ -3307,6 +3361,24 @@
     {
       "album": {
         "name": "Gyalentine's",
+        "url": "https://open.spotify.com/album/332nQtkhrKf6OHe3PJ7a6g"
+      },
+      "artists": [
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209750,
+      "name": "Wine All Day",
+      "url": "https://open.spotify.com/track/0fBWiprmkqmJSNz6PGVJ4O"
+    },
+    {
+      "album": {
+        "name": "Gyalentine's",
         "url": "https://open.spotify.com/album/0r8V36dzV0odZrz40lbUDL"
       },
       "artists": [
@@ -3317,7 +3389,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 209750,
       "name": "Wine All Day",
       "url": "https://open.spotify.com/track/444Yzj8LjfENmK7x0XEfP5"

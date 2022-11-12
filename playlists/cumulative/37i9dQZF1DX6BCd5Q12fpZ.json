@@ -556,6 +556,24 @@
     },
     {
       "album": {
+        "name": "Fairytale",
+        "url": "https://open.spotify.com/album/6EWWmTEOXI58PL13vNk67S"
+      },
+      "artists": [
+        {
+          "name": "Alexander Rybak",
+          "url": "https://open.spotify.com/artist/3LLNDXrxL4uxXtnUJS5XWM"
+        }
+      ],
+      "date_added": "2022-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182600,
+      "name": "Fairytale",
+      "url": "https://open.spotify.com/track/3MnAsEBBsEj86d03RgO4EM"
+    },
+    {
+      "album": {
         "name": "Fairytales",
         "url": "https://open.spotify.com/album/7k1b8wzjRsSTmIBuRlBrxp"
       },
@@ -567,7 +585,7 @@
       ],
       "date_added": "2022-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 183093,
       "name": "Fairytale",
       "url": "https://open.spotify.com/track/6NgYIETQ8U72CVfkzYhK30"
@@ -1457,7 +1475,7 @@
       ],
       "date_added": "2022-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 169181,
       "name": "Moustache",
       "url": "https://open.spotify.com/track/6ILOO5bZA9x6zanAMO0hKr"
@@ -2547,6 +2565,24 @@
       "duration_ms": 165800,
       "name": "Waterloo",
       "url": "https://open.spotify.com/track/1CsuK5dlnWAkWhffeteqH3"
+    },
+    {
+      "album": {
+        "name": "Class of '74",
+        "url": "https://open.spotify.com/album/5Uh4u1fz6uu71B6lXm92Lc"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "date_added": "2022-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165800,
+      "name": "Waterloo",
+      "url": "https://open.spotify.com/track/75uJ2UrLjcjqvIYKkADjPU"
     },
     {
       "album": {

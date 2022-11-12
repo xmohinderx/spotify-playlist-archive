@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "R&B without boundaries. Cover: Kwaku Asante",
+  "description": "R&B without boundaries. Cover: Destin Conrad",
   "name": "Alternative R&B",
   "published_playlist_ids": [
     "5LTt78znSTM3vwYtfHo5Kh"
@@ -2876,6 +2876,24 @@
     },
     {
       "album": {
+        "name": "SATIN",
+        "url": "https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181144,
+      "name": "DAYDREAM",
+      "url": "https://open.spotify.com/track/2dsbZwFPMYhchakMgL72DD"
+    },
+    {
+      "album": {
         "name": "daydreams",
         "url": "https://open.spotify.com/album/3dSPH738SBPAvQB1aybD4f"
       },
@@ -3677,7 +3695,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-25",
+      "date_removed": null,
       "duration_ms": 214760,
       "name": "Feeling Myself",
       "url": "https://open.spotify.com/track/4W6hJu2CzYKe4DyPqcMHvg"
@@ -3695,7 +3713,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 214760,
       "name": "Feeling Myself",
       "url": "https://open.spotify.com/track/7paZMzxa2sC04AfkPmyCBx"
@@ -8275,7 +8293,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 187933,
       "name": "Orange Colored Day",
       "url": "https://open.spotify.com/track/2ivD3llyr1jlAxfaFES71l"
@@ -9351,7 +9369,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 140869,
       "name": "rewind",
       "url": "https://open.spotify.com/track/66orvVes79w0dZao9ZIw97"
@@ -9782,6 +9800,24 @@
     },
     {
       "album": {
+        "name": "Seltzer",
+        "url": "https://open.spotify.com/album/1Nifv5zMNTM89Q1m98U32a"
+      },
+      "artists": [
+        {
+          "name": "Cruza",
+          "url": "https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184615,
+      "name": "Seltzer",
+      "url": "https://open.spotify.com/track/1AJ71ibFDiinsF2kj4KqRg"
+    },
+    {
+      "album": {
         "name": "Send My Love",
         "url": "https://open.spotify.com/album/4gmsZ9xHzrC5Xxto8DjySB"
       },
@@ -10093,7 +10129,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 208000,
       "name": "Slow Jam",
       "url": "https://open.spotify.com/track/6lRVYHkmpifUVyEKIkgAub"
@@ -11250,6 +11286,24 @@
     },
     {
       "album": {
+        "name": "Today & Tomorrow",
+        "url": "https://open.spotify.com/album/7A6aNtppf2VKZE9xTnvm7z"
+      },
+      "artists": [
+        {
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280603,
+      "name": "The Greatest Smile",
+      "url": "https://open.spotify.com/track/2IpRdVSZln1OqYEyajRccA"
+    },
+    {
+      "album": {
         "name": "MAKER'S DESIGN",
         "url": "https://open.spotify.com/album/2TunGa3NkPq54qjCozALUl"
       },
@@ -12160,6 +12214,24 @@
     },
     {
       "album": {
+        "name": "What About Me?",
+        "url": "https://open.spotify.com/album/51D87o8rHccQRtjNK4ybgJ"
+      },
+      "artists": [
+        {
+          "name": "Dayo Bello",
+          "url": "https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205544,
+      "name": "What About Me?",
+      "url": "https://open.spotify.com/track/5CZhpmlLKUYZdq7pX5cVHS"
+    },
+    {
+      "album": {
         "name": "BUBBA",
         "url": "https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO"
       },
@@ -12527,7 +12599,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 216585,
       "name": "Worth It",
       "url": "https://open.spotify.com/track/2DDU8tcHwfrs7HbJQN2Aqu"

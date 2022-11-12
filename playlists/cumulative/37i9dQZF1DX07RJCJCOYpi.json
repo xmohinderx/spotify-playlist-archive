@@ -150,6 +150,24 @@
     },
     {
       "album": {
+        "name": "Tequila",
+        "url": "https://open.spotify.com/album/6obdoKvDd4xA7Ukrw0BiXF"
+      },
+      "artists": [
+        {
+          "name": "San Pacho",
+          "url": "https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU"
+        }
+      ],
+      "date_added": "2022-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155714,
+      "name": "Amor",
+      "url": "https://open.spotify.com/track/3CDhPQ2HdarTjCzKCUCzQT"
+    },
+    {
+      "album": {
         "name": "Amor",
         "url": "https://open.spotify.com/album/4bgkjiptkmzGU2jDrQjH44"
       },
@@ -161,7 +179,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 155714,
       "name": "Amor",
       "url": "https://open.spotify.com/track/7oZZrKuJdFkqxxf1O27j1V"
@@ -2301,6 +2319,28 @@
       "duration_ms": 198937,
       "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
       "url": "https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw"
+    },
+    {
+      "album": {
+        "name": "Qu\u00e9date (Ti\u00ebsto Remix)",
+        "url": "https://open.spotify.com/album/5IZcEkLkf0oQNFlgFGocxr"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "date_added": "2022-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232498,
+      "name": "Qu\u00e9date - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/79wDq3jpGu0yew1ngQpAAi"
     },
     {
       "album": {

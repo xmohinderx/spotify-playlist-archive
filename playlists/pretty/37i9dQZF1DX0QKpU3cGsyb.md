@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QKpU3cGsyb.md) - [plain]
 
 > Slow jams for the passionate.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,648,134 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,648,629 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QKpU3cGsyb.md) - [plain]
 | 12 | [Good & Plenty \- Remix](https://open.spotify.com/track/6T3Ebo7EOh8cUOyE4OhFpp) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As), [Jack Dine](https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE) | [Good & Plenty \(Remix\)](https://open.spotify.com/album/3myUd2MqJKr3rfUrAf41Us) | 3:24 |
 | 13 | [Leave You Alone](https://open.spotify.com/track/0cNc0bSxmRVhAUJVYEd2Qk) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Heart On My Sleeve](https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy) | 3:29 |
 | 14 | [Alone With You](https://open.spotify.com/track/0jHVNBt8A9L8qEAB8XxGuB) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [Alone With You](https://open.spotify.com/album/310ZzmkHr5zvYyqMkNhXlm) | 3:46 |
-| 15 | [Spoon & Bang](https://open.spotify.com/track/65fTruLlZlBtPiZuEFUFN7) | [Kyle Dion](https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3) | [SASSY \(Deluxe\)](https://open.spotify.com/album/2FBmbNR9eJ6BY4QIWBRI38) | 2:09 |
+| 15 | [Spoon & Bang](https://open.spotify.com/track/2CQtm3HiUKwjKJ1pMnpnre) | [Kyle Dion](https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3) | [Spoon & Bang](https://open.spotify.com/album/27wmufyQeEqEBKik9A4USF) | 2:09 |
 | 16 | [No Love \(with SZA & Cardi B\) \- Extended Version](https://open.spotify.com/track/0IMUFRaM2W3wKNM1CSQ4Zm) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [No Love \(with SZA & Cardi B\) \[Extended Version\]](https://open.spotify.com/album/1Rt2ZYJ3tBKqXtFuB19xz4) | 4:36 |
 | 17 | [Satisfaction](https://open.spotify.com/track/0hZIaQMGqu41dozEwqVa1b) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [Satisfaction](https://open.spotify.com/album/2rMvlXjrgjenPKNBK6ze0q) | 2:10 |
 | 18 | [Wasting Time \( feat\. Drake & The Neptunes \)](https://open.spotify.com/track/48WidxP9CqyYtk97pwGZ3c) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [The Neptunes](https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr) | [Wasting Time \( feat\. Drake & The Neptunes \)](https://open.spotify.com/album/2brWccDLT5vREu0FxqH6Az) | 5:01 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QKpU3cGsyb.md) - [plain]
 | 35 | [Church](https://open.spotify.com/track/0dAX78YVZtK3izR21SGxia) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Buckles Laboratories Presents: The Intermission](https://open.spotify.com/album/5ml8UPImaD5c3x3YwQTaeS) | 2:40 |
 | 36 | [Say Yea](https://open.spotify.com/track/72kAhVS63uHIQV7drmjjHZ) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ) | [Say Yea](https://open.spotify.com/album/7LRIPWJaK4kQfrfD94zTzS) | 3:25 |
 | 37 | [A Mess \(feat\. Lucky Daye\)](https://open.spotify.com/track/3HgJ1aYlEgy8Yj1NMAe1pm) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Heart On My Sleeve](https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy) | 3:53 |
-| 38 | [UNPREDICTABLE](https://open.spotify.com/track/37ahk4lY6MT9jibtVmvYAH) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [UNPREDICTABLE](https://open.spotify.com/album/4FlLFmeikHa7syfabGqL0k) | 3:09 |
-| 39 | [O.M.L\. \(feat\. DESTIN CONRAD\)](https://open.spotify.com/track/6ntO3pnXicVNsAhW67BW0S) | [Mack Keane](https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO), [ESTA.](https://open.spotify.com/artist/4KZmpaIhanIo46eaQimtgO), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [O.M.L\. \(feat\. DESTIN CONRAD\)](https://open.spotify.com/album/6nKwjfkh8zFW2JQo1FYjq0) | 2:45 |
+| 38 | [O.M.L\. \(feat\. DESTIN CONRAD\)](https://open.spotify.com/track/6ntO3pnXicVNsAhW67BW0S) | [Mack Keane](https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO), [ESTA.](https://open.spotify.com/artist/4KZmpaIhanIo46eaQimtgO), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [O.M.L\. \(feat\. DESTIN CONRAD\)](https://open.spotify.com/album/6nKwjfkh8zFW2JQo1FYjq0) | 2:45 |
+| 39 | [UNPREDICTABLE](https://open.spotify.com/track/37ahk4lY6MT9jibtVmvYAH) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [UNPREDICTABLE](https://open.spotify.com/album/4FlLFmeikHa7syfabGqL0k) | 3:09 |
 | 40 | [EVERYTHING I WANT](https://open.spotify.com/track/7xaVK8LCtFkig2HKTrukwg) | [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [EVERYTHING I WANT](https://open.spotify.com/album/1Gd8Sz4vEV0Px55RPugWSe) | 2:18 |
 | 41 | [You Want My Love](https://open.spotify.com/track/5BQf3eyCsoSP5jNGx9sPdD) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [You Want My Love](https://open.spotify.com/album/2GGcfPODdGZ3m6riQU4rNq) | 3:14 |
 | 42 | [Another](https://open.spotify.com/track/0R3BfnrLdW13mopXeKOTQZ) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Another](https://open.spotify.com/album/2jc8WpsmpUSKMzAKBQw6di) | 2:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QKpU3cGsyb.md) - [plain]
 | 49 | [Caliber](https://open.spotify.com/track/1Okha0BLoXlC6iXrIWLVFk) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Caliber](https://open.spotify.com/album/0zwvnPJUZqs4nlSieXuM8X) | 3:02 |
 | 50 | [moonlit room](https://open.spotify.com/track/5KzBH7THRVKCCmkMp1tazw) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [moonlit room](https://open.spotify.com/album/4fNpiEQNMa4ehobympXbQi) | 4:10 |
 
-Snapshot ID: `MTY1Nzg5MzQ1OCwwMDAwMDAwMDY1N2YzYzM5Zjk2MzkyNDE0M2IyOTJkNDA4NDliOTUz`
+Snapshot ID: `MTY1Nzg5MzQ1OCwwMDAwMDAwMDFkYjlmNTJmNDA3MmRlYWM3NDc1NDEzMTA3NmQ3NmM1`

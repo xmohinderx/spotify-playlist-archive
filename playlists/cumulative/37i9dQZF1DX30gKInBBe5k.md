@@ -4,7 +4,7 @@
 
 > Bare emotions and stripped\-down intensity: a hardcore home for slowcore fans.
 
-124 songs - 11 hr 20 min - [published](https://open.spotify.com/playlist/1EhgTfPau3YN9Ge7TgxXdp)
+126 songs - 11 hr 30 min - [published](https://open.spotify.com/playlist/1EhgTfPau3YN9Ge7TgxXdp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,13 +66,15 @@
 | [Katy Song](https://open.spotify.com/track/6Gmc3OUoP4JotwPb2CIXYD) | [Red House Painters](https://open.spotify.com/artist/2GATzeg62cr6sH29wSOVWe) | [Red House Painters I](https://open.spotify.com/album/2zbrGDAGfwMhDVkeg1CGl5) | 8:22 | 2021-06-25 | 2022-07-29 |
 | [Let Me Go Let Me Go Let Me Go](https://open.spotify.com/track/39KOhhh83o7jp7We40NSsg) | [Jason Molina](https://open.spotify.com/artist/4tBNwdhdWAXGzzaPTp9dRE) | [Let Me Go, Let Me Go, Let Me Go](https://open.spotify.com/album/5Fbhl4nU4FaLjxspC5g8ca) | 6:39 | 2021-06-25 | 2022-07-29 |
 | [Let Me Go Let Me Go Let Me Go](https://open.spotify.com/track/4aSM8NeNrjYLBJxOiLZNqk) | [Jason Molina](https://open.spotify.com/artist/4tBNwdhdWAXGzzaPTp9dRE) | [Let Me Go, Let Me Go, Let Me Go](https://open.spotify.com/album/68kIBfvmlkUHmzJyZbiH5Z) | 6:39 | 2021-06-25 |  |
-| [Lie In The Sound](https://open.spotify.com/track/0MsMR2rURAR4gSHzMWx8tZ) | [Trespassers William](https://open.spotify.com/artist/05DG9WOML9BsHwUS5HCcRa) | [Different Stars](https://open.spotify.com/album/4BInGpL7KK8U8up43J5dfj) | 5:42 | 2021-06-25 |  |
+| [Lie In The Sound](https://open.spotify.com/track/0MsMR2rURAR4gSHzMWx8tZ) | [Trespassers William](https://open.spotify.com/artist/05DG9WOML9BsHwUS5HCcRa) | [Different Stars](https://open.spotify.com/album/4BInGpL7KK8U8up43J5dfj) | 5:42 | 2021-06-25 | 2022-11-12 |
 | [Lie In The Sound](https://open.spotify.com/track/4DPJgYReY3KMPPzR1jQ2VP) | [Trespassers William](https://open.spotify.com/artist/05DG9WOML9BsHwUS5HCcRa) | [Different Stars](https://open.spotify.com/album/0FYhVNeOcfTLgtHISgpsb5) | 5:42 | 2021-06-25 | 2022-07-29 |
 | [Lie In The Sound](https://open.spotify.com/track/7F8skye75dhR8vceTSWYM9) | [Trespassers William](https://open.spotify.com/artist/05DG9WOML9BsHwUS5HCcRa) | [Different Stars](https://open.spotify.com/album/4SfqCvZNYx1sPEIWCRyI26) | 5:42 | 2021-06-25 | 2022-08-18 |
+| [Lie in the Sound](https://open.spotify.com/track/1YIpoD7bslS2nKTac1WfrZ) | [Trespassers William](https://open.spotify.com/artist/05DG9WOML9BsHwUS5HCcRa) | [Music From The WB Television Series One Tree Hill \(change in 1 track bundle status\)](https://open.spotify.com/album/3XCBGh4tuBd9UXGYUudjz5) | 5:43 | 2021-06-25 |  |
 | [Life On Earth](https://open.spotify.com/track/1aZt2IkeGMFQ4WnDUDq97D) | [Tiny Vipers](https://open.spotify.com/artist/4kgIlus6ToyP9mUHoIvLtc) | [Life On Earth](https://open.spotify.com/album/5vr9Dd2iUMCQpB0RP1B3pU) | 10:12 | 2021-06-25 | 2022-07-29 |
 | [Life on Earth](https://open.spotify.com/track/1auVRfsbR30fKYv2m7KmJi) | [Tiny Vipers](https://open.spotify.com/artist/4kgIlus6ToyP9mUHoIvLtc) | [Life On Earth](https://open.spotify.com/album/28D7r9JZELsUNdDzNR12q3) | 10:12 | 2021-06-25 |  |
+| [Liferaft](https://open.spotify.com/track/1fdCjKSlvcHyxF0L7tue3b) | [Bedhead](https://open.spotify.com/artist/1555UFA4CyCnJEzCKikGHe) | [1992\-1998](https://open.spotify.com/album/6lJroIlQWuq7H3ZrLyFARZ) | 4:40 | 2021-06-25 |  |
 | [Liferaft](https://open.spotify.com/track/1lii7ZXQTxPHozDSjmkibm) | [Bedhead](https://open.spotify.com/artist/1555UFA4CyCnJEzCKikGHe) | [WhatFunLifeWas](https://open.spotify.com/album/2IpqDJKaf7873tRUmxuxae) | 4:40 | 2021-06-25 | 2022-07-29 |
-| [Liferaft](https://open.spotify.com/track/76tqeZTMX72Fx28PDj3pyk) | [Bedhead](https://open.spotify.com/artist/1555UFA4CyCnJEzCKikGHe) | [WhatFunLifeWas](https://open.spotify.com/album/5K6XN9nSX1yuECZwIYg7FQ) | 4:40 | 2021-06-25 |  |
+| [Liferaft](https://open.spotify.com/track/76tqeZTMX72Fx28PDj3pyk) | [Bedhead](https://open.spotify.com/artist/1555UFA4CyCnJEzCKikGHe) | [WhatFunLifeWas](https://open.spotify.com/album/5K6XN9nSX1yuECZwIYg7FQ) | 4:40 | 2021-06-25 | 2022-11-12 |
 | [Lighthouse](https://open.spotify.com/track/10dTTsgL5hPujRahg22tan) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Ruins](https://open.spotify.com/album/5ElYoVUqRQIlDekD1v6aKa) | 5:44 | 2021-06-25 |  |
 | [Love Songs on the Radio](https://open.spotify.com/track/3FzK2g50oLcx8vqETwOn07) | [Mojave 3](https://open.spotify.com/artist/4jSYHcSo85heWskYvAULio) | [Ask Me Tomorrow](https://open.spotify.com/album/3fjeFLyo8FY1Appkw4Mrvy) | 5:48 | 2021-06-25 |  |
 | [Lullaby](https://open.spotify.com/track/1De66xUavye2fNqhCwtgyo) | [Low](https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH) | [I Could Live In Hope](https://open.spotify.com/album/61dByu8oBt4qdym9Rkz39w) | 9:49 | 2021-06-25 |  |

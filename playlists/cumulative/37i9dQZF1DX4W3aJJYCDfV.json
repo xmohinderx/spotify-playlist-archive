@@ -2166,7 +2166,7 @@
     },
     {
       "album": {
-        "name": "GIMME THAT BOOM",
+        "name": "Gimme That Boom",
         "url": "https://open.spotify.com/album/5t32hSmBus3r3Mw8Z64hxF"
       },
       "artists": [
@@ -2179,7 +2179,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 193853,
-      "name": "GIMME THAT BOOM",
+      "name": "Gimme That Boom",
       "url": "https://open.spotify.com/track/4QbvKaOOsRXSUT0ySto5Ks"
     },
     {
@@ -2368,7 +2368,7 @@
     },
     {
       "album": {
-        "name": "Hit by a Train (Bad Day at the Office Version)",
+        "name": "Hit By A Train (Bad Day At The Office Version)",
         "url": "https://open.spotify.com/album/2U7r5Zp1i0PSPMa2AP3b7O"
       },
       "artists": [
@@ -2381,7 +2381,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 271893,
-      "name": "Hit By A Train - Bad Day at the Office Version",
+      "name": "Hit By A Train - Bad Day At The Office Version",
       "url": "https://open.spotify.com/track/7sjUc3MReePesL3AuXBT4z"
     },
     {
@@ -3294,7 +3294,7 @@
     },
     {
       "album": {
-        "name": "Sad Girl",
+        "name": "Sad Girl Mixtape",
         "url": "https://open.spotify.com/album/23yFRTbLS2jvXfFedgFDFM"
       },
       "artists": [
@@ -3806,6 +3806,24 @@
     },
     {
       "album": {
+        "name": "King's Disease III",
+        "url": "https://open.spotify.com/album/3vQuGKQJMfdXmkjRKqUesk"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167724,
+      "name": "Michael & Quincy",
+      "url": "https://open.spotify.com/track/5MfCvL6jCTkxPCBQf3OkYH"
+    },
+    {
+      "album": {
         "name": "miles",
         "url": "https://open.spotify.com/album/6lAOUk4uVgPOj9ny3TPoDO"
       },
@@ -4165,7 +4183,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 204240,
       "name": "Nightlight",
       "url": "https://open.spotify.com/track/1ydoX3Oa8caQOrbQatbATa"
@@ -4801,7 +4819,7 @@
     {
       "album": {
         "name": "No Borders: European Compilation Project",
-        "url": "https://open.spotify.com/album/6IYGGOmzJ6L4XD9OAowkP5"
+        "url": "https://open.spotify.com/album/3RE7S9ZwbNH3dPGY8rJdVP"
       },
       "artists": [
         {
@@ -4820,6 +4838,32 @@
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 153000,
+      "name": "Place",
+      "url": "https://open.spotify.com/track/109zbOmrUeunCHnZ76B0Kx"
+    },
+    {
+      "album": {
+        "name": "No Borders: European Compilation Project",
+        "url": "https://open.spotify.com/album/6IYGGOmzJ6L4XD9OAowkP5"
+      },
+      "artists": [
+        {
+          "name": "Headie One",
+          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
+        },
+        {
+          "name": "Pajel",
+          "url": "https://open.spotify.com/artist/1bpI6QDUqmfKmV0Tlhj0Jm"
+        },
+        {
+          "name": "Dezzie",
+          "url": "https://open.spotify.com/artist/24Ws1EeobHSyqDxQKfie7Q"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-12",
       "duration_ms": 153000,
       "name": "Place",
       "url": "https://open.spotify.com/track/2pAurWhTWRYsNArdtDVMF4"
@@ -5541,10 +5585,28 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 205186,
       "name": "Silver Tongues",
       "url": "https://open.spotify.com/track/1nMglHq7NFuRLmKizMQajB"
+    },
+    {
+      "album": {
+        "name": "Faith In The Future (Deluxe)",
+        "url": "https://open.spotify.com/album/1mFBBKRgRpHYJHHlr6wGMj"
+      },
+      "artists": [
+        {
+          "name": "Louis Tomlinson",
+          "url": "https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205186,
+      "name": "Silver Tongues",
+      "url": "https://open.spotify.com/track/29z96EFvG0L1wcj5kkIHzk"
     },
     {
       "album": {

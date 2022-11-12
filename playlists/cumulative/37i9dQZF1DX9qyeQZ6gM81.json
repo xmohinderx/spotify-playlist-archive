@@ -476,6 +476,24 @@
     },
     {
       "album": {
+        "name": "Graduation Songs",
+        "url": "https://open.spotify.com/album/4EJlbpMh9UUcpaUHK6KPZQ"
+      },
+      "artists": [
+        {
+          "name": "Cher",
+          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
+        }
+      ],
+      "date_added": "2020-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237493,
+      "name": "If I Could Turn Back Time",
+      "url": "https://open.spotify.com/track/12wNutje5PfMeDHrZwjEXC"
+    },
+    {
+      "album": {
         "name": "Heart Of Stone",
         "url": "https://open.spotify.com/album/60Q5H9OJaMs0sFzImKDJ8s"
       },
@@ -505,7 +523,7 @@
       ],
       "date_added": "2020-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 239826,
       "name": "If I Could Turn Back Time",
       "url": "https://open.spotify.com/track/6mYrhCAGWzTdF8QnKuchXM"

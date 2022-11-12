@@ -255,7 +255,7 @@
       ],
       "date_added": "2022-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 197960,
       "name": "Barbie Girl",
       "url": "https://open.spotify.com/track/5ZrDlcxIDZyjOzHdYW1ydr"
@@ -471,7 +471,7 @@
       ],
       "date_added": "2022-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 263826,
       "name": "Blurred Lines",
       "url": "https://open.spotify.com/track/0n4bITAu0Y0nigrz3MFJMb"
@@ -901,7 +901,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 221266,
       "name": "Day 'N' Nite (nightmare)",
       "url": "https://open.spotify.com/track/5FEXPoPnzueFJQCPRIrC3c"
@@ -1301,7 +1301,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 292373,
       "name": "Fergalicious",
       "url": "https://open.spotify.com/track/1D066zixBwqFYqBhKgdPzp"
@@ -1555,7 +1555,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 211120,
       "name": "Get Ur Freak On",
       "url": "https://open.spotify.com/track/6zsk6uF3MxfIeHPlubKBvR"
@@ -2016,6 +2016,24 @@
     },
     {
       "album": {
+        "name": "The Warrior's Code",
+        "url": "https://open.spotify.com/album/2sZGDqHfU884z3iFris122"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "I'm Shipping Up To Boston",
+      "url": "https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc"
+    },
+    {
+      "album": {
         "name": "THE E.N.D. (THE ENERGY NEVER DIES)",
         "url": "https://open.spotify.com/album/3lng6RAtdksQ2q02Fk5jaB"
       },
@@ -2387,7 +2405,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 216893,
       "name": "Like A G6",
       "url": "https://open.spotify.com/track/4DvhkX2ic4zWkQeWMwQ2qf"
@@ -2531,7 +2549,7 @@
       ],
       "date_added": "2022-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 220293,
       "name": "Mambo No. 5 (a Little Bit of...)",
       "url": "https://open.spotify.com/track/6x4tKaOzfNJpEJHySoiJcs"
@@ -2571,7 +2589,7 @@
       ],
       "date_added": "2022-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 220573,
       "name": "Middle",
       "url": "https://open.spotify.com/track/0g5EKLgdKvNlln7TNqBByK"
@@ -2611,7 +2629,7 @@
       ],
       "date_added": "2022-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 241440,
       "name": "Midnight City",
       "url": "https://open.spotify.com/track/1eyzqe2QqGZUmfcPZtrIyt"
@@ -2709,7 +2727,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 176491,
       "name": "Morenita",
       "url": "https://open.spotify.com/track/0pIiCv0GdhtsOjCJ5Y7zHj"
@@ -3109,7 +3127,7 @@
       ],
       "date_added": "2022-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 202066,
       "name": "Party In The U.S.A.",
       "url": "https://open.spotify.com/track/5Q0Nhxo0l2bP3pNjpGJwV1"
@@ -3171,7 +3189,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 300000,
       "name": "Play That Funky Music",
       "url": "https://open.spotify.com/track/5uuJruktM9fMdN9Va0DUMl"
@@ -3641,7 +3659,7 @@
       ],
       "date_added": "2022-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 203573,
       "name": "Sweet Caroline",
       "url": "https://open.spotify.com/track/62AuGbAkt8Ox2IrFFb8GKV"
@@ -3767,7 +3785,7 @@
       ],
       "date_added": "2022-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 165853,
       "name": "The Middle",
       "url": "https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO"
@@ -3865,7 +3883,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 307640,
       "name": "The Time (Dirty Bit)",
       "url": "https://open.spotify.com/track/7vWFaMq63AwkFDhS2OAg5u"

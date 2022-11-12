@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Todo o calor latino est\u00e1 aqui! \ud83d\udd25  ",
+  "description": "Todo o calor latino est\u00e1 aqui! \ud83d\udd25  foto: Rauw Alejandro",
   "name": "Calorcito",
   "published_playlist_ids": [
     "0hWEX2Wmud5ZvfLlh8QTkr"
@@ -2156,6 +2156,24 @@
     },
     {
       "album": {
+        "name": "LEJOS DEL CIELO",
+        "url": "https://open.spotify.com/album/4144E5wmhkJZJX4UR3Hw5M"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208934,
+      "name": "LEJOS DEL CIELO",
+      "url": "https://open.spotify.com/track/39qtjJ454r2fgyXaenq8Wv"
+    },
+    {
+      "album": {
         "name": "Levado",
         "url": "https://open.spotify.com/album/2vJRY4PZKv6wtUdG7Uoldy"
       },
@@ -2957,7 +2975,7 @@
       ],
       "date_added": "2022-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 152110,
       "name": "Ojos Rojos",
       "url": "https://open.spotify.com/track/5hYRabCQuFZN8yVCQsSeyF"

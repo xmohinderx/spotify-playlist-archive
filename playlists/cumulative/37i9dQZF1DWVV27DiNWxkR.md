@@ -4,7 +4,7 @@
 
 > The premier alternative melancholia playlist, featuring Katie Gregson\-MacLeod
 
-302 songs - 20 hr 36 min - [published](https://open.spotify.com/playlist/2mQQ9UtMauFrmPvfy4o2jR)
+304 songs - 20 hr 46 min - [published](https://open.spotify.com/playlist/2mQQ9UtMauFrmPvfy4o2jR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [Andromeda](https://open.spotify.com/track/51EMSRpNm9Rg5rGViVCczv) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Titanic Rising](https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk) | 4:40 | 2022-07-15 |  |
 | [Angeles](https://open.spotify.com/track/2uwN3PDudlRkAKE3wA0OqJ) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or](https://open.spotify.com/album/6KMdn9HDIqcBPaaok0K34K) | 2:56 | 2022-07-15 | 2022-08-27 |
 | [Angeles](https://open.spotify.com/track/0Ziohm1Ku8E2yUDYoclfhO) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or](https://open.spotify.com/album/5hryhrT7wEdLnZCbJX9F6L) | 2:57 | 2020-05-07 | 2022-07-29 |
-| [Angels](https://open.spotify.com/track/3zsRP8rH1kaIAo9fmiP4El) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [Coexist](https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW) | 2:51 | 2022-07-15 |  |
+| [Angels](https://open.spotify.com/track/1mpYj5ENPXpxmjRF0oHnTW) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [PAY CLOSE ATTENTION: XL Recordings](https://open.spotify.com/album/3D9vUf511saEHLua6NcOLw) | 2:51 | 2022-09-02 |  |
+| [Angels](https://open.spotify.com/track/3zsRP8rH1kaIAo9fmiP4El) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [Coexist](https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW) | 2:51 | 2022-07-15 | 2022-11-12 |
 | [Angels](https://open.spotify.com/track/4g5QKYTjNoAN8w5LmNbkwo) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [Coexist](https://open.spotify.com/album/7zNbatyo73uEnOlTDSVJed) | 2:51 | 2020-10-14 | 2022-07-29 |
 | [Another One](https://open.spotify.com/track/63q9LqTK5iiZLy3cTvLMUf) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Another One](https://open.spotify.com/album/5FiDVzxLqGtYjF5yzmMoj4) | 2:40 | 2022-08-26 |  |
 | [Bad Religion](https://open.spotify.com/track/2pMPWE7PJH1PizfgGRMnR9) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 2:55 | 2022-08-26 |  |
@@ -172,8 +173,9 @@
 | [Never Grow Old \- Live at New Missionary Baptist Church, Los Angeles, CA, 01/13/72](https://open.spotify.com/track/0aRrC0fJzS8aWJgjNELnKl) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Amazing Grace \(Live at New Temple Missionary Baptist Church, Los Angeles, CA, 01/13/72\)](https://open.spotify.com/album/5pIUimaQ6XePPXbMUi3te0) | 9:57 | 2020-08-30 | 2020-09-11 |
 | [New Love](https://open.spotify.com/track/0Fv37Teb9CoZwlvWojwsa9) | [Maria Taylor](https://open.spotify.com/artist/6iKiDPed4LAQEcPZpvf00m) | [Maria Taylor](https://open.spotify.com/album/46yJ5yYiR7au7xFVhRVVcW) | 2:40 | 2020-08-30 | 2020-09-11 |
 | [New Shoes](https://open.spotify.com/track/2Nh201cURlNgpcMDnDlNaL) | [Overcoats](https://open.spotify.com/artist/2pst3pDewxsl4kJERuDZpp) | [The Fight](https://open.spotify.com/album/0ArmKxlIjju4bog52Q33ZE) | 3:18 | 2020-03-07 | 2022-07-22 |
-| [Night Shift](https://open.spotify.com/track/1yYlpGuBiRRf33e1gY61bN) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Historian](https://open.spotify.com/album/0LqhbUfmHsxovfSirhEIGu) | 6:31 | 2022-07-15 |  |
+| [Night Shift](https://open.spotify.com/track/1yYlpGuBiRRf33e1gY61bN) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Historian](https://open.spotify.com/album/0LqhbUfmHsxovfSirhEIGu) | 6:31 | 2022-07-15 | 2022-11-12 |
 | [Night Shift](https://open.spotify.com/track/2AF5Kzxb4pz7j79Ity84pP) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Historian](https://open.spotify.com/album/01GO03odsNlNLtvNETukWT) | 6:31 | 2019-09-29\* | 2022-07-29 |
+| [Night Shift](https://open.spotify.com/track/6414jxyYquBi9sqmufnT0A) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Night Shift](https://open.spotify.com/album/0YmdEL8VCkLkUFwKHJd6Eg) | 6:31 | 2022-09-02 |  |
 | [Old Man Rver](https://open.spotify.com/track/1MhfBrvXYinRzCpum6krPh) | [The Ravens](https://open.spotify.com/artist/4M3DAApROQAuDojXHNwNgn) | [Old Man River](https://open.spotify.com/album/0JpvBa3on2EFywTYZfxqXq) | 2:59 | 2020-08-30 | 2020-09-11 |
 | [Only One](https://open.spotify.com/track/6hMRRCZXeV5Gg8345Z5P0M) | [BLANc](https://open.spotify.com/artist/6QNWNk7eGH8Akg83QSD2PL) | [Only One](https://open.spotify.com/album/7LO1I1tsj2ih7elmShTgrA) | 3:08 | 2019-09-29\* | 2020-03-21 |
 | [Otherside](https://open.spotify.com/track/2Iqdun0CJawDkc3NBUrbdA) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [No Shape](https://open.spotify.com/album/4XUbE270OEh8WacgMyamyF) | 2:40 | 2022-07-15 |  |

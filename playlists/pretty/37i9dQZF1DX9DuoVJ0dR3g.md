@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9DuoVJ0dR3g.md) - [plain]
 
 > Generation defining music, one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,421 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,446 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9DuoVJ0dR3g.md) - [plain]
 | 20 | [Leave Me Out](https://open.spotify.com/track/1BDBs8P8JpqsuO9cWyfPlN) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Frogstomp \(Deluxe Edition\) \[Remastered\]](https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC) | 3:03 |
 | 21 | [Across the Night](https://open.spotify.com/track/5p34KJUx20Vvd7hrWqn6Xg) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Diorama \(U.S\. Version\)](https://open.spotify.com/album/0Zq85Us1Vyb4BhbjvIx9VN) | 5:39 |
 | 22 | [Untitled](https://open.spotify.com/track/2dPKS3Cegk5YgO1HB64FUr) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [The Best Of \- Volume One](https://open.spotify.com/album/5MgR5qQCxsusIOui4S2io5) | 3:30 |
-| 23 | [One Way Mule](https://open.spotify.com/track/6WfuJb0HmIzA45sBFZ9j3F) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Diorama \(U.S\. Version\)](https://open.spotify.com/album/0Zq85Us1Vyb4BhbjvIx9VN) | 4:14 |
+| 23 | [One Way Mule](https://open.spotify.com/track/4zQxhT6MAP3ry40yCGXVY0) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [The Time of Grunge](https://open.spotify.com/album/0vyFfU2FIQEzyjpuj6XOqp) | 4:13 |
 | 24 | [Paint Pastel Princess](https://open.spotify.com/track/50L4BKgP2HNyq37tbhqFqR) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Neon Ballroom](https://open.spotify.com/album/10bobqzP8mtragmflBolOM) | 4:33 |
 | 25 | [Faultline](https://open.spotify.com/track/18ihvfYz6uiieilnfl4XCs) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Frogstomp \(Deluxe Edition\) \[Remastered\]](https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC) | 4:18 |
 | 26 | [Pop Song for Us Rejects](https://open.spotify.com/track/32LMUGCiTPMdmGlorIVezT) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Freak Show](https://open.spotify.com/album/511p6iaCuK8Sr0BYdpcfkq) | 3:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9DuoVJ0dR3g.md) - [plain]
 | 49 | [Findaway](https://open.spotify.com/track/6pcyozjE7GDIbf4oN8ctLe) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Frogstomp \(Deluxe Edition\) \[Remastered\]](https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC) | 2:58 |
 | 50 | [New Race](https://open.spotify.com/track/7FiYoxUf2GAhstQu7NkYlo) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [The Best Of \- Volume One](https://open.spotify.com/album/5MgR5qQCxsusIOui4S2io5) | 3:20 |
 
-Snapshot ID: `MTY2NzQ4MDE1NCwwMDAwMDAwMGI2OWRmNmUzMjQxNGM4MjA5YjljOWM3NzMxZjRkOTVk`
+Snapshot ID: `MTY2NzQ4MDE1NCwwMDAwMDAwMDExOWZjYTEwYjdmNzFhNTg1OWZlNmVjZDBlNGFlODBk`

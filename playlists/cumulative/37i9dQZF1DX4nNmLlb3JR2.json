@@ -85,7 +85,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 114000,
       "name": "7 Years",
       "url": "https://open.spotify.com/track/5BtoYjmh1K5DUIP9nsybOu"
@@ -179,7 +179,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 149347,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/1nlsIpjNAGKyVGHxQEJLj3"
@@ -197,7 +197,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 110250,
       "name": "Another Love - Lofi",
       "url": "https://open.spotify.com/track/28DdaEL9ZlLIa72Q7F65dQ"
@@ -552,6 +552,24 @@
     },
     {
       "album": {
+        "name": "Do It To It",
+        "url": "https://open.spotify.com/album/5tFPmOK4QrhiMtoqratw9g"
+      },
+      "artists": [
+        {
+          "name": "OnD-tox",
+          "url": "https://open.spotify.com/artist/2P1XPAaJbnw7MjbV2g9Vxz"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161431,
+      "name": "Do It To It",
+      "url": "https://open.spotify.com/track/5JzL1hreVuaZO4Ukl2NemJ"
+    },
+    {
+      "album": {
         "name": "Feelin' Cute",
         "url": "https://open.spotify.com/album/2Csit9Kx4c6p4lHSN16h12"
       },
@@ -567,6 +585,42 @@
       "duration_ms": 255272,
       "name": "Don't Go Breaking My Heart",
       "url": "https://open.spotify.com/track/5NptWVOhMkCcbeiHFVcEU3"
+    },
+    {
+      "album": {
+        "name": "don't speak",
+        "url": "https://open.spotify.com/album/1lCpNYABTYW8fDKWBbkRLK"
+      },
+      "artists": [
+        {
+          "name": "Mushhi",
+          "url": "https://open.spotify.com/artist/1NtM12STZroHO6boHGnnAk"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137746,
+      "name": "don't speak",
+      "url": "https://open.spotify.com/track/1UPLRT8BIUOn6K08YlnCAQ"
+    },
+    {
+      "album": {
+        "name": "Don\u00b4t Stop me Now",
+        "url": "https://open.spotify.com/album/1fNxqpgalp51oWvmB0j6bG"
+      },
+      "artists": [
+        {
+          "name": "Kato Mili",
+          "url": "https://open.spotify.com/artist/19DmVqt3GkVScKwII02jlr"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159545,
+      "name": "Don\u00b4t Stop me Now",
+      "url": "https://open.spotify.com/track/4rnAbHyfJWhKraJs01UUCx"
     },
     {
       "album": {
@@ -810,6 +864,42 @@
     },
     {
       "album": {
+        "name": "good 4 u",
+        "url": "https://open.spotify.com/album/778p2Kr3Tz1f5ZExmuQBDW"
+      },
+      "artists": [
+        {
+          "name": "Bat Bilger",
+          "url": "https://open.spotify.com/artist/1hHeQ22aJjCgE42pUjvkon"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139745,
+      "name": "good 4 u",
+      "url": "https://open.spotify.com/track/3AZgoA4NPnW7WVsYilE7Bo"
+    },
+    {
+      "album": {
+        "name": "Happier Than Ever",
+        "url": "https://open.spotify.com/album/44aUBNTF0z4prL3vEdIwAB"
+      },
+      "artists": [
+        {
+          "name": "Phil Marley",
+          "url": "https://open.spotify.com/artist/0Yem4dpcxVT7GJhrSwnyme"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139054,
+      "name": "Happier Than Ever",
+      "url": "https://open.spotify.com/track/5i8lZgGvIBe3iL8WMCPHsi"
+    },
+    {
+      "album": {
         "name": "Lo-Fi Jams Vol. 14",
         "url": "https://open.spotify.com/album/1IwWjovnVG3Ni1pr58JZkS"
       },
@@ -825,6 +915,24 @@
       "duration_ms": 109714,
       "name": "Havana - Lofi Version",
       "url": "https://open.spotify.com/track/4QjurBzqOd71ctHlvWDCXo"
+    },
+    {
+      "album": {
+        "name": "hey, soul sister",
+        "url": "https://open.spotify.com/album/7aIiJxjW2A9pkYvgljzADh"
+      },
+      "artists": [
+        {
+          "name": "helistofax",
+          "url": "https://open.spotify.com/artist/1OFeufWeaCNizpr4djN3qW"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151301,
+      "name": "hey, soul sister",
+      "url": "https://open.spotify.com/track/1qJgvV6WYN8pLieuY18ahM"
     },
     {
       "album": {
@@ -886,6 +994,24 @@
     },
     {
       "album": {
+        "name": "I Ain't Worried",
+        "url": "https://open.spotify.com/album/6X3oVvm0vfJMZF3H37vhDh"
+      },
+      "artists": [
+        {
+          "name": "Thermousse",
+          "url": "https://open.spotify.com/artist/0Ykwhkr1nxyYh2O3h2U0IK"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153776,
+      "name": "I Ain't Worried",
+      "url": "https://open.spotify.com/track/1HWA6RZvFTxsJbV2SBW8vN"
+    },
+    {
+      "album": {
         "name": "I Can't Make You Love Me",
         "url": "https://open.spotify.com/album/4BHFTYuEAqj9jK2p5o3Lxq"
       },
@@ -904,6 +1030,28 @@
     },
     {
       "album": {
+        "name": "I Don't Care",
+        "url": "https://open.spotify.com/album/7tn0sLHdTn8aNgex5QjBrS"
+      },
+      "artists": [
+        {
+          "name": "Peaceful Melody",
+          "url": "https://open.spotify.com/artist/6piO5Ac23WJnRQifD42dfv"
+        },
+        {
+          "name": "soave lofi",
+          "url": "https://open.spotify.com/artist/0QuTX3mzksvtwoQru6tiF8"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134078,
+      "name": "I Don't Care",
+      "url": "https://open.spotify.com/track/4qXdMHTVfXC3JQzhhoDese"
+    },
+    {
+      "album": {
         "name": "I Took a Pill in Ibiza",
         "url": "https://open.spotify.com/album/6zjzyzBuav0MnSELLr4K0U"
       },
@@ -915,7 +1063,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 179545,
       "name": "I Took a Pill in Ibiza",
       "url": "https://open.spotify.com/track/2UE2Kys4CeDLYmKe44GgXm"
@@ -944,6 +1092,24 @@
     },
     {
       "album": {
+        "name": "I'll Be There (But it's Lofi)",
+        "url": "https://open.spotify.com/album/5leduPp8U09XHYuDMkuR9X"
+      },
+      "artists": [
+        {
+          "name": "kudos nine",
+          "url": "https://open.spotify.com/artist/6LkjO5gXOpwSzsB7RFPX7Y"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177777,
+      "name": "I'll Be There - Lofi Version",
+      "url": "https://open.spotify.com/track/2ph6VLJoG4TheddqDFhriN"
+    },
+    {
+      "album": {
         "name": "TODAY'S TOP HITS BUT IT'S LOFI, VOL. 3",
         "url": "https://open.spotify.com/album/5tczhjfE1TI0dAAPGKWT0Z"
       },
@@ -962,6 +1128,42 @@
     },
     {
       "album": {
+        "name": "I'm Yours",
+        "url": "https://open.spotify.com/album/2I0Hpt0i39xi2c1RCA8r7F"
+      },
+      "artists": [
+        {
+          "name": "Ionized Beats Inc.",
+          "url": "https://open.spotify.com/artist/5aa7iCxQ4ZZGlSBaSe9bXf"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155023,
+      "name": "I'm Yours",
+      "url": "https://open.spotify.com/track/45xfMavS8WyLnWGAz4hAZf"
+    },
+    {
+      "album": {
+        "name": "Intentions",
+        "url": "https://open.spotify.com/album/3rThcXs5nBUVBeA3yiAg2x"
+      },
+      "artists": [
+        {
+          "name": "ohlos",
+          "url": "https://open.spotify.com/artist/72l8ZKvwKkr1ZMLzDcFxQC"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "Intentions",
+      "url": "https://open.spotify.com/track/3YO9K5WXtupEKSy0AZ11XL"
+    },
+    {
+      "album": {
         "name": "It\u00b4ll Be Okay",
         "url": "https://open.spotify.com/album/2mGgf7bFW0I5ACBaUQZ0oI"
       },
@@ -977,6 +1179,24 @@
       "duration_ms": 116004,
       "name": "It\u00b4ll Be Okay",
       "url": "https://open.spotify.com/track/4eWIDMit0TNSjc2bm4PM1T"
+    },
+    {
+      "album": {
+        "name": "I\u00b4m Still Standing",
+        "url": "https://open.spotify.com/album/6XbMvEssxmKHWMW0ROe4vt"
+      },
+      "artists": [
+        {
+          "name": "2 Liter",
+          "url": "https://open.spotify.com/artist/13FWCiQOR1emUlfK9wN9FM"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167172,
+      "name": "I\u00b4m Still Standing",
+      "url": "https://open.spotify.com/track/6kmwihvFKZPwBURQ26nYtT"
     },
     {
       "album": {
@@ -1039,6 +1259,24 @@
       "duration_ms": 144691,
       "name": "Killing Me Softly",
       "url": "https://open.spotify.com/track/4kXpvrCczkZ11zHR9wFR88"
+    },
+    {
+      "album": {
+        "name": "leave the door open",
+        "url": "https://open.spotify.com/album/7ndC4fkH7GALSEjwQXpJic"
+      },
+      "artists": [
+        {
+          "name": "Tetouan",
+          "url": "https://open.spotify.com/artist/5zqfe0xfWmU830hI8jThsi"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148833,
+      "name": "leave the door open",
+      "url": "https://open.spotify.com/track/2bNqkCkkkFBQZYIW8WtjPq"
     },
     {
       "album": {
@@ -1172,6 +1410,24 @@
     },
     {
       "album": {
+        "name": "Nothing\u00b4s Gonna Stop Us Now",
+        "url": "https://open.spotify.com/album/3jtPNM44kEtKnG2CxSeixS"
+      },
+      "artists": [
+        {
+          "name": "the beats of...",
+          "url": "https://open.spotify.com/artist/6xI7tRm64d9dwDuXrSv1Kr"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160312,
+      "name": "Nothing\u00b4s Gonna Stop Us Now",
+      "url": "https://open.spotify.com/track/5kDdYabORKt6kskxz1sd1S"
+    },
+    {
+      "album": {
         "name": "I've Seen You Somewhere Before",
         "url": "https://open.spotify.com/album/68dG80XL5iTYGxjlfmG8tx"
       },
@@ -1183,7 +1439,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 175523,
       "name": "Numb",
       "url": "https://open.spotify.com/track/3RLTOAqa72Kn7gh6NzaRot"
@@ -1450,6 +1706,42 @@
     },
     {
       "album": {
+        "name": "rude",
+        "url": "https://open.spotify.com/album/7kKjLqqvMte2bdGaST6Xz7"
+      },
+      "artists": [
+        {
+          "name": "Reggie Lume",
+          "url": "https://open.spotify.com/artist/6wQTCO5DGk8vkOA0p514km"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136500,
+      "name": "rude",
+      "url": "https://open.spotify.com/track/6uff17CnkE1obX1NPy232P"
+    },
+    {
+      "album": {
+        "name": "Running Up That Hill",
+        "url": "https://open.spotify.com/album/2URVfdDGrqYbepIWjHHjIh"
+      },
+      "artists": [
+        {
+          "name": "Cal Credence",
+          "url": "https://open.spotify.com/artist/0T64wysQFvIl2GXHa1XRY7"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129832,
+      "name": "Running Up That Hill",
+      "url": "https://open.spotify.com/track/2eITMwB0fhcCw9fs5gjLrO"
+    },
+    {
+      "album": {
         "name": "Slowed and Reverbed Vol. 5",
         "url": "https://open.spotify.com/album/7hx6Ds4IfqcWYV5dIqqfRQ"
       },
@@ -1461,7 +1753,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 115200,
       "name": "Running Up That Hill (A Deal with God) - slowed + reverb",
       "url": "https://open.spotify.com/track/3AGfLfYdodmxje6MYI3n31"
@@ -1483,6 +1775,42 @@
       "duration_ms": 129062,
       "name": "Running Up That Hill (Stranger Things Lofi)",
       "url": "https://open.spotify.com/track/5dDs4tMasCeg1bsN1zxlOe"
+    },
+    {
+      "album": {
+        "name": "Intentions",
+        "url": "https://open.spotify.com/album/3rThcXs5nBUVBeA3yiAg2x"
+      },
+      "artists": [
+        {
+          "name": "ohlos",
+          "url": "https://open.spotify.com/artist/72l8ZKvwKkr1ZMLzDcFxQC"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171891,
+      "name": "Savage Love",
+      "url": "https://open.spotify.com/track/49tiZj04if4awJE2vjJo6z"
+    },
+    {
+      "album": {
+        "name": "Save Your Tears",
+        "url": "https://open.spotify.com/album/22pdGXHvnPyLMvd6ZnMWNP"
+      },
+      "artists": [
+        {
+          "name": "Ingelwood Syndicate",
+          "url": "https://open.spotify.com/artist/3Mvlf7TqfvwKklBsRxezJ7"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118990,
+      "name": "Save Your Tears",
+      "url": "https://open.spotify.com/track/5Hn992puLQFGQVrPQiFypz"
     },
     {
       "album": {
@@ -1519,6 +1847,24 @@
       "duration_ms": 129905,
       "name": "See You Again",
       "url": "https://open.spotify.com/track/11c2RqFZfpq8Z6vxBfMDzk"
+    },
+    {
+      "album": {
+        "name": "Intentions",
+        "url": "https://open.spotify.com/album/3rThcXs5nBUVBeA3yiAg2x"
+      },
+      "artists": [
+        {
+          "name": "ohlos",
+          "url": "https://open.spotify.com/artist/72l8ZKvwKkr1ZMLzDcFxQC"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166693,
+      "name": "Se\u00f1orita",
+      "url": "https://open.spotify.com/track/2OM7Asq8WtmCuWLDuaUphc"
     },
     {
       "album": {
@@ -1788,6 +2134,24 @@
     },
     {
       "album": {
+        "name": "teenage dirtbag",
+        "url": "https://open.spotify.com/album/49cTRGNuXKmfpLhVFCXST9"
+      },
+      "artists": [
+        {
+          "name": "NSW Kenny",
+          "url": "https://open.spotify.com/artist/7rAgjCQMN8VOaqHzdKESzr"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124737,
+      "name": "teenage dirtbag",
+      "url": "https://open.spotify.com/track/147H3hthobgaKkbh0YIQVr"
+    },
+    {
+      "album": {
         "name": "That's the Way It Is",
         "url": "https://open.spotify.com/album/3JNRLXYVdLBni8VY92Irve"
       },
@@ -1842,6 +2206,24 @@
     },
     {
       "album": {
+        "name": "traitor",
+        "url": "https://open.spotify.com/album/56Kl5v6k1GuQmc0zFQrIBS"
+      },
+      "artists": [
+        {
+          "name": "Steve Blino",
+          "url": "https://open.spotify.com/artist/24usk464uzsxYNFHCgagLj"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178267,
+      "name": "traitor",
+      "url": "https://open.spotify.com/track/5iaUEqqSRy5hNgscqnKN4b"
+    },
+    {
+      "album": {
         "name": "Trouble",
         "url": "https://open.spotify.com/album/67gToV6mE2zjFmAApfMGsG"
       },
@@ -1893,6 +2275,24 @@
       "duration_ms": 108000,
       "name": "Umbrella",
       "url": "https://open.spotify.com/track/5cfUalgs5w98W14C4Lt0Xh"
+    },
+    {
+      "album": {
+        "name": "Unholy",
+        "url": "https://open.spotify.com/album/7fsmqpkBQ0Z6Z08n2UtSjd"
+      },
+      "artists": [
+        {
+          "name": "Bow Malik",
+          "url": "https://open.spotify.com/artist/1e6kAoiCHHdonzjnSIkUkk"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161410,
+      "name": "Unholy",
+      "url": "https://open.spotify.com/track/1wloYvGkQimOKMG1h86Jt9"
     },
     {
       "album": {
@@ -1954,6 +2354,24 @@
     },
     {
       "album": {
+        "name": "Intentions",
+        "url": "https://open.spotify.com/album/3rThcXs5nBUVBeA3yiAg2x"
+      },
+      "artists": [
+        {
+          "name": "ohlos",
+          "url": "https://open.spotify.com/artist/72l8ZKvwKkr1ZMLzDcFxQC"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "Watermelon Sugar",
+      "url": "https://open.spotify.com/track/3vHaS2v1VAYSTzNaUTnZmi"
+    },
+    {
+      "album": {
         "name": "Watermelon Sugar",
         "url": "https://open.spotify.com/album/426VKc5Es9l2G0q4IUoELZ"
       },
@@ -1965,7 +2383,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 96979,
       "name": "Watermelon Sugar",
       "url": "https://open.spotify.com/track/22MIvtuAgtIwHslhKIyPyo"
@@ -2005,6 +2423,24 @@
       "duration_ms": 169736,
       "name": "when the party's over",
       "url": "https://open.spotify.com/track/0gL7REEt5oI4DfvP8dJnUO"
+    },
+    {
+      "album": {
+        "name": "Where Are You Now",
+        "url": "https://open.spotify.com/album/7AFEvC9ROODIHwNxEOpbaR"
+      },
+      "artists": [
+        {
+          "name": "Paraceta",
+          "url": "https://open.spotify.com/artist/4WOcTt3WS2TuaWc5yMcBFw"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162774,
+      "name": "Where Are You Now",
+      "url": "https://open.spotify.com/track/0ejamsXbJlWpR0r5w9KlXM"
     },
     {
       "album": {

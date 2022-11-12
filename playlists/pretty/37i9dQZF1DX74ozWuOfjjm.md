@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 
 > Listen to the women of AU & NZ at full volume\. Cover: Pania
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,233 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,228 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 | 55 | [i lost my friend at a rave](https://open.spotify.com/track/1XvIHLaJ1pX7lDC8CW9sTV) | [Abby Bella May](https://open.spotify.com/artist/7wMih0kHtN3mLG2I93WXH8) | [i lost my friend at a rave](https://open.spotify.com/album/6nP8L69qkApF7sJ0LSag6g) | 3:00 |
 | 56 | [Teenage Dirtbag – Spotify Singles](https://open.spotify.com/track/2Ay91YgsEdMNV8eTzTT5sU) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Spotify Singles](https://open.spotify.com/album/0z8PfudkG3FoO5LrWW4akU) | 3:06 |
 | 57 | [Haunted](https://open.spotify.com/track/5iazYkEr6zbeZYjoUGwEBn) | [Telenova](https://open.spotify.com/artist/5UlJRJmlRLhQJX8lJuerVq) | [Haunted](https://open.spotify.com/album/1U7TrNXieHR1rMTjs7R2jj) | 3:23 |
-| 58 | [Black Cloud](https://open.spotify.com/track/7eKFpAosi1b37KQXHUVa7p) | [merci, mercy](https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH) | [Black Cloud](https://open.spotify.com/album/2dGVf0K5vgvhqrL3STAGoB) | 3:14 |
+| 58 | [Black Cloud](https://open.spotify.com/track/6XnSBGNn90Lsoo2v6AUPco) | [merci, mercy](https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH) | [Into You](https://open.spotify.com/album/1AWhTuxn0iTkGqWy6F3jQs) | 3:14 |
 | 59 | [Jinx](https://open.spotify.com/track/5K7GTQnANplkwWdznjvZis) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0) | [Jinx](https://open.spotify.com/album/1sOBPFuUVC0B1wFvVifEVp) | 2:46 |
 | 60 | [Gravity](https://open.spotify.com/track/0HmX9AOxfCcFSHpNLcRrHi) | [Ahlei](https://open.spotify.com/artist/5QyAbE7iRKVzJ5PXa3WpHq) | [Gravity](https://open.spotify.com/album/4JNFIuyUgQhnZyS7RCvWzP) | 3:02 |
 | 61 | [sleep in](https://open.spotify.com/track/6x25b9ZpImUz4pniORsgvA) | [teddie](https://open.spotify.com/artist/413K7knAxLgSwXtGFEGuAP) | [sleep in](https://open.spotify.com/album/5DsgOv6IVWT98bHh3zl7F8) | 2:37 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 | 99 | [I Keep](https://open.spotify.com/track/1572n5ACOGAwWhBX3Ix9jM) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Space Island](https://open.spotify.com/album/6dWmsPNUlFB8uTsqxrePTI) | 3:46 |
 | 100 | [Exile](https://open.spotify.com/track/70icLfzhRlRTW5is736O3j) | [Lily Papas](https://open.spotify.com/artist/2LDsVxtrG9fVXTNaL9oJNi) | [Exile](https://open.spotify.com/album/5EUFuGYhoaO2vImrZnxYG6) | 3:35 |
 
-Snapshot ID: `MTY2NzIyMTIwMCwwMDAwMDAwMDFiZDQ1YWEwMGZmZDk4NjUyZjU2NGE0NzIxMGMxZjMz`
+Snapshot ID: `MTY2NzIyMTIwMCwwMDAwMDAwMGY5MjQxYWZiNDM2NGRlNTkzZjg5MjM4MjJiYzhlMjU5`

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9E5mH7sfUn.md) - [plain]
 
 > Amigo, ven te invito una copa...
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,994 likes - 68 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,173 likes - 68 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [El Amor Acaba](https://open.spotify.com/track/4TuVPlUrfKpAqPUJFjONcM) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Secretos](https://open.spotify.com/album/1Bzdy4dRu2czCWd4bpCzUh) | 4:20 |
 | 2 | [No Me Vuelvo a Enamorar](https://open.spotify.com/track/0kh9EIdWmiKR2HUDEXpyP1) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Debo Hacerlo](https://open.spotify.com/album/0cccCLiFP4WGPmXdn823JG) | 3:19 |
 | 3 | [Déjenme Si Estoy Llorando](https://open.spotify.com/track/0YvKdz58OcwgYdS67NJkkU) | [Los Angeles Negros](https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx) | [Serie De Oro](https://open.spotify.com/album/1vdwYgTjF9jklmR0RbRR0d) | 2:48 |
-| 4 | [Si No Te Hubieras Ido](https://open.spotify.com/track/3l1ZanpJ3jFQZMqATizqfE) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [La Historia Continúa...Parte IV](https://open.spotify.com/album/6ziRoYI3rWu4TOAUeIJuNO) | 4:46 |
+| 4 | [Si No Te Hubieras Ido](https://open.spotify.com/track/7BDTgXVdWYyAiW76xrdeAm) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Momento Retro vol\. I](https://open.spotify.com/album/4URCrtMbYzClIt2f6VpstT) | 4:49 |
 | 5 | [Hipocresía](https://open.spotify.com/track/5Cf4aRX1Kr6Y0DMb18zaqi) | [Los Pasteles Verdes](https://open.spotify.com/artist/2lHzW2pMhRYX3ohx5lZY8y) | [Éxitos Eternos](https://open.spotify.com/album/3P9Y7c860rgTpYjK8SBMon) | 4:19 |
 | 6 | [La Copa Rota](https://open.spotify.com/track/5IfAlOMySAH08t03DopAoZ) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [Coleccion Original: José Feliciano](https://open.spotify.com/album/5wDSxbDiNT3iraQnVhWrD0) | 2:38 |
 | 7 | [¿Y cómo es él?](https://open.spotify.com/track/7aSxNjoVoAwNL7HDAKwGtC) | [José Luis Perales](https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP) | [Entre El Agua Y El Fuego](https://open.spotify.com/album/2D6nGOEEyp7GZCyWlO99GI) | 4:08 |
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9E5mH7sfUn.md) - [plain]
 | 39 | [A Esa](https://open.spotify.com/track/42QWOsW1f9uDu9zsoUAE73) | [Pimpinela](https://open.spotify.com/artist/7E7CVSqFdLyh0K4AE9uTMo) | [Personalidad](https://open.spotify.com/album/7KvMyEYFd70S7ywbxhzleY) | 3:08 |
 | 40 | [Hoy tengo ganas de ti](https://open.spotify.com/track/17oji5hYaIqOFWFnPPWCeJ) | [Miguel Gallardo](https://open.spotify.com/artist/5imd6MnP4WpDohSwFnO38T) | [2 \(Remasterizado 2017\)](https://open.spotify.com/album/5g5J0Xr0ERqUJXGhEGneOr) | 4:05 |
 | 41 | [Y Aquí Estoy](https://open.spotify.com/track/5PSES4lFkqiLk2ERayuuha) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Sagitario](https://open.spotify.com/album/05tHWQm1uJIo6FxQ9xzygd) | 3:44 |
-| 42 | [Maracas](https://open.spotify.com/track/5Cf8MCD6NcYvy8RQL2khAS) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1), [Alberto Vazquez](https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc) | [Grandes Duetos](https://open.spotify.com/album/33DVEiEzNDnc0Ojj2knqtS) | 3:08 |
+| 42 | [Maracas](https://open.spotify.com/track/5CrzFDK0cq8ATv6fMwcbQc) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1), [Alberto Vazquez](https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc) | [Las Meritas Rolas](https://open.spotify.com/album/5YFS2n2pOsK6pALUUeTKi2) | 3:08 |
 | 43 | [Miénteme](https://open.spotify.com/track/75B5ZKWxccZztF9x76RKXt) | [Victor Yturbe "El Piruli"](https://open.spotify.com/artist/288DN4mD1eyvKyVz8So3HB) | [La Más Completa Colección](https://open.spotify.com/album/4JUkSVuOwbbMwCXETe6qa0) | 3:10 |
 | 44 | [Vamos A Platicar](https://open.spotify.com/track/7lCnTYtFceL7xfc1yAuxFz) | [Los Socios Del Ritmo](https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW) | [15 De Coleccion](https://open.spotify.com/album/1PXHqWOWHjTXBIrjmr4q1t) | 3:18 |
 | 45 | [Déjame Volver Contigo](https://open.spotify.com/track/6srg2NYRJkchlCSfuaEt9P) | [Dulce](https://open.spotify.com/artist/6ZYIXbXuZWooEUSJlRtew2) | [Singles](https://open.spotify.com/album/1yTICkCGrAN8nQO0JGuZoC) | 4:12 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9E5mH7sfUn.md) - [plain]
 | 67 | [Un Idiota](https://open.spotify.com/track/5susfx6SX1tebTCLSxe74K) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Secreto De Amor](https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV) | 3:19 |
 | 68 | [Desvelado](https://open.spotify.com/track/2JJSGhPpATm8lXeYjD95fw) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Desvelado](https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2) | 3:41 |
 
-Snapshot ID: `MTY1NzgxNDc4NSwwMDAwMDAwMGE0ZjNiNWIxOWNkYTM2OTYwZWZiNzRhNTE1YTI0Nzdi`
+Snapshot ID: `MTY1NzgxNDc4NSwwMDAwMDAwMGRkNDllODQ1NGMzYmExMDU1ZTY5YmE1YjE2OWJjMmM3`

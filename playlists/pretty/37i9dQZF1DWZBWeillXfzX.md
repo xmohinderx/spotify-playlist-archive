@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBWeillXfzX.md) - [plain]
 
 > Blues guitar heroes of today\. Cover: Kirk Fletcher
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,558 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,582 likes - 50 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBWeillXfzX.md) - [plain]
 | 5 | [Keep It Up](https://open.spotify.com/track/0AaIPTctizQbkpg2e1MCh4) | [Phil Buckle](https://open.spotify.com/artist/6nSN81rc3gTANluX5J9KOH), [Jimmy Johnson](https://open.spotify.com/artist/0PAozwlZoME4aQJ6qdpwvV), [Virgil Donati](https://open.spotify.com/artist/0mKi9K7XoFGTNfOhwlxr6Y) | [Keep It Up](https://open.spotify.com/album/7zKBDolt5SBR9L61zJySRu) | 2:54 |
 | 6 | [Blues Deluxe](https://open.spotify.com/track/2O7OjNCjqflzWOTVg9UlEm) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Deluxe](https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6) | 7:20 |
 | 7 | [Sweet Inspiration](https://open.spotify.com/track/6RMhGW31lycj4UqKsLIJyr) | [The Derek Trucks Band](https://open.spotify.com/artist/1YwfENKEZrowcmtR1nALZn) | [Already Free](https://open.spotify.com/album/1I4Ydy7hVvINSdRHV7n4fS) | 4:38 |
-| 8 | [Outside Of This Town](https://open.spotify.com/track/1huWqmpiYksaPppQHLDhZP) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Kingfish](https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH) | 4:08 |
-| 9 | [Shelter Me](https://open.spotify.com/track/0Wv8SrR4kycxh3GIpl2adV) | [Tab Benoit](https://open.spotify.com/artist/3ODYbknLzVe3cWQzVfbzGB), [Louisiana's LeRoux](https://open.spotify.com/artist/6055P8DekQCGx47sckcoIF) | [Power Of The Pontchartrain](https://open.spotify.com/album/0jfaR6Gbk36L1UF8ba8ufm) | 5:04 |
+| 8 | [Shelter Me](https://open.spotify.com/track/0Wv8SrR4kycxh3GIpl2adV) | [Tab Benoit](https://open.spotify.com/artist/3ODYbknLzVe3cWQzVfbzGB), [Louisiana's LeRoux](https://open.spotify.com/artist/6055P8DekQCGx47sckcoIF) | [Power Of The Pontchartrain](https://open.spotify.com/album/0jfaR6Gbk36L1UF8ba8ufm) | 5:04 |
+| 9 | [Outside Of This Town](https://open.spotify.com/track/1huWqmpiYksaPppQHLDhZP) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Kingfish](https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH) | 4:08 |
 | 10 | [28 Days](https://open.spotify.com/track/3Q7alLUVqvmpSVT7aAkFLG) | [Tinsley Ellis](https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on) | [Devil May Care](https://open.spotify.com/album/0vetIsh52LB0I10eBDTdLP) | 4:00 |
 | 11 | [When My Train Pulls In](https://open.spotify.com/track/2mdxGlwrhtkuxgzbH7LOIh) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Blak and Blu \(Deluxe Edition\)](https://open.spotify.com/album/0YaeFHEYGpdzdFIxDRFvCv) | 7:45 |
 | 12 | [Crow Jane](https://open.spotify.com/track/2b0ObO7Xk3qzJdMOhJc5c3) | [The Derek Trucks Band](https://open.spotify.com/artist/1YwfENKEZrowcmtR1nALZn) | [Songlines](https://open.spotify.com/album/1T6rgbl3cemngWpcLC99MH) | 3:53 |
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBWeillXfzX.md) - [plain]
 | 21 | [Something's Gotta Give](https://open.spotify.com/track/2HYRDy22RodG4Kp8DtsdDU) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV), [B\. Slade](https://open.spotify.com/artist/73qNi3Z0jNl1erMNwApiWH) | [The Bookends](https://open.spotify.com/album/4pV2mDVEGOrHIA9kqmbtBU) | 4:19 |
 | 22 | [You're Everything](https://open.spotify.com/track/7j15tP94x6uPKZFV4rGPz6) | [The Robert Cray Band](https://open.spotify.com/artist/6cAtGdArQhrU7tTBoeWY3P) | [In My Soul](https://open.spotify.com/album/11Cry7mbcEQqOUGF2zX6Xk) | 6:05 |
 | 23 | [Spirit](https://open.spotify.com/track/0G1p6qY60TM9fT3v9iHRdF) | [Philip Sayce](https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h) | [Spirit Rising](https://open.spotify.com/album/3dQKiRCBLOnvRmfcTCJP0H) | 3:38 |
-| 24 | [Love Ain't My Favorite Word](https://open.spotify.com/track/7CPhvCVpEpZ6Xjvfs2EeG5) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Kingfish](https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH) | 5:25 |
+| 24 | [Got to Get Up](https://open.spotify.com/track/4UPWcafmoDHKZziDsTumP3) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [This Land](https://open.spotify.com/album/6pwdy6oQdwSQo8XOfpfAJJ) | 2:37 |
 | 25 | [Watch It Die](https://open.spotify.com/track/1zo9iSJu2FgklNDwRclVFq) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Kill Or Be Kind](https://open.spotify.com/album/0Z917mMSP3EHtJicbhSAhA) | 5:00 |
-| 26 | [Got to Get Up](https://open.spotify.com/track/4UPWcafmoDHKZziDsTumP3) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [This Land](https://open.spotify.com/album/6pwdy6oQdwSQo8XOfpfAJJ) | 2:37 |
+| 26 | [Love Ain't My Favorite Word](https://open.spotify.com/track/7CPhvCVpEpZ6Xjvfs2EeG5) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Kingfish](https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH) | 5:25 |
 | 27 | [I Want You](https://open.spotify.com/track/7LcaMnxskCb9tvxggOBR2O) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [The Traveler](https://open.spotify.com/album/2Y84Mm4NzY5TzbdR1ub9Ow) | 6:27 |
 | 28 | [Coal Tattoo](https://open.spotify.com/track/56DSKF2O31YPrblvpA8xVk) | [Warren Haynes](https://open.spotify.com/artist/73iWh9WUMf0xK6cRkNJK4h), [Railroad Earth](https://open.spotify.com/artist/6ijT84fUReKCGYV3MjhB2y) | [Ashes & Dust](https://open.spotify.com/album/6y9X3ZKEa63FWjpoR3Km04) | 7:26 |
 | 29 | [Coming Back](https://open.spotify.com/track/6enELEFBmbFdCuS2cxrS8G) | [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [Headway](https://open.spotify.com/album/0TjBV6tw18oKPHabWVArG3) | 2:58 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBWeillXfzX.md) - [plain]
 | 47 | [Backbone](https://open.spotify.com/track/735JDdMlCfiJDastCL3WTA) | [Tyler Bryant & the Shakedown](https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo) | [Pressure](https://open.spotify.com/album/5iOzR7HQRJ47iJ6BTRhBEi) | 2:48 |
 | 48 | [Out Of My Head](https://open.spotify.com/track/4NSUSn0ypWV9tnB88Loygy) | [Chris Cain](https://open.spotify.com/artist/3HFfi1wOWbXd83qSiwJhuv) | [Raisin' Cain](https://open.spotify.com/album/2Ez2n6EAa9Xp7dfOacCbEY) | 3:20 |
 | 49 | [Gettin Old](https://open.spotify.com/track/706ZgJOItrsyuJFLvh2JKl) | [Michael Landau](https://open.spotify.com/artist/6kXe2uPLJcKyNrSUmR21Cw) | [Rock Bottom](https://open.spotify.com/album/137DEWrKTsMmQWsixCEyfV) | 3:17 |
-| 50 | [Shufflin' West Coast](https://open.spotify.com/track/35znJMAm3GhjLwY9o3KiSG) | [David Garfield](https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb), [Albert Lee](https://open.spotify.com/artist/3YMlcBYj21DcMALlALTO7m), [Tim Pierce](https://open.spotify.com/artist/5ViJHAJBhLL7J9WNR1uPDN), [James Harrah](https://open.spotify.com/artist/4XonxCeLqWlDlpztAyCZb4), [Johnny Lee Schell](https://open.spotify.com/artist/5LAFSMKY4RMw192jHeaBRi), [Toshi Yanagi](https://open.spotify.com/artist/0H2cYrALxabRKcAJdF6EKj), [Michael Thompson](https://open.spotify.com/artist/3s4aVgqEf5mdv6ubR7nwfE), [Brent Mason](https://open.spotify.com/artist/1oO9xG0YRXpZdXseGgNlFk), [Paul Franklin](https://open.spotify.com/artist/2d5aRKZTJgcuetYRNzKDrA) | [Shufflin' West Coast](https://open.spotify.com/album/0xU6562s9LeTyv9dvqFUw0) | 4:22 |
+| 50 | [Pusher](https://open.spotify.com/track/6eN0XgXvdEr27mVjbodO9x) | [Josh Smith](https://open.spotify.com/artist/1rPHe9YQyCdfmYjd1kOVkB) | [Over Your Head](https://open.spotify.com/album/34kZKs1BDLcPE4SHGKCT4c) | 6:28 |
 
-Snapshot ID: `MTY1MjQxNDUyMCwwMDAwMDAwMGY1NWRiYzQ4NTE2ZmY2OWFjZDE0NjNkZDZhZTczZDUx`
+Snapshot ID: `MTY1MjQxNDUyMCwwMDAwMDAwMDNlMDBhYjkzNjE2M2I0NzM5YzYwMmY0MWZkMDllZTEy`

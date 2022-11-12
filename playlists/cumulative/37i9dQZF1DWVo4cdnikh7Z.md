@@ -4,7 +4,7 @@
 
 > New Music from Kollywood.<br/>Cover : Varisu
 
-346 songs - 21 hr 46 min - [published](https://open.spotify.com/playlist/3lJTsYcdZXxaz1Tx9gEyN0)
+347 songs - 21 hr 50 min - [published](https://open.spotify.com/playlist/3lJTsYcdZXxaz1Tx9gEyN0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,6 +208,7 @@
 | [Nee Nee Pothumae](https://open.spotify.com/track/3i0yxlrHlvhYhfeuDM1Lw7) | [Ravi G](https://open.spotify.com/artist/7F0SYkO9wyNY0aJFD2C1bD), [Padmapriya Raghavan](https://open.spotify.com/artist/2E5sS9FjfJBCgckaoajQSm) | [JIIVI 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/30bPNoqbwWINvnwFSux6IP) | 5:16 | 2022-08-16 | 2022-08-23 |
 | [Nee Yaaro](https://open.spotify.com/track/3Yy3RLCEPEcHBNBK0T1tdR) | [Y\. Raghav Prasad](https://open.spotify.com/artist/6QVQPJSvISqluxk5RId9fE), [Anand Aravindakshan](https://open.spotify.com/artist/03Q99mwmSqlbQo2iGtpE0g), [Mridula Warrier](https://open.spotify.com/artist/6XtMSGKU7YkkK8Y9ENfHeh) | [Nee Yaaro \(From "Thudikkum Karangal"\)](https://open.spotify.com/album/1A8GaekzzmHxYQPGydzjRN) | 4:26 | 2022-07-20 | 2022-07-29 |
 | [Nee Yaaro \(From "Thudikkum Karangal"\)](https://open.spotify.com/track/4NREOwrJB5FJfWey4ElzPr) | [Anand Aravindakshan](https://open.spotify.com/artist/03Q99mwmSqlbQo2iGtpE0g), [Mridula Warrier](https://open.spotify.com/artist/6XtMSGKU7YkkK8Y9ENfHeh), [Y\. Raghav Prasad](https://open.spotify.com/artist/6QVQPJSvISqluxk5RId9fE) | [Nee Yaaro \(From "Thudikkum Karangal"\) \- Single](https://open.spotify.com/album/3gCItKsUWgmWP0lfRJQLcZ) | 4:26 | 2022-07-20 | 2022-08-03 |
+| [Neeladho](https://open.spotify.com/track/0ZcMqsN9Xa2osfnz0S49dD) | [Arrol Corelli](https://open.spotify.com/artist/0vOmOWhCwishGqWUpiiv5o), [Madhu Iyer](https://open.spotify.com/artist/7oZRXSKnyDvioU14PyejT4) | [Kalagathalaivan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7MWyFiDkemk7hFeNJLYxHx) | 3:29 | 2022-11-11 |  |
 | [Neerkumizho \- From "Kolai"](https://open.spotify.com/track/4SEIbX57gWT54RxF0Iw2sz) | [Girishh G](https://open.spotify.com/artist/5VvulDYNoxmP3ey1yGddvB), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Karthik Netha](https://open.spotify.com/artist/3o7GGc9KjbLzTCwOq9WL55) | [Neerkumizho \(From "Kolai"\)](https://open.spotify.com/album/7hqOfumgIlZPC820TTLvjw) | 4:19 | 2022-08-14 | 2022-09-09 |
 | [Nenjai Kelu](https://open.spotify.com/track/6hCZWcTbzFPf3876iUMtpO) | [Karthik Raja](https://open.spotify.com/artist/0jXtd5NqfXiq9aT87f0GeX), [Priyanka NK](https://open.spotify.com/artist/2ur0GHc7zvYZXe0WjIKd2K) | [Nenjai Kelu \(From "Pisasu 2"\)](https://open.spotify.com/album/7aItHGo2GBBh9J5pWNHkw1) | 4:26 | 2022-08-25 | 2022-08-27 |
 | [Nenjai Kelu \(From " Pisachi 2"\)](https://open.spotify.com/track/4Q83lCW6MchfJKnidXHYpm) | [Priyanka NK](https://open.spotify.com/artist/2ur0GHc7zvYZXe0WjIKd2K), [Karthik Raja](https://open.spotify.com/artist/0jXtd5NqfXiq9aT87f0GeX), [Kabilan](https://open.spotify.com/artist/2MxriAGmcX5lgQt3SFyru6) | [Nenjai Kelu \(From " Pisachi 2"\) \- Single](https://open.spotify.com/album/2gYg067qwA2aIK2waWTTdv) | 4:26 | 2022-08-25 | 2022-09-09 |

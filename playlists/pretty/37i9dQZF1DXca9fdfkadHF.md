@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca9fdfkadHF.md) - [plain]
 
 > ¡A rockear con los titanes de Perú! Foto: Afrodisiaco
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,346 likes - 60 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,405 likes - 60 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca9fdfkadHF.md) - [plain]
 | 16 | [Nuestro Viejo Hotel](https://open.spotify.com/track/12ybnfIatnLWEC2S6BYmas) | [Plutonio de Alto Grado](https://open.spotify.com/artist/5E1vOnaDVuBXGt21yY7f01) | [Nuestro Viejo Hotel](https://open.spotify.com/album/5jSoD1MdnqYhfjU5tUyDIJ) | 3:32 |
 | 17 | [La Chata](https://open.spotify.com/track/3jzpdDnLaQcsuGCw4JwVYS) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Infectado](https://open.spotify.com/album/2zAl9NEyqqhmupC1MFtlHK) | 3:26 |
 | 18 | [Quédate](https://open.spotify.com/track/5WbgDeqVRo5C6mzJYIxlHn) | [Zen](https://open.spotify.com/artist/2sEmBklSbXkHge8Bx8zQzF) | [Aquí y Ahora](https://open.spotify.com/album/0xvLmAbqSOxIbRLJmWaIiQ) | 3:37 |
-| 19 | [Un Día Sin Sexo](https://open.spotify.com/track/2Mvg1fyuwuZtWshE9v0M3g) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Lado B](https://open.spotify.com/album/6lAwgVT7xFEeZazlF95q2t) | 6:37 |
+| 19 | [Un Día Sin Sexo](https://open.spotify.com/track/2NQiAkkQGqHXg7HxPgI1IV) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Rock Peruano](https://open.spotify.com/album/4lrJX0gvqyOao3TAgmqAgx) | 6:37 |
 | 20 | [Los Patos y las Patas](https://open.spotify.com/track/0KzcD5rBOrAKPvvbGnvTZ7) | [Nosequien y los Nosecuantos](https://open.spotify.com/artist/53NElDuSIPdjifOGOcvqqe) | [XX Larga Duración](https://open.spotify.com/album/1EGY0YnV5576fW6v8mw9pK) | 3:06 |
 | 21 | [Travesti](https://open.spotify.com/track/7mP7CSPnMOgiB4TFzN7QaM) | [Sangre Púrpura](https://open.spotify.com/artist/0iCm5J3ki7zYRKNaGB72hN) | [Lo Mejor](https://open.spotify.com/album/5UmHPpAm1Dn6l2m3poazi9) | 4:00 |
 | 22 | [Carreteras Mojadas](https://open.spotify.com/track/6UKI8gr3zCJmKBEp0iHrFS) | [Christian Meier](https://open.spotify.com/artist/3OgfCHk8YwaZ7NjQHbL4f3) | [No Me Acuerdo Quién Fui](https://open.spotify.com/album/6T0Ekn1CIDccf5CbDRfHkF) | 4:29 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca9fdfkadHF.md) - [plain]
 | 59 | [Confusión](https://open.spotify.com/track/6SiQcAM3WKVf9eP2WQZ0Ok) | [Zen](https://open.spotify.com/artist/2sEmBklSbXkHge8Bx8zQzF) | [Confusión](https://open.spotify.com/album/39JBhk7OBHt3Zv61nZcFte) | 2:46 |
 | 60 | [Los Finos](https://open.spotify.com/track/2VZF5V2UtGkcxVsynxLxoE) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [2020](https://open.spotify.com/album/2XXSSuTZwjCGyI0yshXmJv) | 4:08 |
 
-Snapshot ID: `MTY0ODc4OTIwMCwwMDAwMDAwMDNjMWNlY2M4N2NjMWYzNGIxZmZjYjNmN2FiYzVlMDAx`
+Snapshot ID: `MTY0ODc4OTIwMCwwMDAwMDAwMGI5ZjRjMWFiMTE4ZjZlZTQ2YjA2ODc3ZDdmZDk4MTQ3`

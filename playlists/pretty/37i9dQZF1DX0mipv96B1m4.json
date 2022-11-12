@@ -1,12 +1,12 @@
 {
   "description": "Top flight Caribbean influenced bangers made in Uganda ",
-  "num_followers": 209,
+  "num_followers": 213,
   "original_name": "Kidandali Parte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODExMzk0MCwwMDAwMDAwMGJiYmM3NmQ1YjY0YmE4MTg0NmRjNTMzOGZkNzc3MTFl",
+  "snapshot_id": "MTY2ODExMzk0MCwwMDAwMDAwMDZiNjM4NGM4ZTFlZTJmMzNmODMzNjg2NzQ5OWVjYzJj",
   "tracks": [
     {
       "added_at": "2022-03-31 17:42:20",
@@ -49,7 +49,7 @@
       "url": "https://open.spotify.com/track/6ys37R562Bjkk6cddXH3m0"
     },
     {
-      "added_at": "2022-11-11 01:28:58",
+      "added_at": "2022-11-12 05:15:01",
       "album": {
         "name": "Teacher",
         "url": "https://open.spotify.com/album/0iYizww1zmBgvN4rW34nQb"
@@ -241,6 +241,22 @@
       "url": "https://open.spotify.com/track/5iwXQ93LYuwEaSog5UTFiz"
     },
     {
+      "added_at": "2022-03-31 17:42:20",
+      "album": {
+        "name": "Magazine",
+        "url": "https://open.spotify.com/album/72Ghzaks0iVwFoPloKqEB7"
+      },
+      "artists": [
+        {
+          "name": "ZEX BILANGILANGI",
+          "url": "https://open.spotify.com/artist/2DOFhYsDkJP2H8bdvLcS9c"
+        }
+      ],
+      "duration_ms": 242500,
+      "name": "Magazine",
+      "url": "https://open.spotify.com/track/76dVr5jQGCVElKmsTLVHKq"
+    },
+    {
       "added_at": "2022-07-29 06:06:22",
       "album": {
         "name": "Bikole",
@@ -263,22 +279,6 @@
     {
       "added_at": "2022-03-31 17:42:20",
       "album": {
-        "name": "Magazine",
-        "url": "https://open.spotify.com/album/72Ghzaks0iVwFoPloKqEB7"
-      },
-      "artists": [
-        {
-          "name": "ZEX BILANGILANGI",
-          "url": "https://open.spotify.com/artist/2DOFhYsDkJP2H8bdvLcS9c"
-        }
-      ],
-      "duration_ms": 242500,
-      "name": "Magazine",
-      "url": "https://open.spotify.com/track/76dVr5jQGCVElKmsTLVHKq"
-    },
-    {
-      "added_at": "2022-03-31 17:42:20",
-      "album": {
         "name": "Bwogana",
         "url": "https://open.spotify.com/album/3r0StX3tAzPtuZU20E9FrY"
       },
@@ -297,7 +297,7 @@
       "url": "https://open.spotify.com/track/3YU8Nr54ccC4SQD2YqFvQ5"
     },
     {
-      "added_at": "2022-11-11 01:28:58",
+      "added_at": "2022-11-12 05:15:01",
       "album": {
         "name": "Doctor",
         "url": "https://open.spotify.com/album/1I0QbEiprX6Z7xVKTSd8B4"
@@ -311,26 +311,6 @@
       "duration_ms": 193859,
       "name": "Doctor",
       "url": "https://open.spotify.com/track/4YGJ0F3oFdf1U0bdgvibVT"
-    },
-    {
-      "added_at": "2022-05-19 20:59:00",
-      "album": {
-        "name": "Banger",
-        "url": "https://open.spotify.com/album/4o2MON66Cp04sCMhbJAa7U"
-      },
-      "artists": [
-        {
-          "name": "John Blaq",
-          "url": "https://open.spotify.com/artist/4IbZQdYTpGIrF4EvUJcAEl"
-        },
-        {
-          "name": "Suspekt Leizor",
-          "url": "https://open.spotify.com/artist/2JPOWH88plI7HcSWZugaip"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Banger",
-      "url": "https://open.spotify.com/track/6s50uTx8qzel7HwNuz0xZW"
     },
     {
       "added_at": "2022-03-31 17:42:20",
@@ -351,6 +331,26 @@
       "duration_ms": 180062,
       "name": "Kyoyina Omanya (Remix)",
       "url": "https://open.spotify.com/track/1JZvvNFskJttTabmaJA2ji"
+    },
+    {
+      "added_at": "2022-05-19 20:59:00",
+      "album": {
+        "name": "Banger",
+        "url": "https://open.spotify.com/album/4o2MON66Cp04sCMhbJAa7U"
+      },
+      "artists": [
+        {
+          "name": "John Blaq",
+          "url": "https://open.spotify.com/artist/4IbZQdYTpGIrF4EvUJcAEl"
+        },
+        {
+          "name": "Suspekt Leizor",
+          "url": "https://open.spotify.com/artist/2JPOWH88plI7HcSWZugaip"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Banger",
+      "url": "https://open.spotify.com/track/6s50uTx8qzel7HwNuz0xZW"
     },
     {
       "added_at": "2022-10-06 21:00:00",
@@ -425,42 +425,6 @@
       "url": "https://open.spotify.com/track/11GS4DjFxj9GHPnlOhKe5K"
     },
     {
-      "added_at": "2022-10-06 21:00:00",
-      "album": {
-        "name": "Nsudiya",
-        "url": "https://open.spotify.com/album/6Yi9cEkIT7Nuskrip7ozGV"
-      },
-      "artists": [
-        {
-          "name": "Aroma Music",
-          "url": "https://open.spotify.com/artist/7sQ73ctV0zhIB3tBq54co2"
-        }
-      ],
-      "duration_ms": 165429,
-      "name": "Nsudiya",
-      "url": "https://open.spotify.com/track/3mvoKv50cFaPnO47kett6D"
-    },
-    {
-      "added_at": "2022-05-27 05:48:37",
-      "album": {
-        "name": "Star Gal",
-        "url": "https://open.spotify.com/album/09xaNHKwYwZGVu3NLopjiJ"
-      },
-      "artists": [
-        {
-          "name": "Spice Diana",
-          "url": "https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM"
-        },
-        {
-          "name": "Jose Chameleone",
-          "url": "https://open.spotify.com/artist/6nTXL0DkmSqjvcKjn6hCUz"
-        }
-      ],
-      "duration_ms": 206471,
-      "name": "Emergency",
-      "url": "https://open.spotify.com/track/5F80kygqI0nMAOqNz84qMY"
-    },
-    {
       "added_at": "2022-03-31 17:42:20",
       "album": {
         "name": "Sikyegomba",
@@ -483,6 +447,42 @@
       "duration_ms": 210364,
       "name": "Sikyegomba",
       "url": "https://open.spotify.com/track/1IufVzWMopUl7jajUAiJ6y"
+    },
+    {
+      "added_at": "2022-05-27 05:48:37",
+      "album": {
+        "name": "Star Gal",
+        "url": "https://open.spotify.com/album/09xaNHKwYwZGVu3NLopjiJ"
+      },
+      "artists": [
+        {
+          "name": "Spice Diana",
+          "url": "https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM"
+        },
+        {
+          "name": "Jose Chameleone",
+          "url": "https://open.spotify.com/artist/6nTXL0DkmSqjvcKjn6hCUz"
+        }
+      ],
+      "duration_ms": 206471,
+      "name": "Emergency",
+      "url": "https://open.spotify.com/track/5F80kygqI0nMAOqNz84qMY"
+    },
+    {
+      "added_at": "2022-10-06 21:00:00",
+      "album": {
+        "name": "Nsudiya",
+        "url": "https://open.spotify.com/album/6Yi9cEkIT7Nuskrip7ozGV"
+      },
+      "artists": [
+        {
+          "name": "Aroma Music",
+          "url": "https://open.spotify.com/artist/7sQ73ctV0zhIB3tBq54co2"
+        }
+      ],
+      "duration_ms": 165429,
+      "name": "Nsudiya",
+      "url": "https://open.spotify.com/track/3mvoKv50cFaPnO47kett6D"
     },
     {
       "added_at": "2022-03-31 17:42:20",
@@ -641,6 +641,22 @@
       "url": "https://open.spotify.com/track/0lEioGELKR2846vLXkzvUM"
     },
     {
+      "added_at": "2022-05-27 05:48:37",
+      "album": {
+        "name": "I Need Your Love",
+        "url": "https://open.spotify.com/album/5pQKSW1zMqLpggnJ0X12Cb"
+      },
+      "artists": [
+        {
+          "name": "Pallaso",
+          "url": "https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5"
+        }
+      ],
+      "duration_ms": 169430,
+      "name": "I Need Your Love",
+      "url": "https://open.spotify.com/track/2ZI4xbS2lfBgsG6P4K4e8s"
+    },
+    {
       "added_at": "2022-08-05 09:37:54",
       "album": {
         "name": "Kiziniro",
@@ -683,22 +699,6 @@
       "duration_ms": 196205,
       "name": "Wulira Omuziki",
       "url": "https://open.spotify.com/track/7joY6uii0Kwl2Hf80v7S0O"
-    },
-    {
-      "added_at": "2022-05-27 05:48:37",
-      "album": {
-        "name": "I Need Your Love",
-        "url": "https://open.spotify.com/album/5pQKSW1zMqLpggnJ0X12Cb"
-      },
-      "artists": [
-        {
-          "name": "Pallaso",
-          "url": "https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5"
-        }
-      ],
-      "duration_ms": 169430,
-      "name": "I Need Your Love",
-      "url": "https://open.spotify.com/track/2ZI4xbS2lfBgsG6P4K4e8s"
     },
     {
       "added_at": "2022-05-19 20:59:00",
@@ -803,22 +803,6 @@
     {
       "added_at": "2022-03-31 17:42:20",
       "album": {
-        "name": "Kisses at Midnight",
-        "url": "https://open.spotify.com/album/0vj2zDD1YqVkAinMPj3XpM"
-      },
-      "artists": [
-        {
-          "name": "Cindy Sanyu",
-          "url": "https://open.spotify.com/artist/18t4XuHqIzZRypjviaepTs"
-        }
-      ],
-      "duration_ms": 196832,
-      "name": "Sunset",
-      "url": "https://open.spotify.com/track/2n3MwWYG4pOOBUkD6ztgQM"
-    },
-    {
-      "added_at": "2022-03-31 17:42:20",
-      "album": {
         "name": "Semyekozo",
         "url": "https://open.spotify.com/album/2rfyTnxyRZlPN0fxLj8jhs"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 280160,
       "name": "Dancehall",
       "url": "https://open.spotify.com/track/4ZQwrdnmtEhWLK7iLOWqn8"
+    },
+    {
+      "added_at": "2022-03-31 17:42:20",
+      "album": {
+        "name": "Kisses at Midnight",
+        "url": "https://open.spotify.com/album/0vj2zDD1YqVkAinMPj3XpM"
+      },
+      "artists": [
+        {
+          "name": "Cindy Sanyu",
+          "url": "https://open.spotify.com/artist/18t4XuHqIzZRypjviaepTs"
+        }
+      ],
+      "duration_ms": 196832,
+      "name": "Sunset",
+      "url": "https://open.spotify.com/track/2n3MwWYG4pOOBUkD6ztgQM"
     },
     {
       "added_at": "2022-03-31 17:42:20",

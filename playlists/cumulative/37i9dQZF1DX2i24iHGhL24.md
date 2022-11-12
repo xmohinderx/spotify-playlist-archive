@@ -4,7 +4,7 @@
 
 > Reimagined pop covers of your favorite songs\.  Cover: Niki
 
-341 songs - 19 hr 35 min - [published](https://open.spotify.com/playlist/0YqLmoULLKOfYm2xjQ8vjJ)
+342 songs - 19 hr 37 min - [published](https://open.spotify.com/playlist/0YqLmoULLKOfYm2xjQ8vjJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,8 @@
 | [Counting Stars](https://open.spotify.com/track/6cD4KV8z3UERMz4DvnDTAw) | [untrusted](https://open.spotify.com/artist/31mtcsgS3CJW5dEPlG83E7), [creamy](https://open.spotify.com/artist/2uSVRVjYZ0PlJPdFHnBETu), [11:11 Music Group](https://open.spotify.com/artist/2MDj296KJIfgWDNBtHzeFi) | [Counting Stars](https://open.spotify.com/album/15Y12uSvIOf87NZFEr3hOH) | 2:10 | 2021-12-17 | 2022-05-02 |
 | [Crazy](https://open.spotify.com/track/47jgSvqlKwGyBLPnMfeEZN) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Crazy](https://open.spotify.com/album/0hOdcKXM4riRXmpyo71SFs) | 4:02 | 2022-03-25 |  |
 | [Crazy in Love](https://open.spotify.com/track/6m0qBDIhzICOwWMPZdgyVK) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Crazy in Love](https://open.spotify.com/album/3WtUVBD7BEAfA9NjG6LnBk) | 3:47 | 2022-03-25 |  |
-| [Cruel Summer \(Acoustic Version\)](https://open.spotify.com/track/6hc3zqzRD2IOI2VVvbCebw) | [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm) | [Cruel Summer \(Acoustic Version\)](https://open.spotify.com/album/3N4veDCnNnZ848pdYaTjqU) | 2:56 | 2022-07-08 |  |
+| [Cruel Summer \(Acoustic Version\)](https://open.spotify.com/track/3jbYY3Bufg13nGMaTyE3By) | [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm) | [Cruel Summer \(Acoustic Version\)](https://open.spotify.com/album/4cAhtcqdyshti4UotFGVqJ) | 2:56 | 2022-10-28 |  |
+| [Cruel Summer \(Acoustic Version\)](https://open.spotify.com/track/6hc3zqzRD2IOI2VVvbCebw) | [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm) | [Cruel Summer \(Acoustic Version\)](https://open.spotify.com/album/3N4veDCnNnZ848pdYaTjqU) | 2:56 | 2022-07-08 | 2022-11-12 |
 | [Cruel Summer \(Acoustic Version\)](https://open.spotify.com/track/7AIPMMSKNQkREDzCRwVK1k) | [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm) | [Cruel Summer \(Acoustic Version\)](https://open.spotify.com/album/4B4hmsVThfWwMR0I9eYRi8) | 2:56 | 2021-12-17 | 2022-07-29 |
 | [Crush](https://open.spotify.com/track/10zQ66l1AwcLtanGsv3Fav) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [Crush](https://open.spotify.com/album/6V820o63cpdpS7Jz9jXhhJ) | 4:02 | 2021-12-17 |  |
 | [Cry Me a River \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/3pRtmEYL0hN9Lgn0IkNOra) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Spotify Singles](https://open.spotify.com/album/0AsNH8uuIf5hLbreW4zQSc) | 5:01 | 2021-12-17 | 2022-05-02 |

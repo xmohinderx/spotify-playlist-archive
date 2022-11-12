@@ -138,6 +138,28 @@
     },
     {
       "album": {
+        "name": "7 rings (Remix)",
+        "url": "https://open.spotify.com/album/6FK2NjcZxGIGmFjKfOkrNi"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178640,
+      "name": "7 rings (feat. 2 Chainz) - Remix",
+      "url": "https://open.spotify.com/track/6AyI8UGx8Y4peb7pLOy2pf"
+    },
+    {
+      "album": {
         "name": "Lukas Graham",
         "url": "https://open.spotify.com/album/4rFrdkSWs0dtj0rWPzOk1v"
       },
@@ -373,7 +395,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 208106,
       "name": "Apologize",
       "url": "https://open.spotify.com/track/1NrJYpdAi7uosDRPmSYrsG"
@@ -489,6 +511,42 @@
       "duration_ms": 213640,
       "name": "Ayo Technology",
       "url": "https://open.spotify.com/track/0Pvo0X51jIUXjC6tH4OO36"
+    },
+    {
+      "album": {
+        "name": "Acoustic Dance Sessions",
+        "url": "https://open.spotify.com/album/5ra1FnP7de0jb5q47esf8u"
+      },
+      "artists": [
+        {
+          "name": "Milow",
+          "url": "https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213640,
+      "name": "Ayo Technology",
+      "url": "https://open.spotify.com/track/7HTX5cE4qzHALfgO2xSvMd"
+    },
+    {
+      "album": {
+        "name": "Never Forget: The Ultimate Collection",
+        "url": "https://open.spotify.com/album/7jzGCK8GdjuWEAe1lZ71xI"
+      },
+      "artists": [
+        {
+          "name": "Take That",
+          "url": "https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241293,
+      "name": "Back for Good - Radio Mix",
+      "url": "https://open.spotify.com/track/2BIBtKMUnHyYs3BsEiILTU"
     },
     {
       "album": {
@@ -1321,7 +1379,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 225146,
       "name": "Diamonds",
       "url": "https://open.spotify.com/track/1z9kQ14XBSN0r2v6fx4IdG"
@@ -1709,7 +1767,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 271640,
       "name": "Firestone",
       "url": "https://open.spotify.com/track/1I8tHoNBFTuoJAlh4hfVVE"
@@ -1753,7 +1811,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 193511,
       "name": "First Time",
       "url": "https://open.spotify.com/track/2Gl0FzuLxflY6nPifJp5Dr"
@@ -2621,7 +2679,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 236773,
       "name": "I'll Make Love To You",
       "url": "https://open.spotify.com/track/61sQYdFNS6sEBYCyr1q5gn"
@@ -2693,7 +2751,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 242946,
       "name": "I'm Yours",
       "url": "https://open.spotify.com/track/1EzrEOXmMH3G43AXT1y7pA"
@@ -3137,7 +3195,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 253208,
       "name": "Lay Me Down",
       "url": "https://open.spotify.com/track/74sb4Gib0cL3TQeCjYF8vh"
@@ -3267,7 +3325,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 205946,
       "name": "Let Me Love You",
       "url": "https://open.spotify.com/track/0lYBSQXN6rCTvUZvg9S0lU"
@@ -3499,7 +3557,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 206458,
       "name": "Lose You To Love Me",
       "url": "https://open.spotify.com/track/4l0Mvzj72xxOpRrp6h8nHi"
@@ -3792,6 +3850,24 @@
     },
     {
       "album": {
+        "name": "Summer Pool Party 2021",
+        "url": "https://open.spotify.com/album/4lzPJSvH3dGu37ZMFNCsbH"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189486,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/33YkmfGXbrD91mf3qprC2j"
+    },
+    {
+      "album": {
         "name": "JORDI (Deluxe)",
         "url": "https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU"
       },
@@ -3803,7 +3879,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 189486,
       "name": "Memories",
       "url": "https://open.spotify.com/track/4cktbXiXOapiLBMprHFErI"
@@ -4035,7 +4111,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 180760,
       "name": "Only Want You",
       "url": "https://open.spotify.com/track/2CTN6UuO2dNEVZXR0DJVk2"
@@ -4415,7 +4491,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 227533,
       "name": "Russian Roulette",
       "url": "https://open.spotify.com/track/3rMsX63C0IZVnOT5LGYoTH"
@@ -4579,7 +4655,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 278893,
       "name": "Say Something (feat. Chris Stapleton)",
       "url": "https://open.spotify.com/track/09ts3GnICqYEU5PkQCpJK3"
@@ -4699,6 +4775,24 @@
       "duration_ms": 223078,
       "name": "Send My Love (To Your New Lover)",
       "url": "https://open.spotify.com/track/3KZcrZ36LW9RnChK1iIkth"
+    },
+    {
+      "album": {
+        "name": "Send My Love (To Your New Lover)",
+        "url": "https://open.spotify.com/album/7hplTHLU8PAVs1forXE2NU"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223078,
+      "name": "Send My Love (To Your New Lover)",
+      "url": "https://open.spotify.com/track/5GltPAIcCUULOIAglW6R4l"
     },
     {
       "album": {
@@ -5059,7 +5153,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 210066,
       "name": "Sorry Seems To Be The Hardest Word",
       "url": "https://open.spotify.com/track/6F9jdzX7CfixvCsCkW7zw9"
@@ -5619,7 +5713,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 174860,
       "name": "There's No Way",
       "url": "https://open.spotify.com/track/5ZpIsCmJtMAyTvz8Z3bGXX"
@@ -5711,7 +5805,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 184908,
       "name": "Think Before I Talk",
       "url": "https://open.spotify.com/track/4lszNcJSaz61QT6gpMhFU1"
@@ -5805,7 +5899,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 201000,
       "name": "Too Good At Goodbyes",
       "url": "https://open.spotify.com/track/3VlbOrM6nYPprVvzBZllE5"

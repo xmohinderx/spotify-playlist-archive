@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6drTZKzZwSo.md) - [plain]
 
 > Classic funk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 509,690 likes - 58 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 509,841 likes - 58 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6drTZKzZwSo.md) - [plain]
 | 8 | [Hollywood Swinging](https://open.spotify.com/track/6igsoAR6Co9u7Rq3U7mlOD) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Wild And Peaceful](https://open.spotify.com/album/3MRgojA0LfPka4RG7aRjsI) | 4:39 |
 | 9 | [Girl Watching](https://open.spotify.com/track/0W2KbxJQrbg9nVS8oEZ4Bb) | [T\-Connection](https://open.spotify.com/artist/4zLYrCC0iBYDV8QmEYzUFS) | [Classic Masters](https://open.spotify.com/album/5sEfCUF1xi7Xkl0LkLFq5z) | 4:53 |
 | 10 | [Coleen feat\. The Dap\-Kings Horns](https://open.spotify.com/track/5dzTfHXcdHjxoJbpdy4DUu) | [The Heavy](https://open.spotify.com/artist/0bZCak2tcRMY1dzEIuwF42), [The Dap\-Kings Horns](https://open.spotify.com/artist/4LFgxG38Y0l4Fo1gdQelay) | [How You Like Me Now EP](https://open.spotify.com/album/2GSmsujcCDqnTAIkFUdLOv) | 2:59 |
-| 11 | [How Long Do I Have to Wait for You?](https://open.spotify.com/track/113bLFbp3F9MVN0w2KJ1ma) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Naturally](https://open.spotify.com/album/1xwNW7Q1daqJ8LNgymY04y) | 4:03 |
+| 11 | [How Long Do I Have to Wait for You?](https://open.spotify.com/track/3F2NnkVwQ7A7qCu2BUGp8q) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Daptone Records Singles Collection: Volume 2](https://open.spotify.com/album/5vu0XeLFtypEMTMc22gVpG) | 4:03 |
 | 12 | [Doin' It](https://open.spotify.com/track/3qQVUOHJdgIFWJd0jrG9GE) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Secrets](https://open.spotify.com/album/13rwtqLWF1jl1NEDhgbYsw) | 8:02 |
 | 13 | [Theme From "Which Way Is Up" \- Single Version](https://open.spotify.com/track/4Dc4hY6hmfdMmTnRg9rgmw) | [Stargard](https://open.spotify.com/artist/5ZvV5BO4R5dwEUPfRKXdUI) | ['70s Soul Number 1's](https://open.spotify.com/album/16DcO9zvZrL0yXSpoOY1HV) | 3:07 |
 | 14 | [\(Everybody Wanna Get Rich\) Rite Away](https://open.spotify.com/track/2a0fkN8dbA5Kh8SR7cvl3D) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO) | [Desitively Bonnaroo](https://open.spotify.com/album/4sdOFqfNcL5ge657ScJDXn) | 2:43 |
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6drTZKzZwSo.md) - [plain]
 | 33 | [Happy People](https://open.spotify.com/track/6dokyiv4HEy6WWxQCQcOkA) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [A Song For You](https://open.spotify.com/album/4GvCMazBPoxuazsfTFk6CU) | 3:36 |
 | 34 | [Pass The Peas](https://open.spotify.com/track/6H4RLsUbUcNsEnelTcCtVm) | [The J.B.'s](https://open.spotify.com/artist/4lJHGi5dlJmWwFH0JKF6di) | [James Brown's Funky People](https://open.spotify.com/album/7IRjn4x7FRNkv5ezdFbr1Y) | 3:12 |
 | 35 | [Flow with It \(You Got Me Feeling Like\)](https://open.spotify.com/track/2eM4Ew20VXdjBhm6a6Cs9l) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Sea of Noise](https://open.spotify.com/album/2fRc3TJSXKXGFdnmcm17p2) | 3:16 |
-| 36 | [Give Up The Funk \(Tear The Roof Off The Sucker\)](https://open.spotify.com/track/4XRkQloZFcRrCONN7ZQ49Y) | [Parliament](https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH) | [Mothership Connection](https://open.spotify.com/album/4q1HNSka8CzuLvC8ydcsD2) | 5:48 |
+| 36 | [Give Up The Funk \(Tear The Roof Off The Sucker\)](https://open.spotify.com/track/3HTsLJIcpPi11wPUuDOJVs) | [Parliament](https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH) | [Funky Stuff: The Best Of Funk Essentials](https://open.spotify.com/album/0dtx0xhKKD5xFDoI6xSWZK) | 5:46 |
 | 37 | [Hair](https://open.spotify.com/track/4o1yx2u3jBmR360WIXZ3L0) | [Graham Central Station](https://open.spotify.com/artist/1OGcRXAY9iO4egWiIBqX8F) | [Graham Central Station](https://open.spotify.com/album/4ZYY6rKxpgH76mdF0u3hvj) | 4:55 |
 | 38 | [Chicken Fat](https://open.spotify.com/track/6PftTIpZPCxPGwTmx09Gti) | [Mel Brown](https://open.spotify.com/artist/2ncZrdRpyOoLiAFzgrkXvZ) | [Funk Classics](https://open.spotify.com/album/4yYKyzzmbY0OPrJAbLssGY) | 4:14 |
 | 39 | [Funky Nassau, Pt\. 1](https://open.spotify.com/track/6OymZ7ZOficHvs1GTJXsGg) | [The Beginning Of The End](https://open.spotify.com/artist/5dS6VBacLLPyLDAfK3B0OR) | [Funky Nassau](https://open.spotify.com/album/4JET5l83ryFSr2H5sLvSab) | 3:06 |
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6drTZKzZwSo.md) - [plain]
 | 45 | [Prisoner](https://open.spotify.com/track/2RpkSGvC8NYNcQPt2BwCTG) | [Har Mar Superstar](https://open.spotify.com/artist/5wjWLK4KMqmRbdUtTEV1BG), [Fabrizio Moretti](https://open.spotify.com/artist/6wVnFdBOZ3M2vYjrmLT6tW) | [Prisoner](https://open.spotify.com/album/7egNj1u8FHlfqsfdlyZDVL) | 3:23 |
 | 46 | [Shake Your Pants](https://open.spotify.com/track/0tfpEQyUeGuZ5bITdt8CfT) | [Cameo](https://open.spotify.com/artist/545idYhdloaSlLGBY8E9u2) | [The Definitive Collection](https://open.spotify.com/album/0ewrF9ttoNB8FhDmWLDJzA) | 6:21 |
 | 47 | [Keep On Truckin'](https://open.spotify.com/track/14L1EL0Y1t2or3CfQwHjP1) | [Eddie Kendricks](https://open.spotify.com/artist/2Uuon75BhnuuxdKLYn4wHn) | [Keep On Truckin’: The Motown Solo Albums, Vol\. 1](https://open.spotify.com/album/3wP5lKSz1LOxgltAabKhF6) | 7:59 |
-| 48 | [Too Hot Ta Trot](https://open.spotify.com/track/7sP4EhJqFnud6mrG6VbjQx) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [Live!](https://open.spotify.com/album/3rH7V9hbxMtbKyJgROlDvz) | 5:37 |
+| 48 | [Too Hot Ta Trot](https://open.spotify.com/track/2dm0eNGhVJ7kLOGvczqTu3) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [Hunk\-a\-Funk](https://open.spotify.com/album/35KR5e5EhWbVWgUq0cJ86q) | 5:37 |
 | 49 | [CUFF IT](https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:45 |
 | 50 | [Do You Love What You Feel](https://open.spotify.com/track/2cOxiEbRuOJivuVoFGFQoy) | [Rufus & Chaka Khan](https://open.spotify.com/artist/1YLsqPcFg1rj7VvhfwnDWm) | [The Very Best Of Rufus Featuring Chaka Khan](https://open.spotify.com/album/3o8GWA6IiUF6V4r26bF0HS) | 4:30 |
 | 51 | [We Supply](https://open.spotify.com/track/15jrsi4n0S152zsrlWkT3v) | [Stanley Clarke](https://open.spotify.com/artist/1lGt9WgdYGpMnmwGkcCm05) | [The Bass\-ic Collection](https://open.spotify.com/album/7hgSfIM3LS53U3i122ErOM) | 4:10 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6drTZKzZwSo.md) - [plain]
 | 57 | [You Haven't Done Nothin'](https://open.spotify.com/track/1inssE1d8asSGbaeszqNds) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Class of '74](https://open.spotify.com/album/5Uh4u1fz6uu71B6lXm92Lc) | 3:22 |
 | 58 | [She's A Bad Mama Jama \(She's Built, She's Stacked\) \- Single Version](https://open.spotify.com/track/653JGGOVbV5iQsCSgQcQdi) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Funk Classics The 80's](https://open.spotify.com/album/2YfukrPJcXMeU05FWVAB5Q) | 3:54 |
 
-Snapshot ID: `MTY2NTEzNzc3MCwwMDAwMDAwMDU4ZGU2MWI5YjIzN2VkYTg2M2RhMzUxZGRhYTg1OTBh`
+Snapshot ID: `MTY2NTEzNzc3MCwwMDAwMDAwMDg3MDBlN2IwODQzMzBkN2JjMDdjNmJkZGNjZThkODUz`

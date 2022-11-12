@@ -689,10 +689,32 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 535727,
       "name": "Endless Cultural Turnover",
       "url": "https://open.spotify.com/track/4RKKTLBcZl5RZ5hytEu9EK"
+    },
+    {
+      "album": {
+        "name": "Endless Cultural Turnover",
+        "url": "https://open.spotify.com/album/37gbQdRIAHsBAkaJxc5jYk"
+      },
+      "artists": [
+        {
+          "name": "Jacques",
+          "url": "https://open.spotify.com/artist/55i4AnS7E58y41UwE0vvQh"
+        },
+        {
+          "name": "Superpoze",
+          "url": "https://open.spotify.com/artist/1iQhd9xO2v82j0dBbt4tHz"
+        }
+      ],
+      "date_added": "2021-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 535727,
+      "name": "Endless Cultural Turnover",
+      "url": "https://open.spotify.com/track/4pOpfd08I2LTzk3PJx75Ih"
     },
     {
       "album": {
@@ -1066,6 +1088,24 @@
     },
     {
       "album": {
+        "name": "Island Birdy",
+        "url": "https://open.spotify.com/album/3V4h47zHcBOXLZW5QeqWLQ"
+      },
+      "artists": [
+        {
+          "name": "Howie Lee",
+          "url": "https://open.spotify.com/artist/5y2TmxjZITDjLsfUxjlkcD"
+        }
+      ],
+      "date_added": "2021-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258771,
+      "name": "Island Birdy",
+      "url": "https://open.spotify.com/track/31KtWQ6CBduMVw3KLJrTVi"
+    },
+    {
+      "album": {
         "name": "Birdy Island",
         "url": "https://open.spotify.com/album/0A5wO1obJKJsdQN0kFqUEf"
       },
@@ -1077,7 +1117,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 258771,
       "name": "Island Birdy",
       "url": "https://open.spotify.com/track/4gKCchpPdZVQDJsDUxl7bf"
@@ -1456,6 +1496,28 @@
     },
     {
       "album": {
+        "name": "Musica Nova",
+        "url": "https://open.spotify.com/album/0AsYF1UQ79By5c3wPHQVUX"
+      },
+      "artists": [
+        {
+          "name": "Mai Mai Mai",
+          "url": "https://open.spotify.com/artist/5qVRuanPGaUlDLpcS4l7b3"
+        },
+        {
+          "name": "NZIRIA",
+          "url": "https://open.spotify.com/artist/4bt8JAxE4tksg2VBgMCvIe"
+        }
+      ],
+      "date_added": "2022-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313973,
+      "name": "Musica Nova",
+      "url": "https://open.spotify.com/track/2AMlHXUBKSejFjfrh3MCmW"
+    },
+    {
+      "album": {
         "name": "Rimorso",
         "url": "https://open.spotify.com/album/5wuZ3RGLtu6LimxV4kU1Tc"
       },
@@ -1471,7 +1533,7 @@
       ],
       "date_added": "2022-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 313973,
       "name": "Musica Nova",
       "url": "https://open.spotify.com/track/2Mp3iRcLV4CF2S9HFFmnfK"

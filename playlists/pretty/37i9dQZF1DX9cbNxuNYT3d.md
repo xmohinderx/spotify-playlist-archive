@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cbNxuNYT3d.md) - [plain]
 
 > Some of the biggest french touch classics! Cover: Daft Punk
 
-[Spotify](https://open.spotify.com/user/spotify) - 376,729 likes - 50 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 376,798 likes - 50 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cbNxuNYT3d.md) - [plain]
 | 9 | [Lucky Star \- Extended Vocal Edit](https://open.spotify.com/track/2r1ayKuPDXsJZBm3Jrr5WV) | [Superfunk](https://open.spotify.com/artist/1CbopBMbfM0ned5OAsTkv4), [Ron Carroll](https://open.spotify.com/artist/4GcXer1D6UzmWfW1wTqS9r) | [Technics : House](https://open.spotify.com/album/1nz9JHmlpEHVkdhl7QnwQm) | 4:57 |
 | 10 | [Nightcall](https://open.spotify.com/track/0U0ldCRmgCqhVvD6ksG63j) | [Kavinsky](https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV) | [Nightcall](https://open.spotify.com/album/07nBld9enf1PyRysZAVSqJ) | 4:18 |
 | 11 | [Around the World](https://open.spotify.com/track/1pKYYY0dkg23sQQXi0Q5zN) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Homework](https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y) | 7:09 |
-| 12 | [Midnight City](https://open.spotify.com/track/1eyzqe2QqGZUmfcPZtrIyt) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Hurry Up, We're Dreaming](https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR) | 4:01 |
+| 12 | [Midnight City](https://open.spotify.com/track/6uaBPdNeTvL4yH9CVJOg6K) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Midnight City](https://open.spotify.com/album/5DB2xMdT0qoWeaHGW9q8e6) | 4:01 |
 | 13 | [Intro](https://open.spotify.com/track/60hb5H9yL4P4SPz7lrTvUw) | [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [Fred Falke](https://open.spotify.com/artist/0AfNNw1LS2i9KW4icd7inD) | [Running](https://open.spotify.com/album/2OazLMNTr5Vf2YmetCJshL) | 4:54 |
 | 14 | [Club Soda](https://open.spotify.com/track/2GsnBcDE8xWhBnEApfuKCf) | [Thomas Bangalter](https://open.spotify.com/artist/41vv2Tj1knysv6MuFUmdwi) | [Best of French Touch, Vol\. 2](https://open.spotify.com/album/0613xP0gCcJm7fBw2skgHO) | 4:01 |
 | 15 | [Night Patrol](https://open.spotify.com/track/3bi9LdoayzjhpriotcubGd) | [Lifelike](https://open.spotify.com/artist/3sa5sqxJqYjDZhGxmo4Ko5) | [Night Patrol \- Single](https://open.spotify.com/album/09JyAk5hfkLDuue2STHPuq) | 7:50 |
@@ -31,17 +31,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cbNxuNYT3d.md) - [plain]
 | 21 | [In Love With You](https://open.spotify.com/track/2M2urNXOgop2isPZ9Vv4f7) | [The Paradise](https://open.spotify.com/artist/28z70aQRbXNFU0OP930suZ), [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [Romuald](https://open.spotify.com/artist/43MFF1y8czFwbjB8kf24oG) | [In Love With You](https://open.spotify.com/album/6TmoonSmmOCN6XQXgaxL7d) | 4:14 |
 | 22 | [I <3 U SO](https://open.spotify.com/track/0WWBeDKdXmGbZD1XVOVqot) | [Cassius](https://open.spotify.com/artist/4sf3QZW8a3xZ14IGsOAzoy) | [The Rawkers \(I <3 U SO Edition\)](https://open.spotify.com/album/73puEbxrgGI8vbRtA6E6pZ) | 3:42 |
 | 23 | [La ritournelle](https://open.spotify.com/track/0qG1teoBvooRo7Z5Z8edCk) | [Sébastien Tellier](https://open.spotify.com/artist/23ymPLjbtAMzTJS2qRtQ8Z) | [Politics](https://open.spotify.com/album/05MRLgXFBdHFMww01vbvWY) | 7:34 |
-| 24 | [Breathe](https://open.spotify.com/track/0uKrhHBDUQ4w5fv4qwOubP) | [Télépopmusik](https://open.spotify.com/artist/3aKCo8gLJfuPYtr88aWKjF), [Angela McCluskey](https://open.spotify.com/artist/5AlIxbb8HarTSm2tdA5F0x) | [Genetic World](https://open.spotify.com/album/1H10CTGW4xbk0IQewKbK50) | 4:42 |
-| 25 | [Prix Choc \- Radio Edit \- High Mix](https://open.spotify.com/track/6GjZSAoI4Kmwv1UgbTrcSr) | [Étienne de Crécy](https://open.spotify.com/artist/78YRbJhMi5kXKruiQGCJo7) | [Prix Choc](https://open.spotify.com/album/5QnMddkPs8ThZLpnTDoV9O) | 3:55 |
+| 24 | [Breathe](https://open.spotify.com/track/5Hkfzomvg0jyKDesjouvSK) | [Télépopmusik](https://open.spotify.com/artist/3aKCo8gLJfuPYtr88aWKjF), [Angela McCluskey](https://open.spotify.com/artist/5AlIxbb8HarTSm2tdA5F0x) | [Chill Pop](https://open.spotify.com/album/5Fz1tkcLCNKWHluFgiC5P3) | 4:42 |
+| 25 | [Prix choc](https://open.spotify.com/track/2ocyhcCaVvTfEn5evX0C2n) | [Étienne de Crécy](https://open.spotify.com/artist/78YRbJhMi5kXKruiQGCJo7) | [My Contribution to the Global Warming](https://open.spotify.com/album/4QiFOpTIMw3JQsUZQUIt82) | 3:51 |
 | 26 | [Amour](https://open.spotify.com/track/4ynBONkE7gUFvWJQyvMSyF) | [House Master](https://open.spotify.com/artist/4LkWmfnid2my4kgYMCr4Sv), [DJ Gregory](https://open.spotify.com/artist/08P7D5oQ3HUmQ0Gjbw6nzR), [Julien Jabre](https://open.spotify.com/artist/3MKxO8huUSV0g9E08bJbBM) | [Defected Presents House Masters: DJ Gregory & Julien Jabre](https://open.spotify.com/album/2gn3OHZyw0fShGuhs4cYcr) | 5:52 |
 | 27 | [Sexy Boy](https://open.spotify.com/track/6INLpBxo9F5QMer04VXEnd) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ) | [Moon Safari](https://open.spotify.com/album/5dmYtZVJ1bG9RyrZBRrkOA) | 4:58 |
-| 28 | [The Man With the Red Face \- Video Edit](https://open.spotify.com/track/2TNAP0cq2IZkeSUx2Zbzrw) | [Laurent Garnier](https://open.spotify.com/artist/3y1SoTOdrmRNTBVph5T0VZ) | [The Man With the Red Face](https://open.spotify.com/album/2z7OqIfgvL7xrOtYAj2Qzl) | 9:10 |
+| 28 | [The Man With the Red Face \- Video Edit](https://open.spotify.com/track/0UEJRJjcXBqOORchj3vTUm) | [Laurent Garnier](https://open.spotify.com/artist/3y1SoTOdrmRNTBVph5T0VZ) | [Electronica](https://open.spotify.com/album/6SUN6zwgS4LEVlSEde9h0O) | 9:08 |
 | 29 | [DVNO \- Radio Edit](https://open.spotify.com/track/1wVBZxnCo8ZkGaFqPJEmz2) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [DVNO](https://open.spotify.com/album/10y4ioZQOQoIEkFOMxElJr) | 3:11 |
 | 30 | [Poison Lips](https://open.spotify.com/track/1NJ1jm3uNRrF4JZHpaX1CD) | [Vitalic](https://open.spotify.com/artist/4M84umUNRbZy1mJleyyRM9) | [Flashmob](https://open.spotify.com/album/2RlP2H89edcTGhVcpGPINj) | 3:54 |
 | 31 | [Mothership Reconnection \(feat\. Parliament/Funkadelic\) \- \(Daft Punk Remix\)](https://open.spotify.com/track/5aWVNrjqFHCATLIhS2na3t) | [Scott Grooves](https://open.spotify.com/artist/7hwWjHjLHvhSDngoe2Pkbe), [Parliament](https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH), [Funkadelic](https://open.spotify.com/artist/450o9jw6AtiQlQkHCdH6Ru) | [Musique, Vol\. 1](https://open.spotify.com/album/4a0p1M12f7VaZWdoNSdEK4) | 4:00 |
 | 32 | [Gym tonic \- Original](https://open.spotify.com/track/4DgPcCPpxVN28ZOQBZBhu4) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN) | [Paradise](https://open.spotify.com/album/2ZHeCVucwVH7H3qC4abtTd) | 6:12 |
 | 33 | [Feeling for You](https://open.spotify.com/track/0UHhtA7tNKZaEPh7hYZVGP) | [Cassius](https://open.spotify.com/artist/4sf3QZW8a3xZ14IGsOAzoy) | [1999 \(Deluxe Edition\)](https://open.spotify.com/album/2HKgnzlGIJddpRwDlxit43) | 4:37 |
-| 34 | [Pocket Piano](https://open.spotify.com/track/4oyQ6vDzJMFYhmO9p5qrjE) | [DJ Mehdi](https://open.spotify.com/artist/5ffMSKGQRhetAjBjEgkRun) | [Pocket Piano](https://open.spotify.com/album/5dMTP9ZttPAmkLpgYR18Ax) | 4:34 |
+| 34 | [Pocket Piano](https://open.spotify.com/track/2RlVZuLA03wfdcOgjSUoCu) | [DJ Mehdi](https://open.spotify.com/artist/5ffMSKGQRhetAjBjEgkRun) | [ED REC Vol.3](https://open.spotify.com/album/06ouh4WbMgwgk5dbsiH8oV) | 4:33 |
 | 35 | [Baby I'm Yours](https://open.spotify.com/track/0tZkVZ9DeAa0MNK2gY5NtV) | [Breakbot](https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL), [Irfane](https://open.spotify.com/artist/3nqQeOUvDPTu4vtYtPfBjX) | [By Your Side](https://open.spotify.com/album/6C9yWt9DLFJixQjOZIkaAT) | 3:35 |
 | 36 | [Sacré français](https://open.spotify.com/track/4wjj2eNX7iELAhCh4X40Dj) | [Dimitri From Paris](https://open.spotify.com/artist/5Il27M5JXuQLgwDgVrQMgo) | [Yellow Productions: 20 Years of Music](https://open.spotify.com/album/1VOyqL5y9mvfiWh8Gk1Ty5) | 4:54 |
 | 37 | [Que Sera](https://open.spotify.com/track/6TSDRzJGwbK9cajVbtqlPV) | [Wax Tailor](https://open.spotify.com/artist/3qwxSif06Qwzykdln8ZGfG) | [Tales of the Forgotten Melodies](https://open.spotify.com/album/15fB97DqVW1K7Jy1vpkYRZ) | 2:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cbNxuNYT3d.md) - [plain]
 | 49 | [Bel Amour \(Classic Vocal Mix\)](https://open.spotify.com/track/3ovilBTxhYtCNeH92D0uu8) | [Bel Amour](https://open.spotify.com/artist/7eFsGtN5h45mGFpi75IjKo) | [Bel Amour \(Classic Vocal Mix\)](https://open.spotify.com/album/6TnjDo2gzEmY0KCMsyJWrA) | 5:24 |
 | 50 | [Cut Dick](https://open.spotify.com/track/4sqZAKBTC4a2x1Ivil7h36) | [Mr\. Oizo](https://open.spotify.com/artist/0b9ukmbg0MO5eMlorcgOwz) | [Lambs Anger](https://open.spotify.com/album/5trGnTKKV1Iz39gXQiAFwZ) | 2:51 |
 
-Snapshot ID: `MTY2MjExMjgwMCwwMDAwMDAwMDZjMDhkNTczMzhlMzYyZjRhMDUzZDlhNTBkYWVlMTY3`
+Snapshot ID: `MTY2MjExMjgwMCwwMDAwMDAwMDY4YzlkMmMxMTU3MWNmMjkzYmI2NWFlYmIzNDVlMDdl`

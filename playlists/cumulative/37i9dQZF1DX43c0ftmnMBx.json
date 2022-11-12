@@ -175,7 +175,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-12",
+      "date_removed": null,
       "duration_ms": 271826,
       "name": "Aventura",
       "url": "https://open.spotify.com/track/3VvYX8EBy0MkoCTDTT0VwX"
@@ -649,7 +649,7 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 257488,
       "name": "Creiste",
       "url": "https://open.spotify.com/track/53orRX6MudB9jhW0sKZWhW"
@@ -939,7 +939,7 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 221480,
       "name": "El Profesor",
       "url": "https://open.spotify.com/track/6LQ3lcP8W7oCrA6fUq34Hy"
@@ -1679,10 +1679,28 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 345000,
       "name": "Me Voy de Ti",
       "url": "https://open.spotify.com/track/513D1s7hHXD8xneGDHOatZ"
+    },
+    {
+      "album": {
+        "name": "Para Toda La Vida",
+        "url": "https://open.spotify.com/album/2y0lWPLFKJBIZEOXAEW2rh"
+      },
+      "artists": [
+        {
+          "name": "El Chaval de la Bachata",
+          "url": "https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348160,
+      "name": "Me Voy de Ti",
+      "url": "https://open.spotify.com/track/1p3croqJvc1tByBn4OmAca"
     },
     {
       "album": {
@@ -1715,10 +1733,28 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 360751,
       "name": "Medicina De Amor",
       "url": "https://open.spotify.com/track/5hwbK5XM8AqY8DEQRJgjOZ"
+    },
+    {
+      "album": {
+        "name": "Latin Hits 2021",
+        "url": "https://open.spotify.com/album/0UHCmMeiY4HRiiRe5enRcc"
+      },
+      "artists": [
+        {
+          "name": "Raulin Rodriguez",
+          "url": "https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365106,
+      "name": "Medicina de Amor",
+      "url": "https://open.spotify.com/track/4XG3gINiozlixIU6qHiTDn"
     },
     {
       "album": {
@@ -2315,7 +2351,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 248500,
       "name": "Se Acabo El Abuso: La Historia De Mi Vida El Final, Vol.1",
       "url": "https://open.spotify.com/track/3ocPf13AZvX6QlNuQf6RVV"

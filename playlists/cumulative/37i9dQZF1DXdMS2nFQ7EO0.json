@@ -1308,6 +1308,32 @@
     },
     {
       "album": {
+        "name": "EDM Party",
+        "url": "https://open.spotify.com/album/3uoi0WSv99nejC8O0PYoB2"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186805,
+      "name": "Lifetime",
+      "url": "https://open.spotify.com/track/4gzGNC0bGE7B1UFHuM8JrV"
+    },
+    {
+      "album": {
         "name": "Paradise Again",
         "url": "https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH"
       },
@@ -1327,7 +1353,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 186805,
       "name": "Lifetime (with Ty Dolla $ign & 070 Shake)",
       "url": "https://open.spotify.com/track/3QqHt507QJZCzluEYsnv4u"

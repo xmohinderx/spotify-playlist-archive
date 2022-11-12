@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KWRIlkUpsl.md) - [plain]
 
 > From Songs About Jane to JORDI, find their latest releases here!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,965,279 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,965,759 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KWRIlkUpsl.md) - [plain]
 | 10 | [She Will Be Loved](https://open.spotify.com/track/7sapKrjDij2fpDVj0GxP66) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Songs About Jane](https://open.spotify.com/album/1Rv9WRKyYhFaGbuYDaQunN) | 4:17 |
 | 11 | [Lovesick](https://open.spotify.com/track/4lejz024CsCP6S5kPD6Upb) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [JORDI \(Deluxe\)](https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU) | 3:05 |
 | 12 | [One More Night](https://open.spotify.com/track/4XNrMwGx1SqP01sqkGTDmo) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Overexposed \(Deluxe\)](https://open.spotify.com/album/2pjfMmH52fryXVQuWTWOgP) | 3:39 |
-| 13 | [What Lovers Do \(feat\. SZA\)](https://open.spotify.com/track/2j5hsQvApottzvTn4pFJWF) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Red Pill Blues \(Deluxe\)](https://open.spotify.com/album/3ThQ5dvf9wlqB0C7evh5nH) | 3:19 |
+| 13 | [What Lovers Do](https://open.spotify.com/track/5rgVLR0OimYG1MogWahTH8) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Sexy Songs 2020](https://open.spotify.com/album/7HxknjzFr59SJZjFiUycUK) | 3:19 |
 | 14 | [Memories](https://open.spotify.com/track/4cktbXiXOapiLBMprHFErI) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [JORDI \(Deluxe\)](https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU) | 3:09 |
 | 15 | [Remedy \(feat\. Stevie Nicks\)](https://open.spotify.com/track/03blI4F6MeYd6kJx26VsJ2) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [JORDI \(Deluxe\)](https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU) | 2:29 |
 | 16 | [Moves Like Jagger \- Studio Recording From "The Voice" Performance](https://open.spotify.com/track/7LcfRTgAVTs5pQGEQgUEzN) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Hands All Over](https://open.spotify.com/album/7strNUlU6xZqlVWBNUdOYv) | 3:21 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KWRIlkUpsl.md) - [plain]
 | 42 | [Just A Feeling](https://open.spotify.com/track/2t2CoOfwakFAexhvMmWtTb) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Hands All Over \(Deluxe\)](https://open.spotify.com/album/2H4DCvJiZknLngsD2Yqf6k) | 3:46 |
 | 43 | [Lucky Strike](https://open.spotify.com/track/6g1K0xGaCNi61Z77xY5BFO) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [On the Way to Work](https://open.spotify.com/album/4SIlbTCXC7elYv4SaPUR3i) | 3:05 |
 | 44 | [Wake Up Call](https://open.spotify.com/track/1zqllQUMCgMaInr0CzFVll) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [It Won't Be Soon Before Long.](https://open.spotify.com/album/29hJ8AFYZU98OzenrMr6iU) | 3:21 |
-| 45 | [If I Never See Your Face Again](https://open.spotify.com/track/4xSjIgsYgd36OAK4QZ55Pr) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [It Won't Be Soon Before Long.](https://open.spotify.com/album/29hJ8AFYZU98OzenrMr6iU) | 3:21 |
+| 45 | [If I Never See Your Face Again](https://open.spotify.com/track/4yYtYCpKUaTNEB2Pxu1kXj) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [2000s Pop For Kids](https://open.spotify.com/album/2CavZRHh68rQEN8Epdg8AK) | 3:21 |
 | 46 | [Closure](https://open.spotify.com/track/2M7QTwdLvCrbit0p9UJfAz) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Dance Babe](https://open.spotify.com/album/6nAdPkpbGPI2DLR17fIVp9) | 11:28 |
 | 47 | [If I Ain’t Got You \- Live](https://open.spotify.com/track/3M1aZaO65nz2yuA5g8LIVQ) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Hands All Over \(Deluxe\)](https://open.spotify.com/album/2H4DCvJiZknLngsD2Yqf6k) | 4:00 |
 | 48 | [Goodnight Goodnight](https://open.spotify.com/track/3pV2FW9gCqroj0P8jnTe9K) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [It Won't Be Soon Before Long\. \(MTV Bonus Version\)](https://open.spotify.com/album/2FNYaSxnB6sLUtbDhRY0eU) | 4:03 |
 | 49 | [Cold \- Ashworth Remix](https://open.spotify.com/track/6aWmyJZAdn1YbQuofR2zaY) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Ashworth](https://open.spotify.com/artist/3pcGjcfEW3YD2Hfk6tDR5S) | [Cold \(Ashworth Remix\)](https://open.spotify.com/album/7sYuwZsIyf3BL5C3h2EhgV) | 4:02 |
 | 50 | [Give A Little More](https://open.spotify.com/track/2TRuBFYZYw0Q7qIVBhqR1T) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Hands All Over \(Deluxe\)](https://open.spotify.com/album/2H4DCvJiZknLngsD2Yqf6k) | 3:00 |
 
-Snapshot ID: `MTYyNjA1NzIyNCwwMDAwMDAwMDc3ZDEyYmRlOGQ3ZGViYTNjMDIzYjdiNDVkODUzY2E5`
+Snapshot ID: `MTYyNjA1NzIyNCwwMDAwMDAwMDJlNDAwNjc3Njc3M2RhNjU3MWU4NjVjNzdhZWUxZDBm`

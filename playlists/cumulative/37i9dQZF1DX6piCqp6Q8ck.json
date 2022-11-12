@@ -52,6 +52,28 @@
     },
     {
       "album": {
+        "name": "The Best Christmas Album In The World...Ever! 2021",
+        "url": "https://open.spotify.com/album/5hejbQwKmx8CSvwa7HVkYw"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "The Commanders",
+          "url": "https://open.spotify.com/artist/3VrWSWV74xyECVDt2zBy4T"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169092,
+      "name": "'Zat You, Santa Claus? - Single Version",
+      "url": "https://open.spotify.com/track/0LqVHRcVVmSZj9f5v3uEvT"
+    },
+    {
+      "album": {
         "name": "Louis Wishes You a Cool Yule",
         "url": "https://open.spotify.com/album/2KquMleTyS3Ykm7440PjL6"
       },
@@ -67,7 +89,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 169092,
       "name": "'Zat You, Santa Claus? - Single Version",
       "url": "https://open.spotify.com/track/4Kh0X8pMk2yIFf4jnGXrTZ"
@@ -436,6 +458,24 @@
     },
     {
       "album": {
+        "name": "Christmas Carols 2020",
+        "url": "https://open.spotify.com/album/27Xyfe8YkDyah6W1nQeh2a"
+      },
+      "artists": [
+        {
+          "name": "Vince Guaraldi Trio",
+          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205320,
+      "name": "Christmas Is Coming",
+      "url": "https://open.spotify.com/track/4mYjqMs0HFH2eGjbetXMNw"
+    },
+    {
+      "album": {
         "name": "A Charlie Brown Christmas [2012 Remastered & Expanded Edition]",
         "url": "https://open.spotify.com/album/2XnNY3GEkbWHor5kyvXLu4"
       },
@@ -465,7 +505,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 162920,
       "name": "Christmas Never Gets Old",
       "url": "https://open.spotify.com/track/6o6DStpgZIzSyfpz0tRu8M"
@@ -531,7 +571,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 159833,
       "name": "Christmas Night In Harlem - Single Version",
       "url": "https://open.spotify.com/track/7vev9Pk7OHfsrhn4eH6BWF"
@@ -1169,10 +1209,32 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 164160,
       "name": "Little Jack Frost Get Lost (with Marjorie Hughes) - 78rpm Version",
       "url": "https://open.spotify.com/track/4FmnUrA4cN7bsTuHNuEOqv"
+    },
+    {
+      "album": {
+        "name": "The Classic Big Band Christmas Album",
+        "url": "https://open.spotify.com/album/6HLip1J6SbOlgIWyH98Bmk"
+      },
+      "artists": [
+        {
+          "name": "Frankie Carle",
+          "url": "https://open.spotify.com/artist/40SRPccslwLmXEIf9hZUJu"
+        },
+        {
+          "name": "Marjorie Hughes",
+          "url": "https://open.spotify.com/artist/0uLyz5wCWsQt9C96NkQhiO"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164733,
+      "name": "Little Jack Frost Get Lost (with Marjorie Hughes) - 78rpm Version",
+      "url": "https://open.spotify.com/track/49kWNpRxLDJjRbjbbrSQrs"
     },
     {
       "album": {
@@ -1231,7 +1293,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 174090,
       "name": "Man With The Bag",
       "url": "https://open.spotify.com/track/0BCVQHXk8HY6Uip5gK2lrv"
@@ -1413,10 +1475,32 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 193240,
       "name": "Poppa Santa Claus",
       "url": "https://open.spotify.com/track/6xF6R6029v5XsSL0yFFW2X"
+    },
+    {
+      "album": {
+        "name": "Christmas With The Andrews Sisters",
+        "url": "https://open.spotify.com/album/2IeWzBugeoy6fQRPHAJGqo"
+      },
+      "artists": [
+        {
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        },
+        {
+          "name": "The Andrews Sisters",
+          "url": "https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193466,
+      "name": "Poppa Santa Claus",
+      "url": "https://open.spotify.com/track/7LpAwzBEsBQQIWxwhgTvsr"
     },
     {
       "album": {
@@ -1671,10 +1755,28 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 145333,
       "name": "Shake Hands with Santa Claus - Mono Recording",
       "url": "https://open.spotify.com/track/4uWOOyWwhkYAchf4WFuiTT"
+    },
+    {
+      "album": {
+        "name": "Traditional Christmas Music",
+        "url": "https://open.spotify.com/album/0oBQNX8GpwyfVv9uPPBrSt"
+      },
+      "artists": [
+        {
+          "name": "Louis Prima",
+          "url": "https://open.spotify.com/artist/52lBOxCxbJg0ttXEW9CQpW"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145333,
+      "name": "Shake Hands with Santa Claus - Mono Recording",
+      "url": "https://open.spotify.com/track/73b41pbYVemYUQ27CVS6nW"
     },
     {
       "album": {

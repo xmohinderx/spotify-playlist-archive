@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1q6zh6.md) - [plain]
 
 > This is Judas Priest\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,060 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,139 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1q6zh6.md) - [plain]
 | 27 | [Never The Heroes](https://open.spotify.com/track/2dyoAUok3JghK7dQQeQ2lU) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Firepower](https://open.spotify.com/album/7p3G0OCxtlWyJcPE1FxnyB) | 4:23 |
 | 28 | [Riding on the Wind](https://open.spotify.com/track/4Myj2cmlFC8tsq9cqj082O) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Screaming For Vengeance](https://open.spotify.com/album/0V7mTTzioHiYIjfM8ATZBI) | 3:09 |
 | 29 | [Jawbreaker](https://open.spotify.com/track/3T1k6b4zMzA2bW8klvKCcX) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Defenders Of The Faith](https://open.spotify.com/album/3o0mPpetAFCOIFkUaw1egl) | 3:26 |
-| 30 | [Screaming for Vengeance](https://open.spotify.com/track/5xmmAlr7JqT53WqacPRhLA) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Screaming For Vengeance \(Expanded Edition\)](https://open.spotify.com/album/55MZQrenomrTq0aQneC7Pi) | 4:43 |
-| 31 | [The Hellion / Electric Eye](https://open.spotify.com/track/4LPCfppIoBx8tpW9LrLtWj) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Living After Midnight](https://open.spotify.com/album/4eoB0NlHD1fentI8ZbXBv5) | 4:20 |
+| 30 | [The Hellion / Electric Eye](https://open.spotify.com/track/4LPCfppIoBx8tpW9LrLtWj) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Living After Midnight](https://open.spotify.com/album/4eoB0NlHD1fentI8ZbXBv5) | 4:20 |
+| 31 | [Screaming for Vengeance](https://open.spotify.com/track/5xmmAlr7JqT53WqacPRhLA) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Screaming For Vengeance \(Expanded Edition\)](https://open.spotify.com/album/55MZQrenomrTq0aQneC7Pi) | 4:43 |
 | 32 | [Prisoner of Your Eyes](https://open.spotify.com/track/2VLwPKY2gaBxGxwgmwRDUf) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Screaming For Vengeance](https://open.spotify.com/album/0V7mTTzioHiYIjfM8ATZBI) | 7:10 |
 | 33 | [Desert Plains](https://open.spotify.com/track/1zMXCwfwiIGPZA4kq7ideV) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Point Of Entry](https://open.spotify.com/album/02mDd1vg3xHPOxpNYkZIGP) | 4:34 |
 | 34 | [Rapid Fire](https://open.spotify.com/track/1Ym7220l4W7Yz7Yt26rWSr) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [British Steel](https://open.spotify.com/album/5bqtZRbUZUxUps8mrO9tGY) | 4:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1q6zh6.md) - [plain]
 | 49 | [Blood Red Skies](https://open.spotify.com/track/7g796noAmjjQOibxStn85a) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Ram It Down](https://open.spotify.com/album/1t2M4YmH8x9Tplcxq08H5l) | 7:50 |
 | 50 | [Dissident Aggressor](https://open.spotify.com/track/3x639plCXGLyZoMcyR2IgJ) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Sin After Sin](https://open.spotify.com/album/2GXeHOkRouW0LnKBMUnVtv) | 3:06 |
 
-Snapshot ID: `Mjc4MDE1OTIsMDAwMDAwMDAwM2M1NTYwYzg3YjY3YzAzYjMwODhmNTc2MmU2MjJmNg==`
+Snapshot ID: `Mjc4MDI5OTksMDAwMDAwMDA5N2IyMDBmYWQ4MWI2NDM1ZTIzOWUzM2M3ZDU4ODIwOQ==`

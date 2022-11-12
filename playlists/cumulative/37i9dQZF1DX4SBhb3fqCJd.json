@@ -1,11 +1,33 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The pulse of R&B music today.  Cover: Masego",
+  "description": "The pulse of R&B music today.  Cover: WizKid",
   "name": "Are & Be",
   "published_playlist_ids": [
     "5zrlCMCGUGIh9pkJp17t53"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "More Love, Less Ego",
+        "url": "https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187906,
+      "name": "2 Sugar (feat. Ayra Starr)",
+      "url": "https://open.spotify.com/track/1DA2ADZs6O28y2rmdmpekw"
+    },
     {
       "album": {
         "name": "Ctrl (Deluxe)",
@@ -253,6 +275,24 @@
       "duration_ms": 211400,
       "name": "Bag (with Lucky Daye)",
       "url": "https://open.spotify.com/track/5c4w6QktLsSuO1gqH4YKE7"
+    },
+    {
+      "album": {
+        "name": "Bag Of You",
+        "url": "https://open.spotify.com/album/4J2ZnI41Z9yElyzM2TzBrM"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197427,
+      "name": "Bag Of You",
+      "url": "https://open.spotify.com/track/3X7aFBB2ja4QT2XEuxKCIA"
     },
     {
       "album": {
@@ -774,6 +814,24 @@
     },
     {
       "album": {
+        "name": "SATIN",
+        "url": "https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181144,
+      "name": "DAYDREAM",
+      "url": "https://open.spotify.com/track/2dsbZwFPMYhchakMgL72DD"
+    },
+    {
+      "album": {
         "name": "Dead To Me",
         "url": "https://open.spotify.com/album/34Uw23xppTz4RJoZvxwSdY"
       },
@@ -1134,6 +1192,24 @@
     },
     {
       "album": {
+        "name": "Falling For You",
+        "url": "https://open.spotify.com/album/74LaE3Z8eYdY9KlHjTXCVm"
+      },
+      "artists": [
+        {
+          "name": "Ashanti",
+          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199825,
+      "name": "Falling For You",
+      "url": "https://open.spotify.com/track/1KgqMmNUqRdXqZhR4PXtg8"
+    },
+    {
+      "album": {
         "name": "Candydrip",
         "url": "https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ"
       },
@@ -1149,6 +1225,24 @@
       "duration_ms": 209493,
       "name": "Feels Like",
       "url": "https://open.spotify.com/track/2Hyaggl5zUVCwGSbJmkOs3"
+    },
+    {
+      "album": {
+        "name": "11",
+        "url": "https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8"
+      },
+      "artists": [
+        {
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297717,
+      "name": "Fight for Love",
+      "url": "https://open.spotify.com/track/1LPQheJpIsG8rlUkCmZx2D"
     },
     {
       "album": {
@@ -2051,7 +2145,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 192545,
       "name": "Irresponsible",
       "url": "https://open.spotify.com/track/3PIDY9vzQP6U8OLTYlcA50"
@@ -2247,7 +2341,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 181451,
       "name": "Layin' Low (Ne-Yo & Zae France)",
       "url": "https://open.spotify.com/track/4kdYtWcbHiXdPnjEDrS1nn"
@@ -3761,7 +3855,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 224673,
       "name": "Stand Up (From the Original Motion Picture \"Till\")",
       "url": "https://open.spotify.com/track/6RfyQbkKctEp5rwAhrJCEM"
@@ -4237,7 +4331,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 219729,
       "name": "What's Up (feat. Jagged Edge)",
       "url": "https://open.spotify.com/track/2HI6OFcMNUyS0IEwp4hffV"

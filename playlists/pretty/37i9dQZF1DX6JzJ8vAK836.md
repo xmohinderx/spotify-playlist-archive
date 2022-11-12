@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JzJ8vAK836.md) - [plain]
 
 > Prince was a true original and earth\-shattering performer\. Hear Prince Rogers Nelson best right now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 751,509 likes - 80 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 751,647 likes - 80 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JzJ8vAK836.md) - [plain]
 | 4 | [When Doves Cry](https://open.spotify.com/track/51H2y6YrNNXcy3dfc3qSbA) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain](https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc) | 5:52 |
 | 5 | [1999 \- 2019 Remaster](https://open.spotify.com/track/3Dd93e5FJZr3YGPF2yxYBS) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [1999 \(Super Deluxe Edition\)](https://open.spotify.com/album/2EHUlDJaTyvn0gAvVfUlcY) | 6:13 |
 | 6 | [Let's Go Crazy](https://open.spotify.com/track/0QeI79sp1vS8L3JgpEO7mD) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain](https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc) | 4:40 |
-| 7 | [Little Red Corvette \- 7" Edit \- 2019 Remaster](https://open.spotify.com/track/4N1dFbXmRng8qJ3KdJrbLr) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [1999 \(Super Deluxe Edition\)](https://open.spotify.com/album/2EHUlDJaTyvn0gAvVfUlcY) | 3:08 |
+| 7 | [Little Red Corvette \- Single Version](https://open.spotify.com/track/3315t15Sw3QTL6TDWhSM4F) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [4Ever](https://open.spotify.com/album/7LTkO0y63Hovi9MDa3JOMn) | 3:08 |
 | 8 | [I Would Die 4 U](https://open.spotify.com/track/6fBwVe6udYdnRqwqo06if8) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain](https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc) | 2:58 |
 | 9 | [Sign O' The Times \- 2020 Remaster](https://open.spotify.com/track/3dhxR1qd5IMLHhAzwYGO0y) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Sign O' The Times \(Super Deluxe Edition\)](https://open.spotify.com/album/0TQG9HCLZGushGzSwvtxC1) | 4:56 |
 | 10 | [Controversy](https://open.spotify.com/track/4m5imjg1oYahdKMdghefLX) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Ultimate](https://open.spotify.com/album/2gt5Y9pOGL18lQ2EzExuVW) | 7:15 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JzJ8vAK836.md) - [plain]
 | 79 | [Our Destiny / Roadhouse Garden](https://open.spotify.com/track/0skqC0rGnezyhGmBCrSgg9) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain \(Deluxe Expanded Edition\)](https://open.spotify.com/album/12DmuRtZNTx84ELHKD3VGL) | 6:25 |
 | 80 | [Let's Go Crazy \- Live In Syracuse, March 30, 1985 \- 2022 Remaster](https://open.spotify.com/track/15BL8ku45JiAS9dSuAD2ap) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Prince and The Revolution: Live \(2022 Remaster\)](https://open.spotify.com/album/4Y8oukfqpJupRcCsHucO7J) | 5:50 |
 
-Snapshot ID: `MTY2NTU4OTAzNywwMDAwMDAwMGRjYzM4N2Y1Y2I5MjAyZTBiNmFkMDY1NzM4NjVmZDQ2`
+Snapshot ID: `MTY2NTU4OTAzNywwMDAwMDAwMGJmZWQzMDVmYzRlYWFlMDc5MTgwMGMyODQ4ODI2ODgy`

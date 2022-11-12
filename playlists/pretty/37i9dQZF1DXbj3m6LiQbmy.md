@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 
 > Orgoglio! David Blank, Andrea Di Giovanni in cover ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,826 likes - 73 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,830 likes - 73 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 | 16 | [Daddy AF](https://open.spotify.com/track/5Pj9iXYfe607U62YwSF5rC) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Daddy AF](https://open.spotify.com/album/3GWdoCGEZLjrsofidLFwgV) | 2:31 |
 | 17 | [Ti Sento](https://open.spotify.com/track/72BnKkKnrOeCDY9vy2avFk) | [Matia Bazar](https://open.spotify.com/artist/449mAbddAC2PAgNM3TLyc5) | [Melanchólia](https://open.spotify.com/album/7fK9JzCaIIIWehaWd7IoUE) | 4:15 |
 | 18 | [Short Dick Man \- Club Mix](https://open.spotify.com/track/6ZZr5ew0DvA6xda9T5owOU) | [20 Fingers](https://open.spotify.com/artist/0OarfYzJPCi3lAVZ4nhTTd), [Gillette](https://open.spotify.com/artist/20ldWECcOHmOWwKwAwvn4y) | [Short Dick Man](https://open.spotify.com/album/3BQ6ifqB1pglyvEJQrcauT) | 4:50 |
-| 19 | [Italove](https://open.spotify.com/track/4ll1UfyVm9we6xoTNGnMYO) | [EMMANUELLE](https://open.spotify.com/artist/1C2Gz0VQuVWtaLWd54ujI5) | [L'uomo d'affari / Italove](https://open.spotify.com/album/5v84MAdR18Ed091b1hlSn5) | 5:19 |
-| 20 | [Supermodel \(You Better Work\)](https://open.spotify.com/track/36Rpz4MZQhGknLEmTmHr8v) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe) | [Supermodel of the World](https://open.spotify.com/album/5dZF2rTcU8ZWmfk6NVI0hA) | 3:59 |
+| 19 | [Supermodel \(You Better Work\)](https://open.spotify.com/track/36Rpz4MZQhGknLEmTmHr8v) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe) | [Supermodel of the World](https://open.spotify.com/album/5dZF2rTcU8ZWmfk6NVI0hA) | 3:59 |
+| 20 | [Italove](https://open.spotify.com/track/4ll1UfyVm9we6xoTNGnMYO) | [EMMANUELLE](https://open.spotify.com/artist/1C2Gz0VQuVWtaLWd54ujI5) | [L'uomo d'affari / Italove](https://open.spotify.com/album/5v84MAdR18Ed091b1hlSn5) | 5:19 |
 | 21 | [Good PusS \(feat\. cupcakKe\) \- Remix](https://open.spotify.com/track/0jiThGoZ1qdJrImd4U6XE5) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne), [cupcakKe](https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM) | [Good PusS \(feat\. cupcakKe\) \[Remix\]](https://open.spotify.com/album/7bHH8XTv8INRsqbvF507iO) | 3:39 |
 | 22 | [Oro](https://open.spotify.com/track/5NzWbTJOakrvq3g83UoD25) | [Mango](https://open.spotify.com/artist/5iBphIrmXEjfrqiuz5y6pY) | [Odissea](https://open.spotify.com/album/53byQXY8VWsJ8aiVjK6pbI) | 4:30 |
 | 23 | [Cum \(feat\. Iggy Azalea\)](https://open.spotify.com/track/2Mf7bd1QURmFyQCZTsMPjI) | [Brooke Candy](https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m), [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL) | [SEXORCISM](https://open.spotify.com/album/5IV5QYzpZA1oI7FK0HfBxL) | 2:42 |
@@ -74,12 +74,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 | 64 | [Comet](https://open.spotify.com/track/2706bJ1IBduQztEVAMKOST) | [L I M](https://open.spotify.com/artist/6TGrYfNonLf6yO3RGiM4EF) | [Comet](https://open.spotify.com/album/0KXgKVlIfLxHni3HT4iqQr) | 4:21 |
 | 65 | [MOVESET \(feat\. Kiddy Smile & David Blank\)](https://open.spotify.com/track/3i6DPGR1k1AOnVaGltT4hY) | [M¥SS KETA](https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM), [Kiddy Smile](https://open.spotify.com/artist/4Y5crYhYaEQKOzikPPIZDx), [David Blank](https://open.spotify.com/artist/21s8IBxSQOOZQKjW6oNgQ6) | [CLUB TOPPERIA](https://open.spotify.com/album/55jRiCSPrXaypNbQFnL1ei) | 3:16 |
 | 66 | [Insegnami la vita](https://open.spotify.com/track/2hzsb9bskRD3XOZP2eMUUC) | [Immanuel Casto](https://open.spotify.com/artist/2zG5ycak5H5A12ypISC39F), [Romina Falconi](https://open.spotify.com/artist/7miQC7MI2Hne4f41KiPi1K) | [Malcostume](https://open.spotify.com/album/3hIdDm2lLaOgB8IkhsciaN) | 3:58 |
-| 67 | [Tentami & Rubami](https://open.spotify.com/track/1e22pleH4nPfOZwZMl2xFy) | [Peter LC](https://open.spotify.com/artist/0suFn6dKQlrirLWDJrDRG8) | [Discodelic Edits Vol.1](https://open.spotify.com/album/0KSk4F1DUoj7u6I3lhoG9e) | 6:11 |
-| 68 | [Bang](https://open.spotify.com/track/6eRMQ7PgYqLA9gRBDtK8Yj) | [Andrea Di Giovanni](https://open.spotify.com/artist/6LgSivOZVfHs4mY4TYobQa) | [Bang](https://open.spotify.com/album/6ZLXYQf0NaF6ee53eHbsYn) | 2:50 |
+| 67 | [Bang](https://open.spotify.com/track/6eRMQ7PgYqLA9gRBDtK8Yj) | [Andrea Di Giovanni](https://open.spotify.com/artist/6LgSivOZVfHs4mY4TYobQa) | [Bang](https://open.spotify.com/album/6ZLXYQf0NaF6ee53eHbsYn) | 2:50 |
+| 68 | [Tentami & Rubami](https://open.spotify.com/track/1e22pleH4nPfOZwZMl2xFy) | [Peter LC](https://open.spotify.com/artist/0suFn6dKQlrirLWDJrDRG8) | [Discodelic Edits Vol.1](https://open.spotify.com/album/0KSk4F1DUoj7u6I3lhoG9e) | 6:11 |
 | 69 | [Kittin Is High](https://open.spotify.com/track/6TgrLC5nud9cJpLI7EjzOk) | [Miss Kittin](https://open.spotify.com/artist/3QhNv79NoIvarU6N57GBzL) | [BatBox](https://open.spotify.com/album/55Natk4fqvjCMQkB8ys04q) | 3:51 |
 | 70 | [Dottore](https://open.spotify.com/track/5KhyB4m7bwe7m1Ssd6kMq7) | [Troyamaki](https://open.spotify.com/artist/2sg19ijzUk1KsvKUs3YrxG), [christiannife](https://open.spotify.com/artist/2NYOgwHpoIPcS6H4WQs5XB) | [L'Incantesimo Delle Ciliegie](https://open.spotify.com/album/3nPF3etF8ddZqguuQdmsxa) | 2:45 |
 | 71 | [Tell Me What You See](https://open.spotify.com/track/7He1AYDz7BSwkA0OJ4g7QK) | [Matilde Davoli](https://open.spotify.com/artist/4Q34gFbI9ZFg9T3WZgq0Rh) | [I’m Calling You From My Dreams](https://open.spotify.com/album/2hmcsgrHSJ5An68KwK5ISQ) | 4:05 |
 | 72 | [Painted Eyes \- Original Mix](https://open.spotify.com/track/7Aaig6TQeCjY6vjy9TlsCw) | [Hercules & Love Affair](https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W), [Aerea Negrot](https://open.spotify.com/artist/4ix8eWGATi2Ot5ZmWITDaJ) | [Blue Songs](https://open.spotify.com/album/07DoR2BYZ3bApdUCpjf38P) | 6:03 |
 | 73 | [XTC \(feat\. LA NIÑA & BigMama\)](https://open.spotify.com/track/6N0wZxSpYH5pm6XrubgxEy) | [M¥SS KETA](https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM), [LA NIÑA](https://open.spotify.com/artist/7F0wzg6BIXNOSrh8ixhobj), [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF) | [CLUB TOPPERIA](https://open.spotify.com/album/55jRiCSPrXaypNbQFnL1ei) | 2:35 |
 
-Snapshot ID: `MTY2MjY3NDQ2MCwwMDAwMDAwMDRhZTU0NWM3OTZiMzE1M2QxZDg2NzhlNzJhZGJiZTc2`
+Snapshot ID: `MTY2MjY3NDQ2MCwwMDAwMDAwMDNjN2VjODliYzI4YmJmNTgxYjU4NjE3MDFjYzhkMGNl`

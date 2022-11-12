@@ -3188,6 +3188,24 @@
     },
     {
       "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/71DeeYazwxnzRgvBHY2rEl"
+      },
+      "artists": [
+        {
+          "name": "Brief Moments",
+          "url": "https://open.spotify.com/artist/20hwQJcC00dL9lcpmaoiXF"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138292,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/3d7eF49gLIxdOo6plwr6kP"
+    },
+    {
+      "album": {
         "name": "Somewhere In Between",
         "url": "https://open.spotify.com/album/25x9r2SewSxoucruN6we4Y"
       },

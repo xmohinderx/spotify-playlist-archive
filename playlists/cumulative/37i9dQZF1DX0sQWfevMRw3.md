@@ -4,7 +4,7 @@
 
 > Cheva på fredag och långburk i varje hand!
 
-425 songs - 19 hr 8 min - [published](https://open.spotify.com/playlist/1lQZeKZO86vF18J2l093qd)
+426 songs - 19 hr 10 min - [published](https://open.spotify.com/playlist/1lQZeKZO86vF18J2l093qd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,8 @@
 | [F\*CKED UP!](https://open.spotify.com/track/2D3O7NUUdTrMu30ZtGa2s6) | [LOAM](https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P) | [F\*CKED UP!](https://open.spotify.com/album/2C3PepE12YTbPAAt67hqji) | 2:47 | 2022-09-22 |  |
 | [Fakk Min X](https://open.spotify.com/track/0lJCvh6IJQ7vedN2zgW9ws) | [Ballinciaga](https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv), [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61) | [Fakk Min X](https://open.spotify.com/album/3cuW2BUGrCXLsK1xGLCVSJ) | 1:51 | 2022-08-25 | 2022-10-21 |
 | [FAKKA UR](https://open.spotify.com/track/2NnO7FJonRjGvAjm3LwKvl) | [LOAM](https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P), [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO) | [X](https://open.spotify.com/album/5DrPOcQTUL12mbozwLBrcz) | 2:12 | 2022-08-25 |  |
-| [FALCON PÅ BALKONGEN](https://open.spotify.com/track/09JIhXdFMnu6xh70L7u8vm) | [Raggarligan](https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH), [Bangården](https://open.spotify.com/artist/4C21ZKaA4EX1PRXoNsAV7c), [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj) | [FALCON PÅ BALKONGEN](https://open.spotify.com/album/2u6cTSzd8JZd4aMTR8mTkK) | 1:52 | 2022-11-10 |  |
+| [FALCON PÅ BALKONGEN](https://open.spotify.com/track/09JIhXdFMnu6xh70L7u8vm) | [Raggarligan](https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH), [Bangården](https://open.spotify.com/artist/4C21ZKaA4EX1PRXoNsAV7c), [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj) | [FALCON PÅ BALKONGEN](https://open.spotify.com/album/2u6cTSzd8JZd4aMTR8mTkK) | 1:52 | 2022-11-10 | 2022-11-12 |
+| [FALCON PÅ BALKONGEN](https://open.spotify.com/track/1DzqMzEhurjZQW8jEIcWc5) | [Raggarligan](https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH), [Bangården](https://open.spotify.com/artist/4C21ZKaA4EX1PRXoNsAV7c), [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj) | [FALCON PÅ BALKONGEN](https://open.spotify.com/album/2Mo7IXnnB3GUxXnB2R5uBL) | 1:52 | 2022-11-10 |  |
 | [Fallaway](https://open.spotify.com/track/1eDKRyIAKtoRmrO9gJ6PFv) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [Fallaway](https://open.spotify.com/album/0XXHhKf7JUTkgKnxUDNcA2) | 3:44 | 2022-03-24 | 2022-04-20 |
 | [Fanny And The Wee](https://open.spotify.com/track/5WHPsg0Imug3nqXtPZikzz) | [Alfons](https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d), [Alexie Divello](https://open.spotify.com/artist/5NYmpjDm7c7xDTxyfj65yc) | [Fanny And The Wee](https://open.spotify.com/album/2o8Sjuqct6Ok8rmLQWwOKS) | 2:55 | 2021-12-16 | 2022-04-21 |
 | [Fattoush](https://open.spotify.com/track/5M6WI1MqhNolPu9QaBopxU) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [Fattoush](https://open.spotify.com/album/6fmv5wXnfVi6bL5G9LZMji) | 3:05 | 2022-04-01 | 2022-04-12 |

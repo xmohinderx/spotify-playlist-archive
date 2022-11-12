@@ -2,7 +2,7 @@
 
 ### [Progressive House 2022 ](https://open.spotify.com/playlist/1y24lMaeLch6jPtLCqHgJz)
 
-> The biggest Progressive House anthems of 2022\. \| Energetic and emotional festival music.
+> The biggest Progressive House anthems of 2022\. \| Energetic and emotional festival music\. \| best progressive house \- progressive house music \- best festival music \- best rave music \- best EDM music
 
 100 songs - 5 hr 17 min - [published](https://open.spotify.com/playlist/1Hvu2MIsN55fb0PgQQ9jgu)
 

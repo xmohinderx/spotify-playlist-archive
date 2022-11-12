@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXji4ucB51M.md) - [plain]
 
 > The official 2020 VMAs playlist from MTV + Spotify\. See more at <a href="http://www.mtv.com/vma">vma.mtv.com</a> 🚀
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,738 likes - 73 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,736 likes - 73 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXji4ucB51M.md) - [plain]
 | 31 | [RITMO \(Bad Boys For Life\)](https://open.spotify.com/track/6cy3ki60hLwimwIje7tALf) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [RITMO \(Bad Boys For Life\)](https://open.spotify.com/album/6EobpC5SDFy5DF50dWNVGF) | 3:41 |
 | 32 | [Harleys In Hawaii](https://open.spotify.com/track/5nCthAh3jt4xKuLJAifAaR) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Harleys In Hawaii](https://open.spotify.com/album/30UjBkRwwBeCdspCGPBB8V) | 3:05 |
 | 33 | [Intentions](https://open.spotify.com/track/364dI1bYnvamSnBJ8JcNzN) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Intentions](https://open.spotify.com/album/55zg331p7m1EFA4uRggkwt) | 3:32 |
-| 34 | [What A Man Gotta Do](https://open.spotify.com/track/4wNIkl5XGiAACjFBlDWuSd) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [What A Man Gotta Do](https://open.spotify.com/album/3SgvmlSsTrMuqICaOTlo0p) | 3:00 |
-| 35 | [Let's Fall in Love for the Night](https://open.spotify.com/track/6I0KEvFfWszVJiCy5hum4V) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Blood Harmony](https://open.spotify.com/album/0qRnyZEgvqF96kGSZALooq) | 3:10 |
+| 34 | [Let's Fall in Love for the Night](https://open.spotify.com/track/6I0KEvFfWszVJiCy5hum4V) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Blood Harmony](https://open.spotify.com/album/0qRnyZEgvqF96kGSZALooq) | 3:10 |
+| 35 | [What A Man Gotta Do](https://open.spotify.com/track/4wNIkl5XGiAACjFBlDWuSd) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [What A Man Gotta Do](https://open.spotify.com/album/3SgvmlSsTrMuqICaOTlo0p) | 3:00 |
 | 36 | [You should be sad](https://open.spotify.com/track/7lidXGPXPYLNThITAOTlkK) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Manic](https://open.spotify.com/album/68enXe5XcJdciSDAZr0Alr) | 3:25 |
 | 37 | [xanny](https://open.spotify.com/track/4QIo4oxwzzafcBWkKjDpXY) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 4:03 |
 | 38 | [Motivation](https://open.spotify.com/track/0rIAC4PXANcKmitJfoqmVm) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [Motivation](https://open.spotify.com/album/2r6BEK0wzXbL8JHyCkeJkG) | 3:13 |
@@ -69,17 +69,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXji4ucB51M.md) - [plain]
 | 59 | [SOMEONE'S SOMEONE](https://open.spotify.com/track/5eU51YmH3XzhzNRzkJns27) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [ALL ABOUT LUV](https://open.spotify.com/album/2O5KXxROQOR8WOdB8fgTCp) | 2:21 |
 | 60 | [Honey Boo](https://open.spotify.com/track/0P0UtGDZpUMWoFCuDTn78K) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4), [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Honey Boo](https://open.spotify.com/album/2MtqE42Ibi1CWWiyMRb8rr) | 3:26 |
 | 61 | [Lockdown](https://open.spotify.com/track/5oZps6mYqU5s7A4WjUZggJ) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Lockdown](https://open.spotify.com/album/7x8QTmOI3zN1V5xOq3Jko5) | 3:32 |
-| 62 | [strawberry lipstick](https://open.spotify.com/track/75ELnvpSiymLZVmYvqyvZJ) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [weird!](https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP) | 2:43 |
-| 63 | [If You’re Too Shy \(Let Me Know\) \- Edit](https://open.spotify.com/track/3iEqGBZ2wcpVzhiAcwXVC6) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [If You’re Too Shy \(Let Me Know\)](https://open.spotify.com/album/3yP8qjvxER61axf20pFfAP) | 3:59 |
-| 64 | [Do It](https://open.spotify.com/track/1bRjwdtScY2eMe9uMmsOkG) | [Chloe x Halle](https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW) | [Do It](https://open.spotify.com/album/3qv9FlK79TvW61dCRd1f76) | 2:56 |
-| 65 | [Orphans](https://open.spotify.com/track/6muOWhMh7Tf0UFUtMDBhUR) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Orphans / Arabesque](https://open.spotify.com/album/6DX4K0afv5l01Pf6lymJuB) | 3:17 |
-| 66 | [Some Kind of Disaster](https://open.spotify.com/track/02lU0Hj680zVexT4GqJJZ4) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Wake Up, Sunshine](https://open.spotify.com/album/1kwAv74rVTTGMpawGsXtiE) | 3:43 |
-| 67 | [Dear Future Self \(Hands Up\)](https://open.spotify.com/track/1tm4Bl2E5RwTevOiBs4gtH) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX), [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe) | [Believers Never Die \(Volume Two\)](https://open.spotify.com/album/2MlgtDuxXXz8c8Toc9kKTd) | 2:50 |
-| 68 | [Oh Yeah!](https://open.spotify.com/track/3QiNQFiueqnIc6rOPLZB3f) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Oh Yeah!](https://open.spotify.com/album/4YfXSuoJWZGcTNGAkFK8cO) | 2:51 |
-| 69 | [Wasted On You](https://open.spotify.com/track/6SeiHTSmnC6CJ9tGvVLdMR) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [The Bitter Truth](https://open.spotify.com/album/4MYCjsaDaemi8Lmkj5PzkL) | 4:24 |
-| 70 | [The Bigger Picture](https://open.spotify.com/track/4sDMiX1n4kfXgJd9nOXGpt) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [The Bigger Picture](https://open.spotify.com/album/7nUJ4h6X0vPXDPB8NYHuFr) | 4:12 |
-| 71 | [I Can't Breathe](https://open.spotify.com/track/4CPszpSnlbgnQLIQYyzIR2) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [I Can't Breathe](https://open.spotify.com/album/2izdMqMVUz0VSg2jTZIdU5) | 4:47 |
-| 72 | [Can't Believe The Way We Flow](https://open.spotify.com/track/6voR6zsWIn7vgZYGOFKYSZ) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Assume Form](https://open.spotify.com/album/23dKNZpiadggKHrQgHLi3L) | 4:27 |
-| 73 | [Bigger Love](https://open.spotify.com/track/4kcJsfPTr7RCrLQRvW7cyj) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Bigger Love](https://open.spotify.com/album/7BRuKFs9BFuba9TlMs2ZLd) | 2:50 |
+| 62 | [If You’re Too Shy \(Let Me Know\) \- Edit](https://open.spotify.com/track/3iEqGBZ2wcpVzhiAcwXVC6) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [If You’re Too Shy \(Let Me Know\)](https://open.spotify.com/album/3yP8qjvxER61axf20pFfAP) | 3:59 |
+| 63 | [Do It](https://open.spotify.com/track/1bRjwdtScY2eMe9uMmsOkG) | [Chloe x Halle](https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW) | [Do It](https://open.spotify.com/album/3qv9FlK79TvW61dCRd1f76) | 2:56 |
+| 64 | [Orphans](https://open.spotify.com/track/6muOWhMh7Tf0UFUtMDBhUR) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Orphans / Arabesque](https://open.spotify.com/album/6DX4K0afv5l01Pf6lymJuB) | 3:17 |
+| 65 | [Some Kind of Disaster](https://open.spotify.com/track/02lU0Hj680zVexT4GqJJZ4) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Wake Up, Sunshine](https://open.spotify.com/album/1kwAv74rVTTGMpawGsXtiE) | 3:43 |
+| 66 | [Dear Future Self \(Hands Up\)](https://open.spotify.com/track/1tm4Bl2E5RwTevOiBs4gtH) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX), [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe) | [Believers Never Die \(Volume Two\)](https://open.spotify.com/album/2MlgtDuxXXz8c8Toc9kKTd) | 2:50 |
+| 67 | [Oh Yeah!](https://open.spotify.com/track/3QiNQFiueqnIc6rOPLZB3f) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Oh Yeah!](https://open.spotify.com/album/4YfXSuoJWZGcTNGAkFK8cO) | 2:51 |
+| 68 | [The Bigger Picture](https://open.spotify.com/track/4sDMiX1n4kfXgJd9nOXGpt) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [The Bigger Picture](https://open.spotify.com/album/7nUJ4h6X0vPXDPB8NYHuFr) | 4:12 |
+| 69 | [I Can't Breathe](https://open.spotify.com/track/4CPszpSnlbgnQLIQYyzIR2) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [I Can't Breathe](https://open.spotify.com/album/2izdMqMVUz0VSg2jTZIdU5) | 4:47 |
+| 70 | [Can't Believe The Way We Flow](https://open.spotify.com/track/6voR6zsWIn7vgZYGOFKYSZ) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Assume Form](https://open.spotify.com/album/23dKNZpiadggKHrQgHLi3L) | 4:27 |
+| 71 | [Bigger Love](https://open.spotify.com/track/4kcJsfPTr7RCrLQRvW7cyj) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Bigger Love](https://open.spotify.com/album/7BRuKFs9BFuba9TlMs2ZLd) | 2:50 |
+| 72 | [Underdog](https://open.spotify.com/track/64hFA0izhdwZKH3SRUNGCr) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Melhores Músicas Internacionais 2022](https://open.spotify.com/album/44mM4AULWBACBm7CQnFi3R) | 3:28 |
+| 73 | [Wasted On You](https://open.spotify.com/track/6xP7wg1cz09H5mGnabltWY) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Songs From The Bitter Truth](https://open.spotify.com/album/7sQN6pVY3NokHmFcdNA094) | 4:24 |
 
-Snapshot ID: `MTU5ODMwNzU2OSwwMDAwMDAwMDgwZmIyNDdhZGMzZjQwN2QxODAzNjM0YWY2ZjM5MGQy`
+Snapshot ID: `MTU5ODMwNzU2OSwwMDAwMDAwMGNhZmUyY2FkYTk3ZTUyODMwNDc0M2VjZjU3YTFiN2Uz`

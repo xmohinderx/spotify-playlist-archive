@@ -4,7 +4,7 @@
 
 > Sweet acoustic love songs for the perfect day.
 
-109 songs - 6 hr 32 min - [published](https://open.spotify.com/playlist/6rCYrydpnHq8rysUj3aHJ6)
+110 songs - 6 hr 34 min - [published](https://open.spotify.com/playlist/6rCYrydpnHq8rysUj3aHJ6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,8 +23,9 @@
 | [Beyond](https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 4:00 | 2021-07-23 |  |
 | [Big, Big Plans \(Acoustic\)](https://open.spotify.com/track/3thumKnUsEWWqSNRlADxZ8) | [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0) | [Big, Big Plans \(Acoustic\)](https://open.spotify.com/album/2nQuhG93PjQk4oIfoKO8QN) | 3:21 | 2021-07-23 |  |
 | [Bring Your Love To Me](https://open.spotify.com/track/7Fiq0LFlFat3swPezmuagG) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [Magpie And The Dandelion \(Deluxe\)](https://open.spotify.com/album/1Ghk02nSbwlJ9uBqhztNEG) | 3:43 | 2021-07-23 |  |
-| [Can't Help Falling in Love](https://open.spotify.com/track/6yIHGmQLJxWAUZ1ZkENemN) | [Haley Reinhart](https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q) | [Better](https://open.spotify.com/album/2jg7PvepCK9V7MyWM7pvzr) | 2:53 | 2022-06-20 |  |
+| [Can't Help Falling in Love](https://open.spotify.com/track/6yIHGmQLJxWAUZ1ZkENemN) | [Haley Reinhart](https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q) | [Better](https://open.spotify.com/album/2jg7PvepCK9V7MyWM7pvzr) | 2:53 | 2022-06-20 | 2022-11-12 |
 | [Can't Help Falling in Love](https://open.spotify.com/track/0Rm2G83ELwkuEgpHlJcBPn) | [Haley Reinhart](https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q) | [Can't Help Falling in Love](https://open.spotify.com/album/1QjZNsdGO0vdqDz23nqS1L) | 2:53 | 2021-07-23 | 2022-07-29 |
+| [Can't Help Falling in Love \- Single](https://open.spotify.com/track/6LmFlSjRJJNcfJSxZTdcTe) | [Haley Reinhart](https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q) | [Can't Help Falling in Love \- Single](https://open.spotify.com/album/02a8OXIKUP7imehACcKVOl) | 2:53 | 2022-06-20 |  |
 | [Colors](https://open.spotify.com/track/3TLDjitfkg0QaHwpgmwOqY) | [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy) | [Colors](https://open.spotify.com/album/5WDKfVsa1Ze7yGjw0e5El5) | 1:54 | 2021-07-23 |  |
 | [Come Rain or Come Shine](https://open.spotify.com/track/0EXNymkEOQIjd8ycSUT8yH) | [David Francey](https://open.spotify.com/artist/11NyMIq0N1ozgqhwdAdWIK) | [Skating Rink](https://open.spotify.com/album/0p8hnqZ7s7G3amuwO18hMY) | 3:00 | 2022-06-20 |  |
 | [Come Rain or Come Shine](https://open.spotify.com/track/4gxNdTk0IQGlNNhBJpdyj3) | [David Francey](https://open.spotify.com/artist/11NyMIq0N1ozgqhwdAdWIK) | [Skating Rink](https://open.spotify.com/album/6yFCiYP8vqRI99Au1PLHhV) | 3:00 | 2021-07-23 | 2022-07-29 |

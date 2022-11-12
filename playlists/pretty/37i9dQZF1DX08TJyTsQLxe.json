@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Nosotras s\u00f3lo queremos divertirnos! ",
-  "num_followers": 118223,
+  "num_followers": 118325,
   "original_name": "Noche de Amigas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDkyMTE3MiwwMDAwMDAwMDhiNTM4YTk2M2Q3NzdmYjVhMGQ2ODY4YTNjMGMwOWI4",
+  "snapshot_id": "MTY2NDkyMTE3MiwwMDAwMDAwMGU3YjkyYzhlNzlkMGY3Y2M4YTcyYWExMGRjMzA1MjRi",
   "tracks": [
     {
       "added_at": "2022-10-04 22:06:12",
@@ -867,6 +867,26 @@
     {
       "added_at": "2022-10-04 22:06:12",
       "album": {
+        "name": "Shawn Mendes (Deluxe)",
+        "url": "https://open.spotify.com/album/0xzScN8P3hQAz3BT3YYX5w"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        },
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        }
+      ],
+      "duration_ms": 190799,
+      "name": "Se\u00f1orita",
+      "url": "https://open.spotify.com/track/6v3KW9xbzN5yKLt9YKDYA2"
+    },
+    {
+      "added_at": "2022-10-04 22:06:12",
+      "album": {
         "name": "Mayor Que Usted",
         "url": "https://open.spotify.com/album/39bS0KqiLzhJvitnTt7Y4W"
       },
@@ -887,26 +907,6 @@
       "duration_ms": 233519,
       "name": "Mayor Que Usted",
       "url": "https://open.spotify.com/track/7d7aPD2oxuzjhOZnu4Dj23"
-    },
-    {
-      "added_at": "2022-10-04 22:06:12",
-      "album": {
-        "name": "Shawn Mendes (Deluxe)",
-        "url": "https://open.spotify.com/album/0xzScN8P3hQAz3BT3YYX5w"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        },
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        }
-      ],
-      "duration_ms": 190799,
-      "name": "Se\u00f1orita",
-      "url": "https://open.spotify.com/track/6v3KW9xbzN5yKLt9YKDYA2"
     },
     {
       "added_at": "2022-10-04 22:06:12",
@@ -959,30 +959,6 @@
     {
       "added_at": "2022-10-04 22:06:12",
       "album": {
-        "name": "Hecho En Medell\u00edn",
-        "url": "https://open.spotify.com/album/50SdnzlrXUMadt9JYeaJSh"
-      },
-      "artists": [
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        },
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        },
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-        }
-      ],
-      "duration_ms": 233453,
-      "name": "Medallo",
-      "url": "https://open.spotify.com/track/6lX6l7OuA3qrnIRfdsr0dw"
-    },
-    {
-      "added_at": "2022-10-04 22:06:12",
-      "album": {
         "name": "OUT OUT (feat. Charli XCX & Saweetie)",
         "url": "https://open.spotify.com/album/5wJb3DBSoSMKYJA8TrNKi8"
       },
@@ -1011,26 +987,26 @@
     {
       "added_at": "2022-10-04 22:06:12",
       "album": {
-        "name": "Nost\u00e1lgico",
-        "url": "https://open.spotify.com/album/3752EkZZ1wjEzZ1MRd9rsV"
+        "name": "Hecho En Medell\u00edn",
+        "url": "https://open.spotify.com/album/50SdnzlrXUMadt9JYeaJSh"
       },
       "artists": [
         {
-          "name": "Rvssian",
-          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
         },
         {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
         },
         {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
         }
       ],
-      "duration_ms": 209883,
-      "name": "Nost\u00e1lgico",
-      "url": "https://open.spotify.com/track/2BEcap3xJtmiPaHKyfQi4e"
+      "duration_ms": 233453,
+      "name": "Medallo",
+      "url": "https://open.spotify.com/track/6lX6l7OuA3qrnIRfdsr0dw"
     },
     {
       "added_at": "2022-10-04 22:06:12",
@@ -1059,22 +1035,26 @@
     {
       "added_at": "2022-10-04 22:06:12",
       "album": {
-        "name": "Plastic Hearts",
-        "url": "https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR"
+        "name": "Nost\u00e1lgico",
+        "url": "https://open.spotify.com/album/3752EkZZ1wjEzZ1MRd9rsV"
       },
       "artists": [
         {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
         },
         {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         }
       ],
-      "duration_ms": 169333,
-      "name": "Prisoner (feat. Dua Lipa)",
-      "url": "https://open.spotify.com/track/2Oycxb8QbPkpHTo8ZrmG0B"
+      "duration_ms": 209883,
+      "name": "Nost\u00e1lgico",
+      "url": "https://open.spotify.com/track/2BEcap3xJtmiPaHKyfQi4e"
     },
     {
       "added_at": "2022-10-04 22:06:12",
@@ -1095,6 +1075,26 @@
       "duration_ms": 192313,
       "name": "M\u00f3naco",
       "url": "https://open.spotify.com/track/3HgvO4B5LLmdPOT2d8cSZd"
+    },
+    {
+      "added_at": "2022-10-04 22:06:12",
+      "album": {
+        "name": "Plastic Hearts",
+        "url": "https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 169333,
+      "name": "Prisoner (feat. Dua Lipa)",
+      "url": "https://open.spotify.com/track/2Oycxb8QbPkpHTo8ZrmG0B"
     },
     {
       "added_at": "2022-10-04 22:06:12",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2022-10-04 22:06:12",
       "album": {
-        "name": "The Time Of Our Lives",
-        "url": "https://open.spotify.com/album/64aKkqxc3Ur2LYIKeS5osS"
-      },
-      "artists": [
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        }
-      ],
-      "duration_ms": 202066,
-      "name": "Party In The U.S.A.",
-      "url": "https://open.spotify.com/track/5Q0Nhxo0l2bP3pNjpGJwV1"
-    },
-    {
-      "added_at": "2022-10-04 22:06:12",
-      "album": {
         "name": "\u00bfD\u00f3nde Jugar\u00e1n Los Ni\u00f1os?",
         "url": "https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK"
       },
@@ -1935,26 +1919,6 @@
     {
       "added_at": "2022-10-04 22:06:12",
       "album": {
-        "name": "In Da Getto",
-        "url": "https://open.spotify.com/album/2M7g0SNXnSq7j5BgYJYJsl"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        }
-      ],
-      "duration_ms": 131065,
-      "name": "In Da Getto",
-      "url": "https://open.spotify.com/track/63aj87TQG6F3RVO5nbG2VQ"
-    },
-    {
-      "added_at": "2022-10-04 22:06:12",
-      "album": {
         "name": "Mis Ojos Lloran Por Ti",
         "url": "https://open.spotify.com/album/5o36XrjVl3YdBYqt0p57Gc"
       },
@@ -1975,22 +1939,22 @@
     {
       "added_at": "2022-10-04 22:06:12",
       "album": {
-        "name": "Body",
-        "url": "https://open.spotify.com/album/3HwBA7xp3XTbFiNzU7gjwp"
+        "name": "In Da Getto",
+        "url": "https://open.spotify.com/album/2M7g0SNXnSq7j5BgYJYJsl"
       },
       "artists": [
         {
-          "name": "Loud Luxury",
-          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
         },
         {
-          "name": "Brando",
-          "url": "https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE"
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
         }
       ],
-      "duration_ms": 163216,
-      "name": "Body",
-      "url": "https://open.spotify.com/track/21RzyxY3EFaxVy6K4RqaU9"
+      "duration_ms": 131065,
+      "name": "In Da Getto",
+      "url": "https://open.spotify.com/track/63aj87TQG6F3RVO5nbG2VQ"
     },
     {
       "added_at": "2022-10-04 22:06:12",
@@ -2007,6 +1971,26 @@
       "duration_ms": 239306,
       "name": "Atr\u00e9vete-Te-Te",
       "url": "https://open.spotify.com/track/1q8NdCAQ9QUjpYiqzdd3mv"
+    },
+    {
+      "added_at": "2022-10-04 22:06:12",
+      "album": {
+        "name": "Body",
+        "url": "https://open.spotify.com/album/3HwBA7xp3XTbFiNzU7gjwp"
+      },
+      "artists": [
+        {
+          "name": "Loud Luxury",
+          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
+        },
+        {
+          "name": "Brando",
+          "url": "https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE"
+        }
+      ],
+      "duration_ms": 163216,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/21RzyxY3EFaxVy6K4RqaU9"
     },
     {
       "added_at": "2022-10-04 22:06:12",
@@ -2071,6 +2055,22 @@
     {
       "added_at": "2022-10-04 22:06:12",
       "album": {
+        "name": "Teenage Dream",
+        "url": "https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 230733,
+      "name": "Last Friday Night (T.G.I.F.)",
+      "url": "https://open.spotify.com/track/3avYqdwHKEq8beXbeWCKqJ"
+    },
+    {
+      "added_at": "2022-10-04 22:06:12",
+      "album": {
         "name": "Bandido",
         "url": "https://open.spotify.com/album/5sIyJyOgwEIOgBhLxIGG3t"
       },
@@ -2087,22 +2087,6 @@
       "duration_ms": 232853,
       "name": "Bandido",
       "url": "https://open.spotify.com/track/1xK1Gg9SxG8fy2Ya373oqb"
-    },
-    {
-      "added_at": "2022-10-04 22:06:12",
-      "album": {
-        "name": "Teenage Dream",
-        "url": "https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 230733,
-      "name": "Last Friday Night (T.G.I.F.)",
-      "url": "https://open.spotify.com/track/3avYqdwHKEq8beXbeWCKqJ"
     },
     {
       "added_at": "2022-10-04 22:06:12",
@@ -2231,6 +2215,22 @@
     {
       "added_at": "2022-10-04 22:06:12",
       "album": {
+        "name": "El Amor En Los Tiempos Del Perreo",
+        "url": "https://open.spotify.com/album/4ARUAVQnIDB02yVO8uvaJE"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        }
+      ],
+      "duration_ms": 211998,
+      "name": "Tan Bonita",
+      "url": "https://open.spotify.com/track/6mm3K0yWp6uzfOMuipM9Zh"
+    },
+    {
+      "added_at": "2022-10-04 22:06:12",
+      "album": {
         "name": "Sigue/Forever My Love",
         "url": "https://open.spotify.com/album/5umofLk634QVTKYtt2Deoy"
       },
@@ -2251,18 +2251,18 @@
     {
       "added_at": "2022-10-04 22:06:12",
       "album": {
-        "name": "El Amor En Los Tiempos Del Perreo",
-        "url": "https://open.spotify.com/album/4ARUAVQnIDB02yVO8uvaJE"
+        "name": "SIE7E +",
+        "url": "https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE"
       },
       "artists": [
         {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
         }
       ],
-      "duration_ms": 211998,
-      "name": "Tan Bonita",
-      "url": "https://open.spotify.com/track/6mm3K0yWp6uzfOMuipM9Zh"
+      "duration_ms": 182600,
+      "name": "Mala Fama",
+      "url": "https://open.spotify.com/track/2D9itdl85AQVNpTfrxvUGj"
     },
     {
       "added_at": "2022-10-04 22:06:12",
@@ -2287,18 +2287,22 @@
     {
       "added_at": "2022-10-04 22:06:12",
       "album": {
-        "name": "SIE7E +",
-        "url": "https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE"
+        "name": "Ahora",
+        "url": "https://open.spotify.com/album/4BvD9caT3ZohqNQFcR8dVD"
       },
       "artists": [
         {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         }
       ],
-      "duration_ms": 182600,
-      "name": "Mala Fama",
-      "url": "https://open.spotify.com/track/2D9itdl85AQVNpTfrxvUGj"
+      "duration_ms": 227480,
+      "name": "Amigos Con Derechos",
+      "url": "https://open.spotify.com/track/4yVO0wOhXsZC1RuPgHP524"
     },
     {
       "added_at": "2022-10-04 22:06:12",
@@ -2339,26 +2343,6 @@
     {
       "added_at": "2022-10-04 22:06:12",
       "album": {
-        "name": "Ahora",
-        "url": "https://open.spotify.com/album/4BvD9caT3ZohqNQFcR8dVD"
-      },
-      "artists": [
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 227480,
-      "name": "Amigos Con Derechos",
-      "url": "https://open.spotify.com/track/4yVO0wOhXsZC1RuPgHP524"
-    },
-    {
-      "added_at": "2022-10-04 22:06:12",
-      "album": {
         "name": "MALA SANTA",
         "url": "https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X"
       },
@@ -2395,6 +2379,26 @@
       "duration_ms": 225933,
       "name": "Otro Trago",
       "url": "https://open.spotify.com/track/1Ej96GIBCTvgH7tNX1r3qr"
+    },
+    {
+      "added_at": "2022-10-04 22:06:12",
+      "album": {
+        "name": "Linda",
+        "url": "https://open.spotify.com/album/6rFyXU9FiGytyYqfbwYO09"
+      },
+      "artists": [
+        {
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+        },
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 144018,
+      "name": "Linda",
+      "url": "https://open.spotify.com/track/1ahCrpeTt94LL7y1aXw0Y8"
     }
   ],
   "unique_name": "Noche de Amigas",

@@ -4,7 +4,7 @@
 
 > Ay ay ay ay..\. Canta y no llores, porque cantando se alegran, cielito lindo, los corazones.
 
-73 songs - 3 hr 56 min - [published](https://open.spotify.com/playlist/4vYTIdDxuuSPgpW7kakjdU)
+75 songs - 4 hr 2 min - [published](https://open.spotify.com/playlist/4vYTIdDxuuSPgpW7kakjdU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [El Carretero Se Va](https://open.spotify.com/track/14hwgXezbZDPcyhq7Zw91D) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Serie 20 Exitos](https://open.spotify.com/album/7n6xNmDEgfcTkO1Jz9G3Py) | 2:08 | 2022-01-25 |  |
 | [El Lucero](https://open.spotify.com/track/2JRWLYIGFHAHGA15RrJ4QO) | [Ramon Ayala](https://open.spotify.com/artist/0fIdQWpwzU2oEtsoyArDOL) | [BAILAMOS TIA \- POLKAS, REDOVAS, HUAPANGOS \(Grabación Original Remasterizada\)](https://open.spotify.com/album/2db3vgPhGgfD4dTjDysVvx) | 1:56 | 2022-01-25 | 2022-09-13 |
 | [El Mariachi Loco](https://open.spotify.com/track/5p8MEea3AUX4d7azlnYHol) | [Pedro Fernández](https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh) | [No Que No \(Edición De Lujo\)](https://open.spotify.com/album/5wFfJdMGqQubs2UEerlVRR) | 2:41 | 2022-01-25 | 2022-07-29 |
-| [El Mariachi Loco](https://open.spotify.com/track/2InG1WrLizDf1KUKYLnmIw) | [Pedro Fernández](https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh) | [No Que No](https://open.spotify.com/album/0GuwpNGXt3Kfl0H8lI5wQP) | 2:42 | 2022-01-25 |  |
+| [El Mariachi Loco](https://open.spotify.com/track/2InG1WrLizDf1KUKYLnmIw) | [Pedro Fernández](https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh) | [No Que No](https://open.spotify.com/album/0GuwpNGXt3Kfl0H8lI5wQP) | 2:42 | 2022-01-25 | 2022-11-12 |
+| [El Mariachi Loco](https://open.spotify.com/track/4Yq9SqkT1Xz0GxzGoxJPfo) | [Pedro Fernández](https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh) | [Corazón Mexicano Vol\. 1](https://open.spotify.com/album/6p0vUqTDWNlg6hBJDC0u2g) | 2:42 | 2022-10-28 |  |
 | [El Sinaloense](https://open.spotify.com/track/0bxa8kZpLhhxg9ATooV3yQ) | [Luis Aguilar](https://open.spotify.com/artist/4vazE48JBgn7Q7itFsfFVx) | [RCA 100 Años De Musica](https://open.spotify.com/album/439PoHmgdLpwc6LOF66FwH) | 1:45 | 2022-01-25 |  |
 | [El Taconazo](https://open.spotify.com/track/1k8LMNtT8hsd4cPVwYchyX) | [El Piporro](https://open.spotify.com/artist/2RDCFdmJvNbGQBILkTvF5q) | [Lo Mejor De El Piporro](https://open.spotify.com/album/7Fk73SIehkIrO2uoo1L643) | 2:15 | 2022-01-25 |  |
 | [El Tilingo Lingo](https://open.spotify.com/track/1wuWRVyQmOMocqvdKkB2J1) | [Conjunto Jarocho Lindo Veracruz](https://open.spotify.com/artist/1G2qHYmNah4PuOrAAWpwUU) | [El Tilingo Lingo](https://open.spotify.com/album/2CI0buQUSqmtm4a5SccEaD) | 2:55 | 2022-01-25 |  |
@@ -39,8 +40,9 @@
 | [Flor De Piña \(Pineapple Flower Dance\) \[Papaloapan Region\]](https://open.spotify.com/track/4Wu1DCxgNeZUKJvLXrhhv9) | [Banda Filarmónica Renacimiento A.C.](https://open.spotify.com/artist/6fUdU059sewWQ0BcsVOkec) | [La Guelaguetza Oaxaca, Vol\. 2](https://open.spotify.com/album/6ih0vpYKKHWJA7Sm9eYM2L) | 3:47 | 2022-09-12 |  |
 | [Guadalajara](https://open.spotify.com/track/7bqkK6DMlXwcIHbSzLq1xx) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Música de America](https://open.spotify.com/album/3NoSCNr4O7hKlpibE7HiRR) | 2:56 | 2022-01-25 |  |
 | [Huapango de Moncayo](https://open.spotify.com/track/6sRcmTzalGYAERH18Nkqo6) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Sinfónico 3](https://open.spotify.com/album/5r6kbcr9qtGnpUo9uBqWwq) | 8:32 | 2022-01-25 |  |
+| [Juliantla](https://open.spotify.com/track/36OoSu11eidiCOjpl24oKr) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Antología: El Poeta Del Pueblo, Vol\. 1 – Sus Primeros Éxitos](https://open.spotify.com/album/7rBNKCoMDPIgSDXvpDBlwR) | 3:24 | 2022-10-28 |  |
 | [Juliantla](https://open.spotify.com/track/6eWiYzUniNRpD5mwFs0IpG) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [15 Exitos 15 \- Joan Sebastian](https://open.spotify.com/album/79pXkx1V4t8PTcICE5m76U) | 3:24 | 2022-01-25 | 2022-07-29 |
-| [Juliantla](https://open.spotify.com/track/7vrIweMapxdothM6NNPYy5) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [15 Éxitos](https://open.spotify.com/album/28S0SWEBQrVLIOjvewF5n2) | 3:24 | 2022-01-25 |  |
+| [Juliantla](https://open.spotify.com/track/7vrIweMapxdothM6NNPYy5) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [15 Éxitos](https://open.spotify.com/album/28S0SWEBQrVLIOjvewF5n2) | 3:24 | 2022-01-25 | 2022-11-12 |
 | [La Bala](https://open.spotify.com/track/2Z5fIjiXs9mewTPp2hvVTR) | [Pedro Fernández](https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh) | [De Corazón](https://open.spotify.com/album/76fRflWFFHxPUIc0qKnmDo) | 10:01 | 2022-01-25 |  |
 | [La Bamba](https://open.spotify.com/track/5vTCRHPzOIXTPx0Bx6fGhM) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Fiesta Mexicana‚ Puro Mariachi](https://open.spotify.com/album/7bM47G8J24pQah2NMDmXFo) | 3:01 | 2022-01-25 |  |
 | [La Bamba](https://open.spotify.com/track/51EcnaX9uGBFYdBpMThgEs) | [Tlen Huicani](https://open.spotify.com/artist/47dC2tIVeFjNtRXcCE53O8), [Lino Chavez](https://open.spotify.com/artist/0mE18DYrJBKMJdDBSUc3Jn) | [Veracruz Son y Huapango](https://open.spotify.com/album/7nrQ2LRqb5N0fFtW4rrPJD) | 3:13 | 2022-01-25 |  |

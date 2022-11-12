@@ -4,7 +4,7 @@
 
 > We like it like that! Cover: Pete Rodriguez \(Courtesy of Fania\)
 
-98 songs - 6 hr 45 min - [published](https://open.spotify.com/playlist/6bR2ddpU2tR5Go5U5HI8SW)
+100 songs - 6 hr 54 min - [published](https://open.spotify.com/playlist/6bR2ddpU2tR5Go5U5HI8SW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Bad Breath](https://open.spotify.com/track/50PULwtJCTv0EjRsP27MDt) | [Bobby Valentin](https://open.spotify.com/artist/7nJ3uKCT4lPwDJSRZzBlss) | [Fania Latin Boogaloo Essentials](https://open.spotify.com/album/4J4m1XPyozIy8TDn1zxXKg) | 2:47 | 2021-09-07 | 2022-07-29 |
 | [Bang Bang](https://open.spotify.com/track/4WHenMegy6rIakCNg98Vxf) | [Joe Cuba](https://open.spotify.com/artist/5MlfccEEOw6kihsT8eQtbh) | [Fania Latin Boogaloo Essentials](https://open.spotify.com/album/4J4m1XPyozIy8TDn1zxXKg) | 4:07 | 2021-09-07 | 2022-07-29 |
 | [Bang! Bang!](https://open.spotify.com/track/0gbeHMR4ESdykYOwWQ3PBw) | [Joe Cuba Sextet](https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj) | [Wanted Dead Or Alive \(Bang Bang Push Push Push\)](https://open.spotify.com/album/4W0zbRYPZqZgxzjQDVA63H) | 4:06 | 2021-09-07 | 2022-11-11 |
+| [Boogaloo Blues](https://open.spotify.com/track/62o0gzaSrLZvdTwlvWkDq5) | [Johnny Colon](https://open.spotify.com/artist/4IQvRKcRuA2mzB6lc2E5Pm) | [Fania Records 60's Gold](https://open.spotify.com/album/23tZQ7L4t76gYwRKx2h9ye) | 5:31 | 2021-09-07 |  |
 | [Boogaloo Blues](https://open.spotify.com/track/7wLdPTpjA6xOluKGOFBrmR) | [Johnny Colon](https://open.spotify.com/artist/4IQvRKcRuA2mzB6lc2E5Pm) | [Fania Records 60's Gold](https://open.spotify.com/album/2bfg6X6O2NlWNlvCHqsD8h) | 5:31 | 2021-09-07 | 2022-07-29 |
 | [Boogaloo Blues](https://open.spotify.com/track/48pCzNTXLLKneVT6Uel2oT) | [Johnny Colon](https://open.spotify.com/artist/4IQvRKcRuA2mzB6lc2E5Pm) | [Boogaloo Blues](https://open.spotify.com/album/1ME1gBqz9bt3A0LXDQYHB4) | 6:51 | 2022-04-09 | 2022-07-29 |
 | [Brooklyn Boogaloo](https://open.spotify.com/track/2SFQr3uJF8wD7iLqGVaLNi) | [Spanglish Fly](https://open.spotify.com/artist/1iy7s9Xp6bA7lClmWDsNKu) | [New York Boogaloo](https://open.spotify.com/album/1eItMzO9e3pOi82He9lIiI) | 6:29 | 2021-09-07 |  |
@@ -75,6 +76,7 @@
 | [Micaela](https://open.spotify.com/track/6JK8oqoNElXD0MIvrol3BQ) | [Pete Rodriguez](https://open.spotify.com/artist/76KY8JsK3XMQkjDiRZVprS) | [Fania Latin Boogaloo Essentials](https://open.spotify.com/album/4J4m1XPyozIy8TDn1zxXKg) | 5:25 | 2021-09-07 | 2022-07-27 |
 | [Micaela \- Live](https://open.spotify.com/track/2FQNKdVthiJDP3OhFQNaP8) | [Pete Rodriguez](https://open.spotify.com/artist/76KY8JsK3XMQkjDiRZVprS) | [I Like It Like That](https://open.spotify.com/album/3jMsGvImaL1YxiTxNNIvvB) | 5:25 | 2021-09-07 | 2022-11-11 |
 | [Oh Yeah](https://open.spotify.com/track/2nwZM9xPnqYCq21bizt772) | [Joe Cuba](https://open.spotify.com/artist/5MlfccEEOw6kihsT8eQtbh) | [Joe Cuba \- Greatest Hits](https://open.spotify.com/album/1q43qMTgCmzoGC0JqpNkdV) | 3:14 | 2021-09-07 | 2022-07-29 |
+| [Oh Yeah](https://open.spotify.com/track/0Cwx3l6mqlXQFvrIGcjNeP) | [Joe Cuba Sextet](https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj) | [Greatest Hits](https://open.spotify.com/album/4cqjTLyo6ebSUA2EE9pwrZ) | 3:14 | 2021-09-07 |  |
 | [Para Ti Mi Boogaloo](https://open.spotify.com/track/5rBWWgbrC2Wx77o2Nv8OyK) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [La Excitante](https://open.spotify.com/album/6A6Fdj1sNCb5vHJMQmPw5z) | 2:32 | 2021-09-07 | 2022-07-24 |
 | [Pastime Paradise](https://open.spotify.com/track/36LpijZOR2wl2hGmVL1EN0) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [La Cuna](https://open.spotify.com/album/3vcEuGjhuMh3BKNWYBFFqy) | 8:34 | 2022-04-09 |  |
 | [Pata Pata](https://open.spotify.com/track/2C06v7c02nnrZLPCR2TgHO) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [The King](https://open.spotify.com/album/7xgkOmB7syD8a5Srn3Z5va) | 3:15 | 2022-04-09 | 2022-07-09 |
@@ -83,7 +85,7 @@
 | [Pow Wow](https://open.spotify.com/track/4BH7lDLLzKPGsF8cmt7p13) | [Manny Corchado & His Orchestra](https://open.spotify.com/artist/2pcuaTPFg6uZVSItPyitfg), [Tito Jiménez](https://open.spotify.com/artist/6x9fpanAwuhr976XEB5IiY) | [Aprovecha el Tiempo](https://open.spotify.com/album/4BaWqzO241fwSJQ1GgUFRP) | 3:33 | 2022-04-09 |  |
 | [Que Bueno Boogaloo](https://open.spotify.com/track/343S3fphbIwx7wI4gJgNyF) | [La Lupe](https://open.spotify.com/artist/5YR49Hzg7h990JxfXuxm3a) | [Leyendas De La Fania Vol 6](https://open.spotify.com/album/6xbr773VgXkRIEFCPFs3Iu) | 2:44 | 2021-09-07 | 2022-07-15 |
 | [Que Se Sepa](https://open.spotify.com/track/3QmiOzBxGmXf0GNzjArrw3) | [Roberto Roena](https://open.spotify.com/artist/4i5rDrP2IqCdMgde0vIpyB) | [El Barrio](https://open.spotify.com/album/4xGW5NEUTOgeqvYoOCCD0k) | 3:14 | 2022-04-09 | 2022-07-28 |
-| [Que Se Sepa](https://open.spotify.com/track/2mNLwOxMnm0TxXJBF1y5Ln) | [Roberto Roena Y Su Apollo Sound](https://open.spotify.com/artist/0KdPDmQhHxBKsHNsQuh5ry) | [Apollo Sound 5](https://open.spotify.com/album/2wI2dJforjcPADfSye1yhS) | 3:16 | 2022-04-09 |  |
+| [Que Se Sepa](https://open.spotify.com/track/2mNLwOxMnm0TxXJBF1y5Ln) | [Roberto Roena Y Su Apollo Sound](https://open.spotify.com/artist/0KdPDmQhHxBKsHNsQuh5ry) | [Apollo Sound 5](https://open.spotify.com/album/2wI2dJforjcPADfSye1yhS) | 3:16 | 2022-04-09 | 2022-11-12 |
 | [Richie's Jala\-Jala](https://open.spotify.com/track/0QvRbWa5WBhbJtg52GdbJq) | [Richie Ray & Bobby Cruz](https://open.spotify.com/artist/56eTRCwZ13vVWAmrG0dMnq) | [A Lifetime of Hits..\. \(Live At Centro de Bellas Artes, San Juan, Puerto Rico.\)](https://open.spotify.com/album/0u75f0pYJy2cGHNiikXGlz) | 4:57 | 2022-04-09 |  |
 | [Right On](https://open.spotify.com/track/4V0PNNaNA9PgFC3zVlw8no) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [Barretto Power](https://open.spotify.com/album/5RxIBMJ5ZrQo1YmD1bk9k7) | 2:47 | 2022-04-09 | 2022-07-28 |
 | [Riki Chi](https://open.spotify.com/track/5ZsspDgT5ofnFWvw0hiyLe) | [Joey Pastrana](https://open.spotify.com/artist/1SRbatbdUUbLnZSzEAJ9Vv) | [Fania Records 60's Gold](https://open.spotify.com/album/2bfg6X6O2NlWNlvCHqsD8h) | 4:15 | 2021-09-07 | 2022-07-17 |
@@ -94,7 +96,7 @@
 | [Summertime Blues](https://open.spotify.com/track/1e6jHVb4C6ehwXrMgqBk47) | [Lebrón Brothers](https://open.spotify.com/artist/3MeSOWo9ZSTe5Esf66uXam) | [Back On The Streets Of Spanish Harlem](https://open.spotify.com/album/3ea0oHYXJgewFJpRvH7iip) | 4:41 | 2021-09-07 | 2022-07-29 |
 | [Summertime Blues](https://open.spotify.com/track/0ODEACdZ8xmsxosolVPkkI) | [The Lebron Brothers Orchestra](https://open.spotify.com/artist/6zb5tBPPvk4nRXW33IqztD) | [Psychedelic Goes Latin](https://open.spotify.com/album/2SOvavOrKySlz9Zet58rCC) | 4:44 | 2021-09-07 | 2022-11-11 |
 | [That's How Rumors Start](https://open.spotify.com/track/4HbyfigTHGdBuBaD1GsmKe) | [Joey Pastrana and His Orchestra](https://open.spotify.com/artist/0mWQOAjoHzqSNxwbGg4tf2) | [Joey](https://open.spotify.com/album/4I6Y0n7bB7op6vgT9YfW3R) | 7:32 | 2021-09-07 | 2022-07-29 |
-| [That's How Rumors Start](https://open.spotify.com/track/51TS79ehSs5WDLIm0YWRRv) | [Joey Pastrana and His Orchestra](https://open.spotify.com/artist/0mWQOAjoHzqSNxwbGg4tf2) | [Joey](https://open.spotify.com/album/2N69ERhN11ludnptsYs16c) | 7:32 | 2021-09-07 |  |
+| [That's How Rumors Start](https://open.spotify.com/track/51TS79ehSs5WDLIm0YWRRv) | [Joey Pastrana and His Orchestra](https://open.spotify.com/artist/0mWQOAjoHzqSNxwbGg4tf2) | [Joey](https://open.spotify.com/album/2N69ERhN11ludnptsYs16c) | 7:32 | 2021-09-07 | 2022-11-12 |
 | [Tiempo Pa’ Matar](https://open.spotify.com/track/6LC8pFSA5K9zJVSWiVQwf8) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Tiempo pa' Matar](https://open.spotify.com/album/12fkmxSR5zWnxJqCyxDIy5) | 4:59 | 2022-04-09 |  |
 | [Tihuanaco](https://open.spotify.com/track/0w1Zn7sPlkIbA9RZ1aLkgF) | [Alfredo Linares](https://open.spotify.com/artist/69cQFJ1QUMfKbGBygF0YCd) | [Vida Musical, Vol\. 1](https://open.spotify.com/album/4R5CqQ6zcAtkWcLua3mFW9) | 3:37 | 2022-04-09 | 2022-07-25 |
 | [Touch Me](https://open.spotify.com/track/4c0LhycLJw7zE7UhkEzZkw) | [La Lupe](https://open.spotify.com/artist/5YR49Hzg7h990JxfXuxm3a) | [The Queen Does Her Own Thing](https://open.spotify.com/album/4v1QDFRpJK3wPNzL7PG8pD) | 2:25 | 2022-04-09 | 2022-07-29 |

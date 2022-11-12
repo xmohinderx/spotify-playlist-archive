@@ -145,7 +145,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 156400,
       "name": "A Tear Fell",
       "url": "https://open.spotify.com/track/4AcFQfO6RDUl9S0Mioxbm2"
@@ -163,7 +163,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 140533,
       "name": "A Teenager In Love",
       "url": "https://open.spotify.com/track/4817x5vTdyiguUlzk5NAoO"
@@ -553,7 +553,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 162213,
       "name": "Blue Moon - Take 9/M",
       "url": "https://open.spotify.com/track/6VqCe4PcokSekHPJQaDx0B"
@@ -1011,7 +1011,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 175560,
       "name": "Earth Angel (Will You Be Mine)",
       "url": "https://open.spotify.com/track/30KTFJKXV7atWiDc6YOz30"
@@ -1267,7 +1267,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 166373,
       "name": "Half As Much (with Percy Faith & His Orchestra)",
       "url": "https://open.spotify.com/track/5vIe5BmOlPXarqRxJh9FNE"
@@ -1339,10 +1339,28 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 172440,
       "name": "Hey There - from The \"Pajama Game\"",
       "url": "https://open.spotify.com/track/6bXBU7A1e6oVoMCYNPzXoN"
+    },
+    {
+      "album": {
+        "name": "Frankie Laine's Greatest Hits",
+        "url": "https://open.spotify.com/album/0Z1J1n3fJPA53HLGtzi8HD"
+      },
+      "artists": [
+        {
+          "name": "Frankie Laine",
+          "url": "https://open.spotify.com/artist/3cgO5CdhEHKMxldjZlP5ix"
+        }
+      ],
+      "date_added": "2020-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158360,
+      "name": "High Noon",
+      "url": "https://open.spotify.com/track/1yGBGPgpGi5ua0HbHcvesQ"
     },
     {
       "album": {
@@ -1508,6 +1526,24 @@
     },
     {
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5W8G2sRRXvYTuuFu4Jinmc"
+      },
+      "artists": [
+        {
+          "name": "Eddie Fisher",
+          "url": "https://open.spotify.com/artist/6bHSJldq5J4lYowHOm9OOX"
+        }
+      ],
+      "date_added": "2020-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149093,
+      "name": "I Need You Now - 2001 Remastered",
+      "url": "https://open.spotify.com/track/0gxpt81ZzaX0x72k1NOojB"
+    },
+    {
+      "album": {
         "name": "Ruby Murray - Greatest Hits",
         "url": "https://open.spotify.com/album/5w3MZ0imkrTr5nkxy5IeWO"
       },
@@ -1537,7 +1573,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 177493,
       "name": "I'll Take You Home Again, Kathleen",
       "url": "https://open.spotify.com/track/3rfvssyMQbY28825P2sztA"
@@ -1627,7 +1663,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 184400,
       "name": "I'm Walking Behind You - 2001 Remastered",
       "url": "https://open.spotify.com/track/70PXozsEK1wUHXnT72Wlxh"
@@ -2107,7 +2143,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 158760,
       "name": "Love And Marriage",
       "url": "https://open.spotify.com/track/4eM4EWXOkOEq19kMFRYDxD"
@@ -2259,7 +2295,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 143826,
       "name": "Lucille",
       "url": "https://open.spotify.com/track/4YXKKnIZuk7UtXH5oC0ffa"
@@ -2548,6 +2584,24 @@
     },
     {
       "album": {
+        "name": "Presenting David Whitfield",
+        "url": "https://open.spotify.com/album/0f1UFMh8xG1adHBonh7vuu"
+      },
+      "artists": [
+        {
+          "name": "David Whitfield",
+          "url": "https://open.spotify.com/artist/4Hy8wleeYbPThe35iMWjMH"
+        }
+      ],
+      "date_added": "2020-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166253,
+      "name": "My September Love",
+      "url": "https://open.spotify.com/track/3VIhcEJvk3BPuLDcml0AsH"
+    },
+    {
+      "album": {
         "name": "True 50's love",
         "url": "https://open.spotify.com/album/1bYAKB9rFvAJNwR7XDyN5Y"
       },
@@ -2797,7 +2851,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 164400,
       "name": "Pretend",
       "url": "https://open.spotify.com/track/2Gd007dAbihobxsTG9m7cZ"
@@ -2815,7 +2869,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 145653,
       "name": "Prize of Gold",
       "url": "https://open.spotify.com/track/66a79PvQvMsWYawOw5vOuX"
@@ -3087,7 +3141,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 160933,
       "name": "Smoke Gets In Your Eyes",
       "url": "https://open.spotify.com/track/2vSxjnyrWrtxyfzO47EX6q"
@@ -3292,6 +3346,24 @@
     },
     {
       "album": {
+        "name": "Back To The 50s",
+        "url": "https://open.spotify.com/album/3SIvFkmDVUnXQCx2mtQl67"
+      },
+      "artists": [
+        {
+          "name": "Connie Francis",
+          "url": "https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q"
+        }
+      ],
+      "date_added": "2020-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133613,
+      "name": "Stupid Cupid",
+      "url": "https://open.spotify.com/track/1jugCD4d8t310lRCUDLLpq"
+    },
+    {
+      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/5LzeNR0ssOIfaUpNQbthH9"
       },
@@ -3447,7 +3519,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 153973,
       "name": "Tennessee Wig Walk",
       "url": "https://open.spotify.com/track/0TGcflLOdjYGP5p6y5GppI"
@@ -3487,6 +3559,28 @@
       "duration_ms": 135240,
       "name": "Tequila",
       "url": "https://open.spotify.com/track/5gJKsGij5oGt5H5RSFYXPa"
+    },
+    {
+      "album": {
+        "name": "Piosenki z Film\u00f3w",
+        "url": "https://open.spotify.com/album/5XppDzLQLDzEAKrpQQwKqi"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        },
+        {
+          "name": "Dick Stabile And His Orchestra",
+          "url": "https://open.spotify.com/artist/0liyb0PPDyu3pfG7WZtsxO"
+        }
+      ],
+      "date_added": "2020-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187626,
+      "name": "That's Amore",
+      "url": "https://open.spotify.com/track/3chhqO7z6nVOf1fdhcyKFn"
     },
     {
       "album": {
@@ -3599,7 +3693,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 170973,
       "name": "The Finger of Suspicion",
       "url": "https://open.spotify.com/track/16sYtcllhwPFJzEwtn5mBn"
@@ -3639,6 +3733,24 @@
       "duration_ms": 157360,
       "name": "The Great Pretender",
       "url": "https://open.spotify.com/track/2FkCjtQ1lYsf71s2FAS8hE"
+    },
+    {
+      "album": {
+        "name": "All-Time Greatest Hits",
+        "url": "https://open.spotify.com/album/1lJ1ungety4t4ToDXJlATu"
+      },
+      "artists": [
+        {
+          "name": "The Platters",
+          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
+        }
+      ],
+      "date_added": "2020-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158920,
+      "name": "The Great Pretender - Single Version",
+      "url": "https://open.spotify.com/track/2F6q2gDE68uTfS2M4iXIFi"
     },
     {
       "album": {
@@ -3696,6 +3808,24 @@
     },
     {
       "album": {
+        "name": "The Pye Anthology",
+        "url": "https://open.spotify.com/album/2F76wPbzYrfIddRueFYag2"
+      },
+      "artists": [
+        {
+          "name": "Petula Clark",
+          "url": "https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8"
+        }
+      ],
+      "date_added": "2020-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136906,
+      "name": "The Little Shoemaker",
+      "url": "https://open.spotify.com/track/7h2OHDuJP5pzcFBLGbyEw6"
+    },
+    {
+      "album": {
         "name": "30th Anniversary Collection",
         "url": "https://open.spotify.com/album/0OxmrGiNK366aVvJmpe5s2"
       },
@@ -3729,6 +3859,24 @@
       "duration_ms": 162906,
       "name": "The Wayward Wind",
       "url": "https://open.spotify.com/track/0x5B25tae0e2seuKUp6HWw"
+    },
+    {
+      "album": {
+        "name": "Capitol Records From The Vaults: \"The Best Of '56\"",
+        "url": "https://open.spotify.com/album/75M5NdrtKfV1vLqn7roU3p"
+      },
+      "artists": [
+        {
+          "name": "Tex Ritter",
+          "url": "https://open.spotify.com/artist/0m7gTbaLi5fM22MiRaRf7G"
+        }
+      ],
+      "date_added": "2020-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166533,
+      "name": "The Wayward Wind",
+      "url": "https://open.spotify.com/track/48KFCFJS1fQtPkeelSnP2x"
     },
     {
       "album": {
@@ -4003,7 +4151,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 160280,
       "name": "We Will Make Love",
       "url": "https://open.spotify.com/track/2RwgGFFWJO0RzyM2VAOwWW"
@@ -4118,6 +4266,24 @@
     },
     {
       "album": {
+        "name": "The World Of Nat King Cole (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1z5Ut9gopzeYwM7QsseZtP"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "date_added": "2020-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190746,
+      "name": "When I Fall In Love - Remastered 2004",
+      "url": "https://open.spotify.com/track/1TUy1TUNg3pvsCp5ZWmJhm"
+    },
+    {
+      "album": {
         "name": "The Ultimate Collection",
         "url": "https://open.spotify.com/album/2W9RqKzpGJG0tJjGMtUAHv"
       },
@@ -4165,10 +4331,28 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 136626,
       "name": "Who's Sorry Now",
       "url": "https://open.spotify.com/track/4bzvhZFlV9UqQ3EmV2i8s4"
+    },
+    {
+      "album": {
+        "name": "Sings: With a Heart - With a Beat",
+        "url": "https://open.spotify.com/album/7eeVrjFmABcDANgdi5t3RF"
+      },
+      "artists": [
+        {
+          "name": "Marvin Rainwater",
+          "url": "https://open.spotify.com/artist/0io243tshqbvutIxj44rMy"
+        }
+      ],
+      "date_added": "2020-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158066,
+      "name": "Whole Lotta Woman",
+      "url": "https://open.spotify.com/track/61vf1NmR58BJE2uJkvg46Z"
     },
     {
       "album": {
@@ -4295,7 +4479,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 193666,
       "name": "You Belong To Me",
       "url": "https://open.spotify.com/track/2NDMLabAjx4oL7ezx2PNxS"

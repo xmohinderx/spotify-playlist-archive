@@ -1,12 +1,12 @@
 {
   "description": "These songs will make you feel better. Or maybe worse.",
-  "num_followers": 459,
+  "num_followers": 461,
   "original_name": "The PMS Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDkxMzQ2NywwMDAwMDAwMDc5YmIzMTQ2YTg2MTlkMzAxN2I3MDI5ZDM3MzFlNDNm",
+  "snapshot_id": "MTY2MDkxMzQ2NywwMDAwMDAwMGY0NzEzZjFkZjExNmM3ZDU5YzFkM2Q1OTM1MGM3ZDE0",
   "tracks": [
     {
       "added_at": "2019-10-04 13:59:10",
@@ -267,26 +267,6 @@
     {
       "added_at": "2019-10-04 13:59:10",
       "album": {
-        "name": "The Fame Monster (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6DGZdMi124iOOih9GMlhN2"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        },
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 220626,
-      "name": "Telephone",
-      "url": "https://open.spotify.com/track/7rl7ao5pb9BhvAzPdWStxi"
-    },
-    {
-      "added_at": "2019-10-04 13:59:10",
-      "album": {
         "name": "Ain't Your Mama",
         "url": "https://open.spotify.com/album/5Bd99eGJKXoRMnqgqWlWmp"
       },
@@ -383,6 +363,22 @@
     {
       "added_at": "2019-10-04 13:59:10",
       "album": {
+        "name": "Stripped",
+        "url": "https://open.spotify.com/album/2USigX9DhGuAini71XZEEK"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 245960,
+      "name": "Fighter",
+      "url": "https://open.spotify.com/track/7nXq1vaZiz7PdbfojpPjW5"
+    },
+    {
+      "added_at": "2019-10-04 13:59:10",
+      "album": {
         "name": "Destiny Fulfilled",
         "url": "https://open.spotify.com/album/0b6ivSFfDs38MG7aLn9rvO"
       },
@@ -399,18 +395,18 @@
     {
       "added_at": "2019-10-04 13:59:10",
       "album": {
-        "name": "Gypsy Heart",
-        "url": "https://open.spotify.com/album/5nB5tR7ntrEpHbpCS7iHN9"
+        "name": "Miss Thang",
+        "url": "https://open.spotify.com/album/71mPApAzW9HkbUGdYzMQHb"
       },
       "artists": [
         {
-          "name": "Colbie Caillat",
-          "url": "https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu"
+          "name": "Monica",
+          "url": "https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2"
         }
       ],
-      "duration_ms": 224573,
-      "name": "Try",
-      "url": "https://open.spotify.com/track/6buXDkw3Gv4fQC1OZKUhnR"
+      "duration_ms": 258466,
+      "name": "Don't Take It Personal (Just One of Dem Days)",
+      "url": "https://open.spotify.com/track/0JCAezTC5IlK1a9o0YBEsD"
     }
   ],
   "unique_name": "The PMS Playlist",

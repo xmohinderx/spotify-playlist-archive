@@ -4,7 +4,7 @@
 
 > Celebrate Halloween at home with these fun tracks
 
-188 songs - 8 hr 22 min - [published](https://open.spotify.com/playlist/0R2EZHHQAsftTT9zdzkjlK)
+190 songs - 8 hr 28 min - [published](https://open.spotify.com/playlist/0R2EZHHQAsftTT9zdzkjlK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,8 +130,9 @@
 | [Smelloween](https://open.spotify.com/track/3vntT5h9WBgNOej8x0Oq3g) | [Mr Yipadee](https://open.spotify.com/artist/2EDBzZNew0M639G7RKCTsS), [Deano Yipadee](https://open.spotify.com/artist/7hQbFjNyMcJxjwmlieqPy1) | [Halloween Songs For Kids](https://open.spotify.com/album/5b83BDTJvUGohjOfy4cYWy) | 2:08 | 2021-09-10 |  |
 | [Somebody's Watching Me \- Single Version](https://open.spotify.com/track/30W04PUt6gHISFbrtFYkp0) | [Rockwell](https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP) | [Happy Haunted Halloween Tunes](https://open.spotify.com/album/0Imh8AJGlHc3S0hHy8fImK) | 3:56 | 2022-10-11 | 2022-10-17 |
 | [Somebody's Watching Me \- Single Version](https://open.spotify.com/track/4P0UmzUN00aoPLrgnqfZUX) | [Rockwell](https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP) | [Kids Songs: Halloween Party!](https://open.spotify.com/album/3ieg9cbiq6SacHVpPFQo14) | 3:56 | 2022-10-11 | 2022-11-07 |
+| [Somebody's Watching Me \- Single Version](https://open.spotify.com/track/6tUEdj7qGKPN3rV6GpBwuc) | [Rockwell](https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP) | [Halloween for Kids](https://open.spotify.com/album/7oYdF4y0Djq4nQpyHlcfYq) | 3:56 | 2022-10-11 |  |
 | [Somebody's Watching Me \- Single Version](https://open.spotify.com/track/6A4Jc8npNo79BOgsrPptLA) | [Rockwell](https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP) | [Scream](https://open.spotify.com/album/2X8UOIkZQdcz2Hi5Ynt2uk) | 3:57 | 2021-08-30 | 2022-07-29 |
-| [Somebody's Watching Me \- Single Version](https://open.spotify.com/track/6hci8n9UowepjRmCc6CKTv) | [Rockwell](https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP) | [Hitsville USA, The Motown Collection 1972\-1992](https://open.spotify.com/album/6nrCHETnE3ZWgwL0uYYWGP) | 3:58 | 2021-08-30 |  |
+| [Somebody's Watching Me \- Single Version](https://open.spotify.com/track/6hci8n9UowepjRmCc6CKTv) | [Rockwell](https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP) | [Hitsville USA, The Motown Collection 1972\-1992](https://open.spotify.com/album/6nrCHETnE3ZWgwL0uYYWGP) | 3:58 | 2021-08-30 | 2022-11-12 |
 | [Somebody’s Watching Me](https://open.spotify.com/track/1kjOgPtsd6QPpa9LECfLK3) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Halloween](https://open.spotify.com/album/7mb79mhvW3ZTdeIQWos7xs) | 3:47 | 2021-09-10 |  |
 | [Somebody’s Watching Me](https://open.spotify.com/track/2jwMh6fBHaTF1mS8v0fJQ3) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Halloween Party!](https://open.spotify.com/album/6CpueN14uwF290ufghdCgT) | 3:47 | 2021-08-30 |  |
 | [Spongebob Squarepants Theme](https://open.spotify.com/track/4cwAvEnJRST9QoKR2bGLIW) | [The Hit Crew](https://open.spotify.com/artist/76PJKS3IQsf4sSayx2taE0) | [Bestest Kids Halloween Songs Ever](https://open.spotify.com/album/1xkWTua1mHxl3ZDP5E6VCm) | 0:46 | 2021-08-30 |  |
@@ -176,9 +177,10 @@
 | [Troll Under My Bed](https://open.spotify.com/track/1fyxDcPKVgOgtpuQoxVae5) | [Pixel Kids](https://open.spotify.com/artist/6aa2NIHq5o1ebL8BbGkUDW) | [Halloween With Friends](https://open.spotify.com/album/4gQb4THy0jw2Y0iH11q6ap) | 1:53 | 2022-10-11 |  |
 | [Troll Under My Bed](https://open.spotify.com/track/6Fm9c4RsLkazwV37PYhqjc) | [Pixel Kids](https://open.spotify.com/artist/6aa2NIHq5o1ebL8BbGkUDW) | [Cocomelon & Friends Halloween](https://open.spotify.com/album/4Ka27MLLbmj1IcjVyens72) | 1:53 | 2021-09-10 | 2022-07-29 |
 | [Vampire Wedding](https://open.spotify.com/track/2hH8xQrEH39WJ2cOckewvQ) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Halloween Songs 3](https://open.spotify.com/album/3JoS9KsDBydpJuxJ0YFbKV) | 1:21 | 2021-08-30 |  |
-| [We Love Halloween](https://open.spotify.com/track/40WjfvGm7cMJHdElsDwAVG) | [Pancake Manor](https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C) | [Boo! It's Halloween](https://open.spotify.com/album/6fWfpZA7c3puk13L7YfIt2) | 2:00 | 2022-09-27 |  |
+| [We Love Halloween](https://open.spotify.com/track/40WjfvGm7cMJHdElsDwAVG) | [Pancake Manor](https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C) | [Boo! It's Halloween](https://open.spotify.com/album/6fWfpZA7c3puk13L7YfIt2) | 2:00 | 2022-09-27 | 2022-11-12 |
 | [We Love Halloween](https://open.spotify.com/track/4opsqf7Z84kvVFYto5XnrV) | [Pancake Manor](https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C) | [We Love Halloween](https://open.spotify.com/album/0TCjVZ1r377txbCgGLfhA3) | 2:00 | 2021-09-10 | 2022-10-10 |
 | [We Love Halloween](https://open.spotify.com/track/5pPfdRgCuJhvlZy1L9kMGE) | [Pancake Manor](https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C) | [We Love Halloween](https://open.spotify.com/album/1OlgNg367Vh1lDWc32cwCs) | 2:00 | 2021-09-10 | 2022-07-29 |
+| [We Love Halloween](https://open.spotify.com/track/73cRrnQ3VtwyXUK5gBW9j4) | [Pancake Manor](https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C) | [CoComelon & Friends Halloween](https://open.spotify.com/album/4vqE4T87hpSjIUdXOGnzMI) | 2:00 | 2022-10-11 |  |
 | [Werewolves Of London](https://open.spotify.com/track/0boylEapfSI87ao8KndwsW) | [Cooltime Kids](https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ) | [30 Kids' Halloween Party Tracks](https://open.spotify.com/album/1TABHN2mIGRKynJ0ZjDV5W) | 3:30 | 2022-09-25 |  |
 | [Werewolves Of London](https://open.spotify.com/track/322Wso1mXWHJBtZKXUbOF0) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop Halloween Hits!](https://open.spotify.com/album/41Whu3XN1DycyGPZYXz51K) | 3:39 | 2021-08-30 | 2022-09-26 |
 | [Werewolves of London](https://open.spotify.com/track/66TwYuATZiIe3SyuiKvpRd) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Halloween Hits!](https://open.spotify.com/album/2oIkZAjJSJejPND1NXr97U) | 3:39 | 2021-08-30 | 2022-07-29 |

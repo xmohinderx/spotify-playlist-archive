@@ -4,7 +4,7 @@
 
 > Taking you back to your favourite hall party classics from the Afrobeat scene.
 
-131 songs - 8 hr 50 min - [published](https://open.spotify.com/playlist/3PGD42xzaSO4O5kpwimiJs)
+133 songs - 8 hr 57 min - [published](https://open.spotify.com/playlist/3PGD42xzaSO4O5kpwimiJs)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [First of All](https://open.spotify.com/track/6aWJGYvtifenSm5hYVYqii) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [YBNL](https://open.spotify.com/album/0mBEVecZUhNn4sD2nHvJTX) | 3:06 | 2020-11-06 |  |
 | [Gobe](https://open.spotify.com/track/0gu5Cc9YgsGVa4h7H6RyTW) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Gobe](https://open.spotify.com/album/0mqFpJozdwM7r0Bqb4N2iB) | 3:49 | 2020-11-06 |  |
 | [Gobe](https://open.spotify.com/track/6vZyBHBd2evVUqX2USFcdm) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Best Of Davido](https://open.spotify.com/album/4DtzXzSepr3TRnxA89QV8U) | 3:58 | 2020-11-06 | 2022-07-29 |
-| [Gongo Aso](https://open.spotify.com/track/2Vp5mnr5FoxYNGt06vINzl) | [9ice](https://open.spotify.com/artist/0AJdNiFdUdmiU2TNg5fSzH) | [Gongo Aso](https://open.spotify.com/album/1lCce0gAFEo9f3oBA43Aex) | 3:36 | 2020-11-06 |  |
+| [Gongo Aso](https://open.spotify.com/track/2Vp5mnr5FoxYNGt06vINzl) | [9ice](https://open.spotify.com/artist/0AJdNiFdUdmiU2TNg5fSzH) | [Gongo Aso](https://open.spotify.com/album/1lCce0gAFEo9f3oBA43Aex) | 3:36 | 2020-11-06 | 2022-11-12 |
 | [Gongo Aso](https://open.spotify.com/track/5JEw4FrNlWmHxgBkw0jbEj) | [9ice](https://open.spotify.com/artist/0AJdNiFdUdmiU2TNg5fSzH) | [Gongo Aso](https://open.spotify.com/album/0YHhIDMwdgslYUxyDVGeHw) | 3:44 | 2020-11-06 | 2022-07-29 |
 | [Hol' It](https://open.spotify.com/track/1BQHtfaLM0aLBYChMtDGTv) | [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [After the Storm](https://open.spotify.com/album/6ZFfg3kkBnOK1JKFrVsBm6) | 3:49 | 2020-11-06 |  |
 | [Hol' it](https://open.spotify.com/track/7AJcPmSg6OhbdTkOSXQ8YO) | [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [Hol' it](https://open.spotify.com/album/6wau8LRDzJbU5DQWKEMgfR) | 3:49 | 2020-11-06 | 2022-07-29 |
@@ -90,7 +90,8 @@
 | [No Lele](https://open.spotify.com/track/4cKNCruCZcXEfiIKEG6m7b) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Superstar](https://open.spotify.com/album/16xW2AvG6yVXJJ0ZYJ5Dlb) | 3:38 | 2020-11-06 |  |
 | [No Lele](https://open.spotify.com/track/57Gu531HyBd4QmPsQXl165) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Superstar](https://open.spotify.com/album/4o0rVyqZMIvO3PCgbchcgo) | 3:38 | 2020-11-06 | 2022-07-29 |
 | [No One Like You](https://open.spotify.com/track/6sPLOg4DTfBf1bQIclHzVh) | [P\-Square](https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk) | [Best of P\-Square](https://open.spotify.com/album/3cqZQ4kRvAqqGBWTNLUGQZ) | 4:28 | 2020-11-06 | 2022-07-29 |
-| [No One Like You \- Deluxe](https://open.spotify.com/track/5l2sIiSjXzn6cOLZW1k3r4) | [P\-Square](https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk) | [Gameover \(Deluxe\)](https://open.spotify.com/album/6D9DjuzGIPpFrRSMlXxbD2) | 4:28 | 2020-11-06 |  |
+| [No One Like you](https://open.spotify.com/track/1a8VtknxUYMzMwt8SVZzcl) | [P\-Square](https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk) | [Best Of P\-Square](https://open.spotify.com/album/0uitWrCPJsDq51dOpelNcy) | 4:30 | 2020-11-06 |  |
+| [No One Like You \- Deluxe](https://open.spotify.com/track/5l2sIiSjXzn6cOLZW1k3r4) | [P\-Square](https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk) | [Gameover \(Deluxe\)](https://open.spotify.com/album/6D9DjuzGIPpFrRSMlXxbD2) | 4:28 | 2020-11-06 | 2022-11-12 |
 | [Nwa Baby \(Ashawo Remix\)](https://open.spotify.com/track/1noPA8QfOmSEurS2PekBsp) | [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo) | [Best Of Flavour](https://open.spotify.com/album/4llgbWUgnbhaUWL4WX4jFO) | 4:22 | 2020-11-06 | 2022-07-29 |
 | [Nwa Baby \- Ashawo Remix](https://open.spotify.com/track/3yLliVuAdxCnXwqSJgF3TX) | [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo) | [Nwa Baby \(Ashawo Remix\)](https://open.spotify.com/album/1oUpWwSxEMQNea1eHCLcmy) | 4:17 | 2020-11-06 |  |
 | [Obianuju](https://open.spotify.com/track/12n8d0AfedBQysTcN4Tg6W) | [Duncan Mighty](https://open.spotify.com/artist/5N47dnIfPuGH8kIHpf8gZK) | [Legacy \(Ahamefuna\)](https://open.spotify.com/album/5qfyyCq5qZYIlpeBhE0Bl2) | 3:41 | 2020-11-06 |  |
@@ -104,6 +105,7 @@
 | [Pakurumo](https://open.spotify.com/track/5YgyvTZmdkIfFOnj8ri8mZ) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Superstar](https://open.spotify.com/album/4o0rVyqZMIvO3PCgbchcgo) | 3:32 | 2020-11-06 | 2022-07-29 |
 | [Pana](https://open.spotify.com/track/3ddd0nUY2jZtPYzg0r0wTb) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Pana](https://open.spotify.com/album/62sUZK9tqrSH3AMg4gOSmz) | 4:02 | 2020-11-06 |  |
 | [Personally](https://open.spotify.com/track/6v3t7pht6XNt5Wq7co40DM) | [P\-Square](https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk) | [Best of P\-Square](https://open.spotify.com/album/3cqZQ4kRvAqqGBWTNLUGQZ) | 3:12 | 2020-11-06 | 2022-07-29 |
+| [Personally \(Bonus\)](https://open.spotify.com/track/60HomIgR7yTVaEOBIptwHQ) | [P\-Square](https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk) | [Double Trouble](https://open.spotify.com/album/35oKRrd7JKsTshaHR6366h) | 3:12 | 2020-11-06 |  |
 | [Personally \- Bonus](https://open.spotify.com/track/3uaObCyjKCjktezgA5MBX1) | [P\-Square](https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk) | [Double Trouble](https://open.spotify.com/album/27Jz5SHt1hamUx7fD9A6VC) | 3:12 | 2020-11-06 | 2022-11-11 |
 | [Premier Gaou](https://open.spotify.com/track/2JOO9SzSalKixThDuSAtwY) | [Magic System](https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F) | [Les plus grands succès du Club Balattou](https://open.spotify.com/album/0BiwhvvcvT1L3T2cq0zeZf) | 4:52 | 2020-11-06 | 2022-07-29 |
 | [Romantic \(feat\. Tiwa Savage\)](https://open.spotify.com/track/5NOH1b1GanDHuc4pwhoPR1) | [Korede Bello](https://open.spotify.com/artist/2TwUVWFJs4LD0lOBbJXnNa), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Romantic \(feat\. Tiwa Savage\)](https://open.spotify.com/album/6lKawQDT6e3OXoLAYKNJqr) | 3:45 | 2020-11-06 |  |

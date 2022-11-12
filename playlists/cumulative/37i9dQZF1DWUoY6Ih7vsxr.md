@@ -4,7 +4,7 @@
 
 > Listen the 00's best collection of K\-Pop dance\. \(Cover: 2NE1\) \(2000년대를 수 놓았던 케이팝 댄스곡들을 즐겨보세요!\)
 
-164 songs - 9 hr 44 min - [published](https://open.spotify.com/playlist/0rClSBTsn8sf5B9eX9AaIM)
+165 songs - 9 hr 48 min - [published](https://open.spotify.com/playlist/0rClSBTsn8sf5B9eX9AaIM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Come Back to Me](https://open.spotify.com/track/33VVUvUickOuD3vT3CW4Fx) | [SE7EN](https://open.spotify.com/artist/14yLuCwlBqteUdBqx9soJV) | [YG 10th Anniversary](https://open.spotify.com/album/4SqXG1zGw3SFaQGvpjPWRd) | 4:07 | 2022-04-19 | 2022-07-29 |
 | [Crazy](https://open.spotify.com/track/7bayUG8A1EwRJRm6955F96) | [TEEN TOP](https://open.spotify.com/artist/3offPqpKAKmpQkIdWnjzkc) | [It’s](https://open.spotify.com/album/2yLpZZ6W01CqesccYaxEkL) | 3:07 | 2022-04-19 |  |
 | [Cry](https://open.spotify.com/track/0MXLWV4FdduvoPeHu0Yaoc) | [MBLAQ](https://open.spotify.com/artist/14f1WN9TUDVBK4sHUStmLG) | [BLAQ Style](https://open.spotify.com/album/4DJLmLRFfzwzm9boS9jK2m) | 3:47 | 2022-04-19 | 2022-07-29 |
-| [Darling](https://open.spotify.com/track/4zM1okF68wbvOCmcyKDXkH) | [Girl's Day](https://open.spotify.com/artist/13kJgvU22LHMsJtGWLmx7W) | [GIRL'S DAY EVERYDAY no\. 4](https://open.spotify.com/album/0Hsi6dYQAytY08EJm3zMRT) | 3:13 | 2022-04-19 | 2022-10-21 |
+| [Darling](https://open.spotify.com/track/4zM1okF68wbvOCmcyKDXkH) | [Girl's Day](https://open.spotify.com/artist/13kJgvU22LHMsJtGWLmx7W) | [GIRL'S DAY EVERYDAY no\. 4](https://open.spotify.com/album/0Hsi6dYQAytY08EJm3zMRT) | 3:13 | 2022-04-19 |  |
 | [Dejavu](https://open.spotify.com/track/4Q4JDOphODwPg9QcFqiPyN) | [SS501](https://open.spotify.com/artist/6rmMpoeu2SIV4OLURCOn2e) | [Dejavu \(Single\)](https://open.spotify.com/album/2HpU5ApLkQsMwLnpsrSo5c) | 3:32 | 2022-04-19 |  |
 | [Dirty Cash](https://open.spotify.com/track/2tkG7OyKAhTOriOfHlLPo9) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [BIGBANG Vol\. 1](https://open.spotify.com/album/4wvNjlQKwJv7L8FB6Y4ivZ) | 3:14 | 2022-04-19 | 2022-05-25 |
 | [DIVA](https://open.spotify.com/track/2zpQSMe7xEFeSdGNoFLWl8) | [After School](https://open.spotify.com/artist/1loWI8jVk9btgJXHgqHXPD) | [Diva](https://open.spotify.com/album/7DYlr2x4oRyg23zFQOsGG9) | 3:18 | 2022-04-19 | 2022-08-20 |
@@ -101,7 +101,7 @@
 | [LUCIFER](https://open.spotify.com/track/48239f9arCavZ0KjdEk3Zd) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Hello \- SHINee The 2nd Album Repackage](https://open.spotify.com/album/3IC82yhFJAPw2jbSfMBzBy) | 3:53 | 2022-04-19 |  |
 | [Lupin](https://open.spotify.com/track/3RmwOvD5VBSsqSES1GsFX6) | [KARA](https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192) | [Lupin](https://open.spotify.com/album/0z3NBMOUlrNI3gLdy1V28s) | 3:12 | 2022-04-19 |  |
 | [Madonna](https://open.spotify.com/track/5FxdI27T3lOVPjLPFQHuTC) | [Secret](https://open.spotify.com/artist/503DjcVO5Ku1NgLPhVuNg7) | [Madonna](https://open.spotify.com/album/6V58DuiHAaCtuAi27HEam4) | 3:42 | 2022-04-19 |  |
-| [Magic](https://open.spotify.com/track/0VNQpkPh5l5ncQJCfWMCKZ) | [Secret](https://open.spotify.com/artist/503DjcVO5Ku1NgLPhVuNg7) | [Secret Time](https://open.spotify.com/album/21aoDGVqQXkuz30ErlbqcA) | 3:23 | 2022-04-19 |  |
+| [Magic](https://open.spotify.com/track/0VNQpkPh5l5ncQJCfWMCKZ) | [Secret](https://open.spotify.com/artist/503DjcVO5Ku1NgLPhVuNg7) | [Secret Time](https://open.spotify.com/album/21aoDGVqQXkuz30ErlbqcA) | 3:23 | 2022-04-19 | 2022-11-12 |
 | [Man In Love](https://open.spotify.com/track/4CLZtVqnJTaTMiPEiwpO0E) | [INFINITE](https://open.spotify.com/artist/1bkpTEmumLC3xc7HgMsttU) | [New Challenge](https://open.spotify.com/album/7to9h7fVE0VSyks3yz8kUA) | 3:17 | 2022-04-19 |  |
 | [Mazeltov](https://open.spotify.com/track/1J7MT5Z2dYXhlI1dTsydg0) | [ZE:A](https://open.spotify.com/artist/6lGfLCig2b5mvDTtsPSrb0) | [Nativity](https://open.spotify.com/album/2fr3C61I194A9xTEKxzVCj) | 3:29 | 2022-04-19 | 2022-07-29 |
 | [MIROTIC](https://open.spotify.com/track/4BZhUnXvXYRQJPClr0hhIC) | [TVXQ!](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) | [MIROTIC \- The 4th Album](https://open.spotify.com/album/51Wmrzs9O87YlKp2vqDwln) | 3:28 | 2022-04-19 |  |
@@ -154,7 +154,8 @@
 | [The Chaser](https://open.spotify.com/track/6fzJaYb6xprozFzFdqfI9s) | [INFINITE](https://open.spotify.com/artist/1bkpTEmumLC3xc7HgMsttU) | [INFINITIZE](https://open.spotify.com/album/6jMmMQGdqpi0XA4eiNfx1D) | 3:22 | 2022-04-19 |  |
 | [The Way U Are](https://open.spotify.com/track/2zFaPaROQ6Md5950lSalpd) | [TVXQ!](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) | [The Way U Are](https://open.spotify.com/album/0w5txVTeRhc8BfA7dg4noa) | 3:28 | 2022-04-19 | 2022-07-29 |
 | [Tonight](https://open.spotify.com/track/2IG4546fyE0Dj2rpWse02D) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Tonight](https://open.spotify.com/album/0BhWgubvjvQCPX5AEb52D0) | 3:42 | 2022-04-19 | 2022-07-28 |
-| [Tonight](https://open.spotify.com/track/5BGFEihEqSVBPWICqVnPIU) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Tonight](https://open.spotify.com/album/6b08mw1Ggz7UyVYas1iRgj) | 3:42 | 2022-04-19 |  |
+| [Tonight](https://open.spotify.com/track/5BGFEihEqSVBPWICqVnPIU) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Tonight](https://open.spotify.com/album/6b08mw1Ggz7UyVYas1iRgj) | 3:42 | 2022-04-19 | 2022-11-12 |
+| [Tonight](https://open.spotify.com/track/2G8HyURZh9SBNuCzllz8Fu) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [BIGBANG Special Edition](https://open.spotify.com/album/2fpQB21ER6ETvnfADPdaHl) | 3:43 | 2022-04-19 |  |
 | [Touch my body](https://open.spotify.com/track/5crARIrvoMiMf2AdlD78WN) | [SISTAR](https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP) | [TOUCH N MOVE](https://open.spotify.com/album/0SeSM1CAqu7QUkive4jCKl) | 3:26 | 2022-04-19 |  |
 | [TRI\-ANGLE \- Extended Version](https://open.spotify.com/track/4Wkw62rPTP1v37vdwUJ1Yg) | [TVXQ!](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo), [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4), [TRAX](https://open.spotify.com/artist/05IXIcHMbO6RMnJ6uQPrmP) | [TRI\-ANGLE \- 1st Album](https://open.spotify.com/album/1013imXHa490acqEZkQpeX) | 4:34 | 2022-04-19 | 2022-07-25 |
 | [Try to Follow Me \(날 따라 해봐요\)](https://open.spotify.com/track/0hVQjw4LjVkMLDPDn4myeq) | [2NE1](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) | [To Anyone](https://open.spotify.com/album/35M71S29eZpJgGh2G7uzw4) | 3:09 | 2022-04-19 | 2022-07-12 |

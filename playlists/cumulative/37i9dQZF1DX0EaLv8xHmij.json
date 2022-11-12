@@ -240,6 +240,24 @@
     },
     {
       "album": {
+        "name": "Top Boy Face (Deluxe)",
+        "url": "https://open.spotify.com/album/3lJr7pZaTSuYRnY3hld2zQ"
+      },
+      "artists": [
+        {
+          "name": "Yung Nobre",
+          "url": "https://open.spotify.com/artist/1zRwEApJZMUKUZDPYTNsrB"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194042,
+      "name": "Antes Do Flash",
+      "url": "https://open.spotify.com/track/0vMe8XxjQjc3lNxT2VGkzn"
+    },
+    {
+      "album": {
         "name": "Rap dos Novos Bandidos",
         "url": "https://open.spotify.com/album/2rYLZlhbWbcjNJg3PiwV9O"
       },
@@ -681,7 +699,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 186674,
       "name": "Chefin",
       "url": "https://open.spotify.com/track/30g0zKIzhdwdJBSgiBA9gg"
@@ -1279,6 +1297,28 @@
       "duration_ms": 193714,
       "name": "Finin de Ouro",
       "url": "https://open.spotify.com/track/3BZb1ArjUi8peWqwSv7wOQ"
+    },
+    {
+      "album": {
+        "name": "Fogo",
+        "url": "https://open.spotify.com/album/2bEaFb6MDSRLsVIiKvbfLh"
+      },
+      "artists": [
+        {
+          "name": "BJF",
+          "url": "https://open.spotify.com/artist/4PNUAmt7STAMBL5a1ujrmV"
+        },
+        {
+          "name": "AKA AFK",
+          "url": "https://open.spotify.com/artist/1ZEPj2UWxPZEELctnTNRca"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227779,
+      "name": "Fogo",
+      "url": "https://open.spotify.com/track/7flUsjT077Vu11dKzGSPEm"
     },
     {
       "album": {
@@ -1909,7 +1949,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 149812,
       "name": "Morango no Gin",
       "url": "https://open.spotify.com/track/64AaCofmb0AqrN7vWuXO5c"

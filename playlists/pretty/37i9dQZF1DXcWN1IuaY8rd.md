@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWN1IuaY8rd.md) - [plain]
 
 > Enjoy the world of “Black Clover”! 魔法帝を目指す少年たちの物語を歴代OP/ED、サントラ曲でお楽しみください。© 田畠裕基／集英社・テレビ東京・ブラッククローバー製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,987 likes - 37 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,026 likes - 37 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWN1IuaY8rd.md) - [plain]
 | 5 | [New Page](https://open.spotify.com/track/2gApWgkuisXedOcS9Tligs) | [INTERSECTION](https://open.spotify.com/artist/5yzLjgtXt52UUcOO0y88ma) | [New Page](https://open.spotify.com/album/3IqJDQ3RL9oV6a91m9FCZE) | 4:30 |
 | 6 | [人生は戦場だ \- Prod.by ats\-](https://open.spotify.com/track/3unpJWhOgxh0ayjWOTnydA) | [安斉かれん](https://open.spotify.com/artist/69hIxBVhw5zdCXv01W3Mbd) | [人生は戦場だ \(Prod.by ats\-\)](https://open.spotify.com/album/3fwXcwPrZVClE3lLXpUBcH) | 4:24 |
 | 7 | [RiGHT NOW](https://open.spotify.com/track/1mK1HDtie9WU6DAw3VAC4r) | [EMPiRE](https://open.spotify.com/artist/1APhKAeROy02DedkHnbrXb) | [RiGHT NOW](https://open.spotify.com/album/3CDr5PP8emblEqbOdfcCtE) | 3:32 |
-| 8 | [Harukamirai](https://open.spotify.com/track/2vDPSojrX4aL7aiCPD7kja) | [KANKAKU PIERO](https://open.spotify.com/artist/0y7gVi2MozEY4IyyDWKWqQ) | [Iroirotoiro](https://open.spotify.com/album/79V1HfDMIGhRzw4waum5cm) | 2:57 |
+| 8 | [Harukamirai](https://open.spotify.com/track/1dN7OMrMKink43A5uhARSR) | [KANKAKU PIERO](https://open.spotify.com/artist/0y7gVi2MozEY4IyyDWKWqQ) | [\#HAL \- Black Clover ver\. \-](https://open.spotify.com/album/3pZwhSHgmvwiC41U3TdqSt) | 2:57 |
 | 9 | [伝説](https://open.spotify.com/track/05cEv76lqXwcuXqRo7y7dY) | [関美奈子](https://open.spotify.com/artist/4hzUKfpdzsxgI6xUFe6cT9) | [ブラッククローバー ミュージックコレクションvol.1](https://open.spotify.com/album/4sVjv2SxDjhjN9G1TbgLP4) | 3:08 |
 | 10 | [蒼い炎](https://open.spotify.com/track/0XTGeSFcD73mgRgl8VSL6S) | [ITOWOKASHI](https://open.spotify.com/artist/1xwuTSJVlnBEOecAEHGRfY) | [アイオライト/蒼い炎](https://open.spotify.com/album/45IYPFvMoKBAxbWvbCNVbX) | 4:01 |
 | 11 | [覚悟](https://open.spotify.com/track/6rLRxO604qgyY4frl7Kvnv) | [関美奈子](https://open.spotify.com/artist/4hzUKfpdzsxgI6xUFe6cT9) | [ブラッククローバー ミュージックコレクションvol.1](https://open.spotify.com/album/4sVjv2SxDjhjN9G1TbgLP4) | 1:46 |
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWN1IuaY8rd.md) - [plain]
 | 36 | [彗星のごとく \- ユノのテーマ](https://open.spotify.com/track/41ZI62Vub0v58tEhFZ9Hcz) | [関美奈子](https://open.spotify.com/artist/4hzUKfpdzsxgI6xUFe6cT9) | [ブラッククローバー ミュージックコレクションvol.1](https://open.spotify.com/album/4sVjv2SxDjhjN9G1TbgLP4) | 1:46 |
 | 37 | [POSSIBLE](https://open.spotify.com/track/7bBynD5zaziUBMKiXzSytI) | [Clover×Clover](https://open.spotify.com/artist/7LwbY0oHkFUCsKkBr18tox) | [POSSIBLE](https://open.spotify.com/album/4WWH23Q3b6hUaxcwxEcoWf) | 3:03 |
 
-Snapshot ID: `MTYyMTk5Njg0MiwwMDAwMDAwMDg1Yjk5MmYwZmQxZWFmNGM2OTA2Njc2ZDZjOGJjZGZl`
+Snapshot ID: `MTYyMTk5Njg0MiwwMDAwMDAwMDU1M2UzN2NjYTQ5NTY2MzRjNzQ3OTgzZGU2NWE1ZTU1`

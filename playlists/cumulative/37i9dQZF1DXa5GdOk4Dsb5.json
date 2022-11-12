@@ -957,7 +957,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 197642,
       "name": "Cupido Fall\u00f3",
       "url": "https://open.spotify.com/track/42RKuMMmSjr4AX3m5RRm8L"
@@ -2627,7 +2627,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 155802,
       "name": "Me La Avente",
       "url": "https://open.spotify.com/track/3ahvKiNH7l6EpnTnzkZpG1"
@@ -4485,7 +4485,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 212226,
       "name": "Tu C\u00e1rcel",
       "url": "https://open.spotify.com/track/0LNn2O06dvsZqvWaS870xJ"
@@ -4605,6 +4605,36 @@
       "duration_ms": 193137,
       "name": "Usted No Me Olvida",
       "url": "https://open.spotify.com/track/6adK8xCmHfwko5N1FEDqoT"
+    },
+    {
+      "album": {
+        "name": "Usted No Me Olvida (Remix)",
+        "url": "https://open.spotify.com/album/0HqOs4dPfChJGiUSxxGiex"
+      },
+      "artists": [
+        {
+          "name": "Joaquin Guiller",
+          "url": "https://open.spotify.com/artist/2AHbxv3jnfIDz6BmPn979c"
+        },
+        {
+          "name": "Pipe Bueno",
+          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
+        },
+        {
+          "name": "Paola Jara",
+          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
+        },
+        {
+          "name": "Jhonny Rivera",
+          "url": "https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193175,
+      "name": "Usted No Me Olvida - Remix",
+      "url": "https://open.spotify.com/track/68K1Cq7jgceq0yV0Q2Kog6"
     },
     {
       "album": {

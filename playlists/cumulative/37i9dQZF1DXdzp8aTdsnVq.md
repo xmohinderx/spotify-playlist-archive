@@ -4,11 +4,12 @@
 
 > Novedades y clásicos del popular género colombiano\. Foto: Peter Manjarrés
 
-80 songs - 5 hr 40 min - [published](https://open.spotify.com/playlist/5DUAgqOUAUpm54q7WTV3qb)
+82 songs - 5 hr 51 min - [published](https://open.spotify.com/playlist/5DUAgqOUAUpm54q7WTV3qb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [10 Razones Para Amarte](https://open.spotify.com/track/4chfldJFfWiuuSx1n3mojQ) | [El Gran Martín Elías](https://open.spotify.com/artist/15g2N69hNuvVjSUqa9Entz) | [La Historia Continua](https://open.spotify.com/album/7tOgagliNLN0RTLt0t0ODM) | 5:15 | 2022-09-02 |  |
+| [10 Razones Para Amarte](https://open.spotify.com/track/4chfldJFfWiuuSx1n3mojQ) | [El Gran Martín Elías](https://open.spotify.com/artist/15g2N69hNuvVjSUqa9Entz) | [La Historia Continua](https://open.spotify.com/album/7tOgagliNLN0RTLt0t0ODM) | 5:15 | 2022-09-02 | 2022-11-12 |
+| [10 Razones para Amarte](https://open.spotify.com/track/7BJ9MUFtFAVs7hC0xkCemM) | [El Gran Martín Elías](https://open.spotify.com/artist/15g2N69hNuvVjSUqa9Entz), [Juancho De La Espriella](https://open.spotify.com/artist/2jyCUmtPh36YRwhuhxzUZ3) | [Vallenatos de Oro, Vol\. 35](https://open.spotify.com/album/09Q1sDpTG4dz9fOadnkLkg) | 5:15 | 2022-10-21 |  |
 | [Amantes](https://open.spotify.com/track/37D2aDSOhZecTyNMKulLpH) | [Elder Dayán Díaz](https://open.spotify.com/artist/0w8jfjckFjwtKLRkX9NT2K), [Rolando Ochoa](https://open.spotify.com/artist/0VWoer2RDTKY4Sr9U93QTJ) | [El Disco Del Año Vol 52.](https://open.spotify.com/album/4MTIw3GvWXfKNj783WqURm) | 3:45 | 2022-10-21 |  |
 | [Amantes](https://open.spotify.com/track/4HQa0epS8B23YEHqyA2fKr) | [Elder Dayán Díaz](https://open.spotify.com/artist/0w8jfjckFjwtKLRkX9NT2K), [Rolando Ochoa](https://open.spotify.com/artist/0VWoer2RDTKY4Sr9U93QTJ) | [El Disco Que Me Gusta](https://open.spotify.com/album/5ymciF4IdHbVu5yxJlCf1W) | 3:45 | 2022-09-02 | 2022-11-11 |
 | [Amarte Mas No Pude](https://open.spotify.com/track/105sSrcdsoN7Pj5NhIDUXx) | [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG), [Juancho Rois](https://open.spotify.com/artist/0ZDAU5BLvLXTYqlrjW6KF1) | [Orgullosa](https://open.spotify.com/album/4pMUHG6enf3RagNzHuCryB) | 4:49 | 2022-09-02 |  |
@@ -58,7 +59,8 @@
 | [Mosaico Dieguista: La Mía Eres Tú / La Alfombra Roja](https://open.spotify.com/track/6mYb3rUcISHPyxbMJ2vXIg) | [Diego Daza](https://open.spotify.com/artist/6Rx5xY11vfnmOp312VzXMc), [Carlos Rueda](https://open.spotify.com/artist/7LVgdS3biF4E0taTah5GEW) | [Mosaico Dieguista: La Mía Eres Tú / La Alfombra Roja](https://open.spotify.com/album/6LD4YA7Tsktbg4vaKAcceJ) | 4:05 | 2022-09-02 |  |
 | [Más de Ti](https://open.spotify.com/track/6QaSczCtX0qhnsuhwTj3D2) | [Sergio Luis Rodríguez](https://open.spotify.com/artist/6IA0c7ljnyM14XsePnrFpw), [Jorge Celedón](https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek) | [Más de Ti](https://open.spotify.com/album/29vDifDsjyYGsOFRHg2GCs) | 3:14 | 2022-09-02 |  |
 | [Niégame Tres Veces](https://open.spotify.com/track/4mGRIaDuszXYCTGZfLjjpA) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Sigo Invicto](https://open.spotify.com/album/5nrVqq5BEfcoOYJ1eQQ0ki) | 4:29 | 2022-09-02 |  |
-| [Niña Bonita](https://open.spotify.com/track/7LSdAF6AUKmcsUTy3747rh) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [30 Mejores: Binomio de Oro de América](https://open.spotify.com/album/1ciVNBJTfEynm4k1cjQluh) | 5:10 | 2022-09-02 |  |
+| [Niña Bonita](https://open.spotify.com/track/7LSdAF6AUKmcsUTy3747rh) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [30 Mejores: Binomio de Oro de América](https://open.spotify.com/album/1ciVNBJTfEynm4k1cjQluh) | 5:10 | 2022-09-02 | 2022-11-12 |
+| [niña bonita binomio de oro vallenato](https://open.spotify.com/track/0LoiirA5aUddQFAjYFpOkn) | [14 vallenatos sabroso corta venas vol.1 exitos](https://open.spotify.com/artist/06KHPOCzkYqiehC5da8hrl) | [14 vallenatos sabroso](https://open.spotify.com/album/0gXmF1WjNrMS7lr2IGvZlc) | 5:10 | 2022-10-21 |  |
 | [No voy a llorar](https://open.spotify.com/track/1hcVOAmbgOMQcQH3y7TeJe) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [Los 50 vallenatos más recordados, dedicados, vendidos y sonados](https://open.spotify.com/album/0GWpPeth4xZ57rVzXsOzam) | 4:43 | 2022-10-21 |  |
 | [No Voy A Llorar](https://open.spotify.com/track/5MWJ8J0jyXtJQcnsB9iykS) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [10 Años De Historia](https://open.spotify.com/album/4G3uYZwUvhvi8IByx7CUgU) | 4:43 | 2022-09-02 | 2022-11-11 |
 | [O Te Acuso Con Dios](https://open.spotify.com/track/5ptO7RPfHSIsVF9EBuQxhi) | [El Gran Martín Elías](https://open.spotify.com/artist/15g2N69hNuvVjSUqa9Entz) | [O Te Acuso Con Dios](https://open.spotify.com/album/7MQKW38fegrx48F3ullhSS) | 3:51 | 2022-09-02 |  |

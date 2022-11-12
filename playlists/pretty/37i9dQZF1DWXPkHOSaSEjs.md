@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXPkHOSaSEjs.md) - [plain]
 
 > La mejor energía con los éxitos de Los Pericos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,752 likes - 51 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,814 likes - 51 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXPkHOSaSEjs.md) - [plain]
 | 26 | [Nada Que Perder \- Live](https://open.spotify.com/track/63BHtxdQUPNkD5tJxy28zE) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Corta con la rutina](https://open.spotify.com/album/0xEnQzkfTsQeHe3fOshUEC) | 4:23 |
 | 27 | [Eso Es Real](https://open.spotify.com/track/2ki5q0D0gLY7rhbM3SiUyO) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Coleccion Suprema](https://open.spotify.com/album/6txKCEfyE7WMU63FOvhstV) | 4:20 |
 | 28 | [Su Galán](https://open.spotify.com/track/1ArOL4ldJO9IWcAEZKH7Jq) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Pampas Reggae](https://open.spotify.com/album/5UT1U06RzF2hWq6d7SGaTn) | 3:41 |
-| 29 | [Caliente](https://open.spotify.com/track/2y5cE5IR8Yd7So3tKhdIMC) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Ritual De Los Pericos](https://open.spotify.com/album/0BLRRSjs02ejUyDDIfYRSb) | 3:36 |
+| 29 | [Caliente](https://open.spotify.com/track/2dlfocK9N6cGiBQb7TzOif) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Yo Se Que Te Acordaras \(Pop Vol\. 2\)](https://open.spotify.com/album/72wGQWQ6276wiNaCGIW3r1) | 3:36 |
 | 30 | [La Hiena](https://open.spotify.com/track/7aW0biSvi7hOo1tSE4rExD) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Mystic Love \(Reissue\)](https://open.spotify.com/album/3GYWqJzLFjyUemww6zeaW9) | 3:24 |
 | 31 | [Señales Erróneas](https://open.spotify.com/track/39hge514fnHZ5VUXdkl8Nd) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Soundamerica](https://open.spotify.com/album/2SZTxfMc8EOjUJnPIVORWI) | 3:47 |
 | 32 | [Inalcanzable](https://open.spotify.com/track/2dGhvwIJFrNTvXraMAhcm0) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Soundamerica](https://open.spotify.com/album/2SZTxfMc8EOjUJnPIVORWI) | 3:32 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXPkHOSaSEjs.md) - [plain]
 | 50 | [Rata China \- Live](https://open.spotify.com/track/1gcvVJO6c9l8g5dExldA6j) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [1000 Vivos](https://open.spotify.com/album/5wqv1v2PMphDkY5b7ASoPR) | 1:55 |
 | 51 | [Palabras de Fuego \(feat\. Emanero\)](https://open.spotify.com/track/7LlLoe454Qj8R57mMa2Nc4) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR), [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB) | [Soundamerica](https://open.spotify.com/album/2SZTxfMc8EOjUJnPIVORWI) | 3:19 |
 
-Snapshot ID: `MTYzNzg5NTYwMCwwMDAwMDAwMDlhOWNkMzk0ZGZiNmZjNWEyZTA1OTIwZDk1NWZmYjFi`
+Snapshot ID: `MTYzNzg5NTYwMCwwMDAwMDAwMDZlZjM3ODJkN2FhMDVkZjYyNjA5NTdlNmI5MGExYWQx`

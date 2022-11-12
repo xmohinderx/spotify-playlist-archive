@@ -4,7 +4,7 @@
 
 > A journey into the unknown, dark, and experimental.
 
-145 songs - 9 hr 40 min - [published](https://open.spotify.com/playlist/4Yl6V9aO8ob35sgpwk1lVL)
+146 songs - 9 hr 44 min - [published](https://open.spotify.com/playlist/4Yl6V9aO8ob35sgpwk1lVL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,8 @@
 | [Have You Felt Lately?](https://open.spotify.com/track/2v7b1jWrpXzHRkeLmHE81K) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [Let's Turn It Into Sound](https://open.spotify.com/album/6OejvHOkJc24k5Psvw2kS3) | 3:54 | 2022-08-31 | 2022-11-04 |
 | [Hot Pink](https://open.spotify.com/track/59rdoga3q8OVCR5WnSGVM8) | [Let's Eat Grandma](https://open.spotify.com/artist/4qNZw759AdHSMugyDMrIlF) | [I'm All Ears](https://open.spotify.com/album/4TgXvHJWXGk0BlBvfs13Qg) | 4:08 | 2020-10-20 |  |
 | [HP2\-TGP \(I.D.N.C.G.2.D\)](https://open.spotify.com/track/6ouS8C8HiS1KLepNmIHWGX) | [Varg²™](https://open.spotify.com/artist/4g2EfgpanE2Z9LG1nQ9zNy) | [HOLLOW POINT](https://open.spotify.com/album/5jyegl401HqGWNCXbVChqF) | 5:22 | 2022-08-31 |  |
-| [I Need You Right Now](https://open.spotify.com/track/2x2ENNopXFR7unXK9eaeVs) | [Marty Crown](https://open.spotify.com/artist/1uBIrNa3fN3hYsi0MKuLtS) | [I Need You Right Now](https://open.spotify.com/album/3IMOeDHJcqQWabjem2xF6c) | 4:07 | 2021-06-23 |  |
+| [I Need You Right Now](https://open.spotify.com/track/2cTRPYsaUO8pwEfSGilPYt) | [Marty Crown](https://open.spotify.com/artist/1uBIrNa3fN3hYsi0MKuLtS) | [Gemstore](https://open.spotify.com/album/0PgCvPIPHv9zq64d7Lv8BB) | 4:07 | 2021-06-23 |  |
+| [I Need You Right Now](https://open.spotify.com/track/2x2ENNopXFR7unXK9eaeVs) | [Marty Crown](https://open.spotify.com/artist/1uBIrNa3fN3hYsi0MKuLtS) | [I Need You Right Now](https://open.spotify.com/album/3IMOeDHJcqQWabjem2xF6c) | 4:07 | 2021-06-23 | 2022-11-12 |
 | [I Need You Right Now](https://open.spotify.com/track/4Mso4ICacStqBvbyEqKXvB) | [Marty Crown](https://open.spotify.com/artist/1uBIrNa3fN3hYsi0MKuLtS) | [I Need You Right Now](https://open.spotify.com/album/38yTFu2TPj6SgCx4rItkgk) | 4:07 | 2021-06-23 | 2022-10-15 |
 | [i used to](https://open.spotify.com/track/75EStj9OPvWHa9N5KvFo72) | [isomonstrosity](https://open.spotify.com/artist/4DfieEPxO3kEpaMuOCPtqi), [International Contemporary Ensemble](https://open.spotify.com/artist/1e6oJr3JG14gEuRLDl5ZsT), [Kacy Hill](https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK) | [i used to](https://open.spotify.com/album/5zKGLARoiiUGb2r8R3kLv1) | 3:08 | 2022-08-31 |  |
 | [I Was Wrong](https://open.spotify.com/track/0CeY5CPaFPvl3BBx7rlkYX) | [w\. baer](https://open.spotify.com/artist/4ke7r9NNRe8Wg7ouwg7xOO) | [De Dust2](https://open.spotify.com/album/4lyXEmxTF8EMIwr8hbDmo5) | 3:24 | 2020-10-20 |  |

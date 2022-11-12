@@ -46,6 +46,28 @@
     },
     {
       "album": {
+        "name": "Add It Up",
+        "url": "https://open.spotify.com/album/1UbM213ebd3VhTEDVhoaN7"
+      },
+      "artists": [
+        {
+          "name": "Rob49",
+          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169416,
+      "name": "Add It Up",
+      "url": "https://open.spotify.com/track/3m1l2YNu0yhHFcmLFQUHmA"
+    },
+    {
+      "album": {
         "name": "Survivor's Remorse: A Side & B Side",
         "url": "https://open.spotify.com/album/7i1M24FtpfeRmaztP15sDU"
       },
@@ -957,7 +979,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 140173,
       "name": "Statement",
       "url": "https://open.spotify.com/track/79lRUyyy0iwWRkbFFNJ95S"

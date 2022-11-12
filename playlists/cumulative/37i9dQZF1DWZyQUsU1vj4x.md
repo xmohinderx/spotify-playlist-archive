@@ -4,7 +4,7 @@
 
 > Indie folk ventures into the cinematic West.
 
-158 songs - 9 hr 45 min - [published](https://open.spotify.com/playlist/2V1p4xykjAhFetkB4ZPv4j)
+159 songs - 9 hr 49 min - [published](https://open.spotify.com/playlist/2V1p4xykjAhFetkB4ZPv4j)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,8 +70,9 @@
 | [Hollow](https://open.spotify.com/track/5XjyRmC8WTEWmbABLxrDWm) | [Beulah](https://open.spotify.com/artist/7JgsSijn01ytQ39BNwmmK0) | [Beulah](https://open.spotify.com/album/35EQitRTUiX6iYz3yegiST) | 2:18 | 2019-10-31 |  |
 | [Howlin' Shame](https://open.spotify.com/track/2Sy6KvfeZb04ywGiJKUct8) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [Howlin' Shame](https://open.spotify.com/album/3LTv64AzzKsU4nmeqgxDxg) | 3:18 | 2019-10-31 | 2022-07-29 |
 | [Howlin' Shame](https://open.spotify.com/track/7iSWvwPtLY00TIUOIihtaO) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [Beyond The Bloodhounds](https://open.spotify.com/album/3N5acrSXdpjx4GBwvvHQv8) | 3:21 | 2022-01-27 |  |
+| [I Feel Your Love](https://open.spotify.com/track/0iqnKB2AxAU0UDEJp4fWL6) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Short Movie \(Director's Cut\)](https://open.spotify.com/album/2hGp4zeWcLdeQ0iq7Uj52Q) | 4:02 | 2022-10-21 |  |
 | [I Feel Your Love](https://open.spotify.com/track/2cploTLkBXdO1lO98JJsVJ) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Short Movie \(Director's Cut\)](https://open.spotify.com/album/6c8tHj60qPvbXZnczssdQC) | 4:02 | 2019-10-31 | 2022-07-29 |
-| [I Feel Your Love](https://open.spotify.com/track/7uG8yNUrm9hnz6lP5jBriW) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Short Movie](https://open.spotify.com/album/08cXCARUoHLoccf0y06Dlv) | 4:02 | 2022-01-27 |  |
+| [I Feel Your Love](https://open.spotify.com/track/7uG8yNUrm9hnz6lP5jBriW) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Short Movie](https://open.spotify.com/album/08cXCARUoHLoccf0y06Dlv) | 4:02 | 2022-01-27 | 2022-11-12 |
 | [It Will Come Back](https://open.spotify.com/track/35upu7uVMA4XNiQMMl6ZGh) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Deluxe\)](https://open.spotify.com/album/7HW03Zew4rnOhy5uwskRSz) | 4:37 | 2019-10-31 | 2022-01-28 |
 | [Jameson](https://open.spotify.com/track/5kRGdMdl0n0nDtsXmRg5i3) | [Zella Day](https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6) | [Kicker](https://open.spotify.com/album/600XgAY1N6sRPVczmBogiF) | 3:08 | 2019-10-31 |  |
 | [Kill Me Now](https://open.spotify.com/track/3Vsf6UhaGqYhgcExMhzinG) | [The Chapin Sisters](https://open.spotify.com/artist/6t28TiXfX7V14H4hAxBarM) | [Lake Bottom Lp](https://open.spotify.com/album/5wqWiTzzqH6DDkQsUXW1m0) | 3:04 | 2019-10-31 |  |

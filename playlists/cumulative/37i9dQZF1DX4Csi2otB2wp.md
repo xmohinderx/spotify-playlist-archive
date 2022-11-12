@@ -4,7 +4,7 @@
 
 > una lloradita tranqui
 
-124 songs - 6 hr 59 min - [published](https://open.spotify.com/playlist/4kDGPPPKPFhlkXt9LrB0j3)
+126 songs - 7 hr 6 min - [published](https://open.spotify.com/playlist/4kDGPPPKPFhlkXt9LrB0j3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,8 @@
 | [nuestro amor](https://open.spotify.com/track/7pN65zLIOXe841agZeJIxJ) | [vatocholo](https://open.spotify.com/artist/5lgauAo4BLN9PodnIxhxi8) | [nuestro amor sacrificado](https://open.spotify.com/album/23KjrbkAF31Bjlm8K5oDyY) | 1:22 | 2022-09-23 |  |
 | [Nuestro Juramento](https://open.spotify.com/track/4F6Ne3xyctrytvYm9W68ll) | [Julio Jaramillo](https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8) | [El Ruiseñor de America](https://open.spotify.com/album/33pvMxnkZFMGkg9fbomz0r) | 3:15 | 2022-01-18 |  |
 | [Nunca digas](https://open.spotify.com/track/4pMyhL7qpkgIquLtn8ukUa) | [Los Solitarios](https://open.spotify.com/artist/5oXtNxxScsHb1cRjqqfcMj) | [Serie Diamante \(USA\)](https://open.spotify.com/album/2fgUn3x6HujXAP2AXxMoer) | 2:48 | 2022-01-18 |  |
-| [Olvidarte Nunca](https://open.spotify.com/track/3xRVnVY4uuNQZ1rmmRclhU) | [Los Golpes](https://open.spotify.com/artist/7vyUXV67P88Hxq4Q5cpC1j) | [La Historia](https://open.spotify.com/album/42nZkX6kk4O3vpTuQa6UrK) | 2:57 | 2022-05-10 |  |
+| [Olvidarte Nunca](https://open.spotify.com/track/08SYcykMC5D0D0zIPyq16X) | [Los Golpes](https://open.spotify.com/artist/7vyUXV67P88Hxq4Q5cpC1j) | [La Historia](https://open.spotify.com/album/5LyFSml1096g9UtmR35Y31) | 2:57 | 2022-05-10 |  |
+| [Olvidarte Nunca](https://open.spotify.com/track/3xRVnVY4uuNQZ1rmmRclhU) | [Los Golpes](https://open.spotify.com/artist/7vyUXV67P88Hxq4Q5cpC1j) | [La Historia](https://open.spotify.com/album/42nZkX6kk4O3vpTuQa6UrK) | 2:57 | 2022-05-10 | 2022-11-12 |
 | [Olvidarte Nunca \- 2003 Digital Remaster](https://open.spotify.com/track/3mhVXE8fcgV330qYXNWok8) | [Los Golpes](https://open.spotify.com/artist/7vyUXV67P88Hxq4Q5cpC1j) | [Antologia 40 Clásicos Remasterizados](https://open.spotify.com/album/3oRJSfyF6qD5CDB0OPTbWt) | 3:00 | 2022-05-10 | 2022-07-29 |
 | [Perfume de Gardenias](https://open.spotify.com/track/1ICqpf7OYjH09oepUWopUm) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [20 Exitos](https://open.spotify.com/album/2VAfS6wE5hokS4Nb5I0p4O) | 3:12 | 2022-01-18 |  |
 | [Por Mujeres Como Tú](https://open.spotify.com/track/4Zd6gElrsmSyVomurxAPOD) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Por Mujeres Como Tú](https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL) | 4:23 | 2022-01-18 | 2022-08-09 |
@@ -94,8 +95,9 @@
 | [Quiero](https://open.spotify.com/track/4A659tyDEUazpnSNENjuV2) | [Walter Esaú](https://open.spotify.com/artist/2BaF574aVsGeAtcUgrzeV5), [Las Nieves de Enero](https://open.spotify.com/artist/7wejxsQiQxb3EuqdG5XkYA), [Jesús Antonio López Guerrero](https://open.spotify.com/artist/6twKUrThGBfDLcHa7KHUui) | [Quiero](https://open.spotify.com/album/5HhAqcfY3Vfwaa6YqgFSsI) | 3:53 | 2022-08-08 |  |
 | [Quiero Contarte](https://open.spotify.com/track/6PKzSSyKOup6JdrJwi85ay) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Quiero Contarte](https://open.spotify.com/album/1I5KpnbMgFjUdApgWeLxyC) | 2:40 | 2022-09-23 |  |
 | [Quiero Perderme Contigo](https://open.spotify.com/track/1nbte2bCwsxqioAhzo68aE) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Secretos](https://open.spotify.com/album/1Bzdy4dRu2czCWd4bpCzUh) | 4:55 | 2022-01-18 |  |
-| [Quién Como Tú](https://open.spotify.com/track/0ElaCi1Qf86iEWhsxCw5h5) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Quien Como Tú](https://open.spotify.com/album/4r2m65IXlmzhi06V5V9Cs5) | 3:31 | 2022-03-07 |  |
+| [Quién Como Tú](https://open.spotify.com/track/0ElaCi1Qf86iEWhsxCw5h5) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Quien Como Tú](https://open.spotify.com/album/4r2m65IXlmzhi06V5V9Cs5) | 3:31 | 2022-03-07 | 2022-11-12 |
 | [Quién Como Tú](https://open.spotify.com/track/4hfiDzgfMqtcOiUQpZidBQ) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Quién Como tú](https://open.spotify.com/album/6TkpmmUOcvoB76oZdX9f5D) | 3:31 | 2022-03-07 | 2022-07-29 |
+| [Quién Como Tú \- En Vivo](https://open.spotify.com/track/6hYPDNpjyiSSSqUITuHNsk) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Ana Gabriel En La Plaza De Toros México](https://open.spotify.com/album/7CM0yI1hoqA8jBVi2mRBPC) | 3:33 | 2022-03-07 |  |
 | [Quiéreme](https://open.spotify.com/track/6o9ODcGxMPFZDjdS7z3VpN) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Quiereme](https://open.spotify.com/album/1NzyJD7kRhW8U5i1od2LH6) | 4:07 | 2022-01-18 | 2022-08-09 |
 | [Qué bonito fue](https://open.spotify.com/track/3ppzEzYnSKIBZ2tndbmOLp) | [El David](https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b) | [Sin Final Feliz](https://open.spotify.com/album/2AoNm9wXhQQPQrbS963xJH) | 2:24 | 2022-03-07 |  |
 | [Qué Ironía](https://open.spotify.com/track/4Kh3E34bexvFQlJ0xwiggQ) | [Los Muecas](https://open.spotify.com/artist/6gwYud4hJkX6ApdxYoCi7b) | [Serie De Colección 15 Autenticos Éxitos](https://open.spotify.com/album/4ajWl9nOJD3rVM4tmolANI) | 3:12 | 2022-01-18 | 2022-08-09 |

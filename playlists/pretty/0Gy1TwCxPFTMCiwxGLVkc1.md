@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/0Gy1TwCxPFTMCiwxGLVkc1.md) - [plain]
 
 > Kids music the whole family can enjoy\. Enjoy new tunes and old favorites on this kids playlist, and make sure to check back for more!
 
-[Digster](https://open.spotify.com/user/digster.fm) - 87,551 likes - 41 songs - 1 hr 38 min
+[Digster](https://open.spotify.com/user/digster.fm) - 87,534 likes - 41 songs - 1 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Colors](https://open.spotify.com/track/4Z2hrwfZ1M1weUjJGntx8X) | [Toys and Colors](https://open.spotify.com/artist/4VQOpZxMHHLlhGH3VnGk9K) | [Colors](https://open.spotify.com/album/1ChRiPd2fBXfiFoSvtqVv1) | 2:13 |
 | 2 | [Here Comes Pippi Longstocking](https://open.spotify.com/track/1l7uz7c4VBx97DdlerRmeU) | [Astrid Lindgren](https://open.spotify.com/artist/3MDsnjqnEd5TJaYsuacX1I), [Sophie May](https://open.spotify.com/artist/6QU9VlcQ8TLx2kPLTcStO8) | [Here Comes Pippi Longstocking](https://open.spotify.com/album/6KCRazFgI6ZQKpVx42Lt7K) | 1:10 |
 | 3 | [VeggieTales Theme Song](https://open.spotify.com/track/1zvKLOtOsOgvYJk9yCErRL) | [VeggieTales](https://open.spotify.com/artist/4QKx7KohkWZAOkO4sI3GRx) | [VeggieTunes](https://open.spotify.com/album/5eYI49hhEFoEsJqpdWnXDx) | 1:26 |
-| 4 | [On Our Way](https://open.spotify.com/track/12qRidH5o2uePPmrdnRXOY) | [Blue's Clues & You](https://open.spotify.com/artist/40mye8b6PC8ef8GSFgWscG) | [On Our Way](https://open.spotify.com/album/0rQNAkDPlWT9TfRJxMra91) | 3:07 |
+| 4 | [On Our Way \- Original Music from the Motion Picture](https://open.spotify.com/track/12qRidH5o2uePPmrdnRXOY) | [Blue's Clues & You](https://open.spotify.com/artist/40mye8b6PC8ef8GSFgWscG) | [On Our Way \(Original Music from the Motion Picture\)](https://open.spotify.com/album/0rQNAkDPlWT9TfRJxMra91) | 3:07 |
 | 5 | [Dora The Explorer \- El Rey RMX](https://open.spotify.com/track/0UjOsc4uWZkjPJwOjGjQt4) | [Nick Jr.](https://open.spotify.com/artist/2hMLlEmFVPTsBh803qCfoC), [El Rey](https://open.spotify.com/artist/6QAsWcn4mpE6GysHBUmTNR) | [Nick Jr\. Fun Fiesta!](https://open.spotify.com/album/4gctUTZuUT12hCliqviAa0) | 1:03 |
 | 6 | [Eureka! Main Title Theme \- From "Disney Junior Music: Eureka!"](https://open.spotify.com/track/4z6WszIenx3HoBR4uxjxIQ) | [Eureka! \- Cast](https://open.spotify.com/artist/2At0wMt22hR14ksbCvSSmA), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Eureka! Main Title Theme \(From "Disney Junior Music: Eureka!"\)](https://open.spotify.com/album/0of6FoW2YxSwZoy9YQdmRr) | 1:01 |
 | 7 | [Alice's Wonderland Bakery Main Title Theme](https://open.spotify.com/track/2iwANQOVJrBrlceepJCf4G) | [Alice's Wonderland Bakery \- Cast](https://open.spotify.com/artist/1cxwUCMGpf55hTYUFPXNwQ), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Junior Music: Alice's Wonderland Bakery](https://open.spotify.com/album/6QZhO5hRNEAwHVutNz6SyI) | 1:00 |

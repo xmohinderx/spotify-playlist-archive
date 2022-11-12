@@ -4,7 +4,7 @@
 
 > 
 
-657 songs - 1 day 20 hr 10 min - [published](https://open.spotify.com/playlist/0xvGamaTTFg12gsauZPmmX)
+658 songs - 1 day 20 hr 13 min - [published](https://open.spotify.com/playlist/0xvGamaTTFg12gsauZPmmX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Apple Blossom](https://open.spotify.com/track/2EWMlxsVQdNpgZ3TryxdR9) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [De Stijl](https://open.spotify.com/album/3m67IYWE82EKX3nX9N7fhX) | 2:13 | 2019-03-13 |  |
 | [Are Friends Electric?](https://open.spotify.com/track/5YMSS76uplxhv9Xl95VnHY) | [The Dead Weather](https://open.spotify.com/artist/4AZab8zo2nTYd7ORDmQu0V) | [Hang You from the Heavens / Are Friends Electric?](https://open.spotify.com/album/257tV998taPwX3A5IISS8I) | 4:24 | 2020-04-26 |  |
 | [Aries \(feat\. Peter Hook and Georgia\)](https://open.spotify.com/track/2z2u1XOwu9KAPvSXxE9gTD) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Peter Hook](https://open.spotify.com/artist/7yE0pgnhHPnPk4GZVuEpZM), [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3) | [Aries \(feat\. Peter Hook and Georgia\)](https://open.spotify.com/album/1S3nCOJ2yx5tFYuTnSxn7H) | 4:13 | 2020-04-10 |  |
+| [Arrow Through Me \- Remastered 1993](https://open.spotify.com/track/3NiYvMjp5A3FZmP3dojS8k) | [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Back To The Egg](https://open.spotify.com/album/3zMRSD0zUqopFPaoER2ODc) | 3:36 | 2022-11-11 |  |
 | [Astral Plane](https://open.spotify.com/track/4z9o4sijfni4kGSos3VEDB) | [The Modern Lovers](https://open.spotify.com/artist/2eRdPaLHWAL4d1WcNUO9Vz) | [The Modern Lovers \(Expanded Version\)](https://open.spotify.com/album/5BPCP7WSGBG4br2o4WRmd8) | 3:00 | 2018-11-16 |  |
 | [Astro](https://open.spotify.com/track/0RV162B2VcpBREw04VfkLa) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [The White Stripes](https://open.spotify.com/album/22TLQXdBF2zfA0hK48deec) | 2:42 | 2019-11-22 |  |
 | [Automation](https://open.spotify.com/track/057TdsO5gPUkMVRaMcbjmG) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Automation](https://open.spotify.com/album/18OxH7RFLaF2klqvwPWg92) | 3:29 | 2020-10-22 |  |

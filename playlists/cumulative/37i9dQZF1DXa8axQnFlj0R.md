@@ -4,7 +4,7 @@
 
 > let me hold both your hands in the holes of my sweater
 
-170 songs - 10 hr 24 min - [published](https://open.spotify.com/playlist/4z56XoIfvsTeY0YpsD2N6g)
+171 songs - 10 hr 26 min - [published](https://open.spotify.com/playlist/4z56XoIfvsTeY0YpsD2N6g)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [Glad I Got You](https://open.spotify.com/track/77QHKxBniAzCLen3aKgKgw) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Subject To Change](https://open.spotify.com/album/0r94JScFZwwTDVTo4YXwpx) | 2:40 | 2021-12-10 |  |
 | [Haunted House](https://open.spotify.com/track/6A6A6VJtMLsPKyHxNlYT5h) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [The Walls Are Way Too Thin](https://open.spotify.com/album/3fnXTtLgkjHv2HmqOODSW8) | 2:13 | 2022-10-14 |  |
 | [Heat Lightning](https://open.spotify.com/track/6q2siYjkPyHLD9GqXRJWQR) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Heat Lightning](https://open.spotify.com/album/45wp7GoaC2IVvTC8w70Hwx) | 2:51 | 2021-12-10 | 2022-10-15 |
-| [Home Again](https://open.spotify.com/track/46EuzanXhKwIc7755wLAvS) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Home Again](https://open.spotify.com/album/79VDAdjzMMGoftIbw5feYN) | 3:32 | 2022-01-07 |  |
+| [Home Again](https://open.spotify.com/track/46EuzanXhKwIc7755wLAvS) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Home Again](https://open.spotify.com/album/79VDAdjzMMGoftIbw5feYN) | 3:32 | 2022-01-07 | 2022-11-12 |
 | [How Do You Know](https://open.spotify.com/track/55tFsAqBX9hQa060WnEHK4) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL), [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [How Do You Know](https://open.spotify.com/album/0friSADlRRmOBVfIJgx0Ob) | 3:02 | 2021-12-10 | 2022-07-29 |
 | [I Can See New Zealand From Here](https://open.spotify.com/track/27V4KpRC7Y5oYWdXssEUMU) | [Cooza](https://open.spotify.com/artist/1P6s8Y6fBmd7KMcthpxi2V) | [Our Day](https://open.spotify.com/album/5EpS9xRiHoo93AsV1Y6ShI) | 2:03 | 2021-12-10 |  |
 | [I Should Go \- Solo Version](https://open.spotify.com/track/50kgovuPE9wDZ0hEynlssm) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [I Should Go \(Solo Version\)](https://open.spotify.com/album/3d11dBT3l0OGHxHaOBr4nV) | 2:31 | 2021-12-10 |  |
@@ -103,13 +103,14 @@
 | [Now & Then](https://open.spotify.com/track/65UmmVS68A7xXBnMr7ZCnb) | [Lily Kershaw](https://open.spotify.com/artist/0p0ksmwMDQlAM24TWKu4Ua) | [Arcadia](https://open.spotify.com/album/701VQaTFIAVNkfLuR4oFFv) | 3:19 | 2021-12-10 | 2022-07-29 |
 | [Nowhere Near](https://open.spotify.com/track/39w0PWHKuw8LkmH13dQGvh) | [Brooke Bentham](https://open.spotify.com/artist/6c1CljS2C5YB6k7INEUs0A) | [Nowhere Near](https://open.spotify.com/album/760pl4rm6bi8ig4PBS31Wn) | 4:07 | 2021-12-10 | 2022-10-15 |
 | [Old Flame](https://open.spotify.com/track/23KrgrkSQN9rY3DWbklgMc) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [Old Flame](https://open.spotify.com/album/7dyZsFX4g5jcHpSnMkKoHZ) | 2:47 | 2022-01-07 |  |
-| [Ophelia](https://open.spotify.com/track/3d8y0t70g7hw2FOWl9Z4Fm) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Cleopatra](https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN) | 2:40 | 2022-09-16 |  |
+| [Ophelia](https://open.spotify.com/track/1CBrUHLG5q8SXBtcroTQey) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Coffee And Chill](https://open.spotify.com/album/7iYC01sALUMBSL5Jw6Zv4t) | 2:40 | 2022-10-14 |  |
+| [Ophelia](https://open.spotify.com/track/3d8y0t70g7hw2FOWl9Z4Fm) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Cleopatra](https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN) | 2:40 | 2022-09-16 | 2022-11-12 |
 | [Orange Tree](https://open.spotify.com/track/46wdJgqQWFTFRcLSBzSSB8) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Orange Tree](https://open.spotify.com/album/7EaE1uo0K2t9uy6qrmVOCc) | 3:12 | 2021-12-10 | 2022-07-29 |
 | [Party Dress](https://open.spotify.com/track/2G2IOxSv0G4zOitsfFpFQl) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Party Dress](https://open.spotify.com/album/4Ai0OqgDbUNNRwhXQHbZEv) | 3:14 | 2021-12-10 |  |
 | [peace](https://open.spotify.com/track/7MbT4I8qGntX4fMdqMQgke) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 3:54 | 2021-12-10 |  |
 | [Peaches](https://open.spotify.com/track/5oM94y5XDIQQOouLu28dFR) | [Eleni Drake](https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow) | [Vanilla Sky](https://open.spotify.com/album/0lJZOC767uMD7Pdp6lhOvZ) | 3:56 | 2021-12-10 |  |
 | [Pictures](https://open.spotify.com/track/2cEBG31c2Y7mfRlLY8g1ah) | [Benjamin Francis Leftwich](https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ) | [Last Smoke Before the Snowstorm](https://open.spotify.com/album/2V5uxReEmjn0j5tAG6oHI0) | 2:57 | 2022-01-07 |  |
-| [Pinetrees](https://open.spotify.com/track/51l3Yw0yTqmDRMBnxMsE1n) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai), [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Återvända](https://open.spotify.com/album/5g4dqFkGwNL0BGywOBiG06) | 3:24 | 2021-12-10 | 2022-10-14 |
+| [Pinetrees](https://open.spotify.com/track/51l3Yw0yTqmDRMBnxMsE1n) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai), [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Återvända](https://open.spotify.com/album/5g4dqFkGwNL0BGywOBiG06) | 3:24 | 2021-12-10 |  |
 | [Racing Stripes](https://open.spotify.com/track/3mOlGrCrh3rJYbjmhfMTiQ) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [Everything Else Has Gone Wrong](https://open.spotify.com/album/11yHtE6IzOk6elh9cJzldJ) | 4:06 | 2021-12-10 | 2022-10-15 |
 | [Re: Stacks](https://open.spotify.com/track/20AC70RUlVz6A6dCcQ5tRS) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [For Emma, Forever Ago](https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM) | 6:41 | 2022-01-07 |  |
 | [Re: Stacks](https://open.spotify.com/track/2LthqyP0MLhGUBICwR1535) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [For Emma, Forever Ago](https://open.spotify.com/album/4SxFsOO0h4Nz3lFJuysKq5) | 6:41 | 2021-12-10 | 2022-07-29 |

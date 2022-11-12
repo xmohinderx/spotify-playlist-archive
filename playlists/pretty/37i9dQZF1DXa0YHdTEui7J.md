@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa0YHdTEui7J.md) - [plain]
 
 > <a href="spotify:artist:4cvdQRyHmkSQSakUrW2oxv"> Michael Bibi</a>'s favorite tracks\. Updated regularly\. Curated by Michael Bibi\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,456 likes - 97 songs - 10 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,536 likes - 97 songs - 10 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,15 +95,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa0YHdTEui7J.md) - [plain]
 | 85 | [Eva Mendes \- Original Mix](https://open.spotify.com/track/6AhD2OsZ3CcJAv2DySvMWE) | [Mosca](https://open.spotify.com/artist/09w4rprrROhfc0yevxXCGg) | [Eva Mendes EP](https://open.spotify.com/album/6m7PElp48tTwYw9XLrXdKd) | 6:10 |
 | 86 | [Sweepstake \- Original Mix](https://open.spotify.com/track/2oZSHNqsyvAlUuhpSxZ5ij) | [Michael Bibi](https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv) | [Sweepstake EP](https://open.spotify.com/album/1VYO9ML8qqUfpUUhf95HVk) | 6:18 |
 | 87 | [Fat Stacks](https://open.spotify.com/track/3vRxNd0PBWJWaLWpkekiiV) | [Arkwright](https://open.spotify.com/artist/3Cvn5nYWAJ7GPUAM1Ea5QV) | [Instinct EP](https://open.spotify.com/album/0OFeoaOOtoZa7hwtUzf20x) | 5:01 |
-| 88 | [Ocean Drive](https://open.spotify.com/track/4RHJyw8JFsjiMV8IegfJLi) | [Rodriguez Jr.](https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y) | [Totally Mobilee \- Rodriguez Jr\. Collection, Vol\. 1](https://open.spotify.com/album/2wdn8bFl8vImQvFfwi4kPD) | 7:25 |
+| 88 | [Ocean Drive](https://open.spotify.com/track/1YeRjNP9fmGr7HGjTm5Nbj) | [Rodriguez Jr.](https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y) | [Mobilee Rooftop Summer Vol\. 1](https://open.spotify.com/album/3IvGmek7EZK6sHbY8DCx82) | 7:25 |
 | 89 | [Doiicie \- A](https://open.spotify.com/track/3a5sbseoseoN4XG0SeS4r9) | [Minilogue](https://open.spotify.com/artist/3q7XOzzlff7iCLz2JNalDV) | [Carry On, Pretend We're Not In The Room](https://open.spotify.com/album/3kWEPAoR8O7A6NUyrXcmOZ) | 8:10 |
 | 90 | [Everless](https://open.spotify.com/track/6ubQKsbaMHgDwe55fUENmR) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z) | [Workparty Three](https://open.spotify.com/album/2kUSJNURZgt8mzAlEm1b9s) | 7:27 |
 | 91 | [Trojan](https://open.spotify.com/track/3HYYbvXOjZuK0ekb2wlymb) | [Mark Henning](https://open.spotify.com/artist/5r2arxIZMtFSBFC25AynTW) | [Flashback](https://open.spotify.com/album/4HvJXFT9NASvX1vpu9kksI) | 6:57 |
 | 92 | [Summertime \- Jones & James dub mix](https://open.spotify.com/track/7i2vF1mwFeXPeGanIiSoWO) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Robert James](https://open.spotify.com/artist/64RpspUzL6BOUNEs07IuPr) | [Summertime Remixes](https://open.spotify.com/album/7CdryRVvNrvXIltkrrj4Ln) | 6:38 |
-| 93 | [Satellite](https://open.spotify.com/track/7cbXQtNULjrhRteqeM8bbl) | [Rodriguez Jr.](https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y) | [Totally Mobilee \- Rodriguez Jr\. Collection, Vol\. 1](https://open.spotify.com/album/2wdn8bFl8vImQvFfwi4kPD) | 7:33 |
+| 93 | [Satellite](https://open.spotify.com/track/70E5ipJ9QpGtF2XaTMAUg2) | [Rodriguez Jr.](https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y) | [Muppet Anthem](https://open.spotify.com/album/4LNvAckfjyAPWt4uoZzxpZ) | 7:33 |
 | 94 | [Hydra](https://open.spotify.com/track/312VCWI9JHNtSF2xJH4zLT) | [Rodriguez Jr.](https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y) | [Hydra](https://open.spotify.com/album/4NgsJCcFODkEBPbdan0GPN) | 7:31 |
 | 95 | [Groove Dealer](https://open.spotify.com/track/0NDbTnVPCszdI2G9FQWfKx) | [Blackchild \(ITA\)](https://open.spotify.com/artist/0UVthdD1eqqsoNLX9ek4Xb) | [Groove Dealer EP](https://open.spotify.com/album/3YO1Tk3rbxnr4HFHeb6UXD) | 6:58 |
 | 96 | [It'll All Be Over \- DJ Koze Remix \- Radio Edit](https://open.spotify.com/track/48dojgnBKfp3drKOFdwycc) | [Gerry Read](https://open.spotify.com/artist/5FIfw6s4iYUFu6tA3iIIOQ), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [It'll All Be Over \(DJ Koze Remix \- Radio Edit\)](https://open.spotify.com/album/0T4xFSNi3vOmlC4GUXPfIE) | 3:08 |
 | 97 | [Move on Up \- Single Edit](https://open.spotify.com/track/0MHXrqn909p0LRTPsNsGEi) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [Move on Up](https://open.spotify.com/album/2EwoYRFQRJqw7BTVG6GlTw) | 2:45 |
 
-Snapshot ID: `MTYyODgwOTIwMCwwMDAwMDAwMDU4MTMyZDk0ZGFiYWVkZDAzYzVmYjkzMmU4MTk2YjZk`
+Snapshot ID: `MTYyODgwOTIwMCwwMDAwMDAwMDU5YzBkYjIxZTMyZTlkNWQ1ZDg2ZGE0ZWFlM2M5OTVk`

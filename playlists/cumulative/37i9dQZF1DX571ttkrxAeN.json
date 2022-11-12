@@ -1277,10 +1277,28 @@
       ],
       "date_added": "2020-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 187349,
       "name": "Luna Llena",
       "url": "https://open.spotify.com/track/20A1JcPTZK3yaTNKXn08O9"
+    },
+    {
+      "album": {
+        "name": "Luna Llena",
+        "url": "https://open.spotify.com/album/5rFme5RIAGPcFm36feh5Mo"
+      },
+      "artists": [
+        {
+          "name": "Simon Grossmann",
+          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
+        }
+      ],
+      "date_added": "2022-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194062,
+      "name": "Luna Llena",
+      "url": "https://open.spotify.com/track/74nL250MVJW7NtrpySAxT7"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWTdxbiocWOL.md) - [plain]
 
 > Aerial post\-rock sounds to take you somewhere else.
 
-[Spotify](https://open.spotify.com/user/spotify) - 398,378 likes - 50 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 398,680 likes - 50 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,10 +13,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWTdxbiocWOL.md) - [plain]
 | 3 | [Anything You Synthesize \- Ambient](https://open.spotify.com/track/0OF6WSdeVmYEGBZlxvwvLq) | [The American Dollar](https://open.spotify.com/artist/5r4OqYJL7JrtZlffx7FJlb) | [Ambient One](https://open.spotify.com/album/7A6VoC5v3dHcINkZudtJaD) | 4:08 |
 | 4 | [Worth Everything Ever Wished for](https://open.spotify.com/track/2j3qLgBCLoLhv4zbzNmc16) | [The End Of The Ocean](https://open.spotify.com/artist/4AXRViJcT2cJ0x1CxSSldW) | [Pacific•atlantic](https://open.spotify.com/album/0AcN6qKwf00huBIs83EcSO) | 5:54 |
 | 5 | [Glósóli](https://open.spotify.com/track/0YTfMKGPhWhjS9wgzWvfaf) | [Sigur Rós](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy) | [Takk...](https://open.spotify.com/album/12tw1A9HmwE3MHvPfHhdoP) | 6:15 |
-| 6 | [I Can Almost See You](https://open.spotify.com/track/11n8LudggXuZXmldSlAadR) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [Raising Your Voice..\. Trying to Stop an Echo \(Deluxe Edition\)](https://open.spotify.com/album/2AbCfihy80zuR1mPwN5yLl) | 4:15 |
+| 6 | [I Can Almost See You](https://open.spotify.com/track/5FBPKDGCYGkNSZx5Uxa99B) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [Raising Your Voice..\. Trying to Stop an Echo](https://open.spotify.com/album/666q81KBw1TMj8WRUDNYvm) | 4:13 |
 | 7 | [Radio Protector](https://open.spotify.com/track/1QuJm7XRpFjEfOU6A01mw2) | [65daysofstatic](https://open.spotify.com/artist/6DVVsQAnpHdJjb1nYuOQ6g) | [Radio Protector](https://open.spotify.com/album/3ruXFYPxKwCqPIzZtxjGmg) | 5:28 |
 | 8 | [Balabaristas](https://open.spotify.com/track/0iJhP5gxnbgprXwQOkZD52) | [Tristeza](https://open.spotify.com/artist/3oglFEsE6GvwwJFConxKa5) | [A Colores](https://open.spotify.com/album/2G1xCfcdhD34iLvclBqfM6) | 6:07 |
-| 9 | [He Films The Clouds Pt\. 2](https://open.spotify.com/track/07nYZZQT49i7yAIs3k3tOe) | [Maybeshewill](https://open.spotify.com/artist/33qUIIydEBgWpe58IA0o61) | [Not for Want of Trying](https://open.spotify.com/album/6RxORosZYPqH4fkxMraaA9) | 6:42 |
+| 9 | [He Films the Clouds pt\. 2](https://open.spotify.com/track/6ZkUrkE48aWswWIpEZOdh2) | [Maybeshewill](https://open.spotify.com/artist/33qUIIydEBgWpe58IA0o61) | [Not for Want of Trying + 4](https://open.spotify.com/album/2cpuM4JjRuTCq3sJVoMYHr) | 6:42 |
 | 10 | [Silent Flight, Sleeping Dawn \- Remastered](https://open.spotify.com/track/0Dv3M0Ck4n9anoPu1VQ5fU) | [MONO](https://open.spotify.com/artist/53LVoipNTQ4lvUSJ61XKU3) | [Hymn to the Immortal Wind \(Anniversary Edition\)](https://open.spotify.com/album/2tMQkZ8WvwpM7qmRVrW3hK) | 6:00 |
 | 11 | [Her Beating Wings](https://open.spotify.com/track/2FGsWazGl3pdFX1kNk2NY1) | [This Patch of Sky](https://open.spotify.com/artist/5SizWbJ5S7KxIR8e07jvqf) | [These Small Spaces](https://open.spotify.com/album/7ACcoSiFkGjT3TlntaogzB) | 6:59 |
 | 12 | [My Only Swerving](https://open.spotify.com/track/4q26ViixkilRLjl1MdLABS) | [El Ten Eleven](https://open.spotify.com/artist/0d1j4VJ7gzAJaDslzmjTF0) | [El Ten Eleven](https://open.spotify.com/album/6bv070I2PgzwGLgYGBxaJW) | 5:14 |
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWTdxbiocWOL.md) - [plain]
 | 28 | [Logic of a Dream](https://open.spotify.com/track/0URVKq4PQMcU2zzvzZFyLU) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [Logic of a Dream](https://open.spotify.com/album/2JW1tOY8auzODdapMMbxUO) | 6:37 |
 | 29 | [Colors In Stereo](https://open.spotify.com/track/2ThL97UJtUQwqZHpgtkktm) | [Moonlit Sailor](https://open.spotify.com/artist/3YX8jgxBqkl30HXjazVXXU) | [Colors In Stereo](https://open.spotify.com/album/6QWZgvK9Gid1Nu8w3rLfCx) | 3:39 |
 | 30 | [Debutante](https://open.spotify.com/track/0jpggEnuQFHj3uJIthfCQS) | [65daysofstatic](https://open.spotify.com/artist/6DVVsQAnpHdJjb1nYuOQ6g) | [We Were Exploding Anyway](https://open.spotify.com/album/1JorSz3YkTUuNMyLu18dUd) | 7:21 |
-| 31 | [Happiness](https://open.spotify.com/track/29Ty3LznXDPiuf4Q681MEI) | [Jónsi](https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y), [Alex Somers](https://open.spotify.com/artist/51UcKPhDKdKDGIjec0781x) | [Riceboy Sleeps](https://open.spotify.com/album/7MPzpbeTmxvlYVNZyn3LSf) | 9:20 |
+| 31 | [Happiness \- 2019 Remaster](https://open.spotify.com/track/369SPXhIIEEwJ6UQKnlwHJ) | [Jónsi](https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y), [Alex Somers](https://open.spotify.com/artist/51UcKPhDKdKDGIjec0781x) | [Riceboy Sleeps \(2019 Remaster\)](https://open.spotify.com/album/2v2oepohJrkS5kdDIJ1xLz) | 9:19 |
 | 32 | [Frozen Twilight](https://open.spotify.com/track/6yMlHBgwnIhrF2Qvnt2Yyn) | [God Is An Astronaut](https://open.spotify.com/artist/079svMEXkbT5nGU2kfoqO2) | [A Moment of Stillness \(2011 Remastered Edition\)](https://open.spotify.com/album/1eVrXeDRsZQFM4DtSbUzKr) | 6:17 |
 | 33 | [In Illusions Of Order](https://open.spotify.com/track/2wWQwx1ymkpCr4ItPUQ94g) | [Red Sparowes](https://open.spotify.com/artist/4MT9A89Dq8xRJ9hMvvPiJw) | [The Fear Is Excruciating, But Therein Lies The Answer](https://open.spotify.com/album/1mLisF7qgSwVDrQ4gklpcR) | 7:36 |
 | 34 | [Mogwai Fear Satan](https://open.spotify.com/track/3v2JDIu7n8DJ83V2pCKyqu) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [Young Team \(Deluxe Edition\)](https://open.spotify.com/album/03Oli2dCjoYM5YS4f8R2pd) | 16:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWTdxbiocWOL.md) - [plain]
 | 49 | [I'm Jim Morrison, I'm Dead](https://open.spotify.com/track/1fV2Bp9JpE1CavonususVW) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [The Hawk Is Howling](https://open.spotify.com/album/6XfWE0VdiRbH9QWfyLibxW) | 6:44 |
 | 50 | [De la Orquídea y la Avispa](https://open.spotify.com/track/2cWaaXZL5idipbPuJkfvH9) | [Austin TV](https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR) | [De la Orquídea y la Avispa](https://open.spotify.com/album/7L50tSXXmpzbpIDpNDyv5d) | 6:47 |
 
-Snapshot ID: `MTY2NDUyNzY3MSwwMDAwMDAwMDg1YmRlZDZmZTMyNzY3YmMzNWFhZWU4ODljZTJjNGY2`
+Snapshot ID: `MTY2NDUyNzY3MSwwMDAwMDAwMDllYjllM2E2NzE5NTcwZmI4YzBmYmQxMjFlNTkxNzM1`

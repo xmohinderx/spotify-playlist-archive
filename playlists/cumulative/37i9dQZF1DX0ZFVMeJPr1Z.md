@@ -4,7 +4,7 @@
 
 > Spellistan för den svenska sommaren.
 
-107 songs - 6 hr 31 min - [published](https://open.spotify.com/playlist/4mrmOcrXwC1fOiVBPSDUca)
+109 songs - 6 hr 38 min - [published](https://open.spotify.com/playlist/4mrmOcrXwC1fOiVBPSDUca)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [Gör mig lycklig nu](https://open.spotify.com/track/2NRRzkoM5biJQ0M8vh7bEX) | [Mats Ronander](https://open.spotify.com/artist/3ryhASM97ALIDF5XtPsCgm), [Kim Larsen](https://open.spotify.com/artist/2ZQifdPOptKHxTaYTLh0BC) | [Guldkorn](https://open.spotify.com/album/2ZHD1CRbesKPzjgtgkYR0i) | 3:28 | 2020-07-23 |  |
 | [Hanna från Arlöv](https://open.spotify.com/track/6DDqT0TLnWO6uBZbD7l0nt) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [Collection](https://open.spotify.com/album/1VUeYyKsCFK15DsCW5qExP) | 3:56 | 2020-07-23 |  |
 | [Hanna från Arlöv](https://open.spotify.com/track/6dEjaX8TtuHNhRBTwph6Fw) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [Så mycket bättre säsong 4 \- Ulfs dag](https://open.spotify.com/album/2xzGVZomWVTIS7XrrJLjfY) | 3:56 | 2020-07-23 | 2022-07-29 |
-| [Himlen är oskyldigt blå](https://open.spotify.com/track/1vUZKzx8fNI8nwsWEMQVvm) | [Jessica Andersson](https://open.spotify.com/artist/0e52F3Q1maTGPgsEa1hDJM) | [Fame Factory Visor](https://open.spotify.com/album/4Os2gl6N0gVZPtLr0GRdAx) | 4:26 | 2020-07-23 |  |
+| [Himlen är oskyldigt blå](https://open.spotify.com/track/1vUZKzx8fNI8nwsWEMQVvm) | [Jessica Andersson](https://open.spotify.com/artist/0e52F3Q1maTGPgsEa1hDJM) | [Fame Factory Visor](https://open.spotify.com/album/4Os2gl6N0gVZPtLr0GRdAx) | 4:26 | 2020-07-23 | 2022-11-12 |
+| [Himlen är oskyldigt blå](https://open.spotify.com/track/2Y74b1FogVihFkAj7GcxQq) | [Jessica Andersson](https://open.spotify.com/artist/0e52F3Q1maTGPgsEa1hDJM) | [Äkta svensk sommar \(NEW\)](https://open.spotify.com/album/6baOhgm6DKni5Ge3kMPAPp) | 4:26 | 2020-07-23 |  |
 | [Himlen är oskyldigt blå](https://open.spotify.com/track/51NCq59dLCBk7zJx852JON) | [Jessica Andersson](https://open.spotify.com/artist/0e52F3Q1maTGPgsEa1hDJM) | [Sommarklassiker](https://open.spotify.com/album/3IAfJk3CXvw8I3w6iqPunv) | 4:26 | 2020-07-23 | 2022-07-29 |
 | [Himlen är oskyldigt blå](https://open.spotify.com/track/35Pcc7EcDAydmzJdM8XonO) | [Sara Zacharias](https://open.spotify.com/artist/5oLdTp4J7RJtC43nBnP9Hg) | [För kärlekens skull \- Svenska artister hyllar Ted Gärdestad](https://open.spotify.com/album/69e81Jxyt3gRroMMzzhRL2) | 4:45 | 2020-07-23 |  |
 | [Himlen är oskyldigt blå](https://open.spotify.com/track/27TFfAFo4sE4fw04QDqJmD) | [Ted Gärdestad](https://open.spotify.com/artist/6zpub6jbY6CdrcqQsDq8P4) | [Droppar av solregn](https://open.spotify.com/album/7vQoYBKkBQc3TK3gGPwehn) | 4:33 | 2020-07-23 | 2022-07-29 |
@@ -87,8 +88,9 @@
 | [Sommar Reggae](https://open.spotify.com/track/472Q9Sbe7mlJmM9YuU98vQ) | [Elisabeth Andreassen](https://open.spotify.com/artist/6Fn3e6ZtmKtAl9wQ6Y9Fbc) | [Sommarhits \- 75 svenska sommarlåtar](https://open.spotify.com/album/21o2V9h5XWvUY6sBdc9Ddi) | 4:08 | 2020-07-23 | 2022-07-29 |
 | [Sommar reggae \(Sunshine Reggae\)](https://open.spotify.com/track/0TmHZaq4PTe6sYOoGQ5M4N) | [Elisabeth Andreassen](https://open.spotify.com/artist/6Fn3e6ZtmKtAl9wQ6Y9Fbc) | [I'm A Woman](https://open.spotify.com/album/0xdAWS5pnTTQQzdRsDyWKp) | 4:04 | 2020-07-23 | 2022-11-11 |
 | [Sommaren i City](https://open.spotify.com/track/1Y38A5HAP7SYJAzE48M3GW) | [Angel](https://open.spotify.com/artist/7FjElQ2FxgAbDGSrcE7K6O) | [Sommar, sommar, sommar](https://open.spotify.com/album/0l537xeeUQXZAkArjKmb2H) | 3:42 | 2020-07-23 |  |
-| [Sommaren är kort](https://open.spotify.com/track/2W7tzqjAPXG97RthXx6pNR) | [Tomas Ledin](https://open.spotify.com/artist/518rTAIFPwQjLUSi4Pdzzn) | [Gränslös \(Bonus Track Version\)](https://open.spotify.com/album/6Z2Q0V5dalO2v1geFWi4cp) | 3:03 | 2020-07-23 |  |
+| [Sommaren är kort](https://open.spotify.com/track/2W7tzqjAPXG97RthXx6pNR) | [Tomas Ledin](https://open.spotify.com/artist/518rTAIFPwQjLUSi4Pdzzn) | [Gränslös \(Bonus Track Version\)](https://open.spotify.com/album/6Z2Q0V5dalO2v1geFWi4cp) | 3:03 | 2020-07-23 | 2022-11-12 |
 | [Sommaren är kort](https://open.spotify.com/track/6wnWpJGIcYrY7P6yIikerN) | [Tomas Ledin](https://open.spotify.com/artist/518rTAIFPwQjLUSi4Pdzzn) | [Tomas Ledin \- 80\-Tal](https://open.spotify.com/album/0YdkVmcOnLjq178i8I2RzK) | 3:03 | 2020-07-23 | 2022-07-29 |
+| [Sommaren är kort](https://open.spotify.com/track/4ksFdqDm1j5cm5k1Df6bby) | [Tomas Ledin](https://open.spotify.com/artist/518rTAIFPwQjLUSi4Pdzzn) | [Inte ett moln så långt ögat kan nå](https://open.spotify.com/album/4TYHmKdWl1rxyCyG8BTkqp) | 3:05 | 2020-07-23 |  |
 | [Sommarens sista sång \- Radio Edit](https://open.spotify.com/track/6739dAlhNEWU1xUtE3DOa1) | [Peter Jöback](https://open.spotify.com/artist/3fA5zBQWEa0uzYo43SvXaj) | [Sommarens Sista Sång](https://open.spotify.com/album/1lBi8Dn9kdJH4dY89AlbCd) | 4:02 | 2020-07-23 |  |
 | [Sommarkort](https://open.spotify.com/track/55IxX9VMOgGNdvmrws9fxT) | [Cornelis Vreeswijk](https://open.spotify.com/artist/5B38ZGYpd0msq1LKOyz2r9) | [Midsommarklassiker 2021](https://open.spotify.com/album/5fAkO01sraQ7NUWqFdY7FV) | 3:30 | 2020-07-23 |  |
 | [Sommarkort](https://open.spotify.com/track/5lRvBRQJFVWZGRqDm7YkL4) | [Cornelis Vreeswijk](https://open.spotify.com/artist/5B38ZGYpd0msq1LKOyz2r9) | [Cornelis Bästa](https://open.spotify.com/album/6eoQyqhkcoDgjMHsqAphHs) | 3:30 | 2020-07-23 | 2022-07-29 |

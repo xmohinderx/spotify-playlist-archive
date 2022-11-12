@@ -4,7 +4,7 @@
 
 > Listen to Arab women, at full volume\. Cover: Manal
 
-328 songs - 19 hr 14 min - [published](https://open.spotify.com/playlist/6cCioutZKMerUfIqu6fEVt)
+329 songs - 19 hr 17 min - [published](https://open.spotify.com/playlist/6cCioutZKMerUfIqu6fEVt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,7 @@
 | [Galactique](https://open.spotify.com/track/53pSQJP7qVhz9HDbTcTX4J) | [MAYA VI](https://open.spotify.com/artist/56e98wB8v0F4YUayj1tF7d) | [Galactique](https://open.spotify.com/album/5zigO1sNqarEOiLICUJt5d) | 3:12 | 2021-12-23 | 2022-03-02 |
 | [Ghalta](https://open.spotify.com/track/6zIXv7ielLKUY5dNI1lqCl) | [Areej Al Sayed](https://open.spotify.com/artist/2CwLASpkyh9txI9Z6NvCsU) | [Ghalta](https://open.spotify.com/album/0RD988uyh03VVuMCJD1b22) | 3:12 | 2021-12-23 | 2022-02-27 |
 | [Goulou Amine](https://open.spotify.com/track/2DM4pswuIVG3qFuayz6R5a) | [Asmaa Bassite](https://open.spotify.com/artist/3M26ulb3cwk9qglRwt9SEa) | [Goulou Amine](https://open.spotify.com/album/5D2y2JGnRHybPkvll0ShbF) | 4:04 | 2021-12-23 | 2022-03-02 |
-| [Haja Ma Doum](https://open.spotify.com/track/5mLY8dRJv0jLTTJCJmDu1l) | [Djouher](https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D), [Xena Elshazlii](https://open.spotify.com/artist/4EqHdN0Y8lPbl6UVVrFBG2) | [Kingdom](https://open.spotify.com/album/3bAluFVvSuKNmPkmaR6xhd) | 3:32 | 2022-08-11 |  |
+| [Haja Ma Doum](https://open.spotify.com/track/5mLY8dRJv0jLTTJCJmDu1l) | [Djouher](https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D), [Xena Elshazlii](https://open.spotify.com/artist/4EqHdN0Y8lPbl6UVVrFBG2) | [Kingdom](https://open.spotify.com/album/3bAluFVvSuKNmPkmaR6xhd) | 3:32 | 2022-08-11 | 2022-11-12 |
 | [Hala Taraa](https://open.spotify.com/track/6GX6qOGlZEXmUYkGyoTkMb) | [Shaimaa El Maghraby](https://open.spotify.com/artist/2JVy6Z1pDdqDfTtZ03ePE9) | [Hala Taraa](https://open.spotify.com/album/7q1RxHFLDWNJ6hpUKbkie4) | 3:31 | 2021-12-23 | 2022-02-28 |
 | [Harzaneh](https://open.spotify.com/track/3w62kuwirrkLwiwKvNqvwk) | [Dana Salah](https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ) | [Harzaneh](https://open.spotify.com/album/41oUkibRsn7EQ84wIAfpYB) | 2:52 | 2021-12-23 | 2022-03-02 |
 | [Heliocentric](https://open.spotify.com/track/1tFslnzbhAJck0C28stKBR) | [Felukah](https://open.spotify.com/artist/0nmukaO2zzwRPEevPJph1F) | [Dream 23](https://open.spotify.com/album/45zDr1B6qUmDcsH3clyp2O) | 2:56 | 2021-12-23 | 2022-02-28 |
@@ -187,6 +187,7 @@
 | [Mishtaq](https://open.spotify.com/track/4j65JzQYXQ4PNZ3PlO4LvD) | [Rawan Bin Hussain](https://open.spotify.com/artist/2EwH8s2tM7Oxp45dIW6oNQ) | [Mishtaq](https://open.spotify.com/album/4goCWF3XFvbLmjHExq4adp) | 2:00 | 2022-04-03 |  |
 | [Mn Hadid](https://open.spotify.com/track/4SgFhANgPutWrIB5iJ377I) | [Aziza](https://open.spotify.com/artist/5Rfskh0eC4Ui4xPIEisqwz) | [Mn Hadid](https://open.spotify.com/album/2LH1fWo3lu8FN9fF2tCWja) | 2:33 | 2021-12-30 | 2022-03-02 |
 | [Msh Ehna](https://open.spotify.com/track/7tUBGJe8TiaaxStkbDKO2W) | [Shahd El Shaarawy](https://open.spotify.com/artist/5AMkRmTIvyPJZl6qtP6wnP) | [Msh Ehna](https://open.spotify.com/album/28Td7InrqdpPh6RXCbFley) | 4:28 | 2022-10-20 | 2022-11-04 |
+| [Msh Mestahla](https://open.spotify.com/track/2Saem8GPcYbBbnaUaSHOAF) | [Shahd El Shaarawy](https://open.spotify.com/artist/5AMkRmTIvyPJZl6qtP6wnP) | [Rehla](https://open.spotify.com/album/1AKWEhi7d7BBKke6iT5lPp) | 3:02 | 2022-11-10 |  |
 | [Msh Mestahla](https://open.spotify.com/track/6RXBr8cyhD8n3v7BSWwkZ7) | [Shahd El Shaarawy](https://open.spotify.com/artist/5AMkRmTIvyPJZl6qtP6wnP) | [Msh Mestahla](https://open.spotify.com/album/0S1UGQ7NFzCqCAwY1wKZHY) | 3:02 | 2022-10-06 | 2022-11-04 |
 | [Mtarred](https://open.spotify.com/track/0S0U6igYrif5Y7brdKK2uu) | [Sirine Miled](https://open.spotify.com/artist/1i69kloElAsdqtmdP5rru0) | [Mtarred](https://open.spotify.com/album/37MvMQdvwYpe94sRAaLTk0) | 3:52 | 2021-12-23 | 2022-03-02 |
 | [Mustaheel](https://open.spotify.com/track/2ycSFamPmfqPFFr10kYkX0) | [Dana Salah](https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ) | [Mustaheel](https://open.spotify.com/album/43KCM5CLKO7V6kgLYpUP65) | 3:09 | 2022-11-09 |  |

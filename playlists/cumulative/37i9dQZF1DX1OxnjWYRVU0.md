@@ -4,7 +4,7 @@
 
 > New takes on old classics!
 
-395 songs - 17 hr 26 min - [published](https://open.spotify.com/playlist/0zTramhYGvimlHqX2SNvEm)
+396 songs - 17 hr 28 min - [published](https://open.spotify.com/playlist/0zTramhYGvimlHqX2SNvEm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,7 +192,8 @@
 | [It's A Hard Knock Life](https://open.spotify.com/track/3cfoT303oRVyVdSsX6UmuO) | [D.T.E](https://open.spotify.com/artist/72HNCRVjK93J4ZnCY8rb1q) | [It's A Hard Knock Life](https://open.spotify.com/album/4pUlmbrBtD2zGFnwSan3HJ) | 2:21 | 2022-04-29 |  |
 | [It's A Hard Knock Life \- Prezioso Remix](https://open.spotify.com/track/2ibx46fwgGe3u2pirSgjj7) | [D.T.E](https://open.spotify.com/artist/72HNCRVjK93J4ZnCY8rb1q), [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr) | [It's A Hard Knock Life \(Prezioso Remix\)](https://open.spotify.com/album/6SNomlenerzizegZNU4yoU) | 2:29 | 2022-06-16 |  |
 | [Jolene](https://open.spotify.com/track/39jJfIcg0EXn2t3ySTHcPm) | [Kelvin Jones](https://open.spotify.com/artist/2t1vHqFELDwweQWM6JYxHG) | [Jolene](https://open.spotify.com/album/2ycOFUHmXhWZyRxAhx5Yu7) | 2:30 | 2022-01-13 |  |
-| [Just Dance](https://open.spotify.com/track/1T1P4aZxStasNK76EfyZcF) | [Wasback](https://open.spotify.com/artist/3rmYE7edorDWoKVPGk9iLZ) | [Just Dance](https://open.spotify.com/album/7948ooBqNGWktPJnH7f9iX) | 1:54 | 2022-06-30 |  |
+| [Just Dance](https://open.spotify.com/track/1T1P4aZxStasNK76EfyZcF) | [Wasback](https://open.spotify.com/artist/3rmYE7edorDWoKVPGk9iLZ) | [Just Dance](https://open.spotify.com/album/7948ooBqNGWktPJnH7f9iX) | 1:54 | 2022-06-30 | 2022-11-12 |
+| [Just Dance](https://open.spotify.com/track/3f4vOr8YHwPpzzfteITYOz) | [Wasback](https://open.spotify.com/artist/3rmYE7edorDWoKVPGk9iLZ) | [Ibiza 2022](https://open.spotify.com/album/5fMeAtQitXwgs2TTO0dWq5) | 1:54 | 2022-10-27 |  |
 | [Just Dance](https://open.spotify.com/track/4Uh2Y3yea56QOalksoUuet) | [Wasback](https://open.spotify.com/artist/3rmYE7edorDWoKVPGk9iLZ), [Jada](https://open.spotify.com/artist/2pobDPwk9fuzujz5YKKAVB) | [Just Dance](https://open.spotify.com/album/7ChGyr4NettXR90eBrjgwV) | 1:54 | 2022-01-13 | 2022-07-29 |
 | [Just The Two Of Us](https://open.spotify.com/track/2a1JtiO69UBt5HbWE1lrd3) | [waybackwhen](https://open.spotify.com/artist/0i2sQGppNt0uHHqgTia7kv) | [Just The Two Of Us](https://open.spotify.com/album/2xgM1vqaMpiD2cU8x5Gw6q) | 2:26 | 2022-06-16 |  |
 | [Kernkraft 400 \(A Better Day\)](https://open.spotify.com/track/3kcKlOkQQEPVwxwljbGJ5p) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Kernkraft 400 \(A Better Day\)](https://open.spotify.com/album/2NIChqkijGw4r4Dqfmg0A3) | 2:45 | 2022-06-16 |  |

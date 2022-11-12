@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT3qht9CfnL3.md) - [plain]
 
 > Canciones de despecho para cantarle a quien te rompió el corazón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,392 likes - 55 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,669 likes - 55 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Solo de Mi](https://open.spotify.com/track/4uP3pUP18ennmz0tb3GphR) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [X 100PRE](https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF) | 3:17 |
 | 2 | [El Farsante](https://open.spotify.com/track/5EId1m4DNwTf3at31w8bPJ) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Odisea](https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo) | 3:53 |
 | 3 | [Vete](https://open.spotify.com/track/5DxXgozhkPLgrbKFY91w0c) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Vete](https://open.spotify.com/album/3fxzSn0ObgCjLadyR53ohN) | 3:12 |
-| 4 | [Otra vez \(feat\. J Balvin\)](https://open.spotify.com/track/3QwBODjSEzelZyVjxPOHdq) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Motivan2](https://open.spotify.com/album/22lEQJ7khtB2yvsq84FDQb) | 3:29 |
+| 4 | [Otra vez](https://open.spotify.com/track/5cADvuEXTFGjrDfeZIPI0Q) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Trending Top Hits Now!](https://open.spotify.com/album/2Abj4pdxIatBcRJqHvpZhh) | 3:29 |
 | 5 | [Soy Peor](https://open.spotify.com/track/1JxhrUWZjuI8AOjDJ1JpMN) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Soy Peor](https://open.spotify.com/album/7ofZgPzOIVXY4ADCrGUqgF) | 4:17 |
 | 6 | [Nada](https://open.spotify.com/track/7DOh0tBGnyMt6C5OO7o8Yq) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Error 93](https://open.spotify.com/album/5zbO01D6uIqC2ejQSQEN2O) | 5:05 |
 | 7 | [Te Amo](https://open.spotify.com/track/2RVrdr062uLFxXwIxwdXPH) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Te Amo](https://open.spotify.com/album/0sF2dhoiBLVMvuv6qRIpYI) | 3:21 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT3qht9CfnL3.md) - [plain]
 | 54 | [Corazón De Papel](https://open.spotify.com/track/0SV8KSbfTfhYp6vCRrF7uE) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Karen Méndez](https://open.spotify.com/artist/0txXDZCdXBzha20sgN1GRk) | [Corazón De Papel](https://open.spotify.com/album/1IRVC1cDRm5if9zYBbRSRu) | 3:03 |
 | 55 | [23 Preguntas](https://open.spotify.com/track/5ANkjNH7elrxzggidjnH9v) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [23 Preguntas](https://open.spotify.com/album/0iLhDl4hlkoBXLtsfhUg56) | 4:11 |
 
-Snapshot ID: `MTY2MjQwNjAxMywwMDAwMDAwMDBiZTUxYTE2NmMyYjc3MTBiMDBmZWVhNTYwMjAwYTYx`
+Snapshot ID: `MTY2MjQwNjAxMywwMDAwMDAwMDUzMzY2NzYyNGYxMTk5MGFkNWI3YTA3ZTJkYTRjZTBh`

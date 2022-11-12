@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56crgoe4TG3.md) - [plain]
 
 > A mix of folk and bluegrass covers of pop, rock, hip\-hop, folk, and indie songs\. Cover: Front Country
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,036 likes - 113 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,109 likes - 113 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56crgoe4TG3.md) - [plain]
 | 31 | [Brain Damage](https://open.spotify.com/track/2dcZFrC8XkdxhVxmb8p2kO) | [The Austin Lounge Lizards](https://open.spotify.com/artist/4O4nf1pPdZh0crQObAC8um) | [Lizard Vision](https://open.spotify.com/album/39wW3gZkVGupQpLXw2ogs9) | 2:31 |
 | 32 | [You Are My Sunshine](https://open.spotify.com/track/2VTUz4vnpsKwR9wluFNP59) | [The Dead South](https://open.spotify.com/artist/3HR1xtIsUefdFnkI1XHgeA) | [Easy Listening for Jerks, Pt\. 1](https://open.spotify.com/album/5fYToYotblVTIH2SaJENBW) | 3:20 |
 | 33 | [New Slang](https://open.spotify.com/track/2YcILFkmZHNi5qCqgP9F0R) | [Pickin' On Series](https://open.spotify.com/artist/6AEIKVwB27miPI3uJxM4Dw), [Iron Horse](https://open.spotify.com/artist/1v3CnxHAtLMfZW8v5dGj7t) | [The Bluegrass Tribute to The Shins](https://open.spotify.com/album/1Nl3ddmgHlbuFp1v7nCHIC) | 4:13 |
-| 34 | [The Boxer feat\. Mumford & Sons and Paul Simon](https://open.spotify.com/track/73C8vVm2BRLLBQ8FH6N6Qm) | [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9), [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI), [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Traveler](https://open.spotify.com/album/6YNQ1O9C5AVtOGEPIIwkAG) | 4:05 |
+| 34 | [The Boxer](https://open.spotify.com/track/4vJfFgFj5kZMplZUeJ60aF) | [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9), [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Babel \(Deluxe Version\)](https://open.spotify.com/album/3FfuUD3Je9t9tQq80Zq41y) | 4:05 |
 | 35 | [You’ll Never Leave Harlan Alive](https://open.spotify.com/track/6L2HXRIVKkMbpzqjE8oYnW) | [Shadowgrass](https://open.spotify.com/artist/5LimIIqX8EYXRrMvLFIiTE) | [Shadowgrass](https://open.spotify.com/album/0JqSs11UVGIqPsoGWpLFz1) | 4:55 |
 | 36 | [Superstition](https://open.spotify.com/track/2KojzDNCOj7EQfasSNtXAn) | [Old School Freight Train](https://open.spotify.com/artist/2BNbKeVVXrlJcwyh9Se4ov) | [Run](https://open.spotify.com/album/441lN6kH5dgprlB88b6cbF) | 3:23 |
 | 37 | [Jolene](https://open.spotify.com/track/2NAxj5QpHT7YqpxQdil0jF) | [Rhonda Vincent](https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT) | [Back Home Again](https://open.spotify.com/album/4ilyNd7mmBL3EdkHl6vAc3) | 3:16 |
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56crgoe4TG3.md) - [plain]
 | 112 | [Game of Thrones \(Main Theme\)](https://open.spotify.com/track/58KlChZMUnuITA871NPyls) | [Flatt Lonesome](https://open.spotify.com/artist/5m7v6OS8omwyHvXARri5Zh) | [Game of Thrones \(Main Theme\)](https://open.spotify.com/album/4scGLabYRn5ZGwv7ult8jN) | 5:01 |
 | 113 | [Amsterdam \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/track/2Cyi6ezjKmGuXFrJglqQYl) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Spotify Singles](https://open.spotify.com/album/67t8x1NVVqQDOsUYDc01es) | 3:13 |
 
-Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMDM2ZjU1YmY5ZGVlMTQ0MmJjM2QwMDlmZDBlNDQ1MTMz`
+Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMGIyNTlmNTZlYzg1NjVmMDk5ZDY2MDZjOTRhZjI3NjE2`

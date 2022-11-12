@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIJCwMOQ10E.md) - [plain]
 
 > No hay nada como una Rumba Colombiana\. ¡Hasta el amanecer! Foto: La Mambanegra
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,422 likes - 85 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,464 likes - 85 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIJCwMOQ10E.md) - [plain]
 | 18 | [Olvídala](https://open.spotify.com/track/3QorC3YeHA1zuGHwGCmBja) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [2.000](https://open.spotify.com/album/4CS4Z7cXj4VtuqBsvECU6c) | 5:04 |
 | 19 | [Sombrerito Panameño](https://open.spotify.com/track/2mlE4Nomgi64jt3SEk2UsB) | [Alfredo Gutierrez](https://open.spotify.com/artist/7esYnrPzQX1JWWIyWxYu5A) | [El Champetú](https://open.spotify.com/album/468KqaJgRM77kPj701mx9x) | 3:17 |
 | 20 | [Tres Perlas](https://open.spotify.com/track/3VFxQ09UP5ttUyRRDLG2qB) | [Billo's](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Legendarios](https://open.spotify.com/album/7K1Z4XJhJLPF2tBbrNCtEU) | 3:20 |
-| 21 | [Travesuras](https://open.spotify.com/track/2t7LjWmKWJV1X59zYaCsvy) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Travesuras](https://open.spotify.com/album/0bHiWhnjri1A0PSLEQE0He) | 3:15 |
+| 21 | [Travesuras](https://open.spotify.com/track/1obLCWFaKpz2Q0G751CE3J) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Leones Del Reggaeton](https://open.spotify.com/album/2rc29xg5aPWzW7aphIeNPa) | 3:17 |
 | 22 | [Una Invitación](https://open.spotify.com/track/6zfxJklAcDNE9a5AlssO69) | [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe) | [Desde Mi Ventana](https://open.spotify.com/album/6CbW8IB927ZyoQzG5r4yUV) | 3:22 |
 | 23 | [Ras Tas Tas Full Hd](https://open.spotify.com/track/1hS2YZVC9mptyXp7pbO13Z) | [Cali Flow Latino](https://open.spotify.com/artist/6osZmjgq0xc7VroWgQoRcD) | [Full HD](https://open.spotify.com/album/1Iyffk6V5WgDjMc3SAoSHj) | 4:19 |
 | 24 | [No Te Vayas](https://open.spotify.com/track/587xp1Yt8CAPzbHsAuN5nD) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [No Te Vayas](https://open.spotify.com/album/5LWzkXfz3kWsZ6mAc122X9) | 3:46 |
@@ -42,10 +42,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIJCwMOQ10E.md) - [plain]
 | 32 | [Cartagena](https://open.spotify.com/track/1UGXsiNn0ACf2MXuHXuiJE) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP), [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Cartagena](https://open.spotify.com/album/0KPZ1OkD2EUQpaWVKnnJtM) | 2:54 |
 | 33 | [Amantes](https://open.spotify.com/track/37D2aDSOhZecTyNMKulLpH) | [Elder Dayán Díaz](https://open.spotify.com/artist/0w8jfjckFjwtKLRkX9NT2K), [Rolando Ochoa](https://open.spotify.com/artist/0VWoer2RDTKY4Sr9U93QTJ) | [El Disco Del Año Vol 52.](https://open.spotify.com/album/4MTIw3GvWXfKNj783WqURm) | 3:45 |
 | 34 | [niña bonita binomio de oro vallenato](https://open.spotify.com/track/0LoiirA5aUddQFAjYFpOkn) | [14 vallenatos sabroso corta venas vol.1 exitos](https://open.spotify.com/artist/06KHPOCzkYqiehC5da8hrl) | [14 vallenatos sabroso](https://open.spotify.com/album/0gXmF1WjNrMS7lr2IGvZlc) | 5:10 |
-| 35 | [10 Razones Para Amarte](https://open.spotify.com/track/4chfldJFfWiuuSx1n3mojQ) | [El Gran Martín Elías](https://open.spotify.com/artist/15g2N69hNuvVjSUqa9Entz) | [La Historia Continua](https://open.spotify.com/album/7tOgagliNLN0RTLt0t0ODM) | 5:15 |
+| 35 | [10 Razones para Amarte](https://open.spotify.com/track/7BJ9MUFtFAVs7hC0xkCemM) | [El Gran Martín Elías](https://open.spotify.com/artist/15g2N69hNuvVjSUqa9Entz), [Juancho De La Espriella](https://open.spotify.com/artist/2jyCUmtPh36YRwhuhxzUZ3) | [Vallenatos de Oro, Vol\. 35](https://open.spotify.com/album/09Q1sDpTG4dz9fOadnkLkg) | 5:15 |
 | 36 | [En Barranquilla Me Quedo](https://open.spotify.com/track/3WXfQDsASfXrSojk9WB3aR) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [32 Cañonazos](https://open.spotify.com/album/6ubTK1qVLWQSblspjFxtZn) | 5:12 |
 | 37 | [Pa' Mayte](https://open.spotify.com/track/00gAVWgRJy92PCAHFzVu83) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [La Tierra del Olvido \(005\)](https://open.spotify.com/album/5laSrhYFBn1OxVZKCK2B9Y) | 3:08 |
-| 38 | [Vestirte de Amor \(La Flor\)](https://open.spotify.com/track/5VOJ5LaKmEfIoc08GV0X6V) | [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg), [Manuel Julián](https://open.spotify.com/artist/5N73Yokp47tjesghCSGnNC) | [Vestirte De Amor](https://open.spotify.com/album/520oNxE7dhSllk9YT7vdhy) | 3:54 |
+| 38 | [Vestirte de Amor \(La Flor\)](https://open.spotify.com/track/3Ares4tBiG6AOBtZ11USI6) | [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg), [Manuel Julián](https://open.spotify.com/artist/5N73Yokp47tjesghCSGnNC) | [El Disco del Año, Vol\. 48](https://open.spotify.com/album/691rC4YeVcFlBVUeC0F3mR) | 3:53 |
 | 39 | [Cásate Conmigo](https://open.spotify.com/track/6f4UPdDBQONKJBRqwZGjaJ) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Cásate Conmigo](https://open.spotify.com/album/037f8ym7M1fzMAaWHtHY98) | 3:29 |
 | 40 | [Ven a Medellín](https://open.spotify.com/track/2BoOKq8gU4QNSRkdSLQXYk) | [Grupo Galé](https://open.spotify.com/artist/4152ZUds7gXsqYQexUonDP) | [Afirmando](https://open.spotify.com/album/4YrnCdJtjxxZVMNfCsgHpl) | 5:35 |
 | 41 | [Robarte un Beso](https://open.spotify.com/track/0JcNysfWVWaMS7R6vzGB2k) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [VIVES](https://open.spotify.com/album/57giaIaMyAVCS7jMIaoIgK) | 3:14 |
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIJCwMOQ10E.md) - [plain]
 | 81 | [Talento De Televisión](https://open.spotify.com/track/3fRIuTih8bzc0vtY9fHhvF) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Mis Favoritas](https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c) | 4:39 |
 | 82 | [Parranda en el Cafetal](https://open.spotify.com/track/4t1HrUv6iMdLK6nDpvdMLi) | [Jorge Celedón](https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek) | [Jorge Celedón & Jimmy Zambrano De Lo Nuevo..\. Lo Mejor](https://open.spotify.com/album/6R35eXDADiNHvwcVhsC27D) | 4:12 |
 | 83 | [Materialista \(feat\. Nicky Jam\)](https://open.spotify.com/track/3jqSBJ8I20iUN0Bw8NA5xQ) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Gente Valiente](https://open.spotify.com/album/5kEnDeBQVa1V1YT485bMyF) | 3:11 |
-| 84 | [Pegame Tu Vicio](https://open.spotify.com/track/25ILWrCvXPpkUFU0R7znEv) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Me Enamore](https://open.spotify.com/album/5yhEOwF6bRo08QhTGU9FQC) | 5:00 |
+| 84 | [Pégame Tu Vicio](https://open.spotify.com/track/0DLaQPP83EMpgmbiEuzwM4) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Vida](https://open.spotify.com/album/29eoBGwO0kyHR7Vu5NiyO9) | 5:01 |
 | 85 | [Alguien Me Gusta](https://open.spotify.com/track/4iFTIshL0xDCw8JJUl5AJ3) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2), [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Alguien Me Gusta](https://open.spotify.com/album/79WB96tQV9vPJ920cbneZ9) | 2:48 |
 
-Snapshot ID: `MTY2MDI4MjUwMCwwMDAwMDAwMDA3ZDUxNjczZmUwYjhlMjQwZmU3N2QyOTJiMTMxOWM4`
+Snapshot ID: `MTY2MDI4MjUwMCwwMDAwMDAwMGI4MTIxZDU3NDM2NjU2ODYxMjAzOGE2ZjYzZWMyMzk1`

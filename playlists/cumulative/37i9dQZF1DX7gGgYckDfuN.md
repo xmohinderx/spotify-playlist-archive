@@ -4,7 +4,7 @@
 
 > Enjoy Music From "JoJo's Bizarre Adventure" series! ジョジョの歴代関連楽曲が一堂に会した公式プレイリスト！©LUCKY LAND COMMUNICATIONS/集英社・ジョジョの奇妙な冒険SO製作委員会
 
-47 songs - 2 hr 59 min - [published](https://open.spotify.com/playlist/6W9eKvKU0htzkWgBSPnfMr)
+48 songs - 3 hr 7 min - [published](https://open.spotify.com/playlist/6W9eKvKU0htzkWgBSPnfMr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [Last Train Home](https://open.spotify.com/track/2O7heTmxheKOe1T0jNBPd1) | [Pat Metheny Group](https://open.spotify.com/artist/4uBSazM6snEc9wCG3jMlYt) | [Still Life \(Talking\)](https://open.spotify.com/album/5YnUbwAzrorRuvSJ0sCj7n) | 5:38 | 2021-12-09 |  |
 | [Miraiheno Isan \-Jonathan's Ballad\-](https://open.spotify.com/track/7zwA5jezcEzenC1UorhZQy) | [Hiroaki Tommy Tominaga](https://open.spotify.com/artist/3Pp8OVTOM4HoXf7Vysq2dZ) | [JOJO'S BIZARRE ADVENTURE \-The anthology songs 1](https://open.spotify.com/album/48MMqSMizzqodUM71W2Dux) | 6:44 | 2021-12-09 |  |
 | [Modern Crusaders](https://open.spotify.com/track/65fqcmj2M1EiERwDoIflDt) | [Enigma](https://open.spotify.com/artist/3DmG65yHQsMms7WAvrZOdt) | [The Screen Behind The Mirror](https://open.spotify.com/album/7DYEllaK5Cxa2cbcCF1QDV) | 3:50 | 2021-12-09 |  |
-| [Roundabout \- 2003 Remaster](https://open.spotify.com/track/0YveezON7jpiaHA8fnUHxN) | [Yes](https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil) | [Fragile \(Deluxe Edition\)](https://open.spotify.com/album/0dZF93WHyOhTWjz5EWM7yG) | 8:30 | 2021-12-09 |  |
+| [Roundabout](https://open.spotify.com/track/6KIFja6dizWkI7IpY0vmr8) | [Yes](https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil) | [Ultimate Yes: 35th Anniversary Collection](https://open.spotify.com/album/37GBIGYhZlXUZA0NZ4ifHl) | 8:32 | 2021-12-09 |  |
+| [Roundabout \- 2003 Remaster](https://open.spotify.com/track/0YveezON7jpiaHA8fnUHxN) | [Yes](https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil) | [Fragile \(Deluxe Edition\)](https://open.spotify.com/album/0dZF93WHyOhTWjz5EWM7yG) | 8:30 | 2021-12-09 | 2022-11-12 |
 | [STAND PROUD](https://open.spotify.com/track/3OqPSJsqe4LvcaVl7G6vV3) | [Jin Hashimoto](https://open.spotify.com/artist/01djLeQ0nZvRhEPjn5Wdw0) | [STAND PROUD](https://open.spotify.com/album/4p5qdQrjYGuVwakXJ1hB4k) | 4:38 | 2021-12-09 |  |
 | [STAND PROUD \- Dramatic Ver.](https://open.spotify.com/track/1Rd9BnPgT6eRLwsvfUZauD) | [Jin Hashimoto](https://open.spotify.com/artist/01djLeQ0nZvRhEPjn5Wdw0) | [JOJO'S BIZARRE ADVENTURE \-The anthology songs 3](https://open.spotify.com/album/5MGmqY04cQTY3YUQpRp9EE) | 5:09 | 2021-12-09 |  |
 | [Star Platinum](https://open.spotify.com/track/34CDBlgjypWjh6oYCSujNk) | [Jin Hashimoto](https://open.spotify.com/artist/01djLeQ0nZvRhEPjn5Wdw0) | [JOJO'S BIZARRE ADVENTURE \-The anthology songs 3](https://open.spotify.com/album/5MGmqY04cQTY3YUQpRp9EE) | 4:10 | 2021-12-09 |  |

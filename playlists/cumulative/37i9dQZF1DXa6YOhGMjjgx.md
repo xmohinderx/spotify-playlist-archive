@@ -4,7 +4,7 @@
 
 > This is the best of today's true alternative rock scene.
 
-225 songs - 13 hr 10 min - [published](https://open.spotify.com/playlist/0f6jgqJwAht9fZKpu62uCO)
+227 songs - 13 hr 17 min - [published](https://open.spotify.com/playlist/0f6jgqJwAht9fZKpu62uCO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,8 +68,9 @@
 | [Double Down \- 2019 Mix](https://open.spotify.com/track/6sxtXvoNeOnavXqlIceWch) | [Slothrust](https://open.spotify.com/artist/6Nwhmo3adbTqPMCsgBgkf4) | [Double Down](https://open.spotify.com/album/1oUmvbtZKZZDWruIy5DdZ8) | 3:10 | 2021-03-31 |  |
 | [Earth Is A Black Hole](https://open.spotify.com/track/7eaEaXAiGR3i3LUJUDRRXc) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Earth Is A Black Hole](https://open.spotify.com/album/2oRaxJoPECqRRpQ9PK2UVA) | 2:55 | 2021-03-31 |  |
 | [Enter Entirely](https://open.spotify.com/track/5b9PdT1iD3rKYkhlIPRCy8) | [Cloud Nothings](https://open.spotify.com/artist/6rnbB5fuUuCSsspvFsxIpT) | [Life Without Sound](https://open.spotify.com/album/4xT80zh4DhVGVdc3QTObav) | 4:58 | 2021-03-31 | 2022-01-15 |
-| [Euphoria](https://open.spotify.com/track/1cuGoxBr2nnJnGqmzwTqGQ) | [Angels & Airwaves](https://open.spotify.com/artist/7xklw3WodFZiNNmQt3DIgp) | [Timebomb](https://open.spotify.com/album/2HlChoGn7eimoJ5YtJ2uJR) | 4:24 | 2022-04-29 |  |
+| [Euphoria](https://open.spotify.com/track/1cuGoxBr2nnJnGqmzwTqGQ) | [Angels & Airwaves](https://open.spotify.com/artist/7xklw3WodFZiNNmQt3DIgp) | [Timebomb](https://open.spotify.com/album/2HlChoGn7eimoJ5YtJ2uJR) | 4:24 | 2022-04-29 | 2022-11-12 |
 | [Euphoria](https://open.spotify.com/track/20g6mjmuL2V8bHTx5MTubE) | [Angels & Airwaves](https://open.spotify.com/artist/7xklw3WodFZiNNmQt3DIgp) | [Euphoria](https://open.spotify.com/album/1jslok7INBkcqKIei9zfPF) | 4:24 | 2021-05-21 | 2022-07-29 |
+| [Euphoria](https://open.spotify.com/track/6jnDRGCEEb9i1M37kHJJSd) | [Angels & Airwaves](https://open.spotify.com/artist/7xklw3WodFZiNNmQt3DIgp) | [Lifeforms](https://open.spotify.com/album/268dFUW4rd5jZMdNcFp146) | 4:24 | 2022-04-29 |  |
 | [Everything's Electric](https://open.spotify.com/track/63JU4kHsgytIKkSM4tedme) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [Everything's Electric](https://open.spotify.com/album/2Dqayfhl6Eow6nsHBXTXM3) | 3:36 | 2022-02-04 |  |
 | [Fallout](https://open.spotify.com/track/0J4mhjqMTQjtdDDp92lZl5) | [Daphne's Couch](https://open.spotify.com/artist/43eTFAcU2TFqZGJWjOyqCq) | [Fallout](https://open.spotify.com/album/4aJg7v8OFeEidai6W5yUJ4) | 2:46 | 2022-01-14 |  |
 | [Far From Home](https://open.spotify.com/track/6zNL4rD2KOZFt83JlmrXLu) | [Bexley](https://open.spotify.com/artist/4svqYIReyb53k0Kaxun76R) | [Far From Home](https://open.spotify.com/album/3saPJWzfPRsvjqj2g7JwRU) | 3:47 | 2021-09-17 | 2022-01-15 |
@@ -166,6 +167,7 @@
 | [One True Prince](https://open.spotify.com/track/5wnITloAfJ33x0m1R0sQwF) | [DON BROCO](https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia) | [One True Prince](https://open.spotify.com/album/4PzJRdK8unANl6KqYrFjv1) | 3:58 | 2021-08-13 | 2022-07-29 |
 | [Oxygen Thief](https://open.spotify.com/track/59lsHvsyh49rejXU31xY2s) | [The Luka State](https://open.spotify.com/artist/6DaXEbr3LdLNcui8pZf6AF) | [Oxygen Thief](https://open.spotify.com/album/3HIalBoWd1Rx8a01MhuBhS) | 2:56 | 2022-01-21 |  |
 | [Pillar On The Bridge Of You](https://open.spotify.com/track/3quyci0xdEjIRQBusVGDL2) | [BODEGA](https://open.spotify.com/artist/3lnWfdMG9U0oVMC15SEbB5) | [Pillar On The Bridge Of You](https://open.spotify.com/album/2FdeUBg9yKyD9910MoqoO8) | 3:17 | 2022-04-29 | 2022-11-09 |
+| [Pillar on the Bridge of You](https://open.spotify.com/track/3xLmKij70Eq5j5MsLCFYLt) | [BODEGA](https://open.spotify.com/artist/3lnWfdMG9U0oVMC15SEbB5) | [Broken Equipment](https://open.spotify.com/album/7cQv9A3WQqO4qclDdN2gRB) | 3:17 | 2022-04-29 |  |
 | [Polaroid](https://open.spotify.com/track/0qOrLJBeP52NTMnNzawvLo) | [The Pale White](https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0) | [Polaroid](https://open.spotify.com/album/7tmozRPFTkoGGC8dr7BtcB) | 3:17 | 2021-03-31 | 2022-03-01 |
 | [Pollen](https://open.spotify.com/track/16u39sZAP2UXg9DGU56ZNm) | [Superbloom](https://open.spotify.com/artist/3xdggitmc1vFAChxAwhIIL) | [Pollen \(Single Version\)](https://open.spotify.com/album/4jv8W25FJ0jT9x1uCSZ4Ny) | 3:32 | 2021-05-21 | 2022-07-29 |
 | [Public Enemy](https://open.spotify.com/track/6CSTSByUvQyYIlGStzM3Qd) | [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38) | [Public Enemy](https://open.spotify.com/album/6gWVDCeNynphJ6MIxZRgiN) | 2:29 | 2021-05-21 | 2022-02-23 |
@@ -174,7 +176,7 @@
 | [Robot Writes A Love Song](https://open.spotify.com/track/2IL6235nJxKiKsBQykUk2M) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [Robot Writes A Love Song](https://open.spotify.com/album/3eKWW3j4U5H4XiR1JDH351) | 3:36 | 2022-01-21 | 2022-07-29 |
 | [Robot Writes A Love Song](https://open.spotify.com/track/3JKFWrIPoTGasqvrAn3u3D) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [THE UNRAVELING OF PUPTHEBAND](https://open.spotify.com/album/2bRpK0BpzYUQZYIzri35n6) | 3:36 | 2022-04-29 |  |
 | [Rockstar](https://open.spotify.com/track/220FuxHU2wcLLqUNRDglzm) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Rockstar](https://open.spotify.com/album/10kinVEnlFkRub41F304V7) | 3:09 | 2022-02-28 | 2022-07-29 |
-| [Rockstar](https://open.spotify.com/track/5KYMIVT5vYyeI0OP97nS0Y) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Household Name](https://open.spotify.com/album/19trggALcFlGFsJDUiyVYn) | 3:09 | 2022-04-29 |  |
+| [Rockstar](https://open.spotify.com/track/5KYMIVT5vYyeI0OP97nS0Y) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Household Name](https://open.spotify.com/album/19trggALcFlGFsJDUiyVYn) | 3:09 | 2022-04-29 | 2022-11-12 |
 | [Running Up That Hill](https://open.spotify.com/track/7zLeOgBrdrCfMf47MCyLMC) | [Meg Myers](https://open.spotify.com/artist/0W8xe7IqAPlnBRMUpWOUuJ) | [Running Up That Hill](https://open.spotify.com/album/7a0mQ4UEg2hTop49LkmNuq) | 4:23 | 2021-03-31 |  |
 | [Save It For The Weekend](https://open.spotify.com/track/4ja8f7cLqln77RZscRaMqI) | [Skegss](https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a) | [Save It For The Weekend](https://open.spotify.com/album/0qA94rO22Y4N3tsvzEcq3F) | 3:01 | 2021-03-31 | 2022-01-15 |
 | [Save Me](https://open.spotify.com/track/0T7qIJqGElHJzaGvvZ7t9z) | [Eliza & The Delusionals](https://open.spotify.com/artist/5XOV5b7cxUgB9PcoLBn69l) | [Save Me](https://open.spotify.com/album/2lBm3SmDXPY6ybRqXZjr2R) | 3:23 | 2021-07-23 | 2022-07-29 |

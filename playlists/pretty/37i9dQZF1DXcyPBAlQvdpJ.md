@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcyPBAlQvdpJ.md) - [plain]
 
 > Enjoy the hottest <a href="spotify:genre:funkbrazil">Brazilian Funk</a>\. Lo mejor del <a href="spotify:genre:funkbrazil">Funk de Brasil </a>! Cover: Mc Kevin O Chris
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,755 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,819 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcyPBAlQvdpJ.md) - [plain]
 | 36 | [Se Eu Tiver Solteiro](https://open.spotify.com/track/2qbeAdBSEyCAHnhy5nNksF) | [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL) | [Se Eu Tiver Solteiro](https://open.spotify.com/album/5qIzZEdwb2LKLON2PqCsbX) | 2:49 |
 | 37 | [Pode Se Soltar](https://open.spotify.com/track/3Je8dS5oCCvNNC4xBrrYpX) | [Jerry Smith](https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk) | [Pode Se Soltar](https://open.spotify.com/album/6epG2Rr6xc15ekjPDFt4YX) | 3:00 |
 | 38 | [Aquecimento das Potrancas](https://open.spotify.com/track/6852SvDaaCioBsZM6mYnqi) | [MC WM](https://open.spotify.com/artist/14D0I0RYqvIorkPL2EWoQh), [MC's Jhowzinho & Kadinho](https://open.spotify.com/artist/2Q4r4Epfaaho06ONTHx7OS) | [Nós É Pika](https://open.spotify.com/album/3v7t9wU4nH8yvKoYwP0RQn) | 3:09 |
-| 39 | [Qual Bumbum Mais Bate](https://open.spotify.com/track/1dcKjcmJvaoUaYhqFKzzfF) | [MC WM](https://open.spotify.com/artist/14D0I0RYqvIorkPL2EWoQh), [Os Cretinos](https://open.spotify.com/artist/64TmPY6gR7164wIueE4vo0) | [Nós É Pika](https://open.spotify.com/album/3v7t9wU4nH8yvKoYwP0RQn) | 2:42 |
+| 39 | [Qual Bumbum Mais Bate](https://open.spotify.com/track/6A2y7od28bMgGgFiH0tP0E) | [Os Cretinos](https://open.spotify.com/artist/64TmPY6gR7164wIueE4vo0) | [Elas Balançam](https://open.spotify.com/album/5sp7mAvOY1pqvVX6IszpI5) | 2:44 |
 | 40 | [Troféu do Ano](https://open.spotify.com/track/4MdifWtRdG2iHCMSzbA7nA) | [Jerry Smith](https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk), [Mc Nando Dk](https://open.spotify.com/artist/3lX6w0gmtgVeijiFxNz5O7), [DJ Cassula](https://open.spotify.com/artist/4jthJGVVXY7PUVXUvI56Ny) | [Troféu do Ano](https://open.spotify.com/album/3BQgCMCYcRf9t3V2nfBWgw) | 3:09 |
 | 41 | [Cheia de Marra](https://open.spotify.com/track/4k1IrLxPtGF2qdSSFV5Ghw) | [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3) | [Cheia de Marra](https://open.spotify.com/album/4GEYyoMWwYRKeEUU6x6ZS4) | 4:27 |
 | 42 | [Cara Bacana](https://open.spotify.com/track/1RljKrmC3uVtuP8w0RW2xk) | [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6) | [Cara Bacana](https://open.spotify.com/album/1pFMw5CYSVB0mw9PzwBAUX) | 3:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcyPBAlQvdpJ.md) - [plain]
 | 49 | [Os Muleke É Liso](https://open.spotify.com/track/6OmKF6WW3eQtZzGQ4hDSOX) | [MC Rodolfinho](https://open.spotify.com/artist/4885EF8HYSK3OyCRe7yZIp) | [Os Muleke É Liso](https://open.spotify.com/album/4H8m7WqTAjfVBTcw7qgBDp) | 3:52 |
 | 50 | [Rap glamurosa](https://open.spotify.com/track/1ZBQQBBe5WFMoLuqMcqc2e) | [MC Marcinho](https://open.spotify.com/artist/3ZJCmnY5iUo1M0UFFWDXGf) | [Rio super funk](https://open.spotify.com/album/2VCuQPMRUIAMZUVWGIr6ki) | 3:29 |
 
-Snapshot ID: `MTU5MDE2MzQ3OCwwMDAwMDAwMDI1YmI1OGFmY2Q2MDExODQ3YmVmZDQ1NmU2MzFhNWY0`
+Snapshot ID: `MTU5MDE2MzQ3OCwwMDAwMDAwMDE4NWNmZjgwYzY2OWJiZTE5ZTc5YjgyODM2NDQwNWMy`

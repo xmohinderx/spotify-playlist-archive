@@ -4,7 +4,7 @@
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-5,112 songs - 11 day 2 hr 54 min - [published](https://open.spotify.com/playlist/0S2JKhYsYyye2uwGKkbi05)
+5,115 songs - 11 day 3 hr 1 min - [published](https://open.spotify.com/playlist/0S2JKhYsYyye2uwGKkbi05)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -446,6 +446,7 @@
 | [Beautifully Strange](https://open.spotify.com/track/6o9vl2L7FrfTkqzBAYnMkf) | [Ely Eira](https://open.spotify.com/artist/5IdqmiFiHkfWGSQcjdz41u) | [The Legend of Ely: Prologue](https://open.spotify.com/album/4PC69KtUJn4Wcl9N3DZPpv) | 3:47 | 2022-04-28 | 2022-05-06 |
 | [Beauty & The Joke](https://open.spotify.com/track/5tWPZAASR4mzKaq9WbaKtc) | [Alexander Oscar](https://open.spotify.com/artist/7ypOZKaKGrCf3V6pOuaXiM) | [Beauty & The Joke](https://open.spotify.com/album/7pQ7KyqNMBQ7UimaxFv0nR) | 2:28 | 2022-05-19 | 2022-05-27 |
 | [because i liked a boy](https://open.spotify.com/track/32FhTAAjKZaBein150o3Px) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 3:16 | 2022-07-14 | 2022-07-22 |
+| [BECHO BEGRE](https://open.spotify.com/track/6l5LhH5mYorMq6Hl5Erqeg) | [Kayye](https://open.spotify.com/artist/6jhWtuoDN6F5xFrEBLpobu) | [BECHO BEGRE](https://open.spotify.com/album/77UpCbMFUrzhsb6FkLHK2O) | 2:14 | 2022-11-11 |  |
 | [Becky's Plan](https://open.spotify.com/track/427JUJckVwkdx0susZPzjh) | [CODY JON](https://open.spotify.com/artist/5xYvg2nZQcavaPwYOcOYRD) | [Becky's Plan](https://open.spotify.com/album/0xqb3ud21ynwqavfw3vPSf) | 3:05 | 2022-03-17 | 2022-03-25 |
 | [Becky’s So Hot](https://open.spotify.com/track/6ehrvwZ8JHaLahNRpDGlkD) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Becky’s So Hot](https://open.spotify.com/album/1hL17hGKMW1UqEAvCX4wpE) | 2:42 | 2022-07-21 | 2022-07-29 |
 | [Bed \(with KSHMR\)](https://open.spotify.com/track/0pSXNXGW3vgPEaNFgpqV4m) | [Henri PFR](https://open.spotify.com/artist/6n9XmMc3mX18mrTHYOCPIq), [ROZES](https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA), [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe) | [Bed \(with KSHMR\)](https://open.spotify.com/album/2EXPBbrWHILHbqVSZzzO9N) | 2:43 | 2022-05-19 | 2022-05-27 |
@@ -2921,6 +2922,7 @@
 | [Mi Casa Su Casa](https://open.spotify.com/track/51pAFNizCJwXgq1fdJuefB) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd) | [Mi Casa Su Casa](https://open.spotify.com/album/46tHWttwUzB9VRRtTKIUKQ) | 2:24 | 2022-01-06 | 2022-01-14 |
 | [Mi Todo](https://open.spotify.com/track/2sUEH4jMnwudAXCGiY5gzg) | [Luc1ano](https://open.spotify.com/artist/5FrvaIrf2vik2rktPWOrsN) | [Mi Todo](https://open.spotify.com/album/0Vj5yHw9PlvkquKVMCGgy6) | 2:29 | 2022-07-14 | 2022-07-22 |
 | [Michael](https://open.spotify.com/track/5niZJWbyibvP1huOd2XUde) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Michael](https://open.spotify.com/album/12uiCiql0IX6dT6yMXEwGq) | 2:45 | 2022-05-12 | 2022-05-20 |
+| [Michael & Quincy](https://open.spotify.com/track/5MfCvL6jCTkxPCBQf3OkYH) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [King's Disease III](https://open.spotify.com/album/3vQuGKQJMfdXmkjRKqUesk) | 2:47 | 2022-11-11 |  |
 | [MICHAEL MYERS](https://open.spotify.com/track/14goAYLKd6KxmEWpUoybqR) | [KD](https://open.spotify.com/artist/7iLbRJb6dj3iKikgCmapXn) | [MICHAEL MYERS](https://open.spotify.com/album/1nrkOooFIZSlAFsrBaWBoZ) | 2:43 | 2022-10-20 | 2022-10-28 |
 | [Michael Myers](https://open.spotify.com/track/1lfZHJvOACgkH2ErrMjc9G) | [Z.E](https://open.spotify.com/artist/3PtEOX0PJSh7ndOL4tP0NR) | [Michael Myers](https://open.spotify.com/album/73Rhi1qW9fhKgYi7Tnf3AE) | 2:16 | 2022-10-20 | 2022-10-28 |
 | [Middle Of A Breakup](https://open.spotify.com/track/1i6CPLccaipwpW7vqyU6q8) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Middle Of A Breakup](https://open.spotify.com/album/47bNR5XCEgz2RlE2Rx28Si) | 3:20 | 2022-07-21 | 2022-07-29 |
@@ -5039,6 +5041,7 @@
 | [WTF Happened Last Night](https://open.spotify.com/track/1aTPeXpCL5vJ7NbXzuOw48) | [Chandler Leighton](https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C) | [WTF Happened Last Night](https://open.spotify.com/album/5aTso3hPLzcxWL9llT7wB2) | 3:25 | 2022-08-12 | 2022-08-19 |
 | [WTSGD \(with Alessia Cara\)](https://open.spotify.com/track/2JerYQPEZWTiTEIFgfUEoV) | [CLAY](https://open.spotify.com/artist/20aPu5vizjmoX2A7f7AOWL), [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [WTSGD \(with Alessia Cara\)](https://open.spotify.com/album/4VkgVNf0yIMLkwfls1J83u) | 4:04 | 2022-03-03 | 2022-03-11 |
 | [Wu Hu](https://open.spotify.com/track/7xCokcCIRhZnKGESfC5L6A) | [Browsing Collection](https://open.spotify.com/artist/4ryoVY6Gmwve1PXyNtbDSC) | [Wu Hu](https://open.spotify.com/album/035FNdDAR2DnocuWChRmjR) | 2:39 | 2022-06-23 | 2022-07-01 |
+| [WYL](https://open.spotify.com/track/7mkiUW1z79Hpg2QtSs1J1u) | [Thrife](https://open.spotify.com/artist/6iNTGd6T0cxg1H8IIaZTlt) | [WYL](https://open.spotify.com/album/6s2vPgjP50wMj71WeUb7OV) | 2:32 | 2022-11-11 |  |
 | [X](https://open.spotify.com/track/3Tp6XRivI85TAfpgja9ILh) | [Miss Li](https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7) | [X](https://open.spotify.com/album/7EH7nvTbjaBd79TeW08awR) | 2:41 | 2022-03-17 | 2022-03-25 |
 | [Xatar](https://open.spotify.com/track/5MDEk3mfOcZs4BRgalCqyC) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [Selfmade \(Deluxe\)](https://open.spotify.com/album/1c3QSPsycCCADNQZopSJIV) | 2:04 | 2022-08-18 | 2022-08-26 |
 | [Y'all Means All \- from Season 6 of Queer Eye](https://open.spotify.com/track/0gWFFtKm8PaAJdpkajFlD1) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Y'all Means All \(from Season 6 of Queer Eye\)](https://open.spotify.com/album/5erJBPynDfaVs7es8K1kJ9) | 2:36 | 2021-12-30 | 2022-01-07 |

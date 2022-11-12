@@ -4,7 +4,7 @@
 
 > The R&B and good vibe tracks for your current mood\. Cover: Larissa Lambert
 
-244 songs - 13 hr 24 min - [published](https://open.spotify.com/playlist/26MnmTp5Ay0CeKf3X2PBvn)
+245 songs - 13 hr 27 min - [published](https://open.spotify.com/playlist/26MnmTp5Ay0CeKf3X2PBvn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Better](https://open.spotify.com/track/5z2hntBNASWRvUGP8BQng6) | [Jess Connelly](https://open.spotify.com/artist/1XC87A3NVlw6xDW1kIB5FN) | [Better](https://open.spotify.com/album/0fskcpyw9TKwovHPx6O0sr) | 3:14 | 2022-06-16 |  |
 | [Bloom](https://open.spotify.com/track/7IElhPx2i4MjnVgzOZVqrB) | [CHAI](https://open.spotify.com/artist/0zNxCxEjUGAsb6ygZd27fC) | [Bloom](https://open.spotify.com/album/1IXM5QxiYDAd4BwCUxOg95) | 3:24 | 2022-06-16 | 2022-06-24 |
 | [Blue mood](https://open.spotify.com/track/6xGDC4fXG9luyGcEKognnT) | [entoy](https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj), [suru](https://open.spotify.com/artist/2yXGQV7YrtoaLyJsxTqUNe) | [Lost Mood](https://open.spotify.com/album/0r5N2nH1VGrbYYp5wkERkh) | 2:39 | 2022-09-08 |  |
+| [Body Language](https://open.spotify.com/track/7ChkQmb0PDbfTHI9oOPOlh) | [Jess Connelly](https://open.spotify.com/artist/1XC87A3NVlw6xDW1kIB5FN) | [Bittersweet](https://open.spotify.com/album/35TjHF0WpwF49jciFC6Tgi) | 2:36 | 2022-11-10 |  |
 | [boyfriend material](https://open.spotify.com/track/4Ef7cEjeHhh7vYBzmPq4oE) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [to be honest](https://open.spotify.com/album/0qRlwYQIRtsqmQsRFYqOVi) | 2:30 | 2022-06-08 |  |
 | [Breathe](https://open.spotify.com/track/0Ap3cJ4QMTgqhXDzH2zd5d) | [Charmaine Koh](https://open.spotify.com/artist/4AXM9QrBp5qGABjIQVPBQI) | [Sunflower at Sundown](https://open.spotify.com/album/0ZlZoBp9Bs9EZ1YJ2zpk59) | 3:34 | 2022-09-01 | 2022-10-21 |
 | [Breathe Again](https://open.spotify.com/track/050HadXOtx4AfRyfYEUbps) | [Brian McKnight Jr.](https://open.spotify.com/artist/3kMMoBYpbDgdN3zvQedA8U), [DJ Pleez](https://open.spotify.com/artist/711Uw5ILEMtAN0NsX6oAtF) | [Breathe Again](https://open.spotify.com/album/4t2pdB420j51tZQd7tbV76) | 3:14 | 2022-09-22 |  |
@@ -227,7 +228,7 @@
 | [Tough Love \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/5qidBQqsjdwewlQaw16o3L) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Good Morning Gorgeous \(Deluxe\)](https://open.spotify.com/album/5K3aBzXwBvSltrtfBNYRl6) | 4:33 | 2022-06-08 | 2022-06-10 |
 | [Tread Carefully](https://open.spotify.com/track/7newfXclX39UwWTw2gDswM) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl \(Deluxe\)](https://open.spotify.com/album/6FKP2O0oOvZlDkF0gyTjiJ) | 3:02 | 2022-06-09 | 2022-06-24 |
 | [Trust](https://open.spotify.com/track/6YecmNnABghHDPTNlG3md5) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Trust](https://open.spotify.com/album/4R536rrBEQjh7g1MrhasoS) | 2:45 | 2022-10-07 | 2022-10-29 |
-| [Trust the Change](https://open.spotify.com/track/5dP49R640BUhgm94Q2jcwR) | [Snowk](https://open.spotify.com/artist/2IEDOKhzkk1EKk93fZ759r), [J.Lamotta](https://open.spotify.com/artist/76O0DRobXGao078KT0xci8) | [Trust the change](https://open.spotify.com/album/26RHkcqDWEtACz7jzUERXu) | 3:21 | 2022-10-13 |  |
+| [Trust the Change](https://open.spotify.com/track/5dP49R640BUhgm94Q2jcwR) | [Snowk](https://open.spotify.com/artist/2IEDOKhzkk1EKk93fZ759r), [J.Lamotta Suzume](https://open.spotify.com/artist/76O0DRobXGao078KT0xci8) | [Trust the change](https://open.spotify.com/album/26RHkcqDWEtACz7jzUERXu) | 3:21 | 2022-10-13 |  |
 | [u & i](https://open.spotify.com/track/3SOaGw8GfOkOj3Ov2D4VbQ) | [James Reid](https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH), [CARELESS](https://open.spotify.com/artist/6ZPADYpgSS0VwqZPJeX54p) | [u & i](https://open.spotify.com/album/3zXkOuXhjixpnmlavumXDh) | 3:03 | 2022-09-29 | 2022-10-08 |
 | [Understand](https://open.spotify.com/track/1R3S9HZQP9jJjodyD4BtMe) | [Chara Kai\-Le](https://open.spotify.com/artist/0S6PVCIrYIIr2nmdaVTg3n) | [Understand](https://open.spotify.com/album/4YUBwu5YknZvRrBqhYCT1J) | 3:37 | 2022-06-30 | 2022-10-21 |
 | [up at night \(feat\. justin bieber\)](https://open.spotify.com/track/4WghJOMjDpGdlk3b8aJIgy) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [up at night \(feat\. justin bieber\)](https://open.spotify.com/album/3vnJxSrVldmInhRwtcUG89) | 3:02 | 2022-06-08 | 2022-09-30 |

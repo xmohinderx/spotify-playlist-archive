@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Vpt0fhumU1.md) - [plain]
 
 > Soak up the spirit of Spain with a taste of these traditional flamenco and folk tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,139 likes - 51 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,262 likes - 51 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,15 +43,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Vpt0fhumU1.md) - [plain]
 | 33 | [La Rondena](https://open.spotify.com/track/4DiO8HRkbamEcXNn0uprKU) | [Danza Fuego](https://open.spotify.com/artist/48bWbzfBH3pdeDark30gJ4) | [Flamenco Fuego](https://open.spotify.com/album/0GhSMpmxwC9fCFLhtg9ZRh) | 6:46 |
 | 34 | [Tres Amores](https://open.spotify.com/track/7DpDb8R3OxTr3FaiKwhYKB) | [Julian Vigil](https://open.spotify.com/artist/37iIAObpTKbDOZ9BjSrmMv) | [Tres Amores](https://open.spotify.com/album/01HM86e0bYj6oqXdCJ03AN) | 2:25 |
 | 35 | [En Memoria a Federico](https://open.spotify.com/track/5flkDyefFtVmYqYhidHsOq) | [Danza Fuego](https://open.spotify.com/artist/48bWbzfBH3pdeDark30gJ4) | [Flamenco Andalucía](https://open.spotify.com/album/2eJahO4Ks4kkchZpUPBL8D) | 3:42 |
-| 36 | [Creo](https://open.spotify.com/track/3xLI0IZFsFPa2M18rOIPSV) | [La Jose](https://open.spotify.com/artist/55o2GKmozOaWhYDBaFBPC2) | [Espiral](https://open.spotify.com/album/0ChzWpUTTbq6PRut9pQdSI) | 3:41 |
+| 36 | [Creo](https://open.spotify.com/track/13JyTmrmvmcu7kmehSQ0KV) | [La Jose](https://open.spotify.com/artist/55o2GKmozOaWhYDBaFBPC2) | [Espiral](https://open.spotify.com/album/67Ory8eCmGeGNUA3j0wvpd) | 3:38 |
 | 37 | [Entre Dos Aguas](https://open.spotify.com/track/1VvRKrSSsTBctlbilgKHmm) | [Paco de Lucía](https://open.spotify.com/artist/3h8OjAdgYXVRoMZ8jFd6Uw) | [El Flamenco es..\. Paco De Lucia](https://open.spotify.com/album/4EtA69YGY0HJdIluqGUKGP) | 6:02 |
 | 38 | [Cancion de la Luna](https://open.spotify.com/track/22jn5snbSZJsEamjIogEEH) | [Grupo Elias Duran](https://open.spotify.com/artist/34MmLK8qhpf5Q0BfxXs7UR) | [Spanish Tapas Bar, Vol\. 2](https://open.spotify.com/album/67rNWYVgI01pHZ80vFfVFs) | 2:57 |
 | 39 | [Salobre](https://open.spotify.com/track/3LEPJoznozSSiHQXSn8UAT) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Paco Peña](https://open.spotify.com/artist/4OYPdvtRCWaLVmUrm1eiTa) | [Azahara](https://open.spotify.com/album/7woAczJxgzS1fiARwlCp96) | 5:09 |
-| 40 | [Bulerías de Jerez](https://open.spotify.com/track/6WuYlzvZsSSeldas0MgH56) | [Jesús Méndez](https://open.spotify.com/artist/6LMLp1gpyFAI4Sc6NkgPqB) | [Voz del Alba](https://open.spotify.com/album/3JGbQd6AttYZuvkl1GdGxt) | 4:24 |
+| 40 | [Bulerías de Jerez](https://open.spotify.com/track/4FPOEn0Cw8cmEu4sxo7uRI) | [Jesús Méndez](https://open.spotify.com/artist/6LMLp1gpyFAI4Sc6NkgPqB) | [Voz del Alba](https://open.spotify.com/album/68aC5vlZj8hH3BjgiZgLn6) | 4:24 |
 | 41 | [Gypsy Flame](https://open.spotify.com/track/1VQwO0EPtJViDEsqLpsnV1) | [Armik](https://open.spotify.com/artist/2Z8XcWdgy5dSaiQR3d7tHK) | [Gypsy Flame](https://open.spotify.com/album/1o7kL55w6IvIGz4mfWJjfu) | 4:53 |
 | 42 | [Barcelona Nights](https://open.spotify.com/track/2rJY1HlLcOXsQYMPUnhQxa) | [Ottmar Liebert](https://open.spotify.com/artist/1AhYnfs5mzb3ennyLFXlYD) | [Barcelona Nights: The Best Of Ottmar Liebert Volume One](https://open.spotify.com/album/0o91xvgRJz0ZLb5cCPzFo8) | 4:06 |
 | 43 | [The Flavor](https://open.spotify.com/track/3oxqugZiGg6uIzY4beGaCx) | [Oscar Lopez](https://open.spotify.com/artist/3ELktghnE5zeabnHdNycyh) | [Seduction](https://open.spotify.com/album/7n9XvIP2pVI53sbdEvbaTX) | 4:00 |
-| 44 | [Yerba buena](https://open.spotify.com/track/2ytD1he4cklb86ZbY6Bnra) | [Rafa El Tachuela](https://open.spotify.com/artist/1VPNobfvjhHDuXbyJyynTk), [Pablo Carcamo](https://open.spotify.com/artist/6Nxv0zr9DVeusjZpewzriS), [La Moraima](https://open.spotify.com/artist/4DyCHXN1RPYrHRAYDyce0z), [Hossam Ramzy](https://open.spotify.com/artist/1f52NJ98E9Pz2hJQ8oe4sD) | [Flamenco](https://open.spotify.com/album/1dWXg3wCJRWfpG5D4Z44m0) | 4:15 |
+| 44 | [Yerba buena](https://open.spotify.com/track/0fY29wb0ejG5LEXw6StNGC) | [Rafa El Tachuela](https://open.spotify.com/artist/1VPNobfvjhHDuXbyJyynTk), [Pablo Carcamo](https://open.spotify.com/artist/6Nxv0zr9DVeusjZpewzriS), [La Moraima](https://open.spotify.com/artist/4DyCHXN1RPYrHRAYDyce0z), [Hossam Ramzy](https://open.spotify.com/artist/1f52NJ98E9Pz2hJQ8oe4sD) | [Best of Flamenco](https://open.spotify.com/album/2B0L8ZdN9CoYJXjvcWnRfB) | 4:15 |
 | 45 | [Jardin](https://open.spotify.com/track/1tlV5fKrV7aojTanUs3ahZ) | [Strunz & Farah](https://open.spotify.com/artist/2Vr1fub6eNIztdUNeFPvJj) | [Heat of the Sun](https://open.spotify.com/album/3VfS4TjmlMevQ2GNPSjS6k) | 4:33 |
 | 46 | [La Galleguita \(Alex Fox\)](https://open.spotify.com/track/5xA18rxmeheOcwI6Df6lBG) | [Creol](https://open.spotify.com/artist/4qAhA0go0zXBxDIfo7mWT3) | [Latin Guitar, Creol \- Acoustic Guitar](https://open.spotify.com/album/3mHceGmx6av5rNkzFwhfu6) | 3:24 |
 | 47 | [Samba Delight](https://open.spotify.com/track/2SbLBxUtlSzz8nIYFQstwq) | [Govi](https://open.spotify.com/artist/72RlKNzcCZkmb20K5dDwOB) | [Guitarra Mistica](https://open.spotify.com/album/45KOqLRGUYnnA9l59l0eaU) | 5:44 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Vpt0fhumU1.md) - [plain]
 | 50 | [Bumblebeat](https://open.spotify.com/track/0aiqrNJkcz1xDGUD8HLrRz) | [Govi](https://open.spotify.com/artist/72RlKNzcCZkmb20K5dDwOB) | [Mosaico](https://open.spotify.com/album/6PAB5rJADQ7HFjp0fzKjba) | 4:34 |
 | 51 | [En la Mancha](https://open.spotify.com/track/6qixM3ocxbC7JzrDg2YwrD) | [Mari Nieto](https://open.spotify.com/artist/1kpBaXhyD5w2NMYoklvChj), [Juan Antonio Torres](https://open.spotify.com/artist/1JXR84Lo1dOJcc8re1H5lw), [Viguela](https://open.spotify.com/artist/2MPy4JFvIlApj1PbxNTHBF) | [Temperamento: Traditional Music from Spain](https://open.spotify.com/album/7hlw3I2DL1JV4uw99h5BtC) | 5:50 |
 
-Snapshot ID: `MTY2MTg2NjczNiwwMDAwMDAwMDA2ZWZiY2ZlNDRlMzg1Y2U2ZTdmMjYyZDQ4NjM1OGI1`
+Snapshot ID: `MTY2MTg2NjczNiwwMDAwMDAwMDA4YTJmZTg0MjY3MDI5NDVlNGVlZmI5Mjg4M2U1NWM0`

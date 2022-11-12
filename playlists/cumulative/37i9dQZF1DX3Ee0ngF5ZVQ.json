@@ -503,7 +503,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 276280,
       "name": "Anymore",
       "url": "https://open.spotify.com/track/5DzqR9xwyVEwbhRVXes5sZ"
@@ -1137,7 +1137,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 169853,
       "name": "Burn It Down - 717 Tapes",
       "url": "https://open.spotify.com/track/59lRASvykN3UQstK839tep"
@@ -1155,7 +1155,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-03",
+      "date_removed": null,
       "duration_ms": 169853,
       "name": "Burn It Down - 717 Tapes",
       "url": "https://open.spotify.com/track/5NqaRQWSVg9mnnmdCZJ17s"
@@ -4634,6 +4634,24 @@
     },
     {
       "album": {
+        "name": "Pick Up Your Phone",
+        "url": "https://open.spotify.com/album/0F2VRfAWEGxeWfKs8HCXnB"
+      },
+      "artists": [
+        {
+          "name": "Tanner Usrey",
+          "url": "https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180558,
+      "name": "Pick Up Your Phone",
+      "url": "https://open.spotify.com/track/4IIAWg1xgtfNNf1uUy43NY"
+    },
+    {
+      "album": {
         "name": "Burn Down EP",
         "url": "https://open.spotify.com/album/5h68tKi4xydtyM7NJiAEGG"
       },
@@ -6601,7 +6619,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 248666,
       "name": "Western Tears",
       "url": "https://open.spotify.com/track/5in7jYPcrDH7vXB0C9vffq"
@@ -6935,6 +6953,24 @@
       "duration_ms": 203000,
       "name": "Why, Dallas?",
       "url": "https://open.spotify.com/track/0aG9eIioKkXS4aicxhyuT8"
+    },
+    {
+      "album": {
+        "name": "How You Know You Made It",
+        "url": "https://open.spotify.com/album/7p5HIg6VYtRgDKYNBcVLge"
+      },
+      "artists": [
+        {
+          "name": "Corey Kent",
+          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199733,
+      "name": "Wild as Her",
+      "url": "https://open.spotify.com/track/24n04jHyMQrEf9bErsTd2g"
     },
     {
       "album": {

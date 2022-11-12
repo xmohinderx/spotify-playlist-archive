@@ -4,7 +4,7 @@
 
 > ¡Y suena y suena..\. MS!
 
-138 songs - 7 hr 50 min - [published](https://open.spotify.com/playlist/4aLGMwMufY0fSYhU1Oevnh)
+140 songs - 7 hr 56 min - [published](https://open.spotify.com/playlist/4aLGMwMufY0fSYhU1Oevnh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [El Patrón](https://open.spotify.com/track/7y8euUGZzG1E58Nt6bOKNb) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Amor Enfermo](https://open.spotify.com/album/0WS7m1l6aKMdpsdIWeodxo) | 2:19 | 2022-05-26 |  |
 | [El Trabajo Es La Suerte](https://open.spotify.com/track/2PQcAZu2OweqjtlzuCbBoT) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [El Trabajo Es La Suerte](https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk) | 3:05 | 2022-05-26 |  |
 | [Es Tuyo Mi Amor](https://open.spotify.com/track/2eW9CRtyLNhjgyLFJNHhtD) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Es Tuyo Mi Amor \- Single](https://open.spotify.com/album/5khQ7lkhdQhJZH2IijmGij) | 2:55 | 2022-05-26 | 2022-07-29 |
-| [Es Tuyo Mi Amor](https://open.spotify.com/track/3Tshb8DCw7TEdnNMJc8Yuw) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [La Mejor Versión De Mí](https://open.spotify.com/album/6UV1wTga3v0p7rXwxxbUL1) | 2:57 | 2022-05-26 |  |
+| [Es Tuyo Mi Amor](https://open.spotify.com/track/3gKm50XbXVnjJfNmCk4LZ0) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Es Tuyo Mi Amor](https://open.spotify.com/album/6azkxP424VV5wchQ97Ufdr) | 2:55 | 2022-10-24 |  |
+| [Es Tuyo Mi Amor](https://open.spotify.com/track/3Tshb8DCw7TEdnNMJc8Yuw) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [La Mejor Versión De Mí](https://open.spotify.com/album/6UV1wTga3v0p7rXwxxbUL1) | 2:57 | 2022-05-26 | 2022-11-12 |
 | [Este Borracho](https://open.spotify.com/track/0BNGiz0sIkVj1YzhWELMpd) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Que Bendición](https://open.spotify.com/album/5iCAbAQCi21EREKse2kJgy) | 2:25 | 2022-05-26 | 2022-07-29 |
 | [Este Borracho](https://open.spotify.com/track/4VghreA0NSTAgYWOOzpCrm) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Que Bendición](https://open.spotify.com/album/5VL90afs1EsezktD44XMIN) | 2:25 | 2022-05-26 | 2022-10-25 |
 | [Gracias a Ti](https://open.spotify.com/track/44PK0PRRKlF16JbXx6erQB) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Gracias a Ti](https://open.spotify.com/album/6KLyjUQiHec4t9KtcQFeph) | 3:25 | 2022-05-26 |  |
@@ -133,7 +134,8 @@
 | [Solo Con Verte \- Versión Acústica](https://open.spotify.com/track/0AmOTCiLE3SBFILfqf4e7d) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Solo Con Verte \(Versión Acústica\)](https://open.spotify.com/album/7cslEVuLWm9Jisjx6nuzkV) | 2:51 | 2022-05-26 |  |
 | [Te Amo \- Versión Acústica](https://open.spotify.com/track/1nFi16f2WqO3V4v1RdInJz) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Positivo](https://open.spotify.com/album/24eUqyJPZ39GNoQsvc7ffM) | 3:27 | 2022-05-26 |  |
 | [Te Equivocas](https://open.spotify.com/track/4vpa8qqUPEHOg2KapXxwqb) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Las Bandas Románticas](https://open.spotify.com/album/0ENViT87wqrx5RiQKtLO8U) | 3:20 | 2022-05-26 | 2022-07-29 |
-| [Te Equivocas](https://open.spotify.com/track/09T1GOcYbjJFxfYFmMqrbn) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [En Preparación](https://open.spotify.com/album/6SkVZ9EJpL1pQkf79qFnLF) | 3:21 | 2022-05-26 |  |
+| [Te Equivocas](https://open.spotify.com/track/5CyLgVfF5C3q3ra6PZKPYZ) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Sólo Hits \(20 Éxitos\)](https://open.spotify.com/album/0H84MmPUGDOZx7hS7ec5Bb) | 3:20 | 2022-10-24 |  |
+| [Te Equivocas](https://open.spotify.com/track/09T1GOcYbjJFxfYFmMqrbn) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [En Preparación](https://open.spotify.com/album/6SkVZ9EJpL1pQkf79qFnLF) | 3:21 | 2022-05-26 | 2022-11-12 |
 | [Tengo Que Colgar](https://open.spotify.com/track/2yGNkkwU2iT0doFxkxhcXH) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Que Bendición](https://open.spotify.com/album/5VL90afs1EsezktD44XMIN) | 4:08 | 2022-05-26 |  |
 | [Tengo Que Colgar](https://open.spotify.com/track/7wIQuubY137iT5dC8HxNcQ) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Que Bendición](https://open.spotify.com/album/5iCAbAQCi21EREKse2kJgy) | 4:08 | 2022-05-26 | 2022-07-29 |
 | [Tengo Que Colgar \- En Vivo](https://open.spotify.com/track/24pGufgMQoZtrESlKSLPlf) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [En Vivo CDMX](https://open.spotify.com/album/1x7UM1LXYNvVuWhZbZf9uT) | 6:16 | 2022-05-26 |  |

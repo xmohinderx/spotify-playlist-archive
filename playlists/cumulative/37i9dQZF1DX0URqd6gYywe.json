@@ -145,7 +145,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 330826,
       "name": "Ando Ganas (Llora Llora)",
       "url": "https://open.spotify.com/track/3JE8qYm4luylvVnhVuUfvC"
@@ -1133,7 +1133,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-16",
+      "date_removed": null,
       "duration_ms": 235094,
       "name": "Mejor Callar",
       "url": "https://open.spotify.com/track/5eWPf8IUMtKXCtolSh678f"
@@ -1205,7 +1205,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 363120,
       "name": "Mujer Amante",
       "url": "https://open.spotify.com/track/0zLv81RNFByXTZ3wu91y1R"
@@ -1979,6 +1979,24 @@
       "duration_ms": 295160,
       "name": "Un Pacto - Live In Buenos Aires / 2001",
       "url": "https://open.spotify.com/track/1lcwoylQLJUtl2pNNdZQ7p"
+    },
+    {
+      "album": {
+        "name": "#MusicaEnCasa para cocinar",
+        "url": "https://open.spotify.com/album/7prmDbc4pNPuJZzswgrxP4"
+      },
+      "artists": [
+        {
+          "name": "Bersuit Vergarabat",
+          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295160,
+      "name": "Un Pacto - Live In Buenos Aires / 2001",
+      "url": "https://open.spotify.com/track/56ApSRqCZjltnow7E0xQMC"
     },
     {
       "album": {

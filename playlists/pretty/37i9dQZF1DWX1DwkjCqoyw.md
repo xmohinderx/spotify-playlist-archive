@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1DwkjCqoyw.md) - [plain]
 
 > Shenseea bringing you massive island vibes for her Island Pop takeover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,200 likes - 36 songs - 1 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,248 likes - 36 songs - 1 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1DwkjCqoyw.md) - [plain]
 | 27 | [Basic](https://open.spotify.com/track/2gwn11k39NLZUCwVbcTrjq) | [Jah Vinci](https://open.spotify.com/artist/0mkixmQkcUeE6egKHW4ojh) | [I Am the World Singer](https://open.spotify.com/album/5wYDLzTry6j0sAPjZ96p6G) | 3:12 |
 | 28 | [WiFi](https://open.spotify.com/track/6ocqnSUAMMskrP3yDQdGxZ) | [Dexta Daps](https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY), [Drumma Boy](https://open.spotify.com/artist/1WypSuVRK0PMIKXvoDLvxh) | [WiFi](https://open.spotify.com/album/0cu7nhBxjz3zkWVeevp1i8) | 3:33 |
 | 29 | [Whap Whap \(feat\. F.S.\)](https://open.spotify.com/track/47MwPx7nbFUD5IGVhL38Zr) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [F.S.](https://open.spotify.com/artist/0KR0MgITEQAm0sLRrcuExN) | [Whap Whap \(feat\. F.S.\)](https://open.spotify.com/album/1NR77oknzl4KJylIBuhvvu) | 3:01 |
-| 30 | [Crocodile Teeth](https://open.spotify.com/track/3qi98GCs3sbvbAJugWmdQY) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Crocodile Teeth](https://open.spotify.com/album/4UG4l6GtGle8m7zbwinjBH) | 2:46 |
+| 30 | [Crocodile Teeth](https://open.spotify.com/track/3vS8QjHytx8Pi2NMERcfUs) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Consistency \(Through the Years\)](https://open.spotify.com/album/5DB6WURnnV9WDJCgkwMngV) | 2:46 |
 | 31 | [Mind My Business](https://open.spotify.com/track/28Nm0rgLcn4OUQTocqoDZO) | [Travis World](https://open.spotify.com/artist/5AVAzwpIu9f3H1oegupPCd), [Dan Evens](https://open.spotify.com/artist/5ZbHn0BqI2WtNqto3qUpzK), [Patrice Roberts](https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt) | [Mind My Business](https://open.spotify.com/album/2e1bm04icZGHLmDKvGBqvY) | 1:59 |
 | 32 | [Last Last](https://open.spotify.com/track/2PDgArI0p7UkeYgXWuqpmh) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Last Last](https://open.spotify.com/album/6aWJgsbvVPQR2HgPztf4qe) | 2:52 |
 | 33 | [Finesse](https://open.spotify.com/track/4Gasn91fsCefnN8zM5GjA8) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Finesse](https://open.spotify.com/album/4QEC4uzBJJfLVv2bD337g1) | 2:35 |
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1DwkjCqoyw.md) - [plain]
 | 35 | [Dark Room](https://open.spotify.com/track/5zD3d3m97Ferk4pgkUPEmb) | [Shane O](https://open.spotify.com/artist/3ZOaLn1Bn5j7Cb7fC2BLzF) | [Dark Room](https://open.spotify.com/album/5YIVlPFxJJq4xZhDUzd8Eb) | 3:13 |
 | 36 | [Vibes](https://open.spotify.com/track/1UWGmcBgQZH9govYtUoM4E) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7) | [Vibes](https://open.spotify.com/album/5poktJ27bJeOOZkaKZ1ziN) | 2:28 |
 
-Snapshot ID: `MTY2MDg2NDA4OCwwMDAwMDAwMDg3M2E5Zjc2NDEwZmNlYzBkZjI1OGVjM2IxZmZlNzlm`
+Snapshot ID: `MTY2MDg2NDA4OCwwMDAwMDAwMDRmZDFmOWUxZTJmMWQwZTI5YzcyNWJiNDY5YTZlZWY1`

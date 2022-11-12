@@ -4,7 +4,7 @@
 
 > Los muertos al cajón y los vivos al fiestón.
 
-83 songs - 4 hr 39 min - not published yet
+84 songs - 4 hr 41 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,8 @@
 | [Tu Perro Se Murió](https://open.spotify.com/track/0pcXNtAlhrdMsanmkwwJsM) | [Los Pinches Fresitas](https://open.spotify.com/artist/6o3IbCE7dIZsiVGpSqdkt0) | [Tengo Un Amigo Que Me Ama](https://open.spotify.com/album/6G72PHsArHnX6xhxtGIQUz) | 3:48 | 2022-10-10 |  |
 | [Twist del Esqueleto / El Profesor Rui Rua](https://open.spotify.com/track/3p7RvLSxAYOW8arCp5dAG2) | [Gustavo Quintero](https://open.spotify.com/artist/7d1I3nQKYsBnj0uDShHrYn), [Los Teen Agers](https://open.spotify.com/artist/2dlJdFaPxHy9C3bOKS1ZKl) | [Exitos de Gustavo Quintero y los Teen Agers](https://open.spotify.com/album/2GZjyLV1xXCgfdX1CRQsm4) | 2:49 | 2022-10-10 |  |
 | [Vampira's Curse](https://open.spotify.com/track/72OOLDuo1zr8OY57fletXl) | [The Guitaraculas](https://open.spotify.com/artist/3vNj0DcvkrfC117vcbbbWo) | [Two Bottles of Blood](https://open.spotify.com/album/4QOMkiWKJZsPnDHKnAjIS1) | 2:44 | 2022-10-10 |  |
-| [Vampirella](https://open.spotify.com/track/3I2KYR9fGoHweDesKZ6t26) | [Misterio](https://open.spotify.com/artist/1AR7DhOaS04R0L8SubO5ES) | [10 Year Old Zombie](https://open.spotify.com/album/6D0KOO5zdjmfXH9umBIru8) | 1:42 | 2022-10-10 |  |
+| [Vampirella](https://open.spotify.com/track/46XIYDknHnw6u15WLWjsVg) | [Misterio](https://open.spotify.com/artist/1AR7DhOaS04R0L8SubO5ES) | [Latin Halloween](https://open.spotify.com/album/43gbSK7c6LfANqf1YwALmW) | 1:42 | 2022-10-10 |  |
+| [Vampirella](https://open.spotify.com/track/3I2KYR9fGoHweDesKZ6t26) | [Misterio](https://open.spotify.com/artist/1AR7DhOaS04R0L8SubO5ES) | [10 Year Old Zombie](https://open.spotify.com/album/6D0KOO5zdjmfXH9umBIru8) | 1:42 | 2022-10-10 | 2022-11-12 |
 | [¿A Dónde Van Los Muertos?](https://open.spotify.com/track/6xfzArMzaOM2xJsoEja1oe) | [Kinky](https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv) | [Reina \(Bonus Track Version\)](https://open.spotify.com/album/1KxsbEol0Bh7DVyTgz9oeL) | 4:17 | 2022-10-10 | 2022-11-11 |
 
 \*This playlist was first scraped on 2022-10-27. Prior content cannot be recovered.

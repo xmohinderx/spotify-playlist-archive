@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: <a href="https://open.spotify.com/artist/0WwZMQoxKjgOOicFhd08yx?si=rOqqDWfMQSOIkZiMVxQlAw"> Dami Oniru </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,483 likes - 80 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,511 likes - 80 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 5 | [JUDAH LION](https://open.spotify.com/track/5K71RgdpQrTWw816Pi86mh) | [Suté Iwar](https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu), [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [JUDAH LION](https://open.spotify.com/album/3EqSa64jmVBqQWDmu92JNg) | 3:38 |
 | 6 | [Part2 \(Dinner in Maui\)](https://open.spotify.com/track/6DuJn4hkMAzb4Iiamim1Te) | [Hermez](https://open.spotify.com/artist/168iTeZjIZlN7Sc8ieZJl6), [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b) | [Part2 \(Dinner in Maui\)](https://open.spotify.com/album/2RjYPIml5GBer8oZvUV1OO) | 3:13 |
 | 7 | [Culture](https://open.spotify.com/track/57o2d5ejkTbNMrgoraDkOJ) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [Culture](https://open.spotify.com/album/20rCv5TASuxaLAgd8Icw1V) | 3:28 |
-| 8 | [WHISTLE \(feat\. Lojay & Amaarae\)](https://open.spotify.com/track/11Ti6zSL9YNLz6tF5fuetQ) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [YOUNG PREACHER](https://open.spotify.com/album/4cz1acZPi8BkrfmIooqnlV) | 3:06 |
+| 8 | [WHISTLE \(feat\. Lojay & Amaarae\)](https://open.spotify.com/track/7KTyBUl3f402RdK4Af7RDB) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Young Preacher](https://open.spotify.com/album/5J4BbjFnBq9C31xsph3ld2) | 3:06 |
 | 9 | [If You Say](https://open.spotify.com/track/0Gti54i0mUfipe9LQDsbGC) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h), [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ) | [Sweetness](https://open.spotify.com/album/12Z2vvO5UYrBygJEumBCXf) | 3:38 |
 | 10 | [MIDLIFE CRISIS](https://open.spotify.com/track/1pVnCzZpNVODfXz3t4H9ub) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [MIDLIFE CRISIS / WYDTM](https://open.spotify.com/album/4zt5mhHF6V5xnA6kmHiTf0) | 2:11 |
 | 11 | [Get Down \(feat\. Azanti & Chrystel\)](https://open.spotify.com/track/6pvDq4tfrVMHpN1oYl6B6M) | [Jaylon](https://open.spotify.com/artist/0LPjWuF3g2DJwDODD5aGr4), [Azanti](https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl), [Chrystel](https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0) | [Get Down](https://open.spotify.com/album/2LjsqVupASnDrP4ShBBotE) | 2:43 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 79 | [NIGHTS WITHOUT YOU](https://open.spotify.com/track/0NCrt951A09LYmxbGdqW8N) | [Kxffy](https://open.spotify.com/artist/25ri60pzSMYa2YOUZlumhB), [Albeezy](https://open.spotify.com/artist/7vA0nsjX1OaxsKlEM64TV6), [NJERI](https://open.spotify.com/artist/4fhFubSE551gSrnSWwAgaR), [capespring.](https://open.spotify.com/artist/2VF53usTu5Chbp1fmxjUeS) | [NIGHTS WITHOUT YOU](https://open.spotify.com/album/6uqyYLRgrlKjlIIfz3Hoid) | 2:58 |
 | 80 | [Detonate](https://open.spotify.com/track/6ufuzc7b2zgkpK22dPcmti) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd), [Zirra](https://open.spotify.com/artist/3ygMZBYwEeR5Vd5Qze8IYl) | [For Good Reasons](https://open.spotify.com/album/7zDDdXCpkiw7NjP8yh5TNt) | 2:06 |
 
-Snapshot ID: `MTY2NzUyMDAwMCwwMDAwMDAwMDlhNTY0MWM1MTVmM2Y0NzUyNDZkOTA2ZDNhOTg4ZjJj`
+Snapshot ID: `MTY2NzUyMDAwMCwwMDAwMDAwMDllNzJhZjU2NjI4ZjcwNmEzOTExYzhjNzUxZDRlMWE4`

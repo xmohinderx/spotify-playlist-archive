@@ -4,7 +4,7 @@
 
 > Workout to K\-Pop? Count me in! \(Cover: LE SSERAFIM\(르세라핌\)\) \(신나는 케이팝 댄스 음악과 함께 운동을 즐겨보세요!\)
 
-405 songs - 22 hr 26 min - [published](https://open.spotify.com/playlist/1QV1rd0Jl2Uv3EQB0qMIsR)
+406 songs - 22 hr 29 min - [published](https://open.spotify.com/playlist/1QV1rd0Jl2Uv3EQB0qMIsR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [FEARLESS](https://open.spotify.com/track/296nXCOv97WJNRWzIBQnoj) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [FEARLESS](https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot) | 2:48 | 2022-05-11 |  |
 | [Feedback](https://open.spotify.com/track/61oYciDSVO6OvOqZf9TVPV) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4), [Nucksal](https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB) | [Feedback](https://open.spotify.com/album/2mZVQE5xkotAwHEqLySr0h) | 3:19 | 2022-03-22 | 2022-04-15 |
 | [Feel My Rhythm](https://open.spotify.com/track/2oBMZYteeO8DyXV9gDx6Za) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival 2022 \- Feel My Rhythm’](https://open.spotify.com/album/3HgoCO9wWuPcNhz8Ip4C46) | 3:30 | 2022-03-21 |  |
+| [Feel Special](https://open.spotify.com/track/3Hz3tTQwOdM6XkA0ALB2G9) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Feel Special](https://open.spotify.com/album/3NQBPabmRm3LzVcmtkTLfo) | 3:26 | 2022-11-10 |  |
 | [Feel Special](https://open.spotify.com/track/14rWuS6yllHOdfZ8sZsZUj) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Feel Special](https://open.spotify.com/album/5efEhTY3yPlGU4Ofu2yi7F) | 3:26 | 2021-12-20 | 2022-07-29 |
 | [FEVER](https://open.spotify.com/track/6eKNfMj4VnioR0LcXo6ktd) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [Summer Queen](https://open.spotify.com/album/2x10RN9oP665I7gyP1UNUi) | 3:25 | 2022-03-22 | 2022-04-16 |
 | [FIRE](https://open.spotify.com/track/7IkuRNVAjwXpZ2DheQHL4L) | [EXID](https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O) | [X](https://open.spotify.com/album/5DbZBWJtKZnwCKDkMvC45q) | 3:27 | 2022-10-07 |  |
@@ -393,7 +394,7 @@
 | [We DO](https://open.spotify.com/track/2y3RsLPUpPcMUdzluiJtNE) | [SuperM](https://open.spotify.com/artist/5BHFSMEjfLVx1JwRWjAOsE) | [We DO](https://open.spotify.com/album/2O4FwZ1cE8PHsP0PAf6Vtr) | 3:41 | 2021-12-20 | 2022-07-04 |
 | [WE GO](https://open.spotify.com/track/7oQqeRSV38YqkRv2UGvmbS) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [9 WAY TICKET](https://open.spotify.com/album/5DPggk2zBmJYqtaUyLOlVW) | 2:55 | 2021-12-20 | 2022-07-29 |
 | [We Rise](https://open.spotify.com/track/4rv92w93ROUPu0ljeiNMoj) | [Cotton Candy](https://open.spotify.com/artist/0XRMbnjCPM7HhvxZXZrNxg) | [IDOL: The Coup \(Original Television Soundtrack, Pt\. 5\)](https://open.spotify.com/album/3YXITGpeUXUpQwdy1u37z3) | 3:29 | 2021-12-20 | 2022-07-27 |
-| [What is Love](https://open.spotify.com/track/3zhbXKFjUDw40pTYyCgt1Y) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Summer Nights](https://open.spotify.com/album/2GKTroaa4ysyhEdvzpvUoM) | 3:28 | 2022-07-19 |  |
+| [What is Love](https://open.spotify.com/track/3zhbXKFjUDw40pTYyCgt1Y) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Summer Nights](https://open.spotify.com/album/2GKTroaa4ysyhEdvzpvUoM) | 3:28 | 2022-07-19 | 2022-11-12 |
 | [What is Love?](https://open.spotify.com/track/5m95gCTAiHshTaajznt5fA) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [What is Love?](https://open.spotify.com/album/5NObA8Cx4Ri5cATR1DLTjj) | 3:28 | 2021-12-20 | 2022-07-29 |
 | [What You Waiting For](https://open.spotify.com/track/4CoxD8tetisleUQDA7vn1B) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [What You Waiting For](https://open.spotify.com/album/59iiiARciChm70cn85wxuH) | 2:55 | 2021-12-20 | 2022-10-14 |
 | [Where is love](https://open.spotify.com/track/7iQCl9TotVdT5WVibKcd7I) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I burn](https://open.spotify.com/album/3ma5amx5s3l1NKoWNHaMYe) | 2:57 | 2022-03-22 | 2022-05-08 |

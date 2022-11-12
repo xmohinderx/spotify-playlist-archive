@@ -4,7 +4,7 @@
 
 > Keep calm with this mix of laidback, acoustic tracks.
 
-303 songs - 19 hr 3 min - [published](https://open.spotify.com/playlist/0wv7jIu1raSykzpAO7jkt2)
+304 songs - 19 hr 6 min - [published](https://open.spotify.com/playlist/0wv7jIu1raSykzpAO7jkt2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,7 +172,7 @@
 | [Mountain Falls for the Sea](https://open.spotify.com/track/0GhlQOB8GQ4N5wN8IXLRoX) | [Findlay Brown](https://open.spotify.com/artist/5SxW5qi5l3VJnO0qzsI8Rs) | [Slow Light](https://open.spotify.com/album/0Yp2kdSj2oOjvBP0DajaIw) | 3:07 | 2021-11-05 | 2022-06-25 |
 | [My Arms Were Always Around You](https://open.spotify.com/track/02a2RQEICEzbdPPYh0aLnJ) | [Peter Bradley Adams](https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V) | [My Arms Were Always Around You](https://open.spotify.com/album/52s6f0gzHwR6MpgCMCtFQc) | 3:20 | 2021-11-05 |  |
 | [My Dreams Have All Come True](https://open.spotify.com/track/2s1c8h4P4u1GxzNQFws648) | [John Paul White](https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb) | [My Dreams Have All Come True](https://open.spotify.com/album/3AJw8vTaNDueiiJ85duVxY) | 4:24 | 2021-11-05 | 2022-07-21 |
-| [Naked as We Came](https://open.spotify.com/track/6UIxGIqWlO5wsddY44AV1R) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Our Endless Numbered Days \(Deluxe Edition\)](https://open.spotify.com/album/169vCBCFaW2na816P8Ir7m) | 2:32 | 2022-07-22 |  |
+| [Naked as We Came](https://open.spotify.com/track/6UIxGIqWlO5wsddY44AV1R) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Our Endless Numbered Days \(Deluxe Edition\)](https://open.spotify.com/album/169vCBCFaW2na816P8Ir7m) | 2:32 | 2022-07-22 | 2022-11-12 |
 | [never gonna break your heart](https://open.spotify.com/track/2ak7xmwbLAADnngfYpLKuD) | [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8) | [IN AND THROUGH THE BODY](https://open.spotify.com/album/3RthcMmqG13Kk0jxR0Up0a) | 3:47 | 2021-11-05 |  |
 | [New Paint \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/31VTJ3Bj2qQC6FzLht4Faz) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [Spotify Singles](https://open.spotify.com/album/3VfqKMnjoIsXjBdbKRpGWu) | 2:58 | 2021-11-05 | 2022-07-21 |
 | [Nocturne \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1iWmK4jR0AhIZB0gZG3NKA) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Spotify Singles](https://open.spotify.com/album/72rhxNzk3Lm3I6zT1YqYQx) | 4:52 | 2022-02-07 | 2022-02-22 |
@@ -184,7 +184,7 @@
 | [Now & Then \(feat\. Goody Grace\)](https://open.spotify.com/track/7gX11niZqP8hyy9wfAtSfS) | [Lily Kershaw](https://open.spotify.com/artist/0p0ksmwMDQlAM24TWKu4Ua), [Goody Grace](https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30) | [Now & Then \(feat\. Goody Grace\)](https://open.spotify.com/album/0SjK3cXALbXUPzB0lNgjW7) | 3:17 | 2021-11-05 | 2022-07-29 |
 | [Now You Know](https://open.spotify.com/track/3vNt852RXNZB8PJsIf5P2E) | [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Xoa](https://open.spotify.com/album/0cE5sSsvz3GLgoAeFZ1oki) | 3:09 | 2021-11-05 | 2022-05-14 |
 | [Olalla](https://open.spotify.com/track/4d4OJTq2Yl7TyiuGMLxa1h) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Olalla](https://open.spotify.com/album/7ezEVlzMBGfVkGWuwcINqY) | 4:07 | 2021-11-05 | 2022-07-29 |
-| [Olalla](https://open.spotify.com/track/4R59wt5nnhYo88PIu3cUIt) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [On the Other Side](https://open.spotify.com/album/7ruII5ZslQNpw4viJv10yG) | 4:08 | 2022-07-22 |  |
+| [Olalla](https://open.spotify.com/track/4R59wt5nnhYo88PIu3cUIt) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [On the Other Side](https://open.spotify.com/album/7ruII5ZslQNpw4viJv10yG) | 4:08 | 2022-07-22 | 2022-11-12 |
 | [Old Friend](https://open.spotify.com/track/5v2nPcapVA5eXClN6pSKCy) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Extralife](https://open.spotify.com/album/5OK6JHJhkSwle7EIeZZQ2E) | 2:28 | 2021-11-05 |  |
 | [Old Now](https://open.spotify.com/track/3IVALWwWuGL5p3W6cPtjDH) | [Rosemary & Garlic](https://open.spotify.com/artist/7MZvYitgCWAOaKjxdm2S17) | [The Kingfisher](https://open.spotify.com/album/3KJQprTqgb4xq2TNqbBGEf) | 4:49 | 2022-07-22 |  |
 | [Old Pine](https://open.spotify.com/track/3CAX47TnPqTujLIQTw8nwI) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Every Kingdom](https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce) | 5:28 | 2022-07-22 |  |
@@ -303,12 +303,13 @@
 | [Winter](https://open.spotify.com/track/6lRFrEmU09wbl8rMKpgZB6) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Winter](https://open.spotify.com/album/1nnhuLPjtmYA3Np9waspzv) | 3:54 | 2021-11-05 | 2022-05-10 |
 | [Winter Song](https://open.spotify.com/track/01NSrsQkOZ3PgRcGLGrOT5) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head and the Heart](https://open.spotify.com/album/0xWfhCMYmaiCXtLOuyPoLF) | 2:43 | 2021-11-05 | 2022-07-23 |
 | [Winter Song](https://open.spotify.com/track/4kVq0EOO5xmczwrXjRcaeI) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head And The Heart](https://open.spotify.com/album/0HOYbncHll4TcojWXrfYfV) | 2:43 | 2022-07-22 | 2022-10-13 |
+| [Winter Song](https://open.spotify.com/track/5nbzSunBRFGCI4Pb6PoCat) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head And The Heart](https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu) | 2:43 | 2022-08-02 |  |
 | [With You](https://open.spotify.com/track/2xuNO2twEAziI59xyKYxzZ) | [Cujo Moon](https://open.spotify.com/artist/28PfPnmxT8rQJiLEByR81N) | [With You](https://open.spotify.com/album/4FmaIvv5uBPgwrm8v7tbjJ) | 3:31 | 2021-11-05 |  |
 | [With You \- A Sweet Little Love Song Demo](https://open.spotify.com/track/1RbhQxFFJM7QNKALY5JebS) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [With You \- A Sweet Little Love Song Demo](https://open.spotify.com/album/3lQhFqO6d6t4FULaRHSAJJ) | 2:34 | 2021-11-05 | 2022-08-03 |
 | [Witness Trees](https://open.spotify.com/track/5QENB0ad34Y0Fs2j7DoOXI) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [Witness Trees](https://open.spotify.com/album/5R2eVRMY8SSRPiq8EV4urI) | 2:40 | 2021-11-05 |  |
 | [Woodpecker](https://open.spotify.com/track/0D5YcW57alDCPA6XQwwKcZ) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [Big Bend \(An Original Soundtrack for Public Television\)](https://open.spotify.com/album/7w3BcToSqLYL2z3HOgMWwv) | 2:05 | 2021-11-05 | 2022-07-29 |
 | [You and I](https://open.spotify.com/track/7rsTP6MbfJqXT11RiDDo5a) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0), [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [You and I](https://open.spotify.com/album/3cKaNavGZzd65w9AY65c8X) | 3:13 | 2022-08-02 |  |
-| [Your Body](https://open.spotify.com/track/3BPibZpEagpo2S0OxpMfmh) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Mipso](https://open.spotify.com/album/71wj7iB4JXxUUTPosOpXMM) | 3:24 | 2022-07-22 | 2022-10-20 |
+| [Your Body](https://open.spotify.com/track/3BPibZpEagpo2S0OxpMfmh) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Mipso](https://open.spotify.com/album/71wj7iB4JXxUUTPosOpXMM) | 3:24 | 2022-07-22 |  |
 | [Your Body](https://open.spotify.com/track/4LSi50PwwZFOpkusSFu9Pd) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Your Body](https://open.spotify.com/album/5evixJw5r4l7PDqEJNBzhN) | 3:24 | 2021-11-05 | 2022-07-29 |
 | [You’re Free Now \(feat\. Sarah Jarosz\)](https://open.spotify.com/track/0n5BiC98D3E0EZimzsboGW) | [Anthony da Costa](https://open.spotify.com/artist/59FeKdChfWED6sfb6QQbzj), [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [da Costa Deluxe](https://open.spotify.com/album/2JPABhQendr6PM7QmR8iLR) | 4:19 | 2021-11-05 | 2022-07-26 |
 

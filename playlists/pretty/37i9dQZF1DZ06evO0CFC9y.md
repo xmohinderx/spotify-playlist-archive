@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0CFC9y.md) - [plain]
 
 > This is AFI\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,531 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,550 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0CFC9y.md) - [plain]
 | 16 | [A Single Second](https://open.spotify.com/track/3kAxXpkSl233HRCa5V8OGr) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Shut Your Mouth And Open Your Eyes](https://open.spotify.com/album/29vCfkN4H8HTljOKC2aKgB) | 2:12 |
 | 17 | [Ever And A Day](https://open.spotify.com/track/1jrXJefkU4DQdM2XOJDENu) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [The Art Of Drowning](https://open.spotify.com/album/3x1951P584xqRUW7KdLs6A) | 3:06 |
 | 18 | [This Celluloid Dream](https://open.spotify.com/track/46Y9yh2KxmtodypW4bCp6v) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Sing The Sorrow](https://open.spotify.com/album/1eIzVBHA5NvX0wo2nLACew) | 4:10 |
-| 19 | [Fall Children](https://open.spotify.com/track/6KTXHrliiM0il8gq7AkQPC) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [All Hallows EP](https://open.spotify.com/album/1g3XMX2gmUF6zAwll0jqN6) | 3:12 |
-| 20 | [17 Crimes](https://open.spotify.com/track/5uT6m9pcWDKPP6fovtOqLw) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Burials](https://open.spotify.com/album/3pvmZwuBBm8Tt6NXDJkl14) | 2:57 |
+| 19 | [17 Crimes](https://open.spotify.com/track/5uT6m9pcWDKPP6fovtOqLw) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Burials](https://open.spotify.com/album/3pvmZwuBBm8Tt6NXDJkl14) | 2:57 |
+| 20 | [Fall Children](https://open.spotify.com/track/6KTXHrliiM0il8gq7AkQPC) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [All Hallows EP](https://open.spotify.com/album/1g3XMX2gmUF6zAwll0jqN6) | 3:12 |
 | 21 | [Wester](https://open.spotify.com/track/3PLEZsXmjW1XrTtKttkfaW) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [The Art Of Drowning](https://open.spotify.com/album/3x1951P584xqRUW7KdLs6A) | 3:02 |
 | 22 | [Miseria Cantare \- The Beginning](https://open.spotify.com/track/5unomAZop0VloK8vwwuPpi) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Sing The Sorrow](https://open.spotify.com/album/1eIzVBHA5NvX0wo2nLACew) | 2:56 |
 | 23 | [Snow Cats](https://open.spotify.com/track/6HwJvwkooQjunshBL6hPK5) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [AFI \(The Blood Album\)](https://open.spotify.com/album/48SrarUhE6csdPsGbTAgEl) | 3:20 |
@@ -36,12 +36,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0CFC9y.md) - [plain]
 | 26 | [The Nephilim](https://open.spotify.com/track/6AbO0VF7dLnvQFJ8AbM5Vm) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [The Art Of Drowning](https://open.spotify.com/album/3x1951P584xqRUW7KdLs6A) | 2:35 |
 | 27 | [Begging For Trouble](https://open.spotify.com/track/5JdWKsA1x4DOpn8w25vJHg) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Bodies](https://open.spotify.com/album/4yDfXqB2zuv6bcGYgXBUzP) | 2:20 |
 | 28 | [Kill Caustic](https://open.spotify.com/track/1g3GsYGMF9veVHh1sZn6me) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [DECEMBERUNDERGROUND](https://open.spotify.com/album/1XcA7EEpVRg3FpVbhWu9JV) | 2:39 |
-| 29 | [Halloween](https://open.spotify.com/track/5YzAjvec8mCjm2bGppn8Oz) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [All Hallows EP](https://open.spotify.com/album/1g3XMX2gmUF6zAwll0jqN6) | 3:58 |
-| 30 | [Aurelia](https://open.spotify.com/track/7DlLTbTiZiM1Yye5roUYku) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [AFI \(The Blood Album\)](https://open.spotify.com/album/48SrarUhE6csdPsGbTAgEl) | 2:54 |
+| 29 | [Aurelia](https://open.spotify.com/track/7DlLTbTiZiM1Yye5roUYku) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [AFI \(The Blood Album\)](https://open.spotify.com/album/48SrarUhE6csdPsGbTAgEl) | 2:54 |
+| 30 | [Halloween](https://open.spotify.com/track/5YzAjvec8mCjm2bGppn8Oz) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [All Hallows EP](https://open.spotify.com/album/1g3XMX2gmUF6zAwll0jqN6) | 3:58 |
 | 31 | [Malleus Maleficarum](https://open.spotify.com/track/259UpfomIaTr9PdBvR6R1c) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Black Sails In The Sunset](https://open.spotify.com/album/05vHKNdCinN1q1emA34zNY) | 4:01 |
 | 32 | [The Killing Lights](https://open.spotify.com/track/5ThgOYuTH92cHr32utoGyN) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [DECEMBERUNDERGROUND](https://open.spotify.com/album/1XcA7EEpVRg3FpVbhWu9JV) | 4:03 |
-| 33 | [I Wanna Get A Mohawk \(But Mom Won't Let Me Get One\)](https://open.spotify.com/track/1RlIa3ho39v23Bs9tWbrCN) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Answer That And Stay Fashionable](https://open.spotify.com/album/0KqMA5Ul8nyvSXoj5BC8BR) | 1:12 |
-| 34 | [End Transmission](https://open.spotify.com/track/3x5SiKbgSLUTnWCAZIXc50) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Crash Love](https://open.spotify.com/album/0Y84KHrmhbX9IlDI64dC6I) | 3:46 |
+| 33 | [End Transmission](https://open.spotify.com/track/3x5SiKbgSLUTnWCAZIXc50) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Crash Love](https://open.spotify.com/album/0Y84KHrmhbX9IlDI64dC6I) | 3:46 |
+| 34 | [I Wanna Get A Mohawk \(But Mom Won't Let Me Get One\)](https://open.spotify.com/track/1RlIa3ho39v23Bs9tWbrCN) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Answer That And Stay Fashionable](https://open.spotify.com/album/0KqMA5Ul8nyvSXoj5BC8BR) | 1:12 |
 | 35 | [Strength Through Wounding](https://open.spotify.com/track/6I3ICkKo3D5oOPitKYZS65) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Black Sails In The Sunset](https://open.spotify.com/album/05vHKNdCinN1q1emA34zNY) | 1:33 |
 | 36 | [Far Too Near](https://open.spotify.com/track/6MrpnM2VIpyjPQdnqItSYe) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Bodies](https://open.spotify.com/album/4yDfXqB2zuv6bcGYgXBUzP) | 2:48 |
 | 37 | [God Called In Sick Today](https://open.spotify.com/track/1KlroNpIZRQuLK236qrfog) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [AFI](https://open.spotify.com/album/1eK4nhdVZTpIzibRw7qWiw) | 3:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0CFC9y.md) - [plain]
 | 49 | [Hidden Knives](https://open.spotify.com/track/01qfmGPqmz2nWuM22YxdC5) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [AFI \(The Blood Album\)](https://open.spotify.com/album/48SrarUhE6csdPsGbTAgEl) | 2:56 |
 | 50 | [I Hope You Suffer](https://open.spotify.com/track/7AX7C2oJrN1ZLkLyBlofz1) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Burials](https://open.spotify.com/album/73h2unQGoSEL75TlZVl7Pb) | 4:37 |
 
-Snapshot ID: `Mjc4MDE1OTIsMDAwMDAwMDBmOWU1YjE1YWEyNjE0MWQ0NmUxZGI5YjVjYzlmMmU0Ng==`
+Snapshot ID: `Mjc4MDI5OTksMDAwMDAwMDA3ZmE1ZTRhYmJiYjg1NjQ2MzVjYWIzOGI5YTVjNjEzOQ==`

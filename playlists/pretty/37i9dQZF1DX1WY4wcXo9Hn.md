@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WY4wcXo9Hn.md) - [plain]
 
 > a maroon kind of mood
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,185 likes - 84 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,725 likes - 84 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WY4wcXo9Hn.md) - [plain]
 | 23 | [Astronomy](https://open.spotify.com/track/0KmgJyW4GDgonqsoyx0CZ3) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Astronomy](https://open.spotify.com/album/4vs2JiaS6RjyxMcl0MvxLk) | 4:03 |
 | 24 | [All Too Well \(10 Minute Version\) \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/5enxwA8aAbwZbf5qCHORXi) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 10:13 |
 | 25 | [From the Dining Table](https://open.spotify.com/track/1IF5UcqRO42D12vYwceOY6) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry Styles](https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV) | 3:31 |
-| 26 | [Haunted House](https://open.spotify.com/track/3J0jlN9j7fpmghvALVF0Th) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Can You Afford To Lose Me?](https://open.spotify.com/album/17XDDX3RYaIu56inOJzAWO) | 2:13 |
+| 26 | [Haunted House](https://open.spotify.com/track/1Vqp7VrSeMMzpg9JluibWA) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Best Alternative Pop Tunes](https://open.spotify.com/album/20UA4OcMt8UXK3oyY00HNB) | 2:13 |
 | 27 | [Autumn Leaves \- Deluxe Edition](https://open.spotify.com/track/7iBSkXB0pTvZasOLf0Qxk9) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [+](https://open.spotify.com/album/02pi98kE0nra0yBqCStzbC) | 3:20 |
 | 28 | [Story of My Life](https://open.spotify.com/track/4nVBt6MZDDP6tRVdQTgxJg) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Midnight Memories \(Deluxe\)](https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu) | 4:05 |
 | 29 | [Happiness is a butterfly](https://open.spotify.com/track/3lG6OtGDsYAOALxEmubQQm) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 4:32 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WY4wcXo9Hn.md) - [plain]
 | 71 | [Everything Has Changed \(feat\. Ed Sheeran\) \(Taylor’s Version\)](https://open.spotify.com/track/7qEUFOVcxRI19tbT68JcYK) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 4:05 |
 | 72 | [Smoke Slow](https://open.spotify.com/track/4sEN7hRcdfzDpk4wUG47qO) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [Smoke Slow](https://open.spotify.com/album/4XJN8Qw5AGmKnDHbaiE05b) | 2:43 |
 | 73 | [everyone at this party](https://open.spotify.com/track/43klOCoUcqtkNWCqQQvh9W) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Familia](https://open.spotify.com/album/5Nn3fX7CuJo7tbibtqASmf) | 2:48 |
-| 74 | [This Year's Love](https://open.spotify.com/track/4X6F9xoYUyJh4OhnXbAZv2) | [David Gray](https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV) | [White Ladder](https://open.spotify.com/album/27h98zEMf4R8Q25uOkumGe) | 4:05 |
+| 74 | [This Year's Love \- 2020 Remaster](https://open.spotify.com/track/5LAAykvFusHpsTd03OgqPw) | [David Gray](https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV) | [White Ladder \(20th Anniversary Edition\)](https://open.spotify.com/album/3ng5VSbmPioTrHajoJgr4X) | 4:05 |
 | 75 | [Call Me A Dreamer](https://open.spotify.com/track/5PMp84lVFm0SWEWOx1aQsw) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [Call Me A Dreamer](https://open.spotify.com/album/3zKpAuwGhuBpavexvu6ySj) | 3:48 |
 | 76 | [It'll Be Okay](https://open.spotify.com/track/2KnLkZ3z7PO3kgVGHGqDpD) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [It'll Be Okay](https://open.spotify.com/album/3sDud6BapENewYxlL8VH8r) | 3:42 |
 | 77 | [complex \(demo\)](https://open.spotify.com/track/1ovZe7upcqycTuPFfOg6kB) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [complex \(demo\)](https://open.spotify.com/album/4iHBCJPZUha2xs84jNZ4jc) | 4:16 |
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WY4wcXo9Hn.md) - [plain]
 | 83 | [favorite crime](https://open.spotify.com/track/5JCoSi02qi3jJeHdZXMmR8) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:32 |
 | 84 | [Love Of My Life](https://open.spotify.com/track/1mw0RgNXIpYRyyCdBQbLgA) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:11 |
 
-Snapshot ID: `MTY2Njc1MjM2MywwMDAwMDAwMGE4NWY2NjI3MTA2NGYxMDc2MTUyMmE4MzE0YjQxNTY0`
+Snapshot ID: `MTY2Njc1MjM2MywwMDAwMDAwMDEyYjI4N2VkZmZlZWU1OGNmMzFiNjUyZDg3YjExN2Y2`

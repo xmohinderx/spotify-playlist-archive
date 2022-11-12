@@ -4,7 +4,7 @@
 
 > The perfect mix between old\-school and modern Metalcore\. Cover: Bring Me The Horizon
 
-73 songs - 4 hr 51 min - [published](https://open.spotify.com/playlist/1h5wDS63ZREiQ4twmmpOgS)
+74 songs - 4 hr 53 min - [published](https://open.spotify.com/playlist/1h5wDS63ZREiQ4twmmpOgS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,8 +48,9 @@
 | [Man on Fire](https://open.spotify.com/track/2LHtWEncuemszNBtrMfvII) | [Bury Tomorrow](https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt) | [Runes](https://open.spotify.com/album/5AzPojyZHvcdcx6c9O9vmo) | 4:01 | 2022-01-17 |  |
 | [Memphis Will Be Laid To Waste](https://open.spotify.com/track/7qwqtk58ZpQjlGM8WFIrt7) | [Norma Jean](https://open.spotify.com/artist/55b0Gfm53udtGBs8mmNXrH) | [Bless The Martyr And Kiss...](https://open.spotify.com/album/5omjmAcRyBdCI7LxO9o8Tk) | 4:55 | 2022-01-17 |  |
 | [Milk Lizard](https://open.spotify.com/track/4TOZ8TuZQRMEgJjNsgewg2) | [The Dillinger Escape Plan](https://open.spotify.com/artist/7IGcjaMGAtsvKBLQX26W4i) | [Ire Works](https://open.spotify.com/album/65ai7QRrruWGNPcVU23PgD) | 3:55 | 2022-01-17 |  |
-| [Moral Eclipse](https://open.spotify.com/track/0pcOFA9Nw7QYW8G5sqGIWk) | [Cave In](https://open.spotify.com/artist/5m2NwwPj4pzGQC0PQwMBWi) | [Until Your Heart Stops](https://open.spotify.com/album/4uEbn5VjsqdbBQoMCI01Pl) | 2:05 | 2022-01-17 |  |
+| [Moral Eclipse](https://open.spotify.com/track/0pcOFA9Nw7QYW8G5sqGIWk) | [Cave In](https://open.spotify.com/artist/5m2NwwPj4pzGQC0PQwMBWi) | [Until Your Heart Stops](https://open.spotify.com/album/4uEbn5VjsqdbBQoMCI01Pl) | 2:05 | 2022-01-17 | 2022-11-12 |
 | [Moral Eclipse](https://open.spotify.com/track/3PI1ctNyHbnmhUqttF59xa) | [Cave In](https://open.spotify.com/artist/5m2NwwPj4pzGQC0PQwMBWi) | [Until Your Heart Stops](https://open.spotify.com/album/7zMg7jqyMONlSKSGHW5jaS) | 2:05 | 2022-01-17 | 2022-07-29 |
+| [Moral Eclipse](https://open.spotify.com/track/648m77R2BwUDET7OY7Wzlo) | [Cave In](https://open.spotify.com/artist/5m2NwwPj4pzGQC0PQwMBWi) | [Extreme Music Sampler](https://open.spotify.com/album/4m0GhiaLelgQ44HRnG14ow) | 2:08 | 2022-11-04 |  |
 | [Mordecai](https://open.spotify.com/track/2Fui3xJLasH473qnBa2T6C) | [Between The Buried And Me](https://open.spotify.com/artist/2JC4hZm1egeJDEolLsMwZ9) | [The Silent Circus](https://open.spotify.com/album/1rmiMSKXg6o8F1UVBdhQpN) | 5:47 | 2022-01-17 |  |
 | [My Curse](https://open.spotify.com/track/6zKF4293k44ItKWJJgrhXv) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [As Daylight Dies \(Special Edition\)](https://open.spotify.com/album/6iJEtgHTEbVlSS5isIS71z) | 4:04 | 2022-10-25 |  |
 | [My Heart Bleeds The Darkest Blood](https://open.spotify.com/track/6bjwYuQOB1Ryhygge7HSzt) | [Shai Hulud](https://open.spotify.com/artist/4AlPDOBuB1s7NuIPo4veZu) | [Hearts Once Nourished With Hope And Compassion](https://open.spotify.com/album/2fOjW8LUg3muNzmmEYsHOQ) | 2:05 | 2022-01-17 |  |

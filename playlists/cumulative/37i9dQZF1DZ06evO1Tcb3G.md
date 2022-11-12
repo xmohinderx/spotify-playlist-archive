@@ -4,7 +4,7 @@
 
 > This is Mumford & Sons\. The essential tracks, all in one playlist.
 
-65 songs - 4 hr 34 min - [published](https://open.spotify.com/playlist/6jrQNq1cx9gVBJzI5ViIZd)
+66 songs - 4 hr 38 min - [published](https://open.spotify.com/playlist/6jrQNq1cx9gVBJzI5ViIZd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,13 +47,14 @@
 | [Monster](https://open.spotify.com/track/4ma2AbPdsy5ijCyJn16mAv) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Wilder Mind](https://open.spotify.com/album/7yVx5zJONB6MO8zL1jHN7i) | 3:56 | 2022-09-16 | 2022-10-15 |
 | [Ngamila](https://open.spotify.com/track/0tvH0mNKvUpE3WtP16Jzpp) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Baaba Maal](https://open.spotify.com/artist/49z6oAiD2RpyUf5yLJs7Nf), [The Very Best](https://open.spotify.com/artist/7ngHgvOBZdRQb9ITJfLvdO) | [Johannesburg](https://open.spotify.com/album/27AgSR4nCZSfMzb61JQ066) | 3:37 | 2022-09-18 | 2022-10-13 |
 | [October Skies](https://open.spotify.com/track/3Y9ZyBUDTVcgvhEtCfiXh7) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Delta](https://open.spotify.com/album/4cKEpUZp7REMrSjd4ICCZz) | 3:43 | 2022-09-21 | 2022-10-18 |
-| [October Skies](https://open.spotify.com/track/4O7kxdfjLOFUwIB6Q63ScX) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Delta](https://open.spotify.com/album/0Wmnkh4lzGy5rgkUPOjYbg) | 3:43 | 2022-10-17 |  |
+| [October Skies](https://open.spotify.com/track/4O7kxdfjLOFUwIB6Q63ScX) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Delta](https://open.spotify.com/album/0Wmnkh4lzGy5rgkUPOjYbg) | 3:43 | 2022-10-17 | 2022-11-12 |
+| [October Skies](https://open.spotify.com/track/77GRxATpswGNnEJIFvSrHr) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Delta](https://open.spotify.com/album/4TgzPAmjhR2Qkh7P6lIRnH) | 3:43 | 2022-11-11 |  |
 | [Reminder](https://open.spotify.com/track/6LPjdmMvIKGxuzVFsTKF6Z) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Babel \(Deluxe Version\)](https://open.spotify.com/album/0jcOOqw8oVjs2ngnrndbsO) | 2:04 | 2022-10-12 |  |
 | [Snake Eyes](https://open.spotify.com/track/3SvIbcr7uvjRp5PuPN47eo) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Wilder Mind](https://open.spotify.com/album/7LMz6ALQP2Jn9FdZmeeuiQ) | 4:08 | 2022-09-16 |  |
 | [Someone Saved My Life Tonight](https://open.spotify.com/track/7wfVhQbInlrp92VTyi4gx3) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Revamp: The Songs Of Elton John & Bernie Taupin](https://open.spotify.com/album/2w667CqWz0JWkhxP7IfijA) | 6:09 | 2022-09-16 |  |
 | [The Boxer feat\. Mumford & Sons and Paul Simon](https://open.spotify.com/track/73C8vVm2BRLLBQ8FH6N6Qm) | [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9), [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI), [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Traveler](https://open.spotify.com/album/6YNQ1O9C5AVtOGEPIIwkAG) | 4:05 | 2022-09-16 |  |
 | [The Brightest Lights](https://open.spotify.com/track/7DSFu4NFVpDpWCafZ0cxPJ) | [King Charles](https://open.spotify.com/artist/6QKDcdjtwqu4E7rztEUQu5), [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [LoveBlood](https://open.spotify.com/album/07MeEPmkdYGUOCjsdh22Wj) | 3:36 | 2022-09-16 |  |
-| [The Cave](https://open.spotify.com/track/3vUn7FE3ZaQgJmkhIrIirF) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/4828DYqqXoOl1bMPyh5c3S) | 3:37 | 2022-10-27 | 2022-11-11 |
+| [The Cave](https://open.spotify.com/track/3vUn7FE3ZaQgJmkhIrIirF) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/4828DYqqXoOl1bMPyh5c3S) | 3:37 | 2022-10-27 |  |
 | [The Cave](https://open.spotify.com/track/7IxVWmdabNVhfLBV3JD0nJ) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/6w5W6ZGTvDsppKUOiGMuMo) | 3:37 | 2022-09-16 | 2022-10-27 |
 | [The Wild](https://open.spotify.com/track/12vSf3woc2toFvHxwjLI5v) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Delta](https://open.spotify.com/album/0Wmnkh4lzGy5rgkUPOjYbg) | 5:31 | 2022-09-16 | 2022-10-13 |
 | [The Wolf](https://open.spotify.com/track/2rS77EbhEs7Y2UZD8pWIPb) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Wilder Mind](https://open.spotify.com/album/7yVx5zJONB6MO8zL1jHN7i) | 3:41 | 2022-09-17 | 2022-10-15 |
@@ -68,7 +69,7 @@
 | [White Blank Page](https://open.spotify.com/track/06YV4yr9sdJqSNj4HjZk2s) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/6w5W6ZGTvDsppKUOiGMuMo) | 4:14 | 2022-09-16 | 2022-10-28 |
 | [White Blank Page](https://open.spotify.com/track/6oxnUh5HybZDk6VNGzvw2j) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/4828DYqqXoOl1bMPyh5c3S) | 4:14 | 2022-10-27 |  |
 | [Wilder Mind](https://open.spotify.com/track/60Q1lkwI6yCnOdwbA1mX1s) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Wilder Mind](https://open.spotify.com/album/7LMz6ALQP2Jn9FdZmeeuiQ) | 4:38 | 2022-10-06 |  |
-| [Winter Winds](https://open.spotify.com/track/4iVzgmqhxypCb6CYYnznLc) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/4828DYqqXoOl1bMPyh5c3S) | 3:39 | 2022-10-28 |  |
+| [Winter Winds](https://open.spotify.com/track/4iVzgmqhxypCb6CYYnznLc) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/4828DYqqXoOl1bMPyh5c3S) | 3:39 | 2022-10-28 | 2022-11-12 |
 | [Winter Winds](https://open.spotify.com/track/50FgfudO6MUkdP3XMIf1hh) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/6w5W6ZGTvDsppKUOiGMuMo) | 3:39 | 2022-09-16 | 2022-10-29 |
 | [With A Little Help From My Friends \(Live from London\)](https://open.spotify.com/track/6Rd8m5KdOL2ayiK00ko1Mu) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Delta Tour EP](https://open.spotify.com/album/0Mdbs380PEaE81bScwSlBB) | 5:59 | 2022-09-16 |  |
 | [Woman](https://open.spotify.com/track/47DKI4RxI8ZW0sBqDenMhO) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Delta](https://open.spotify.com/album/0Wmnkh4lzGy5rgkUPOjYbg) | 4:34 | 2022-09-16 |  |

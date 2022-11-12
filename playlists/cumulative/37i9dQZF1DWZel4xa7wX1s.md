@@ -4,7 +4,7 @@
 
 > Key words: Contemporary pop, legends, country music \- and something in between\. Just good tunes!
 
-107 songs - 6 hr 44 min - [published](https://open.spotify.com/playlist/3T7FuaCHpe9xluTwkrgztG)
+108 songs - 6 hr 47 min - [published](https://open.spotify.com/playlist/3T7FuaCHpe9xluTwkrgztG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Backbone](https://open.spotify.com/track/0OAUI6ZmjtbqENMKIry77J) | [Status Quo](https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM) | [Backbone](https://open.spotify.com/album/1DSHyLarlaQ2H4jvOMUplL) | 3:03 | 2019-11-29 | 2022-07-29 |
 | [Ball and Chain](https://open.spotify.com/track/22UgD3bRXzveuNnhZP72a4) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Ball and Chain](https://open.spotify.com/album/3vTzDpCjM9VXnr80VO9b4R) | 4:29 | 2019-11-29 | 2022-07-28 |
 | [Ball and Chain](https://open.spotify.com/track/64csOaHL9FYqiOJxAi8h5X) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [WHO \(Deluxe\)](https://open.spotify.com/album/2WuaYvGgx9MS1Vj37aBiyU) | 4:29 | 2019-11-29 |  |
-| [Blind Leading the Blind](https://open.spotify.com/track/0rxQm3nLcecMGkpqDTH77K) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Blind Leading the Blind](https://open.spotify.com/album/07axYwrFUra9cfBF0pNZ8X) | 3:44 | 2019-11-29 |  |
+| [Blind Leading the Blind](https://open.spotify.com/track/0rxQm3nLcecMGkpqDTH77K) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Blind Leading the Blind](https://open.spotify.com/album/07axYwrFUra9cfBF0pNZ8X) | 3:44 | 2019-11-29 | 2022-11-12 |
 | [Blind Leading The Blind](https://open.spotify.com/track/2WbrVeftLDcSAfQBHxA9P4) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Blind Leading The Blind](https://open.spotify.com/album/1sWcGlojlFQctnfRWlmUjI) | 3:44 | 2019-11-29 | 2022-07-29 |
 | [Champion Of The World](https://open.spotify.com/track/6R7Y33u24Z82KCa4ZzI8gp) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Champion of The World / Daddy](https://open.spotify.com/album/1qAJNklFUgIft4H4mzxg4j) | 4:17 | 2019-11-29 | 2022-07-29 |
 | [Champion Of The World](https://open.spotify.com/track/6mf7BNgXs8JipPr2QILnyN) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Everyday Life](https://open.spotify.com/album/2FeyIYDDAQqcOJKOKhvHdr) | 4:17 | 2019-11-29 | 2022-11-11 |
@@ -44,6 +44,7 @@
 | [For Real](https://open.spotify.com/track/4SazNxh9XSYD65EHiv2ZTx) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [The Best Of Everything \- The Definitive Career Spanning Hits Collection 1976\-2016](https://open.spotify.com/album/32OhZ2CWxc259H9w52JMTH) | 3:51 | 2019-11-29 |  |
 | [For Real](https://open.spotify.com/track/5xIXisYiSN60TOr9udGTrL) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [For Real / The Best Of Everything](https://open.spotify.com/album/47cu5tTEfZujAblpkBkXgt) | 3:51 | 2019-11-29 | 2022-07-29 |
 | [Found It](https://open.spotify.com/track/7MNrm7QSIPBgzXIsXic6r1) | [Jacob Dinesen](https://open.spotify.com/artist/0yXCyc8MNNuv0YCWpxeg0a) | [Found It](https://open.spotify.com/album/5H1QLPF0VNl4JxWISA3aPZ) | 3:27 | 2019-11-29 | 2022-07-29 |
+| [Found It](https://open.spotify.com/track/0Xsoe2FoYh79d2kbba08lG) | [Jacob Dinesen](https://open.spotify.com/artist/0yXCyc8MNNuv0YCWpxeg0a) | [Found It](https://open.spotify.com/album/2X6z6dwJOU3MmWI38jiAvS) | 3:28 | 2019-11-29 |  |
 | [Four Leaf Clover](https://open.spotify.com/track/3B6jRbaUWN5qdNerXPVgIl) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Let's Go Sunshine](https://open.spotify.com/album/60n4GXgyCv2a7rBfgVu9Pe) | 3:23 | 2019-11-29 | 2022-11-11 |
 | [Four Leaf Clover \- Edit](https://open.spotify.com/track/7aq4RmtNftNpqUaeoZb5ao) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Four Leaf Clover \(Edit\)](https://open.spotify.com/album/1oCxUmpYZvKbka1mENWf4C) | 3:11 | 2019-11-29 | 2022-10-13 |
 | [Friends](https://open.spotify.com/track/2yJBTToYK5LtQoFGzozCgM) | [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [Still on My Mind](https://open.spotify.com/album/5AR3jURU3vmoJiGzpjY4Xn) | 3:23 | 2019-11-29 |  |

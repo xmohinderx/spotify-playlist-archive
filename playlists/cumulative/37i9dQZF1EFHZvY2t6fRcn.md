@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3HvY4N6ad1ASmFufm8XCPV">Trey Campbell</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-96 songs - 5 hr 27 min - [published](https://open.spotify.com/playlist/4o2Z71UegJJzZwBY5b0Ao7)
+97 songs - 5 hr 30 min - [published](https://open.spotify.com/playlist/4o2Z71UegJJzZwBY5b0Ao7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Blind To The Blonde](https://open.spotify.com/track/2OEcST3YKixTHWrUJl8Sab) | [Chloe Angelides](https://open.spotify.com/artist/79A4RmgwxYGIDkqQDUHLXK) | [Friends Who Failed At Love](https://open.spotify.com/album/0cGYe4MX209Hbi0aoebED6) | 2:38 | 2021-12-27 |  |
 | [Body](https://open.spotify.com/track/5VyjnK3NmjFjSUoG4qbqLy) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Everything I Didn’t Say](https://open.spotify.com/album/7sb53RUF8x70PzjPmDxF0Q) | 3:18 | 2022-03-20 |  |
 | [Bones](https://open.spotify.com/track/39qWzdNJSioJzfemhwXtDw) | [Equinox](https://open.spotify.com/artist/6Q7UV9Oa87GypGTKiuOh6f) | [Bones](https://open.spotify.com/album/23R15MF9YuwmRBjIMk9Khk) | 2:59 | 2021-12-27 |  |
+| [BOYS](https://open.spotify.com/track/3eOIjdurn3lxeOMn90L8Fn) | [Aidan Martin](https://open.spotify.com/artist/3JKrNnhjEv9h3fyKhQpylb) | [BOYS](https://open.spotify.com/album/3VtKNel48q9NVpK6vJ66qB) | 2:55 | 2022-11-11 |  |
 | [Butterflies](https://open.spotify.com/track/0Ns9MYv0gL70HRkyiBSNgZ) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [Good Things](https://open.spotify.com/album/440oB4r9sCDlk3Le7Jzlwe) | 3:00 | 2021-12-27 |  |
 | [Can't Stop This Party](https://open.spotify.com/track/1FP2jE6moLiHoNUaWTUyJc) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [Can't Stop This Party](https://open.spotify.com/album/6nG0PLR5YgP7tHYKfwhiOI) | 3:42 | 2022-04-08 |  |
 | [Candle](https://open.spotify.com/track/32Ka9ZTXBza9SkOWRtiXBO) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci) | [Candle](https://open.spotify.com/album/2FQ278LgDLpwbHa49ZmF63) | 3:16 | 2021-12-27 |  |

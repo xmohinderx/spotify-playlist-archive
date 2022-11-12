@@ -265,7 +265,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 205482,
       "name": "Backseat Valentine",
       "url": "https://open.spotify.com/track/0QxemWQcwq8AoSmKPc4rcc"
@@ -373,7 +373,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 196613,
       "name": "Banquet",
       "url": "https://open.spotify.com/track/2YxXuCdbUpil3P7tRjhW1t"
@@ -398,6 +398,24 @@
     },
     {
       "album": {
+        "name": "The White Stripes Greatest Hits",
+        "url": "https://open.spotify.com/album/6iOP7HgYAk3x5i19Os1d7v"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157093,
+      "name": "Blue Orchid",
+      "url": "https://open.spotify.com/track/7kyRTopEX56DqBBeC1C3pD"
+    },
+    {
+      "album": {
         "name": "Get Behind Me Satan",
         "url": "https://open.spotify.com/album/3rHeq4F5wnaLBjNtuz7Yvh"
       },
@@ -409,7 +427,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 157560,
       "name": "Blue Orchid",
       "url": "https://open.spotify.com/track/4jU7NPkz4HVnM4hweqNhI1"
@@ -722,6 +740,24 @@
     },
     {
       "album": {
+        "name": "Rock Workout",
+        "url": "https://open.spotify.com/album/5j2OY6R6Jsdl2HJiXS8Mwv"
+      },
+      "artists": [
+        {
+          "name": "The Fratellis",
+          "url": "https://open.spotify.com/artist/3M4ThdJR28z9eSMcQHAZ5G"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215306,
+      "name": "Chelsea Dagger",
+      "url": "https://open.spotify.com/track/0HyzQzPSy0YEYlDjQLxOHE"
+    },
+    {
+      "album": {
         "name": "Costello Music",
         "url": "https://open.spotify.com/album/7avNT7QnpWXl1Khqnsguaw"
       },
@@ -1025,6 +1061,24 @@
       "duration_ms": 251840,
       "name": "Dog Days Are Over",
       "url": "https://open.spotify.com/track/1YLJVmuzeM2YSUkCCaTNUB"
+    },
+    {
+      "album": {
+        "name": "Happy Pop Hits",
+        "url": "https://open.spotify.com/album/76wKct7lPoAwqWpsK0udJt"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252853,
+      "name": "Dog Days Are Over",
+      "url": "https://open.spotify.com/track/0SzzPmWCx2jmTBxxRxeHe0"
     },
     {
       "album": {
@@ -1406,6 +1460,24 @@
     },
     {
       "album": {
+        "name": "The 1975",
+        "url": "https://open.spotify.com/album/33ZqJmmqFE8Z7Ak1Lxbnfb"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254600,
+      "name": "Girls",
+      "url": "https://open.spotify.com/track/6d8jFIWMRwhVYe7SCQwlqL"
+    },
+    {
+      "album": {
         "name": "The 1975 (Deluxe Version)",
         "url": "https://open.spotify.com/album/0mkOUedmYlOzCC4tOm2v0c"
       },
@@ -1417,7 +1489,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 254620,
       "name": "Girls",
       "url": "https://open.spotify.com/track/2zyz614fJRrqQXW1q0sY1c"
@@ -1507,7 +1579,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 233986,
       "name": "Gun",
       "url": "https://open.spotify.com/track/09PEwXveUXcDYCDXLQToXE"
@@ -1547,6 +1619,24 @@
       "duration_ms": 233986,
       "name": "Gun",
       "url": "https://open.spotify.com/track/4cTVAIFH1zGNQFFRFMCzsd"
+    },
+    {
+      "album": {
+        "name": "Indie Summer",
+        "url": "https://open.spotify.com/album/0p07dNjSO5rLvh9yUFTb7V"
+      },
+      "artists": [
+        {
+          "name": "Fitz and The Tantrums",
+          "url": "https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193253,
+      "name": "HandClap",
+      "url": "https://open.spotify.com/track/1YHRZssNRDMughU6Jjwkcv"
     },
     {
       "album": {
@@ -1766,6 +1856,24 @@
     },
     {
       "album": {
+        "name": "chapter 2",
+        "url": "https://open.spotify.com/album/2PjloAS981jof5y1KEhOPb"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192612,
+      "name": "i'll die anyway.",
+      "url": "https://open.spotify.com/track/0QHfgxLB8V1jAFAUWf7rIX"
+    },
+    {
+      "album": {
         "name": "i'll die anyway.",
         "url": "https://open.spotify.com/album/4Zt3XT3vADR97nZGrFoSOY"
       },
@@ -1777,7 +1885,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 192612,
       "name": "i'll die anyway.",
       "url": "https://open.spotify.com/track/14tud1FLjpHMYHpD2c7NbO"
@@ -1939,7 +2047,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 228026,
       "name": "Jealous (I Ain't With It)",
       "url": "https://open.spotify.com/track/3R5FA1Ay1NxgtwbElR78by"
@@ -2159,6 +2267,24 @@
       "duration_ms": 195120,
       "name": "Notion",
       "url": "https://open.spotify.com/track/0sTlGEld0h8kIPZaKDYUf4"
+    },
+    {
+      "album": {
+        "name": "The Joker and the Queen - Royal Pop",
+        "url": "https://open.spotify.com/album/7FF0L3ez9cvA0lTEeUF7wl"
+      },
+      "artists": [
+        {
+          "name": "The Rare Occasions",
+          "url": "https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195120,
+      "name": "Notion",
+      "url": "https://open.spotify.com/track/2Miz1JX0m6irRTnjlI3iqV"
     },
     {
       "album": {
@@ -2859,6 +2985,24 @@
     {
       "album": {
         "name": "Wilder Mind",
+        "url": "https://open.spotify.com/album/2aQRHMPWd1wexPLI0KFdWo"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221215,
+      "name": "The Wolf",
+      "url": "https://open.spotify.com/track/53TEvyoXmxymYx3AiCAjRr"
+    },
+    {
+      "album": {
+        "name": "Wilder Mind",
         "url": "https://open.spotify.com/album/7yVx5zJONB6MO8zL1jHN7i"
       },
       "artists": [
@@ -3079,7 +3223,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 116813,
       "name": "Up!",
       "url": "https://open.spotify.com/track/0kOlfVP8Vg17Q41RkWGbWY"

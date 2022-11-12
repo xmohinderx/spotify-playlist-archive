@@ -4,7 +4,7 @@
 
 > Music from "Love Live! Superstar!!" 「ラブライブ！スーパースター!!」の楽曲を1つのプレイリストで。©2022 プロジェクトラブライブ！スーパースター!!
 
-68 songs - 4 hr 22 min - not published yet
+70 songs - 4 hr 30 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,8 +36,10 @@
 | [Ringing!](https://open.spotify.com/track/2bnDu15idoCjxzCbRhu1Zf) | [嵐 千砂都 \(CV.岬 なこ\)](https://open.spotify.com/artist/44iPyW0GCQm1Qk5e5UPT8H) | [リエラのうた](https://open.spotify.com/album/7KwBG3qnGU2FBsfXMkIVjn) | 3:21 | 2022-10-18 |  |
 | [Shooting Voice!!](https://open.spotify.com/track/1qbJx4kFTi7KbYIuJTE4CW) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [not ALONE not HITORI / ミラクル STAY TUNE! / Shooting Voice!! \(Liella!盤\)](https://open.spotify.com/album/0cYFY7wyCIAgNxXnBps3uY) | 4:38 | 2022-10-18 |  |
 | [Sing!Shine!Smile!](https://open.spotify.com/track/0l1xmDyMVZdRdIkjBnPMPn) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [Sing!Shine!Smile! / 未来の音が聴こえる \(第10話盤\)](https://open.spotify.com/album/5mKov3lKYFvgHWMpBZjxaJ) | 4:26 | 2022-10-18 |  |
-| [Starlight Prologue](https://open.spotify.com/track/7zKZm2x7vuXuuxPAz9U97B) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [ノンフィクション!! / Starlight Prologue \(第12話盤\)](https://open.spotify.com/album/5tNjxI6HcxmeEhTl4Q7pwf) | 4:05 | 2022-10-18 |  |
-| [START!! True dreams](https://open.spotify.com/track/6vMCFAjO14G0dbMpWkWo8f) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [What a Wonderful Dream!!](https://open.spotify.com/album/2zzWtgloCBJXKTilI5ioJ1) | 4:00 | 2022-10-18 |  |
+| [Starlight Prologue](https://open.spotify.com/track/7zKZm2x7vuXuuxPAz9U97B) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [ノンフィクション!! / Starlight Prologue \(第12話盤\)](https://open.spotify.com/album/5tNjxI6HcxmeEhTl4Q7pwf) | 4:05 | 2022-10-18 | 2022-11-12 |
+| [Starlight Prologue](https://open.spotify.com/track/3ZLA4mtXWEicuAh4qpGKPt) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [ノンフィクション!! / Starlight Prologue \(第10話盤\)](https://open.spotify.com/album/1WL0ewJxIVf0dvOEhHxyfL) | 4:06 | 2022-10-25 |  |
+| [START!! True dreams](https://open.spotify.com/track/6vMCFAjO14G0dbMpWkWo8f) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [What a Wonderful Dream!!](https://open.spotify.com/album/2zzWtgloCBJXKTilI5ioJ1) | 4:00 | 2022-10-18 | 2022-11-12 |
+| [START!! True dreams](https://open.spotify.com/track/4b5akyLpnayCjVkYJmP88J) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [START!! True dreams](https://open.spotify.com/album/17MM2KQuxkklBL8YStU8rY) | 4:01 | 2022-10-25 |  |
 | [Time to go](https://open.spotify.com/track/0ZnPlzZKpzojEZ9PDXEON5) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [リエラのうた2](https://open.spotify.com/album/4uALKWcmsB7CZX4ZtUqEhB) | 3:50 | 2022-10-25 |  |
 | [Tiny Stars](https://open.spotify.com/track/74ClPJ3gkWaNfPNLzBJsII) | [澁谷かのん \(CV.伊達さゆり\)](https://open.spotify.com/artist/2KO3nQQqN4LJAKQebedEHF), [唐 可可 \(CV.Liyuu\)](https://open.spotify.com/artist/5ox19lYzPV4s1N3mTkNLRI) | [未来予報ハレルヤ! / Tiny Stars \(第1話盤\)](https://open.spotify.com/album/53YGWJSQD4HyANwvu1dmzL) | 3:53 | 2022-10-25 |  |
 | [Tiny Stars](https://open.spotify.com/track/3pKcK6fQkqEWdNJ2i1tsCn) | [澁谷かのん \(CV.伊達さゆり\)](https://open.spotify.com/artist/2KO3nQQqN4LJAKQebedEHF), [唐 可可 \(CV.Liyuu\)](https://open.spotify.com/artist/5ox19lYzPV4s1N3mTkNLRI) | [未来予報ハレルヤ! / Tiny Stars \(第3話盤\)](https://open.spotify.com/album/6BDaLTcN55aXYtAc6dlKRe) | 3:54 | 2022-10-18 | 2022-11-11 |

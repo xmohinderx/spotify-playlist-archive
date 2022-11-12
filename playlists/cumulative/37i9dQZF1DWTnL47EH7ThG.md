@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6kf69CwzgodrETRgzcjX95">BAMBII</a>'s favorite tracks\. Updated regularly\. Curated by BAMBII\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-278 songs - 16 hr 18 min - [published](https://open.spotify.com/playlist/6Gyhwl4zabmnYK0KJz2zgo)
+279 songs - 16 hr 20 min - [published](https://open.spotify.com/playlist/6Gyhwl4zabmnYK0KJz2zgo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [Another Like This](https://open.spotify.com/track/5Jbpp2xup12QN4Fv7RnNVv) | [Steve Spacek](https://open.spotify.com/artist/5IcRvSiReLydKCr56ObWuX), [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Global Sounds](https://open.spotify.com/album/3EBbMiMD7MWeZxuptpKK2Z) | 4:17 | 2022-07-18 |  |
 | [Anyway \(Do It\)](https://open.spotify.com/track/4BtAFzskuvc9gZA8QFBGZT) | [Fiyahdred](https://open.spotify.com/artist/7vnMCITEraBjFO5HbgFm0F) | [Anyway \(Do It\)](https://open.spotify.com/album/6pOoCgzC9c0YfxWp88TTDl) | 4:26 | 2022-02-04 |  |
 | [Artikal Junglist](https://open.spotify.com/track/33UkNtFLTTFtq8lDBoOXIK) | [6Blocc](https://open.spotify.com/artist/5Nrygx2NMZlZRqyWUBRNa1) | [Liondub & Marcus Visionary Present: Jungle To The World, Vol\. 3](https://open.spotify.com/album/4dDeXKK6POItwmGj84KWPK) | 6:30 | 2022-02-04 | 2022-10-28 |
-| [Arugula](https://open.spotify.com/track/7vO3gp2Mpxv2yySRfw8cMu) | [Junglepussy](https://open.spotify.com/artist/6atGQM99IrRfUefJFore1B) | [Jp4](https://open.spotify.com/album/5t0sp3W275c53WOqxgcmY5) | 2:07 | 2022-02-04 |  |
+| [Arugula](https://open.spotify.com/track/0O9NLOveD66NQ7SHyXGvH0) | [Junglepussy](https://open.spotify.com/artist/6atGQM99IrRfUefJFore1B) | [Main Attraction](https://open.spotify.com/album/4n7qj6oLhSrCvwH0Z58hO7) | 2:07 | 2022-02-04 |  |
+| [Arugula](https://open.spotify.com/track/7vO3gp2Mpxv2yySRfw8cMu) | [Junglepussy](https://open.spotify.com/artist/6atGQM99IrRfUefJFore1B) | [Jp4](https://open.spotify.com/album/5t0sp3W275c53WOqxgcmY5) | 2:07 | 2022-02-04 | 2022-11-12 |
 | [At the Bay](https://open.spotify.com/track/3nBjn3U7kG0bMbZDpTIZEt) | [The Silhouettes Project](https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw), [Bel Cobain](https://open.spotify.com/artist/6JvEcv04PhUKWrUYZJrj1F), [Lex Amor](https://open.spotify.com/artist/0IKVDL3N8vpYgeNOV6np14), [illiterate](https://open.spotify.com/artist/6E7vMajFG2d1j5RrUwdTDR) | [The Silhouettes Project](https://open.spotify.com/album/6SWC8WHsLllzDsUNkw6dHY) | 2:20 | 2022-02-04 | 2022-10-28 |
 | [Ayayai](https://open.spotify.com/track/5mNqz2m3qWWKKiQcvYrKP2) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Ayayai](https://open.spotify.com/album/67IhJtRigeH1BHBu2WXLKX) | 2:50 | 2022-02-04 | 2022-10-28 |
 | [B.O.B\. \- Bombs Over Baghdad](https://open.spotify.com/track/3WibbMr6canxRJXhNtAvLU) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Stankonia](https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj) | 5:04 | 2022-02-04 |  |

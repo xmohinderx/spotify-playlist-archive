@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT1642xPu6H.md) - [plain]
 
 > Pura música fresca para vibrar en cualquier momento de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,947 likes - 65 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,995 likes - 65 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT1642xPu6H.md) - [plain]
 | 38 | [Dancing Feet \(feat\. DNCE\)](https://open.spotify.com/track/4RAR8g8fZNB106ezUurnE0) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz) | [Dancing Feet \(feat\. DNCE\)](https://open.spotify.com/album/2ox5UMCeda9P21urAcoXdt) | 3:35 |
 | 39 | [Stay With Me \(with Justin Timberlake, Halsey, & Pharrell\)](https://open.spotify.com/track/5lfWrciYtohtIMVDVZd0Rf) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Stay With Me \(with Justin Timberlake, Halsey, & Pharrell\)](https://open.spotify.com/album/62SWIKrov7HPXU0Jpc6LY1) | 3:49 |
 | 40 | [El Que Espera](https://open.spotify.com/track/2oNSHvGBGZIrZouRAA1eaX) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [El Que Espera](https://open.spotify.com/album/1iouSXg5RihFIXRvZFJyTa) | 2:50 |
-| 41 | [Tendencia Global](https://open.spotify.com/track/2iLegn1UOmpNpQAxcQoGJW) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Tendencia Global](https://open.spotify.com/album/1bYuhFXTzF4CLwGOVQlqKk) | 3:54 |
-| 42 | [Don’t Wake Me Up](https://open.spotify.com/track/3LEgGAl9zLcQWGTp7ptqtQ) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [Don’t Wake Me Up](https://open.spotify.com/album/6ydP9IJkzpippCnXf2bpNs) | 3:08 |
+| 41 | [Don’t Wake Me Up](https://open.spotify.com/track/3LEgGAl9zLcQWGTp7ptqtQ) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [Don’t Wake Me Up](https://open.spotify.com/album/6ydP9IJkzpippCnXf2bpNs) | 3:08 |
+| 42 | [Tendencia Global](https://open.spotify.com/track/2iLegn1UOmpNpQAxcQoGJW) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Tendencia Global](https://open.spotify.com/album/1bYuhFXTzF4CLwGOVQlqKk) | 3:54 |
 | 43 | [La Esquina del Mall](https://open.spotify.com/track/3WtymOJb6mGqTzU9wlRzck) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [La Esquina del Mall](https://open.spotify.com/album/6TJiIMlNiG56NiToULGmF8) | 3:27 |
 | 44 | [AMANTES](https://open.spotify.com/track/3Q7o2zzvXj7QiSCumjBpvu) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Daviles de Novelda](https://open.spotify.com/artist/6E94QKXZv8BbO6QQJxcxLI) | [AMANTES](https://open.spotify.com/album/2yEEceuPovV5sAoey4GUJF) | 3:00 |
 | 45 | [Sigue](https://open.spotify.com/track/0bBd6K5X4W7t9GyXcaVOA7) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Sigue/Forever My Love](https://open.spotify.com/album/5umofLk634QVTKYtt2Deoy) | 2:39 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT1642xPu6H.md) - [plain]
 | 64 | [Soltera](https://open.spotify.com/track/41ffIDkb10CvzGNBYXm498) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF) | [Soltera](https://open.spotify.com/album/1LpGk730HxND92t3AW8Jee) | 2:51 |
 | 65 | [eScoRpiÓn :\)](https://open.spotify.com/track/3IWV5aOW7cnfuYIZLucSan) | [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP), [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6) | [eScoRpiÓn :\)](https://open.spotify.com/album/6R7O6y1D6wSQ0JV40XRFyj) | 2:59 |
 
-Snapshot ID: `MTY2Nzk1Nzk1MiwwMDAwMDAwMGE1YWQyYjQ0OTRlOGVhZDllMzkxZmQ4OTk2MjZhYWQ4`
+Snapshot ID: `MTY2Nzk1Nzk1MiwwMDAwMDAwMDE5NjhhMmM3Y2RkOTcxNjEzOTVlZTMwYzUxOTFjMjZl`

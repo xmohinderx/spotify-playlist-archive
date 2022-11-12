@@ -1,12 +1,12 @@
 {
   "description": "All live, all blues. Cover: Jackie Venson",
-  "num_followers": 143161,
+  "num_followers": 143234,
   "original_name": "Blues Live & Loud",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzUzNDQwMCwwMDAwMDAwMDBiMzIyMmRhOThmZGU3NjRmNDUxNTBhMWYxZDQzNTRi",
+  "snapshot_id": "MTY2NzUzNDQwMCwwMDAwMDAwMDBiY2NmODI4ZGZhNWI1NDJmYThjOWYzOWNkN2Y0YjZm",
   "tracks": [
     {
       "added_at": "2022-09-30 04:01:00",
@@ -195,22 +195,6 @@
     {
       "added_at": "2020-10-30 17:47:12",
       "album": {
-        "name": "Live - Attack Of The Killer V",
-        "url": "https://open.spotify.com/album/6XeZLDhgXBlqPAEVTV86UQ"
-      },
-      "artists": [
-        {
-          "name": "Lonnie Mack",
-          "url": "https://open.spotify.com/artist/52GxmJdAcByy1ZyPivpUns"
-        }
-      ],
-      "duration_ms": 454000,
-      "name": "Camp Washington Chile/If You Have To Know",
-      "url": "https://open.spotify.com/track/2Z9bN4v0RG8TRkcgw3htap"
-    },
-    {
-      "added_at": "2020-10-30 17:47:12",
-      "album": {
         "name": "One More Car, One More Rider (Live)",
         "url": "https://open.spotify.com/album/4YJ93uAqs42dsEdxuvhzp6"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 539293,
       "name": "River of Tears - Live at Staples Center, Los Angeles, CA, 8/18 - 19/2001",
       "url": "https://open.spotify.com/track/2n6uDmFnyUBqXk652GUGNl"
+    },
+    {
+      "added_at": "2020-10-30 17:47:12",
+      "album": {
+        "name": "Live - Attack Of The Killer V",
+        "url": "https://open.spotify.com/album/6XeZLDhgXBlqPAEVTV86UQ"
+      },
+      "artists": [
+        {
+          "name": "Lonnie Mack",
+          "url": "https://open.spotify.com/artist/52GxmJdAcByy1ZyPivpUns"
+        }
+      ],
+      "duration_ms": 454000,
+      "name": "Camp Washington Chile/If You Have To Know",
+      "url": "https://open.spotify.com/track/2Z9bN4v0RG8TRkcgw3htap"
     },
     {
       "added_at": "2020-10-30 17:47:12",

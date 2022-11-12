@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6zAeOrK0H1.md) - [plain]
 
 > Home of the best bands orbiting the universe right now\. Cover: The 1975
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,160 likes - 80 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,359 likes - 80 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,11 +56,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6zAeOrK0H1.md) - [plain]
 | 46 | [Wrecked](https://open.spotify.com/track/2d1MywHy6FwKdzxFuSJnwl) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Wrecked](https://open.spotify.com/album/2qjb5OwlllLLOmrueU08kG) | 4:04 |
 | 47 | [What Feels Like Eternity](https://open.spotify.com/track/5qM7wBA2RnGBLjyzsNSgGK) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [What Feels Like Eternity](https://open.spotify.com/album/0xid9xFyq8ly9STtakIAaE) | 3:37 |
 | 48 | [Trouble](https://open.spotify.com/track/2NZyf2jJaf0PntMfTe5fPf) | [The Big Moon](https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O) | [Trouble](https://open.spotify.com/album/3LdfZrdlKsanntRZHYncJr) | 3:51 |
-| 49 | [U&ME](https://open.spotify.com/track/3i4ColsuZEvjeLz63m0jPt) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [The Dream](https://open.spotify.com/album/5ogYKSRRlVAgMzv09HFeIn) | 3:18 |
+| 49 | [U&ME](https://open.spotify.com/track/23YxxyxIHbIj8zBf4ZfGSX) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [U&ME \(Baauer Remix\)](https://open.spotify.com/album/7ftT31XifyMfoUIyoqxkop) | 3:18 |
 | 50 | [Can I Believe You](https://open.spotify.com/track/3pYB28IRzhtR5cHXLINchp) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3) | 4:04 |
 | 51 | [Eat, Sleep, Wake \(Nothing But You\)](https://open.spotify.com/track/3nClCcBmn9NnrRQkQTkx1J) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [Everything Else Has Gone Wrong](https://open.spotify.com/album/11yHtE6IzOk6elh9cJzldJ) | 3:39 |
 | 52 | [Car Crash in G Major](https://open.spotify.com/track/5CKMxyl7q4p0QdpYTesuCZ) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [Car Crash in G Major](https://open.spotify.com/album/6tPokYHf7g0Jex07f04d7M) | 2:12 |
-| 53 | [the angel of 8th ave.](https://open.spotify.com/track/3ono1eRCqwTW9PJMx9u2Ru) | [Gang of Youths](https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8) | [angel in realtime.](https://open.spotify.com/album/4xrHCOnujQW9DDLmntffLP) | 3:58 |
+| 53 | [the angel of 8th ave.](https://open.spotify.com/track/3Cxmy086Et74mojMN53BYZ) | [Gang of Youths](https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8) | [in the wake of your leave](https://open.spotify.com/album/5cnVBEtmUA3g55e2qbzdw7) | 3:58 |
 | 54 | [The Hardest Cut](https://open.spotify.com/track/4ZifmvedzdccUUuiGDAbTU) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [Lucifer On The Sofa](https://open.spotify.com/album/1szMY4QqnQZgNuyLBC4jUQ) | 3:13 |
 | 55 | [Up Granville](https://open.spotify.com/track/38SpxensPT9J0iNbMmQIjd) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Up Granville](https://open.spotify.com/album/3A1KfQ0xiG0a6u3V7FTA9p) | 3:50 |
 | 56 | [When Am I Gonna Lose You](https://open.spotify.com/track/5wCVLW9qMtIY9IkBeyYnh6) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Violet Street](https://open.spotify.com/album/0ORZb7kyr8aaP2LpL3mhuY) | 4:24 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6zAeOrK0H1.md) - [plain]
 | 79 | [Love Song](https://open.spotify.com/track/4AzqVdOWSfVr1YQMLdpFMn) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Life Is Strange](https://open.spotify.com/album/6ozSLuLzK71i6l4o2OiN1A) | 3:45 |
 | 80 | [STRICTLY OLD SKOOL](https://open.spotify.com/track/59au5nk2BYfxjnwL3pnzTW) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [The Alchemist's Euphoria](https://open.spotify.com/album/5YAOV1BIL0uPv2Xa491hCM) | 3:07 |
 
-Snapshot ID: `MTY2NTcwMjAwMCwwMDAwMDAwMDY4N2VkZmM1ZDQ5ZmQ0ZTM2YmE2YjY0NTExOWJkNzIw`
+Snapshot ID: `MTY2NTcwMjAwMCwwMDAwMDAwMGNiMDYxYjkyODdhNWM0ODA5MDAyYWNkYzU2NTZiZmQ4`

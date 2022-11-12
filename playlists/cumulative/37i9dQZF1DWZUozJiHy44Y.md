@@ -4,7 +4,7 @@
 
 > 30 has landed, alongside all her biggest hits!
 
-69 songs - 4 hr 54 min - [published](https://open.spotify.com/playlist/25iPwofyuEhxNXtcvJMrYl)
+71 songs - 5 hr 3 min - [published](https://open.spotify.com/playlist/25iPwofyuEhxNXtcvJMrYl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,8 +26,9 @@
 | [Don't You Remember](https://open.spotify.com/track/48s4feNgV243gbAGTTBIrc) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/7n3QJc7TBOxXtlYh4Ssll8) | 4:03 | 2021-11-19 | 2022-07-29 |
 | [Don't You Remember](https://open.spotify.com/track/4RyjMERDcCJHTkFpXzgUw4) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL) | 4:03 | 2021-11-19 |  |
 | [Easy On Me](https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Easy On Me](https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S) | 3:44 | 2021-11-19 |  |
+| [Hello](https://open.spotify.com/track/3AuzZHPlohKLpildLyORSM) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Hello](https://open.spotify.com/album/5givPbMFm0AMPUYWulmbzg) | 4:55 | 2021-11-19 |  |
 | [Hello](https://open.spotify.com/track/4aebBr4JAihzJQR0CiIZJv) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/7uwTHXmFa1Ebi5flqBosig) | 4:55 | 2021-11-19 | 2022-07-29 |
-| [Hello](https://open.spotify.com/track/62PaSfnXSMyLshYJrlTuL3) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi) | 4:55 | 2021-11-19 |  |
+| [Hello](https://open.spotify.com/track/62PaSfnXSMyLshYJrlTuL3) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi) | 4:55 | 2021-11-19 | 2022-11-12 |
 | [Hold On](https://open.spotify.com/track/6bGMSP3H9YqkmaLnaJTIoF) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 6:06 | 2021-11-19 |  |
 | [Hometown Glory](https://open.spotify.com/track/19QzuPTNZHJ2SEu5LCQTGI) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0) | 4:31 | 2021-11-19 |  |
 | [Hometown Glory](https://open.spotify.com/track/3cCPT7eJhpYXXlH2pbWhfP) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/3uftDqGs13LsE1s8nn5XSe) | 4:31 | 2021-11-19 | 2022-07-29 |
@@ -53,7 +54,8 @@
 | [Remedy](https://open.spotify.com/track/6CGf2aPvKj7497cZ6JMmGT) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/7uwTHXmFa1Ebi5flqBosig) | 4:05 | 2021-11-19 | 2022-07-29 |
 | [River Lea](https://open.spotify.com/track/0NJNQdvwxZTylydofoF76s) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/7uwTHXmFa1Ebi5flqBosig) | 3:45 | 2021-11-19 | 2022-07-29 |
 | [River Lea](https://open.spotify.com/track/3hwu7jZD2TjvWCeHzNlgSE) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi) | 3:45 | 2021-11-19 |  |
-| [Rolling in the Deep](https://open.spotify.com/track/1c8gk2PeTE04A1pIDH9YMk) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL) | 3:48 | 2021-11-19 |  |
+| [Rolling in the Deep](https://open.spotify.com/track/1c8gk2PeTE04A1pIDH9YMk) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL) | 3:48 | 2021-11-19 | 2022-11-12 |
+| [Rolling in the Deep](https://open.spotify.com/track/3GkqnS8Lt8LDZV565ITUwh) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Rolling in the Deep](https://open.spotify.com/album/636ekSSKYrhxvQEHCY07jv) | 3:48 | 2021-11-19 |  |
 | [Rolling in the Deep](https://open.spotify.com/track/5xPazRvyrkVootu8pM9vUG) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Rolling In The Deep](https://open.spotify.com/album/6cw6QU9pF7FyQtSyJjzMua) | 3:48 | 2021-11-19 | 2022-07-29 |
 | [Rumour Has It](https://open.spotify.com/track/2A73XBDBQgmdXO8VsXPWIs) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL) | 3:43 | 2021-11-19 |  |
 | [Rumour Has It](https://open.spotify.com/track/50yHVBbU6M4iIfqBI1bxWx) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/7n3QJc7TBOxXtlYh4Ssll8) | 3:43 | 2021-11-19 | 2022-07-29 |

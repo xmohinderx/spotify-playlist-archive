@@ -1,12 +1,12 @@
 {
   "description": "Japanese female rock icons. Cover: \u30af\u30ec\u30ca\u30ba\u30e0 (Culenasm)",
-  "num_followers": 36199,
+  "num_followers": 36236,
   "original_name": "She Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzkyNTU1MiwwMDAwMDAwMDhjYTZkMGVjNmUxYzA1ZGM2Nzg2NzE2NjlkNTcxYjAx",
+  "snapshot_id": "MTY2NzkyNTU1MiwwMDAwMDAwMDI1ZDM1OTQ5M2Q3YzIxNjg4M2M0NjBjYjliZjc4Mzg4",
   "tracks": [
     {
       "added_at": "2022-11-08 16:39:12",
@@ -739,22 +739,6 @@
     {
       "added_at": "2022-11-08 16:39:12",
       "album": {
-        "name": "\u30d8\u30d3\u30fc\u30b9\u30e2\u30fc\u30af",
-        "url": "https://open.spotify.com/album/3vviZ2ljJiDqTAHm7OCTCd"
-      },
-      "artists": [
-        {
-          "name": "\u306b\u3057\u306a",
-          "url": "https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70"
-        }
-      ],
-      "duration_ms": 302142,
-      "name": "\u30d8\u30d3\u30fc\u30b9\u30e2\u30fc\u30af",
-      "url": "https://open.spotify.com/track/6SZxiOImowwY2pcYjnrf8n"
-    },
-    {
-      "added_at": "2022-11-08 16:39:12",
-      "album": {
         "name": "Kyougen",
         "url": "https://open.spotify.com/album/4muEF5biWb506ZojGMfHb7"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 269893,
       "name": "KokoroToIuNaNoFukakai",
       "url": "https://open.spotify.com/track/5b2Zd5mH2MNYohcWYfnUze"
+    },
+    {
+      "added_at": "2022-11-08 16:39:12",
+      "album": {
+        "name": "\u30d8\u30d3\u30fc\u30b9\u30e2\u30fc\u30af",
+        "url": "https://open.spotify.com/album/3vviZ2ljJiDqTAHm7OCTCd"
+      },
+      "artists": [
+        {
+          "name": "\u306b\u3057\u306a",
+          "url": "https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70"
+        }
+      ],
+      "duration_ms": 302142,
+      "name": "\u30d8\u30d3\u30fc\u30b9\u30e2\u30fc\u30af",
+      "url": "https://open.spotify.com/track/6SZxiOImowwY2pcYjnrf8n"
     },
     {
       "added_at": "2022-11-08 16:39:12",

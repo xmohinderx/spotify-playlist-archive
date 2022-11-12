@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 
 > Enjoy music from GUNDAM series! ガンダムシリーズを彩る楽曲を1つのプレイリストで。©創通・サンライズ・MBS
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,131 likes - 122 songs - 8 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,288 likes - 122 songs - 8 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,12 +24,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 | 14 | [RedZone](https://open.spotify.com/track/08IikpGxSbo2oxqxCWy5Ig) | [Crossfaith](https://open.spotify.com/artist/3gfA40vRbx6YX8oCDXDCDh) | [RedZone / Dead or Alive](https://open.spotify.com/album/104nCXXUMtecWvzQtjFalN) | 3:47 |
 | 15 | [Raise your flag](https://open.spotify.com/track/3vatGqi3j1Q1dROTZrfHiS) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [Dead End in Tokyo European Edition](https://open.spotify.com/album/2gUwqaopWAQnHIhPU0LveY) | 4:07 |
 | 16 | [オルフェンズの涙](https://open.spotify.com/track/3vvdRYBwFbDjsb8IaK0Pgs) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [オルフェンズの涙](https://open.spotify.com/album/0WmvnavzuVxzVM4x8yHR0Q) | 5:06 |
-| 17 | [Survivor](https://open.spotify.com/track/76X16LOhkwkDXPEMQzkLFV) | [BLUE ENCOUNT](https://open.spotify.com/artist/1CWmF1EcrKoWIbZt9Ivfg2) | [THE END](https://open.spotify.com/album/6woCFdjeO1ayr14tKGL1vI) | 3:40 |
+| 17 | [Survivor](https://open.spotify.com/track/6657eyVs4JxsaQlLVW7Fwu) | [BLUE ENCOUNT](https://open.spotify.com/artist/1CWmF1EcrKoWIbZt9Ivfg2) | [POLARIS \(World Edition\)](https://open.spotify.com/album/7J1E36Fw6eyLUtdg58a4QU) | 3:42 |
 | 18 | [STEEL \-鉄血の絆\-](https://open.spotify.com/track/20VdkamdRMOeJWJygL2bHh) | [TRUE](https://open.spotify.com/artist/0UwVT0iMLLAa9SUNENg4te) | [Around the TRUE](https://open.spotify.com/album/15uHffJGg720NSYqceFyMG) | 5:21 |
 | 19 | [RAGE OF DUST](https://open.spotify.com/track/4HlHiyPywAdHVYjKzuvWjY) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [RAGE OF DUST](https://open.spotify.com/album/3UKPV0V2HMbk6i7uk2HWqH) | 3:24 |
 | 20 | [少年の果て](https://open.spotify.com/track/4mp8QXLV50D7AObrjKNUAs) | [GRANRODEO](https://open.spotify.com/artist/3LnMh597QKlMqWqqXz7woc) | [少年の果て](https://open.spotify.com/album/1lQprvL2hJQDAQKxXNRpry) | 5:03 |
 | 21 | [Fighter](https://open.spotify.com/track/4mX3QJf17BNUQpHCH7AD2f) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [KANA\-BOON THE BEST](https://open.spotify.com/album/6LiaBhg3xMU1XEHmlZdhye) | 3:45 |
-| 22 | [フリージア](https://open.spotify.com/track/1cqtS5FEOzjaJy1UdNJDXu) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [Monochrome](https://open.spotify.com/album/4MSwMoJfcq1kGVjQAdWACD) | 5:36 |
+| 22 | [フリージア](https://open.spotify.com/track/1OGMOThMP4JCWvvzodZt4t) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [フリージア](https://open.spotify.com/album/2WZVjhKyNCsnaLslPrniD6) | 5:35 |
 | 23 | [DAYBREAK'S BELL](https://open.spotify.com/track/39CyCLU4O3I001A3vNeHCv) | [L'Arc\-en\-Ciel](https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x) | [TWENITY 2000\-2010](https://open.spotify.com/album/5QxCzeCXsmcPOGf6PhuLRv) | 4:16 |
 | 24 | [Twinkle](https://open.spotify.com/track/7Mmhlc7Uy8cXJ3NJJq7VVc) | [スピラ・スピカ](https://open.spotify.com/artist/3ncARjIEl4SrcrnpOIV5CO) | [Re:RISE \-e.p.\- 2](https://open.spotify.com/album/68cfv9QcZdp77dKxk4MtDZ) | 4:22 |
 | 25 | [哀 戦士](https://open.spotify.com/track/2qHFdjgqzmd8Bw4J4CImaY) | [Daisuke Inoue](https://open.spotify.com/artist/3kyDvSFMl3B0U59KuJUB5g) | [哀 戦士](https://open.spotify.com/album/1JLAdPPA3zVr6nXpgPocgc) | 3:51 |
@@ -66,11 +66,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 | 56 | [FIND THE WAY](https://open.spotify.com/track/71mWw8MYFCoLlYtEIIdfdP) | [Mika Nakashima](https://open.spotify.com/artist/3D73KNJRMbV45N59E8IN0F) | [雪の華15周年記念ベスト盤 BIBLE](https://open.spotify.com/album/6BaJvcf33DHd916Fo0fxuO) | 5:26 |
 | 57 | [Evergreen](https://open.spotify.com/track/4CHhKeFXVwFXRtNL1vim6S) | [MIO](https://open.spotify.com/artist/7xS1kMp7pTwOKAB5jRCFRh) | [Evergreen](https://open.spotify.com/album/3JMe5yYrT8ZPKvfwiI9JAe) | 4:52 |
 | 58 | [Mr\. Lonely Heart](https://open.spotify.com/track/1Gn4CuCH3sJawqjo3ZX3Cj) | [Haruna Yokota](https://open.spotify.com/artist/1sP7Vt8N9rAE9KzLXHBsfh) | [Mr\. Lonely Heart](https://open.spotify.com/album/3wi7XXkZyttGMg94mtK3yC) | 4:53 |
-| 59 | [merry\-go\-round](https://open.spotify.com/track/4S0VjlSeynqtyeRRXzIyuR) | [CHEMISTRY](https://open.spotify.com/artist/257kEbQnBziYfmtmqiNuNE) | [CHEMISTRY 2001\-2011](https://open.spotify.com/album/2l8d2WWpeZ5qwlsrCTeSpR) | 4:04 |
+| 59 | [merry\-go\-round](https://open.spotify.com/track/1CBa3cmTor6isivs7b21w9) | [CHEMISTRY](https://open.spotify.com/artist/257kEbQnBziYfmtmqiNuNE) | [merry\-go\-round](https://open.spotify.com/album/2wF4jvQ3eZkyzDNjDLljRa) | 4:06 |
 | 60 | [いつか空に届いて](https://open.spotify.com/track/0Ty2EKDR8pm9UGx3eAUgVN) | [Megumi Shiina](https://open.spotify.com/artist/6gp9jw7DuN6VFhpYoZzu4X) | [いつか空に届いて](https://open.spotify.com/album/1LTCgu8FrY1QskEnqmakX0) | 3:52 |
 | 61 | [CENTURY COLOR](https://open.spotify.com/track/4fYnEHYFjyDmjXWwPho3E0) | [RAY\-GUNS](https://open.spotify.com/artist/3LGl3rlULamIUsZ5mhB5Qn) | [CENTURY COLOR](https://open.spotify.com/album/1WBqlsCwnWXLSTBYWicFM6) | 3:10 |
 | 62 | [It's Just Love!](https://open.spotify.com/track/1ckhGyNThmpfbQrMxrorFl) | [大石ルミ](https://open.spotify.com/artist/6gQfVbFNoR1AS3ldKn2eIW) | [It's Just Love!](https://open.spotify.com/album/3wuEy0hpaDd0ffg6DRtPA7) | 3:57 |
-| 63 | [BLAZING](https://open.spotify.com/track/7veiuBU6DKOWOAUwkIAptI) | [GARNiDELiA](https://open.spotify.com/artist/7MIbdLkqD1qQE35LSISIM6) | [Linkage Ring](https://open.spotify.com/album/7moLeMntkra4cH3ACSMsjE) | 3:55 |
+| 63 | [BLAZING](https://open.spotify.com/track/3aRcw3ZViVfkFLuX31j1Pq) | [GARNiDELiA](https://open.spotify.com/artist/7MIbdLkqD1qQE35LSISIM6) | [GARNiDELiA BEST](https://open.spotify.com/album/0fUhYS7qlPkM3seTUzGCoV) | 3:56 |
 | 64 | [Distance](https://open.spotify.com/track/1QQDhxgcY8ty28ltzT9lW6) | [FictionJunction](https://open.spotify.com/artist/5Q08YLH6CfTdmvhvRJ3iyz) | [Distance](https://open.spotify.com/album/6qSpHIBr5XLlKC3v35WrIl) | 4:07 |
 | 65 | [君を見つめて \-The time I'm seeing you\-](https://open.spotify.com/track/3MPsfnHkXQTXCjTlJdpzhk) | [Hiroko Moriguchi](https://open.spotify.com/artist/1F26f2fTqYBhCtp6sXAsQV) | [君を見つめて \-The time I'm seeing you\-](https://open.spotify.com/album/0BYCNGZdxWGcZj88wNsnxN) | 4:36 |
 | 66 | [Believe](https://open.spotify.com/track/3HHjjYG0zXaesYKfJgwjkK) | [Nami Tamaki](https://open.spotify.com/artist/4awZsyevkX7tP6nu1rFvUq) | [Believe](https://open.spotify.com/album/6uRMVRVi7VhwAR5e5YM7eJ) | 3:56 |
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 | 83 | [Don't Stop!Carry On!](https://open.spotify.com/track/3cSciHvHIvOVtXGezkRd1M) | [RD](https://open.spotify.com/artist/4g7EG9jvj6IkGitrD2i5uH) | [Don't Stop!Carry On!](https://open.spotify.com/album/7FaNRsZ6CM8TVjQaKlKxCw) | 3:30 |
 | 84 | [Planet Zone](https://open.spotify.com/track/1AzDqUGSBTzexgNzzZjg0t) | [結城梨沙](https://open.spotify.com/artist/4dE7mnDgdYAsXY4X9jfoPA) | [Planet Zone](https://open.spotify.com/album/3Km6CvcGjkq6BybVypKQGB) | 4:04 |
 | 85 | [sharp ♯](https://open.spotify.com/track/5GvQzJ462BgEdnZvUdhclb) | [negoto](https://open.spotify.com/artist/19oTSjL9FYG6cemjnNwiuF) | [5](https://open.spotify.com/album/0ZRPPgS3QfIdJbOEqFleo0) | 3:39 |
-| 86 | [StarRingChild](https://open.spotify.com/track/3Xzb9D64WsKmYcV8AGMmeu) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Midnight Sun](https://open.spotify.com/album/5tWOnk7nrqGc6Fhqe74Kse) | 5:28 |
+| 86 | [StarRingChild](https://open.spotify.com/track/6BHd9uikDLiAYiF9UwqxPk) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [BEST SELECTION "noir"](https://open.spotify.com/album/3HORDo7fTgMBQoI9sjuEM8) | 5:28 |
 | 87 | [SOLDIER \-哀しみの詩\-](https://open.spotify.com/track/1FVhSxoxYXRs4PMfRpz8BV) | [CHINO](https://open.spotify.com/artist/0XfijNDFFxkYrFz7TqojhZ) | [SOLDIER \-哀しみの詩\-](https://open.spotify.com/album/6afn6rCEdZC8F86HcQUC5H) | 4:15 |
 | 88 | [My World](https://open.spotify.com/track/1UuBZ4Q6avTXQH1Kwe4uu8) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [Just Do It](https://open.spotify.com/album/31NpRXdyYJi5TDzG1WQ4bO) | 3:35 |
 | 89 | [ニブンノイチ](https://open.spotify.com/track/7v3ORF68iK8NQmyLs3sDey) | [BACK\-ON](https://open.spotify.com/artist/41wiRMqVmNSZ3FFM7JIeht) | [ニブンノイチ / INFINITY](https://open.spotify.com/album/1vd8lSOGx9dDHWWeJ2Ee0m) | 3:05 |
@@ -103,7 +103,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 | 93 | [trust you](https://open.spotify.com/track/6yqFIahTpbNzLZQQ1CXzFg) | [Yuna Ito](https://open.spotify.com/artist/0yKgtrXFlFG2rbA5vamkC5) | [trust you](https://open.spotify.com/album/7KsuNLxai7E001DjtxTOHq) | 5:19 |
 | 94 | [Meteor \-ミーティア\-](https://open.spotify.com/track/2WVLxptmqfKfGLve79U5s6) | [T.M.Revolution](https://open.spotify.com/artist/3jdzcmtw5XOmOkSb2mRDtr) | [coordinate](https://open.spotify.com/album/1Nz1JrJKCsAtTiIu5A3pw2) | 4:10 |
 | 95 | [クオリア](https://open.spotify.com/track/12zLvEe3rs05AROHQmGN1Y) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [LIFE 6 SENSE](https://open.spotify.com/album/3a0Fm0IirSryLjMpfPXldU) | 4:30 |
-| 96 | [Reason](https://open.spotify.com/track/6NHwaWtSIQTZKP4ki1riR1) | [Nami Tamaki](https://open.spotify.com/artist/4awZsyevkX7tP6nu1rFvUq) | [Make Progress](https://open.spotify.com/album/2MxDcdAxU2FkEJoHNEmPw9) | 4:50 |
+| 96 | [Reason](https://open.spotify.com/track/5CKCJTCMiEFNTRVljknIaj) | [Nami Tamaki](https://open.spotify.com/artist/4awZsyevkX7tP6nu1rFvUq) | [Graduation 〜Singles〜](https://open.spotify.com/album/4bdX5QQ5zyxxEcYJOsefP2) | 4:50 |
 | 97 | [THE WINNER](https://open.spotify.com/track/2dQh3viWNC3BQnGkuYRton) | [Miki Matsubara](https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1) | [THE WINNER](https://open.spotify.com/album/4xQBkieKQeYJxSb0jSnqtc) | 4:09 |
 | 98 | [Meguriai](https://open.spotify.com/track/2zg4wZXLu7p8NzTmXUJ6sf) | [SUGIZO](https://open.spotify.com/artist/6crEqOlFP6no2flmuas6P7), [GLIM SPANKY](https://open.spotify.com/artist/4sWyw0OrBKwmiaPOAuTuig) | [Meguriai](https://open.spotify.com/album/1lcV7AV2fvUbVCc4RoAWbW) | 5:33 |
 | 99 | [ふたりのまほう](https://open.spotify.com/track/2sxba3dBEuKW6MSlOCJ1Tl) | [May J.](https://open.spotify.com/artist/7sJzR6n8Buyv45FKrLvZIS) | [Futuristic](https://open.spotify.com/album/7c5cMkOoWDmlo5ptlYUs9f) | 3:19 |
@@ -131,4 +131,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 | 121 | [ビギニング](https://open.spotify.com/track/515LLsIoa7eetaTiFEJSa6) | [Daisuke Inoue](https://open.spotify.com/artist/3kyDvSFMl3B0U59KuJUB5g) | [ビギニング](https://open.spotify.com/album/4oel0lHGTN643V87ohpAL1) | 3:24 |
 | 122 | [A Red Ray](https://open.spotify.com/track/2KCOmmGptlVGAvFAVzAx7H) | [SUGIZO](https://open.spotify.com/artist/6crEqOlFP6no2flmuas6P7), [miwa](https://open.spotify.com/artist/3R3WEsfL1WC1zLiz3XG9K5) | [A Red Ray](https://open.spotify.com/album/3LRl7ohuRCj6RIDTEhcx3r) | 4:51 |
 
-Snapshot ID: `MTY2NjAzMTEyMiwwMDAwMDAwMGUzMGZhM2U0ZjU4YzFiMWIyOGI0ZjhkMGEyYmJhMmY5`
+Snapshot ID: `MTY2NjAzMTEyMiwwMDAwMDAwMGMwNTEzYzRjOTI2YmY4OTQ2ZmNhNTgyNTU2OGE0NGU4`

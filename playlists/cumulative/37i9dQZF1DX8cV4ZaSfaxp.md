@@ -4,7 +4,7 @@
 
 > A dazzling but very sad feeling\. Enjoy the city pop music of Korean singers\. \(Cover: SURAN\(수란\)\) \(찬란하고도 아련한 느낌을 간직한 한국 시티팝을 즐겨보세요.\)
 
-278 songs - 17 hr 20 min - [published](https://open.spotify.com/playlist/60gChNBvUMmws1lEdYPtTq)
+279 songs - 17 hr 24 min - [published](https://open.spotify.com/playlist/60gChNBvUMmws1lEdYPtTq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Desire \(Feat\. 정진형, Vince\)](https://open.spotify.com/track/0sMSGLrwt5KFttn3ksv8CK) | [vangdale](https://open.spotify.com/artist/2lLe2zAxFPSHnAQdarRYFb), [JEY](https://open.spotify.com/artist/2wrI86paHc2IIj6VmGOAMG), [Vince](https://open.spotify.com/artist/3RnlokVV0FpqtV5FDeHYZd) | [mojo](https://open.spotify.com/album/2B26gj1V8eKsJ6yPXaZxkE) | 3:14 | 2022-05-11 | 2022-07-29 |
 | [Dilemma \- Remastered](https://open.spotify.com/track/1N6UrLYVbLsGKv1xuqbgYk) | [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17) | [Animation](https://open.spotify.com/album/678QsdsjapDnh9N9iCeFyp) | 3:20 | 2022-05-11 | 2022-07-16 |
 | [Dive](https://open.spotify.com/track/0Ots0hGoPjgRw99GdQzJjc) | [Luli Lee](https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK) | [Dive](https://open.spotify.com/album/314Qk4Awu61HcBTSNJ7ypm) | 3:41 | 2022-07-22 | 2022-11-03 |
+| [Dive](https://open.spotify.com/track/1DC1Hhv3t5jnYrDNQbZu7u) | [Luli Lee](https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK) | [Dive](https://open.spotify.com/album/4CSodYxHpQLracYVV0emB7) | 3:41 | 2022-09-05 |  |
 | [Dive](https://open.spotify.com/track/71YHNeT3TMUnV1165mgRbO) | [Luli Lee](https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK) | [Dive](https://open.spotify.com/album/4gn113ACCBiiIr6XtCV3Mc) | 3:41 | 2022-05-11 | 2022-07-29 |
 | [Dolls](https://open.spotify.com/track/1XxT5GxDa5GD8hnhTK2AD6) | [9MUSES](https://open.spotify.com/artist/55tJwpPIz9BMrSLM45iEXX) | [DOLLS](https://open.spotify.com/album/3gCmOfwfMprkm469ZUyZ6m) | 3:26 | 2022-05-11 |  |
 | [Dreams Come True](https://open.spotify.com/track/3HW8GYMIa1h7LjcOmOKVEg) | [Kirin](https://open.spotify.com/artist/3dFiM806dnbA7YUIgOHDBc), [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU), [Golden](https://open.spotify.com/artist/1bhaaVxOYgxzTuNcxhCtaX), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [2020](https://open.spotify.com/album/2ivll4rHB5TPCVSrRDYfAo) | 3:54 | 2022-05-11 | 2022-07-20 |
@@ -212,7 +213,7 @@
 | [SHADE](https://open.spotify.com/track/1w4p96v9sOAQAXbsVH98rs) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [SOUL LADY](https://open.spotify.com/album/16yrp3d9pCJgQK2RMBTtd1) | 4:16 | 2022-05-11 | 2022-07-29 |
 | [Shining Love Song](https://open.spotify.com/track/0DFSFBB4faitgBed2IJ4O5) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [Shining Love Song](https://open.spotify.com/album/7n2p500IY7UeU9NlgFFeV0) | 3:11 | 2022-09-05 |  |
 | [Sign](https://open.spotify.com/track/0ZHyC8NwIeGWaf73dQuK0y) | [Kim Areum](https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp) | [AQUA CITY](https://open.spotify.com/album/6zwAQwh8Hk0XFWaBfXoux2) | 3:36 | 2022-05-11 | 2022-07-12 |
-| [Silent Movie](https://open.spotify.com/track/4uu4bnkSI1JvTwKFUqq7Gp) | [Yubin](https://open.spotify.com/artist/3JUj7c2h5xkdOf0GJ07VWE), [Yoon Mirae](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Start of the End](https://open.spotify.com/album/6hM2rd6v2VO3VUAyTW3GTm) | 3:20 | 2022-09-05 |  |
+| [Silent Movie](https://open.spotify.com/track/4uu4bnkSI1JvTwKFUqq7Gp) | [Yubin](https://open.spotify.com/artist/3JUj7c2h5xkdOf0GJ07VWE), [Yoon Mirae](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Start of the End](https://open.spotify.com/album/6hM2rd6v2VO3VUAyTW3GTm) | 3:20 | 2022-09-05 | 2022-11-12 |
 | [Slide](https://open.spotify.com/track/09TYWKx7EhaAo4wrpFCpd4) | [Swing](https://open.spotify.com/artist/66bVJmfvszO59SwBAc4z9W), [Nene](https://open.spotify.com/artist/5LQjpbx0z9EONJHkWoDt0K) | [play ground](https://open.spotify.com/album/0cpiWjhRpaenw6hqJBhSle) | 3:26 | 2022-05-11 | 2022-07-28 |
 | [Someone like U](https://open.spotify.com/track/5zbxw72g850H4fNMFEO7PC) | [Dalshabet](https://open.spotify.com/artist/10xsuRNvidaOLxWd3fRIel) | [The 9th Mini Album 'Naturalness'](https://open.spotify.com/album/7ajKOgmGaCCrqSVIgxbnNf) | 3:20 | 2022-07-04 |  |
 | [Sorrow](https://open.spotify.com/track/0XwGln1yachgJd8PMrfzZ5) | [kursor](https://open.spotify.com/artist/1E72qKtO7O98IKj51642TR) | [Sorrow](https://open.spotify.com/album/4j7fShY9MfyKPgq5czbii0) | 3:28 | 2022-05-11 | 2022-07-29 |

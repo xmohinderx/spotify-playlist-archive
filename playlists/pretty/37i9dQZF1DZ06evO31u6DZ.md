@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31u6DZ.md) - [plain]
 
 > This is Senses Fail\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,454 likes - 46 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,455 likes - 46 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,27 +32,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31u6DZ.md) - [plain]
 | 22 | [Handguns and Second Chances](https://open.spotify.com/track/2HdtxF6IO9zvFTyuoe44kX) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [From The Depths Of Dreams](https://open.spotify.com/album/1Sd2yj3wFNHskILXgPCf0y) | 2:21 |
 | 23 | [You're Cute When You Scream](https://open.spotify.com/track/3Ch5YOx4qbMpmeYgurnBSd) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Let It Enfold You](https://open.spotify.com/album/2NLyP6U1OZZ8d4PvbVANLT) | 2:25 |
 | 24 | [I Am Error](https://open.spotify.com/track/6dedec4UcACJV9MlQwydqK) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Hell is in Your Head](https://open.spotify.com/album/1Rj8VxOUGmuKrTDcFNISvB) | 3:52 |
-| 25 | [Lungs Like Gallows](https://open.spotify.com/track/4rTzIN2fYne7HK1f0yRaXX) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Life Is Not a Waiting Room](https://open.spotify.com/album/0ebY8YG1wME8xFsFzsuDyF) | 3:20 |
+| 25 | [Wolves at the Door](https://open.spotify.com/track/3AOCBSxBqQgz7W65K084Ha) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Life Is Not a Waiting Room](https://open.spotify.com/album/0ebY8YG1wME8xFsFzsuDyF) | 3:27 |
 | 26 | [One Eight Seven](https://open.spotify.com/track/0pclT1QQ4Pu7C1pZBpei0f) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [From The Depths Of Dreams](https://open.spotify.com/album/1Sd2yj3wFNHskILXgPCf0y) | 4:10 |
 | 27 | [I'm Sorry I'm Leaving](https://open.spotify.com/track/373GdfW6KshUwMjxk4JtKp) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [I'm Sorry I'm Leaving](https://open.spotify.com/album/7K1AZt6c0aXqLiS7S4qCYi) | 3:12 |
 | 28 | [The Fire Sermon](https://open.spotify.com/track/2xP7LnL8onazCSEezS1IvC) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Hell is in Your Head](https://open.spotify.com/album/1Rj8VxOUGmuKrTDcFNISvB) | 3:25 |
-| 29 | [Wolves at the Door](https://open.spotify.com/track/3AOCBSxBqQgz7W65K084Ha) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Life Is Not a Waiting Room](https://open.spotify.com/album/0ebY8YG1wME8xFsFzsuDyF) | 3:27 |
+| 29 | [Lungs Like Gallows](https://open.spotify.com/track/4rTzIN2fYne7HK1f0yRaXX) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Life Is Not a Waiting Room](https://open.spotify.com/album/0ebY8YG1wME8xFsFzsuDyF) | 3:20 |
 | 30 | [Free Fall Without A Parachute](https://open.spotify.com/track/11EE0kTgJokpFRVv8IjyWM) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [From The Depths Of Dreams](https://open.spotify.com/album/1Sd2yj3wFNHskILXgPCf0y) | 4:12 |
 | 31 | [New Jersey Makes, The World Takes](https://open.spotify.com/track/25PtrOA0qzM9IUtkGuEAn3) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [If There Is Light, It Will Find You](https://open.spotify.com/album/5Bdj3JrmjvkampuUvA8nx0) | 2:59 |
 | 32 | [Between the Mountains and the Sea](https://open.spotify.com/track/5x95e85zuMCIFWezlxCnHs) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Renacer](https://open.spotify.com/album/3z6xGsObjZFEdnUgZaU2MP) | 4:53 |
 | 33 | [Four Years](https://open.spotify.com/track/1deMF6m52RB0UQnlx8k3uU) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Life Is Not a Waiting Room](https://open.spotify.com/album/0ebY8YG1wME8xFsFzsuDyF) | 4:15 |
 | 34 | [Institutionalized](https://open.spotify.com/track/7onCRN2Y3up2FNeGUnEoDd) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Let It Enfold You \(Deluxe Edition\)](https://open.spotify.com/album/6Blw6RRPD0RAjpYsa0CMFd) | 3:49 |
 | 35 | [If There is Light, It Will Find You](https://open.spotify.com/track/2129CLYgR1NmJrW1Iszn3l) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [If There Is Light, It Will Find You](https://open.spotify.com/album/5Bdj3JrmjvkampuUvA8nx0) | 6:17 |
-| 36 | [War Paint](https://open.spotify.com/track/2BCTVfAlmWL36IOWk2GTri) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Follow Your Bliss: The Best of Senses Fail](https://open.spotify.com/album/6NOnaTeHCoe0TT1AOw6c9Q) | 3:39 |
+| 36 | [Steven](https://open.spotify.com/track/5B06JHXewLwFQhBBOZuDCu) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [From The Depths Of Dreams](https://open.spotify.com/album/1Sd2yj3wFNHskILXgPCf0y) | 4:20 |
 | 37 | [Fireworks at Dawn](https://open.spotify.com/track/5AGAEzjCUGEw6zBwqRJMBf) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Life Is Not a Waiting Room](https://open.spotify.com/album/0ebY8YG1wME8xFsFzsuDyF) | 2:09 |
-| 38 | [The Ground Folds \- Acoustic](https://open.spotify.com/track/22qvb9FLsJJtkLMN1hAphe) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [From The Depths Of Dreams](https://open.spotify.com/album/1Sd2yj3wFNHskILXgPCf0y) | 4:28 |
+| 38 | [War Paint](https://open.spotify.com/track/2BCTVfAlmWL36IOWk2GTri) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Follow Your Bliss: The Best of Senses Fail](https://open.spotify.com/album/6NOnaTeHCoe0TT1AOw6c9Q) | 3:39 |
 | 39 | [First Breath, Last Breath](https://open.spotify.com/track/6eRpj3GLxtaBv2z0ruySm1) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [If There Is Light, It Will Find You](https://open.spotify.com/album/5Bdj3JrmjvkampuUvA8nx0) | 2:54 |
-| 40 | [The Fire](https://open.spotify.com/track/7uXqfDaEfaqDbvrFkYfRC7) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [The Fire](https://open.spotify.com/album/6IExM5Oz7rM77Qz27L0nYD) | 3:44 |
+| 40 | [The Ground Folds \- Acoustic](https://open.spotify.com/track/22qvb9FLsJJtkLMN1hAphe) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [From The Depths Of Dreams](https://open.spotify.com/album/1Sd2yj3wFNHskILXgPCf0y) | 4:28 |
 | 41 | [Garden State](https://open.spotify.com/track/7nZjbGhTacrx9SRmmMscC3) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Life Is Not a Waiting Room](https://open.spotify.com/album/0ebY8YG1wME8xFsFzsuDyF) | 3:38 |
-| 42 | [Steven](https://open.spotify.com/track/5B06JHXewLwFQhBBOZuDCu) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [From The Depths Of Dreams](https://open.spotify.com/album/1Sd2yj3wFNHskILXgPCf0y) | 4:20 |
+| 42 | [The Fire](https://open.spotify.com/track/7uXqfDaEfaqDbvrFkYfRC7) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [The Fire](https://open.spotify.com/album/6IExM5Oz7rM77Qz27L0nYD) | 3:44 |
 | 43 | [Elevator to the Gallows](https://open.spotify.com/track/1bbRM6nUzzoO6vhfNx9h3n) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [If There Is Light, It Will Find You](https://open.spotify.com/album/5Bdj3JrmjvkampuUvA8nx0) | 3:44 |
 | 44 | [Mi Amor](https://open.spotify.com/track/7jqNINX4kZhSQOKmYvLkxZ) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Renacer](https://open.spotify.com/album/3z6xGsObjZFEdnUgZaU2MP) | 3:29 |
 | 45 | [Saint Anthony](https://open.spotify.com/track/2cMosb3ON8fKZjpRi3eDpf) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [The Fire](https://open.spotify.com/album/6IExM5Oz7rM77Qz27L0nYD) | 3:15 |
 | 46 | [Lifeboats](https://open.spotify.com/track/2Ni3cDRGxDysPNq6DQypAM) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [The Fire](https://open.spotify.com/album/6IExM5Oz7rM77Qz27L0nYD) | 3:32 |
 
-Snapshot ID: `Mjc4MDE1OTIsMDAwMDAwMDAxZmQyYzQ0NmEyYjQ0ZWRlYzk1MjYzYjdmNTE4Mjc3ZQ==`
+Snapshot ID: `Mjc4MDI5OTksMDAwMDAwMDAzNzU1ZWUxNzQyOWM3OWQzNTlhZDc4Njk5Y2U4MDliYQ==`

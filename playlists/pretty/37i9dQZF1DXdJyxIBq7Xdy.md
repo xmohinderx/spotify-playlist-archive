@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJyxIBq7Xdy.md) - [plain]
 
 > The most definitive female voices in Disco\. Cover: Chaka Khan
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,359 likes - 33 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,376 likes - 33 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,10 +13,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJyxIBq7Xdy.md) - [plain]
 | 3 | [Ring My Bell](https://open.spotify.com/track/2BEArHIJsI5fxYEpCZv2sF) | [Anita Ward](https://open.spotify.com/artist/3Dd6jD1AApgtNoU6SJWR7P) | [Ring My Bell](https://open.spotify.com/album/5iGr1ahzViyPqmOUxSzYWo) | 3:32 |
 | 4 | [We Are Family \- 1995 Remaster](https://open.spotify.com/track/5IKLwqBQG6KU6MP2zP80Nu) | [Sister Sledge](https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays) | [We Are Family \(1995 Remaster\)](https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT) | 3:36 |
 | 5 | [Hot Stuff](https://open.spotify.com/track/424pNN5XqYHje4vNpuHgBT) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [The Dance Collection](https://open.spotify.com/album/7FqRt16IDbD2LvgJ4Otqcp) | 6:40 |
-| 6 | [I Will Survive \- Original 7" Version](https://open.spotify.com/track/6fw12s3vAJQAt7lbICodwC) | [Gloria Gaynor](https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5) | [I Will Survive \(Phil Kelsey Remix\)](https://open.spotify.com/album/0afBUyhZUpKrvV9gxWWXM1) | 3:18 |
+| 6 | [I Will Survive \- Single Version](https://open.spotify.com/track/11mbgudZg9xtzd1NQUMQsh) | [Gloria Gaynor](https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5) | [20 \#1’s: Disco](https://open.spotify.com/album/516VlzUNettigNhOnhMY5w) | 3:16 |
 | 7 | [Love Come Down \- Single Version](https://open.spotify.com/track/3ZpSFamHHJE4kL59IePR7P) | [Evelyn "Champagne" King](https://open.spotify.com/artist/4JCt4xrbbBB9blkKwNlcJ7) | [Essential \- Soul Love](https://open.spotify.com/album/7LNiJbdcg604Tfr5revoL6) | 3:37 |
 | 8 | [Finally](https://open.spotify.com/track/1CIdDyM4JnYX9ajRaqhbLr) | [CeCe Peniston](https://open.spotify.com/artist/5UoVLCWzOKMIJ9iioof9OD) | [Nineties Party Music](https://open.spotify.com/album/7r5oLtvab5hX9xcqTuGdeW) | 4:05 |
-| 9 | [Pull Up To The Bumper](https://open.spotify.com/track/653Fi3bqMxQQQmjw72ur6G) | [Grace Jones](https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd) | [Nightclubbing](https://open.spotify.com/album/4RmUcjaKiuQIw3NGMrjBca) | 4:41 |
+| 9 | [Pull Up To The Bumper](https://open.spotify.com/track/5VpDYLvj2R2D69irsL5Mra) | [Grace Jones](https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd) | [Fill The Dance Floor](https://open.spotify.com/album/5gc6mLkEYKdwD58QlODJED) | 4:41 |
 | 10 | [Jump \(For My Love\)](https://open.spotify.com/track/3L9ClO1W5KmebIXTrlKShF) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [Break Out](https://open.spotify.com/album/0Kmw2yUjTfdaN1son7GTp5) | 4:27 |
 | 11 | [Best of My Love](https://open.spotify.com/track/6UjlpJhUqOQqv0hrb38IDI) | [The Emotions](https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr) | [The Best Of The Emotions: Best Of My Love](https://open.spotify.com/album/30OwtFBugzMGsAYhXzEBEP) | 3:39 |
 | 12 | [I Wanna Dance with Somebody \(Who Loves Me\)](https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney](https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t) | 4:51 |
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJyxIBq7Xdy.md) - [plain]
 | 16 | [He's the Greatest Dancer \- 1995 Remaster](https://open.spotify.com/track/5MuNxNox3zTanAFIO5KcTl) | [Sister Sledge](https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays) | [Atlantic 60th: On The Dance Floor Vol\. 2](https://open.spotify.com/album/7liGswqymvHdcDREn3FQDz) | 6:15 |
 | 17 | [Young Hearts Run Free](https://open.spotify.com/track/3kg2PawuP6a6sdDprB0v5K) | [Candi Staton](https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et) | [Online Party](https://open.spotify.com/album/527pyfqVMtAj4L1xKsbHKR) | 3:52 |
 | 18 | [Bad Girls](https://open.spotify.com/track/70lxKQgs7U1W0IWPVs9NVv) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [On The Radio: Greatest Hits Volumes I & II](https://open.spotify.com/album/1DeQ0MqQiY2RpMSMFEsILA) | 3:05 |
-| 19 | [Funkytown \- Single Version](https://open.spotify.com/track/0B5kY9i9bmP7554oU4jRoO) | [Lipps Inc.](https://open.spotify.com/artist/0lwRI7lvmlRY5DiA5Xa6wQ) | ['80s Pop \#1's](https://open.spotify.com/album/4Z1n0xes29RVzPttal9QOY) | 4:05 |
+| 19 | [Funkytown \- Single Version](https://open.spotify.com/track/6al1jqUvx8DNy1LLlxiXCo) | [Lipps Inc.](https://open.spotify.com/artist/0lwRI7lvmlRY5DiA5Xa6wQ) | [Smile](https://open.spotify.com/album/3Ops0OHRGwjdQYgIRFRORt) | 3:54 |
 | 20 | [Ain't Nobody](https://open.spotify.com/track/53Za5vyGc1x7GxgJVRjRKc) | [Rufus](https://open.spotify.com/artist/3MCjwjfIor5FkK3h639qkW), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Stompin' At The Savoy](https://open.spotify.com/album/3j0kxKahatiR5d0sPPtTjP) | 4:45 |
 | 21 | [Knock On Wood](https://open.spotify.com/track/081prZUECLXcWgmg98FxDS) | [Amii Stewart](https://open.spotify.com/artist/7GPNaPWw3STF8NYp39pd8G) | [Knock On Wood](https://open.spotify.com/album/7knNWrNpy0By8sLlgxnfki) | 4:10 |
 | 22 | [Rough Diamond](https://open.spotify.com/track/0xeHrqvJVonxLfhhklFSsp) | [Madleen Kane](https://open.spotify.com/artist/2nCH7NlCpkfhzJMS4opstC) | [Rough Diamond](https://open.spotify.com/album/5ENQf6cVALR7MGWP50D7xY) | 6:20 |
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJyxIBq7Xdy.md) - [plain]
 | 32 | [Upside Down](https://open.spotify.com/track/76as3dkOkHGMAvwmaKXPMD) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [20th Century Masters: The Millennium Collection: Best of Diana Ross](https://open.spotify.com/album/54fyYXrRRfl7sMJYF8FXcX) | 4:06 |
 | 33 | [Flashdance](https://open.spotify.com/track/6SFvUBlG1AkpeyEvGIsZYZ) | [Irene Cara](https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G) | [Discofever](https://open.spotify.com/album/1giVisMA7IpCzLcH3qjyfr) | 3:48 |
 
-Snapshot ID: `MTU1MTIwNDM3OSwwMDAwMDAwMDg4ZTUxYzZkYmIzMzAzMDlhZTU3YWJkZDljZTlhMWEw`
+Snapshot ID: `MTU1MTIwNDM3OSwwMDAwMDAwMGI3ZDFhMDY5Yjk2NmE4Y2M4Mzk2NDE5NWVkNzhjNzli`

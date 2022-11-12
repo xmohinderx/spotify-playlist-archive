@@ -793,10 +793,28 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-13",
+      "date_removed": null,
       "duration_ms": 180588,
       "name": "Apasionadamente",
       "url": "https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel"
+    },
+    {
+      "album": {
+        "name": "Aquellos Misterios",
+        "url": "https://open.spotify.com/album/0LdBzI3szBHNkZ0fPbsBLT"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Campos",
+          "url": "https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149625,
+      "name": "Aquellos Misterios",
+      "url": "https://open.spotify.com/track/3eL6hWEtP8reMoUp7Zlx9A"
     },
     {
       "album": {
@@ -1076,6 +1094,24 @@
     },
     {
       "album": {
+        "name": "Baladas Rom\u00e1nticas Latinas",
+        "url": "https://open.spotify.com/album/07EhDhHjge4hEJcXzUUq0j"
+      },
+      "artists": [
+        {
+          "name": "Le\u00f3n Larregui",
+          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224826,
+      "name": "Brillas",
+      "url": "https://open.spotify.com/track/0wVU74Grfynyrl7vlaCM0E"
+    },
+    {
+      "album": {
         "name": "Solstis - De Le\u00f3n Larregui",
         "url": "https://open.spotify.com/album/0UwCZ5d7AFISyHxrpHjbqZ"
       },
@@ -1087,7 +1123,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 224826,
       "name": "Brillas",
       "url": "https://open.spotify.com/track/6OKmGZASRCmiKQKz4hCNrs"
@@ -3263,7 +3299,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 235865,
       "name": "Intensidad",
       "url": "https://open.spotify.com/track/7MPKbeCWeCljobb31x7kVI"
@@ -6553,7 +6589,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 144179,
       "name": "Te Pense un Monton",
       "url": "https://open.spotify.com/track/24La1Vx1hoGp9SVo3gL8x5"

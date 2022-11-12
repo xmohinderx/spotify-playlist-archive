@@ -4,7 +4,7 @@
 
 > Music to get your heart started.
 
-122 songs - 6 hr 43 min - [published](https://open.spotify.com/playlist/4lEzpfP5kkGqno5HylekJa)
+123 songs - 6 hr 47 min - [published](https://open.spotify.com/playlist/4lEzpfP5kkGqno5HylekJa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,8 @@
 | [Life is a Highway](https://open.spotify.com/track/5gB2IrxOCX2j9bMnHKP38i) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Cars \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Xiz5kq12VOzTw9Kun7m0f) | 4:35 | 2021-12-22 |  |
 | [Lil Bit](https://open.spotify.com/track/0NmuYnjETG3u3qx0OmEJev) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Lil Bit](https://open.spotify.com/album/6aw4FMaYoLmhMZEI5dcq8I) | 3:15 | 2021-12-22 |  |
 | [Long Haul](https://open.spotify.com/track/4q6L3Ca4YuLHWg8YZqfMvE) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [Long Haul](https://open.spotify.com/album/6hv9rSMxLukAg8nYVegpYL) | 3:51 | 2021-12-22 | 2022-07-29 |
-| [Long Haul](https://open.spotify.com/track/7nERlpaH7QghaO7jC60Xtu) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [Coyote Cry](https://open.spotify.com/album/5uQt9PVJIZvYjOL43EkOId) | 3:51 | 2021-12-22 |  |
+| [Long Haul](https://open.spotify.com/track/6WFhyQ6n43T6bWQgjtW3aX) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [Laidback Country](https://open.spotify.com/album/6HUfFgJtKTXSd9b9B4u1Pc) | 3:51 | 2021-12-22 |  |
+| [Long Haul](https://open.spotify.com/track/7nERlpaH7QghaO7jC60Xtu) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [Coyote Cry](https://open.spotify.com/album/5uQt9PVJIZvYjOL43EkOId) | 3:51 | 2021-12-22 | 2022-11-12 |
 | [Lose My Mind](https://open.spotify.com/track/1qC0pi9ZH47XDjvaNbg8ch) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Illinois](https://open.spotify.com/album/5Og3UBs6tCL47yee1ukYgw) | 2:35 | 2021-12-22 |  |
 | [Love Ain't](https://open.spotify.com/track/6uVzeU47Qzg0rrMneP5BNg) | [Eli Young Band](https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv) | [Love Ain't](https://open.spotify.com/album/5EINVVHmix3Yvu6ruZC1L0) | 3:06 | 2021-12-22 |  |
 | [Mama's Broken Heart](https://open.spotify.com/track/2mXsZsJBThTaJXbNcg5QD4) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Four The Record](https://open.spotify.com/album/1Pv6Znx8kGygusP4fqBD7m) | 2:57 | 2021-12-22 |  |

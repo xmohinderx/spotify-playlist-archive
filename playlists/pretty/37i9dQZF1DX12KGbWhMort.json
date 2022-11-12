@@ -1,12 +1,12 @@
 {
   "description": "Dale play, y que el amor no pare.",
-  "num_followers": 136722,
+  "num_followers": 136828,
   "original_name": "Enganchados: Rom\u00e1nticos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNDg3MTYwMCwwMDAwMDAwMDA5ZTI0MWM1ODQ1MzgyMDVjNDIwZDFhMDI1OTIzZTQ3",
+  "snapshot_id": "MTYzNDg3MTYwMCwwMDAwMDAwMDQ2NTA2MTkwODk4OTcyNzhkNTc0YmQ2ZmRjMzIxMDRj",
   "tracks": [
     {
       "added_at": "2021-10-22 03:00:00",
@@ -295,22 +295,6 @@
     {
       "added_at": "2021-10-22 03:00:00",
       "album": {
-        "name": "Entre El Agua Y El Fuego",
-        "url": "https://open.spotify.com/album/2D6nGOEEyp7GZCyWlO99GI"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Luis Perales",
-          "url": "https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "\u00bfY c\u00f3mo es \u00e9l?",
-      "url": "https://open.spotify.com/track/7aSxNjoVoAwNL7HDAKwGtC"
-    },
-    {
-      "added_at": "2021-10-22 03:00:00",
-      "album": {
         "name": "Pablo Alboran (Deluxe)",
         "url": "https://open.spotify.com/album/1PfEXmG8ioEwsj7qDaCQXc"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 247186,
       "name": "Solamente t\u00fa",
       "url": "https://open.spotify.com/track/7sRXhReWmJF5pqyg3uUTES"
+    },
+    {
+      "added_at": "2021-10-22 03:00:00",
+      "album": {
+        "name": "Entre El Agua Y El Fuego",
+        "url": "https://open.spotify.com/album/2D6nGOEEyp7GZCyWlO99GI"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Luis Perales",
+          "url": "https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "\u00bfY c\u00f3mo es \u00e9l?",
+      "url": "https://open.spotify.com/track/7aSxNjoVoAwNL7HDAKwGtC"
     },
     {
       "added_at": "2021-10-22 03:00:00",
@@ -423,22 +423,6 @@
       "duration_ms": 281226,
       "name": "Otra Como Tu",
       "url": "https://open.spotify.com/track/2cSXotAohYx0EWCNljCzs7"
-    },
-    {
-      "added_at": "2021-10-22 03:00:00",
-      "album": {
-        "name": "En Total Plenitud",
-        "url": "https://open.spotify.com/album/6RXfdbB8YWgmE6LjXs6RHg"
-      },
-      "artists": [
-        {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
-        }
-      ],
-      "duration_ms": 228920,
-      "name": "\u00bfA D\u00f3nde Vamos A Parar?",
-      "url": "https://open.spotify.com/track/1Agu4u8a8Qm28zq5JtwaVv"
     },
     {
       "added_at": "2021-10-22 03:00:00",
@@ -911,6 +895,22 @@
     {
       "added_at": "2021-10-22 03:00:00",
       "album": {
+        "name": "Almas Del Silencio",
+        "url": "https://open.spotify.com/album/5ME0ACeS6VWaqTOCpsoFT2"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        }
+      ],
+      "duration_ms": 279226,
+      "name": "Tal Vez",
+      "url": "https://open.spotify.com/track/2VspVkHity8i4H9jammhhR"
+    },
+    {
+      "added_at": "2021-10-22 03:00:00",
+      "album": {
         "name": "Luna Nueva",
         "url": "https://open.spotify.com/album/1IrGYjnsdUyC8wEw9ffBIA"
       },
@@ -963,22 +963,6 @@
     {
       "added_at": "2021-10-22 03:00:00",
       "album": {
-        "name": "Almas Del Silencio",
-        "url": "https://open.spotify.com/album/5ME0ACeS6VWaqTOCpsoFT2"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        }
-      ],
-      "duration_ms": 279226,
-      "name": "Tal Vez",
-      "url": "https://open.spotify.com/track/2VspVkHity8i4H9jammhhR"
-    },
-    {
-      "added_at": "2021-10-22 03:00:00",
-      "album": {
         "name": "Presiento",
         "url": "https://open.spotify.com/album/4AoZ74lY9YRMaPaEPSCxnF"
       },
@@ -999,18 +983,50 @@
     {
       "added_at": "2021-10-22 03:00:00",
       "album": {
-        "name": "Thalia",
-        "url": "https://open.spotify.com/album/5aHuKZqTY34cuOcIFfohrt"
+        "name": "Abel",
+        "url": "https://open.spotify.com/album/3xZOsYi4w4NWEM99Ln2YCW"
       },
       "artists": [
         {
-          "name": "Thalia",
-          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+          "name": "Abel Pintos",
+          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
         }
       ],
-      "duration_ms": 269120,
-      "name": "No Me Ense\u00f1aste",
-      "url": "https://open.spotify.com/track/37QuCMe2SASXrkLm5NhT5m"
+      "duration_ms": 228240,
+      "name": "Tanto Amor",
+      "url": "https://open.spotify.com/track/12dlQ3DhTydNecGP6atzIu"
+    },
+    {
+      "added_at": "2021-10-22 03:00:00",
+      "album": {
+        "name": "La Llamada",
+        "url": "https://open.spotify.com/album/5GeEcoNATic5kr69QPV89Q"
+      },
+      "artists": [
+        {
+          "name": "Leiva",
+          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
+        }
+      ],
+      "duration_ms": 240205,
+      "name": "La Llamada",
+      "url": "https://open.spotify.com/track/5ZCamgcqvkckdf2FdfYuth"
+    },
+    {
+      "added_at": "2021-10-22 03:00:00",
+      "album": {
+        "name": "A Quien Quiera Escuchar (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/375cUd86z58eqXN2yW3Do9"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        }
+      ],
+      "duration_ms": 230346,
+      "name": "Disparo al Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/5828oiHxe6DSSAuIrPSeVT"
     },
     {
       "added_at": "2021-10-22 03:00:00",
@@ -1043,54 +1059,6 @@
       "duration_ms": 209613,
       "name": "Porque Aun Te Amo",
       "url": "https://open.spotify.com/track/4xXIrj1bhJP2X0x3WhAgqp"
-    },
-    {
-      "added_at": "2021-10-22 03:00:00",
-      "album": {
-        "name": "Abel",
-        "url": "https://open.spotify.com/album/3xZOsYi4w4NWEM99Ln2YCW"
-      },
-      "artists": [
-        {
-          "name": "Abel Pintos",
-          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
-        }
-      ],
-      "duration_ms": 228240,
-      "name": "Tanto Amor",
-      "url": "https://open.spotify.com/track/12dlQ3DhTydNecGP6atzIu"
-    },
-    {
-      "added_at": "2021-10-22 03:00:00",
-      "album": {
-        "name": "A Quien Quiera Escuchar (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/375cUd86z58eqXN2yW3Do9"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        }
-      ],
-      "duration_ms": 230346,
-      "name": "Disparo al Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/5828oiHxe6DSSAuIrPSeVT"
-    },
-    {
-      "added_at": "2021-10-22 03:00:00",
-      "album": {
-        "name": "La Llamada",
-        "url": "https://open.spotify.com/album/5GeEcoNATic5kr69QPV89Q"
-      },
-      "artists": [
-        {
-          "name": "Leiva",
-          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
-        }
-      ],
-      "duration_ms": 240205,
-      "name": "La Llamada",
-      "url": "https://open.spotify.com/track/5ZCamgcqvkckdf2FdfYuth"
     },
     {
       "added_at": "2021-10-22 03:00:00",
@@ -1387,22 +1355,6 @@
     {
       "added_at": "2021-10-22 03:00:00",
       "album": {
-        "name": "20 A\u00f1os Contigo",
-        "url": "https://open.spotify.com/album/7j74PZNNtthH0JwMPSqIVw"
-      },
-      "artists": [
-        {
-          "name": "David Bisbal",
-          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
-        }
-      ],
-      "duration_ms": 167306,
-      "name": "Hasta El Final",
-      "url": "https://open.spotify.com/track/4jLAgMw4tzHzSJuKF3UJA7"
-    },
-    {
-      "added_at": "2021-10-22 03:00:00",
-      "album": {
         "name": "Las Cosas Son Como Son",
         "url": "https://open.spotify.com/album/2L1ZdknL3hPfV2vFM18r14"
       },
@@ -1487,18 +1439,18 @@
     {
       "added_at": "2021-10-22 03:00:00",
       "album": {
-        "name": "Amor Prohibido",
-        "url": "https://open.spotify.com/album/24RUqD73FTX21yyLa3lk8x"
+        "name": "Te Regalo",
+        "url": "https://open.spotify.com/album/2uhahE2iatcHyMUHDHX6TS"
       },
       "artists": [
         {
-          "name": "Luis Fonsi",
-          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
         }
       ],
-      "duration_ms": 236480,
-      "name": "Amor Prohibido",
-      "url": "https://open.spotify.com/track/6VyDfAb4iAIDpdUU4aWhTG"
+      "duration_ms": 242446,
+      "name": "Te Regalo",
+      "url": "https://open.spotify.com/track/4wTuLXjSiiWxHO0e1Pwf1X"
     },
     {
       "added_at": "2021-10-22 03:00:00",
@@ -1515,6 +1467,22 @@
       "duration_ms": 498241,
       "name": "Usted / Hasta Que Me Olvides / La Incondicional",
       "url": "https://open.spotify.com/track/1xeWnd2n7JY4fRZI1PhsFP"
+    },
+    {
+      "added_at": "2021-10-22 03:00:00",
+      "album": {
+        "name": "Momento Retro vol. I",
+        "url": "https://open.spotify.com/album/4URCrtMbYzClIt2f6VpstT"
+      },
+      "artists": [
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        }
+      ],
+      "duration_ms": 289226,
+      "name": "Si No Te Hubieras Ido",
+      "url": "https://open.spotify.com/track/7BDTgXVdWYyAiW76xrdeAm"
     },
     {
       "added_at": "2021-10-22 03:00:00",
@@ -1551,22 +1519,6 @@
     {
       "added_at": "2021-10-22 03:00:00",
       "album": {
-        "name": "Te Regalo",
-        "url": "https://open.spotify.com/album/2uhahE2iatcHyMUHDHX6TS"
-      },
-      "artists": [
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
-        }
-      ],
-      "duration_ms": 242446,
-      "name": "Te Regalo",
-      "url": "https://open.spotify.com/track/4wTuLXjSiiWxHO0e1Pwf1X"
-    },
-    {
-      "added_at": "2021-10-22 03:00:00",
-      "album": {
         "name": "Cerrando Puntos Suspensivos",
         "url": "https://open.spotify.com/album/64l9Hf8OOB5S5E3cftmFxr"
       },
@@ -1579,22 +1531,6 @@
       "duration_ms": 240478,
       "name": "Comiendote a Besos",
       "url": "https://open.spotify.com/track/3EQ9DE7VVx3lyjYCwja0Nf"
-    },
-    {
-      "added_at": "2021-10-22 03:00:00",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/24YQLIPPjDkkeNIFimSIGO"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        }
-      ],
-      "duration_ms": 259586,
-      "name": "\u00bfD\u00f3nde Est\u00e1n Coraz\u00f3n?",
-      "url": "https://open.spotify.com/track/3bsem3DOS0VuSB8OPGAdiU"
     },
     {
       "added_at": "2021-10-22 03:00:00",
@@ -1615,18 +1551,18 @@
     {
       "added_at": "2021-10-22 03:00:00",
       "album": {
-        "name": "Canciones que nunca se ir\u00e1n. Los 90",
-        "url": "https://open.spotify.com/album/2ELN4JsOfXhWWWOxK3BuVB"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/24YQLIPPjDkkeNIFimSIGO"
       },
       "artists": [
         {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
         }
       ],
-      "duration_ms": 280666,
-      "name": "Se fu\u00e9",
-      "url": "https://open.spotify.com/track/18EoacmuTl2fVC8SaV6n3k"
+      "duration_ms": 259586,
+      "name": "\u00bfD\u00f3nde Est\u00e1n Coraz\u00f3n?",
+      "url": "https://open.spotify.com/track/3bsem3DOS0VuSB8OPGAdiU"
     },
     {
       "added_at": "2021-10-22 03:00:00",
@@ -1647,8 +1583,56 @@
     {
       "added_at": "2021-10-22 03:00:00",
       "album": {
-        "name": "Momento Retro vol. I",
-        "url": "https://open.spotify.com/album/4URCrtMbYzClIt2f6VpstT"
+        "name": "Canciones que nunca se ir\u00e1n. Los 90",
+        "url": "https://open.spotify.com/album/2ELN4JsOfXhWWWOxK3BuVB"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "duration_ms": 280666,
+      "name": "Se fu\u00e9",
+      "url": "https://open.spotify.com/track/18EoacmuTl2fVC8SaV6n3k"
+    },
+    {
+      "added_at": "2021-10-22 03:00:00",
+      "album": {
+        "name": "A comer con POP",
+        "url": "https://open.spotify.com/album/5uuX34BmndJpsHAIgzzsOH"
+      },
+      "artists": [
+        {
+          "name": "Axel",
+          "url": "https://open.spotify.com/artist/32x1uogH2zajP85pzZAtuE"
+        }
+      ],
+      "duration_ms": 255026,
+      "name": "Te Voy A Amar",
+      "url": "https://open.spotify.com/track/3Ba8itHv1mJlDOR5Ed13oJ"
+    },
+    {
+      "added_at": "2021-10-22 03:00:00",
+      "album": {
+        "name": "Pop Nost\u00e1lgico",
+        "url": "https://open.spotify.com/album/4TgVBpS1gDlWL4RaXEo0PX"
+      },
+      "artists": [
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        }
+      ],
+      "duration_ms": 269120,
+      "name": "No Me Ense\u00f1aste",
+      "url": "https://open.spotify.com/track/7Cwb4vL0Ye6GD0fWPnnCHp"
+    },
+    {
+      "added_at": "2021-10-22 03:00:00",
+      "album": {
+        "name": "Maravilloso Latin Sound Vol. 3",
+        "url": "https://open.spotify.com/album/0NemWyqAZ4fV9i8fAO4sb7"
       },
       "artists": [
         {
@@ -1656,9 +1640,25 @@
           "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
         }
       ],
-      "duration_ms": 289226,
-      "name": "Si No Te Hubieras Ido",
-      "url": "https://open.spotify.com/track/7BDTgXVdWYyAiW76xrdeAm"
+      "duration_ms": 229626,
+      "name": "\u00bfA D\u00f3nde Vamos A Parar?",
+      "url": "https://open.spotify.com/track/7eCrQD3AnYeEItZcWXja0h"
+    },
+    {
+      "added_at": "2021-10-22 03:00:00",
+      "album": {
+        "name": "Hitazos de ma\u00f1ana",
+        "url": "https://open.spotify.com/album/0AXb7RRTfYjujGce5WzUpG"
+      },
+      "artists": [
+        {
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+        }
+      ],
+      "duration_ms": 238280,
+      "name": "Amor Prohibido",
+      "url": "https://open.spotify.com/track/3Y5RCFsFclkDXILBA9M2ko"
     }
   ],
   "unique_name": "Enganchados: Rom\u00e1nticos",

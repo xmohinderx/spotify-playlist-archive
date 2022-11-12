@@ -4,7 +4,7 @@
 
 > Slow down with these late night jams.
 
-85 songs - 5 hr 49 min - [published](https://open.spotify.com/playlist/7pSouUJjpM3i6LRYHeFP7e)
+88 songs - 6 hr 0 min - [published](https://open.spotify.com/playlist/7pSouUJjpM3i6LRYHeFP7e)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,8 +13,9 @@
 | [808 PM At the Beach](https://open.spotify.com/track/4Hb4nttqTI6Nc1IG2hvgyB) | [Fred Falke](https://open.spotify.com/artist/0AfNNw1LS2i9KW4icd7inD) | [Part IV](https://open.spotify.com/album/4oFfkA1jWf6hoWGRxcBDMn) | 6:24 | 2015-02-23 | 2022-07-29 |
 | [808 PM At The Beach \- Original Mix](https://open.spotify.com/track/332axSkCygFiO7rlQ9TYiC) | [Fred Falke](https://open.spotify.com/artist/0AfNNw1LS2i9KW4icd7inD) | [Part IV](https://open.spotify.com/album/4zgA8bqaYJLSrMOn3MkxyU) | 6:24 | 2022-07-29 |  |
 | [Adorn](https://open.spotify.com/track/3trS6e40JCVUOpPVt5OdHj) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Kaleidoscope Dream](https://open.spotify.com/album/0vlIws8YGMQAbMEkubJgAP) | 3:13 | 2015-02-23 |  |
+| [Angels](https://open.spotify.com/track/1mpYj5ENPXpxmjRF0oHnTW) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [PAY CLOSE ATTENTION: XL Recordings](https://open.spotify.com/album/3D9vUf511saEHLua6NcOLw) | 2:51 | 2022-11-12 |  |
 | [Angels](https://open.spotify.com/track/1zuKjpp4t7BS8JPKi6mkQr) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [Coexist](https://open.spotify.com/album/2cRMVS71c49Pf5SnIlJX3U) | 2:51 | 2015-02-23 | 2022-07-29 |
-| [Angels](https://open.spotify.com/track/3zsRP8rH1kaIAo9fmiP4El) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [Coexist](https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW) | 2:51 | 2022-07-29 |  |
+| [Angels](https://open.spotify.com/track/3zsRP8rH1kaIAo9fmiP4El) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [Coexist](https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW) | 2:51 | 2022-07-29 | 2022-11-12 |
 | [Arrest Me \(feat\. Tei Shi\)](https://open.spotify.com/track/7edwsBTHi4h9qvqPX4xbjF) | [Shy Girls](https://open.spotify.com/artist/4oFdxup3UmMDNoLLITyDrs), [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [4wz](https://open.spotify.com/album/43eSOxjJhz3xL69H9JApAS) | 3:09 | 2015-02-23 |  |
 | [Blame](https://open.spotify.com/track/0AYgkxCmka1W9MU4jX8xEf) | [Tropics](https://open.spotify.com/artist/0d00ssafltw8HYv2zxe4fD) | [Blame](https://open.spotify.com/album/5bTbk5hDSzZysgZ5cXpE0g) | 4:06 | 2015-02-23 | 2022-07-29 |
 | [Blame](https://open.spotify.com/track/1k3toTRu7ak8fNqiDdpRn0) | [Tropics](https://open.spotify.com/artist/0d00ssafltw8HYv2zxe4fD) | [Rapture](https://open.spotify.com/album/7sgjuijoXgthRExQdEC5SZ) | 4:06 | 2022-07-29 |  |
@@ -61,7 +62,8 @@
 | [Pendulum](https://open.spotify.com/track/06d5qOLownLafrcQ8CvZU2) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [LP1](https://open.spotify.com/album/5VqGGKeWpIBRFh4M4XmqDK) | 4:58 | 2015-02-23 | 2022-07-29 |
 | [Pendulum](https://open.spotify.com/track/4SMtnpWk1iFjunTtVpeR2y) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [LP1](https://open.spotify.com/album/070rEVRV6FWywkncMWLhs6) | 4:58 | 2022-07-29 |  |
 | [Permission to Love](https://open.spotify.com/track/0agehDrq7ZHos1Di3Gv4Co) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z) | [Permission to Love](https://open.spotify.com/album/3fpXhhd88gEzvuizGINIXa) | 4:24 | 2015-02-23 | 2022-07-29 |
-| [Permission To Love](https://open.spotify.com/track/13V90m5e1r9MEPZJS1LFGH) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z) | [Permission To Love](https://open.spotify.com/album/5XS3fM0wq5jHOOd0JNt97o) | 4:24 | 2022-07-29 |  |
+| [Permission To Love](https://open.spotify.com/track/13V90m5e1r9MEPZJS1LFGH) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z) | [Permission To Love](https://open.spotify.com/album/5XS3fM0wq5jHOOd0JNt97o) | 4:24 | 2022-07-29 | 2022-11-12 |
+| [Permission To Love](https://open.spotify.com/track/2tIohDVEQZ2yVSpcL7UK0I) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z) | [Hayden James](https://open.spotify.com/album/6yRdz0bei02yHEU4NTTtp7) | 4:24 | 2022-11-12 |  |
 | [Pink Matter](https://open.spotify.com/track/1fOkmYW3ZFkkjIdOZSf596) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM), [André 3000](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 4:28 | 2015-02-23 |  |
 | [Remember Me In Every Cloud Of Gold](https://open.spotify.com/track/3MKwthwXWWInikFeoS9GGg) | [Angelo Badalamenti](https://open.spotify.com/artist/3Eeb1U0VJTDaFpBHV4DmHl), [Kwamie Liv](https://open.spotify.com/artist/09rD2V564B6VYi5yAnvVVg) | [Remember Me In Every Cloud Of Gold](https://open.spotify.com/album/1Dlpz9IqmHUo0Q0qngVGI0) | 3:11 | 2015-07-28 | 2022-07-29 |
 | [Remember Me in Every Cloud of Gold](https://open.spotify.com/track/2no2tImTgO1fcjerEu32fz) | [Kwamie Liv](https://open.spotify.com/artist/09rD2V564B6VYi5yAnvVVg), [Angelo Badalamenti](https://open.spotify.com/artist/3Eeb1U0VJTDaFpBHV4DmHl) | [Gold Coast \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2O8mk6LRxv8ud1WynNWIm3) | 3:10 | 2022-07-29 |  |
@@ -74,8 +76,9 @@
 | [Silhouette \(feat\. Ellie Goulding\)](https://open.spotify.com/track/6cqfP4ADnaZJuwvIHEBc7W) | [Active Child](https://open.spotify.com/artist/54KTsBl98buzGkELjGlnuU), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Rapor \- EP](https://open.spotify.com/album/3Ej74qcfKlLgpQKwjwlMwT) | 4:08 | 2015-02-23 | 2022-07-29 |
 | [Sleep Sound](https://open.spotify.com/track/4aNm6woQfV9XRkCmk51GSX) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [Girl/Sleep Sound](https://open.spotify.com/album/6ORIBhcatSSgmL3vhvhRYB) | 6:23 | 2022-07-29 |  |
 | [Sleep Sound](https://open.spotify.com/track/6YPQGcqfMXZbQaz6l30uBJ) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [Girl/Sleep Sound](https://open.spotify.com/album/1AQE19wKZonTmYjOFOJKTJ) | 6:23 | 2015-02-23 | 2022-07-29 |
+| [So Good at Being in Trouble](https://open.spotify.com/track/0LD3R5V6UzrQaLfl3xqFLs) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [II \(Deluxe Edition\)](https://open.spotify.com/album/2pzteMl5K2IGh04qXN6phA) | 3:50 | 2022-11-12 |  |
 | [So Good at Being in Trouble](https://open.spotify.com/track/0LPODKihyn7XCxFevkE3KY) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [II \(Deluxe Edition\)](https://open.spotify.com/album/6ULZg9jfTYgi41HmrRww24) | 3:50 | 2015-02-23 | 2022-07-29 |
-| [So Good At Being in Trouble](https://open.spotify.com/track/2lwi35A2ym3FAmSlvOGnQp) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [II](https://open.spotify.com/album/2UrexGLK8RBKbv07j7ui19) | 3:50 | 2022-07-29 |  |
+| [So Good At Being in Trouble](https://open.spotify.com/track/2lwi35A2ym3FAmSlvOGnQp) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [II](https://open.spotify.com/album/2UrexGLK8RBKbv07j7ui19) | 3:50 | 2022-07-29 | 2022-11-12 |
 | [Someone Great](https://open.spotify.com/track/2VGDntFPvgvqSiUf9ITEfW) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [Sound of Silver](https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X) | 6:30 | 2015-02-23 |  |
 | [Sure Thing](https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [All I Want Is You](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) | 3:15 | 2015-02-23 |  |
 | [The Fall](https://open.spotify.com/track/35yZkNFNVosiHE6Uj0COVM) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Woman](https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9) | 3:44 | 2015-02-23 |  |

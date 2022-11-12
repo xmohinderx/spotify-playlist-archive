@@ -4,7 +4,7 @@
 
 > Contemporary Ambient music made by Japanese artists\. Masayoshi Fujita on cover.
 
-131 songs - 9 hr 22 min - [published](https://open.spotify.com/playlist/5Sx77Alf84KHgT12jt3i3T)
+133 songs - 9 hr 35 min - [published](https://open.spotify.com/playlist/5Sx77Alf84KHgT12jt3i3T)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [Bayou](https://open.spotify.com/track/4pmkk5jUvi46uAgnuA7D9c) | [Kaiteki](https://open.spotify.com/artist/4nUBYLhgaW3B3EuWJgfhma) | [Canadian Love Letters](https://open.spotify.com/album/5MqeWE0BF5TkOjr4YHRRcr) | 4:35 | 2022-03-25 |  |
 | [Bird Ambience](https://open.spotify.com/track/5Ni3isgTBDXTr0lUXmoER1) | [Masayoshi Fujita](https://open.spotify.com/artist/6rp6bzwzVN7UtQVO6ld2vT) | [Bird Ambience](https://open.spotify.com/album/7ac3h9hdZZlxUa0uCxMTAS) | 7:28 | 2022-01-07 |  |
 | [birefringence](https://open.spotify.com/track/3cxBheYCzfiIHcyNdwXMEa) | [morimoto naoki](https://open.spotify.com/artist/3ppc3aHU5q1PGQZu42Uu1t) | [prism](https://open.spotify.com/album/6PhqghpzBPmBEfpC0hb4tZ) | 4:23 | 2022-01-07 |  |
-| [Blue Drizzling](https://open.spotify.com/track/3tePjDdzSunNH67I2dXY5F) | [Nami Sato](https://open.spotify.com/artist/6e9uRUfWhvz2P3fI8EZGOb) | [World Sketch Monologue](https://open.spotify.com/album/5n9ur47UO8zWyuhRo6zaj7) | 8:16 | 2022-10-10 |  |
+| [Blue Drizzling](https://open.spotify.com/track/2sMjaKpPoNabmStJizd2hw) | [Nami Sato](https://open.spotify.com/artist/6e9uRUfWhvz2P3fI8EZGOb) | [Blue Drizzling](https://open.spotify.com/album/5Jsb727GVJfMCuvQKaMOGO) | 8:16 | 2022-11-11 |  |
+| [Blue Drizzling](https://open.spotify.com/track/3tePjDdzSunNH67I2dXY5F) | [Nami Sato](https://open.spotify.com/artist/6e9uRUfWhvz2P3fI8EZGOb) | [World Sketch Monologue](https://open.spotify.com/album/5n9ur47UO8zWyuhRo6zaj7) | 8:16 | 2022-10-10 | 2022-11-12 |
 | [Blue Drizzling](https://open.spotify.com/track/49FxWH10zFICH8HPAuNtsY) | [Nami Sato](https://open.spotify.com/artist/6e9uRUfWhvz2P3fI8EZGOb) | [Blue Drizzling](https://open.spotify.com/album/7sRW4vIDLZKM4p74RnV88Z) | 8:16 | 2022-01-07 | 2022-10-14 |
 | [bori](https://open.spotify.com/track/24z1kOj1Dsabb3Ld6dje02) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [Wakare](https://open.spotify.com/album/2OkHSHVniZVIuHGSuNLFuG) | 3:08 | 2022-01-07 |  |
 | [Breaking Dawn](https://open.spotify.com/track/7axrDVwVVxAHolvnddXG71) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Late Spring](https://open.spotify.com/album/2rQNhghqpXlCo76GE6a9Jy) | 2:43 | 2022-01-07 |  |
@@ -108,6 +109,7 @@
 | [Tea House](https://open.spotify.com/track/77HFkDRYAxTTjEQxUSEwFg) | [The Kyoto Connection](https://open.spotify.com/artist/6l13uPtVBgHB3gfpimh7Rb) | [Postcards](https://open.spotify.com/album/5ChAbDpWAXnCOPtsyTFmlY) | 3:50 | 2022-01-07 |  |
 | [The buzz of the forest](https://open.spotify.com/track/7INHRFTJ8ZrXjomdjYjadN) | [CROIX HEALING](https://open.spotify.com/artist/39HJmpxQWml7ofyV5jxluG) | [Relieving anxiety and healing a good night's sleep recommended by mental trainers \- Music that connects with nature \-](https://open.spotify.com/album/0UcMdGC8UJwzGcHXfX8PG5) | 5:12 | 2022-07-22 | 2022-11-11 |
 | [The buzz of the forest \- Remaster](https://open.spotify.com/track/42a6hlKyKTHf9bqtP9C3kg) | [CROIX HEALING](https://open.spotify.com/artist/39HJmpxQWml7ofyV5jxluG) | [Healing music for Deep sleep](https://open.spotify.com/album/2GRhflYTCsUmzrCvvReaXU) | 5:07 | 2022-10-15 |  |
+| [The Goldfish](https://open.spotify.com/track/4ctQ2nQO1IqWsTE0tpXzWX) | [kita kouhei](https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5) | [The Goldfish](https://open.spotify.com/album/1lVOLpPJ69jxkeKcnQKaT7) | 4:45 | 2022-11-11 |  |
 | [The Horizon \- Sphontik Mix](https://open.spotify.com/track/3fqNfyRgCE2O16iDIqmSIQ) | [Sinner DC](https://open.spotify.com/artist/5p2pns1DJ2vLnXidUv7y1E), [sphontik](https://open.spotify.com/artist/27r4JWLsSQYgsQvnAdk0Zq) | [Ambient Mixes](https://open.spotify.com/album/2QWN34iKAqrq7QSUTESSgN) | 4:35 | 2022-01-07 |  |
 | [The Light of the Moon](https://open.spotify.com/track/2mSK2CRkuK2S00KS4cPrFq) | [Shiho Yabuki](https://open.spotify.com/artist/72H54BeNWF82wu5czm91VX) | [Blue Corridor](https://open.spotify.com/album/5yi8EGpyAovKwdgEyET2XS) | 3:34 | 2022-01-07 |  |
 | [The Spider's Thread](https://open.spotify.com/track/45okZJHya7HLzEi0zvRaDI) | [coconoe](https://open.spotify.com/artist/70ekC9BOgSlEQFRcLImPe4) | [A Halo of Light One Day](https://open.spotify.com/album/2erifYmBD16kWNRjYipk1x) | 5:29 | 2022-07-22 |  |

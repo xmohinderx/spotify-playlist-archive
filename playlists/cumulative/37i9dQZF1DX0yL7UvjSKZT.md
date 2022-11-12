@@ -4,7 +4,7 @@
 
 > Fresh takes on that high lonesome sound\. Cover: Violet Bell
 
-213 songs - 13 hr 17 min - [published](https://open.spotify.com/playlist/5sbNmRNN30b3StzmqtFwhp)
+215 songs - 13 hr 26 min - [published](https://open.spotify.com/playlist/5sbNmRNN30b3StzmqtFwhp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,8 +86,9 @@
 | [How Can You Sing](https://open.spotify.com/track/5IbOyjdsyw9j0hHhM37M1A) | [Front Country](https://open.spotify.com/artist/0wtrcS7HMXw3IHKCSr2szj) | [Impossible World](https://open.spotify.com/album/3wMpxOP0ahmNk1958ORpdo) | 3:30 | 2021-10-01 |  |
 | [How It Ends](https://open.spotify.com/track/0QNGlcB83H133AoEFggtRP) | [Mama's Broke](https://open.spotify.com/artist/18kqY0obPXyo3oXtuzrS7k) | [How It Ends](https://open.spotify.com/album/2FftzfiRpzlPwSXpKgisJi) | 3:19 | 2022-04-22 |  |
 | [How Long](https://open.spotify.com/track/62Y0ujNxDSwplJU2locl1E) | [Sierra Hull](https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB) | [25 Trips](https://open.spotify.com/album/5MW8vgKSki8FkuzIeEbDjG) | 4:49 | 2021-10-01 |  |
+| [Howl](https://open.spotify.com/track/0duTC9TPYGdTukVmkJiAuZ) | [Sam Burchfield](https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5) | [It Feels Alright](https://open.spotify.com/album/0xsAiiO0KEvKLn9J7v9XIJ) | 4:53 | 2022-10-14 |  |
 | [Howl](https://open.spotify.com/track/32ioHHPhIoZjPtwUw5TVfE) | [Sam Burchfield](https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5) | [Howl](https://open.spotify.com/album/35a3US8iAh300740OipUz0) | 4:53 | 2022-04-15 | 2022-07-29 |
-| [Howl](https://open.spotify.com/track/5xXw7MRYMUgO5B1Y2Gka4V) | [Sam Burchfield](https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5) | [Arms of a Lover](https://open.spotify.com/album/2KELaV63XzaF0MJ2FeIjVK) | 4:53 | 2022-07-22 |  |
+| [Howl](https://open.spotify.com/track/5xXw7MRYMUgO5B1Y2Gka4V) | [Sam Burchfield](https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5) | [Arms of a Lover](https://open.spotify.com/album/2KELaV63XzaF0MJ2FeIjVK) | 4:53 | 2022-07-22 | 2022-11-12 |
 | [Hummingbird](https://open.spotify.com/track/4DlXQQanDfpRKxUSMOsxmL) | [We Banjo 3](https://open.spotify.com/artist/10jo3zVGDsW6qs3JVs9tfD) | [Hummingbird](https://open.spotify.com/album/7q9msRiLtqEhNAfBmyHc2e) | 3:45 | 2022-05-27 |  |
 | [I Don't Know](https://open.spotify.com/track/3gr9HKI4zcCZ5ZIQNvSncs) | [The Slocan Ramblers](https://open.spotify.com/artist/1F81FTiMCbp4fxZ1EMStbk) | [I Don't Know](https://open.spotify.com/album/7CBdNw7qntXyqBNLWJ4Gll) | 4:07 | 2022-05-13 |  |
 | [I'll Be Lost](https://open.spotify.com/track/5QR7BtYDsTKReZJNrqZ3Rn) | [Heather Sarona](https://open.spotify.com/artist/5cne7YJw2nterSfuPr16W0) | [I'll Be Lost](https://open.spotify.com/album/47YEllnKpleAJfm9PZ78uy) | 3:22 | 2022-01-07 |  |
@@ -174,8 +175,9 @@
 | [Tell Me I'm Not Dreaming](https://open.spotify.com/track/5lLLan3sQ3MqvVifwOcBAN) | [The Bombadils](https://open.spotify.com/artist/493LaUkdvofHBb12qHUG60) | [Tell Me I'm Not Dreaming](https://open.spotify.com/album/5dELRNjEB4K7BDoSz3VwOP) | 4:22 | 2022-09-30 |  |
 | [Tennessee Dust](https://open.spotify.com/track/2dyhHSqHRZbLZrwTPAcr4g) | [Henry Grace](https://open.spotify.com/artist/4QSOwlnim2Tb1hgrHakjyV) | [Alive In America](https://open.spotify.com/album/5pGqhXbO1vs3TDnd0IJ62s) | 3:16 | 2022-01-14 |  |
 | [That Sh\*t Ain't Funny](https://open.spotify.com/track/2kocxF7L0u2j3ddQkvyC0H) | [The Brothers Comatose](https://open.spotify.com/artist/7oKVYDiVZxglvgEW2zHcAD) | [Turning Up The Ground](https://open.spotify.com/album/28oUDXddkgbgHpl4OJPWp5) | 4:12 | 2022-07-29 | 2022-10-08 |
+| [The Boxer](https://open.spotify.com/track/4vJfFgFj5kZMplZUeJ60aF) | [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9), [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Babel \(Deluxe Version\)](https://open.spotify.com/album/3FfuUD3Je9t9tQq80Zq41y) | 4:05 | 2022-10-14 |  |
 | [The Boxer feat\. Mumford & Sons and Paul Simon](https://open.spotify.com/track/5sqhKYHmQSGmGWzrgyL2nc) | [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9), [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Traveler](https://open.spotify.com/album/0aa0FrL0JlVE7MMgszjYvP) | 4:05 | 2021-10-01 | 2022-07-29 |
-| [The Boxer feat\. Mumford & Sons and Paul Simon](https://open.spotify.com/track/73C8vVm2BRLLBQ8FH6N6Qm) | [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9), [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI), [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Traveler](https://open.spotify.com/album/6YNQ1O9C5AVtOGEPIIwkAG) | 4:05 | 2022-07-22 |  |
+| [The Boxer feat\. Mumford & Sons and Paul Simon](https://open.spotify.com/track/73C8vVm2BRLLBQ8FH6N6Qm) | [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9), [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI), [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Traveler](https://open.spotify.com/album/6YNQ1O9C5AVtOGEPIIwkAG) | 4:05 | 2022-07-22 | 2022-11-12 |
 | [The Devil In You](https://open.spotify.com/track/2JdrptIXTn0xLCy3gRVbMx) | [The Haunted Windchimes](https://open.spotify.com/artist/2f61F4arCAsrcU08xPxjV2) | [LIVE CHIMES: Volume One](https://open.spotify.com/album/0TFngGzCdzokCIoZ2FNJKR) | 2:22 | 2022-07-22 |  |
 | [The Devil In You](https://open.spotify.com/track/4nA3rdugWqbUozPJCrNR0j) | [The Haunted Windchimes](https://open.spotify.com/artist/2f61F4arCAsrcU08xPxjV2) | [LIVE CHIMES: Volume One](https://open.spotify.com/album/0HXxUy2QIIZEEEiVNRMlRX) | 2:22 | 2021-10-01 | 2022-07-29 |
 | [The Fox and the River](https://open.spotify.com/track/1hRSSZblPpjmq4vU4ZeZ0t) | [Kate Prascher](https://open.spotify.com/artist/26AEagFod7amlwiCyy0JsY) | [The Fox and the River](https://open.spotify.com/album/6ZMRkSwZzjYwBMmM3aCfeq) | 3:05 | 2022-02-25 |  |

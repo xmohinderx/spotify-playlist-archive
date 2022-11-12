@@ -4,7 +4,7 @@
 
 > Music & Episodes of “Sword Art Online” series! 音楽とPodcastで辿る「ソードアート・オンライン」の世界！\(C\)2017 川原 礫／ＫＡＤＯＫＡＷＡ　アスキー・メディアワークス／SAO\-A Project
 
-126 songs - 9 hr 5 min - [published](https://open.spotify.com/playlist/0PzANGEQ6UOUzOy4YIBJAY)
+129 songs - 9 hr 18 min - [published](https://open.spotify.com/playlist/0PzANGEQ6UOUzOy4YIBJAY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,8 +17,9 @@
 | [ANIMA](https://open.spotify.com/track/2j1r3ubqqxuoTFaPVnTV1j) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [unknown](https://open.spotify.com/album/0IDNAr9hNxxTC8dBwcsvhW) | 4:29 | 2022-04-01 |  |
 | [BLAZING BULLET](https://open.spotify.com/track/1skaofZEKSq01YUmdBj5sI) | [キリト \(CV:松岡禎丞\)](https://open.spotify.com/artist/6JhcN5WCAWU88kw4RfPwEv), [シノン \(CV:沢城みゆき\)](https://open.spotify.com/artist/5MK1DksbVa4ME5L6NENRt0) | [ソードアート・オンライン キャラクターソングコレクションII](https://open.spotify.com/album/6JYPrZIfzZVS3VaR7TthEq) | 4:08 | 2022-04-01 |  |
 | [Break Beat Bark!](https://open.spotify.com/track/18Cjb5zI8lmbgVcaagZGoV) | [ユナ \(CV:神田沙也加\)](https://open.spotify.com/artist/1sxYGoRSZlWDvqHWTH1k4A) | [劇場版 ソードアート・オンライン \-オーディナル・スケール\- Original Soundtrack](https://open.spotify.com/album/1VRxzUSCzUYdrNQsaOJXUF) | 4:08 | 2022-04-01 |  |
-| [Catch the Moment](https://open.spotify.com/track/6vRkYTrWDzzVrZTqBJFR0u) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LiTTLE DEViL PARADE](https://open.spotify.com/album/4HWWaor0tTxicWj06jDh0P) | 4:42 | 2022-04-01 |  |
+| [Catch the Moment](https://open.spotify.com/track/6vRkYTrWDzzVrZTqBJFR0u) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LiTTLE DEViL PARADE](https://open.spotify.com/album/4HWWaor0tTxicWj06jDh0P) | 4:42 | 2022-04-01 | 2022-11-12 |
 | [Catch the Moment](https://open.spotify.com/track/2CCginq2XDHvfWhTN5pm7D) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [Catch the Moment](https://open.spotify.com/album/0WQOfN7DYXpd6pFBB7lsnl) | 4:42 | 2022-04-01 | 2022-07-29 |
+| [Catch the Moment](https://open.spotify.com/track/7pSSCx0NsnJxXoIWJQddjh) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [Catch the Moment](https://open.spotify.com/album/5mr96wuap8SvgVr9YnfUry) | 4:42 | 2022-10-27 |  |
 | [Cheer! Tear? Cheer!!](https://open.spotify.com/track/5Ss3HYbUCEKF186x9GNmYB) | [リズベット \(CV:高垣彩陽\)](https://open.spotify.com/artist/2xGMhsiYI1AXzBnxZMmmCW) | [ソードアート・オンライン キャラクターソングコレクション](https://open.spotify.com/album/3xbc01K4cChshvuUvfp4Bi) | 3:42 | 2022-04-01 |  |
 | [courage](https://open.spotify.com/track/1489XasC9uGNxGr3rXkLnX) | [Haruka Tomatsu](https://open.spotify.com/artist/17Xrh1jox4g1VQcUcIcgra) | [courage](https://open.spotify.com/album/2tkOigb2s0UN64i51ctoDd) | 4:13 | 2022-10-27 |  |
 | [courage](https://open.spotify.com/track/4GxtsOXnSql0QrnKmDLHOg) | [Haruka Tomatsu](https://open.spotify.com/artist/17Xrh1jox4g1VQcUcIcgra) | [戸松遥 BEST SELECTION \-sunshine\-](https://open.spotify.com/album/70DWgZ4T3tHK6LNpZGD7qy) | 4:13 | 2022-04-01 | 2022-07-29 |
@@ -63,8 +64,9 @@
 | [RELIEF BULLET](https://open.spotify.com/track/2pmA0R4c5h14O3gG6fgRBF) | [朝田詩乃 \(CV:沢城みゆき\)](https://open.spotify.com/artist/09nerR6qse2nkbw10JeEYE) | [ソードアート・オンライン キャラクターソングコレクションII](https://open.spotify.com/album/6JYPrZIfzZVS3VaR7TthEq) | 5:41 | 2022-04-01 |  |
 | [RESISTER](https://open.spotify.com/track/5PLqMo0jab5Brdv8WtS4Aw) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [百歌繚乱](https://open.spotify.com/album/60j3m6DUpJMJ0dKBjJ08F4) | 3:47 | 2022-04-01 | 2022-07-29 |
 | [RESISTER](https://open.spotify.com/track/5bsGv6kAydbH8VTW0xup9D) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [百歌繚乱](https://open.spotify.com/album/4nwzOXUbeLiHXsNxX2Fjhy) | 3:47 | 2022-04-01 |  |
-| [Resolution](https://open.spotify.com/track/5vaJU5vIRhx6d6lgyYR1Bb) | [Haruka Tomatsu](https://open.spotify.com/artist/17Xrh1jox4g1VQcUcIcgra) | [Resolution](https://open.spotify.com/album/3k4p615S79dsbsuAc0xBhX) | 4:50 | 2022-04-01 |  |
+| [Resolution](https://open.spotify.com/track/5vaJU5vIRhx6d6lgyYR1Bb) | [Haruka Tomatsu](https://open.spotify.com/artist/17Xrh1jox4g1VQcUcIcgra) | [Resolution](https://open.spotify.com/album/3k4p615S79dsbsuAc0xBhX) | 4:50 | 2022-04-01 | 2022-11-12 |
 | [Resolution](https://open.spotify.com/track/6i9AGn563rAg3tWz95TnyZ) | [Haruka Tomatsu](https://open.spotify.com/artist/17Xrh1jox4g1VQcUcIcgra) | [Resolution](https://open.spotify.com/album/07GuO0cz2eNjqdF3DddPgr) | 4:50 | 2022-04-01 | 2022-07-29 |
+| [Resolution](https://open.spotify.com/track/1soi407KlRSq7VqJz0Jhvd) | [Haruka Tomatsu](https://open.spotify.com/artist/17Xrh1jox4g1VQcUcIcgra) | [Resolution](https://open.spotify.com/album/3yvuFmlp5UZJA4kGqoGAjC) | 4:51 | 2022-10-27 |  |
 | [Scar/let](https://open.spotify.com/track/4HvEFX6y1HctwbiuvRilat) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ANIMA \(Special Edition\)](https://open.spotify.com/album/0UUW762dgvMubwt07PwmaF) | 4:14 | 2022-04-01 | 2022-10-01 |
 | [Scar/let](https://open.spotify.com/track/5IMh6f4sfKR5820IkKw74f) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ANIMA \(Special Edition\)](https://open.spotify.com/album/5uH5YSFKXzMhxXxJbzAbfL) | 4:17 | 2022-04-01 |  |
 | [Sing All Overtures](https://open.spotify.com/track/17GZ37fOhA73A7hXllt2e0) | [キリト \(CV:松岡禎丞\)](https://open.spotify.com/artist/6JhcN5WCAWU88kw4RfPwEv), [アスナ \(CV:戸松遥\)](https://open.spotify.com/artist/03WRnU6FJtqmZn7OZppQUq), [リーファ \(CV:竹達彩奈\)](https://open.spotify.com/artist/2zLtkB9yoKORGSNXxxDFpl), [ユイ \(CV:伊藤かな恵\)](https://open.spotify.com/artist/60YNSUP6Foe0zPBdIo6yhb), [シリカ \(CV:日高里菜\)](https://open.spotify.com/artist/4JdD6IvJpVxTvMgM20lL6H), [リズベット \(CV:高垣彩陽\)](https://open.spotify.com/artist/2xGMhsiYI1AXzBnxZMmmCW) | [ソードアート・オンライン キャラクターソングコレクション](https://open.spotify.com/album/3xbc01K4cChshvuUvfp4Bi) | 7:41 | 2022-04-01 |  |
@@ -110,8 +112,9 @@
 | [セパレイト・ウェイズ](https://open.spotify.com/track/68FmEJGOAH3aPEMiIAZaAE) | [Haruka Tomatsu](https://open.spotify.com/artist/17Xrh1jox4g1VQcUcIcgra) | [戸松遥 BEST SELECTION \-starlight\-](https://open.spotify.com/album/4koqulx259upSRxNzOx0RT) | 5:36 | 2022-04-01 |  |
 | [ヒカリ](https://open.spotify.com/track/2BvMpA00jH8sl90A9VVuY4) | [神崎エルザ](https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR) | [Elza](https://open.spotify.com/album/5fb2fBe8FYwR5fX935r2rV) | 3:46 | 2022-04-01 |  |
 | [ヒカリ](https://open.spotify.com/track/1Zjr1hkgFB8tuCZI3EfQqj) | [神崎エルザ](https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR) | [ELZA](https://open.spotify.com/album/7lxa43tv2RRDbU5cLTQGIz) | 3:46 | 2022-04-01 | 2022-07-29 |
+| [ピルグリム](https://open.spotify.com/track/2cQYIGCDgr9BAyCnMNehf9) | [神崎エルザ](https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR) | [ELZA](https://open.spotify.com/album/1CDB7e19xQSb3EQzehBO8I) | 4:05 | 2022-10-27 |  |
 | [ピルグリム](https://open.spotify.com/track/5v57M8ipH5giH9l7m6u8Ku) | [神崎エルザ](https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR) | [ELZA](https://open.spotify.com/album/7lxa43tv2RRDbU5cLTQGIz) | 4:05 | 2022-04-01 | 2022-07-29 |
-| [ピルグリム](https://open.spotify.com/track/28J422M70C4zeTr5JBH8UL) | [神崎エルザ](https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR) | [Elza](https://open.spotify.com/album/5fb2fBe8FYwR5fX935r2rV) | 4:05 | 2022-04-01 |  |
+| [ピルグリム](https://open.spotify.com/track/28J422M70C4zeTr5JBH8UL) | [神崎エルザ](https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR) | [Elza](https://open.spotify.com/album/5fb2fBe8FYwR5fX935r2rV) | 4:05 | 2022-04-01 | 2022-11-12 |
 | [ユメセカイ](https://open.spotify.com/track/1OvEX9vVeP0AlkQd3T0hHX) | [Haruka Tomatsu](https://open.spotify.com/artist/17Xrh1jox4g1VQcUcIcgra) | [Sunny Side Story](https://open.spotify.com/album/56takW3ZriHntrUx5n7NYj) | 4:48 | 2022-04-01 | 2022-11-11 |
 | [ユメセカイ](https://open.spotify.com/track/1phvSPDooA3DxfETC0npcr) | [Haruka Tomatsu](https://open.spotify.com/artist/17Xrh1jox4g1VQcUcIcgra) | [Sunny Side Story](https://open.spotify.com/album/6GAYrjZCgPZl88EesMGIcb) | 4:48 | 2022-04-01 | 2022-07-29 |
 | [ユメセカイ](https://open.spotify.com/track/4rVKWIzlGgxproI0xUmcqL) | [Haruka Tomatsu](https://open.spotify.com/artist/17Xrh1jox4g1VQcUcIcgra) | [ユメセカイ](https://open.spotify.com/album/6HMiloPWJXDJiwGQd8SCLy) | 4:49 | 2022-10-27 |  |

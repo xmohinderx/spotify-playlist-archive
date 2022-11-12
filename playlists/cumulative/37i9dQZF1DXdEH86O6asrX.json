@@ -70,6 +70,28 @@
     },
     {
       "album": {
+        "name": "A Real Hero",
+        "url": "https://open.spotify.com/album/73c34KIp08yd4Jp0mkufmV"
+      },
+      "artists": [
+        {
+          "name": "College",
+          "url": "https://open.spotify.com/artist/11TlWPqyDFLHGccTFQhcc6"
+        },
+        {
+          "name": "Electric Youth",
+          "url": "https://open.spotify.com/artist/45YbCFM0an4hsEXMdQ4k3b"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267847,
+      "name": "A Real Hero",
+      "url": "https://open.spotify.com/track/53b1icRPhYU9dvy8p1qZkS"
+    },
+    {
+      "album": {
         "name": "Innerworld (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3xlj8UnItzJxDjn3kWezIK"
       },
@@ -85,7 +107,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 267693,
       "name": "A Real Hero",
       "url": "https://open.spotify.com/track/6ei4QrpcciclGH593uHKo8"
@@ -443,7 +465,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 176699,
       "name": "Cool Yule",
       "url": "https://open.spotify.com/track/33GkcZ89Aj254FaJoFwCl9"
@@ -581,7 +603,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 366826,
       "name": "Dry the Rain",
       "url": "https://open.spotify.com/track/7ItpUlCUwTRyiXZ0YclPQ7"
@@ -881,7 +903,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-23",
+      "date_removed": null,
       "duration_ms": 360312,
       "name": "Guarding The Gates - From \"Queen & Slim: The Soundtrack\"",
       "url": "https://open.spotify.com/track/0vxTKTxKoTmljpT7gb4U1h"
@@ -1257,7 +1279,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 288826,
       "name": "Lebanese Blonde",
       "url": "https://open.spotify.com/track/6k5VMHrwv7mgPpkQSRQtQr"
@@ -1275,7 +1297,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-10",
+      "date_removed": null,
       "duration_ms": 289866,
       "name": "Lebanese Blonde",
       "url": "https://open.spotify.com/track/39U4h0IXSCndWnKfemilvG"
@@ -2363,6 +2385,24 @@
       "duration_ms": 155200,
       "name": "Storytime",
       "url": "https://open.spotify.com/track/2k8gwTGsi3IwKp3xqaddbe"
+    },
+    {
+      "album": {
+        "name": "Edward Scissorhands",
+        "url": "https://open.spotify.com/album/4pv4SQkB4SXrY5bynbW0lf"
+      },
+      "artists": [
+        {
+          "name": "Danny Elfman",
+          "url": "https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155200,
+      "name": "Storytime",
+      "url": "https://open.spotify.com/track/4mHz1B1A0p1ItAxea0zhff"
     },
     {
       "album": {

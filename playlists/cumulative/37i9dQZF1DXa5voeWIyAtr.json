@@ -1606,6 +1606,24 @@
     },
     {
       "album": {
+        "name": "Antolog\u00eda: El Poeta Del Pueblo, Vol. 3 \u2013 Sus Grandes Baladas",
+        "url": "https://open.spotify.com/album/3AXSIGs7IkCFhepjnBw4yt"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199482,
+      "name": "Un Idiota",
+      "url": "https://open.spotify.com/track/455RCfTWiV8eyMusbcl3tx"
+    },
+    {
+      "album": {
         "name": "Secreto De Amor",
         "url": "https://open.spotify.com/album/1wc7nRyIpIhe2DXcPs7JaM"
       },
@@ -1635,7 +1653,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 199482,
       "name": "Un Idiota",
       "url": "https://open.spotify.com/track/5susfx6SX1tebTCLSxe74K"

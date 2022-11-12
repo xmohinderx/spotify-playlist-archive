@@ -477,10 +477,28 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 289697,
       "name": "Film",
       "url": "https://open.spotify.com/track/4heHCAVdN0df6wrtN6moAI"
+    },
+    {
+      "album": {
+        "name": "Film",
+        "url": "https://open.spotify.com/album/20B8tfOi3zX4Fi1Qm3f5CY"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291298,
+      "name": "Film",
+      "url": "https://open.spotify.com/track/33aI7zjfWi9zuQdhVjFGuQ"
     },
     {
       "album": {
@@ -1127,10 +1145,28 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 310333,
       "name": "Sakura no Mori",
       "url": "https://open.spotify.com/track/7eEvKU1yG1JaaBEjyV7ySN"
+    },
+    {
+      "album": {
+        "name": "Crazy Crazy/Sakura no Mori",
+        "url": "https://open.spotify.com/album/1a7bYgO5K7wzEhZgGlnZ23"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312126,
+      "name": "Sakura no Mori",
+      "url": "https://open.spotify.com/track/3yBMzpbHGbQjxC9UwmRP02"
     },
     {
       "album": {

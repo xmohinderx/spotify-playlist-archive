@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 
 > Epic and melodic metal, for the dragonslayer in you! Cover: Beyond The Black
 
-[Spotify](https://open.spotify.com/user/spotify) - 702,000 likes - 80 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 702,167 likes - 80 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 | 3 | [On the Sea](https://open.spotify.com/track/140YrjpNRIohRgiUed4OIw) | [Tungsten](https://open.spotify.com/artist/529eA6ZaD8bWorDonM2wnm) | [On the Sea](https://open.spotify.com/album/6HF4boalvZJFeDAafJqCaR) | 3:53 |
 | 4 | [Blank Infinity \- Live At Paradiso](https://open.spotify.com/track/0GmZSnIUgQRJfGKR0NSaUl) | [Epica](https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp) | [Live At Paradiso](https://open.spotify.com/album/0cSFIq70TNkZvsqSfAQrXe) | 4:02 |
 | 5 | [The Hanging Tree](https://open.spotify.com/track/2dZaznMM1CnsCcRprcYs5Z) | [Megaraptor](https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA) | [The Hanging Tree](https://open.spotify.com/album/3pl0dKJfqQ5GajM2Mvp2TG) | 3:46 |
-| 6 | [Melancholy Angel](https://open.spotify.com/track/4N4N0iUDXixLEm7RIIVBJt) | [Visions of Atlantis](https://open.spotify.com/artist/5kanN1nKzrkW1m2gZmo82x) | [Pirates](https://open.spotify.com/album/0fLeH63QKjTuh7pr2RbEYj) | 3:55 |
+| 6 | [Melancholy Angel](https://open.spotify.com/track/4EoWt8hpTaax6v6Ckuyoyo) | [Visions of Atlantis](https://open.spotify.com/artist/5kanN1nKzrkW1m2gZmo82x) | [Master the Hurricane](https://open.spotify.com/album/02dWOZprnwjXGkggw6Fwz4) | 3:55 |
 | 7 | [Vita Nova](https://open.spotify.com/track/2o7Exjn3bLrKOYS7rsJXlr) | [Eye of Melian](https://open.spotify.com/artist/4o6EEebyNsDyI14s2jnB4G), [Johanna Kurkela](https://open.spotify.com/artist/7fsO7iJz8gv776THRffk0A) | [Vita Nova](https://open.spotify.com/album/6HLg30KBqgZsKRhWeKmops) | 6:04 |
 | 8 | [Reincarnation](https://open.spotify.com/track/3scNYs59MN2puKtlwnzq9Z) | [Beyond The Black](https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf) | [Reincarnation](https://open.spotify.com/album/4yc9P5BoQkFrHlKPcW6UsQ) | 4:09 |
 | 9 | [Fire](https://open.spotify.com/track/6a4hIHS9wtWf2O0e8XgHGl) | [Floor Jansen](https://open.spotify.com/artist/2ZNTJ9Bu9QMJwBboMSpQgJ) | [Fire](https://open.spotify.com/album/72cGpjiwjdPTwcrPMnaFNX) | 3:28 |
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 | 33 | [Musket Fire](https://open.spotify.com/track/0zpU8xCvL1tuKPaWyInVvc) | [Blame Me!](https://open.spotify.com/artist/5VPpA30LO6fGV6ZYycAn9T) | [Musket Fire](https://open.spotify.com/album/7L32VrKfCmxAaGzctwZnBl) | 3:46 |
 | 34 | [God Is Silent](https://open.spotify.com/track/5vNUsB8wOj4RptqPxf6dwV) | [Avatarium](https://open.spotify.com/artist/2W5ONRbOs5vXUbedSWJQlA) | [God Is Silent](https://open.spotify.com/album/66xCgz4iKULVQ44Ymthzog) | 6:06 |
 | 35 | [Guiding Light](https://open.spotify.com/track/7swJjRerIGDjEAz55QiQnJ) | [Horizon Ignited](https://open.spotify.com/artist/6ckq60ZYOQgb3qpcBIWt1E) | [Towards The Dying Lands](https://open.spotify.com/album/1VrGCLxkDyMH7u252PQO0I) | 3:57 |
-| 36 | [Reborn](https://open.spotify.com/track/0hCBk9VMLgCfbnikfUgmbA) | [Xandria](https://open.spotify.com/artist/1jzIEzXVJ4p1kFDmio6LEL) | [Reborn](https://open.spotify.com/album/06K3aF7hbLYGAQHAH6Wo83) | 5:13 |
+| 36 | [Reborn](https://open.spotify.com/track/3Wryqjwxdj49PN0lsjt73G) | [Xandria](https://open.spotify.com/artist/1jzIEzXVJ4p1kFDmio6LEL) | [Ghosts](https://open.spotify.com/album/0aayBd4RiH5GfNHfatX9U2) | 5:13 |
 | 37 | [Oblivion](https://open.spotify.com/track/3uWrBUXXqPAEtVnoMNjFMy) | [Civil War](https://open.spotify.com/artist/6lGzC0JJCotCU9QZ2Lgi8T) | [Oblivion](https://open.spotify.com/album/0p7hlLS3mYBw5FuXeydmEv) | 5:38 |
 | 38 | [Generations' Legacy](https://open.spotify.com/track/5IQkaqFVUaw8MSVY1TsDsX) | [Mentalist](https://open.spotify.com/artist/0FqWOgn92qjlFjYcmoesrs) | [Generations' Legacy](https://open.spotify.com/album/7DsqNbS1FIzE736qTj5DuQ) | 5:28 |
 | 39 | [Empire](https://open.spotify.com/track/6oOZSrzBB2QTSRY3qoWaYy) | [Memoremains](https://open.spotify.com/artist/59YzmPPL4s9KUfV4kqWYS1) | [Pop Metal](https://open.spotify.com/album/3chKNZRdtp9IFFIgzYIWoz) | 3:11 |
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 | 43 | [Over the Horizon Radar](https://open.spotify.com/track/5GMCA2bj9tyiRzMfqpsMzy) | [Jorn](https://open.spotify.com/artist/5SaDyTQkjAAdrsmhPzrmw2) | [Over the Horizon Radar](https://open.spotify.com/album/5UOB2GpihCJHEQ30DSnkss) | 5:23 |
 | 44 | [Litany Of The Fallen](https://open.spotify.com/track/1gYjWTKs09WJzaZrPLRFDS) | [Therion](https://open.spotify.com/artist/5c8Cw62ZYj9XO6iDLRDEsi) | [Litany Of The Fallen](https://open.spotify.com/album/11cRcdDcrV6eTJKuvrZdNu) | 4:10 |
 | 45 | [Beneath Your Skin](https://open.spotify.com/track/7jQjPgtzLhJwDMRb23NF9f) | [Chaos Magic](https://open.spotify.com/artist/42OynfArWdfEeCmkvUV4qC), [Caterina Nix](https://open.spotify.com/artist/3ujLgYPCCryc7HfFjxMM2S) | [Emerge \(Deluxe Edition\)](https://open.spotify.com/album/6U4G96P03Ozny2EURgrx4b) | 4:40 |
-| 46 | [Victorious Dinogods](https://open.spotify.com/track/3OgXzA0isNtksoVjTgHRPf) | [Victorius](https://open.spotify.com/artist/2INeE2VBbawRQNI6ezc4lN) | [Dinosaur Warfare Pt\. 2 – The Great Ninja War](https://open.spotify.com/album/1mOt5zGtWlns8V3AD5HMCr) | 4:46 |
+| 46 | [Victorious Dinogods](https://open.spotify.com/track/3IELmqSo9EZ3PZAKzfPd2R) | [Victorius](https://open.spotify.com/artist/2INeE2VBbawRQNI6ezc4lN) | [Mighty Magic Mammoth](https://open.spotify.com/album/3B2nV6ZF3dmuxRkofL6BnV) | 4:46 |
 | 47 | [A Cloak Woven of Stars](https://open.spotify.com/track/63MHeFB8wPnk1BdOzOhSQH) | [Lacrimas Profundere](https://open.spotify.com/artist/4LtKoRSDo1uGlaGGEqsIhz) | [A Cloak Woven of Stars](https://open.spotify.com/album/0pgqABeJv3v8GgMlfFMeSm) | 3:37 |
 | 48 | [Dismantled](https://open.spotify.com/track/1JETidOlBrs1QsLHPdMUFP) | [Nekonomicon](https://open.spotify.com/artist/0LRsDKh8RR88ZyqNDw52hB), [Kylee Brielle](https://open.spotify.com/artist/0qYMPOwezx6aACst4H0uaI) | [Nekonomicon](https://open.spotify.com/album/56dhYX1QaCsX3Kz3FgBOrJ) | 3:57 |
 | 49 | [Solitude's Bane](https://open.spotify.com/track/3S4FfGDSpmPSHqSR0DyMH4) | [Gladenfold](https://open.spotify.com/artist/5fReK32sz2vmbh61o5TGLe) | [Nemesis](https://open.spotify.com/album/6hcVrHaXWVQucfSx39i4vo) | 3:37 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 | 79 | [Breath](https://open.spotify.com/track/6srr7GORT5rCZyFKO5jd2G) | [Rioghan](https://open.spotify.com/artist/2Ev0s3CG4Oz7MJvqpQzHWw) | [Breath](https://open.spotify.com/album/2A70NvbWyMrMhCgCCLB05g) | 3:44 |
 | 80 | [Kraven the Hunter \- Single Edit](https://open.spotify.com/track/3skZ9npI1llyAOivyBCC7y) | [Power Paladin](https://open.spotify.com/artist/2jkaoO6BDX0QvewdjxRSvB) | [Kraven The Hunter](https://open.spotify.com/album/39Zzf3eP7dTiDPlbCZrTma) | 4:42 |
 
-Snapshot ID: `MTY2Njc5NjMzMiwwMDAwMDAwMDk5ZTdiNzk1ZDlkYTcxNjI3Y2NmNTczYWRlNzQ0Mjg4`
+Snapshot ID: `MTY2Njc5NjMzMiwwMDAwMDAwMGVmZGZkMTlmNjNmZjc2ZTJkNmQzYTg2ZDU5YWI2NmRj`

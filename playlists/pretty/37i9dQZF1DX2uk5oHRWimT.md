@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2uk5oHRWimT.md) - [plain]
 
 > Have yourself a little cozy Christmas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 300,820 likes - 131 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 301,109 likes - 131 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2uk5oHRWimT.md) - [plain]
 | 15 | [Christmas Must Be Tonight](https://open.spotify.com/track/6SmcOPw2z5Ha0hl6M8kadt) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Indie & Folk Christmas 2022](https://open.spotify.com/album/5XyV9ciesak8GB2gRveME5) | 3:47 |
 | 16 | [Auld Lang Syne](https://open.spotify.com/track/3hpq8jEIKgTRQHSTjpsNZY) | [Betsy Phillips](https://open.spotify.com/artist/3m3VhgcmqGV93tHZiOFrId), [Robby Hecht](https://open.spotify.com/artist/0ZDm55WIaMpvEkX8cY1AAk) | [Auld Lang Syne](https://open.spotify.com/album/1ks0JpE2S3GixJUdKsUJ67) | 2:19 |
 | 17 | [Winter Song](https://open.spotify.com/track/5nbzSunBRFGCI4Pb6PoCat) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head And The Heart](https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu) | 2:43 |
-| 18 | [O Come, O Come Emmanuel](https://open.spotify.com/track/7lbYAsV9grcE2bxyiW96ex) | [Brooke Annibale](https://open.spotify.com/artist/1JojxxteIsItgolTdalOb3) | [O Come, O Come Emmanuel](https://open.spotify.com/album/3KZxHnEJ7Z3iv9YkpfRdiT) | 3:10 |
+| 18 | [O Come, O Come Emmanuel](https://open.spotify.com/track/0ZeOfglrCPCjY4tsslY5eT) | [Brooke Annibale](https://open.spotify.com/artist/1JojxxteIsItgolTdalOb3) | [brokenhearted at christmas](https://open.spotify.com/album/1elM9otVitZPwvQtFems11) | 3:10 |
 | 19 | [Sister Winter](https://open.spotify.com/track/1N0xDVB8oJ6rb10n2lA46b) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Sister Winter B/W Rest](https://open.spotify.com/album/69madVZCyCpjBr3xIxlNWa) | 3:36 |
 | 20 | [White Christmas](https://open.spotify.com/track/5I152ZJvFMDUWvKd9tiKcn) | [Mountain Man](https://open.spotify.com/artist/5kmPNusdo1mCTyz4u1uEGm) | [Sings White Christmas](https://open.spotify.com/album/7Cqt4bAqv7ZprtcXsdljzV) | 3:56 |
 | 21 | [Baby, It's Cold Outside](https://open.spotify.com/track/3xvFTqHmlMqKjHgczCGn2C) | [Lydia Liza](https://open.spotify.com/artist/69APTdcqAgiLyRm7kqvRCX), [Josiah Lemanski](https://open.spotify.com/artist/5Pg6XX4b4lyHb9CFWwEP6o) | [Baby, It's Cold Outside](https://open.spotify.com/album/1M0s0XU64tJ5x6Ex0u5AfN) | 1:52 |
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2uk5oHRWimT.md) - [plain]
 | 33 | [I Heard The Bells On Christmas Day](https://open.spotify.com/track/1qSBHo7rjtqYdd0XJB8ngq) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Holidays Rule](https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ) | 2:34 |
 | 34 | [Carol of the Bells](https://open.spotify.com/track/0ooZTbadcxB1rWlFjQVMmB) | [Caroline Pennell](https://open.spotify.com/artist/0cZPTEmf3mlwj5kjVXR4po) | [December Songs](https://open.spotify.com/album/7IM5ffEXH19ulqrB8k3M8y) | 1:57 |
 | 35 | [Jingle Your Bells](https://open.spotify.com/track/27Y92XmoFMVeVVwJhOWczE) | [Hush Kids](https://open.spotify.com/artist/4XzsOuqFltgBcdHF3RZQbh) | [Jingle Your Bells](https://open.spotify.com/album/0t6BIKhlVZHdKv4ocFmqr6) | 3:53 |
-| 36 | [Winter Wonderland](https://open.spotify.com/track/1Eb21hL7z70CSuqIgMufBf) | [The Sweeplings](https://open.spotify.com/artist/3fTedgf4fh8D3s41dP0HWt) | [Sorted Noise Records: A Holiday Album, Vol\. 1](https://open.spotify.com/album/08dRs9SE1pmfV5pmGZsCwt) | 3:10 |
+| 36 | [Winter Wonderland](https://open.spotify.com/track/5AkIe4V7FlOVAIT6pBnrOL) | [The Sweeplings](https://open.spotify.com/artist/3fTedgf4fh8D3s41dP0HWt) | [Sorted Noise Records: A Holiday Album, Vol\. 1](https://open.spotify.com/album/4f4mGgtU9y8TRdqSLmATvk) | 3:10 |
 | 37 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/177r7J6bnoMnW4MQx1GQng) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [The Christmas EP](https://open.spotify.com/album/7yjyuhHmTnwnqIMGYzWU1F) | 1:53 |
 | 38 | [Santa Baby](https://open.spotify.com/track/5aF9fM2bw3aJ55B04lLfW9) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [Home At Christmas](https://open.spotify.com/album/04zzc2HqS41k9xQFnoAXZR) | 3:20 |
 | 39 | [Eskimo](https://open.spotify.com/track/2mKXnDtf8D8AAMNtgYcfQi) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [O](https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1) | 21:41 |
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2uk5oHRWimT.md) - [plain]
 | 53 | [Sleet and Snow](https://open.spotify.com/track/19PbVUTpF75SeZQpTEUJwM) | [My First Tooth](https://open.spotify.com/artist/2mtHReEeM2MuBaWSY3stG8) | [Sleet and Snow](https://open.spotify.com/album/6IvRuTNcTlPaIosiVlY8Nx) | 3:18 |
 | 54 | [Snow](https://open.spotify.com/track/4yNKWjEFADa5f11RI1DaKC) | [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [At Swim](https://open.spotify.com/album/3c3n3uBTF0tgIPCNjucEAm) | 3:38 |
 | 55 | [How I Know It's Christmas \- Acoustic Piano](https://open.spotify.com/track/44bnKOB8Ztbo8IRTVQQ3hH) | [Hudson Taylor](https://open.spotify.com/artist/4DX2G1URzfEiRg2wBfv4ub) | [How I Know It's Christmas with the Rte Concert Orchestra](https://open.spotify.com/album/7chkHHKHVlrMJqmOLiWIJd) | 3:47 |
-| 56 | [White Winter Hymnal](https://open.spotify.com/track/0GegHVxeozw3rdjte45Bfx) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Fleet Foxes](https://open.spotify.com/album/5GRnydamKvIeG46dycID6v) | 2:27 |
+| 56 | [White Winter Hymnal](https://open.spotify.com/track/7II56zDppy5Zyj1oJhkkZ1) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [First Collection 2006\-2009](https://open.spotify.com/album/6ou9sQOsIY5xIIX417L3ud) | 2:27 |
 | 57 | [I'll Be Home for Christmas](https://open.spotify.com/track/1zqh3B4hRI5drtx37X4xL1) | [Kathleen](https://open.spotify.com/artist/6UqUYZ8pMGiYhuyIcsH61y) | [I'll Be Home for Christmas](https://open.spotify.com/album/7IZhOD3iTWldFW4NkHPuHK) | 1:53 |
 | 58 | [Goodbye England \(Covered In Snow\)](https://open.spotify.com/track/6is0SLo2xrrv8xq5XjkbsJ) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Indie & Folk Christmas 2022](https://open.spotify.com/album/5XyV9ciesak8GB2gRveME5) | 3:45 |
 | 59 | [Home For The Season](https://open.spotify.com/track/5T5FkiC6rR5G6853YPeIZj) | [Neil Halstead](https://open.spotify.com/artist/3QbwwBVHCVDEDrVpvUcCwj) | [This Warm December, A Brushfire Holiday Vol\. 2](https://open.spotify.com/album/4dTpeR3SNPSp77CztAXT7T) | 4:13 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2uk5oHRWimT.md) - [plain]
 | 71 | [O Little Town of Bethlehelm](https://open.spotify.com/track/5NHjU6TqwIFrunmTaHfUI4) | [Scott Mulvahill](https://open.spotify.com/artist/2wfUus9ndQRBntDugGk5bn), [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH) | [O Come Let Us Adore: A Christmas Collective](https://open.spotify.com/album/3EmPHDaZEz0VpqjWWAlDrL) | 3:18 |
 | 72 | [This Love Won't Break Your Heart](https://open.spotify.com/track/0rKjJB90TZ62o8npz8QEn3) | [Annalise Emerick](https://open.spotify.com/artist/4Kbdxhpo7iI1mEe69zxw3V) | [Starry\-Eyed](https://open.spotify.com/album/2FrFkBqF1fGQv4Rz84DcAK) | 4:48 |
 | 73 | [Blue Christmas](https://open.spotify.com/track/6f5bTR1wJ7hmeBgMdP48m6) | [Matthew Perryman Jones](https://open.spotify.com/artist/68524z8sd176IRenNb1Fjy), [Lily Costner](https://open.spotify.com/artist/2W45jv4PMTan9mtbMOtPne) | [Blue Christmas](https://open.spotify.com/album/2b0kYFoavnEmnbAXmufNFa) | 3:05 |
-| 74 | [This Holiday](https://open.spotify.com/track/4lnCnaLrmoTWrlIzB7Zx4B) | [Brooke Annibale](https://open.spotify.com/artist/1JojxxteIsItgolTdalOb3) | [This Holiday](https://open.spotify.com/album/0QkbSvfIbbmzw429CnkdrU) | 4:33 |
+| 74 | [This Holiday](https://open.spotify.com/track/1LQlDaSXSYZGqSjMCOWiai) | [Brooke Annibale](https://open.spotify.com/artist/1JojxxteIsItgolTdalOb3) | [brokenhearted at christmas](https://open.spotify.com/album/1elM9otVitZPwvQtFems11) | 4:33 |
 | 75 | [Joy To The World](https://open.spotify.com/track/2IqU8ku7GvY7HE0s3sYA34) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Songs For Christmas](https://open.spotify.com/album/2cuvGy1kWrtB3vX04Irpis) | 4:20 |
 | 76 | [Dear Mrs\. Claus](https://open.spotify.com/track/6FNwW9pRDdT81mCTtSuGIl) | [The Barr Brothers](https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7) | [Dear Mrs\. Claus](https://open.spotify.com/album/0MkhIufxDhyHnpj29ZLwSw) | 3:49 |
 | 77 | [Song for the Angels](https://open.spotify.com/track/4MIDnbVdmaa5sIbdR5BBTN) | [Great Lake Swimmers](https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR) | [Bodies and Minds](https://open.spotify.com/album/2Psey6KZhbYxogDvrqFlo6) | 5:19 |
@@ -140,4 +140,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2uk5oHRWimT.md) - [plain]
 | 130 | [Christmas Wish](https://open.spotify.com/track/4juMWUhR22wHYG4MxxUdSp) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [A Very She & Him Christmas](https://open.spotify.com/album/3YrU19ATrTJinGwckoI5Dw) | 2:57 |
 | 131 | [What Are You Doing New Year’s Eve?](https://open.spotify.com/track/0SZim5k1ypcgRsWmFcrGfs) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Holidays Rule](https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ) | 4:28 |
 
-Snapshot ID: `MTYzNzMzNjk3MiwwMDAwMDAwMGI5YWZiODdkMGQwMDM3NzQyYWQ4MmRkMDY5MjU0YmMw`
+Snapshot ID: `MTYzNzMzNjk3MiwwMDAwMDAwMGJmZGMxYjVlNjJjODU3ODNmOTZkYTBlZmEzMDE3MTgx`

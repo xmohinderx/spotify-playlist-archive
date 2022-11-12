@@ -4,7 +4,7 @@
 
 > sensual roots & indie folk.
 
-88 songs - 5 hr 41 min - [published](https://open.spotify.com/playlist/42P1NfnQlCFkvo30yvRhfH)
+91 songs - 5 hr 58 min - [published](https://open.spotify.com/playlist/42P1NfnQlCFkvo30yvRhfH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,18 +23,21 @@
 | [Devil's Backbone](https://open.spotify.com/track/4qoD4IJbbir3hsAu4IowiG) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [The Civil Wars](https://open.spotify.com/album/5r0Xd2wqRkTE0BqbeYlnFN) | 2:29 | 2021-03-19 | 2022-07-29 |
 | [Devil’s Backbone](https://open.spotify.com/track/1XTp9AoHDoCQMmMWH0ch8M) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [The Civil Wars](https://open.spotify.com/album/79FSQez4eiOFA4Kx8Bxgyy) | 2:29 | 2021-03-19 |  |
 | [Everybody Here Wants You](https://open.spotify.com/track/76478Z6x3jH8SdSo18vP6k) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Sketches for My Sweetheart The Drunk](https://open.spotify.com/album/6xgKRIMW4HHGXUpfJ6aRuL) | 4:44 | 2021-03-19 | 2022-07-29 |
-| [Everybody Here Wants You](https://open.spotify.com/track/2bcvooA6HEmVUneEGJnNZD) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Sketches for My Sweetheart The Drunk \(Expanded Edition\)](https://open.spotify.com/album/5HDvIlBDfoHiugEXmYULng) | 4:46 | 2021-03-19 |  |
+| [Everybody Here Wants You](https://open.spotify.com/track/2bcvooA6HEmVUneEGJnNZD) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Sketches for My Sweetheart The Drunk \(Expanded Edition\)](https://open.spotify.com/album/5HDvIlBDfoHiugEXmYULng) | 4:46 | 2021-03-19 | 2022-11-12 |
 | [Forget \- Live from Spotify, NYC](https://open.spotify.com/track/1gpyfbutOl79qgVjMrZQOe) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Spotify Sessions](https://open.spotify.com/album/6YYarhAfY1nBoYsDichIts) | 4:38 | 2021-03-19 |  |
 | [Green Eyes](https://open.spotify.com/track/1FoCSrNyUVF00C8foohH2G) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Good Luck, Kid](https://open.spotify.com/album/4Nz2TKH4snc8EZMhsMDjgi) | 3:50 | 2021-03-19 |  |
+| [Hallelujah](https://open.spotify.com/track/1zbe9xUzzuFFgwEeqntTs5) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Christmas Classics](https://open.spotify.com/album/397wI1XGpZ1DOuP0Zvq3Xi) | 6:53 | 2021-03-19 |  |
 | [Hallelujah](https://open.spotify.com/track/3pRaLNL3b8x5uBOcsgvdqM) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Grace](https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS) | 6:53 | 2021-03-19 | 2022-11-11 |
 | [Hallelujah](https://open.spotify.com/track/5qv0ohJV2QNwga79jLNDYQ) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [So Real: Songs From Jeff Buckley](https://open.spotify.com/album/2zfb6rtqx4GM3V65hhsCMY) | 6:54 | 2021-03-19 | 2022-06-30 |
 | [Hard Time](https://open.spotify.com/track/3gFS9CKU70Wm7vAoA0O1uW) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Pretend](https://open.spotify.com/album/7g2ZA4JCgG8Jxr67i23xlz) | 3:29 | 2021-03-19 |  |
 | [I Got What I Wanted](https://open.spotify.com/track/14RuwoKFrfao2Gc5jvdVUH) | [Joan Shelley](https://open.spotify.com/artist/4eR9k3I0YKCQUvvP2ojptw) | [Joan Shelley](https://open.spotify.com/album/4XAQKwnvGWlFTorhU1ENqk) | 3:06 | 2021-03-19 | 2022-07-29 |
 | [I Got What I Wanted](https://open.spotify.com/track/4uqJNpkCMUqnwhce5QD5MI) | [Joan Shelley](https://open.spotify.com/artist/4eR9k3I0YKCQUvvP2ojptw) | [Joan Shelley](https://open.spotify.com/album/4VHpVi7PChqkW5ydU9yX8n) | 3:06 | 2021-03-19 |  |
+| [I Remember](https://open.spotify.com/track/7FUxSlW3F4vih5wMVv4Yh4) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [O](https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1) | 5:31 | 2021-03-19 |  |
 | [In Dreams](https://open.spotify.com/track/6yPuQr6vjZ7tJ4oq1PEXle) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [I Forget Where We Were](https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF) | 3:33 | 2021-03-19 |  |
-| [It Will Come Back](https://open.spotify.com/track/1iugFsBigGHtRwvFVDG9oo) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Expanded Edition\)](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) | 4:37 | 2021-03-19 |  |
+| [It Will Come Back](https://open.spotify.com/track/13CyXxYgWD9N5KwWqRYU1U) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier](https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq) | 4:37 | 2021-03-19 |  |
+| [It Will Come Back](https://open.spotify.com/track/1iugFsBigGHtRwvFVDG9oo) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Expanded Edition\)](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) | 4:37 | 2021-03-19 | 2022-11-12 |
 | [It Will Come Back](https://open.spotify.com/track/5gjZh6EklKm0Hug9fEZWal) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier: Deluxe Edition](https://open.spotify.com/album/5PaHwpTefKhQa6Yqsj9WRH) | 4:37 | 2021-03-19 | 2022-07-29 |
-| [Know You Better](https://open.spotify.com/track/03Yo5FRYVfTB2EuiyOmHLe) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Black Pumas](https://open.spotify.com/album/4KJGypBUe7ANibtri1msUe) | 4:09 | 2021-03-19 |  |
+| [Know You Better](https://open.spotify.com/track/03Yo5FRYVfTB2EuiyOmHLe) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Black Pumas](https://open.spotify.com/album/4KJGypBUe7ANibtri1msUe) | 4:09 | 2021-03-19 | 2022-11-12 |
 | [Know You Better](https://open.spotify.com/track/1RBskSlyrCjfxP8zq0g14d) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Black Pumas \(Deluxe\)](https://open.spotify.com/album/7se2Nu0q1AN3VwnKmdeliw) | 4:09 | 2021-03-19 | 2022-07-29 |
 | [Leave the Light On \- Demo](https://open.spotify.com/track/2nxBkZ02hsiU3SIowH4XQI) | [Marissa Nadler](https://open.spotify.com/artist/5zjaF8JUdylMWrA7AVo3hJ) | [Before July: Demos & Unreleased Songs](https://open.spotify.com/album/7lNnNfJjnoQIKAzyZY9sdL) | 3:12 | 2021-03-19 | 2022-07-29 |
 | [Leave the Light On \- Demo](https://open.spotify.com/track/4pCeGOpnyFmCUz0bFYLplA) | [Marissa Nadler](https://open.spotify.com/artist/5zjaF8JUdylMWrA7AVo3hJ) | [Before July: Demos & Unreleased Songs](https://open.spotify.com/album/5tcFsyGfCQTwSlFuui8HAh) | 3:12 | 2021-03-19 |  |

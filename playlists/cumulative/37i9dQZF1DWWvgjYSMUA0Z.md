@@ -4,7 +4,7 @@
 
 > Music to encourage emotional and physical healing through Reiki.
 
-120 songs - 7 hr 5 min - [published](https://open.spotify.com/playlist/7qJRjOP78BEAfkaayVTtAa)
+124 songs - 7 hr 17 min - [published](https://open.spotify.com/playlist/7qJRjOP78BEAfkaayVTtAa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Agape](https://open.spotify.com/track/1RM8shXinDriSL1trnsh9H) | [Voyage Control](https://open.spotify.com/artist/2ZxdgHyc8cnGVXvUgaApbc) | [Agape](https://open.spotify.com/album/4Il0ZsUVa4e3qTivFLbqeV) | 3:23 | 2021-12-22 |  |
 | [Ancestral Spirit](https://open.spotify.com/track/4pIM5eZaCM2x4P1KqUDSTk) | [Celestial Aeon Project](https://open.spotify.com/artist/3erL8NEQbmmOXhO6yyVWxO) | [Shaman Spirit Flute](https://open.spotify.com/album/39Q6KP8xGG0olJZMSwK7x9) | 1:15 | 2022-05-19 |  |
 | [Angelical](https://open.spotify.com/track/2LzNS6YlpkehtEINlWNtV2) | [No Nem\-1](https://open.spotify.com/artist/2nWmDoCWQwcZQe6eemVZtp) | [Angelical](https://open.spotify.com/album/2O9gwqHI8P7XAr1yPp1xST) | 3:22 | 2021-12-22 |  |
+| [Apaisantes](https://open.spotify.com/track/3713Dlm0BpTyUr1UmIhpk7) | [Pierrette Tremblay](https://open.spotify.com/artist/34npnHx3CSOPsmeshdfqQY) | [Apaisantes](https://open.spotify.com/album/4aQuLGuuYxdFj4gjl7I2TB) | 2:14 | 2022-11-11 |  |
 | [Argentum](https://open.spotify.com/track/0ShvmWyYcjf8nbCBBhVjPW) | [Burgundy Skies](https://open.spotify.com/artist/2txYwbS88ztbJYTKGVeUrq) | [Argentum](https://open.spotify.com/album/3bRb9n1DDvfT2cHbqnsGp4) | 2:42 | 2022-02-04 |  |
 | [At last](https://open.spotify.com/track/1lNdqczd0uKZcioivNQZBt) | [Alannah Hammer](https://open.spotify.com/artist/2utndN6OrmNQKozhXYJ8Hn) | [At last](https://open.spotify.com/album/24NHRvgtq3lBESZ98LLDdd) | 3:30 | 2021-12-22 |  |
 | [Awaiting The Night](https://open.spotify.com/track/30uebPIcKyKLYs6GvCMoGI) | [Celestial Seekr](https://open.spotify.com/artist/6vzDsyuY7VKxGPDCcz9Eel) | [Awaiting The Night](https://open.spotify.com/album/4WbmSphPzHRMjuboa8haMl) | 2:14 | 2022-08-15 |  |
@@ -28,6 +29,7 @@
 | [Chakra Healing](https://open.spotify.com/track/0uMK8rvIDTz9B1wakrMdkd) | [Makalu](https://open.spotify.com/artist/37iyLYETxVTFwmHXjVwlcj) | [Chakra Healing](https://open.spotify.com/album/2E53QAT0NpsO0QTzh1zwg9) | 4:13 | 2022-07-22 |  |
 | [Cloud Surfing](https://open.spotify.com/track/1HuFkAl8FJnL83syXSPnUb) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Reiki Hands of Love](https://open.spotify.com/album/0ZyDrVKICSJ9nbqRa3hgZh) | 4:58 | 2021-12-22 |  |
 | [Con Ojos Cerrados](https://open.spotify.com/track/0ZM4ZmYetI5obeA6bSyx8C) | [Esmeraldas](https://open.spotify.com/artist/1mIhqTBJzWF8W2iWSuuO8f) | [Con Ojos Cerrados](https://open.spotify.com/album/3w3zoZE8H5efdPfUv3vt4b) | 3:00 | 2021-12-22 |  |
+| [Conclusions](https://open.spotify.com/track/0XAITZHrtlpUeRo00FoTLP) | [Hiun](https://open.spotify.com/artist/52Ae1wJP3XjuoZWugBC6Az) | [Conclusions](https://open.spotify.com/album/5ZpLZtogYfd4enMphrDFVt) | 3:22 | 2022-11-11 |  |
 | [Cradle of Life](https://open.spotify.com/track/1eihRcf7w68iW9IPTs76fc) | [Laiua](https://open.spotify.com/artist/1fhB7jhn3UFb3AdiHMsQTz) | [Cradle of Life](https://open.spotify.com/album/4Tw2LWGi0iUCw2ZTfSkiXc) | 2:25 | 2021-12-22 |  |
 | [Designated Solitude](https://open.spotify.com/track/1KD5sDTDCSj2yPBh3OxQ1i) | [Sight of Wonders](https://open.spotify.com/artist/4TVuWsAEx3S4UnsJhA7QYD) | [Designated Solitude](https://open.spotify.com/album/1DDlDMpNFef0ksiYQCZ6j4) | 3:03 | 2021-12-22 |  |
 | [Divine](https://open.spotify.com/track/66wXImRKuhTGpZ69DvZg7B) | [Sacred Flute](https://open.spotify.com/artist/6dn5BFtVFrmBuZXS3Pt2Qi) | [Divine](https://open.spotify.com/album/6OrR8pnQUICQns5IRJVPay) | 4:05 | 2022-09-13 |  |
@@ -50,6 +52,7 @@
 | [In jouw armen](https://open.spotify.com/track/27U2vAXaXKEFo3oaqYFqq3) | [Dardan Leistra](https://open.spotify.com/artist/1iChBE5eMVIiJBpsUZ0rSH) | [In jouw armen](https://open.spotify.com/album/0R7SDTTsNQOpxGKM5PVKKm) | 3:10 | 2021-12-22 |  |
 | [In the Far Away Distance](https://open.spotify.com/track/1oHDNBIxtHai4IcMQ4mJuL) | [Zen Gaya](https://open.spotify.com/artist/5zC4k86g6y3NsIvUwFVX1G) | [In the Far Away Distance](https://open.spotify.com/album/6hxNWvBvsKr4mV1YAjz9HS) | 2:56 | 2021-12-22 |  |
 | [Inner Universe](https://open.spotify.com/track/1XOc1T0peSL0F5UF6J5xJJ) | [Von Goo](https://open.spotify.com/artist/0ok7E7efNzcR8Bz1xDx8Zb) | [Inner Universe](https://open.spotify.com/album/79nhvpmbNmMMVjPiOkzs2G) | 3:30 | 2022-02-04 |  |
+| [Into The Wild](https://open.spotify.com/track/2p43Bh0htWx0zzluceN4AY) | [Luka Vida](https://open.spotify.com/artist/0likNjMTiDiVjqPr4OcsZC) | [Into The Wild](https://open.spotify.com/album/6f8novNcKvEeS4kZj3CgLL) | 3:12 | 2022-11-11 |  |
 | [It’s Never Too Late](https://open.spotify.com/track/5j7Jg9bruInMqk96DOCxjH) | [Lily Valley](https://open.spotify.com/artist/24fmge1nCy1ahvJV09fEN7) | [It’s Never Too Late](https://open.spotify.com/album/0NaMd9PrXKi9QU8Z05Em4v) | 3:00 | 2021-12-22 |  |
 | [Kindred Spirit](https://open.spotify.com/track/3DnYVJJH3H6P7Svy4x2DYT) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Koyasan: Reiki Sound Healing](https://open.spotify.com/album/2KqIIRnERVHqimzQSAZaRD) | 8:19 | 2021-12-22 |  |
 | [Little Swallow](https://open.spotify.com/track/1I0k8K0RQSZZKWGVXw2uDD) | [Mollis](https://open.spotify.com/artist/1QT9mxEShl9BmYBUhnr1DG) | [Little Swallow](https://open.spotify.com/album/4JNFQHbtSsuqD9UtiNiGnN) | 3:34 | 2021-12-22 |  |
@@ -70,6 +73,7 @@
 | [Peaceful Beat](https://open.spotify.com/track/1K1bPlZna6jKf7awyKi6K8) | [Muyu Three](https://open.spotify.com/artist/6zb7OvAUpABDfVSe9NF1BN) | [Peaceful Beat](https://open.spotify.com/album/4geUtHZzcLPidEcjgaIvQB) | 2:58 | 2022-05-25 |  |
 | [Peaceful Garden](https://open.spotify.com/track/109Az5ZRvRYKE6UU9Rdnf0) | [Buddha's Lounge](https://open.spotify.com/artist/0DQtE70SlFZZkbNpCRaMHb) | [Peaceful Garden](https://open.spotify.com/album/26UPIsHGsD24Si9M186oYK) | 6:17 | 2022-09-02 |  |
 | [Perfect Rose](https://open.spotify.com/track/0Yuw1szR25KD6tmO1KSs9x) | [Jade Palace](https://open.spotify.com/artist/52FzcYdR52cgukrg4A3Tyv) | [Perfect Rose](https://open.spotify.com/album/2E8dJJLDCiKqWMVXuWetCq) | 3:06 | 2021-12-22 |  |
+| [Perpetuality](https://open.spotify.com/track/6Kt4t76FWnzPESRiKYPdSx) | [Parker Woods](https://open.spotify.com/artist/1eNbVzydYSYdXyjnVSMypX) | [Perpetuality](https://open.spotify.com/album/4Q6TErWBcAFskWp665tW4D) | 2:43 | 2022-11-11 |  |
 | [Point of Departure](https://open.spotify.com/track/2mR5CtbwYl0hnyNIs5ue7B) | [Anuvida](https://open.spotify.com/artist/2cAY7ix5Q1KkGIHD46ahtG), [Nik Tyndall](https://open.spotify.com/artist/079KP7iub4gzBo3Orbbzmy) | [Reiki Healing Hands](https://open.spotify.com/album/2mzFH1tiasz7velHgJmWW1) | 9:57 | 2021-12-22 |  |
 | [Polaris](https://open.spotify.com/track/3u4oNZRvrA7pXN90HaGWkE) | [Burgundy Skies](https://open.spotify.com/artist/2txYwbS88ztbJYTKGVeUrq) | [Polaris](https://open.spotify.com/album/2Mx0KP6jL0AmsMuZsCjAft) | 1:55 | 2021-12-22 |  |
 | [Pure And Calm](https://open.spotify.com/track/663LF9heB9sWluligQWpG8) | [Golga Nesh](https://open.spotify.com/artist/3PwWkYTHc7KtBrRutAXOlg) | [Pure And Calm](https://open.spotify.com/album/6Js79WFhXHyBSaPnM81l0j) | 2:45 | 2022-02-04 |  |

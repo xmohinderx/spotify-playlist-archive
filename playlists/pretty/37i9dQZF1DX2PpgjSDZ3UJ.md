@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PpgjSDZ3UJ.md) - [plain]
 
 > Las mejores canciones de indie/alternativo durante el 2020\. En portada: Ela Minus
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,890 likes - 89 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,899 likes - 89 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Karmadame](https://open.spotify.com/track/1xO5aVaGg8ksIuH1TL9Ba3) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Sonidos De Karmática Resonancia](https://open.spotify.com/album/4a9Zz5WbFy2guHD98gHEyO) | 4:44 |
+| 1 | [Karmadame](https://open.spotify.com/track/75GGLjI399nQYyvr5DD5ms) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Indie Acústico vol\. I](https://open.spotify.com/album/2buuC8Dh5dnOPsjUftmbKQ) | 4:50 |
 | 2 | [el cielo no es de nadie \- Edit](https://open.spotify.com/track/1pY4lWKYXLGqcSql0CzDuy) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [el cielo no es de nadie](https://open.spotify.com/album/2NzNIhJKRGCuPWfAJtUUCL) | 3:41 |
 | 3 | [Tu Encanto](https://open.spotify.com/track/0zRCH3vyASd7BEQ6bFdbol) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2), [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Tu Encanto](https://open.spotify.com/album/5sNubtE2kol6DLs6o9y0K0) | 3:31 |
 | 4 | [El Encuentro](https://open.spotify.com/track/0PbDj1Lh8uZJ2ZcTRSBvQf) | [Alizzz](https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3), [Amaia](https://open.spotify.com/artist/1WLEfsQjvgtFSGkrHonzFX) | [El Encuentro](https://open.spotify.com/album/3NAGaIPdSjlSJhAbcgRU3A) | 2:58 |
@@ -47,13 +47,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PpgjSDZ3UJ.md) - [plain]
 | 37 | [Centro](https://open.spotify.com/track/5kABp0JZfAxisR5zzpAi7d) | [MIEL](https://open.spotify.com/artist/7KQCUauVB5CLGrJwq2JoVd) | [ƎDÉN](https://open.spotify.com/album/3biwHpS1Tnm3LOgTf3CqYr) | 3:38 |
 | 38 | [Un Gatito](https://open.spotify.com/track/2d7au8a1ImPjzTp8EyNcoI) | [La Bien Querida](https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6), [Alizzz](https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3) | [Un Gatito](https://open.spotify.com/album/37mDIREfofAksvorhbC64M) | 3:05 |
 | 39 | [Serenidad](https://open.spotify.com/track/1bZwFCKn9tpefTvl6mQ6Xb) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [Serenidad](https://open.spotify.com/album/4iVFdQFYtLNTzmyxtqLVhs) | 3:28 |
-| 40 | [Si te vas](https://open.spotify.com/track/6VzjDbTOkv4EVUVF7PorLi) | [dani](https://open.spotify.com/artist/4sYXzPulKYxOYuDKS1px8Y) | [veinte](https://open.spotify.com/album/1rAMdylzJZKDJgL200ivk5) | 3:43 |
-| 41 | [PSILOCIBINA](https://open.spotify.com/track/4s89QYq2NW7CvrdGGRXnjg) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [PSILOCIBINA](https://open.spotify.com/album/4waUPRkFL1OD8mRDM6dBM1) | 3:17 |
+| 40 | [PSILOCIBINA](https://open.spotify.com/track/4s89QYq2NW7CvrdGGRXnjg) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [PSILOCIBINA](https://open.spotify.com/album/4waUPRkFL1OD8mRDM6dBM1) | 3:17 |
+| 41 | [Si te vas](https://open.spotify.com/track/6VzjDbTOkv4EVUVF7PorLi) | [dani](https://open.spotify.com/artist/4sYXzPulKYxOYuDKS1px8Y) | [veinte](https://open.spotify.com/album/1rAMdylzJZKDJgL200ivk5) | 3:43 |
 | 42 | [NTE](https://open.spotify.com/track/7p4C1w3JSmKVJXixBrtaKI) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Regresa](https://open.spotify.com/album/18xOW1VhQWVgnQH9CGi9Rp) | 2:51 |
 | 43 | [Nómada](https://open.spotify.com/track/2J4drmgsDr6u7EP3DvyN9A) | [La Banda del Bisonte](https://open.spotify.com/artist/363z8t8XMXCozcLQorLiPD), [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV) | [Nómada](https://open.spotify.com/album/4tUaCFfhnftL5Eg6li46K6) | 4:47 |
 | 44 | [Días Negros](https://open.spotify.com/track/7GggClJIZhrWpNYfFt5RAQ) | [Chango Menas](https://open.spotify.com/artist/02JOH3JikydGzqOEI7WzA9) | [Días Negros](https://open.spotify.com/album/5aAukLeOUD7CH1qE36t7mt) | 3:02 |
-| 45 | [Cristales](https://open.spotify.com/track/3fl8Pm4eN1q1wbIMScw7em) | [HOLOGRAMMA](https://open.spotify.com/artist/7akSnRWtc7SsxdZSq0Evkm) | [Cristales](https://open.spotify.com/album/6jfAYLekcHR4qF3c39d6xK) | 3:45 |
-| 46 | [Danza de Sol](https://open.spotify.com/track/2IHswTTnpUppvV8jn7PHqH) | [Los Cogelones](https://open.spotify.com/artist/0E6wzL7Jdd5XiLjadvcpKS) | [Hijos del Sol](https://open.spotify.com/album/0syY8WEuVTi39vVHfrCbjq) | 3:10 |
+| 45 | [Danza de Sol](https://open.spotify.com/track/2IHswTTnpUppvV8jn7PHqH) | [Los Cogelones](https://open.spotify.com/artist/0E6wzL7Jdd5XiLjadvcpKS) | [Hijos del Sol](https://open.spotify.com/album/0syY8WEuVTi39vVHfrCbjq) | 3:10 |
+| 46 | [Cristales](https://open.spotify.com/track/3fl8Pm4eN1q1wbIMScw7em) | [HOLOGRAMMA](https://open.spotify.com/artist/7akSnRWtc7SsxdZSq0Evkm) | [Cristales](https://open.spotify.com/album/6jfAYLekcHR4qF3c39d6xK) | 3:45 |
 | 47 | [No Sentir Nada](https://open.spotify.com/track/5yO08ego5Exs0acRhxs6tn) | [Marem Ladson](https://open.spotify.com/artist/2Fzkri1PNqc9DsXUbRrNa0) | [No Sentir Nada](https://open.spotify.com/album/4hquSaJKohf2oE50JgOBo3) | 3:44 |
 | 48 | [Wow](https://open.spotify.com/track/6dH0yTwptrQIb6qMLPg1As) | [Margaritas Podridas](https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7) | [Wow](https://open.spotify.com/album/2h85rsLHSwAMdaBJvNnirH) | 5:16 |
 | 49 | [y arderán](https://open.spotify.com/track/1BQH4CK9tWxyOCxXWHdD77) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK) | [brotes \(florecen\)](https://open.spotify.com/album/0091N9PEv8YXYU351kmx5U) | 3:16 |
@@ -87,15 +87,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PpgjSDZ3UJ.md) - [plain]
 | 77 | [Diciembre](https://open.spotify.com/track/0HWHBcKEk8aT82oHLUJ1IE) | [Encarta 98](https://open.spotify.com/artist/28Am1s75o5KAGaAwCQ22mv) | [Diciembre](https://open.spotify.com/album/2CaTs90sNVNUxcNhVDfjzt) | 4:38 |
 | 78 | [My America Is Not Your America](https://open.spotify.com/track/0NYtyAkJBCE6cnlvCd5a7E) | [Mexican Institute Of Sound](https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy), [Graham Coxon](https://open.spotify.com/artist/7ueZp29tCNwjIj4yAMTEaC) | [My America Is Not Your America](https://open.spotify.com/album/31vbSgrHUqxbqjGfnBUESf) | 5:06 |
 | 79 | [Momento de Escapar](https://open.spotify.com/track/19YD7AIpHqbObWPzvS3B0n) | [Paraisso](https://open.spotify.com/artist/3s5dsJWkL6dAGsvY4r5cyi) | [Buenos Tiempos](https://open.spotify.com/album/0oj2LzYjVhWmshX8dSDg2m) | 3:37 |
-| 80 | [Las Ruinas](https://open.spotify.com/track/0D9pYpbIHOrL5S6VTEyc6Q) | [Misile](https://open.spotify.com/artist/4QWTH47GMiEHf0UlJK7tB0) | [Ruinas](https://open.spotify.com/album/33hr3hHecqZLcVzmGhKDj0) | 5:02 |
-| 81 | [Semana Satán](https://open.spotify.com/track/7xDX0lOF3D2aXHXEkInhZ4) | [Uniforms](https://open.spotify.com/artist/6OUh2Ek6fOHcCrVdhXFTQL) | [Fantasía Moral](https://open.spotify.com/album/0ZXZRe3KRbC1smAPK9UIUg) | 5:05 |
+| 80 | [Semana Satán](https://open.spotify.com/track/7xDX0lOF3D2aXHXEkInhZ4) | [Uniforms](https://open.spotify.com/artist/6OUh2Ek6fOHcCrVdhXFTQL) | [Fantasía Moral](https://open.spotify.com/album/0ZXZRe3KRbC1smAPK9UIUg) | 5:05 |
+| 81 | [Las Ruinas](https://open.spotify.com/track/0D9pYpbIHOrL5S6VTEyc6Q) | [Misile](https://open.spotify.com/artist/4QWTH47GMiEHf0UlJK7tB0) | [Ruinas](https://open.spotify.com/album/33hr3hHecqZLcVzmGhKDj0) | 5:02 |
 | 82 | [Puede Ser Mortal](https://open.spotify.com/track/38fXO2P0O838i1ahIiWVWo) | [Feroe](https://open.spotify.com/artist/404eCbMqcGFfsXfrQtzi9a) | [Puede Ser Mortal](https://open.spotify.com/album/7ssdUA4nhK1P9Fvz9zSxr2) | 4:14 |
-| 83 | [Alguien Detrás de Mi](https://open.spotify.com/track/386O3o4TbBhoasmd97QQIJ) | [Mabe Fratti](https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo) | [Se Parece A](https://open.spotify.com/album/3IYROUym8NgqWWQCX7ifr9) | 3:48 |
+| 83 | [Good Bad Times](https://open.spotify.com/track/1WOm9cjWd1m9MxY5c6YtO8) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [Good Bad Times](https://open.spotify.com/album/1gMfclOm7dF5otF3Jw5j5s) | 3:18 |
 | 84 | [La Oscuridad](https://open.spotify.com/track/6SsSJzlvg1U0HVMrXisZ0C) | [Ati Lane](https://open.spotify.com/artist/3BDqVjikenQ511C0CvG5kG) | [Miedo, Amor y Vida \- EP](https://open.spotify.com/album/6PHGMjErdWJtPanxKeHL93) | 3:36 |
-| 85 | [Good Bad Times](https://open.spotify.com/track/1WOm9cjWd1m9MxY5c6YtO8) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [Good Bad Times](https://open.spotify.com/album/1gMfclOm7dF5otF3Jw5j5s) | 3:18 |
+| 85 | [Alguien Detrás de Mi](https://open.spotify.com/track/386O3o4TbBhoasmd97QQIJ) | [Mabe Fratti](https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo) | [Se Parece A](https://open.spotify.com/album/3IYROUym8NgqWWQCX7ifr9) | 3:48 |
 | 86 | [Corte Superior](https://open.spotify.com/track/15ydTyKE48KnZlAbJRQdMJ) | [Pablo Trujillo](https://open.spotify.com/artist/69zb17Y0bpZAvvhHjLddpb) | [Corte Superior](https://open.spotify.com/album/07LYLQ1wwl1sjSZTebfpDG) | 3:56 |
 | 87 | [Sabes](https://open.spotify.com/track/6DH8mb9KAv1dexrLgy9aS8) | [La Era de Gomes](https://open.spotify.com/artist/2JsaY1GQhGPbIlFSrAncg0) | [Sabes](https://open.spotify.com/album/6GUwOeqKSqk98yJK2dPkEr) | 3:25 |
-| 88 | [Honestidad](https://open.spotify.com/track/2TSGYYXqPLk1Xy6eTtlTmG) | [Lucia Tacchetti](https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ), [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [ELETÉ](https://open.spotify.com/album/2yrXDD1dTZFPVSKMp9ADpL) | 3:45 |
-| 89 | [Rush](https://open.spotify.com/track/5PTJwdNFi0MT7JEMBe1rnT) | [Fiebre](https://open.spotify.com/artist/2C0r0f1ek76DLNLb6ls8ro) | [Rush](https://open.spotify.com/album/5fhmAvUWLFpdhDRidaOqHK) | 3:15 |
+| 88 | [Rush](https://open.spotify.com/track/5PTJwdNFi0MT7JEMBe1rnT) | [Fiebre](https://open.spotify.com/artist/2C0r0f1ek76DLNLb6ls8ro) | [Rush](https://open.spotify.com/album/5fhmAvUWLFpdhDRidaOqHK) | 3:15 |
+| 89 | [Honestidad](https://open.spotify.com/track/1FH0TaKEiuR6Gv8dnZYhRe) | [Lucia Tacchetti](https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ), [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [Honestidad](https://open.spotify.com/album/3VxLAkSyBHJgCis4P3ptv0) | 3:45 |
 
-Snapshot ID: `MTYwNjg4NTczMSwwMDAwMDAwMGQwM2MxNzk4Zjc3Y2IzNzA4YzY5Mzc4ZGI5MGQ2M2Ez`
+Snapshot ID: `MTYwNjg4NTczMSwwMDAwMDAwMGVlN2EyMDM5YTg5OTIxM2Y5NTkwMDAzZGY1NTQxN2E1`

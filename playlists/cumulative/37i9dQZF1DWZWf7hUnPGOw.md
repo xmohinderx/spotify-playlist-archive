@@ -4,7 +4,7 @@
 
 > The official destination for all the music from Virgin River\. Watch on Netflix.
 
-207 songs - 12 hr 40 min - [published](https://open.spotify.com/playlist/69xAd56tPCCivjLTy5nEvF)
+208 songs - 12 hr 44 min - [published](https://open.spotify.com/playlist/69xAd56tPCCivjLTy5nEvF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,8 @@
 | [Lose My Faith](https://open.spotify.com/track/0mvEuS5eEEvIcpb5lu20Ef) | [Gold Brother](https://open.spotify.com/artist/6O7D1lQ7wlhy0s7QYh620s) | [Lose My Faith](https://open.spotify.com/album/3kIxIaYi8ZOqcncwLcNHKK) | 3:21 | 2022-07-22 |  |
 | [Love You Like I Do](https://open.spotify.com/track/4P3P15yCJAedEeE4KsDoc1) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Fallen Paradise](https://open.spotify.com/album/0Pq2CJXepTD3Tbl9jXhlhu) | 3:54 | 2022-07-22 |  |
 | [Make You Feel My Love](https://open.spotify.com/track/7d0bJhpp0mCYyMXaMgWyMS) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [I Dream of You: CALM](https://open.spotify.com/album/0fEtEBVYKRlVAUjjFxvM12) | 2:51 | 2022-07-22 |  |
-| [Meant to Stay Hid](https://open.spotify.com/track/5XaEiteF9A84F3ESpBg7jV) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Meant to Stay Hid](https://open.spotify.com/album/0U7yUdZYoCA3yp33ydpPHm) | 3:43 | 2022-07-22 |  |
+| [Meant to Stay Hid](https://open.spotify.com/track/3uDisYVXlEiC1SQZlqz2Tu) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Lost](https://open.spotify.com/album/59imk8rR95T1ggfKDKsELD) | 3:43 | 2022-07-22 |  |
+| [Meant to Stay Hid](https://open.spotify.com/track/5XaEiteF9A84F3ESpBg7jV) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Meant to Stay Hid](https://open.spotify.com/album/0U7yUdZYoCA3yp33ydpPHm) | 3:43 | 2022-07-22 | 2022-11-12 |
 | [Meant to Stay Hid](https://open.spotify.com/track/7lC44raaFZSCxi2wDa6lRl) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Meant to Stay Hid](https://open.spotify.com/album/0IYM8tdU07brOjbY0oaCqF) | 3:43 | 2022-07-22 | 2022-07-29 |
 | [Milk in Sunshine](https://open.spotify.com/track/3GzGPdmyJFqYeKKGu9FMZr) | [Kelly Pardekooper](https://open.spotify.com/artist/3QostG2Gp1xKnJUr0857oX) | [Milk in Sunshine](https://open.spotify.com/album/29gu8yqYWLWw3i8Cv0NqKy) | 2:26 | 2022-07-22 |  |
 | [Milk in Sunshine](https://open.spotify.com/track/3nHvbKeqGDM3pPwgXpkOR1) | [Kelly Pardekooper](https://open.spotify.com/artist/3QostG2Gp1xKnJUr0857oX) | [Milk in Sunshine](https://open.spotify.com/album/4Ng2gTOOmK4XugoJs2k0fF) | 2:26 | 2022-07-22 | 2022-07-29 |

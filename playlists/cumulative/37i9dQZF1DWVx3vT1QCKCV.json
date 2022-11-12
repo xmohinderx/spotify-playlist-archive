@@ -224,6 +224,24 @@
     },
     {
       "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/61teNuRPLzSa3JUCzTBHEx"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308746,
+      "name": "Alabama - Live At Birdland Jazzclub, New York City, NY, 10/18/1963",
+      "url": "https://open.spotify.com/track/3ggapxmTvaEhjH7CNqsHEP"
+    },
+    {
+      "album": {
         "name": "Live At Birdland",
         "url": "https://open.spotify.com/album/3bFxBCBwFQ8WGRghgoUxaU"
       },
@@ -235,7 +253,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 308933,
       "name": "Alabama - Live At Birdland Jazzclub, New York City, NY, 10/18/1963",
       "url": "https://open.spotify.com/track/013grywiX7Qu6WVfnJ1opa"
@@ -552,6 +570,24 @@
     },
     {
       "album": {
+        "name": "Impulse! 60: The Best of Impulse Records",
+        "url": "https://open.spotify.com/album/3kKw4CJ22J3YDjCwRtZzTc"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane Quartet",
+          "url": "https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 599466,
+      "name": "Greensleeves",
+      "url": "https://open.spotify.com/track/4SCOMmOSCJfxjN2qzzRlxl"
+    },
+    {
+      "album": {
         "name": "The Complete Africa / Brass Sessions",
         "url": "https://open.spotify.com/album/04nfBhMWMp1Y6zhl4o0psq"
       },
@@ -563,7 +599,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 601400,
       "name": "Greensleeves",
       "url": "https://open.spotify.com/track/71RPjNw25QN44DbMHhNlFO"
@@ -966,6 +1002,24 @@
     },
     {
       "album": {
+        "name": "Coltrane '58: The Prestige Recordings",
+        "url": "https://open.spotify.com/album/04sQeDrLHPx83hfP9A6S22"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 834901,
+      "name": "Lush Life",
+      "url": "https://open.spotify.com/track/3IqcMUdPwau0foOVhUBsSU"
+    },
+    {
+      "album": {
         "name": "Lush Life (Rudy Van Gelder Remaster)",
         "url": "https://open.spotify.com/album/4zP1ZWEs1q8c0HBYO5uetC"
       },
@@ -995,7 +1049,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 837813,
       "name": "Lush Life - Rudy Van Gelder Remaster",
       "url": "https://open.spotify.com/track/1PLbGCU1s3imPfz7FZ4NI0"
@@ -1038,6 +1092,24 @@
     },
     {
       "album": {
+        "name": "Piano Jazz Classics",
+        "url": "https://open.spotify.com/album/5NI7MD98NP4ReMR86f070I"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 418560,
+      "name": "Mr. P.C.",
+      "url": "https://open.spotify.com/track/46UcCHA5FSUsFu7aa5JiZN"
+    },
+    {
+      "album": {
         "name": "Giant Steps (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3kxiL93hCFCIXkXJBLcYDi"
       },
@@ -1067,7 +1139,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 418246,
       "name": "Mr. P.C. - Mono",
       "url": "https://open.spotify.com/track/1Z6Yxm3WpEJRkE0tGLr31y"
@@ -1180,6 +1252,28 @@
     },
     {
       "album": {
+        "name": "Coltrane For Lovers",
+        "url": "https://open.spotify.com/album/1OdEfzojDfuaAKJYu00W0V"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        },
+        {
+          "name": "Johnny Hartman",
+          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294760,
+      "name": "My One And Only Love",
+      "url": "https://open.spotify.com/track/3OycQ1N1hkiu5XzPqJ0LE1"
+    },
+    {
+      "album": {
         "name": "John Coltrane And Johnny Hartman",
         "url": "https://open.spotify.com/album/5e3mq4TT4RLn4VXfgKV6MU"
       },
@@ -1195,7 +1289,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 295240,
       "name": "My One And Only Love",
       "url": "https://open.spotify.com/track/0uPkCpuoERqrkBL06Art50"
@@ -1510,6 +1604,28 @@
     },
     {
       "album": {
+        "name": "Jazz Royalty",
+        "url": "https://open.spotify.com/album/6Pmsmqd2SthPdb7eUW7oc4"
+      },
+      "artists": [
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        },
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282600,
+      "name": "Take The Coltrane",
+      "url": "https://open.spotify.com/track/24IVDaYGOSMKWCgzRZhYsB"
+    },
+    {
+      "album": {
         "name": "Duke Ellington & John Coltrane",
         "url": "https://open.spotify.com/album/1EY9DXkRZg8ChCYhpVi6Yg"
       },
@@ -1547,7 +1663,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 282600,
       "name": "Take The Coltrane",
       "url": "https://open.spotify.com/track/6aNnVdpAQu8R0qGq5NMXyZ"

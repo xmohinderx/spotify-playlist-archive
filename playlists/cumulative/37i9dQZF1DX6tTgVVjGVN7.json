@@ -149,7 +149,7 @@
       ],
       "date_added": "2021-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 212560,
       "name": "Aunque no sea conmigo",
       "url": "https://open.spotify.com/track/0dRY4OrSY53yUjVgfgne1W"
@@ -405,6 +405,24 @@
       "duration_ms": 201133,
       "name": "Cuando Vuelvas",
       "url": "https://open.spotify.com/track/0bT09mbEB6Set7hRUXuEWb"
+    },
+    {
+      "album": {
+        "name": "Houses of the Holy (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7gS8ozSkvPW3VBPLnXOZ7S"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262748,
+      "name": "D'yer Mak'er - Remaster",
+      "url": "https://open.spotify.com/track/4ItljeeAXtHsnsnnQojaO2"
     },
     {
       "album": {
@@ -761,7 +779,7 @@
       ],
       "date_added": "2021-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 253920,
       "name": "Every Breath You Take",
       "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
@@ -1103,7 +1121,7 @@
       ],
       "date_added": "2021-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 423840,
       "name": "Layla",
       "url": "https://open.spotify.com/track/2kkvB3RNRzwjFdGhaUA0tz"
@@ -1773,10 +1791,28 @@
       ],
       "date_added": "2021-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 182880,
       "name": "Por Qu\u00e9 No Se Van",
       "url": "https://open.spotify.com/track/2Q81Tu7mnx5g5vfyVPCvCV"
+    },
+    {
+      "album": {
+        "name": "Crossover Latino",
+        "url": "https://open.spotify.com/album/6Li3sSkHahWZid93071KU8"
+      },
+      "artists": [
+        {
+          "name": "Los Prisioneros",
+          "url": "https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182880,
+      "name": "Por Qu\u00e9 No Se Van",
+      "url": "https://open.spotify.com/track/6JDqYZMdpTvn2rtURghIR3"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BcGDqSxiaP.md) - [plain]
 
 > Releases from the legendary label.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,174 likes - 52 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,187 likes - 52 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BcGDqSxiaP.md) - [plain]
 | 19 | [Ice Pick](https://open.spotify.com/track/7z3wUQAFexFWpUaKZDktZr) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Ice Pickin'](https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab) | 3:08 |
 | 20 | [Wild About You, Baby](https://open.spotify.com/track/4bSX7lBKZlyIVP4cHJVhna) | [Hound Dog Taylor](https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4) | [Hound Dog Taylor & The Houserockers](https://open.spotify.com/album/3whc6JMkDLZMngoWFIMJYV) | 3:39 |
 | 21 | [Sound Of A Broken Man](https://open.spotify.com/track/7BOqaAr7LvvujogwSOlsdT) | [Tinsley Ellis](https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on) | [Winning Hand](https://open.spotify.com/album/0KcQqzRRmtu7hsPcEHJXXA) | 4:51 |
-| 22 | [312 Blood](https://open.spotify.com/track/6rRCC8vOdzR12gdf33Cb5u) | [Nick Moss Band](https://open.spotify.com/artist/6B3fdJhhhAVJ4RTrFAptMM), [Dennis Gruenling](https://open.spotify.com/artist/56M0TPfeix1WjBuylxkVeG) | [Lucky Guy!](https://open.spotify.com/album/5tWeZuFba1X0sJPBnj2oW3) | 3:09 |
+| 22 | [Cherry Red Wine](https://open.spotify.com/track/0WXi2cJGxMUhIXE0KXhC5k) | [Jonny Lang](https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot) | [Wander This World](https://open.spotify.com/album/4ZscZNV7mVZupyotq52wLG) | 3:30 |
 | 23 | [Evil On My Mind \- Remastered](https://open.spotify.com/track/5rq5YNOQrxvZqkcTQG10Fm) | [Johnny Winter](https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO) | [3rd Degree \(Remastered\)](https://open.spotify.com/album/1RcjOFCn7PDU8GZB97odnZ) | 2:20 |
-| 24 | [Cherry Red Wine](https://open.spotify.com/track/0WXi2cJGxMUhIXE0KXhC5k) | [Jonny Lang](https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot) | [Wander This World](https://open.spotify.com/album/4ZscZNV7mVZupyotq52wLG) | 3:30 |
+| 24 | [312 Blood](https://open.spotify.com/track/6rRCC8vOdzR12gdf33Cb5u) | [Nick Moss Band](https://open.spotify.com/artist/6B3fdJhhhAVJ4RTrFAptMM), [Dennis Gruenling](https://open.spotify.com/artist/56M0TPfeix1WjBuylxkVeG) | [Lucky Guy!](https://open.spotify.com/album/5tWeZuFba1X0sJPBnj2oW3) | 3:09 |
 | 25 | [Let The Juke Joint Jump](https://open.spotify.com/track/6wgAmLxLzLmRm8sQ0REnn4) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [Force Of Nature](https://open.spotify.com/album/2K1GPgXQm5WU0b623kN7ZN) | 6:09 |
 | 26 | [Phillips Goes Bananas](https://open.spotify.com/track/5gfRFbVkh7Ppxe13omloWz) | [Hound Dog Taylor](https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4) | [Genuine Houserocking Music](https://open.spotify.com/album/0QYVlYhJlKUteRXnfqZwhe) | 2:37 |
 | 27 | [If You Love Me Like You Say](https://open.spotify.com/track/0t3BTxJpdQnnS52cz0ciw9) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Frostbite](https://open.spotify.com/album/7C64occ2ChtDhSH5Wsj8mV) | 4:08 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BcGDqSxiaP.md) - [plain]
 | 51 | [My Time After A While](https://open.spotify.com/track/0wluTX9lMR6MxlZyPsclHi) | [Johnny Winter](https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO) | [Serious Business](https://open.spotify.com/album/30XtgsTePORy5sbslFewYU) | 6:17 |
 | 52 | [It's My Life, Baby](https://open.spotify.com/track/5yLDFTpBHKDdaC1IiKAwNS) | [Johnny Winter](https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO) | [Music of the World: Slide Guitar Blues](https://open.spotify.com/album/45CrV9b8StUZ26CnPJnESa) | 4:10 |
 
-Snapshot ID: `MTYxOTY5MTIzMiwwMDAwMDAwMGUxYjQ4YzQ2MjJiOGMwYjM5MjMyNmE5ODI3NTJjMWE4`
+Snapshot ID: `MTYxOTY5MTIzMiwwMDAwMDAwMDI1MGUxMzA0NWI2ZWZiMWM5YjUxM2Y2NWY3YWQ4MWIz`

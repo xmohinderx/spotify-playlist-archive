@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6vTWIdZ54A.md) - [plain]
 
 > Rock songs that get down and dirty\. Cover: The Blue Stones
 
-[Spotify](https://open.spotify.com/user/spotify) - 442,202 likes - 145 songs - 8 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 442,318 likes - 145 songs - 8 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6vTWIdZ54A.md) - [plain]
 | 29 | [Sugar](https://open.spotify.com/track/3Tuz3Ec6n03nPTAa5knMm8) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Sugar](https://open.spotify.com/album/3Ql9TVwS8g3bnK1ImDhXMX) | 2:42 |
 | 30 | [That Dress \- Demo](https://open.spotify.com/track/0Owkb88GE9Zp1NQex6vpaj) | [The Pale White](https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0) | [That Dress \(Demo\)](https://open.spotify.com/album/4LDDJCImKdsayb1PmLniF3) | 3:08 |
 | 31 | [This is Our Life](https://open.spotify.com/track/5PUTXDqo5aGHoGbAhYm5ZT) | [Des Rocs](https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8) | [This is Our Life](https://open.spotify.com/album/3ACNAqePBWNG0zC20gRUNs) | 3:44 |
-| 32 | [Alter Ego](https://open.spotify.com/track/2cop97v0W8YcsI7KBvOrUu) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Surface Sounds](https://open.spotify.com/album/1ZuNUNl8jvYmW4w1lR2CW3) | 4:08 |
+| 32 | [Alter Ego](https://open.spotify.com/track/1wHuDCjdE4vxrD9O92QWmw) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Skinny](https://open.spotify.com/album/4B4UxXtd4JaYNtaAN6ZNEQ) | 4:08 |
 | 33 | [Down To The Devil](https://open.spotify.com/track/2hOB1WsQRTLgVxeXaz7F73) | [Naked Gypsy Queens](https://open.spotify.com/artist/3OrAxV2BbL9v6PvFpbGteS) | [Down to the Devil](https://open.spotify.com/album/0fEy0iCdOq34h6Ci3zvZVv) | 3:26 |
 | 34 | [Rambler \- Bonus Track](https://open.spotify.com/track/5lpqOgHzc3UmcgULPKtoSD) | [Bones Owens](https://open.spotify.com/artist/172e5cVOCSMYQQaIaZ4l1z) | [Bones Owens](https://open.spotify.com/album/33ObrRfIHT3AESxy8E15FG) | 3:30 |
 | 35 | [First High](https://open.spotify.com/track/6i7Xiao5B0cNpR3lFqrf9P) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [Denim & Diamonds](https://open.spotify.com/album/1AEHp7Ufjc2GEZGUlfFsML) | 3:07 |
@@ -53,15 +53,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6vTWIdZ54A.md) - [plain]
 | 43 | [Counting Sheep](https://open.spotify.com/track/1gGqyq9I9MpZbIEcL9hRvk) | [The Violent](https://open.spotify.com/artist/5NokRbYYfqacBmRVBRj0wD) | [Counting Sheep](https://open.spotify.com/album/6BxQrC3u6cKVWriUbvEU7H) | 3:24 |
 | 44 | [Lo/Hi](https://open.spotify.com/track/25YlltWXRb9k7KbrEBRuhJ) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | ["Let's Rock"](https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg) | 2:57 |
 | 45 | [Grace](https://open.spotify.com/track/4i4gcJSMofr3Pe9YWThzRp) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [\(self\-titled\)](https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE) | 4:13 |
-| 46 | [Highway Tune](https://open.spotify.com/track/7aOor99o8NNLZYElOXlBG1) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [From The Fires](https://open.spotify.com/album/6uSnHSIBGKUiW1uKQLYZ7w) | 3:00 |
+| 46 | [Highway Tune](https://open.spotify.com/track/0GkKtO9yXrnV2WYlP93lwq) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [This Is Rock Music](https://open.spotify.com/album/6ylXupauSn6vzijMaGc5kK) | 3:00 |
 | 47 | [I'm A King Bee](https://open.spotify.com/track/01RPOnIW38TuFv0CvHdVmz) | [The Stone Foxes](https://open.spotify.com/artist/40N10exWtaCVUtBMftQn3t) | [I'm A King Bee](https://open.spotify.com/album/57q06NuEHVw0MAqZT3hEUV) | 3:19 |
 | 48 | [Yes, I Know](https://open.spotify.com/track/2sRuCtlSlAjjAnw5VWktQ8) | [The Pack a.d.](https://open.spotify.com/artist/2gbOUPIhea9nrCmAeZBgpo) | [Positive Thinking](https://open.spotify.com/album/7y7MYj0omCvkBm7x4OULDg) | 3:36 |
 | 49 | [Natural Born Killer](https://open.spotify.com/track/4nMUPQeTor23d8RxiiJO9W) | [Highly Suspect](https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg) | [The Midnight Demon Club](https://open.spotify.com/album/0SWbz68LauoDrMdgdNv6gr) | 3:16 |
 | 50 | [Vertigo](https://open.spotify.com/track/1uxPC9Sqn1bMLhUaTqFjye) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [S.I.D.E.S.](https://open.spotify.com/album/5rkOKaMUZNSpFAxLHMSp9s) | 3:06 |
 | 51 | [Say Your Prayers](https://open.spotify.com/track/7dMev0fBdUJA7GnEHNyYLs) | [Bass Drum of Death](https://open.spotify.com/artist/5LtAyeDVOVcydj65LvgICY) | [Say Your Prayers](https://open.spotify.com/album/1p0G9DmCQfmkl1IGUrAqUm) | 2:59 |
-| 52 | [Heartache Melody](https://open.spotify.com/track/38vs4sreYIEWp6niXlaKDA) | [Electric Enemy](https://open.spotify.com/artist/2N1mByBMykfROrhwRVQV3v) | [Heartache Melody](https://open.spotify.com/album/4tlRcnslK5s2I3Krc6DY2g) | 2:52 |
+| 52 | [Heartache Melody](https://open.spotify.com/track/1uZz1fImBM6bSk7BjwzIdw) | [Electric Enemy](https://open.spotify.com/artist/2N1mByBMykfROrhwRVQV3v) | [Where Do We Go From Here?](https://open.spotify.com/album/4mugwf4oHm7gG12MrLJsJV) | 2:52 |
 | 53 | [Can't Stop The Bleeding \(feat\. Gary Clark Jr\. & Gramatik\)](https://open.spotify.com/track/79DQcqdOuzHH5g0fI8KShf) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp), [Gramatik](https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5) | [Can't Stop The Bleeding \(feat\. Gary Clark Jr\. & Gramatik\)](https://open.spotify.com/album/4G0HVKhUTFI2sqM4CZdN2B) | 4:38 |
-| 54 | [Death By Rock And Roll](https://open.spotify.com/track/6ISZ6sKcNBdYJS7XYHm5cV) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Death By Rock And Roll](https://open.spotify.com/album/2ysgEIHY4aOMMbbu0uV6ey) | 3:54 |
+| 54 | [Death By Rock And Roll](https://open.spotify.com/track/53eTcPUfqLS5TswcZLtG9c) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Death By Rock And Roll \(Acoustic\)](https://open.spotify.com/album/1LYoe6TjjbJxY30QZEPOdK) | 3:54 |
 | 55 | [Bomb Through the Breeze](https://open.spotify.com/track/2lYTIEA8KJQWysrhXDogcD) | [Hannah Wicklund](https://open.spotify.com/artist/62GZbclGNlKcuW6O7l8TOU) | [Hannah Wicklund & The Steppin Stones](https://open.spotify.com/album/2GWRuo0azCjGlupKL5wY74) | 2:44 |
 | 56 | [The Middle](https://open.spotify.com/track/0ldybyyoztnIBPsqZWjPNF) | [Taipei Houston](https://open.spotify.com/artist/1jnyf6lf0zcETB79xWnHF4) | [The Middle](https://open.spotify.com/album/35GXWiN1dp2ZkXjQraRwUi) | 3:34 |
 | 57 | [Hit the Ground](https://open.spotify.com/track/55mdS8S3yfaFlQkFmfTEYU) | [No Fit State](https://open.spotify.com/artist/51dJqJNH1kWA81xA9UbXnX) | [Hit the Ground](https://open.spotify.com/album/4nytNWaRb3frxwuHFk6lj4) | 3:16 |
@@ -96,14 +96,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6vTWIdZ54A.md) - [plain]
 | 86 | [Outta My Mind](https://open.spotify.com/track/7BVo8X0ckrgdSwOwvKEcjh) | [Des Rocs](https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8), [The Cobra](https://open.spotify.com/artist/6ljXzPvTDhxrhXTDuz3YEr) | [Martyr Parade](https://open.spotify.com/album/7jDkW8ksFaqsKYxa8TaOUc) | 2:45 |
 | 87 | [Over & Over](https://open.spotify.com/track/2wBEMqe81CXIX88kph8GBO) | [Reignwolf](https://open.spotify.com/artist/66YGDwn22fjphzqGCSIbbK) | [Hear Me Out](https://open.spotify.com/album/6jPxwvFm0kcZzflrloQPuK) | 3:29 |
 | 88 | [Mountain](https://open.spotify.com/track/696wtDyZUK2UJgu0fsVGIT) | [Crown Lands](https://open.spotify.com/artist/0MnazDWzh4tAnT5y4vWZFr) | [Rise Over Run](https://open.spotify.com/album/3MZLNriYh8pH7kMYkbUxhk) | 3:11 |
-| 89 | [Black Sun](https://open.spotify.com/track/2qXa0A4hhNZABcv3w82yAJ) | [Kadavar](https://open.spotify.com/artist/0FfuujZJUa7Z2JzhhiPI2z) | [Kadavar](https://open.spotify.com/album/3HGjRwVnuaYYOlMzT1eq0X) | 6:13 |
+| 89 | [Black Sun](https://open.spotify.com/track/55kiPvtypgGabvBYq53O8E) | [Kadavar](https://open.spotify.com/artist/0FfuujZJUa7Z2JzhhiPI2z) | [Kadavar](https://open.spotify.com/album/6RECe1GHKyEJa07bp6ciYm) | 6:13 |
 | 90 | [Lydia](https://open.spotify.com/track/7yoBjKO6cCnK3zV8gr1k4e) | [Highly Suspect](https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg) | [Mister Asylum](https://open.spotify.com/album/7wGLeeJt18EBjc181FP2cM) | 4:02 |
 | 91 | [Speed Queen](https://open.spotify.com/track/5GOYrAcAoEg8xJ4qVLzQao) | [Thunderpussy](https://open.spotify.com/artist/5wa2uCAfwySNkiWLr2xg3a) | [Thunderpussy](https://open.spotify.com/album/3qhtjP2PJB8JyuMZK1hvbp) | 4:08 |
 | 92 | [Hot Blood](https://open.spotify.com/track/7d9sZF7jmepe2EYdETlNWK) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [A/B](https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk) | 3:38 |
-| 93 | [Bright Lights](https://open.spotify.com/track/7aO35V27YDi4hKOL9odSya) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Blak and Blu \(Deluxe Edition\)](https://open.spotify.com/album/0YaeFHEYGpdzdFIxDRFvCv) | 5:24 |
+| 93 | [Bright Lights](https://open.spotify.com/track/5HDMKAgLEPOEazIXo6YavF) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Rock's Not Dead](https://open.spotify.com/album/09ecrfUpZHKVXqm1ZZkBFV) | 5:24 |
 | 94 | [Night People](https://open.spotify.com/track/3MHQIhSrgQsFYLo6JLioDX) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Night People](https://open.spotify.com/album/5eBbhy3VsZGEO4objsrmZg) | 3:03 |
 | 95 | [Take Me Away](https://open.spotify.com/track/4CEqDmkqD7illXHuym76V6) | [Ayron Jones](https://open.spotify.com/artist/1iEaqWaYpKo9x0OrEq7Q7z) | [Take Me Away](https://open.spotify.com/album/1TmLWHno2aTHedSxNofPkg) | 4:06 |
-| 96 | [New Religion](https://open.spotify.com/track/0qbZvLGXmGCgnjPmCzApBb) | [Migrant Motel](https://open.spotify.com/artist/0T63uYYYnOxOXV7bDF0K0G) | [Volume One](https://open.spotify.com/album/4eh59alwAr94nFWOa3mhJN) | 3:04 |
+| 96 | [New Religion](https://open.spotify.com/track/12bROaJdDuPuuhyXKepRSr) | [Migrant Motel](https://open.spotify.com/artist/0T63uYYYnOxOXV7bDF0K0G) | [New Religion](https://open.spotify.com/album/39rnzI5FiH4GEPk9vQlHKS) | 3:04 |
 | 97 | [Bad Spell](https://open.spotify.com/track/3KXN0yyh3iy665jdKFFQXZ) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/1YLPn4tEqchhJIwB5fPt6k) | 3:15 |
 | 98 | [Honeybrains](https://open.spotify.com/track/3OtId2P71K4wGAAJk8QCIR) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Honeybrains](https://open.spotify.com/album/2UU1wWCSelmdLWr5OPlyGt) | 3:06 |
 | 99 | [Currency](https://open.spotify.com/track/1kdKw9kOzfBglaRbF0NUsV) | [The Black Angels](https://open.spotify.com/artist/0VNWuGf8SMVU2AerpdhMbP) | [Currency](https://open.spotify.com/album/1AZNe8cmbx8iXEN2pxJJGC) | 5:16 |
@@ -122,7 +122,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6vTWIdZ54A.md) - [plain]
 | 112 | [You Rascal You](https://open.spotify.com/track/0BnzymJQLY5a3YHODuaYbO) | [Hanni El Khatib](https://open.spotify.com/artist/1HCdPZB0ypEcpDo4T55sMi) | [Will the Guns Come Out](https://open.spotify.com/album/43wnYuDO5oQxKYDYCwySgS) | 2:21 |
 | 113 | [Tied Up](https://open.spotify.com/track/08yhz3ei8jgCmwcsHZTSAa) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [Hollow Bones](https://open.spotify.com/album/7hKJMKE01FvUJEVxY8bBOT) | 3:27 |
 | 114 | [Howlin' for You](https://open.spotify.com/track/0grFc6klR3hxoHLcgCYsF4) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers](https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v) | 3:11 |
-| 115 | [Love Spills](https://open.spotify.com/track/6PgYxALBTd2JmgsU8neAUz) | [Radkey](https://open.spotify.com/artist/1egsOeSvcQyacni1rL6c4C) | [Delicious Rock Noise](https://open.spotify.com/album/40oVGFomjqPGwUzPRkxnqG) | 3:31 |
+| 115 | [Love Spills](https://open.spotify.com/track/4aHCv8GvpWvyUpUI2yPt5v) | [Radkey](https://open.spotify.com/artist/1egsOeSvcQyacni1rL6c4C) | [Love Spills](https://open.spotify.com/album/7c5n3znhkQRsjSgSHd4Txe) | 3:32 |
 | 116 | [Save Me Some Sunshine](https://open.spotify.com/track/68vTrjlrczwHWioLZ5p0Rt) | [Rafferty](https://open.spotify.com/artist/37Kwz8lKQipujhPpz9Q5cQ) | [Save Me Some Sunshine](https://open.spotify.com/album/5sxnrUJmZJ1768ZP15Oy3Q) | 3:37 |
 | 117 | [Making Gestures](https://open.spotify.com/track/675pQka4krUCyb7zMX3M7y) | [The Pack a.d.](https://open.spotify.com/artist/2gbOUPIhea9nrCmAeZBgpo) | [Funeral Mixtape](https://open.spotify.com/album/2LXcr5m7LagfVGni7NcYQy) | 4:10 |
 | 118 | [Don't Wanna Fight](https://open.spotify.com/track/6q0lIjDSuZDhrg9GC9yUQO) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color](https://open.spotify.com/album/0GaYG9L1sXHQZZ7BTk0hGY) | 3:52 |
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6vTWIdZ54A.md) - [plain]
 | 144 | [Haunted Heart](https://open.spotify.com/track/1g9gUDaH8idPgZcLZAa7Qx) | [little hurricane](https://open.spotify.com/artist/5VLQQzAkJrzG7QggE4DVg2) | [Homewrecker](https://open.spotify.com/album/11g4QUzXzGxh7dOPxxy4CF) | 2:45 |
 | 145 | [Wannabe In L.A](https://open.spotify.com/track/68HGqHHc41qmJHUWlLUKCd) | [Eagles Of Death Metal](https://open.spotify.com/artist/02uYdhMhCgdB49hZlYRm9o) | [Heart On](https://open.spotify.com/album/2WxHlLQsHHJ8lb4xQrb65A) | 2:15 |
 
-Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMDhiMzhkOTdhMmY0NjY4NDYxZjEwYTMzZTEzYWRhYTk1`
+Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMDRlMWI5N2ZmM2E4NGVlZDNiZThkYjU3MGFiNjk0YzAw`

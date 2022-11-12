@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnGFRu5xvi8.md) - [plain]
 
 > New arrival from FINAL FANTASY VII REMAKE Original Soundtrack + essential tracks from the series\. ©2019 SQUARE ENIX CO., LTD\. All Rights Reserved.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,220 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,283 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnGFRu5xvi8.md) - [plain]
 | 34 | [Phantoms](https://open.spotify.com/track/58hNR7JaOUY5TihJpm5DUa) | [Junya Nakano](https://open.spotify.com/artist/6MmPy3kU5brlgFNlQP5ACa) | [FINAL FANTASY X Original Soundtrack](https://open.spotify.com/album/5rsJCTSppss2cccM8a9V0u) | 3:46 |
 | 35 | [Otherworld](https://open.spotify.com/track/094ROwNMso3g8wHYg89dAV) | [Bill Xtillidiex Muir](https://open.spotify.com/artist/1sshOKBw5a0pPxCfyRbULD) | [DISSIDIA FINAL FANTASY Original Soundtrack](https://open.spotify.com/album/5YAyjZBLHRwUGoijvobtCw) | 3:14 |
 | 36 | [Respite](https://open.spotify.com/track/5qr766CKjp0R0naWBcJzo4) | [崎元仁](https://open.spotify.com/artist/5IgtFW3mCaIGAuPbx7qE04) | [FINAL FANTASY XII Original Soundtrack](https://open.spotify.com/album/6BUaUV4g19n1zwF6iwkh4C) | 2:10 |
-| 37 | [SUTEKI DA NE \(Isn't It Wonderful?\) \- Orchestra Version](https://open.spotify.com/track/3Y9niDtvTxk0efj8IUQb9z) | [RIKKI](https://open.spotify.com/artist/6dpDHCzVviITtfGiB7S5HG) | [FINAL FANTASY X Original Soundtrack](https://open.spotify.com/album/5rsJCTSppss2cccM8a9V0u) | 6:19 |
-| 38 | [Shirma's Theme](https://open.spotify.com/track/4kqGwLAACGAWsQTzyStHLk) | [川上 泰広](https://open.spotify.com/artist/0i4WzcDJUxEP87qiDTKwj6) | [Chocobo's Dungeon 2\(Original Soundtrack\)](https://open.spotify.com/album/4UH6RNedh8HuSmhX2PlTPB) | 1:29 |
+| 37 | [Shirma's Theme](https://open.spotify.com/track/4kqGwLAACGAWsQTzyStHLk) | [川上 泰広](https://open.spotify.com/artist/0i4WzcDJUxEP87qiDTKwj6) | [Chocobo's Dungeon 2\(Original Soundtrack\)](https://open.spotify.com/album/4UH6RNedh8HuSmhX2PlTPB) | 1:29 |
+| 38 | [SUTEKI DA NE \(Isn't It Wonderful?\) \- Orchestra Version](https://open.spotify.com/track/3Y9niDtvTxk0efj8IUQb9z) | [RIKKI](https://open.spotify.com/artist/6dpDHCzVviITtfGiB7S5HG) | [FINAL FANTASY X Original Soundtrack](https://open.spotify.com/album/5rsJCTSppss2cccM8a9V0u) | 6:19 |
 | 39 | [Noel's Theme \- Final Journey \-](https://open.spotify.com/track/0FdnNMadX8aP0gQkrJfhSM) | [KOKIA](https://open.spotify.com/artist/0gUsuVOGa73jzUAJ0WEJgo) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 4:20 |
 | 40 | [Wandering](https://open.spotify.com/track/4UkgouHQ4ctD2l2nFZuH1N) | [Masashi Hamauzu](https://open.spotify.com/artist/4xwBjyd53uiyfyUOkrpcvt) | [FINAL FANTASY X Original Soundtrack](https://open.spotify.com/album/5rsJCTSppss2cccM8a9V0u) | 4:41 |
 | 41 | [APOCALYPSIS NOCTIS](https://open.spotify.com/track/21Bvy2KqGLO0f3QVgvruru) | [Yoko Shimomura](https://open.spotify.com/artist/2uDsUIyCIqk9wKj17I8WAH) | [FINAL FANTASY XV Original Soundtrack](https://open.spotify.com/album/2zKqD5DUNUE4isjGLixU8v) | 4:14 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnGFRu5xvi8.md) - [plain]
 | 70 | [「Keeping the Peace」 from DISSIDIA FINAL FANTASY](https://open.spotify.com/track/51evxX66nOSlnjlDjNJEm3) | [石元 丈晴](https://open.spotify.com/artist/5vYF4AhjOGjiqxyBzeoDFf) | [DISSIDIA FINAL FANTASY Original Soundtrack](https://open.spotify.com/album/5YAyjZBLHRwUGoijvobtCw) | 2:26 |
 | 71 | [Kimi ga Irukara \- Long Version](https://open.spotify.com/track/1imcmfDpv4X4MO2tbYxMaY) | [Sayuri Sugawara](https://open.spotify.com/artist/5GpBU9V9SOJoWjZ6l1VMNa) | [FINAL FANTASY XIII Original Soundtrack](https://open.spotify.com/album/5GkUPRHDvq179CmE9zXh4g) | 6:22 |
 | 72 | [Melodies of Life \(The Layers of Harmony\)](https://open.spotify.com/track/3hEv7v0JaBnd2ozqUmjwct) | [Emiko Shiratori](https://open.spotify.com/artist/2l0RkPXVhAxkACI2dT7o8p) | [FINAL FANTASY IX Original Soundtrack](https://open.spotify.com/album/61z0CTrR8zhxdyOoieyMJi) | 3:21 |
-| 73 | [New Bodhum](https://open.spotify.com/track/0i7fBwgtVxfYsWtEIro1Wz) | [ORIGA](https://open.spotify.com/artist/7iynOuMgvVo1P7Pu0rjz5M) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 5:39 |
-| 74 | [EPISODE IGNIS \- The Main Theme](https://open.spotify.com/track/449Oasrv2je2rsDaTp7dkS) | [Yasunori Mitsuda](https://open.spotify.com/artist/7cGkvEcOOYVtNdfkf3s1tK) | [FINAL FANTASY XV Original Soundtrack \(Volume 2【1/2】\)](https://open.spotify.com/album/1gg0RWUiWUCWnaxAi9W237) | 2:34 |
+| 73 | [EPISODE IGNIS \- The Main Theme](https://open.spotify.com/track/449Oasrv2je2rsDaTp7dkS) | [Yasunori Mitsuda](https://open.spotify.com/artist/7cGkvEcOOYVtNdfkf3s1tK) | [FINAL FANTASY XV Original Soundtrack \(Volume 2【1/2】\)](https://open.spotify.com/album/1gg0RWUiWUCWnaxAi9W237) | 2:34 |
+| 74 | [New Bodhum](https://open.spotify.com/track/0i7fBwgtVxfYsWtEIro1Wz) | [ORIGA](https://open.spotify.com/artist/7iynOuMgvVo1P7Pu0rjz5M) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 5:39 |
 | 75 | [Worlds Collide](https://open.spotify.com/track/5qTdP8gW21gOa8cNnb1Y4r) | [David Whitaker](https://open.spotify.com/artist/2YjhahZGNMCznxDKNNJ98Q) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 3:22 |
 | 76 | [The Fire Within](https://open.spotify.com/track/08Hkeo2DqsmYWuY9QOg3e9) | [Naoshi Mizuta](https://open.spotify.com/artist/7EcpyneWBtxsJ9dyYrFrZe) | [FINAL FANTASY XV Original Soundtrack \(Volume 2【1/2】\)](https://open.spotify.com/album/1gg0RWUiWUCWnaxAi9W237) | 4:56 |
 | 77 | [Burden to Bear](https://open.spotify.com/track/1HA3UM6kFI21ZMifahs09f) | [石元 丈晴](https://open.spotify.com/artist/5vYF4AhjOGjiqxyBzeoDFf) | [CRISIS CORE \-FINAL FANTASY VII\- Original Soundtrack](https://open.spotify.com/album/5J7YFCUhQAptIixwtLhLEi) | 1:35 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnGFRu5xvi8.md) - [plain]
 | 99 | [Answers](https://open.spotify.com/track/1aXqHzRaSr9obayyq6Xg6b) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [Before Meteor: FINAL FANTASY XIV Original Soundtrack](https://open.spotify.com/album/0z7zOKNRHFIBwbuQttQQVc) | 7:08 |
 | 100 | [Dragonsong](https://open.spotify.com/track/0UVvQQdoeJeH7aDcgh9dVL) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [Heavensward: FINAL FANTASY XIV Original Soundtrack](https://open.spotify.com/album/6ok6JQ4pIIdniVz3lZHOoC) | 5:42 |
 
-Snapshot ID: `MTYxNDg2Nzg4MCwwMDAwMDAwMDU2YjlkN2E4ZWVmN2JjMTdjYjAxZDdjYjQ3NjVkNWE2`
+Snapshot ID: `MTYxNDg2Nzg4MCwwMDAwMDAwMGYyZjZkY2NmY2VlMWU3OTQxOTJkYmJlYmVlOGY5Yzlh`

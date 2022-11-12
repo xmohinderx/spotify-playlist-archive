@@ -950,6 +950,24 @@
     },
     {
       "album": {
+        "name": "soft songs to calm you down",
+        "url": "https://open.spotify.com/album/7jk7DppYXXIMuQbXv9nc0J"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "date_added": "2020-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206458,
+      "name": "Lose You To Love Me",
+      "url": "https://open.spotify.com/track/0jCbc081EPMRXTfkfGUDay"
+    },
+    {
+      "album": {
         "name": "Lose You To Love Me",
         "url": "https://open.spotify.com/album/3tBkjgxDqAwss76O1YHsSY"
       },
@@ -979,7 +997,7 @@
       ],
       "date_added": "2020-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 206458,
       "name": "Lose You To Love Me",
       "url": "https://open.spotify.com/track/4l0Mvzj72xxOpRrp6h8nHi"

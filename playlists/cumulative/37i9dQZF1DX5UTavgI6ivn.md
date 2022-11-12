@@ -4,7 +4,7 @@
 
 > Representando la cultura con orgullo\. Representing with pride! Cover: Juanes
 
-152 songs - 8 hr 35 min - [published](https://open.spotify.com/playlist/52JA0GNAstvKsstw41UXnX)
+153 songs - 8 hr 39 min - [published](https://open.spotify.com/playlist/52JA0GNAstvKsstw41UXnX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,7 +142,8 @@
 | [Tacones Rojos](https://open.spotify.com/track/6ylDpki1VpIsc525KC1ojF) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Dharma](https://open.spotify.com/album/4qgRDM8Gyurf5hXV3LBmT8) | 3:09 | 2022-02-02 |  |
 | [Te Felicito](https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Te Felicito](https://open.spotify.com/album/6gQKAYf3TJM9sppw3AtbHH) | 2:52 | 2022-05-28 |  |
 | [Te Mando Flores](https://open.spotify.com/track/6OpHDI8lRiqHLqmUIYUxVr) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP) | [Corazon](https://open.spotify.com/album/7GZadm08rfMiYXhRHlv993) | 3:47 | 2022-01-12 | 2022-07-29 |
-| [Te Mando Flores](https://open.spotify.com/track/2in1gSZtv2lRbcZUmN9aAl) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP) | [Corazón](https://open.spotify.com/album/6O0WvW7JA4B02y8D9Kd3Bx) | 3:48 | 2022-07-08 |  |
+| [Te Mando Flores](https://open.spotify.com/track/2in1gSZtv2lRbcZUmN9aAl) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP) | [Corazón](https://open.spotify.com/album/6O0WvW7JA4B02y8D9Kd3Bx) | 3:48 | 2022-07-08 | 2022-11-12 |
+| [Te Mando Flores](https://open.spotify.com/track/2tHG7d2On9xKt3U6DWJsnX) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP) | [Top Colombia](https://open.spotify.com/album/6mHmDuiCzn5ZCMYqXdiSqX) | 3:48 | 2022-11-11 |  |
 | [Te Perdí](https://open.spotify.com/track/3ODWjPcN2heqjInFGpH2KU) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Te Perdí](https://open.spotify.com/album/7kYuBysyq8f3BfcV3jJ7J7) | 3:17 | 2022-10-11 |  |
 | [Te Tengo Ganas](https://open.spotify.com/track/3FhMGOGlgzEmgyzr54nhWy) | [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg), [Mr Black El Presidente](https://open.spotify.com/artist/19vCtDMDfX2wjU5vULq6FG) | [Te Tengo Ganas](https://open.spotify.com/album/1f2WGOxmrj7IT5CVQKhHUZ) | 3:30 | 2022-01-12 | 2022-02-03 |
 | [telepatía](https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 2:40 | 2022-01-12 | 2022-03-05 |

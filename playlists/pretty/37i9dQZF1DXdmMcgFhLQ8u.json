@@ -1,12 +1,12 @@
 {
   "description": "These country songs know exactly how you feel.",
-  "num_followers": 153902,
+  "num_followers": 154049,
   "original_name": "Country Heartache",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMDg1ZjAyYmJhNzVkZjgxOTU3Yzc0MWZhMGUyOWViZTJj",
+  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMGQyNjYwOWE0ZDEzODYxM2Y4MWFhZTYzN2RjNjVhZjY4",
   "tracks": [
     {
       "added_at": "2022-09-16 04:00:00",
@@ -143,18 +143,22 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Goldmine",
-        "url": "https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY"
+        "name": "I Quit Drinking",
+        "url": "https://open.spotify.com/album/5c5S9cyjHKBQRm1DGU1E8J"
       },
       "artists": [
         {
-          "name": "Gabby Barrett",
-          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        },
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
         }
       ],
-      "duration_ms": 210772,
-      "name": "I Hope",
-      "url": "https://open.spotify.com/track/23T0OX7QOiIUFShSzbJ5Uo"
+      "duration_ms": 171200,
+      "name": "I Quit Drinking",
+      "url": "https://open.spotify.com/track/6OcCk1dbAb7XNHsC098oEM"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -227,26 +231,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "I Quit Drinking",
-        "url": "https://open.spotify.com/album/5c5S9cyjHKBQRm1DGU1E8J"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        },
-        {
-          "name": "LANY",
-          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
-        }
-      ],
-      "duration_ms": 171200,
-      "name": "I Quit Drinking",
-      "url": "https://open.spotify.com/track/6OcCk1dbAb7XNHsC098oEM"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "MACON",
         "url": "https://open.spotify.com/album/2cydSJJLXu2TtP9VoOnGn4"
       },
@@ -283,22 +267,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "The Breaker",
-        "url": "https://open.spotify.com/album/2aQOzEjLzPkffXDwREXdAh"
-      },
-      "artists": [
-        {
-          "name": "Little Big Town",
-          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
-        }
-      ],
-      "duration_ms": 263120,
-      "name": "Better Man",
-      "url": "https://open.spotify.com/track/23TxRN09aR1RB0G0tFoT0b"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "What Do They Know",
         "url": "https://open.spotify.com/album/0NR3FJJhD27XgurmHEQHY0"
       },
@@ -315,6 +283,22 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
+        "name": "The Breaker",
+        "url": "https://open.spotify.com/album/2aQOzEjLzPkffXDwREXdAh"
+      },
+      "artists": [
+        {
+          "name": "Little Big Town",
+          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
+        }
+      ],
+      "duration_ms": 263120,
+      "name": "Better Man",
+      "url": "https://open.spotify.com/track/23TxRN09aR1RB0G0tFoT0b"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
         "name": "Me And My Gang",
         "url": "https://open.spotify.com/album/5XPdkIryKSpTKW21HUtvV0"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 214106,
       "name": "What Hurts The Most",
       "url": "https://open.spotify.com/track/4bVuIlGQBMWS7vIhcx8Ae4"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Sayin' What I'm Thinkin'",
+        "url": "https://open.spotify.com/album/3I0SEplNpqsPfnLVZsNPif"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 203373,
+      "name": "Things A Man Oughta Know",
+      "url": "https://open.spotify.com/track/5QS8PNEWbqTEZyQ6e9ZbJf"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -399,22 +399,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Sayin' What I'm Thinkin'",
-        "url": "https://open.spotify.com/album/3I0SEplNpqsPfnLVZsNPif"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 203373,
-      "name": "Things A Man Oughta Know",
-      "url": "https://open.spotify.com/track/5QS8PNEWbqTEZyQ6e9ZbJf"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Montevallo",
         "url": "https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 229880,
       "name": "Break Up In A Small Town",
       "url": "https://open.spotify.com/track/7aftSOGSOpSoIlVAQVBb71"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Weekends Look A Little Different These Days",
+        "url": "https://open.spotify.com/album/2JJ2v7A5nR6HaYxyO2T0PX"
+      },
+      "artists": [
+        {
+          "name": "Brett Young",
+          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
+        }
+      ],
+      "duration_ms": 225813,
+      "name": "You Didn\u2019t",
+      "url": "https://open.spotify.com/track/5Jwcv2Le3Klwgrgyqa12ZA"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -467,18 +467,18 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Weekends Look A Little Different These Days",
-        "url": "https://open.spotify.com/album/2JJ2v7A5nR6HaYxyO2T0PX"
+        "name": "Mr. Misunderstood",
+        "url": "https://open.spotify.com/album/1QIZsTZrZdQwQ9QJnFoFao"
       },
       "artists": [
         {
-          "name": "Brett Young",
-          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
         }
       ],
-      "duration_ms": 225813,
-      "name": "You Didn\u2019t",
-      "url": "https://open.spotify.com/track/5Jwcv2Le3Klwgrgyqa12ZA"
+      "duration_ms": 179346,
+      "name": "Record Year",
+      "url": "https://open.spotify.com/track/5fSPbm5lcwtqwXkeQQswW8"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -519,22 +519,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Mr. Misunderstood",
-        "url": "https://open.spotify.com/album/1QIZsTZrZdQwQ9QJnFoFao"
-      },
-      "artists": [
-        {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
-        }
-      ],
-      "duration_ms": 179346,
-      "name": "Record Year",
-      "url": "https://open.spotify.com/track/5fSPbm5lcwtqwXkeQQswW8"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Did I Shave My Legs For This?",
         "url": "https://open.spotify.com/album/3rVrwVrTgiFmCBZCmYBryn"
       },
@@ -551,22 +535,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Brett Young",
-        "url": "https://open.spotify.com/album/6MTPPsqX8KnmDWmnQmbxJ5"
-      },
-      "artists": [
-        {
-          "name": "Brett Young",
-          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
-        }
-      ],
-      "duration_ms": 217120,
-      "name": "Mercy",
-      "url": "https://open.spotify.com/track/2VIPU72L6tIR4w8J8ap6Kp"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Taylor Swift",
         "url": "https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3"
       },
@@ -579,22 +547,6 @@
       "duration_ms": 203040,
       "name": "Teardrops On My Guitar - Radio Single Remix",
       "url": "https://open.spotify.com/track/7zMcNqs55Mxer82bvZFkpg"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Playing With Fire",
-        "url": "https://open.spotify.com/album/76k8TW4lc0uzpaRHa2U0bK"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Nettles",
-          "url": "https://open.spotify.com/artist/2WV4xLQooFalR2cit0XSKp"
-        }
-      ],
-      "duration_ms": 234440,
-      "name": "Unlove You",
-      "url": "https://open.spotify.com/track/3DeLvrawPtl8wSupXgTlSh"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -631,6 +583,38 @@
       "duration_ms": 218093,
       "name": "when was it over? (feat. Sam Hunt)",
       "url": "https://open.spotify.com/track/779UN3kabApm2zfqX549vf"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Playing With Fire",
+        "url": "https://open.spotify.com/album/76k8TW4lc0uzpaRHa2U0bK"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Nettles",
+          "url": "https://open.spotify.com/artist/2WV4xLQooFalR2cit0XSKp"
+        }
+      ],
+      "duration_ms": 234440,
+      "name": "Unlove You",
+      "url": "https://open.spotify.com/track/3DeLvrawPtl8wSupXgTlSh"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Brett Young",
+        "url": "https://open.spotify.com/album/6MTPPsqX8KnmDWmnQmbxJ5"
+      },
+      "artists": [
+        {
+          "name": "Brett Young",
+          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
+        }
+      ],
+      "duration_ms": 217120,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/2VIPU72L6tIR4w8J8ap6Kp"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -687,22 +671,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Need You Now",
-        "url": "https://open.spotify.com/album/4oT0DxRmc0jr7DCKultQqh"
-      },
-      "artists": [
-        {
-          "name": "Lady A",
-          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
-        }
-      ],
-      "duration_ms": 236440,
-      "name": "Need You Now",
-      "url": "https://open.spotify.com/track/7h70RTLbnhDyPGXjl3iEhh"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "The First Time",
         "url": "https://open.spotify.com/album/4smRLX0wglNhMXGyahWuUf"
       },
@@ -751,18 +719,18 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Mr. Sun",
-        "url": "https://open.spotify.com/album/1zb7kVc7JA7ew7OIdj0wOB"
+        "name": "Just About Over You",
+        "url": "https://open.spotify.com/album/6re9IhLwe8c8pauqj1Fgma"
       },
       "artists": [
         {
-          "name": "Little Big Town",
-          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
+          "name": "Priscilla Block",
+          "url": "https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1"
         }
       ],
-      "duration_ms": 233826,
-      "name": "Three Whiskeys And The Truth",
-      "url": "https://open.spotify.com/track/2PMtsOOk1JD7yGT7E1ZK6Q"
+      "duration_ms": 179213,
+      "name": "Just About Over You",
+      "url": "https://open.spotify.com/track/4Ec0q0j8hRTCX4QQ5MiHSX"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -783,18 +751,18 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Just About Over You",
-        "url": "https://open.spotify.com/album/6re9IhLwe8c8pauqj1Fgma"
+        "name": "Mr. Sun",
+        "url": "https://open.spotify.com/album/1zb7kVc7JA7ew7OIdj0wOB"
       },
       "artists": [
         {
-          "name": "Priscilla Block",
-          "url": "https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1"
+          "name": "Little Big Town",
+          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
         }
       ],
-      "duration_ms": 179213,
-      "name": "Just About Over You",
-      "url": "https://open.spotify.com/track/4Ec0q0j8hRTCX4QQ5MiHSX"
+      "duration_ms": 233826,
+      "name": "Three Whiskeys And The Truth",
+      "url": "https://open.spotify.com/track/2PMtsOOk1JD7yGT7E1ZK6Q"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -923,18 +891,22 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "High",
-        "url": "https://open.spotify.com/album/3xqwpX5JdCFwVTsGRBu3sB"
+        "name": "Rearview Town",
+        "url": "https://open.spotify.com/album/5irmzpXixcdNF2ZJjcrN0A"
       },
       "artists": [
         {
-          "name": "Caitlyn Smith",
-          "url": "https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R"
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+        },
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
         }
       ],
-      "duration_ms": 247446,
-      "name": "Maybe In Another Life",
-      "url": "https://open.spotify.com/track/69meckPoEWAVOUXjkp5ShS"
+      "duration_ms": 202066,
+      "name": "Drowns The Whiskey (feat. Miranda Lambert)",
+      "url": "https://open.spotify.com/track/2dwoqUYTy6SOy1dFqcTndC"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -959,22 +931,18 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Rearview Town",
-        "url": "https://open.spotify.com/album/5irmzpXixcdNF2ZJjcrN0A"
+        "name": "High",
+        "url": "https://open.spotify.com/album/3xqwpX5JdCFwVTsGRBu3sB"
       },
       "artists": [
         {
-          "name": "Jason Aldean",
-          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
-        },
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+          "name": "Caitlyn Smith",
+          "url": "https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R"
         }
       ],
-      "duration_ms": 202066,
-      "name": "Drowns The Whiskey (feat. Miranda Lambert)",
-      "url": "https://open.spotify.com/track/2dwoqUYTy6SOy1dFqcTndC"
+      "duration_ms": 247446,
+      "name": "Maybe In Another Life",
+      "url": "https://open.spotify.com/track/69meckPoEWAVOUXjkp5ShS"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1027,22 +995,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Red Headed Stranger",
-        "url": "https://open.spotify.com/album/5aEtg4dxdBk4pj6SJ3hNsM"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 138600,
-      "name": "Blue Eyes Crying In the Rain",
-      "url": "https://open.spotify.com/track/2uRVPeQbsEpRQD0DKr1WTo"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Hard 2 Love",
         "url": "https://open.spotify.com/album/0RnVSSUbSBEjk5MlQZhYYP"
       },
@@ -1059,18 +1011,18 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "All of It",
-        "url": "https://open.spotify.com/album/2SxBuClrOCg8WZPXEDobmm"
+        "name": "Red Headed Stranger",
+        "url": "https://open.spotify.com/album/5aEtg4dxdBk4pj6SJ3hNsM"
       },
       "artists": [
         {
-          "name": "Cole Swindell",
-          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 199693,
-      "name": "Break Up in the End",
-      "url": "https://open.spotify.com/track/5Z19ylxppfnfdP4JH0u8oj"
+      "duration_ms": 138600,
+      "name": "Blue Eyes Crying In the Rain",
+      "url": "https://open.spotify.com/track/2uRVPeQbsEpRQD0DKr1WTo"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1107,22 +1059,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Whiskey Sour",
-        "url": "https://open.spotify.com/album/78iTqpAzKHMnonY5UqRIXH"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 209740,
-      "name": "Whiskey Sour",
-      "url": "https://open.spotify.com/track/1wlbeqO0XpftrT2pVqcxaL"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "I'm Alright",
         "url": "https://open.spotify.com/album/4UuS4hlOMP5akz21glTQCL"
       },
@@ -1135,6 +1071,38 @@
       "duration_ms": 220200,
       "name": "Lesson In Leavin'",
       "url": "https://open.spotify.com/track/2g0BAZVaLlK8GeTVzF6hQ6"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "All of It",
+        "url": "https://open.spotify.com/album/2SxBuClrOCg8WZPXEDobmm"
+      },
+      "artists": [
+        {
+          "name": "Cole Swindell",
+          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
+        }
+      ],
+      "duration_ms": 199693,
+      "name": "Break Up in the End",
+      "url": "https://open.spotify.com/track/5Z19ylxppfnfdP4JH0u8oj"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Whiskey Sour",
+        "url": "https://open.spotify.com/album/78iTqpAzKHMnonY5UqRIXH"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 209740,
+      "name": "Whiskey Sour",
+      "url": "https://open.spotify.com/track/1wlbeqO0XpftrT2pVqcxaL"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1271,6 +1239,38 @@
       "duration_ms": 241899,
       "name": "Small Town Hypocrite",
       "url": "https://open.spotify.com/track/7Bpivl6q9y2FgSp1nr5MZ8"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "INTERTWINED",
+        "url": "https://open.spotify.com/album/3IbZgaXPhwowfAOCudOkwa"
+      },
+      "artists": [
+        {
+          "name": "CHASE WRIGHT",
+          "url": "https://open.spotify.com/artist/4P70LmF7PJwBGS9BV5dk2c"
+        }
+      ],
+      "duration_ms": 202566,
+      "name": "Wish You'd Miss Me",
+      "url": "https://open.spotify.com/track/2613r4NIlGRo18Ep9UWgab"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Greatest Hits: Mark Chesnutt",
+        "url": "https://open.spotify.com/album/3BHgJUyzqtmUFnUngsDVeg"
+      },
+      "artists": [
+        {
+          "name": "Mark Chesnutt",
+          "url": "https://open.spotify.com/artist/2cNV8vNe2fPFf6OfGOBbSS"
+        }
+      ],
+      "duration_ms": 155493,
+      "name": "Goin' Through The Big D",
+      "url": "https://open.spotify.com/track/4s6Q9zPmiYcpo5MR7uoVnt"
     }
   ],
   "unique_name": "Country Heartache",

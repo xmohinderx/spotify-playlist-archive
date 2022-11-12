@@ -59,7 +59,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 226160,
       "name": "Alone - Acoustic",
       "url": "https://open.spotify.com/track/0vDnzajlY189JIRlQ0cOUs"
@@ -185,7 +185,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 219133,
       "name": "Be Here Now",
       "url": "https://open.spotify.com/track/1zH6hFHwovpSxn0FmVpX6Q"
@@ -549,7 +549,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 263226,
       "name": "Cursed II",
       "url": "https://open.spotify.com/track/38DSyUHQmyVKeUWnbn6dkG"
@@ -883,7 +883,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 210013,
       "name": "Everything I Am Is Yours",
       "url": "https://open.spotify.com/track/281ioxkZbJ3p9hCvjD2bon"
@@ -1081,7 +1081,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-21",
+      "date_removed": null,
       "duration_ms": 186101,
       "name": "Get Lost",
       "url": "https://open.spotify.com/track/6T5h25GMtJWOhGcObvjlHq"
@@ -1457,7 +1457,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 186187,
       "name": "I'll Buy A House - Acoustic",
       "url": "https://open.spotify.com/track/1dpb7KzEnftZr3yfDqKyqg"
@@ -1909,6 +1909,24 @@
     {
       "album": {
         "name": "Luck Pusher",
+        "url": "https://open.spotify.com/album/5J23ETJ3kP5Nwc3vY9GgSm"
+      },
+      "artists": [
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163410,
+      "name": "Luck Pusher",
+      "url": "https://open.spotify.com/track/3OXwGvg4SZgc6bHWedBYsI"
+    },
+    {
+      "album": {
+        "name": "Luck Pusher",
         "url": "https://open.spotify.com/album/2bW59wdPku3mlEZWg8xsip"
       },
       "artists": [
@@ -2283,7 +2301,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 229960,
       "name": "No Right To Love You - Acoustic",
       "url": "https://open.spotify.com/track/58VJmNB8oeoE2PRqCrduEo"
@@ -2673,7 +2691,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-06",
+      "date_removed": null,
       "duration_ms": 157750,
       "name": "Should I Stay Or Should I Go",
       "url": "https://open.spotify.com/track/2FEa7a9fEAfqlW3hx7MQAC"
@@ -3489,6 +3507,24 @@
       "duration_ms": 272039,
       "name": "Without You",
       "url": "https://open.spotify.com/track/7gQ0Ujx0iQ6yxNTFukpwFx"
+    },
+    {
+      "album": {
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/6CEQVWd8lCfQN849wYVIxc"
+      },
+      "artists": [
+        {
+          "name": "Emma Steinbakken",
+          "url": "https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272680,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/0GuIHTNw6hNvkMNLf8bBdh"
     },
     {
       "album": {

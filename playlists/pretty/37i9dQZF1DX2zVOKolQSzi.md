@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zVOKolQSzi.md) - [plain]
 
 > The best and finest '10s Funk\. Cover: Pharrell Williams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,074 likes - 73 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,168 likes - 73 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zVOKolQSzi.md) - [plain]
 | 13 | [She's On Fire](https://open.spotify.com/track/3Ln02VKgVQ4evdnm86gPJJ) | [Bo Saris](https://open.spotify.com/artist/5iFyVnPvgc3b4bduxnqn6l) | [Gold](https://open.spotify.com/album/1fvAt6txgwrzz0ULXhARpT) | 2:53 |
 | 14 | [Funk Ain't Ova](https://open.spotify.com/track/5nBgM7vUM7w9bNKW2MFZhH) | [Brooklyn Funk Essentials](https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA), [Alison Limerick](https://open.spotify.com/artist/0ELXBCSsRl2m92MgnOsA69), [Desmond Foster](https://open.spotify.com/artist/3qqFMYoELTj4g9yzuQEALf) | [Stay Good](https://open.spotify.com/album/7KFdFOJJF84VbZ5rJjbyK7) | 3:51 |
 | 15 | [Need Your Love](https://open.spotify.com/track/3zYQ1KXzqBWRsxIqdVMoYF) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [Face Your Fear](https://open.spotify.com/album/3Can2qB9S1pOcElpkfExB1) | 2:57 |
-| 16 | [Jealous \(I Ain't With It\)](https://open.spotify.com/track/3R5FA1Ay1NxgtwbElR78by) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [White Women](https://open.spotify.com/album/1rqJZhedmCFNbaoTRQz9Zj) | 3:48 |
+| 16 | [Jealous](https://open.spotify.com/track/0nixvV9CYUbjFozKKiQ8oa) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Electronic Summer](https://open.spotify.com/album/5rOOEA8GedOU74lP05LUdc) | 3:48 |
 | 17 | [504](https://open.spotify.com/track/7GSRWFN6ThzMKGh6vqBZ1u) | [The Soul Rebels](https://open.spotify.com/artist/10NEMYLJwVvYSvtvZn5Ipz) | [Unlock Your Mind](https://open.spotify.com/album/30DZF2u3CHEE3pWZibviRQ) | 4:39 |
 | 18 | [Call You Back](https://open.spotify.com/track/18IaulJ5ITzyQdDFyIsK1P) | [Cool Company](https://open.spotify.com/artist/6lOCVUQbb9wzuZQbZQV9zn), [Haley Dekle](https://open.spotify.com/artist/7wjZTTRz5QZ8GfJPJbmH1C) | [Call You Back](https://open.spotify.com/album/1Jop1c4s9yv7e1ZOsiEAOh) | 2:49 |
 | 19 | [Yes We Can Can](https://open.spotify.com/track/2qlfzP4cXFnd718WGNDCT4) | [Maceo Parker](https://open.spotify.com/artist/4RAQZfFgR7NPAWjKwUpEeC) | [Soul Food: Cooking With Maceo](https://open.spotify.com/album/5Gov2tT73ooJR5WQienGoH) | 5:42 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zVOKolQSzi.md) - [plain]
 | 72 | [That's What I Like](https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [24K Magic](https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA) | 3:26 |
 | 73 | [It's Gonna Rain](https://open.spotify.com/track/58gPIRzKQteZDwUQKQAj0q) | [The Souljazz Orchestra](https://open.spotify.com/artist/0MiCOT2cVYso39XSskiUUo) | [Resistance](https://open.spotify.com/album/1XqtSROG7PSVbfJqeAqJ9D) | 5:07 |
 
-Snapshot ID: `MTY2NDUzMzIwMCwwMDAwMDAwMGFlN2NmNmU1ZWUwNjZhYWJhYjRiMmQyZGNhZmZmYWZm`
+Snapshot ID: `MTY2NDUzMzIwMCwwMDAwMDAwMDkxOTcwNTJiYjc2OWRlMGJjOWMxY2Q4MGZkYmFhOWQ4`

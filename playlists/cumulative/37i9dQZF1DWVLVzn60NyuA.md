@@ -4,14 +4,14 @@
 
 > Afro, Caribbean & Latin sounds for that summer vibe.
 
-356 songs - 19 hr 8 min - [published](https://open.spotify.com/playlist/7LR5cDpT1OxrbiDhjL3XRj)
+357 songs - 19 hr 11 min - [published](https://open.spotify.com/playlist/7LR5cDpT1OxrbiDhjL3XRj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [10 Outta 10](https://open.spotify.com/track/7pLekRLFessQEXoPhw5jB3) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [10 Outta 10](https://open.spotify.com/album/1Ekae0nx8S2LySjBnMb1hq) | 2:20 | 2021-12-16 | 2022-02-24 |
 | [3AM](https://open.spotify.com/track/7lvVLpULHfnqgxn9yZha8L) | [Angelo King](https://open.spotify.com/artist/1Q0kuvgP9fC9Y5OCP1mzOV) | [Heating Up](https://open.spotify.com/album/4ZTBDp6mTXBEn2GkJNBBgo) | 2:34 | 2021-12-16 | 2022-07-29 |
 | [911](https://open.spotify.com/track/5jFQM82pmdJSBHGnlhL8as) | [Angelo King](https://open.spotify.com/artist/1Q0kuvgP9fC9Y5OCP1mzOV), [Flori del Pino](https://open.spotify.com/artist/1OsGGctJwvyAI3zB2MAU8V) | [911](https://open.spotify.com/album/4UKWh8YBQqktuX1HArlnwq) | 3:13 | 2021-12-16 | 2022-01-26 |
-| [Abena](https://open.spotify.com/track/4lICAx8Aqp6rRV2jfklUYu) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [As Promised](https://open.spotify.com/album/11sPQhjZhUDue2hWycZJyX) | 4:04 | 2021-12-16 |  |
+| [Abena](https://open.spotify.com/track/4lICAx8Aqp6rRV2jfklUYu) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [As Promised](https://open.spotify.com/album/11sPQhjZhUDue2hWycZJyX) | 4:04 | 2021-12-16 | 2022-11-12 |
 | [Activate](https://open.spotify.com/track/0aHV99VipGqb8uwnMTxbYh) | [Jaskelis](https://open.spotify.com/artist/7IAxIlRjuMYFYTA36axW91) | [Activate](https://open.spotify.com/album/0tQ3jHEuVyNat7bmECwY4d) | 3:10 | 2021-12-28 | 2022-07-20 |
 | [All of This \(Jorja Smith x GuiltyBeatz\)](https://open.spotify.com/track/4MntS4sILmujgVJgWJoRbv) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [GuiltyBeatz](https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em) | [All of This \(Jorja Smith x GuiltyBeatz\)](https://open.spotify.com/album/6uOlTbRJLSTYDIieRMzcs0) | 5:13 | 2021-12-16 | 2022-07-29 |
 | [All of This \(Jorja Smith x GuiltyBeatz\)](https://open.spotify.com/track/6u06O02Qv5ZdwD0x9SqEbX) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [GuiltyBeatz](https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em) | [All of This \(Jorja Smith X GuiltyBeatz\)](https://open.spotify.com/album/0Q7QMfuDDS2Pm0OAxaJSPU) | 5:13 | 2022-07-28 |  |
@@ -310,6 +310,7 @@
 | [Tempestade](https://open.spotify.com/track/2xJCPy4Cr88de0LCSIB2d2) | [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo), [SYRO](https://open.spotify.com/artist/55axQKUUXr8LoUcKagMp5x) | [Mininu Di Oru](https://open.spotify.com/album/5nuvoFFCWhSMnZPEs7v0nu) | 3:25 | 2021-12-16 | 2022-02-24 |
 | [Test Me](https://open.spotify.com/track/45VPTngfUEF7c5rBI2IOja) | [Jeune Lio](https://open.spotify.com/artist/1zz3LkV2ojd7rzmYf2QOsF), [Chrystel](https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0), [Yung D3mz](https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf) | [A Night In Cocody](https://open.spotify.com/album/7HX3XJ5NzMPUVBkzYRQtWQ) | 3:40 | 2022-05-16 |  |
 | [Tetema](https://open.spotify.com/track/53NjleILyfXt7GYwTgxZX9) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Tetema](https://open.spotify.com/album/75ud6QcIp3ewGilMkSLt01) | 2:32 | 2021-12-16 | 2022-07-29 |
+| [Tetema \(feat\. Diamond Platnumz\)](https://open.spotify.com/track/1rbQWXOpvpbf61fsFDQnru) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Tetema \(feat\. Diamond Platnumz\)](https://open.spotify.com/album/5ByfebvDaiXgUQOleR14GK) | 2:32 | 2022-11-07 |  |
 | [Tetema \(feat\. Diamond Platnumz\)](https://open.spotify.com/track/50tFLjmKu1pftJONIbaljz) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Sound from Africa](https://open.spotify.com/album/5ku1S5rs8OsxdMeAxjZk9q) | 2:32 | 2022-07-28 | 2022-11-11 |
 | [Thank You Jah](https://open.spotify.com/track/3WNZ3EihNtt8Dwo69brHHa) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Thank You Jah](https://open.spotify.com/album/05lz6RiwYRFok4YeseviAZ) | 3:22 | 2022-05-12 |  |
 | [This Your Body](https://open.spotify.com/track/2cJesgQwggcf3ciGuD6Z1I) | [Skales](https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv), [DaVido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [This Your Body](https://open.spotify.com/album/0Zfc7116wUQI37sJxIVPTI) | 3:32 | 2021-12-16 | 2022-01-26 |

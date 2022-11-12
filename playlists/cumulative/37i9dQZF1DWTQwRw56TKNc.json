@@ -1327,7 +1327,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 236706,
       "name": "Leave a Tender Moment Alone",
       "url": "https://open.spotify.com/track/4Qw41GUmS4rF7GR3am9Rt6"
@@ -1669,10 +1669,28 @@
       ],
       "date_added": "2021-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 283640,
       "name": "Rocky Mountain High",
       "url": "https://open.spotify.com/track/1ne9wOtDF2jM6Cm8WBkaER"
+    },
+    {
+      "album": {
+        "name": "The Essential John Denver",
+        "url": "https://open.spotify.com/album/6v3zs4PYQw1esV7ZtrjZut"
+      },
+      "artists": [
+        {
+          "name": "John Denver",
+          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
+        }
+      ],
+      "date_added": "2021-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283960,
+      "name": "Rocky Mountain High",
+      "url": "https://open.spotify.com/track/3L2Zetc43qCSJEH5DwsEa2"
     },
     {
       "album": {
@@ -2361,7 +2379,7 @@
       ],
       "date_added": "2021-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 200560,
       "name": "Wild World",
       "url": "https://open.spotify.com/track/7mjSHL2Eb0kAwiKbvNNyD9"

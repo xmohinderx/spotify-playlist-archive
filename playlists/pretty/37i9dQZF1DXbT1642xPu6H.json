@@ -1,12 +1,12 @@
 {
   "description": "Pura m\u00fasica fresca para vibrar en cualquier momento de la semana.",
-  "num_followers": 330947,
+  "num_followers": 330995,
   "original_name": "Buen Vibe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Nzk1Nzk1MiwwMDAwMDAwMGE1YWQyYjQ0OTRlOGVhZDllMzkxZmQ4OTk2MjZhYWQ4",
+  "snapshot_id": "MTY2Nzk1Nzk1MiwwMDAwMDAwMDE5NjhhMmM3Y2RkOTcxNjEzOTVlZTMwYzUxOTFjMjZl",
   "tracks": [
     {
       "added_at": "2022-10-12 15:34:17",
@@ -751,6 +751,26 @@
     {
       "added_at": "2022-10-12 15:34:17",
       "album": {
+        "name": "Don\u2019t Wake Me Up",
+        "url": "https://open.spotify.com/album/6ydP9IJkzpippCnXf2bpNs"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Why Don't We",
+          "url": "https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2"
+        }
+      ],
+      "duration_ms": 188894,
+      "name": "Don\u2019t Wake Me Up",
+      "url": "https://open.spotify.com/track/3LEgGAl9zLcQWGTp7ptqtQ"
+    },
+    {
+      "added_at": "2022-10-12 15:34:17",
+      "album": {
         "name": "Tendencia Global",
         "url": "https://open.spotify.com/album/1bYuhFXTzF4CLwGOVQlqKk"
       },
@@ -771,26 +791,6 @@
       "duration_ms": 234402,
       "name": "Tendencia Global",
       "url": "https://open.spotify.com/track/2iLegn1UOmpNpQAxcQoGJW"
-    },
-    {
-      "added_at": "2022-10-12 15:34:17",
-      "album": {
-        "name": "Don\u2019t Wake Me Up",
-        "url": "https://open.spotify.com/album/6ydP9IJkzpippCnXf2bpNs"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "Why Don't We",
-          "url": "https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2"
-        }
-      ],
-      "duration_ms": 188894,
-      "name": "Don\u2019t Wake Me Up",
-      "url": "https://open.spotify.com/track/3LEgGAl9zLcQWGTp7ptqtQ"
     },
     {
       "added_at": "2022-10-12 15:34:17",

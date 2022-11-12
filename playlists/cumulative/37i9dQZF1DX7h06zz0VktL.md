@@ -4,7 +4,7 @@
 
 > All E.L.F's go to playlist! A brand new album is here! Listen to The Renaissance!
 
-182 songs - 10 hr 53 min - [published](https://open.spotify.com/playlist/2UMJmYC8TKLWWGuzrB0lu5)
+185 songs - 11 hr 3 min - [published](https://open.spotify.com/playlist/2UMJmYC8TKLWWGuzrB0lu5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,8 +13,9 @@
 | [A\-CHA](https://open.spotify.com/track/4WViO9vKhU4imbEj5ykdoY) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [Mr.Simple \- The 5th Album Repackage](https://open.spotify.com/album/2Si5djz2zl4btKq3rMuE63) | 3:20 | 2022-07-12 |  |
 | [Ahora Te Puedes Marchar](https://open.spotify.com/track/7ufUUzddmfwitmCAFHsWr3) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [One More Time \- Special Mini Album](https://open.spotify.com/album/0vgV211bUsihsckzNaejxe) | 3:10 | 2022-03-01 |  |
 | [All Day Long](https://open.spotify.com/track/1EGggFwIQwciGlo803CQ83) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [When the Weather is fine OST Part.3](https://open.spotify.com/album/2HK3bKkHIAp1XcdKb1L5jI) | 4:48 | 2022-03-01 |  |
+| [Alright](https://open.spotify.com/track/1ZNowa5CYVyfH3G4zrBx0V) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [MAGIC \- SUPER JUNIOR SPECIAL ALBUM PART.2](https://open.spotify.com/album/2YFurqloMyEncsFHOjIbm2) | 3:55 | 2022-07-12 |  |
 | [Alright](https://open.spotify.com/track/6XcAiN3fb2YGgK4vW9wFnV) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [DEVIL \- SUPER JUNIOR SPECIAL ALBUM](https://open.spotify.com/album/3tLpEVOpXkRifL3nIziMN6) | 3:55 | 2022-03-01 | 2022-07-29 |
-| [Alright](https://open.spotify.com/track/6wBfDGYfGIFgIsi1PnG6vN) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [DEVIL \- SUPER JUNIOR SPECIAL ALBUM](https://open.spotify.com/album/4YdR3Qy3eZXsLGIXaEAw8o) | 3:55 | 2022-07-12 |  |
+| [Alright](https://open.spotify.com/track/6wBfDGYfGIFgIsi1PnG6vN) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [DEVIL \- SUPER JUNIOR SPECIAL ALBUM](https://open.spotify.com/album/4YdR3Qy3eZXsLGIXaEAw8o) | 3:55 | 2022-07-12 | 2022-11-12 |
 | [Always](https://open.spotify.com/track/2nG6ZeHKpfTgowpzZs0frU) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [The Road : Keep on Going \- The 11th Album Vol.1](https://open.spotify.com/album/31WEkr0PFjRjRWszhYchtp) | 3:52 | 2022-07-12 |  |
 | [Analogue Radio](https://open.spotify.com/track/0ZQQUIm8sMewQQyRZxxX2a) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [The Road : Winter for Spring](https://open.spotify.com/album/0jsUbgbuyBIVztpkDKYNxZ) | 3:25 | 2022-03-01 |  |
 | [Animals](https://open.spotify.com/track/6Pqc7nJCJcxfTMrmNMNTr6) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [Animals](https://open.spotify.com/album/5wp7px1nVgtMiX6ZXnNkTh) | 3:31 | 2022-03-01 |  |
@@ -38,7 +39,8 @@
 | [Devil](https://open.spotify.com/track/3IQ9FJ2cMVQtger5ZhgCaj) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [DEVIL \- SUPER JUNIOR SPECIAL ALBUM](https://open.spotify.com/album/4YdR3Qy3eZXsLGIXaEAw8o) | 3:36 | 2022-07-12 | 2022-11-11 |
 | [Devil](https://open.spotify.com/track/42QSAzjmG5OndtlRzVfMFW) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [MAGIC \- SUPER JUNIOR SPECIAL ALBUM PART.2](https://open.spotify.com/album/2YFurqloMyEncsFHOjIbm2) | 3:36 | 2022-07-12 |  |
 | [Don't Wait](https://open.spotify.com/track/1SXZfwwTzeL0nmEBEvlYzA) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [The Road : Keep on Going \- The 11th Album Vol.1](https://open.spotify.com/album/31WEkr0PFjRjRWszhYchtp) | 2:59 | 2022-07-12 |  |
-| [Don’t Wake Me Up \- sung by SUPER JUNIOR\-D&E](https://open.spotify.com/track/4OOLB4Av78RNc98neW2AOE) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [DEVIL \- SUPER JUNIOR SPECIAL ALBUM](https://open.spotify.com/album/4YdR3Qy3eZXsLGIXaEAw8o) | 3:08 | 2022-07-12 |  |
+| [Don’t Wake Me Up \- sung by SUPER JUNIOR\-D&E](https://open.spotify.com/track/4OOLB4Av78RNc98neW2AOE) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [DEVIL \- SUPER JUNIOR SPECIAL ALBUM](https://open.spotify.com/album/4YdR3Qy3eZXsLGIXaEAw8o) | 3:08 | 2022-07-12 | 2022-11-12 |
+| [Don’t Wake Me Up \- sung by SUPER JUNIOR–D&E](https://open.spotify.com/track/41y2jZ0QJFl5Jk13soaOfs) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [MAGIC \- SUPER JUNIOR SPECIAL ALBUM PART.2](https://open.spotify.com/album/2YFurqloMyEncsFHOjIbm2) | 3:08 | 2022-07-12 |  |
 | [Don’t Wake Me Up \- sung by SUPER JUNIOR–D&E](https://open.spotify.com/track/6ZMt36jFrzimQrzAx93Xjv) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [MAGIC \- SUPER JUNIOR SPECIAL ALBUM PART.2](https://open.spotify.com/album/4awzBhGBXXSZjTpy9fEtj3) | 3:08 | 2022-03-01 | 2022-07-29 |
 | [Dreamer](https://open.spotify.com/track/7F9mjStmIHKakdhS2DtcQz) | [SUPER JUNIOR\-D&E](https://open.spotify.com/artist/3EfnKIG9827OXkcQQT7HEI) | [DANGER \- The 3rd Mini Album](https://open.spotify.com/album/2lwfwVAKf0cB4Uc5qqhk2P) | 3:58 | 2022-03-01 |  |
 | [Eat’s OK](https://open.spotify.com/track/2OEBexV35Zfa4B7BFF3pnB) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf) | [Pink Magic](https://open.spotify.com/album/3iDLSmjr7fAtCPBzmwnbCh) | 3:27 | 2022-03-01 |  |
@@ -136,8 +138,9 @@
 | [This Is Love](https://open.spotify.com/track/6mtxLtnmgm1Qr1n7yLZJNT) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [THE 7th Album 'MAMACITA'](https://open.spotify.com/album/5mE1OCMbv2kA1C8a1OnVfH) | 3:49 | 2022-03-01 | 2022-07-29 |
 | [Ticky Tocky](https://open.spotify.com/track/5D0Gpis3u5V6Qm2PPvti18) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [TIMELESS \- The 9th Album Repackage](https://open.spotify.com/album/32o8mUN1uID4VlBUrsCN2f) | 3:31 | 2022-03-01 |  |
 | [Time with you](https://open.spotify.com/track/4M2WocWA6Qx0xn47zTNkoF) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [Time with you](https://open.spotify.com/album/3vzzNhNXG0AlugKvvQxgNy) | 3:44 | 2022-03-01 |  |
-| [Twins \(Knock Out\)](https://open.spotify.com/track/0C4NNrGcJJ21Kc5FwrFCY3) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [Super Junior 05](https://open.spotify.com/album/5qP97X9XW3BqpGrqtbcm4C) | 3:21 | 2022-07-12 |  |
+| [Twins \(Knock Out\)](https://open.spotify.com/track/0C4NNrGcJJ21Kc5FwrFCY3) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [Super Junior 05](https://open.spotify.com/album/5qP97X9XW3BqpGrqtbcm4C) | 3:21 | 2022-07-12 | 2022-11-12 |
 | [Twins \(Knock Out\)](https://open.spotify.com/track/3Oho0iIQLQcgoZnBfESWaX) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [Super Junior 05](https://open.spotify.com/album/2qW0mTACJdlknP1kPicN8B) | 3:21 | 2022-03-01 | 2022-07-29 |
+| [Twins \- Live](https://open.spotify.com/track/3YNOOvEt49Kr8mymKGg6Hs) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [Super Show \(The 1st Asia Tour Concert Album\)](https://open.spotify.com/album/7iLEumOEyYFsprOdFb2jHT) | 3:20 | 2022-07-12 |  |
 | [U](https://open.spotify.com/track/4e48J0muBB77mLvkOSYRUv) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [U](https://open.spotify.com/album/6X6VnoHTPm7Uywlqx0CUAk) | 3:46 | 2022-03-01 | 2022-07-29 |
 | [U](https://open.spotify.com/track/7HKkudjI7pofH9oDqt3Y1T) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [U](https://open.spotify.com/album/6II4FpwMXm5tQRhaXDxjo2) | 3:46 | 2022-07-12 |  |
 | [Watch Out](https://open.spotify.com/track/2qG4vBxZ5PtPbZwrGSGk3c) | [SUPER JUNIOR\-D&E](https://open.spotify.com/artist/3EfnKIG9827OXkcQQT7HEI) | [DANGER \- The 3rd Mini Album](https://open.spotify.com/album/2lwfwVAKf0cB4Uc5qqhk2P) | 3:15 | 2022-03-01 |  |

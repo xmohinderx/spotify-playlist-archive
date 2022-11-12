@@ -4,7 +4,7 @@
 
 > Lyrical\. Legit\. This Pride vision of Folk, Americana, and Singer\-Songwriter music features LGBTQQIA+ acts and allies\. Cover: Angel Olsen
 
-141 songs - 8 hr 55 min - [published](https://open.spotify.com/playlist/1nsDgfpPkRNK6I7NchiJ6w)
+144 songs - 9 hr 5 min - [published](https://open.spotify.com/playlist/1nsDgfpPkRNK6I7NchiJ6w)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,13 +49,16 @@
 | [Don't Die in Me](https://open.spotify.com/track/0XQbRdBTT3fQfBr9we2b5N) | [Mirah](https://open.spotify.com/artist/5AZHg5fZjuN4FzGUnaiQcj) | [C'mon Miracle](https://open.spotify.com/album/78f7dEVdMqJq0KTNiwqS8k) | 3:48 | 2022-06-10 |  |
 | [Don't Die In Me](https://open.spotify.com/track/3Y674nWz029sfAgKfDSlas) | [Mirah](https://open.spotify.com/artist/5AZHg5fZjuN4FzGUnaiQcj) | [C'mon Miracle](https://open.spotify.com/album/0Fc0lUEKhhNCXL2l79u0Kn) | 3:48 | 2021-06-01 | 2022-07-29 |
 | [Everybody Loves You](https://open.spotify.com/track/0VoXWFiouDUJ7Jl3iTzY88) | [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [Grim Town](https://open.spotify.com/album/3D4R2K9WvgchXUkefusOrC) | 3:19 | 2021-06-01 | 2022-07-29 |
-| [Everybody Loves You](https://open.spotify.com/track/3f6rsRGCaABn7i8S8N8zmc) | [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [Grim Town](https://open.spotify.com/album/2bvDcwRZacKz02UUAmF6Ns) | 3:19 | 2022-06-10 |  |
+| [Everybody Loves You](https://open.spotify.com/track/3f6rsRGCaABn7i8S8N8zmc) | [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [Grim Town](https://open.spotify.com/album/2bvDcwRZacKz02UUAmF6Ns) | 3:19 | 2022-06-10 | 2022-11-12 |
+| [Everybody Loves You](https://open.spotify.com/track/4YooFgsSf5epSALkj4Vh4g) | [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [Everybody Loves You](https://open.spotify.com/album/6za8YcKrkHjQmY5FYzWufu) | 3:19 | 2022-06-10 |  |
 | [Everything I Ever Wanted \- Solo Piano](https://open.spotify.com/track/3dGAhRi0nFYBew8UP1yCsg) | [Bright Light Bright Light](https://open.spotify.com/artist/25bvQC4jyyFUce6jbzNlwb), [The Pink Singers](https://open.spotify.com/artist/2VswVnDfRqMYr6L1KRqChI) | [Solo Piano Versions](https://open.spotify.com/album/2TFsa29U4KFvLYsK6MQZ66) | 4:30 | 2021-06-01 | 2022-06-01 |
 | [Faith Healer](https://open.spotify.com/track/5M7jnmPrtHgL5H4fTewJch) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Little Oblivions](https://open.spotify.com/album/3IQRHa9iVLsGlSuVHiHZ3A) | 2:54 | 2021-06-01 |  |
-| [First Time](https://open.spotify.com/track/03R9GOTrB56l1znR4j5jhR) | [Becca Mancari](https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5) | [The Greatest Part](https://open.spotify.com/album/1CZYxx4kb3EdV5Gl25vhST) | 2:43 | 2022-06-10 |  |
+| [First Time](https://open.spotify.com/track/03R9GOTrB56l1znR4j5jhR) | [Becca Mancari](https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5) | [The Greatest Part](https://open.spotify.com/album/1CZYxx4kb3EdV5Gl25vhST) | 2:43 | 2022-06-10 | 2022-11-12 |
+| [First Time](https://open.spotify.com/track/2xdCrFLOOJ7VCvvaGAjnQh) | [Becca Mancari](https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5) | [First Time](https://open.spotify.com/album/3VOetHtDXdOu2ScKlUlyd3) | 2:43 | 2022-06-10 |  |
 | [First Time](https://open.spotify.com/track/7e0MiLm35bJhjevtHv0QCD) | [Becca Mancari](https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5) | [First Time](https://open.spotify.com/album/0VKxyyHFvel8XDtnHEudNk) | 2:43 | 2021-06-01 | 2022-07-29 |
-| [Garden Song](https://open.spotify.com/track/5bIgzvxvlefRUCQK9JPocF) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 3:39 | 2022-06-10 |  |
+| [Garden Song](https://open.spotify.com/track/5bIgzvxvlefRUCQK9JPocF) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 3:39 | 2022-06-10 | 2022-11-12 |
 | [Garden Song](https://open.spotify.com/track/1LTWcRVy9o96Zzn29wXLsa) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Garden Song](https://open.spotify.com/album/4Qjp6b3M3pL2mb4b1oF3vP) | 3:40 | 2021-06-01 | 2022-07-29 |
+| [Garden Song](https://open.spotify.com/track/6WrzIVwfETihmZ91wwt5cq) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Garden Song](https://open.spotify.com/album/5RSEIqWnZsBKKYngHOkpuU) | 3:40 | 2022-06-10 |  |
 | [Gay Messiah](https://open.spotify.com/track/4voCpTjpYMdXnRrXP1T9Oj) | [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8) | [Want \(Deluxe Version\)](https://open.spotify.com/album/7GU1xA7c5NzqCOeE5oAC1b) | 3:14 | 2021-06-01 | 2022-07-29 |
 | [Gay Messiah](https://open.spotify.com/track/6d1P91nb0Hk6vpQHQV1zN0) | [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8) | [Want Two](https://open.spotify.com/album/6agP9hBwmPQWWEqt5aerMG) | 3:14 | 2022-06-10 | 2022-11-11 |
 | [Gay Messiah](https://open.spotify.com/track/6HuYQDa2x7srgKrt3QG6T4) | [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8) | [True Colors](https://open.spotify.com/album/0Q5MChaGXpiGGDewcfXebW) | 3:14 | 2022-06-10 |  |

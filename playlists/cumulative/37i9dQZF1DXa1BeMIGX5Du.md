@@ -4,7 +4,7 @@
 
 > The perfectly brewed cup, the perfect songs to match\. Your happy place is right here.
 
-137 songs - 8 hr 23 min - [published](https://open.spotify.com/playlist/6mRS7vK5o4DCt7Kc7WlJdj)
+139 songs - 8 hr 31 min - [published](https://open.spotify.com/playlist/6mRS7vK5o4DCt7Kc7WlJdj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,8 +58,9 @@
 | [Friday I’m In Love \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6vC7mF2CXYW6MVF2voO4FU) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Spotify Singles](https://open.spotify.com/album/3k3IHMRB7BZEf9VEh4HZsm) | 3:40 | 2022-06-17 |  |
 | [Friend](https://open.spotify.com/track/1O00a7AxVVYayBmZyM48S1) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [To Enjoy is the Only Thing](https://open.spotify.com/album/0TyGoqeYSQepO17jg08VvK) | 4:17 | 2022-03-25 | 2022-07-29 |
 | [Friend](https://open.spotify.com/track/58IgTQTvqjMWLiVxkNVZxe) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [To Enjoy Is the Only Thing](https://open.spotify.com/album/4cVX6h32CrAhowx4WGHb6E) | 4:17 | 2022-06-17 |  |
-| [Garden Song](https://open.spotify.com/track/5bIgzvxvlefRUCQK9JPocF) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 3:39 | 2022-06-17 |  |
+| [Garden Song](https://open.spotify.com/track/5bIgzvxvlefRUCQK9JPocF) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 3:39 | 2022-06-17 | 2022-11-12 |
 | [Garden Song](https://open.spotify.com/track/1LTWcRVy9o96Zzn29wXLsa) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Garden Song](https://open.spotify.com/album/4Qjp6b3M3pL2mb4b1oF3vP) | 3:40 | 2022-03-25 | 2022-07-29 |
+| [Garden Song](https://open.spotify.com/track/6WrzIVwfETihmZ91wwt5cq) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Garden Song](https://open.spotify.com/album/5RSEIqWnZsBKKYngHOkpuU) | 3:40 | 2022-10-10 |  |
 | [Holding on to You](https://open.spotify.com/track/05hZle1qjV2Hu10Y85fhbv) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Holding on to You](https://open.spotify.com/album/2aog2gZCOAc2tZGFtrVSAE) | 3:33 | 2022-03-25 | 2022-07-29 |
 | [Holding on to You](https://open.spotify.com/track/2XbGCUjNjQgJPMO1QbMp5a) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [hemispheres](https://open.spotify.com/album/7xRQ2OolSyln0FHE6sPAJC) | 3:33 | 2022-06-17 | 2022-10-11 |
 | [Homecoming Queen](https://open.spotify.com/track/28grzRrS5csyaI4uK98IX0) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [Better in Blak](https://open.spotify.com/album/0QuumkXPKBWR7wOKUfqQ34) | 3:51 | 2022-03-25 |  |
@@ -69,7 +70,8 @@
 | [IDK You Yet](https://open.spotify.com/track/47EWMOElkkbMp5m9SBkx7d) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [IDK You Yet](https://open.spotify.com/album/2BcmdSV1kyss7KFuSpobeS) | 3:04 | 2022-03-25 | 2022-07-29 |
 | [Is There Something?](https://open.spotify.com/track/3LVn9obQnzaKKuNawhJ2zC) | [Fiona Harte](https://open.spotify.com/artist/5MhqWAoMsPoYzCaFEf6mYs), [Dillan Witherow](https://open.spotify.com/artist/4GmUsPoD5r1hUi4O9bJ1Sl) | [Is There Something?](https://open.spotify.com/album/6KCT3K1MYF42KH0TRtn5Oq) | 2:44 | 2022-03-25 |  |
 | [It's Easier When You're Standing There](https://open.spotify.com/track/07aBRXxWCJDgCcwJvd2VLy) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [It's Easier When You're Standing There](https://open.spotify.com/album/6IEF4VkPdF34KwW130ssPA) | 3:47 | 2022-03-25 | 2022-07-29 |
-| [It's Easier When You're Standing There](https://open.spotify.com/track/55gRA2nwyEaHOXqK8wwfvV) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [hemispheres](https://open.spotify.com/album/7xRQ2OolSyln0FHE6sPAJC) | 3:47 | 2022-06-17 |  |
+| [It's Easier When You're Standing There](https://open.spotify.com/track/55gRA2nwyEaHOXqK8wwfvV) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [hemispheres](https://open.spotify.com/album/7xRQ2OolSyln0FHE6sPAJC) | 3:47 | 2022-06-17 | 2022-11-12 |
+| [It's Easier When You're Standing There](https://open.spotify.com/track/7kBNWlEwRMrAGi2bPfUjyN) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [It's Easier When You're Standing There](https://open.spotify.com/album/6qdvDwS8wTgYAi6gm8efBZ) | 3:47 | 2022-10-10 |  |
 | [Karaoke](https://open.spotify.com/track/2B2g136lFHdVblX24YhpAs) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Thundering Hopes](https://open.spotify.com/album/6fiK3VPNK38HEYhnWzsIrw) | 3:20 | 2022-08-25 |  |
 | [Karaoke](https://open.spotify.com/track/5e6sklOXEsNqSrEPDR1T3Z) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Thundering Hopes](https://open.spotify.com/album/2oRfOLHwgEjqUC2f6YKv0U) | 3:20 | 2022-03-25 | 2022-08-27 |
 | [Lady Blue](https://open.spotify.com/track/1Tqhq3ZF1FCoUiS10Cgxzt) | [Emily Wurramara](https://open.spotify.com/artist/0OKjEr4iSUvgGSebJakjNF) | [Milyakburra](https://open.spotify.com/album/6BPIK9SvnYZXPQJlLqh0Kp) | 2:51 | 2022-03-25 |  |

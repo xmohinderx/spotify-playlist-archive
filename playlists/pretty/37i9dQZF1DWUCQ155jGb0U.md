@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUCQ155jGb0U.md) - [plain]
 
 > Sonido contemporáneo y algunos clásicos\. <br/>Foto: The Strokes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,402 likes - 90 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,028 likes - 90 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUCQ155jGb0U.md) - [plain]
 | 36 | [Otherside](https://open.spotify.com/track/64BbK9SFKH2jk86U3dGj2P) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Californication \(Deluxe Edition\)](https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi) | 4:15 |
 | 37 | [Wonderwall](https://open.spotify.com/track/7dPd3dx4ipBe10xKuhj9eY) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Wonderwall](https://open.spotify.com/album/3ezI4EtsobNEhV0WSEsCGn) | 4:18 |
 | 38 | [Looking Out for You](https://open.spotify.com/track/3jfZ9M23l0L7RxzYMTgBTv) | [Joy Again](https://open.spotify.com/artist/4jCIAMb0zEArF3GYEYzoDk) | [Looking Out for You](https://open.spotify.com/album/7slouenWhZDdDZibkS4nR3) | 2:59 |
-| 39 | [Demons](https://open.spotify.com/track/3LlAyCYU26dvFZBDUIMb7a) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Night Visions](https://open.spotify.com/album/6htgf3qv7vGcsdxLCDxKp8) | 2:55 |
+| 39 | [Demons](https://open.spotify.com/track/1Nv9AeLzP7GVNSe0Cfpned) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Halloween Party 2022](https://open.spotify.com/album/624LASK1ipzgobhmcECvgp) | 2:57 |
 | 40 | [Atlantis](https://open.spotify.com/track/1Fid2jjqsHViMX6xNH70hE) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Tell Me It's Real \(Expanded Edition\)](https://open.spotify.com/album/4m8XN9CKqve1ExYBnNu5kt) | 3:49 |
 | 41 | [Sex, Drugs, Etc.](https://open.spotify.com/track/7DbdUf8aHSYoliSjO6LZv6) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Chit Chat](https://open.spotify.com/album/1xz1n7gyY02veDxH50SQHQ) | 3:16 |
 | 42 | [Creep](https://open.spotify.com/track/70LcF31zb1H0PyJoS1Sx1r) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Pablo Honey](https://open.spotify.com/album/3gBVdu4a1MMJVMy6vwPEb8) | 3:58 |
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUCQ155jGb0U.md) - [plain]
 | 45 | [Every Breath You Take](https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Synchronicity \(Remastered 2003\)](https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY) | 4:13 |
 | 46 | [Bones](https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Bones](https://open.spotify.com/album/1Q9SnHWPNEjVM0LrBFvJ1q) | 2:45 |
 | 47 | [Come As You Are \- Remastered 2021](https://open.spotify.com/track/1MsfdAHNRX2T1BWmkpj87C) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(30th Anniversary Super Deluxe\)](https://open.spotify.com/album/5eA0qtE7Yu29XiMlwoby2G) | 3:38 |
-| 48 | [Something In The Way](https://open.spotify.com/track/1nFtiJxYdhtFfFtfXBv06s) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 3:52 |
+| 48 | [Something In The Way](https://open.spotify.com/track/1UHoHmHWdu0EX557Oqoq2P) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind](https://open.spotify.com/album/6yaiubHHJy8N8QcHy3julo) | 3:52 |
 | 49 | [Snow \(Hey Oh\)](https://open.spotify.com/track/2aibwv5hGXSgw7Yru8IYTO) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Stadium Arcadium](https://open.spotify.com/album/7xl50xr9NDkd3i2kBbzsNZ) | 5:34 |
 | 50 | [Radioactive](https://open.spotify.com/track/33DPHYA8bJstGIMXkz1lFt) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Car Songs](https://open.spotify.com/album/2n9seCBtupHlk3m2ruv6A1) | 3:08 |
 | 51 | [Sweet Child O' Mine](https://open.spotify.com/track/7snQQk1zcKl8gZ92AnueZW) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction](https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW) | 5:56 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUCQ155jGb0U.md) - [plain]
 | 89 | [Call It Fate, Call It Karma](https://open.spotify.com/track/3Y4rUyw7XBCK6hGHCOt6rp) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Comedown Machine](https://open.spotify.com/album/4WnkQO4xD9ljQooB3VIxCV) | 3:24 |
 | 90 | [Love Dies Young](https://open.spotify.com/track/5suO1J3cXSVWJ7ED3kasKQ) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Medicine At Midnight](https://open.spotify.com/album/1FyNZvJ6MHO01kl3ySMPdc) | 4:21 |
 
-Snapshot ID: `MTY2NTcxNjQwMCwwMDAwMDAwMGY1NGFkNzA2YzVmZDk3ZTQ4MWZjNTcyNzg4Mjk4MDhj`
+Snapshot ID: `MTY2NTcxNjQwMCwwMDAwMDAwMDZiMDEwZjBmYmRhNmUwNWRjOWM0OWViMzY2MmI2ZDJj`

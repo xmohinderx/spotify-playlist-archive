@@ -171,6 +171,28 @@
     {
       "album": {
         "name": "Bermuda Triangle",
+        "url": "https://open.spotify.com/album/5gDobQWuOT5HP2NgvX91Pj"
+      },
+      "artists": [
+        {
+          "name": "Intence",
+          "url": "https://open.spotify.com/artist/3gwIlS9NOwBgwV3RfQIYiR"
+        },
+        {
+          "name": "Zimi",
+          "url": "https://open.spotify.com/artist/1CDJaUv1aGeoQQFlIGrqDA"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155260,
+      "name": "Bermuda Triangle",
+      "url": "https://open.spotify.com/track/0NqJUSbc7v1WUbuwau3aTu"
+    },
+    {
+      "album": {
+        "name": "Bermuda Triangle",
         "url": "https://open.spotify.com/album/0aCTKNGVc2GgtJxjsKYvNA"
       },
       "artists": [
@@ -185,7 +207,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 155391,
       "name": "Bermuda Triangle",
       "url": "https://open.spotify.com/track/3LwafVvOzaAsuZoMfFW9lj"
@@ -225,10 +247,28 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 161182,
       "name": "Brrrp",
       "url": "https://open.spotify.com/track/0rLLdQiVH4OTozYQMwKvwa"
+    },
+    {
+      "album": {
+        "name": "Brrrp",
+        "url": "https://open.spotify.com/album/4lZXa3MY9tsZxsrnpx54fm"
+      },
+      "artists": [
+        {
+          "name": "Skeng",
+          "url": "https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161182,
+      "name": "Brrrp",
+      "url": "https://open.spotify.com/track/383ptF3PbNr3Z1NvwO2Je5"
     },
     {
       "album": {
@@ -315,10 +355,28 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 172552,
       "name": "Clip Tall",
       "url": "https://open.spotify.com/track/739LurvLBsXBgJJBLZzm27"
+    },
+    {
+      "album": {
+        "name": "Clip Tall",
+        "url": "https://open.spotify.com/album/000gVvwOj4lYzHP8K3H58c"
+      },
+      "artists": [
+        {
+          "name": "IWaata",
+          "url": "https://open.spotify.com/artist/2xtVXoJRIMnX1UAmOCrHrB"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172552,
+      "name": "Clip Tall",
+      "url": "https://open.spotify.com/track/75x8qpBoEV0A6joMaU6jBw"
     },
     {
       "album": {
@@ -359,10 +417,32 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 186723,
       "name": "Cree",
       "url": "https://open.spotify.com/track/0NyKyA4P2zi6irhUYh45MR"
+    },
+    {
+      "album": {
+        "name": "Cree",
+        "url": "https://open.spotify.com/album/2ExEo2D6WhaOLxz1IXm10u"
+      },
+      "artists": [
+        {
+          "name": "Alkaline",
+          "url": "https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ"
+        },
+        {
+          "name": "Countree Hype",
+          "url": "https://open.spotify.com/artist/4trjztkEHNUqYhnW3XTG8C"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186723,
+      "name": "Cree",
+      "url": "https://open.spotify.com/track/61uDqyIhqym2hgGQ1W6vkG"
     },
     {
       "album": {
@@ -639,10 +719,28 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 196115,
       "name": "Hostage",
       "url": "https://open.spotify.com/track/2cTpCY1OfCMuXlH0K2ztw6"
+    },
+    {
+      "album": {
+        "name": "Top Prize",
+        "url": "https://open.spotify.com/album/4d6EnDzUrDot75g66ClShl"
+      },
+      "artists": [
+        {
+          "name": "Alkaline",
+          "url": "https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196115,
+      "name": "Hostage",
+      "url": "https://open.spotify.com/track/3tP5YkONgQz9eMu5P97RA9"
     },
     {
       "album": {
@@ -661,10 +759,32 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 166687,
       "name": "Imperfections",
       "url": "https://open.spotify.com/track/0ISsHuxxDpoGl0HBZZosvT"
+    },
+    {
+      "album": {
+        "name": "Imperfections",
+        "url": "https://open.spotify.com/album/4Y6O56WU1RCfEXPmBnMhFf"
+      },
+      "artists": [
+        {
+          "name": "450",
+          "url": "https://open.spotify.com/artist/2v6V75NbousiJwy2HV44VL"
+        },
+        {
+          "name": "Weekday",
+          "url": "https://open.spotify.com/artist/2ZoRuY63B7fzl9HaKjlWoF"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168724,
+      "name": "Imperfections",
+      "url": "https://open.spotify.com/track/3FhjOKb9Zx8IUmcoBJRCJ6"
     },
     {
       "album": {
@@ -719,10 +839,46 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 178200,
       "name": "Maniac",
       "url": "https://open.spotify.com/track/1tCcOw0WZuKRkW5xl9EhMm"
+    },
+    {
+      "album": {
+        "name": "Top Prize",
+        "url": "https://open.spotify.com/album/4d6EnDzUrDot75g66ClShl"
+      },
+      "artists": [
+        {
+          "name": "Alkaline",
+          "url": "https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178200,
+      "name": "Maniac",
+      "url": "https://open.spotify.com/track/7mxpbEr40ApaC4wzKdSkuq"
+    },
+    {
+      "album": {
+        "name": "Top Prize",
+        "url": "https://open.spotify.com/album/4d6EnDzUrDot75g66ClShl"
+      },
+      "artists": [
+        {
+          "name": "Alkaline",
+          "url": "https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163800,
+      "name": "Ocean Wave",
+      "url": "https://open.spotify.com/track/6NSRwKmFyhNGPy54LWpFUv"
     },
     {
       "album": {
@@ -737,7 +893,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 163866,
       "name": "Ocean Wave",
       "url": "https://open.spotify.com/track/4eTwvH4pVt5U4kPfYgQQ19"
@@ -755,10 +911,28 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 178599,
       "name": "Perfect Timing",
       "url": "https://open.spotify.com/track/1oVOsqeVthHmALeMn38oqN"
+    },
+    {
+      "album": {
+        "name": "Perfect Timing",
+        "url": "https://open.spotify.com/album/4hkk8DkNZdTRHdlbkHZ37B"
+      },
+      "artists": [
+        {
+          "name": "Jada Kingdom",
+          "url": "https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178599,
+      "name": "Perfect Timing",
+      "url": "https://open.spotify.com/track/7BMhtjdRTfXe30eT9AOJu9"
     },
     {
       "album": {
@@ -791,10 +965,28 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 221016,
       "name": "Piana",
       "url": "https://open.spotify.com/track/2QT2B9AbK9wQForVGxyP9a"
+    },
+    {
+      "album": {
+        "name": "Mr. Universe EP",
+        "url": "https://open.spotify.com/album/3cu8ZbrRjwwQQazuGsGnSm"
+      },
+      "artists": [
+        {
+          "name": "Skillibeng",
+          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221016,
+      "name": "Piana",
+      "url": "https://open.spotify.com/track/5Np2tbdqkcKFNUwrwy2w0w"
     },
     {
       "album": {
@@ -935,6 +1127,24 @@
     {
       "album": {
         "name": "Roll Deep",
+        "url": "https://open.spotify.com/album/0DVnruHgsqHFIoYnmpYlc2"
+      },
+      "artists": [
+        {
+          "name": "10Tik",
+          "url": "https://open.spotify.com/artist/6I1j34QzSTWe6u4qQWKYJe"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207856,
+      "name": "Roll Deep",
+      "url": "https://open.spotify.com/track/5I55hcZJTmdVtyJC4Sn7ae"
+    },
+    {
+      "album": {
+        "name": "Roll Deep",
         "url": "https://open.spotify.com/album/24HPQqwhRn31huvNRg8War"
       },
       "artists": [
@@ -945,7 +1155,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 207856,
       "name": "Roll Deep",
       "url": "https://open.spotify.com/track/7qbYXi2qeCdBoSlDZs9swk"
@@ -1175,6 +1385,24 @@
     {
       "album": {
         "name": "Three Little Birds",
+        "url": "https://open.spotify.com/album/5hnQr1o6d92rF3xQ78xngP"
+      },
+      "artists": [
+        {
+          "name": "Vybz Kartel",
+          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208835,
+      "name": "Three Little Birds",
+      "url": "https://open.spotify.com/track/4bfAZUN7Y2yxxrANVpcErC"
+    },
+    {
+      "album": {
+        "name": "Three Little Birds",
         "url": "https://open.spotify.com/album/5EITrZvdxDsCYsztF4LlHA"
       },
       "artists": [
@@ -1185,7 +1413,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 208835,
       "name": "Three Little Birds",
       "url": "https://open.spotify.com/track/6sp0O9fvW24AlPX2NzFk0G"
@@ -1345,6 +1573,28 @@
     {
       "album": {
         "name": "Yahoo Boyz",
+        "url": "https://open.spotify.com/album/6h8yCyZibQMYez5ZgzFUDt"
+      },
+      "artists": [
+        {
+          "name": "Intence",
+          "url": "https://open.spotify.com/artist/3gwIlS9NOwBgwV3RfQIYiR"
+        },
+        {
+          "name": "Countree Hype",
+          "url": "https://open.spotify.com/artist/4trjztkEHNUqYhnW3XTG8C"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157800,
+      "name": "Yahoo Boyz",
+      "url": "https://open.spotify.com/track/4V7ebrVcz9cvcIhDF5SP2K"
+    },
+    {
+      "album": {
+        "name": "Yahoo Boyz",
         "url": "https://open.spotify.com/album/1RJtU38GiLuw0hkiC3dwtW"
       },
       "artists": [
@@ -1359,7 +1609,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 157800,
       "name": "Yahoo Boyz",
       "url": "https://open.spotify.com/track/66WY3lKgXd61ls1lD2cNPI"

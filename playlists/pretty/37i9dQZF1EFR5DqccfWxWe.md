@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6VuCylDMS94uSYiUpyDzLV">Julio Reyes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 180 likes - 151 songs - 8 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 181 likes - 151 songs - 8 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 | 76 | [Demons](https://open.spotify.com/track/7ENsj3LM785UVmHRjKRIkq) | [Brika](https://open.spotify.com/artist/3FMbhaYng6VoeCltbwqmtG) | [Voice Memos \(Deluxe\)](https://open.spotify.com/album/2Q1Ztwj2QKxQ5QfKBTpjcs) | 2:39 |
 | 77 | [Tanto Tanto](https://open.spotify.com/track/6crP0sQtEHyFFKHP2MsqJm) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [Visceral](https://open.spotify.com/album/1PjeKcjUrPAK38U1aGtPep) | 3:08 |
 | 78 | [Cadillac \(feat\. Manuel Medrano\)](https://open.spotify.com/track/7oAdQEMMDrPusH5vhoL2fI) | [Beatriz Luengo](https://open.spotify.com/artist/23cijmutocNvhM5xkcyyFF), [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Cuerpo y Alma](https://open.spotify.com/album/3Y5VB4scWDZAqa0CxD3uP9) | 3:27 |
-| 79 | [La Pena](https://open.spotify.com/track/2MhpzkfWvLJmT4WoodDiu6) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R) | [México de Mi Corazón, Vol\. 2](https://open.spotify.com/album/1Me7BNQom5WrqVsZE2igCY) | 3:27 |
-| 80 | [Los Rotos](https://open.spotify.com/track/6m8Trwk0TR8ZHLgRfcHiVZ) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [Los Rotos](https://open.spotify.com/album/3Jct1NzCRYQZno5UbLVgfP) | 3:26 |
+| 79 | [Los Rotos](https://open.spotify.com/track/6m8Trwk0TR8ZHLgRfcHiVZ) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [Los Rotos](https://open.spotify.com/album/3Jct1NzCRYQZno5UbLVgfP) | 3:26 |
+| 80 | [La Pena](https://open.spotify.com/track/2MhpzkfWvLJmT4WoodDiu6) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R) | [México de Mi Corazón, Vol\. 2](https://open.spotify.com/album/1Me7BNQom5WrqVsZE2igCY) | 3:27 |
 | 81 | [Encontrei](https://open.spotify.com/track/0IsDPloVKxEerfg2agbXdE) | [Marina Elali](https://open.spotify.com/artist/77Wl6L20WG41VO6pqpHrkL) | [Novelas](https://open.spotify.com/album/1W9H44bGFEzck4PlrmKq9q) | 4:13 |
 | 82 | [Dime Si Hay Algo](https://open.spotify.com/track/4BfQiVrz0EnPjH1nNoAXez) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [Dime Si Hay Algo](https://open.spotify.com/album/6qhosK2xnpgEL1PEtElNlz) | 2:40 |
 | 83 | [Perdón](https://open.spotify.com/track/13rN1xuHZuJ7ji46evbuor) | [Johann Vera](https://open.spotify.com/artist/3LP4XtcdBxAaO3ZevTTppB) | [Perdón](https://open.spotify.com/album/3rkJ8E3ExHU0ZeYkIMzAKn) | 3:14 |
@@ -107,8 +107,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 | 97 | [Taxi Man](https://open.spotify.com/track/3rHpETVQdSHjeCWfzy8cnw) | [Brika](https://open.spotify.com/artist/3FMbhaYng6VoeCltbwqmtG) | [Every Third Thought](https://open.spotify.com/album/2NItkHYNcAGCzYVS5ixoOq) | 4:12 |
 | 98 | [Calma](https://open.spotify.com/track/4j9AeZwJJaqBoAmT1sIBh4) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [Calma](https://open.spotify.com/album/56WyGihpAfyooVSew8PhNZ) | 2:55 |
 | 99 | [4.9.14](https://open.spotify.com/track/6vJ635INI2eIFpjXT4HmAG) | [Brika](https://open.spotify.com/artist/3FMbhaYng6VoeCltbwqmtG) | [Voice Memos \(Deluxe\)](https://open.spotify.com/album/2Q1Ztwj2QKxQ5QfKBTpjcs) | 0:34 |
-| 100 | [How I Used To Be](https://open.spotify.com/track/6f19F5WXT49qOlsyJSspSn) | [Rea Garvey](https://open.spotify.com/artist/0bmxU94V20pNJ2Vie9kFYv) | [Can’t Stand The Silence](https://open.spotify.com/album/1ZQ3n54DZU7aFmDbtbyLcO) | 4:12 |
-| 101 | [¿Dónde Está el Amor?](https://open.spotify.com/track/3Y6z65EYazmo2OoCSogrrX) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Dónde Está el Amor?](https://open.spotify.com/album/70jklr6nVL3beQKyrB4AUE) | 2:59 |
+| 100 | [¿Dónde Está el Amor?](https://open.spotify.com/track/3Y6z65EYazmo2OoCSogrrX) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Dónde Está el Amor?](https://open.spotify.com/album/70jklr6nVL3beQKyrB4AUE) | 2:59 |
+| 101 | [How I Used To Be](https://open.spotify.com/track/6f19F5WXT49qOlsyJSspSn) | [Rea Garvey](https://open.spotify.com/artist/0bmxU94V20pNJ2Vie9kFYv) | [Can’t Stand The Silence](https://open.spotify.com/album/1ZQ3n54DZU7aFmDbtbyLcO) | 4:12 |
 | 102 | [10.13.13](https://open.spotify.com/track/6Z6iy2MwcMzWlxlsq4MM1E) | [Brika](https://open.spotify.com/artist/3FMbhaYng6VoeCltbwqmtG) | [Voice Memos \(Deluxe\)](https://open.spotify.com/album/2Q1Ztwj2QKxQ5QfKBTpjcs) | 0:39 |
 | 103 | [Vida](https://open.spotify.com/track/1bMa9LFg3QbJSD86mDXeS7) | [Art House](https://open.spotify.com/artist/65SyY0PScxCW4QwaFjcz47), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [El General Naranjo \(Temas Originales de la Serie de FOX Premium\)](https://open.spotify.com/album/4lTOrerOwh3VaxQrEdj08q) | 3:27 |
 | 104 | [Stay](https://open.spotify.com/track/1jgBn5AgZuUx1RjUaUSmr4) | [Tamia](https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in) | [Passion Like Fire](https://open.spotify.com/album/3XgBuJztzOQIdaT41cnC0Y) | 3:33 |
@@ -137,8 +137,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 | 127 | [El Mundo](https://open.spotify.com/track/1zJ1IQfeh61HHyXBpdpYie) | [Florent Pagny](https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9) | [Amar Y Amar](https://open.spotify.com/album/6pdcuAT18Mny6dYkcdIfYs) | 0:36 |
 | 128 | [Alamogordo](https://open.spotify.com/track/7xnkwsbpoSxh2x3omS5S04) | [BOGART](https://open.spotify.com/artist/0Z98bFGEurTNFvYDfawx8c) | [Alamogordo](https://open.spotify.com/album/22HUvUv6ak6lLk9SKG4xlf) | 2:59 |
 | 129 | [Encanto Del Caribe \- Live From San Cristobal Castle, Puerto Rico/2011](https://open.spotify.com/track/2x2rUw7tAYyLxBuU8oBCHD) | [Arthur Hanlon](https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB) | [Encanto Del Caribe Arthur Hanlon & Friends \(Live From San Cristobal Castle, Puerto Rico/2011\)](https://open.spotify.com/album/6N4p9bLZ6AB0Kilc9jZLHk) | 3:54 |
-| 130 | [Body Language](https://open.spotify.com/track/7puYoz4WTJdwpzKBcQuVWu) | [Daniela Brooker](https://open.spotify.com/artist/4s6Xb7H01zAKW5xMMEIB0z) | [Nostalgia](https://open.spotify.com/album/2ogTJOxRHovXjSpqwq12fY) | 3:11 |
-| 131 | [El Viaje](https://open.spotify.com/track/6fWauREw9pqglqdwIXhBcY) | [Joy](https://open.spotify.com/artist/6iH6aIbOCOdO3Ja6JeyOm1) | [El Viaje](https://open.spotify.com/album/6hQ5cZWCg76ssbeRbmJ9Pf) | 2:12 |
+| 130 | [El Viaje](https://open.spotify.com/track/6fWauREw9pqglqdwIXhBcY) | [Joy](https://open.spotify.com/artist/6iH6aIbOCOdO3Ja6JeyOm1) | [El Viaje](https://open.spotify.com/album/6hQ5cZWCg76ssbeRbmJ9Pf) | 2:12 |
+| 131 | [Body Language](https://open.spotify.com/track/7puYoz4WTJdwpzKBcQuVWu) | [Daniela Brooker](https://open.spotify.com/artist/4s6Xb7H01zAKW5xMMEIB0z) | [Nostalgia](https://open.spotify.com/album/2ogTJOxRHovXjSpqwq12fY) | 3:11 |
 | 132 | [This Journey](https://open.spotify.com/track/2OriirufgULnvbXCYmhaEo) | [Joy](https://open.spotify.com/artist/6iH6aIbOCOdO3Ja6JeyOm1) | [This Journey](https://open.spotify.com/album/7C7zpfYwyXRIePtqkW8RHO) | 2:12 |
 | 133 | [Cartagena \- Live From San Cristobal Castle, Puerto Rico/2011](https://open.spotify.com/track/0FuwAJ38C726vXqkDYvcIu) | [Arthur Hanlon](https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB) | [Encanto Del Caribe Arthur Hanlon & Friends \(Live From San Cristobal Castle, Puerto Rico/2011\)](https://open.spotify.com/album/6N4p9bLZ6AB0Kilc9jZLHk) | 4:07 |
 | 134 | [Rhumboso](https://open.spotify.com/track/6u2ojrUkmkC7pEqhuKXePj) | [Nestor Torres](https://open.spotify.com/artist/25z14Qw0e8uN0dIaWVe2Mk) | [Dances, Prayers, & Meditations For Peace](https://open.spotify.com/album/1r2pRDvGEXjXZhon1DnStO) | 4:54 |
@@ -160,4 +160,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 | 150 | [Remembering](https://open.spotify.com/track/2rMyOaFPZVqdHEsyUc8kB0) | [Claudia Albuquerque](https://open.spotify.com/artist/1hqcycgAMdUaZtAVpHwGVT) | [Music Freedom](https://open.spotify.com/album/6LZG3zFRBnR3tLom1WdMsU) | 3:37 |
 | 151 | [Talk](https://open.spotify.com/track/4wYJf3FB9m6XS2DjSZRbfk) | [Kreesha Turner](https://open.spotify.com/artist/5jrXeH1yhdshRakLMBtkdO) | [Talk](https://open.spotify.com/album/1ejesDMKJZle7bQDkScpeP) | 3:51 |
 
-Snapshot ID: `Mjc4MDIxNDMsMDAwMDAwMDBiNDY4MWJlMmRlMDAxMmZhNTg5NmRmNzc3ZmM1OWEzMg==`
+Snapshot ID: `Mjc4MDM4MjMsMDAwMDAwMDA2MGEwNjdjZTRmYmZjMjgxYWNkYmRjZTllYjJjOGEyMQ==`

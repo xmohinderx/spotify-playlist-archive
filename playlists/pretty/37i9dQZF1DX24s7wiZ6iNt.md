@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24s7wiZ6iNt.md) - [plain]
 
 > Our editorial picks for Indie's best of 2021 in Canada\. Cover: EKKSTACY
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,151 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,153 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24s7wiZ6iNt.md) - [plain]
 | 15 | [U&ME](https://open.spotify.com/track/23YxxyxIHbIj8zBf4ZfGSX) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [U&ME \(Baauer Remix\)](https://open.spotify.com/album/7ftT31XifyMfoUIyoqxkop) | 3:18 |
 | 16 | [Up Granville](https://open.spotify.com/track/38SpxensPT9J0iNbMmQIjd) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Up Granville](https://open.spotify.com/album/3A1KfQ0xiG0a6u3V7FTA9p) | 3:50 |
 | 17 | [Liz](https://open.spotify.com/track/5wJ9sSG7NItwu34jMnyxqa) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Liz](https://open.spotify.com/album/38WHZJFOzJY6k5INRXigZC) | 2:55 |
-| 18 | [DIMANCHE SOIR](https://open.spotify.com/track/1xTasIo5MGbmSi792apTaz) | [Hubert Lenoir](https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj) | [OCTEMBRE](https://open.spotify.com/album/6U0usnBvoliJcfq7xxmEZA) | 3:09 |
+| 18 | [DIMANCHE SOIR](https://open.spotify.com/track/0R7qTLkd6VR3QJeEmdG2by) | [Hubert Lenoir](https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj) | [OCTEMBRE](https://open.spotify.com/album/3Njv7LsQ4QBCYrtAvexhdO) | 3:09 |
 | 19 | [Weightless](https://open.spotify.com/track/39ctmPVTtAMKeVJhMq5dS5) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 3:04 |
 | 20 | [Amoeba](https://open.spotify.com/track/0HAqq2GcQKyi3s87GuN7jU) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sling](https://open.spotify.com/album/32ium7Cxb1Xwp2MLzH2459) | 3:48 |
 | 21 | [Run Away to Mars](https://open.spotify.com/track/2kzb2c50m1prBuB1m9rhTZ) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [HELGMYS](https://open.spotify.com/album/3T6WfgQ7b6evh5m2cHm81h) | 3:33 |
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24s7wiZ6iNt.md) - [plain]
 | 35 | [Understand It](https://open.spotify.com/track/7AlEk4lAmkWBTu9jIGqWZH) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [Understand It](https://open.spotify.com/album/1z9aCbHFLbiQwrLwhNHq2M) | 3:40 |
 | 36 | [Valentine](https://open.spotify.com/track/1RcGoniZzjY3oOatGifYK1) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Valentine](https://open.spotify.com/album/0zNWhYDalgisc4uweLIGZJ) | 3:16 |
 | 37 | [Mélamine](https://open.spotify.com/track/0JtMrH5khKzzjDztgZrpkI) | [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Notre\-Dame\-des\-Sept\-Douleurs](https://open.spotify.com/album/4kNpkRG2YpK4jV9OoopVNh) | 2:50 |
-| 38 | [I Don't Live Here Anymore \(feat\. Lucius\)](https://open.spotify.com/track/5Uou8idst1XJc0F6MRAk5S) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU), [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [I Don’t Live Here Anymore](https://open.spotify.com/album/69jQsPvJzMvcb2fGqI2qaB) | 5:27 |
+| 38 | [I Don't Live Here Anymore](https://open.spotify.com/track/7uBOrEoG9V697UzLzqsKre) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU), [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Honeybrains \- Just Rock](https://open.spotify.com/album/7ddAAmGaDQToNTmL4MCa0Z) | 5:27 |
 | 39 | [Mindless](https://open.spotify.com/track/63JuomZqCbDTgZ4lect9T2) | [HOMESHAKE](https://open.spotify.com/artist/4DMSJzGjw2SMkKAT5EEE5u) | [Under The Weather](https://open.spotify.com/album/5qwVn38pLMvOFSki8dbRrp) | 2:49 |
 | 40 | [Close To You](https://open.spotify.com/track/50PyquzZ9BaBwLZZd1AuuV) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Harmony House](https://open.spotify.com/album/0brMHlMYz5t58uT1Q4bkdF) | 3:14 |
 | 41 | [Love Proceeding](https://open.spotify.com/track/5F8XPD481L6K2s8h02Vxuo) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Arthur Verocai](https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ) | [Talk Memory](https://open.spotify.com/album/594yqwr1MOvVX0UBnOWftY) | 5:25 |
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24s7wiZ6iNt.md) - [plain]
 | 70 | [What's Up](https://open.spotify.com/track/6rsKQmqhgJm9SzbhH2mjlj) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [Hurt Is Boring](https://open.spotify.com/album/6jmSNj5krhwNyfUjJo6D7I) | 2:21 |
 | 71 | [Call U Tomorrow](https://open.spotify.com/track/1kPee0zC6xh3DT1mlG5a82) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Call U Tomorrow](https://open.spotify.com/album/7pdP0BWJ8Faz6ZbWb3UCGc) | 3:06 |
 | 72 | [Fallen Star](https://open.spotify.com/track/60F6pgM6H6miNr5AmjxwjL) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Fallen Star](https://open.spotify.com/album/6GzXN4CWv0p5jIMKRU0ZBZ) | 3:44 |
-| 73 | [Lonely Romance](https://open.spotify.com/track/31SXKJBLm38BkGB3I2nVsZ) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [To You EP](https://open.spotify.com/album/3Anf3lNMU7cCesmckx62wI) | 5:42 |
+| 73 | [Lonely Romance](https://open.spotify.com/track/65pABo2Ke4fJkDiGiNybGv) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [The Anjunadeep Edition 384 with James Grant](https://open.spotify.com/album/4GTGlZ3hTvDzr3PBjqr0xX) | 5:42 |
 | 74 | [Bitches In The Bathroom](https://open.spotify.com/track/4jelQlTVvMmt3z0zxq9bUk) | [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [Bitches In The Bathroom](https://open.spotify.com/album/1Z1IjE7xIGuH1jjFBsUOrJ) | 2:59 |
 | 75 | [If You Ever Leave, I'm Coming with You](https://open.spotify.com/track/0nKpc6sQltAgsbjotGDSix) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Ready For The High](https://open.spotify.com/album/6ArkLLoHB2pJwgblP2zvNL) | 2:49 |
 | 76 | [DNA](https://open.spotify.com/track/2pynCI5GBvS41YlbkA7Yhh) | [a l l i e](https://open.spotify.com/artist/4XN4jO4xdDFw0EhdOTN7re), [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Tabula Rasa](https://open.spotify.com/album/2zRT3RmIBeoFVuAOA2TnKL) | 3:17 |
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24s7wiZ6iNt.md) - [plain]
 | 79 | [Follow Me Around](https://open.spotify.com/track/6zc5BnlGNETdLqsu2gK3y2) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Follow Me Around](https://open.spotify.com/album/2vTAZfcTyauC6ZG29d6yB5) | 5:19 |
 | 80 | [Good Recipe](https://open.spotify.com/track/5EwTVKsO2vCw81taf6awPq) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [Good Recipe](https://open.spotify.com/album/7ywplgIyG56OtTafvKWr6b) | 2:31 |
 | 81 | [Live Alone](https://open.spotify.com/track/7J4g3pkfo1jGEVdfZYfG3v) | [Anachnid](https://open.spotify.com/artist/3InHKoRqLAoPvPfH5T6WEO) | [Live Alone](https://open.spotify.com/album/6tn2vbBv4aERyjaVgJMqSZ) | 4:47 |
-| 82 | [Don't Know Why](https://open.spotify.com/track/1ukvyO3hy4NQ59MTPOOWFz) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [Heaven, Wait](https://open.spotify.com/album/5kQwGFGp61L6iYlk8tgHCS) | 3:09 |
+| 82 | [Don't Know Why](https://open.spotify.com/track/0UJNHaZIuRHVlc5fKtav0z) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [Don't Know Why](https://open.spotify.com/album/0VNovm8OBZjtfjqC4iUPLO) | 3:09 |
 | 83 | [Bound \(with Blood Orange\)](https://open.spotify.com/track/3QVOw80vrsAV8UpNMUKI3G) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Letter Blue](https://open.spotify.com/album/2EfIa1JzzYjckiiEbtM7g3) | 3:40 |
 | 84 | [Iron](https://open.spotify.com/track/2oVI4RJpbUIHU61q6Gf4pw) | [Tennyson](https://open.spotify.com/artist/3Nb8N20WChM0swo5qWTvm8) | [Iron](https://open.spotify.com/album/0T3nvlxrpgewPFhQqnvJaD) | 3:36 |
 | 85 | [All My Wishes](https://open.spotify.com/track/2CyonBH2e6WCTaV8ZWNBfG) | [Fernie](https://open.spotify.com/artist/5PemoTSZMQp59WnXZZ4EhI) | [Aurora](https://open.spotify.com/album/4X7K9bedTvlVHd06eywvHL) | 1:44 |
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24s7wiZ6iNt.md) - [plain]
 | 91 | [Ukulele](https://open.spotify.com/track/2CFfXB3DwicvuraLddhokV) | [Emma Beko](https://open.spotify.com/artist/4j7NgnYyG3MjsU7OfJnrzG) | [BLUE](https://open.spotify.com/album/56CovnRrY1xrrMSWLkk0L6) | 3:01 |
 | 92 | [Motorbike](https://open.spotify.com/track/3mMduiD8yb4IaS5tZKqSZy) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Gold\-Diggers Sound](https://open.spotify.com/album/6pKaUDUnQiZgWLPZJqwkzn) | 3:08 |
 | 93 | [Cold World](https://open.spotify.com/track/2WxZsGInatsAG5Z2NCgCHN) | [Geoffroy](https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ) | [Cold World](https://open.spotify.com/album/2HJxiWkcVAbXuOMaY5wEor) | 3:44 |
-| 94 | [Jour 2](https://open.spotify.com/track/2FyxwoPkYNyweSmgnvsMhd) | [Hildegard](https://open.spotify.com/artist/2Ffds2i0bCHVuLiJq6GqCC), [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0), [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [Hildegard](https://open.spotify.com/album/6w7nCE7qv2GNngPYW6HZgV) | 4:41 |
+| 94 | [Jour 2](https://open.spotify.com/track/096tjjJjXqQA3h99KsrJIc) | [Hildegard](https://open.spotify.com/artist/2Ffds2i0bCHVuLiJq6GqCC), [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0), [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [Jour 2](https://open.spotify.com/album/6oPjftW7z87lqHWZu7Es58) | 4:41 |
 | 95 | [Holy Father](https://open.spotify.com/track/4T71MQaQ7RKRD7Dv40kia5) | [Elliot Maginot](https://open.spotify.com/artist/0dX5TveSmyFKxWlYtnWS2X) | [Easy Morning](https://open.spotify.com/album/6B8PeC9KW9hORCInaFI0mz) | 5:15 |
 | 96 | [You Can Do It](https://open.spotify.com/track/3bKytazUrCb1vlgKmaUo12) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [You Can Do It](https://open.spotify.com/album/5BYQxikCnimaiq5qQNgTbb) | 3:48 |
 | 97 | [‎mads ‎mikkelsen](https://open.spotify.com/track/1cVZkg7Sxpe01yagEHNDrh) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [‎mads ‎mikkelsen](https://open.spotify.com/album/39mls2U0fHrxwnx2g94hzO) | 3:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24s7wiZ6iNt.md) - [plain]
 | 99 | [Moon Girl](https://open.spotify.com/track/5wm2vGAyBWAtpYRexMmy4T) | [Moonshine](https://open.spotify.com/artist/6uZcG9ex8hJKEo3XUyMxEX), [Kris the $pirit](https://open.spotify.com/artist/6qqwLx8jRPkjUz0mlIvB6H), [Victor Bongiovanni](https://open.spotify.com/artist/0YYuoHejzcETsCCEyCUFnh) | [SMS for Location, Vol\. 4](https://open.spotify.com/album/6wTdl91po1VgHgLsFa6YJk) | 2:35 |
 | 100 | [Mermaid From L.A.](https://open.spotify.com/track/5uzUMWMKG2suofVX4wUWrM) | [Bealby Point](https://open.spotify.com/artist/3RFcQWqSi7oW9hBmapQ25X) | [Mermaid From L.A.](https://open.spotify.com/album/5AD3pHTy0BcJmHu13k3j3q) | 3:16 |
 
-Snapshot ID: `MTYzODM2NjMwMCwwMDAwMDAwMDFkMzkyY2ZlYTFiYTM0YTk2ZTQ0NmRkNzVhOWVmMjJk`
+Snapshot ID: `MTYzODM2NjMwMCwwMDAwMDAwMDk5NjI1M2Y2OTVhZDY2YjcwN2Q0ZDVjMjc5M2UyYzA0`

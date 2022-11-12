@@ -1,12 +1,12 @@
 {
   "description": "it was never just a phase ",
-  "num_followers": 58225,
+  "num_followers": 58301,
   "original_name": "dear diary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDY4NzU5NSwwMDAwMDAwMDdkMDljYjI1YzIxNmJhZTIxNzA5ZTdlMzFlOGM4MTAx",
+  "snapshot_id": "MTY2MDY4NzU5NSwwMDAwMDAwMDYyNDBhZmJmZTUwZDNjMTMyNzAzZmRlNjJiOTc0ODg4",
   "tracks": [
     {
       "added_at": "2022-08-16 22:06:35",
@@ -91,22 +91,6 @@
     {
       "added_at": "2022-08-16 22:06:35",
       "album": {
-        "name": "Sempiternal (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6IYPmM3xsOPL2XPSvf1ZAz"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 228146,
-      "name": "Can You Feel My Heart",
-      "url": "https://open.spotify.com/track/0WSa1sucoNRcEeULlZVQXj"
-    },
-    {
-      "added_at": "2022-08-16 22:06:35",
-      "album": {
         "name": "SOUR",
         "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 262333,
       "name": "Boulevard of Broken Dreams",
       "url": "https://open.spotify.com/track/5GorCbAP4aL0EJ16frG2hd"
+    },
+    {
+      "added_at": "2022-08-16 22:06:35",
+      "album": {
+        "name": "2004 - 2013",
+        "url": "https://open.spotify.com/album/09SCnIP5BPLqhTA92iPVec"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 227296,
+      "name": "Can You Feel My Heart",
+      "url": "https://open.spotify.com/track/5z0iBVc00KwiIcaZBW8kQW"
     },
     {
       "added_at": "2022-08-16 22:06:35",
@@ -271,22 +271,6 @@
     {
       "added_at": "2022-08-16 22:06:35",
       "album": {
-        "name": "DiE4u",
-        "url": "https://open.spotify.com/album/4L4TlrXB94790rqWBprweP"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 207141,
-      "name": "DiE4u",
-      "url": "https://open.spotify.com/track/2gT72HL4Y84K2Mle3miAMJ"
-    },
-    {
-      "added_at": "2022-08-16 22:06:35",
-      "album": {
         "name": "Vices & Virtues",
         "url": "https://open.spotify.com/album/5S0nsfYhHa1uz10V4yoWSL"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 226680,
       "name": "The Ballad of Mona Lisa",
       "url": "https://open.spotify.com/track/5rLi8B8qgk6qThwRnKHW2P"
+    },
+    {
+      "added_at": "2022-08-16 22:06:35",
+      "album": {
+        "name": "DiE4u",
+        "url": "https://open.spotify.com/album/4L4TlrXB94790rqWBprweP"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 207141,
+      "name": "DiE4u",
+      "url": "https://open.spotify.com/track/2gT72HL4Y84K2Mle3miAMJ"
     },
     {
       "added_at": "2022-08-16 22:06:35",
@@ -471,30 +471,18 @@
     {
       "added_at": "2022-08-16 22:06:35",
       "album": {
-        "name": "Teenage Heartbreak",
-        "url": "https://open.spotify.com/album/6J3MyFpk3rKOlthkLrW7q9"
+        "name": "Shapeshift",
+        "url": "https://open.spotify.com/album/5hgChCe2iQ66hwlMAINHyf"
       },
       "artists": [
         {
-          "name": "Huddy",
-          "url": "https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f"
-        },
-        {
-          "name": "iann dior",
-          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
-        },
-        {
-          "name": "Tyson Ritter",
-          "url": "https://open.spotify.com/artist/683FoiwWxywQus0rfoml0x"
-        },
-        {
-          "name": "Travis Barker",
-          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
+          "name": "Jenna Doe",
+          "url": "https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT"
         }
       ],
-      "duration_ms": 156000,
-      "name": "Don't Freak Out (feat. iann dior, Tyson Ritter & Travis Barker)",
-      "url": "https://open.spotify.com/track/1IflC51n9KG5JJh5sHVU1D"
+      "duration_ms": 145173,
+      "name": "Shapeshift",
+      "url": "https://open.spotify.com/track/08KAB8LahxJB28HExOmPnL"
     },
     {
       "added_at": "2022-08-16 22:06:35",
@@ -511,22 +499,6 @@
       "duration_ms": 182826,
       "name": "Dear Maria, Count Me In",
       "url": "https://open.spotify.com/track/0nEcDFFNqdmnbTiGy6RE2Y"
-    },
-    {
-      "added_at": "2022-08-16 22:06:35",
-      "album": {
-        "name": "Shapeshift",
-        "url": "https://open.spotify.com/album/5hgChCe2iQ66hwlMAINHyf"
-      },
-      "artists": [
-        {
-          "name": "Jenna Doe",
-          "url": "https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT"
-        }
-      ],
-      "duration_ms": 145173,
-      "name": "Shapeshift",
-      "url": "https://open.spotify.com/track/08KAB8LahxJB28HExOmPnL"
     },
     {
       "added_at": "2022-08-16 22:06:35",
@@ -579,26 +551,6 @@
     {
       "added_at": "2022-08-16 22:06:35",
       "album": {
-        "name": "Tickets To My Downfall (SOLD OUT Deluxe)",
-        "url": "https://open.spotify.com/album/13lMLnHs5qsmm687oRc3VC"
-      },
-      "artists": [
-        {
-          "name": "Machine Gun Kelly",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        },
-        {
-          "name": "Travis Barker",
-          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
-        }
-      ],
-      "duration_ms": 201176,
-      "name": "Misery Business",
-      "url": "https://open.spotify.com/track/5YEHrYUjG9e0VPQLCp6vGo"
-    },
-    {
-      "added_at": "2022-08-16 22:06:35",
-      "album": {
         "name": "The Breakfast Club (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2TdlMuVGZfRMgPvB467tu2"
       },
@@ -615,6 +567,26 @@
       "duration_ms": 129339,
       "name": "Choose Life",
       "url": "https://open.spotify.com/track/64bFcGOGHhAtNtYzneEDJV"
+    },
+    {
+      "added_at": "2022-08-16 22:06:35",
+      "album": {
+        "name": "Tickets To My Downfall (SOLD OUT Deluxe)",
+        "url": "https://open.spotify.com/album/13lMLnHs5qsmm687oRc3VC"
+      },
+      "artists": [
+        {
+          "name": "Machine Gun Kelly",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        },
+        {
+          "name": "Travis Barker",
+          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
+        }
+      ],
+      "duration_ms": 201176,
+      "name": "Misery Business",
+      "url": "https://open.spotify.com/track/5YEHrYUjG9e0VPQLCp6vGo"
     },
     {
       "added_at": "2022-08-16 22:06:35",
@@ -831,6 +803,22 @@
       "duration_ms": 152933,
       "name": "in love",
       "url": "https://open.spotify.com/track/0jcDwzxkfzdRHLiVHiRQII"
+    },
+    {
+      "added_at": "2022-08-16 22:06:35",
+      "album": {
+        "name": "please put me in a medically induced coma",
+        "url": "https://open.spotify.com/album/2pPYJUCaxJTApLpglmBpaL"
+      },
+      "artists": [
+        {
+          "name": "carolesdaughter",
+          "url": "https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB"
+        }
+      ],
+      "duration_ms": 186902,
+      "name": "please put me in a medically induced coma",
+      "url": "https://open.spotify.com/track/4MY8pe89WnW7xVOxUN4hmg"
     },
     {
       "added_at": "2022-08-16 22:06:35",

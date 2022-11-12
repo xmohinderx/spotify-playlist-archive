@@ -4,7 +4,7 @@
 
 > Semplicemente noi.
 
-236 songs - 12 hr 29 min - [published](https://open.spotify.com/playlist/0l80wId7YOuXBlEY4SFFZ4)
+237 songs - 12 hr 32 min - [published](https://open.spotify.com/playlist/0l80wId7YOuXBlEY4SFFZ4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [Don't Start Now](https://open.spotify.com/track/3PfIrDoz19wz7qK7tYeu62) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 3:03 | 2022-07-26 |  |
 | [Drippin' in Milano](https://open.spotify.com/track/1TrjxEcRPHvaLF3saKCSs4) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [Drippin' in Milano](https://open.spotify.com/album/0yAArQfNMOEnB5G3KvTFcU) | 2:39 | 2022-04-27 | 2022-07-29 |
 | [drivers license](https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 4:02 | 2022-07-26 | 2022-11-11 |
-| [Dynamite](https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) | 3:19 | 2022-07-26 |  |
+| [Dynamite](https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) | 3:19 | 2022-07-26 | 2022-11-12 |
 | [Envolver](https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Envolver](https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7) | 3:13 | 2022-04-27 |  |
 | [Extasi](https://open.spotify.com/track/6ojrj2NSj3EkMm05yiuaMG) | [Fred De Palma](https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q) | [Extasi](https://open.spotify.com/album/5D6d0m5tYnBz0wowzfLlQ6) | 2:37 | 2022-07-26 |  |
 | [Farfalle](https://open.spotify.com/track/1ZrRky95mkjZV0TX5PiiPh) | [Michele Merlo](https://open.spotify.com/artist/6ngQRJyPmD9dPecABvtYW2) | [Farfalle](https://open.spotify.com/album/57nYY1KWKNUBcW6y2FDoUe) | 3:41 | 2022-05-30 | 2022-06-01 |
@@ -129,6 +129,7 @@
 | [Memories](https://open.spotify.com/track/7AYP21Q4qnxw2WxETEvSRb) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Memories](https://open.spotify.com/album/2W5QlcRZ0zCwFk3pSK6PZd) | 4:08 | 2022-07-26 | 2022-09-30 |
 | [Meteoriti](https://open.spotify.com/track/1Lf1F7qEOS4O4wl9l8lmUq) | [Mr.Rain](https://open.spotify.com/artist/59MLbXG0jLVwJup3KAd6m1) | [Petrichor](https://open.spotify.com/album/77EYcClmqkA3rWSWvSOHSN) | 3:08 | 2022-04-27 | 2022-07-29 |
 | [MI FAI IMPAZZIRE](https://open.spotify.com/track/1x3Qb8np6S1UvpSLthwEJN) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [MI FAI IMPAZZIRE](https://open.spotify.com/album/59L5yJfDpvDFynmhe2QbYS) | 3:40 | 2022-04-27 | 2022-07-29 |
+| [Michelle Pfeiffer \(feat\. Tony Effe\)](https://open.spotify.com/track/1CGMJZj8kKIuK9kkO2TT7c) | [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [Michelle Pfeiffer \(feat\. Tony Effe\)](https://open.spotify.com/album/4sjE4QuZcasRCp7uYCdcv5) | 3:00 | 2022-10-27 |  |
 | [MIDDLE OF THE NIGHT](https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [MIDDLE OF THE NIGHT](https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM) | 3:04 | 2022-04-27 | 2022-09-30 |
 | [Millevoci](https://open.spotify.com/track/2Jn6Aiv9uOkNcPa1kHNCpc) | [Albe](https://open.spotify.com/artist/6eBpe3hqpzEJPqh8bREqI6) | [Millevoci](https://open.spotify.com/album/4azqvj4Ltqi9InIvlXMLDY) | 3:02 | 2022-04-27 | 2022-07-29 |
 | [Monster \(Shawn Mendes & Justin Bieber\)](https://open.spotify.com/track/2Z8yfpFX0ZMavHkcIeHiO1) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Monster](https://open.spotify.com/album/3yVVL2EYLp8g7gT08VvYKy) | 2:58 | 2022-10-27 |  |

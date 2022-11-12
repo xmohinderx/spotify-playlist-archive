@@ -1,12 +1,12 @@
 {
   "description": "New styles, deep sounds. Cover: Drugdealer",
-  "num_followers": 384832,
+  "num_followers": 384920,
   "original_name": "Modern Eclectic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMDMzOTg0MjBiOWFmYjVmZDZhY2M0ZDA2NDJhOGZhNDE4",
+  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMDVmNWI0MWFhNjI4ZjI2MzQ0Nzg2MWE1ZDk1Yzg4ZWQ3",
   "tracks": [
     {
       "added_at": "2022-10-14 04:00:00",
@@ -199,22 +199,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Without a Light",
-        "url": "https://open.spotify.com/album/2eVxQMHiWZ8P96B9QIlNdR"
-      },
-      "artists": [
-        {
-          "name": "Drew Holcomb & The Neighbors",
-          "url": "https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9"
-        }
-      ],
-      "duration_ms": 142200,
-      "name": "Without a Light",
-      "url": "https://open.spotify.com/track/1CYBnHYYbOAsuDCGa0zrw0"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Bonny Light Horseman",
         "url": "https://open.spotify.com/album/0FDyqe94Dh9j7U1Xyf3d8G"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 309072,
       "name": "Deep In Love",
       "url": "https://open.spotify.com/track/4fyqGylwyCpUTbgzYJ6RXN"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Without a Light",
+        "url": "https://open.spotify.com/album/2eVxQMHiWZ8P96B9QIlNdR"
+      },
+      "artists": [
+        {
+          "name": "Drew Holcomb & The Neighbors",
+          "url": "https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9"
+        }
+      ],
+      "duration_ms": 142200,
+      "name": "Without a Light",
+      "url": "https://open.spotify.com/track/1CYBnHYYbOAsuDCGa0zrw0"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -439,26 +439,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Love Factory",
-        "url": "https://open.spotify.com/album/0RZAwFJb7dAWACcbmfzBQ3"
-      },
-      "artists": [
-        {
-          "name": "Metronomy",
-          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
-        },
-        {
-          "name": "Katy J Pearson",
-          "url": "https://open.spotify.com/artist/6xBsaFua2lgAUlNv8Yh0nQ"
-        }
-      ],
-      "duration_ms": 319777,
-      "name": "Love Factory",
-      "url": "https://open.spotify.com/track/6chIuYEKToP0M1vg0fXN95"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Another Friday Night / Hot Heavy Summer / Sister",
         "url": "https://open.spotify.com/album/2rsmAi0OAtqU4Er2qvhRUa"
       },
@@ -479,22 +459,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Picture Window",
-        "url": "https://open.spotify.com/album/0dVDYgYT8YK6WM69hgheeF"
-      },
-      "artists": [
-        {
-          "name": "Kristine Leschper",
-          "url": "https://open.spotify.com/artist/5j3howIfVr9Jm0AqHNapwf"
-        }
-      ],
-      "duration_ms": 282026,
-      "name": "Picture Window",
-      "url": "https://open.spotify.com/track/5sRVuINnM37MVfUFS2zOfJ"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Fatal Line",
         "url": "https://open.spotify.com/album/02389joKGpQeSgbeMocOI2"
       },
@@ -511,6 +475,42 @@
       "duration_ms": 181933,
       "name": "Fatal Line",
       "url": "https://open.spotify.com/track/60TzCPjii0JKAQtQTENYpn"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Picture Window",
+        "url": "https://open.spotify.com/album/0dVDYgYT8YK6WM69hgheeF"
+      },
+      "artists": [
+        {
+          "name": "Kristine Leschper",
+          "url": "https://open.spotify.com/artist/5j3howIfVr9Jm0AqHNapwf"
+        }
+      ],
+      "duration_ms": 282026,
+      "name": "Picture Window",
+      "url": "https://open.spotify.com/track/5sRVuINnM37MVfUFS2zOfJ"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Love Factory",
+        "url": "https://open.spotify.com/album/0RZAwFJb7dAWACcbmfzBQ3"
+      },
+      "artists": [
+        {
+          "name": "Metronomy",
+          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
+        },
+        {
+          "name": "Katy J Pearson",
+          "url": "https://open.spotify.com/artist/6xBsaFua2lgAUlNv8Yh0nQ"
+        }
+      ],
+      "duration_ms": 319777,
+      "name": "Love Factory",
+      "url": "https://open.spotify.com/track/6chIuYEKToP0M1vg0fXN95"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -651,6 +651,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Fits Of Laughter",
+        "url": "https://open.spotify.com/album/1SuYWmzfeZOnStKfSfnJ0D"
+      },
+      "artists": [
+        {
+          "name": "Bendigo Fletcher",
+          "url": "https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM"
+        }
+      ],
+      "duration_ms": 251746,
+      "name": "Sugar in the Creek",
+      "url": "https://open.spotify.com/track/0Ppp8AhUasTiQxp4RHwyj5"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Bottle It Up",
         "url": "https://open.spotify.com/album/6KyRKYNzETURqiupPRygbg"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 293866,
       "name": "Living Proof",
       "url": "https://open.spotify.com/track/4VhvGhj8pdAqFJBuAfUW38"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Fits Of Laughter",
-        "url": "https://open.spotify.com/album/1SuYWmzfeZOnStKfSfnJ0D"
-      },
-      "artists": [
-        {
-          "name": "Bendigo Fletcher",
-          "url": "https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM"
-        }
-      ],
-      "duration_ms": 251746,
-      "name": "Sugar in the Creek",
-      "url": "https://open.spotify.com/track/0Ppp8AhUasTiQxp4RHwyj5"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -751,18 +751,38 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "The Pool",
-        "url": "https://open.spotify.com/album/7FEdabAF4tVaiXTCmykn2t"
+        "name": "i,i",
+        "url": "https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW"
       },
       "artists": [
         {
-          "name": "River Whyless",
-          "url": "https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH"
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 242562,
-      "name": "The Pool",
-      "url": "https://open.spotify.com/track/3I8Y491lACYzJTM8fmIWdI"
+      "duration_ms": 141666,
+      "name": "Marion",
+      "url": "https://open.spotify.com/track/4Pzg3KLuXxPJ2eFsPiN134"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Pressure Machine (Abridged)",
+        "url": "https://open.spotify.com/album/7j8a2kSxAtenkXPim6mwUB"
+      },
+      "artists": [
+        {
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 204466,
+      "name": "Runaway Horses (feat. Phoebe Bridgers) - Abridged",
+      "url": "https://open.spotify.com/track/3PeCWDczrGqdD1E3mbok2X"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -799,54 +819,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Pressure Machine (Abridged)",
-        "url": "https://open.spotify.com/album/7j8a2kSxAtenkXPim6mwUB"
+        "name": "The Pool",
+        "url": "https://open.spotify.com/album/7FEdabAF4tVaiXTCmykn2t"
       },
       "artists": [
         {
-          "name": "The Killers",
-          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+          "name": "River Whyless",
+          "url": "https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH"
         }
       ],
-      "duration_ms": 204466,
-      "name": "Runaway Horses (feat. Phoebe Bridgers) - Abridged",
-      "url": "https://open.spotify.com/track/3PeCWDczrGqdD1E3mbok2X"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "i,i",
-        "url": "https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 141666,
-      "name": "Marion",
-      "url": "https://open.spotify.com/track/4Pzg3KLuXxPJ2eFsPiN134"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Collections From The Whiteout",
-        "url": "https://open.spotify.com/album/09P40BHcaue9iF4QasXMTK"
-      },
-      "artists": [
-        {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        }
-      ],
-      "duration_ms": 257773,
-      "name": "What A Day - Edit",
-      "url": "https://open.spotify.com/track/3MW8spctuyf70mNAWhDlBv"
+      "duration_ms": 242562,
+      "name": "The Pool",
+      "url": "https://open.spotify.com/track/3I8Y491lACYzJTM8fmIWdI"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -863,6 +847,22 @@
       "duration_ms": 187120,
       "name": "Old Bone",
       "url": "https://open.spotify.com/track/5byJBGDhkVXs81MS3b3Ncq"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Collections From The Whiteout",
+        "url": "https://open.spotify.com/album/09P40BHcaue9iF4QasXMTK"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "duration_ms": 257773,
+      "name": "What A Day - Edit",
+      "url": "https://open.spotify.com/track/3MW8spctuyf70mNAWhDlBv"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "PIRATE RADIO*",
-        "url": "https://open.spotify.com/album/039CFhV3mgb8ujdSz0Kpp3"
-      },
-      "artists": [
-        {
-          "name": "Jean Dawson",
-          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
-        }
-      ],
-      "duration_ms": 189440,
-      "name": "PIRATE RADIO*",
-      "url": "https://open.spotify.com/track/04sZfyhVJs0feZjVDq53Y8"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Song For Our Daughter",
         "url": "https://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 247920,
       "name": "Held Down",
       "url": "https://open.spotify.com/track/1vlDwedZUvYaxt2FXoYGaJ"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "PIRATE RADIO*",
+        "url": "https://open.spotify.com/album/039CFhV3mgb8ujdSz0Kpp3"
+      },
+      "artists": [
+        {
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
+        }
+      ],
+      "duration_ms": 189440,
+      "name": "PIRATE RADIO*",
+      "url": "https://open.spotify.com/track/04sZfyhVJs0feZjVDq53Y8"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "This Is A Photograph",
-        "url": "https://open.spotify.com/album/6NMzokKOYpPO9VXDjmc5y6"
-      },
-      "artists": [
-        {
-          "name": "Kevin Morby",
-          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
-        }
-      ],
-      "duration_ms": 210333,
-      "name": "This Is A Photograph",
-      "url": "https://open.spotify.com/track/1hj8os1Xxiuo95atpJzfCp"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Optimism",
         "url": "https://open.spotify.com/album/2LrDS8mmPcANF46XdsuUUd"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 119372,
       "name": "Optimism",
       "url": "https://open.spotify.com/track/08nmO9CJOh6NRYltWAaWXF"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "This Is A Photograph",
+        "url": "https://open.spotify.com/album/6NMzokKOYpPO9VXDjmc5y6"
+      },
+      "artists": [
+        {
+          "name": "Kevin Morby",
+          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
+        }
+      ],
+      "duration_ms": 210333,
+      "name": "This Is A Photograph",
+      "url": "https://open.spotify.com/track/1hj8os1Xxiuo95atpJzfCp"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Stand For Myself",
-        "url": "https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV"
-      },
-      "artists": [
-        {
-          "name": "Yola",
-          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Dancing Away In Tears",
-      "url": "https://open.spotify.com/track/5PPrN7zj104wLUtAofZvwb"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Among Horses III",
         "url": "https://open.spotify.com/album/1EeXJ45fmNfRtHRGPWAjvz"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 123000,
       "name": "Francis",
       "url": "https://open.spotify.com/track/7g07tmYNBITxvbR3KaTZjU"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Stand For Myself",
+        "url": "https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV"
+      },
+      "artists": [
+        {
+          "name": "Yola",
+          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Dancing Away In Tears",
+      "url": "https://open.spotify.com/track/5PPrN7zj104wLUtAofZvwb"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Home Video",
-        "url": "https://open.spotify.com/album/2nwfSapJ3YIq7Ofad4Vuh1"
-      },
-      "artists": [
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 254735,
-      "name": "First Time",
-      "url": "https://open.spotify.com/track/5OLVjtDBzeHtqGTn5Pwo1B"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Different Kinds of Light",
         "url": "https://open.spotify.com/album/1f1u0MpV823YGBjQBb8JJ9"
       },
@@ -1291,18 +1275,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Happen",
-        "url": "https://open.spotify.com/album/5pNKUUIVZqaF2U4nkEMxO6"
+        "name": "Home Video",
+        "url": "https://open.spotify.com/album/2nwfSapJ3YIq7Ofad4Vuh1"
       },
       "artists": [
         {
-          "name": "Nick Hakim",
-          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
         }
       ],
-      "duration_ms": 253373,
-      "name": "Happen",
-      "url": "https://open.spotify.com/track/4TCMDoYMAGRzmvmBjnqUmw"
+      "duration_ms": 254735,
+      "name": "First Time",
+      "url": "https://open.spotify.com/track/5OLVjtDBzeHtqGTn5Pwo1B"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1319,6 +1303,22 @@
       "duration_ms": 201893,
       "name": "Strange Girl",
       "url": "https://open.spotify.com/track/5cK0wREGoDqNKECNlw8xzx"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Happen",
+        "url": "https://open.spotify.com/album/5pNKUUIVZqaF2U4nkEMxO6"
+      },
+      "artists": [
+        {
+          "name": "Nick Hakim",
+          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
+        }
+      ],
+      "duration_ms": 253373,
+      "name": "Happen",
+      "url": "https://open.spotify.com/track/4TCMDoYMAGRzmvmBjnqUmw"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "PAINLESS",
-        "url": "https://open.spotify.com/album/2IVL0vnFIe9uHWW1TAocC7"
-      },
-      "artists": [
-        {
-          "name": "Nil\u00fcfer Yanya",
-          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
-        }
-      ],
-      "duration_ms": 282373,
-      "name": "midnight sun",
-      "url": "https://open.spotify.com/track/7M3YPejLG9WxQS9i4ZHVXh"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Seventeen Again (feat. Novo Amor)",
         "url": "https://open.spotify.com/album/5f60fAxPrT39rjbmNssvvR"
       },
@@ -1655,22 +1639,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Tales Of America",
-        "url": "https://open.spotify.com/album/22R1HI790HTi7EypEQcTZB"
-      },
-      "artists": [
-        {
-          "name": "Ondara",
-          "url": "https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W"
-        }
-      ],
-      "duration_ms": 229906,
-      "name": "Saying Goodbye",
-      "url": "https://open.spotify.com/track/4PqgB442TI25iz4G6d6BBD"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Deli Daydreams",
         "url": "https://open.spotify.com/album/46PFhovdF7y9Q3Z7qdCohx"
       },
@@ -1687,6 +1655,22 @@
       "duration_ms": 294296,
       "name": "Eviction Notice",
       "url": "https://open.spotify.com/track/2BGC8XJPFRm3f7ZX2FRPNy"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Tales Of America",
+        "url": "https://open.spotify.com/album/22R1HI790HTi7EypEQcTZB"
+      },
+      "artists": [
+        {
+          "name": "Ondara",
+          "url": "https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W"
+        }
+      ],
+      "duration_ms": 229906,
+      "name": "Saying Goodbye",
+      "url": "https://open.spotify.com/track/4PqgB442TI25iz4G6d6BBD"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1859,18 +1843,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Heroes",
-        "url": "https://open.spotify.com/album/7817F6Nn9C1XdQmENndiks"
+        "name": "Cosmic Dancer",
+        "url": "https://open.spotify.com/album/2iYmMZu2Fmum7r6tFyZ2zn"
       },
       "artists": [
         {
-          "name": "Natalie Hemby",
-          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
         }
       ],
-      "duration_ms": 193897,
-      "name": "Heroes",
-      "url": "https://open.spotify.com/track/1FudW4lBMbxG1BVP7Ko1DT"
+      "duration_ms": 265995,
+      "name": "Cosmic Dancer",
+      "url": "https://open.spotify.com/track/5jXqgEjfy9IPrBv5SQtYtT"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1891,18 +1875,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Cosmic Dancer",
-        "url": "https://open.spotify.com/album/2iYmMZu2Fmum7r6tFyZ2zn"
+        "name": "Heroes",
+        "url": "https://open.spotify.com/album/7817F6Nn9C1XdQmENndiks"
       },
       "artists": [
         {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+          "name": "Natalie Hemby",
+          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
         }
       ],
-      "duration_ms": 265995,
-      "name": "Cosmic Dancer",
-      "url": "https://open.spotify.com/track/5jXqgEjfy9IPrBv5SQtYtT"
+      "duration_ms": 193897,
+      "name": "Heroes",
+      "url": "https://open.spotify.com/track/1FudW4lBMbxG1BVP7Ko1DT"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1959,22 +1943,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Warm Chris",
-        "url": "https://open.spotify.com/album/56rWsCsd2UF9l1XTpUfZ1v"
-      },
-      "artists": [
-        {
-          "name": "Aldous Harding",
-          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
-        }
-      ],
-      "duration_ms": 217066,
-      "name": "Lawn",
-      "url": "https://open.spotify.com/track/4YQe4UrNJ0AzFKA6BNQo0c"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Yard Sale",
         "url": "https://open.spotify.com/album/64RqRL8VVYKW7wsh3KY7Oa"
       },
@@ -2007,38 +1975,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Love Is Selfish",
-        "url": "https://open.spotify.com/album/3XzfsUkZx4TCGdchhJBI1A"
-      },
-      "artists": [
-        {
-          "name": "Jack White",
-          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
-        }
-      ],
-      "duration_ms": 172885,
-      "name": "Love Is Selfish",
-      "url": "https://open.spotify.com/track/5ZsJidhpJJ4qFhmp5h5oyk"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "True Love",
-        "url": "https://open.spotify.com/album/1rUuIrTj6F1PHo3v9Vlbl6"
-      },
-      "artists": [
-        {
-          "name": "Hovvdy",
-          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
-        }
-      ],
-      "duration_ms": 222586,
-      "name": "Blindsided",
-      "url": "https://open.spotify.com/track/0lPCROErEeqqqzwRMMXJHR"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2cWqFyCDTBXrTx5hy86qK5"
       },
@@ -2055,6 +1991,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Love Is Selfish",
+        "url": "https://open.spotify.com/album/3XzfsUkZx4TCGdchhJBI1A"
+      },
+      "artists": [
+        {
+          "name": "Jack White",
+          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
+        }
+      ],
+      "duration_ms": 172885,
+      "name": "Love Is Selfish",
+      "url": "https://open.spotify.com/track/5ZsJidhpJJ4qFhmp5h5oyk"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Wayfinder",
         "url": "https://open.spotify.com/album/5wRHPgsA4wtC2zDTOyp7DN"
       },
@@ -2067,22 +2019,6 @@
       "duration_ms": 182012,
       "name": "That's Life Honey",
       "url": "https://open.spotify.com/track/4ruhASOVIoqNGNXSjLwVQZ"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Keeps Me Light",
-        "url": "https://open.spotify.com/album/4X2JS2pMQD9NmoN6FhZCW6"
-      },
-      "artists": [
-        {
-          "name": "Tall Heights",
-          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
-        }
-      ],
-      "duration_ms": 226287,
-      "name": "Keeps Me Light",
-      "url": "https://open.spotify.com/track/2Py6ZjfZh23AkpQrC7CZyV"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -2119,18 +2055,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Fun House",
-        "url": "https://open.spotify.com/album/1LBaX90YupG7JKOHCWi4y0"
+        "name": "Keeps Me Light",
+        "url": "https://open.spotify.com/album/4X2JS2pMQD9NmoN6FhZCW6"
       },
       "artists": [
         {
-          "name": "Hand Habits",
-          "url": "https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5"
+          "name": "Tall Heights",
+          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
         }
       ],
-      "duration_ms": 254721,
-      "name": "Aquamarine",
-      "url": "https://open.spotify.com/track/1j8hpxvE9IfjR2Vk9ihjrK"
+      "duration_ms": 226287,
+      "name": "Keeps Me Light",
+      "url": "https://open.spotify.com/track/2Py6ZjfZh23AkpQrC7CZyV"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -2147,6 +2083,42 @@
       "duration_ms": 209819,
       "name": "Latch",
       "url": "https://open.spotify.com/track/2d1tlBbyST4TWmZ7xwdAXH"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Weather Balloons [Feat. Frances Cone]",
+        "url": "https://open.spotify.com/album/752tNJJGYbjlnFfSZBO9ju"
+      },
+      "artists": [
+        {
+          "name": "Susto",
+          "url": "https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt"
+        },
+        {
+          "name": "Frances Cone",
+          "url": "https://open.spotify.com/artist/5xKsfZBL84iULLWjvd4dWh"
+        }
+      ],
+      "duration_ms": 212502,
+      "name": "Weather Balloons [Feat. Frances Cone]",
+      "url": "https://open.spotify.com/track/4mOmMccRWthpaUtjPhiQm8"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Fun House",
+        "url": "https://open.spotify.com/album/1LBaX90YupG7JKOHCWi4y0"
+      },
+      "artists": [
+        {
+          "name": "Hand Habits",
+          "url": "https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5"
+        }
+      ],
+      "duration_ms": 254721,
+      "name": "Aquamarine",
+      "url": "https://open.spotify.com/track/1j8hpxvE9IfjR2Vk9ihjrK"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -2183,26 +2155,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Weather Balloons [Feat. Frances Cone]",
-        "url": "https://open.spotify.com/album/752tNJJGYbjlnFfSZBO9ju"
-      },
-      "artists": [
-        {
-          "name": "Susto",
-          "url": "https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt"
-        },
-        {
-          "name": "Frances Cone",
-          "url": "https://open.spotify.com/artist/5xKsfZBL84iULLWjvd4dWh"
-        }
-      ],
-      "duration_ms": 212502,
-      "name": "Weather Balloons [Feat. Frances Cone]",
-      "url": "https://open.spotify.com/track/4mOmMccRWthpaUtjPhiQm8"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "The Fight",
         "url": "https://open.spotify.com/album/0ArmKxlIjju4bog52Q33ZE"
       },
@@ -2219,22 +2171,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "We Are Olympians",
-        "url": "https://open.spotify.com/album/5KV0wZMvRNqxXLYJOgaIqf"
-      },
-      "artists": [
-        {
-          "name": "Andrew Bird",
-          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
-        }
-      ],
-      "duration_ms": 297453,
-      "name": "Olympians - Acoustic",
-      "url": "https://open.spotify.com/track/0d79BhweRgxqySiFBYelDg"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Quitters",
         "url": "https://open.spotify.com/album/4m0J4ljxRrsHJfXSmjiYUG"
       },
@@ -2247,6 +2183,22 @@
       "duration_ms": 208911,
       "name": "Rubberneckers",
       "url": "https://open.spotify.com/track/5bFCQlmeLTKT25oga5ltiA"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "We Are Olympians",
+        "url": "https://open.spotify.com/album/5KV0wZMvRNqxXLYJOgaIqf"
+      },
+      "artists": [
+        {
+          "name": "Andrew Bird",
+          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
+        }
+      ],
+      "duration_ms": 297453,
+      "name": "Olympians - Acoustic",
+      "url": "https://open.spotify.com/track/0d79BhweRgxqySiFBYelDg"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -2395,6 +2347,38 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Modern Woman",
+        "url": "https://open.spotify.com/album/30kbdtHtt6rJShWGeMsVcI"
+      },
+      "artists": [
+        {
+          "name": "Erin Rae",
+          "url": "https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6"
+        }
+      ],
+      "duration_ms": 204946,
+      "name": "Modern Woman",
+      "url": "https://open.spotify.com/track/5ZaSoSM8VR7OUiYyEKBmL9"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Nick Waterhouse",
+        "url": "https://open.spotify.com/album/1e1FoOAXam30VAJJb4q4Zk"
+      },
+      "artists": [
+        {
+          "name": "Nick Waterhouse",
+          "url": "https://open.spotify.com/artist/0V7uVrIYr4FwFvUN9S4kYr"
+        }
+      ],
+      "duration_ms": 200813,
+      "name": "I Feel an Urge Coming On",
+      "url": "https://open.spotify.com/track/501jsSXfxhgClQe4UDrofk"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Snowplow",
         "url": "https://open.spotify.com/album/2pvt0zp6tTBZdF1HZ50LsQ"
       },
@@ -2415,26 +2399,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Lighten Up",
-        "url": "https://open.spotify.com/album/5MT2lgCDRZ1AfHrQ3pklHI"
-      },
-      "artists": [
-        {
-          "name": "Erin Rae",
-          "url": "https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6"
-        },
-        {
-          "name": "Kevin Morby",
-          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
-        }
-      ],
-      "duration_ms": 216920,
-      "name": "Can't See Stars (feat. Kevin Morby)",
-      "url": "https://open.spotify.com/track/4vDEQxivxtfbgmEHtsJ29H"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Don't Want Your Love",
         "url": "https://open.spotify.com/album/01VhhE9VOeFoBlKYRUv87d"
       },
@@ -2451,22 +2415,6 @@
       "duration_ms": 212376,
       "name": "Don't Want Your Love",
       "url": "https://open.spotify.com/track/1d9BwBTqmH8qKELdwn2PH0"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Nick Waterhouse",
-        "url": "https://open.spotify.com/album/1e1FoOAXam30VAJJb4q4Zk"
-      },
-      "artists": [
-        {
-          "name": "Nick Waterhouse",
-          "url": "https://open.spotify.com/artist/0V7uVrIYr4FwFvUN9S4kYr"
-        }
-      ],
-      "duration_ms": 200813,
-      "name": "I Feel an Urge Coming On",
-      "url": "https://open.spotify.com/track/501jsSXfxhgClQe4UDrofk"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -2503,18 +2451,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Modern Woman",
-        "url": "https://open.spotify.com/album/30kbdtHtt6rJShWGeMsVcI"
+        "name": "pak it in // mama",
+        "url": "https://open.spotify.com/album/7fbNuLkq7MOLzrajDNymJp"
       },
       "artists": [
         {
-          "name": "Erin Rae",
-          "url": "https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6"
+          "name": "Uly",
+          "url": "https://open.spotify.com/artist/1i5DopntEK7C4VKpD5F6zg"
         }
       ],
-      "duration_ms": 204946,
-      "name": "Modern Woman",
-      "url": "https://open.spotify.com/track/5ZaSoSM8VR7OUiYyEKBmL9"
+      "duration_ms": 283518,
+      "name": "pak it in",
+      "url": "https://open.spotify.com/track/2CBrwFbrNnzvikGZXq5j9l"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -2531,6 +2479,58 @@
       "duration_ms": 240733,
       "name": "Galacticana",
       "url": "https://open.spotify.com/track/73xmoTyIsGhr2zevMYqa71"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Lighten Up",
+        "url": "https://open.spotify.com/album/5MT2lgCDRZ1AfHrQ3pklHI"
+      },
+      "artists": [
+        {
+          "name": "Erin Rae",
+          "url": "https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6"
+        },
+        {
+          "name": "Kevin Morby",
+          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
+        }
+      ],
+      "duration_ms": 216920,
+      "name": "Can't See Stars (feat. Kevin Morby)",
+      "url": "https://open.spotify.com/track/4vDEQxivxtfbgmEHtsJ29H"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Hopeful",
+        "url": "https://open.spotify.com/album/53jDVUiYTI5UpC7DGeJrdz"
+      },
+      "artists": [
+        {
+          "name": "Curtis Harding",
+          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
+        }
+      ],
+      "duration_ms": 316360,
+      "name": "Hopeful",
+      "url": "https://open.spotify.com/track/6aU0EuAfSTb1FC1V8YJ0DV"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Speaking With Trees",
+        "url": "https://open.spotify.com/album/7Am6XsfbP9x6yxCxtnKSAB"
+      },
+      "artists": [
+        {
+          "name": "Tori Amos",
+          "url": "https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32"
+        }
+      ],
+      "duration_ms": 235413,
+      "name": "Speaking With Trees",
+      "url": "https://open.spotify.com/track/4g7Jknv7dTQ1IDoqsBTg8N"
     }
   ],
   "unique_name": "Modern Eclectic",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ULa1Ss8vbo.md) - [plain]
 
 > Songs from the old country: the essential traditional Irish ballads.
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,439 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,536 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ULa1Ss8vbo.md) - [plain]
 | 18 | [The Wild Rover \- Live](https://open.spotify.com/track/2YZxkxncqwdtAZWL1fi3zm) | [The Dubliners](https://open.spotify.com/artist/72RvmgEg2omdlMV9aExO6a) | [The Dubliners At Their Best](https://open.spotify.com/album/74l3GG47CU8mZwlMd7hbvO) | 3:11 |
 | 19 | [Down by the Sally Gardens](https://open.spotify.com/track/60OEb5MtEmmepJPUJtYvFW) | [Maura O'Connell](https://open.spotify.com/artist/2WkDGNlrAN48YIOi18jpEE) | [Transatlantic Sessions \- Series 2, Vol\. Three](https://open.spotify.com/album/2zviYEJfMBDVtoh9mz5SNq) | 3:45 |
 | 20 | [The Streets of London](https://open.spotify.com/track/3EkzGqK2uJrgiZDLXBMWUo) | [Liam Clancy](https://open.spotify.com/artist/1XjkajTCuInbWYxcxPvFtP) | [The Parting Glass \(The Very Best of Liam Clancy\)](https://open.spotify.com/album/5LL2dL3dChEHrcGLBYnqtn) | 4:01 |
-| 21 | [Black Velvet Band](https://open.spotify.com/track/3q8BOrmMePwxbyswncqYCl) | [Paddy Reilly](https://open.spotify.com/artist/1XIifqPXfWSoTQfrcuXXtX) | [Paddy Reilly Now](https://open.spotify.com/album/363k1Ot58qIRyLcKFFwa7E) | 3:47 |
+| 21 | [The Black Velvet Band](https://open.spotify.com/track/6uCtKXUGSczndUPxCp2SJa) | [Paddy Reilly](https://open.spotify.com/artist/1XIifqPXfWSoTQfrcuXXtX) | [Pura Música Irlandesa \- Folk](https://open.spotify.com/album/5ovd8i6qSWxckukOwrmu9o) | 3:43 |
 | 22 | [Only Our Rivers Run Free](https://open.spotify.com/track/2VKMmxvbCFDlyFuZqGBJxk) | [Paddy Reilly](https://open.spotify.com/artist/1XIifqPXfWSoTQfrcuXXtX) | [A Nation Once Again, Vol\. 2 \(A Collection of Irish Rebel Songs\)](https://open.spotify.com/album/7qCYFHaIAWifLzROi9Qncw) | 3:17 |
 | 23 | [Michael \- The Ballad of Michael Collins](https://open.spotify.com/track/6jCvLKDAdLJ6aT8PdWfbAV) | [Johnny McEvoy](https://open.spotify.com/artist/0wK5QhuLtbY2K4Rmm2FHE9) | [1916 Easter Rising \(Commemorative Collection\)](https://open.spotify.com/album/58MT6pI2o0dAiAkTUyo0a6) | 5:34 |
 | 24 | [Valley Of Knockanure](https://open.spotify.com/track/3krdH9jehlR1Vs678M94rK) | [Daoirí Farrell](https://open.spotify.com/artist/3KBy2gO90CavieWCNjUxl8) | [True Born Irishman](https://open.spotify.com/album/3MnNpFgo9Eg3wAJ1t59kHz) | 4:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ULa1Ss8vbo.md) - [plain]
 | 49 | [The Rose Of Tralee](https://open.spotify.com/track/5iPqNP3HIuyyOQmUkO1vYs) | [The Irish Tenors](https://open.spotify.com/artist/2QehFI9eDvwgtDxEharMPu) | [Live From Ellis Island](https://open.spotify.com/album/67UDn5SBqvaofJRqzJaIcJ) | 4:48 |
 | 50 | [James Connolly](https://open.spotify.com/track/1hoXIRlsnmnW6DP64mJmBM) | [Damien Dempsey](https://open.spotify.com/artist/0bmF1w9eyJrY4CHyjpTQOW) | [No Force On Earth](https://open.spotify.com/album/5NTLr7uctFVYnAIiPqVkfN) | 5:06 |
 
-Snapshot ID: `MTY1NzcyNTE5MiwwMDAwMDAwMGJmNTBkMGU4NTgyZTlhOWU5NmFhZjg1Yzg1N2I0ZWJj`
+Snapshot ID: `MTY1NzcyNTE5MiwwMDAwMDAwMDFhNmVkNTlmZmEyMGFkMGJkNDQxNWVhNjBkMjg1ZTg2`

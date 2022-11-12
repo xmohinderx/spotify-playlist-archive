@@ -1,31 +1,15 @@
 {
   "description": "Relax to the sweet and soothing sound of Bossa nova.",
-  "num_followers": 96906,
+  "num_followers": 97261,
   "original_name": "Bossa Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODEyMTIwMCwwMDAwMDAwMGIzZTdkYmNmYjQ3ZWVlZWQ1MDY5YTM5NTIyMWNiOTcx",
+  "snapshot_id": "MTY2ODE3MTUyNSwwMDAwMDAwMGNiNjQwYjU3YmIxMTdmZTM4YzBlMTMwY2YyMjA0YzJi",
   "tracks": [
     {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
-        "name": "Compact Jazz: Antonio Carlos Jobim",
-        "url": "https://open.spotify.com/album/5fxCwduFydtcmLFrEkePFE"
-      },
-      "artists": [
-        {
-          "name": "Ant\u00f4nio Carlos Jobim",
-          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
-        }
-      ],
-      "duration_ms": 212493,
-      "name": "\u00c1guas De Mar\u00e7o",
-      "url": "https://open.spotify.com/track/1y7OxO5i6sfrHXAmUM77YG"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
+      "added_at": "2022-11-11 12:58:45",
       "album": {
         "name": "Rolling in the Deep",
         "url": "https://open.spotify.com/album/0su4Qa3PP2oT9xaVp42XqZ"
@@ -45,7 +29,7 @@
       "url": "https://open.spotify.com/track/2Mm8gYk1g6LQEssmIAMGTJ"
     },
     {
-      "added_at": "2022-11-10 23:00:00",
+      "added_at": "2022-11-11 12:58:45",
       "album": {
         "name": "The Look Of Love",
         "url": "https://open.spotify.com/album/4nmjBh2Td9I9x9JDncrQr3"
@@ -61,7 +45,7 @@
       "url": "https://open.spotify.com/track/3CDHydgW0ssTh59f0jy1y3"
     },
     {
-      "added_at": "2022-11-10 23:00:00",
+      "added_at": "2022-11-11 12:58:45",
       "album": {
         "name": "The Shadow Of Your Smile",
         "url": "https://open.spotify.com/album/37xKx9ymHBSgYX02zZhwb9"
@@ -77,51 +61,7 @@
       "url": "https://open.spotify.com/track/7ilc2TB1RZXbQJyFs5qCiC"
     },
     {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
-        "name": "Karen Souza Essentials",
-        "url": "https://open.spotify.com/album/7oLFzJWMBpnAB7jd5bMOxm"
-      },
-      "artists": [
-        {
-          "name": "Karen Souza",
-          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
-        }
-      ],
-      "duration_ms": 167653,
-      "name": "Every Breath You Take",
-      "url": "https://open.spotify.com/track/4u2b3QdJ6FkyaaTK0TrRQR"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
-        "name": "The Girl From Ipanema - The Bossa Nova Years",
-        "url": "https://open.spotify.com/album/4I26wT2bckDbv8Xl5iVInQ"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        },
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        },
-        {
-          "name": "Astrud Gilberto",
-          "url": "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
-        },
-        {
-          "name": "Ant\u00f4nio Carlos Jobim",
-          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
-        }
-      ],
-      "duration_ms": 254666,
-      "name": "Corcovado (Quiet Nights Of Quiet Stars)",
-      "url": "https://open.spotify.com/track/4SrJyRdyHYxxkcVMQ3QkGE"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
+      "added_at": "2022-11-11 12:58:45",
       "album": {
         "name": "Everything I Know About Love",
         "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
@@ -137,7 +77,23 @@
       "url": "https://open.spotify.com/track/4KGGeE7RJsgLNZmnxGFlOj"
     },
     {
-      "added_at": "2022-11-10 23:00:00",
+      "added_at": "2022-11-11 12:58:45",
+      "album": {
+        "name": "Karen Souza Essentials",
+        "url": "https://open.spotify.com/album/7oLFzJWMBpnAB7jd5bMOxm"
+      },
+      "artists": [
+        {
+          "name": "Karen Souza",
+          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
+        }
+      ],
+      "duration_ms": 167653,
+      "name": "Every Breath You Take",
+      "url": "https://open.spotify.com/track/4u2b3QdJ6FkyaaTK0TrRQR"
+    },
+    {
+      "added_at": "2022-11-11 12:58:45",
       "album": {
         "name": "Raconte-moi... (Bonus Edition)",
         "url": "https://open.spotify.com/album/3afGgL2rBWMuLYEWXScDFb"
@@ -173,55 +129,7 @@
       "url": "https://open.spotify.com/track/32FfL5hpFQdweMkxg8Z55o"
     },
     {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
-        "name": "Jo\u00e3o Gilberto Apresenta Chega de Saudade",
-        "url": "https://open.spotify.com/album/5ecK3BBBIk4xNixVydBYtZ"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        }
-      ],
-      "duration_ms": 123386,
-      "name": "Chega de Saudade",
-      "url": "https://open.spotify.com/track/4fryIGUnJQ1XPg2QyasFQ4"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
-        "name": "Quarteto Jobim Morelenbaum",
-        "url": "https://open.spotify.com/album/7yjltYU5q9KQKZLfI2JZEY"
-      },
-      "artists": [
-        {
-          "name": "Quarteto Jobim-Morelenbaum",
-          "url": "https://open.spotify.com/artist/1WxunfiOh9Ws0uu2JoDmjL"
-        }
-      ],
-      "duration_ms": 156502,
-      "name": "\u00c1gua de Beber",
-      "url": "https://open.spotify.com/track/1IkE3IsuP4HNU073wsE6T5"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
-        "name": "The New Sound of Brazil",
-        "url": "https://open.spotify.com/album/0947CUJYGkjD70oXtYtgbU"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Donato",
-          "url": "https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi"
-        }
-      ],
-      "duration_ms": 189306,
-      "name": "Manha de Carnaval",
-      "url": "https://open.spotify.com/track/0kfdvJhyb0QHBG1IM9Vlht"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
+      "added_at": "2022-11-11 12:58:45",
       "album": {
         "name": "The Girl From Ipanema - The Bossa Nova Years",
         "url": "https://open.spotify.com/album/4I26wT2bckDbv8Xl5iVInQ"
@@ -245,7 +153,39 @@
       "url": "https://open.spotify.com/track/5jBv1j7ISp1ja8e1N2oSmt"
     },
     {
-      "added_at": "2022-11-10 23:00:00",
+      "added_at": "2022-11-11 12:58:45",
+      "album": {
+        "name": "Quarteto Jobim Morelenbaum",
+        "url": "https://open.spotify.com/album/7yjltYU5q9KQKZLfI2JZEY"
+      },
+      "artists": [
+        {
+          "name": "Quarteto Jobim-Morelenbaum",
+          "url": "https://open.spotify.com/artist/1WxunfiOh9Ws0uu2JoDmjL"
+        }
+      ],
+      "duration_ms": 156502,
+      "name": "\u00c1gua de Beber",
+      "url": "https://open.spotify.com/track/1IkE3IsuP4HNU073wsE6T5"
+    },
+    {
+      "added_at": "2022-11-11 12:58:45",
+      "album": {
+        "name": "The New Sound of Brazil",
+        "url": "https://open.spotify.com/album/0947CUJYGkjD70oXtYtgbU"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Donato",
+          "url": "https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi"
+        }
+      ],
+      "duration_ms": 189306,
+      "name": "Manha de Carnaval",
+      "url": "https://open.spotify.com/track/0kfdvJhyb0QHBG1IM9Vlht"
+    },
+    {
+      "added_at": "2022-11-11 12:58:45",
       "album": {
         "name": "The Beat Goes On",
         "url": "https://open.spotify.com/album/6L6CnGHpTnvj3BUf441OCh"
@@ -261,7 +201,7 @@
       "url": "https://open.spotify.com/track/6UeCjzfLUBhHOtney81sPn"
     },
     {
-      "added_at": "2022-11-10 23:00:00",
+      "added_at": "2022-11-11 12:58:45",
       "album": {
         "name": "Elis & Tom",
         "url": "https://open.spotify.com/album/3SE9n6EaVOJ81KA1KPLUWS"
@@ -281,7 +221,7 @@
       "url": "https://open.spotify.com/track/0PHGV9pWYv91WCeCXhdWye"
     },
     {
-      "added_at": "2022-11-10 23:00:00",
+      "added_at": "2022-11-11 12:58:45",
       "album": {
         "name": "Flora",
         "url": "https://open.spotify.com/album/0lVw3DmkHCtxL9iIzWmgOK"
@@ -297,7 +237,23 @@
       "url": "https://open.spotify.com/track/3VoamGkXelS0NOIVm1BBJg"
     },
     {
-      "added_at": "2022-11-10 23:00:00",
+      "added_at": "2022-11-11 12:58:45",
+      "album": {
+        "name": "Travelin' Light",
+        "url": "https://open.spotify.com/album/3C1Lr4lVx6EGTiWljHCfSD"
+      },
+      "artists": [
+        {
+          "name": "Shirley Horn",
+          "url": "https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd"
+        }
+      ],
+      "duration_ms": 149640,
+      "name": "And I Love Him",
+      "url": "https://open.spotify.com/track/02y0x44un8HW3zsxrS1oQL"
+    },
+    {
+      "added_at": "2022-11-11 12:58:45",
       "album": {
         "name": "Drivers License (Bossa Nova)",
         "url": "https://open.spotify.com/album/4sG6ndx69BwxgqkKHaF1JQ"
@@ -313,7 +269,7 @@
       "url": "https://open.spotify.com/track/3CcGoFaDVUnbaZ4TeDEe4n"
     },
     {
-      "added_at": "2022-11-10 23:00:00",
+      "added_at": "2022-11-11 12:58:45",
       "album": {
         "name": "Breakfast on the Morning Tram (Bonus Edition)",
         "url": "https://open.spotify.com/album/6XmdcBZamVqXAQflgp9ksR"
@@ -345,23 +301,7 @@
       "url": "https://open.spotify.com/track/3RBnF6OEuRbwXZIEPFZdk2"
     },
     {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
-        "name": "Travelin' Light",
-        "url": "https://open.spotify.com/album/3C1Lr4lVx6EGTiWljHCfSD"
-      },
-      "artists": [
-        {
-          "name": "Shirley Horn",
-          "url": "https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd"
-        }
-      ],
-      "duration_ms": 149640,
-      "name": "And I Love Him",
-      "url": "https://open.spotify.com/track/02y0x44un8HW3zsxrS1oQL"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
+      "added_at": "2022-11-11 12:58:45",
       "album": {
         "name": "Night Lights (Expanded Edition)",
         "url": "https://open.spotify.com/album/1uJ9OJIgmgj4ta8xjq9nEJ"
@@ -377,7 +317,7 @@
       "url": "https://open.spotify.com/track/17OHsQ5RBrU6b9lTaPP0vh"
     },
     {
-      "added_at": "2022-11-10 23:00:00",
+      "added_at": "2022-11-11 12:58:45",
       "album": {
         "name": "The Look Of Love",
         "url": "https://open.spotify.com/album/4nmjBh2Td9I9x9JDncrQr3"
@@ -393,7 +333,23 @@
       "url": "https://open.spotify.com/track/3VZwP7d1U7tuQjb9JZrSRF"
     },
     {
-      "added_at": "2022-11-10 23:00:00",
+      "added_at": "2022-11-11 12:58:45",
+      "album": {
+        "name": "Jazz + Bossa",
+        "url": "https://open.spotify.com/album/5jkc9bfTpFlbK5rIzKeWdj"
+      },
+      "artists": [
+        {
+          "name": "Delicatessen",
+          "url": "https://open.spotify.com/artist/402BCt05RMtfellwy880r9"
+        }
+      ],
+      "duration_ms": 187613,
+      "name": "In a mellow tone",
+      "url": "https://open.spotify.com/track/5ifsDssC2Yv86cHLg2g8rg"
+    },
+    {
+      "added_at": "2022-11-11 12:58:45",
       "album": {
         "name": "Jazz Samba",
         "url": "https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom"
@@ -413,7 +369,7 @@
       "url": "https://open.spotify.com/track/0aOH62uqDzuvCvN2jdVtZs"
     },
     {
-      "added_at": "2022-11-10 23:00:00",
+      "added_at": "2022-11-11 12:58:45",
       "album": {
         "name": "The Changing Lights (Bonus Edition)",
         "url": "https://open.spotify.com/album/1pPiNmApPW6E2yPCGth1RA"
@@ -445,23 +401,7 @@
       "url": "https://open.spotify.com/track/7zTPGoqzsHv4hnYib1jP8e"
     },
     {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
-        "name": "Jazz + Bossa",
-        "url": "https://open.spotify.com/album/5jkc9bfTpFlbK5rIzKeWdj"
-      },
-      "artists": [
-        {
-          "name": "Delicatessen",
-          "url": "https://open.spotify.com/artist/402BCt05RMtfellwy880r9"
-        }
-      ],
-      "duration_ms": 187613,
-      "name": "In a mellow tone",
-      "url": "https://open.spotify.com/track/5ifsDssC2Yv86cHLg2g8rg"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
+      "added_at": "2022-11-11 12:58:45",
       "album": {
         "name": "Gilbertos Samba",
         "url": "https://open.spotify.com/album/4CzqCaWsFEzNWWugq0EfUV"
@@ -477,7 +417,7 @@
       "url": "https://open.spotify.com/track/1G3tT3xLodVLyZV7MQDXin"
     },
     {
-      "added_at": "2022-11-10 23:00:00",
+      "added_at": "2022-11-11 12:58:45",
       "album": {
         "name": "Chambre Avec Vue",
         "url": "https://open.spotify.com/album/1EE8dKVd22YHhZT2LoiEOB"
@@ -497,7 +437,7 @@
       "url": "https://open.spotify.com/track/4EtULbS8K8zZ3apaEX36oI"
     },
     {
-      "added_at": "2022-11-10 23:00:00",
+      "added_at": "2022-11-11 12:58:45",
       "album": {
         "name": "From Paris To Rio",
         "url": "https://open.spotify.com/album/0q1gz3xUPgFZlnL18h6KUk"
@@ -513,23 +453,7 @@
       "url": "https://open.spotify.com/track/5mYrk9TmtP6t7a6JOYabJC"
     },
     {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
-        "name": "Nara Dez Anos Depois",
-        "url": "https://open.spotify.com/album/14vNVSBK4R5XpKUEUOTjvd"
-      },
-      "artists": [
-        {
-          "name": "Nara Le\u00e3o",
-          "url": "https://open.spotify.com/artist/64KVQ4YupSZYrGNLduVtj3"
-        }
-      ],
-      "duration_ms": 152933,
-      "name": "Este Seu Olhar",
-      "url": "https://open.spotify.com/track/7ws9U1clOAmsZmc0LAQxFt"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
+      "added_at": "2022-11-11 12:58:45",
       "album": {
         "name": "Take To The Sky",
         "url": "https://open.spotify.com/album/1MqGJoEKazTWPX0HaA17L2"
@@ -545,7 +469,7 @@
       "url": "https://open.spotify.com/track/1cfxSquzIuVUXxG7yfUmwF"
     },
     {
-      "added_at": "2022-11-10 23:00:00",
+      "added_at": "2022-11-11 12:58:45",
       "album": {
         "name": "The Look Of Love",
         "url": "https://open.spotify.com/album/4nmjBh2Td9I9x9JDncrQr3"
@@ -561,7 +485,7 @@
       "url": "https://open.spotify.com/track/2RvRcb0PpVyDr6lnMBbwC5"
     },
     {
-      "added_at": "2022-11-10 23:00:00",
+      "added_at": "2022-11-11 12:58:45",
       "album": {
         "name": "Page One",
         "url": "https://open.spotify.com/album/7mQGTuvmdp56DNz0AmMwWi"
@@ -577,7 +501,7 @@
       "url": "https://open.spotify.com/track/6qqK0oeBRapZn8f9hJJENw"
     },
     {
-      "added_at": "2022-11-10 23:00:00",
+      "added_at": "2022-11-11 12:58:45",
       "album": {
         "name": "Dreamer",
         "url": "https://open.spotify.com/album/5YfLvxcH8jCibShM4ogLUr"
@@ -593,7 +517,7 @@
       "url": "https://open.spotify.com/track/5iRxI8g8AxrQe6EpKYMtdN"
     },
     {
-      "added_at": "2022-11-10 23:00:00",
+      "added_at": "2022-11-11 12:58:45",
       "album": {
         "name": "O Melhor da Parceria",
         "url": "https://open.spotify.com/album/15gm0vAtfWhgwIYQYTHcpz"
@@ -613,23 +537,7 @@
       "url": "https://open.spotify.com/track/6NAsiy8bVS2hx95ofthfSV"
     },
     {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
-        "name": "chambre avec vue",
-        "url": "https://open.spotify.com/album/6M9b0h3mr9u46XCAgNsnNH"
-      },
-      "artists": [
-        {
-          "name": "Henri Salvador",
-          "url": "https://open.spotify.com/artist/0TQUgpZqEnfluYEfKQBYB6"
-        }
-      ],
-      "duration_ms": 203066,
-      "name": "Jazz M\u00e9diterran\u00e9e",
-      "url": "https://open.spotify.com/track/2yHTFqjyTh32XPddASX3sV"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
+      "added_at": "2022-11-11 12:58:45",
       "album": {
         "name": "Make Someone Happy",
         "url": "https://open.spotify.com/album/4n4OIAks8f10DuIhb4aLlm"
@@ -645,7 +553,7 @@
       "url": "https://open.spotify.com/track/1PMMDeHkTvLZBQiZU860BU"
     },
     {
-      "added_at": "2022-11-10 23:00:00",
+      "added_at": "2022-11-11 12:58:45",
       "album": {
         "name": "Haven't We Met?",
         "url": "https://open.spotify.com/album/3NSYINIVVAT3C6dMkdcbdx"
@@ -661,7 +569,7 @@
       "url": "https://open.spotify.com/track/3cqo3iiXecJmN3CbQAAtpn"
     },
     {
-      "added_at": "2022-11-10 23:00:00",
+      "added_at": "2022-11-11 12:58:45",
       "album": {
         "name": "Night Lights (Expanded Edition)",
         "url": "https://open.spotify.com/album/1uJ9OJIgmgj4ta8xjq9nEJ"
@@ -677,7 +585,23 @@
       "url": "https://open.spotify.com/track/6GQ6rapsknPIutGbpv0DTR"
     },
     {
-      "added_at": "2022-11-10 23:00:00",
+      "added_at": "2022-11-11 12:58:45",
+      "album": {
+        "name": "chambre avec vue",
+        "url": "https://open.spotify.com/album/6M9b0h3mr9u46XCAgNsnNH"
+      },
+      "artists": [
+        {
+          "name": "Henri Salvador",
+          "url": "https://open.spotify.com/artist/0TQUgpZqEnfluYEfKQBYB6"
+        }
+      ],
+      "duration_ms": 203066,
+      "name": "Jazz M\u00e9diterran\u00e9e",
+      "url": "https://open.spotify.com/track/2yHTFqjyTh32XPddASX3sV"
+    },
+    {
+      "added_at": "2022-11-11 12:58:45",
       "album": {
         "name": "Jazz Samba",
         "url": "https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom"
@@ -697,7 +621,7 @@
       "url": "https://open.spotify.com/track/5bKrCtDuBoFGqeMrKRVH3V"
     },
     {
-      "added_at": "2022-11-10 23:00:00",
+      "added_at": "2022-11-11 12:58:45",
       "album": {
         "name": "Gentileza",
         "url": "https://open.spotify.com/album/13Nf9wlDHpcboyd0LM7px6"
@@ -713,7 +637,7 @@
       "url": "https://open.spotify.com/track/2b5sr8aUAAoY7waDSB4KRX"
     },
     {
-      "added_at": "2022-11-10 23:00:00",
+      "added_at": "2022-11-11 12:58:45",
       "album": {
         "name": "Rio (Exclusive International Version)",
         "url": "https://open.spotify.com/album/3xeSQlUbj1czlmHmRduCFI"
@@ -733,7 +657,7 @@
       "url": "https://open.spotify.com/track/1bAnTqAtb5SZc9N58do9nU"
     },
     {
-      "added_at": "2022-11-10 23:00:00",
+      "added_at": "2022-11-11 12:58:45",
       "album": {
         "name": "Meets Gustav Lundgren",
         "url": "https://open.spotify.com/album/1YxUJdI0JWsXGGq8xa1SLt"
@@ -749,7 +673,7 @@
       "url": "https://open.spotify.com/track/6FMo4V8vQU07y1zwBfZrz7"
     },
     {
-      "added_at": "2022-11-10 23:00:00",
+      "added_at": "2022-11-11 12:58:45",
       "album": {
         "name": "Bossa Nova Soul Samba (Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/4ntjTCmyhwHIsK12RScxRP"
@@ -765,7 +689,7 @@
       "url": "https://open.spotify.com/track/13Y8guAjsfss2WPIINuoYd"
     },
     {
-      "added_at": "2022-11-10 23:00:00",
+      "added_at": "2022-11-11 12:58:45",
       "album": {
         "name": "Work From Home with Oscar Peterson",
         "url": "https://open.spotify.com/album/0ORKsWALEps4PNvnM78dM7"
@@ -781,7 +705,7 @@
       "url": "https://open.spotify.com/track/3lTyliusZgm29TXJyfFO3B"
     },
     {
-      "added_at": "2022-11-10 23:00:00",
+      "added_at": "2022-11-11 12:58:45",
       "album": {
         "name": "Studio Rio Presents: The Brazil Connection",
         "url": "https://open.spotify.com/album/7C0b904Xo4njmQPI0gvcfw"
@@ -805,7 +729,7 @@
       "url": "https://open.spotify.com/track/1C7Gw28QPWVc7ssGlfUpsO"
     },
     {
-      "added_at": "2022-11-10 23:00:00",
+      "added_at": "2022-11-11 12:58:45",
       "album": {
         "name": "Composer Of Black Orpheus Plays And Sings Bossa Nova",
         "url": "https://open.spotify.com/album/0Mi7ijRGlYyIzdUB14FlbQ"
@@ -829,7 +753,23 @@
       "url": "https://open.spotify.com/track/0utN2UcAocw2Ewk6lzMRpx"
     },
     {
-      "added_at": "2022-11-10 23:00:00",
+      "added_at": "2022-11-11 12:58:45",
+      "album": {
+        "name": "Aquele Frevo Ax\u00e9",
+        "url": "https://open.spotify.com/album/5jhcmxv1YOORIADhphS2SE"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        }
+      ],
+      "duration_ms": 232293,
+      "name": "Aquele Frevo Ax\u00e9",
+      "url": "https://open.spotify.com/track/0Fd5qH2K7UsQh4MU3MB17m"
+    },
+    {
+      "added_at": "2022-11-11 12:58:45",
       "album": {
         "name": "Greatest Hits Series--Paul Desmond",
         "url": "https://open.spotify.com/album/3bBvPOUVZz1NxBBqpJf20b"
@@ -849,7 +789,7 @@
       "url": "https://open.spotify.com/track/0YUaViwX9I554N7MYYxqcM"
     },
     {
-      "added_at": "2022-11-10 23:00:00",
+      "added_at": "2022-11-11 12:58:45",
       "album": {
         "name": "The Changing Lights (Bonus Edition)",
         "url": "https://open.spotify.com/album/1pPiNmApPW6E2yPCGth1RA"
@@ -885,7 +825,7 @@
       "url": "https://open.spotify.com/track/3P9ykpmg0veqHJ0gJ6zG1i"
     },
     {
-      "added_at": "2022-11-10 23:00:00",
+      "added_at": "2022-11-11 12:58:45",
       "album": {
         "name": "Letra & M\u00fasica Ary Barroso \u2013 Rosa Passos e Lula Galv\u00e3o",
         "url": "https://open.spotify.com/album/24mfpDgch1Xr8qzJuqUi1Q"
@@ -901,7 +841,23 @@
       "url": "https://open.spotify.com/track/5uhAtnaJcQcPuR8bHU6TKe"
     },
     {
-      "added_at": "2022-11-10 23:00:00",
+      "added_at": "2022-11-11 12:58:45",
+      "album": {
+        "name": "A Little Brighter Every Day",
+        "url": "https://open.spotify.com/album/46LYThMVZtZb45xNBQvqmp"
+      },
+      "artists": [
+        {
+          "name": "Brandon's Three",
+          "url": "https://open.spotify.com/artist/2YPncTc0Vj6Ofh2DDooAbM"
+        }
+      ],
+      "duration_ms": 197500,
+      "name": "A Little Brighter Every Day",
+      "url": "https://open.spotify.com/track/7xPLrNKJ5fHIV4gm2MtMZK"
+    },
+    {
+      "added_at": "2022-11-11 12:58:45",
       "album": {
         "name": "Copacabana",
         "url": "https://open.spotify.com/album/1pYAD1swqhNE2RDLvJgWIE"
@@ -917,7 +873,7 @@
       "url": "https://open.spotify.com/track/3PWnbNejd7twqp0kIXffHd"
     },
     {
-      "added_at": "2022-11-10 23:00:00",
+      "added_at": "2022-11-11 12:58:45",
       "album": {
         "name": "Brazil",
         "url": "https://open.spotify.com/album/0SVtsd6mAN8xjDFR8NDZRr"
@@ -941,7 +897,7 @@
       "url": "https://open.spotify.com/track/0YPurGQSRUDTtIFUX3Nskc"
     },
     {
-      "added_at": "2022-11-10 23:00:00",
+      "added_at": "2022-11-11 12:58:45",
       "album": {
         "name": "Quarteto Jobim Morelenbaum",
         "url": "https://open.spotify.com/album/7yjltYU5q9KQKZLfI2JZEY"
@@ -957,7 +913,7 @@
       "url": "https://open.spotify.com/track/4xBk5YBUkEFz5gVP74y6pc"
     },
     {
-      "added_at": "2022-11-10 23:00:00",
+      "added_at": "2022-11-11 12:58:45",
       "album": {
         "name": "Bel\u00ea",
         "url": "https://open.spotify.com/album/46rjYly7NZYyQRxgOJULGx"
@@ -973,23 +929,7 @@
       "url": "https://open.spotify.com/track/5G4VEEZXyBTEBw9RCj0L8S"
     },
     {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
-        "name": "Lembran\u00e7as",
-        "url": "https://open.spotify.com/album/1uPZt0rwu5GK8wA9Qji4tW"
-      },
-      "artists": [
-        {
-          "name": "Vitor Jos\u00e9 Fonseca",
-          "url": "https://open.spotify.com/artist/4lmPgpLRyJHPseygyVBGTu"
-        }
-      ],
-      "duration_ms": 244711,
-      "name": "Lembran\u00e7as",
-      "url": "https://open.spotify.com/track/4eGXFQEQGGxgYy6OFabfJV"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
+      "added_at": "2022-11-11 12:58:45",
       "album": {
         "name": "Rosa",
         "url": "https://open.spotify.com/album/5WIyLdYc2yschYbWx7BkSU"
@@ -1005,23 +945,23 @@
       "url": "https://open.spotify.com/track/3Zt1ziRYn8ABtqaApKGIcr"
     },
     {
-      "added_at": "2022-11-10 23:00:00",
+      "added_at": "2022-11-11 12:58:45",
       "album": {
-        "name": "Aquele Frevo Ax\u00e9",
-        "url": "https://open.spotify.com/album/5jhcmxv1YOORIADhphS2SE"
+        "name": "Lembran\u00e7as",
+        "url": "https://open.spotify.com/album/1uPZt0rwu5GK8wA9Qji4tW"
       },
       "artists": [
         {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+          "name": "Vitor Jos\u00e9 Fonseca",
+          "url": "https://open.spotify.com/artist/4lmPgpLRyJHPseygyVBGTu"
         }
       ],
-      "duration_ms": 232293,
-      "name": "Aquele Frevo Ax\u00e9",
-      "url": "https://open.spotify.com/track/0Fd5qH2K7UsQh4MU3MB17m"
+      "duration_ms": 244711,
+      "name": "Lembran\u00e7as",
+      "url": "https://open.spotify.com/track/4eGXFQEQGGxgYy6OFabfJV"
     },
     {
-      "added_at": "2022-11-10 23:00:00",
+      "added_at": "2022-11-11 12:58:45",
       "album": {
         "name": "Brazil",
         "url": "https://open.spotify.com/album/4ZfijPsvkBtwZWiGScdvOs"
@@ -1061,7 +1001,7 @@
       "url": "https://open.spotify.com/track/4evGIySLSVBJD90LrDkTcO"
     },
     {
-      "added_at": "2022-11-10 23:00:00",
+      "added_at": "2022-11-11 12:58:45",
       "album": {
         "name": "Jo\u00e3o Gilberto: Hits & Rarities",
         "url": "https://open.spotify.com/album/2oOfYdGzP20W6CslQLIo69"
@@ -1077,7 +1017,7 @@
       "url": "https://open.spotify.com/track/4fNn5hqUIbMNAX5PNMGQZV"
     },
     {
-      "added_at": "2022-11-10 23:00:00",
+      "added_at": "2022-11-11 12:58:45",
       "album": {
         "name": "Tequila (Expanded Edition)",
         "url": "https://open.spotify.com/album/7DGv1MKlPZrLkP0HCSDm8I"
@@ -1093,7 +1033,7 @@
       "url": "https://open.spotify.com/track/6XrRsEiP7KccIkRgqxcL70"
     },
     {
-      "added_at": "2022-11-10 23:00:00",
+      "added_at": "2022-11-11 12:58:45",
       "album": {
         "name": "Can\u00e7\u00f5es de Caymmi",
         "url": "https://open.spotify.com/album/4cLmwrthVvhIYcOcrVDUaX"
@@ -1109,23 +1049,7 @@
       "url": "https://open.spotify.com/track/1n441XV55b21VveSUSA1SA"
     },
     {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
-        "name": "Double Rainbow",
-        "url": "https://open.spotify.com/album/7a8Zs0ucylEHLa0kPcpPtH"
-      },
-      "artists": [
-        {
-          "name": "Joe Henderson",
-          "url": "https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt"
-        }
-      ],
-      "duration_ms": 284133,
-      "name": "Felicidade",
-      "url": "https://open.spotify.com/track/0E0EAgEgdVDqzPtouCOqQk"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
+      "added_at": "2022-11-11 12:58:45",
       "album": {
         "name": "Amorosa",
         "url": "https://open.spotify.com/album/7cT8aPmqRKH72T0HwwIckz"
@@ -1141,23 +1065,7 @@
       "url": "https://open.spotify.com/track/71ZkjDXREmufJQGwwGhCSr"
     },
     {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
-        "name": "We Could Be Lovers",
-        "url": "https://open.spotify.com/album/5HOeQ6IXZTpbwlqSKstF3v"
-      },
-      "artists": [
-        {
-          "name": "Sarah McKenzie",
-          "url": "https://open.spotify.com/artist/4HXtFN7bAZUp0GtsRRpzW2"
-        }
-      ],
-      "duration_ms": 208773,
-      "name": "Quoi, Quoi, Quoi",
-      "url": "https://open.spotify.com/track/33LLGxCJUrJAX0XvcvN1AH"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
+      "added_at": "2022-11-11 12:58:45",
       "album": {
         "name": "To Brazil With Love",
         "url": "https://open.spotify.com/album/4eNdkAtsaqZH4mcdJx52wQ"
@@ -1173,7 +1081,55 @@
       "url": "https://open.spotify.com/track/50CyJ5uAFd64BkJtLOlEqz"
     },
     {
-      "added_at": "2022-11-10 23:00:00",
+      "added_at": "2022-11-11 12:58:45",
+      "album": {
+        "name": "We Could Be Lovers",
+        "url": "https://open.spotify.com/album/5HOeQ6IXZTpbwlqSKstF3v"
+      },
+      "artists": [
+        {
+          "name": "Sarah McKenzie",
+          "url": "https://open.spotify.com/artist/4HXtFN7bAZUp0GtsRRpzW2"
+        }
+      ],
+      "duration_ms": 208773,
+      "name": "Quoi, Quoi, Quoi",
+      "url": "https://open.spotify.com/track/33LLGxCJUrJAX0XvcvN1AH"
+    },
+    {
+      "added_at": "2022-11-11 12:58:45",
+      "album": {
+        "name": "Double Rainbow",
+        "url": "https://open.spotify.com/album/7a8Zs0ucylEHLa0kPcpPtH"
+      },
+      "artists": [
+        {
+          "name": "Joe Henderson",
+          "url": "https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt"
+        }
+      ],
+      "duration_ms": 284133,
+      "name": "Felicidade",
+      "url": "https://open.spotify.com/track/0E0EAgEgdVDqzPtouCOqQk"
+    },
+    {
+      "added_at": "2022-11-11 12:58:45",
+      "album": {
+        "name": "Cora\u00e7\u00e3o Madura",
+        "url": "https://open.spotify.com/album/1iTU5adC5AOkPaI0UmTuOC"
+      },
+      "artists": [
+        {
+          "name": "T\u00e9o Freire",
+          "url": "https://open.spotify.com/artist/2Es2xfsRli23jk1UwvIej3"
+        }
+      ],
+      "duration_ms": 120810,
+      "name": "Cora\u00e7\u00e3o Madura",
+      "url": "https://open.spotify.com/track/3TTQRX8ppicWmBSLDWs5u6"
+    },
+    {
+      "added_at": "2022-11-11 12:58:45",
       "album": {
         "name": "Quarteto Jobim Morelenbaum",
         "url": "https://open.spotify.com/album/7yjltYU5q9KQKZLfI2JZEY"
@@ -1189,7 +1145,7 @@
       "url": "https://open.spotify.com/track/1U2yKTVqJASLKLSCzrwxi7"
     },
     {
-      "added_at": "2022-11-10 23:00:00",
+      "added_at": "2022-11-11 12:58:45",
       "album": {
         "name": "Braziliana",
         "url": "https://open.spotify.com/album/5DQ6UgivtsZ5T68umwvdST"
@@ -1209,7 +1165,7 @@
       "url": "https://open.spotify.com/track/74NnN3kzceUrtu1XgSNwxa"
     },
     {
-      "added_at": "2022-11-10 23:00:00",
+      "added_at": "2022-11-11 12:58:45",
       "album": {
         "name": "day by day",
         "url": "https://open.spotify.com/album/4mQSSzdJ4EdKxRNx5wF9nB"
@@ -1225,23 +1181,7 @@
       "url": "https://open.spotify.com/track/4Wa359eOBiLxHlz5W6Czp6"
     },
     {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
-        "name": "Amorosa",
-        "url": "https://open.spotify.com/album/7cT8aPmqRKH72T0HwwIckz"
-      },
-      "artists": [
-        {
-          "name": "Rosa Passos",
-          "url": "https://open.spotify.com/artist/1ztbuuZdlymbE7XnHlj0nP"
-        }
-      ],
-      "duration_ms": 220906,
-      "name": "Que Reste-t-il de nos Amours",
-      "url": "https://open.spotify.com/track/4p0UoEtE573xvUQclWvJoU"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
+      "added_at": "2022-11-11 12:58:45",
       "album": {
         "name": "Nara Dez Anos Depois",
         "url": "https://open.spotify.com/album/14vNVSBK4R5XpKUEUOTjvd"
@@ -1257,7 +1197,23 @@
       "url": "https://open.spotify.com/track/1KcrfXWVdStS6UtSxmzGps"
     },
     {
-      "added_at": "2022-11-10 23:00:00",
+      "added_at": "2022-11-11 12:58:45",
+      "album": {
+        "name": "Amorosa",
+        "url": "https://open.spotify.com/album/7cT8aPmqRKH72T0HwwIckz"
+      },
+      "artists": [
+        {
+          "name": "Rosa Passos",
+          "url": "https://open.spotify.com/artist/1ztbuuZdlymbE7XnHlj0nP"
+        }
+      ],
+      "duration_ms": 220906,
+      "name": "Que Reste-t-il de nos Amours",
+      "url": "https://open.spotify.com/track/4p0UoEtE573xvUQclWvJoU"
+    },
+    {
+      "added_at": "2022-11-11 12:58:45",
       "album": {
         "name": "Summer Samba! - Jo\u00e3o Gilberto",
         "url": "https://open.spotify.com/album/4pUsMoa4fayB4dCGpNrVLc"
@@ -1273,7 +1229,7 @@
       "url": "https://open.spotify.com/track/61hcUAElBx2rcOCoaldQNj"
     },
     {
-      "added_at": "2022-11-10 23:00:00",
+      "added_at": "2022-11-11 12:58:45",
       "album": {
         "name": "Personalidade",
         "url": "https://open.spotify.com/album/10hZyN6wHBQ94xt8aoaq9o"
@@ -1293,7 +1249,23 @@
       "url": "https://open.spotify.com/track/6XMDSWv7ZwM0BM0i0YJPOn"
     },
     {
-      "added_at": "2022-11-10 23:00:00",
+      "added_at": "2022-11-11 12:58:45",
+      "album": {
+        "name": "But Not for Me",
+        "url": "https://open.spotify.com/album/5dC6hVfIA8U6WJbtbchXaE"
+      },
+      "artists": [
+        {
+          "name": "Jonny Libonate",
+          "url": "https://open.spotify.com/artist/6pS27rHwAFUbbLvuUWVZba"
+        }
+      ],
+      "duration_ms": 188650,
+      "name": "Cleopatra's Dream",
+      "url": "https://open.spotify.com/track/79Pa36K6R3somBuhNi2B0V"
+    },
+    {
+      "added_at": "2022-11-11 12:58:45",
       "album": {
         "name": "The Cole Porter Mix",
         "url": "https://open.spotify.com/album/1NGLLk5vTXlmHbIGGPWG1I"
@@ -1309,7 +1281,7 @@
       "url": "https://open.spotify.com/track/5tu4L93jf26r7Nak71lcVs"
     },
     {
-      "added_at": "2022-11-10 23:00:00",
+      "added_at": "2022-11-11 12:58:45",
       "album": {
         "name": "Studio Rio Presents: The Brazil Connection",
         "url": "https://open.spotify.com/album/7C0b904Xo4njmQPI0gvcfw"
@@ -1329,7 +1301,7 @@
       "url": "https://open.spotify.com/track/6au6zu7SJAbqf4a6RDqySc"
     },
     {
-      "added_at": "2022-11-10 23:00:00",
+      "added_at": "2022-11-11 12:58:45",
       "album": {
         "name": "Time Signatures: A Career Retrospective",
         "url": "https://open.spotify.com/album/2B0aj8t5forzWzPqt0EzQs"
@@ -1345,7 +1317,23 @@
       "url": "https://open.spotify.com/track/4uDOJaEKr2MoeuIjgXM5kf"
     },
     {
-      "added_at": "2022-11-10 23:00:00",
+      "added_at": "2022-11-11 12:58:45",
+      "album": {
+        "name": "Amorosa",
+        "url": "https://open.spotify.com/album/7cT8aPmqRKH72T0HwwIckz"
+      },
+      "artists": [
+        {
+          "name": "Rosa Passos",
+          "url": "https://open.spotify.com/artist/1ztbuuZdlymbE7XnHlj0nP"
+        }
+      ],
+      "duration_ms": 181173,
+      "name": "Essa \u00e9 Pro Jo\u00e3o",
+      "url": "https://open.spotify.com/track/26S40PKjEz1FZZJabKRVch"
+    },
+    {
+      "added_at": "2022-11-11 12:58:45",
       "album": {
         "name": "Rio Bahia",
         "url": "https://open.spotify.com/album/3cgIE2eEoFouC2oxYghfRg"
@@ -1365,23 +1353,23 @@
       "url": "https://open.spotify.com/track/1cqaZpuQpbrPQGzcnPPHfB"
     },
     {
-      "added_at": "2022-11-10 23:00:00",
+      "added_at": "2022-11-11 12:58:45",
       "album": {
-        "name": "Amorosa",
-        "url": "https://open.spotify.com/album/7cT8aPmqRKH72T0HwwIckz"
+        "name": "Vivendo",
+        "url": "https://open.spotify.com/album/65VTQBcky8wU4eYYYXYlRl"
       },
       "artists": [
         {
-          "name": "Rosa Passos",
-          "url": "https://open.spotify.com/artist/1ztbuuZdlymbE7XnHlj0nP"
+          "name": "Moreno Jazz Band",
+          "url": "https://open.spotify.com/artist/51dajqv8SXCyNO6L6rAxxr"
         }
       ],
-      "duration_ms": 181173,
-      "name": "Essa \u00e9 Pro Jo\u00e3o",
-      "url": "https://open.spotify.com/track/26S40PKjEz1FZZJabKRVch"
+      "duration_ms": 199299,
+      "name": "Vivendo",
+      "url": "https://open.spotify.com/track/3l7Pg8bvouSSOspl8Q9UU9"
     },
     {
-      "added_at": "2022-11-10 23:00:00",
+      "added_at": "2022-11-11 12:58:45",
       "album": {
         "name": "Grand Songs",
         "url": "https://open.spotify.com/album/2Yo7r6mKv3i7koaHptX2Qv"
@@ -1397,7 +1385,7 @@
       "url": "https://open.spotify.com/track/2ZvXvqnAZeQyCbqVgjfqzW"
     },
     {
-      "added_at": "2022-11-10 23:00:00",
+      "added_at": "2022-11-11 12:58:45",
       "album": {
         "name": "The Very Thought of You",
         "url": "https://open.spotify.com/album/6R6CLCrX0PblFlg8kj1KsO"
@@ -1413,7 +1401,7 @@
       "url": "https://open.spotify.com/track/3Hcu9kf96AWTmkM9zCcGFQ"
     },
     {
-      "added_at": "2022-11-10 23:00:00",
+      "added_at": "2022-11-11 12:58:45",
       "album": {
         "name": "Studio Rio Presents: The Brazil Connection",
         "url": "https://open.spotify.com/album/7C0b904Xo4njmQPI0gvcfw"
@@ -1433,23 +1421,23 @@
       "url": "https://open.spotify.com/track/3k1t0MMGMXf0C3I5YSyMwu"
     },
     {
-      "added_at": "2022-11-10 23:00:00",
+      "added_at": "2022-11-11 12:58:45",
       "album": {
-        "name": "Bossa Nova Carlos Lyra",
-        "url": "https://open.spotify.com/album/6SkCc0AyioogFxwJwYZUZl"
+        "name": "Sunset Martini",
+        "url": "https://open.spotify.com/album/7wVdlgOP7d5mRO64fvspVb"
       },
       "artists": [
         {
-          "name": "Carlos Lyra",
-          "url": "https://open.spotify.com/artist/3LokxmaXXZpL7sLZASDzCS"
+          "name": "Magnus Ringblom Quartet",
+          "url": "https://open.spotify.com/artist/253IbsVCS7UKpL61Dv5hru"
         }
       ],
-      "duration_ms": 63506,
-      "name": "Voc\u00ea e Eu (You and Me)",
-      "url": "https://open.spotify.com/track/4v5PKC5rvQwb33NWX82UH8"
+      "duration_ms": 222599,
+      "name": "Enjoy Your Cigar",
+      "url": "https://open.spotify.com/track/5WaOOx9Q5BJhJAfQaxnaaN"
     },
     {
-      "added_at": "2022-11-10 23:00:00",
+      "added_at": "2022-11-11 12:58:45",
       "album": {
         "name": "Telecoteco",
         "url": "https://open.spotify.com/album/3vo7Rw9T48cuSkQWHMLnSb"
@@ -1465,7 +1453,7 @@
       "url": "https://open.spotify.com/track/7nZARKu6tzkTBkuCVXWaZa"
     },
     {
-      "added_at": "2022-11-10 23:00:00",
+      "added_at": "2022-11-11 12:58:45",
       "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/2BQJdNJq1qkbvcyMzl9xs4"
@@ -1481,7 +1469,7 @@
       "url": "https://open.spotify.com/track/6JMPmjsg9tWVKZ1KkEhwjo"
     },
     {
-      "added_at": "2022-11-10 23:00:00",
+      "added_at": "2022-11-11 12:58:45",
       "album": {
         "name": "Jo\u00e3o Gilberto: Hits & Rarities",
         "url": "https://open.spotify.com/album/2oOfYdGzP20W6CslQLIo69"
@@ -1497,7 +1485,39 @@
       "url": "https://open.spotify.com/track/2a9YiSkmV0bxbNgy18xnsE"
     },
     {
-      "added_at": "2022-11-10 23:00:00",
+      "added_at": "2022-11-11 12:58:45",
+      "album": {
+        "name": "River of Dreams",
+        "url": "https://open.spotify.com/album/7IID5V4pzViAAal8scWxWA"
+      },
+      "artists": [
+        {
+          "name": "Trio Del Norte",
+          "url": "https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO"
+        }
+      ],
+      "duration_ms": 183082,
+      "name": "River of Dreams",
+      "url": "https://open.spotify.com/track/303q7nGbVGdxUvbhbEfHzS"
+    },
+    {
+      "added_at": "2022-11-11 12:58:45",
+      "album": {
+        "name": "Strangers in the Night",
+        "url": "https://open.spotify.com/album/6QGyGBnji7UQ2ZHeV6vZRs"
+      },
+      "artists": [
+        {
+          "name": "Jade Vieira",
+          "url": "https://open.spotify.com/artist/62u2ks7IGeMOqkSLCAaLHK"
+        }
+      ],
+      "duration_ms": 170418,
+      "name": "Strangers in the Night",
+      "url": "https://open.spotify.com/track/4oulAJLw1DSMKERkIQDFG8"
+    },
+    {
+      "added_at": "2022-11-11 12:58:45",
       "album": {
         "name": "Cande y Paulo",
         "url": "https://open.spotify.com/album/5bdHY0adQ8GNFOa5PdgAVg"
@@ -1513,7 +1533,7 @@
       "url": "https://open.spotify.com/track/5KX9xXNC0MlBQLgHw0HOC1"
     },
     {
-      "added_at": "2022-11-10 23:00:00",
+      "added_at": "2022-11-11 12:58:45",
       "album": {
         "name": "Quiet Nights Of Quiet Stars (Corcovado)",
         "url": "https://open.spotify.com/album/3XEsqJB8H4SdOXD2ceOonl"
@@ -1533,7 +1553,23 @@
       "url": "https://open.spotify.com/track/71fwujxrj8ThvYTArAscuH"
     },
     {
-      "added_at": "2022-11-10 23:00:00",
+      "added_at": "2022-11-11 12:58:45",
+      "album": {
+        "name": "Dindi",
+        "url": "https://open.spotify.com/album/4knjVWNKQlrrsXpfPImum0"
+      },
+      "artists": [
+        {
+          "name": "Clube no norte",
+          "url": "https://open.spotify.com/artist/18eKmZOA1BvY1sBLnvKNHH"
+        }
+      ],
+      "duration_ms": 230750,
+      "name": "how insensitive",
+      "url": "https://open.spotify.com/track/3NfjsizJtx8XWnmsZxOohA"
+    },
+    {
+      "added_at": "2022-11-11 12:58:45",
       "album": {
         "name": "When I Fall In Love",
         "url": "https://open.spotify.com/album/5Qyx80BQxegTNdvdDkjwJu"
@@ -1549,7 +1585,39 @@
       "url": "https://open.spotify.com/track/1kTZPhmN8PW3KrXahh8rs8"
     },
     {
-      "added_at": "2022-11-10 23:00:00",
+      "added_at": "2022-11-11 12:58:45",
+      "album": {
+        "name": "Time Passing Slowly",
+        "url": "https://open.spotify.com/album/2UFNvSBbtLOxzaFXxNoeKv"
+      },
+      "artists": [
+        {
+          "name": "Southside Trio",
+          "url": "https://open.spotify.com/artist/2XVJkKNBPA834yV4NKISBw"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "Time Passing Slowly",
+      "url": "https://open.spotify.com/track/1uEOB09ZF3Xt3WmtbneqMf"
+    },
+    {
+      "added_at": "2022-11-11 12:58:45",
+      "album": {
+        "name": "Blue Night Bossa",
+        "url": "https://open.spotify.com/album/6XmwjVSryg17GrpHl5eVx7"
+      },
+      "artists": [
+        {
+          "name": "Magnus Ringblom",
+          "url": "https://open.spotify.com/artist/01s2QB29sjjLunqBoPfgGb"
+        }
+      ],
+      "duration_ms": 231377,
+      "name": "Standing Tall",
+      "url": "https://open.spotify.com/track/6zyXnFhbzWquheImVhTyMX"
+    },
+    {
+      "added_at": "2022-11-11 12:58:45",
       "album": {
         "name": "Stan Getz With Guest Artist Laurindo Almeida",
         "url": "https://open.spotify.com/album/7MpkC6j49masfrHLQlXrB9"
@@ -1569,7 +1637,7 @@
       "url": "https://open.spotify.com/track/61nUmoV7ffSJNjxIt1Uqsg"
     },
     {
-      "added_at": "2022-11-10 23:00:00",
+      "added_at": "2022-11-11 12:58:45",
       "album": {
         "name": "Bossa Antigua",
         "url": "https://open.spotify.com/album/620p4tcAC1PAmDUY8Vk5KT"
@@ -1585,7 +1653,7 @@
       "url": "https://open.spotify.com/track/39eNnBUZYkxulVzf1NsAxH"
     },
     {
-      "added_at": "2022-11-10 23:00:00",
+      "added_at": "2022-11-11 12:58:45",
       "album": {
         "name": "O Pato",
         "url": "https://open.spotify.com/album/7s6RlHdAISgk1hgexQa16Q"
@@ -1605,7 +1673,23 @@
       "url": "https://open.spotify.com/track/5ZhOwbrUtDDct1EwPQ5OsA"
     },
     {
-      "added_at": "2022-11-10 23:00:00",
+      "added_at": "2022-11-11 12:58:45",
+      "album": {
+        "name": "Once Forgotten",
+        "url": "https://open.spotify.com/album/5X2xPJhl0fOdxCvjFp0i7v"
+      },
+      "artists": [
+        {
+          "name": "Steve Luke & Holloway",
+          "url": "https://open.spotify.com/artist/4rK2sefIZVrvpsz6MoXKvY"
+        }
+      ],
+      "duration_ms": 247711,
+      "name": "Once Forgotten",
+      "url": "https://open.spotify.com/track/2aPO4B3PM4hPhNsUdITCWr"
+    },
+    {
+      "added_at": "2022-11-11 12:58:45",
       "album": {
         "name": "Bossa Nova Soul Samba (Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/4ntjTCmyhwHIsK12RScxRP"
@@ -1621,7 +1705,39 @@
       "url": "https://open.spotify.com/track/4vmyjeAmH2YW1Zf2YhTca6"
     },
     {
-      "added_at": "2022-11-10 23:00:00",
+      "added_at": "2022-11-11 12:58:45",
+      "album": {
+        "name": "Standard Deviations",
+        "url": "https://open.spotify.com/album/6LEFehuSSQhReDOW9udTcf"
+      },
+      "artists": [
+        {
+          "name": "Andreas Gidlund Five",
+          "url": "https://open.spotify.com/artist/77TUX9u0E5esyWr95Iwdg6"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "Ceora",
+      "url": "https://open.spotify.com/track/56IjzoxiY9gC58xawVkMiI"
+    },
+    {
+      "added_at": "2022-11-11 12:58:45",
+      "album": {
+        "name": "Amore e Complicado",
+        "url": "https://open.spotify.com/album/6TL3WUqoiC9WFyisEvobcZ"
+      },
+      "artists": [
+        {
+          "name": "Pablo Ilanda Trio",
+          "url": "https://open.spotify.com/artist/0LPXBwpZDAUDpz9Jqo3aON"
+        }
+      ],
+      "duration_ms": 214859,
+      "name": "O Amor \u00e9 Complicado",
+      "url": "https://open.spotify.com/track/6m2TueLyXowKFDMuuuy5Qp"
+    },
+    {
+      "added_at": "2022-11-11 12:58:45",
       "album": {
         "name": "Dreamer",
         "url": "https://open.spotify.com/album/5YfLvxcH8jCibShM4ogLUr"
@@ -1637,59 +1753,7 @@
       "url": "https://open.spotify.com/track/1vVm7i0MsbvRSGaX9SkyP0"
     },
     {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/5dFmnDotQPcuXAA2kdogmo"
-      },
-      "artists": [
-        {
-          "name": "Jane Monheit",
-          "url": "https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ"
-        },
-        {
-          "name": "Toots Thielemans",
-          "url": "https://open.spotify.com/artist/0KyolDFb1RjJQb4qXZKCqo"
-        }
-      ],
-      "duration_ms": 298280,
-      "name": "Caminhos Cruzados",
-      "url": "https://open.spotify.com/track/3hHolrvl7uISYbrLMcmL61"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
-        "name": "Way Down Low",
-        "url": "https://open.spotify.com/album/0v17RR0BzdoAC1Pn5MYSkz"
-      },
-      "artists": [
-        {
-          "name": "Kat Edmonson",
-          "url": "https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds"
-        }
-      ],
-      "duration_ms": 284426,
-      "name": "What Else Can I Do",
-      "url": "https://open.spotify.com/track/7vN8crjRMzMcbGLGn0STOn"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
-        "name": "Tanto Tempo",
-        "url": "https://open.spotify.com/album/0Z4pW2hvnmlTLWSGEozZ5n"
-      },
-      "artists": [
-        {
-          "name": "Bebel Gilberto",
-          "url": "https://open.spotify.com/artist/6gk4ierjjSVPoZep27VfZz"
-        }
-      ],
-      "duration_ms": 208893,
-      "name": "Samba E Amor",
-      "url": "https://open.spotify.com/track/3rijcoxodxiawDIr9K9TYN"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
+      "added_at": "2022-11-11 12:58:45",
       "album": {
         "name": "Bossa Nova - This Is Jazz # 29",
         "url": "https://open.spotify.com/album/0ZjoVVcivTAErI32AUtwOW"
@@ -1705,116 +1769,36 @@
       "url": "https://open.spotify.com/track/74WrcYUQjTFhOecnV2ZwVo"
     },
     {
-      "added_at": "2022-11-10 23:00:00",
+      "added_at": "2022-11-11 12:58:45",
       "album": {
-        "name": "Blue Bossa",
-        "url": "https://open.spotify.com/album/6XF9UCkQSJoS581x2pdG81"
+        "name": "Once I Loved",
+        "url": "https://open.spotify.com/album/0MyW4ebA1Otb0YYXeVOtnP"
       },
       "artists": [
         {
-          "name": "Ana Caram",
-          "url": "https://open.spotify.com/artist/6wo2wDOKUSRpTSB7c21DyV"
+          "name": "Logan Perez Trio",
+          "url": "https://open.spotify.com/artist/1LkgOk5uGieE5FGkTxGNIw"
         }
       ],
-      "duration_ms": 267493,
-      "name": "Blue Bossa",
-      "url": "https://open.spotify.com/track/30C4zBKFkScobGBxIPCuS1"
+      "duration_ms": 434476,
+      "name": "Once I Loved",
+      "url": "https://open.spotify.com/track/0M6auxy6hLBXBhniH5UR2U"
     },
     {
-      "added_at": "2022-11-10 23:00:00",
+      "added_at": "2022-11-11 12:58:45",
       "album": {
-        "name": "The Music of Brazil / Elizeth Cardoso, Vol. 1 / Recordings 1955 - 1957",
-        "url": "https://open.spotify.com/album/2jtHEWxRT5QVF2p872riFt"
+        "name": "Way Down Low",
+        "url": "https://open.spotify.com/album/0v17RR0BzdoAC1Pn5MYSkz"
       },
       "artists": [
         {
-          "name": "Elizeth Cardoso",
-          "url": "https://open.spotify.com/artist/5w4qi7KMTWcV7sgXgVoPwW"
+          "name": "Kat Edmonson",
+          "url": "https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds"
         }
       ],
-      "duration_ms": 115266,
-      "name": "Outra Vez",
-      "url": "https://open.spotify.com/track/2Ci1wKycW15sG9tYFadSqa"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
-        "name": "Os Sonhos Mais Lindos",
-        "url": "https://open.spotify.com/album/5tfZHb7o4EzwPl7w0nMoR0"
-      },
-      "artists": [
-        {
-          "name": "Elis Regina",
-          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
-        }
-      ],
-      "duration_ms": 225333,
-      "name": "S\u00f3 Tinha De Ser Com Voce (Com Tom)",
-      "url": "https://open.spotify.com/track/33NLorbVmhAZ0nmgOhWFbY"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
-        "name": "Dreamer",
-        "url": "https://open.spotify.com/album/5YfLvxcH8jCibShM4ogLUr"
-      },
-      "artists": [
-        {
-          "name": "Eliane Elias",
-          "url": "https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR"
-        }
-      ],
-      "duration_ms": 314786,
-      "name": "So Nice (Samba de Verao)",
-      "url": "https://open.spotify.com/track/4JP5ptajY7ON3UY8q6EMQ8"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
-        "name": "Keep Me In Your Heart For A While: The Best Of Madeleine Peyroux",
-        "url": "https://open.spotify.com/album/1TRQHKr7uWu387QasBT7S5"
-      },
-      "artists": [
-        {
-          "name": "Madeleine Peyroux",
-          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
-        }
-      ],
-      "duration_ms": 262493,
-      "name": "Half The Perfect World",
-      "url": "https://open.spotify.com/track/1kq4ocVnCIxl1ZwXrlPq2c"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
-        "name": "Verve Jazz Masters 13: Antonio Carlos Jobim",
-        "url": "https://open.spotify.com/album/4uFZbUN1TogRO5PTIeDpjr"
-      },
-      "artists": [
-        {
-          "name": "Ant\u00f4nio Carlos Jobim",
-          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
-        }
-      ],
-      "duration_ms": 205266,
-      "name": "O Morro N\u00e3o Tem Vez",
-      "url": "https://open.spotify.com/track/0BFY4ELzGsvmBEJDqCmkyj"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
-        "name": "Greatest Hits Series--Paul Desmond",
-        "url": "https://open.spotify.com/album/3bBvPOUVZz1NxBBqpJf20b"
-      },
-      "artists": [
-        {
-          "name": "Paul Desmond",
-          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
-        }
-      ],
-      "duration_ms": 240706,
-      "name": "Embarcadero",
-      "url": "https://open.spotify.com/track/3zDRToKAQvpvyIbb06b4RD"
+      "duration_ms": 284426,
+      "name": "What Else Can I Do",
+      "url": "https://open.spotify.com/track/7vN8crjRMzMcbGLGn0STOn"
     }
   ],
   "unique_name": "Bossa Chill",

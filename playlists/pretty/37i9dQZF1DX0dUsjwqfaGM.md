@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dUsjwqfaGM.md) - [plain]
 
 > Thế hệ nghệ sĩ mới\. Nếu sử dụng 📲, bấm ☉ phía trên ☝ để khám phá thêm về nghệ sĩ ảnh bìa Rhosy
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,408 likes - 41 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,412 likes - 41 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dUsjwqfaGM.md) - [plain]
 | 27 | [Giáng Sinh Trong Mơ \(feat\. Tyronee\)](https://open.spotify.com/track/2I7JvYMAzHFksLzIy6FIfj) | [VSTRA](https://open.spotify.com/artist/2aMo0CYbTieTisS0BlWc59), [Tyronee](https://open.spotify.com/artist/04xz9bIBYTIqEpmRvQkfvu) | [Giáng Sinh Trong Mơ \(feat\. Tyronee\)](https://open.spotify.com/album/3NZDaTcY8YBenGRQ3ZAM0H) | 4:09 |
 | 28 | [vaicaunoicokhiennguoithaydoi \- Acoustic](https://open.spotify.com/track/0xi7bCx9m2rgPbCN6Xhlel) | [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV) | [Hương Mùa Hè EP.01](https://open.spotify.com/album/7Do6GQrbmkYtOjg1S2HRe3) | 3:42 |
 | 29 | [Mê](https://open.spotify.com/track/6Rbz4nzR4ytexB7Zx28AmL) | [Hoàng Duyên](https://open.spotify.com/artist/3LbBKYlyMaATS8IIe7HJ0d) | [Mê](https://open.spotify.com/album/48ZqlDgLxU4jjkUGnopIFk) | 3:38 |
-| 30 | [Dù Cho Mai Về Sau](https://open.spotify.com/track/4Iz5EWPCAT8jYNk4IpLoll) | [buitruonglinh](https://open.spotify.com/artist/7Cp2hGcriAaDUAWpXnSEwm) | [Dù Cho Mai Về Sau](https://open.spotify.com/album/38rXnQ4McNlZGTA3WNPNc1) | 3:53 |
+| 30 | [Dù Cho Mai Về Sau](https://open.spotify.com/track/6mGfDpzpCgaw0CSqbBQQOr) | [buitruonglinh](https://open.spotify.com/artist/7Cp2hGcriAaDUAWpXnSEwm) | [Dù Cho Mai Về Sau](https://open.spotify.com/album/3F7mY0fIvUaVWY8KLu3xlr) | 3:53 |
 | 31 | [Hướng Dương](https://open.spotify.com/track/65uxT4ZGe6eOABj1g5V2Fj) | [Changg](https://open.spotify.com/artist/1nX1HVIUo1Zfs3e2v3lFb9) | [Hướng Dương](https://open.spotify.com/album/6sUgmtdrcZRJxRsfbxUxqc) | 3:39 |
 | 32 | [Words You Want \(feat\. SOI\)](https://open.spotify.com/track/3VvsQQVICDghw26uFsrs8O) | [Rhosy](https://open.spotify.com/artist/3lL6jMbIkYzyxsXn3TU7GK), [SOI](https://open.spotify.com/artist/5b35BALBqCHvoV4vcbZQ1P) | [Words You Want \(feat\. SOI\)](https://open.spotify.com/album/1Cbw4XP3Kpv2IjH2ZlwZ2Z) | 2:24 |
 | 33 | [Cô Nàng Khác Người](https://open.spotify.com/track/0lXtQXwhZImnpjmpze8ykX) | [Pixel Neko](https://open.spotify.com/artist/6lKBdKySIpWUb4tA7hYzU7), [Ngơ](https://open.spotify.com/artist/4RGBKkUyyvsim9vdBKCCkc), [Wxrdie](https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw) | [Cô Nàng Khác Người](https://open.spotify.com/album/5G0VCs90WtjTJV3CaRBbL1) | 3:06 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dUsjwqfaGM.md) - [plain]
 | 40 | [Obsessed](https://open.spotify.com/track/1uCmkKTV9aiMZrVJm1zDoT) | [Rhosy](https://open.spotify.com/artist/3lL6jMbIkYzyxsXn3TU7GK) | [Obsessed](https://open.spotify.com/album/6PiV1ByuZd4o8HUwI83yav) | 2:28 |
 | 41 | [STAY FOR A WHILE](https://open.spotify.com/track/3krMz49aQyQny6U65HNHvA) | [Vxllish](https://open.spotify.com/artist/27RxVUWFswWxJaZzF1R3CT), [Pixel Neko](https://open.spotify.com/artist/6lKBdKySIpWUb4tA7hYzU7) | [STAY FOR A WHILE](https://open.spotify.com/album/3kaF1ubPMNkq47EkGptClH) | 3:47 |
 
-Snapshot ID: `MTY2NTcwODU3MCwwMDAwMDAwMDIyZWI3YzU2OTQ3NmI5NzE4NTYxMGJlY2QwNzdmMWFm`
+Snapshot ID: `MTY2NTcwODU3MCwwMDAwMDAwMGIzMmZlZDViNTBhYWEzMzdlYWZlMTNkNDU0M2E3MjI3`

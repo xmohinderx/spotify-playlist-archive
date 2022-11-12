@@ -448,6 +448,24 @@
     },
     {
       "album": {
+        "name": "Up And Coming Groups",
+        "url": "https://open.spotify.com/album/0GSB0dlJJpfvOseGwdvk1U"
+      },
+      "artists": [
+        {
+          "name": "NIGHT FLIGHT",
+          "url": "https://open.spotify.com/artist/2nMtboATQpmDWebmKRsqpE"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232573,
+      "name": "David",
+      "url": "https://open.spotify.com/track/07QULx2fegQkAFzCxOAISy"
+    },
+    {
+      "album": {
         "name": "David",
         "url": "https://open.spotify.com/album/1Fl0WDWf50xNMMnAm8ob4j"
       },
@@ -477,7 +495,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 232573,
       "name": "David",
       "url": "https://open.spotify.com/track/6LXSmPnZczqqzYqVFHupHW"
@@ -610,6 +628,24 @@
     },
     {
       "album": {
+        "name": "Ritchie Sacramento",
+        "url": "https://open.spotify.com/album/7l4srAaJNA9IIQNBJj7eqA"
+      },
+      "artists": [
+        {
+          "name": "Mogwai",
+          "url": "https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310120,
+      "name": "Dry Fantasy",
+      "url": "https://open.spotify.com/track/2oUXRX74mg3tByEamEIPIW"
+    },
+    {
+      "album": {
         "name": "As The Love Continues",
         "url": "https://open.spotify.com/album/4LjNbxlMmWNn5Yky9bfxRm"
       },
@@ -621,7 +657,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 310120,
       "name": "Dry Fantasy",
       "url": "https://open.spotify.com/track/7lABwF6gabjOLifJFuAaKi"
@@ -2013,10 +2049,28 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 231320,
       "name": "Redeye",
       "url": "https://open.spotify.com/track/0dOhHUYXDhNzKWtsvaNv3R"
+    },
+    {
+      "album": {
+        "name": "Bella Notte",
+        "url": "https://open.spotify.com/album/0ewRutFrDWZee6M7KiyPRg"
+      },
+      "artists": [
+        {
+          "name": "Richard Orofino",
+          "url": "https://open.spotify.com/artist/3xXUZ2bPGudLudm2eBE7I0"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231320,
+      "name": "Redeye",
+      "url": "https://open.spotify.com/track/4JBAXwWUQEB2qVJFBmVAIu"
     },
     {
       "album": {

@@ -3701,7 +3701,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": null,
       "duration_ms": 176546,
       "name": "Don't fight the feeling",
       "url": "https://open.spotify.com/track/42fR3oINF3KfXCDtheoNiY"
@@ -4725,6 +4725,24 @@
       "duration_ms": 206866,
       "name": "Feel Special",
       "url": "https://open.spotify.com/track/2HtcPHFdo7eu4Ilbvb0BVI"
+    },
+    {
+      "album": {
+        "name": "Feel Special",
+        "url": "https://open.spotify.com/album/3NQBPabmRm3LzVcmtkTLfo"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206866,
+      "name": "Feel Special",
+      "url": "https://open.spotify.com/track/3Hz3tTQwOdM6XkA0ALB2G9"
     },
     {
       "album": {
@@ -8845,7 +8863,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 204991,
       "name": "MOMMAE",
       "url": "https://open.spotify.com/track/1LNlfvPQmB0cqYJQQskZ8x"
@@ -12259,7 +12277,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 169566,
       "name": "SOLO",
       "url": "https://open.spotify.com/track/2wVDWtLKXunswWecARNILj"
@@ -13241,7 +13259,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-19",
+      "date_removed": null,
       "duration_ms": 210051,
       "name": "The Real - Heung Version",
       "url": "https://open.spotify.com/track/36pZ33EaTBFSl4n0asZYNU"
@@ -14301,7 +14319,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 208240,
       "name": "What is Love",
       "url": "https://open.spotify.com/track/3zhbXKFjUDw40pTYyCgt1Y"

@@ -4,7 +4,7 @@
 
 > We found dancing\. Listen to a selection from <a href="https://www.thewarehouseproject.com/ticketlist">The Warehouse Project</a> to celebrate their return to Manchester this month!
 
-64 songs - 6 hr 7 min - [published](https://open.spotify.com/playlist/35TmqE1z8EnbA23NNKAylV)
+66 songs - 6 hr 17 min - [published](https://open.spotify.com/playlist/35TmqE1z8EnbA23NNKAylV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,8 +23,9 @@
 | [Can't Help It](https://open.spotify.com/track/7z2oL4N6nkOY39PXLASCpO) | [Baba Stiltz](https://open.spotify.com/artist/1xaQSClXcsc1JvxZ2qnwBF) | [Can't Help It](https://open.spotify.com/album/4dOyCbf2Qpy6XCrVVSTLBp) | 5:38 | 2021-09-21 |  |
 | [Closing Shot](https://open.spotify.com/track/1ROqr2iZR9SSGv0PvlPssV) | [Lindstrøm](https://open.spotify.com/artist/2vTtjIqZ7hW0W15t1ApKTB) | [Closing Shot](https://open.spotify.com/album/1skGl2lZ48OV8KUalrFBPD) | 8:23 | 2021-09-21 |  |
 | [Closing Shot](https://open.spotify.com/track/7iBVGmmFSNhf5ddFK1iCLj) | [Lindstrøm](https://open.spotify.com/artist/2vTtjIqZ7hW0W15t1ApKTB) | [Closing Shot](https://open.spotify.com/album/4FTzWteiP0vCyT9h3dz7G3) | 8:23 | 2021-09-21 | 2022-07-29 |
+| [Everybody Loves The Sunshine](https://open.spotify.com/track/6EtjsULnKjW6fHRhoPVqN6) | [Roy Ayers Ubiquity](https://open.spotify.com/artist/3WbeZvDk1COiO2dEokZqn7) | [Chill Soul](https://open.spotify.com/album/1CUqLmWvT3BEa84WvJerih) | 3:58 | 2021-09-21 |  |
 | [Everybody Loves The Sunshine](https://open.spotify.com/track/3oJrgZ6BAfyBjURlAisTuA) | [Roy Ayers Ubiquity](https://open.spotify.com/artist/3WbeZvDk1COiO2dEokZqn7) | [Everybody Loves The Sunshine](https://open.spotify.com/album/4nqut96tZjF7mRDpyBLIF5) | 3:59 | 2021-09-21 | 2022-07-29 |
-| [Everybody Loves The Sunshine](https://open.spotify.com/track/5le4sn0iMcnKU56bdmNzso) | [Roy Ayers Ubiquity](https://open.spotify.com/artist/3WbeZvDk1COiO2dEokZqn7) | [Everybody Loves The Sunshine \(Reissue\)](https://open.spotify.com/album/5JehGpTedBPXzhUcwXoIlf) | 3:59 | 2021-09-21 |  |
+| [Everybody Loves The Sunshine](https://open.spotify.com/track/5le4sn0iMcnKU56bdmNzso) | [Roy Ayers Ubiquity](https://open.spotify.com/artist/3WbeZvDk1COiO2dEokZqn7) | [Everybody Loves The Sunshine \(Reissue\)](https://open.spotify.com/album/5JehGpTedBPXzhUcwXoIlf) | 3:59 | 2021-09-21 | 2022-11-12 |
 | [Eyes Of My Mind](https://open.spotify.com/track/6eLNnJwSlwEStbIAZVAYzd) | [Axel Boman](https://open.spotify.com/artist/59qo8jHDlC1i30HVjQQW3O) | [Eyes Of My Mind](https://open.spotify.com/album/0WaYnVmCtKMrDTWffsSKb2) | 9:12 | 2021-09-21 |  |
 | [Final Credits](https://open.spotify.com/track/5gC2aJwuSzGe3IJVlk9r2O) | [Midland](https://open.spotify.com/artist/1YFLNH4rO40x9i16RpLwdY) | [Final Credits](https://open.spotify.com/album/4DR47uL0VrENkV4fuTMdOE) | 7:19 | 2021-09-21 |  |
 | [For You](https://open.spotify.com/track/2MRo59IW5O13nu0BIBqhW0) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [For You](https://open.spotify.com/album/5Gna2Z9JhoRjYR2CmIBB2r) | 5:37 | 2021-09-21 |  |
@@ -56,7 +57,8 @@
 | [Perth](https://open.spotify.com/track/6YT4QYWC7EGcUedm2UGNla) | [Kink](https://open.spotify.com/artist/6yCdWsTDt4Dmb5GMZd5QLb) | [Perth](https://open.spotify.com/album/3tEw4xxPRSOospQ0fsO9Is) | 5:22 | 2021-09-21 |  |
 | [Roy Keane](https://open.spotify.com/track/4YU7kjwU5ebyKS9QzkcAFK) | [Brame & Hamo](https://open.spotify.com/artist/0GH3NHvWddE49Egn2D5aRg) | [Club Orange EP](https://open.spotify.com/album/7fAGnHQ6poScvCt2gxcxHK) | 6:43 | 2021-09-21 |  |
 | [Sincere](https://open.spotify.com/track/4sz1Eo19ayaSpMhnb865Fb) | [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl) | [Sincere \(Commercial\)](https://open.spotify.com/album/6HeyW5oBSlc7CrSoyJ67Fd) | 5:38 | 2021-09-21 | 2022-07-29 |
-| [Sincere \- Re\-Cue'D](https://open.spotify.com/track/3ttQGouvKMlbI2bTgAMWup) | [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl), [Nova Caspar](https://open.spotify.com/artist/3jslBrqnHkIjs2PSUKJae0), [jaydee](https://open.spotify.com/artist/7dkFT090qwJt2IDXvCZwNG) | [Sincere \(Deluxe\)](https://open.spotify.com/album/0V76cokjWCIMO2pnElF1mw) | 5:38 | 2021-09-21 |  |
+| [Sincere \- Re\-Cue'D](https://open.spotify.com/track/1E2eKUEPDe5emOsWZVlLT7) | [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl), [Nova Caspar](https://open.spotify.com/artist/3jslBrqnHkIjs2PSUKJae0), [jaydee](https://open.spotify.com/artist/7dkFT090qwJt2IDXvCZwNG) | [Dancefloor Fillers](https://open.spotify.com/album/2aXgWhYNZWlwDctBuDQCXi) | 5:38 | 2021-09-21 |  |
+| [Sincere \- Re\-Cue'D](https://open.spotify.com/track/3ttQGouvKMlbI2bTgAMWup) | [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl), [Nova Caspar](https://open.spotify.com/artist/3jslBrqnHkIjs2PSUKJae0), [jaydee](https://open.spotify.com/artist/7dkFT090qwJt2IDXvCZwNG) | [Sincere \(Deluxe\)](https://open.spotify.com/album/0V76cokjWCIMO2pnElF1mw) | 5:38 | 2021-09-21 | 2022-11-12 |
 | [Spies Are Watching Me](https://open.spotify.com/track/1UIqpCB0b56K7U0JJPfskN) | [Voilaaa](https://open.spotify.com/artist/6MQoRoLtsUg7Fzi5nJGmC1), [Sir Jean](https://open.spotify.com/artist/4SkHS4kCrdABhw4KLVrOz0) | [On te l'avait dit](https://open.spotify.com/album/769hXvYI0EBGEC2ldfRgnp) | 7:12 | 2021-09-21 |  |
 | [Star Guitar](https://open.spotify.com/track/19mC6xktT1JyyycK6cQaXA) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [Come With Us](https://open.spotify.com/album/56nVadPbdCs1yGB0AtXSGp) | 6:27 | 2021-09-21 |  |
 | [Supreme Level](https://open.spotify.com/track/2QaVPjEedRzUoYkP9duY1k) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [Darkside](https://open.spotify.com/album/7vYyuyPUzefAvNTmfrPzkq) | 5:05 | 2021-09-21 |  |

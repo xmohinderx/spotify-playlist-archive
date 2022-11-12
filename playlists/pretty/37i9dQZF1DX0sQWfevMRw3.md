@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > Cheva på fredag och långburk i varje hand!
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,097 likes - 100 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,383 likes - 100 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 21 | [BARA EN VANLIG MAN](https://open.spotify.com/track/7L0BcMnlPp2C4xYQSb6I8X) | [Studavigå](https://open.spotify.com/artist/4dReOlQZoHTfnk2608Gwf6) | [BARA EN VANLIG MAN](https://open.spotify.com/album/15Ncoc6HK9UPbODUDGZxWY) | 2:01 |
 | 22 | [JAG TÅL INTE ET NEI](https://open.spotify.com/track/1T3Amb9ELrHxGoo4U5BYce) | [Studavigå](https://open.spotify.com/artist/4dReOlQZoHTfnk2608Gwf6) | [JAG TÅL INTE ET NEI](https://open.spotify.com/album/4nCFt93iPSH7OMUOgMDavO) | 1:57 |
 | 23 | [POLERS](https://open.spotify.com/track/3L2N1sejA5EKPKB1JOHCsX) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [POLERS](https://open.spotify.com/album/0ABOpblTw4qpuhvZpIkbbj) | 3:13 |
-| 24 | [FALCON PÅ BALKONGEN](https://open.spotify.com/track/09JIhXdFMnu6xh70L7u8vm) | [Raggarligan](https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH), [Bangården](https://open.spotify.com/artist/4C21ZKaA4EX1PRXoNsAV7c), [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj) | [FALCON PÅ BALKONGEN](https://open.spotify.com/album/2u6cTSzd8JZd4aMTR8mTkK) | 1:52 |
+| 24 | [FALCON PÅ BALKONGEN](https://open.spotify.com/track/1DzqMzEhurjZQW8jEIcWc5) | [Raggarligan](https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH), [Bangården](https://open.spotify.com/artist/4C21ZKaA4EX1PRXoNsAV7c), [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj) | [FALCON PÅ BALKONGEN](https://open.spotify.com/album/2Mo7IXnnB3GUxXnB2R5uBL) | 1:52 |
 | 25 | [Dum](https://open.spotify.com/track/3fd8cxZvehZNFD8KUri30T) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Dum](https://open.spotify.com/album/0zGsicnETkTL5A9UIqwXeG) | 2:48 |
 | 26 | [SATISFYER](https://open.spotify.com/track/5Hz79qfFkTjXI4GNATCnDW) | [Fucktoyz](https://open.spotify.com/artist/3Dbyn9rbYNg2zgGBxoEulO), [BR0D3R](https://open.spotify.com/artist/0NSC3dpFINJlCOdJLSz2Ow), [Russebassisten](https://open.spotify.com/artist/3KMDuL3T8s1cMvN2PntlLZ) | [SATISFYER](https://open.spotify.com/album/03ZjquvHVqs5LhfAet3QtU) | 2:14 |
 | 27 | [SUPA](https://open.spotify.com/track/4gORd3Ws62ueWU2tQ2Fe16) | [De Vet Du](https://open.spotify.com/artist/7iW0o1suit8xY24m9M5L0u), [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [SUPA](https://open.spotify.com/album/74R5y9CwBBcBNGTmm1vkww) | 2:58 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 99 | [Trombone](https://open.spotify.com/track/3vYP0NDCcoPiUHpmtq9YIq) | [AronChupa](https://open.spotify.com/artist/5vCOdeiQt9LyzdI87kt5Sh), [Little Sis Nora](https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9) | [Trombone](https://open.spotify.com/album/6VPECzab2eRuuUBRtBmvUT) | 2:46 |
 | 100 | [Uppe Hela Natten](https://open.spotify.com/track/6t1VM2Scy6n5911yELH3KT) | [Smörebua](https://open.spotify.com/artist/3choMl26IyqK5yBJPwN2Qk) | [Uppe Hela Natten](https://open.spotify.com/album/6kwKhsvbUBtYLnoM4rio5t) | 2:30 |
 
-Snapshot ID: `MTY2ODEyMTIwMCwwMDAwMDAwMDcwZWVlYzAzNDRjOTFiNTBhNGNkMmE3ZGFlMzY1MTc1`
+Snapshot ID: `MTY2ODEyMTIwMCwwMDAwMDAwMDRjYWZlZmQ3ZDhiOTdiMmZiYzM4ZDQzODNkZTNkMGQz`

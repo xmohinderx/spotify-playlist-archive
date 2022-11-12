@@ -1,320 +1,280 @@
 {
   "description": "Song Of The Week at the top. Standouts go to <a href=\"https://open.spotify.com/playlist/0qZqvnSwqnQJy3DnEuPgCy\">Big Hit Energy</a> and <a href=\"https://open.spotify.com/playlist/5sjfG5VAi8rT3Dj76cUWEv\">2022% Solid Pop Music</a>. More: <a href=\"http://popjustice.com\">Popjustice.com</a>.",
-  "num_followers": 10437,
+  "num_followers": 10441,
   "original_name": "New Music Friday: The Popjustice Edit",
   "owner": {
     "name": "Popjustice",
     "url": "https://open.spotify.com/user/popjustice"
   },
-  "snapshot_id": "MjQ0OSw5YWFkMTc5MWI5ZjJlM2EyZmU4MWE5NGMwM2E3N2UwNWJhYzBhMzA4",
+  "snapshot_id": "MjQ1MyxhMWM3MjI3NTBjMGQyMDkzODM5OGEwMjY2MDBlMTI5ZGFlYzJlZDE5",
   "tracks": [
     {
-      "added_at": "2022-11-04 08:55:15",
+      "added_at": "2022-11-11 11:27:14",
       "album": {
-        "name": "Lovesick",
-        "url": "https://open.spotify.com/album/2WYETJesea0OP320GV0e3e"
+        "name": "Weapons",
+        "url": "https://open.spotify.com/album/2tjMJuZqFVUqHrvXTkhZzO"
       },
       "artists": [
         {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Sophie Simmons",
-          "url": "https://open.spotify.com/artist/7AOCUMe3rKW4o3uADBNwVy"
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
         }
       ],
-      "duration_ms": 129024,
-      "name": "Lovesick",
-      "url": "https://open.spotify.com/track/5hB6UN3hxca8CP6dqs67On"
+      "duration_ms": 151592,
+      "name": "Weapons",
+      "url": "https://open.spotify.com/track/21JOYA45JFkrOjqNwI6g8E"
     },
     {
-      "added_at": "2022-11-04 08:55:15",
-      "album": {
-        "name": "100% Pure Love",
-        "url": "https://open.spotify.com/album/1YTJKcEfwPsi53BAPu3RXG"
-      },
-      "artists": [
-        {
-          "name": "Years & Years",
-          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
-        }
-      ],
-      "duration_ms": 180825,
-      "name": "100% Pure Love",
-      "url": "https://open.spotify.com/track/46id9snGVXnL2aUR5nISKC"
-    },
-    {
-      "added_at": "2022-11-04 08:55:15",
-      "album": {
-        "name": "10:35",
-        "url": "https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 172252,
-      "name": "10:35",
-      "url": "https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3"
-    },
-    {
-      "added_at": "2022-11-04 08:55:15",
+      "added_at": "2022-11-11 11:27:14",
       "album": {
         "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
-        "url": "https://open.spotify.com/album/0Wyn0fD9sZIu00xTyXF4eK"
+        "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
       },
       "artists": [
         {
-          "name": "Tobe Nwigwe",
-          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Born Again",
+      "url": "https://open.spotify.com/track/18zQTt3ifDv6iLni2YuXMg"
+    },
+    {
+      "added_at": "2022-11-11 11:27:14",
+      "album": {
+        "name": "Something Like This",
+        "url": "https://open.spotify.com/album/0P9erItxskV82Dxgxh7vZv"
+      },
+      "artists": [
+        {
+          "name": "SKAAR",
+          "url": "https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ"
+        }
+      ],
+      "duration_ms": 194741,
+      "name": "Something Like This",
+      "url": "https://open.spotify.com/track/6hLUtAJPRXEFirS4TlDEa7"
+    },
+    {
+      "added_at": "2022-11-11 11:27:14",
+      "album": {
+        "name": "ALLIGATOR",
+        "url": "https://open.spotify.com/album/09p1I6ZNxIvf7ZrYbbGsrb"
+      },
+      "artists": [
+        {
+          "name": "NOISY",
+          "url": "https://open.spotify.com/artist/5bt1iZVk3VV1LxRL4wzZ9F"
+        }
+      ],
+      "duration_ms": 149026,
+      "name": "ALLIGATOR",
+      "url": "https://open.spotify.com/track/6ncPi3mb947i4CrummFrGF"
+    },
+    {
+      "added_at": "2022-11-11 11:27:14",
+      "album": {
+        "name": "unlock it",
+        "url": "https://open.spotify.com/album/2wNMY96gtVfhl5cvtq9VCi"
+      },
+      "artists": [
+        {
+          "name": "piri",
+          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
         },
         {
-          "name": "Fat Nwigwe",
-          "url": "https://open.spotify.com/artist/6vKEwTQ0TVz0aJoobvLG1Y"
-        }
-      ],
-      "duration_ms": 157440,
-      "name": "They Want It, But No",
-      "url": "https://open.spotify.com/track/0INhc870cm8AiSzujM3OlA"
-    },
-    {
-      "added_at": "2022-11-04 08:55:15",
-      "album": {
-        "name": "Never Be The One",
-        "url": "https://open.spotify.com/album/3SRCDfQSwLNwCoBcYznuNg"
-      },
-      "artists": [
-        {
-          "name": "Olivia O'Brien",
-          "url": "https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp"
-        }
-      ],
-      "duration_ms": 201048,
-      "name": "Never Be The One",
-      "url": "https://open.spotify.com/track/6JF0rThWWZ1KDOAA2GC0T8"
-    },
-    {
-      "added_at": "2022-11-04 08:55:15",
-      "album": {
-        "name": "Promise Me",
-        "url": "https://open.spotify.com/album/3iWjGJLff2vaXrMnK4diKO"
-      },
-      "artists": [
-        {
-          "name": "Rose Gray",
-          "url": "https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA"
-        }
-      ],
-      "duration_ms": 225346,
-      "name": "Promise Me",
-      "url": "https://open.spotify.com/track/5Q6rRzLM5tfiCffpdTgUXn"
-    },
-    {
-      "added_at": "2022-11-04 11:37:16",
-      "album": {
-        "name": "Last Day of Summer",
-        "url": "https://open.spotify.com/album/3Y5TMxrMsPK5DtsD0A2ABo"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 190268,
-      "name": "Last Day of Summer",
-      "url": "https://open.spotify.com/track/2PSEWm8PyOFrl0DFRxJFCJ"
-    },
-    {
-      "added_at": "2022-11-04 08:55:15",
-      "album": {
-        "name": "SPIT IN MY FACE!",
-        "url": "https://open.spotify.com/album/5wtEXxqlCbVuy7hxDsTX3K"
-      },
-      "artists": [
-        {
-          "name": "ThxSoMch",
-          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
-        }
-      ],
-      "duration_ms": 147874,
-      "name": "SPIT IN MY FACE!",
-      "url": "https://open.spotify.com/track/2jkyPVk1nbpsZD0KAS98Zw"
-    },
-    {
-      "added_at": "2022-11-04 08:55:15",
-      "album": {
-        "name": "World Is Empty",
-        "url": "https://open.spotify.com/album/5cx3KsmqYxXUEm63MGODda"
-      },
-      "artists": [
-        {
-          "name": "Skream",
-          "url": "https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW"
+          "name": "Tommy Villiers",
+          "url": "https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN"
         },
         {
-          "name": "Jansons",
-          "url": "https://open.spotify.com/artist/0gztzLIt9uRDJd4Jl9TSLY"
+          "name": "piri & tommy",
+          "url": "https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65"
         }
       ],
-      "duration_ms": 196030,
-      "name": "World Is Empty",
-      "url": "https://open.spotify.com/track/5hj2rvMtaOkhrkAaPvqvL6"
+      "duration_ms": 193614,
+      "name": "unlock it",
+      "url": "https://open.spotify.com/track/2QftMbZmNtjmZIJtpzdTAe"
     },
     {
-      "added_at": "2022-11-04 08:55:15",
+      "added_at": "2022-11-11 11:28:20",
       "album": {
-        "name": "Never Gonna Not Dance Again",
-        "url": "https://open.spotify.com/album/6MCHSjoEVriUjWE6LERAaR"
+        "name": "Enter the Day",
+        "url": "https://open.spotify.com/album/3YRiNEZNa2NFdZlknRKFwX"
       },
       "artists": [
         {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+          "name": "Patrick Wolf",
+          "url": "https://open.spotify.com/artist/6s92YZUPkTK1HL1WIGrPKE"
         }
       ],
-      "duration_ms": 225789,
-      "name": "Never Gonna Not Dance Again",
-      "url": "https://open.spotify.com/track/6sZo5nJIsFWXefRCCexpx0"
+      "duration_ms": 276533,
+      "name": "Enter the Day",
+      "url": "https://open.spotify.com/track/5RXhBTtC5zRxN8purI55kL"
     },
     {
-      "added_at": "2022-11-04 08:55:15",
+      "added_at": "2022-11-11 11:27:14",
       "album": {
-        "name": "JUMPSTART",
-        "url": "https://open.spotify.com/album/3tmkaAWU7c2g3BWQ7rdZpR"
+        "name": "L\u00e4ttdistraherad",
+        "url": "https://open.spotify.com/album/6JSgAWoN9pLS9Jn6O4NiXX"
       },
       "artists": [
         {
-          "name": "A7S",
-          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
+          "name": "Dotter",
+          "url": "https://open.spotify.com/artist/5CPsScBTPYY11Lv4Eb7k4t"
         }
       ],
-      "duration_ms": 157500,
-      "name": "JUMPSTART",
-      "url": "https://open.spotify.com/track/7LnkcJhUZ0qs0HoyRm61xr"
+      "duration_ms": 181735,
+      "name": "L\u00e4ttdistraherad",
+      "url": "https://open.spotify.com/track/6CXc1Q9IBBxfOQVQCYBMhk"
     },
     {
-      "added_at": "2022-11-04 08:55:15",
+      "added_at": "2022-11-11 11:27:14",
       "album": {
-        "name": "Baby Queen",
-        "url": "https://open.spotify.com/album/6WHjLRAwmnJv2cHqVZrmOt"
+        "name": "Fai Fighter",
+        "url": "https://open.spotify.com/album/7hkFfZ5m3KUoVPp7yvXxSg"
       },
       "artists": [
         {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+          "name": "yun\u00e8 pinku",
+          "url": "https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD"
         }
       ],
-      "duration_ms": 220105,
-      "name": "Baby Queen",
-      "url": "https://open.spotify.com/track/0dFwiyWPwC2yML3ZH7B56V"
+      "duration_ms": 240601,
+      "name": "Fai Fighter",
+      "url": "https://open.spotify.com/track/3dfMqkZsvmoBFgyEe8878r"
     },
     {
-      "added_at": "2022-11-04 08:55:15",
+      "added_at": "2022-11-11 11:27:14",
       "album": {
-        "name": "Right Here",
-        "url": "https://open.spotify.com/album/0KwZZngR8ey7uP5b2hZbvA"
+        "name": "Everything To Everyone",
+        "url": "https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ"
       },
       "artists": [
         {
-          "name": "Begonia",
-          "url": "https://open.spotify.com/artist/4imuw38jkxPpTDqeMZDZD6"
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
         }
       ],
-      "duration_ms": 187000,
-      "name": "Right Here",
-      "url": "https://open.spotify.com/track/3FnKaZ46ugABYhf5ONm1GZ"
+      "duration_ms": 156631,
+      "name": "Too Well",
+      "url": "https://open.spotify.com/track/6Szgu8v7CAapag3XuuJX0b"
     },
     {
-      "added_at": "2022-11-04 08:55:15",
+      "added_at": "2022-11-11 11:27:14",
       "album": {
-        "name": "Miss Power",
-        "url": "https://open.spotify.com/album/37pi6A0dr6Puse1u2xHkdD"
+        "name": "Replay",
+        "url": "https://open.spotify.com/album/5B7YUe51m5YSss72USkQoE"
       },
       "artists": [
         {
-          "name": "Connie Constance",
-          "url": "https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt"
+          "name": "Cub Sport",
+          "url": "https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt"
         }
       ],
-      "duration_ms": 137840,
-      "name": "Kamikaze",
-      "url": "https://open.spotify.com/track/0JpQfoBOdJ2ftUi7VGj6dx"
+      "duration_ms": 203699,
+      "name": "Replay",
+      "url": "https://open.spotify.com/track/65PBk5Sinl37TnGFCHhZ5W"
     },
     {
-      "added_at": "2022-11-04 08:55:15",
+      "added_at": "2022-11-11 11:27:14",
       "album": {
-        "name": "Spend It (feat. Circa Waves)",
-        "url": "https://open.spotify.com/album/31Idf7YAsQlyJQH6aews9S"
+        "name": "Temptation",
+        "url": "https://open.spotify.com/album/5dG49c8MhEyWmZ7ukcrQmu"
       },
       "artists": [
         {
-          "name": "Peking Duk",
-          "url": "https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY"
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+        }
+      ],
+      "duration_ms": 293662,
+      "name": "Temptation",
+      "url": "https://open.spotify.com/track/1qRSmPYphBuAZR7RjbfaCa"
+    },
+    {
+      "added_at": "2022-11-11 11:27:14",
+      "album": {
+        "name": "If Jesus Was A Rockstar",
+        "url": "https://open.spotify.com/album/7MFI6PLBQLdYZpHHokD6vL"
+      },
+      "artists": [
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "duration_ms": 170948,
+      "name": "If Jesus Was A Rockstar",
+      "url": "https://open.spotify.com/track/2FVxHTXY9Ns9RasjDXOYVq"
+    },
+    {
+      "added_at": "2022-11-11 11:27:14",
+      "album": {
+        "name": "Oh No You Didn't",
+        "url": "https://open.spotify.com/album/2nTdPLztEQ8yWd80IhpWsL"
+      },
+      "artists": [
+        {
+          "name": "Hix",
+          "url": "https://open.spotify.com/artist/5aPDZDLHc63XbN7YbLdTIO"
         },
         {
-          "name": "Circa Waves",
-          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
+          "name": "Kelli-Leigh",
+          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
         }
       ],
-      "duration_ms": 202858,
-      "name": "Spend It (feat. Circa Waves)",
-      "url": "https://open.spotify.com/track/0GJAh8pOb6YoUcnyrPETnY"
+      "duration_ms": 176369,
+      "name": "Oh No You Didn't",
+      "url": "https://open.spotify.com/track/6mx1EV7gL2xMUngYeUWYkO"
     },
     {
-      "added_at": "2022-11-04 08:55:15",
+      "added_at": "2022-11-11 11:27:14",
       "album": {
-        "name": "Alpha Zulu",
-        "url": "https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv"
+        "name": "Same Sunrise",
+        "url": "https://open.spotify.com/album/7DkaKreruueKqkN2IjfHem"
       },
       "artists": [
         {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+          "name": "Abby Simone",
+          "url": "https://open.spotify.com/artist/1OtlDAlLQBcV1FpHZJNJAN"
         }
       ],
-      "duration_ms": 191733,
-      "name": "After Midnight",
-      "url": "https://open.spotify.com/track/21rpBPAlXAvBavvu5kCQzs"
+      "duration_ms": 211893,
+      "name": "Same Sunrise",
+      "url": "https://open.spotify.com/track/4pJY4C94npAvpBbRqEh3zA"
     },
     {
-      "added_at": "2022-11-04 08:55:15",
+      "added_at": "2022-11-11 11:27:14",
       "album": {
-        "name": "How 2 Dance",
-        "url": "https://open.spotify.com/album/5zQw4r94ZH1niBQss2mW7P"
+        "name": "People (We Can Transform)",
+        "url": "https://open.spotify.com/album/7MybIYJUNaqQnbhzVWlEKn"
       },
       "artists": [
         {
-          "name": "Kaiser Chiefs",
-          "url": "https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt"
+          "name": "Crazy P",
+          "url": "https://open.spotify.com/artist/6jOz2B9qeID4dLP1o8bFGf"
         }
       ],
-      "duration_ms": 163987,
-      "name": "How 2 Dance",
-      "url": "https://open.spotify.com/track/5lacFVkSXNxxKVqdR8WjCS"
+      "duration_ms": 335717,
+      "name": "People (We Can Transform)",
+      "url": "https://open.spotify.com/track/4u3YC2MriY7AvpLNFJD8T7"
     },
     {
-      "added_at": "2022-11-04 08:55:15",
+      "added_at": "2022-11-11 11:27:14",
       "album": {
-        "name": "BLOSSOM",
-        "url": "https://open.spotify.com/album/19cwzfdUSjshrRghIuOqHd"
+        "name": "Limits",
+        "url": "https://open.spotify.com/album/5IX9e7jYLTUbqubgkxJ11B"
       },
       "artists": [
         {
-          "name": "Zach Hood",
-          "url": "https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U"
+          "name": "Emilie Nicolas",
+          "url": "https://open.spotify.com/artist/4cXE1g28uYrIaUisUx5cJt"
         }
       ],
-      "duration_ms": 128320,
-      "name": "i ain't rich, girl",
-      "url": "https://open.spotify.com/track/5FjmQ13NVjaH2WvTXXTrii"
+      "duration_ms": 252955,
+      "name": "Limits",
+      "url": "https://open.spotify.com/track/1B0iOpkr5IojCDJZt5GAp4"
     }
   ],
   "unique_name": "New Music Friday: The Popjustice Edit",

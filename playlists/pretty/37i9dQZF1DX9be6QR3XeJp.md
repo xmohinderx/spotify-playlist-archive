@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 
 > Discover your new favourite artists\. Cover: Benny Atlas
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,315 likes - 132 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,300 likes - 132 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 | 26 | [Fiorucci Made Me Hardcore](https://open.spotify.com/track/4SXZvIjujIcmMtWbjnSwZT) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Fiorucci Made Me Hardcore](https://open.spotify.com/album/1pidRw3j1dO2bHEWDCR0ep) | 3:51 |
 | 27 | [LOCK OFF](https://open.spotify.com/track/75a2Fusn6ySL6yVACqYmp9) | [ShaSimone](https://open.spotify.com/artist/0R9Z8Eu8CF5KN4zLJSRFJw) | [LOCK OFF](https://open.spotify.com/album/6r7d0q8bj7YdOVp5ZgkteW) | 2:24 |
 | 28 | [Mistake](https://open.spotify.com/track/6N5gf2cpBr7oZxwSaHkoIq) | [Bambi Bains](https://open.spotify.com/artist/2HspNtajToyPB9hjki4CVV) | [Mistake](https://open.spotify.com/album/7GrUYjKiUFLPrrMKtt0Osf) | 3:33 |
-| 29 | [Things You Said](https://open.spotify.com/track/6CJQts0D5UNDV1i2Q7Vdso) | [gglum](https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO) | [Weak Teeth](https://open.spotify.com/album/1vRRpWjoj8bSCOY28wGWDy) | 3:23 |
+| 29 | [Things You Said](https://open.spotify.com/track/2v9jInzuHKsTcGzqPbFJOs) | [gglum](https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO) | [Things You Said](https://open.spotify.com/album/6ojFzpyw4yHyOuKHG8Mt9l) | 3:23 |
 | 30 | [Streetlights](https://open.spotify.com/track/1xvXkw437Ob7JE2L09KIjH) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Streetlights](https://open.spotify.com/album/6lEyQ7UXtPv3oipyWkDHzn) | 3:18 |
 | 31 | [Will We Ever Get This Right](https://open.spotify.com/track/7Ck7GSPoBIDwNwcas05Sz1) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Will We Ever Get This Right](https://open.spotify.com/album/7Lh2dKTPYPxdNjxjTn91tZ) | 2:41 |
 | 32 | [Tinko Tinko \(Don't Play Me for a Fool\)](https://open.spotify.com/track/6f8pOnEswFwiU4FTcZicV6) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Tinko Tinko \(Don't Play Me For a Fool\)](https://open.spotify.com/album/2Dav0MhZTRuj13ZPSBYmtX) | 3:07 |
@@ -141,4 +141,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 | 131 | [Got It Good \- Radio Edit](https://open.spotify.com/track/4jhLUUDxEOYAicBx02QFPh) | [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd) | [Got It Good](https://open.spotify.com/album/6q1MJ8xThRR4WHVBRvH3OH) | 3:02 |
 | 132 | [Think That I Don't Need Your Love](https://open.spotify.com/track/1vFOdLRFuiz5K2pZ7UggOJ) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Think That I Don't Need Your Love](https://open.spotify.com/album/47T6CDeQtuDW8XvUomdeB2) | 3:43 |
 
-Snapshot ID: `MTY2ODEyNDg2MCwwMDAwMDAwMDBlNzZhMmJkYWEyYmRjNmIzZmJmYjM3MGY4OTBjZTBh`
+Snapshot ID: `MTY2ODEyNDg2MCwwMDAwMDAwMGVkNTg1YmMyNzc1YmI5NTc5MDRmYTVlNzk2MjFkM2Zl`

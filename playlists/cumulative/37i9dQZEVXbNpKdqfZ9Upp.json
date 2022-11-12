@@ -411,7 +411,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 361026,
       "name": "After Hours",
       "url": "https://open.spotify.com/track/2p8IUWQDrpjuFltbdgLOag"
@@ -1741,7 +1741,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 162832,
       "name": "B\u00e1jale",
       "url": "https://open.spotify.com/track/1LOLsJKiqBjgVg0HWAcfpF"
@@ -2005,7 +2005,7 @@
       ],
       "date_added": "2022-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-09",
+      "date_removed": null,
       "duration_ms": 191964,
       "name": "CASE 143",
       "url": "https://open.spotify.com/track/1klq7dgG1Pz0ijci5Pmae1"
@@ -3961,7 +3961,7 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 209268,
       "name": "Felices Perdidos",
       "url": "https://open.spotify.com/track/5XJWVLhYE2tsa5vXlcgT3N"
@@ -5504,6 +5504,24 @@
     },
     {
       "album": {
+        "name": "Atrapado en un Sue\u00f1o",
+        "url": "https://open.spotify.com/album/4UmrKzDJX0agxs2VF9lkaF"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287929,
+      "name": "Jueves 10",
+      "url": "https://open.spotify.com/track/7KoyXL9zghiNpXkb5iVDyj"
+    },
+    {
+      "album": {
         "name": "Jungle",
         "url": "https://open.spotify.com/album/6XromBO32uhidY3LWZORO1"
       },
@@ -5768,6 +5786,28 @@
     },
     {
       "album": {
+        "name": "LA JOAQUI | Mission 08",
+        "url": "https://open.spotify.com/album/3iB7L3jdv63EAi4TnI59cz"
+      },
+      "artists": [
+        {
+          "name": "Alan Gomez",
+          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
+        },
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149500,
+      "name": "LA JOAQUI | Mission 08",
+      "url": "https://open.spotify.com/track/3ZkUgtNi45G8qdmya5UTgV"
+    },
+    {
+      "album": {
         "name": "En Vivo, Vol.1",
         "url": "https://open.spotify.com/album/6IowhUMQKAxWr2V7qyPbcM"
       },
@@ -5943,6 +5983,24 @@
       "duration_ms": 299493,
       "name": "La ultima Vez",
       "url": "https://open.spotify.com/track/2r7TasjSuMmBixVvTJuzuF"
+    },
+    {
+      "album": {
+        "name": "SI AYER FUERA HOY",
+        "url": "https://open.spotify.com/album/1BUb9ayIoyy6T3iwMscDts"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218760,
+      "name": "Las Cometas Siempre Vuelan En Agosto",
+      "url": "https://open.spotify.com/track/1pBRLNp8QSQH6Zwos9p8Jl"
     },
     {
       "album": {
@@ -7879,7 +7937,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-31",
+      "date_removed": null,
       "duration_ms": 216752,
       "name": "No Se Va",
       "url": "https://open.spotify.com/track/4khWEpnaijN0G1x019Uzdr"
@@ -8975,7 +9033,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 196437,
       "name": "Puro Campe\u00f3n",
       "url": "https://open.spotify.com/track/1kNC7b4zXbqoceKpkGdnD8"
@@ -12729,7 +12787,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 226813,
       "name": "\u65b0\u6642\u4ee3",
       "url": "https://open.spotify.com/track/28MATCYDctW5EiBa2repxb"

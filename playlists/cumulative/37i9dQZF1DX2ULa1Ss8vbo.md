@@ -4,7 +4,7 @@
 
 > Songs from the old country: the essential traditional Irish ballads.
 
-71 songs - 4 hr 27 min - [published](https://open.spotify.com/playlist/0KDUll3BlUZ8Z5ArCYrr7l)
+72 songs - 4 hr 31 min - [published](https://open.spotify.com/playlist/0KDUll3BlUZ8Z5ArCYrr7l)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [An Dòrd Fienne \(Òrò Sè Do Bheatha Abhaile\)](https://open.spotify.com/track/3NhWg4dF7igTohuYOgr3AB) | [The Wolfe Tones](https://open.spotify.com/artist/1IxQVSOg5GFGdGfL7zjpau) | [25th Anniversary](https://open.spotify.com/album/7fTHb1SDietYPoesmOnDNh) | 2:20 | 2019-03-14 |  |
 | [Arbour Hill](https://open.spotify.com/track/3dZpG1lCzOollQ3qrylOS0) | [Eugene McEldowney](https://open.spotify.com/artist/0PUpXAEPVuX0CShc4oGdwG) | [James Connolly \- The Irish Rebel](https://open.spotify.com/album/0y3rEtlF9sLwtzVfjUebxM) | 2:35 | 2019-03-14 |  |
 | [Black Velvet Band](https://open.spotify.com/track/1E2C8AILQ4dJydKYM9cFSz) | [Paddy Reilly](https://open.spotify.com/artist/1XIifqPXfWSoTQfrcuXXtX) | [The Best Of](https://open.spotify.com/album/3gTdmsL8kxatC6KYkFCOpE) | 3:46 | 2019-03-14 | 2022-07-29 |
-| [Black Velvet Band](https://open.spotify.com/track/3q8BOrmMePwxbyswncqYCl) | [Paddy Reilly](https://open.spotify.com/artist/1XIifqPXfWSoTQfrcuXXtX) | [Paddy Reilly Now](https://open.spotify.com/album/363k1Ot58qIRyLcKFFwa7E) | 3:47 | 2022-07-13 |  |
+| [Black Velvet Band](https://open.spotify.com/track/3q8BOrmMePwxbyswncqYCl) | [Paddy Reilly](https://open.spotify.com/artist/1XIifqPXfWSoTQfrcuXXtX) | [Paddy Reilly Now](https://open.spotify.com/album/363k1Ot58qIRyLcKFFwa7E) | 3:47 | 2022-07-13 | 2022-11-12 |
 | [Boolavogue](https://open.spotify.com/track/6dXBgGcBKxOeNQFWmBDTo2) | [Brendan Bowyer](https://open.spotify.com/artist/6CynFO9vn6MsOOdLptSPwg) | [Brendan Bowyer's Ireland](https://open.spotify.com/album/6GRzetvyCVfVLek5WANDRA) | 3:42 | 2019-03-14 |  |
 | [Báidín Fheilimí](https://open.spotify.com/track/5fGkh5uh6XDRptv3WEF9A4) | [Caera](https://open.spotify.com/artist/2OzigumcbZNfTxnT1aacDw) | [Traditional Irish Gaelic Children's Songs](https://open.spotify.com/album/0pss1phhhe7ykfusGB0ck1) | 1:52 | 2019-03-14 |  |
 | [Carrickfergus](https://open.spotify.com/track/6JYdy6K3webBiLuR6kO5pT) | [Brian Kennedy](https://open.spotify.com/artist/4xZbU7XXrgG0U2e3MIEXmS), [Heff Moraes](https://open.spotify.com/artist/6HrqkCpPwHjWrg0YicMnzw) | [The Celtic Circle Collection](https://open.spotify.com/album/1waiycUuGnGAfxZOTVmlnD) | 4:58 | 2019-03-14 | 2022-07-29 |
@@ -53,6 +53,7 @@
 | [Streets of Sorrow / Birmingham Six](https://open.spotify.com/track/76yII1oubGA0n0Dz6jGfZk) | [The Pogues](https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH) | [If I Should Fall from Grace with God \(Expanded Edition\)](https://open.spotify.com/album/4V92Puney9WxGPecKtLG4L) | 4:36 | 2019-03-14 |  |
 | [The Banks of My Own Lovely Lee](https://open.spotify.com/track/67Q1ofimvF2OFttbtoXdhD) | [Joe Lynch](https://open.spotify.com/artist/3BWwtO1ioC4fSSsgjGhrAF) | [St\. Patrick's Day Collection \(Irish Favourites\)](https://open.spotify.com/album/34rqD4ZpBk09oYnT6d1vyk) | 2:47 | 2022-07-13 |  |
 | [The Banks of My Own Lovely Lee](https://open.spotify.com/track/7akq65cZi4VVRunPO2oocJ) | [Joe Lynch](https://open.spotify.com/artist/3BWwtO1ioC4fSSsgjGhrAF) | [Joe Lynch](https://open.spotify.com/album/3yg2BbVmg026qkxtJm6gKh) | 2:47 | 2022-07-13 | 2022-11-11 |
+| [The Black Velvet Band](https://open.spotify.com/track/6uCtKXUGSczndUPxCp2SJa) | [Paddy Reilly](https://open.spotify.com/artist/1XIifqPXfWSoTQfrcuXXtX) | [Pura Música Irlandesa \- Folk](https://open.spotify.com/album/5ovd8i6qSWxckukOwrmu9o) | 3:43 | 2022-07-13 |  |
 | [The Fields of Athenry](https://open.spotify.com/track/7nKnM51I2qAD7BY9h8AMNu) | [Paddy Reilly](https://open.spotify.com/artist/1XIifqPXfWSoTQfrcuXXtX) | [The Fields of Athenry](https://open.spotify.com/album/0h9f2ogbeIFvI4UPUnBlAF) | 4:39 | 2022-07-13 | 2022-11-11 |
 | [The Fields Of Athenry](https://open.spotify.com/track/3BPcgBQKNJnwLjcwXNPyx0) | [Paddy Reilly](https://open.spotify.com/artist/1XIifqPXfWSoTQfrcuXXtX) | [The Fields Of Athenry](https://open.spotify.com/album/2xHoni5Sdk23qiQniBWUQu) | 4:40 | 2019-03-14 | 2022-07-29 |
 | [The Fields of Athenry](https://open.spotify.com/track/1jD2vBUt4RfZkULf2v1MWz) | [Paddy Reilly](https://open.spotify.com/artist/1XIifqPXfWSoTQfrcuXXtX) | [Irish Roots \- Our Musical Legacy](https://open.spotify.com/album/0bGK4RUAl05I7zXwMWOawy) | 4:43 | 2022-07-13 |  |

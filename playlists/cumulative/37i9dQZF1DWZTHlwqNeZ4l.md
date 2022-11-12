@@ -4,7 +4,7 @@
 
 > Tapping Gallant, ANOHNI, and more, the Canadian duo forge a Pride list that defines eclecticism\. Listen for a new tune with Ingrid Michaelson.
 
-49 songs - 3 hr 15 min - [published](https://open.spotify.com/playlist/5ZnqR4bBjTmkxLaZkof7fU)
+50 songs - 3 hr 19 min - [published](https://open.spotify.com/playlist/5ZnqR4bBjTmkxLaZkof7fU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [Chroma](https://open.spotify.com/track/7bXZ9u4Cccw9oYOzWP31MT) | [Basenji](https://open.spotify.com/artist/4FH1qQ5KcTtomryu4O5pgX) | [One In A Million: A Future Classic Compilation](https://open.spotify.com/album/0bBhSWcWu6laymRdRrbz72) | 7:29 | 2022-11-11 |  |
 | [Everybody Wants to Love You](https://open.spotify.com/track/2xMkD3Zv3tBUMyOzLmIYYZ) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Everybody Wants to Love You](https://open.spotify.com/album/7iRFeAePGZRT2HLP9WkmBv) | 2:12 | 2017-06-02 | 2022-07-29 |
 | [Everybody Wants to Love You](https://open.spotify.com/track/38OvTFIg5ZYRow2sA1jgKo) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Psychopomp](https://open.spotify.com/album/3CeBfyjSIfbWyf0RTNbq1G) | 2:12 | 2022-07-29 |  |
-| [Holiday](https://open.spotify.com/track/3ibAzRj9JnowdoLkyllk3n) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Madonna \(Reissue\)](https://open.spotify.com/album/5lrlWKjNY0eTDXp9Bd3LpW) | 3:51 | 2022-07-29 |  |
+| [Holiday](https://open.spotify.com/track/3ibAzRj9JnowdoLkyllk3n) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Madonna \(Reissue\)](https://open.spotify.com/album/5lrlWKjNY0eTDXp9Bd3LpW) | 3:51 | 2022-07-29 | 2022-11-12 |
+| [Holiday](https://open.spotify.com/track/49ul7T6QlHsbnwYYNXE87O) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [The Wedding Singer \(More Music From The Motion Picture\)](https://open.spotify.com/album/2qrkWwNyjy7zwFgueA5slQ) | 3:51 | 2022-11-12 |  |
 | [Holiday](https://open.spotify.com/track/7arHM2KZ0KzIZXFVDRGClI) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Madonna](https://open.spotify.com/album/1DWWb4Q39mp1T3NgyscowF) | 3:51 | 2017-06-02 | 2022-07-29 |
 | [In the House of Yes](https://open.spotify.com/track/2dSOk0ME7K6LjHfW2Bh4ww) | [Mr Twin Sister](https://open.spotify.com/artist/5ltJZgIW3OkY5WvuzX5MYz) | [Mr Twin Sister](https://open.spotify.com/album/5d1EnTsM3SBkly6fENKprF) | 6:40 | 2017-06-02 | 2022-07-29 |
 | [In the House of Yes](https://open.spotify.com/track/7eeNU3Zm56wzyl7MQDvEAH) | [Mr Twin Sister](https://open.spotify.com/artist/5ltJZgIW3OkY5WvuzX5MYz) | [Mr Twin Sister](https://open.spotify.com/album/65PiA4pb8RyCLOzwjsqP3X) | 6:40 | 2022-07-29 |  |

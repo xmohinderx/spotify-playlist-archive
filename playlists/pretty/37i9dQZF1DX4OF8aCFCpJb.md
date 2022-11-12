@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 
 > Det bästa från den svenska reggaescenen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,562 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,571 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 | 37 | [Rikslarm](https://open.spotify.com/track/0KnRzbQpj0J5nXRqtuSRhz) | [Kartellen](https://open.spotify.com/artist/3kklzjWziqW7RX5jQjsRnb), [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW), [General Knas](https://open.spotify.com/artist/42SZWoHp8GLbTAFCF8xOIy) | [Slutpläderingen](https://open.spotify.com/album/32qy7Z7Db0xCpB5m0yLsRs) | 2:36 |
 | 38 | [Bida Din Tid](https://open.spotify.com/track/3QMPZo33FYmz9JxtIhHJU1) | [Jeepstarr](https://open.spotify.com/artist/1wXinjMsxsHJGk7wi3wYsu) | [Rotlösa Singlar](https://open.spotify.com/album/2efeB3FyNaOgPYhcCQwioH) | 3:53 |
 | 39 | [Vår Dans](https://open.spotify.com/track/0akrglttILrVEe2ncifHsH) | [Antonio D](https://open.spotify.com/artist/4nhVPRChv24WG40x4H0eaG), [Admiral P](https://open.spotify.com/artist/2P87oRX5tCFl1PYQRbPCPD) | [Vår Dans](https://open.spotify.com/album/2BVFkcAdtAu3vAQZ3jLUS6) | 3:01 |
-| 40 | [Make Sense](https://open.spotify.com/track/0oCQ94meSvw1BbpAkeYSgn) | [Syster Sol](https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5), [Partillo](https://open.spotify.com/artist/1JaDm3lcNujg75Mq1mtE0u) | [ANITYA](https://open.spotify.com/album/18WWB7MAZPuqACVBt6lpN4) | 3:25 |
-| 41 | [12 Steps](https://open.spotify.com/track/3xWqcepZ8eUdMOP6KqWxl2) | [USCB Allstars](https://open.spotify.com/artist/0B0EZgXQJeU6A5kznSilkZ) | [Class Brutáls](https://open.spotify.com/album/2VAHC09MS16zk0YTJLlAlB) | 4:02 |
+| 40 | [12 Steps](https://open.spotify.com/track/3xWqcepZ8eUdMOP6KqWxl2) | [USCB Allstars](https://open.spotify.com/artist/0B0EZgXQJeU6A5kznSilkZ) | [Class Brutáls](https://open.spotify.com/album/2VAHC09MS16zk0YTJLlAlB) | 4:02 |
+| 41 | [Bulleribock](https://open.spotify.com/track/5IKbSU96n46JOVu75evnPs) | [Kalle Baah](https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI) | [Bråda dagar](https://open.spotify.com/album/2fYUrWZt0JQ3Ny0YdM53WR) | 4:14 |
 | 42 | [Vakna](https://open.spotify.com/track/3YOor59KQIT8AyxwVhddIy) | [Svenska Akademien](https://open.spotify.com/artist/3BPemeIazbWrWKNMeorJvS) | [Gör Det Ändå](https://open.spotify.com/album/1WwVqbKojvk0SM8REsquY8) | 3:32 |
-| 43 | [Bulleribock](https://open.spotify.com/track/5IKbSU96n46JOVu75evnPs) | [Kalle Baah](https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI) | [Bråda dagar](https://open.spotify.com/album/2fYUrWZt0JQ3Ny0YdM53WR) | 4:14 |
+| 43 | [Enda Vägen Fram](https://open.spotify.com/track/2pibBmMCnufHoOfr2lml9g) | [General Knas](https://open.spotify.com/artist/42SZWoHp8GLbTAFCF8xOIy), [Kapten Röd](https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA) | [Folkets Röst](https://open.spotify.com/album/6GTUomhBv2uldNCKXrx3jw) | 3:13 |
 | 44 | [Såna ögon](https://open.spotify.com/track/1i5mgpA55CwusMHk60brcU) | [Moncho](https://open.spotify.com/artist/6L1yXwZajCFJsGZcCIRuTc), [Naasty](https://open.spotify.com/artist/70TySYlQjHgABej9yaENJA), [Linda Pira](https://open.spotify.com/artist/0qeei9KQnptjwb8MgkqEoy) | [Såna ögon](https://open.spotify.com/album/5ppjkcjRmiWpmmdaHYGoaj) | 2:52 |
 | 45 | [Teaterapan](https://open.spotify.com/track/6uZEw8eryA76WSAST3yIiv) | [Jezper](https://open.spotify.com/artist/1nUDrql1pSmVp7akXTpvtF) | [Teaterapan](https://open.spotify.com/album/1GCkDBZQ9hOKUcRBfNgLTr) | 3:02 |
-| 46 | [Enda Vägen Fram](https://open.spotify.com/track/2pibBmMCnufHoOfr2lml9g) | [General Knas](https://open.spotify.com/artist/42SZWoHp8GLbTAFCF8xOIy), [Kapten Röd](https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA) | [Folkets Röst](https://open.spotify.com/album/6GTUomhBv2uldNCKXrx3jw) | 3:13 |
-| 47 | [Aina Älskar Reggae](https://open.spotify.com/track/0ZxfitMpf8fLzcww0763rb) | [LöstFolk](https://open.spotify.com/artist/0I0dXOTO0xHs6DZEiL556a), [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF) | [The Tomtations Show](https://open.spotify.com/album/0SH0zQr3ds4stTX3Jl6I3q) | 4:42 |
+| 46 | [Aina Älskar Reggae](https://open.spotify.com/track/0ZxfitMpf8fLzcww0763rb) | [LöstFolk](https://open.spotify.com/artist/0I0dXOTO0xHs6DZEiL556a), [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF) | [The Tomtations Show](https://open.spotify.com/album/0SH0zQr3ds4stTX3Jl6I3q) | 4:42 |
+| 47 | [No Winners](https://open.spotify.com/track/47rPfUdslLIWWcwv1yrySB) | [Daniel Lemma](https://open.spotify.com/artist/14ch8ZI4tN3IlWAAchEKeS) | [Punch of Love](https://open.spotify.com/album/5Jb1WWX7p7Bhj581xxzFBW) | 4:05 |
 | 48 | [Du Vill Så Du Kan](https://open.spotify.com/track/5oo1hxx3SkXtF2tzzggAhM) | [Svenska Akademien](https://open.spotify.com/artist/3BPemeIazbWrWKNMeorJvS) | [Resa Sig Opp](https://open.spotify.com/album/5vGTg3HqIqOEagshyN9Yma) | 4:05 |
 | 49 | [Baluns](https://open.spotify.com/track/6CGJTlDyAIqUAjnHTlP2O3) | [Antonio D](https://open.spotify.com/artist/4nhVPRChv24WG40x4H0eaG), [Dirty Jens](https://open.spotify.com/artist/1re0NOBZGoyheVxR4tLev7) | [Baluns](https://open.spotify.com/album/71rcv1SUcbmo6CB6vo0NxN) | 2:35 |
-| 50 | [No Winners](https://open.spotify.com/track/47rPfUdslLIWWcwv1yrySB) | [Daniel Lemma](https://open.spotify.com/artist/14ch8ZI4tN3IlWAAchEKeS) | [Punch of Love](https://open.spotify.com/album/5Jb1WWX7p7Bhj581xxzFBW) | 4:05 |
+| 50 | [Sanna Mina Ord](https://open.spotify.com/track/6N9Epd4Ia8HZJfQTh1Wf22) | [Kikko](https://open.spotify.com/artist/4OOpr3GpdupraAdP9XBROY), [Don Paco](https://open.spotify.com/artist/27zaNoAsIGZZTslZITECBs) | [Sanna Mina Ord](https://open.spotify.com/album/32quvhcWw4de7JoQENCZ5B) | 4:09 |
 
-Snapshot ID: `MTY2NTQzNjY4MSwwMDAwMDAwMDU0MDJiMzMyNmU5ZjI2ZjczYzU1YTIzOTRlM2ZkMWY4`
+Snapshot ID: `MTY2NTQzNjY4MSwwMDAwMDAwMDY2NGU1OWU4Yzk4N2YzNDY5YmY5MzI4ODcwNzA0ZTM0`

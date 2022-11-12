@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2am4qZ.md) - [plain]
 
 > This is Baby Tate\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,893 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,903 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,11 +33,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2am4qZ.md) - [plain]
 | 23 | [I Do \(feat\. Slimwav\)](https://open.spotify.com/track/7fP5XHTX3hbR3g7TY8WtcW) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [Slim Wav](https://open.spotify.com/artist/4POukeJmTgfsZ8h0oCLZoB) | [Mani/Pedi](https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh) | 4:02 |
 | 24 | [Focused](https://open.spotify.com/track/0R86U2o1voaXPzvL5QrNWE) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [After The Rain: Deluxe](https://open.spotify.com/album/6GOBCr97vW3rl3Nea3H6Pe) | 2:46 |
 | 25 | [What's Love](https://open.spotify.com/track/7mu9vxVH3VJVvSGepIay0q) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [What's Love / Sl\*t Him Out](https://open.spotify.com/album/1nJEmFZiNByDdugR0gOeb9) | 4:10 |
-| 26 | [Mean Girl \(feat\. Queen Key & Asian Doll\)](https://open.spotify.com/track/61HXix5FqC7fuqty8sQJ0r) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [Queen Key](https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR), [Asian Doll](https://open.spotify.com/artist/4guK7U9J36z76E1tWecJ0J) | [GIRLS Deluxe](https://open.spotify.com/album/1Qj0GLSG3jwLnwDP36nDkZ) | 4:22 |
+| 26 | [Like We](https://open.spotify.com/track/0A2YRDNyOpVHJ9uBd83OCJ) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [Alaya](https://open.spotify.com/artist/5MY5rCpGaLfcgRpocaw8EG) | [zer0](https://open.spotify.com/album/5orXIakLkSIQAi9XsHOWEb) | 3:12 |
 | 27 | [4Lifers](https://open.spotify.com/track/2UeLzlhYSfNUdHDqJTNoYV) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Mani/Pedi](https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh) | 2:20 |
 | 28 | [Eenie Meenie](https://open.spotify.com/track/4SClznXpl6IEK4ese5MULZ) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [After The Rain: Deluxe](https://open.spotify.com/album/6GOBCr97vW3rl3Nea3H6Pe) | 2:22 |
-| 29 | [Like We](https://open.spotify.com/track/0A2YRDNyOpVHJ9uBd83OCJ) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [Alaya](https://open.spotify.com/artist/5MY5rCpGaLfcgRpocaw8EG) | [zer0](https://open.spotify.com/album/5orXIakLkSIQAi9XsHOWEb) | 3:12 |
-| 30 | [Flick! \(Stacey\) \(feat\. Yung Baby Tate\)](https://open.spotify.com/track/1I0etEWpAifqN3Ceq1ZMYt) | [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Watch This!](https://open.spotify.com/album/4Vu0PtnR4eyViFmKZNpJqL) | 2:04 |
+| 29 | [Flick! \(Stacey\) \(feat\. Yung Baby Tate\)](https://open.spotify.com/track/1I0etEWpAifqN3Ceq1ZMYt) | [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Watch This!](https://open.spotify.com/album/4Vu0PtnR4eyViFmKZNpJqL) | 2:04 |
+| 30 | [Mean Girl \(feat\. Queen Key & Asian Doll\)](https://open.spotify.com/track/61HXix5FqC7fuqty8sQJ0r) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [Queen Key](https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR), [Asian Doll](https://open.spotify.com/artist/4guK7U9J36z76E1tWecJ0J) | [GIRLS Deluxe](https://open.spotify.com/album/1Qj0GLSG3jwLnwDP36nDkZ) | 4:22 |
 | 31 | [Karma](https://open.spotify.com/track/1H4XdPDGFxwCdhNrWwdLpT) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Mani/Pedi](https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh) | 2:19 |
 | 32 | [Rainbow Cadillac](https://open.spotify.com/track/43JD7xFlgcCV2OVOVXMbKp) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [After The Rain: Deluxe](https://open.spotify.com/album/6GOBCr97vW3rl3Nea3H6Pe) | 2:28 |
 | 33 | [Feel It](https://open.spotify.com/track/71PUYOHINr5A64QxBywwsp) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Seeking Thrills \(The Ultimate Thrills Edition\)](https://open.spotify.com/album/59UBi9ajKLenloyKokbmmZ) | 2:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2am4qZ.md) - [plain]
 | 49 | [Been in My Bag](https://open.spotify.com/track/52S4G8jg4gtQQqImKb7iMC) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Been in My Bag](https://open.spotify.com/album/5qthQyrJwdXFXsTkjWwXCO) | 2:14 |
 | 50 | [Look @ That \- Remix](https://open.spotify.com/track/6DsuRfvs19wzZ5Vp26mus1) | [Kari Faux](https://open.spotify.com/artist/4c2ighP1wj8E5dVGJDCOiB), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Lowkey Superstar \(Deluxe\)](https://open.spotify.com/album/3UGsdfFc2kZBLZhu3YbkF3) | 2:42 |
 
-Snapshot ID: `Mjc4MDE1OTIsMDAwMDAwMDA0OGMyZDhiMzZkNDgxMWFiM2VhZWZhMDAxMzI2N2M0OQ==`
+Snapshot ID: `Mjc4MDI5OTksMDAwMDAwMDBiZWNhNGU1NzE1NGFiMTE4Y2NkZDdkN2E3MDk5YTIxNQ==`

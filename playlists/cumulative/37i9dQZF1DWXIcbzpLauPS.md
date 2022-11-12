@@ -2,9 +2,9 @@
 
 ### [The Core](https://open.spotify.com/playlist/37i9dQZF1DWXIcbzpLauPS)
 
-> This is the new Core at its finest\. Cover: I Prevail
+> This is the new Core at its finest\. Cover: Make Them Suffer
 
-594 songs - 1 day 13 hr 31 min - [published](https://open.spotify.com/playlist/3WEyotDPwbgzHjigMpDgbN)
+595 songs - 1 day 13 hr 36 min - [published](https://open.spotify.com/playlist/3WEyotDPwbgzHjigMpDgbN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [Disease](https://open.spotify.com/track/0pgq34BPcxMI2mbcPM2asZ) | [Defocus](https://open.spotify.com/artist/4lqszvqBsOjOq4MItmZlsU) | [Disease](https://open.spotify.com/album/0DKBiS0Zg1aJf1cMsAydL5) | 3:13 | 2022-07-13 | 2022-07-23 |
 | [Don't Fix Me](https://open.spotify.com/track/7jMgTfAnjxgYJFBL9fKlJj) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs) | [Don't Fix Me](https://open.spotify.com/album/5eh22H5dI8tHG6aknnl80L) | 2:53 | 2022-06-10 | 2022-07-21 |
 | [Don't Go](https://open.spotify.com/track/5su7QP5m3Mt5yaAM5rrriE) | [Villain of the Story](https://open.spotify.com/artist/28XopU8Uw6D6Wl7rIgCVNE) | [Don't Go](https://open.spotify.com/album/2notng3VruouqChEzm2IJl) | 3:21 | 2022-05-06 | 2022-06-11 |
+| [Doomswitch](https://open.spotify.com/track/7v9HNMlAe2UBaEhvaCk5wX) | [Make Them Suffer](https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT) | [Doomswitch](https://open.spotify.com/album/2WJV5AVoALNLtr2ZqOlf2n) | 4:35 | 2022-11-11 |  |
 | [Down](https://open.spotify.com/track/08BIaNWJMOQLrK5mSje5kY) | [Versus Me](https://open.spotify.com/artist/2LDhAV1ZRW6XdLNgg1pPg9) | [Down](https://open.spotify.com/album/0151780uryrl7Mj83Tc6G8) | 3:21 | 2021-12-17 | 2022-01-08 |
 | [Drag Me Down \(feat\. Jamie Hails\)](https://open.spotify.com/track/35onQjC0Rb2BISF0xkJCMW) | [CABAL](https://open.spotify.com/artist/2bfK6ltXa60B2egnErJvlO), [Jamie Hails](https://open.spotify.com/artist/2cRrZw0UD5vsnwoPVkV8Ip) | [Drag Me Down \(feat\. Jamie Hails\)](https://open.spotify.com/album/1or1Y8UCe75sabzYynWIn0) | 4:03 | 2022-07-13 | 2022-07-15 |
 | [Dreaming Desecration](https://open.spotify.com/track/5CdHJaOsp8gCZyMhuWmS6o) | [Signs of the Swarm](https://open.spotify.com/artist/0yxJx8OEyDfd7dzLsFuNrS) | [Absolvere](https://open.spotify.com/album/2nDh1tZjYv2W63a27pSqRx) | 3:41 | 2022-07-13 | 2022-07-22 |
@@ -275,7 +276,7 @@
 | [Hunting Season](https://open.spotify.com/track/0NCvhkLffy3suyYgXITOzP) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [Hunting Season](https://open.spotify.com/album/0WYaIyXVinvlnZvQlCNvB6) | 3:18 | 2022-04-01 | 2022-07-23 |
 | [Hush](https://open.spotify.com/track/65IszYMAcZBZ31WJeMkGx3) | [VRSTY](https://open.spotify.com/artist/4U4B34pc1P8n76w4G7Uwle) | [Welcome Home](https://open.spotify.com/album/04O5F58s8VmMEGqJwQRfFu) | 3:37 | 2022-01-21 | 2022-03-18 |
 | [I Run With Wolves](https://open.spotify.com/track/7oNOP1xca406nustARPRru) | [Manafest](https://open.spotify.com/artist/4uOFEWy9mIcvQbr03IbPcL) | [I Run With Wolves](https://open.spotify.com/album/4lJsPWd2NLv14P4AhDZkmo) | 3:21 | 2021-12-17 | 2022-03-26 |
-| [I Will Return](https://open.spotify.com/track/0AQcFVw3RkS01iMfs24qUt) | [Earth Caller](https://open.spotify.com/artist/0t3PBFciaPWM5uMksLH1AW), [Misstiq](https://open.spotify.com/artist/2T56ZlaXC3o801bzHwzJg1) | [I Will Return](https://open.spotify.com/album/3fX3jDxRc6uDQbhjdoZ8wS) | 3:29 | 2022-05-06 |  |
+| [I Will Return](https://open.spotify.com/track/0AQcFVw3RkS01iMfs24qUt) | [Earth Caller](https://open.spotify.com/artist/0t3PBFciaPWM5uMksLH1AW), [Misstiq](https://open.spotify.com/artist/2T56ZlaXC3o801bzHwzJg1) | [I Will Return](https://open.spotify.com/album/3fX3jDxRc6uDQbhjdoZ8wS) | 3:29 | 2022-05-06 | 2022-11-12 |
 | [Illusive Obsession](https://open.spotify.com/track/2YkSmJa5jtPuf3QKzQ9K7M) | [Depths of Hatred](https://open.spotify.com/artist/50uXDrPUyPgJOn4wmd6N7N) | [Illusive Obsession](https://open.spotify.com/album/7GUg5PW2SOoowXQXLarO4G) | 4:47 | 2022-07-13 | 2022-07-16 |
 | [IMAGO](https://open.spotify.com/track/2VyENkTDQPz6hXE1hkCbkk) | [Space Of Variations](https://open.spotify.com/artist/6mcSNYbGthL93gHZEIdsw6) | [IMAGO](https://open.spotify.com/album/08u01qs66Th1vASwCuuJxP) | 3:17 | 2022-07-08 | 2022-08-27 |
 | [IMAGO](https://open.spotify.com/track/7JQMRfognfgWlzptQVeUV2) | [Space Of Variations](https://open.spotify.com/artist/6mcSNYbGthL93gHZEIdsw6) | [IMAGO](https://open.spotify.com/album/4L48CMMHuCpppX0t0IUfu8) | 3:17 | 2022-05-20 | 2022-07-29 |

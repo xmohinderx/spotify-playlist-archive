@@ -1604,6 +1604,24 @@
     },
     {
       "album": {
+        "name": "Not Giving In",
+        "url": "https://open.spotify.com/album/7pIuUpNRFjdhvDjWoAWNxK"
+      },
+      "artists": [
+        {
+          "name": "Culture Code",
+          "url": "https://open.spotify.com/artist/2FF8wcGpikv5RFbAK1rvdZ"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187200,
+      "name": "Not Giving In",
+      "url": "https://open.spotify.com/track/4BGisE3DH8PkP5ibmLkmQB"
+    },
+    {
+      "album": {
         "name": "Old School",
         "url": "https://open.spotify.com/album/5TZ5biaTPYvsVqw1VPsQQ5"
       },

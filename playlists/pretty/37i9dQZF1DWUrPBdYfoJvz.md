@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrPBdYfoJvz.md) - [plain]
 
 > All the greatest Ambient tracks in one place\. Cover: Brian Eno
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,723 likes - 123 songs - 13 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,924 likes - 123 songs - 13 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrPBdYfoJvz.md) - [plain]
 | 83 | [Overture \(For Other Halfs\)](https://open.spotify.com/track/1F7vUCER63VfNzvZKTi2pn) | [Brian McBride](https://open.spotify.com/artist/1FTBjo6ovfmw3HWkD8sZTs) | [When the Detail Lost Its Freedom](https://open.spotify.com/album/0Nrl8YjdGmaeuhCqFz7nBs) | 6:38 |
 | 84 | [Mt Baker](https://open.spotify.com/track/2NdOUAfOeIBFiSthmCK2GP) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [@0](https://open.spotify.com/album/0lzZgKs9XvoMHjPpBLWYA3) | 5:12 |
 | 85 | [TWTGA](https://open.spotify.com/track/1iVAwCYuzG82TcremyxhCf) | [Bing & Ruth](https://open.spotify.com/artist/0grPfzk6cTnzfQpxjLDPs0) | [Tomorrow Was the Golden Age](https://open.spotify.com/album/37FqMp9hRz4bgkvp3x0Tz3) | 5:55 |
-| 86 | [Unreal](https://open.spotify.com/track/3HNd6shi5OkaFn0PftmnaP) | [Lawrence Lek](https://open.spotify.com/artist/6nrCZQONyyfrj5P3DBl2S7) | [AIDOL \(O.S.T.\)](https://open.spotify.com/album/0gJcfpCTgTeNnWiDO587T7) | 2:53 |
+| 86 | [Unreal](https://open.spotify.com/track/3VqwkDkx2HH9u8ykag55jv) | [Lawrence Lek](https://open.spotify.com/artist/6nrCZQONyyfrj5P3DBl2S7) | [Unreal](https://open.spotify.com/album/3eAjo3cKdh6jN21mMevbzs) | 2:53 |
 | 87 | [Sad Ocean](https://open.spotify.com/track/1yC5ZxdbyrwZrcPaBPtm4Y) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Mirage](https://open.spotify.com/album/5S8GmGhxXvI9WTcVP61ecF) | 3:48 |
 | 88 | [Complex Heaven](https://open.spotify.com/track/5EhvDAos2Ppf82XN5EV60u) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Leo Abrahams](https://open.spotify.com/artist/6g4q7DPLaVqWGnfMpAb2Yd) | [Small Craft On A Milk Sea](https://open.spotify.com/album/47e7SP8MtzYKK8Lm3gEK2i) | 3:05 |
 | 89 | [Diamond Cove \(And Its Children Were Watching\)](https://open.spotify.com/track/0beY6Xl0qbQX3t9kOXOI8r) | [Kyle Bobby Dunn](https://open.spotify.com/artist/5103fOYzuAKogazW0lXwLl) | [Bring Me The Head of Kyle Bobby Dunn](https://open.spotify.com/album/1Ovkskq7I0XH0ULWKh8fph) | 3:52 |
@@ -132,4 +132,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrPBdYfoJvz.md) - [plain]
 | 122 | [Delta Rain Dream](https://open.spotify.com/track/1mMMpiuaPQe9I6RIqtFWql) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Fourth World Vol 1 Possible Musics](https://open.spotify.com/album/5vXMwvBidoteqCN6APRPo9) | 3:29 |
 | 123 | [Ferrum](https://open.spotify.com/track/0s5x2cr3VyJYez1W8SKXC0) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Mirror](https://open.spotify.com/album/66d3xKf4p6CDloe6I7HaE9) | 16:13 |
 
-Snapshot ID: `MTY2NTc2Mjg1MiwwMDAwMDAwMDlhYjZkZTVjNTNjMWY0YzQ0M2JkM2Y4MDFjYThiNWE4`
+Snapshot ID: `MTY2NTc2Mjg1MiwwMDAwMDAwMDQ5MmI1ZTZjNjVkODBjYWQyN2UwYWMwYjgyZjU5MjM4`

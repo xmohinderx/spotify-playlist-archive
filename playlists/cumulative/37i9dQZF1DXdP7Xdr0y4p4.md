@@ -4,7 +4,7 @@
 
 > An essential list of recent hits of SoGo\.  Cover: The Guardians
 
-144 songs - 9 hr 8 min - [published](https://open.spotify.com/playlist/0cTu18H5FuoqEK3v4T9BcB)
+147 songs - 9 hr 19 min - [published](https://open.spotify.com/playlist/0cTu18H5FuoqEK3v4T9BcB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [Are You Washed in the Blood?](https://open.spotify.com/track/0QB8S1OlJhA8fIWkiiBXsM) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [And Now, Let's Turn to Page…](https://open.spotify.com/album/6F4P5ZIpxK35FkaGe1d1sA) | 3:03 | 2022-08-27 |  |
 | [Ask Me Why](https://open.spotify.com/track/55IKPUwWJCXf6TayPoPjHx) | [Legacy Five](https://open.spotify.com/artist/5Lp4dWpZlJJj3dhrgoeZYk) | [A Wonderful Life](https://open.spotify.com/album/48Azk8b2RvpqM28WVMO6jN) | 4:04 | 2021-10-29 | 2022-08-28 |
 | [Ask Me Why](https://open.spotify.com/track/6F4SJY0WDftskPqVCoQD5O) | [Legacy Five](https://open.spotify.com/artist/5Lp4dWpZlJJj3dhrgoeZYk) | [A Wonderful Life](https://open.spotify.com/album/1jSn7Vq8JLXqrreLZI32sp) | 4:04 | 2021-10-29 | 2022-07-29 |
-| [Battle Stand](https://open.spotify.com/track/0HupMziol0Akt3BxX4gfqZ) | [The Old Paths](https://open.spotify.com/artist/59FfqLqvVuyo9AIdEnR0HG) | [Right Now](https://open.spotify.com/album/5stgFFoGFOkFz9gzvLMFRl) | 3:13 | 2021-10-29 |  |
+| [Battle Stand](https://open.spotify.com/track/0HupMziol0Akt3BxX4gfqZ) | [The Old Paths](https://open.spotify.com/artist/59FfqLqvVuyo9AIdEnR0HG) | [Right Now](https://open.spotify.com/album/5stgFFoGFOkFz9gzvLMFRl) | 3:13 | 2021-10-29 | 2022-11-12 |
+| [Battle Stand](https://open.spotify.com/track/407HZGvGeb9eNMAvOfKDgT) | [The Old Paths](https://open.spotify.com/artist/59FfqLqvVuyo9AIdEnR0HG) | [Shout It Out Vol\. 2](https://open.spotify.com/album/0SKEtfs0TrWS0uaAzKjodI) | 3:13 | 2022-08-27 |  |
 | [Battle Stand](https://open.spotify.com/track/5mSmKk6RMILyGAOiiL9BQx) | [The Old Paths](https://open.spotify.com/artist/59FfqLqvVuyo9AIdEnR0HG) | [Right Now](https://open.spotify.com/album/75pbu099NctdUv2WkxdK1Y) | 3:13 | 2021-10-29 | 2022-07-29 |
 | [Believe For It](https://open.spotify.com/track/63R7v5So5B4NwnSg5D83Kb) | [The Hoppers](https://open.spotify.com/artist/76De3CbnkyCKbNg5vDSqI7) | [Believe](https://open.spotify.com/album/3Z6G191LKtBlbPwxJtOgEl) | 4:01 | 2022-08-27 |  |
 | [Best Thing](https://open.spotify.com/track/2LqfoPg1e7dud9HJSnaVsn) | [Triumphant Quartet](https://open.spotify.com/artist/60yKIk5WTQfPrkZPcdohVC) | [Bigger Than Sunday](https://open.spotify.com/album/0RgdcpTzlEU9m0WnfgsU19) | 3:17 | 2021-10-29 |  |
@@ -104,8 +105,9 @@
 | [Plenty Good Room](https://open.spotify.com/track/06aouHeZQx45YdKPCnxgt6) | [Lynda Randle](https://open.spotify.com/artist/5WWuo8k0komiDBmtec6gHI) | [Plenty Good Room](https://open.spotify.com/album/5YRDhVX5npZe6l8s8NcKyA) | 3:57 | 2022-08-27 |  |
 | [Power In The Blood \(We Give Thanks For The Blood\)](https://open.spotify.com/track/4mjXGn3CoT6vmA24S8p8Pm) | [Tommy Walker](https://open.spotify.com/artist/67Bvv2wUyCph0smNq72LrK), [Bethesda Music](https://open.spotify.com/artist/0vBaWnUnT7SHDxPKutCETY) | [Power In The Blood \(We Give Thanks For The Blood\)](https://open.spotify.com/album/7aRlda7JrI3BvBzNWE3rU8) | 5:50 | 2022-08-27 |  |
 | [Praise Medley](https://open.spotify.com/track/0Cnh0PW9Et6wJ1hXtZz0Pm) | [Legacy Five](https://open.spotify.com/artist/5Lp4dWpZlJJj3dhrgoeZYk) | [Heritage, Vol\. 3](https://open.spotify.com/album/0wIeWAZrhLbGPCluMkqHwh) | 2:34 | 2022-08-27 |  |
-| [Pray Now](https://open.spotify.com/track/6BT4eCTe1MiGwAGgf5ezpJ) | [Karen Peck & New River](https://open.spotify.com/artist/7F1556VoxW6M06EOc2AnA5) | [Pray Now](https://open.spotify.com/album/12uzTrOLpxr3j6zr0PLbC3) | 4:27 | 2021-10-29 |  |
+| [Pray Now](https://open.spotify.com/track/6BT4eCTe1MiGwAGgf5ezpJ) | [Karen Peck & New River](https://open.spotify.com/artist/7F1556VoxW6M06EOc2AnA5) | [Pray Now](https://open.spotify.com/album/12uzTrOLpxr3j6zr0PLbC3) | 4:27 | 2021-10-29 | 2022-11-12 |
 | [Pray Now](https://open.spotify.com/track/6ouBqhPAnUTybW52iWIynl) | [Karen Peck & New River](https://open.spotify.com/artist/7F1556VoxW6M06EOc2AnA5) | [Pray Now](https://open.spotify.com/album/2qdDTQkPE63hAK3NpDMK3b) | 4:27 | 2021-10-29 | 2022-07-29 |
+| [Pray Now](https://open.spotify.com/track/47euK3OyEYfzsoEGnGn6wS) | [Karen Peck & New River](https://open.spotify.com/artist/7F1556VoxW6M06EOc2AnA5) | [Daywind 30: 30 Years Of Southern Gospel Excellence](https://open.spotify.com/album/4uBSJsvF2byS5gRlvTiavx) | 4:29 | 2022-08-27 |  |
 | [Reckless Love](https://open.spotify.com/track/6LiW0vJVVrycjGFteSG7qm) | [Gaither Vocal Band](https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o) | [Reckless Love](https://open.spotify.com/album/3jiITw0HxtYaZAOAuEOQ93) | 5:16 | 2022-08-27 |  |
 | [Return to Me](https://open.spotify.com/track/1PTSNsuDlyRzHeYQV1hkSt) | [Don Moen](https://open.spotify.com/artist/2JGLjTHV2t8u8wxmLaiFfe) | [Return to Me](https://open.spotify.com/album/6tagHeuKrx8MSlkhaJ06Nt) | 7:12 | 2021-10-29 | 2022-08-20 |
 | [Return to Me](https://open.spotify.com/track/2x6iRQV8qZ1LbsNS9FkScu) | [Don Moen](https://open.spotify.com/artist/2JGLjTHV2t8u8wxmLaiFfe) | [Return to Me](https://open.spotify.com/album/7FGTnpBmSg2O4D0PWj5YBT) | 7:12 | 2021-10-29 | 2022-08-28 |
@@ -146,7 +148,8 @@
 | [Unspoken Request \(Performance Track Demonstration in C\)](https://open.spotify.com/track/0p5ruUrdjKfGTVK9AMARO3) | [Crossroads Performance Tracks](https://open.spotify.com/artist/6aIaHnJNo69R2FX2PWKLiF) | [Unspoken Request \(Made Popular by The McKameys\) \[Performance Track\]](https://open.spotify.com/album/2gX7DzWxGd09iVEroSp1rS) | 3:13 | 2022-08-27 |  |
 | [Wake Up](https://open.spotify.com/track/1psN7GabVAeaBo0lTaDNUM) | [Ernie Haase & Signature Sound](https://open.spotify.com/artist/3Qp9Qtdb5G8QYHWfe5qxi0) | [Wake Up](https://open.spotify.com/album/2YUHflr83aTEzmqzpAWH57) | 3:38 | 2021-10-29 |  |
 | [Welcome To The Family](https://open.spotify.com/track/0PsajF6Y12NRWPWBIfBgHG) | [The Booth Brothers](https://open.spotify.com/artist/01uI1SCsA0pLwWa2ENV6Gv) | [Room For More](https://open.spotify.com/album/3RDn3C1QTlaqFbH54UB4M0) | 3:27 | 2021-10-29 | 2022-07-29 |
-| [Welcome To The Family](https://open.spotify.com/track/4HqLgAbPz9pBuCCJbh5fiR) | [The Booth Brothers](https://open.spotify.com/artist/01uI1SCsA0pLwWa2ENV6Gv) | [Room For More](https://open.spotify.com/album/10oPZTgvpINdckHN8yHUuD) | 3:27 | 2021-10-29 |  |
+| [Welcome To The Family](https://open.spotify.com/track/4HqLgAbPz9pBuCCJbh5fiR) | [The Booth Brothers](https://open.spotify.com/artist/01uI1SCsA0pLwWa2ENV6Gv) | [Room For More](https://open.spotify.com/album/10oPZTgvpINdckHN8yHUuD) | 3:27 | 2021-10-29 | 2022-11-12 |
+| [Welcome to the Family](https://open.spotify.com/track/2Sawx79uV0jgfy9iaxWEbO) | [The Booth Brothers](https://open.spotify.com/artist/01uI1SCsA0pLwWa2ENV6Gv) | [Daywind 30: 30 Years Of Southern Gospel Excellence](https://open.spotify.com/album/4uBSJsvF2byS5gRlvTiavx) | 3:28 | 2022-08-27 |  |
 | [Welcome to Your Life](https://open.spotify.com/track/5NiZESfwDHW1gRgrZr1wGY) | [Legacy Five](https://open.spotify.com/artist/5Lp4dWpZlJJj3dhrgoeZYk) | [Something New](https://open.spotify.com/album/60vvK9ecxcFAaHEr0yqI24) | 3:19 | 2021-10-29 |  |
 | [When God Ran](https://open.spotify.com/track/5kEFIhcDGTY7RSRwAyy73j) | [Kingsmen](https://open.spotify.com/artist/1KqnnHm6UY5FW6UENrzSVX) | [When God Ran](https://open.spotify.com/album/4jEXIkQuLatroq0mE3MlY5) | 5:12 | 2021-10-29 | 2022-07-29 |
 | [When God Ran](https://open.spotify.com/track/78bkWzaZ616DTt9HdkM0MN) | [Kingsmen](https://open.spotify.com/artist/1KqnnHm6UY5FW6UENrzSVX) | [When God Ran](https://open.spotify.com/album/49A6zoKKgvWWT8HGHPzXR9) | 5:12 | 2021-10-29 |  |

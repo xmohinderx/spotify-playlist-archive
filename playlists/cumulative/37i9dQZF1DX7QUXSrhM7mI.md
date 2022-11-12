@@ -4,7 +4,7 @@
 
 > The soundtrack to snuggling on the sofa, scrolling.
 
-118 songs - 6 hr 51 min - [published](https://open.spotify.com/playlist/3gZOIKvsBM5WJ1qvKLnFBv)
+120 songs - 6 hr 58 min - [published](https://open.spotify.com/playlist/3gZOIKvsBM5WJ1qvKLnFBv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Cold Little Heart \- Radio Edit](https://open.spotify.com/track/7KX65PC1UZuImsUInThbav) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Cold Little Heart \(Radio Edit\)](https://open.spotify.com/album/55A6d8TOuiAs6zDiKj2c3A) | 3:30 | 2022-05-24 |  |
 | [Dancer](https://open.spotify.com/track/2ENXNRRFNnb2jtehBgRTwz) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Circles](https://open.spotify.com/album/7tbUp2NTr7CxIgIF04Kf5U) | 3:57 | 2022-05-24 | 2022-07-29 |
 | [Dancing in the Moonlight](https://open.spotify.com/track/0q21FNwES2bbtcduB6kjEU) | [King Harvest](https://open.spotify.com/artist/5FHwr1FymaS5kutIEK6e2y) | [Dancing in the Moonlight](https://open.spotify.com/album/2W5SVDEBlGqHYqt5sa9PnA) | 3:01 | 2022-05-24 |  |
+| [Die For You](https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [SMITHEREENS](https://open.spotify.com/album/2hEnymoejldpuxSdTnkard) | 3:31 | 2022-11-11 |  |
 | [Dirty Nikes](https://open.spotify.com/track/2wjkqe0TNPljHEBXknWviW) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Moments in Between](https://open.spotify.com/album/31YtUUKHFaKVhlELeptm1S) | 3:18 | 2022-05-24 | 2022-07-29 |
 | [DÁKITI – Spotify Singles](https://open.spotify.com/track/2y9xyQNtut1KeOHSSkuzik) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Spotify Singles](https://open.spotify.com/album/4JaFGe9FKcubMLP6YVzCYP) | 2:37 | 2022-05-27 | 2022-08-12 |
 | [Even After All](https://open.spotify.com/track/72C59EtulrN1fuZPhHgN0l) | [Finley Quaye](https://open.spotify.com/artist/1pf3joSSGlPRxmUoWSsh1W) | [The Best Of](https://open.spotify.com/album/1JNOEEFEivLiK4M2h8PuUG) | 3:55 | 2022-05-24 | 2022-05-27 |
@@ -84,10 +85,10 @@
 | [Out Of Love](https://open.spotify.com/track/4WzhjxvLP95y7AMDy0Atwb) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [The Pains Of Growing](https://open.spotify.com/album/0LzVdypBGpn6dGuHqVGwwt) | 3:47 | 2022-05-24 |  |
 | [Over the Rainbow](https://open.spotify.com/track/3oQomOPRNQ5NVFUmLJHbAV) | [Israel Kamakawiwo'ole](https://open.spotify.com/artist/4ogvuDRerGhZfSf7TtzHlr) | [Alone In Iz World](https://open.spotify.com/album/4aM85igbrBcoRZVt7L11Zn) | 3:31 | 2022-05-24 |  |
 | [Pink Moon \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0EpLNXulQF0CcUZtV1jm8l) | [Rostam](https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT) | [Spotify Singles](https://open.spotify.com/album/2awjquCIUPcDdcWaBWcEnY) | 2:27 | 2022-05-27 | 2022-06-07 |
-| [Purple Haze](https://open.spotify.com/track/1ZygZX3pyRyGxANo6WrSV0) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Purple Haze](https://open.spotify.com/album/6bGTNWW6F8AMqNhBrGjJgm) | 3:25 | 2022-05-24 |  |
+| [Purple Haze](https://open.spotify.com/track/1ZygZX3pyRyGxANo6WrSV0) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Purple Haze](https://open.spotify.com/album/6bGTNWW6F8AMqNhBrGjJgm) | 3:25 | 2022-05-24 | 2022-11-12 |
 | [Put Your Records On](https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Corinne Bailey Rae](https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg) | 3:35 | 2022-05-24 |  |
 | [Quietly Yours](https://open.spotify.com/track/52xFKeXEHm2fI8jpia0oUS) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Persuasion \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/66j8eOruoDph1NWL9vAI1W) | 3:54 | 2022-07-18 |  |
-| [rest in peace](https://open.spotify.com/track/20ACQf24bEwSVnKAhVfH5u) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [rest in peace](https://open.spotify.com/album/0sE1YP1nRz29DgpaogCRsE) | 3:11 | 2022-05-27 |  |
+| [rest in peace](https://open.spotify.com/track/20ACQf24bEwSVnKAhVfH5u) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [rest in peace](https://open.spotify.com/album/0sE1YP1nRz29DgpaogCRsE) | 3:11 | 2022-05-27 | 2022-11-12 |
 | [Rich Girl](https://open.spotify.com/track/4ehS4c6As9l5slahfk0S8F) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Fun Machine EP](https://open.spotify.com/album/6mifXX0FC51XTiV2uqAf4z) | 3:37 | 2022-05-24 |  |
 | [River](https://open.spotify.com/track/0NeJjNlprGfZpeX2LQuN6c) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home](https://open.spotify.com/album/4svLfrPPk2npPVuI4kXPYg) | 3:58 | 2022-05-24 | 2022-07-28 |
 | [River](https://open.spotify.com/track/3hhbDnFUb2bicI2df6VurK) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home \(Deluxe\)](https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv) | 4:00 | 2022-07-15 | 2022-11-11 |
@@ -122,6 +123,7 @@
 | [Western Wind](https://open.spotify.com/track/0Q2FDq304w57PGAKKcC3Qk) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Western Wind](https://open.spotify.com/album/5WCdg2iITZNONNV8Wp5P7M) | 3:45 | 2022-05-24 | 2022-11-06 |
 | [When You Need It \(feat\. Wrabel\)](https://open.spotify.com/track/6be7birJOF85i9dL0wUrBg) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z), [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Masquerades](https://open.spotify.com/album/74IIdAb1cuNaUN3wWUm4eJ) | 3:08 | 2022-06-14 | 2022-08-19 |
 | [Why Do You Let Me Stay Here?](https://open.spotify.com/track/4otvRyWoIplWTXDSlCQbRk) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Volume One](https://open.spotify.com/album/6mxjULCDklpaX0uT97Mnfh) | 2:32 | 2022-05-24 | 2022-07-11 |
+| [With Love From](https://open.spotify.com/track/2NzaebtWUlpR5zebV9FC35) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [With Love From](https://open.spotify.com/album/1WOEqed1QcGmTCSMOjJL6v) | 3:59 | 2022-11-11 |  |
 | [XO](https://open.spotify.com/track/7cpCU3Denug5NGZsSpQl8v) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [XO](https://open.spotify.com/album/305TANxsPTFkiqS4cEilx1) | 3:33 | 2022-05-24 |  |
 | [You Are the Right One](https://open.spotify.com/track/2qpacEyFxmbxCpIEqZkqvC) | [Sports](https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K) | [Naked All the Time](https://open.spotify.com/album/4QcHsIfSbjgNzZmxqfRP7N) | 2:52 | 2022-05-26 |  |
 | [You Can Call Me Al \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2AgqXfsn2W4lXjchlqRyz1) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Spotify Singles](https://open.spotify.com/album/3PtrWbEYEoqYWpgMeIAFb9) | 3:08 | 2022-05-27 | 2022-07-28 |

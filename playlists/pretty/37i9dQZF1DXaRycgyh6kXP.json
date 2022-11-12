@@ -1,12 +1,12 @@
 {
   "description": "Delicate digital expressions of the heart.",
-  "num_followers": 141101,
+  "num_followers": 141268,
   "original_name": "Electronica Romantica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mzg1NjIwNiwwMDAwMDAwMDYyZTNlMTc1ZmM0MGJjNTQ4Y2I2MjE3Y2FhMGNjN2Rk",
+  "snapshot_id": "MTY0Mzg1NjIwNiwwMDAwMDAwMDM4NzU0MzE3ZDIzNGNiNjdhYWJjZWU3ZjNiMTYyYWE4",
   "tracks": [
     {
       "added_at": "2022-02-03 02:43:26",
@@ -515,6 +515,22 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
+        "name": "Immunity",
+        "url": "https://open.spotify.com/album/1rxWlYQcH945S3jpIMYR35"
+      },
+      "artists": [
+        {
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+        }
+      ],
+      "duration_ms": 596773,
+      "name": "Immunity",
+      "url": "https://open.spotify.com/track/1WOxGNutRwrbik8BA5f2AY"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
         "name": "Nostalchic",
         "url": "https://open.spotify.com/album/7ulpsKEswNymVbOvsyK0yV"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 326439,
       "name": "Without You",
       "url": "https://open.spotify.com/track/32CFVYfYT4wE1MTNWj66Rt"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
-        "name": "Immunity",
-        "url": "https://open.spotify.com/album/1rxWlYQcH945S3jpIMYR35"
-      },
-      "artists": [
-        {
-          "name": "Jon Hopkins",
-          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
-        }
-      ],
-      "duration_ms": 596773,
-      "name": "Immunity",
-      "url": "https://open.spotify.com/track/1WOxGNutRwrbik8BA5f2AY"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -631,22 +631,6 @@
       "duration_ms": 195384,
       "name": "(Pick Me Up) Euphoria - From \"Euphoria\" An HBO Original Series",
       "url": "https://open.spotify.com/track/6QFCgioM2ZDxCEadWUes2b"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
-        "name": "Anything in Return",
-        "url": "https://open.spotify.com/album/6x1wyRPGlqGJ1b8uQ9UQdX"
-      },
-      "artists": [
-        {
-          "name": "Toro y Moi",
-          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
-        }
-      ],
-      "duration_ms": 285986,
-      "name": "So Many Details",
-      "url": "https://open.spotify.com/track/2ws855WTXvwqRtHyvkFJSy"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -807,22 +791,6 @@
       "duration_ms": 368000,
       "name": "U",
       "url": "https://open.spotify.com/track/1lvpyd1lQjutZa6YnAE8aH"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
-        "name": "I Become A Shade",
-        "url": "https://open.spotify.com/album/1zP69up0zPq8SsIx4lvCkg"
-      },
-      "artists": [
-        {
-          "name": "Seoul",
-          "url": "https://open.spotify.com/artist/3e69LorE0YSsEaYY6x9XuG"
-        }
-      ],
-      "duration_ms": 237945,
-      "name": "Stay With Us",
-      "url": "https://open.spotify.com/track/3Opk9C8pMgBCmbqXelH0I5"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1191,22 +1159,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Because of a Flower",
-        "url": "https://open.spotify.com/album/4JShepplFefZ43GXoE4bRd"
-      },
-      "artists": [
-        {
-          "name": "Ana Roxanne",
-          "url": "https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I"
-        }
-      ],
-      "duration_ms": 304144,
-      "name": "Camille",
-      "url": "https://open.spotify.com/track/6VI6LnXQSm7NI7ptuQ7Dl4"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "A Mineral Love",
         "url": "https://open.spotify.com/album/47riSLCeFOffFRi9BZ2eig"
       },
@@ -1223,6 +1175,22 @@
       "duration_ms": 170186,
       "name": "The Way You Talk",
       "url": "https://open.spotify.com/track/1V2Q2OPyqSivMbgPlJAEF7"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "Because of a Flower",
+        "url": "https://open.spotify.com/album/4JShepplFefZ43GXoE4bRd"
+      },
+      "artists": [
+        {
+          "name": "Ana Roxanne",
+          "url": "https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I"
+        }
+      ],
+      "duration_ms": 304144,
+      "name": "Camille",
+      "url": "https://open.spotify.com/track/6VI6LnXQSm7NI7ptuQ7Dl4"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1259,6 +1227,22 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
+        "name": "Go / Together",
+        "url": "https://open.spotify.com/album/6GCT7ifev46JcCnPC6CYzw"
+      },
+      "artists": [
+        {
+          "name": "Tomos",
+          "url": "https://open.spotify.com/artist/4Y1tn3YmnjLxDhLOKyxK1Y"
+        }
+      ],
+      "duration_ms": 486941,
+      "name": "Together - Rework",
+      "url": "https://open.spotify.com/track/5cawG3coP2I6fBQA5ijRZI"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
         "name": "Natura Sophia",
         "url": "https://open.spotify.com/album/1m9tfsXeu1A6GOh7lzVphq"
       },
@@ -1279,18 +1263,18 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Go / Together",
-        "url": "https://open.spotify.com/album/6GCT7ifev46JcCnPC6CYzw"
+        "name": "Green",
+        "url": "https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl"
       },
       "artists": [
         {
-          "name": "Tomos",
-          "url": "https://open.spotify.com/artist/4Y1tn3YmnjLxDhLOKyxK1Y"
+          "name": "Hiroshi Yoshimura",
+          "url": "https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB"
         }
       ],
-      "duration_ms": 486941,
-      "name": "Together - Rework",
-      "url": "https://open.spotify.com/track/5cawG3coP2I6fBQA5ijRZI"
+      "duration_ms": 319666,
+      "name": "SHEEP",
+      "url": "https://open.spotify.com/track/5GCfrtUTMag66ZXcyBUwcd"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1323,22 +1307,6 @@
       "duration_ms": 266640,
       "name": "Shadows",
       "url": "https://open.spotify.com/track/3QPwOGIY2s6Ky6zh5UX0NT"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
-        "name": "Green",
-        "url": "https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl"
-      },
-      "artists": [
-        {
-          "name": "Hiroshi Yoshimura",
-          "url": "https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB"
-        }
-      ],
-      "duration_ms": 319666,
-      "name": "SHEEP",
-      "url": "https://open.spotify.com/track/5GCfrtUTMag66ZXcyBUwcd"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1395,6 +1363,22 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
+        "name": "Promise",
+        "url": "https://open.spotify.com/album/1zeLCQaCe1WudTjd1Dr4a9"
+      },
+      "artists": [
+        {
+          "name": "Jacques Greene",
+          "url": "https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9"
+        }
+      ],
+      "duration_ms": 209806,
+      "name": "Promise",
+      "url": "https://open.spotify.com/track/28NaP6iuy1B4on1UJKw7vs"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
         "name": "Karma & Desire",
         "url": "https://open.spotify.com/album/5tDW2Im2auURmW8IOA8dQ1"
       },
@@ -1415,22 +1399,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Promise",
-        "url": "https://open.spotify.com/album/1zeLCQaCe1WudTjd1Dr4a9"
-      },
-      "artists": [
-        {
-          "name": "Jacques Greene",
-          "url": "https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9"
-        }
-      ],
-      "duration_ms": 209806,
-      "name": "Promise",
-      "url": "https://open.spotify.com/track/28NaP6iuy1B4on1UJKw7vs"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "Encores 2",
         "url": "https://open.spotify.com/album/2C2LdCgWMw6MkJ5RGJi5eg"
       },
@@ -1443,22 +1411,6 @@
       "duration_ms": 242000,
       "name": "Talisman",
       "url": "https://open.spotify.com/track/6v6cuaxCnIAnnFrMcJLrc6"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
-        "name": "The Tunnel and the Clearing",
-        "url": "https://open.spotify.com/album/6iVlwI2lSSNISO2ypqXBQV"
-      },
-      "artists": [
-        {
-          "name": "Colleen",
-          "url": "https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3"
-        }
-      ],
-      "duration_ms": 333706,
-      "name": "Implosion-Explosion",
-      "url": "https://open.spotify.com/track/3XFE2WVHJ8VpSue33r9POm"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1479,6 +1431,22 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
+        "name": "The Tunnel and the Clearing",
+        "url": "https://open.spotify.com/album/6iVlwI2lSSNISO2ypqXBQV"
+      },
+      "artists": [
+        {
+          "name": "Colleen",
+          "url": "https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3"
+        }
+      ],
+      "duration_ms": 333706,
+      "name": "Implosion-Explosion",
+      "url": "https://open.spotify.com/track/3XFE2WVHJ8VpSue33r9POm"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
         "name": "Bend",
         "url": "https://open.spotify.com/album/3bkKjxSstHfQqzjdCEocTC"
       },
@@ -1491,6 +1459,22 @@
       "duration_ms": 321000,
       "name": "Flutter",
       "url": "https://open.spotify.com/track/41XT2xRCJW7Bcfi7Fva6h4"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "Holding Hands",
+        "url": "https://open.spotify.com/album/4KRFIkXsDR60MnQV5K9N4J"
+      },
+      "artists": [
+        {
+          "name": "Liam Mour",
+          "url": "https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0"
+        }
+      ],
+      "duration_ms": 170420,
+      "name": "Holding Hands",
+      "url": "https://open.spotify.com/track/5Ai7N5FmqnQ8ZSP7uNz9sX"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1511,22 +1495,6 @@
       "duration_ms": 296681,
       "name": "Lost At Sea - Kelly Moran remix",
       "url": "https://open.spotify.com/track/26XyyAXLjXU4a1TVkwzjd0"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
-        "name": "Holding Hands",
-        "url": "https://open.spotify.com/album/4KRFIkXsDR60MnQV5K9N4J"
-      },
-      "artists": [
-        {
-          "name": "Liam Mour",
-          "url": "https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0"
-        }
-      ],
-      "duration_ms": 170420,
-      "name": "Holding Hands",
-      "url": "https://open.spotify.com/track/5Ai7N5FmqnQ8ZSP7uNz9sX"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1559,22 +1527,6 @@
       "duration_ms": 397986,
       "name": "Passing By - 2019 remaster",
       "url": "https://open.spotify.com/track/4QF7VCyGrqOPpJNQc9yNWA"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
-        "name": "A flame my love, a frequency",
-        "url": "https://open.spotify.com/album/4NTqrRWB6JQs8a4AUw1QEp"
-      },
-      "artists": [
-        {
-          "name": "Colleen",
-          "url": "https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3"
-        }
-      ],
-      "duration_ms": 314441,
-      "name": "The stars vs creatures",
-      "url": "https://open.spotify.com/track/7rIYrgxKZKebDRozcULAL4"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1631,6 +1583,38 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
+        "name": "Sketch for Winter X: Immortal Word",
+        "url": "https://open.spotify.com/album/0wQCNrQIkv6vD7sRfiDylv"
+      },
+      "artists": [
+        {
+          "name": "Jacober",
+          "url": "https://open.spotify.com/artist/5qqAJRq2z4M9IOULr4JtQu"
+        }
+      ],
+      "duration_ms": 192300,
+      "name": "Four Horsemen",
+      "url": "https://open.spotify.com/track/3SDNkBLjb5w8jaNGnojGCc"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "A flame my love, a frequency",
+        "url": "https://open.spotify.com/album/4NTqrRWB6JQs8a4AUw1QEp"
+      },
+      "artists": [
+        {
+          "name": "Colleen",
+          "url": "https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3"
+        }
+      ],
+      "duration_ms": 314441,
+      "name": "The stars vs creatures",
+      "url": "https://open.spotify.com/track/7rIYrgxKZKebDRozcULAL4"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
         "name": "Come To Canada You Will Like It",
         "url": "https://open.spotify.com/album/5LjAEHX12P2fgWYMbVpVQ9"
       },
@@ -1651,22 +1635,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Sketch for Winter X: Immortal Word",
-        "url": "https://open.spotify.com/album/0wQCNrQIkv6vD7sRfiDylv"
-      },
-      "artists": [
-        {
-          "name": "Jacober",
-          "url": "https://open.spotify.com/artist/5qqAJRq2z4M9IOULr4JtQu"
-        }
-      ],
-      "duration_ms": 192300,
-      "name": "Four Horsemen",
-      "url": "https://open.spotify.com/track/3SDNkBLjb5w8jaNGnojGCc"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "Under The Sun (Expanded Vol. 1)",
         "url": "https://open.spotify.com/album/4ugcKztCoyHLs0eJGb5uVw"
       },
@@ -1679,6 +1647,38 @@
       "duration_ms": 181440,
       "name": "Light Bodied",
       "url": "https://open.spotify.com/track/1cz0kAvZ6lKUQHpzbcI8wF"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "I Lost My Body (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3Dp7SEi0Sx65fByb5JpCoG"
+      },
+      "artists": [
+        {
+          "name": "S+C+A+R+R",
+          "url": "https://open.spotify.com/artist/579T5fNgfbDetyamUTAetw"
+        }
+      ],
+      "duration_ms": 167986,
+      "name": "You're the One",
+      "url": "https://open.spotify.com/track/1BMLBURMMwAi4FBesaKVbG"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "no world",
+        "url": "https://open.spotify.com/album/3L9G1Kr79hownXU72x18xr"
+      },
+      "artists": [
+        {
+          "name": "Inc.",
+          "url": "https://open.spotify.com/artist/5VcFQLT1y2Rje5zoiWKC2w"
+        }
+      ],
+      "duration_ms": 221306,
+      "name": "the place",
+      "url": "https://open.spotify.com/track/2c8Y5b2FEAYOvQEai48xjN"
     }
   ],
   "unique_name": "Electronica Romantica",

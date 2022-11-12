@@ -901,7 +901,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 133000,
       "name": "Malena",
       "url": "https://open.spotify.com/track/1U0UYJWWUzmrJ0mhj9wwRw"
@@ -959,7 +959,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-06",
+      "date_removed": null,
       "duration_ms": 213476,
       "name": "Mano a Mano",
       "url": "https://open.spotify.com/track/4IXkbRNf3zgmbSinjHlSKq"
@@ -1678,6 +1678,28 @@
     },
     {
       "album": {
+        "name": "Tal vez ser\u00e0 su voz",
+        "url": "https://open.spotify.com/album/38DLfwMW0mZdcUh1sr2eTG"
+      },
+      "artists": [
+        {
+          "name": "Lidia Borda",
+          "url": "https://open.spotify.com/artist/1SkyJrTK7wUmLxV9H7ekBt"
+        },
+        {
+          "name": "Orquesta El Arranque",
+          "url": "https://open.spotify.com/artist/5EsRO0Vumc48k4pMoC4MWV"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262706,
+      "name": "Tal vez sera su voz",
+      "url": "https://open.spotify.com/track/72grNDm7LBvqrcrRkm33ix"
+    },
+    {
+      "album": {
         "name": "Tal Vez Ser\u00e1 Su Voz",
         "url": "https://open.spotify.com/album/21lhlABIcVCeYgPTGLLbnW"
       },
@@ -1693,7 +1715,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 265679,
       "name": "Tal vez ser\u00e1 su voz",
       "url": "https://open.spotify.com/track/2n3xDZaKxi6ntTB8IdX5mZ"

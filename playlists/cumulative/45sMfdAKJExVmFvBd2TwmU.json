@@ -1560,6 +1560,24 @@
     },
     {
       "album": {
+        "name": "O Sanam (Reprise)",
+        "url": "https://open.spotify.com/album/16Ef3PREwSvH9zZqfRovfo"
+      },
+      "artists": [
+        {
+          "name": "JalRaj",
+          "url": "https://open.spotify.com/artist/5fuBZptKdXWB7NLT2eDwaT"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213313,
+      "name": "O Sanam - Reprise",
+      "url": "https://open.spotify.com/track/7kX2gucepepyao9uiLfuP4"
+    },
+    {
+      "album": {
         "name": "OK Jaanu (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3Ha8CM9px7D2fn25K4ijl6"
       },

@@ -4,7 +4,7 @@
 
 > A pastoral, uplifting pan\-African café sound.
 
-106 songs - 7 hr 50 min - [published](https://open.spotify.com/playlist/1bxRtWCU4mLIX5e781d1zw)
+108 songs - 8 hr 1 min - [published](https://open.spotify.com/playlist/1bxRtWCU4mLIX5e781d1zw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [Gbê](https://open.spotify.com/track/3uwaKT9AIPP2fhi9pLBALu) | [Lionel Loueke](https://open.spotify.com/artist/6q6EXv5ybArXqifMdmTIig), [Etienne Charles](https://open.spotify.com/artist/4JykHd21q5YnsKDekqnqD3), [Cyro Baptista](https://open.spotify.com/artist/2y9NOhiVDG6jZEMDwGUZhz) | [The Journey](https://open.spotify.com/album/0C2dTdoCdfo6mgH72ht6zt) | 3:48 | 2022-08-05 |  |
 | [Guelen](https://open.spotify.com/track/2glWeR2NkywIUE7zzMR6Xb) | [Ballaké Sissoko](https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Djourou](https://open.spotify.com/album/1wqZp9tG65T3FjKAPd5a5u) | 5:32 | 2022-08-05 |  |
 | [I Met Her By The River](https://open.spotify.com/track/569Ur4YOxQ2OOzE7gtjZmL) | [Dawda Jobarteh](https://open.spotify.com/artist/0r4d3UdcQlNjYRaFAbEZgh) | [I Met Her by the River](https://open.spotify.com/album/7GMUq2GDaIzQHaCdsG3nDV) | 4:26 | 2022-08-05 |  |
-| [Imbukula](https://open.spotify.com/track/3UMbW5c5Zgg6gqWPFS1T6I) | [Jackson Ingosi](https://open.spotify.com/artist/131MvZBkyG1UPiYBeppPM7) | [I am a child of the 80s](https://open.spotify.com/album/3iAUsJ7jLcWvpn1gUmMTL2) | 4:45 | 2022-08-05 |  |
+| [Imbukula](https://open.spotify.com/track/3UMbW5c5Zgg6gqWPFS1T6I) | [Jackson Ingosi](https://open.spotify.com/artist/131MvZBkyG1UPiYBeppPM7) | [I am a child of the 80s](https://open.spotify.com/album/3iAUsJ7jLcWvpn1gUmMTL2) | 4:45 | 2022-08-05 | 2022-11-12 |
+| [Imbukula](https://open.spotify.com/track/49SD731vKkB8DOy1Rqr340) | [Jackson Ingosi](https://open.spotify.com/artist/131MvZBkyG1UPiYBeppPM7) | [Discover Music from Africa](https://open.spotify.com/album/6NzbFxFvkvUCoRn2YmjLXj) | 4:45 | 2022-08-05 |  |
 | [Inigradan](https://open.spotify.com/track/1yoOkwoSLydaiSGT7wEorG) | [Les Filles de Illighadad](https://open.spotify.com/artist/45EoOvcenErsYkaJUnqjJv) | [Les Filles de Illighadad](https://open.spotify.com/album/0rl2xdgHM1Z6jodYVxgHoZ) | 3:16 | 2022-08-05 |  |
 | [Isqoqodo](https://open.spotify.com/track/3TM2ZDpXyHjM7WEERiUmbE) | [Insingizi](https://open.spotify.com/artist/6FcmgYayMAYjPOeH3YRc2w) | [Insingizi: Voices of Southern Africa](https://open.spotify.com/album/7gAUCIDKQCEZ26KoQmT68e) | 3:06 | 2022-08-05 |  |
 | [Jairaby Lé](https://open.spotify.com/track/1hqJGbTYFNVxlJYQnGH9Y6) | [Tunde Jegede](https://open.spotify.com/artist/5gPITPJ367q2LVTwzVXhLJ) | [Heritage](https://open.spotify.com/album/256XbjH0BrerKZyE8bm8Qk) | 5:31 | 2022-08-05 |  |
@@ -75,7 +76,8 @@
 | [Ndule](https://open.spotify.com/track/1z0iOMCfT7b5Wk9P8TR0cG) | [Jaja Bashengezi](https://open.spotify.com/artist/1RQv52rbKYfSKVkPfCvxxw) | [Putumayo Presents African Café](https://open.spotify.com/album/1hbhZdfJFRJsWttOQVlNMD) | 3:42 | 2022-08-05 |  |
 | [Ngum Nya Ko](https://open.spotify.com/track/1bXhMdba6mVxONY2uewg6y) | [Gerald Toto](https://open.spotify.com/artist/5yGh5A5zAzDYeAeSksnWiW), [Richard Bona](https://open.spotify.com/artist/70wm2qxYZ4i2KqcyyH2GyT), [Lokua Kanza](https://open.spotify.com/artist/7vzd67tdMCwnIfIU6TX6Nk) | [Bondeko](https://open.spotify.com/album/7clzPL1gMDlSCIKjkncP9Z) | 3:58 | 2022-08-05 |  |
 | [Obiero](https://open.spotify.com/track/0dXF2xOPWR3mPDqA5Lt9nJ) | [Ayub Ogada](https://open.spotify.com/artist/1f8646DgHta6Gl3eLxZTdk) | [En Mana Kuoyo \(Real World Gold\)](https://open.spotify.com/album/7kVFZYCVtpYHiuJ0kdua53) | 5:40 | 2022-08-05 |  |
-| [Obili Éba](https://open.spotify.com/track/2qzJMEchqA8gedge0kXMkL) | [Sally Nyolo and the Original Bands of Yaounde](https://open.spotify.com/artist/6uBVl1CGtKrAlqASeY4b5M) | [Studio Cameroon](https://open.spotify.com/album/6V74TNnndUh9BXTh4lfZ5A) | 5:22 | 2022-08-05 |  |
+| [Obili Éba](https://open.spotify.com/track/0nrNIDZjIDFlupCkcPiSd2) | [Sally Nyolo and the Original Bands of Yaounde](https://open.spotify.com/artist/6uBVl1CGtKrAlqASeY4b5M) | [Rough Guide To Acoustic Africa](https://open.spotify.com/album/2RdS4iINtmF5E6oHc0uUxK) | 5:22 | 2022-08-05 |  |
+| [Obili Éba](https://open.spotify.com/track/2qzJMEchqA8gedge0kXMkL) | [Sally Nyolo and the Original Bands of Yaounde](https://open.spotify.com/artist/6uBVl1CGtKrAlqASeY4b5M) | [Studio Cameroon](https://open.spotify.com/album/6V74TNnndUh9BXTh4lfZ5A) | 5:22 | 2022-08-05 | 2022-11-12 |
 | [Oni Yalorde](https://open.spotify.com/track/5iz4vxakmdHfmZIyYdhp6P) | [Omar Sosa](https://open.spotify.com/artist/2zyVwasA2QkaVopBFZ2RfX) | [Transparent Water](https://open.spotify.com/album/05zAa96vJNiqrT9GBc6n3O) | 3:53 | 2022-08-05 |  |
 | [Pierrette](https://open.spotify.com/track/2oz9cuIJauGZ2HlT9Ei4a5) | [Boubacar Traoré](https://open.spotify.com/artist/63Bilw49Uv4s2wnovytDVU) | [Mariama](https://open.spotify.com/album/0Byaou7HBAyyOsoSGpp2hI) | 4:12 | 2022-08-05 |  |
 | [Pierrette](https://open.spotify.com/track/46P37n60PWSbtWS4CS7jEC) | [Boubacar Traoré](https://open.spotify.com/artist/63Bilw49Uv4s2wnovytDVU) | [Mariama](https://open.spotify.com/album/2k0il4VCyt5vL0vbSp1XMb) | 4:12 | 2022-08-05 | 2022-09-24 |

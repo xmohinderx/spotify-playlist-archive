@@ -269,6 +269,24 @@
     {
       "album": {
         "name": "Fania Records 60's Gold",
+        "url": "https://open.spotify.com/album/23tZQ7L4t76gYwRKx2h9ye"
+      },
+      "artists": [
+        {
+          "name": "Johnny Colon",
+          "url": "https://open.spotify.com/artist/4IQvRKcRuA2mzB6lc2E5Pm"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331868,
+      "name": "Boogaloo Blues",
+      "url": "https://open.spotify.com/track/62o0gzaSrLZvdTwlvWkDq5"
+    },
+    {
+      "album": {
+        "name": "Fania Records 60's Gold",
         "url": "https://open.spotify.com/album/2bfg6X6O2NlWNlvCHqsD8h"
       },
       "artists": [
@@ -1262,6 +1280,24 @@
     },
     {
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/4cqjTLyo6ebSUA2EE9pwrZ"
+      },
+      "artists": [
+        {
+          "name": "Joe Cuba Sextet",
+          "url": "https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194160,
+      "name": "Oh Yeah",
+      "url": "https://open.spotify.com/track/0Cwx3l6mqlXQFvrIGcjNeP"
+    },
+    {
+      "album": {
         "name": "La Excitante",
         "url": "https://open.spotify.com/album/6A6Fdj1sNCb5vHJMQmPw5z"
       },
@@ -1429,7 +1465,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 196226,
       "name": "Que Se Sepa",
       "url": "https://open.spotify.com/track/2mNLwOxMnm0TxXJBF1y5Ln"
@@ -1647,7 +1683,7 @@
       ],
       "date_added": "2021-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 452373,
       "name": "That's How Rumors Start",
       "url": "https://open.spotify.com/track/51TS79ehSs5WDLIm0YWRRv"

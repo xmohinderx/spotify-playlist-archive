@@ -100,6 +100,24 @@
     },
     {
       "album": {
+        "name": "24/7",
+        "url": "https://open.spotify.com/album/7C6LwNsw7ClFlZZEhjkqkO"
+      },
+      "artists": [
+        {
+          "name": "Gusi",
+          "url": "https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199481,
+      "name": "24/7",
+      "url": "https://open.spotify.com/track/28IydUm2BpsO9NP3lPjGvX"
+    },
+    {
+      "album": {
         "name": "A Veces (feat. Feid)",
         "url": "https://open.spotify.com/album/5IUJCo0aRD98yxFbTvEezC"
       },
@@ -2220,6 +2238,24 @@
     },
     {
       "album": {
+        "name": "Fue",
+        "url": "https://open.spotify.com/album/7L6g9MtMHH52YLcYBBPMu2"
+      },
+      "artists": [
+        {
+          "name": "Mabiland",
+          "url": "https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171857,
+      "name": "Fue",
+      "url": "https://open.spotify.com/track/4Yce6tyMOK05sPdCMQVxlt"
+    },
+    {
+      "album": {
         "name": "Fuego Forestal",
         "url": "https://open.spotify.com/album/3RIn81bgJPiH4XmMlDUm0Q"
       },
@@ -2719,7 +2755,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-06",
+      "date_removed": null,
       "duration_ms": 154628,
       "name": "La Copa",
       "url": "https://open.spotify.com/track/2gdBsRfuWGwJwe3X5XwZuI"
@@ -3048,6 +3084,24 @@
     },
     {
       "album": {
+        "name": "LEJOS DEL CIELO",
+        "url": "https://open.spotify.com/album/4144E5wmhkJZJX4UR3Hw5M"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208934,
+      "name": "LEJOS DEL CIELO",
+      "url": "https://open.spotify.com/track/39qtjJ454r2fgyXaenq8Wv"
+    },
+    {
+      "album": {
         "name": "Timelezz",
         "url": "https://open.spotify.com/album/3AwzfcsXeljU7JkG5GQn8Y"
       },
@@ -3251,7 +3305,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 213285,
       "name": "Los del Vacile",
       "url": "https://open.spotify.com/track/6zRfU66M8zO2pzXAo30cS9"
@@ -3927,7 +3981,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 160311,
       "name": "Nadie Nos Vio - Spotify Singles",
       "url": "https://open.spotify.com/track/0BibHMUWAVk5R4R0EpUOfX"
@@ -4711,7 +4765,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 204444,
       "name": "Que Duro",
       "url": "https://open.spotify.com/track/12RaiccXZ5yIDrHt4c5ngZ"
@@ -5493,7 +5547,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 128463,
       "name": "SUAVE",
       "url": "https://open.spotify.com/track/2s3EIACnhisC834QP4LVoW"

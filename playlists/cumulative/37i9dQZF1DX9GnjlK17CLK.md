@@ -4,7 +4,7 @@
 
 > Plugged in and cranked up; the hottest Blues records from an amplified era\. Cover: B.B\. King.
 
-67 songs - 4 hr 8 min - [published](https://open.spotify.com/playlist/1sBiL9e1FXqfbDn47RYumn)
+68 songs - 4 hr 11 min - [published](https://open.spotify.com/playlist/1sBiL9e1FXqfbDn47RYumn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [Coming Home](https://open.spotify.com/track/11PHsJtzsUIL8voMtHN47S) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Mr\. Wonderful](https://open.spotify.com/album/2yBjm0Jb8d8Oaor7F6ivyN) | 2:38 | 2022-05-13 | 2022-05-27 |
 | [Double Crossing Time \- Mono](https://open.spotify.com/track/07fmUH4VMyKkCRaugAyke7) | [John Mayall & The Bluesbreakers](https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Bluesbreakers](https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o) | 3:00 | 2022-05-27 |  |
 | [Double Trouble](https://open.spotify.com/track/3JggrSor1wtd74bvF2fsmz) | [Otis Rush](https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP) | [1956\-1958 Cobra Recordings](https://open.spotify.com/album/2qmdzBnhgSKueas63F83g7) | 2:43 | 2022-09-30 |  |
-| [Dust My Broom](https://open.spotify.com/track/1mbD2setZsn2n4U6xs3Dxg) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Whose Muddy Shoes](https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp) | 2:59 | 2022-07-01 |  |
+| [Dust My Broom](https://open.spotify.com/track/3LGB6BkiSmzP8IHo03rZMo) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Dust My Broom](https://open.spotify.com/album/2EtFRWTnIw4nLsMI3KZcQq) | 2:54 | 2022-10-04 |  |
+| [Dust My Broom](https://open.spotify.com/track/1mbD2setZsn2n4U6xs3Dxg) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Whose Muddy Shoes](https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp) | 2:59 | 2022-07-01 | 2022-11-12 |
 | [Dust My Broom](https://open.spotify.com/track/00PHw50If2awJ3cbV9OVbD) | [Sonny Boy Williamson II](https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK) | [King Biscuit Time](https://open.spotify.com/album/1Ay8W1UITgrlqcgO7Lvyi0) | 2:44 | 2022-05-13 | 2022-07-29 |
 | [Green Onions](https://open.spotify.com/track/4fQMGlCawbTkH9yPPZ49kP) | [Booker T\. & the M.G.'s](https://open.spotify.com/artist/2vDV0T8sxx2ENnKXds75e5) | [Green Onions](https://open.spotify.com/album/2aGFVLz0oQPa3uxCfq9lcU) | 2:56 | 2022-05-13 |  |
 | [Honey, Hush aka Talking Woman Blues](https://open.spotify.com/track/5qPJSWhuZpD79C3CloJvDA) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Ice Pickin'](https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab) | 4:28 | 2022-05-13 |  |

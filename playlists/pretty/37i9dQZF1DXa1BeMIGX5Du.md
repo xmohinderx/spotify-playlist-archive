@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1BeMIGX5Du.md) - [plain]
 
 > The perfectly brewed cup, the perfect songs to match\. Your happy place is right here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 439,094 likes - 80 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 439,335 likes - 80 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1BeMIGX5Du.md) - [plain]
 | 37 | [End of the Line](https://open.spotify.com/track/4FQVyRqhQrI6QtwSpwE9bX) | [This New Light](https://open.spotify.com/artist/6A6Iy2NAlSomrHjx13YumR) | [you, all along](https://open.spotify.com/album/2JbSkrtowXyfnR89YMx3Wh) | 4:20 |
 | 38 | [Stoned at the Nail Salon](https://open.spotify.com/track/3yvqzGjakjxOgYOqvRiJFD) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Sad Pop Tunes](https://open.spotify.com/album/7EyyddvHKYqPJ3VkxAKllb) | 4:26 |
 | 39 | [For All You Give](https://open.spotify.com/track/59GNu8e5TeFC8RsdkdXJsz) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy), [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [For All You Give](https://open.spotify.com/album/7CgedGQTmESdQxTg2FE3mR) | 3:11 |
-| 40 | [It's Easier When You're Standing There](https://open.spotify.com/track/55gRA2nwyEaHOXqK8wwfvV) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [hemispheres](https://open.spotify.com/album/7xRQ2OolSyln0FHE6sPAJC) | 3:47 |
+| 40 | [It's Easier When You're Standing There](https://open.spotify.com/track/7kBNWlEwRMrAGi2bPfUjyN) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [It's Easier When You're Standing There](https://open.spotify.com/album/6qdvDwS8wTgYAi6gm8efBZ) | 3:47 |
 | 41 | [Okay](https://open.spotify.com/track/2Z9oOIEPqIA1RPepcDyG8y) | [Tulliah](https://open.spotify.com/artist/6gdXkpJpXAh1XJGBMOveLq) | [Fre$h Hugs](https://open.spotify.com/album/35LKB6WhagH9EVouPmcDvE) | 4:13 |
 | 42 | [Latchkey](https://open.spotify.com/track/1pQ9MWG0yUS51uU0pJfBZL) | [Memorial](https://open.spotify.com/artist/1ql8GAa7a8Ur8x6evYipAc) | [Latchkey](https://open.spotify.com/album/7ybg1PGLMLhYm6JcjMVJYp) | 2:51 |
 | 43 | [Karaoke](https://open.spotify.com/track/2B2g136lFHdVblX24YhpAs) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Thundering Hopes](https://open.spotify.com/album/6fiK3VPNK38HEYhnWzsIrw) | 3:20 |
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1BeMIGX5Du.md) - [plain]
 | 47 | [Breathe It In](https://open.spotify.com/track/1yyVfzwiOM4GurdGeacjVX) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t), [Julia Stone](https://open.spotify.com/artist/4gZRt9wlRx1IsxT9glJdrc) | [s\. hemisphere](https://open.spotify.com/album/305ElHW3qmKt1nzpeTXazl) | 3:15 |
 | 48 | [You Don't Lie](https://open.spotify.com/track/6xN2yS7wTE2e96QhzdcE3m) | [BEXY](https://open.spotify.com/artist/4TQghEqEIHPNw2xDSSqnpP) | [You Don't Lie](https://open.spotify.com/album/4O3lQgL9djTK1aEVzXLvwS) | 3:41 |
 | 49 | [Carry You](https://open.spotify.com/track/3CQuCLPRRf5cD9Xubjcrf2) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT) | 4:32 |
-| 50 | [Garden Song](https://open.spotify.com/track/5bIgzvxvlefRUCQK9JPocF) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 3:39 |
+| 50 | [Garden Song](https://open.spotify.com/track/6WrzIVwfETihmZ91wwt5cq) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Garden Song](https://open.spotify.com/album/5RSEIqWnZsBKKYngHOkpuU) | 3:40 |
 | 51 | [Butterflies](https://open.spotify.com/track/3aufVGeeYQHSq5coMrYFEd) | [Aodhan](https://open.spotify.com/artist/3rlMJg2MzNFDMUoupg8EPB) | [Butterflies](https://open.spotify.com/album/4uHW0jJ8QehbccNuNjWw9I) | 2:55 |
 | 52 | [Mid Sentence](https://open.spotify.com/track/5z78SPUoa0zZcb1uWbwPMH) | [Xavier Dunn](https://open.spotify.com/artist/1JmAXAbenjeUV9rTxyI9ZZ), [Gretta Ray](https://open.spotify.com/artist/4xdEmbimxXyo9wXy9lq3ek) | [Mid Sentence](https://open.spotify.com/album/5xgVWVKEDffykXq1tfSBeX) | 3:04 |
 | 53 | [Laundromat](https://open.spotify.com/track/2o9DXPraX3X5Z1vZNAL1Q6) | [Alexander Biggs](https://open.spotify.com/artist/0ecqKW5XAse2iABt1eDvvo) | [Laundromat](https://open.spotify.com/album/2Ex33ETv1jRtoBxCASEfus) | 3:51 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1BeMIGX5Du.md) - [plain]
 | 79 | [Soon](https://open.spotify.com/track/18uI37pTOz9tfk3U4jB8ci) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Salt](https://open.spotify.com/album/2ALvcYeRWEyQ5CMh0OtMcY) | 3:43 |
 | 80 | [San Luis](https://open.spotify.com/track/7gDNQLV9cr8449LFrQbk5J) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Evening Machines](https://open.spotify.com/album/5K7PZiOlAn8sxxhh0QTFuJ) | 4:32 |
 
-Snapshot ID: `MTY2NTM2OTI0NywwMDAwMDAwMDY4NDVkNjcxZjIwMzc1NjI2OWI4ZWMwZTFmNjA5ODBm`
+Snapshot ID: `MTY2NTM2OTI0NywwMDAwMDAwMDkzYWE5NmJiN2M1NTMxN2MwNDMxY2Q1NjQxMDk0MTAz`

@@ -4,7 +4,7 @@
 
 > Soak up the serenity with these beautiful melodies.
 
-472 songs - 1 day 2 hr 27 min - [published](https://open.spotify.com/playlist/2JotmOf77AlDkIMaQkg9OK)
+474 songs - 1 day 2 hr 34 min - [published](https://open.spotify.com/playlist/2JotmOf77AlDkIMaQkg9OK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -323,7 +323,8 @@
 | [Outta My Head \(with John Mayer\)](https://open.spotify.com/track/09oZ9eXQ2fo6YDrPzJqAoP) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Free Spirit](https://open.spotify.com/album/6KT8x5oqZJl9CcnM66hddo) | 2:57 | 2019-07-29\* | 2019-12-13 |
 | [Overthink](https://open.spotify.com/track/1BFxensWSRkyyY5raYnuBe) | [GRAACE](https://open.spotify.com/artist/4nqqGSsclFchZXaiafOYyV) | [Overthink](https://open.spotify.com/album/7dhZyOICR4TqJw8dWeWNc8) | 3:16 | 2019-12-13 | 2020-05-19 |
 | [Painkiller](https://open.spotify.com/track/1abFkY2jm6KDFMZ7RD9YJh) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Painkiller](https://open.spotify.com/album/68WyGdXBIZQZLezPVSDrxC) | 3:33 | 2019-07-29\* | 2019-11-22 |
-| [Panic at the Party](https://open.spotify.com/track/24vkQwXidlMB5SEoZEU2pi) | [Ash Lune](https://open.spotify.com/artist/4qGkfdK3YS6jr5oIQ0AkQI) | [Panic at the Party](https://open.spotify.com/album/4b7o70zLLuzU6s304X3R2e) | 3:27 | 2022-07-14 |  |
+| [Panic at the Party](https://open.spotify.com/track/24vkQwXidlMB5SEoZEU2pi) | [Ash Lune](https://open.spotify.com/artist/4qGkfdK3YS6jr5oIQ0AkQI) | [Panic at the Party](https://open.spotify.com/album/4b7o70zLLuzU6s304X3R2e) | 3:27 | 2022-07-14 | 2022-11-12 |
+| [Panic at the Party](https://open.spotify.com/track/4jHXM4Gl8Q1destKiqkvq8) | [Ash Lune](https://open.spotify.com/artist/4qGkfdK3YS6jr5oIQ0AkQI) | [Broken Science Experiments](https://open.spotify.com/album/3jkUlShc18penGegtaFT2g) | 3:27 | 2022-11-03 |  |
 | [Panic at the Party](https://open.spotify.com/track/5lYYjW5NzOnDcBjnyIv8lv) | [Ash Lune](https://open.spotify.com/artist/4qGkfdK3YS6jr5oIQ0AkQI) | [Panic at the Party](https://open.spotify.com/album/5m0tdJDi8HckSpiNIWqPm7) | 3:27 | 2021-08-27 | 2022-07-29 |
 | [pass you by](https://open.spotify.com/track/4NVwMupCTfITPXetR5aozp) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [the voicenotes](https://open.spotify.com/album/06AsoKSZYbdlX0a01Z3RFt) | 4:05 | 2020-04-24 | 2021-06-18 |
 | [Peer Pressure \(Acoustic\) \[feat\. Julia Michaels\]](https://open.spotify.com/track/2hFFke3WXVA9mV31XNy0dP) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Peer Pressure \(Acoustic\)](https://open.spotify.com/album/27RJgXCscKOnvbjhhI3nWQ) | 2:56 | 2019-07-29\* | 2020-01-10 |
@@ -374,7 +375,8 @@
 | [Selfish](https://open.spotify.com/track/625zvGkOpwTNi4tZ54bdZH) | [GRAACE](https://open.spotify.com/artist/4nqqGSsclFchZXaiafOYyV) | [Self Preservation](https://open.spotify.com/album/4F1hweOR3EvXq0VxMm6bUF) | 2:08 | 2022-07-14 |  |
 | [Send Me on My Way](https://open.spotify.com/track/0Eko4AsGljvQQHb0T7cu1N) | [Guy Meets Girl](https://open.spotify.com/artist/5YqGCzRaUM6XZss3tWRNAY) | [Send Me on My Way](https://open.spotify.com/album/0Q9gYCnSArFUpFhCDXxRAD) | 3:44 | 2021-07-23 | 2022-01-28 |
 | [Sentimental](https://open.spotify.com/track/29ZBpjEMa3oUqkCgqH3qZA) | [GRAACE](https://open.spotify.com/artist/4nqqGSsclFchZXaiafOYyV) | [Sentimental](https://open.spotify.com/album/0ZJo2SFmj1t8mDhOg2Y7yi) | 3:11 | 2021-10-02 | 2022-07-29 |
-| [Sentimental](https://open.spotify.com/track/61VZLH1gv19xeKByFm8c0o) | [GRAACE](https://open.spotify.com/artist/4nqqGSsclFchZXaiafOYyV) | [Sentimental](https://open.spotify.com/album/3hIHz8gFHs3P1TTOE6WhAV) | 3:11 | 2022-07-14 |  |
+| [Sentimental](https://open.spotify.com/track/61VZLH1gv19xeKByFm8c0o) | [GRAACE](https://open.spotify.com/artist/4nqqGSsclFchZXaiafOYyV) | [Sentimental](https://open.spotify.com/album/3hIHz8gFHs3P1TTOE6WhAV) | 3:11 | 2022-07-14 | 2022-11-12 |
+| [Sentimental](https://open.spotify.com/track/6xO4jMsKnQgnbt7AMnsIh9) | [GRAACE](https://open.spotify.com/artist/4nqqGSsclFchZXaiafOYyV) | [Self Preservation](https://open.spotify.com/album/4F1hweOR3EvXq0VxMm6bUF) | 3:11 | 2022-11-03 |  |
 | [Seven](https://open.spotify.com/track/7FRICngbPiyTPEKF7wRC9G) | [Claudia Valentina](https://open.spotify.com/artist/1LZNFyDqn3t4DnOFpfK84I) | [Seven](https://open.spotify.com/album/0h6H0mvA1LVBjamUATXOM3) | 3:43 | 2020-06-29 | 2020-07-18 |
 | [Shallow](https://open.spotify.com/track/2VxeLyX666F8uXCJ0dZF8B) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bradley Cooper](https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG) | [A Star Is Born Soundtrack](https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD) | 3:35 | 2019-07-29\* | 2019-08-02 |
 | [Show Me Love](https://open.spotify.com/track/2HSDPBhc1q3R64dwtFiN43) | [Shavaun Marie](https://open.spotify.com/artist/4cWfaEBJ4w8CeJWNPkKUHY) | [Show Me Love](https://open.spotify.com/album/3tLUmAAVyVXLXVpaIh7gyc) | 3:39 | 2020-07-18 | 2021-01-23 |

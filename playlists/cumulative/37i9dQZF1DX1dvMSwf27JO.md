@@ -4,7 +4,7 @@
 
 > Music to get fly to\. Cover: Thom Browne SS 2023
 
-290 songs - 15 hr 59 min - [published](https://open.spotify.com/playlist/1rO8B2vsAs9SO6ZWOsVe5g)
+291 songs - 16 hr 3 min - [published](https://open.spotify.com/playlist/1rO8B2vsAs9SO6ZWOsVe5g)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,8 +164,9 @@
 | [More Than Friends](https://open.spotify.com/track/0NF8WXHL65nMVslHdZ1AgU) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [More Than Friends](https://open.spotify.com/album/7EiK3aqMyyjhldF3Kih152) | 3:03 | 2021-08-05 |  |
 | [Most Really Pretty Girls Have Pretty Ugly Feet](https://open.spotify.com/track/0SwAOdc4C2kWUMbsXG4ztz) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [If This Is House I Want My Money Back 3](https://open.spotify.com/album/53QDQjWe8eWDoXp3zd3jjn) | 4:45 | 2022-10-07 |  |
 | [My Love For You](https://open.spotify.com/track/1ddIzagwpJRzaK8syw91PC) | [ESG](https://open.spotify.com/artist/4EF5vIcCYKMM61oYOG2Tqa) | [Come Away With ESG](https://open.spotify.com/album/3vPWxVFThDOQZ6siCLque5) | 2:57 | 2022-09-13 | 2022-10-08 |
-| [N Side](https://open.spotify.com/track/12ILYlOEfWL8ei0BEgFJn0) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Apollo XXI](https://open.spotify.com/album/4hvsfS6cytmO16IfAptVA9) | 3:44 | 2022-10-07 |  |
+| [N Side](https://open.spotify.com/track/12ILYlOEfWL8ei0BEgFJn0) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Apollo XXI](https://open.spotify.com/album/4hvsfS6cytmO16IfAptVA9) | 3:44 | 2022-10-07 | 2022-11-12 |
 | [N Side](https://open.spotify.com/track/24G1PXBWoRgV0wDXZKwxzz) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Apollo XXI](https://open.spotify.com/album/3IhDL1HDvlujs6ZcIfL9gE) | 3:44 | 2022-06-17 | 2022-10-13 |
+| [N Side](https://open.spotify.com/track/3o8qt6r2OPf98KqXhNqVGD) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [N Side](https://open.spotify.com/album/5JHSkgh6NjwNJJSsjzzO1Z) | 3:44 | 2022-10-26 |  |
 | [Naked](https://open.spotify.com/track/5Vth7eImumlAyhsW8PqqAM) | [Bickle](https://open.spotify.com/artist/1xFMeZFEf4ZUfuKwrfs5lB) | [Naked](https://open.spotify.com/album/6hTRp6fXyHzkMfSEdjvwlT) | 3:30 | 2022-07-29 |  |
 | [Nectarine Lane](https://open.spotify.com/track/7rUdHARMP5eILXLw9ysN5F) | [Salina Killa](https://open.spotify.com/artist/5dmNompaODMC0v2jhwEzS0) | [Nectarine Lane](https://open.spotify.com/album/5q3B3Qg7msN3QYZYxQBm9q) | 2:29 | 2022-07-29 |  |
 | [NEW DORP\. NEW YORK](https://open.spotify.com/track/58gwRs0kyIlI32l5nW7iep) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [Ezra Koenig](https://open.spotify.com/artist/2nkAu4P6EVeQpXxiEhPTH6) | [Wonder Where We Land](https://open.spotify.com/album/78e7BYsTYok3QEQyvWbhqb) | 3:00 | 2021-12-09 | 2022-09-15 |

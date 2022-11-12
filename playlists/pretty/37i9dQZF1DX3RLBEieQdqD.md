@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RLBEieQdqD.md) - [plain]
 
 > ¡Popular, Mariachi, Vallenato y más pa' sentarse a beber! Foto: Yeison Jiménez
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,357 likes - 75 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,488 likes - 75 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,15 +56,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RLBEieQdqD.md) - [plain]
 | 46 | [No Te Contaron Mal](https://open.spotify.com/track/1LO951RWD10l9Vys0NrFty) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [No Te Contaron Mal](https://open.spotify.com/album/2IVO6VBGIEP4EA7qB2EAQi) | 2:36 |
 | 47 | [Por un Beso de Tu Boca \- Versión Vallenato](https://open.spotify.com/track/0iNN906YaH34RzPhYrdLyv) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Por un Beso de Tu Boca \(Versión Vallenato\)](https://open.spotify.com/album/0DX0n5Ee7NWxG8wxYwL57v) | 3:06 |
 | 48 | [Mi Ex](https://open.spotify.com/track/6jD818CoibqddGqCEyhjCy) | [El Gran Martín Elías](https://open.spotify.com/artist/15g2N69hNuvVjSUqa9Entz) | [Imparables](https://open.spotify.com/album/5HVoQdtTpBV5ek4cEKTKrO) | 4:44 |
-| 49 | [OK](https://open.spotify.com/track/7CpzHbrYhaqLHUdpfyYUsM) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Repítelas](https://open.spotify.com/album/4QRs1syzARn1dej4RWRPtY) | 2:21 |
+| 49 | [OK](https://open.spotify.com/track/6g13x2XNa9kAmRxJgac6T0) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Éxitos Mano de Obra](https://open.spotify.com/album/46OnImUL8cGg0srjXJxj2l) | 2:21 |
 | 50 | [Me Llevó a la Luna](https://open.spotify.com/track/7Jf4BXs1gNxvNfyvRdrgRr) | [Diego Daza](https://open.spotify.com/artist/6Rx5xY11vfnmOp312VzXMc), [Carlos Rueda](https://open.spotify.com/artist/7LVgdS3biF4E0taTah5GEW) | [Me Llevó a la Luna](https://open.spotify.com/album/081pGgewGVZcmXyvP5pjLH) | 3:17 |
 | 51 | [Ellas Así Son](https://open.spotify.com/track/7tg8QC49iqo6swPF6kXmWN) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Ellas Así Son](https://open.spotify.com/album/0J9nQoFFEZlrvAjNnwsGOP) | 3:35 |
 | 52 | [Matemos las Ganas](https://open.spotify.com/track/0bID0lGh8aR5jc6PkiyPUN) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Matemos las Ganas](https://open.spotify.com/album/4F9KrbhXKsZaHMv5R0zmom) | 3:02 |
 | 53 | [Busca un Confidente](https://open.spotify.com/track/5kZqgRmBLc4yR9NzLAljEv) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [Sólo Clásicos](https://open.spotify.com/album/5DfBSF2fVwXHH8z5jT2mpj) | 4:06 |
 | 54 | [Niégame Tres Veces](https://open.spotify.com/track/4mGRIaDuszXYCTGZfLjjpA) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Sigo Invicto](https://open.spotify.com/album/5nrVqq5BEfcoOYJ1eQQ0ki) | 4:29 |
-| 55 | [10 Razones Para Amarte](https://open.spotify.com/track/4chfldJFfWiuuSx1n3mojQ) | [El Gran Martín Elías](https://open.spotify.com/artist/15g2N69hNuvVjSUqa9Entz) | [La Historia Continua](https://open.spotify.com/album/7tOgagliNLN0RTLt0t0ODM) | 5:15 |
+| 55 | [10 Razones para Amarte](https://open.spotify.com/track/7BJ9MUFtFAVs7hC0xkCemM) | [El Gran Martín Elías](https://open.spotify.com/artist/15g2N69hNuvVjSUqa9Entz), [Juancho De La Espriella](https://open.spotify.com/artist/2jyCUmtPh36YRwhuhxzUZ3) | [Vallenatos de Oro, Vol\. 35](https://open.spotify.com/album/09Q1sDpTG4dz9fOadnkLkg) | 5:15 |
 | 56 | [Como Si Nada](https://open.spotify.com/track/5M2rUcoW3Kffm6Iw0NOje4) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Como Si Nada](https://open.spotify.com/album/23AVhkrU4uDEnSv0QaSRmI) | 3:09 |
-| 57 | [Niña Bonita](https://open.spotify.com/track/7LSdAF6AUKmcsUTy3747rh) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [30 Mejores: Binomio de Oro de América](https://open.spotify.com/album/1ciVNBJTfEynm4k1cjQluh) | 5:10 |
+| 57 | [niña bonita binomio de oro vallenato](https://open.spotify.com/track/0LoiirA5aUddQFAjYFpOkn) | [14 vallenatos sabroso corta venas vol.1 exitos](https://open.spotify.com/artist/06KHPOCzkYqiehC5da8hrl) | [14 vallenatos sabroso](https://open.spotify.com/album/0gXmF1WjNrMS7lr2IGvZlc) | 5:10 |
 | 58 | [Como una Pelota](https://open.spotify.com/track/5iJBBQOi25f86NEurPAszB) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y), [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx) | [Como una Pelota](https://open.spotify.com/album/306ib7yX5JegvImZ8VMrSF) | 2:55 |
 | 59 | [Bendecida](https://open.spotify.com/track/5qFO4vlG88RGZ0SpuXMikl) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Bendecida](https://open.spotify.com/album/5nDCeTPTS23OaddyzgMJF0) | 3:10 |
 | 60 | [Qué Mal Te Ves Sin Mí](https://open.spotify.com/track/4lc3SmNj0FBtPGygUfeGc4) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [No Pongan Esas Canciones](https://open.spotify.com/album/0NTVddhlKzjxGdCAdWR80h) | 3:17 |
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RLBEieQdqD.md) - [plain]
 | 64 | [Quiero Que Seas Mi Estrella](https://open.spotify.com/track/6V5PmiX4malndCwTohPXgS) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Por el Mundo Entero](https://open.spotify.com/album/7BJTzb8pFpOSG6JpvWTCrU) | 5:00 |
 | 65 | [Ya No Mi Amor](https://open.spotify.com/track/7qbPQqOYYMPdQqRqv7bNin) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Todo de Mi \(Vol\. 4\)](https://open.spotify.com/album/07PyHnjYzUmaQAjKK5WtCk) | 3:20 |
 | 66 | [Como Te Olvido](https://open.spotify.com/track/7IbDpOVisfNkYWR07l1Y5U) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [30 Mejores: Binomio de Oro de América](https://open.spotify.com/album/1ciVNBJTfEynm4k1cjQluh) | 4:50 |
-| 67 | [Dificil de igualar](https://open.spotify.com/track/3vhej4TjgOt4d6OS4uMIVO) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Difícil De Igualar](https://open.spotify.com/album/0v85GaHLPiTp66iZli8qGE) | 5:03 |
+| 67 | [Difícil de Igualar](https://open.spotify.com/track/1Wddg2lRIMZHDAjArUz3gW) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Los 50 vallenatos más recordados, dedicados, vendidos y sonados](https://open.spotify.com/album/0GWpPeth4xZ57rVzXsOzam) | 5:03 |
 | 68 | [Mis Borracheras](https://open.spotify.com/track/5NSljTmp3TVnCxXw7Ru43B) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu) | [YT Rocket Hits](https://open.spotify.com/album/5AHZY3HQTNVPpKYbRwj7gO) | 2:47 |
 | 69 | [Cuatro Rosas](https://open.spotify.com/track/39pCrC5AA7xhJb98tqWDgb) | [Jorge Celedón](https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek), [Jimmy Zambrano](https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj) | [Jorge Celedón & Jimmy Zambrano De Lo Nuevo..\. Lo Mejor](https://open.spotify.com/album/6R35eXDADiNHvwcVhsC27D) | 4:36 |
 | 70 | [Muy Bandida](https://open.spotify.com/track/74Q5KgYnmaaD4onOW77Deu) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu) | [De Regreso al Dolor](https://open.spotify.com/album/5g86joQp94OGhGhKrzU9Yc) | 3:01 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RLBEieQdqD.md) - [plain]
 | 74 | [Señora](https://open.spotify.com/track/2UlmLofQp0IWtvw45wIzbx) | [Otto Serge](https://open.spotify.com/artist/5CSek6ot4XS2AWiw1NFTiF), [Rafael Ricardo](https://open.spotify.com/artist/2Aq0u75FM7QuhP4vUqsFVe) | [The Essential Guide To Vallenato](https://open.spotify.com/album/6Llc4RLGwaC9pDmDo4m92L) | 4:00 |
 | 75 | [Sin Ropa Eres Mía](https://open.spotify.com/track/5ByaGTrmhcpIXu6sasjagm) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Sin Ropa Eres Mía](https://open.spotify.com/album/3uAysXq7cISny7dDI93JRO) | 2:40 |
 
-Snapshot ID: `MTY2NTcyNDA4MCwwMDAwMDAwMDk3NDFhNDcwMDBkYjc3YTNjYmJlZjI5Yzg1ZmFkYTM3`
+Snapshot ID: `MTY2NTcyNDA4MCwwMDAwMDAwMDhkZWQzZTA0MTkwOThlZWJlNzg4YTBiMGE4ZTI5MDk4`

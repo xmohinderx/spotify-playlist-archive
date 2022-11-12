@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qS3zyciZpU.md) - [plain]
 
 > Spencer Crandall is taking over to celebrate YOUR forever and the release of his new album Western!
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,850 likes - 118 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,877 likes - 118 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Our Forever](https://open.spotify.com/track/3fq5h4eWQNP3fBqXZRyC5F) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [Western](https://open.spotify.com/album/5CbbfVTtYGmnVn6rLrgklf) | 3:19 |
-| 2 | [You're Still The One](https://open.spotify.com/track/1wb4P4F0sxAQ2KXrRvsx6n) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9) | 3:32 |
+| 2 | [You're Still The One](https://open.spotify.com/track/3fOEldPK2dTA6C12PzrDtT) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Cleaning At Home \- Pop Edition](https://open.spotify.com/album/6APP9HoLEQFYYySdwgxC1G) | 3:32 |
 | 3 | [Once In A Lifetime](https://open.spotify.com/track/10TLpTjjLKcpBN6kayS0mI) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Love, Pain & The Whole Crazy Thing](https://open.spotify.com/album/4sTNnZi0xkMIaFs8tT96fl) | 5:53 |
 | 4 | [Forever and Ever, Amen](https://open.spotify.com/track/1ipcb9qXpSHWhSUvdxJhsx) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [Always & Forever](https://open.spotify.com/album/28ZWOeiZ8l4Uydl3hZjvgv) | 3:32 |
 | 5 | [Yours \- Wedding Edition](https://open.spotify.com/track/30AECxqqjI4oU91fOhAi8I) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Yours](https://open.spotify.com/album/6NxQDh433Rl4EQXT6QiQCE) | 3:36 |
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qS3zyciZpU.md) - [plain]
 | 35 | [Then](https://open.spotify.com/track/3XKbdb9GB6u3hsnUklQTav) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [American Saturday Night](https://open.spotify.com/album/0GCQzPEkcFv8bR90sJf41x) | 5:21 |
 | 36 | [Butterflies](https://open.spotify.com/track/30VHURM5NOfoZmqp2iKawS) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:39 |
 | 37 | [Wedding Dress](https://open.spotify.com/track/2Jy50uaAgvyyrVOQsUv3rJ) | [Levi Hummon](https://open.spotify.com/artist/64fJiKnU2RfnndB8xP3gLi) | [Wedding Dress](https://open.spotify.com/album/48N7RsO9NW9PKALS4SJ40k) | 3:08 |
-| 38 | [Long Haul](https://open.spotify.com/track/7nERlpaH7QghaO7jC60Xtu) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [Coyote Cry](https://open.spotify.com/album/5uQt9PVJIZvYjOL43EkOId) | 3:51 |
+| 38 | [Long Haul](https://open.spotify.com/track/6WFhyQ6n43T6bWQgjtW3aX) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [Laidback Country](https://open.spotify.com/album/6HUfFgJtKTXSd9b9B4u1Pc) | 3:51 |
 | 39 | [Are You Gonna Kiss Me Or Not](https://open.spotify.com/track/2TAcwD5KcV9uY3O1tLGV15) | [Thompson Square](https://open.spotify.com/artist/0Bvs8yPjrQSbmVIRqSg1Sp) | [Thompson Square](https://open.spotify.com/album/0kXrl96iUzWkRvxnfrC2YF) | 3:04 |
 | 40 | [That's Why](https://open.spotify.com/track/1l1quVPNxgMLUPQSS8lIFC) | [Troy Cartwright](https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr) | [Just Kids](https://open.spotify.com/album/56l79VQBjn3ro34d2ZLP9Z) | 3:01 |
 | 41 | [Always Gonna Love You \- Radio Version](https://open.spotify.com/track/6gsQX5Ay6kjDSOrOsKSEsX) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Always Gonna Love You](https://open.spotify.com/album/70iSqVyRZrN7Qmv0GPwYM5) | 2:57 |
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qS3zyciZpU.md) - [plain]
 | 67 | [Just Got Started Lovin' You](https://open.spotify.com/track/4b0XF7CDpJEBAdVHMw7amV) | [James Otto](https://open.spotify.com/artist/3VStI6m5Ig9FAyUaa0lYAP) | [Sunset Man \(Standard Version\)](https://open.spotify.com/album/79uExtsVJH2aNcS2Xu4Cim) | 3:54 |
 | 68 | [Honey Bee](https://open.spotify.com/track/0gY2iq0xJPRoIB1PScKSw4) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Red River Blue \(Deluxe Edition\)](https://open.spotify.com/album/1WXCjIDp84rJN6Sa1Um9kJ) | 3:30 |
 | 69 | [It Must Be Love](https://open.spotify.com/track/16OFkCrdYH524sqvTPt6CT) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [34 Number Ones](https://open.spotify.com/album/26w8J2SKCxa80Bwq6G8ctN) | 2:51 |
-| 70 | [I Do](https://open.spotify.com/track/59GPuKaImwVCqcYRm1xrkY) | [Paul Brandt](https://open.spotify.com/artist/11Rb0Ax3Q2dZJ7jNlOvxxP) | [Calm Before the Storm](https://open.spotify.com/album/4FdWVE3DHKyWCdeNgEpEWR) | 3:40 |
+| 70 | [I Do](https://open.spotify.com/track/6jNl42p3RgPeqzc4m0M1fi) | [Paul Brandt](https://open.spotify.com/artist/11Rb0Ax3Q2dZJ7jNlOvxxP) | [What I Want To Be Remembered For](https://open.spotify.com/album/1mEzihyrWu7HPUxmhfquFk) | 3:40 |
 | 71 | [Mama's Song](https://open.spotify.com/track/0m8Ta268d1kBBG7lxMyWqa) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Play On](https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u) | 4:00 |
 | 72 | [Big, Big Plans](https://open.spotify.com/track/7yNJCsUH3tXlpQiHSsAc5l) | [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0) | [Big, Big Plans](https://open.spotify.com/album/7xVbpLEzt8IQn82IBSMPzu) | 3:07 |
 | 73 | [Bless The Broken Road](https://open.spotify.com/track/4qLhhXoNS7mVjcXGKPWTu4) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Country Mega Hits 2022](https://open.spotify.com/album/4Avs6CC6QLeTEPzt5PkLlV) | 3:47 |
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qS3zyciZpU.md) - [plain]
 | 117 | [The Keeper Of The Stars](https://open.spotify.com/track/5WEK4szbQp9c7ZK6LkYd9k) | [Tracy Byrd](https://open.spotify.com/artist/0xxJO75NeIAF5jYruLYIDT) | [No Ordinary Man](https://open.spotify.com/album/53g8c9eM74nQkKXDEE5tlu) | 4:07 |
 | 118 | [The Way You Love Me](https://open.spotify.com/track/6vgN6KGstss0GnBbKlMNK9) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Breathe](https://open.spotify.com/album/3BGPil8BDPVoDK0lnUPtvb) | 3:06 |
 
-Snapshot ID: `MTY2NjMyNDgwMCwwMDAwMDAwMDJiOTcyNDE1Y2ZjMmNhNWI3YzZiNzBjOTI4MTJjNzNm`
+Snapshot ID: `MTY2NjMyNDgwMCwwMDAwMDAwMGU3MTM2ZTFjMTMyN2YyNjE5N2Q0NjZlMGUxZDI3Y2Nh`

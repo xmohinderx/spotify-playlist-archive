@@ -4,7 +4,7 @@
 
 > This is Nasty C, also known to fans as "A Zulu Man With Some Power"\. The essential tracks, all in one playlist
 
-48 songs - 2 hr 49 min - [published](https://open.spotify.com/playlist/3us74V95C0wtXUW5WhbJZ4)
+49 songs - 2 hr 52 min - [published](https://open.spotify.com/playlist/3us74V95C0wtXUW5WhbJZ4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,8 +17,9 @@
 | [Black And White](https://open.spotify.com/track/7LMbVWgxwhTEOm44Zmp8Ty) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Zulu Man With Some Power](https://open.spotify.com/album/04udszu1QoEWl5qXu2MTUi) | 3:37 | 2022-04-20 |  |
 | [Bookoo Bucks](https://open.spotify.com/track/6zdVd206eHcQ5GuDvCSGcZ) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Lil Gotit](https://open.spotify.com/artist/4ke9HXbejpYVMhbOjSa4le), [Lil Keed](https://open.spotify.com/artist/3uJx5SnOM59Li7lCxA3b29) | [Zulu Man With Some Power](https://open.spotify.com/album/04udszu1QoEWl5qXu2MTUi) | 3:54 | 2022-04-20 |  |
 | [Can’t Imagine](https://open.spotify.com/track/0rnpL28BY6fgO5ZYZnAwT6) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Can’t Imagine](https://open.spotify.com/album/1ia7otI37M8BfXPGkFtnTw) | 2:23 | 2022-04-20 |  |
+| [CHOTANOSHI](https://open.spotify.com/track/5bJLbtbsRvOZSmOjJEqbVr) | [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [CHOTANOSHI](https://open.spotify.com/album/63DufyPXC18sg4mXXjhfEs) | 2:47 | 2022-04-20 |  |
 | [CHOTANOSHI](https://open.spotify.com/track/1GMYv2YrIejd3ubBRjAEyk) | [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [LIFE IS WAVY](https://open.spotify.com/album/19o1qkCpsviMac2uPY3Veh) | 2:46 | 2022-04-20 | 2022-07-29 |
-| [CHOTANOSHI feat\. Nasty C](https://open.spotify.com/track/2j1wumijbGHKHZksFhtRcc) | [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [LIFE IS WAVY](https://open.spotify.com/album/1k9xsl6ERasBsfFDK7UJbQ) | 2:46 | 2022-04-20 |  |
+| [CHOTANOSHI feat\. Nasty C](https://open.spotify.com/track/2j1wumijbGHKHZksFhtRcc) | [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [LIFE IS WAVY](https://open.spotify.com/album/1k9xsl6ERasBsfFDK7UJbQ) | 2:46 | 2022-04-20 | 2022-11-12 |
 | [Coolest Kid in Africa \(feat\. Nasty C\)](https://open.spotify.com/track/6A7oGoKJDwL0l0FBwREQJP) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Son of Mercy \- EP](https://open.spotify.com/album/33te65RWNpXJCwL2cFDRTP) | 3:48 | 2022-04-20 |  |
 | [Dance](https://open.spotify.com/track/5tviiTlaMltD03pVXNCshL) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Tellaman](https://open.spotify.com/artist/6DqJA9OuRcwPNk76q0cOEW) | [Dance](https://open.spotify.com/album/0cPr8G9R6IopgH4Ufs7O0H) | 4:26 | 2022-04-20 |  |
 | [Don't BAB \- The Ivyson Tour](https://open.spotify.com/track/7kDbjMBlp5RiWy13EnPjwX) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Tellaman](https://open.spotify.com/artist/6DqJA9OuRcwPNk76q0cOEW), [Gemini Major](https://open.spotify.com/artist/7CmcmdcG6g6XOXueKHgCaM) | [Don't BAB \(The Ivyson Tour\)](https://open.spotify.com/album/1H7NetNXogIicJEMJAJzKB) | 3:52 | 2022-04-20 |  |

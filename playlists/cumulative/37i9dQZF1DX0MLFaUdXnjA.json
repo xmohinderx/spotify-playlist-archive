@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-04-26",
-  "description": "Keep it low-key with all of today's chill pop. Cover: Ashe & Stephen Sanchez ",
+  "description": "Keep it low-key with all of today's chill pop. Cover: Chelsea Cutler",
   "name": "Chill Pop",
   "published_playlist_ids": [
     "6isU2kXFblpGeacMELfavp"
@@ -153,7 +153,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-04",
+      "date_removed": null,
       "duration_ms": 212274,
       "name": "22 Make",
       "url": "https://open.spotify.com/track/0lQyu3gXsyuDj1MvZiVzXc"
@@ -1261,7 +1261,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 228827,
       "name": "August - Recorded At Electric Lady Studios",
       "url": "https://open.spotify.com/track/4c3YUioV69ajOtvgjYgIE4"
@@ -5123,7 +5123,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 203968,
       "name": "Easy Love",
       "url": "https://open.spotify.com/track/4teTkriwH61lCPVRSvLIBv"
@@ -5713,7 +5713,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 132000,
       "name": "Fall in Love with You.",
       "url": "https://open.spotify.com/track/2JAiwcWRLIRI4uiroJ86U7"
@@ -6979,7 +6979,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-30",
+      "date_removed": null,
       "duration_ms": 181706,
       "name": "Go In Light (feat. Monica Martin)",
       "url": "https://open.spotify.com/track/4gWSTEBZxAvH1cKq2u8jfQ"
@@ -8699,7 +8699,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 269186,
       "name": "I Feel It Coming",
       "url": "https://open.spotify.com/track/3dhjNA0jGA8vHBQ1VdD6vV"
@@ -11984,6 +11984,24 @@
     },
     {
       "album": {
+        "name": "Men On The Moon",
+        "url": "https://open.spotify.com/album/1mK3MLTmhxsrOTx7ceJwyr"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Cutler",
+          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220798,
+      "name": "Men On The Moon",
+      "url": "https://open.spotify.com/track/164LL9rTyEZ6DF0KMgXxsJ"
+    },
+    {
+      "album": {
         "name": "Mercury",
         "url": "https://open.spotify.com/album/3pc9LMhg8lyfpPTyywABMd"
       },
@@ -13196,6 +13214,28 @@
     },
     {
       "album": {
+        "name": "Not Alone (from Devotion)",
+        "url": "https://open.spotify.com/album/0Wzpt98v7378EqKu3NlONg"
+      },
+      "artists": [
+        {
+          "name": "Joe Jonas",
+          "url": "https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251481,
+      "name": "Not Alone - from Devotion",
+      "url": "https://open.spotify.com/track/6h6TV778sDIHTmx6iaZvZu"
+    },
+    {
+      "album": {
         "name": "One Second Of One Day",
         "url": "https://open.spotify.com/album/0DrWfW1alr1rM2vqdJGmiR"
       },
@@ -14155,7 +14195,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-05",
+      "date_removed": null,
       "duration_ms": 257493,
       "name": "Paper Airplanes",
       "url": "https://open.spotify.com/track/7qFTlPTav0bSkuPiSff6RL"
@@ -15288,6 +15328,24 @@
     },
     {
       "album": {
+        "name": "Ruin My Life",
+        "url": "https://open.spotify.com/album/5kBzmnPiJAirnzMcSFPUmf"
+      },
+      "artists": [
+        {
+          "name": "Zolita",
+          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212946,
+      "name": "Ruin My Life",
+      "url": "https://open.spotify.com/track/60pE6cLRCZy6wgjhP0Wu8w"
+    },
+    {
+      "album": {
         "name": "Rules",
         "url": "https://open.spotify.com/album/0IZ0oihPi9rH8eOpCzLJE3"
       },
@@ -16059,7 +16117,7 @@
       ],
       "date_added": "2022-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 232298,
       "name": "Sitting In The Corner (feat. Adriel Favela & Kacey Musgraves)",
       "url": "https://open.spotify.com/track/1Cx5pTBRWI67JXVmMGJT23"
@@ -16663,6 +16721,24 @@
       "duration_ms": 182160,
       "name": "Someone You Loved",
       "url": "https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf"
+    },
+    {
+      "album": {
+        "name": "Two Places at Once",
+        "url": "https://open.spotify.com/album/4wPLBGPd0RsGB1nYuRsss8"
+      },
+      "artists": [
+        {
+          "name": "Haley Joelle",
+          "url": "https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193423,
+      "name": "Something To Do",
+      "url": "https://open.spotify.com/track/1kWboh3AQlWKzSGSd6Jaep"
     },
     {
       "album": {
@@ -18775,7 +18851,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-06",
+      "date_removed": null,
       "duration_ms": 222199,
       "name": "Time - From the Motion Picture \"Amsterdam\"",
       "url": "https://open.spotify.com/track/7nV3HScm7VfvyGdN5u6GNS"
@@ -19347,7 +19423,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 168906,
       "name": "Valentine",
       "url": "https://open.spotify.com/track/6cx5CvFhqN19efStehJqoW"
@@ -20299,7 +20375,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 234986,
       "name": "Wild Grey Ocean",
       "url": "https://open.spotify.com/track/3NhEHxzfLEzvlYPK9hgmPR"
@@ -20497,7 +20573,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 239453,
       "name": "With Love From",
       "url": "https://open.spotify.com/track/2NzaebtWUlpR5zebV9FC35"

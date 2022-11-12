@@ -584,6 +584,28 @@
     },
     {
       "album": {
+        "name": "Cruel Summer (Marcus Layton Edit)",
+        "url": "https://open.spotify.com/album/7t4AA6GFMkLfrGlrzcyy4U"
+      },
+      "artists": [
+        {
+          "name": "LAUWE",
+          "url": "https://open.spotify.com/artist/1pEZZUBRto2Tid1aaFOzQK"
+        },
+        {
+          "name": "Marcus Layton",
+          "url": "https://open.spotify.com/artist/6JzWgxi0nFzcHq7cqpGbiz"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144230,
+      "name": "Cruel Summer (Marcus Layton Edit)",
+      "url": "https://open.spotify.com/track/4yg4e6LkbEzc3sA0bE0GYg"
+    },
+    {
+      "album": {
         "name": "Dancing In The Lightning",
         "url": "https://open.spotify.com/album/0Q1lEnpu0dhnJGzSEOdXvZ"
       },
@@ -1081,7 +1103,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 200015,
       "name": "Fireworks (feat. Moss Kena & The Knocks)",
       "url": "https://open.spotify.com/track/154YAkNQuFHLV3LbP7gP1f"

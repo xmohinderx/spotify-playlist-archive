@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 
 > The ultimate chilled soundtrack to bring your day to a close.
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,756 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,767 likes - 50 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 | 40 | [Feels Like This](https://open.spotify.com/track/5XNFnRLXtjb1r2IjIQNjzC) | [Hessian](https://open.spotify.com/artist/3LOXsWYvJPnBVnQzCquxAs) | [Feels Like This / Made It Here](https://open.spotify.com/album/5ktFMfrOJWEIl29KmcxAuG) | 4:36 |
 | 41 | [Keep You Kimi](https://open.spotify.com/track/53oC9lu6vxNkNpSN9J8dIT) | [Hird](https://open.spotify.com/artist/33nGdwPVGbU7cFuIh9OnTu), [Yukimi Nagano](https://open.spotify.com/artist/34U611pEEfxLSRX3NIPcHf) | [Moving On](https://open.spotify.com/album/4EyAjkGrjXvx1ydSuMTLvW) | 6:28 |
 | 42 | [The Child](https://open.spotify.com/track/43sGFmqBOGGUmCu51nEU6K) | [Alex Gopher](https://open.spotify.com/artist/0ADS8B9CUYtbFLvjT99Ktw) | [You My Baby And I](https://open.spotify.com/album/1OljO7oStiLQ8f1etN8S8U) | 4:34 |
-| 43 | [It's up to Me](https://open.spotify.com/track/0DKoGYBIfxb7PYz9FKu4fx) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy), [Lee Pearson Jr\. Collective](https://open.spotify.com/artist/49E2C6RG0oMzrYzcBBsTsQ), [K LaDawn](https://open.spotify.com/artist/4mabyxDOpBHXvY2cBe0Bwm), [Joe Armon\-Jones](https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5) | [Chaos in the CBD & Friends](https://open.spotify.com/album/52gDijfKDkvRQiqtSmWiq8) | 5:08 |
-| 44 | [K.I.S.S.E.S](https://open.spotify.com/track/2ojgRKZJ1oRREcNQIYVnX4) | [Bent](https://open.spotify.com/artist/59xljcfdN2Z9VX2U5RFKEa) | [Best Of](https://open.spotify.com/album/6lqVWHv7vKDrMhTgrNFwkM) | 5:15 |
-| 45 | [Satori](https://open.spotify.com/track/66nJxPYKMrje2xs7vHnvKK) | [Hannah Fernando](https://open.spotify.com/artist/1pemw59Uf20tXE3i5eTBiY) | [Satori](https://open.spotify.com/album/4Sc18Uhrs8qltlOo6Vh6NJ) | 5:05 |
-| 46 | [Resynthesis 3D \(Binaural Version \- Headphones Only\)](https://open.spotify.com/track/1c7inucFjGndMO3QTsl0lg) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [3D Reworks 001](https://open.spotify.com/album/15PC8OBWZycbckdl1VOYle) | 4:56 |
+| 43 | [K.I.S.S.E.S](https://open.spotify.com/track/2ojgRKZJ1oRREcNQIYVnX4) | [Bent](https://open.spotify.com/artist/59xljcfdN2Z9VX2U5RFKEa) | [Best Of](https://open.spotify.com/album/6lqVWHv7vKDrMhTgrNFwkM) | 5:15 |
+| 44 | [It's up to Me](https://open.spotify.com/track/0DKoGYBIfxb7PYz9FKu4fx) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy), [Lee Pearson Jr\. Collective](https://open.spotify.com/artist/49E2C6RG0oMzrYzcBBsTsQ), [K LaDawn](https://open.spotify.com/artist/4mabyxDOpBHXvY2cBe0Bwm), [Joe Armon\-Jones](https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5) | [Chaos in the CBD & Friends](https://open.spotify.com/album/52gDijfKDkvRQiqtSmWiq8) | 5:08 |
+| 45 | [Resynthesis 3D \(Binaural Version \- Headphones Only\)](https://open.spotify.com/track/1c7inucFjGndMO3QTsl0lg) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [3D Reworks 001](https://open.spotify.com/album/15PC8OBWZycbckdl1VOYle) | 4:56 |
+| 46 | [Satori](https://open.spotify.com/track/66nJxPYKMrje2xs7vHnvKK) | [Hannah Fernando](https://open.spotify.com/artist/1pemw59Uf20tXE3i5eTBiY) | [Satori](https://open.spotify.com/album/4Sc18Uhrs8qltlOo6Vh6NJ) | 5:05 |
 | 47 | [Is It True \- Four Tet Remix](https://open.spotify.com/track/5Yc2SVCeXXcDdALmmXIslb) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Is It True \(Four Tet Remix\)](https://open.spotify.com/album/35qrfQOhXIFZoLq9gNEUXM) | 5:25 |
 | 48 | [Kiss](https://open.spotify.com/track/35Tb3Ii35rcvP1qyRQsW1a) | [Iorie](https://open.spotify.com/artist/1ruewEJphCPPAOSjowo9AH), [Cesar B.](https://open.spotify.com/artist/68Mf2sUOnyJoE6Xm6k0eE2) | [Summer](https://open.spotify.com/album/0YtlbRJFIedxN8a9f8ZyJp) | 7:50 |
 | 49 | [You and I](https://open.spotify.com/track/2np2e0pDBBmUgcdItVb6d3) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Suddenly](https://open.spotify.com/album/7Dl44V6YlpZ7apC87YAWnC) | 4:03 |
 | 50 | [London\. Paris\. Berlin.](https://open.spotify.com/track/5mxQ1JcGnb3sTu5zO08ZTK) | [Shire T](https://open.spotify.com/artist/0AIim12jO78DuyyUYbHfAe), [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg) | [London\. Paris\. Berlin.](https://open.spotify.com/album/1dDsbruFq4OZMM1Xj3KF6v) | 4:05 |
 
-Snapshot ID: `MTY1ODMwMzk3NSwwMDAwMDAwMDNjZDA4ZjA2YjI2MGFjMjRiMDdmM2Y4NTVkYjY1N2Iy`
+Snapshot ID: `MTY1ODMwMzk3NSwwMDAwMDAwMDNmMDI3OWIxZjEzYjE3MTQ1NDlmMDFlYzIyZjRjMGQ1`

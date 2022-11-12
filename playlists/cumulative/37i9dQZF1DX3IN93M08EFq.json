@@ -278,6 +278,24 @@
     },
     {
       "album": {
+        "name": "Saturday Night",
+        "url": "https://open.spotify.com/album/451SkDGDjowJ7FRx6zI6co"
+      },
+      "artists": [
+        {
+          "name": "Dexys Midnight Runners",
+          "url": "https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk"
+        }
+      ],
+      "date_added": "2021-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285357,
+      "name": "Come On Eileen",
+      "url": "https://open.spotify.com/track/0AKF9UBqxvQdso1Yo0B7GW"
+    },
+    {
+      "album": {
         "name": "Too Rye Ay",
         "url": "https://open.spotify.com/album/7nCWzcMZanUBPZgZaKpzM6"
       },
@@ -369,7 +387,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 351626,
       "name": "Common People",
       "url": "https://open.spotify.com/track/2fXKyAyPrEa24c6PJyqznF"
@@ -585,7 +603,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 281890,
       "name": "Din tid kommer",
       "url": "https://open.spotify.com/track/2E4pGT15X6ElliPQIxSGaq"
@@ -787,6 +805,24 @@
       "duration_ms": 233973,
       "name": "Girls With Bangs",
       "url": "https://open.spotify.com/track/6NO5nH1z1PktzfYoEifpPd"
+    },
+    {
+      "album": {
+        "name": "Boyhood: Music from the Motion Picture",
+        "url": "https://open.spotify.com/album/6gVaSasSnh85NVEoAUCqbQ"
+      },
+      "artists": [
+        {
+          "name": "The Hives",
+          "url": "https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt"
+        }
+      ],
+      "date_added": "2021-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199640,
+      "name": "Hate to Say I Told You So",
+      "url": "https://open.spotify.com/track/4WekEzcLyDDdPHG3G6dZg4"
     },
     {
       "album": {
@@ -1089,7 +1125,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 257586,
       "name": "Jag \u00e4r en vampyr",
       "url": "https://open.spotify.com/track/4nXeZFbbcZNvX4nHMJR5xJ"
@@ -1305,7 +1341,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 200480,
       "name": "London Calling - Remastered",
       "url": "https://open.spotify.com/track/5jzma6gCzYtKB1DbEwFZKH"
@@ -1341,7 +1377,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 208453,
       "name": "Love Will Tear Us Apart - 2020 Remaster",
       "url": "https://open.spotify.com/track/34iOH7LY3vme5rQxsVILZ4"
@@ -1431,7 +1467,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 210643,
       "name": "One Of Us Is Gonna Die Young",
       "url": "https://open.spotify.com/track/22u5Yu7vcYEQrIwA2Y9Rj6"
@@ -1485,10 +1521,28 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 205200,
       "name": "Paper Planes",
       "url": "https://open.spotify.com/track/1ixbwbeBi5ufN4noUKmW5a"
+    },
+    {
+      "album": {
+        "name": "Paper Planes - Homeland Security Remixes",
+        "url": "https://open.spotify.com/album/4GG44VSWcotck92vWZYpS5"
+      },
+      "artists": [
+        {
+          "name": "M.I.A.",
+          "url": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
+        }
+      ],
+      "date_added": "2021-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205200,
+      "name": "Paper Planes",
+      "url": "https://open.spotify.com/track/1lKrkGoVEsc1a4xcllm7S2"
     },
     {
       "album": {
@@ -1629,10 +1683,28 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 232106,
       "name": "Seven Nation Army",
       "url": "https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR"
+    },
+    {
+      "album": {
+        "name": "Seven Nation Army",
+        "url": "https://open.spotify.com/album/2ntSwmOLAM0fMML87wtLKq"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "date_added": "2021-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232626,
+      "name": "Seven Nation Army",
+      "url": "https://open.spotify.com/track/03OGe1S2a7i35BmuKbWaHk"
     },
     {
       "album": {
@@ -1773,10 +1845,28 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 237026,
       "name": "Take Me Out",
       "url": "https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN"
+    },
+    {
+      "album": {
+        "name": "Hits To The Head",
+        "url": "https://open.spotify.com/album/1NKpK2wzsNlIf59OvO2RVb"
+      },
+      "artists": [
+        {
+          "name": "Franz Ferdinand",
+          "url": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
+        }
+      ],
+      "date_added": "2021-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239708,
+      "name": "Take Me Out",
+      "url": "https://open.spotify.com/track/30980KluJ3BlKbKUx7LPZR"
     },
     {
       "album": {

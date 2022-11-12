@@ -4,13 +4,13 @@
 
 > Your daily update of the most played tracks right now \- Bolivia.
 
-389 songs - 21 hr 55 min - [published](https://open.spotify.com/playlist/6wKb6lZkewpScjRRlWsOPZ)
+390 songs - 21 hr 57 min - [published](https://open.spotify.com/playlist/6wKb6lZkewpScjRRlWsOPZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [](https://open.spotify.com/track/2eKY4TBKeXnUXMtSLj4R0n) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/2cfDV7HO5hy7Gw4nHY3igS) | 2:31 | 2021-08-07 | 2021-08-16 |
 | [120](https://open.spotify.com/track/3KJ3opyV29269SXkPrc19l) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [EL ÚLTIMO TOUR DEL MUNDO](https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW) | 2:31 | 2021-10-11 | 2022-02-17 |
-| [12x3](https://open.spotify.com/track/0HINQFSerZ6iMfSsaTO3G5) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [12x3](https://open.spotify.com/album/2yTsZhJ86LtD1hvl8wSRPr) | 2:39 | 2022-01-04 |  |
+| [12x3](https://open.spotify.com/track/0HINQFSerZ6iMfSsaTO3G5) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [12x3](https://open.spotify.com/album/2yTsZhJ86LtD1hvl8wSRPr) | 2:39 | 2022-01-04 | 2022-11-12 |
 | [2/Catorce](https://open.spotify.com/track/0PwFN7vRvY80Hnkoew2x3f) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Mr\. Naisgai](https://open.spotify.com/artist/37BIBvfliXJpSgn10yQUJM) | [VICE VERSA](https://open.spotify.com/album/5hKAQ3WuOJtaOW2a8hpIXY) | 3:25 | 2021-06-27 | 2021-11-11 |
 | [2/Catorce](https://open.spotify.com/track/78QcVmzxS0wIwuC2rpAauI) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Mr\. Naisgai](https://open.spotify.com/artist/37BIBvfliXJpSgn10yQUJM) | [VICE VERSA](https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh) | 3:25 | 2022-03-01 | 2022-04-09 |
 | [2/Catorce](https://open.spotify.com/track/71R8HJxQk5qMiRstrlXN9t) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Mr\. Naisgai](https://open.spotify.com/artist/37BIBvfliXJpSgn10yQUJM) | [2/Catorce](https://open.spotify.com/album/23ceOvjypWsCUj9ZrW8Fno) | 3:32 | 2021-05-09 | 2021-06-27 |
@@ -95,6 +95,7 @@
 | [DANCE CRIP](https://open.spotify.com/track/1kjs5eR4DMzyB0gm1Z8waV) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [Dance Crip](https://open.spotify.com/album/4SpMtimC78w3jqSXl2eeuI) | 2:45 | 2021-11-21 | 2022-02-06 |
 | [De Los Besos Que Te Di](https://open.spotify.com/track/1qfoq1qvZT7VwDVeekCJ97) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Ahora](https://open.spotify.com/album/6zgCsYTyMyvBLqcv51KLXS) | 2:47 | 2021-04-26 | 2021-05-03 |
 | [De Museo](https://open.spotify.com/track/267NGliXM8YLVZiKAD9Otm) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [De Museo](https://open.spotify.com/album/27ei92dKdKhBVhEVA2ziRR) | 3:29 | 2021-07-08 | 2021-07-26 |
+| [Debí Suponerlo](https://open.spotify.com/track/2pIIRKRwWSi1Sb29VYLOOa) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [SI AYER FUERA HOY](https://open.spotify.com/album/1BUb9ayIoyy6T3iwMscDts) | 2:24 | 2022-11-11 |  |
 | [deja vu](https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:35 | 2021-05-25 | 2021-06-14 |
 | [Dejame Tranki](https://open.spotify.com/track/3STO1ZJi4EBbYCWY6qC8rv) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [MAWZ](https://open.spotify.com/album/1SBHFu8QLBlhsqLL7WQtlR) | 3:42 | 2021-08-22 | 2021-08-29 |
 | [Demasiadas Mujeres](https://open.spotify.com/track/3GaGWoU1KfVqgl7vnRHP55) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO) | [El Madrileño](https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9) | 2:33 | 2022-02-17 | 2022-05-23 |

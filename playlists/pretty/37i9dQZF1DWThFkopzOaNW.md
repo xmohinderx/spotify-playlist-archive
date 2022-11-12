@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWThFkopzOaNW.md) - [plain]
 
 > Celebrate the career of one of the most influential <a href="spotify:artist:1mFX1QlezK1lNPKQJkhwWb">R&B groups</a> of all time.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,627 likes - 46 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,694 likes - 46 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWThFkopzOaNW.md) - [plain]
 | 9 | [Hit Me Off](https://open.spotify.com/track/0yNCFwihschpOwSgK31f2O) | [New Edition](https://open.spotify.com/artist/1mFX1QlezK1lNPKQJkhwWb) | [Home Again](https://open.spotify.com/album/6fRUYwwUOmQbuwe9KujqQG) | 4:21 |
 | 10 | [You Don't Have To Worry \- Vocal Version](https://open.spotify.com/track/2DWlTA5EAJbUUrAk49bL1B) | [New Edition](https://open.spotify.com/artist/1mFX1QlezK1lNPKQJkhwWb), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Home Again \(Expanded\)](https://open.spotify.com/album/47UpM3ohwbbKXUTNYJiFXG) | 5:23 |
 | 11 | [If It Isn't Love](https://open.spotify.com/track/6oGPZcErzd9Hjw3E4sDBrq) | [New Edition](https://open.spotify.com/artist/1mFX1QlezK1lNPKQJkhwWb) | [Greatest Hits\-Volume One](https://open.spotify.com/album/2e3HFWHDOJxTni9FmLQuiw) | 5:10 |
-| 12 | [Can You Stand The Rain](https://open.spotify.com/track/1vbe9sh7U9vdMceAhitWr2) | [New Edition](https://open.spotify.com/artist/1mFX1QlezK1lNPKQJkhwWb) | [Heart Break](https://open.spotify.com/album/1bTjSqotSDtUjcwFfukTQP) | 4:57 |
+| 12 | [Can You Stand The Rain](https://open.spotify.com/track/7KWH8VFMLmHMmSRJymvkhs) | [New Edition](https://open.spotify.com/artist/1mFX1QlezK1lNPKQJkhwWb) | [Valentine's Day \- R&B Love](https://open.spotify.com/album/1OWQ0dIUtug87kP5NTjUEp) | 5:00 |
 | 13 | [Is This The End](https://open.spotify.com/track/7oQu8H2QfZCUaj5t1aOMRG) | [New Edition](https://open.spotify.com/artist/1mFX1QlezK1lNPKQJkhwWb) | [Candy Girl](https://open.spotify.com/album/62OvMX7ymbmxO6TKiXDE4v) | 4:11 |
 | 14 | [Lost In Love](https://open.spotify.com/track/4pcweTeOtJdAPnmYCBrKKE) | [New Edition](https://open.spotify.com/artist/1mFX1QlezK1lNPKQJkhwWb) | [New Edition](https://open.spotify.com/album/68moCweQx7EoMvHdZ6HzDc) | 4:13 |
 | 15 | [A Little Bit Of Love](https://open.spotify.com/track/0Orud39gtgh83Ner8eIMIl) | [New Edition](https://open.spotify.com/artist/1mFX1QlezK1lNPKQJkhwWb) | [All For Love](https://open.spotify.com/album/3YCJbBunpZPQOJHrwSdNQ2) | 4:09 |
@@ -49,10 +49,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWThFkopzOaNW.md) - [plain]
 | 39 | [Money Can't Buy You Love](https://open.spotify.com/track/3wKLhabbf6rOPGXBvvMU6G) | [Ralph Tresvant](https://open.spotify.com/artist/6MLDcHrNh4OqxDZAjMt5pt) | [Mo' Money \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6MBvYkONMH2ubpADEghFSr) | 6:00 |
 | 40 | [Stone Cold Gentleman \(Rizz's Interlude\)](https://open.spotify.com/track/2lZtKMrV9IVZL5pbItZzlM) | [Ralph Tresvant](https://open.spotify.com/artist/6MLDcHrNh4OqxDZAjMt5pt) | [Ralph Tresvant](https://open.spotify.com/album/59xCSAdPeDW21sCrkE6B6c) | 6:09 |
 | 41 | [Last Night](https://open.spotify.com/track/6EnjPxueaPaZkPvcwjs1kQ) | [Ralph Tresvant](https://open.spotify.com/artist/6MLDcHrNh4OqxDZAjMt5pt) | [Ralph Tresvant](https://open.spotify.com/album/59xCSAdPeDW21sCrkE6B6c) | 5:54 |
-| 42 | [Perfect Combination](https://open.spotify.com/track/0Ro6ef31feiNEnrTZCBSeA) | [Stacy Lattisaw](https://open.spotify.com/artist/0rKnxuiIepvjtMmrYYV2VA), [Johnny Gill](https://open.spotify.com/artist/7oHzn7edwmrYClrPRINkbn) | [Perfect Combination](https://open.spotify.com/album/2Mv6pIgSdRzyj6JxH8BTTD) | 4:09 |
+| 42 | [Perfect Combination](https://open.spotify.com/track/5jgyzAcmar1CAjTDIvuRRu) | [Johnny Gill](https://open.spotify.com/artist/7oHzn7edwmrYClrPRINkbn), [Stacy Lattisaw](https://open.spotify.com/artist/0rKnxuiIepvjtMmrYYV2VA) | [Romantic 80s](https://open.spotify.com/album/1TBVvujFDOdpFIDNPepttp) | 4:09 |
 | 43 | [Half Crazy](https://open.spotify.com/track/0NIpujQwZJP4iRFQZ8UhHx) | [Johnny Gill](https://open.spotify.com/artist/7oHzn7edwmrYClrPRINkbn) | [Ultimate Collection: Johnny Gill](https://open.spotify.com/album/3uhHV5Q8vnQiaSc7TqpEDM) | 4:15 |
 | 44 | [Rub You The Right Way](https://open.spotify.com/track/40xz60ciGIpsRtDqRfPKBE) | [Johnny Gill](https://open.spotify.com/artist/7oHzn7edwmrYClrPRINkbn) | [Johnny Gill](https://open.spotify.com/album/3VNcHyjMgpq2UQN5LTs4qC) | 5:32 |
 | 45 | [My, My, My](https://open.spotify.com/track/0Z9FRM5zukGVagh8TVSdrI) | [Johnny Gill](https://open.spotify.com/artist/7oHzn7edwmrYClrPRINkbn) | [Johnny Gill](https://open.spotify.com/album/3VNcHyjMgpq2UQN5LTs4qC) | 5:21 |
 | 46 | [There U Go](https://open.spotify.com/track/2ktjSreVH3T7598zGwBC56) | [Johnny Gill](https://open.spotify.com/artist/7oHzn7edwmrYClrPRINkbn) | [Favorites](https://open.spotify.com/album/5tUxUjoNFAocBJMJjYc7EO) | 5:15 |
 
-Snapshot ID: `MTUzNjA3NzU2NSwwMDAwMDAwMGMyODU5NzI2ODIyNWVlY2ZiMmY3ZWEyMDQ4MWM0NmU2`
+Snapshot ID: `MTUzNjA3NzU2NSwwMDAwMDAwMGYxZWNiMjYxYjlhZDYxYjA3MWM0MDYxZGQ3MTYzOTE0`

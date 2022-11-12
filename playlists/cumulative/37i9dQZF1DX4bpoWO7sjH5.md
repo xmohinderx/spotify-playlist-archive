@@ -4,7 +4,7 @@
 
 > Los sonidos de Belén.
 
-149 songs - 10 hr 9 min - [published](https://open.spotify.com/playlist/5BHFCfYdJmMsXV8ZMJ0kKJ)
+151 songs - 10 hr 21 min - [published](https://open.spotify.com/playlist/5BHFCfYdJmMsXV8ZMJ0kKJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,13 +26,15 @@
 | [Blanca Navidad](https://open.spotify.com/track/0miF4ilQcJzrdZaiME4DZj) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Tiempo de Navidad](https://open.spotify.com/album/24oEKVhOhLL7WaiALZjwbP) | 4:07 | 2021-12-24 |  |
 | [Campanas](https://open.spotify.com/track/4fzSIKWnFWN7stZaFf1vE4) | [Ricardo Rodriguez](https://open.spotify.com/artist/6Y9YmXDo4ikF3jSI1PfB6l) | [En Navidad](https://open.spotify.com/album/4i4hrs3pRUer7gc8TIR2sI) | 0:29 | 2021-12-24 |  |
 | [Creo En Ti](https://open.spotify.com/track/0vaqXI37M1v9RfiP1BI0t7) | [Julio Melgar](https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2) | [Creo en Ti](https://open.spotify.com/album/0TrCmb35euEi2wkZvBgjWy) | 7:03 | 2021-12-24 | 2022-07-29 |
-| [Creo En Ti](https://open.spotify.com/track/1ZdBf0NZR4oi7Gtxyy4E9Q) | [Julio Melgar](https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2) | [Creo en Ti](https://open.spotify.com/album/1TMLlJQHzj0J07QexSE72S) | 7:03 | 2021-12-24 |  |
+| [Creo En Ti](https://open.spotify.com/track/1ZdBf0NZR4oi7Gtxyy4E9Q) | [Julio Melgar](https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2) | [Creo en Ti](https://open.spotify.com/album/1TMLlJQHzj0J07QexSE72S) | 7:03 | 2021-12-24 | 2022-11-12 |
+| [Creo En Ti \- Live](https://open.spotify.com/track/4iHlCejE0feD1XEXJRxmAI) | [Julio Melgar](https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2) | [Top Música Cristiana](https://open.spotify.com/album/7jugx6QZ4k8hvkeHCiRftl) | 7:03 | 2021-12-24 |  |
 | [Desde Que Nació](https://open.spotify.com/track/0toi8eAeMiWlQNScNbYHDn) | [Lourdes Toledo](https://open.spotify.com/artist/1l0tusoe8gcXNkoA5r5jA3) | [Emanuel](https://open.spotify.com/album/1xuNhRxoVHFRXRG8ZKNW45) | 3:34 | 2021-12-24 |  |
 | [Dios Con Nosotros](https://open.spotify.com/track/1kAgFs3ytaMAE2SMuEucK1) | [Damaris Fraire](https://open.spotify.com/artist/7zgMLLbT4cYJ46Yos8gUQC) | [Navidad Con Vástago](https://open.spotify.com/album/4LcDiwCmeQcUt4TTUeWGUJ) | 4:23 | 2021-12-24 | 2022-07-29 |
 | [Dios Con Nosotros](https://open.spotify.com/track/6ouy9GxN9kxSMGtWbCSEbn) | [Damaris Fraire](https://open.spotify.com/artist/7zgMLLbT4cYJ46Yos8gUQC) | [Navidad Con Vástago](https://open.spotify.com/album/5iaOASNSIW1UQxZstdIUrt) | 4:23 | 2021-12-24 |  |
 | [El Burrito De Belén](https://open.spotify.com/track/4kG2fsqmS4AGEkjg5Cb1oj) | [Blest](https://open.spotify.com/artist/21EeuGgcwNjoqWpPX7AsAw) | [Feliz Navidad](https://open.spotify.com/album/3oJSPmWFXWGbpF36xixwjc) | 3:12 | 2021-12-24 |  |
+| [El Gran Yo Soy](https://open.spotify.com/track/2b59k1l0jaWWClbptoPqgx) | [En Espíritu Y En Verdad](https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb) | [Top 25 Cantos De Alabanza \(Edición 2014\)](https://open.spotify.com/album/3KgEtZEZseLgfTqSq3Q933) | 5:31 | 2021-12-24 |  |
 | [El Gran Yo Soy](https://open.spotify.com/track/74qC6iJw5alC14dHvSpT23) | [En Espíritu Y En Verdad](https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb) | [Incontenible Es Tu Amor](https://open.spotify.com/album/255rwV8lwNBydz4Has3O1D) | 5:33 | 2021-12-24 | 2022-07-29 |
-| [El Gran Yo Soy](https://open.spotify.com/track/7sS0PbgE6pUsaCXuaDpKIM) | [En Espíritu Y En Verdad](https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb) | [Incontenible Es Tu Amor](https://open.spotify.com/album/3US7xplIUPp647q67nCMS0) | 5:33 | 2021-12-24 |  |
+| [El Gran Yo Soy](https://open.spotify.com/track/7sS0PbgE6pUsaCXuaDpKIM) | [En Espíritu Y En Verdad](https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb) | [Incontenible Es Tu Amor](https://open.spotify.com/album/3US7xplIUPp647q67nCMS0) | 5:33 | 2021-12-24 | 2022-11-12 |
 | [El Niño del Tambor](https://open.spotify.com/track/3MPoy0uesBJJsUjor7UCOF) | [Blest](https://open.spotify.com/artist/21EeuGgcwNjoqWpPX7AsAw) | [Feliz Navidad](https://open.spotify.com/album/3oJSPmWFXWGbpF36xixwjc) | 3:21 | 2021-12-24 |  |
 | [El Niño Del Tambor](https://open.spotify.com/track/5aMeIzu5mbYkPdkMtkkZzo) | [Marcela Gandara](https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T) | [Navidad Entre Nosotros](https://open.spotify.com/album/6AVmQObJK3ODN5oWhxwTHH) | 3:10 | 2021-12-24 |  |
 | [El Nombre De Jesús \(feat\. Christine D'clario\)](https://open.spotify.com/track/1cMTzjQOTt3wVAbFgTGPYN) | [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Operación Mundial](https://open.spotify.com/album/13cS6xvlMND2HFSphWWINT) | 4:30 | 2021-12-24 | 2022-07-29 |

@@ -55,7 +55,7 @@
       ],
       "date_added": "2019-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 179120,
       "name": "(Your Love Keeps Lifting Me) Higher & Higher",
       "url": "https://open.spotify.com/track/5qyq1H5OPMlfuvZQ1wQNo7"
@@ -287,7 +287,7 @@
       ],
       "date_added": "2019-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 90133,
       "name": "Amboss-Polka",
       "url": "https://open.spotify.com/track/6m0ixfbUMyp06AZlO0Ntu2"
@@ -435,7 +435,7 @@
       ],
       "date_added": "2019-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 205333,
       "name": "Ben Hur Chariot Race",
       "url": "https://open.spotify.com/track/4TALhYPQAQLofYU2MksB52"
@@ -453,7 +453,7 @@
       ],
       "date_added": "2019-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 66480,
       "name": "Blank Makes You Crazy",
       "url": "https://open.spotify.com/track/4rGvCeSB0Sk3iNRGiDC0me"
@@ -943,7 +943,7 @@
       ],
       "date_added": "2019-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 173706,
       "name": "Doc Returns",
       "url": "https://open.spotify.com/track/17uHMEllmYNV02hfAGQOJF"
@@ -1059,7 +1059,7 @@
       ],
       "date_added": "2019-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 82490,
       "name": "Einstein Disintegrated - From \u201cBack To The Future\u201d Original Score",
       "url": "https://open.spotify.com/track/75B1hWLLLnMexXkO4PHrrq"
@@ -1275,7 +1275,7 @@
       ],
       "date_added": "2019-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 78340,
       "name": "Find the Source",
       "url": "https://open.spotify.com/track/3EsW4otT3842xdOosEAxHb"
@@ -1455,7 +1455,7 @@
       ],
       "date_added": "2019-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 373173,
       "name": "Goldrush Two - Remastered 2005",
       "url": "https://open.spotify.com/track/2qC1zbm7boDIro2ZeQME4d"
@@ -1581,7 +1581,7 @@
       ],
       "date_added": "2019-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 175412,
       "name": "Hands Across the Sea",
       "url": "https://open.spotify.com/track/6xe4zJ56xqcT5cG0NjbyeM"
@@ -1732,6 +1732,24 @@
     },
     {
       "album": {
+        "name": "The Best of Tangerine Dream Live",
+        "url": "https://open.spotify.com/album/79PWCK0XaLtUjjlklsbgiV"
+      },
+      "artists": [
+        {
+          "name": "Tangerine Dream",
+          "url": "https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl"
+        }
+      ],
+      "date_added": "2017-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1250160,
+      "name": "Horizon - Live",
+      "url": "https://open.spotify.com/track/2tGgfwtzXdgusJcxkYVT3F"
+    },
+    {
+      "album": {
         "name": "Poland",
         "url": "https://open.spotify.com/album/1URQFHP1ft9ctbqqRwiuXP"
       },
@@ -1743,7 +1761,7 @@
       ],
       "date_added": "2017-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 1250160,
       "name": "Horizon - Live",
       "url": "https://open.spotify.com/track/38PWU1hacLAxfLuKmJ8yvs"
@@ -1977,7 +1995,7 @@
       ],
       "date_added": "2019-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 133013,
       "name": "In the Good Old Summertime",
       "url": "https://open.spotify.com/track/6ESYtjqLIhkuTwylmrsbrL"
@@ -2307,7 +2325,7 @@
       ],
       "date_added": "2019-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 310216,
       "name": "Les rossignols de Russie",
       "url": "https://open.spotify.com/track/5EygvzWTZpb7aBkNZoY4Fh"
@@ -2769,7 +2787,7 @@
       ],
       "date_added": "2019-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 79773,
       "name": "Planck's Constant",
       "url": "https://open.spotify.com/track/4CfxlFpty3kFzquuDnuKKM"
@@ -2931,10 +2949,28 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 261413,
       "name": "Psycho Killer - 2005 Remaster",
       "url": "https://open.spotify.com/track/1i6N76fftMZhijOzFQ5ZtL"
+    },
+    {
+      "album": {
+        "name": "Halloween Party Hits 2022",
+        "url": "https://open.spotify.com/album/3hPP9XG1AYMKB2ihekLILl"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261413,
+      "name": "Psycho Killer - 2005 Remaster",
+      "url": "https://open.spotify.com/track/2HlKoADvlaFopZPVPkrWZ1"
     },
     {
       "album": {
@@ -2949,7 +2985,7 @@
       ],
       "date_added": "2019-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 174466,
       "name": "R.O.C.K. In the U.S.A. (A Salute to 60's Rock)",
       "url": "https://open.spotify.com/track/2VkQe8kCQtEp47WAStSTV8"
@@ -3249,7 +3285,7 @@
       ],
       "date_added": "2019-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 105590,
       "name": "Scoops Troop",
       "url": "https://open.spotify.com/track/2xowT3VWuuf4ThSRbQDL5J"
@@ -3267,7 +3303,7 @@
       ],
       "date_added": "2019-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 169404,
       "name": "Semper Fidelis",
       "url": "https://open.spotify.com/track/0xhJvxVsumiw3Y2lOyevj9"
@@ -3596,6 +3632,24 @@
     },
     {
       "album": {
+        "name": "G\u00e9n\u00e9ration 80",
+        "url": "https://open.spotify.com/album/0mgtTxBX5dY9qTmEX3j71R"
+      },
+      "artists": [
+        {
+          "name": "Baltimora",
+          "url": "https://open.spotify.com/artist/6czfQ8MjHVmvJKA4LAnviG"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230026,
+      "name": "Tarzan Boy",
+      "url": "https://open.spotify.com/track/3AUSIN6fR6Mgait9O1u1zc"
+    },
+    {
+      "album": {
         "name": "Tarzan Boy: The World Of Baltimora",
         "url": "https://open.spotify.com/album/3z0bIoLOQwn7CYOz0vUePj"
       },
@@ -3607,7 +3661,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 230026,
       "name": "Tarzan Boy",
       "url": "https://open.spotify.com/track/6FwMGM0Dtmf0vz6BdIc8uP"
@@ -3661,7 +3715,7 @@
       ],
       "date_added": "2019-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 79326,
       "name": "The Door Is Opening",
       "url": "https://open.spotify.com/track/7HbQ3rqfob7h5tP4nyYtOw"
@@ -3679,7 +3733,7 @@
       ],
       "date_added": "2019-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 146160,
       "name": "The First I love You",
       "url": "https://open.spotify.com/track/3CbiMpMzToJhNJWza98K22"
@@ -3825,7 +3879,7 @@
       ],
       "date_added": "2019-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 75853,
       "name": "The Trees Are Moving",
       "url": "https://open.spotify.com/track/5w3HYJEAOcQpIr4ZqkPy81"
@@ -4367,7 +4421,7 @@
       ],
       "date_added": "2019-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 206293,
       "name": "Wien Bleibt Wien / 'Vienna Forever Vienna'",
       "url": "https://open.spotify.com/track/2oSKgAjPHymEVTPAdBFUGn"
@@ -4385,7 +4439,7 @@
       ],
       "date_added": "2019-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 131800,
       "name": "William",
       "url": "https://open.spotify.com/track/4wKcdpm3vqZ960UlufQj3k"

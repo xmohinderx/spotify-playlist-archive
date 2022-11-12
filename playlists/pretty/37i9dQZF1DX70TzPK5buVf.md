@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70TzPK5buVf.md) - [plain]
 
 > Funk to these good ol' funky soul classics!
 
-[Spotify](https://open.spotify.com/user/spotify) - 774,484 likes - 80 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 774,665 likes - 80 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70TzPK5buVf.md) - [plain]
 | 67 | [U Got the Look](https://open.spotify.com/track/10KEkVCSX2CYsIWcs5t1Ad) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [The Hits 2](https://open.spotify.com/album/2wrmTZCJAzEFBflDvhejz7) | 3:47 |
 | 68 | [More Bounce to the Ounce](https://open.spotify.com/track/3Ho35OJixLg20qshXRgfBs) | [Zapp](https://open.spotify.com/artist/396Kh0m4wGUvcMUULw71yi) | [All the Greatest Hits](https://open.spotify.com/album/3aUZ0iLjcePsDggYsZAGBZ) | 5:12 |
 | 69 | [Cutie Pie](https://open.spotify.com/track/3kim6v8wY7HLPaNmw99SxD) | [One Way](https://open.spotify.com/artist/001aJOc7CSQVo3XzoLG4DK) | [Cutie Pie](https://open.spotify.com/album/0mxxWnON99ABmmeQdqX8Ds) | 5:28 |
-| 70 | [The Payback](https://open.spotify.com/track/0YSE1fLSwXoGAb3CPzUgZm) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [70's Funk Classics](https://open.spotify.com/album/2qHJQ1SqVTUfN93ovRHjZc) | 3:33 |
+| 70 | [The Payback \- Pt\. 1](https://open.spotify.com/track/5W649n58BMtYondTG3XLYq) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [D.J\. Masters: Funk Classics](https://open.spotify.com/album/5ZGnytq7MQh4vWvWS1xj4s) | 3:33 |
 | 71 | [Ffun](https://open.spotify.com/track/2bAmuf7gFx5ziCMcGYjw2v) | [Con Funk Shun](https://open.spotify.com/artist/2hUkfSXyuDfQbUeNOShRiz) | [20th Century Masters: The Millennium Collection: Best Of Con Funk Shun](https://open.spotify.com/album/6YIn1afGfT570qYGZfwN5F) | 4:12 |
 | 72 | [Boogie Witcha, Baby](https://open.spotify.com/track/5NqRwz0rPh3aK4iWyJLXxy) | [Larry Graham & Graham Central Station](https://open.spotify.com/artist/6NodJUvzLqPU2HtPLhDuf5) | [My Radio Sure Sounds Good To Me](https://open.spotify.com/album/5DldGiP8hbKtAjGzzcdYEq) | 3:47 |
 | 73 | [Hyperbolicsyllablecsesquedalymistic \- Album \- Remaster](https://open.spotify.com/track/4aiJAJ7afdCErvrhJcw3lc) | [Isaac Hayes](https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E) | [Hot Buttered Soul \(Deluxe Remaster\)](https://open.spotify.com/album/4dpbUEDibbnNL7QrDQoooU) | 9:34 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70TzPK5buVf.md) - [plain]
 | 79 | [It's Serious](https://open.spotify.com/track/3eC8cchYZHVtKAzhMBDgGS) | [Cameo](https://open.spotify.com/artist/545idYhdloaSlLGBY8E9u2) | [Anthology](https://open.spotify.com/album/5QUldCK9QqBg5Gv1LVJvDI) | 8:06 |
 | 80 | [Superfly](https://open.spotify.com/track/4XsH9zBWPOCdXoH9ZDdS8r) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [Superfly \(O.S.T.\)](https://open.spotify.com/album/5ljIGCRRvS48V4ADzPGav2) | 3:53 |
 
-Snapshot ID: `MTY2MzU2OTQ2MSwwMDAwMDAwMDQwM2VmYzM2YmJkMTEyNGVjMmVlODU5MjFkYTYzNWI2`
+Snapshot ID: `MTY2MzU2OTQ2MSwwMDAwMDAwMGQ3YmQ5NThiNzU1MGMyNTg1NmMyMjFmMTRjYzlkZGVi`

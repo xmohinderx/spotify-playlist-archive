@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSIz2AGspV4.md) - [plain]
 
 > احدث الاغاني العراقية\. غلاف: محمد التركي
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,652 likes - 54 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,703 likes - 54 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

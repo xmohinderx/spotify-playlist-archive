@@ -4,7 +4,7 @@
 
 > tracks to play at full volume with the windows down
 
-246 songs - 14 hr 36 min - [published](https://open.spotify.com/playlist/2v1NXtZTobpMMl5w4yIlYO)
+247 songs - 14 hr 40 min - [published](https://open.spotify.com/playlist/2v1NXtZTobpMMl5w4yIlYO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,8 +166,9 @@
 | [Put Your Records On](https://open.spotify.com/track/6AGOKlMZWLCaEJGnaROtF9) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Put Your Records On](https://open.spotify.com/album/6K7559pAYrNCJwsv1uIIK7) | 3:30 | 2021-09-04 | 2022-06-23 |
 | [Redbone](https://open.spotify.com/track/0wXuerDYiBnERgIpbb3JBR) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | ["Awaken, My Love!"](https://open.spotify.com/album/4Carzsnpd6yvuHZ49I0oz8) | 5:26 | 2022-06-27 | 2022-07-27 |
 | [REEL IT IN](https://open.spotify.com/track/5qHirGR7M9tdm6C17DlzSY) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [ONEPOINTFIVE](https://open.spotify.com/album/4mwO9qIVmngSe7yR5Ios0I) | 2:01 | 2022-04-09 | 2022-04-14 |
-| [Ribs](https://open.spotify.com/track/2MvvoeRt8NcOXWESkxWn3g) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine](https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v) | 4:18 | 2022-07-26 |  |
+| [Ribs](https://open.spotify.com/track/2MvvoeRt8NcOXWESkxWn3g) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine](https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v) | 4:18 | 2022-07-26 | 2022-11-12 |
 | [Ribs](https://open.spotify.com/track/38WyDtxZhxm63jiythwemE) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine](https://open.spotify.com/album/2nPokmAvYy5qYO4rFU7ZDm) | 4:18 | 2022-06-27 | 2022-07-29 |
+| [Ribs](https://open.spotify.com/track/6RkbWSg7BERrqohwadO7eG) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Lo\-Fi Chill](https://open.spotify.com/album/1lqsaGfQnES7sOl0PnIPEA) | 4:18 | 2022-08-11 |  |
 | [Riptide](https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:24 | 2022-06-22 |  |
 | [Rollin \(feat\. Future & Khalid\)](https://open.spotify.com/track/0lMbuWUpfTWhEmOKxppEau) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Funk Wav](https://open.spotify.com/artist/4A0TivfinfALCAMJqqjZIk) | [Funk Wav Bounces Vol.1](https://open.spotify.com/album/2HaqChIDc5go3qxVunBDK0) | 4:32 | 2021-09-04 | 2022-04-19 |
 | [Roses](https://open.spotify.com/track/3vv9phIu6Y1vX3jcqaGz5Z) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [ROZES](https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA) | [Roses](https://open.spotify.com/album/2GFflENKz28RcMoSuulPZC) | 3:46 | 2022-06-22 |  |

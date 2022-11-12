@@ -4,7 +4,7 @@
 
 > Get fascinated by Japanese City Pop from the ‘90s with Shibuya\-kei flavor./ シティポップの発展が渋谷系へと向かう。多幸感に溢れる時代の空気と共に、モードな再構築が新たなカルチャーを生んだ。
 
-73 songs - 5 hr 59 min - [published](https://open.spotify.com/playlist/4ss52AmbN8gEtsSGVT2apA)
+74 songs - 6 hr 4 min - [published](https://open.spotify.com/playlist/4ss52AmbN8gEtsSGVT2apA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,8 @@
 | [Sweet Rhapsody](https://open.spotify.com/track/2ws62XcfeV7PCT2exLmBEN) | [Hiyajo Atsuko](https://open.spotify.com/artist/4RM51G7sDVxP0jo5uGODKf) | [ささやかれた夢の話](https://open.spotify.com/album/4vvaXPl77ekeetmDhltVOr) | 4:14 | 2021-04-15 |  |
 | [WATERMELON](https://open.spotify.com/track/081ccCOe9myoXhqDm9uNTh) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Yukihiro Takahashi](https://open.spotify.com/artist/5Rv28BOArteQRhL8YUYgD5) | [グランプリ](https://open.spotify.com/album/6P1m4VZS1ekXm2WPhy0zGH) | 5:36 | 2021-04-15 |  |
 | [WATERMELON](https://open.spotify.com/track/1d50tLud20gqKmw5eb6mah) | [東京スカパラダイスオーケストラ featuring 高橋 幸宏](https://open.spotify.com/artist/4NqUoQh0v3j74orTCFvWUw), [Yukihiro Takahashi](https://open.spotify.com/artist/5Rv28BOArteQRhL8YUYgD5) | [グランプリ](https://open.spotify.com/album/4Lm4iHEuF9cJN5JKQqVaCu) | 5:36 | 2021-04-15 | 2022-07-29 |
-| [Winter's Tale \~冬物語\~](https://open.spotify.com/track/5OJfMJasV2Cr6n7DKNiruL) | [Hiroshi Takano](https://open.spotify.com/artist/1Z3tfBrHfzbWjvnOQh9GnO), [Takao Tajima](https://open.spotify.com/artist/3SH8KJyDPMZZz7kqAm41NV) | [Free Soul Original Love 90s\~EMI Years](https://open.spotify.com/album/1y4XMGzhAqUZcfpxh9zQ7R) | 5:15 | 2021-04-15 |  |
+| [Winter's Tale \~冬物語\~](https://open.spotify.com/track/5OJfMJasV2Cr6n7DKNiruL) | [Hiroshi Takano](https://open.spotify.com/artist/1Z3tfBrHfzbWjvnOQh9GnO), [Takao Tajima](https://open.spotify.com/artist/3SH8KJyDPMZZz7kqAm41NV) | [Free Soul Original Love 90s\~EMI Years](https://open.spotify.com/album/1y4XMGzhAqUZcfpxh9zQ7R) | 5:15 | 2021-04-15 | 2022-11-12 |
+| [Winter's Tale \~冬物語\~](https://open.spotify.com/track/4IMi0SpaSvBuOL11wUftRN) | [Hiroshi Takano](https://open.spotify.com/artist/1Z3tfBrHfzbWjvnOQh9GnO), [田島貴男](https://open.spotify.com/artist/1b0g24xzPLwgVceaNJXIAU) | [TOKYO SHIBUYA\-KEI](https://open.spotify.com/album/7sPsL4NpNOdD4NxdhrP5M5) | 5:17 | 2021-04-15 |  |
 | [Winter's Tale\~冬物語\~](https://open.spotify.com/track/5AT7qJJDxEkiUndaVSJEv2) | [Hiroshi Takano](https://open.spotify.com/artist/1Z3tfBrHfzbWjvnOQh9GnO), [Takao Tajima](https://open.spotify.com/artist/3SH8KJyDPMZZz7kqAm41NV) | [EXTRA EDITION](https://open.spotify.com/album/0r3z686Jr4dfGNKuRwNh1V) | 5:17 | 2021-04-15 | 2022-07-29 |
 | [あじさい](https://open.spotify.com/track/0yvb3jHGLbEo1MZ6cF1YE2) | [Sunny Day Service](https://open.spotify.com/artist/4cSyPcpldERtF4eL3NB9dn) | [東京 \(Remastered\)](https://open.spotify.com/album/7hrYhSbjMtj30znHza9iLh) | 4:19 | 2021-04-15 | 2022-07-29 |
 | [あなたがそばにいる理由](https://open.spotify.com/track/4dRAXb8IpgVBdXJe5tYsUJ) | [Kaori Okui](https://open.spotify.com/artist/0RQhwDCMVYatkJ6p7rrB9e) | [Renaissance](https://open.spotify.com/album/0bWr54SZfUko5nVbtDiP9l) | 4:53 | 2021-04-15 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05YNpFuDzLK.md) - [plain]
 
 > Welcome to the world of “Code Geass” series!  歴代OP/ED、サントラ曲で辿るアニメ「コードギアス」シリーズの世界！©SUNRISE/PROJECT GEASS・MBS　Character Design © 2006 CLAMP
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,559 likes - 49 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,620 likes - 49 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05YNpFuDzLK.md) - [plain]
 | 27 | [Alone](https://open.spotify.com/track/1DA9OD3afK1Q6LCKD0pt3f) | [Hitomi](https://open.spotify.com/artist/63W3HOGwdbtIHC6LWG2Obc) | [Angel Feather Voice](https://open.spotify.com/album/6Fmcfn2D9qlWAW1JpOX5og) | 3:48 |
 | 28 | [Innocent Days](https://open.spotify.com/track/62bzDxqo0vC31AL3lfjv3Q) | [Hitomi](https://open.spotify.com/artist/63W3HOGwdbtIHC6LWG2Obc) | [Angel Feather Voice](https://open.spotify.com/album/6Fmcfn2D9qlWAW1JpOX5og) | 4:26 |
 | 29 | [Picaresque](https://open.spotify.com/track/4hl2IKRPMWYMpI4EXnJDFm) | [Mikio Sakai](https://open.spotify.com/artist/6KFocrrFAPX0HOIsRQG9Hr) | [my souls](https://open.spotify.com/album/7Bw1OfGpVCcKBqSa9B8jSX) | 4:01 |
-| 30 | [Callin'](https://open.spotify.com/track/7beDzK8J9846WEcbOLObWx) | [Mikio Sakai](https://open.spotify.com/artist/6KFocrrFAPX0HOIsRQG9Hr) | [my souls](https://open.spotify.com/album/7Bw1OfGpVCcKBqSa9B8jSX) | 4:36 |
+| 30 | [Callin'](https://open.spotify.com/track/3usJTOBcEUdN2OvElJ7rOf) | [Mikio Sakai](https://open.spotify.com/artist/6KFocrrFAPX0HOIsRQG9Hr) | [CODE GEASS Lelouch of the Rebellion Original Motion Picture Soundtrack 2](https://open.spotify.com/album/1tjAa8I8rFlgavizBlAGdc) | 4:37 |
 | 31 | [Bokuwa, Tori ni Naru.](https://open.spotify.com/track/1vkrI9ZS7jYczbsOSY73aH) | [Hitomi](https://open.spotify.com/artist/63W3HOGwdbtIHC6LWG2Obc) | [CODE GEASS Lelouch of the Rebellion R2 Original Motion Picture Soundtrack 2](https://open.spotify.com/album/3IIFkA4CF46RTRyiDUz4tx) | 5:08 |
 | 32 | [今はここに](https://open.spotify.com/track/6y0aFx8yruYbEZf8wk8Wkz) | [相坂優歌](https://open.spotify.com/artist/3s96N2VlNLmsyVyDoG8vyS) | [屋上の真ん中 で君の心は青く香るまま](https://open.spotify.com/album/2IYqL8Oei8sUMUFhHAuULL) | 5:11 |
 | 33 | [Rasen no Piece](https://open.spotify.com/track/2b8uJcvvAn6T6eE1mFoPpF) | [Rayflower](https://open.spotify.com/artist/1GDSfCGBESdvPvas0YT7Q9) | [CODE GEASS Lelouch of the Re: Surrection Original Motion Picture Soundtrack](https://open.spotify.com/album/6MwT7LUJJd2S4A15RXXW4D) | 5:27 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05YNpFuDzLK.md) - [plain]
 | 48 | [Hare Nochi Natsuno Ame](https://open.spotify.com/track/3gbLkvIDHDEhVyI5Qw3vgU) | [Shirley \(CV: Tomiko Orikasa \)](https://open.spotify.com/artist/4oyLv4lmkKLcW9jBnGuqiU) | [CODE GEASS Lelouch of the Rebellion Character Song Best](https://open.spotify.com/album/0QgYZkEZ7hUlKrZKyrZTh1) | 4:54 |
 | 49 | [Tennshi\-teki Kenpo 4jo](https://open.spotify.com/track/3x1z93295mcnEZsTkfCuqh) | [Tien Zi \(CV: Tamaki Matsumoto \)](https://open.spotify.com/artist/2IdIiAuUpBAxUuzLxqdb0D) | [CODE GEASS Lelouch of the Rebellion R2 Sound Variety R18](https://open.spotify.com/album/2podOQX7M5J1FsjN4u2W6V) | 3:23 |
 
-Snapshot ID: `MTY2NDY0NDMwOCwwMDAwMDAwMGRlYjM2OTkzYjZiNDUyYjc1YzYzNGNhYzg5MWJjNDE1`
+Snapshot ID: `MTY2NDY0NDMwOCwwMDAwMDAwMDc5ODU1MGI3ZWIwY2E4YmExZGM1MmQ4M2JjNWIxM2M0`

@@ -4,7 +4,7 @@
 
 > Discover your new favourite artists\. Cover: Benny Atlas
 
-173 songs - 9 hr 32 min - [published](https://open.spotify.com/playlist/6qn9QC3gawWvZcEMTsuVpt)
+174 songs - 9 hr 36 min - [published](https://open.spotify.com/playlist/6qn9QC3gawWvZcEMTsuVpt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,8 +160,9 @@
 | [Terrified](https://open.spotify.com/track/3ucxOAE4Is58lEIDMaAznA) | [Emily Burns](https://open.spotify.com/artist/6Gi8ZaXGx8MK79HwzXpuVZ) | [Terrified](https://open.spotify.com/album/4Oq1iLRq5iQ3VjVVWvEoCy) | 3:12 | 2022-02-18 | 2022-07-29 |
 | [Terrified](https://open.spotify.com/track/4UFMLGiIizvKZYrHuGTflS) | [Emily Burns](https://open.spotify.com/artist/6Gi8ZaXGx8MK79HwzXpuVZ) | [I Love You, You're The Worst](https://open.spotify.com/album/6fgHw31cLVUTu3nAFHvW9k) | 3:12 | 2022-07-28 |  |
 | [The Way I Do](https://open.spotify.com/track/4apnPdCj3uDuqMjGpqQcuc) | [July 7](https://open.spotify.com/artist/51kPCmCJ7rXClxKDc2r4RA) | [Rendezvous @ 7](https://open.spotify.com/album/783S0ZXyJ63o5txGFV5ej0) | 3:13 | 2022-02-25 |  |
+| [Things You Said](https://open.spotify.com/track/2v9jInzuHKsTcGzqPbFJOs) | [gglum](https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO) | [Things You Said](https://open.spotify.com/album/6ojFzpyw4yHyOuKHG8Mt9l) | 3:23 | 2022-11-11 |  |
 | [Things You Said](https://open.spotify.com/track/5MYAjxYvtSkUQzOgtnntTH) | [gglum](https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO) | [Things You Said](https://open.spotify.com/album/4Clwks3ojJZkBakCQGqeW9) | 3:23 | 2022-04-14 | 2022-10-14 |
-| [Things You Said](https://open.spotify.com/track/6CJQts0D5UNDV1i2Q7Vdso) | [gglum](https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO) | [Weak Teeth](https://open.spotify.com/album/1vRRpWjoj8bSCOY28wGWDy) | 3:23 | 2022-10-13 |  |
+| [Things You Said](https://open.spotify.com/track/6CJQts0D5UNDV1i2Q7Vdso) | [gglum](https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO) | [Weak Teeth](https://open.spotify.com/album/1vRRpWjoj8bSCOY28wGWDy) | 3:23 | 2022-10-13 | 2022-11-12 |
 | [Think About You \- Notion Mix](https://open.spotify.com/track/698qfbrci5r8U0EKceXhml) | [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9) | [Think About You \(Notion Mix\)](https://open.spotify.com/album/3LDQk8fS6P9E2lJVO0vUY4) | 3:14 | 2022-02-18 |  |
 | [Think That I Don't Need Your Love](https://open.spotify.com/track/15lQe5EUD55Fkq7HWLnJp5) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Think That I Don't Need Your Love](https://open.spotify.com/album/75Y9qwXRX8OHrDrYTKuBMg) | 3:43 | 2022-02-18 | 2022-10-13 |
 | [Think That I Don't Need Your Love](https://open.spotify.com/track/1vFOdLRFuiz5K2pZ7UggOJ) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Think That I Don't Need Your Love](https://open.spotify.com/album/47T6CDeQtuDW8XvUomdeB2) | 3:43 | 2022-10-06 |  |

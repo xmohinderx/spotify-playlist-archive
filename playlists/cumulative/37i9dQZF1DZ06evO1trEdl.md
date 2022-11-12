@@ -4,7 +4,7 @@
 
 > This is The Three Degrees\. The essential tracks, all in one playlist.
 
-68 songs - 4 hr 14 min - [published](https://open.spotify.com/playlist/3ABnPDJjQSoAzMxUwkHNzz)
+69 songs - 4 hr 18 min - [published](https://open.spotify.com/playlist/3ABnPDJjQSoAzMxUwkHNzz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Jump The Gun](https://open.spotify.com/track/74HHvkOUslEi5ra2hifet1) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Best Of](https://open.spotify.com/album/4URmx7IbGKCfW5eXWC5zfG) | 3:59 | 2022-05-25 |  |
 | [La chanson poupulaire](https://open.spotify.com/track/42qwcVwoXW3rQgQS4BxgkQ) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [International \(Expanded Edition\)](https://open.spotify.com/album/6tu9mnYgTCsVpyqWUd6YFG) | 4:04 | 2022-05-25 |  |
 | [Lonelier Are Fools](https://open.spotify.com/track/7LDmwfODaICK03XxOZri6L) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [International \(Expanded Edition\)](https://open.spotify.com/album/6tu9mnYgTCsVpyqWUd6YFG) | 4:04 | 2022-05-25 |  |
-| [Lonely Town](https://open.spotify.com/track/53McY1IpPZJ8v4HyOMi9vm) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Roulette Years](https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1) | 2:53 | 2022-11-09 |  |
+| [Lonely Town](https://open.spotify.com/track/53McY1IpPZJ8v4HyOMi9vm) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Roulette Years](https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1) | 2:53 | 2022-11-09 | 2022-11-12 |
 | [Long Lost Lover](https://open.spotify.com/track/6NUvRBMnhKax5XvI2I4a62) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Best Of The Three Degrees: When Will I See You Again](https://open.spotify.com/album/0GO4Ee0UN5cyB1FnWPfOzz) | 2:57 | 2022-05-25 |  |
 | [Look in My Eyes](https://open.spotify.com/track/701vVe5HF9Sg5qe4hfiqOv) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Look in My Eyes](https://open.spotify.com/album/6Sydd3h4gSqbEZPwrGzmSv) | 2:37 | 2022-05-25 |  |
 | [Love Is the Message \(feat\. The Three Degrees\) \- Love Groove Bonus](https://open.spotify.com/track/3rwrt4Ks6N6EWIfjfIfLAP) | [MFSB](https://open.spotify.com/artist/2mknvtcck8i82nKxDPDibv), [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Deep Grooves](https://open.spotify.com/album/4YmLFWoRJ18TSlw7ROIPIf) | 5:13 | 2022-05-25 |  |
@@ -46,6 +46,7 @@
 | [MacArthur Park](https://open.spotify.com/track/6SqeK2h7wWHs0BqtEJ5u9r) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Maybe \(Expanded Edition\)](https://open.spotify.com/album/0MTZS4VSddcWovq3OKLGit) | 6:44 | 2022-05-28 | 2022-08-27 |
 | [Make It Easy On Yourself](https://open.spotify.com/track/1c011SkU9d45oKg0woHXr6) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Pop Masters: Vital Signs](https://open.spotify.com/album/2d2RfYN5iMdhTOqBDuE5IO) | 4:46 | 2022-05-28 | 2022-10-12 |
 | [Maybe](https://open.spotify.com/track/2VJUb4hrOmugyRDMOJbkEK) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [So Much Love \(Expanded Edition\)](https://open.spotify.com/album/7v5XgVfc4BOl7nK1AZMS9U) | 5:37 | 2022-05-25 |  |
+| [Melting Pot \(Mono Version\)](https://open.spotify.com/track/5OAfwamRaDmPHynFb3vJtr) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Roulette Years](https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1) | 3:30 | 2022-11-11 |  |
 | [Midnight Train](https://open.spotify.com/track/6iIFbQlbPGfTIv70it0hLT) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Doing Fine](https://open.spotify.com/album/3TtzcnFBXLAbgqzQkU4u3Y) | 4:06 | 2022-09-02 | 2022-09-11 |
 | [My Simple Heart](https://open.spotify.com/track/1DPxZZCpNJ0zbgrvVZ4Ni4) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Best Of](https://open.spotify.com/album/4URmx7IbGKCfW5eXWC5zfG) | 4:29 | 2022-05-25 |  |
 | [No, No Not Again](https://open.spotify.com/track/48uOmFxgtnZtWkM1at2K4r) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [60's Girl Groups](https://open.spotify.com/album/1zEQQZpalmUYtDhd2WcxbP) | 2:45 | 2022-05-25 |  |

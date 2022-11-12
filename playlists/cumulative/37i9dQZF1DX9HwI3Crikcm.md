@@ -4,7 +4,7 @@
 
 > Relive last night's fun with jigs and reels out of Ireland – alongside trad tracks inspired and influenced by Celtic traditions.
 
-127 songs - 8 hr 35 min - [published](https://open.spotify.com/playlist/3R1gdsjJm62brrPUBTLlxw)
+128 songs - 8 hr 40 min - [published](https://open.spotify.com/playlist/3R1gdsjJm62brrPUBTLlxw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,8 @@
 | [The Green Hills of Tyrol / The Fermoy Lassies / The Pinch of Snuff \[Reels\]](https://open.spotify.com/track/12bh7TbqCq2rhQrJUjuDar) | [Eileen Ivers](https://open.spotify.com/artist/3vmYFRcOyIX8AcH3fy1anH), [Semus Egan](https://open.spotify.com/artist/2gA1psPXyxyQpwCppQW8Y0), [John Doyle](https://open.spotify.com/artist/3a1QidCLKC1IuMfGKY58kC) | [Absolutely Irish](https://open.spotify.com/album/46s9Nwc14v8jn9qw1xK3dB) | 6:00 | 2020-11-11 | 2022-07-29 |
 | [The Green Hills of Tyrol / The Fermoy Lassies / The Pinch of Snuff \[Reels\]](https://open.spotify.com/track/4XfE1tQqpr11yXt9nipbZk) | [Eileen Ivers](https://open.spotify.com/artist/3vmYFRcOyIX8AcH3fy1anH), [Semus Egan](https://open.spotify.com/artist/2gA1psPXyxyQpwCppQW8Y0), [John Doyle](https://open.spotify.com/artist/3a1QidCLKC1IuMfGKY58kC) | [Absolutely Irish](https://open.spotify.com/album/19Dk328QA9GwJJaVECMNqE) | 6:00 | 2020-11-11 |  |
 | [The Hag's Purse/Connaughtman's Rambles](https://open.spotify.com/track/09ZGID7lltzhNuVGa171RI) | [Calath](https://open.spotify.com/artist/2z4bLQ6CVdQnOkxCc81uSl) | [Irish Celtic Music \(Musica Celta Irlandesa\)](https://open.spotify.com/album/2SYQFYP7JNoXO6DHuB9CtT) | 3:06 | 2020-11-11 |  |
-| [The Hillsbrook Reels](https://open.spotify.com/track/68TAV3FX665WLaLG9s1LPp) | [Michael McGoldrick](https://open.spotify.com/artist/6XLzyxxr88YdGmrCKrFI74) | [Wired](https://open.spotify.com/album/0mvalBzGImgKtH9BP71h95) | 4:18 | 2020-11-11 |  |
+| [The Hillsbrook Reels](https://open.spotify.com/track/4u8J1CeW1VGEFxD6dyhqP5) | [Michael McGoldrick](https://open.spotify.com/artist/6XLzyxxr88YdGmrCKrFI74) | [Wired](https://open.spotify.com/album/0X6hTeNjhTyeCesXYb7UUq) | 4:18 | 2020-11-11 |  |
+| [The Hillsbrook Reels](https://open.spotify.com/track/68TAV3FX665WLaLG9s1LPp) | [Michael McGoldrick](https://open.spotify.com/artist/6XLzyxxr88YdGmrCKrFI74) | [Wired](https://open.spotify.com/album/0mvalBzGImgKtH9BP71h95) | 4:18 | 2020-11-11 | 2022-11-12 |
 | [The Hillsbrook Reels \(Spike Island Lassies/Skyedance/Merry Harrier's Reel/Lady Gordon's\)](https://open.spotify.com/track/5c8OuT4LQt9uVzRwMA5k6P) | [Michael McGoldrick](https://open.spotify.com/artist/6XLzyxxr88YdGmrCKrFI74) | [Wired](https://open.spotify.com/album/6bgnhYLY74r16gEyPJrTx3) | 4:18 | 2020-11-11 | 2022-07-29 |
 | [The Killavil Jig / Billy O'rourke Is the Buachaill Jigs](https://open.spotify.com/track/1nh3bUbH8smaGxFTJdCCmn) | [P.J\. Hayes](https://open.spotify.com/artist/5qZm0evJAaQ0546qkSNHk2), [Martin Hayes](https://open.spotify.com/artist/46PiSMoqr45oKsBesjqlKv) | [The Shores of Lough Graney](https://open.spotify.com/album/0kA4OpiO0iYJ0wH5kiejM4) | 2:19 | 2020-11-11 |  |
 | [The Lark in the Morning](https://open.spotify.com/track/4OGO4r86zxmxBaQDDrEV7z) | [James Kelly, Paddy O'Brien, Tommy Martin, Dáithí Sproule & Fintan Vallely](https://open.spotify.com/artist/50Yqm0o6wCZtZgQz8y3dvT) | [The Center for Irish Music \- Young Irish Musicians Weekend Vol\. 1](https://open.spotify.com/album/7nQyGuUflwWgwf4quYOGKi) | 2:24 | 2020-11-11 |  |

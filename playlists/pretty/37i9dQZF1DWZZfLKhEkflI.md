@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZfLKhEkflI.md) - [plain]
 
 > Funky Jazz from the mid 1950s to the early 1960s\. Cover: Art Blakey
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,455 likes - 75 songs - 8 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,503 likes - 75 songs - 8 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZfLKhEkflI.md) - [plain]
 | 36 | [Up A Step \- Remastered 2000 / Rudy Van Gelder Edition](https://open.spotify.com/track/3ltk3yU2BcHXixu1ykWsCo) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [No Room For Squares \(Remastered 2000 / Rudy Van Gelder Edition\)](https://open.spotify.com/album/3qer0IWDm6mSLUJy4ji0Oi) | 8:31 |
 | 37 | [Johnny's Blue](https://open.spotify.com/track/0wegLTw4radMpYyw28dIVQ) | [Art Blakey & The Jazz Messengers](https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz) | [Like Someone In Love](https://open.spotify.com/album/50nRFfP7eymMb2rfSffMr9) | 9:12 |
 | 38 | [Dippin' In The Bag](https://open.spotify.com/track/5Te1FEt3917pIOu651aLQj) | [Fred Jackson](https://open.spotify.com/artist/5QFpvP79VaxZ7sty3RyBPS) | [Hootin' 'N Tootin'](https://open.spotify.com/album/3vFV7kbe21nznNK87wrADV) | 3:59 |
-| 39 | [Back To The Tracks](https://open.spotify.com/track/5HkIObvZo2mjjt3JMJRqGR) | [Tina Brooks](https://open.spotify.com/artist/4JgvfZeCWGzEPGR6yVaXuX) | [Back To The Tracks](https://open.spotify.com/album/1bMz9hj91rrk0lj8SbTdgE) | 8:03 |
+| 39 | [The Joker \- Remastered](https://open.spotify.com/track/5NgqgpKQz0zjyERVrmY9hb) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [Search For The New Land \(Rudy Van Gelder Edition/2000 Remastered\)](https://open.spotify.com/album/6NmykD5FJftiDWqjWlwKfr) | 5:04 |
 | 40 | [Creepin' In \- Remastered](https://open.spotify.com/track/6n4A5dnPzBFhE0aqLTOUCP) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [Horace Silver And The Jazz Messengers](https://open.spotify.com/album/6ChBNNT405wL5eQz8be9Q9) | 7:26 |
-| 41 | [Mumbo Jumbo](https://open.spotify.com/track/2k5QlnGxJ0tsAWCRXs5Gag) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [Sonic Boom](https://open.spotify.com/album/4DMAjEeHrtO1OPmMy9FeND) | 5:28 |
+| 41 | [Back To The Tracks](https://open.spotify.com/track/5HkIObvZo2mjjt3JMJRqGR) | [Tina Brooks](https://open.spotify.com/artist/4JgvfZeCWGzEPGR6yVaXuX) | [Back To The Tracks](https://open.spotify.com/album/1bMz9hj91rrk0lj8SbTdgE) | 8:03 |
 | 42 | [Rollin' With Leo \- Remastered](https://open.spotify.com/track/42iENLbnZCyVDCcc3CKzQ3) | [Leo Parker](https://open.spotify.com/artist/5LQwJIY0TGUfJDS9vdpjmg) | [Rollin' With Leo \(Remastered\)](https://open.spotify.com/album/4iuVTKizRNoo1GqETTVHRH) | 6:25 |
 | 43 | [East Of The Village \- Remastered 2000/Rudy Van Gelder Edition](https://open.spotify.com/track/6wGRY9NeXqQjY3ujaZiROc) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [The Turnaround](https://open.spotify.com/album/2FR2NZXhXDbCTCeUUdHEJr) | 6:44 |
 | 44 | [Funk\-Cosity \- Rudy Van Gelder Edition/2007 Remaster](https://open.spotify.com/track/4hme7npk4H6RFPaGtPnZIR) | [Kenny Drew](https://open.spotify.com/artist/65uKPt40QH8dMBLuoJHPVY) | [Undercurrent \(Rudy Van Gelder Edition/2007 Remaster\)](https://open.spotify.com/album/3dLsZ0Gv8OjgUyES2imXIK) | 8:25 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZfLKhEkflI.md) - [plain]
 | 46 | [The Rake](https://open.spotify.com/track/4dR7kPaQ9U7fWHdwTHexkZ) | [Dizzy Reece](https://open.spotify.com/artist/748mYOdaWuFH4wXCvsvInR) | [Star Bright](https://open.spotify.com/album/3mVCxKC9Mco9NVcZYtOcn9) | 6:07 |
 | 47 | [Petty Larceny](https://open.spotify.com/track/0EVGwICUNwPZolrklaiByV) | [Art Blakey & The Jazz Messengers](https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz) | [The Freedom Rider](https://open.spotify.com/album/72jnQGrWRPB8eMGLRgV5Zp) | 6:16 |
 | 48 | [Blues Up And Down](https://open.spotify.com/track/22IK0azgagib3S51e9AIOF) | [Gene Ammons](https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK), [Sonny Stitt](https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj) | [Boss Tenors: Straight Ahead From Chicago August 1961](https://open.spotify.com/album/3roiMTcjRTDTqyDTc29Pjv) | 8:50 |
-| 49 | [The Joker \- Remastered](https://open.spotify.com/track/5NgqgpKQz0zjyERVrmY9hb) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [Search For The New Land \(Rudy Van Gelder Edition/2000 Remastered\)](https://open.spotify.com/album/6NmykD5FJftiDWqjWlwKfr) | 5:04 |
+| 49 | [Mumbo Jumbo](https://open.spotify.com/track/2k5QlnGxJ0tsAWCRXs5Gag) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [Sonic Boom](https://open.spotify.com/album/4DMAjEeHrtO1OPmMy9FeND) | 5:28 |
 | 50 | [Soulville \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/7b3V9eMh7z0iucPQHwAVtm) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [The Stylings Of Silver \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/7qaTLsGB0H8AJPvUs98CcO) | 6:16 |
 | 51 | [Sundu \- Remastered 1999 / Rudy Van Gelder Edition](https://open.spotify.com/track/5tSD3SWFAbQxM9RL5Mxx3A) | [Jackie McLean](https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA) | [A Fickle Sonance](https://open.spotify.com/album/4051tUgDDS3N4S4X8r4HlL) | 4:54 |
 | 52 | [Soul Sister \- Rudy Van Gelder Edition/2004 Remaster](https://open.spotify.com/track/5haDMziNpWpocusp2aLR82) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Dexter Calling \(Remastered / Rudy Van Gelder Edition\)](https://open.spotify.com/album/2y9RZzp36aXMJ5b3mv9X5P) | 7:45 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZfLKhEkflI.md) - [plain]
 | 61 | [Blues March](https://open.spotify.com/track/3z6vI20hNUo15h3fCduRQm) | [Benny Golson](https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG) | [Benny Golson And The Philadelphians](https://open.spotify.com/album/7JqSmqGSI3bvPAh7XKBr7h) | 4:05 |
 | 62 | [These Are Soulful Days](https://open.spotify.com/track/3HQBY6YfomUIXgyowl6pvs) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [Lee\-Way](https://open.spotify.com/album/4tTGVQBdu5emlYtvf5ru9N) | 9:25 |
 | 63 | [Main Spring \- 2006 Digital Remaster](https://open.spotify.com/track/7kj02yV03h8vzKjwDNRG1G) | [Johnny Griffin](https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ) | [The Congregation \(Expanded Edition\)](https://open.spotify.com/album/4xfqENceM0U2iQDi1c4sLy) | 6:31 |
-| 64 | [Hittin' The Jug \- Rudy Van Gelder Remaster](https://open.spotify.com/track/3kIhfQW7A4H7yd4a86uFt5) | [Gene Ammons](https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK) | [Boss Tenor](https://open.spotify.com/album/4u4T0lYZ2VbDHOmAwHKxJs) | 8:27 |
-| 65 | [Down Home](https://open.spotify.com/track/7dZhndMC31yTsQuaCfhOuy) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [Quartet / Quintet / Sextet](https://open.spotify.com/album/2Aflwf98ECEhjpowdENj7d) | 3:21 |
+| 64 | [Down Home](https://open.spotify.com/track/7dZhndMC31yTsQuaCfhOuy) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [Quartet / Quintet / Sextet](https://open.spotify.com/album/2Aflwf98ECEhjpowdENj7d) | 3:21 |
+| 65 | [Hittin' The Jug \- Rudy Van Gelder Remaster](https://open.spotify.com/track/3kIhfQW7A4H7yd4a86uFt5) | [Gene Ammons](https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK) | [Boss Tenor](https://open.spotify.com/album/4u4T0lYZ2VbDHOmAwHKxJs) | 8:27 |
 | 66 | [Society Red \- Rudy Van Gelder/24\-Bit Mastering/Digital Remaster/2004](https://open.spotify.com/track/5A76U6Sz8cWleyN3CFTvjy) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Doin' Allright](https://open.spotify.com/album/5HSURQb31DMhX0mg0F87zs) | 12:21 |
 | 67 | [Light Blue \- Remastered](https://open.spotify.com/track/57gN4EUhMll26FXfYKWVLw) | [Stanley Turrentine](https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP) | [That's Where It's At](https://open.spotify.com/album/6wRyPYTtDhRpC1O4ICM1Lt) | 6:35 |
 | 68 | [Blues For Skeeter \- Remastered 2000](https://open.spotify.com/track/5DMvnFcUeu6TwYhwWDSpYx) | [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB) | [Introducing Kenny Burrell: The First Blue Note Sessions](https://open.spotify.com/album/3gIrrrmvhrrs4Y6KNu3sSQ) | 8:08 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZfLKhEkflI.md) - [plain]
 | 74 | [Hoe Down](https://open.spotify.com/track/4dBKwK3QZ8oDlChmRo1aUU) | [Oliver Nelson](https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN) | [Feelgood Jazz](https://open.spotify.com/album/3wDFTwpmQSqrAhhcyBECqt) | 4:41 |
 | 75 | [Minor On Top](https://open.spotify.com/track/4fFNHJWF9TVdsmrFqbvyiS) | [Paul Chambers](https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG) | [Elegant Evening](https://open.spotify.com/album/6miwFPFgegnHSq4rv9wpxD) | 8:43 |
 
-Snapshot ID: `MTY2MzMxNTQ5NCwwMDAwMDAwMDY1MDgyMjUwMDBjYTA1ZmYzYmNkY2RkMTU3MTM5YzI1`
+Snapshot ID: `MTY2MzMxNTQ5NCwwMDAwMDAwMGMyMDkyNGQ2ZjNjOGU3MmMzNmI1NmRjZDBkNjgwNWNh`

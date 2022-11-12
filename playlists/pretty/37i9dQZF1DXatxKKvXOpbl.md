@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatxKKvXOpbl.md) - [plain]
 
 > Uma seleção good vibes pra você trabalhar de boa!
 
-[Spotify](https://open.spotify.com/user/spotify) - 412,745 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 412,832 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatxKKvXOpbl.md) - [plain]
 | 8 | [Dancing With A Stranger \(with Normani\)](https://open.spotify.com/track/6Qs4SXO9dwPj5GKvVOv8Ki) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [Dancing With A Stranger \(with Normani\)](https://open.spotify.com/album/1V9oE8bVilClrk5naqyyvL) | 2:51 |
 | 9 | [Slow Down](https://open.spotify.com/track/3acsDG4uqWOGPidRAZkrqk) | [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [When I Wake Up](https://open.spotify.com/album/7fTeO9yatW5oHOJKKg6FfD) | 3:31 |
 | 10 | [I'm Yours](https://open.spotify.com/track/3wRj1xEd1nvc1bRwxQ1w1o) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Verão Acústico](https://open.spotify.com/album/72UnTh8BVLUkxTS4lpFfVE) | 4:02 |
-| 11 | [Memories](https://open.spotify.com/track/4cktbXiXOapiLBMprHFErI) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [JORDI \(Deluxe\)](https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU) | 3:09 |
+| 11 | [Memories](https://open.spotify.com/track/33YkmfGXbrD91mf3qprC2j) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Summer Pool Party 2021](https://open.spotify.com/album/4lzPJSvH3dGu37ZMFNCsbH) | 3:09 |
 | 12 | [Calma](https://open.spotify.com/track/6aLJnupvPpT9HLv3xaUhe1) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Calma](https://open.spotify.com/album/2kcYEeVFU9YVN17OT7cEUy) | 3:00 |
 | 13 | [se essa vida fosse um filme](https://open.spotify.com/track/0hDphSo7vI7gCjEPpD6gu0) | [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6) | [se essa vida fosse um filme](https://open.spotify.com/album/1Ekb2K13vBO6VkILvBV6LI) | 2:05 |
 | 14 | [Free](https://open.spotify.com/track/2BJy5YrRMhVCqaLNY5cbv2) | [Donavon Frankenreiter](https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda) | [Donavon Frankenreiter](https://open.spotify.com/album/7HPDZ1Gu4pWyDn9o6DiToG) | 2:28 |
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatxKKvXOpbl.md) - [plain]
 | 24 | [This City](https://open.spotify.com/track/3H3r2nKWa3Yk5gt8xgmsEt) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [This City](https://open.spotify.com/album/5waiE6DS2ntWF3Q0yekJUm) | 3:14 |
 | 25 | [Play Date](https://open.spotify.com/track/4DpNNXFMMxQEKl7r0ykkWA) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [Cry Baby \(Deluxe Edition\)](https://open.spotify.com/album/5JpH5T1sCYnUyZD6TM0QaY) | 2:59 |
 | 26 | [Guys](https://open.spotify.com/track/1qQJWohzIrKMNIz6pyyKYw) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Guys](https://open.spotify.com/album/5MHKEvcqdoIPoFvp9DOqyK) | 4:29 |
-| 27 | [Never Not](https://open.spotify.com/track/3ZPBZH2k9p306C1bu7bkhC) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I met you when I was 18\. \(the playlist\)](https://open.spotify.com/album/71cQY3dUThCY6vVKaUIXqR) | 3:28 |
+| 27 | [Never Not](https://open.spotify.com/track/1XyYyfR9JaWCFzf0AyOsyl) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [\~I MISS YOU\~](https://open.spotify.com/album/1VyxpCBlTNsOb2f7HN3XAL) | 3:28 |
 | 28 | [Be Here Now](https://open.spotify.com/track/6OH5NhqBkwfpKZzDJJ0hWV) | [Gustavo Bertoni](https://open.spotify.com/artist/3SBeVI3ELQKQTEDoQ9ztq9) | [Be Here Now](https://open.spotify.com/album/3BJFYAGdweQ21jeCSQ1Va9) | 3:39 |
 | 29 | [Royals](https://open.spotify.com/track/2dLLR6qlu5UJ5gk0dKz0h3) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine](https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v) | 3:10 |
 | 30 | [Something Just Like This](https://open.spotify.com/track/6RUKPb4LETWmmr3iAEQktW) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Memories...Do Not Open](https://open.spotify.com/album/4JPguzRps3kuWDD5GS6oXr) | 4:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatxKKvXOpbl.md) - [plain]
 | 99 | [Feel](https://open.spotify.com/track/4jqqNRHecEuY7hlLBtZc0R) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Studying Vibes](https://open.spotify.com/album/0HxO8XfU6n3L797N7IPF1m) | 3:02 |
 | 100 | [We Are Young](https://open.spotify.com/track/1COmrHBpdhIR36e7VpVWce) | [fun.](https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0), [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Sweet but Psycho \- Hit Mix](https://open.spotify.com/album/2cRrHIkKIoCsNmefuJZ9Ts) | 4:10 |
 
-Snapshot ID: `MTY2NTc0Mzc0MCwwMDAwMDAwMGE3YmVlMDI2ZGM3YmUxMjcwYjRjZmIxZDYzMzNjNjhm`
+Snapshot ID: `MTY2NTc0Mzc0MCwwMDAwMDAwMGQxYjE4MzJkZjQ0MThmZDIwM2Q3OTE5MTMwYTgyMTlj`

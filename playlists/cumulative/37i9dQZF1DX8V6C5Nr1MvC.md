@@ -4,7 +4,7 @@
 
 > Unwind and drink up these awesome Rock slow songs
 
-124 songs - 8 hr 51 min - [published](https://open.spotify.com/playlist/497y8NFRf0FN68176BW58p)
+125 songs - 8 hr 57 min - [published](https://open.spotify.com/playlist/497y8NFRf0FN68176BW58p)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [Bloodstream](https://open.spotify.com/track/5I2UElY0XPnPhQhBTxBcq3) | [Stateless](https://open.spotify.com/artist/6msJKphD3VXZPItnztefdH) | [Stateless](https://open.spotify.com/album/1WcBYYpdKBhDvIRrtu8NMS) | 5:13 | 2022-05-24 | 2022-11-11 |
 | [Bloodstream](https://open.spotify.com/track/6xUhre6N6NhELpQaTBo3rP) | [Stateless](https://open.spotify.com/artist/6msJKphD3VXZPItnztefdH) | [Stateless](https://open.spotify.com/album/72MlSA2nv8w9b25ybqpm0m) | 5:13 | 2020-09-15 | 2022-07-29 |
 | [Bright Lights](https://open.spotify.com/track/2NTDt9Fiqp5wTBM6cLO6Bu) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Blak and Blu](https://open.spotify.com/album/0YCTY6KpkPWp2etKx9ZNyM) | 5:24 | 2020-09-15 | 2022-07-29 |
-| [Bright Lights](https://open.spotify.com/track/7aO35V27YDi4hKOL9odSya) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Blak and Blu \(Deluxe Edition\)](https://open.spotify.com/album/0YaeFHEYGpdzdFIxDRFvCv) | 5:24 | 2022-05-24 |  |
+| [Bright Lights](https://open.spotify.com/track/5HDMKAgLEPOEazIXo6YavF) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Rock's Not Dead](https://open.spotify.com/album/09ecrfUpZHKVXqm1ZZkBFV) | 5:24 | 2022-05-24 |  |
+| [Bright Lights](https://open.spotify.com/track/7aO35V27YDi4hKOL9odSya) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Blak and Blu \(Deluxe Edition\)](https://open.spotify.com/album/0YaeFHEYGpdzdFIxDRFvCv) | 5:24 | 2022-05-24 | 2022-11-12 |
 | [Californication](https://open.spotify.com/track/48UPSzbZjgc449aqz8bxox) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Californication \(Deluxe Edition\)](https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi) | 5:29 | 2020-09-15 |  |
 | [Change](https://open.spotify.com/track/44RW9FEY76mLQCRQUjT0Zt) | [Blind Melon](https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd) | [Blind Melon](https://open.spotify.com/album/55jET4vDioHHd7ztX7OX3h) | 3:41 | 2020-09-15 |  |
 | [Cherry](https://open.spotify.com/track/2HQY0sXTrBJCuxqJxbeMWB) | [Moose Blood](https://open.spotify.com/artist/5fEKZRCUa0JApec5Xy095q) | [I'll Keep You In Mind, From Time to Time](https://open.spotify.com/album/7aMvv0lYIhPyudfM1TmItV) | 2:39 | 2020-09-15 |  |

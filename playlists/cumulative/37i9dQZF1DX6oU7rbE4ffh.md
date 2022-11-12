@@ -4,7 +4,7 @@
 
 > Take a deep breath and relax.
 
-124 songs - 6 hr 38 min - [published](https://open.spotify.com/playlist/6gL2G2PqG3eJ4wI5j0BKO2)
+126 songs - 6 hr 45 min - [published](https://open.spotify.com/playlist/6gL2G2PqG3eJ4wI5j0BKO2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Enchanting](https://open.spotify.com/track/5Th1JB1zTh6BtnvIuFXn4U) | [Pranayama Om](https://open.spotify.com/artist/6WrKGQdOj7BcZNZ8uvIWOV) | [Enchanting](https://open.spotify.com/album/6dfT9qNKN2NBJUgjPtvo9j) | 3:50 | 2022-05-25 |  |
 | [Falling Autumn Leaves](https://open.spotify.com/track/5dXGR9SCZjX1a82NG87QKF) | [Roy Holtz](https://open.spotify.com/artist/7bmRaidlj0sx7EKFWBLnl2) | [Falling Autumn Leaves](https://open.spotify.com/album/2l8OjMwlL7qklDoJLhAT4S) | 2:14 | 2022-05-25 |  |
 | [Falling Winds](https://open.spotify.com/track/3LDurr25Dx3XAR4nMxNXpp) | [Wissal Sakti](https://open.spotify.com/artist/1FiERGNLIiWDYa2nA0TcGD) | [Falling Winds](https://open.spotify.com/album/4nOCx7KqmyryOHBbu3cNdV) | 3:25 | 2022-05-25 |  |
+| [Following The Seasons](https://open.spotify.com/track/748k8Bk5Nousy75IFv6QQy) | [Aisha Akebono](https://open.spotify.com/artist/1lI0k1BiLHvfJub3QQfe72) | [Following The Seasons](https://open.spotify.com/album/22h16XP7CqXPQAzro1YXcb) | 3:31 | 2022-11-11 |  |
 | [Forever close](https://open.spotify.com/track/4SIJIe0qLkPFLP8Nedt1Ga) | [Tuva Meyer](https://open.spotify.com/artist/2jLb0BITddsw4KK3EcNyyn) | [Forever close](https://open.spotify.com/album/0bhOdhCWSXWvy2uQKxDbGK) | 3:43 | 2022-05-25 |  |
 | [Forgotten Hill](https://open.spotify.com/track/61kOQYIvim1ZUEA66P51br) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Forgotten Hill](https://open.spotify.com/album/53fSlFeav0ih0YWUU2M1Kf) | 4:01 | 2022-05-25 |  |
 | [Freshwater and Lagoonal](https://open.spotify.com/track/5InPgnqltWDLl2RfWWnlmN) | [Mia Radcliffe](https://open.spotify.com/artist/34dREKRtx0bIdYuFrPQYMK) | [Freshwater and Lagoonal](https://open.spotify.com/album/57bBbUvaoMYXxA3ZFHX8Me) | 3:34 | 2022-05-25 | 2022-09-07 |
@@ -100,6 +101,7 @@
 | [Peripateo](https://open.spotify.com/track/3Jsht2hQ08RWncvgXaFpcp) | [For The Lost](https://open.spotify.com/artist/58WBGaTBnBHGIgn19HOnhZ) | [Peripateo](https://open.spotify.com/album/0IQFwbUk5gJin6nQGMJPWz) | 3:13 | 2022-05-25 |  |
 | [Petribungi](https://open.spotify.com/track/57kdkW0uoj8wZkKj6J6ucp) | [Numerorum mysteria](https://open.spotify.com/artist/3DAhwqtZw5k7ygr3JxFuKL) | [Petribungi](https://open.spotify.com/album/5QTxoUuOXKWxpeXbLKyRhP) | 3:36 | 2022-05-25 |  |
 | [Precious 432 hz](https://open.spotify.com/track/2Wq1C9dtftnI5OSMKJsie0) | [Binaural Landscapes](https://open.spotify.com/artist/5F1SC2pxuIO4iT2LnMIjQn) | [432 hz Frequency of Universe](https://open.spotify.com/album/5Xmwq5a06b8ZybYqX5fO8O) | 2:40 | 2022-10-07 |  |
+| [Quiet Motions](https://open.spotify.com/track/5G5T4D1uFd2mjhuM5O7bXu) | [Spheres](https://open.spotify.com/artist/3c3ccZ0IYqJ9cfMdSfVt02) | [Quiet Motions](https://open.spotify.com/album/7JycG0PMs6yxJBgSmx1Cmr) | 3:15 | 2022-11-11 |  |
 | [Rejuvenate](https://open.spotify.com/track/2BMsZTRgwxpLN4tQFSUcSo) | [D/S/T/N/C/E](https://open.spotify.com/artist/6aOdz7c7KzcgQfsfDYETIT) | [Rejuvenate](https://open.spotify.com/album/0ovPC1p3FWLW1NHSgiobYf) | 3:13 | 2022-06-16 |  |
 | [Repouso](https://open.spotify.com/track/41Fp3VZmyloxKUUcWDUrH2) | [Polysomni](https://open.spotify.com/artist/3ULKIOVe2bR3iZF1jFqzMN) | [Repouso](https://open.spotify.com/album/0FOLb3AIWL91ig6CEQu09c) | 3:56 | 2022-05-25 |  |
 | [Revolve](https://open.spotify.com/track/0X33Oo6yg2qlTsrFiH1qta) | [Sleepless Eye](https://open.spotify.com/artist/0q1jgFxjleKLegFYRiyPxS) | [Revolve](https://open.spotify.com/album/5x1eSN3IFw7QEbT9sm44w2) | 3:07 | 2022-05-25 |  |

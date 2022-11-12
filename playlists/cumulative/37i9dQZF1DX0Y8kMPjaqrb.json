@@ -338,6 +338,24 @@
     },
     {
       "album": {
+        "name": "Belle (Original Motion Picture Soundtrack) [Chinese Edition]",
+        "url": "https://open.spotify.com/album/5xbj1CwQ2qDjR2pLkeOYh9"
+      },
+      "artists": [
+        {
+          "name": "Yuta Bandoh",
+          "url": "https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228704,
+      "name": "Assault",
+      "url": "https://open.spotify.com/track/3D3tASL661SQMhHrianfwO"
+    },
+    {
+      "album": {
         "name": "Belle (Original Motion Picture Soundtrack) [English Edition]",
         "url": "https://open.spotify.com/album/7MK9ztclhDon7AgJroo6l4"
       },
@@ -349,7 +367,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 228704,
       "name": "Assault",
       "url": "https://open.spotify.com/track/64bKAprQGe1zqiqRxevbyd"
@@ -529,7 +547,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 167737,
       "name": "Distrust",
       "url": "https://open.spotify.com/track/1LmJsa9lsewNJGUN9dNl5v"
@@ -565,7 +583,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-24",
+      "date_removed": null,
       "duration_ms": 167737,
       "name": "Distrust",
       "url": "https://open.spotify.com/track/5ogn3CWkbdOw1dWu0UgNIb"
@@ -1040,6 +1058,24 @@
     },
     {
       "album": {
+        "name": "Belle (Original Motion Picture Soundtrack) [Norwegian Edition]",
+        "url": "https://open.spotify.com/album/6PskIOVkxelnBmWxFuNUkL"
+      },
+      "artists": [
+        {
+          "name": "Yuta Bandoh",
+          "url": "https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 71301,
+      "name": "Justin",
+      "url": "https://open.spotify.com/track/3O3cBQ4BldKKNHbP85S5cW"
+    },
+    {
+      "album": {
         "name": "Belle (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0Dh6RJv03InPzUWLwmpezp"
       },
@@ -1069,7 +1105,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 71301,
       "name": "Justin",
       "url": "https://open.spotify.com/track/75Vs9tynBTB0cPbizf8Pcx"
@@ -1321,10 +1357,28 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 89572,
       "name": "Memories of a Sound",
       "url": "https://open.spotify.com/track/4EY8U0w9xW44Ffz5lFh10K"
+    },
+    {
+      "album": {
+        "name": "Belle (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0Dh6RJv03InPzUWLwmpezp"
+      },
+      "artists": [
+        {
+          "name": "Taisei Iwasaki",
+          "url": "https://open.spotify.com/artist/2eutad3VCXdembmIgWdwjH"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89572,
+      "name": "Memories of a Sound",
+      "url": "https://open.spotify.com/track/4b1Lo350E2hPu9We9qLumy"
     },
     {
       "album": {
@@ -1792,6 +1846,24 @@
     },
     {
       "album": {
+        "name": "Belle (Original Motion Picture Soundtrack) [German Language Version]",
+        "url": "https://open.spotify.com/album/3dfZraNnGkFIPBzQPPh0TP"
+      },
+      "artists": [
+        {
+          "name": "Ludvig Forssell",
+          "url": "https://open.spotify.com/artist/2nrb04b45LG5tjuHHzK5lc"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 64668,
+      "name": "The Truth Obscured",
+      "url": "https://open.spotify.com/track/22AypixYj5hbhTtmYsGLt5"
+    },
+    {
+      "album": {
         "name": "Belle (Original Motion Picture Soundtrack) [English Edition]",
         "url": "https://open.spotify.com/album/7MK9ztclhDon7AgJroo6l4"
       },
@@ -1803,7 +1875,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 64668,
       "name": "The Truth Obscured",
       "url": "https://open.spotify.com/track/35fPUpWKfIzWfuSsfy9TuS"

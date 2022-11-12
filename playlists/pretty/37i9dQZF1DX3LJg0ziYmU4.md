@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LJg0ziYmU4.md) - [plain]
 
 > Recorriendo las carreteras con puras canciones de arranque 🚛
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,717 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,063 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LJg0ziYmU4.md) - [plain]
 | 2 | [Kilómetro 11\-60 \- En Vivo](https://open.spotify.com/track/6QQ2oYrRCeHNpAW9NehqzX) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3), [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi) | [Corridos Con Olor a Monte \(En Vivo\)](https://open.spotify.com/album/6Ip0lzUjI4ICXLKpdRpZDU) | 3:25 |
 | 3 | [El Águila Blanca](https://open.spotify.com/track/0crJsMs5FmnMHvQG1itkc0) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Imperio](https://open.spotify.com/album/4n0IYzVbxLFckUKpurk6kN) | 2:20 |
 | 4 | [Por Clave el 13](https://open.spotify.com/track/5xwP3VbM3eBKOeFF3fwn6Z) | [Betillo Guerrero](https://open.spotify.com/artist/0OtTjzw8SQkRaGzpTNvu1y) | [Seguimos Irremediables](https://open.spotify.com/album/40qsMl66nONy9hHLMHATwO) | 3:10 |
-| 5 | [Una Lagrima y Un Recuerdo](https://open.spotify.com/track/32wLxgQY6227VTkhZQaBor) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [4 Decadas 20 Boleros](https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N) | 2:49 |
+| 5 | [Una Lagrima y un Recuerdo](https://open.spotify.com/track/1MeNluJL3QMoCuyaMUIpww) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Una Lagrima y un Recuerdo](https://open.spotify.com/album/4sVexY8ZoDmnqZEDo2yVl3) | 2:47 |
 | 6 | [Corrido De Juanito](https://open.spotify.com/track/0ehx1p1HMn7NMKisZaO9oL) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Guerra De Poder](https://open.spotify.com/album/1W1M5dIjrNZdAD7mSsamKc) | 4:21 |
 | 7 | [El Callado](https://open.spotify.com/track/51tc4qhcssnwHV683Pq8H3) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [El Callado](https://open.spotify.com/album/4hVjflE1kDLzwLNOtDsNq9) | 2:58 |
 | 8 | [La Ultima Sombra](https://open.spotify.com/track/6Z5k18VPZu4b1IaIQmbecn) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Ni Hoy Ni Manana](https://open.spotify.com/album/7jyBbVcnqfV8vtmyyPJarL) | 3:57 |
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LJg0ziYmU4.md) - [plain]
 | 25 | [Compré Una Cantina](https://open.spotify.com/track/2fKafjPt7Pkl2WXPhOy9gM) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Compraron Una Cantina](https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk) | 2:39 |
 | 26 | [Vida Ventajosa](https://open.spotify.com/track/72kaj3MRKcGnv2dbukJQRA) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Somos Arrieros](https://open.spotify.com/album/0LST5ZEgbeq7DAKBUlB5rT) | 2:36 |
 | 27 | [El Envidioso](https://open.spotify.com/track/53PoPAD389bBE4ePYuT95g) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Al Estilo Rancheron](https://open.spotify.com/album/7jomGVik8nyxBGpIMSCnRd) | 3:11 |
-| 28 | [Laurita Garza](https://open.spotify.com/track/1kfKyCWFxNp4WHJDcPyYWS) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Corridos Volumen 1](https://open.spotify.com/album/3cQ3TDx7CrpdBdDazb26zi) | 3:12 |
+| 28 | [Laurita Garza](https://open.spotify.com/track/69pwh3bHrBUHFUelgKP2kI) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Lo Más Escuchado De](https://open.spotify.com/album/2Ogvgywcku2jTB0DH8DK3J) | 3:11 |
 | 29 | [Las Monjitas](https://open.spotify.com/track/2KJkMXZKvvV4jDdu8UM44e) | [Grupo Exterminador](https://open.spotify.com/artist/3slJwKuB6Ij5V0mCOKT8Jn) | [Corridos Perrones 1](https://open.spotify.com/album/00B6TWk6ykE81Itf5InD4I) | 4:32 |
 | 30 | [El Gato De Chihuahua](https://open.spotify.com/track/1PKoT3dROitNnZQch89TgT) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Los Huracanes del Norte \- 40 Aniversario](https://open.spotify.com/album/2j5szS1qydIXtQl79I6TPW) | 3:21 |
 | 31 | [Mi Última Caravana](https://open.spotify.com/track/0TLYlmmcovm6qxIjg7aDb3) | [GERARDO DIAZ Y SU GERARQUIA](https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp) | [Amistad y Pesos](https://open.spotify.com/album/2dp0TRYQW761GeOOMtqPv1) | 5:38 |
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LJg0ziYmU4.md) - [plain]
 | 64 | [Mi Cómplice](https://open.spotify.com/track/1GOvdGVrasTEG5JfDs8V5f) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Compraron Una Cantina](https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk) | 3:09 |
 | 65 | [Misa De Cuerpo Presente](https://open.spotify.com/track/72gWYoN7Wta4spLHOCI6Sd) | [Banda Movil](https://open.spotify.com/artist/7fU0B28ySGWjYCNKZD8YIK) | [Misa De Cuerpo Presente](https://open.spotify.com/album/2WR7Uv5bWy96xBlAfXNoFU) | 2:48 |
 | 66 | [Nadie Es Eterno](https://open.spotify.com/track/36FbSb3gmnWEXR9QjnsraQ) | [Adan Chalino Sanchez](https://open.spotify.com/artist/2zyNL1jSCA6HH5m0BZZTgy) | [Época Dorada \- 12 Éxitos Originales](https://open.spotify.com/album/5fkepTkkpKCjcGM5QCWVRM) | 3:14 |
-| 67 | [Una Página Más](https://open.spotify.com/track/14e0rd9AI4WGrOp7YnRyZl) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [20 Kilates Musicales](https://open.spotify.com/album/5iyRpVt6gDq3Ye12OBQnTb) | 2:42 |
+| 67 | [Una Pagina Mas](https://open.spotify.com/track/0WPxkmPOzoLoHhDzboJghY) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Una Página Más](https://open.spotify.com/album/4OgDDWQjUh9ms7dC4771rN) | 2:35 |
 | 68 | [Un Desengaño](https://open.spotify.com/track/1ZAZ1mKRV35Hosm3KPWNzK) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Contigo](https://open.spotify.com/album/2UlbB3uHQNJlaYYBB2ljm0) | 3:34 |
 | 69 | [Bajo Mil Llaves](https://open.spotify.com/track/5sbfCd8LLNJtP4MeSA1JyX) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Puros Éxitos](https://open.spotify.com/album/0M3kQUdKaCtut8mrQ4SlDo) | 2:26 |
 | 70 | [Viajes Panamá](https://open.spotify.com/track/38JwmxKKEixTQpMyIvbChQ) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [En Preparación](https://open.spotify.com/album/6SkVZ9EJpL1pQkf79qFnLF) | 2:58 |
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LJg0ziYmU4.md) - [plain]
 | 80 | [Voy a Pintar Mi Raya](https://open.spotify.com/track/0JFOXqd9N6RlMaAFlaaqFw) | [Banda Arkangel R\-15](https://open.spotify.com/artist/2W5zpA1UnG5QaA3p3668xE) | [Tesoros De Coleccion](https://open.spotify.com/album/3COLgk4Sk5EwFVXm4P6Mo3) | 3:46 |
 | 81 | [Mi Clavo](https://open.spotify.com/track/3jYDA6ixEpSC0lwOKj18WQ) | [El As De La Sierra](https://open.spotify.com/artist/6uQMkB156uIN27tFar9qQl) | [Puros Corridos Chacalosos con Banda Titanes Sinaloenses](https://open.spotify.com/album/2QYFXC2uGxBA72nuoXX0oq) | 2:16 |
 | 82 | [La Rubia Y La Morena](https://open.spotify.com/track/2aqsQyxUdXNQPvgWe6gqON) | [Los Dinamicos Del Norte](https://open.spotify.com/artist/2THFBUqLbOmogiKIQdFCWA) | [30 Primeros Exitos](https://open.spotify.com/album/7c0ryUTwqk6nSQ3JYDJEDf) | 3:15 |
-| 83 | [Como Fui A Enamorarme De Ti](https://open.spotify.com/track/1QaQ3sUbTOkPXWKfeMJjcj) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Abriendo Caminos](https://open.spotify.com/album/6qL1ZOQEqMLdfo83yQoKKo) | 3:17 |
+| 83 | [Como Fui A Enamorarme De Ti](https://open.spotify.com/track/3NOdFP3WexaI0vGHJclm2d) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Ayer, Hoy Y Siempre Con..\. Los Rieleros Del Norte](https://open.spotify.com/album/1OIs7XIyN0VMTMGaXoUNzr) | 3:20 |
 | 84 | [Pensando En Ti](https://open.spotify.com/track/3Uv7mHKnkvdop08vJ34KjI) | [Cuarto de Milla](https://open.spotify.com/artist/5yambtXlsDmaV304q7CRIe) | [Pensando En Ti](https://open.spotify.com/album/7qvniQLYMWkFmFqO5LqDxm) | 2:29 |
 | 85 | [Los Cocodrilos](https://open.spotify.com/track/75EEGajyuz5xI1u258k268) | [Raza Obrera](https://open.spotify.com/artist/0R5UVonrEc6yE7gjWllRGF) | [12 Exitos](https://open.spotify.com/album/6mmP15yQ5XIWOht0gUsXwl) | 3:24 |
 | 86 | [Mis Tres Animales](https://open.spotify.com/track/50urwe1JN84PxSKsJ8yY2p) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [14 Tucanazos Bien Pesados](https://open.spotify.com/album/5poff6oDNapTa60LAq46O0) | 2:43 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LJg0ziYmU4.md) - [plain]
 | 99 | [La Troca De Tres Colores](https://open.spotify.com/track/1At5H1Pyrx3sgaVvVHSzOG) | [Los Originales De San Juan](https://open.spotify.com/artist/3aVB3VLnoAn6bKiHOEzHag) | [Alineando Cabritos](https://open.spotify.com/album/6MwbpboiKaGTcb3MubGa2A) | 3:20 |
 | 100 | [El Viejo Trailero](https://open.spotify.com/track/1dLGyRAPvlZ2zHeLQ3P99r) | [Luis y Julian](https://open.spotify.com/artist/5lcjVQ4c220HJHr0AuZXdl) | [Lo Más Escuchado De](https://open.spotify.com/album/6HEyeSX2tv7NzFyJKt44gL) | 3:19 |
 
-Snapshot ID: `MTY1OTcxNjQ4MywwMDAwMDAwMDY3NGNiYjEyMDAwNjZkNjIxNTQ4YmVhZDU5MTNlYWIy`
+Snapshot ID: `MTY1OTcxNjQ4MywwMDAwMDAwMDZkNzIwZjNmNTM1N2E0ZWNkYWNlZWEwNGFkZGQxOTEz`

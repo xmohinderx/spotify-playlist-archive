@@ -4,7 +4,7 @@
 
 > ¡Los éxitos del pop y el rock interpretados con mariachi!
 
-64 songs - 3 hr 40 min - [published](https://open.spotify.com/playlist/5fWQkQy9WYdj1bxQ5kQLfs)
+66 songs - 3 hr 47 min - [published](https://open.spotify.com/playlist/5fWQkQy9WYdj1bxQ5kQLfs)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,8 @@
 | [Bloody Tears \(from "Castlevania II: Simon's Quest"\)](https://open.spotify.com/track/7mSGgksZwZfDj3yoCaBymz) | [Mariachi Entertainment System](https://open.spotify.com/artist/6Fo4ZNILtdNHxC61x0Q8IX) | [Mariachi Entertainment System](https://open.spotify.com/album/4zWoXcRFJvf1xAFa92pMYi) | 2:21 | 2021-07-28 |  |
 | [Bohemian Rhapsody \- Instrumental](https://open.spotify.com/track/1ikHG5XBAjPWxCYlMjkTcN) | [Los Mariachis](https://open.spotify.com/artist/2YwopcCMqCYbtZmxVXTcNk) | [Exitos De Los Chicos De London \(Instrumental\)](https://open.spotify.com/album/4nG0gIba7QL4zbpkBpQl21) | 5:48 | 2021-07-28 |  |
 | [California Dreamin'](https://open.spotify.com/track/6EYpYR8PT5jq4y8L6qkbYj) | [Mariachi Los Soñadores](https://open.spotify.com/artist/1N0WkGJo1trgGY1x1hMPJk) | [California Dreamin'](https://open.spotify.com/album/2pBIPtKailH8feE3DLoJVr) | 2:46 | 2021-07-28 |  |
-| [Cancion Del Mariachi](https://open.spotify.com/track/7MFsLdEb5V395J9Zsy9xls) | [Antonio Banderas/los Lobos](https://open.spotify.com/artist/0H3JH7wDy4Lh69D2EcZbLn) | [Mexico and Mariachis](https://open.spotify.com/album/6pAX4F1ruCFfldfRen3sju) | 2:07 | 2021-07-28 |  |
+| [Cancion del Mariachi](https://open.spotify.com/track/2WAHi5ZJwDZqGjnhZgZYmU) | [Antonio Banderas](https://open.spotify.com/artist/1EmxvwBQjmCB7e3dOVincQ), [Los Lobos](https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT) | [Mexico and Mariachis](https://open.spotify.com/album/4XPadpKr3aUdP3uFBZSsm9) | 2:07 | 2021-07-28 |  |
+| [Cancion Del Mariachi](https://open.spotify.com/track/7MFsLdEb5V395J9Zsy9xls) | [Antonio Banderas/los Lobos](https://open.spotify.com/artist/0H3JH7wDy4Lh69D2EcZbLn) | [Mexico and Mariachis](https://open.spotify.com/album/6pAX4F1ruCFfldfRen3sju) | 2:07 | 2021-07-28 | 2022-11-12 |
 | [Changes](https://open.spotify.com/track/167gl31uOXmVYazZz5TDhx) | [Mariachi Arco Iris](https://open.spotify.com/artist/5TxkKchbD0Joui6g9sUwna) | [Changes](https://open.spotify.com/album/5bl2leCLhSGFwpjEndig0D) | 3:22 | 2021-07-28 |  |
 | [Close to Me](https://open.spotify.com/track/23hc5fmduszPzhAzxS8zD0) | [Mariachi Rock\-O](https://open.spotify.com/artist/0Op3oPwgkCDb3JfAKLPw98) | [Sonidos De Jalisco, Vol\. 2](https://open.spotify.com/album/3eQWfypo2bF6tjo5oq8b9c) | 3:34 | 2021-07-28 |  |
 | [Come Together](https://open.spotify.com/track/3mdNVVkCKv9f7ltR7emGUA) | [Los Mariachis](https://open.spotify.com/artist/2YwopcCMqCYbtZmxVXTcNk) | [Exitos Instrumentales](https://open.spotify.com/album/5Jrvf6K3Q6Yfh8RstOvZMg) | 3:29 | 2021-07-28 |  |
@@ -42,7 +43,8 @@
 | [I Love Rock 'N' Roll](https://open.spotify.com/track/19OQ0JOUYNRaZVjI2cS0YR) | [The Mariachis](https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb) | [Mexican Party](https://open.spotify.com/album/7iJFGWy0nsWGB3PIKtw1T4) | 3:17 | 2021-07-28 | 2022-10-19 |
 | [I Love Rock 'N' Roll](https://open.spotify.com/track/1kCQGipg9DCCtTlx80wZ8J) | [The Mariachis](https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb) | [Mexican Party](https://open.spotify.com/album/45yT4fgq16M51hpnsSt5Qm) | 3:17 | 2021-07-28 |  |
 | [I'm Gonna Be \(500 Miles\)](https://open.spotify.com/track/4jBkwecH1M6L2M0LhrJZyw) | [The Mariachis](https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb) | [Mexipop](https://open.spotify.com/album/2Y007c4RwCfTEzv012ou7F) | 4:40 | 2021-07-28 | 2022-10-23 |
-| [Killer Queen \- Instrumental](https://open.spotify.com/track/3L9bPBxPhitnEzTZI0YeU0) | [Los Mariachis](https://open.spotify.com/artist/2YwopcCMqCYbtZmxVXTcNk) | [Exitos De Los Chicos De London \(Instrumental\)](https://open.spotify.com/album/4nG0gIba7QL4zbpkBpQl21) | 3:55 | 2021-07-28 |  |
+| [I'm Gonna Be \(500 Miles\)](https://open.spotify.com/track/6qoY00hSrlzLUhxSbGo81U) | [The Mariachis](https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb) | [Mexipop](https://open.spotify.com/album/46NfWVX2hjWS3GNP2pG3xF) | 4:40 | 2021-07-28 |  |
+| [Killer Queen \- Instrumental](https://open.spotify.com/track/3L9bPBxPhitnEzTZI0YeU0) | [Los Mariachis](https://open.spotify.com/artist/2YwopcCMqCYbtZmxVXTcNk) | [Exitos De Los Chicos De London \(Instrumental\)](https://open.spotify.com/album/4nG0gIba7QL4zbpkBpQl21) | 3:55 | 2021-07-28 | 2022-11-12 |
 | [La Cucaracha](https://open.spotify.com/track/3rgPxzkWK65kjWtP8pkRGL) | [The Mariachis](https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb) | [Mexican Fiesta](https://open.spotify.com/album/4ew6gZSo0k4PBTRYyydx3G) | 2:45 | 2021-07-28 |  |
 | [La Cucaracha](https://open.spotify.com/track/5fCCJgB3XbG5mqVZBYLqOV) | [The Mariachis](https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb) | [Mexican Fiesta](https://open.spotify.com/album/1o7ISMEJPRyEYVjsH4mYSg) | 2:45 | 2021-07-28 | 2022-10-21 |
 | [Lithium](https://open.spotify.com/track/3az8lXrRXqUZPzWJ30UOfw) | [The Mariachis](https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb) | [Mexican Party](https://open.spotify.com/album/7iJFGWy0nsWGB3PIKtw1T4) | 4:06 | 2021-07-28 | 2022-10-19 |

@@ -4,7 +4,7 @@
 
 > Your family can visit all of the animals at the zoo with this fun playlist.
 
-111 songs - 3 hr 51 min - [published](https://open.spotify.com/playlist/5mDi0ly6f3Nrf2gFlIwbHJ)
+113 songs - 3 hr 57 min - [published](https://open.spotify.com/playlist/5mDi0ly6f3Nrf2gFlIwbHJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,12 +16,14 @@
 | [Alice the Camel](https://open.spotify.com/track/16fID3FglbDNkn425bPgJe) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [30 Favorite Animal Songs for Kids](https://open.spotify.com/album/7tAxYAW3his1LuF2sFFvI7) | 1:13 | 2022-02-01 |  |
 | [All My Friends Are Insects](https://open.spotify.com/track/7wMfeQ28fxxrliSXnzJhiy) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Yo Gabba Gabba! Hey!](https://open.spotify.com/album/1KkCmh4A9k1U4znzSvqAEB) | 1:23 | 2022-02-01 |  |
 | [Alligator](https://open.spotify.com/track/0vKXwaI4VRcpdz6CGYMFEv) | [Caspar Babypants](https://open.spotify.com/artist/4wwj0BGZ6T61LB1jBWdo0n) | [Bug Out!](https://open.spotify.com/album/52ZI4mxoOizsmloKZfvesC) | 1:54 | 2022-02-01 |  |
-| [Animal Bop](https://open.spotify.com/track/1Y7maeiqIvifJbs5iP0NB2) | [YolanDa](https://open.spotify.com/artist/4hm4WFGcx2tbuHgHkGGLjq), [YolanDa Brown](https://open.spotify.com/artist/4VGGxAkrs07Y4vyCdiaxq0) | [YolanDa's Band Jam](https://open.spotify.com/album/5ao41Lw4krw6XAn8KI0jbc) | 2:56 | 2022-07-25 |  |
+| [Animal Bop](https://open.spotify.com/track/1Y7maeiqIvifJbs5iP0NB2) | [YolanDa](https://open.spotify.com/artist/4hm4WFGcx2tbuHgHkGGLjq), [YolanDa Brown](https://open.spotify.com/artist/4VGGxAkrs07Y4vyCdiaxq0) | [YolanDa's Band Jam](https://open.spotify.com/album/5ao41Lw4krw6XAn8KI0jbc) | 2:56 | 2022-07-25 | 2022-11-12 |
 | [Animal Bop](https://open.spotify.com/track/2rtZtv0vrlhfXIeQ7JSgne) | [YolanDa](https://open.spotify.com/artist/4hm4WFGcx2tbuHgHkGGLjq), [YolanDa Brown](https://open.spotify.com/artist/4VGGxAkrs07Y4vyCdiaxq0) | [YolanDa's Band Jam](https://open.spotify.com/album/5DTWvBeKgg8EQyfe8HM81s) | 2:56 | 2022-02-01 | 2022-07-29 |
+| [Animal Bop](https://open.spotify.com/track/7kL28gyDAxXAiOEHTI67tn) | [YolanDa](https://open.spotify.com/artist/4hm4WFGcx2tbuHgHkGGLjq), [YolanDa Brown](https://open.spotify.com/artist/4VGGxAkrs07Y4vyCdiaxq0) | [YolanDa's Band Jam \(Deluxe Version\)](https://open.spotify.com/album/4eBl8hgG2Dm0155Z3zd1qk) | 2:56 | 2022-07-25 |  |
 | [Animal Dance Song](https://open.spotify.com/track/3MHXbXqDZOrVLupLxny45E) | [Cocomelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Cocomelon Kids Hits, Vol\. 5](https://open.spotify.com/album/0YPFWkQvhIj14v2LDs0wS1) | 2:51 | 2022-02-01 | 2022-07-29 |
 | [Animal Dance Song](https://open.spotify.com/track/4FwDRTQdk1FmiVTCLLeeKn) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [CoComelon Essentials](https://open.spotify.com/album/6dj7EyztDD42IJqsxZ1XMz) | 2:51 | 2022-07-25 |  |
 | [Animal Sounds Song](https://open.spotify.com/track/1GZLVOiMleNK19yYOHSWTE) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn) | [Blippi Tunes, Vol\. 3](https://open.spotify.com/album/6TkfhNkfCi1WKoXIhcJOII) | 2:32 | 2022-02-01 | 2022-07-29 |
-| [Animal Sounds Song](https://open.spotify.com/track/1Y6yUVFfvlWmkt9D227NAL) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn) | [Blippi Tunes, Vol\. 3](https://open.spotify.com/album/4yXRgaXo2hTMr4aRPCL21b) | 2:32 | 2022-07-25 |  |
+| [Animal Sounds Song](https://open.spotify.com/track/1Y6yUVFfvlWmkt9D227NAL) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn) | [Blippi Tunes, Vol\. 3](https://open.spotify.com/album/4yXRgaXo2hTMr4aRPCL21b) | 2:32 | 2022-07-25 | 2022-11-12 |
+| [Animal Sounds Song](https://open.spotify.com/track/6ARV6Hi3CgN4iUtDUJfIZ9) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn) | [Animals of the World](https://open.spotify.com/album/1UVpE8K9czwRpKC6xys6Dt) | 2:32 | 2022-07-25 |  |
 | [Animal Sounds Song](https://open.spotify.com/track/017JgLqh1BQMvhOYG4kRtQ) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Animal Playtime](https://open.spotify.com/album/7qLeFNZVZHv8hRXyoxVtxL) | 2:05 | 2022-07-25 |  |
 | [Animal Tea Party](https://open.spotify.com/track/12xKVbyhbv4xYuV6ix6X87) | [Mr Yipadee](https://open.spotify.com/artist/2EDBzZNew0M639G7RKCTsS), [Deano Yipadee](https://open.spotify.com/artist/7hQbFjNyMcJxjwmlieqPy1) | [Animal Tea Party](https://open.spotify.com/album/2fgkAS7QhojInU1K29KjvF) | 2:18 | 2022-02-01 |  |
 | [Animals on the Run](https://open.spotify.com/track/5JCuheCix5M2FvVQfmFgUu) | [Tiptoe Giants](https://open.spotify.com/artist/7MBs915vZuGiDTEl9GKApR) | [Colour the World](https://open.spotify.com/album/56M2NxnFNjYbFC5NTiHPmb) | 2:26 | 2022-02-01 |  |

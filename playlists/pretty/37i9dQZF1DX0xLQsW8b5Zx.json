@@ -1,12 +1,12 @@
 {
   "description": "Live fast, die awesome! A great mix of the best rockabilly tracks.",
-  "num_followers": 510203,
+  "num_followers": 510331,
   "original_name": "Rockabilly Mania",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjY4Nzc5OSwwMDAwMDAwMGY0YTE3ZjQzMGM0ZjRiMTAwMzEzNjU3ZjgxNGI4ZTNm",
+  "snapshot_id": "MTY2NjY4Nzc5OSwwMDAwMDAwMDc3YTQyNWQwYjE2NjE5ZjJjZjNmNzEwMjg4ZDcxODJm",
   "tracks": [
     {
       "added_at": "2022-09-02 07:19:55",
@@ -59,22 +59,6 @@
     {
       "added_at": "2022-09-02 07:19:55",
       "album": {
-        "name": "Chantilly Lace",
-        "url": "https://open.spotify.com/album/4rjNs9o3EjMVQlwV7EuhGS"
-      },
-      "artists": [
-        {
-          "name": "The Big Bopper",
-          "url": "https://open.spotify.com/artist/2gNK2HAaLVz5DZoD2moDQj"
-        }
-      ],
-      "duration_ms": 145266,
-      "name": "Chantilly Lace",
-      "url": "https://open.spotify.com/track/07GtDOCxmye5KDWsTSACPk"
-    },
-    {
-      "added_at": "2022-09-02 07:19:55",
-      "album": {
         "name": "Forever Blue",
         "url": "https://open.spotify.com/album/5j0gG8sv3zqZhpW5e4HlvY"
       },
@@ -107,18 +91,34 @@
     {
       "added_at": "2022-09-02 07:19:55",
       "album": {
-        "name": "Original Golden Hits - Volume 1 (Vol. 1)",
-        "url": "https://open.spotify.com/album/22cLZV8YJhDZzJ7lvJQXZj"
+        "name": "Too Hot to Handle",
+        "url": "https://open.spotify.com/album/0LUOLIMXEqzJ8Bt3ulTd6H"
       },
       "artists": [
         {
-          "name": "Jerry Lee Lewis",
-          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
+          "name": "The Firebirds",
+          "url": "https://open.spotify.com/artist/0nhl9XQYR0RLk6PWCvGd75"
         }
       ],
-      "duration_ms": 173158,
-      "name": "Whole Lot Of Shakin' Going On - Single Version",
-      "url": "https://open.spotify.com/track/7Fyo9lTrk6pjT1rVW3GlBG"
+      "duration_ms": 126826,
+      "name": "59 Ford",
+      "url": "https://open.spotify.com/track/08m7pwirwY6h90JE8dZ3D3"
+    },
+    {
+      "added_at": "2022-09-02 07:19:55",
+      "album": {
+        "name": "Elvis",
+        "url": "https://open.spotify.com/album/4BxOdLUpWYFL0mfdYiukyQ"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "duration_ms": 112706,
+      "name": "Rip It Up",
+      "url": "https://open.spotify.com/track/242E7zj2wWWegVlurGpaVz"
     },
     {
       "added_at": "2022-09-02 07:19:55",
@@ -139,18 +139,18 @@
     {
       "added_at": "2022-09-02 07:19:55",
       "album": {
-        "name": "Too Hot to Handle",
-        "url": "https://open.spotify.com/album/0LUOLIMXEqzJ8Bt3ulTd6H"
+        "name": "Buddy Knox",
+        "url": "https://open.spotify.com/album/3ouDZeOVznhaMMOvZcukTc"
       },
       "artists": [
         {
-          "name": "The Firebirds",
-          "url": "https://open.spotify.com/artist/0nhl9XQYR0RLk6PWCvGd75"
+          "name": "Buddy Knox",
+          "url": "https://open.spotify.com/artist/0b5Tz3szM4KK8esFKV2Zsb"
         }
       ],
-      "duration_ms": 126826,
-      "name": "59 Ford",
-      "url": "https://open.spotify.com/track/08m7pwirwY6h90JE8dZ3D3"
+      "duration_ms": 135173,
+      "name": "Party Doll",
+      "url": "https://open.spotify.com/track/3SNEFR9U8CCEUN3iZfkVgW"
     },
     {
       "added_at": "2022-09-02 07:19:55",
@@ -187,54 +187,6 @@
     {
       "added_at": "2022-09-02 07:19:55",
       "album": {
-        "name": "Elvis",
-        "url": "https://open.spotify.com/album/4BxOdLUpWYFL0mfdYiukyQ"
-      },
-      "artists": [
-        {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
-        }
-      ],
-      "duration_ms": 112706,
-      "name": "Rip It Up",
-      "url": "https://open.spotify.com/track/242E7zj2wWWegVlurGpaVz"
-    },
-    {
-      "added_at": "2022-09-02 07:19:55",
-      "album": {
-        "name": "Like, Mann: Carl Mann Sings",
-        "url": "https://open.spotify.com/album/18A5NjwCOxllq8BpDZSEsQ"
-      },
-      "artists": [
-        {
-          "name": "Carl Mann",
-          "url": "https://open.spotify.com/artist/2VMEvDcrKKZg96T4QWXIkT"
-        }
-      ],
-      "duration_ms": 146728,
-      "name": "Mona Lisa",
-      "url": "https://open.spotify.com/track/6bhTvzvIPjOLtsGAhyaHfH"
-    },
-    {
-      "added_at": "2022-09-02 07:19:55",
-      "album": {
-        "name": "Buddy Knox",
-        "url": "https://open.spotify.com/album/3ouDZeOVznhaMMOvZcukTc"
-      },
-      "artists": [
-        {
-          "name": "Buddy Knox",
-          "url": "https://open.spotify.com/artist/0b5Tz3szM4KK8esFKV2Zsb"
-        }
-      ],
-      "duration_ms": 135173,
-      "name": "Party Doll",
-      "url": "https://open.spotify.com/track/3SNEFR9U8CCEUN3iZfkVgW"
-    },
-    {
-      "added_at": "2022-09-02 07:19:55",
-      "album": {
         "name": "The Dance Album",
         "url": "https://open.spotify.com/album/2mDKmUu61YwkVAJfvD81HK"
       },
@@ -247,22 +199,6 @@
       "duration_ms": 127847,
       "name": "Matchbox",
       "url": "https://open.spotify.com/track/3qz0e03PIaalwcCGwaJHMs"
-    },
-    {
-      "added_at": "2022-09-02 07:19:55",
-      "album": {
-        "name": "Signs & Signifiers",
-        "url": "https://open.spotify.com/album/3j260hiD8MJJBO0gbF6BTQ"
-      },
-      "artists": [
-        {
-          "name": "JD McPherson",
-          "url": "https://open.spotify.com/artist/6u5mhJXgAKPTj6YVlZSPY9"
-        }
-      ],
-      "duration_ms": 151493,
-      "name": "North Side Gal",
-      "url": "https://open.spotify.com/track/5WLS5Fz6pW8AUwio6BGJJ2"
     },
     {
       "added_at": "2022-09-02 07:19:55",
@@ -363,22 +299,6 @@
     {
       "added_at": "2022-09-02 07:19:55",
       "album": {
-        "name": "The Sun Records Sound of Billy Lee Riley (20 Rockabilly Originals)",
-        "url": "https://open.spotify.com/album/12nGZsto8BTrIMNIEr4JRk"
-      },
-      "artists": [
-        {
-          "name": "Billy Lee Riley",
-          "url": "https://open.spotify.com/artist/0a85EJEd3a9RGM9ops09rZ"
-        }
-      ],
-      "duration_ms": 149584,
-      "name": "Red Hot",
-      "url": "https://open.spotify.com/track/31ajddT1F78QGsGLWonOaq"
-    },
-    {
-      "added_at": "2022-09-02 07:19:55",
-      "album": {
         "name": "Hot Rod Roadeo",
         "url": "https://open.spotify.com/album/3HMxOidYsEt6ayuiJALN0k"
       },
@@ -391,22 +311,6 @@
       "duration_ms": 188480,
       "name": "Welcome to My Hell",
       "url": "https://open.spotify.com/track/5UDbp5XoKm8UornXTFQk8D"
-    },
-    {
-      "added_at": "2022-09-02 07:19:55",
-      "album": {
-        "name": "The Dance Album",
-        "url": "https://open.spotify.com/album/2mDKmUu61YwkVAJfvD81HK"
-      },
-      "artists": [
-        {
-          "name": "Carl Perkins",
-          "url": "https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f"
-        }
-      ],
-      "duration_ms": 133009,
-      "name": "Everybody's Trying to Be My Baby",
-      "url": "https://open.spotify.com/track/75MzeS5tyJDX7a5ZytcqS8"
     },
     {
       "added_at": "2022-09-02 07:19:55",
@@ -443,18 +347,18 @@
     {
       "added_at": "2022-09-02 07:19:55",
       "album": {
-        "name": "In the Mood",
-        "url": "https://open.spotify.com/album/2sUh5PyADSSgduPJgCeYwu"
+        "name": "The Dance Album",
+        "url": "https://open.spotify.com/album/2mDKmUu61YwkVAJfvD81HK"
       },
       "artists": [
         {
-          "name": "The Playtones",
-          "url": "https://open.spotify.com/artist/4UThQDoYdZatw3BH5zZIne"
+          "name": "Carl Perkins",
+          "url": "https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f"
         }
       ],
-      "duration_ms": 175679,
-      "name": "Chevy 55",
-      "url": "https://open.spotify.com/track/79K5pAjftYuDRdxRksHddu"
+      "duration_ms": 133009,
+      "name": "Everybody's Trying to Be My Baby",
+      "url": "https://open.spotify.com/track/75MzeS5tyJDX7a5ZytcqS8"
     },
     {
       "added_at": "2022-09-02 07:19:55",
@@ -475,22 +379,6 @@
     {
       "added_at": "2022-09-02 07:19:55",
       "album": {
-        "name": "Help Me Out",
-        "url": "https://open.spotify.com/album/1OiLEuPXzmyiPDUZtAQZYc"
-      },
-      "artists": [
-        {
-          "name": "The Hotlips",
-          "url": "https://open.spotify.com/artist/1WNWaC0lAc3o5ODUvRfOo6"
-        }
-      ],
-      "duration_ms": 179338,
-      "name": "Help Me Out",
-      "url": "https://open.spotify.com/track/6qgKJxzgWqPyoHJaoDAnGE"
-    },
-    {
-      "added_at": "2022-09-02 07:19:55",
-      "album": {
         "name": "Straight from the Heart",
         "url": "https://open.spotify.com/album/2krRyJn2KAXcknNdDV6ask"
       },
@@ -503,6 +391,22 @@
       "duration_ms": 138615,
       "name": "You Belong to Me",
       "url": "https://open.spotify.com/track/1yZj1ACstOv0jRgFuKolxI"
+    },
+    {
+      "added_at": "2022-09-02 07:19:55",
+      "album": {
+        "name": "Help Me Out",
+        "url": "https://open.spotify.com/album/1OiLEuPXzmyiPDUZtAQZYc"
+      },
+      "artists": [
+        {
+          "name": "The Hotlips",
+          "url": "https://open.spotify.com/artist/1WNWaC0lAc3o5ODUvRfOo6"
+        }
+      ],
+      "duration_ms": 179338,
+      "name": "Help Me Out",
+      "url": "https://open.spotify.com/track/6qgKJxzgWqPyoHJaoDAnGE"
     },
     {
       "added_at": "2022-09-02 07:19:55",
@@ -791,22 +695,6 @@
     {
       "added_at": "2022-09-02 07:19:55",
       "album": {
-        "name": "From the Waist Down",
-        "url": "https://open.spotify.com/album/6PpVaRCUlMLnO5Evrp3rxj"
-      },
-      "artists": [
-        {
-          "name": "Jack Rabbit Slim",
-          "url": "https://open.spotify.com/artist/3nDZWi1wEZpaiEEa9jFLwI"
-        }
-      ],
-      "duration_ms": 121253,
-      "name": "Rock-a-Cha",
-      "url": "https://open.spotify.com/track/33G6G0xbQmKm9uQuBTW6sK"
-    },
-    {
-      "added_at": "2022-09-02 07:19:55",
-      "album": {
         "name": "Rockabilly Portrait",
         "url": "https://open.spotify.com/album/0O2LfyOYGw2sbFYt26NMse"
       },
@@ -823,70 +711,18 @@
     {
       "added_at": "2022-09-02 07:19:55",
       "album": {
-        "name": "Stockholm Blue",
-        "url": "https://open.spotify.com/album/7xFg94LOru7QaN5couhbh1"
+        "name": "From the Waist Down",
+        "url": "https://open.spotify.com/album/6PpVaRCUlMLnO5Evrp3rxj"
       },
       "artists": [
         {
-          "name": "Lee Ericson",
-          "url": "https://open.spotify.com/artist/4i9dZAd8B1gXWY8iyPdgnY"
-        },
-        {
-          "name": "The Kingbees",
-          "url": "https://open.spotify.com/artist/4cu77OuihTaUDYozqa2u9G"
+          "name": "Jack Rabbit Slim",
+          "url": "https://open.spotify.com/artist/3nDZWi1wEZpaiEEa9jFLwI"
         }
       ],
-      "duration_ms": 210186,
-      "name": "Northern Girl",
-      "url": "https://open.spotify.com/track/3ddovtNdDK3nrseLGpI4hV"
-    },
-    {
-      "added_at": "2022-09-02 07:19:55",
-      "album": {
-        "name": "Pure Rockabilly Party",
-        "url": "https://open.spotify.com/album/27bRg3xAYrn3TnGrNSB5GY"
-      },
-      "artists": [
-        {
-          "name": "Tupelo Highshots",
-          "url": "https://open.spotify.com/artist/4EEszmAzpx5YvyJZhpTH1D"
-        }
-      ],
-      "duration_ms": 167132,
-      "name": "Little Ol\u00b4 You",
-      "url": "https://open.spotify.com/track/1zphxbVR8JcBLx9uufxd5F"
-    },
-    {
-      "added_at": "2022-09-02 07:19:55",
-      "album": {
-        "name": "Come on Little Mama / Where'd You Stay Last Night",
-        "url": "https://open.spotify.com/album/0jRvfTjOFuHrNJrVUT8BZY"
-      },
-      "artists": [
-        {
-          "name": "Ray Harris",
-          "url": "https://open.spotify.com/artist/0luI6OOG3mYAFQj4BC1hR8"
-        }
-      ],
-      "duration_ms": 138813,
-      "name": "Come on Little Mama",
-      "url": "https://open.spotify.com/track/11OqzAcT8jMaNZAt6kdpvR"
-    },
-    {
-      "added_at": "2022-09-02 07:19:55",
-      "album": {
-        "name": "Sun Collector Classics - Rockabilly",
-        "url": "https://open.spotify.com/album/0T8bNZn4Gy55Sz0PIeaMEv"
-      },
-      "artists": [
-        {
-          "name": "Orion",
-          "url": "https://open.spotify.com/artist/4k7v8UC7BAe31BeADfuAQU"
-        }
-      ],
-      "duration_ms": 163960,
-      "name": "Rockabilly Rebel",
-      "url": "https://open.spotify.com/track/0CKYAhx3EzIg19GUkXhJWA"
+      "duration_ms": 121253,
+      "name": "Rock-a-Cha",
+      "url": "https://open.spotify.com/track/33G6G0xbQmKm9uQuBTW6sK"
     },
     {
       "added_at": "2022-09-02 07:19:55",
@@ -907,22 +743,6 @@
     {
       "added_at": "2022-09-02 07:19:55",
       "album": {
-        "name": "Rockin' up a Storm",
-        "url": "https://open.spotify.com/album/6v48EoORm1AOXp1V7Z5KUS"
-      },
-      "artists": [
-        {
-          "name": "Snakebite",
-          "url": "https://open.spotify.com/artist/1CHz4uPXCOAXMmjWXzPcJj"
-        }
-      ],
-      "duration_ms": 183573,
-      "name": "Born to Rock",
-      "url": "https://open.spotify.com/track/499VJAdpojyV97QI6f0GSd"
-    },
-    {
-      "added_at": "2022-09-02 07:19:55",
-      "album": {
         "name": "Favourite Song",
         "url": "https://open.spotify.com/album/3jaVPMuVvrHGn5VoBCGGxT"
       },
@@ -935,22 +755,6 @@
       "duration_ms": 149053,
       "name": "Favourite Song",
       "url": "https://open.spotify.com/track/1R5aCMXj3rYVL1tAaKF9Ra"
-    },
-    {
-      "added_at": "2022-09-02 07:19:55",
-      "album": {
-        "name": "Hellbilly Boys",
-        "url": "https://open.spotify.com/album/45fO2ERwfGc69by0oxaVAi"
-      },
-      "artists": [
-        {
-          "name": "Hellbilly Boys",
-          "url": "https://open.spotify.com/artist/5bCy5EywKFmYnkKrYnOnL5"
-        }
-      ],
-      "duration_ms": 183373,
-      "name": "Honky Tonk Train",
-      "url": "https://open.spotify.com/track/5Hiig8bBkvu3OmtY2ozHCQ"
     },
     {
       "added_at": "2022-09-02 07:19:55",
@@ -971,6 +775,22 @@
     {
       "added_at": "2022-09-02 07:19:55",
       "album": {
+        "name": "Hellbilly Boys",
+        "url": "https://open.spotify.com/album/45fO2ERwfGc69by0oxaVAi"
+      },
+      "artists": [
+        {
+          "name": "Hellbilly Boys",
+          "url": "https://open.spotify.com/artist/5bCy5EywKFmYnkKrYnOnL5"
+        }
+      ],
+      "duration_ms": 183373,
+      "name": "Honky Tonk Train",
+      "url": "https://open.spotify.com/track/5Hiig8bBkvu3OmtY2ozHCQ"
+    },
+    {
+      "added_at": "2022-09-02 07:19:55",
+      "album": {
         "name": "Stray Cats",
         "url": "https://open.spotify.com/album/1EKPvDwIw66YEBF2TjOQn8"
       },
@@ -983,6 +803,190 @@
       "duration_ms": 181493,
       "name": "Wild Saxophone",
       "url": "https://open.spotify.com/track/31K9keedgi9MaFaLRkvJJU"
+    },
+    {
+      "added_at": "2022-09-02 07:19:55",
+      "album": {
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/1tTTDe47X0rTO4q7RidIan"
+      },
+      "artists": [
+        {
+          "name": "Buddy Holly",
+          "url": "https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D"
+        },
+        {
+          "name": "The Crickets",
+          "url": "https://open.spotify.com/artist/4r7JUeiYy24L7BuzCq9EjR"
+        }
+      ],
+      "duration_ms": 135066,
+      "name": "That'll Be The Day",
+      "url": "https://open.spotify.com/track/69F1iyhE7ef4iRCaeCzjeT"
+    },
+    {
+      "added_at": "2022-09-02 07:19:55",
+      "album": {
+        "name": "Our Brand",
+        "url": "https://open.spotify.com/album/2x4X3CEv2XmPvNBVd309pz"
+      },
+      "artists": [
+        {
+          "name": "Hillbilly Hellcats",
+          "url": "https://open.spotify.com/artist/11m1eWZOcuGHyNnE2m32SB"
+        }
+      ],
+      "duration_ms": 149293,
+      "name": "Rockabilly Rebel",
+      "url": "https://open.spotify.com/track/2x8crqLADWUdP27pFsF8JT"
+    },
+    {
+      "added_at": "2022-09-02 07:19:55",
+      "album": {
+        "name": "American Rumble, Vol. 1",
+        "url": "https://open.spotify.com/album/4l2lMwNC31nbwR1PRTuhrW"
+      },
+      "artists": [
+        {
+          "name": "Hillbilly Frankenstein",
+          "url": "https://open.spotify.com/artist/3yVkfbmGfkQDMRbktbZn74"
+        }
+      ],
+      "duration_ms": 207568,
+      "name": "Tempo Tantrum",
+      "url": "https://open.spotify.com/track/6iEk06fyAxeR7YKu2D2AV2"
+    },
+    {
+      "added_at": "2022-09-02 07:19:55",
+      "album": {
+        "name": "Lip Lickin' Lou",
+        "url": "https://open.spotify.com/album/2vJyPunjsJLeTCV2WNDcn5"
+      },
+      "artists": [
+        {
+          "name": "Wild Wax Combo",
+          "url": "https://open.spotify.com/artist/4q2TGE7vO4v3sOcJB8mJYb"
+        }
+      ],
+      "duration_ms": 125840,
+      "name": "Lip Lickin' Lou",
+      "url": "https://open.spotify.com/track/74hKkSJTY4Z6P6BRV1641u"
+    },
+    {
+      "added_at": "2022-09-02 07:19:55",
+      "album": {
+        "name": "In the Middle of the Night",
+        "url": "https://open.spotify.com/album/0mzGxSTlxqczktknG4hSVd"
+      },
+      "artists": [
+        {
+          "name": "Top Cats",
+          "url": "https://open.spotify.com/artist/6HUvBmbZkhq6uGfpRKZ1Zy"
+        }
+      ],
+      "duration_ms": 160286,
+      "name": "Oh Baby",
+      "url": "https://open.spotify.com/track/3IwbsIPJ9e7cv9FbNaCvGq"
+    },
+    {
+      "added_at": "2022-09-02 07:19:55",
+      "album": {
+        "name": "Hit Me Up",
+        "url": "https://open.spotify.com/album/0xxjwAc4TECLxvBF0V4tFJ"
+      },
+      "artists": [
+        {
+          "name": "Slapback Johnny",
+          "url": "https://open.spotify.com/artist/1uw7HoyUeWdL3k2gDuhWzE"
+        }
+      ],
+      "duration_ms": 159146,
+      "name": "Hit Me Up",
+      "url": "https://open.spotify.com/track/5KqiNRi6S6QCpBZNrctsB3"
+    },
+    {
+      "added_at": "2022-09-02 07:19:55",
+      "album": {
+        "name": "The Hollywood Cats",
+        "url": "https://open.spotify.com/album/1VdfOWvihZbRkJGy34NXkk"
+      },
+      "artists": [
+        {
+          "name": "Ray Campi",
+          "url": "https://open.spotify.com/artist/1dCuGaCG60TlWCLjFJ69N3"
+        }
+      ],
+      "duration_ms": 116426,
+      "name": "Rockabilly Music",
+      "url": "https://open.spotify.com/track/4xYBy6RwEKICh1uOF4btL1"
+    },
+    {
+      "added_at": "2022-09-02 07:19:55",
+      "album": {
+        "name": "Ooby Dooby / Go Go Go",
+        "url": "https://open.spotify.com/album/0XoMFggtttMeiJtnBjoijY"
+      },
+      "artists": [
+        {
+          "name": "Roy Orbison",
+          "url": "https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS"
+        },
+        {
+          "name": "The Teen Kings",
+          "url": "https://open.spotify.com/artist/6eZeDQei4hJnzUlGt4QATQ"
+        }
+      ],
+      "duration_ms": 126500,
+      "name": "Go Go Go",
+      "url": "https://open.spotify.com/track/6ZKzfBr8vejFODLh8w2wTV"
+    },
+    {
+      "added_at": "2022-09-02 07:19:55",
+      "album": {
+        "name": "Straight from the Heart",
+        "url": "https://open.spotify.com/album/2krRyJn2KAXcknNdDV6ask"
+      },
+      "artists": [
+        {
+          "name": "John Lindberg Trio",
+          "url": "https://open.spotify.com/artist/1WycSxPCDVrFmadezeD8sO"
+        }
+      ],
+      "duration_ms": 161508,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/7yCG9FU5CGdghkdX5xPYIw"
+    },
+    {
+      "added_at": "2022-09-02 07:19:55",
+      "album": {
+        "name": "Rockabilly Cats",
+        "url": "https://open.spotify.com/album/2FYlqHuVW1L4jnyU8eYJO2"
+      },
+      "artists": [
+        {
+          "name": "The Polecats",
+          "url": "https://open.spotify.com/artist/0ySLj2XiEOFtixInK1GAD4"
+        }
+      ],
+      "duration_ms": 152026,
+      "name": "Rockabilly Guy",
+      "url": "https://open.spotify.com/track/3vrRAugNjfi7UkW4Ktxxyl"
+    },
+    {
+      "added_at": "2022-09-02 07:19:55",
+      "album": {
+        "name": "I Need a Man / No Matter Who's to Blame",
+        "url": "https://open.spotify.com/album/0FNgqfF6DWJYYikq77x9MD"
+      },
+      "artists": [
+        {
+          "name": "Barbara Pittman",
+          "url": "https://open.spotify.com/artist/6YxcziBo2zwsKgwdgdkve2"
+        }
+      ],
+      "duration_ms": 172140,
+      "name": "I Need a Man",
+      "url": "https://open.spotify.com/track/55TGQizDZ60NgydRBPUws3"
     }
   ],
   "unique_name": "Rockabilly Mania",

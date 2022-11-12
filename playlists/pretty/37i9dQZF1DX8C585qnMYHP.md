@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 
 > The best new experimental music by independent artists and labels\. Updates every Wednesday\. Cover: Lucrecia Dalt Artwork: Thami Nabil
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,665 likes - 50 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,752 likes - 50 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 | 28 | [Flux](https://open.spotify.com/track/1FBZeHlILzJFN2YGKk0yPS) | [Eusebeia](https://open.spotify.com/artist/6Vya9cujyDikgMmgOo1DRD) | [Flux](https://open.spotify.com/album/47OhENaoLcx2paWK9GgzUR) | 1:41 |
 | 29 | [The Metallic Index](https://open.spotify.com/track/2VUQrmHV4Ewv9BdwOCOPcO) | [Fenella](https://open.spotify.com/artist/0IzOzLPM6viWFLxD2V8f9R), [Jane Weaver](https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL) | [The Metallic Index / Pulsion \(Nurse on Train\)](https://open.spotify.com/album/4GhYKLVsRVVfAGWyjtaHHv) | 1:34 |
 | 30 | [Trececerotres](https://open.spotify.com/track/2YIhvE2LGV58BDeINvSRbx) | [Daniela Lalita](https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds) | [Trececerotres](https://open.spotify.com/album/5ENBXjQ6oBDLq0AD6YfPTO) | 2:15 |
-| 31 | [Afterburn](https://open.spotify.com/track/3ZeOlJzcevGwxnnIGS2e4C) | [Mesh Kimono](https://open.spotify.com/artist/0JrIlMMd4MQAQXo59etjQh) | [After Dark 4](https://open.spotify.com/album/6x3gv3hXKXbJC1VCsn1o8M) | 3:28 |
-| 32 | [Ola De Luz](https://open.spotify.com/track/32sj28mo2pbqzDjW4ZvsuH) | [OKRAA](https://open.spotify.com/artist/1ZfxnR3DTdddhuKtkIGIKU) | [1994](https://open.spotify.com/album/1p75jJjxx7Eu2nlAlQEtGE) | 10:45 |
+| 31 | [Ola De Luz](https://open.spotify.com/track/32sj28mo2pbqzDjW4ZvsuH) | [OKRAA](https://open.spotify.com/artist/1ZfxnR3DTdddhuKtkIGIKU) | [1994](https://open.spotify.com/album/1p75jJjxx7Eu2nlAlQEtGE) | 10:45 |
+| 32 | [Afterburn](https://open.spotify.com/track/3ZeOlJzcevGwxnnIGS2e4C) | [Mesh Kimono](https://open.spotify.com/artist/0JrIlMMd4MQAQXo59etjQh) | [After Dark 4](https://open.spotify.com/album/6x3gv3hXKXbJC1VCsn1o8M) | 3:28 |
 | 33 | [Our Wretched Fantasy](https://open.spotify.com/track/5lstHySnldFN68oPjVdp4E) | [Rachika Nayar](https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ) | [Heaven Come Crashing](https://open.spotify.com/album/15hyxv55DQ8mUaqQVLlrBP) | 3:30 |
 | 34 | [deaf](https://open.spotify.com/track/0RFwd1ZWNSVT7LtAvenIVg) | [TAKA](https://open.spotify.com/artist/4EDsHhy34wYbBzKpOEXkYm) | [Theory](https://open.spotify.com/album/1lgHQEYjhVOnpY3ew0hhpy) | 3:58 |
 | 35 | [First Fall](https://open.spotify.com/track/6AN0JXPYfKBBt0448z4gIo) | [Surgeons Girl](https://open.spotify.com/artist/7CXSuH40c4n4hVbP1JDBFP) | [First Fall](https://open.spotify.com/album/7JBiWEAj1vO4zIY5q0WzF5) | 4:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 | 49 | [Endless Filament](https://open.spotify.com/track/2ST4AaDsvY9D15iZSJuMXj) | [Fia Fiell](https://open.spotify.com/artist/4C8lEDj85NWxS4MNCpyp9e) | [Endless Filament](https://open.spotify.com/album/1pgBqtipj2AI0o07ugj5rl) | 15:37 |
 | 50 | [Spopolatore](https://open.spotify.com/track/6m0hPtzLEFhZcZqAIHlqUI) | [Valerio Tricoli](https://open.spotify.com/artist/5pgG0WAfRftFGmj05N0LsD) | [Say Goodbye To The Wind](https://open.spotify.com/album/2S9IkYjEwf2vNfu7B9HEJJ) | 25:44 |
 
-Snapshot ID: `MTY2ODAwMTg4MCwwMDAwMDAwMDkzNTU4NzM3MzhiYzdiMGJmMWI5ZTc1YjQ2OGMzZGIx`
+Snapshot ID: `MTY2ODAwMTg4MCwwMDAwMDAwMGIxOWVjNDNjODIzMzc1M2M2NzgyMjAwNGIxYmE2ZjQ2`

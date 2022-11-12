@@ -4,7 +4,7 @@
 
 > ¡Estos son los hits de la electrónica en el 2022!
 
-243 songs - 12 hr 14 min - [published](https://open.spotify.com/playlist/5bWzq23TdSxzFHtcGB1qiD)
+244 songs - 12 hr 17 min - [published](https://open.spotify.com/playlist/5bWzq23TdSxzFHtcGB1qiD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,7 +181,8 @@
 | [Pressure](https://open.spotify.com/track/15w5T3xUU5hWsAJ07ibn5B) | [Emily Nash](https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup) | [Pressure](https://open.spotify.com/album/0PX69mVcjK2diUjMw6S3fW) | 3:48 | 2021-10-22 | 2022-08-10 |
 | [Pressure \(feat\. Tove Lo\)](https://open.spotify.com/track/4ga4WvRNhMsIL38pkBbnIN) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Pressure \(feat\. Tove Lo\)](https://open.spotify.com/album/5s55A56E4N7390TTEUzwKN) | 2:24 | 2021-10-22 | 2022-08-10 |
 | [Pump It Up](https://open.spotify.com/track/0GiwV6v3AgJfdu59tj719Y) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Pump It Up](https://open.spotify.com/album/3D8C4a5lYbpEu5bPQmOpJj) | 2:30 | 2021-10-22 | 2022-07-29 |
-| [Pump It Up](https://open.spotify.com/track/4tcPIwy0UvLYjhXLrMyx89) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Pump It Up](https://open.spotify.com/album/5Y7ArkpG6klUEQuhTvEEpM) | 2:30 | 2022-03-11 |  |
+| [Pump It Up](https://open.spotify.com/track/4TQbNIjJHci0ZxPJhdrm9I) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Pump It Up \(Black Caviar Remix\)](https://open.spotify.com/album/46qRJ74IcvW42IzNfegycb) | 2:30 | 2022-08-09 |  |
+| [Pump It Up](https://open.spotify.com/track/4tcPIwy0UvLYjhXLrMyx89) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Pump It Up](https://open.spotify.com/album/5Y7ArkpG6klUEQuhTvEEpM) | 2:30 | 2022-03-11 | 2022-11-12 |
 | [Rampampam](https://open.spotify.com/track/1esZgaqm0YKN87CIP3orJ3) | [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc) | [Rampampam](https://open.spotify.com/album/2T8Pt4GzZ0CgaFeEugC1Zj) | 3:20 | 2021-10-22 | 2022-03-12 |
 | [Rasputin](https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Rasputin](https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd) | 3:06 | 2021-10-22 |  |
 | [Rasputin](https://open.spotify.com/track/3WEBpPTZgLWMzzON2pRWgV) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [The Magic Of Boney M\. \(Special Remix Edition\)](https://open.spotify.com/album/6pk0hdvIssxawpMRznE4Zf) | 3:06 | 2022-08-09 | 2022-08-13 |

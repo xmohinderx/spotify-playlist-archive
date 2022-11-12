@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68H8ZujdnN7.md) - [plain]
 
 > Hair goals, spandex and epic guitar solos\. We got you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,847,112 likes - 106 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,847,788 likes - 106 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,11 +14,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68H8ZujdnN7.md) - [plain]
 | 4 | [Master of Puppets \(Remastered\)](https://open.spotify.com/track/54bm2e3tk8cliUz3VSdCPZ) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Master of Puppets \(Remastered Deluxe Box Set\)](https://open.spotify.com/album/7CGhx630DIjdJqaBDVKc5j) | 8:35 |
 | 5 | [Pour Some Sugar On Me \- Remastered 2017](https://open.spotify.com/track/0PdM2a6oIjqepoEfcJo0RO) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Hysteria \(Super Deluxe\)](https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE) | 4:27 |
 | 6 | [Dr\. Feelgood](https://open.spotify.com/track/47IUkJHzpwzTzbJjO4AcoF) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [The Dirt Soundtrack](https://open.spotify.com/album/1FeIa1My6QQ6oQjUYxI36O) | 4:51 |
-| 7 | [You Give Love A Bad Name](https://open.spotify.com/track/0rmGAIH9LNJewFw7nKzZnc) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Slippery When Wet](https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t) | 3:42 |
-| 8 | [Still of the Night \- 2018 Remaster](https://open.spotify.com/track/40GS2O35HIqhOVCFZZTfFF) | [Whitesnake](https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP) | [Whitesnake \(2018 Remaster\)](https://open.spotify.com/album/5drgoLSnXSDIhNK4ms3P7I) | 6:37 |
+| 7 | [You Give Love A Bad Name](https://open.spotify.com/track/5QC1X913h7LoLTvRvJNE2t) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Rock Now](https://open.spotify.com/album/5waAiscV686fUIfuNBadny) | 3:43 |
+| 8 | [Still of the Night](https://open.spotify.com/track/70vHYpoQTYiaZEP5vwGzop) | [Whitesnake](https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP) | [I Remember You \- 80's Rock Memories](https://open.spotify.com/album/38f9XHzd0isyb3ebOPVFme) | 6:34 |
 | 9 | [Crazy Train \- 2002 Version](https://open.spotify.com/track/09nx3UW8Mufo0Nq0iTKt5x) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [The Osbourne Family Album \(Clean Version\)](https://open.spotify.com/album/24nhPPOmRDre6oBvhKKRQA) | 4:49 |
 | 10 | [Seventeen](https://open.spotify.com/track/2ZS0wDcdfrJPC86u5aJGo9) | [Winger](https://open.spotify.com/artist/2qQeKHrQJHLLbvDAOSO874) | [Winger](https://open.spotify.com/album/4aMtQDeDMAHBfh7cE87PWo) | 4:05 |
-| 11 | [Nobody's Fool](https://open.spotify.com/track/01Q4wU19hamqnhNjtuvTyI) | [Cinderella](https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx) | [Night Songs](https://open.spotify.com/album/6Af1uU7Di8q9oHyXpgvrmY) | 4:47 |
+| 11 | [Nobody's Fool](https://open.spotify.com/track/0i2UFCx1xsZq16F4uH8ngK) | [Cinderella](https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx) | [80's Rock Power Ballads](https://open.spotify.com/album/3hx4DBiw6CIvIIonZzQ1gp) | 4:47 |
 | 12 | [Welcome To The Jungle](https://open.spotify.com/track/0G21yYKMZoHa30cYVi1iA8) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction](https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW) | 4:33 |
 | 13 | [Separate Ways \(Worlds Apart\)](https://open.spotify.com/track/4ECNtOnqzxutZkXP4TE3n3) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Frontiers](https://open.spotify.com/album/2EFUNYmwxe0AOGxBORrfaw) | 5:23 |
 | 14 | [Panama \- 2015 Remaster](https://open.spotify.com/track/05RgAMGypEvqhNs5hPCbMS) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [1984 \(Remastered\)](https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0) | 3:30 |
@@ -30,15 +30,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68H8ZujdnN7.md) - [plain]
 | 20 | [Home Sweet Home](https://open.spotify.com/track/6oqciB7aigdSACETzIysLr) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [The Dirt Soundtrack](https://open.spotify.com/album/1FeIa1My6QQ6oQjUYxI36O) | 4:00 |
 | 21 | [No One Like You](https://open.spotify.com/track/26fZwf1ImE4aUJ4XaqOkUg) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Blackout](https://open.spotify.com/album/6x75r5C54z1quun86Bbqbr) | 3:57 |
 | 22 | [Close My Eyes Forever](https://open.spotify.com/track/43thLwzSasUUZEYjYPeJh3) | [Lita Ford](https://open.spotify.com/artist/77tBvvyd6SD4Y9Um1xcbxP), [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Lita](https://open.spotify.com/album/5nfd1bXqze24U3EZXP1Qlk) | 4:43 |
-| 23 | [Mr\. Crowley](https://open.spotify.com/track/2ov8L95QD25TLpZAZPYWXL) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Blizzard Of Ozz \(40th Anniversary Expanded Edition\)](https://open.spotify.com/album/4qUMByJ3Pk94BFnCmGaUPS) | 5:02 |
+| 23 | [Mr\. Crowley](https://open.spotify.com/track/2L1xIpDkmNRGRh0G9YZ1k7) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [The Essential Ozzy Osbourne](https://open.spotify.com/album/6eyLkYlVShYcXYiAgKVnQt) | 5:03 |
 | 24 | [Every Rose Has Its Thorn \- Remastered 2003](https://open.spotify.com/track/43GS3mtezoIFiuIZCLLiDY) | [Poison](https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo) | [Open Up And Say...Ahh! \(20th Anniversary Edition\)](https://open.spotify.com/album/2AMWVB3FWknjcMeb6hMZnd) | 4:20 |
 | 25 | [Is This Love](https://open.spotify.com/track/6E23lNb3SR6u1w7j01eRnd) | [Whitesnake](https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP) | [Seven Wonders \- 80's Miracles](https://open.spotify.com/album/14dSwsL4YxMeEHvJogR3J0) | 4:44 |
 | 26 | [Lick It Up](https://open.spotify.com/track/3cXiUuiGpFmZ8OdAWKk8Ck) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Lick It Up](https://open.spotify.com/album/0dD1SMOKBDV1qBadcovw30) | 3:56 |
 | 27 | [Once Bitten Twice Shy](https://open.spotify.com/track/7pkWZL0kA26s754CwyK0SH) | [Great White](https://open.spotify.com/artist/6ZPbX2Lxd40e2UVkXpyxvI) | [Twice Shy](https://open.spotify.com/album/0gPfgxBDkrtJgwIkziS8LI) | 5:22 |
-| 28 | [Wanted Dead Or Alive](https://open.spotify.com/track/0oerlffJSzhRVvtDfLcp3N) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Slippery When Wet](https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t) | 5:08 |
-| 29 | [Don't Know What You Got \(Till It's Gone\)](https://open.spotify.com/track/5QRs63VVKNaqUjg6XSSckM) | [Cinderella](https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx) | [Long Cold Winter](https://open.spotify.com/album/5EsAeGDozof1PIH3WPXLr2) | 5:54 |
+| 28 | [Wanted Dead Or Alive](https://open.spotify.com/track/1QN1IOcB00ZwdKMm5c162h) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Memorial Day 2022](https://open.spotify.com/album/21FQiQoxtmNaM9EaPgU3Ha) | 5:08 |
+| 29 | [Don't Know What You Got \(Till It's Gone\)](https://open.spotify.com/track/5QSQGLM2tBohXk6dZeKI0p) | [Cinderella](https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx) | [Rocked, Wired & Bluesed: The Greatest Hits](https://open.spotify.com/album/4s2dnIXJMUhZU7EdB6vTKF) | 5:54 |
 | 30 | [You're in Love](https://open.spotify.com/track/3D3lmTEhuWaunO1yxpYPD8) | [Ratt](https://open.spotify.com/artist/3tufWJzpCiAGleBt5TkmTn) | [Invasion of Your Privacy](https://open.spotify.com/album/7CzsLoFBEMElxviJoApcAI) | 3:14 |
-| 31 | [Girls, Girls, Girls](https://open.spotify.com/track/549Go7a66CX6k523uK9kUv) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Girls, Girls, Girls \(Deluxe Version\)](https://open.spotify.com/album/2KT9tWALjIRjnaGYDYPg3k) | 4:30 |
+| 31 | [Girls, Girls, Girls](https://open.spotify.com/track/3xdwo1GK8KaXiT36sTLira) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Greatest Hits](https://open.spotify.com/album/4y0me4JaTG2bjBy8Scz8ek) | 4:30 |
 | 32 | [Here I Go Again 87 \- 2018 Remaster](https://open.spotify.com/track/3axmcQ6SWoAVoXmIcje7JV) | [Whitesnake](https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP) | [Awesome Movie Mix](https://open.spotify.com/album/0ZsAVG1OGTDbXQXix4ntXX) | 4:35 |
 | 33 | [Livin' On A Prayer](https://open.spotify.com/track/0otwj1jVfc4vl7d7OSpgDt) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Rock Now](https://open.spotify.com/album/5waAiscV686fUIfuNBadny) | 4:10 |
 | 34 | [Sweet Child O' Mine](https://open.spotify.com/track/7snQQk1zcKl8gZ92AnueZW) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction](https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW) | 5:56 |
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68H8ZujdnN7.md) - [plain]
 | 105 | [Nothin' But A Good Time \- Remastered 2006](https://open.spotify.com/track/2V8KvnD5LVeeDChMWEkSzC) | [Poison](https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo) | [Open Up And Say...Ahh! \(20th Anniversary Edition\)](https://open.spotify.com/album/2AMWVB3FWknjcMeb6hMZnd) | 3:44 |
 | 106 | [Balls to the Wall](https://open.spotify.com/track/2dbOYFfS7r7NAzquRvji9A) | [Accept](https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv) | [Balls To The Wall](https://open.spotify.com/album/2twCPCDGJjVD90GWUjA8vN) | 5:42 |
 
-Snapshot ID: `MTY1NzAzNTAzOSwwMDAwMDAwMDY0NjZiYjUyYjc3OThkNzRjNDllZTVlNjY3MmI3MzMx`
+Snapshot ID: `MTY1NzAzNTAzOSwwMDAwMDAwMGZlNTM4NTNkNTVhOGI5OWFhZGZiYjUyODhiZjczYjQz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZzMQgXnSUD.md) - [plain]
 
 > "Bond..\. James Bond." Cover: <a href="spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH">Billie Eilish</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,594 likes - 28 songs - 1 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,654 likes - 28 songs - 1 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZzMQgXnSUD.md) - [plain]
 | 17 | [Goldfinger](https://open.spotify.com/track/7r0EUONfPUZ8SD1vu4ro27) | [Shirley Bassey](https://open.spotify.com/artist/090VebphoycdEyH165iMqc) | [Diamonds: The Best of Shirley Bassey](https://open.spotify.com/album/47CseYTjSFPkxo9SDFQoot) | 2:48 |
 | 18 | [The World Is Not Enough](https://open.spotify.com/track/0wnIPcs7V0XMwtcg0yjKpg) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Absolute Garbage](https://open.spotify.com/album/6nZQaZ0is5KhtuJeay9wxP) | 3:57 |
 | 19 | [For Your Eyes Only](https://open.spotify.com/track/4jRJWlkCn3pAwezfqFODU3) | [Sheena Easton](https://open.spotify.com/artist/5dcOK4stT4JDkP6Dqhbz5s) | [You Could Have Been With Me \[Bonus Tracks Version\]](https://open.spotify.com/album/4Enc1z5S8zcRxrVKcgnTyn) | 3:04 |
-| 20 | [Nisi Dominus \(Psalm 126\), R.608: 4\. "Cum dederit" \(Andante\)](https://open.spotify.com/track/0crY7pPfWKmVzMW03UWN0O) | [Antonio Vivaldi](https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR), [Andreas Scholl](https://open.spotify.com/artist/2LnE7uKchgVW2Uv7vzwixZ), [Australian Brandenburg Orchestra](https://open.spotify.com/artist/7bgFF4zaVhszPXXynAENpi), [Paul Dyer](https://open.spotify.com/artist/0RNKUNnZLg1MdRPC37YG3I) | [Vivaldi: Nisi Dominus; Concerto for Strings & Continuo in F etc.](https://open.spotify.com/album/1aax2xvWBA7z6DnhONGG8E) | 5:09 |
+| 20 | [Nisi Dominus \(Psalm 126\), R.608: 4\. "Cum dederit" \(Andante\)](https://open.spotify.com/track/6tkRWP0R9sSyocowLGXZPH) | [Antonio Vivaldi](https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR), [Andreas Scholl](https://open.spotify.com/artist/2LnE7uKchgVW2Uv7vzwixZ), [Australian Brandenburg Orchestra](https://open.spotify.com/artist/7bgFF4zaVhszPXXynAENpi), [Paul Dyer](https://open.spotify.com/artist/0RNKUNnZLg1MdRPC37YG3I) | [God Save The Queen: Music for Remembrance](https://open.spotify.com/album/6TuPl0MgjmapuaKF8RPmEP) | 5:08 |
 | 21 | [The Man With The Golden Gun \- Main Title](https://open.spotify.com/track/2wBWVKsv9VIbvlPdJtQbz7) | [Lulu](https://open.spotify.com/artist/2fP4hXUr0AbFmbO9IZsbcN) | [The Man With The Golden Gun \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/73keMsTiKlV4N852puufnJ) | 2:37 |
 | 22 | [A View to a Kill](https://open.spotify.com/track/6I4snLrVOrJsLdd43isc27) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Decade](https://open.spotify.com/album/4P6rgSkSEXFGrpTk9NZUAj) | 3:37 |
 | 23 | [All Time High \- From The "Octopussy" Soundtrack](https://open.spotify.com/track/0tc4WGABkHQKt8X5MgFI8O) | [Rita Coolidge](https://open.spotify.com/artist/1vnIL4DMlivP55ioM6KitW) | [Ted: Original Motion Picture Soundtrack](https://open.spotify.com/album/0vX2mA7TRjgm5Gk5M7AUhb) | 3:01 |
@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZzMQgXnSUD.md) - [plain]
 | 27 | [On Her Majesty's Secret Service \- Remastered](https://open.spotify.com/track/3M0zi8iD2KRzY71XcGFUpE) | [John Barry](https://open.spotify.com/artist/7ctAOUlIAs7yuMODWE2Fyz) | [On Her Majesty's Secret Service \(Expanded Edition\)](https://open.spotify.com/album/4BVd2gkQNWj30YN5P3r8Av) | 2:35 |
 | 28 | [Moonraker](https://open.spotify.com/track/0XCszZIzEncBpgAMkKoDB2) | [Shirley Bassey](https://open.spotify.com/artist/090VebphoycdEyH165iMqc) | [Bassey \- The EMI/UA Years 1959\-1979](https://open.spotify.com/album/5aoxGBTOftx2uzyWGRKtxL) | 3:09 |
 
-Snapshot ID: `MTY0OTk1OTkxNSwwMDAwMDAwMDFiODhkMDg3YjEzNDk1YmZiMmNkMDdkMDFkZDYzMDc1`
+Snapshot ID: `MTY0OTk1OTkxNSwwMDAwMDAwMDg0M2I2ZTMxYjA5NjdkYzAxYWY5ZjRkM2IwNjk1YjUx`

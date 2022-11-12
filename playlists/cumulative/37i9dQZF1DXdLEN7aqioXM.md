@@ -4,7 +4,7 @@
 
 > Equal parts nostalgic synthwave sounds and modern production.
 
-362 songs - 1 day 2 hr 5 min - [published](https://open.spotify.com/playlist/24oMtAVzB5ucnLKOOsTNft)
+364 songs - 1 day 2 hr 12 min - [published](https://open.spotify.com/playlist/24oMtAVzB5ucnLKOOsTNft)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,7 +188,7 @@
 | [Light Years](https://open.spotify.com/track/5E2MwDLWs222toDOFmO09j) | [Droid Bishop](https://open.spotify.com/artist/0HPVHsbV2yIYPp2Pk4kdHe) | [Retrowave](https://open.spotify.com/album/3zKj0Uhic2uNL84tPvmIXu) | 4:16 | 2021-10-15 | 2022-07-29 |
 | [Lights on the Headland](https://open.spotify.com/track/4QPSyDbZk0SiwP5Zkv6H2D) | [Roland Tings](https://open.spotify.com/artist/0hTV7lch0OcKcMn6RYgOLR) | [Lights on the Headland](https://open.spotify.com/album/1TPY9bbYtgwRfz4FYjRHr5) | 4:57 | 2022-04-01 | 2022-04-21 |
 | [Lightyears](https://open.spotify.com/track/02rds5Tq11O8DvnL5nVRU2) | [A.L.I.S.O.N](https://open.spotify.com/artist/3gi5McAv9c0qTjJ5jSmbL0) | [Lightyears](https://open.spotify.com/album/4oRu4hmwqqWRCqLAsnhET6) | 4:16 | 2021-10-15 | 2022-07-29 |
-| [Lightyears](https://open.spotify.com/track/4cTo2dxpf5bU1rVxmRSOeI) | [A.L.I.S.O.N](https://open.spotify.com/artist/3gi5McAv9c0qTjJ5jSmbL0) | [Éternité](https://open.spotify.com/album/0xEIod2xcXKcsYXRBIe78T) | 4:16 | 2022-07-22 |  |
+| [Lightyears](https://open.spotify.com/track/4cTo2dxpf5bU1rVxmRSOeI) | [A.L.I.S.O.N](https://open.spotify.com/artist/3gi5McAv9c0qTjJ5jSmbL0) | [Éternité](https://open.spotify.com/album/0xEIod2xcXKcsYXRBIe78T) | 4:16 | 2022-07-22 | 2022-11-12 |
 | [Looking For Tracy Tzu](https://open.spotify.com/track/2G0c5XvospcOSyA3t1W2X2) | [Carpenter Brut](https://open.spotify.com/artist/1l2oLiukA9i5jEtIyNWIEP) | [TRILOGY](https://open.spotify.com/album/0io5pe55YRCTVqEjwlOBdN) | 4:17 | 2022-07-22 |  |
 | [Looking for Tracy Tzu](https://open.spotify.com/track/49zgQWxmae5SESFN60Dh33) | [Carpenter Brut](https://open.spotify.com/artist/1l2oLiukA9i5jEtIyNWIEP) | [Trilogy](https://open.spotify.com/album/42KmZSl5Yq3sY5TciEjW2b) | 4:17 | 2021-10-15 | 2022-02-05 |
 | [Looking for Tracy Tzu](https://open.spotify.com/track/546WYUcLvrd9YifNgEaGsi) | [Carpenter Brut](https://open.spotify.com/artist/1l2oLiukA9i5jEtIyNWIEP) | [EP II](https://open.spotify.com/album/4qXB40wtbBbetffvic299O) | 4:17 | 2021-10-15 | 2022-07-29 |
@@ -245,7 +245,7 @@
 | [Out of Luck \- Instrumental](https://open.spotify.com/track/6SjnM6fA2ZEVlaQzK04Tll) | [TOKYO ROSE](https://open.spotify.com/artist/3kwoPkICT4iPkNjr6mL13N), [PYLOT](https://open.spotify.com/artist/3ZLe7OttXFn3JOPVZ9Vrr0), [Essenger](https://open.spotify.com/artist/3vc0JWD1Nj1VLrgJ1x3cjE) | [Out of Luck](https://open.spotify.com/album/6Ml0baIxoldVxxhRHILocv) | 3:01 | 2022-04-22 |  |
 | [Outlaw Star](https://open.spotify.com/track/4BVfCHuKVvcJqeZ71QrGft) | [Eagle Eyed Tiger](https://open.spotify.com/artist/3nqTFzjmi1LLM6pn0TRMv8) | [Apotheosis](https://open.spotify.com/album/19iJ7OOS9XjyhFP7fomH1h) | 2:47 | 2021-10-15 |  |
 | [Outlines](https://open.spotify.com/track/5WadbKBeWzWAICRVRkYMtJ) | [Forhill](https://open.spotify.com/artist/4qpWUfUAeI34HzvCORn1ze) | [Outlines](https://open.spotify.com/album/41KhQM76qYhJgvVzz64FsU) | 3:26 | 2021-10-15 |  |
-| [Outrun This!](https://open.spotify.com/track/02fSxVKwfRglhkXt03wVJg) | [Arcade High](https://open.spotify.com/artist/7fVPo8qWQK1quywHw9kMdI) | [Pixel Passion](https://open.spotify.com/album/3uDYSThuKWpeqb61ozIU3G) | 4:09 | 2022-07-22 |  |
+| [Outrun This!](https://open.spotify.com/track/02fSxVKwfRglhkXt03wVJg) | [Arcade High](https://open.spotify.com/artist/7fVPo8qWQK1quywHw9kMdI) | [Pixel Passion](https://open.spotify.com/album/3uDYSThuKWpeqb61ozIU3G) | 4:09 | 2022-07-22 | 2022-11-12 |
 | [Outrun This!](https://open.spotify.com/track/0VxIcxjv4XaJvq8dBR49iT) | [Arcade High](https://open.spotify.com/artist/7fVPo8qWQK1quywHw9kMdI) | [Pixel Passion](https://open.spotify.com/album/7wWAb4uAjdLRcdzN8IWtwy) | 4:09 | 2022-04-01 | 2022-07-29 |
 | [Pacific Coast Highway](https://open.spotify.com/track/5GDzL9A3IihC8zm00RlH6Q) | [Kavinsky](https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV) | [Nightcall](https://open.spotify.com/album/07nBld9enf1PyRysZAVSqJ) | 5:44 | 2022-02-25 | 2022-05-28 |
 | [Pale Demon](https://open.spotify.com/track/3zrVBHkBvu5888ilk5Az6J) | [Owl Vision](https://open.spotify.com/artist/5bC2AQ49NEL0cWpev4dgnw) | [Pale Demon](https://open.spotify.com/album/3i1JdzTQZjdxeqc0pdaDq6) | 3:36 | 2022-07-22 | 2022-10-01 |
@@ -274,6 +274,7 @@
 | [Remember When](https://open.spotify.com/track/55rIKGbcna1oD0v3BdIo4B) | [Mitch Murder](https://open.spotify.com/artist/7eOzCiTklgHxfpf6Mb3D2e) | [This is Now](https://open.spotify.com/album/41KnTJpTeX2kyJp5qTzVDt) | 6:06 | 2022-04-01 |  |
 | [Remoteness](https://open.spotify.com/track/5P2n0uDcFJdlWEXmT0JPgx) | [Donbor](https://open.spotify.com/artist/56mXBoiHYV9QEJxHS5TPk3) | [Remoteness](https://open.spotify.com/album/4e81Ii7x67nh2eqCkHPJZF) | 5:44 | 2022-04-01 | 2022-07-29 |
 | [Rivage](https://open.spotify.com/track/4HjiB1iZpyPmKkK9vdbfOX) | [Krosia](https://open.spotify.com/artist/3DMRmCWZFPz3IX8LUgoLVb) | [Rivage](https://open.spotify.com/album/59FX4d5jTvq06npU90Umbk) | 4:04 | 2021-10-15 |  |
+| [Run Away](https://open.spotify.com/track/4cMUbSP1Ihp3W3ngjQyHzn) | [BOP](https://open.spotify.com/artist/02ZCVD3nqfqNId8lvpvCBb), [Subwave](https://open.spotify.com/artist/19UDaks6aMVPdEp8qhO4T9), [Karina Ramage](https://open.spotify.com/artist/08lRbqt7evEbYvgUlbSgYb) | [Renaissance](https://open.spotify.com/album/0YsTLgX6gWgmJux1Sk97D8) | 3:17 | 2022-11-11 |  |
 | [Runaway](https://open.spotify.com/track/3lS99gJJAWuxKxQfXArvvx) | [LeBrock](https://open.spotify.com/artist/461TaZqofVfcQo2wtMwnQJ) | [Real Thing](https://open.spotify.com/album/4S3jQEdof1oA2ONsd8ROS0) | 3:52 | 2022-02-25 |  |
 | [Runaways](https://open.spotify.com/track/22XvOGl7eqbcQowbDIzYRk) | [The Outrunners](https://open.spotify.com/artist/5Fz12MRbf73whixgLPpSXd) | [Valerie and Friends](https://open.spotify.com/album/4mpzuBJYmwO7fzkMr43oT7) | 4:56 | 2022-04-01 | 2022-04-18 |
 | [Running Wild](https://open.spotify.com/track/5GW4OV86L01biK8qtOZBuq) | [Robert Parker](https://open.spotify.com/artist/0eEcbHGsAvOTCZzF5pg8GD) | [Awakening](https://open.spotify.com/album/76vQoFcrnFds9Kf0hJEfhQ) | 4:28 | 2021-10-15 | 2022-07-29 |
@@ -351,6 +352,7 @@
 | [Ultimo](https://open.spotify.com/track/0jtagVogty503eUAY7psju) | [Barretso](https://open.spotify.com/artist/0G0B56LpavF77LhE2IGtgB) | [Celeste](https://open.spotify.com/album/2AkabzuOF5cIiED2GcgCKp) | 5:24 | 2021-10-15 |  |
 | [Under Control](https://open.spotify.com/track/2E6G3HkQb3OuEz3JKHaXUK) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [Music Made Paradise](https://open.spotify.com/album/3SXL5zoZi1fvPCg1Ia6hRU) | 5:39 | 2022-02-04 | 2022-04-09 |
 | [Universalis](https://open.spotify.com/track/6atY0RDzRUDd4HFi7ttaDs) | [Peshay](https://open.spotify.com/artist/07ogfrunSUmnsEsPQdRQUB), [VSY](https://open.spotify.com/artist/7nUVCYVFeFP4gKdNEjhcoS) | [Universalis](https://open.spotify.com/album/1Jz4Pat434iCabuHTDRgba) | 8:52 | 2022-04-01 | 2022-04-20 |
+| [Vahiné](https://open.spotify.com/track/26v6llTYEHKniedyvmjizX) | [Zimmer](https://open.spotify.com/artist/2pts5B2shsEtIVC4onTFKb), [DeSaintex](https://open.spotify.com/artist/5FhIYONL4oxEAzj6qSqnUR) | [Amour](https://open.spotify.com/album/6CXuOOz7PsLFqEJ26tNEJ4) | 3:49 | 2022-11-11 |  |
 | [Victory \(Credits\)](https://open.spotify.com/track/617YOhywR7gXFM5ltHDzU7) | [Kalax](https://open.spotify.com/artist/2o88SjmtVVVyCmTGCuSPoY) | [Outlands](https://open.spotify.com/album/3d410CCpB6wVI4e7JHgZeH) | 4:47 | 2022-04-01 | 2022-07-27 |
 | [Visitors](https://open.spotify.com/track/3zT42LxWW5YUFEZDukGp5x) | [Idrissi](https://open.spotify.com/artist/5KYjLxvBWL3P087kSFs3QF) | [Visitors](https://open.spotify.com/album/3pkzUcBrWi0QwOIvmsYEP0) | 6:14 | 2021-10-15 | 2022-08-14 |
 | [Visualized](https://open.spotify.com/track/21cECJ68QdOpTX6UHoHWzF) | [Crossmods](https://open.spotify.com/artist/12SNMbSLDtKdDxnr3CTcQh) | [HIL003](https://open.spotify.com/album/7mQ5CwrqNVqxTV8xkdjY7O) | 6:02 | 2021-10-15 | 2022-03-17 |

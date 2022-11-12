@@ -1147,7 +1147,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 216267,
       "name": "Gongo Aso",
       "url": "https://open.spotify.com/track/2Vp5mnr5FoxYNGt06vINzl"
@@ -1612,6 +1612,24 @@
     },
     {
       "album": {
+        "name": "Best Of P-Square",
+        "url": "https://open.spotify.com/album/0uitWrCPJsDq51dOpelNcy"
+      },
+      "artists": [
+        {
+          "name": "P-Square",
+          "url": "https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk"
+        }
+      ],
+      "date_added": "2020-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270312,
+      "name": "No One Like you",
+      "url": "https://open.spotify.com/track/1a8VtknxUYMzMwt8SVZzcl"
+    },
+    {
+      "album": {
         "name": "Gameover (Deluxe)",
         "url": "https://open.spotify.com/album/6D9DjuzGIPpFrRSMlXxbD2"
       },
@@ -1623,7 +1641,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 268318,
       "name": "No One Like You - Deluxe",
       "url": "https://open.spotify.com/track/5l2sIiSjXzn6cOLZW1k3r4"
@@ -1865,6 +1883,24 @@
       "duration_ms": 192720,
       "name": "Personally",
       "url": "https://open.spotify.com/track/6v3t7pht6XNt5Wq7co40DM"
+    },
+    {
+      "album": {
+        "name": "Double Trouble",
+        "url": "https://open.spotify.com/album/35oKRrd7JKsTshaHR6366h"
+      },
+      "artists": [
+        {
+          "name": "P-Square",
+          "url": "https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk"
+        }
+      ],
+      "date_added": "2020-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192885,
+      "name": "Personally (Bonus)",
+      "url": "https://open.spotify.com/track/60HomIgR7yTVaEOBIptwHQ"
     },
     {
       "album": {

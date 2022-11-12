@@ -1,12 +1,12 @@
 {
   "description": "The tracks you can put on repeat all day. Cover: The Weeknd",
-  "num_followers": 172049,
+  "num_followers": 172221,
   "original_name": "R&B Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODEyNTk3MywwMDAwMDAwMDhlMjdhZTBmYWYxOTk2MzVhYWM5OGEzMGVhNmY4NzIy",
+  "snapshot_id": "MTY2ODEyNTk3MywwMDAwMDAwMGM3ZDFiYzBmMjkxYjI0ZTYyMWNhZjk0NmI4YWY2MzZj",
   "tracks": [
     {
       "added_at": "2022-11-11 00:19:33",
@@ -831,6 +831,26 @@
     {
       "added_at": "2022-11-11 00:19:33",
       "album": {
+        "name": "Peru",
+        "url": "https://open.spotify.com/album/72hpBprZjtHAgsRTIUKrKO"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 187111,
+      "name": "Peru",
+      "url": "https://open.spotify.com/track/3s1KwrLP0NlFWiWbjz6bfQ"
+    },
+    {
+      "added_at": "2022-11-11 00:19:33",
+      "album": {
         "name": "GREECE (feat. Drake)",
         "url": "https://open.spotify.com/album/3O6ywzP5LE5msmuBBTpaIN"
       },
@@ -931,26 +951,6 @@
     {
       "added_at": "2022-11-11 00:19:33",
       "album": {
-        "name": "Call Me Every Day (feat. Wizkid)",
-        "url": "https://open.spotify.com/album/6FKhBgElPu5RBHlarPE1aO"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 146840,
-      "name": "Call Me Every Day (feat. Wizkid)",
-      "url": "https://open.spotify.com/track/7vVs4XCsQyGn1Au3drvo9Z"
-    },
-    {
-      "added_at": "2022-11-11 00:19:33",
-      "album": {
         "name": "Nobody But You",
         "url": "https://open.spotify.com/album/0HaY1bBhaYUEXBOSva6Pf7"
       },
@@ -987,18 +987,22 @@
     {
       "added_at": "2022-11-11 00:19:33",
       "album": {
-        "name": "Love Me",
-        "url": "https://open.spotify.com/album/7hgekZLPc8OHgk8kAaPkel"
+        "name": "Call Me Every Day (feat. Wizkid)",
+        "url": "https://open.spotify.com/album/6FKhBgElPu5RBHlarPE1aO"
       },
       "artists": [
         {
-          "name": "RealestK",
-          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
-      "duration_ms": 207546,
-      "name": "Love Me",
-      "url": "https://open.spotify.com/track/4qgMPzf9QOETWQFUcFkHD4"
+      "duration_ms": 146840,
+      "name": "Call Me Every Day (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/7vVs4XCsQyGn1Au3drvo9Z"
     },
     {
       "added_at": "2022-11-11 00:19:33",
@@ -1019,22 +1023,18 @@
     {
       "added_at": "2022-11-11 00:19:33",
       "album": {
-        "name": "Certified Lover Boy",
-        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
+        "name": "Love Me",
+        "url": "https://open.spotify.com/album/7hgekZLPc8OHgk8kAaPkel"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+          "name": "RealestK",
+          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
         }
       ],
-      "duration_ms": 229303,
-      "name": "Get Along Better",
-      "url": "https://open.spotify.com/track/5ScbulRnixQ2XAdvrPMFjz"
+      "duration_ms": 207546,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/4qgMPzf9QOETWQFUcFkHD4"
     },
     {
       "added_at": "2022-11-11 00:19:33",
@@ -1059,6 +1059,26 @@
     {
       "added_at": "2022-11-11 00:19:33",
       "album": {
+        "name": "Certified Lover Boy",
+        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 229303,
+      "name": "Get Along Better",
+      "url": "https://open.spotify.com/track/5ScbulRnixQ2XAdvrPMFjz"
+    },
+    {
+      "added_at": "2022-11-11 00:19:33",
+      "album": {
         "name": "When It's All Said And Done... Take Time",
         "url": "https://open.spotify.com/album/1otOJAtgvO5VCBL4Gykrrd"
       },
@@ -1071,26 +1091,6 @@
       "duration_ms": 127807,
       "name": "All To Me",
       "url": "https://open.spotify.com/track/5JycxhApZmzbA4xSwvqh6k"
-    },
-    {
-      "added_at": "2022-11-11 00:19:33",
-      "album": {
-        "name": "Planet Her",
-        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        },
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 188893,
-      "name": "I Don't Do Drugs (feat. Ariana Grande)",
-      "url": "https://open.spotify.com/track/0FFsgUoFibYISzMxuGS61W"
     },
     {
       "added_at": "2022-11-11 00:19:33",
@@ -1119,6 +1119,26 @@
       "duration_ms": 202007,
       "name": "Hit Different",
       "url": "https://open.spotify.com/track/7Bar1kLTmsRmH6FCKKMEyU"
+    },
+    {
+      "added_at": "2022-11-11 00:19:33",
+      "album": {
+        "name": "Planet Her",
+        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 188893,
+      "name": "I Don't Do Drugs (feat. Ariana Grande)",
+      "url": "https://open.spotify.com/track/0FFsgUoFibYISzMxuGS61W"
     },
     {
       "added_at": "2022-11-11 00:19:33",
@@ -1187,26 +1207,6 @@
     {
       "added_at": "2022-11-11 00:19:33",
       "album": {
-        "name": "Playboy",
-        "url": "https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        },
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 187111,
-      "name": "Peru",
-      "url": "https://open.spotify.com/track/4vb777iaycnlFxVkJMmtfd"
-    },
-    {
-      "added_at": "2022-11-11 00:19:33",
-      "album": {
         "name": "Still Over It",
         "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
       },
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2022-11-11 00:19:33",
       "album": {
+        "name": "PARTYPACK",
+        "url": "https://open.spotify.com/album/3CPGfq4GT326ZiecqegH2t"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 174306,
+      "name": "PERSIAN RUGS",
+      "url": "https://open.spotify.com/track/02UJ1sCanP94fS2MdsWafh"
+    },
+    {
+      "added_at": "2022-11-11 00:19:33",
+      "album": {
         "name": "Intimidated",
         "url": "https://open.spotify.com/album/4BwfoXhDqTfiGS6pZueR9g"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 207840,
       "name": "Intimidated (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/0dFdGPVLs3k0z9ezYWZzUa"
-    },
-    {
-      "added_at": "2022-11-11 00:19:33",
-      "album": {
-        "name": "PARTYPACK",
-        "url": "https://open.spotify.com/album/3CPGfq4GT326ZiecqegH2t"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 174306,
-      "name": "PERSIAN RUGS",
-      "url": "https://open.spotify.com/track/02UJ1sCanP94fS2MdsWafh"
     },
     {
       "added_at": "2022-11-11 00:19:33",
@@ -1627,22 +1627,18 @@
     {
       "added_at": "2022-11-11 00:19:33",
       "album": {
-        "name": "B. D\u2019OR (feat. Wizkid)",
-        "url": "https://open.spotify.com/album/2Nwv16YY4xo8Jm4TVm54i9"
+        "name": "The Best Part of Life",
+        "url": "https://open.spotify.com/album/3TrtHC3Pq5wtbbiGspOxWq"
       },
       "artists": [
         {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+          "name": "SAINt JHN",
+          "url": "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ"
         }
       ],
-      "duration_ms": 189800,
-      "name": "B. D\u2019OR (feat. Wizkid)",
-      "url": "https://open.spotify.com/track/3ketN3dth18vSJ1T3HIztN"
+      "duration_ms": 196873,
+      "name": "The Best Part of Life",
+      "url": "https://open.spotify.com/track/0kUz4NuENHYVUChlthlNaB"
     },
     {
       "added_at": "2022-11-11 00:19:33",
@@ -1667,18 +1663,22 @@
     {
       "added_at": "2022-11-11 00:19:33",
       "album": {
-        "name": "The Best Part of Life",
-        "url": "https://open.spotify.com/album/3TrtHC3Pq5wtbbiGspOxWq"
+        "name": "B. D\u2019OR (feat. Wizkid)",
+        "url": "https://open.spotify.com/album/2Nwv16YY4xo8Jm4TVm54i9"
       },
       "artists": [
         {
-          "name": "SAINt JHN",
-          "url": "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ"
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
-      "duration_ms": 196873,
-      "name": "The Best Part of Life",
-      "url": "https://open.spotify.com/track/0kUz4NuENHYVUChlthlNaB"
+      "duration_ms": 189800,
+      "name": "B. D\u2019OR (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/3ketN3dth18vSJ1T3HIztN"
     },
     {
       "added_at": "2022-11-11 00:19:33",

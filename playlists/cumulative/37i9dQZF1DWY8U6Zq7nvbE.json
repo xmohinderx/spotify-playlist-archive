@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "abcdefu (acoustic)",
+        "url": "https://open.spotify.com/album/26nOjYS1K4m5R3kg7n7AXj"
+      },
+      "artists": [
+        {
+          "name": "Adam Christopher",
+          "url": "https://open.spotify.com/artist/22QkuOmdRnasuuVgUjhrVw"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168442,
+      "name": "abcdefu (acoustic) - Radio Edit",
+      "url": "https://open.spotify.com/track/1OTFP5JoD3Bwrg2nm0lZBH"
+    },
+    {
+      "album": {
         "name": "The Wave EP (Acoustic, Pt. 2)",
         "url": "https://open.spotify.com/album/1jN9d28anuaMCN1zwv1NPw"
       },
@@ -630,6 +648,24 @@
     },
     {
       "album": {
+        "name": "Better Now (Acoustic)",
+        "url": "https://open.spotify.com/album/2jnbvIEWopuhDSftIelDN0"
+      },
+      "artists": [
+        {
+          "name": "Kim & Otto",
+          "url": "https://open.spotify.com/artist/7HOR3sWFRsVgoyVhQtM5Td"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220070,
+      "name": "Better Now (Acoustic)",
+      "url": "https://open.spotify.com/track/7BSAXJ5iT5ERuzduIvX8Ol"
+    },
+    {
+      "album": {
         "name": "Bigger Picture",
         "url": "https://open.spotify.com/album/1gqDh348uLalOX9wL18pBH"
       },
@@ -844,6 +880,46 @@
     },
     {
       "album": {
+        "name": "Break My Heart (Piano Acoustic)",
+        "url": "https://open.spotify.com/album/22QRfaVmqwWc1HqzQW69XB"
+      },
+      "artists": [
+        {
+          "name": "JC Stewart",
+          "url": "https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218293,
+      "name": "Break My Heart - Piano Acoustic",
+      "url": "https://open.spotify.com/track/7e5HVLu9xSydLebKSqBebM"
+    },
+    {
+      "album": {
+        "name": "Breaking Me (Remixes)",
+        "url": "https://open.spotify.com/album/48PG4pmiNVsiWrn87l7XbT"
+      },
+      "artists": [
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        },
+        {
+          "name": "A7S",
+          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167704,
+      "name": "Breaking Me - Acoustic Version",
+      "url": "https://open.spotify.com/track/0mFWr2JK53ff1rIjle2PWm"
+    },
+    {
+      "album": {
         "name": "Bruises EP",
         "url": "https://open.spotify.com/album/3bAq5agU2IUDfDuO4w50aR"
       },
@@ -1007,7 +1083,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 208333,
       "name": "Colder Weather",
       "url": "https://open.spotify.com/track/5CAdiD4hnQ5EjzBX5GWEOG"
@@ -1145,6 +1221,24 @@
       "duration_ms": 247683,
       "name": "Dilemma",
       "url": "https://open.spotify.com/track/5MZYOtR8fcaZoWzweBNdMm"
+    },
+    {
+      "album": {
+        "name": "Don't Call Me Up (Acoustic)",
+        "url": "https://open.spotify.com/album/73I3HpG6A7oIL6hXaIC5Kr"
+      },
+      "artists": [
+        {
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212578,
+      "name": "Don't Call Me Up - Acoustic",
+      "url": "https://open.spotify.com/track/3a8gsld8gQzvfyLfPO1LP1"
     },
     {
       "album": {
@@ -1376,6 +1470,28 @@
     },
     {
       "album": {
+        "name": "Firestone (Live Acoustic Version)",
+        "url": "https://open.spotify.com/album/2LkJP9u5oUPaum7gBHBKJy"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Conrad Sewell",
+          "url": "https://open.spotify.com/artist/1rw8ZTLnDHd74TWDDukjVi"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226345,
+      "name": "Firestone - Live Acoustic Version",
+      "url": "https://open.spotify.com/track/4gek9UL5WceAq1qiZlhmGM"
+    },
+    {
+      "album": {
         "name": "Flow (Acoustic Version)",
         "url": "https://open.spotify.com/album/1xL0s1ffZ0frJXKwRsLR6M"
       },
@@ -1391,7 +1507,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 190999,
       "name": "Flow (Acoustic Version)",
       "url": "https://open.spotify.com/track/1nQG8NkT0mLo7iZscof0YS"
@@ -1596,6 +1712,28 @@
     },
     {
       "album": {
+        "name": "Glimpse of Us",
+        "url": "https://open.spotify.com/album/66yLm40MPtwijtTVfjIRv0"
+      },
+      "artists": [
+        {
+          "name": "Mother's Daughter",
+          "url": "https://open.spotify.com/artist/09AgPKJAS5Muco3pU4xh7k"
+        },
+        {
+          "name": "Beck Pete",
+          "url": "https://open.spotify.com/artist/5hhVBlzS6hGuC1BNWANyyj"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232003,
+      "name": "Glimpse of Us",
+      "url": "https://open.spotify.com/track/7rhqdS0YOoPXsA4vHXvMPG"
+    },
+    {
+      "album": {
         "name": "golden thing",
         "url": "https://open.spotify.com/album/33MiMpGm7MU2UBggBqBIUz"
       },
@@ -1647,10 +1785,32 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 193466,
       "name": "H.O.L.Y. - Acoustic",
       "url": "https://open.spotify.com/track/3wH9KuHeuYHNRF2Yt6z0cc"
+    },
+    {
+      "album": {
+        "name": "Habits (Stay High) [Acoustic]",
+        "url": "https://open.spotify.com/album/1cAXKf2868B8hajiiU0HYv"
+      },
+      "artists": [
+        {
+          "name": "Jonasu",
+          "url": "https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT"
+        },
+        {
+          "name": "Felix Samuel",
+          "url": "https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153379,
+      "name": "Habits (Stay High) - Acoustic",
+      "url": "https://open.spotify.com/track/51mEBRXAf292tpAVZ3HW8b"
     },
     {
       "album": {
@@ -1665,7 +1825,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 182502,
       "name": "Haloes - Acoustic",
       "url": "https://open.spotify.com/track/10OPvmzW6Hq3E8L7cHDJ5u"
@@ -1834,6 +1994,24 @@
     },
     {
       "album": {
+        "name": "I ain't worried",
+        "url": "https://open.spotify.com/album/6T7RkNIqWCqueJnBvzroza"
+      },
+      "artists": [
+        {
+          "name": "middle of june",
+          "url": "https://open.spotify.com/artist/3D9CUHd4Z9OaMGC5lLZWYm"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168095,
+      "name": "I ain't worried",
+      "url": "https://open.spotify.com/track/7vaoU0TQjXGzOchBjOKWCj"
+    },
+    {
+      "album": {
         "name": "I Can't Sleep (Acoustic Version)",
         "url": "https://open.spotify.com/album/5w0lLWWDP7hvVz3a2KuLgb"
       },
@@ -1925,6 +2103,24 @@
       "duration_ms": 253686,
       "name": "I Still Haven't Found Found What I'm Looking For",
       "url": "https://open.spotify.com/track/1gnOyb8vuF9bXz5eyjoBxh"
+    },
+    {
+      "album": {
+        "name": "lifeline sad pop",
+        "url": "https://open.spotify.com/album/522309wFWxwkT7FguIQqvG"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153093,
+      "name": "I'm a Mess - Acoustic",
+      "url": "https://open.spotify.com/track/0GU7mjplm8DvhlBPPyB3VP"
     },
     {
       "album": {
@@ -2101,7 +2297,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 249150,
       "name": "if you weren't you",
       "url": "https://open.spotify.com/track/3LLLJj3zqDi7A7Fci919xh"
@@ -2123,6 +2319,28 @@
       "duration_ms": 249150,
       "name": "if you weren't you",
       "url": "https://open.spotify.com/track/6cMOfQIy91nuaGjQeHVDUG"
+    },
+    {
+      "album": {
+        "name": "Is It Just Me?",
+        "url": "https://open.spotify.com/album/58yuPddTFKKIIzn1ZEhMHz"
+      },
+      "artists": [
+        {
+          "name": "Emily Burns",
+          "url": "https://open.spotify.com/artist/6Gi8ZaXGx8MK79HwzXpuVZ"
+        },
+        {
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213107,
+      "name": "Is It Just Me? (feat. JP Cooper) (Acoustic)",
+      "url": "https://open.spotify.com/track/2KJdJ2GPBhWBr0vugLCrOz"
     },
     {
       "album": {
@@ -2159,6 +2377,24 @@
       "duration_ms": 192545,
       "name": "It Aint me - Acoustic",
       "url": "https://open.spotify.com/track/18ZK9RiSZdZVTkzVFw0yin"
+    },
+    {
+      "album": {
+        "name": "Jealous (Acoustic)",
+        "url": "https://open.spotify.com/album/2ZF0az5U4LXBf9whGXDLVg"
+      },
+      "artists": [
+        {
+          "name": "Norah Davis",
+          "url": "https://open.spotify.com/artist/22BqfoPGcFnnj0ldab5D9G"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211639,
+      "name": "Jealous (Acoustic)",
+      "url": "https://open.spotify.com/track/24De0ebxOCeIgrkuPknUUX"
     },
     {
       "album": {
@@ -2216,6 +2452,24 @@
     },
     {
       "album": {
+        "name": "Just The Two Of Us - Acoustic",
+        "url": "https://open.spotify.com/album/4YL2SB1NKBwkBvMC1k01dz"
+      },
+      "artists": [
+        {
+          "name": "VDVM",
+          "url": "https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186008,
+      "name": "Just the Two of Us - Acoustic",
+      "url": "https://open.spotify.com/track/4PF2XC8shB2w4g66MaXyEH"
+    },
+    {
+      "album": {
         "name": "Keep It Simple (feat. Wilder Woods) [Acoustic]",
         "url": "https://open.spotify.com/album/25uDrMlNrw9SXufzkVl0jF"
       },
@@ -2239,6 +2493,28 @@
       "duration_ms": 156315,
       "name": "Keep It Simple (feat. Wilder Woods) - Acoustic",
       "url": "https://open.spotify.com/track/4utWb5IGy6JGSOYd1Ie7Lv"
+    },
+    {
+      "album": {
+        "name": "Keep You Mine (Acoustic)",
+        "url": "https://open.spotify.com/album/2VdpWk3vlznP9XCDpr3tmG"
+      },
+      "artists": [
+        {
+          "name": "NOTD",
+          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
+        },
+        {
+          "name": "shy martin",
+          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183435,
+      "name": "Keep You Mine - Acoustic",
+      "url": "https://open.spotify.com/track/0Rp4jmwBigtBymrPsMCt3G"
     },
     {
       "album": {
@@ -2570,6 +2846,24 @@
     },
     {
       "album": {
+        "name": "Mad Love (Acoustic)",
+        "url": "https://open.spotify.com/album/4W9fu5glvw78YxZ6ZQUbCr"
+      },
+      "artists": [
+        {
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173200,
+      "name": "Mad Love - Acoustic",
+      "url": "https://open.spotify.com/track/3wl6QxubZaEFHvp05XpcuF"
+    },
+    {
+      "album": {
         "name": "Stay Awake with Me (acoustic)",
         "url": "https://open.spotify.com/album/5WriBFJjPRzc9YyHgRKJeZ"
       },
@@ -2701,6 +2995,42 @@
       "duration_ms": 183337,
       "name": "Memories (Acoustic)",
       "url": "https://open.spotify.com/track/1m3Lsbhkn6yL8apzsCiukd"
+    },
+    {
+      "album": {
+        "name": "Illuminate (Deluxe)",
+        "url": "https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219160,
+      "name": "Mercy - Acoustic",
+      "url": "https://open.spotify.com/track/0uZnF1sn2IcNCvnyAIKNMQ"
+    },
+    {
+      "album": {
+        "name": "~how i'm feeling~ (the extras)",
+        "url": "https://open.spotify.com/album/1J2s2YBN58niYSzgkvCIM7"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252681,
+      "name": "Modern Loneliness - acoustic",
+      "url": "https://open.spotify.com/track/21OihIGdTCAL856FOjcs3j"
     },
     {
       "album": {
@@ -2987,7 +3317,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 212400,
       "name": "OK",
       "url": "https://open.spotify.com/track/2gBYjMXW65daBB1elr68JK"
@@ -3189,10 +3519,28 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 194996,
       "name": "Real Life - Acoustic",
       "url": "https://open.spotify.com/track/2ytXqUZv6ArPUjoGXOCJKU"
+    },
+    {
+      "album": {
+        "name": "Regardless (Acoustic)",
+        "url": "https://open.spotify.com/album/5xwu9Q6V0oPzTVQtQ06hiz"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224053,
+      "name": "Regardless - Acoustic",
+      "url": "https://open.spotify.com/track/055xQfsGKFSnFkeFGupmZ8"
     },
     {
       "album": {
@@ -3313,6 +3661,24 @@
       "duration_ms": 193800,
       "name": "Sad Tonight - Acoustic",
       "url": "https://open.spotify.com/track/1aXIgw5xYdFSZhoK1f6VbI"
+    },
+    {
+      "album": {
+        "name": "Salt (Acoustic)",
+        "url": "https://open.spotify.com/album/5ZL0WWIx2oG1qD1X6MU18j"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190270,
+      "name": "Salt - Acoustic",
+      "url": "https://open.spotify.com/track/47pt4eFPEqIh1DKxCHG37l"
     },
     {
       "album": {
@@ -3594,6 +3960,24 @@
     },
     {
       "album": {
+        "name": "Somebody (Acoustic)",
+        "url": "https://open.spotify.com/album/5yj17bTyrxIP9zpBc12WTh"
+      },
+      "artists": [
+        {
+          "name": "Dagny",
+          "url": "https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168758,
+      "name": "Somebody - Acoustic",
+      "url": "https://open.spotify.com/track/4uY3I4GYC1NfonzhQZuMax"
+    },
+    {
+      "album": {
         "name": "Somebody Loved",
         "url": "https://open.spotify.com/album/4T7n2myY9sAcGSJD2v0IAf"
       },
@@ -3605,7 +3989,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 153105,
       "name": "Somebody Loved",
       "url": "https://open.spotify.com/track/1wflx5YklLYToaIbXkrZSq"
@@ -3852,6 +4236,24 @@
     },
     {
       "album": {
+        "name": "THATS WHAT I WANT (Piano Acoustic)",
+        "url": "https://open.spotify.com/album/4uqUIxdqSwWRtnHGZBPcrj"
+      },
+      "artists": [
+        {
+          "name": "Sam Tsui",
+          "url": "https://open.spotify.com/artist/7lPWuLostTtlIShgm4wpf0"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176117,
+      "name": "THATS WHAT I WANT - Piano Acoustic",
+      "url": "https://open.spotify.com/track/4p95kpslEQ0PhjaeHPmqoD"
+    },
+    {
+      "album": {
         "name": "The Last Time (Acoustic)",
         "url": "https://open.spotify.com/album/5oTybq1gUqM2zS24spst7z"
       },
@@ -3917,7 +4319,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 159413,
       "name": "The Way That I Love You",
       "url": "https://open.spotify.com/track/6NEwGCi8Zz9QNX3soVCvnz"
@@ -4105,6 +4507,28 @@
       "duration_ms": 186660,
       "name": "Use Somebody - Acoustic Version",
       "url": "https://open.spotify.com/track/55KKAV2VnlggBrVS0J666s"
+    },
+    {
+      "album": {
+        "name": "Used To Love (Acoustic Version)",
+        "url": "https://open.spotify.com/album/21ysWUeoQEhTtNuPggWbQt"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211308,
+      "name": "Used To Love - Acoustic Version",
+      "url": "https://open.spotify.com/track/3diDPfrvqfnXcCIYzU11eP"
     },
     {
       "album": {
@@ -4393,7 +4817,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 129198,
       "name": "When the party's over - Acoustic Covers Versions of Popular Songs",
       "url": "https://open.spotify.com/track/3LANuGWHKj4Sm89q9SYu78"
@@ -4513,6 +4937,24 @@
       "duration_ms": 149702,
       "name": "Wicked Game",
       "url": "https://open.spotify.com/track/4WW5jLs5WXLE5YoRBoju0p"
+    },
+    {
+      "album": {
+        "name": "WITHOUT ME",
+        "url": "https://open.spotify.com/album/2aVLd13zIVKYBysTP5JTir"
+      },
+      "artists": [
+        {
+          "name": "Graham Carter",
+          "url": "https://open.spotify.com/artist/0A6NReVqiHGQlKWIpriTO3"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180998,
+      "name": "WITHOUT ME",
+      "url": "https://open.spotify.com/track/5K17WcyVoqa4lugxn5RcxP"
     },
     {
       "album": {

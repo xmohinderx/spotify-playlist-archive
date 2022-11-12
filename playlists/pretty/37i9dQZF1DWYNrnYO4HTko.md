@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNrnYO4HTko.md) - [plain]
 
 > Fresh takes \- from new revisions and iconic covers to unexpected versions and the <a href="https://artists.spotify.com/songwriter/2M9tzAw4sMHnOJ58l5uo82">songwriter's</a> own covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 259 likes - 92 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 261 likes - 92 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNrnYO4HTko.md) - [plain]
 | 27 | [The Dock of the Bay](https://open.spotify.com/track/1D8jvcCsh8sS1QQZohqVqz) | [Mandelbarth](https://open.spotify.com/artist/3zU1hJLF2O4pt5c3if4lQF), [ManuMatei](https://open.spotify.com/artist/1jDeFVnrDcm1O6W7sragOI) | [The Dock of the Bay](https://open.spotify.com/album/38KpJU5EpO0x95aGL5C7vZ) | 2:26 |
 | 28 | [Respect](https://open.spotify.com/track/0XJFtBkc2gqLvCDQX36XLm) | [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5) | [RESPECT \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1EzytFSc1iJY6DjHR6fUMm) | 3:42 |
 | 29 | [R.E.S.P.E.C.T.](https://open.spotify.com/track/1hLPD7lmbQEt3lSKN1aZSu) | [The Blues Brothers](https://open.spotify.com/artist/1cHFz6lrt7KAsBV8j2Ny1g), [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Blues Brothers 2000](https://open.spotify.com/album/6xj8KDSoPvZCquyIHWo0PJ) | 3:00 |
-| 30 | [Respect](https://open.spotify.com/track/5yG5YYbEgo5chhONO4k7tR) | [Adeva](https://open.spotify.com/artist/3zSxZFUKZEYmEpHkwZKXzQ) | [Adeva](https://open.spotify.com/album/51QEoKO6qXijBqpPJRNcNU) | 4:00 |
+| 30 | [Respect](https://open.spotify.com/track/1RFYqPdx8PfrwXyohSrG2Z) | [Adeva](https://open.spotify.com/artist/3zSxZFUKZEYmEpHkwZKXzQ) | [Ultimate Adeva](https://open.spotify.com/album/6q7MiJ7pgjjzVdIsggNoo3) | 4:00 |
 | 31 | [Hard To Handle](https://open.spotify.com/track/2o8JdqBkbcZl3MgbyUloHQ) | [The Commitments](https://open.spotify.com/artist/5kiBy7FO5L4ywMz1xF70PX) | [The Commitments](https://open.spotify.com/album/0oApAGRZuXmvwR0tUmJWLL) | 2:22 |
 | 32 | [Hard to Handle](https://open.spotify.com/track/3WkeHLynlGE1XyMs2EX8So) | [Tony Joe White](https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P) | [Tony Joe](https://open.spotify.com/album/3HpWoDuGoMhSFjF9LXh3wX) | 2:53 |
 | 33 | [Hard to Handle \- 2001 Remaster](https://open.spotify.com/track/34eaklDr2vqwS8L3LZvEB6) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [History of the Grateful Dead, Vol\. 1 \(Bear's Choice\)](https://open.spotify.com/album/5AShxlldX1DRSejBuyZmSG) | 6:15 |
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNrnYO4HTko.md) - [plain]
 | 88 | [Respect \(feat\. Wayne Henderson\)](https://open.spotify.com/track/5WefFRKDoyJJ8zVCfvtIhU) | [The Freedom Sounds Featuring Wayne Henderson](https://open.spotify.com/artist/0B8tMvNxl04bM3bhgYAl4b), [Wayne Henderson](https://open.spotify.com/artist/55PU5eP7Ndxn5T3TvBdXZ2) | [People Get Ready \(feat\. Wayne Henderson\)](https://open.spotify.com/album/4sZJQZA40YWfofsHINS1Gs) | 2:56 |
 | 89 | [Respect](https://open.spotify.com/track/5lOUxU6giZYMVkLZDGyih0) | [Rotary Connection](https://open.spotify.com/artist/3dGTi4MZZo4zXdQaKAS1va) | [Songs](https://open.spotify.com/album/1CVOf9xngqh7U7FvOs0OSr) | 3:05 |
 | 90 | [Respect](https://open.spotify.com/track/60pb3dBec5kUtpNKmTn7wX) | [Melanie Amaro](https://open.spotify.com/artist/5jWTiWBU6BfIEtcYwYA3nv) | [Respect](https://open.spotify.com/album/0IPlesdaTA40TLJN5pzKFX) | 2:43 |
-| 91 | [Sweet Soul Music](https://open.spotify.com/track/2YuIyYri67bgUXKQW5V9XW) | [Arthur Conley](https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB) | [Sweet Soul Music](https://open.spotify.com/album/2fZ5TzqZjIWEAP5T9ktlBC) | 2:21 |
+| 91 | [Sweet Soul Music](https://open.spotify.com/track/3GECIBplhAMkgQ2pzUfplS) | [Arthur Conley](https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB) | [100 Greatest Feel Good](https://open.spotify.com/album/5PHIHxs0Xiu66Ah511IRFw) | 2:21 |
 | 92 | [Where You Lead Me](https://open.spotify.com/track/7CQfHbaz8di8UFbayDCRCl) | [Arthur Conley](https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB) | [Sweet Soul Music](https://open.spotify.com/album/6K1TG5C0rzi1tfNEmUI4CY) | 2:29 |
 
-Snapshot ID: `MTYzMzA2MDgwMCwwMDAwMDAwMDdhYWIyMzExN2JhNjhiN2MzZDQzOThkNGU3NDU3MjVi`
+Snapshot ID: `MTYzMzA2MDgwMCwwMDAwMDAwMGVjMzgwMjIzNWM0MWMwMDA1OWYwMmNmMGMzZWU0MzEw`

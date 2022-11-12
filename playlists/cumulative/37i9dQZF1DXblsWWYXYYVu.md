@@ -4,7 +4,7 @@
 
 > Relax and take it slow today
 
-161 songs - 9 hr 5 min - [published](https://open.spotify.com/playlist/3p1V85d927eyG2kPYAHK5f)
+162 songs - 9 hr 8 min - [published](https://open.spotify.com/playlist/3p1V85d927eyG2kPYAHK5f)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,8 +121,9 @@
 | [Stand Like An Oak](https://open.spotify.com/track/77TcbXD97SC7XFkiwPf1AA) | [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci) | [Stand Like An Oak](https://open.spotify.com/album/5Jgrs4V3LjPJ5tSxt4FkPO) | 3:01 | 2021-04-19 | 2022-09-30 |
 | [Stand Like An Oak](https://open.spotify.com/track/7m7D0k9Whqisn2eDyVrPNO) | [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci) | [Stand Like An Oak](https://open.spotify.com/album/2HcVT6N62n55L2TAMDgqid) | 3:01 | 2021-04-19 |  |
 | [Stay for a While](https://open.spotify.com/track/4Un0UIwMc6h7NYa4ZkjnCf) | [Peter Bradley Adams](https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V) | [A Face Like Mine](https://open.spotify.com/album/5swCwkecIl1ZafeyxJYbYk) | 4:04 | 2021-04-19 |  |
+| [Stupid Heart](https://open.spotify.com/track/2D7lpPTMZIiUjzdVbcfbiE) | [Kira Isabella](https://open.spotify.com/artist/67Dpp3kDh6tqv9TcIzOi38) | [Side A](https://open.spotify.com/album/34bb5VRuc8xCORxsIXSCyw) | 3:02 | 2021-04-19 |  |
 | [Stupid Heart](https://open.spotify.com/track/49LO8TA171dpEzwGZlBO91) | [Kira Isabella](https://open.spotify.com/artist/67Dpp3kDh6tqv9TcIzOi38) | [Sides](https://open.spotify.com/album/7JCQA4uw0BpFSlvO1PYgRE) | 3:02 | 2021-04-19 | 2022-07-29 |
-| [Stupid Heart](https://open.spotify.com/track/6flMnPKgGGP9YDM6CmlLBc) | [Kira Isabella](https://open.spotify.com/artist/67Dpp3kDh6tqv9TcIzOi38) | [Sides](https://open.spotify.com/album/5ZvsZpIUyeslcbkaICxJP5) | 3:02 | 2021-04-19 |  |
+| [Stupid Heart](https://open.spotify.com/track/6flMnPKgGGP9YDM6CmlLBc) | [Kira Isabella](https://open.spotify.com/artist/67Dpp3kDh6tqv9TcIzOi38) | [Sides](https://open.spotify.com/album/5ZvsZpIUyeslcbkaICxJP5) | 3:02 | 2021-04-19 | 2022-11-12 |
 | [Sweet Annie](https://open.spotify.com/track/2xPRYtkesQBl1he1BJNsxV) | [Roseanne Reid](https://open.spotify.com/artist/5ePOH20nPLAGlOCqSNMpYd), [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [Sweet Annie](https://open.spotify.com/album/1jkQi9IxBAoxAi2INKASyD) | 3:23 | 2021-04-19 | 2022-07-09 |
 | [Take Me In](https://open.spotify.com/track/3kO1Q0Wnru2byANBQArvLq) | [Emily Mae Winters](https://open.spotify.com/artist/32DWWN4wxy82xoUR4gLdsA) | [High Romance](https://open.spotify.com/album/6yPoKNXHpy6filsFCgrLSO) | 3:28 | 2021-04-19 | 2022-04-29 |
 | [Take The Chance](https://open.spotify.com/track/6noKDeExEd4bYp9qtSg6f5) | [Mo Pitney](https://open.spotify.com/artist/7r9M6ptJz7XnQp2RVFArb4) | [Behind This Guitar](https://open.spotify.com/album/4eu52uZltxOTS0ec73kDpu) | 3:37 | 2021-04-19 |  |

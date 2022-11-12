@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8An4lZhLWW.md) - [plain]
 
 > These songs from superhero movies and TV shows will take you up, up, and away!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,107 likes - 51 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,109 likes - 51 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8An4lZhLWW.md) - [plain]
 | 39 | [Task Force X](https://open.spotify.com/track/5cbLjpz9mPdlWzukPaxn6N) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Suicide Squad \(Original Motion Picture Score\)](https://open.spotify.com/album/54ELeWTUyq31j9N9rVo3BM) | 4:53 |
 | 40 | [Beautiful Lie](https://open.spotify.com/track/5Pe1X7rPkBnXc94mTLXt5O) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [Junkie XL](https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN) | [Batman v Superman: Dawn Of Justice \(Original Motion Picture Soundtrack\) \[Deluxe\]](https://open.spotify.com/album/408Zd9N7K8Z07GIQeyGDh7) | 3:47 |
 | 41 | [I Have the Power \(Closing Credits\)](https://open.spotify.com/track/3XYQX943oWviE5s7rx4tKy) | [Matthew Hussey](https://open.spotify.com/artist/6Lysm09zZS8y7uCxZai8Z3) | [Power of Grayskull: The Definitive History of He\-Man and the Masters of the Universe \(The Definitive Soundtrack\)](https://open.spotify.com/album/0RcJ8J0sMvPQ2kVcnYs4iK) | 4:10 |
-| 42 | [Flash \- Single Version](https://open.spotify.com/track/6tYYT8zNxkadSCujCdR6Ur) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Flash Gordon \(Deluxe Remastered Version\)](https://open.spotify.com/album/0JCLXuGXJ7lKKOD5mc1Ela) | 2:48 |
+| 42 | [Flash \- Remastered 2011](https://open.spotify.com/track/4Xxra8s5kUaLy7CMRkw7mn) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Greatest Hits](https://open.spotify.com/album/6a8nlV9V8kPUbTTCJNVSsh) | 2:47 |
 | 43 | [Hero \(feat\. Josey Scott\)](https://open.spotify.com/track/779ooI3rBd0CLqCiiJmtVo) | [Chad Kroeger](https://open.spotify.com/artist/7fJYw1vK9yWb8o51I8qHin), [Josey Scott](https://open.spotify.com/artist/5mNloTgSaf5qCyk48t9NSP) | [Hero \(feat\. Josey Scott\)](https://open.spotify.com/album/4JLTenJ9u07tFnk3On1ypa) | 3:20 |
 | 44 | [The Glory Days](https://open.spotify.com/track/59Djq0zGIu8HDZ8QXs2oiz) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [The Incredibles \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Gqln6CvkfVOlDq1ne1usV) | 3:32 |
 | 45 | [Escape \- From The "Coffy" Soundtrack](https://open.spotify.com/track/4QiC3Z8hibUBRh1JrGxTk6) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Coffy](https://open.spotify.com/album/6foq731YxdBce7fq3Qx3fA) | 2:18 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8An4lZhLWW.md) - [plain]
 | 50 | [Supergirl Theme](https://open.spotify.com/track/66B7UOtpZR4IXjYzycoYeS) | [Blake Neely](https://open.spotify.com/artist/4UOzqO0jZUrTiTunfBw4tp) | [The Music Of DC Comics: Vol\. 2](https://open.spotify.com/album/2AkLjCY0xB3LvvQoO7Fv4N) | 1:11 |
 | 51 | [Sunflower \- Spider\-Man: Into the Spider\-Verse](https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Spider\-Man: Into the Spider\-Verse \(Soundtrack From & Inspired by the Motion Picture\)](https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs) | 2:38 |
 
-Snapshot ID: `MTYyMDQyMTA0MywwMDAwMDAwMDJiOTk1NzE5YmNjZjMwMDg3MzM5ODYwYWYzMDMyNDQ4`
+Snapshot ID: `MTYyMDQyMTA0MywwMDAwMDAwMGE0ZjFmODhhZTQ1NzE2YTQ0NzNiZWQ5ODk2ZWQwMzIz`

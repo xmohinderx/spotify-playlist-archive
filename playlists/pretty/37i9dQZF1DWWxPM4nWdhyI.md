@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWxPM4nWdhyI.md) - [plain]
 
 > All his biggest hits, in one place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,267,557 likes - 61 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,268,250 likes - 61 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Shivers](https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:27 |
+| 1 | [Shivers](https://open.spotify.com/track/2vJw8oQzwDP9mHm2YCmVcj) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Sunday Feelgood](https://open.spotify.com/album/6Ko420zIBuOY8iMJMrKPns) | 3:27 |
 | 2 | [2step \(feat\. Lil Baby\)](https://open.spotify.com/track/2UN0lp72LAusrXi8LLVomt) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [2step \(feat\. Lil Baby\)](https://open.spotify.com/album/6NPPPC6DxPvukxZcYVOBif) | 2:43 |
 | 3 | [Bad Habits](https://open.spotify.com/track/2lKNANmq1EjeXcTyY01tGq) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Viral Pop Hits](https://open.spotify.com/album/2imr9PtgP6OJs5gLcUknqq) | 3:50 |
 | 4 | [Overpass Graffiti](https://open.spotify.com/track/4btFHqumCO31GksfuBLLv3) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:56 |
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWxPM4nWdhyI.md) - [plain]
 | 7 | [Thinking out Loud](https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Deluxe Edition\)](https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd) | 4:41 |
 | 8 | [I Don't Care \(with Justin Bieber\)](https://open.spotify.com/track/3HVWdVOQ0ZA45FuZGSfvns) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [I Don't Care \(with Justin Bieber\)](https://open.spotify.com/album/5Nux7ozBJ5KJ02QYWwrneR) | 3:39 |
 | 9 | [Beautiful People \(feat\. Khalid\)](https://open.spotify.com/track/4evmHXcjt3bTUHD1cvny97) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Beautiful People \(feat\. Khalid\)](https://open.spotify.com/album/3E12WU80fDMyu7GyIAx7wJ) | 3:17 |
-| 10 | [Peru](https://open.spotify.com/track/4vb777iaycnlFxVkJMmtfd) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Playboy](https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ) | 3:07 |
+| 10 | [Peru](https://open.spotify.com/track/3s1KwrLP0NlFWiWbjz6bfQ) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Peru](https://open.spotify.com/album/72hpBprZjtHAgsRTIUKrKO) | 3:07 |
 | 11 | [Visiting Hours](https://open.spotify.com/track/44V6EzbUSYgyfsNiP0FrlA) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Visiting Hours](https://open.spotify.com/album/3Pl0yCO51uGkr5tFlD6bWN) | 3:35 |
 | 12 | [Perfect](https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 4:23 |
 | 13 | [Sing](https://open.spotify.com/track/6K8qKeWo5MsFED7wCR6Kop) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Deluxe Edition\)](https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd) | 3:55 |
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWxPM4nWdhyI.md) - [plain]
 | 60 | [10,000 Tears \(feat\. Ed Sheeran\)](https://open.spotify.com/track/1jVAfsSceuAQx7zgY76qDA) | [Ghetts](https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Conflict Of Interest](https://open.spotify.com/album/4GJnb2XwVlS2HrVsBa9fI4) | 4:34 |
 | 61 | [Merry Christmas](https://open.spotify.com/track/3bH2Eu9A9ymI4UnGHRmoXg) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Merry Christmas](https://open.spotify.com/album/3pqY0b5nEKoWwSrrwMwqMK) | 3:28 |
 
-Snapshot ID: `MTY2MDMwODY5NCwwMDAwMDAwMDU5Nzk5M2Y3MzFlZDlkMzJjYzg3NTM3OTViMDY2YjNh`
+Snapshot ID: `MTY2MDMwODY5NCwwMDAwMDAwMGVhYTgwYTVkYzY1OTJhZjlmMDczNGRjYWMxYTIxNmUz`

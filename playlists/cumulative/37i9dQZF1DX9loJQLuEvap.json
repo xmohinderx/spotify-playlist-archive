@@ -379,7 +379,7 @@
       ],
       "date_added": "2021-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 161933,
       "name": "Diamonds Are Forever",
       "url": "https://open.spotify.com/track/3Tp3nTswQmMzmQRqZu4iM2"
@@ -437,6 +437,24 @@
       "duration_ms": 242013,
       "name": "drivers license",
       "url": "https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH"
+    },
+    {
+      "album": {
+        "name": "pov: he broke your heart",
+        "url": "https://open.spotify.com/album/7q1bOea4TSOQ31pSRLswZr"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242013,
+      "name": "drivers license",
+      "url": "https://open.spotify.com/track/6xB99ltI6FjcqhKWYd1FcB"
     },
     {
       "album": {
@@ -631,7 +649,7 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 239440,
       "name": "I Try",
       "url": "https://open.spotify.com/track/5TAf4lnZCZTLlZHNZMLFLi"
@@ -1063,7 +1081,7 @@
       ],
       "date_added": "2021-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 301973,
       "name": "Never, Never Gonna Give You Up",
       "url": "https://open.spotify.com/track/1YwM86VfyDhJv5obDMMjp5"
@@ -1207,7 +1225,7 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 171026,
       "name": "Rescue Me",
       "url": "https://open.spotify.com/track/1GY8zOFi8rC39xXnD0tKO8"
@@ -1297,7 +1315,7 @@
       ],
       "date_added": "2021-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 245786,
       "name": "She's In Love With The Boy",
       "url": "https://open.spotify.com/track/4EJvW4NHAk7TrIeX44jjXF"
@@ -1369,7 +1387,7 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 221293,
       "name": "Skyscraper",
       "url": "https://open.spotify.com/track/4B3RmT3cGvh8By3WY9pbIx"
@@ -1643,7 +1661,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 160373,
       "name": "What A Man",
       "url": "https://open.spotify.com/track/7dwJqwTXDtsrX1QLqb0o96"

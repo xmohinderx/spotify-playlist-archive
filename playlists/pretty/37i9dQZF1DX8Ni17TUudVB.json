@@ -1,15 +1,15 @@
 {
   "description": "En\u00e9rgicos beats para musicalizar tu rutina diaria de ejercicio.",
-  "num_followers": 131272,
+  "num_followers": 131325,
   "original_name": "Ejercicio Total",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTU4OTM4NywwMDAwMDAwMGQ4ZDhjYjY2NjRmMDdmZWEzYTc5OTUxMzhiNDkxODJh",
+  "snapshot_id": "MTY2NTU4OTM4NywwMDAwMDAwMDUzYzcyYjY5ODY0N2VmZGFhZDRhMTUyZmZkN2IwOTQ4",
   "tracks": [
     {
-      "added_at": "2022-11-11 01:44:11",
+      "added_at": "2022-11-12 05:27:58",
       "album": {
         "name": "Miss You",
         "url": "https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo"
@@ -1199,26 +1199,6 @@
     {
       "added_at": "2022-08-16 19:10:22",
       "album": {
-        "name": "Exotica (Deluxe)",
-        "url": "https://open.spotify.com/album/24SuLVhTS9iDvnH3fh0gms"
-      },
-      "artists": [
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        },
-        {
-          "name": "Sophie and the Giants",
-          "url": "https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF"
-        }
-      ],
-      "duration_ms": 185564,
-      "name": "In The Dark",
-      "url": "https://open.spotify.com/track/0k5RQGviUoEt78mfqI3wDV"
-    },
-    {
-      "added_at": "2022-08-16 19:10:22",
-      "album": {
         "name": "Lose Control (The Remixes, Pt. 2)",
         "url": "https://open.spotify.com/album/6DbsmA9K8WDhUgu3ZuLcBX"
       },
@@ -1827,6 +1807,30 @@
       "duration_ms": 180923,
       "name": "Cherry - Spotify Singles",
       "url": "https://open.spotify.com/track/7H5X2cvqCTJ8C8loGvMRDN"
+    },
+    {
+      "added_at": "2022-08-16 19:10:22",
+      "album": {
+        "name": "Bonzai Channel One",
+        "url": "https://open.spotify.com/album/3PJ1YbvqnVpAAOtygBRetu"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "Bassjackers",
+          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
+        },
+        {
+          "name": "Crossnaders",
+          "url": "https://open.spotify.com/artist/0SFycBapbIhuPacbhzDxI2"
+        }
+      ],
+      "duration_ms": 174949,
+      "name": "Bonzai Channel One",
+      "url": "https://open.spotify.com/track/07hm7hRuPbl0kG8hCuQoda"
     }
   ],
   "unique_name": "Ejercicio Total",

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2GKumqRIZ7g.md) - [plain]
 
 > Four to the floor with your disco queens and kings\. Cover: Sylvester
 
-[Spotify](https://open.spotify.com/user/spotify) - 729,263 likes - 50 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 729,545 likes - 50 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hot Stuff \- 12" Version](https://open.spotify.com/track/6a4is4Yr3BraUD0BBjN2Wn) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [PRIDE PARTY ROMA 2022](https://open.spotify.com/album/7N3FHXrOj6WJjJjn3ZQwj7) | 6:40 |
 | 2 | [Boogie Wonderland \(with The Emotions\) \- 12" Version](https://open.spotify.com/track/6Zlfef97wSpjcitqPXZWcj) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg), [The Emotions](https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr) | [The Essential Emotions \- The Columbia Years](https://open.spotify.com/album/7xUJI5qVdt8SymEI39kKEQ) | 8:15 |
 | 3 | [I Will Survive \- Rerecorded](https://open.spotify.com/track/2a1MrtxYybqFV1Ow8VJ1dW) | [Gloria Gaynor](https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5) | [I Will Survive \(Rerecorded\)](https://open.spotify.com/album/0EvxRMIJySiL1ges38c753) | 4:25 |
-| 4 | [Night Fever \- From "Saturday Night Fever" Soundtrack](https://open.spotify.com/track/0qemIQjSxcKyf42VPfZnfa) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [How Can You Mend A Broken Heart](https://open.spotify.com/album/4vAhQeeWkSjVn0p5GAaLBx) | 3:32 |
+| 4 | [Night Fever \- From "Saturday Night Fever" Soundtrack](https://open.spotify.com/track/2pt3z57ZtiDh6sF9ZDMhiQ) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Best of Disco Dance \- Classics](https://open.spotify.com/album/739cwYvfuR4EtHP6R4dZtn) | 3:32 |
 | 5 | [I'm Coming Out](https://open.spotify.com/track/3SnGymj6ijE2iuUfWxLo1q) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Diana](https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI) | 5:23 |
 | 6 | [Yes Sir, I Can Boogie](https://open.spotify.com/track/4ys1qHPC7W8nfsDthaQ5nK) | [Baccara](https://open.spotify.com/artist/4dn4KQgTE4P3jrwa3iIVzQ) | [Schlager Sommerhits](https://open.spotify.com/album/3c2II7k3MZUzkeqv8hX5YU) | 4:34 |
 | 7 | [Ring My Bell](https://open.spotify.com/track/7GK2KVYH8FrTC9zehmjVMd) | [Anita Ward](https://open.spotify.com/artist/3Dd6jD1AApgtNoU6SJWR7P) | [Ring My Bell](https://open.spotify.com/album/5G7Hry7SFLrdsvPu12EUyV) | 8:11 |
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2GKumqRIZ7g.md) - [plain]
 | 25 | [Best of My Love](https://open.spotify.com/track/6UjlpJhUqOQqv0hrb38IDI) | [The Emotions](https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr) | [The Best Of The Emotions: Best Of My Love](https://open.spotify.com/album/30OwtFBugzMGsAYhXzEBEP) | 3:39 |
 | 26 | [Smalltown Boy \- 2018 Remaster](https://open.spotify.com/track/6z8DWrb3w3YZEPimpVLYbZ) | [Bronski Beat](https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08) | [Smalltown Boy \(Remastered\)](https://open.spotify.com/album/46UuCEBuA9QGFO78wtCXyz) | 5:03 |
 | 27 | [Jump \(For My Love\)](https://open.spotify.com/track/3L9ClO1W5KmebIXTrlKShF) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [Break Out](https://open.spotify.com/album/0Kmw2yUjTfdaN1son7GTp5) | 4:27 |
-| 28 | [I'm Your Boogie Man](https://open.spotify.com/track/6mjlbRIgMTf2nqY0kq1rOJ) | [KC & The Sunshine Band](https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo) | [KC & the Sunshine Band, Pt\. 3..\. and More](https://open.spotify.com/album/1nxHfb1EerQyKdT1aLSXf6) | 4:02 |
+| 28 | [I'm Your Boogie Man](https://open.spotify.com/track/4LexQahTvO4VmBd8Zm51ow) | [KC & The Sunshine Band](https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo) | [Halloween Music](https://open.spotify.com/album/0tCJbfmjlzjLnVAottdtun) | 4:02 |
 | 29 | [Everybody Dance \- 12" Mix](https://open.spotify.com/track/0LqPXq2pKXnydc96PvTK3v) | [CHIC](https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV) | [Dance, Dance, Dance: The Best of Chic](https://open.spotify.com/album/0XRRSLnVrtXMI6cyVCacjd) | 8:27 |
 | 30 | [Stars On 45 \- Original Single Edit](https://open.spotify.com/track/59BkBWQitTPgS1inzGfyI5) | [Stars On 45](https://open.spotify.com/artist/4r8b3Hr0AMhzhAg75le0Gx) | [Stars On 45](https://open.spotify.com/album/01fV4K8TiFQTsAn7P8ipWr) | 4:46 |
 | 31 | [Lady Marmalade](https://open.spotify.com/track/3GGcwG519BTMdvMeFy7meT) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [Best Of Patti Labelle](https://open.spotify.com/album/2fgrmnOGJzwU79xlHe4Iub) | 3:55 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2GKumqRIZ7g.md) - [plain]
 | 47 | [Knights In White Satin \- Part 1](https://open.spotify.com/track/4n9WwRwD2WxBNWAukEtPlk) | [Giorgio Moroder](https://open.spotify.com/artist/6jU2Tt13MmXYk0ZBv1KmfO) | [Knights In White Satin](https://open.spotify.com/album/1L7szfPWc7Pspsv1DaCBvy) | 4:45 |
 | 48 | [I Am What I Am](https://open.spotify.com/track/4L9sdN5l6PvW3EZyP6sY7j) | [Gloria Gaynor](https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5) | [Gloria Gaynor '90 \(All New Versions\)](https://open.spotify.com/album/3mn5uMVqqN1WPA2Jwd8lfk) | 3:27 |
 | 49 | [Love Hangover \- 12" Version](https://open.spotify.com/track/60ahYtHTWGhrA8LAUZfbhW) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [BIGGEST DISCO HITS](https://open.spotify.com/album/5Gn7ArvK8JYZI4VAbmpv0a) | 7:54 |
-| 50 | [Pull Up To The Bumper](https://open.spotify.com/track/653Fi3bqMxQQQmjw72ur6G) | [Grace Jones](https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd) | [Nightclubbing](https://open.spotify.com/album/4RmUcjaKiuQIw3NGMrjBca) | 4:41 |
+| 50 | [Pull Up To The Bumper](https://open.spotify.com/track/5VpDYLvj2R2D69irsL5Mra) | [Grace Jones](https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd) | [Fill The Dance Floor](https://open.spotify.com/album/5gc6mLkEYKdwD58QlODJED) | 4:41 |
 
-Snapshot ID: `MTY1NDAzODAwNSwwMDAwMDAwMGExYWE0NjQzZDY2NzZiZjdjY2Q2ZGQ2ZDBkYTA3NWQ0`
+Snapshot ID: `MTY1NDAzODAwNSwwMDAwMDAwMGEyODkxYzNlMzhmOWNhNzNiZjk2YmYyY2RiZThlM2Zl`

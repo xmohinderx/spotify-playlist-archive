@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y2xcY13mN1.md) - [plain]
 
 > New and familiar folk in the Irish tradition\. Cover: Ye Vagabonds
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,474 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,520 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y2xcY13mN1.md) - [plain]
 | 45 | [The Star Of The County Down \- Live](https://open.spotify.com/track/3zW5lCW4GtuVseLG0Trm5z) | [Loreena McKennitt](https://open.spotify.com/artist/1JdeDdujDbS6ZeSlkXqx3a) | [Live At The Royal Albert Hall](https://open.spotify.com/album/2vGR4YxNndppEAoiuKA1gO) | 3:40 |
 | 46 | [The Galway Shawl](https://open.spotify.com/track/7k2sBfuyCLSUJbh54ZJc0x) | [Finbar Furey](https://open.spotify.com/artist/72qs8dHxUfn7lB9cYxQvIF) | [Don't Stop This Now](https://open.spotify.com/album/7rm9I9D4c2wtu9UXNDt7uu) | 4:30 |
 | 47 | [Down by the Sally Gardens](https://open.spotify.com/track/60OEb5MtEmmepJPUJtYvFW) | [Maura O'Connell](https://open.spotify.com/artist/2WkDGNlrAN48YIOi18jpEE) | [Transatlantic Sessions \- Series 2, Vol\. Three](https://open.spotify.com/album/2zviYEJfMBDVtoh9mz5SNq) | 3:45 |
-| 48 | [The Butcher Boy](https://open.spotify.com/track/1QLPlGwxxd1xoMLAtKSMGU) | [Tommy Makem](https://open.spotify.com/artist/3oehGAh6rLM6LFdzM7E7zM) | [Songs of Tommy Makem](https://open.spotify.com/album/7bOc9jb25IV1noFgJjgT5g) | 3:24 |
+| 48 | [The Butcher Boy](https://open.spotify.com/track/4zOopTD0zKIinqgTTbefVS) | [Tommy Makem](https://open.spotify.com/artist/3oehGAh6rLM6LFdzM7E7zM) | [Ultimate Irish Folk](https://open.spotify.com/album/1VVCwLrGiiU3S5t0rzX185) | 3:24 |
 | 49 | [The Town I Loved So Well](https://open.spotify.com/track/6HJ5tXU3bPGx0ONBeh9EYs) | [Phil Coulter](https://open.spotify.com/artist/3Hm9DJ7Xa8YgiCAa7MoSiP) | [Words & Music](https://open.spotify.com/album/5ZZJHQbMplpRvMgFF5HatY) | 6:25 |
 | 50 | [The Lass of Aughrim](https://open.spotify.com/track/2s1enAmUiPrslpVQcJpnLq) | [Lisa O'Neill](https://open.spotify.com/artist/3fZ2IQpHixtBtUtDo7MWpV) | [Heard A Long Gone Song](https://open.spotify.com/album/6hGCF6U1vanh8KJZgAq66m) | 2:11 |
 
-Snapshot ID: `MTY0NzAxNDA1MCwwMDAwMDAwMDk4NjNhMGU0MzRiOWQ0OWNkZjllMTg0ZDQ3Y2Q5YjY0`
+Snapshot ID: `MTY0NzAxNDA1MCwwMDAwMDAwMDE0NmM3ZmVkOWVlZTc0MjgxMjZlZDRiOTY5ZWM2ZDIz`

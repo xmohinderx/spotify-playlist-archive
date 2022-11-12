@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbdNhlZLjJXz.md) - [plain]
 
 > Soundtrack your 2022 resolutions with Mia Lind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,075 likes - 86 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,077 likes - 86 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbdNhlZLjJXz.md) - [plain]
 | 76 | [Shut Up And Drive](https://open.spotify.com/track/4Tn2llBm1g0UlWctmgPL8Z) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Good Girl Gone Bad: Reloaded](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) | 3:32 |
 | 77 | [Lights](https://open.spotify.com/track/11ozIUBoXAgRTVWelDn4pL) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [An Introduction To Ellie Goulding EP](https://open.spotify.com/album/2zRzPgu8WPe2uLtppHv5uD) | 4:04 |
 | 78 | [Cupid's Chokehold / Breakfast in America](https://open.spotify.com/track/2Lhdl74nwwVGOE2Gv35QuK) | [Gym Class Heroes](https://open.spotify.com/artist/4IJczjB0fJ04gs4uvP0Fli) | [The Papercut Chronicles](https://open.spotify.com/album/4Ug3M4a8wAEebndVIF65fX) | 4:03 |
-| 79 | [good 4 u](https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:58 |
+| 79 | [good 4 u](https://open.spotify.com/track/3QVeeC9M980WM0eLKkyQp6) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [Hits Rentrée 2021](https://open.spotify.com/album/58HtgHgFGdffOpr8lx9QVU) | 2:58 |
 | 80 | [Stronger](https://open.spotify.com/track/5QhBKPqsnX1uY9fZNaAtZg) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Oops!..\. I Did It Again](https://open.spotify.com/album/5PmgtkodFl2Om3hMXONDll) | 3:23 |
 | 81 | [Blow Your Mind \(Mwah\)](https://open.spotify.com/track/7kJlTKjNZVT26iwiDUVhRm) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Blow Your Mind \(Mwah\)](https://open.spotify.com/album/7fb7W4noziWjuzWsdr3DzT) | 2:58 |
 | 82 | [Beggin'](https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Chosen](https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw) | 3:31 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbdNhlZLjJXz.md) - [plain]
 | 85 | [My First Kiss \(feat\. Ke$ha\)](https://open.spotify.com/track/17tDv8WA8IhqE8qzuQn707) | [3OH!3](https://open.spotify.com/artist/0FWzNDaEu9jdgcYTbcOa4F), [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Streets Of Gold](https://open.spotify.com/album/1W9toxqtPfieKk6cft0f7R) | 3:12 |
 | 86 | [Con Calma](https://open.spotify.com/track/5w9c2J52mkdntKOmRLeM2m) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Snow](https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1) | [Con Calma](https://open.spotify.com/album/1otwHKoQ5KPaiekpYk4tWh) | 3:13 |
 
-Snapshot ID: `MTY0MjAwMDc1MiwwMDAwMDAwMDAzMzJlMTlmYmYwM2M1NzY5MWQ3NmU1MWEzNWZkZjIx`
+Snapshot ID: `MTY0MjAwMDc1MiwwMDAwMDAwMDhhMTc3NGFmZjc4MWVmNmEwYjlmMDc3MzFjZTA4NTU3`

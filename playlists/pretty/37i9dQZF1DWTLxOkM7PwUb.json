@@ -1,12 +1,12 @@
 {
   "description": "\u2764\ufe0f o \ud83d\udc94\n",
-  "num_followers": 198076,
+  "num_followers": 198143,
   "original_name": "Trap Luv",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzU5OTU2NywwMDAwMDAwMDAxNWU3OWRhNmI2NWNiZjI1OTg5OTI4MDBiMGJmOTNi",
+  "snapshot_id": "MTY2MzU5OTU2NywwMDAwMDAwMGY4NDY0NDcwYjJiMmNjYmUyY2U1NmI4MzcyM2Y1OGQ1",
   "tracks": [
     {
       "added_at": "2022-09-19 14:59:26",
@@ -1139,26 +1139,6 @@
     {
       "added_at": "2022-09-19 14:59:26",
       "album": {
-        "name": "Se Termin\u00f3 (feat. Kodigo)",
-        "url": "https://open.spotify.com/album/2gFUic8OPDGYxehK7JIddH"
-      },
-      "artists": [
-        {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
-        },
-        {
-          "name": "Kodigo",
-          "url": "https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS"
-        }
-      ],
-      "duration_ms": 202083,
-      "name": "Se Termin\u00f3 (feat. Kodigo)",
-      "url": "https://open.spotify.com/track/4dpNEp0XiI4dP2soHsxDkZ"
-    },
-    {
-      "added_at": "2022-09-19 14:59:26",
-      "album": {
         "name": "MORDIENDO EL BOZAL",
         "url": "https://open.spotify.com/album/7KRqDXbyy0b6EVhpydNQ5w"
       },
@@ -1179,6 +1159,26 @@
       "duration_ms": 197107,
       "name": "LA PRIMERA VEZ",
       "url": "https://open.spotify.com/track/4ycnpTN1gmqOfxkLfBNbWB"
+    },
+    {
+      "added_at": "2022-09-19 14:59:26",
+      "album": {
+        "name": "Se Termin\u00f3 (feat. Kodigo)",
+        "url": "https://open.spotify.com/album/2gFUic8OPDGYxehK7JIddH"
+      },
+      "artists": [
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        },
+        {
+          "name": "Kodigo",
+          "url": "https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS"
+        }
+      ],
+      "duration_ms": 202083,
+      "name": "Se Termin\u00f3 (feat. Kodigo)",
+      "url": "https://open.spotify.com/track/4dpNEp0XiI4dP2soHsxDkZ"
     },
     {
       "added_at": "2022-09-19 14:59:26",
@@ -1519,26 +1519,6 @@
     {
       "added_at": "2022-09-19 14:59:26",
       "album": {
-        "name": "L\u00e1grimas",
-        "url": "https://open.spotify.com/album/1WlgxOP7StNQO81E2sQi3d"
-      },
-      "artists": [
-        {
-          "name": "G Sony",
-          "url": "https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT"
-        },
-        {
-          "name": "OCTO",
-          "url": "https://open.spotify.com/artist/4qTVjRDcIgtpss2ahiRPuw"
-        }
-      ],
-      "duration_ms": 165332,
-      "name": "L\u00e1grimas",
-      "url": "https://open.spotify.com/track/46l60sC0TGspoUcoyzYwSP"
-    },
-    {
-      "added_at": "2022-09-19 14:59:26",
-      "album": {
         "name": "Si No Fue Asi",
         "url": "https://open.spotify.com/album/65q7oPWAcJxVRQzrBMveRd"
       },
@@ -1663,22 +1643,6 @@
     {
       "added_at": "2022-09-19 14:59:26",
       "album": {
-        "name": "C14TORCE III",
-        "url": "https://open.spotify.com/album/588LtwOHlhE4L4VulRdO7e"
-      },
-      "artists": [
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        }
-      ],
-      "duration_ms": 143680,
-      "name": "C14TORCE III",
-      "url": "https://open.spotify.com/track/5feYWe3hr9hZ7jEXfa2UcS"
-    },
-    {
-      "added_at": "2022-09-19 14:59:26",
-      "album": {
         "name": "Champagne",
         "url": "https://open.spotify.com/album/1hyojpXhtJZN8owpOxZVkx"
       },
@@ -1699,6 +1663,22 @@
       "duration_ms": 233691,
       "name": "Champagne",
       "url": "https://open.spotify.com/track/42aeewG3eWoiBVPHL4uIXs"
+    },
+    {
+      "added_at": "2022-09-19 14:59:26",
+      "album": {
+        "name": "C14TORCE III",
+        "url": "https://open.spotify.com/album/588LtwOHlhE4L4VulRdO7e"
+      },
+      "artists": [
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        }
+      ],
+      "duration_ms": 143680,
+      "name": "C14TORCE III",
+      "url": "https://open.spotify.com/track/5feYWe3hr9hZ7jEXfa2UcS"
     },
     {
       "added_at": "2022-09-19 14:59:26",
@@ -1823,6 +1803,30 @@
     {
       "added_at": "2022-09-19 14:59:26",
       "album": {
+        "name": "Calle 2 (Remix)",
+        "url": "https://open.spotify.com/album/1o0MhCJitsOdbXSifxCH07"
+      },
+      "artists": [
+        {
+          "name": "FMK",
+          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
+        },
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        },
+        {
+          "name": "Coscu",
+          "url": "https://open.spotify.com/artist/1zRCMyk3hHYkMScpzvIVQm"
+        }
+      ],
+      "duration_ms": 222080,
+      "name": "Calle 2 - Remix",
+      "url": "https://open.spotify.com/track/45qpVdZAbONKliwh1ZD8nK"
+    },
+    {
+      "added_at": "2022-09-19 14:59:26",
+      "album": {
         "name": "Pa Mi",
         "url": "https://open.spotify.com/album/5sP1lpFKLvJuO5egElrW9K"
       },
@@ -1879,46 +1883,22 @@
     {
       "added_at": "2022-09-19 14:59:26",
       "album": {
-        "name": "Andan Busc\u00e1ndome",
-        "url": "https://open.spotify.com/album/6nAAcUnvYG9bYUdJMuGYU0"
+        "name": "Debo Cambiar (feat. KHEA)",
+        "url": "https://open.spotify.com/album/2AYHyHVhyGGLwwpG54z4To"
       },
       "artists": [
         {
-          "name": "Jamby El Favo",
-          "url": "https://open.spotify.com/artist/128ftF9X7Kd7Di2fq3wYVs"
+          "name": "Asan",
+          "url": "https://open.spotify.com/artist/6Nl4VXcX86fBMO4YE6oYfN"
         },
         {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
         }
       ],
-      "duration_ms": 237106,
-      "name": "Andan Busc\u00e1ndome",
-      "url": "https://open.spotify.com/track/4T8QAlyvvAdDEcqoE9Ha4t"
-    },
-    {
-      "added_at": "2022-09-19 14:59:26",
-      "album": {
-        "name": "Calle 2 (Remix)",
-        "url": "https://open.spotify.com/album/1o0MhCJitsOdbXSifxCH07"
-      },
-      "artists": [
-        {
-          "name": "FMK",
-          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
-        },
-        {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
-        },
-        {
-          "name": "Coscu",
-          "url": "https://open.spotify.com/artist/1zRCMyk3hHYkMScpzvIVQm"
-        }
-      ],
-      "duration_ms": 222080,
-      "name": "Calle 2 - Remix",
-      "url": "https://open.spotify.com/track/45qpVdZAbONKliwh1ZD8nK"
+      "duration_ms": 172803,
+      "name": "Debo Cambiar (feat. KHEA)",
+      "url": "https://open.spotify.com/track/39sN5AQLHrhILYMn2VJh2q"
     },
     {
       "added_at": "2022-09-19 14:59:26",
@@ -1935,6 +1915,26 @@
       "duration_ms": 181500,
       "name": "CON OTRA",
       "url": "https://open.spotify.com/track/56iVwpd1JFBWxK3rk9P3K0"
+    },
+    {
+      "added_at": "2022-09-19 14:59:26",
+      "album": {
+        "name": "Andan Busc\u00e1ndome",
+        "url": "https://open.spotify.com/album/6nAAcUnvYG9bYUdJMuGYU0"
+      },
+      "artists": [
+        {
+          "name": "Jamby El Favo",
+          "url": "https://open.spotify.com/artist/128ftF9X7Kd7Di2fq3wYVs"
+        },
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 237106,
+      "name": "Andan Busc\u00e1ndome",
+      "url": "https://open.spotify.com/track/4T8QAlyvvAdDEcqoE9Ha4t"
     },
     {
       "added_at": "2022-09-19 14:59:26",
@@ -1987,26 +1987,6 @@
     {
       "added_at": "2022-09-19 14:59:26",
       "album": {
-        "name": "Debo Cambiar (feat. KHEA)",
-        "url": "https://open.spotify.com/album/2AYHyHVhyGGLwwpG54z4To"
-      },
-      "artists": [
-        {
-          "name": "Asan",
-          "url": "https://open.spotify.com/artist/6Nl4VXcX86fBMO4YE6oYfN"
-        },
-        {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-        }
-      ],
-      "duration_ms": 172803,
-      "name": "Debo Cambiar (feat. KHEA)",
-      "url": "https://open.spotify.com/track/39sN5AQLHrhILYMn2VJh2q"
-    },
-    {
-      "added_at": "2022-09-19 14:59:26",
-      "album": {
         "name": "Lo 100to",
         "url": "https://open.spotify.com/album/7L8uuFGSNjnHX5uwxWXHTM"
       },
@@ -2023,6 +2003,26 @@
       "duration_ms": 190000,
       "name": "Lo 100to",
       "url": "https://open.spotify.com/track/5K7DierHuSWyzmCzPNapd8"
+    },
+    {
+      "added_at": "2022-09-19 14:59:26",
+      "album": {
+        "name": "Aguacero",
+        "url": "https://open.spotify.com/album/7g8vsyjuRMKX8dGXdt8c65"
+      },
+      "artists": [
+        {
+          "name": "Irepelusa",
+          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+        },
+        {
+          "name": "Veztalone",
+          "url": "https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "Aguacero",
+      "url": "https://open.spotify.com/track/2QcHmqNOkYPiTxqvJRTCKa"
     }
   ],
   "unique_name": "Trap Luv",

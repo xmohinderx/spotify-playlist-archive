@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZFVMeJPr1Z.md) - [plain]
 
 > Spellistan för den svenska sommaren.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,273 likes - 65 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,271 likes - 65 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZFVMeJPr1Z.md) - [plain]
 | 3 | [Sommaren i City](https://open.spotify.com/track/1Y38A5HAP7SYJAzE48M3GW) | [Angel](https://open.spotify.com/artist/7FjElQ2FxgAbDGSrcE7K6O) | [Sommar, sommar, sommar](https://open.spotify.com/album/0l537xeeUQXZAkArjKmb2H) | 3:42 |
 | 4 | [Dina färger var blå](https://open.spotify.com/track/00IRhIiynu3eZjVaegnJ2h) | [Tommy Nilsson](https://open.spotify.com/artist/0PnNyzP7CgoDXZHr6cWOyq) | [Det bästa med Tommy Nilsson](https://open.spotify.com/album/3PeAWLOAjjqvNgkF06Z6vQ) | 5:02 |
 | 5 | [Juni, Juli, Augusti](https://open.spotify.com/track/0bdpJ3m3X7D1ZhjHuKgeJO) | [Gyllene Tider](https://open.spotify.com/artist/0FINyNBXqnTlRC4dvpSeSb) | [24 Hits! Soldans på din grammofon](https://open.spotify.com/album/2p9ApXzOZwrVG30FkDhRZE) | 3:52 |
-| 6 | [Sommaren är kort](https://open.spotify.com/track/2W7tzqjAPXG97RthXx6pNR) | [Tomas Ledin](https://open.spotify.com/artist/518rTAIFPwQjLUSi4Pdzzn) | [Gränslös \(Bonus Track Version\)](https://open.spotify.com/album/6Z2Q0V5dalO2v1geFWi4cp) | 3:03 |
+| 6 | [Sommaren är kort](https://open.spotify.com/track/4ksFdqDm1j5cm5k1Df6bby) | [Tomas Ledin](https://open.spotify.com/artist/518rTAIFPwQjLUSi4Pdzzn) | [Inte ett moln så långt ögat kan nå](https://open.spotify.com/album/4TYHmKdWl1rxyCyG8BTkqp) | 3:05 |
 | 7 | [Ett sista glas](https://open.spotify.com/track/1SZDQMXX1FrA97YY7Lt3Fj) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Hisingen och hem igen](https://open.spotify.com/album/3jBdOBQUdU4Z0GPBYahCWD) | 3:06 |
 | 8 | [Öppna landskap](https://open.spotify.com/track/1WVjxyTSZ5UiI6TlcHyUPh) | [Ulf Lundell](https://open.spotify.com/artist/5kFHS4mQd9W0r7qDp8ec9A) | [Öppna Landskap 7595](https://open.spotify.com/album/7aB0bPRv2elnc0Ou1whaty) | 4:38 |
 | 9 | [Oh, vilken härlig da'](https://open.spotify.com/track/7yO5lvKQa54WO0FxCvYNWz) | [Ted Gärdestad](https://open.spotify.com/artist/6zpub6jbY6CdrcqQsDq8P4) | [Melodifestivalen \- Vinnare och favoriter](https://open.spotify.com/album/7FeC5fIidHKzKLKitJPtKC) | 3:20 |
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZFVMeJPr1Z.md) - [plain]
 | 40 | [Vatten](https://open.spotify.com/track/7kabbbmDm1PFKOQyldIpI1) | [Robert Broberg](https://open.spotify.com/artist/05JNHlwtdHqPJ6wcW7Mil5) | [Robert Brobergs Älskade Original](https://open.spotify.com/album/1eK1vnRIbR5mDbzRDm1iTl) | 2:13 |
 | 41 | [Sverige](https://open.spotify.com/track/3LodQuubJHwPgkxp4BxHE7) | [kent](https://open.spotify.com/artist/4KXp3xtaz1wWXnu5u34eVX) | [Vapen & ammunition](https://open.spotify.com/album/2DGzTm2R2v3G0IjnxXtP3Y) | 2:59 |
 | 42 | [Dé é sommar](https://open.spotify.com/track/0EWaUpAQtTWET3E14ye6ZV) | [Ronny & Ragge](https://open.spotify.com/artist/5pyF7nerLdGc4ZV3U72tdQ) | [Let's Pök](https://open.spotify.com/album/01sSw0PRIr0K7QnJc6YxPz) | 3:57 |
-| 43 | [Himlen är oskyldigt blå](https://open.spotify.com/track/1vUZKzx8fNI8nwsWEMQVvm) | [Jessica Andersson](https://open.spotify.com/artist/0e52F3Q1maTGPgsEa1hDJM) | [Fame Factory Visor](https://open.spotify.com/album/4Os2gl6N0gVZPtLr0GRdAx) | 4:26 |
+| 43 | [Himlen är oskyldigt blå](https://open.spotify.com/track/2Y74b1FogVihFkAj7GcxQq) | [Jessica Andersson](https://open.spotify.com/artist/0e52F3Q1maTGPgsEa1hDJM) | [Äkta svensk sommar \(NEW\)](https://open.spotify.com/album/6baOhgm6DKni5Ge3kMPAPp) | 4:26 |
 | 44 | [Sommar inatt](https://open.spotify.com/track/7AsmqCBHE161REYUojU3dN) | [Lili & Susie](https://open.spotify.com/artist/3oXpnVT7kg367PfwhfwSvK) | [Lili & Susie](https://open.spotify.com/album/5sxNcSihFvmXRScWX2FmOw) | 4:31 |
 | 45 | [Små lätta moln \- Live](https://open.spotify.com/track/7HyuoUcCQy143mwDsAu9I5) | [Pugh Rogefeldt](https://open.spotify.com/artist/22Wo43V44RtrpJZsjeI9EA) | [Pughs Bästa](https://open.spotify.com/album/5pLDOTWvRIDoYyUkKC015L) | 3:11 |
 | 46 | [Fånga en sommar](https://open.spotify.com/track/1gLBFMZ6ZzkzbK2uyakyJS) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [Sommar](https://open.spotify.com/album/2xHseoQsyHKZfRdymKkiPk) | 3:35 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZFVMeJPr1Z.md) - [plain]
 | 64 | [Till Stockholms skärgård](https://open.spotify.com/track/7geUU2nienjTgFvUuobfAC) | [Lasse Berghagen](https://open.spotify.com/artist/7kdGjv0IIQJcU2bth1yoqY) | [På begäran](https://open.spotify.com/album/7rN7AM6a6mZ6PfZeC7asUZ) | 4:38 |
 | 65 | [Sommartid](https://open.spotify.com/track/0aKmin3xzPUYtiwCPSJomL) | [Maja Ivarsson](https://open.spotify.com/artist/7mZEi87Lf4Bxy4XQwIyOEK) | [Så mycket bättre \- säsong 3](https://open.spotify.com/album/1w9KVuHbmVhrtHBcPp6gnO) | 4:02 |
 
-Snapshot ID: `MTU5NTUzMDMwMiwwMDAwMDAwMDgxNWZmMWM4YzE5NWEyNWM0Mjg5MGEwMTI1YTEzZGNk`
+Snapshot ID: `MTU5NTUzMDMwMiwwMDAwMDAwMGRlOTdmZTNjNTJhNGQ1ODFkNjIwNWQ2NmNjZmVmYmUy`

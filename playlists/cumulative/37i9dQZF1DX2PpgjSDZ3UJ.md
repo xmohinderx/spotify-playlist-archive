@@ -4,7 +4,7 @@
 
 > Las mejores canciones de indie/alternativo durante el 2020\. En portada: Ela Minus
 
-112 songs - 6 hr 42 min - [published](https://open.spotify.com/playlist/2eQNmuCUeDCgnCnBRYeHXL)
+114 songs - 6 hr 51 min - [published](https://open.spotify.com/playlist/2eQNmuCUeDCgnCnBRYeHXL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,13 +53,15 @@
 | [hey girl](https://open.spotify.com/track/5x9r0HaFznxQ32J2JZFhub) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Wachito Rico](https://open.spotify.com/album/3PwdobIILbq5GSoptbJrK5) | 3:07 | 2020-12-01 |  |
 | [Hice Todo Mal](https://open.spotify.com/track/75vOAe2y7zhW6XCLU60FaW) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [Hice Todo Mal](https://open.spotify.com/album/3WkSvs5LcrBVpcCdDowpcb) | 3:14 | 2020-12-01 |  |
 | [Honestidad](https://open.spotify.com/track/0Yk4uzzC0v0CeJSaMXcin2) | [Lucia Tacchetti](https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ), [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [ELETÉ](https://open.spotify.com/album/5TPygbVZFHfeYLwBGYVLm7) | 3:45 | 2020-12-01 | 2022-07-29 |
-| [Honestidad](https://open.spotify.com/track/2TSGYYXqPLk1Xy6eTtlTmG) | [Lucia Tacchetti](https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ), [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [ELETÉ](https://open.spotify.com/album/2yrXDD1dTZFPVSKMp9ADpL) | 3:45 | 2020-12-01 |  |
+| [Honestidad](https://open.spotify.com/track/1FH0TaKEiuR6Gv8dnZYhRe) | [Lucia Tacchetti](https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ), [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [Honestidad](https://open.spotify.com/album/3VxLAkSyBHJgCis4P3ptv0) | 3:45 | 2020-12-01 |  |
+| [Honestidad](https://open.spotify.com/track/2TSGYYXqPLk1Xy6eTtlTmG) | [Lucia Tacchetti](https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ), [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [ELETÉ](https://open.spotify.com/album/2yrXDD1dTZFPVSKMp9ADpL) | 3:45 | 2020-12-01 | 2022-11-12 |
 | [Indiferente](https://open.spotify.com/track/1Oi3KiJOzzQN4yn7qk8CDf) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Indiferente](https://open.spotify.com/album/71dVHf8lnNXDjywcC1NUlv) | 2:56 | 2020-12-01 |  |
 | [Indiferente](https://open.spotify.com/track/5zjFSJz3hvvlpFocM24fNT) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Indiferente](https://open.spotify.com/album/5mQG96KF5BIiH0QuTTvGus) | 2:56 | 2020-12-01 | 2022-07-29 |
 | [IR](https://open.spotify.com/track/0w00c75mDwOF4hG5xJL4cL) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Mango Negro](https://open.spotify.com/album/33HzZjfFI3PrkisNVc04mY) | 4:32 | 2020-12-01 | 2022-07-29 |
 | [IR](https://open.spotify.com/track/1Fcx2n42iUhBad9kxj7g3m) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Mango Negro](https://open.spotify.com/album/2h6a8lF0snB00Jj1JsezRF) | 4:32 | 2020-12-01 |  |
 | [Joderlo Todo](https://open.spotify.com/track/1G93uVHCm8fegsmYKCsJTA) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Joderlo Todo](https://open.spotify.com/album/3a5u1dS9MeqrQtSLqrXxrs) | 3:47 | 2020-12-01 |  |
-| [Karmadame](https://open.spotify.com/track/1xO5aVaGg8ksIuH1TL9Ba3) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Sonidos De Karmática Resonancia](https://open.spotify.com/album/4a9Zz5WbFy2guHD98gHEyO) | 4:44 | 2020-12-01 |  |
+| [Karmadame](https://open.spotify.com/track/1xO5aVaGg8ksIuH1TL9Ba3) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Sonidos De Karmática Resonancia](https://open.spotify.com/album/4a9Zz5WbFy2guHD98gHEyO) | 4:44 | 2020-12-01 | 2022-11-12 |
+| [Karmadame](https://open.spotify.com/track/75GGLjI399nQYyvr5DD5ms) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Indie Acústico vol\. I](https://open.spotify.com/album/2buuC8Dh5dnOPsjUftmbKQ) | 4:50 | 2020-12-01 |  |
 | [Karmadame](https://open.spotify.com/track/3Byvorn06uV1EebqziU3oF) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Karmadame](https://open.spotify.com/album/0SeEDHrW5xLRLcokv1IiBx) | 4:54 | 2020-12-01 | 2022-07-29 |
 | [La Declaración](https://open.spotify.com/track/0MArhYeFvgi8V2Pj3ecwBs) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [La Declaración](https://open.spotify.com/album/40t4vhHKFGfCg0ef2ALiqn) | 4:37 | 2020-12-01 |  |
 | [La Flor](https://open.spotify.com/track/36zwjrHtrOTS593mZiQz24) | [Francisca y Los Exploradores](https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf) | [La Flor](https://open.spotify.com/album/3KHUWqXRqY1F8Fh9MzbjmH) | 3:06 | 2020-12-01 |  |

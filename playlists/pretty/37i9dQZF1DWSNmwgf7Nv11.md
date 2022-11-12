@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNmwgf7Nv11.md) - [plain]
 
 > Free\-spirited, atmospheric vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 611,353 likes - 160 songs - 10 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 611,480 likes - 160 songs - 10 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Minimum](https://open.spotify.com/track/6kND7UAXGZk2kfZbEWQ6e3) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Lines](https://open.spotify.com/album/1UkOPjlvgtqoeeIETfK2fs) | 3:14 |
-| 2 | [Better Days](https://open.spotify.com/track/48USW4aYqrylYWJmFPbC8A) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Better Days](https://open.spotify.com/album/7jQ8LzeqwAKCXnHEIbp9VR) | 3:18 |
+| 2 | [Better Days](https://open.spotify.com/track/4k2ZhyLz0BxHUhJgghQpYq) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Songs of Sonder](https://open.spotify.com/album/5KYqiTq9ChwEVhd26dcFM8) | 3:18 |
 | 3 | [Coast](https://open.spotify.com/track/53l8hswqklbWd7XXqDEMtq) | [Gone Gone Beyond](https://open.spotify.com/artist/6r1h2CZVoKSTyKANP5Ptu5), [Moontricks](https://open.spotify.com/artist/6o52orvClP7ba1qV4zMVlg) | [2030](https://open.spotify.com/album/2dzvQbx6X5atdFDWYIRuMw) | 3:29 |
-| 4 | [Olalla](https://open.spotify.com/track/4R59wt5nnhYo88PIu3cUIt) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [On the Other Side](https://open.spotify.com/album/7ruII5ZslQNpw4viJv10yG) | 4:08 |
+| 4 | [Olalla](https://open.spotify.com/track/0vrlxoXcbwD8Sklwy59N9g) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Nocturne EP](https://open.spotify.com/album/3KeZeDLfggA5icZ8HG9FHm) | 4:07 |
 | 5 | [Fever To The Form](https://open.spotify.com/track/1QJnDJuYOGj05iSc4eWGr5) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [First Mind](https://open.spotify.com/album/0ntJpgznXrZ6Qc8wTxtcXh) | 4:12 |
 | 6 | [Nighttime Hunger](https://open.spotify.com/track/4IE6Oa1YTTu0aICULOzXPn) | [Overcoats](https://open.spotify.com/artist/2pst3pDewxsl4kJERuDZpp) | [YOUNG](https://open.spotify.com/album/5X20kbbHdgPgFItjuHggIm) | 2:48 |
 | 7 | [Lucky for You](https://open.spotify.com/track/19jTCAxeVnkwKnWHSsdg0i) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi), [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [No Fun / Lucky for You](https://open.spotify.com/album/7DVkaDX0Y47rRsJqgvHjyh) | 2:16 |
@@ -115,7 +115,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNmwgf7Nv11.md) - [plain]
 | 105 | [Ricochet](https://open.spotify.com/track/7ESuHpSILZOP0cpIf9DKYx) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Something To Remember](https://open.spotify.com/album/7vKjpw0lHwLpim0U1lVf7U) | 3:20 |
 | 106 | [Émigré](https://open.spotify.com/track/3t9dQLtZPB8dXRu6QrQYLS) | [Alela Diane](https://open.spotify.com/artist/2QIHd0B2VIKlmLyoq4lUr7) | [Cusp](https://open.spotify.com/album/6jGsKEUE3weS6QBs5tR2M4) | 3:11 |
 | 107 | [There's Your Man](https://open.spotify.com/track/7dGRFEsRY9vwqGgczE05I2) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Noonday Dream](https://open.spotify.com/album/6astw05cTiXEc2OvyByaPs) | 4:38 |
-| 108 | [Love Ain't Enough](https://open.spotify.com/track/2sgbm2X8Ye9YIzvEUFGoar) | [The Barr Brothers](https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7) | [Sleeping Operator](https://open.spotify.com/album/7fjRTWt2AzOiOTOAVupzTq) | 4:50 |
+| 108 | [Love Ain't Enough](https://open.spotify.com/track/26vbjJQHCuTvcB0HGKmhLp) | [The Barr Brothers](https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7) | [Love Ain't Enough](https://open.spotify.com/album/6LYx63NK9xob9OcsNqAy1A) | 4:50 |
 | 109 | [Monster](https://open.spotify.com/track/5NlW8GWsM5qYboS8a2qNwe) | [Lola Kirke](https://open.spotify.com/artist/1g5bYOQ7ZHGbn0tuUHxSgE) | [Heart Head West](https://open.spotify.com/album/0kZScwwCkKaLLh7bWNB0E6) | 3:39 |
 | 110 | [Believe](https://open.spotify.com/track/3MuZrrcX0Ko3lgvbfLA7mU) | [Amen Dunes](https://open.spotify.com/artist/1jwOuEBcOKq0BeudSarbEM) | [Freedom](https://open.spotify.com/album/1U3eCqaFcgjZwdSgOg8jDW) | 5:46 |
 | 111 | [Can We Work It Out](https://open.spotify.com/track/1spdxrRWgLAymt4OoCL6xv) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Can We Work It Out \(Reworks\)](https://open.spotify.com/album/58bPBPiCExfdb1twjU58XM) | 4:11 |
@@ -155,7 +155,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNmwgf7Nv11.md) - [plain]
 | 145 | [You're Smiling \(But I Don't Believe You\)](https://open.spotify.com/track/7ajY0y3joEbeL1gZW4ujmR) | [Margaret Glaspy](https://open.spotify.com/artist/13YVfXddjRIUrubItJjadb) | [If & When](https://open.spotify.com/album/39VHhQwmza9iT3K3PuNHSU) | 3:33 |
 | 146 | [On the Radio](https://open.spotify.com/track/33uOm4KiN69SEZ4k2sKMu0) | [Holly Miranda](https://open.spotify.com/artist/0CNehpGYdxk87YYMiBpnyP) | [Mutual Horse](https://open.spotify.com/album/77NBjLz7WofTazhriPT3X2) | 4:07 |
 | 147 | [Thorn in Your Side](https://open.spotify.com/track/7hp6kYxCzhKWFWJAVcjW0c) | [Mark Harding](https://open.spotify.com/artist/5MP9icTG77f2pjI8ZXlcPI) | [Thorn in Your Side](https://open.spotify.com/album/6NpoLHz7tx6MSqArSedTSP) | 3:37 |
-| 148 | [Night Shift](https://open.spotify.com/track/1yYlpGuBiRRf33e1gY61bN) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Historian](https://open.spotify.com/album/0LqhbUfmHsxovfSirhEIGu) | 6:31 |
+| 148 | [Night Shift](https://open.spotify.com/track/6414jxyYquBi9sqmufnT0A) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Night Shift](https://open.spotify.com/album/0YmdEL8VCkLkUFwKHJd6Eg) | 6:31 |
 | 149 | [Beautiful Life](https://open.spotify.com/track/666DrrZIVtsiU4s6rJTWJv) | [Harry Pane](https://open.spotify.com/artist/0Rl5q2Pq8y9xRbujCpZueF) | [Beautiful Life](https://open.spotify.com/album/1jitYySWCcbp56AMJTkosi) | 3:25 |
 | 150 | [Belong](https://open.spotify.com/track/0Dv5ygyhMWCuHZBl7d8fdV) | [Samuel R\. Saffery](https://open.spotify.com/artist/48CwlHHMcLLsgGRKoLbQc3) | [Belong](https://open.spotify.com/album/4jIP2IEDx0erZE5A04ZUjj) | 3:52 |
 | 151 | [Almost Mine](https://open.spotify.com/track/7BbtwLVN2ZRGXnMWnQN4LF) | [Anthony da Costa](https://open.spotify.com/artist/59FeKdChfWED6sfb6QQbzj) | [Almost Mine](https://open.spotify.com/album/7GSm6Uh9Ke3OsHuvHy1ij5) | 4:00 |
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNmwgf7Nv11.md) - [plain]
 | 159 | [Reds](https://open.spotify.com/track/7pMwXBiXREiDyZYZv895EQ) | [Lav](https://open.spotify.com/artist/4yql3diaCYkv88Xrh7rwVl) | [Reds](https://open.spotify.com/album/2jcuBrVLACrRdXtvzRjrnm) | 2:58 |
 | 160 | [Looking For You](https://open.spotify.com/track/7l97DrJ8QQuScv0vr7jLug) | [Ev Carm](https://open.spotify.com/artist/7HRu2XaMM0YFdWqKGDiQtL) | [Looking For You](https://open.spotify.com/album/5pEYv4wPABSjxjXgkyQFpE) | 4:22 |
 
-Snapshot ID: `MTY0NTgyNDUyMSwwMDAwMDAwMDEwNTkyNjNjNTIwMjEzMjY5MzlmYzEwMmFlODg1Zjlm`
+Snapshot ID: `MTY0NTgyNDUyMSwwMDAwMDAwMDE4YTI0YTdkZDY1NWI5NmU3Y2U5YWFhODZmNmFiMzkx`

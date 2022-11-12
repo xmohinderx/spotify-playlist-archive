@@ -288,6 +288,24 @@
     },
     {
       "album": {
+        "name": "All the Time",
+        "url": "https://open.spotify.com/album/11yM9uazEEt9YjNwvMLhkA"
+      },
+      "artists": [
+        {
+          "name": "Jessy Lanza",
+          "url": "https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169493,
+      "name": "Anyone Around",
+      "url": "https://open.spotify.com/track/15fzONpuDzch5temggfVIv"
+    },
+    {
+      "album": {
         "name": "Anyone Around",
         "url": "https://open.spotify.com/album/7wTbPwcxA5j3wFgu05JFGQ"
       },
@@ -883,7 +901,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-03",
+      "date_removed": null,
       "duration_ms": 189683,
       "name": "Can You Feel It",
       "url": "https://open.spotify.com/track/4jbzmPDdZMp4JFcif3OPnH"
@@ -1337,6 +1355,24 @@
       "duration_ms": 163973,
       "name": "Debold",
       "url": "https://open.spotify.com/track/6TNBx9lvDcqLq1GQCPNJqH"
+    },
+    {
+      "album": {
+        "name": "Deep Blue",
+        "url": "https://open.spotify.com/album/637SUNBNXsYqt6bh7rolJY"
+      },
+      "artists": [
+        {
+          "name": "AK",
+          "url": "https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196441,
+      "name": "Deep Blue",
+      "url": "https://open.spotify.com/track/2h6xtPKtsmS8w3N2Ex9qrR"
     },
     {
       "album": {
@@ -2817,7 +2853,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": null,
       "duration_ms": 201991,
       "name": "In the Meantime",
       "url": "https://open.spotify.com/track/2DqKoRU4LkUq9RA7Dr3U5R"
@@ -3823,7 +3859,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 246800,
       "name": "Morning Matters",
       "url": "https://open.spotify.com/track/1EeS8SQ0BAhNrLVLCNrxrj"
@@ -4005,7 +4041,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 223533,
       "name": "Mr. Sun (miss da sun)",
       "url": "https://open.spotify.com/track/2NHVRc2gml9maFMHRgIC0y"
@@ -4297,7 +4333,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 219083,
       "name": "Nobody Scared",
       "url": "https://open.spotify.com/track/4kSOiZOW85gDgPMKVmnNVC"
@@ -5313,7 +5349,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 221217,
       "name": "Super Good Times",
       "url": "https://open.spotify.com/track/0evxHcyCVN4f88IDipmvge"

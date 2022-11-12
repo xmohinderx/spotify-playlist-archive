@@ -4,7 +4,7 @@
 
 > Elvis Presley's most romantic songs.
 
-52 songs - 2 hr 23 min - [published](https://open.spotify.com/playlist/7onIevcGzsMHADUxFEHjV6)
+53 songs - 2 hr 26 min - [published](https://open.spotify.com/playlist/7onIevcGzsMHADUxFEHjV6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [Don't](https://open.spotify.com/track/4fgMsJGLDqy4HsJFRgaVNG) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [50,000,000 Elvis Fans Can't Be Wrong: Elvis' Gold Records, Vol\. 2](https://open.spotify.com/album/0s357yjkkRrf0KCXtnISGe) | 2:48 | 2022-05-03 |  |
 | [Fever](https://open.spotify.com/track/73m8WuJlhzVusTVzJCGaDZ) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis Is Back](https://open.spotify.com/album/2SBAAtgdyjgfTO1UMHnza1) | 3:32 | 2022-05-03 |  |
 | [For Ol' Times Sake](https://open.spotify.com/track/7DSUykao1FtU4vfFReDsfd) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Raised On Rock](https://open.spotify.com/album/2ZRE01JESBDtXwXckqGZY6) | 3:36 | 2022-05-03 |  |
-| [Gently](https://open.spotify.com/track/0CZ15AP1m1lWcRz8fMuYfr) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE), [The Jordanaires](https://open.spotify.com/artist/6CXezToiGS8K6jr9kr8Muv) | [Something for Everybody](https://open.spotify.com/album/5Yl2lNCQ5wkCdN0S8VOCdE) | 2:16 | 2022-06-13 |  |
+| [Gently](https://open.spotify.com/track/0CZ15AP1m1lWcRz8fMuYfr) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE), [The Jordanaires](https://open.spotify.com/artist/6CXezToiGS8K6jr9kr8Muv) | [Something for Everybody](https://open.spotify.com/album/5Yl2lNCQ5wkCdN0S8VOCdE) | 2:16 | 2022-06-13 | 2022-11-12 |
+| [Gently](https://open.spotify.com/track/6nF0b857H9o6tVBNfvhtoq) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE), [The Jordanaires](https://open.spotify.com/artist/6CXezToiGS8K6jr9kr8Muv) | [From Nashville To Memphis \- The Essential 60s Masters I](https://open.spotify.com/album/2NQk9PwXk5xL8UPOdEvBVr) | 2:16 | 2022-06-13 |  |
 | [Gently](https://open.spotify.com/track/4n82SDV6FJ7sN8dEMXmfC7) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE), [The Jordanaires](https://open.spotify.com/artist/6CXezToiGS8K6jr9kr8Muv) | [Something for Everybody](https://open.spotify.com/album/6u6eZbYYXcTDqAQDfaSrYz) | 2:16 | 2022-05-03 | 2022-07-29 |
 | [Have I Told You Lately That I Love You](https://open.spotify.com/track/788AeYEaCvfFmuIHhb64Wn) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Loving You](https://open.spotify.com/album/7KZSeiE569txmIxoNBQLS2) | 2:30 | 2022-05-03 |  |
 | [Hurt](https://open.spotify.com/track/4ugBXQVxTzKLmdCRL7yRRa) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [From Elvis Presley Boulevard, Memphis, Tennessee](https://open.spotify.com/album/6Kc8A5gqFZjDUeq77xSAK6) | 2:07 | 2022-05-03 |  |

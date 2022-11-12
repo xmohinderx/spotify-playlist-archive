@@ -4,7 +4,7 @@
 
 > Lyrical lullabies for your bedtime routine.
 
-95 songs - 4 hr 22 min - [published](https://open.spotify.com/playlist/1CVYEU7K2k9rK1YsRxpkvZ)
+97 songs - 4 hr 27 min - [published](https://open.spotify.com/playlist/1CVYEU7K2k9rK1YsRxpkvZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,8 @@
 | [here comes the sun](https://open.spotify.com/track/3XTjsOmjzu5fVDCTlLpgIQ) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [here comes the sun](https://open.spotify.com/album/7yGmGWFrillHHv4p5b10q7) | 2:47 | 2022-03-11 |  |
 | [Hush Little Baby](https://open.spotify.com/track/1e7c8gV3mxz1s4J3l563h5) | [Nursery Rhymes 123](https://open.spotify.com/artist/47tuSUJMhsa3twW6wgKdIW) | [Lullaby Baby](https://open.spotify.com/album/49k5jl8u2iuxMU4iyczJ9M) | 2:32 | 2022-03-11 |  |
 | [Hush Little Baby](https://open.spotify.com/track/74CUuLDFnUP5Fb4lAZaPdf) | [Nursery Rhymes 123](https://open.spotify.com/artist/47tuSUJMhsa3twW6wgKdIW) | [Lullaby Baby](https://open.spotify.com/album/5iSMSI2TNOsDueioOVsavk) | 2:32 | 2022-03-11 | 2022-07-29 |
-| [Hush Little Baby](https://open.spotify.com/track/3AY9D4csUC3lUxmMntdGJw) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Laurie Berkner Lullabies](https://open.spotify.com/album/63Kg240oKnWjsXlKLE7lzt) | 3:01 | 2022-03-11 |  |
+| [Hush Little Baby](https://open.spotify.com/track/2cgJ4loDbrQawzg3ug7IPX) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Calming Lullabies](https://open.spotify.com/album/5wcyqJKYGYqZL9n30E2BYp) | 3:01 | 2022-03-11 |  |
+| [Hush Little Baby](https://open.spotify.com/track/3AY9D4csUC3lUxmMntdGJw) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Laurie Berkner Lullabies](https://open.spotify.com/album/63Kg240oKnWjsXlKLE7lzt) | 3:01 | 2022-03-11 | 2022-11-12 |
 | [Hush Little Baby](https://open.spotify.com/track/2c9HKwi5n2z4n5queDX0AE) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa), [Brady Rymer](https://open.spotify.com/artist/6Tw9CIKjWd3ysEK1eGsafx) | [Laurie Berkner Lullabies](https://open.spotify.com/album/6Jb1nc24pVaLhOoLeKorAa) | 3:01 | 2022-03-11 | 2022-07-29 |
 | [Hushabye](https://open.spotify.com/track/2y1YF28BrCoTpKRmo3CxBV) | [Dawn Landes](https://open.spotify.com/artist/1wvqnNcuPa2TpcFvfh3co5) | [My Tiny Twilight](https://open.spotify.com/album/38MybNdH299tXHS9uLJ2hq) | 2:45 | 2022-03-11 |  |
 | [I Can See Clearly Now](https://open.spotify.com/track/3e6JSJ8NtOzxbatXKnV6xh) | [Renee & Jeremy](https://open.spotify.com/artist/7IBisryIBGbvj4wBDuRvy5), [Renee Stahl](https://open.spotify.com/artist/2WfQMdILaDJoPYCcWKKqpJ), [Jeremy Toback](https://open.spotify.com/artist/1aH1XTozXuGinGzdNWzyrt) | [Whole Lotta Love](https://open.spotify.com/album/1VbKUzv2wMxhQq1itmdHyR) | 2:50 | 2022-03-11 |  |
@@ -101,7 +102,8 @@
 | [Who Is Sleepy Now?](https://open.spotify.com/track/1pMK2po6HUUw9qSCBkizso) | [Kiri and Lou](https://open.spotify.com/artist/07SlK23lxMoyC85csoEmZm), [Rima Te Wiata](https://open.spotify.com/artist/12oMciQkQAsq9QppsBGr8b) | [Kiri and Lou Singalongsongs](https://open.spotify.com/album/0d6wsRrnj100hjkM1LsBhI) | 2:16 | 2022-03-11 |  |
 | [XO](https://open.spotify.com/track/0oa6d6Nz5BmP7jquxEoyMm) | [Anna Elizabeth Laube](https://open.spotify.com/artist/6O0rWDT0LuZk9Cpe45kbcx) | [Tree](https://open.spotify.com/album/3pALJvtTxIm5i1aYlaZDnA) | 3:55 | 2022-03-11 |  |
 | [you are my sunshine](https://open.spotify.com/track/4cNpO3kF8rqcH8G3huFCJp) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [songs for carmella: lullabies & sing\-a\-longs](https://open.spotify.com/album/3xl0OvcSlc9Mwe5ToaFtD3) | 1:22 | 2022-03-11 |  |
-| [You Are My Sunshine](https://open.spotify.com/track/0tIwgdXaGSp9rYvjVNAoP7) | [Nursery Rhymes 123](https://open.spotify.com/artist/47tuSUJMhsa3twW6wgKdIW) | [Lullaby Baby](https://open.spotify.com/album/49k5jl8u2iuxMU4iyczJ9M) | 2:16 | 2022-03-11 |  |
+| [You Are My Sunshine](https://open.spotify.com/track/0tIwgdXaGSp9rYvjVNAoP7) | [Nursery Rhymes 123](https://open.spotify.com/artist/47tuSUJMhsa3twW6wgKdIW) | [Lullaby Baby](https://open.spotify.com/album/49k5jl8u2iuxMU4iyczJ9M) | 2:16 | 2022-03-11 | 2022-11-12 |
 | [You Are My Sunshine](https://open.spotify.com/track/2eP2kKhFaTBWjnoi7LxLUm) | [Nursery Rhymes 123](https://open.spotify.com/artist/47tuSUJMhsa3twW6wgKdIW) | [Lullaby Baby](https://open.spotify.com/album/5iSMSI2TNOsDueioOVsavk) | 2:16 | 2022-03-11 | 2022-07-29 |
+| [You Are My Sunshine](https://open.spotify.com/track/2qKHqkqAY9OvzxuT3hoopH) | [Nursery Rhymes 123](https://open.spotify.com/artist/47tuSUJMhsa3twW6wgKdIW) | [Sleep Baby Lullabies](https://open.spotify.com/album/3zd4FY7D8AZGLM3SG8AUde) | 2:16 | 2022-03-11 |  |
 
 \*This playlist was first scraped on 2022-04-19. Prior content cannot be recovered.

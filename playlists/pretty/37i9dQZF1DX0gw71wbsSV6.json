@@ -1,12 +1,12 @@
 {
   "description": "\u5fd9\u3057\u304b\u3063\u305f1\u65e5\u306e\u7d42\u308f\u308a\u306f\u3001\u534a\u8eab\u6d74\u3068\u5fc3\u306b\u6c81\u307f\u308b\u97f3\u697d\u3067\u3086\u3063\u305f\u308a\u30ea\u30e9\u30c3\u30af\u30b9\u3002",
-  "num_followers": 41552,
+  "num_followers": 41557,
   "original_name": "\u534a\u8eab\u6d74\u30ce\u30b9\u30b9\u30e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzkyODc0MCwwMDAwMDAwMGM3ZjVlODk3ZDAyOWY0ZDVjOGY5ODA2YmJkMTRiYjM1",
+  "snapshot_id": "MTY2NzkyODc0MCwwMDAwMDAwMGYzYjBmOTE5ODA3OTdjNGQxODI3OTI1OGFmOTQ3MmFk",
   "tracks": [
     {
       "added_at": "2022-11-08 17:32:20",
@@ -715,22 +715,18 @@
     {
       "added_at": "2022-11-08 17:32:20",
       "album": {
-        "name": "Dawn",
-        "url": "https://open.spotify.com/album/57TxOlFzG9yvAKEdjjm2yB"
+        "name": "F.U.C.K.",
+        "url": "https://open.spotify.com/album/5ECJ8Rfo3VvvGz7MeBfhFC"
       },
       "artists": [
         {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
-        },
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Throwaway (with Clairo)",
-      "url": "https://open.spotify.com/track/2MnEG4htbbdfoUsyzxZ4BM"
+      "duration_ms": 205373,
+      "name": "F.U.C.K.",
+      "url": "https://open.spotify.com/track/0iDuW211AjTsYDPsLxyqX4"
     },
     {
       "added_at": "2022-11-08 17:32:20",
@@ -747,22 +743,6 @@
       "duration_ms": 266900,
       "name": "\u591c\u3092\u30eb\u30fc\u30d7",
       "url": "https://open.spotify.com/track/5aF7JEshjhV8gsg8INAOYX"
-    },
-    {
-      "added_at": "2022-11-08 17:32:20",
-      "album": {
-        "name": "F.U.C.K.",
-        "url": "https://open.spotify.com/album/5ECJ8Rfo3VvvGz7MeBfhFC"
-      },
-      "artists": [
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        }
-      ],
-      "duration_ms": 205373,
-      "name": "F.U.C.K.",
-      "url": "https://open.spotify.com/track/0iDuW211AjTsYDPsLxyqX4"
     },
     {
       "added_at": "2022-11-08 17:32:20",
@@ -855,6 +835,22 @@
       "duration_ms": 301480,
       "name": "Buddy's Rendezvous",
       "url": "https://open.spotify.com/track/7qqrGV5WpQnMKqVTsDZd9J"
+    },
+    {
+      "added_at": "2022-11-08 17:32:20",
+      "album": {
+        "name": "Maybe I'll Find You Again",
+        "url": "https://open.spotify.com/album/55B16U7z2wQTFlr27JKmdX"
+      },
+      "artists": [
+        {
+          "name": "Ruth B.",
+          "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
+        }
+      ],
+      "duration_ms": 211600,
+      "name": "Slow Fade",
+      "url": "https://open.spotify.com/track/3KAPg0XP3176meHGFGN16F"
     }
   ],
   "unique_name": "\u534a\u8eab\u6d74\u30ce\u30b9\u30b9\u30e1",

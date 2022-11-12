@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVjDgOMO8jZl.md) - [plain]
 
 > Scopri i tuoi nuovi artisti italiani preferiti! Cover: TOMMY DALI
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,171 likes - 74 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,181 likes - 74 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVjDgOMO8jZl.md) - [plain]
 | 47 | [Cliché](https://open.spotify.com/track/7feAP0q0KS4DW0blbHK7Pn) | [Epoque](https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k) | [Cliché](https://open.spotify.com/album/6bYA5jFVkSwtq3cFpGCvOz) | 3:12 |
 | 48 | [TIRA E MOLLA](https://open.spotify.com/track/57dc9zSqLocF0MjIAv6Yjx) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [FARSI MALE A NOI VA BENE](https://open.spotify.com/album/4kyZ7s8g1iT6LZAHJAcd29) | 2:48 |
 | 49 | [Tasche Piene](https://open.spotify.com/track/6FDnLloftKFqfavEIxGJy2) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt), [Bigghie](https://open.spotify.com/artist/2nLSzxzEXcb6ZSqSjWNnul) | [Tasche Piene](https://open.spotify.com/album/1rqwu4TY5aQVaipvV6TED7) | 2:40 |
-| 50 | [SOLO CON ME \(con TOMMY DALI\)](https://open.spotify.com/track/6v03mGE1388jzs9Ufvivia) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [TOMMY DALI](https://open.spotify.com/artist/0dus12DVjr0hoFaUDOz9B5) | [TAXI DRIVER](https://open.spotify.com/album/4D04TN7Kw7Bq98kfDjUmgh) | 2:26 |
+| 50 | [SOLO CON ME \(con TOMMY DALI\)](https://open.spotify.com/track/4oGM8IoI34tjt7v34MBqPx) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [TOMMY DALI](https://open.spotify.com/artist/0dus12DVjr0hoFaUDOz9B5) | [TAXI DRIVER](https://open.spotify.com/album/3mKwP54SGTWacqb1IakUDs) | 2:26 |
 | 51 | [Abbagli](https://open.spotify.com/track/7Fo4H8E05oL7czxsEaHLo1) | [Laila Al Habash](https://open.spotify.com/artist/6TlzdBQJ60fuenBUtDARlg) | [Mystic Motel](https://open.spotify.com/album/1DuxRyJopWZslxD48VCaa4) | 3:32 |
 | 52 | [Mon Frère](https://open.spotify.com/track/0ECjuTZzoNxv8hRSYS05AX) | [Caffellatte](https://open.spotify.com/artist/7xmNRoYqVgsIiyIwRxrlay) | [Mon Frère](https://open.spotify.com/album/4oNPumU0MDQmVBp22tZLil) | 2:51 |
 | 53 | [Due anni fa](https://open.spotify.com/track/1kSspMQ30u9gHEiRlXvlMm) | [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [Due anni fa](https://open.spotify.com/album/3RB9f0yIzMt3fNDTTT8xx7) | 2:40 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVjDgOMO8jZl.md) - [plain]
 | 73 | [Pasta Rossa](https://open.spotify.com/track/4ZM0faoYcQViZmQYKUdpyc) | [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe) | [Macchie](https://open.spotify.com/album/24TYUiY7aNSq7MeI9VamLh) | 3:28 |
 | 74 | [Carta Stagnola](https://open.spotify.com/track/4AtrGRtFW1EBlarvKAHC7v) | [Caffellatte](https://open.spotify.com/artist/7xmNRoYqVgsIiyIwRxrlay) | [Carta Stagnola](https://open.spotify.com/album/5w1x81v8JwYQ3dxsDwyaFT) | 2:55 |
 
-Snapshot ID: `MTY2Nzg2MjA2MCwwMDAwMDAwMDdmNWQyOGJkMGM4Njk0MTg4ZjVlZDQ3YzFkNDFmNDkz`
+Snapshot ID: `MTY2Nzg2MjA2MCwwMDAwMDAwMGJjNTVmY2VmMGU0YzJlOTM1MTgyNTNiYTg5NDBmNWU1`

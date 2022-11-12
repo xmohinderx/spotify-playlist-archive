@@ -4,7 +4,7 @@
 
 > The best of folk\-infused pop and singer\-songwriter\. Cover: Stephen Sanchez
 
-236 songs - 13 hr 40 min - [published](https://open.spotify.com/playlist/4CdXUQqY69Nj0IMKyxyk64)
+238 songs - 13 hr 47 min - [published](https://open.spotify.com/playlist/4CdXUQqY69Nj0IMKyxyk64)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [All We Ever Knew](https://open.spotify.com/track/5wrGviDHdJ2MYgDRow14cu) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [All We Ever Knew](https://open.spotify.com/album/2DxrFMvkLvj3CiTapFkXhX) | 3:45 | 2021-11-12 | 2022-04-29 |
 | [All We Ever Knew](https://open.spotify.com/track/72zmwnbXjx9fMUjw3mbDSs) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Signs of Light](https://open.spotify.com/album/0EFitK3T7hqin7iGMbpltM) | 3:45 | 2022-03-12 |  |
 | [Always, Joni](https://open.spotify.com/track/61EzqOBuKeieLCgkO1xQv8) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [Always, Joni](https://open.spotify.com/album/5kSFUmD1KNcPJP0A4Cdakp) | 3:09 | 2021-11-12 |  |
+| [am i not enough for now?](https://open.spotify.com/track/04xC7XwAsCqF3HOEFemLcz) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [can you see me?](https://open.spotify.com/album/6lvr2vceq0j5YhJUQTPSKE) | 3:52 | 2022-10-14 |  |
 | [Amadeus](https://open.spotify.com/track/4F9jpNQDKRFoyM4Ebpni6S) | [Family and Friends](https://open.spotify.com/artist/2AmW5LU0vqfHoN2qvghRFe) | [XOXO](https://open.spotify.com/album/1SX20zgyjlyqjHSzOTmqxf) | 3:27 | 2021-11-12 |  |
 | [Amsterdam](https://open.spotify.com/track/1sIAk1Hpj5YsMyYYtTsdal) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Amsterdam](https://open.spotify.com/album/6Ju9oTtTNypA2En3jEoXWP) | 3:33 | 2021-11-12 | 2022-07-29 |
 | [Amsterdam](https://open.spotify.com/track/52BtapS0Wy7LM8R6QvJRpp) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Sidelines](https://open.spotify.com/album/4R09OvFyz47HfjecIjoEtP) | 3:33 | 2022-03-12 |  |
@@ -32,7 +33,8 @@
 | [Being Together](https://open.spotify.com/track/75VX0bpv1hmUMvnGc3nQc4) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [Being Together](https://open.spotify.com/album/3dek4SEQdJcTu9HHS6lw5E) | 3:28 | 2021-11-12 | 2022-07-27 |
 | [Better Days](https://open.spotify.com/track/02HJc2G0BfiJBJhet27Scm) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [Better Days](https://open.spotify.com/album/76H7LQRjofrjoPlGDLwkwk) | 3:21 | 2021-11-12 |  |
 | [Better Days](https://open.spotify.com/track/2vCKQ9NNCTXoAF8ltW0Zv9) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Better Days](https://open.spotify.com/album/41pm4Q8TIe9zixjdIuvgBZ) | 3:18 | 2021-11-12 | 2022-07-29 |
-| [Better Days](https://open.spotify.com/track/48USW4aYqrylYWJmFPbC8A) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Better Days](https://open.spotify.com/album/7jQ8LzeqwAKCXnHEIbp9VR) | 3:18 | 2022-03-12 |  |
+| [Better Days](https://open.spotify.com/track/48USW4aYqrylYWJmFPbC8A) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Better Days](https://open.spotify.com/album/7jQ8LzeqwAKCXnHEIbp9VR) | 3:18 | 2022-03-12 | 2022-11-12 |
+| [Better Days](https://open.spotify.com/track/4k2ZhyLz0BxHUhJgghQpYq) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Songs of Sonder](https://open.spotify.com/album/5KYqiTq9ChwEVhd26dcFM8) | 3:18 | 2022-10-14 |  |
 | [Better Together](https://open.spotify.com/track/3xPrdaCplbZRvgJiOBmGs4) | [Jeremy Loops](https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g) | [Better Together](https://open.spotify.com/album/6iPltWDB2BeiopAigyQG3g) | 2:58 | 2022-08-19 |  |
 | [Better When We're Falling Apart](https://open.spotify.com/track/2GLj5AhUJJPpM4ISa3IjYF) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Better When We're Falling Apart](https://open.spotify.com/album/0f2Ym8hI7QskvmmkJLSLTy) | 3:06 | 2021-11-12 | 2022-07-29 |
 | [Better When We're Falling Apart](https://open.spotify.com/track/4wRJHQ84OhCSGzdmeOEon4) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Sidelines](https://open.spotify.com/album/4R09OvFyz47HfjecIjoEtP) | 3:06 | 2022-03-12 |  |
@@ -209,7 +211,7 @@
 | [Thinking 'Bout Love](https://open.spotify.com/track/3d3LHam2Lc5ADEyJxG3fXE) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Songs to Break Up To](https://open.spotify.com/album/7cbcg2z1LuCJ2rxAtBRxHt) | 3:19 | 2021-11-12 | 2022-07-29 |
 | [Thinking 'Bout Love](https://open.spotify.com/track/42UaitnwvuKqNcD5Oa2HlD) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Songs to Break Up To](https://open.spotify.com/album/5OVxLrOoXXD2HSKkQNqhQW) | 3:19 | 2022-03-12 |  |
 | [This Could Be Good](https://open.spotify.com/track/3QQE11HFATxA6PnlixpMcg) | [Morningsiders](https://open.spotify.com/artist/5hPR4Atp3QY2ztiAcz1inl) | [This Could Be Good](https://open.spotify.com/album/3RnoFLcycTpSUc675Iwqjv) | 3:00 | 2021-11-12 | 2022-07-29 |
-| [This Could Be Good](https://open.spotify.com/track/7d2ytNiHGDf32YwZOU6RnZ) | [Morningsiders](https://open.spotify.com/artist/5hPR4Atp3QY2ztiAcz1inl) | [I've Got a Song](https://open.spotify.com/album/4z3NrWP94ySfz0W3dDmQs7) | 3:00 | 2022-03-12 |  |
+| [This Could Be Good](https://open.spotify.com/track/7d2ytNiHGDf32YwZOU6RnZ) | [Morningsiders](https://open.spotify.com/artist/5hPR4Atp3QY2ztiAcz1inl) | [I've Got a Song](https://open.spotify.com/album/4z3NrWP94ySfz0W3dDmQs7) | 3:00 | 2022-03-12 | 2022-11-12 |
 | [Time](https://open.spotify.com/track/49tW2u59iX2z2thHLkYYo5) | [The National Parks](https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6) | [Wildflower](https://open.spotify.com/album/2Re9wrza8ZH46MUah5tILo) | 3:37 | 2021-11-12 |  |
 | [Time Stand Still](https://open.spotify.com/track/6DblObtQQRnyqx9z6KVGFy) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Signs of Life \(In Progress…\)](https://open.spotify.com/album/58dF8ETOhaFmNwngKEX1e7) | 4:39 | 2021-11-12 | 2022-07-29 |
 | [Undone](https://open.spotify.com/track/24hn3aFOHawfGzO4JWwx45) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [Undone](https://open.spotify.com/album/6ML9ENZ5eDo0CYyZg32L7W) | 3:37 | 2022-03-12 |  |

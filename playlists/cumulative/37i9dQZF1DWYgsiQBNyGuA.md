@@ -4,7 +4,7 @@
 
 > Soul to brighten up your day.
 
-125 songs - 8 hr 25 min - [published](https://open.spotify.com/playlist/5ZYeq6EiVK1uhWkAtkmba0)
+126 songs - 8 hr 31 min - [published](https://open.spotify.com/playlist/5ZYeq6EiVK1uhWkAtkmba0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [I've Got A Right](https://open.spotify.com/track/79oVaKQxheWhtZqtVqqiJS) | [Oleta Adams](https://open.spotify.com/artist/1BMb6sQJVkmUyCuodmRs2g) | [Circle Of One](https://open.spotify.com/album/0AXqyNdhstfyZyVjjJMszO) | 3:58 | 2022-01-05 | 2022-07-29 |
 | [If I Was A Bird](https://open.spotify.com/track/57Sue0eOgweOlVxc6g2yCo) | [Floetry](https://open.spotify.com/artist/0un6YenPxWZ2VW4aFGMupM) | [Floetic](https://open.spotify.com/album/37dLqaW3KP18Aeqesq0Exi) | 5:03 | 2022-01-05 |  |
 | [Just Another Man](https://open.spotify.com/track/1mz6oqRktdmNN6KfqJY9Op) | [Steffen Morrison](https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r) | [Movin' On](https://open.spotify.com/album/6SQyKna2OOhwpwVIrvmMEH) | 3:41 | 2022-01-05 | 2022-07-29 |
-| [Just Another Man](https://open.spotify.com/track/5pDX9LdKPUu8S56NEpxywo) | [Steffen Morrison](https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r) | [Movin' On](https://open.spotify.com/album/4kWmZoSHYtMxvejnCwv3ID) | 3:41 | 2022-01-05 |  |
+| [Just Another Man](https://open.spotify.com/track/5pDX9LdKPUu8S56NEpxywo) | [Steffen Morrison](https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r) | [Movin' On](https://open.spotify.com/album/4kWmZoSHYtMxvejnCwv3ID) | 3:41 | 2022-01-05 | 2022-11-12 |
 | [Just The Two Of Us](https://open.spotify.com/track/2P3YVlcxm5m4cRxjNiZ96q) | [Sabrina Starke](https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub) | [Lean On Me \- The Songs Of Bill Withers \(Bonustrack Edition\)](https://open.spotify.com/album/6SNemCUWVfYobddj98KgXh) | 4:20 | 2022-01-05 |  |
 | [Ladies](https://open.spotify.com/track/6iNHWlOLt4NuDi9iSvtznO) | [Lee Fields & The Expressions](https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K), [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [My World](https://open.spotify.com/album/7ElHdWPD6YbkbltJQgCiDc) | 4:17 | 2022-01-05 |  |
 | [Let My People Go](https://open.spotify.com/track/260FtPzhpH7A0473nrMZ8R) | [Darondo](https://open.spotify.com/artist/4JfFdF9Row7UXtdsKtT6tc) | [Let My People Go](https://open.spotify.com/album/3nD9Oab8M4sCLNmqmwSOdA) | 3:58 | 2022-01-05 |  |
@@ -66,6 +66,7 @@
 | [Let's Get It On](https://open.spotify.com/track/45qbfUvlCkVIAMnHuZpbmU) | [Jeff Floyd](https://open.spotify.com/artist/4daynj4qj7K17EbBzEhtDe) | [Powerhouse](https://open.spotify.com/album/7jge7It8TJ7XVSjcKFRFfE) | 5:39 | 2022-01-05 | 2022-07-28 |
 | [Lifetime \- Remastered 2021](https://open.spotify.com/track/0tXq1ob3ysGZN2oK1abtyp) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [Now](https://open.spotify.com/album/3Ul8Nyuzr2AEwE8iSrQepC) | 5:29 | 2022-01-05 |  |
 | [Lift Me Up](https://open.spotify.com/track/1uyj6ycPIp7i907LsGbUmA) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL), [Roxie Ray](https://open.spotify.com/artist/6ZbBl2PqUW7wMAU2DnsDCG) | [Take From Me](https://open.spotify.com/album/20e8oP5W0209A6D87lTzB3) | 4:29 | 2022-01-05 |  |
+| [Lock My Door](https://open.spotify.com/track/4u6JFQa45iIYPy5l8DK2xc) | [Jeff Floyd](https://open.spotify.com/artist/4daynj4qj7K17EbBzEhtDe) | [Keepin It Real](https://open.spotify.com/album/0zcqYY1KpOd6aOyZSbEagF) | 5:53 | 2022-01-05 |  |
 | [Love You All My Lifetime](https://open.spotify.com/track/2yTswsiLkNGzzzX54WroNS) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [The Woman I Am](https://open.spotify.com/album/0xUs1n2GTs34q1JeFfZsDz) | 4:44 | 2022-01-05 |  |
 | [Love's Not](https://open.spotify.com/track/5thLuoJ0PZHCjYzJypfpg4) | [Conya Doss](https://open.spotify.com/artist/67ONfRSpITV4rWHCQGSS3R) | [Seven: VII](https://open.spotify.com/album/5cbo0UmIkURONNZIbObXbu) | 4:33 | 2022-01-05 |  |
 | [Man Of The Universe](https://open.spotify.com/track/1FqOGWc280BYbpRwLiPn4P) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/2VXeD0hKkY9i8TyGb0chVi) | 4:09 | 2022-01-05 | 2022-10-03 |
@@ -84,7 +85,7 @@
 | [O Me O My](https://open.spotify.com/track/6GXbpne1EKdVlYhFazWFs4) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [New Magic](https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9) | 2:52 | 2022-01-05 |  |
 | [O\-O\-H Child](https://open.spotify.com/track/4x0ub8v8iGkcQ1WrJWhiJl) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Covered in Soul](https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn) | 3:05 | 2022-01-05 |  |
 | [Oh No \(Man\)](https://open.spotify.com/track/4Sb5YjpeDNMzEMFNfZTZuj) | [Chico DeBarge](https://open.spotify.com/artist/67ISVBZzcCTTKM17Ps00sx) | [Addiction](https://open.spotify.com/album/0l3NCq2SpDb7JGBS92WRd5) | 4:07 | 2022-01-05 |  |
-| [Passion](https://open.spotify.com/track/6IvKGL3DMPRPjJi8pz059W) | [Dionne Farris](https://open.spotify.com/artist/7HO1DbzU86pWWp1vBN7l6k) | [Wild Seed \- Wild Flower](https://open.spotify.com/album/2BUHZXylf9zzMmNOUo0JBW) | 5:42 | 2022-01-05 | 2022-07-29 |
+| [Passion](https://open.spotify.com/track/6IvKGL3DMPRPjJi8pz059W) | [Dionne Farris](https://open.spotify.com/artist/7HO1DbzU86pWWp1vBN7l6k) | [Wild Seed \- Wild Flower](https://open.spotify.com/album/2BUHZXylf9zzMmNOUo0JBW) | 5:42 | 2022-01-05 |  |
 | [Positivity](https://open.spotify.com/track/0wo02vddAWnvU6nJAwv4Wz) | [Steffen Morrison](https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r) | [Soul Revolution](https://open.spotify.com/album/4qF4sSfF0dHMUdTkqF5yn8) | 3:19 | 2022-01-05 |  |
 | [Positivity](https://open.spotify.com/track/2agIeYLyjyxLwQV09f2NCA) | [Steffen Morrison](https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r) | [Positivity](https://open.spotify.com/album/3q2UpV35Krzbcf7Wqk2uyv) | 3:20 | 2022-01-05 | 2022-07-29 |
 | [Positivity](https://open.spotify.com/track/5q4TL6ECBParrNsA9oUjjz) | [Steffen Morrison](https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r) | [Soul Revolution](https://open.spotify.com/album/04Jkig1VBtJLGssHJHsWDN) | 3:20 | 2022-01-05 | 2022-09-06 |
@@ -105,7 +106,7 @@
 | [So Caught Up](https://open.spotify.com/track/6QvdMd39Vywf87kHx03xgX) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/2VXeD0hKkY9i8TyGb0chVi) | 3:48 | 2022-01-05 | 2022-10-03 |
 | [Soul Revolution](https://open.spotify.com/track/1Eu7WRMIg3lUhXtVAI2jCn) | [Steffen Morrison](https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r) | [Soul Revolution](https://open.spotify.com/album/04Jkig1VBtJLGssHJHsWDN) | 3:15 | 2022-01-05 | 2022-10-04 |
 | [Soul Revolution](https://open.spotify.com/track/1ldNwFMKUtCUsYeazPwjq7) | [Steffen Morrison](https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r) | [Soul Revolution](https://open.spotify.com/album/4qF4sSfF0dHMUdTkqF5yn8) | 3:15 | 2022-01-05 |  |
-| [Soulman \- New English Version](https://open.spotify.com/track/7uooKN0tSNN6t6Pw3IJT1V) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [Ben L'Oncle Soul](https://open.spotify.com/album/0cf7toJ9xKuKgsaTDwxaCj) | 3:42 | 2022-01-05 |  |
+| [Soulman \- New English Version](https://open.spotify.com/track/7uooKN0tSNN6t6Pw3IJT1V) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [Ben L'Oncle Soul](https://open.spotify.com/album/0cf7toJ9xKuKgsaTDwxaCj) | 3:42 | 2022-01-05 | 2022-11-12 |
 | [Soulman \- New English Version](https://open.spotify.com/track/6gUbpcQmFvDUbe7a213wlr) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [Ben L'Oncle Soul](https://open.spotify.com/album/6XbYsGvaSrNPOrY9E5jRd7) | 3:42 | 2022-01-05 | 2022-07-29 |
 | [Spend The Night](https://open.spotify.com/track/14VwBAL1qSlG4ovOSYUQF4) | [Rahsaan Patterson](https://open.spotify.com/artist/5jVkC5rSgdK2EPfRAmtbpH) | [Rahsaan Patterson](https://open.spotify.com/album/1uMPGRwlgCjpIxjGTjg93c) | 4:53 | 2022-01-05 |  |
 | [Spiritual Thang](https://open.spotify.com/track/1lcZPCRAuVXCHSqPsFaWlw) | [Eric Benét](https://open.spotify.com/artist/1kjO72M26jZkv0aaGxJaov) | [True to Myself](https://open.spotify.com/album/0HgmysKc552d8G01TdbUa3) | 4:00 | 2022-01-05 |  |

@@ -849,7 +849,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 149161,
       "name": "de volta ao in\u00edcio",
       "url": "https://open.spotify.com/track/5nXF7EEK5IPLmYfGveV5Ie"
@@ -1383,7 +1383,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 209230,
       "name": "Faz Tempo",
       "url": "https://open.spotify.com/track/1h377jjzCyoi9v6xv5pyW1"
@@ -1562,6 +1562,32 @@
     },
     {
       "album": {
+        "name": "Hipnotiza",
+        "url": "https://open.spotify.com/album/0KAUOnRz4oD4h9VgJB5iPm"
+      },
+      "artists": [
+        {
+          "name": "ALLIRA",
+          "url": "https://open.spotify.com/artist/1YaRssOooph4Aj4faAS8VS"
+        },
+        {
+          "name": "Doug O.",
+          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
+        },
+        {
+          "name": "Wall Music",
+          "url": "https://open.spotify.com/artist/6pr9Hwh9K76ZUN2l6F4SjI"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "Hipnotiza",
+      "url": "https://open.spotify.com/track/7D1v8YWOC9KPMYtf6JKmgy"
+    },
+    {
+      "album": {
         "name": "Ilus\u00e3o",
         "url": "https://open.spotify.com/album/06ZRaFS4lY8dQQXTYrAlOZ"
       },
@@ -1643,7 +1669,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 205718,
       "name": "Jogo Sujo",
       "url": "https://open.spotify.com/track/5VoMWPTG7cAXonm2A3XcAq"
@@ -2352,6 +2378,24 @@
     },
     {
       "album": {
+        "name": "Sons Perdidos Vol. 1",
+        "url": "https://open.spotify.com/album/2IhIrUjPp37L9qpsIzMk74"
+      },
+      "artists": [
+        {
+          "name": "L3ozz",
+          "url": "https://open.spotify.com/artist/2re8PPjIT5xydo7CAYQb02"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113378,
+      "name": "Pandora",
+      "url": "https://open.spotify.com/track/3tuh8qNyOeL9EhJfbNPyb3"
+    },
+    {
+      "album": {
         "name": "Audaz",
         "url": "https://open.spotify.com/album/4sVXU4DLGhhzhOsevlh5Gk"
       },
@@ -2555,6 +2599,32 @@
       "duration_ms": 197007,
       "name": "Por Acaso",
       "url": "https://open.spotify.com/track/7F9CppbXgjEV1dSaOwg497"
+    },
+    {
+      "album": {
+        "name": "Porcelana",
+        "url": "https://open.spotify.com/album/2UppKnGjN1wYqyvHIr4bCu"
+      },
+      "artists": [
+        {
+          "name": "S.L",
+          "url": "https://open.spotify.com/artist/1HL4XnqBcZ6tWwtBpuUC4P"
+        },
+        {
+          "name": "S\u00f3CIRO",
+          "url": "https://open.spotify.com/artist/3rS2eMg4fwgs0ViHxkxuUz"
+        },
+        {
+          "name": "Victoria Borges",
+          "url": "https://open.spotify.com/artist/14uWOhZulypuhHdd2yshm2"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202895,
+      "name": "Porcelana",
+      "url": "https://open.spotify.com/track/7KF5WHohqVUMp0u2YERAxC"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOqWoDP009i.md) - [plain]
 
 > The best and finest '70s Funk\. Cover: Kool & The Gang.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,773 likes - 100 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,879 likes - 100 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOqWoDP009i.md) - [plain]
 | 57 | [Mighty Mighty](https://open.spotify.com/track/3wBQZHjzqHBW5pamM09tyX) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Open Our Eyes](https://open.spotify.com/album/5cXtmT9ap3avo2lz9kEYbg) | 3:02 |
 | 58 | [Freedom Road](https://open.spotify.com/track/3e216tlft4wkIvYphoE2vm) | [The Pharaohs](https://open.spotify.com/artist/6rfmM7dZAV1O2loXczWgo1) | [Awakening](https://open.spotify.com/album/1B4yhjadIa3RH5d1TuLOWp) | 5:56 |
 | 59 | [Blame It on the Boogie](https://open.spotify.com/track/3qI94hINNNeb4S7xQi18lS) | [The Jacksons](https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI) | [Destiny](https://open.spotify.com/album/46yTC334aJI4QTv4lkzj3a) | 3:34 |
-| 60 | [A Chance for Peace](https://open.spotify.com/track/5Nt5jH0oX4qktPE6kxEPx3) | [Lonnie Liston Smith](https://open.spotify.com/artist/2hdpXvaQJHBCZIVUd6cLvK), [The Cosmic Echoes](https://open.spotify.com/artist/1FoHP9nats6BdxFSE3b1sb) | [Visions of a New World](https://open.spotify.com/album/5VAwd5IGltpuBUlCgLBngP) | 5:22 |
+| 60 | [A Chance for Peace](https://open.spotify.com/track/3FPrzPbfu7A9pe9oBEtnZt) | [Lonnie Liston Smith](https://open.spotify.com/artist/2hdpXvaQJHBCZIVUd6cLvK), [The Cosmic Echoes](https://open.spotify.com/artist/1FoHP9nats6BdxFSE3b1sb) | [Cosmic Funk & Spiritual Sounds: The Flying Dutchman Masters](https://open.spotify.com/album/1CUwa0UkrTa7wye8qHXVkt) | 5:20 |
 | 61 | [2000 Black](https://open.spotify.com/track/7hEy4aJVsYKpowcYSRKhhF) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Electric Jazz](https://open.spotify.com/album/6RKgh8R3ZoKEqP4IOutI4J) | 5:24 |
 | 62 | [The Old One, Two](https://open.spotify.com/track/4cNxF2MBn9pYLBzcBDXQXl) | [RAMP](https://open.spotify.com/artist/3KAulMlhjlTfIZD8yhMJPb) | [Ramp: The Old One, Two](https://open.spotify.com/album/74bV8EHp51Lr9e3LkD9QsT) | 3:17 |
 | 63 | [Flash Light](https://open.spotify.com/track/1v1PV2wERHiMPesMWX0qmO) | [Parliament](https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH) | [Funkentelechy Vs\. The Placebo Syndrome](https://open.spotify.com/album/7Kv0H0XMdIyRs41a6USzrd) | 5:46 |
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOqWoDP009i.md) - [plain]
 | 77 | [People Get Up And Drive Your Funky Soul \- Remix](https://open.spotify.com/track/5U3i59kbTLrxo46TU1FRnF) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW), [Fred Wesley](https://open.spotify.com/artist/2uE66NiUti6Wpz90SD4eam), [The J.B.'s](https://open.spotify.com/artist/4lJHGi5dlJmWwFH0JKF6di) | [Motherlode](https://open.spotify.com/album/3PMLP2hPq76MY9XKAgUC8f) | 9:04 |
 | 78 | [All Aboard The Soul Funky Train](https://open.spotify.com/track/3eikqF7aMxvwI5DLK2f1Dv) | [The J.B.'s](https://open.spotify.com/artist/4lJHGi5dlJmWwFH0JKF6di) | [Hustle With Speed](https://open.spotify.com/album/4txPgt8VMJvyBdPWtsKh53) | 4:33 |
 | 79 | [Rigor Mortis](https://open.spotify.com/track/0gClNlIHb4hUSCVrvVrZdZ) | [Cameo](https://open.spotify.com/artist/545idYhdloaSlLGBY8E9u2) | [Cardiac Arrest](https://open.spotify.com/album/1At2JNXviQaYBxqzcYoJdP) | 5:21 |
-| 80 | [Can You Get It](https://open.spotify.com/track/54sxsI1fcUJSAmKyty00r5) | [Mandrill](https://open.spotify.com/artist/6RWnslEkqboHbDg0OUabe5) | [Le monde de demain \(Bande originale de la série\)](https://open.spotify.com/album/1E4Sem9us4sINNq1XD4iuC) | 7:07 |
+| 80 | [Can You Get It](https://open.spotify.com/track/1iNWWO3i1L4gpy7fZpdUwP) | [Mandrill](https://open.spotify.com/artist/6RWnslEkqboHbDg0OUabe5) | [We Are One](https://open.spotify.com/album/7IgADQJ3fC8kcacByNzT0K) | 7:08 |
 | 81 | [Keep Running Away](https://open.spotify.com/track/3Al10onqVAaunkLlM1KBzK) | [Clifford Nyren](https://open.spotify.com/artist/68r3QCLIv4884toe4quR8t) | [Soul Cal](https://open.spotify.com/album/31Cu3f8Ao0OyhcIVmSJZmV) | 2:56 |
 | 82 | [Maggot Brain](https://open.spotify.com/track/5WJU527RQNyMLuKecjsL8V) | [Funkadelic](https://open.spotify.com/artist/450o9jw6AtiQlQkHCdH6Ru) | [Maggot Brain](https://open.spotify.com/album/3ywVzrwMQ3Kq43N9zBdBQm) | 10:19 |
 | 83 | [Wake Up Pts\. 1 & 2](https://open.spotify.com/track/5XkMROoPgSETi2VNlfjkqy) | [Pure Essence](https://open.spotify.com/artist/4xCpzpNTRGwmvXvfttdhLn) | [Soul Cal](https://open.spotify.com/album/31Cu3f8Ao0OyhcIVmSJZmV) | 6:08 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOqWoDP009i.md) - [plain]
 | 99 | [Patience](https://open.spotify.com/track/4pMG2a3r1AeVbV4FOJwuRn) | [Rokk](https://open.spotify.com/artist/7bLOOtxBWLOpBmhGX3cp0S) | [Eccentric Soul: Omnibus](https://open.spotify.com/album/35IxeM8FWncBSFRH9soSTa) | 4:39 |
 | 100 | [Music Has the Power](https://open.spotify.com/track/2xcxqTg21JxE6zPjT6xswd) | [Ingram](https://open.spotify.com/artist/4wKxcGIfyMyTAucXYUHzGw) | [That's All!](https://open.spotify.com/album/5MRu2NKaMYjIvi7K2RMRGF) | 3:57 |
 
-Snapshot ID: `MTY2NDUzMzQ5OSwwMDAwMDAwMDAwNDAxYTUwOTkzNjcwMzJiNWNlNTBlOWQ1NTc0NTQ1`
+Snapshot ID: `MTY2NDUzMzQ5OSwwMDAwMDAwMGJmZjgyMWI2MzRhNmQwMjY2MDFmYThhNWJmNTM4Y2U0`

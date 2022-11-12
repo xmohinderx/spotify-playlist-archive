@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0UEZtrrltfH.md) - [plain]
 
 > <a href="spotify:artist:0DqR5aQYPz1s2M3YbycLMJ">jamesjamesjames' </a> favourite tracks\.  Updated regularly\. Curated by jamesjamesjames\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,668 likes - 61 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,691 likes - 61 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0UEZtrrltfH.md) - [plain]
 | 36 | [another night](https://open.spotify.com/track/3T6uMRGP8y3LV2KpNZyOAl) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [Galore](https://open.spotify.com/album/6s7TtMHRcoy8D0ipc0wmjE) | 3:42 |
 | 37 | [Nothing in This World](https://open.spotify.com/track/4XRGwyAARL21fesc6BvliF) | [Paris Hilton](https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK) | [Paris \(U.S\. Standard Version\)](https://open.spotify.com/album/3jWfBkl247fFkyJprhd5qs) | 3:09 |
 | 38 | [Passion](https://open.spotify.com/track/0QezBrYzFFT0f68zK6EvZI) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [to hell with it](https://open.spotify.com/album/65YAjLCn7Jp33nJpOxIPMe) | 2:18 |
-| 39 | [Breathe](https://open.spotify.com/track/4ZtqsOdBbS6GoedzzRGSo9) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [The Fat of the Land](https://open.spotify.com/album/2qivROlvQ8BcUKTaCA7dL2) | 5:36 |
+| 39 | [Breathe](https://open.spotify.com/track/0PsRhMfKbjPblbu6Vd7ZGs) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [Their Law The Singles 1990 \- 2005](https://open.spotify.com/album/0aZZ90ZakcGFzFiBMKHrCy) | 5:36 |
 | 40 | [Queen Of This Shit](https://open.spotify.com/track/6JrmHzxhaaavRtlXTOhm63) | [Quay Dash](https://open.spotify.com/artist/6k6lSmhyFpe2oYcredvZHM) | [Queen Of This Shit](https://open.spotify.com/album/6qu9QGQPrAlTOJLGeKeQBK) | 3:06 |
 | 41 | [Bossed Up](https://open.spotify.com/track/2Ht7vK4FOBUnl2C80OdQsO) | [Quay Dash](https://open.spotify.com/artist/6k6lSmhyFpe2oYcredvZHM) | [Transphobic](https://open.spotify.com/album/2vkSCPeqGqr2iCDZEbtieZ) | 2:15 |
 | 42 | [Sfire 7](https://open.spotify.com/track/57raKVKlm6ofEoCCJJvTsY) | [Sfire](https://open.spotify.com/artist/1DrfvAYR9EE93iN2z9mVKE) | [Sfire 6/7](https://open.spotify.com/album/7FZS02CQATRKUtZbRCitrY) | 2:29 |
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0UEZtrrltfH.md) - [plain]
 | 60 | [FELL](https://open.spotify.com/track/2Vv2boJ8svGFAOA348ApxQ) | [Varg²™](https://open.spotify.com/artist/4g2EfgpanE2Z9LG1nQ9zNy), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [SIREN CALL](https://open.spotify.com/album/3Mozvi21Fv8p7YSjRcRSkg) | 3:03 |
 | 61 | [Puppy](https://open.spotify.com/track/6h7WnYtD8BTlRwCqrfFxly) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Puppy](https://open.spotify.com/album/1aSB8LZ9XAzTkAHOWG60yn) | 4:08 |
 
-Snapshot ID: `MTY0ODcwMjkzMSwwMDAwMDAwMGVmODU2ZGI4MWQ5MjRmMjAyZmU2ZWRhMDAzYjM3ZWQ5`
+Snapshot ID: `MTY0ODcwMjkzMSwwMDAwMDAwMGU5NjI3OWRkNTkxM2JkMzI1OTdiNjIzMzY3NmFkYjkz`

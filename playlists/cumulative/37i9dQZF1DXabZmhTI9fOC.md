@@ -4,7 +4,7 @@
 
 > Turn up the heat with music from and inspired by the new season of Love Island USA, streaming only on <a href="https://www.peacocktv.com/stream\-tv/love\-island?cid=2205orglvisldexterndeml5360&utm\_campaign=2205orglvisld&utm\_source=sptfy\_sptfy\_na&utm\_medium=ernd\_eml\_awa\_eml&utm\_term=prtnrcust\_spotifysubs&utm\_content=loveisland">Peacock</a>.
 
-299 songs - 16 hr 20 min - [published](https://open.spotify.com/playlist/1eOyuiVdoM5GbYWB3qlTpE)
+301 songs - 16 hr 27 min - [published](https://open.spotify.com/playlist/1eOyuiVdoM5GbYWB3qlTpE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,7 +178,8 @@
 | [Let You Down](https://open.spotify.com/track/54aWi8Afw2HYtKfPHxuGSW) | [Wyn Starks](https://open.spotify.com/artist/3rXMN9AbcZXln8vo79ufNQ) | [Black Is Golden](https://open.spotify.com/album/6jjBFckHG6PiKlHNGjvNQK) | 3:35 | 2022-08-26 |  |
 | [Let's Fall in Love for the Night](https://open.spotify.com/track/3n5te2xbUAPjzAnhLgA42z) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Blood Harmony \(Deluxe\)](https://open.spotify.com/album/1O1Ulu4uuaceAzsNfN7ks0) | 3:10 | 2022-07-15 | 2022-10-13 |
 | [Let's Fall in Love for the Night](https://open.spotify.com/track/6I0KEvFfWszVJiCy5hum4V) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Blood Harmony](https://open.spotify.com/album/0qRnyZEgvqF96kGSZALooq) | 3:10 | 2022-07-15 |  |
-| [Light Switch](https://open.spotify.com/track/0F1TxVw4mWkqp9vJrnw65w) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Simply Feelgood](https://open.spotify.com/album/6r5uHLa2JBpivqjVTYZdiT) | 3:05 | 2022-08-26 |  |
+| [Light Switch](https://open.spotify.com/track/0F1TxVw4mWkqp9vJrnw65w) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Simply Feelgood](https://open.spotify.com/album/6r5uHLa2JBpivqjVTYZdiT) | 3:05 | 2022-08-26 | 2022-11-12 |
+| [Light Switch](https://open.spotify.com/track/0eXB93GUVd0jhjg8KZJ6af) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [FYP \- Viral Hits](https://open.spotify.com/album/15eWAxGQwHa8jozAYs6Xoc) | 3:05 | 2022-08-26 |  |
 | [Light Switch](https://open.spotify.com/track/1BSMpVGWs3v5BZKnAQziAc) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Light Switch](https://open.spotify.com/album/6PBwTu4IgZMQNTKtrgxzZQ) | 3:05 | 2022-08-26 | 2022-10-16 |
 | [Light Switch](https://open.spotify.com/track/1jEBSDN5vYViJQr78W7jr2) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [CHARLIE](https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt) | 3:07 | 2022-08-26 | 2022-11-11 |
 | [Like This](https://open.spotify.com/track/3gdpVF8GaDlxxWgzXtcFU5) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [DANCING ON THE PEOPLE](https://open.spotify.com/album/2tkR7vg5l9QJRmHVXZ76sK) | 2:58 | 2022-08-08 |  |
@@ -277,7 +278,8 @@
 | [This Year's Love](https://open.spotify.com/track/5WaeGIKHjPftV4gcoDRmaI) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [This Year's Love](https://open.spotify.com/album/1xfhaxi2p8iW1LJ8RxsIUx) | 3:44 | 2022-08-26 |  |
 | [Till It Hurts](https://open.spotify.com/track/0fwI7415Aqm1kR0kEAxYnQ) | [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [Mind Games](https://open.spotify.com/album/5KKaLdWcmLpJqCnvvu0Vus) | 3:20 | 2022-08-29 |  |
 | [Tomorrow We Fight](https://open.spotify.com/track/5qIswLybSuwnkcKHYsclPN) | [Tommee Profitt](https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU), [SVRCINA](https://open.spotify.com/artist/3wRt3iJpZDOg73CTUkfv5C) | [Cinematic Songs \(Vol\. 2\)](https://open.spotify.com/album/3m4jEsg6lxhjaYXJSkvfaG) | 3:20 | 2022-08-05 |  |
-| [Toxic](https://open.spotify.com/track/10VGirghK8scti9gNw2NTw) | [2WEI](https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc) | [Sequels](https://open.spotify.com/album/3cVAdcxaUZIvkV6Da2BTdC) | 3:57 | 2022-07-29 |  |
+| [Toxic](https://open.spotify.com/track/10VGirghK8scti9gNw2NTw) | [2WEI](https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc) | [Sequels](https://open.spotify.com/album/3cVAdcxaUZIvkV6Da2BTdC) | 3:57 | 2022-07-29 | 2022-11-12 |
+| [Toxic](https://open.spotify.com/track/1lhSumcZpcom7vrJRCefSt) | [2WEI](https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc) | [Toxic](https://open.spotify.com/album/01lXgHJJp8bcFZvq5lScUg) | 3:57 | 2022-07-29 |  |
 | [Toxic](https://open.spotify.com/track/5zj80ti5GGOgMwXHWyqaDm) | [2WEI](https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc) | [Sequels](https://open.spotify.com/album/4PBhKayEcOZG2LXoWiiMEO) | 3:57 | 2022-07-29 | 2022-10-13 |
 | [Trouble](https://open.spotify.com/track/4PaSSxCVbqd0lrpZwcssxm) | [Kat Meoz](https://open.spotify.com/artist/3ONmBYM261icTRuD38N9vS) | [Royalty](https://open.spotify.com/album/5TOLSaeyDW7CyJyIRd9aYw) | 2:34 | 2022-07-29 |  |
 | [Trouble](https://open.spotify.com/track/7LqUwzOSDAdQp111VQG9Mk) | [Kat Meoz](https://open.spotify.com/artist/3ONmBYM261icTRuD38N9vS) | [Royalty](https://open.spotify.com/album/5bfZVXwPOwwKCShPhidWWJ) | 2:34 | 2022-07-29 | 2022-10-14 |

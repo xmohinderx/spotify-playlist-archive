@@ -290,6 +290,24 @@
     },
     {
       "album": {
+        "name": "Chill Soul",
+        "url": "https://open.spotify.com/album/1CUqLmWvT3BEa84WvJerih"
+      },
+      "artists": [
+        {
+          "name": "Roy Ayers Ubiquity",
+          "url": "https://open.spotify.com/artist/3WbeZvDk1COiO2dEokZqn7"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238373,
+      "name": "Everybody Loves The Sunshine",
+      "url": "https://open.spotify.com/track/6EtjsULnKjW6fHRhoPVqN6"
+    },
+    {
+      "album": {
         "name": "Everybody Loves The Sunshine",
         "url": "https://open.spotify.com/album/4nqut96tZjF7mRDpyBLIF5"
       },
@@ -319,7 +337,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 239666,
       "name": "Everybody Loves The Sunshine",
       "url": "https://open.spotify.com/track/5le4sn0iMcnKU56bdmNzso"
@@ -912,6 +930,32 @@
     },
     {
       "album": {
+        "name": "Dancefloor Fillers",
+        "url": "https://open.spotify.com/album/2aXgWhYNZWlwDctBuDQCXi"
+      },
+      "artists": [
+        {
+          "name": "MJ Cole",
+          "url": "https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl"
+        },
+        {
+          "name": "Nova Caspar",
+          "url": "https://open.spotify.com/artist/3jslBrqnHkIjs2PSUKJae0"
+        },
+        {
+          "name": "jaydee",
+          "url": "https://open.spotify.com/artist/7dkFT090qwJt2IDXvCZwNG"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338693,
+      "name": "Sincere - Re-Cue'D",
+      "url": "https://open.spotify.com/track/1E2eKUEPDe5emOsWZVlLT7"
+    },
+    {
+      "album": {
         "name": "Sincere (Deluxe)",
         "url": "https://open.spotify.com/album/0V76cokjWCIMO2pnElF1mw"
       },
@@ -931,7 +975,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 338693,
       "name": "Sincere - Re-Cue'D",
       "url": "https://open.spotify.com/track/3ttQGouvKMlbI2bTgAMWup"

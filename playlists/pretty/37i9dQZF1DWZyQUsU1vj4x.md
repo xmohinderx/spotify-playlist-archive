@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyQUsU1vj4x.md) - [plain]
 
 > Indie folk ventures into the cinematic West.
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,645 likes - 96 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,716 likes - 96 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyQUsU1vj4x.md) - [plain]
 | 30 | [Phoenix](https://open.spotify.com/track/4Vs2i8GdP5s7vd8vfSRcDk) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O), [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [How Long Do You Think It's Gonna Last?](https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T) | 4:15 |
 | 31 | [You](https://open.spotify.com/track/463QkaYcFvcfAeHnKNPuRr) | [Lizzie Weber](https://open.spotify.com/artist/4ccrRYqGDvMVvKhI4TKim7) | [You](https://open.spotify.com/album/6rrDTUVgBXzrKINnr49e4e) | 3:03 |
 | 32 | [Not Home Anymore \(Live at Sun Studio\)](https://open.spotify.com/track/2zpNi06avggsxZIU7eYcBe) | [Lera Lynn](https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7) | [Not Home Anymore \(Live at Sun Studio\)](https://open.spotify.com/album/5jziZ3DdAMCg7ncqRxvLFu) | 3:15 |
-| 33 | [I Feel Your Love](https://open.spotify.com/track/7uG8yNUrm9hnz6lP5jBriW) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Short Movie](https://open.spotify.com/album/08cXCARUoHLoccf0y06Dlv) | 4:02 |
+| 33 | [I Feel Your Love](https://open.spotify.com/track/0iqnKB2AxAU0UDEJp4fWL6) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Short Movie \(Director's Cut\)](https://open.spotify.com/album/2hGp4zeWcLdeQ0iq7Uj52Q) | 4:02 |
 | 34 | [Crocodile Tears](https://open.spotify.com/track/63nVPOyNp8vZNblAozzNcP) | [little hurricane](https://open.spotify.com/artist/5VLQQzAkJrzG7QggE4DVg2) | [Homewrecker](https://open.spotify.com/album/11g4QUzXzGxh7dOPxxy4CF) | 3:55 |
 | 35 | [Western](https://open.spotify.com/track/0Yj69p8rcYLgSfo13eidUK) | [Odessa](https://open.spotify.com/artist/7xtlNrmdLZS2sqIkgWewi1) | [Odessa](https://open.spotify.com/album/4JPCUZpKBMY33wUMjN9nLH) | 1:55 |
 | 36 | [Outlaw](https://open.spotify.com/track/4awD1KZtLOzWML7aHT0foF) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Sleeping in a Car](https://open.spotify.com/album/1HYtOxv874fM6grxLJrsK0) | 2:40 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyQUsU1vj4x.md) - [plain]
 | 95 | [A Church In Ruins \- From The HBO Series True Detective](https://open.spotify.com/track/1nOX0ALAjpYGys5keet5JJ) | [Lera Lynn](https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7) | [A Church In Ruins \(From The HBO Series True Detective\)](https://open.spotify.com/album/1QHLQdd9J4JcJ8FomKvz1v) | 2:52 |
 | 96 | [Sunrise](https://open.spotify.com/track/6Zg0Vuj81fvyCwn7SlUMYV) | [Isobel Campbell](https://open.spotify.com/artist/55dlp5I9jyc4UjzlrcKMnq), [Mark Lanegan](https://open.spotify.com/artist/1fpXM23IoNckJ7NDAm8YJQ) | [Hawk](https://open.spotify.com/album/4vPZUSwLbvknOOo9UJZQVs) | 2:31 |
 
-Snapshot ID: `MTY2NjMyNDgwMCwwMDAwMDAwMDI1ZDA3NmY1OGU3NmM0ZjI3ZDc1NDFhMGFlNzY2Yzc2`
+Snapshot ID: `MTY2NjMyNDgwMCwwMDAwMDAwMDQ2OWI3NmNiMWVlYmQzODBkODY2NWM2YTNlMjlhYWRk`

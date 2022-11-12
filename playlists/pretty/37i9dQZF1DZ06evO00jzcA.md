@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00jzcA.md) - [plain]
 
 > This is KISS\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 371,450 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 371,694 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,11 +18,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00jzcA.md) - [plain]
 | 8 | [Beth](https://open.spotify.com/track/1cPXOzyeZauSAsT1yy7aBp) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Destroyer](https://open.spotify.com/album/59plsPcJYFlSA5ImekNQJ0) | 2:45 |
 | 9 | [Love Gun](https://open.spotify.com/track/0SPBrxOUEMIKugXR4bFhxs) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Love Gun](https://open.spotify.com/album/77opKywcxPnBu5aBMASS2b) | 3:18 |
 | 10 | [Crazy Crazy Nights](https://open.spotify.com/track/3YSfGJNDtF8KrHlwCAaVns) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Crazy Nights](https://open.spotify.com/album/3UBqHwvxUDl6jWxY2RhmrN) | 3:47 |
-| 11 | [I Love It Loud](https://open.spotify.com/track/7yDrKl1J4VWNbR4aLU3qJ7) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Creatures Of The Night](https://open.spotify.com/album/3W0Q8WxZ6yc1nT7lhZuu9t) | 4:15 |
-| 12 | [I Was Made For Lovin' You \- Single Mix](https://open.spotify.com/track/7dEKwMoUZCpvUFLLuJQjju) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [KISS 40](https://open.spotify.com/album/721Qky2RUeTXh0rCmVvqkM) | 4:01 |
+| 11 | [I Was Made For Lovin' You \- Single Mix](https://open.spotify.com/track/7dEKwMoUZCpvUFLLuJQjju) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [KISS 40](https://open.spotify.com/album/721Qky2RUeTXh0rCmVvqkM) | 4:01 |
+| 12 | [I Love It Loud](https://open.spotify.com/track/7yDrKl1J4VWNbR4aLU3qJ7) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Creatures Of The Night](https://open.spotify.com/album/3W0Q8WxZ6yc1nT7lhZuu9t) | 4:15 |
 | 13 | [Hard Luck Woman](https://open.spotify.com/track/1vcZBUX6P6FHXzG2mUfmCE) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Rock And Roll Over](https://open.spotify.com/album/6722nY178mLes49GPldnjj) | 3:34 |
-| 14 | [Shout It Out Loud](https://open.spotify.com/track/3qyHjQ1zTLvPeA99CP3K9N) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Destroyer](https://open.spotify.com/album/59plsPcJYFlSA5ImekNQJ0) | 2:49 |
-| 15 | [God Gave Rock 'N' Roll To You II](https://open.spotify.com/track/1jJenVEjsXClGR4n4vJkMu) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Revenge](https://open.spotify.com/album/70eknRp5bKGdFq0rJ7kA3x) | 5:20 |
+| 14 | [God Gave Rock 'N' Roll To You II](https://open.spotify.com/track/1jJenVEjsXClGR4n4vJkMu) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Revenge](https://open.spotify.com/album/70eknRp5bKGdFq0rJ7kA3x) | 5:20 |
+| 15 | [Shout It Out Loud](https://open.spotify.com/track/3qyHjQ1zTLvPeA99CP3K9N) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Destroyer](https://open.spotify.com/album/59plsPcJYFlSA5ImekNQJ0) | 2:49 |
 | 16 | [Sure Know Something](https://open.spotify.com/track/1HBDWCrQVjrALiOA5rILnE) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Dynasty](https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1) | 4:01 |
 | 17 | [We Are One](https://open.spotify.com/track/0dPPUcfDnvSwK38lLgzKSd) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Psycho Circus](https://open.spotify.com/album/0A4lWyi4wbORjnlf4WmvFd) | 4:41 |
 | 18 | [Rock 'N' Roll All Nite \- Live](https://open.spotify.com/track/19FX445jYl2XFNKvVKJ9NJ) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [MTV Unplugged](https://open.spotify.com/album/5rf66ReWkobYT88G0Ky52y) | 4:19 |
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00jzcA.md) - [plain]
 | 21 | [Every Time I Look At You](https://open.spotify.com/track/0ute0e8bY0FmSEIqDfhrBJ) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Revenge](https://open.spotify.com/album/70eknRp5bKGdFq0rJ7kA3x) | 4:39 |
 | 22 | [Reason To Live](https://open.spotify.com/track/3onHM3etsRdtbTS7cgwkNb) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Crazy Nights](https://open.spotify.com/album/3UBqHwvxUDl6jWxY2RhmrN) | 4:00 |
 | 23 | [Charisma](https://open.spotify.com/track/6afDASlKWMARNxYSrCAAf8) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Dynasty](https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1) | 4:25 |
-| 24 | [Deuce](https://open.spotify.com/track/79EQt03ze9Pr9tAVc2lm5P) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Kiss](https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD) | 3:06 |
-| 25 | [Psycho Circus](https://open.spotify.com/track/1D28pacrVWg8sg7v00l4uR) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Psycho Circus](https://open.spotify.com/album/0A4lWyi4wbORjnlf4WmvFd) | 5:30 |
+| 24 | [Psycho Circus](https://open.spotify.com/track/1D28pacrVWg8sg7v00l4uR) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Psycho Circus](https://open.spotify.com/album/0A4lWyi4wbORjnlf4WmvFd) | 5:30 |
+| 25 | [Deuce](https://open.spotify.com/track/79EQt03ze9Pr9tAVc2lm5P) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Kiss](https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD) | 3:06 |
 | 26 | [Shandi](https://open.spotify.com/track/1aJtdcYdncvyNrVKCcj0eD) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Unmasked](https://open.spotify.com/album/3PlYLejxpxhtJcynfE08vE) | 3:36 |
 | 27 | [God Of Thunder](https://open.spotify.com/track/2CJ9wTckMqRjjVVSLTs8QZ) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Destroyer](https://open.spotify.com/album/59plsPcJYFlSA5ImekNQJ0) | 4:13 |
 | 28 | [Tears Are Falling](https://open.spotify.com/track/1hxt3chzYLAzS4NmSSi5A3) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Asylum](https://open.spotify.com/album/0WDUDVt1ZYTJX8KPwH3ast) | 3:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00jzcA.md) - [plain]
 | 49 | [King Of The Night Time World](https://open.spotify.com/track/3gsoInre1B3i1PJUmhvDYH) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Destroyer](https://open.spotify.com/album/59plsPcJYFlSA5ImekNQJ0) | 3:19 |
 | 50 | [I've Had Enough \(Into The Fire\)](https://open.spotify.com/track/64Ld8TSuVoOGMqiXZ1xg7t) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Animalize](https://open.spotify.com/album/5UxqSH1Ez2fcNVLqvLjsgB) | 3:51 |
 
-Snapshot ID: `Mjc4MDE1OTIsMDAwMDAwMDAwNjlmYTI0ZWE1ZDY2YjkyYTI4NDA1OWRiM2M2MWZkOA==`
+Snapshot ID: `Mjc4MDI5OTksMDAwMDAwMDA0YzYzZTE2MTcwOThjMTVmOWY0ZmE0OTU1NGE4NDA5Nw==`

@@ -4,7 +4,7 @@
 
 > Tracks popping off in the global Afro scene\. Cover: Ayra Starr
 
-94 songs - 4 hr 43 min - [published](https://open.spotify.com/playlist/3nZuXQa2F2MSgHEfT2QpvH)
+95 songs - 4 hr 46 min - [published](https://open.spotify.com/playlist/3nZuXQa2F2MSgHEfT2QpvH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [Falling](https://open.spotify.com/track/7CGwYCUFYdGKuW3KNYtw6K) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Falling](https://open.spotify.com/album/0FVNUQpXBN55azvwBh4hhr) | 2:45 | 2022-07-13 | 2022-09-18 |
 | [Falling](https://open.spotify.com/track/3HfwFXzBr7AwLKHyLPGWHL) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR) | [Connecting the Dots](https://open.spotify.com/album/1q6SQV8J22Is1SsgKAh4eJ) | 2:45 | 2022-09-15 |  |
 | [Finesse](https://open.spotify.com/track/3UqcIgObI7zZk8e7nvqmfc) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Finesse](https://open.spotify.com/album/09eq0dG75Fddf2HAHOotDx) | 2:31 | 2022-07-13 | 2022-07-29 |
-| [Finesse](https://open.spotify.com/track/4Gasn91fsCefnN8zM5GjA8) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Finesse](https://open.spotify.com/album/4QEC4uzBJJfLVv2bD337g1) | 2:35 | 2022-07-28 |  |
+| [Finesse](https://open.spotify.com/track/4Gasn91fsCefnN8zM5GjA8) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Finesse](https://open.spotify.com/album/4QEC4uzBJJfLVv2bD337g1) | 2:35 | 2022-07-28 | 2022-11-12 |
+| [Finesse](https://open.spotify.com/track/6H4z94Rq4Gz7SzL7VmpGRR) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Top Hits UK](https://open.spotify.com/album/49d0Ii0oCrS9BshhcpLRhr) | 2:35 | 2022-11-10 |  |
 | [Gentility](https://open.spotify.com/track/3vXFxsPqMgw4SYP7fkWicM) | [melvitto](https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Gentility \(feat\. Wande Coal\)](https://open.spotify.com/album/6v8LdWReU2z42hUXe7VdMg) | 3:45 | 2022-07-13 |  |
 | [Handle Me \(feat\. Adekunle Gold\)](https://open.spotify.com/track/4dLfcjzMHZAVgnmuglRvhY) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Handle Me \(feat\. Adekunle Gold\)](https://open.spotify.com/album/3Cd3jHPeIl4euaDfPIccK4) | 2:47 | 2022-09-22 |  |
 | [Holy Gee](https://open.spotify.com/track/3Y8PRiBMczgHn3edpbCkfb) | [Cheque](https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM) | [Holy Gee](https://open.spotify.com/album/6G5EqRXFllg0YGv6sXk5IP) | 2:44 | 2022-08-25 |  |

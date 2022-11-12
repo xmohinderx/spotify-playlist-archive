@@ -4,7 +4,7 @@
 
 > A mix of folk and bluegrass covers of pop, rock, hip\-hop, folk, and indie songs\. Cover: Front Country
 
-176 songs - 11 hr 11 min - [published](https://open.spotify.com/playlist/6j3EUqB0DJZF4yMM5cX435)
+177 songs - 11 hr 16 min - [published](https://open.spotify.com/playlist/6j3EUqB0DJZF4yMM5cX435)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,8 +153,9 @@
 | [Sweet Child O' Mine](https://open.spotify.com/track/28LJVZ5PfkIboFoW0J4GgE) | [Pickin' On Series](https://open.spotify.com/artist/6AEIKVwB27miPI3uJxM4Dw), [Iron Horse](https://open.spotify.com/artist/1v3CnxHAtLMfZW8v5dGj7t) | [The Bluegrass Tribute to Guns N' Roses](https://open.spotify.com/album/1H1Flaszhxw2xhynLotNCN) | 4:01 | 2021-08-20 |  |
 | [Take Me Home, Country Roads](https://open.spotify.com/track/6b5vrTPZKmnDgvf3URdOOe) | [Southern Raised](https://open.spotify.com/artist/4R6Hnjk4k3QzifbwQ05NQH) | [Take Me Home, Country Roads](https://open.spotify.com/album/1mYzbWj0oTiGfhslwKprO4) | 3:39 | 2022-05-27 |  |
 | [Take On Me](https://open.spotify.com/track/6xAdFwLNed6786FezhUMVS) | [Love Canon](https://open.spotify.com/artist/6g4kxAF2OVE5eZh2aMMNjJ) | [Greatest Hits Vol\. 2](https://open.spotify.com/album/2WcSVdRwyvMHAnZKq0FvdE) | 3:44 | 2021-08-20 |  |
+| [The Boxer](https://open.spotify.com/track/4vJfFgFj5kZMplZUeJ60aF) | [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9), [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Babel \(Deluxe Version\)](https://open.spotify.com/album/3FfuUD3Je9t9tQq80Zq41y) | 4:05 | 2022-10-07 |  |
 | [The Boxer feat\. Mumford & Sons and Paul Simon](https://open.spotify.com/track/5sqhKYHmQSGmGWzrgyL2nc) | [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9), [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Traveler](https://open.spotify.com/album/0aa0FrL0JlVE7MMgszjYvP) | 4:05 | 2022-01-21 | 2022-07-29 |
-| [The Boxer feat\. Mumford & Sons and Paul Simon](https://open.spotify.com/track/73C8vVm2BRLLBQ8FH6N6Qm) | [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9), [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI), [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Traveler](https://open.spotify.com/album/6YNQ1O9C5AVtOGEPIIwkAG) | 4:05 | 2022-05-27 |  |
+| [The Boxer feat\. Mumford & Sons and Paul Simon](https://open.spotify.com/track/73C8vVm2BRLLBQ8FH6N6Qm) | [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9), [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI), [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Traveler](https://open.spotify.com/album/6YNQ1O9C5AVtOGEPIIwkAG) | 4:05 | 2022-05-27 | 2022-11-12 |
 | [The Boys of Summer](https://open.spotify.com/track/4q7wdKi7TnNdx4zA9MVLP7) | [Front Country](https://open.spotify.com/artist/0wtrcS7HMXw3IHKCSr2szj) | [Mixtape](https://open.spotify.com/album/7c56Fm3gKUmD0HYm2PvvRN) | 5:10 | 2021-08-20 |  |
 | [The Way You Make Me Feel](https://open.spotify.com/track/11q3nuWgsWqcrlyiJHUanA) | [Honeywagon](https://open.spotify.com/artist/1wky7WkIkB0dvbzUShNpqx) | [Songs From Neverland](https://open.spotify.com/album/5bnpTjo2c8LCWIxGL15E61) | 3:13 | 2021-08-20 |  |
 | [This Must Be the Place \(Naive Melody\) \[by Talking Heads\]](https://open.spotify.com/track/0udJrKQOgJz6TwZXuhi7IM) | [Kishi Bashi](https://open.spotify.com/artist/3LVPGE5jPPwtbGslx07YR0) | [7" Singles](https://open.spotify.com/album/7JE9DRRB2m7IG1lvlztQ8q) | 3:26 | 2021-08-20 | 2022-07-29 |

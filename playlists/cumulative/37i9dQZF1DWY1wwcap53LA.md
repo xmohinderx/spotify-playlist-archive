@@ -4,7 +4,7 @@
 
 > Country music making waves\. Cover: Shaboozey
 
-117 songs - 6 hr 4 min - [published](https://open.spotify.com/playlist/2oo6Fd5OoiJz8X71tS41jA)
+118 songs - 6 hr 8 min - [published](https://open.spotify.com/playlist/2oo6Fd5OoiJz8X71tS41jA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,8 @@
 | [For What It’s Worth](https://open.spotify.com/track/1r2dzf8CUPxJWhmJQKbC8p) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Cross Country](https://open.spotify.com/album/3I72c7nfxXdDDSPF04opm0) | 2:55 | 2022-09-09 |  |
 | [Forgive Me](https://open.spotify.com/track/7E1bYsLt7mW2uKXWPkPTvV) | [Norman North](https://open.spotify.com/artist/3qKHegS8r4Q08xagEIJwez) | [Forgive Me](https://open.spotify.com/album/4X64MJY6iHzrof50wWz3MZ) | 2:40 | 2022-07-22 |  |
 | [Found It in You](https://open.spotify.com/track/0t0ODvxpVPS2dcGGTgsnq9) | [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1) | [Found It in You](https://open.spotify.com/album/3CWvXdSg4Q19ypUaOwB0SI) | 3:14 | 2021-12-03 | 2022-07-29 |
-| [Found It In You \- Demo](https://open.spotify.com/track/6PiD58522iUZHJETf0zbAu) | [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1) | [Tiera](https://open.spotify.com/album/50jNCjQGuhYEG5z6iVmzRC) | 3:14 | 2022-07-22 |  |
+| [Found It In You \- Demo](https://open.spotify.com/track/3fxdDyb210do0g53rbJ0tW) | [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1) | [Best Country Valentine's Day 2022](https://open.spotify.com/album/7IrYsuVvc201LLeuzLP85g) | 3:14 | 2022-10-14 |  |
+| [Found It In You \- Demo](https://open.spotify.com/track/6PiD58522iUZHJETf0zbAu) | [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1) | [Tiera](https://open.spotify.com/album/50jNCjQGuhYEG5z6iVmzRC) | 3:14 | 2022-07-22 | 2022-11-12 |
 | [Freedom Was A Highway](https://open.spotify.com/track/3J5jotqUAjU479WhAiNkpU) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Bettie James](https://open.spotify.com/album/7wftPNQFSMYlpxzNMPHo1h) | 3:32 | 2021-12-03 |  |
 | [GAS!](https://open.spotify.com/track/3QsIonKmbe7lollXunUVRZ) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [GAS!](https://open.spotify.com/album/5ymTB3P1DqX0fbIHvWeb8F) | 2:28 | 2022-06-17 |  |
 | [Get Low, Get High](https://open.spotify.com/track/7n4HT2w1thbnN6MhbamJMU) | [Willie Jones](https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM) | [Get Low, Get High](https://open.spotify.com/album/3UuVq0rn3sNPtQew0f3XcS) | 2:44 | 2021-12-03 | 2022-09-03 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdV3Fs5eWjC.md) - [plain]
 
 > Discover the multifaceted creativity of the black queer community\. Cover: Honey Dijon
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,512 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,521 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdV3Fs5eWjC.md) - [plain]
 | 18 | [Pynk \(feat\. Grimes\)](https://open.spotify.com/track/5OpiyfqaQLdtwHd3SfembH) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Dirty Computer](https://open.spotify.com/album/2PjlaxlMunGOUvcRzlTbtE) | 4:00 |
 | 19 | [Wasteland](https://open.spotify.com/track/0NmnFMWMkTETNANGpVVqyc) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5) | [Wasteland](https://open.spotify.com/album/2eRmy99Sn63h90imFr84Be) | 3:03 |
 | 20 | [Aye Day Pay Day](https://open.spotify.com/track/4FRldwNovP8muUNJi0TifE) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Aye Day Pay Day](https://open.spotify.com/album/2nln0OkUaKQIoPrirm15ZY) | 2:12 |
-| 21 | [Firefly](https://open.spotify.com/track/5n2xMZmypRAUKW4PkTMy9A) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Firefly](https://open.spotify.com/album/3JywE0BWNUCTqvd9IWshdp) | 3:18 |
-| 22 | [Body Move](https://open.spotify.com/track/4ymwozmsZ75AyUUTRhSOcQ) | [Dizzy Fae](https://open.spotify.com/artist/0jt1EsJCeoQXLNDta4JF6c) | [Body Move](https://open.spotify.com/album/4DEf7dix4OkYsi4bpsstRU) | 2:57 |
+| 21 | [Body Move](https://open.spotify.com/track/4ymwozmsZ75AyUUTRhSOcQ) | [Dizzy Fae](https://open.spotify.com/artist/0jt1EsJCeoQXLNDta4JF6c) | [Body Move](https://open.spotify.com/album/4DEf7dix4OkYsi4bpsstRU) | 2:57 |
+| 22 | [Firefly](https://open.spotify.com/track/5n2xMZmypRAUKW4PkTMy9A) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Firefly](https://open.spotify.com/album/3JywE0BWNUCTqvd9IWshdp) | 3:18 |
 | 23 | [Girl Blunt](https://open.spotify.com/track/1lAGdqI4Wwa8G0XTP6VqHl) | [Leikeli47](https://open.spotify.com/artist/0DtXHIvJ8NWBg5pGvsgWnR) | [Acrylic](https://open.spotify.com/album/69GP3by8YMB8yz0pG03DWl) | 3:25 |
 | 24 | [macrodosing \- Spotify Singles](https://open.spotify.com/track/7BDQqjYCBiqtEuDzWtUaln) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [macrodosing \- Spotify Singles](https://open.spotify.com/album/5TGRGz8e1vdknsuShTrBZr) | 2:50 |
 | 25 | [Green Eyes](https://open.spotify.com/track/36qo9oMO8yRrZMsDcd5x83) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Green Eyes](https://open.spotify.com/album/4EXAihXfy75Ly68SzicZUp) | 3:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdV3Fs5eWjC.md) - [plain]
 | 49 | [Shisha](https://open.spotify.com/track/3GQ4WtNBEax7cYRGBNM0Js) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Keep It Playa](https://open.spotify.com/album/1CIY3PA833LK8TVJpsSOvS) | 3:12 |
 | 50 | [Greed](https://open.spotify.com/track/5PPzJ8kLOfIftp75EnrT1z) | [rum.gold](https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB) | [Greed](https://open.spotify.com/album/4IljiFpC1WkmcFkQUbuL8L) | 3:45 |
 
-Snapshot ID: `MTY2NDc2MDExMCwwMDAwMDAwMGRmZjU4NGUzNWI3YTQwY2I0NmY1NzY3MmMxMDBlM2E5`
+Snapshot ID: `MTY2NDc2MDExMCwwMDAwMDAwMDZhMGNmNzlkNzU2YzNkMzU2NDIwYzlmN2NkNjc2ZDQ3`

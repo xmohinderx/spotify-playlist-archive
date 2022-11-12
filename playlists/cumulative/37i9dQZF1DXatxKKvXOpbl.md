@@ -4,7 +4,7 @@
 
 > Uma seleção good vibes pra você trabalhar de boa!
 
-159 songs - 9 hr 23 min - [published](https://open.spotify.com/playlist/09fWrA6IYnwxJenU0brBIZ)
+161 songs - 9 hr 30 min - [published](https://open.spotify.com/playlist/09fWrA6IYnwxJenU0brBIZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,14 +89,16 @@
 | [Magic](https://open.spotify.com/track/27jdUE1EYDSXZqhjuNxLem) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Magic](https://open.spotify.com/album/4cCfFozyo6JC8acN8uIP7u) | 4:45 | 2021-03-05 | 2022-07-29 |
 | [Mariposa](https://open.spotify.com/track/4ja2gzrNh9VNigzoXfmbwD) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Mariposa](https://open.spotify.com/album/0vpGo2ef7QNOKQHtd7qZeh) | 3:30 | 2021-03-05 |  |
 | [Memories](https://open.spotify.com/track/2b8fOow8UzyDFAE27YhOZM) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Memories](https://open.spotify.com/album/3nR9B40hYLKLcR0Eph3Goc) | 3:09 | 2021-03-05 | 2022-07-29 |
-| [Memories](https://open.spotify.com/track/4cktbXiXOapiLBMprHFErI) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [JORDI \(Deluxe\)](https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU) | 3:09 | 2021-03-05 |  |
+| [Memories](https://open.spotify.com/track/33YkmfGXbrD91mf3qprC2j) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Summer Pool Party 2021](https://open.spotify.com/album/4lzPJSvH3dGu37ZMFNCsbH) | 3:09 | 2022-10-14 |  |
+| [Memories](https://open.spotify.com/track/4cktbXiXOapiLBMprHFErI) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [JORDI \(Deluxe\)](https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU) | 3:09 | 2021-03-05 | 2022-11-12 |
 | [Moral of the Story \(feat\. Niall Horan\)](https://open.spotify.com/track/2NWVdwbd2hPIzC2lyf4y63) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM), [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Moral of the Story \(feat\. Niall Horan\)](https://open.spotify.com/album/3pqw4TEWnaCDNK2xs0BKhr) | 3:18 | 2021-03-05 |  |
 | [Movimento \- Spotify Singles](https://open.spotify.com/track/1U3oUPST65OhAz9PG4eAVv) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [Movimento \- Spotify Singles](https://open.spotify.com/album/21HW4JmG3uIqsHLExLFQnZ) | 2:38 | 2022-10-14 |  |
 | [my future](https://open.spotify.com/track/2ygvZOXrIeVL4xZmAWJT2C) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [my future](https://open.spotify.com/album/3oxhQpF3Twbkl18oQYfnh5) | 3:28 | 2021-03-05 |  |
 | [My Oasis \(feat\. Burna Boy\)](https://open.spotify.com/track/2KoHxhRyWxJzA0VafWd5Nk) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [My Oasis \(feat\. Burna Boy\)](https://open.spotify.com/album/2eBIVchjZqWwwe7P8OmY0Q) | 2:59 | 2021-03-05 |  |
 | [Nariz Con Raíz](https://open.spotify.com/track/5ijJhZPMHeDljcpmgC2lLp) | [Briela Ojeda](https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo) | [TEMPLO KOMODO](https://open.spotify.com/album/0ju8Ri6jnaQllxgAnkoPXA) | 5:10 | 2021-03-05 |  |
 | [Never Had](https://open.spotify.com/track/6BUZERWFUMJmiWyMW0qH1p) | [Forrest.](https://open.spotify.com/artist/6chWbUfdu6ibyaCXM1w8kQ) | [Never Had](https://open.spotify.com/album/2ZvYrGPgoLTN7SM7JAys7V) | 2:32 | 2021-03-05 |  |
-| [Never Not](https://open.spotify.com/track/3ZPBZH2k9p306C1bu7bkhC) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I met you when I was 18\. \(the playlist\)](https://open.spotify.com/album/71cQY3dUThCY6vVKaUIXqR) | 3:28 | 2022-10-14 |  |
+| [Never Not](https://open.spotify.com/track/1XyYyfR9JaWCFzf0AyOsyl) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [\~I MISS YOU\~](https://open.spotify.com/album/1VyxpCBlTNsOb2f7HN3XAL) | 3:28 | 2022-10-14 |  |
+| [Never Not](https://open.spotify.com/track/3ZPBZH2k9p306C1bu7bkhC) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I met you when I was 18\. \(the playlist\)](https://open.spotify.com/album/71cQY3dUThCY6vVKaUIXqR) | 3:28 | 2022-10-14 | 2022-11-12 |
 | [Never Not](https://open.spotify.com/track/4fFfyouye6vrX9o9z4PVMu) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I met you when I was 18\. \(the playlist\)](https://open.spotify.com/album/7lqieLm717j9Z8JrG7POkS) | 3:28 | 2021-03-05 | 2022-11-02 |
 | [New Light](https://open.spotify.com/track/3bH4HzoZZFq8UpZmI2AMgV) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [New Light](https://open.spotify.com/album/5fEgDYFPUcvQy21TYoLEZ0) | 3:36 | 2021-03-05 | 2022-07-29 |
 | [New Light](https://open.spotify.com/track/4T6FWA703h6H7zk1FoSARw) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 3:37 | 2021-03-05 | 2022-11-11 |

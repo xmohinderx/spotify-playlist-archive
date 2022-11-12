@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvzw24ukZEU.md) - [plain]
 
 > Relax to the the rhythm of these smooth Latin tunes of the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,779 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,901 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvzw24ukZEU.md) - [plain]
 | 43 | [Cancioncitas de Amor](https://open.spotify.com/track/6bcdiJvYNX115yvbh3wASz) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Fórmula, Vol\. 2 \(Deluxe Edition\)](https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L) | 3:57 |
 | 44 | [Deja vu](https://open.spotify.com/track/46HdsiK0uR26B2dY9QPzda) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [FIVE \(Deluxe Edition\)](https://open.spotify.com/album/7fIqsFfeYEEP9RO25KHj8P) | 3:16 |
 | 45 | [Lo Que Construimos](https://open.spotify.com/track/5wWxUdgn2OugIOvLJOdreH) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Hasta la Raíz \(Edición Especial\)](https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv) | 4:39 |
-| 46 | [Hoja en Blanco](https://open.spotify.com/track/3yjU1r7jlFvZHeidCjulpq) | [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [10 Años \(En Vivo\)](https://open.spotify.com/album/3TqROuIEoAYivO3pCfiiBA) | 4:42 |
-| 47 | [Ecos De Amor](https://open.spotify.com/track/3lI5dscCDez8cF6LF3Me7F) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Un Besito Más](https://open.spotify.com/album/6pmTwCb5SeTjV9wdnkbDo3) | 3:35 |
+| 46 | [Ecos De Amor](https://open.spotify.com/track/3lI5dscCDez8cF6LF3Me7F) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Un Besito Más](https://open.spotify.com/album/6pmTwCb5SeTjV9wdnkbDo3) | 3:35 |
+| 47 | [Hoja en Blanco](https://open.spotify.com/track/3yjU1r7jlFvZHeidCjulpq) | [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [10 Años \(En Vivo\)](https://open.spotify.com/album/3TqROuIEoAYivO3pCfiiBA) | 4:42 |
 | 48 | [Sigues Con El](https://open.spotify.com/track/7sQKy5vlPQllr0k9IjYJv3) | [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx) | [Sigues Con El](https://open.spotify.com/album/1y0pdsLO6cixGzAv7Sf8rf) | 3:46 |
 | 49 | [Deixa \(feat\. Ana Gabriela\)](https://open.spotify.com/track/3fLqmaO4vvZpFZSZy52VMp) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD), [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [Deixa \(feat\. Ana Gabriela\)](https://open.spotify.com/album/5y1vdBmkTHZNGCz5qswQzM) | 2:56 |
 | 50 | [Mi Bendición](https://open.spotify.com/track/5fF0fb0VFihGDHFshDLi2Z) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Asondeguerra](https://open.spotify.com/album/2LqYd5gIJxEvG5md8kGeyL) | 3:08 |
 
-Snapshot ID: `MTY2MTkzMDU4MiwwMDAwMDAwMDhmZDZmM2U1YWY0Mzg3MzlkNDZlOTMzMDFkNTJiNWNl`
+Snapshot ID: `MTY2MTkzMDU4MiwwMDAwMDAwMDY4ZTdmODk1ZWIwNTAxNDY0N2ZlZmZjNzZiNzNkYzMz`

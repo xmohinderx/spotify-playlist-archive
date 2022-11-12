@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6pSsE5y0uJMwYj83KrPyf9">Dawn Richard</a>'s favorite tracks\. Updated regularly\. Curated by Dawn Richard\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-72 songs - 4 hr 36 min - [published](https://open.spotify.com/playlist/0jqxyVDehbifbJp5LcYEor)
+73 songs - 4 hr 39 min - [published](https://open.spotify.com/playlist/0jqxyVDehbifbJp5LcYEor)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,8 @@
 | [THE DEATH OF PEACE OF MIND](https://open.spotify.com/track/070TMc1fjJGBGxxmf1DIbD) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [THE DEATH OF PEACE OF MIND](https://open.spotify.com/album/2Lk43Ib2RErp5YVfbJDo7H) | 4:01 | 2022-04-25 | 2022-11-05 |
 | [THE DEATH OF PEACE OF MIND](https://open.spotify.com/track/6tRneEcItwpSxBtqgem5Dr) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [THE DEATH OF PEACE OF MIND](https://open.spotify.com/album/3p7m1Pmg6n3BlpL9Py7IUA) | 4:01 | 2022-04-25 |  |
 | [time machine](https://open.spotify.com/track/7woXCUnTmhT5bjnrSbucAQ) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [time machine](https://open.spotify.com/album/6TPeuDAS4Bo24rgZTE0go6) | 2:10 | 2022-04-11 |  |
-| [Traveling Blind](https://open.spotify.com/track/35XfDzvI1jR8wFzYVPtMvy) | [Faces on TV](https://open.spotify.com/artist/3lLMK7bxYJxcaeThcvL8NJ) | [Traveling Blind](https://open.spotify.com/album/4bCrbth0Gax6MBXXQ8SKZZ) | 3:35 | 2022-05-06 |  |
+| [Traveling Blind](https://open.spotify.com/track/35XfDzvI1jR8wFzYVPtMvy) | [Faces on TV](https://open.spotify.com/artist/3lLMK7bxYJxcaeThcvL8NJ) | [Traveling Blind](https://open.spotify.com/album/4bCrbth0Gax6MBXXQ8SKZZ) | 3:35 | 2022-05-06 | 2022-11-12 |
+| [Traveling Blind](https://open.spotify.com/track/5DlqIjt7z45BDTRVdvlqpI) | [Faces on TV](https://open.spotify.com/artist/3lLMK7bxYJxcaeThcvL8NJ) | [Traveling Blind](https://open.spotify.com/album/76XJq3lpUPoIJsvDxBGIif) | 3:35 | 2022-05-06 |  |
 | [U\. \- Junior Sanchez Remix](https://open.spotify.com/track/78K3N4N9BLS9nKUxINO3Zg) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG), [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9), [Junior Sanchez](https://open.spotify.com/artist/31ZNfGVEEcI9CyicPVJQni) | [U\. \(Junior Sanchez Remix\)](https://open.spotify.com/album/6LPE0OjnmnzfNNQcU2D4E8) | 2:44 | 2022-04-11 |  |
 | [Unavailable](https://open.spotify.com/track/6hi2SU53dvRJcko8Esqt7g) | [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx), [R3LL](https://open.spotify.com/artist/1oIdLFKLJx0NicqeiEvBj5) | [Unavailable](https://open.spotify.com/album/1AMwkyhrdiuLaRksmvT6kS) | 3:21 | 2022-04-11 |  |
 | [Valley of the Dolls](https://open.spotify.com/track/7bkSI07biaySDgzQtVnp5Z) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [I Don't Want: The Gold Fire Sessions](https://open.spotify.com/album/4cml5zEheYJwbRmFlieis9) | 4:16 | 2022-04-11 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Dos estilos, dos sonidos, un mismo origen: El Barrio. Tornillo en portada.",
-  "num_followers": 95727,
+  "num_followers": 95830,
   "original_name": "El Barrio MP3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Nzg2NjcyMiwwMDAwMDAwMGU2ZGQxZWI5MWI3YTliZDY1NDhkMTExOWViMzIxOTNi",
+  "snapshot_id": "MTY2Nzg2NjcyMiwwMDAwMDAwMDYwOGRjZjM1ZWVhOTc3ZjMzNDY4YzNkMmU5MTE5ZGEy",
   "tracks": [
     {
       "added_at": "2022-11-07 23:46:55",
@@ -445,20 +445,24 @@
       "url": "https://open.spotify.com/track/0vNtFN67TIMgDokyyuUUwA"
     },
     {
-      "added_at": "2022-10-28 05:00:00",
+      "added_at": "2022-09-30 05:00:00",
       "album": {
-        "name": "Selfies",
-        "url": "https://open.spotify.com/album/0Y3SGJirAfnpaRUqi3vNMg"
+        "name": "Los Collares",
+        "url": "https://open.spotify.com/album/1JKGaS4Mr4ZjFRlbDbAFzf"
       },
       "artists": [
         {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "El Padrinito Toys",
+          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
         }
       ],
-      "duration_ms": 180007,
-      "name": "Selfies",
-      "url": "https://open.spotify.com/track/7JZCzh0bOodHRR4ctUdWft"
+      "duration_ms": 148793,
+      "name": "Los Collares",
+      "url": "https://open.spotify.com/track/46FdwGMcgz6gik4RCpWBAW"
     },
     {
       "added_at": "2022-09-23 05:00:00",
@@ -481,24 +485,20 @@
       "url": "https://open.spotify.com/track/15UfWisTMmHsMjkUUEAoAa"
     },
     {
-      "added_at": "2022-09-30 05:00:00",
+      "added_at": "2022-10-28 05:00:00",
       "album": {
-        "name": "Los Collares",
-        "url": "https://open.spotify.com/album/1JKGaS4Mr4ZjFRlbDbAFzf"
+        "name": "Selfies",
+        "url": "https://open.spotify.com/album/0Y3SGJirAfnpaRUqi3vNMg"
       },
       "artists": [
         {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        },
-        {
-          "name": "El Padrinito Toys",
-          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
         }
       ],
-      "duration_ms": 148793,
-      "name": "Los Collares",
-      "url": "https://open.spotify.com/track/46FdwGMcgz6gik4RCpWBAW"
+      "duration_ms": 180007,
+      "name": "Selfies",
+      "url": "https://open.spotify.com/track/7JZCzh0bOodHRR4ctUdWft"
     },
     {
       "added_at": "2022-09-23 05:00:00",

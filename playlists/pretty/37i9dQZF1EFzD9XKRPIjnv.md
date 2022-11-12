@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0JLbaF5wHm7PYeI06NPRsa">Sarah Aarons</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,416 likes - 116 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,418 likes - 116 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 | 94 | [Personally](https://open.spotify.com/track/4OnSrRXUfzhD6jkaB9NWYF) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Only Honest On The Weekend \(Deluxe\)](https://open.spotify.com/album/3sG8tSb0NOMsn2nmf8v9KA) | 3:41 |
 | 95 | [Takes Two](https://open.spotify.com/track/1qYasLtXkp2bXcxyGIxb53) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [GIRL](https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf) | 3:33 |
 | 96 | [House](https://open.spotify.com/track/1dqQSYy1Hny4okA5GABysg) | [The McClymonts](https://open.spotify.com/artist/3rQZpe0EHJWXItfc2OzzKf) | [Endless](https://open.spotify.com/album/4cY2oRQAxm4TgstWzhIBWl) | 3:21 |
-| 97 | [Right Back](https://open.spotify.com/track/0Y4dxwK1dygWxLJcJZADdF) | [Miquela](https://open.spotify.com/artist/7licaqhcEBQUzz9FownRaJ) | [Right Back](https://open.spotify.com/album/1VrkLeqgalSbnyNXkHsmbM) | 3:14 |
-| 98 | [Too High](https://open.spotify.com/track/6K90HAZnW5jrYMqMeI54BJ) | [Hermitude](https://open.spotify.com/artist/3fmMaLC5jjf2N4EC2kTx0u) | [Too High](https://open.spotify.com/album/2t4h2ecBsgjoaQ2rRg9RVt) | 3:02 |
-| 99 | [Ripple](https://open.spotify.com/track/6oEC3xbIgUG2TEUXZXUFCv) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Chrome Sparks](https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM) | [Ripple](https://open.spotify.com/album/2SxQzTgVzdpzQwSNrTARks) | 3:34 |
+| 97 | [Ripple](https://open.spotify.com/track/6oEC3xbIgUG2TEUXZXUFCv) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Chrome Sparks](https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM) | [Ripple](https://open.spotify.com/album/2SxQzTgVzdpzQwSNrTARks) | 3:34 |
+| 98 | [Right Back](https://open.spotify.com/track/0Y4dxwK1dygWxLJcJZADdF) | [Miquela](https://open.spotify.com/artist/7licaqhcEBQUzz9FownRaJ) | [Right Back](https://open.spotify.com/album/1VrkLeqgalSbnyNXkHsmbM) | 3:14 |
+| 99 | [Too High](https://open.spotify.com/track/6K90HAZnW5jrYMqMeI54BJ) | [Hermitude](https://open.spotify.com/artist/3fmMaLC5jjf2N4EC2kTx0u) | [Too High](https://open.spotify.com/album/2t4h2ecBsgjoaQ2rRg9RVt) | 3:02 |
 | 100 | [Grow](https://open.spotify.com/track/0LugbsjGtC0vOv87uqQN1W) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [How To Let Go](https://open.spotify.com/album/4V714KyABj469FBI9Dao8T) | 3:13 |
 | 101 | [Thinking Out Loud](https://open.spotify.com/track/4pEzun7X6uBBrFIwfomqn1) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Art Dealer Chic 4](https://open.spotify.com/album/0HjWJuW1StzouaOWndsxt9) | 3:10 |
 | 102 | [Lonely Walls](https://open.spotify.com/track/4LCaPu4CHDCMRWKFuNgjH1) | [PON CHO](https://open.spotify.com/artist/2NYOggWBPKbqdEYs7jUr1n), [Paige IV](https://open.spotify.com/artist/7FhrJLDe6bQ0Hqt9Wf7zXh) | [Lonely Walls](https://open.spotify.com/album/0flfw3It14JDz4DqI5z5M0) | 3:09 |
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 | 115 | [Broken Home \- From "Empire: Season 6"](https://open.spotify.com/track/4dkn6avuOxa9hwnk9507KQ) | [Empire Cast](https://open.spotify.com/artist/7EjxNoVjXo7gL73F2EdXVA), [Alexandra Grey](https://open.spotify.com/artist/6VW8RmPy2TkeibNTFafG6n) | [Broken Home \(From "Empire: Season 6"\)](https://open.spotify.com/album/1pQ8f3ulVNTU3WZytYxMb6) | 3:20 |
 | 116 | [Trust Issues](https://open.spotify.com/track/1pF2jde5bhVXkDlWyl7N03) | [Aaron](https://open.spotify.com/artist/556QXf5aTw46XDZ9swLCYE) | [Trust Issues](https://open.spotify.com/album/0NU1WYWYXzGtC4SwkOsxD4) | 3:21 |
 
-Snapshot ID: `Mjc4MDIxNTIsMDAwMDAwMDA5N2I0ZTc2YzM1ODczYzQxZmQzZmE0NTE3YTE3YjI4NQ==`
+Snapshot ID: `Mjc4MDM4MzIsMDAwMDAwMDA4YzJlZTcxNTlkN2Q1NmFiOTYyZjU3YTEyZGY4MmJhNw==`

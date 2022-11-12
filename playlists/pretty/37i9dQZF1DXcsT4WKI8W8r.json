@@ -1,12 +1,12 @@
 {
   "description": "A playlist to get you through your whole workday.",
-  "num_followers": 239166,
+  "num_followers": 239249,
   "original_name": "Music for a Workday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxOTc3MTYzMSwwMDAwMDAwMDY1Zjk4Y2ExMTZkYjk1NDMzYjA3Zjg1MWZmMWIxOGM1",
+  "snapshot_id": "MTYxOTc3MTYzMSwwMDAwMDAwMGQzOGVhNGM1MzMyZGQzNTRhOWI5ODIzZjA4NDE5YjBh",
   "tracks": [
     {
       "added_at": "2021-04-30 08:33:50",
@@ -23,22 +23,6 @@
       "duration_ms": 174000,
       "name": "Watermelon Sugar",
       "url": "https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY"
-    },
-    {
-      "added_at": "2021-04-30 08:33:50",
-      "album": {
-        "name": "TALKING IS HARD",
-        "url": "https://open.spotify.com/album/3mNoFlD1wsoXfkljfFzExT"
-      },
-      "artists": [
-        {
-          "name": "WALK THE MOON",
-          "url": "https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic"
-        }
-      ],
-      "duration_ms": 199080,
-      "name": "Shut Up and Dance",
-      "url": "https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA"
     },
     {
       "added_at": "2021-04-30 08:33:50",
@@ -63,22 +47,18 @@
     {
       "added_at": "2021-04-30 08:33:50",
       "album": {
-        "name": "United",
-        "url": "https://open.spotify.com/album/5LqviduT0g0J0ypFrFSwCE"
+        "name": "TALKING IS HARD",
+        "url": "https://open.spotify.com/album/3mNoFlD1wsoXfkljfFzExT"
       },
       "artists": [
         {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        },
-        {
-          "name": "Tammi Terrell",
-          "url": "https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8"
+          "name": "WALK THE MOON",
+          "url": "https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic"
         }
       ],
-      "duration_ms": 151666,
-      "name": "Ain't No Mountain High Enough",
-      "url": "https://open.spotify.com/track/7tqhbajSfrz2F7E1Z75ASX"
+      "duration_ms": 199080,
+      "name": "Shut Up and Dance",
+      "url": "https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA"
     },
     {
       "added_at": "2021-04-30 08:33:50",
@@ -147,22 +127,6 @@
     {
       "added_at": "2021-04-30 08:33:50",
       "album": {
-        "name": "summer,",
-        "url": "https://open.spotify.com/album/6Whp0T7d1SAt4gDUNkWWD1"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Zucker",
-          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
-        }
-      ],
-      "duration_ms": 181613,
-      "name": "comethru",
-      "url": "https://open.spotify.com/track/18uwL0vNUanqZH0ro2QcOP"
-    },
-    {
-      "added_at": "2021-04-30 08:33:50",
-      "album": {
         "name": "Heart Shaped World",
         "url": "https://open.spotify.com/album/5Das42Qx4AoU9iT4M7PW3U"
       },
@@ -191,22 +155,6 @@
       "duration_ms": 228000,
       "name": "Bette Davis Eyes",
       "url": "https://open.spotify.com/track/0odIT9B9BvOCnXfS0e4lB5"
-    },
-    {
-      "added_at": "2021-04-30 08:33:50",
-      "album": {
-        "name": "The Very Best of Bonnie Tyler",
-        "url": "https://open.spotify.com/album/0VJI3wpebzRyVHq0eZQidb"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Tyler",
-          "url": "https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2"
-        }
-      ],
-      "duration_ms": 267360,
-      "name": "Total Eclipse of the Heart",
-      "url": "https://open.spotify.com/track/7wuJGgpTNzbUyn26IOY6rj"
     },
     {
       "added_at": "2021-04-30 08:33:50",
@@ -291,22 +239,6 @@
     {
       "added_at": "2021-04-30 08:33:50",
       "album": {
-        "name": "Into The Light",
-        "url": "https://open.spotify.com/album/5Yi08NDFoVAnvHoXqpp9O5"
-      },
-      "artists": [
-        {
-          "name": "Chris de Burgh",
-          "url": "https://open.spotify.com/artist/2RpHsROrX075xfIwHn6B2U"
-        }
-      ],
-      "duration_ms": 256173,
-      "name": "The Lady In Red",
-      "url": "https://open.spotify.com/track/1GeNWyZtCHbcp3ZWp8GTOO"
-    },
-    {
-      "added_at": "2021-04-30 08:33:50",
-      "album": {
         "name": "The Thrill Of It All (Special Edition)",
         "url": "https://open.spotify.com/album/3XftSbguntyRTBQaGItmfK"
       },
@@ -351,22 +283,6 @@
       "duration_ms": 216773,
       "name": "I Say a Little Prayer",
       "url": "https://open.spotify.com/track/3NfxSdJnVdon1axzloJgba"
-    },
-    {
-      "added_at": "2021-04-30 08:33:50",
-      "album": {
-        "name": "At The Close Of A Century",
-        "url": "https://open.spotify.com/album/04giHQ9zptJUHUvtIyxL9Z"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 262240,
-      "name": "I Just Called To Say I Love You",
-      "url": "https://open.spotify.com/track/6RNDeRnWsRMjPdNVgupZCs"
     },
     {
       "added_at": "2021-04-30 08:33:50",
@@ -419,6 +335,22 @@
     {
       "added_at": "2021-04-30 08:33:50",
       "album": {
+        "name": "Born In The U.S.A.",
+        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 155880,
+      "name": "I'm On Fire",
+      "url": "https://open.spotify.com/track/3PzsbWSQdLCKDLxn7YZfkM"
+    },
+    {
+      "added_at": "2021-04-30 08:33:50",
+      "album": {
         "name": "All Your Fault: Pt. 2",
         "url": "https://open.spotify.com/album/6t5D6LEgHxqUVOxJItkzfb"
       },
@@ -435,22 +367,6 @@
       "duration_ms": 163870,
       "name": "Meant to Be (feat. Florida Georgia Line)",
       "url": "https://open.spotify.com/track/7iDa6hUg2VgEL1o1HjmfBn"
-    },
-    {
-      "added_at": "2021-04-30 08:33:50",
-      "album": {
-        "name": "Born In The U.S.A.",
-        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 155880,
-      "name": "I'm On Fire",
-      "url": "https://open.spotify.com/track/3PzsbWSQdLCKDLxn7YZfkM"
     },
     {
       "added_at": "2021-04-30 08:33:50",
@@ -535,6 +451,22 @@
     {
       "added_at": "2021-04-30 08:33:50",
       "album": {
+        "name": "Dish of the Day",
+        "url": "https://open.spotify.com/album/1VQkUcV1j0hbsZAFghmeXh"
+      },
+      "artists": [
+        {
+          "name": "Fools Garden",
+          "url": "https://open.spotify.com/artist/0jRqFvRKCDryHOgrgFqsKG"
+        }
+      ],
+      "duration_ms": 191026,
+      "name": "Lemon Tree",
+      "url": "https://open.spotify.com/track/1yr9HpAu3prvxmq783ZELn"
+    },
+    {
+      "added_at": "2021-04-30 08:33:50",
+      "album": {
         "name": "Symphony (feat. Zara Larsson)",
         "url": "https://open.spotify.com/album/4b13SJlne61y53KSEwuQtD"
       },
@@ -567,22 +499,6 @@
       "duration_ms": 175466,
       "name": "hate u love u",
       "url": "https://open.spotify.com/track/6ATgDc6e4sPn84hvJsAmPt"
-    },
-    {
-      "added_at": "2021-04-30 08:33:50",
-      "album": {
-        "name": "Dish of the Day",
-        "url": "https://open.spotify.com/album/1VQkUcV1j0hbsZAFghmeXh"
-      },
-      "artists": [
-        {
-          "name": "Fools Garden",
-          "url": "https://open.spotify.com/artist/0jRqFvRKCDryHOgrgFqsKG"
-        }
-      ],
-      "duration_ms": 191026,
-      "name": "Lemon Tree",
-      "url": "https://open.spotify.com/track/1yr9HpAu3prvxmq783ZELn"
     },
     {
       "added_at": "2021-04-30 08:33:50",
@@ -635,22 +551,6 @@
     {
       "added_at": "2021-04-30 08:33:50",
       "album": {
-        "name": "Life Thru A Lens",
-        "url": "https://open.spotify.com/album/31Sx9uz9KqlvmX07Pvp0wN"
-      },
-      "artists": [
-        {
-          "name": "Robbie Williams",
-          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
-        }
-      ],
-      "duration_ms": 265000,
-      "name": "Angels",
-      "url": "https://open.spotify.com/track/1M2nd8jNUkkwrc1dgBPTJz"
-    },
-    {
-      "added_at": "2021-04-30 08:33:50",
-      "album": {
         "name": "Sunflower",
         "url": "https://open.spotify.com/album/3qJTNgjVc6EM3yJnjFAALE"
       },
@@ -663,6 +563,22 @@
       "duration_ms": 252230,
       "name": "Sunflower",
       "url": "https://open.spotify.com/track/7h2nmmoWDi2UpfYKLKWLYB"
+    },
+    {
+      "added_at": "2021-04-30 08:33:50",
+      "album": {
+        "name": "Life Thru A Lens",
+        "url": "https://open.spotify.com/album/31Sx9uz9KqlvmX07Pvp0wN"
+      },
+      "artists": [
+        {
+          "name": "Robbie Williams",
+          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+        }
+      ],
+      "duration_ms": 265000,
+      "name": "Angels",
+      "url": "https://open.spotify.com/track/1M2nd8jNUkkwrc1dgBPTJz"
     },
     {
       "added_at": "2021-04-30 08:33:50",
@@ -787,22 +703,6 @@
       "duration_ms": 243066,
       "name": "Time After Time",
       "url": "https://open.spotify.com/track/1Jj6MF0xDOMA3Ut2Z368Bx"
-    },
-    {
-      "added_at": "2021-04-30 08:33:50",
-      "album": {
-        "name": "Tango In the Night (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 221053,
-      "name": "Little Lies - 2017 Remaster",
-      "url": "https://open.spotify.com/track/4CoSCPlKNrWli7E5kFtbcl"
     },
     {
       "added_at": "2021-04-30 08:33:50",
@@ -1003,22 +903,6 @@
     {
       "added_at": "2021-04-30 08:33:50",
       "album": {
-        "name": "Confident",
-        "url": "https://open.spotify.com/album/56yYgfX6M5FlpETfyZSHkn"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 191307,
-      "name": "Stone Cold",
-      "url": "https://open.spotify.com/track/3by8IfnW9dZ2t4pZw1WVxz"
-    },
-    {
-      "added_at": "2021-04-30 08:33:50",
-      "album": {
         "name": "To Die For",
         "url": "https://open.spotify.com/album/2motAeq8jZvHkF4VpbWSHf"
       },
@@ -1059,38 +943,6 @@
     {
       "added_at": "2021-04-30 08:33:50",
       "album": {
-        "name": "The New Look",
-        "url": "https://open.spotify.com/album/6PB1ExLaenkyov5q1NrSXd"
-      },
-      "artists": [
-        {
-          "name": "Fontella Bass",
-          "url": "https://open.spotify.com/artist/6k3YMXJ1MJLgUEAlSPC6hA"
-        }
-      ],
-      "duration_ms": 171026,
-      "name": "Rescue Me",
-      "url": "https://open.spotify.com/track/1GY8zOFi8rC39xXnD0tKO8"
-    },
-    {
-      "added_at": "2021-04-30 08:33:50",
-      "album": {
-        "name": "Lady Soul (With Bonus Selections)",
-        "url": "https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 165333,
-      "name": "(You Make Me Feel Like) A Natural Woman",
-      "url": "https://open.spotify.com/track/5K09WxKdlkroDyEVyOSySy"
-    },
-    {
-      "added_at": "2021-04-30 08:33:50",
-      "album": {
         "name": "Changes",
         "url": "https://open.spotify.com/album/63iWSELt9V1kV6RSMxN7Ii"
       },
@@ -1115,6 +967,22 @@
     {
       "added_at": "2021-04-30 08:33:50",
       "album": {
+        "name": "Lady Soul (With Bonus Selections)",
+        "url": "https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 165333,
+      "name": "(You Make Me Feel Like) A Natural Woman",
+      "url": "https://open.spotify.com/track/5K09WxKdlkroDyEVyOSySy"
+    },
+    {
+      "added_at": "2021-04-30 08:33:50",
+      "album": {
         "name": "Love Hurts",
         "url": "https://open.spotify.com/album/23ZynaAt0r7guEQef3baHW"
       },
@@ -1131,22 +999,6 @@
     {
       "added_at": "2021-04-30 08:33:50",
       "album": {
-        "name": "Picture Book (Expanded Version)",
-        "url": "https://open.spotify.com/album/4pk3tltFMVlT06MLJfmWTT"
-      },
-      "artists": [
-        {
-          "name": "Simply Red",
-          "url": "https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8"
-        }
-      ],
-      "duration_ms": 269840,
-      "name": "Holding Back the Years - 2008 Remaster",
-      "url": "https://open.spotify.com/track/1yg7fwwYmx9DQ2TdXUmfpJ"
-    },
-    {
-      "added_at": "2021-04-30 08:33:50",
-      "album": {
         "name": "Boys And Girls",
         "url": "https://open.spotify.com/album/3SsNd5MeJKc1IK3nazaWg2"
       },
@@ -1159,6 +1011,22 @@
       "duration_ms": 266333,
       "name": "Slave To Love",
       "url": "https://open.spotify.com/track/1c9dnQbOzw01ID7X2IsYOE"
+    },
+    {
+      "added_at": "2021-04-30 08:33:50",
+      "album": {
+        "name": "Picture Book (Expanded Version)",
+        "url": "https://open.spotify.com/album/4pk3tltFMVlT06MLJfmWTT"
+      },
+      "artists": [
+        {
+          "name": "Simply Red",
+          "url": "https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8"
+        }
+      ],
+      "duration_ms": 269840,
+      "name": "Holding Back the Years - 2008 Remaster",
+      "url": "https://open.spotify.com/track/1yg7fwwYmx9DQ2TdXUmfpJ"
     },
     {
       "added_at": "2021-04-30 08:33:50",
@@ -1227,22 +1095,6 @@
     {
       "added_at": "2021-04-30 08:33:50",
       "album": {
-        "name": "Break My Heart",
-        "url": "https://open.spotify.com/album/368tzVdeju4vLSY8PHnQUs"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 221820,
-      "name": "Break My Heart",
-      "url": "https://open.spotify.com/track/1raaNykBg1bDnWENUiglUA"
-    },
-    {
-      "added_at": "2021-04-30 08:33:50",
-      "album": {
         "name": "Love You For A Long Time",
         "url": "https://open.spotify.com/album/47SKepdJ0B5cquxtKrgFUI"
       },
@@ -1255,6 +1107,22 @@
       "duration_ms": 223120,
       "name": "Love You For A Long Time",
       "url": "https://open.spotify.com/track/6QTPacyXkZWG9FMwq6L1hJ"
+    },
+    {
+      "added_at": "2021-04-30 08:33:50",
+      "album": {
+        "name": "Break My Heart",
+        "url": "https://open.spotify.com/album/368tzVdeju4vLSY8PHnQUs"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 221820,
+      "name": "Break My Heart",
+      "url": "https://open.spotify.com/track/1raaNykBg1bDnWENUiglUA"
     },
     {
       "added_at": "2021-04-30 08:33:50",
@@ -1335,22 +1203,6 @@
       "duration_ms": 198001,
       "name": "Fresh Eyes",
       "url": "https://open.spotify.com/track/5NDUXbMwcnTQp66tI2zcdR"
-    },
-    {
-      "added_at": "2021-04-30 08:33:50",
-      "album": {
-        "name": "I Will Survive (Phil Kelsey Remix)",
-        "url": "https://open.spotify.com/album/0afBUyhZUpKrvV9gxWWXM1"
-      },
-      "artists": [
-        {
-          "name": "Gloria Gaynor",
-          "url": "https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5"
-        }
-      ],
-      "duration_ms": 198373,
-      "name": "I Will Survive - Original 7\" Version",
-      "url": "https://open.spotify.com/track/6fw12s3vAJQAt7lbICodwC"
     },
     {
       "added_at": "2021-04-30 08:33:50",
@@ -1687,18 +1539,18 @@
     {
       "added_at": "2021-04-30 08:33:50",
       "album": {
-        "name": "The Age Of Plastic",
-        "url": "https://open.spotify.com/album/5KKpKvLOS4tCV7cSOwIOWF"
+        "name": "Heart & Soul: A Retrospective",
+        "url": "https://open.spotify.com/album/6s1DWmUCmFjzD09SRdnfVH"
       },
       "artists": [
         {
-          "name": "The Buggles",
-          "url": "https://open.spotify.com/artist/057gc1fxmJ2vkctjQJ7Tal"
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
         }
       ],
-      "duration_ms": 253800,
-      "name": "Video Killed The Radio Star",
-      "url": "https://open.spotify.com/track/6t1FIJlZWTQfIZhsGjaulM"
+      "duration_ms": 169746,
+      "name": "Something's Got A Hold On Me",
+      "url": "https://open.spotify.com/track/6EAlFsajDK1PVgfhdJbS5Y"
     },
     {
       "added_at": "2021-04-30 08:33:50",
@@ -1715,22 +1567,6 @@
       "duration_ms": 185849,
       "name": "r u ok",
       "url": "https://open.spotify.com/track/7rq1zCf90CnU7OalBLIgNp"
-    },
-    {
-      "added_at": "2021-04-30 08:33:50",
-      "album": {
-        "name": "Heart & Soul: A Retrospective",
-        "url": "https://open.spotify.com/album/6s1DWmUCmFjzD09SRdnfVH"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 169746,
-      "name": "Something's Got A Hold On Me",
-      "url": "https://open.spotify.com/track/6EAlFsajDK1PVgfhdJbS5Y"
     },
     {
       "added_at": "2021-04-30 08:33:50",
@@ -1787,38 +1623,6 @@
     {
       "added_at": "2021-04-30 08:33:50",
       "album": {
-        "name": "Heaven On Earth (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/34SBayfOPJb9ztyCTvS3no"
-      },
-      "artists": [
-        {
-          "name": "Belinda Carlisle",
-          "url": "https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U"
-        }
-      ],
-      "duration_ms": 233666,
-      "name": "Heaven Is A Place On Earth - Promo 7\" Edit",
-      "url": "https://open.spotify.com/track/3EvpaRZkKWxsgDIO2zMH7g"
-    },
-    {
-      "added_at": "2021-04-30 08:33:50",
-      "album": {
-        "name": "Boys Like You (Acoustic)",
-        "url": "https://open.spotify.com/album/5vFQw6vOWYH9SaYVbSY9to"
-      },
-      "artists": [
-        {
-          "name": "Anna Clendening",
-          "url": "https://open.spotify.com/artist/2y9j8qUwBMGPYPQJJxmYzD"
-        }
-      ],
-      "duration_ms": 238576,
-      "name": "Boys Like You - Acoustic",
-      "url": "https://open.spotify.com/track/51xRMJFRBrW9C1RI1qW4S0"
-    },
-    {
-      "added_at": "2021-04-30 08:33:50",
-      "album": {
         "name": "Stay Young",
         "url": "https://open.spotify.com/album/0CDyYekVPlSSlyji3cg2sn"
       },
@@ -1839,18 +1643,18 @@
     {
       "added_at": "2021-04-30 08:33:50",
       "album": {
-        "name": "Connection",
-        "url": "https://open.spotify.com/album/6rVOUFV4qi8MgqF7na73rX"
+        "name": "Boys Like You (Acoustic)",
+        "url": "https://open.spotify.com/album/5vFQw6vOWYH9SaYVbSY9to"
       },
       "artists": [
         {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+          "name": "Anna Clendening",
+          "url": "https://open.spotify.com/artist/2y9j8qUwBMGPYPQJJxmYzD"
         }
       ],
-      "duration_ms": 148459,
-      "name": "Connection",
-      "url": "https://open.spotify.com/track/3T4UodGkfZObJ43RtA5KFU"
+      "duration_ms": 238576,
+      "name": "Boys Like You - Acoustic",
+      "url": "https://open.spotify.com/track/51xRMJFRBrW9C1RI1qW4S0"
     },
     {
       "added_at": "2021-04-30 08:33:50",
@@ -1867,6 +1671,22 @@
       "duration_ms": 256146,
       "name": "Smooth Operator - 2011 Remastered",
       "url": "https://open.spotify.com/track/28XDE6yXI6Bp4U3nLSGqzp"
+    },
+    {
+      "added_at": "2021-04-30 08:33:50",
+      "album": {
+        "name": "Connection",
+        "url": "https://open.spotify.com/album/6rVOUFV4qi8MgqF7na73rX"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 148459,
+      "name": "Connection",
+      "url": "https://open.spotify.com/track/3T4UodGkfZObJ43RtA5KFU"
     },
     {
       "added_at": "2021-04-30 08:33:50",
@@ -1975,22 +1795,6 @@
     {
       "added_at": "2021-04-30 08:33:50",
       "album": {
-        "name": "The First Family of Soul: The Best of The Five Stairsteps",
-        "url": "https://open.spotify.com/album/5RDrnVcOfimhUGIx84Uoid"
-      },
-      "artists": [
-        {
-          "name": "The Five Stairsteps",
-          "url": "https://open.spotify.com/artist/3Inrg8cs8oc4q8oPES4a6S"
-        }
-      ],
-      "duration_ms": 197160,
-      "name": "O-o-h Child",
-      "url": "https://open.spotify.com/track/74JdR9aXE6I74oS1BVRsvb"
-    },
-    {
-      "added_at": "2021-04-30 08:33:50",
-      "album": {
         "name": "In the Name of Love: The Elektra Recordings 1979-1984",
         "url": "https://open.spotify.com/album/3XFcAhdCrCg7L74OPd26Hf"
       },
@@ -2007,6 +1811,22 @@
       "duration_ms": 237106,
       "name": "Just the Two of Us",
       "url": "https://open.spotify.com/track/4C426PqeHP8XqHU5mQIAKS"
+    },
+    {
+      "added_at": "2021-04-30 08:33:50",
+      "album": {
+        "name": "The First Family of Soul: The Best of The Five Stairsteps",
+        "url": "https://open.spotify.com/album/5RDrnVcOfimhUGIx84Uoid"
+      },
+      "artists": [
+        {
+          "name": "The Five Stairsteps",
+          "url": "https://open.spotify.com/artist/3Inrg8cs8oc4q8oPES4a6S"
+        }
+      ],
+      "duration_ms": 197160,
+      "name": "O-o-h Child",
+      "url": "https://open.spotify.com/track/74JdR9aXE6I74oS1BVRsvb"
     },
     {
       "added_at": "2021-04-30 08:33:50",
@@ -2043,22 +1863,6 @@
     {
       "added_at": "2021-04-30 08:33:50",
       "album": {
-        "name": "Caught Up In The Wire, No More",
-        "url": "https://open.spotify.com/album/1sRRuViPoHHsjjKLq9yWwC"
-      },
-      "artists": [
-        {
-          "name": "Tay Oskee",
-          "url": "https://open.spotify.com/artist/6oqDqZlET7T3JO9YWD2pVW"
-        }
-      ],
-      "duration_ms": 195324,
-      "name": "Floating",
-      "url": "https://open.spotify.com/track/0pqnNiTcSnMh09MD7nFt76"
-    },
-    {
-      "added_at": "2021-04-30 08:33:50",
-      "album": {
         "name": "80s 100 Hits",
         "url": "https://open.spotify.com/album/0pvhletDH7CphbKErUtPCF"
       },
@@ -2071,6 +1875,22 @@
       "duration_ms": 248200,
       "name": "Don't Stop Believin'",
       "url": "https://open.spotify.com/track/3HRQtRUYnnuZY7fE900XtJ"
+    },
+    {
+      "added_at": "2021-04-30 08:33:50",
+      "album": {
+        "name": "Caught Up In The Wire, No More",
+        "url": "https://open.spotify.com/album/1sRRuViPoHHsjjKLq9yWwC"
+      },
+      "artists": [
+        {
+          "name": "Tay Oskee",
+          "url": "https://open.spotify.com/artist/6oqDqZlET7T3JO9YWD2pVW"
+        }
+      ],
+      "duration_ms": 195324,
+      "name": "Floating",
+      "url": "https://open.spotify.com/track/0pqnNiTcSnMh09MD7nFt76"
     },
     {
       "added_at": "2021-04-30 08:33:50",
@@ -2247,22 +2067,6 @@
     {
       "added_at": "2021-04-30 08:33:50",
       "album": {
-        "name": "Atlantic 60th: Soul, Sweat And Strut",
-        "url": "https://open.spotify.com/album/1LBWNRMsbEWb17KmDD4jfD"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 142186,
-      "name": "Respect - 2003 Remaster",
-      "url": "https://open.spotify.com/track/5AoTuHE5P5bvC7BBppYnja"
-    },
-    {
-      "added_at": "2021-04-30 08:33:50",
-      "album": {
         "name": "Rise",
         "url": "https://open.spotify.com/album/2KOwfgyufhsAO3Qaycw7sX"
       },
@@ -2275,22 +2079,6 @@
       "duration_ms": 219093,
       "name": "Rise",
       "url": "https://open.spotify.com/track/63nkNgHkmfgjElTEnCzKYU"
-    },
-    {
-      "added_at": "2021-04-30 08:33:50",
-      "album": {
-        "name": "Face Your Fear",
-        "url": "https://open.spotify.com/album/3Can2qB9S1pOcElpkfExB1"
-      },
-      "artists": [
-        {
-          "name": "Curtis Harding",
-          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
-        }
-      ],
-      "duration_ms": 177200,
-      "name": "Need Your Love",
-      "url": "https://open.spotify.com/track/3zYQ1KXzqBWRsxIqdVMoYF"
     },
     {
       "added_at": "2021-04-30 08:33:50",
@@ -2315,6 +2103,38 @@
       "duration_ms": 173004,
       "name": "Eastside (with Halsey & Khalid) - Acoustic",
       "url": "https://open.spotify.com/track/5iQ0Va8Dt5Yky4TXuqO5TF"
+    },
+    {
+      "added_at": "2021-04-30 08:33:50",
+      "album": {
+        "name": "Face Your Fear",
+        "url": "https://open.spotify.com/album/3Can2qB9S1pOcElpkfExB1"
+      },
+      "artists": [
+        {
+          "name": "Curtis Harding",
+          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
+        }
+      ],
+      "duration_ms": 177200,
+      "name": "Need Your Love",
+      "url": "https://open.spotify.com/track/3zYQ1KXzqBWRsxIqdVMoYF"
+    },
+    {
+      "added_at": "2021-04-30 08:33:50",
+      "album": {
+        "name": "Atlantic 60th: Soul, Sweat And Strut",
+        "url": "https://open.spotify.com/album/1LBWNRMsbEWb17KmDD4jfD"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 142186,
+      "name": "Respect - 2003 Remaster",
+      "url": "https://open.spotify.com/track/5AoTuHE5P5bvC7BBppYnja"
     },
     {
       "added_at": "2021-04-30 08:33:50",
@@ -2375,18 +2195,18 @@
     {
       "added_at": "2021-04-30 08:33:50",
       "album": {
-        "name": "Natalie Cole Anthology",
-        "url": "https://open.spotify.com/album/64J3qlh1WF6x8DnrB8chqb"
+        "name": "Bright Lights, Red Eyes",
+        "url": "https://open.spotify.com/album/43G5319YT74MbuRtxodpi9"
       },
       "artists": [
         {
-          "name": "Natalie Cole",
-          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
+          "name": "Ruel",
+          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
         }
       ],
-      "duration_ms": 171360,
-      "name": "This Will Be (An Everlasting Love) - 2003 Remaster",
-      "url": "https://open.spotify.com/track/241RmK77gecJ1y7jOoQ5lu"
+      "duration_ms": 179213,
+      "name": "distance",
+      "url": "https://open.spotify.com/track/24zaoEGmRjgA0zt47uLgRF"
     },
     {
       "added_at": "2021-04-30 08:33:50",
@@ -2407,18 +2227,58 @@
     {
       "added_at": "2021-04-30 08:33:50",
       "album": {
-        "name": "Bright Lights, Red Eyes",
-        "url": "https://open.spotify.com/album/43G5319YT74MbuRtxodpi9"
+        "name": "Natalie Cole Anthology",
+        "url": "https://open.spotify.com/album/64J3qlh1WF6x8DnrB8chqb"
       },
       "artists": [
         {
-          "name": "Ruel",
-          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
+          "name": "Natalie Cole",
+          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
         }
       ],
-      "duration_ms": 179213,
-      "name": "distance",
-      "url": "https://open.spotify.com/track/24zaoEGmRjgA0zt47uLgRF"
+      "duration_ms": 171360,
+      "name": "This Will Be (An Everlasting Love) - 2003 Remaster",
+      "url": "https://open.spotify.com/track/241RmK77gecJ1y7jOoQ5lu"
+    },
+    {
+      "added_at": "2021-04-30 08:33:50",
+      "album": {
+        "name": "Maybe Don't (feat. JP Saxe)",
+        "url": "https://open.spotify.com/album/2X5tbY4Yam5ir3dG8eJSHa"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        },
+        {
+          "name": "JP Saxe",
+          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
+        }
+      ],
+      "duration_ms": 174600,
+      "name": "Maybe Don't (feat. JP Saxe)",
+      "url": "https://open.spotify.com/track/7ksYNhalX8IWKku513n8QG"
+    },
+    {
+      "added_at": "2021-04-30 08:33:50",
+      "album": {
+        "name": "Born To Be Yours",
+        "url": "https://open.spotify.com/album/3Nlbg1BHLXDKqQVQ9ErCmg"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 193320,
+      "name": "Born To Be Yours",
+      "url": "https://open.spotify.com/track/0WVAQaxrT0wsGEG4BCVSn2"
     },
     {
       "added_at": "2021-04-30 08:33:50",
@@ -2435,6 +2295,198 @@
       "duration_ms": 281453,
       "name": "99 Red Balloons - Club Mix",
       "url": "https://open.spotify.com/track/4R6oOgh523J4M1I0XYe14f"
+    },
+    {
+      "added_at": "2021-04-30 08:33:50",
+      "album": {
+        "name": "I Get The Sweetest Feeling",
+        "url": "https://open.spotify.com/album/35PUYxZnmBjyVSbw5ictX6"
+      },
+      "artists": [
+        {
+          "name": "Jackie Wilson",
+          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
+        }
+      ],
+      "duration_ms": 178373,
+      "name": "I Get The Sweetest Feeling",
+      "url": "https://open.spotify.com/track/7F1eoVZd2ySSJ70iP3PN1m"
+    },
+    {
+      "added_at": "2021-04-30 08:33:50",
+      "album": {
+        "name": "BS",
+        "url": "https://open.spotify.com/album/1mmtCAKto81kdJtokCAfc6"
+      },
+      "artists": [
+        {
+          "name": "Still Woozy",
+          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
+        }
+      ],
+      "duration_ms": 133986,
+      "name": "BS",
+      "url": "https://open.spotify.com/track/1qxZswAdBvM0JMUoV83J1b"
+    },
+    {
+      "added_at": "2021-04-30 08:33:50",
+      "album": {
+        "name": "Diamond Heart",
+        "url": "https://open.spotify.com/album/6PZBlxE1awuzcZTkUwWa4C"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Sophia Somajo",
+          "url": "https://open.spotify.com/artist/5T8zbK3dic52T9bFu0aY8z"
+        }
+      ],
+      "duration_ms": 239834,
+      "name": "Diamond Heart",
+      "url": "https://open.spotify.com/track/4J4zx8xGJpuGndrVc06KaT"
+    },
+    {
+      "added_at": "2021-04-30 08:33:50",
+      "album": {
+        "name": "Just Got Paid",
+        "url": "https://open.spotify.com/album/09uJvEy1F5GwvazqSQcYyB"
+      },
+      "artists": [
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        },
+        {
+          "name": "Ella Eyre",
+          "url": "https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA"
+        },
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        },
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        }
+      ],
+      "duration_ms": 218250,
+      "name": "Just Got Paid",
+      "url": "https://open.spotify.com/track/0v3BMLcwUmAwyqJaf5997o"
+    },
+    {
+      "added_at": "2021-04-30 08:33:50",
+      "album": {
+        "name": "Polaroid",
+        "url": "https://open.spotify.com/album/10bTwLR8vJxwE2SeHZxkrS"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Liam Payne",
+          "url": "https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6"
+        },
+        {
+          "name": "Lennon Stella",
+          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
+        }
+      ],
+      "duration_ms": 193377,
+      "name": "Polaroid",
+      "url": "https://open.spotify.com/track/1wsLHgXJ4SKIfd5ePSX1hD"
+    },
+    {
+      "added_at": "2021-04-30 08:33:50",
+      "album": {
+        "name": "SCOOB! The Album",
+        "url": "https://open.spotify.com/album/2Zg5xZo3WwIoAZys8OcUpG"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        },
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        },
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 164683,
+      "name": "On Me (feat. Ava Max)",
+      "url": "https://open.spotify.com/track/7k6tAZp4m93oswrPqSfBbc"
+    },
+    {
+      "added_at": "2021-04-30 08:33:50",
+      "album": {
+        "name": "Pride",
+        "url": "https://open.spotify.com/album/3P3zn45t3NEjaFILRIsybN"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        },
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "duration_ms": 169453,
+      "name": "Pride (with mxmtoon)",
+      "url": "https://open.spotify.com/track/708HrtYYClY6j6EOiToEBy"
+    },
+    {
+      "added_at": "2021-04-30 08:33:50",
+      "album": {
+        "name": "Trigger",
+        "url": "https://open.spotify.com/album/3Fcqa5sb0vVYEEDHzkiOA1"
+      },
+      "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        },
+        {
+          "name": "Death Stranding: Timefall",
+          "url": "https://open.spotify.com/artist/4rojTfP5nRkmYpdSbWQgV4"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        }
+      ],
+      "duration_ms": 171986,
+      "name": "Trigger",
+      "url": "https://open.spotify.com/track/0Z26mbSHJ1dkUu7g9DDgif"
+    },
+    {
+      "added_at": "2021-04-30 08:33:50",
+      "album": {
+        "name": "Wild Life",
+        "url": "https://open.spotify.com/album/4a1yq8xj6XlZvbCiBvYGsa"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 267117,
+      "name": "Wild Life",
+      "url": "https://open.spotify.com/track/6oaQuXiRKqQq9ITJBV1XmC"
     }
   ],
   "unique_name": "Music for a Workday",

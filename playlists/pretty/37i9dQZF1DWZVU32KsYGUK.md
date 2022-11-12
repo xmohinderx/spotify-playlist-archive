@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVU32KsYGUK.md) - [plain]
 
 > Restaurant style, elegant music for your fancy dinner
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,199 likes - 206 songs - 8 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,250 likes - 206 songs - 8 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -178,7 +178,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVU32KsYGUK.md) - [plain]
 | 168 | [Sunset Aglow](https://open.spotify.com/track/2xfXbJK08v7gZb9YvPr0UZ) | [Edgar De Vries](https://open.spotify.com/artist/5ccEcnSCa82fIfFgwpVyrD) | [Quiet Cove](https://open.spotify.com/album/5GsMGDSeQKNXLZsujzhCTL) | 2:42 |
 | 169 | [Yellow river](https://open.spotify.com/track/5NBR0JGRYOcWmGk25ri4k4) | [Lihua Zhao](https://open.spotify.com/artist/7dsYrsCwrZat4t33c7RXPe) | [Legendary Love](https://open.spotify.com/album/68T3xbvdcXwFTpgdYmyUYk) | 3:20 |
 | 170 | [Changes](https://open.spotify.com/track/3N3BWrupDuvM7ZKbNO534V) | [Gina Ordonieva](https://open.spotify.com/artist/3MMGcm0uz164HFTE1Dp5Jh) | [Changes](https://open.spotify.com/album/1iXM8jYPYT1ELoWbwwHuhy) | 1:55 |
-| 171 | [Lillian](https://open.spotify.com/track/5lcjalUNbHaaSvXRTtYd1p) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP), [Søren Tarding](https://open.spotify.com/artist/1bHfoau7ud3dvN33mMtzuj) | [Mursejler](https://open.spotify.com/album/4fQTzcMpCxxpajM3dMUqID) | 2:07 |
+| 171 | [Lillian](https://open.spotify.com/track/4cwSFF1hXI78ZTmREh6Yww) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP), [Søren Tarding](https://open.spotify.com/artist/1bHfoau7ud3dvN33mMtzuj) | [Lillian](https://open.spotify.com/album/76qmoKhO9fwNsUh1BOcnPf) | 2:07 |
 | 172 | [Aldebaran](https://open.spotify.com/track/4bn5nDWccvgalkZGVzth00) | [S.A\. Karl](https://open.spotify.com/artist/5wvtkvwPR6pF2h7H6f08tM) | [Aldebaran](https://open.spotify.com/album/4O4wtNtbrhX90609vI1IzN) | 3:18 |
 | 173 | [I Wrote You A Song](https://open.spotify.com/track/59qHsSncWfBdugXAp2E5AH) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [You Finally Knew](https://open.spotify.com/album/7asD3WvGakevPFYg89jh9K) | 3:03 |
 | 174 | [Softly](https://open.spotify.com/track/1PW5iY60ZqzBqU5OXpiX4N) | [Frederiq](https://open.spotify.com/artist/4WdIA6FvazMuJOCReHzRN1) | [Softly](https://open.spotify.com/album/7ojzrIb4RuVzcUJilEbKgr) | 2:24 |
@@ -215,4 +215,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVU32KsYGUK.md) - [plain]
 | 205 | [Moving Slowly](https://open.spotify.com/track/4xYztiOcXXOiC1TwTsXuY3) | [Jacques Blanc](https://open.spotify.com/artist/2pLiht9WILwFOx7VoxQQJJ) | [Moving Slowly](https://open.spotify.com/album/1UQI21LayYIwYNHsZaOjRD) | 1:59 |
 | 206 | [Shared Shelter](https://open.spotify.com/track/2gtgt4HljfLVdXRMPG9QiA) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Shared Shelter](https://open.spotify.com/album/0s1hXlZf3ioJGkBzNKuQpQ) | 2:41 |
 
-Snapshot ID: `MTY2NjYxMTE3NSwwMDAwMDAwMGU1NzgzYjhiZDFiYjNhODU1NjUxMDNlYTFiMjFkNjAw`
+Snapshot ID: `MTY2NjYxMTE3NSwwMDAwMDAwMDljNzk2M2VmMWFmM2NmOTNmMDE1NmQwZWQ5NzBiNWVl`

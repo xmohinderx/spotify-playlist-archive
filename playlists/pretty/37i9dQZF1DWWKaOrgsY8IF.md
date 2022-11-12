@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKaOrgsY8IF.md) - [plain]
 
 > Las mejores canciones de pop latino durante el 2020\. En portada: Camilo
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,961 likes - 60 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,985 likes - 60 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKaOrgsY8IF.md) - [plain]
 | 13 | [Fresa](https://open.spotify.com/track/4BCPItsB94KDLuERZT3aNM) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj) | [Fresa](https://open.spotify.com/album/2v2CUuzRvsBNb4c5Rj8nqi) | 2:45 |
 | 14 | [No Bailes Sola](https://open.spotify.com/track/1GNSWpe2SB30zYGbNTD96b) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [No Bailes Sola](https://open.spotify.com/album/2fDBlYHy3clr2Q3JRq89Rd) | 3:00 |
 | 15 | [Perdiendo la Cabeza](https://open.spotify.com/track/2GTCK8zYHwkcu0i0jtKjFz) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Perdiendo la Cabeza](https://open.spotify.com/album/1tXRBHHtKFInyljm0X1ua3) | 2:45 |
-| 16 | [Ay, DiOs Mío!](https://open.spotify.com/track/7x4ASXYEKfQBCewcZhK776) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Ay, DiOs Mío!](https://open.spotify.com/album/1mMUBQXa70gHyUjK0Q0u63) | 3:09 |
-| 17 | [Tattoo \- Remix with Camilo](https://open.spotify.com/track/4ZRrLHqzhGRXYj2qcB4s5S) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Tattoo \(Remix with Camilo\)](https://open.spotify.com/album/3Na85E6foBKxAeoAojX427) | 3:42 |
+| 16 | [Tattoo \- Remix with Camilo](https://open.spotify.com/track/4ZRrLHqzhGRXYj2qcB4s5S) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Tattoo \(Remix with Camilo\)](https://open.spotify.com/album/3Na85E6foBKxAeoAojX427) | 3:42 |
+| 17 | [Ay, DiOs Mío!](https://open.spotify.com/track/7x4ASXYEKfQBCewcZhK776) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Ay, DiOs Mío!](https://open.spotify.com/album/1mMUBQXa70gHyUjK0Q0u63) | 3:09 |
 | 18 | [Quiéreme Mientras Se Pueda](https://open.spotify.com/track/34LI7rwi9H8w2S5KTHnv1M) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Quiéreme Mientras Se Pueda](https://open.spotify.com/album/7cd7ofPesyBoPDb2dtUbj5) | 3:11 |
 | 19 | [Vida de Rico](https://open.spotify.com/track/73nAK3HgQK8dak83Y2WQ8F) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Vida de Rico](https://open.spotify.com/album/0MmIH2uM4bUsF5VbEkCKzT) | 3:07 |
 | 20 | [ADMV](https://open.spotify.com/track/3eJMSq78dDaFb7VvhNFnq6) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [ADMV](https://open.spotify.com/album/6wUJI0qgwrwiYJhFr53Gaa) | 3:13 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKaOrgsY8IF.md) - [plain]
 | 59 | [Conocerte](https://open.spotify.com/track/1U4xYstX4dcJbjlGZ3sQy9) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [La Mexicana](https://open.spotify.com/album/3jvseqHtHdkQXMWDjsoT4C) | 2:56 |
 | 60 | [Agua \- Music From "Sponge On The Run" Movie](https://open.spotify.com/track/2JQ9vkNVyrHPH6aTE3oOtL) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Reggaeton De Impacto Vol\. 2](https://open.spotify.com/album/0BZGDrWZTc5Lc9hECNMVAl) | 2:37 |
 
-Snapshot ID: `MTYwNjg4NTcwMSwwMDAwMDAwMGQ1MDUyYjRhMWQ5NzlhM2I3OWJiZWY4MWYxZDdlNzMz`
+Snapshot ID: `MTYwNjg4NTcwMSwwMDAwMDAwMDk0ZjdlMzQ5NTAwMzNlZTc1ODJlZmZkYWJlNDIxYzNm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTlgzqHpWg4m.md) - [plain]
 
 > Bands from and songs about The Golden State\. Here's your playlist for California Dreamin'
 
-[Spotify](https://open.spotify.com/user/spotify) - 785,032 likes - 75 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 785,133 likes - 75 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTlgzqHpWg4m.md) - [plain]
 | 17 | [Going to California \- Remaster](https://open.spotify.com/track/70gbuMqwNBE2Y5rkQJE9By) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin IV \(Deluxe Edition\)](https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK) | 3:32 |
 | 18 | [Dani California](https://open.spotify.com/track/6vODhpvfWwdsO0i9MBWnEq) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Dani California](https://open.spotify.com/album/3rrvHWzZCF8TvqT9oJtfVZ) | 4:42 |
 | 19 | [Fortunate Son](https://open.spotify.com/track/6FBzZSNO4IvxorQsJRd3tz) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Grand Theft](https://open.spotify.com/album/7qh0Duem33bn3AzkMbRrF4) | 2:20 |
-| 20 | [Santeria](https://open.spotify.com/track/2hnMS47jN0etwvFPzYk11f) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Sublime](https://open.spotify.com/album/14eK347GdWO4mBBx78tsut) | 3:02 |
+| 20 | [Santeria](https://open.spotify.com/track/0ARZGqAgmhfttwEgHTwrFt) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [90s Rock Hits](https://open.spotify.com/album/5DELeJnBojemtXbEgl1aIh) | 3:03 |
 | 21 | [You're Gonna Go Far, Kid](https://open.spotify.com/track/6XGKRPv9lpCyIVeibTytDi) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [00s Rock](https://open.spotify.com/album/6r4f5B7hDTYwRKR6qGo6qo) | 2:57 |
 | 22 | [Drive](https://open.spotify.com/track/7nnWIPM5hwE3DaUBkvOIpy) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Make Yourself](https://open.spotify.com/album/2i6nd4FV6y7K9fln6eelmR) | 3:52 |
 | 23 | [California \- Tchad Blake Mix](https://open.spotify.com/track/497Fkp3gRiGrRMoqBTDudr) | [Phantom Planet](https://open.spotify.com/artist/0LsTFjEB1IIrh7IlTxs1GY) | [The Guest \(Expanded Edition\)](https://open.spotify.com/album/4SvTjA2cwASS1cWzEIG0WD) | 3:13 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTlgzqHpWg4m.md) - [plain]
 | 56 | [Break on Through \(To the Other Side\)](https://open.spotify.com/track/6ToM0uwxtPKo9CMpbPGYvM) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Doors](https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn) | 2:25 |
 | 57 | [Youth of the Nation](https://open.spotify.com/track/0UrWr7Jnu1heq1o99ZwUd0) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Satellite \(U.S\. Version\)](https://open.spotify.com/album/4eUmncMYQRg0Ot29KKqbuk) | 4:16 |
 | 58 | [California Dreaming](https://open.spotify.com/track/5jsn38ryHgFhcbJgZMQCo0) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E) | [Five](https://open.spotify.com/album/56CWTHCr8ZBZ1ojmppH5br) | 3:54 |
-| 59 | [Scars](https://open.spotify.com/track/1UREw2MCfU0xwBzCAjxlUD) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Getting Away With Murder](https://open.spotify.com/album/25wlsi7SWD8mFKxaEWGYuL) | 3:28 |
+| 59 | [Scars](https://open.spotify.com/track/0tTOJU73D6D4eIPUnRnssI) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Punk Music](https://open.spotify.com/album/3Pca1TfQuqUzUIhN0JjD0A) | 3:29 |
 | 60 | [Celebrity Skin](https://open.spotify.com/track/4xlo4oy4TEoUVEOP7wIGlH) | [Hole](https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn) | [Femei de zece](https://open.spotify.com/album/7kX2JgtQpRHZMOhrDPb8JP) | 2:42 |
 | 61 | [Miss Murder](https://open.spotify.com/track/0ZbGrRjQjbZmvBYuav2Bo6) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Pop Punk Songs](https://open.spotify.com/album/6uBfZlkEZ2xW5oMhAQ6ozg) | 3:26 |
 | 62 | [Lost In Hollywood](https://open.spotify.com/track/1tBiNh8cmLwxaX87kueHao) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Mezmerize](https://open.spotify.com/album/4GObQJaZ0bAHb2mXSKA07P) | 5:20 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTlgzqHpWg4m.md) - [plain]
 | 74 | [The Outsider](https://open.spotify.com/track/6CqYhhUPJORx1vvdTNc8jv) | [A Perfect Circle](https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc) | [Thirteenth Step](https://open.spotify.com/album/49K6hYDEr5M3GxIBBxlPf9) | 4:06 |
 | 75 | [California](https://open.spotify.com/track/7MdqStZphq1x5yTXfqgD5U) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E) | [Swan Songs](https://open.spotify.com/album/2UYxjXHKm1JDT6JA7OSeR6) | 3:16 |
 
-Snapshot ID: `MTY0Mzk1MDg2MCwwMDAwMDAwMDM5MGZmMGE3NjM3YjM0YzE3OGNjOWIxNDY0NGJhODE0`
+Snapshot ID: `MTY0Mzk1MDg2MCwwMDAwMDAwMGJkZmM3YzQ1N2M2MDhlODBmNzY5YzMyZWUwYmY3NDkx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8xV1CEmgc1h.md) - [plain]
 
 > Chart topping hits from the legendary label.
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,374 likes - 65 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,484 likes - 65 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8xV1CEmgc1h.md) - [plain]
 | 27 | [Let's Get It On](https://open.spotify.com/track/0jHkgTtTaqg5LNCiYDQPUB) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Let's Get It On \(Expanded Edition\)](https://open.spotify.com/album/6AmnVWOxXYucWxgidEgwhy) | 4:50 |
 | 28 | [End Of The Road](https://open.spotify.com/track/3l3xTXsUXeWlkPqzMs7mPD) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [Cooleyhighharmony \(Bonus Tracks Version\)](https://open.spotify.com/album/3jknvlUSe6D9Oyn2E3JBLO) | 5:51 |
 | 29 | [Upside Down](https://open.spotify.com/track/3spmBjPY8HCNCR6Y0H7Ahd) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Diana](https://open.spotify.com/album/2r05fWtfSBpLSj4L7V7Ix9) | 4:04 |
-| 30 | [Fingertips, Pt\. 2 \- Live/1962](https://open.spotify.com/track/6SvMoVRctg7Z3jDtlYIYlL) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Mono Singles](https://open.spotify.com/album/7oMcO4p7P1JtJR2G1v2NoK) | 3:10 |
+| 30 | [Fingertips, Pt\. 2 \- Live/1962 / Second Pressing](https://open.spotify.com/track/6XbfCBRoYMvQctygBfiWpB) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [The Complete Motown Singles, Vol\. 3: 1963](https://open.spotify.com/album/3YCASsl45660L3pVU0sdZx) | 3:10 |
 | 31 | [Baby Love](https://open.spotify.com/track/5uES1C2NgkdrNHiCwf9jRr) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [Where Did Our Love Go](https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV) | 2:38 |
 | 32 | [ABC](https://open.spotify.com/track/6wDviYDtmSDZ0S6TVMM9Vc) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [ABC](https://open.spotify.com/album/3btVhknqDeGAEd1Qj7lL57) | 2:57 |
 | 33 | [Truly](https://open.spotify.com/track/7AslBsiVLQAGrmFmi79ZeK) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Lionel Richie](https://open.spotify.com/album/5R8J87WpdqO4t4pB4F4LNJ) | 3:20 |
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8xV1CEmgc1h.md) - [plain]
 | 41 | [I Hear A Symphony](https://open.spotify.com/track/5SCB7L1alKg7ZEeSw7Sq9f) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [I Hear A Symphony](https://open.spotify.com/album/7vNmiLEdMqJYUlPxSx2zgg) | 2:42 |
 | 42 | [Don't Leave Me This Way \- Single Version](https://open.spotify.com/track/6YnHWESPWTp7XWuc25onCX) | [Thelma Houston](https://open.spotify.com/artist/3sgUnR8TF35euWEV07RPyO) | [Soul Essentials](https://open.spotify.com/album/2HEREQzFsq56E8Wh66s0V7) | 3:36 |
 | 43 | [You Can't Hurry Love](https://open.spotify.com/track/4H1iMlEWKZmpKTHCZzDhju) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [Supremes A Go Go](https://open.spotify.com/album/4fkMwe37YsJFPoQ6yNv7sY) | 2:45 |
-| 44 | [I Just Called To Say I Love You](https://open.spotify.com/track/6RNDeRnWsRMjPdNVgupZCs) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [At The Close Of A Century](https://open.spotify.com/album/04giHQ9zptJUHUvtIyxL9Z) | 4:22 |
+| 44 | [I Just Called To Say I Love You \- Single Version](https://open.spotify.com/track/5Am36lyHSRoHKGxK3X9UKW) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Heaven](https://open.spotify.com/album/5Y9QOzyolWHFORSCXEwKu6) | 4:20 |
 | 45 | [Still](https://open.spotify.com/track/2OQOYULLeWnGzlGcXQMGLv) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [Midnight Magic](https://open.spotify.com/album/08BUOmAF8JwaU4Nnsizswy) | 5:47 |
 | 46 | [Keep On Truckin'](https://open.spotify.com/track/5CiOCxc3argOhj5qKNZGN0) | [Eddie Kendricks](https://open.spotify.com/artist/2Uuon75BhnuuxdKLYn4wHn) | [Eddie Kendricks](https://open.spotify.com/album/5StW1pmCyC1WOuEDC8aUQh) | 7:59 |
 | 47 | [The Love You Save](https://open.spotify.com/track/2dYdai0GywuwYq6blSwDBV) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [ABC](https://open.spotify.com/album/3btVhknqDeGAEd1Qj7lL57) | 3:01 |
@@ -67,11 +67,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8xV1CEmgc1h.md) - [plain]
 | 57 | [The Happening](https://open.spotify.com/track/0EYaJLsgcqhyAG1vc59nJx) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [Anthology](https://open.spotify.com/album/5gX0Oedkr1IgRO8OXhUR5k) | 2:52 |
 | 58 | [I'll Be There](https://open.spotify.com/track/5RdhBLmB4DyFHLglRrfx63) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Third Album](https://open.spotify.com/album/5d6X8oegJmu9XKn9UBAswG) | 3:57 |
 | 59 | [Just My Imagination \(Running Away With Me\)](https://open.spotify.com/track/39Bd345OWEhRNyfayhp9gv) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [Sky's The Limit](https://open.spotify.com/album/1w68QsDEt1Rt5SiwOJNGFn) | 3:48 |
-| 60 | [Papa Was A Rollin' Stone](https://open.spotify.com/track/31NAADgOqGlBU70Xg1bdwQ) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [All Directions](https://open.spotify.com/album/4Et98HH5UoYzwUH5583YE7) | 11:44 |
+| 60 | [Papa Was A Rollin' Stone](https://open.spotify.com/track/2qE2Xzdn5fUoUF7wec0BrH) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [All Directions](https://open.spotify.com/album/3C2NkrkMebXpfKS7XT777P) | 11:45 |
 | 61 | [On Bended Knee](https://open.spotify.com/track/7MYmo0JJJDmu4MZTSAF9y3) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [II](https://open.spotify.com/album/1IWhZEOwEoXbOB4a40XaR3) | 5:29 |
 | 62 | [You Haven't Done Nothin'](https://open.spotify.com/track/1inwt0v9a4ib9yS6Y4KsdM) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Fulfillingness' First Finale](https://open.spotify.com/album/1kda4McF274Jl5x3aOAmPJ) | 3:22 |
 | 63 | [Theme From Mahogany \(Do You Know Where You're Going To\) \- Single Version](https://open.spotify.com/track/10VbGCpgC4FtmYSwBLvIDX) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Diana Ross \(Expanded Edition\)](https://open.spotify.com/album/2Fin5oppCDiqiLfqb3j3QO) | 3:24 |
 | 64 | [4 Seasons Of Loneliness](https://open.spotify.com/track/027tq4cWr0kRxLTfdxvM1L) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [Evolution](https://open.spotify.com/album/4zLchzG29ngh0MJgiy5GQx) | 4:52 |
 | 65 | [Love Hangover](https://open.spotify.com/track/4UqPeeSyRt59KZmC0aA2Ni) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Diana Ross \(Expanded Edition\)](https://open.spotify.com/album/2Fin5oppCDiqiLfqb3j3QO) | 7:48 |
 
-Snapshot ID: `MTU2MTk4NDkwNCwwMDAwMDAwMDYwZDcyZGI0ODM2NDQyZDIwNmI5YTVhMWVkMDA4Mzk3`
+Snapshot ID: `MTU2MTk4NDkwNCwwMDAwMDAwMDQ4YzdiYTNmODgwZTQxNWUzZWU0NWFkMDQyYTY3YzRj`

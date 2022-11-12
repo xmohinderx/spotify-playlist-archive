@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07DtzR.md) - [plain]
 
 > This is EGOIST\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,720 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,734 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,13 +31,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07DtzR.md) - [plain]
 | 21 | [Planetes](https://open.spotify.com/track/1POXnRIFsWgBfbMlFcBm7w) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Extra Terrestrial Biological Entities](https://open.spotify.com/album/0CytqeWiNHC513V6oepX2F) | 6:03 |
 | 22 | [It's all about you](https://open.spotify.com/track/3mJUvJ1gTQytrTdUh6yeVa) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [KABANERI OF THE IRON FORTRESS](https://open.spotify.com/album/08MF5DFbIV3DjEo9MfDLW2) | 4:07 |
 | 23 | [Door](https://open.spotify.com/track/53MmtPvpScpwrk1Dr87yOG) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [リローデッド](https://open.spotify.com/album/7ISfH1G7GDz5VPAi200l2B) | 5:34 |
-| 24 | [Welcome to the \*fam \(from BEST AL“ALTER EGO”\)](https://open.spotify.com/track/36ePkoHGeWwSGchLgZaSAc) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [GREATEST HITS 2011\-2017 “ALTER EGO”](https://open.spotify.com/album/6TXu1SOr7m6NBuaD5QIzPr) | 3:50 |
+| 24 | [London Bridge is falling down](https://open.spotify.com/track/5x8Pla4awAAvyfmJG4Se2R) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [咲かせや咲かせ](https://open.spotify.com/album/7nYDf2MRbrQA6aiyrzPgx7) | 2:23 |
 | 25 | [LoveStruck](https://open.spotify.com/track/4ts45vwSYcZJdIZdlt5OUz) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Extra terrestrial Biological Entities](https://open.spotify.com/album/1VihbCScbhSnObSiflsRhi) | 4:31 |
 | 26 | [Eiyu Fate's Song](https://open.spotify.com/track/09MdY7aQmFhDdnnQGSk6aa) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [英雄 運命の詩](https://open.spotify.com/album/1FaJ8Zbd4jIC3SK7Hnye9r) | 4:44 |
-| 27 | [名前のない怪物 \-TV Edit\- <DAY version>](https://open.spotify.com/track/4lhRGkiHL6opuapwlpMUlV) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [名前のない怪物 \-TV Edit\- <DAY version>](https://open.spotify.com/album/1lLiLkbIV9dwkyQ2blAzgD) | 1:30 |
-| 28 | [Fallen\-TV edit\-](https://open.spotify.com/track/1CYwRtu4PBxvkaWwE20byN) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Fallen\-TV edit\-](https://open.spotify.com/album/46rDtAexHCRaKZTa1dVd7y) | 1:29 |
+| 27 | [Welcome to the \*fam \(from BEST AL“ALTER EGO”\)](https://open.spotify.com/track/36ePkoHGeWwSGchLgZaSAc) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [GREATEST HITS 2011\-2017 “ALTER EGO”](https://open.spotify.com/album/6TXu1SOr7m6NBuaD5QIzPr) | 3:50 |
+| 28 | [名前のない怪物 \-TV Edit\- <DAY version>](https://open.spotify.com/track/4lhRGkiHL6opuapwlpMUlV) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [名前のない怪物 \-TV Edit\- <DAY version>](https://open.spotify.com/album/1lLiLkbIV9dwkyQ2blAzgD) | 1:30 |
 | 29 | [Extra terrestrial Biological Entities](https://open.spotify.com/track/2ORgcPwvgBo5begZWzYSkE) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Extra terrestrial Biological Entities](https://open.spotify.com/album/1VihbCScbhSnObSiflsRhi) | 5:40 |
-| 30 | [London Bridge is falling down](https://open.spotify.com/track/5x8Pla4awAAvyfmJG4Se2R) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [咲かせや咲かせ](https://open.spotify.com/album/7nYDf2MRbrQA6aiyrzPgx7) | 2:23 |
+| 30 | [Fallen\-TV edit\-](https://open.spotify.com/track/1CYwRtu4PBxvkaWwE20byN) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Fallen\-TV edit\-](https://open.spotify.com/album/46rDtAexHCRaKZTa1dVd7y) | 1:29 |
 | 31 | [elbadaernU](https://open.spotify.com/track/7hWcW1U8ZUkjFYRo3sHEzT) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [All Alone With You](https://open.spotify.com/album/6jX8qb7jeuhudH40tWG4B7) | 4:10 |
 | 32 | [キミソラキセキ](https://open.spotify.com/track/1nlcUnsBQP4HB07IYt0Hxn) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [The Everlasting Guilty Crown](https://open.spotify.com/album/4pYCfwpYg7uD3mibYScCb5) | 5:08 |
 | 33 | [好きと言われた日 \(from BEST AL“ALTER EGO”\)](https://open.spotify.com/track/0TQw7jTUAbTRyx58vwg53E) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [GREATEST HITS 2011\-2017 “ALTER EGO”](https://open.spotify.com/album/6TXu1SOr7m6NBuaD5QIzPr) | 4:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07DtzR.md) - [plain]
 | 49 | [The Everlasting Guilty Crown BOOM BOOM SATELLITES remix \-The Last Moment Of The Dawn\-](https://open.spotify.com/track/7HkFBmpnbzUPMz3vanDPjO) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [The Everlasting Guilty Crown](https://open.spotify.com/album/2tXcG38XstJAsjlcoDmnxC) | 7:55 |
 | 50 | [KABANERI OF THE IRON FORTRESS \-Instrumental\-](https://open.spotify.com/track/5WQ2gTSyn4zh5skFTF19t6) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [KABANERI OF THE IRON FORTRESS](https://open.spotify.com/album/08MF5DFbIV3DjEo9MfDLW2) | 4:52 |
 
-Snapshot ID: `Mjc4MDE1OTIsMDAwMDAwMDA2YmFiZDY5NmM1N2Y1ZGJkYjM1MDI3ZGU2MTZhZTUwNQ==`
+Snapshot ID: `Mjc4MDI5OTksMDAwMDAwMDA1MDg4Njg1NzM1YTE2NWMxNjRlODI4MjVlYjUzMjA2ZA==`

@@ -654,6 +654,24 @@
     },
     {
       "album": {
+        "name": "Back To The Egg",
+        "url": "https://open.spotify.com/album/3zMRSD0zUqopFPaoER2ODc"
+      },
+      "artists": [
+        {
+          "name": "Wings",
+          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216693,
+      "name": "Arrow Through Me - Remastered 1993",
+      "url": "https://open.spotify.com/track/3NiYvMjp5A3FZmP3dojS8k"
+    },
+    {
+      "album": {
         "name": "The Modern Lovers (Expanded Version)",
         "url": "https://open.spotify.com/album/5BPCP7WSGBG4br2o4WRmd8"
       },

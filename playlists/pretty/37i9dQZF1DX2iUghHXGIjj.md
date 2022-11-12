@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iUghHXGIjj.md) - [plain]
 
 > Raw, emotional, and acoustic\. Cover: Taj Mahal
 
-[Spotify](https://open.spotify.com/user/spotify) - 668,394 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 668,427 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iUghHXGIjj.md) - [plain]
 | 69 | [Cross Road Blues](https://open.spotify.com/track/1TrGdXSgiBm8W68D2K1COG) | [Robert Johnson](https://open.spotify.com/artist/0f8MDDzIc6M4uH1xH0o0gy) | [King Of The Delta Blues Singers](https://open.spotify.com/album/2IWaNq5o4tG1w6yxve5BMU) | 2:29 |
 | 70 | [Apple Picker \(Acoustic\)](https://open.spotify.com/track/3y3cL6EO4ZwSUAFqSMF1Ec) | [Little G Weevil](https://open.spotify.com/artist/4hkwwRsMaMnDGor4KRup2m) | [Three Chords Too Many](https://open.spotify.com/album/5ncj1ATQJG0z62v5zvowKt) | 5:36 |
 | 71 | [Prisoner](https://open.spotify.com/track/17fAhKyok3ZImAd3mcqtGx) | [Cary Morin](https://open.spotify.com/artist/51oTB1rGltPYEUj9WqBqgh) | [Together](https://open.spotify.com/album/0i7k4eoj7BaJTEckmsismQ) | 4:09 |
-| 72 | [Play With Your Poodle](https://open.spotify.com/track/3HR1zeLxoPmGuFD8Qxu0Jq) | [James Cotton](https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k) | [Deep In The Blues](https://open.spotify.com/album/1oH2NSqTzggdoVlUcUxLvU) | 3:39 |
+| 72 | [Play With Your Poodle](https://open.spotify.com/track/0yqFqZtH96Z8WPd9Q6AvJU) | [James Cotton](https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k) | [Harmonica Blues](https://open.spotify.com/album/3CcEEK5lIRYkBfObfCEmSj) | 3:39 |
 | 73 | [Calling Out To You](https://open.spotify.com/track/4NbmBhEdThmGYpiVakws47) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [Made Up Mind](https://open.spotify.com/album/41qVSZezrAYJ8zXZvoyLGA) | 3:46 |
 | 74 | [Pray For Rain](https://open.spotify.com/track/1lE2aVjpBPUcDO1XlmD0yu) | [Walter Trout](https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq) | [Blues for the Modern Daze](https://open.spotify.com/album/7F73Pr637O5lVlXUsPgUFJ) | 3:14 |
 | 75 | [Death Row](https://open.spotify.com/track/4gFPqVg2MRvQGkSo7PhkOd) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4) | [Gone to Texas](https://open.spotify.com/album/5XaNKUWehrwuVY6lGsLFkQ) | 4:07 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iUghHXGIjj.md) - [plain]
 | 95 | [Talkin' To Jehova](https://open.spotify.com/track/2htN0gyb1WiJliAq9LtDza) | [Kelly Joe Phelps](https://open.spotify.com/artist/7MGPOWrHHrTJcviOWNbKEF) | [Brother Sinner & The Whale](https://open.spotify.com/album/7BsEu3aR82GbSKxMhbGnUS) | 4:36 |
 | 96 | [Slowly Slipping Away](https://open.spotify.com/track/0IdWFitNfPCkUKSRfufc6C) | [Steve Hill](https://open.spotify.com/artist/2f1hLQKsXGmF9rxdrq6Jt4) | [Solo Recordings, Vol\. 3](https://open.spotify.com/album/30Ww7ImwchFWThx0qTrhHa) | 3:27 |
 | 97 | [Searching Blues](https://open.spotify.com/track/1RWAsPQhpizSGmO8YWmS8M) | [Manuel Galvin](https://open.spotify.com/artist/5OiXz8xSD4YGtm7vYDZ0Gs), [Michael Robinson](https://open.spotify.com/artist/4rmqOj8syPDp0g3MpWxCus) | [American Heritage](https://open.spotify.com/album/28mwkzzBRA3v9SwWzzqKIL) | 3:50 |
-| 98 | [Keep Your Lamp Trimmed And Burning](https://open.spotify.com/track/5LTMzb6lrWkdgNl4CNwfwx) | [Corey Harris](https://open.spotify.com/artist/1TQtbRQbaXw5CeN3mC0DJH) | [Between Midnight And Day](https://open.spotify.com/album/6fuRNpnOE7QgyT1IcdvpED) | 2:54 |
+| 98 | [Keep Your Lamp Trimmed And Burning](https://open.spotify.com/track/08CShCm5L8jopYYkpF6bVY) | [Corey Harris](https://open.spotify.com/artist/1TQtbRQbaXw5CeN3mC0DJH) | [Alligator Records 35th Anniversary Collection](https://open.spotify.com/album/5oNBMrK7Upa0tbWsmlDQAt) | 2:55 |
 | 99 | [What They Say](https://open.spotify.com/track/24NvptbNKGs6sPy1Vh1O0v) | [Chris Smither](https://open.spotify.com/artist/4PM86aECDhcdwuJNZNrR22) | [Hundred Dollar Valentine](https://open.spotify.com/album/1OsaTxNg63FgnAqMVvIcC7) | 2:46 |
 | 100 | [Turtle Beach](https://open.spotify.com/track/3oXba26C2LfzWFnVXnrunT) | [Eric Von Schmidt](https://open.spotify.com/artist/739hmk6VVud7fbPNmYL7pa) | [2nd Right, 3rd Row](https://open.spotify.com/album/54NcsyWIW9MeKUSqzHCrHW) | 3:53 |
 
-Snapshot ID: `MTY2MTQ4NjUyMCwwMDAwMDAwMGQ4NTQ2YTQ0ZmRlNzZkNzRlMzk2N2ZlMGU4ZTFlYzk2`
+Snapshot ID: `MTY2MTQ4NjUyMCwwMDAwMDAwMDI2MDI5ODU1MjgxMDFiNGI0NWZhNzFiZDBmOTVjMTQy`

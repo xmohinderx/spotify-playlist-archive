@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXanOaZVFiwtB.md) - [plain]
 
 > The hottest Anime hits of the 90s\. 1990年代のアニメソングを特集。Illustration by <a href="https://www.instagram.com/hideyasu\_moto/"> Hideyasu Moto</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,615 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,753 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXanOaZVFiwtB.md) - [plain]
 | 39 | [プラチナ](https://open.spotify.com/track/1OugCc4G4lXxSrDXahmdXL) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [プラチナ](https://open.spotify.com/album/5mgabloGQx0OJUq1WgbkaL) | 4:10 |
 | 40 | [Take Me Home, Country Roads](https://open.spotify.com/track/3HhMQ1mRatraBs50x0dpI8) | [Yuji Nomi](https://open.spotify.com/artist/2ItyqN4i9lNz49g421p0Cl) | [Whisper of the Heart Image Album](https://open.spotify.com/album/7qXm2D9TkveSwpX77fUaio) | 4:24 |
 | 41 | [約束はいらない](https://open.spotify.com/track/0DU2Iw0OYOYPX4kMOZo2dl) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [グレープフルーツ](https://open.spotify.com/album/3DoNxjRSTZnR4NLrQZhTFO) | 3:32 |
-| 42 | [さよなら文明](https://open.spotify.com/track/5CpSCK9dXdDOOvQsC861HN) | [Bakufu Slump](https://open.spotify.com/artist/38S2jSY9Fr0AcZZWMrKuqC) | [決定版! 爆風スランプ大全集](https://open.spotify.com/album/22KV3uWwIq9IcM3j5USuo0) | 3:15 |
+| 42 | [さよなら文明](https://open.spotify.com/track/6JHRrDBuYq0cmOmVLo4urS) | [Bakufu Slump](https://open.spotify.com/artist/38S2jSY9Fr0AcZZWMrKuqC) | [SINGLES](https://open.spotify.com/album/5NpqHrBLsy5higgDkTnrZY) | 3:14 |
 | 43 | [虚空の迷宮](https://open.spotify.com/track/6iLYqFCqUHz3rZjCngwG5F) | [Seikima\-II](https://open.spotify.com/artist/3xl8koA4X7WDnRYSmjYeDa) | [XXX \-THE ULTIMATE WORST\-](https://open.spotify.com/album/3MxXXbu522KmLythdd2ecq) | 4:18 |
 | 44 | [通学路](https://open.spotify.com/track/1vnFKuR3rBOhX7l5lcrMDa) | [Whiteberry](https://open.spotify.com/artist/76oZZyUq2OsR4uvuZVYdPn) | [GOLDEN☆BEST Whiteberry](https://open.spotify.com/album/7BMm2AkVbA3F7ULQoJ5ivY) | 4:05 |
 | 45 | [さぁ](https://open.spotify.com/track/72zujXU2gjddcwOw48spLR) | [Surface](https://open.spotify.com/artist/7c3NwFEgdzvFdGIa7wku5K) | [Phase](https://open.spotify.com/album/46ZYjyPcLKOIVG6ckePek9) | 3:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXanOaZVFiwtB.md) - [plain]
 | 49 | [走れマキバオー](https://open.spotify.com/track/2i6X1ALEo8tpKQhujqEYxk) | [F.MAP](https://open.spotify.com/artist/0YCyPvipguPxXqZmd0EHlB) | [走れマキバオー](https://open.spotify.com/album/2qjnjEgSosPOQYfT6gUIpd) | 3:50 |
 | 50 | [ウルトラ リラックス](https://open.spotify.com/track/25IzraQSbIa16ldrInYseb) | [Tomoe Shinohara](https://open.spotify.com/artist/27trVEYHShFRolUZEP29KC) | [スーパーモデル 15th Anniversary Edition](https://open.spotify.com/album/4R4HiowbixsBsdSXAqiTFf) | 4:35 |
 
-Snapshot ID: `MTY2MTg3NjMzNywwMDAwMDAwMDdlMDU5Y2ZlMTY3NGJjNmFhYmZjNTU4ZjU0ZTRiYmQ5`
+Snapshot ID: `MTY2MTg3NjMzNywwMDAwMDAwMGEwYzI4MmJjYWZlNDJiODNhNjVjYjUxMTMwMjJjZDgy`

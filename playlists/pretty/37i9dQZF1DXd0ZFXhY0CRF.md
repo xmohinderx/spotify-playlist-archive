@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0ZFXhY0CRF.md) - [plain]
 
 > These women rock our worlds with their music and influence\. Cover: Alanis Morissette
 
-[Spotify](https://open.spotify.com/user/spotify) - 678,809 likes - 90 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 679,019 likes - 90 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0ZFXhY0CRF.md) - [plain]
 | 48 | [Seether](https://open.spotify.com/track/1SY2vughwKmVPm1Lmf5Nl7) | [Veruca Salt](https://open.spotify.com/artist/2QwJQuBekTA4qF7N7uLHDP) | [American Thighs](https://open.spotify.com/album/5Mjt2iha5C99JBqTjJijg9) | 3:16 |
 | 49 | [Pretend We're Dead](https://open.spotify.com/track/3z5ggGtcs4t8pizW521gW9) | [L7](https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h) | [Bricks Are Heavy](https://open.spotify.com/album/0z7Dc7FRsDH7E4kj32mKyM) | 3:55 |
 | 50 | [Make Me Wanna Die](https://open.spotify.com/track/2opyAm6zOyjR0An5LkblfN) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Light Me Up](https://open.spotify.com/album/2vv6A1vmzEcnzaIkrKveJy) | 3:55 |
-| 51 | [Bring Me To Life](https://open.spotify.com/track/0COqiPhxzoWICwFCS4eZcp) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Fallen](https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm) | 3:55 |
+| 51 | [Bring Me To Life](https://open.spotify.com/track/4RFOnev1uGYfaDkvSfOLW7) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Sad Songs Sing\-Along](https://open.spotify.com/album/53RP1ZPLTpJ2HHsSr6od6S) | 3:55 |
 | 52 | [I Miss the Misery](https://open.spotify.com/track/3gmEzilP9BzF45wIMvA16l) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [The Strange Case of..\. \(Deluxe\)](https://open.spotify.com/album/4TyrGrbnsOVKOXVut2huz2) | 3:03 |
 | 53 | [Kiss Me Deadly](https://open.spotify.com/track/0kFM6t9htbB53Dg8frGDGh) | [Lita Ford](https://open.spotify.com/artist/77tBvvyd6SD4Y9Um1xcbxP) | [Lita](https://open.spotify.com/album/5nfd1bXqze24U3EZXP1Qlk) | 4:01 |
 | 54 | [Faster](https://open.spotify.com/track/4XBtYPGMAYJkuJu2w4pmYl) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Unforgiving](https://open.spotify.com/album/1EvpTfBqlDzPwDYzWTgTw3) | 4:23 |
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0ZFXhY0CRF.md) - [plain]
 | 57 | [333](https://open.spotify.com/track/5pyHTi1WOBpU2WvRAlpQ0l) | [Against Me!](https://open.spotify.com/artist/29lz7gs8edwnnfuXW4FhMl) | [Shape Shift With Me](https://open.spotify.com/album/3lqqdqQPSFFujnoYAQbcKy) | 3:17 |
 | 58 | [Hedonism \(Just Because You Feel Good\)](https://open.spotify.com/track/2qRZm3cGCUPK40j3g0G5cN) | [Skunk Anansie](https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF) | [Stoosh](https://open.spotify.com/album/4S7eZrznxAyzv8IaoztDDR) | 3:27 |
 | 59 | [Dig Me Out](https://open.spotify.com/track/1YdCuoPvDDVyHa3YomPb1B) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Dig Me Out \(Remastered\)](https://open.spotify.com/album/3tshnNFNhHrO6NUQ0BHw42) | 2:40 |
-| 60 | [I Want You to Want Me](https://open.spotify.com/track/3DcPLPvsZPcFcYfMPMfh4e) | [Letters To Cleo](https://open.spotify.com/artist/7E41j1yL9ZeTWfqe9bUGgw) | [When Did We Do That?](https://open.spotify.com/album/1c2pJwy1y3eSP2Nknt0rp8) | 3:26 |
+| 60 | [I Want You To Want Me](https://open.spotify.com/track/5HWEu2neVmx4j9jeXvx5NA) | [Letters To Cleo](https://open.spotify.com/artist/7E41j1yL9ZeTWfqe9bUGgw) | [Back To School \- Pop Edition](https://open.spotify.com/album/7D7AsvzfRsK5le2DiV5ekP) | 3:25 |
 | 61 | [Naked Eye](https://open.spotify.com/track/6YtkOhiHmf46w1noltVnF2) | [Luscious Jackson](https://open.spotify.com/artist/1EcRE2Nnqg2spdn2otakhg) | [Fever In Fever Out](https://open.spotify.com/album/0GDMOxPfDWThpQJaGpJjqh) | 4:40 |
 | 62 | [Bruise Violet](https://open.spotify.com/track/0o0fnK2CqZvI3jONRDv6ax) | [Babes In Toyland ](https://open.spotify.com/artist/3Xdna5z74yNICNKqdaNX9z) | [Fontanelle](https://open.spotify.com/album/3fbPYfpyJtow8IF3ho7o09) | 2:52 |
 | 63 | [Typical Girls](https://open.spotify.com/track/395kSI564E2Rl1Nh5kGOxQ) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Cut \(Deluxe Edition\)](https://open.spotify.com/album/6ppPT0aXOtsAlG1QQVB9E0) | 3:55 |
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0ZFXhY0CRF.md) - [plain]
 | 81 | [You and I](https://open.spotify.com/track/4xJWfVNC52PSK5ObyOKQsw) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [White Noise \(Deluxe Version\)](https://open.spotify.com/album/7za8qVGR3wUEJ01pLFcnPB) | 4:30 |
 | 82 | [i can't get high](https://open.spotify.com/track/1tbGWHbbPihDSinp2Xg7Uz) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [searching for nirvana](https://open.spotify.com/album/6KvpjWttWb04l9Goe07g28) | 3:08 |
 | 83 | [Cleopatra](https://open.spotify.com/track/1vbu9CQdQQgYHPeqTn8WK0) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Cleopatra](https://open.spotify.com/album/79QALKmJRQgzHWHTutvg5O) | 3:30 |
-| 84 | [Pretty Waste](https://open.spotify.com/track/71HZdwtSopDs87RvpI8ip2) | [BONES UK](https://open.spotify.com/artist/16kd5X3pBMOtXdLlX5LcAw) | [Bones UK](https://open.spotify.com/album/6YkF6eWFU0EhVHBnYzAgqv) | 2:50 |
+| 84 | [Pretty Waste](https://open.spotify.com/track/2eRpD2BvnFAZCXN5fukXZz) | [BONES UK](https://open.spotify.com/artist/16kd5X3pBMOtXdLlX5LcAw) | [Pretty Waste](https://open.spotify.com/album/6NSmYBEztwHriWZF4huXPv) | 2:50 |
 | 85 | [Anarchy](https://open.spotify.com/track/4YAXAwEpTM9MItXnpX8UJo) | [Lilith Czar](https://open.spotify.com/artist/2tMZ37dVy1DzZjXXCjhgFq) | [Anarchy](https://open.spotify.com/album/79cfwYmw0Dv4sRSa9tPwaY) | 3:54 |
 | 86 | [Love's Not Enough](https://open.spotify.com/track/5JRPwkRjSVFOJzeTuIAtFf) | [The Mysterines](https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M) | [Love's Not Enough EP](https://open.spotify.com/album/4srLIyIqXQ0hbSdMqiQN7B) | 3:48 |
 | 87 | [She's Kerosene](https://open.spotify.com/track/60FJeNTK5edr72G2xtCWuP) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [Fight the Good Fight](https://open.spotify.com/album/6AoWkAFBSNlX63z1fJVNIL) | 2:50 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0ZFXhY0CRF.md) - [plain]
 | 89 | [Stuck](https://open.spotify.com/track/0x8VeSHmhbRl9EUAdsEx6A) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [I Don't Like Being Honest](https://open.spotify.com/album/5kZtMQfFg0BMibHRGi6ghX) | 3:26 |
 | 90 | [I Like The Way You Die](https://open.spotify.com/track/13HPn0OyGLPtJ6iUNiwLYg) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [I Like The Way You Die](https://open.spotify.com/album/4jGP8NOGoSlrHKfVcU1IVn) | 3:08 |
 
-Snapshot ID: `MTY1MzkxNzcxMywwMDAwMDAwMDJmNGQxNDE1NjgwOWUyZTk0YWVhNTk4M2YwMjUwMWJm`
+Snapshot ID: `MTY1MzkxNzcxMywwMDAwMDAwMGUxYTE0OTE4ODY1MzljMmZlYWU1NDA3YzJiMDMxZGEy`

@@ -1,12 +1,12 @@
 {
   "description": "The ultimate chilled soundtrack to bring your day to a close.",
-  "num_followers": 328756,
+  "num_followers": 328767,
   "original_name": "Ibiza Sunset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODMwMzk3NSwwMDAwMDAwMDNjZDA4ZjA2YjI2MGFjMjRiMDdmM2Y4NTVkYjY1N2Iy",
+  "snapshot_id": "MTY1ODMwMzk3NSwwMDAwMDAwMDNmMDI3OWIxZjEzYjE3MTQ1NDlmMDFlYzIyZjRjMGQ1",
   "tracks": [
     {
       "added_at": "2022-07-20 07:59:35",
@@ -727,6 +727,22 @@
     {
       "added_at": "2022-07-20 07:59:35",
       "album": {
+        "name": "Best Of",
+        "url": "https://open.spotify.com/album/6lqVWHv7vKDrMhTgrNFwkM"
+      },
+      "artists": [
+        {
+          "name": "Bent",
+          "url": "https://open.spotify.com/artist/59xljcfdN2Z9VX2U5RFKEa"
+        }
+      ],
+      "duration_ms": 315346,
+      "name": "K.I.S.S.E.S",
+      "url": "https://open.spotify.com/track/2ojgRKZJ1oRREcNQIYVnX4"
+    },
+    {
+      "added_at": "2022-07-20 07:59:35",
+      "album": {
         "name": "Chaos in the CBD & Friends",
         "url": "https://open.spotify.com/album/52gDijfKDkvRQiqtSmWiq8"
       },
@@ -755,18 +771,18 @@
     {
       "added_at": "2022-07-20 07:59:35",
       "album": {
-        "name": "Best Of",
-        "url": "https://open.spotify.com/album/6lqVWHv7vKDrMhTgrNFwkM"
+        "name": "3D Reworks 001",
+        "url": "https://open.spotify.com/album/15PC8OBWZycbckdl1VOYle"
       },
       "artists": [
         {
-          "name": "Bent",
-          "url": "https://open.spotify.com/artist/59xljcfdN2Z9VX2U5RFKEa"
+          "name": "Max Cooper",
+          "url": "https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J"
         }
       ],
-      "duration_ms": 315346,
-      "name": "K.I.S.S.E.S",
-      "url": "https://open.spotify.com/track/2ojgRKZJ1oRREcNQIYVnX4"
+      "duration_ms": 296250,
+      "name": "Resynthesis 3D (Binaural Version - Headphones Only)",
+      "url": "https://open.spotify.com/track/1c7inucFjGndMO3QTsl0lg"
     },
     {
       "added_at": "2022-07-20 07:59:35",
@@ -783,22 +799,6 @@
       "duration_ms": 305641,
       "name": "Satori",
       "url": "https://open.spotify.com/track/66nJxPYKMrje2xs7vHnvKK"
-    },
-    {
-      "added_at": "2022-07-20 07:59:35",
-      "album": {
-        "name": "3D Reworks 001",
-        "url": "https://open.spotify.com/album/15PC8OBWZycbckdl1VOYle"
-      },
-      "artists": [
-        {
-          "name": "Max Cooper",
-          "url": "https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J"
-        }
-      ],
-      "duration_ms": 296250,
-      "name": "Resynthesis 3D (Binaural Version - Headphones Only)",
-      "url": "https://open.spotify.com/track/1c7inucFjGndMO3QTsl0lg"
     },
     {
       "added_at": "2022-07-20 07:59:35",

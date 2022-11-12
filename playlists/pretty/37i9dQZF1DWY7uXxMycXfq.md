@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7uXxMycXfq.md) - [plain]
 
 > Women who experiment with electronic loops, strings, voice and other cosmic delights\. Cover: Loraine James
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,992 likes - 71 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,007 likes - 71 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7uXxMycXfq.md) - [plain]
 | 11 | [Suite Pour L'invisible](https://open.spotify.com/track/5JTRbD6x9nnYh3mrrK3kcR) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Because of a Flower](https://open.spotify.com/album/4JShepplFefZ43GXoE4bRd) | 7:01 |
 | 12 | [In Her Hair](https://open.spotify.com/track/76cA2zwvP6oZXMEMrx7jRV) | [Lisa Lerkenfeldt](https://open.spotify.com/artist/3famB97koyRfo502IWQjFL) | [Collagen](https://open.spotify.com/album/5DCzCJxAkCrd011i8CgZgx) | 5:21 |
 | 13 | [Simplicity Mind Tool](https://open.spotify.com/track/44EWg3rLB9A6kTRri8hpia) | [Ami Dang](https://open.spotify.com/artist/1DAqw4sYHPmgHQ6gzOVDig) | [Meditations Mixtape Vol.1](https://open.spotify.com/album/3nTrcC8700QJxy88LcB0k4) | 4:40 |
-| 14 | [The Steady Heart](https://open.spotify.com/track/0ZRoGWrVDfK5J6nbZTywr2) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [The Mosaic of Transformation](https://open.spotify.com/album/2uacatJeUrWB2Fj3epyMgA) | 5:39 |
+| 14 | [The Steady Heart](https://open.spotify.com/track/07b7wamvmtxZdHPRVjdQjW) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [The Steady Heart](https://open.spotify.com/album/7CGeLL2ynKNd5QRJAbrcgQ) | 5:39 |
 | 15 | [Grove \(feat\. Embaci\)](https://open.spotify.com/track/5z9UHbaTlxlGFmo0QF3r8Q) | [Elysia Crampton](https://open.spotify.com/artist/75v4Rn3SqXn6dmq2PFrRgN), [Embaci](https://open.spotify.com/artist/7lQGSAbIBqelsj0cSMiXIf) | [ORCORARA 2010](https://open.spotify.com/album/53C5AOi5JakQFaFWWRUt93) | 4:43 |
 | 16 | [home with you](https://open.spotify.com/track/6x4jMSgj7LaMLrqFXe6HQ8) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [home with you](https://open.spotify.com/album/7vs7eD7pLUSIWK4NCU6hIE) | 3:44 |
 | 17 | [Insecure Behaviour and Fuckery](https://open.spotify.com/track/2MXOfWXA8LLtpW820uDHe0) | [Loraine James](https://open.spotify.com/artist/536qHynzDH1QviwhWY9dE3), [Nova](https://open.spotify.com/artist/3rNhRAltBbferGhIGlZFmh) | [Reflection](https://open.spotify.com/album/2z5JAOOwIIWog5UDQydquq) | 4:59 |
@@ -57,11 +57,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7uXxMycXfq.md) - [plain]
 | 47 | [Symvol](https://open.spotify.com/track/5g8c2v1ijcBcQfCKA3z1gX) | [Zavoloka](https://open.spotify.com/artist/7DynAI5Xfem587lJkE1TRp) | [XII](https://open.spotify.com/album/17OyQoVXU760lLxIkUtGoK) | 5:34 |
 | 48 | [L’Enfant Et Le Poulpe](https://open.spotify.com/track/54H7J3fGubgBzSoSCcn4CL) | [Felicia Atkinson](https://open.spotify.com/artist/5YQURNvswNpWWUWyeNT7we) | [The Flower And The Vessel](https://open.spotify.com/album/6q2zdnjrihfiV0NZJQvEOy) | 5:58 |
 | 49 | [Uniform](https://open.spotify.com/track/6wm7NdzAaNA4KxgM0Em3w7) | [Lafawndah](https://open.spotify.com/artist/7jHWye55igIZ6SsF4eXKkP) | [Ancestor Boy](https://open.spotify.com/album/3TJytf0pGdE091GmE0z4Rc) | 3:14 |
-| 50 | [Tulpar](https://open.spotify.com/track/1vdlZbL65vnKLxCxiafNHx) | [Galya Bisengalieva](https://open.spotify.com/artist/5XT7fo7ijBPZAWWzXDEaRh) | [Tulpar](https://open.spotify.com/album/0cxD4j3Zp1Q0wSZnPIBgO2) | 3:25 |
+| 50 | [Tulpar](https://open.spotify.com/track/32V0XnQJOsIQGI1xVlHUN5) | [Galya Bisengalieva](https://open.spotify.com/artist/5XT7fo7ijBPZAWWzXDEaRh) | [EP ONE](https://open.spotify.com/album/4KdAj9k6Xk1n8I0qkGlCtE) | 3:25 |
 | 51 | [The Archer](https://open.spotify.com/track/0uugjx8o1PE42p11EJTpvJ) | [Faten Kanaan](https://open.spotify.com/artist/6Jz6XSRQjWHHmdkR2myjjy) | [A Mythology of Circles](https://open.spotify.com/album/0nHy9AEVP4FZcAYHLQHSNz) | 6:01 |
 | 52 | [Love Birds \(acoustic\) \- WXAXRXP Session](https://open.spotify.com/track/2mpxwkwJKrTCTpWLxetAJn) | [Kelly Moran](https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy) | [WXAXRXP Session](https://open.spotify.com/album/33aX0rd6cQXvAggwL52puW) | 4:31 |
 | 53 | [Anxiety](https://open.spotify.com/track/55EUSGKBeZSHmy53mRKk2k) | [Leila Samir](https://open.spotify.com/artist/3SEWWBoysH0FKZ7KROMAaG) | [No Music](https://open.spotify.com/album/7v3Pl4Bak76OUNIQdwTe0Q) | 4:16 |
-| 54 | [TILT \- Single Edit](https://open.spotify.com/track/3Y7Y2OBvupVBPBUDU0FaFC) | [KÁRYYN](https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI), [Young Paint](https://open.spotify.com/artist/2fhkMDN3asvYcvkWTh8x0w) | [TILT](https://open.spotify.com/album/0dTcjoXoUdeFlXZgWLqd6E) | 3:08 |
+| 54 | [TILT \- Single Edit](https://open.spotify.com/track/2egz3UsJqqcTPgg3cXcivE) | [KÁRYYN](https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI), [Young Paint](https://open.spotify.com/artist/2fhkMDN3asvYcvkWTh8x0w) | [TILT](https://open.spotify.com/album/2nSFDTb59uyMdMkh5p8Rzf) | 3:08 |
 | 55 | [Ribbon on Neck](https://open.spotify.com/track/6FFfmSXIbCzSCQ5xcprsuG) | [Karen Gwyer](https://open.spotify.com/artist/7CIkQIdBUVT7ppXHLSbK3U) | [Man on Mountain](https://open.spotify.com/album/2vL3mxzjEAr1I0mADmOBOq) | 6:20 |
 | 56 | [Cricoid Pressure](https://open.spotify.com/track/1vOjYbRYc77mh6L6berVuG) | [Rrose](https://open.spotify.com/artist/5naKaYAyzzuPDsh4H2dwyT) | [DJ\-Kicks EP](https://open.spotify.com/album/4qwvX4iedw4JeIcTtiHUCw) | 8:15 |
 | 57 | [Milky Eye](https://open.spotify.com/track/74uxGYW8I4rppX9SZOFTem) | [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0), [LEYA](https://open.spotify.com/artist/6Af4zImb75tO0LxOAEdUI1) | [Angel Lust](https://open.spotify.com/album/03MYXgLR6BVHjI2CC6wO78) | 2:56 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7uXxMycXfq.md) - [plain]
 | 70 | [Hyphae](https://open.spotify.com/track/1P2vvqWQ36gkiUoxrY9z74) | [Laurel Halo](https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl) | [Hyphae](https://open.spotify.com/album/3Y2DIQoC2UeA1oSr1vhTbF) | 6:27 |
 | 71 | [Teta 7hz \(Tool\) \[feat\. DeForrest Brown Jr.\]](https://open.spotify.com/track/3nHU4KLvIBXCSfcrKmaJZW) | [Aïsha Devi](https://open.spotify.com/artist/4RtrEYqj2bINZ2HXWUG3j4) | [S.L.F.](https://open.spotify.com/album/0rZMYFmZZYdm3nfilk1SvV) | 3:33 |
 
-Snapshot ID: `MTYyNTA3ODc5NiwwMDAwMDAwMDk4OWRjNWRkM2YyZmFlMjVlZGRmNGU5YzQ5ZGMzYWMx`
+Snapshot ID: `MTYyNTA3ODc5NiwwMDAwMDAwMDVhZjg1NjFhZDhlZjFmYjkyNThjY2M2OGU3YmU4NzI3`

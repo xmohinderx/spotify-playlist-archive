@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXE7JlNQ8iBe.md) - [plain]
 
 > Carolina Ross le dedica un canto a La Catrina, para mantener nuestra tradición viva.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,962 likes - 45 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,978 likes - 45 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXE7JlNQ8iBe.md) - [plain]
 | 3 | [Amor Eterno](https://open.spotify.com/track/2TC4v9YiuQYk3Tk8RH7fV4) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Canta A Juan Gabriel](https://open.spotify.com/album/0KXlM36v51VrPceSsiz42M) | 6:49 |
 | 4 | [La Llorona](https://open.spotify.com/track/4c9VVKlTrfrIzNbEyDWYzO) | [Dueto Dos Rosas](https://open.spotify.com/artist/1zVb5eLiSqjctRTX4dfrer) | [La Llorona](https://open.spotify.com/album/3sV4fTa3XvPRJEF1MSWpks) | 5:48 |
 | 5 | [El Pastor](https://open.spotify.com/track/0SHajvoWJnSijE4g1s3PCu) | [Aida Cuevas](https://open.spotify.com/artist/5BOm3jiZCxwCXXJ0Hstubr) | [Las Grandes de la Canción Ranchera](https://open.spotify.com/album/1tSvYIqWs83UmaQmgvF8kv) | 3:47 |
-| 6 | [Gracias A La Vida](https://open.spotify.com/track/0UKSse3fcKetDzXnXzE1Pv) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7) | [30 años](https://open.spotify.com/album/2mrWvCCYtZn2UyhMopvAoU) | 4:24 |
+| 6 | [Gracias A La Vida](https://open.spotify.com/track/2rafEy8d80dJh7uUmk5r24) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7) | [Música Argentina](https://open.spotify.com/album/2PYXFKe2K01rtbLgV9XH85) | 4:23 |
 | 7 | [Mi Funeral](https://open.spotify.com/track/5JrNQsQ36HN25a6seNV9ye) | [Eugenia Leon](https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y), [Pepe Elizondo](https://open.spotify.com/artist/1sxnhcOMyZeeiwmXg9m08a), [Gera Razo](https://open.spotify.com/artist/3MoQvXRyY8NRuakcgCdwJY), [Checo Razo](https://open.spotify.com/artist/2jsd09FzKJn9kPj4EMw95g) | [A los 4 Vientos \(Edición Especial\)](https://open.spotify.com/album/6qSYt56lDGLyHMdWZUmHg7) | 3:45 |
 | 8 | [Así Es La Vida](https://open.spotify.com/track/3c8lIXaRUGniycNN1Mz2i7) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Así Es La Vida](https://open.spotify.com/album/5ygmzSeurGyRn57a5XAJNp) | 3:07 |
 | 9 | [Monton de Tierra](https://open.spotify.com/track/3LIXKvAKTFn0n8nnDaGevA) | [Regina Orozco](https://open.spotify.com/artist/6EBTfrUBSr4Bv3sSkIOyfM) | [Rosa Mexicano](https://open.spotify.com/album/2vpRcljD0QFlLlgxbs2Fkw) | 2:44 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXE7JlNQ8iBe.md) - [plain]
 | 44 | [La Tumba](https://open.spotify.com/track/1AuwJOJcxOfi5nEQPwk5XP) | [Hello Seahorse!](https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8) | [Lejos, No Tan Lejos](https://open.spotify.com/album/0YkY3WqyscfFERmCKnAWvf) | 2:44 |
 | 45 | [Dulce Mal](https://open.spotify.com/track/4bVaYbaxhHaxeCLGyERNfT) | [The Chamanas](https://open.spotify.com/artist/4QUnWR26plj0oHiQgRyhvk) | [Dulce Mal](https://open.spotify.com/album/7u7PYKzkFojFmGAj0JI37Y) | 4:02 |
 
-Snapshot ID: `MTY2Njk3MDI5MSwwMDAwMDAwMDgxYjQyOGNhNDFiYTIyOTA2M2Y0ZDI4YjdmZGYwNWRm`
+Snapshot ID: `MTY2Njk3MDI5MSwwMDAwMDAwMDg3MzhiNWIwNzFiYzZjMGY4M2I0NjhiN2ZkZTdmYzdl`

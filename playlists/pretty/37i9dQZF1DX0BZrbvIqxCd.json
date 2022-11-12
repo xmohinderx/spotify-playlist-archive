@@ -1,29 +1,13 @@
 {
   "description": "A mix of punk rock to get you through your workout.",
-  "num_followers": 521341,
+  "num_followers": 521346,
   "original_name": "Punk Rock Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mzc1NTQxMSwwMDAwMDAwMDZlYTQwMTE1NGFhOWM2OTM1MmNhODM0ZmZiMmUzMjNi",
+  "snapshot_id": "MTY0Mzc1NTQxMSwwMDAwMDAwMDMyMjVkYmM5YmY2MTc4NzhkODcyZGRiYTliMTJhODBl",
   "tracks": [
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
-        "name": "Rise And Fall, Rage And Grace",
-        "url": "https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 177826,
-      "name": "You're Gonna Go Far, Kid",
-      "url": "https://open.spotify.com/track/6TfBA04WJ3X1d1wXhaCFVT"
-    },
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
@@ -95,6 +79,22 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
+        "name": "Smash",
+        "url": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 257826,
+      "name": "Self Esteem",
+      "url": "https://open.spotify.com/track/1FkoVC85Ds3mFoK0fVqEqP"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
         "name": "The Young and The Hopeless",
         "url": "https://open.spotify.com/album/5CTygC3aONv7l0klY4k3hc"
       },
@@ -127,22 +127,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Smash",
-        "url": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 257826,
-      "name": "Self Esteem",
-      "url": "https://open.spotify.com/track/1FkoVC85Ds3mFoK0fVqEqP"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Three Cheers for Sweet Revenge",
         "url": "https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h"
       },
@@ -159,26 +143,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Tickets To My Downfall",
-        "url": "https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK"
-      },
-      "artists": [
-        {
-          "name": "Machine Gun Kelly",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        },
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 171620,
-      "name": "forget me too (feat. Halsey)",
-      "url": "https://open.spotify.com/track/1VSuFS7PahCN3SWbOcQ98m"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "From Under The Cork Tree",
         "url": "https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp"
       },
@@ -191,22 +155,6 @@
       "duration_ms": 229093,
       "name": "Sugar, We're Goin Down",
       "url": "https://open.spotify.com/track/2TfSHkHiFO4gRztVIkggkE"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
-        "name": "White Blood Cells",
-        "url": "https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0"
-      },
-      "artists": [
-        {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
-        }
-      ],
-      "duration_ms": 110093,
-      "name": "Fell In Love With a Girl",
-      "url": "https://open.spotify.com/track/21Qsj3cMVCx2xF2EVVNbEu"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -239,6 +187,26 @@
       "duration_ms": 153600,
       "name": "I'm Shipping Up To Boston",
       "url": "https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Tickets To My Downfall",
+        "url": "https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK"
+      },
+      "artists": [
+        {
+          "name": "Machine Gun Kelly",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        },
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 171620,
+      "name": "forget me too (feat. Halsey)",
+      "url": "https://open.spotify.com/track/1VSuFS7PahCN3SWbOcQ98m"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -451,22 +419,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Pennywise (2005 Remaster)",
-        "url": "https://open.spotify.com/album/5NHEi9LvFF2IEOct2BTUMt"
-      },
-      "artists": [
-        {
-          "name": "Pennywise",
-          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
-        }
-      ],
-      "duration_ms": 180893,
-      "name": "Bro Hymn - 2005 Remaster",
-      "url": "https://open.spotify.com/track/1ybhXkz4S8k9fdBZNBan7L"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Off the Leash",
         "url": "https://open.spotify.com/album/2lm8NrhAtM2ez61pI92J3l"
       },
@@ -531,6 +483,22 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
+        "name": "Pennywise (2005 Remaster)",
+        "url": "https://open.spotify.com/album/5NHEi9LvFF2IEOct2BTUMt"
+      },
+      "artists": [
+        {
+          "name": "Pennywise",
+          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
+        }
+      ],
+      "duration_ms": 180893,
+      "name": "Bro Hymn - 2005 Remaster",
+      "url": "https://open.spotify.com/track/1ybhXkz4S8k9fdBZNBan7L"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
         "name": "All Distortions Are Intentional",
         "url": "https://open.spotify.com/album/3fM2J0ilTBGwnzcN3SqUcG"
       },
@@ -579,22 +547,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Gasoline",
-        "url": "https://open.spotify.com/album/1GCRpa2J7QPdwSRRWdKUNr"
-      },
-      "artists": [
-        {
-          "name": "Point North",
-          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
-        }
-      ],
-      "duration_ms": 200228,
-      "name": "Gasoline",
-      "url": "https://open.spotify.com/track/1WhUguMtslKpiZqEbBpe4I"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "The General Strike",
         "url": "https://open.spotify.com/album/406J0Oguq0uZBtJmsc5juw"
       },
@@ -607,6 +559,22 @@
       "duration_ms": 181440,
       "name": "Broken Bones",
       "url": "https://open.spotify.com/track/3F3WJuZLS5I5aOcQLCbMGK"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Gasoline",
+        "url": "https://open.spotify.com/album/1GCRpa2J7QPdwSRRWdKUNr"
+      },
+      "artists": [
+        {
+          "name": "Point North",
+          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
+        }
+      ],
+      "duration_ms": 200228,
+      "name": "Gasoline",
+      "url": "https://open.spotify.com/track/1WhUguMtslKpiZqEbBpe4I"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -817,20 +785,24 @@
       "url": "https://open.spotify.com/track/1BqJIsOlo8rpm6FJ5N8VtJ"
     },
     {
-      "added_at": "2020-11-20 21:27:18",
+      "added_at": "2021-07-08 22:59:55",
       "album": {
-        "name": "Everything Is Temporary",
-        "url": "https://open.spotify.com/album/2bzmOZh7UD4cNiI9oEqHDb"
+        "name": "deathwish (feat. nothing,nowhere.)",
+        "url": "https://open.spotify.com/album/04tqbIcuZwsGL5Ut22eOKw"
       },
       "artists": [
         {
-          "name": "Between You & Me",
-          "url": "https://open.spotify.com/artist/1P1y4wp6V0CwjhGcXPKgAu"
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        },
+        {
+          "name": "nothing,nowhere.",
+          "url": "https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P"
         }
       ],
-      "duration_ms": 183495,
-      "name": "Dakota",
-      "url": "https://open.spotify.com/track/0PW18AbooKhtFzZ5LUuMsW"
+      "duration_ms": 147907,
+      "name": "deathwish (feat. nothing,nowhere.)",
+      "url": "https://open.spotify.com/track/4pi7qRGw2DDKAJMGHGcZ2O"
     },
     {
       "added_at": "2021-07-08 22:59:55",
@@ -851,6 +823,22 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
+        "name": "Everything Is Temporary",
+        "url": "https://open.spotify.com/album/2bzmOZh7UD4cNiI9oEqHDb"
+      },
+      "artists": [
+        {
+          "name": "Between You & Me",
+          "url": "https://open.spotify.com/artist/1P1y4wp6V0CwjhGcXPKgAu"
+        }
+      ],
+      "duration_ms": 183495,
+      "name": "Dakota",
+      "url": "https://open.spotify.com/track/0PW18AbooKhtFzZ5LUuMsW"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
         "name": "estella//",
         "url": "https://open.spotify.com/album/03q6OOInl2G0qYtmFlybqh"
       },
@@ -867,26 +855,6 @@
       "duration_ms": 118733,
       "name": "estella//",
       "url": "https://open.spotify.com/track/4v2Bq0xDB7uNN73I5b44Du"
-    },
-    {
-      "added_at": "2021-07-08 22:59:55",
-      "album": {
-        "name": "deathwish (feat. nothing,nowhere.)",
-        "url": "https://open.spotify.com/album/04tqbIcuZwsGL5Ut22eOKw"
-      },
-      "artists": [
-        {
-          "name": "Stand Atlantic",
-          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
-        },
-        {
-          "name": "nothing,nowhere.",
-          "url": "https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P"
-        }
-      ],
-      "duration_ms": 147907,
-      "name": "deathwish (feat. nothing,nowhere.)",
-      "url": "https://open.spotify.com/track/4pi7qRGw2DDKAJMGHGcZ2O"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -923,6 +891,22 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
+        "name": "Pink Elephant",
+        "url": "https://open.spotify.com/album/7mSFPsjZjTx8K1UmtDSQPu"
+      },
+      "artists": [
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        }
+      ],
+      "duration_ms": 233453,
+      "name": "Hate Me (Sometimes)",
+      "url": "https://open.spotify.com/track/69Y6dB1U7AZ0FfDdzol6ir"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
         "name": "Composure",
         "url": "https://open.spotify.com/album/574qjeKnYHIU246L4MMNbX"
       },
@@ -951,22 +935,6 @@
       "duration_ms": 150573,
       "name": "Wild World",
       "url": "https://open.spotify.com/track/0SoeiawkEYUJBtQce99lQd"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
-        "name": "Pink Elephant",
-        "url": "https://open.spotify.com/album/7mSFPsjZjTx8K1UmtDSQPu"
-      },
-      "artists": [
-        {
-          "name": "Stand Atlantic",
-          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
-        }
-      ],
-      "duration_ms": 233453,
-      "name": "Hate Me (Sometimes)",
-      "url": "https://open.spotify.com/track/69Y6dB1U7AZ0FfDdzol6ir"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1003,22 +971,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "MONOMANIA",
-        "url": "https://open.spotify.com/album/2FxbVATTBMwI7ytSsYMp6f"
-      },
-      "artists": [
-        {
-          "name": "The Word Alive",
-          "url": "https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk"
-        }
-      ],
-      "duration_ms": 215053,
-      "name": "NO WAY OUT",
-      "url": "https://open.spotify.com/track/7oib44NmCMvGNWnDDJjv5C"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Lost Touch",
         "url": "https://open.spotify.com/album/768qzd6dkobekdNcDtw8np"
       },
@@ -1031,22 +983,6 @@
       "duration_ms": 154971,
       "name": "Hotel Beds",
       "url": "https://open.spotify.com/track/4HvBQhvil6T5ISq1qr5u03"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
-        "name": "Brain Invaders (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5JxQ55Wvq2kCWtOQ0gSr9h"
-      },
-      "artists": [
-        {
-          "name": "zebrahead",
-          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
-        }
-      ],
-      "duration_ms": 175272,
-      "name": "We\u2019re Not Alright",
-      "url": "https://open.spotify.com/track/3CPm8pViOWEUtCTI4qrWGu"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1243,22 +1179,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Without Me (P\u00e2querette)",
-        "url": "https://open.spotify.com/album/6E492bGEgmyeMqipboR9Ke"
-      },
-      "artists": [
-        {
-          "name": "With Confidence",
-          "url": "https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav"
-        }
-      ],
-      "duration_ms": 192468,
-      "name": "Without Me (P\u00e2querette)",
-      "url": "https://open.spotify.com/track/0JA2gGRAyRZuhjrg6vI8oq"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Shapeshifter",
         "url": "https://open.spotify.com/album/1ljgNdyFCcnQxAbzejZrax"
       },
@@ -1271,6 +1191,22 @@
       "duration_ms": 185419,
       "name": "Gone",
       "url": "https://open.spotify.com/track/2MyUIH6eOOfzgxAEw8qz5R"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Without Me (P\u00e2querette)",
+        "url": "https://open.spotify.com/album/6E492bGEgmyeMqipboR9Ke"
+      },
+      "artists": [
+        {
+          "name": "With Confidence",
+          "url": "https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav"
+        }
+      ],
+      "duration_ms": 192468,
+      "name": "Without Me (P\u00e2querette)",
+      "url": "https://open.spotify.com/track/0JA2gGRAyRZuhjrg6vI8oq"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1319,6 +1255,22 @@
       "duration_ms": 219762,
       "name": "Go Down in History",
       "url": "https://open.spotify.com/track/2axAqRd2SSKmbA6fTuoRzM"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Shapeshifter",
+        "url": "https://open.spotify.com/album/1ljgNdyFCcnQxAbzejZrax"
+      },
+      "artists": [
+        {
+          "name": "Knuckle Puck",
+          "url": "https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm"
+        }
+      ],
+      "duration_ms": 211100,
+      "name": "Want Me Around",
+      "url": "https://open.spotify.com/track/1hWlZxzZWiXRkQy7ywSAmh"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1407,22 +1359,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Shapeshifter",
-        "url": "https://open.spotify.com/album/1ljgNdyFCcnQxAbzejZrax"
-      },
-      "artists": [
-        {
-          "name": "Knuckle Puck",
-          "url": "https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm"
-        }
-      ],
-      "duration_ms": 211100,
-      "name": "Want Me Around",
-      "url": "https://open.spotify.com/track/1hWlZxzZWiXRkQy7ywSAmh"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Crisis Of Faith",
         "url": "https://open.spotify.com/album/3PvuvoZpz2XWzVKMOi52hW"
       },
@@ -1467,6 +1403,22 @@
       "duration_ms": 195520,
       "name": "Dead!",
       "url": "https://open.spotify.com/track/3262RRKqFC1oJXFwCMqgM0"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "20/20",
+        "url": "https://open.spotify.com/album/6m42SrPLrdXkjN3BT3UIlP"
+      },
+      "artists": [
+        {
+          "name": "Knuckle Puck",
+          "url": "https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm"
+        }
+      ],
+      "duration_ms": 178605,
+      "name": "Tune You Out",
+      "url": "https://open.spotify.com/track/2omnjJxsVxa75mlSMvLRac"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1567,22 +1519,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "20/20",
-        "url": "https://open.spotify.com/album/6m42SrPLrdXkjN3BT3UIlP"
-      },
-      "artists": [
-        {
-          "name": "Knuckle Puck",
-          "url": "https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm"
-        }
-      ],
-      "duration_ms": 178605,
-      "name": "Tune You Out",
-      "url": "https://open.spotify.com/track/2omnjJxsVxa75mlSMvLRac"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Broken Heart",
         "url": "https://open.spotify.com/album/0xpSM1rZxOJZR3o5kpcfQE"
       },
@@ -1631,6 +1567,70 @@
       "duration_ms": 258718,
       "name": "Familiar Drugs",
       "url": "https://open.spotify.com/track/5s3bk38b50O6LfZRwV8ApE"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/5YO2QzhS2sSpZlkT721pnW"
+      },
+      "artists": [
+        {
+          "name": "Yours Truly",
+          "url": "https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo"
+        }
+      ],
+      "duration_ms": 170600,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/14mBmB265dJ0UHPLXbbM6v"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Hello Exile",
+        "url": "https://open.spotify.com/album/5baJxk2fGaLorySaf6173S"
+      },
+      "artists": [
+        {
+          "name": "The Menzingers",
+          "url": "https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ"
+        }
+      ],
+      "duration_ms": 244564,
+      "name": "Strain Your Memory",
+      "url": "https://open.spotify.com/track/1d1az3MIWrJvcNrgNMJTYA"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Emo 2000s",
+        "url": "https://open.spotify.com/album/6YLLFMlYzwDiKTKeqIHMvQ"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 166040,
+      "name": "The Middle",
+      "url": "https://open.spotify.com/track/67PzNQl5EyyrNBmFIM917G"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "What Are We Standing For",
+        "url": "https://open.spotify.com/album/4tuKq2JV7r88OLVORQMWKK"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 173600,
+      "name": "What Are We Standing For",
+      "url": "https://open.spotify.com/track/0TilqqFE4PTarkBCsx3udk"
     }
   ],
   "unique_name": "Punk Rock Workout",

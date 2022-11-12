@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcEjayzrZ4x.md) - [plain]
 
 > Relaxing instrumental Jazz with a cool and soft sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,739 likes - 314 songs - 19 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,816 likes - 314 songs - 19 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -308,7 +308,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcEjayzrZ4x.md) - [plain]
 | 298 | [It Might As Well Be Spring](https://open.spotify.com/track/62sqdTmnNpWcJtxtJXmKzy) | [Mark Roswell Trio](https://open.spotify.com/artist/5LyofWLANV5qojc0VHqh6i) | [It Might As Well Be Spring](https://open.spotify.com/album/0FMeAHDC7zwcktJQ3KUzGw) | 4:35 |
 | 299 | [Five Years Ago](https://open.spotify.com/track/1L2aEbr8dOnVUKoeFhmMZG) | [Leonard Peters](https://open.spotify.com/artist/3lnir5hIW9TkpCGJGUuhvk) | [Walk The Dog](https://open.spotify.com/album/1P4DJRMLQ5RhNxYkDPeUf1) | 2:55 |
 | 300 | [When I Fall In Love](https://open.spotify.com/track/7wAFHu3ueBLEebC5NEOk9z) | [Meadow Park](https://open.spotify.com/artist/3xgSoGgPQpQvOK5XOyoOAm) | [When I Fall In Love](https://open.spotify.com/album/6rCnmJjhEashCYVazkSK7g) | 4:49 |
-| 301 | [A Better Place](https://open.spotify.com/track/6ZDLHi8UtQeT203JjiQU6N) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx) | [A Better Place](https://open.spotify.com/album/5kIBKvyTDfkVFeL3INbvBZ) | 2:13 |
+| 301 | [A Better Place](https://open.spotify.com/track/7JfORZg3Tvn0YyDZCiGhMU) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx) | [A Better Place](https://open.spotify.com/album/0BIRayldwphnBlwreGKihM) | 2:13 |
 | 302 | [First Season](https://open.spotify.com/track/0JV4YY8aqwUmDJyPEozdxJ) | [Henry Lindon](https://open.spotify.com/artist/6YFu93nQbZx5Nrt6Qjfj90) | [Late Night Walk](https://open.spotify.com/album/1IoNZGBuzPT37zMyRUHk1g) | 3:22 |
 | 303 | [Georgia On My Mind](https://open.spotify.com/track/15c6okmVGsMQYb7PkKi5v3) | [Nouveau Jazz Trio](https://open.spotify.com/artist/2uE6h3IWob2rgVJmUCz6D2) | [Georgia On My Mind](https://open.spotify.com/album/113L3LCtjrI2vA7xe8DCLq) | 3:12 |
 | 304 | [My Mistake](https://open.spotify.com/track/4CZOjvslnn4eNkcQC0Ubvw) | [Burt Mitchell](https://open.spotify.com/artist/5Wj6zFHgENkOCOMh4ZwGX0) | [Fading Love](https://open.spotify.com/album/4rghfEFwsI9ATrjmUzjQvq) | 4:57 |
@@ -323,4 +323,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcEjayzrZ4x.md) - [plain]
 | 313 | [Stillness](https://open.spotify.com/track/40ydDb82UYQzcZlqNsVj7N) | [KTZ Players](https://open.spotify.com/artist/5IFXbDEfoLijwZB1YB2bTe) | [Stillness](https://open.spotify.com/album/3VLOhMVLh2fwkOdCVWk760) | 2:47 |
 | 314 | [Galaxy](https://open.spotify.com/track/51g4wZxI5yS88Aj0VTCsXM) | [The Tealeaf Jazz Trio](https://open.spotify.com/artist/1kZ1pkxbbukhm8Dnfo8MhI) | [Galaxy](https://open.spotify.com/album/3bazDS19KvT06CyQvxUp29) | 3:51 |
 
-Snapshot ID: `MTY2ODEyMTI2MCwwMDAwMDAwMGM4NDkwNDY1Y2E5OTJkNDcxZjE5MmU3MTA5YzA1NDc4`
+Snapshot ID: `MTY2ODEyMTI2MCwwMDAwMDAwMDdkNzliNzIwYmUxMThkOGUwZWMwNjNhYmQ5NmQ1MWQ2`

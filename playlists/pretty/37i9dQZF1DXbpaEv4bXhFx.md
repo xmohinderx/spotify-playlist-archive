@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpaEv4bXhFx.md) - [plain]
 
 > 빗방울대신 감성을 맞는 시간.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,232 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,241 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpaEv4bXhFx.md) - [plain]
 | 24 | [Rain](https://open.spotify.com/track/5n368tNF47S70THlmpaGLf) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Rain](https://open.spotify.com/album/0pLInB6G2NXR87Pwi4O3dQ) | 3:57 |
 | 25 | [Magnolia](https://open.spotify.com/track/5XrRVO7bjxl1HUZ5Ffri4g) | [Aden](https://open.spotify.com/artist/4UDCQ7Ef3OTa8jd1SzXIsv) | [Magnolia](https://open.spotify.com/album/1xvErKDx1NMXm0nYNgMuW7) | 2:51 |
 | 26 | [On A Rainy Day](https://open.spotify.com/track/3KhDf9MJlPpodahS4OwrMF) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [STABLE MINDSET](https://open.spotify.com/album/4ZCXsCHvaZ9r5skMrC4B9h) | 3:32 |
-| 27 | [Sun Shower](https://open.spotify.com/track/4dGJC7qU8dGOE00P5SgJWL) | [MOVNING](https://open.spotify.com/artist/6tuZdsQHRegQDPlRdcMjbn) | [Sun Shower \(A Business Proposal OST Part.3\)](https://open.spotify.com/album/27s8y4T4C2XIP9y4Rv5AO2) | 4:16 |
-| 28 | [Another Day](https://open.spotify.com/track/6fsrtPKAPL1erRl4oeDnOf) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [IN LIFE](https://open.spotify.com/album/0aERWcI2KYSCM4biUihB9X) | 2:46 |
+| 27 | [Another Day](https://open.spotify.com/track/6fsrtPKAPL1erRl4oeDnOf) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [IN LIFE](https://open.spotify.com/album/0aERWcI2KYSCM4biUihB9X) | 2:46 |
+| 28 | [Sun Shower](https://open.spotify.com/track/4dGJC7qU8dGOE00P5SgJWL) | [MOVNING](https://open.spotify.com/artist/6tuZdsQHRegQDPlRdcMjbn) | [Sun Shower \(A Business Proposal OST Part.3\)](https://open.spotify.com/album/27s8y4T4C2XIP9y4Rv5AO2) | 4:16 |
 | 29 | [A Kind Of Confession \(Male Ver.\)](https://open.spotify.com/track/5w1sW9Gr8fBBy82f21uF0s) | [Kwak jineon](https://open.spotify.com/artist/5NBDM7OpuuyUNtlLLxTYWD) | [My Liberation Notes OST Part 9](https://open.spotify.com/album/19Ya0jFcV7U0opVyJqRHCV) | 3:56 |
 | 30 | [Still Wonder](https://open.spotify.com/track/1hD35Fj6NBNm2CEOn3QLCE) | [Ha Hyunsang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [You Are My Spring OST Part 3](https://open.spotify.com/album/3XRvOMIh5LEfdSu1q69U96) | 2:41 |
 | 31 | [ride](https://open.spotify.com/track/43ap1ds3F1o8Fmz6b29NoG) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [summer flows 0.02](https://open.spotify.com/album/2FxzArH5KLx18yasYHuVE4) | 3:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpaEv4bXhFx.md) - [plain]
 | 49 | [All Night Long \(She is My Type♡ X Car, the garden\)](https://open.spotify.com/track/797XRv2RhIp9qHeKG42HzD) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [All Night Long \(She is My Type♡ X Car, the garden\)](https://open.spotify.com/album/5P3m24aXWEmpq8LoYVzofm) | 3:19 |
 | 50 | [Beside](https://open.spotify.com/track/11xJzjqdO6as2OEBfn2Fl7) | [SURL](https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3) | [Beside](https://open.spotify.com/album/6rKWrHmwSip4xYYj6MPLAt) | 3:54 |
 
-Snapshot ID: `MTY2NzQ2NzU0MCwwMDAwMDAwMGFhZWU1YTExNzI0NWNkNDkzOWVlZmM0ODFjZTA2YmRj`
+Snapshot ID: `MTY2NzQ2NzU0MCwwMDAwMDAwMGQyNTI3ZjBmNzc4ZjEzYTNmMzI5N2ZlNTdiODBlZTQ2`

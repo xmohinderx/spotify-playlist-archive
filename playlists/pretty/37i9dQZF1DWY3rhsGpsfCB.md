@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3rhsGpsfCB.md) - [plain]
 
 > Smooth soul\-inspired tracks
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,418 likes - 80 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,506 likes - 80 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3rhsGpsfCB.md) - [plain]
 | 10 | [Unrelatable](https://open.spotify.com/track/6yzoGCk37lkUPvf16ZvInu) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [Unrelatable](https://open.spotify.com/album/1GHNWbUWzVVlZ0pn9GXyKd) | 2:40 |
 | 11 | [safe haven](https://open.spotify.com/track/7EEinxDxDsRX3AIIJ026TZ) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 2:49 |
 | 12 | [ALL MINE](https://open.spotify.com/track/3XgGQ1wjo5khvq2UImjyNF) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 3:36 |
-| 13 | [Last Last](https://open.spotify.com/track/2PDgArI0p7UkeYgXWuqpmh) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Last Last](https://open.spotify.com/album/6aWJgsbvVPQR2HgPztf4qe) | 2:52 |
-| 14 | [Lost Me](https://open.spotify.com/track/6TSO4hwz9WGrEUY7ABGVim) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Give Or Take](https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L) | 3:00 |
+| 13 | [Lost Me](https://open.spotify.com/track/6TSO4hwz9WGrEUY7ABGVim) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Give Or Take](https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L) | 3:00 |
+| 14 | [Last Last](https://open.spotify.com/track/2PDgArI0p7UkeYgXWuqpmh) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Last Last](https://open.spotify.com/album/6aWJgsbvVPQR2HgPztf4qe) | 2:52 |
 | 15 | [Pretty](https://open.spotify.com/track/6WdVWpAVtE7CSKophvVSKa) | [Winny](https://open.spotify.com/artist/6QjsZEGqDMbzKvCdfFN5nz) | [Pretty](https://open.spotify.com/album/0XvhZJjWZiuvE8tTcsyjnB) | 2:31 |
 | 16 | [CHAMPAGNE GIRL](https://open.spotify.com/track/478cS3LW0O2VL1vW0kYMKd) | [Kemuel](https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH) | [CHAMPAGNE GIRL](https://open.spotify.com/album/5C7Txmzu3t6zVrpoEhLA4S) | 2:20 |
 | 17 | [No Closure](https://open.spotify.com/track/4d8eyF77ZplwhOSj1rqink) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [No Closure](https://open.spotify.com/album/00zNoLWUcrXKUnstmShe6q) | 3:05 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3rhsGpsfCB.md) - [plain]
 | 50 | [Diana](https://open.spotify.com/track/6g8vNyogMW32lhHlNcDiwX) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Playboy](https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ) | 3:52 |
 | 51 | [Fair](https://open.spotify.com/track/1SlGaBvTqX0gb24ouXonOo) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [Fair](https://open.spotify.com/album/4x3ZBZ3p7pi1UTLVldx7YF) | 3:04 |
 | 52 | [Wasting Time \( feat\. Drake & The Neptunes \)](https://open.spotify.com/track/48WidxP9CqyYtk97pwGZ3c) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [The Neptunes](https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr) | [Wasting Time \( feat\. Drake & The Neptunes \)](https://open.spotify.com/album/2brWccDLT5vREu0FxqH6Az) | 5:01 |
-| 53 | [Break Up Twice](https://open.spotify.com/track/7Bzgs1crJViC1NEliHSp8O) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 2:56 |
-| 54 | [Sempe \- Acoustic](https://open.spotify.com/track/6R2gAXDiP5689wFxzP6qvl) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [Sempe \(Acoustic\)](https://open.spotify.com/album/2UKtuS3AaeMsEmt5tV6rAe) | 1:38 |
+| 53 | [Sempe \- Acoustic](https://open.spotify.com/track/6R2gAXDiP5689wFxzP6qvl) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [Sempe \(Acoustic\)](https://open.spotify.com/album/2UKtuS3AaeMsEmt5tV6rAe) | 1:38 |
+| 54 | [Break Up Twice](https://open.spotify.com/track/7Bzgs1crJViC1NEliHSp8O) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 2:56 |
 | 55 | [No Woman No Cry](https://open.spotify.com/track/6jo1FMdBzPKofW4iPIdQkR) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq), [Marvel](https://open.spotify.com/artist/3JKb5kVdAbFREFnHtwhBKa) | [Black Panther: Wakanda Forever Prologue](https://open.spotify.com/album/5O6YjrVzzeXStO3YJZuXaM) | 3:33 |
 | 56 | [5 Star](https://open.spotify.com/track/5l6ZVWdSdot8a1FjPBiXvz) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [5 Star](https://open.spotify.com/album/7sL2HnpqLO8uAdV6YlHLl4) | 2:30 |
 | 57 | [you](https://open.spotify.com/track/4yEBIww3wVoiT7A5v9kQj1) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo) | 2:55 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3rhsGpsfCB.md) - [plain]
 | 77 | [Handle Me Gently](https://open.spotify.com/track/5tjST4iUvp86eyMeSIgy5l) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Self Explanatory](https://open.spotify.com/album/01Uup2bu0jcnyaNmHjgTF4) | 3:01 |
 | 78 | [Last Name](https://open.spotify.com/track/4BwHxEsR5SFJJKGBzrjMGN) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [Last Name](https://open.spotify.com/album/5tUXmCXcOyqRO7lLeWrMHR) | 2:01 |
 | 79 | [Therapy](https://open.spotify.com/track/1qIATFQg93M6KvhPh9QSNc) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Therapy](https://open.spotify.com/album/5HTQ5jXZYHmG0rsYpABqGp) | 3:05 |
-| 80 | [D O D O \- Adekunle Gold Version](https://open.spotify.com/track/5F9F0SxcAM9bCVyi00tL0W) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [D O D O \(Adekunle Gold Version\)](https://open.spotify.com/album/49s1JEe2mCLJMAVtMplzJo) | 2:59 |
+| 80 | [Angel](https://open.spotify.com/track/48nJHYsJXzgukHvc7Hy7Sj) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [Angel](https://open.spotify.com/album/5A7tIwdkNl4LsFjtYSPYcX) | 3:17 |
 
-Snapshot ID: `MTY2NzU0ODU3OSwwMDAwMDAwMDgyYmUzMjliM2RhOWE1ZDI4YjNiYjFjMmRmZmYyNzYw`
+Snapshot ID: `MTY2NzU0ODU3OSwwMDAwMDAwMDA3YjllYjJlZTlkYTQ1N2E5MWYzNDNjMGRkOTg0YTAz`

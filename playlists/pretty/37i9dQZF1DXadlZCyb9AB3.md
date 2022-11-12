@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadlZCyb9AB3.md) - [plain]
 
 > Sleater\-Kinney, in celebration of their new album "Path of Wellness," co\-curate a list of the defining songs of the riot grrrl era, and the bands keeping its spirit alive.
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,798 likes - 72 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,826 likes - 72 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadlZCyb9AB3.md) - [plain]
 | 39 | [Standing In the Way of Control](https://open.spotify.com/track/0hd4rC19ldUBmabhSHxiwS) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [Standing in the Way of Control](https://open.spotify.com/album/7kT3bu386sQNmb8C6GS1Dr) | 4:16 |
 | 40 | [Gimme Brains](https://open.spotify.com/track/2ICGarWJwQiIGMl07os7sQ) | [Bratmobile](https://open.spotify.com/artist/3GTaO7e3uPaG0SJR7Hxy8L) | [Ladies, Women and Girls](https://open.spotify.com/album/7J5Dh22aIS2NeMGXQ3LPN4) | 2:16 |
 | 41 | [Cents Cents Money Money](https://open.spotify.com/track/7fTSouGcePc6eJo0I381Hu) | [Blowout](https://open.spotify.com/artist/6JYNcpvRMjgry4ERB6bLLZ) | [No Beer, No Dad \(Redux\)](https://open.spotify.com/album/32J9rARwZWTK6SMggaofZj) | 2:34 |
-| 42 | [Feed the Tree](https://open.spotify.com/track/3L19vBWH4jTHNXbuBaHbUN) | [Belly](https://open.spotify.com/artist/3h1HOgVmvPlhqjz8o3LglL) | [Star](https://open.spotify.com/album/2b5r3YRZYwSAeXd7aWZjWp) | 3:29 |
+| 42 | [Feed the Tree](https://open.spotify.com/track/0tEKtLWworiDAh0cCxu6S8) | [Belly](https://open.spotify.com/artist/3h1HOgVmvPlhqjz8o3LglL) | [The 90s Album](https://open.spotify.com/album/6SzncloJo8iKpSEmDyRAIC) | 3:29 |
 | 43 | [Cool Schmool](https://open.spotify.com/track/5SQhahcpnWJ6AXZ1N4YIvT) | [Bratmobile](https://open.spotify.com/artist/3GTaO7e3uPaG0SJR7Hxy8L) | [Pottymouth \(Remastered\)](https://open.spotify.com/album/5B3FlfoWVwLazsuELgRcAC) | 2:01 |
 | 44 | [I Wanna Be Your Joey Ramone](https://open.spotify.com/track/1WDqjH0PJ8ruWQXsp3bN2Z) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Call the Doctor \(Remastered\)](https://open.spotify.com/album/3ULIRcAOMyaT6K4gIhX8aJ) | 2:36 |
 | 45 | [Ha Ha Ha Armageddon](https://open.spotify.com/track/0brTq66ZftMGbr6OfKFUM9) | [The Julie Ruin](https://open.spotify.com/artist/3jCDV35GjiUGWYWKgMd9CF) | [The Punk Singer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7DoTlKAupC8rNAdb0tNmZ2) | 3:16 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadlZCyb9AB3.md) - [plain]
 | 71 | [Current Affair](https://open.spotify.com/track/721rlw9VI4IqhpPhNFrZIv) | [Sextile](https://open.spotify.com/artist/4ReoJ2faKfdjI0plizlL56), [Sienna](https://open.spotify.com/artist/0aiQeYnP7FNRD8BwG90wdG) | [Current Affair \(feat\. Sienna\)](https://open.spotify.com/album/30Tq94VCaG31USW0MsFli2) | 2:49 |
 | 72 | [Vagina Police](https://open.spotify.com/track/3P2LZ3iAWSWs2oW6gUzGkE) | [Dream Nails](https://open.spotify.com/artist/49xQzRRO1vI3fmCdbPTwBB) | [Double A Side](https://open.spotify.com/album/0ToQnPNr2oKEbtK9mA9XDO) | 1:35 |
 
-Snapshot ID: `MTYyMzQyOTU3MSwwMDAwMDAwMGY5ZTk5NmVlNzc3MWQwZTIwOTBlODdhOTU0YzQyMzZh`
+Snapshot ID: `MTYyMzQyOTU3MSwwMDAwMDAwMDIxYmU4ZmFmMTMwOTJhOTk0ZTNmMTEwNmFiYTQ3Mjg3`

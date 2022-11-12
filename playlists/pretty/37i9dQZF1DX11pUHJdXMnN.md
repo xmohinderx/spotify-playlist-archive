@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11pUHJdXMnN.md) - [plain]
 
 > House and disco jams with an 80s\-infused retro flavour.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,548 likes - 45 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,610 likes - 45 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11pUHJdXMnN.md) - [plain]
 | 31 | [Hymnotic](https://open.spotify.com/track/2GKICfOOYlFAiwALLEPTJu) | [Future Breeze](https://open.spotify.com/artist/2Qa4UBwzhEFt1Tpj95cZls) | [Hymnotic](https://open.spotify.com/album/6UlbePpX6dvFF24UfxFEuk) | 4:22 |
 | 32 | [In My Element \- Skream Remix](https://open.spotify.com/track/3LtOC0fsGjmhOg5E78lIFW) | [The Clause](https://open.spotify.com/artist/7KpYPnMoADYtIMt1XPvmzZ), [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [In My Element \(Skream Remix\)](https://open.spotify.com/album/615KSINGHRzvojc2VGQ97U) | 6:00 |
 | 33 | [Sununguka \(feat\. Zeke Manyika\) \- Alan Dixon Italo Mix](https://open.spotify.com/track/7Iwv3WVOhjCpv9zGcnTFzz) | [Faze Action](https://open.spotify.com/artist/1MMEHyxVfd0Pv4PEHynX9k), [Zeke Manyika](https://open.spotify.com/artist/1jYJpzl4Ytb9eXGoFprU0n), [Alan Dixon](https://open.spotify.com/artist/0yEnnivHzCPxaTfNbWjV7x) | [Sununguka \(feat\. Zeke Manyika\)](https://open.spotify.com/album/76Lws0FxWfj2TRHvpvGf98) | 7:24 |
-| 34 | [Eyes Wide Strut \(feat\. Wooze\) \- Tunnelvisions Remix](https://open.spotify.com/track/1bAop39IxOjIyYXSL0jENv) | [Moscoman](https://open.spotify.com/artist/44F8g3iM4NgU5cisocTlTQ), [WOOZE](https://open.spotify.com/artist/2whltAXPg8ozoiC9U1knhA), [Tunnelvisions](https://open.spotify.com/artist/0IhfJZiFjHqE9mJ9INjp7x) | [Eyes Wide Strut \(feat\. Wooze\) \[Tunnelvisions Remix\]](https://open.spotify.com/album/2B9sn1QAF4AZ6h9N0cBFAG) | 5:50 |
-| 35 | [Fantasia](https://open.spotify.com/track/2eQ5IRgLQAVwTgCx4IfBDE) | [Fort Romeau](https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF) | [Fantasia](https://open.spotify.com/album/29uIxgnBAojrM6NFUBasxq) | 6:33 |
+| 34 | [Fantasia](https://open.spotify.com/track/2eQ5IRgLQAVwTgCx4IfBDE) | [Fort Romeau](https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF) | [Fantasia](https://open.spotify.com/album/29uIxgnBAojrM6NFUBasxq) | 6:33 |
+| 35 | [Eyes Wide Strut \(feat\. Wooze\) \- Tunnelvisions Remix](https://open.spotify.com/track/1bAop39IxOjIyYXSL0jENv) | [Moscoman](https://open.spotify.com/artist/44F8g3iM4NgU5cisocTlTQ), [WOOZE](https://open.spotify.com/artist/2whltAXPg8ozoiC9U1knhA), [Tunnelvisions](https://open.spotify.com/artist/0IhfJZiFjHqE9mJ9INjp7x) | [Eyes Wide Strut \(feat\. Wooze\) \[Tunnelvisions Remix\]](https://open.spotify.com/album/2B9sn1QAF4AZ6h9N0cBFAG) | 5:50 |
 | 36 | [Forgive Me](https://open.spotify.com/track/1Mua8IC1yJW6buvktiTQHH) | [Scuba](https://open.spotify.com/artist/48hZklIMPklae2Mssfp8Cx) | [Forgive Me](https://open.spotify.com/album/1pZQjsbqDLVwlXOp8SU7RQ) | 5:39 |
 | 37 | [Faccia a faccia \- Italoconnection Remix Radio](https://open.spotify.com/track/3UyM4nviJQhxibP1O1f5FD) | [Alex Rossi](https://open.spotify.com/artist/080yEA10cGjDwnuXHFy1SU), [Italoconnection](https://open.spotify.com/artist/2H89jjAoarp9VqMxT8W0et) | [Faccia a faccia \(Remixes\)](https://open.spotify.com/album/6Xc0OSTyNIXRYKtE2uk9g7) | 3:47 |
 | 38 | [Mirage \- Anoraak Extended Remix](https://open.spotify.com/track/35iuuDX0wvxdOwwRVg84UX) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv), [Anoraak](https://open.spotify.com/artist/2DfP0hQCCFmZHjstSE8yXC) | [Solar Nights \- The Remixes](https://open.spotify.com/album/1ncN3KtEAVTlRXi7ITwnNV) | 5:58 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11pUHJdXMnN.md) - [plain]
 | 44 | [Lyra \- Dusky Remix](https://open.spotify.com/track/3vZf4XO3DAXef9aOyx0SVW) | [9th House](https://open.spotify.com/artist/5QpDjrjx18j888lnGtJpeV), [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Lyra \(Dusky Remix\)](https://open.spotify.com/album/1NarEuoYt3DZ7CGFOPFFmb) | 5:13 |
 | 45 | [Never Let You Go \- Skream Remix \(Edit\)](https://open.spotify.com/track/4XP3da5XVRN1eoTK91L4T8) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3), [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [Never Let You Go \(Skream Remix\)](https://open.spotify.com/album/2EcZfAmLrfH8UrVJeh2fxi) | 3:40 |
 
-Snapshot ID: `MTYzMDA3OTEwMSwwMDAwMDAwMDhlOGQ5OWViYTA0YjQ2ZDY0NDYxYTcwMmFlYjYwOGYz`
+Snapshot ID: `MTYzMDA3OTEwMSwwMDAwMDAwMDNkZjRlZjZlMDRjZjk1ODJlYThjZTBiYmIyZjlhOGVm`

@@ -4,7 +4,7 @@
 
 > Latin songs that changed the game\. Cover: Celia Cruz
 
-81 songs - 5 hr 59 min - [published](https://open.spotify.com/playlist/2m8gPESKVArVEzU2oTSeC4)
+82 songs - 6 hr 4 min - [published](https://open.spotify.com/playlist/2m8gPESKVArVEzU2oTSeC4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,8 @@
 | [Rebelión](https://open.spotify.com/track/4sm3mdqmSqhG8KU79rVOY8) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [32 Cañonazos](https://open.spotify.com/album/6ubTK1qVLWQSblspjFxtZn) | 6:18 | 2021-12-21 |  |
 | [Soy un Truhán, Soy un Señor](https://open.spotify.com/track/1TGHvWtCeIGMvO75P1hhqa) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Personalidad](https://open.spotify.com/album/2mvTdPihXIOm17QqGlkK3i) | 3:03 | 2021-12-21 |  |
 | [Suavemente](https://open.spotify.com/track/7cpFmkNmh3MM0WqXPSbs9f) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Suavemente](https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os) | 4:27 | 2021-12-21 |  |
-| [The Girl From Ipanema](https://open.spotify.com/track/3898C4AbdbptwYet6547e5) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy), [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF) | [The Girl From Ipanema \- The Bossa Nova Years](https://open.spotify.com/album/4I26wT2bckDbv8Xl5iVInQ) | 5:21 | 2022-01-01 |  |
+| [The Girl From Ipanema](https://open.spotify.com/track/7bk1AEkUMedYDy6uNLk3AE) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Relaxing Jazz](https://open.spotify.com/album/4ULy7VNjcLsgn4wZeihz5Q) | 5:22 | 2022-08-31 |  |
+| [The Girl From Ipanema](https://open.spotify.com/track/3898C4AbdbptwYet6547e5) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy), [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF) | [The Girl From Ipanema \- The Bossa Nova Years](https://open.spotify.com/album/4I26wT2bckDbv8Xl5iVInQ) | 5:21 | 2022-01-01 | 2022-11-12 |
 | [The Girl From Ipanema \- Stereo Version](https://open.spotify.com/track/58BW9X4EEmarxjaXE6Izkw) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy), [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF) | [Stan Getz's Finest Hour](https://open.spotify.com/album/5bJFVVuKRT9YHgLju28Xwj) | 5:25 | 2021-12-21 | 2022-07-29 |
 | [Vivir Mi Vida](https://open.spotify.com/track/2YDWFquF9bozKkoAhG7qxV) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Exitos de Verano](https://open.spotify.com/album/2n7M96zHmPpzVbDOQEhxiO) | 4:10 | 2022-08-31 |  |
 | [Vivir Mi Vida](https://open.spotify.com/track/3tm3GG9BBOYhUzKWlS6A74) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Vivir Mi Vida](https://open.spotify.com/album/6C4gFMJay6Si2kRcNB21Sz) | 4:11 | 2021-12-21 | 2022-07-29 |

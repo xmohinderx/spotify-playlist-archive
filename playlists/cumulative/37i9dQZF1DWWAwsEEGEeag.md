@@ -4,7 +4,7 @@
 
 > Chansons pour ceux qui refusent de laisser l'été se terminer.
 
-121 songs - 7 hr 7 min - [published](https://open.spotify.com/playlist/1hQIUdoAweSwm2MugCosGW)
+122 songs - 7 hr 12 min - [published](https://open.spotify.com/playlist/1hQIUdoAweSwm2MugCosGW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,8 +78,9 @@
 | [Mezcal](https://open.spotify.com/track/73R2AFv1uvr6mNgjmz36wx) | [Hansom Ēli](https://open.spotify.com/artist/6NwI5CAoRbYCTWCiCiQ7Dh), [Mike Clay](https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8) | [Mezcal](https://open.spotify.com/album/3C1VzCBBwR29j8w65cKsf8) | 3:52 | 2022-09-23 | 2022-11-11 |
 | [Mon amour](https://open.spotify.com/track/07XcDj4hRVQi3jua32Oyns) | [De.Ville](https://open.spotify.com/artist/4R5VNdvB9gnzrDmoyTsjgr) | [Sables](https://open.spotify.com/album/0YgfWW9LpVzWojEzqgWovB) | 3:22 | 2022-06-24 |  |
 | [Naoko](https://open.spotify.com/track/66pta58sZB4aTd1uiP3CrF) | [JORDANN](https://open.spotify.com/artist/1qlafOeHOtRUZR4AOxlOkF), [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Naoko](https://open.spotify.com/album/7MZeUpZOcGNI03TZdShTgp) | 2:46 | 2022-06-24 |  |
-| [No Mission](https://open.spotify.com/track/2qiKn7sxsU5ZW9Dca4uweM) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [No Mission](https://open.spotify.com/album/1gRkKQh0F7fC2cDLDEY8G0) | 5:17 | 2022-07-16 |  |
+| [No Mission](https://open.spotify.com/track/2qiKn7sxsU5ZW9Dca4uweM) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [No Mission](https://open.spotify.com/album/1gRkKQh0F7fC2cDLDEY8G0) | 5:17 | 2022-07-16 | 2022-11-12 |
 | [No Mission](https://open.spotify.com/track/48fz7bg2bFw3ZKRyntS6SF) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [No Mission](https://open.spotify.com/album/2XTYzUdPEhMGd4hpoFaqLM) | 5:17 | 2022-06-24 | 2022-07-29 |
+| [No Mission](https://open.spotify.com/track/78oyfpAOdzHzbbVx5SG7Dc) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [The Anjunadeep Edition 360 with James Grant](https://open.spotify.com/album/6I2fHGlEQtvEZ9AElRIyAW) | 5:17 | 2022-09-23 |  |
 | [Nouvelle vague](https://open.spotify.com/track/0tsBY4lZ594GnM8wv8zt5q) | [Wake Island](https://open.spotify.com/artist/0FXZWBe4MYnB5ArTU9RnXE) | [Born to Leave](https://open.spotify.com/album/5H0jOvMZLKGiqI0jYc4WDn) | 4:10 | 2022-06-24 |  |
 | [Nouvelle\-Orléans](https://open.spotify.com/track/1CCKf8yGsKuVz5cgRwgShM) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Paradigmes](https://open.spotify.com/album/1u2Q5MFWptOdPpldjC0xO9) | 3:53 | 2022-06-24 |  |
 | [Nuit américaine](https://open.spotify.com/track/1cOIijnd1qHpJSLA2jBQMe) | [Jérôme Minière](https://open.spotify.com/artist/35QNxIS3w7AC2R2vrAlrhT), [NGABO](https://open.spotify.com/artist/73wyT5lSevGrU1bQhuDYdZ) | [Nuit américaine](https://open.spotify.com/album/00NbIUbjav9Sy89vKhPtLo) | 4:01 | 2022-06-24 |  |

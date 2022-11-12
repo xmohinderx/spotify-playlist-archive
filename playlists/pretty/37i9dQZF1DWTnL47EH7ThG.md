@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnL47EH7ThG.md) - [plain]
 
 > <a href="spotify:artist:6kf69CwzgodrETRgzcjX95">BAMBII</a>'s favorite tracks\. Updated regularly\. Curated by BAMBII\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,218 likes - 150 songs - 8 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,250 likes - 150 songs - 8 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -152,11 +152,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnL47EH7ThG.md) - [plain]
 | 142 | [B2l](https://open.spotify.com/track/6HComUkHGc1nQ1GedncAt2) | [Scratcha DVA](https://open.spotify.com/artist/4RsQj1228RD7TFtUGCKRg7), [Karen Nyame KG](https://open.spotify.com/artist/2TsxAQQq0xVbjBOPXozFVz) | [The Classix](https://open.spotify.com/album/7lptqhgQTqOiQKGpkqezUJ) | 4:31 |
 | 143 | [Red Room](https://open.spotify.com/track/55mvtucws4Mnro27744t9X) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Mood Valiant](https://open.spotify.com/album/456WeVeZk38VJuqg2sL7QG) | 3:52 |
 | 144 | [Silly Games](https://open.spotify.com/track/6mxMnaQhdMaWp0XRAyjjfA) | [Janet Kay](https://open.spotify.com/artist/4D6CqTx48E5t6aL411Gl3F) | [The Definitive Hits Collection \(1977\-1985\)](https://open.spotify.com/album/5gy1TnTDWxk2X0tyRD0gZ5) | 4:08 |
-| 145 | [Arugula](https://open.spotify.com/track/7vO3gp2Mpxv2yySRfw8cMu) | [Junglepussy](https://open.spotify.com/artist/6atGQM99IrRfUefJFore1B) | [Jp4](https://open.spotify.com/album/5t0sp3W275c53WOqxgcmY5) | 2:07 |
+| 145 | [Arugula](https://open.spotify.com/track/0O9NLOveD66NQ7SHyXGvH0) | [Junglepussy](https://open.spotify.com/artist/6atGQM99IrRfUefJFore1B) | [Main Attraction](https://open.spotify.com/album/4n7qj6oLhSrCvwH0Z58hO7) | 2:07 |
 | 146 | [BLUE'S INTRO](https://open.spotify.com/track/1fygVcRsbaY41Qd8aQvyuO) | [Young Clancy](https://open.spotify.com/artist/1gWVuqL7Ag3foUmrV5Us98), [M.I\. Blue](https://open.spotify.com/artist/6OnFf3IYHCEEwv53KcYhqr) | [SOMETHING SOMETHING TAPE](https://open.spotify.com/album/1JRNhUXkCqx0XygMJpAt61) | 1:22 |
 | 147 | [FIRE EATER](https://open.spotify.com/track/6TJRz2r6TJljNRON7JWOu7) | [Young Clancy](https://open.spotify.com/artist/1gWVuqL7Ag3foUmrV5Us98), [Kevin A](https://open.spotify.com/artist/0v3twEFe3ociS78Xb7pPMo) | [FIRE EATER / KALEIDOSCOPE](https://open.spotify.com/album/3cA3qO1RRgq08r8VovKvrG) | 0:47 |
 | 148 | [Little Vibey Thing](https://open.spotify.com/track/2ESLxzqj6HB6QGdCoEJbNK) | [Conrad Subs](https://open.spotify.com/artist/62Vn4DolLwSkkSS4fEXKLH) | [Tides LP](https://open.spotify.com/album/5UVRNQrXNRJz8P4VJIpdOW) | 4:46 |
 | 149 | [Lose Ya Mind ft Aleisha Lee](https://open.spotify.com/track/6RVOJNTrEXOlecsUPCaOG5) | [Roska](https://open.spotify.com/artist/5p8U1acntDKzfbbZLwWYE5), [Aleisha Lee](https://open.spotify.com/artist/0A4gPcMJUMuH8wjgMl9Dij) | [Perception](https://open.spotify.com/album/52ZsESTtVx9GWBVQK1rE00) | 4:26 |
 | 150 | [Mash up the Dance](https://open.spotify.com/track/12SZ8TqMbjY1zQc2kTGX22) | [Watch the Ride](https://open.spotify.com/artist/6nagLG9dZzeqtMQCYMO9RC), [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Mash up the Dance](https://open.spotify.com/album/6lmntnCO9G6CK3zdSEb2fv) | 3:09 |
 
-Snapshot ID: `MTY2Njk4NTI3NywwMDAwMDAwMGYyOGRkZjU1MmNlYjg4OGY3MmNiYmY2MWIyOTk4ZDEy`
+Snapshot ID: `MTY2Njk4NTI3NywwMDAwMDAwMDIwYmNhNTU5MDQ4N2Q2MDQ5ZGU0NzA4NGQ4MGM5NWJh`

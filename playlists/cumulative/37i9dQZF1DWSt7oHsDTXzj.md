@@ -4,7 +4,7 @@
 
 > The ultimate seasonal \(indie\) playlist.
 
-173 songs - 9 hr 27 min - [published](https://open.spotify.com/playlist/19Yucfs77zcStAoxcERWEH)
+174 songs - 9 hr 29 min - [published](https://open.spotify.com/playlist/19Yucfs77zcStAoxcERWEH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,7 @@
 | [Merry Christmas](https://open.spotify.com/track/7I53IhL7CuLvRs9g6jyliB) | [Willie J Healey](https://open.spotify.com/artist/4T4JE09FOmRgv2Wzb6JaOR) | [Merry Christmas](https://open.spotify.com/album/6nnv2sz5aO6ckFWn1Vhxfr) | 3:18 | 2021-11-12 | 2022-07-23 |
 | [Merry Christmas Everyone](https://open.spotify.com/track/18FRF0G84dYW6BQaJ92BcM) | [Keston Cobblers Club](https://open.spotify.com/artist/38DmNaPnPBoXtbpFgXZNL8) | [Merry Christmas Everyone](https://open.spotify.com/album/5HpjZ3vpbjj3sxAELe7gHk) | 2:41 | 2021-11-12 | 2022-07-27 |
 | [Merry Christmas Everyone \- Recorded at Parr Street Studios](https://open.spotify.com/track/5YDrnmiVzAmHmIUhLQqy6H) | [Vistas](https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc) | [Merry Christmas Everyone \- Recorded at Parr Street Studios](https://open.spotify.com/album/7gaHJJPucZCcm8i03zheJl) | 3:38 | 2021-11-12 |  |
-| [Merry Xmas Everybody](https://open.spotify.com/track/5lfN1H4X6hDhHKMoZIApEN) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [Merry Xmas Everybody](https://open.spotify.com/album/60i7Lo8iMpAFEogjdDQje4) | 3:38 | 2021-11-12 | 2022-11-11 |
+| [Merry Xmas Everybody](https://open.spotify.com/track/5lfN1H4X6hDhHKMoZIApEN) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [Merry Xmas Everybody](https://open.spotify.com/album/60i7Lo8iMpAFEogjdDQje4) | 3:38 | 2021-11-12 |  |
 | [Messed Up On Christmas](https://open.spotify.com/track/1hVFvOisGooNd8z9B2AMIp) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [XMAS 01](https://open.spotify.com/album/3StuIrKZYryr4ZICoWRqqc) | 2:21 | 2021-11-12 |  |
 | [My Favourite Day](https://open.spotify.com/track/1bc1TqZLxCSPGRTnFvo6Pj) | [Fickle Friends](https://open.spotify.com/artist/1nhSLEYdoBHG6cJ8NDwoF1) | [My Favourite Day](https://open.spotify.com/album/7xJH9NWvD1txw7DUCnDAfh) | 3:35 | 2021-12-03 | 2022-09-21 |
 | [My Only Little Wish \(Is You\)](https://open.spotify.com/track/33UyXIgttGjIkounlO51Ay) | [asking for a friend](https://open.spotify.com/artist/3rHc6krX8mtdragl9o6eLy), [Lostboycrow](https://open.spotify.com/artist/5PxCTrv3Y1xVACfngpt7D2), [DYSN](https://open.spotify.com/artist/2zPdY1UXnOn4PC4GpoOkPm) | [My Only Little Wish \(Is You\)](https://open.spotify.com/album/3AalQDa1ftZyQDMiKJTs1v) | 3:00 | 2021-11-12 | 2022-07-27 |
@@ -143,7 +143,7 @@
 | [Some Hearts \(at Christmas Time\)](https://open.spotify.com/track/6w7zGvsdr63FhRpgKpBNsa) | [Low](https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH) | [Some Hearts \(at Christmas Time\)](https://open.spotify.com/album/1gh73HIn5I5zosdUhUalaX) | 3:22 | 2021-11-12 | 2022-07-29 |
 | [Someone to Spend Christmas With](https://open.spotify.com/track/3eJp4DzlpCrP6TNCTBOng2) | [The Spook School](https://open.spotify.com/artist/1K9hZ7uYbiVLEYhV4SFrOA) | [Someone to Spend Christmas With](https://open.spotify.com/album/01muwahIzp9KIyxf0MkWo5) | 4:02 | 2021-11-12 | 2022-07-27 |
 | [Surfing in Iceland](https://open.spotify.com/track/1z5oBUPtPK58v4slX1AlTx) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Surfing in Iceland](https://open.spotify.com/album/5DI2qF4E1jhRgpnqAArL5q) | 4:32 | 2022-11-08 |  |
-| [That Was the Worst Christmas Ever!](https://open.spotify.com/track/6iabiOyIuzZ96Tk6KyYCRp) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Songs For Christmas](https://open.spotify.com/album/2cuvGy1kWrtB3vX04Irpis) | 3:18 | 2021-11-12 |  |
+| [That Was the Worst Christmas Ever!](https://open.spotify.com/track/6iabiOyIuzZ96Tk6KyYCRp) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Songs For Christmas](https://open.spotify.com/album/2cuvGy1kWrtB3vX04Irpis) | 3:18 | 2021-11-12 | 2022-11-12 |
 | [That Was the Worst Christmas Ever!](https://open.spotify.com/track/6pL6TOmzoMq6ckBFGTaAT5) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Songs For Christmas](https://open.spotify.com/album/6ZCbYO3B5eslkY3zHdss4A) | 3:18 | 2021-11-12 | 2022-07-29 |
 | [The Blizzard](https://open.spotify.com/track/0442MxTJy5BBYDLYtTB3Gr) | [Camera Obscura](https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt) | [The Blizzard](https://open.spotify.com/album/6BLCOiSMOaY1pFZ2hTWrxW) | 4:14 | 2021-11-12 | 2022-07-28 |
 | [The Blizzard](https://open.spotify.com/track/4iykPMYOPGgIRu3G8oicHo) | [Camera Obscura](https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt) | [The Blizzard](https://open.spotify.com/album/5unn4URn3OrLsgpdUJblN4) | 4:14 | 2021-11-12 | 2022-10-06 |
@@ -165,7 +165,8 @@
 | [When I Get Home for Christmas](https://open.spotify.com/track/3KyVary6bJfAK5cZCWgW1j) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [When I Get Home for Christmas](https://open.spotify.com/album/50ctfjOYbjIn56CfxUxdZD) | 4:16 | 2021-11-12 | 2022-06-09 |
 | [Whiskey and Winter](https://open.spotify.com/track/64VCX56djfNzlTQ6yrI9ZF) | [Hushtones](https://open.spotify.com/artist/2kIChQGSFExLsYUfo0bSIB) | [Whiskey and Winter](https://open.spotify.com/album/10ExGQBrNuKJssOyOfvXcj) | 3:10 | 2022-01-07 | 2022-07-01 |
 | [White Christmas](https://open.spotify.com/track/6E6OI395lJ3uQnz9w8bqTD) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [White Christmas](https://open.spotify.com/album/4MWNtLj4EhEtuFg4b9qU14) | 2:32 | 2021-11-12 |  |
-| [White Winter Hymnal](https://open.spotify.com/track/0GegHVxeozw3rdjte45Bfx) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Fleet Foxes](https://open.spotify.com/album/5GRnydamKvIeG46dycID6v) | 2:27 | 2021-11-12 |  |
+| [White Winter Hymnal](https://open.spotify.com/track/0GegHVxeozw3rdjte45Bfx) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Fleet Foxes](https://open.spotify.com/album/5GRnydamKvIeG46dycID6v) | 2:27 | 2021-11-12 | 2022-11-12 |
+| [White Winter Hymnal](https://open.spotify.com/track/7II56zDppy5Zyj1oJhkkZ1) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [First Collection 2006\-2009](https://open.spotify.com/album/6ou9sQOsIY5xIIX417L3ud) | 2:27 | 2022-11-11 |  |
 | [White Winter Hymnal](https://open.spotify.com/track/1kqG1PQ2DQxd9XD6ofoOD9) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [White Winter Hymnal](https://open.spotify.com/album/1dR5MaLcuyQFAtS8k6Xs84) | 2:27 | 2021-11-12 | 2022-07-29 |
 | [Winter Love](https://open.spotify.com/track/5oXaaoRtvQ93u0bOBNS13D) | [Fionn](https://open.spotify.com/artist/4bfOiCE7XrhrTa94KTwXxt) | [Winter Love](https://open.spotify.com/album/2898n8ziD4YJzeLfmc9XEN) | 2:49 | 2021-11-12 | 2022-07-16 |
 | [Winter Song](https://open.spotify.com/track/6bVIzKJOhSTD2Pw1cbLhBr) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Winter Song](https://open.spotify.com/album/7obocQT5bd9ObWl2GiMrBT) | 4:14 | 2021-11-12 |  |

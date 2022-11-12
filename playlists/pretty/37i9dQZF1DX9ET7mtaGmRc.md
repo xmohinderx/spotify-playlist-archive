@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ET7mtaGmRc.md) - [plain]
 
 > 월드컵 시즌이 돌아왔습니다! 시합의 열기가 가득한 노래들과 함께 붉은 악마가 되어보세요!
 
-[Spotify](https://open.spotify.com/user/spotify) - 571 likes - 64 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 576 likes - 64 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

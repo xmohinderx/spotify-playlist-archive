@@ -1092,6 +1092,24 @@
     },
     {
       "album": {
+        "name": "hurry up mixtape",
+        "url": "https://open.spotify.com/album/25XJBVmqWiNDVw9sqMQFBY"
+      },
+      "artists": [
+        {
+          "name": "Alvedon",
+          "url": "https://open.spotify.com/artist/6nFwmnSA3mMtoePROXi5LT"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214588,
+      "name": "retire (final)",
+      "url": "https://open.spotify.com/track/3xO7yLHU8cTglvxXHFdrSc"
+    },
+    {
+      "album": {
         "name": "School Rooftop (Slowed Down Version)",
         "url": "https://open.spotify.com/album/7irimAHIFr7vcR2IoJmOgZ"
       },

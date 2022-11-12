@@ -1,12 +1,12 @@
 {
   "description": "A cup of Joe and the raw blues.\n",
-  "num_followers": 39811,
+  "num_followers": 39950,
   "original_name": "Black Coffee Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTc2MjkzMywwMDAwMDAwMGIzNzRkYThkNzFjMjlkNzFkMzA5MjhhZDA4MTJlMWVl",
+  "snapshot_id": "MTY2NTc2MjkzMywwMDAwMDAwMDU4YzRlMTE1OTAyZjA1MWZkNDdhY2QwZWYzZDdiZmZm",
   "tracks": [
     {
       "added_at": "2022-10-10 12:52:34",
@@ -77,7 +77,7 @@
       "url": "https://open.spotify.com/track/0h06YSqzwbAU9ZDuIvw8pk"
     },
     {
-      "added_at": "2022-11-11 01:32:29",
+      "added_at": "2022-11-12 05:17:50",
       "album": {
         "name": "Rockin' With Reed",
         "url": "https://open.spotify.com/album/2V70efDxuoKFAmkufW5zzZ"
@@ -443,22 +443,6 @@
     {
       "added_at": "2022-10-10 12:52:34",
       "album": {
-        "name": "Booker's Guitar",
-        "url": "https://open.spotify.com/album/3Ska5qQfOmK6PyxdGhUnSG"
-      },
-      "artists": [
-        {
-          "name": "Eric Bibb",
-          "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
-        }
-      ],
-      "duration_ms": 221120,
-      "name": "With My Maker I Am One",
-      "url": "https://open.spotify.com/track/1P3EPqytwKmzzgrbw72xRP"
-    },
-    {
-      "added_at": "2022-10-10 12:52:34",
-      "album": {
         "name": "Unplugged (Deluxe Edition) [Live]",
         "url": "https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 226373,
       "name": "Hey Hey - Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster",
       "url": "https://open.spotify.com/track/0qxtcJppuSsxsKmOIGbmpN"
+    },
+    {
+      "added_at": "2022-10-10 12:52:34",
+      "album": {
+        "name": "Booker's Guitar",
+        "url": "https://open.spotify.com/album/3Ska5qQfOmK6PyxdGhUnSG"
+      },
+      "artists": [
+        {
+          "name": "Eric Bibb",
+          "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
+        }
+      ],
+      "duration_ms": 221120,
+      "name": "With My Maker I Am One",
+      "url": "https://open.spotify.com/track/1P3EPqytwKmzzgrbw72xRP"
     },
     {
       "added_at": "2022-10-10 12:52:34",
@@ -583,22 +583,6 @@
     {
       "added_at": "2022-10-10 12:52:34",
       "album": {
-        "name": "The \"Killer\" Rocks On",
-        "url": "https://open.spotify.com/album/6vFYcOml32pCUDT7Adp5hW"
-      },
-      "artists": [
-        {
-          "name": "Jerry Lee Lewis",
-          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "C.C. Rider",
-      "url": "https://open.spotify.com/track/2jpyzovZr1zpVVVKck8rlu"
-    },
-    {
-      "added_at": "2022-10-10 12:52:34",
-      "album": {
         "name": "Buffalo Nichols",
         "url": "https://open.spotify.com/album/2P9z3iSo6T3NmaX5q4FjTc"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 232507,
       "name": "Mean Old World",
       "url": "https://open.spotify.com/track/4w1nfPlGNqp4vDxDZRTmAi"
+    },
+    {
+      "added_at": "2022-10-10 12:52:34",
+      "album": {
+        "name": "The \"Killer\" Rocks On",
+        "url": "https://open.spotify.com/album/6vFYcOml32pCUDT7Adp5hW"
+      },
+      "artists": [
+        {
+          "name": "Jerry Lee Lewis",
+          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "C.C. Rider",
+      "url": "https://open.spotify.com/track/2jpyzovZr1zpVVVKck8rlu"
     },
     {
       "added_at": "2022-10-10 12:52:34",
@@ -931,22 +931,6 @@
     {
       "added_at": "2022-10-10 12:52:34",
       "album": {
-        "name": "Death Valley Blues",
-        "url": "https://open.spotify.com/album/1TbXvKBvqWDDIOADkyTNoM"
-      },
-      "artists": [
-        {
-          "name": "Arthur \"Big Boy\" Crudup",
-          "url": "https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC"
-        }
-      ],
-      "duration_ms": 163000,
-      "name": "Death Valley Blues",
-      "url": "https://open.spotify.com/track/7rG5HKSHsK3HDb2HWGiDAT"
-    },
-    {
-      "added_at": "2022-10-10 12:52:34",
-      "album": {
         "name": "Dust My Broom",
         "url": "https://open.spotify.com/album/4wvZ1QR3tMnLNDzzxxn1pj"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 215662,
       "name": "Dust My Broom",
       "url": "https://open.spotify.com/track/3OGfvgASu7KjQn8whfBALw"
+    },
+    {
+      "added_at": "2022-10-10 12:52:34",
+      "album": {
+        "name": "Death Valley Blues",
+        "url": "https://open.spotify.com/album/1TbXvKBvqWDDIOADkyTNoM"
+      },
+      "artists": [
+        {
+          "name": "Arthur \"Big Boy\" Crudup",
+          "url": "https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC"
+        }
+      ],
+      "duration_ms": 163000,
+      "name": "Death Valley Blues",
+      "url": "https://open.spotify.com/track/7rG5HKSHsK3HDb2HWGiDAT"
     },
     {
       "added_at": "2022-10-10 12:52:34",
@@ -995,22 +995,6 @@
     {
       "added_at": "2022-10-10 12:52:34",
       "album": {
-        "name": "Jolene",
-        "url": "https://open.spotify.com/album/6bD5yWr1tSMSnuCqkR1HsG"
-      },
-      "artists": [
-        {
-          "name": "GA-20",
-          "url": "https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT"
-        }
-      ],
-      "duration_ms": 237769,
-      "name": "Jolene",
-      "url": "https://open.spotify.com/track/7xy2SAiuKSfpUeUizXvmX7"
-    },
-    {
-      "added_at": "2022-10-10 12:52:34",
-      "album": {
         "name": "Muddy Waters Sings Big Bill Broonzy",
         "url": "https://open.spotify.com/album/2ULAVn0TXR0ISBy9v8iCrU"
       },
@@ -1027,18 +1011,18 @@
     {
       "added_at": "2022-10-10 12:52:34",
       "album": {
-        "name": "Blue River Rising",
-        "url": "https://open.spotify.com/album/2oKbRUC7S1CmDvIXIPDG4W"
+        "name": "Jolene",
+        "url": "https://open.spotify.com/album/6bD5yWr1tSMSnuCqkR1HsG"
       },
       "artists": [
         {
-          "name": "Michael van Merwyk",
-          "url": "https://open.spotify.com/artist/0CbBEc4uGsHwisuBdVO7HF"
+          "name": "GA-20",
+          "url": "https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT"
         }
       ],
-      "duration_ms": 233226,
-      "name": "Keep Sinking",
-      "url": "https://open.spotify.com/track/5AV3XZkfvXHHPFLiQ7BIif"
+      "duration_ms": 237769,
+      "name": "Jolene",
+      "url": "https://open.spotify.com/track/7xy2SAiuKSfpUeUizXvmX7"
     },
     {
       "added_at": "2022-10-10 12:52:34",
@@ -1055,6 +1039,22 @@
       "duration_ms": 289786,
       "name": "Black Horizon",
       "url": "https://open.spotify.com/track/3E6epwRVuuksTZDlvc24VH"
+    },
+    {
+      "added_at": "2022-10-10 12:52:34",
+      "album": {
+        "name": "Blue River Rising",
+        "url": "https://open.spotify.com/album/2oKbRUC7S1CmDvIXIPDG4W"
+      },
+      "artists": [
+        {
+          "name": "Michael van Merwyk",
+          "url": "https://open.spotify.com/artist/0CbBEc4uGsHwisuBdVO7HF"
+        }
+      ],
+      "duration_ms": 233226,
+      "name": "Keep Sinking",
+      "url": "https://open.spotify.com/track/5AV3XZkfvXHHPFLiQ7BIif"
     },
     {
       "added_at": "2022-10-10 12:52:34",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2022-10-10 12:52:34",
       "album": {
-        "name": "Devil Got My Woman",
-        "url": "https://open.spotify.com/album/0sgYD9rg6DpI2uWrffTXEr"
-      },
-      "artists": [
-        {
-          "name": "Skip James",
-          "url": "https://open.spotify.com/artist/2zlMeTjA7szCmqcJjBzYXJ"
-        }
-      ],
-      "duration_ms": 315000,
-      "name": "Devil Got My Woman",
-      "url": "https://open.spotify.com/track/6DawgaTuMtL9DOq1jCVeVN"
-    },
-    {
-      "added_at": "2022-10-10 12:52:34",
-      "album": {
         "name": "Avalon Blues",
         "url": "https://open.spotify.com/album/5Er6ubiIavSvQNQI5cwXYm"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 263306,
       "name": "Avalon Blues",
       "url": "https://open.spotify.com/track/2LMHSxhp5CahCt9DJVLX0F"
+    },
+    {
+      "added_at": "2022-10-10 12:52:34",
+      "album": {
+        "name": "Devil Got My Woman",
+        "url": "https://open.spotify.com/album/0sgYD9rg6DpI2uWrffTXEr"
+      },
+      "artists": [
+        {
+          "name": "Skip James",
+          "url": "https://open.spotify.com/artist/2zlMeTjA7szCmqcJjBzYXJ"
+        }
+      ],
+      "duration_ms": 315000,
+      "name": "Devil Got My Woman",
+      "url": "https://open.spotify.com/track/6DawgaTuMtL9DOq1jCVeVN"
     }
   ],
   "unique_name": "Black Coffee Blues",

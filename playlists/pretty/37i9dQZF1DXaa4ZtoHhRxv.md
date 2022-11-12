@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaa4ZtoHhRxv.md) - [plain]
 
 > Hit the floor with these hot new tracks and dance remixes of your favorite country songs! Cover: Dolly Parton and Destructo
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,146 likes - 118 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,151 likes - 118 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaa4ZtoHhRxv.md) - [plain]
 | 76 | [Diamonds \- Cash Cash Remix](https://open.spotify.com/track/2ByP6u4dKJSTmHziCVDteF) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS), [Cash Cash](https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF) | [Diamonds \(Cash Cash Remix\)](https://open.spotify.com/album/3iyYMP6fNOHsYpVKDr026R) | 2:59 |
 | 77 | [Die A Happy Man \- The Remix](https://open.spotify.com/track/3bxXbmUmpJFlHaeX9CTJ38) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Tangled Up \(Deluxe\)](https://open.spotify.com/album/0qOpKQX8DBZaI6lhXv5aa0) | 3:32 |
 | 78 | [Man! I Feel Like A Woman!](https://open.spotify.com/track/6q9orQ8lTnKFqBhxRB0bY5) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over \(International Version\)](https://open.spotify.com/album/5MUiqH86VtEvtVIY1loBDi) | 3:53 |
-| 79 | [Do Si Do \(feat\. Blanco Brown\)](https://open.spotify.com/track/21HtICjxfQGi3bS9XH7dOl) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [Diplo Presents Thomas Wesley Chapter 1: Snake Oil](https://open.spotify.com/album/24EiVoJXLPY9a6a7AqZNDg) | 2:18 |
+| 79 | [Do Si Do \(feat\. Blanco Brown\)](https://open.spotify.com/track/0NjNBCUKKjsll3JhkG0xir) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [Diplo Presents Thomas Wesley Chapter 1: Snake Oil](https://open.spotify.com/album/2Om5VEKaBd4Afht33ToQGD) | 2:18 |
 | 80 | [Meant to Be \(feat\. Florida Georgia Line\)](https://open.spotify.com/track/7iDa6hUg2VgEL1o1HjmfBn) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [All Your Fault: Pt\. 2](https://open.spotify.com/album/6t5D6LEgHxqUVOxJItkzfb) | 2:43 |
 | 81 | [Fancy Like \(Dave Audé Remix\)](https://open.spotify.com/track/1YW8olrB29icos92vsWPvd) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf), [Dave Audé](https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9) | [Fancy Like \(Dave Audé Remix\)](https://open.spotify.com/album/2ev30eQbF3E9neNPUaTc98) | 2:57 |
 | 82 | [Best Shot \- Heyder Remix](https://open.spotify.com/track/1ulAkhZoituHjFJS14BwFp) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Heyder](https://open.spotify.com/artist/13zcQXoEQbyGdi7W78d4nc) | [Best Shot \(The Remixes\)](https://open.spotify.com/album/5LKLx3GBnQx2i6WOaAGQ59) | 3:02 |
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaa4ZtoHhRxv.md) - [plain]
 | 117 | [Someday](https://open.spotify.com/track/73h6Ma5QhBFrshEN2CTevS) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Zac Brown](https://open.spotify.com/artist/6tKJaNOY6oNVWcegnMMEtt) | [Golden Hour](https://open.spotify.com/album/7tcs1X9pzFvcLOPuhCstQJ) | 3:43 |
 | 118 | [Two Black Cadillacs / Jolene \(Dee Jay Silver Edit\) \(feat\. Dolly Parton\)](https://open.spotify.com/track/3H0JQLCfWoVvPGfQvzDT42) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Country Club](https://open.spotify.com/album/0ND26IiObIrQgNuzU5dFmt) | 4:12 |
 
-Snapshot ID: `MTY2NzMyNzM5NywwMDAwMDAwMDA5ZWFjOWQzMTlmZTEzNmVkNjFiNzEwY2IxNGZkNTY3`
+Snapshot ID: `MTY2NzMyNzM5NywwMDAwMDAwMDg1MDNiYTIwMjdmODgwNjQ2ZjVkZjM4ZmY3ZDQ5ZDkw`

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 
 > Fresh takes on that high lonesome sound\. Cover: Violet Bell
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,842 likes - 132 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,878 likes - 132 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [All the Stars \(Radio Edit\)](https://open.spotify.com/track/3W9IyoqItFEGDZ0a4BAb3I) | [Violet Bell](https://open.spotify.com/artist/2oIi5WqUQeW84eOt1rxDt8) | [Shapeshifter](https://open.spotify.com/album/0yGem84XQFLUPquXiLV0lQ) | 3:48 |
-| 2 | [The Boxer feat\. Mumford & Sons and Paul Simon](https://open.spotify.com/track/73C8vVm2BRLLBQ8FH6N6Qm) | [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9), [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI), [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Traveler](https://open.spotify.com/album/6YNQ1O9C5AVtOGEPIIwkAG) | 4:05 |
+| 2 | [The Boxer](https://open.spotify.com/track/4vJfFgFj5kZMplZUeJ60aF) | [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9), [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Babel \(Deluxe Version\)](https://open.spotify.com/album/3FfuUD3Je9t9tQq80Zq41y) | 4:05 |
 | 3 | [Build Me Up From Bones](https://open.spotify.com/track/1I9dSqB5XSdwOfn9M8zpRg) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Build Me Up From Bones](https://open.spotify.com/album/3WgIxB4vFl8i5ZHCypubIK) | 3:36 |
 | 4 | [The Tide](https://open.spotify.com/track/7H60aEC32oOX4Fy4Ug2l0r) | [The Lonely Heartstring Band](https://open.spotify.com/artist/3d7YNQ39OxBxWOn1VX4J26) | [Deep Waters](https://open.spotify.com/album/3GzqeSQTMzPpo6Ernuzh2c) | 4:18 |
 | 5 | [Lemons and Tangerines \- Live Session, Paso Robles, CA, 2021](https://open.spotify.com/track/5xIO3D9k6gUGg5ptO1abRk) | [AJ Lee & Blue Summit](https://open.spotify.com/artist/1VwMKPdHxC7tI21tynmXEr), [Jam in the Van](https://open.spotify.com/artist/1CUVxHzaFXiqedLmCt1pKa) | [Jam in the Van \- AJ Lee & Blue Summit \(Live Session, Paso Robles, CA, 2021\)](https://open.spotify.com/album/5fmJvOgfxX37ndWmbnOL2U) | 4:12 |
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 | 26 | [He Ain't Me](https://open.spotify.com/track/6YCRCdu2U9ySn4WpjIiYSU) | [Maygen & The Birdwatcher](https://open.spotify.com/artist/5R2t1TUrdWCub9CAUhnzz8) | [He Ain't Me](https://open.spotify.com/album/6s9SrAd8YNrLH2we1nzlAi) | 4:07 |
 | 27 | [Updraft](https://open.spotify.com/track/6RMTeqT4f712BeGA6bdlyz) | [Hawktail](https://open.spotify.com/artist/3FsmZCUI3BAt3lqc6UIPqm) | [Updraft](https://open.spotify.com/album/3rK9kArUsB3JSYZTo62gCJ) | 5:56 |
 | 28 | [Just Pick One](https://open.spotify.com/track/77TVhN6bb5SGqHDM7wCqPX) | [Mama's Broke](https://open.spotify.com/artist/18kqY0obPXyo3oXtuzrS7k) | [Just Pick One](https://open.spotify.com/album/5iLEZzs8ZELq9dnK9krazU) | 3:01 |
-| 29 | [Howl](https://open.spotify.com/track/5xXw7MRYMUgO5B1Y2Gka4V) | [Sam Burchfield](https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5) | [Arms of a Lover](https://open.spotify.com/album/2KELaV63XzaF0MJ2FeIjVK) | 4:53 |
+| 29 | [Howl](https://open.spotify.com/track/0duTC9TPYGdTukVmkJiAuZ) | [Sam Burchfield](https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5) | [It Feels Alright](https://open.spotify.com/album/0xsAiiO0KEvKLn9J7v9XIJ) | 4:53 |
 | 30 | [I'll Be Lost](https://open.spotify.com/track/5QR7BtYDsTKReZJNrqZ3Rn) | [Heather Sarona](https://open.spotify.com/artist/5cne7YJw2nterSfuPr16W0) | [I'll Be Lost](https://open.spotify.com/album/47YEllnKpleAJfm9PZ78uy) | 3:22 |
 | 31 | [I Don't Know](https://open.spotify.com/track/3gr9HKI4zcCZ5ZIQNvSncs) | [The Slocan Ramblers](https://open.spotify.com/artist/1F81FTiMCbp4fxZ1EMStbk) | [I Don't Know](https://open.spotify.com/album/7CBdNw7qntXyqBNLWJ4Gll) | 4:07 |
 | 32 | [Bulleit Blues](https://open.spotify.com/track/6tEVS3afsZXcv4Q99aEfN7) | [Sam Williams](https://open.spotify.com/artist/4cwkbiVtJw6GUOka2ZFZqz) | [Glasshouse Children](https://open.spotify.com/album/7GfFUxRWaHA2Adj0M8N1kl) | 1:31 |
@@ -141,4 +141,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 | 131 | [Don't Cry](https://open.spotify.com/track/2irMeKkUB59LWCU7i9XDnj) | [Sam Burchfield](https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5) | [Arms of a Lover](https://open.spotify.com/album/2KELaV63XzaF0MJ2FeIjVK) | 3:21 |
 | 132 | [Jenny Put the Kettle On](https://open.spotify.com/track/1r65QhZcekR3BWfwkjIf6I) | [Nora Brown](https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT) | [Long Time To Be Gone](https://open.spotify.com/album/57Vu4douVKyoHc5Asa2LHM) | 2:00 |
 
-Snapshot ID: `MTY2NTc2NjAyMCwwMDAwMDAwMDExMmFlNWM0Yzk3NGVjNmQ1YmFjYTk2MzIyNmQ1NmVm`
+Snapshot ID: `MTY2NTc2NjAyMCwwMDAwMDAwMDBiMmMxMTU1NTZlNGU3YmJmMWNlMjA0OGQ0OWM2MTgw`

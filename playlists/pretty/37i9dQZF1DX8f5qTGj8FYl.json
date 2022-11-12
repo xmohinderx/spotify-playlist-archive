@@ -1,12 +1,12 @@
 {
   "description": "When the funk is just too funky for words to keep up.",
-  "num_followers": 310748,
+  "num_followers": 310903,
   "original_name": "Instrumental Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMDhlMzZmNDBmMWVjOWNiMmJkNWUxMzA2YjE5ZGUyMGY4",
+  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMDIyNTAzNDIxZTI4MTY4YTQwZWE5NWRhYjU4MjQ2ZjM2",
   "tracks": [
     {
       "added_at": "2020-11-13 05:02:00",
@@ -337,22 +337,6 @@
       "url": "https://open.spotify.com/track/6WFwC46XQapcmnToEcromu"
     },
     {
-      "added_at": "2021-06-25 04:02:00",
-      "album": {
-        "name": "Mirage",
-        "url": "https://open.spotify.com/album/45yGFEPm310zjAc1psZzEv"
-      },
-      "artists": [
-        {
-          "name": "Glass Beams",
-          "url": "https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF"
-        }
-      ],
-      "duration_ms": 287645,
-      "name": "Kong",
-      "url": "https://open.spotify.com/track/1MrzCY8KeTcU2UGDITsAoz"
-    },
-    {
       "added_at": "2020-11-13 05:02:00",
       "album": {
         "name": "Gun Metal Grey",
@@ -367,6 +351,22 @@
       "duration_ms": 196746,
       "name": "Gun Metal Grey",
       "url": "https://open.spotify.com/track/2xBMnos2JHuKgRGr0cSgK5"
+    },
+    {
+      "added_at": "2021-06-25 04:02:00",
+      "album": {
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/45yGFEPm310zjAc1psZzEv"
+      },
+      "artists": [
+        {
+          "name": "Glass Beams",
+          "url": "https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF"
+        }
+      ],
+      "duration_ms": 287645,
+      "name": "Kong",
+      "url": "https://open.spotify.com/track/1MrzCY8KeTcU2UGDITsAoz"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -517,38 +517,6 @@
       "url": "https://open.spotify.com/track/1cFgKdRa1Zir3fVQgfTIwH"
     },
     {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
-        "name": "Jazz In The Present Tense",
-        "url": "https://open.spotify.com/album/6mB4Dw3ryI693Cpm1KOYIK"
-      },
-      "artists": [
-        {
-          "name": "Solsonics",
-          "url": "https://open.spotify.com/artist/0hRcHqu2R885utzNyofwbj"
-        }
-      ],
-      "duration_ms": 249933,
-      "name": "Montuno Funk",
-      "url": "https://open.spotify.com/track/1HwXgiTt6K0MtxxBriAQEl"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
-        "name": "Our Kind of Movement",
-        "url": "https://open.spotify.com/album/5AZNZXj3lW7M2jHj3IqI0q"
-      },
-      "artists": [
-        {
-          "name": "Speedometer",
-          "url": "https://open.spotify.com/artist/20ztaBo1Ap1UXnF0HpOX44"
-        }
-      ],
-      "duration_ms": 235186,
-      "name": "Kashmir",
-      "url": "https://open.spotify.com/track/5aEurCKzsfoo0nFHK6OPXT"
-    },
-    {
       "added_at": "2021-06-11 04:01:00",
       "album": {
         "name": "The Golden Hour",
@@ -567,6 +535,38 @@
       "duration_ms": 223672,
       "name": "Junkyard Dunebuggy",
       "url": "https://open.spotify.com/track/7hePUwn6gsIUe6KC4ACdXB"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "Our Kind of Movement",
+        "url": "https://open.spotify.com/album/5AZNZXj3lW7M2jHj3IqI0q"
+      },
+      "artists": [
+        {
+          "name": "Speedometer",
+          "url": "https://open.spotify.com/artist/20ztaBo1Ap1UXnF0HpOX44"
+        }
+      ],
+      "duration_ms": 235186,
+      "name": "Kashmir",
+      "url": "https://open.spotify.com/track/5aEurCKzsfoo0nFHK6OPXT"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "Jazz In The Present Tense",
+        "url": "https://open.spotify.com/album/6mB4Dw3ryI693Cpm1KOYIK"
+      },
+      "artists": [
+        {
+          "name": "Solsonics",
+          "url": "https://open.spotify.com/artist/0hRcHqu2R885utzNyofwbj"
+        }
+      ],
+      "duration_ms": 249933,
+      "name": "Montuno Funk",
+      "url": "https://open.spotify.com/track/1HwXgiTt6K0MtxxBriAQEl"
     },
     {
       "added_at": "2021-02-19 05:01:00",
@@ -687,22 +687,6 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Scratch My Itch",
-        "url": "https://open.spotify.com/album/50JWmtnK2xUgMY321aZyzs"
-      },
-      "artists": [
-        {
-          "name": "The Soul Snatchers",
-          "url": "https://open.spotify.com/artist/7DssAVUkBP2JAMLRvfrg20"
-        }
-      ],
-      "duration_ms": 239280,
-      "name": "Do You Wanna Get Down",
-      "url": "https://open.spotify.com/track/1U2WuiUGSpZfzoL0e3n8Kj"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
         "name": "Wired",
         "url": "https://open.spotify.com/album/0vo9nZNFMaFASINLCzmzcU"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 164173,
       "name": "Head for Backstage Pass",
       "url": "https://open.spotify.com/track/6ZHbdm3MUHqDkYV8ZkY0lZ"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "Scratch My Itch",
+        "url": "https://open.spotify.com/album/50JWmtnK2xUgMY321aZyzs"
+      },
+      "artists": [
+        {
+          "name": "The Soul Snatchers",
+          "url": "https://open.spotify.com/artist/7DssAVUkBP2JAMLRvfrg20"
+        }
+      ],
+      "duration_ms": 239280,
+      "name": "Do You Wanna Get Down",
+      "url": "https://open.spotify.com/track/1U2WuiUGSpZfzoL0e3n8Kj"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -845,22 +845,6 @@
       "url": "https://open.spotify.com/track/51DMIydCssADRLfnmgt8ZI"
     },
     {
-      "added_at": "2021-04-02 05:01:00",
-      "album": {
-        "name": "Chemical Plant Zone",
-        "url": "https://open.spotify.com/album/2t1cN1Q9rTWzDju37p0vEJ"
-      },
-      "artists": [
-        {
-          "name": "Black Market Brass",
-          "url": "https://open.spotify.com/artist/5nNxPO2aR0S8363jLsmuwW"
-        }
-      ],
-      "duration_ms": 261426,
-      "name": "Chemical Plant Zone",
-      "url": "https://open.spotify.com/track/4xhyuLEk3hkOzU0JV1kOPr"
-    },
-    {
       "added_at": "2020-11-13 05:02:00",
       "album": {
         "name": "False Prophets",
@@ -877,20 +861,20 @@
       "url": "https://open.spotify.com/track/6sOL29bZBilHSiuFEwtNS9"
     },
     {
-      "added_at": "2021-04-16 04:00:00",
+      "added_at": "2021-04-02 05:01:00",
       "album": {
-        "name": "Moonshadows",
-        "url": "https://open.spotify.com/album/3FJHBeJz2ImwMQEBXSGlGh"
+        "name": "Chemical Plant Zone",
+        "url": "https://open.spotify.com/album/2t1cN1Q9rTWzDju37p0vEJ"
       },
       "artists": [
         {
-          "name": "Orgone",
-          "url": "https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE"
+          "name": "Black Market Brass",
+          "url": "https://open.spotify.com/artist/5nNxPO2aR0S8363jLsmuwW"
         }
       ],
-      "duration_ms": 186746,
-      "name": "Get With It",
-      "url": "https://open.spotify.com/track/5poYqonWICaAZaQCZIPMcu"
+      "duration_ms": 261426,
+      "name": "Chemical Plant Zone",
+      "url": "https://open.spotify.com/track/4xhyuLEk3hkOzU0JV1kOPr"
     },
     {
       "added_at": "2022-04-01 04:02:00",
@@ -1007,22 +991,6 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Live A Ponte Sisto",
-        "url": "https://open.spotify.com/album/6f3eNyHGDyc94yn5wStBYV"
-      },
-      "artists": [
-        {
-          "name": "Funkallisto",
-          "url": "https://open.spotify.com/artist/596zIbd1W04tLPLkFT3q41"
-        }
-      ],
-      "duration_ms": 343080,
-      "name": "Broasted Or Fried",
-      "url": "https://open.spotify.com/track/0OdjZKTMbT5MyP1xrwAsHI"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
         "name": "Greasin The Wheels",
         "url": "https://open.spotify.com/album/4sXHD4MaPHwTdjivbWMmtO"
       },
@@ -1035,6 +1003,22 @@
       "duration_ms": 293880,
       "name": "THE CRISIS GENERATOR",
       "url": "https://open.spotify.com/track/761kW7EB1ZjHCvGkEhoWHd"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "Live A Ponte Sisto",
+        "url": "https://open.spotify.com/album/6f3eNyHGDyc94yn5wStBYV"
+      },
+      "artists": [
+        {
+          "name": "Funkallisto",
+          "url": "https://open.spotify.com/artist/596zIbd1W04tLPLkFT3q41"
+        }
+      ],
+      "duration_ms": 343080,
+      "name": "Broasted Or Fried",
+      "url": "https://open.spotify.com/track/0OdjZKTMbT5MyP1xrwAsHI"
     },
     {
       "added_at": "2021-01-15 21:11:37",
@@ -1163,18 +1147,18 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Soul Jazz Express",
-        "url": "https://open.spotify.com/album/7uPIvk4yyavHHaz2HfZqXk"
+        "name": "The Basement Beat",
+        "url": "https://open.spotify.com/album/3JrhYYG6NXmVmLQ2mH8zaB"
       },
       "artists": [
         {
-          "name": "Soul Jazz Express",
-          "url": "https://open.spotify.com/artist/477IJP2IAlgmpJL0Bc8gXh"
+          "name": "Chris Hazelton's Boogaloo 7",
+          "url": "https://open.spotify.com/artist/74IYxnwsZ1xNeGIDDujtWr"
         }
       ],
-      "duration_ms": 317000,
-      "name": "Couple A Brownies",
-      "url": "https://open.spotify.com/track/6MPy26h9zPjTYRGV9sYXQO"
+      "duration_ms": 470371,
+      "name": "Bambu",
+      "url": "https://open.spotify.com/track/2zMTauBe9guPMWLTbG1pAH"
     },
     {
       "added_at": "2022-04-15 04:02:00",
@@ -1195,18 +1179,18 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "The Basement Beat",
-        "url": "https://open.spotify.com/album/3JrhYYG6NXmVmLQ2mH8zaB"
+        "name": "Soul Jazz Express",
+        "url": "https://open.spotify.com/album/7uPIvk4yyavHHaz2HfZqXk"
       },
       "artists": [
         {
-          "name": "Chris Hazelton's Boogaloo 7",
-          "url": "https://open.spotify.com/artist/74IYxnwsZ1xNeGIDDujtWr"
+          "name": "Soul Jazz Express",
+          "url": "https://open.spotify.com/artist/477IJP2IAlgmpJL0Bc8gXh"
         }
       ],
-      "duration_ms": 470371,
-      "name": "Bambu",
-      "url": "https://open.spotify.com/track/2zMTauBe9guPMWLTbG1pAH"
+      "duration_ms": 317000,
+      "name": "Couple A Brownies",
+      "url": "https://open.spotify.com/track/6MPy26h9zPjTYRGV9sYXQO"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -1223,22 +1207,6 @@
       "duration_ms": 352192,
       "name": "Chili Wa Man",
       "url": "https://open.spotify.com/track/73wTZTmfSWoUbTk6daCj4S"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
-        "name": "Uh Yeah!",
-        "url": "https://open.spotify.com/album/6l1B3uOyqe1kWKQnMNIZdk"
-      },
-      "artists": [
-        {
-          "name": "Funk Off",
-          "url": "https://open.spotify.com/artist/7lis4nJqfPm4jTXZdfAJDy"
-        }
-      ],
-      "duration_ms": 188840,
-      "name": "Living Off",
-      "url": "https://open.spotify.com/track/7zLbAUkKTTQmNj0kPs55LH"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -1295,6 +1263,22 @@
       "duration_ms": 305000,
       "name": "Cornish Hen",
       "url": "https://open.spotify.com/track/7nzJpykzx8lLq6aKKjcMP5"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "Uh Yeah!",
+        "url": "https://open.spotify.com/album/6l1B3uOyqe1kWKQnMNIZdk"
+      },
+      "artists": [
+        {
+          "name": "Funk Off",
+          "url": "https://open.spotify.com/artist/7lis4nJqfPm4jTXZdfAJDy"
+        }
+      ],
+      "duration_ms": 188840,
+      "name": "Living Off",
+      "url": "https://open.spotify.com/track/7zLbAUkKTTQmNj0kPs55LH"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -1375,6 +1359,22 @@
       "duration_ms": 324078,
       "name": "Royal Highness",
       "url": "https://open.spotify.com/track/42y27OIathcePEZFs5bYSk"
+    },
+    {
+      "added_at": "2022-02-25 05:02:00",
+      "album": {
+        "name": "Bunny Hop!",
+        "url": "https://open.spotify.com/album/2eZaBE4GDDdOgZH8210Nts"
+      },
+      "artists": [
+        {
+          "name": "The CB3",
+          "url": "https://open.spotify.com/artist/3z9nMmCLIxruNbcL4Iddsl"
+        }
+      ],
+      "duration_ms": 302288,
+      "name": "Bunny Hop",
+      "url": "https://open.spotify.com/track/07ma7BgUd9SUyOWSkpQCLp"
     }
   ],
   "unique_name": "Instrumental Funk",

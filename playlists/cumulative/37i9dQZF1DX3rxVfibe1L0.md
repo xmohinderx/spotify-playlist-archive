@@ -4,7 +4,7 @@
 
 > Get happy with today's dose of feel\-good songs!
 
-398 songs - 21 hr 5 min - [published](https://open.spotify.com/playlist/3HO0RxWBgn0Qsm0yVbDeHh)
+399 songs - 21 hr 9 min - [published](https://open.spotify.com/playlist/3HO0RxWBgn0Qsm0yVbDeHh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -303,7 +303,8 @@
 | [Señorita](https://open.spotify.com/track/0TK2YIli7K1leLovkQiNik) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Señorita](https://open.spotify.com/album/2ZaX1FdZCwchXl1QZiD4O4) | 3:10 | 2019-07-29\* | 2020-02-07 |
 | [Share That Love \(feat\. G\-Eazy\)](https://open.spotify.com/track/44l9nnCVvOQBbWG6tDViKl) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [Share That Love \(feat\. G\-Eazy\)](https://open.spotify.com/album/1zTCnLSvIx3DjsKDV1xcmO) | 2:52 | 2020-08-21 | 2022-07-16 |
 | [Sheesh!](https://open.spotify.com/track/3ddNKnYpVx0uI8vcwbTQ5Y) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u), [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [Sheesh!](https://open.spotify.com/album/7aGQrZNnvPaOc0PVm7yuc5) | 2:28 | 2021-08-21 |  |
-| [Shivers](https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:27 | 2022-07-15 |  |
+| [Shivers](https://open.spotify.com/track/2vJw8oQzwDP9mHm2YCmVcj) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Sunday Feelgood](https://open.spotify.com/album/6Ko420zIBuOY8iMJMrKPns) | 3:27 | 2022-11-04 |  |
+| [Shivers](https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:27 | 2022-07-15 | 2022-11-12 |
 | [Shivers](https://open.spotify.com/track/6bQfNiqyCX7UaQSvVVGo4I) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Shivers](https://open.spotify.com/album/5kFCfioZraFsRWpoitQjmx) | 3:27 | 2021-09-11 | 2022-07-29 |
 | [Sixteen](https://open.spotify.com/track/4PkIDTPGedm0enzdvilLNd) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Sixteen](https://open.spotify.com/album/5AXNN75OmMjFrwst6ExNPx) | 3:21 | 2019-07-29\* | 2020-02-14 |
 | [Skyline](https://open.spotify.com/track/1QxIFMs4M8qd5cbJJu80v4) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Skyline](https://open.spotify.com/album/7CrDnyaqZVhO6UupmkQiHe) | 3:02 | 2022-04-29 |  |

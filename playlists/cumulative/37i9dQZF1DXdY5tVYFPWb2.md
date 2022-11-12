@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-347 songs - 23 hr 3 min - [published](https://open.spotify.com/playlist/41pE6WZAp3SxdsIrmRUYjJ)
+348 songs - 23 hr 7 min - [published](https://open.spotify.com/playlist/41pE6WZAp3SxdsIrmRUYjJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -346,7 +346,8 @@
 | [蜃気楼](https://open.spotify.com/track/1poGs2OYI3IJvRRf3lnwHy) | [LEE HWANGDAE](https://open.spotify.com/artist/63RogPtcs8DxN7cdqRU9FV) | [蜃気楼](https://open.spotify.com/album/5wuHxESE0c3fKwyRRq6W07) | 3:42 | 2022-06-30 | 2022-07-09 |
 | [誓い](https://open.spotify.com/track/0qk9PyviJnLL2rzHikQ4Oy) | [evening cinema](https://open.spotify.com/artist/6NQ3DibpWMigY2cXJr9KYv) | [誓い](https://open.spotify.com/album/6bHUl9K4cipCsU2wew0XrU) | 3:33 | 2022-05-24 | 2022-07-07 |
 | [踊らせないで](https://open.spotify.com/track/6AA6bwyZpNlRpf3ii2la7e) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [LOVE/LIKE/HATE](https://open.spotify.com/album/6o54CCBkUg46egcmBrHpIC) | 3:47 | 2022-05-24 | 2022-07-29 |
-| [踊らせないで](https://open.spotify.com/track/7vK2DtxftUf2iQgVF0Qnzg) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [LOVE/LIKE/HATE](https://open.spotify.com/album/6S8ZfCFqAdu3qHdCldwM3M) | 3:47 | 2022-07-27 |  |
+| [踊らせないで](https://open.spotify.com/track/6XrXyoj9fakX503nc6jePb) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [踊らせないで](https://open.spotify.com/album/6mfqe5tdipErZXpXjrT3d8) | 3:47 | 2022-11-08 |  |
+| [踊らせないで](https://open.spotify.com/track/7vK2DtxftUf2iQgVF0Qnzg) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [LOVE/LIKE/HATE](https://open.spotify.com/album/6S8ZfCFqAdu3qHdCldwM3M) | 3:47 | 2022-07-27 | 2022-11-12 |
 | [透明なガール \-Dye me\- \(feat\. ひかり\)](https://open.spotify.com/track/3MddMYGS4fdkcRnkFbz2PM) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [透明なガール \-Dye me\- \(feat\. ひかり\)](https://open.spotify.com/album/0dJVYEeg3RoLXPcUcpVatv) | 3:29 | 2022-05-31 | 2022-11-09 |
 | [都会](https://open.spotify.com/track/2xnakNkUj5CFdWQ8kK0BME) | [Gota Nishidera](https://open.spotify.com/artist/6zGbXCFNnK3q6gnUrAy9lQ) | [都会](https://open.spotify.com/album/2gRN2uSvRB2TV5TUOlMhU7) | 3:53 | 2022-11-08 |  |
 | [都会の森](https://open.spotify.com/track/3ZSqz0qiV7R2pPbL4HqCB3) | [CHiLi GiRL](https://open.spotify.com/artist/1kY3BOyFg8uv9aEQjr6R95) | [MEBAE](https://open.spotify.com/album/4lbg2191lwQjtdytyUuQfi) | 4:37 | 2022-06-07 | 2022-07-11 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU43UtgmzCjN.md) - [plain]
 
 > Los más pesados y polémicos del Regional Mexicano\. Los Tigres del Norte en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,654 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,854 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU43UtgmzCjN.md) - [plain]
 | 21 | [La Camioneta Gris](https://open.spotify.com/track/61AMt2RcGeddpfJNPJ0hWD) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Mezcla Mexicana](https://open.spotify.com/album/5RyK7OP8o5WrlqzTAcZau3) | 3:18 |
 | 22 | [Se Mamó El Becerro](https://open.spotify.com/track/3cpBfqMWR414bbh8Q0ZlYW) | [Luis y Julian](https://open.spotify.com/artist/5lcjVQ4c220HJHr0AuZXdl) | [Se Mamó El Becerro](https://open.spotify.com/album/1pDmBQhwJk1CR9Y9eplQBy) | 3:24 |
 | 23 | [Pakas De A Kilo](https://open.spotify.com/track/3qCcaEfYemFDg1T1qCGUUD) | [El Halcon De La Sierra](https://open.spotify.com/artist/1KdzlfS9Fli0fwzE2oc9GU) | [El Mero Chaka](https://open.spotify.com/album/3mFKkfROmn7VUiZq3y7f5Q) | 2:24 |
-| 24 | [La Cheyene del Año](https://open.spotify.com/track/1k1kg1xFTxodz5bhh1WIG3) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [De Mexico para el Mundo](https://open.spotify.com/album/32TIJn1x8SCsHVCswGnQZQ) | 3:00 |
+| 24 | [La Cheyene del Año](https://open.spotify.com/track/6FbTnV8JlOXqhCCHEAuRDF) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Los 20 Mejores Corridos y Rancheras, Vol\. 2](https://open.spotify.com/album/1JXX5Z7nbAS2P2t8fH7S73) | 3:01 |
 | 25 | [Misa De Cuerpo Presente](https://open.spotify.com/track/72gWYoN7Wta4spLHOCI6Sd) | [Banda Movil](https://open.spotify.com/artist/7fU0B28ySGWjYCNKZD8YIK) | [Misa De Cuerpo Presente](https://open.spotify.com/album/2WR7Uv5bWy96xBlAfXNoFU) | 2:48 |
 | 26 | [Mis Tres Animales](https://open.spotify.com/track/50urwe1JN84PxSKsJ8yY2p) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [14 Tucanazos Bien Pesados](https://open.spotify.com/album/5poff6oDNapTa60LAq46O0) | 2:43 |
 | 27 | [Era Cabrón El Viejo](https://open.spotify.com/track/39mFPN0z66M4azlAljnFHc) | [Luis y Julian](https://open.spotify.com/artist/5lcjVQ4c220HJHr0AuZXdl) | [Era Cabron El Viejo](https://open.spotify.com/album/4qkWGXtdS7AQDlqIpgjyP6) | 3:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU43UtgmzCjN.md) - [plain]
 | 49 | [Chingon De Chingones](https://open.spotify.com/track/5lduUBDO2K74wlWcReMTJ8) | [Los Razos](https://open.spotify.com/artist/7HYgqp51TBXZdtjinjkQuZ) | [Quince Madrazos Con Sus Compas](https://open.spotify.com/album/5avrr5irqBn8LlbMlagxz2) | 3:29 |
 | 50 | [La Raza Michoacana \- Banda](https://open.spotify.com/track/0LcZV0gcYQ05b2ApGAlHyz) | [Los Originales De San Juan](https://open.spotify.com/artist/3aVB3VLnoAn6bKiHOEzHag) | [Sabor a Tierra Caliente](https://open.spotify.com/album/4Dd5RkifpUqlgYBsB3myVg) | 2:47 |
 
-Snapshot ID: `MTY0NzYzMTM3MiwwMDAwMDAwMGM1MDI3ZmFkNzA4NGFjNDAwODIzZDhlN2M0NGE1NDJi`
+Snapshot ID: `MTY0NzYzMTM3MiwwMDAwMDAwMDI3YjEzMjVlMjg4OTNkYTM2NWFjMDJmNjZiNjA4NWFi`

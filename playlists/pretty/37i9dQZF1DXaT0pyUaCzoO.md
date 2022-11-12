@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaT0pyUaCzoO.md) - [plain]
 | 6 | [Black Women in History](https://open.spotify.com/track/570TkEzBGsNCIKN47OR9b3) | [FYÜTCH](https://open.spotify.com/artist/27qtcEfJBoUq7N2qdHPfvw), [Rissi Palmer](https://open.spotify.com/artist/5M6DR8vZz7e0DZmIHKyjZQ), [Snooknuk](https://open.spotify.com/artist/4Il5GSRo3EJWxiGmZfK6V6) | [Family Tree](https://open.spotify.com/album/2ipWREGW50eHJTjXVVWiCj) | 3:11 |
 | 7 | [Rainbow](https://open.spotify.com/track/4Az0EgaVS9K60uIw1ZKWRV) | [Ms\. Niki](https://open.spotify.com/artist/126iLhrucMwXb50bDUYazJ) | [All One Tribe](https://open.spotify.com/album/1EEVSonqRIjEB0DapNIRs8) | 3:24 |
 | 8 | [Little Black Boy, Little Black Girl](https://open.spotify.com/track/5vz3PFmxkhsPwuoztcVNMB) | [Rissi Palmer](https://open.spotify.com/artist/5M6DR8vZz7e0DZmIHKyjZQ) | [All One Tribe](https://open.spotify.com/album/1EEVSonqRIjEB0DapNIRs8) | 3:22 |
-| 9 | [Good Day for a Good Day](https://open.spotify.com/track/0WZ5paMR4zJAdjkBgCVAYN) | [Michael Franti & Spearhead](https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB) | [Follow Your Heart](https://open.spotify.com/album/5ASwxssTkz7SW7WdaGviYR) | 3:10 |
+| 9 | [Good Day for a Good Day](https://open.spotify.com/track/56iuE0GygnsfkUcv6P3Fsz) | [Michael Franti & Spearhead](https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB) | [No Makeup](https://open.spotify.com/album/4qpnk40ignX6Ue2dnFRiCL) | 3:10 |
 | 10 | [Motivation \- Remix](https://open.spotify.com/track/0AgWkQtQ5h4QWCOardCyni) | [SaulPaul](https://open.spotify.com/artist/0WLNaHsTTp6sWxaL7KykCu), [Bongi and Collin](https://open.spotify.com/artist/5ThpmdOqEFYqzTcAR6Nmq8) | [All One Tribe](https://open.spotify.com/album/1EEVSonqRIjEB0DapNIRs8) | 3:19 |
 | 11 | [Clap Your Hands](https://open.spotify.com/track/0DggugSY9hCZ9C4M8ge9D2) | [The Magic Jones](https://open.spotify.com/artist/68k1fAn7fhJnsujFNEscyA) | [All One Tribe](https://open.spotify.com/album/1EEVSonqRIjEB0DapNIRs8) | 2:22 |
 | 12 | [Go 100](https://open.spotify.com/track/0St5kKQi6fa690c2L88kQi) | [Uncle Jumbo](https://open.spotify.com/artist/7aV5KB8LdwHDrpgVb3GfAI) | [All One Tribe](https://open.spotify.com/album/1EEVSonqRIjEB0DapNIRs8) | 2:59 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaT0pyUaCzoO.md) - [plain]
 | 70 | [Optimistic](https://open.spotify.com/track/4pzC5VooUNveAPVxQJDaVr) | [Sounds Of Blackness](https://open.spotify.com/artist/0a0l3QVhfMwQNAO4wPAmP9) | [Gospel Music](https://open.spotify.com/album/3GLeUVt708UrSKDwOwahy1) | 5:18 |
 | 71 | [Strength Courage & Wisdom](https://open.spotify.com/track/7IjfQIaYYcbuSRWXVk2dGd) | [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC) | [Family R&B](https://open.spotify.com/album/0tM9RV7esd0TcfOphblrrw) | 4:57 |
 
-Snapshot ID: `MTYzMTUzNzQ1NiwwMDAwMDAwMDNhZjk2NDk5ZDM3NjE5MGExMjI0NGJlYjczNzIyOGRi`
+Snapshot ID: `MTYzMTUzNzQ1NiwwMDAwMDAwMDU2MjljYTNjZWE3MzhlOWY3ZjY3YmE1ZGU2NjEwNTY4`

@@ -289,7 +289,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 224946,
       "name": "El Taxista",
       "url": "https://open.spotify.com/track/5ugABx5bnTbKl0j6iPwaku"
@@ -314,6 +314,42 @@
     },
     {
       "album": {
+        "name": "12 Exitos",
+        "url": "https://open.spotify.com/album/1V0wvcJICet3CtonrdPYDk"
+      },
+      "artists": [
+        {
+          "name": "Los Dinnosaurios",
+          "url": "https://open.spotify.com/artist/2WI2ub4Nn8cJM70m9IM2Hz"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226960,
+      "name": "El Taxista",
+      "url": "https://open.spotify.com/track/5aEwy9UczNp7H5cx7qUizQ"
+    },
+    {
+      "album": {
+        "name": "16 de Septiembre: Gruperas (USA) [Vol. 2]",
+        "url": "https://open.spotify.com/album/63mvOAHFDhD2QZLVfNAMcn"
+      },
+      "artists": [
+        {
+          "name": "Abracadabra",
+          "url": "https://open.spotify.com/artist/1F10Dyz1RuRFkgHQ5Es3uZ"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221600,
+      "name": "En realidad",
+      "url": "https://open.spotify.com/track/54psJ1LAQuyOfXZV5Pb4zE"
+    },
+    {
+      "album": {
         "name": "Antolog\u00eda, Vol. 1",
         "url": "https://open.spotify.com/album/53Twpqi0xB4ZRUACwVtBK2"
       },
@@ -325,7 +361,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 221640,
       "name": "En Realidad",
       "url": "https://open.spotify.com/track/0hicPD6pe5ilVkgMWbRbZS"
@@ -1150,6 +1186,24 @@
     },
     {
       "album": {
+        "name": "Musica Regional \"Cinco de Mayo\" Vol. 1",
+        "url": "https://open.spotify.com/album/5xDqYhYssy4kfNangxzCN6"
+      },
+      "artists": [
+        {
+          "name": "Los Acosta",
+          "url": "https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208640,
+      "name": "Voy a pintar un coraz\u00f3n",
+      "url": "https://open.spotify.com/track/3xlGAJ2WshMJtWEqPtg3Vc"
+    },
+    {
+      "album": {
         "name": "Vivencias",
         "url": "https://open.spotify.com/album/56mu4xH2JACoVGZhr3f6KZ"
       },
@@ -1179,7 +1233,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 208640,
       "name": "Voy a pintar un coraz\u00f3n",
       "url": "https://open.spotify.com/track/6ztkxjvne5bjzUUnoskShx"

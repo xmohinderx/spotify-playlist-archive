@@ -113,7 +113,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 386426,
       "name": "Bad Luck (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/5XTeeHxsfAe2kC3oFZzgas"
@@ -239,7 +239,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-09",
+      "date_removed": null,
       "duration_ms": 249946,
       "name": "Do What You Gotta Do",
       "url": "https://open.spotify.com/track/2tF6qsoOtu92PzCTk4OKOf"
@@ -427,10 +427,28 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 156653,
       "name": "I'd Rather Go Blind",
       "url": "https://open.spotify.com/track/1kPBT8S2wJFNAyBMnGVZgL"
+    },
+    {
+      "album": {
+        "name": "Black History Month: ICONS",
+        "url": "https://open.spotify.com/album/0OdkrAsOUyl8razi50RgPW"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "date_added": "2021-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156666,
+      "name": "I'd Rather Go Blind",
+      "url": "https://open.spotify.com/track/5WGN2CyBab6oFA9oYpn3yt"
     },
     {
       "album": {
@@ -557,7 +575,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 190058,
       "name": "It's A Shame",
       "url": "https://open.spotify.com/track/1l1YTy9nJ0trwhsCGcimly"
@@ -1159,7 +1177,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-09",
+      "date_removed": null,
       "duration_ms": 194106,
       "name": "When Something Is Wrong with My Baby",
       "url": "https://open.spotify.com/track/056rtilqF4cqLOgDQGqYqv"

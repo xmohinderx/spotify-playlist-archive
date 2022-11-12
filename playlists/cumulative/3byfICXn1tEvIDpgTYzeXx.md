@@ -4,7 +4,7 @@
 
 > \(Deep House /Slap House /G\-House &amp; More\) \| 2022
 
-151 songs - 7 hr 11 min - not published yet
+152 songs - 7 hr 14 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [No More](https://open.spotify.com/track/374TbI8XdnPeD2KTzz9lvC) | [NECROLX](https://open.spotify.com/artist/6IQCHQSopenTR9Tr9vIelQ) | [No More](https://open.spotify.com/album/3VsrHUHM8Gh9h9jsgxdWD0) | 3:13 | 2022-09-23 |  |
 | [No Way](https://open.spotify.com/track/4WMj3vEasbyjidxPWlDg5f) | [azZza](https://open.spotify.com/artist/4NSf7ko5N1o44cBzWGoVCP), [HZVRV](https://open.spotify.com/artist/4X7aIOTlWRxckdpqRk2KpF) | [No Way](https://open.spotify.com/album/11VENR8ZMpN3nezwaewwtX) | 2:42 | 2022-09-23 |  |
 | [Okay](https://open.spotify.com/track/2yWkgyMnfojm7iPzRwBzn2) | [azZza](https://open.spotify.com/artist/4NSf7ko5N1o44cBzWGoVCP), [DIPIENS](https://open.spotify.com/artist/6CYjGgv0fYxHFHCKWn7SyX) | [Okay](https://open.spotify.com/album/43uDfBBdjkWnRQEkDuNPPW) | 2:50 | 2022-09-23 |  |
+| [On Your Mind](https://open.spotify.com/track/18hKMuVXpgDQtNBvOjva0v) | [OTASH](https://open.spotify.com/artist/3lWH59JER2slR937o2bnvK), [Cammy](https://open.spotify.com/artist/2xDRGwHlHoOz2ilHqRsPC3), [Bahti](https://open.spotify.com/artist/5b7xNFMAoi598oJclqoR7G) | [On Your Mind](https://open.spotify.com/album/2w90dJoZqoD6XwsbzoReQM) | 2:21 | 2022-11-11 |  |
 | [On Your Own](https://open.spotify.com/track/0hWGhPPzzPwAwi0G5a94Om) | [NECROLX](https://open.spotify.com/artist/6IQCHQSopenTR9Tr9vIelQ), [Zhanelya](https://open.spotify.com/artist/5nemrL2vL312LySJWx8b59) | [On Your Own](https://open.spotify.com/album/2UE4aBlJJMIkGCQEtBuZyH) | 2:48 | 2022-09-23 |  |
 | [Outside](https://open.spotify.com/track/3FaV03Bu4vdZecyIvd8aJL) | [ORIPV](https://open.spotify.com/artist/237HNl9pU5Qh95DctFoi4d), [Beenur](https://open.spotify.com/artist/5q1YpRvJzKzjqiSJSVYZAV) | [Outside](https://open.spotify.com/album/1FVxgabmd2ivR4OnY6b3SJ) | 3:47 | 2022-09-23 |  |
 | [Over & Over](https://open.spotify.com/track/2VYtAJuuOr6RyOOggzSTIB) | [Dark Heart](https://open.spotify.com/artist/1k7Cc2WGh6LAE1TUh6dsiy), [Njomza](https://open.spotify.com/artist/3zOUpziwcfY2bCh4VyJ4Am) | [Over & Over](https://open.spotify.com/album/5BmL5jO6sV8k294FijuCZo) | 2:27 | 2022-09-23 |  |

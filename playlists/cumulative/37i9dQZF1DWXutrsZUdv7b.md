@@ -4,7 +4,7 @@
 
 > The legendary producer and songwriting duo: Kenneth Gamble and Leon A\. Huff.
 
-121 songs - 8 hr 8 min - [published](https://open.spotify.com/playlist/1VcebcJH9dQoKQcOkNfE2E)
+122 songs - 8 hr 12 min - [published](https://open.spotify.com/playlist/1VcebcJH9dQoKQcOkNfE2E)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,8 @@
 | [When Somebody Loves You Back](https://open.spotify.com/track/7wJeXISGGTLVv2kBPtCJHw) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Life Is A Song Worth Singing \(Expanded Edition\)](https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw) | 4:56 | 2021-07-01 |  |
 | [When Will I See You Again](https://open.spotify.com/track/02srSkeu2pzybuVr2B9TJm) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Three Degrees](https://open.spotify.com/album/348rR3bK4ypUS5MF2aIetX) | 2:58 | 2021-07-01 |  |
 | [Yes, You Need Love](https://open.spotify.com/track/64JBsxyOVpGnlmdFkHQZc8) | [Anthony White](https://open.spotify.com/artist/4uLJWWkpzgSb8BP3723f7o) | [Could It Be Magic](https://open.spotify.com/album/4zrerm48QQpeBk3U5PWRG9) | 3:33 | 2021-07-01 |  |
-| [You Can't Hide from Yourself](https://open.spotify.com/track/0P1CIWMLDE56pE3SQ2Hacq) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Teddy Pendergrass](https://open.spotify.com/album/5MoWcSxnqFuBa0HGGExRM5) | 4:05 | 2021-07-01 |  |
+| [You Can't Hide from Yourself](https://open.spotify.com/track/0ZbD5Cr4oSwvEoD33NU5Lc) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [The Best Of Teddy Pendergrass](https://open.spotify.com/album/0jPFkO4kcV3QtR14Im5QP6) | 4:05 | 2021-07-01 |  |
+| [You Can't Hide from Yourself](https://open.spotify.com/track/0P1CIWMLDE56pE3SQ2Hacq) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Teddy Pendergrass](https://open.spotify.com/album/5MoWcSxnqFuBa0HGGExRM5) | 4:05 | 2021-07-01 | 2022-11-12 |
 | [You Can't Hide from Yourself](https://open.spotify.com/track/33htp89ONduEbmetaoLSme) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Total Soul Classics \- Teddy Pendergrass](https://open.spotify.com/album/1O3hSAyzAbaEyCxQPWlqQ2) | 4:06 | 2021-07-01 | 2022-07-29 |
 | [You Don't Know What You Got Till You Lose It/kenny Gamble](https://open.spotify.com/track/5DKuYK6aVrkf3luQl3kC2W) | [Kenny Gamble](https://open.spotify.com/artist/0TEdanYTgQdUgNBPjK2vXI) | [Yo Philadelphia!!!! Look What I Found](https://open.spotify.com/album/0dxutrP75tVtqUS8cimSVX) | 3:05 | 2021-07-01 |  |
 | [You Gonna Make Me Love Somebody Else](https://open.spotify.com/track/7MRCd5tmZ2iURu4elcBsuH) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [The Jones Girls](https://open.spotify.com/album/4ZhVgoPq9B9emWRsMcT6cD) | 4:30 | 2021-07-01 |  |

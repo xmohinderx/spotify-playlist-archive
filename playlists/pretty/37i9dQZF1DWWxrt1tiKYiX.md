@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWxrt1tiKYiX.md) - [plain]
 
 > Stripped\-down versions of all your favorite pop hits\. Cover: Dean Lewis
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,302 likes - 99 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,411 likes - 99 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWxrt1tiKYiX.md) - [plain]
 | 45 | [The Bones \- Acoustic](https://open.spotify.com/track/0qSR7aeJONS1yapONTKerm) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Maren Morris: Reimagined](https://open.spotify.com/album/0Kyfw8VQKjy8KpxRJr35Bc) | 3:37 |
 | 46 | [Black And White \- Stripped](https://open.spotify.com/track/06e8zlormzQ5l7uOEj9y0S) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Black And White \(Stripped\)](https://open.spotify.com/album/21AixqCPZuSQLa7Tw9dNm4) | 3:52 |
 | 47 | [Alright \(feat\. Russell Dickerson\) \- Stripped](https://open.spotify.com/track/3TaUhDXyTGPZpWbgD5LoUk) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu), [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Drunk On Emotions \(Stripped\)](https://open.spotify.com/album/4DUl4eui8ahkGijjHiQC0s) | 2:37 |
-| 48 | [everything i wanted](https://open.spotify.com/track/3kHPYnFzwQCPF7RaJs8Ezv) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Covers](https://open.spotify.com/album/56I8Oktz4fuZ58HYg1sXAe) | 4:34 |
+| 48 | [everything i wanted](https://open.spotify.com/track/7dj0cmssIZuJVj5BoGldRO) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [ACOUSTIC](https://open.spotify.com/album/3QOQBzwIpD6Xpg8RXxBc1R) | 4:34 |
 | 49 | [Intentions \- Acoustic](https://open.spotify.com/track/6VkmdRz8YgHFQV3ZNTJAWU) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Intentions \(Acoustic\)](https://open.spotify.com/album/5CkGOdgj9Ajwt2yeoAVRhc) | 2:40 |
 | 50 | [Minefields \- Live Acoustic](https://open.spotify.com/track/1C2o1BM7TI9uzQTvWrFU7h) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Minefields \(Live Acoustic\)](https://open.spotify.com/album/02lEy3RsCbRPfEbHO6IWo7) | 3:13 |
 | 51 | [Glad You Exist \- Acoustic](https://open.spotify.com/track/52RNWUgJBF3LOqt3iw1s77) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Glad You Exist \(Acoustic\)](https://open.spotify.com/album/1FXEP0SJSiEtCFeU1zS56V) | 2:41 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWxrt1tiKYiX.md) - [plain]
 | 98 | [Fool's Gold \- Recorded At RAK Studios, London](https://open.spotify.com/track/3AY6H68WNMDzWw9JhPW4Jv) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Spotify Singles](https://open.spotify.com/album/5Zi0SV2aU0OjmV9k2K1NVi) | 3:24 |
 | 99 | [Need Your Love \(feat\. Noah Kahan\) \- Recorded at Electric Lady Studios, NYC](https://open.spotify.com/track/5ViQpaAk3MlvdGPctEUNTw) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Spotify Singles](https://open.spotify.com/album/5lGxbmDssvHBGx37Qpr7UL) | 3:19 |
 
-Snapshot ID: `MTY2NTcyMDA2MCwwMDAwMDAwMGM5MmQyYjUxMjJjOGRkYTJhNGRhOTJlMmJkZjFkM2M5`
+Snapshot ID: `MTY2NTcyMDA2MCwwMDAwMDAwMDZlOTc0ODkyYTRlZjI5N2Q5ZjhjNjhjNGIxZTNlMDZi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrxKdrXE2Vk.md) - [plain]
 
 > Experience the best of live worship here\. Cover: Hillsong Worship
 
-[Spotify](https://open.spotify.com/user/spotify) - 850,401 likes - 124 songs - 12 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 850,498 likes - 124 songs - 12 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrxKdrXE2Vk.md) - [plain]
 | 54 | [Rise And Shine \- Live](https://open.spotify.com/track/1hUPaZqEBm2w5G64GLtHSH) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [Rise And Shine \(Live\)](https://open.spotify.com/album/2TsFi72UiFcwYAWuDx88Jb) | 9:21 |
 | 55 | [Simple Kingdom \(with Cody Carnes\) \- Live](https://open.spotify.com/track/6sfjzrnMTvBgogpYy1mHow) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [I've Got Good News \(Live\)](https://open.spotify.com/album/3gK8jirdtfOYhoakLeESWd) | 6:24 |
 | 56 | [GREAT IS YOUR FAITHFULNESS](https://open.spotify.com/track/45V70jBntSAcbk24Uga5mJ) | [TEMITOPE](https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25) | [GREAT IS YOUR FAITHFULNESS](https://open.spotify.com/album/5g9BTtL5emqVUXlzhWrjGM) | 4:11 |
-| 57 | [To Be Known](https://open.spotify.com/track/4tTzvoeIC5Xts0FeFKgmCB) | [Tekoa](https://open.spotify.com/artist/7Fqu2gBrthnYE53IGOltaI), [Rory Mckenna](https://open.spotify.com/artist/3nfMxP6LLKjO9D6BfSmg2c), [Shady Gendy](https://open.spotify.com/artist/7theWETX3Dtvm23jQVDtHp) | [To Be Known](https://open.spotify.com/album/3p36MULLWPQRmTzAsZtAd6) | 4:19 |
+| 57 | [To Be Known](https://open.spotify.com/track/7yLM6nhfm42Z3OGQThZ2N1) | [Tekoa](https://open.spotify.com/artist/7Fqu2gBrthnYE53IGOltaI), [Rory Mckenna](https://open.spotify.com/artist/3nfMxP6LLKjO9D6BfSmg2c), [Shady Gendy](https://open.spotify.com/artist/7theWETX3Dtvm23jQVDtHp) | [Hymns + Disparity](https://open.spotify.com/album/2HWxsVil1BGXvWhSZ55M8f) | 4:19 |
 | 58 | [There Is More \(Patmos\) \- Live](https://open.spotify.com/track/1vcABnQFyo1egkdCFeJPlC) | [Black Voices Movement](https://open.spotify.com/artist/4odU1y3H8hnH66mR4lhT3Y), [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D), [Jonathan Stamper](https://open.spotify.com/artist/0ONgXApuMkymQG94eMeDSA), [Aisha Skye](https://open.spotify.com/artist/07zXa7Fa0rJnf8OKHoKskz) | [The King Is Calling \(Live\)](https://open.spotify.com/album/4X32ypJuS9uJhv0X9LyiUH) | 10:32 |
 | 59 | [New Streams \- Live](https://open.spotify.com/track/71tEQRNKvQrRz4TaLM9DLP) | [Grace City](https://open.spotify.com/artist/0nthudnBUjSpYoUnNawp6J), [Chase Wagner](https://open.spotify.com/artist/05pJ61Jqg42zcdFsCMdUDi) | [Midnight \(Live\)](https://open.spotify.com/album/41OU2wb1V5wATL74Qbd5vs) | 7:14 |
 | 60 | [Bigger Than Impossible \- Live](https://open.spotify.com/track/5kc5L0PpCJRbEoPUves8F1) | [Bryan McCleery](https://open.spotify.com/artist/3rObLZdf0Oo2pr06KSZlD1) | [Bigger Than Impossible \(Live\)](https://open.spotify.com/album/507PuVlEp6f9nbGBXuEjwc) | 5:22 |
@@ -133,4 +133,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrxKdrXE2Vk.md) - [plain]
 | 123 | [Highest Hallelujah](https://open.spotify.com/track/2Hw7sdkm2TUTIxPFeSUy6L) | [Modern Day Cure](https://open.spotify.com/artist/2Y7qvpOpTRUYs7NSi0kw7s) | [Highest Hallelujah](https://open.spotify.com/album/25BOqHoxTTibHK5BDqwERr) | 4:37 |
 | 124 | [Jesus You Alone \- Live](https://open.spotify.com/track/3j2Kq2L2oTa5qmrtYnpbeX) | [The Well Music](https://open.spotify.com/artist/5hsV0doq7qtCnN3GxAtRjR) | [Jesus You Alone \(Live\)](https://open.spotify.com/album/7aAvbIts1nYFkRhPkN5jHG) | 5:24 |
 
-Snapshot ID: `MTY2MzQ1NjA3NiwwMDAwMDAwMDExN2ExOTIxODA1NzYyMmZlMjMzNDFjZDJhYmUwNDM5`
+Snapshot ID: `MTY2MzQ1NjA3NiwwMDAwMDAwMGYwMzU4Y2ExYTkxY2JjNTAyMDI4YTU1YzI0NWQ2ZDgw`

@@ -1,29 +1,13 @@
 {
   "description": "Hot noise for summer days.",
-  "num_followers": 27702,
+  "num_followers": 27708,
   "original_name": "Summer Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjkyOTIyNCwwMDAwMDAwMDdiMWRmY2Q4OTU0NDFjOTVkOTMyMzI5MDk0NjA1M2Q5",
+  "snapshot_id": "MTY1NjkyOTIyNCwwMDAwMDAwMDViNzE0M2I5YTI5OWZjMzUyYmE4YzY4YzhhYTMyMTg4",
   "tracks": [
-    {
-      "added_at": "2022-04-01 17:23:34",
-      "album": {
-        "name": "SOUR",
-        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 178146,
-      "name": "good 4 u",
-      "url": "https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG"
-    },
     {
       "added_at": "2022-04-01 17:23:34",
       "album": {
@@ -89,22 +73,6 @@
       "url": "https://open.spotify.com/track/4fPBB44eDH71YohayI4eKV"
     },
     {
-      "added_at": "2022-07-04 10:07:04",
-      "album": {
-        "name": "Seventeen Going Under (Deluxe)",
-        "url": "https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        }
-      ],
-      "duration_ms": 189360,
-      "name": "Getting Started",
-      "url": "https://open.spotify.com/track/4jzK6Ey84SAexMK5C2JWKx"
-    },
-    {
       "added_at": "2022-04-01 17:23:34",
       "album": {
         "name": "t r a n s p a r e n t s o u l feat. Travis Barker",
@@ -123,6 +91,22 @@
       "duration_ms": 168030,
       "name": "t r a n s p a r e n t s o u l feat. Travis Barker",
       "url": "https://open.spotify.com/track/1QL7nSDZCwZMnbisV4KOXt"
+    },
+    {
+      "added_at": "2022-07-04 10:07:04",
+      "album": {
+        "name": "Seventeen Going Under (Deluxe)",
+        "url": "https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 189360,
+      "name": "Getting Started",
+      "url": "https://open.spotify.com/track/4jzK6Ey84SAexMK5C2JWKx"
     },
     {
       "added_at": "2022-04-01 17:23:34",
@@ -287,6 +271,22 @@
     {
       "added_at": "2022-04-01 17:23:34",
       "album": {
+        "name": "weird!",
+        "url": "https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 167365,
+      "name": "cotton candy",
+      "url": "https://open.spotify.com/track/5lVZiDONIcGowIOetTZ4ps"
+    },
+    {
+      "added_at": "2022-04-01 17:23:34",
+      "album": {
         "name": "Come Around Sundown (Expanded Edition)",
         "url": "https://open.spotify.com/album/5xFZ4iElFbUFtOGX4lvdTM"
       },
@@ -351,22 +351,6 @@
       "duration_ms": 159636,
       "name": "Crash and Burn",
       "url": "https://open.spotify.com/track/4wFK5ESRSBrmVDjOkOSa7g"
-    },
-    {
-      "added_at": "2022-04-01 17:23:34",
-      "album": {
-        "name": "weird!",
-        "url": "https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 167365,
-      "name": "cotton candy",
-      "url": "https://open.spotify.com/track/5lVZiDONIcGowIOetTZ4ps"
     },
     {
       "added_at": "2022-04-01 17:23:34",
@@ -451,22 +435,6 @@
     {
       "added_at": "2022-04-01 17:23:34",
       "album": {
-        "name": "Everything's Electric",
-        "url": "https://open.spotify.com/album/2Dqayfhl6Eow6nsHBXTXM3"
-      },
-      "artists": [
-        {
-          "name": "Liam Gallagher",
-          "url": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
-        }
-      ],
-      "duration_ms": 216859,
-      "name": "Everything's Electric",
-      "url": "https://open.spotify.com/track/63JU4kHsgytIKkSM4tedme"
-    },
-    {
-      "added_at": "2022-04-01 17:23:34",
-      "album": {
         "name": "\"Let's Rock\"",
         "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
       },
@@ -479,6 +447,22 @@
       "duration_ms": 196776,
       "name": "Shine A Little Light",
       "url": "https://open.spotify.com/track/365TSrFPqM66giaxJuafR3"
+    },
+    {
+      "added_at": "2022-04-01 17:23:34",
+      "album": {
+        "name": "Bad Decisions",
+        "url": "https://open.spotify.com/album/5V3bFQnpSALvyDEyHsCHat"
+      },
+      "artists": [
+        {
+          "name": "RedHook",
+          "url": "https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Bad Decisions",
+      "url": "https://open.spotify.com/track/2uJvuMZVAfnWa3lTTxJW9q"
     },
     {
       "added_at": "2022-04-01 17:23:34",
@@ -499,18 +483,18 @@
     {
       "added_at": "2022-04-01 17:23:34",
       "album": {
-        "name": "Bad Decisions",
-        "url": "https://open.spotify.com/album/5V3bFQnpSALvyDEyHsCHat"
+        "name": "Everything's Electric",
+        "url": "https://open.spotify.com/album/2Dqayfhl6Eow6nsHBXTXM3"
       },
       "artists": [
         {
-          "name": "RedHook",
-          "url": "https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI"
+          "name": "Liam Gallagher",
+          "url": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
         }
       ],
-      "duration_ms": 152000,
-      "name": "Bad Decisions",
-      "url": "https://open.spotify.com/track/2uJvuMZVAfnWa3lTTxJW9q"
+      "duration_ms": 216859,
+      "name": "Everything's Electric",
+      "url": "https://open.spotify.com/track/63JU4kHsgytIKkSM4tedme"
     },
     {
       "added_at": "2022-04-01 17:23:34",
@@ -807,22 +791,6 @@
     {
       "added_at": "2022-04-01 17:23:34",
       "album": {
-        "name": "Hidden Gems",
-        "url": "https://open.spotify.com/album/6uI7YirquMLS8hkRFgJ16B"
-      },
-      "artists": [
-        {
-          "name": "The Blue Stones",
-          "url": "https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC"
-        }
-      ],
-      "duration_ms": 217786,
-      "name": "Let It Ride",
-      "url": "https://open.spotify.com/track/6ybAXYfBjpsJL1ARBhtmO3"
-    },
-    {
-      "added_at": "2022-04-01 17:23:34",
-      "album": {
         "name": "Is Everybody Going Crazy?",
         "url": "https://open.spotify.com/album/5J2B0xzIbsFSqwLTLrlRe1"
       },
@@ -879,6 +847,22 @@
     {
       "added_at": "2022-04-01 17:23:34",
       "album": {
+        "name": "Hidden Gems",
+        "url": "https://open.spotify.com/album/6uI7YirquMLS8hkRFgJ16B"
+      },
+      "artists": [
+        {
+          "name": "The Blue Stones",
+          "url": "https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC"
+        }
+      ],
+      "duration_ms": 217786,
+      "name": "Let It Ride",
+      "url": "https://open.spotify.com/track/6ybAXYfBjpsJL1ARBhtmO3"
+    },
+    {
+      "added_at": "2022-04-01 17:23:34",
+      "album": {
         "name": "weapon",
         "url": "https://open.spotify.com/album/3MBuWCEWssM1Yc7JmvuYB7"
       },
@@ -911,6 +895,22 @@
     {
       "added_at": "2022-04-01 17:23:34",
       "album": {
+        "name": "A Celebration Of Endings",
+        "url": "https://open.spotify.com/album/5yAXUpsKaby5IcXgzrNFAw"
+      },
+      "artists": [
+        {
+          "name": "Biffy Clyro",
+          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+        }
+      ],
+      "duration_ms": 195853,
+      "name": "Tiny Indoor Fireworks",
+      "url": "https://open.spotify.com/track/1ZUsnvMUqF0uJkhhjZlvcY"
+    },
+    {
+      "added_at": "2022-04-01 17:23:34",
+      "album": {
         "name": "Blue Weekend",
         "url": "https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0"
       },
@@ -939,22 +939,6 @@
       "duration_ms": 181216,
       "name": "Summer Is a Curse",
       "url": "https://open.spotify.com/track/0cSNN4fgW1RFDQV58eVRKK"
-    },
-    {
-      "added_at": "2022-04-01 17:23:34",
-      "album": {
-        "name": "A Celebration Of Endings",
-        "url": "https://open.spotify.com/album/5yAXUpsKaby5IcXgzrNFAw"
-      },
-      "artists": [
-        {
-          "name": "Biffy Clyro",
-          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
-        }
-      ],
-      "duration_ms": 195853,
-      "name": "Tiny Indoor Fireworks",
-      "url": "https://open.spotify.com/track/1ZUsnvMUqF0uJkhhjZlvcY"
     },
     {
       "added_at": "2022-04-01 17:23:34",
@@ -1007,6 +991,22 @@
       "duration_ms": 164485,
       "name": "My Town (feat. Joe Talbot)",
       "url": "https://open.spotify.com/track/2gxYf0Tdnn65M6HKzFU1ye"
+    },
+    {
+      "added_at": "2022-04-01 17:23:34",
+      "album": {
+        "name": "Hits Rentr\u00e9e 2021",
+        "url": "https://open.spotify.com/album/58HtgHgFGdffOpr8lx9QVU"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 178147,
+      "name": "good 4 u",
+      "url": "https://open.spotify.com/track/3QVeeC9M980WM0eLKkyQp6"
     },
     {
       "added_at": "2022-04-01 17:23:34",
@@ -1073,6 +1073,22 @@
       "url": "https://open.spotify.com/track/1I0i3wWt1sCZ4PT0TfnyZm"
     },
     {
+      "added_at": "2022-06-17 12:12:36",
+      "album": {
+        "name": "American Bollywood: Acts I & II",
+        "url": "https://open.spotify.com/album/19DppuPPGsQ5fBy0gT5aaz"
+      },
+      "artists": [
+        {
+          "name": "Young the Giant",
+          "url": "https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT"
+        }
+      ],
+      "duration_ms": 216547,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/2VSTOiCySVABw6AzuIDK2F"
+    },
+    {
       "added_at": "2022-04-01 17:23:34",
       "album": {
         "name": "Don't Wait 'Til Tomorrow",
@@ -1137,20 +1153,20 @@
       "url": "https://open.spotify.com/track/00JfiKSB2Ne3dWu6EGcec9"
     },
     {
-      "added_at": "2022-06-17 12:12:36",
+      "added_at": "2022-04-01 17:23:34",
       "album": {
-        "name": "American Bollywood: Acts I & II",
-        "url": "https://open.spotify.com/album/19DppuPPGsQ5fBy0gT5aaz"
+        "name": "The Knife",
+        "url": "https://open.spotify.com/album/5jfO0OhKV66c4OoPqhtI2l"
       },
       "artists": [
         {
-          "name": "Young the Giant",
-          "url": "https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT"
+          "name": "Goldfinger",
+          "url": "https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM"
         }
       ],
-      "duration_ms": 216547,
-      "name": "Wake Up",
-      "url": "https://open.spotify.com/track/2VSTOiCySVABw6AzuIDK2F"
+      "duration_ms": 177924,
+      "name": "Put The Knife Away",
+      "url": "https://open.spotify.com/track/1Wc4oMYsjCqMSDQST8oXEr"
     },
     {
       "added_at": "2022-06-17 12:12:36",
@@ -1183,22 +1199,6 @@
       "duration_ms": 147561,
       "name": "Four Letter Words",
       "url": "https://open.spotify.com/track/0F7plvzEr2eu5aHZwW3uE7"
-    },
-    {
-      "added_at": "2022-04-01 17:23:34",
-      "album": {
-        "name": "The Knife",
-        "url": "https://open.spotify.com/album/5jfO0OhKV66c4OoPqhtI2l"
-      },
-      "artists": [
-        {
-          "name": "Goldfinger",
-          "url": "https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM"
-        }
-      ],
-      "duration_ms": 177924,
-      "name": "Put The Knife Away",
-      "url": "https://open.spotify.com/track/1Wc4oMYsjCqMSDQST8oXEr"
     },
     {
       "added_at": "2022-04-01 17:23:34",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2022-04-01 17:23:34",
       "album": {
-        "name": "Seize the Power",
-        "url": "https://open.spotify.com/album/2QgPGKzoN51qcEzGlHYk7j"
-      },
-      "artists": [
-        {
-          "name": "YONAKA",
-          "url": "https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu"
-        }
-      ],
-      "duration_ms": 190261,
-      "name": "Raise Your Glass",
-      "url": "https://open.spotify.com/track/4aageOBWTUR5qwIhq7cvfB"
-    },
-    {
-      "added_at": "2022-04-01 17:23:34",
-      "album": {
         "name": "SUCKAPUNCH",
         "url": "https://open.spotify.com/album/1QjSCSvRARExE1aFFycrPz"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 299880,
       "name": "SUCKAPUNCH",
       "url": "https://open.spotify.com/track/25bt6pyBdIQ6d8bJ6B2Dxd"
+    },
+    {
+      "added_at": "2022-04-01 17:23:34",
+      "album": {
+        "name": "Seize the Power",
+        "url": "https://open.spotify.com/album/2QgPGKzoN51qcEzGlHYk7j"
+      },
+      "artists": [
+        {
+          "name": "YONAKA",
+          "url": "https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu"
+        }
+      ],
+      "duration_ms": 190261,
+      "name": "Raise Your Glass",
+      "url": "https://open.spotify.com/track/4aageOBWTUR5qwIhq7cvfB"
     },
     {
       "added_at": "2022-04-01 17:23:34",
@@ -1315,18 +1315,18 @@
     {
       "added_at": "2022-04-01 17:23:34",
       "album": {
-        "name": "She Came Down From The Stars",
-        "url": "https://open.spotify.com/album/3hQeldMOyAY7ojZCk27n9x"
+        "name": "You Stupid Bitch",
+        "url": "https://open.spotify.com/album/4M2sFHiDlAXasGDTWq6iHA"
       },
       "artists": [
         {
-          "name": "Nathan Day",
-          "url": "https://open.spotify.com/artist/3kEC0PwfYf8pGHiKFQk8OX"
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
         }
       ],
-      "duration_ms": 216774,
-      "name": "She Came Down From The Stars",
-      "url": "https://open.spotify.com/track/7hx6Llz6nbZSMu1Bby1caB"
+      "duration_ms": 195951,
+      "name": "You Stupid Bitch",
+      "url": "https://open.spotify.com/track/4vFKotukXxQXsjYo8udf37"
     }
   ],
   "unique_name": "Summer Rock",

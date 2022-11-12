@@ -4,7 +4,7 @@
 
 > Porter Robinson takes over the Guest List, featuring artists on this year's Second Sky lineup! Second Sky takes place October 29th, 2022 and tickets are available <a href="https://secondskyfest.com/">here</a>.
 
-98 songs - 5 hr 51 min - [published](https://open.spotify.com/playlist/29grajXOQfVKrBASB6PcZ3)
+99 songs - 5 hr 54 min - [published](https://open.spotify.com/playlist/29grajXOQfVKrBASB6PcZ3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,8 @@
 | [Furnace Loop](https://open.spotify.com/track/2Afn9DVEGZdNToKzo1HD4I) | [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [Airborne Lard](https://open.spotify.com/album/3d8kb3eoguY0W0rL1Fh9Dy) | 2:51 | 2022-10-18 |  |
 | [Get Your Wish](https://open.spotify.com/track/6aUfT9QOcTHhxLNrf1aVR8) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Nurture](https://open.spotify.com/album/4Hjqdhj5rh816i1dfcUEaM) | 3:38 | 2022-10-18 |  |
 | [Ghost Voices](https://open.spotify.com/track/7ipGvvE90ROUNFw7ZBXBTO) | [Virtual Self](https://open.spotify.com/artist/0F52YLV7uWqaJfMMDgG737) | [Virtual Self](https://open.spotify.com/album/7I3PH61aLVNVj4EVvU16WG) | 4:26 | 2022-10-18 |  |
-| [God](https://open.spotify.com/track/2lW7HEUtOcNQZxDv71Cq05) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1), [Mechatok](https://open.spotify.com/artist/4poYOxVqlpDTelhhiJcSrW) | [Good Luck](https://open.spotify.com/album/7cTvVOSXLgMm0RtT7uXWGY) | 2:25 | 2022-10-18 |  |
+| [God](https://open.spotify.com/track/2lW7HEUtOcNQZxDv71Cq05) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1), [Mechatok](https://open.spotify.com/artist/4poYOxVqlpDTelhhiJcSrW) | [Good Luck](https://open.spotify.com/album/7cTvVOSXLgMm0RtT7uXWGY) | 2:25 | 2022-10-18 | 2022-11-12 |
+| [God](https://open.spotify.com/track/5bu9xqqqsLxuAf8b6vMsSZ) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1), [Mechatok](https://open.spotify.com/artist/4poYOxVqlpDTelhhiJcSrW) | [Good Luck \(Deluxe\)](https://open.spotify.com/album/7cGYfKvqoDtQYypCmrv7ZM) | 2:25 | 2022-10-21 |  |
 | [Got Em](https://open.spotify.com/track/7CJ7daBPHsCMdrivYPlZ3F) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Got Em](https://open.spotify.com/album/1wgHAs407GxQtqR3lj4NSf) | 3:46 | 2021-03-16 | 2022-10-19 |
 | [HAHAH](https://open.spotify.com/track/4esa3tKLyvysJpj70fUCyK) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Spiderr](https://open.spotify.com/album/59VjMEiXIOpzLAMAHrLlfj) | 2:16 | 2022-10-18 |  |
 | [Higher Ground](https://open.spotify.com/track/0Js9hB2I66nJliPIJxzn2R) | [TNGHT](https://open.spotify.com/artist/40jiZfvsiAi1aIarh5Z3d3), [Lunice](https://open.spotify.com/artist/5I0593TTVPzkanWW8xsTns), [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [TNGHT](https://open.spotify.com/album/4e0s9NinQo02X4exDDmW65) | 3:19 | 2022-10-18 |  |

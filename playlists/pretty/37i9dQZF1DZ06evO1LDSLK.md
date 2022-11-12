@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1LDSLK.md) - [plain]
 
 > This is Iggy Pop\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,939 likes - 51 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,984 likes - 51 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1LDSLK.md) - [plain]
 | 20 | [He's Frank \- Slight Return](https://open.spotify.com/track/7kbOroxknznMU4k7MaWnZ4) | [The BPA](https://open.spotify.com/artist/1YJaPNfbWVIItItFlBrEK2), [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [He's Frank \(Slight Return\)](https://open.spotify.com/album/3cohHyy8SX0mbSi8cerA5F) | 3:17 |
 | 21 | [Sahara](https://open.spotify.com/track/0CDVMkVWF85UFILUYItRX5) | [Songhoy Blues](https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Résistance](https://open.spotify.com/album/05OQHOuoCVgx0h8MA6tT9C) | 3:03 |
 | 22 | [Rules of the Game](https://open.spotify.com/track/12VVjfk4RaMj1gBcS3QsLh) | [Warmduscher](https://open.spotify.com/artist/1CWwXncu9sk7EIdbvqcquR), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Tainted Lunch](https://open.spotify.com/album/0awOXgqBtA1bUu44W08g6q) | 1:09 |
-| 23 | [Cry For Love](https://open.spotify.com/track/7Fb9KsEzGFKqRABQJMr2ot) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Blah\-Blah\-Blah](https://open.spotify.com/album/4j1zp01LTkV9kNWAuKU45c) | 4:28 |
+| 23 | [King Of The Dogs](https://open.spotify.com/track/1QFEq5VoRobiMhe47yKWOM) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Preliminaires](https://open.spotify.com/album/1CXwGPRwAbg5OOMhTB5xs9) | 2:01 |
 | 24 | [Gardenia](https://open.spotify.com/track/72t2ISFNIeG6oy3SE49u2N) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Post Pop Depression](https://open.spotify.com/album/5jRBK15ic9i5C8ucN5LTx1) | 4:14 |
-| 25 | [King Of The Dogs](https://open.spotify.com/track/1QFEq5VoRobiMhe47yKWOM) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Preliminaires](https://open.spotify.com/album/1CXwGPRwAbg5OOMhTB5xs9) | 2:01 |
+| 25 | [Cry For Love](https://open.spotify.com/track/7Fb9KsEzGFKqRABQJMr2ot) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Blah\-Blah\-Blah](https://open.spotify.com/album/4j1zp01LTkV9kNWAuKU45c) | 4:28 |
 | 26 | [Tonight](https://open.spotify.com/track/5VOJ3OFUebaLuNqzJSNeEn) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Lust For Life](https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz) | 3:39 |
 | 27 | [Gold \- From The Original Motion Picture Soundtrack "Gold"](https://open.spotify.com/track/04AJSn0D3BHwT8FQ9q5FVp) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Gold \(From The Original Motion Picture Soundtrack "Gold"\)](https://open.spotify.com/album/3Enwyua0EjFqREWX2s2zpE) | 3:12 |
 | 28 | [The Dictator](https://open.spotify.com/track/4oTpPvKIgu1erI6yCxfnhh) | [Catherine Graindorge](https://open.spotify.com/artist/5iqpZ9ybJy7ERVcWwBIPXQ), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [The Dictator](https://open.spotify.com/album/6uUjKtXEyeTAB49DKY8fuX) | 4:45 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1LDSLK.md) - [plain]
 | 36 | [James Bond](https://open.spotify.com/track/4MtGjAHHh3pSvJPaDltuhm) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Free](https://open.spotify.com/album/7BLKzTgaj5fHkNpSPGwjwh) | 4:31 |
 | 37 | [The Pure and the Damned](https://open.spotify.com/track/4x79863wyp2dhJOiZYKPZN) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Good Time Original Motion Picture Soundtrack](https://open.spotify.com/album/4VlxoACFXldjZzS0gERQ65) | 4:29 |
 | 38 | [China Girl](https://open.spotify.com/track/5nB8x0jxofKalTtaQLpGZL) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [The Idiot](https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6) | 5:08 |
-| 39 | [We're All Gonna Die](https://open.spotify.com/track/5u05sMNrgLU4VWt8eaeocd) | [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Slash](https://open.spotify.com/album/7c2iOQrUD7KZznr4EMqPN3) | 4:31 |
-| 40 | [Post Punk \(feat\. Iggy Pop\)](https://open.spotify.com/track/1LfZVlZg1JMxOS1W1fmWOK) | [The Crystal Method](https://open.spotify.com/artist/5eKLa1xyHLq8ERWmT1CRHj), [Hyper](https://open.spotify.com/artist/6DFJfhZxwWe1yKQvRDJmdl), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Post Punk \(feat\. Iggy Pop\)](https://open.spotify.com/album/6sl0F7alKr5VWHTpdSRXZS) | 4:35 |
+| 39 | [Post Punk \(feat\. Iggy Pop\)](https://open.spotify.com/track/1LfZVlZg1JMxOS1W1fmWOK) | [The Crystal Method](https://open.spotify.com/artist/5eKLa1xyHLq8ERWmT1CRHj), [Hyper](https://open.spotify.com/artist/6DFJfhZxwWe1yKQvRDJmdl), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Post Punk \(feat\. Iggy Pop\)](https://open.spotify.com/album/6sl0F7alKr5VWHTpdSRXZS) | 4:35 |
+| 40 | [We're All Gonna Die](https://open.spotify.com/track/5u05sMNrgLU4VWt8eaeocd) | [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Slash](https://open.spotify.com/album/7c2iOQrUD7KZznr4EMqPN3) | 4:31 |
 | 41 | [Louie Louie](https://open.spotify.com/track/15e3sz0HdP1TXxSdZV7bQc) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [American Caesar](https://open.spotify.com/album/3f3HzLIKkqOGDAL0Iy0woi) | 3:48 |
 | 42 | [Sunday](https://open.spotify.com/track/2jRQcQFH7XLPsIFZsSuHkB) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Post Pop Depression](https://open.spotify.com/album/5jRBK15ic9i5C8ucN5LTx1) | 6:06 |
 | 43 | [Funtime](https://open.spotify.com/track/3tFQ4Zz3FKz3s6sCdY1mQg) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [The Idiot](https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6) | 2:54 |
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1LDSLK.md) - [plain]
 | 47 | [The Endless Sea](https://open.spotify.com/track/38lgHi3Mggg8cIvlCSsxQm) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [New Values](https://open.spotify.com/album/5MMqSMFphOrGIXmlYN9Whc) | 4:51 |
 | 48 | [Dirty Love \(feat\. Iggy Pop\)](https://open.spotify.com/track/5qhRMJY1TQwljFlC6aW8OJ) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Warrior \(Expanded Edition\)](https://open.spotify.com/album/5ZQB1ZQ2Yx9YT3nZlR2Pgu) | 2:44 |
 | 49 | [Dum Dum Boys](https://open.spotify.com/track/4D2oxcrgtaRlzpGwUVSKkA) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [The Idiot](https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6) | 7:13 |
-| 50 | [Free](https://open.spotify.com/track/4QHHnMIBZlwgWhPy1dind0) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Free](https://open.spotify.com/album/7BLKzTgaj5fHkNpSPGwjwh) | 1:48 |
-| 51 | [Get Your Shirt](https://open.spotify.com/track/7mhsxGnDd4Hjz7g5luuCd8) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Get Your Shirt](https://open.spotify.com/album/3rDxl1B5omPun9ehMgNpgo) | 7:30 |
+| 50 | [Get Your Shirt](https://open.spotify.com/track/7mhsxGnDd4Hjz7g5luuCd8) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Get Your Shirt](https://open.spotify.com/album/3rDxl1B5omPun9ehMgNpgo) | 7:30 |
+| 51 | [Free](https://open.spotify.com/track/4QHHnMIBZlwgWhPy1dind0) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Free](https://open.spotify.com/album/7BLKzTgaj5fHkNpSPGwjwh) | 1:48 |
 
-Snapshot ID: `Mjc4MDE1OTIsMDAwMDAwMDBiYWZhNjE2MDE5NTFjNDc4YjgyODgxMmNhNmUxNGMyYQ==`
+Snapshot ID: `Mjc4MDI5OTksMDAwMDAwMDBhODMyZDgwOTBmNWRkOTFmYmZmMDg0M2RhMDJlZjYyNg==`

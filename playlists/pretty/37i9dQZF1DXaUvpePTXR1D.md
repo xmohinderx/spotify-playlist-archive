@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUvpePTXR1D.md) - [plain]
 
 > Sway your way through the evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,741 likes - 140 songs - 8 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,838 likes - 140 songs - 8 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUvpePTXR1D.md) - [plain]
 | 44 | [august](https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:21 |
 | 45 | [The Wire \- Alternate Version](https://open.spotify.com/track/0ZwGSa87JHR86PJa3Fzgru) | [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3) | [The Wire \(Alternate Version\)](https://open.spotify.com/album/1Qfqbbbx5FqvbqJkSO3DkY) | 3:41 |
 | 46 | [Dakota](https://open.spotify.com/track/2LOEgB0Jk9suqAP5dDS4bp) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Dakota](https://open.spotify.com/album/4dl5Lo8s7uDNRAqqtW2wna) | 4:54 |
-| 47 | [Highland Grace](https://open.spotify.com/track/6ZXynR4qCoRGMKScUlcRTQ) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Heart Like a Levee](https://open.spotify.com/album/6LX8I9Fawu1RqXHgFbcgBo) | 5:58 |
+| 47 | [Highland Grace](https://open.spotify.com/track/2nPyMqpHLlGk1FAk9L9DAr) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Heart Like a Levee \(Deluxe Version\)](https://open.spotify.com/album/0tMUxLJFnT7IowETbBu8QW) | 5:58 |
 | 48 | [Can't Help Falling in Love](https://open.spotify.com/track/6yIHGmQLJxWAUZ1ZkENemN) | [Haley Reinhart](https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q) | [Better](https://open.spotify.com/album/2jg7PvepCK9V7MyWM7pvzr) | 2:53 |
 | 49 | [Lonely Together](https://open.spotify.com/track/53I947ZA36ggSE3DfnzEY7) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Supernova](https://open.spotify.com/album/2m9qpnKqmy3c8FbwApTSvb) | 4:09 |
 | 50 | [Liquid Love](https://open.spotify.com/track/20f37PJbRwppnrX861JwDF) | [Jack Botts](https://open.spotify.com/artist/4VeyhwBUfsaWMkQ2Ld8QNl) | [Hold You Tapes](https://open.spotify.com/album/2l2ksIRybv0BveIAdmFaJQ) | 3:11 |
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUvpePTXR1D.md) - [plain]
 | 61 | [Little Things](https://open.spotify.com/track/3KCwFkguj7gE8PrJgj4Gmr) | [Charlie Brennan](https://open.spotify.com/artist/3YzXK1DQ9EkWqwmUkk6yc8), [Madelyn Paquette](https://open.spotify.com/artist/4yL7BcVGrznuqkWFmNM19M) | [Same Moon](https://open.spotify.com/album/06N0IM1bHE8FjOYgcYsveP) | 2:26 |
 | 62 | [Perfectly Imperfect \- Gospel Choir Version](https://open.spotify.com/track/31FMQkdIK5MuclQbVC6d0z) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Perfectly Imperfect](https://open.spotify.com/album/7c0YzmmaKBhcGpD5YROdQB) | 3:14 |
 | 63 | [Home Again](https://open.spotify.com/track/46EuzanXhKwIc7755wLAvS) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Home Again](https://open.spotify.com/album/79VDAdjzMMGoftIbw5feYN) | 3:32 |
-| 64 | [Honeymoon](https://open.spotify.com/track/3yYGzdBQRBpqhQ8TGehn9Z) | [The Shadowboxers](https://open.spotify.com/artist/3gq3IRuBKSmyBbGXwfagj4) | [The Slow March Of Time Flies By](https://open.spotify.com/album/6k3icCYd8Ee0eAyQytdCGg) | 3:55 |
+| 64 | [Honeymoon](https://open.spotify.com/track/21RViRYCfOt6JAaq50PJAf) | [The Shadowboxers](https://open.spotify.com/artist/3gq3IRuBKSmyBbGXwfagj4) | [Honeymoon](https://open.spotify.com/album/4MD1dBuQsHEy83qjQkVfUa) | 3:55 |
 | 65 | [with you/for you](https://open.spotify.com/track/7eTy1IzCaICfm6JYy1BV4u) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [cold/mess](https://open.spotify.com/album/6FzicG6wlKHogiRaGAbvBK) | 3:51 |
 | 66 | [In The Silence](https://open.spotify.com/track/3cYop2sOcoM1U2eCuZKiPI) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Raised Under Grey Skies \(Deluxe\)](https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo) | 3:19 |
 | 67 | [Same Moon](https://open.spotify.com/track/3SQv5J1AoBmxqTpSBosEVQ) | [Charlie Brennan](https://open.spotify.com/artist/3YzXK1DQ9EkWqwmUkk6yc8), [Emma Rae](https://open.spotify.com/artist/35KYGf7QlDWTYXuFjM1Gdb) | [Same Moon](https://open.spotify.com/album/06N0IM1bHE8FjOYgcYsveP) | 2:35 |
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUvpePTXR1D.md) - [plain]
 | 84 | [Morning Breeze](https://open.spotify.com/track/7iM7I3dbNQGC5xkxJMWwrv) | [Juke Ross](https://open.spotify.com/artist/3mDo5Nv0SWpslJe9HzA2xY) | [GREY](https://open.spotify.com/album/4XsAw2dh8SAGjCSrdTpWiI) | 3:14 |
 | 85 | [Honeybee](https://open.spotify.com/track/5CalS8Gn69OOrR9aiw0ZO9) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Living Mirage](https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT) | 3:16 |
 | 86 | [Texas Sun](https://open.spotify.com/track/24ntSW3QVJzR79lHAAOTaY) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Sun](https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz) | 4:12 |
-| 87 | [Last Request](https://open.spotify.com/track/6xM8oBy40nK1rOd8WmoOPx) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [These Streets](https://open.spotify.com/album/6L2FiSnFMisCgbhbag4KTl) | 3:40 |
+| 87 | [Last Request](https://open.spotify.com/track/1Up8NJUNkV3BdPu7t7GCdl) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Sounds of the 00s](https://open.spotify.com/album/0424i9pWwCOiaAATz4xSxM) | 3:40 |
 | 88 | [Turn Me On](https://open.spotify.com/track/1ujrk4yPeKyJ3OxNLht8um) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Sunrise Music 2020](https://open.spotify.com/album/3MRWqWJIMs9ySiM909xwpQ) | 2:34 |
 | 89 | [If You Ever Want To Be In Love](https://open.spotify.com/track/46BjrnHmtkSNSTVWngBOoz) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Let It Go](https://open.spotify.com/album/5jnPO2IuTJbZqdFXZgxgn1) | 3:58 |
 | 90 | [You Give Me Something](https://open.spotify.com/track/28euH5Ny1JXxZAt2KjWp62) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [Undiscovered](https://open.spotify.com/album/00QEcKEqSmwP8odEMImIuz) | 3:32 |
@@ -112,7 +112,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUvpePTXR1D.md) - [plain]
 | 102 | [Solar Flare](https://open.spotify.com/track/0hcHi1RoWCayxRSbq2f3CI) | [Sam MacPherson](https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh) | [Solar Flare](https://open.spotify.com/album/7qL5oIG6MPdd2NfgjOmQXp) | 3:22 |
 | 103 | [slow summer](https://open.spotify.com/track/4JEGeqPF0RH7oi1lHdtbK6) | [Zachary Knowles](https://open.spotify.com/artist/5BxcZnUcETSt90VlbsdugI) | [slow summer](https://open.spotify.com/album/5h57maDhvtnrVnJa7ihR7D) | 2:48 |
 | 104 | [Lay Down](https://open.spotify.com/track/3x8IsQzb1KhPPo6zNGzzL1) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [Son Little \(Deluxe Edition\)](https://open.spotify.com/album/2jGQieA1EggldcxFAiQHjJ) | 3:48 |
-| 105 | [Save Room](https://open.spotify.com/track/3sTc75CCyIw4FPs6cXkOe7) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Once Again](https://open.spotify.com/album/1ZWwFwSKaREGLWxpGiPAoF) | 3:55 |
+| 105 | [Save Room](https://open.spotify.com/track/5Y3525kHmyPBX4TWqPY4Mq) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [R&B Summer Mix](https://open.spotify.com/album/5vWkCTOFti5ycfczgo389O) | 3:55 |
 | 106 | [Grows Old](https://open.spotify.com/track/148qBp6yeeA2oq28xTZZ7e) | [Thirdstory](https://open.spotify.com/artist/7GJbWH8vhhuW22707B8HsW) | [Cold Heart](https://open.spotify.com/album/3UJW1p1qiGScFrGKLwBptB) | 3:56 |
 | 107 | [I'd Rather Go Blind](https://open.spotify.com/track/1kPBT8S2wJFNAyBMnGVZgL) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Tell Mama](https://open.spotify.com/album/4ReJ59T4YxC62WkfyVTWpr) | 2:36 |
 | 108 | [Michigan](https://open.spotify.com/track/4M8po6ZyjH7zL2dyDS3EhF) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Twin Solitude](https://open.spotify.com/album/64Yh7XkMmHan0qMmmYTcZj) | 4:47 |
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUvpePTXR1D.md) - [plain]
 | 139 | [These Arms of Mine](https://open.spotify.com/track/4skknrc3sJqaPTtUr2cwFq) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Pain in My Heart](https://open.spotify.com/album/2BFOk5b8jjm2xmsbx7qXq3) | 2:34 |
 | 140 | [Halfway Up](https://open.spotify.com/track/5HsJGA8P5fPzR06i9FQKBr) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [First Place](https://open.spotify.com/album/5SMIvs45B5BN5ES3qqiblH) | 3:55 |
 
-Snapshot ID: `MTY0Mjc0MTIwMCwwMDAwMDAwMDE1NDlmNThlNjRkODRjOTA2OTMzYzNmZTNjZmU5M2I0`
+Snapshot ID: `MTY0Mjc0MTIwMCwwMDAwMDAwMGQ2MTlkZmM1Y2U5YTlkOWI5ZDlhN2VlZDNlNjhlZjA1`

@@ -4,7 +4,7 @@
 
 > Una sensual selección de canciones para bailar en una sola baldosa.
 
-76 songs - 6 hr 15 min - [published](https://open.spotify.com/playlist/5e64oDpSbQovckjKQVo4HX)
+78 songs - 6 hr 24 min - [published](https://open.spotify.com/playlist/5e64oDpSbQovckjKQVo4HX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [Amiga](https://open.spotify.com/track/4WWHSJEw4nRPlxCZeLFhym) | [Rey Ruiz](https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ) | [Lo Esencial](https://open.spotify.com/album/5u3nfKd9yOHDwSQ3LIHGge) | 4:39 | 2021-04-30 |  |
 | [Amores Como el Nuestro](https://open.spotify.com/track/1RpCXjlxFGS6LfPOvqSJ7M) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Oro Salsero](https://open.spotify.com/album/0FQmLebvYxK7seqvm32JKA) | 5:01 | 2021-04-30 |  |
 | [Anhelo](https://open.spotify.com/track/4HIeIbJeQMUurTM57KVQU7) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [La Historia..\. Los Éxitos](https://open.spotify.com/album/2qGqJrcsR1oXU5vPQbCCU8) | 4:05 | 2021-04-30 | 2022-07-29 |
-| [Anhelo](https://open.spotify.com/track/68runhwF0SdEN1DFSadXWk) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [Reclamando Nuestro Espacio](https://open.spotify.com/album/22oTpQbBrBfkrqMsumH3OX) | 4:08 | 2022-07-28 |  |
+| [Anhelo](https://open.spotify.com/track/6mqEhKz4AmDjujwZrfnqwq) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [La Historia..\. Los Éxitos](https://open.spotify.com/album/5hVmKtEt52RcmAk6LYB2vJ) | 4:05 | 2022-07-28 |  |
+| [Anhelo](https://open.spotify.com/track/68runhwF0SdEN1DFSadXWk) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [Reclamando Nuestro Espacio](https://open.spotify.com/album/22oTpQbBrBfkrqMsumH3OX) | 4:08 | 2022-07-28 | 2022-11-12 |
 | [Aquél Viejo Motel](https://open.spotify.com/track/2v5vPy9KbAhsgaj2cvqRfW) | [David Pabon](https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE) | [Crossover Latino](https://open.spotify.com/album/4cxB7JVvs7ihM2ZHNexapR) | 5:08 | 2022-07-28 |  |
 | [Aquél Viejo Motel](https://open.spotify.com/track/286NP8kXWzx2uHb5tr7TGv) | [David Pabon](https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE) | [Oro Salsero](https://open.spotify.com/album/45jRKB7cqJYwk7vHyYgveo) | 5:08 | 2022-07-28 | 2022-11-11 |
 | [Aquél Viejo Motel](https://open.spotify.com/track/5sivdGNkYMLTvVy5ydYYI8) | [David Pabon](https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE) | [12 Favoritas](https://open.spotify.com/album/7FuvwGmwae2CuAmfmuYjeN) | 5:09 | 2021-04-30 | 2022-07-29 |
@@ -69,7 +70,8 @@
 | [Todo Empezo](https://open.spotify.com/track/1iXT0dyQZVQY9MimddXgeq) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Todo Empezo](https://open.spotify.com/album/1Xu3mmMBA9yvF8cpY5yhRO) | 4:54 | 2021-04-30 | 2022-07-29 |
 | [Todo Empezo](https://open.spotify.com/track/3cL9ePuG6NGlmUmXEbOfpG) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [De Verdad \(15 Super Exitos\)](https://open.spotify.com/album/7x4yJrZW7V1XdazGp7owXr) | 4:55 | 2022-07-28 | 2022-11-11 |
 | [Todo Empezó](https://open.spotify.com/track/4tmHskKOJgEIbPgIoPU1rD) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Octubre Salsero](https://open.spotify.com/album/1TrvYzeW0RkDRb3a2XuGnI) | 4:55 | 2022-07-28 |  |
-| [Tu Amigo o Tu Amante](https://open.spotify.com/track/2GgBL5RYZafPzqfHJjn4p6) | [La Sabrosura](https://open.spotify.com/artist/2W3ROz699xenrLLblfUq5i) | [The Best Of](https://open.spotify.com/album/6lkHxEey00QbomsLj9h0Q3) | 4:45 | 2022-07-28 |  |
+| [Tu Amigo o Tu Amante](https://open.spotify.com/track/2GgBL5RYZafPzqfHJjn4p6) | [La Sabrosura](https://open.spotify.com/artist/2W3ROz699xenrLLblfUq5i) | [The Best Of](https://open.spotify.com/album/6lkHxEey00QbomsLj9h0Q3) | 4:45 | 2022-07-28 | 2022-11-12 |
+| [Tu Amigo o Tu Amante](https://open.spotify.com/track/7qn83bgVfVBISsISKIdILC) | [La Sabrosura](https://open.spotify.com/artist/2W3ROz699xenrLLblfUq5i) | [Greatest Salsa Classics Of Colombia, Vol\. 2](https://open.spotify.com/album/3k5FHIHUumKgyMTteH4ckq) | 4:45 | 2022-07-28 |  |
 | [Tu Amigo o Tu Amante](https://open.spotify.com/track/3XCqINkynQfUcB75MrihyK) | [La Sabrosura Orquesta](https://open.spotify.com/artist/5mudirGeAjQgkS2AaIQVCb) | [La Sabrosura Salsa](https://open.spotify.com/album/3gclDdpd6tqWide104VRuz) | 4:44 | 2021-04-30 | 2022-07-29 |
 | [Tu Con El](https://open.spotify.com/track/6jCo1ni2ikRL8DWuegc92I) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Oro Salsero](https://open.spotify.com/album/3f7xnh39CMDvC6TVQf9oNU) | 5:03 | 2021-04-30 |  |
 | [Una Aventura](https://open.spotify.com/track/4F8IB14Sjvqb9qJUOxndRZ) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Siempre Una Aventura](https://open.spotify.com/album/2yAheDQ4qgtbVfHVOhKDNF) | 5:16 | 2021-04-30 |  |

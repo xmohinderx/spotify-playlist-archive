@@ -540,6 +540,24 @@
     },
     {
       "album": {
+        "name": "Queen 40 Limited Edition Collector's Box Set",
+        "url": "https://open.spotify.com/album/1Q9NOisnaTULM5CZD4rIgZ"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354320,
+      "name": "Bohemian Rhapsody - Remastered 2011",
+      "url": "https://open.spotify.com/track/2GAIycsMaDVtMtdvxzR2xI"
+    },
+    {
+      "album": {
         "name": "A Night At The Opera (Deluxe Remastered Version)",
         "url": "https://open.spotify.com/album/6X9k3hSsvQck2OfKYdBbXr"
       },
@@ -551,7 +569,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 354320,
       "name": "Bohemian Rhapsody - Remastered 2011",
       "url": "https://open.spotify.com/track/7tFiyTwD0nx5a1eklYtX2J"
@@ -605,7 +623,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 250762,
       "name": "Bye Bye",
       "url": "https://open.spotify.com/track/6xMEpjqkxXaxu8jC7HjdTe"
@@ -1221,7 +1239,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 203200,
       "name": "Desearia",
       "url": "https://open.spotify.com/track/0o7skuAa4pFEximHqk8anA"
@@ -1607,7 +1625,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 253920,
       "name": "Every Breath You Take",
       "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
@@ -4023,7 +4041,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 191530,
       "name": "Soy",
       "url": "https://open.spotify.com/track/2qlNflXsO7plqVz0vuC75H"

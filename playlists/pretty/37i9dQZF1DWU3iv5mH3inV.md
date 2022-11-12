@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3iv5mH3inV.md) - [plain]
 
 ### [República Dembow](https://open.spotify.com/playlist/37i9dQZF1DWU3iv5mH3inV)
 
-> Prendete con tu lista favorita de Dembow\. Foto: Aleesha
+> Prendete con tu lista favorita de Dembow\. Foto: El Alfa
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,848 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,988 likes - 75 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3iv5mH3inV.md) - [plain]
 | 66 | [Knock Out](https://open.spotify.com/track/6YRH8zh2KMbltmbSf4Qe1d) | [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [Shelow Shaq](https://open.spotify.com/artist/658X86qMyJpSRY87oPvExU), [La Manta](https://open.spotify.com/artist/3omyT5zHz9QmE63xEk10OV) | [Knock Out](https://open.spotify.com/album/3gnvNadSEuwYy86yDc7j7n) | 3:15 |
 | 67 | [El Que No Salta Es Paco \- Remix](https://open.spotify.com/track/5WXnRHsxuuTKVzEbLT1Lnn) | [El Futuro Fuera De Orbita](https://open.spotify.com/artist/7thOJx5gcuoJcEcaoHsPAk), [Carlitos Junior](https://open.spotify.com/artist/0fTQ3jEDT1eDQG3URLTwEo), [Kiddtetoon](https://open.spotify.com/artist/2zfwez4uxbP8NcFy3kaNLF), [Tracy McGrady](https://open.spotify.com/artist/1hIultpwJP5CAVoT4qeNGH) | [El Que No Salta Es Paco \(Remix\)](https://open.spotify.com/album/1JQPIPt2Ml2ALdzYUNMfLc) | 4:08 |
 | 68 | [Desacatate](https://open.spotify.com/track/4yoaxr2ToiYPaqR37ljvaW) | [La Materialista](https://open.spotify.com/artist/4FMqE1IWlhufYw1x2zlKG6), [Yomel El Meloso](https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul) | [Desacatate](https://open.spotify.com/album/6eKAwNaD9uO8Sfasl72ICV) | 2:41 |
-| 69 | [El Teke Teke](https://open.spotify.com/track/0EJMCMFG7uRPRn3K4pTb1v) | [Los Teke Teke](https://open.spotify.com/artist/2aFsWgI7uUdQlJtR1OF5wl) | [Y Ya Tu Sabe Klk](https://open.spotify.com/album/0Ky59Xxja0vkUT0WS0tZZf) | 3:02 |
-| 70 | [El Humo](https://open.spotify.com/track/3KTlbM0gwYUiDfCiwpNBXs) | [Atomic Otro Way](https://open.spotify.com/artist/05i5DIXDf4Ai4NEPEi3uBZ) | [Hip Hop Dominicano](https://open.spotify.com/album/1d7x3KPX9Icc4AqG5oZau7) | 3:19 |
-| 71 | [Caliente](https://open.spotify.com/track/7lhZb7Mc2QCXtetUjVljjl) | [El Tonto](https://open.spotify.com/artist/747fHzctsAyoa4k6CrtsQl) | [Caliente](https://open.spotify.com/album/294ruoBKloLVSccE7WMdbg) | 3:01 |
-| 72 | [Brum Brum](https://open.spotify.com/track/62utJ0vVOX6X7EFJ8XsmA1) | [Lirico En La Casa](https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo) | [Mr Brum Brum](https://open.spotify.com/album/1mQTVVmy6EUp67GjRD2h40) | 2:52 |
-| 73 | [Calle](https://open.spotify.com/track/0N5vXnr8cR1WeOAdabF95b) | [Braulio Fogon](https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9), [Imperio Record](https://open.spotify.com/artist/6MJD2elWfMQ0RvEncmitC3), [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [Calle](https://open.spotify.com/album/69UK8GlVtjwme70scA812r) | 2:32 |
-| 74 | [Cuando Bebo](https://open.spotify.com/track/7HEEmTfwfM56sSZd6glbZH) | [El Super Nuevo](https://open.spotify.com/artist/3hWKGRKwr78bhxvErSJBdu) | [Cuando Bebo](https://open.spotify.com/album/2qijMBUbzPBCwN0JjGr8Df) | 3:54 |
-| 75 | [Peine Caracol, Vol\. 2](https://open.spotify.com/track/5Gv6kUJV6yukwNfK8XikRp) | [El Futuro Fuera De Orbita](https://open.spotify.com/artist/7thOJx5gcuoJcEcaoHsPAk), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [Peine Caracol, Vol\. 2](https://open.spotify.com/album/0fCnAn6n7ioHrbQW2VGFRM) | 3:10 |
+| 69 | [El Humo](https://open.spotify.com/track/3KTlbM0gwYUiDfCiwpNBXs) | [Atomic Otro Way](https://open.spotify.com/artist/05i5DIXDf4Ai4NEPEi3uBZ) | [Hip Hop Dominicano](https://open.spotify.com/album/1d7x3KPX9Icc4AqG5oZau7) | 3:19 |
+| 70 | [Caliente](https://open.spotify.com/track/7lhZb7Mc2QCXtetUjVljjl) | [El Tonto](https://open.spotify.com/artist/747fHzctsAyoa4k6CrtsQl) | [Caliente](https://open.spotify.com/album/294ruoBKloLVSccE7WMdbg) | 3:01 |
+| 71 | [Brum Brum](https://open.spotify.com/track/62utJ0vVOX6X7EFJ8XsmA1) | [Lirico En La Casa](https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo) | [Mr Brum Brum](https://open.spotify.com/album/1mQTVVmy6EUp67GjRD2h40) | 2:52 |
+| 72 | [Calle](https://open.spotify.com/track/0N5vXnr8cR1WeOAdabF95b) | [Braulio Fogon](https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9), [Imperio Record](https://open.spotify.com/artist/6MJD2elWfMQ0RvEncmitC3), [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [Calle](https://open.spotify.com/album/69UK8GlVtjwme70scA812r) | 2:32 |
+| 73 | [Cuando Bebo](https://open.spotify.com/track/7HEEmTfwfM56sSZd6glbZH) | [El Super Nuevo](https://open.spotify.com/artist/3hWKGRKwr78bhxvErSJBdu) | [Cuando Bebo](https://open.spotify.com/album/2qijMBUbzPBCwN0JjGr8Df) | 3:54 |
+| 74 | [Peine Caracol, Vol\. 2](https://open.spotify.com/track/5Gv6kUJV6yukwNfK8XikRp) | [El Futuro Fuera De Orbita](https://open.spotify.com/artist/7thOJx5gcuoJcEcaoHsPAk), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [Peine Caracol, Vol\. 2](https://open.spotify.com/album/0fCnAn6n7ioHrbQW2VGFRM) | 3:10 |
+| 75 | [Tu Cojea \- Remix](https://open.spotify.com/track/7i5yhydTMHfFyU9UiEzDOX) | [Vakero](https://open.spotify.com/artist/5rlwbF5flU2JCmAzV5Obu0), [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U), [Quimico Ultra Mega](https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX), [El Fecho RD](https://open.spotify.com/artist/2qHuI4Avg4Dbowhu8whV9e), [Yomel El Meloso](https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul), [La Perversa](https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo) | [Tu Cojea \(Remix\)](https://open.spotify.com/album/0zm0Z4PQAioer5GHfdG1Wi) | 4:04 |
 
-Snapshot ID: `MTY2NTc3MTI0MCwwMDAwMDAwMDBmNWI4NGE2MWVmOTg0NjRhMjI4NzU0MjdhOTI3YTk1`
+Snapshot ID: `MTY2ODE0MjgwMCwwMDAwMDAwMGI2N2M5NTFjNjk5NzRkZjBjMDMwNGQ4ZWJhOGYwNDAx`

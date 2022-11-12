@@ -4,7 +4,7 @@
 
 > 最先端のK\-Popをピックアップ！// The freshest K\-Pop of today! cover: SEVENTEEN
 
-412 songs - 22 hr 43 min - [published](https://open.spotify.com/playlist/7M2UzkWe0rrHEXaOnPr3Xw)
+413 songs - 22 hr 46 min - [published](https://open.spotify.com/playlist/7M2UzkWe0rrHEXaOnPr3Xw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,6 +158,7 @@
 | [Guerrilla](https://open.spotify.com/track/0tYZo2UhV1lrUez5CA0Iyw) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.1 : MOVEMENT](https://open.spotify.com/album/3fgDrbflffzvV3H3plG9e6) | 3:27 | 2022-07-28 | 2022-10-26 |
 | [GUNS](https://open.spotify.com/track/6AGVVXBzy9h5nnroeAc0hN) | [RAVI](https://open.spotify.com/artist/42xj5mBLvrFdW6tYns6mxs) | [LOVE & FIGHT](https://open.spotify.com/album/4fVtbWVZ9WIyuOc6cXKH1V) | 2:15 | 2022-02-08 | 2022-03-09 |
 | [Hai Cheng](https://open.spotify.com/track/3kBfE92drjZEgYffx22zbl) | [THE 8](https://open.spotify.com/artist/4DqFd6XE3dX4LWXHJVVpLk) | [Hai Cheng](https://open.spotify.com/album/0pvUzcbKZAlIQYrbaVRLXb) | 3:52 | 2022-03-18 | 2022-05-27 |
+| [Hair Cut](https://open.spotify.com/track/4ZYSJfjSuR1XqcUPaTxjuG) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Overload](https://open.spotify.com/album/76XckkqatimbtN2NspL4N5) | 3:25 | 2022-11-10 |  |
 | [Happy Death Day](https://open.spotify.com/track/6IU2u7AKUffdmcbYPK9YR1) | [Xdinary Heroes](https://open.spotify.com/artist/5FgP85u2BR2WFWhMz959es) | [Happy Death Day](https://open.spotify.com/album/3sQhbas4eoH7l38Uy0ZJ3z) | 3:40 | 2021-12-23 | 2022-02-16 |
 | [Heart Burn](https://open.spotify.com/track/4JmbtS0Muijl37KP9lDscy) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Heart Burn](https://open.spotify.com/album/0ahb3lp7jXxKUx3beS7AVu) | 3:13 | 2022-06-28 | 2022-09-21 |
 | [Heartbreak](https://open.spotify.com/track/6WXPFH6mNO8rvVnKeD5DX7) | [MINHO](https://open.spotify.com/artist/08uRwDeNv1d7FSwlOUZdSn) | [Heartbreak](https://open.spotify.com/album/3fBvUvHlkT8bnQtJ8wD51Y) | 3:24 | 2021-12-23 | 2022-02-16 |

@@ -4,7 +4,7 @@
 
 > Lay back\. Chill out.
 
-103 songs - 7 hr 11 min - [published](https://open.spotify.com/playlist/2P37iN5jM6fBGSmKRtbrBn)
+104 songs - 7 hr 15 min - [published](https://open.spotify.com/playlist/2P37iN5jM6fBGSmKRtbrBn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,8 @@
 | [SULA \(Paperback\)](https://open.spotify.com/track/26kFP6TwarrLpmXO86PH5k) | [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [SULA](https://open.spotify.com/album/1u6YYtjNLMP87kjDH33V3K) | 4:15 | 2022-11-04 |  |
 | [Summer Madness](https://open.spotify.com/track/7fpiYh33Xph4OPj8gS8jL0) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Summer Madness](https://open.spotify.com/album/2g0Mwf7ujbQmtZzMAhiCkp) | 3:21 | 2022-08-12 |  |
 | [Sunshine](https://open.spotify.com/track/1el1feH98jWUrPpYmu5jN8) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Mother](https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR) | 4:22 | 2021-09-07 |  |
-| [Sweet Love](https://open.spotify.com/track/4xVXe1VS5zlQyECVk6GRrL) | [Anita Baker](https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG) | [Sweet Love](https://open.spotify.com/album/5ua8gCeWXrvivM9hfVCXhD) | 4:22 | 2022-07-28 |  |
+| [Sweet Love](https://open.spotify.com/track/4xVXe1VS5zlQyECVk6GRrL) | [Anita Baker](https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG) | [Sweet Love](https://open.spotify.com/album/5ua8gCeWXrvivM9hfVCXhD) | 4:22 | 2022-07-28 | 2022-11-12 |
+| [Sweet Love](https://open.spotify.com/track/5c05sy8pAvuU9nLXRPlLbr) | [Anita Baker](https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG) | [80's Hits](https://open.spotify.com/album/7gFGP7Vk45weSCeMpDbD2z) | 4:26 | 2022-11-04 |  |
 | [Sweet Love](https://open.spotify.com/track/6Ycf7Ch2VlEKlORbz7yfpJ) | [Anita Baker](https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG) | [Rapture](https://open.spotify.com/album/1C7VOpm96d77zf5yaRqJ2u) | 4:26 | 2022-06-24 | 2022-07-25 |
 | [Tell Me](https://open.spotify.com/track/2lp8xjq0WTm3HZKHuDEweg) | [Groove Theory](https://open.spotify.com/artist/7opRqRgF9lvnVraBFCMvIj) | [Groove Theory](https://open.spotify.com/album/0VVegiriO1eyyfOKrLmxtc) | 3:56 | 2021-08-18 |  |
 | [The Sweetest Taboo](https://open.spotify.com/track/0sKfhhj6hYyJIXnTiZV9vf) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Promise](https://open.spotify.com/album/4wCvCNsMJJvyeX5mGO40ae) | 4:37 | 2021-08-18 |  |

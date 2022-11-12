@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 
 > Rave and whine to the best of Soca with Nadia Batson.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,298 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,323 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,12 +41,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 | 31 | [Not One Thing](https://open.spotify.com/track/6CEkI2ymkuwDWxVFogaSHR) | [Patrice Roberts](https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt) | [4th Quarter Riddim](https://open.spotify.com/album/2PRKaJQDX7sCazgLQlpC2F) | 3:12 |
 | 32 | [Dingolay](https://open.spotify.com/track/4v3Av8xmWJyn0JLBX29h2k) | [Mical Teja](https://open.spotify.com/artist/3hAEV7AsItFtYdftNNxSMu), [Nailah Blackman](https://open.spotify.com/artist/1K23l3n63BTCtIMm0TyS4c) | [Dingolay](https://open.spotify.com/album/1iavPUafWYJWcstenET7ex) | 3:27 |
 | 33 | [Swing](https://open.spotify.com/track/4QjQJ3Q6FSURBpQv2JkuU3) | [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t) | [Swing](https://open.spotify.com/album/6D5KUP8n6c5EoLCK4CCBps) | 3:30 |
-| 34 | [Ting Go Nice Again](https://open.spotify.com/track/6M9gzAXBcelYzploNJz6TB) | [Wetty Beatz](https://open.spotify.com/artist/3cb9sULs9n1DMoBDQ7YaEC) | [Ting Go Nice Again](https://open.spotify.com/album/4JnpZTXMXoXpLcfWQz8r7W) | 2:59 |
+| 34 | [Ting Go Nice Again](https://open.spotify.com/track/1UKRyezn6KQYNi73yUUv4Z) | [Wetty Beatz](https://open.spotify.com/artist/3cb9sULs9n1DMoBDQ7YaEC) | [Get Soca 2021](https://open.spotify.com/album/0PApIAfcwQtDRXhMefkkOZ) | 2:57 |
 | 35 | [Savannah Grass](https://open.spotify.com/track/7aWK2UmGXMeOAfcVMxj8NX) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Savannah Grass](https://open.spotify.com/album/6PBFX1vkmiHtd04gcsXGVA) | 2:59 |
 | 36 | [Bun up](https://open.spotify.com/track/3F5qgnuwPr217YIexmJoMW) | [Shal Marshall](https://open.spotify.com/artist/7mds6P3MvNyCg7l2QFpx6d) | [One Bad Riddim](https://open.spotify.com/album/3RQxr6iZb7eRMK2bH8zdHW) | 2:40 |
-| 37 | [I Doh Have](https://open.spotify.com/track/2psAPBHRdrNj37su3Mi3te) | [Temptress](https://open.spotify.com/artist/45xndDWmcOjP2kCdHQ2au1) | [I Doh Have](https://open.spotify.com/album/7sk2QL3mqSeFcVp6qnghQT) | 2:48 |
+| 37 | [Ah Doh Have](https://open.spotify.com/track/136wdXEdhwOHYMsrGceoQl) | [Deno Outta Range Mason](https://open.spotify.com/artist/1tb5j7TMoEfvXfYrMifL6V), [Temptress](https://open.spotify.com/artist/65jMZVzV9puGLZnGcwl2Je) | [Dennis Riddim](https://open.spotify.com/album/7rkqjP06OeMwPjcfyPBkuD) | 2:46 |
 | 38 | [Hot Gyal SZN](https://open.spotify.com/track/6obwvBYN4XLB1MoUVCofK0) | [Adam O](https://open.spotify.com/artist/38ukb6qHfxV6H2SUerkx9M) | [Location Riddim](https://open.spotify.com/album/1jkdIPsKGWZgJxzA9fiXjS) | 2:41 |
-| 39 | [Drink to Dat](https://open.spotify.com/track/5zTfojcQTaMHhT4auLiysR) | [Lyrikal](https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng) | [Location Riddim](https://open.spotify.com/album/1jkdIPsKGWZgJxzA9fiXjS) | 3:10 |
+| 39 | [Drink to Dat](https://open.spotify.com/track/3AvSXtQ7FvmXYwu2sRNqDn) | [Lyrikal](https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng) | [Get Soca 2022](https://open.spotify.com/album/3CG8gFB1aZo3xYW0AfWNO2) | 3:10 |
 | 40 | [Scrub It Down](https://open.spotify.com/track/6s7a7t3vVQ0zrWwkJSgBFC) | [Kernal Roberts](https://open.spotify.com/artist/7HKpbIsFQsZquxRSSoZiyB) | [Scrub It Down](https://open.spotify.com/album/2T08jTpwFdhTjXQjYD8zPf) | 3:17 |
 | 41 | [Counting My Blessings](https://open.spotify.com/track/4vqnbMsosqB401KcOWgr50) | [Don Iko](https://open.spotify.com/artist/0v8SYPtnsz0VJNU1qmA2yU), [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t) | [Get Soca 2021](https://open.spotify.com/album/0PApIAfcwQtDRXhMefkkOZ) | 3:05 |
 | 42 | [First Fete](https://open.spotify.com/track/45JWRO1iDr4jkhpXSxMXVG) | [Marvelus](https://open.spotify.com/artist/5p6jMuErecfkJtueqF72zo), [Nadia Batson](https://open.spotify.com/artist/6aEtv45FW57jvZXOwbJgF0) | [Daruma Riddim](https://open.spotify.com/album/5Nats3Xv3emqbAvaXsBd7K) | 3:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 | 49 | [Rollin](https://open.spotify.com/track/5Y74YS47iSTlLyOX84JkP6) | [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t) | [Location Riddim](https://open.spotify.com/album/1jkdIPsKGWZgJxzA9fiXjS) | 3:16 |
 | 50 | [Coming Back Fuh Yuh](https://open.spotify.com/track/0btmu6nRf1fFcwAipBj9B6) | [System32](https://open.spotify.com/artist/7otiKgm5qrgugGPiW4by20), [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t) | [Hot Sun Riddim](https://open.spotify.com/album/3pPDSVI0PB9SZPpAiRLqw5) | 2:28 |
 
-Snapshot ID: `MTY2MDg2NTI1NiwwMDAwMDAwMGI1NTg1NTZhOWM3ZjM4ZDZmZTQ2YTAwNzI1MzU0MzAx`
+Snapshot ID: `MTY2MDg2NTI1NiwwMDAwMDAwMGMzNjkwYzI3ZDI3ZTgzNDZlZmQ3NTg5MjI1ZmM1ZjUx`

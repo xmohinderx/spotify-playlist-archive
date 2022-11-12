@@ -4,7 +4,7 @@
 
 > Instrumental, ambient music to awaken your imagination.
 
-77 songs - 5 hr 7 min - [published](https://open.spotify.com/playlist/2ZN8XpPOZQfCyasAye62LJ)
+78 songs - 5 hr 10 min - [published](https://open.spotify.com/playlist/2ZN8XpPOZQfCyasAye62LJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [Bråddjup](https://open.spotify.com/track/72X3TNw4gupUSI1BVC1fp9) | [Patrik Berg Almkvisth](https://open.spotify.com/artist/0K5Ns1UkBlmyx8clOiEUbo), [LUCHS](https://open.spotify.com/artist/5YNgVaI5vgMjBLel7QShBe) | [Bråddjup](https://open.spotify.com/album/09X4bKe4wtQzL420dXtNay) | 3:04 | 2022-07-11 |  |
 | [By The Sea](https://open.spotify.com/track/0me5C80h3FkszIevDs3k8Y) | [Anna Phoebe](https://open.spotify.com/artist/1838KFlgy3zBrQOqiwagod) | [Sea Souls](https://open.spotify.com/album/3f5kumRo2ebAQYThbB1v0D) | 4:36 | 2022-01-10 |  |
 | [Color Me](https://open.spotify.com/track/3d3cu0c4iV1IJyxiXFCvq8) | [Active Child](https://open.spotify.com/artist/54KTsBl98buzGkELjGlnuU) | [In Another Life](https://open.spotify.com/album/6WlmR977FLZn35bctH2DWv) | 3:54 | 2022-01-10 | 2022-03-31 |
-| [Coriolis Effect](https://open.spotify.com/track/2wDk4PaXp0B54NFLRPgXHF) | [Kyle Preston](https://open.spotify.com/artist/4y34hJ1oLcRl5wOn7FnhX8) | [Coriolis Effect](https://open.spotify.com/album/6acfVndNASRtb9S6aTUB53) | 2:08 | 2022-01-10 |  |
+| [Coriolis Effect](https://open.spotify.com/track/2wDk4PaXp0B54NFLRPgXHF) | [Kyle Preston](https://open.spotify.com/artist/4y34hJ1oLcRl5wOn7FnhX8) | [Coriolis Effect](https://open.spotify.com/album/6acfVndNASRtb9S6aTUB53) | 2:08 | 2022-01-10 | 2022-11-12 |
+| [Coriolis Effect](https://open.spotify.com/track/4Vk2YKNmdHLG1jevYtgxWa) | [Kyle Preston](https://open.spotify.com/artist/4y34hJ1oLcRl5wOn7FnhX8) | [Broken Radiance](https://open.spotify.com/album/6Cr9qjS0yH44dcDs26RV7X) | 2:08 | 2022-10-28 |  |
 | [Desire to Surrender \- Original Mix](https://open.spotify.com/track/1iREBmDLkygqw9JX2GnSbS) | [Rayan Myers](https://open.spotify.com/artist/3RSb0z67NKO8ZUIVqb5NHG) | [Overcoming](https://open.spotify.com/album/0hawJafRoPPIUkj050Jp5p) | 6:45 | 2022-01-10 | 2022-07-12 |
 | [Don't Go](https://open.spotify.com/track/31SPIpjKb1YlvY6FDCBUrm) | [Chris Coleman](https://open.spotify.com/artist/2mXB4WRGKaH89fJFSyK4M8) | [Don't Go](https://open.spotify.com/album/2DkwNU0M0BUVh9qPA0CBmf) | 2:54 | 2022-01-10 |  |
 | [Don't Let Go](https://open.spotify.com/track/4aCGM7iDwSQuG5ZKKeEboq) | [Alice In Winter](https://open.spotify.com/artist/6GT9NGuY5ABje2cz3AN5in) | [Don't Let Go](https://open.spotify.com/album/3jlFNZvuhHiY5RJEMNp1BP) | 4:06 | 2022-01-10 | 2022-07-29 |

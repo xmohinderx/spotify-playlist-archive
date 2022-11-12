@@ -4,7 +4,7 @@
 
 > Soft, relaxing music for workout recovery.
 
-145 songs - 7 hr 45 min - [published](https://open.spotify.com/playlist/1NtCBQAYwIxeG4sSBLGcvt)
+149 songs - 8 hr 1 min - [published](https://open.spotify.com/playlist/1NtCBQAYwIxeG4sSBLGcvt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [Colors Of The Moon](https://open.spotify.com/track/2m9dwTEyYuMREZTttiFKmF) | [Mandala Dreams](https://open.spotify.com/artist/3i1TDsrVS40yt81IHvWkg1) | [Winds Of Fuji](https://open.spotify.com/album/4QKngpNjlNhdHLESKhcbde) | 3:49 | 2022-06-29 |  |
 | [Colors Of The Moon](https://open.spotify.com/track/7oJTS0gsP7c97MrpYOAprd) | [Mandala Dreams](https://open.spotify.com/artist/3i1TDsrVS40yt81IHvWkg1) | [Winds Of Fuji](https://open.spotify.com/album/6kIQSKwUKjiE4hxxMyMkBc) | 3:49 | 2021-12-10 | 2022-07-29 |
 | [Conscience](https://open.spotify.com/track/19ilGQQEukiGNg4XSC5JbN) | [Kotono Tanaka](https://open.spotify.com/artist/2uEVl0y8kXD2i1zFhFt7vT) | [Conscience](https://open.spotify.com/album/2SSgsApJySq0Bjv3mdvTus) | 4:08 | 2021-12-10 |  |
-| [Cosmic Awareness](https://open.spotify.com/track/3wUiacFzzsmxvdwramIwwg) | [Out Of Gravity](https://open.spotify.com/artist/4TFNHaPqofW42WWVafTX7o) | [Cosmic Awarness](https://open.spotify.com/album/4Pyk7xBsaCzB3UeFEWJa63) | 4:28 | 2022-06-29 |  |
+| [Cosmic Awareness](https://open.spotify.com/track/1CfnsH44lFQ6aqCEdUHmTs) | [Out Of Gravity](https://open.spotify.com/artist/4TFNHaPqofW42WWVafTX7o) | [Cosmic Awareness](https://open.spotify.com/album/5DvEjmp3yXZX3R6crfA87c) | 4:28 | 2022-11-11 |  |
+| [Cosmic Awareness](https://open.spotify.com/track/3wUiacFzzsmxvdwramIwwg) | [Out Of Gravity](https://open.spotify.com/artist/4TFNHaPqofW42WWVafTX7o) | [Cosmic Awarness](https://open.spotify.com/album/4Pyk7xBsaCzB3UeFEWJa63) | 4:28 | 2022-06-29 | 2022-11-12 |
 | [Cosmic Awareness](https://open.spotify.com/track/4piid7tPoN2WkIqAxathMC) | [Out Of Gravity](https://open.spotify.com/artist/4TFNHaPqofW42WWVafTX7o) | [Cosmic Awareness](https://open.spotify.com/album/3hecCEF63VmN2b0ZUbhMAV) | 4:28 | 2021-12-10 | 2022-07-29 |
 | [Crescent Moon](https://open.spotify.com/track/54aSz8TCN9F3UmYBao3S6Q) | [Cameron Heap](https://open.spotify.com/artist/4vYseAXrGI36H1oD7MM054) | [Crescent Moon](https://open.spotify.com/album/6i0LnT3zpICqfc2kD5N4wj) | 2:36 | 2021-12-10 |  |
 | [Cwtch](https://open.spotify.com/track/7ljE0RT8coNsbBYAhGOilP) | [Ymlacio](https://open.spotify.com/artist/3Tye8bBNb5g7QNBcpoFQRo) | [Cwtch](https://open.spotify.com/album/3AQOCwhGHVw8pfKTn8ZBNt) | 2:31 | 2021-12-10 |  |
@@ -54,6 +55,7 @@
 | [Find Me](https://open.spotify.com/track/6jDM7dC4rmCFaB6J1huffu) | [Leyton Miller](https://open.spotify.com/artist/1Ne3d3mvmU8z83OHnVFSxu) | [Find Me](https://open.spotify.com/album/5ix4GEUCC9ITQRBN5tTeLI) | 3:21 | 2021-12-10 |  |
 | [Findings](https://open.spotify.com/track/343ddQVZOlgpQ4FWiSwMHP) | [August Wilhelmsson](https://open.spotify.com/artist/34hmgPKKRJX6fvkosRxDO7) | [Findings](https://open.spotify.com/album/5qyeAgJQ1rk0uRZcjgCGMc) | 3:22 | 2021-12-10 | 2022-07-29 |
 | [Findings](https://open.spotify.com/track/47fsmEwOq739Cy3pzUgWIQ) | [August Wilhelmsson](https://open.spotify.com/artist/34hmgPKKRJX6fvkosRxDO7) | [Findings](https://open.spotify.com/album/3clSZEB0Fg1q8HE6Ckp2ya) | 3:22 | 2022-06-29 | 2022-08-13 |
+| [Floating](https://open.spotify.com/track/1G4QmXMFFPKypYFfZaV3Mg) | [Suraj Ives](https://open.spotify.com/artist/4VPaJH2YvHn7jNz6SVVgwn) | [Floating](https://open.spotify.com/album/7KTojG9yqTuKlodp0F69oK) | 3:37 | 2022-11-11 |  |
 | [Fragments Café](https://open.spotify.com/track/0BIStdXlI7hvMEkIfROFUt) | [Paris Atmosphere](https://open.spotify.com/artist/7nd5uBLriymq37OCBKq71k) | [Paris Atmosphere](https://open.spotify.com/album/0hEKprQBXJUWFSgrYxbGYb) | 3:54 | 2022-06-29 | 2022-08-13 |
 | [Fragments Café](https://open.spotify.com/track/3jg4Z0yPJsVx5M3BOYkBS0) | [Paris Atmosphere](https://open.spotify.com/artist/7nd5uBLriymq37OCBKq71k) | [Paris Atmosphere](https://open.spotify.com/album/71Ao0d8AcoKZdzOFhZzScO) | 3:54 | 2021-12-10 | 2022-07-29 |
 | [From Shores To Mountains](https://open.spotify.com/track/5kOy4Ap0QsN24vCL9H3KTt) | [The 2 Inversions](https://open.spotify.com/artist/2v62tGVulAui917rxpcmVJ) | [From Shores To Mountains](https://open.spotify.com/album/1jtEPkPm0pQeNBJ6ygS8OO) | 2:25 | 2021-12-10 | 2022-10-15 |
@@ -79,7 +81,8 @@
 | [Looking Up](https://open.spotify.com/track/6WPhQfpJOY2elhjJHI27H5) | [Sleepy Clouds](https://open.spotify.com/artist/2VGcECsvRjugsMNJ2bVSsM) | [Looking Up](https://open.spotify.com/album/6v569ccwhxvUy8qHjHYix5) | 2:32 | 2021-12-10 | 2022-10-15 |
 | [Lost](https://open.spotify.com/track/3O1AqwrqIwVoAr0GET75SY) | [Janae Milligan](https://open.spotify.com/artist/7fXVjzJEkTzPsCman3hBFu) | [Lost](https://open.spotify.com/album/5PGFQeWWIrlxj9fQzSwkRp) | 2:26 | 2021-12-10 |  |
 | [Lost Secrets](https://open.spotify.com/track/0xXb8rsGM77cixpWrOz3ES) | [Floating Lights](https://open.spotify.com/artist/6E3cU2m1CXkoGwYsPlTeuw) | [Lost Secrets](https://open.spotify.com/album/4ukFc63ZVO71h01ZJ2XiQx) | 5:04 | 2021-12-10 | 2022-07-29 |
-| [Lost Secrets](https://open.spotify.com/track/1TyHhyFlgu60ib6t8vdHAW) | [Floating Lights](https://open.spotify.com/artist/6E3cU2m1CXkoGwYsPlTeuw) | [Lost Secrets](https://open.spotify.com/album/6NT9hhZJ22oIh5017K6gHD) | 5:04 | 2022-06-29 |  |
+| [Lost Secrets](https://open.spotify.com/track/1TyHhyFlgu60ib6t8vdHAW) | [Floating Lights](https://open.spotify.com/artist/6E3cU2m1CXkoGwYsPlTeuw) | [Lost Secrets](https://open.spotify.com/album/6NT9hhZJ22oIh5017K6gHD) | 5:04 | 2022-06-29 | 2022-11-12 |
+| [Lost Secrets](https://open.spotify.com/track/31hJKu3zf5nFHwBRTR6akJ) | [Floating Lights](https://open.spotify.com/artist/6E3cU2m1CXkoGwYsPlTeuw) | [Music For Dreams](https://open.spotify.com/album/7FVXnDsiClWsdbjZz0v6Ic) | 5:04 | 2022-11-11 |  |
 | [Love Letter](https://open.spotify.com/track/0dBvGHBWNzInAt4uyutg5i) | [Angelo Garnier](https://open.spotify.com/artist/7qvvsAZAERVhX0qJ1kq6In) | [Love Letter](https://open.spotify.com/album/0vsVIaPDvHh4mDWIusQek6) | 2:58 | 2022-01-07 |  |
 | [Lunar Lullaby](https://open.spotify.com/track/4rZyFPZfM29gBF5jibSoEh) | [Voyager](https://open.spotify.com/artist/4nvRxWe5SwOuTDQZ500nzo) | [Lunar Lullaby](https://open.spotify.com/album/0rsJLd2qdpNBaMqG1nWmoz) | 2:42 | 2021-12-10 |  |
 | [Magnanimity](https://open.spotify.com/track/3Hs8LrjdOGR37PnMEMAw3G) | [Remi Asana](https://open.spotify.com/artist/5z5yEQcD8JtwJRYJgCO7yc) | [Magnanimity](https://open.spotify.com/album/2ZbFhRglsY024PPGYP2e1y) | 2:43 | 2021-12-10 |  |
@@ -125,6 +128,7 @@
 | [Showstopper](https://open.spotify.com/track/2zIcVl9zWEYmYXQHA14SGz) | [Semi Sphere](https://open.spotify.com/artist/1cTlMGKyJ6rAlPDTX3AKLU) | [Showstopper](https://open.spotify.com/album/43Ex3NtMg3QFmlvanuM8yE) | 2:39 | 2021-12-10 |  |
 | [Sigiriya](https://open.spotify.com/track/11tgd8lU2eFk0DNqMTEqtT) | [Varsha Macias](https://open.spotify.com/artist/0q4K7lXcRz4xbItRjTtidc) | [Sigiriya](https://open.spotify.com/album/5g8sBXRvCTBMo1WKcvny1f) | 2:48 | 2021-12-10 |  |
 | [Silver Lines](https://open.spotify.com/track/1ytKEjrWSIUGWqdYuIn74F) | [Jane Deliah](https://open.spotify.com/artist/3sWzxP1XwTIvyyQpz9sZXM) | [Mercury](https://open.spotify.com/album/6ZdtsFFTfV3LXvRHJsnF9M) | 2:41 | 2021-12-10 |  |
+| [Skyjum](https://open.spotify.com/track/5UWXwaQAf0IADjmS2auqNj) | [Catedral Infinita](https://open.spotify.com/artist/4ZHk7eCeQ5Q4o4wWvxq26r) | [Skyjum](https://open.spotify.com/album/5KjQoy7EkLWickNQz3FCAj) | 2:46 | 2022-11-11 |  |
 | [Soledad natural](https://open.spotify.com/track/6rNvJRr2yErh0cRjMq7scQ) | [Sonhos de Solidão](https://open.spotify.com/artist/5u54CVdeb9o3uVJjigbrWS) | [Soledad natural \(Ambient version\)](https://open.spotify.com/album/0uWYghjpGDOUZ5kw9jUIZN) | 2:35 | 2021-12-10 |  |
 | [Sombre Skies](https://open.spotify.com/track/32aIhNW375SKumCg2Xaodu) | [Bliss Phenomena](https://open.spotify.com/artist/5QggUZgvXPXT5X0jouJKBr) | [Sombre Skies](https://open.spotify.com/album/67boTj5EroXcdNOhMwiPap) | 3:33 | 2021-12-10 |  |
 | [Spiritual Conquest](https://open.spotify.com/track/0OLknAPE9i8CXou7d9Hk4M) | [Natural X](https://open.spotify.com/artist/1zP2l8li9yQDtXVsTRMMPu) | [Spiritual Conquest](https://open.spotify.com/album/4EAbmQe5oFYMSBE6izl7xk) | 3:22 | 2021-12-10 | 2022-08-13 |

@@ -307,7 +307,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 235733,
       "name": "Candela",
       "url": "https://open.spotify.com/track/1SkrlJrTEbMP0UF1zBMZ1J"
@@ -329,6 +329,24 @@
       "duration_ms": 235733,
       "name": "Candela",
       "url": "https://open.spotify.com/track/4L7HPqkEwdBvRuJuCxdsDT"
+    },
+    {
+      "album": {
+        "name": "Biografia",
+        "url": "https://open.spotify.com/album/40LeU2uCezeAfiPHXzgDpm"
+      },
+      "artists": [
+        {
+          "name": "Noelia",
+          "url": "https://open.spotify.com/artist/0uMBj1TX0cktGnVzLlgWux"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235775,
+      "name": "Candela",
+      "url": "https://open.spotify.com/track/5d7ovSSXYrEUpbNMggiKwz"
     },
     {
       "album": {
@@ -718,6 +736,24 @@
     },
     {
       "album": {
+        "name": "El Amor de Mi Vida",
+        "url": "https://open.spotify.com/album/1pBKQFec9yYFbo4nIJFTim"
+      },
+      "artists": [
+        {
+          "name": "Eddie Sierra",
+          "url": "https://open.spotify.com/artist/4QILOFSgMcb9gUF8GEkD3V"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278693,
+      "name": "El Amor de Mi Vida",
+      "url": "https://open.spotify.com/track/4DJRM5qU9avabPQshcSnc3"
+    },
+    {
+      "album": {
         "name": "Esta Todo Bien",
         "url": "https://open.spotify.com/album/1ENxbplbRcg5ysfIJoKybF"
       },
@@ -747,7 +783,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 281000,
       "name": "El Amor de Mi Vida",
       "url": "https://open.spotify.com/track/4fKaFKHZOaVhq53y5XAKZw"

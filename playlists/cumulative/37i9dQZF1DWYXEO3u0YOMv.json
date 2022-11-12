@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Akuma no Ko",
+        "url": "https://open.spotify.com/album/1dcNDH0hCRrWPz5IGKr1tR"
+      },
+      "artists": [
+        {
+          "name": "Higuchi Ai",
+          "url": "https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227679,
+      "name": "Akuma no Ko",
+      "url": "https://open.spotify.com/track/5cRKj1kynNFqiliT2ndZ3y"
+    },
+    {
+      "album": {
         "name": "Saiaku Saiai",
         "url": "https://open.spotify.com/album/2CtsgdSCPlWeIdcdk2m2iQ"
       },
@@ -19,7 +37,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 229960,
       "name": "Akuma no Ko",
       "url": "https://open.spotify.com/track/4pw7EuK2WTWGHI51jCKuGJ"
@@ -1459,10 +1477,28 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 238066,
       "name": "\u30d5\u30ec\u30f3\u30ba",
       "url": "https://open.spotify.com/track/2yw4gK5iALigexA3jUiX3g"
+    },
+    {
+      "album": {
+        "name": "suits me! suits you!",
+        "url": "https://open.spotify.com/album/6w4UG3KP2TxppJ4QuQeean"
+      },
+      "artists": [
+        {
+          "name": "wacci",
+          "url": "https://open.spotify.com/artist/7jCHrVGjeHUYP2pHv8FOJ3"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239213,
+      "name": "\u30d5\u30ec\u30f3\u30ba",
+      "url": "https://open.spotify.com/track/7cYQ9thqXjWg0slZ0CXSxm"
     },
     {
       "album": {

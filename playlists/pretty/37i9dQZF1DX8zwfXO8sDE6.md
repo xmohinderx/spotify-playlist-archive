@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8zwfXO8sDE6.md) - [plain]
 
 > Discover the amazing world of Japanese City Pop from the ‘70s./ ニューミュージックとも一線を画す、都会的で洗練された音楽＝シティポップ の誕生。黎明期の輝きは永遠に。
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,589 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,632 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8zwfXO8sDE6.md) - [plain]
 | 14 | [COBALT HOUR](https://open.spotify.com/track/0DGvE0SStlcRCcgmNb1WQB) | [Yumi Arai](https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz) | [COBALT HOUR](https://open.spotify.com/album/5q4nqytaxLA99VEVJ6yQRu) | 3:33 |
 | 15 | [心のままに](https://open.spotify.com/track/3cFDlM8SZQ1qcjbaJ8hGcH) | [朝比奈 マリア](https://open.spotify.com/artist/0Fo7zlHoM0WX4PP2GbipxM) | [MARIA](https://open.spotify.com/album/6yiuP8vYVD7SmBLDFzP8sm) | 3:49 |
 | 16 | [HOLD ME TIGHT](https://open.spotify.com/track/2DCwFuehgK6wiamF8ZjusQ) | [Raji](https://open.spotify.com/artist/6BIhMqvFyj8nYQrk6EmE0Y) | [Heart To Heart](https://open.spotify.com/album/2cmdWStrRQbd4qLIhn4HJr) | 3:53 |
-| 17 | [City Lights by the Moonlight](https://open.spotify.com/track/4oh15qYaAu8aDbUzbmja5J) | [惣領 智子](https://open.spotify.com/artist/69L8hpJ0Tvo0jGRCbX3PNb) | [City Lights by the Moonlight](https://open.spotify.com/album/3T28jNrwSvbhytK59y3cAg) | 3:52 |
-| 18 | [On the Coast](https://open.spotify.com/track/4pov7Yi9sESxayxoAZlUrD) | [Shigeru Suzuki](https://open.spotify.com/artist/4yN4amq8cBHHQ49NzFOO5Z) | [DIGGIN’ VICTOR Deep Into The Vaults Of Japanese Fusion mixed by MURO](https://open.spotify.com/album/1DHXpY4vTHmeViIke3DukQ) | 3:33 |
+| 17 | [On the Coast](https://open.spotify.com/track/4pov7Yi9sESxayxoAZlUrD) | [Shigeru Suzuki](https://open.spotify.com/artist/4yN4amq8cBHHQ49NzFOO5Z) | [DIGGIN’ VICTOR Deep Into The Vaults Of Japanese Fusion mixed by MURO](https://open.spotify.com/album/1DHXpY4vTHmeViIke3DukQ) | 3:33 |
+| 18 | [City Lights by the Moonlight](https://open.spotify.com/track/4oh15qYaAu8aDbUzbmja5J) | [惣領 智子](https://open.spotify.com/artist/69L8hpJ0Tvo0jGRCbX3PNb) | [City Lights by the Moonlight](https://open.spotify.com/album/3T28jNrwSvbhytK59y3cAg) | 3:52 |
 | 19 | [星くず](https://open.spotify.com/track/61hZsSHXCRgjhxBl6bKL8Q) | [Makoto Kubota](https://open.spotify.com/artist/5QlBWlYKw2R1O2NUAV6rnA), [夕焼け楽団](https://open.spotify.com/artist/08qtgUVDVKMQq8lOFcRJnH) | [デキシー・フィーバー](https://open.spotify.com/album/5ZSwD45BH7WFK2wmUwvdur) | 4:01 |
 | 20 | [夏の光に](https://open.spotify.com/track/0sGnR5jtx82QP9kJdkLQUr) | [Sumiko Yamagata](https://open.spotify.com/artist/4JG1gQtoe53W8X9W3OAk5C) | [サマー・シェイド](https://open.spotify.com/album/6FFjNNrnEQHDMkQtOG1Oyn) | 3:26 |
 | 21 | [ボンボヤージ波止場](https://open.spotify.com/track/2GzdAmcK3Kq3MnCkahwqWa) | [Chu Kosaka](https://open.spotify.com/artist/4czBLtKKNzTc6E4cXDYJuA) | [モーニング](https://open.spotify.com/album/5NFbf4KyFXu6bKjzBFnHBZ) | 4:02 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8zwfXO8sDE6.md) - [plain]
 | 28 | [I SAY WHO](https://open.spotify.com/track/1Ehd4X1eWAm2IP43xqPV2x) | [惣領 智子](https://open.spotify.com/artist/69L8hpJ0Tvo0jGRCbX3PNb) | [City Lights by the Moonlight](https://open.spotify.com/album/3T28jNrwSvbhytK59y3cAg) | 3:13 |
 | 29 | [愛の炎](https://open.spotify.com/track/6ZrnDMPu4wRgRLgmYzoL1c) | [Minako Yoshida](https://open.spotify.com/artist/5vYmBw71RC0kABACDCq4Zi) | [Let's Do It](https://open.spotify.com/album/3XaoPCKp7aRJN8666rx394) | 4:07 |
 | 30 | [ON THE SEASHORE](https://open.spotify.com/track/17Zqy3ZiZLPDO11OcfoS1b) | [Sadistics](https://open.spotify.com/artist/7Ek66FTad8558ELr5Vr2EW) | [WE ARE JUST TAKING OFF](https://open.spotify.com/album/2SUGtlVqzJ69LDlmDLPbNi) | 6:11 |
-| 31 | [ソバカスのある少女](https://open.spotify.com/track/76ZN3sUxFdm1DS4HWmR0Tx) | [ティン・パン・アレー](https://open.spotify.com/artist/1hpng1qlmNyaCQZLdZpbfQ) | [キャラメル・ママ](https://open.spotify.com/album/5Spc2oCDj38mKA33NpsfzG) | 3:29 |
-| 32 | [ピンク・シャドウ](https://open.spotify.com/track/1lnWb1e7XWFBnwiKmBq9ZS) | [Bread And Butter](https://open.spotify.com/artist/3OldswvDMARe1uWLYSrdEz) | [SUMMER KNOWS](https://open.spotify.com/album/2gjQ3FxHHiYyjzn634Si1c) | 4:41 |
+| 31 | [ピンク・シャドウ](https://open.spotify.com/track/1lnWb1e7XWFBnwiKmBq9ZS) | [Bread And Butter](https://open.spotify.com/artist/3OldswvDMARe1uWLYSrdEz) | [SUMMER KNOWS](https://open.spotify.com/album/2gjQ3FxHHiYyjzn634Si1c) | 4:41 |
+| 32 | [ソバカスのある少女](https://open.spotify.com/track/76ZN3sUxFdm1DS4HWmR0Tx) | [ティン・パン・アレー](https://open.spotify.com/artist/1hpng1qlmNyaCQZLdZpbfQ) | [キャラメル・ママ](https://open.spotify.com/album/5Spc2oCDj38mKA33NpsfzG) | 3:29 |
 | 33 | [LETTER TO NEW YORK](https://open.spotify.com/track/7zCIXu0Ekri6cVDEzbFysM) | [Jun Fukamachi](https://open.spotify.com/artist/488oRgvtKkBufay6VMpULR) | [オン・ザ・ムーヴ](https://open.spotify.com/album/4AZTW2PtZazbRpUtt1owwz) | 4:59 |
 | 34 | [ゴロワーズを吸ったことがあるかい](https://open.spotify.com/track/1UOeZZUegiI3Lf0OOa5Unv) | [Hiroshi Kamayatsu](https://open.spotify.com/artist/6Dzf0hRDXsjgxvmeh0dXO7) | [あゝ、わが良き友よ](https://open.spotify.com/album/0Cm3cc9blGGjNw1P4QDA4X) | 4:20 |
 | 35 | [私自身](https://open.spotify.com/track/7iyfmOUN6wBobBPXVRdWvR) | [Ayumi Ishida](https://open.spotify.com/artist/3rLmQHQ3X5rCN55IhqPFnX), [ティン・パン・アレー](https://open.spotify.com/artist/1hpng1qlmNyaCQZLdZpbfQ) | [アワー・コネクション](https://open.spotify.com/album/6bSYfNaRLzYBsmHDBwHjM1) | 3:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8zwfXO8sDE6.md) - [plain]
 | 49 | [サブタレニアン二人ぼっち \- 2017 リマスター](https://open.spotify.com/track/0Bm8KQPVBA4neqiy5mqEiw) | [Nanako Sato](https://open.spotify.com/artist/3X1YtMHFPYXcwtGo4VKT33) | [Funny Walkin' \(2017 リマスター\)](https://open.spotify.com/album/1Kzw7ST2rFIQ2CRwvPINkV) | 3:14 |
 | 50 | [Rainbow Sealine](https://open.spotify.com/track/3NQ3e5j7qcscVxKsUQlfOs) | [Hiroshi Sato](https://open.spotify.com/artist/71uGKB11tJQ1uuLLppcHDj) | [Super Market](https://open.spotify.com/album/3z7LiLRgCg1W4E6Me7IJVV) | 3:53 |
 
-Snapshot ID: `MTYyOTU3NDUxNCwwMDAwMDAwMDU1YTNkMzBmMTRiODI3MjRkMWNiMGU3MzBjMmNjNWY4`
+Snapshot ID: `MTYyOTU3NDUxNCwwMDAwMDAwMGNhMmVjYTgzY2UzM2YzMDVmMTU1NTg4NjI1MzhlODEy`

@@ -4,7 +4,7 @@
 
 > 2001年バンドSound Scheduleのメンバーとしてデビュー。ソロ名義「オーイシマサヨシ」およびユニットOxTでは、アニメ音楽シーンの立役者として知られる作曲家/アーティスト。
 
-129 songs - 8 hr 34 min - [published](https://open.spotify.com/playlist/1ClXmwh1TCTMLqrrjuRVQf)
+131 songs - 8 hr 41 min - [published](https://open.spotify.com/playlist/1ClXmwh1TCTMLqrrjuRVQf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,8 +58,10 @@
 | [Onegai Muscle \- from CrosSing](https://open.spotify.com/track/4mqOfJPqfhkznL4UZuEiOj) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Onegai Muscle \- from CrosSing](https://open.spotify.com/album/5Bt7BoV1R7s5Ihkv5D7Cf5) | 3:42 | 2022-08-09 |  |
 | [Otomodachi Film \- Live](https://open.spotify.com/track/6YMWAFs84TJWbW0zBZAhQQ) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Masayoshi Oishi One\-Man Live Entertainer](https://open.spotify.com/album/4TQelLZa9wM5cW9OdWIdLM) | 3:33 | 2022-07-26 |  |
 | [Petenshi no Yuuutsu](https://open.spotify.com/track/7aY5JhCXFCwy5Di77tODbW) | [Utsuki Chikage \(CV: Wataru Hatano\)](https://open.spotify.com/artist/2mJEBOqW95SK373lnenYtj) | [A3! Vivid Spring EP](https://open.spotify.com/album/7JnNNAbW1Li5QiBMoyjb8t) | 3:07 | 2022-07-26 |  |
-| [Rakuen Toshi](https://open.spotify.com/track/2vOTY8M4Hb2gy72iI2ywSc) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Rakuen Toshi](https://open.spotify.com/album/11sAMfCkGSjIgHl4aKacKD) | 3:46 | 2022-07-26 |  |
-| [Role Playing](https://open.spotify.com/track/7AhXYCly0Z5vupZPEcLO0e) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Entertainer](https://open.spotify.com/album/4Xe4P2qe5ob7xiyl0apWFm) | 3:39 | 2022-07-26 |  |
+| [Rakuen Toshi](https://open.spotify.com/track/3HmBK3OpEwgEZufskRq5UY) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Entertainer](https://open.spotify.com/album/4Xe4P2qe5ob7xiyl0apWFm) | 3:46 | 2022-08-16 |  |
+| [Rakuen Toshi](https://open.spotify.com/track/2vOTY8M4Hb2gy72iI2ywSc) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Rakuen Toshi](https://open.spotify.com/album/11sAMfCkGSjIgHl4aKacKD) | 3:46 | 2022-07-26 | 2022-11-12 |
+| [Role Playing](https://open.spotify.com/track/3j43VMghE6nhgQ8rDFerhf) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Entertainer](https://open.spotify.com/album/0ZUMizpUDJ7FPhCY7ImpRu) | 3:39 | 2022-08-16 |  |
+| [Role Playing](https://open.spotify.com/track/7AhXYCly0Z5vupZPEcLO0e) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Entertainer](https://open.spotify.com/album/4Xe4P2qe5ob7xiyl0apWFm) | 3:39 | 2022-07-26 | 2022-11-12 |
 | [Sekai ga Kimi wo Hitsuyoutosuru Toki ga Kitanda](https://open.spotify.com/track/7xTgtfIJ54hKynnZPPPQzq) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Entertainer](https://open.spotify.com/album/4Xe4P2qe5ob7xiyl0apWFm) | 3:43 | 2022-07-26 | 2022-11-11 |
 | [Sekai ga Kimi wo Hitsuyoutosuru Toki ga Kitanda](https://open.spotify.com/track/7jNQBs0eqcRBnJYBi3uXA1) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Sekai ga Kimi wo Hitsuyoutosuru Toki ga Kitanda / Eiyu no Uta](https://open.spotify.com/album/2NH1SQE6jRoYQqS71bnGM2) | 3:44 | 2022-08-16 |  |
 | [Tears of a Genius](https://open.spotify.com/track/0V8zCJZH63TLW6uPTPl2eN) | [OxT](https://open.spotify.com/artist/2qaq1aaJNXMlqsdS50FDrW) | [Be The Best! Be The Blue!/Tears of a Genius](https://open.spotify.com/album/6caPYuL5B1w6SV05gcBZo1) | 4:44 | 2022-04-26 |  |

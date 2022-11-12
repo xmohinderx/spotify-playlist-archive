@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "This is the new Core at its finest. Cover: I Prevail",
+  "description": "This is the new Core at its finest. Cover: Make Them Suffer",
   "name": "The Core",
   "published_playlist_ids": [
     "3WEyotDPwbgzHjigMpDgbN"
@@ -3182,6 +3182,24 @@
     },
     {
       "album": {
+        "name": "Doomswitch",
+        "url": "https://open.spotify.com/album/2WJV5AVoALNLtr2ZqOlf2n"
+      },
+      "artists": [
+        {
+          "name": "Make Them Suffer",
+          "url": "https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275205,
+      "name": "Doomswitch",
+      "url": "https://open.spotify.com/track/7v9HNMlAe2UBaEhvaCk5wX"
+    },
+    {
+      "album": {
         "name": "Down",
         "url": "https://open.spotify.com/album/0151780uryrl7Mj83Tc6G8"
       },
@@ -5041,7 +5059,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 209230,
       "name": "I Will Return",
       "url": "https://open.spotify.com/track/0AQcFVw3RkS01iMfs24qUt"

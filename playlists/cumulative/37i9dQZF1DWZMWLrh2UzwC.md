@@ -4,7 +4,7 @@
 
 > The best newly released songs of the week\. Cover: Yuna
 
-3,860 songs - 8 day 20 hr 7 min - [published](https://open.spotify.com/playlist/0N7RJ8Z6HROviqzRpgPKEn)
+3,863 songs - 8 day 20 hr 16 min - [published](https://open.spotify.com/playlist/0N7RJ8Z6HROviqzRpgPKEn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -416,6 +416,7 @@
 | [Blur](https://open.spotify.com/track/15IfeWfzxJtcKBgx6oDHvl) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [Blur](https://open.spotify.com/album/0oQLzvDrvXSwmUfXlnCwc8) | 3:40 | 2022-06-23 | 2022-07-01 |
 | [blur](https://open.spotify.com/track/2hVSPUJVMxQwcfa1xdhRt8) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [blur](https://open.spotify.com/album/10QgRGKde72CAkxtlTRZgj) | 2:32 | 2022-06-02 | 2022-06-10 |
 | [BOBBIN](https://open.spotify.com/track/14JS85dA20uiGU5XGAWtif) | [BLITZERS](https://open.spotify.com/artist/3Exoh42YMeqnUvYahAGgUE) | [BOBBIN](https://open.spotify.com/album/3NqyPRfB9A7ZlU12gkY3fc) | 3:08 | 2022-01-06 | 2022-01-14 |
+| [Body Language](https://open.spotify.com/track/7ChkQmb0PDbfTHI9oOPOlh) | [Jess Connelly](https://open.spotify.com/artist/1XC87A3NVlw6xDW1kIB5FN) | [Bittersweet](https://open.spotify.com/album/35TjHF0WpwF49jciFC6Tgi) | 2:36 | 2022-11-10 |  |
 | [Body Line](https://open.spotify.com/track/1P1S58iBlvNWiViEyQUdzP) | [Kalassy Nikoff](https://open.spotify.com/artist/579taDZp4hQH1eYPIlZyCz), [NICKTHEREAL](https://open.spotify.com/artist/1fHw35wWkpOw05sswFSl70) | [Body Line](https://open.spotify.com/album/3ect8uFffq3fExwb8W51Xz) | 3:14 | 2022-06-09 | 2022-06-17 |
 | [Body Mind Soul \(with Benny Benassi feat\. Kyle Reynolds\)](https://open.spotify.com/track/4eaEUmyOmuIkDslaf7xw0f) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82), [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [Kyle Reynolds](https://open.spotify.com/artist/5yhR0OqJhkbQ2y76XUte3R) | [Body Mind Soul \(with Benny Benassi feat\. Kyle Reynolds\)](https://open.spotify.com/album/3WQ4N49TK1nT2YLV5kNgpD) | 2:00 | 2021-12-23 | 2021-12-31 |
 | [Body Paint](https://open.spotify.com/track/11jRCxY01k9jvCdUru0EeP) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Body Paint](https://open.spotify.com/album/0AtlEQ56o0yKOd9qM1EBp0) | 4:50 | 2022-09-29 | 2022-10-07 |
@@ -1322,6 +1323,7 @@
 | [Gummy](https://open.spotify.com/track/6c9ua26MdggFqHs5le1cTE) | [Will Joseph Cook](https://open.spotify.com/artist/3YO2a6i2cfdFbgxk2HDfPe) | [Every Single Thing](https://open.spotify.com/album/03h4StW2BAHz9c822kAPtG) | 3:01 | 2022-06-09 | 2022-06-17 |
 | [HABIBI \(MY LOVE\)](https://open.spotify.com/track/7IZ5mUwsHLULx7vTHLzIHE) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [HABIBI \(MY LOVE\)](https://open.spotify.com/album/27wb1fwl2aMDdmoUOCaQY3) | 2:29 | 2022-10-06 | 2022-10-14 |
 | [Habis Sini](https://open.spotify.com/track/083H6a1NC2FXoXm5rMgnAa) | [Naim Daniel](https://open.spotify.com/artist/5PCDJjJ5dx6Py83CvfvRIO), [Joe Flizzow](https://open.spotify.com/artist/28JPqJh7jsUuxus33Kfwe7) | [Habis Sini](https://open.spotify.com/album/2W7NY9FTn0RE4ApG5fvlOB) | 3:20 | 2022-02-03 | 2022-02-11 |
+| [Hair Cut](https://open.spotify.com/track/4ZYSJfjSuR1XqcUPaTxjuG) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Overload](https://open.spotify.com/album/76XckkqatimbtN2NspL4N5) | 3:25 | 2022-11-10 |  |
 | [Hair Up High](https://open.spotify.com/track/2Yy2LQe91B18DxooUldFLm) | [H I N A N O](https://open.spotify.com/artist/6tO81LUACIiheJWoVBJ5PY) | [Tomorrow I'll Never Be Twenty\-Two](https://open.spotify.com/album/1P1WOWCim8bfcz6Z1Gqr8s) | 4:20 | 2022-09-22 | 2022-09-30 |
 | [Haitian Scarface](https://open.spotify.com/track/6HW0HSK7j7FHeFlxqNdKR4) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Haitian Scarface](https://open.spotify.com/album/0Dvd4RQ44MBoK0eslFXDpP) | 2:25 | 2022-08-11 | 2022-08-19 |
 | [Halaman Asmara](https://open.spotify.com/track/48NLyx9cLQB8MleH4y6H7e) | [Vanessa Reynauld](https://open.spotify.com/artist/3ClWG1ei6mt02XaSzpuSYa), [Pasya](https://open.spotify.com/artist/0xHF8ccnkV2nG9knKoeBCw) | [Halaman Asmara](https://open.spotify.com/album/7GFvyfdr2oFN4Q77putnKI) | 4:22 | 2022-06-30 | 2022-07-08 |
@@ -3559,6 +3561,7 @@
 | [What If Love](https://open.spotify.com/track/5M2fQ0KSLYRwrpIm4SxDl8) | [UP10TION](https://open.spotify.com/artist/2LjaeuGS0ubYXZfNihGp9y) | [Code Name: Arrow](https://open.spotify.com/album/6lGBHQBYL3eRzQ2ONYaxYc) | 3:10 | 2022-10-13 | 2022-10-21 |
 | [what is life?](https://open.spotify.com/track/45O9E7K3A2nPSAfe3hI36E) | [NIve](https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF) | [proLOG?](https://open.spotify.com/album/1gIBXpQgHBtWBLmcQxEkZ9) | 3:10 | 2022-03-03 | 2022-03-11 |
 | [What Should I Do?](https://open.spotify.com/track/4SNfTLPMEiti4Qn8WZmyk8) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [What Should I Do?](https://open.spotify.com/album/3DcCA6i22n27K5oxO76JD4) | 3:37 | 2022-02-24 | 2022-03-04 |
+| [What Type of Games](https://open.spotify.com/track/2u1ctOsUchwMbWd2kyDgfu) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [TANTRA](https://open.spotify.com/album/2m9d5jfphaM15b58uYYRcK) | 3:03 | 2022-11-10 |  |
 | [WHAT WOULD I DO?](https://open.spotify.com/track/1sFXoIocM3iQQs21Kw6mb7) | [TENGY](https://open.spotify.com/artist/40NI9ZKB9SZhfBD81Yv7pK) | [WHAT WOULD I DO?](https://open.spotify.com/album/7tm9KvtZYiQCi1S7LJtd3y) | 3:23 | 2022-07-28 | 2022-08-05 |
 | [What Would You Do?](https://open.spotify.com/track/1D2ZNECRd7KIlA4pyOUGsv) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [What Would You Do?](https://open.spotify.com/album/2MUZjEfjTAJp5zroItascD) | 2:54 | 2022-03-17 | 2022-03-25 |
 | [what would you do?](https://open.spotify.com/track/3I1Smy5zhzNEc9grpjwY1s) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [what would you do?](https://open.spotify.com/album/4sXo7bmCebWfskbUktuQbs) | 2:46 | 2022-05-12 | 2022-05-20 |

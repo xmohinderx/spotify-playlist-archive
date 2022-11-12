@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Explore the ever-evolving folk & roots scene. Cover: The Lone Bellow",
+  "description": "Explore the ever-evolving folk & roots scene. Cover: Lizzy McAlpine",
   "name": "Roots Rising",
   "published_playlist_ids": [
     "253UejjPPflLcat0bb66LZ"
@@ -719,7 +719,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 242990,
       "name": "Black Hole",
       "url": "https://open.spotify.com/track/4qKP2vggRsHfq3BUkH631t"
@@ -959,7 +959,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 216920,
       "name": "Can't See Stars (feat. Kevin Morby)",
       "url": "https://open.spotify.com/track/4vDEQxivxtfbgmEHtsJ29H"
@@ -1983,7 +1983,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 202360,
       "name": "Gold",
       "url": "https://open.spotify.com/track/2U8SVTHjyYK4nPofvO2Ncw"
@@ -2211,6 +2211,28 @@
       "duration_ms": 276760,
       "name": "Honey",
       "url": "https://open.spotify.com/track/1ALH9oRd8FqjfsSH0d8Ft4"
+    },
+    {
+      "album": {
+        "name": "(self-titled)",
+        "url": "https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE"
+      },
+      "artists": [
+        {
+          "name": "Marcus Mumford",
+          "url": "https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224893,
+      "name": "How (feat. Brandi Carlile)",
+      "url": "https://open.spotify.com/track/171xo7JC4bf7vqFmjF88M8"
     },
     {
       "album": {
@@ -2718,6 +2740,42 @@
     },
     {
       "album": {
+        "name": "Best Day of My Life",
+        "url": "https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219020,
+      "name": "Just Another Thing We Don't Talk About",
+      "url": "https://open.spotify.com/track/2FjX5cfe8tBV4Qd6ELhUNf"
+    },
+    {
+      "album": {
+        "name": "Guard Dog",
+        "url": "https://open.spotify.com/album/4Y7xxhWtydlfjYiaGolr58"
+      },
+      "artists": [
+        {
+          "name": "Searows",
+          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287676,
+      "name": "Keep The Rain",
+      "url": "https://open.spotify.com/track/2xFmXeAKtzrG1ZQBT6adKc"
+    },
+    {
+      "album": {
         "name": "Keeping The Light On",
         "url": "https://open.spotify.com/album/6frFUCnLfPHN5cuGuONc04"
       },
@@ -3028,6 +3086,24 @@
     },
     {
       "album": {
+        "name": "What Remains",
+        "url": "https://open.spotify.com/album/69vVun5LtcOyTDYJEp5UEb"
+      },
+      "artists": [
+        {
+          "name": "Ocie Elliott",
+          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234028,
+      "name": "Miles Are Wide",
+      "url": "https://open.spotify.com/track/7CGfeNaZoVLJRBKB15B1jK"
+    },
+    {
+      "album": {
         "name": "Missing Piece",
         "url": "https://open.spotify.com/album/6zQCdokfVne8dFU5Z5BpS3"
       },
@@ -3165,10 +3241,28 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 163648,
       "name": "My Boy",
       "url": "https://open.spotify.com/track/5ndSLoHMt298BYsru2seYK"
+    },
+    {
+      "album": {
+        "name": "Palladium",
+        "url": "https://open.spotify.com/album/6u7YzxT7QZho04xVGjjFy1"
+      },
+      "artists": [
+        {
+          "name": "Greyson Chance",
+          "url": "https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241720,
+      "name": "My Dying Spirit",
+      "url": "https://open.spotify.com/track/3eTvyX4x5tBaXBBQsVKTHh"
     },
     {
       "album": {
@@ -5363,7 +5457,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 247829,
       "name": "Way I Go",
       "url": "https://open.spotify.com/track/5fMTQPtPqEGNCI9gDGTruc"

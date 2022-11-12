@@ -152,6 +152,24 @@
     },
     {
       "album": {
+        "name": "Look Sharp! (Extended Version)",
+        "url": "https://open.spotify.com/album/4rQV5S9FhajZdyzFfcyYw9"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228866,
+      "name": "Dangerous",
+      "url": "https://open.spotify.com/track/61uXORSNIY7p03t5V7DH7z"
+    },
+    {
+      "album": {
         "name": "Look Sharp! (2009 Version)",
         "url": "https://open.spotify.com/album/1iI5YZkqNUV7VmrEi4uOP9"
       },
@@ -181,7 +199,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 228866,
       "name": "Dangerous",
       "url": "https://open.spotify.com/track/7LwsqxyIqOCF9vbdHmdIvT"
@@ -235,10 +253,28 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 249840,
       "name": "Dressed For Success",
       "url": "https://open.spotify.com/track/7dOyP04azUFikPvAkhRBeJ"
+    },
+    {
+      "album": {
+        "name": "The Pop Hits",
+        "url": "https://open.spotify.com/album/2ABfrAhcF6lsxmyzkKwqD2"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251680,
+      "name": "Dressed for Success - US Single Mix",
+      "url": "https://open.spotify.com/track/7GqyxvYvcHPFqApCd43V1d"
     },
     {
       "album": {

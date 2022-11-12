@@ -282,6 +282,24 @@
     },
     {
       "album": {
+        "name": "Happy Mother's Day Y'all",
+        "url": "https://open.spotify.com/album/7de0tgPmcZOZmxQ5DwyT4B"
+      },
+      "artists": [
+        {
+          "name": "Loretta Lynn",
+          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178253,
+      "name": "Coal Miner's Daughter - Single Version",
+      "url": "https://open.spotify.com/track/48YTGYDGj7sJv7Gj0b5DrZ"
+    },
+    {
+      "album": {
         "name": "Coal Miner's Daughter",
         "url": "https://open.spotify.com/album/2SayIIdZkrtb9I4BbdnyOr"
       },
@@ -293,7 +311,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 180960,
       "name": "Coal Miner's Daughter - Single Version",
       "url": "https://open.spotify.com/track/3mM14WXoPaLRjjkmxHe99L"
@@ -2177,10 +2195,28 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 212200,
       "name": "You're Still The One",
       "url": "https://open.spotify.com/track/1wb4P4F0sxAQ2KXrRvsx6n"
+    },
+    {
+      "album": {
+        "name": "Cleaning At Home - Pop Edition",
+        "url": "https://open.spotify.com/album/6APP9HoLEQFYYySdwgxC1G"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212560,
+      "name": "You're Still The One",
+      "url": "https://open.spotify.com/track/3fOEldPK2dTA6C12PzrDtT"
     },
     {
       "album": {

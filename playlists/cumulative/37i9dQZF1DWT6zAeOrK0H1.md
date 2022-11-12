@@ -4,7 +4,7 @@
 
 > Home of the best bands orbiting the universe right now\. Cover: The 1975
 
-177 songs - 10 hr 36 min - [published](https://open.spotify.com/playlist/1G49YSmV3HVbe641zBfJx5)
+179 songs - 10 hr 44 min - [published](https://open.spotify.com/playlist/1G49YSmV3HVbe641zBfJx5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,8 @@
 | [Texas Sun](https://open.spotify.com/track/24ntSW3QVJzR79lHAAOTaY) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Sun](https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz) | 4:12 | 2022-03-15 |  |
 | [The Adults Are Talking](https://open.spotify.com/track/5ruzrDWcT0vuJIOMW7gMnW) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [The New Abnormal](https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN) | 5:09 | 2022-03-15 |  |
 | [the angel of 8th ave.](https://open.spotify.com/track/1ZBAWvkQlpd87kCfHopEH4) | [Gang of Youths](https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8) | [the angel of 8th ave.](https://open.spotify.com/album/128oVGwfkxHAthA6WTW4Hl) | 3:58 | 2022-03-15 | 2022-07-29 |
-| [the angel of 8th ave.](https://open.spotify.com/track/3ono1eRCqwTW9PJMx9u2Ru) | [Gang of Youths](https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8) | [angel in realtime.](https://open.spotify.com/album/4xrHCOnujQW9DDLmntffLP) | 3:58 | 2022-07-08 |  |
+| [the angel of 8th ave.](https://open.spotify.com/track/3Cxmy086Et74mojMN53BYZ) | [Gang of Youths](https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8) | [in the wake of your leave](https://open.spotify.com/album/5cnVBEtmUA3g55e2qbzdw7) | 3:58 | 2022-10-13 |  |
+| [the angel of 8th ave.](https://open.spotify.com/track/3ono1eRCqwTW9PJMx9u2Ru) | [Gang of Youths](https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8) | [angel in realtime.](https://open.spotify.com/album/4xrHCOnujQW9DDLmntffLP) | 3:58 | 2022-07-08 | 2022-11-12 |
 | [The Bandit](https://open.spotify.com/track/7aYBo6hxjhJc8ECkbKAqnR) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [When You See Yourself](https://open.spotify.com/album/5mi6IbVDNVKpOO702ejPn6) | 4:10 | 2022-03-15 |  |
 | [The Hardest Cut](https://open.spotify.com/track/4ZifmvedzdccUUuiGDAbTU) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [Lucifer On The Sofa](https://open.spotify.com/album/1szMY4QqnQZgNuyLBC4jUQ) | 3:13 | 2022-05-06 |  |
 | [The Lightning II](https://open.spotify.com/track/4hgobGfWedCMII3bdualzM) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [The Lightning I, II](https://open.spotify.com/album/5CW1F2qtnEt9lNaRSZlbHr) | 2:34 | 2022-03-18 | 2022-06-03 |
@@ -155,7 +156,8 @@
 | [Traps](https://open.spotify.com/track/2ZvxyrNMYKMTazLQI2v9BX) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Traps](https://open.spotify.com/album/0UdQroPXUq5V73zbzsGGrh) | 2:54 | 2022-03-15 | 2022-05-06 |
 | [Trouble](https://open.spotify.com/track/2NZyf2jJaf0PntMfTe5fPf) | [The Big Moon](https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O) | [Trouble](https://open.spotify.com/album/3LdfZrdlKsanntRZHYncJr) | 3:51 | 2022-10-13 |  |
 | [Trouble’s Coming](https://open.spotify.com/track/6voIJ7OWwRabSZDC77D5Hp) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Typhoons](https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi) | 3:48 | 2022-03-15 | 2022-08-12 |
-| [U&ME](https://open.spotify.com/track/3i4ColsuZEvjeLz63m0jPt) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [The Dream](https://open.spotify.com/album/5ogYKSRRlVAgMzv09HFeIn) | 3:18 | 2022-07-08 |  |
+| [U&ME](https://open.spotify.com/track/23YxxyxIHbIj8zBf4ZfGSX) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [U&ME \(Baauer Remix\)](https://open.spotify.com/album/7ftT31XifyMfoUIyoqxkop) | 3:18 | 2022-10-13 |  |
+| [U&ME](https://open.spotify.com/track/3i4ColsuZEvjeLz63m0jPt) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [The Dream](https://open.spotify.com/album/5ogYKSRRlVAgMzv09HFeIn) | 3:18 | 2022-07-08 | 2022-11-12 |
 | [U&ME](https://open.spotify.com/track/6taNQNGdyo6PN4DPlYFf08) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [The Dream](https://open.spotify.com/album/4OgdaAYtSaLpVKMEKFbK7C) | 3:18 | 2022-03-15 | 2022-07-29 |
 | [Unknown Male 01](https://open.spotify.com/track/7t1zVA0130zZBaE4dU1VpS) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [The Myth of The Happily Ever After](https://open.spotify.com/album/79TV8acvMeGKGbsBUKvwCI) | 6:08 | 2022-03-15 | 2022-06-03 |
 | [Up Granville](https://open.spotify.com/track/38SpxensPT9J0iNbMmQIjd) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Up Granville](https://open.spotify.com/album/3A1KfQ0xiG0a6u3V7FTA9p) | 3:50 | 2022-03-15 |  |

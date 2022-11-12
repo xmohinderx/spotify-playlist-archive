@@ -4,7 +4,7 @@
 
 > All the Intelligent Dance Music you'll need \(not necessarily to dance to\)\. Aphex Twin on cover.
 
-452 songs - 1 day 18 hr 55 min - [published](https://open.spotify.com/playlist/61jkU0pyUDv8PvEXLJtt4L)
+453 songs - 1 day 19 hr 2 min - [published](https://open.spotify.com/playlist/61jkU0pyUDv8PvEXLJtt4L)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -266,7 +266,7 @@
 | [Nobody’s Home](https://open.spotify.com/track/2jgNuCtykniRaYhvC2QNlI) | [Ulrich Schnauss](https://open.spotify.com/artist/4znPt0HV6Ik0iR8sR4GAJE) | [Far Away Trains Passing By](https://open.spotify.com/album/5smgSxCc73WBohUWoCt0uv) | 7:39 | 2022-04-13 | 2022-07-29 |
 | [Nocturnal Device](https://open.spotify.com/track/6uFOSreMa97WAzLd8GmtVO) | [Push Button Objects](https://open.spotify.com/artist/3KMR2Qv1uE6eNA0koPhvBz) | [A Day in a Life](https://open.spotify.com/album/2DmmmmMty8UL0R17HN4Iye) | 7:29 | 2022-04-13 | 2022-07-22 |
 | [Nodding Dogs](https://open.spotify.com/track/2JrdUkFGXOTOSUJT1HfyDW) | [Animals on Wheels](https://open.spotify.com/artist/3GDnlbIfCwWTAgv42tZshC) | [Designs & Mistakes](https://open.spotify.com/album/7HfCuaV6tGzX2AKUUjpmsd) | 5:37 | 2022-04-13 | 2022-07-29 |
-| [Norton Midgate](https://open.spotify.com/track/1IqnlaTGdTGyJ6aDhP3Bjw) | [Jega](https://open.spotify.com/artist/6ZYOrTXjWodrWyCuxGY5Yx) | [Phlax](https://open.spotify.com/album/43R7s8O3tJF2bNGs0FyB5Y) | 5:06 | 2022-04-13 | 2022-10-10 |
+| [Norton Midgate](https://open.spotify.com/track/1IqnlaTGdTGyJ6aDhP3Bjw) | [Jega](https://open.spotify.com/artist/6ZYOrTXjWodrWyCuxGY5Yx) | [Phlax](https://open.spotify.com/album/43R7s8O3tJF2bNGs0FyB5Y) | 5:06 | 2022-04-13 |  |
 | [Not Breached](https://open.spotify.com/track/4OuWSiVuaQV1ABtGEwcpgs) | [Wobbly](https://open.spotify.com/artist/0qNnLmgWCSxj07xjEmz5aN) | [Live 99>00](https://open.spotify.com/album/6a0xHZVu5vB7j8R4KGQffH) | 1:39 | 2022-04-13 | 2022-07-28 |
 | [Novelty Waves](https://open.spotify.com/track/2L6nlXElncXTL8aasIEoiQ) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Patashnik](https://open.spotify.com/album/6UUS4WcqqD75JY1v3w83cx) | 6:27 | 2022-04-13 |  |
 | [Nurture](https://open.spotify.com/track/4zcr3P7eoJmkRVYmERhXaR) | [LFO](https://open.spotify.com/artist/2M0T4a1pkOC5nifN9W6e9e) | [Frequencies](https://open.spotify.com/album/5HJhDqS70hQWNdOwQjY5b0) | 4:40 | 2022-04-13 |  |
@@ -277,7 +277,7 @@
 | [Olympic](https://open.spotify.com/track/3RV8gcq5wIo7npJpflreby) | [808 State](https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN) | [EX:EL](https://open.spotify.com/album/0PbQC8LnwDcO02TiiAlpWc) | 4:24 | 2022-04-13 | 2022-07-28 |
 | [On](https://open.spotify.com/track/4UYW3jllzFyWdaxob0UVMr) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [On](https://open.spotify.com/album/13yMvXe4YS3m2qFyC9aqID) | 7:12 | 2022-04-13 | 2022-07-29 |
 | [Open Eye Signal](https://open.spotify.com/track/6wMTeVootJ8RdCLNOZy5Km) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Immunity](https://open.spotify.com/album/1rxWlYQcH945S3jpIMYR35) | 7:48 | 2022-04-13 |  |
-| [Opto File 1](https://open.spotify.com/track/4wanjskAp43E4l97QhoogC) | [Opiate](https://open.spotify.com/artist/3NF6UnD0jD8UYkhRVmpf9O) | [While You Were Sleeping](https://open.spotify.com/album/3JvMEB9NDpvLfHWcri6ly4) | 5:08 | 2022-04-13 | 2022-11-11 |
+| [Opto File 1](https://open.spotify.com/track/4wanjskAp43E4l97QhoogC) | [Opiate](https://open.spotify.com/artist/3NF6UnD0jD8UYkhRVmpf9O) | [While You Were Sleeping](https://open.spotify.com/album/3JvMEB9NDpvLfHWcri6ly4) | 5:08 | 2022-04-13 |  |
 | [Orange Romeda](https://open.spotify.com/track/6vKJnXQ3k3BodEj0XXIt9T) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [We Are Reasonable People](https://open.spotify.com/album/2llsDTPNUbOw46ruEeGThR) | 4:51 | 2022-04-13 | 2022-07-28 |
 | [Overcome](https://open.spotify.com/track/5ILNucjBUVj0CkJAP6SIDL) | [Pub](https://open.spotify.com/artist/4nQPf3rgiGFYAtwdA0f0a6) | [Do You Ever Regret Pantomime?](https://open.spotify.com/album/2qA5yOiERUs21jrwRJXKFp) | 11:13 | 2022-04-13 | 2022-07-29 |
 | [Paintchart](https://open.spotify.com/track/6u0Xf1BYSEttaXjr8eUapN) | [Isan](https://open.spotify.com/artist/7a7MvRxJIoVblndypH8XgC) | [Beautronics Plus](https://open.spotify.com/album/1oKuAao1T85lcjeRSAoqtM) | 4:37 | 2022-04-13 |  |
@@ -364,7 +364,7 @@
 | [Speedlearn \(Empathy Mix\)](https://open.spotify.com/track/6RgnT9qHsV6ABo6Ett7uhW) | [Higher Intelligence Agency](https://open.spotify.com/artist/6DhBEniG8r8qDfe5quohYs) | [Colourform](https://open.spotify.com/album/4mTqs8onoAtoUIPXvJ0tO5) | 7:37 | 2022-04-13 |  |
 | [Spion Kop](https://open.spotify.com/track/4dYGJXVlF0zQ4DXmCeXVri) | [Quinoline Yellow](https://open.spotify.com/artist/4uwEYKmXiSHoIVwrPbXjl8) | [Dol\-Goy Assist](https://open.spotify.com/album/0XOfvgGpscZtdvm7J7mNL5) | 3:53 | 2022-04-13 | 2022-07-22 |
 | [Split Your Infinities](https://open.spotify.com/track/4rc4LXXaYhCw137yDhn922) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Tomorrow's Harvest](https://open.spotify.com/album/159ORixBSSemxiualv1Woj) | 4:28 | 2022-04-13 | 2022-07-28 |
-| [Stadt](https://open.spotify.com/track/2BeKSUJP7NxG5JeKSbXWeb) | [Pole](https://open.spotify.com/artist/2oAUWVDrNRE76jqj9IkVK6) | [2](https://open.spotify.com/album/1dzdJ9A6zQrnWRw9q7HeME) | 3:27 | 2022-04-13 |  |
+| [Stadt](https://open.spotify.com/track/2BeKSUJP7NxG5JeKSbXWeb) | [Pole](https://open.spotify.com/artist/2oAUWVDrNRE76jqj9IkVK6) | [2](https://open.spotify.com/album/1dzdJ9A6zQrnWRw9q7HeME) | 3:27 | 2022-04-13 | 2022-11-12 |
 | [Stadt](https://open.spotify.com/track/37deZrtDohtbpYLP2C64GG) | [Pole](https://open.spotify.com/artist/2oAUWVDrNRE76jqj9IkVK6) | [2](https://open.spotify.com/album/0XfSXKtkoH96wtOtW9eYQ2) | 3:27 | 2022-04-13 | 2022-07-29 |
 | [Star Time 2](https://open.spotify.com/track/5BfVQTg1s77qGzvcm6gfta) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [Just A Souvenir](https://open.spotify.com/album/5QFUEbiB4JpWgYP18GF5lk) | 5:02 | 2022-04-13 | 2022-07-26 |
 | [Starethrough \- Transition Mix](https://open.spotify.com/track/1p03UtzOhN62YFGKMZPBfj) | [Seefeel](https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f) | [Reduct](https://open.spotify.com/album/3mNZPQiVKNEvKp7mYhRQPd) | 5:04 | 2022-04-13 |  |
@@ -427,11 +427,12 @@
 | [Vic Acid](https://open.spotify.com/track/6TvXWDa7HYcZEnIyJ1hR6l) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [Vic Acid](https://open.spotify.com/album/4u1Pu42ql7MkdlNvbEEhk2) | 3:06 | 2022-04-13 | 2022-07-29 |
 | [Viimo](https://open.spotify.com/track/1xv6E9bFh5bmkINR5e72Q5) | [Brothomstates](https://open.spotify.com/artist/7dJoiDu6p9jcAESCcRYU0z) | [Claro](https://open.spotify.com/album/0XxwFrdmdzzoRWvNuSMGE9) | 8:12 | 2022-04-13 |  |
 | [Viral](https://open.spotify.com/track/5yVJghDg4UB789vqjWzqp5) | [Ad Vanz](https://open.spotify.com/artist/7Js3i7yNTyUx1E7pdQY7Tb), [Gescom](https://open.spotify.com/artist/15gVTrdUtcXOz3utK1GPp2) | [Split Series \#2](https://open.spotify.com/album/268l0v7Z48nJ8T3tQPfLTe) | 7:00 | 2022-04-13 | 2022-07-27 |
-| [Viral](https://open.spotify.com/track/6wnDHdEecId9KIDdcXr2W1) | [Ad Vanz](https://open.spotify.com/artist/7Js3i7yNTyUx1E7pdQY7Tb), [Gescom](https://open.spotify.com/artist/15gVTrdUtcXOz3utK1GPp2) | [Split Series \#2](https://open.spotify.com/album/6wkonozXeJjU2vFAI3GAxC) | 7:00 | 2022-04-13 |  |
+| [Viral](https://open.spotify.com/track/6wnDHdEecId9KIDdcXr2W1) | [Ad Vanz](https://open.spotify.com/artist/7Js3i7yNTyUx1E7pdQY7Tb), [Gescom](https://open.spotify.com/artist/15gVTrdUtcXOz3utK1GPp2) | [Split Series \#2](https://open.spotify.com/album/6wkonozXeJjU2vFAI3GAxC) | 7:00 | 2022-04-13 | 2022-11-12 |
 | [Volu Beit](https://open.spotify.com/track/32w0ZJctO0JnLJfJQYS2mU) | [Aelters](https://open.spotify.com/artist/5O2mG2SfsV7bs3yZ8zsD71) | [Volu Beit](https://open.spotify.com/album/43EgFiGv9qy8HMtVf7Sz8x) | 3:43 | 2022-04-13 | 2022-07-23 |
 | [Vortrack \- Fracture Remix](https://open.spotify.com/track/0NDBhXwLxahccS8iTeN8zX) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [Vortrack](https://open.spotify.com/album/2KeosWKGT5LNiBVr3czsZV) | 8:02 | 2022-04-13 | 2022-07-28 |
 | [Waiting for the Host](https://open.spotify.com/track/31JO77GxxfYQBIlTRULv6u) | [Atom TM](https://open.spotify.com/artist/2a8NW6dE2Igxb6LQXDhdgL) | [Dos Tracks/ :\)](https://open.spotify.com/album/1Z1lX3AG8anlt5oYYkCb3s) | 4:56 | 2022-04-13 | 2022-07-29 |
-| [Water From A Vine Leaf](https://open.spotify.com/track/0yVxhYqGFfwGeZRyqUERWx) | [William Orbit](https://open.spotify.com/artist/2AHGrNDMKFi8rHqQ8kJqfl) | [Strange Cargo 3](https://open.spotify.com/album/2jVaMMczB9Yurx55r4FoRw) | 7:04 | 2022-04-13 |  |
+| [Water From A Vine Leaf](https://open.spotify.com/track/00z9Rax2KTHqKLKYnGHzNk) | [William Orbit](https://open.spotify.com/artist/2AHGrNDMKFi8rHqQ8kJqfl) | [Best Of Strange Cargo](https://open.spotify.com/album/05o8RGynCcMIhKqWfl2mS9) | 7:01 | 2022-04-13 |  |
+| [Water From A Vine Leaf](https://open.spotify.com/track/0yVxhYqGFfwGeZRyqUERWx) | [William Orbit](https://open.spotify.com/artist/2AHGrNDMKFi8rHqQ8kJqfl) | [Strange Cargo 3](https://open.spotify.com/album/2jVaMMczB9Yurx55r4FoRw) | 7:04 | 2022-04-13 | 2022-11-12 |
 | [Water From A Vine Leaf](https://open.spotify.com/track/2XyXV61Fvo5ytBLvVRgTbX) | [William Orbit](https://open.spotify.com/artist/2AHGrNDMKFi8rHqQ8kJqfl) | [Strange Cargo III](https://open.spotify.com/album/2tdJzRmoFwJME9skwrPGew) | 7:05 | 2022-04-13 | 2022-07-29 |
 | [We Are All We Have](https://open.spotify.com/track/0NJHoc8onewG1Pr4mDJdwn) | [Anodyne](https://open.spotify.com/artist/46HAZTDJXaXL5dS9D5Jlwp) | [Decayed](https://open.spotify.com/album/18AMIcRykPQMNwQaBeca0a) | 6:24 | 2022-04-13 |  |
 | [Weathered Gate](https://open.spotify.com/track/6yQXDnC7BzrvcFej4hc27l) | [Locust](https://open.spotify.com/artist/5kytvmQqoeunOLa2LtIt1N) | [Weathered Well](https://open.spotify.com/album/0hEej2KGxKpMeRZfJa7vUv) | 7:30 | 2022-04-13 | 2022-07-29 |

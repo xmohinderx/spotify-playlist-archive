@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlw12ofHcMM.md) - [plain]
 
 > Bold tracks packing some serious swagger.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,347,197 likes - 110 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,347,190 likes - 110 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,7 +102,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlw12ofHcMM.md) - [plain]
 | 92 | [Trouble in Mind](https://open.spotify.com/track/0e3ElMapLJIe0uIchrFVBt) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Reskinned](https://open.spotify.com/album/4UwbVHSo5yrp4jkOIrKsRo) | 3:42 |
 | 93 | [I Feel Your Love \- Director's Cut](https://open.spotify.com/track/2H1dRtNUitddC5lt07W3Pp) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Short Movie \(Director's Cut\)](https://open.spotify.com/album/2hGp4zeWcLdeQ0iq7Uj52Q) | 2:53 |
 | 94 | [Long Live](https://open.spotify.com/track/5EEa9SITrIRlpj5yFn72iO) | [Devan DuBois](https://open.spotify.com/artist/7mFPzPaMTA7CHdNAWuAUIx) | [Le Fou](https://open.spotify.com/album/63EFCjfsEZqsXfK0PBKqu7) | 3:14 |
-| 95 | [Courage for Love](https://open.spotify.com/track/13bRDQE3zLg7JX6zoZQP6u) | [Jesper Munk](https://open.spotify.com/artist/7lS8dsCoC7M6QbNp3MRpmw) | [CLAIM](https://open.spotify.com/album/0pnpObbo9YZxQ9MzZ1A2Br) | 2:34 |
+| 95 | [Courage for Love](https://open.spotify.com/track/0dRRLda0fBJmROic0loS2r) | [Jesper Munk](https://open.spotify.com/artist/7lS8dsCoC7M6QbNp3MRpmw) | [Autumn Energy](https://open.spotify.com/album/02WN4DMcWmFDMiq6185cwN) | 2:34 |
 | 96 | [On the Road Again](https://open.spotify.com/track/1BQkVDlEOtYKOaotnJuNzz) | [Jack Broadbent](https://open.spotify.com/artist/2yk5jg6yi5fV6xmUZoBPHU) | [Along the Trail of Tears](https://open.spotify.com/album/6IcVeQFhXfXimexDoOYJoy) | 3:43 |
 | 97 | [When God Comes Back](https://open.spotify.com/track/2EvUjCWg5zeaeKxGeOaHPh) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [Lightning At The Door](https://open.spotify.com/album/4ViTtcecbZ1kjNAkZ4BYNh) | 3:33 |
 | 98 | [Diggin' for the Devil](https://open.spotify.com/track/3RVbbNzSF5ssXTuwaqU3lB) | [Flip Grater](https://open.spotify.com/artist/42RdLjlYHXrItRmmin0V0t) | [Pigalle](https://open.spotify.com/album/2F5z4VGrSwOwEFURgBz7oO) | 3:04 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlw12ofHcMM.md) - [plain]
 | 109 | [Moonlight](https://open.spotify.com/track/14wY5SJ4WoyMi5GLVeew4c) | [Jeremiah Tall](https://open.spotify.com/artist/11mBQlqUJqZCgqLCKQdhSP) | [Where the Lore Began](https://open.spotify.com/album/3LaoH7HZsER4wBPApBiwa9) | 1:51 |
 | 110 | [Bad Things](https://open.spotify.com/track/4VIDVd87GQcBSbofvDp8Pj) | [Jace Everett](https://open.spotify.com/artist/47DQBkDU2VieRG0aJUcPJs) | [Jace Everett](https://open.spotify.com/album/2bxVJbSsv2ldVqjnX58DtE) | 2:44 |
 
-Snapshot ID: `MTY1NzU3NDU5NiwwMDAwMDAwMGNlYTFmMzcxMWE2MGM1MmJiNGJkNWMwNzYyMGE0NWU1`
+Snapshot ID: `MTY1NzU3NDU5NiwwMDAwMDAwMDg4ZmZmYTA4ZTRlYzg4MzgyNDg4MTQ0MTVkOGI3NjM5`

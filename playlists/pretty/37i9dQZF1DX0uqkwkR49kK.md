@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uqkwkR49kK.md) - [plain]
 
 > A 100\-track collection of insanely good progressive rock creations, from classic acts like Rush, Yes, and Genesis to lesser\-known international gems\. Cover: Rush
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,562 likes - 100 songs - 15 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,692 likes - 100 songs - 15 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uqkwkR49kK.md) - [plain]
 | 9 | [Close to the Edge \(I\. The Solid Time of Change, II\. Total Mass Retain, III\. I Get up I Get Down, IV\. Seasons of Man\)](https://open.spotify.com/track/1oJ2a13bVN1RssKIWxKLe2) | [Yes](https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil) | [Close to the Edge](https://open.spotify.com/album/252LyflX4wUeISSzgL392F) | 18:38 |
 | 10 | [The Court Of The Crimson King \- Including "The Return of the Fire Witch" and "The Dance of the Puppets"](https://open.spotify.com/track/05xYoVj6QuFk0U7PVl5Tf2) | [King Crimson](https://open.spotify.com/artist/7M1FPw29m5FbicYzS2xdpi) | [In The Court Of The Crimson King \(Expanded & Remastered Original Album Mix\)](https://open.spotify.com/album/6tVg2Wl9hVKMpHYcAl2V2M) | 10:02 |
 | 11 | [Aqualung \- Steven Wilson Stereo Remix](https://open.spotify.com/track/3pexR2j9j8OJdlxZ9E4PV0) | [Jethro Tull](https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R) | [Aqualung](https://open.spotify.com/album/4ABoepBMa9pG5ZRqWicwgW) | 6:35 |
-| 12 | [Karn Evil 9 1st Impression, Pt\. 2 \- 2014 Remaster](https://open.spotify.com/track/0nDQu5i6B93GvUJH8iJ0y9) | [Emerson, Lake & Palmer](https://open.spotify.com/artist/0nCiidE5GgDrc5kWN3NZgZ) | [Brain Salad Surgery](https://open.spotify.com/album/1wTqdsmCCQQLCQjXZM3H59) | 4:45 |
+| 12 | [Karn Evil 9 1st Impression, Pt\. 2 \- 2014 Remaster](https://open.spotify.com/track/7kwH1GDFeVL01QNhGS2Ele) | [Emerson, Lake & Palmer](https://open.spotify.com/artist/0nCiidE5GgDrc5kWN3NZgZ) | [The Anthology](https://open.spotify.com/album/0frleTv0z2bVtd6ZwAr2LV) | 4:49 |
 | 13 | [Catherine Of Aragon](https://open.spotify.com/track/3bFue3Ib0IsxhkvM7BsIiS) | [Rick Wakeman](https://open.spotify.com/artist/0mkcYaXUbJUs5mJointuzB) | [The Six Wives Of Henry VIII](https://open.spotify.com/album/7KqisP47OG3PCtbLknLJPT) | 3:49 |
 | 14 | [Firth of Fifth](https://open.spotify.com/track/5SiNiJz8QZGJdk7WNvADt1) | [Genesis](https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50) | [Selling England by the Pound](https://open.spotify.com/album/7xaM3ah9ZO4BjrcFj5vOZe) | 9:37 |
 | 15 | [Heart of the Sunrise \- 2003 Remaster](https://open.spotify.com/track/7gC6Rbllqf1yXNC02e5jz2) | [Yes](https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil) | [Fragile \(Deluxe Edition\)](https://open.spotify.com/album/0dZF93WHyOhTWjz5EWM7yG) | 10:34 |
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uqkwkR49kK.md) - [plain]
 | 25 | [Echoes](https://open.spotify.com/track/3qEKk7UlpfPPMyfouHhgi6) | [Camel](https://open.spotify.com/artist/3Uz6jx81OY2J5K8Z4wmy2P) | [Breathless](https://open.spotify.com/album/1YRwNrwQKhQpEBUeLCtucL) | 7:20 |
 | 26 | [Leafy Meadows](https://open.spotify.com/track/7q84UlknHb4sIThLIERiVK) | [John Paul Jones](https://open.spotify.com/artist/6RhcZuUOb20IZvR8BbdnJX) | [The Thunderthief](https://open.spotify.com/album/7AIpDOQaIxlB3c1cEQhVRJ) | 5:10 |
 | 27 | [Legend Of A Mind](https://open.spotify.com/track/6Ol5tGTsZCtHmYY7EyWWEn) | [The Moody Blues](https://open.spotify.com/artist/5BcZ22XONcRoLhTbZRuME1) | [Nights In White Satin](https://open.spotify.com/album/1wQJqldAjmo4QgEXx0BTwU) | 6:36 |
-| 28 | [Trilogy \- 2015 Remaster](https://open.spotify.com/track/0TRzbNlR34FoO3HjHvb8FX) | [Emerson, Lake & Palmer](https://open.spotify.com/artist/0nCiidE5GgDrc5kWN3NZgZ) | [Trilogy \(Deluxe\)](https://open.spotify.com/album/4Swf9iftTTaoEPbPXyxxUQ) | 8:52 |
+| 28 | [Trilogy](https://open.spotify.com/track/4Aj68wDjVrplT35jk8wkeE) | [Emerson, Lake & Palmer](https://open.spotify.com/artist/0nCiidE5GgDrc5kWN3NZgZ) | [The Best of Emerson Lake & Palmer](https://open.spotify.com/album/3uYhG442MU4ca3ZsovlGVh) | 8:54 |
 | 29 | [Cloudburst Flight \- Remastered 2018](https://open.spotify.com/track/5uZWMQyED2WcpHwEkxtZBS) | [Tangerine Dream](https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl) | [In Search Of Hades \- The Virgin Recordings 1973 – 1979](https://open.spotify.com/album/6KJBqSxxDNRlePcILEDWvK) | 7:28 |
 | 30 | [The Gates of Delirium \- 2003 Remaster](https://open.spotify.com/track/4Yw37wsXSsz5V61IBS8cYh) | [Yes](https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil) | [Relayer \(Deluxe Edition\)](https://open.spotify.com/album/6MK9yp7hFeOLeR7F1hsBp6) | 21:49 |
 | 31 | [Ace Of Wands \- Remastered 2005](https://open.spotify.com/track/0Ll5xn9cgYYWYppP9bcnmK) | [Steve Hackett](https://open.spotify.com/artist/4vs7NIU7kZc2Efh6yOGKEZ) | [Voyage Of The Acolyte](https://open.spotify.com/album/4twSmtePdvfZhSpI2LV5W2) | 5:23 |
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uqkwkR49kK.md) - [plain]
 | 63 | [Fool's Overture](https://open.spotify.com/track/5pSSEkT0963muzzIjsVkrs) | [Supertramp](https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx) | [Even In The Quietest Moments](https://open.spotify.com/album/4X87hQ57jTYQTcYTaJWK5w) | 10:52 |
 | 64 | [Starless And Bible Black](https://open.spotify.com/track/7JfOID12YxfU9YImwbJqHL) | [King Crimson](https://open.spotify.com/artist/7M1FPw29m5FbicYzS2xdpi) | [Starless And Bible Black](https://open.spotify.com/album/2Eaep5bQ8I6ygLtzVJ2CWz) | 9:10 |
 | 65 | [Diary Of An Empty Day \- 2009 Digital Remaster](https://open.spotify.com/track/38er4l8Kt39Nvu3oE11dsR) | [The Nice](https://open.spotify.com/artist/5oHYrXNyCSEdacKCCrteMX) | [Autumn 1967 And Spring 1968](https://open.spotify.com/album/3K1odp989BdGYu2hZvd2ZQ) | 3:58 |
-| 66 | [Garden \- 2003 Remastered Version](https://open.spotify.com/track/5mOp43r4ByLSgYjTtLSqVd) | [The Groundhogs](https://open.spotify.com/artist/0c3RL3vVEgfxD6VBv7CGak) | [Thank Christ For The Bomb](https://open.spotify.com/album/5su5yHTN1f4O6IGHxhXarw) | 5:24 |
+| 66 | [Garden \- 2003 Remastered Version](https://open.spotify.com/track/04qmk935CEZ1fUmPV0rgwU) | [The Groundhogs](https://open.spotify.com/artist/0c3RL3vVEgfxD6VBv7CGak) | [Thank Christ For The Bomb \(50th Anniversary Edition\)](https://open.spotify.com/album/4eqjBQnVHdo98Xg2CnYRn5) | 5:24 |
 | 67 | [Remember the Future, Pt\. 1](https://open.spotify.com/track/1cMGXTWQ8AgfT0hZ5148YL) | [Nektar](https://open.spotify.com/artist/0n2Uel3CvQrmMsYLEfpO3s) | [Remember the Future \- 40th Anniversary Deluxe Edition](https://open.spotify.com/album/1hTsQKcpJeRZUPifJnyDOh) | 16:41 |
 | 68 | [Ice](https://open.spotify.com/track/59lEBBsEZsWurqAABsGTfk) | [Camel](https://open.spotify.com/artist/3Uz6jx81OY2J5K8Z4wmy2P) | [I Can See Your House from Here](https://open.spotify.com/album/16jsgpwPgaCGKDmzFNXW4H) | 10:18 |
 | 69 | [Phasors On Stun](https://open.spotify.com/track/5BY8dGGf3BaJ3isf87Gi8e) | [FM](https://open.spotify.com/artist/0WOZYC6Auxvg8pb6m15Wow) | [Black Noise](https://open.spotify.com/album/0rlAUicBfsAHnq0oUuWYTX) | 3:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uqkwkR49kK.md) - [plain]
 | 99 | [Tubular Bells \- Pt\. I](https://open.spotify.com/track/7ERSQrRptZVM7q3VOdM7OL) | [Mike Oldfield](https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn) | [Tubular Bells](https://open.spotify.com/album/0a3YQpBnRzJzNktOjb6Dum) | 26:01 |
 | 100 | [Peaches En Regalia](https://open.spotify.com/track/5uDu2qOoDou7cFXsipAo8l) | [Frank Zappa](https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN) | [Hot Rats](https://open.spotify.com/album/0WYYrC9My9rYWigac003hw) | 3:38 |
 
-Snapshot ID: `MTYyNzA2MTI0OCwwMDAwMDAwMGRlOTFmMWJkMzJmNzgxYjQ3YThiNDg2YzZlYjdiNDZj`
+Snapshot ID: `MTYyNzA2MTI0OCwwMDAwMDAwMDY4MTM1MjY4NDk2Y2YwMGRjNjA4ZGNhYmZlOTUyZWMz`

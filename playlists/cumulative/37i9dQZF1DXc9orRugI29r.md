@@ -4,7 +4,7 @@
 
 > ¡No busques más! La música del momento está aquí.
 
-167 songs - 8 hr 58 min - [published](https://open.spotify.com/playlist/5mEHUPoU1CDbg5pwZcKW2e)
+168 songs - 9 hr 2 min - [published](https://open.spotify.com/playlist/5mEHUPoU1CDbg5pwZcKW2e)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,8 @@
 | [eScoRpiÓn :\)](https://open.spotify.com/track/3IWV5aOW7cnfuYIZLucSan) | [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP), [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6) | [eScoRpiÓn :\)](https://open.spotify.com/album/6R7O6y1D6wSQ0JV40XRFyj) | 2:59 | 2022-06-17 |  |
 | [Espacio en Tu Corazón](https://open.spotify.com/track/0GIQqhTJpBvAUwThmUHbPj) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Espacio en Tu Corazón](https://open.spotify.com/album/1Jrh0ptfEVDJbLbhG8vQHd) | 2:58 | 2022-03-28 | 2022-11-05 |
 | [Estamos Aquí](https://open.spotify.com/track/74Ubz79KvXRUZWoJIIZl7f) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Estamos Aquí](https://open.spotify.com/album/6IbnsjiPCSJwhALs37S2Mu) | 3:02 | 2022-04-22 | 2022-07-29 |
-| [Face It Alone](https://open.spotify.com/track/3LkJaE6mfTskqEV8BUjHei) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Face It Alone](https://open.spotify.com/album/5LyejWyG4J1IoUHBsvL7ju) | 4:07 | 2022-10-13 |  |
+| [Face It Alone](https://open.spotify.com/track/3LkJaE6mfTskqEV8BUjHei) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Face It Alone](https://open.spotify.com/album/5LyejWyG4J1IoUHBsvL7ju) | 4:07 | 2022-10-13 | 2022-11-12 |
+| [Face It Alone](https://open.spotify.com/track/4Pdd0rUKJeK9LHE2WotEP8) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Classic Rock Gems](https://open.spotify.com/album/3Q0R296AVU8k5BrSrrV3JN) | 4:07 | 2022-10-13 |  |
 | [Fuego](https://open.spotify.com/track/6iDZO7Qbi9R0L54D7DiJVV) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A) | [Fuego](https://open.spotify.com/album/1tsrmxpNWTOr3WMX7cmVd3) | 3:19 | 2022-09-13 |  |
 | [Fuera del mercado](https://open.spotify.com/track/1UdzJEpgJxtuXAlCOvD4S0) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [@dannocean](https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I) | 2:39 | 2022-03-03 | 2022-10-07 |
 | [GATÚBELA](https://open.spotify.com/track/1ga4PztXOIw1yBbdUt2X8v) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Maldy](https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9) | [GATÚBELA](https://open.spotify.com/album/5FdSjtKiymlHrdbXDyXcxA) | 3:29 | 2022-09-01 |  |

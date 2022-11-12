@@ -2,9 +2,9 @@
 
 ### [K\-Pop ON! \(온\)](https://open.spotify.com/playlist/37i9dQZF1DX9tPFwDMOaN1)
 
-> Let's turn ON the movement! Cover: LE SSERAFIM
+> Let's turn ON the movement! Cover: Xdinary Heroes
 
-208 songs - 11 hr 18 min - [published](https://open.spotify.com/playlist/05j7NY1SwyJ5jKPj2s00I0)
+209 songs - 11 hr 22 min - [published](https://open.spotify.com/playlist/05j7NY1SwyJ5jKPj2s00I0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Beatbox](https://open.spotify.com/track/0CatzXH85XWyBqqdB6qPMB) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Beatbox \- The 2nd Album Repackage](https://open.spotify.com/album/4sM1qNxjzxOvoH6jeFHx3W) | 3:25 | 2022-05-30 | 2022-10-01 |
 | [Beautiful](https://open.spotify.com/track/2TGniNBlW1mBJFxvSLZ4SA) | [NCT 2021](https://open.spotify.com/artist/5Qnl3RAtzne7J1dxRv1UBc) | [Universe \- The 3rd Album](https://open.spotify.com/album/3oc1LdV5V128z8fCtAX3Xs) | 4:21 | 2021-12-20 | 2022-01-28 |
 | [Beautiful \(Part.3\)](https://open.spotify.com/track/3xQH4yPHm6qVmV0JH7iaT5) | [Wanna One](https://open.spotify.com/artist/2CvaqAMMsX576VBehaJ0Wx) | [B\-Side](https://open.spotify.com/album/5BaFlgq8oi3I0ql6zj1gmu) | 3:54 | 2022-01-27 | 2022-03-16 |
-| [BEAUTIFUL MONSTER](https://open.spotify.com/track/56s2s5e8WuBsWVKnmz6J9L) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [WE NEED LOVE](https://open.spotify.com/album/04EniWu488MF6louRYafKJ) | 3:00 | 2022-07-29 |  |
+| [BEAUTIFUL MONSTER](https://open.spotify.com/track/56s2s5e8WuBsWVKnmz6J9L) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [WE NEED LOVE](https://open.spotify.com/album/04EniWu488MF6louRYafKJ) | 3:00 | 2022-07-29 | 2022-11-12 |
 | [Beauty and the Beast](https://open.spotify.com/track/6cLwgFQvn69ATT9GX7hCIs) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [Beauty and the Beast](https://open.spotify.com/album/1y4bPlGZWzzZtVCuHbQ8gS) | 4:24 | 2022-01-12 | 2022-02-04 |
 | [Best Lover](https://open.spotify.com/track/0iWFz0Q5Qha9bx325ocFWq) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Head In The Clouds Forever](https://open.spotify.com/album/0LxjjZ20pPOakBSYwrmbjv) | 2:32 | 2022-05-11 | 2022-07-14 |
 | [Blessed\-Cursed](https://open.spotify.com/track/7ecbsiAQ6PNdiAq0hplVZo) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : ANSWER](https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5) | 2:50 | 2022-01-10 | 2022-05-28 |
@@ -86,6 +86,7 @@
 | [Good Person \(2022\)](https://open.spotify.com/track/0lbtRkC7Bs9aR3ZYvtZydi) | [HAECHAN](https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3) | [Good Person \(2022\)](https://open.spotify.com/album/5RZrivX6GuIijYW0A2ippm) | 4:40 | 2022-03-28 | 2022-06-11 |
 | [Grey Suit](https://open.spotify.com/track/40wEuG76R9nFumrBp6PHwm) | [SUHO](https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m) | [Grey Suit \- The 2nd Mini Album](https://open.spotify.com/album/7tZyxlG9PNEBwrxMbIJdoB) | 3:42 | 2022-04-07 | 2022-06-03 |
 | [Guerrilla](https://open.spotify.com/track/0tYZo2UhV1lrUez5CA0Iyw) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.1 : MOVEMENT](https://open.spotify.com/album/3fgDrbflffzvV3H3plG9e6) | 3:27 | 2022-07-29 | 2022-10-29 |
+| [Hair Cut](https://open.spotify.com/track/4ZYSJfjSuR1XqcUPaTxjuG) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Overload](https://open.spotify.com/album/76XckkqatimbtN2NspL4N5) | 3:25 | 2022-11-11 |  |
 | [Happy Death Day](https://open.spotify.com/track/3a4VCqofc7Wf7cqfZYu2Ad) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Happy Death Day](https://open.spotify.com/album/3kA1SlUEM2Qt52prtDTuWr) | 3:40 | 2021-12-13 | 2022-03-01 |
 | [Heart Burn](https://open.spotify.com/track/4JmbtS0Muijl37KP9lDscy) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Heart Burn](https://open.spotify.com/album/0ahb3lp7jXxKUx3beS7AVu) | 3:13 | 2022-07-01 | 2022-10-13 |
 | [Heartbreak](https://open.spotify.com/track/6WXPFH6mNO8rvVnKeD5DX7) | [MINHO](https://open.spotify.com/artist/08uRwDeNv1d7FSwlOUZdSn) | [Heartbreak](https://open.spotify.com/album/3fBvUvHlkT8bnQtJ8wD51Y) | 3:24 | 2021-12-24 | 2022-01-27 |

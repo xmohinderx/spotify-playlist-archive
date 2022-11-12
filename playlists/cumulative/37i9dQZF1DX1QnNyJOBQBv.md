@@ -2,9 +2,9 @@
 
 ### [Latin Pop Today](https://open.spotify.com/playlist/37i9dQZF1DX1QnNyJOBQBv)
 
-> The hottest Latin pop hits right now\. Cover: Reik & Rusherking
+> The hottest Latin pop hits right now\. Cover: Pablo Alborán & Maria Becerra
 
-209 songs - 10 hr 58 min - [published](https://open.spotify.com/playlist/1C2XqxMOTFW3XGWn44uwXh)
+210 songs - 11 hr 2 min - [published](https://open.spotify.com/playlist/1C2XqxMOTFW3XGWn44uwXh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [AMANTES](https://open.spotify.com/track/3Q7o2zzvXj7QiSCumjBpvu) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Daviles de Novelda](https://open.spotify.com/artist/6E94QKXZv8BbO6QQJxcxLI) | [AMANTES](https://open.spotify.com/album/2yEEceuPovV5sAoey4GUJF) | 3:00 | 2022-10-26 |  |
 | [Amapolas \- Remix](https://open.spotify.com/track/44QxiGlmeSpF8boud04Rkc) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Amapolas \(Remix\)](https://open.spotify.com/album/1vgLiqD7LfGkuymUPdAB2U) | 4:27 | 2021-12-16 | 2022-03-05 |
 | [Amigos](https://open.spotify.com/track/0opSeJdqFHa0iNGqJ3DtmE) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Amigos](https://open.spotify.com/album/1cmfRzoYIlDaAmFUUypaDB) | 2:26 | 2022-01-28 | 2022-09-10 |
+| [Amigos \(con Maria Becerra\)](https://open.spotify.com/track/34tHZJLk0adg5tW49iybbE) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Amigos \(con Maria Becerra\)](https://open.spotify.com/album/3znR1F0VbgfKsDyTeC0Nt8) | 3:53 | 2022-11-11 |  |
 | [Amor Pasajero](https://open.spotify.com/track/2AQrDkF3XiC3xCkAM4OkJx) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Amor Pasajero](https://open.spotify.com/album/3ZufYhU3vzNGPNMq5pO7ls) | 2:32 | 2022-01-10 | 2022-09-24 |
 | [Apretaito](https://open.spotify.com/track/0cW5cXANjlv8hgLAQwdvgE) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Apretaito](https://open.spotify.com/album/0aMqp2gRJQjhVZmHkuTtfL) | 3:19 | 2022-04-15 | 2022-09-24 |
 | [ARRANCARMELO](https://open.spotify.com/track/2x8oBuYaObjqHqgGuIUZ0b) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [ARRANCARMELO](https://open.spotify.com/album/4KFUPud6oSm5IgLwnGkzPt) | 3:03 | 2022-04-20 | 2022-09-22 |

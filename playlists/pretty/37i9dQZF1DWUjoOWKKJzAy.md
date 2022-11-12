@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjoOWKKJzAy.md) - [plain]
 
 > Os hits históricos da década de ouro do rock nacional\. Foto: Cazuza.
 
-[Spotify](https://open.spotify.com/user/spotify) - 268,788 likes - 60 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,101 likes - 60 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjoOWKKJzAy.md) - [plain]
 | 3 | [Tempo Perdido](https://open.spotify.com/track/7MnT7msJZg3XBAS0OTfGrB) | [Legião Urbana](https://open.spotify.com/artist/6tw6EpC9RgmSRZiZg0n22t) | [Dois](https://open.spotify.com/album/4OCJTpOLqSgysGY4yBCGhn) | 5:02 |
 | 4 | [Pintura íntima](https://open.spotify.com/track/4s7Me2OrjR7tIeeiWmZnK5) | [Kid Abelha](https://open.spotify.com/artist/4bOZtegYNmYOe3gMgPtt0H) | [Geração Anos 80](https://open.spotify.com/album/3O0pVgRXK60WPrRVedzRem) | 4:25 |
 | 5 | [Bete Balanço](https://open.spotify.com/track/3j7dPWGbvPBTLWiYvXOS95) | [Barão Vermelho](https://open.spotify.com/artist/5zq0SGWxrmzpTSXkBEQzMj) | [Melhores Momentos](https://open.spotify.com/album/2jGyiRzQpIUs4ZATSHzUVa) | 3:33 |
-| 6 | [Independência](https://open.spotify.com/track/4vFUs0A9jyeCZ6pwVBjs2g) | [Capital Inicial](https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d) | [Flashback Anos 80](https://open.spotify.com/album/1mKCvVc1yy8WBKTrLkRYrq) | 3:04 |
+| 6 | [Independência](https://open.spotify.com/track/6H20sp8DxaXk0DBPWR7nW9) | [Capital Inicial](https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d) | [MPB Anos 80](https://open.spotify.com/album/5glUQpAm9Jk7PeeaVieiEB) | 3:04 |
 | 7 | [Me Chama](https://open.spotify.com/track/6YEs08eeTPKqODQV6TFI0t) | [Lobão E Os Ronaldos](https://open.spotify.com/artist/09RGwhs3waXp27qkYuNRap) | [Ronaldo Foi Pra Guerra](https://open.spotify.com/album/0KdU1xRKnsMO85sAfLZQBH) | 3:42 |
 | 8 | [Uns Dias](https://open.spotify.com/track/1n9CxdqkfJBG7Q801V8MA5) | [Os Paralamas Do Sucesso](https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70) | [Nacional Anos 80](https://open.spotify.com/album/2ZNp1JhzWK58RZirU9rlz2) | 4:04 |
 | 9 | [Todo Amor Que Houver Nessa Vida](https://open.spotify.com/track/175WlvkHzAeMgD2aXEZsiv) | [Barão Vermelho](https://open.spotify.com/artist/5zq0SGWxrmzpTSXkBEQzMj) | [Melhores Momentos](https://open.spotify.com/album/2jGyiRzQpIUs4ZATSHzUVa) | 2:16 |
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjoOWKKJzAy.md) - [plain]
 | 28 | [Como uma onda \- Zen\-surfismo](https://open.spotify.com/track/2RBGbLDceAHxJ0w2Pfxnzn) | [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1) | [O Último Romântico](https://open.spotify.com/album/404H4FNKYVOGzzXCT9GLD7) | 3:37 |
 | 29 | [Nós vamos invadir sua praia \- Avenida](https://open.spotify.com/track/7LgxYvP8zzKSapwngbxAeU) | [Ultraje a Rigor](https://open.spotify.com/artist/3zkkrMSBLHuTKMI6I3fDWi) | [O mundo encantado do Ultraje a Rigor](https://open.spotify.com/album/1smKZUszVuPtaDHFlGPEwY) | 4:14 |
 | 30 | [Sonífera ilha](https://open.spotify.com/track/1mK7rqBmWWFvU1huYnsPGq) | [Titãs](https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl) | [84 94 \- Volume 1](https://open.spotify.com/album/7ve69fgxLJKauNa5cGelKV) | 2:54 |
-| 31 | [Você Não Soube Me Amar](https://open.spotify.com/track/1oFImXYOcGQNmMsewaEj2W) | [Blitz](https://open.spotify.com/artist/1POsQml4E21Ku75BirHFMQ) | [Retratos](https://open.spotify.com/album/4i925vFjSrHT6Q8ALj8H1y) | 3:22 |
+| 31 | [Você Não Soube Me Amar](https://open.spotify.com/track/0ZgYkbn97uZnXLUopVFTvU) | [Blitz](https://open.spotify.com/artist/1POsQml4E21Ku75BirHFMQ) | [Flashback Anos 80](https://open.spotify.com/album/1mKCvVc1yy8WBKTrLkRYrq) | 3:23 |
 | 32 | [Olhar 43](https://open.spotify.com/track/1oar565TIGGsQXjAMoCJdK) | [RPM](https://open.spotify.com/artist/7lfmakKFOeQWdUrbmVK6EQ) | [Revoluções por Minuto](https://open.spotify.com/album/1hbH0q0Ff3BRP2iuwLd5om) | 3:03 |
 | 33 | [O último romântico](https://open.spotify.com/track/7MyJB1WvzUmbIQpwqLmvY6) | [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1) | [O Último Romântico 2](https://open.spotify.com/album/0oCdYFyqznjyMorvtESrNV) | 4:12 |
 | 34 | [Terra de Gigantes](https://open.spotify.com/track/1ikL8Lemlm3N58ahyLxIvP) | [Engenheiros Do Hawaii](https://open.spotify.com/artist/0GNq4xh8uFCyihPurnunf7) | [A Revolta Dos Dandis](https://open.spotify.com/album/3EYoZQUIKrDPd1teAZbSsC) | 3:55 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjoOWKKJzAy.md) - [plain]
 | 59 | [Totalmente Demais](https://open.spotify.com/track/6exOFodN8hAuPrD8NdXYN9) | [Hanoi Hanoi](https://open.spotify.com/artist/2TSkQV59O7ELjzRAsr13Kh) | [Hanoi\-Hanoi](https://open.spotify.com/album/16oTnKtddDj0aXdkDWkcSi) | 3:01 |
 | 60 | [Eu Não Matei Joana d'Arc](https://open.spotify.com/track/5I8DslpztOwOpwERbGGDTC) | [Camisa de Vênus](https://open.spotify.com/artist/6kJHpEjr5eNnVJeyfTbs3G) | [Batalhões de Estranhos](https://open.spotify.com/album/5Le2qjifHoAvAO0Yzl8E7T) | 3:45 |
 
-Snapshot ID: `MTYwMjgxNzI2MCwwMDAwMDAwMGQxMWE3Yjk3ZDQ1ZGU5MTkxNDU1MDQ0ZTdmMThkNzZj`
+Snapshot ID: `MTYwMjgxNzI2MCwwMDAwMDAwMDFkMWVkMGJhZjAwY2RlNGM2ZmQwYWQzZTk5ZDZlMDVl`

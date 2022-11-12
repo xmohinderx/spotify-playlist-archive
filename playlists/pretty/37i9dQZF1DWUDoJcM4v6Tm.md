@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUDoJcM4v6Tm.md) - [plain]
 
 > Explore a sprawling musical landscape.
 
-[Spotify](https://open.spotify.com/user/spotify) - 705,800 likes - 125 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 705,893 likes - 125 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUDoJcM4v6Tm.md) - [plain]
 | 62 | [The Roundabout](https://open.spotify.com/track/10QvTOyNpzBZpctcbP1tY1) | [Ryley Walker](https://open.spotify.com/artist/7xwppARWdjgnJSKLhbGzFc) | [The Roundabout](https://open.spotify.com/album/27gVRqHKsrlPniSNE4IPza) | 4:41 |
 | 63 | [Go Home](https://open.spotify.com/track/1OQZH2Rh26jnBMqDzhNpyD) | [Methal](https://open.spotify.com/artist/1pLnT9EAEcfbSC2vUhR52I) | [Untitled](https://open.spotify.com/album/0ogh83gdjE30byLfC4K128) | 2:59 |
 | 64 | [Glass](https://open.spotify.com/track/67n7BReUXzA0A499f2wEoh) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Pieces EP](https://open.spotify.com/album/3N5G5x5hRAnJ1V1BQTOJaB) | 3:19 |
-| 65 | [All Is Well](https://open.spotify.com/track/3KAQ4xe2sR6IiltZw8HSA5) | [Austin Basham](https://open.spotify.com/artist/3Dd1WVQvZUgyi9XEqOIPhA) | [You and Me for Now](https://open.spotify.com/album/5KPl7k36JzLxe4bisDG8S4) | 4:16 |
-| 66 | [Let You Go](https://open.spotify.com/track/3Q5EDW5YtRcnrWS2fTFnw1) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Blood Moon](https://open.spotify.com/album/2jCMxN3Ys1PCq6FQBEwM5L) | 3:52 |
+| 65 | [All Is Well](https://open.spotify.com/track/27B803q0KBf9fmoAAK7V9h) | [Austin Basham](https://open.spotify.com/artist/3Dd1WVQvZUgyi9XEqOIPhA) | [Linton / / Oslo](https://open.spotify.com/album/7c88HZqfqsdRmc7XqYBGny) | 4:16 |
+| 66 | [Let You Go](https://open.spotify.com/track/2B9kz98zs5ssTPCkp4aQxd) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Your Love](https://open.spotify.com/album/2Sq6apKgS1lqfbwrmOrkl7) | 3:52 |
 | 67 | [Untamed](https://open.spotify.com/track/6uGCeKQehERWqyxICGhMwd) | [Eddie Berman](https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql) | [Before the Bridge](https://open.spotify.com/album/3xY0Wdf37DDDWjyi89g9pj) | 3:58 |
 | 68 | [By My Demon Eye](https://open.spotify.com/track/7wczUOYFtyhSx7Oa5xPlQu) | [This Is The Kit](https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo) | [Moonshine Freeze](https://open.spotify.com/album/5RYg5ZR0qfRebkseuqlGJj) | 3:57 |
 | 69 | [Break Me Open](https://open.spotify.com/track/24DK3nZUzwGYx6xzBXOz3V) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Break Me Open](https://open.spotify.com/album/3GnC2xEY4b6wowL2eBIwGc) | 3:03 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUDoJcM4v6Tm.md) - [plain]
 | 71 | [Ain't That The Way](https://open.spotify.com/track/2iOtS7FirPS1rhCLxmFJVl) | [Holy Hive](https://open.spotify.com/artist/1AcZuMRjIAdmksbzApOXnw) | [Holy Hive](https://open.spotify.com/album/5w6iYBCbAgRq8RMuytCAka) | 2:53 |
 | 72 | [Time Goes By](https://open.spotify.com/track/79hHJJYoPa6tzfdY9J7vJB) | [Jessie Reid](https://open.spotify.com/artist/5KjGwF0TkKmKSC42Mtq2VV) | [Time Goes By](https://open.spotify.com/album/466j1RDx8JJzz6h7FbOYaB) | 3:06 |
 | 73 | [Body](https://open.spotify.com/track/2vcMyAI9devdUFFPpXBXB0) | [Amy May Ellis](https://open.spotify.com/artist/5pOd5z4DlRc6Mw2nnBsad9) | [Where My Garden Lies](https://open.spotify.com/album/0cjynJA4dVQBkE2vYddzye) | 3:05 |
-| 74 | [Flags](https://open.spotify.com/track/3mRViwFBCegDxjCsvOf5gO) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Flags](https://open.spotify.com/album/3Vr2VwZd7MHd1Sf0V7uYAz) | 3:29 |
+| 74 | [Flags](https://open.spotify.com/track/3ql8DrwdVR7j3UmP4n2mAv) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Sad](https://open.spotify.com/album/29tlrcytHvDIfGeKT0VYUX) | 3:29 |
 | 75 | [Burden](https://open.spotify.com/track/7HOTm58hiTnCjpSJq4OvJs) | [St\. Catherine's Child](https://open.spotify.com/artist/3szGfag8AiviPVbSmXewBK) | [Burden](https://open.spotify.com/album/6F0IlXWoKvO6YOS1v7PIhF) | 3:41 |
 | 76 | [Whiskey Whiskey](https://open.spotify.com/track/3ZtroyelAFtdQf9ql9Dqbd) | [Joshua Burnside](https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV) | [And You Evade Him / Born in the Blood](https://open.spotify.com/album/6oHSZUOpJDThDiHdLQbskr) | 2:49 |
 | 77 | [Unbound \- Live from Spotify, London](https://open.spotify.com/track/75zBbNqBhPjsMd8UY3k5B7) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Spotify Live](https://open.spotify.com/album/315m5F9Xqwhfptakbs0fG8) | 3:57 |
@@ -115,7 +115,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUDoJcM4v6Tm.md) - [plain]
 | 105 | [Johnny](https://open.spotify.com/track/4WDtGj1M2HFlcjvYIiRFug) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [World On The Ground](https://open.spotify.com/album/7vI29Msu8k0wpFUittUvAH) | 3:59 |
 | 106 | [Bloodbuzz Ohio](https://open.spotify.com/track/6VaUCACDvyJhcfQIrkgCzZ) | [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [Bloodbuzz Ohio](https://open.spotify.com/album/3FAtFkpKEdSkgz3i4iUc0z) | 4:39 |
 | 107 | [Cleansed by Fire](https://open.spotify.com/track/2pmasgMBMNMLTHg9oRvWD0) | [Johanna Warren](https://open.spotify.com/artist/2K5c4N7j15hUwrvv0ejlvV) | [Gemini II \(Deluxe Edition\)](https://open.spotify.com/album/5mTFCwPlRynfgx8qTCg8qK) | 4:55 |
-| 108 | [Nimbin](https://open.spotify.com/track/0HrkzfsTe9A1sQqlX52i54) | [Mappe Of](https://open.spotify.com/artist/02Zxif3WoHx6ujXBSfBKOr) | [A Northern Star, A Perfect Stone \(2021\)](https://open.spotify.com/album/4SO25UH7HeZSVGNzHhYiCJ) | 4:43 |
+| 108 | [Nimbin](https://open.spotify.com/track/5ohfcfo1LaYZKJqbZ8dhCr) | [Mappe Of](https://open.spotify.com/artist/02Zxif3WoHx6ujXBSfBKOr) | [Nimbin](https://open.spotify.com/album/2ipeWOlIGpTe5wLMIp17K9) | 4:43 |
 | 109 | [Bobby](https://open.spotify.com/track/0mW58kig39aueBh99f6yGz) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Lice](https://open.spotify.com/album/4olGUJUS3SjAZuqdkPnr9s) | 3:25 |
 | 110 | [How It Gets In \(feat\. Julien Baker\)](https://open.spotify.com/track/0jcAmr7hBv8VYVwPvpl4Aa) | [Frightened Rabbit](https://open.spotify.com/artist/6fVcDUckTwxqg56qNsEvUr), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Recorded Songs](https://open.spotify.com/album/2N1Z1w6GCGtLDfn7ePvSk0) | 2:41 |
 | 111 | [Cigarette](https://open.spotify.com/track/4s4BIvTUw4u42s6iKBqFtH) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [I'm Not Your Man](https://open.spotify.com/album/6cDRHxpDNgEMgmkCIVdlP2) | 2:37 |
@@ -129,9 +129,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUDoJcM4v6Tm.md) - [plain]
 | 119 | [Until We Get There \- Acoustic](https://open.spotify.com/track/3rBjagU6UnTMXVjxKN3UfU) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [NUDES](https://open.spotify.com/album/4CJOeZrzjHBiLXEusekD5y) | 3:50 |
 | 120 | [Understanding Light](https://open.spotify.com/track/3igIPV6R0jdC4rJ98dZckN) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [If Blue Could Be Happiness](https://open.spotify.com/album/6Urg55LAGNL5QKM0bz8g2v) | 4:19 |
 | 121 | [Regret](https://open.spotify.com/track/207ulvN039r42rKRX4pD8v) | [Wye Oak](https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB) | [If Children](https://open.spotify.com/album/5DzXM9YcY99gfgHBHOjioI) | 2:25 |
-| 122 | [Mind on Fire](https://open.spotify.com/track/4LEdX9NFK0tVB5anrAIi1q) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Pendulum](https://open.spotify.com/album/64uKH4UnWHG6Ea960CSChE) | 3:14 |
+| 122 | [Mind on Fire](https://open.spotify.com/track/3n3PVJbIY4NVSkrxQUYD1X) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Mind on Fire](https://open.spotify.com/album/5trx5tQegiqMUs45EPPFNp) | 3:14 |
 | 123 | [Miss Misanthrope](https://open.spotify.com/track/7mri02aDosckFbxodKzwIB) | [Jealous of the Birds](https://open.spotify.com/artist/3S8P24WjZtVNaPLeXjaCJm) | [Parma Violets](https://open.spotify.com/album/416CSUTbcoECbM7HwseyBV) | 3:55 |
 | 124 | [Gutter Heart \- Acoustic Version](https://open.spotify.com/track/3QQD8AnSMwDYf8NQ585CqR) | [Matthew And The Atlas](https://open.spotify.com/artist/0lSENl3bteP8p2NbiSP7RM) | [Temple \(Unplugged\)](https://open.spotify.com/album/7FAc0Om3wUx1X87f01EFvW) | 3:39 |
 | 125 | [Secret \- Acoustic](https://open.spotify.com/track/7khUiiyqFAluYRsw1ZKcWS) | [Angel Snow](https://open.spotify.com/artist/4awtkia1cywuwJ2OrxNw6j) | [Secret \(Acoustic\)](https://open.spotify.com/album/4YAWFrz6K5VyNQcg8eK7B3) | 3:10 |
 
-Snapshot ID: `MTY1NDcyODE0OSwwMDAwMDAwMDllMjE5YmJjMDBlZjU0YWYwNGI5NTVjMWI2YWQwZTQy`
+Snapshot ID: `MTY1NDcyODE0OSwwMDAwMDAwMDRhOGJiZDJkNmI1YTEwMzQ3MWQ4NmMxZGI3N2NmMzBj`

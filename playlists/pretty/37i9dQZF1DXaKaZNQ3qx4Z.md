@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKaZNQ3qx4Z.md) - [plain]
 
 > Los grandes éxitos de Shakira y Alejandro Sanz en un mismo lugar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,331 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,448 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKaZNQ3qx4Z.md) - [plain]
 | 16 | [Pies Descalzos, Sueños Blancos](https://open.spotify.com/track/5yKQTwznar5I75UyYJ9CnR) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Pies Descalzos](https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9) | 3:25 |
 | 17 | [Desde cuando \- \(iTunes exclusive\)](https://open.spotify.com/track/38EI0NudWZT1qFuhEafIHh) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Paraiso Express](https://open.spotify.com/album/0WSmZjtSlfaMoJjrhj7R7z) | 3:55 |
 | 18 | [La Bicicleta](https://open.spotify.com/track/0Gx4VrHzS7pZOEAGrmXXBH) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [VIVES](https://open.spotify.com/album/57giaIaMyAVCS7jMIaoIgK) | 3:49 |
-| 19 | [Mi Marciana](https://open.spotify.com/track/64jEPUJdZzI4sdivFkR4A7) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [La Música No Se Toca \(Deluxe\)](https://open.spotify.com/album/5O5LrflUeCNwNAsCQ5o0jk) | 4:53 |
+| 19 | [Mi Marciana](https://open.spotify.com/track/4OJxy27WGhMaj3TsYjtUF6) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Temones de Oro](https://open.spotify.com/album/19ql3oUFXbCJBzGz2uJW4v) | 4:53 |
 | 20 | [Whenever, Wherever](https://open.spotify.com/track/2lnzGkdtDj5mtlcOW2yRtG) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Laundry Service](https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV) | 3:16 |
 | 21 | [Amiga mía](https://open.spotify.com/track/73MuQb9jIoryiOig4hDQhT) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Grandes exitos 1997\-2004](https://open.spotify.com/album/2InFQlv0Qyb9z4zGe9P8iK) | 4:50 |
 | 22 | [Donde Estas Corazon](https://open.spotify.com/track/6IGvaQ4aFBjy66TdUurIiA) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Pies Descalzos](https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9) | 3:51 |
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKaZNQ3qx4Z.md) - [plain]
 | 33 | [Antes de las Seis](https://open.spotify.com/track/5J5uyhoBZxJwmjy2Zg6DgF) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Sale el Sol](https://open.spotify.com/album/3gR578qnw47M30LVBTjrlW) | 2:54 |
 | 34 | [Mi Persona Favorita](https://open.spotify.com/track/1O4dGIPUXUanseRdv4fNzw) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [\#ELDISCO](https://open.spotify.com/album/3RSownGSkhJPRmzLddzsUd) | 3:59 |
 | 35 | [Te Dejo Madrid](https://open.spotify.com/track/3ToWC9JYSmDIa9yJs0k6PO) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Laundry Service](https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV) | 3:06 |
-| 36 | [A Que No Me Dejas](https://open.spotify.com/track/26aH2Io0AU0LWgB12Pcvmo) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Sirope](https://open.spotify.com/album/3yLDXQ4DGUeDmaWxQTdbhc) | 5:11 |
+| 36 | [A Que No Me Dejas](https://open.spotify.com/track/7LvEijW9mTwtvZmXJqsGLL) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Tardes de pastelería](https://open.spotify.com/album/3xlf7yklqbSvWPcUx1QVuh) | 5:21 |
 | 37 | [No Me Compares](https://open.spotify.com/track/6pZmdSXGVzlYG2FJvSOZod) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [La Música No Se Toca \(Deluxe\)](https://open.spotify.com/album/5O5LrflUeCNwNAsCQ5o0jk) | 4:38 |
 | 38 | [No \(feat\. Gustavo Cerati\)](https://open.spotify.com/track/0J6dOwflFSy3h1AoKmkqKc) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Fijación Oral, Vol\. 1](https://open.spotify.com/album/3zHPYwiMJqa3hTBgk695Ae) | 4:45 |
 | 39 | [Siempre es de noche](https://open.spotify.com/track/6ZL2hqLpDdMzDkxIp7I7aZ) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Más](https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI) | 4:48 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKaZNQ3qx4Z.md) - [plain]
 | 47 | [Ese último momento](https://open.spotify.com/track/28BEKhx2Whkoygyzzk4rS2) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Más](https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI) | 5:06 |
 | 48 | [Mi Verdad \(feat\. Shakira\)](https://open.spotify.com/track/3fLULPPtmfVkGMnwAhHAij) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Mi Verdad \(feat\. Shakira\)](https://open.spotify.com/album/0sdNte5fJ855Bcut5yF9Sv) | 4:32 |
 | 49 | [Pero Tú](https://open.spotify.com/track/37V0AO2Eoo9idsk99tL2Qy) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Sirope](https://open.spotify.com/album/3yLDXQ4DGUeDmaWxQTdbhc) | 4:42 |
-| 50 | [Deja Que Te Bese](https://open.spotify.com/track/1uwPEGzopXl9KawQR1JGXq) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Deja Que Te Bese](https://open.spotify.com/album/7JimYZIPnQsUqlkBIPQAq4) | 4:04 |
+| 50 | [Deja Que Te Bese](https://open.spotify.com/track/1mDeNRa2Q5HPFeZao6ZWNv) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Solo Quiero Latineo](https://open.spotify.com/album/0lN95A1ZiwNNDdBVuVWDoe) | 4:04 |
 
-Snapshot ID: `MTY2MTkyOTgyNiwwMDAwMDAwMDI5NDc0N2RlN2FjOGE4MzgyYzYwZDJmNDVkMzg3OGM2`
+Snapshot ID: `MTY2MTkyOTgyNiwwMDAwMDAwMDU3NmRhMjhjOGZiMmUyYTk3YWM1M2IyZmUzNTQ3YmRi`

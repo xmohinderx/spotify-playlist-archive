@@ -758,6 +758,24 @@
     },
     {
       "album": {
+        "name": "Femme",
+        "url": "https://open.spotify.com/album/0oEgAsCcZ4omuKHWDfWh4v"
+      },
+      "artists": [
+        {
+          "name": "Koffi Olomide",
+          "url": "https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 433746,
+      "name": "Femme",
+      "url": "https://open.spotify.com/track/2GI17itTcj3E7HmnMvqCPX"
+    },
+    {
+      "album": {
         "name": "Monde A Part",
         "url": "https://open.spotify.com/album/1E45xmBvN36ojia6LMr1bL"
       },
@@ -871,7 +889,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-22",
+      "date_removed": null,
       "duration_ms": 212240,
       "name": "Hypnosia",
       "url": "https://open.spotify.com/track/3y37dGMIG4msr8n8jEcqh2"
@@ -995,7 +1013,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 234359,
       "name": "Kilulu",
       "url": "https://open.spotify.com/track/21EIqCWgU610VuoHSamaMu"
@@ -1319,7 +1337,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 233314,
       "name": "Matete",
       "url": "https://open.spotify.com/track/5wp41PrAJyoA6PYfraw98Z"
@@ -1887,7 +1905,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 213164,
       "name": "Pere - Remix Version",
       "url": "https://open.spotify.com/track/2c5vJZBWfxd6eTGkpg1PN2"
@@ -2363,6 +2381,24 @@
       "duration_ms": 154105,
       "name": "VALABA",
       "url": "https://open.spotify.com/track/0hurXA0kT1G8xL1fs8ekxN"
+    },
+    {
+      "album": {
+        "name": "Vanessa",
+        "url": "https://open.spotify.com/album/69MVbuVtnIXxBfw7lpepE6"
+      },
+      "artists": [
+        {
+          "name": "Pson",
+          "url": "https://open.spotify.com/artist/1Fxk1V3Q9mWXoUKX1LnEAt"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175725,
+      "name": "Vanessa",
+      "url": "https://open.spotify.com/track/0tCm9ehzqzfwTh8L31xS5g"
     },
     {
       "album": {

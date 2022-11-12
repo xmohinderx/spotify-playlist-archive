@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49mfoIGumhI.md) - [plain]
 
 > ¡Vive la salsa de los '80! Foto: Oscar D'León
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,612 likes - 50 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,707 likes - 50 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,19 +44,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49mfoIGumhI.md) - [plain]
 | 34 | [Amame en Camara Lenta](https://open.spotify.com/track/0HVGzXLjVlLLxAmBx6yZFc) | [Cano Estremera](https://open.spotify.com/artist/77k3aRCnbGEVb44ZS8qsVZ) | [Salvaje! 88](https://open.spotify.com/album/4PiTdf6je5V2m0yP1gxyX1) | 6:29 |
 | 35 | [Desesperado](https://open.spotify.com/track/3dH8qYlVlwR9xFdeIEfNWp) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Lo Que Pasó..\. La Historia Del Príncipe De La Salsa](https://open.spotify.com/album/3fH9W32gXxYgka8q6SAtOW) | 3:50 |
 | 36 | [El Baile del Suavecito](https://open.spotify.com/track/6LIFpEqZJ9V9p8RmGgcKOv) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ), [Beny Moré](https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw) | [2 Generaciones de Salsa](https://open.spotify.com/album/7GHCAfsYzVhEDDJIwdGV7F) | 5:10 |
-| 37 | [Aventura](https://open.spotify.com/track/7fjMKxJiTrE4IZ8f2ZMftS) | [Ismael Miranda](https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq) | [Por el Buen Camino](https://open.spotify.com/album/1fwcGFkXIXDmd3CJ1w5KM3) | 5:36 |
-| 38 | [Somos El Son \- Live](https://open.spotify.com/track/1ymo6FkA5gdi9SXI5xBp5h) | [Raphy Leavitt y Su Orquesta La Selecta](https://open.spotify.com/artist/6NpIgOTS4wqVmCopi2A2AJ), [Sammy Marrero](https://open.spotify.com/artist/3gNZBnULGKuvoTN0Vi1uJr) | [30 Aniversario \(Live\)](https://open.spotify.com/album/4FHR7P1D6uhf148S04Yt70) | 8:29 |
-| 39 | [Dicelo a El](https://open.spotify.com/track/7I7LoiAzaDTCFN3XNnIboG) | [Tommy Olivencia y Su Orquesta](https://open.spotify.com/artist/60K60Egdxg9rGWcUCI23Qx) | [Ayer, Hoy, Mañana y Siempre](https://open.spotify.com/album/4IuAxOPErtywq5ZmTvZ4C0) | 4:11 |
-| 40 | [Máximo Chamorro](https://open.spotify.com/track/4KARXeRqsfk8ZbyrRhqKc5) | [Lalo Rodriguez](https://open.spotify.com/artist/5LmwELEKyxDFxrbZzR8K4U) | [Simplemente..\. Lalo](https://open.spotify.com/album/02BFzeqsPhtq8r9mEdrl2E) | 7:38 |
-| 41 | [Cantante de Cartel](https://open.spotify.com/track/0RBwK6GDmq2CACUzlsBw7B) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Good Vibrations](https://open.spotify.com/album/0viAbizcy2QtBHd5ubN1G7) | 4:33 |
-| 42 | [Cara Dura](https://open.spotify.com/track/4JeYICZEgx52htaZuzmje7) | [David Pabon](https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE) | [30 Mejores](https://open.spotify.com/album/2VqfWkCqh1smtP2Sy4gkBJ) | 5:17 |
-| 43 | [Lobo Domesticado](https://open.spotify.com/track/0w59uop5ZQ1WoDq17eVR76) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Antología: El Poeta Del Pueblo, Vol\. 1 – Sus Primeros Éxitos](https://open.spotify.com/album/7rBNKCoMDPIgSDXvpDBlwR) | 2:44 |
-| 44 | [Busca El Ritmo](https://open.spotify.com/track/5jeimudsdih5ZC1BC6Qsad) | [Willie Rosario](https://open.spotify.com/artist/24qSVomYxpfAFwzBnKCc8J) | [The Greatest Salsa Ever](https://open.spotify.com/album/2WgO5zD6fOYD9LwLwPzfiC) | 5:34 |
-| 45 | [Vasos De Colores](https://open.spotify.com/track/4vFRjYjCcPpRMw36NJCIgL) | [Marvin Santiago](https://open.spotify.com/artist/76h2ycGFYaAFYQgqdoOvVE) | [Era Salsa para Bailar](https://open.spotify.com/album/679Sx6gQbCgqv7wes11Kha) | 5:33 |
-| 46 | [No Me Digan Que Es Muy Tarde](https://open.spotify.com/track/5jHQYtxWgmvtzJKipgXV3b) | [Ismael Miranda](https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Tropical A Tope](https://open.spotify.com/album/0UD8B5pRrxEak7hfjMm0Lk) | 6:52 |
-| 47 | [Detalles](https://open.spotify.com/track/7aX3Fd6JbZml7Ico84IZoT) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [ICONIC \- Salsa](https://open.spotify.com/album/2OvvRjVN7gA7mSFcKJqqSz) | 4:38 |
-| 48 | [Me Diste de Tu Agua](https://open.spotify.com/track/3fMDDNqia3o17VXTKTvsJ0) | [Luis Carrion y Su Orquesta](https://open.spotify.com/artist/7e3fZa4srAlQXdnwgfxrTs) | [Salsa Classic Hits, Vol\. 1](https://open.spotify.com/album/240xUkdH1C8OJhW6FZ1QXK) | 4:34 |
-| 49 | [Si Me Ves Llorar](https://open.spotify.com/track/19yfetQHcFU4vYWUjp2uPS) | [David Pabon](https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE) | [30 Mejores](https://open.spotify.com/album/2VqfWkCqh1smtP2Sy4gkBJ) | 5:26 |
+| 37 | [Si Me Ves Llorar](https://open.spotify.com/track/19yfetQHcFU4vYWUjp2uPS) | [David Pabon](https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE) | [30 Mejores](https://open.spotify.com/album/2VqfWkCqh1smtP2Sy4gkBJ) | 5:26 |
+| 38 | [Aventura](https://open.spotify.com/track/7fjMKxJiTrE4IZ8f2ZMftS) | [Ismael Miranda](https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq) | [Por el Buen Camino](https://open.spotify.com/album/1fwcGFkXIXDmd3CJ1w5KM3) | 5:36 |
+| 39 | [Somos El Son \- Live](https://open.spotify.com/track/1ymo6FkA5gdi9SXI5xBp5h) | [Raphy Leavitt y Su Orquesta La Selecta](https://open.spotify.com/artist/6NpIgOTS4wqVmCopi2A2AJ), [Sammy Marrero](https://open.spotify.com/artist/3gNZBnULGKuvoTN0Vi1uJr) | [30 Aniversario \(Live\)](https://open.spotify.com/album/4FHR7P1D6uhf148S04Yt70) | 8:29 |
+| 40 | [Dicelo a El](https://open.spotify.com/track/7I7LoiAzaDTCFN3XNnIboG) | [Tommy Olivencia y Su Orquesta](https://open.spotify.com/artist/60K60Egdxg9rGWcUCI23Qx) | [Ayer, Hoy, Mañana y Siempre](https://open.spotify.com/album/4IuAxOPErtywq5ZmTvZ4C0) | 4:11 |
+| 41 | [Máximo Chamorro](https://open.spotify.com/track/4KARXeRqsfk8ZbyrRhqKc5) | [Lalo Rodriguez](https://open.spotify.com/artist/5LmwELEKyxDFxrbZzR8K4U) | [Simplemente..\. Lalo](https://open.spotify.com/album/02BFzeqsPhtq8r9mEdrl2E) | 7:38 |
+| 42 | [Detalles](https://open.spotify.com/track/7aX3Fd6JbZml7Ico84IZoT) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [ICONIC \- Salsa](https://open.spotify.com/album/2OvvRjVN7gA7mSFcKJqqSz) | 4:38 |
+| 43 | [Cantante de Cartel](https://open.spotify.com/track/0RBwK6GDmq2CACUzlsBw7B) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Good Vibrations](https://open.spotify.com/album/0viAbizcy2QtBHd5ubN1G7) | 4:33 |
+| 44 | [Lobo Domesticado](https://open.spotify.com/track/0w59uop5ZQ1WoDq17eVR76) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Antología: El Poeta Del Pueblo, Vol\. 1 – Sus Primeros Éxitos](https://open.spotify.com/album/7rBNKCoMDPIgSDXvpDBlwR) | 2:44 |
+| 45 | [Cara Dura](https://open.spotify.com/track/4JeYICZEgx52htaZuzmje7) | [David Pabon](https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE) | [30 Mejores](https://open.spotify.com/album/2VqfWkCqh1smtP2Sy4gkBJ) | 5:17 |
+| 46 | [Busca El Ritmo](https://open.spotify.com/track/5jeimudsdih5ZC1BC6Qsad) | [Willie Rosario](https://open.spotify.com/artist/24qSVomYxpfAFwzBnKCc8J) | [The Greatest Salsa Ever](https://open.spotify.com/album/2WgO5zD6fOYD9LwLwPzfiC) | 5:34 |
+| 47 | [Vasos De Colores](https://open.spotify.com/track/4vFRjYjCcPpRMw36NJCIgL) | [Marvin Santiago](https://open.spotify.com/artist/76h2ycGFYaAFYQgqdoOvVE) | [Era Salsa para Bailar](https://open.spotify.com/album/679Sx6gQbCgqv7wes11Kha) | 5:33 |
+| 48 | [No Me Digan Que Es Muy Tarde](https://open.spotify.com/track/5jHQYtxWgmvtzJKipgXV3b) | [Ismael Miranda](https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Tropical A Tope](https://open.spotify.com/album/0UD8B5pRrxEak7hfjMm0Lk) | 6:52 |
+| 49 | [Me Diste de Tu Agua](https://open.spotify.com/track/3fMDDNqia3o17VXTKTvsJ0) | [Luis Carrion y Su Orquesta](https://open.spotify.com/artist/7e3fZa4srAlQXdnwgfxrTs) | [Salsa Classic Hits, Vol\. 1](https://open.spotify.com/album/240xUkdH1C8OJhW6FZ1QXK) | 4:34 |
 | 50 | [Y Nos Amamos](https://open.spotify.com/track/7vZthtH9ThrzjC2NDJlDOr) | [David Pabon](https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE) | [30 Mejores](https://open.spotify.com/album/2VqfWkCqh1smtP2Sy4gkBJ) | 3:49 |
 
-Snapshot ID: `MTU1MzYzMTY5NCwwMDAwMDAwMDIyN2E1OWM4NTJkNGE3ZGU2ZTU4ZGFjNzZhNTc0Y2Fl`
+Snapshot ID: `MTU1MzYzMTY5NCwwMDAwMDAwMDk1OTA3NjdjZDZjZjMxZmZiNTQ1MzVjZTlkZDJlMWM2`

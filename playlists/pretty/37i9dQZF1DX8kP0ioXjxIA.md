@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8kP0ioXjxIA.md) - [plain]
 
 > BLACKPINK in our area! Are you ready to Shut Down?
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,556,370 likes - 46 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,558,339 likes - 46 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8kP0ioXjxIA.md) - [plain]
 | 13 | [Lovesick Girls](https://open.spotify.com/track/4Ws314Ylb27BVsvlZOy30C) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE ALBUM](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) | 3:14 |
 | 14 | [DDU\-DU DDU\-DU](https://open.spotify.com/track/4lQsB3ERTWSNaAN1IkuNRl) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [SQUARE UP](https://open.spotify.com/album/0wOiWrujRbxlKEGWRQpKYc) | 3:31 |
 | 15 | [Kill This Love](https://open.spotify.com/track/6hvczQ05jc1yGlp9zhb95V) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [KILL THIS LOVE](https://open.spotify.com/album/3PNxZ3BELbUXJ1XLktXiHz) | 3:11 |
-| 16 | [SOLO](https://open.spotify.com/track/2wVDWtLKXunswWecARNILj) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [SOLO](https://open.spotify.com/album/7qAJpYeABXN9ZV5wOOX59k) | 2:49 |
+| 16 | [SOLO](https://open.spotify.com/track/6ITEzSECbETYVnHG76yj3B) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [The Future Is Female](https://open.spotify.com/album/5hbJ2lUh2tAmrWMSAX3AYa) | 2:49 |
 | 17 | [BOOMBAYAH](https://open.spotify.com/track/13MF2TYuyfITClL1R2ei6e) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [SQUARE ONE](https://open.spotify.com/album/0FOOodYRlj7gzh7q7IjmNZ) | 4:00 |
 | 18 | [On The Ground](https://open.spotify.com/track/2pn8dNVSpYnAtlKFC8Q0DJ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [R](https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob) | 2:48 |
 | 19 | [PLAYING WITH FIRE](https://open.spotify.com/track/7qmvLmX9tyaTiBAVNI6YEn) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [SQUARE TWO](https://open.spotify.com/album/2Fna4Tb7fme5aHsNMJtVtp) | 3:17 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8kP0ioXjxIA.md) - [plain]
 | 45 | [Ice Cream \(with Selena Gomez\)](https://open.spotify.com/track/2J4P46vCFm1rPkNkp9pZWX) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Ice Cream \(with Selena Gomez\)](https://open.spotify.com/album/2VBb4LRcRSACOfJWRUgVZl) | 2:55 |
 | 46 | [Bet You Wanna \(feat\. Cardi B\)](https://open.spotify.com/track/7iAgNZdotu40NwtoIWJHFe) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [THE ALBUM](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) | 2:41 |
 
-Snapshot ID: `MTY2MzkyNTczOCwwMDAwMDAwMDUzODEyMWI1MzRjMTJkMGUyZmIzM2EzMjVmMzJmZjcw`
+Snapshot ID: `MTY2MzkyNTczOCwwMDAwMDAwMGU2Mjk3MWVkNTc3ODU0YzNhY2I3MDQ2NjkxOTRhYjZh`

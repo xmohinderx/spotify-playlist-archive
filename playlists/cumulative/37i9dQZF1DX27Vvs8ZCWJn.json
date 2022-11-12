@@ -682,6 +682,24 @@
     },
     {
       "album": {
+        "name": "Serie De Oro",
+        "url": "https://open.spotify.com/album/3PG4hwXoSc0ElxiMslu4jy"
+      },
+      "artists": [
+        {
+          "name": "Facundo Cabral",
+          "url": "https://open.spotify.com/artist/1vCCUwNiIwC41lEu7EuBmx"
+        }
+      ],
+      "date_added": "2021-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224346,
+      "name": "No Soy De Aqui, Ni Soy De Alla",
+      "url": "https://open.spotify.com/track/70xSLxbCLBQSxBtP46AuZq"
+    },
+    {
+      "album": {
         "name": "Romance",
         "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
       },
@@ -1183,7 +1201,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 284680,
       "name": "Todo Cambia",
       "url": "https://open.spotify.com/track/0njOsb3y8TnwIJC7GnlWwD"

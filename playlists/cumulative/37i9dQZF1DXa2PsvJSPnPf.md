@@ -4,7 +4,7 @@
 
 > Sit back, stay awhile, and savor the soft, sweet sounds of this collection.
 
-165 songs - 10 hr 23 min - [published](https://open.spotify.com/playlist/1J46WbZ3oHtv4aJLZ1hDCX)
+166 songs - 10 hr 28 min - [published](https://open.spotify.com/playlist/1J46WbZ3oHtv4aJLZ1hDCX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,7 +164,8 @@
 | [What’s Left Of The Valley](https://open.spotify.com/track/3DNS0SkJf0BgEcbcJp4emw) | [John R\. Miller](https://open.spotify.com/artist/6VPZjyyur7ltEgkFdMnvz4) | [Depreciated](https://open.spotify.com/album/1YfYKrsK953RSyGiMUBixx) | 3:18 | 2021-11-19 |  |
 | [When Creation Was Young](https://open.spotify.com/track/4ZkZeQaJjmKuUPr7SOIjhU) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Front Porch](https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu) | 3:29 | 2021-11-19 |  |
 | [When You're My Age](https://open.spotify.com/track/3a4zsaK7wOl9Fz7o51bsvZ) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl), [Hillary Lindsey](https://open.spotify.com/artist/5mX9Z6qHTTHHFCreShrFIA), [Liz Rose](https://open.spotify.com/artist/7pcKyVIatvXoHdZRr4Q3vT) | [When You're My Age](https://open.spotify.com/album/2IcWoQx2BDY1zFZUoy889t) | 5:11 | 2021-11-19 | 2022-07-29 |
-| [When You're My Age \(feat\. Hillary Lindsey & Liz Rose\)](https://open.spotify.com/track/7s5oiz0hI98X6FQ5cmvPlf) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl), [Liz Rose](https://open.spotify.com/artist/7pcKyVIatvXoHdZRr4Q3vT), [Hillary Lindsey](https://open.spotify.com/artist/5mX9Z6qHTTHHFCreShrFIA) | [The Balladeer](https://open.spotify.com/album/34xmomKNR5tpBWAseLhmgX) | 5:11 | 2022-05-16 |  |
+| [When You're My Age \(feat\. Hillary Lindsey & Liz Rose\)](https://open.spotify.com/track/5pet1oAtPaMCmrx3uDxkzv) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl), [Liz Rose](https://open.spotify.com/artist/7pcKyVIatvXoHdZRr4Q3vT), [Hillary Lindsey](https://open.spotify.com/artist/5mX9Z6qHTTHHFCreShrFIA) | [When You're My Age \(feat\. Hillary Lindsey & Liz Rose\)](https://open.spotify.com/album/64Kt98Z8gUihw85TgI5gHd) | 5:11 | 2022-05-16 |  |
+| [When You're My Age \(feat\. Hillary Lindsey & Liz Rose\)](https://open.spotify.com/track/7s5oiz0hI98X6FQ5cmvPlf) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl), [Liz Rose](https://open.spotify.com/artist/7pcKyVIatvXoHdZRr4Q3vT), [Hillary Lindsey](https://open.spotify.com/artist/5mX9Z6qHTTHHFCreShrFIA) | [The Balladeer](https://open.spotify.com/album/34xmomKNR5tpBWAseLhmgX) | 5:11 | 2022-05-16 | 2022-11-12 |
 | [Where is the Heart of My Country](https://open.spotify.com/track/4VnrZj5hxHkKvY60VbpDLS) | [Caitlin Canty](https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl) | [Where is the Heart of My Country](https://open.spotify.com/album/2PIfdfMglh7KRBIzseJpd5) | 5:13 | 2021-11-19 |  |
 | [Whippoorwill](https://open.spotify.com/track/1n0UUVUi4OzfjJEtuBKWfL) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Whippoorwill](https://open.spotify.com/album/5XGBibZqSHNNIqASXsYuKW) | 4:38 | 2021-11-19 |  |
 | [Wild Turkey](https://open.spotify.com/track/4aX4dqpYXTxRMTcjekxPyp) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Wild Turkey](https://open.spotify.com/album/7iaq4ZxNNKZl9v92lOxQ7N) | 4:32 | 2021-11-19 |  |

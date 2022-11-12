@@ -603,6 +603,24 @@
     {
       "album": {
         "name": "Voz del Alba",
+        "url": "https://open.spotify.com/album/68aC5vlZj8hH3BjgiZgLn6"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas M\u00e9ndez",
+          "url": "https://open.spotify.com/artist/6LMLp1gpyFAI4Sc6NkgPqB"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264906,
+      "name": "Buler\u00edas de Jerez",
+      "url": "https://open.spotify.com/track/4FPOEn0Cw8cmEu4sxo7uRI"
+    },
+    {
+      "album": {
+        "name": "Voz del Alba",
         "url": "https://open.spotify.com/album/3JGbQd6AttYZuvkl1GdGxt"
       },
       "artists": [
@@ -613,7 +631,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 264906,
       "name": "Buler\u00edas de Jerez",
       "url": "https://open.spotify.com/track/6WuYlzvZsSSeldas0MgH56"
@@ -741,6 +759,24 @@
     {
       "album": {
         "name": "Espiral",
+        "url": "https://open.spotify.com/album/67Ory8eCmGeGNUA3j0wvpd"
+      },
+      "artists": [
+        {
+          "name": "La Jose",
+          "url": "https://open.spotify.com/artist/55o2GKmozOaWhYDBaFBPC2"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218750,
+      "name": "Creo",
+      "url": "https://open.spotify.com/track/13JyTmrmvmcu7kmehSQ0KV"
+    },
+    {
+      "album": {
+        "name": "Espiral",
         "url": "https://open.spotify.com/album/5qyHysxc3nUu7AIHEUcjFg"
       },
       "artists": [
@@ -769,7 +805,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 221240,
       "name": "Creo",
       "url": "https://open.spotify.com/track/3xLI0IZFsFPa2M18rOIPSV"
@@ -2030,6 +2066,36 @@
     },
     {
       "album": {
+        "name": "Best of Flamenco",
+        "url": "https://open.spotify.com/album/2B0L8ZdN9CoYJXjvcWnRfB"
+      },
+      "artists": [
+        {
+          "name": "Rafa El Tachuela",
+          "url": "https://open.spotify.com/artist/1VPNobfvjhHDuXbyJyynTk"
+        },
+        {
+          "name": "Pablo Carcamo",
+          "url": "https://open.spotify.com/artist/6Nxv0zr9DVeusjZpewzriS"
+        },
+        {
+          "name": "La Moraima",
+          "url": "https://open.spotify.com/artist/4DyCHXN1RPYrHRAYDyce0z"
+        },
+        {
+          "name": "Hossam Ramzy",
+          "url": "https://open.spotify.com/artist/1f52NJ98E9Pz2hJQ8oe4sD"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255800,
+      "name": "Yerba buena",
+      "url": "https://open.spotify.com/track/0fY29wb0ejG5LEXw6StNGC"
+    },
+    {
+      "album": {
         "name": "Flamenco",
         "url": "https://open.spotify.com/album/1dWXg3wCJRWfpG5D4Z44m0"
       },
@@ -2053,7 +2119,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 255800,
       "name": "Yerba buena",
       "url": "https://open.spotify.com/track/2ytD1he4cklb86ZbY6Bnra"

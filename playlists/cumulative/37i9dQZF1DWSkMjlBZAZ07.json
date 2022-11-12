@@ -422,6 +422,24 @@
     },
     {
       "album": {
+        "name": "New Mythology",
+        "url": "https://open.spotify.com/album/0m1s2KM4LbDqD2lwZhOTJw"
+      },
+      "artists": [
+        {
+          "name": "Nick Mulvey",
+          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214987,
+      "name": "Brother To You",
+      "url": "https://open.spotify.com/track/4reQP8WeF311w1sDlCBS3F"
+    },
+    {
+      "album": {
         "name": "By and By",
         "url": "https://open.spotify.com/album/4Ib3LE6FimfhNVnY7Tc1zM"
       },
@@ -1718,6 +1736,24 @@
     },
     {
       "album": {
+        "name": "Apache Relay",
+        "url": "https://open.spotify.com/album/771ZFXvbXuZEFPiPyQGxFh"
+      },
+      "artists": [
+        {
+          "name": "The Apache Relay",
+          "url": "https://open.spotify.com/artist/62pBNClOEZJEyRXrzC2CtI"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208333,
+      "name": "Katie Queen of Tennessee",
+      "url": "https://open.spotify.com/track/4C7GZbwKnoucpGdkBQ9iGt"
+    },
+    {
+      "album": {
         "name": "firekid",
         "url": "https://open.spotify.com/album/6qb5fl4U5XsxZOFNHqwxxw"
       },
@@ -1891,7 +1927,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 223640,
       "name": "Mess Is Mine",
       "url": "https://open.spotify.com/track/29jtZGdgpE2lWm2mkIt6HS"
@@ -2079,7 +2115,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 189282,
       "name": "Need You",
       "url": "https://open.spotify.com/track/7f0PCIJFVw7U5tbuFH4rb0"
@@ -2122,6 +2158,24 @@
     },
     {
       "album": {
+        "name": "Nocturne EP",
+        "url": "https://open.spotify.com/album/3KeZeDLfggA5icZ8HG9FHm"
+      },
+      "artists": [
+        {
+          "name": "Blanco White",
+          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247373,
+      "name": "Olalla",
+      "url": "https://open.spotify.com/track/0vrlxoXcbwD8Sklwy59N9g"
+    },
+    {
+      "album": {
         "name": "Olalla",
         "url": "https://open.spotify.com/album/7ezEVlzMBGfVkGWuwcINqY"
       },
@@ -2151,7 +2205,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 248160,
       "name": "Olalla",
       "url": "https://open.spotify.com/track/4R59wt5nnhYo88PIu3cUIt"

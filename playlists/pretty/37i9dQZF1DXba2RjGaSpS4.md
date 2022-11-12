@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXba2RjGaSpS4.md) - [plain]
 
 > ¡Empieza un nuevo día con una sonrisa!
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,884 likes - 75 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,949 likes - 75 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXba2RjGaSpS4.md) - [plain]
 | 71 | [You Make My Dreams \(Come True\)](https://open.spotify.com/track/4o6BgsqLIBViaGVbx5rbRk) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Voices](https://open.spotify.com/album/4LniALl9S6YedTFdiZWOMS) | 3:10 |
 | 72 | [Optimista](https://open.spotify.com/track/22LGgFochmXJw5vVr5knDl) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Bálsamo](https://open.spotify.com/album/7av9VVRYT6rgVRshaVDEPQ) | 3:32 |
 | 73 | [Don](https://open.spotify.com/track/0WajUW5XINeraP2w0F3F8E) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [El Templo del Pop](https://open.spotify.com/album/0KzE84u9io1eWxWSs9SmSY) | 3:03 |
-| 74 | [Brillas](https://open.spotify.com/track/6OKmGZASRCmiKQKz4hCNrs) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Solstis \- De León Larregui](https://open.spotify.com/album/0UwCZ5d7AFISyHxrpHjbqZ) | 3:44 |
+| 74 | [Brillas](https://open.spotify.com/track/0wVU74Grfynyrl7vlaCM0E) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Baladas Románticas Latinas](https://open.spotify.com/album/07EhDhHjge4hEJcXzUUq0j) | 3:44 |
 | 75 | [Sugar](https://open.spotify.com/track/2iuZJX9X9P0GKaE93xcPjk) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [V](https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI) | 3:55 |
 
-Snapshot ID: `MTY1OTQ3MTQ3MywwMDAwMDAwMGRiNjQzMWZiNmQ5YTYzMTg5N2MxN2M0YmZmMzQ1OWYw`
+Snapshot ID: `MTY1OTQ3MTQ3MywwMDAwMDAwMDQ4MjRhYzdkODAxYTMwYTZkMTBkNTA3YmUyYzA5ZGE3`

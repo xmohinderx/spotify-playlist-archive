@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fxf4OrMhXb.md) - [plain]
 
 > Close the curtains, it's time for some leftfield gems.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,068 likes - 60 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,161 likes - 60 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,12 +40,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fxf4OrMhXb.md) - [plain]
 | 30 | [Rush](https://open.spotify.com/track/2RVbDkUFdnZcQuqHWOgZe1) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Rush / Can't Stop Thinking About](https://open.spotify.com/album/2A7lN5fuMXlLQXlgAzuXDN) | 4:06 |
 | 31 | [Poly 61](https://open.spotify.com/track/504mdqIfWU65Ar6ePzsZJU) | [Liam Mour](https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0) | [Poly 61](https://open.spotify.com/album/4QtJHCnRvyffr6Jx34K68H) | 4:33 |
 | 32 | [I Feel You \(feat\. Ell Murphy\) \- Edit](https://open.spotify.com/track/1DjivOHek7yr3b7xGVAV7S) | [Giulia Tess](https://open.spotify.com/artist/1DIRMEtLvteuZfHcKgwQX3), [Ell Murphy](https://open.spotify.com/artist/4r0F1gbqeQsaPg5d2nm5EJ) | [I Feel You \(feat\. Ell Murphy\) \[Edit\]](https://open.spotify.com/album/3iw2DuZ0SlG8Jh4zzzq1ku) | 3:04 |
-| 33 | [Music To Heal To](https://open.spotify.com/track/2KvkzuYVnHaGEYbY5gfF8R) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Harmonic Frequencies](https://open.spotify.com/album/0xk9jsZcE6LAl9jNEqBQz7) | 6:23 |
-| 34 | [GLY \- Hot Chip Remix \- Edit](https://open.spotify.com/track/1GENTgldl1ncN3MTfsEO99) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ), [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [GLY \(Hot Chip Remix\)](https://open.spotify.com/album/0YJ3NBowWAqOZ6qTEl0AQA) | 3:22 |
-| 35 | [Idontknow](https://open.spotify.com/track/3NmIAJuV5atSrsbrl567HY) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [Idontknow](https://open.spotify.com/album/5UmXh8Pq27MthTNpckRS4z) | 5:21 |
+| 33 | [Idontknow](https://open.spotify.com/track/3NmIAJuV5atSrsbrl567HY) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [Idontknow](https://open.spotify.com/album/5UmXh8Pq27MthTNpckRS4z) | 5:21 |
+| 34 | [Music To Heal To](https://open.spotify.com/track/2KvkzuYVnHaGEYbY5gfF8R) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Harmonic Frequencies](https://open.spotify.com/album/0xk9jsZcE6LAl9jNEqBQz7) | 6:23 |
+| 35 | [GLY \- Hot Chip Remix \- Edit](https://open.spotify.com/track/1GENTgldl1ncN3MTfsEO99) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ), [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [GLY \(Hot Chip Remix\)](https://open.spotify.com/album/0YJ3NBowWAqOZ6qTEl0AQA) | 3:22 |
 | 36 | [Euro Visions \- Marlon Hoffstadt AKA Dj Daddy Trance Remix](https://open.spotify.com/track/1nvoh304h7a0RQgPgquxgZ) | [S7RENS](https://open.spotify.com/artist/4ZJGyUysIpIEULuzIzOzfl), [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [Euro Visions \(Marlon Hoffstadt AKA Dj Daddy Trance Remix\)](https://open.spotify.com/album/0C3yLvZNlvr1deVChjY2PZ) | 6:14 |
-| 37 | [Muzik](https://open.spotify.com/track/6E6WyW3tLlJHwfmKPaHrNo) | [Jennifer Loveless](https://open.spotify.com/artist/2Vsiki0qM11ADccRwwvS1c) | [Muzik](https://open.spotify.com/album/1RclAlfbZu5BY5ZzYxPw44) | 5:51 |
-| 38 | [Desire](https://open.spotify.com/track/5xR1NMAs89qMlE5tDh0HYR) | [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg), [Joy Alexis](https://open.spotify.com/artist/3RJBI40xC4OmwA0ZG026Bb) | [Desire](https://open.spotify.com/album/0VitxTKul3NXKutMMDCPBH) | 3:13 |
+| 37 | [Desire](https://open.spotify.com/track/5xR1NMAs89qMlE5tDh0HYR) | [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg), [Joy Alexis](https://open.spotify.com/artist/3RJBI40xC4OmwA0ZG026Bb) | [Desire](https://open.spotify.com/album/0VitxTKul3NXKutMMDCPBH) | 3:13 |
+| 38 | [Muzik](https://open.spotify.com/track/6E6WyW3tLlJHwfmKPaHrNo) | [Jennifer Loveless](https://open.spotify.com/artist/2Vsiki0qM11ADccRwwvS1c) | [Muzik](https://open.spotify.com/album/1RclAlfbZu5BY5ZzYxPw44) | 5:51 |
 | 39 | [L.S.B.](https://open.spotify.com/track/6oemEFeEzyfzykENkTCbKf) | [Studio Barnhus](https://open.spotify.com/artist/3BQyyXUJs39bwh0o4W2Pvs) | [L.S.B.](https://open.spotify.com/album/4O8zXtocpAJZo4kjrhMJmc) | 4:12 |
 | 40 | [Play In The Dark](https://open.spotify.com/track/4ND92kpiHy3mxvLVgFSowz) | [Seth Troxler](https://open.spotify.com/artist/3JkLFcTej6tdwZoQT6Nx4B), [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU) | [Play In The Dark](https://open.spotify.com/album/4hU3TVtRDIPFugFjCGMKEC) | 4:55 |
 | 41 | [<3core](https://open.spotify.com/track/2OhTPWJOToqCMUAua8zx6Z) | [Dillon](https://open.spotify.com/artist/6oyGMaD0Kbx3ynXKhzH2wW) | [<3core](https://open.spotify.com/album/42a7AJAwyRYVTTp8JhHBLv) | 3:00 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fxf4OrMhXb.md) - [plain]
 | 59 | [Polymer Pyramid](https://open.spotify.com/track/0SSgDTHqX7y3JwJ47XUtmx) | [Space Dimension Controller](https://open.spotify.com/artist/7rZjYMRC5pTV089WKn1Y4s) | [Polymer Pyramid](https://open.spotify.com/album/7JgvbVWgRYz1IqkieeUaqQ) | 4:49 |
 | 60 | [Goddess Calling](https://open.spotify.com/track/4npxPQ7jYsO9RL6aN9EDjl) | [Octo Octa](https://open.spotify.com/artist/2GH8Mzo3Ur1AdOnGUUpt17) | [She's Calling EP](https://open.spotify.com/album/4QIzvwiurfYaLWAATLXU0N) | 7:40 |
 
-Snapshot ID: `MTY2MjczOTIwMCwwMDAwMDAwMGZjMjkyZjdlYzYyYzI5YjUyYWEyZTkwYzkyMGYxYTQ2`
+Snapshot ID: `MTY2MjczOTIwMCwwMDAwMDAwMGM3MGUzNzE1ZTUwMTE5MDg3MjU1NzVkOTMyMDcyZWZi`

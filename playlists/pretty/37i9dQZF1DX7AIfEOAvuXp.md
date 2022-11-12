@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AIfEOAvuXp.md) - [plain]
 
 > Introducing the Fresh Finds Class of 2020\. Editors' picks of the top Fresh Finds this year.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,286 likes - 102 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,284 likes - 102 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Mad at Disney](https://open.spotify.com/track/3JGnevG7tLMY3UQFU8JinB) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Chill On The Beach](https://open.spotify.com/album/5MyS2ruaCIY0EHeuZkuici) | 2:16 |
 | 2 | [HIT EM WHERE IT HURTS](https://open.spotify.com/track/6UVxCRDAXLjz95fs5bl7Xr) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [A PawPaw Rod EP](https://open.spotify.com/album/6rdGxnA5zzF0Nly6ZqUwCH) | 2:45 |
-| 3 | [Weekend](https://open.spotify.com/track/7zFtgo8QMmJQj6dWKrtQwM) | [Clubhouse](https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX) | [Are We Going Too Slow?](https://open.spotify.com/album/5xIG1uX52BQikNOdXtL10N) | 3:08 |
+| 3 | [Weekend](https://open.spotify.com/track/7jXO2KuhobrDcEL4ifhhD1) | [Clubhouse](https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX) | [Weekend](https://open.spotify.com/album/092FyXsaCbzzHP4fXzBbOA) | 3:08 |
 | 4 | [Calvaire](https://open.spotify.com/track/1rJRb5A6ZfqOuqLCwpD7Ld) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Calvaire](https://open.spotify.com/album/3RuhXnLH8SZT5GnHyGe9gf) | 1:57 |
 | 5 | [Come Over](https://open.spotify.com/track/0gTqEEZKoCn53BZAU1A4DG) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [Sunset Visionary, Vol\. 1](https://open.spotify.com/album/1AQvLVWkgAxzSa8zJbYkdW) | 2:15 |
 | 6 | [Call My Parents](https://open.spotify.com/track/1BPfuDHIxnB8ndQBiXpm4F) | [Jany Green](https://open.spotify.com/artist/1Qg99NvQcJaAMmmDl6nPRv) | [Call My Parents](https://open.spotify.com/album/329qyXniWjTtkVMlGnXFFp) | 2:22 |
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AIfEOAvuXp.md) - [plain]
 | 52 | [NO !](https://open.spotify.com/track/7I9MF93LZ0MFz7n4avNkb3) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [NO !](https://open.spotify.com/album/1ndLXbMIeHH3cczAMwgQHT) | 3:44 |
 | 53 | [boys lie](https://open.spotify.com/track/1mV0iuIaNMoZTHFMcFsABS) | [BAYLI](https://open.spotify.com/artist/2i8UsIjQQuoFAENgHG6nW6) | [boys lie](https://open.spotify.com/album/2vBuUHQmH2Y94cXhrNDfOg) | 2:25 |
 | 54 | [Quantum Physics](https://open.spotify.com/track/4y9OmPdcd9qSECK7Daz588) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [If It Comes Down To It](https://open.spotify.com/album/5V68mtjh04q5DvhyYnmmBw) | 2:38 |
-| 55 | [Sweatshirt](https://open.spotify.com/track/44SMpuP6NAhV6l5OIwE090) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Sweatshirt](https://open.spotify.com/album/2BxTahQtqyiQ89mnX9rtmH) | 3:27 |
+| 55 | [Sweatshirt](https://open.spotify.com/track/1laJUKhvEunwkiYuND2bfP) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Special](https://open.spotify.com/album/5B6f4Orq3JNb3Ri0AMO7C8) | 3:27 |
 | 56 | [Both Of Us \- Edit](https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Both Of Us](https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA) | 3:49 |
 | 57 | [dreamin'](https://open.spotify.com/track/4PlzJVdaRYC9Fg2AqlOxer) | [53 Thieves](https://open.spotify.com/artist/4IwM0dNvhWqqtsTyulxe2K) | [dreamin'](https://open.spotify.com/album/4OVHuaHyH9KpFwgbJTdSS1) | 3:27 |
 | 58 | [Unmoved \(A Black Woman Truth\)](https://open.spotify.com/track/2zmLkPOV4Y3NTwh5P6gM51) | [Ayoni](https://open.spotify.com/artist/2Tju7nLsAMD6RTBna56hj6) | [Unmoved \(A Black Woman Truth\)](https://open.spotify.com/album/1UMLyY1xxIresXTsh6PtL3) | 4:16 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AIfEOAvuXp.md) - [plain]
 | 71 | [i'm lonely](https://open.spotify.com/track/65tCdopbRv73fYFOL40ViN) | [Luz](https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c) | [i'm lonely](https://open.spotify.com/album/2UXohnFJdRqL9sX3smMJAy) | 3:01 |
 | 72 | [astroboy.](https://open.spotify.com/track/5B7K0zs5gkaueWXzgd0vk7) | [suggi](https://open.spotify.com/artist/1plTV3dffWAksGX2XEQKvS) | [cheer up!](https://open.spotify.com/album/3HNKi1VPNc9IfEUs7RtyO8) | 4:00 |
 | 73 | [Sorrys Don't Work No More](https://open.spotify.com/track/0pXANstKZy6B4Qzr1SmwIS) | [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3) | [Sorrys Don't Work No More](https://open.spotify.com/album/2xjh5SrZsyW2FbXBC0MAT5) | 3:45 |
-| 74 | [Morning](https://open.spotify.com/track/1ZOInA89l84oYwjac57Nzs) | [Tennis Club](https://open.spotify.com/artist/6kVv3d4WEjR4gjHzAbOvNo) | [Morning](https://open.spotify.com/album/3i7N47m8fan34AmuBzzSbf) | 4:01 |
+| 74 | [Morning](https://open.spotify.com/track/6wo5U6dmmM4fpNsBP8628k) | [Tennis Club](https://open.spotify.com/artist/6kVv3d4WEjR4gjHzAbOvNo) | [Bryce Drive](https://open.spotify.com/album/6sg52CYJUwjpfmB7KQTRzx) | 4:01 |
 | 75 | [Sour Strawberry](https://open.spotify.com/track/5fQq8MzzqtX6dGGgfYuqoH) | [Caroline Manning](https://open.spotify.com/artist/2if0ZD9GblHIXm7A1dF300) | [Sour Strawberry](https://open.spotify.com/album/6zD7V0fHhEvomfAYWGg4J4) | 2:26 |
 | 76 | [Weekend](https://open.spotify.com/track/0XoRbQwHULyjf0tO1S9abf) | [Emily Vu](https://open.spotify.com/artist/3t3oOB1GYe4PFV2X6D29NS) | [Weekend](https://open.spotify.com/album/3EcOE2h7DHr5m6IaALejAs) | 2:46 |
 | 77 | [el cielo no es de nadie \- Edit](https://open.spotify.com/track/1pY4lWKYXLGqcSql0CzDuy) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [el cielo no es de nadie](https://open.spotify.com/album/2NzNIhJKRGCuPWfAJtUUCL) | 3:41 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AIfEOAvuXp.md) - [plain]
 | 101 | [Bass Jumpin](https://open.spotify.com/track/1T6PwHz0L4zdTyGInqG4xd) | [Arno Faraji](https://open.spotify.com/artist/46jtLFOHGcnIqW74ESazFQ) | [Bass Jumpin](https://open.spotify.com/album/5REn5qlzivqOk4dqhwZZWo) | 2:36 |
 | 102 | [Black Cat](https://open.spotify.com/track/4TpGdf05nm8lYiBPbXjwv2) | [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [Thursday Friday](https://open.spotify.com/album/0ZlhBMFfYUooCNL3QMVDzN) | 2:56 |
 
-Snapshot ID: `MTYwNzM1NTg4MCwwMDAwMDAwMGIxNjkxOGU1NzNiZDc2NWVhMWRhZDIxODE4YzZiMTFi`
+Snapshot ID: `MTYwNzM1NTg4MCwwMDAwMDAwMDFmNmMwMzJiZjk0MzhkNTk4YTM3NDcyZmMyNjY0M2Nh`

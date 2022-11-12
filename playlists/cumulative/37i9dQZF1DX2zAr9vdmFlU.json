@@ -678,6 +678,28 @@
     },
     {
       "album": {
+        "name": "A\u00f1o Nuevo, Vida Nueva",
+        "url": "https://open.spotify.com/album/5mUkfaaM8ioUFphoF0ewKE"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207173,
+      "name": "Ch\u00e9 Ch\u00e9 Col\u00e9",
+      "url": "https://open.spotify.com/track/5qpaGx8k2HKYzOqfYjTiwM"
+    },
+    {
+      "album": {
         "name": "Anthology",
         "url": "https://open.spotify.com/album/27RB4wbSSei1uyDJfrsxT2"
       },
@@ -1285,7 +1307,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 217733,
       "name": "Electrico",
       "url": "https://open.spotify.com/track/2wfWB1609rGbZAbFxdghXF"
@@ -1691,7 +1713,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 183800,
       "name": "Linda Guajira",
       "url": "https://open.spotify.com/track/1Ml7gX2S2UVzB1K32puq4W"
@@ -2040,6 +2062,36 @@
     },
     {
       "album": {
+        "name": "Brazilution (5.6)",
+        "url": "https://open.spotify.com/album/6zIEQjLOh2016UhhmaMoJh"
+      },
+      "artists": [
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        },
+        {
+          "name": "Nickodemus",
+          "url": "https://open.spotify.com/artist/4VNKVCluxMcjqwYJm3yuQ3"
+        },
+        {
+          "name": "Tempo",
+          "url": "https://open.spotify.com/artist/76whng5pl9msPkkjFUtWYn"
+        },
+        {
+          "name": "The Candela Allstars",
+          "url": "https://open.spotify.com/artist/3jNA6s9uYZGYZpGXbS3dyn"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234146,
+      "name": "Mi Swing Es Tropical",
+      "url": "https://open.spotify.com/track/2RdvX8uw4DKROEDlmr90BR"
+    },
+    {
+      "album": {
         "name": "The Best of Quantic",
         "url": "https://open.spotify.com/album/6M6zSe2XmL5bv4SU9SG7aW"
       },
@@ -2139,7 +2191,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 229785,
       "name": "Mozo",
       "url": "https://open.spotify.com/track/1wPwN9thOsYSVSAonW1W6i"
@@ -2179,6 +2231,24 @@
       "duration_ms": 276093,
       "name": "Naranjo En Flor",
       "url": "https://open.spotify.com/track/7ouBEajSKGc6NQPe9fpB8i"
+    },
+    {
+      "album": {
+        "name": "Bajofondo Tango Club",
+        "url": "https://open.spotify.com/album/7249DS6vz0JbQuZlpYDCPd"
+      },
+      "artists": [
+        {
+          "name": "Campo",
+          "url": "https://open.spotify.com/artist/4pZbs8aNKQ2qRYXB5XR0D8"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278080,
+      "name": "Naranjo En Flor",
+      "url": "https://open.spotify.com/track/2UG5sMphnHUvsswl596nqF"
     },
     {
       "album": {
@@ -2233,6 +2303,24 @@
       "duration_ms": 272546,
       "name": "Oye Como Va",
       "url": "https://open.spotify.com/track/0rsmlyJFeb3qiGxmD3jjEw"
+    },
+    {
+      "album": {
+        "name": "Salsa Hits Vol. 1",
+        "url": "https://open.spotify.com/album/09MwMLWF7NltEqilzZQYYw"
+      },
+      "artists": [
+        {
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274018,
+      "name": "Oye C\u00f3mo Va",
+      "url": "https://open.spotify.com/track/0FuISXHRJrqpNAx7Unvn9D"
     },
     {
       "album": {
@@ -2877,7 +2965,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 168733,
       "name": "Spanish Grease",
       "url": "https://open.spotify.com/track/4FOFC3YNvDgLesoVqRthZh"
@@ -2935,7 +3023,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 209672,
       "name": "Speakin' Nuyorican",
       "url": "https://open.spotify.com/track/26x75c32oXBl5fQMFAYptW"
@@ -3027,10 +3115,36 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 216226,
       "name": "S\u00f3 Dan\u00e7o Samba",
       "url": "https://open.spotify.com/track/5je0CDv1Z1hT82Nek1Fjhl"
+    },
+    {
+      "album": {
+        "name": "Bossa Nova Para Cozinhar",
+        "url": "https://open.spotify.com/album/1nTkscJLBN2GV3FHX8FQCW"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        },
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220373,
+      "name": "S\u00f3 Dan\u00e7o Samba - Stereo Version",
+      "url": "https://open.spotify.com/track/07Z69phcpCPIF9gJsR319o"
     },
     {
       "album": {
@@ -3505,6 +3619,28 @@
       "duration_ms": 214866,
       "name": "\u00c1guas De Mar\u00e7o",
       "url": "https://open.spotify.com/track/1CFpxBiLtcnBVIbnmAJCBk"
+    },
+    {
+      "album": {
+        "name": "Mulheres da MPB",
+        "url": "https://open.spotify.com/album/5xmXt1N4JJU6oupEeC2z2B"
+      },
+      "artists": [
+        {
+          "name": "Elis Regina",
+          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
+        },
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214866,
+      "name": "\u00c1guas De Mar\u00e7o",
+      "url": "https://open.spotify.com/track/3PzD3zi0UeNw3dTYGbAZCy"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX2zAr9vdmFlU"

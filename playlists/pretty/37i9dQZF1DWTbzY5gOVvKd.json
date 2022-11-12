@@ -1,12 +1,12 @@
 {
   "description": "Jazzy love songs. Cover: Lady Gaga & Tony Bennett",
-  "num_followers": 1137768,
+  "num_followers": 1137962,
   "original_name": "Jazzy Romance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzkxMzY0OCwwMDAwMDAwMDZiM2Q2MzRmN2FmYTEyZGE0YzA3NzQ5MWE3NmQ2YWUw",
+  "snapshot_id": "MTY2NzkxMzY0OCwwMDAwMDAwMGI5ZGE3NjQ4ZmFjMTMwYTNhZmExMjg1ZDM3ZDJmNzE1",
   "tracks": [
     {
       "added_at": "2022-11-08 13:20:48",
@@ -91,22 +91,18 @@
     {
       "added_at": "2022-11-08 13:20:48",
       "album": {
-        "name": "Duets II",
-        "url": "https://open.spotify.com/album/5ktAYFq8wJ1hcWHaxl6AQf"
+        "name": "Nobody but Me (Deluxe)",
+        "url": "https://open.spotify.com/album/2OXZJLXxM8jrY3gBoVNfmz"
       },
       "artists": [
         {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        },
-        {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
         }
       ],
-      "duration_ms": 200586,
-      "name": "Body and Soul",
-      "url": "https://open.spotify.com/track/01hJnhpAmjzg85Etnz2ECH"
+      "duration_ms": 162520,
+      "name": "On an Evening in Roma (Sott'er Celo de Roma)",
+      "url": "https://open.spotify.com/track/4JEC2RIrXV1owJNVKanIAT"
     },
     {
       "added_at": "2022-11-08 13:20:48",
@@ -127,34 +123,22 @@
     {
       "added_at": "2022-11-08 13:20:48",
       "album": {
-        "name": "Nobody but Me (Deluxe)",
-        "url": "https://open.spotify.com/album/2OXZJLXxM8jrY3gBoVNfmz"
+        "name": "Duets II",
+        "url": "https://open.spotify.com/album/5ktAYFq8wJ1hcWHaxl6AQf"
       },
       "artists": [
         {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 162520,
-      "name": "On an Evening in Roma (Sott'er Celo de Roma)",
-      "url": "https://open.spotify.com/track/4JEC2RIrXV1owJNVKanIAT"
-    },
-    {
-      "added_at": "2022-11-08 13:20:48",
-      "album": {
-        "name": "Haven't We Met?",
-        "url": "https://open.spotify.com/album/3NSYINIVVAT3C6dMkdcbdx"
-      },
-      "artists": [
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
         {
-          "name": "Emilie-Claire Barlow",
-          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
         }
       ],
-      "duration_ms": 248416,
-      "name": "You Make Me Feel so Young",
-      "url": "https://open.spotify.com/track/6SYFwqZvPueoTBLoNjidAs"
+      "duration_ms": 200586,
+      "name": "Body and Soul",
+      "url": "https://open.spotify.com/track/01hJnhpAmjzg85Etnz2ECH"
     },
     {
       "added_at": "2022-11-08 13:20:48",
@@ -175,6 +159,22 @@
       "duration_ms": 283093,
       "name": "When I Fall in Love (feat. Chris Botti)",
       "url": "https://open.spotify.com/track/7wwDhqPS3gxRDenfX2GtiT"
+    },
+    {
+      "added_at": "2022-11-08 13:20:48",
+      "album": {
+        "name": "Haven't We Met?",
+        "url": "https://open.spotify.com/album/3NSYINIVVAT3C6dMkdcbdx"
+      },
+      "artists": [
+        {
+          "name": "Emilie-Claire Barlow",
+          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+        }
+      ],
+      "duration_ms": 248416,
+      "name": "You Make Me Feel so Young",
+      "url": "https://open.spotify.com/track/6SYFwqZvPueoTBLoNjidAs"
     },
     {
       "added_at": "2022-11-08 13:20:48",
@@ -267,22 +267,6 @@
     {
       "added_at": "2022-11-08 13:20:48",
       "album": {
-        "name": "Unforgettable: With Love",
-        "url": "https://open.spotify.com/album/4ilUfGGQXin7hr1srDDXF0"
-      },
-      "artists": [
-        {
-          "name": "Natalie Cole",
-          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
-        }
-      ],
-      "duration_ms": 209960,
-      "name": "Our Love Is Here To Stay",
-      "url": "https://open.spotify.com/track/4sG2lkGzzYu7CAT0Z2V8Vu"
-    },
-    {
-      "added_at": "2022-11-08 13:20:48",
-      "album": {
         "name": "Moon River",
         "url": "https://open.spotify.com/album/5aDmA5mUCdOmMveJoeKg3r"
       },
@@ -347,22 +331,6 @@
     {
       "added_at": "2022-11-08 13:20:48",
       "album": {
-        "name": "Turn Up The Quiet",
-        "url": "https://open.spotify.com/album/5MSulOhAWko8b4VbReKjYv"
-      },
-      "artists": [
-        {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
-        }
-      ],
-      "duration_ms": 243480,
-      "name": "Dream",
-      "url": "https://open.spotify.com/track/6hKvRPUWKXik0wl3EW7TW2"
-    },
-    {
-      "added_at": "2022-11-08 13:20:48",
-      "album": {
         "name": "The Complete Great American Songbook",
         "url": "https://open.spotify.com/album/3xUOObdRU9f2wblHafYx0j"
       },
@@ -375,6 +343,22 @@
       "duration_ms": 186880,
       "name": "I'm In The Mood For Love",
       "url": "https://open.spotify.com/track/7s5Xd6BLaZfkr6C3tgR4Ow"
+    },
+    {
+      "added_at": "2022-11-08 13:20:48",
+      "album": {
+        "name": "Turn Up The Quiet",
+        "url": "https://open.spotify.com/album/5MSulOhAWko8b4VbReKjYv"
+      },
+      "artists": [
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "duration_ms": 243480,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/6hKvRPUWKXik0wl3EW7TW2"
     },
     {
       "added_at": "2022-11-08 13:20:48",
@@ -515,6 +499,22 @@
     {
       "added_at": "2022-11-08 13:20:48",
       "album": {
+        "name": "Move On: A Sondheim Adventure",
+        "url": "https://open.spotify.com/album/21rqFgEooG35NUhxxwOqTs"
+      },
+      "artists": [
+        {
+          "name": "Cyrille Aimee",
+          "url": "https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM"
+        }
+      ],
+      "duration_ms": 171949,
+      "name": "Loving You",
+      "url": "https://open.spotify.com/track/226aNk2hiOlW3joJHIvSVe"
+    },
+    {
+      "added_at": "2022-11-08 13:20:48",
+      "album": {
         "name": "Turn Up The Quiet",
         "url": "https://open.spotify.com/album/5MSulOhAWko8b4VbReKjYv"
       },
@@ -531,18 +531,18 @@
     {
       "added_at": "2022-11-08 13:20:48",
       "album": {
-        "name": "Move On: A Sondheim Adventure",
-        "url": "https://open.spotify.com/album/21rqFgEooG35NUhxxwOqTs"
+        "name": "Language of Love",
+        "url": "https://open.spotify.com/album/02ST3umR7z95MJsoaeuLf1"
       },
       "artists": [
         {
-          "name": "Cyrille Aimee",
-          "url": "https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM"
+          "name": "Karen Souza",
+          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
         }
       ],
-      "duration_ms": 171949,
-      "name": "Loving You",
-      "url": "https://open.spotify.com/track/226aNk2hiOlW3joJHIvSVe"
+      "duration_ms": 213447,
+      "name": "There You Are (Second Chance)",
+      "url": "https://open.spotify.com/track/3NyuzNn4wZfNMB0fIcvd3H"
     },
     {
       "added_at": "2022-11-08 13:20:48",
@@ -587,22 +587,6 @@
     {
       "added_at": "2022-11-08 13:20:48",
       "album": {
-        "name": "Language of Love",
-        "url": "https://open.spotify.com/album/02ST3umR7z95MJsoaeuLf1"
-      },
-      "artists": [
-        {
-          "name": "Karen Souza",
-          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
-        }
-      ],
-      "duration_ms": 213447,
-      "name": "There You Are (Second Chance)",
-      "url": "https://open.spotify.com/track/3NyuzNn4wZfNMB0fIcvd3H"
-    },
-    {
-      "added_at": "2022-11-08 13:20:48",
-      "album": {
         "name": "The Window",
         "url": "https://open.spotify.com/album/2XClSOjimwtkeWYPo53mHG"
       },
@@ -631,22 +615,6 @@
       "duration_ms": 290653,
       "name": "Memories of You",
       "url": "https://open.spotify.com/track/27MP3QeTblV0W6ZnDtBk5r"
-    },
-    {
-      "added_at": "2022-11-08 13:20:48",
-      "album": {
-        "name": "Ballads",
-        "url": "https://open.spotify.com/album/0ZIJ91AiwAbFte9hDDgvQs"
-      },
-      "artists": [
-        {
-          "name": "Karrin Allyson",
-          "url": "https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs"
-        }
-      ],
-      "duration_ms": 361306,
-      "name": "Everytime We Say Goodbye",
-      "url": "https://open.spotify.com/track/1Bh6O68WlWPtnm7aFIJBHL"
     },
     {
       "added_at": "2022-11-08 13:20:48",
@@ -699,18 +667,18 @@
     {
       "added_at": "2022-11-08 13:20:48",
       "album": {
-        "name": "I've Got You Under My Skin",
-        "url": "https://open.spotify.com/album/4ygkbddQCe8tUTaaRdpppP"
+        "name": "I Know I Dream: The Orchestral Sessions (Deluxe Version)",
+        "url": "https://open.spotify.com/album/02o5Ry59Ocv0UskowTlrlZ"
       },
       "artists": [
         {
-          "name": "Matt Dusk",
-          "url": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
+          "name": "Stacey Kent",
+          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
         }
       ],
-      "duration_ms": 209848,
-      "name": "I've Got You Under My Skin",
-      "url": "https://open.spotify.com/track/0YtdBOitNPB7oYgLvm2z8g"
+      "duration_ms": 369200,
+      "name": "Photograph",
+      "url": "https://open.spotify.com/track/2XDNzwJkyFfqqnc1FP8UJg"
     },
     {
       "added_at": "2022-11-08 13:20:48",
@@ -731,18 +699,18 @@
     {
       "added_at": "2022-11-08 13:20:48",
       "album": {
-        "name": "I Know I Dream: The Orchestral Sessions (Deluxe Version)",
-        "url": "https://open.spotify.com/album/02o5Ry59Ocv0UskowTlrlZ"
+        "name": "I've Got You Under My Skin",
+        "url": "https://open.spotify.com/album/4ygkbddQCe8tUTaaRdpppP"
       },
       "artists": [
         {
-          "name": "Stacey Kent",
-          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
+          "name": "Matt Dusk",
+          "url": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
         }
       ],
-      "duration_ms": 369200,
-      "name": "Photograph",
-      "url": "https://open.spotify.com/track/2XDNzwJkyFfqqnc1FP8UJg"
+      "duration_ms": 209848,
+      "name": "I've Got You Under My Skin",
+      "url": "https://open.spotify.com/track/0YtdBOitNPB7oYgLvm2z8g"
     },
     {
       "added_at": "2022-11-08 13:20:48",
@@ -775,22 +743,6 @@
     {
       "added_at": "2022-11-08 13:20:48",
       "album": {
-        "name": "Paris In The Rain",
-        "url": "https://open.spotify.com/album/3GXZ7rWUodW0smcTrVqlAp"
-      },
-      "artists": [
-        {
-          "name": "Sarah McKenzie",
-          "url": "https://open.spotify.com/artist/4HXtFN7bAZUp0GtsRRpzW2"
-        }
-      ],
-      "duration_ms": 284133,
-      "name": "I'm Old Fashioned",
-      "url": "https://open.spotify.com/track/1vsZD1hVHW7BU4FOIYkO5R"
-    },
-    {
-      "added_at": "2022-11-08 13:20:48",
-      "album": {
         "name": "Best Love Ballads",
         "url": "https://open.spotify.com/album/04HiwRR7Ct1A4qkZnLQF8n"
       },
@@ -807,18 +759,38 @@
     {
       "added_at": "2022-11-08 13:20:48",
       "album": {
-        "name": "The Nearness Of You",
-        "url": "https://open.spotify.com/album/1aKnLcluIO8BHNQwp99PPR"
+        "name": "Tenderly",
+        "url": "https://open.spotify.com/album/6hasqtBBPBVsJfkH32z2dU"
       },
       "artists": [
         {
-          "name": "Matt Dusk",
-          "url": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
+          "name": "Stacey Kent",
+          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
+        },
+        {
+          "name": "Jim Tomlinson",
+          "url": "https://open.spotify.com/artist/5L3fIRSYQCR3EJwQICfyRq"
         }
       ],
-      "duration_ms": 135421,
-      "name": "The Nearness Of You",
-      "url": "https://open.spotify.com/track/4QAhBQW8Jhe6BlIYiLqkSz"
+      "duration_ms": 208373,
+      "name": "In the Wee Small Hours of the Morning",
+      "url": "https://open.spotify.com/track/1PZAvwzzhQrK85uQhUXIR4"
+    },
+    {
+      "added_at": "2022-11-08 13:20:48",
+      "album": {
+        "name": "Paris In The Rain",
+        "url": "https://open.spotify.com/album/3GXZ7rWUodW0smcTrVqlAp"
+      },
+      "artists": [
+        {
+          "name": "Sarah McKenzie",
+          "url": "https://open.spotify.com/artist/4HXtFN7bAZUp0GtsRRpzW2"
+        }
+      ],
+      "duration_ms": 284133,
+      "name": "I'm Old Fashioned",
+      "url": "https://open.spotify.com/track/1vsZD1hVHW7BU4FOIYkO5R"
     },
     {
       "added_at": "2022-11-08 13:20:48",
@@ -835,6 +807,22 @@
       "duration_ms": 279853,
       "name": "Let\u2019s Make The Most Of A Beautiful Thing",
       "url": "https://open.spotify.com/track/187NSXSWDou7TqG1AtLVLW"
+    },
+    {
+      "added_at": "2022-11-08 13:20:48",
+      "album": {
+        "name": "The Nearness Of You",
+        "url": "https://open.spotify.com/album/1aKnLcluIO8BHNQwp99PPR"
+      },
+      "artists": [
+        {
+          "name": "Matt Dusk",
+          "url": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
+        }
+      ],
+      "duration_ms": 135421,
+      "name": "The Nearness Of You",
+      "url": "https://open.spotify.com/track/4QAhBQW8Jhe6BlIYiLqkSz"
     },
     {
       "added_at": "2022-11-08 13:20:48",
@@ -895,26 +883,6 @@
       "duration_ms": 207733,
       "name": "Moonlight Becomes You",
       "url": "https://open.spotify.com/track/0p5hnLhOSlRpn8BMYEed4Q"
-    },
-    {
-      "added_at": "2022-11-08 13:20:48",
-      "album": {
-        "name": "Tenderly",
-        "url": "https://open.spotify.com/album/6hasqtBBPBVsJfkH32z2dU"
-      },
-      "artists": [
-        {
-          "name": "Stacey Kent",
-          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
-        },
-        {
-          "name": "Jim Tomlinson",
-          "url": "https://open.spotify.com/artist/5L3fIRSYQCR3EJwQICfyRq"
-        }
-      ],
-      "duration_ms": 208373,
-      "name": "In the Wee Small Hours of the Morning",
-      "url": "https://open.spotify.com/track/1PZAvwzzhQrK85uQhUXIR4"
     },
     {
       "added_at": "2022-11-08 13:20:48",
@@ -1091,22 +1059,6 @@
     {
       "added_at": "2022-11-08 13:20:48",
       "album": {
-        "name": "Nat \"King\" Cole & Me",
-        "url": "https://open.spotify.com/album/68XMYcFR8GebAgWi2zkT6u"
-      },
-      "artists": [
-        {
-          "name": "Gregory Porter",
-          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
-        }
-      ],
-      "duration_ms": 128520,
-      "name": "L-O-V-E",
-      "url": "https://open.spotify.com/track/06V4dX5wFakgvxaOaOIkOV"
-    },
-    {
-      "added_at": "2022-11-08 13:20:48",
-      "album": {
         "name": "Love Forgotten By Love",
         "url": "https://open.spotify.com/album/7bhwsozskBjE2gGSxwpQQO"
       },
@@ -1119,26 +1071,6 @@
       "duration_ms": 274431,
       "name": "Love Forgotten By Love",
       "url": "https://open.spotify.com/track/5B8DHIWdNCcag2FUF1OYge"
-    },
-    {
-      "added_at": "2022-11-08 13:20:48",
-      "album": {
-        "name": "The Silver Lining - The Songs of Jerome Kern",
-        "url": "https://open.spotify.com/album/6HT89sSe135gyyxJhaLs2m"
-      },
-      "artists": [
-        {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        },
-        {
-          "name": "Bill Charlap",
-          "url": "https://open.spotify.com/artist/2QX8yUROOnWTSLFg4sZ9Gg"
-        }
-      ],
-      "duration_ms": 277226,
-      "name": "All The Things You Are",
-      "url": "https://open.spotify.com/track/7dW9KIZvcQJnjQb3vy5Q6i"
     },
     {
       "added_at": "2022-11-08 13:20:48",
@@ -1191,6 +1123,26 @@
     {
       "added_at": "2022-11-08 13:20:48",
       "album": {
+        "name": "The Silver Lining - The Songs of Jerome Kern",
+        "url": "https://open.spotify.com/album/6HT89sSe135gyyxJhaLs2m"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Bill Charlap",
+          "url": "https://open.spotify.com/artist/2QX8yUROOnWTSLFg4sZ9Gg"
+        }
+      ],
+      "duration_ms": 277226,
+      "name": "All The Things You Are",
+      "url": "https://open.spotify.com/track/7dW9KIZvcQJnjQb3vy5Q6i"
+    },
+    {
+      "added_at": "2022-11-08 13:20:48",
+      "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/0AYOXJV9OzRPDNhWnrMXeL"
       },
@@ -1203,22 +1155,6 @@
       "duration_ms": 229365,
       "name": "Bewitched",
       "url": "https://open.spotify.com/track/2ofpYfMA5QKWkyuZmSId8R"
-    },
-    {
-      "added_at": "2022-11-08 13:20:48",
-      "album": {
-        "name": "Li'l Darlin",
-        "url": "https://open.spotify.com/album/1Vsqz9ExEorZDUJ7Zw72m9"
-      },
-      "artists": [
-        {
-          "name": "Monica Borrfors",
-          "url": "https://open.spotify.com/artist/6kQLrF8BwbKymqwvCJJzLb"
-        }
-      ],
-      "duration_ms": 195706,
-      "name": "Li'l Darlin",
-      "url": "https://open.spotify.com/track/39CPeGjg70L1qtXzdJmKmU"
     },
     {
       "added_at": "2022-11-08 13:20:48",
@@ -1239,18 +1175,18 @@
     {
       "added_at": "2022-11-08 13:20:48",
       "album": {
-        "name": "Here's To You - Songs For Shirley Horn",
-        "url": "https://open.spotify.com/album/4MdQyZIxJVGzzNEpP8eEH3"
+        "name": "Li'l Darlin",
+        "url": "https://open.spotify.com/album/1Vsqz9ExEorZDUJ7Zw72m9"
       },
       "artists": [
         {
-          "name": "T\u00e9rez Montcalm",
-          "url": "https://open.spotify.com/artist/6jtz3WsEdKxxYqO9LVWgcB"
+          "name": "Monica Borrfors",
+          "url": "https://open.spotify.com/artist/6kQLrF8BwbKymqwvCJJzLb"
         }
       ],
-      "duration_ms": 301533,
-      "name": "A Song For You",
-      "url": "https://open.spotify.com/track/6hAKfN2yo45HTpYK3LCMp9"
+      "duration_ms": 195706,
+      "name": "Li'l Darlin",
+      "url": "https://open.spotify.com/track/39CPeGjg70L1qtXzdJmKmU"
     },
     {
       "added_at": "2022-11-08 13:20:48",
@@ -1267,6 +1203,22 @@
       "duration_ms": 264653,
       "name": "Go Slow",
       "url": "https://open.spotify.com/track/3KMeqdGzrtxXGa5oRwZFGQ"
+    },
+    {
+      "added_at": "2022-11-08 13:20:48",
+      "album": {
+        "name": "Here's To You - Songs For Shirley Horn",
+        "url": "https://open.spotify.com/album/4MdQyZIxJVGzzNEpP8eEH3"
+      },
+      "artists": [
+        {
+          "name": "T\u00e9rez Montcalm",
+          "url": "https://open.spotify.com/artist/6jtz3WsEdKxxYqO9LVWgcB"
+        }
+      ],
+      "duration_ms": 301533,
+      "name": "A Song For You",
+      "url": "https://open.spotify.com/track/6hAKfN2yo45HTpYK3LCMp9"
     },
     {
       "added_at": "2022-11-08 13:20:48",
@@ -1375,22 +1327,6 @@
     {
       "added_at": "2022-11-08 13:20:48",
       "album": {
-        "name": "Love Letters",
-        "url": "https://open.spotify.com/album/5COIqlZNACXlR3nSzT2J1F"
-      },
-      "artists": [
-        {
-          "name": "Lyambiko",
-          "url": "https://open.spotify.com/artist/6ffhnheAv6MHO3B0ybBpnK"
-        }
-      ],
-      "duration_ms": 327000,
-      "name": "There Is No Greater Love",
-      "url": "https://open.spotify.com/track/1yvDZeqobR7Pv6ZRVHtT9j"
-    },
-    {
-      "added_at": "2022-11-08 13:20:48",
-      "album": {
         "name": "My Funny Valentine: The Chet Baker Songbook",
         "url": "https://open.spotify.com/album/2CtTsLssbJvp8iORyGOkwB"
       },
@@ -1403,6 +1339,22 @@
       "duration_ms": 245666,
       "name": "Deep in a Dream",
       "url": "https://open.spotify.com/track/16gccT3MmOuVrTPdBGJCBv"
+    },
+    {
+      "added_at": "2022-11-08 13:20:48",
+      "album": {
+        "name": "Love Letters",
+        "url": "https://open.spotify.com/album/5COIqlZNACXlR3nSzT2J1F"
+      },
+      "artists": [
+        {
+          "name": "Lyambiko",
+          "url": "https://open.spotify.com/artist/6ffhnheAv6MHO3B0ybBpnK"
+        }
+      ],
+      "duration_ms": 327000,
+      "name": "There Is No Greater Love",
+      "url": "https://open.spotify.com/track/1yvDZeqobR7Pv6ZRVHtT9j"
     },
     {
       "added_at": "2022-11-08 13:20:48",
@@ -1555,22 +1507,6 @@
     {
       "added_at": "2022-11-08 13:20:48",
       "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/5dFmnDotQPcuXAA2kdogmo"
-      },
-      "artists": [
-        {
-          "name": "Jane Monheit",
-          "url": "https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ"
-        }
-      ],
-      "duration_ms": 301320,
-      "name": "A Time For Love",
-      "url": "https://open.spotify.com/track/0Oho1Elt6nNyiHZyZR8OaG"
-    },
-    {
-      "added_at": "2022-11-08 13:20:48",
-      "album": {
         "name": "An Englishman in Love in LA",
         "url": "https://open.spotify.com/album/723cgY8qRQjpkNYtGBgkIp"
       },
@@ -1663,6 +1599,22 @@
     {
       "added_at": "2022-11-08 13:20:48",
       "album": {
+        "name": "Tenderly",
+        "url": "https://open.spotify.com/album/6hasqtBBPBVsJfkH32z2dU"
+      },
+      "artists": [
+        {
+          "name": "Stacey Kent",
+          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
+        }
+      ],
+      "duration_ms": 222906,
+      "name": "Embraceable You",
+      "url": "https://open.spotify.com/track/2TWBu8KQdlGA4SoqeFJ73A"
+    },
+    {
+      "added_at": "2022-11-08 13:20:48",
+      "album": {
         "name": "A New Path",
         "url": "https://open.spotify.com/album/6f661pRqdOU9WDFmPZID3Q"
       },
@@ -1695,22 +1647,6 @@
       "duration_ms": 348740,
       "name": "A New Path",
       "url": "https://open.spotify.com/track/4g0fsmqHLOP8QyiyEA9m6k"
-    },
-    {
-      "added_at": "2022-11-08 13:20:48",
-      "album": {
-        "name": "Tenderly",
-        "url": "https://open.spotify.com/album/6hasqtBBPBVsJfkH32z2dU"
-      },
-      "artists": [
-        {
-          "name": "Stacey Kent",
-          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
-        }
-      ],
-      "duration_ms": 222906,
-      "name": "Embraceable You",
-      "url": "https://open.spotify.com/track/2TWBu8KQdlGA4SoqeFJ73A"
     },
     {
       "added_at": "2022-11-08 13:20:48",
@@ -1779,6 +1715,74 @@
       "duration_ms": 378000,
       "name": "Stardust",
       "url": "https://open.spotify.com/track/6tMbxAYrQl0qaORbkNeoTp"
+    },
+    {
+      "added_at": "2022-11-08 13:20:48",
+      "album": {
+        "name": "Love & the Lack Thereof",
+        "url": "https://open.spotify.com/album/6G02poGGFTpTnrkrv1lrH6"
+      },
+      "artists": [
+        {
+          "name": "Kat Gang",
+          "url": "https://open.spotify.com/artist/2xTwCujoVxqAHsNTUr1qDi"
+        }
+      ],
+      "duration_ms": 373946,
+      "name": "Then I'll Be Tired of You",
+      "url": "https://open.spotify.com/track/4w1IwCOEWobiZUh5uA35GZ"
+    },
+    {
+      "added_at": "2022-11-08 13:20:48",
+      "album": {
+        "name": "Nat \"King\" Cole & Me (Deluxe)",
+        "url": "https://open.spotify.com/album/3Qj26cbCEuBwA9UHDQwppO"
+      },
+      "artists": [
+        {
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+        }
+      ],
+      "duration_ms": 271413,
+      "name": "But Beautiful",
+      "url": "https://open.spotify.com/track/1wIpio4Lb8FHbn0BDVQFTZ"
+    },
+    {
+      "added_at": "2022-11-08 13:20:48",
+      "album": {
+        "name": "Reflections of a Voice",
+        "url": "https://open.spotify.com/album/7nGWElWBanIzLOX3S6jeQH"
+      },
+      "artists": [
+        {
+          "name": "Elisabeth Melander",
+          "url": "https://open.spotify.com/artist/09FsiQ9vAnKdvZcM5DZGYm"
+        }
+      ],
+      "duration_ms": 265746,
+      "name": "Like Someone in Love",
+      "url": "https://open.spotify.com/track/1my1nf6O10GIZEZRp2Cxv7"
+    },
+    {
+      "added_at": "2022-11-08 13:20:48",
+      "album": {
+        "name": "Partners",
+        "url": "https://open.spotify.com/album/1IgRzhudBVPtta2jDVa1en"
+      },
+      "artists": [
+        {
+          "name": "Barbra Streisand",
+          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
+        },
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 250293,
+      "name": "Come Rain or Come Shine (with John Mayer)",
+      "url": "https://open.spotify.com/track/2d02A2eoTYHOnI162zeAKQ"
     }
   ],
   "unique_name": "Jazzy Romance",

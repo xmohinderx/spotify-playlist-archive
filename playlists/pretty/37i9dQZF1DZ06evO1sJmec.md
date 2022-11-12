@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1sJmec.md) - [plain]
 
 > This is Metallica\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,677,194 likes - 50 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,677,861 likes - 50 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1sJmec.md) - [plain]
 | 49 | [Eye Of The Beholder](https://open.spotify.com/track/7p2yIOf8YXJUSmUnG3TAWr) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [...And Justice For All](https://open.spotify.com/album/6Eycw3dwcDMEFSqkUvLQ7g) | 6:30 |
 | 50 | [Disposable Heroes](https://open.spotify.com/track/4tPHBRIPsB55nssjvKDbjj) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Master Of Puppets \(Remastered\)](https://open.spotify.com/album/2Lq2qX3hYhiuPckC8Flj21) | 8:16 |
 
-Snapshot ID: `Mjc4MDE1OTIsMDAwMDAwMDBiZWE4Y2JkZWI1ODgxZjEwMjg2NGY5MDU1NjA2ZjJlZQ==`
+Snapshot ID: `Mjc4MDI5OTksMDAwMDAwMDBhYTgxZTRlNzA4NDEwNWJjZWFhYzhhOWE5ODhiOTM2ZQ==`

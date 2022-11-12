@@ -4,7 +4,7 @@
 
 > Celebramos las voces extraordinarias del siglo XX, recordando a Diego Verdaguer.
 
-107 songs - 6 hr 31 min - [published](https://open.spotify.com/playlist/4vO3TMb39qpZjlrTkg37pq)
+109 songs - 6 hr 38 min - [published](https://open.spotify.com/playlist/4vO3TMb39qpZjlrTkg37pq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,8 @@
 | [O Quizás Simplemente Le Regale una Rosa](https://open.spotify.com/track/3kCCDi4L4yVw2FklTpEBdv) | [Leonardo Favio](https://open.spotify.com/artist/7JWJRzjFr2Qt5yB9ondmoq) | [Fuiste Mía un Verano](https://open.spotify.com/album/5f06LnwgFScMv0Z4WEyIPm) | 3:19 | 2022-01-28 |  |
 | [Pequena y Fragil](https://open.spotify.com/track/66cURA7Ngk7rkrQ5hI46kL) | [Sabu](https://open.spotify.com/artist/4n3J3bRVaUm9R4txtKTVuu) | [15 Originales](https://open.spotify.com/album/3oWuzkgyLf8EjSfTAt5Heg) | 4:07 | 2022-01-28 |  |
 | [Por Muchas Razones Te Quiero](https://open.spotify.com/track/7uSEht8p9wuXz7sQfUBU47) | [Palito Ortega](https://open.spotify.com/artist/4jCduxx9HzFKS0RrRAtVXD) | [Palito Ortega y Sus Éxitos](https://open.spotify.com/album/6vWqqBI2PSTDoROOU6IdE3) | 3:20 | 2022-01-28 | 2022-07-29 |
-| [Por Muchas Razones Te Quiero](https://open.spotify.com/track/3uNHsihawfIiZv8XClEZoY) | [Palito Ortega](https://open.spotify.com/artist/4jCduxx9HzFKS0RrRAtVXD) | [Palito Ortega y Sus Exitos](https://open.spotify.com/album/7LqDl8hqvxYKVArJWWABtC) | 3:20 | 2022-01-28 |  |
+| [Por Muchas Razones Te Quiero](https://open.spotify.com/track/3uNHsihawfIiZv8XClEZoY) | [Palito Ortega](https://open.spotify.com/artist/4jCduxx9HzFKS0RrRAtVXD) | [Palito Ortega y Sus Exitos](https://open.spotify.com/album/7LqDl8hqvxYKVArJWWABtC) | 3:20 | 2022-01-28 | 2022-11-12 |
+| [Por Muchas Razones To Quiero](https://open.spotify.com/track/63IcC5VfXQMgtzMBhm7FO1) | [Palito Ortega](https://open.spotify.com/artist/4jCduxx9HzFKS0RrRAtVXD) | [24 Exitos \- 18 Grandes Artistas \- Romanticos](https://open.spotify.com/album/34w1J5nb6hiPvb1yKTgRub) | 3:19 | 2022-01-28 |  |
 | [Por Ti](https://open.spotify.com/track/5yRsYFUzZma7IaXhROkuo8) | [Óscar Chávez](https://open.spotify.com/artist/4QHjJWgPhculd31AHEsjOb) | [16 Exitos De Oro](https://open.spotify.com/album/7bwndiQmsxDxO4BE5OFdfb) | 2:47 | 2022-01-28 |  |
 | [Porque Yo Te Amo](https://open.spotify.com/track/2KuP2WnaXV7hiHn9KLq27E) | [Sandro](https://open.spotify.com/artist/5srsgtoePlsp0eQIXmta1O) | [Una Muchacha y una Guitarra](https://open.spotify.com/album/12h6RCRmJ7mgOzl9h7uigs) | 3:33 | 2022-01-28 |  |
 | [Querida](https://open.spotify.com/track/5ySxlyvySBhIEvoO2xx7uT) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Recuerdos II](https://open.spotify.com/album/1xrQ48Vvnvm3SmAbnIukGt) | 5:28 | 2022-01-28 |  |
@@ -100,7 +101,8 @@
 | [Te He Prometido](https://open.spotify.com/track/7Et3UkjbCjRhRaACPBXRQg) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2) | [Canta Trovador](https://open.spotify.com/album/5N2NkUNtknVxG1BtWy45U8) | 3:07 | 2022-01-28 |  |
 | [Te Llevo Bajo Mi Piel](https://open.spotify.com/track/6hObbRRXsy6SCsJVDGFZfE) | [Palito Ortega](https://open.spotify.com/artist/4jCduxx9HzFKS0RrRAtVXD) | [Te Llevo Bajo Mi Piel](https://open.spotify.com/album/5sM0abfPqNow3wD7piEbDA) | 3:34 | 2022-01-28 |  |
 | [Te quiero](https://open.spotify.com/track/2Op4UmNP8F9zNdK04xGvVh) | [José Luis Perales](https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP) | [Los Romanticos\- Jose Luis Perales](https://open.spotify.com/album/5dPzzM8LBjD6fggGjFI3p0) | 3:50 | 2022-01-28 | 2022-07-29 |
-| [Te quiero](https://open.spotify.com/track/53xN2jnRERbs7bg9t8hKDd) | [José Luis Perales](https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP) | [Nido de águilas](https://open.spotify.com/album/32WuCQwrBEno4ofZMvr0tC) | 3:50 | 2022-01-28 |  |
+| [Te quiero](https://open.spotify.com/track/53xN2jnRERbs7bg9t8hKDd) | [José Luis Perales](https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP) | [Nido de águilas](https://open.spotify.com/album/32WuCQwrBEno4ofZMvr0tC) | 3:50 | 2022-01-28 | 2022-11-12 |
+| [Te quiero](https://open.spotify.com/track/6PcJ1NJ1XFwPWWVz5cuP6g) | [José Luis Perales](https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP) | [Te Quiero](https://open.spotify.com/album/6adCuASHrf3kX8yd0PqWwL) | 3:50 | 2022-01-28 |  |
 | [Te Voy a Enseñar a Querer](https://open.spotify.com/track/1611GmlolwbEqZgoi3nqvN) | [Manoella Torres](https://open.spotify.com/artist/4JRKcLbpjobmoOVoOXPd6y) | [La Gran Colección del 60 Aniversario CBS \- Manoella Torres](https://open.spotify.com/album/7Hri6gZJ0HGvNoM7pZxPfi) | 3:16 | 2022-01-28 |  |
 | [Todo Se Derrumbó Dentro de Mí](https://open.spotify.com/track/4hWUYwFwJKpu4o49Gon76Z) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Solo Exitos](https://open.spotify.com/album/5b01rzpRKnF0NZXgdcgcA1) | 5:12 | 2022-01-28 |  |
 | [Un Beso Y Una Flor](https://open.spotify.com/track/5IU4JO2cpa0wPK8oQWFfCr) | [Nino Bravo](https://open.spotify.com/artist/03zz3zpyV15ZGw1cgjZ7tj) | [Super 20](https://open.spotify.com/album/6IXbg5QxJ4hGkrnTZo3n1B) | 4:32 | 2022-01-28 |  |

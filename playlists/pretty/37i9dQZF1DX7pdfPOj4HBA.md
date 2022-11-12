@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pdfPOj4HBA.md) - [plain]
 
 > chill vibes ♡
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,133 likes - 51 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,292 likes - 51 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pdfPOj4HBA.md) - [plain]
 | 2 | [Violin](https://open.spotify.com/track/4se25yP3bMpaMAlcxvyJ5Q) | [Cookiee Kawaii](https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1), [Dear Silas](https://open.spotify.com/artist/4C6vnglzmsWszcdp5WaX6O) | [Vanice](https://open.spotify.com/album/2FAzRCz0eQhFMUhDPTxIUb) | 1:49 |
 | 3 | [Bad Habits](https://open.spotify.com/track/7HOBojD7sxafzTTcwmfgte) | [anders](https://open.spotify.com/artist/6G1yTgvoYsuVb2Ja8cVVJ2) | [Chaos](https://open.spotify.com/album/3kAct6tEw1Lc1TGy5Vv1OI) | 2:19 |
 | 4 | [Stay With Me \(with Justin Timberlake, Halsey, & Pharrell\)](https://open.spotify.com/track/5lfWrciYtohtIMVDVZd0Rf) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Stay With Me \(with Justin Timberlake, Halsey, & Pharrell\)](https://open.spotify.com/album/62SWIKrov7HPXU0Jpc6LY1) | 3:49 |
-| 5 | [Matsuri](https://open.spotify.com/track/7AMGgAPFczs3wJgMqu6Eqi) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [LOVE ALL SERVE ALL](https://open.spotify.com/album/7Ip9X7pnkhJ4cwDoBnvneD) | 3:45 |
+| 5 | [まつり](https://open.spotify.com/track/14p77sSwVHKqBQXelzssn6) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [J\-Pop 輕旅行](https://open.spotify.com/album/5IIhYixVbYJmYBeZHD6JwK) | 3:45 |
 | 6 | [Energy \(feat\. Youngn Lipz\)](https://open.spotify.com/track/5nmVqmp0xLM377e5xkDooV) | [JKING](https://open.spotify.com/artist/305wwkdz2V7qZtTIvwPfMp), [Youngn Lipz](https://open.spotify.com/artist/36PxHmbx5QrRTpuCaw4FuV) | [Energy](https://open.spotify.com/album/76VqAPCdTZH8Ns9igl4YU8) | 2:36 |
 | 7 | [Vibe Like This \(feat\. Ty Dolla $ign & Lucky Daye\)](https://open.spotify.com/track/3e4QIt4wVVqsCqMqKxOrZd) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Vibe Like This \(feat\. Ty Dolla $ign & Lucky Daye\)](https://open.spotify.com/album/5m1gDbNlYsrXH42XLeDE05) | 3:47 |
 | 8 | [Bounce](https://open.spotify.com/track/0dc7vqP0w2kLg39jk2kVhU) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [Bounce](https://open.spotify.com/album/0oZsVFFbw4qvK1m8KBlUel) | 2:52 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pdfPOj4HBA.md) - [plain]
 | 50 | [Mon amour](https://open.spotify.com/track/51qEQn9uKebFs2H4gqv5xe) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [Multitude](https://open.spotify.com/album/6EwTLRHMROD853Kv1lAMex) | 2:52 |
 | 51 | [Une autre histoire d'amour](https://open.spotify.com/track/1y472Lgq4XgGDPeKQQKsPQ) | [Tim Dup](https://open.spotify.com/artist/2Ksaxtwx8hMgjUkzIoGDXE) | [Qu'en restera\-t\-il ?](https://open.spotify.com/album/0MlkTeAZHpHembBGF6ga55) | 4:12 |
 
-Snapshot ID: `MTY2NjE5NTIwMCwwMDAwMDAwMDk0NzY0ODg5YzM3YjA5YWU5NGNjNjEwMDY0ZmZlMWY5`
+Snapshot ID: `MTY2NjE5NTIwMCwwMDAwMDAwMGJhYWU3NWEzYTI0YmU2MTczNDI1ZmJjNjgzMGIwMTQx`

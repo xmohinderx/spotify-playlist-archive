@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM5o62BfFWh.md) - [plain]
 
 > ¡Música urbana representando a Cuba! Cover: Gente de Zona
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,314 likes - 68 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,364 likes - 68 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM5o62BfFWh.md) - [plain]
 | 44 | [De Maravilla](https://open.spotify.com/track/2uSMDj5SjyJ8r3LCurBKQ0) | [Desiguales](https://open.spotify.com/artist/3hUoZymiG2iEoFjQl2qGdl) | [El Exterminio](https://open.spotify.com/album/3gAXcqoKPLQzarJn71BGYe) | 4:00 |
 | 45 | [Mentira Por Verdad](https://open.spotify.com/track/7laeO3wKVaPcC2l2uLjGWp) | [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf), [DJ Conds](https://open.spotify.com/artist/42ppAzaKW3DW3bYRmxd1Dw) | [Mentira Por Verdad](https://open.spotify.com/album/5P1nl4E9G5KxMzrvaXsSot) | 4:08 |
 | 46 | [Besito Con Lengua](https://open.spotify.com/track/4jVEcFzRACgZm5gpkhXigP) | [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA), [Yakarta](https://open.spotify.com/artist/7a639C80zwLMF0NYMpMxzG) | [Party Full Nasty \(Deluxe Edition\)](https://open.spotify.com/album/01MOvDJDnOLpU47OT2zkFw) | 3:28 |
-| 47 | [A Veces](https://open.spotify.com/track/0nDQNtW88DWTwLKHkNoppt) | [Chocolate Mc](https://open.spotify.com/artist/15QmBDKjNXo007uqM3KnNb), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [Lo Mejor de Chocolate Mc](https://open.spotify.com/album/4OfBI6bpCsflQrY9P1OYn3) | 3:15 |
+| 47 | [A Veces](https://open.spotify.com/track/6vCB60g1U7wIRfncvEcG0a) | [Chocolate Mc](https://open.spotify.com/artist/15QmBDKjNXo007uqM3KnNb), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [A Veces](https://open.spotify.com/album/1j599y64H6FzxwnpnbEzfd) | 3:15 |
 | 48 | [Mi Palon Divino](https://open.spotify.com/track/0WzpyDEB8sDLIEufgYf6Kg) | [Chocolate Mc](https://open.spotify.com/artist/15QmBDKjNXo007uqM3KnNb) | [Mi Palon Divino](https://open.spotify.com/album/26TVHgbLZtTSnCXZw8oWnZ) | 3:40 |
-| 49 | [Todo Está Rico](https://open.spotify.com/track/4VHC2EFYKo0yN0t3h2wssz) | [El Micha](https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn) | [Latin Hits \- Reggaeton Edition \(32 Reggaeton Hits \- 50 Top Artists\)](https://open.spotify.com/album/2Vreqy6Ya3HRTMHxTmd1w4) | 3:13 |
+| 49 | [Todo Está Rico](https://open.spotify.com/track/4jEJiJFgzyZcIJH5UKt2sW) | [El Micha](https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn) | [LATIN HITS SUMMER 2019 \- 40 Latin Music Hits \(Reggaeton, Dembow, Urbano, Trap Latino, Cubaton, Salsa, Bachata, Merengue\)](https://open.spotify.com/album/5PpcOM068nsEjPynMg7rHB) | 3:13 |
 | 50 | [Guachineo](https://open.spotify.com/track/6Xwg7H3TScBF6Jy6RRG6on) | [Chocolate Mc](https://open.spotify.com/artist/15QmBDKjNXo007uqM3KnNb) | [GUACHINEO \(Cubaton \- Cuban Reggaeton 2015 \- Lo Que Mas Suena En Cuba\)](https://open.spotify.com/album/4Be7kxk3DvOv7rqiEoliSc) | 3:41 |
 | 51 | [No Mas Mentiras \- Remix](https://open.spotify.com/track/0TdwfvUyv7i96T6cbWROF3) | [Jacob Forever](https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp), [El Uniko](https://open.spotify.com/artist/78vl46oKTqjC6esrYZK2Mu), [El Micha](https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn) | [No Mas Mentiras \(Remix\)](https://open.spotify.com/album/30vjNDLhlQGEKeKzeFvvb8) | 4:04 |
 | 52 | [Focking Ni\*\*a](https://open.spotify.com/track/4LVXf7z1doa6vHEG6jDtNz) | [Yomil y El Dany](https://open.spotify.com/artist/2eQMfQXKQGV98HKiCOB7en) | [Doping](https://open.spotify.com/album/0ctKjW2XrBAwmIiej2Ja3B) | 3:31 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM5o62BfFWh.md) - [plain]
 | 63 | [Tenemos El Control \(feat\. Jorge Jr & Los 4\)](https://open.spotify.com/track/7zKXVAALHOZPmKeQxLTwam) | [Srta\. Dayana](https://open.spotify.com/artist/3CeHl9feqxRIV99dtatz6W), [Jorge Jr.](https://open.spotify.com/artist/4rTOPh4U5GgLw0sVViorhV), [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK) | [Tenemos El Control \(feat\. Jorge Jr & Los 4\)](https://open.spotify.com/album/15Lnc1Yh5SK47FcS5cVRKo) | 3:48 |
 | 64 | [Las Feas](https://open.spotify.com/track/3Vg3uZyr3lajAqCUmDQIgC) | [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA), [El Micha](https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn) | [CUBATON \- LOS EXITOS DEL REGGAETON CUBANO](https://open.spotify.com/album/5lWJmCfJE5P3wQugYqnNPq) | 3:38 |
 | 65 | [Tu de Que Vas](https://open.spotify.com/track/351vA1OGLf2e3ne2T75lFH) | [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK) | [Simplemente Lo Mejor](https://open.spotify.com/album/3RU3VqVst27dAwrfYLbEQo) | 4:22 |
-| 66 | [Volveré Junto a Ti](https://open.spotify.com/track/64c6JUdoG2qEGH8xuyXnrA) | [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK) | [Privilegio 2](https://open.spotify.com/album/1f4Sx32mc13J54vS8n1dIl) | 3:48 |
+| 66 | [Volvere Junto a Ti](https://open.spotify.com/track/5o7nZuOli9DzVIEi9ROZGw) | [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK) | [Los Exitos!](https://open.spotify.com/album/53pF7quvHbC6zRcHbz8Wts) | 3:48 |
 | 67 | [Bla Bla Bla](https://open.spotify.com/track/1Pbn9UgscbHOM7OY5dCjaa) | [El Micha](https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn) | [Bla Bla Bla](https://open.spotify.com/album/787S5irCGrnB6kNJsZZ9v7) | 3:32 |
 | 68 | [Cubaton](https://open.spotify.com/track/4bHNliUdG1EDk3O29Usvjn) | [Osmani Garcia "La Voz"](https://open.spotify.com/artist/37G8DfNgO4mQ3PKh5droSo) | [Cubaton](https://open.spotify.com/album/1Npp9LzY0iyDiL7y7kEuUi) | 3:18 |
 
-Snapshot ID: `MTY0OTQzMzk3OCwwMDAwMDAwMDI1ZjY1MDMyZDZkOTg3NTgwYTA2OGU0YzA0OTY2YTlh`
+Snapshot ID: `MTY0OTQzMzk3OCwwMDAwMDAwMDViM2QxZDk3ODA1MWZkNzAxNzgwZWVmYjI2NDRkZTcy`

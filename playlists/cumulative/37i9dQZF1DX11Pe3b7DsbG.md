@@ -4,7 +4,7 @@
 
 > Um bom sambinha para acompanhar cada gole de caipirinha.
 
-86 songs - 5 hr 1 min - [published](https://open.spotify.com/playlist/6OG3wwBWDB8FQ3P5Kl8QcH)
+87 songs - 5 hr 4 min - [published](https://open.spotify.com/playlist/6OG3wwBWDB8FQ3P5Kl8QcH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,8 +27,9 @@
 | [Coragem](https://open.spotify.com/track/1Pt5sw50mjvMMCsN71R1Q9) | [Diogo Nogueira](https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd) | [Munduê](https://open.spotify.com/album/6kJ0JRouLgeP9Pg45kev9v) | 3:31 | 2022-03-08 | 2022-07-29 |
 | [Coragem](https://open.spotify.com/track/6r4C14W79TxEkYCEGpqITg) | [Diogo Nogueira](https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd) | [Munduê](https://open.spotify.com/album/3cfNClgPYBPdc851rk4E0p) | 3:31 | 2022-03-08 |  |
 | [Coração Imprudente](https://open.spotify.com/track/52bhuRTX975WLB5tpGguvL) | [Teresa Cristina](https://open.spotify.com/artist/2j5unrF80yCu3AF8MPE2VE), [Grupo Semente](https://open.spotify.com/artist/2bp9eOh1MD4xwxUgFQll36) | [Fundamental \- Teresa Cristina e Grupo Semente](https://open.spotify.com/album/5SYSqHKFkkeHj6HmjK6Ctv) | 2:36 | 2022-03-08 |  |
+| [Coração Leviano](https://open.spotify.com/track/5M1SiL8Xl8lUW4VpjJtNsG) | [Paulinho Da Viola](https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls) | [Bis \- Paulinho Da Viola](https://open.spotify.com/album/6acEK03JM3ebF4QNJKS7wo) | 2:51 | 2022-03-08 |  |
 | [Coração Leviano](https://open.spotify.com/track/3byAfeclgYBN1cdyVc76Uh) | [Paulinho Da Viola](https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls) | [Coração Leviano](https://open.spotify.com/album/22OU59k6Hqx07gF2tqd7cy) | 2:52 | 2022-03-08 | 2022-07-29 |
-| [Coração Leviano](https://open.spotify.com/track/3Pz0EPURuJlpuUCRzgb7hQ) | [Paulinho Da Viola](https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls) | [Meus Momentos: Paulinho Da Viola](https://open.spotify.com/album/5DJ8Iu9nfpGykmggpCLsYu) | 2:52 | 2022-03-08 |  |
+| [Coração Leviano](https://open.spotify.com/track/3Pz0EPURuJlpuUCRzgb7hQ) | [Paulinho Da Viola](https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls) | [Meus Momentos: Paulinho Da Viola](https://open.spotify.com/album/5DJ8Iu9nfpGykmggpCLsYu) | 2:52 | 2022-03-08 | 2022-11-12 |
 | [Deixa A Vida Me Levar \- Ao Vivo](https://open.spotify.com/track/3ADuEIn09NAZIBgpYY3IsE) | [Zeca Pagodinho](https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb) | [Zeca Pagodinho \- Uma Prova De Amor Ao Vivo \(Deluxe\)](https://open.spotify.com/album/4rDMla3wFYoWfhcoUQ5XuC) | 3:14 | 2022-03-08 |  |
 | [Dependente Do Amor](https://open.spotify.com/track/0ONoYJqSkvUFp2wmNvH2kW) | [Zeca Pagodinho](https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb), [Xande De Pilares](https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB) | [Mais Feliz](https://open.spotify.com/album/4fN80AnER7ua5DH8U1A7k9) | 3:44 | 2022-03-08 |  |
 | [Estácio Eu e Você \- Ao Vivo](https://open.spotify.com/track/77aWqhX9yVfwj2P50AnvKi) | [Luiz Melodia](https://open.spotify.com/artist/1zZjt7cDeeJSLWZYK34r7W) | [Luiz Melodia Especial MTV \(Ao Vivo\)](https://open.spotify.com/album/5yAarIXV8aFp0tMacqDH1h) | 3:05 | 2022-03-08 |  |

@@ -4,7 +4,7 @@
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Bárbara Bandeira e Ivandro.
 
-142 songs - 7 hr 58 min - [published](https://open.spotify.com/playlist/0ZcjSUxcyp6vwIHuLPj7q0)
+143 songs - 8 hr 2 min - [published](https://open.spotify.com/playlist/0ZcjSUxcyp6vwIHuLPj7q0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,13 +68,14 @@
 | [Impec](https://open.spotify.com/track/37M00uZSz6smSxZ7pHchuh) | [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d) | [Deepak Looper](https://open.spotify.com/album/6fmSivCeFMAVtMGA2GRMZf) | 3:13 | 2022-07-07 |  |
 | [Jorge Mundo](https://open.spotify.com/track/249u6O2uBVavumgxEpQyWN) | [Reyz](https://open.spotify.com/artist/17NgBeR3LCYGxecmH0PTOl) | [Jorge Mundo](https://open.spotify.com/album/2jtgdgFSqKMJX2AuBIXnYA) | 3:27 | 2022-08-18 | 2022-09-02 |
 | [Já Não Dá](https://open.spotify.com/track/0iWK3yXRNehoxd3mGzOf4x) | [Nello Fellirio](https://open.spotify.com/artist/4bhLHkwtkdynyvACyYesq4), [Johnny B.O.B](https://open.spotify.com/artist/2eSh5msnLJbgXewXSm9XvJ), [Penelas Sidney](https://open.spotify.com/artist/29DNcEMcr9tzvXywJC2L6K) | [Já Não Dá](https://open.spotify.com/album/0AxsOCsnd0mdbqV8XExiTS) | 3:43 | 2022-10-13 | 2022-11-11 |
-| [Ka nu komplika](https://open.spotify.com/track/4m1wnxbGmnKLE8BsWy6pBD) | [Ricky Man](https://open.spotify.com/artist/3rfltEHnMqq67JqiCU0s6n), [Valter LS](https://open.spotify.com/artist/3HluRyydje2ZZVhFvwXl5P) | [Ka nu komplika](https://open.spotify.com/album/0jVrhfP5LcnoJMftzS7ueW) | 3:19 | 2022-10-27 |  |
+| [Ka nu komplika](https://open.spotify.com/track/4m1wnxbGmnKLE8BsWy6pBD) | [Ricky Man](https://open.spotify.com/artist/3rfltEHnMqq67JqiCU0s6n), [Valter Ls](https://open.spotify.com/artist/6tUbiFgsJZ1mTC4XU7EIAW) | [Ka nu komplika](https://open.spotify.com/album/0jVrhfP5LcnoJMftzS7ueW) | 3:19 | 2022-10-27 |  |
 | [Lagrimas na Chuva](https://open.spotify.com/track/51byFLUe5raxXpa0ev0sFU) | [Ndozzi](https://open.spotify.com/artist/7j54Jqg5u1ualZP093JHt2), [Famoso](https://open.spotify.com/artist/7Gyjz5usu308wBX2hZjbrc) | [Lagrimas na Chuva](https://open.spotify.com/album/6cknxnSfqXYtqNdSI0F3Yh) | 2:52 | 2022-07-07 | 2022-08-06 |
 | [Layah](https://open.spotify.com/track/7mHRrnFWPKD0a6fYrfsSYl) | [WAY 45](https://open.spotify.com/artist/5HecInQ5WBDHP4mkrU9TXv), [Salah](https://open.spotify.com/artist/4vx0e5kKIYBc7kCNqVjuef) | [Layah](https://open.spotify.com/album/5Q6KIhKt5QIkM02pzZ6fUS) | 2:49 | 2022-07-07 | 2022-07-22 |
 | [Lembra\-te](https://open.spotify.com/track/4kGx4Jl9U74iCUy9HfSnRl) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY) | [Desde a Origem](https://open.spotify.com/album/7i5xYoXAZRC9HONBaVyZTn) | 3:16 | 2022-07-07 |  |
 | [Lembrei\-me](https://open.spotify.com/track/5hF6VYE61LV6Jr6dy86CvI) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY) | [Mais Antigo](https://open.spotify.com/album/6jv4CzMCPVJqt0DTlAiJw3) | 3:26 | 2022-07-07 |  |
 | [Lentamente](https://open.spotify.com/track/7IBuWKHuCG79ee99IlaHvd) | [B.E.R.A](https://open.spotify.com/artist/69N3zTGQ7lPJURlJCklOSk), [Raissa](https://open.spotify.com/artist/6mP6GzMUDurr8CscsMEHpB) | [Lentamente](https://open.spotify.com/album/2Zgwiw7nCQMm8jqaGzj1OX) | 4:37 | 2022-07-07 | 2022-07-27 |
 | [Let You Go](https://open.spotify.com/track/2Z8pPatBfVlRqNlsnmMdhV) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Let You Go](https://open.spotify.com/album/75YlSkZGyWUGB1BzPd9Egz) | 3:24 | 2022-07-07 |  |
+| [Longe](https://open.spotify.com/track/6f8pxYAEPtolYp4JKdh4YB) | [Dinis Mota](https://open.spotify.com/artist/4ZtaPrKdemEzqprB4bIzdx) | [Longe](https://open.spotify.com/album/0dX4dmqGhGmbDxiDq2ya1Q) | 3:45 | 2022-11-11 |  |
 | [Losing](https://open.spotify.com/track/7w2yYropy6oWtdrrQZX6EZ) | [SLR](https://open.spotify.com/artist/76VHpa0HS1HbibsmCYo4oD) | [Losing](https://open.spotify.com/album/7KoeAFFIVeRL1VDajEgLjI) | 3:56 | 2022-10-13 | 2022-11-11 |
 | [Lua](https://open.spotify.com/track/7BELSQR2lAJLELaKvVkct3) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Lua](https://open.spotify.com/album/7tMIxE9bA5hgemL5tUzvI1) | 3:12 | 2022-07-07 |  |
 | [Lumi](https://open.spotify.com/track/3T730d6ZWMwVnMXE51v2eY) | [Gang Mka](https://open.spotify.com/artist/0KXnikJ0xyK7bm4zOd5bs3) | [Lumi](https://open.spotify.com/album/0wx0yTWfXM641rHK9rFSr6) | 3:14 | 2022-11-11 |  |

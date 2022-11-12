@@ -714,6 +714,24 @@
     },
     {
       "album": {
+        "name": "Glass Mix 3",
+        "url": "https://open.spotify.com/album/1VGP2NfyIqKpmdDa0ow60V"
+      },
+      "artists": [
+        {
+          "name": "Citizen",
+          "url": "https://open.spotify.com/artist/0znuUIjvP0LXEslfaq0Nor"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209224,
+      "name": "Glass World (Alternative Version)",
+      "url": "https://open.spotify.com/track/2tcRiF9x1ZiW0QZGLvXOi1"
+    },
+    {
+      "album": {
         "name": ".5: The Gray Chapter (Special Edition)",
         "url": "https://open.spotify.com/album/0ApKaazNHf0gzjAYZauexq"
       },
@@ -1157,7 +1175,7 @@
       ],
       "date_added": "2021-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 235653,
       "name": "Make Me Wanna Die",
       "url": "https://open.spotify.com/track/2opyAm6zOyjR0An5LkblfN"

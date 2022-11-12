@@ -512,6 +512,24 @@
     },
     {
       "album": {
+        "name": "Spring Breakers 2021",
+        "url": "https://open.spotify.com/album/3mc7YfYD6vojcREl0OA6Ly"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "date_added": "2021-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221000,
+      "name": "Heads Will Roll",
+      "url": "https://open.spotify.com/track/1YaOIrutGLebjpneXgQqol"
+    },
+    {
+      "album": {
         "name": "It's Blitz!",
         "url": "https://open.spotify.com/album/6w21zEx5okRPCYJejLVRdR"
       },
@@ -541,7 +559,7 @@
       ],
       "date_added": "2021-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 221000,
       "name": "Heads Will Roll",
       "url": "https://open.spotify.com/track/4WiIscpBgQFm5qIyjoH7M4"
@@ -743,10 +761,28 @@
       ],
       "date_added": "2021-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 211183,
       "name": "Let's Make Love and Listen to Death From Above",
       "url": "https://open.spotify.com/track/1Jd9W7k8DTnBSovDSxK77n"
+    },
+    {
+      "album": {
+        "name": "Let's Make Love And Listen To Death From Above",
+        "url": "https://open.spotify.com/album/5iaa3h5dYAAZ4lmghf3syq"
+      },
+      "artists": [
+        {
+          "name": "CSS",
+          "url": "https://open.spotify.com/artist/2K13AVg3bFpHSxDM1vJ0qA"
+        }
+      ],
+      "date_added": "2021-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211183,
+      "name": "Let's Make Love and Listen to Death From Above",
+      "url": "https://open.spotify.com/track/5KLE0X8eNk19rORfCDoJgD"
     },
     {
       "album": {
@@ -1067,10 +1103,28 @@
       ],
       "date_added": "2021-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 209880,
       "name": "Somebody",
       "url": "https://open.spotify.com/track/4ygF0U1GZSmrvVnoKhBRur"
+    },
+    {
+      "album": {
+        "name": "Somebody",
+        "url": "https://open.spotify.com/album/45EqNmQsfluL4ePkiYiK2R"
+      },
+      "artists": [
+        {
+          "name": "Dream Wife",
+          "url": "https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a"
+        }
+      ],
+      "date_added": "2021-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209880,
+      "name": "Somebody",
+      "url": "https://open.spotify.com/track/6uRLeaoBrxr8AaTXnLSlgS"
     },
     {
       "album": {

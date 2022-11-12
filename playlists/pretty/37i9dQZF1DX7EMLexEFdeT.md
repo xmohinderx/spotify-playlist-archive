@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7EMLexEFdeT.md) - [plain]
 
 > Did you hear that?
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,707 likes - 75 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,818 likes - 75 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7EMLexEFdeT.md) - [plain]
 | 7 | [Teardrop](https://open.spotify.com/track/67Hna13dNDkZvBpTXRIaOJ) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X) | [Mezzanine](https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR) | 5:30 |
 | 8 | [Seven Devils](https://open.spotify.com/track/5qaLfqAUiqvsoL0l4T05Yx) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Ceremonials \(Deluxe Edition\)](https://open.spotify.com/album/5SxudoALxEAVh9l83kSebx) | 5:03 |
 | 9 | [Dead Souls \- From "The Crow" Soundtrack](https://open.spotify.com/track/4jOi4D0touCN691r2F03Tm) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [The Downward Spiral \(Deluxe Edition\)](https://open.spotify.com/album/5I7lLu8xXJfGRdFUqHaLQU) | 4:53 |
-| 10 | [White Foxes](https://open.spotify.com/track/6HcR7kgWHEPTStbJyjEEEO) | [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [The Silicone Veil](https://open.spotify.com/album/1EZyuV7Oo23PeUdKxZkq9t) | 4:21 |
+| 10 | [White Foxes](https://open.spotify.com/track/5OU6ugivZfNo8IBAm9yc7A) | [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [The Silicone Veil](https://open.spotify.com/album/5dI4gXLOWDJ25XuWUIznmt) | 4:16 |
 | 11 | [Silent Shout](https://open.spotify.com/track/6JQFuxLwhvtHRmRMebgiLB) | [The Knife](https://open.spotify.com/artist/7eQZTqEMozBcuSubfu52i4) | [Silent Shout](https://open.spotify.com/album/6rdNbdV3T4muFFFSjGdOj9) | 4:53 |
 | 12 | [Family Tree](https://open.spotify.com/track/5l79pLYX6NwTa6FiT8Eoyo) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Preacher’s Daughter](https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8) | 7:10 |
 | 13 | [Slowdance I](https://open.spotify.com/track/4G0LxX3BHpxI6QJZbw0iK6) | [The Murder Capital](https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp) | [When I Have Fears](https://open.spotify.com/album/17ozByfYT9iEhfGNcT6mdz) | 4:01 |
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7EMLexEFdeT.md) - [plain]
 | 22 | [Deranged for Rock & Roll](https://open.spotify.com/track/0Fs7jajFWWfBcC4Mox3m7p) | [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [Birth of Violence](https://open.spotify.com/album/6bpgmfwTWBLxT7VuS1phjL) | 3:31 |
 | 23 | [Jupiter 4](https://open.spotify.com/track/74n118P9h9Sz2AwDSc3f8N) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Remind Me Tomorrow](https://open.spotify.com/album/4bfvR9TMwCm2tzXpboLH3t) | 5:14 |
 | 24 | [Spellbound](https://open.spotify.com/track/5Ng6UbryNd3eds2zQk9MUf) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Juju](https://open.spotify.com/album/5OEum65e1HMGX51Ifu51Wb) | 3:17 |
-| 25 | [Widow's Peak](https://open.spotify.com/track/70rmykCzXyK5F4Xzh3xLww) | [Odetta Hartman](https://open.spotify.com/artist/0fhRF7RN2smrrRXlB1S2GM) | [Old Rockhounds Never Die](https://open.spotify.com/album/3Jb4Qyb0nmKWW7JXhZQ3wA) | 3:51 |
+| 25 | [Widow's Peak](https://open.spotify.com/track/60Q9G9OhXkfe5Hfla12kd0) | [Odetta Hartman](https://open.spotify.com/artist/0fhRF7RN2smrrRXlB1S2GM) | [Widow's Peak](https://open.spotify.com/album/0FyLW7baFYzM7hOWKt8zXF) | 3:51 |
 | 26 | [Uninvited](https://open.spotify.com/track/7c1iI6dwdCpHGYT8DGEfab) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [The Collection \(Standard Edition\)](https://open.spotify.com/album/4N7LuZYpstQrtcHIoOKzqg) | 4:36 |
 | 27 | [The Killing Moon](https://open.spotify.com/track/15049rGLXHwrWtE4euUb5C) | [Echo & the Bunnymen](https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z) | [Songs to Learn & Sing](https://open.spotify.com/album/0VYyqjM5H2sXj6z8ocAyjb) | 5:46 |
 | 28 | [Mysterons](https://open.spotify.com/track/2O6X9nPVVQSefg3xOQAo5u) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Dummy](https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno) | 5:05 |
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7EMLexEFdeT.md) - [plain]
 | 32 | [Black Car](https://open.spotify.com/track/01nAFCJt800IIkmGwuWiWR) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [7](https://open.spotify.com/album/1zN85Ep8w2JORfCe0RHLDP) | 4:11 |
 | 33 | [If I Had A Heart](https://open.spotify.com/track/1we2UifyzGe2tgvTVFTwD4) | [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY) | [Fever Ray](https://open.spotify.com/album/4vOREA0zA9Ym705rpaXBc1) | 3:47 |
 | 34 | [Dream Girl Evil](https://open.spotify.com/track/7GtOjSSp5Qyi3gNbNDZgja) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Dance Fever](https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE) | 3:47 |
-| 35 | [Violence \- Original Mix](https://open.spotify.com/track/3KeOFns3LGJuh1lapMm9eA) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab), [i\_o](https://open.spotify.com/artist/0y42IQBDFigO5mmEd1bGQG) | [Miss Anthropocene \(Deluxe Edition\)](https://open.spotify.com/album/4zyqNfmTrnvUejh8M1IEh9) | 3:40 |
+| 35 | [Violence \- Original Mix](https://open.spotify.com/track/4YpjWwy0YOz0KZrYD6Wp6f) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab), [i\_o](https://open.spotify.com/artist/0y42IQBDFigO5mmEd1bGQG) | [Miss Anthropocene](https://open.spotify.com/album/2tKMfEo15Y4OMEm5sljPsJ) | 3:40 |
 | 36 | [That Other Girl](https://open.spotify.com/track/04Mr5jeXzPFnEQUPtPzRVP) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie) | [The Suspended Kid](https://open.spotify.com/album/0TT7gSYro7GSKZwUlPefBf) | 3:02 |
 | 37 | [Spellwork](https://open.spotify.com/track/5ww5lzQmXVaEmVJXCtFR4J) | [Austra](https://open.spotify.com/artist/1o43SzzuLoyOxqThmp7s0g) | [Feel It Break](https://open.spotify.com/album/5Q4twEkKreQ54pnMSBKYrU) | 5:09 |
 | 38 | [Black Magic](https://open.spotify.com/track/2fMUHAZoqHjscGlC8NVzqX) | [Jarvis Cocker](https://open.spotify.com/artist/13W7XLRXdWeLmIu9vacE1w) | [Jarvis \(2020 Complete Edition\)](https://open.spotify.com/album/6VNKKb04mPaPPLE8fmMRAP) | 4:23 |
@@ -56,14 +56,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7EMLexEFdeT.md) - [plain]
 | 46 | [Madness](https://open.spotify.com/track/00ZJlTq0TVZCNxOUHRc8GM) | [Ruelle](https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx) | [Madness Guarantee](https://open.spotify.com/album/4sI93ECsXC1eCBtYZk9IUT) | 3:31 |
 | 47 | [Raise Hell](https://open.spotify.com/track/4TWn4YeBaTqDURrYLd6k0a) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Bear Creek](https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE) | 4:08 |
 | 48 | [Everybody Wants To Rule The World \- From “The Hunger Games: Catching Fire” Soundtrack](https://open.spotify.com/track/3S1tTwSKIZgf4QGltFyCxM) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [The Hunger Games: Catching Fire \(Original Motion Picture Soundtrack / Deluxe Version\)](https://open.spotify.com/album/0SEBE7BfXHY4o9VQICoZOC) | 2:35 |
-| 49 | [Gods & Monsters](https://open.spotify.com/track/6sGaavvDeGTY3wV9hzIEOP) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die – Paradise Edition \(Special Version\)](https://open.spotify.com/album/0Dt3FbpMQwjoT5KNAw0IXR) | 3:57 |
+| 49 | [Gods & Monsters](https://open.spotify.com/track/1wa25BuCtMePIYgf8sHkgY) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Paradise](https://open.spotify.com/album/1JnjcAIKQ9TSJFVFierTB8) | 3:57 |
 | 50 | [The Hanging Tree](https://open.spotify.com/track/2PaKvBW6cpNp6DxdpZyjn5) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [The Hanging Tree](https://open.spotify.com/album/2CuwE8reOOjtnd9bHLtDD0) | 2:51 |
 | 51 | [\(Don't Fear\) The Reaper](https://open.spotify.com/track/5QTxFnGygVM4jFQiBovmRo) | [Blue Öyster Cult](https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2) | [Agents Of Fortune](https://open.spotify.com/album/6C9WzlQANeoD0GW5B41YJt) | 5:08 |
 | 52 | [Evil Eye](https://open.spotify.com/track/5GnHgtA5PUQo9Ifzj53gEM) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Evil Eye Remixes](https://open.spotify.com/album/3jY0cRA71NmPZCn1I3R2Xg) | 2:47 |
 | 53 | [Smoking Section](https://open.spotify.com/track/2Kkg6KwQDY6hOHIoTxFL8d) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [MASSEDUCTION](https://open.spotify.com/album/4RoOGpdrgfiIUyv0kLaC4e) | 3:37 |
 | 54 | [COPYCAT](https://open.spotify.com/track/5w7wuzMzsDer96KqxafeRK) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [dont smile at me](https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU) | 3:14 |
 | 55 | [Werewolf](https://open.spotify.com/track/04pMx29snydsnkCQJZaQtV) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [You Are Free](https://open.spotify.com/album/1ILPBTSa7KJCPIs39Bp11d) | 4:05 |
-| 56 | [Black Magic](https://open.spotify.com/track/16unahashOe5GkfLykXrIZ) | [Magic Wands](https://open.spotify.com/artist/1k3M9rRscrnQWWtFpPkajL) | [Aloha Moon \(Deluxe Edition\)](https://open.spotify.com/album/622C1Fom2FmQH9makye91a) | 2:33 |
+| 56 | [Black Magic](https://open.spotify.com/track/58LeCCS4v8dBxL1ApCkg5R) | [Magic Wands](https://open.spotify.com/artist/1k3M9rRscrnQWWtFpPkajL) | [Black Magic](https://open.spotify.com/album/7dOVieYlIOdSFjbpRTKVZv) | 2:33 |
 | 57 | [Running with the Wolves](https://open.spotify.com/track/20qtjUDcb8HH8ouF51BirQ) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [All My Demons Greeting Me as a Friend \(Deluxe\)](https://open.spotify.com/album/0ltlJlYNzuXoMMv7fie9D9) | 3:14 |
 | 58 | [Burn the Witch](https://open.spotify.com/track/3DpuYpzkvUWXbmzCm6pfzR) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [A Moon Shaped Pool](https://open.spotify.com/album/2ix8vWvvSp2Yo7rKMiWpkg) | 3:40 |
 | 59 | [Panic Room](https://open.spotify.com/track/7uUahoeqGNRMbpdeiLj1rS) | [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [Panic Room](https://open.spotify.com/album/3F83QiIRImUneMzZdSaTTM) | 3:57 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7EMLexEFdeT.md) - [plain]
 | 74 | [The Hunger](https://open.spotify.com/track/10I9hmHLvykrzTa97cS0ZD) | [Bat For Lashes](https://open.spotify.com/artist/6l77PmL5iuEEcYjGl8K6s7) | [The Hunger](https://open.spotify.com/album/657lln9KlewRSN4UHIbg30) | 4:59 |
 | 75 | [Easy \(Switch Screens\) \[feat\. Lorde\]](https://open.spotify.com/track/2mKply9i2G0MVrkNSY0m5x) | [Son Lux](https://open.spotify.com/artist/3kZdsaTYgaaolNxpnJ4iDe), [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Alternate Worlds](https://open.spotify.com/album/7fRSmnWeRIFZCZ1Ng2m5m7) | 4:22 |
 
-Snapshot ID: `MTY2NjcwNTIyMiwwMDAwMDAwMGUwZTlmOGEzZTNjZjFhMmVlZTBkZjg4ZDY1NzRhZWZk`
+Snapshot ID: `MTY2NjcwNTIyMiwwMDAwMDAwMDBkZDMyODY2NTViYTM2ZGI5MzY4ZWZmMjBiNjE0ZDMy`

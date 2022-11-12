@@ -4,7 +4,7 @@
 
 > The biggest songs in Latin America in 2000\. Cover: Joan Sebastian
 
-59 songs - 4 hr 15 min - [published](https://open.spotify.com/playlist/7rDMQ8PyGXsU6SOwqfSvQH)
+60 songs - 4 hr 22 min - [published](https://open.spotify.com/playlist/7rDMQ8PyGXsU6SOwqfSvQH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [Cuándo](https://open.spotify.com/track/40RI3qFVisaEy0HC49LMkz) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Galeria Caribe](https://open.spotify.com/album/3Pido82I7SgITS8LDABA7y) | 4:34 | 2021-12-22 |  |
 | [Cuídate](https://open.spotify.com/track/7gqIqyeCaV2xNtfZWxEphD) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [El Viaje de Copperpot](https://open.spotify.com/album/3HnSOodhuufrSTBnGZQ3fu) | 2:49 | 2021-12-22 |  |
 | [Cómo hablar](https://open.spotify.com/track/3DYm7Lp7Fc3xf6WSCq5ntE) | [Amaral](https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi) | [Una Pequeña Parte Del Mundo](https://open.spotify.com/album/4dPBUpgpgdXdeeUyEOh8jT) | 4:01 | 2021-12-22 |  |
-| [Digno](https://open.spotify.com/track/0UqzSQKlgsGXxhsZK00SfL) | [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ) | [Amanece \(Deluxe Edition\)](https://open.spotify.com/album/5iI8Rm9RDdCBRAKD8Lyk8J) | 7:24 | 2021-12-22 |  |
+| [Digno](https://open.spotify.com/track/0UqzSQKlgsGXxhsZK00SfL) | [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ) | [Amanece \(Deluxe Edition\)](https://open.spotify.com/album/5iI8Rm9RDdCBRAKD8Lyk8J) | 7:24 | 2021-12-22 | 2022-11-12 |
+| [Digno](https://open.spotify.com/track/35GAPMbmZx3zicdcwcUEIk) | [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ), [Marcos Brunet](https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I) | [Amanece \(Deluxe\)](https://open.spotify.com/album/4QAINDXWRYZ40GJun5RHfG) | 7:24 | 2021-12-22 |  |
 | [Digno](https://open.spotify.com/track/25tGKAPQyxt3XWoZaKh4YE) | [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ), [Marcos Brunet](https://open.spotify.com/artist/3XAsLrjUgQ9V2D8MjTfv8C), [Yvonne Muñoz](https://open.spotify.com/artist/5eF9oy3uIgTMRIX3xkAfGi) | [Amanece \(Deluxe Edition\)](https://open.spotify.com/album/6Cc1JTOGWY55Fz5EVuadDy) | 7:24 | 2021-12-22 | 2022-07-29 |
 | [El alma al aire](https://open.spotify.com/track/4Vp3RsQyxbZiIiVj3JSZkp) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Coleccion definitiva \(Deluxe\)](https://open.spotify.com/album/2avjXzB9ndvLElhdXzKOBX) | 5:56 | 2021-12-22 | 2022-07-29 |
 | [El Ultimo Adios](https://open.spotify.com/track/7lnun6viJADQCvZnE0w9q8) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [Paulina](https://open.spotify.com/album/64M45unRUhuzlOYth6w5HB) | 4:45 | 2021-12-22 |  |

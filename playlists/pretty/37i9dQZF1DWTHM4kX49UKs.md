@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTHM4kX49UKs.md) - [plain]
 
 > The best indie rock/pop/hip hop/dance/r&b of the 2010s\. Cover: Tame Impala
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,420 likes - 100 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,423 likes - 100 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTHM4kX49UKs.md) - [plain]
 | 10 | [Let It Happen](https://open.spotify.com/track/2X485T9Z5Ly0xyaghN73ed) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 7:47 |
 | 11 | [I Know There's Gonna Be \(Good Times\)](https://open.spotify.com/track/0ubw29ZQFMOKwXNYWwk67K) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [I Know There's Gonna Be \(Good Times\) \[Remixes\]](https://open.spotify.com/album/0b4kYbl0UAVkpq1NkAmHrr) | 3:33 |
 | 12 | [Your Dog](https://open.spotify.com/track/3BpUZB0tw4zNmG3Iw1mclL) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Clean](https://open.spotify.com/album/36NLDBi2kX7XRHnyLzLOS8) | 3:14 |
-| 13 | [Hannah Hunt](https://open.spotify.com/track/6AY1M1akbsVaQN3ATVyzH7) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Modern Vampires of the City](https://open.spotify.com/album/1GXMNFfoHF4sN7lG8gZq1j) | 3:57 |
+| 13 | [Hannah Hunt](https://open.spotify.com/track/1YYHEH9j9repa1oWtss9AK) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Modern Vampires of the City](https://open.spotify.com/album/7uxo8pIrikPy6WHdiOBaci) | 3:57 |
 | 14 | [Norf Norf](https://open.spotify.com/track/4uQ7wYsuL0DryknoDc11Hk) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Summertime '06](https://open.spotify.com/album/4Csoz10NhNJOrCTUoPBdUD) | 3:03 |
 | 15 | [Royals](https://open.spotify.com/track/2dLLR6qlu5UJ5gk0dKz0h3) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine](https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v) | 3:10 |
 | 16 | [Holocene](https://open.spotify.com/track/1ILEK6NRfxoseoPnolRcVA) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver \(10th Anniversary Edition\)](https://open.spotify.com/album/6xfOCqmQvpvgR5aq6fpKMD) | 5:36 |
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTHM4kX49UKs.md) - [plain]
 | 23 | [Pretty Pimpin](https://open.spotify.com/track/47cNDW1xyM03mT2kseO41a) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [b'lieve i'm goin down...](https://open.spotify.com/album/07W2z9W0uWJPdG8Po0MDiR) | 4:58 |
 | 24 | [The Morning](https://open.spotify.com/track/6u0dQik0aif7FQlrhycG1L) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Trilogy](https://open.spotify.com/album/5EbpxRwbbpCJUepbqVTZ1U) | 5:12 |
 | 25 | [Should Have Known Better](https://open.spotify.com/track/3AyuigFWbuirWHvidbMz8O) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Carrie & Lowell](https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS) | 5:07 |
-| 26 | [Old Friends](https://open.spotify.com/track/4ykQ18swXrkrrbwsZKxQo7) | [Pinegrove](https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB) | [Cardinal \(Expanded Edition\)](https://open.spotify.com/album/4hsC5IvasDOCrWwM8UQ3N4) | 3:27 |
+| 26 | [Old Friends](https://open.spotify.com/track/5LfJ8N85HSDkp7kNxOelVe) | [Pinegrove](https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB) | [Cardinal](https://open.spotify.com/album/5oe0GYxC8MjbDFR8YZnsNr) | 3:27 |
 | 27 | [Close Your Eyes \(And Count to Fuck\)](https://open.spotify.com/track/3RlurnnuVkVbaN6lul4136) | [Run The Jewels](https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C), [El\-P](https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl), [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [Zack De La Rocha](https://open.spotify.com/artist/1jKpNUjiz4KXgaAZD5FI9S) | [Run the Jewels 2](https://open.spotify.com/album/6WBUyDe1Xy8QRwF6wzhJsY) | 3:54 |
 | 28 | [Sprawl II \(Mountains Beyond Mountains\)](https://open.spotify.com/track/0U0p8weaMIbIFMJ0CPlvHV) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [The Suburbs](https://open.spotify.com/album/3DrgM5X3yX1JP1liNLAOHI) | 5:25 |
 | 29 | [Bags](https://open.spotify.com/track/6UFivO2zqqPFPoQYsEMuCc) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 4:20 |
@@ -46,11 +46,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTHM4kX49UKs.md) - [plain]
 | 36 | [17](https://open.spotify.com/track/5UVBumEwdUnzvqxrXOYLFA) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [The Year of Hibernation](https://open.spotify.com/album/7jG32gfkuo10qarPgmWC7q) | 3:56 |
 | 37 | [Ode to Viceroy](https://open.spotify.com/track/6WZjjf4mKurHPC5BhdGwet) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [2](https://open.spotify.com/album/2XgBQwGRxr4P7cHLDYiqrO) | 3:53 |
 | 38 | [Don't Touch My Hair \(feat\. Sampha\)](https://open.spotify.com/track/2TyCAfhwu5tRqFW8VnGMIL) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [A Seat at the Table](https://open.spotify.com/album/3Yko2SxDk4hc6fncIBQlcM) | 4:17 |
-| 39 | [Helplessness Blues](https://open.spotify.com/track/02VdHwnGhy5fTW2CTZkYsb) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Helplessness Blues](https://open.spotify.com/album/7D0rCfJjFj9x0bdgRKtvzb) | 5:03 |
+| 39 | [Helplessness Blues](https://open.spotify.com/track/0dO6w8Z5ZUPSeuARe0sebQ) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Spring Break 2011](https://open.spotify.com/album/3qmc45KqeQB4VBa8QhvJQX) | 5:03 |
 | 40 | [Sound & Color](https://open.spotify.com/track/26HaY4D7AV0gVxmkz11bIz) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color \(Deluxe\)](https://open.spotify.com/album/4atu34ixQLgqG2FUVpuDdA) | 3:02 |
 | 41 | [Wildfire](https://open.spotify.com/track/06U3tIapsJ0X6dZx5nhLtt) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [SBTRKT](https://open.spotify.com/album/4ncktAfHYJlko5yZgqce3H) | 3:21 |
 | 42 | [Bloodbuzz Ohio](https://open.spotify.com/track/3lnF83kG6ePhTSWRoW62dO) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [High Violet](https://open.spotify.com/album/3mX8oKajxXEBNNATCKLLPd) | 4:35 |
-| 43 | [Pristine](https://open.spotify.com/track/5JX6gZ5mOASumPrU1JbfbV) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Lush](https://open.spotify.com/album/2ZlrWJ4Ev4DhG6mRo5h1AP) | 4:55 |
+| 43 | [Pristine](https://open.spotify.com/track/29JIkq4g50bGq5uCeXhYzj) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Pristine](https://open.spotify.com/album/7lyLXAeuKA2N3TdcUceYEh) | 4:55 |
 | 44 | [Girl \(feat\. KAYTRANADA\)](https://open.spotify.com/track/3PFaFVWq5wucLu6s4baj9D) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Ego Death](https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q) | 6:55 |
 | 45 | [Feels Like We Only Go Backwards](https://open.spotify.com/track/0LtOwyZoSNZKJWHqjzADpW) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7) | 3:12 |
 | 46 | [So Good at Being in Trouble](https://open.spotify.com/track/0LD3R5V6UzrQaLfl3xqFLs) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [II \(Deluxe Edition\)](https://open.spotify.com/album/2pzteMl5K2IGh04qXN6phA) | 3:50 |
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTHM4kX49UKs.md) - [plain]
 | 50 | [Odessa](https://open.spotify.com/track/3D1P3oPecqAQy2u33gAhsM) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Swim](https://open.spotify.com/album/3gkW0gOyovtdcscDX6WZ6O) | 5:15 |
 | 51 | [Don't Wanna Be Your Girl](https://open.spotify.com/track/6HG1JWEbfuf8y1ZhLVq9L3) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Don't You](https://open.spotify.com/album/4vTrbwGUedO7SN3DqNOiYU) | 3:17 |
 | 52 | [Raingurl](https://open.spotify.com/track/4XXfQ8fBHMIgcygY4hV6RC) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [EP2](https://open.spotify.com/album/6zB32HTy4cewV8V7TuHzKJ) | 3:57 |
-| 53 | [All My Happiness is Gone](https://open.spotify.com/track/0oCpNIVoV1iJK51xmh59Yh) | [Purple Mountains](https://open.spotify.com/artist/1ll45mCZIveI9KHNZx2DdS) | [Purple Mountains](https://open.spotify.com/album/6YM4MpYgz6BhIeqQkxp3u4) | 4:20 |
+| 53 | [All My Happiness is Gone](https://open.spotify.com/track/3REGbJ5sl2RivUzgS2UZkF) | [Purple Mountains](https://open.spotify.com/artist/1ll45mCZIveI9KHNZx2DdS) | [All My Happiness is Gone](https://open.spotify.com/album/39FwK9nw1fyF39hZUkPUt2) | 4:20 |
 | 54 | [I Follow Rivers](https://open.spotify.com/track/336ZYcU6poBWi3s8yzRcAD) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Wounded Rhymes](https://open.spotify.com/album/43uf0nTu6b5ReBCoQkLtsF) | 3:48 |
 | 55 | [Only Child](https://open.spotify.com/track/4zMmqb0pYwX6b0qc0slCoT) | [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh) | [Only Child](https://open.spotify.com/album/0vioXPjQ9v9dSkzw5xHrTQ) | 3:59 |
 | 56 | [22 \(OVER S∞∞N\)](https://open.spotify.com/track/3EYj5rxRbNM3nijF9dOtry) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [22, A Million](https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl) | 2:48 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTHM4kX49UKs.md) - [plain]
 | 97 | [The Words That Maketh Murder](https://open.spotify.com/track/2QuvT46pnd93GDBYCpSlBf) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Let England Shake](https://open.spotify.com/album/2f8Rfpdol5jrJe3OL4YH6k) | 3:45 |
 | 98 | [Lucky](https://open.spotify.com/track/0mYslGmbnkbxuyr0ISIYtB) | [Choker](https://open.spotify.com/artist/5XQRfs0gXs30aWUn1Umves) | [Forever & A Few](https://open.spotify.com/album/1NHlnn47gB3IrP9fwahcjF) | 4:11 |
 | 99 | [fineshrine](https://open.spotify.com/track/4Gr2QYZJpGnZpKcuQyEw1a) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [shrines X](https://open.spotify.com/album/34qsY2V9hsXviGPlq5tvco) | 3:29 |
-| 100 | [Busy Earnin'](https://open.spotify.com/track/5TloYFwzd09yWy8xkRLVUu) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Jungle](https://open.spotify.com/album/5dYCfDcz1KB5E9i2kgWXXr) | 3:01 |
+| 100 | [Busy Earnin'](https://open.spotify.com/track/43tncrOBxBVimilLyZQAtF) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Busy Earnin'](https://open.spotify.com/album/3yGjfDm1H2UdqTh15y96UI) | 2:59 |
 
-Snapshot ID: `MTY2MjEzNjIyMSwwMDAwMDAwMGEwZmQ1NzA0MTg2NWVlMzMxN2RkZGE3ZGY2YmQxODhi`
+Snapshot ID: `MTY2MjEzNjIyMSwwMDAwMDAwMGMzYjMyNzM3M2Q5YmY3MGJjN2RkM2ZkNDllMGEyNmE1`

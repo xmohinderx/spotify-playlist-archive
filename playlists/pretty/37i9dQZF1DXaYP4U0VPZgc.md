@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYP4U0VPZgc.md) - [plain]
 
 > 作詞・作曲・編曲を手掛けるマルチ音楽コンポーザー。映画・アニメ・ゲーム・舞台・TVなど幅広い分野で活躍。Kalafinaのプロデュースや自身のユニットSee\-Saw、新プロジェクトFictionJunctionとしての活動でも知られ、ヨーロッパと東洋のエッセンスが融合した独自の世界観で熱い支持を集めている。
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,702 likes - 67 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,720 likes - 67 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYP4U0VPZgc.md) - [plain]
 | 28 | [ring your bell](https://open.spotify.com/track/6GHMBep0v40pSejtpr87qP) | [Kalafina](https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy) | [ring your bell](https://open.spotify.com/album/4hFDwdFGrNxGfQ3TmWzNi1) | 5:16 |
 | 29 | [雲雀](https://open.spotify.com/track/1bRMDynP3nGzFMv1loG3s6) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [百歌繚乱](https://open.spotify.com/album/4nwzOXUbeLiHXsNxX2Fjhy) | 4:38 |
 | 30 | [Silly\-Go\-Round](https://open.spotify.com/track/3JAMuVi5dYoafwWsoEfF3m) | [FictionJunction YUUKA](https://open.spotify.com/artist/3JGUu5XReRV4PnHYBNFbZf) | [『.hack//Roots』オープニングテーマ「Silly\-Go\-Round」](https://open.spotify.com/album/4s1DPom0FtERSV0ApXXGvl) | 4:52 |
-| 31 | [花の唄](https://open.spotify.com/track/3oSavJ5fMvJWZyR9zNHMte) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Penny Rain](https://open.spotify.com/album/5WxSamBTcE3P1W6sT9My7B) | 6:11 |
+| 31 | [花の唄](https://open.spotify.com/track/2HNLThGsrr2asX0ag3BMjg) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [ONE / 花の唄 / 六等星の夜 Magic Blue ver.](https://open.spotify.com/album/2hrsWVbgZvnmKY9QTKDghN) | 6:13 |
 | 32 | [水の証](https://open.spotify.com/track/5mizgqUfE7BrNZtbPiNWdy) | [ラクス・クライン\(田中理恵\)](https://open.spotify.com/artist/5o8QrLIxY6vRmQUEXQI6pu) | [水の証](https://open.spotify.com/album/1TVw6SHvytnhXTGMijSJK2) | 4:27 |
 | 33 | [ひかりふる](https://open.spotify.com/track/6e6xydbcKp3UJuRRdSbdwu) | [Kalafina](https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy) | [Kalafina All Time Best 2008\-2018](https://open.spotify.com/album/0XpLAvr5gn7pNnJl00a8yc) | 4:54 |
 | 34 | [fake wings](https://open.spotify.com/track/57TCwW3DTmdgcmZJ2kI4S8) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem) | [FICTION](https://open.spotify.com/album/2w1GcYScuH5MSCFtAjalbS) | 2:35 |
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYP4U0VPZgc.md) - [plain]
 | 66 | [circus](https://open.spotify.com/track/18WaVPIBp3EpfqAWllHVKi) | [FictionJunction YUUKA](https://open.spotify.com/artist/3JGUu5XReRV4PnHYBNFbZf) | [circus](https://open.spotify.com/album/3uIPcjVMdZgVNFT0E8u4N9) | 4:51 |
 | 67 | [a farewell song](https://open.spotify.com/track/2Ika4tMvhzNBjChesucCnZ) | [笠原由里](https://open.spotify.com/artist/4JdLWtnqonXnI1pkrvfzHm) | [NOIR ORIGINAL SOUNDTRACK II](https://open.spotify.com/album/3ABOmL2EUVFrcMohZbmmdb) | 3:34 |
 
-Snapshot ID: `MTY0NjA2MDQwMCwwMDAwMDAwMDcyMGVlZDgxMWI4YzcxZGYxMDY1M2QwNjQwMmM3ZTZi`
+Snapshot ID: `MTY0NjA2MDQwMCwwMDAwMDAwMGUzODI2YmQwOTMxNjEzNmI0OTI1MjdjNjZmZjEzOWUy`

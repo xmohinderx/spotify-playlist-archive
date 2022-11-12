@@ -4,7 +4,7 @@
 
 > Con el mismo sazón y amor que una sopita de fideo.
 
-159 songs - 8 hr 48 min - [published](https://open.spotify.com/playlist/1hAa8J0PFUdYrlTpNoEoq8)
+162 songs - 8 hr 58 min - [published](https://open.spotify.com/playlist/1hAa8J0PFUdYrlTpNoEoq8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,8 @@
 | [En Mi Viejo San Juan](https://open.spotify.com/track/4r7TBJamYMddI4OfJJFbkj) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Serie Coleccion 15 Autenticos Exitos](https://open.spotify.com/album/2Lo23n1S3pOdT99UJgveNf) | 2:54 | 2022-05-10 | 2022-07-29 |
 | [En Mi Viejo San Juan \(with Javier Solís\)](https://open.spotify.com/track/70MifArcxFetUohuIoDN1H) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz), [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Personalidad](https://open.spotify.com/album/2CzvYyfa7RiucocEd028Ek) | 2:53 | 2022-05-10 |  |
 | [Enamorada y Herida](https://open.spotify.com/track/1MC8XHvKbSyX18S67FPBeY) | [Marisela](https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2) | [Completamente Tuya](https://open.spotify.com/album/2SoxbtdNVYaMS7WpQ2qA70) | 3:27 | 2022-05-10 | 2022-07-29 |
-| [Enamorada y Herida](https://open.spotify.com/track/31BsrpQphP6KiRXjvJix5R) | [Marisela](https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2) | [Completamente Tuya](https://open.spotify.com/album/5vN1tVAL4qBWurY8UHah7g) | 3:27 | 2022-05-10 |  |
+| [Enamorada y Herida](https://open.spotify.com/track/31BsrpQphP6KiRXjvJix5R) | [Marisela](https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2) | [Completamente Tuya](https://open.spotify.com/album/5vN1tVAL4qBWurY8UHah7g) | 3:27 | 2022-05-10 | 2022-11-12 |
+| [Enamorada y Herida](https://open.spotify.com/track/31s5ilNdAXYtyjdtX7OtCa) | [Marisela](https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2) | [15 Grandes Éxitos Vol\. 1](https://open.spotify.com/album/4illYyPzQ9QKY4ka5bigjM) | 3:29 | 2022-05-10 |  |
 | [Eres](https://open.spotify.com/track/08fbpynRAv6hPqqPZISRsa) | [José Maria Napoleón](https://open.spotify.com/artist/72v53CufRiSyqcQ78KUQ5p) | [Sin Tu Amor](https://open.spotify.com/album/6f9QuizfwLCv9SvU8DtsO4) | 3:15 | 2022-05-10 |  |
 | [Esa Pared](https://open.spotify.com/track/6yKstLP7MABsczVou9RWiX) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2) | [Esa Pared Y Sus Exitos Rancheros](https://open.spotify.com/album/0m0FmQ4I37zLuNUHa2qCqx) | 3:01 | 2022-05-10 |  |
 | [Esa Pared](https://open.spotify.com/track/5YrA2ybLaKSQmfvnVTCz16) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2) | [Leo Dan](https://open.spotify.com/album/2mIvaxQyw5981NkX8EsiSY) | 3:03 | 2022-05-10 | 2022-07-29 |
@@ -68,8 +69,9 @@
 | [Esa Triste Guitarra](https://open.spotify.com/track/0Le3V0bwYBb2Ken4PPWkCK) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Lo Mejor De Lo Mejor](https://open.spotify.com/album/5SLdkbTxNK4lMPtEhmU3Jw) | 3:54 | 2022-05-10 |  |
 | [Esa Triste Guitarra](https://open.spotify.com/track/0OA9C6PLBsWYA3LDljB0E3) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Solo Exitos](https://open.spotify.com/album/5b01rzpRKnF0NZXgdcgcA1) | 3:59 | 2022-05-10 | 2022-11-11 |
 | [Esta Triste Guitarra](https://open.spotify.com/track/0t2Iru6U2u8l4dpXfGqh9c) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Personalidad](https://open.spotify.com/album/01ZWyUUyY8keELL1LdSjwf) | 3:58 | 2022-05-10 | 2022-07-29 |
+| [Estoy perdido](https://open.spotify.com/track/6zgyNL1gZ3vUtiG5j1fmku) | [Los 3 Ases](https://open.spotify.com/artist/2olotOs8853BvbS8iBuDj3) | [The Music of Mexico / Los 3 Ases / A Great Mexican Trio \(1958\)](https://open.spotify.com/album/0oSHoBOxgO36aJPtNxbIkE) | 3:18 | 2022-05-10 |  |
 | [Estoy Perdido](https://open.spotify.com/track/2uliF87JybtJDQfgOclSTa) | [Los Tres Ases](https://open.spotify.com/artist/2AvUIlDzLMzaxajDtniU4B) | [Las Estrellas Del Fonografo RCA Victor](https://open.spotify.com/album/2iBzqfmSLEAjIpH1RN1myW) | 3:13 | 2022-05-10 | 2022-07-29 |
-| [Estoy Perdido](https://open.spotify.com/track/1vE6UQdo5yrROUgxlhAul2) | [Los Tres Ases](https://open.spotify.com/artist/2AvUIlDzLMzaxajDtniU4B) | [Los Tres Ases 50 Años](https://open.spotify.com/album/29B1JAAWH0tcqjqKHJTaXe) | 3:17 | 2022-05-10 |  |
+| [Estoy Perdido](https://open.spotify.com/track/1vE6UQdo5yrROUgxlhAul2) | [Los Tres Ases](https://open.spotify.com/artist/2AvUIlDzLMzaxajDtniU4B) | [Los Tres Ases 50 Años](https://open.spotify.com/album/29B1JAAWH0tcqjqKHJTaXe) | 3:17 | 2022-05-10 | 2022-11-12 |
 | [Frente a Frente](https://open.spotify.com/track/5qF73eA5EDS1rWtIzG24WR) | [Jeanette](https://open.spotify.com/artist/2Asr5Otk5aKK272pK4ocG2) | [15 Canciones Favoritas](https://open.spotify.com/album/1lDKPKdPnDIAiNw5T3Lp8C) | 3:12 | 2022-05-10 |  |
 | [Fue en un Cafe](https://open.spotify.com/track/1hZnDaUq0F8VLn800aAbJK) | [Los Apson](https://open.spotify.com/artist/63MoX25vZtzCSTvRFkAsnW) | [Amores Incomparables, Vol\. 3](https://open.spotify.com/album/0wl64awQOtkdtCQuZDcY4n) | 3:11 | 2022-05-10 |  |
 | [Fue en un café \- Under the Boardwalk](https://open.spotify.com/track/6xzsOx1wiwlzFMbBSHPndb) | [Los Apson](https://open.spotify.com/artist/63MoX25vZtzCSTvRFkAsnW) | [Peerless 80 Aniversario \- 24 Exitos Vol\. 2](https://open.spotify.com/album/4r7lKZlexihhW6tGY89UoO) | 3:10 | 2022-05-10 | 2022-07-29 |
@@ -119,7 +121,8 @@
 | [Nuestro Juramento](https://open.spotify.com/track/14g4Oi7wtimsoJYLjtiCa9) | [Julio Jaramillo](https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8) | [Lo Mejor de Julio Jaramillo](https://open.spotify.com/album/1vmIQyW1o8tKb4vtBefwi7) | 3:15 | 2022-05-10 |  |
 | [Nuestro Juramento](https://open.spotify.com/track/4F6Ne3xyctrytvYm9W68ll) | [Julio Jaramillo](https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8) | [El Ruiseñor de America](https://open.spotify.com/album/33pvMxnkZFMGkg9fbomz0r) | 3:15 | 2022-05-10 | 2022-11-11 |
 | [Nunca digas](https://open.spotify.com/track/4pMyhL7qpkgIquLtn8ukUa) | [Los Solitarios](https://open.spotify.com/artist/5oXtNxxScsHb1cRjqqfcMj) | [Serie Diamante \(USA\)](https://open.spotify.com/album/2fgUn3x6HujXAP2AXxMoer) | 2:48 | 2022-05-10 |  |
-| [Olvidarte Nunca](https://open.spotify.com/track/3xRVnVY4uuNQZ1rmmRclhU) | [Los Golpes](https://open.spotify.com/artist/7vyUXV67P88Hxq4Q5cpC1j) | [La Historia](https://open.spotify.com/album/42nZkX6kk4O3vpTuQa6UrK) | 2:57 | 2022-05-10 |  |
+| [Olvidarte Nunca](https://open.spotify.com/track/08SYcykMC5D0D0zIPyq16X) | [Los Golpes](https://open.spotify.com/artist/7vyUXV67P88Hxq4Q5cpC1j) | [La Historia](https://open.spotify.com/album/5LyFSml1096g9UtmR35Y31) | 2:57 | 2022-05-10 |  |
+| [Olvidarte Nunca](https://open.spotify.com/track/3xRVnVY4uuNQZ1rmmRclhU) | [Los Golpes](https://open.spotify.com/artist/7vyUXV67P88Hxq4Q5cpC1j) | [La Historia](https://open.spotify.com/album/42nZkX6kk4O3vpTuQa6UrK) | 2:57 | 2022-05-10 | 2022-11-12 |
 | [Olvidarte Nunca \- 2003 Digital Remaster](https://open.spotify.com/track/3mhVXE8fcgV330qYXNWok8) | [Los Golpes](https://open.spotify.com/artist/7vyUXV67P88Hxq4Q5cpC1j) | [Antologia 40 Clásicos Remasterizados](https://open.spotify.com/album/3oRJSfyF6qD5CDB0OPTbWt) | 3:00 | 2022-05-10 | 2022-07-29 |
 | [Pasito Tun, Tun](https://open.spotify.com/track/44DJn7xXxlUbTzErTY8DiB) | [Billo's](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6) | [Los Años De Oro \- La Orquesta De Siempre](https://open.spotify.com/album/4lxclNX6RVc7Fldg82i1tz) | 3:46 | 2022-05-10 |  |
 | [Pensaba en Ti \- Tema Remasterizado](https://open.spotify.com/track/63bJH7VTZF8tgtgm7dPLrw) | [Los Teen Tops](https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy) | [Serie De Colección 16 Autenticos Exitos](https://open.spotify.com/album/6DB6Osx9qCOSB0wPNbSE2A) | 3:25 | 2022-05-10 |  |

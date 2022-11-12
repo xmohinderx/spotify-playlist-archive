@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oh7peUXg5S.md) - [plain]
 
 > El don de cantar y componer, una playlist llena de talento\. Foto: Joaquín Sabina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,536 likes - 100 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,742 likes - 100 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,12 +63,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oh7peUXg5S.md) - [plain]
 | 53 | [Lucia \(with Silvio Rodríguez\)](https://open.spotify.com/track/44RRIuioxHdtujpJ3PDkxA) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7), [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Antología Desordenada](https://open.spotify.com/album/5hyxVY36Zb54xX5uEpVwCR) | 3:12 |
 | 54 | [Solo Otra Vez \- Alone Again](https://open.spotify.com/track/2Oeu9Qz2fRSgtKohOvGgEP) | [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ) | [Último Acto](https://open.spotify.com/album/3ZwIwLuB8YNlhwV2xuGWbt) | 3:26 |
 | 55 | [Unicornio](https://open.spotify.com/track/0lxu1Pmegx2SELobpAXzz4) | [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Unicornio](https://open.spotify.com/album/26CzBExUPuHvrmXsC4HlBT) | 5:08 |
-| 56 | [Desde Que Te Perdí](https://open.spotify.com/track/3kfXwiFSsdqyWG5C7PULIZ) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [City Zen](https://open.spotify.com/album/37dsJwV9mJUYSOjeUHif3L) | 3:48 |
-| 57 | [Te Doy Una Cancion](https://open.spotify.com/track/6yGx5fJ2C6YrmZhVadd7vC) | [Silvio Rodriguez and Pablo Milanes](https://open.spotify.com/artist/182fhYiodsjX2AZnZlWWzK) | [Silvio Rodriguez y Pablo Milanes](https://open.spotify.com/album/5Dn5RWgcjL462SXPTGYF9f) | 3:10 |
+| 56 | [Te Doy Una Cancion](https://open.spotify.com/track/6yGx5fJ2C6YrmZhVadd7vC) | [Silvio Rodriguez and Pablo Milanes](https://open.spotify.com/artist/182fhYiodsjX2AZnZlWWzK) | [Silvio Rodriguez y Pablo Milanes](https://open.spotify.com/album/5Dn5RWgcjL462SXPTGYF9f) | 3:10 |
+| 57 | [Desde Que Te Perdí](https://open.spotify.com/track/3kfXwiFSsdqyWG5C7PULIZ) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [City Zen](https://open.spotify.com/album/37dsJwV9mJUYSOjeUHif3L) | 3:48 |
 | 58 | [No soy de aquí](https://open.spotify.com/track/54vgIR3osHwRywPcBxVrv3) | [Alberto Cortez](https://open.spotify.com/artist/0Iww53p8UY2oYtQhfzsSY9) | [No soy de aquí](https://open.spotify.com/album/07EmD7JlrejszTq3aGWA53) | 4:07 |
 | 59 | [Sin Tu Latido \- Remasterizado](https://open.spotify.com/track/7jlfZZgaO0xPRdPMP9jezb) | [Luis Eduardo Aute](https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS) | [Cuerpo a Cuerpo \(Remasterizado\)](https://open.spotify.com/album/01jUeKcwiAdFp8iLa0HnI4) | 5:02 |
-| 60 | [Gracias a la Vida](https://open.spotify.com/track/5U7MyRNbuZrWkyAI4bm3Ja) | [Violeta Parra](https://open.spotify.com/artist/4ejp2yEDQIIJIy0iFpoI5B) | [Mi Chile Lindo](https://open.spotify.com/album/16KWkUYL6MuyJwzyO5onbl) | 4:38 |
-| 61 | [Un Ramito de Violetas](https://open.spotify.com/track/6bEep0TL9On222hdpcsCcH) | [Cecilia](https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR) | [Un Ramito De Violetas](https://open.spotify.com/album/6Kp4RsT85CYZq11sqzfPAw) | 4:12 |
+| 60 | [Un Ramito de Violetas](https://open.spotify.com/track/6bEep0TL9On222hdpcsCcH) | [Cecilia](https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR) | [Un Ramito De Violetas](https://open.spotify.com/album/6Kp4RsT85CYZq11sqzfPAw) | 4:12 |
+| 61 | [Gracias a la Vida](https://open.spotify.com/track/5U7MyRNbuZrWkyAI4bm3Ja) | [Violeta Parra](https://open.spotify.com/artist/4ejp2yEDQIIJIy0iFpoI5B) | [Mi Chile Lindo](https://open.spotify.com/album/16KWkUYL6MuyJwzyO5onbl) | 4:38 |
 | 62 | [Peces de Ciudad \(feat\. Pablo López\)](https://open.spotify.com/track/7sLYuvEf4lqz6zSnjYBkkP) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50), [Pablo López](https://open.spotify.com/artist/4uyqaioPEdClDxU6zvYlAZ) | [Peces de Ciudad \(feat\. Pablo López\)](https://open.spotify.com/album/1z62EMbonbN8m5fjpzT9cn) | 6:30 |
 | 63 | [El Hombre del Piano](https://open.spotify.com/track/61ccRl3FBtLs3U5HuBtP6e) | [Ana Belén](https://open.spotify.com/artist/4NOZW7dBOmBMMAG9EGQd4t) | [26 Grandes Canciones Y Una Nube Blanca](https://open.spotify.com/album/45MhAsX9X7z5siVUxUjUk7) | 5:17 |
 | 64 | [Agua](https://open.spotify.com/track/76yx6d2cnxogqq5EeWAGGv) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [Agua](https://open.spotify.com/album/18lEH8fgVYdkUBTDK0IPyu) | 4:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oh7peUXg5S.md) - [plain]
 | 99 | [Tal Vez Te Acuerdes de Mí \(feat\. Nina\) \- Sesiones Moraima](https://open.spotify.com/track/1BTW41We9BwKKjchLHcGu8) | [Andrés Suárez](https://open.spotify.com/artist/1AaN24tRzIpDKK54IRtdIe), [Nina](https://open.spotify.com/artist/3796XXTZdSCnaQQFO4OC9F) | [Sesiones Moraima](https://open.spotify.com/album/5dQcSYzzVjAb7gC3reVEvH) | 2:39 |
 | 100 | [Tierra](https://open.spotify.com/track/6mR0ZA4DxvAHBihaXgI3oD) | [Xoel López](https://open.spotify.com/artist/59bV1Zv97BwGJYy6O2SvUx) | [Atlántico](https://open.spotify.com/album/0gROV7KbeA7uF7XAgHtDpX) | 3:58 |
 
-Snapshot ID: `MTY2ODEyMTIwMCwwMDAwMDAwMDc4MDg2MjczOTY4MTM4MjgxNzJlYzY5M2E1ODZiZTc0`
+Snapshot ID: `MTY2ODEyMTIwMCwwMDAwMDAwMGVkNzc1OGE5N2MyNGI0OWVmZDcyZTJkNGM3NjIxN2Nh`

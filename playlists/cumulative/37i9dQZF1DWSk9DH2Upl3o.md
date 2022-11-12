@@ -4,7 +4,7 @@
 
 > The jam scene is alive and well\. Cover: Papadosio
 
-80 songs - 7 hr 45 min - [published](https://open.spotify.com/playlist/1MZeQVXDEN8ttDWSeIbiNY)
+82 songs - 7 hr 57 min - [published](https://open.spotify.com/playlist/1MZeQVXDEN8ttDWSeIbiNY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,9 +58,10 @@
 | [Nuff](https://open.spotify.com/track/0rkhQA2GnItdPJxgb0PKN7) | [Dopapod](https://open.spotify.com/artist/6ur6SxSBdRLBgehOIT2iwX) | [Dopapod](https://open.spotify.com/album/2LrH4Sm8KxA10mnUy3IcFA) | 5:04 | 2022-06-23 |  |
 | [Off Leash](https://open.spotify.com/track/7APwVMzYErmKqvTkaHs3NS) | [The Magic Beans](https://open.spotify.com/artist/6v39xVS6Vpmnun982EF8XH) | [Off Leash](https://open.spotify.com/album/5DDz8IrNkVcyMVdSFdgODU) | 7:42 | 2022-06-23 |  |
 | [Opelika Yella](https://open.spotify.com/track/0lNcPLNpygKPwn4rh07yHQ) | [Cbdb](https://open.spotify.com/artist/0Rt9ML8x5r1DFhSPAJhbwr) | [Out of Line](https://open.spotify.com/album/0L8s86CwVUyPR1wF2HiTRg) | 5:39 | 2022-06-23 |  |
+| [Outer Boroughs](https://open.spotify.com/track/5EzcAEZEjRBT6BplnklT1Y) | [Circles Around The Sun](https://open.spotify.com/artist/4Aixcj6XBhqbdEHDKS7QcH) | [Outer Boroughs](https://open.spotify.com/album/1D31I5VNHglxOfY2QKQCok) | 7:28 | 2022-11-11 |  |
 | [Playing With My Emotions](https://open.spotify.com/track/4zEFa1VjwShQ70oiiELHMf) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [I Am The Moon: II\. Ascension](https://open.spotify.com/album/1kAOpSgqnN3ya5cFIeZMbM) | 4:10 | 2022-07-01 |  |
 | [Railroad City](https://open.spotify.com/track/1cY5P52MED6HxdgZCLHrnJ) | [Lost Ox](https://open.spotify.com/artist/0teB6cQnhex8MyjtX1RhfX) | [Stuck](https://open.spotify.com/album/5X3DDdA3ezjDcqiETPZLkR) | 4:46 | 2022-09-23 | 2022-10-01 |
-| [Random Company](https://open.spotify.com/track/6eOzmeLU3lJD7dw5kJ46EX) | [Aqueous](https://open.spotify.com/artist/74d8upOdwQZyoDGXWEguMn) | [Best in Show](https://open.spotify.com/album/0CjZ35bc20KXgtOT9dGCWC) | 8:05 | 2022-06-23 |  |
+| [Random Company](https://open.spotify.com/track/6eOzmeLU3lJD7dw5kJ46EX) | [Aqueous](https://open.spotify.com/artist/74d8upOdwQZyoDGXWEguMn) | [Best in Show](https://open.spotify.com/album/0CjZ35bc20KXgtOT9dGCWC) | 8:05 | 2022-06-23 | 2022-11-12 |
 | [Red Sky](https://open.spotify.com/track/6GeA7HIChjhFR5JsRHVTdV) | [The Big Wu](https://open.spotify.com/artist/2IQLjVQHKnzSQAVAkeCcQ0) | [Tracking Buffalo Through the Bathtub](https://open.spotify.com/album/6pEnxOBIV3UGzmH7W0JOFx) | 8:52 | 2022-06-23 |  |
 | [Revival](https://open.spotify.com/track/5hdLN2CbIeZbVDYN8cVqoB) | [Backup Planet](https://open.spotify.com/artist/1Jc3wYtJwv8KMbo3Ct7aLD) | [Element](https://open.spotify.com/album/1M8jFuVLqJOlqYtOv1cdAI) | 3:35 | 2022-06-23 |  |
 | [Ride](https://open.spotify.com/track/5KLqBabjr419nnfVZEgOUH) | [Fletcher's Grove](https://open.spotify.com/artist/46JSKePtGJVPmXF45GYrQs) | [Fletcher's Grove](https://open.spotify.com/album/3KNs4EEZm7mt7h8O7Gqszf) | 6:24 | 2022-06-23 | 2022-07-21 |
@@ -75,7 +76,7 @@
 | [The Freeman Massacre](https://open.spotify.com/track/5MmG7mZHhwHVRFsupNjACT) | [Marbin](https://open.spotify.com/artist/3bbmbyiX3lqrAjlwFgZE16) | [The Freeman Massacre](https://open.spotify.com/album/5uab2WSyu9MVOz23LkHk9B) | 7:51 | 2022-09-30 | 2022-11-03 |
 | [The Onion](https://open.spotify.com/track/2qJMjmoAC1vkxtGZvlqt0t) | [Round Trip](https://open.spotify.com/artist/2rodETz9HNnBiH0AZqhvQt) | [Brake Failure](https://open.spotify.com/album/76Toi6pTrIvKwJQLpUqMGm) | 4:13 | 2022-09-23 | 2022-10-01 |
 | [The Road](https://open.spotify.com/track/3F2SdHEBSOZZPDKfkiP0k8) | [Backup Planet](https://open.spotify.com/artist/1Jc3wYtJwv8KMbo3Ct7aLD) | [Element](https://open.spotify.com/album/1M8jFuVLqJOlqYtOv1cdAI) | 7:13 | 2022-06-23 | 2022-08-27 |
-| [The Saga of Milly and Fee Part I \- Peruvian Love Song](https://open.spotify.com/track/69m1VanYi7q6ZiDLuMucWJ) | [Ari Joshua](https://open.spotify.com/artist/3C9Z1YhnRr08CKRSZ7nEuV), [Russ Lawton](https://open.spotify.com/artist/2C4UBATq8DBVT4HBy4UBNE), [Ray Paczkowski](https://open.spotify.com/artist/5RCKLpu3QFZbFSagy35QcO), [Soule Monde](https://open.spotify.com/artist/7sag5QujhVfDU0hGeGDl3x) | [The Saga of Milly and Fee Part I \- Peruvian Love Song](https://open.spotify.com/album/2qF9GzUH5M7k5fvj4Rq1bB) | 1:10 | 2022-10-28 |  |
+| [The Saga of Milly and Fee Part I \- Peruvian Love Song](https://open.spotify.com/track/69m1VanYi7q6ZiDLuMucWJ) | [Ari Joshua](https://open.spotify.com/artist/3C9Z1YhnRr08CKRSZ7nEuV), [Russ Lawton](https://open.spotify.com/artist/2C4UBATq8DBVT4HBy4UBNE), [Ray Paczkowski](https://open.spotify.com/artist/5RCKLpu3QFZbFSagy35QcO), [Soule Monde](https://open.spotify.com/artist/7sag5QujhVfDU0hGeGDl3x) | [The Saga of Milly and Fee Part I \- Peruvian Love Song](https://open.spotify.com/album/2qF9GzUH5M7k5fvj4Rq1bB) | 1:10 | 2022-10-28 | 2022-11-12 |
 | [The World Is A Ghetto](https://open.spotify.com/track/5yiEFVz2RhuNvi9msiw3oI) | [Los Lobos](https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT) | [Native Sons](https://open.spotify.com/album/2AH53pDM2S1jAggLLAueAM) | 8:33 | 2022-06-23 |  |
 | [Time Dilates](https://open.spotify.com/track/2rGANn1EnbCGUC0oftuwW9) | [Lotus ](https://open.spotify.com/artist/1a4N2lwra7WGjwCDJS1Dkk) | [Time Dilates](https://open.spotify.com/album/6fPbxh0gX0GZl4Ppy8pJ29) | 5:21 | 2022-08-26 |  |
 | [Trouble Overnight](https://open.spotify.com/track/6QOm9noD8jybvD4dKGrHM4) | [Zach Nugent](https://open.spotify.com/artist/3h9hfCvOqWdPszABGZmPUn) | [Trouble Overnight](https://open.spotify.com/album/38F1jSais8Vxq0qpKiQQle) | 6:48 | 2022-09-16 |  |
@@ -86,6 +87,7 @@
 | [What'cha Gonna Do](https://open.spotify.com/track/54LhVzJOJxT2S6Nl30wPBs) | [Skyfoot](https://open.spotify.com/artist/5Igs9PLJ9qlRa627kIjTH0) | [What'cha Gonna Do](https://open.spotify.com/album/6aHGit3gxe7m5iSlbAi6vD) | 5:46 | 2022-06-23 | 2022-09-03 |
 | [When Ya Hustle](https://open.spotify.com/track/3AttQu1NPvaCrgw9O3jgOq) | [Cytrus](https://open.spotify.com/artist/6VrNLN6Thj1iUMsiL4Yt5q) | [Extraction](https://open.spotify.com/album/6Rr6d7WcYWtsdMZImjvWmA) | 4:07 | 2022-09-09 |  |
 | [Whiskey](https://open.spotify.com/track/3q4QhuBKrbdBw55m1JC2T0) | [The Jauntee](https://open.spotify.com/artist/79iSQLNRiPa93oo3yYxAmN) | [Enjoy the Ride](https://open.spotify.com/album/5CfoFSPM4KCVjS6MbIEDZr) | 3:20 | 2022-06-23 | 2022-07-29 |
+| [Wishing Well](https://open.spotify.com/track/5ju62GuABsAvpTtoAkM9Zy) | [Tommy Kaelin](https://open.spotify.com/artist/7xa6AoVY6TOYK7Zbtwch1p) | [Dreams](https://open.spotify.com/album/5XGhSLj9gm7t7SygAbGk5S) | 4:50 | 2022-11-11 |  |
 | [Yes We Can Can](https://open.spotify.com/track/0KOYauWfZId5BWZDBGOkOA) | [Moonalice](https://open.spotify.com/artist/03UgRdV3bSLEHGmdagyM0e) | [Yes We Can Can](https://open.spotify.com/album/471new68y9IZShdxJHtCUT) | 4:43 | 2022-09-02 | 2022-09-26 |
 | [Zoom Out](https://open.spotify.com/track/4zVwDHjHraUBJiTuU8SRAv) | [Papadosio](https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh) | [Zoom Out](https://open.spotify.com/album/45iOI3SakDgddbyhObA3LC) | 4:22 | 2022-10-21 |  |
 

@@ -163,7 +163,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 305746,
       "name": "All I Want",
       "url": "https://open.spotify.com/track/0NlGoUyOJSuSHmngoibVAs"
@@ -253,7 +253,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 216933,
       "name": "All We Are",
       "url": "https://open.spotify.com/track/4SXcG6Ti32myNw9GJ9qeDt"
@@ -307,7 +307,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 268800,
       "name": "Almost Lover",
       "url": "https://open.spotify.com/track/3GSYWQNnSdovwC2H8HpziA"
@@ -1280,6 +1280,42 @@
     },
     {
       "album": {
+        "name": "My Head Is An Animal",
+        "url": "https://open.spotify.com/album/6uD3oJCWT1gtlSCg5lDiNF"
+      },
+      "artists": [
+        {
+          "name": "Of Monsters and Men",
+          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
+        }
+      ],
+      "date_added": "2019-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278373,
+      "name": "Dirty Paws",
+      "url": "https://open.spotify.com/track/1hxq7kWQnwdhxgpEugBMGk"
+    },
+    {
+      "album": {
+        "name": "Wilder Mind (Deluxe)",
+        "url": "https://open.spotify.com/album/2okzRzTuOsFTUNsJZRhqsi"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2019-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218627,
+      "name": "Ditmas",
+      "url": "https://open.spotify.com/track/7HAE4nDEFxu0UO0WQhsR1i"
+    },
+    {
+      "album": {
         "name": "\u00f7 (Deluxe)",
         "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
       },
@@ -1525,7 +1561,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 226680,
       "name": "Fidelity",
       "url": "https://open.spotify.com/track/6GskIhdM6TN6EkPgeSjVfW"
@@ -1933,7 +1969,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 190280,
       "name": "Hero",
       "url": "https://open.spotify.com/track/1B10XgaxSXRLAFq967oMpF"
@@ -2095,7 +2131,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 210173,
       "name": "Home",
       "url": "https://open.spotify.com/track/1EAgPzRbK9YmdOESSMUm6P"
@@ -2369,7 +2405,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 239440,
       "name": "I Try",
       "url": "https://open.spotify.com/track/5TAf4lnZCZTLlZHNZMLFLi"
@@ -2794,6 +2830,24 @@
     },
     {
       "album": {
+        "name": "HOPE Campaign Tribute Album 2010",
+        "url": "https://open.spotify.com/album/6nKCSPUzU4GLM7cqqYmruM"
+      },
+      "artists": [
+        {
+          "name": "The Beautiful Girls",
+          "url": "https://open.spotify.com/artist/0hDJSg859MdK4c9vqu1dS8"
+        }
+      ],
+      "date_added": "2019-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257906,
+      "name": "La Mar",
+      "url": "https://open.spotify.com/track/2qrVYBy2PArMwQRVZxFWzz"
+    },
+    {
+      "album": {
         "name": "Nirvana",
         "url": "https://open.spotify.com/album/4v62Eu3WGIFCBMy9WlD7hY"
       },
@@ -3109,7 +3163,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 271186,
       "name": "Live And Die",
       "url": "https://open.spotify.com/track/19n9s9SfnLtwPEODqk8KCT"
@@ -3271,7 +3325,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 225853,
       "name": "Lost Without You",
       "url": "https://open.spotify.com/track/3cWI6Hj9LQ0MfMuhw9uSMc"
@@ -3455,7 +3509,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 162732,
       "name": "Make It To Me",
       "url": "https://open.spotify.com/track/2uCMaUojwuqr8CRGsLoPa6"
@@ -3527,7 +3581,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 231906,
       "name": "Malibu",
       "url": "https://open.spotify.com/track/1UZOjK1BwmwWU14Erba9CZ"
@@ -3621,7 +3675,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 223640,
       "name": "Mess Is Mine",
       "url": "https://open.spotify.com/track/29jtZGdgpE2lWm2mkIt6HS"
@@ -4779,7 +4833,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 255893,
       "name": "Ships In The Night",
       "url": "https://open.spotify.com/track/0RUXHlYhA057fCOe2vqIqu"
@@ -4797,7 +4851,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 210373,
       "name": "Sight of the Sun - Single Version",
       "url": "https://open.spotify.com/track/4orHVYvdG5v4G4bmp2Lwdg"
@@ -5053,7 +5107,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 208504,
       "name": "Somewhere Only We Know",
       "url": "https://open.spotify.com/track/1mvfvDZOybiEgS1ecJxt9W"
@@ -5493,7 +5547,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 286653,
       "name": "The Blower's Daughter",
       "url": "https://open.spotify.com/track/4B2lJinAkeNLSJjcq3dg8Q"
@@ -5590,6 +5644,24 @@
     },
     {
       "album": {
+        "name": "The Few Things",
+        "url": "https://open.spotify.com/album/2JaHDCdCo4sGDmQ4hMbiJG"
+      },
+      "artists": [
+        {
+          "name": "JP Saxe",
+          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
+        }
+      ],
+      "date_added": "2019-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244354,
+      "name": "The Few Things",
+      "url": "https://open.spotify.com/track/7vvfMbZeNxCrYOqxqcw3fe"
+    },
+    {
+      "album": {
         "name": "Elements",
         "url": "https://open.spotify.com/album/6PgmdqJEtZ2Uz8nrh1IzEt"
       },
@@ -5677,6 +5749,24 @@
       "duration_ms": 189333,
       "name": "The Other",
       "url": "https://open.spotify.com/track/0EAzlhtMYxRb6wbi6KnPjC"
+    },
+    {
+      "album": {
+        "name": "I met you when I was 18. (the playlist)",
+        "url": "https://open.spotify.com/album/71cQY3dUThCY6vVKaUIXqR"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "date_added": "2019-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189333,
+      "name": "The Other",
+      "url": "https://open.spotify.com/track/1DlGTnBydbBcOSdC6XEZnq"
     },
     {
       "album": {
@@ -5853,7 +5943,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 245533,
       "name": "This Year's Love",
       "url": "https://open.spotify.com/track/4X6F9xoYUyJh4OhnXbAZv2"
@@ -5871,7 +5961,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 201000,
       "name": "Too Good At Goodbyes",
       "url": "https://open.spotify.com/track/3VlbOrM6nYPprVvzBZllE5"
@@ -5997,7 +6087,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 233733,
       "name": "Valerie - Live At BBC Radio 1 Live Lounge, London / 2007",
       "url": "https://open.spotify.com/track/6nLvaCZFR1wEzW3sIKpsnr"
@@ -6069,7 +6159,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 177523,
       "name": "watch",
       "url": "https://open.spotify.com/track/7eB1V5LvAdxCc7brfGhRRo"
@@ -6181,6 +6271,28 @@
       "duration_ms": 208893,
       "name": "What Makes You Beautiful",
       "url": "https://open.spotify.com/track/7AEkRLRfgn9mB3BCXIZ2G7"
+    },
+    {
+      "album": {
+        "name": "Flight of the Crow",
+        "url": "https://open.spotify.com/album/41Ywc4XSD3GChkeAfzhRIR"
+      },
+      "artists": [
+        {
+          "name": "Passenger",
+          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
+        },
+        {
+          "name": "Josh Pyke",
+          "url": "https://open.spotify.com/artist/4UzQ37Y0rzonVpsXpcNyFH"
+        }
+      ],
+      "date_added": "2019-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174613,
+      "name": "What You're Thinking",
+      "url": "https://open.spotify.com/track/2oXvizvCiIIpkyVyzQS6Qr"
     },
     {
       "album": {
@@ -6508,6 +6620,24 @@
     },
     {
       "album": {
+        "name": "Back To Black",
+        "url": "https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "date_added": "2019-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256946,
+      "name": "You Know I'm No Good",
+      "url": "https://open.spotify.com/track/4zQuwW24dweWcaX0fEJkP2"
+    },
+    {
+      "album": {
         "name": "Back To Black (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG"
       },
@@ -6519,7 +6649,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 257186,
       "name": "You Know I'm No Good",
       "url": "https://open.spotify.com/track/0DMRKqrpd0QO4RWiEdMib0"

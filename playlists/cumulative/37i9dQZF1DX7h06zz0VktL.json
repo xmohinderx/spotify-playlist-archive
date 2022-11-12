@@ -98,6 +98,24 @@
     },
     {
       "album": {
+        "name": "MAGIC - SUPER JUNIOR SPECIAL ALBUM PART.2",
+        "url": "https://open.spotify.com/album/2YFurqloMyEncsFHOjIbm2"
+      },
+      "artists": [
+        {
+          "name": "SUPER JUNIOR",
+          "url": "https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235251,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/1ZNowa5CYVyfH3G4zrBx0V"
+    },
+    {
+      "album": {
         "name": "DEVIL - SUPER JUNIOR SPECIAL ALBUM",
         "url": "https://open.spotify.com/album/3tLpEVOpXkRifL3nIziMN6"
       },
@@ -127,7 +145,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 235251,
       "name": "Alright",
       "url": "https://open.spotify.com/track/6wBfDGYfGIFgIsi1PnG6vN"
@@ -575,10 +593,28 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 188035,
       "name": "Don\u2019t Wake Me Up - sung by SUPER JUNIOR-D&E",
       "url": "https://open.spotify.com/track/4OOLB4Av78RNc98neW2AOE"
+    },
+    {
+      "album": {
+        "name": "MAGIC - SUPER JUNIOR SPECIAL ALBUM PART.2",
+        "url": "https://open.spotify.com/album/2YFurqloMyEncsFHOjIbm2"
+      },
+      "artists": [
+        {
+          "name": "SUPER JUNIOR",
+          "url": "https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188035,
+      "name": "Don\u2019t Wake Me Up - sung by SUPER JUNIOR\u2013D&E",
+      "url": "https://open.spotify.com/track/41y2jZ0QJFl5Jk13soaOfs"
     },
     {
       "album": {
@@ -2371,7 +2407,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 201080,
       "name": "Twins (Knock Out)",
       "url": "https://open.spotify.com/track/0C4NNrGcJJ21Kc5FwrFCY3"
@@ -2393,6 +2429,24 @@
       "duration_ms": 201080,
       "name": "Twins (Knock Out)",
       "url": "https://open.spotify.com/track/3Oho0iIQLQcgoZnBfESWaX"
+    },
+    {
+      "album": {
+        "name": "Super Show (The 1st Asia Tour Concert Album)",
+        "url": "https://open.spotify.com/album/7iLEumOEyYFsprOdFb2jHT"
+      },
+      "artists": [
+        {
+          "name": "SUPER JUNIOR",
+          "url": "https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200453,
+      "name": "Twins - Live",
+      "url": "https://open.spotify.com/track/3YNOOvEt49Kr8mymKGg6Hs"
     },
     {
       "album": {

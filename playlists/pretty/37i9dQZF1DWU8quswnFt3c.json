@@ -1,12 +1,12 @@
 {
   "description": "Listen to women from all over the world, at full volume. Cover: Manal",
-  "num_followers": 846852,
+  "num_followers": 846819,
   "original_name": "EQUAL Global ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODAzMjA0NywwMDAwMDAwMGM5ZTA5M2EzZTg0NGMyZDYxNGZkNTg1M2RmYjlmZmIy",
+  "snapshot_id": "MTY2ODAzMjA0NywwMDAwMDAwMDg2YWFlY2M5NmIxYTNjMTg0YTU5OTcxZWY3YzdiMDJj",
   "tracks": [
     {
       "added_at": "2022-11-02 04:01:00",
@@ -259,6 +259,22 @@
     {
       "added_at": "2022-11-02 04:01:00",
       "album": {
+        "name": "Dalawa",
+        "url": "https://open.spotify.com/album/41fY9cER956ekeEXYZQBJF"
+      },
+      "artists": [
+        {
+          "name": "KAIA",
+          "url": "https://open.spotify.com/artist/5UWPjwwieMFFohWLHe4Usy"
+        }
+      ],
+      "duration_ms": 233142,
+      "name": "Dalawa",
+      "url": "https://open.spotify.com/track/7KL81oWVy5M91P6X5nt4wq"
+    },
+    {
+      "added_at": "2022-11-02 04:01:00",
+      "album": {
         "name": "906090",
         "url": "https://open.spotify.com/album/20sB19q1UohCToeyAcUNwQ"
       },
@@ -279,18 +295,22 @@
     {
       "added_at": "2022-11-02 04:01:00",
       "album": {
-        "name": "Dalawa",
-        "url": "https://open.spotify.com/album/41fY9cER956ekeEXYZQBJF"
+        "name": "\u05e1\u05d9\u05d5\u05d5\u05e4\u05dc\u05d4",
+        "url": "https://open.spotify.com/album/7wHnlFe5drIJIPsl9y2qw8"
       },
       "artists": [
         {
-          "name": "KAIA",
-          "url": "https://open.spotify.com/artist/5UWPjwwieMFFohWLHe4Usy"
+          "name": "Nunu",
+          "url": "https://open.spotify.com/artist/0wJDdyoTfE5SuqPNFvi2lG"
+        },
+        {
+          "name": "TOX1C",
+          "url": "https://open.spotify.com/artist/6Z46xqyaiWM6DMQY3EblAp"
         }
       ],
-      "duration_ms": 233142,
-      "name": "Dalawa",
-      "url": "https://open.spotify.com/track/7KL81oWVy5M91P6X5nt4wq"
+      "duration_ms": 143636,
+      "name": "\u05e1\u05d9\u05d5\u05d5\u05e4\u05dc\u05d4",
+      "url": "https://open.spotify.com/track/3xoOOmHo07QA9Q7ng1aplW"
     },
     {
       "added_at": "2022-11-02 04:01:00",
@@ -343,26 +363,6 @@
     {
       "added_at": "2022-11-02 04:01:00",
       "album": {
-        "name": "\u05e1\u05d9\u05d5\u05d5\u05e4\u05dc\u05d4",
-        "url": "https://open.spotify.com/album/7wHnlFe5drIJIPsl9y2qw8"
-      },
-      "artists": [
-        {
-          "name": "Nunu",
-          "url": "https://open.spotify.com/artist/0wJDdyoTfE5SuqPNFvi2lG"
-        },
-        {
-          "name": "TOX1C",
-          "url": "https://open.spotify.com/artist/6Z46xqyaiWM6DMQY3EblAp"
-        }
-      ],
-      "duration_ms": 143636,
-      "name": "\u05e1\u05d9\u05d5\u05d5\u05e4\u05dc\u05d4",
-      "url": "https://open.spotify.com/track/3xoOOmHo07QA9Q7ng1aplW"
-    },
-    {
-      "added_at": "2022-11-02 04:01:00",
-      "album": {
         "name": "Coraz\u00f3n Cruzado",
         "url": "https://open.spotify.com/album/2YYfpE23VaR71QdKbJZUid"
       },
@@ -399,6 +399,22 @@
     {
       "added_at": "2022-11-02 04:01:00",
       "album": {
+        "name": "Jee Jeha Karda",
+        "url": "https://open.spotify.com/album/1xYMYWzzEYlV1yxpjDYojp"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Sandlas",
+          "url": "https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c"
+        }
+      ],
+      "duration_ms": 215565,
+      "name": "Jee Jeha Karda",
+      "url": "https://open.spotify.com/track/71jkE3pPYmg8v0nrU8Mhn1"
+    },
+    {
+      "added_at": "2022-11-02 04:01:00",
+      "album": {
         "name": "Gold Rush",
         "url": "https://open.spotify.com/album/0s0xUyVkHmZy5GeHlwEvK0"
       },
@@ -431,22 +447,6 @@
     {
       "added_at": "2022-11-02 04:01:00",
       "album": {
-        "name": "Meu Esquema",
-        "url": "https://open.spotify.com/album/6osVzkibmUSPNEWw7ABsjR"
-      },
-      "artists": [
-        {
-          "name": "Rachel Reis",
-          "url": "https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR"
-        }
-      ],
-      "duration_ms": 194906,
-      "name": "Motinha",
-      "url": "https://open.spotify.com/track/6DWa4TwWpkby73mls0w6XR"
-    },
-    {
-      "added_at": "2022-11-02 04:01:00",
-      "album": {
         "name": "EGO",
         "url": "https://open.spotify.com/album/451uEKAXSbMJ5Pry6mIANM"
       },
@@ -463,18 +463,18 @@
     {
       "added_at": "2022-11-02 04:01:00",
       "album": {
-        "name": "Jee Jeha Karda",
-        "url": "https://open.spotify.com/album/1xYMYWzzEYlV1yxpjDYojp"
+        "name": "Meu Esquema",
+        "url": "https://open.spotify.com/album/6osVzkibmUSPNEWw7ABsjR"
       },
       "artists": [
         {
-          "name": "Jasmine Sandlas",
-          "url": "https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c"
+          "name": "Rachel Reis",
+          "url": "https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR"
         }
       ],
-      "duration_ms": 215565,
-      "name": "Jee Jeha Karda",
-      "url": "https://open.spotify.com/track/71jkE3pPYmg8v0nrU8Mhn1"
+      "duration_ms": 194906,
+      "name": "Motinha",
+      "url": "https://open.spotify.com/track/6DWa4TwWpkby73mls0w6XR"
     },
     {
       "added_at": "2022-11-02 04:01:00",
@@ -659,22 +659,6 @@
     {
       "added_at": "2022-11-02 04:01:00",
       "album": {
-        "name": "J*DER",
-        "url": "https://open.spotify.com/album/1h87OcIP6KuNxXp0vsxtZy"
-      },
-      "artists": [
-        {
-          "name": "Rorro",
-          "url": "https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv"
-        }
-      ],
-      "duration_ms": 127661,
-      "name": "J*DER",
-      "url": "https://open.spotify.com/track/01z5gGmtYds3vaSREf9JuI"
-    },
-    {
-      "added_at": "2022-11-02 04:01:00",
-      "album": {
         "name": "No lo voy a lamentar",
         "url": "https://open.spotify.com/album/5BT7ZLdhP7vLvTaOUhP0Ml"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 182222,
       "name": "So Stunning",
       "url": "https://open.spotify.com/track/7yDLec0kIWD2xra7is4q7l"
+    },
+    {
+      "added_at": "2022-11-02 04:01:00",
+      "album": {
+        "name": "J*DER",
+        "url": "https://open.spotify.com/album/1h87OcIP6KuNxXp0vsxtZy"
+      },
+      "artists": [
+        {
+          "name": "Rorro",
+          "url": "https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv"
+        }
+      ],
+      "duration_ms": 127661,
+      "name": "J*DER",
+      "url": "https://open.spotify.com/track/01z5gGmtYds3vaSREf9JuI"
     },
     {
       "added_at": "2022-11-02 04:01:00",
@@ -915,22 +915,6 @@
     {
       "added_at": "2022-11-02 04:01:00",
       "album": {
-        "name": "Oh my mind",
-        "url": "https://open.spotify.com/album/2glevWrlWJ7Qy0P3yy1P9O"
-      },
-      "artists": [
-        {
-          "name": "Tamara Kramar",
-          "url": "https://open.spotify.com/artist/5oUUInn3oIsijfbnrmlYhT"
-        }
-      ],
-      "duration_ms": 171191,
-      "name": "Oh my mind",
-      "url": "https://open.spotify.com/track/11xhklamG0Y8fOwufeugtK"
-    },
-    {
-      "added_at": "2022-11-02 04:01:00",
-      "album": {
         "name": "La Verdad",
         "url": "https://open.spotify.com/album/5liRXIIe5NXzgqR1c1qvjn"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 204878,
       "name": "La Verdad",
       "url": "https://open.spotify.com/track/41e6XAUwzXXu9CcKqYtOoa"
+    },
+    {
+      "added_at": "2022-11-02 04:01:00",
+      "album": {
+        "name": "Oh my mind",
+        "url": "https://open.spotify.com/album/2glevWrlWJ7Qy0P3yy1P9O"
+      },
+      "artists": [
+        {
+          "name": "Tamara Kramar",
+          "url": "https://open.spotify.com/artist/5oUUInn3oIsijfbnrmlYhT"
+        }
+      ],
+      "duration_ms": 171191,
+      "name": "Oh my mind",
+      "url": "https://open.spotify.com/track/11xhklamG0Y8fOwufeugtK"
     },
     {
       "added_at": "2022-11-02 04:01:00",
@@ -1013,6 +1013,22 @@
       "url": "https://open.spotify.com/track/08TCJTR4MrhByX6prkVZ2A"
     },
     {
+      "added_at": "2022-11-08 23:00:00",
+      "album": {
+        "name": "3:30",
+        "url": "https://open.spotify.com/album/5vo8DvHawHGp7FM40oHOmK"
+      },
+      "artists": [
+        {
+          "name": "Viki Gabor",
+          "url": "https://open.spotify.com/artist/3yCRvilOBzRkyxOsOi4tsR"
+        }
+      ],
+      "duration_ms": 203240,
+      "name": "3:30",
+      "url": "https://open.spotify.com/track/3vt2uTPMsJtAABxhyxmU9u"
+    },
+    {
       "added_at": "2022-11-02 04:01:00",
       "album": {
         "name": "Therapeutic",
@@ -1047,22 +1063,6 @@
     {
       "added_at": "2022-11-02 04:01:00",
       "album": {
-        "name": "Majaneen",
-        "url": "https://open.spotify.com/album/7oxwkRW6lpv4jbdzgLlM1S"
-      },
-      "artists": [
-        {
-          "name": "Banah",
-          "url": "https://open.spotify.com/artist/4zOyNEn2WrQKUEL92y7Rxf"
-        }
-      ],
-      "duration_ms": 168480,
-      "name": "Majaneen",
-      "url": "https://open.spotify.com/track/6kJgqTQPgEwY0d7KMGmbLp"
-    },
-    {
-      "added_at": "2022-11-02 04:01:00",
-      "album": {
         "name": "Life",
         "url": "https://open.spotify.com/album/6eHdWplf77Jq7KX3Kqeii4"
       },
@@ -1077,20 +1077,20 @@
       "url": "https://open.spotify.com/track/2nZSM1K6ygAtwvZXtYXnxz"
     },
     {
-      "added_at": "2022-11-08 23:00:00",
+      "added_at": "2022-11-02 04:01:00",
       "album": {
-        "name": "3:30",
-        "url": "https://open.spotify.com/album/5vo8DvHawHGp7FM40oHOmK"
+        "name": "Majaneen",
+        "url": "https://open.spotify.com/album/7oxwkRW6lpv4jbdzgLlM1S"
       },
       "artists": [
         {
-          "name": "Viki Gabor",
-          "url": "https://open.spotify.com/artist/3yCRvilOBzRkyxOsOi4tsR"
+          "name": "Banah",
+          "url": "https://open.spotify.com/artist/4zOyNEn2WrQKUEL92y7Rxf"
         }
       ],
-      "duration_ms": 203240,
-      "name": "3:30",
-      "url": "https://open.spotify.com/track/3vt2uTPMsJtAABxhyxmU9u"
+      "duration_ms": 168480,
+      "name": "Majaneen",
+      "url": "https://open.spotify.com/track/6kJgqTQPgEwY0d7KMGmbLp"
     },
     {
       "added_at": "2022-11-02 04:01:00",
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2022-11-02 04:01:00",
       "album": {
-        "name": "MY CREW (Friendless x Hugh Lake Remix)",
-        "url": "https://open.spotify.com/album/3vWWwBYvHyjMiwk6zUTe7W"
+        "name": "Sport rentr\u00e9e 2020",
+        "url": "https://open.spotify.com/album/6O7b1MtNiMEkghznrxGly5"
       },
       "artists": [
         {
-          "name": "PANIA",
-          "url": "https://open.spotify.com/artist/5amlDCKh0QTWhI6BOMn6Pf"
+          "name": "ALMA",
+          "url": "https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8"
         }
       ],
-      "duration_ms": 152271,
-      "name": "MY CREW",
-      "url": "https://open.spotify.com/track/7rCQ2IUc15BI83NkvxHoIC"
+      "duration_ms": 195678,
+      "name": "Chasing Highs",
+      "url": "https://open.spotify.com/track/4uGXaJdunGiQJyNpkPrKqn"
     },
     {
       "added_at": "2022-11-09 22:14:07",
@@ -1183,18 +1183,18 @@
     {
       "added_at": "2022-11-02 04:01:00",
       "album": {
-        "name": "Sport rentr\u00e9e 2020",
-        "url": "https://open.spotify.com/album/6O7b1MtNiMEkghznrxGly5"
+        "name": "MY CREW (Friendless x Hugh Lake Remix)",
+        "url": "https://open.spotify.com/album/3vWWwBYvHyjMiwk6zUTe7W"
       },
       "artists": [
         {
-          "name": "ALMA",
-          "url": "https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8"
+          "name": "PANIA",
+          "url": "https://open.spotify.com/artist/5amlDCKh0QTWhI6BOMn6Pf"
         }
       ],
-      "duration_ms": 195678,
-      "name": "Chasing Highs",
-      "url": "https://open.spotify.com/track/4uGXaJdunGiQJyNpkPrKqn"
+      "duration_ms": 152271,
+      "name": "MY CREW",
+      "url": "https://open.spotify.com/track/7rCQ2IUc15BI83NkvxHoIC"
     },
     {
       "added_at": "2022-11-02 04:01:00",

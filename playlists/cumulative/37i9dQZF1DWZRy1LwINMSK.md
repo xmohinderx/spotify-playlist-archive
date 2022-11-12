@@ -4,7 +4,7 @@
 
 > La casa del trap chileno\. Foto: Marcianeke
 
-129 songs - 7 hr 2 min - [published](https://open.spotify.com/playlist/4O7bBJoeZnEU8BCS1d4SPn)
+130 songs - 7 hr 6 min - [published](https://open.spotify.com/playlist/4O7bBJoeZnEU8BCS1d4SPn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,8 @@
 | [Trap Life 2](https://open.spotify.com/track/6SvQJKtETQdvcMGDK3fuVS) | [Ben Bulgari](https://open.spotify.com/artist/2OKp4B9CctxvyhsBX01bqG), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Jay Ferragamo](https://open.spotify.com/artist/56PIuOhNTWtetm2Vis0lG7) | [Trap Life 2](https://open.spotify.com/album/0sWmfPRhvOPYPIZa6wH7zW) | 3:42 | 2022-01-20 | 2022-03-18 |
 | [TrapStar](https://open.spotify.com/track/3YxGHS6Ggv4AgSBMNRPJf9) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [MAFFIOSO](https://open.spotify.com/album/3lyHfZOWkuKvhqg2m5n8D5) | 2:21 | 2022-01-20 |  |
 | [Truquitos Pa Verme](https://open.spotify.com/track/1IFIKSb1sL9fq2ZzKrW6xC) | [area3](https://open.spotify.com/artist/2A48K9DM2YIGuaG7zV726Z) | [Mala Fama](https://open.spotify.com/album/3IjEiE0oVHCHFqWTaZ0xzx) | 3:37 | 2022-01-20 | 2022-07-29 |
-| [Truquitos Pa Verme](https://open.spotify.com/track/2HahVUyXYzllUgxzpfyILF) | [area3](https://open.spotify.com/artist/2A48K9DM2YIGuaG7zV726Z), [Alex D](https://open.spotify.com/artist/1b83QsnZFe3kwjmaExNMAM), [Likestyle](https://open.spotify.com/artist/0ALRVBP9v3BpRxC4vgaeRN) | [Truquitos Pa Verme](https://open.spotify.com/album/5betxhFozxZ6NVvS4kt1Pu) | 3:39 | 2022-07-22 |  |
+| [Truquitos Pa Verme](https://open.spotify.com/track/2HahVUyXYzllUgxzpfyILF) | [area3](https://open.spotify.com/artist/2A48K9DM2YIGuaG7zV726Z), [Alex D](https://open.spotify.com/artist/1b83QsnZFe3kwjmaExNMAM), [Likestyle](https://open.spotify.com/artist/0ALRVBP9v3BpRxC4vgaeRN) | [Truquitos Pa Verme](https://open.spotify.com/album/5betxhFozxZ6NVvS4kt1Pu) | 3:39 | 2022-07-22 | 2022-11-12 |
+| [Truquitos Pa Verme](https://open.spotify.com/track/5YTJpyKziQF4t0lvbPqGLm) | [area3](https://open.spotify.com/artist/2A48K9DM2YIGuaG7zV726Z), [Alex D](https://open.spotify.com/artist/1b83QsnZFe3kwjmaExNMAM), [Likestyle](https://open.spotify.com/artist/0ALRVBP9v3BpRxC4vgaeRN) | [Electro Latino & Reggaeton Hits 2020](https://open.spotify.com/album/7ikmdXhZCh5HnXblv7Pogw) | 3:39 | 2022-08-25 |  |
 | [TU MANUAL](https://open.spotify.com/track/2Ivbso5dqUKe1yLLbTcqAM) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr), [Savage Kreamly](https://open.spotify.com/artist/2fPLpBaRBMEwljraJ7FxrU) | [FRÍO](https://open.spotify.com/album/35pPpQjgXMiiDtlJDvcOa3) | 2:48 | 2022-08-05 |  |
 | [Tu No Eres Trap](https://open.spotify.com/track/3pDVwA9qF4TwmysETmgw01) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [De Menor The Mixtape](https://open.spotify.com/album/3LCwivmmmk4nW0yazWyYsO) | 2:43 | 2022-01-20 |  |
 | [Tu No Saben](https://open.spotify.com/track/4P2RAk00C46M6qXvZtlSBX) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [No Saen](https://open.spotify.com/album/0oBbkkIclDNAUd69NzIyys) | 2:41 | 2022-01-20 |  |

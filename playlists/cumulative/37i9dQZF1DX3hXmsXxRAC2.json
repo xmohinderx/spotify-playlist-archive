@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Juan Gabriel - D\u00faos & Interpretaciones",
+        "url": "https://open.spotify.com/album/3UUbSlMUC7dTInWLLkX9g5"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272733,
+      "name": "Abr\u00e1zame Muy Fuerte",
+      "url": "https://open.spotify.com/track/7r5S7sM4AypvieW7nlrk0O"
+    },
+    {
+      "album": {
         "name": "Iconos",
         "url": "https://open.spotify.com/album/5SGUCNeCuGHbR73Iyh2F7g"
       },
@@ -19,7 +37,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 274680,
       "name": "Abr\u00e1zame Muy Fuerte",
       "url": "https://open.spotify.com/track/4gTxKZH5RERMhX9H8EnPAX"
@@ -1773,10 +1791,28 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 193733,
       "name": "No Tengo Dinero",
       "url": "https://open.spotify.com/track/2S7OHGloZFKDo034vN3tVi"
+    },
+    {
+      "album": {
+        "name": "Lo Esencial De Ana Gabriel",
+        "url": "https://open.spotify.com/album/2bdaZKWu05LqbN8OwJtuPZ"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194746,
+      "name": "No Tengo Dinero",
+      "url": "https://open.spotify.com/track/1JqBac5IlhsgLCggLrjbH6"
     },
     {
       "album": {

@@ -689,7 +689,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 258906,
       "name": "Give It All To You - 92 Remix",
       "url": "https://open.spotify.com/track/49RSvh6silwveTzfQwSbLj"
@@ -1123,7 +1123,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 417466,
       "name": "Let's Groove",
       "url": "https://open.spotify.com/track/09YDYNdzjCbKI3lF8Sr2UO"
@@ -1159,7 +1159,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-29",
+      "date_removed": null,
       "duration_ms": 417466,
       "name": "Let's Groove",
       "url": "https://open.spotify.com/track/2amYO9uSLjsHfLSUZVh5Wq"
@@ -1238,6 +1238,28 @@
     },
     {
       "album": {
+        "name": "Strictly Rhythm The Definitive 30",
+        "url": "https://open.spotify.com/album/1hs7oHuZlbzkFQFCUjU5sa"
+      },
+      "artists": [
+        {
+          "name": "Underground Solution",
+          "url": "https://open.spotify.com/artist/5npk2VWFPRppHeqXqQVFw8"
+        },
+        {
+          "name": "Jasmine",
+          "url": "https://open.spotify.com/artist/57m79UlpS9CrJrmwBOTGWB"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 497665,
+      "name": "Luv Dancin' (feat. Jasmine) - In Deep Mix",
+      "url": "https://open.spotify.com/track/7w1gzwvOC3ZAXWPKCrd5CO"
+    },
+    {
+      "album": {
         "name": "Luv Dancin' (feat. Jasmine)",
         "url": "https://open.spotify.com/album/1JOFt6FQ2LHiHQ2LDOGR0L"
       },
@@ -1275,7 +1297,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 501526,
       "name": "Luv Dancin' - In Deep Mix",
       "url": "https://open.spotify.com/track/1u7qO9C2Ip8PrKyjz8F4R3"
@@ -1495,10 +1517,28 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 472043,
       "name": "Reach - Little \"More\" Mix",
       "url": "https://open.spotify.com/track/0Vz1JPyRqJu4JFpJB6Ygm4"
+    },
+    {
+      "album": {
+        "name": "Reach (The Ultimate Remixes)",
+        "url": "https://open.spotify.com/album/1RaWr3vlHNnFsVqBS9Wanx"
+      },
+      "artists": [
+        {
+          "name": "Lil' Mo' Yin Yang",
+          "url": "https://open.spotify.com/artist/631eaalga2JEGnouXxVkYT"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 472453,
+      "name": "Reach - Little \"More\" Mix",
+      "url": "https://open.spotify.com/track/4nLBwHxRIcNIwqCXEL8wOE"
     },
     {
       "album": {
@@ -1695,7 +1735,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 350066,
       "name": "Sindae (feat. L.G.) - Masters At Work Club Mix",
       "url": "https://open.spotify.com/track/7HoUdaD3icSlL6A0xr5zgf"
@@ -1937,7 +1977,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 554971,
       "name": "The Sound - The Studio 54 Mix",
       "url": "https://open.spotify.com/track/3NYlKhLDWNe99VXWspYFIO"
@@ -2143,7 +2183,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 491746,
       "name": "Who Dares To Believe In Me?",
       "url": "https://open.spotify.com/track/2orxZZBLXF40hyBDSqqEGb"

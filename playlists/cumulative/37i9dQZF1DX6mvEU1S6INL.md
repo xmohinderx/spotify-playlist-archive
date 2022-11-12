@@ -4,7 +4,7 @@
 
 > It's just us—and this awesome alt soundtrack.
 
-208 songs - 13 hr 28 min - [published](https://open.spotify.com/playlist/2Ni00bI0Uwu2mjVXmNScYr)
+209 songs - 13 hr 32 min - [published](https://open.spotify.com/playlist/2Ni00bI0Uwu2mjVXmNScYr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,7 @@
 | [Julia](https://open.spotify.com/track/01OOLvNYxeSttThtUj8Mor) | [Colony House](https://open.spotify.com/artist/6R664N4cEza3eORSqKSgO4) | [Leave What's Lost Behind](https://open.spotify.com/album/7aYN3ImZcHkloKR4LGvHcV) | 3:25 | 2020-02-13 |  |
 | [Just Say When \(Version 2.0\)](https://open.spotify.com/track/4JtUz0ZcInSokkKBalijhd) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [Just Say When \(Version 2.0\)](https://open.spotify.com/album/0YQxKT6so33kUPPvrS5FfC) | 3:44 | 2019-05-26\* |  |
 | [Komorebi](https://open.spotify.com/track/2ztHL4aV76oeCe6DDWpky3) | [Craft Spells](https://open.spotify.com/artist/16lg8y62dC3J6ok1pNAbFJ) | [Nausea](https://open.spotify.com/album/1ct8dPVmXPOQiyvz8uFUqE) | 4:23 | 2019-05-26\* | 2022-07-29 |
-| [Komorebi](https://open.spotify.com/track/6giBkfHez7G866LZqjyIhx) | [Craft Spells](https://open.spotify.com/artist/16lg8y62dC3J6ok1pNAbFJ) | [Nausea](https://open.spotify.com/album/19BaCTH1mnqE9rWbZSvNYU) | 4:23 | 2022-05-27 |  |
+| [Komorebi](https://open.spotify.com/track/6giBkfHez7G866LZqjyIhx) | [Craft Spells](https://open.spotify.com/artist/16lg8y62dC3J6ok1pNAbFJ) | [Nausea](https://open.spotify.com/album/19BaCTH1mnqE9rWbZSvNYU) | 4:23 | 2022-05-27 | 2022-11-12 |
 | [Leaving](https://open.spotify.com/track/1vrXl5UJBWRJJxjCyCRPMv) | [Castlecomer](https://open.spotify.com/artist/7tnWJfXaJmFO6vv5WFN2K0) | [Leaving](https://open.spotify.com/album/2GPHpcLADv3OAbUnHG51kp) | 4:20 | 2019-05-26\* | 2021-12-10 |
 | [let go of your love](https://open.spotify.com/track/1ehMNecFGwZu0tmCImU473) | [Thousand Below](https://open.spotify.com/artist/0iU3WDujScAofxcK2EMypN) | [let go of your love](https://open.spotify.com/album/0Y2gHxgmQQbkgJVYSMph9m) | 3:24 | 2020-07-31 | 2020-08-14 |
 | [Let Me In \- From The Fault in Our Stars Soundtrack](https://open.spotify.com/track/0eRPQfyQcuNczYh7l08bKd) | [Grouplove](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Colpa Delle Stelle: Music From The Motion Picture](https://open.spotify.com/album/2ITK7Evq08n0kCoT4TpeoB) | 3:59 | 2019-05-26\* | 2022-05-28 |
@@ -201,6 +201,7 @@
 | [Trembling hands](https://open.spotify.com/track/0P2xmlbhOoQd5LOztoe0yF) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [The Temper Trap](https://open.spotify.com/album/2iaZi2RryjkmlSj0apnzDv) | 4:39 | 2019-05-26\* | 2022-07-29 |
 | [Trembling Hands](https://open.spotify.com/track/1RmbJuUUXafxb6kEZigEcg) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [The Temper Trap](https://open.spotify.com/album/3KQtomPjY6Cgvo0mMDFY8s) | 4:39 | 2022-05-27 |  |
 | [twin flame](https://open.spotify.com/track/4pR5ZEROnKQpJttWNn5er6) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [mainstream sellout](https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc) | 3:59 | 2022-05-18 |  |
+| [Unicorn](https://open.spotify.com/track/5biqRB1iyIH8TWuH2rEsq0) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Love Songs for Losers](https://open.spotify.com/album/7n4sK9njoH3CxU6AwhQIvB) | 4:06 | 2022-11-11 |  |
 | [Until I Found You](https://open.spotify.com/track/6VhuP99TE6gYNQRJIlAWFD) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Easy On My Eyes](https://open.spotify.com/album/6BUPtXbb2tspYnkVdg5Ef7) | 2:56 | 2022-08-26 |  |
 | [Wait for Me](https://open.spotify.com/track/2nO1DYEg1X5GHi8SSuNJQj) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Mechanical Bull \(Expanded Edition\)](https://open.spotify.com/album/0cRJKK0y1sfZEqWub4dK9v) | 3:30 | 2019-05-26\* |  |
 | [Want You Like That](https://open.spotify.com/track/0aKWr5K7ydkegVoxd3dBeM) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Love and Other Lies](https://open.spotify.com/album/5l7whBWhClQiC0pFLpPcRi) | 2:54 | 2022-08-26 |  |

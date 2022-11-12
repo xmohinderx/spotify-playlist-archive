@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7EzJMK2FUI.md) - [plain]
 
 > Soft instrumental Jazz for all your activities.
 
-[Spotify](https://open.spotify.com/user/spotify) - 891,657 likes - 406 songs - 1 day 1 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 893,445 likes - 406 songs - 1 day 1 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -401,7 +401,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7EzJMK2FUI.md) - [plain]
 | 391 | [There It Is](https://open.spotify.com/track/0SRSU8GcRZxIqyQrbeD6Hx) | [Astor Shelby](https://open.spotify.com/artist/6iMX0vvTY8FLgjeuNLzAAn) | [There it is](https://open.spotify.com/album/2RHZSPq8wbOoqK4BAdPnhk) | 3:57 |
 | 392 | [Five Years Ago](https://open.spotify.com/track/1L2aEbr8dOnVUKoeFhmMZG) | [Leonard Peters](https://open.spotify.com/artist/3lnir5hIW9TkpCGJGUuhvk) | [Walk The Dog](https://open.spotify.com/album/1P4DJRMLQ5RhNxYkDPeUf1) | 2:55 |
 | 393 | [Moonlight in Vermont](https://open.spotify.com/track/2EW5zfxI27hvTxeYr8I0J7) | [Leslie Rossiter Band](https://open.spotify.com/artist/2VSepNTGbjPy4jy4y5qfTA) | [Mack the Knife](https://open.spotify.com/album/4sQs9YGrgwux8mzefYVdVE) | 4:17 |
-| 394 | [A Better Place](https://open.spotify.com/track/6ZDLHi8UtQeT203JjiQU6N) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx) | [A Better Place](https://open.spotify.com/album/5kIBKvyTDfkVFeL3INbvBZ) | 2:13 |
+| 394 | [A Better Place](https://open.spotify.com/track/7JfORZg3Tvn0YyDZCiGhMU) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx) | [A Better Place](https://open.spotify.com/album/0BIRayldwphnBlwreGKihM) | 2:13 |
 | 395 | [Waltz At Midnight](https://open.spotify.com/track/6fmBZeSeM8Cp4mNivC7AGT) | [Midtown Trio](https://open.spotify.com/artist/6WVEwzrXXaJ8JTk1KLkleT) | [Waltz At Midnight](https://open.spotify.com/album/2qKhcF6JaeTuNcr1uzrcY8) | 3:34 |
 | 396 | [The Fairies](https://open.spotify.com/track/0IaY3Z8XKbNFMxMxBa5WeM) | [Foster Davies](https://open.spotify.com/artist/78Pm7H24T9om74ZfNs4UF7) | [The Fairies](https://open.spotify.com/album/1OLkOGh5LyyqoYFlY0tvSL) | 3:00 |
 | 397 | [Embracable You](https://open.spotify.com/track/2vc6aQG10jrwwi2VGXXcfl) | [Red Stairs Jazz Quartet](https://open.spotify.com/artist/7Aw4wL0AJtfh0yQDQgaBjS) | [Easy Living](https://open.spotify.com/album/063dLcnFERUaDqum86A5eF) | 2:34 |
@@ -415,4 +415,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7EzJMK2FUI.md) - [plain]
 | 405 | [Absence](https://open.spotify.com/track/0q243837xX1qJmXuItLJHd) | [Neil Chapman Green](https://open.spotify.com/artist/5iyGZWUlM8wxizjjtBLGFZ) | [Absence](https://open.spotify.com/album/13zi4vABi2RGi71sfTMLll) | 3:11 |
 | 406 | [Blue in Green](https://open.spotify.com/track/36cspwQPiIL9ElURDU7bGX) | [Hudson Harris & Haim](https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV) | [Blue in Green](https://open.spotify.com/album/1gFhq2ad0vX0D3MyxG3Kqq) | 3:49 |
 
-Snapshot ID: `MTY2ODEyMTI2MCwwMDAwMDAwMDdmMzk4OWM4NGMwOGUxNjEwZTc1NzYyYjA2MDg5Y2U0`
+Snapshot ID: `MTY2ODEyMTI2MCwwMDAwMDAwMGM5ZDY5YjM1NGMyZTc2MDNjZDVlOTQxMTkzOTllNjdm`

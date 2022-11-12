@@ -529,7 +529,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 212293,
       "name": "Animal",
       "url": "https://open.spotify.com/track/1fBl642IhJOE5U319Gy2Go"
@@ -595,7 +595,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 205250,
       "name": "Anywhere",
       "url": "https://open.spotify.com/track/6lD9nDl7jBUSIPDMAMZjuD"
@@ -737,6 +737,24 @@
       "duration_ms": 213123,
       "name": "Best of Me",
       "url": "https://open.spotify.com/track/022KUgS0Q5c3MTePafMLai"
+    },
+    {
+      "album": {
+        "name": "Best of Me",
+        "url": "https://open.spotify.com/album/40L1sQqM1UxSeAr5qMvXU1"
+      },
+      "artists": [
+        {
+          "name": "Blake Rose",
+          "url": "https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213123,
+      "name": "Best of Me",
+      "url": "https://open.spotify.com/track/1OVeueac2ETGfjrDN4wOmh"
     },
     {
       "album": {
@@ -888,6 +906,24 @@
     },
     {
       "album": {
+        "name": "The Essential Jacksons",
+        "url": "https://open.spotify.com/album/56P85b0u2ND6dJL9AgOB95"
+      },
+      "artists": [
+        {
+          "name": "The Jacksons",
+          "url": "https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210293,
+      "name": "Blame It on the Boogie",
+      "url": "https://open.spotify.com/track/2JPhjahxid1Y6nv6keJ3q2"
+    },
+    {
+      "album": {
         "name": "Destiny",
         "url": "https://open.spotify.com/album/46yTC334aJI4QTv4lkzj3a"
       },
@@ -899,7 +935,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 214200,
       "name": "Blame It on the Boogie",
       "url": "https://open.spotify.com/track/3qI94hINNNeb4S7xQi18lS"
@@ -1029,7 +1065,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 173072,
       "name": "Build Me up Buttercup",
       "url": "https://open.spotify.com/track/6g3EtZDHdvss7vmqigJCRJ"
@@ -1105,6 +1141,32 @@
       "duration_ms": 219146,
       "name": "Cake By The Ocean",
       "url": "https://open.spotify.com/track/76hfruVvmfQbw0eYn1nmeC"
+    },
+    {
+      "album": {
+        "name": "California",
+        "url": "https://open.spotify.com/album/5TCRvaEwhORndV4yqqwFpE"
+      },
+      "artists": [
+        {
+          "name": "Hot Shade",
+          "url": "https://open.spotify.com/artist/3GtCKJA4SkOxN65MWjm82R"
+        },
+        {
+          "name": "Mike Perry",
+          "url": "https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c"
+        },
+        {
+          "name": "Karlyn",
+          "url": "https://open.spotify.com/artist/7kMyDVBst44rpdogfXhUrk"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169157,
+      "name": "California",
+      "url": "https://open.spotify.com/track/2bHUk3K9cC6z8rYOFJNZxo"
     },
     {
       "album": {
@@ -1459,7 +1521,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 251906,
       "name": "Clearly",
       "url": "https://open.spotify.com/track/5XBqGcLYOZi8CEW83Ug7Fs"
@@ -1619,7 +1681,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 287306,
       "name": "Come On Eileen",
       "url": "https://open.spotify.com/track/3MrWxJaD2AT0W9DjWF64Vm"
@@ -1899,6 +1961,28 @@
       "duration_ms": 220432,
       "name": "Dive With Me",
       "url": "https://open.spotify.com/track/1NldMriIXmMdChqZtHCGbW"
+    },
+    {
+      "album": {
+        "name": "Dive With Me",
+        "url": "https://open.spotify.com/album/0z7F1uxjghiQIGFc79XSXN"
+      },
+      "artists": [
+        {
+          "name": "LVNDSCAPE",
+          "url": "https://open.spotify.com/artist/2QlwnS23KrBeshXFyK5U6M"
+        },
+        {
+          "name": "Cathrine Lassen",
+          "url": "https://open.spotify.com/artist/5i09Vd9N18qRJl2RcXODOp"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220432,
+      "name": "Dive With Me (feat. Cathrine Lassen)",
+      "url": "https://open.spotify.com/track/2DLqygtisuvhIUeV3aKJSe"
     },
     {
       "album": {
@@ -2853,7 +2937,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 198074,
       "name": "Grip",
       "url": "https://open.spotify.com/track/3gicyfiEVMGONgzygpWjNT"
@@ -2889,7 +2973,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 232720,
       "name": "Happy - From \"Despicable Me 2\"",
       "url": "https://open.spotify.com/track/60nZcImufyMA1MKQY3dcCH"
@@ -3077,7 +3161,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 233666,
       "name": "Heaven Is A Place On Earth - Promo 7\" Edit",
       "url": "https://open.spotify.com/track/3EvpaRZkKWxsgDIO2zMH7g"
@@ -4373,6 +4457,28 @@
     {
       "album": {
         "name": "7",
+        "url": "https://open.spotify.com/album/2Sq9AIsIrad2GygwB6QLPt"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172933,
+      "name": "Let It Be Me (feat. Ava Max)",
+      "url": "https://open.spotify.com/track/01qMOMudbkIHZS9BFPUGNk"
+    },
+    {
+      "album": {
+        "name": "7",
         "url": "https://open.spotify.com/album/5rbJtzuXtpIP0Ykk7ewIit"
       },
       "artists": [
@@ -4665,7 +4771,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 177946,
       "name": "Love You Like That",
       "url": "https://open.spotify.com/track/2IClzYyvgwrsmVVipYsx5T"
@@ -5321,7 +5427,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 202066,
       "name": "Party In The U.S.A.",
       "url": "https://open.spotify.com/track/5Q0Nhxo0l2bP3pNjpGJwV1"
@@ -5771,7 +5877,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 155939,
       "name": "Satisfied (feat. MAX)",
       "url": "https://open.spotify.com/track/57QXXEBy5apjgxsyXSb8YE"
@@ -5919,7 +6025,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 220290,
       "name": "September Song",
       "url": "https://open.spotify.com/track/0zbzrhfVS9S2TszW3wLQZ7"
@@ -7113,7 +7219,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 201173,
       "name": "Too Good To Be True",
       "url": "https://open.spotify.com/track/3WKBNbYx32xlJQ0puFCnAJ"
@@ -7979,7 +8085,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 167933,
       "name": "You Can't Hurry Love",
       "url": "https://open.spotify.com/track/1OppEieGNdItZbE14gLBEv"

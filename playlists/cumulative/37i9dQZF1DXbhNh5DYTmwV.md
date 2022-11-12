@@ -4,7 +4,7 @@
 
 > ¡Las canciones más chéveres están sonando aquí!
 
-84 songs - 5 hr 11 min - [published](https://open.spotify.com/playlist/2gT9p9h2AT84oVHAfgpUfs)
+85 songs - 5 hr 16 min - [published](https://open.spotify.com/playlist/2gT9p9h2AT84oVHAfgpUfs)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [Alguien Me Gusta](https://open.spotify.com/track/4iFTIshL0xDCw8JJUl5AJ3) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2), [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Alguien Me Gusta](https://open.spotify.com/album/79WB96tQV9vPJ920cbneZ9) | 2:48 | 2022-05-17 | 2022-09-03 |
 | [Amante](https://open.spotify.com/track/63ItGyBtbfsR2zXTIxQZBz) | [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ) | [Amante](https://open.spotify.com/album/1oHRJevcSdW6KVVZH81Uuk) | 3:51 | 2022-05-17 | 2022-07-02 |
 | [Amor Narcótico](https://open.spotify.com/track/24LO2UMNHWNoPZnhdAw4TO) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Déjà Vu](https://open.spotify.com/album/3gLXoSKX6H6l1ulUYZTYvz) | 2:48 | 2022-05-17 |  |
-| [Andas En Mi Cabeza](https://open.spotify.com/track/23WI5V2eD4EyGKxSl7Pyeq) | [Chino & Nacho](https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Andas En Mi Cabeza](https://open.spotify.com/album/0MaeGZFHJa76NUjYux7ygZ) | 4:07 | 2022-07-01 |  |
+| [Andas En Mi Cabeza](https://open.spotify.com/track/23WI5V2eD4EyGKxSl7Pyeq) | [Chino & Nacho](https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Andas En Mi Cabeza](https://open.spotify.com/album/0MaeGZFHJa76NUjYux7ygZ) | 4:07 | 2022-07-01 | 2022-11-12 |
+| [Andas En Mi Cabeza](https://open.spotify.com/track/2IafEBR4c1ATwDLujqKlrm) | [Chino & Nacho](https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Modo Carrete Vol\. 3](https://open.spotify.com/album/4GTpglJTUq4HDKeQoRETZJ) | 4:07 | 2022-09-06 |  |
 | [Andas En Mi Cabeza](https://open.spotify.com/track/5mey7CLLuFToM2P68Qu1gF) | [Chino & Nacho](https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Andas En Mi Cabeza](https://open.spotify.com/album/5Ai3DmyYkShDJ5OdvjqT5a) | 4:07 | 2022-05-17 | 2022-07-29 |
 | [Aquí Estoy](https://open.spotify.com/track/0AjWPhrgNzEAO7FTnQIlEf) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Aquí Estoy](https://open.spotify.com/album/3BdctQrrNWKKazV67UXzGK) | 2:08 | 2022-05-17 |  |
 | [Arroyito](https://open.spotify.com/track/3YiF4GqPHrifMDhn7mUnD1) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP) | [Gratitud](https://open.spotify.com/album/53BSvP9Gegfk3OV4OtcWA7) | 3:58 | 2022-05-17 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > Sleater\-Kinney, in celebration of their new album "Path of Wellness," co\-curate a list of the defining songs of the riot grrrl era, and the bands keeping its spirit alive.
 
-116 songs - 5 hr 43 min - [published](https://open.spotify.com/playlist/3w6EKs1xpDEvjIzzOzbqdF)
+117 songs - 5 hr 46 min - [published](https://open.spotify.com/playlist/3w6EKs1xpDEvjIzzOzbqdF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [Eat Them](https://open.spotify.com/track/3NZkyDOaTyZAmeWWD84s1w) | [Lady Pills](https://open.spotify.com/artist/0saDlqBbxO1XrZbQFogMCV) | [Despite](https://open.spotify.com/album/2YG2YCdxxbUbd967zI1QqS) | 2:11 | 2021-06-11 | 2022-07-29 |
 | [Favorite Neighbor](https://open.spotify.com/track/0r5TbSDRWORni3AMtwMsvW) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Path of Wellness](https://open.spotify.com/album/1eUPlL6mb3jmAOJGylGgK1) | 2:49 | 2021-06-11 | 2022-07-29 |
 | [Favorite Neighbor](https://open.spotify.com/track/2wg83IqdmFOOnLwM0r9KM0) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Path of Wellness](https://open.spotify.com/album/2EQxYuMIrAs2SjeSZ4iwxA) | 2:49 | 2021-06-11 |  |
-| [Feed the Tree](https://open.spotify.com/track/3L19vBWH4jTHNXbuBaHbUN) | [Belly](https://open.spotify.com/artist/3h1HOgVmvPlhqjz8o3LglL) | [Star](https://open.spotify.com/album/2b5r3YRZYwSAeXd7aWZjWp) | 3:29 | 2021-06-11 |  |
+| [Feed the Tree](https://open.spotify.com/track/0tEKtLWworiDAh0cCxu6S8) | [Belly](https://open.spotify.com/artist/3h1HOgVmvPlhqjz8o3LglL) | [The 90s Album](https://open.spotify.com/album/6SzncloJo8iKpSEmDyRAIC) | 3:29 | 2021-06-11 |  |
+| [Feed the Tree](https://open.spotify.com/track/3L19vBWH4jTHNXbuBaHbUN) | [Belly](https://open.spotify.com/artist/3h1HOgVmvPlhqjz8o3LglL) | [Star](https://open.spotify.com/album/2b5r3YRZYwSAeXd7aWZjWp) | 3:29 | 2021-06-11 | 2022-11-12 |
 | [Feed The Tree](https://open.spotify.com/track/43fQztrFu5UpEzqxnDBvLi) | [Belly](https://open.spotify.com/artist/3h1HOgVmvPlhqjz8o3LglL) | [Star](https://open.spotify.com/album/5fKe3iL64q97JK9Lgp50vz) | 3:29 | 2021-06-11 | 2022-07-29 |
 | [Feels Blind](https://open.spotify.com/track/3VKly1IGagrEfPAAyw96M4) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [Kill Rock Stars](https://open.spotify.com/album/5TZM8FoHBlbqXBKCllJH8i) | 3:36 | 2021-06-11 |  |
 | [Feels Blind](https://open.spotify.com/track/3lo5PYzZV2Rdyg2tovBdrd) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [Kill Rock Stars](https://open.spotify.com/album/5k48WWWGfQ7LoizPNwSskC) | 3:36 | 2021-06-11 | 2022-07-29 |

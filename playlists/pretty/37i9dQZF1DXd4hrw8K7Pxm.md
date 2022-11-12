@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd4hrw8K7Pxm.md) - [plain]
 
 > Let it go and belt it out to these classic ballads – covered\. Cover: <a href="spotify:artist:3DIk8KcmVKTr4uGw3AuCtJ">Rose Cousins</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,284 likes - 54 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,302 likes - 54 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Make You Feel My Love](https://open.spotify.com/track/5FgPwJ7Nh2FVmIXviKl2VF) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0) | 3:32 |
+| 1 | [Make You Feel My Love](https://open.spotify.com/track/6otXN6h5J6e49Lvse5yCwD) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Make You Feel My Love](https://open.spotify.com/album/4K1tS9SCKWJX4NQCcMUcUx) | 3:32 |
 | 2 | [God Is A Woman \- Yours Truly: 2018](https://open.spotify.com/track/4LnBzQTbIJ3rCdXxs44R9S) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [God Is A Woman \(Yours Truly: 2018\)](https://open.spotify.com/album/3hrJkq3kDZhsUhFq5eMxbJ) | 3:37 |
 | 3 | [Never Surrender](https://open.spotify.com/track/7G3OpJf9H8QMQ4xjQn8bvm) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ) | [Never Surrender](https://open.spotify.com/album/6MQJgZUzgaUyihM4yWx2la) | 3:59 |
-| 4 | [If I Ain’t Got You \- James Bay Spotify Session 2015 "Alicia Keys Cover"](https://open.spotify.com/track/1zJpJ3HPRtAYYNLWm5BJEf) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [James Bay Spotify Session 2015](https://open.spotify.com/album/2DSUg9hHXIb9KBvOWXQvNf) | 4:21 |
+| 4 | [If I Ain’t Got You \- James Bay Spotify Session 2015 "Alicia Keys Cover"](https://open.spotify.com/track/0SidMvl9XvHG69NAIRwvdX) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Live Version](https://open.spotify.com/album/2WOqsN4x4QiKLq6Ze9LonA) | 4:21 |
 | 5 | [Iris](https://open.spotify.com/track/5oV8bZaShr2d01FFMHBUPq) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Iris](https://open.spotify.com/album/74wXrpY7UqobiKTiVb3JAL) | 3:01 |
 | 6 | [Chandelier](https://open.spotify.com/track/7F2tZGMRkcEyGYY8Xee7xz) | [Jennel Garcia](https://open.spotify.com/artist/1Ff1cuzx8IrADaKnclXscN) | [Chandelier](https://open.spotify.com/album/7qQyLTKV67RGg6TmY8vyit) | 3:42 |
 | 7 | [Free Fallin' \- Live at the Nokia Theatre, Los Angeles, CA \- December 2007](https://open.spotify.com/track/4LloVtxNZpeh7q7xdi1DQc) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Where the Light Is: John Mayer Live In Los Angeles](https://open.spotify.com/album/4Dgxy95K9BWkDUvQPTaYBb) | 4:23 |
@@ -61,6 +61,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd4hrw8K7Pxm.md) - [plain]
 | 51 | [When We Were Young](https://open.spotify.com/track/696wSwPa5AldCfs3kHpWSl) | [Kurt Hugo Schneider](https://open.spotify.com/artist/2BHswvFd8tMBizVWGcAMLm), [Madilyn Bailey](https://open.spotify.com/artist/0NxhAEPOSeCg6vypFr7yjU) | [When We Were Young](https://open.spotify.com/album/73srYNTUXbpxSTlDwzfV5Q) | 4:34 |
 | 52 | [One Republic Mash\-Up](https://open.spotify.com/track/0Qn7h2I9Fajtj7lgvkho8y) | [Anthem Lights](https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ) | [Covers Part III](https://open.spotify.com/album/0I5Ex3qsCsSPEZ1wlgVsE7) | 2:37 |
 | 53 | [Let It Go](https://open.spotify.com/track/2bYvSAL6llWo0Sdunh2syC) | [Gardiner Sisters](https://open.spotify.com/artist/3J28FLi8jjXtUGWf69cP7I), [Tanner Townsend](https://open.spotify.com/artist/1vgJ0JDHRTjDKpUpm3dQaE) | [Let It Go](https://open.spotify.com/album/5QnjKvKE0Ztxd7rnmcqI18) | 4:04 |
-| 54 | [True Colors](https://open.spotify.com/track/4AvvHmGzjW8Y7JZlq51NAQ) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Changing Of The Seasons](https://open.spotify.com/album/3lDLnElZehSq7Vbs9T2hSR) | 2:20 |
+| 54 | [True Colors](https://open.spotify.com/track/1m0YCWAmlNIdP3lkG289ak) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Songs 2003\-2013](https://open.spotify.com/album/2JPIhBZ4GCqYrcQDOnbFNk) | 2:22 |
 
-Snapshot ID: `MTYwMjg3MDYxNSwwMDAwMDAwMDU0MzI0Mjc5ZDMwY2UxNDg1MmRiNDRiNjI0OTJlMjAy`
+Snapshot ID: `MTYwMjg3MDYxNSwwMDAwMDAwMGVjZmQ3NzdmNTM4Y2FmNGQ1ZTNhMWE1ZDQ2MDE2Mzhl`

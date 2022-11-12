@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4oyOhG.md) - [plain]
 
 > This is CHiCO with HoneyWorks\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,059 likes - 45 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,074 likes - 45 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4oyOhG.md) - [plain]
 | 6 | [乙女どもよ。](https://open.spotify.com/track/2ZZx0Pss7zgl9XRIMax5IL) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [瞬く世界にiを揺らせ](https://open.spotify.com/album/2GBDADasYHm9Rho9U0fET9) | 4:12 |
 | 7 | [プライド革命](https://open.spotify.com/track/3CrLoLfSwNqZGbSDupVUdu) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [世界はiに満ちている](https://open.spotify.com/album/5SuByixIlQq7r1bValOe0G) | 3:55 |
 | 8 | [ハートの誓い](https://open.spotify.com/track/11DHLEGv0kjv4KmqhrXK5w) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [ハートの誓い](https://open.spotify.com/album/0puyuSS9cNoaeDUCOk4VzT) | 3:27 |
-| 9 | [醜い生き物](https://open.spotify.com/track/4kv8V2Buw8oBOB2oP0gas1) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [醜い生き物](https://open.spotify.com/album/5aJfPshOdUKk5wRVFQyVSD) | 3:40 |
-| 10 | [リベンジゲーム](https://open.spotify.com/track/2zx260L01kpMk01XFjnfwd) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [リベンジゲーム](https://open.spotify.com/album/1DuJRT4zz1X8YmywZJPFqX) | 3:17 |
+| 9 | [リベンジゲーム](https://open.spotify.com/track/2zx260L01kpMk01XFjnfwd) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [リベンジゲーム](https://open.spotify.com/album/1DuJRT4zz1X8YmywZJPFqX) | 3:17 |
+| 10 | [醜い生き物](https://open.spotify.com/track/4kv8V2Buw8oBOB2oP0gas1) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [醜い生き物](https://open.spotify.com/album/5aJfPshOdUKk5wRVFQyVSD) | 3:40 |
 | 11 | [アイのシナリオ](https://open.spotify.com/track/6eltM9Os3VEdgcG5lrsoSH) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [世界はiに満ちている](https://open.spotify.com/album/5SuByixIlQq7r1bValOe0G) | 4:19 |
 | 12 | [ヒカリ証明論](https://open.spotify.com/track/2NSUuwplYLm50NDAb5qJQS) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [瞬く世界にiを揺らせ](https://open.spotify.com/album/2GBDADasYHm9Rho9U0fET9) | 4:33 |
 | 13 | [ノスタルジックレインフォール](https://open.spotify.com/track/5mwLIUyGIg6QioPbyHgt2s) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [私を染めるiの歌](https://open.spotify.com/album/6XOpMOa1OV7QsCeLN8dBnT) | 3:58 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4oyOhG.md) - [plain]
 | 44 | [ロデオ](https://open.spotify.com/track/55KyPEBJs1Pz20r3U8DHyX) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd), [sana](https://open.spotify.com/artist/3Wg732iXXGxhxxjwmhCAkT) | [今日もサクラ舞う暁に](https://open.spotify.com/album/12JuBA89662EPQLXiNF6KV) | 3:46 |
 | 45 | [胸キュンライト](https://open.spotify.com/track/1n2F8qXgUNMLgyWEghiSkD) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [決戦スピリット](https://open.spotify.com/album/3TBibsoN7MWyatpPM6ATjt) | 4:55 |
 
-Snapshot ID: `Mjc4MDE1OTIsMDAwMDAwMDAxNWVlYTQ2MjE5NmFmNzAyM2VlN2RiYzc4ODRiNzY3Ng==`
+Snapshot ID: `Mjc4MDI5OTksMDAwMDAwMDA1YTdlODdmMmI2YTY0OGZkNDk3ZGQxYTFkMWNhOWM0NQ==`

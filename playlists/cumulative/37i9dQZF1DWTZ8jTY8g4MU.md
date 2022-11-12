@@ -4,7 +4,7 @@
 
 > أفضل أغاني الشيلات التي لا يمكن التوقف عن الاستماع اليها\. الغلاف: عبدالله ال فروان
 
-100 songs - 6 hr 27 min - [published](https://open.spotify.com/playlist/6tQmExXg8DxfrZtMJYW4IZ)
+101 songs - 6 hr 32 min - [published](https://open.spotify.com/playlist/6tQmExXg8DxfrZtMJYW4IZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,8 @@
 | [زله وحده](https://open.spotify.com/track/7wuYZNiyozTw03ITRSRc7j) | [فلاح المسردي](https://open.spotify.com/artist/21Thm4pTSbEQCsFEbausED) | [زله وحده](https://open.spotify.com/album/4xErMLSD9NsxUn73wDwNxL) | 5:52 | 2022-03-30 | 2022-11-02 |
 | [زينك دمار](https://open.spotify.com/track/0STEeSVMD2rRqkFtf7gGXC) | [Majed Alrslani](https://open.spotify.com/artist/4TLEIkw2ZiwL796C8zJtST) | [زينك دمار](https://open.spotify.com/album/7LWT6p48ZKIEUrYBl80H20) | 4:34 | 2022-03-30 | 2022-11-02 |
 | [زينك دمار](https://open.spotify.com/track/5G9l3hXgO5ajf2LW2FUmLK) | [ماجد الرسلاني](https://open.spotify.com/artist/1TrcFvtMbJqhog5XVABHlm) | [زينك دمار](https://open.spotify.com/album/7rp8YBgnlomjYRbdRW77Wg) | 4:34 | 2022-08-31 |  |
-| [سكه مجهوله](https://open.spotify.com/track/5X5ubFhkET9omL8FDcpSku) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [سكه مجهوله](https://open.spotify.com/album/2abcKDPudbZ4WvwyVkgrvR) | 4:20 | 2022-06-13 |  |
+| [سكه مجهوله](https://open.spotify.com/track/5X5ubFhkET9omL8FDcpSku) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [سكه مجهوله](https://open.spotify.com/album/2abcKDPudbZ4WvwyVkgrvR) | 4:20 | 2022-06-13 | 2022-11-12 |
+| [سكه مجهوله](https://open.spotify.com/track/7gjSyunjwABlGVRnqyzmXi) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [سكه مجهوله](https://open.spotify.com/album/3YwV5Rkiq1ZJrcdXP4bV5M) | 4:20 | 2022-10-06 |  |
 | [شيلة باشة الغيد](https://open.spotify.com/track/17sYouUdFm019wFMYEV8Ut) | [احمد الرجعان](https://open.spotify.com/artist/0xGGbhWB0r6qFy00mvn2VS) | [شيلة باشة الغيد](https://open.spotify.com/album/3YFreVZnFpor99z7IDx7ry) | 3:16 | 2022-03-30 | 2022-11-02 |
 | [شيلة باشة الغيد](https://open.spotify.com/track/1cpFmgqr8gAX0XDhju3fem) | [احمد الرجعان](https://open.spotify.com/artist/0xGGbhWB0r6qFy00mvn2VS) | [شيلة باشة الغيد](https://open.spotify.com/album/65SWMjnQNZACKRFZIrbnpd) | 3:16 | 2022-08-31 |  |
 | [شيلة طرب حماسية](https://open.spotify.com/track/67pgW0LyrChcjli8XyjT9U) | [غنوة](https://open.spotify.com/artist/1y6JGih3jxrhp8z6EEiefh) | [شيلة طرب حماسية](https://open.spotify.com/album/4fxLhDr7vudKUMgMsjUmDk) | 4:01 | 2022-03-30 | 2022-05-24 |

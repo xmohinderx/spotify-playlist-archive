@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3z6D2ln0Hqx.md) - [plain]
 
 > For Motown, diversity and equality wasn’t just a goal, it was the key to success\. These women brought Motown into the hearts of many.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,829 likes - 22 songs - 1 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,845 likes - 22 songs - 1 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3z6D2ln0Hqx.md) - [plain]
 | 7 | [Please Mr\. Postman \- Single Version / Mono](https://open.spotify.com/track/6jX5mso4x00c1EiNMrTU9U) | [The Marvelettes](https://open.spotify.com/artist/0MponVSpW81oLvJZ53vYZH) | [Please Mr\. Postman](https://open.spotify.com/album/65n7GqedAHDVRWNh3msH1V) | 2:28 |
 | 8 | [Midnight Train to Georgia](https://open.spotify.com/track/7MF7QAodbGzNYav5ZfIhAY) | [Gladys Knight & The Pips](https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1) | [Imagination \(Expanded Edition\)](https://open.spotify.com/album/6pMzuVjsypAwbeKiZm56wP) | 4:39 |
 | 9 | [Don't Leave Me This Way](https://open.spotify.com/track/51qi5dgc9CsotM87GmRkAX) | [Thelma Houston](https://open.spotify.com/artist/3sgUnR8TF35euWEV07RPyO) | [Any Way You Like It](https://open.spotify.com/album/0TZTsaJOuNHsXwC2Ox2K19) | 5:42 |
-| 10 | [Square Biz](https://open.spotify.com/track/52bz3fOCyr6GgkJQsLK9PM) | [Teena Marie](https://open.spotify.com/artist/61UT1Zj9dFgPAjZfwnsqsb) | [Best Of/20th Century](https://open.spotify.com/album/0kCD8uT94URPZcr2vZOhW7) | 6:23 |
+| 10 | [Square Biz](https://open.spotify.com/track/3k168scjk05AuB67bGXkJg) | [Teena Marie](https://open.spotify.com/artist/61UT1Zj9dFgPAjZfwnsqsb) | [Motown Queens](https://open.spotify.com/album/0g4hcfMoBKXPmMvNCHtlTC) | 6:27 |
 | 11 | [Every Little Bit Hurts](https://open.spotify.com/track/68ngnSqAtSBOUc0s2LZkcf) | [Brenda Holloway](https://open.spotify.com/artist/3nXMZsj1H0F7h9SDUeYNjg) | [The Very Best Of Brenda Holloway](https://open.spotify.com/album/438dXcLAXwxIoPoYqIeD9L) | 2:57 |
 | 12 | [Take Me In Your Arms \(Rock Me A Little While\) \- Single Version](https://open.spotify.com/track/6Q5UkaoE4QpsSm4kykFhKc) | [Kim Weston](https://open.spotify.com/artist/71pUA2TXf3JHUPUgsjLtuL) | [Greatest Hits And Rare Classics](https://open.spotify.com/album/0mdl0s8BRDstRcSn8Zf7JD) | 2:55 |
 | 13 | [Come On And See Me](https://open.spotify.com/track/3u7n1FGFhlUEZrjCmwwepe) | [Tammi Terrell](https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8) | [Come On And See Me: The Complete Solo Collection](https://open.spotify.com/album/7ug9NiuM1MthX2D7MStAkl) | 2:20 |
@@ -31,4 +31,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3z6D2ln0Hqx.md) - [plain]
 | 21 | [Steelo](https://open.spotify.com/track/5OQO6NEs89flntUWPtXUiG) | [702](https://open.spotify.com/artist/2S8UlyXW4JjjHcbeg8ddIo) | [No Doubt](https://open.spotify.com/album/5Zm0jwZc5J4jWk9rLmABKO) | 4:17 |
 | 22 | [I Love Your Smile](https://open.spotify.com/track/2UX4NQt9AEGmwm3WlyOkhV) | [Shanice](https://open.spotify.com/artist/0Ttph0pOZiPNTD3y2wUUb6) | [Hitsville USA, The Motown Collection 1972\-1992](https://open.spotify.com/album/6nrCHETnE3ZWgwL0uYYWGP) | 4:23 |
 
-Snapshot ID: `MTU2MTc1NDUyOSwwMDAwMDAwMGFmNTNkYmMwY2YxODM3YjNiMWExM2U1NmU1NjhiYzkz`
+Snapshot ID: `MTU2MTc1NDUyOSwwMDAwMDAwMDY0OTk1ZmQwYzkyZTI0YTk2NWE0ZTc2NDBmNWE0ZTE0`

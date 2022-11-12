@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 
 > A collection of music from voice actors/ actresses in Japan./ 様々な感情を自在に表現し、登場人物に命を吹き込む声優たち。声のプロフェッショナルである彼らが紡ぐ歌の世界。Cover: 宮野真守
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,426 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,434 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 | 16 | [Kodokunagunshyuu](https://open.spotify.com/track/6g9Drm0itXNceqTlMBMYYz) | [Takehito Koyasu](https://open.spotify.com/artist/6LrHNyRFO2meXtX0WhXkBM) | [Kodokunagunshyuu](https://open.spotify.com/album/0Llu5DAYhTsWr43Hvhwaup) | 3:40 |
 | 17 | [在りし日](https://open.spotify.com/track/5NnSYrQ6Co0Zs8EzjKcpib) | [Earphones](https://open.spotify.com/artist/6nH1MaNtYwXEuwdOZ1R75p) | [在りし日](https://open.spotify.com/album/0Asi1rjLIiuCqhw1SuMNpK) | 5:09 |
 | 18 | [Tear of Will](https://open.spotify.com/track/5V8qhD9u4XLGxaXWZBfZXR) | [Saori Hayami](https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN) | [Tear of Will](https://open.spotify.com/album/05jXEfMQhjc1Q9U9H4jndu) | 4:29 |
-| 19 | [Esquisse](https://open.spotify.com/track/2igZxJ4EC0jze98OazqKg3) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Luminous](https://open.spotify.com/album/3SfXj9tQ7sEH4uQNltc9Aa) | 5:08 |
+| 19 | [Esquisse](https://open.spotify.com/track/3ntiFciUGTZcTzheQz56h9) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Esquisse](https://open.spotify.com/album/4pVpioTvYdQ01Dt9u4INXw) | 5:08 |
 | 20 | [Mayonakano Love](https://open.spotify.com/track/4PdTdZSNbi7QOvdwTBbHrr) | [Kento Ito](https://open.spotify.com/artist/07VroOJ1SGvFrdu69YwEdd) | [Mayonakano Love](https://open.spotify.com/album/5utUgLJkKaQ3tBDW6y6P65) | 3:23 |
 | 21 | [Chaser Game](https://open.spotify.com/track/0EL4LKhJyuXNkZsBl7Qe53) | [Maaya Uchida](https://open.spotify.com/artist/4hJl41jTq14yNuc1f3bLe6) | [Chaser Game](https://open.spotify.com/album/3ZLeRErx0q2jghKxXJHhUO) | 3:08 |
 | 22 | [Someday is Today](https://open.spotify.com/track/6EWkOjcPts0EqPXWKuEteW) | [髙橋 ミナミ](https://open.spotify.com/artist/4MkBd1szO83sKICDexbrRx) | [Someday is Today](https://open.spotify.com/album/7vQS8O03Zs6FhViFKG9rq1) | 3:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 | 49 | [Dgaf \- S\-quad](https://open.spotify.com/track/1Pf3nj0VJyU5Inx71BicLw) | [PRELUDERS](https://open.spotify.com/artist/08GdvK322sPgeFx1xMDQNU) | [Dgaf \(S\-quad\)](https://open.spotify.com/album/25GeWfdU4YzEVh9IiedLSt) | 3:07 |
 | 50 | [CROSS A LINE](https://open.spotify.com/track/4XavZrAn9OxuRDz0mbOidg) | [HYPNOSISMIC \-D.R.B\- \(Division All Stars\)](https://open.spotify.com/artist/6QR0aIEAemEigDCKjOVxe0) | [CROSS A LINE](https://open.spotify.com/album/4UTXT4DuQX43KjXzxYCkbV) | 5:20 |
 
-Snapshot ID: `MTY2NzM2MDc5NiwwMDAwMDAwMDI0OTM2M2E0NDgwM2Q0ODY5MWJjYmJiYmEyZGMwMjVh`
+Snapshot ID: `MTY2NzM2MDc5NiwwMDAwMDAwMDA0ODE5Mjg1YTA1YTRhOTQ1YzkyMjRjN2M0ZmQ4OTg0`

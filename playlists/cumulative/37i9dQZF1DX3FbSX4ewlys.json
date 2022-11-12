@@ -455,7 +455,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 216933,
       "name": "Cielo",
       "url": "https://open.spotify.com/track/2bT63N8XN3L82uloE8i4Di"
@@ -963,7 +963,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 261200,
       "name": "La flaca",
       "url": "https://open.spotify.com/track/0ll9JAIrM3NVBOMl45sxSX"
@@ -1179,7 +1179,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 234493,
       "name": "Man! I Feel Like A Woman!",
       "url": "https://open.spotify.com/track/6sxptembJVty4sNtcPMAVz"
@@ -1323,7 +1323,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 245106,
       "name": "No Podr\u00e1s",
       "url": "https://open.spotify.com/track/4PhXIIZ9JVmVSRP3UM4soJ"
@@ -1597,6 +1597,24 @@
       "duration_ms": 235133,
       "name": "Shabadabada",
       "url": "https://open.spotify.com/track/66EqOhWfTcdVphw00lcxZO"
+    },
+    {
+      "album": {
+        "name": "Lo Mejor De OV7",
+        "url": "https://open.spotify.com/album/3YEri67vvZWR0WJxbda8D0"
+      },
+      "artists": [
+        {
+          "name": "OV7",
+          "url": "https://open.spotify.com/artist/5zaT4Qu9otu6z4oyWjRqM2"
+        }
+      ],
+      "date_added": "2021-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235426,
+      "name": "Shabadabada",
+      "url": "https://open.spotify.com/track/0v5lV9xxdEumQ2jKf5CBVp"
     },
     {
       "album": {
@@ -1935,7 +1953,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 217539,
       "name": "We're Going To Ibiza!",
       "url": "https://open.spotify.com/track/6trzHhvr6xqYJkNnbWwXz2"

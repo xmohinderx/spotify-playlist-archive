@@ -4,7 +4,7 @@
 
 > Cherish the day with these low\-key favorites.
 
-206 songs - 12 hr 12 min - [published](https://open.spotify.com/playlist/43WYfDumw3PlzRoz5qbt1s)
+207 songs - 12 hr 16 min - [published](https://open.spotify.com/playlist/43WYfDumw3PlzRoz5qbt1s)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [About a Bruise \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0xhO4abO62XL2mRJNTFtbs) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Spotify Singles](https://open.spotify.com/album/0J74kr54nlrBjodALQYuc7) | 3:12 | 2022-03-23 | 2022-04-21 |
 | [Acoustic](https://open.spotify.com/track/5kh7BbzXPgooAU9MB9L7yw) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [Acoustic](https://open.spotify.com/album/7fBz9Ec9AzdMJpeZ4PbSn6) | 2:52 | 2022-03-23 | 2022-07-29 |
 | [Acoustic](https://open.spotify.com/track/1kJygfS4eoVziBBI93MSYp) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [A Few More Hours at YYZ](https://open.spotify.com/album/4Ymsz92GH8H1fS8TLN7HJ0) | 2:52 | 2022-03-23 | 2022-11-11 |
-| [Adeline](https://open.spotify.com/track/0zGT1LYrHksqJkupsazmKb) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [Adeline](https://open.spotify.com/album/0FpjVDZbJCK19vglA6T8B1) | 3:08 | 2022-03-23 | 2022-07-29 |
+| [Adeline](https://open.spotify.com/track/0zGT1LYrHksqJkupsazmKb) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [Adeline](https://open.spotify.com/album/0FpjVDZbJCK19vglA6T8B1) | 3:08 | 2022-03-23 |  |
 | [All Alone](https://open.spotify.com/track/4fTjzZ3IkS5tYw1VlgJs4Q) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [All Alone](https://open.spotify.com/album/2gtSZRxZMNsxXhBphBdhPO) | 2:52 | 2022-03-23 | 2022-07-29 |
 | [All I Need](https://open.spotify.com/track/2mPOJSHkjAbUxnOcbLI6oK) | [Justin Nozuka](https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t) | [High Tide](https://open.spotify.com/album/4KizRi22Ekbl4vebGS9mhe) | 3:44 | 2022-03-23 | 2022-07-27 |
 | [All The Time](https://open.spotify.com/track/521A5RngWc34nHMDR7oFGq) | [Emil Landman](https://open.spotify.com/artist/0TaelSp6OIZw6mzikDmDrB) | [Vinter](https://open.spotify.com/album/7h8RxiFul6fOlooCGfLFwv) | 2:56 | 2022-03-23 | 2022-07-29 |
@@ -84,6 +84,7 @@
 | [How Many Times](https://open.spotify.com/track/4KI5cdn58QtiqXovqU3B53) | [Rod Ladgrove](https://open.spotify.com/artist/1ZlDo4aHwBuuS3TnPlyt3H) | [How Many Times](https://open.spotify.com/album/7fV0N8X3lHnKNxqphjPVjn) | 2:39 | 2022-03-23 | 2022-07-09 |
 | [I Can Change](https://open.spotify.com/track/0jCe45cYIc6NXedmbIKy0Q) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Free Yourself Up](https://open.spotify.com/album/1eWP4CbLwVsVuC44utXBOD) | 3:11 | 2022-03-23 |  |
 | [I Can Change](https://open.spotify.com/track/2uDnC30adouplySDz00DW2) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [I Can Change](https://open.spotify.com/album/1qmJxfBw5e2p2KgYjibOjB) | 3:11 | 2022-03-23 | 2022-07-29 |
+| [I Can't Slow Her Down \- Edit](https://open.spotify.com/track/0WPcX3Q2MXyoGM56qiLjYX) | [L.A\. Salami](https://open.spotify.com/artist/23HG5wQ67P2pMksEMTbkur) | [I Can't Slow Her Down \(Edit\)](https://open.spotify.com/album/3PZDrjbgR0eVSkkA35HUxZ) | 3:33 | 2022-03-23 |  |
 | [I Can't Slow Her Down \- Edit](https://open.spotify.com/track/1NmHZ5Vbogui7oeQYH1ExT) | [L.A\. Salami](https://open.spotify.com/artist/23HG5wQ67P2pMksEMTbkur) | [I Can't Slow Her Down \(Edit\)](https://open.spotify.com/album/6Ad5Z2MZ9Twe0z4zy2O5oY) | 3:33 | 2022-03-23 | 2022-07-29 |
 | [I Love the Rain the Most](https://open.spotify.com/track/0j9KNQ9pDEQejEm3wdgiAr) | [Joe Purdy](https://open.spotify.com/artist/3MCxkaTJmYKH0FZbe3rYxa) | [Julie Blue](https://open.spotify.com/album/7jCI1V11SNSc6wjEEG2NlG) | 4:38 | 2022-03-23 | 2022-07-27 |
 | [I Love The Rain The Most](https://open.spotify.com/track/63ogaJyLqKCR9BUBzmtnIG) | [Joe Purdy](https://open.spotify.com/artist/3MCxkaTJmYKH0FZbe3rYxa) | [Julie Blue](https://open.spotify.com/album/6uxp18VG6vFW2TmjE0nrPN) | 4:38 | 2022-03-23 |  |
@@ -118,7 +119,7 @@
 | [Migration of Souls](https://open.spotify.com/track/2GmGy1eJTvPACm3ekX0hxD) | [M\. Ward](https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI) | [Migration Stories](https://open.spotify.com/album/6wkWIyipqrQI4xLLxv6IGy) | 3:28 | 2022-03-23 | 2022-04-21 |
 | [Miles Away](https://open.spotify.com/track/1iy9FLjmcGQdjAXWi1y4D1) | [Josh Ritter](https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo) | [Miles Away](https://open.spotify.com/album/2qki4e1IDCRpNJvyGE4xjD) | 3:52 | 2022-03-23 | 2022-07-29 |
 | [Mind on Fire](https://open.spotify.com/track/45RX9we2ExTAPtPmHRJT9C) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Mind on Fire](https://open.spotify.com/album/1Ms5teyYCQM0bHa2aSKfod) | 3:14 | 2022-03-23 | 2022-04-19 |
-| [Mind on Fire](https://open.spotify.com/track/4LEdX9NFK0tVB5anrAIi1q) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Pendulum](https://open.spotify.com/album/64uKH4UnWHG6Ea960CSChE) | 3:14 | 2022-03-23 |  |
+| [Mind on Fire](https://open.spotify.com/track/4LEdX9NFK0tVB5anrAIi1q) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Pendulum](https://open.spotify.com/album/64uKH4UnWHG6Ea960CSChE) | 3:14 | 2022-03-23 | 2022-11-12 |
 | [Moon in the Morning](https://open.spotify.com/track/1Lfr9YBRpeSwCS14kBoTAg) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Melchor Lullaby Hotline Vol\. 1](https://open.spotify.com/album/1YRyAjsB08BYLAGB4oLPV2) | 3:14 | 2022-03-23 |  |
 | [My Mind Is For Sale \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/0wlezBPeBjzf9fWtq4tQAw) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [Spotify Singles](https://open.spotify.com/album/3VfqKMnjoIsXjBdbKRpGWu) | 4:20 | 2022-03-23 | 2022-04-21 |
 | [My My My \- Acoustic](https://open.spotify.com/track/3pJ1oeWyPOhX1RPnN2Ugus) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [My My My \(Acoustic\)](https://open.spotify.com/album/15WcyRhRhcWqSLLDQ3JcSB) | 2:45 | 2022-03-23 | 2022-05-23 |
@@ -168,7 +169,7 @@
 | [Runaway Horses \(feat\. Phoebe Bridgers\) \- Abridged](https://open.spotify.com/track/3PeCWDczrGqdD1E3mbok2X) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Pressure Machine \(Abridged\)](https://open.spotify.com/album/7j8a2kSxAtenkXPim6mwUB) | 3:24 | 2022-03-23 |  |
 | [Seeing Other People](https://open.spotify.com/track/6P82NfCXl3lLcUNSYEmq1u) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [Without People](https://open.spotify.com/album/51tp0W2tRU0IfrNpemM9ra) | 3:06 | 2022-03-23 |  |
 | [September Song \- Guitar Acoustic](https://open.spotify.com/track/4LTOzL6JsnQBifmpsbo9a5) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [September Song \(Guitar Acoustic\)](https://open.spotify.com/album/58wAIiRLQ5q2yMN76ys9F2) | 3:32 | 2022-03-23 | 2022-07-28 |
-| [September Song \- Guitar Acoustic](https://open.spotify.com/track/7bMkcxifc4EjIQKw49EC7h) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Raised Under Grey Skies \(Deluxe\)](https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo) | 3:32 | 2022-03-23 |  |
+| [September Song \- Guitar Acoustic](https://open.spotify.com/track/7bMkcxifc4EjIQKw49EC7h) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Raised Under Grey Skies \(Deluxe\)](https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo) | 3:32 | 2022-03-23 | 2022-11-12 |
 | [She Burns](https://open.spotify.com/track/3rUw4cRDeYVZhjkUXBnFUQ) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [The Wild Swan](https://open.spotify.com/album/0njBaqTHPEL9qHsrT6NBVz) | 3:49 | 2022-03-23 |  |
 | [Showboat](https://open.spotify.com/track/74H6qhKMl1YmIg85BXp0Dl) | [Josh Ritter](https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo) | [Showboat](https://open.spotify.com/album/1dxpgoseoWUzRpwS0Fgql7) | 4:22 | 2022-03-23 | 2022-04-21 |
 | [Silence \- Acoustic](https://open.spotify.com/track/3AweMMF3G598hMsjto9Vtg) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC) | [Silence \(Acoustic\)](https://open.spotify.com/album/3GCiwl66wCiCt68MVCBp65) | 3:41 | 2022-03-23 |  |

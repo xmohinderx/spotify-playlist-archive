@@ -442,6 +442,24 @@
     },
     {
       "album": {
+        "name": "Funky Stuff: The Best Of Funk Essentials",
+        "url": "https://open.spotify.com/album/0dtx0xhKKD5xFDoI6xSWZK"
+      },
+      "artists": [
+        {
+          "name": "Parliament",
+          "url": "https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH"
+        }
+      ],
+      "date_added": "2020-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346666,
+      "name": "Give Up The Funk (Tear The Roof Off The Sucker)",
+      "url": "https://open.spotify.com/track/3HTsLJIcpPi11wPUuDOJVs"
+    },
+    {
+      "album": {
         "name": "Mothership Connection",
         "url": "https://open.spotify.com/album/4q1HNSka8CzuLvC8ydcsD2"
       },
@@ -453,7 +471,7 @@
       ],
       "date_added": "2020-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 348066,
       "name": "Give Up The Funk (Tear The Roof Off The Sucker)",
       "url": "https://open.spotify.com/track/4XRkQloZFcRrCONN7ZQ49Y"
@@ -561,10 +579,28 @@
       ],
       "date_added": "2020-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 243760,
       "name": "How Long Do I Have to Wait for You?",
       "url": "https://open.spotify.com/track/113bLFbp3F9MVN0w2KJ1ma"
+    },
+    {
+      "album": {
+        "name": "Daptone Records Singles Collection: Volume 2",
+        "url": "https://open.spotify.com/album/5vu0XeLFtypEMTMc22gVpG"
+      },
+      "artists": [
+        {
+          "name": "Sharon Jones & The Dap-Kings",
+          "url": "https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7"
+        }
+      ],
+      "date_added": "2020-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243760,
+      "name": "How Long Do I Have to Wait for You?",
+      "url": "https://open.spotify.com/track/3F2NnkVwQ7A7qCu2BUGp8q"
     },
     {
       "album": {
@@ -1279,10 +1315,28 @@
       ],
       "date_added": "2020-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 337680,
       "name": "Too Hot Ta Trot",
       "url": "https://open.spotify.com/track/7sP4EhJqFnud6mrG6VbjQx"
+    },
+    {
+      "album": {
+        "name": "Hunk-a-Funk",
+        "url": "https://open.spotify.com/album/35KR5e5EhWbVWgUq0cJ86q"
+      },
+      "artists": [
+        {
+          "name": "Commodores",
+          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
+        }
+      ],
+      "date_added": "2020-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337773,
+      "name": "Too Hot Ta Trot",
+      "url": "https://open.spotify.com/track/2dm0eNGhVJ7kLOGvczqTu3"
     },
     {
       "album": {

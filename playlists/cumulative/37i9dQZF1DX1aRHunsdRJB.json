@@ -227,7 +227,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 171964,
       "name": "Behave Pun It",
       "url": "https://open.spotify.com/track/56AjWZnckGDACRkOOQSYIz"
@@ -457,7 +457,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 230711,
       "name": "Captain",
       "url": "https://open.spotify.com/track/1mIFjtNYF0BGxyHsLFVAfR"
@@ -915,6 +915,28 @@
     {
       "album": {
         "name": "Heaven Passport",
+        "url": "https://open.spotify.com/album/2isP74vOyY08TNii3xoeaZ"
+      },
+      "artists": [
+        {
+          "name": "Skeng",
+          "url": "https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7"
+        },
+        {
+          "name": "Intence",
+          "url": "https://open.spotify.com/artist/3gwIlS9NOwBgwV3RfQIYiR"
+        }
+      ],
+      "date_added": "2022-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187375,
+      "name": "Heaven Passport",
+      "url": "https://open.spotify.com/track/3MEO3XzuF79wbokXOnWEJg"
+    },
+    {
+      "album": {
+        "name": "Heaven Passport",
         "url": "https://open.spotify.com/album/1X7HsL7j4VaFP1kpRIZadN"
       },
       "artists": [
@@ -1147,7 +1169,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": null,
       "duration_ms": 188000,
       "name": "Lookin' for China",
       "url": "https://open.spotify.com/track/1wgE3JnAq2PByF9dGeQPSw"
@@ -1273,6 +1295,24 @@
       "duration_ms": 193226,
       "name": "Mobster",
       "url": "https://open.spotify.com/track/00mDz9iEvKOdLHNmvucEhs"
+    },
+    {
+      "album": {
+        "name": "Mobster",
+        "url": "https://open.spotify.com/album/7qAR0K7zQHG9OsiNkZxriW"
+      },
+      "artists": [
+        {
+          "name": "Bayka",
+          "url": "https://open.spotify.com/artist/7pRxYXACpWZf1i7Chd8Sk2"
+        }
+      ],
+      "date_added": "2022-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193226,
+      "name": "Mobster",
+      "url": "https://open.spotify.com/track/6rLVZ8HLA9EfQzRZZAyKpB"
     },
     {
       "album": {
@@ -1770,6 +1810,24 @@
     },
     {
       "album": {
+        "name": "The 2:00AM Project",
+        "url": "https://open.spotify.com/album/01S0wyD4Pp8NjLPtbRWTEr"
+      },
+      "artists": [
+        {
+          "name": "Shal Marshall",
+          "url": "https://open.spotify.com/artist/7mds6P3MvNyCg7l2QFpx6d"
+        }
+      ],
+      "date_added": "2022-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215334,
+      "name": "Splinters",
+      "url": "https://open.spotify.com/track/7MCzy3nV8UfPbuRC5vzQpU"
+    },
+    {
+      "album": {
         "name": "iShal",
         "url": "https://open.spotify.com/album/21VpDRRs5PrfuCT45QzAaS"
       },
@@ -2123,7 +2181,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 210806,
       "name": "Up Top Boss",
       "url": "https://open.spotify.com/track/3plfljoZKGixRbQ2u6o2et"
@@ -2265,7 +2323,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 202332,
       "name": "Wileside Government",
       "url": "https://open.spotify.com/track/7JrgCxdl0C7PlbfOG98x0N"

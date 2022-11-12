@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 
 > La casa del trap chileno\. Foto: Marcianeke
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,848 likes - 89 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,884 likes - 89 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 | 48 | [Misiones \(Remix\) \(feat\. Duki\)](https://open.spotify.com/track/56EvTtsyFL3JRjgnrafZQ0) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Misiones \(Remix\) \(feat\. Duki\)](https://open.spotify.com/album/5Ovh7KZm4TLsJGF8JZe7uS) | 3:42 |
 | 49 | [Benz](https://open.spotify.com/track/33YnBNWLESnvq3XQbTGwrF) | [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5), [Marlon Breeze](https://open.spotify.com/artist/6WI2aStGYkbt0vslpKmDkV) | [Benz](https://open.spotify.com/album/4YyytAJdO0uurg7QLNWPb0) | 2:49 |
 | 50 | [Generaciones \(feat\. OldPurp & Left Behind\)](https://open.spotify.com/track/1T4DYB11yGiuco0hAD6k9h) | [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [ALEX FATT](https://open.spotify.com/artist/662AsYFCIZoKBTgrMvdSGy), [OldPurp](https://open.spotify.com/artist/1h0hHYHR3rv8Ol5yudY5Vi), [Left Behind](https://open.spotify.com/artist/3oPnhTiVCK16n4lh2BDFVd) | [Shishi Plugg](https://open.spotify.com/album/0EDzLjsolQn2ON3Zn9IJ20) | 3:34 |
-| 51 | [Truquitos Pa Verme](https://open.spotify.com/track/2HahVUyXYzllUgxzpfyILF) | [area3](https://open.spotify.com/artist/2A48K9DM2YIGuaG7zV726Z), [Alex D](https://open.spotify.com/artist/1b83QsnZFe3kwjmaExNMAM), [Likestyle](https://open.spotify.com/artist/0ALRVBP9v3BpRxC4vgaeRN) | [Truquitos Pa Verme](https://open.spotify.com/album/5betxhFozxZ6NVvS4kt1Pu) | 3:39 |
+| 51 | [Truquitos Pa Verme](https://open.spotify.com/track/5YTJpyKziQF4t0lvbPqGLm) | [area3](https://open.spotify.com/artist/2A48K9DM2YIGuaG7zV726Z), [Alex D](https://open.spotify.com/artist/1b83QsnZFe3kwjmaExNMAM), [Likestyle](https://open.spotify.com/artist/0ALRVBP9v3BpRxC4vgaeRN) | [Electro Latino & Reggaeton Hits 2020](https://open.spotify.com/album/7ikmdXhZCh5HnXblv7Pogw) | 3:39 |
 | 52 | [Vámonos](https://open.spotify.com/track/1XePyPToFkWPaqa4kksAbu) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Nfx](https://open.spotify.com/artist/1TBQTmzjUEJL0EzbsTroN5), [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5), [H Empire](https://open.spotify.com/artist/5NrnVIh7EqdzSFQpWmxZUH), [Delay Lama](https://open.spotify.com/artist/4jGrj8pcC0gKQTRB968V8P) | [Vámonos](https://open.spotify.com/album/5CPoCagiLaJlU3ILJ65FdY) | 3:43 |
 | 53 | [Asueto](https://open.spotify.com/track/1KGiwpyYj2ImDyYezmjLHm) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [S.U.N.O](https://open.spotify.com/album/6V18lHqeCbGGFxtpkOJVpk) | 2:57 |
 | 54 | [Tate Pendiente](https://open.spotify.com/track/4205hBquJ1hJUjwHXxgyrW) | [Papi Trujillo](https://open.spotify.com/artist/7dG3aAHAFVHMyQo9meGLwb), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Pochi](https://open.spotify.com/artist/7wbgA4GKIqnYmnUUJbRdrb), [GoldChains](https://open.spotify.com/artist/2kLiB5H38ap10iGLQRV8SG) | [Tate Pendiente](https://open.spotify.com/album/7BOd9ehLDu0EeAOudjwlKO) | 3:34 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 | 88 | [Flip Flops](https://open.spotify.com/track/7sJO9UXpa6pfyoS1y6cEVY) | [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf), [Anto Bosman](https://open.spotify.com/artist/2K9VXOc9XDfKie7ASSCMIa) | [Flip Flops](https://open.spotify.com/album/04HDthHJfo9QK7F6Tnfvf0) | 2:35 |
 | 89 | [Singapur \(feat\. Yung Beef\)](https://open.spotify.com/track/1Q7NJD40pBK47Ii1ZdBTyi) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch) | [S.U.N.O](https://open.spotify.com/album/6V18lHqeCbGGFxtpkOJVpk) | 2:49 |
 
-Snapshot ID: `MTY2MjQwMTUxOSwwMDAwMDAwMDM0MmExYjNiYmIzM2NmZmJiNDExN2NmMjViMWQ0NjJl`
+Snapshot ID: `MTY2MjQwMTUxOSwwMDAwMDAwMGRiZGI1MmRiMjQ0MDBkMjFlOWQyZDJlNjU4OWViNGI1`

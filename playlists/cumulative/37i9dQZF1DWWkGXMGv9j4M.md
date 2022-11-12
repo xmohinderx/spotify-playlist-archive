@@ -4,7 +4,7 @@
 
 > Weird year overall, but great for indie\. Editors' picks of the best tracks of the year\. Cover: Phoebe Bridgers
 
-155 songs - 9 hr 0 min - [published](https://open.spotify.com/playlist/1Pjd800VkqQ5UHpr6EEuIh)
+157 songs - 9 hr 6 min - [published](https://open.spotify.com/playlist/1Pjd800VkqQ5UHpr6EEuIh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,8 @@
 | [Jason](https://open.spotify.com/track/4pCo0hx75daUKKkfi1XXOO) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Set My Heart On Fire Immediately](https://open.spotify.com/album/6daEdTBi1hyFQgmsnR7oRr) | 3:05 | 2020-12-01 | 2022-07-29 |
 | [Kerosene!](https://open.spotify.com/track/1Kjw0LwdniCWran4PxJqPQ) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Heaven To A Tortured Mind](https://open.spotify.com/album/5wnCTZtzIZxasRSHzI1JeW) | 5:05 | 2020-12-01 |  |
 | [Lancaster Nights](https://open.spotify.com/track/48jV8AW50589btXi0Hs5f4) | [Charlie Burg](https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8) | [Lancaster Nights](https://open.spotify.com/album/6VjvYY8DPNwlybF40UyrCl) | 3:10 | 2020-12-01 |  |
-| [Lifetime](https://open.spotify.com/track/023GoM1byudLGkMZDLweRJ) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Lifetime](https://open.spotify.com/album/3hD7HAJtGLF5BYDriRwbkZ) | 3:17 | 2020-12-01 |  |
+| [Lifetime](https://open.spotify.com/track/023GoM1byudLGkMZDLweRJ) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Lifetime](https://open.spotify.com/album/3hD7HAJtGLF5BYDriRwbkZ) | 3:17 | 2020-12-01 | 2022-11-12 |
+| [Lifetime](https://open.spotify.com/track/2sA69gKpUk8dcF5SuqApyK) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Lifetime Remixes](https://open.spotify.com/album/4cfOKU0ncsVL4PYaZ1kkiy) | 3:17 | 2020-12-01 |  |
 | [Lifetime](https://open.spotify.com/track/6UcQPAH459nMfAXAvV9Udc) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Lifetime](https://open.spotify.com/album/4aymv3MZSQ5GEb1jS6NVSa) | 3:17 | 2020-12-01 | 2022-07-29 |
 | [Loner](https://open.spotify.com/track/40Pa7wCFSPRD5sOeExd5uo) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Loner](https://open.spotify.com/album/4SL4EVh9koAvjdDWx6eXiq) | 3:12 | 2020-12-01 |  |
 | [Long Road Home](https://open.spotify.com/track/31Ocb5xOyTkjIyv7FdBF05) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [Magic Oneohtrix Point Never](https://open.spotify.com/album/0oGzSazidykcL5XNTEuS9z) | 3:32 | 2020-12-01 |  |
@@ -137,7 +138,8 @@
 | [SUNRISE](https://open.spotify.com/track/0C3sscH57PNeQ8dmY6xTIR) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [SUNRISE](https://open.spotify.com/album/6m24WJWs47zUE3d3VhOdK3) | 2:56 | 2020-12-01 |  |
 | [Take Care of You \(feat\. Syd\)](https://open.spotify.com/track/2ENxOXbxhfJ3lfItO0MFDv) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Take Care of You / Summertime](https://open.spotify.com/album/1TOxhqUtnHSJHnOqRlVxQa) | 3:34 | 2020-12-01 |  |
 | [Take Me Where Your Heart Is](https://open.spotify.com/track/62kHSw6wBh4c6UemJCb5p6) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Take Me Where Your Heart Is](https://open.spotify.com/album/6XkgiL7F2lC1pnZgioUyYd) | 3:12 | 2020-12-01 | 2022-07-29 |
-| [Take Me Where Your Heart Is](https://open.spotify.com/track/1RJl5cZ8kFpoVFOS2x6scI) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [The Shave Experiment \(Director's Cut\)](https://open.spotify.com/album/6Q3iHNU0fOwOxoCvyteue0) | 3:12 | 2020-12-01 |  |
+| [Take Me Where Your Heart Is](https://open.spotify.com/track/1RJl5cZ8kFpoVFOS2x6scI) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [The Shave Experiment \(Director's Cut\)](https://open.spotify.com/album/6Q3iHNU0fOwOxoCvyteue0) | 3:12 | 2020-12-01 | 2022-11-12 |
+| [Take Me Where Your Heart Is](https://open.spotify.com/track/4EcoXZhvbU3qS7ORWUEcVI) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [The Shave Experiment](https://open.spotify.com/album/0oHFSP4uqDes9sOZQu43Jz) | 3:12 | 2020-12-01 |  |
 | [Tangerine](https://open.spotify.com/track/5VGEgFZfWBoEOGb3Vlo3rU) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV) | 3:20 | 2020-12-01 |  |
 | [Teenage Headache Dreams \(with Ellie Rowsell\)](https://open.spotify.com/track/5X8FVIy9iaXoDEiIlCjcmp) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Ellie Rowsell](https://open.spotify.com/artist/60t20hnY4HFbjM0sbJ07vc), [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Teenage Headache Dreams \(with Ellie Rowsell\)](https://open.spotify.com/album/5R8GPzld0YydbKawqmbigD) | 4:43 | 2020-12-01 |  |
 | [Texas Sun](https://open.spotify.com/track/24ntSW3QVJzR79lHAAOTaY) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Sun](https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz) | 4:12 | 2020-12-01 |  |

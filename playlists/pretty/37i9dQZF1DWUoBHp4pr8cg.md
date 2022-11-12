@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoBHp4pr8cg.md) - [plain]
 
 > Only the hottest out now in Hip Hop..\. Cover: <a href="https://open.spotify.com/artist/6dX1EJC9XFlM8Ql1wGHC55?si=ahHSlLIER9uhSN7KxaU8rA">ANATII</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,478 likes - 47 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,514 likes - 48 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,6 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoBHp4pr8cg.md) - [plain]
 | 44 | [BIGGER THAN ME](https://open.spotify.com/track/2T8zFhRIoj0v4sD9YoZDW8) | [A\-Reece](https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP), [Emtee](https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr) | [DEADLINES: FREE P2](https://open.spotify.com/album/5DvFNfnvFyPLDZp5gQm8ir) | 3:12 |
 | 45 | [Forever \(feat\. Fridayy\)](https://open.spotify.com/track/1T4k0sw0HldDg004Kw4Oct) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [It's Only Me](https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0) | 2:47 |
 | 46 | [Rollin'](https://open.spotify.com/track/3z1B33YJDUYr9Show1dceh) | [Dj Clen](https://open.spotify.com/artist/5FeaMbq2LXxaIkEiigeAfo), [A\-Reece](https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP), [Jay Jody](https://open.spotify.com/artist/1S50LM0LZMa0AhCmLvYJdR), [Marcus Harvey](https://open.spotify.com/artist/5MTx8G4UpDgIhvl1eRxJq6) | [Rollin'](https://open.spotify.com/album/2Hl9b2l48h1c2oAQG4ob0a) | 3:52 |
-| 47 | [Let’s Go \(feat\. Aitch\)](https://open.spotify.com/track/1wUpbNyIar4OFPM1Fg3R3j) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [Let’s Go \(feat\. Aitch\)](https://open.spotify.com/album/03YnYlkkIiMOjIV9qIjykw) | 2:39 |
+| 47 | [Michael & Quincy](https://open.spotify.com/track/5MfCvL6jCTkxPCBQf3OkYH) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [King's Disease III](https://open.spotify.com/album/3vQuGKQJMfdXmkjRKqUesk) | 2:47 |
+| 48 | [Let’s Go \(feat\. Aitch\)](https://open.spotify.com/track/1wUpbNyIar4OFPM1Fg3R3j) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [Let’s Go \(feat\. Aitch\)](https://open.spotify.com/album/03YnYlkkIiMOjIV9qIjykw) | 2:39 |
 
 Snapshot ID: `MTY2ODExNzU0MCwwMDAwMDAwMDE2YTI4NzNiNDhkZThlNzc4NWM3NThlYjczMzI5ZTlj`

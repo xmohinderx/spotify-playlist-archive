@@ -440,6 +440,24 @@
     },
     {
       "album": {
+        "name": "Going Back to School Today",
+        "url": "https://open.spotify.com/album/0dcLCZe0wRIlRLj5v9gkwq"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "date_added": "2021-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90900,
+      "name": "Going Back to School Today",
+      "url": "https://open.spotify.com/track/0XE0N7gd2jJknaXmYesi0b"
+    },
+    {
+      "album": {
         "name": "Life Lessons for Children from LittleBabyBum",
         "url": "https://open.spotify.com/album/0n6nBTGAJIJBhvKdjXchIc"
       },
@@ -469,7 +487,7 @@
       ],
       "date_added": "2021-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 90900,
       "name": "Going Back to School Today",
       "url": "https://open.spotify.com/track/796sb0EwG3wdXsBqOAnpiP"
@@ -693,10 +711,28 @@
       ],
       "date_added": "2021-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 106175,
       "name": "Playground Sharing Song",
       "url": "https://open.spotify.com/track/0XIVlPpHZAiOL6QMQkRRq1"
+    },
+    {
+      "album": {
+        "name": "Social Emotional Learning",
+        "url": "https://open.spotify.com/album/6V5lv2YxGokgdUbem3ReYL"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "date_added": "2021-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106175,
+      "name": "Playground Sharing Song",
+      "url": "https://open.spotify.com/track/1KTV5QhJzcX82bRLE1akS9"
     },
     {
       "album": {

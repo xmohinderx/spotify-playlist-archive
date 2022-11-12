@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > Wet Bed Gang entram na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,981 likes - 75 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,009 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 2 | [JOGADOR CARO](https://open.spotify.com/track/3AmAlwNKaJyExmvN6EOSb2) | [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I), [Greg Ferreira](https://open.spotify.com/artist/2e8RAcYXYt5IStoaaQWcG8), [Sippinpurpp](https://open.spotify.com/artist/6ngR2kHxjibH7bdDUBqL3z) | [JOGADOR CARO](https://open.spotify.com/album/5CZiBICShN5FDPhQtUsCbC) | 3:06 |
 | 3 | [Chauffeur](https://open.spotify.com/track/3ARuPTEPMpbr7mz1aHa0a6) | [Regula](https://open.spotify.com/artist/6pyqBc7HaffcZJhyfjnceP), [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj) | [Chauffeur](https://open.spotify.com/album/4LAYeC7gWp1jFiS1q101OK) | 4:26 |
 | 4 | [Por Enquanto](https://open.spotify.com/track/5fjD0vHh9XRL6b657FWe9C) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Por Enquanto](https://open.spotify.com/album/1uFTodamqWqlk5KwYkqy0n) | 2:22 |
-| 5 | [Gorillaz \(feat\. L7NNON\)](https://open.spotify.com/track/3nX9NxKOHrxhtA45jRFyAd) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Gorillaz \(feat\. L7NNON\)](https://open.spotify.com/album/6fUyo3fkgWK66QRXO6VCjF) | 3:38 |
+| 5 | [Gorillaz](https://open.spotify.com/track/3nX9NxKOHrxhtA45jRFyAd) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Gorillaz](https://open.spotify.com/album/6fUyo3fkgWK66QRXO6VCjF) | 3:38 |
 | 6 | [Bon Appétit](https://open.spotify.com/track/7uHLAlgUhSOwnnbXJeG7ai) | [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n) | [Olho de Tigre](https://open.spotify.com/album/0jhj4SwIWQGON36aDMeEwb) | 2:45 |
 | 7 | [Papaia](https://open.spotify.com/track/17MPtgaJHgr2WlJVyhA6kw) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Oitavo Céu](https://open.spotify.com/album/0Hm4SvANwPDIBdDPnN97rf) | 3:02 |
 | 8 | [3,14](https://open.spotify.com/track/1OjAoIz5Gl36rzm9RKEQeG) | [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj), [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0), [Sam The Kid](https://open.spotify.com/artist/3NEQ5t2FprBMLmDAP0EPcE) | [3,14](https://open.spotify.com/album/6G62obmFgI2yyK36htUzOe) | 5:24 |

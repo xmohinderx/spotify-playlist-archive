@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXdN7izJSV.md) - [plain]
 
 > Classic cuts from the alternative country music scene\. Cover: Uncle Tupelo
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,475 likes - 75 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,566 likes - 75 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXdN7izJSV.md) - [plain]
 | 11 | [It's Not You, It's Me](https://open.spotify.com/track/3bWvZ3YluJBtHgCP7c0tBv) | [The Little Willies](https://open.spotify.com/artist/4MWopTgyvixq0tNiFrVg0l) | [The Little Willies](https://open.spotify.com/album/5G864T3Gd0LlUEQdw0iZiw) | 2:43 |
 | 12 | [California Zephyr](https://open.spotify.com/track/4eBvIlQ3EhaP2b8At53Woo) | [Jay Farrar](https://open.spotify.com/artist/4tPRMBm25eaPJaceUBPqTK), [Benjamin Gibbard](https://open.spotify.com/artist/4CvZd3qzC2HbLxAoAEBRIL) | [One Fast Move Or I'm Gone Music From Kerouac's Big Sur](https://open.spotify.com/album/3Lki97wGb11VOTrjCEAgCj) | 2:23 |
 | 13 | [Feel Alright](https://open.spotify.com/track/7fF6Af2M3vL4IUtE8cMy6G) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [I Feel Alright](https://open.spotify.com/album/1CEAVKLVVaCoKyEoVVr8Bh) | 2:56 |
-| 14 | [Furr](https://open.spotify.com/track/2fgbsGWU2Dum08uifQHhiB) | [Blitzen Trapper](https://open.spotify.com/artist/72XY3HrDdFfZXNZFCT9Zh1) | [Furr](https://open.spotify.com/album/2DyjbFqAX5Yxoh3EFMMXh7) | 4:07 |
+| 14 | [Furr](https://open.spotify.com/track/5yI3EfQFC9vU3eMuvo9LbO) | [Blitzen Trapper](https://open.spotify.com/artist/72XY3HrDdFfZXNZFCT9Zh1) | [Furr \(10th Anniversary Deluxe Edition\)](https://open.spotify.com/album/1SOFyqJwYjVaxoKuDTlb9D) | 4:07 |
 | 15 | [Nights Like These](https://open.spotify.com/track/5W6mFdtLbNllkRh6Q07IbT) | [Lucero](https://open.spotify.com/artist/1MspPfENB9nzFGaagXmF7R) | [Tennessee](https://open.spotify.com/album/0KBqO2j7c8OHYhYaEiBgTx) | 3:55 |
 | 16 | [Pass You By](https://open.spotify.com/track/3CMMEJHMYeW7AHorJm4MSW) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz) | [Revival](https://open.spotify.com/album/733rVkP3oBulDHJbiuRANa) | 3:57 |
 | 17 | [Leaving Time](https://open.spotify.com/track/7stgXk1gsIzidnWRyJhn0b) | [Patterson Hood](https://open.spotify.com/artist/5JnjssuFBg104paXN0mKKn) | [Heat Lightning Rumbles In The Distance](https://open.spotify.com/album/6DtS0sUWxl6812eeF0XK3R) | 3:31 |
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXdN7izJSV.md) - [plain]
 | 52 | [Save It For A Rainy Day](https://open.spotify.com/track/6IZIEhCq9crPjl2jGUvELS) | [The Jayhawks](https://open.spotify.com/artist/2UDplVRprMbazU74Hq8OLl) | [Rainy Day Music](https://open.spotify.com/album/3vI8vpQDeh7NaNEY1AilPm) | 3:07 |
 | 53 | [Six O'Clock News](https://open.spotify.com/track/46zWnizX8Zny8ydVg04KVL) | [Kathleen Edwards](https://open.spotify.com/artist/7x4So74vIUx3DaLk93JCFf) | [Failer](https://open.spotify.com/album/3ZYobhZ7YRCG96p7P7BIek) | 4:36 |
 | 54 | [The Galway Girl](https://open.spotify.com/track/1KnilWyiAb1Jwa9QJXZGMN) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [Transcendental Blues](https://open.spotify.com/album/15FbLxuzw8MuuIC1AOob6k) | 3:05 |
-| 55 | [Cigarettes Coffee and Booze](https://open.spotify.com/track/5sccRpcrBlsSIbIjSj4Xtt) | [The Minus 5](https://open.spotify.com/artist/7k8oHbK8ratXIVlYX7fVRU) | [The Minus 5](https://open.spotify.com/album/4d1zF9fWmRc5PhWNaoh0us) | 4:24 |
+| 55 | [Cigarettes Coffee and Booze](https://open.spotify.com/track/3VbksD93GdhM8fB95GGAjR) | [The Minus 5](https://open.spotify.com/artist/7k8oHbK8ratXIVlYX7fVRU) | [Alternative Country Masterpieces](https://open.spotify.com/album/5kJyeKSrgev5PyfsdYZUgP) | 4:24 |
 | 56 | [Desdemona](https://open.spotify.com/track/7FezHxN3JiG6lK7L5Sl84M) | [The Alternate Routes](https://open.spotify.com/artist/2bIN86ZmfyWfkN9c3C3YXE), [Patty Griffin](https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy) | [A Sucker's Dream](https://open.spotify.com/album/69e9cBeYvuAFXC1iaT8T7H) | 5:54 |
 | 57 | [The El](https://open.spotify.com/track/6C0SXBkORzmP9elNb2gMcu) | [Rhett Miller](https://open.spotify.com/artist/0wNZd1CMOsFZ0TiBhlqjD5) | [The Instigator](https://open.spotify.com/album/0Pup5rX8QvSNgSBLX7Vu69) | 3:09 |
 | 58 | [Pinball Song](https://open.spotify.com/track/3X2stgfjH1I30FMLHzFWJI) | [Slobberbone](https://open.spotify.com/artist/5U1pEBuiFLycsQ4mYP3nmK) | [Everything You Thought Was Right Was Wrong Today](https://open.spotify.com/album/1Yj7OK3fnKoic98iMha6Bw) | 4:36 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXdN7izJSV.md) - [plain]
 | 74 | [Chickamauga](https://open.spotify.com/track/3pnfc7f0fix6C6HcOLYxzH) | [Uncle Tupelo](https://open.spotify.com/artist/2Plkkomsc4DKawkCioLKjc) | [Anodyne](https://open.spotify.com/album/5DQRAlGAFTpHsXGEg5zw9V) | 3:42 |
 | 75 | [Hasn't Hit Me Yet \- 2012 Remaster](https://open.spotify.com/track/4MgPAPoNsUpJrVhKf1dCxz) | [Blue Rodeo](https://open.spotify.com/artist/4M1fxLs3K8DkyCaTEpdfo0) | [Five Days in July](https://open.spotify.com/album/38xKbwxuitwGAgjTPoEnWm) | 5:13 |
 
-Snapshot ID: `MTYwMjYwNDIxMSwwMDAwMDAwMDNjZjU4MTk3ZDVjNDc3OTMyYzhjMWUyYzM1Zjc0ZjA5`
+Snapshot ID: `MTYwMjYwNDIxMSwwMDAwMDAwMDk5N2QwMmIzMTQzZmU4NDBiNzZiNTBmZDE1ZTBlMzU0`

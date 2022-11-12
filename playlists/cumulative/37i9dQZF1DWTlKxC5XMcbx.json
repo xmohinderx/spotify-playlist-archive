@@ -95,7 +95,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 335333,
       "name": "All The Way",
       "url": "https://open.spotify.com/track/6rUGbjo3y0MbeQNaPfytXe"
@@ -299,10 +299,28 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 280840,
       "name": "But Beautiful",
       "url": "https://open.spotify.com/track/1XCBWtTJZuHbwa6GLUutjo"
+    },
+    {
+      "album": {
+        "name": "Gerry Mulligan Meets Ben Webster",
+        "url": "https://open.spotify.com/album/0kFQ4gfEAniyQ2E169YMXE"
+      },
+      "artists": [
+        {
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 442506,
+      "name": "Chelsea Bridge",
+      "url": "https://open.spotify.com/track/6X1TBqc2CG7HEHsNFOlazB"
     },
     {
       "album": {
@@ -353,7 +371,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 224053,
       "name": "Easy Living",
       "url": "https://open.spotify.com/track/5yiImOvhyoK3QXUHVWcUUl"
@@ -509,7 +527,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 257693,
       "name": "Gary's Theme - Remastered",
       "url": "https://open.spotify.com/track/3f9KhpRN6mMYoVnpuozgHD"
@@ -581,7 +599,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 194000,
       "name": "Greensleeves",
       "url": "https://open.spotify.com/track/4gC95tJcg0TWAz3LJ2dZpN"
@@ -621,7 +639,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 306226,
       "name": "I Got It Bad And That Ain't Good",
       "url": "https://open.spotify.com/track/4ol2UyMTiklHVujAWg02nE"
@@ -776,6 +794,24 @@
     },
     {
       "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/4eRKWNE9BbmUEzZ3IqvdH5"
+      },
+      "artists": [
+        {
+          "name": "Paul Bley Trio",
+          "url": "https://open.spotify.com/artist/17Z0yELE3Ovk5iqMx1pZXT"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177920,
+      "name": "Ida Lupino",
+      "url": "https://open.spotify.com/track/3r1HC492GiqxQQHrIVSFJK"
+    },
+    {
+      "album": {
         "name": "Duke Ellington & John Coltrane",
         "url": "https://open.spotify.com/album/1OvmilWKtrabJGEpPRlgK5"
       },
@@ -863,10 +899,28 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 373880,
       "name": "Isadora",
       "url": "https://open.spotify.com/track/7G9VsVr1m6YzaJgHyRgz4y"
+    },
+    {
+      "album": {
+        "name": "Ellis In Wonderland",
+        "url": "https://open.spotify.com/album/0eoeuhP2vaqXF05wiDTTWP"
+      },
+      "artists": [
+        {
+          "name": "Herb Ellis",
+          "url": "https://open.spotify.com/artist/3cE7UG46bdFd8gHHgzyQEz"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224320,
+      "name": "It Could Happen To You",
+      "url": "https://open.spotify.com/track/7ns8zu3jKepR1oed6TvglA"
     },
     {
       "album": {
@@ -881,7 +935,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 323186,
       "name": "It Never Entered My Mind",
       "url": "https://open.spotify.com/track/6QlkHjQmo2YncQN5MQXgPZ"
@@ -994,6 +1048,24 @@
     },
     {
       "album": {
+        "name": "All Blues (CTI Records 40th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/5nEZ3hlaqqiQ9MQ4lFl16c"
+      },
+      "artists": [
+        {
+          "name": "Ron Carter",
+          "url": "https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 404026,
+      "name": "Light Blue",
+      "url": "https://open.spotify.com/track/1aScbLgIXdvopADfbla929"
+    },
+    {
+      "album": {
         "name": "The Incredible Kai Winding Trombones",
         "url": "https://open.spotify.com/album/0SHrQNz88Wjkgups6vz1Rj"
       },
@@ -1041,7 +1113,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 221066,
       "name": "Lucky To Be Me",
       "url": "https://open.spotify.com/track/253MlEWhgOkU3ncefccjMR"
@@ -1171,7 +1243,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 298000,
       "name": "My Foolish Heart - Live",
       "url": "https://open.spotify.com/track/5ARta7jvD6MRUiSk54jY5r"
@@ -1211,7 +1283,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 254026,
       "name": "My Romance - Rudy Van Gelder Remaster",
       "url": "https://open.spotify.com/track/3jaUMGTyi4XHBZpXpIWzo2"
@@ -1396,6 +1468,24 @@
     },
     {
       "album": {
+        "name": "Mingus Ah Um",
+        "url": "https://open.spotify.com/album/7pojWP7x9uEFSJgw765khA"
+      },
+      "artists": [
+        {
+          "name": "Charles Mingus",
+          "url": "https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187866,
+      "name": "Self-Portrait in Three Colors",
+      "url": "https://open.spotify.com/track/38C8v33eis3fa4hLf0dl8Z"
+    },
+    {
+      "album": {
         "name": "Solo Guitar",
         "url": "https://open.spotify.com/album/7fSp1R10Hsbtcfa3tvRdDX"
       },
@@ -1411,6 +1501,24 @@
       "duration_ms": 299880,
       "name": "Send In The Clowns",
       "url": "https://open.spotify.com/track/6Raz653SzfvRokSgYg9yxY"
+    },
+    {
+      "album": {
+        "name": "Best Jazz Guitarists",
+        "url": "https://open.spotify.com/album/4ahmB62pU2kxrpiMvOUhjz"
+      },
+      "artists": [
+        {
+          "name": "Johnny Smith",
+          "url": "https://open.spotify.com/artist/3u7Tz2oLTRPG9Cn7PcuZ2q"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106266,
+      "name": "Shenandoah",
+      "url": "https://open.spotify.com/track/1jzpB4HeNMkAgb2SjJbE5B"
     },
     {
       "album": {
@@ -1501,10 +1609,28 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 245066,
       "name": "Sous Le Ciel De Paris",
       "url": "https://open.spotify.com/track/45co7gWEhnZevNaWbPlW3W"
+    },
+    {
+      "album": {
+        "name": "Earfood",
+        "url": "https://open.spotify.com/album/4vuijqNCK71JTiACBmdCTo"
+      },
+      "artists": [
+        {
+          "name": "Roy Hargrove",
+          "url": "https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316866,
+      "name": "Speak Low",
+      "url": "https://open.spotify.com/track/2iJCVsNZAHFVaJhlLeXW00"
     },
     {
       "album": {
@@ -1734,6 +1860,36 @@
     },
     {
       "album": {
+        "name": "Night Dreamer",
+        "url": "https://open.spotify.com/album/2lcz9fPwBhtESyIFVGKvq6"
+      },
+      "artists": [
+        {
+          "name": "Wayne Shorter",
+          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
+        },
+        {
+          "name": "Lee Morgan",
+          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
+        },
+        {
+          "name": "Reginald Workman",
+          "url": "https://open.spotify.com/artist/0oYdxgeUsbFXRBFEGwtUSZ"
+        },
+        {
+          "name": "Elvin Jones",
+          "url": "https://open.spotify.com/artist/4dUMhhUjQ2YcNTvab29hYF"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 426800,
+      "name": "Virgo - Remastered 2004",
+      "url": "https://open.spotify.com/track/1ylwBTCAZ1WlvvMnWm6U3c"
+    },
+    {
+      "album": {
         "name": "Today And Tomorrow",
         "url": "https://open.spotify.com/album/6MinQE3GG7Xb9GWrOoAWEz"
       },
@@ -1851,6 +2007,50 @@
       "duration_ms": 258040,
       "name": "You Go To My Head",
       "url": "https://open.spotify.com/track/4ymHy4hzJ09WxvvT7p0Azy"
+    },
+    {
+      "album": {
+        "name": "Standards Trio: Reflections",
+        "url": "https://open.spotify.com/album/2iQuKhBU83MbUIsRAKcYPn"
+      },
+      "artists": [
+        {
+          "name": "Kurt Rosenwinkel",
+          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195200,
+      "name": "You've Changed",
+      "url": "https://open.spotify.com/track/5iPXzdmW5wxcbWJNw46mOy"
+    },
+    {
+      "album": {
+        "name": "It's Nice to Be with You: Jim Hall in Berlin",
+        "url": "https://open.spotify.com/album/7nSroQAyDwJ6qpTYdXYZuD"
+      },
+      "artists": [
+        {
+          "name": "Jim Hall",
+          "url": "https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr"
+        },
+        {
+          "name": "Jimmy Woode",
+          "url": "https://open.spotify.com/artist/7cyVfL1LEXWiLfl25J0bBb"
+        },
+        {
+          "name": "Daniel Humair",
+          "url": "https://open.spotify.com/artist/5khCKDGtTIZreUFp0gayVL"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265024,
+      "name": "Young One for Debra",
+      "url": "https://open.spotify.com/track/4DE2IwQUZMrEqCZ95D1iIk"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWTlKxC5XMcbx"

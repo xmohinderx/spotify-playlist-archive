@@ -4,7 +4,7 @@
 
 > Free\-spirited, atmospheric vibes.
 
-270 songs - 17 hr 3 min - [published](https://open.spotify.com/playlist/79WKo1g8A6daCdei56m7Tj)
+274 songs - 17 hr 22 min - [published](https://open.spotify.com/playlist/79WKo1g8A6daCdei56m7Tj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,8 @@
 | [Berlin](https://open.spotify.com/track/6bjbq5DtKPRV7OQaoQnm0L) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Acoustic Chill Music](https://open.spotify.com/album/4Dt0PZeE3z738P5GaP2REI) | 2:50 | 2022-02-25 |  |
 | [Berlin](https://open.spotify.com/track/7BSMSvK0WxrDeI98bswYa8) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Dawn](https://open.spotify.com/album/0DvauBOn2G8RIEQR54Cmiv) | 2:54 | 2022-02-25 | 2022-11-11 |
 | [Better Days](https://open.spotify.com/track/2vCKQ9NNCTXoAF8ltW0Zv9) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Better Days](https://open.spotify.com/album/41pm4Q8TIe9zixjdIuvgBZ) | 3:18 | 2021-07-30 | 2022-07-29 |
-| [Better Days](https://open.spotify.com/track/48USW4aYqrylYWJmFPbC8A) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Better Days](https://open.spotify.com/album/7jQ8LzeqwAKCXnHEIbp9VR) | 3:18 | 2022-02-25 |  |
+| [Better Days](https://open.spotify.com/track/48USW4aYqrylYWJmFPbC8A) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Better Days](https://open.spotify.com/album/7jQ8LzeqwAKCXnHEIbp9VR) | 3:18 | 2022-02-25 | 2022-11-12 |
+| [Better Days](https://open.spotify.com/track/4k2ZhyLz0BxHUhJgghQpYq) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Songs of Sonder](https://open.spotify.com/album/5KYqiTq9ChwEVhd26dcFM8) | 3:18 | 2022-02-25 |  |
 | [Better Still](https://open.spotify.com/track/2AI5byLjLweZH9yBmOJcRl) | [St\. South](https://open.spotify.com/artist/1n3X60xWCyL1zytSiKeu4D) | [Better Still](https://open.spotify.com/album/5lcFjcSWkEjUKHm1HKnqzM) | 3:55 | 2021-07-30 | 2022-07-29 |
 | [Better Still](https://open.spotify.com/track/3lhcKkCSj2roKSRkdyYGBr) | [St\. South](https://open.spotify.com/artist/1n3X60xWCyL1zytSiKeu4D) | [Better Still](https://open.spotify.com/album/76jcRAzqVmJ4nyAYUybgMi) | 3:55 | 2022-02-25 |  |
 | [Binge Drinking & D.H\. Lawrence](https://open.spotify.com/track/0TRnglnomElZA1IXv01hlb) | [Lake South](https://open.spotify.com/artist/5IQtbBmCk7x6ZJT6iqKZjF) | [Lake South](https://open.spotify.com/album/76eCwirIjt1uJ71GzJypTq) | 3:58 | 2021-07-30 |  |
@@ -143,7 +144,8 @@
 | [Looking For You](https://open.spotify.com/track/7l97DrJ8QQuScv0vr7jLug) | [Ev Carm](https://open.spotify.com/artist/7HRu2XaMM0YFdWqKGDiQtL) | [Looking For You](https://open.spotify.com/album/5pEYv4wPABSjxjXgkyQFpE) | 4:22 | 2021-07-30 |  |
 | [Looking Too Closely](https://open.spotify.com/track/7bhI6rnvaVw8qgZPn32qE0) | [Fink](https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf) | [Hard Believer](https://open.spotify.com/album/1TMJ7yDSSYByO0UjKwnOiX) | 5:10 | 2021-07-30 |  |
 | [Love Ain't Enough](https://open.spotify.com/track/2cNxCW2Sas3PA4LKfDc6lY) | [The Barr Brothers](https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7) | [Sleeping Operator](https://open.spotify.com/album/3heNYqE1CUM8WlJGm6UPEj) | 4:50 | 2021-07-30 | 2022-07-29 |
-| [Love Ain't Enough](https://open.spotify.com/track/2sgbm2X8Ye9YIzvEUFGoar) | [The Barr Brothers](https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7) | [Sleeping Operator](https://open.spotify.com/album/7fjRTWt2AzOiOTOAVupzTq) | 4:50 | 2022-02-25 |  |
+| [Love Ain't Enough](https://open.spotify.com/track/26vbjJQHCuTvcB0HGKmhLp) | [The Barr Brothers](https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7) | [Love Ain't Enough](https://open.spotify.com/album/6LYx63NK9xob9OcsNqAy1A) | 4:50 | 2022-02-25 |  |
+| [Love Ain't Enough](https://open.spotify.com/track/2sgbm2X8Ye9YIzvEUFGoar) | [The Barr Brothers](https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7) | [Sleeping Operator](https://open.spotify.com/album/7fjRTWt2AzOiOTOAVupzTq) | 4:50 | 2022-02-25 | 2022-11-12 |
 | [Lucky for You](https://open.spotify.com/track/19jTCAxeVnkwKnWHSsdg0i) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi), [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [No Fun / Lucky for You](https://open.spotify.com/album/7DVkaDX0Y47rRsJqgvHjyh) | 2:16 | 2021-07-30 |  |
 | [Mansion Door](https://open.spotify.com/track/0IREGCigdEmhoBup3ffrPb) | [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH) | [Can't Wake Up](https://open.spotify.com/album/2Wfr01LIuo5Uy5Es51Q8b5) | 4:30 | 2021-07-30 |  |
 | [Maybe](https://open.spotify.com/track/3zhiMb4QNcU5nbrjUK9Xx9) | [Aby Coulibaly](https://open.spotify.com/artist/1ZjJVQsxUHP7MKnZg8yE33) | [Maybe](https://open.spotify.com/album/2XHcleSj4IH0a8uKZNn9Tt) | 4:06 | 2022-02-25 |  |
@@ -170,8 +172,9 @@
 | [New Birth in New England](https://open.spotify.com/track/3YOv5LNRVbrmWnVVyk3Flj) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [C’est La Vie](https://open.spotify.com/album/2Ex277htheVs9aDi6svcsv) | 4:59 | 2021-07-30 | 2022-07-29 |
 | [New Shoes](https://open.spotify.com/track/2Nh201cURlNgpcMDnDlNaL) | [Overcoats](https://open.spotify.com/artist/2pst3pDewxsl4kJERuDZpp) | [The Fight](https://open.spotify.com/album/0ArmKxlIjju4bog52Q33ZE) | 3:18 | 2021-07-30 |  |
 | [Nica Libres At Dusk \- Radio Edit](https://open.spotify.com/track/6c1r9Vdso5n3QjGMBTNpFh) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Nica Libres At Dusk \(Radio Edit\)](https://open.spotify.com/album/3WDWet8acFs2XAAI7ADLoA) | 3:59 | 2021-07-30 |  |
-| [Night Shift](https://open.spotify.com/track/1yYlpGuBiRRf33e1gY61bN) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Historian](https://open.spotify.com/album/0LqhbUfmHsxovfSirhEIGu) | 6:31 | 2022-02-25 |  |
+| [Night Shift](https://open.spotify.com/track/1yYlpGuBiRRf33e1gY61bN) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Historian](https://open.spotify.com/album/0LqhbUfmHsxovfSirhEIGu) | 6:31 | 2022-02-25 | 2022-11-12 |
 | [Night Shift](https://open.spotify.com/track/2AF5Kzxb4pz7j79Ity84pP) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Historian](https://open.spotify.com/album/01GO03odsNlNLtvNETukWT) | 6:31 | 2021-07-30 | 2022-07-29 |
+| [Night Shift](https://open.spotify.com/track/6414jxyYquBi9sqmufnT0A) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Night Shift](https://open.spotify.com/album/0YmdEL8VCkLkUFwKHJd6Eg) | 6:31 | 2022-02-25 |  |
 | [Nighttime Hunger](https://open.spotify.com/track/15Ag53gAjOCFQvirY4OsPl) | [Overcoats](https://open.spotify.com/artist/2pst3pDewxsl4kJERuDZpp) | [Nighttime Hunger](https://open.spotify.com/album/5FHk81rWbbh4hNGnbnNNvm) | 2:48 | 2021-07-30 | 2022-07-29 |
 | [Nighttime Hunger](https://open.spotify.com/track/4IE6Oa1YTTu0aICULOzXPn) | [Overcoats](https://open.spotify.com/artist/2pst3pDewxsl4kJERuDZpp) | [YOUNG](https://open.spotify.com/album/5X20kbbHdgPgFItjuHggIm) | 2:48 | 2022-02-25 |  |
 | [No One Loves You \(OurVinyl Sessions\)](https://open.spotify.com/track/096cKwA5fiRKPwvqnLaSn3) | [Chance McCoy](https://open.spotify.com/artist/4VcDjGUnE1kwHbsWnvlgya), [OurVinyl](https://open.spotify.com/artist/4MhBe0d439ToDXCWlT3wae) | [Chance McCoy \| OurVinyl Sessions](https://open.spotify.com/album/3pc7mppDUQd3jUuacQMmMO) | 2:16 | 2022-02-25 |  |
@@ -180,8 +183,9 @@
 | [No Woman \- Demo](https://open.spotify.com/track/0RMxxZjgPCJd6wFaml1Gsr) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Light Upon the Lake: Demo Recordings](https://open.spotify.com/album/4uzOhN96JyUg79Y08MkFbT) | 3:56 | 2021-07-30 | 2022-07-29 |
 | [No Woman \- Demo](https://open.spotify.com/track/3cmk3K17n5qAGv59HG7G5f) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Light Upon the Lake: Demo Recordings](https://open.spotify.com/album/1P5NxbB3ydEmuYNT0mQdyZ) | 3:56 | 2022-02-25 |  |
 | [Oh Dear Brother](https://open.spotify.com/track/27TIWKzBDkahxcjKUmthdw) | [Howard](https://open.spotify.com/artist/7kfaJkEGQmDhceMYvn9Ax5) | [Oh Dear Brother](https://open.spotify.com/album/3Pue2ojjST8Vq2m8y2EppZ) | 3:58 | 2021-07-30 |  |
+| [Olalla](https://open.spotify.com/track/0vrlxoXcbwD8Sklwy59N9g) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Nocturne EP](https://open.spotify.com/album/3KeZeDLfggA5icZ8HG9FHm) | 4:07 | 2022-02-25 |  |
 | [Olalla](https://open.spotify.com/track/4d4OJTq2Yl7TyiuGMLxa1h) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Olalla](https://open.spotify.com/album/7ezEVlzMBGfVkGWuwcINqY) | 4:07 | 2021-07-30 | 2022-07-29 |
-| [Olalla](https://open.spotify.com/track/4R59wt5nnhYo88PIu3cUIt) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [On the Other Side](https://open.spotify.com/album/7ruII5ZslQNpw4viJv10yG) | 4:08 | 2022-02-25 |  |
+| [Olalla](https://open.spotify.com/track/4R59wt5nnhYo88PIu3cUIt) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [On the Other Side](https://open.spotify.com/album/7ruII5ZslQNpw4viJv10yG) | 4:08 | 2022-02-25 | 2022-11-12 |
 | [Olympians \- Acoustic](https://open.spotify.com/track/0d79BhweRgxqySiFBYelDg) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [We Are Olympians](https://open.spotify.com/album/5KV0wZMvRNqxXLYJOgaIqf) | 4:57 | 2021-07-30 |  |
 | [On the Radio](https://open.spotify.com/track/33uOm4KiN69SEZ4k2sKMu0) | [Holly Miranda](https://open.spotify.com/artist/0CNehpGYdxk87YYMiBpnyP) | [Mutual Horse](https://open.spotify.com/album/77NBjLz7WofTazhriPT3X2) | 4:07 | 2021-07-30 |  |
 | [Opaline](https://open.spotify.com/track/732Zsh1L5ixRNgAmiPyvrp) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Cannot Be, Whatsoever](https://open.spotify.com/album/1KkBDNtkZDW8COUNKAWRPw) | 3:12 | 2021-07-30 |  |

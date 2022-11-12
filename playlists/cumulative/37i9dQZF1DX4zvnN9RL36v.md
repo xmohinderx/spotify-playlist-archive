@@ -4,7 +4,7 @@
 
 > 내 마음을 노랫말이 알아줄 때.
 
-100 songs - 6 hr 38 min - [published](https://open.spotify.com/playlist/1ePLnJPdYrdhAdDDYNy420)
+102 songs - 6 hr 47 min - [published](https://open.spotify.com/playlist/1ePLnJPdYrdhAdDDYNy420)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [Afraid To Say I Love You](https://open.spotify.com/track/5q3q7ZIRq7EoCK3kpsfRpz) | [THE ADE](https://open.spotify.com/artist/60ftnqC2sZGUXDqElMPvTy) | [Afraid To Say I Love You](https://open.spotify.com/album/3W0HGM1NBblqIrhMMLoiDx) | 3:25 | 2022-03-07 |  |
 | [Alone](https://open.spotify.com/track/0EBbXbktxouXdMH2JY4U4T) | [Hui](https://open.spotify.com/artist/4R0tSGcVRQ8ZXPzttU8mHy) | [Chocolate, Pt\. 8 \(Original Television Soundtrack\)](https://open.spotify.com/album/5NkL3gOmdX8HxFUrDNFJFE) | 3:48 | 2022-06-09 |  |
 | [Alone](https://open.spotify.com/track/7ntK0Uv0nawyHqhmuHEtQv) | [Hui](https://open.spotify.com/artist/4R0tSGcVRQ8ZXPzttU8mHy) | [Chocolate,Pt.8\(Original Television Soundtrack\)](https://open.spotify.com/album/0jPbVk0V32lFwjft2sO4FB) | 3:48 | 2022-03-07 | 2022-07-29 |
-| [An Ordinary Day](https://open.spotify.com/track/2RzUXBM4M82BfsGriLx8mk) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [My Mister \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/1UMbArkE5oPJArjsfiDxqw) | 4:34 | 2022-06-09 |  |
+| [An Ordinary Day](https://open.spotify.com/track/0X3uu5ca6O6vy4h7AGT6u3) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [My Mister \(Original Television Soundtrack\)](https://open.spotify.com/album/5jsArQaKt70bDxikvK7wbX) | 4:34 | 2022-08-18 |  |
+| [An Ordinary Day](https://open.spotify.com/track/2RzUXBM4M82BfsGriLx8mk) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [My Mister \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/1UMbArkE5oPJArjsfiDxqw) | 4:34 | 2022-06-09 | 2022-11-12 |
 | [An Ordinary Day](https://open.spotify.com/track/5d5LwS6WJagz80BcpZDzOO) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [My Mister \(Original Tv Soundtrack\) Part 3](https://open.spotify.com/album/0LJ4mPTGWWhiAkkzihAFdq) | 4:34 | 2022-03-07 | 2022-07-29 |
 | [Because I only see you](https://open.spotify.com/track/2Akf1x68EZPx7H8zGlBWtR) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [Whats wrong with secretary kim OST Part.5](https://open.spotify.com/album/0DScQIKugPfaNgB2iGp7Mu) | 3:40 | 2022-03-07 |  |
 | [Before the Sunset](https://open.spotify.com/track/1EzfapL0krLyoIxezUU3A6) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Mad Dog, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/6Zw40UVaZ6CDtTFLqoIDEe) | 3:09 | 2022-03-07 | 2022-07-29 |
@@ -56,10 +57,11 @@
 | [She Said](https://open.spotify.com/track/2wiZairqLO6i9xPhHHqT5z) | [Toy](https://open.spotify.com/artist/492hlOWzJOoeAtBQZeFoZR), [Kwon Jin A](https://open.spotify.com/artist/78CxDSTXIZxyzFsn9GyDit) | [Da Capo](https://open.spotify.com/album/1ac4LAkzA5YUGVrEvxdoh9) | 4:27 | 2022-03-07 | 2022-07-29 |
 | [She Said \(With Kwon Jin Ah\)](https://open.spotify.com/track/7B6NK8YKCwPNqKnVTgMmtE) | [TOY](https://open.spotify.com/artist/7sS12h1hMwOqXiB5vYdlu8), [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [Da Capo](https://open.spotify.com/album/2aFUFpaIjQQV7dWYsWsvEx) | 4:27 | 2022-06-09 |  |
 | [Sooni \(I'm your fanatic girl\)](https://open.spotify.com/track/0l9jBZWCFyKdYVVYrzzTMR) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [4X4](https://open.spotify.com/album/4vL5pTsmH3jfwfJyrqHhfx) | 4:07 | 2022-03-07 | 2022-10-18 |
-| [Soulmate](https://open.spotify.com/track/0Cz3oUrI37uy1QuFFLXrJh) | [Lucia](https://open.spotify.com/artist/3VHFAtB6fPQwpAWQ5rn4uc) | [Body & Soul](https://open.spotify.com/album/57CcFtuW3lv4A6iXpcRJZ1) | 4:11 | 2022-03-07 |  |
+| [Soulmate](https://open.spotify.com/track/0Cz3oUrI37uy1QuFFLXrJh) | [Lucia](https://open.spotify.com/artist/3VHFAtB6fPQwpAWQ5rn4uc) | [Body & Soul](https://open.spotify.com/album/57CcFtuW3lv4A6iXpcRJZ1) | 4:11 | 2022-03-07 | 2022-11-12 |
 | [Tattoo](https://open.spotify.com/track/3cj1D41ePZZfbXOcwEkll8) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [LOVIN'](https://open.spotify.com/album/5tRixYdXfa2t5C6YTUSjdF) | 3:19 | 2022-03-07 | 2022-07-29 |
 | [Tattoo](https://open.spotify.com/track/6ly2IeEPXEtzsUMgwOk3P6) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [AMY](https://open.spotify.com/album/0qocbypKL5iOqhvbt3n3uo) | 3:19 | 2022-06-09 | 2022-11-11 |
 | [The Only One](https://open.spotify.com/track/31lsnzxKTuzlnCZGeIclLa) | [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb) | [18 again Pt.1 \(Original Television Soundtrack\)](https://open.spotify.com/album/5YuamM0Nviie4wDsJjUJJ9) | 4:02 | 2022-03-07 | 2022-07-29 |
+| [The Only One](https://open.spotify.com/track/5oCGRV5Q3gzD3rR6P8HTFf) | [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb) | [18 again Special \(Original Television Soundtrack\)](https://open.spotify.com/album/5T3saGcqKRNtLGMP8MqjnM) | 4:02 | 2022-08-18 |  |
 | [The Only One](https://open.spotify.com/track/6rCuyj1AxaO78VcbDpCfjZ) | [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb) | [18 again, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/3iBLhqtk0UhCtLAIZXPFth) | 4:02 | 2022-06-09 | 2022-11-11 |
 | [Three of Us](https://open.spotify.com/track/5n8eET5G6CBCvGSc8SQLxI) | [Toy](https://open.spotify.com/artist/492hlOWzJOoeAtBQZeFoZR), [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [Da Capo](https://open.spotify.com/album/1ac4LAkzA5YUGVrEvxdoh9) | 4:45 | 2022-03-07 | 2022-07-29 |
 | [Three of Us \(With Sing Si Kyung\)](https://open.spotify.com/track/0elG6aqynKF3C1zYdzanpO) | [TOY](https://open.spotify.com/artist/7sS12h1hMwOqXiB5vYdlu8), [Sing Si Kyung](https://open.spotify.com/artist/54fqqQjr6QGdx1UX9cvfft) | [Da Capo](https://open.spotify.com/album/2aFUFpaIjQQV7dWYsWsvEx) | 4:45 | 2022-06-09 |  |

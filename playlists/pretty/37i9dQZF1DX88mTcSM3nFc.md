@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX88mTcSM3nFc.md) - [plain]
 
 > A timeless mix of melancholy Christmas favorites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,098 likes - 42 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,162 likes - 42 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,14 +12,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX88mTcSM3nFc.md) - [plain]
 | 2 | [I'll Be Home For Christmas \- Single Version](https://open.spotify.com/track/4x9RxveiWUlDahke6MKvrt) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [This Christmas](https://open.spotify.com/album/7LH4zb9sqLr8hX3SzwkmDq) | 2:53 |
 | 3 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/6KktzUnQSJZC3iZSwj812R) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/5P6ipsN2cYH8Bp2DokqkHf) | 2:59 |
 | 4 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/46pF1zFimM582ss1PrMy68) | [Darlene Love](https://open.spotify.com/artist/391oLRVmoTkumiN79HkTWu) | [A Christmas Gift For You From Phil Spector](https://open.spotify.com/album/2kzkwgOFAtRsDsas5Hi0Qu) | 2:46 |
-| 5 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/030mot3ZKR3oskfMsqDB2R) | [Judy Garland](https://open.spotify.com/artist/0hItVPjwJLVZrFqOyIsxPf) | [Meet Me In St\. Louis](https://open.spotify.com/album/1owtCiTnAkCB4vKJ5FD0ki) | 2:42 |
+| 5 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/1wO8Igk70VryrpWLe22Vvg) | [Judy Garland](https://open.spotify.com/artist/0hItVPjwJLVZrFqOyIsxPf) | [Movie Music](https://open.spotify.com/album/2gI1ijkI9Hi5mg5FZajfc3) | 2:45 |
 | 6 | [Blue Christmas](https://open.spotify.com/track/3QiAAp20rPC3dcAtKtMaqQ) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis' Christmas Album](https://open.spotify.com/album/6zk4RKl6JFlgLCV4Z7DQ7N) | 2:09 |
 | 7 | [Please Come Home For Christmas](https://open.spotify.com/track/2UTO3vuKleiyHjOGX1dppL) | [Charles Brown](https://open.spotify.com/artist/3trsSEaKM3UM2R9RBJwdtJ) | [Sings Christmas Songs](https://open.spotify.com/album/0sYk8ncYCqrrJPKeGiBwKL) | 2:50 |
 | 8 | [‘tis the damn season](https://open.spotify.com/track/4GBkffrtA51p17JH35irGA) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [evermore](https://open.spotify.com/album/5jmVg7rwRcgd6ARPAeYNSm) | 3:49 |
 | 9 | [O Holy Night](https://open.spotify.com/track/4c4LylLvTh91IhwQgSXPRc) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song \(Expanded Edition\)](https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4) | 2:56 |
 | 10 | [Christmas Dreaming](https://open.spotify.com/track/2TJF9IcZcUpM7gDdhHak4T) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [The Classic Christmas Album](https://open.spotify.com/album/2B9FcHKqz3PWJlh0yGnmM7) | 2:59 |
 | 11 | [Last Christmas](https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [LAST CHRISTMAS](https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ) | 4:22 |
-| 12 | [What Are You Doing New Year's Eve?](https://open.spotify.com/track/19NdiithlwC8EfytiHVk7a) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Wishes You A Swinging Christmas \(Expanded Edition\)](https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb) | 3:32 |
+| 12 | [What Are You Doing New Year's Eve?](https://open.spotify.com/track/7zSOlw59doJIBkrk8C1MCf) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Winter Wonderland](https://open.spotify.com/album/6koZAOj4dhvtm9L0fLZhpQ) | 3:32 |
 | 13 | [Carol Of The Bells](https://open.spotify.com/track/1QDXntUSJuoqA3uvDYICxY) | [Harry Simeone Chorale](https://open.spotify.com/artist/30orN5PtRhj9fN2Myr8HKV) | [The Little Drummer Boy](https://open.spotify.com/album/6GAsEMP62A6XVRvFLG9vJD) | 2:21 |
 | 14 | [Christmas Lights](https://open.spotify.com/track/4fzyvSu73BhGvi96p2zwjL) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Christmas Lights](https://open.spotify.com/album/06CvxUVwS8h2aJYcCtApgy) | 4:02 |
 | 15 | [Merry Christmas Darling \- Remix](https://open.spotify.com/track/7eEq6hRC7bZfWvrQW7gcdm) | [Carpenters](https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304) | [Winter Wonderland](https://open.spotify.com/album/6koZAOj4dhvtm9L0fLZhpQ) | 3:06 |
@@ -44,11 +44,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX88mTcSM3nFc.md) - [plain]
 | 34 | [Just A Lonely Christmas \- Bonus Track / 2015 Mix Version](https://open.spotify.com/track/1Ph3qvqLo8696FOf4W9iAS) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [Merry Christmas \(Expanded Edition\)](https://open.spotify.com/album/3mKxD3slkstGtfDxBI8p62) | 2:29 |
 | 35 | [The Bells of St\. Mary's \- 45 Version](https://open.spotify.com/track/2W7S8BIesug04Wr1AdAalQ) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [White Christmas / The Bells of St\. Mary's](https://open.spotify.com/album/6zWKbjgZHIWILfd5qHCzpC) | 2:40 |
 | 36 | [Whatever Happened To Christmas?](https://open.spotify.com/track/4fzMwQLxkY6qsimuyaDqed) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [The Jimmy Joyce Singers](https://open.spotify.com/artist/1M0wdYIdPlJz4Q0ZZjqdbt) | [Ultimate Christmas](https://open.spotify.com/album/1gCLWt3kXk5kNTZdsx6P8a) | 3:06 |
-| 37 | [White Christmas](https://open.spotify.com/track/59mvxvdzZYsK0c92yE7uo7) | [Jo Stafford](https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw) | [Joyful Season \(Expanded Edition\)](https://open.spotify.com/album/57BRnI3DQ5901z6TtsqmPT) | 2:53 |
+| 37 | [White Christmas \- Remastered 1992](https://open.spotify.com/track/6VJI8GekJzAX1cfmeGHJsV) | [Jo Stafford](https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw) | [The Capitol Rarities 1943 \- 1950](https://open.spotify.com/album/4yPURUtFdYwvFW79Ze9jhn) | 3:02 |
 | 38 | [What Child Is This? \(with Percy Faith & His Orchestra\)](https://open.spotify.com/track/5pHVGMJY8zuukdIAPpT1vj) | [Johnny Mathis](https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf), [Percy Faith & His Orchestra](https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv) | [Merry Christmas](https://open.spotify.com/album/3pHNZvjNOHJX8G9Y0OmIzG) | 3:57 |
 | 39 | [O Holy Night](https://open.spotify.com/track/3JIHsuJjTxdfK0Mff0pTy5) | [Pat Boone](https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu) | [White Christmas](https://open.spotify.com/album/3ED25ItOo8gmmUkIywh2Nt) | 2:14 |
 | 40 | [7 O'clock News / Silent Night](https://open.spotify.com/track/0Va2A1oD5n0ezfvKqPOXaD) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Parsley, Sage, Rosemary And Thyme](https://open.spotify.com/album/1sh32o99zA04PJIUJUpEj7) | 2:00 |
 | 41 | [The First Noel](https://open.spotify.com/track/4WW2Bdai1qzTnNkWNJCGNg) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Ultimate Christmas](https://open.spotify.com/album/1gCLWt3kXk5kNTZdsx6P8a) | 2:44 |
 | 42 | [I Want To Come Home For Christmas](https://open.spotify.com/track/79XX797KcCCXMQFvgWkU6h) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [You're The Man](https://open.spotify.com/album/7aX5aMq94oHw4eQdQBo854) | 4:46 |
 
-Snapshot ID: `MTY2NjUzOTU1OCwwMDAwMDAwMGUwMzgyNDVkYWRmZmQwMjcyNTgxYjk1YmViZjNjMGI5`
+Snapshot ID: `MTY2NjUzOTU1OCwwMDAwMDAwMDg0MmRmMzJkYTFkYTUxMTY2OTkxODZkMjQ4OGZjZjY5`

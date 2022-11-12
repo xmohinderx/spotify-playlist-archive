@@ -4,7 +4,7 @@
 
 > Left of center indie/alternative LGBTQQIA+ artists\. Cover: serpentwithfeet
 
-156 songs - 8 hr 51 min - [published](https://open.spotify.com/playlist/1o8ms1O56QTOUykDBE7miG)
+158 songs - 8 hr 58 min - [published](https://open.spotify.com/playlist/1o8ms1O56QTOUykDBE7miG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,8 +45,9 @@
 | [Eugene](https://open.spotify.com/track/0sT4slW2xWai3EwVSiuL9Y) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 3:43 | 2021-06-22 |  |
 | [Everything I’ve Ever Learned](https://open.spotify.com/track/4AwMdsbhwjEdi2RBHTG3ip) | [BLOXX](https://open.spotify.com/artist/4wYzzR0lpEub1gUU8bbBTw) | [Everything I’ve Ever Learned](https://open.spotify.com/album/7c07uVLXixDIdJYF3v9XIO) | 3:54 | 2021-06-22 |  |
 | [Faith Healer](https://open.spotify.com/track/5M7jnmPrtHgL5H4fTewJch) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Little Oblivions](https://open.spotify.com/album/3IQRHa9iVLsGlSuVHiHZ3A) | 2:54 | 2021-06-22 |  |
-| [Fellowship](https://open.spotify.com/track/1gVB71qZLk0eGwZGaVIUcM) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [DEACON](https://open.spotify.com/album/7dHEw1ug6SGPnGa74DQMxV) | 3:39 | 2022-06-06 |  |
+| [Fellowship](https://open.spotify.com/track/1gVB71qZLk0eGwZGaVIUcM) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [DEACON](https://open.spotify.com/album/7dHEw1ug6SGPnGa74DQMxV) | 3:39 | 2022-06-06 | 2022-11-12 |
 | [Fellowship](https://open.spotify.com/track/4ROdvtRcPEGo56SiZ23o8a) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [DEACON](https://open.spotify.com/album/15i2CVbvZzxiv9LfUkl2wU) | 3:39 | 2021-06-22 | 2022-07-29 |
+| [Fellowship](https://open.spotify.com/track/6F0KpWbx4b06dnCCmgLEzx) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [Heart Storm \(with NAO\)](https://open.spotify.com/album/5LGSk61drpfhtf9FRC6Wx7) | 3:39 | 2022-06-06 |  |
 | [First Time](https://open.spotify.com/track/2tIeAAcwV1JQ1iZuPtLirw) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [The Difference](https://open.spotify.com/album/6xgSmmAAK2Yd0kLYUelbYk) | 2:26 | 2021-06-22 | 2022-06-01 |
 | [found my friends](https://open.spotify.com/track/114rdkPL5vVgOPbzilfVa5) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [found my friends](https://open.spotify.com/album/0wJbIbIaKdwYKkgbpg0j9b) | 3:34 | 2021-06-22 | 2022-06-01 |
 | [Gay Street Fighter](https://open.spotify.com/track/607TYbZB8Xwg2TnMUawVDo) | [Keiynan Lonsdale](https://open.spotify.com/artist/0tkkz8CmkHga4YZgSHEDVl) | [Rainbow Boy](https://open.spotify.com/album/4iTf7XzGnEKJkwWmJ5pbYN) | 3:48 | 2021-06-22 | 2022-07-29 |
@@ -59,7 +60,7 @@
 | [I Know A Place](https://open.spotify.com/track/0bPSRn4crnh5f1JhELPlyL) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [About U](https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY) | 4:32 | 2021-06-22 |  |
 | [I Wanna Be Your Girlfriend](https://open.spotify.com/track/1sDMeyyj2QbUQ2yBPlOtBE) | [Ezra Furman](https://open.spotify.com/artist/1uR7zoLrSRI8bSL43OZ0GY) | [Twelve Nudes](https://open.spotify.com/album/5Pm5mcnn8gRxiY4b4qXD1P) | 3:29 | 2021-06-22 |  |
 | [I'm Happy Now](https://open.spotify.com/track/4A74rEokmBC1nXf1wtMmqi) | [boy cam](https://open.spotify.com/artist/71hu9nXKCY91T5Dj2vijgh) | [I'M HAPPY NOW](https://open.spotify.com/album/2RizbLChfs7zN9k0CU5gTW) | 4:31 | 2021-06-22 | 2022-07-29 |
-| [if we lived on the moon](https://open.spotify.com/track/0jT6z5YUpHQ1qOd6tWXuCd) | [vivi rincon](https://open.spotify.com/artist/7G3PkBcNf57mBBK1qYA1iE) | [if we lived on the moon](https://open.spotify.com/album/6JQ2RblwAmhFXVIxh56p6a) | 2:31 | 2022-06-06 |  |
+| [if we lived on the moon](https://open.spotify.com/track/0jT6z5YUpHQ1qOd6tWXuCd) | [vivi rincon](https://open.spotify.com/artist/7G3PkBcNf57mBBK1qYA1iE) | [if we lived on the moon](https://open.spotify.com/album/6JQ2RblwAmhFXVIxh56p6a) | 2:31 | 2022-06-06 | 2022-11-12 |
 | [if we lived on the moon](https://open.spotify.com/track/4Es7s4qHHonILWnqDkN7cA) | [vivi rincon](https://open.spotify.com/artist/7G3PkBcNf57mBBK1qYA1iE) | [if we lived on the moon](https://open.spotify.com/album/6vKGgTS4yEAm8DlnQd5c7P) | 2:31 | 2022-06-01 | 2022-10-13 |
 | [Intro](https://open.spotify.com/track/5VfEuwErhx6X4eaPbyBfyu) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx](https://open.spotify.com/album/6tzQKMilI02kn1lzLklDI8) | 2:07 | 2022-06-06 |  |
 | [Jason](https://open.spotify.com/track/34B5INdEjbTXvNkCC5GtYz) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Set My Heart On Fire Immediately](https://open.spotify.com/album/5qWrp5RcqjxB8ak7dtK6Iv) | 3:05 | 2022-06-01 |  |
@@ -159,6 +160,7 @@
 | [Wish You Were Gay](https://open.spotify.com/track/6fgjMZJlIACwYqC1b0yyiP) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Wish You Were Gay](https://open.spotify.com/album/0Hh5Iu5zm6nSnvjGmOM07g) | 3:11 | 2021-06-22 | 2022-06-01 |
 | [You Might Not Like Her](https://open.spotify.com/track/0BqWEdlRUTCsYlLO5jMItB) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [You Might Not Like Her](https://open.spotify.com/album/7ueHZMvIaONsn3w56NMMtF) | 3:22 | 2022-06-24 | 2022-11-11 |
 | [You Might Not Like Her](https://open.spotify.com/track/1emUJfYrNiu2TuUsz8WiQf) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [You Might Not Like Her](https://open.spotify.com/album/2QEzpmo0T8QXYZidgsb5Uh) | 3:22 | 2022-06-24 | 2022-10-13 |
+| [You Might Not Like Her](https://open.spotify.com/track/3zhcbKJEYoCJ9UsPbnDcUM) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [If It's Not God](https://open.spotify.com/album/1xRImmscq4t4IAm1G9OSVt) | 3:22 | 2022-06-24 |  |
 | [You!](https://open.spotify.com/track/1QrFCs420kYCvpv6T9CGLq) | [LonelyTwin](https://open.spotify.com/artist/2Nf6fS8HByhmGlwDPPZhHM) | [You!](https://open.spotify.com/album/6u7QZYyppacDEeQvZnxRK1) | 2:55 | 2022-06-01 | 2022-07-29 |
 | [You're Still The One](https://open.spotify.com/track/3P87k30Y8InwhW8Vx9YOZR) | [Okay Kaya](https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb) | [You're Still The One](https://open.spotify.com/album/5ZKBjx5wcE0c99n1zXUna4) | 2:44 | 2022-06-06 |  |
 | [You're Still The One](https://open.spotify.com/track/4xVfE9Pg9ArIZZUgW36n9B) | [Okay Kaya](https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb) | [You're Still The One](https://open.spotify.com/album/7EYMFdbADzRuCk8pnZkSVM) | 2:44 | 2021-06-22 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > The Reggaeton hits of yesterday and today.
 
-141 songs - 8 hr 46 min - [published](https://open.spotify.com/playlist/0BvnZTuHPpK851DFF0BmXZ)
+142 songs - 8 hr 50 min - [published](https://open.spotify.com/playlist/0BvnZTuHPpK851DFF0BmXZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,7 @@
 | [París](https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [París](https://open.spotify.com/album/6Ktv94u6eUIZBiUiBwOADD) | 2:31 | 2021-12-30 |  |
 | [Party](https://open.spotify.com/track/4tYFy8ALRjIZvnvSLw5lxN) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:47 | 2022-05-10 |  |
 | [Pegao](https://open.spotify.com/track/5n9iuiNBT8jYPJOPfKWjWU) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Los Vaqueros Wild Wild Mixes](https://open.spotify.com/album/4Yufs8sW6tHUNvkDAVTaYn) | 3:53 | 2021-12-30 | 2022-07-29 |
-| [Permitame](https://open.spotify.com/track/2UPfiKisNceDee4VFcdoZx) | [Tony Dize](https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Latin Party](https://open.spotify.com/album/5IXBIo7E8V2JR9lILcAIaL) | 3:06 | 2021-12-30 |  |
+| [Permitame](https://open.spotify.com/track/2UPfiKisNceDee4VFcdoZx) | [Tony Dize](https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Latin Party](https://open.spotify.com/album/5IXBIo7E8V2JR9lILcAIaL) | 3:06 | 2021-12-30 | 2022-11-12 |
 | [Perreito](https://open.spotify.com/track/5LsUdPeqmKVGlPJre2sIRt) | [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [Perreito](https://open.spotify.com/album/2h75BdwB5z9ueXOV37Af4d) | 2:01 | 2021-12-30 | 2022-07-28 |
 | [Perreito](https://open.spotify.com/track/5ecJFbbgmywVJkqGQIfcuo) | [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [Normal](https://open.spotify.com/album/5Qkxw86wtQYlK2dEjTJcSP) | 2:03 | 2022-06-02 | 2022-11-11 |
 | [Poblado](https://open.spotify.com/track/47gSYfwFBbV1BXHfXEq1qs) | [Crissin](https://open.spotify.com/artist/6VOoiigTiLVgsMQPP1JOdC), [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z), [Natan & Shander](https://open.spotify.com/artist/5OBK3iQwjNQqElPmn4TgAE) | [Poblado](https://open.spotify.com/album/7ijhdFeH6XcWG3DRC82uOR) | 3:21 | 2022-06-02 |  |
@@ -124,6 +124,7 @@
 | [SEJODIOTO](https://open.spotify.com/track/704LUEih663hiE3CnyUrFW) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [SEJODIOTO](https://open.spotify.com/album/3NRAio2j75NpNvs8KcIgtc) | 3:01 | 2021-12-30 |  |
 | [Sensual Bebé](https://open.spotify.com/track/1xqbfjRuUw0ot43wgBuVkt) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Sensual Bebé](https://open.spotify.com/album/2k3Qqrw8oQT3lq4XPe1xWC) | 3:29 | 2022-05-10 |  |
 | [Si No Le Contesto](https://open.spotify.com/track/3XaWuYsTtnkzCSBr0RmROc) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House Of Pleasure](https://open.spotify.com/album/3WEwS5DLsagnqQtHP2oEEu) | 3:40 | 2021-12-30 |  |
+| [Si No Le Contesto](https://open.spotify.com/track/560GL9Y8gDtKPRIJ41oA3c) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House Of Pleasure](https://open.spotify.com/album/0qmyud8qe8LqaVQ1YQ7S5G) | 3:40 | 2022-06-02 |  |
 | [Si No Le Contesto](https://open.spotify.com/track/6YyPA4dxemw23eGon3CjFX) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House of Pleasure](https://open.spotify.com/album/5uja4ElM6i6neeFTAa4Itw) | 3:40 | 2021-12-30 | 2022-07-29 |
 | [Sigue](https://open.spotify.com/track/0bBd6K5X4W7t9GyXcaVOA7) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Sigue/Forever My Love](https://open.spotify.com/album/5umofLk634QVTKYtt2Deoy) | 2:39 | 2022-04-06 | 2022-08-05 |
 | [Sin Pijama](https://open.spotify.com/track/62vDrkBEyJYEOFj1ScBqM7) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [MALA SANTA](https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X) | 3:10 | 2021-12-30 |  |

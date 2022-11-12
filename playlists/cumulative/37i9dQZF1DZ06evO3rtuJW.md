@@ -4,12 +4,13 @@
 
 > This is G Herbo\. The essential tracks, all in one playlist.
 
-54 songs - 2 hr 39 min - not published yet
+55 songs - 2 hr 42 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1 Scale \(feat\. G Herbo\)](https://open.spotify.com/track/5gmkw2031VVIboYqPIjSWB) | [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Rich Slave](https://open.spotify.com/album/5LURLNXIyqBHpe5vvRTKHY) | 2:56 | 2022-10-28 |  |
 | [2 Chains](https://open.spotify.com/track/6zpoUJVDLVTDGOqGM356Iq) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [25](https://open.spotify.com/album/7AvdSuKYkwzJA8upKuW6zz) | 4:04 | 2022-10-28 |  |
+| [Add It Up](https://open.spotify.com/track/3m1l2YNu0yhHFcmLFQUHmA) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Add It Up](https://open.spotify.com/album/1UbM213ebd3VhTEDVhoaN7) | 2:49 | 2022-11-11 |  |
 | [All That \(with Kodak Black\)](https://open.spotify.com/track/4pE1289TEn8kZ87N08lPOp) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Survivor's Remorse: A Side & B Side](https://open.spotify.com/album/7i1M24FtpfeRmaztP15sDU) | 1:49 | 2022-10-28 |  |
 | [Aye \(feat\. Offset\)](https://open.spotify.com/track/3O0W0PorDwqsEuZRl7A9Pi) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Survivor’s Remorse: A Side](https://open.spotify.com/album/11KPzNJd5GlFhb1R11cZVr) | 2:11 | 2022-10-28 |  |
 | [Being Honest \(Remix\) \[feat\. G Herbo\]](https://open.spotify.com/track/2344qwORd0Q3bZhwssd2mw) | [Kay Flock](https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [The D.O.A\. Tape](https://open.spotify.com/album/5DMfgmlbRD0HeUi5QQgOAD) | 2:33 | 2022-10-28 |  |
@@ -52,7 +53,7 @@
 | [Shaderoom](https://open.spotify.com/track/56VdUlGYjJOeHd4FPZoutA) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Survivor’s Remorse: A Side](https://open.spotify.com/album/11KPzNJd5GlFhb1R11cZVr) | 2:33 | 2022-10-28 |  |
 | [Shordie \(with Gunna\)](https://open.spotify.com/track/6H6ZtVp6DymejLOJLdRzOI) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Survivor’s Remorse: A Side](https://open.spotify.com/album/11KPzNJd5GlFhb1R11cZVr) | 2:56 | 2022-10-28 |  |
 | [Sleepless Nights](https://open.spotify.com/track/4XR8LZWfJkrXJOS8zaC5DA) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Survivor's Remorse: A Side & B Side](https://open.spotify.com/album/7i1M24FtpfeRmaztP15sDU) | 2:18 | 2022-10-28 |  |
-| [Statement](https://open.spotify.com/track/79lRUyyy0iwWRkbFFNJ95S) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Statement](https://open.spotify.com/album/5VAilvKAeXaLbgfQAFIDeQ) | 2:20 | 2022-10-28 |  |
+| [Statement](https://open.spotify.com/track/79lRUyyy0iwWRkbFFNJ95S) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Statement](https://open.spotify.com/album/5VAilvKAeXaLbgfQAFIDeQ) | 2:20 | 2022-10-28 | 2022-11-12 |
 | [Stress Relief \(with G Herbo\)](https://open.spotify.com/track/3furL4HLywxNWxxfTB7wVJ) | [Ann Marie](https://open.spotify.com/artist/3feB1IF85It42sebtWSqws), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Stress Relief \(with G Herbo\)](https://open.spotify.com/album/6AGBXSBIDKCAuRYZIXOBMi) | 2:40 | 2022-10-28 |  |
 | [Survivor's Outro](https://open.spotify.com/track/4XFHwsNr0CwsVLc7DLIGpX) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Survivor’s Remorse: A Side](https://open.spotify.com/album/11KPzNJd5GlFhb1R11cZVr) | 2:50 | 2022-10-28 |  |
 | [Switch it Up \(feat\. G Herbo, No More Heroes\)](https://open.spotify.com/track/06BY7fb0Ztz7f7JPRWSBZ3) | [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [No More Heroes](https://open.spotify.com/artist/6TsHQClbheVZTyc97g5Nc4) | [Shiesty Season \- Spring Deluxe](https://open.spotify.com/album/4Dn7V8EU84yPMe03MsefyU) | 2:48 | 2022-10-28 |  |

@@ -4,7 +4,7 @@
 
 > The best in recent hits from your favorite  Contemporary Christian artists all in one list\.  Sit back and let it play!  Cover: Matt Maher
 
-74 songs - 5 hr 1 min - [published](https://open.spotify.com/playlist/6UlnaOvHAY0IrDbgMqwgig)
+75 songs - 5 hr 9 min - [published](https://open.spotify.com/playlist/6UlnaOvHAY0IrDbgMqwgig)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,8 @@
 | [Only King Forever](https://open.spotify.com/track/64pS588WuEzMEctlYNdTsa) | [7eventh Time Down](https://open.spotify.com/artist/15JWT0b1GY8dOBjVtrHaca) | [Only King Forever](https://open.spotify.com/album/48vPnokpAsWSjfaMPudtbI) | 3:14 | 2018-04-30 | 2022-07-29 |
 | [Only King Forever \- Radio Edit](https://open.spotify.com/track/4HDYbkvdaLwVX2xFHicNsr) | [7eventh Time Down](https://open.spotify.com/artist/15JWT0b1GY8dOBjVtrHaca) | [Only King Forever \(Radio Edit\)](https://open.spotify.com/album/0rjYP0Y2vzChSAtvrc55se) | 3:14 | 2018-04-30 |  |
 | [Peace Be Still \(feat\. Lauren Daigle\)](https://open.spotify.com/track/6zvSkAEtFZIJD7kVeo5by4) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [All The Earth](https://open.spotify.com/album/6AmRmySvr449vMyF5Eq7ty) | 8:06 | 2018-04-30 | 2022-07-29 |
-| [Peace Be Still \- Live](https://open.spotify.com/track/3QgqMVZdqHdY8e7r7IUBww) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [All The Earth \(Live\)](https://open.spotify.com/album/00T7ckfhNb4TdXDAPCSr0h) | 8:06 | 2018-04-30 |  |
+| [Peace Be Still \- Live](https://open.spotify.com/track/3QgqMVZdqHdY8e7r7IUBww) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [All The Earth \(Live\)](https://open.spotify.com/album/00T7ckfhNb4TdXDAPCSr0h) | 8:06 | 2018-04-30 | 2022-11-12 |
+| [Peace Be Still \- Live](https://open.spotify.com/track/69bvCzXZFU3TTeAVs4qjyB) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Peaceful Christian Music](https://open.spotify.com/album/4s3KvYfOpHrxZmMwxs1CwY) | 8:06 | 2018-04-30 |  |
 | [Point To You](https://open.spotify.com/track/4LL2V5dDbSfgwCSMlkW13e) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd) | [We Are Messengers](https://open.spotify.com/album/2SMUGFTP3NPh8eVDmUNDiL) | 4:01 | 2018-04-30 |  |
 | [Priceless](https://open.spotify.com/track/7BTmtN6bP35E54vVASTqao) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [RUN WILD\. LIVE FREE\. LOVE STRONG\. \(Deluxe Anniversary Edition\)](https://open.spotify.com/album/3JgsuH1i4ddVP4Ke5zf87I) | 3:28 | 2018-04-30 |  |
 | [Real Love](https://open.spotify.com/track/4la4a8jNTsnVKKmQAzPPPU) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO) | [Real Love](https://open.spotify.com/album/7rWe7veYh3Nrirj5kP0iZf) | 3:52 | 2018-04-30 | 2022-07-29 |

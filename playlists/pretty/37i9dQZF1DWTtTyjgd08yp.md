@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtTyjgd08yp.md) - [plain]
 
 > Hauntingly atmospheric, deeply melodic indie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,133,902 likes - 105 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,134,157 likes - 105 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Wasting My Young Years](https://open.spotify.com/track/3elOzp9X3B8vMGhJBWzbIF) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [If You Wait](https://open.spotify.com/album/2J4dwQHk8EZKPKGhM1EzOU) | 3:24 |
-| 2 | [Riverside](https://open.spotify.com/track/4vJ2nNBA6sxAUN5kLGPq3Q) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Philharmonics](https://open.spotify.com/album/1hOKjrormSHpyOw0BREwEx) | 3:48 |
+| 2 | [Riverside](https://open.spotify.com/track/7idJS1YOV1eABaJE8iQsEK) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Philharmonics \(Deluxe Edition\)](https://open.spotify.com/album/3Mj2AdZblvorS19tdG95hZ) | 3:48 |
 | 3 | [The Night We Met](https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS) | 3:28 |
 | 4 | [Punisher](https://open.spotify.com/track/5LJ4ig9cMvjui3li1mrNRl) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 3:09 |
 | 5 | [Goodbye \(with Soap & Skin\)](https://open.spotify.com/track/6BJXuY0lY0EUtSDCgkYnqE) | [Apparat](https://open.spotify.com/artist/40Ojab0UtVQFjA76qXr8Ot), [Soap&Skin](https://open.spotify.com/artist/2mAYpnSe3g2Y22JcZ2ddku) | [The Devil's Walk](https://open.spotify.com/album/5EHvg6pPmS7wBzcCjXZIs3) | 4:29 |
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtTyjgd08yp.md) - [plain]
 | 13 | [Atlantis](https://open.spotify.com/track/4Lp2SmcFyyMiWzfsDV2Qzh) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [A Pillar of Salt](https://open.spotify.com/album/6hlXrXeAAxPOZ4y5lonxiQ) | 5:19 |
 | 14 | [And You Evade Him/Born in the Blood](https://open.spotify.com/track/7I52zUiDzsxN7ZHKEc3Ope) | [Joshua Burnside](https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV) | [Into the Depths of Hell](https://open.spotify.com/album/7BMZsEBUvcUTxTjnhXbl9c) | 4:57 |
 | 15 | [I'm Numbers](https://open.spotify.com/track/7f0uNrORwVzUbZx51ME5GK) | [Emily Wells](https://open.spotify.com/artist/0tKasOjdZBjHJCMsalvvjb) | [I'm Numbers](https://open.spotify.com/album/1UUO0letGwvMUawT2wo3Yw) | 4:37 |
-| 16 | [Smother](https://open.spotify.com/track/2Fa5PjvjXH1qKWI0umk4oY) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [If You Leave](https://open.spotify.com/album/2jI09gnkDzKp6EQg9VvnGM) | 4:00 |
+| 16 | [Smother](https://open.spotify.com/track/4UWXRnzwWzH0F46D2cLOzG) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [Smother](https://open.spotify.com/album/6sSjgyWUWZLmZSAAKZLcwL) | 4:00 |
 | 17 | [B a noBody](https://open.spotify.com/track/6EvhnOG0xTusXUVmsib8AA) | [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [B a noBody](https://open.spotify.com/album/70IEO12UbClHTroXG1VKx5) | 4:48 |
 | 18 | [Sane](https://open.spotify.com/track/7fW3FdTNVNe5PixRIEQ6Pc) | [Fear of Men](https://open.spotify.com/artist/0CRpYpI1sFle7hwVWdLOEd) | [Fall Forever](https://open.spotify.com/album/7hPVqeniaW7KBITPBam9If) | 4:42 |
 | 19 | [Hymnal](https://open.spotify.com/track/4dSi4VGaDAeknj8E5Q30ZP) | [In The Valley Below](https://open.spotify.com/artist/4WQXRya5np83C21wifjNp9) | [The Belt](https://open.spotify.com/album/4ViGmclVTvJiBYMvPFeXbZ) | 4:26 |
@@ -39,14 +39,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtTyjgd08yp.md) - [plain]
 | 29 | [damn](https://open.spotify.com/track/5mgWktGBliaIdAaBtZ8ff3) | [Ada Lea](https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy) | [one hand on the steering wheel the other sewing a garden](https://open.spotify.com/album/0ulrUoMnkAdxqX80c0dkfF) | 4:21 |
 | 30 | [Woodstock](https://open.spotify.com/track/0V6RQwkV91uZgXE86wq5fw) | [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [Woodstock / Green Altar](https://open.spotify.com/album/42kdrZO7qdmQKvoBXXzWwL) | 4:33 |
 | 31 | [Lost It All](https://open.spotify.com/track/0HrhMgGtRk6wOxUUCqvf4i) | [Jill Andrews](https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc) | [Lost It All](https://open.spotify.com/album/26TDhagwH7yap92e04ObFu) | 3:43 |
-| 32 | [Toronto](https://open.spotify.com/track/5UdYQovSJqzvExosGyX2Ss) | [Tusks](https://open.spotify.com/artist/2JexLbBGkh1FnSWF1uoehP) | [Dissolve](https://open.spotify.com/album/343TgZDe4XHXNBNO1RWiT6) | 3:19 |
+| 32 | [Toronto](https://open.spotify.com/track/3NS9B2TU1iFAMNjMBJNGSX) | [Tusks](https://open.spotify.com/artist/2JexLbBGkh1FnSWF1uoehP) | [Toronto](https://open.spotify.com/album/5tUZyUSA53FpV0BGsAlDIT) | 3:19 |
 | 33 | [The System Only Dreams in Total Darkness](https://open.spotify.com/track/612R6rJlv9N3wpljUpT8Ja) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Sleep Well Beast](https://open.spotify.com/album/2lsM7Py65EOtlq8BgwkXCS) | 3:56 |
 | 34 | [You Seemed So Happy](https://open.spotify.com/track/1fxrGkcm5HpYJZjn41RYkl) | [Faith & Majesty](https://open.spotify.com/artist/1YFMpE8dlGTiQWO7lyTvqr) | [You Seemed So Happy](https://open.spotify.com/album/6yzrDly2qhaVFOO66SYgGI) | 4:03 |
 | 35 | [In Dreams](https://open.spotify.com/track/6yPuQr6vjZ7tJ4oq1PEXle) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [I Forget Where We Were](https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF) | 3:33 |
 | 36 | [Drifting on a Summer's Night](https://open.spotify.com/track/3e3X9Tzj7gHczvldaW4x3u) | [The Deep Dark Woods](https://open.spotify.com/artist/4ug92W02N1YsgX0t5wuXSl) | [Yarrow](https://open.spotify.com/album/7eQA5w0dxrdbTUPjh6L8cH) | 2:54 |
-| 37 | [Killer + The Sound](https://open.spotify.com/track/00fRUfon3pr861IKiG03kA) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi), [Abby Gundersen](https://open.spotify.com/artist/5BlKoQLYxv24MSV5AD6i6q) | [Killer + The Sound](https://open.spotify.com/album/0YkXSjRA7Zim0xIuZ26CRs) | 7:55 |
+| 37 | [Killer + The Sound](https://open.spotify.com/track/00fRUfon3pr861IKiG03kA) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Abby Gundersen](https://open.spotify.com/artist/5BlKoQLYxv24MSV5AD6i6q), [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi) | [Killer + The Sound](https://open.spotify.com/album/0YkXSjRA7Zim0xIuZ26CRs) | 7:55 |
 | 38 | [Glory](https://open.spotify.com/track/5rMea4Gu5db0qb1c6TfGIh) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Doves & Ravens](https://open.spotify.com/album/64KvdiGpqwb0Lu1Zn4AcSf) | 3:42 |
-| 39 | [Don't Know Why](https://open.spotify.com/track/1ukvyO3hy4NQ59MTPOOWFz) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [Heaven, Wait](https://open.spotify.com/album/5kQwGFGp61L6iYlk8tgHCS) | 3:09 |
+| 39 | [Don't Know Why](https://open.spotify.com/track/0UJNHaZIuRHVlc5fKtav0z) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [Don't Know Why](https://open.spotify.com/album/0VNovm8OBZjtfjqC4iUPLO) | 3:09 |
 | 40 | [Swell](https://open.spotify.com/track/4zr2ewFFA1mS5nAzeYAoEp) | [Twin Caverns](https://open.spotify.com/artist/58B535wBcC3ua5A6a6tOCa) | [Glass Balloon](https://open.spotify.com/album/78ZJZblAEgZYy44OsT9xN8) | 4:03 |
 | 41 | [O I Long to Feel Your Arms Around Me](https://open.spotify.com/track/0rGB4l2BHJhL4C1s8w6jZG) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Fear Fun](https://open.spotify.com/album/2CXVonfqGwTQu8dgr2qkNS) | 2:23 |
 | 42 | [Human](https://open.spotify.com/track/0QRAEHSbKFHELqFFxevgYE) | [Alexa Rose](https://open.spotify.com/artist/7hVRBYGVXutdWChnzb92Jb) | [Headwaters](https://open.spotify.com/album/6u5YquFfQ1mmq2e4G9utZo) | 4:08 |
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtTyjgd08yp.md) - [plain]
 | 87 | [Every Man Is a Warrior](https://open.spotify.com/track/1s7UcC1RY8w1DJMry3ETYD) | [Lena Fayre](https://open.spotify.com/artist/2d59Uv1mu7Cc8EKdgeVGWQ) | [Oko](https://open.spotify.com/album/5OPKOFs2I80ODdmHjXmD89) | 3:16 |
 | 88 | [Depraved](https://open.spotify.com/track/0V1YLLguekkTID9Jd89ww2) | [Mammals](https://open.spotify.com/artist/2uFH2L4YKTo0fFZT67bkx3) | [Animalia](https://open.spotify.com/album/7E90fKPdXwRGjvaiEQU6m2) | 3:53 |
 | 89 | [Until the Levee](https://open.spotify.com/track/5BkUllQfBPaotKuoxosECg) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Until the Levee](https://open.spotify.com/album/1EZOlexYcDKwtR8YbU4tWE) | 2:40 |
-| 90 | [Night Shift](https://open.spotify.com/track/1yYlpGuBiRRf33e1gY61bN) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Historian](https://open.spotify.com/album/0LqhbUfmHsxovfSirhEIGu) | 6:31 |
+| 90 | [Night Shift](https://open.spotify.com/track/6414jxyYquBi9sqmufnT0A) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Night Shift](https://open.spotify.com/album/0YmdEL8VCkLkUFwKHJd6Eg) | 6:31 |
 | 91 | [Hunger of the Pine](https://open.spotify.com/track/57gf8TTzlk1BE5R4C7gfz6) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [Hunger of the Pine](https://open.spotify.com/album/3DtuLo5Z9bQRaPv2qIBxXW) | 4:58 |
 | 92 | [Beautiful Undone](https://open.spotify.com/track/3v8V9sj0bGB4xNtAWvdyNO) | [Laura Doggett](https://open.spotify.com/artist/2lFvv8FA5ersMzaJyvmeae) | [Into the Glass \- EP](https://open.spotify.com/album/5ZH8smBHtaFy4NLDAOW7of) | 3:23 |
 | 93 | [Coming of Age \(demo\)](https://open.spotify.com/track/03HonCy9ZfHnYmc7NzFTLN) | [Maddie Medley](https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3) | [Coming of Age \(demo\)](https://open.spotify.com/album/4qutgZBLGeXDmNOu67mUQz) | 4:11 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtTyjgd08yp.md) - [plain]
 | 104 | [Through a Glass \(Quartet Version\)](https://open.spotify.com/track/5WtvoPeSpp6pIp9bG6arVS) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [The Wilds Quartets](https://open.spotify.com/album/3UAvR6CXIWN1rChkxlZ1OM) | 3:53 |
 | 105 | [Walk Through the Fire](https://open.spotify.com/track/7isJy30YmISuhHwgz5dRDa) | [Zayde Wølf](https://open.spotify.com/artist/7LIy7KinYq7a83dUH6kvxT), [Ruelle](https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx) | [Golden Age](https://open.spotify.com/album/7FMlFMWvVuAtEVmKNbh1Uh) | 3:36 |
 
-Snapshot ID: `MTYzOTE1MjQ3NywwMDAwMDAwMGFkMjY3ZjU5MjQzYmEwNTM2OGQwMjBlYTU5OTVmYTMx`
+Snapshot ID: `MTYzOTE1MjQ3NywwMDAwMDAwMDJjNTUyZmIyMzBkYTkwMmQ3NDRjNzhkYTg2MWEzNTli`

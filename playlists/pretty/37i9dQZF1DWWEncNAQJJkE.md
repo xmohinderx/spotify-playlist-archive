@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWEncNAQJJkE.md) - [plain]
 
 > Our editorial picks for Hip\-Hop’s best of 2021 in Canada\. Cover: Belly
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,829 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,834 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWEncNAQJJkE.md) - [plain]
 | 51 | [p r i d e \. i s \. t h e \. d e v i l \(with Lil Baby\)](https://open.spotify.com/track/5W8jRrZ6tWrTrqnKRtIQBf) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 3:38 |
 | 52 | [Shoot My Shot](https://open.spotify.com/track/1XKTvkeaZy5gueNNZYL7rE) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [USEE4YOURSELF](https://open.spotify.com/album/0kV11arRXMzRqhv2SnXclk) | 2:52 |
 | 53 | [late at night](https://open.spotify.com/track/1fxYz1s15pyZLsJT0Hdh1m) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [late at night](https://open.spotify.com/album/2WFC0XUBROo4X2vxLwtB4u) | 2:54 |
-| 54 | [Throw That Back](https://open.spotify.com/track/4mif9yUYz1Ug95ViwFf70c) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt) | [Head Above the Waters](https://open.spotify.com/album/7KhkoeMNagRr4PqRYudCet) | 3:07 |
+| 54 | [Throw That Back](https://open.spotify.com/track/4YxyuKLaXvTAaYOLeMK3j1) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt) | [Throw That Back](https://open.spotify.com/album/4r50cfxbge0RsESG3zQxpj) | 3:07 |
 | 55 | [New Tooth](https://open.spotify.com/track/2cyD0OE6HQwSk2nmDcQx1O) | [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [New Tooth](https://open.spotify.com/album/10yiYbL1xMtPpEfDvwHCej) | 3:40 |
 | 56 | [Headshots \(4r Da Locals\)](https://open.spotify.com/track/0xta6Gah3inmeHbj0e3F9a) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM) | [The House Is Burning](https://open.spotify.com/album/6TQ8nqw43uUOWu7Yqp58ko) | 3:13 |
 | 57 | [What’s Next](https://open.spotify.com/track/3aQem4jVGdhtg116TmJnHz) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Scary Hours 2](https://open.spotify.com/album/5LuoozUhs2pl3glZeAJl89) | 2:58 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWEncNAQJJkE.md) - [plain]
 | 99 | [Not Like You](https://open.spotify.com/track/2HLQeFGlRplpeMmHWBbpx5) | [Merkules](https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg), [Hopsin](https://open.spotify.com/artist/7EWU4FhUJM1sZQgQKdENeT) | [Not Like You](https://open.spotify.com/album/6LRUE6Wi6z7tvcc2NsybJ1) | 3:10 |
 | 100 | [Super](https://open.spotify.com/track/7EfNYbF2dhLianIfDSnhHS) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Locked In](https://open.spotify.com/album/3wwjsAWTsiMXwdlNOArJj7) | 2:57 |
 
-Snapshot ID: `MTY0MDIxNzUyMSwwMDAwMDAwMDI5NjBlNjg2M2ViZGI4YTA1Yzc0ODZkNzE1ZWY4NGUx`
+Snapshot ID: `MTY0MDIxNzUyMSwwMDAwMDAwMDJmMmU2MjhjNjE0ZDhjMzg2ZDU2OGZiNTM0MWQ2MTQ0`

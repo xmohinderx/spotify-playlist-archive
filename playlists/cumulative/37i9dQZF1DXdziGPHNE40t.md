@@ -4,11 +4,12 @@
 
 > Start your day right and wake up with some calm and cool Jazz.
 
-200 songs - 12 hr 42 min - [published](https://open.spotify.com/playlist/39dwJkALAgqseR1XSFerIE)
+201 songs - 12 hr 44 min - [published](https://open.spotify.com/playlist/39dwJkALAgqseR1XSFerIE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Better Place](https://open.spotify.com/track/6ZDLHi8UtQeT203JjiQU6N) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx) | [A Better Place](https://open.spotify.com/album/5kIBKvyTDfkVFeL3INbvBZ) | 2:13 | 2022-06-28 |  |
+| [A Better Place](https://open.spotify.com/track/6ZDLHi8UtQeT203JjiQU6N) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx) | [A Better Place](https://open.spotify.com/album/5kIBKvyTDfkVFeL3INbvBZ) | 2:13 | 2022-06-28 | 2022-11-12 |
+| [A Better Place](https://open.spotify.com/track/7JfORZg3Tvn0YyDZCiGhMU) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx) | [A Better Place](https://open.spotify.com/album/0BIRayldwphnBlwreGKihM) | 2:13 | 2022-11-10 |  |
 | [A Better Place](https://open.spotify.com/track/38XEHVGy4xCfeaBNKjJOTY) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx), [Niklas Fernqvist](https://open.spotify.com/artist/0RwUWenfKob2FP0P4V5pJS), [Rasmus Svensson Blixt](https://open.spotify.com/artist/7KYea3HNjnreWiEJWn3CkI) | [A Better Place](https://open.spotify.com/album/69jewLma1l3nUoR9FR6yCk) | 2:13 | 2022-05-17 | 2022-07-29 |
 | [A Future With You](https://open.spotify.com/track/0iIxcgkANZfp1Mk4Es1OUw) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [A Future With You](https://open.spotify.com/album/6BQydkNHQgsSwEhsFm1YUf) | 3:05 | 2022-09-13 |  |
 | [A Gentle Reminder](https://open.spotify.com/track/2pwKVc1O6cUQZRXIJ74Lh6) | [Rainy Days Trio](https://open.spotify.com/artist/0ZiJ1fWX1eDMn7PA74GdLN) | [Lonesome Road](https://open.spotify.com/album/7hNrGtYQcUXkuBw4KPWu5C) | 3:29 | 2022-05-31 |  |

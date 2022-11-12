@@ -4,7 +4,7 @@
 
 > Cold beer\. Hot wings\. Great rock.
 
-163 songs - 10 hr 20 min - [published](https://open.spotify.com/playlist/3dZKmsHFqarBZK5PhR0m0r)
+166 songs - 10 hr 33 min - [published](https://open.spotify.com/playlist/3dZKmsHFqarBZK5PhR0m0r)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [Black Holes \(Solid Ground\)](https://open.spotify.com/track/3X4YuIXeQo5kf34mM0gtju) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [Black Holes Demos](https://open.spotify.com/album/3joUkppKWBZqJvRnF5YGCR) | 3:03 | 2020-05-15 | 2022-06-18 |
 | [Black Summer](https://open.spotify.com/track/3a94TbZOxhkI9xuNwYL53b) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Black Summer](https://open.spotify.com/album/4a6LkeTXHKjMQgf42wQnbH) | 3:52 | 2022-02-04 |  |
 | [Bright Lights](https://open.spotify.com/track/2NTDt9Fiqp5wTBM6cLO6Bu) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Blak and Blu](https://open.spotify.com/album/0YCTY6KpkPWp2etKx9ZNyM) | 5:24 | 2020-05-15 | 2022-07-29 |
-| [Bright Lights](https://open.spotify.com/track/7aO35V27YDi4hKOL9odSya) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Blak and Blu \(Deluxe Edition\)](https://open.spotify.com/album/0YaeFHEYGpdzdFIxDRFvCv) | 5:24 | 2022-06-17 |  |
+| [Bright Lights](https://open.spotify.com/track/5HDMKAgLEPOEazIXo6YavF) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Rock's Not Dead](https://open.spotify.com/album/09ecrfUpZHKVXqm1ZZkBFV) | 5:24 | 2022-11-07 |  |
+| [Bright Lights](https://open.spotify.com/track/7aO35V27YDi4hKOL9odSya) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Blak and Blu \(Deluxe Edition\)](https://open.spotify.com/album/0YaeFHEYGpdzdFIxDRFvCv) | 5:24 | 2022-06-17 | 2022-11-12 |
 | [Bullet With Butterfly Wings](https://open.spotify.com/track/5zAaUaXEvjP4LApQOFpVfj) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [90s Best Hits](https://open.spotify.com/album/7a39rtr7TyCtzSnWRb3OIt) | 4:17 | 2022-11-07 |  |
 | [Bullet With Butterfly Wings \- Remastered 2012](https://open.spotify.com/track/4qMzPtAZe0C9KWpWIzvZAP) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Mellon Collie And The Infinite Sadness \(Remastered\)](https://open.spotify.com/album/4bPT6Q8ppaSNppk1kbEbLl) | 4:18 | 2020-05-15 | 2022-07-29 |
 | [Bullet With Butterfly Wings \- Remastered 2012](https://open.spotify.com/track/6GtX0jaNL8IjVQfrDBx81z) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Mellon Collie And The Infinite Sadness \(Deluxe Edition\)](https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV) | 4:18 | 2022-06-17 | 2022-11-11 |
@@ -65,10 +66,12 @@
 | [Give It Away](https://open.spotify.com/track/0uppYCG86ajpV2hSR3dJJ0) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Blood Sugar Sex Magik \(Deluxe Edition\)](https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg) | 4:42 | 2020-05-15 |  |
 | [Hard Working Man](https://open.spotify.com/track/2DaEFCMaprAH4vZmzQYaxc) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Hard Working Man](https://open.spotify.com/album/49kNMARqo9FtWJ8OFIGF7s) | 3:37 | 2022-05-06 |  |
 | [Hey Gringo](https://open.spotify.com/track/4aPeeN8IYOCMNBGI0p7169) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Surface Sounds](https://open.spotify.com/album/1ZuNUNl8jvYmW4w1lR2CW3) | 4:44 | 2022-05-06 |  |
-| [Highway Tune](https://open.spotify.com/track/7aOor99o8NNLZYElOXlBG1) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [From The Fires](https://open.spotify.com/album/6uSnHSIBGKUiW1uKQLYZ7w) | 3:00 | 2022-06-17 |  |
+| [Highway Tune](https://open.spotify.com/track/0GkKtO9yXrnV2WYlP93lwq) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [This Is Rock Music](https://open.spotify.com/album/6ylXupauSn6vzijMaGc5kK) | 3:00 | 2022-11-07 |  |
+| [Highway Tune](https://open.spotify.com/track/7aOor99o8NNLZYElOXlBG1) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [From The Fires](https://open.spotify.com/album/6uSnHSIBGKUiW1uKQLYZ7w) | 3:00 | 2022-06-17 | 2022-11-12 |
 | [Highway Tune](https://open.spotify.com/track/7JuD5r43XpRLSrUBRBQ7Dy) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Black Smoke Rising](https://open.spotify.com/album/23lA1QsNgeWOsMy0OlFRWC) | 3:01 | 2020-05-15 | 2022-07-29 |
 | [hometown](https://open.spotify.com/track/3RqsmDeM6I4A9D3crErhaq) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [the boys](https://open.spotify.com/album/3YLIa2HCjlMNgLFHqHwgor) | 4:16 | 2020-05-15 | 2022-07-29 |
-| [hometown](https://open.spotify.com/track/6p8DGrcAUBuLUgDIKcUn0P) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [hometown](https://open.spotify.com/album/3vYwarsz5qWMYHL3B9b5ni) | 4:16 | 2022-06-17 |  |
+| [hometown](https://open.spotify.com/track/66fqQMyrd72d6MOP1X0VcY) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [the boys](https://open.spotify.com/album/7fnpUcZ2WQa8fZpp5iCbTo) | 4:16 | 2022-11-07 |  |
+| [hometown](https://open.spotify.com/track/6p8DGrcAUBuLUgDIKcUn0P) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [hometown](https://open.spotify.com/album/3vYwarsz5qWMYHL3B9b5ni) | 4:16 | 2022-06-17 | 2022-11-12 |
 | [How High](https://open.spotify.com/track/0UqNIatgH3yQrJwqajOM2G) | [The Record Company](https://open.spotify.com/artist/6vYg01ZFt1nREsUDMDPUYX) | [Play Loud](https://open.spotify.com/album/4OAf7UEfzLBKjnoWIFkALk) | 3:12 | 2021-12-09 |  |
 | [Howlin' for You](https://open.spotify.com/track/0grFc6klR3hxoHLcgCYsF4) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers](https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v) | 3:11 | 2022-06-17 |  |
 | [Howlin' For You](https://open.spotify.com/track/5jdvRj8zXHJ7XpKsBKT9CZ) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers \(Deluxe Edition\)](https://open.spotify.com/album/0gVxPZ2tcMgyzLxyw8k1z7) | 3:11 | 2020-05-15 | 2022-07-29 |

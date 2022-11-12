@@ -4,7 +4,7 @@
 
 > chill vibes ♡
 
-54 songs - 2 hr 52 min - not published yet
+55 songs - 2 hr 56 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Kaerou](https://open.spotify.com/track/26e8ujjSpBAHhIY2ymLUT1) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT NEVER](https://open.spotify.com/album/1OojCidx0eoPKch2M0Kz31) | 4:44 | 2022-10-19 |  |
 | [Living Hell](https://open.spotify.com/track/6bTbMMEShyGyrcuIwtBlpA) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Dolls EP](https://open.spotify.com/album/4W8QhTVggLgkJLdsXLLnnz) | 2:54 | 2022-10-19 |  |
 | [Make Me Wanna](https://open.spotify.com/track/7KDTidXitqxwRz6UhfWXsB) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [Make Me Wanna](https://open.spotify.com/album/12M4YKGroXOTB1VWY8jhtj) | 2:54 | 2022-10-19 |  |
-| [Matsuri](https://open.spotify.com/track/7AMGgAPFczs3wJgMqu6Eqi) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [LOVE ALL SERVE ALL](https://open.spotify.com/album/7Ip9X7pnkhJ4cwDoBnvneD) | 3:45 | 2022-10-19 |  |
+| [Matsuri](https://open.spotify.com/track/7AMGgAPFczs3wJgMqu6Eqi) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [LOVE ALL SERVE ALL](https://open.spotify.com/album/7Ip9X7pnkhJ4cwDoBnvneD) | 3:45 | 2022-10-19 | 2022-11-12 |
 | [Maybe My Soulmate Died](https://open.spotify.com/track/7N1bEUVuQo8HHuikDgJ10c) | [iamnotshane](https://open.spotify.com/artist/3jN7f9X0EmFnsbRS6nl6as) | [Maybe My Soulmate Died](https://open.spotify.com/album/0sCKHcwHvwtLYuaBNfE6BL) | 1:54 | 2022-10-19 |  |
 | [MILLI](https://open.spotify.com/track/4mMZANpFSbc19Ts4DpL763) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) | 2:15 | 2022-10-19 |  |
 | [Mon amour](https://open.spotify.com/track/51qEQn9uKebFs2H4gqv5xe) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [Multitude](https://open.spotify.com/album/6EwTLRHMROD853Kv1lAMex) | 2:52 | 2022-10-19 |  |
@@ -61,6 +61,7 @@
 | [waves \- Tame Impala Remix](https://open.spotify.com/track/3lB0GMiI5KxDbTOG8V3bOx) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Rogue Waves](https://open.spotify.com/album/4sJXyIfwduIWFISb4iCq2f) | 4:13 | 2022-10-19 |  |
 | [West Coast Love](https://open.spotify.com/track/4NFD9ea0uH0MtoC30yNYE1) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [The Juice: Vol\. II](https://open.spotify.com/album/6q8BNcH6wkWwWC0fGoJwkS) | 3:35 | 2022-10-19 |  |
 | [You Gon See](https://open.spotify.com/track/5AgEcZfVERBtZHmVaggf0e) | [Kabwasa](https://open.spotify.com/artist/4n3BiuRU79B4qPqiqsnhQ4) | [Maiden Flight](https://open.spotify.com/album/13hltyrCYNTjy2XpsrltIE) | 2:05 | 2022-10-19 |  |
+| [まつり](https://open.spotify.com/track/14p77sSwVHKqBQXelzssn6) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [J\-Pop 輕旅行](https://open.spotify.com/album/5IIhYixVbYJmYBeZHD6JwK) | 3:45 | 2022-10-19 |  |
 | [まつり](https://open.spotify.com/track/3OdkC5pG8vc26S26qHyBo8) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [LOVE ALL SERVE ALL](https://open.spotify.com/album/6VJwkUQXD3DnqqUUaxqDzH) | 3:45 | 2022-10-19 | 2022-11-11 |
 
 \*This playlist was first scraped on 2022-10-20. Prior content cannot be recovered.

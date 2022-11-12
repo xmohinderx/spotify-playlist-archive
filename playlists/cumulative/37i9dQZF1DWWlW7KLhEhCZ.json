@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Lan\u00e7amentos e novos nomes do trap nacional. Foto: Chefin, Leviano",
+  "description": "Lan\u00e7amentos e novos nomes do trap nacional. Foto: MC Cebezinho, Mc Paiva ZS",
   "name": "Dose Trap",
   "published_playlist_ids": [
     "4OQp0dXIgEe6I8MlQwrCOG"
@@ -297,7 +297,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 156800,
       "name": "Al\u00e7ando Voo",
       "url": "https://open.spotify.com/track/2xkkVqTj9Kxh5xFuC4mdwq"
@@ -877,7 +877,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 191681,
       "name": "Backstage",
       "url": "https://open.spotify.com/track/007ZkaApfBX6MsI5zJpZ9f"
@@ -3172,6 +3172,58 @@
     },
     {
       "album": {
+        "name": "Em Busca da Meta",
+        "url": "https://open.spotify.com/album/4D4AiwQeVjeFNQ7cdSo74n"
+      },
+      "artists": [
+        {
+          "name": "SoudCrime",
+          "url": "https://open.spotify.com/artist/0Huu7Wxkay3mCaoMuVkRNg"
+        },
+        {
+          "name": "JR ON",
+          "url": "https://open.spotify.com/artist/6Z49It3vdzrqiSuu9dxeVA"
+        },
+        {
+          "name": "Cosminho Mc",
+          "url": "https://open.spotify.com/artist/1K3CO08wVfqOsPlsjTpl4V"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131188,
+      "name": "Em Busca da Meta",
+      "url": "https://open.spotify.com/track/6O3Zlb5TldB83Quah5Y1mh"
+    },
+    {
+      "album": {
+        "name": "Envolvido",
+        "url": "https://open.spotify.com/album/14fMVoFXwNx71Pj4Y5zNtx"
+      },
+      "artists": [
+        {
+          "name": "MC Cebezinho",
+          "url": "https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF"
+        },
+        {
+          "name": "Mc Paiva ZS",
+          "url": "https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5"
+        },
+        {
+          "name": "Oldilla",
+          "url": "https://open.spotify.com/artist/6sW5k31iA8sTy0i2goUKF9"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Envolvido",
+      "url": "https://open.spotify.com/track/48h4dsva3ihxdZ5rkB3IVX"
+    },
+    {
+      "album": {
         "name": "Espelho Meu",
         "url": "https://open.spotify.com/album/1mjgSHNATnRWSqO7YJ7P9k"
       },
@@ -3415,7 +3467,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 264849,
       "name": "Favela \u00c9 Lugar de Paz (feat. Krok & DJ Denilson o cl\u00ednico)",
       "url": "https://open.spotify.com/track/3b3EPQlSk0F5A9D0lVKitw"
@@ -3449,6 +3501,28 @@
       "duration_ms": 141333,
       "name": "Favelado Submundo",
       "url": "https://open.spotify.com/track/7CyLW5xojpNo8RHatkUkSD"
+    },
+    {
+      "album": {
+        "name": "DE CRIA PRA CRIA",
+        "url": "https://open.spotify.com/album/201Vl6NCeUaR2c4bnSxYad"
+      },
+      "artists": [
+        {
+          "name": "ABRONCA",
+          "url": "https://open.spotify.com/artist/03Bdw7o4orNeiIa0WHp4Fd"
+        },
+        {
+          "name": "CHF",
+          "url": "https://open.spotify.com/artist/1HNVz8Sg0CzK1um1QNB7qS"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205154,
+      "name": "FDFD (Fome de Fazer Dinheiro) / Dina Di",
+      "url": "https://open.spotify.com/track/16WTlblAlUEfxnSXvufsBR"
     },
     {
       "album": {
@@ -4581,7 +4655,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 155629,
       "name": "KWAI",
       "url": "https://open.spotify.com/track/1viAKoZWtR31lKe0fqMNQP"
@@ -4633,7 +4707,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 138305,
       "name": "Latam",
       "url": "https://open.spotify.com/track/1KPbtkm8RfXBBA8oZg0mzf"
@@ -4839,6 +4913,24 @@
       "duration_ms": 158672,
       "name": "Loopz",
       "url": "https://open.spotify.com/track/2mheIaHBWW040BPzf1bG0C"
+    },
+    {
+      "album": {
+        "name": "Louca Vida",
+        "url": "https://open.spotify.com/album/7lXt68iJTQQjMc6MdZEl1B"
+      },
+      "artists": [
+        {
+          "name": "Iago D'Jampa",
+          "url": "https://open.spotify.com/artist/2s08O29Q6WjbYgx8yFT2q6"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147169,
+      "name": "Louca Vida",
+      "url": "https://open.spotify.com/track/1ggxO7Jqm7IjlWntaFr1gh"
     },
     {
       "album": {
@@ -5843,7 +5935,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 130645,
       "name": "No Sigilo",
       "url": "https://open.spotify.com/track/4EEMIpLXQAUb2yWvG4RWfP"
@@ -7357,7 +7449,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 145882,
       "name": "Que Jeito N\u00e9",
       "url": "https://open.spotify.com/track/7ojFriFoVgUwEXqykF4nFa"
@@ -7906,6 +7998,32 @@
     },
     {
       "album": {
+        "name": "Sempre ao Levante",
+        "url": "https://open.spotify.com/album/5bR2Rm26xROd8g4Bc56AMN"
+      },
+      "artists": [
+        {
+          "name": "Furac\u00e3o 2000",
+          "url": "https://open.spotify.com/artist/22nkIVS7afh6A7hdd9Lze0"
+        },
+        {
+          "name": "MC Kalyba",
+          "url": "https://open.spotify.com/artist/46pRSg2LegIxamWJcohTfd"
+        },
+        {
+          "name": "3jan",
+          "url": "https://open.spotify.com/artist/2bUgBcnG1SzeZOUYJTewWw"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137770,
+      "name": "Sempre ao Levante",
+      "url": "https://open.spotify.com/track/37eU30Z3tMvobnGIri8zwO"
+    },
+    {
+      "album": {
         "name": "Senta",
         "url": "https://open.spotify.com/album/5AYk5IV25N14Qj4FUvxuYu"
       },
@@ -8073,6 +8191,24 @@
       "duration_ms": 167542,
       "name": "Sinal de Gang",
       "url": "https://open.spotify.com/track/6fAQBTsa792cNdfyYVhyjS"
+    },
+    {
+      "album": {
+        "name": "Sobe Desce",
+        "url": "https://open.spotify.com/album/35tPEgMqhqI9fnNKQbKNwx"
+      },
+      "artists": [
+        {
+          "name": "Sotam",
+          "url": "https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200191,
+      "name": "Sobe Desce",
+      "url": "https://open.spotify.com/track/4YgiUcXdg5QQlabdnGgpQe"
     },
     {
       "album": {
@@ -8744,6 +8880,32 @@
     },
     {
       "album": {
+        "name": "Tropa Toda",
+        "url": "https://open.spotify.com/album/4Ub5D6MmdgstYP5VsU9WX4"
+      },
+      "artists": [
+        {
+          "name": "Greg Ferreira",
+          "url": "https://open.spotify.com/artist/2e8RAcYXYt5IStoaaQWcG8"
+        },
+        {
+          "name": "DreamHou$e",
+          "url": "https://open.spotify.com/artist/6tWD8u5kp6Fab82ziFL3mH"
+        },
+        {
+          "name": "Portugal No Beat",
+          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Tropa Toda",
+      "url": "https://open.spotify.com/track/76IPiFK7N7FKP28sTrzY50"
+    },
+    {
+      "album": {
         "name": "Trupe Nordeste",
         "url": "https://open.spotify.com/album/1gYgr02HPKJX4wsOVlBGpT"
       },
@@ -8807,6 +8969,36 @@
       "duration_ms": 162426,
       "name": "Tudo Certo",
       "url": "https://open.spotify.com/track/4FXKfKXDfFaX540vpTHLlo"
+    },
+    {
+      "album": {
+        "name": "Tudo Que Voc\u00ea Quiser",
+        "url": "https://open.spotify.com/album/5cQTd6mSJUiCkHkgIT4X9q"
+      },
+      "artists": [
+        {
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+        },
+        {
+          "name": "Duarte D.A.T",
+          "url": "https://open.spotify.com/artist/0jxleHFjX2N8LxSDZ1vvlM"
+        },
+        {
+          "name": "Yumee",
+          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
+        },
+        {
+          "name": "JnrBeats",
+          "url": "https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Tudo Que Voc\u00ea Quiser",
+      "url": "https://open.spotify.com/track/0OgpfhAwCgSX1I8dvALj89"
     },
     {
       "album": {
@@ -8935,7 +9127,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 129576,
       "name": "Vegana",
       "url": "https://open.spotify.com/track/6YS19fKy5mftHeuFO4ELlI"
@@ -9159,6 +9351,28 @@
       "duration_ms": 157168,
       "name": "Vivendo Como um Rei",
       "url": "https://open.spotify.com/track/4ZcBQ1jwmbhQ8ZcKskHceW"
+    },
+    {
+      "album": {
+        "name": "Vivendo da Arte",
+        "url": "https://open.spotify.com/album/6wpmWGoV9e0qxjdsVzQ40H"
+      },
+      "artists": [
+        {
+          "name": "Biello Uzi",
+          "url": "https://open.spotify.com/artist/6yOQqtkFwNupPJrIaIaQtJ"
+        },
+        {
+          "name": "Skai Jordan",
+          "url": "https://open.spotify.com/artist/5Nb1jLXuS77xwzFmd2Z6Rx"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167991,
+      "name": "Vivendo da Arte",
+      "url": "https://open.spotify.com/track/6XUZ8GFOTUafqoiUV0OHGM"
     },
     {
       "album": {
@@ -9405,7 +9619,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 142105,
       "name": "\u00c9 S\u00f3 Um Jogo",
       "url": "https://open.spotify.com/track/63GdBCUANBwZlXqFUW89Yz"

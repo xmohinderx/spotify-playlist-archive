@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOmS5hmD9Zf.md) - [plain]
 
 > Cause I'm a person just like you but I got better things to do.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,204 likes - 105 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,242 likes - 105 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,11 +107,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOmS5hmD9Zf.md) - [plain]
 | 97 | [Iron Mind](https://open.spotify.com/track/7ncbnmedRoFkyLGK4cyX4A) | [Righteous Jams](https://open.spotify.com/artist/2BVoyxv1sLJvx2RdbHiESM) | [Rage Of Discipline](https://open.spotify.com/album/22r1363rp8gqTwFMlsAxiI) | 1:21 |
 | 98 | [When the Ink Leaves Your Fist](https://open.spotify.com/track/2ZtA4KVsHe9RhqGNMDvPNv) | [The Wrong Side](https://open.spotify.com/artist/3O3zbLTXkmbTk9E7yxIgzs) | [Of the Grave](https://open.spotify.com/album/39tnbE8DNxs7E40lrt2A4t) | 1:56 |
 | 99 | [Smash It](https://open.spotify.com/track/3jQnNbrurDzk0YHc34lL8w) | [Down To Nothing](https://open.spotify.com/artist/2UjGURsJB9PoFfvvsWsBGm) | [Unbreakable](https://open.spotify.com/album/4ermT4eMjBchHMui9NKkw2) | 0:54 |
-| 100 | [A Thousand Ways](https://open.spotify.com/track/3hyVqlYYsUhGriDTjdTW3H) | [Foundation](https://open.spotify.com/artist/5KFe7ACxRpoEA9rzHsRWI2) | [When The Smoke Clears](https://open.spotify.com/album/0vOBTDSbiN77sUyz7hhkE4) | 1:58 |
+| 100 | [A Thousand Ways](https://open.spotify.com/track/15AQz9qOOvoFGb95a2dX9v) | [Foundation](https://open.spotify.com/artist/5KFe7ACxRpoEA9rzHsRWI2) | [At Your Mercy](https://open.spotify.com/album/05miYlNCYtBciD9q76GiLg) | 1:58 |
 | 101 | [Bad Trip](https://open.spotify.com/track/4zwwQyQTq6LAiwabvnIUvx) | [Vitamin X](https://open.spotify.com/artist/290SZ7F6vkU2wx7wMlvCxf) | [Bad Trip](https://open.spotify.com/album/6FlDtny6yOmgFafit13CgG) | 0:56 |
 | 102 | [Fuck Bar Culture](https://open.spotify.com/track/1Lt8syHUCHJsQqg1NMxXBB) | [Coke Bust](https://open.spotify.com/artist/4IvOfFkq1nt7HsLjrY1jDN) | [Fuck Bar Culture](https://open.spotify.com/album/6hJlbPEtqENwrXT982nLYL) | 0:48 |
 | 103 | [Boston Ex](https://open.spotify.com/track/5AM3Y71eabXYF7csmCaARW) | [No Tolerance](https://open.spotify.com/artist/7dGgzNffTgd3YiKqskBCN2) | [Boston Straight Edge](https://open.spotify.com/album/751UGxkbjAqBh4UJejVXIG) | 1:02 |
 | 104 | [C.M.F.](https://open.spotify.com/track/4sVBaie6L3Z1evIhj9MDbn) | [Minority Unit](https://open.spotify.com/artist/4zr6dHfZKuO0HvwuqexH9y) | [Demo 2011](https://open.spotify.com/album/6PhnqBic75cWVIYaz97Cni) | 0:57 |
 | 105 | [First Offense](https://open.spotify.com/track/0erCLOl8aSItDjv57l6PNN) | [Boston Strangler](https://open.spotify.com/artist/0jcLanwiSXfVgAcsY2mPd4) | [Primitive](https://open.spotify.com/album/5WYYfUoh9Gskv6IZ3ownam) | 1:19 |
 
-Snapshot ID: `MTYyNTg0Njc2NCwwMDAwMDAwMDEwMTYxNzQyMWMyN2YzY2Y4NWQwYTAyMDI5YTAzOGZm`
+Snapshot ID: `MTYyNTg0Njc2NCwwMDAwMDAwMDFjNWY5MzRiNmJiZmRhNDhjNGZhNGI3ZDY3Mzk2ZWQz`

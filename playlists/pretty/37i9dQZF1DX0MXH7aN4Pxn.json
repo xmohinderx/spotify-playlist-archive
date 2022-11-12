@@ -1,12 +1,12 @@
 {
   "description": "Turn the energy levels up and join the party wherever you are!",
-  "num_followers": 687984,
+  "num_followers": 687979,
   "original_name": "PARTY MODE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTE5MDk2NSwwMDAwMDAwMDViOGIyNDA5ODMwMDhiNDA3NjIwY2YyMzQyYzA3MGU4",
+  "snapshot_id": "MTY2MTE5MDk2NSwwMDAwMDAwMDVlNGM1ZTU5MmU0NmRkYmI4NzUyNzk5ZWE1OTIxNzdk",
   "tracks": [
     {
       "added_at": "2022-08-22 17:56:05",
@@ -687,26 +687,6 @@
     {
       "added_at": "2022-08-22 17:56:05",
       "album": {
-        "name": "Hold This",
-        "url": "https://open.spotify.com/album/242dSF54Qx1DKFwmHLGUGA"
-      },
-      "artists": [
-        {
-          "name": "HStikkytokky",
-          "url": "https://open.spotify.com/artist/2bYWQ3rr9GraqM3Iyb7Rhb"
-        },
-        {
-          "name": "J Fado",
-          "url": "https://open.spotify.com/artist/4cy8rq83cl4eKpRWRK9hyM"
-        }
-      ],
-      "duration_ms": 145920,
-      "name": "Hold This",
-      "url": "https://open.spotify.com/track/1FxSStcuz43FhiB5KAFWc0"
-    },
-    {
-      "added_at": "2022-08-22 17:56:05",
-      "album": {
         "name": "Beg For You (feat. Rina Sawayama)",
         "url": "https://open.spotify.com/album/0ffmwwS9EBmpLAgjblX75O"
       },
@@ -723,6 +703,26 @@
       "duration_ms": 168053,
       "name": "Beg For You (feat. Rina Sawayama)",
       "url": "https://open.spotify.com/track/50ZFpw2wS6ERvLmW8TINhq"
+    },
+    {
+      "added_at": "2022-08-22 17:56:05",
+      "album": {
+        "name": "Hold This",
+        "url": "https://open.spotify.com/album/242dSF54Qx1DKFwmHLGUGA"
+      },
+      "artists": [
+        {
+          "name": "HStikkytokky",
+          "url": "https://open.spotify.com/artist/2bYWQ3rr9GraqM3Iyb7Rhb"
+        },
+        {
+          "name": "J Fado",
+          "url": "https://open.spotify.com/artist/4cy8rq83cl4eKpRWRK9hyM"
+        }
+      ],
+      "duration_ms": 145920,
+      "name": "Hold This",
+      "url": "https://open.spotify.com/track/1FxSStcuz43FhiB5KAFWc0"
     },
     {
       "added_at": "2022-08-22 17:56:05",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2022-08-22 17:56:05",
       "album": {
+        "name": "Call On Me",
+        "url": "https://open.spotify.com/album/4l78jaWeylIINTLaAdIHJy"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 194880,
+      "name": "Call On Me",
+      "url": "https://open.spotify.com/track/1gX4wETtMGvOB7u1proVfj"
+    },
+    {
+      "added_at": "2022-08-22 17:56:05",
+      "album": {
         "name": "No Fun",
         "url": "https://open.spotify.com/album/5MOMnX1NgMpjRD0iAHcttM"
       },
@@ -1119,26 +1135,6 @@
       "duration_ms": 130412,
       "name": "No Fun",
       "url": "https://open.spotify.com/track/3YOZWCREvKsxhcZNJix5xd"
-    },
-    {
-      "added_at": "2022-08-22 17:56:05",
-      "album": {
-        "name": "Belters Only",
-        "url": "https://open.spotify.com/album/7fSPGNZ9RY2yS9btOkO9Hu"
-      },
-      "artists": [
-        {
-          "name": "Belters Only",
-          "url": "https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA"
-        },
-        {
-          "name": "Jazzy",
-          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
-        }
-      ],
-      "duration_ms": 186541,
-      "name": "Don't Stop Just Yet",
-      "url": "https://open.spotify.com/track/1pz4k8r1OPeNBeAGmi9gL9"
     },
     {
       "added_at": "2022-08-22 17:56:05",
@@ -1163,18 +1159,22 @@
     {
       "added_at": "2022-08-22 17:56:05",
       "album": {
-        "name": "Call On Me",
-        "url": "https://open.spotify.com/album/4l78jaWeylIINTLaAdIHJy"
+        "name": "Belters Only",
+        "url": "https://open.spotify.com/album/7fSPGNZ9RY2yS9btOkO9Hu"
       },
       "artists": [
         {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+          "name": "Belters Only",
+          "url": "https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA"
+        },
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
         }
       ],
-      "duration_ms": 194880,
-      "name": "Call On Me",
-      "url": "https://open.spotify.com/track/1gX4wETtMGvOB7u1proVfj"
+      "duration_ms": 186541,
+      "name": "Don't Stop Just Yet",
+      "url": "https://open.spotify.com/track/1pz4k8r1OPeNBeAGmi9gL9"
     },
     {
       "added_at": "2022-08-22 17:56:05",
@@ -1259,22 +1259,6 @@
       "duration_ms": 144960,
       "name": "Good for Me (feat. Anna Straker)",
       "url": "https://open.spotify.com/track/1S69G657rrHOIfPkKNihwH"
-    },
-    {
-      "added_at": "2022-08-22 17:56:05",
-      "album": {
-        "name": "Pump It Up",
-        "url": "https://open.spotify.com/album/5Y7ArkpG6klUEQuhTvEEpM"
-      },
-      "artists": [
-        {
-          "name": "Endor",
-          "url": "https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt"
-        }
-      ],
-      "duration_ms": 150635,
-      "name": "Pump It Up",
-      "url": "https://open.spotify.com/track/4tcPIwy0UvLYjhXLrMyx89"
     },
     {
       "added_at": "2022-08-22 17:56:05",
@@ -1471,26 +1455,6 @@
     {
       "added_at": "2022-08-22 17:56:05",
       "album": {
-        "name": "Anything",
-        "url": "https://open.spotify.com/album/703aZZCaGU2kRGjo0pGzDL"
-      },
-      "artists": [
-        {
-          "name": "Alison Wonderland",
-          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
-        },
-        {
-          "name": "Valentino Khan",
-          "url": "https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "Anything",
-      "url": "https://open.spotify.com/track/48fPdAwGVoSkGK8GSez9yx"
-    },
-    {
-      "added_at": "2022-08-22 17:56:05",
-      "album": {
         "name": "Tell It To My Heart (KVSH Remix)",
         "url": "https://open.spotify.com/album/1mH6foqOI76VKUn1RvAFYb"
       },
@@ -1511,6 +1475,26 @@
       "duration_ms": 183870,
       "name": "Tell It To My Heart (feat. Hozier) - KVSH Remix",
       "url": "https://open.spotify.com/track/0AxvmNaxYKmO4xPptkKsnZ"
+    },
+    {
+      "added_at": "2022-08-22 17:56:05",
+      "album": {
+        "name": "Anything",
+        "url": "https://open.spotify.com/album/703aZZCaGU2kRGjo0pGzDL"
+      },
+      "artists": [
+        {
+          "name": "Alison Wonderland",
+          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+        },
+        {
+          "name": "Valentino Khan",
+          "url": "https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "Anything",
+      "url": "https://open.spotify.com/track/48fPdAwGVoSkGK8GSez9yx"
     },
     {
       "added_at": "2022-08-22 17:56:05",
@@ -1607,22 +1591,6 @@
     {
       "added_at": "2022-08-22 17:56:05",
       "album": {
-        "name": "Look Into My Eyes",
-        "url": "https://open.spotify.com/album/4beerxXaNWkQKZfXSEjGZq"
-      },
-      "artists": [
-        {
-          "name": "Brando",
-          "url": "https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE"
-        }
-      ],
-      "duration_ms": 154653,
-      "name": "Look Into My Eyes",
-      "url": "https://open.spotify.com/track/4XjwHKoDGFWHFi45edRl7y"
-    },
-    {
-      "added_at": "2022-08-22 17:56:05",
-      "album": {
         "name": "Juliet & Romeo",
         "url": "https://open.spotify.com/album/4ndTH1x8j5zYaidYSO5MXh"
       },
@@ -1699,22 +1667,6 @@
     {
       "added_at": "2022-08-22 17:56:05",
       "album": {
-        "name": "Peaches & Cream",
-        "url": "https://open.spotify.com/album/4fkTFOExE3vIXyXeW62i36"
-      },
-      "artists": [
-        {
-          "name": "Silky",
-          "url": "https://open.spotify.com/artist/3dlippLcdVGBPKVFhnWXaF"
-        }
-      ],
-      "duration_ms": 198956,
-      "name": "Peaches & Cream",
-      "url": "https://open.spotify.com/track/2PgXaTPI1XCme78vvYMxZu"
-    },
-    {
-      "added_at": "2022-08-22 17:56:05",
-      "album": {
         "name": "Afraid",
         "url": "https://open.spotify.com/album/0hxaNsjHneCKXSOijcqPVz"
       },
@@ -1779,6 +1731,38 @@
     {
       "added_at": "2022-08-22 17:56:05",
       "album": {
+        "name": "Don't You Worry About Me",
+        "url": "https://open.spotify.com/album/0he225d6QYERCPgyagltqw"
+      },
+      "artists": [
+        {
+          "name": "Bad Boy Chiller Crew",
+          "url": "https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV"
+        }
+      ],
+      "duration_ms": 220173,
+      "name": "Don't You Worry About Me",
+      "url": "https://open.spotify.com/track/4cJgjjWMjf4nfLRuSr4hVl"
+    },
+    {
+      "added_at": "2022-08-22 17:56:05",
+      "album": {
+        "name": "Peaches & Cream",
+        "url": "https://open.spotify.com/album/4fkTFOExE3vIXyXeW62i36"
+      },
+      "artists": [
+        {
+          "name": "Silky",
+          "url": "https://open.spotify.com/artist/3dlippLcdVGBPKVFhnWXaF"
+        }
+      ],
+      "duration_ms": 198956,
+      "name": "Peaches & Cream",
+      "url": "https://open.spotify.com/track/2PgXaTPI1XCme78vvYMxZu"
+    },
+    {
+      "added_at": "2022-08-22 17:56:05",
+      "album": {
         "name": "You & I (Emily Nash Remix)",
         "url": "https://open.spotify.com/album/6fRRqRFnCivghMKQG6yHZz"
       },
@@ -1799,22 +1783,6 @@
       "duration_ms": 172258,
       "name": "You & I - Emily Nash Remix",
       "url": "https://open.spotify.com/track/6Mxaum98mQ7PySB9jvunYL"
-    },
-    {
-      "added_at": "2022-08-22 17:56:05",
-      "album": {
-        "name": "Don't You Worry About Me",
-        "url": "https://open.spotify.com/album/0he225d6QYERCPgyagltqw"
-      },
-      "artists": [
-        {
-          "name": "Bad Boy Chiller Crew",
-          "url": "https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV"
-        }
-      ],
-      "duration_ms": 220173,
-      "name": "Don't You Worry About Me",
-      "url": "https://open.spotify.com/track/4cJgjjWMjf4nfLRuSr4hVl"
     },
     {
       "added_at": "2022-08-22 17:56:05",
@@ -2007,6 +1975,46 @@
       "duration_ms": 166742,
       "name": "Black Hole - Goodboys Remix",
       "url": "https://open.spotify.com/track/7FWDL4IevECW4AFWeovlOG"
+    },
+    {
+      "added_at": "2022-08-22 17:56:05",
+      "album": {
+        "name": "Foolish",
+        "url": "https://open.spotify.com/album/55kAr1O53DgjDiEdM0E8fc"
+      },
+      "artists": [
+        {
+          "name": "Jack Fowler",
+          "url": "https://open.spotify.com/artist/5JpqaGiRxnYKrmys8Oh8oO"
+        },
+        {
+          "name": "Tom Zanetti",
+          "url": "https://open.spotify.com/artist/73Msd8rknjBghcGQiZ1mgh"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Foolish (feat. Tom Zanetti)",
+      "url": "https://open.spotify.com/track/2CXSRpNHd9zVSWKSFp1wQ3"
+    },
+    {
+      "added_at": "2022-08-22 17:56:05",
+      "album": {
+        "name": "Soon Not Later",
+        "url": "https://open.spotify.com/album/3f4YNeAQaTx8FLgzsVQDqf"
+      },
+      "artists": [
+        {
+          "name": "Lady Bee",
+          "url": "https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN"
+        },
+        {
+          "name": "Dame1",
+          "url": "https://open.spotify.com/artist/6CKoF1L9fyzl1PsbnevRZh"
+        }
+      ],
+      "duration_ms": 158095,
+      "name": "Soon Not Later",
+      "url": "https://open.spotify.com/track/1aUqnyTzGI4eXauiBxdpaJ"
     }
   ],
   "unique_name": "PARTY MODE",

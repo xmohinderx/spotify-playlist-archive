@@ -4,7 +4,7 @@
 
 > In loving memory of Marie Fredriksson.
 
-75 songs - 4 hr 59 min - [published](https://open.spotify.com/playlist/1fUcg2oddZ7NzQJEr3yXBo)
+77 songs - 5 hr 7 min - [published](https://open.spotify.com/playlist/1fUcg2oddZ7NzQJEr3yXBo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,11 +16,13 @@
 | [Church Of Your Heart](https://open.spotify.com/track/6broBHB7ObAA2BhzLT2nlX) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Joyride](https://open.spotify.com/album/2s39oUayLt0O5uXkdgmheY) | 3:15 | 2020-10-01 |  |
 | [Crash! Boom! Bang!](https://open.spotify.com/track/1eHt31KceBrXEDEV6zNXtT) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Crash! Boom! Bang! \(2009 Version\)](https://open.spotify.com/album/52YascebxQ8Sn4ZYCvnFBs) | 5:01 | 2020-10-01 | 2022-07-29 |
 | [Crash! Boom! Bang!](https://open.spotify.com/track/6RpIFxTwkNIVuO5pV9ui9G) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Crash! Boom! Bang! \(Extended Version\)](https://open.spotify.com/album/3f5WapBpTtNqVF079EhUhV) | 5:01 | 2022-05-05 |  |
+| [Dangerous](https://open.spotify.com/track/61uXORSNIY7p03t5V7DH7z) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Look Sharp! \(Extended Version\)](https://open.spotify.com/album/4rQV5S9FhajZdyzFfcyYw9) | 3:48 | 2022-05-05 |  |
 | [Dangerous](https://open.spotify.com/track/756YOXmKh2iUnx33nAdfPf) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Look Sharp! \(2009 Version\)](https://open.spotify.com/album/1iI5YZkqNUV7VmrEi4uOP9) | 3:48 | 2020-10-01 | 2022-07-29 |
-| [Dangerous](https://open.spotify.com/track/7LwsqxyIqOCF9vbdHmdIvT) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Look Sharp!](https://open.spotify.com/album/487Xg1a57O6pDfkyYcbuFx) | 3:48 | 2022-05-05 |  |
+| [Dangerous](https://open.spotify.com/track/7LwsqxyIqOCF9vbdHmdIvT) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Look Sharp!](https://open.spotify.com/album/487Xg1a57O6pDfkyYcbuFx) | 3:48 | 2022-05-05 | 2022-11-12 |
 | [Directamente a Ti \(Run to You\)](https://open.spotify.com/track/4Uf16gygVXW2aZuuXI0qRO) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Baladas En Español](https://open.spotify.com/album/7iKhBP0N1KgoQsoCr3YvI2) | 3:32 | 2020-10-01 |  |
 | [Dressed For Success](https://open.spotify.com/track/5hRXW7bDPwj08jTI74N3gg) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Look Sharp! \(2009 Version\)](https://open.spotify.com/album/1iI5YZkqNUV7VmrEi4uOP9) | 4:09 | 2020-10-01 | 2022-07-29 |
-| [Dressed For Success](https://open.spotify.com/track/7dOyP04azUFikPvAkhRBeJ) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Look Sharp!](https://open.spotify.com/album/487Xg1a57O6pDfkyYcbuFx) | 4:09 | 2022-05-05 |  |
+| [Dressed For Success](https://open.spotify.com/track/7dOyP04azUFikPvAkhRBeJ) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Look Sharp!](https://open.spotify.com/album/487Xg1a57O6pDfkyYcbuFx) | 4:09 | 2022-05-05 | 2022-11-12 |
+| [Dressed for Success \- US Single Mix](https://open.spotify.com/track/7GqyxvYvcHPFqApCd43V1d) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [The Pop Hits](https://open.spotify.com/album/2ABfrAhcF6lsxmyzkKwqD2) | 4:11 | 2022-05-05 |  |
 | [Easy Way Out](https://open.spotify.com/track/652SjitiLFptw9ac34uQoz) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Travelling](https://open.spotify.com/album/69C0Rfg7W7eWs4KvUBKqBq) | 3:38 | 2020-10-01 |  |
 | [Fading Like A Flower](https://open.spotify.com/track/5THQw2QDTWwOP1Hj543Rb2) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Fading Like A Flower](https://open.spotify.com/album/5wFmirRzEpKhkN1zQR73tT) | 2:25 | 2022-05-04 |  |
 | [Fading Like A Flower \(Every Time You Leave\)](https://open.spotify.com/track/7qSd3WHSPUtmt6c36pwJaY) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Joyride \(Deluxe Version\)](https://open.spotify.com/album/5SwZnq5e3u7DkkNnSNHp5R) | 3:50 | 2020-10-01 |  |

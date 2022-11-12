@@ -1000,6 +1000,24 @@
     },
     {
       "album": {
+        "name": "The Complete Blue Horizon Sessions",
+        "url": "https://open.spotify.com/album/4927jpQNUFVlKNZt3Lzwpg"
+      },
+      "artists": [
+        {
+          "name": "Chicken Shack",
+          "url": "https://open.spotify.com/artist/7aUVQRiWaOqZU0JwOlGfWi"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197253,
+      "name": "I'd Rather Go Blind",
+      "url": "https://open.spotify.com/track/1RlNXHNrVkFd0ExMdGRSRZ"
+    },
+    {
+      "album": {
         "name": "The Legendary Christine Perfect Album",
         "url": "https://open.spotify.com/album/5EZHyzIkskrqQwH8OrMlgp"
       },
@@ -1011,7 +1029,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 197200,
       "name": "I'd Rather Go Blind",
       "url": "https://open.spotify.com/track/5i1T44coT8wyZpCMd4F4O8"

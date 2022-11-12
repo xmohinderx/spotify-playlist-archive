@@ -2,7 +2,7 @@
 
 ### [Arena Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DWVFZbCNivv6B)
 
-> Hip\-hop mexicano, rimas de la calle, en viva voz de Eme MalaFe.
+> Hip\-hop mexicano, rimas de la calle, en voz de Santa Fe Klan
 
 222 songs - 13 hr 14 min - [published](https://open.spotify.com/playlist/18GYr3VL7srQ56xnZNWbUP)
 

@@ -4,12 +4,13 @@
 
 > Agárrense fuerte.
 
-90 songs - 6 hr 52 min - [published](https://open.spotify.com/playlist/4q9q1ha6StSi8KNW4vB2tv)
+93 songs - 7 hr 7 min - [published](https://open.spotify.com/playlist/4q9q1ha6StSi8KNW4vB2tv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(Everything I Do\) I Do It For You](https://open.spotify.com/track/1Eb90nmqTrxylKFhcUzW8P) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Waking Up The Neighbours](https://open.spotify.com/album/6Rk2VghhfqeYrgKxS21eBh) | 6:33 | 2020-07-29 | 2022-07-29 |
-| [\(Everything I Do\) I Do It For You](https://open.spotify.com/track/6eBK3edMW7bEzecF1eCezc) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Waking Up The Neighbours](https://open.spotify.com/album/061uAXmheZOILmf2rr3tTn) | 6:34 | 2020-07-29 |  |
+| [\(Everything I Do\) I Do It For You](https://open.spotify.com/track/3RqAEC7aZieiWE7qLjs1jv) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [The Best 90s Album In The World...Ever!](https://open.spotify.com/album/4UkEvuAF0oirvH9HUAWSnk) | 6:34 | 2020-07-29 |  |
+| [\(Everything I Do\) I Do It For You](https://open.spotify.com/track/6eBK3edMW7bEzecF1eCezc) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Waking Up The Neighbours](https://open.spotify.com/album/061uAXmheZOILmf2rr3tTn) | 6:34 | 2020-07-29 | 2022-11-12 |
 | [All By Myself](https://open.spotify.com/track/0gsl92EMIScPGV1AU35nuD) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Falling into You](https://open.spotify.com/album/2vk0n8aeQSO74VtQBbNDPR) | 5:12 | 2020-07-29 |  |
 | [All Out of Love](https://open.spotify.com/track/7dQC53NiYOY9gKg3Qsu2Bs) | [Air Supply](https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW) | [Lost in Love](https://open.spotify.com/album/3fB2z5YtmKvSCu77Z3nTnW) | 4:03 | 2020-07-29 |  |
 | [Angie](https://open.spotify.com/track/1qZyPLjhDZCxOnGySMdfHu) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [GRRR! \(Deluxe Version\)](https://open.spotify.com/album/3LcLR5Mpdj6C5jiaReLvDt) | 4:31 | 2020-07-29 | 2022-07-29 |
@@ -40,8 +41,10 @@
 | [Have You Ever Really Loved A Woman? \- From "Don Juan DeMarco" Soundtrack](https://open.spotify.com/track/2gPvws11gjAny3ewOa3pfI) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Mañanas Radiantes](https://open.spotify.com/album/1s0KYCo6HKaznZ64AzVPj2) | 4:53 | 2020-07-29 |  |
 | [Heaven](https://open.spotify.com/track/7Ewz6bJ97vUqk5HdkvguFQ) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Reckless \(30th Anniversary / Deluxe Edition\)](https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL) | 4:03 | 2020-07-29 | 2022-11-11 |
 | [Heaven](https://open.spotify.com/track/3wvfuyGNtR7ySfRkhtXtO9) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Reckless](https://open.spotify.com/album/0dLBZmYzmQRZOz4cJG05DA) | 4:03 | 2020-07-29 | 2022-07-29 |
+| [Heaven](https://open.spotify.com/track/3Z2ZkcvjN4NP4iwkIsuI8p) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Valentin\-napi Retro Válogatás 2021](https://open.spotify.com/album/3FVx8KyZez2FCz3UQemuG0) | 4:04 | 2020-07-29 |  |
 | [Hello](https://open.spotify.com/track/6HMvJcdw6qLsyV1b5x29sa) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Can't Slow Down](https://open.spotify.com/album/5U0NU0T1JKIJwgq2ZDWb2T) | 4:06 | 2020-07-29 | 2022-07-29 |
-| [Hello](https://open.spotify.com/track/0mHyWYXmmCB9iQyK18m3FQ) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Can't Slow Down](https://open.spotify.com/album/3alZBOvPaK3hgMEEymw4Yr) | 4:11 | 2020-07-29 |  |
+| [Hello](https://open.spotify.com/track/2ughUJ3d0vSXFMMiFSdSAp) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [西洋永恆情歌 Forever Love Songs](https://open.spotify.com/album/6mFoYw0OZJ1JWKhzrBImIy) | 4:08 | 2020-07-29 |  |
+| [Hello](https://open.spotify.com/track/0mHyWYXmmCB9iQyK18m3FQ) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Can't Slow Down](https://open.spotify.com/album/3alZBOvPaK3hgMEEymw4Yr) | 4:11 | 2020-07-29 | 2022-11-12 |
 | [How Am I Supposed to Live Without You](https://open.spotify.com/track/3RMeOetCdXttthQK0clPuz) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [Soul Provider](https://open.spotify.com/album/5g9LXOhTPW9Iow6GZPRg2D) | 4:15 | 2020-07-29 |  |
 | [How Deep Is Your Love](https://open.spotify.com/track/2JoZzpdeP2G6Csfdq5aLXP) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Greatest](https://open.spotify.com/album/5YHZaCxCuuK81h4Fimb9rT) | 4:05 | 2020-07-29 |  |
 | [I Don't Want to Miss a Thing \- From "Armageddon" Soundtrack](https://open.spotify.com/track/6lEuFGrUqR9Yc6hSsHPnYP) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [I Don't Want To Miss A Thing EP](https://open.spotify.com/album/4GYrE0hDKjM0v6EQIjkBV3) | 4:59 | 2020-07-29 |  |
@@ -87,7 +90,7 @@
 | [Tears in Heaven \- 2015 Remaster](https://open.spotify.com/track/4yBhABx4b0S2CUs37e59hl) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Forever Man](https://open.spotify.com/album/3gaFg68VkhrZUU9wfaLp5T) | 4:31 | 2020-07-29 |  |
 | [The Lady In Red](https://open.spotify.com/track/1GeNWyZtCHbcp3ZWp8GTOO) | [Chris de Burgh](https://open.spotify.com/artist/2RpHsROrX075xfIwHn6B2U) | [Into The Light](https://open.spotify.com/album/5Yi08NDFoVAnvHoXqpp9O5) | 4:16 | 2020-07-29 |  |
 | [The One](https://open.spotify.com/track/3YpkVhRNeKVaSXUaG2TKs9) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Greatest Hits 1970\-2002](https://open.spotify.com/album/6nvd1pwRgLrMez7fIiDq8z) | 5:51 | 2020-07-29 | 2022-07-29 |
-| [The One](https://open.spotify.com/track/2stzPKoUdtHcA4LlEu2ayw) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The One](https://open.spotify.com/album/5WbC2jwkdiRD3lcgC2SAHa) | 5:53 | 2020-07-29 |  |
+| [The One](https://open.spotify.com/track/2stzPKoUdtHcA4LlEu2ayw) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The One](https://open.spotify.com/album/5WbC2jwkdiRD3lcgC2SAHa) | 5:53 | 2020-07-29 | 2022-11-12 |
 | [The Power of Love](https://open.spotify.com/track/5kK1Iru9ogP3Iy1zsANU1n) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [The Colour Of My Love](https://open.spotify.com/album/6Po5zdKMIH5Xk99vjXyQpC) | 5:42 | 2020-07-29 |  |
 | [Wind Of Change](https://open.spotify.com/track/36iOFlb2gvcqzGPw0R31oF) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [1990s Mix\-Tape](https://open.spotify.com/album/1pjdiSeAmHA1WvKJvJ4qai) | 5:11 | 2020-07-29 |  |
 | [Wind Of Change](https://open.spotify.com/track/3ovjw5HZZv43SxTwApooCM) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Crazy World](https://open.spotify.com/album/3dLKM8bD8R3H3XnSOXGjTF) | 5:12 | 2020-07-29 | 2022-11-11 |

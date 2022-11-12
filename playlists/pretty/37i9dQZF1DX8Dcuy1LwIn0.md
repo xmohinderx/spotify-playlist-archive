@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Dcuy1LwIn0.md) - [plain]
 
 > The best in recent hits from your favorite  Contemporary Christian artists all in one list\.  Sit back and let it play!  Cover: Matt Maher
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,175 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,186 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Dcuy1LwIn0.md) - [plain]
 | 8 | [What A Beautiful Name \- Live](https://open.spotify.com/track/1yYUIjT3bZ9RB9vejqYy9f) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [Let There Be Light \(Deluxe\)](https://open.spotify.com/album/5SuiUBJmzzlOZqj3rogcja) | 5:41 |
 | 9 | [Reckless Love](https://open.spotify.com/track/0rH0mprtecH3grD9HFM5AD) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [Reckless Love](https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB) | 5:33 |
 | 10 | [I'll Find You \(feat\. Tori Kelly\)](https://open.spotify.com/track/6m60IwLIkZ2Fmz4J9FsQ1o) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [All Things Work Together](https://open.spotify.com/album/5DPZqC3ySZkJClCvZlIq6K) | 3:37 |
-| 11 | [Peace Be Still \- Live](https://open.spotify.com/track/3QgqMVZdqHdY8e7r7IUBww) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [All The Earth \(Live\)](https://open.spotify.com/album/00T7ckfhNb4TdXDAPCSr0h) | 8:06 |
+| 11 | [Peace Be Still \- Live](https://open.spotify.com/track/69bvCzXZFU3TTeAVs4qjyB) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Peaceful Christian Music](https://open.spotify.com/album/4s3KvYfOpHrxZmMwxs1CwY) | 8:06 |
 | 12 | [I Have This Hope](https://open.spotify.com/track/5ELZpvTDGorz9BIE9zaBoZ) | [Tenth Avenue North](https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0) | [Followers](https://open.spotify.com/album/4Hjjqd2cPyD9K8TbSC9O6C) | 3:24 |
 | 13 | [So Will I \(100 Billion X\)](https://open.spotify.com/track/1ed3wNCecRIp6SugyR0w2J) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [Wonder](https://open.spotify.com/album/5ZWmzqJe0RH6HdT4ntNaX2) | 6:51 |
 | 14 | [Priceless](https://open.spotify.com/track/7BTmtN6bP35E54vVASTqao) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [RUN WILD\. LIVE FREE\. LOVE STRONG\. \(Deluxe Anniversary Edition\)](https://open.spotify.com/album/3JgsuH1i4ddVP4Ke5zf87I) | 3:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Dcuy1LwIn0.md) - [plain]
 | 49 | [No One Like Our God](https://open.spotify.com/track/0OVsEZ9BLf4zNa4d8OOL3a) | [Lincoln Brewster](https://open.spotify.com/artist/1aoy0R8uP3x33eqKZOLpN1) | [No One Like Our God](https://open.spotify.com/album/7Fcpi2Cm9H7PoWi0y91aKR) | 4:09 |
 | 50 | [I Won't Let You Go](https://open.spotify.com/track/79pfMqEMRo8jzPGX7fyw0K) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [I Won't Let You Go](https://open.spotify.com/album/12rFlBci2pRsl4Ak3c9w6R) | 4:07 |
 
-Snapshot ID: `MTU1OTMxNzYzMywwMDAwMDAwMGNkNTlkYTMyM2QwYzE2YjRlZDk3NWY4Y2JlZDdmMTRk`
+Snapshot ID: `MTU1OTMxNzYzMywwMDAwMDAwMDBiYTc2MDcwOTRiNjMxODE5MTgxMzhjZWY4ZTVmNzFm`

@@ -1142,6 +1142,36 @@
     },
     {
       "album": {
+        "name": "Beethoven for Three: Symphony No. 6 \"Pastorale\" and Op. 1, No. 3",
+        "url": "https://open.spotify.com/album/5ezojM5Z8lU0RPyS52MTlV"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Yo-Yo Ma",
+          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+        },
+        {
+          "name": "Emanuel Ax",
+          "url": "https://open.spotify.com/artist/17yd2V3A2UmwD0a00hmjX5"
+        },
+        {
+          "name": "Leonidas Kavakos",
+          "url": "https://open.spotify.com/artist/16XP6b4v1MdN8UYRBlgVKn"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 711626,
+      "name": "Symphony No. 6 in F Major, Op. 68, \"Pastorale\": I. Allegro ma non troppo, \"Awakening of cheerful feelings on arriving in the countryside\"",
+      "url": "https://open.spotify.com/track/6Ye4niSXscwpj4smkb5ioO"
+    },
+    {
+      "album": {
         "name": "Debussy \u2013 Rameau",
         "url": "https://open.spotify.com/album/4oVqtr6UVWx5pCQpoOU6wU"
       },

@@ -404,6 +404,24 @@
     },
     {
       "album": {
+        "name": "Cosmic Awareness",
+        "url": "https://open.spotify.com/album/5DvEjmp3yXZX3R6crfA87c"
+      },
+      "artists": [
+        {
+          "name": "Out Of Gravity",
+          "url": "https://open.spotify.com/artist/4TFNHaPqofW42WWVafTX7o"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268926,
+      "name": "Cosmic Awareness",
+      "url": "https://open.spotify.com/track/1CfnsH44lFQ6aqCEdUHmTs"
+    },
+    {
+      "album": {
         "name": "Cosmic Awarness",
         "url": "https://open.spotify.com/album/4Pyk7xBsaCzB3UeFEWJa63"
       },
@@ -415,7 +433,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 268926,
       "name": "Cosmic Awareness",
       "url": "https://open.spotify.com/track/3wUiacFzzsmxvdwramIwwg"
@@ -833,6 +851,24 @@
       "duration_ms": 202747,
       "name": "Findings",
       "url": "https://open.spotify.com/track/47fsmEwOq739Cy3pzUgWIQ"
+    },
+    {
+      "album": {
+        "name": "Floating",
+        "url": "https://open.spotify.com/album/7KTojG9yqTuKlodp0F69oK"
+      },
+      "artists": [
+        {
+          "name": "Suraj Ives",
+          "url": "https://open.spotify.com/artist/4VPaJH2YvHn7jNz6SVVgwn"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217499,
+      "name": "Floating",
+      "url": "https://open.spotify.com/track/1G4QmXMFFPKypYFfZaV3Mg"
     },
     {
       "album": {
@@ -1297,10 +1333,28 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 304285,
       "name": "Lost Secrets",
       "url": "https://open.spotify.com/track/1TyHhyFlgu60ib6t8vdHAW"
+    },
+    {
+      "album": {
+        "name": "Music For Dreams",
+        "url": "https://open.spotify.com/album/7FVXnDsiClWsdbjZz0v6Ic"
+      },
+      "artists": [
+        {
+          "name": "Floating Lights",
+          "url": "https://open.spotify.com/artist/6E3cU2m1CXkoGwYsPlTeuw"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304285,
+      "name": "Lost Secrets",
+      "url": "https://open.spotify.com/track/31hJKu3zf5nFHwBRTR6akJ"
     },
     {
       "album": {
@@ -2111,6 +2165,24 @@
       "duration_ms": 161400,
       "name": "Silver Lines",
       "url": "https://open.spotify.com/track/1ytKEjrWSIUGWqdYuIn74F"
+    },
+    {
+      "album": {
+        "name": "Skyjum",
+        "url": "https://open.spotify.com/album/5KjQoy7EkLWickNQz3FCAj"
+      },
+      "artists": [
+        {
+          "name": "Catedral Infinita",
+          "url": "https://open.spotify.com/artist/4ZHk7eCeQ5Q4o4wWvxq26r"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166500,
+      "name": "Skyjum",
+      "url": "https://open.spotify.com/track/5UWXwaQAf0IADjmS2auqNj"
     },
     {
       "album": {

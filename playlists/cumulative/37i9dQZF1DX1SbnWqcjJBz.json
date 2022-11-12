@@ -215,7 +215,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 201466,
       "name": "A Public Affair",
       "url": "https://open.spotify.com/track/1gFMesXcHHtIUhwzxYFOtz"
@@ -1119,7 +1119,7 @@
       ],
       "date_added": "2022-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 214739,
       "name": "Cool for the Summer",
       "url": "https://open.spotify.com/track/3uwnnTQcHM1rDqSfA4gQNz"
@@ -2587,6 +2587,24 @@
     {
       "album": {
         "name": "PCD",
+        "url": "https://open.spotify.com/album/5x8e8UcCeOgrOzSnDGuPye"
+      },
+      "artists": [
+        {
+          "name": "The Pussycat Dolls",
+          "url": "https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219093,
+      "name": "I Don't Need A Man",
+      "url": "https://open.spotify.com/track/0XEBKZHp8imfvf9NYjV8Kg"
+    },
+    {
+      "album": {
+        "name": "PCD",
         "url": "https://open.spotify.com/album/53zV9rZ5yfWgigsmuJtYpG"
       },
       "artists": [
@@ -2633,7 +2651,7 @@
       ],
       "date_added": "2022-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 250615,
       "name": "I Don't Want It At All",
       "url": "https://open.spotify.com/track/4xhYxKvAxtrRd83MiqOy29"
@@ -2990,6 +3008,24 @@
     },
     {
       "album": {
+        "name": "NOW That's What I Call Music!, Vol. 60",
+        "url": "https://open.spotify.com/album/1AkYMCjJNtz5MXG2e0utrd"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238733,
+      "name": "Into You",
+      "url": "https://open.spotify.com/track/4m24MsEliJZmOxlRhMeZRT"
+    },
+    {
+      "album": {
         "name": "Dangerous Woman",
         "url": "https://open.spotify.com/album/3OZgEywV4krCZ814pTJWr7"
       },
@@ -3019,7 +3055,7 @@
       ],
       "date_added": "2022-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 244453,
       "name": "Into You",
       "url": "https://open.spotify.com/track/63y6xWR4gXz7bnUGOk8iI6"
@@ -3349,7 +3385,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 166320,
       "name": "Let You",
       "url": "https://open.spotify.com/track/04RDD103rSChGr2X3SbSyC"
@@ -4071,7 +4107,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 231360,
       "name": "On and On",
       "url": "https://open.spotify.com/track/3Og0lFXOP4Uugc9rfbMfhl"
@@ -4527,7 +4563,7 @@
       ],
       "date_added": "2022-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 256213,
       "name": "Release Me",
       "url": "https://open.spotify.com/track/4LiJE6pqgsTX3FtukW6bNh"
@@ -4833,7 +4869,7 @@
       ],
       "date_added": "2022-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 210293,
       "name": "Slow Down",
       "url": "https://open.spotify.com/track/2OsEJFTfzfjG4oC92cuP2c"
@@ -4975,7 +5011,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 210133,
       "name": "Song 4 Mutya (Out Of Control)",
       "url": "https://open.spotify.com/track/08oDoZiAYgEqh7Tzr5wRVV"
@@ -5325,7 +5361,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 212413,
       "name": "Tom's Diner (feat. Britney Spears)",
       "url": "https://open.spotify.com/track/73Iz0ppjXiDwgXqXaMd9Xp"

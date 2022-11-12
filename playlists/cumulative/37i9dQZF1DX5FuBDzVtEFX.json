@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "The Descendants",
+        "url": "https://open.spotify.com/album/15YakA5L7dr86I60h4zKMy"
+      },
+      "artists": [
+        {
+          "name": "Keola Beamer",
+          "url": "https://open.spotify.com/artist/3HH77UShAG2WJW5nBSjFdY"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191733,
+      "name": "'Imi Au I\u00e1 'Oe",
+      "url": "https://open.spotify.com/track/7Lmi7zSYIgbqAqcTEF07MZ"
+    },
+    {
+      "album": {
         "name": "Mauna Kea - White Mountain Journal",
         "url": "https://open.spotify.com/album/1PnT3rg8q1hYh59GVs11Rm"
       },
@@ -37,7 +55,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 190333,
       "name": "'Imi Au I\u0101 \u02bbOe",
       "url": "https://open.spotify.com/track/1wS8U8fR1jlx9h7CAUAPY9"

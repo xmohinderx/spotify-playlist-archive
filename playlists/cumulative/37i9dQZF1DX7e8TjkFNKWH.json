@@ -511,7 +511,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 200720,
       "name": "Body On Me",
       "url": "https://open.spotify.com/track/2IyL2CyHoenwQLds5jSuqK"
@@ -905,7 +905,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 185133,
       "name": "Come With Me - Radio Edit",
       "url": "https://open.spotify.com/track/3qLhHLgFCvq6YEzqZhCPEd"
@@ -1805,7 +1805,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 242586,
       "name": "Hella Good",
       "url": "https://open.spotify.com/track/6AfLmKXzhEZjwiVPs5jhdV"
@@ -2445,7 +2445,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 254640,
       "name": "It's Raining Men",
       "url": "https://open.spotify.com/track/7q3qX7Ees3FZtRFJXWgPZs"
@@ -2759,7 +2759,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 216706,
       "name": "La Camisa Negra",
       "url": "https://open.spotify.com/track/2EM9zpAc7PVeoAydmbfVIL"
@@ -2836,6 +2836,36 @@
     },
     {
       "album": {
+        "name": "Queens Of The Universe",
+        "url": "https://open.spotify.com/album/68obGZnAL5uzDExnciF5pN"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        },
+        {
+          "name": "Lil' Kim",
+          "url": "https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX"
+        },
+        {
+          "name": "M\u00fda",
+          "url": "https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF"
+        },
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "date_added": "2022-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264846,
+      "name": "Lady Marmalade - From \"Moulin Rouge\" Soundtrack",
+      "url": "https://open.spotify.com/track/3xvg0lCV8cCaP4KSMt5ALM"
+    },
+    {
+      "album": {
         "name": "Moulin Rouge",
         "url": "https://open.spotify.com/album/5cbAqQZSEgRiiNjuEHWTXc"
       },
@@ -2889,7 +2919,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 267960,
       "name": "Lady Marmalade - Single Edit",
       "url": "https://open.spotify.com/track/0PSZ9G584Ve27GK6ThlY6P"
@@ -2987,7 +3017,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 283626,
       "name": "Like I Love You",
       "url": "https://open.spotify.com/track/6W2Ef5Ph6ILTUAedoQ3QIv"
@@ -3523,7 +3553,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 208573,
       "name": "Naughty Girl",
       "url": "https://open.spotify.com/track/0YGQ3hZcRLC5YX7o0hdmHg"
@@ -3805,7 +3835,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 237200,
       "name": "Poker Face",
       "url": "https://open.spotify.com/track/5R8dQOPq8haW94K7mgERlO"
@@ -4493,7 +4523,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 236480,
       "name": "Signs",
       "url": "https://open.spotify.com/track/4HSAJpNocVNJbwbQvtCMdO"
@@ -4580,6 +4610,32 @@
     },
     {
       "album": {
+        "name": "Destiny Fulfilled",
+        "url": "https://open.spotify.com/album/0b6ivSFfDs38MG7aLn9rvO"
+      },
+      "artists": [
+        {
+          "name": "Destiny's Child",
+          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+        },
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "date_added": "2022-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325573,
+      "name": "Soldier (feat. T.I. & Lil' Wayne)",
+      "url": "https://open.spotify.com/track/4FTOpNYcGxnQdGNWSxIcio"
+    },
+    {
+      "album": {
         "name": "Some Things",
         "url": "https://open.spotify.com/album/7d5N4KB4rlO1kqcoyLdm3h"
       },
@@ -4663,10 +4719,32 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 197961,
       "name": "Stamp On The Ground",
       "url": "https://open.spotify.com/track/2KgCPRTAECwNbJG1uYdfjl"
+    },
+    {
+      "album": {
+        "name": "Starlight",
+        "url": "https://open.spotify.com/album/3UO75WLhEfcx45md7M3bBX"
+      },
+      "artists": [
+        {
+          "name": "The Supermen Lovers",
+          "url": "https://open.spotify.com/artist/08dJ0NJ9jMf8qdLmdhQ2yA"
+        },
+        {
+          "name": "Mani Hoffman",
+          "url": "https://open.spotify.com/artist/4h5uH2PyDzfpfZresu96cw"
+        }
+      ],
+      "date_added": "2022-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234400,
+      "name": "Starlight - Radio Edit",
+      "url": "https://open.spotify.com/track/4UfupbARPxljVkBmuZlJnY"
     },
     {
       "album": {
@@ -4771,7 +4849,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 215480,
       "name": "Superstar",
       "url": "https://open.spotify.com/track/5u5MpBnvJejW9dHPrfWEXZ"
@@ -4847,7 +4925,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 171546,
       "name": "Take Me To The Clouds Above - LMC Vs. U2 / Radio Edit",
       "url": "https://open.spotify.com/track/4zrl5YGi2OqMar45Kdn4BM"
@@ -4869,6 +4947,24 @@
       "duration_ms": 218320,
       "name": "Tell It To My Heart",
       "url": "https://open.spotify.com/track/6paUKZ1F2OVmaYiAxtXdhu"
+    },
+    {
+      "album": {
+        "name": "Tell Me Why",
+        "url": "https://open.spotify.com/album/7lmGSzQRrvXvvvghZoYZkn"
+      },
+      "artists": [
+        {
+          "name": "Supermode",
+          "url": "https://open.spotify.com/artist/7urnl0uH1w3NCoErxw7AUK"
+        }
+      ],
+      "date_added": "2022-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173866,
+      "name": "Tell Me Why - Radio Edit",
+      "url": "https://open.spotify.com/track/4yhGkvdYU5bi4950r80FRo"
     },
     {
       "album": {
@@ -5667,6 +5763,24 @@
       "duration_ms": 250373,
       "name": "Yeah! (feat. Lil Jon & Ludacris)",
       "url": "https://open.spotify.com/track/5rb9QrpfcKFHM1EUbSIurX"
+    },
+    {
+      "album": {
+        "name": "A funk odyssey",
+        "url": "https://open.spotify.com/album/6cLYs4e403jQk6PJ8PG9rs"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "date_added": "2022-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199600,
+      "name": "You Give Me Something",
+      "url": "https://open.spotify.com/track/1x6jPyUfLuTNQ3o5zykG2x"
     },
     {
       "album": {

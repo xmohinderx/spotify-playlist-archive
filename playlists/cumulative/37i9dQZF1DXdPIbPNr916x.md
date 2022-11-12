@@ -4,7 +4,7 @@
 
 > Your ultimate easy\-listening soundtrack for the autumn months.
 
-103 songs - 6 hr 30 min - [published](https://open.spotify.com/playlist/3HzY1Lkj3X6KFFJA2E16Or)
+105 songs - 6 hr 37 min - [published](https://open.spotify.com/playlist/3HzY1Lkj3X6KFFJA2E16Or)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,14 +100,16 @@
 | [The Wolves and the Ravens](https://open.spotify.com/track/7M7e3u2MjbOVTkQMW6XqL6) | [Rogue Valley](https://open.spotify.com/artist/1EbGAjTV50qpZ53jXTvmV7) | [False Floors](https://open.spotify.com/album/520kCQ9Z5WEWih341YHcmT) | 4:16 | 2022-09-16 |  |
 | [This Is The Life](https://open.spotify.com/track/2T3jgoAMbBXiMMD8pSc6QL) | [Amy Macdonald](https://open.spotify.com/artist/1hJuGCUpefX24GFmss9bjH) | [This Is The Life \(eDeluxe\)](https://open.spotify.com/album/5DaToG3KvHnUgTPqY4cEbq) | 3:04 | 2020-06-22 | 2022-09-17 |
 | [This Year's Love](https://open.spotify.com/track/1dQOMZz9SkT7ig0w65lQWC) | [David Gray](https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV) | [White Ladder](https://open.spotify.com/album/0rK8K0z9sYhEhCW51v9jrp) | 4:05 | 2022-09-16 | 2022-10-13 |
-| [This Year's Love](https://open.spotify.com/track/4X6F9xoYUyJh4OhnXbAZv2) | [David Gray](https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV) | [White Ladder](https://open.spotify.com/album/27h98zEMf4R8Q25uOkumGe) | 4:05 | 2022-09-16 |  |
+| [This Year's Love](https://open.spotify.com/track/4X6F9xoYUyJh4OhnXbAZv2) | [David Gray](https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV) | [White Ladder](https://open.spotify.com/album/27h98zEMf4R8Q25uOkumGe) | 4:05 | 2022-09-16 | 2022-11-12 |
+| [This Year's Love \- 2020 Remaster](https://open.spotify.com/track/5LAAykvFusHpsTd03OgqPw) | [David Gray](https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV) | [White Ladder \(20th Anniversary Edition\)](https://open.spotify.com/album/3ng5VSbmPioTrHajoJgr4X) | 4:05 | 2022-09-16 |  |
 | [Three Little Birds](https://open.spotify.com/track/75FYqcxt1YEAtqDLrOeIJn) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S) | 3:00 | 2020-06-22 | 2022-09-17 |
 | [True Colors](https://open.spotify.com/track/2Njmt8D9yOBjeR6RgYcfaI) | [Jules Larson](https://open.spotify.com/artist/66fOsZEHm1oSOEGov5KxxW) | [Let's Stay Young](https://open.spotify.com/album/7khzx0fwqW3he3pyjRJ2II) | 3:46 | 2022-09-16 |  |
 | [Waiting On the World to Change](https://open.spotify.com/track/5imShWWzwqfAJ9gXFpGAQh) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Continuum](https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM) | 3:21 | 2020-06-22 | 2022-09-17 |
 | [Where Is The Love?](https://open.spotify.com/track/0xmjwnQ3FNE6HuWCt2nHdZ) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Elephunk](https://open.spotify.com/album/3eqkfT9f1XyM8GME1gVDrD) | 4:32 | 2020-06-22 | 2022-09-17 |
 | [Wherever You Will Go](https://open.spotify.com/track/0IF7bHzCXCZoKNog5vBC4g) | [Charlene Soraia](https://open.spotify.com/artist/0qk8MxMzgnfFECvDO3cc0X) | [Wherever You Will Go](https://open.spotify.com/album/3cp5RYHZb5KUyglxaHd3Lh) | 3:17 | 2022-09-16 |  |
 | [XO](https://open.spotify.com/track/40xhyfAPDoMtv494MfPevP) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BEYONCÉ \[Platinum Edition\]](https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu) | 3:35 | 2022-09-16 |  |
-| [You And Me](https://open.spotify.com/track/0815caqt2Lytro5EIzMufT) | [Lifehouse](https://open.spotify.com/artist/5PokPZn11xzZXyXSfnvIM3) | [Lifehouse](https://open.spotify.com/album/2hOY4rDu51XSBvtwfWgSmz) | 3:15 | 2022-09-16 |  |
+| [You And Me](https://open.spotify.com/track/0815caqt2Lytro5EIzMufT) | [Lifehouse](https://open.spotify.com/artist/5PokPZn11xzZXyXSfnvIM3) | [Lifehouse](https://open.spotify.com/album/2hOY4rDu51XSBvtwfWgSmz) | 3:15 | 2022-09-16 | 2022-11-12 |
+| [You And Me](https://open.spotify.com/track/7pkmcSzzLlQYUkZDg5qJQQ) | [Lifehouse](https://open.spotify.com/artist/5PokPZn11xzZXyXSfnvIM3) | [Acoustic Classics](https://open.spotify.com/album/5LPCaJA9eWbpx4DQM2xXwm) | 3:15 | 2022-09-16 |  |
 | [You Give Me Something](https://open.spotify.com/track/28euH5Ny1JXxZAt2KjWp62) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [Undiscovered](https://open.spotify.com/album/00QEcKEqSmwP8odEMImIuz) | 3:32 | 2022-09-16 |  |
 | [Your Song \- Bonus Track](https://open.spotify.com/track/1a9hBnJodCsNcp0HoJAObp) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Bright Lights \(Lights Re\-pack / Bonus Version\)](https://open.spotify.com/album/64Pv36CiG9rBcyvKnud02V) | 3:11 | 2022-09-16 |  |
 | [Zorbing](https://open.spotify.com/track/0ANx3accyfc1uuZZ2Bolq3) | [Stornoway](https://open.spotify.com/artist/1UzKSuyOqKgUupcNNEtnF1) | [Beachcomber's Windowsill](https://open.spotify.com/album/2AMtm1De0VgqU4ubap8rbl) | 3:29 | 2020-06-22 | 2022-09-17 |

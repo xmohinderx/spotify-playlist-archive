@@ -4,7 +4,7 @@
 
 > music to help you \~ focus \~
 
-141 songs - 7 hr 31 min - [published](https://open.spotify.com/playlist/74P6RSDkuYCzrKQmY10acy)
+144 songs - 7 hr 39 min - [published](https://open.spotify.com/playlist/74P6RSDkuYCzrKQmY10acy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [Drunk Sleeping In Taxis](https://open.spotify.com/track/6JsTJ7ScTRdqz2yotO5aNe) | [Valentina Ploy](https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e) | [Drunk Sleeping In Taxis](https://open.spotify.com/album/0SHth88PCHEHHhf2nysItm) | 3:33 | 2022-04-19 |  |
 | [drunk text me](https://open.spotify.com/track/2tbu7dOzCjM5JrPGr0sIes) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [drunk text me](https://open.spotify.com/album/5UnfL0nJwrdb5th8GyZArU) | 3:33 | 2022-04-19 | 2022-07-29 |
 | [drunk text me](https://open.spotify.com/track/5gukv8x9eP58gFy2OcZEBQ) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [closer to closure](https://open.spotify.com/album/6CfZkq2gT8JmDKJGgHOIf1) | 3:33 | 2022-07-28 |  |
-| [Emotionless](https://open.spotify.com/track/7iKkBgyipYWWQuemhe8Fr6) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Emotionless](https://open.spotify.com/album/6YIclW9CUv2dDbOZshxxck) | 2:16 | 2022-06-23 |  |
+| [Emotionless](https://open.spotify.com/track/4mJ0rQth1WbwdVl4zgnFqs) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Survive My Own Mind](https://open.spotify.com/album/1ywqaWYRgovlH12fhAFdpN) | 2:16 | 2022-11-07 |  |
+| [Emotionless](https://open.spotify.com/track/7iKkBgyipYWWQuemhe8Fr6) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Emotionless](https://open.spotify.com/album/6YIclW9CUv2dDbOZshxxck) | 2:16 | 2022-06-23 | 2022-11-12 |
 | [Fake A Smile](https://open.spotify.com/track/6rAGFY9D3ah6Lb7fUgbNNH) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Fake A Smile](https://open.spotify.com/album/1leY6jsSJO6qjoZYUxE2fN) | 2:48 | 2022-04-19 | 2022-05-20 |
 | [Family Line](https://open.spotify.com/track/0iNZGC211wst3VjtobNnC5) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Superache](https://open.spotify.com/album/5hIOd0FvjlgG4uLjXHkFWI) | 3:36 | 2022-06-23 |  |
 | [Fat Funny Friend](https://open.spotify.com/track/4eaSY3ucamesaARYBsLfz2) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Fat Funny Friend](https://open.spotify.com/album/1GPXyEfrKW38dJsC1nSXu0) | 3:19 | 2022-04-19 | 2022-07-09 |
@@ -64,7 +65,8 @@
 | [Give You Love](https://open.spotify.com/track/0H4yyuVRMIXT9hkDZMc6D6) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [Give You Love](https://open.spotify.com/album/307eCZ5BF0wjOmE29qDiUj) | 2:53 | 2022-05-19 |  |
 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 | 2022-06-15 |  |
 | [Goodbye](https://open.spotify.com/track/7ugxl0JmzLzfKQwzcdyWcr) | [Paige](https://open.spotify.com/artist/2hscsIIlxYGIUYsfarFCG7) | [Goodbye](https://open.spotify.com/album/7ucPVCRtolBzcgcGW3WD5g) | 2:48 | 2022-04-19 | 2022-08-23 |
-| [hate to be lame](https://open.spotify.com/track/26MJjeJ0NSOQDKeZzrEFMl) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 2:36 | 2022-09-12 |  |
+| [hate to be lame](https://open.spotify.com/track/26MJjeJ0NSOQDKeZzrEFMl) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 2:36 | 2022-09-12 | 2022-11-12 |
+| [hate to be lame](https://open.spotify.com/track/2x6s55uyxXV59O4t95sVl6) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [hate to be lame](https://open.spotify.com/album/6lLeTIHyucDxa2dYocc8Fv) | 2:36 | 2022-11-07 |  |
 | [hate to be lame \(feat\. FINNEAS\)](https://open.spotify.com/track/3QEX5O23KVp1yg1tj6Hycp) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [hate to be lame](https://open.spotify.com/album/5op9qDxPxMSBpV593Nxsaj) | 2:36 | 2022-04-19 | 2022-11-02 |
 | [Haunted](https://open.spotify.com/track/5W4ajZQRbMCZSaK7dQdymn) | [George Alice](https://open.spotify.com/artist/2qmz9qPEFq5phZ8bscA2oL) | [Growing Pains](https://open.spotify.com/album/2Xq1V8fJL89IUm4eOBzMOu) | 3:33 | 2022-04-19 |  |
 | [Healing](https://open.spotify.com/track/2jgq1RlYLt4FZldm4KAfj2) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Healing](https://open.spotify.com/album/3sjbCpkd5bRaUuDMxKUy3s) | 3:07 | 2022-04-19 |  |
@@ -88,7 +90,8 @@
 | [if i were a friend](https://open.spotify.com/track/11gjN7Mh7DA6GzVJmhUvcn) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [if i were a friend](https://open.spotify.com/album/6n5YzvSeJh7THkuLUAAnRE) | 2:32 | 2022-04-19 | 2022-08-23 |
 | [In The Stars](https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [In The Stars](https://open.spotify.com/album/6dSmXsyGAnFtq048IFhiYd) | 3:36 | 2022-04-28 | 2022-09-13 |
 | [Inevitable](https://open.spotify.com/track/16aUfGKznCQHHi00xCFy6v) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [You Might Not Like Her \(Clean\)](https://open.spotify.com/album/1qZD8GiN2m2wxydGdXHpYT) | 3:22 | 2022-08-11 | 2022-10-13 |
-| [Inevitable](https://open.spotify.com/track/4HFPqbaVJIc0uTB1QhCY8z) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [You Might Not Like Her](https://open.spotify.com/album/3HQwoxEe5p7RNoOagQ57q4) | 3:22 | 2022-09-12 |  |
+| [Inevitable](https://open.spotify.com/track/4HFPqbaVJIc0uTB1QhCY8z) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [You Might Not Like Her](https://open.spotify.com/album/3HQwoxEe5p7RNoOagQ57q4) | 3:22 | 2022-09-12 | 2022-11-12 |
+| [Inevitable](https://open.spotify.com/track/4jFWWwXkW037NJvLuZs9Kj) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [You Might Not Like Her \(Clean\)](https://open.spotify.com/album/6WnoRdx3QhZkaImW71OLon) | 3:22 | 2022-11-07 |  |
 | [It'll Be Okay](https://open.spotify.com/track/2KnLkZ3z7PO3kgVGHGqDpD) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [It'll Be Okay](https://open.spotify.com/album/3sDud6BapENewYxlL8VH8r) | 3:42 | 2022-04-19 | 2022-05-25 |
 | [Kind Of Girl](https://open.spotify.com/track/04cy0BQeW4ZDLspMIfpMLv) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Kind Of Girl](https://open.spotify.com/album/7M7Qc4c1qDMdrDWXtQ4NF7) | 4:06 | 2022-04-28 | 2022-09-02 |
 | [Kind Of Girl](https://open.spotify.com/track/2kNnSv2CB0MO3O5WMspcSC) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 4:06 | 2022-08-22 |  |

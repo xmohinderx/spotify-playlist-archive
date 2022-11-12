@@ -4,7 +4,7 @@
 
 > Top of the top hits from Korean Pop Artists! Cover: <a href="spotify:artist:41MozSoPIsD1dJM0CLPjZF">BLACKPINK</a>
 
-144 songs - 8 hr 25 min - [published](https://open.spotify.com/playlist/7vrBYk8g13xhxuK6Oiw2h4)
+145 songs - 8 hr 28 min - [published](https://open.spotify.com/playlist/7vrBYk8g13xhxuK6Oiw2h4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,8 +109,9 @@
 | [Scentist](https://open.spotify.com/track/1ta34Dk3EH9rcQ6Bu3Yj35) | [VIXX](https://open.spotify.com/artist/5BkB3rXc0qIdUtuEnhbK0A) | [Eau De Vixx](https://open.spotify.com/album/3NdoYD1cAxSr6cjh99yrGz) | 3:04 | 2022-03-18 | 2022-07-29 |
 | [Scentist](https://open.spotify.com/track/18oDuUN4ixceCOX6hkfdRZ) | [VIXX](https://open.spotify.com/artist/5BkB3rXc0qIdUtuEnhbK0A) | [EAU DE VIXX](https://open.spotify.com/album/4dUIpYgwZeY8z15ikxThDE) | 3:04 | 2022-07-14 | 2022-11-11 |
 | [Scentist](https://open.spotify.com/track/1HybeCid417lV9ldlKGenl) | [VIXX](https://open.spotify.com/artist/5BkB3rXc0qIdUtuEnhbK0A) | [Reincarnation](https://open.spotify.com/album/6A2ahWJPDQl2n7bAtftT51) | 3:07 | 2022-07-14 |  |
-| [SEE SEA](https://open.spotify.com/track/09Pp9Q9593vnr91Ldi4let) | [Hyolyn](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [SEE SEA](https://open.spotify.com/album/1t3IRZpNvtOD1tXfFLrLOe) | 3:20 | 2022-07-14 |  |
+| [SEE SEA](https://open.spotify.com/track/09Pp9Q9593vnr91Ldi4let) | [Hyolyn](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [SEE SEA](https://open.spotify.com/album/1t3IRZpNvtOD1tXfFLrLOe) | 3:20 | 2022-07-14 | 2022-11-12 |
 | [SEE SEA](https://open.spotify.com/track/481yYUbtfs67PaKYKxJOeF) | [Hyolyn](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [SEE SEA](https://open.spotify.com/album/2BOKToUfHlLRoVEcRxbQsr) | 3:20 | 2022-03-18 | 2022-07-29 |
+| [SEE SEA](https://open.spotify.com/track/6UMAXSwjuP9YPlObKugTO9) | [Hyolyn](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [SAY MY NAME](https://open.spotify.com/album/0ZqsXIBaGGO8I1AbCxAdyt) | 3:20 | 2022-07-14 |  |
 | [seoul \(prod\. HONNE\)](https://open.spotify.com/track/4VcKLbECzwOQTYe3Sut6xJ) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [mono.](https://open.spotify.com/album/4f9hYOZPtGfcUd1dT30G1H) | 4:35 | 2022-07-14 |  |
 | [seoul \(prod\. HONNE\)](https://open.spotify.com/track/73ipE4lfZ53pvBbJPXkiEK) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [mono.](https://open.spotify.com/album/0XqAZHNx0xJDObehTI2587) | 4:35 | 2022-03-18 | 2022-07-29 |
 | [She's In The Rain](https://open.spotify.com/track/0TxSk5fpK01cBLV9ePqcE6) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [Dawn](https://open.spotify.com/album/2rKkvzVCh5GD3yh5BYBJ4a) | 3:57 | 2022-03-18 | 2022-07-29 |

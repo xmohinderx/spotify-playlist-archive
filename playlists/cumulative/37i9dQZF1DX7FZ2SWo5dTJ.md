@@ -4,7 +4,7 @@
 
 > Soundtrack your 2022 resolutions with Jeanette Jenkins.
 
-48 songs - 3 hr 43 min - [published](https://open.spotify.com/playlist/45TE9HqDov35LUf15heZki)
+49 songs - 3 hr 46 min - [published](https://open.spotify.com/playlist/45TE9HqDov35LUf15heZki)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,8 +30,9 @@
 | [Leave the Door Open](https://open.spotify.com/track/1WQkIkrkEc0mydf6SVULgH) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Totally Romantic Ballads](https://open.spotify.com/album/3zeuHqBj3w0Hd4MPgUGCqi) | 4:02 | 2022-01-12 |  |
 | [Leave The Door Open](https://open.spotify.com/track/7MAibcTli4IisCtbHKrGMh) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Leave The Door Open](https://open.spotify.com/album/7dfPqXck6BB9wpThrVYBss) | 4:02 | 2022-01-12 | 2022-07-29 |
 | [Love and Happiness](https://open.spotify.com/track/6SMHgPgNkhe9lneNTbgtel) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [I'm Still in Love with You](https://open.spotify.com/album/7hI0QCwcx9GB8MZK24IfTT) | 5:07 | 2022-01-12 |  |
+| [Mavinga](https://open.spotify.com/track/1pIZQi4p11qQDOcZfyrKm4) | [Lulendo](https://open.spotify.com/artist/75lrOChDQcL9UxlunX6rFX) | [Buddhattitude \- Alaafiya](https://open.spotify.com/album/5Ckzuy2ABABhHMUL6gkZ3n) | 3:40 | 2022-01-12 |  |
 | [Mavinga](https://open.spotify.com/track/25ePJQLoXy4iTdhwYFH6Uo) | [Lulendo](https://open.spotify.com/artist/75lrOChDQcL9UxlunX6rFX) | [Buddhattitude Alaafiya](https://open.spotify.com/album/0V2Z3yJd3Ah8g9BQIIlcIG) | 3:40 | 2022-01-12 | 2022-07-29 |
-| [Mavinga](https://open.spotify.com/track/6gFV9RfdDkn8OoS79XcbH4) | [Lulendo](https://open.spotify.com/artist/75lrOChDQcL9UxlunX6rFX) | [Soul of Africa](https://open.spotify.com/album/1gXlHPuQjK7K2nVuTTSoUk) | 3:43 | 2022-01-12 |  |
+| [Mavinga](https://open.spotify.com/track/6gFV9RfdDkn8OoS79XcbH4) | [Lulendo](https://open.spotify.com/artist/75lrOChDQcL9UxlunX6rFX) | [Soul of Africa](https://open.spotify.com/album/1gXlHPuQjK7K2nVuTTSoUk) | 3:43 | 2022-01-12 | 2022-11-12 |
 | [Nat King Cole \(Originals\)](https://open.spotify.com/track/1DO2DASHJl61O13YFMTZLf) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [KEYS](https://open.spotify.com/album/76vpmS3ZCGm4hN8QtbnedX) | 3:39 | 2022-01-12 |  |
 | [Ocean Waves for Meditating, Relaxing and Sleeping](https://open.spotify.com/track/5Si1Ymax4mrE3aHJE9vufU) | [Zen Meditations from a Sleeping Buddha](https://open.spotify.com/artist/0JrQmJVeNxqiV4M1bG5Wxz) | [Ocean Waves for Meditating, Relaxing and Sleeping](https://open.spotify.com/album/7gKWXrj6yIcGiRy9xcAxhA) | 15:12 | 2022-01-12 |  |
 | [One Dance](https://open.spotify.com/track/1zi7xx7UVEFkmKfv06H8x0) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Kyla](https://open.spotify.com/artist/77DAFfvm3O9zT5dIoG0eIO) | [Views](https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb) | 2:53 | 2022-01-12 |  |

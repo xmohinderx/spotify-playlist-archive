@@ -4,7 +4,7 @@
 
 > ¡De la tarima a tus bocinas! Lo mejor del mariachi en vivo\. Juan Gabriel en portada.
 
-80 songs - 5 hr 27 min - [published](https://open.spotify.com/playlist/78I0A29BGLLpEnxIWpW2q7)
+81 songs - 5 hr 32 min - [published](https://open.spotify.com/playlist/78I0A29BGLLpEnxIWpW2q7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,8 +36,9 @@
 | [Hasta Que Te Conocí \- En Vivo \- Remasterizado](https://open.spotify.com/track/1G8GC7MXucd5l7dU6ifgAT) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Lo Esencial De Ana Gabriel](https://open.spotify.com/album/2bdaZKWu05LqbN8OwJtuPZ) | 3:40 | 2021-12-29 |  |
 | [Hermoso Cariño](https://open.spotify.com/track/1HBDEruKxQkb9nZnp2QE5B) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Pisteando Con La Regida \(Vol\. 3\)](https://open.spotify.com/album/43VJC0wCb2qkm1KrIdRYqc) | 2:12 | 2021-12-29 |  |
 | [Homenaje a Lola \(Popurrí\) \- En Vivo](https://open.spotify.com/track/1jAuWENO3fqVV95sZRyKGQ) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Celebrando 25 Años De Juan Gabriel En El Palacio De Bellas Artes](https://open.spotify.com/album/3EdXKrmsoiThC0FWi9ctNH) | 8:44 | 2021-12-29 |  |
+| [Inocente Pobre Amiga \- En Vivo Desde Culiacán, México/2012](https://open.spotify.com/track/0Lyg4QD1qDF3T86N7VNZMF) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Mujeres con Mariachi](https://open.spotify.com/album/5HOlH78OGhLQx35UudXbPY) | 4:58 | 2021-12-29 |  |
 | [Inocente Pobre Amiga \- En Vivo Desde Culiacán, México/2012](https://open.spotify.com/track/574ZYeSvOOvYCPcgabSQwo) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [1 Vida \- 3 Historias \- Despedida De Culiacán \(En Vivo Desde Culiacán, México/2012\)](https://open.spotify.com/album/3WlN6A2y1EKdI74XPoqMHt) | 4:58 | 2021-12-29 | 2022-10-23 |
-| [Inocente Pobre Amiga \- Live](https://open.spotify.com/track/0ZUsFHwJXaG7tz1KayJGkX) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [1 Vida – 3 Historias Despedida De Culiacan \(En Vivo Desde Culiacan, Mexico 2012\)](https://open.spotify.com/album/504V91nbehQse2zsrqNzHs) | 4:58 | 2021-12-29 |  |
+| [Inocente Pobre Amiga \- Live](https://open.spotify.com/track/0ZUsFHwJXaG7tz1KayJGkX) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [1 Vida – 3 Historias Despedida De Culiacan \(En Vivo Desde Culiacan, Mexico 2012\)](https://open.spotify.com/album/504V91nbehQse2zsrqNzHs) | 4:58 | 2021-12-29 | 2022-11-12 |
 | [La bikina \- En vivo](https://open.spotify.com/track/1jxO9AwMqYynDsuMWKrPvi) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Vivo](https://open.spotify.com/album/2GtCBgC1SYeeb8fcxGWCLo) | 2:59 | 2021-12-29 |  |
 | [La Diferencia](https://open.spotify.com/track/74nYy9TioHzoaPghz6m77N) | [Lupillo Rivera](https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW) | [Mariachi Hit Parade](https://open.spotify.com/album/1lQUnQ5cmgVuNBgJLFIv3A) | 3:11 | 2021-12-29 |  |
 | [La Diferencia \- \(En Vivo\)](https://open.spotify.com/track/5XnTV4ENs0oBwOLULxAavK) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Primera Fila](https://open.spotify.com/album/4eW3alaXA3prOOUAAusU2B) | 3:00 | 2021-12-29 |  |

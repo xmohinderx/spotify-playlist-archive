@@ -1649,7 +1649,7 @@
       ],
       "date_added": "2020-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 241123,
       "name": "Morning",
       "url": "https://open.spotify.com/track/1ZOInA89l84oYwjac57Nzs"
@@ -1671,6 +1671,24 @@
       "duration_ms": 241123,
       "name": "Morning",
       "url": "https://open.spotify.com/track/1xPYXQ677AtLALqqQM8jVR"
+    },
+    {
+      "album": {
+        "name": "Bryce Drive",
+        "url": "https://open.spotify.com/album/6sg52CYJUwjpfmB7KQTRzx"
+      },
+      "artists": [
+        {
+          "name": "Tennis Club",
+          "url": "https://open.spotify.com/artist/6kVv3d4WEjR4gjHzAbOvNo"
+        }
+      ],
+      "date_added": "2020-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241123,
+      "name": "Morning",
+      "url": "https://open.spotify.com/track/6wo5U6dmmM4fpNsBP8628k"
     },
     {
       "album": {
@@ -2646,6 +2664,24 @@
     },
     {
       "album": {
+        "name": "Special",
+        "url": "https://open.spotify.com/album/5B6f4Orq3JNb3Ri0AMO7C8"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Sands",
+          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
+        }
+      ],
+      "date_added": "2020-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207656,
+      "name": "Sweatshirt",
+      "url": "https://open.spotify.com/track/1laJUKhvEunwkiYuND2bfP"
+    },
+    {
+      "album": {
         "name": "Sweatshirt",
         "url": "https://open.spotify.com/album/4143L9i3dl8e3zJFhTAjLv"
       },
@@ -2675,7 +2711,7 @@
       ],
       "date_added": "2020-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 207656,
       "name": "Sweatshirt",
       "url": "https://open.spotify.com/track/44SMpuP6NAhV6l5OIwE090"
@@ -2974,6 +3010,24 @@
     },
     {
       "album": {
+        "name": "Weekend",
+        "url": "https://open.spotify.com/album/092FyXsaCbzzHP4fXzBbOA"
+      },
+      "artists": [
+        {
+          "name": "Clubhouse",
+          "url": "https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX"
+        }
+      ],
+      "date_added": "2020-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188380,
+      "name": "Weekend",
+      "url": "https://open.spotify.com/track/7jXO2KuhobrDcEL4ifhhD1"
+    },
+    {
+      "album": {
         "name": "Are We Going Too Slow?",
         "url": "https://open.spotify.com/album/5xIG1uX52BQikNOdXtL10N"
       },
@@ -2985,7 +3039,7 @@
       ],
       "date_added": "2020-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 188380,
       "name": "Weekend",
       "url": "https://open.spotify.com/track/7zFtgo8QMmJQj6dWKrtQwM"

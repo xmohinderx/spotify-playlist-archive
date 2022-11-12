@@ -4,7 +4,7 @@
 
 > You feel the sun on your face.
 
-98 songs - 5 hr 6 min - [published](https://open.spotify.com/playlist/1c2X5gtsaUdjfhq6okPYv2)
+99 songs - 5 hr 8 min - [published](https://open.spotify.com/playlist/1c2X5gtsaUdjfhq6okPYv2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,8 +16,9 @@
 | [Bad Treatment](https://open.spotify.com/track/215IEBl0xMCM6lhSPFY0uV) | [Cannon & The Soul Vendors](https://open.spotify.com/artist/6WbLpFGT1pphhgLCfB3pf4) | [Soul Jazz Records Presents Studio One Rocksteady 2: The Soul of Young Jamaica: Rocksteady, Soul and Early Reggae at Studio One](https://open.spotify.com/album/5d74Pe7mcGtyVoXmwVfowG) | 3:02 | 2021-04-23 |  |
 | [Beat Down Babylon](https://open.spotify.com/track/4295DKi5lhEJWzljy6Lbnx) | [Prince Francis](https://open.spotify.com/artist/0ZmWfUj6u8nXIgKYwnFMKd) | [Studio One Funk](https://open.spotify.com/album/5Ywu5U2ufJsj751yuKw3V4) | 3:03 | 2021-04-23 | 2022-07-15 |
 | [Black Wax](https://open.spotify.com/track/1yZp4EH1pnKnytB1psEb7y) | [Pablove Black](https://open.spotify.com/artist/42FwZoRg0zhZgg2LUqglEz) | [Studio One Scorcher Volume 2](https://open.spotify.com/album/7uBodlWM79A8BbXJqHS90a) | 3:24 | 2021-04-23 |  |
-| [Bobby Babylon](https://open.spotify.com/track/0VjZC2nsyapSm0pd5r4Jns) | [Freddie McGregor](https://open.spotify.com/artist/30R9paG1c5BGtNGle59VPq) | [Freddie McGregor: The Anthology](https://open.spotify.com/album/3LamMh1kBDsc516HnS0Iuf) | 2:27 | 2021-04-23 |  |
+| [Bobby Babylon](https://open.spotify.com/track/0VjZC2nsyapSm0pd5r4Jns) | [Freddie McGregor](https://open.spotify.com/artist/30R9paG1c5BGtNGle59VPq) | [Freddie McGregor: The Anthology](https://open.spotify.com/album/3LamMh1kBDsc516HnS0Iuf) | 2:27 | 2021-04-23 | 2022-11-12 |
 | [Bobby Babylon](https://open.spotify.com/track/2Z0EHTytryLUAIUikxakIH) | [Freddie McGregor](https://open.spotify.com/artist/30R9paG1c5BGtNGle59VPq) | [Studio One Rockers](https://open.spotify.com/album/1EFphq3puPV57G4nDjqodc) | 2:29 | 2021-04-23 | 2022-07-29 |
+| [Bobby Bobylon](https://open.spotify.com/track/5TjBwP3SZMJNvmh4aCfTMS) | [Freddie McGregor](https://open.spotify.com/artist/30R9paG1c5BGtNGle59VPq) | [Bobby Bobylon: Deluxe Edition](https://open.spotify.com/album/4u8wLI8DPL2CJ8d9NyKX7g) | 2:26 | 2021-04-23 |  |
 | [Bongo Red](https://open.spotify.com/track/2eo43OF7EEgIELPnTcrJUH) | [The Gladiators](https://open.spotify.com/artist/3L5iYAziSDnuaHsSgbkcIP) | [Studio One Ironsides](https://open.spotify.com/album/0Ym3DwPjz2z97Yd4K9w0gG) | 2:48 | 2021-04-23 |  |
 | [Buffalo Soldier](https://open.spotify.com/track/7BfW1eoDh27W69nxsmRicb) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Confrontation](https://open.spotify.com/album/5Rg4ZSwf1LPCuAMr0msdun) | 4:15 | 2021-04-23 |  |
 | [Call to Me](https://open.spotify.com/track/5AlZ6pmFMiiEGAm6QLKhC5) | [Marcia Griffiths](https://open.spotify.com/artist/4qLV9FR6ZVLS6W8drD78hM) | [Studio One Sound](https://open.spotify.com/album/4A6Fpk3NTbzdIXAAFNtJze) | 2:03 | 2021-04-23 | 2022-07-29 |
@@ -47,7 +48,7 @@
 | [Jah Jah Go Before Us](https://open.spotify.com/track/1R0XkmUBzSOqiWV8XSZ1if) | [The Gladiators](https://open.spotify.com/artist/3L5iYAziSDnuaHsSgbkcIP) | [Presenting The Gladiators](https://open.spotify.com/album/6inbtfHKcxOyAAOqkzw7di) | 2:41 | 2021-04-23 |  |
 | [Jah Jah Go Before Us](https://open.spotify.com/track/55lbdEV1suvlkYVyIgVZxU) | [The Gladiators](https://open.spotify.com/artist/3L5iYAziSDnuaHsSgbkcIP) | [Studio One Groups](https://open.spotify.com/album/3vFEdqMMbJas3yRrxcBtUo) | 2:46 | 2021-04-23 | 2022-07-29 |
 | [Jamming](https://open.spotify.com/track/4zn0kScuV9Oj28d4g9CQQs) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus \(Deluxe Edition\)](https://open.spotify.com/album/1vHvJVBK0WnpbYFw4f4UTD) | 3:31 | 2021-04-23 | 2022-07-28 |
-| [Jamming](https://open.spotify.com/track/5LyfiK6iXEIBNEtcaGKohl) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S) | 3:31 | 2021-04-23 |  |
+| [Jamming](https://open.spotify.com/track/5LyfiK6iXEIBNEtcaGKohl) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S) | 3:31 | 2021-04-23 | 2022-11-12 |
 | [Jericho Skank](https://open.spotify.com/track/3TJ7zlTrUnssanybZDirCu) | [Jackie Mittoo & Ernest Ranglin](https://open.spotify.com/artist/3qqbVqjun4ZUlWsjwg8tQq) | [Studio One Scorcher](https://open.spotify.com/album/1029hBjeSFRkXBRBsy1jvi) | 2:57 | 2021-04-23 | 2022-09-19 |
 | [Joe Frazier](https://open.spotify.com/track/7E8tawQq5q8Hr4UWCT7lgT) | [Dennis Alcapone](https://open.spotify.com/artist/3Ko5w2NYcaqtAtvDrJMdw5) | [Studio One Ironsides](https://open.spotify.com/album/0Ym3DwPjz2z97Yd4K9w0gG) | 3:18 | 2021-04-23 |  |
 | [Keep on Moving](https://open.spotify.com/track/3fooEYpcvSYV8XWRRZ59AD) | [Lord Tanamo](https://open.spotify.com/artist/0jCQfGTP2CuiYqPiVTmzU6) | [Studio One Sound](https://open.spotify.com/album/4A6Fpk3NTbzdIXAAFNtJze) | 2:30 | 2021-04-23 |  |
@@ -72,7 +73,7 @@
 | [Pick Up The Pieces](https://open.spotify.com/track/63OEtoCA6gPrkeqe68xsN7) | [The Royals](https://open.spotify.com/artist/3wbKJbdbAOOAvNyJQjGfNn) | [Studio One Groups](https://open.spotify.com/album/3vFEdqMMbJas3yRrxcBtUo) | 3:09 | 2021-04-23 |  |
 | [Poco Tempo](https://open.spotify.com/track/1X2V7D8O2BeVXPatr23Evr) | [Pablove Black](https://open.spotify.com/artist/42FwZoRg0zhZgg2LUqglEz) | [Studio One Funk](https://open.spotify.com/album/5Ywu5U2ufJsj751yuKw3V4) | 4:13 | 2021-04-23 | 2022-07-29 |
 | [Poco Tempo \(aka Pocco Tempo\)](https://open.spotify.com/track/3XsdL4mKkygWZpOcyt4vfp) | [Pablove Black and The New Establishment](https://open.spotify.com/artist/1AWHkjdfs8WUkn61MicKNq) | [Natural High: The Bongo Man Collection](https://open.spotify.com/album/09ThsD4R0KOVguZBScQH3S) | 4:10 | 2021-04-23 |  |
-| [Positive Vibration](https://open.spotify.com/track/5722IiSQ4ZqzpwhwFeCz2u) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Rastaman Vibration](https://open.spotify.com/album/6Gdf5vvFmoEwcsEV61tXiT) | 3:33 | 2021-04-23 | 2022-08-19 |
+| [Positive Vibration](https://open.spotify.com/track/5722IiSQ4ZqzpwhwFeCz2u) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Rastaman Vibration](https://open.spotify.com/album/6Gdf5vvFmoEwcsEV61tXiT) | 3:33 | 2021-04-23 |  |
 | [Race Track](https://open.spotify.com/track/0AgvO8IHuz0AqAnOK2Js7h) | [Brentford All Stars](https://open.spotify.com/artist/140dNiDsAyiwBMNCKLZJXc) | [Studio One Scorcher Volume 2](https://open.spotify.com/album/7uBodlWM79A8BbXJqHS90a) | 2:17 | 2021-04-23 |  |
 | [Real Rock](https://open.spotify.com/track/5jnA4sMHH7OiImyOHKSVdl) | [Sound Dimension](https://open.spotify.com/artist/5OUHQrNOEtdwwSo7I68lzv) | [Studio One Rockers](https://open.spotify.com/album/1EFphq3puPV57G4nDjqodc) | 2:31 | 2021-04-23 |  |
 | [Reggae Feet](https://open.spotify.com/track/7bfqVYoG4SEjyp0LgUf6KG) | [Lloyd Williams](https://open.spotify.com/artist/0neTVvqj2VQoVQRrfWtfNE) | [Studio One Funk](https://open.spotify.com/album/5Ywu5U2ufJsj751yuKw3V4) | 2:34 | 2021-04-23 |  |

@@ -4,7 +4,7 @@
 
 > a maroon kind of mood
 
-101 songs - 6 hr 1 min - [published](https://open.spotify.com/playlist/23fB26dU2vYzc523vA12TM)
+103 songs - 6 hr 7 min - [published](https://open.spotify.com/playlist/23fB26dU2vYzc523vA12TM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,8 @@
 | [hate to be lame](https://open.spotify.com/track/2x6s55uyxXV59O4t95sVl6) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [hate to be lame](https://open.spotify.com/album/6lLeTIHyucDxa2dYocc8Fv) | 2:36 | 2022-10-10 |  |
 | [hate to be lame \(feat\. FINNEAS\)](https://open.spotify.com/track/33DWkHTEF8LmdxI1OPc50a) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [five seconds flat](https://open.spotify.com/album/7vh3nkUP7HlDQIeSm7Ht6N) | 2:36 | 2022-09-16 | 2022-10-13 |
 | [hate to be lame \(feat\. FINNEAS\)](https://open.spotify.com/track/3QEX5O23KVp1yg1tj6Hycp) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [hate to be lame](https://open.spotify.com/album/5op9qDxPxMSBpV593Nxsaj) | 2:36 | 2022-10-10 | 2022-10-17 |
-| [Haunted House](https://open.spotify.com/track/3J0jlN9j7fpmghvALVF0Th) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Can You Afford To Lose Me?](https://open.spotify.com/album/17XDDX3RYaIu56inOJzAWO) | 2:13 | 2022-10-10 |  |
+| [Haunted House](https://open.spotify.com/track/1Vqp7VrSeMMzpg9JluibWA) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Best Alternative Pop Tunes](https://open.spotify.com/album/20UA4OcMt8UXK3oyY00HNB) | 2:13 | 2022-10-10 |  |
+| [Haunted House](https://open.spotify.com/track/3J0jlN9j7fpmghvALVF0Th) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Can You Afford To Lose Me?](https://open.spotify.com/album/17XDDX3RYaIu56inOJzAWO) | 2:13 | 2022-10-10 | 2022-11-12 |
 | [Haunted House](https://open.spotify.com/track/6A6A6VJtMLsPKyHxNlYT5h) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [The Walls Are Way Too Thin](https://open.spotify.com/album/3fnXTtLgkjHv2HmqOODSW8) | 2:13 | 2022-09-16 | 2022-10-28 |
 | [Heather](https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:18 | 2022-09-16 |  |
 | [How Do I Say Goodbye](https://open.spotify.com/track/5hnGrTBaEsdukpDF6aZg8a) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [How Do I Say Goodbye](https://open.spotify.com/album/3cptxwPFf3Ioj7I3AVX3mp) | 2:43 | 2022-09-27 |  |
@@ -101,7 +102,8 @@
 | [The Next Best American Record](https://open.spotify.com/track/7vRfxLcDDwgYW2WTrtEgUV) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 5:49 | 2022-09-16 |  |
 | [The Night We Met](https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS) | 3:28 | 2022-09-16 |  |
 | [This Year's Love](https://open.spotify.com/track/1dQOMZz9SkT7ig0w65lQWC) | [David Gray](https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV) | [White Ladder](https://open.spotify.com/album/0rK8K0z9sYhEhCW51v9jrp) | 4:05 | 2022-09-16 | 2022-10-13 |
-| [This Year's Love](https://open.spotify.com/track/4X6F9xoYUyJh4OhnXbAZv2) | [David Gray](https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV) | [White Ladder](https://open.spotify.com/album/27h98zEMf4R8Q25uOkumGe) | 4:05 | 2022-10-10 |  |
+| [This Year's Love](https://open.spotify.com/track/4X6F9xoYUyJh4OhnXbAZv2) | [David Gray](https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV) | [White Ladder](https://open.spotify.com/album/27h98zEMf4R8Q25uOkumGe) | 4:05 | 2022-10-10 | 2022-11-12 |
+| [This Year's Love \- 2020 Remaster](https://open.spotify.com/track/5LAAykvFusHpsTd03OgqPw) | [David Gray](https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV) | [White Ladder \(20th Anniversary Edition\)](https://open.spotify.com/album/3ng5VSbmPioTrHajoJgr4X) | 4:05 | 2022-10-10 |  |
 | [TV](https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guitar Songs](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) | 4:41 | 2022-09-16 |  |
 | [we fell in love in october](https://open.spotify.com/track/1BYZxKSf0aTxp8ZFoeyM3d) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [we fell in love in october / forget her](https://open.spotify.com/album/4oRcMHsdNG9IAF3xwv1kWu) | 3:04 | 2022-09-16 | 2022-10-13 |
 | [we fell in love in october](https://open.spotify.com/track/6FYfhKknpt05Om6YPcEYAg) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [we fell in love in october / forget her](https://open.spotify.com/album/1B7zkWS3Lty7uI7ajkBucu) | 3:04 | 2022-10-10 | 2022-10-21 |

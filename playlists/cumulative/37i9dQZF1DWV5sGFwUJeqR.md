@@ -4,7 +4,7 @@
 
 > El género cubano cantable y bailable por excelencia.
 
-94 songs - 6 hr 52 min - [published](https://open.spotify.com/playlist/0wPAeHX5PTuxN79WTWAwvo)
+96 songs - 6 hr 59 min - [published](https://open.spotify.com/playlist/0wPAeHX5PTuxN79WTWAwvo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,8 +43,9 @@
 | [De Camino a la Vereda \- 2021 Remaster](https://open.spotify.com/track/2O0x8hq0jcPY71HwAINYpN) | [Buena Vista Social Club](https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW) | [Buena Vista Social Club \(25th Anniversary Edition\)](https://open.spotify.com/album/1nFB8QplQIMAW7WavViN9B) | 5:03 | 2022-03-31 |  |
 | [Descarga Cubana](https://open.spotify.com/track/5zc2m1mCHseqrvjCDIcQTY) | [Cachao](https://open.spotify.com/artist/1Qa5p9ajnRIvq7bfsdtzqQ) | [Salsa Caliente \(Hot Rhythms\)](https://open.spotify.com/album/4ZsTBgwdo7Mb1UYOYM9aJB) | 3:03 | 2020-04-30 |  |
 | [Donde va chichi](https://open.spotify.com/track/0Fg0R1m3qr8UQY6PT94IWk) | [Beinvenido Julian Gutierrez](https://open.spotify.com/artist/5cmaggznBsq9uBybddy5g7), [Sierra Maestra](https://open.spotify.com/artist/04azg2bFlSz46nOe03VY2w) | [Tibiri Tabara](https://open.spotify.com/album/1gXkoDxNDrTKLApkn9piWI) | 5:11 | 2020-04-30 | 2022-07-29 |
-| [Dos Gardenias](https://open.spotify.com/track/3eg6Yi9x0gN3k4nD4h6il3) | [Buena Vista Social Club](https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW) | [Buena Vista Social Club](https://open.spotify.com/album/6DPdEaZ0KDBCCgXyy4q8bi) | 3:02 | 2022-03-31 |  |
+| [Dos Gardenias](https://open.spotify.com/track/3eg6Yi9x0gN3k4nD4h6il3) | [Buena Vista Social Club](https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW) | [Buena Vista Social Club](https://open.spotify.com/album/6DPdEaZ0KDBCCgXyy4q8bi) | 3:02 | 2022-03-31 | 2022-11-12 |
 | [Dos Gardenias](https://open.spotify.com/track/6XPnsGksSwjcQXX7nfO5Wu) | [Buena Vista Social Club](https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW) | [Buena Vista Social Club](https://open.spotify.com/album/6qeYhdDR0FH7IvvArQlMuW) | 3:02 | 2020-04-30 | 2022-07-29 |
+| [Dos Gardenias \- 2021 Remaster](https://open.spotify.com/track/2gdbEa36B1bKcEE0HP4dJ4) | [Buena Vista Social Club](https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW) | [Buena Vista Social Club \(25th Anniversary Edition\)](https://open.spotify.com/album/1nFB8QplQIMAW7WavViN9B) | 3:03 | 2022-03-31 |  |
 | [Dulce Habanera](https://open.spotify.com/track/6ijh9JrrEYvXsVl45ohmgJ) | [Osvaldo Farrés](https://open.spotify.com/artist/5ThTreQSco0IwxQRm8mbGA) | [La Música de La Bodeguita: Vol\. 1 De Cuba con Sabor](https://open.spotify.com/album/4zU5ji5KJmtovm3pgEsCGc) | 3:38 | 2020-04-30 |  |
 | [Dónde Va Chichi?](https://open.spotify.com/track/7xpJQcmsnGG9ojztoCNe54) | [Sierra Maestra](https://open.spotify.com/artist/04azg2bFlSz46nOe03VY2w) | [Tibiri Tabara](https://open.spotify.com/album/22HGndY6yvYJbtySZCkHt4) | 5:13 | 2022-03-31 |  |
 | [El Agua De Belen](https://open.spotify.com/track/11oLtreX8mpLe7QwhBroMn) | [Tito Rodriguez](https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS) | [Tito Rodriguez \- Greatest Hits](https://open.spotify.com/album/0STlCm7OuAFQvXctPFGO40) | 3:16 | 2020-04-30 | 2022-07-29 |
@@ -69,8 +70,9 @@
 | [Linda Guajira](https://open.spotify.com/track/56InMnlbWDx8zKj0hn1PZV) | [Ramón Veloz](https://open.spotify.com/artist/1kOqFbCsFak1qdXeZPy0kk) | [The Classics Of Ramon Veloz](https://open.spotify.com/album/07oW9bclZkKn31x34cSWCw) | 2:59 | 2022-03-31 |  |
 | [Mamá, Son de la Loma \- Remastered](https://open.spotify.com/track/2LWnouovxMRFloLrQauYuq) | [Trio Matamoros](https://open.spotify.com/artist/49J2FQGwlcwdE3AHT2PSOW) | [Canciones Escogidas Vol\. 1 \(Remastered\)](https://open.spotify.com/album/5PeiOUjHjxim33esgympO8) | 3:35 | 2022-03-31 |  |
 | [Maria Cristina](https://open.spotify.com/track/6R9jgcolWRwvk6WLqzp27A) | [Vieja Trova Santiaguera](https://open.spotify.com/artist/2t7ndReOwR0bTqTaDxYa9G) | [La Manigua](https://open.spotify.com/album/0pTHZMeercs65EFh1FVvkh) | 3:35 | 2020-04-30 |  |
+| [María Cristina](https://open.spotify.com/track/4Xv4uk1GgiXmGzYwL0epmp) | [Eliades Ochoa](https://open.spotify.com/artist/0hXHTWhBUEpkyHJ0GnghEH) | [A la Casa de la Trova](https://open.spotify.com/album/5cljr3Hz3IcPhAkiatbqzH) | 4:19 | 2022-03-31 |  |
 | [María Cristina](https://open.spotify.com/track/279TPEj1lcIEBaRQ4DH6IX) | [Eliades Ochoa](https://open.spotify.com/artist/0hXHTWhBUEpkyHJ0GnghEH), [Cuarteto Patria](https://open.spotify.com/artist/4Ui5j0V10gw9x6KF7yiGSG) | [Grandes Éxitos](https://open.spotify.com/album/0MLWqckYFaqCJ0bHe5BTL1) | 4:18 | 2020-04-30 | 2022-07-29 |
-| [María Cristina \- Remasterizado](https://open.spotify.com/track/7kdvfkBv1j9PbzsQNny0lu) | [Eliades Ochoa](https://open.spotify.com/artist/0hXHTWhBUEpkyHJ0GnghEH), [Cuarteto Patria](https://open.spotify.com/artist/4Ui5j0V10gw9x6KF7yiGSG) | [The Real Cuban Music \(Remasterizado\)](https://open.spotify.com/album/6s2UJLlcl1vN8FafWsbcHT) | 4:20 | 2022-03-31 |  |
+| [María Cristina \- Remasterizado](https://open.spotify.com/track/7kdvfkBv1j9PbzsQNny0lu) | [Eliades Ochoa](https://open.spotify.com/artist/0hXHTWhBUEpkyHJ0GnghEH), [Cuarteto Patria](https://open.spotify.com/artist/4Ui5j0V10gw9x6KF7yiGSG) | [The Real Cuban Music \(Remasterizado\)](https://open.spotify.com/album/6s2UJLlcl1vN8FafWsbcHT) | 4:20 | 2022-03-31 | 2022-11-12 |
 | [Mishugia Mambo](https://open.spotify.com/track/2tadAdX8nId1fdu4Re6gDE) | [La Playa Sextet](https://open.spotify.com/artist/2sOjbVJo60mStZl19NDcUn) | [Latin Gold Collection](https://open.spotify.com/album/2O8OijldTY0tq1lQSjg7xP) | 2:50 | 2022-03-31 | 2022-11-11 |
 | [Mishugina Mambo](https://open.spotify.com/track/4tblDuwg3we3mNlReAVnpp) | [La Plata Sextette](https://open.spotify.com/artist/03WWStprwg54aetkrwgt6A) | [Latin Gold Collection](https://open.spotify.com/album/2pzdf0dvm1GWlLwNzCFUik) | 2:50 | 2020-04-30 | 2022-07-29 |
 | [Mishugina Mambo](https://open.spotify.com/track/6SEud1Q0cdFU3ANs8GJORg) | [La Plata Sextette](https://open.spotify.com/artist/03WWStprwg54aetkrwgt6A) | [The la Plata Sextette Swings](https://open.spotify.com/album/6eucUr99VUgZ7aseMfiNUP) | 2:50 | 2022-03-31 |  |

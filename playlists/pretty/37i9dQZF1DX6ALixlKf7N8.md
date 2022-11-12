@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ALixlKf7N8.md) - [plain]
 
 > A collection of fairy tales and kids' stories perfect for bedtime and beyond.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,842 likes - 47 songs - 7 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,839 likes - 47 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ALixlKf7N8.md) - [plain]
 | 14 | [The 12 Dancing Princesses](https://open.spotify.com/track/7uGX38zi9hsYQC8b050ELH) | [Honor Blackman](https://open.spotify.com/artist/4sTTEheJxmjwv9TmrHOaPz) | [Funny Fables](https://open.spotify.com/album/2qrtgdi4uOULVCtK7sQre4) | 15:48 |
 | 15 | [Bambi \- Storyteller Version](https://open.spotify.com/track/0Kykvvfr9ePJBF2zmh5q7r) | [Richard Kiley](https://open.spotify.com/artist/29l80PEg44YRkDbCK0U5OB) | [Bambi \(Storyette\)](https://open.spotify.com/album/3wvehtWnQfD7NxMN0xISK6) | 53:45 |
 | 16 | [The Little Mermaid Of Copenhagen](https://open.spotify.com/track/4Kkrxk0hL6nTjvVx1SYiPB) | [Fairy Tales](https://open.spotify.com/artist/1NyKett1dn0nNoZMNTTShB) | [Bedtime Stories](https://open.spotify.com/album/05XRi68zVYcNjLOkDC7FSl) | 2:45 |
-| 17 | [Rumpelstiltskin](https://open.spotify.com/track/1VLdujgPTcYwUBYwJJkcsP) | [Honor Blackman](https://open.spotify.com/artist/4sTTEheJxmjwv9TmrHOaPz) | [Funny Fables](https://open.spotify.com/album/2qrtgdi4uOULVCtK7sQre4) | 19:43 |
+| 17 | [Rumpelstiltskin](https://open.spotify.com/track/5XA1LiUHe9bRCA4rILwXgh) | [Honor Blackman](https://open.spotify.com/artist/4sTTEheJxmjwv9TmrHOaPz) | [Honor Blackman Reads Funny Fables](https://open.spotify.com/album/0pQeEafXxVQnv4sqgaHXeE) | 19:43 |
 | 18 | [The Frog Prince](https://open.spotify.com/track/0DIgfvbJ6uLAAqlFhCmbou) | [Honor Blackman](https://open.spotify.com/artist/4sTTEheJxmjwv9TmrHOaPz) | [Funny Fables](https://open.spotify.com/album/2qrtgdi4uOULVCtK7sQre4) | 16:58 |
 | 19 | [Rapunzel](https://open.spotify.com/track/7KW0wCJYdAP258BnXyZaGv) | [Honor Blackman](https://open.spotify.com/artist/4sTTEheJxmjwv9TmrHOaPz) | [Funny Fables](https://open.spotify.com/album/2qrtgdi4uOULVCtK7sQre4) | 17:39 |
 | 20 | [The Fisherman And His Wife](https://open.spotify.com/track/1sSTM9Fh8Q1ru4gxl48EXC) | [Honor Blackman](https://open.spotify.com/artist/4sTTEheJxmjwv9TmrHOaPz) | [Funny Fables](https://open.spotify.com/album/2qrtgdi4uOULVCtK7sQre4) | 17:41 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ALixlKf7N8.md) - [plain]
 | 46 | [Hansel And Gretel](https://open.spotify.com/track/15PTugVz4zanZHxkLDGO6j) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [50 Best Children's Fairy Tales](https://open.spotify.com/album/6nNfRZPNXcguEU4DSWSDOR) | 6:07 |
 | 47 | [The Sun & The Moon](https://open.spotify.com/track/0AGGpnIB8IHBUn1dd19V4z) | [The Hit Crew](https://open.spotify.com/artist/76PJKS3IQsf4sSayx2taE0) | [50 Bestest Kids Stories](https://open.spotify.com/album/1Qtz7z5cytUph4DhlGiUmi) | 2:16 |
 
-Snapshot ID: `MTYxNDM1ODM3NSwwMDAwMDAwMDgxZjE3MjAzZWMwMjE5YWY0NmYyNGIwZThjODMwODkz`
+Snapshot ID: `MTYxNDM1ODM3NSwwMDAwMDAwMDVkYmIwZDA4YjQxOGFmY2ZkMTBjNTNkZDIyYjgxN2Zj`

@@ -1890,6 +1890,36 @@
     },
     {
       "album": {
+        "name": "Yo-Yo Ma - The Classic Albums Collection",
+        "url": "https://open.spotify.com/album/2ZyfAh7pKXUKgEZr6DhCdx"
+      },
+      "artists": [
+        {
+          "name": "Stuart Duncan",
+          "url": "https://open.spotify.com/artist/53pmIwVqcTM68qW6PVhjW2"
+        },
+        {
+          "name": "Edgar Meyer",
+          "url": "https://open.spotify.com/artist/7jkhwa4XMe9XSt1r0AWNqD"
+        },
+        {
+          "name": "Chris Thile",
+          "url": "https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF"
+        },
+        {
+          "name": "Yo-Yo Ma",
+          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+        }
+      ],
+      "date_added": "2020-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 447666,
+      "name": "Less Is Moi",
+      "url": "https://open.spotify.com/track/0ApXNW3Y24czCz7WevtqzH"
+    },
+    {
+      "album": {
         "name": "The Goat Rodeo Sessions",
         "url": "https://open.spotify.com/album/3P7xbl4YB4T73vWRHgcHMa"
       },
@@ -1913,7 +1943,7 @@
       ],
       "date_added": "2020-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 447666,
       "name": "Less Is Moi",
       "url": "https://open.spotify.com/track/0hBEFuRbCZQxaVgbnIeMqU"
@@ -2858,6 +2888,24 @@
     },
     {
       "album": {
+        "name": "Those Days Are Now",
+        "url": "https://open.spotify.com/album/04GFpI8sIRhiYSggoAsnEe"
+      },
+      "artists": [
+        {
+          "name": "City of the Sun",
+          "url": "https://open.spotify.com/artist/4DkYxtaASIKQnk4Gj0TB7k"
+        }
+      ],
+      "date_added": "2020-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343020,
+      "name": "Those Days Are Now",
+      "url": "https://open.spotify.com/track/1xsTx7R8SQS97hXIWNbbGa"
+    },
+    {
+      "album": {
         "name": "To The Sun And All The Cities In Between",
         "url": "https://open.spotify.com/album/578SzhqxPoHnbSLkKvuWaG"
       },
@@ -2869,7 +2917,7 @@
       ],
       "date_added": "2020-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 343020,
       "name": "Those Days Are Now",
       "url": "https://open.spotify.com/track/4wTb3hb5WrqseQ35KxwIvp"

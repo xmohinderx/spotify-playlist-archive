@@ -4,7 +4,7 @@
 
 > Enjoy the JTBC drama 'IDOL : The Coup,' OSTs in a different way with the lines in the drama\. \(JTBC 드라마 '아이돌'의 OST를 특별한 컨텐츠와 함께 색다르게 즐겨보세요.\)
 
-31 songs - 1 hr 41 min - [published](https://open.spotify.com/playlist/6F1Ul5nbat8DbhfmmcARpZ)
+32 songs - 1 hr 45 min - [published](https://open.spotify.com/playlist/6F1Ul5nbat8DbhfmmcARpZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,8 +23,9 @@
 | [Paradise](https://open.spotify.com/track/4IT5FuLhPEFlGfaApivmZi) | [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb) | [IDOL: The Coup \(Original Television Soundtrack, Pt\. 1\)](https://open.spotify.com/album/0fWGwOtbOLZfG6ZIBQRpAv) | 3:28 | 2022-01-03 |  |
 | [Pray](https://open.spotify.com/track/4HVoeNktpoi2L8MMhtPcLJ) | [GA EUN](https://open.spotify.com/artist/6wDE43fDrn0khXMlj5jJHJ) | [IDOL: The Coup \(Original Television Soundtrack, Pt\. 4\)](https://open.spotify.com/album/4UpRYvSfBeUTmNxiRMPbQA) | 4:39 | 2022-01-03 |  |
 | [Remember Me](https://open.spotify.com/track/1ZLsDZmcABNOQh5SCYbegG) | [Ra.L](https://open.spotify.com/artist/2TICrL7vZOMidetbsKrbfv) | [IDOL: The Coup \(Original Television Soundtrack, Pt\. 5\)](https://open.spotify.com/album/3YXITGpeUXUpQwdy1u37z3) | 3:43 | 2022-01-03 |  |
+| [Sometimes](https://open.spotify.com/track/1feGpI1UDH2HHvKwqtXzBp) | [HANI](https://open.spotify.com/artist/5quuAyAO2BQW2cjgfYPj0x) | [IDOL: The Coup \(Original Television Soundtrack\)](https://open.spotify.com/album/5DOZEHtFldVC3FkryXko6g) | 3:48 | 2022-01-03 |  |
 | [Sometimes](https://open.spotify.com/track/3KOqoSBMwOeKMKrx7toVza) | [HANI](https://open.spotify.com/artist/5quuAyAO2BQW2cjgfYPj0x) | [IDOL: The Coup \(Original Television Soundtrack, Pt\. 3\)](https://open.spotify.com/album/3dElJrHIi81jpc32vyeCbI) | 3:48 | 2022-01-03 | 2022-07-29 |
-| [Sometimes](https://open.spotify.com/track/3LP8X7wPZqU1FmkCSoxsqM) | [HANI](https://open.spotify.com/artist/5quuAyAO2BQW2cjgfYPj0x) | [IDOL: The Coup \(Original Television Soundtrack, Pt\. 3\)](https://open.spotify.com/album/1youS4Jo7aqdvzaxv3F80o) | 3:48 | 2022-01-03 |  |
+| [Sometimes](https://open.spotify.com/track/3LP8X7wPZqU1FmkCSoxsqM) | [HANI](https://open.spotify.com/artist/5quuAyAO2BQW2cjgfYPj0x) | [IDOL: The Coup \(Original Television Soundtrack, Pt\. 3\)](https://open.spotify.com/album/1youS4Jo7aqdvzaxv3F80o) | 3:48 | 2022-01-03 | 2022-11-12 |
 | [Special message from Cha Jae Hyuk](https://open.spotify.com/track/6LInbfHqybj0kgV4iOEtNB) | [Cha Jae Hyuk](https://open.spotify.com/artist/1oFfGGG6QfcBYPweA6NIDz) | [IDOL : The Coup audio message from the casts](https://open.spotify.com/album/45cNET5ON3WgoLa1r6EQsw) | 0:09 | 2022-01-03 |  |
 | [Special message from Cotton Candy](https://open.spotify.com/track/3eYqVNv1EM9kkjU3wfYrAl) | [Cotton Candy](https://open.spotify.com/artist/0XRMbnjCPM7HhvxZXZrNxg) | [IDOL : The Coup audio message from the casts](https://open.spotify.com/album/45cNET5ON3WgoLa1r6EQsw) | 0:12 | 2022-01-03 |  |
 | [Special message from Seo Ji Han](https://open.spotify.com/track/3J4TORQwm9tcqX6FUzA2GN) | [Seo Ji Han](https://open.spotify.com/artist/75gPrnivUffQiLa2anLL4c) | [IDOL : The Coup audio message from the casts](https://open.spotify.com/album/45cNET5ON3WgoLa1r6EQsw) | 0:07 | 2022-01-03 |  |

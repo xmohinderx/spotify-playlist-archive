@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjcafaN2Bom.md) - [plain]
 
 > The official playlist for Sex Education\. Watch now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,723 likes - 65 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,743 likes - 65 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjcafaN2Bom.md) - [plain]
 | 15 | [Bad Liar](https://open.spotify.com/track/2fZQIJew3nkNe99s2PKzul) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Bad Liar](https://open.spotify.com/album/1iuzMKNzVo8HJ67eW32YMr) | 3:34 |
 | 16 | [Don't Wanna Fall In Love](https://open.spotify.com/track/1YakuHfzKxjnseCEeVQtrY) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v) | [Smyle \(Extended\)](https://open.spotify.com/album/7ramtTKrOVLzbPjzGbSJgr) | 3:52 |
 | 17 | [Fat Lip](https://open.spotify.com/track/3Vin9LUoQeLuR8qKJFMlPq) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Poppunk](https://open.spotify.com/album/2vJW9RdsQkawsowPUXzKBl) | 2:57 |
-| 18 | [When I Grow Up](https://open.spotify.com/track/21pySLskKIKrhDziCX5ojQ) | [The Pussycat Dolls](https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ) | [Doll Domination \(Deluxe\)](https://open.spotify.com/album/7mDkWKTghwBDuHCJmH6qR5) | 4:05 |
+| 18 | [When I Grow Up](https://open.spotify.com/track/3mtvkmD4Jp2jaZxfwuwD9E) | [The Pussycat Dolls](https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ) | [Best of 00's \- Anni Duemila](https://open.spotify.com/album/41NuMd2a08Nx5ahbvgvlQZ) | 4:05 |
 | 19 | [Kiss It Better](https://open.spotify.com/track/0UHB9METy4VCXNgkcGqHqS) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 4:13 |
 | 20 | [Good Riddance \(Time of Your Life\)](https://open.spotify.com/track/6ORqU0bHbVCRjXm9AjyHyZ) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Nimrod](https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA) | 2:33 |
 | 21 | [I Need A Dollar](https://open.spotify.com/track/3oUphdZVPyrsprZ8FgbmQS) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Good Things](https://open.spotify.com/album/6G9PvX9f6Dq26JzsiVHIdl) | 4:03 |
@@ -34,10 +34,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjcafaN2Bom.md) - [plain]
 | 24 | [Since U Been Gone](https://open.spotify.com/track/3xrn9i8zhNZsTtcoWgQEAd) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Breakaway](https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq) | 3:08 |
 | 25 | [The Middle](https://open.spotify.com/track/09IStsImFySgyp0pIQdqAc) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl) | [The Middle](https://open.spotify.com/album/7nEiwcUSwycvC77kZ9ub7c) | 3:04 |
 | 26 | [Let's Talk About Sex](https://open.spotify.com/track/6hTBP6QLwJdxbKyLlLXrGo) | [Salt\-N\-Pepa](https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ) | [Blacks' Magic](https://open.spotify.com/album/4iCiqnufcdAdTyKrkKGwqR) | 3:33 |
-| 27 | [Can't Get Enough of You Baby](https://open.spotify.com/track/3D3fjCGghjB8b8Ygy7ga8R) | [The Colourfield](https://open.spotify.com/artist/06Rbwc8jaQ1d5fDPZiasE0) | [Virgins and Philistines](https://open.spotify.com/album/3tdXINS9OVPtc3gNcXaF6r) | 2:22 |
-| 28 | [I Want You to Want Me](https://open.spotify.com/track/3DcPLPvsZPcFcYfMPMfh4e) | [Letters To Cleo](https://open.spotify.com/artist/7E41j1yL9ZeTWfqe9bUGgw) | [When Did We Do That?](https://open.spotify.com/album/1c2pJwy1y3eSP2Nknt0rp8) | 3:26 |
+| 27 | [Can't Get Enough of You Baby](https://open.spotify.com/track/31mU2yXgnzzh24mK1Onq6I) | [The Colourfield](https://open.spotify.com/artist/06Rbwc8jaQ1d5fDPZiasE0) | [The Very Best Of](https://open.spotify.com/album/2C2EGu9hMaaZoyojiy8ArK) | 2:22 |
+| 28 | [I Want You To Want Me](https://open.spotify.com/track/5HWEu2neVmx4j9jeXvx5NA) | [Letters To Cleo](https://open.spotify.com/artist/7E41j1yL9ZeTWfqe9bUGgw) | [Back To School \- Pop Edition](https://open.spotify.com/album/7D7AsvzfRsK5le2DiV5ekP) | 3:25 |
 | 29 | [It Must Have Been Love \- From the Film "Pretty Woman"](https://open.spotify.com/track/6qB7YcFpeBEQa0D6QO482y) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Don't Bore Us \- Get to the Chorus! Roxette's Greatest Hits](https://open.spotify.com/album/6Zd1OLqFX5geleqvJ9xtAL) | 4:18 |
-| 30 | [Semi\-Charmed Life](https://open.spotify.com/track/5asLLto8NOl6LKSxrSmGsb) | [The Pop Posse](https://open.spotify.com/artist/0R29IKlKkSEwROMnowTfuO) | [90s Throwback Party Playlist](https://open.spotify.com/album/3q8mzkYK9UbWXrIvgd8ZvZ) | 3:40 |
+| 30 | [Semi\-Charmed Life](https://open.spotify.com/track/2YMT6pBts0m7U9wWJtk9Zh) | [Harley's Studio Band](https://open.spotify.com/artist/2YtlCd7k84kBjhnoqeFBPz) | [90s Alternative Rock Driving Mix](https://open.spotify.com/album/2HHkArbYcQSKso5XjN0BkY) | 3:40 |
 | 31 | [Kiss Me](https://open.spotify.com/track/754kgU5rWscRTfvlsuEwFp) | [Sixpence None The Richer](https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg) | [Sixpence None the Richer](https://open.spotify.com/album/0PrcwzkQVEy4y6JPvT5bix) | 3:28 |
 | 32 | [Alright](https://open.spotify.com/track/0jNU3Khf2j07P7KV0p9hTD) | [Supergrass](https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU) | [Clueless / Original Motion Picture Soundtrack](https://open.spotify.com/album/3OrviLrUARxsTuGdWdQTMh) | 3:01 |
 | 33 | [Lovefool \- Radio Edit](https://open.spotify.com/track/2WHKs1bPs8VMAPat6ZwbOe) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [90s Music](https://open.spotify.com/album/4knKJtYgbzadHtkp18JinJ) | 3:18 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjcafaN2Bom.md) - [plain]
 | 64 | [Tired of Being Alone](https://open.spotify.com/track/10vkYRKw6Jjr7try1ir50G) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Gets Next to You](https://open.spotify.com/album/6A2T77SSF5TUglshWSQAiC) | 2:52 |
 | 65 | [Crimson & Clover](https://open.spotify.com/track/6FEKEO3y7QFcMwoGeR0GtU) | [Tommy James & The Shondells](https://open.spotify.com/artist/01hRNr3yF5bYnPq4wZ88iI) | [Tommy James and The Shondells: Anthology](https://open.spotify.com/album/5IL9KRDDd1L4m6f9SKS0yN) | 3:29 |
 
-Snapshot ID: `MTY1MzA3NzE3OSwwMDAwMDAwMDkzNzU0ZGYyZGI4MjI5ODE1ZjQ3YjBjNzBiZDFlOWEy`
+Snapshot ID: `MTY1MzA3NzE3OSwwMDAwMDAwMDU5OGJhZjRiYWViMDQxYjZjMWI0MTg5NDk3MWI3MmU5`

@@ -4,7 +4,7 @@
 
 > Fun tracks for your Halloween festivities!
 
-133 songs - 8 hr 12 min - [published](https://open.spotify.com/playlist/4eYbz1GI6qfDbenGzlw63t)
+135 songs - 8 hr 20 min - [published](https://open.spotify.com/playlist/4eYbz1GI6qfDbenGzlw63t)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [Ballroom Blitz](https://open.spotify.com/track/3Pu3IChaAoa5EjgUBv5F6x) | [Sweet](https://open.spotify.com/artist/3JaAGmSTpJK35DqWrDUzBz) | [Desolation Boulevard](https://open.spotify.com/album/3PsFboiPeObjAc6gbQHt54) | 4:06 | 2021-10-27 |  |
 | [Banana Boat \(Day\-O\)](https://open.spotify.com/track/4fHDlIntTsRGSyTg5UYZYC) | [Harry Belafonte](https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z) | [Calypso](https://open.spotify.com/album/5cBYisZzEb84qxMwXVfcT3) | 3:03 | 2021-10-27 |  |
 | [Bitch Better Have My Money](https://open.spotify.com/track/0NTMtAO2BV4tnGvw9EgBVq) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Bitch Better Have My Money](https://open.spotify.com/album/4S8F794ucXJcAtycwOZgR9) | 3:39 | 2022-09-23 |  |
-| [Black Magic](https://open.spotify.com/track/6rmXhRIemCTPyMYZRDN7Qg) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Get Weird \(Expanded Edition\)](https://open.spotify.com/album/2FnfZiFMv7bmXAIATOJDHs) | 3:31 | 2022-09-23 |  |
+| [Black Magic](https://open.spotify.com/track/0ABDzNYFRcW6ltSQ3Bq2aQ) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Feel Good Friday](https://open.spotify.com/album/1bNlBFmUkqsRu6Fsa9jzAV) | 3:30 | 2022-10-24 |  |
+| [Black Magic](https://open.spotify.com/track/6rmXhRIemCTPyMYZRDN7Qg) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Get Weird \(Expanded Edition\)](https://open.spotify.com/album/2FnfZiFMv7bmXAIATOJDHs) | 3:31 | 2022-09-23 | 2022-11-12 |
 | [Black Widow](https://open.spotify.com/track/7pNC5ZIKtwUK0ReSpM3P9f) | [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [The New Classic](https://open.spotify.com/album/3r51pg8BwnjazLJlW6dJIh) | 3:29 | 2022-09-23 |  |
 | [Blinding Lights](https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:20 | 2021-10-27 |  |
 | [Bones](https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Mercury \- Acts 1 & 2](https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS) | 2:45 | 2022-10-24 |  |
@@ -102,8 +103,9 @@
 | [Smooth Criminal \- 2012 Remaster](https://open.spotify.com/track/2bCQHF9gdG5BNDVuEIEnNk) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Bad 25th Anniversary](https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm) | 4:17 | 2021-10-27 |  |
 | [Somebody's Watching Me \- Single Version](https://open.spotify.com/track/30W04PUt6gHISFbrtFYkp0) | [Rockwell](https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP) | [Happy Haunted Halloween Tunes](https://open.spotify.com/album/0Imh8AJGlHc3S0hHy8fImK) | 3:56 | 2022-10-12 | 2022-10-17 |
 | [Somebody's Watching Me \- Single Version](https://open.spotify.com/track/4P0UmzUN00aoPLrgnqfZUX) | [Rockwell](https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP) | [Kids Songs: Halloween Party!](https://open.spotify.com/album/3ieg9cbiq6SacHVpPFQo14) | 3:56 | 2022-10-24 | 2022-11-07 |
+| [Somebody's Watching Me \- Single Version](https://open.spotify.com/track/6tUEdj7qGKPN3rV6GpBwuc) | [Rockwell](https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP) | [Halloween for Kids](https://open.spotify.com/album/7oYdF4y0Djq4nQpyHlcfYq) | 3:56 | 2022-10-24 |  |
 | [Somebody's Watching Me \- Single Version](https://open.spotify.com/track/6A4Jc8npNo79BOgsrPptLA) | [Rockwell](https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP) | [Scream](https://open.spotify.com/album/2X8UOIkZQdcz2Hi5Ynt2uk) | 3:57 | 2021-10-27 | 2022-07-29 |
-| [Somebody's Watching Me \- Single Version](https://open.spotify.com/track/6hci8n9UowepjRmCc6CKTv) | [Rockwell](https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP) | [Hitsville USA, The Motown Collection 1972\-1992](https://open.spotify.com/album/6nrCHETnE3ZWgwL0uYYWGP) | 3:58 | 2021-10-27 |  |
+| [Somebody's Watching Me \- Single Version](https://open.spotify.com/track/6hci8n9UowepjRmCc6CKTv) | [Rockwell](https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP) | [Hitsville USA, The Motown Collection 1972\-1992](https://open.spotify.com/album/6nrCHETnE3ZWgwL0uYYWGP) | 3:58 | 2021-10-27 | 2022-11-12 |
 | [Spellbound](https://open.spotify.com/track/5Ng6UbryNd3eds2zQk9MUf) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Juju](https://open.spotify.com/album/5OEum65e1HMGX51Ifu51Wb) | 3:17 | 2022-09-23 | 2022-10-24 |
 | [Spooky, Scary Skeletons \- Undead Tombstone Remix](https://open.spotify.com/track/1sUdq3kWa9dJXHu3eYOUll) | [Andrew Gold](https://open.spotify.com/artist/5fmvGUlMVgmnCn45f1he7d) | [Halloween Howls: Fun & Scary Music \(Deluxe Edition\)](https://open.spotify.com/album/2kAB6U6XJQ9lXK7TPsmaR4) | 2:05 | 2021-10-27 |  |
 | [Starboy](https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Starboy](https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe) | 3:50 | 2021-10-27 | 2022-10-24 |

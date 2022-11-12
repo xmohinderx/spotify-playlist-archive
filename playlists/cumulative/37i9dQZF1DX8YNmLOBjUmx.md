@@ -4,7 +4,7 @@
 
 > Our editors' picks for the best Rock & Alternative songs this year\. Cover: Måneskin
 
-127 songs - 7 hr 6 min - [published](https://open.spotify.com/playlist/1udUiCD9eyyN72NZN3L8o8)
+129 songs - 7 hr 13 min - [published](https://open.spotify.com/playlist/1udUiCD9eyyN72NZN3L8o8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,8 @@
 | [i hope ur miserable until ur dead](https://open.spotify.com/track/4ka1FkKAMde6dQAFFMXKac) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [i hope ur miserable until ur dead](https://open.spotify.com/album/3dv1xXXFHlv3WNSNsSZ93d) | 2:57 | 2021-12-01 |  |
 | [I WANNA BE YOUR SLAVE](https://open.spotify.com/track/4pt5fDVTg5GhEvEtlz9dKk) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 2:53 | 2021-12-01 |  |
 | [I Want to Kill You](https://open.spotify.com/track/0OXhSUVqN5Syxv2Y1NHa1q) | [Citizen](https://open.spotify.com/artist/0znuUIjvP0LXEslfaq0Nor) | [Blue Sunday](https://open.spotify.com/album/5pjA3KtJvBUcbRxR1nQboG) | 3:12 | 2021-12-01 | 2022-07-29 |
-| [I Want to Kill You](https://open.spotify.com/track/57XHBbh5lCsIdgStesXI4k) | [Citizen](https://open.spotify.com/artist/0znuUIjvP0LXEslfaq0Nor) | [Life In Your Glass World](https://open.spotify.com/album/07Pv7j17v7JX1NEbZidg84) | 3:12 | 2021-12-01 |  |
+| [I Want to Kill You](https://open.spotify.com/track/3XqMdaXe3OhlFIwNHLCqty) | [Citizen](https://open.spotify.com/artist/0znuUIjvP0LXEslfaq0Nor) | [Glass Mix 1](https://open.spotify.com/album/5v2gm20CIuGkgALRnZoDqY) | 3:12 | 2021-12-01 |  |
+| [I Want to Kill You](https://open.spotify.com/track/57XHBbh5lCsIdgStesXI4k) | [Citizen](https://open.spotify.com/artist/0znuUIjvP0LXEslfaq0Nor) | [Life In Your Glass World](https://open.spotify.com/album/07Pv7j17v7JX1NEbZidg84) | 3:12 | 2021-12-01 | 2022-11-12 |
 | [In My Head](https://open.spotify.com/track/7jJKNG1a6J1EmovRTjGMb7) | [The Mysterines](https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M) | [In My Head](https://open.spotify.com/album/63lqbNX9o5kx1msCb8LS0L) | 3:53 | 2021-12-01 |  |
 | [In My Sleep](https://open.spotify.com/track/6jYgoiJu5ZMw4d8ma2fkJ9) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [It Won't Always Be Like This](https://open.spotify.com/album/54NhZZmsHYbKtTjarvGPwu) | 4:11 | 2021-12-01 |  |
 | [Invincible \(feat\. Lindsey Stirling\)](https://open.spotify.com/track/1PXUZ5Cpat6HipfJkn31ng) | [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum), [Lindsey Stirling](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM) | [Invincible \(feat\. Lindsey Stirling\)](https://open.spotify.com/album/06Jc0H2unWIErvyxu5LgoC) | 3:52 | 2021-12-01 |  |
@@ -129,7 +130,8 @@
 | [Wrecked](https://open.spotify.com/track/149BxWeweaCqmsyedkNiiE) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Mercury \- Act 1](https://open.spotify.com/album/6DdU5f52hpc2gfeLjK374Y) | 4:04 | 2021-12-01 | 2022-07-29 |
 | [Wrecked](https://open.spotify.com/track/2d1MywHy6FwKdzxFuSJnwl) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Wrecked](https://open.spotify.com/album/2qjb5OwlllLLOmrueU08kG) | 4:04 | 2021-12-01 |  |
 | [Wrecked](https://open.spotify.com/track/6TEftSkmWdTm1EpThnwqh6) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Mercury \- Acts 1 & 2](https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS) | 4:04 | 2021-12-01 | 2022-11-11 |
-| [You Stupid Bitch](https://open.spotify.com/track/65wEZxhPlAERKLcSbTD7qc) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn) | 3:15 | 2021-12-01 |  |
+| [You Stupid Bitch](https://open.spotify.com/track/4vFKotukXxQXsjYo8udf37) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [You Stupid Bitch](https://open.spotify.com/album/4M2sFHiDlAXasGDTWq6iHA) | 3:15 | 2021-12-01 |  |
+| [You Stupid Bitch](https://open.spotify.com/track/65wEZxhPlAERKLcSbTD7qc) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn) | 3:15 | 2021-12-01 | 2022-11-12 |
 | [You Stupid Bitch](https://open.spotify.com/track/7Jqyl2feOikHqdCOaY9uzF) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [You Stupid Bitch](https://open.spotify.com/album/4oBhZqwpWAUsKobnZ9zb9W) | 3:15 | 2021-12-01 | 2022-10-13 |
 | [You'd Be Paranoid Too \(If Everyone Was Out To Get You\)](https://open.spotify.com/track/323w4DImgXQfDeG52lCuHg) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [Greatest Hits](https://open.spotify.com/album/7bMXp3NDoTyW645vGJj7jY) | 2:31 | 2021-12-01 | 2022-07-29 |
 | [You’d Be Paranoid Too \(If Everyone Was Out To Get You\)](https://open.spotify.com/track/02Lki714RZrfUS65pzJ2lj) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [Greatest Hits](https://open.spotify.com/album/6Em0b24eKa7vVf6sUYxOdI) | 2:31 | 2021-12-01 | 2022-11-11 |

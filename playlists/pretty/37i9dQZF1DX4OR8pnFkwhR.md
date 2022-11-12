@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: Bialystocks / <br/> Early Noise Night\#14プレイリストは<a href="spotify:playlist:37i9dQZF1DWW1l6u9Tapgr">こちら</a>。/ Music+Talk\(アーティストインタビュー\)は<a href="spotify:show:5ILS4cRYK00Zs2ISBiAWCF">こちら</a>。
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,166 likes - 69 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,188 likes - 69 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 30 | [celeste feat\. Haruno](https://open.spotify.com/track/1sqmG9MPr7oBAPPVSku4LQ) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS), [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u) | [celeste feat\. Haruno](https://open.spotify.com/album/0vZK7EGOEaKHWScSOnKJ5O) | 2:47 |
 | 31 | [World is Mine](https://open.spotify.com/track/4fCm5wA6obyowgH4Rn3cTS) | [鋭児](https://open.spotify.com/artist/4LUAh1USHuVZQZsEuovdLg) | [World is Mine](https://open.spotify.com/album/2vDiHS5Dy4cfKmT1O98G5d) | 3:10 |
 | 32 | [come again](https://open.spotify.com/track/7vyYFC1tpOv4mg3PrbTfCX) | [Bleecker Chrome](https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8) | [Chrome Season](https://open.spotify.com/album/26z9uGhvmZt7YjkCspGTlB) | 3:06 |
-| 33 | [Bye Bye](https://open.spotify.com/track/3hPTqw8pMF7SQpxaWngBOM) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Bye Bye](https://open.spotify.com/album/2oaPQosRx7EHt403lUQu07) | 3:41 |
+| 33 | [Bye Bye](https://open.spotify.com/track/4phvD3Hb8BOmKvCk8tg5aK) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Titles](https://open.spotify.com/album/5E46XMFqVKTJtLez7Pl2pE) | 3:40 |
 | 34 | [This Way](https://open.spotify.com/track/3kvSdSr7h0KOn7FDFhAXLT) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [Chilli Beans.](https://open.spotify.com/album/4eAn8XoBrzPRhzNGTctv4O) | 2:34 |
 | 35 | [DANCE風呂a!](https://open.spotify.com/track/1nnnQqaEVc4giwspZt5EMB) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX), [SIKK\-O](https://open.spotify.com/artist/62x90xtztIeFjU7Z9eVKDR) | [DANCE風呂a!](https://open.spotify.com/album/0ckt8HpaApwrcVoCAZX1RB) | 4:03 |
 | 36 | [貴方日和](https://open.spotify.com/track/7D2f6qNWhBC6PcMTn5Q0mD) | [Teikokukissa](https://open.spotify.com/artist/3Ea1v0dzfa8Q8hVc4qWqFQ) | [帝国喫茶](https://open.spotify.com/album/4XXjcfE9VSO82IxUI8sziH) | 5:17 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 68 | [Hemoglobin](https://open.spotify.com/track/3iPE0bDuggnq8Redh8GxfU) | [Ochunism](https://open.spotify.com/artist/3w5Y9qujoqMYzjk6aIgpnS) | [Hemoglobin](https://open.spotify.com/album/1W9yD6w2u9cnOx6wSjFVxF) | 3:17 |
 | 69 | [Recently](https://open.spotify.com/track/5aq0yvoWqGVusrOr8HDtsf) | [ORCALAND](https://open.spotify.com/artist/2tUNHY1YtygK9HsSboP3w8) | [Travel Notes](https://open.spotify.com/album/6SiRvL6UvQ3uw2FvYwDk8W) | 5:23 |
 
-Snapshot ID: `MTY2NzkxOTYwMCwwMDAwMDAwMGI4OWEzYTlmZjZiZjcxNDgyMDc5YmZhYzVjZDkzMmZi`
+Snapshot ID: `MTY2NzkxOTYwMCwwMDAwMDAwMDljNzlhMjZjNGJiOTdiY2M3NzFkNDkxNmU1NmI2MzI1`

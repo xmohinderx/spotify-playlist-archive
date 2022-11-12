@@ -1,12 +1,12 @@
 {
   "description": "D\u00e9sormais, aucune raison de se faire ch**r au gym.",
-  "num_followers": 33034,
+  "num_followers": 33035,
   "original_name": "Donne-to\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMzY2NTY2MCwwMDAwMDAwMDY1MjA5ZGFlNzJhYzhmMzQzYjA5ODcxMjQ0MTRhMmZj",
+  "snapshot_id": "MTYzMzY2NTY2MCwwMDAwMDAwMGJiMzYwZTRmMzYyNWY5MTc0MDljMTIyYTE0MDlhZWUw",
   "tracks": [
     {
       "added_at": "2021-10-08 04:01:00",
@@ -43,22 +43,6 @@
       "duration_ms": 210800,
       "name": "Godzilla (feat. Juice WRLD)",
       "url": "https://open.spotify.com/track/7FIWs0pqAYbP91WWM0vlTQ"
-    },
-    {
-      "added_at": "2021-10-08 04:01:00",
-      "album": {
-        "name": "Heaven & Hell",
-        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 162398,
-      "name": "Kings & Queens",
-      "url": "https://open.spotify.com/track/7a53HqqArd4b9NF4XAmlbI"
     },
     {
       "added_at": "2021-10-08 04:01:00",
@@ -183,22 +167,6 @@
     {
       "added_at": "2021-10-08 04:01:00",
       "album": {
-        "name": "Future Nostalgia",
-        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 208505,
-      "name": "Hallucinate",
-      "url": "https://open.spotify.com/track/1nYeVF5vIBxMxfPoL0SIWg"
-    },
-    {
-      "added_at": "2021-10-08 04:01:00",
-      "album": {
         "name": "Say My Name",
         "url": "https://open.spotify.com/album/4r6DqAydqQCcOs1JiVmRSZ"
       },
@@ -291,6 +259,22 @@
       "duration_ms": 151989,
       "name": "Sweet Dreams",
       "url": "https://open.spotify.com/track/0RD27NcbftTkhb1NlxQMGR"
+    },
+    {
+      "added_at": "2021-10-08 04:01:00",
+      "album": {
+        "name": "Future Nostalgia",
+        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 208505,
+      "name": "Hallucinate",
+      "url": "https://open.spotify.com/track/1nYeVF5vIBxMxfPoL0SIWg"
     },
     {
       "added_at": "2021-10-08 04:01:00",
@@ -651,26 +635,6 @@
     {
       "added_at": "2021-10-08 04:01:00",
       "album": {
-        "name": "Trap (Rompasso Remix)",
-        "url": "https://open.spotify.com/album/1s7yipr2OiICvvV8YAEMpv"
-      },
-      "artists": [
-        {
-          "name": "SAINt JHN",
-          "url": "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ"
-        },
-        {
-          "name": "Rompasso",
-          "url": "https://open.spotify.com/artist/7dJzxVffEZI5MuHOJiQB5A"
-        }
-      ],
-      "duration_ms": 168750,
-      "name": "Trap - Rompasso Remix",
-      "url": "https://open.spotify.com/track/08pnZCD7bB3voKAA3ShGTw"
-    },
-    {
-      "added_at": "2021-10-08 04:01:00",
-      "album": {
         "name": "Brother Louie",
         "url": "https://open.spotify.com/album/6mGRWR6C2qe3nWOn83iCbb"
       },
@@ -695,6 +659,26 @@
       "duration_ms": 172459,
       "name": "Brother Louie",
       "url": "https://open.spotify.com/track/0fQfopzcRtmYxdK9xFA3Qr"
+    },
+    {
+      "added_at": "2021-10-08 04:01:00",
+      "album": {
+        "name": "Trap (Rompasso Remix)",
+        "url": "https://open.spotify.com/album/1s7yipr2OiICvvV8YAEMpv"
+      },
+      "artists": [
+        {
+          "name": "SAINt JHN",
+          "url": "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ"
+        },
+        {
+          "name": "Rompasso",
+          "url": "https://open.spotify.com/artist/7dJzxVffEZI5MuHOJiQB5A"
+        }
+      ],
+      "duration_ms": 168750,
+      "name": "Trap - Rompasso Remix",
+      "url": "https://open.spotify.com/track/08pnZCD7bB3voKAA3ShGTw"
     },
     {
       "added_at": "2021-10-08 04:01:00",
@@ -827,6 +811,22 @@
     {
       "added_at": "2021-10-08 04:01:00",
       "album": {
+        "name": "Maison",
+        "url": "https://open.spotify.com/album/6a0kpW3K2zVsjnusyitG8Z"
+      },
+      "artists": [
+        {
+          "name": "Rom\u00e9o Elvis",
+          "url": "https://open.spotify.com/artist/2pHk4wAmL7ofTAuvCIUWtv"
+        }
+      ],
+      "duration_ms": 186106,
+      "name": "Chaud",
+      "url": "https://open.spotify.com/track/4sPJpns1ma2kpfDEMvpAG5"
+    },
+    {
+      "added_at": "2021-10-08 04:01:00",
+      "album": {
         "name": "Lay Your Head On Me (feat. Marcus Mumford)",
         "url": "https://open.spotify.com/album/1okJLjW2q0KbARmSd9EH3V"
       },
@@ -847,22 +847,6 @@
       "duration_ms": 199895,
       "name": "Lay Your Head On Me (feat. Marcus Mumford)",
       "url": "https://open.spotify.com/track/0oB9964bp22Bmok0Dmxlzb"
-    },
-    {
-      "added_at": "2021-10-08 04:01:00",
-      "album": {
-        "name": "Maison",
-        "url": "https://open.spotify.com/album/6a0kpW3K2zVsjnusyitG8Z"
-      },
-      "artists": [
-        {
-          "name": "Rom\u00e9o Elvis",
-          "url": "https://open.spotify.com/artist/2pHk4wAmL7ofTAuvCIUWtv"
-        }
-      ],
-      "duration_ms": 186106,
-      "name": "Chaud",
-      "url": "https://open.spotify.com/track/4sPJpns1ma2kpfDEMvpAG5"
     },
     {
       "added_at": "2021-10-08 04:01:00",
@@ -975,6 +959,22 @@
       "duration_ms": 239165,
       "name": "High On You",
       "url": "https://open.spotify.com/track/6aTW3yrl33mThi0v6Z88Oq"
+    },
+    {
+      "added_at": "2021-10-08 04:01:00",
+      "album": {
+        "name": "All Time Hits",
+        "url": "https://open.spotify.com/album/6QsaW4ddxzbKj6S5JfnAEB"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 162398,
+      "name": "Kings & Queens",
+      "url": "https://open.spotify.com/track/00SyBVoq9zYcivUUYl1IbU"
     },
     {
       "added_at": "2021-10-08 04:01:00",
@@ -1107,26 +1107,6 @@
     {
       "added_at": "2021-10-08 04:01:00",
       "album": {
-        "name": "Run Run",
-        "url": "https://open.spotify.com/album/2EbF2TU0jbwrWtX7oLj4Wb"
-      },
-      "artists": [
-        {
-          "name": "CAZZETTE",
-          "url": "https://open.spotify.com/artist/1IELhvOMg5VQlU7syRm6CS"
-        },
-        {
-          "name": "Morgan Bosman",
-          "url": "https://open.spotify.com/artist/6XhtzO9007cwYPNcxd8Br2"
-        }
-      ],
-      "duration_ms": 223479,
-      "name": "Run Run",
-      "url": "https://open.spotify.com/track/5EdRhj2IJk4ksPznbraFh4"
-    },
-    {
-      "added_at": "2021-10-08 04:01:00",
-      "album": {
         "name": "La Zayt\u00e9",
         "url": "https://open.spotify.com/album/58camSsA9OmW7xvRGZcxy4"
       },
@@ -1143,6 +1123,26 @@
       "duration_ms": 187380,
       "name": "Kankan",
       "url": "https://open.spotify.com/track/1PZpmt3Hlih8ZSi0L7lKb3"
+    },
+    {
+      "added_at": "2021-10-08 04:01:00",
+      "album": {
+        "name": "Run Run",
+        "url": "https://open.spotify.com/album/2EbF2TU0jbwrWtX7oLj4Wb"
+      },
+      "artists": [
+        {
+          "name": "CAZZETTE",
+          "url": "https://open.spotify.com/artist/1IELhvOMg5VQlU7syRm6CS"
+        },
+        {
+          "name": "Morgan Bosman",
+          "url": "https://open.spotify.com/artist/6XhtzO9007cwYPNcxd8Br2"
+        }
+      ],
+      "duration_ms": 223479,
+      "name": "Run Run",
+      "url": "https://open.spotify.com/track/5EdRhj2IJk4ksPznbraFh4"
     },
     {
       "added_at": "2021-10-08 04:01:00",
@@ -1187,6 +1187,30 @@
     {
       "added_at": "2021-10-08 04:01:00",
       "album": {
+        "name": "Carry You Home (feat. StarGate & Aloe Blacc)",
+        "url": "https://open.spotify.com/album/4UCp6LVzVR6q7XXpAp3OLr"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Stargate",
+          "url": "https://open.spotify.com/artist/7KUri7klyLaIFXLcuuOMCd"
+        },
+        {
+          "name": "Aloe Blacc",
+          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
+        }
+      ],
+      "duration_ms": 194720,
+      "name": "Carry You Home (feat. StarGate & Aloe Blacc)",
+      "url": "https://open.spotify.com/track/2CCWQuohzAEhHmahBeknuh"
+    },
+    {
+      "added_at": "2021-10-08 04:01:00",
+      "album": {
         "name": "Higher",
         "url": "https://open.spotify.com/album/4vsPp7l8q37wmtnSAJkfmb"
       },
@@ -1203,6 +1227,22 @@
       "duration_ms": 142857,
       "name": "Higher",
       "url": "https://open.spotify.com/track/02rpa9omMkxHb1wrA5dNyR"
+    },
+    {
+      "added_at": "2021-10-08 04:01:00",
+      "album": {
+        "name": "New Year's Eve Club Pre-Drink",
+        "url": "https://open.spotify.com/album/4NHf6vTLGhAyyHrw2Y14bC"
+      },
+      "artists": [
+        {
+          "name": "Tory Lanez",
+          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
+        }
+      ],
+      "duration_ms": 144098,
+      "name": "Do The Most",
+      "url": "https://open.spotify.com/track/5zUV9himo9PjjEkw9M7YNF"
     },
     {
       "added_at": "2021-10-08 04:01:00",
@@ -1247,6 +1287,22 @@
       "duration_ms": 192993,
       "name": "Le monde est \u00e0 nous",
       "url": "https://open.spotify.com/track/4QYpXezeMH6SkpIqT8nFM2"
+    },
+    {
+      "added_at": "2021-10-08 04:01:00",
+      "album": {
+        "name": "Armada Music Miami 2020",
+        "url": "https://open.spotify.com/album/27oPynHgkuj4d0XyvBjxJA"
+      },
+      "artists": [
+        {
+          "name": "Loud Luxury",
+          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
+        }
+      ],
+      "duration_ms": 181957,
+      "name": "Cold Feet",
+      "url": "https://open.spotify.com/track/7oIcZ8TpSvxcme3xe4n2te"
     },
     {
       "added_at": "2021-10-08 04:01:00",
@@ -1315,6 +1371,22 @@
     {
       "added_at": "2021-10-08 04:01:00",
       "album": {
+        "name": "maison",
+        "url": "https://open.spotify.com/album/2fzWviAbjksegQijmpa433"
+      },
+      "artists": [
+        {
+          "name": "Eman",
+          "url": "https://open.spotify.com/artist/0577M91sH51YDk2o3cGko9"
+        }
+      ],
+      "duration_ms": 188585,
+      "name": "Bient\u00f4t",
+      "url": "https://open.spotify.com/track/1wX7nWzrolWpnPKp09fhlk"
+    },
+    {
+      "added_at": "2021-10-08 04:01:00",
+      "album": {
         "name": "Mandown",
         "url": "https://open.spotify.com/album/31h7LmPhUb1QiZWdB6RBVt"
       },
@@ -1331,22 +1403,6 @@
       "duration_ms": 184122,
       "name": "Mandown",
       "url": "https://open.spotify.com/track/132YTq9H9lyKo0swHhAnqI"
-    },
-    {
-      "added_at": "2021-10-08 04:01:00",
-      "album": {
-        "name": "maison",
-        "url": "https://open.spotify.com/album/2fzWviAbjksegQijmpa433"
-      },
-      "artists": [
-        {
-          "name": "Eman",
-          "url": "https://open.spotify.com/artist/0577M91sH51YDk2o3cGko9"
-        }
-      ],
-      "duration_ms": 188585,
-      "name": "Bient\u00f4t",
-      "url": "https://open.spotify.com/track/1wX7nWzrolWpnPKp09fhlk"
     },
     {
       "added_at": "2021-10-08 04:01:00",
@@ -1407,62 +1463,6 @@
       "duration_ms": 143969,
       "name": "Girl Code",
       "url": "https://open.spotify.com/track/0pLRmqULQgr2WkAdgLN4mh"
-    },
-    {
-      "added_at": "2021-10-08 04:01:00",
-      "album": {
-        "name": "Comme dans les films",
-        "url": "https://open.spotify.com/album/0pNRPtiKdcXRyHDX8Qizzv"
-      },
-      "artists": [
-        {
-          "name": "Alexe",
-          "url": "https://open.spotify.com/artist/25OceRescHJwftJk284v8K"
-        }
-      ],
-      "duration_ms": 183130,
-      "name": "Comme dans les films",
-      "url": "https://open.spotify.com/track/5bxaSSnEhbc8u7diN1jY69"
-    },
-    {
-      "added_at": "2021-10-08 04:01:00",
-      "album": {
-        "name": "Oser aimer (Dave Aud\u00e9 Pride Remix)",
-        "url": "https://open.spotify.com/album/1m6POTZfzOnPRD6L7KLy6K"
-      },
-      "artists": [
-        {
-          "name": "Dave Aud\u00e9",
-          "url": "https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9"
-        },
-        {
-          "name": "Marie-Mai",
-          "url": "https://open.spotify.com/artist/1BmW7gk5sNUff7U3JEWqxa"
-        }
-      ],
-      "duration_ms": 369523,
-      "name": "Oser aimer - Dave Aud\u00e9 Pride Remix",
-      "url": "https://open.spotify.com/track/38S02R6YsFzcinhk74QLyh"
-    },
-    {
-      "added_at": "2021-10-08 04:01:00",
-      "album": {
-        "name": "Le tournant (Deluxe)",
-        "url": "https://open.spotify.com/album/3aTjsAPRs4s8KShwk8wIDW"
-      },
-      "artists": [
-        {
-          "name": "Amay Laoni",
-          "url": "https://open.spotify.com/artist/2d4upAuUXXLneWMHHloXSp"
-        },
-        {
-          "name": "Marie-Mai",
-          "url": "https://open.spotify.com/artist/1BmW7gk5sNUff7U3JEWqxa"
-        }
-      ],
-      "duration_ms": 218616,
-      "name": "Sous les rivi\u00e8res",
-      "url": "https://open.spotify.com/track/3tQUAxWJ1OQVg6E5QmU2W4"
     }
   ],
   "unique_name": "Donne-to\u00e9",

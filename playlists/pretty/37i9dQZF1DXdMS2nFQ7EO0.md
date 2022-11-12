@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMS2nFQ7EO0.md) - [plain]
 
 > Vegas pool party vibes with a mix of the hottest Latin dance anthems of today.
 
-[Spotify](https://open.spotify.com/user/spotify) - 427,842 likes - 73 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 427,959 likes - 73 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMS2nFQ7EO0.md) - [plain]
 | 24 | [Don't Be Shy](https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Don't Be Shy](https://open.spotify.com/album/2TvfE8CY37OQIPVGcWYpEA) | 2:20 |
 | 25 | [My Love \(feat\. Jess Glynne\)](https://open.spotify.com/track/61UQzeiIluhpzpMdY4ag3q) | [Route 94](https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [My Love \(feat\. Jess Glynne\)](https://open.spotify.com/album/63WK5Kd7J5kp7ctAC4l92Q) | 4:19 |
 | 26 | [Crazy What Love Can Do](https://open.spotify.com/track/1WCEAGGRD066z2Q89ObXTq) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Crazy What Love Can Do](https://open.spotify.com/album/0GnxssqYa2RU9EdWHhZ707) | 2:49 |
-| 27 | [Lifetime \(with Ty Dolla $ign & 070 Shake\)](https://open.spotify.com/track/3QqHt507QJZCzluEYsnv4u) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Paradise Again](https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH) | 3:06 |
+| 27 | [Lifetime](https://open.spotify.com/track/4gzGNC0bGE7B1UFHuM8JrV) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [EDM Party](https://open.spotify.com/album/3uoi0WSv99nejC8O0PYoB2) | 3:06 |
 | 28 | [When I’m Gone \(with Katy Perry\)](https://open.spotify.com/track/5902W4uHWzhtOff1UK7the) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [When I’m Gone \(with Katy Perry\)](https://open.spotify.com/album/5itVTi6rI3MlOcWBxROxd9) | 2:41 |
 | 29 | [Cold Heart \- PNAU Remix](https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Cold Heart \(PNAU Remix\)](https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6) | 3:22 |
 | 30 | [Move Your Body](https://open.spotify.com/track/6GomT970rCOkKAyyrwJeZi) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT) | [Move Your Body](https://open.spotify.com/album/4l9wMVL4XAM5jPMXP5RAbL) | 2:37 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMS2nFQ7EO0.md) - [plain]
 | 72 | [Perdiendo El Control](https://open.spotify.com/track/02Zu3RK6EJdJA5MqgkN5iX) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Marco Acevedo](https://open.spotify.com/artist/7ya73VVTnzfSHrQnGq9WiC) | [Perdiendo El Control](https://open.spotify.com/album/48GzWmYraDHofGXOhtMlx4) | 3:04 |
 | 73 | [Drifting & Burning](https://open.spotify.com/track/2WTTEfbb96NHOmKJ7TrJvH) | [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km), [Yay](https://open.spotify.com/artist/65UC5VKwU4vBSBSHckQd5l) | [Rockport Espacial 2](https://open.spotify.com/album/7eIU95LtCeZ3Ud3Lg5z4k6) | 2:50 |
 
-Snapshot ID: `MTY1NDI4Nzg0NSwwMDAwMDAwMGY0YjkxNzIyZTk4ZWQ3ODFiODBjZGY0MzBmNzFmYjMw`
+Snapshot ID: `MTY1NDI4Nzg0NSwwMDAwMDAwMDM1M2M3NzcxOTFiMzUzNThhNDAyYWFhMjQ4MjQ0ODA3`

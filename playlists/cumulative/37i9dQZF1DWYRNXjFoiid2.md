@@ -4,7 +4,7 @@
 
 > Today's best pop to fuel your gaming\. Cover: BoyWithUke
 
-273 songs - 13 hr 44 min - [published](https://open.spotify.com/playlist/6RJKkqdKyBbx3chwpeoPfr)
+274 songs - 13 hr 46 min - [published](https://open.spotify.com/playlist/6RJKkqdKyBbx3chwpeoPfr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [i could die](https://open.spotify.com/track/3M94jcrpYyJpMDkvoriPYC) | [lentra](https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT) | [i could die](https://open.spotify.com/album/4qZnP5lDjnUhm9p8doZJBo) | 2:35 | 2022-06-10 | 2022-07-16 |
 | [i hate her boyfriend's face](https://open.spotify.com/track/5sixigDZ86eDzCHXbfzrDu) | [PmBata](https://open.spotify.com/artist/3jeXY6LJU0ZiKhXoXa9rRw) | [i hate her boyfriend's face](https://open.spotify.com/album/2CMIqzHeKsxhR8xSvD9Cwy) | 2:25 | 2022-05-27 | 2022-07-06 |
 | [I Hate U](https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [I Hate U](https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw) | 2:54 | 2022-01-24 | 2022-04-16 |
+| [i'm yours sped up](https://open.spotify.com/track/4sFGNz4MYpGoz53ZGCwsiE) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [i'm yours](https://open.spotify.com/album/3Q25UtV9pHu7onNcKwmmZ3) | 2:07 | 2022-11-11 |  |
 | [Icee Pop](https://open.spotify.com/track/1zKOagmkCtXuGmCivG8HZE) | [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw) | [Icee Pop](https://open.spotify.com/album/0N75npNB8Wo93bY41XjHr7) | 2:27 | 2022-02-04 | 2022-04-16 |
 | [IDGAF \(with blackbear\)](https://open.spotify.com/track/6Jrdb6CFOJEGaHjaa6c4WR) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [IDGAF](https://open.spotify.com/album/3XEOlBcb076IIUTSr98AMu) | 2:20 | 2022-04-15 |  |
 | [ily \(i love you baby\) \(feat\. Emilee\)](https://open.spotify.com/track/62aP9fBQKYKxi7PDXwcUAS) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Emilee](https://open.spotify.com/artist/4ArPQ1Opcksbbf3CPwEjWE) | [ily \(i love you baby\) \(feat\. Emilee\)](https://open.spotify.com/album/4MHHajvRTUHItDsvfdIC8B) | 2:56 | 2022-02-11 | 2022-04-21 |
@@ -166,7 +167,7 @@
 | [Mood \(feat\. iann dior\)](https://open.spotify.com/track/3tjFYV6RSFtuktYl3ZtYcq) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z), [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [Mood \(feat\. iann dior\)](https://open.spotify.com/album/4YMnOf4a7obOcN1Gy2QEuM) | 2:20 | 2021-10-22 | 2022-04-16 |
 | [Mood \(feat\. iann dior\)](https://open.spotify.com/track/4jPy3l0RUwlUI9T5XHBW2m) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z), [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [El Dorado](https://open.spotify.com/album/270o30h7cAlEhBnbuSpFZq) | 2:20 | 2022-04-15 |  |
 | [Mood Swings \(feat\. Lil Tjay\)](https://open.spotify.com/track/5rZlwNFl01HqLWBQGryKSm) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Shoot For The Stars Aim For The Moon](https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc) | 3:33 | 2021-10-22 | 2022-04-29 |
-| [Moth To A Flame \(with The Weeknd\)](https://open.spotify.com/track/0VO8gYVDSwM1Qdd2GsMoYK) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Paradise Again](https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH) | 3:54 | 2022-07-26 |  |
+| [Moth To A Flame \(with The Weeknd\)](https://open.spotify.com/track/0VO8gYVDSwM1Qdd2GsMoYK) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Paradise Again](https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH) | 3:54 | 2022-07-26 | 2022-11-12 |
 | [Moth To A Flame \(with The Weeknd\)](https://open.spotify.com/track/2gpWyfu7eZ01zzncHpxOtA) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Moth To A Flame](https://open.spotify.com/album/3udIvIqyBG1RrHxXrUZDoK) | 3:54 | 2021-12-05 | 2022-07-29 |
 | [Mount Everest](https://open.spotify.com/track/1ZdhOMWyFR8Iv9eylMGYg2) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Imagination & the Misfit Kid](https://open.spotify.com/album/0FSsRH1jeZqKbGcHwq3UO0) | 2:37 | 2022-04-15 |  |
 | [my ex's best friend \(with blackbear\)](https://open.spotify.com/track/7kDUspsoYfLkWnZR7qwHZl) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [Tickets To My Downfall](https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK) | 2:19 | 2021-10-22 |  |

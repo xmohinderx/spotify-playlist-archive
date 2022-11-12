@@ -4,7 +4,7 @@
 
 > The sound of worship in the U.K\. and Europe\. Cover: Luke + Anna Hellebronth
 
-69 songs - 5 hr 30 min - [published](https://open.spotify.com/playlist/0GWHPq4ASrEkmOe3SooidX)
+70 songs - 5 hr 34 min - [published](https://open.spotify.com/playlist/0GWHPq4ASrEkmOe3SooidX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,8 @@
 | [Simple Pursuit](https://open.spotify.com/track/7mrbfKEIvwf8rWXBxEtp89) | [Ben Cantelon](https://open.spotify.com/artist/0hG95VUGURuOHoxgts6Br3) | [The Ascent, Vol\. 1](https://open.spotify.com/album/2GvamlBYznzImkPF1ue7E2) | 5:18 | 2018-11-27 |  |
 | [Spirit and Truth](https://open.spotify.com/track/4wzlJOsP5hnCaAcVlEcMFo) | [Chris Sayburn](https://open.spotify.com/artist/3YCIiIHJppDleYo4vq4AN9) | [Saved By Grace](https://open.spotify.com/album/5Rzg6slcH2u7Ipl0VqYUY1) | 4:53 | 2018-11-27 |  |
 | [Spirit Fall \- Live](https://open.spotify.com/track/5PZkluOxlmQ742FwWGZ7Im) | [New Wine Worship](https://open.spotify.com/artist/2G5uXRzRvQILLfvQCsnSUV), [Susie Woodbridge](https://open.spotify.com/artist/7LWsLUT26iv49pBXRBnc4v) | [Everlasting Arms](https://open.spotify.com/album/5fiWNkaGTHGVQLTkhfSpqg) | 4:35 | 2018-11-27 | 2022-07-29 |
-| [Spirit Fall \- Live](https://open.spotify.com/track/0BrMRDuSxaxcXmnK6Bsb8E) | [New Wine Worship](https://open.spotify.com/artist/2G5uXRzRvQILLfvQCsnSUV), [Susie Woodbridge](https://open.spotify.com/artist/7LWsLUT26iv49pBXRBnc4v) | [Spirit Fall \(Live\)](https://open.spotify.com/album/61pd8daetmghBrcQQWt8EF) | 4:36 | 2018-11-27 |  |
+| [Spirit Fall \- Live](https://open.spotify.com/track/0BrMRDuSxaxcXmnK6Bsb8E) | [New Wine Worship](https://open.spotify.com/artist/2G5uXRzRvQILLfvQCsnSUV), [Susie Woodbridge](https://open.spotify.com/artist/7LWsLUT26iv49pBXRBnc4v) | [Spirit Fall \(Live\)](https://open.spotify.com/album/61pd8daetmghBrcQQWt8EF) | 4:36 | 2018-11-27 | 2022-11-12 |
+| [Spirit Fall \- Live](https://open.spotify.com/track/4soGniHIBzVWvgDjg8eask) | [New Wine Worship](https://open.spotify.com/artist/2G5uXRzRvQILLfvQCsnSUV), [Susie Woodbridge](https://open.spotify.com/artist/7LWsLUT26iv49pBXRBnc4v) | [Simply Worship](https://open.spotify.com/album/3tTXAa3g7P8iA5fphqeHpW) | 4:37 | 2018-11-27 |  |
 | [Still God](https://open.spotify.com/track/3RFp9S8ki6QfQxhYRCWkp7) | [Elim Sound](https://open.spotify.com/artist/66qGWtgWfDgz2dWok5E9FV), [Ian Yates](https://open.spotify.com/artist/1f4Ai5lRAeK0wameps1zqU) | [One](https://open.spotify.com/album/1AaUvbV62zJimSU8zFJEKV) | 4:48 | 2018-11-27 |  |
 | [Stir a Passion \- Live](https://open.spotify.com/track/5Yd2LrQZg3ouzzvgC1QKvJ) | [Worship Central](https://open.spotify.com/artist/3i0j8jwJKHchZU40nbd2Xt), [Josh Gauton](https://open.spotify.com/artist/4PLDTXCudiHDay44OSM79M) | [Stir a Passion](https://open.spotify.com/album/5pjsLhandWZP3rUF7NQuZ9) | 8:19 | 2018-11-27 |  |
 | [Take My Heart](https://open.spotify.com/track/5HvaoXzi3PPt9qdEHzzYhG) | [Tom Smith](https://open.spotify.com/artist/4y7Cnogmk0fX6UXhGznDQk) | [Sound of Heaven](https://open.spotify.com/album/3IEzw5QNkmIDCCtMrfo9A2) | 3:42 | 2018-11-27 |  |

@@ -4,7 +4,7 @@
 
 > Generation defining music, one playlist.
 
-61 songs - 4 hr 12 min - [published](https://open.spotify.com/playlist/5dxrgiDbd1PKMHmIO4juKN)
+62 songs - 4 hr 16 min - [published](https://open.spotify.com/playlist/5dxrgiDbd1PKMHmIO4juKN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [Miss You Love](https://open.spotify.com/track/3y9zMGuxWS8xkpOxNPfiMZ) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Neon Ballroom](https://open.spotify.com/album/10bobqzP8mtragmflBolOM) | 4:00 | 2021-09-16 |  |
 | [New Race](https://open.spotify.com/track/7FiYoxUf2GAhstQu7NkYlo) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [The Best Of \- Volume One](https://open.spotify.com/album/5MgR5qQCxsusIOui4S2io5) | 3:20 | 2021-09-16 |  |
 | [No Association](https://open.spotify.com/track/0lrY8m1pYczjiup6f0HhoR) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Freak Show](https://open.spotify.com/album/511p6iaCuK8Sr0BYdpcfkq) | 3:50 | 2021-09-16 |  |
-| [One Way Mule](https://open.spotify.com/track/6WfuJb0HmIzA45sBFZ9j3F) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Diorama \(U.S\. Version\)](https://open.spotify.com/album/0Zq85Us1Vyb4BhbjvIx9VN) | 4:14 | 2021-09-16 |  |
+| [One Way Mule](https://open.spotify.com/track/4zQxhT6MAP3ry40yCGXVY0) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [The Time of Grunge](https://open.spotify.com/album/0vyFfU2FIQEzyjpuj6XOqp) | 4:13 | 2022-11-03 |  |
+| [One Way Mule](https://open.spotify.com/track/6WfuJb0HmIzA45sBFZ9j3F) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Diorama \(U.S\. Version\)](https://open.spotify.com/album/0Zq85Us1Vyb4BhbjvIx9VN) | 4:14 | 2021-09-16 | 2022-11-12 |
 | [One Way Mule](https://open.spotify.com/track/17z0ByRhAuJwNZ1ad7LioL) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Diorama](https://open.spotify.com/album/6Bef401qUtLZTVGXByUycq) | 4:14 | 2021-09-16 | 2022-07-29 |
 | [Paint Pastel Princess](https://open.spotify.com/track/50L4BKgP2HNyq37tbhqFqR) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Neon Ballroom](https://open.spotify.com/album/10bobqzP8mtragmflBolOM) | 4:33 | 2021-09-16 |  |
 | [Point of View](https://open.spotify.com/track/5t3T0CPVDN8jXA8Zp6E1qI) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Neon Ballroom](https://open.spotify.com/album/10bobqzP8mtragmflBolOM) | 3:35 | 2021-09-16 |  |

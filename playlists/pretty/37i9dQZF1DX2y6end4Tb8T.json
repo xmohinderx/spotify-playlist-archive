@@ -1,12 +1,12 @@
 {
   "description": "Rap de alta gama. Foto: Juice WRLD",
-  "num_followers": 44566,
+  "num_followers": 44594,
   "original_name": "808.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDg4NDQzMCwwMDAwMDAwMGM4NWI4ZDU4MGYyZThhOGUzMmU2ODVlZTdiMjVjZTFi",
+  "snapshot_id": "MTY0NDg4NDQzMCwwMDAwMDAwMGE4ZTNjOGExYTUwMGM0MDIwY2EzOGRiYjA4Nzg3YTJh",
   "tracks": [
     {
       "added_at": "2021-11-12 16:22:17",
@@ -175,26 +175,6 @@
     {
       "added_at": "2021-11-12 16:22:17",
       "album": {
-        "name": "WAP (feat. Megan Thee Stallion)",
-        "url": "https://open.spotify.com/album/2ogiazbrNEx0kQHGl5ZBTQ"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        },
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 187541,
-      "name": "WAP (feat. Megan Thee Stallion)",
-      "url": "https://open.spotify.com/track/4Oun2ylbjFKMPTiaSbbCih"
-    },
-    {
-      "added_at": "2021-11-12 16:22:17",
-      "album": {
         "name": "SAVAGE MODE II",
         "url": "https://open.spotify.com/album/6wTyGUWGCilBFZ837k5aRi"
       },
@@ -211,6 +191,26 @@
       "duration_ms": 195906,
       "name": "Runnin",
       "url": "https://open.spotify.com/track/5SWnsxjhdcEDc7LJjq9UHk"
+    },
+    {
+      "added_at": "2021-11-12 16:22:17",
+      "album": {
+        "name": "WAP (feat. Megan Thee Stallion)",
+        "url": "https://open.spotify.com/album/2ogiazbrNEx0kQHGl5ZBTQ"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 187541,
+      "name": "WAP (feat. Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/4Oun2ylbjFKMPTiaSbbCih"
     },
     {
       "added_at": "2021-11-12 16:22:17",
@@ -399,26 +399,6 @@
     {
       "added_at": "2021-11-12 16:22:17",
       "album": {
-        "name": "F*CK LOVE",
-        "url": "https://open.spotify.com/album/6RuwGwQcAureaOraKJNFQG"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        },
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 181688,
-      "name": "GO (feat. Juice WRLD)",
-      "url": "https://open.spotify.com/track/2rPHUAeUPbNgTmK18FPTiZ"
-    },
-    {
-      "added_at": "2021-11-12 16:22:17",
-      "album": {
         "name": "Hollywood's Bleeding",
         "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
       },
@@ -591,6 +571,30 @@
     {
       "added_at": "2021-11-12 16:22:17",
       "album": {
+        "name": "Hollywood's Bleeding",
+        "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 218320,
+      "name": "On The Road (feat. Meek Mill & Lil Baby)",
+      "url": "https://open.spotify.com/track/12Fkyg9lpmaz2zmKOfw2Y2"
+    },
+    {
+      "added_at": "2021-11-12 16:22:17",
+      "album": {
         "name": "FRANCHISE (feat. Young Thug & M.I.A.)",
         "url": "https://open.spotify.com/album/4Bp7LKA5Afo1PRoXuQe8qZ"
       },
@@ -631,54 +635,6 @@
     {
       "added_at": "2021-11-12 16:22:17",
       "album": {
-        "name": "Hollywood's Bleeding",
-        "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "Meek Mill",
-          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 218320,
-      "name": "On The Road (feat. Meek Mill & Lil Baby)",
-      "url": "https://open.spotify.com/track/12Fkyg9lpmaz2zmKOfw2Y2"
-    },
-    {
-      "added_at": "2021-11-12 16:22:17",
-      "album": {
-        "name": "The Voice of the Heroes",
-        "url": "https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 257428,
-      "name": "Hats Off (feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/4lUmnwRybYH7mMzf16xB0y"
-    },
-    {
-      "added_at": "2021-11-12 16:22:17",
-      "album": {
         "name": "Life\u2019s A Mess II (with Clever & Post Malone)",
         "url": "https://open.spotify.com/album/4BUBmfexqfuvnaVT7ZnFiR"
       },
@@ -715,6 +671,30 @@
       "duration_ms": 181714,
       "name": "Masterpiece",
       "url": "https://open.spotify.com/track/26UxwWl9xCb83OynXELJcL"
+    },
+    {
+      "added_at": "2021-11-12 16:22:17",
+      "album": {
+        "name": "The Voice of the Heroes",
+        "url": "https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 257428,
+      "name": "Hats Off (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/4lUmnwRybYH7mMzf16xB0y"
     },
     {
       "added_at": "2021-11-12 16:22:17",
@@ -779,22 +759,6 @@
       "duration_ms": 224656,
       "name": "Gnat",
       "url": "https://open.spotify.com/track/6cS9PmLky2NhLOhpIsUlow"
-    },
-    {
-      "added_at": "2021-11-12 16:22:17",
-      "album": {
-        "name": "The Bigger Picture",
-        "url": "https://open.spotify.com/album/6ZTl8hHvYNuEg4Mk8yxz75"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 252728,
-      "name": "The Bigger Picture",
-      "url": "https://open.spotify.com/track/44gRhRi2OhEf7moAUj6MD1"
     },
     {
       "added_at": "2021-11-12 16:22:17",
@@ -887,6 +851,22 @@
       "duration_ms": 216857,
       "name": "Brindemos",
       "url": "https://open.spotify.com/track/5P8TXlZCMwru6DaMsIbbO3"
+    },
+    {
+      "added_at": "2021-11-12 16:22:17",
+      "album": {
+        "name": "The Bigger Picture",
+        "url": "https://open.spotify.com/album/6ZTl8hHvYNuEg4Mk8yxz75"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 252728,
+      "name": "The Bigger Picture",
+      "url": "https://open.spotify.com/track/44gRhRi2OhEf7moAUj6MD1"
     },
     {
       "added_at": "2021-11-12 16:22:17",
@@ -1035,46 +1015,6 @@
     {
       "added_at": "2021-11-12 16:22:17",
       "album": {
-        "name": "Top",
-        "url": "https://open.spotify.com/album/6MbQdX6OomgQhZU6QCqMKW"
-      },
-      "artists": [
-        {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "My Window (feat. Lil Wayne)",
-      "url": "https://open.spotify.com/track/7IECs9d4Rrlpa7tiHOCE1w"
-    },
-    {
-      "added_at": "2021-11-12 16:22:17",
-      "album": {
-        "name": "Music To Be Murdered By",
-        "url": "https://open.spotify.com/album/4otkd9As6YaxxEkIjXPiZ6"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        }
-      ],
-      "duration_ms": 170226,
-      "name": "Lock It Up (feat. Anderson .Paak)",
-      "url": "https://open.spotify.com/track/1qwMkkRiD5jqLeUUjfgblh"
-    },
-    {
-      "added_at": "2021-11-12 16:22:17",
-      "album": {
         "name": "Sold Out Dates",
         "url": "https://open.spotify.com/album/7MUGqiTtFGF2THKw5BjuoG"
       },
@@ -1107,26 +1047,6 @@
     {
       "added_at": "2021-11-12 16:22:17",
       "album": {
-        "name": "B.B. King Freestyle",
-        "url": "https://open.spotify.com/album/4Epq84TTM5hHH5jI78R271"
-      },
-      "artists": [
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 222801,
-      "name": "B.B. King Freestyle (with Drake)",
-      "url": "https://open.spotify.com/track/6EW1fwOk4JHmTZKINZsyjB"
-    },
-    {
-      "added_at": "2021-11-12 16:22:17",
-      "album": {
         "name": "Zaramay: Bzrp Music Sessions, Vol. 31",
         "url": "https://open.spotify.com/album/1gzX0POY5sQ1qYkScIaN1V"
       },
@@ -1143,6 +1063,46 @@
       "duration_ms": 219545,
       "name": "Zaramay: Bzrp Music Sessions, Vol. 31",
       "url": "https://open.spotify.com/track/2PKb7tFxkwMoS7Y6muOTAR"
+    },
+    {
+      "added_at": "2021-11-12 16:22:17",
+      "album": {
+        "name": "Music To Be Murdered By",
+        "url": "https://open.spotify.com/album/4otkd9As6YaxxEkIjXPiZ6"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "duration_ms": 170226,
+      "name": "Lock It Up (feat. Anderson .Paak)",
+      "url": "https://open.spotify.com/track/1qwMkkRiD5jqLeUUjfgblh"
+    },
+    {
+      "added_at": "2021-11-12 16:22:17",
+      "album": {
+        "name": "B.B. King Freestyle",
+        "url": "https://open.spotify.com/album/4Epq84TTM5hHH5jI78R271"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 222801,
+      "name": "B.B. King Freestyle (with Drake)",
+      "url": "https://open.spotify.com/track/6EW1fwOk4JHmTZKINZsyjB"
     },
     {
       "added_at": "2021-11-12 16:22:17",
@@ -1175,26 +1135,6 @@
     {
       "added_at": "2021-11-12 16:22:17",
       "album": {
-        "name": "Real As It Gets (feat. EST Gee)",
-        "url": "https://open.spotify.com/album/0SO86DCFiwaTqchBpujace"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 192804,
-      "name": "Real As It Gets (feat. EST Gee)",
-      "url": "https://open.spotify.com/track/7eX3um6NpOQKWJMGCi97XD"
-    },
-    {
-      "added_at": "2021-11-12 16:22:17",
-      "album": {
         "name": "Monarca",
         "url": "https://open.spotify.com/album/6N1iKBKY8zRGImxADk2IdN"
       },
@@ -1215,22 +1155,6 @@
     {
       "added_at": "2021-11-12 16:22:17",
       "album": {
-        "name": "Hall of Fame",
-        "url": "https://open.spotify.com/album/7KSf6p0G0mZd7j60etVTwT"
-      },
-      "artists": [
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        }
-      ],
-      "duration_ms": 116256,
-      "name": "GNF (OKOKOK)",
-      "url": "https://open.spotify.com/track/3gntlMjzCV42fREUUbOHCN"
-    },
-    {
-      "added_at": "2021-11-12 16:22:17",
-      "album": {
         "name": "Changes",
         "url": "https://open.spotify.com/album/63iWSELt9V1kV6RSMxN7Ii"
       },
@@ -1247,6 +1171,26 @@
       "duration_ms": 202720,
       "name": "Second Emotion (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/1PnAx788sAvcI3ZxTlEyX8"
+    },
+    {
+      "added_at": "2021-11-12 16:22:17",
+      "album": {
+        "name": "Real As It Gets (feat. EST Gee)",
+        "url": "https://open.spotify.com/album/0SO86DCFiwaTqchBpujace"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 192804,
+      "name": "Real As It Gets (feat. EST Gee)",
+      "url": "https://open.spotify.com/track/7eX3um6NpOQKWJMGCi97XD"
     },
     {
       "added_at": "2021-11-12 16:22:17",
@@ -1347,22 +1291,6 @@
     {
       "added_at": "2021-11-12 16:22:17",
       "album": {
-        "name": "Errbody",
-        "url": "https://open.spotify.com/album/1AhcXFOhxnWriMEslx0LC2"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 210698,
-      "name": "Errbody",
-      "url": "https://open.spotify.com/track/6eVxH9Kyanzrw636zJRPcw"
-    },
-    {
-      "added_at": "2021-11-12 16:22:17",
-      "album": {
         "name": "Seven Kayne: Bzrp Music Sessions, Vol. 33",
         "url": "https://open.spotify.com/album/5VZx3dyGCnrp2JUQMbmi27"
       },
@@ -1423,6 +1351,22 @@
       "duration_ms": 195807,
       "name": "Tren Thomas",
       "url": "https://open.spotify.com/track/2215X6fteco2cgMa8I8ifV"
+    },
+    {
+      "added_at": "2021-11-12 16:22:17",
+      "album": {
+        "name": "Errbody",
+        "url": "https://open.spotify.com/album/1AhcXFOhxnWriMEslx0LC2"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 210698,
+      "name": "Errbody",
+      "url": "https://open.spotify.com/track/6eVxH9Kyanzrw636zJRPcw"
     },
     {
       "added_at": "2021-11-12 16:22:17",
@@ -1647,26 +1591,6 @@
     {
       "added_at": "2021-11-12 16:22:17",
       "album": {
-        "name": "The Voice (Deluxe)",
-        "url": "https://open.spotify.com/album/6lb9q7QZwjMj9EE7M664sK"
-      },
-      "artists": [
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        },
-        {
-          "name": "Sydny August",
-          "url": "https://open.spotify.com/artist/6r67a5jAm4bKhtLydqn9YE"
-        }
-      ],
-      "duration_ms": 178604,
-      "name": "Love You (feat. Sydny August)",
-      "url": "https://open.spotify.com/track/65awQLLy8qAiBCzvKNOlo6"
-    },
-    {
-      "added_at": "2021-11-12 16:22:17",
-      "album": {
         "name": "Spicy (feat. J Balvin, YG, Tyga & Post Malone) [Remix]",
         "url": "https://open.spotify.com/album/201QACb6tzkZ2raEN7DkXZ"
       },
@@ -1695,6 +1619,46 @@
       "duration_ms": 221640,
       "name": "Spicy (feat. J Balvin, YG, Tyga & Post Malone) - Remix",
       "url": "https://open.spotify.com/track/4Ae2ORKCPbA8L67WWFmVEV"
+    },
+    {
+      "added_at": "2021-11-12 16:22:17",
+      "album": {
+        "name": "The Voice (Deluxe)",
+        "url": "https://open.spotify.com/album/6lb9q7QZwjMj9EE7M664sK"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "Sydny August",
+          "url": "https://open.spotify.com/artist/6r67a5jAm4bKhtLydqn9YE"
+        }
+      ],
+      "duration_ms": 178604,
+      "name": "Love You (feat. Sydny August)",
+      "url": "https://open.spotify.com/track/65awQLLy8qAiBCzvKNOlo6"
+    },
+    {
+      "added_at": "2021-11-12 16:22:17",
+      "album": {
+        "name": "F*CK LOVE 3+: OVER YOU",
+        "url": "https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 181688,
+      "name": "GO (feat. Juice WRLD)",
+      "url": "https://open.spotify.com/track/4lH5L59hPQGr05aJyb2Q2E"
     },
     {
       "added_at": "2021-11-12 16:22:17",
@@ -1731,6 +1695,22 @@
       "duration_ms": 201230,
       "name": "Baller",
       "url": "https://open.spotify.com/track/2X8aYVxIBCblvI3N4JpvUx"
+    },
+    {
+      "added_at": "2021-11-12 16:22:17",
+      "album": {
+        "name": "Hall of Fame 2.0",
+        "url": "https://open.spotify.com/album/2rLqUcipEjIKK9rma5OTN8"
+      },
+      "artists": [
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "duration_ms": 116256,
+      "name": "GNF (OKOKOK)",
+      "url": "https://open.spotify.com/track/1B9Su8GUJ7DETOKVLOOKWA"
     },
     {
       "added_at": "2021-11-12 16:22:17",
@@ -1999,6 +1979,22 @@
     {
       "added_at": "2021-11-12 16:22:17",
       "album": {
+        "name": "Hotter Than Hell Hits",
+        "url": "https://open.spotify.com/album/4xGivruQM6CyQx3kge1Ly2"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 154424,
+      "name": "No Idea",
+      "url": "https://open.spotify.com/track/63yhVAhqcMO5JExOOGhNOc"
+    },
+    {
+      "added_at": "2021-11-12 16:22:17",
+      "album": {
         "name": "Flow Pe$ado",
         "url": "https://open.spotify.com/album/4DAvoNoPJEZkZjljj8G8PX"
       },
@@ -2019,22 +2015,6 @@
     {
       "added_at": "2021-11-12 16:22:17",
       "album": {
-        "name": "NO TV",
-        "url": "https://open.spotify.com/album/6M3SHnGd6dndntqykBbbKU"
-      },
-      "artists": [
-        {
-          "name": "2 Chainz",
-          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
-        }
-      ],
-      "duration_ms": 124546,
-      "name": "NO TV",
-      "url": "https://open.spotify.com/track/78KiqdSnQIGiJzOJRQMs8G"
-    },
-    {
-      "added_at": "2021-11-12 16:22:17",
-      "album": {
         "name": "LOAD IT UP",
         "url": "https://open.spotify.com/album/77Mak8ARcb9Jwkl1D0tFfA"
       },
@@ -2051,6 +2031,22 @@
       "duration_ms": 177000,
       "name": "LOAD IT UP",
       "url": "https://open.spotify.com/track/0LE2H36uYuoBi9D9IcyiuO"
+    },
+    {
+      "added_at": "2021-11-12 16:22:17",
+      "album": {
+        "name": "NO TV",
+        "url": "https://open.spotify.com/album/6M3SHnGd6dndntqykBbbKU"
+      },
+      "artists": [
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        }
+      ],
+      "duration_ms": 124546,
+      "name": "NO TV",
+      "url": "https://open.spotify.com/track/78KiqdSnQIGiJzOJRQMs8G"
     }
   ],
   "unique_name": "808.",

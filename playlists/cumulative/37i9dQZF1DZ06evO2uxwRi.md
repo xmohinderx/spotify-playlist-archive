@@ -4,11 +4,11 @@
 
 > This is New Found Glory\. The essential tracks, all in one playlist.
 
-57 songs - 3 hr 3 min - [published](https://open.spotify.com/playlist/3GvDkZVbOg5dcye1Ezt3S2)
+58 songs - 3 hr 8 min - [published](https://open.spotify.com/playlist/3GvDkZVbOg5dcye1Ezt3S2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [20 Years From Now](https://open.spotify.com/track/13c4fq3fil9twERAWIKDPk) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Makes Me Sick Again](https://open.spotify.com/album/2VKySLHotMO1hAlueSCQrt) | 3:32 | 2022-09-16 |  |
+| [20 Years From Now](https://open.spotify.com/track/13c4fq3fil9twERAWIKDPk) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Makes Me Sick Again](https://open.spotify.com/album/2VKySLHotMO1hAlueSCQrt) | 3:32 | 2022-09-16 | 2022-11-12 |
 | [A Thousand Years](https://open.spotify.com/track/5jikbiarPYHC9fc3lYrHfV) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo 3](https://open.spotify.com/album/5kXa75AebVa3cTR07N4fxv) | 4:00 | 2022-10-12 |  |
 | [Accidentally in Love](https://open.spotify.com/track/6dF8V3HeiLd8X2I2BkxhUV) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo 3](https://open.spotify.com/album/5kXa75AebVa3cTR07N4fxv) | 2:58 | 2022-09-16 |  |
 | [All Downhill From Here](https://open.spotify.com/track/5dpDrUG52yI3s1AQRlaypA) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Catalyst](https://open.spotify.com/album/1Igrcji3zf5aC61saylDE1) | 3:12 | 2022-09-16 |  |
@@ -20,6 +20,7 @@
 | [Cups](https://open.spotify.com/track/4iG3bUKDg0F5bKPGpmHMEU) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo 3](https://open.spotify.com/album/5kXa75AebVa3cTR07N4fxv) | 1:50 | 2022-09-16 |  |
 | [Don't Let Her Pull You Down](https://open.spotify.com/track/5ab6WsStT9zSlNZ9CSArje) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Not Without A Fight](https://open.spotify.com/album/5O2AXzJUf1lhZYHEwVBROO) | 3:28 | 2022-09-16 |  |
 | [Don't You \(Forget About Me\)](https://open.spotify.com/track/0VlC3qVM7sDx4vhxOY3L34) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo, Pt\. II](https://open.spotify.com/album/1LLHUxDRE2ocsNoPUaohzp) | 4:02 | 2022-09-22 | 2022-10-06 |
+| [Dream Born Again](https://open.spotify.com/track/3nTZKdlQJaKsMXmr6gGDeo) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Dream Born Again](https://open.spotify.com/album/680aZyr4pHGgUGXvgGLwlG) | 4:21 | 2022-11-11 |  |
 | [Dressed To Kill](https://open.spotify.com/track/75JUFOP8s5yiOYcHmJjccP) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [New Found Glory](https://open.spotify.com/album/4lrBF0IWC9wZiF6btB68ua) | 3:28 | 2022-09-16 |  |
 | [Eye of the Tiger](https://open.spotify.com/track/7zV1lZsCJZRh26TwAAz8uP) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo 3](https://open.spotify.com/album/5kXa75AebVa3cTR07N4fxv) | 3:24 | 2022-09-16 |  |
 | [Failure's Not Flattering](https://open.spotify.com/track/1U57cDOAvIRFeDQCIbW6VI) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Catalyst](https://open.spotify.com/album/1Igrcji3zf5aC61saylDE1) | 3:51 | 2022-09-16 |  |

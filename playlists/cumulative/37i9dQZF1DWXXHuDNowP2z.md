@@ -4,7 +4,7 @@
 
 > ¡A levantar polvadera!
 
-214 songs - 12 hr 10 min - [published](https://open.spotify.com/playlist/7AVTLss0jdvM2YQNxTY8ci)
+215 songs - 12 hr 14 min - [published](https://open.spotify.com/playlist/7AVTLss0jdvM2YQNxTY8ci)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [El Alacrán \(Tumbando Caña\)](https://open.spotify.com/track/5zvdQzSP3UTLifWD9YHLEJ) | [Grupo Legitimo](https://open.spotify.com/artist/1ovPxptMcDubQ0CgYsS5hm) | [Yo Pongo las Reglas](https://open.spotify.com/album/3Sux4OcMDKm8LLFeAuGJL1) | 4:01 | 2022-04-08 | 2022-07-29 |
 | [El Bigote](https://open.spotify.com/track/3ujVqENYM0ujQY5jgKLQb9) | [Banda R\-15](https://open.spotify.com/artist/5l0ZjUz8rAAFVm616in8YR) | [15 Grandes Exitos](https://open.spotify.com/album/1f0ASfbeUcjB2vEI8PNyuC) | 2:51 | 2022-04-08 |  |
 | [El Botecito](https://open.spotify.com/track/2DzLlUtscN7QECJ6E3yvHE) | [Los Hijos Del Pueblo](https://open.spotify.com/artist/35hWST2f8cTTFbGzQZzGTZ) | [El Botecito](https://open.spotify.com/album/3F17x1qqSjZBxMCwxbnupP) | 2:30 | 2022-04-08 |  |
-| [El Caballito de Mar](https://open.spotify.com/track/5XUHIgK8y3mty4MEIvlatI) | [Afecto Norteño](https://open.spotify.com/artist/6DwBD9kC6eCPG4xA5eFzoL) | [Jam out Session 2](https://open.spotify.com/album/57wRNlhZu6I6vaLCjHZrSw) | 4:30 | 2022-04-08 | 2022-08-02 |
+| [El Caballito de Mar](https://open.spotify.com/track/5XUHIgK8y3mty4MEIvlatI) | [Afecto Norteño](https://open.spotify.com/artist/6DwBD9kC6eCPG4xA5eFzoL) | [Jam out Session 2](https://open.spotify.com/album/57wRNlhZu6I6vaLCjHZrSw) | 4:30 | 2022-04-08 |  |
 | [El Camaleón](https://open.spotify.com/track/3a6TQVSXm6zCQzNhTVO2Mo) | [Los Tigrillos](https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf) | [Camaleón](https://open.spotify.com/album/6w20flSfh4CyLpQALjOape) | 3:06 | 2022-04-08 |  |
 | [El Celular](https://open.spotify.com/track/3wyaQSlRpmfCZln3OFOX4C) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Tan Bonita](https://open.spotify.com/album/2Y6AdUP44txJRiTizYo5nj) | 2:48 | 2022-04-08 |  |
 | [El Comet](https://open.spotify.com/track/5Xhj8ErKSsIwwA50HtzBmC) | [Los Garcia Bros.](https://open.spotify.com/artist/4oI2xE94fPz2FbKvtrJEgD) | [La Trayectoria](https://open.spotify.com/album/2WuaAcfZ0yXQVSlhgtfEkj) | 3:42 | 2022-04-08 |  |
@@ -153,7 +153,7 @@
 | [Las Viejitas](https://open.spotify.com/track/4hc0Cq5hL51wH7u9rkW3zZ) | [La Alianza Norteña](https://open.spotify.com/artist/6RTbXTYbxbg4hHHwu12xdw) | [Nuestro Destino, Vol\. 2](https://open.spotify.com/album/2I9GY9r0B7ZwqiPmgD3nwB) | 3:08 | 2022-04-08 |  |
 | [Le Quito Lo Fresa](https://open.spotify.com/track/5rk9nYwmJRrYZ5Agz98xmZ) | [Roberto Junior Y Su Bandeño](https://open.spotify.com/artist/6lcyDWmvYnBiGgHO9knEOb) | [El Coco No](https://open.spotify.com/album/0j01vRLlIWCaQejaz9CwRG) | 2:52 | 2022-04-08 |  |
 | [Los Males De Micaela](https://open.spotify.com/track/29MBOL7DgVi8iJvKbraaPY) | [Voces Del Rancho](https://open.spotify.com/artist/1fGlKY2s0o51QUA9gScpWR) | [Dominando](https://open.spotify.com/album/6diTSPCsoezkD8cSHuCOSA) | 2:46 | 2022-04-08 |  |
-| [Los Viejitos](https://open.spotify.com/track/57wRXy4jEeTVQvXCl4j2oq) | [La Zenda Norteña](https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG) | [Underground](https://open.spotify.com/album/0webdnEw8ZfPGn4gQpN1g0) | 3:48 | 2022-04-08 |  |
+| [Los Viejitos](https://open.spotify.com/track/57wRXy4jEeTVQvXCl4j2oq) | [La Zenda Norteña](https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG) | [Underground](https://open.spotify.com/album/0webdnEw8ZfPGn4gQpN1g0) | 3:48 | 2022-04-08 | 2022-11-12 |
 | [Los Viejitos](https://open.spotify.com/track/6ud1Szdym1QRhURpEyr55A) | [La Zenda Norteña](https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG) | [Underground](https://open.spotify.com/album/0yqvCREwt1onIiLGPdXSea) | 3:48 | 2022-04-08 | 2022-07-28 |
 | [Lucesita](https://open.spotify.com/track/5EdZ3ta2DrvCjPtHNr8A7Y) | [Guizador Norteño de Zirahuén Mich.](https://open.spotify.com/artist/4fGn6oclcpfVniidRAvXLP) | [Los Únicos del Huapango Michoacano](https://open.spotify.com/album/5y4vlR58lLHIxvJEafFogr) | 2:28 | 2022-04-08 |  |
 | [Macarena](https://open.spotify.com/track/3c30EjdSPP1VuuY1ElSrru) | [Identidad](https://open.spotify.com/artist/27C7ZMfb3rHz90wbayV6ka) | [Los Saxofones Alegres](https://open.spotify.com/album/6pNhPyCej3dPwZcEs9L9w3) | 2:59 | 2022-04-08 | 2022-07-29 |
@@ -180,9 +180,10 @@
 | [Ojalá Te Animes](https://open.spotify.com/track/1tg7ZzCAkjDNENdWL7WuIr) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Vive](https://open.spotify.com/album/4v2fdmkaVrrT0eYhy2ix3a) | 3:00 | 2022-04-08 |  |
 | [Orgullosa Maria](https://open.spotify.com/track/6l4StzxtJqjgsqs9TkuRJA) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Grupo El Mexicano](https://open.spotify.com/album/06QIUFuTgAr4DNUeuu9sX8) | 3:27 | 2022-04-08 | 2022-07-29 |
 | [Orgullosa María](https://open.spotify.com/track/1nZKtN7ZTkU3b49EtKW2Qj) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Mi Mexico Querido](https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1) | 3:27 | 2022-04-08 | 2022-11-11 |
+| [Orgullosa María](https://open.spotify.com/track/44jCTRKB5XefL8x3MSqdro) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Su Majestad Mi Banda El Mexicano Con Ustedes...](https://open.spotify.com/album/1s3BrMCfyfzqth3RzFdeSl) | 3:27 | 2022-04-08 |  |
 | [Pasito Duranguense](https://open.spotify.com/track/3rHsX3TLPYixr7eGzRlZqI) | [Montez de Durango](https://open.spotify.com/artist/1i4xi4ramy5BPYr2Bhf6sc) | [El Sube Y Baja](https://open.spotify.com/album/5JRg9iBzGz8l7c8z1u6m3C) | 3:20 | 2022-04-08 |  |
 | [Pelotero A La Bola](https://open.spotify.com/track/3djM8QkIOjpzynd5MfaGMA) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [15 Exitos \- Mi Banda El Mexicano](https://open.spotify.com/album/4n4egdncbKUB4aZuU9ibla) | 2:49 | 2022-04-08 | 2022-07-29 |
-| [Pelotero A La Bola](https://open.spotify.com/track/4nkMHa8OAlBtSO1clxQqTm) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [16 Enormes Éxitos](https://open.spotify.com/album/0nzrY6r02nNFuJ4fiibB5w) | 2:51 | 2022-04-08 |  |
+| [Pelotero A La Bola](https://open.spotify.com/track/4nkMHa8OAlBtSO1clxQqTm) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [16 Enormes Éxitos](https://open.spotify.com/album/0nzrY6r02nNFuJ4fiibB5w) | 2:51 | 2022-04-08 | 2022-11-12 |
 | [Pequeña de Ojos Brujos](https://open.spotify.com/track/5MRrfvswoInWd0XGvvfz6u) | [Hermanos Romero](https://open.spotify.com/artist/4tGMxdgFkE1WESNVTIsrgQ) | [Se Les Peló Baltazar](https://open.spotify.com/album/0dIeKfbhKl7kGQtgTK12DX) | 3:05 | 2022-04-08 |  |
 | [Pequeña Y Frágil](https://open.spotify.com/track/2cHrDsiIllNZSiyW1UpId3) | [Control](https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx) | [30 Del Recuerdo](https://open.spotify.com/album/2FCWjC0B8cNanuciJ7ZtBY) | 2:38 | 2022-04-08 |  |
 | [Popurri De Cumbias \(En Vivo\)](https://open.spotify.com/track/2Vi4spIGqXoqeCd63PWVQM) | [Los Caimanes De Sinaloa](https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN) | [En Vivo Desde Hacienda Heights](https://open.spotify.com/album/6nQUTyzVC8h10TDOEf9tYl) | 8:42 | 2022-04-27 |  |

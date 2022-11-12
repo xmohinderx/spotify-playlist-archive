@@ -410,6 +410,24 @@
     },
     {
       "album": {
+        "name": "Santa Songs",
+        "url": "https://open.spotify.com/album/6KI13Kc1iR2zvckXe7GP6U"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "date_added": "2022-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207186,
+      "name": "Do You Hear What I Hear?",
+      "url": "https://open.spotify.com/track/0bZ3ZtpsP0g5JAJ0sezKP5"
+    },
+    {
+      "album": {
         "name": "Exhale",
         "url": "https://open.spotify.com/album/4feyjHLm31HxeKGegVXYPZ"
       },
@@ -421,7 +439,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 212400,
       "name": "Do You Hear What I Hear?",
       "url": "https://open.spotify.com/track/5umJVEAPT2SocCoB99ZoaH"
@@ -1403,10 +1421,28 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 309386,
       "name": "O Tannenbaum",
       "url": "https://open.spotify.com/track/4YhY2qHdBmSX33uj8ms0oq"
+    },
+    {
+      "album": {
+        "name": "Classic Christmas Hits 2022",
+        "url": "https://open.spotify.com/album/7ILcxLRAchjzznQVoD0ESK"
+      },
+      "artists": [
+        {
+          "name": "Vince Guaraldi Trio",
+          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
+        }
+      ],
+      "date_added": "2022-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309386,
+      "name": "O Tannenbaum",
+      "url": "https://open.spotify.com/track/5IYTUm06pUdo1DHjtijVRW"
     },
     {
       "album": {
@@ -1464,6 +1500,24 @@
     },
     {
       "album": {
+        "name": "No\u00ebl 2020",
+        "url": "https://open.spotify.com/album/0gbWx46O7msHBOfp6fYSkk"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162897,
+      "name": "Run Rudolph Run",
+      "url": "https://open.spotify.com/track/3CQa7Xu95cwlQVPd3UoiHB"
+    },
+    {
+      "album": {
         "name": "Rock 'N' Roll Rarities",
         "url": "https://open.spotify.com/album/1DILNh7maaYyKxe15V9xLq"
       },
@@ -1475,7 +1529,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 165733,
       "name": "Run Rudolph Run",
       "url": "https://open.spotify.com/track/2pnPe4pJtq7689i5ydzvJJ"
@@ -1630,6 +1684,24 @@
     },
     {
       "album": {
+        "name": "Happy Navidad",
+        "url": "https://open.spotify.com/album/1PpiyGryY19O7Lk6L1IbFu"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2022-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272333,
+      "name": "Step Into Christmas",
+      "url": "https://open.spotify.com/track/5AG7WObBQyMrmAfP5X9FKw"
+    },
+    {
+      "album": {
         "name": "Goodbye Yellow Brick Road (40th Anniversary Celebration/ Super Deluxe Edition)",
         "url": "https://open.spotify.com/album/6Gp6qSE1ywXCLjal5NUWUE"
       },
@@ -1659,7 +1731,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 272393,
       "name": "Step Into Christmas",
       "url": "https://open.spotify.com/track/6sBWmE23q6xQHlnEZ8jYPT"
@@ -1883,10 +1955,28 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 229853,
       "name": "We Wish You A Merry Christmas",
       "url": "https://open.spotify.com/track/73pcHkUzQTD3IqYrHfqUf8"
+    },
+    {
+      "album": {
+        "name": "The Ultimate Christmas Playlist",
+        "url": "https://open.spotify.com/album/4ZomfR8jSbQYmozJ3PFRSW"
+      },
+      "artists": [
+        {
+          "name": "Jim Brickman",
+          "url": "https://open.spotify.com/artist/2NzWRNaaLByHyI3wpuec8P"
+        }
+      ],
+      "date_added": "2022-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229853,
+      "name": "We Wish You A Merry Christmas",
+      "url": "https://open.spotify.com/track/7ymP6bi2ufhArxKbxUkGkf"
     },
     {
       "album": {

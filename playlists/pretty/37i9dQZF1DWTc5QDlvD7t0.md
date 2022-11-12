@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTc5QDlvD7t0.md) - [plain]
 
 > The best indie rock/pop/punk/dance/hip hop/r&b of 2019\. Cover: Clairo
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,539 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,543 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTc5QDlvD7t0.md) - [plain]
 | 2 | [Norman fucking Rockwell](https://open.spotify.com/track/3RIgHHpnFKj5Rni1shokDj) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 4:08 |
 | 3 | [Do You Love Her Now](https://open.spotify.com/track/7KkqFE3ZfAVxdBmRDeOIJb) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [Do You Love Her Now / He](https://open.spotify.com/album/5mpECz4TMWAEkAUSp7FIUO) | 4:34 |
 | 4 | [cellophane](https://open.spotify.com/track/7x8pIrhMu9FCmqqHNyuH0P) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [MAGDALENE](https://open.spotify.com/album/3DMR3yM5crnt1dG9lLaMTZ) | 3:24 |
-| 5 | [All My Happiness is Gone](https://open.spotify.com/track/0oCpNIVoV1iJK51xmh59Yh) | [Purple Mountains](https://open.spotify.com/artist/1ll45mCZIveI9KHNZx2DdS) | [Purple Mountains](https://open.spotify.com/album/6YM4MpYgz6BhIeqQkxp3u4) | 4:20 |
+| 5 | [All My Happiness is Gone](https://open.spotify.com/track/3REGbJ5sl2RivUzgS2UZkF) | [Purple Mountains](https://open.spotify.com/artist/1ll45mCZIveI9KHNZx2DdS) | [All My Happiness is Gone](https://open.spotify.com/album/39FwK9nw1fyF39hZUkPUt2) | 4:20 |
 | 6 | [Only Child](https://open.spotify.com/track/4zMmqb0pYwX6b0qc0slCoT) | [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh) | [Only Child](https://open.spotify.com/album/0vioXPjQ9v9dSkzw5xHrTQ) | 3:59 |
 | 7 | [Hey, Ma](https://open.spotify.com/track/0RstfX9nRY1Lfuy1808MoT) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [i,i](https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW) | 3:36 |
 | 8 | [Not](https://open.spotify.com/track/7lrhugjSbiImrNSLIFIq0c) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Two Hands](https://open.spotify.com/album/5pp7px9MITK2MqeFVbRWGo) | 6:07 |
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTc5QDlvD7t0.md) - [plain]
 | 24 | [OUTTA MY MIND](https://open.spotify.com/track/7zTTDkkLkJ2iHAqq1daDCr) | [Monsune](https://open.spotify.com/artist/6NgYKD0TKGjwtRFqTyyqKF) | [OUTTA MY MIND](https://open.spotify.com/album/6WWXMhWEmIM9SaAyZCFvYL) | 3:46 |
 | 25 | [Best Life](https://open.spotify.com/track/068XDWvE8tDnQsKo8J3x1Z) | [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [uknowhatimsayin¿](https://open.spotify.com/album/4G3BRVsGEpWzUdplFJ1VBl) | 2:33 |
 | 26 | [Seventeen](https://open.spotify.com/track/5jZoYp0P8ML7AxkS3tQz3j) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Remind Me Tomorrow](https://open.spotify.com/album/4bfvR9TMwCm2tzXpboLH3t) | 4:25 |
-| 27 | [Spirit](https://open.spotify.com/track/0f9vhmR2FVZ75t69Lvo39b) | [Jack Larsen](https://open.spotify.com/artist/1UGH6A3IionoSVLLmqtl4o) | [Mildew](https://open.spotify.com/album/0Rl2oukHRhIEK48o5ZbJNu) | 4:49 |
+| 27 | [Spirit](https://open.spotify.com/track/06TqjuJ7RwVqN6SsPId1ma) | [Jack Larsen](https://open.spotify.com/artist/1UGH6A3IionoSVLLmqtl4o) | [Spirit](https://open.spotify.com/album/0WN75oUaQCNadnMj0bIaQv) | 4:49 |
 | 28 | [DYSFUNCTIONAL](https://open.spotify.com/track/60y3oBiHHIlOzUFZRWP6Ak) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI) | [DYSFUNCTIONAL](https://open.spotify.com/album/2io9FL9DbX7AtefnQXFTOH) | 4:00 |
 | 29 | [Water Me Down](https://open.spotify.com/track/1CON7om9HhIyr8cuZ6WmzC) | [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Vagabon](https://open.spotify.com/album/2AijQUrTqAETyjMaKxu4Xh) | 4:32 |
 | 30 | [Time](https://open.spotify.com/track/5HWWtLWb8D64F9yWr0Iubt) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Time](https://open.spotify.com/album/2sPbE8s9oG8fTsFZRKYpjI) | 3:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTc5QDlvD7t0.md) - [plain]
 | 49 | [Stay Flo](https://open.spotify.com/track/6GCIYIWUBSLontW6divqsw) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [When I Get Home](https://open.spotify.com/album/4WF4HvVT7VjGnVjxjoCR6w) | 2:55 |
 | 50 | [placeholder](https://open.spotify.com/track/0p0BfeqMWoToqbPVzXxAIZ) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [placeholder](https://open.spotify.com/album/5MByQp3pFETiRZxcwnZsZz) | 3:50 |
 
-Snapshot ID: `MTU3NTk5NDk2MiwwMDAwMDAwMGZmMTZhODZkNjNlZTYzY2RmY2RiYTMzNTdhZmY0YzJi`
+Snapshot ID: `MTU3NTk5NDk2MiwwMDAwMDAwMGI1N2Q0MjQyM2Y3ZGFlNmRmYWYwNmU4YmM0MmI2N2Qw`

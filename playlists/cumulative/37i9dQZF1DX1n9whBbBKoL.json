@@ -1470,6 +1470,24 @@
     },
     {
       "album": {
+        "name": "Inner Room",
+        "url": "https://open.spotify.com/album/4fXkrN3C0flzXXC4Uub7a7"
+      },
+      "artists": [
+        {
+          "name": "Beyond Time",
+          "url": "https://open.spotify.com/artist/5jcdsaKY2dOyiAVuePI4a2"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "Inner Room",
+      "url": "https://open.spotify.com/track/0porleM25n0O0ZZTPPXQFY"
+    },
+    {
+      "album": {
         "name": "Instinto Natural",
         "url": "https://open.spotify.com/album/5STa5Tztdf9Kd7w2WlqoY7"
       },
@@ -2298,6 +2316,24 @@
     },
     {
       "album": {
+        "name": "Quiet Motions",
+        "url": "https://open.spotify.com/album/7JycG0PMs6yxJBgSmx1Cmr"
+      },
+      "artists": [
+        {
+          "name": "Spheres",
+          "url": "https://open.spotify.com/artist/3c3ccZ0IYqJ9cfMdSfVt02"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195600,
+      "name": "Quiet Motions",
+      "url": "https://open.spotify.com/track/5G5T4D1uFd2mjhuM5O7bXu"
+    },
+    {
+      "album": {
         "name": "Repouso",
         "url": "https://open.spotify.com/album/0FOLb3AIWL91ig6CEQu09c"
       },
@@ -2471,7 +2507,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 207692,
       "name": "Silent Eclipse",
       "url": "https://open.spotify.com/track/6HAN6YB5lzLAmElgGDPxtR"
@@ -2943,6 +2979,24 @@
       "duration_ms": 228000,
       "name": "Trigg's Oldest Book",
       "url": "https://open.spotify.com/track/6cdMnYYMiYDrFvNzw1JTwS"
+    },
+    {
+      "album": {
+        "name": "Two Ways",
+        "url": "https://open.spotify.com/album/7lct65G1cVbNXZXY6zGjn4"
+      },
+      "artists": [
+        {
+          "name": "Monet Benitez",
+          "url": "https://open.spotify.com/artist/4oQZmRxjpBOfuINrvgElwz"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184235,
+      "name": "Two Ways",
+      "url": "https://open.spotify.com/track/2jtfOMMCIJrZgXbdnrVNDH"
     },
     {
       "album": {

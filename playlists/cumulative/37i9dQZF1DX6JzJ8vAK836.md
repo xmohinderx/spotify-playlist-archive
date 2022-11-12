@@ -4,7 +4,7 @@
 
 > Prince was a true original and earth\-shattering performer\. Hear Prince Rogers Nelson best right now.
 
-146 songs - 11 hr 48 min - [published](https://open.spotify.com/playlist/7fAjUWCKdwM8RcnPSoDoRu)
+147 songs - 11 hr 51 min - [published](https://open.spotify.com/playlist/7fAjUWCKdwM8RcnPSoDoRu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,8 @@
 | [Let's Go Crazy](https://open.spotify.com/track/0QeI79sp1vS8L3JgpEO7mD) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain](https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc) | 4:40 | 2021-04-09 |  |
 | [Let's Go Crazy \- Live In Syracuse, March 30, 1985 \- 2022 Remaster](https://open.spotify.com/track/0x2RD4R0yWGXaBZPo7lDqY) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Let's Go Crazy \(Live In Syracuse, March 30, 1985 \- 2022 Remaster\)](https://open.spotify.com/album/5YfFeRzMeykwYn0WhWK9Ep) | 5:50 | 2022-05-26 | 2022-07-29 |
 | [Let's Go Crazy \- Live In Syracuse, March 30, 1985 \- 2022 Remaster](https://open.spotify.com/track/15BL8ku45JiAS9dSuAD2ap) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Prince and The Revolution: Live \(2022 Remaster\)](https://open.spotify.com/album/4Y8oukfqpJupRcCsHucO7J) | 5:50 | 2022-05-26 |  |
-| [Little Red Corvette \- 7" Edit \- 2019 Remaster](https://open.spotify.com/track/4N1dFbXmRng8qJ3KdJrbLr) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [1999 \(Super Deluxe Edition\)](https://open.spotify.com/album/2EHUlDJaTyvn0gAvVfUlcY) | 3:08 | 2021-04-09 |  |
+| [Little Red Corvette \- 7" Edit \- 2019 Remaster](https://open.spotify.com/track/4N1dFbXmRng8qJ3KdJrbLr) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [1999 \(Super Deluxe Edition\)](https://open.spotify.com/album/2EHUlDJaTyvn0gAvVfUlcY) | 3:08 | 2021-04-09 | 2022-11-12 |
+| [Little Red Corvette \- Single Version](https://open.spotify.com/track/3315t15Sw3QTL6TDWhSM4F) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [4Ever](https://open.spotify.com/album/7LTkO0y63Hovi9MDa3JOMn) | 3:08 | 2021-04-09 |  |
 | [Little Red Corvette \- Single Version](https://open.spotify.com/track/6X4JeTWCuKEzKOEHXDtyBo) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [4Ever](https://open.spotify.com/album/7mhrGQKxLFJPY2J4TXtA0A) | 3:08 | 2021-04-09 | 2022-07-29 |
 | [Mary Don't You Weep \- Piano & A Microphone 1983 Version](https://open.spotify.com/track/2oyxDkR5iLTwuP9h6lDkM5) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Mary Don't You Weep](https://open.spotify.com/album/5W6s5f9S1Fv3asQZH6lNGM) | 4:42 | 2021-04-09 | 2022-06-20 |
 | [Money Don't Matter 2 Night](https://open.spotify.com/track/4TD2ZZETSh7OFOw1RTNPGb) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Diamonds and Pearls](https://open.spotify.com/album/0qcgEPOg67XnxGizdAAcGa) | 4:46 | 2021-04-09 | 2022-07-29 |

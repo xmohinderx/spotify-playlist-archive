@@ -128,6 +128,24 @@
     },
     {
       "album": {
+        "name": "4Life",
+        "url": "https://open.spotify.com/album/0raGZNP4IH0KrI6qdpToQP"
+      },
+      "artists": [
+        {
+          "name": "DaBoii",
+          "url": "https://open.spotify.com/artist/1R4jDezcLcFxrJ9PHNrbG0"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156793,
+      "name": "4Life",
+      "url": "https://open.spotify.com/track/6VB1KfpJzVAnFvyeiCPC4f"
+    },
+    {
+      "album": {
         "name": "Apt. 505",
         "url": "https://open.spotify.com/album/2f9OKBlHW6ZcJ11cutOCGf"
       },
@@ -191,6 +209,32 @@
       "duration_ms": 147692,
       "name": "95",
       "url": "https://open.spotify.com/track/76Tf4CYX4mElzS20GySgXO"
+    },
+    {
+      "album": {
+        "name": "What They Hittin 4",
+        "url": "https://open.spotify.com/album/7v0WlaIQ04GDsdTuVd8xS9"
+      },
+      "artists": [
+        {
+          "name": "Jay Worthy",
+          "url": "https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q"
+        },
+        {
+          "name": "DJ Muggs",
+          "url": "https://open.spotify.com/artist/7pDkjftAxiFHomWsPNkapS"
+        },
+        {
+          "name": "MC Eiht",
+          "url": "https://open.spotify.com/artist/4XqfpACObRB5AsBcUYjL8X"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178067,
+      "name": "A-Wax & O-Dog",
+      "url": "https://open.spotify.com/track/2kQysaEEoS0lC6aecJf6Yl"
     },
     {
       "album": {
@@ -763,7 +807,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 140982,
       "name": "Booty Dancer",
       "url": "https://open.spotify.com/track/4qdHoLbbIDaaWytfsBK62p"
@@ -1382,6 +1426,32 @@
     },
     {
       "album": {
+        "name": "UNDERDAWGZ",
+        "url": "https://open.spotify.com/album/0BVdDIxZ7YThr0ihQSHTog"
+      },
+      "artists": [
+        {
+          "name": "Rucci",
+          "url": "https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA"
+        },
+        {
+          "name": "Killa Cam",
+          "url": "https://open.spotify.com/artist/4pr3PuSCMEUzZSTPvxJqt7"
+        },
+        {
+          "name": "KingxRikox",
+          "url": "https://open.spotify.com/artist/3f8KKi5wPKArWPKKGxDZdM"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120032,
+      "name": "Die for this shit",
+      "url": "https://open.spotify.com/track/2HKWpjTRvaOa7AMzuYZZHo"
+    },
+    {
+      "album": {
         "name": "Mr. Morale & The Big Steppers",
         "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
       },
@@ -1917,7 +1987,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 169482,
       "name": "Fantastic",
       "url": "https://open.spotify.com/track/2F7NvpwFjJjMTaCurLvAYA"
@@ -2153,7 +2223,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 123495,
       "name": "Gangsters Anonymous",
       "url": "https://open.spotify.com/track/0WDo3YEg8ShNfoq6rhX57R"
@@ -2435,7 +2505,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 145322,
       "name": "Hands on the Floor",
       "url": "https://open.spotify.com/track/0dXjSZ5dX51mZaynbdQeWH"
@@ -2537,7 +2607,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 91782,
       "name": "highway 95",
       "url": "https://open.spotify.com/track/2E4INiVkDRBXXkFL4kB1Vk"
@@ -2661,7 +2731,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 146400,
       "name": "Hood Trophy",
       "url": "https://open.spotify.com/track/1cIDRIlX9st7iRicVtAwBJ"
@@ -2945,6 +3015,28 @@
       "duration_ms": 159130,
       "name": "In My Pockets",
       "url": "https://open.spotify.com/track/15NvWexLBzx8l0anZ6V2Yb"
+    },
+    {
+      "album": {
+        "name": "In The Air Where It's Fair",
+        "url": "https://open.spotify.com/album/2IMKcPrjBSA9DDd3Iq2CMh"
+      },
+      "artists": [
+        {
+          "name": "E-40",
+          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+        },
+        {
+          "name": "Cousin Fik",
+          "url": "https://open.spotify.com/artist/10R4IEMALwGnHJVPEoumW5"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146144,
+      "name": "In The Air Where It's Fair",
+      "url": "https://open.spotify.com/track/7bNb257ZjR97xrZ5O3dhpx"
     },
     {
       "album": {
@@ -3444,6 +3536,28 @@
     },
     {
       "album": {
+        "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
+        "url": "https://open.spotify.com/album/0Wyn0fD9sZIu00xTyXF4eK"
+      },
+      "artists": [
+        {
+          "name": "OG DAYV",
+          "url": "https://open.spotify.com/artist/2eSQStXY58BrvMNOWJcIrr"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154880,
+      "name": "Limoncello",
+      "url": "https://open.spotify.com/track/3y69a6CepJM4Z4tVTNiyv7"
+    },
+    {
+      "album": {
         "name": "Location",
         "url": "https://open.spotify.com/album/5vqQrL0w2FlyNe81I9zsLb"
       },
@@ -3893,6 +4007,24 @@
       "duration_ms": 195950,
       "name": "N95",
       "url": "https://open.spotify.com/track/2FeBslNBMdR9V58uv6hd2t"
+    },
+    {
+      "album": {
+        "name": "The Melodic Blue (Deluxe)",
+        "url": "https://open.spotify.com/album/5Co3CGD9lBQVNnn7q0px1g"
+      },
+      "artists": [
+        {
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108500,
+      "name": "naked freestyle",
+      "url": "https://open.spotify.com/track/7wyz8PA0B7oBWvR2P5qTWt"
     },
     {
       "album": {
@@ -5703,7 +5835,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 214087,
       "name": "Switch Up",
       "url": "https://open.spotify.com/track/6qyg5FzGDrmlADB85bM3mm"

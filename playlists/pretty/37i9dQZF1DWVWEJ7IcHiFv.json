@@ -1,12 +1,12 @@
 {
   "description": "This is the Latin soundtrack of the 80s! Cover: Gloria Estefan",
-  "num_followers": 92737,
+  "num_followers": 92810,
   "original_name": "80s Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkzMDg2OSwwMDAwMDAwMDgwMjcwODA1YWZlNjM3MjdhNmJlNWEyNWRmZTNhNzc2",
+  "snapshot_id": "MTY2MTkzMDg2OSwwMDAwMDAwMGU1YmY2ZTcwZjRkM2QzN2QzYmFlZjhkY2M1ZDA3MmEx",
   "tracks": [
     {
       "added_at": "2022-08-31 07:27:49",
@@ -719,6 +719,22 @@
     {
       "added_at": "2022-08-31 07:27:49",
       "album": {
+        "name": "Romanticas para dedicar",
+        "url": "https://open.spotify.com/album/7o1AvAiWDcgXcz0IHgwIBk"
+      },
+      "artists": [
+        {
+          "name": "Lalo Rodriguez",
+          "url": "https://open.spotify.com/artist/5LmwELEKyxDFxrbZzR8K4U"
+        }
+      ],
+      "duration_ms": 314013,
+      "name": "Ven Dev\u00f3rame Otra Vez",
+      "url": "https://open.spotify.com/track/3IB7Y3TB7RLEZbXPCT50vv"
+    },
+    {
+      "added_at": "2022-08-31 07:27:49",
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/5wkQo9u8qrKOdfGqoizWPo"
       },
@@ -739,6 +755,22 @@
     {
       "added_at": "2022-08-31 07:27:49",
       "album": {
+        "name": "Esencial Mecano",
+        "url": "https://open.spotify.com/album/63hC0VFvoz0pjiNKeZN9GA"
+      },
+      "artists": [
+        {
+          "name": "Mecano",
+          "url": "https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G"
+        }
+      ],
+      "duration_ms": 258693,
+      "name": "Hijo de la luna",
+      "url": "https://open.spotify.com/track/2rJDwZn63BBEXIMnXQFg50"
+    },
+    {
+      "added_at": "2022-08-31 07:27:49",
+      "album": {
         "name": "Eyes Of Innocence",
         "url": "https://open.spotify.com/album/46Hw8UXhTzNrI1Yroh7oEf"
       },
@@ -751,42 +783,6 @@
       "duration_ms": 262560,
       "name": "Dr. Beat",
       "url": "https://open.spotify.com/track/21kwcsNL7YnianpVjXumHc"
-    },
-    {
-      "added_at": "2022-08-31 07:27:49",
-      "album": {
-        "name": "Club Columbia",
-        "url": "https://open.spotify.com/album/6g7JRPx6SdrEDLQS2fQcsI"
-      },
-      "artists": [
-        {
-          "name": "Lisa Lisa & Cult Jam",
-          "url": "https://open.spotify.com/artist/1vgjN6nIPNKiiQGE9PtzTT"
-        },
-        {
-          "name": "Full Force",
-          "url": "https://open.spotify.com/artist/1iQS32l0NPcZeJKVrvayS2"
-        }
-      ],
-      "duration_ms": 404000,
-      "name": "I Wonder If I Take You Home (with Full Force)",
-      "url": "https://open.spotify.com/track/3T2EHbivF5iEO9C9I2tDAJ"
-    },
-    {
-      "added_at": "2022-08-31 07:27:49",
-      "album": {
-        "name": "e5",
-        "url": "https://open.spotify.com/album/1jUH6kLNFJBgGxu4lPybQv"
-      },
-      "artists": [
-        {
-          "name": "Timbiriche",
-          "url": "https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO"
-        }
-      ],
-      "duration_ms": 167826,
-      "name": "Soy Un Desastre",
-      "url": "https://open.spotify.com/track/0AGS302RHJblyvmVHsVpGY"
     },
     {
       "added_at": "2022-08-31 07:27:49",
@@ -807,18 +803,22 @@
     {
       "added_at": "2022-08-31 07:27:49",
       "album": {
-        "name": "Esencial Mecano",
-        "url": "https://open.spotify.com/album/63hC0VFvoz0pjiNKeZN9GA"
+        "name": "Club Columbia",
+        "url": "https://open.spotify.com/album/6g7JRPx6SdrEDLQS2fQcsI"
       },
       "artists": [
         {
-          "name": "Mecano",
-          "url": "https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G"
+          "name": "Lisa Lisa & Cult Jam",
+          "url": "https://open.spotify.com/artist/1vgjN6nIPNKiiQGE9PtzTT"
+        },
+        {
+          "name": "Full Force",
+          "url": "https://open.spotify.com/artist/1iQS32l0NPcZeJKVrvayS2"
         }
       ],
-      "duration_ms": 258693,
-      "name": "Hijo de la luna",
-      "url": "https://open.spotify.com/track/2rJDwZn63BBEXIMnXQFg50"
+      "duration_ms": 404000,
+      "name": "I Wonder If I Take You Home (with Full Force)",
+      "url": "https://open.spotify.com/track/3T2EHbivF5iEO9C9I2tDAJ"
     }
   ],
   "unique_name": "80s Latino",

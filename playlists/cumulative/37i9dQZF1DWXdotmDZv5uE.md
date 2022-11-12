@@ -4,7 +4,7 @@
 
 > ¡Lleva el folclore de México a donde sea!
 
-149 songs - 8 hr 31 min - [published](https://open.spotify.com/playlist/4WoULPjWWXufLJvGEhZhCb)
+151 songs - 8 hr 37 min - [published](https://open.spotify.com/playlist/4WoULPjWWXufLJvGEhZhCb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [Danza de los Viejitos \(Danza\)](https://open.spotify.com/track/6Mck8kESmnb4bh6anpqGSp) | [Los Folkloristas](https://open.spotify.com/artist/2iALv7pTGUwcobl2VPoJPU) | [Michoacán](https://open.spotify.com/album/55p92gjcS6eHUXhQtD8mgY) | 5:07 | 2022-01-25 |  |
 | [El Amanecer](https://open.spotify.com/track/5DzsZOW1SSZ7PWkh0e2TQn) | [Son De Madera](https://open.spotify.com/artist/5IjDhtfKUReD5VeIeynKme) | [Son De Madera](https://open.spotify.com/album/7eyjUckkV8ZrnhCDmPWGnn) | 9:25 | 2022-01-25 |  |
 | [El balaju](https://open.spotify.com/track/4rbBQZM99sZqn3AScgSGak) | [José Pablo Moncayo](https://open.spotify.com/artist/2QoJFCfERDHF3Pz4v1gLKp), [Trio Azteca](https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY) | [Trio Azteca: Folk Songs and Ballads](https://open.spotify.com/album/1fC7tnPE1fTadN6NePzG2V) | 2:51 | 2022-01-25 | 2022-07-29 |
-| [El balaju](https://open.spotify.com/track/46fIkmK53h3Rk2yoEdQHx0) | [Trio Azteca](https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY) | [Trio Azteca: Folk Songs and Ballads](https://open.spotify.com/album/2eUYqTiNxucqcl9BGyicbq) | 2:51 | 2022-01-25 |  |
+| [El balaju](https://open.spotify.com/track/46fIkmK53h3Rk2yoEdQHx0) | [Trio Azteca](https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY) | [Trio Azteca: Folk Songs and Ballads](https://open.spotify.com/album/2eUYqTiNxucqcl9BGyicbq) | 2:51 | 2022-01-25 | 2022-11-12 |
+| [El balaju](https://open.spotify.com/track/51H0NWOftCFO9xzVWMl8u7) | [Trio Azteca](https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY) | [Best of Mariachi](https://open.spotify.com/album/2A3EjRPEGMLRzdMZi3NCXY) | 2:51 | 2022-08-31 |  |
 | [El Balajú](https://open.spotify.com/track/71BWI87sAe2JFqOSECGXpX) | [Son De Madera](https://open.spotify.com/artist/5IjDhtfKUReD5VeIeynKme) | [Caribe Mar Sincopado](https://open.spotify.com/album/2hCmmR9twhWkwWAm3vgGfx) | 4:54 | 2022-01-25 |  |
 | [El Barrilito](https://open.spotify.com/track/6SrFN9LvRwvsMqlvu9opUf) | [Juan Torres](https://open.spotify.com/artist/6f9xTYssmtLTLCoErssCLY) | [Mis Rancheras Favoritas](https://open.spotify.com/album/7mVwlRCnXaFYoxSmY2WWtP) | 2:49 | 2022-01-25 | 2022-11-11 |
 | [El Barrilito](https://open.spotify.com/track/7cdMaVBHc1tZ06Kjv0j4kn) | [Juan Torres](https://open.spotify.com/artist/6f9xTYssmtLTLCoErssCLY) | [Joyas Musicales: Rancheras, Vol\. 1](https://open.spotify.com/album/2jLsa2icJxioBpR2mo29YO) | 2:49 | 2022-08-31 |  |
@@ -107,7 +108,8 @@
 | [La Martiniana](https://open.spotify.com/track/1m5A6GfEnXDex5rRCgZMWT) | [Son Itsmeño](https://open.spotify.com/artist/1GtAdYtIZLOHrTCJUTNkFl) | [La Ruta del Son Mexicano](https://open.spotify.com/album/3poUSqYsWGuYVW7rPPgbLz) | 4:31 | 2022-01-25 |  |
 | [La Petenera](https://open.spotify.com/track/4WeazL7v9t7yHAUF7TgGnG) | [Trío Cantores de la Huasteca](https://open.spotify.com/artist/2NJotnwq4BqtWJlP73PvGk) | [Antología del Son de México, Huasteca](https://open.spotify.com/album/3Bp5LJYCdRc7ZjeE202cf8) | 3:29 | 2022-01-25 |  |
 | [La Raspa](https://open.spotify.com/track/6N9he4wWKlcKnPZbUD0SDn) | [Mariachi Azteca](https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW) | [Discover Music from Mexico](https://open.spotify.com/album/2fjxjiwPLGvFY9FTKL9BCr) | 2:50 | 2022-01-25 | 2022-07-29 |
-| [La raspa](https://open.spotify.com/track/59kogGBmBNHC3r7t9DZ3ip) | [Mariachi Azteca](https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW) | [Mariachi from Mexico](https://open.spotify.com/album/37XAmBpj05Ohmoql3AFiMM) | 2:53 | 2022-01-25 |  |
+| [La raspa](https://open.spotify.com/track/59kogGBmBNHC3r7t9DZ3ip) | [Mariachi Azteca](https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW) | [Mariachi from Mexico](https://open.spotify.com/album/37XAmBpj05Ohmoql3AFiMM) | 2:53 | 2022-01-25 | 2022-11-12 |
+| [La raspa](https://open.spotify.com/track/7iu5HhBwgNRlKh8j22ukhz) | [Mariachi Azteca](https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW) | [The Most Essential Mariachi](https://open.spotify.com/album/2ICw7FA2TLfk5GRsikELpB) | 2:53 | 2022-08-31 |  |
 | [La Valentina](https://open.spotify.com/track/7AEK6B5oWFgH5Du9nzINgr) | [Cuco Sánchez](https://open.spotify.com/artist/1M1VkVEy3JGFFyPy7oKH2E) | [Las Canciones de Cuco Sánchez](https://open.spotify.com/album/5bcN9n6B7PbfLxdCxH3XEl) | 2:03 | 2022-01-25 | 2022-11-11 |
 | [La Valentina](https://open.spotify.com/track/1sjAakyL0Zx6dLzzwOUGQ8) | [Cuco Sánchez](https://open.spotify.com/artist/1M1VkVEy3JGFFyPy7oKH2E) | [Lo Mejor de Cuco Sánchez](https://open.spotify.com/album/07MDUQZAuGCUtvdSUZcR8G) | 2:04 | 2022-08-31 |  |
 | [La valentina \(From the Film : La cucaracha\)](https://open.spotify.com/track/6esWHs1AR8ds7g9EfZw615) | [Cuco Sánchez](https://open.spotify.com/artist/1M1VkVEy3JGFFyPy7oKH2E) | [Corazón apasionado \(1953 \- 1958\)](https://open.spotify.com/album/0hY9tUUn84EfamIkDatjcC) | 2:03 | 2022-01-25 | 2022-07-29 |

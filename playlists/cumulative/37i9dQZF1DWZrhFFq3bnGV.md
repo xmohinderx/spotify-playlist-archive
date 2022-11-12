@@ -4,7 +4,7 @@
 
 > Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Joey Alexander
 
-78 songs - 5 hr 20 min - [published](https://open.spotify.com/playlist/50nx8bYWnlzdoNtPoX5a5I)
+79 songs - 5 hr 23 min - [published](https://open.spotify.com/playlist/50nx8bYWnlzdoNtPoX5a5I)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [A Little Girl](https://open.spotify.com/track/19t8VlFHLBQDhRm1XUW1Bj) | [Koko Wijanarko](https://open.spotify.com/artist/0c26hbkWSxPK07pXEzTvFK), [Ya\-Jung Chuang](https://open.spotify.com/artist/22elsMZ28pLrqEUVnpV2Yp) | [A Little Girl](https://open.spotify.com/album/2frAcSFieqCTgqF0cYZ20J) | 3:26 | 2022-09-02 |  |
 | [Affirmation \- Studio Version Radio Edit](https://open.spotify.com/track/5T51qyxzXcjClnLStmoyFW) | [Batavia Collective](https://open.spotify.com/artist/5codNlJ0krrWfPHbRMKHEJ), [Kamga](https://open.spotify.com/artist/2dMAOuIpuE5eb55qzpKC9O) | [Affirmation](https://open.spotify.com/album/3wV1gSC2bANRjc3E4oK2AP) | 3:29 | 2022-09-02 |  |
 | [Afterthought](https://open.spotify.com/track/3cXwYQyvPCwNoWPDisoBOy) | [Anastasya Poetri](https://open.spotify.com/artist/6e2MbJs1OWfSbaCCkJybNt) | [Afterthought](https://open.spotify.com/album/44mPYEF7jEnGsvsA0TFceA) | 3:44 | 2022-09-02 |  |
-| [Ah Pusing!](https://open.spotify.com/track/0BMHVxay9JQa4Retru9Jau) | [Orkes Kedai Sarinah](https://open.spotify.com/artist/1yoNr5aPC0EEcQfyTcCGcZ) | [Ah Pusing!](https://open.spotify.com/album/7p3GoqgdlYtTxIiUWFyoBt) | 3:12 | 2022-09-02 |  |
+| [Ah Pusing!](https://open.spotify.com/track/0BMHVxay9JQa4Retru9Jau) | [Orkes Kedai Sarinah](https://open.spotify.com/artist/1yoNr5aPC0EEcQfyTcCGcZ) | [Ah Pusing!](https://open.spotify.com/album/7p3GoqgdlYtTxIiUWFyoBt) | 3:12 | 2022-09-02 | 2022-11-12 |
+| [Ah Pusing!](https://open.spotify.com/track/4Cx5uUfWwjl8kJ0ffFCQih) | [Orkes Kedai Sarinah](https://open.spotify.com/artist/1yoNr5aPC0EEcQfyTcCGcZ) | [Mari Bahagia](https://open.spotify.com/album/7FJlmFABalYgok0ws9aEyS) | 3:12 | 2022-09-22 |  |
 | [Autumn](https://open.spotify.com/track/0iua6kaiZlwKQsQ0CQaLkg) | [Erikson Jayanto](https://open.spotify.com/artist/3q1blSi57degdJeXeay4SM) | [Slice of life \(人生のひとこま\)](https://open.spotify.com/album/3Doufqp570uF1ekOaAoPrR) | 3:17 | 2022-09-02 |  |
 | [Begini Cinta](https://open.spotify.com/track/7vCBnI93aQCdPJMqx5z6EU) | [Kaloka](https://open.spotify.com/artist/6nHMb25O7yt2syNMxygMTK) | [Begini Cinta](https://open.spotify.com/album/18KtHSEUWRj9q1NrAPr2G1) | 4:35 | 2022-09-02 |  |
 | [Berdansa Sejenak](https://open.spotify.com/track/4wQc5aLDPH58ncFsv1EpnD) | [djalto](https://open.spotify.com/artist/17s3iWyEdWg6OnUePMXG7r) | [Berdansa Sejenak](https://open.spotify.com/album/2Hk1gGS699WYzv1L3UpHjp) | 3:15 | 2022-09-02 |  |

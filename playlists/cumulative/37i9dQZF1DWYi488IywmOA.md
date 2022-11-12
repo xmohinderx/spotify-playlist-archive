@@ -4,7 +4,7 @@
 
 > Blues favorites from 2021\. Cover: Robert Finley
 
-66 songs - 4 hr 23 min - [published](https://open.spotify.com/playlist/7J29LYotKBKO0d6uHHNKwN)
+67 songs - 4 hr 28 min - [published](https://open.spotify.com/playlist/7J29LYotKBKO0d6uHHNKwN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,8 @@
 | [Parade](https://open.spotify.com/track/6qzA5ZUivvw1FCZJSVYoNE) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [For My Friends](https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0) | 2:16 | 2021-12-01 |  |
 | [Poor Black Children](https://open.spotify.com/track/4Rq02gjGJQSTu0ubHPosIr) | [Big Daddy Wilson](https://open.spotify.com/artist/4xBhIBf0DEjAcJvGSwJdFr) | [Hard Time Blues](https://open.spotify.com/album/4LqKWtUn78Qaj7Jwo7dK0h) | 3:47 | 2021-12-01 |  |
 | [Push Now](https://open.spotify.com/track/1o1FCYJ47PvEyYqUXNlVmN) | [Southern Avenue](https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ) | [Be The Love You Want](https://open.spotify.com/album/3XDIgxvmrVhFItGN3gkVdH) | 3:10 | 2021-12-01 |  |
-| [Roll Me](https://open.spotify.com/track/1H3htV0mJx2wqx79quNSrt) | [Davy Knowles](https://open.spotify.com/artist/4yiPHMcw2R2SKfIsMuatfB) | [What Happens Next](https://open.spotify.com/album/5YPB4NSqjifClpCCbiNVXB) | 5:07 | 2021-12-01 |  |
+| [Roll Me](https://open.spotify.com/track/1H3htV0mJx2wqx79quNSrt) | [Davy Knowles](https://open.spotify.com/artist/4yiPHMcw2R2SKfIsMuatfB) | [What Happens Next](https://open.spotify.com/album/5YPB4NSqjifClpCCbiNVXB) | 5:07 | 2021-12-01 | 2022-11-12 |
+| [Roll Me](https://open.spotify.com/track/1ntK0MotJ1rB5a8m4LCecH) | [Davy Knowles](https://open.spotify.com/artist/4yiPHMcw2R2SKfIsMuatfB) | [Hell To Pay](https://open.spotify.com/album/6BvETj5Vvgyq0P1WdWaT0S) | 5:07 | 2021-12-01 |  |
 | [Roll Me](https://open.spotify.com/track/358UcutWm9flESKk0pajDP) | [Davy Knowles](https://open.spotify.com/artist/4yiPHMcw2R2SKfIsMuatfB) | [What Happens Next](https://open.spotify.com/album/2wVJmrDg19gR4wtCRFDncv) | 5:07 | 2021-12-01 | 2022-07-29 |
 | [Rollin' On](https://open.spotify.com/track/4PrEiwUcs8jMOAk1b5BueL) | [Jackie Venson](https://open.spotify.com/artist/2HlgRiOR33BVVE9hdEftxg) | [Love Transcends](https://open.spotify.com/album/0gbhkq77MWLw3BXB63Hby2) | 5:08 | 2021-12-01 |  |
 | [Root City](https://open.spotify.com/track/047ghmBqV2962LxO24aUm9) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Root City](https://open.spotify.com/album/3TnwdCTnQXlR3adEsOLoob) | 2:52 | 2021-12-01 |  |

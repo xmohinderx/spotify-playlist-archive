@@ -4,7 +4,7 @@
 
 > Every Monbebe's HERO.
 
-124 songs - 6 hr 48 min - [published](https://open.spotify.com/playlist/6vpFFxpgEbjdsljT6vUDSQ)
+125 songs - 6 hr 52 min - [published](https://open.spotify.com/playlist/6vpFFxpgEbjdsljT6vUDSQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,8 @@
 | [Shoot Out](https://open.spotify.com/track/55Md5fnLfCpXzUATASy6Rk) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Take.1 Are You There?](https://open.spotify.com/album/1mJf2cC6TfClR8cICGZP7I) | 3:27 | 2021-12-09 |  |
 | [SOMEONE'S SOMEONE](https://open.spotify.com/track/6qEqNxAkfSEzNa8KdO5ewa) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [ALL ABOUT LUV \(Extended Version\)](https://open.spotify.com/album/064rnjNzpvTNDPGOmhFoyI) | 2:21 | 2021-12-09 |  |
 | [Sorry I'm Not Sorry](https://open.spotify.com/track/0SEy222w1gkxs6eJioH794) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Fatal Love](https://open.spotify.com/album/3x2BuKhzRIRjU4jm1WxFo3) | 3:27 | 2021-12-09 |  |
-| [SPOTLIGHT](https://open.spotify.com/track/3f50PPDmlxAduJaOTvsTfL) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [PIECE](https://open.spotify.com/album/25JXdPqltw5vOH8KPOzd2c) | 3:56 | 2021-12-09 |  |
+| [SPOTLIGHT](https://open.spotify.com/track/3f50PPDmlxAduJaOTvsTfL) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [PIECE](https://open.spotify.com/album/25JXdPqltw5vOH8KPOzd2c) | 3:56 | 2021-12-09 | 2022-11-12 |
+| [SPOTLIGHT](https://open.spotify.com/track/1VLJS6hjrzQHH8f1ciW2wF) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [SPOTLIGHT](https://open.spotify.com/album/3TesGv9z2jzsum7wAzF5fu) | 3:59 | 2022-08-09 |  |
 | [SPOTLIGHT](https://open.spotify.com/track/6fMODL9vNyFi54ONiQLoXw) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [SPOTLIGHT](https://open.spotify.com/album/2EACxpJBI294N9hY6VQA6k) | 3:59 | 2021-12-09 | 2022-07-29 |
 | [Stand Up](https://open.spotify.com/track/19WLJ1GQY3IMXUOMvbcpDk) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [FANTASIA X](https://open.spotify.com/album/44BCatQBdneFkyzOVrR0M4) | 3:21 | 2021-12-09 |  |
 | [Steal Your Heart](https://open.spotify.com/track/1MJysUk6TYYFdGRdj61iug) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [TRESPASS](https://open.spotify.com/album/2G4ZHQd4z2hbiNWdxLKrsq) | 3:47 | 2021-12-09 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MdBxEdi0gp.md) - [plain]
 
 > Con el mismo sazón y amor que una sopita de fideo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,837 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,966 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MdBxEdi0gp.md) - [plain]
 | 36 | [Donde Estés, Con Quien Estés](https://open.spotify.com/track/6kAM3ltjQyditY5GhZytJP) | [Camilo Sesto](https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y) | [15 Grandes Exitos Vol\. I \- A Peticion Del Publico](https://open.spotify.com/album/3gg0VgB89SEzsLefAstENY) | 4:34 |
 | 37 | [Vete Con Ella \(Chappel of Love\)](https://open.spotify.com/track/3YjwaunKJ7iXhXj98eRRsM) | [Mayte Gaos](https://open.spotify.com/artist/2nWZrWrYWk8Y9gBtprx8Hb) | [Los Éxitos de Mayte Gaos](https://open.spotify.com/album/1wTS67I6XW53fxL2TvJiC3) | 2:53 |
 | 38 | [Niña Qué Tienen Tus Ojos](https://open.spotify.com/track/24iKOXOzrKpQjHPA7Rbu9z) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2) | [Lo Esencial](https://open.spotify.com/album/6P35diX5YBvJ8NqVwcyDxj) | 3:13 |
-| 39 | [Enamorada y Herida](https://open.spotify.com/track/31BsrpQphP6KiRXjvJix5R) | [Marisela](https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2) | [Completamente Tuya](https://open.spotify.com/album/5vN1tVAL4qBWurY8UHah7g) | 3:27 |
+| 39 | [Enamorada y Herida](https://open.spotify.com/track/31s5ilNdAXYtyjdtX7OtCa) | [Marisela](https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2) | [15 Grandes Éxitos Vol\. 1](https://open.spotify.com/album/4illYyPzQ9QKY4ka5bigjM) | 3:29 |
 | 40 | [Vivir Así Es Morir de Amor](https://open.spotify.com/track/3yzHIAzk3zVE1WgspS8W21) | [Camilo Sesto](https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y) | [Sentimientos](https://open.spotify.com/album/4jaAmmz5L8AlfaLpZJ7Mf3) | 3:30 |
 | 41 | [Recuerdos de una Noche](https://open.spotify.com/track/1HvnEWOy2ykY8sJa2K6y7s) | [Los Pasteles Verdes](https://open.spotify.com/artist/2lHzW2pMhRYX3ohx5lZY8y) | [Éxitos Eternos](https://open.spotify.com/album/3P9Y7c860rgTpYjK8SBMon) | 3:02 |
 | 42 | [El Me Mintio](https://open.spotify.com/track/6lpN3TX92cxKtQE1plZdqe) | [Amanda Miguel](https://open.spotify.com/artist/3v8mFhjLFa50QK8zDvAMYN) | [Despecho.](https://open.spotify.com/album/1bxSBwa6ryIQFNbC67dwNT) | 3:41 |
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MdBxEdi0gp.md) - [plain]
 | 48 | [Amor de Estudiante](https://open.spotify.com/track/0nwKAvbDJeBs5dPH8sdeRO) | [Roberto Jordan](https://open.spotify.com/artist/5SyvBTttsNPEcFjtceTBmx) | [RCA 100 Años De Musica](https://open.spotify.com/album/7vMnaKzlmBN2GRVYCMOMqc) | 2:10 |
 | 49 | [Rayando El Sol](https://open.spotify.com/track/4Ofg5uuH7qqDIXpAJMpXZV) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Falta Amor](https://open.spotify.com/album/0umE2yr7H5jo91x7xhjoXY) | 4:10 |
 | 50 | [Señora](https://open.spotify.com/track/4H6RqawSBZ78Dmlb6Oc49W) | [Victor Yturbe "El Piruli"](https://open.spotify.com/artist/288DN4mD1eyvKyVz8So3HB) | [La Música Que Inspiró La Serie Original De Netflix, La Casa De Las Flores \(Creada Por Manolo Caro\)](https://open.spotify.com/album/5oXSUte6OU8D1FplG0QTkH) | 3:07 |
-| 51 | [Olvidarte Nunca](https://open.spotify.com/track/3xRVnVY4uuNQZ1rmmRclhU) | [Los Golpes](https://open.spotify.com/artist/7vyUXV67P88Hxq4Q5cpC1j) | [La Historia](https://open.spotify.com/album/42nZkX6kk4O3vpTuQa6UrK) | 2:57 |
+| 51 | [Olvidarte Nunca](https://open.spotify.com/track/08SYcykMC5D0D0zIPyq16X) | [Los Golpes](https://open.spotify.com/artist/7vyUXV67P88Hxq4Q5cpC1j) | [La Historia](https://open.spotify.com/album/5LyFSml1096g9UtmR35Y31) | 2:57 |
 | 52 | [Como sufro](https://open.spotify.com/track/6ZSHgXodh3huSt8f78zg1K) | [Los Baby's](https://open.spotify.com/artist/5CChYiuVrfAXbhcGtgDjU9) | [Antología...Los Baby's](https://open.spotify.com/album/6Ovwa9a0WJOU3HZESWDfFV) | 2:58 |
 | 53 | [Frente a Frente](https://open.spotify.com/track/5qF73eA5EDS1rWtIzG24WR) | [Jeanette](https://open.spotify.com/artist/2Asr5Otk5aKK272pK4ocG2) | [15 Canciones Favoritas](https://open.spotify.com/album/1lDKPKdPnDIAiNw5T3Lp8C) | 3:12 |
 | 54 | [Tengo Miedo](https://open.spotify.com/track/7vFpaAMjGGFTP0BhYrtE9c) | [Los Brios](https://open.spotify.com/artist/7sTzOfwrd0viYUuUu26a2N) | [30 Anos De Exitos](https://open.spotify.com/album/0jHdI5wc8aCPFlV1lNHWn0) | 2:41 |
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MdBxEdi0gp.md) - [plain]
 | 89 | [A Quien?](https://open.spotify.com/track/5LTWHnzyEZTZwU6VQKOBJ4) | [Karina](https://open.spotify.com/artist/4bCJFFuTF8fuditJEIS1GX) | [Sé Como Duele](https://open.spotify.com/album/27ihlO6JX8joygy2nXsZ1l) | 3:40 |
 | 90 | [No Llores](https://open.spotify.com/track/5hBkk52TBXZc4buUa7zYIt) | [Mike Laure](https://open.spotify.com/artist/39vVl1HOIZwca5O4g8QQ8h) | [Lo Mejor De Mike Laure](https://open.spotify.com/album/4phadJG0y214V03sl93hIT) | 2:42 |
 | 91 | [Te regalo mis ojos](https://open.spotify.com/track/6egzIjzuRQgVe9CQMlUlyX) | [María del Rayo y Los Gatos Salvajes](https://open.spotify.com/artist/7r5O7eZNPfgVNTauzcrPTp) | [Mi amor es para tí](https://open.spotify.com/album/6UCtxuXvlqqh5KYtoRiX1k) | 2:55 |
-| 92 | [Estoy Perdido](https://open.spotify.com/track/1vE6UQdo5yrROUgxlhAul2) | [Los Tres Ases](https://open.spotify.com/artist/2AvUIlDzLMzaxajDtniU4B) | [Los Tres Ases 50 Años](https://open.spotify.com/album/29B1JAAWH0tcqjqKHJTaXe) | 3:17 |
+| 92 | [Estoy perdido](https://open.spotify.com/track/6zgyNL1gZ3vUtiG5j1fmku) | [Los 3 Ases](https://open.spotify.com/artist/2olotOs8853BvbS8iBuDj3) | [The Music of Mexico / Los 3 Ases / A Great Mexican Trio \(1958\)](https://open.spotify.com/album/0oSHoBOxgO36aJPtNxbIkE) | 3:18 |
 | 93 | [Concierto para enamorados](https://open.spotify.com/track/46JeeXFVAkzDIdD3N86q4F) | [Karina](https://open.spotify.com/artist/7kL7lbaqaHIUB3Ol5YU69a) | [Colección Diamante: Karina](https://open.spotify.com/album/6fuusJBelROJFvJt70GIhF) | 2:52 |
 | 94 | [Una Lágrima \(Una Lacrima\)](https://open.spotify.com/track/4aUsqDkhFNG0IADV9SkaSY) | [Estela Nuñez](https://open.spotify.com/artist/7gYgOsOofRcz3sZIosDGu0) | [Estela Nuñez..\. Sus Primeras E Inolvidables Grabaciones](https://open.spotify.com/album/2bPx9BRaxKsSAiYPzYaode) | 3:53 |
 | 95 | [La Barca](https://open.spotify.com/track/1GHTx9EyR44pgtGLotj2nH) | [Los Tres Caballeros](https://open.spotify.com/artist/0ou4IrIjMSANpaPTL8lC3F) | [Los Tres Caballeros](https://open.spotify.com/album/0g3tdBXHTP9VgftkbXnVPI) | 3:17 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MdBxEdi0gp.md) - [plain]
 | 99 | [Cenizas](https://open.spotify.com/track/3Zv4Z2YsgVoLoKKMahdDAN) | [Toña La Negra](https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3) | [Lo Mejor De Lo Mejor](https://open.spotify.com/album/3IqPx1fXB2GeEPcvT9RKn7) | 3:12 |
 | 100 | [Rumores](https://open.spotify.com/track/1DVZafFlOB53zfGDVs8w1s) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1), [Lisa Lopez](https://open.spotify.com/artist/3gLar4IFE6bFk1GMU12pts) | [Rumores](https://open.spotify.com/album/0DkdxMCzRT1ixYZxD20AlV) | 3:42 |
 
-Snapshot ID: `MTY1MjE5ODIwOSwwMDAwMDAwMDAwMzIyYWZkNjdhZjA2ZjBiNzRiMjY5OGYyNzdmYTMy`
+Snapshot ID: `MTY1MjE5ODIwOSwwMDAwMDAwMDBjZDg2YzM3MDk4NzY1MGY1NzdlNWI2OTM5OTgyYTRm`

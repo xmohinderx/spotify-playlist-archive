@@ -895,7 +895,7 @@
       ],
       "date_added": "2019-07-29",
       "date_added_asterisk": true,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 203309,
       "name": "Celeste",
       "url": "https://open.spotify.com/track/23cj0rlc0UtTBaCg60VCkm"
@@ -1869,7 +1869,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 247515,
       "name": "Furr",
       "url": "https://open.spotify.com/track/2fgbsGWU2Dum08uifQHhiB"
@@ -2464,6 +2464,24 @@
     },
     {
       "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/37OWM40EuYKeBHWCBHJyq9"
+      },
+      "artists": [
+        {
+          "name": "The Lone Bellow",
+          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276760,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/1ALH9oRd8FqjfsSH0d8Ft4"
+    },
+    {
+      "album": {
         "name": "Living Mirage",
         "url": "https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT"
       },
@@ -2999,7 +3017,7 @@
       ],
       "date_added": "2019-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-17",
+      "date_removed": null,
       "duration_ms": 212945,
       "name": "Joyride",
       "url": "https://open.spotify.com/track/0VcVy0kpfwyd5rMS5URyVD"
@@ -3839,7 +3857,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 152613,
       "name": "Naked as We Came",
       "url": "https://open.spotify.com/track/6UIxGIqWlO5wsddY44AV1R"
@@ -6299,7 +6317,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 200213,
       "name": "When They Fight, They Fight",
       "url": "https://open.spotify.com/track/0zqmyB1prgGGiOS10sjH8A"

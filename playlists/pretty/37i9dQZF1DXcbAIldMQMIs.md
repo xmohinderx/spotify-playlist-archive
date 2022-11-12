@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcbAIldMQMIs.md) - [plain]
 
 > indie pop when ur crushing
 
-[Spotify](https://open.spotify.com/user/spotify) - 439,380 likes - 70 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 439,669 likes - 70 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcbAIldMQMIs.md) - [plain]
 | 13 | [C U Girl](https://open.spotify.com/track/6FBzhcfgGacfXF3AmtfEaX) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [C U Girl](https://open.spotify.com/album/33jE0rzk63VdTJcDukmjRa) | 2:09 |
 | 14 | [Show Me How](https://open.spotify.com/track/01TyFEZu6mHbffsVfxgrFn) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Show Me How](https://open.spotify.com/album/75IgpYGNlc8KmwZ9FlTtJg) | 3:35 |
 | 15 | [Cloud 9](https://open.spotify.com/track/6vFsBXYczYsP0H3lgunZOm) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Honeymoon](https://open.spotify.com/album/6QZyKchQivUBTSMcoBmlPa) | 2:27 |
-| 16 | [Babydoll](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 1:37 |
-| 17 | [Marlboro Nights](https://open.spotify.com/track/755inykyaG4w22GWAsA3MX) | [Lonely God](https://open.spotify.com/artist/6pF6MN603wSrisJcf7HS5v) | [Marlboro Nights](https://open.spotify.com/album/5yJOsoT7fr37BP8su0RGrz) | 1:08 |
-| 18 | [Best Friend](https://open.spotify.com/track/3rPtS4nfpy7PsARctAWpzd) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Best Friend](https://open.spotify.com/album/7nLg6Pwut1eqXoK51ZjVFW) | 4:22 |
+| 16 | [Best Friend](https://open.spotify.com/track/3rPtS4nfpy7PsARctAWpzd) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Best Friend](https://open.spotify.com/album/7nLg6Pwut1eqXoK51ZjVFW) | 4:22 |
+| 17 | [Babydoll](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 1:37 |
+| 18 | [Marlboro Nights](https://open.spotify.com/track/755inykyaG4w22GWAsA3MX) | [Lonely God](https://open.spotify.com/artist/6pF6MN603wSrisJcf7HS5v) | [Marlboro Nights](https://open.spotify.com/album/5yJOsoT7fr37BP8su0RGrz) | 1:08 |
 | 19 | [Liability](https://open.spotify.com/track/6Kkt27YmFyIFrcX3QXFi2o) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 2:51 |
 | 20 | [double take](https://open.spotify.com/track/47isJpIIO8m7BJEhiFhnaf) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [double take](https://open.spotify.com/album/27CpJBNdYYtW84EQjBHS6q) | 2:51 |
 | 21 | [Falling for U](https://open.spotify.com/track/2xhGZ3WzOa3tir28y7Cb88) | [Peachy!](https://open.spotify.com/artist/7gvbCoLA8lJUktp8G2xIRR), [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [Falling for U](https://open.spotify.com/album/3PUmELve1Jt5EdFU6cv8Hb) | 2:04 |
@@ -59,24 +59,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcbAIldMQMIs.md) - [plain]
 | 49 | [Cologne](https://open.spotify.com/track/1NaDK3atogQEn9glK5fYuy) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Our Extended Play](https://open.spotify.com/album/6EBrUVVsjIQD8N0c63mqjv) | 2:44 |
 | 50 | [Little Bit](https://open.spotify.com/track/0Ps4Eh6SQjeLnubbCsQTDD) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Youth Novels](https://open.spotify.com/album/65ain97ltDAxldCiOcBtHo) | 4:33 |
 | 51 | [OUTTA MY MIND](https://open.spotify.com/track/7zTTDkkLkJ2iHAqq1daDCr) | [Monsune](https://open.spotify.com/artist/6NgYKD0TKGjwtRFqTyyqKF) | [OUTTA MY MIND](https://open.spotify.com/album/6WWXMhWEmIM9SaAyZCFvYL) | 3:46 |
-| 52 | [Line Without a Hook \(feat\. mxmtoon\)](https://open.spotify.com/track/4dHdqpGaO9km4TEw9nNQSR) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw), [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [Line Without a Hook \(feat\. mxmtoon\)](https://open.spotify.com/album/6uDkQYNploKRDP7Pu36DNz) | 4:11 |
-| 53 | [Dontmakemefallinlove](https://open.spotify.com/track/4Ooq4tmYpe3nZP1BnCtsWM) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Chiquito](https://open.spotify.com/album/4gjhrTin1WwrEHd8GslZ7O) | 3:27 |
+| 52 | [Dontmakemefallinlove](https://open.spotify.com/track/4Ooq4tmYpe3nZP1BnCtsWM) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Chiquito](https://open.spotify.com/album/4gjhrTin1WwrEHd8GslZ7O) | 3:27 |
+| 53 | [Line Without a Hook \(feat\. mxmtoon\)](https://open.spotify.com/track/4dHdqpGaO9km4TEw9nNQSR) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw), [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [Line Without a Hook \(feat\. mxmtoon\)](https://open.spotify.com/album/6uDkQYNploKRDP7Pu36DNz) | 4:11 |
 | 54 | [blue](https://open.spotify.com/track/7pt64sepCy5QmDrgy9wOJS) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [blue](https://open.spotify.com/album/3GsV8bdcTiMKRlrRlnnHvo) | 3:04 |
 | 55 | [Goodnight](https://open.spotify.com/track/69jstgacdd40OwG9cLl45r) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Three\. Two\. One.](https://open.spotify.com/album/3nP0DOBWPfEToiDGMXZCAb) | 2:56 |
 | 56 | [One More Weekend](https://open.spotify.com/track/19YOJKCVvOL7v6B2Oe3UBc) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [One More Weekend](https://open.spotify.com/album/4tylLsr8HZOfL4FQ6h7SB7) | 2:22 |
 | 57 | [Make Me Your Queen](https://open.spotify.com/track/5QJuMhGWTUB4t9BqR7ndL3) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [What Do You Think About the Car?](https://open.spotify.com/album/3HJiLDJgWA9Z0MvCxlzHYQ) | 3:41 |
 | 58 | [Was It Something I Said](https://open.spotify.com/track/65j65yDSE06CNKAPjsHoJt) | [MyKey](https://open.spotify.com/artist/191tnItkCke3YcHpUxDOD9) | [Was It Something I Said](https://open.spotify.com/album/6MIBfXSkuo1F9fiNVCBsZH) | 3:40 |
 | 59 | [If You Want To](https://open.spotify.com/track/7I1kle4TNmkfednJDKo8GR) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Patched Up](https://open.spotify.com/album/7zPBy6Rjmijd4p8drmQPu7) | 3:43 |
-| 60 | [nothing else i could do](https://open.spotify.com/track/6qtoHId8ZoJ3J5JG6eOqJB) | [ella jane](https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J) | [THIS IS NOT WHAT IT LOOKS LIKE!](https://open.spotify.com/album/2jGyX0p346kDwHvVqanE8W) | 2:50 |
-| 61 | [Fallingforyou](https://open.spotify.com/track/2TgxCUZdHFkPEVmFge1OSd) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975 \(Deluxe Version\)](https://open.spotify.com/album/0mkOUedmYlOzCC4tOm2v0c) | 4:00 |
-| 62 | [80's makeout session](https://open.spotify.com/track/6RObO033GGC7mReVoRQJPU) | [dacelynn](https://open.spotify.com/artist/4HcCn0kCOvr5D6BItsWVFh) | [80's makeout session](https://open.spotify.com/album/6MHmgFBPMdhNdj6HamqlYe) | 1:42 |
-| 63 | [sorry haha i fell asleep](https://open.spotify.com/track/4EzVsSkEdO7JJRe80MxtQk) | [Egg](https://open.spotify.com/artist/6zQlhM6cyJRrzuqAbB8PlB) | [sorry haha i fell asleep](https://open.spotify.com/album/10BhgUIfF4zFcLwqHhioL6) | 2:37 |
-| 64 | [hello!](https://open.spotify.com/track/7a2IJHzw9WJjoknwdnCop0) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [oh, how perfect](https://open.spotify.com/album/5xNYe96E1oMXdS1FdboZZv) | 3:08 |
-| 65 | [Kenny](https://open.spotify.com/track/6FmnMoph4yx7zjhuBcrHDv) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Kenny](https://open.spotify.com/album/33xwiZOclaWIDKouzuc32w) | 3:14 |
-| 66 | [Tinder Song](https://open.spotify.com/track/3D2uOOe6UC8UEpdx5jiwD3) | [Victor Internet](https://open.spotify.com/artist/6Ib0Di9b3kMxw9yD0DAyAC) | [Tinder Song](https://open.spotify.com/album/60Ra2BOHk1zWxqeBsixJ5B) | 2:00 |
-| 67 | [Crush](https://open.spotify.com/track/78sdhV2qA9aFFzwhPdEQh5) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Inbred](https://open.spotify.com/album/0gAyvJCgGfm5AqcRvAV3Ob) | 3:24 |
+| 60 | [Fallingforyou](https://open.spotify.com/track/2TgxCUZdHFkPEVmFge1OSd) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975 \(Deluxe Version\)](https://open.spotify.com/album/0mkOUedmYlOzCC4tOm2v0c) | 4:00 |
+| 61 | [80's makeout session](https://open.spotify.com/track/6RObO033GGC7mReVoRQJPU) | [dacelynn](https://open.spotify.com/artist/4HcCn0kCOvr5D6BItsWVFh) | [80's makeout session](https://open.spotify.com/album/6MHmgFBPMdhNdj6HamqlYe) | 1:42 |
+| 62 | [sorry haha i fell asleep](https://open.spotify.com/track/4EzVsSkEdO7JJRe80MxtQk) | [Egg](https://open.spotify.com/artist/6zQlhM6cyJRrzuqAbB8PlB) | [sorry haha i fell asleep](https://open.spotify.com/album/10BhgUIfF4zFcLwqHhioL6) | 2:37 |
+| 63 | [hello!](https://open.spotify.com/track/7a2IJHzw9WJjoknwdnCop0) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [oh, how perfect](https://open.spotify.com/album/5xNYe96E1oMXdS1FdboZZv) | 3:08 |
+| 64 | [Kenny](https://open.spotify.com/track/6FmnMoph4yx7zjhuBcrHDv) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Kenny](https://open.spotify.com/album/33xwiZOclaWIDKouzuc32w) | 3:14 |
+| 65 | [Tinder Song](https://open.spotify.com/track/3D2uOOe6UC8UEpdx5jiwD3) | [Victor Internet](https://open.spotify.com/artist/6Ib0Di9b3kMxw9yD0DAyAC) | [Tinder Song](https://open.spotify.com/album/60Ra2BOHk1zWxqeBsixJ5B) | 2:00 |
+| 66 | [Crush](https://open.spotify.com/track/78sdhV2qA9aFFzwhPdEQh5) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Inbred](https://open.spotify.com/album/0gAyvJCgGfm5AqcRvAV3Ob) | 3:24 |
+| 67 | [I Don't Miss You at All](https://open.spotify.com/track/60s0v3N6twZZEsNqzpoxjc) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Blood Harmony](https://open.spotify.com/album/0qRnyZEgvqF96kGSZALooq) | 2:08 |
 | 68 | [AMBER](https://open.spotify.com/track/29wrhqZUPQFPjREFM6vayu) | [Unusual Demont](https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR) | [HUES.](https://open.spotify.com/album/1iIGc6gmBf9I0iWYPpjZLU) | 3:31 |
 | 69 | [Dizzy \(feat\. Thomas Headon and Alfie Templeman\)](https://open.spotify.com/track/3Gplr4iOpewQ9ynbZujzlu) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q), [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE), [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Dizzy \(feat\. Thomas Headon and Alfie Templeman\)](https://open.spotify.com/album/12W0CN6ybPdK5ZeHnff5k4) | 2:38 |
-| 70 | [I Don't Miss You at All](https://open.spotify.com/track/60s0v3N6twZZEsNqzpoxjc) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Blood Harmony](https://open.spotify.com/album/0qRnyZEgvqF96kGSZALooq) | 2:08 |
+| 70 | [love, or the lack thereof](https://open.spotify.com/track/2E1eJCNpEniIB1NsDqyGzR) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [evil twin](https://open.spotify.com/album/0veq4sEuFjopH21yI3u7QH) | 3:07 |
 
-Snapshot ID: `MTY2NjkyOTYwMCwwMDAwMDAwMDc5YzQ2ZDRiNDE4MTFkYzk0ZTFmNWRiYmY2ZTU1NjNj`
+Snapshot ID: `MTY2NjkyOTYwMCwwMDAwMDAwMDQ1MTNjNmZhMjI4NThjZGQzM2JjN2QzMDY5ZmIyYTJi`

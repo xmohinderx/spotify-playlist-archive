@@ -28,6 +28,28 @@
     },
     {
       "album": {
+        "name": "All In",
+        "url": "https://open.spotify.com/album/31i76UJJxEFOkDpFVEvhcE"
+      },
+      "artists": [
+        {
+          "name": "Kartell",
+          "url": "https://open.spotify.com/artist/3E4UsjXgFv2GdwshMkkJze"
+        },
+        {
+          "name": "Che Lingo",
+          "url": "https://open.spotify.com/artist/0xNKgWtSixAqcwJLM2c8ez"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240186,
+      "name": "All In",
+      "url": "https://open.spotify.com/track/4Ks8tQBpkf3mStOv6KDPDc"
+    },
+    {
+      "album": {
         "name": "Amber (DJ Mitsu the Beats Remix)",
         "url": "https://open.spotify.com/album/4cSDPs6LlsuAViLRHaovGR"
       },
@@ -975,7 +997,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 225461,
       "name": "Love Will Work It Out",
       "url": "https://open.spotify.com/track/4bQhGIHwo1ZpixP9MudUbV"
@@ -1059,7 +1081,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-25",
+      "date_removed": null,
       "duration_ms": 181687,
       "name": "Millennium",
       "url": "https://open.spotify.com/track/3G1nE9ZEv4eGEM48IAIv8u"
@@ -1569,7 +1591,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 245897,
       "name": "Secrets (Your Fire)",
       "url": "https://open.spotify.com/track/3tgHGoK5ItQv2q2yqggxlb"
@@ -1791,7 +1813,7 @@
           "url": "https://open.spotify.com/artist/2IEDOKhzkk1EKk93fZ759r"
         },
         {
-          "name": "J.Lamotta",
+          "name": "J.Lamotta Suzume",
           "url": "https://open.spotify.com/artist/76O0DRobXGao078KT0xci8"
         }
       ],

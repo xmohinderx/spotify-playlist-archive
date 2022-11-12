@@ -1,13 +1,29 @@
 {
-  "description": "Extra vicious, hard hitting pop. This is SALT. Cover: Kailee Morgue",
-  "num_followers": 307076,
+  "description": "Extra vicious, hard hitting pop. This is SALT. Cover: Stevie Bill",
+  "num_followers": 307191,
   "original_name": "SALT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTYwMCwwMDAwMDAwMDM1M2E2YzZiY2I3ZWU5NjA2ZDEzNTY0ZDFhMjA0ZmRl",
+  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMGI2NDY5NDgxZDNhOGFmZWE2ZjQyNDM5ZjRmYjYxMGI1",
   "tracks": [
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Messy",
+        "url": "https://open.spotify.com/album/5M8iOqYh57aru97YQcqFSD"
+      },
+      "artists": [
+        {
+          "name": "Stevie Bill",
+          "url": "https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv"
+        }
+      ],
+      "duration_ms": 124000,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/5StQDoFQTDElQjMnfk8qIy"
+    },
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
@@ -29,6 +45,22 @@
       "url": "https://open.spotify.com/track/58vqgltwYoOCSPIyqNiBaU"
     },
     {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "End of an Era",
+        "url": "https://open.spotify.com/album/4IUNO0oCCoM5DZ3va30wVc"
+      },
+      "artists": [
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "duration_ms": 133985,
+      "name": "End of an Era",
+      "url": "https://open.spotify.com/track/2nQY9jprTEWOVMIAdN0o48"
+    },
+    {
       "added_at": "2022-10-28 04:00:00",
       "album": {
         "name": "Bad Idea",
@@ -43,6 +75,22 @@
       "duration_ms": 155681,
       "name": "Bad Idea",
       "url": "https://open.spotify.com/track/6azVi5ToFHo6KfKs6SstAC"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Lose Lose",
+        "url": "https://open.spotify.com/album/0j0dNw26VKfudkaXZm2QaT"
+      },
+      "artists": [
+        {
+          "name": "Alexa Cappelli",
+          "url": "https://open.spotify.com/artist/3L733apFuBmRr4GEVvhh9x"
+        }
+      ],
+      "duration_ms": 190225,
+      "name": "Lose Lose",
+      "url": "https://open.spotify.com/track/47AcRzodwvcQlnS6BjNZBQ"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -125,6 +173,22 @@
       "url": "https://open.spotify.com/track/43pulC9QdGwabXUtVHYnjY"
     },
     {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Sober",
+        "url": "https://open.spotify.com/album/6i3ypMIWdzE0YeFHw84Yh9"
+      },
+      "artists": [
+        {
+          "name": "dee holt",
+          "url": "https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL"
+        }
+      ],
+      "duration_ms": 146823,
+      "name": "Sober",
+      "url": "https://open.spotify.com/track/577ctFaEJqAL9gdo2Gx63x"
+    },
+    {
       "added_at": "2022-10-14 04:00:00",
       "album": {
         "name": "young forever",
@@ -155,6 +219,22 @@
       "duration_ms": 158346,
       "name": "Good In Bed",
       "url": "https://open.spotify.com/track/3nceiixhkjFwEpFITqy3f0"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "ugly",
+        "url": "https://open.spotify.com/album/0ZRgqGpF70vz7TZzwJyPa4"
+      },
+      "artists": [
+        {
+          "name": "Dylan Conrique",
+          "url": "https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30"
+        }
+      ],
+      "duration_ms": 180626,
+      "name": "ugly",
+      "url": "https://open.spotify.com/track/6BzSgXgzHxqPbGEb7aKAXb"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -189,22 +269,6 @@
       "url": "https://open.spotify.com/track/3CrmsiGWaLpFVltY6BiXOq"
     },
     {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "gold star",
-        "url": "https://open.spotify.com/album/30AyS7pdsIF8h0pOgzfM0G"
-      },
-      "artists": [
-        {
-          "name": "\u016ala",
-          "url": "https://open.spotify.com/artist/47NHOjhVH9I5BO31wxwpt8"
-        }
-      ],
-      "duration_ms": 186947,
-      "name": "gold star",
-      "url": "https://open.spotify.com/track/61BvDWK5JRzPhdn0qWqtvR"
-    },
-    {
       "added_at": "2022-08-12 04:00:00",
       "album": {
         "name": "Dolls EP",
@@ -219,6 +283,22 @@
       "duration_ms": 145386,
       "name": "Villain",
       "url": "https://open.spotify.com/track/6y0VIRo9CyIIHBdlPklTl0"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "gold star",
+        "url": "https://open.spotify.com/album/30AyS7pdsIF8h0pOgzfM0G"
+      },
+      "artists": [
+        {
+          "name": "\u016ala",
+          "url": "https://open.spotify.com/artist/47NHOjhVH9I5BO31wxwpt8"
+        }
+      ],
+      "duration_ms": 186947,
+      "name": "gold star",
+      "url": "https://open.spotify.com/track/61BvDWK5JRzPhdn0qWqtvR"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -385,22 +465,6 @@
       "url": "https://open.spotify.com/track/1Oui21vilndzO9nUABZYlp"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "CRAVE",
-        "url": "https://open.spotify.com/album/0UdDOKC400MoESwutpjyYu"
-      },
-      "artists": [
-        {
-          "name": "CR\u00c8ME",
-          "url": "https://open.spotify.com/artist/7GSnGLal6xBBecChmC4W9H"
-        }
-      ],
-      "duration_ms": 150545,
-      "name": "CRAVE",
-      "url": "https://open.spotify.com/track/5JbLqcePr1TD2Jtgq62mjm"
-    },
-    {
       "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "Smoking Weed Alone",
@@ -447,22 +511,6 @@
       "duration_ms": 159112,
       "name": "Cold Killer",
       "url": "https://open.spotify.com/track/0lwCIykH3nebbJevHiJRhf"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Losing Sleep",
-        "url": "https://open.spotify.com/album/7J7FNt2SsRtvs294XWmTPd"
-      },
-      "artists": [
-        {
-          "name": "Cyn",
-          "url": "https://open.spotify.com/artist/0lPhSdyfILTWuDUWJRyAk7"
-        }
-      ],
-      "duration_ms": 162049,
-      "name": "Losing Sleep",
-      "url": "https://open.spotify.com/track/7yML47qFTPnJW9gp7uurpT"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -607,22 +655,6 @@
       "duration_ms": 184180,
       "name": "Get Off My",
       "url": "https://open.spotify.com/track/6YmV89ReuPTBeHGelmTbca"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "Queen Bitch",
-        "url": "https://open.spotify.com/album/6BVkRA0sAGmRoeEp6CCJBH"
-      },
-      "artists": [
-        {
-          "name": "Kailee Morgue",
-          "url": "https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0"
-        }
-      ],
-      "duration_ms": 161013,
-      "name": "Queen Bitch",
-      "url": "https://open.spotify.com/track/3TyAGCbaaiQIYKKj42WO9R"
     },
     {
       "added_at": "2022-08-26 04:00:00",
@@ -1049,22 +1081,6 @@
       "url": "https://open.spotify.com/track/5TOypkLxV6SDEIePb7lvox"
     },
     {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "so far it just sucked",
-        "url": "https://open.spotify.com/album/6NZJZiZtWl4y69GXWDopTT"
-      },
-      "artists": [
-        {
-          "name": "LEEPA",
-          "url": "https://open.spotify.com/artist/066IQRKXdi1o3b9yGxA2SD"
-        }
-      ],
-      "duration_ms": 120253,
-      "name": "so far it just sucked",
-      "url": "https://open.spotify.com/track/6YaIvnJ3xDgIleE5m3GAEr"
-    },
-    {
       "added_at": "2022-05-13 04:01:00",
       "album": {
         "name": "what would you do?",
@@ -1111,26 +1127,6 @@
       "duration_ms": 184529,
       "name": "Light Switch",
       "url": "https://open.spotify.com/track/5Lh7DFcEwboYBefjnDVGz5"
-    },
-    {
-      "added_at": "2022-04-22 04:01:00",
-      "album": {
-        "name": "UH OH! (feat. BENEE)",
-        "url": "https://open.spotify.com/album/4TIaOfSOnflI3Qwl4aknsN"
-      },
-      "artists": [
-        {
-          "name": "Sub Urban",
-          "url": "https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG"
-        },
-        {
-          "name": "BENEE",
-          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
-        }
-      ],
-      "duration_ms": 133509,
-      "name": "UH OH! (feat. BENEE)",
-      "url": "https://open.spotify.com/track/3smlpsXoDcTvDqHZTYfJLe"
     },
     {
       "added_at": "2022-07-15 04:00:00",

@@ -4,7 +4,7 @@
 
 > Fresh takes \- from new revisions and iconic covers to unexpected versions and the <a href="https://artists.spotify.com/songwriter/2M9tzAw4sMHnOJ58l5uo82">songwriter's</a> own covers.
 
-100 songs - 5 hr 30 min - [published](https://open.spotify.com/playlist/0OKXgg6EX7PXQvXM76xIJP)
+102 songs - 5 hr 36 min - [published](https://open.spotify.com/playlist/0OKXgg6EX7PXQvXM76xIJP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,8 +81,9 @@
 | [Nobody's Fault But Mine](https://open.spotify.com/track/5Ksa4HCbpVeqjk9xQOhjAI) | [The Robert Cray Band](https://open.spotify.com/artist/6cAtGdArQhrU7tTBoeWY3P) | [In My Soul](https://open.spotify.com/album/11Cry7mbcEQqOUGF2zX6Xk) | 2:39 | 2021-10-01 |  |
 | [Nobody's Fault But Mine](https://open.spotify.com/track/5Me8X4QV22ksvECETOGO1p) | [The Robert Cray Band](https://open.spotify.com/artist/6cAtGdArQhrU7tTBoeWY3P) | [In My Soul](https://open.spotify.com/album/2VwCtiaK9kUlVrOzfvxNCo) | 2:39 | 2021-10-01 | 2022-07-29 |
 | [R.E.S.P.E.C.T.](https://open.spotify.com/track/1hLPD7lmbQEt3lSKN1aZSu) | [The Blues Brothers](https://open.spotify.com/artist/1cHFz6lrt7KAsBV8j2Ny1g), [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Blues Brothers 2000](https://open.spotify.com/album/6xj8KDSoPvZCquyIHWo0PJ) | 3:00 | 2021-10-01 |  |
+| [Respect](https://open.spotify.com/track/1RFYqPdx8PfrwXyohSrG2Z) | [Adeva](https://open.spotify.com/artist/3zSxZFUKZEYmEpHkwZKXzQ) | [Ultimate Adeva](https://open.spotify.com/album/6q7MiJ7pgjjzVdIsggNoo3) | 4:00 | 2021-10-01 |  |
 | [Respect](https://open.spotify.com/track/4jvblfyS65FjeSWaD5uUhb) | [Adeva](https://open.spotify.com/artist/3zSxZFUKZEYmEpHkwZKXzQ) | [Adeva](https://open.spotify.com/album/1wDqtffpyz1jfkXmN306PH) | 4:00 | 2021-10-01 | 2022-07-29 |
-| [Respect](https://open.spotify.com/track/5yG5YYbEgo5chhONO4k7tR) | [Adeva](https://open.spotify.com/artist/3zSxZFUKZEYmEpHkwZKXzQ) | [Adeva](https://open.spotify.com/album/51QEoKO6qXijBqpPJRNcNU) | 4:00 | 2021-10-01 |  |
+| [Respect](https://open.spotify.com/track/5yG5YYbEgo5chhONO4k7tR) | [Adeva](https://open.spotify.com/artist/3zSxZFUKZEYmEpHkwZKXzQ) | [Adeva](https://open.spotify.com/album/51QEoKO6qXijBqpPJRNcNU) | 4:00 | 2021-10-01 | 2022-11-12 |
 | [Respect](https://open.spotify.com/track/6OIHBaasbCpSwMjmH3BNSJ) | [Ann Peebles](https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB) | [This is Ann Peebles](https://open.spotify.com/album/0ubu5A9vzSiS7BTdRX7Ilc) | 2:15 | 2021-10-01 |  |
 | [Respect](https://open.spotify.com/track/7s25THrKz86DM225dOYwnr) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [I Never Loved a Man the Way I Love You](https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V) | 2:27 | 2021-10-01 |  |
 | [Respect](https://open.spotify.com/track/0XJFtBkc2gqLvCDQX36XLm) | [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5) | [RESPECT \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1EzytFSc1iJY6DjHR6fUMm) | 3:42 | 2021-10-01 |  |
@@ -95,7 +96,8 @@
 | [Security](https://open.spotify.com/track/6rhanBKHZciWDmpqPKdQTP) | [The Young Veins](https://open.spotify.com/artist/6vjgLoIHeoblpnAKNPeF8Q) | [Take a Vacation! \(Deluxe Edition\)](https://open.spotify.com/album/5cFULX82XWt56txFZImJdS) | 2:33 | 2021-10-01 |  |
 | [Sitting on the Dock of the Bay](https://open.spotify.com/track/5Ja7SS7ATazexKz4E6dgOp) | [Mongo Santamaria](https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0) | [Mongo Santamaria's Greatest Hits](https://open.spotify.com/album/0iAuAgfu3aba2ebIBJ63P7) | 3:15 | 2021-10-01 |  |
 | [Sweet Soul Music](https://open.spotify.com/track/0pvA063uNyGQFp7DNtmk0P) | [Arthur Conley](https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB) | [Rhino Hi\-Five: Arthur Conley](https://open.spotify.com/album/6dYQhuDC49jXh7YvTtb0oT) | 2:21 | 2021-10-01 | 2022-09-02 |
-| [Sweet Soul Music](https://open.spotify.com/track/2YuIyYri67bgUXKQW5V9XW) | [Arthur Conley](https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB) | [Sweet Soul Music](https://open.spotify.com/album/2fZ5TzqZjIWEAP5T9ktlBC) | 2:21 | 2021-10-01 |  |
+| [Sweet Soul Music](https://open.spotify.com/track/2YuIyYri67bgUXKQW5V9XW) | [Arthur Conley](https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB) | [Sweet Soul Music](https://open.spotify.com/album/2fZ5TzqZjIWEAP5T9ktlBC) | 2:21 | 2021-10-01 | 2022-11-12 |
+| [Sweet Soul Music](https://open.spotify.com/track/3GECIBplhAMkgQ2pzUfplS) | [Arthur Conley](https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB) | [100 Greatest Feel Good](https://open.spotify.com/album/5PHIHxs0Xiu66Ah511IRFw) | 2:21 | 2021-10-01 |  |
 | [Sweet Soul Music](https://open.spotify.com/track/1NkBAvUj4EITElG8hO1mRC) | [KC & The Sunshine Band](https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo) | [Feeling You! The 60's](https://open.spotify.com/album/6xsN1W274ooUQ1RFJuLH9Z) | 2:11 | 2021-10-01 |  |
 | [Sweet Soul Music](https://open.spotify.com/track/0j4y8UyEKIkQK4DRT25zi4) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Vagabond Heart \(Expanded Edition\)](https://open.spotify.com/album/3jBeiXLyZM4kxbHLEJwtYt) | 3:04 | 2021-10-01 |  |
 | [Sweet Soul Music](https://open.spotify.com/track/18b7KtY3MqOOZEXTYXJoqy) | [The Gladiators](https://open.spotify.com/artist/3L5iYAziSDnuaHsSgbkcIP) | [Here Comes the Duke](https://open.spotify.com/album/4EQo8dsclTJxQtcoMk4aEq) | 1:57 | 2021-10-01 |  |

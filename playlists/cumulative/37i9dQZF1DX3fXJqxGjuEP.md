@@ -4,7 +4,7 @@
 
 > ¡Dale buena onda cálida y frutal a tu día!
 
-430 songs - 1 day 1 hr 51 min - [published](https://open.spotify.com/playlist/1MlSIdAeQjly6eYigD5wpF)
+431 songs - 1 day 1 hr 55 min - [published](https://open.spotify.com/playlist/1MlSIdAeQjly6eYigD5wpF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -307,6 +307,7 @@
 | [Paquita Linda](https://open.spotify.com/track/48ST9mp6EYweaZcyXWqjZc) | [Patiño](https://open.spotify.com/artist/4eepaYCA8Byw10I7CuXhgx) | [Paquita Linda](https://open.spotify.com/album/63DUsfHdMz3fL0w1hAO1ct) | 2:41 | 2021-10-20 | 2022-04-19 |
 | [Paradiso](https://open.spotify.com/track/0U4lIkC8nkaQa6ucsm1u0Y) | [Erlend Øye](https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs), [La Comitiva](https://open.spotify.com/artist/6qfxmAre9eFDUWxAip06yh) | [Paradiso](https://open.spotify.com/album/1HVCTeGuFKuQSwXXNCEkJv) | 3:01 | 2021-10-20 | 2022-04-14 |
 | [Paraíso](https://open.spotify.com/track/0YqJFO4bUZn1chzZ6KR9l9) | [Monogem](https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV) | [Paraíso](https://open.spotify.com/album/4X61CX0485026hU97ZPc57) | 3:52 | 2021-10-20 | 2022-08-22 |
+| [Paraíso](https://open.spotify.com/track/1jqV2HDLwXJD8NbuzwsgSF) | [Monogem](https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV) | [Gardenia](https://open.spotify.com/album/0vetA0VXGOhBjzaKO8DasX) | 3:52 | 2021-10-20 |  |
 | [Pasión Tropical](https://open.spotify.com/track/1xKyAITK93J44Udn1AWdTe) | [Olaya Sound System](https://open.spotify.com/artist/6sVCc3GjCgPU7Vk56h8Zi3) | [Pasión Tropical](https://open.spotify.com/album/6I5UNdFGtD3UgghZizTK5G) | 4:40 | 2021-10-20 | 2022-04-21 |
 | [Paso a Huella \- Captain Planet Remix](https://open.spotify.com/track/31riMJMbPsDBPpHS5Yi0Ja) | [Novalima](https://open.spotify.com/artist/2lN3yllrsFyoobMnKSfzsI), [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi) | [Ch'usay Remixes](https://open.spotify.com/album/246AUaB8i3CzFdfpSZHcBX) | 3:27 | 2021-10-20 | 2022-10-13 |
 | [Passarinha](https://open.spotify.com/track/0cLilijUD3FgmzYzV7UAug) | [Bala Desejo](https://open.spotify.com/artist/4MF1QlpuvKRIfkmfOA4DrH), [Julia Mestre](https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE), [Dora Morelenbaum](https://open.spotify.com/artist/6xt7x7TG8ExdvWM3R15cmE), [Zé Ibarra](https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U), [Lucas Nunes](https://open.spotify.com/artist/3wO3x8goZuWnibpyFMakpW) | [SIM SIM SIM](https://open.spotify.com/album/5lPgAWFWtQOUllSFzoWJtx) | 3:55 | 2022-04-23 |  |
@@ -388,7 +389,7 @@
 | [Tabaibas](https://open.spotify.com/track/3AeLXNDbwsDdmv33joggYJ) | [Marilia Monzón](https://open.spotify.com/artist/3bch3EeUoah5rDRni92X93) | [Tabaibas](https://open.spotify.com/album/170tXRY7ZmWpbvpFyryLL3) | 3:52 | 2021-10-20 | 2022-07-29 |
 | [Te Crees Tú](https://open.spotify.com/track/1FT5c0bdVWkgPctocSQywO) | [International Dub Ambassadors](https://open.spotify.com/artist/2oLtapTBBJCjp7rwiU5XqE) | [Te Crees Tú](https://open.spotify.com/album/26toS8EEQOsP65CWSnkksd) | 3:32 | 2022-04-17 | 2022-04-21 |
 | [Te Queria](https://open.spotify.com/track/4nkStFVaOEAz6BEtoNb3YN) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [Te Queria](https://open.spotify.com/album/14hqEl8VjNWqXfBWW7hmJX) | 4:02 | 2021-10-20 | 2022-07-27 |
-| [Temes](https://open.spotify.com/track/4y7MogcFeMrp4QXPVHloyB) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [Almadura](https://open.spotify.com/album/5ggXegN9GWgNOSS83gZHGT) | 3:16 | 2021-10-20 |  |
+| [Temes](https://open.spotify.com/track/4y7MogcFeMrp4QXPVHloyB) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [Almadura](https://open.spotify.com/album/5ggXegN9GWgNOSS83gZHGT) | 3:16 | 2021-10-20 | 2022-11-12 |
 | [Tengo Lo Que Tengo](https://open.spotify.com/track/1uu604md59h9zaP27tegVV) | [Jimena Angel](https://open.spotify.com/artist/1K0Pin4AUnN7GVGJaS7z0E) | [Tengo Lo Que Tengo](https://open.spotify.com/album/0a0wCIf6hmgpvnLO6RrMhE) | 3:23 | 2021-10-20 | 2022-07-29 |
 | [Tengo Lo Que Tengo](https://open.spotify.com/track/21iJNBkKbsIwALHDEqiesL) | [Jimena Angel](https://open.spotify.com/artist/1K0Pin4AUnN7GVGJaS7z0E) | [Tengo Lo Que Tengo](https://open.spotify.com/album/3cBPxSdXfF1BGajgGm2QtE) | 3:23 | 2021-10-20 |  |
 | [Tierra](https://open.spotify.com/track/4JnUNSoH5576ZKA9CPLQhD) | [Vesica Piscis](https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6) | [Vesica Piscis](https://open.spotify.com/album/1wLQVoxpUOdcCymwnCyH7e) | 5:12 | 2022-03-17 | 2022-06-08 |

@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 256680,
       "name": "All Is Well",
       "url": "https://open.spotify.com/track/3KAQ4xe2sR6IiltZw8HSA5"
@@ -163,7 +163,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 180693,
       "name": "Annie's Song",
       "url": "https://open.spotify.com/track/4J0DbyODwZJcmIAiTSJfMF"
@@ -253,7 +253,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 141200,
       "name": "Between the Bars",
       "url": "https://open.spotify.com/track/3mtIUX9LrCpIUiAAv9SD4a"
@@ -278,6 +278,24 @@
     },
     {
       "album": {
+        "name": "Between the Bars",
+        "url": "https://open.spotify.com/album/64Z8bWSUBB1Vhox2K5EdBe"
+      },
+      "artists": [
+        {
+          "name": "The Civil Wars",
+          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260053,
+      "name": "Billie Jean",
+      "url": "https://open.spotify.com/track/4YKhIH7BhFErLoV9dgHupm"
+    },
+    {
+      "album": {
         "name": "The Recordings of the Middle East",
         "url": "https://open.spotify.com/album/144r7yfO4RiEqyMcPmTXeJ"
       },
@@ -289,7 +307,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 326920,
       "name": "Blood",
       "url": "https://open.spotify.com/track/13yuX1iqobZtQtq5lr8UoC"
@@ -347,6 +365,24 @@
       "duration_ms": 220492,
       "name": "Bruises",
       "url": "https://open.spotify.com/track/4Of7rzpRpV1mWRbhp5rAqG"
+    },
+    {
+      "album": {
+        "name": "Brutally",
+        "url": "https://open.spotify.com/album/1EffBpw7DW3vrOBCox9l0R"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208105,
+      "name": "Brutally",
+      "url": "https://open.spotify.com/track/4z6qtN4iZ7MPVZYCtiSgsM"
     },
     {
       "album": {
@@ -548,6 +584,24 @@
     },
     {
       "album": {
+        "name": "Alone, Together",
+        "url": "https://open.spotify.com/album/0rjKAJNRVVFIzCF8mYLPCZ"
+      },
+      "artists": [
+        {
+          "name": "Daniel Pearson",
+          "url": "https://open.spotify.com/artist/0yll2u1E5eqktJyKri1PNm"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184786,
+      "name": "Come Back Around",
+      "url": "https://open.spotify.com/track/7G89TqdJ9lZIv4toGuxjAr"
+    },
+    {
+      "album": {
         "name": "First Mind",
         "url": "https://open.spotify.com/album/0ntJpgznXrZ6Qc8wTxtcXh"
       },
@@ -559,7 +613,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 267573,
       "name": "Cucurucu",
       "url": "https://open.spotify.com/track/3G3PP7pAkAaZ6QzM0duBry"
@@ -657,6 +711,24 @@
       "duration_ms": 257800,
       "name": "Dreams - 2004 Remaster",
       "url": "https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz"
+    },
+    {
+      "album": {
+        "name": "Early Morning Coffee Cups",
+        "url": "https://open.spotify.com/album/31ijpN3FryTPMy3RYdsjsw"
+      },
+      "artists": [
+        {
+          "name": "Jaimi Faulkner",
+          "url": "https://open.spotify.com/artist/1J6JaPeWiuT4oEa4oiEALf"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199853,
+      "name": "Early Morning Coffee Cups",
+      "url": "https://open.spotify.com/track/04TvtzVrd7FufnY5KJLXzO"
     },
     {
       "album": {
@@ -765,7 +837,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 252960,
       "name": "Fever To The Form",
       "url": "https://open.spotify.com/track/1QJnDJuYOGj05iSc4eWGr5"
@@ -1021,7 +1093,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 190280,
       "name": "Hero",
       "url": "https://open.spotify.com/track/1B10XgaxSXRLAFq967oMpF"
@@ -1061,6 +1133,24 @@
       "duration_ms": 212373,
       "name": "Home Again",
       "url": "https://open.spotify.com/track/46EuzanXhKwIc7755wLAvS"
+    },
+    {
+      "album": {
+        "name": "Home Is Where the Heart Hurts (From \" About a Girl \" ) [Radio Version]",
+        "url": "https://open.spotify.com/album/4KZNUgrWdQ79z093g5leev"
+      },
+      "artists": [
+        {
+          "name": "Nick & June",
+          "url": "https://open.spotify.com/artist/1mx1QlS8xWbe1KfXrvHrYl"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211838,
+      "name": "Home Is Where the Heart Hurts (From \" About a Girl \" ) - Radio Version",
+      "url": "https://open.spotify.com/track/40BtgHQcQf7TRy6atS76lD"
     },
     {
       "album": {
@@ -1137,6 +1227,24 @@
       "duration_ms": 178614,
       "name": "I Was Just Leaving",
       "url": "https://open.spotify.com/track/2P7d62DM2Q1A9i6kkc4rgl"
+    },
+    {
+      "album": {
+        "name": "Resolute",
+        "url": "https://open.spotify.com/album/4Oa3qOkIi0vhp18XgoB7Ii"
+      },
+      "artists": [
+        {
+          "name": "Stu Larsen",
+          "url": "https://open.spotify.com/artist/44M8i4BCwuBbmcQWwMaOfH"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200506,
+      "name": "I Will Be Happy and Hopefully You Will Be Too",
+      "url": "https://open.spotify.com/track/2Pml521aaHZf3b0S2f4no8"
     },
     {
       "album": {
@@ -1335,7 +1443,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 261881,
       "name": "It Runs Through Me",
       "url": "https://open.spotify.com/track/02CygBCQOIyEuhNZqHHcNx"
@@ -1393,6 +1501,24 @@
       "duration_ms": 250866,
       "name": "Jolene",
       "url": "https://open.spotify.com/track/2fSIF8CJhoc9CJhF9vJDXp"
+    },
+    {
+      "album": {
+        "name": "A Song For Every Moon",
+        "url": "https://open.spotify.com/album/3IGPQEGAiZZI4Iba81GNq5"
+      },
+      "artists": [
+        {
+          "name": "Bruno Major",
+          "url": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205029,
+      "name": "Just The Same",
+      "url": "https://open.spotify.com/track/593gJ3mb44oBLSAezl2UkQ"
     },
     {
       "album": {
@@ -1584,6 +1710,24 @@
     },
     {
       "album": {
+        "name": "Not Your Muse (Deluxe)",
+        "url": "https://open.spotify.com/album/3bqEvlGHE4amqPGZtdMnep"
+      },
+      "artists": [
+        {
+          "name": "Celeste",
+          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256200,
+      "name": "Love Is Back",
+      "url": "https://open.spotify.com/track/4kzcJJUonbCSlNXrHXt6n8"
+    },
+    {
+      "album": {
         "name": "Magnetised (Acoustic)",
         "url": "https://open.spotify.com/album/2UQjNLTufvDV6PKx2Kn8v2"
       },
@@ -1685,7 +1829,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 281226,
       "name": "My Sweet Lord - Remastered 2014",
       "url": "https://open.spotify.com/track/0qdQUeKVyevrbKhAo0ibxS"
@@ -1721,7 +1865,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 152613,
       "name": "Naked as We Came",
       "url": "https://open.spotify.com/track/6UIxGIqWlO5wsddY44AV1R"
@@ -1743,6 +1887,24 @@
       "duration_ms": 176026,
       "name": "Never in My Wildest Dreams",
       "url": "https://open.spotify.com/track/3MJov5mT64K42o1Rffhblq"
+    },
+    {
+      "album": {
+        "name": "You and Me for Now",
+        "url": "https://open.spotify.com/album/5KPl7k36JzLxe4bisDG8S4"
+      },
+      "artists": [
+        {
+          "name": "Austin Basham",
+          "url": "https://open.spotify.com/artist/3Dd1WVQvZUgyi9XEqOIPhA"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213229,
+      "name": "New House",
+      "url": "https://open.spotify.com/track/1wjekflX5IeRt4JhnF4vix"
     },
     {
       "album": {
@@ -1775,7 +1937,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 229960,
       "name": "No Right To Love You - Acoustic",
       "url": "https://open.spotify.com/track/58VJmNB8oeoE2PRqCrduEo"
@@ -1854,6 +2016,24 @@
     },
     {
       "album": {
+        "name": "The Kingfisher",
+        "url": "https://open.spotify.com/album/3KJQprTqgb4xq2TNqbBGEf"
+      },
+      "artists": [
+        {
+          "name": "Rosemary & Garlic",
+          "url": "https://open.spotify.com/artist/7MZvYitgCWAOaKjxdm2S17"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289970,
+      "name": "Old Now",
+      "url": "https://open.spotify.com/track/3IVALWwWuGL5p3W6cPtjDH"
+    },
+    {
+      "album": {
         "name": "Every Kingdom",
         "url": "https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce"
       },
@@ -1869,6 +2049,24 @@
       "duration_ms": 328506,
       "name": "Old Pine",
       "url": "https://open.spotify.com/track/3CAX47TnPqTujLIQTw8nwI"
+    },
+    {
+      "album": {
+        "name": "To Let A Good Thing Die",
+        "url": "https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz"
+      },
+      "artists": [
+        {
+          "name": "Bruno Major",
+          "url": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "Old Soul",
+      "url": "https://open.spotify.com/track/3ThbiGsMJGSLOUHVxyFQQk"
     },
     {
       "album": {
@@ -1937,7 +2135,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 160097,
       "name": "Ophelia",
       "url": "https://open.spotify.com/track/3d8y0t70g7hw2FOWl9Z4Fm"
@@ -2009,7 +2207,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 124000,
       "name": "Pink Moon",
       "url": "https://open.spotify.com/track/4KROoGIaPaR1pBHPnR3bwC"
@@ -2586,6 +2784,28 @@
     },
     {
       "album": {
+        "name": "Stay Alive",
+        "url": "https://open.spotify.com/album/6i7Blm3uQosKZSQo57ewqL"
+      },
+      "artists": [
+        {
+          "name": "Roo Panes",
+          "url": "https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC"
+        },
+        {
+          "name": "Mahogany",
+          "url": "https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233346,
+      "name": "Stay Alive",
+      "url": "https://open.spotify.com/track/1STWuVv5dKJABRJROltWFr"
+    },
+    {
+      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/3E3RbNL43xqu0o5KggHJBU"
       },
@@ -2658,6 +2878,24 @@
     },
     {
       "album": {
+        "name": "Sunscreen",
+        "url": "https://open.spotify.com/album/1n3lVhMqxEmuVLNzsXu5g4"
+      },
+      "artists": [
+        {
+          "name": "Ira Wolf",
+          "url": "https://open.spotify.com/artist/5jq01ts8cBQWwVZOpMax6s"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178173,
+      "name": "Sunscreen",
+      "url": "https://open.spotify.com/track/4R68vBtWahKshI7Q3mWpoc"
+    },
+    {
+      "album": {
         "name": "Sweetest Thing",
         "url": "https://open.spotify.com/album/4YtmwrjMoeVCcVPMSadTsy"
       },
@@ -2712,6 +2950,24 @@
     },
     {
       "album": {
+        "name": "Teenage Dirtbag",
+        "url": "https://open.spotify.com/album/6csWPrRMyZDT3DRu7QOodg"
+      },
+      "artists": [
+        {
+          "name": "Walk Off the Earth",
+          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199200,
+      "name": "Teenage Dirtbag",
+      "url": "https://open.spotify.com/track/6nWh37Xjbph0Zr0dTJGZ2p"
+    },
+    {
+      "album": {
         "name": "O",
         "url": "https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1"
       },
@@ -2723,7 +2979,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 286653,
       "name": "The Blower's Daughter",
       "url": "https://open.spotify.com/track/4B2lJinAkeNLSJjcq3dg8Q"
@@ -3238,6 +3494,24 @@
     },
     {
       "album": {
+        "name": "Our Blood",
+        "url": "https://open.spotify.com/album/5oY9X7jA6A3JFUmSrRjvvQ"
+      },
+      "artists": [
+        {
+          "name": "I Am Oak",
+          "url": "https://open.spotify.com/artist/3rkCcFVpbFYCvnNKTT7LUe"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224687,
+      "name": "Woandering",
+      "url": "https://open.spotify.com/track/5E9uahV1IHYZ4qyJMvgpkp"
+    },
+    {
+      "album": {
         "name": "Tomb",
         "url": "https://open.spotify.com/album/4bUHu3F1zbCbKKcwvCmAXj"
       },
@@ -3249,7 +3523,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 205657,
       "name": "You Needed Love, I Needed You",
       "url": "https://open.spotify.com/track/0MIqB2F979ng3e9fLKEAt6"

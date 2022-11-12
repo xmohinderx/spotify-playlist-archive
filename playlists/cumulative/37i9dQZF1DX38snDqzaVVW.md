@@ -4,7 +4,7 @@
 
 > Track from Muslims around the world\. Cover: Salim\-Sulaiman, Ayisha Abdul Basith, Salim Merchant
 
-137 songs - 12 hr 40 min - [published](https://open.spotify.com/playlist/7MSqaDSzxaFqFJKHv6785m)
+138 songs - 12 hr 44 min - [published](https://open.spotify.com/playlist/7MSqaDSzxaFqFJKHv6785m)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,8 @@
 | [Nijaay](https://open.spotify.com/track/3rZn8W62JE6eZrzBLZw95D) | [Orchestra Baobab](https://open.spotify.com/artist/7xT0arvCDupDU1YYy0BNv9) | [Made in Dakar](https://open.spotify.com/album/5T2htXMWcRmuYQdoHJEgi9) | 7:11 | 2021-10-21 |  |
 | [No One But You](https://open.spotify.com/track/0dXB28kP8XMuyeLo4mUKuv) | [Maher Zain](https://open.spotify.com/artist/6PUZZX4GCzeFS0GaDWxVwz) | [No One But You](https://open.spotify.com/album/6DTSx1BOMwmneXNSsvgZux) | 3:04 | 2022-04-04 | 2022-04-18 |
 | [Noor\-E\-Ilahi](https://open.spotify.com/track/0haStQZr8cgw5jU121JSeA) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl) | [Noor\-E\-Ilahi \- Single](https://open.spotify.com/album/4tr24T6sT0z1VDjbTlaxBV) | 6:09 | 2022-04-18 | 2022-10-07 |
-| [Oualahila Ar Tesninam](https://open.spotify.com/track/1jncnTEAwosbxyLVe0sxnt) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Amassakoul](https://open.spotify.com/album/0HtXxCOzxI722dtwJ7ukyv) | 3:47 | 2022-10-06 |  |
+| [Oualahila Ar Tesninam](https://open.spotify.com/track/1jncnTEAwosbxyLVe0sxnt) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Amassakoul](https://open.spotify.com/album/0HtXxCOzxI722dtwJ7ukyv) | 3:47 | 2022-10-06 | 2022-11-12 |
+| [Oualahila ar Tesninam](https://open.spotify.com/track/767XZqvucbqec7sLPYJDtB) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Terraforming in Analogue Space: IRL Remixes \(2000\-2015\)](https://open.spotify.com/album/0hd9pPOzNkjbjkbKXyyTlV) | 3:48 | 2022-10-06 |  |
 | [Ouallahila Ar Tesninam](https://open.spotify.com/track/446gzpU2Q5Wwhy9NfRFIE1) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Amassakoul](https://open.spotify.com/album/5FPDGVaIIfWVH79NJoslSe) | 3:47 | 2021-10-21 | 2022-04-01 |
 | [Power of Soul](https://open.spotify.com/track/4oA5wuVnDZY6jrY4NP78xu) | [Idris Muhammad](https://open.spotify.com/artist/6ghiUK2ao3KcmmDt2pbNzN) | [Power Of Soul](https://open.spotify.com/album/3IUR2zFKUbyPA2OW1sJpzX) | 7:04 | 2021-10-21 | 2022-04-01 |
 | [Power of Soul](https://open.spotify.com/track/5YnyA2XqNiD0Rcrma0R0IU) | [Idris Muhammad](https://open.spotify.com/artist/6ghiUK2ao3KcmmDt2pbNzN) | [Power Of Soul](https://open.spotify.com/album/4blKLLF57DrHhUyxtaziZX) | 7:04 | 2022-10-06 |  |

@@ -239,7 +239,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 224333,
       "name": "Autumn In New York",
       "url": "https://open.spotify.com/track/6o5RbQYhmF4yRRw7ZArxGL"
@@ -611,7 +611,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 143360,
       "name": "Broken Hearted Melody",
       "url": "https://open.spotify.com/track/5X4lsUAYrT5m0IyL6Xm8T5"
@@ -839,7 +839,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 141306,
       "name": "Charlie Brown - 2007 Remaster Stereo Single Version; Remastered",
       "url": "https://open.spotify.com/track/6t83zAQg9Efca1u1DPL930"
@@ -865,6 +865,28 @@
       "duration_ms": 351893,
       "name": "Cheek To Cheek",
       "url": "https://open.spotify.com/track/6pPr1KLZit9FgFNhp7xE5m"
+    },
+    {
+      "album": {
+        "name": "cosy autumn jazz",
+        "url": "https://open.spotify.com/album/1N8ifrvGovGJ063efZvpBR"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353647,
+      "name": "Cheek To Cheek",
+      "url": "https://open.spotify.com/track/0iIi8GlKDhM4cwehuTe6r5"
     },
     {
       "album": {
@@ -1121,7 +1143,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 196840,
       "name": "Dream A Little Dream Of Me",
       "url": "https://open.spotify.com/track/3HuJDcOWx0gE9Yng2uWY7K"
@@ -1147,6 +1169,28 @@
       "duration_ms": 223373,
       "name": "Dream a Little Dream of Me (with Paul Weston & His Music From Hollywood)",
       "url": "https://open.spotify.com/track/2HyPrPSANTIPkR6CfiytwY"
+    },
+    {
+      "album": {
+        "name": "pov: ur the main character",
+        "url": "https://open.spotify.com/album/1Akd6N20A4tOzelzqwprlb"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187693,
+      "name": "Dream A Little Dream Of Me - Single Version",
+      "url": "https://open.spotify.com/track/2AJLubYVpLPeqnelHslNPK"
     },
     {
       "album": {
@@ -1201,6 +1245,24 @@
       "duration_ms": 179426,
       "name": "Earth Angel (Will You Be Mine)",
       "url": "https://open.spotify.com/track/11XR0tRT4g5ov4u8M92wbF"
+    },
+    {
+      "album": {
+        "name": "Best 50s Songs",
+        "url": "https://open.spotify.com/album/0USh1S5PHXqTJJ1VDw2aZX"
+      },
+      "artists": [
+        {
+          "name": "The Penguins",
+          "url": "https://open.spotify.com/artist/6lOk7hCr8x3O9vHwylXyHR"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170906,
+      "name": "Earth Angel (Will You Be Mine) - 1956 Version",
+      "url": "https://open.spotify.com/track/7hytMKbTF89zZMEl8Ka5Pd"
     },
     {
       "album": {
@@ -1609,7 +1671,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 166000,
       "name": "I Saw The Light",
       "url": "https://open.spotify.com/track/04bsExZXrwoRXYKKDWlTIU"
@@ -1674,6 +1736,24 @@
     },
     {
       "album": {
+        "name": "The Lady Sings",
+        "url": "https://open.spotify.com/album/12Ie61TJvvha9qm27suytg"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195586,
+      "name": "I'll Look Around",
+      "url": "https://open.spotify.com/track/1wAURZCIA0k5RNwaJN3dH3"
+    },
+    {
+      "album": {
         "name": "Bo Diddley",
         "url": "https://open.spotify.com/album/1MuSBjlzWvNC6yYqDVdVt6"
       },
@@ -1707,6 +1787,24 @@
       "duration_ms": 164546,
       "name": "I'm A Man",
       "url": "https://open.spotify.com/track/760clbeDBWmBsBLbszWuNZ"
+    },
+    {
+      "album": {
+        "name": "Electric Blues",
+        "url": "https://open.spotify.com/album/7MtqlIFHBn8g0KhzMNASay"
+      },
+      "artists": [
+        {
+          "name": "Bo Diddley",
+          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182440,
+      "name": "I'm A Man - Single Version",
+      "url": "https://open.spotify.com/track/0zN29YHQSZz1WbyA3DAOrq"
     },
     {
       "album": {
@@ -2082,6 +2180,42 @@
     },
     {
       "album": {
+        "name": "The Fats Domino Jukebox: 20 Greatest Hits The Way You Originally Heard Them",
+        "url": "https://open.spotify.com/album/1hs1BjRp9t8AjVY9J6vE1b"
+      },
+      "artists": [
+        {
+          "name": "Fats Domino",
+          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143600,
+      "name": "Jambalaya (On The Bayou) - Remastered 2002",
+      "url": "https://open.spotify.com/track/69S4GgVyV3Fs7kIz5gl3rv"
+    },
+    {
+      "album": {
+        "name": "The Best of Blues Rock Songbook 20th Century Masters The Millennium Collection",
+        "url": "https://open.spotify.com/album/5zAkTrHHX2YYKcEVyJgFZT"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159533,
+      "name": "Johnny B. Goode",
+      "url": "https://open.spotify.com/track/5py1PCd305Y7lKf55KCnnz"
+    },
+    {
+      "album": {
         "name": "Berry Is On Top",
         "url": "https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL"
       },
@@ -2183,10 +2317,28 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 136000,
       "name": "Keep A-Knockin'",
       "url": "https://open.spotify.com/track/7jkPCXETejn3V1wkvu03AC"
+    },
+    {
+      "album": {
+        "name": "The Essential Little Richard",
+        "url": "https://open.spotify.com/album/7tmbNQrDZHuLYKXFiEWlwf"
+      },
+      "artists": [
+        {
+          "name": "Little Richard",
+          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138266,
+      "name": "Keep A-Knockin'",
+      "url": "https://open.spotify.com/track/23HHXTq3Ms5p2gP9fgdC0i"
     },
     {
       "album": {
@@ -2237,7 +2389,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 143053,
       "name": "Little Bitty Pretty One",
       "url": "https://open.spotify.com/track/1ye9IP87nKYZ5YAGaEv9A1"
@@ -2525,7 +2677,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 113200,
       "name": "Love Potion No. 9 - Remastered / Single Version",
       "url": "https://open.spotify.com/track/5ytPMYb6dkoli8sNSEsdmZ"
@@ -2615,7 +2767,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 159906,
       "name": "Magic Moments",
       "url": "https://open.spotify.com/track/7bflxIMDz5mFxhQyYx1CEh"
@@ -2637,6 +2789,32 @@
       "duration_ms": 161854,
       "name": "Magic Moments",
       "url": "https://open.spotify.com/track/4M1wetsQ0kt4WjAsFRPSfE"
+    },
+    {
+      "album": {
+        "name": "Perry Como's Greatest Hits",
+        "url": "https://open.spotify.com/album/1Xn52rnZPmftC6oPyNOTfv"
+      },
+      "artists": [
+        {
+          "name": "Perry Como",
+          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
+        },
+        {
+          "name": "Mitchell Ayres & His Orchestra",
+          "url": "https://open.spotify.com/artist/0HS96tPggl2nwiz3gNWWI5"
+        },
+        {
+          "name": "The Ray Charles Singers",
+          "url": "https://open.spotify.com/artist/2FbG2PIAVFvzszwgz2QuOL"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160866,
+      "name": "Magic Moments (with Mitchell Ayres and His Orchestra & The Ray Charles Singers)",
+      "url": "https://open.spotify.com/track/07OIXczhr8Zc8hdZAvqn5R"
     },
     {
       "album": {
@@ -2817,6 +2995,24 @@
       "duration_ms": 160266,
       "name": "Money (That's What I Want)",
       "url": "https://open.spotify.com/track/0jqr2lIlIU09FsuSOibDdA"
+    },
+    {
+      "album": {
+        "name": "NOW That's What I Call Motown",
+        "url": "https://open.spotify.com/album/4oE29r8F2noxVV9VmzdIL4"
+      },
+      "artists": [
+        {
+          "name": "Barrett Strong",
+          "url": "https://open.spotify.com/artist/3MKwHkhEjcvzva2rasZeWD"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156186,
+      "name": "Money (That's What I Want) - Single Version / Mono",
+      "url": "https://open.spotify.com/track/1nuxlcT2IQOzzz8hPB1MZw"
     },
     {
       "album": {
@@ -3126,6 +3322,24 @@
     },
     {
       "album": {
+        "name": "20 Greatest Hits",
+        "url": "https://open.spotify.com/album/09nAYtzH6WxFHsJaNuyhHX"
+      },
+      "artists": [
+        {
+          "name": "The Platters",
+          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164720,
+      "name": "Only You (And You Alone)",
+      "url": "https://open.spotify.com/track/589PFo4skIwLyXdBhKDREh"
+    },
+    {
+      "album": {
         "name": "Pure Gold",
         "url": "https://open.spotify.com/album/4D8PfDrsA4I4TegMAMjGjk"
       },
@@ -3333,7 +3547,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 168480,
       "name": "Rags to Riches",
       "url": "https://open.spotify.com/track/4BH8EuPAxeFAh1rSWtnGdD"
@@ -3688,6 +3902,24 @@
     },
     {
       "album": {
+        "name": "Oldies Hits",
+        "url": "https://open.spotify.com/album/01jEdlExRQM7nPYF8UJQDr"
+      },
+      "artists": [
+        {
+          "name": "The Chords",
+          "url": "https://open.spotify.com/artist/3xXSg1WJPGJuNjQV0REAzk"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144493,
+      "name": "Sh-Boom",
+      "url": "https://open.spotify.com/track/0qlLEZdBA4DsOHZz9HZjD5"
+    },
+    {
+      "album": {
         "name": "Doo Wop Classics, Vol. 6",
         "url": "https://open.spotify.com/album/6bT7ES8R1gu7H9c5jMNFaX"
       },
@@ -3861,10 +4093,28 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 160933,
       "name": "Smoke Gets In Your Eyes",
       "url": "https://open.spotify.com/track/2vSxjnyrWrtxyfzO47EX6q"
+    },
+    {
+      "album": {
+        "name": "Back To The 50s",
+        "url": "https://open.spotify.com/album/3SIvFkmDVUnXQCx2mtQl67"
+      },
+      "artists": [
+        {
+          "name": "The Platters",
+          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160933,
+      "name": "Smoke Gets In Your Eyes",
+      "url": "https://open.spotify.com/track/5gQWYpz3IarkQ8bJPBTjqK"
     },
     {
       "album": {
@@ -3940,6 +4190,24 @@
     },
     {
       "album": {
+        "name": "Back To The 50s",
+        "url": "https://open.spotify.com/album/3SIvFkmDVUnXQCx2mtQl67"
+      },
+      "artists": [
+        {
+          "name": "Connie Francis",
+          "url": "https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133613,
+      "name": "Stupid Cupid",
+      "url": "https://open.spotify.com/track/1jugCD4d8t310lRCUDLLpq"
+    },
+    {
+      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/5LzeNR0ssOIfaUpNQbthH9"
       },
@@ -3976,6 +4244,28 @@
     },
     {
       "album": {
+        "name": "Coastal Grandma",
+        "url": "https://open.spotify.com/album/77plCf7jVtTFe7jaHbPwVn"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295800,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/2lQ3CwigvuyXbn28EzmMRG"
+    },
+    {
+      "album": {
         "name": "Porgy And Bess",
         "url": "https://open.spotify.com/album/1vvnTmmNWnGmqvVFjVIINf"
       },
@@ -3991,7 +4281,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 298133,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/2gNjmvuQiEd2z9SqyYi8HH"
@@ -4053,6 +4343,24 @@
       "duration_ms": 119360,
       "name": "Summertime Blues",
       "url": "https://open.spotify.com/track/3oAWTk92mZBxKBOKf8mR5v"
+    },
+    {
+      "album": {
+        "name": "50s Classics",
+        "url": "https://open.spotify.com/album/03l47fDy2CbljsYE8kSUfU"
+      },
+      "artists": [
+        {
+          "name": "Eddie Cochran",
+          "url": "https://open.spotify.com/artist/1p0t3JtUTayV2wb1RGN9mO"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119360,
+      "name": "Summertime Blues",
+      "url": "https://open.spotify.com/track/4X5DHNeVSJBUFwlfjFwDvK"
     },
     {
       "album": {
@@ -4157,7 +4465,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 185000,
       "name": "Tennessee Waltz",
       "url": "https://open.spotify.com/track/0BHroBUvBAp561BYqC9LRK"
@@ -4197,6 +4505,28 @@
       "duration_ms": 150133,
       "name": "That'll Be The Day",
       "url": "https://open.spotify.com/track/50RwvvEKX5Q7AZt8FTAwIF"
+    },
+    {
+      "album": {
+        "name": "Piosenki z Film\u00f3w",
+        "url": "https://open.spotify.com/album/5XppDzLQLDzEAKrpQQwKqi"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        },
+        {
+          "name": "Dick Stabile And His Orchestra",
+          "url": "https://open.spotify.com/artist/0liyb0PPDyu3pfG7WZtsxO"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187626,
+      "name": "That's Amore",
+      "url": "https://open.spotify.com/track/3chhqO7z6nVOf1fdhcyKFn"
     },
     {
       "album": {
@@ -4353,7 +4683,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 142693,
       "name": "The Theme from \"A Summer Place\"",
       "url": "https://open.spotify.com/track/6zwvB879PJSpTyFcg2wwnL"
@@ -4555,7 +4885,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 144483,
       "name": "Venus",
       "url": "https://open.spotify.com/track/5kqXQHIgQ6UfFP9LfqPNgG"
@@ -4681,7 +5011,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 124200,
       "name": "What Do You Want to Make Those Eyes at Me for",
       "url": "https://open.spotify.com/track/5LpUlD9Egwtf4SgDRE9HVs"
@@ -4797,7 +5127,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 139666,
       "name": "Why Do Fools Fall in Love",
       "url": "https://open.spotify.com/track/2xKfXRhw5xaUXfevJJspZf"
@@ -4880,6 +5210,24 @@
     },
     {
       "album": {
+        "name": "R&B Hits",
+        "url": "https://open.spotify.com/album/0KZbfZuFELbj8uZne1TiG2"
+      },
+      "artists": [
+        {
+          "name": "The Coasters",
+          "url": "https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113040,
+      "name": "Yakety Yak",
+      "url": "https://open.spotify.com/track/2E7kMvF5PNJGVQPLTimra3"
+    },
+    {
+      "album": {
         "name": "Rhino Hi-Five: The Coasters",
         "url": "https://open.spotify.com/album/2Yvat4w8j7hrJ1JVUz0wAw"
       },
@@ -4909,7 +5257,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 116026,
       "name": "Yakety Yak - 2007 Remaster",
       "url": "https://open.spotify.com/track/3Lbxie6whOW4eMt4jtI32k"
@@ -4945,7 +5293,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 193666,
       "name": "You Belong To Me",
       "url": "https://open.spotify.com/track/2NDMLabAjx4oL7ezx2PNxS"
@@ -5039,6 +5387,24 @@
       "duration_ms": 163560,
       "name": "You Send Me",
       "url": "https://open.spotify.com/track/7fPOOCejoBt3dIm6UcEdm8"
+    },
+    {
+      "album": {
+        "name": "The Goodfellas Generation",
+        "url": "https://open.spotify.com/album/7utOAX2RHKGtAiw2qRVsKB"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168933,
+      "name": "You Send Me",
+      "url": "https://open.spotify.com/track/0IzjDwh5z66OJPT83bYTT4"
     },
     {
       "album": {

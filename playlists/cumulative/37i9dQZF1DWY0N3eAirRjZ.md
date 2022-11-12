@@ -4,13 +4,14 @@
 
 > From slack\-key masters to songwriting royals, Native Hawaiians have been behind the isles' most memorable music\. Cover: Keauhou
 
-67 songs - 4 hr 14 min - [published](https://open.spotify.com/playlist/1jo88XDGrRdHEAZh0fJEh3)
+68 songs - 4 hr 19 min - [published](https://open.spotify.com/playlist/1jo88XDGrRdHEAZh0fJEh3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| ['Ulili E \- The Wandering Tattler](https://open.spotify.com/track/7zyaeT1r2sjm9r1D74R6YR) | [Dennis Kamakahi](https://open.spotify.com/artist/2Ntbsut1zuMvsXBTDGj18Y), [David Kamakahi](https://open.spotify.com/artist/5802fcyYOOyqi780xWf2VK) | [Hawaiian Slack Key Guitar Masters, Vol\. 2](https://open.spotify.com/album/5qXmNWu8kCLrce2EkbkPrr) | 4:16 | 2022-10-14 |  |
 | ['Ulupalakua](https://open.spotify.com/track/2BLgfaenzrOblHnbojP3KY) | [Hui Ohana](https://open.spotify.com/artist/7vDfRi57oGVgERsAO16cZ1), [Ledward Kaapana](https://open.spotify.com/artist/4rbuIw9Fa3U8yCZuK2Ig1K), [Nedward Ka'apana](https://open.spotify.com/artist/3ltZsnKXs9TkOCL4fhFMhR), [Dennis Pavao](https://open.spotify.com/artist/0cjSMcAplLjxMqkXD6xWSX) | [Young Hawaii Plays Old Hawaii](https://open.spotify.com/album/73EtyWy6eklV217lXyE89J) | 2:29 | 2022-05-02 |  |
 | ['Ülili E \- vocal duet with David Kamakahi](https://open.spotify.com/track/3bk9omZQSOmqpEo19iz1Xp) | [Dennis Kamakahi](https://open.spotify.com/artist/2Ntbsut1zuMvsXBTDGj18Y) | [Ohana](https://open.spotify.com/album/5pqQAWqUSg4By78q9Ngx9C) | 4:19 | 2022-05-02 | 2022-07-29 |
-| ['Ūlili E](https://open.spotify.com/track/3CyKFRT6jd0ADhxfDp7xif) | [Dennis Kamakahi](https://open.spotify.com/artist/2Ntbsut1zuMvsXBTDGj18Y), [David Kamakahi](https://open.spotify.com/artist/5802fcyYOOyqi780xWf2VK) | ['Ohana](https://open.spotify.com/album/38FeFAx49WBtJtC9hVg776) | 4:17 | 2022-05-02 |  |
+| ['Ūlili E](https://open.spotify.com/track/3CyKFRT6jd0ADhxfDp7xif) | [Dennis Kamakahi](https://open.spotify.com/artist/2Ntbsut1zuMvsXBTDGj18Y), [David Kamakahi](https://open.spotify.com/artist/5802fcyYOOyqi780xWf2VK) | ['Ohana](https://open.spotify.com/album/38FeFAx49WBtJtC9hVg776) | 4:17 | 2022-05-02 | 2022-11-12 |
 | [A Place In The Sun](https://open.spotify.com/track/3dXFwE9yIXuotnjN7wsP2N) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3), [Paula Fuga](https://open.spotify.com/artist/6ja6QKojqolpOJpChYXHTf) | [Jake & Friends](https://open.spotify.com/album/55TghcfDJdSXWfsSlkfQwe) | 4:16 | 2022-05-02 | 2022-11-11 |
 | [A Place In The Sun](https://open.spotify.com/track/6bihRFJEMi8nDcC2zIwQKp) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Jack Johnson with Paula Fuga](https://open.spotify.com/artist/6C2EeNTJVptYpWFqeh6ifU) | [Why Not](https://open.spotify.com/album/6EewmAh99YpSBvAfC8nV8o) | 4:16 | 2022-10-14 |  |
 | [A Place In The Sun \(feat\. Jack Johnson with Paula Fuga\)](https://open.spotify.com/track/1g9zSBL1faQ12FBBuvVlZ5) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3), [Paula Fuga](https://open.spotify.com/artist/6ja6QKojqolpOJpChYXHTf) | [Why Not](https://open.spotify.com/album/5u6B01T3unVu8ZuHUxGiID) | 4:16 | 2022-05-02 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2LcZVHsTdv.md) - [plain]
 
 > The country way of testifying\. Cover: Darius Rucker
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,008 likes - 133 songs - 8 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,070 likes - 133 songs - 8 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2LcZVHsTdv.md) - [plain]
 | 31 | [Something in the Water](https://open.spotify.com/track/10RQKVSr4rS0coExTmi4dF) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Greatest Hits: Decade \#1](https://open.spotify.com/album/3TqvvuCMcTpSjFvAToQT8A) | 3:58 |
 | 32 | [For All My Life](https://open.spotify.com/track/2nrdOrcmcHdVh8gz7WJ9Kh) | [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [For All My Life](https://open.spotify.com/album/7pNIPNugChX2AXGBPAISXm) | 3:30 |
 | 33 | [A Little Love](https://open.spotify.com/track/6dtFZkJdNJljSlWI9dL1kg) | [Gary LeVox](https://open.spotify.com/artist/6daR4Ec3o6K4VJnRcPM6w6), [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [One On One](https://open.spotify.com/album/5UGVoX8a8k9bh46FWaVWcr) | 3:08 |
-| 34 | [Long Black Train](https://open.spotify.com/track/2HqCaO7BV010qXS5FuiTED) | [Josh Turner](https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT) | [Long Black Train](https://open.spotify.com/album/7DgePplMBaKbi8l5c8s64n) | 4:10 |
+| 34 | [Long Black Train](https://open.spotify.com/track/48Qs4WAbfw6ZC7xApFoLkW) | [Josh Turner](https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT) | [Country Songs With Color In The Title](https://open.spotify.com/album/23YMyZJ5Uxm2ydPuCo2FO3) | 4:10 |
 | 35 | [If That Ain't God](https://open.spotify.com/track/2wD4EACbGI6zfKXEAKJmBV) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q) | [If That Ain't God](https://open.spotify.com/album/6zJ23RQJ1NeubHuCzyvPlE) | 3:30 |
-| 36 | [Today](https://open.spotify.com/track/1IO13V09b01gLSbmZJZ9dM) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Love and War](https://open.spotify.com/album/43xH1kPS7aNKc2WJtUHRAs) | 3:49 |
+| 36 | [Today](https://open.spotify.com/track/0ykWGiYuB9gJmEcvSSS0aj) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [NOW That's What I Call Country Vol\. 10 \(Deluxe Edition\)](https://open.spotify.com/album/3PJeU5QNgycnIXNNrRPjFX) | 3:42 |
 | 37 | [All I See](https://open.spotify.com/track/1OIhubEHsc9JJskFkqa1h3) | [Gary LeVox](https://open.spotify.com/artist/6daR4Ec3o6K4VJnRcPM6w6), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [One On One](https://open.spotify.com/album/5UGVoX8a8k9bh46FWaVWcr) | 2:58 |
 | 38 | [The Heaven I'm Headed To](https://open.spotify.com/track/48TO77FBMrQl7hU1aGGwm5) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Long Trip Alone](https://open.spotify.com/album/2xONRhFNwgzkxM26JK9YI6) | 4:29 |
 | 39 | [God Must Really Love Me](https://open.spotify.com/track/391V2jmxaLRwm5rqC2WJyR) | [Craig Morgan](https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD) | [That's Why](https://open.spotify.com/album/2yaPAemFbhH61a8w5VOWAt) | 3:41 |
@@ -142,4 +142,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2LcZVHsTdv.md) - [plain]
 | 132 | [Hold On \(feat\. Lauren Weintraub\)](https://open.spotify.com/track/1HkOYPY5Gx4CPYbCd6leKb) | [Brandon Ray](https://open.spotify.com/artist/7uOj7ISCtmaA0BctMszzAw), [Lauren Weintraub](https://open.spotify.com/artist/0eYsDVXAe2mc4F8QrBLHAq) | [Hold On \(feat\. Lauren Weintraub\)](https://open.spotify.com/album/2CXIMjsdCGnMQQbodq2ZmB) | 3:18 |
 | 133 | [Like Jesus Does](https://open.spotify.com/track/3wxgj5N8ZKoZWHDw6FJUf2) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Chief](https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF) | 3:18 |
 
-Snapshot ID: `MTY2NzUzNDQwMCwwMDAwMDAwMDg1ZjgzOGNkMGE3NGQ3MGNmNjYyMGI5NTc4MGJjNzg0`
+Snapshot ID: `MTY2NzUzNDQwMCwwMDAwMDAwMGYyYjJmOTQ3MWIyMTkzMjI1YTY5YTE4MTE1ZGU1MzEx`

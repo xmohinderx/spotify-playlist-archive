@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Bárbara Bandeira e Ivandro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,365 likes - 59 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,426 likes - 60 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 31 | [Lá Fora](https://open.spotify.com/track/2tcqz3Az2AEB3ui0yAvdWr) | [Dino d'Santiago](https://open.spotify.com/artist/7qb2GMJaX4HeXqqPPyYdlr), [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Lá Fora](https://open.spotify.com/album/4RBovD9AuQkPGJ8Tpz9Bpg) | 3:06 |
 | 32 | [Essa Saia](https://open.spotify.com/track/2OI0z4fQD8NQPfYf5v6a2E) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Essa Saia](https://open.spotify.com/album/47vPVhxPOVncM7tPBxFlFX) | 3:29 |
 | 33 | [Saudade](https://open.spotify.com/track/0dLrhO7oCMp0hQvXAUgbaC) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Reflexo](https://open.spotify.com/album/7zr66qWybr1mAMSUVVosKU) | 5:06 |
-| 34 | [Sons de Amor](https://open.spotify.com/track/44PSI3qwDKTTBa4TbqpjnL) | [ANDREZO](https://open.spotify.com/artist/4gHzU6X4vIGR06pt7mlX60), [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj) | [Sons de Amor](https://open.spotify.com/album/7sov1YBuhBoydHePYGr69s) | 4:14 |
-| 35 | [Backstage](https://open.spotify.com/track/7eoputmT8ACWDmhVFuYFS8) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Ngana Zambi](https://open.spotify.com/album/4ZgWBr16niSFDwCIiJ4iBk) | 4:16 |
+| 34 | [Backstage](https://open.spotify.com/track/7eoputmT8ACWDmhVFuYFS8) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Ngana Zambi](https://open.spotify.com/album/4ZgWBr16niSFDwCIiJ4iBk) | 4:16 |
+| 35 | [Sons de Amor](https://open.spotify.com/track/44PSI3qwDKTTBa4TbqpjnL) | [ANDREZO](https://open.spotify.com/artist/4gHzU6X4vIGR06pt7mlX60), [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj) | [Sons de Amor](https://open.spotify.com/album/7sov1YBuhBoydHePYGr69s) | 4:14 |
 | 36 | [PRA MIM](https://open.spotify.com/track/1wxLvOhDguWTLAJN0HW87J) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [PRA MIM](https://open.spotify.com/album/4o64dSERjVp8ZJc12BYzJJ) | 2:33 |
 | 37 | [Salto Alto](https://open.spotify.com/track/3sIXzuNgN9HrC7amkEQWiP) | [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC) | [Salto Alto](https://open.spotify.com/album/0uatAqfa3VviB7GZuUXd6l) | 3:39 |
 | 38 | [Hospedeira](https://open.spotify.com/track/3M0jzvLAw4gfwm8VOyIJE9) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6), [Deezy](https://open.spotify.com/artist/6EoXtJUmzYqNzkMVH1o5gN), [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [Hospedeira](https://open.spotify.com/album/70RrsVJWce6JhWGVG4vDgm) | 4:25 |
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 45 | [Rubi](https://open.spotify.com/track/4aStXzYiJWQvdspHEn6GJN) | [Myles 6ix](https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l), [Midas](https://open.spotify.com/artist/6bLqHfd3myOdJyC4z6Blhj) | [Rubi](https://open.spotify.com/album/5GZRN9j6B5N7Gk5jtvaRtM) | 3:43 |
 | 46 | [Tequila \(Studio Version\)](https://open.spotify.com/track/5daT88Zml8Stpw2oTeesJx) | [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1) | [Tequila \(Studio Version\)](https://open.spotify.com/album/75KlUT1wTgMEuYSdhUBT8M) | 3:19 |
 | 47 | [Toque](https://open.spotify.com/track/7M5PkzdYJwhxoDd4HXxKOx) | [MUN](https://open.spotify.com/artist/0XWmIDUMxka9p2aayQ9MOr), [Cunha Beats](https://open.spotify.com/artist/7D094QVmbEkI7e2df0VUq7) | [Toque](https://open.spotify.com/album/6vnfqWycFld3plYH4YeRHC) | 3:16 |
-| 48 | [Ka nu komplika](https://open.spotify.com/track/4m1wnxbGmnKLE8BsWy6pBD) | [Ricky Man](https://open.spotify.com/artist/3rfltEHnMqq67JqiCU0s6n), [Valter LS](https://open.spotify.com/artist/3HluRyydje2ZZVhFvwXl5P) | [Ka nu komplika](https://open.spotify.com/album/0jVrhfP5LcnoJMftzS7ueW) | 3:19 |
+| 48 | [Ka nu komplika](https://open.spotify.com/track/4m1wnxbGmnKLE8BsWy6pBD) | [Ricky Man](https://open.spotify.com/artist/3rfltEHnMqq67JqiCU0s6n), [Valter Ls](https://open.spotify.com/artist/6tUbiFgsJZ1mTC4XU7EIAW) | [Ka nu komplika](https://open.spotify.com/album/0jVrhfP5LcnoJMftzS7ueW) | 3:19 |
 | 49 | [Novo Demais](https://open.spotify.com/track/5oSmue3lpl1Ur8RkMFRj32) | [TRIQ](https://open.spotify.com/artist/3Xk6FbumarAUp9dsJ3AoLd), [eaux](https://open.spotify.com/artist/0AtdC5zNnXJq428tUMW7uh) | [Novo Demais](https://open.spotify.com/album/66py2LrNUY7Q6zXrEo8vjH) | 3:08 |
 | 50 | [Naufrágio](https://open.spotify.com/track/3B1Dx1Aw35feOLmZXuGf7t) | [Rikas](https://open.spotify.com/artist/4Vfwk2pzV3ppLQ93PtT54a) | [Naufrágio](https://open.spotify.com/album/02LpaXLNwr4dcPDYMXl131) | 2:14 |
 | 51 | [Última Vez](https://open.spotify.com/track/3IBrb6eBXyPo1EN4ElkLQI) | [Waze](https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm), [Edgar Domingos](https://open.spotify.com/artist/24ln2MhGkr8aWPhqrgQ7LZ) | [Última Vez](https://open.spotify.com/album/5qUi6QhO9E4cbVKvJHDiOW) | 3:25 |
@@ -63,9 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 53 | [Slow Motion](https://open.spotify.com/track/21SPIQSg34YDZTJNIybhBE) | [Camy Breezy](https://open.spotify.com/artist/1j8AO6p658k4Zv7q7WMWZZ) | [Slow Motion](https://open.spotify.com/album/3wMiRqzoARY1TtiPOvAnAg) | 3:06 |
 | 54 | [UP](https://open.spotify.com/track/50etRztTYtGrwhUi0MV7JX) | [DX](https://open.spotify.com/artist/0omUGjQF2J7gdIUaJqlnzR) | [UP](https://open.spotify.com/album/79gzyakOLwnxmy7mWW4MZi) | 2:37 |
 | 55 | [Papa](https://open.spotify.com/track/5zDpSgXwGPxoFMzU4ibble) | [MeLodee](https://open.spotify.com/artist/20NGAx3Juv4HaGjwBM9bpj) | [Papa](https://open.spotify.com/album/3aosEAehvS4wa2kTTTYIuY) | 2:58 |
-| 56 | [Paralyzed.](https://open.spotify.com/track/02DGElKTTgmjelTjCPIPW5) | [zozyy!](https://open.spotify.com/artist/0ZaZIdgE7KOclOmuPzYJYR) | [Paralyzed.](https://open.spotify.com/album/4Tx03iHA9H5vxY2ZwSjTR5) | 2:12 |
-| 57 | [Caixa De Pandora](https://open.spotify.com/track/5kqqiREyjP4QA4u1VvlcWj) | [Zalo](https://open.spotify.com/artist/401NM4m2Jvdjk0jH0B9YgL) | [Caixa De Pandora](https://open.spotify.com/album/0XK0GP79Ygn7QrdcvehAK8) | 2:44 |
-| 58 | [Não Reclama](https://open.spotify.com/track/15FPsKZZPKJHepWm7cGssD) | [INFANTE](https://open.spotify.com/artist/3fPlXnjAgjxRkkv8XB1XMv), [Sacik Brow](https://open.spotify.com/artist/1n07xtEZwz3p8l5o7X8xo5) | [Não Reclama](https://open.spotify.com/album/4zFZjZXGisOmgHhZuvY26D) | 2:46 |
-| 59 | [Lumi](https://open.spotify.com/track/3T730d6ZWMwVnMXE51v2eY) | [Gang Mka](https://open.spotify.com/artist/0KXnikJ0xyK7bm4zOd5bs3) | [Lumi](https://open.spotify.com/album/0wx0yTWfXM641rHK9rFSr6) | 3:14 |
+| 56 | [Não Reclama](https://open.spotify.com/track/15FPsKZZPKJHepWm7cGssD) | [INFANTE](https://open.spotify.com/artist/3fPlXnjAgjxRkkv8XB1XMv), [Sacik Brow](https://open.spotify.com/artist/1n07xtEZwz3p8l5o7X8xo5) | [Não Reclama](https://open.spotify.com/album/4zFZjZXGisOmgHhZuvY26D) | 2:46 |
+| 57 | [Paralyzed.](https://open.spotify.com/track/02DGElKTTgmjelTjCPIPW5) | [zozyy!](https://open.spotify.com/artist/0ZaZIdgE7KOclOmuPzYJYR) | [Paralyzed.](https://open.spotify.com/album/4Tx03iHA9H5vxY2ZwSjTR5) | 2:12 |
+| 58 | [Caixa De Pandora](https://open.spotify.com/track/5kqqiREyjP4QA4u1VvlcWj) | [Zalo](https://open.spotify.com/artist/401NM4m2Jvdjk0jH0B9YgL) | [Caixa De Pandora](https://open.spotify.com/album/0XK0GP79Ygn7QrdcvehAK8) | 2:44 |
+| 59 | [Longe](https://open.spotify.com/track/6f8pxYAEPtolYp4JKdh4YB) | [Dinis Mota](https://open.spotify.com/artist/4ZtaPrKdemEzqprB4bIzdx) | [Longe](https://open.spotify.com/album/0dX4dmqGhGmbDxiDq2ya1Q) | 3:45 |
+| 60 | [Lumi](https://open.spotify.com/track/3T730d6ZWMwVnMXE51v2eY) | [Gang Mka](https://open.spotify.com/artist/0KXnikJ0xyK7bm4zOd5bs3) | [Lumi](https://open.spotify.com/album/0wx0yTWfXM641rHK9rFSr6) | 3:14 |
 
-Snapshot ID: `MTY2ODEyNDgwMCwwMDAwMDAwMDM5ZGQxMzYzYTQ0ZDNiZjk2MjIwMmM1MDM5YWNiZTMy`
+Snapshot ID: `MTY2ODEyNDgwMCwwMDAwMDAwMGUxYTk4OTFiYjhhYjU0MWVhZDlkNTMyOGE4NjBiNWI2`

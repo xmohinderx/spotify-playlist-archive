@@ -4,7 +4,7 @@
 
 > V\-Pop đã đơm hoa trên những khúc ca này\. Ảnh bìa: Tóc Tiên
 
-120 songs - 7 hr 56 min - [published](https://open.spotify.com/playlist/0wzTwcfKaOgiicu3axKIAh)
+121 songs - 8 hr 0 min - [published](https://open.spotify.com/playlist/0wzTwcfKaOgiicu3axKIAh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,8 +44,9 @@
 | [Cơn Đau](https://open.spotify.com/track/6hLEsk1t37XKNwtTQ3iI1b) | [Wren Evans](https://open.spotify.com/artist/5M3ffmRiOX9Q8Y4jNeR5wu) | [Cơn Đau](https://open.spotify.com/album/2HFJlexWqI9WnoMZ9K1N65) | 3:39 | 2022-07-05 | 2022-08-08 |
 | [Cứ Chill Thôi](https://open.spotify.com/track/014DA3BdnmD3kI5pBogH7c) | [Chillies](https://open.spotify.com/artist/2xvW7dgL1640K8exTcRMS4), [Suni Hạ Linh](https://open.spotify.com/artist/4x1fUORHa2EsxrQ6ZzAoQ0), [Rhymastic](https://open.spotify.com/artist/0gGd4WhPXBSgDX6fdOHcOw) | [Cứ Chill Thôi](https://open.spotify.com/album/7FEh6eJumH2tqhXKfQ5Tul) | 4:30 | 2022-05-27 | 2022-09-07 |
 | [Diễn viên tồi](https://open.spotify.com/track/3pgwxYRPbYIC6C1J2FPge8) | [Đen](https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi), [Thành Bùi](https://open.spotify.com/artist/4indpWjPPQ0lLAtYihnI5j), [Cadillac](https://open.spotify.com/artist/4nYRl0uyEIGfhe5uR8aUVc) | [Diễn viên tồi](https://open.spotify.com/album/0VcUiF3nAK2UWeWpRzESob) | 5:49 | 2022-09-18 | 2022-10-04 |
-| [Dù Cho Mai Về Sau](https://open.spotify.com/track/4Iz5EWPCAT8jYNk4IpLoll) | [buitruonglinh](https://open.spotify.com/artist/7Cp2hGcriAaDUAWpXnSEwm) | [Dù Cho Mai Về Sau](https://open.spotify.com/album/38rXnQ4McNlZGTA3WNPNc1) | 3:53 | 2022-07-27 |  |
+| [Dù Cho Mai Về Sau](https://open.spotify.com/track/4Iz5EWPCAT8jYNk4IpLoll) | [buitruonglinh](https://open.spotify.com/artist/7Cp2hGcriAaDUAWpXnSEwm) | [Dù Cho Mai Về Sau](https://open.spotify.com/album/38rXnQ4McNlZGTA3WNPNc1) | 3:53 | 2022-07-27 | 2022-11-12 |
 | [Dù Cho Mai Về Sau](https://open.spotify.com/track/5SUXc3Xe4GaWyDo45v6Lea) | [buitruonglinh](https://open.spotify.com/artist/7Cp2hGcriAaDUAWpXnSEwm) | [Dù Cho Mai Về Sau](https://open.spotify.com/album/493DApdcbUofbYUTNvHySe) | 3:53 | 2022-05-27 | 2022-07-29 |
+| [Dù Cho Mai Về Sau](https://open.spotify.com/track/6mGfDpzpCgaw0CSqbBQQOr) | [buitruonglinh](https://open.spotify.com/artist/7Cp2hGcriAaDUAWpXnSEwm) | [Dù Cho Mai Về Sau](https://open.spotify.com/album/3F7mY0fIvUaVWY8KLu3xlr) | 3:53 | 2022-11-07 |  |
 | [dằm trong tim](https://open.spotify.com/track/1QwSqNlknVSTdmmtjsOGM9) | [Suni Hạ Linh](https://open.spotify.com/artist/4x1fUORHa2EsxrQ6ZzAoQ0), [TDK](https://open.spotify.com/artist/30x6rCQm4CuabePneJLGj7) | [Hương Mùa Hè](https://open.spotify.com/album/1w74ARpNNB3ybFNhs4qWmV) | 3:50 | 2022-08-04 | 2022-09-12 |
 | [Dịu Dàng Em Đến](https://open.spotify.com/track/63q4o5Nh1ykbhdo4rKEW9c) | [ERIK](https://open.spotify.com/artist/1L1VfizWn4DkFt602yD80U) | [Dịu Dàng Em Đến](https://open.spotify.com/album/7EDzv1QVhowskAgwxtx3HT) | 3:05 | 2022-05-27 |  |
 | [Em Day Chang Phai Thuy Kieu](https://open.spotify.com/track/031jyNUkkD02vrkgZDGJxu) | [Hoang Thuy Linh](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL) | [Hoang](https://open.spotify.com/album/4gfu67H8oClhhE4XT5JL2u) | 3:34 | 2022-05-27 |  |

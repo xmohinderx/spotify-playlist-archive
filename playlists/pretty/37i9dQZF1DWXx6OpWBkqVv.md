@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXx6OpWBkqVv.md) - [plain]
 
 > Você já dançou muito essas músicas num inferninho insalubre\. Foto: The Strokes
 
-[Spotify](https://open.spotify.com/user/spotify) - 626,796 likes - 65 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 626,875 likes - 65 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXx6OpWBkqVv.md) - [plain]
 | 17 | [R U Mine?](https://open.spotify.com/track/2AT8iROs4FQueDv2c8q2KE) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 3:21 |
 | 18 | [Reptilia](https://open.spotify.com/track/57Xjny5yNzAcsxnusKmAfA) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Room On Fire](https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh) | 3:39 |
 | 19 | [New Slang \- 2021 Remaster](https://open.spotify.com/track/0NslHuacjxQYfUTOW3HCIV) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Oh, Inverted World \(20th Anniversary Remaster\)](https://open.spotify.com/album/5XmhHMj5LZLWo32aA6ntKE) | 3:50 |
-| 20 | [Seven Nation Army](https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Elephant](https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE) | 3:52 |
+| 20 | [Seven Nation Army](https://open.spotify.com/track/03OGe1S2a7i35BmuKbWaHk) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Seven Nation Army](https://open.spotify.com/album/2ntSwmOLAM0fMML87wtLKq) | 3:52 |
 | 21 | [Somebody Told Me](https://open.spotify.com/track/2oWdng9n3DF45F9vjHW0vw) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Skater Head](https://open.spotify.com/album/2S74SV29dhkiWtYZZ83PHr) | 3:20 |
 | 22 | [Last Nite](https://open.spotify.com/track/3SUusuA9jH1v6PVwtYMbdv) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE) | 3:13 |
 | 23 | [Paranoid Android \- Remastered](https://open.spotify.com/track/2fCSulwhjYvNxKbh67d4Pd) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer OKNOTOK 1997 2017](https://open.spotify.com/album/0tzfI6NFJqcJkWb23R3lRZ) | 6:23 |
@@ -37,20 +37,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXx6OpWBkqVv.md) - [plain]
 | 27 | [Psycho Killer \- 2005 Remaster](https://open.spotify.com/track/1i6N76fftMZhijOzFQ5ZtL) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Talking Heads '77 \(Deluxe Version\)](https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN) | 4:21 |
 | 28 | [All My Friends](https://open.spotify.com/track/2Ud3deeqLAG988pfW0Kwcl) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [Sound of Silver](https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X) | 7:42 |
 | 29 | [Royals](https://open.spotify.com/track/0qGCzzz30OoVojzk75ZpEJ) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Housewarming Party](https://open.spotify.com/album/786LD8nfGKWTgMockhmQrT) | 3:09 |
-| 30 | [Take Me Out](https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Franz Ferdinand](https://open.spotify.com/album/0vi5ePiEHrGZJF7QhnDW2z) | 3:57 |
+| 30 | [Take Me Out](https://open.spotify.com/track/30980KluJ3BlKbKUx7LPZR) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Hits To The Head](https://open.spotify.com/album/1NKpK2wzsNlIf59OvO2RVb) | 3:59 |
 | 31 | [Breezeblocks](https://open.spotify.com/track/3n69hLUdIsSa1WlRmjMZlW) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [An Awesome Wave](https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL) | 3:47 |
 | 32 | [Girls & Boys](https://open.spotify.com/track/5CeL9C3bsoe4yzYS1Qz8cw) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur: The Best Of](https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x) | 4:19 |
 | 33 | [Starlight](https://open.spotify.com/track/3skn2lauGk7Dx6bVIt5DVj) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Black Holes and Revelations](https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs) | 4:00 |
 | 34 | [Maps](https://open.spotify.com/track/51d8xMd8YK29y12Zv73tzi) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [RockAndLove](https://open.spotify.com/album/5i8vucIGJY8GqQFxTwKp00) | 3:34 |
 | 35 | [First](https://open.spotify.com/track/4foq9UaCBFLWctCeVxLSSF) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Hold My Home \(Deluxe Edition\)](https://open.spotify.com/album/0TVRC5LerpnNkti1gWsuW7) | 3:20 |
 | 36 | [Ruby](https://open.spotify.com/track/2fAIfPLrPUTW1AmJRR428Q) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Yours Truly, Angry Mob](https://open.spotify.com/album/4J2DGuw6IwLdEwQL94msiU) | 3:24 |
-| 37 | [Angels](https://open.spotify.com/track/3zsRP8rH1kaIAo9fmiP4El) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [Coexist](https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW) | 2:51 |
+| 37 | [Angels](https://open.spotify.com/track/1mpYj5ENPXpxmjRF0oHnTW) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [PAY CLOSE ATTENTION: XL Recordings](https://open.spotify.com/album/3D9vUf511saEHLua6NcOLw) | 2:51 |
 | 38 | [Rebellion \(Lies\)](https://open.spotify.com/track/0xOeB16JDbBJBJKSdHbElT) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Funeral](https://open.spotify.com/album/6ZB8qaR9JNuS0Q0bG1nbcH) | 5:10 |
-| 39 | [Steady, As She Goes](https://open.spotify.com/track/4xlEKYv7HmC8zXoJIbpZKM) | [The Raconteurs](https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc) | [Broken Boy Soldiers](https://open.spotify.com/album/4Z1sCXBHHKWCsScOLAfuig) | 3:35 |
+| 39 | [Steady, As She Goes](https://open.spotify.com/track/19iqWNzp5LwEdvntpEK8MP) | [The Raconteurs](https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc) | [Broken Boy Soldiers](https://open.spotify.com/album/4fDaiqpXlswOza10LvoZHb) | 3:35 |
 | 40 | [Red Eyes](https://open.spotify.com/track/0rUIff1QHd5zlOBtlHVqd9) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [Lost In The Dream](https://open.spotify.com/album/51VxHZphGLsI7aUPqIkJaz) | 4:58 |
 | 41 | [Son Of Sam](https://open.spotify.com/track/6tPiCU4LFsXUQPRIykOAnl) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Figure 8](https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts) | 3:04 |
 | 42 | [Spirits](https://open.spotify.com/track/1VyiUi0mRnSKgtHa5dBoUd) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [Hope](https://open.spotify.com/album/3hR8a4KfoKuRvMDmZB3Di4) | 3:23 |
-| 43 | [Love Will Tear Us Apart \- 2020 Remaster](https://open.spotify.com/track/34iOH7LY3vme5rQxsVILZ4) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [Love Will Tear Us Apart](https://open.spotify.com/album/0u0CJa9zwFbGSU8JWQYS5G) | 3:28 |
+| 43 | [Love Will Tear Us Apart](https://open.spotify.com/track/3VvEhFK7YJFXho2Hwfx9Uk) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [Early 80s](https://open.spotify.com/album/7bb5Hu7BJAkkzM0bDH5Ro4) | 3:24 |
 | 44 | [Pompeii](https://open.spotify.com/track/6xwimEC2kdlu8Yp3hyNtUx) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [\#Throwback Songs](https://open.spotify.com/album/5ruRgEzNiOJ2C1tTSD8dGG) | 3:36 |
 | 45 | [Banquet](https://open.spotify.com/track/2YxXuCdbUpil3P7tRjhW1t) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Silent Alarm](https://open.spotify.com/album/0urhQCsjpczjC8zbTMtd8t) | 3:16 |
 | 46 | [The Look](https://open.spotify.com/track/6zfczP87XO2SxWlQtnjFNa) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [The English Riviera](https://open.spotify.com/album/716fnrS2qXChPC3J2X73pK) | 4:37 |
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXx6OpWBkqVv.md) - [plain]
 | 52 | [Fire](https://open.spotify.com/track/0Ln5tJyLX5qusquBOtq7wf) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [West Ryder Pauper Lunatic Asylum](https://open.spotify.com/album/2DHGeuRTttjurZDb0pSjx6) | 4:12 |
 | 53 | [If You Wanna](https://open.spotify.com/track/3VaCWm6MMabDxJAzpedeQi) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [The Hits](https://open.spotify.com/album/6B8yhZXyWT9BIG3qoSI84x) | 2:54 |
 | 54 | [Alright](https://open.spotify.com/track/5xC8uOesnn0udeXAYlAnoY) | [Supergrass](https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU) | [I Should Coco](https://open.spotify.com/album/3YfIjaJEWqiSbKPguS9Bxd) | 3:00 |
-| 55 | [My Home Away From Home](https://open.spotify.com/track/4vGw3LshPYY14UlqwJfimC) | [Take Me Home](https://open.spotify.com/artist/2GjR5IECGvfoIPvSd1UsUR) | [Coming of Age](https://open.spotify.com/album/0m2XywTCfViuiAcLzrYCNW) | 4:00 |
+| 55 | [My Home Away From Home](https://open.spotify.com/track/136VYKgZ8b97NcYH7oVrvG) | [Take Me Home](https://open.spotify.com/artist/2GjR5IECGvfoIPvSd1UsUR) | [My Home Away from Home](https://open.spotify.com/album/2bwflBfENoLsziu8HNYBWf) | 4:02 |
 | 56 | [Fall To Pieces](https://open.spotify.com/track/7wi0NVbwEcmWHhM8yycQCq) | [Matt and Kim](https://open.spotify.com/artist/4MSMDY0ClgWqXApU53I1L1) | [2010s Alternative Pop For Kids](https://open.spotify.com/album/0Owyh7g4X9qv9kBNB4KLye) | 3:54 |
 | 57 | [Short Skirt / Long Jacket](https://open.spotify.com/track/3OOFEF20WqtsUPcRbPY3L7) | [CAKE](https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV) | [Comfort Eagle](https://open.spotify.com/album/5OCg9OWnL1PY4tW2ON8ssj) | 3:24 |
 | 58 | [Dashboard](https://open.spotify.com/track/0Fe3WxeO6lZZxj7ytvbDUh) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [We Were Dead Before The Ship Even Sank](https://open.spotify.com/album/2lXBCL76UL5PCPbfAqKBkz) | 4:06 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXx6OpWBkqVv.md) - [plain]
 | 60 | [Inside Out](https://open.spotify.com/track/7qCZgvV98j6RjUULW1s1it) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [They Want My Soul](https://open.spotify.com/album/55TZx6GWm1hlEbRgkGRjma) | 5:01 |
 | 61 | [Gronlandic Edit](https://open.spotify.com/track/3X8gOyVXP93Tslnz9Bxw24) | [of Montreal](https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O) | [Hissing Fauna, Are You The Destroyer?](https://open.spotify.com/album/6EHyUWhxAzolO2lQBvuxTH) | 3:24 |
 | 62 | [Heads Will Roll](https://open.spotify.com/track/1YaOIrutGLebjpneXgQqol) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Spring Breakers 2021](https://open.spotify.com/album/3mc7YfYD6vojcREl0OA6Ly) | 3:41 |
-| 63 | [Some Nights](https://open.spotify.com/track/6t6oULCRS6hnI7rm0h5gwl) | [fun.](https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0) | [Some Nights](https://open.spotify.com/album/7iycyHwOW2plljYIK6I1Zo) | 4:37 |
+| 63 | [Some Nights](https://open.spotify.com/track/7y9RwNnys43mjDyg45RylY) | [fun.](https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0) | [Pop Throwback](https://open.spotify.com/album/6R0k7q6n9FP4iAf1aQD0l4) | 4:37 |
 | 64 | [My Number](https://open.spotify.com/track/6qJaB0ZANcuk1F2ou8jdzK) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Classic Indie](https://open.spotify.com/album/7BaGjs9SbQqURlaCBQBkFV) | 3:58 |
 | 65 | [Say It Ain't So](https://open.spotify.com/track/7eTEVei2Q7Umyzk3AmGObC) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Afternoon Rock](https://open.spotify.com/album/4Y6nUfzVt2MYWBrvNUdtey) | 4:18 |
 
-Snapshot ID: `MTY0MjY4MjM5MSwwMDAwMDAwMGFhMDBhMzc5OGQwNjg5ZTJjZWVhM2QwZGFhNWMxMGUw`
+Snapshot ID: `MTY0MjY4MjM5MSwwMDAwMDAwMDlhZjk5N2Q0ZGZkYmE4ZDYxMWNkNzVjZmY4NzFiY2Q0`

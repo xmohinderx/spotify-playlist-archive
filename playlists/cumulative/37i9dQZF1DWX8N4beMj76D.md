@@ -4,7 +4,7 @@
 
 > Speaking to us sweetly from a window in the Tower of Song, this collection includes the legend's own tributes\. Cover: <a href="spotify:artist:5l8VQNuIg0turYE1VtM9zV">Leonard Cohen</a>
 
-76 songs - 5 hr 36 min - [published](https://open.spotify.com/playlist/7kKSsbzwq02y4ei5QnK9pz)
+78 songs - 5 hr 47 min - [published](https://open.spotify.com/playlist/7kKSsbzwq02y4ei5QnK9pz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [Coming Back To You](https://open.spotify.com/track/20kWunnotqJfqz4NmdnleV) | [Martin Gore](https://open.spotify.com/artist/6KQQ6ka4Thwww3kjYqrG0F) | [Tower Of Song \- The Songs Of Leonard Cohen](https://open.spotify.com/album/2Gh98Zgs0pR0ZF5VuUOsXC) | 3:32 | 2018-12-06 |  |
 | [Coming Back To You](https://open.spotify.com/track/5PWUPQ1WHgG7Hk6MIShMd1) | [Martin Gore](https://open.spotify.com/artist/6KQQ6ka4Thwww3kjYqrG0F) | [Tower Of Song \- The Songs Of Leonard Cohen](https://open.spotify.com/album/69XAWWXjY1Cmm8qthc7Gef) | 3:34 | 2018-12-06 | 2022-07-29 |
 | [Dance Me To The End Of Love](https://open.spotify.com/track/4gBdOhWJpOZBTx0fsreDcM) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Queer as Folk \- The Final Season](https://open.spotify.com/album/1MvhUanwf3vj9377tOezPi) | 3:57 | 2018-12-06 | 2022-07-29 |
-| [Dance Me To The End Of Love](https://open.spotify.com/track/13zjNPZUyWvzZC2dlYjW0L) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Careless Love](https://open.spotify.com/album/4Kev9VMY5Ypfo19jRqK6bW) | 3:57 | 2018-12-06 |  |
+| [Dance Me To The End Of Love](https://open.spotify.com/track/0J3zm3hMLDQIOlWSSjJNpu) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Cafe in Bangkok](https://open.spotify.com/album/3xiRTD8CdlPdTNaQbI9AyZ) | 3:57 | 2018-12-06 |  |
+| [Dance Me To The End Of Love](https://open.spotify.com/track/13zjNPZUyWvzZC2dlYjW0L) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Careless Love](https://open.spotify.com/album/4Kev9VMY5Ypfo19jRqK6bW) | 3:57 | 2018-12-06 | 2022-11-12 |
 | [Dance Me to the End of Love \(Bonus\)](https://open.spotify.com/track/6WoJzSRQeROe5MNpf7cPDu) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Barton Hollow](https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E) | 3:05 | 2018-12-06 |  |
 | [Dance Me to the End of Love \(Bonus\) \- Bonus Track](https://open.spotify.com/track/6tZAbv5JEsfqjTpkBOrLje) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Barton Hollow](https://open.spotify.com/album/6yCzOeJHgOnJBP3K6IDPIV) | 3:05 | 2018-12-06 | 2022-07-28 |
 | [Everybody Knows](https://open.spotify.com/track/0W4ALYvdQZfpiOG3wyfZ0f) | [Elizabeth & the Catapult](https://open.spotify.com/artist/6HzkeE2Ggi3n8zB0cX3qiR) | [Taller Children](https://open.spotify.com/album/3qvwnnpiuuknpvB451r2IS) | 3:37 | 2018-12-06 | 2022-10-16 |
@@ -38,6 +39,7 @@
 | [Famous Blue Raincoat](https://open.spotify.com/track/23LCJxdqRMYlnVj5Qg5JuU) | [Tori Amos](https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32) | [Tower Of Song \- The Songs Of Leonard Cohen](https://open.spotify.com/album/69XAWWXjY1Cmm8qthc7Gef) | 5:39 | 2018-12-06 | 2022-07-29 |
 | [First We Take Manhattan](https://open.spotify.com/track/49xcRJXZJpdXC7eqtmWRti) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Drive](https://open.spotify.com/album/2kul45D9k88GoXTx5Bm1YK) | 6:03 | 2018-12-06 | 2022-07-29 |
 | [God Is Alive Magic Is Afoot](https://open.spotify.com/track/4K3glAui6GSMQfYWxC0qy9) | [Buffy Sainte\-Marie](https://open.spotify.com/artist/5exO2eW84QucBhrRhcK76x) | [Illuminations](https://open.spotify.com/album/2tvwygeYPGjkOaIBQCwqHh) | 4:51 | 2018-12-06 |  |
+| [Hallelujah](https://open.spotify.com/track/1zbe9xUzzuFFgwEeqntTs5) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Christmas Classics](https://open.spotify.com/album/397wI1XGpZ1DOuP0Zvq3Xi) | 6:53 | 2018-12-06 |  |
 | [Hallelujah](https://open.spotify.com/track/3pRaLNL3b8x5uBOcsgvdqM) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Grace](https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS) | 6:53 | 2018-12-06 | 2022-11-11 |
 | [Hallelujah](https://open.spotify.com/track/5qv0ohJV2QNwga79jLNDYQ) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [So Real: Songs From Jeff Buckley](https://open.spotify.com/album/2zfb6rtqx4GM3V65hhsCMY) | 6:54 | 2018-12-06 | 2022-07-29 |
 | [Hallelujah](https://open.spotify.com/track/5S0pF13mOsTnYweFwFy4D0) | [k.d\. lang](https://open.spotify.com/artist/6W1BHDF0T4a4KYcSwzD586) | [Recollection](https://open.spotify.com/album/22TXLyA5GOT19O9hIdAHLE) | 5:08 | 2018-12-06 |  |
@@ -66,7 +68,7 @@
 | [Seems So Long Ago, Nancy](https://open.spotify.com/track/7bvWQhPVCyzfnnVGUQRWrw) | [Avalanche Quartet](https://open.spotify.com/artist/6HNv1bfHdugE8iUxdKF2fd) | [Leonard Cohen Songs](https://open.spotify.com/album/2YDw6OjWg3Mg2ArLCful7j) | 4:30 | 2018-12-06 | 2022-07-29 |
 | [Sisters Of Mercy](https://open.spotify.com/track/1t8gcWQNb5bD9XssAzxbcw) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk), [The Chieftains](https://open.spotify.com/artist/6AnrSlk5Gp1YMXgaI3mWCL) | [Tower Of Song \- The Songs Of Leonard Cohen](https://open.spotify.com/album/2Gh98Zgs0pR0ZF5VuUOsXC) | 3:19 | 2018-12-06 |  |
 | [Sisters Of Mercy](https://open.spotify.com/track/2ptC6OVpapv1Y2tXZ6ExPG) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk), [The Chieftains](https://open.spotify.com/artist/6AnrSlk5Gp1YMXgaI3mWCL) | [Tower Of Song \- The Songs Of Leonard Cohen](https://open.spotify.com/album/69XAWWXjY1Cmm8qthc7Gef) | 3:20 | 2018-12-06 | 2022-07-29 |
-| [Song of Bernadette](https://open.spotify.com/track/2dtsFPhGB5YduAoIKekVaT) | [Bette Midler](https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W) | [Bathhouse Betty](https://open.spotify.com/album/73NZUZBj0TJbzaEdW503Yn) | 3:46 | 2018-12-06 |  |
+| [Song of Bernadette](https://open.spotify.com/track/2dtsFPhGB5YduAoIKekVaT) | [Bette Midler](https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W) | [Bathhouse Betty](https://open.spotify.com/album/73NZUZBj0TJbzaEdW503Yn) | 3:46 | 2018-12-06 | 2022-11-12 |
 | [Story Of Isaac](https://open.spotify.com/track/5aVnAPf0eZ6FxDO04X3Ok9) | [Suzanne Vega](https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw) | [Tower Of Song \- The Songs Of Leonard Cohen](https://open.spotify.com/album/2Gh98Zgs0pR0ZF5VuUOsXC) | 4:06 | 2018-12-06 |  |
 | [Story Of Isaac](https://open.spotify.com/track/2DQGsNHnqxDuI9bGnGI9uH) | [Suzanne Vega](https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw) | [Tower Of Song \- The Songs Of Leonard Cohen](https://open.spotify.com/album/69XAWWXjY1Cmm8qthc7Gef) | 4:06 | 2018-12-06 | 2022-07-28 |
 | [Suzanne](https://open.spotify.com/track/73Nr0OjKNWybcYvJXeO9nN) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Just Like A Woman: Nina Simone Sings Classic Songs Of The '60s](https://open.spotify.com/album/5iFgWpYe8TI36apXgwlJlR) | 4:19 | 2018-12-06 |  |

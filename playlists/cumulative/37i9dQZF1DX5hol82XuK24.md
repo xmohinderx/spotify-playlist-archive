@@ -4,7 +4,7 @@
 
 > Are you afraid of the dark?
 
-199 songs - 13 hr 25 min - [published](https://open.spotify.com/playlist/0SUJWBdRSbTiE40kDxwve2)
+201 songs - 13 hr 33 min - [published](https://open.spotify.com/playlist/0SUJWBdRSbTiE40kDxwve2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,8 @@
 | [sad on ecstasy](https://open.spotify.com/track/3v8M3mwxXm1tYQFMp7lI5Q) | [VOODOO CRYSTALS](https://open.spotify.com/artist/6aZxit2YNlH141bsQwQj1N) | [MYBRAINHURTSMYFEELINGS](https://open.spotify.com/album/0tcIA9HmBqlODKXewXLjUE) | 3:33 | 2022-10-23 | 2022-11-01 |
 | [Saferoom](https://open.spotify.com/track/1NO3x4XZW73pCXxLCPSNsI) | [Miwako Chinone](https://open.spotify.com/artist/5BrA9ihtQiD4QDpYGmult4) | [RESIDENT EVIL 7 biohazard Original Soundtrack](https://open.spotify.com/album/1B2KgMQBys7mJcdKdf60ZL) | 2:54 | 2022-10-23 | 2022-11-01 |
 | [Satanic Slumber Party](https://open.spotify.com/track/0ICUKBKREHRLjER0tpVUsQ) | [Elita](https://open.spotify.com/artist/7ApzfFN0BmeeVJPsQBReRv) | [Satanic Slumber Party](https://open.spotify.com/album/1DzDpnu7RRi9E7kAELM3Ec) | 3:03 | 2021-11-01 | 2022-07-29 |
-| [Satanic Slumber Party](https://open.spotify.com/track/5TRDXiHPikN83orTXSmZBz) | [Elita](https://open.spotify.com/artist/7ApzfFN0BmeeVJPsQBReRv) | [Satanic Slumber Party](https://open.spotify.com/album/2v4jEVLq0kmKeWCE7svpyq) | 3:03 | 2022-01-27 |  |
+| [Satanic Slumber Party](https://open.spotify.com/track/206BrVbravzDeIJrhyXW0p) | [Elita](https://open.spotify.com/artist/7ApzfFN0BmeeVJPsQBReRv) | [Anxiety Angel](https://open.spotify.com/album/55wxjvYCRXUNrjw6vD9p5d) | 3:03 | 2022-11-01 |  |
+| [Satanic Slumber Party](https://open.spotify.com/track/5TRDXiHPikN83orTXSmZBz) | [Elita](https://open.spotify.com/artist/7ApzfFN0BmeeVJPsQBReRv) | [Satanic Slumber Party](https://open.spotify.com/album/2v4jEVLq0kmKeWCE7svpyq) | 3:03 | 2022-01-27 | 2022-11-12 |
 | [Saturday,](https://open.spotify.com/track/5gaV0csREwXwbJieBy1nBU) | [IDER](https://open.spotify.com/artist/2LOwKJMjuv7VsprtYaFzl0) | [Saturday,](https://open.spotify.com/album/0wNu1tc833amzDISxEI9Em) | 4:20 | 2022-01-27 | 2022-09-15 |
 | [Saturday,](https://open.spotify.com/track/4hOdApQB6Iz56Fy2YcZQiy) | [IDER](https://open.spotify.com/artist/2LOwKJMjuv7VsprtYaFzl0) | [Saturday,](https://open.spotify.com/album/0mfGb8bwlrCE1DX0xHpO7s) | 4:20 | 2021-11-01 | 2022-07-29 |
 | [Sea, Swallow Me](https://open.spotify.com/track/7vPHiwgCOAjSBRjAirbMvS) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [The Moon and the Melodies](https://open.spotify.com/album/5v2I3i4RPD8T1XV0pjvPNo) | 3:09 | 2022-09-13 |  |
@@ -176,8 +177,9 @@
 | [Swimming Pool](https://open.spotify.com/track/0LB3XEhlEemMDjmEQwRJ3c) | [Marie Madeleine](https://open.spotify.com/artist/42Wmw8g4Cl9ZsxYR8prhSC) | [Swimming Pool](https://open.spotify.com/album/7pou12xfkIF6Z73lKE8alX) | 5:25 | 2022-01-27 | 2022-11-11 |
 | [Swimming Pool](https://open.spotify.com/track/3BMqVk2NJbH4fxf84e8kDC) | [Marie Madeleine](https://open.spotify.com/artist/42Wmw8g4Cl9ZsxYR8prhSC) | [Swimming Pool](https://open.spotify.com/album/2fzPtlFd8OSlCaIXVYrdls) | 5:25 | 2021-12-13 | 2022-07-29 |
 | [Swimming Pool](https://open.spotify.com/track/0x0oFbeLD6xKH8ln25vx9j) | [Marie Madeleine](https://open.spotify.com/artist/42Wmw8g4Cl9ZsxYR8prhSC) | [Ekler’o’shock \- Compilation 10 ans\. Le jour et la nuit](https://open.spotify.com/album/66e81bwz5iu8Rses6UIcrV) | 5:27 | 2022-11-01 |  |
-| [Taker](https://open.spotify.com/track/1RlstRnDWwqLhOWtL16Iqy) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Deceiver](https://open.spotify.com/album/5FFuado5azIt5lxMLQjCPS) | 4:28 | 2022-01-27 |  |
+| [Taker](https://open.spotify.com/track/1RlstRnDWwqLhOWtL16Iqy) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Deceiver](https://open.spotify.com/album/5FFuado5azIt5lxMLQjCPS) | 4:28 | 2022-01-27 | 2022-11-12 |
 | [Taker](https://open.spotify.com/track/3V40bK1WdHFOFqYQa0Lla9) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Blankenship](https://open.spotify.com/album/3jk7rwdXGIbwLYhNTgEPyu) | 4:28 | 2021-11-01 | 2022-07-29 |
+| [Taker](https://open.spotify.com/track/6bjzPmFPE4y9pnSYFjqdjj) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Taker](https://open.spotify.com/album/6NIIGDCGRuTizmkQpxZDcM) | 4:28 | 2022-11-01 |  |
 | [tamu's yiffing refuge](https://open.spotify.com/track/0eA1Bclou5nvOnlq4rlMBY) | [deep tan](https://open.spotify.com/artist/019NHPyN9SM5PRiEWs4X8D) | [tamu's yiffing refuge](https://open.spotify.com/album/3OaN60kNDIzL6miXjbORX0) | 3:21 | 2021-11-01 | 2022-09-15 |
 | [Tastes Good With The Money](https://open.spotify.com/track/2PVIlhwBem76mLR9qentnl) | [Fat White Family](https://open.spotify.com/artist/5ztBFCBEL7OtjdAt98RnD4) | [Serfs Up!](https://open.spotify.com/album/3rCHThZSo7zO5dmmsPjTtQ) | 5:42 | 2021-11-01 |  |
 | [Temper](https://open.spotify.com/track/0dxfC2ZKN37bOrbTQBD8lw) | [Feather Beds](https://open.spotify.com/artist/5LCKLQeNgnfx4MnJ0ywbK6) | [Temper](https://open.spotify.com/album/19yMvFYvZKATJD5qxUcVLq) | 6:08 | 2021-11-01 | 2022-09-15 |

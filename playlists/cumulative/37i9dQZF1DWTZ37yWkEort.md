@@ -4,7 +4,7 @@
 
 > From joyful jubillance to hushed harmonies – this is some of the best in A Cappella Christmas.
 
-58 songs - 2 hr 53 min - [published](https://open.spotify.com/playlist/5QBY79IZSDXVZ7kDF0XFKT)
+59 songs - 2 hr 56 min - [published](https://open.spotify.com/playlist/5QBY79IZSDXVZ7kDF0XFKT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [Happy Xmas \(War Is Over\) \[feat\. Jackie Evancho\]](https://open.spotify.com/track/2ujsh7j09COq26oV3xNZE9) | [Peter Hollens](https://open.spotify.com/artist/7EIbKyiLnEJ1Y074UIUyZJ), [Jackie Evancho](https://open.spotify.com/artist/7FukyKMUPL10mDN9LgAngI) | [A Hollens Family Christmas](https://open.spotify.com/album/0OsTiVipKPPNi3b2EHwZ8L) | 3:13 | 2022-01-14 | 2022-11-11 |
 | [Home For The Holidays](https://open.spotify.com/track/3C5X3TE5feQ482zwMf1tcy) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [Evergreen](https://open.spotify.com/album/7HgVH7ChzqayHdf1eAi9c1) | 2:36 | 2022-01-14 |  |
 | [I Heard the Bells on Christmas Day](https://open.spotify.com/track/1it8d3j8PhvZZufXsi1w8Y) | [Street Corner Symphony](https://open.spotify.com/artist/1PvW2XdqUf53cllgpYv6Ge) | [Sorted Noise Records: A Holiday Album, Vol\. 2](https://open.spotify.com/album/2V6uNEivEnQZnKV97bdgBx) | 2:26 | 2017-11-08 | 2022-07-29 |
-| [I Heard the Bells on Christmas Day](https://open.spotify.com/track/2xsQpFWuAxu5XhhOLQlB7J) | [Street Corner Symphony](https://open.spotify.com/artist/1PvW2XdqUf53cllgpYv6Ge) | [Sorted Noise Records: A Holiday Album, Vol\. 2](https://open.spotify.com/album/5Mj8SnxH6mYUdEIV7w6sbT) | 2:26 | 2022-01-14 |  |
+| [I Heard the Bells on Christmas Day](https://open.spotify.com/track/2xsQpFWuAxu5XhhOLQlB7J) | [Street Corner Symphony](https://open.spotify.com/artist/1PvW2XdqUf53cllgpYv6Ge) | [Sorted Noise Records: A Holiday Album, Vol\. 2](https://open.spotify.com/album/5Mj8SnxH6mYUdEIV7w6sbT) | 2:26 | 2022-01-14 | 2022-11-12 |
+| [I Heard the Bells on Christmas Day](https://open.spotify.com/track/6MYeUBTJbJcpESD39NjsOU) | [Street Corner Symphony](https://open.spotify.com/artist/1PvW2XdqUf53cllgpYv6Ge) | [Sorted Noise Records: A Holiday Album, Vol\. 2](https://open.spotify.com/album/5IRX3MjFCSlyJdYszpz7hq) | 2:26 | 2022-01-14 |  |
 | [I Heard the Bells on Christmas Day](https://open.spotify.com/track/7qO6uDcPA8dHYAYZQxzkfr) | [Street Corner Symphony](https://open.spotify.com/artist/1PvW2XdqUf53cllgpYv6Ge) | [Sorted Noise Records: A Holiday Album, Vol\. 2](https://open.spotify.com/album/18GWTfG4zqCiTR3mxtDwqY) | 2:26 | 2022-01-14 | 2022-10-19 |
 | [I'll Be Home For Christmas](https://open.spotify.com/track/7K3i0GUuw4tdIy2BtXVqtW) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Unwrapped \- EP](https://open.spotify.com/album/5UxCYp9ugSxlZtp7TIaJoV) | 3:27 | 2017-11-08 |  |
 | [It Came Upon The Midnight Clear](https://open.spotify.com/track/4zjQjevGJIUCjAJB2qbThT) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [Evergreen](https://open.spotify.com/album/7HgVH7ChzqayHdf1eAi9c1) | 3:09 | 2022-01-14 |  |

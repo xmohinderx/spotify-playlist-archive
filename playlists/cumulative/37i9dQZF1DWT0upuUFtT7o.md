@@ -4,7 +4,7 @@
 
 > The best new indie tracks by independent artists and labels\. Updates every Wednesday\. Cover: Abby Sage, Artwork: Robin Clifford Ellis
 
-1,000 songs - 2 day 6 hr 32 min - [published](https://open.spotify.com/playlist/7guHIvMo0sEfDGJozxIHmH)
+1,001 songs - 2 day 6 hr 33 min - [published](https://open.spotify.com/playlist/7guHIvMo0sEfDGJozxIHmH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -347,7 +347,7 @@
 | [good night](https://open.spotify.com/track/7sqWR1NFRcd4EjyJjxx0ZD) | [Amanda Sandin](https://open.spotify.com/artist/4gxUUtchNh9ThpV5a9tt0i) | [good night](https://open.spotify.com/album/04jZXrVIZaFZ4FHScXAyJ9) | 2:08 | 2022-01-19 | 2022-02-10 |
 | [Good Sex](https://open.spotify.com/track/5MQ914H0T9fBompsuM0FbY) | [Susannah Joffe](https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw) | [Good Sex](https://open.spotify.com/album/3opsaisHQIrDNsgKcxAMGR) | 3:09 | 2022-10-12 |  |
 | [Good Stuff](https://open.spotify.com/track/4Tfvz7BRWnLYqlja4jUAsy) | [Parkland](https://open.spotify.com/artist/7kpPpbL8gj9EYboqzN5WMm) | [Good Stuff](https://open.spotify.com/album/1Rgpj3IAACl9M48bmefYqC) | 3:43 | 2022-10-19 |  |
-| [Good Time](https://open.spotify.com/track/57XbxE2eq5L9KSCqVfgP65) | [Cop Kid](https://open.spotify.com/artist/57yzfidR1Sr8ETxIf3Imc7), [Madge](https://open.spotify.com/artist/2StukZYqvy5IZmVestMrWo) | [Good Time](https://open.spotify.com/album/47btDCCrptlKs0GNcLKqhW) | 2:34 | 2022-10-12 |  |
+| [Good Time](https://open.spotify.com/track/57XbxE2eq5L9KSCqVfgP65) | [Cop Kid](https://open.spotify.com/artist/57yzfidR1Sr8ETxIf3Imc7), [Madge](https://open.spotify.com/artist/2StukZYqvy5IZmVestMrWo) | [Good Time](https://open.spotify.com/album/47btDCCrptlKs0GNcLKqhW) | 2:34 | 2022-10-12 | 2022-11-12 |
 | [Good Time](https://open.spotify.com/track/5J9H8Pzz3uCjwfgMBvvuM2) | [Leland Blue](https://open.spotify.com/artist/4TgfkZEpcjkYgRBKeqy1Mh) | [Good Time](https://open.spotify.com/album/5sjrMAgTMgB9oRQD6YLNOm) | 2:56 | 2022-02-16 | 2022-04-07 |
 | [Goodbye Forever](https://open.spotify.com/track/4z4vowAasMbKqp1t2uBCuh) | [PWNT](https://open.spotify.com/artist/64ucpxkeLwoyiLViMhBR3v) | [Goodbye Forever](https://open.spotify.com/album/3fFgNTJV09wygLl3iz1ETn) | 2:51 | 2022-08-31 | 2022-10-06 |
 | [Got What You Wanted](https://open.spotify.com/track/3lulXMWZo5rfXbqFKbdJ2Z) | [Cal in Red](https://open.spotify.com/artist/3dXBDrVfLai40505fF4HH1) | [Cellular](https://open.spotify.com/album/5FKHHLUMsy5b0sKG5kjkxr) | 3:57 | 2022-01-12 | 2022-02-10 |
@@ -411,6 +411,7 @@
 | [I Bet Ur](https://open.spotify.com/track/25vwWj2HLhh5BOnaELW5Ig) | [Bridget Kearney](https://open.spotify.com/artist/04fJjgNu00TqqNolrDV0Z0) | [I Bet Ur](https://open.spotify.com/album/2GMITlFwmNxhHcdLIDAYhC) | 5:15 | 2022-01-12 | 2022-02-17 |
 | [I Can't Get Over You](https://open.spotify.com/track/7tdFmz7aTM0MTssyzOSXta) | [Leo Sun](https://open.spotify.com/artist/40F0oisdGBuAC0i1vh2cxW) | [I Can't Get Over You](https://open.spotify.com/album/3OCO1ebyxBC6CXsF99Xara) | 4:21 | 2022-03-30 | 2022-05-05 |
 | [I can't remember](https://open.spotify.com/track/1q1C5tH1Q4vUG2k9bxcnHI) | [Surely Tempo](https://open.spotify.com/artist/70zssbn2dycY2RzSGLbWGQ) | [I can't remember](https://open.spotify.com/album/26Bn50yU2TnMVyTGca1lqs) | 3:21 | 2022-06-08 | 2022-06-30 |
+| [I Could Go out There](https://open.spotify.com/track/45FSwLegZUodITRnMTYhUj) | [Miles](https://open.spotify.com/artist/6VNWy1nX6Wf6yDmhFHjHMy) | [I Could Go out There](https://open.spotify.com/album/14kpxrqKwM1a3SQRm9HtTW) | 1:38 | 2022-11-11 |  |
 | [I Dare You](https://open.spotify.com/track/33948g0QTA5uP9Hn3kYZBO) | [Swansea Skag](https://open.spotify.com/artist/4MV1kXqC76IgYoOdBQdp3T) | [I Dare You](https://open.spotify.com/album/2RI5OP3wh2VnWZ1JzI1ZpU) | 2:11 | 2022-01-12 | 2022-01-27 |
 | [I Don't Know Why I Don't Leave You](https://open.spotify.com/track/0rnr29AKXifEZuGZWETZVG) | [Beckah Amani](https://open.spotify.com/artist/6AlUh97NNEBLo3OqYORyIi) | [I Don't Know Why I Don't Leave You](https://open.spotify.com/album/18db1ozBHypbbaovttXGEx) | 3:22 | 2022-05-11 | 2022-06-30 |
 | [I Don't Wanna Be Strong](https://open.spotify.com/track/0xubojJoftLTsiM8tzIqmB) | [Leo Sun](https://open.spotify.com/artist/40F0oisdGBuAC0i1vh2cxW) | [I Don't Wanna Be Strong](https://open.spotify.com/album/29LGWbz1h6EmM4Mt5Y4w1U) | 3:08 | 2022-09-06 | 2022-10-15 |

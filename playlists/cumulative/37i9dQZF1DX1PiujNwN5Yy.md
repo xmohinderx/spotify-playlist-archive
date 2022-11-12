@@ -4,7 +4,7 @@
 
 > Canciones tristes para uno de esos días\. Sad songs just 4 you.
 
-146 songs - 8 hr 21 min - [published](https://open.spotify.com/playlist/2UyGgwrSRZspaHIh8SZiLr)
+148 songs - 8 hr 28 min - [published](https://open.spotify.com/playlist/2UyGgwrSRZspaHIh8SZiLr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [NASA](https://open.spotify.com/track/40NZgN1uNdeZzPKjkM1QIW) | [Babi](https://open.spotify.com/artist/5nP79s99csrvcOiXTGjVfg) | [NASA](https://open.spotify.com/album/1nTFn5FvVj4c1nuMPadWtn) | 3:40 | 2021-12-06 |  |
 | [no estabas cerca](https://open.spotify.com/track/0CaAkdZcfgo0KRyPoU2vc7) | [Alba Mbengue](https://open.spotify.com/artist/3qgzGkZtMWhw3seBssVWWW) | [no estabas cerca](https://open.spotify.com/album/1zGsHBTBDiV6x7fygtLjto) | 1:10 | 2022-05-03 |  |
 | [no estabas cerca](https://open.spotify.com/track/5NNZcUQ1VJw4LDtID4emmU) | [Alba Mbengue](https://open.spotify.com/artist/3qgzGkZtMWhw3seBssVWWW) | [no estabas cerca](https://open.spotify.com/album/4dSqcGq9eSj3GekbmjYkl4) | 1:10 | 2021-12-06 | 2022-07-29 |
-| [No Estoy](https://open.spotify.com/track/0eBA1KNNnYFqlWDj8KSLNO) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Ausente](https://open.spotify.com/album/4yQP51cIhiFPF2bTfyGGUc) | 2:21 | 2022-05-03 |  |
+| [No Estoy](https://open.spotify.com/track/0eBA1KNNnYFqlWDj8KSLNO) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Ausente](https://open.spotify.com/album/4yQP51cIhiFPF2bTfyGGUc) | 2:21 | 2022-05-03 | 2022-11-12 |
 | [No Estoy](https://open.spotify.com/track/1cG3h8eKPKNahi5abEVUfG) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [No Estoy](https://open.spotify.com/album/0xVNr7QkoKUHXFwMyFvgx3) | 2:21 | 2021-12-06 | 2022-07-29 |
 | [No estás](https://open.spotify.com/track/32grtzU3DA9uwdSN1w7t7S) | [Maria Blaya](https://open.spotify.com/artist/0Ln3BisQiL0t2w7bsmju75), [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [No estás](https://open.spotify.com/album/1DXTBoAItVHckR0DopqR30) | 2:46 | 2021-12-06 |  |
 | [No te lloro más](https://open.spotify.com/track/3zSblAGdZZV60r7J0XDmEZ) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [No te lloro más](https://open.spotify.com/album/4gsU5rcGEUjfNIwAxQIjef) | 2:56 | 2021-12-06 |  |
@@ -107,7 +107,7 @@
 | [Por Última Vez \(con Yoly Saa\) \- MUU Sessions](https://open.spotify.com/track/6srnSjztnUZhf8zJqPOotI) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD), [Yoly Saa](https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW) | [Por Última Vez \(con Yoly Saa\) \[MUU Sessions\]](https://open.spotify.com/album/37G3gagq27zU3tlSOd40Js) | 3:26 | 2021-12-06 |  |
 | [Párteme La Cara](https://open.spotify.com/track/5gEUDNQvoQjdjklrwPdGwD) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [El Madrileño](https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9) | 2:47 | 2021-12-06 |  |
 | [Q Tiempos Aquellos](https://open.spotify.com/track/4tedbGJnsJ8KTVy5pheOWG) | [Andry Kiddos](https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2) | [Q Tiempos Aquellos](https://open.spotify.com/album/1WZwWa3cFAbvSRrSRTHLB9) | 1:49 | 2021-12-06 |  |
-| [querida ansiedad](https://open.spotify.com/track/4AuBegU1SOEkei8TOYEMw0) | [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT) | [Un Día A La Vez](https://open.spotify.com/album/4kcxAdBocSXh8pz7fSqFXJ) | 2:43 | 2021-12-06 |  |
+| [querida ansiedad](https://open.spotify.com/track/4AuBegU1SOEkei8TOYEMw0) | [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT) | [Un Día A La Vez](https://open.spotify.com/album/4kcxAdBocSXh8pz7fSqFXJ) | 2:43 | 2021-12-06 | 2022-11-12 |
 | [Quiero](https://open.spotify.com/track/34gzxIVoKXsFQPiiT6rUX4) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [mix pa llorar en tu cuarto](https://open.spotify.com/album/4VeKLLYPySVFaf6qzkfOYW) | 4:04 | 2021-12-06 |  |
 | [Quisiera](https://open.spotify.com/track/1DH0Cg447H2wioWGvW4S3z) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Suspiros](https://open.spotify.com/album/2dU3JOkZlSKu7WdqIGvCcK) | 4:53 | 2021-12-06 |  |
 | [Quién Dice](https://open.spotify.com/track/567t9YdgQ12cPNJma02EPT) | [Marcos Menchaca](https://open.spotify.com/artist/1Pvcsw46EYSQKIa5TRrfGj) | [Quién Dice](https://open.spotify.com/album/3tAKezwIGgXfXJZQtbF7eK) | 3:45 | 2021-12-06 |  |
@@ -148,11 +148,13 @@
 | [Vete Si Quieres](https://open.spotify.com/track/0eBNvFiuvRpKPzfEx7CVs6) | [El David](https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b) | [Vete Si Quieres](https://open.spotify.com/album/59n8OAA2MokNaY6EunSMY6) | 3:48 | 2021-12-06 |  |
 | [Vámonos a Marte](https://open.spotify.com/track/2TzkIzgzIHhewMxyh1u4hh) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Hasta el Fin Del Mundo](https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7) | 2:59 | 2021-12-06 |  |
 | [when the party's over](https://open.spotify.com/track/43zdsphuZLzwA9k4DJhU0I) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 3:16 | 2022-05-03 | 2022-11-11 |
+| [when the party's over](https://open.spotify.com/track/381jKA1s90oPENoWLbQ53b) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Toxicity](https://open.spotify.com/album/08XpGFlrqm6oRi71GlH6Nu) | 3:19 | 2022-08-01 |  |
 | [Ya mi mama me decía](https://open.spotify.com/track/2AviITab6bCBtts9zJIPYz) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Ya mi mama me decía](https://open.spotify.com/album/6uuWDvCnj4OarH4j4Z83aU) | 3:08 | 2021-12-06 | 2022-07-29 |
 | [Ya mi mama me decía](https://open.spotify.com/track/4qFkP6Kyhw3WDOSKqJaZbP) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [La Cantera](https://open.spotify.com/album/3BDwyojdwMAmBEsXZlyQjW) | 3:11 | 2022-05-03 |  |
 | [Ya No Te Hago Falta](https://open.spotify.com/track/4RIi1gNmKDzSH04Vvws2DK) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq) | [Sensaciones](https://open.spotify.com/album/7Hr8FOf7NQIe7UhLcllXq9) | 2:41 | 2021-12-06 |  |
 | [ya te vas](https://open.spotify.com/track/35Sc4rTNlRNSNfI8BPMnTl) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [ep2 🌧](https://open.spotify.com/album/3DBCFDPSsiPfFIBtJRchzm) | 3:03 | 2021-12-06 |  |
 | [yo q se](https://open.spotify.com/track/5PAh18eBXkV3WV5lPgW5Ww) | [Sebastián Cortés](https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9) | [yo q se](https://open.spotify.com/album/6nVaPGZVNQZ9yZxSBvOa9k) | 2:00 | 2021-12-06 |  |
 | [you were good to me](https://open.spotify.com/track/4CxFN5zON70B3VOPBYbd6P) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [brent](https://open.spotify.com/album/16mjtcKPxpQ4ajFHmJ0hJC) | 3:39 | 2022-05-03 | 2022-11-11 |
+| [you were good to me \(bonus track\)](https://open.spotify.com/track/1i3EWfsKtfOusyG50mn4C7) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [How To Be Human](https://open.spotify.com/album/3XX3GlDHxagsOzmtBySgc4) | 3:39 | 2022-08-01 |  |
 
 \*This playlist was first scraped on 2021-12-30. Prior content cannot be recovered.

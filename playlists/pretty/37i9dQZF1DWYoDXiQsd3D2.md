@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoDXiQsd3D2.md) - [plain]
 
 > look up, dream on, drift off...
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,950 likes - 113 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,081 likes - 113 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [vi \(almost equal to\) ix](https://open.spotify.com/track/5JZq6B2jtxGVvmausM9Xed) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [vi \(almost equal to\) ix](https://open.spotify.com/album/6HeluvAtfAwsWp2e7sTCOf) | 3:44 |
 | 2 | [Heaven's Light](https://open.spotify.com/track/4JZ0hrOLxQbFJe1F3l80rY) | [David Tolk](https://open.spotify.com/artist/3OvrUspbOHgGI6T7D5Fb6P) | [Heaven's Light](https://open.spotify.com/album/6q0H6CzNOXniZmfhBjInmI) | 3:19 |
 | 3 | [We Contain Multitudes — piano reworks](https://open.spotify.com/track/1rpF77jsLBMG2QjCuhe0Sr) | [Yiruma](https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [We Contain Multitudes — piano reworks](https://open.spotify.com/album/4vtunVFmIlrxIrkOobdfDH) | 4:24 |
-| 4 | [Stillness \(Reworked\)](https://open.spotify.com/track/17IbDcL196PgvTVrcUDut1) | [Poppy Ackroyd](https://open.spotify.com/artist/5q3wKuiaCK8BRPZQSvehFd) | [Stillness \(Reworked\)](https://open.spotify.com/album/33EbSiklkodrOqpCZn1JQD) | 3:30 |
+| 4 | [Stillness \- Reworked](https://open.spotify.com/track/6Ud2z91pgiVSIQIgUnxfQZ) | [Poppy Ackroyd](https://open.spotify.com/artist/5q3wKuiaCK8BRPZQSvehFd) | [Pause \(Reworked\)](https://open.spotify.com/album/2OG0xIX2Uo2j2eHHtLATth) | 3:30 |
 | 5 | [Reaping in Joy](https://open.spotify.com/track/5GS1nPJBMHLmVlkpG8v5Zw) | [We Dream of Eden](https://open.spotify.com/artist/55dhSq6LQ1N5JlHF5DlbFf), [Christopher Galovan](https://open.spotify.com/artist/5LUMGK9eTmZdJJwmDph01c) | [Garden Heart: Reworks](https://open.spotify.com/album/1TbsrNNEfLDRW6bc2gSsLx) | 3:37 |
 | 6 | [A Brief Silence](https://open.spotify.com/track/3e4aHnazy2RkEl95ixPoK4) | [Mauricio Trabanino](https://open.spotify.com/artist/3blJXUBNjlTFWMMrtsSLI3) | [A Brief Silence \(Original Score\)](https://open.spotify.com/album/1QP0OlYoRl93vhZBGOhzOC) | 2:20 |
 | 7 | [Agatha](https://open.spotify.com/track/2UGq5Ba3yJntTi8AkrAp9t) | [Luke Howard](https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf) | [Agatha](https://open.spotify.com/album/3kMNB7lYJBwgpIckW4G9uR) | 6:07 |
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoDXiQsd3D2.md) - [plain]
 | 112 | [Flight from the City \- Víkingur Ólafsson Rework](https://open.spotify.com/track/4eaBCGk2bT1spf1CruumMy) | [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD), [Yuki Numata Resnick](https://open.spotify.com/artist/2TVn6PQxnrxlIq4F2Vz3Qs), [Tarn Travers](https://open.spotify.com/artist/78PSEAPRjcRID297AMMPJC), [Ben Russell](https://open.spotify.com/artist/5BG0gerrHZFHPaIEi43FHB), [Clarice Jensen](https://open.spotify.com/artist/1B25oHGZdWQzQJCajIwA3a), [Christian Badzura](https://open.spotify.com/artist/4o4c7wie7O9R8ju7JWtHsQ) | [Retrospective II \- Rarities](https://open.spotify.com/album/74GQMHXRhgZHMGUoX42pfD) | 6:26 |
 | 113 | [Starwood Choker](https://open.spotify.com/track/6aw2BGPAzY5kcM3WzELaN3) | [Bing & Ruth](https://open.spotify.com/artist/0grPfzk6cTnzfQpxjLDPs0) | [No Home of the Mind](https://open.spotify.com/album/0CNDCFHe5E0EYQT39CwgNA) | 6:16 |
 
-Snapshot ID: `MTY2NDg5NjE1NiwwMDAwMDAwMDVmZTIxOGI1MGEyMWRkMzg5Mjc1MDQyZmZmYzFjNzEw`
+Snapshot ID: `MTY2NDg5NjE1NiwwMDAwMDAwMDhlNjA1NzUxNjNmMGViMTgxYThhM2U3MjhhNzI3YjYw`

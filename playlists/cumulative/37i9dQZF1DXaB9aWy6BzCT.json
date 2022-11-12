@@ -1122,6 +1122,24 @@
     },
     {
       "album": {
+        "name": "40 \u00c9xitos: Fiest\u00f3n",
+        "url": "https://open.spotify.com/album/4QfueEYpYMx5Eu6lhufXug"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234320,
+      "name": "Shaky Shaky",
+      "url": "https://open.spotify.com/track/4DLDu5aTPEpg69QlLG2lsY"
+    },
+    {
+      "album": {
         "name": "Shaky Shaky",
         "url": "https://open.spotify.com/album/2zrLk90b4qjmrxRZKyIY7X"
       },
@@ -1151,7 +1169,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 234320,
       "name": "Shaky Shaky",
       "url": "https://open.spotify.com/track/7gcMKL3lnDxsp4bIXyv6Zk"
@@ -1395,10 +1413,32 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 201818,
       "name": "Te Robar\u00e9",
       "url": "https://open.spotify.com/track/4PJ3umtW1aWdfh5EITHc6T"
+    },
+    {
+      "album": {
+        "name": "Reggaet\u00f3n 2020 - \u00c9xitos Urbanos",
+        "url": "https://open.spotify.com/album/72cMrdnkM1mJfvvIxvv4ya"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201818,
+      "name": "Te Robar\u00e9",
+      "url": "https://open.spotify.com/track/4mVWg4OwQy9bDsgPYAutqK"
     },
     {
       "album": {

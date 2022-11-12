@@ -4,7 +4,7 @@
 
 > Listen to all her biggest hits, in one place.
 
-123 songs - 7 hr 48 min - [published](https://open.spotify.com/playlist/0DfYncW9mxd1xxPkajZXJE)
+127 songs - 8 hr 5 min - [published](https://open.spotify.com/playlist/0DfYncW9mxd1xxPkajZXJE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [Anything Goes](https://open.spotify.com/track/53AmnlRSyicd0MP1u0MaUH) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [christmas but not christmas songs](https://open.spotify.com/album/6WTqtw3HlucpR9AFlVDlaa) | 2:03 | 2022-05-09 |  |
 | [Anything Goes](https://open.spotify.com/track/3Cq4BUlxDg4ulj7XnN2COP) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Cheek To Cheek \(Deluxe\)](https://open.spotify.com/album/2VX9rp6NAC19TQN4IgkmYu) | 2:03 | 2022-05-09 | 2022-11-11 |
 | [Applause](https://open.spotify.com/track/1C79CxJdMHjk9RkwX04DRh) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [ARTPOP](https://open.spotify.com/album/535qZk6ycJqQaa5qFPmq3k) | 3:32 | 2020-10-16\* | 2022-07-29 |
-| [Applause](https://open.spotify.com/track/5ka2ajep9OAvU5Sgduhiex) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [ARTPOP](https://open.spotify.com/album/2eRJUtI7nXrQ5uYQ7tzTo9) | 3:32 | 2022-05-09 |  |
+| [Applause](https://open.spotify.com/track/4V709xAq9eM1LpSf7m2GYl) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [House Party Jams 2022](https://open.spotify.com/album/2aWER8L58L5S8NdZoxaWFc) | 3:32 | 2022-05-09 |  |
+| [Applause](https://open.spotify.com/track/5ka2ajep9OAvU5Sgduhiex) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [ARTPOP](https://open.spotify.com/album/2eRJUtI7nXrQ5uYQ7tzTo9) | 3:32 | 2022-05-09 | 2022-11-12 |
 | [ARTPOP](https://open.spotify.com/track/4ExhU5WCMZXaYSL8RAarvv) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [ARTPOP](https://open.spotify.com/album/3P4ieBubW04cGQT52hPxt6) | 4:07 | 2022-05-09 |  |
 | [ARTPOP](https://open.spotify.com/track/4t6HLZizcQiD8IvKUQU8il) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [ARTPOP](https://open.spotify.com/album/535qZk6ycJqQaa5qFPmq3k) | 4:07 | 2020-10-16\* | 2022-07-29 |
 | [ARTPOP](https://open.spotify.com/track/73zDQykFwu3yT5VQ6MwYbh) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [ARTPOP](https://open.spotify.com/album/2eRJUtI7nXrQ5uYQ7tzTo9) | 4:07 | 2022-05-09 | 2022-11-11 |
@@ -80,7 +81,8 @@
 | [LoveGame](https://open.spotify.com/track/0eH2eHURaXUP15D8gQlfjx) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Fame](https://open.spotify.com/album/1qwlxZTNLe1jq3b0iidlue) | 3:36 | 2020-10-16\* | 2022-07-29 |
 | [LoveGame](https://open.spotify.com/track/0mzQBmvulZc2nSPscftR7d) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Football Game Day](https://open.spotify.com/album/7mrb8JKVOjQpYtHs16DZau) | 3:36 | 2022-05-09 |  |
 | [Marry The Night](https://open.spotify.com/track/02d1E4NRuh7OEQO4vCb9PD) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Born This Way \(International Special Edition Version\)](https://open.spotify.com/album/6LY3AerY6KNGOPsNPL63Kk) | 4:24 | 2020-10-16\* | 2022-07-29 |
-| [Marry The Night](https://open.spotify.com/track/1k18nxjYj8R5iz82Ap7GEY) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Born This Way](https://open.spotify.com/album/2KkMVsxymoNR7hRmBcMttd) | 4:24 | 2022-05-09 |  |
+| [Marry The Night](https://open.spotify.com/track/1k18nxjYj8R5iz82Ap7GEY) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Born This Way](https://open.spotify.com/album/2KkMVsxymoNR7hRmBcMttd) | 4:24 | 2022-05-09 | 2022-11-12 |
+| [Marry The Night](https://open.spotify.com/track/6xhcrb3BSNxqNVXfH6N1Uj) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [BORN THIS WAY THE TENTH ANNIVERSARY](https://open.spotify.com/album/6Yf9kML4wT3opmXhTUIfk7) | 4:24 | 2022-05-09 |  |
 | [Million Reasons](https://open.spotify.com/track/1rpDLMm4FjGqMz6N1dZZo8) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Joanne \(Deluxe\)](https://open.spotify.com/album/1QV5fPVm9bIVWsm0ngE34T) | 3:25 | 2020-10-16\* |  |
 | [Night And Day](https://open.spotify.com/track/0ZzE3KupbceBjr17DMhWAo) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Love For Sale \(Deluxe\)](https://open.spotify.com/album/6hBQkPnq5u1BwZncSEDEgs) | 3:42 | 2021-10-02 | 2021-10-16 |
 | [Paparazzi](https://open.spotify.com/track/5LXzcURZiVPEhTnTuEhmzR) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [First Class](https://open.spotify.com/album/2DxrG6YhMZCdoOrYfOi5iC) | 3:28 | 2022-05-09 |  |
@@ -89,7 +91,8 @@
 | [Perfect Illusion](https://open.spotify.com/track/2KZSAE8Q2czVxKAzEuxbNu) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Joanne \(Deluxe\)](https://open.spotify.com/album/1QV5fPVm9bIVWsm0ngE34T) | 3:02 | 2020-10-16\* |  |
 | [Plastic Doll](https://open.spotify.com/track/3CidPLqWXqgesJlwYVJZdy) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Chromatica](https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP) | 3:41 | 2020-10-16\* | 2021-05-13 |
 | [Poker Face](https://open.spotify.com/track/1QV6tiMFM6fSOKOGLMHYYg) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Fame](https://open.spotify.com/album/1qwlxZTNLe1jq3b0iidlue) | 3:57 | 2020-10-16\* | 2022-07-29 |
-| [Poker Face](https://open.spotify.com/track/5R8dQOPq8haW94K7mgERlO) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Fame](https://open.spotify.com/album/1jpUMnKpRlng1OJN7LJauV) | 3:57 | 2022-05-09 |  |
+| [Poker Face](https://open.spotify.com/track/5R8dQOPq8haW94K7mgERlO) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Fame](https://open.spotify.com/album/1jpUMnKpRlng1OJN7LJauV) | 3:57 | 2022-05-09 | 2022-11-12 |
+| [Poker Face](https://open.spotify.com/track/2q55kslMGD7M0TVW85pcca) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [2000年代に流行った洋楽!](https://open.spotify.com/album/3iUSCE0uE5euGQZZV3wCNu) | 3:58 | 2022-05-09 |  |
 | [Rain On Me \(with Ariana Grande\)](https://open.spotify.com/track/24ySl2hOPGCDcxBxFIqWBu) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Rain On Me \(with Ariana Grande\)](https://open.spotify.com/album/4TqgXMSSTwP3RCo3MMSR6t) | 3:02 | 2020-10-16\* |  |
 | [Replay](https://open.spotify.com/track/7sKbyYeJnITO1Eh9xd0lKd) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Chromatica](https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP) | 3:06 | 2020-10-16\* | 2021-05-13 |
 | [Shallow \- Radio Edit](https://open.spotify.com/track/6QfS2wq5sSC1xAJCQsTSlj) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bradley Cooper](https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG) | [A Star Is Born Soundtrack \(Without Dialogue\)](https://open.spotify.com/album/3edjzMAVB9RYRd4UcZBchx) | 3:37 | 2020-10-16\* |  |
@@ -130,6 +133,7 @@
 | [Video Phone \(feat\. Lady Gaga\)](https://open.spotify.com/track/7mzQFrKyyde7StPaXLss4K) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [William Burke](https://open.spotify.com/artist/68iRXBQ7fDXt7LEPhj0sSs) | [Video Phone](https://open.spotify.com/album/0ExAIUZSGb0tibEXwheEkc) | 5:04 | 2020-10-16\* | 2022-07-29 |
 | [You And I](https://open.spotify.com/track/1ADciGUxOaUbBFd0rpYx7d) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Born This Way \(International Special Edition Version\)](https://open.spotify.com/album/6LY3AerY6KNGOPsNPL63Kk) | 5:07 | 2020-10-16\* | 2022-07-29 |
 | [You're The Top](https://open.spotify.com/track/5ueoGQzXQDQazPcPq5UvOQ) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Love For Sale \(Deluxe\)](https://open.spotify.com/album/6hBQkPnq5u1BwZncSEDEgs) | 2:49 | 2021-10-02 | 2021-10-16 |
-| [Yoü And I](https://open.spotify.com/track/6rkAY9rk1NTFB94QxG3LJR) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Born This Way](https://open.spotify.com/album/2KkMVsxymoNR7hRmBcMttd) | 5:07 | 2022-05-09 |  |
+| [Yoü And I](https://open.spotify.com/track/6rkAY9rk1NTFB94QxG3LJR) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Born This Way](https://open.spotify.com/album/2KkMVsxymoNR7hRmBcMttd) | 5:07 | 2022-05-09 | 2022-11-12 |
+| [Yoü And I](https://open.spotify.com/track/7Evcno8z8lqcWe0jSzkotS) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Merenda con POP](https://open.spotify.com/album/71T5BsRfSmKIH775IWTc8Y) | 5:07 | 2022-05-09 |  |
 
 \*This playlist was first scraped on 2020-10-16. Prior content cannot be recovered.

@@ -425,10 +425,28 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 150360,
       "name": "El Botecito",
       "url": "https://open.spotify.com/track/2DzLlUtscN7QECJ6E3yvHE"
+    },
+    {
+      "album": {
+        "name": "Cumbias Norte\u00f1as Ayer, Hoy Y Siempre",
+        "url": "https://open.spotify.com/album/6esgHgTW72xib1yUyzYlEP"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos Del Pueblo",
+          "url": "https://open.spotify.com/artist/35hWST2f8cTTFbGzQZzGTZ"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150360,
+      "name": "El Botecito",
+      "url": "https://open.spotify.com/track/4etMDGJ0YN94VoAX6iiBmq"
     },
     {
       "album": {
@@ -738,6 +756,24 @@
     },
     {
       "album": {
+        "name": "The Best of Cumbias",
+        "url": "https://open.spotify.com/album/0eWmTTJkLSzr111RwtqpkA"
+      },
+      "artists": [
+        {
+          "name": "Hechizeros Band",
+          "url": "https://open.spotify.com/artist/4xqrGV8Uw2Jv3RLGnWFFqx"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200546,
+      "name": "El Sonidito",
+      "url": "https://open.spotify.com/track/06L0BfWO3PA0Tt7Yt6Xdki"
+    },
+    {
+      "album": {
         "name": "La Historia De Los Exitos - Bailables",
         "url": "https://open.spotify.com/album/5ECdGv5S3xRhiVxKUWxg98"
       },
@@ -895,7 +931,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 190800,
       "name": "Juana La Cubana",
       "url": "https://open.spotify.com/track/1cdpDAE7LHSHviJ73SGuGS"
@@ -913,7 +949,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 190800,
       "name": "Juana La Cubana",
       "url": "https://open.spotify.com/track/7Eo1JOdPvYYZqveKzXh8pN"
@@ -2085,7 +2121,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 225360,
       "name": "Un Sue\u00f1o",
       "url": "https://open.spotify.com/track/6iPDBwtiOZGlfQt9HD0jAG"

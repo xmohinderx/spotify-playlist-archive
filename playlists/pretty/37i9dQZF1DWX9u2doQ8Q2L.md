@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 345,798 likes - 60 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 345,933 likes - 60 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [接吻 \(feat\. ひかり & MELRAW\)](https://open.spotify.com/track/3VV4tTyh2wm5e1f3iz7qGR) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc), [MELRAW](https://open.spotify.com/artist/6yFRg2uyPmQP8XfwTrnE6N) | [接吻 \(feat\. ひかり & MELRAW\)](https://open.spotify.com/album/4I1YDrFEUJO6l0Oy3jsgcR) | 4:45 |
-| 2 | [Suzume](https://open.spotify.com/track/7LHAKF7pBqHch8o6Yo0ad5) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [Toaka](https://open.spotify.com/artist/3GzVC7GGbmO2SuBu92DqUn) | [Suzume](https://open.spotify.com/album/7HT4WPE6gHPxrRmgzhhTMr) | 3:56 |
+| 2 | [Suzume](https://open.spotify.com/track/1n1y2kFPISpF9WGD3JaFo5) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [Toaka](https://open.spotify.com/artist/3GzVC7GGbmO2SuBu92DqUn) | [Suzume \(Motion Picture Soundtrack\)](https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq) | 3:58 |
 | 3 | [プラスティック・ラブ](https://open.spotify.com/track/4wGxmG5XLeSs4EiUzhbOcY) | [Yu Sakai](https://open.spotify.com/artist/2rgC29v3ZYaGgbzPGh3d9Y), [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [プラスティック・ラブ](https://open.spotify.com/album/2sbbdJ8TzA6zdXySG4jpDD) | 5:00 |
 | 4 | [死ぬのがいいわ](https://open.spotify.com/track/54mG1R0iqWi7COJrHAXSkg) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [The Best J\-Pop 2022](https://open.spotify.com/album/1sMOVQA0CuRIWvD5XKgVLn) | 3:05 |
 | 5 | [HOWL](https://open.spotify.com/track/2eallREIVzmmZHdHhoRWGb) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2) | [HOWL](https://open.spotify.com/album/4zkYI1CfV3vD2r40Cpe4iT) | 4:03 |
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 | 18 | [U.F.O](https://open.spotify.com/track/01LxBtO7yAI4hpP6lxFW1j) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [U.F.O](https://open.spotify.com/album/73rI30alnLXFitAnxHeNG0) | 3:50 |
 | 19 | [grace](https://open.spotify.com/track/7tnYsRepXLaNhqj4xtcWP2) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [grace](https://open.spotify.com/album/0i6jJH5oVQh0KL8INSSPpu) | 4:49 |
 | 20 | [Don't go \(feat\. ASH ISLAND\)](https://open.spotify.com/track/0gcTaw7aYWnAKsgIYJsvAt) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX), [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [Don't go \(feat\. ASH ISLAND\)](https://open.spotify.com/album/041Fafxf0D4t5MDi24KvEP) | 2:35 |
-| 21 | [HAWATARI NIOKU CENTI \[2\-hundred\-million\-centimeter\-long blades\] \- TV edit](https://open.spotify.com/track/1lySGuhlcZUJxLA5W5Bo7k) | [MAXIMUM THE HORMONE](https://open.spotify.com/artist/3AMut7lAb1JjINkn8Fmkhu) | [HAWATARI NIOKU CENTI \[2\-hundred\-million\-centimeter\-long blades\] \(TV edit\)](https://open.spotify.com/album/22bkV1gcP9weQRmRktdCM4) | 1:29 |
+| 21 | [刃渡り2億センチ\(TV edit\)](https://open.spotify.com/track/2rTmZHTXWo9YfIRAxbdkpG) | [マキシマム ザ ホルモン 一部のアニメテーマ専用仮設チャンネル](https://open.spotify.com/artist/7ipRKwjoASGW04QLVsDg3g) | [刃渡り2億センチ\(TV edit\)](https://open.spotify.com/album/04tV0O6qn5cXheBUTHmeKv) | 1:29 |
 | 22 | [Who are you ?](https://open.spotify.com/track/5BbgSQt406V1N0G3S7sYWs) | [Liza](https://open.spotify.com/artist/2lt6QQR32fKGBooeTvd2wd), [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [Who are you ?](https://open.spotify.com/album/1itmOBTEkREB9z5WCRRfJX) | 2:56 |
-| 23 | [刃渡り2億センチ\(TV edit\)](https://open.spotify.com/track/2rTmZHTXWo9YfIRAxbdkpG) | [マキシマム ザ ホルモン 一部のアニメテーマ専用仮設チャンネル](https://open.spotify.com/artist/7ipRKwjoASGW04QLVsDg3g) | [刃渡り2億センチ\(TV edit\)](https://open.spotify.com/album/04tV0O6qn5cXheBUTHmeKv) | 1:29 |
+| 23 | [HAWATARI NIOKU CENTI \[2\-hundred\-million\-centimeter\-long blades\] \- TV edit](https://open.spotify.com/track/1lySGuhlcZUJxLA5W5Bo7k) | [MAXIMUM THE HORMONE](https://open.spotify.com/artist/3AMut7lAb1JjINkn8Fmkhu) | [HAWATARI NIOKU CENTI \[2\-hundred\-million\-centimeter\-long blades\] \(TV edit\)](https://open.spotify.com/album/22bkV1gcP9weQRmRktdCM4) | 1:29 |
 | 24 | [19℃](https://open.spotify.com/track/5dlsXs7v9N6BmUFyF0h3kY) | [君島大空](https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ) | [19℃](https://open.spotify.com/album/5e6Dnt4gBECf2Sk2fb7QfS) | 4:13 |
 | 25 | [This Hell](https://open.spotify.com/track/7aHmvUghK3XCEqNRbUeAn4) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Hold The Girl](https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS) | 3:56 |
 | 26 | [Late summer waves](https://open.spotify.com/track/2nmfkEVZwZqSPmJnmgJqIu) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [Late summer waves](https://open.spotify.com/album/1uOlgoXblcCIlAAMdR63GU) | 2:35 |
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 | 50 | [永久彗星短歌水](https://open.spotify.com/track/71YRYbFlbyYXLHhZN2zpDJ) | [bonobos](https://open.spotify.com/artist/4TFfPbcLZFXw1C6zsJhoeX) | [.jp](https://open.spotify.com/album/2f4dNQKKphfenMl0Ll3MTJ) | 6:12 |
 | 51 | [ロマンス](https://open.spotify.com/track/7aYS9BNsXFIFEogRGL1rQC) | [kiki vivi lily](https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE) | [ロマンス](https://open.spotify.com/album/08X34HYaXRUkho62DxyGNf) | 3:44 |
 | 52 | [月に吠える](https://open.spotify.com/track/38ei5SpiWb0EU4hOVkMyCJ) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2), [中村佳穂](https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u) | [月に吠える](https://open.spotify.com/album/5koJBFB1gkG0R5fpQ3n1m3) | 3:25 |
-| 53 | [Trust the Change](https://open.spotify.com/track/5dP49R640BUhgm94Q2jcwR) | [Snowk](https://open.spotify.com/artist/2IEDOKhzkk1EKk93fZ759r), [J.Lamotta](https://open.spotify.com/artist/76O0DRobXGao078KT0xci8) | [Trust the change](https://open.spotify.com/album/26RHkcqDWEtACz7jzUERXu) | 3:21 |
+| 53 | [Trust the Change](https://open.spotify.com/track/5dP49R640BUhgm94Q2jcwR) | [Snowk](https://open.spotify.com/artist/2IEDOKhzkk1EKk93fZ759r), [J.Lamotta Suzume](https://open.spotify.com/artist/76O0DRobXGao078KT0xci8) | [Trust the change](https://open.spotify.com/album/26RHkcqDWEtACz7jzUERXu) | 3:21 |
 | 54 | [Trickster](https://open.spotify.com/track/4080qNZP4kWloqGH3ujVkp) | [FIVE NEW OLD](https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo) | [Departure : My New Me](https://open.spotify.com/album/6NFXKfWoqQFS1O22Pkvop0) | 3:42 |
 | 55 | [Lights \(feat\. Blu\)](https://open.spotify.com/track/0ivm0kmxQLyp6njZ7QerWn) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [Blu](https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT) | [Orbit](https://open.spotify.com/album/3qjoOf3C7LHzNJz9xJOF6p) | 3:17 |
 | 56 | [STARLIGHT](https://open.spotify.com/track/7gg611kXgkFXDwEdAAYSOD) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [STARLIGHT](https://open.spotify.com/album/3goLdwlEKJatLLNgVkRcxf) | 3:07 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 | 59 | [続・革命前夜](https://open.spotify.com/track/2osm196jE2UjFkwkwvVPTu) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [from JAPAN 3](https://open.spotify.com/album/1rgfecWGctA7ett2HdShmx) | 4:31 |
 | 60 | [D'Addario](https://open.spotify.com/track/39F8ghQo929nMGZAbNPpXM) | [ZOOKARADERU](https://open.spotify.com/artist/0mkwliKa9Bf7kdXMV1iuMp) | [D'Addario](https://open.spotify.com/album/0Jo41bqYOYzkwRA7MtttF3) | 4:48 |
 
-Snapshot ID: `MTY2ODA5MjQwMCwwMDAwMDAwMDZjNTg0OThhMTFkNWUxMWRjOTk1OTA2ZGVlYjc5NjU1`
+Snapshot ID: `MTY2ODA5MjQwMCwwMDAwMDAwMGJiMDljMDFmZDc5ZTMwOGJjODNjMTRhZDc1NzgxZmIz`

@@ -4,7 +4,7 @@
 
 > Kick back and relax with a collection of eclectic and unexpected reimaginings\. Cover:  Joy Oladokun
 
-261 songs - 16 hr 17 min - [published](https://open.spotify.com/playlist/406cJKXTiZWXbCtbjiF9b5)
+262 songs - 16 hr 20 min - [published](https://open.spotify.com/playlist/406cJKXTiZWXbCtbjiF9b5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,8 +212,9 @@
 | [Summer's End \- Spotify Singles](https://open.spotify.com/track/2lVPHHSn8elKFEf1d6evFG) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Maria Taylor](https://open.spotify.com/artist/6iKiDPed4LAQEcPZpvf00m) | [Spotify Singles](https://open.spotify.com/album/1pBRAyTNXs1QRRAFRZ4Ygs) | 3:54 | 2021-10-21 |  |
 | [Sunflower, Vol\. 6](https://open.spotify.com/track/535qfjYWFpQBjvIpWNG1ZG) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [...but i'd rather be with you](https://open.spotify.com/album/1Misn812Z5W216eNI7NuIy) | 3:55 | 2021-10-21 |  |
 | [Swingin Party](https://open.spotify.com/track/2aNLWRTcFXLspSLLuWOQwW) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Tennis Court](https://open.spotify.com/album/3cyAckv74LsJfbV5rCZ4bO) | 3:42 | 2022-03-22 | 2022-04-21 |
-| [Swingin Party](https://open.spotify.com/track/3YYwrOdeMEvmHBWHJ0TmB6) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Tennis Court](https://open.spotify.com/album/7EUGqK1EQw2k02BFR1hu47) | 3:42 | 2022-03-22 |  |
+| [Swingin Party](https://open.spotify.com/track/3YYwrOdeMEvmHBWHJ0TmB6) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Tennis Court](https://open.spotify.com/album/7EUGqK1EQw2k02BFR1hu47) | 3:42 | 2022-03-22 | 2022-11-12 |
 | [Tainted Love](https://open.spotify.com/track/0veEsZjFQOLS0H0xXVyrtu) | [Hannah Peel](https://open.spotify.com/artist/3LRldYGJpCAQT5cZKQyi7o) | [Rebox](https://open.spotify.com/album/2kqTrkRJWDlXwurRmhatdA) | 2:29 | 2022-03-22 | 2022-10-19 |
+| [Tainted Love](https://open.spotify.com/track/3s5HZY2OntlppCPeWQfzp0) | [Hannah Peel](https://open.spotify.com/artist/3LRldYGJpCAQT5cZKQyi7o) | [Rebox](https://open.spotify.com/album/22ZihqEwCSdZhBphWYleEz) | 2:29 | 2022-03-22 |  |
 | [Tainted Love](https://open.spotify.com/track/1SZ63wN0pk18Dr4Epyhcsf) | [Hannah Peel](https://open.spotify.com/artist/3LRldYGJpCAQT5cZKQyi7o) | [Rebox](https://open.spotify.com/album/3EDsEmujCvWc5ZzUIR17Ss) | 2:33 | 2022-03-22 | 2022-04-21 |
 | [Take on Me](https://open.spotify.com/track/5idADky7mHihopJGObd4hf) | [Lia Rose](https://open.spotify.com/artist/5c1Ag67oqsK5rOUtOmK9J0) | [Take on Me](https://open.spotify.com/album/5bwhlXoiRJorQ0bCavednq) | 3:28 | 2021-10-21 | 2022-07-28 |
 | [Tea, Milk & Honey](https://open.spotify.com/track/2IAYtvpg2nXU4NGSuliSaC) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Tea, Milk & Honey](https://open.spotify.com/album/7KHSCUxZ8MYOBnu6lOJpVX) | 5:04 | 2021-10-21 | 2022-07-29 |

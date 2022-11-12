@@ -98,6 +98,24 @@
     },
     {
       "album": {
+        "name": "Linton / / Oslo",
+        "url": "https://open.spotify.com/album/7c88HZqfqsdRmc7XqYBGny"
+      },
+      "artists": [
+        {
+          "name": "Austin Basham",
+          "url": "https://open.spotify.com/artist/3Dd1WVQvZUgyi9XEqOIPhA"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256680,
+      "name": "All Is Well",
+      "url": "https://open.spotify.com/track/27B803q0KBf9fmoAAK7V9h"
+    },
+    {
+      "album": {
         "name": "You and Me for Now",
         "url": "https://open.spotify.com/album/5KPl7k36JzLxe4bisDG8S4"
       },
@@ -109,7 +127,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 256680,
       "name": "All Is Well",
       "url": "https://open.spotify.com/track/3KAQ4xe2sR6IiltZw8HSA5"
@@ -1301,10 +1319,28 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 209511,
       "name": "Flags",
       "url": "https://open.spotify.com/track/3mRViwFBCegDxjCsvOf5gO"
+    },
+    {
+      "album": {
+        "name": "Sad",
+        "url": "https://open.spotify.com/album/29tlrcytHvDIfGeKT0VYUX"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209511,
+      "name": "Flags",
+      "url": "https://open.spotify.com/track/3ql8DrwdVR7j3UmP4n2mAv"
     },
     {
       "album": {
@@ -2130,6 +2166,24 @@
     },
     {
       "album": {
+        "name": "Your Love",
+        "url": "https://open.spotify.com/album/2Sq6apKgS1lqfbwrmOrkl7"
+      },
+      "artists": [
+        {
+          "name": "RY X",
+          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232386,
+      "name": "Let You Go",
+      "url": "https://open.spotify.com/track/2B9kz98zs5ssTPCkp4aQxd"
+    },
+    {
+      "album": {
         "name": "Blood Moon",
         "url": "https://open.spotify.com/album/2jCMxN3Ys1PCq6FQBEwM5L"
       },
@@ -2141,7 +2195,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 232386,
       "name": "Let You Go",
       "url": "https://open.spotify.com/track/3Q5EDW5YtRcnrWS2fTFnw1"
@@ -2279,6 +2333,24 @@
     {
       "album": {
         "name": "Mind on Fire",
+        "url": "https://open.spotify.com/album/5trx5tQegiqMUs45EPPFNp"
+      },
+      "artists": [
+        {
+          "name": "Aisha Badru",
+          "url": "https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194320,
+      "name": "Mind on Fire",
+      "url": "https://open.spotify.com/track/3n3PVJbIY4NVSkrxQUYD1X"
+    },
+    {
+      "album": {
+        "name": "Mind on Fire",
         "url": "https://open.spotify.com/album/1Ms5teyYCQM0bHa2aSKfod"
       },
       "artists": [
@@ -2307,7 +2379,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 194320,
       "name": "Mind on Fire",
       "url": "https://open.spotify.com/track/4LEdX9NFK0tVB5anrAIi1q"
@@ -2487,7 +2559,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 283653,
       "name": "Nimbin",
       "url": "https://open.spotify.com/track/0HrkzfsTe9A1sQqlX52i54"
@@ -2509,6 +2581,24 @@
       "duration_ms": 283653,
       "name": "Nimbin",
       "url": "https://open.spotify.com/track/1XKoiuHCjcuwc97dT0IDBP"
+    },
+    {
+      "album": {
+        "name": "Nimbin",
+        "url": "https://open.spotify.com/album/2ipeWOlIGpTe5wLMIp17K9"
+      },
+      "artists": [
+        {
+          "name": "Mappe Of",
+          "url": "https://open.spotify.com/artist/02Zxif3WoHx6ujXBSfBKOr"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283653,
+      "name": "Nimbin",
+      "url": "https://open.spotify.com/track/5ohfcfo1LaYZKJqbZ8dhCr"
     },
     {
       "album": {

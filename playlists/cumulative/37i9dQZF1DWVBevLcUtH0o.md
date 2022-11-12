@@ -4,7 +4,7 @@
 
 > When the music and the message is honest, songs can be both personal and universal\.   Here is a list that pushes and reflects the culture at large.
 
-55 songs - 3 hr 28 min - [published](https://open.spotify.com/playlist/0nS20VBWOXRuUexzH8mtkB)
+56 songs - 3 hr 32 min - [published](https://open.spotify.com/playlist/0nS20VBWOXRuUexzH8mtkB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [Chapter 9: Jim Crow](https://open.spotify.com/track/1svcGl2eFoC5QPvl6TMAwf) | [Sho Baraka](https://open.spotify.com/artist/3dpswct31rsudWf8ZASWZe) | [Talented 10th](https://open.spotify.com/album/5q7DPccOYhZGsXzf6OeF6w) | 5:22 | 2021-03-27 |  |
 | [Cold](https://open.spotify.com/track/2zBozF1qMYNhBlFGCj7qEl) | [Sharon Irving](https://open.spotify.com/artist/2pvdIgrTL1DsTSg1ipptEt) | [Bennett Ave.](https://open.spotify.com/album/1z74oHpg1NdxUo8TkQKEVd) | 3:18 | 2021-03-27 |  |
 | [Crooked Ways](https://open.spotify.com/track/2IKm4pDopgAgBSVKZd2Fqw) | [Propaganda](https://open.spotify.com/artist/7wGizTRCLYwsLnTuCBbJ6t), [Terence F\. Clark](https://open.spotify.com/artist/1POjjGDdXoEeXv27GsMxp5) | [Crooked](https://open.spotify.com/album/0DzwXN6eBlVAU3qCslDgv4) | 6:22 | 2021-03-27 |  |
-| [Cynical](https://open.spotify.com/track/3a0Why8uuPhUrO6XjqO0gm) | [Propaganda](https://open.spotify.com/artist/7wGizTRCLYwsLnTuCBbJ6t), [Aaron Marsh](https://open.spotify.com/artist/1iCRhLSPD5G9D33YVYBdX6), [Sho Baraka](https://open.spotify.com/artist/3dpswct31rsudWf8ZASWZe) | [Crooked](https://open.spotify.com/album/0DzwXN6eBlVAU3qCslDgv4) | 3:52 | 2021-03-27 |  |
+| [Cynical](https://open.spotify.com/track/3a0Why8uuPhUrO6XjqO0gm) | [Propaganda](https://open.spotify.com/artist/7wGizTRCLYwsLnTuCBbJ6t), [Aaron Marsh](https://open.spotify.com/artist/1iCRhLSPD5G9D33YVYBdX6), [Sho Baraka](https://open.spotify.com/artist/3dpswct31rsudWf8ZASWZe) | [Crooked](https://open.spotify.com/album/0DzwXN6eBlVAU3qCslDgv4) | 3:52 | 2021-03-27 | 2022-11-12 |
+| [Cynical](https://open.spotify.com/track/4QvhkYvJhleC2fweo7jIVJ) | [Propaganda](https://open.spotify.com/artist/7wGizTRCLYwsLnTuCBbJ6t), [Aaron Marsh](https://open.spotify.com/artist/1iCRhLSPD5G9D33YVYBdX6), [Sho Baraka](https://open.spotify.com/artist/3dpswct31rsudWf8ZASWZe) | [Cynical](https://open.spotify.com/album/2Z52Ku7N5BXOmX47gNUUNV) | 3:52 | 2021-03-27 |  |
 | [Dangerous Streets \(feat\. M.A.L.I.\)](https://open.spotify.com/track/6ruOgK80AAJlVlHqBkA21Q) | [Mouthpi3ce](https://open.spotify.com/artist/5ccLg9PXtgNpXdkIzw7Pvw) | [No Grey Lines](https://open.spotify.com/album/5U64ACHc6y4CqyYbFKAbpa) | 4:02 | 2021-03-27 |  |
 | [Dark Skin \(feat\. Black Violin\)](https://open.spotify.com/track/7jB8SaTcggKVHRffLcLs9W) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Black Violin](https://open.spotify.com/artist/4zeHJ3kiJyjYXlIOcG4MA7) | [His Glory Alone](https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj) | 2:18 | 2021-03-27 |  |
 | [Darkie](https://open.spotify.com/track/36pXJwXgT49AnEYNwCeYco) | [Propaganda](https://open.spotify.com/artist/7wGizTRCLYwsLnTuCBbJ6t), [Jackie Hill Perry](https://open.spotify.com/artist/0Lf9qKpKwy6fJtfM7UWLV0), [Micah Bournes](https://open.spotify.com/artist/0x7xqL4Noaw3mYcOgOCq03) | [Darkie](https://open.spotify.com/album/6Y3OohyhR1NQBoE3Zbtz7c) | 4:33 | 2021-03-27 |  |

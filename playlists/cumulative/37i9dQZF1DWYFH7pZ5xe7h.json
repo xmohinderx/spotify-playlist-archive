@@ -940,6 +940,40 @@
     },
     {
       "album": {
+        "name": "Kremerata Musica - Mahler / Sch\u00f6nberg / Berg / Webern",
+        "url": "https://open.spotify.com/album/5rkIii1oZaarmImsEuK5jT"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Gidon Kremer",
+          "url": "https://open.spotify.com/artist/24ibCRKLtfIZcfrixiBAsm"
+        },
+        {
+          "name": "Veronika Hagen",
+          "url": "https://open.spotify.com/artist/3ijxXTal6hr7byhqZDdHsP"
+        },
+        {
+          "name": "Clemens Hagen",
+          "url": "https://open.spotify.com/artist/1TuIsPqRpIB3EhZEN6V3yG"
+        },
+        {
+          "name": "Oleg Maisenberg",
+          "url": "https://open.spotify.com/artist/0uIlrJqe58rIie9LnMS1ow"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 664000,
+      "name": "Piano Quartet in A minor (1876) Quartet for piano, violin, viola and cello: 1. Nicht zu schnell",
+      "url": "https://open.spotify.com/track/0TX14ARX1AD0w3vR5shKOT"
+    },
+    {
+      "album": {
         "name": "Mahler 101",
         "url": "https://open.spotify.com/album/6CCpm7zjSGxs4EC8ieeGcL"
       },
@@ -967,7 +1001,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 664000,
       "name": "Piano Quartet in A minor (1876) Quartet for piano, violin, viola and cello: 1. Nicht zu schnell",
       "url": "https://open.spotify.com/track/5ZWMSt8teEueoBW6mE1kqq"
@@ -1573,10 +1607,32 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 632386,
       "name": "Symphony No. 2 in C Minor, \"Resurrection\": II. Andante moderato",
       "url": "https://open.spotify.com/track/2gC4HKZ2Bhubhi3dgICGay"
+    },
+    {
+      "album": {
+        "name": "Gustav Mahler: Sinfonie Nr. 2",
+        "url": "https://open.spotify.com/album/3AxXvjC7n8j77e8RUYO3Kt"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "David Zinman",
+          "url": "https://open.spotify.com/artist/2J7jiJ5cdLieortTaN6yMT"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 632386,
+      "name": "Symphony No. 2 in C Minor, \"Resurrection\": II. Andante moderato",
+      "url": "https://open.spotify.com/track/7LcBEShTZXKXzMN7pyJtRg"
     },
     {
       "album": {

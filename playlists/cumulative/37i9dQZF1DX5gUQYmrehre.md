@@ -4,7 +4,7 @@
 
 > Cutting edge LGBTQQIA+ artists from around the world\. Cover: Nakhane
 
-101 songs - 5 hr 47 min - [published](https://open.spotify.com/playlist/6tZ9oOtL1fmmsmHpgOrWJQ)
+103 songs - 5 hr 54 min - [published](https://open.spotify.com/playlist/6tZ9oOtL1fmmsmHpgOrWJQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Cara de Gitana](https://open.spotify.com/track/2xrpeQqyVNARu5ojQNSF6U) | [Julieta Laso](https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk) | [La Caldera](https://open.spotify.com/album/4JjADR0Plz1NsDzxud6sgg) | 3:36 | 2022-05-31 |  |
 | [Cassandra](https://open.spotify.com/track/2IzvvXVObhaZgyKQF6ajkU) | [R.Y.F.](https://open.spotify.com/artist/6KvSMX9OVVJxn6mfCXbAOe) | [Everything Burns](https://open.spotify.com/album/0IjZeZ1jjg3cguTdjhLhQP) | 4:01 | 2022-05-31 | 2022-10-23 |
 | [Cassandra](https://open.spotify.com/track/46UkHlPLkyPBePpEW9i26a) | [R.Y.F.](https://open.spotify.com/artist/6KvSMX9OVVJxn6mfCXbAOe) | [Everything Burns](https://open.spotify.com/album/4hafVynEHNLuadYVKA3A0f) | 4:01 | 2022-05-31 |  |
+| [Child Of The Government](https://open.spotify.com/track/0FeIx6wBbp7QFzCy69wZDb) | [Jayli Wolf](https://open.spotify.com/artist/09AACzWu09h30NeqLRn4Tx) | [Wild Whisper](https://open.spotify.com/album/2w5zuoqI6N7eduXN8LYzte) | 3:41 | 2022-05-31 |  |
 | [Child Of The Government](https://open.spotify.com/track/2c9bXyhZiAco7lXNyugSl6) | [Jayli Wolf](https://open.spotify.com/artist/09AACzWu09h30NeqLRn4Tx) | [Child Of The Government](https://open.spotify.com/album/6ivfvK9CGo2SbdOMsRag5L) | 3:41 | 2022-05-31 | 2022-11-11 |
 | [Cicada \(feat\. Arca\)](https://open.spotify.com/track/1r4MvTc1gwfHdt2TuMMYx0) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077), [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Romeo](https://open.spotify.com/album/0dXxoVKkKfIFVgGO2FUu2u) | 3:53 | 2022-05-31 |  |
 | [Culpa](https://open.spotify.com/track/6rCbWp5PpcHM01S75xdjED) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Culpa](https://open.spotify.com/album/39eLAGLNchxBaC2GQcH61K) | 3:21 | 2022-05-31 |  |
@@ -43,12 +44,13 @@
 | [Gayby](https://open.spotify.com/track/4beOP1YEY0RMmixXStaISR) | [Sam Vance\-Law](https://open.spotify.com/artist/2M5w5QrYTg2yiuURwaQLEF) | [Homotopia](https://open.spotify.com/album/0Vfx8EEOmxX8RKaBqJNyuZ) | 2:54 | 2022-05-31 |  |
 | [GET ME OUTTA HERE](https://open.spotify.com/track/5Q4TOgmVhnDKhhizJFhkO8) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [GET ME OUTTA HERE](https://open.spotify.com/album/6Uxgt4YmTbnhyeYVa5wBvY) | 3:14 | 2022-05-31 |  |
 | [God Is A Freak](https://open.spotify.com/track/4cqj8FIWkyR5A2XBtcqRMU) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [God Is A Freak](https://open.spotify.com/album/1MNgeaQuHhr47jSmqQH47e) | 3:07 | 2022-05-31 |  |
-| [Green Line](https://open.spotify.com/track/3M6sO0Bsnb8qkrLvnMFuQn) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt), [Terrell Morris](https://open.spotify.com/artist/7C3agcqFXnteDagiWhaZdU) | [Green Line](https://open.spotify.com/album/6MZjMmvBQvPrxRrwN8qS7o) | 3:26 | 2022-05-31 |  |
+| [Green Line](https://open.spotify.com/track/3M6sO0Bsnb8qkrLvnMFuQn) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt), [Terrell Morris](https://open.spotify.com/artist/7C3agcqFXnteDagiWhaZdU) | [Green Line](https://open.spotify.com/album/6MZjMmvBQvPrxRrwN8qS7o) | 3:26 | 2022-05-31 | 2022-11-12 |
 | [Green Line](https://open.spotify.com/track/5Atbk3bEaMvNn7x9oCNjHX) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt), [Terrell Morris](https://open.spotify.com/artist/7C3agcqFXnteDagiWhaZdU) | [2022 the EP](https://open.spotify.com/album/3tnN1rF99kxjz5UfMUGj0U) | 3:26 | 2022-05-31 | 2022-10-13 |
+| [Green Line](https://open.spotify.com/track/5HnzNCPAkKZaW0FLV65ieo) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt), [Terrell Morris](https://open.spotify.com/artist/7C3agcqFXnteDagiWhaZdU) | [2022 the EP](https://open.spotify.com/album/4SFm9plXrpnFHYQEkGq1QM) | 3:26 | 2022-05-31 |  |
 | [Hasta Que Me Quieras](https://open.spotify.com/track/0wI4vrJkIMDBcmYHiGWKt5) | [Tayhana](https://open.spotify.com/artist/647u1oTQ3MgB1k4FwVrPfg) | [Cenizas Quedaban](https://open.spotify.com/album/5oBu9wifcYcFlOOoNif6lY) | 5:32 | 2022-05-31 |  |
 | [Hauntology](https://open.spotify.com/track/7psLe6PhPQZm3B7nqaD3l8) | [Lauren Auder](https://open.spotify.com/artist/5rxf4rjZ5lyhKt7DWM5dLL) | [Hauntology](https://open.spotify.com/album/3pvwLH6Zu6JCrpBCk8XkBG) | 3:59 | 2022-05-31 |  |
 | [Hawaiian Party](https://open.spotify.com/track/13aTJyIiL95yMLU5df5jts) | [Cub Sport](https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt) | [BATS](https://open.spotify.com/album/1AJzEn7qQlNfheoRp2tXQN) | 4:02 | 2022-05-31 |  |
-| [HEAL](https://open.spotify.com/track/2cBysRhIZ0SddRIJPEuYOI) | [Celaviedmai](https://open.spotify.com/artist/4c61VuJuumv26ISGZ4VzcO) | [Both Sides of the Story](https://open.spotify.com/album/6Hbt5gcy8lzmYC23vjlwHp) | 2:18 | 2022-05-31 |  |
+| [HEAL](https://open.spotify.com/track/2cBysRhIZ0SddRIJPEuYOI) | [Celaviedmai](https://open.spotify.com/artist/4c61VuJuumv26ISGZ4VzcO) | [Both Sides of the Story](https://open.spotify.com/album/6Hbt5gcy8lzmYC23vjlwHp) | 2:18 | 2022-05-31 | 2022-11-12 |
 | [Heartbeat](https://open.spotify.com/track/5HWsGUloryGa2IxSCofayo) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP), [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [José Louis And The Paradox Of Love](https://open.spotify.com/album/5tDp9bLRK35HVbFIG80lpf) | 3:04 | 2022-05-31 |  |
 | [HUNTER SCHAFER](https://open.spotify.com/track/2rmKfU3dFpq9sM7VWn8hBu) | [Ray Laurél](https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA) | [HUNTER SCHAFER](https://open.spotify.com/album/6XcDYfrVonxMFBGQS00Bpl) | 3:13 | 2022-05-31 |  |
 | [I Saw Light](https://open.spotify.com/track/6zhs6CjZBoaXD44VFTBzQ8) | [Kae Tempest](https://open.spotify.com/artist/1YcprGtF13BYCZQK9jYPEw), [Grian Chatten](https://open.spotify.com/artist/6XyAI3jtlsss5mJjAAJXzE) | [The Line Is A Curve](https://open.spotify.com/album/5bmSkzrpPUCfimC9pBt5MD) | 3:03 | 2022-05-31 |  |

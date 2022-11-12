@@ -4,7 +4,7 @@
 
 > Shout ¡Viva México! with these classics.
 
-103 songs - 5 hr 45 min - [published](https://open.spotify.com/playlist/6qnCnZn96nGZ0DeWk7dFOu)
+104 songs - 5 hr 49 min - [published](https://open.spotify.com/playlist/6qnCnZn96nGZ0DeWk7dFOu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,8 @@
 | [Me Gustas Tu](https://open.spotify.com/track/6b37xrsNCWYIUphFBazqD6) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Próxima Estación: Esperanza](https://open.spotify.com/album/4t1LLdXiWTfoywqricztFo) | 3:59 | 2021-12-08 |  |
 | [Mil Horas](https://open.spotify.com/track/6aiOkKVEe8Mo0O3ycrrn7z) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Transformando La Cumbia](https://open.spotify.com/album/0oQPPVHlGTrEPptF9mOZeZ) | 4:14 | 2021-12-08 |  |
 | [More Than Words \- Spotify Singles](https://open.spotify.com/track/6OOTtXpBTXSJYCgKf6zjae) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Spotify Singles](https://open.spotify.com/album/0lVcgikFRVzcHtmNCZfgT1) | 3:33 | 2021-12-08 | 2022-09-13 |
-| [Ni Contigo, Ni Sin Ti](https://open.spotify.com/track/3tHYpuF2eIc4pDrzIdNN3Y) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Esto Sí Es Cumbia](https://open.spotify.com/album/3m1T3n3PcjlOoo4GfLGgkY) | 4:11 | 2022-09-12 |  |
+| [Ni Contigo, Ni Sin Ti](https://open.spotify.com/track/3tHYpuF2eIc4pDrzIdNN3Y) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Esto Sí Es Cumbia](https://open.spotify.com/album/3m1T3n3PcjlOoo4GfLGgkY) | 4:11 | 2022-09-12 | 2022-11-12 |
+| [Ni Contigo, Ni Sin Ti](https://open.spotify.com/track/51gNwRZGaM3SE84HcnSO06) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Éxitos Para La Fiesta \-Las Numero Uno\-](https://open.spotify.com/album/0zqHvACI7LFDz2z2bMg9Zk) | 4:11 | 2022-09-12 |  |
 | [No Se Va](https://open.spotify.com/track/5TXLMRrIet3CQxkyBZc3yE) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [No Se Va](https://open.spotify.com/album/4doKN48F7hHYG3WOujGP0F) | 3:14 | 2022-09-12 | 2022-10-07 |
 | [No Se Va \- En Vivo](https://open.spotify.com/track/5JhUm1v5AbI5Yu6jLKCPRO) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [No Se Va \(En Vivo\)](https://open.spotify.com/album/700G54RNkWryfdCZdfyw7A) | 3:14 | 2022-09-12 |  |
 | [Nuestra Canción](https://open.spotify.com/track/5reQI13tWWYDLMrGcUF4Mk) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK), [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Caja de Música](https://open.spotify.com/album/4XSLqHHDwqAnjwoMTtx7jC) | 4:20 | 2021-12-08 | 2022-09-13 |

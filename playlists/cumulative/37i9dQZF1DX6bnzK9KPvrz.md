@@ -4,7 +4,7 @@
 
 > The essential tracks from The Weeknd.
 
-101 songs - 6 hr 27 min - [published](https://open.spotify.com/playlist/6uoeuT1V3h46eQ4ThAisl4)
+102 songs - 6 hr 30 min - [published](https://open.spotify.com/playlist/6uoeuT1V3h46eQ4ThAisl4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,8 @@
 | [Missed You \- Bonus Track](https://open.spotify.com/track/38uNCW1do0LKfMIt4MDkPo) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours \(Deluxe\)](https://open.spotify.com/album/6YlDIxqEjvY63ffH6AwCjd) | 2:24 | 2022-08-25 |  |
 | [Missed You \- Bonus Track](https://open.spotify.com/track/5SGEPm9ge10bD4j3ec9UHV) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours \(Deluxe\)](https://open.spotify.com/album/742eAldb4AJKLoPgJhGRE7) | 2:24 | 2022-07-25 | 2022-11-11 |
 | [Missed You \- Bonus Track](https://open.spotify.com/track/6TooMkzB9xE9FM9qxuEQeX) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours \(Deluxe\)](https://open.spotify.com/album/2gWDbNPfFcIR1EewwlvyqJ) | 2:24 | 2021-11-23 | 2022-07-29 |
-| [Moth To A Flame \(with The Weeknd\)](https://open.spotify.com/track/0VO8gYVDSwM1Qdd2GsMoYK) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Paradise Again](https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH) | 3:54 | 2022-07-25 |  |
+| [Moth To A Flame](https://open.spotify.com/track/5skCXaRnin2BIR8U5V2Z10) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dance electro mood](https://open.spotify.com/album/1z9nNuYJuBwgOVI9efNg7B) | 3:54 | 2022-08-25 |  |
+| [Moth To A Flame \(with The Weeknd\)](https://open.spotify.com/track/0VO8gYVDSwM1Qdd2GsMoYK) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Paradise Again](https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH) | 3:54 | 2022-07-25 | 2022-11-12 |
 | [Moth To A Flame \(with The Weeknd\)](https://open.spotify.com/track/2gpWyfu7eZ01zzncHpxOtA) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Moth To A Flame](https://open.spotify.com/album/3udIvIqyBG1RrHxXrUZDoK) | 3:54 | 2021-11-23 | 2022-07-29 |
 | [Nothing Compares \- Bonus Track](https://open.spotify.com/track/14mgSrrQRN8K9HaVHhKjze) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours \(Deluxe\)](https://open.spotify.com/album/2gWDbNPfFcIR1EewwlvyqJ) | 3:42 | 2021-11-23 | 2022-07-29 |
 | [Nothing Compares \- Bonus Track](https://open.spotify.com/track/5ciyqWW5YuGqF4Avu7uwry) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours \(Deluxe\)](https://open.spotify.com/album/6YlDIxqEjvY63ffH6AwCjd) | 3:42 | 2022-08-25 |  |

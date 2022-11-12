@@ -1,12 +1,12 @@
 {
-  "description": "Prendete con tu lista favorita de Dembow. Foto: Aleesha",
-  "num_followers": 67848,
+  "description": "Prendete con tu lista favorita de Dembow. Foto: El Alfa",
+  "num_followers": 67988,
   "original_name": "Rep\u00fablica Dembow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTc3MTI0MCwwMDAwMDAwMDBmNWI4NGE2MWVmOTg0NjRhMjI4NzU0MjdhOTI3YTk1",
+  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMGI2N2M5NTFjNjk5NzRkZjBjMDMwNGQ4ZWJhOGYwNDAx",
   "tracks": [
     {
       "added_at": "2022-10-14 18:14:00",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2022-10-14 18:14:00",
       "album": {
-        "name": "Y Ya Tu Sabe Klk",
-        "url": "https://open.spotify.com/album/0Ky59Xxja0vkUT0WS0tZZf"
-      },
-      "artists": [
-        {
-          "name": "Los Teke Teke",
-          "url": "https://open.spotify.com/artist/2aFsWgI7uUdQlJtR1OF5wl"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "El Teke Teke",
-      "url": "https://open.spotify.com/track/0EJMCMFG7uRPRn3K4pTb1v"
-    },
-    {
-      "added_at": "2022-10-14 18:14:00",
-      "album": {
         "name": "Hip Hop Dominicano",
         "url": "https://open.spotify.com/album/1d7x3KPX9Icc4AqG5oZau7"
       },
@@ -1547,6 +1531,42 @@
       "duration_ms": 190593,
       "name": "Peine Caracol, Vol. 2",
       "url": "https://open.spotify.com/track/5Gv6kUJV6yukwNfK8XikRp"
+    },
+    {
+      "added_at": "2022-10-14 18:14:00",
+      "album": {
+        "name": "Tu Cojea (Remix)",
+        "url": "https://open.spotify.com/album/0zm0Z4PQAioer5GHfdG1Wi"
+      },
+      "artists": [
+        {
+          "name": "Vakero",
+          "url": "https://open.spotify.com/artist/5rlwbF5flU2JCmAzV5Obu0"
+        },
+        {
+          "name": "Chimbala",
+          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
+        },
+        {
+          "name": "Quimico Ultra Mega",
+          "url": "https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX"
+        },
+        {
+          "name": "El Fecho RD",
+          "url": "https://open.spotify.com/artist/2qHuI4Avg4Dbowhu8whV9e"
+        },
+        {
+          "name": "Yomel El Meloso",
+          "url": "https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul"
+        },
+        {
+          "name": "La Perversa",
+          "url": "https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo"
+        }
+      ],
+      "duration_ms": 244916,
+      "name": "Tu Cojea - Remix",
+      "url": "https://open.spotify.com/track/7i5yhydTMHfFyU9UiEzDOX"
     }
   ],
   "unique_name": "Rep\u00fablica Dembow",

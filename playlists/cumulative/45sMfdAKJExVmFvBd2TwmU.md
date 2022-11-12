@@ -4,7 +4,7 @@
 
 > Shah Rukh Khan\-Alia\-Ranbir\-Love Songs\-KK\-Kartik Aaryan\-Arijit Singh\-Pritam\-Love Songs\-Bollywood Love Songs\-Hindi Love Songs\-Soft Romantic Love Songs\-Hindi Films\-Bollywood Romance\-Bollywood Soft Romance\-Relaxing Love Songs\-Best Love Songs\-Slow Romantic Bollywood Songs\-Most Romantic LoveSong
 
-118 songs - 9 hr 26 min - not published yet
+119 songs - 9 hr 29 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Neele Neele Ambar Par \- Male Version](https://open.spotify.com/track/02zPo0Dt0R4TTFY5zLJZnK) | [Kalyanji\-Anandji](https://open.spotify.com/artist/7pWXlTjky0KXWgbdZi9ebq), [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y) | [Kalaakaar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3438iV4EeQYLyaqvT34AMa) | 5:20 | 2022-11-10 |  |
 | [O Meri Jaan \- Rewind Version](https://open.spotify.com/track/6eINZvQ3O47sni95tdIFxI) | [Raj Barman](https://open.spotify.com/artist/5qERXbPWPdUePjrAW00vuU) | [O Meri Jaan \(Rewind Version\)](https://open.spotify.com/album/17gPncS6KK7qR0UzyhDMw6) | 3:14 | 2022-06-07 |  |
 | [O Meri Jaan \- Unplugged](https://open.spotify.com/track/2itHhmP7mL5Sqe9Ic71sIB) | [KK](https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp) | [KK : Unplugged](https://open.spotify.com/album/1HvSbkHFr46Rt49hFN1ltv) | 5:47 | 2022-06-07 |  |
+| [O Sanam \- Reprise](https://open.spotify.com/track/7kX2gucepepyao9uiLfuP4) | [JalRaj](https://open.spotify.com/artist/5fuBZptKdXWB7NLT2eDwaT) | [O Sanam \(Reprise\)](https://open.spotify.com/album/16Ef3PREwSvH9zZqfRovfo) | 3:33 | 2022-11-11 |  |
 | [Ok Jaanu Title Track](https://open.spotify.com/track/7a77VY7mjvK6EiaBeOosmk) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Srinidhi Venkatesh](https://open.spotify.com/artist/1PDFenKwhb7oNx0bxCyQF2) | [OK Jaanu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Ha8CM9px7D2fn25K4ijl6) | 3:26 | 2022-01-18 |  |
 | [Pal](https://open.spotify.com/track/79hQvdTHNBkq2fp2ZrM8b2) | [Javed\-Mohsin](https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Jalebi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2XSR5WDCh2PIYE0fp7C3cN) | 4:07 | 2021-08-18 |  |
 | [Pani Da Rang Male \(From "Vicky Donor"\)](https://open.spotify.com/track/6sfVSlvCl5evgokuWNrHbE) | [Ayushmann Khurrana](https://open.spotify.com/artist/7qHsapL39aTQsPhixtzVvy) | [Vicky Donor](https://open.spotify.com/album/4AyGMWLHvkZiBniFBvTw8F) | 4:00 | 2022-03-17 |  |

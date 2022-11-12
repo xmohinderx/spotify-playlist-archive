@@ -1,12 +1,12 @@
 {
   "description": "La banda sonora para tus cenas en casa.",
-  "num_followers": 338673,
+  "num_followers": 338725,
   "original_name": "Cena con Amigos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjYxMDUyMiwwMDAwMDAwMDJkODgxN2Q4ZTYzMzgxNzc4MjdmMGE1ZjBhZTM5OTI0",
+  "snapshot_id": "MTY2NjYxMDUyMiwwMDAwMDAwMGRhNTQ3MmU3NTg1N2RlNjcyOTZjNzdiMmM3M2I0NzQ5",
   "tracks": [
     {
       "added_at": "2021-01-19 12:00:00",
@@ -111,8 +111,8 @@
     {
       "added_at": "2021-01-19 12:00:00",
       "album": {
-        "name": "O",
-        "url": "https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1"
+        "name": "Fix You - Don't Give Up",
+        "url": "https://open.spotify.com/album/27dyHDrbDUbrsBHlVpOKmO"
       },
       "artists": [
         {
@@ -122,23 +122,7 @@
       ],
       "duration_ms": 286653,
       "name": "The Blower's Daughter",
-      "url": "https://open.spotify.com/track/4B2lJinAkeNLSJjcq3dg8Q"
-    },
-    {
-      "added_at": "2021-01-19 12:00:00",
-      "album": {
-        "name": "Tea For The Tillerman (Remastered 2020)",
-        "url": "https://open.spotify.com/album/44VxbAytHpVi3Rq8hRhild"
-      },
-      "artists": [
-        {
-          "name": "Yusuf / Cat Stevens",
-          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
-        }
-      ],
-      "duration_ms": 200560,
-      "name": "Wild World",
-      "url": "https://open.spotify.com/track/7mjSHL2Eb0kAwiKbvNNyD9"
+      "url": "https://open.spotify.com/track/4A97ukPiSDVpxfOryjr68D"
     },
     {
       "added_at": "2021-01-19 12:00:00",
@@ -155,6 +139,22 @@
       "duration_ms": 179693,
       "name": "At Last",
       "url": "https://open.spotify.com/track/4Hhv2vrOTy89HFRcjU3QOx"
+    },
+    {
+      "added_at": "2021-01-19 12:00:00",
+      "album": {
+        "name": "Back To Black (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "duration_ms": 233733,
+      "name": "Valerie - Live At BBC Radio 1 Live Lounge, London / 2007",
+      "url": "https://open.spotify.com/track/6nLvaCZFR1wEzW3sIKpsnr"
     },
     {
       "added_at": "2021-01-19 12:00:00",
@@ -179,38 +179,6 @@
     {
       "added_at": "2021-01-19 12:00:00",
       "album": {
-        "name": "Aretha Now",
-        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 216773,
-      "name": "I Say a Little Prayer",
-      "url": "https://open.spotify.com/track/3NfxSdJnVdon1axzloJgba"
-    },
-    {
-      "added_at": "2021-01-19 12:00:00",
-      "album": {
-        "name": "Back To Black (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG"
-      },
-      "artists": [
-        {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
-        }
-      ],
-      "duration_ms": 233733,
-      "name": "Valerie - Live At BBC Radio 1 Live Lounge, London / 2007",
-      "url": "https://open.spotify.com/track/6nLvaCZFR1wEzW3sIKpsnr"
-    },
-    {
-      "added_at": "2021-01-19 12:00:00",
-      "album": {
         "name": "Let's Stay Together",
         "url": "https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0"
       },
@@ -223,22 +191,6 @@
       "duration_ms": 199396,
       "name": "Let's Stay Together",
       "url": "https://open.spotify.com/track/63xdwScd1Ai1GigAwQxE8y"
-    },
-    {
-      "added_at": "2021-01-19 12:00:00",
-      "album": {
-        "name": "Staying at Tamara's",
-        "url": "https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj"
-      },
-      "artists": [
-        {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
-        }
-      ],
-      "duration_ms": 211763,
-      "name": "Hold My Girl",
-      "url": "https://open.spotify.com/track/42bbDWZ8WmXTH7PkYAlGLu"
     },
     {
       "added_at": "2021-01-19 12:00:00",
@@ -259,6 +211,22 @@
     {
       "added_at": "2021-01-19 12:00:00",
       "album": {
+        "name": "Staying at Tamara's",
+        "url": "https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        }
+      ],
+      "duration_ms": 211763,
+      "name": "Hold My Girl",
+      "url": "https://open.spotify.com/track/42bbDWZ8WmXTH7PkYAlGLu"
+    },
+    {
+      "added_at": "2021-01-19 12:00:00",
+      "album": {
         "name": "Good Thing",
         "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
       },
@@ -275,22 +243,6 @@
     {
       "added_at": "2021-01-19 12:00:00",
       "album": {
-        "name": "Sweet Baby James (2019 Remaster)",
-        "url": "https://open.spotify.com/album/1HiG0ukRmFPN13EVcf98Jx"
-      },
-      "artists": [
-        {
-          "name": "James Taylor",
-          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
-        }
-      ],
-      "duration_ms": 203613,
-      "name": "Fire and Rain - 2019 Remaster",
-      "url": "https://open.spotify.com/track/1oht5GevPN9t1T3kG1m1GO"
-    },
-    {
-      "added_at": "2021-01-19 12:00:00",
-      "album": {
         "name": "Mama Said",
         "url": "https://open.spotify.com/album/7A3LlV59lh4KljWa7I6Tks"
       },
@@ -303,42 +255,6 @@
       "duration_ms": 242640,
       "name": "It Ain't Over 'Til It's Over",
       "url": "https://open.spotify.com/track/6VnpKLtfNH4Dk09YSGPSyR"
-    },
-    {
-      "added_at": "2021-01-19 12:00:00",
-      "album": {
-        "name": "Sinatra/Basie: The Complete Reprise Studio Recordings",
-        "url": "https://open.spotify.com/album/2NCtCObbmJoJnplsR5mLAl"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        },
-        {
-          "name": "Count Basie",
-          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "Fly Me To The Moon (In Other Words)",
-      "url": "https://open.spotify.com/track/5b7OgznPJJr1vHNYGyvxau"
-    },
-    {
-      "added_at": "2021-01-19 12:00:00",
-      "album": {
-        "name": "Appetite For Destruction (Super Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3edmYBHOTxfz8NxJE1QmTP"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 354880,
-      "name": "Patience",
-      "url": "https://open.spotify.com/track/1OEoNpiyqBghuEUaT6Je6U"
     },
     {
       "added_at": "2021-01-19 12:00:00",
@@ -451,26 +367,6 @@
       "duration_ms": 175493,
       "name": "Stand by Me",
       "url": "https://open.spotify.com/track/7jmHyHMEqm9MJWiMAneF05"
-    },
-    {
-      "added_at": "2021-01-19 12:00:00",
-      "album": {
-        "name": "Geography",
-        "url": "https://open.spotify.com/album/28enuddLPEA914scE6Drvk"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        },
-        {
-          "name": "De La Soul",
-          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
-        }
-      ],
-      "duration_ms": 261881,
-      "name": "It Runs Through Me",
-      "url": "https://open.spotify.com/track/02CygBCQOIyEuhNZqHHcNx"
     },
     {
       "added_at": "2021-01-19 12:00:00",
@@ -731,22 +627,6 @@
     {
       "added_at": "2021-01-19 12:00:00",
       "album": {
-        "name": "I met you when I was 18. (the playlist)",
-        "url": "https://open.spotify.com/album/71cQY3dUThCY6vVKaUIXqR"
-      },
-      "artists": [
-        {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Never Not",
-      "url": "https://open.spotify.com/track/3ZPBZH2k9p306C1bu7bkhC"
-    },
-    {
-      "added_at": "2021-01-19 12:00:00",
-      "album": {
         "name": "T\u00fa",
         "url": "https://open.spotify.com/album/41OfyTxfB3ou95Ib24VlV2"
       },
@@ -763,22 +643,6 @@
     {
       "added_at": "2021-01-19 12:00:00",
       "album": {
-        "name": "This Is Dean Martin",
-        "url": "https://open.spotify.com/album/7dfnxOYh1XR9AKqCcGckGX"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 181626,
-      "name": "Volare (Nel Blu Di Pinto Di Blu) - Remastered 1998",
-      "url": "https://open.spotify.com/track/5OkKOkdVTKFrYi6GWXkMzR"
-    },
-    {
-      "added_at": "2021-01-19 12:00:00",
-      "album": {
         "name": "WALLS",
         "url": "https://open.spotify.com/album/08ibdX8K0GETv20UEku3sm"
       },
@@ -791,6 +655,22 @@
       "duration_ms": 329666,
       "name": "WALLS",
       "url": "https://open.spotify.com/track/41QhRnFDdhMLtR8tmnolbr"
+    },
+    {
+      "added_at": "2021-01-19 12:00:00",
+      "album": {
+        "name": "This Is Dean Martin",
+        "url": "https://open.spotify.com/album/7dfnxOYh1XR9AKqCcGckGX"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 181626,
+      "name": "Volare (Nel Blu Di Pinto Di Blu) - Remastered 1998",
+      "url": "https://open.spotify.com/track/5OkKOkdVTKFrYi6GWXkMzR"
     },
     {
       "added_at": "2021-01-19 12:00:00",
@@ -859,26 +739,6 @@
     {
       "added_at": "2021-01-19 12:00:00",
       "album": {
-        "name": "The Virgin Suicides (Original Motion Picture Score)",
-        "url": "https://open.spotify.com/album/2E1q8eohZZ1BUQ7Bq5WUIY"
-      },
-      "artists": [
-        {
-          "name": "Air",
-          "url": "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
-        },
-        {
-          "name": "Gordon Tracks",
-          "url": "https://open.spotify.com/artist/4DWl8U58uYeeTtlvbrLEY6"
-        }
-      ],
-      "duration_ms": 211500,
-      "name": "Playground Love",
-      "url": "https://open.spotify.com/track/052z2UsE2wPrHsBJ9tly0g"
-    },
-    {
-      "added_at": "2021-01-19 12:00:00",
-      "album": {
         "name": "Wasteland, Baby!",
         "url": "https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw"
       },
@@ -891,6 +751,26 @@
       "duration_ms": 237800,
       "name": "Movement",
       "url": "https://open.spotify.com/track/1djzKW3eYLyzjjHXazEWWh"
+    },
+    {
+      "added_at": "2021-01-19 12:00:00",
+      "album": {
+        "name": "Moon Safari",
+        "url": "https://open.spotify.com/album/5dmYtZVJ1bG9RyrZBRrkOA"
+      },
+      "artists": [
+        {
+          "name": "Air",
+          "url": "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
+        },
+        {
+          "name": "Beth Hirsch",
+          "url": "https://open.spotify.com/artist/7a1nGgiWVcRP4PV6xkXQ96"
+        }
+      ],
+      "duration_ms": 268306,
+      "name": "All I Need (feat. Beth Hirsch)",
+      "url": "https://open.spotify.com/track/6T10XPeC9X5xEaD6tMcK6M"
     },
     {
       "added_at": "2021-01-19 12:00:00",
@@ -939,42 +819,6 @@
       "duration_ms": 282000,
       "name": "The Look Of Love",
       "url": "https://open.spotify.com/track/3CDHydgW0ssTh59f0jy1y3"
-    },
-    {
-      "added_at": "2021-01-19 12:00:00",
-      "album": {
-        "name": "Moon Safari",
-        "url": "https://open.spotify.com/album/5dmYtZVJ1bG9RyrZBRrkOA"
-      },
-      "artists": [
-        {
-          "name": "Air",
-          "url": "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
-        },
-        {
-          "name": "Beth Hirsch",
-          "url": "https://open.spotify.com/artist/7a1nGgiWVcRP4PV6xkXQ96"
-        }
-      ],
-      "duration_ms": 268306,
-      "name": "All I Need (feat. Beth Hirsch)",
-      "url": "https://open.spotify.com/track/6T10XPeC9X5xEaD6tMcK6M"
-    },
-    {
-      "added_at": "2021-01-19 12:00:00",
-      "album": {
-        "name": "Tuesday Night Music Club",
-        "url": "https://open.spotify.com/album/7dC6axVAeBDpRMmNtRbpwU"
-      },
-      "artists": [
-        {
-          "name": "Sheryl Crow",
-          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
-        }
-      ],
-      "duration_ms": 189826,
-      "name": "Strong Enough",
-      "url": "https://open.spotify.com/track/25IRjWUZ60n7KXxcB4DiX9"
     },
     {
       "added_at": "2021-01-19 12:00:00",
@@ -1031,26 +875,6 @@
       "duration_ms": 238000,
       "name": "In a Manner of Speaking",
       "url": "https://open.spotify.com/track/4ygRdvjxDYngbgddCtXDjT"
-    },
-    {
-      "added_at": "2021-01-19 12:00:00",
-      "album": {
-        "name": "Dean Martin: The Capitol Recordings, Vol. 4 (1952-1954)",
-        "url": "https://open.spotify.com/album/5jQlSnsavt8afiXBFDNE8I"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        },
-        {
-          "name": "Dick Stabile And His Orchestra",
-          "url": "https://open.spotify.com/artist/0liyb0PPDyu3pfG7WZtsxO"
-        }
-      ],
-      "duration_ms": 190400,
-      "name": "That's Amore",
-      "url": "https://open.spotify.com/track/4I4aQGNJ2HufloNtB65nxR"
     },
     {
       "added_at": "2021-01-19 12:00:00",
@@ -1167,6 +991,22 @@
     {
       "added_at": "2021-01-19 12:00:00",
       "album": {
+        "name": "Parsley, Sage, Rosemary And Thyme",
+        "url": "https://open.spotify.com/album/1sh32o99zA04PJIUJUpEj7"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 103560,
+      "name": "The 59th Street Bridge Song (Feelin' Groovy)",
+      "url": "https://open.spotify.com/track/0dzbfio3qTYG9uk40SJNcr"
+    },
+    {
+      "added_at": "2021-01-19 12:00:00",
+      "album": {
         "name": "Project 11",
         "url": "https://open.spotify.com/album/0aytGzjInPwluxhlSLxoot"
       },
@@ -1183,22 +1023,6 @@
       "duration_ms": 282329,
       "name": "Carry Me Home",
       "url": "https://open.spotify.com/track/6fracv4du3sDwo1XKcPrkw"
-    },
-    {
-      "added_at": "2021-01-19 12:00:00",
-      "album": {
-        "name": "Parsley, Sage, Rosemary And Thyme",
-        "url": "https://open.spotify.com/album/1sh32o99zA04PJIUJUpEj7"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 103560,
-      "name": "The 59th Street Bridge Song (Feelin' Groovy)",
-      "url": "https://open.spotify.com/track/0dzbfio3qTYG9uk40SJNcr"
     },
     {
       "added_at": "2021-01-19 12:00:00",
@@ -1263,6 +1087,174 @@
       "duration_ms": 262893,
       "name": "Brown Sugar",
       "url": "https://open.spotify.com/track/7rt0kEDWRg3pgTZJKuszoE"
+    },
+    {
+      "added_at": "2021-01-19 12:00:00",
+      "album": {
+        "name": "Currency Of Man",
+        "url": "https://open.spotify.com/album/2iKiVmx8ohPDn1hJmxC9tD"
+      },
+      "artists": [
+        {
+          "name": "Melody Gardot",
+          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
+        }
+      ],
+      "duration_ms": 305265,
+      "name": "Morning Sun",
+      "url": "https://open.spotify.com/track/7aoJg1wQEqMx1t875H5fww"
+    },
+    {
+      "added_at": "2021-01-19 12:00:00",
+      "album": {
+        "name": "Bossa Covers",
+        "url": "https://open.spotify.com/album/4PqKilSesJz6BjuccmQNye"
+      },
+      "artists": [
+        {
+          "name": "Nara",
+          "url": "https://open.spotify.com/artist/17bmLZfybbQpZtJCxmcL81"
+        },
+        {
+          "name": "Bossa Bros",
+          "url": "https://open.spotify.com/artist/5jd0MgoI9F3hxcQHBPEk6V"
+        }
+      ],
+      "duration_ms": 250575,
+      "name": "All of Me",
+      "url": "https://open.spotify.com/track/4zGap9GhyeMN1QleAmvR1F"
+    },
+    {
+      "added_at": "2021-01-19 12:00:00",
+      "album": {
+        "name": "Sounds Of Silence",
+        "url": "https://open.spotify.com/album/07RAGILF28QweYQSZasr5k"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 169520,
+      "name": "I Am a Rock",
+      "url": "https://open.spotify.com/track/0byOqNZN9ailhoORv5Ps0Z"
+    },
+    {
+      "added_at": "2021-01-19 12:00:00",
+      "album": {
+        "name": "That Was Yesterday",
+        "url": "https://open.spotify.com/album/2GYGaipOwfLGveAF3ta6Iv"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 230013,
+      "name": "That Was Yesterday",
+      "url": "https://open.spotify.com/track/3gwfEBrFpzEFCZMjw7mqxA"
+    },
+    {
+      "added_at": "2021-01-19 12:00:00",
+      "album": {
+        "name": "Hello Dolly To Goodbye Charlie",
+        "url": "https://open.spotify.com/album/2eUmHmpjsRfIJvulkcGfug"
+      },
+      "artists": [
+        {
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+        }
+      ],
+      "duration_ms": 124560,
+      "name": "Call Me Irresponsible",
+      "url": "https://open.spotify.com/track/0Juciz8gOjrO89qw5KwQV5"
+    },
+    {
+      "added_at": "2021-01-19 12:00:00",
+      "album": {
+        "name": "Us",
+        "url": "https://open.spotify.com/album/7pWw6ozRByPfbII3rqDnct"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        },
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 187226,
+      "name": "Us",
+      "url": "https://open.spotify.com/track/2lmMt4SRDXDma6QkJUox0D"
+    },
+    {
+      "added_at": "2021-01-19 12:00:00",
+      "album": {
+        "name": "Get Lucky (Acoustic)",
+        "url": "https://open.spotify.com/album/7kqflmHaXiCRFSF6gd7wwW"
+      },
+      "artists": [
+        {
+          "name": "Linn Brikell",
+          "url": "https://open.spotify.com/artist/0PNyNiPpI6zQnbQyXDPQzu"
+        }
+      ],
+      "duration_ms": 188605,
+      "name": "Get Lucky - Acoustic",
+      "url": "https://open.spotify.com/track/2aXBORgLuv2czaJVyeLOl7"
+    },
+    {
+      "added_at": "2021-01-19 12:00:00",
+      "album": {
+        "name": "Designer",
+        "url": "https://open.spotify.com/album/39CMyhmaEk6JMlqYUXQNOI"
+      },
+      "artists": [
+        {
+          "name": "Aldous Harding",
+          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+        }
+      ],
+      "duration_ms": 299440,
+      "name": "The Barrel",
+      "url": "https://open.spotify.com/track/06lw2dBFqdXhAErz7Xz9Zs"
+    },
+    {
+      "added_at": "2021-01-19 12:00:00",
+      "album": {
+        "name": "Girls Just Wanna Have Fun",
+        "url": "https://open.spotify.com/album/1WJCyViZxB0GWgvZicSxKY"
+      },
+      "artists": [
+        {
+          "name": "The Mayries",
+          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
+        }
+      ],
+      "duration_ms": 172992,
+      "name": "Girls Just Wanna Have Fun - Acoustic",
+      "url": "https://open.spotify.com/track/7rohDMzsbmSmol7sIZs0Px"
+    },
+    {
+      "added_at": "2021-01-19 12:00:00",
+      "album": {
+        "name": "Givin' It Back",
+        "url": "https://open.spotify.com/album/0xd0GqZYWh9wEA3TuqMy5h"
+      },
+      "artists": [
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        }
+      ],
+      "duration_ms": 223520,
+      "name": "Love the One You're With",
+      "url": "https://open.spotify.com/track/0NnyYBnyStcNKDu7PejLPF"
     }
   ],
   "unique_name": "Cena con Amigos",

@@ -4,7 +4,7 @@
 
 > the best of the best tracks\. Cover: Phoebe Bridgers
 
-481 songs - 1 day 6 hr 57 min - [published](https://open.spotify.com/playlist/3bETkXXSq4lQrH2ppPTrRl)
+482 songs - 1 day 7 hr 0 min - [published](https://open.spotify.com/playlist/3bETkXXSq4lQrH2ppPTrRl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Anthems for a Seventeen Year Old Girl](https://open.spotify.com/track/4DBHHcVniAuOU7NdemvWsL) | [Broken Social Scene](https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd) | [You Forgot it in People](https://open.spotify.com/album/4Awy6Aaczv4aecYZYDSQXu) | 4:35 | 2021-02-08 | 2022-05-21 |
 | [Apocalypse](https://open.spotify.com/track/3AVrVz5rK8Hrqo9YGiVGN5) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC) | 4:50 | 2021-02-08 |  |
 | [Archie, Marry Me](https://open.spotify.com/track/5HLes17mwCwKt81mi0Tk35) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Alvvays](https://open.spotify.com/album/4PrBMzWzzoMOwm55Bfo3dt) | 3:16 | 2021-02-08 | 2022-07-29 |
-| [Are You Bored Yet? \(feat\. Clairo\)](https://open.spotify.com/track/57RA3JGafJm5zRtKJiKPIm) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Nothing Happens](https://open.spotify.com/album/7eed9MBclFPjjjvotfR2e9) | 2:58 | 2022-06-17 |  |
+| [Are You Bored Yet? \(feat\. Clairo\)](https://open.spotify.com/track/57RA3JGafJm5zRtKJiKPIm) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Nothing Happens](https://open.spotify.com/album/7eed9MBclFPjjjvotfR2e9) | 2:58 | 2022-06-17 | 2022-11-12 |
 | [Argonauts](https://open.spotify.com/track/0A4nmNFa3HNGiyJLGoHJUg) | [The Little Ones](https://open.spotify.com/artist/2bDSLK8y2edA9n2TPbzv6h) | [The Dawn Sang Along](https://open.spotify.com/album/5vzEcIbZwkf5IMX4HLKSkQ) | 3:07 | 2021-02-08 | 2022-04-20 |
 | [Astrovan](https://open.spotify.com/track/14e46mURUUwB3i2vTe1gFz) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Mt\. Joy](https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01) | 3:06 | 2021-10-14 | 2022-07-29 |
 | [At My Heels](https://open.spotify.com/track/6PTlVOT5oLWkxw6sbNPZ2u) | [Twin Shadow](https://open.spotify.com/artist/6fLrPFLWLSCrp7gcTZXcKb) | [Forget](https://open.spotify.com/album/5FJNfe8y08XaQAzOquOgV9) | 3:36 | 2021-02-08 | 2022-04-20 |
@@ -409,6 +409,7 @@
 | [The Breeze](https://open.spotify.com/track/2NVaKeIAUZwN5tXnn12EMi) | [Dr\. Dog](https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7) | [Fate](https://open.spotify.com/album/7deW5FlwTnjalzBDAftgwf) | 3:59 | 2021-02-08 | 2022-07-29 |
 | [The Difference](https://open.spotify.com/track/4nlvKIIetOWGIMyhjQXgOZ) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [The Difference](https://open.spotify.com/album/3QgFzksD4J43TnGIJOOrRV) | 2:19 | 2022-06-17 |  |
 | [The Divine Chord](https://open.spotify.com/track/3A0cAzFKPefBCz7Z02UnnO) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED), [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE), [Johnny Marr](https://open.spotify.com/artist/2bA2YuQk2ID3PWNXUhQrWS) | [We Will Always Love You](https://open.spotify.com/album/755yBlrk0Sz8tIgMMTgyr1) | 3:07 | 2022-04-29 | 2022-07-29 |
+| [The Dress](https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Absolutely](https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO) | 3:04 | 2022-10-26 |  |
 | [The Funeral](https://open.spotify.com/track/4o0NjemqhmsYLIMwlcosvW) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Everything All The Time](https://open.spotify.com/album/5uMfshtC2Jwqui0NUyUYIL) | 5:21 | 2021-02-08 | 2022-04-16 |
 | [The Funeral](https://open.spotify.com/track/5lRzWDEe7UuedU2QPsFg0K) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Everything All The Time](https://open.spotify.com/album/7ik4rjxOnmwnAWWzjj5ni3) | 5:22 | 2022-06-17 |  |
 | [The Gardener](https://open.spotify.com/track/6oI3Inlpzlik5e7cy4Sdi8) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Shallow Grave](https://open.spotify.com/album/6CwaEwoWhkrNTUk8t5OxBg) | 3:57 | 2021-02-08 | 2022-04-18 |

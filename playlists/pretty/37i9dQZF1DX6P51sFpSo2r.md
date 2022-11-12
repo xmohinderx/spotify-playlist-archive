@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6P51sFpSo2r.md) - [plain]
 
 > The perfect mix between old\-school and modern Metalcore\. Cover: Bring Me The Horizon
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,319 likes - 60 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,772 likes - 60 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,11 +62,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6P51sFpSo2r.md) - [plain]
 | 52 | [Nerdy](https://open.spotify.com/track/5qonKXM5Uh1I7PB75Xhx86) | [Poison The Well](https://open.spotify.com/artist/71t8oi0TjZ9Op6JRrVqaBx) | [The Opposite of December..\. A Season of Separation](https://open.spotify.com/album/6mmNgiTBec2A1jp8N3XMHq) | 2:43 |
 | 53 | [Milk Lizard](https://open.spotify.com/track/4TOZ8TuZQRMEgJjNsgewg2) | [The Dillinger Escape Plan](https://open.spotify.com/artist/7IGcjaMGAtsvKBLQX26W4i) | [Ire Works](https://open.spotify.com/album/65ai7QRrruWGNPcVU23PgD) | 3:55 |
 | 54 | [I Let Go](https://open.spotify.com/track/3SBERYG6n7kYL7KvnImp5k) | [Eighteen Visions](https://open.spotify.com/artist/1KcePrJuVbBv9SyqCEpdPb) | [Obsession](https://open.spotify.com/album/1d4qOPcYpX3g2ta8JSyf6s) | 3:22 |
-| 55 | [Moral Eclipse](https://open.spotify.com/track/0pcOFA9Nw7QYW8G5sqGIWk) | [Cave In](https://open.spotify.com/artist/5m2NwwPj4pzGQC0PQwMBWi) | [Until Your Heart Stops](https://open.spotify.com/album/4uEbn5VjsqdbBQoMCI01Pl) | 2:05 |
+| 55 | [Moral Eclipse](https://open.spotify.com/track/648m77R2BwUDET7OY7Wzlo) | [Cave In](https://open.spotify.com/artist/5m2NwwPj4pzGQC0PQwMBWi) | [Extreme Music Sampler](https://open.spotify.com/album/4m0GhiaLelgQ44HRnG14ow) | 2:08 |
 | 56 | [Sword In Mouth, Fire Eyes](https://open.spotify.com/track/5GQlWWb1evGQw5CwZ6iRJg) | [Norma Jean](https://open.spotify.com/artist/55b0Gfm53udtGBs8mmNXrH) | [Wrongdoers](https://open.spotify.com/album/2n6jhBxAIapcSnLciCEF4p) | 4:25 |
 | 57 | [Empty Promises](https://open.spotify.com/track/2IYfepbNqRb0STzaW3LDt7) | [Hatebreed](https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV) | [Satisfaction Is The Death Of Desire](https://open.spotify.com/album/4FSyBxzdZ4uVtyHPUKAnPE) | 1:18 |
 | 58 | [My Heart Bleeds The Darkest Blood](https://open.spotify.com/track/6bjwYuQOB1Ryhygge7HSzt) | [Shai Hulud](https://open.spotify.com/artist/4AlPDOBuB1s7NuIPo4veZu) | [Hearts Once Nourished With Hope And Compassion](https://open.spotify.com/album/2fOjW8LUg3muNzmmEYsHOQ) | 2:05 |
 | 59 | [Concubine](https://open.spotify.com/track/1ui9EPnCqTurWbYICi9Gld) | [Converge](https://open.spotify.com/artist/7kHzfxMLtVHHb523s43rY1) | [Jane Doe](https://open.spotify.com/album/2gtM4m6sglJDrX3toJWZO6) | 1:19 |
 | 60 | [Mordecai](https://open.spotify.com/track/2Fui3xJLasH473qnBa2T6C) | [Between The Buried And Me](https://open.spotify.com/artist/2JC4hZm1egeJDEolLsMwZ9) | [The Silent Circus](https://open.spotify.com/album/1rmiMSKXg6o8F1UVBdhQpN) | 5:47 |
 
-Snapshot ID: `MTY2NzU1MjEyNywwMDAwMDAwMDVhZTk4Yzc1YzU1MzM1NjBiYjk5NDdjNTIzMWQ5OGRk`
+Snapshot ID: `MTY2NzU1MjEyNywwMDAwMDAwMDYxODUwMmIzZmIxODFlZGU3MDBkYjUxMTQ4ZWMzMmVm`

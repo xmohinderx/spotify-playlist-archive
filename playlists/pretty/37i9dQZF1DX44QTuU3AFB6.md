@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44QTuU3AFB6.md) - [plain]
 
 > ¡Rolas pa' pistear con Los Farmerz!
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,133 likes - 60 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,140 likes - 60 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [No Se Va \- En Vivo](https://open.spotify.com/track/5JhUm1v5AbI5Yu6jLKCPRO) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [No Se Va \(En Vivo\)](https://open.spotify.com/album/700G54RNkWryfdCZdfyw7A) | 3:14 |
 | 2 | [Siempre Pendientes](https://open.spotify.com/track/5PfFHceiEv61KldMOuVrv8) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Siempre Pendientes](https://open.spotify.com/album/23UaQnh22hlEWcbGMJidJm) | 3:06 |
 | 3 | [El Rescate](https://open.spotify.com/track/4w273WCBXwM4P3jTX5HkB2) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [El Rescate](https://open.spotify.com/album/32QttkMiHZ1eXkXv6BVGcP) | 2:40 |
-| 4 | [JGL](https://open.spotify.com/track/5kpxVMDvYGRmNqawPqDTYR) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [JGL](https://open.spotify.com/album/1VwBEj5qv0cbe78LJmANhW) | 2:38 |
-| 5 | [Chale](https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Chale](https://open.spotify.com/album/6xsbNXdWNHFDvl9vCT3a8a) | 2:50 |
+| 4 | [Chale](https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Chale](https://open.spotify.com/album/6xsbNXdWNHFDvl9vCT3a8a) | 2:50 |
+| 5 | [JGL](https://open.spotify.com/track/5kpxVMDvYGRmNqawPqDTYR) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [JGL](https://open.spotify.com/album/1VwBEj5qv0cbe78LJmANhW) | 2:38 |
 | 6 | [Los Botones Azules](https://open.spotify.com/track/3ZGkdrigbWXLgHungXfZkt) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Mi Vida En Un Cigarro 2](https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb) | 2:15 |
 | 7 | [Calidad](https://open.spotify.com/track/0uBcoM4zxRXk7kmsmxoiFS) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Luis Mexia](https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC) | [Calidad](https://open.spotify.com/album/2ZaaYylAxHJ6sPJe9mHwHb) | 2:50 |
 | 8 | [Si Fuera Fácil](https://open.spotify.com/track/7Jph6HJbfURt4Fea19IED3) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Si Fuera Fácil](https://open.spotify.com/album/3CUu8nxAMyjCiTeGyiBOKE) | 2:50 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44QTuU3AFB6.md) - [plain]
 | 55 | [Aquel Amor \(En Vivo\)](https://open.spotify.com/track/0gLN87r6gzXso908wPoPDS) | [Dueto Consentido](https://open.spotify.com/artist/5oTnGKTgUQYePdPHjbTM4R) | [Levemente \(En Vivo Desde South Central\)](https://open.spotify.com/album/1ZRHMa2uYFUA3RT7DpQC3S) | 3:29 |
 | 56 | [El Sabio Salomon](https://open.spotify.com/track/7nnhkMvzavk5aVtZ4MdHyz) | [Los Canelos De Durango](https://open.spotify.com/artist/4XAsg7uclewySpdLcD81LJ) | [Las Mananitas](https://open.spotify.com/album/59nureviycFEwHY7L1jfjD) | 3:45 |
 | 57 | [El Ahuate](https://open.spotify.com/track/2hTWTQ3kXZVl2KTzBxqYBr) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Pistiando y Cantando](https://open.spotify.com/album/0wMUKIvlpMpn6pHUBo7371) | 4:30 |
-| 58 | [Que Suerte La Mia](https://open.spotify.com/track/5dSTAjTVA3UUWoJEHC9PWa) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Pistiando y Cantando](https://open.spotify.com/album/0wMUKIvlpMpn6pHUBo7371) | 3:30 |
-| 59 | [Gilberto Garcia](https://open.spotify.com/track/5PGBjrA0BQ5vytGGe1pDRS) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Pistiando y Cantando](https://open.spotify.com/album/0wMUKIvlpMpn6pHUBo7371) | 3:35 |
+| 58 | [Gilberto Garcia](https://open.spotify.com/track/5PGBjrA0BQ5vytGGe1pDRS) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Pistiando y Cantando](https://open.spotify.com/album/0wMUKIvlpMpn6pHUBo7371) | 3:35 |
+| 59 | [Que Suerte La Mia](https://open.spotify.com/track/5dSTAjTVA3UUWoJEHC9PWa) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Pistiando y Cantando](https://open.spotify.com/album/0wMUKIvlpMpn6pHUBo7371) | 3:30 |
 | 60 | [El Caminante](https://open.spotify.com/track/1Qji9zxko5AlpXamrMrNCu) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Pistiando y Cantando](https://open.spotify.com/album/0wMUKIvlpMpn6pHUBo7371) | 3:07 |
 
-Snapshot ID: `MTY2NjMzMDA3NiwwMDAwMDAwMDkyNWNkNmVlOTE3NzBmODgyNTAzZDY3YzIxY2QyMWVi`
+Snapshot ID: `MTY2NjMzMDA3NiwwMDAwMDAwMGI5MDcyYWIzYTgxYjczNWI3ZDgwOGFlNDk4YjFmMDI1`

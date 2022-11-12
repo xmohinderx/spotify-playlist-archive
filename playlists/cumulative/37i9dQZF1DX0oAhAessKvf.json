@@ -774,6 +774,28 @@
     },
     {
       "album": {
+        "name": "Pina All Star",
+        "url": "https://open.spotify.com/album/2KaPz9oimH1NIEJMhInB8a"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157106,
+      "name": "En la Cama",
+      "url": "https://open.spotify.com/track/5AYkL3GvrhBhjplMdG89BT"
+    },
+    {
+      "album": {
         "name": "Exitos",
         "url": "https://open.spotify.com/album/2qSyMVTIKLArOx4GNcvutB"
       },
@@ -1891,7 +1913,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 161632,
       "name": "Pers\u00edgueme",
       "url": "https://open.spotify.com/track/2STcXIS8BHSiRsypyRA19r"
@@ -3071,7 +3093,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 306373,
       "name": "Viernes 13 - Parte 1",
       "url": "https://open.spotify.com/track/1oOWSnh9KTsYjBpnaC4NIB"
@@ -3143,7 +3165,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 262466,
       "name": "Xplosion",
       "url": "https://open.spotify.com/track/58q5Jz1My29hgf6lh2N2Sj"

@@ -4,7 +4,7 @@
 
 > 音楽家、俳優、文筆家として幅広く活躍する星野源のオールタイム・ベスト！Check out all the essentials from superstar singer\-songwriter, Gen Hoshino!
 
-117 songs - 7 hr 36 min - [published](https://open.spotify.com/playlist/22qlKi8WPucrn2tBUEeuG7)
+119 songs - 7 hr 46 min - [published](https://open.spotify.com/playlist/22qlKi8WPucrn2tBUEeuG7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [Dust](https://open.spotify.com/track/08r2AeGoMNJKd21IVl5N1V) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Gag](https://open.spotify.com/album/6A3T1oQsAklCecRLwiKPps) | 3:46 | 2022-07-17 |  |
 | [Family Song](https://open.spotify.com/track/3Ms2WsIGHExju0gpucrWxv) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Family Song](https://open.spotify.com/album/1oJznhV4m2H2PeeNkCnKbR) | 5:24 | 2022-07-17 |  |
 | [Family Song](https://open.spotify.com/track/6XzDz5r1bGMkcOKeXQwTqM) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Family Song](https://open.spotify.com/album/6xgolNn3qUk3c2fvkBKuwN) | 5:24 | 2022-04-07 | 2022-07-29 |
-| [Film](https://open.spotify.com/track/4heHCAVdN0df6wrtN6moAI) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Stranger](https://open.spotify.com/album/7GJtALMajef2QQw7cyzXyx) | 4:49 | 2022-07-17 |  |
+| [Film](https://open.spotify.com/track/4heHCAVdN0df6wrtN6moAI) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Stranger](https://open.spotify.com/album/7GJtALMajef2QQw7cyzXyx) | 4:49 | 2022-07-17 | 2022-11-12 |
+| [Film](https://open.spotify.com/track/33aI7zjfWi9zuQdhVjFGuQ) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Film](https://open.spotify.com/album/20B8tfOi3zX4Fi1Qm3f5CY) | 4:51 | 2022-09-15 |  |
 | [Friend Ship](https://open.spotify.com/track/3hKwzU4pRQwDr5YJODcuRf) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [YELLOW DANCER](https://open.spotify.com/album/1vtIqjn25qHypqyoI21q8d) | 4:42 | 2022-07-17 |  |
 | [Friend Ship](https://open.spotify.com/track/6BQkSdgPMRdXTfW3ZT0WHY) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [YELLOW DANCER](https://open.spotify.com/album/3Fj07HA1r20hRdF9eepuax) | 4:42 | 2022-04-07 | 2022-07-29 |
 | [FUSHIGI](https://open.spotify.com/track/3dPpQeLTWjCjEbSevDMQfW) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [FUSHIGI](https://open.spotify.com/album/0DgaDZNp5WTWVpCS8jYI5M) | 4:50 | 2022-07-17 |  |
@@ -68,7 +69,8 @@
 | [Pop Virus](https://open.spotify.com/track/4hQ5tBCwPRkzhFB424U63U) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [POP VIRUS](https://open.spotify.com/album/2GP1RmB0LvvuXOwOmrtG86) | 3:02 | 2022-04-07 | 2022-07-29 |
 | [Pop Virus](https://open.spotify.com/track/6hDBkm6B8HF9B4oATW28YN) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [POP VIRUS](https://open.spotify.com/album/7oFLY1YL5bBI32UHsmQO6q) | 3:02 | 2022-07-17 |  |
 | [Ranshi](https://open.spotify.com/track/2Tg1VOIfnI1w6GZDf7owty) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Film](https://open.spotify.com/album/20B8tfOi3zX4Fi1Qm3f5CY) | 3:28 | 2022-07-17 |  |
-| [Sakura no Mori](https://open.spotify.com/track/7eEvKU1yG1JaaBEjyV7ySN) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [YELLOW DANCER](https://open.spotify.com/album/1vtIqjn25qHypqyoI21q8d) | 5:10 | 2022-07-17 |  |
+| [Sakura no Mori](https://open.spotify.com/track/7eEvKU1yG1JaaBEjyV7ySN) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [YELLOW DANCER](https://open.spotify.com/album/1vtIqjn25qHypqyoI21q8d) | 5:10 | 2022-07-17 | 2022-11-12 |
+| [Sakura no Mori](https://open.spotify.com/track/3yBMzpbHGbQjxC9UwmRP02) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Crazy Crazy/Sakura no Mori](https://open.spotify.com/album/1a7bYgO5K7wzEhZgGlnZ23) | 5:12 | 2022-09-15 |  |
 | [Same Thing \(feat\. Superorganism\)](https://open.spotify.com/track/0NZNtJar3qon6oVIR6XjIA) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs), [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE) | [Same Thing](https://open.spotify.com/album/2op3b4cWvxjWI3TlD9M8a3) | 3:20 | 2022-04-07 | 2022-07-29 |
 | [Same Thing \(feat\. Superorganism\)](https://open.spotify.com/track/3deGeTEWAMMPDMzKUFP39q) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs), [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE) | [Same Thing](https://open.spotify.com/album/2ejyLOljyWuPWtSCHaxIue) | 3:20 | 2022-07-17 |  |
 | [Sapiens](https://open.spotify.com/track/2YXAvGaZ0NidrX5keTA4dM) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [POP VIRUS](https://open.spotify.com/album/7oFLY1YL5bBI32UHsmQO6q) | 3:52 | 2022-07-17 |  |

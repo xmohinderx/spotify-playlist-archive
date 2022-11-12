@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:1AHswQqsDNmu1xaE8KpBne">COBRAH</a>'s favorite tracks\. Updated regularly\. Curated by COBRAH\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-65 songs - 3 hr 24 min - [published](https://open.spotify.com/playlist/4xLS3kxb86h66ggrbBM0cE)
+66 songs - 3 hr 30 min - [published](https://open.spotify.com/playlist/4xLS3kxb86h66ggrbBM0cE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,8 @@
 | [Sex And Drugs \- Benny Benassi Remix](https://open.spotify.com/track/2fQZyLoSKynCEzZoBKtxBR) | [Hyper Crush](https://open.spotify.com/artist/2OHNfsJ6k7pJI3eRxv2dSF), [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6) | [Sex And Drugs \(Benny Benassi Remix\)](https://open.spotify.com/album/49bsTeL19oJATWuYvAMB4l) | 5:56 | 2022-08-31 |  |
 | [Señorita](https://open.spotify.com/track/0mjDJiWmZ548y9EUnogCP1) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [KicK iii](https://open.spotify.com/album/1paea7BPqUpZksvNkQ2cqQ) | 2:21 | 2022-08-31 |  |
 | [Short Dick Man \- Club Mix](https://open.spotify.com/track/6ZZr5ew0DvA6xda9T5owOU) | [20 Fingers](https://open.spotify.com/artist/0OarfYzJPCi3lAVZ4nhTTd), [Gillette](https://open.spotify.com/artist/20ldWECcOHmOWwKwAwvn4y) | [Short Dick Man](https://open.spotify.com/album/3BQ6ifqB1pglyvEJQrcauT) | 4:50 | 2022-08-31 |  |
-| [Smack My Bitch Up](https://open.spotify.com/track/2iwGE4y7yF8qzKc5WZ2Z8R) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [The Fat of the Land](https://open.spotify.com/album/2qivROlvQ8BcUKTaCA7dL2) | 5:43 | 2022-08-31 |  |
+| [Smack My Bitch Up](https://open.spotify.com/track/1yYMtoXAnmivjrm0FD31Ok) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [The Fat of the Land \- Expanded Edition](https://open.spotify.com/album/3knGLri9I3X3oO24mDNdkG) | 5:43 | 2022-08-31 |  |
+| [Smack My Bitch Up](https://open.spotify.com/track/2iwGE4y7yF8qzKc5WZ2Z8R) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [The Fat of the Land](https://open.spotify.com/album/2qivROlvQ8BcUKTaCA7dL2) | 5:43 | 2022-08-31 | 2022-11-12 |
 | [SRS](https://open.spotify.com/track/2YqnLz7YNpDzX0nlYVnAmF) | [Chase Icon](https://open.spotify.com/artist/5XPJP6zfXVlPJtO4QSsSmQ) | [SRS](https://open.spotify.com/album/0EdZaveXeFBbqfq56kW7cH) | 2:41 | 2022-08-31 |  |
 | [Sugar Mami \(feat\. Gini Santana\)](https://open.spotify.com/track/5Cipoy9vB4xDdCGnoMpJQH) | [MJ Nebreda](https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy), [Gini Santana](https://open.spotify.com/artist/1KBsQLZwxvQ6H5lh7zjeji) | [Sin Pensar](https://open.spotify.com/album/6UAGXIPMrWgPcqWuT0iwra) | 2:07 | 2022-08-31 |  |
 | [Techno](https://open.spotify.com/track/2c3I3ew3iJ4xgiMQ7fA8Qf) | [Destructo](https://open.spotify.com/artist/0BEYTctVmnYa5yStp4Jpab) | [Techno](https://open.spotify.com/album/0mjxsK2Ha4QWEmPNhfZ0jk) | 3:45 | 2022-08-31 |  |

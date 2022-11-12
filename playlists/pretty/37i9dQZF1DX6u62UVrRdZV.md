@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6u62UVrRdZV.md) - [plain]
 
 > Summer or not: get into a sunny and beachy mood, with this selection of reggae born music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,030 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,025 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6u62UVrRdZV.md) - [plain]
 | 15 | [Bumpy Dub](https://open.spotify.com/track/131KcLSzomCoCPAKTQAGCI) | [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9), [Daniel Boyle](https://open.spotify.com/artist/1xFOkcHacBBvt32D5jMUfQ) | [The Black Album](https://open.spotify.com/album/20qoMFB3XcP9vHI27EwWnn) | 4:14 |
 | 16 | [Bedroom Bully](https://open.spotify.com/track/5esGnzJMqZQP3XBWC4PJYY) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [It \(Incomparable Talent\)](https://open.spotify.com/album/1DHJhXAwi3cvPM0LscDsyZ) | 2:45 |
 | 17 | [Don't Play No Game That I Can't Win](https://open.spotify.com/track/1Emrs7nn0qSeoCzSRApiFK) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx), [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [Hot Sauce Committee \(Pt\. 2\)](https://open.spotify.com/album/4ZdM8DkKgfTCz8e0wJk9CX) | 4:11 |
-| 18 | [Mama She Don't Like You \(feat\. I.Eye\)](https://open.spotify.com/track/1wWqU1J2RvPdf9k1ECn4Ny) | [Alborosie](https://open.spotify.com/artist/78u1jLVBjPSXQVmHBV43yG), [I.Eye](https://open.spotify.com/artist/01zqTZ32M8dp9sjSRFlNCt) | [Escape From Babylon](https://open.spotify.com/album/2wrZVi0cgQtRhpYytAHpdD) | 4:08 |
+| 18 | [Mama She Don't Like You \(feat\. I Eye\)](https://open.spotify.com/track/13OTG0HfiSCa4HqkTuKkBS) | [Alborosie](https://open.spotify.com/artist/78u1jLVBjPSXQVmHBV43yG), [I.Eye](https://open.spotify.com/artist/01zqTZ32M8dp9sjSRFlNCt) | [Specialist Presents Alborosie & Friends](https://open.spotify.com/album/4Ff7Bbdh51v4Dp7kJSS4sD) | 3:56 |
 | 19 | [Lean On](https://open.spotify.com/track/5HV6C387PhPGCFJPxWdLGY) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Lean On \(Remixes\)](https://open.spotify.com/album/7dGgwByFn57Fg9FVng8aZh) | 2:56 |
 | 20 | [Turn Me On](https://open.spotify.com/track/0BBOLOV5JntPL3341swIre) | [Kevin Lyttle](https://open.spotify.com/artist/1GaBsp1ICIp1e6udgE7fba) | [Kevin Lyttle \(US Domestic Release\)](https://open.spotify.com/album/0OWwtYwEZFMquSeHGNv3cw) | 3:12 |
 | 21 | [Small Axe](https://open.spotify.com/track/1eBIJWWBM7hdJNXytP5use) | [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9) | [Bob Marley vs\. Lee "Scratch" Perry: The Best of the Upsetter Years 1970\-1971](https://open.spotify.com/album/5AbZ3BpOwjnlGBmzEygP6N) | 3:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6u62UVrRdZV.md) - [plain]
 | 49 | [Special Delivery](https://open.spotify.com/track/6YwqfLLJVipwMZoFxhFpNq) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Special Delivery](https://open.spotify.com/album/0R8MTkNTCXHFFXYu8awNfq) | 1:42 |
 | 50 | [Whine Up \(feat\. Elephant Man\) \- English Version](https://open.spotify.com/track/7L1zJMkc9Ho7Ox0uSFC9TL) | [Kat Deluna](https://open.spotify.com/artist/0bOlhT8OcoC1lCpN69NcFP), [Elephant Man](https://open.spotify.com/artist/6NOvBZrkd83MSD51xkq4on) | [Whine Up \(feat\. Elephant Man\) \[English Version\]](https://open.spotify.com/album/0VFNKCeUyetANvSnS5KLQe) | 3:23 |
 
-Snapshot ID: `MTYwNTcwMTczNiwwMDAwMDAwMGIyM2ZhMDJmYjQ2ZjRlZmQzODk4ZGZkMzJjYWI3YjNm`
+Snapshot ID: `MTYwNTcwMTczNiwwMDAwMDAwMGYxZTRjNmI3NDRlODQ3YTcwNTliMDc1OWU5YzBiOGZk`

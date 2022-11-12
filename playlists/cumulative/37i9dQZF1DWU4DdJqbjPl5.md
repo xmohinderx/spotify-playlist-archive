@@ -4,7 +4,7 @@
 
 > The smoothest Afro R&B out right now\. Cover:  <a href="https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx?si=MXl2ELIYSK2NPKxOWIxTFw" >Elaine</a>
 
-157 songs - 8 hr 19 min - [published](https://open.spotify.com/playlist/2v1HgA74E7en4Mnap99MYl)
+158 songs - 8 hr 22 min - [published](https://open.spotify.com/playlist/2v1HgA74E7en4Mnap99MYl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Essence \(feat\. Tems\)](https://open.spotify.com/track/5FG7Tl93LdH117jEKYl3Cm) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 4:08 | 2021-02-02 |  |
 | [Ex](https://open.spotify.com/track/352jbBYOtwkzJEMC2KkuiG) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [A Side Of Me](https://open.spotify.com/album/6A66i8kXtfeQqrFpRyW7Em) | 3:24 | 2021-07-01 |  |
 | [Eye to Eye](https://open.spotify.com/track/6la2yQPbuFKD6I1vEaS2bz) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Eye to Eye](https://open.spotify.com/album/2lqCLCQj0prUEwqEDxRKIy) | 2:36 | 2022-09-01 |  |
+| [Falling Down](https://open.spotify.com/track/1OdFpOfUPRTz5r09CKUTXM) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [The Other Side](https://open.spotify.com/album/7M0ZgZyJUYIG6RCHud7Xa6) | 3:04 | 2022-11-11 |  |
 | [FAR AWAY](https://open.spotify.com/track/0TTzrBufRSH2B0xGzpvVbT) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [MY DIARY \- EP](https://open.spotify.com/album/2AtDDefSJveMubpGuqch1r) | 3:15 | 2022-07-22 |  |
 | [Fashion Killer](https://open.spotify.com/track/3R2Etej4zzbt8LTs3rvJA1) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [19 & Dangerous](https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv) | 2:57 | 2021-08-06 |  |
 | [fluid](https://open.spotify.com/track/7JmqcNJ3yqcSdmeL7Eft6a) | [MOONGA K.](https://open.spotify.com/artist/0bGetjEIDayY9BFzeCZL0d), [Georgel](https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j) | [fluid](https://open.spotify.com/album/0SNAWeX1JUnfbk0bL3UdhF) | 2:58 | 2022-08-25 | 2022-09-02 |
@@ -94,7 +95,7 @@
 | [Kuhle](https://open.spotify.com/track/3zREQOl1i8W37OkMN9ztpN) | [Nomfundo Moh](https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan), [De Mthuda](https://open.spotify.com/artist/1w2P5nNsO5W7FYq2Oui0cM), [Da Muziqal Chef](https://open.spotify.com/artist/25uuaH9QdKIygoWTDzKuve) | [Kuhle](https://open.spotify.com/album/6ln73dm4ppPQn2REwrAYRD) | 3:27 | 2022-01-27 | 2022-06-04 |
 | [LALA TOTO](https://open.spotify.com/track/6CUTsIkRmoyMVXPPwnz3Py) | [H\_art the Band](https://open.spotify.com/artist/0m6SCIzf7kP9iylizWmIp1) | [LALA TOTO](https://open.spotify.com/album/0FY7JX7rMfPD05zuZtHU47) | 2:30 | 2022-08-05 | 2022-08-13 |
 | [Last Last](https://open.spotify.com/track/2PDgArI0p7UkeYgXWuqpmh) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Last Last](https://open.spotify.com/album/6aWJgsbvVPQR2HgPztf4qe) | 2:52 | 2022-05-12 | 2022-10-29 |
-| [Last Name](https://open.spotify.com/track/4BwHxEsR5SFJJKGBzrjMGN) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [Last Name](https://open.spotify.com/album/5tUXmCXcOyqRO7lLeWrMHR) | 2:01 | 2022-07-29 |  |
+| [Last Name](https://open.spotify.com/track/4BwHxEsR5SFJJKGBzrjMGN) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [Last Name](https://open.spotify.com/album/5tUXmCXcOyqRO7lLeWrMHR) | 2:01 | 2022-07-29 | 2022-11-12 |
 | [Lie To Me \(Tell Me a Fairy Tale\)](https://open.spotify.com/track/5uWY0KnnVk2EVeUsgsnOFW) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Blocka Beats](https://open.spotify.com/artist/7aQKaQoCPS9HOu4fOtJSEm) | [Lie To Me \(Tell Me a Fairy Tale\)](https://open.spotify.com/album/6LV9r0DgOvWCJj0j4kYbO4) | 3:18 | 2022-08-12 |  |
 | [Love Nwantiti \(Acoustic Version\)](https://open.spotify.com/track/450u5gGMGwQXmtLSR7AN2s) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Love Nwantiti \(Acoustic Version\)](https://open.spotify.com/album/246C6Xn7fypfU7vQ8m1YP6) | 3:04 | 2021-10-08 |  |
 | [Love, Today](https://open.spotify.com/track/1LoCwW6zCCmuLxDU8p06Q8) | [Preyé](https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [Don't Look Down!](https://open.spotify.com/album/6DEAfTTihu0p1nNkti8Bn0) | 3:26 | 2022-09-01 |  |

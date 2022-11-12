@@ -4,7 +4,7 @@
 
 > Hand\-picked indie to nourish the ears.
 
-225 songs - 13 hr 42 min - [published](https://open.spotify.com/playlist/0fsDW9Wxgoj8VFUemuBkg3)
+226 songs - 13 hr 46 min - [published](https://open.spotify.com/playlist/0fsDW9Wxgoj8VFUemuBkg3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Booster Seat](https://open.spotify.com/track/5th1bFGGaXLM7wDBJpcF06) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Sunlight](https://open.spotify.com/album/0lzBfRwVgShOeiFJaXSEex) | 4:28 | 2021-11-12 | 2022-10-14 |
 | [Booster Seat](https://open.spotify.com/track/72RC6Kw32QfJi6RzlDKNxs) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Sunlight](https://open.spotify.com/album/3zZi1vy6CnNZX7lbcRJtXo) | 4:28 | 2022-08-12 |  |
 | [Break Away](https://open.spotify.com/track/4VsaZjVwzYkXw4DYVmeHlF) | [The Native](https://open.spotify.com/artist/6c3Jb6rRod9x4pGtiizwzT) | [Break Away](https://open.spotify.com/album/2JXrKtvFPznTIYTJDAtCbE) | 2:50 | 2022-03-31 | 2022-04-16 |
-| [Brother To You](https://open.spotify.com/track/0u9keTpHsXa73izEri7AJV) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [Brother To You](https://open.spotify.com/album/7Dir6KrvfI1hu8rVctB3DP) | 3:11 | 2022-06-06 | 2022-10-26 |
+| [Brother To You](https://open.spotify.com/track/0u9keTpHsXa73izEri7AJV) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [Brother To You](https://open.spotify.com/album/7Dir6KrvfI1hu8rVctB3DP) | 3:11 | 2022-06-06 |  |
 | [Canary In A Coalmine](https://open.spotify.com/track/1oLJWs1DxtpDcRRZuzh4Ya) | [Benjamin Francis Leftwich](https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ) | [To Carry A Whale](https://open.spotify.com/album/6Yq40Q0Kvz9PXdja9i2Yxb) | 3:01 | 2021-11-12 | 2022-07-16 |
 | [Car Crash in G Major](https://open.spotify.com/track/24EtJ2vTx6CtaP32S6Arn2) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [Car Crash in G Major](https://open.spotify.com/album/1aPZj3S4ORUVOaaFmUgCU6) | 2:12 | 2022-06-23 | 2022-10-14 |
 | [Car Crash in G Major](https://open.spotify.com/track/3zt5zKBpsliBi0aDldNBsX) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [Car Crash in G Major](https://open.spotify.com/album/43glATQ0nobuUZOCXPRbQM) | 2:12 | 2021-11-12 | 2022-07-29 |
@@ -70,7 +70,7 @@
 | [Every Side Of You](https://open.spotify.com/track/731oIHe1EeEyTEwdtY0lRj) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Every Side Of You](https://open.spotify.com/album/6xLceFaewP4juAD4GjBd45) | 3:24 | 2022-06-06 |  |
 | [Everyone's A Winner](https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [This Is Really Going To Hurt](https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0) | 3:29 | 2021-11-12 |  |
 | [Everything is Different \(To Me\)](https://open.spotify.com/track/6XZNMTmnxXuuYPNUjKMmbP) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Everything is Different \(To Me\)](https://open.spotify.com/album/5kGUb7l3xISthWVpu1lWKw) | 4:24 | 2021-11-12 | 2022-07-29 |
-| [Everything is Different \(To Me\)](https://open.spotify.com/track/6x3sun3UqxP4g0Juw7ZXx4) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [The Long and Short of It](https://open.spotify.com/album/6pUiy5Z2QoIV0JOiKlu3aQ) | 4:24 | 2022-06-23 |  |
+| [Everything is Different \(To Me\)](https://open.spotify.com/track/6x3sun3UqxP4g0Juw7ZXx4) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [The Long and Short of It](https://open.spotify.com/album/6pUiy5Z2QoIV0JOiKlu3aQ) | 4:24 | 2022-06-23 | 2022-11-12 |
 | [Everything You Got](https://open.spotify.com/track/2VCvlbv5kn9pjnyY76Bgid) | [Ten Tonnes](https://open.spotify.com/artist/4hfrzKkUsrb3Cz209SKxbo) | [Everything You Got](https://open.spotify.com/album/0bRxuO3LcjfFh8pFaBmKYG) | 3:36 | 2022-03-31 | 2022-04-15 |
 | [Eyes of Stone](https://open.spotify.com/track/5BYdwKN4OJlNh0MW6Cso6g) | [Good Dog](https://open.spotify.com/artist/1oJPedap0VtK48hM9Wm6S1) | [Eyes of Stone](https://open.spotify.com/album/0u10Darsk6WdtkRQH2oBk1) | 3:09 | 2021-11-12 | 2022-07-08 |
 | [Failure](https://open.spotify.com/track/3xnFWXU2SfZ7q7Nes4Ncr8) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Good Woman](https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl) | 4:07 | 2021-11-12 |  |
@@ -82,7 +82,7 @@
 | [Follow](https://open.spotify.com/track/461I2ITjo0XHrl8EqlJdW2) | [Jono McCleery](https://open.spotify.com/artist/23usQJ95w7f95tnN4MJEgy) | [Follow](https://open.spotify.com/album/2ysWIAs3sTVNhX6PNrHxUb) | 4:26 | 2021-11-12 | 2022-06-26 |
 | [Folly](https://open.spotify.com/track/2WdbrlcvB1KEX2DALxiKOE) | [Sea Power](https://open.spotify.com/artist/5zhn89Em2jWUUWdpcLO3YL) | [Folly](https://open.spotify.com/album/5meHvL7ffsywZ5AF9K0ala) | 4:16 | 2022-03-31 | 2022-04-21 |
 | [Fruit](https://open.spotify.com/track/5n3NzdPWuSsRbYEObAdXqr) | [Oliver Sim](https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm) | [Fruit](https://open.spotify.com/album/7sgoUuA9bA0lJYSw1PgbkT) | 3:24 | 2022-04-08 |  |
-| [Garden of Eden](https://open.spotify.com/track/2JMv10dhH1c63lwDF0wfud) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Flora Fauna](https://open.spotify.com/album/7DlfUBoATO1ECCro50jZWx) | 3:19 | 2022-06-23 |  |
+| [Garden of Eden](https://open.spotify.com/track/2JMv10dhH1c63lwDF0wfud) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Flora Fauna](https://open.spotify.com/album/7DlfUBoATO1ECCro50jZWx) | 3:19 | 2022-06-23 | 2022-11-12 |
 | [Garden of Eden](https://open.spotify.com/track/6jF6VwQeIiy18FUH0wuIQN) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Garden of Eden](https://open.spotify.com/album/3pw1gb17EJ7ILSm9b28ZgQ) | 3:19 | 2021-11-12 | 2022-07-29 |
 | [Go \- Radio Edit](https://open.spotify.com/track/5Z6Ur8oNoKfDzIdi0wMD1Y) | [James Alexander Bright](https://open.spotify.com/artist/3Es7r3RmlcHHXqHM723JLC) | [Go \(Radio Edit\)](https://open.spotify.com/album/4hlEAUdIANoFdaZwyKsLy1) | 3:00 | 2022-03-31 | 2022-04-21 |
 | [Good Day](https://open.spotify.com/track/2dHTK5Bc61ddJ07vhpNnfn) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [Everything Else Has Gone Wrong](https://open.spotify.com/album/11yHtE6IzOk6elh9cJzldJ) | 3:52 | 2021-11-12 |  |
@@ -137,6 +137,7 @@
 | [Monster](https://open.spotify.com/track/7dXeYB0vGhwbnA5tRKGdWF) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Seasons of Change](https://open.spotify.com/album/74fRgN21qhhAQv43mbCJFq) | 2:36 | 2022-08-12 |  |
 | [Mortals](https://open.spotify.com/track/05ysa8MWYb7MvixPonb1Fp) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Mortals](https://open.spotify.com/album/3H7MViLKyTi0IjwbJY1pwm) | 3:08 | 2022-03-31 | 2022-04-21 |
 | [Mortals](https://open.spotify.com/track/3pa1oaOXwmoxLoDTn2oFVq) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Flight Risk EP](https://open.spotify.com/album/4aRnUT8j0PTjKKW7FJsrvb) | 3:08 | 2022-06-23 | 2022-10-13 |
+| [Mortals](https://open.spotify.com/track/6SxCb6DNwXShYd6F2KcyBE) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Flight Risk EP](https://open.spotify.com/album/3WTRqQ60G0J3UEQPU57k1g) | 3:08 | 2022-08-12 |  |
 | [Mountain](https://open.spotify.com/track/4TFTlwrYFCLqmJtIgxRVUT) | [M\. Byrd](https://open.spotify.com/artist/2AzGGPCjkv7D9o7KkpxJYi) | [Mountain](https://open.spotify.com/album/5lLrspzGxZevZkbByj9zwd) | 3:02 | 2021-11-12 | 2022-10-06 |
 | [Mountain](https://open.spotify.com/track/6h3iuoFDWScrQZn3sy0tmA) | [M\. Byrd](https://open.spotify.com/artist/2AzGGPCjkv7D9o7KkpxJYi) | [Mountain](https://open.spotify.com/album/17Y9wzA3ofGRyTWxRVphQV) | 3:02 | 2022-08-12 | 2022-11-11 |
 | [My House](https://open.spotify.com/track/2zsmJ1AE5MlLfVrwaCytiD) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [My House](https://open.spotify.com/album/3T9SMHvZrlOst5HCTVr2CP) | 4:16 | 2021-11-12 | 2022-07-29 |

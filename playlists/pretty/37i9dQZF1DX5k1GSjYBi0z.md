@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5k1GSjYBi0z.md) - [plain]
 
 > During the height of the 60s, no one knew how to convey the message of love and peace better than the Beatles.
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,449 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,506 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [All You Need Is Love \- Remastered 2009](https://open.spotify.com/track/68BTFws92cRztMS1oQ7Ewj) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Magical Mystery Tour \(Remastered\)](https://open.spotify.com/album/2BtE7qm1qzM80p9vLSiXkj) | 3:50 |
-| 2 | [Hey Jude \- Remastered 2015](https://open.spotify.com/track/0aym2LBJBk9DAYuHHutrIl) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [1 \(Remastered\)](https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh) | 7:05 |
+| 1 | [All You Need Is Love \- Remastered 2015](https://open.spotify.com/track/6KqiVlOLfDzJViJVAPym1p) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [1 \(Remastered\)](https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh) | 3:47 |
+| 2 | [Hey Jude \- Remastered 2009](https://open.spotify.com/track/3m7V717IKZqZLW5qUIOxdD) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles 1967 \- 1970 \(Remastered\)](https://open.spotify.com/album/1cTeNkeINtXiaMLlashAKs) | 7:11 |
 | 3 | [Don't Let Me Down \- Remastered 2009](https://open.spotify.com/track/3evG0BIqEFMMP7lVJh1cSf) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles 1967 \- 1970 \(Remastered\)](https://open.spotify.com/album/1cTeNkeINtXiaMLlashAKs) | 3:35 |
 | 4 | [Things We Said Today \- Remastered 2009](https://open.spotify.com/track/0voUr8lubIafUVJlauJxYF) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [A Hard Day's Night \(Remastered\)](https://open.spotify.com/album/6wCttLq0ADzkPgtRnUihLV) | 2:35 |
 | 5 | [Here Comes The Sun \- Remastered 2009](https://open.spotify.com/track/6dGnYIeXmHdcikdzNNDMm2) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered\)](https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN) | 3:05 |
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5k1GSjYBi0z.md) - [plain]
 | 20 | [All My Loving \- Remastered 2009](https://open.spotify.com/track/2D2u93x695mLEvAoCJZ8Yl) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles 1962 \- 1966 \(Remastered\)](https://open.spotify.com/album/6126O4XLYAfzU3961ziahP) | 2:09 |
 | 21 | [You Really Got A Hold On Me \- Remastered 2009](https://open.spotify.com/track/7rgUYidQh5tH0YlXCoKaYJ) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [With The Beatles \(Remastered\)](https://open.spotify.com/album/1aYdiJk6XKeHWGO3FzHHTr) | 3:01 |
 | 22 | [I've Just Seen A Face \- Remastered 2009](https://open.spotify.com/track/3oiCnAg0vSjDUcdPKfRydO) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles \- We Can Work It Out](https://open.spotify.com/album/0cfOd3fG7yWhRuAk3kVp3g) | 2:05 |
-| 23 | [She Loves You \- Mono / Remastered](https://open.spotify.com/track/6nEkxYIEnrbYH7h1hJ8Xn6) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [1 \(Remastered\)](https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh) | 2:20 |
+| 23 | [She Loves You \- Remastered 2009](https://open.spotify.com/track/48JM82SHQTBYkhEYhMaOaa) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Past Masters \(Vols\. 1 & 2 / Remastered\)](https://open.spotify.com/album/3GmCXW10kLxmZrEY0JpRlw) | 2:21 |
 | 24 | [Can't Buy Me Love \- Remastered 2009](https://open.spotify.com/track/3SdingSsFcZDZAyvcJbgAw) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [A Hard Day's Night \(Remastered\)](https://open.spotify.com/album/6wCttLq0ADzkPgtRnUihLV) | 2:11 |
 | 25 | [Do You Want To Know A Secret \- Remastered 2009](https://open.spotify.com/track/7Aobt67JnaF7qN8jCCKvHq) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Please Please Me \(Remastered\)](https://open.spotify.com/album/3KzAvEXcqJKBF97HrXwlgf) | 1:57 |
 | 26 | [Eight Days A Week \- Remastered 2009](https://open.spotify.com/track/1Dg4dFJr3HW7sbA7vPejre) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Beatles For Sale \(Remastered\)](https://open.spotify.com/album/1vANZV20H5B4Fk6yf7Ot9a) | 2:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5k1GSjYBi0z.md) - [plain]
 | 49 | [I've Got A Feeling \- Remastered 2009](https://open.spotify.com/track/3gwRWIbr5ycEVLIAXrWaw7) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Let It Be \(Remastered\)](https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5) | 3:37 |
 | 50 | [Blackbird / Yesterday](https://open.spotify.com/track/41ETKVJbZDSjATzW2wAqmc) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Love](https://open.spotify.com/album/1Ye7yrA7vAlQnoooj8yDXb) | 2:31 |
 
-Snapshot ID: `MTU2OTUxMTQ5MywwMDAwMDAwMGYyMDVmYWI5OTZkYjgwYzlmMWJiNTcxNTAzMjIzYzky`
+Snapshot ID: `MTU2OTUxMTQ5MywwMDAwMDAwMGVkNzYyNzU4ZTE4MTExZGJmNzY4MzFmNmJlNzVkY2Ez`

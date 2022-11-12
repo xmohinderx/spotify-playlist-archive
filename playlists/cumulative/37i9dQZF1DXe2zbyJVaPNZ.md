@@ -4,7 +4,7 @@
 
 > Ambient waves for ethereal days
 
-115 songs - 8 hr 14 min - [published](https://open.spotify.com/playlist/7wXXw42CJoQ0vEBzeJubty)
+121 songs - 8 hr 33 min - [published](https://open.spotify.com/playlist/7wXXw42CJoQ0vEBzeJubty)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,8 @@
 | [Asleep on a Faded Moss Patch](https://open.spotify.com/track/0x3LRhwpiBfVPLoqXbjXgG) | [Poemme](https://open.spotify.com/artist/4Uqu4U6hhDMODyzSCtNDzG) | [Arboretum](https://open.spotify.com/album/7mE1OdcrOz5ZNQ1CjOGeLo) | 6:30 | 2022-08-05 |  |
 | [Astral](https://open.spotify.com/track/25Eazeq2jR3OAXKVyn5A46) | [Everlight](https://open.spotify.com/artist/6RavlD6YjBgKC9iSh3uHgg), [Skyler Wilson](https://open.spotify.com/artist/2V2FOQ4bEqDyrhGnzLBCr3) | [Astral](https://open.spotify.com/album/5wSkF4kNNzlYaSpbpCXO3o) | 2:27 | 2022-09-08 |  |
 | [Be Still My Gentle Dream](https://open.spotify.com/track/5CNClGUyb9WXVGJf1xRhoC) | [Juliette Laveaux](https://open.spotify.com/artist/4OhNusW3mnw1DJ1DuMph9A) | [Slumbertrain](https://open.spotify.com/album/39aJDQNU5JJUlCI3NH485F) | 3:22 | 2022-09-08 |  |
+| [Being](https://open.spotify.com/track/1EEDHsrBnIEwgv3Tx0f4mU) | [Astral Wonder](https://open.spotify.com/artist/24JkKS4b8yp9usUXPL0I3G) | [Being](https://open.spotify.com/album/2XuXdx0PWF9MRZ6jI1jJrR) | 3:21 | 2022-11-11 |  |
+| [Beyond Infinity](https://open.spotify.com/track/07Ugt4jjKXkCfmVZEbQ55a) | [SerenitySounds](https://open.spotify.com/artist/5IxUd3eKUM5TboSJkc5cVQ) | [Beyond Infinity](https://open.spotify.com/album/1NbO4sSRArJd0qqUKM1LWD) | 4:37 | 2022-11-11 |  |
 | [Billions and Billions](https://open.spotify.com/track/34jk6E3JeCxxDscKMtDKcU) | [Stellardrone](https://open.spotify.com/artist/5WUuOv4NOeXvCzjQnmKqTA) | [A Moment of Stillness](https://open.spotify.com/album/4Lm6SgVaPvXDRQOSpqfafA) | 5:14 | 2022-08-05 |  |
 | [Blis](https://open.spotify.com/track/7pVau53NvKbQ02gKoDgxJi) | [Stilhed](https://open.spotify.com/artist/2atvQaSxUn8GTHQq2fID3U), [Norvik](https://open.spotify.com/artist/1NjriDX47WYVvGjeVMQ8R6) | [Naer](https://open.spotify.com/album/46gUlev9vSy4mLtR9Ec5Vl) | 3:30 | 2022-10-14 |  |
 | [Blue Airglow](https://open.spotify.com/track/2mugkR92BaadnDA00Y01uV) | [Applefish](https://open.spotify.com/artist/2tXSmVWVgzUAot6441wbTS), [Spacecraft](https://open.spotify.com/artist/02ji6dT9gN9LUtNlMUB74C) | [Blue Airglow](https://open.spotify.com/album/5xF8V7En6VnqmL3IIO7ZER) | 3:53 | 2022-08-05 |  |
@@ -50,9 +52,11 @@
 | [Feather](https://open.spotify.com/track/3D31N4fyByXCIchCFRnVd5) | [Ludwig A.F.](https://open.spotify.com/artist/3Pxzo6Fhgswi6238OggzO5) | [Air](https://open.spotify.com/album/0mJuu5yMJ9R9IRVBFY2DkI) | 3:36 | 2022-10-10 |  |
 | [floodplain](https://open.spotify.com/track/2KzWApRFQisFvm31KVEQgJ) | [Peter Bark](https://open.spotify.com/artist/1owDCRcm8r3mCfAVzwNbB2) | [floodplain // wildflowers](https://open.spotify.com/album/3YRwUdirklDEUyBgaECIRg) | 7:03 | 2022-08-05 |  |
 | [Flux](https://open.spotify.com/track/2xl2BLcRSDHxguuUZPeZU5) | [E J R M](https://open.spotify.com/artist/3LR4QxuUpK1ZwhWc260xAZ), [Lauge](https://open.spotify.com/artist/72Syhg4FIEracKDa3yumQY) | [Flux](https://open.spotify.com/album/766wyCUyBT5Gyh0wG8WblZ) | 3:54 | 2022-08-05 |  |
+| [forgotten thoughts, but it's vaporwave](https://open.spotify.com/track/3z5pxdC9jVDHt0CuPdG3hx) | [MADEBYGODES](https://open.spotify.com/artist/4OXlZUkQMXImUKcUGuukhc), [Sedogy Bedam](https://open.spotify.com/artist/198xMLATWaPlxnxW6dzgWt) | [forgotten thoughts](https://open.spotify.com/album/5SSlX0rvu6QrkQmjLi3nMK) | 2:21 | 2022-11-11 |  |
 | [Free](https://open.spotify.com/track/4Gy64kPK6SVwKdb4rs1emJ) | [Miracle Tones](https://open.spotify.com/artist/4rXABp4A7KjG9elWFNAbO4) | [Anxiety Relief](https://open.spotify.com/album/5XF1VUAdmwVLiFHLh2892C) | 2:23 | 2022-10-14 |  |
 | [Gas 1](https://open.spotify.com/track/6orzHW7VBmbb5bsjn4nLKY) | [GAS](https://open.spotify.com/artist/0J8cNhY7V2NoRt9O6uCeUX) | [Nah Und Fern](https://open.spotify.com/album/3KSzqblPw5mdapzJsVU6cy) | 6:27 | 2022-08-05 |  |
 | [Generations](https://open.spotify.com/track/0MdnqrAaVgPLbmagC85x7X) | [Dear Gravity](https://open.spotify.com/artist/28MEj0HGdwvJYdbMAVpXU6), [We Dream of Eden](https://open.spotify.com/artist/55dhSq6LQ1N5JlHF5DlbFf) | [Generations](https://open.spotify.com/album/7oM93ACHpvgcjy5MtmRRDC) | 2:54 | 2022-08-05 |  |
+| [Gentle Whales of the Deep \(80\-88 Hz\)](https://open.spotify.com/track/60OkaddPGoz4Wx3NkTgpnn) | [Abeo Abara](https://open.spotify.com/artist/0BIybKZiOMOMdUmCKZsY0O) | [Gentle Whales of the Deep \(80\-88 Hz\)](https://open.spotify.com/album/0Li6vZK0i0e1wkTK8Xo24R) | 2:32 | 2022-11-11 |  |
 | [Geometric \- Version 2](https://open.spotify.com/track/5SnPJfIBhEMN8V8a5hyBJi) | [Atmoda](https://open.spotify.com/artist/09MhmAWoBHWYVo2RyKlcYw) | [Geometric](https://open.spotify.com/album/6L1cljzvurPjMM11yhel01) | 2:57 | 2022-08-19 |  |
 | [Havasu](https://open.spotify.com/track/66V97mH6dRUB1O4KsK328B) | [Dreemy](https://open.spotify.com/artist/7Hh9phP3DEcbwxipzObxum) | [Havasu](https://open.spotify.com/album/51OEnFQxXRMJBemtp0qSLV) | 3:12 | 2022-08-05 |  |
 | [Homesick](https://open.spotify.com/track/1KAjfOhwtBDkhhGhDH27Z0) | [Antent](https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW) | [Homesick](https://open.spotify.com/album/6IoxzKrzEWprrw1yUN9Da1) | 2:16 | 2022-10-14 |  |
@@ -74,6 +78,8 @@
 | [Mellow](https://open.spotify.com/track/15SJMsBLp7GR8FH9WvamuG) | [Boreal Embla](https://open.spotify.com/artist/1TIIwr7wiRuFavs4zUlYQU) | [Mellow](https://open.spotify.com/album/4OFhOIJLN66pFGa4n5eEto) | 3:33 | 2022-09-08 |  |
 | [memories of younger days \(that never existed\)](https://open.spotify.com/track/50BWDrzzg4I9KttMBUXoQN) | [Koshun Nakao](https://open.spotify.com/artist/6VpDrxopEFg1YOqmXOdPyz) | [memories of younger days \(that never existed\)](https://open.spotify.com/album/2uOATtxzznGZMs7NXMsa8A) | 4:00 | 2022-09-30 |  |
 | [Midnight Stargazer](https://open.spotify.com/track/6Out5GTmU6YqaQ8R2l6P4F) | [Relief](https://open.spotify.com/artist/345D7I2CuaqxHTTwD4wlBx) | [Music for Commuters](https://open.spotify.com/album/4T7mM7FaVFCPOGrvrxAWy2) | 3:32 | 2022-09-30 |  |
+| [Moon](https://open.spotify.com/track/1ShoaK1jLR948EFn0mo9FL) | [Man from Mars](https://open.spotify.com/artist/45NDwPF1HHwxFI4BGDYJFn) | [Moon](https://open.spotify.com/album/4gjhs7ChmpQBXIEBV6a7PN) | 2:51 | 2022-11-11 |  |
+| [Moon \(Nature Edit\)](https://open.spotify.com/track/1ZrCjCxP8OCQE9wfWJFS9k) | [Man from Mars](https://open.spotify.com/artist/45NDwPF1HHwxFI4BGDYJFn) | [Moon](https://open.spotify.com/album/4gjhs7ChmpQBXIEBV6a7PN) | 2:51 | 2022-11-11 |  |
 | [Name Of The Call](https://open.spotify.com/track/1uAvCdU0SqENVeE7YychPF) | [Severard](https://open.spotify.com/artist/6vjU9QfC9H7ZvCrve6fC0E) | [Name Of The Call](https://open.spotify.com/album/4n0A10P0pDw8bIHED77Xfn) | 4:03 | 2022-08-05 |  |
 | [Night Shineth As the Day](https://open.spotify.com/track/48RJ1YNLNeqMlPtFkHcHRm) | [zakè](https://open.spotify.com/artist/22becwc1PhY3lSxHM3YThr) | [zakè](https://open.spotify.com/album/3r6FE0ZrYm1jOEEpd7GJLF) | 5:28 | 2022-08-05 |  |
 | [Novae](https://open.spotify.com/track/7sYaDAxaJiY7e0HALJOG2e) | [Matt Tondut](https://open.spotify.com/artist/1dscULdwo1wKG8QtoNgDZX) | [Novae](https://open.spotify.com/album/2GjP1BHQaHhTz9mimNqiEf) | 3:37 | 2022-08-05 |  |

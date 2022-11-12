@@ -4,14 +4,15 @@
 
 > R&B sensual para una apasionada noche en excelente compañía.
 
-65 songs - 4 hr 10 min - [published](https://open.spotify.com/playlist/1i4e9zZGg6WcrvjDTSglUO)
+66 songs - 4 hr 14 min - [published](https://open.spotify.com/playlist/1i4e9zZGg6WcrvjDTSglUO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [After Hours](https://open.spotify.com/track/2p8IUWQDrpjuFltbdgLOag) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 6:01 | 2022-04-18 |  |
 | [All the Way Down](https://open.spotify.com/track/6JT37WmQRQawN2By1ZQR0N) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Hallucinogen](https://open.spotify.com/album/5vI1UvJLIPAKf1kvzgPaTO) | 4:28 | 2022-04-18 |  |
+| [Altar](https://open.spotify.com/track/0m0axAMEyWEvzezaLwrLVE) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Twenties Playlist](https://open.spotify.com/album/5fQEyU8UFm6oPfFqhqGODI) | 4:03 | 2022-04-18 |  |
 | [altar](https://open.spotify.com/track/501mFwKeLnybf8JO3XL66O) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [altar](https://open.spotify.com/album/7aQ67hIkvYTPsXFEPL6CyI) | 4:03 | 2022-04-18 | 2022-10-28 |
-| [altar](https://open.spotify.com/track/1DVgSm1FpFBT8usWhnC5vF) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [blue water road](https://open.spotify.com/album/1fZRXWVJVe07UcD4GowJ8j) | 4:04 | 2022-04-18 |  |
+| [altar](https://open.spotify.com/track/1DVgSm1FpFBT8usWhnC5vF) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [blue water road](https://open.spotify.com/album/1fZRXWVJVe07UcD4GowJ8j) | 4:04 | 2022-04-18 | 2022-11-12 |
 | [Always n Forever \(feat\. Lil Baby\)](https://open.spotify.com/track/6dbENHQHHtWRai4snSvy2w) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [RY RY WORLD](https://open.spotify.com/album/6i1OieEQCZaMlQZZ44VLON) | 3:17 | 2022-04-18 |  |
 | [Another Lifetime](https://open.spotify.com/track/48WTGGIeSFD5ZMF51Rm4Y9) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Saturn](https://open.spotify.com/album/5rojZ5uUIKKkfNsFT92Vld) | 3:29 | 2022-04-18 |  |
 | [BELIEVE IT](https://open.spotify.com/track/4HDCLYli2SUdkq9OjmvhSD) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [PARTYMOBILE](https://open.spotify.com/album/2T8UlI17u5hwTqu6zkpkW7) | 3:03 | 2022-04-18 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc88qbKkzeR0.md) - [plain]
 
 > Songs for your villain era, curated by Jenn Robinson, Camila Mendes & Maya Hawke\. Watch Do Revenge on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,601 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,799 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc88qbKkzeR0.md) - [plain]
 | 36 | [LA FAMA](https://open.spotify.com/track/6Y46tOTRhkBamosyuWa6YX) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 3:08 |
 | 37 | [Money Ain't a Thang \(feat\. Jay\-Z\)](https://open.spotify.com/track/12LjNmRrdzhTn1vMcxN81m) | [Jermaine Dupri](https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Life In 1472 \(The Original Soundtrack\)](https://open.spotify.com/album/4gBlh3imgWjnD275XauGwt) | 4:14 |
 | 38 | [Slut Pop](https://open.spotify.com/track/5GUz1LkyUwjMxC5aC1H5zW) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Slut Pop](https://open.spotify.com/album/4rs52z8T5zPbsa5HM75tua) | 1:57 |
-| 39 | [Jumpin', Jumpin'](https://open.spotify.com/track/4pmc2AxSEq6g7hPVlJCPyP) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [The Writing's On The Wall](https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG) | 3:50 |
+| 39 | [Jumpin', Jumpin'](https://open.spotify.com/track/7tY0cefVOJWQkZ9Xt65KCp) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [\#1's](https://open.spotify.com/album/4ikTC4M0HHUnbViQn1NfEU) | 3:47 |
 | 40 | [I Wanna Be Bad](https://open.spotify.com/track/6f67kjvFmXZTA47K8JNVBU) | [Willa Ford](https://open.spotify.com/artist/0kuEP1E9k3WBEwMKwEmp9u) | [Willa Was Here](https://open.spotify.com/album/3QQsh7NGbYK1Igxenqi4MZ) | 3:03 |
 | 41 | [Watch Me](https://open.spotify.com/track/2biaN4CEUrKHqJgPZLXgEc) | [The Pom\-Poms](https://open.spotify.com/artist/2ufAy0kXnQMTP8rkvoTqUC) | [The Pom\-Poms](https://open.spotify.com/album/237EqTv2dtmYvRWcADo4lj) | 2:56 |
 | 42 | [Throw A Fit](https://open.spotify.com/track/7D8aQaRzoi9Qzz5yerVK5b) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Throw A Fit](https://open.spotify.com/album/2kGxRa3ut2AMvo1fdoUeuK) | 2:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc88qbKkzeR0.md) - [plain]
 | 49 | [Case Of The Ex \(Whatcha Gonna Do\)](https://open.spotify.com/track/1ak0S3NhwWrUgNlQhJ1412) | [Mýa](https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF) | [Fear Of Flying](https://open.spotify.com/album/4LPScJnCr71D6oXB1MfQJ7) | 3:56 |
 | 50 | [Where My Girls At](https://open.spotify.com/track/4VSyH8AkIt3kaR5xIPFVVi) | [702](https://open.spotify.com/artist/2S8UlyXW4JjjHcbeg8ddIo) | [702](https://open.spotify.com/album/6PELMehRtCwGXXyFS0fLKR) | 2:46 |
 
-Snapshot ID: `MTY2MzMwMDgwMCwwMDAwMDAwMDY0NDk1ZDJiYjU1MGM0ZmQyN2Q4YzgzNTIyNjU2YTMy`
+Snapshot ID: `MTY2MzMwMDgwMCwwMDAwMDAwMGRiYmEwODQzY2MxM2MzMzVkOTRjOTlhODYwZTU0NDIz`

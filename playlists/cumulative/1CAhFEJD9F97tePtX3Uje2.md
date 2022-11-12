@@ -4,7 +4,7 @@
 
 > 
 
-197 songs - 11 hr 55 min - not published yet
+198 songs - 11 hr 58 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [Redox](https://open.spotify.com/track/1PlCzoflJ67dVBOZTKm3r7) | [NBSPLV](https://open.spotify.com/artist/61TQfpvTjHYQjPrvtJPwVa) | [Redox](https://open.spotify.com/album/4zeFJzRJ6qxTcDSJi6orzk) | 3:11 | 2019-07-31 |  |
 | [Reflection](https://open.spotify.com/track/1R3qWOKVtePIpfFYSuPwem) | [Lowly](https://open.spotify.com/artist/2rJGuaGzK3FR6xYG42ixkg), [smokefishe](https://open.spotify.com/artist/3RKiOa5z73KXSeIbOeBPvc) | [MIDNIGHT2077](https://open.spotify.com/album/3dbVep2ee5uViw2rz6Dydj) | 3:27 | 2021-06-11 |  |
 | [Replay](https://open.spotify.com/track/5DiiH80hONadLveK3wMz9c) | [Woodju](https://open.spotify.com/artist/7iYTP3Gnpd8ZDFrr9gocBR), [MITYA](https://open.spotify.com/artist/6b9ZuzE85bvMgpSC4tkzun) | [Undiscovered](https://open.spotify.com/album/1xwTjsaYZU4OhMbAPkWgZq) | 3:48 | 2018-12-01 |  |
+| [Rosacea](https://open.spotify.com/track/3CHXpZdk5W8y5wLlJape0Y) | [Grid](https://open.spotify.com/artist/2mr8Sn2YZJZiKuvbRmABbm) | [Rosacea](https://open.spotify.com/album/3eOytFp2PJ6061ZjOm9LRh) | 3:11 | 2022-11-12 |  |
 | [Rush](https://open.spotify.com/track/3lcVFoUD8xC6G8X2ecfS0U) | [Skeler](https://open.spotify.com/artist/7ks4LdnBvp6HUsmVJiKgsB) | [Rush](https://open.spotify.com/album/31pSPOOzDupzFjJOviKvqg) | 4:18 | 2018-11-27 |  |
 | [Salvation in Love](https://open.spotify.com/track/5GOGXozSEjBJNYiv4WVqyM) | [Sibewest](https://open.spotify.com/artist/1GkZqUh9gC1kOFSwIFG5Hs) | [Salvation in Love](https://open.spotify.com/album/2pCvklmT4fb002cTbhfAWV) | 3:56 | 2018-11-27 |  |
 | [Same World Next Dimension](https://open.spotify.com/track/3lUMvdNMOhxx8GgaWzJwuL) | [Juche](https://open.spotify.com/artist/3GZ8Rfap7VxAOzABiZEXCL) | [Future Love Story](https://open.spotify.com/album/7wzFvKcmHu81lko3S4md1n) | 4:43 | 2020-02-14 |  |

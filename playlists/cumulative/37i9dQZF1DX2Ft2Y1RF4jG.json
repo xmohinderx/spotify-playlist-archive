@@ -318,6 +318,24 @@
     },
     {
       "album": {
+        "name": "Best 80s Hits",
+        "url": "https://open.spotify.com/album/6Vg7x7zOtYon7HEE4m4oz0"
+      },
+      "artists": [
+        {
+          "name": "Simple Minds",
+          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260733,
+      "name": "Don't You (Forget About Me)",
+      "url": "https://open.spotify.com/track/0ezckWxXZiimuW1qMo0Dv3"
+    },
+    {
+      "album": {
         "name": "Once Upon A Time (Super Deluxe)",
         "url": "https://open.spotify.com/album/4YimfceN1R0nOS9CefIFhm"
       },
@@ -329,7 +347,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 263040,
       "name": "Don't You (Forget About Me)",
       "url": "https://open.spotify.com/track/3fH4KjXFYMmljxrcGrbPj9"
@@ -639,7 +657,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 243360,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/7Ewz6bJ97vUqk5HdkvguFQ"
@@ -661,6 +679,24 @@
       "duration_ms": 243666,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/0GIOPJKTSxagq3rq07Ch3U"
+    },
+    {
+      "album": {
+        "name": "Valentin-napi Retro V\u00e1logat\u00e1s 2021",
+        "url": "https://open.spotify.com/album/3FVx8KyZez2FCz3UQemuG0"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244960,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/3Z2ZkcvjN4NP4iwkIsuI8p"
     },
     {
       "album": {
@@ -718,6 +754,24 @@
     },
     {
       "album": {
+        "name": "'80s Pop Number 1's",
+        "url": "https://open.spotify.com/album/5jiJM0tIbaoc33qGGkBAys"
+      },
+      "artists": [
+        {
+          "name": "Belinda Carlisle",
+          "url": "https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251106,
+      "name": "Heaven Is A Place On Earth",
+      "url": "https://open.spotify.com/track/4ximX972uTGJNyKDqqGItu"
+    },
+    {
+      "album": {
         "name": "Heaven On Earth (Deluxe Edition)",
         "url": "https://open.spotify.com/album/34SBayfOPJb9ztyCTvS3no"
       },
@@ -729,7 +783,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 233666,
       "name": "Heaven Is A Place On Earth - Promo 7\" Edit",
       "url": "https://open.spotify.com/track/3EvpaRZkKWxsgDIO2zMH7g"
@@ -1381,10 +1435,28 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 270333,
       "name": "Nothing's Gonna Stop Us Now",
       "url": "https://open.spotify.com/track/3X7uFMzJrEE0sxn62qd8Ch"
+    },
+    {
+      "album": {
+        "name": "American Soft Rock",
+        "url": "https://open.spotify.com/album/2SSQQYyYy6DYyDaV3eAkJ7"
+      },
+      "artists": [
+        {
+          "name": "Starship",
+          "url": "https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270333,
+      "name": "Nothing's Gonna Stop Us Now",
+      "url": "https://open.spotify.com/track/6g8VJsF9fPZKKc6BUwLbbm"
     },
     {
       "album": {

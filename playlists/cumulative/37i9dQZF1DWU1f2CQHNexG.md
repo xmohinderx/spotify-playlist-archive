@@ -4,7 +4,7 @@
 
 > Dancing to electro\-pop like a robot from 1984\. Cover: The Psychedelic Furs.
 
-111 songs - 7 hr 51 min - [published](https://open.spotify.com/playlist/7sgvvjtQ3YO0vLBx6zL4uM)
+113 songs - 7 hr 59 min - [published](https://open.spotify.com/playlist/7sgvvjtQ3YO0vLBx6zL4uM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,9 +35,10 @@
 | [Everybody Wants To Rule The World](https://open.spotify.com/track/40dJCw4xU6Bd5ie9rfagNo) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs From The Big Chair](https://open.spotify.com/album/4yaypP8ytl2ghM2kiNSD8a) | 4:11 | 2022-03-10 | 2022-07-29 |
 | [Everybody Wants To Rule The World](https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs From The Big Chair \(Super Deluxe Edition\)](https://open.spotify.com/album/3myPwaMYjdwhtq0nFgeG6W) | 4:11 | 2022-03-10 | 2022-11-11 |
 | [Everybody Wants To Rule The World](https://open.spotify.com/track/7FjO6tymaNxO9Jr4xqmvZh) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Cinematic Reflections](https://open.spotify.com/album/4ozY3aWk7ip0JxqDRcpBG5) | 4:13 | 2022-09-18 |  |
-| [Everything Counts](https://open.spotify.com/track/31xOx8PgBKBdXk5gfUvr0p) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Everything Counts](https://open.spotify.com/album/1pXjpgob9bE4OFxCUSSVjQ) | 3:59 | 2022-03-10 |  |
+| [Everything Counts](https://open.spotify.com/track/31xOx8PgBKBdXk5gfUvr0p) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Everything Counts](https://open.spotify.com/album/1pXjpgob9bE4OFxCUSSVjQ) | 3:59 | 2022-03-10 | 2022-11-12 |
 | [Everything Counts](https://open.spotify.com/track/1mb5bblw96UieIjCPlWyEw) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Construction Time Again](https://open.spotify.com/album/4PACSjpgl1unuvybxtiZqo) | 4:21 | 2022-03-10 | 2022-07-29 |
 | [Everything Counts \- 2006 Digital Remaster](https://open.spotify.com/track/5TQnwwwx5na4rCj6EVcdvV) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [The Best Of Depeche Mode \- Volume One](https://open.spotify.com/album/6gHRLG5Gbjk3vwtgmadx1g) | 4:01 | 2022-03-10 | 2022-07-29 |
+| [Everything Counts \- 2006 Remaster](https://open.spotify.com/track/6JN0k3R65B7T47lsHwgBjQ) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [The Best of Depeche Mode, Volume 1](https://open.spotify.com/album/3PIszA6UT9iI99izK60AdV) | 3:58 | 2022-09-18 |  |
 | [Everything Counts \- 2007 Remaster](https://open.spotify.com/track/68d2JDhqLtCuOsfX0W71Ct) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Construction Time Again \(2007 Remaster\)](https://open.spotify.com/album/6oFsq13ql71yK5Gaar7eIy) | 4:20 | 2022-03-10 | 2022-11-11 |
 | [Everything Counts \- 2018 Remaster](https://open.spotify.com/track/1DNA6mwbbWTSklHHYyPePA) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Construction Time Again \| The 12" Singles](https://open.spotify.com/album/2HgXeksUArKZ1Xb74fRS9W) | 4:20 | 2022-09-18 |  |
 | [Eyes Without A Face](https://open.spotify.com/track/0A1QehwXuYOGcIoZHy7UTb) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Rebel Yell](https://open.spotify.com/album/6yDq3SrTcstT7zD1hv3hgM) | 4:59 | 2022-03-10 | 2022-07-26 |
@@ -89,8 +90,9 @@
 | [Smalltown Boy](https://open.spotify.com/track/5vmRQ3zELMLUQPo2FLQ76x) | [Bronski Beat](https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08) | [The Age of Consent](https://open.spotify.com/album/6OMYQUITdN6wBaWfEtgooI) | 5:02 | 2022-03-10 | 2022-11-11 |
 | [Smalltown Boy](https://open.spotify.com/track/0FrCX7P2C2hcRTcuhjEvK4) | [Bronski Beat](https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08) | [The Age Of Consent](https://open.spotify.com/album/7sJwidjwY9gt44I1AioyKm) | 5:03 | 2022-03-10 | 2022-07-29 |
 | [Smalltown Boy \- 2018 Remaster](https://open.spotify.com/track/6z8DWrb3w3YZEPimpVLYbZ) | [Bronski Beat](https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08) | [Smalltown Boy \(Remastered\)](https://open.spotify.com/album/46UuCEBuA9QGFO78wtCXyz) | 5:03 | 2022-09-18 |  |
+| [Steppin' Out](https://open.spotify.com/track/1qaS4rwkm52lpkDZVmvF52) | [Joe Jackson](https://open.spotify.com/artist/6KOqPxwfNAmZPkiCnDE9yT) | [Night And Day](https://open.spotify.com/album/62rwfuO0qI4y6pSz6zwOlS) | 4:19 | 2022-09-18 |  |
 | [Steppin' Out](https://open.spotify.com/track/0tBTnrMcc91qKP9dHqhsS7) | [Joe Jackson](https://open.spotify.com/artist/6KOqPxwfNAmZPkiCnDE9yT) | [Night And Day](https://open.spotify.com/album/0qXKy00l8syNSBNjE15o4t) | 4:22 | 2022-03-10 | 2022-07-29 |
-| [Steppin' Out](https://open.spotify.com/track/2KY0QUeRY3IPuJI1gyU9BJ) | [Joe Jackson](https://open.spotify.com/artist/6KOqPxwfNAmZPkiCnDE9yT) | [Night And Day](https://open.spotify.com/album/01sMJCr0xosXP8uZ2djLvd) | 4:28 | 2022-03-10 |  |
+| [Steppin' Out](https://open.spotify.com/track/2KY0QUeRY3IPuJI1gyU9BJ) | [Joe Jackson](https://open.spotify.com/artist/6KOqPxwfNAmZPkiCnDE9yT) | [Night And Day](https://open.spotify.com/album/01sMJCr0xosXP8uZ2djLvd) | 4:28 | 2022-03-10 | 2022-11-12 |
 | [Strangelove \- Alt\. Single Version](https://open.spotify.com/track/5XKRI5H4aywDVTKXUeVc61) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Strangelove](https://open.spotify.com/album/5331VtcJopcteVzgUHMH9R) | 3:49 | 2022-03-10 | 2022-11-11 |
 | [Strangelove \- Single Version](https://open.spotify.com/track/6MHOg9xiYC2gj8zcASaLUo) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [The Singles 86\-98](https://open.spotify.com/album/1RC1I4Sf6tfnyMVoRJxDo3) | 3:47 | 2022-09-18 |  |
 | [Strangelove \- Single Version](https://open.spotify.com/track/6xPKB1wHju2wxtVdTsyxBx) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [The Singles 86\-98](https://open.spotify.com/album/67yJQ4hgI4xpuiOiHgLEtX) | 3:47 | 2022-03-10 | 2022-07-29 |

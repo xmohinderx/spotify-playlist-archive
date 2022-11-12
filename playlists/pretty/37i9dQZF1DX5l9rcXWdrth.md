@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5l9rcXWdrth.md) - [plain]
 
 > Some of the most influential and innovative voices in hip\-hop—yesterday, today, tomorrow\. Cover: Doja Cat
 
-[Spotify](https://open.spotify.com/user/spotify) - 459,853 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 459,967 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,19 +44,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5l9rcXWdrth.md) - [plain]
 | 34 | [I Am \(feat\. Flo Milli\)](https://open.spotify.com/track/4E7ZbuJH3NddjnMWLstkRq) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [After The Rain](https://open.spotify.com/album/0ne4ND8fxiwMDH8OK0sAn6) | 3:02 |
 | 35 | [My Way](https://open.spotify.com/track/5NnwiqW2KwXYN4wl6ahYsn) | [Queen Key](https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR) | [Eat My Pussy](https://open.spotify.com/album/0SWNsyNKAJHshqiYkbE3er) | 2:24 |
 | 36 | [No Fear](https://open.spotify.com/track/2H881m3JRA8lpuuwaQL6zy) | [DeJ Loaf](https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF) | [No Fear](https://open.spotify.com/album/35uDNZkjmhAEnV3sz9A7jI) | 2:49 |
-| 37 | [My Neck, My Back \(Lick It\)](https://open.spotify.com/track/5r29mFrurlVBbqJzjr2XW6) | [Khia](https://open.spotify.com/artist/3q7isf09BuwXLyR2khBs60) | [Thug Misses \(Digitally Remastered\)](https://open.spotify.com/album/4Xa2dq99gQqzGj4vq0rGoV) | 3:42 |
-| 38 | [May I](https://open.spotify.com/track/1GcXzijYzyfMq6wryZjYW5) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Ho, why is you here ?](https://open.spotify.com/album/49FIsErcdC5rfTFhRpPZ7P) | 2:43 |
-| 39 | [The Rain \(Supa Dupa Fly\)](https://open.spotify.com/track/2WRzpLD8qDRrxMXc63E5WJ) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Supa Dupa Fly](https://open.spotify.com/album/6UkdyvPElK6JDkyeRClbI2) | 4:11 |
+| 37 | [May I](https://open.spotify.com/track/1GcXzijYzyfMq6wryZjYW5) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Ho, why is you here ?](https://open.spotify.com/album/49FIsErcdC5rfTFhRpPZ7P) | 2:43 |
+| 38 | [The Rain \(Supa Dupa Fly\)](https://open.spotify.com/track/2WRzpLD8qDRrxMXc63E5WJ) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Supa Dupa Fly](https://open.spotify.com/album/6UkdyvPElK6JDkyeRClbI2) | 4:11 |
+| 39 | [Crush on You \(feat\. Lil' Cease\) \- Remix](https://open.spotify.com/track/2LP2uDQQ7eLMcUVE4aOpAV) | [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX), [Lil' Cease](https://open.spotify.com/artist/6V4zyNV40Zyu5MGlhD0i8g) | [Not Tonight EP](https://open.spotify.com/album/6ziNUlW26RQhiHOdJpSyVD) | 4:35 |
 | 40 | [Captain Hook](https://open.spotify.com/track/1E3VQQWFQAPJkXfYHjqWoI) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Suga](https://open.spotify.com/album/6Lo6ylJg4qbFfxicPEOzMI) | 2:56 |
-| 41 | [Crush on You \(feat\. Lil' Cease\) \- Remix](https://open.spotify.com/track/2LP2uDQQ7eLMcUVE4aOpAV) | [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX), [Lil' Cease](https://open.spotify.com/artist/6V4zyNV40Zyu5MGlhD0i8g) | [Not Tonight EP](https://open.spotify.com/album/6ziNUlW26RQhiHOdJpSyVD) | 4:35 |
-| 42 | [MMM MMM \(feat\. ATL Jacob\)](https://open.spotify.com/track/7GLqR9ToJLb0PV3XyNAWNm) | [Kali](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [ATL Jacob](https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq) | [MMM MMM \(feat\. ATL Jacob\)](https://open.spotify.com/album/5IPRVG3Ph5zixjdC49LKdu) | 2:17 |
-| 43 | [I'll Be](https://open.spotify.com/track/6Ag4SYLUGFdnJrCwUIb4mT) | [Foxy Brown](https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Ill Na Na](https://open.spotify.com/album/6qLC4weRVEetELyQQgkAMk) | 2:58 |
-| 44 | [Hungry Hippo](https://open.spotify.com/track/0WpDeBJ22LcwF4QoERQOTv) | [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh) | [Whack World](https://open.spotify.com/album/3ogNAkUhvQy0cFOfLoR6Y8) | 1:00 |
-| 45 | [Female Goat](https://open.spotify.com/track/3GvtfWTRoialUPNCbDjdtI) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Time's Up](https://open.spotify.com/album/3N4tO5aWP6z6LH44hPPApi) | 2:53 |
-| 46 | [No More Parties](https://open.spotify.com/track/3R6wLBD4oU6op8L4YfMho9) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [No More Parties](https://open.spotify.com/album/5pPKR7VufPAbF18RUYB0eP) | 2:20 |
-| 47 | [OOOUUU](https://open.spotify.com/track/0D21XvHcVsIvJM6FcGY2BT) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [OOOUUU](https://open.spotify.com/album/0o7QxqeqhALehCfm0kpJJo) | 3:54 |
-| 48 | [What'chu Like \(feat\. Tyrese\)](https://open.spotify.com/track/5d8woPn6sHRA6yPnnHnqSt) | [Da Brat](https://open.spotify.com/artist/2I1bnmb9VQEQGKHxvr0gSf), [Tyrese](https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ) | [Unrestricted](https://open.spotify.com/album/6O6Ljcn3hIcxMw3eSLD811) | 3:41 |
-| 49 | [Bickenhead](https://open.spotify.com/track/17Yq72h0p15OhCbZ5lJ5gd) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Invasion of Privacy](https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML) | 3:01 |
+| 41 | [MMM MMM \(feat\. ATL Jacob\)](https://open.spotify.com/track/7GLqR9ToJLb0PV3XyNAWNm) | [Kali](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [ATL Jacob](https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq) | [MMM MMM \(feat\. ATL Jacob\)](https://open.spotify.com/album/5IPRVG3Ph5zixjdC49LKdu) | 2:17 |
+| 42 | [I'll Be](https://open.spotify.com/track/6Ag4SYLUGFdnJrCwUIb4mT) | [Foxy Brown](https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Ill Na Na](https://open.spotify.com/album/6qLC4weRVEetELyQQgkAMk) | 2:58 |
+| 43 | [Hungry Hippo](https://open.spotify.com/track/0WpDeBJ22LcwF4QoERQOTv) | [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh) | [Whack World](https://open.spotify.com/album/3ogNAkUhvQy0cFOfLoR6Y8) | 1:00 |
+| 44 | [Female Goat](https://open.spotify.com/track/3GvtfWTRoialUPNCbDjdtI) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Time's Up](https://open.spotify.com/album/3N4tO5aWP6z6LH44hPPApi) | 2:53 |
+| 45 | [No More Parties](https://open.spotify.com/track/3R6wLBD4oU6op8L4YfMho9) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [No More Parties](https://open.spotify.com/album/5pPKR7VufPAbF18RUYB0eP) | 2:20 |
+| 46 | [OOOUUU](https://open.spotify.com/track/0D21XvHcVsIvJM6FcGY2BT) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [OOOUUU](https://open.spotify.com/album/0o7QxqeqhALehCfm0kpJJo) | 3:54 |
+| 47 | [What'chu Like \(feat\. Tyrese\)](https://open.spotify.com/track/5d8woPn6sHRA6yPnnHnqSt) | [Da Brat](https://open.spotify.com/artist/2I1bnmb9VQEQGKHxvr0gSf), [Tyrese](https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ) | [Unrestricted](https://open.spotify.com/album/6O6Ljcn3hIcxMw3eSLD811) | 3:41 |
+| 48 | [Bickenhead](https://open.spotify.com/track/17Yq72h0p15OhCbZ5lJ5gd) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Invasion of Privacy](https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML) | 3:01 |
+| 49 | [Jobs](https://open.spotify.com/track/2fHXAuXRcCDXbZYJIUZCGW) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [City On Lock](https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN) | 2:01 |
 | 50 | [Eat It](https://open.spotify.com/track/4V5Dv8IjHNTk2YJzU9vgsW) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Something for Thee Hotties](https://open.spotify.com/album/6B26OzQRObxAp1tbf8jeTq) | 2:49 |
 
-Snapshot ID: `MTY0Njc3MjM1MiwwMDAwMDAwMDhhM2RlNGJjYjk1NTlkZjk1YTljYjFiNWQwM2JlMjY4`
+Snapshot ID: `MTY0Njc3MjM1MiwwMDAwMDAwMGFiYjA5OWExMDJhZjlmMjc3OTQ4M2U0NzNlZGMxN2Zh`

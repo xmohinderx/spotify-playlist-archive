@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvTQHhm7Jtf.md) - [plain]
 
 > A pangea of ethnic/futuristic sounds inspired by Brian Eno and Jon Hassell's 'Fourth World Vol 1 \- Possible Musics'.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,749 likes - 70 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,782 likes - 70 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvTQHhm7Jtf.md) - [plain]
 | 19 | [Haut](https://open.spotify.com/track/47z9MmkB84n0UB8ZtpYgNU) | [Ralph Heidel](https://open.spotify.com/artist/0bMg0IViAwAYQ5WUenR92H) | [Haut](https://open.spotify.com/album/6AXggAB3ZLFpju607wptwm) | 4:12 |
 | 20 | [Gilded](https://open.spotify.com/track/0cSdWJzO18liElNMCAYCig) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Gave in Rest](https://open.spotify.com/album/4IFuTsN2aWyIysDMui5VnR) | 3:30 |
 | 21 | [The Unquestioned Answer](https://open.spotify.com/track/2Xi2uBeFHI8zs5spiNmyqg) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [The Expanding Universe](https://open.spotify.com/album/1oiMfhS7X0MJSjowR49VPK) | 6:30 |
-| 22 | [On Plateau](https://open.spotify.com/track/5SpQc9ByjLPrycqSBdPRKU) | [Suso Saiz](https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh), [Suzanne Kraft](https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m) | [Between No Things](https://open.spotify.com/album/6OQwiuvocNlEp7D9nIBOjj) | 3:55 |
+| 22 | [Introspection \(Edit\)](https://open.spotify.com/track/5JVtVJFun3pgNdDlUQlkOm) | [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4) | [Introspection \(Edit\)](https://open.spotify.com/album/3KqeFM8PuKvoOHzVo1oxmZ) | 2:35 |
 | 23 | [Forest Trails](https://open.spotify.com/track/2Gvy4DbDM6NQ5rUJDljXz4) | [Windy & Carl](https://open.spotify.com/artist/6qNSgOBq7aNMSUh1lxUhYq) | [Forest Trails](https://open.spotify.com/album/4IraxSJiP3P7561LUlNTrY) | 5:46 |
-| 24 | [Introspection \(Edit\)](https://open.spotify.com/track/5JVtVJFun3pgNdDlUQlkOm) | [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4) | [Introspection \(Edit\)](https://open.spotify.com/album/3KqeFM8PuKvoOHzVo1oxmZ) | 2:35 |
+| 24 | [On Plateau](https://open.spotify.com/track/5SpQc9ByjLPrycqSBdPRKU) | [Suso Saiz](https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh), [Suzanne Kraft](https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m) | [Between No Things](https://open.spotify.com/album/6OQwiuvocNlEp7D9nIBOjj) | 3:55 |
 | 25 | [Subtotem](https://open.spotify.com/track/4XxfcsGiZFmIy9Rpdi8PGg) | [Mount Shrine](https://open.spotify.com/artist/6Md52GXgJjLniff4TEgHJr) | [Shortwave Ruins](https://open.spotify.com/album/33CNr0PMbRsXkda90MZ8AM) | 7:14 |
 | 26 | [Umi No Ue Kara](https://open.spotify.com/track/4Ee8z8ySuxdqTTPI868NtU) | [Yasuaki Shimizu](https://open.spotify.com/artist/0Q14t6kRnPv4av49Rz5o6e) | [Kakashi](https://open.spotify.com/album/0ZVkkcvhUWQ4hIeoC8Y5Kb) | 8:18 |
 | 27 | [Fen](https://open.spotify.com/track/7bJCb3xNp7R3hwo1HDWTYx) | [Wacław Zimpel](https://open.spotify.com/artist/124sGtDIjkbuOt1uDcZ2Lz) | [Fen](https://open.spotify.com/album/0VcztgRrk8OU2PjCPfXpVk) | 4:55 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvTQHhm7Jtf.md) - [plain]
 | 50 | [Ether](https://open.spotify.com/track/3OXf3f3t3Yx9TMVsZHh2lD) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH) | [Plutón](https://open.spotify.com/album/3lA2Wy5OpKlsRMlogDznKW) | 6:56 |
 | 51 | [Omprovo](https://open.spotify.com/track/2IGlsC51UCUtQLIaDJuVPg) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Oquo](https://open.spotify.com/album/6cTuDue4MAQupjz57fNicv) | 2:40 |
 | 52 | [The Blue of Distance](https://open.spotify.com/track/6ZWKWSVd57ofFsgEez8aI6) | [Elori Saxl](https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0) | [The Blue of Distance](https://open.spotify.com/album/2fgYV6cTjFeqb0yPbj4piy) | 7:05 |
-| 53 | [Glass Chattering](https://open.spotify.com/track/6lGHPfFmZGcjNv7tmTYzZ0) | [Yoshio Ojima](https://open.spotify.com/artist/311stj8V2orjkfjvLrLvfa) | [Kankyō Ongaku: Japanese Ambient, Environmental & New Age Music 1980\-1990](https://open.spotify.com/album/63x6MwkzIVtoH6lbHIYEtr) | 5:56 |
-| 54 | [Come Back To Bali](https://open.spotify.com/track/5bMRA7SYWh3tpeij7yH8zi) | [Idee Du Femelle](https://open.spotify.com/artist/7456KsYCY7hMaTuLvtZPtm) | [Sequences](https://open.spotify.com/album/0BhgTe2K6uO37VjJAtjD7B) | 7:37 |
+| 53 | [Come Back To Bali](https://open.spotify.com/track/5bMRA7SYWh3tpeij7yH8zi) | [Idee Du Femelle](https://open.spotify.com/artist/7456KsYCY7hMaTuLvtZPtm) | [Sequences](https://open.spotify.com/album/0BhgTe2K6uO37VjJAtjD7B) | 7:37 |
+| 54 | [Glass Chattering](https://open.spotify.com/track/6lGHPfFmZGcjNv7tmTYzZ0) | [Yoshio Ojima](https://open.spotify.com/artist/311stj8V2orjkfjvLrLvfa) | [Kankyō Ongaku: Japanese Ambient, Environmental & New Age Music 1980\-1990](https://open.spotify.com/album/63x6MwkzIVtoH6lbHIYEtr) | 5:56 |
 | 55 | [Closed \- Yosemite Version](https://open.spotify.com/track/6kVv525s4LlVtZ75f74Bc1) | [Vivian Koch](https://open.spotify.com/artist/16xZ9dx7FhyK68gDskeweF) | [Beyond Contact](https://open.spotify.com/album/5aYn1Q50RPtHWf97O3Wt7i) | 3:52 |
 | 56 | [Desert Wax](https://open.spotify.com/track/1RQBeZgMF37bZaXCXYbfil) | [S A D](https://open.spotify.com/artist/3iCMhOPsGRUGXAOhHaS6PU) | [Children of the Sun](https://open.spotify.com/album/7JqhSihASq4Jl5SWxeUTdV) | 4:45 |
 | 57 | [Toucan Ocean](https://open.spotify.com/track/7IAGZpMEBO143Y7zZ17KsH) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Vernal Equinox \(Remastered\)](https://open.spotify.com/album/0KtsQ4zwAHOENu5ZW1lGgx) | 3:49 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvTQHhm7Jtf.md) - [plain]
 | 69 | [The Three Realms](https://open.spotify.com/track/4RktobAj8s4udPtUsEcWZY) | [D.K.](https://open.spotify.com/artist/6JGGS3JOcMIxa0QF6pFnzN) | [The Goddess Is Dancing](https://open.spotify.com/album/45Gxh7xqUU4ouDREPoSgKN) | 6:11 |
 | 70 | [Ba\-benzélé](https://open.spotify.com/track/3c9lr5HgwAGEJbThGnkp3i) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Fourth World Vol 1 Possible Musics](https://open.spotify.com/album/5vXMwvBidoteqCN6APRPo9) | 6:17 |
 
-Snapshot ID: `MTY2NDUwNjAyNSwwMDAwMDAwMGQyMmQ5ZWFhNmZkY2ZmZGQ1M2FjYWEyNDY4ZDA3ZjA2`
+Snapshot ID: `MTY2NDUwNjAyNSwwMDAwMDAwMDIxNGM1MDRiNzc0NDhkNzUzYWJkNTU0Y2JiMzFkNWNl`

@@ -4,7 +4,7 @@
 
 > Rise with a relaxing blend of folk and acoustic.
 
-191 songs - 11 hr 37 min - [published](https://open.spotify.com/playlist/5OnqyGQ45pjHIR1UdjdRu4)
+193 songs - 11 hr 44 min - [published](https://open.spotify.com/playlist/5OnqyGQ45pjHIR1UdjdRu4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,8 @@
 | [Like Gold](https://open.spotify.com/track/6Od2OWvoT4embWAgIGeFRd) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Nation of Two](https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV) | 3:44 | 2022-06-14 | 2022-11-11 |
 | [Like Real People Do](https://open.spotify.com/track/7K6LFPfjdnN6QqvGzhvpRO) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier](https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq) | 3:18 | 2019-05-26\* |  |
 | [Long Blue Light](https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Long Blue Light](https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei) | 3:20 | 2021-04-04 |  |
-| [look up](https://open.spotify.com/track/0oEji7lz6paMOdk97XEK4Z) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness](https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ) | 3:33 | 2022-06-14 |  |
+| [look up](https://open.spotify.com/track/0oEji7lz6paMOdk97XEK4Z) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness](https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ) | 3:33 | 2022-06-14 | 2022-11-12 |
+| [look up](https://open.spotify.com/track/1XO1GBR7sTLAFGHKWuCfTM) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness \(complete\)](https://open.spotify.com/album/7yemOBr0RNb26tsE0lKaDB) | 3:33 | 2022-10-07 |  |
 | [look up](https://open.spotify.com/track/1Thyh3NBnJ783exapZJIA3) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [look up](https://open.spotify.com/album/2gR17B4gSlfBVSgSHuKx3d) | 3:33 | 2021-04-03 | 2022-07-29 |
 | [Loretta](https://open.spotify.com/track/724mTUDtMwxfB2G023Kerf) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa), [Taylor Ashton](https://open.spotify.com/artist/53t38sKooUEyyENANtticX) | [Loretta](https://open.spotify.com/album/4FwGpAmex8ylZrxcf4qGBk) | 2:28 | 2020-05-12 |  |
 | [Lost in My Mind](https://open.spotify.com/track/3gvAGvbMCRvVDDp8ZaIPV5) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head and the Heart](https://open.spotify.com/album/0xWfhCMYmaiCXtLOuyPoLF) | 4:19 | 2019-05-26\* | 2020-05-12 |
@@ -112,12 +113,13 @@
 | [Love Love Love](https://open.spotify.com/track/15IWqq4MaJ09ZQZgzcbn4p) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [My Head Is An Animal](https://open.spotify.com/album/6uD3oJCWT1gtlSCg5lDiNF) | 3:58 | 2019-05-26\* | 2019-06-19 |
 | [Michigan Cherry](https://open.spotify.com/track/0fOEjjXBEiyu395pW3C1eo) | [River Whyless](https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH) | [Monoflora](https://open.spotify.com/album/398U3OCGdd08lD6gdMC0rE) | 3:43 | 2022-06-14 |  |
 | [Mind on Fire](https://open.spotify.com/track/45RX9we2ExTAPtPmHRJT9C) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Mind on Fire](https://open.spotify.com/album/1Ms5teyYCQM0bHa2aSKfod) | 3:14 | 2019-06-19\* | 2022-07-17 |
-| [Mind on Fire](https://open.spotify.com/track/4LEdX9NFK0tVB5anrAIi1q) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Pendulum](https://open.spotify.com/album/64uKH4UnWHG6Ea960CSChE) | 3:14 | 2022-06-14 |  |
+| [Mind on Fire](https://open.spotify.com/track/4LEdX9NFK0tVB5anrAIi1q) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Pendulum](https://open.spotify.com/album/64uKH4UnWHG6Ea960CSChE) | 3:14 | 2022-06-14 | 2022-11-12 |
 | [Minimum](https://open.spotify.com/track/4FwaJmXeZxr1096KItcUQq) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Minimum](https://open.spotify.com/album/5oHD0TW5vl8qXVZJg0IKx3) | 3:14 | 2019-05-26\* | 2021-05-10 |
 | [Misty](https://open.spotify.com/track/0jX7GLf5pVGZpchy64sluA) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Misty](https://open.spotify.com/album/70ozU7uYRApcu4Dluq0xMV) | 3:44 | 2019-05-26\* | 2022-10-14 |
 | [Misty](https://open.spotify.com/track/58qd3nuwT6pse9UpUojZIQ) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Misty](https://open.spotify.com/album/1GRqKwM4H3FLbZq3Fudbtz) | 3:44 | 2022-10-07 |  |
 | [Morning](https://open.spotify.com/track/7wStk0361hcPEtJc4KbOPf) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Blue Heron Suite](https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV) | 3:28 | 2021-05-10 |  |
 | [Morning Is Made](https://open.spotify.com/track/5njv7WRM11r6Xlul5wAy2T) | [Hush Kids](https://open.spotify.com/artist/4XzsOuqFltgBcdHF3RZQbh) | [Morning Is Made](https://open.spotify.com/album/6pVhP4yZaSMv6tmy9MY7ti) | 2:55 | 2019-06-19\* | 2022-07-29 |
+| [Morning Rain](https://open.spotify.com/track/4k07R3Sm35MJ3uzVn1RGH7) | [Adam Torres](https://open.spotify.com/artist/4wIdxySSxqlIirsqE0JKx8) | [Pearls to Swine](https://open.spotify.com/album/5vzBUbGigJfjW23Deldzca) | 3:54 | 2022-10-07 |  |
 | [Morning Rain](https://open.spotify.com/track/5VWwTfiRLn0L29cs9MNque) | [Adam Torres](https://open.spotify.com/artist/4wIdxySSxqlIirsqE0JKx8) | [Pearls to Swine](https://open.spotify.com/album/0R1Jrf5J6B4dr9dpjSoUi1) | 3:54 | 2019-05-26\* | 2022-07-29 |
 | [Mourning in America](https://open.spotify.com/track/5Apnwmk2Zzh3gGZD6OzQjN) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [All the Things That I Did and All the Things That I Didn't Do](https://open.spotify.com/album/1BpQ1yTs26aKJg0aWqnzEq) | 3:04 | 2019-06-19\* | 2022-06-11 |
 | [New Person, Old Place \(New Feelings Version\)](https://open.spotify.com/track/6G5C3uAzRh5CPDBoXhMAhP) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az), [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [Same History, New Feelings](https://open.spotify.com/album/2pVw5jbYUefDoaZgjnu4Q9) | 3:56 | 2022-06-14 | 2022-07-29 |

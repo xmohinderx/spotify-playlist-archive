@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvQoIOFMFUT.md) - [plain]
 
 > Breathe deep and release that pressure.
 
-[Spotify](https://open.spotify.com/user/spotify) - 459,139 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 459,126 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvQoIOFMFUT.md) - [plain]
 | 17 | [Unhold Me](https://open.spotify.com/track/6dVIFfl55kxGl3bAifMiMr) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai), [Arctic Lake](https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6) | [Unhold Me](https://open.spotify.com/album/132EEc3csmIyKpp4nShpV6) | 3:18 |
 | 18 | [Golden Ratio](https://open.spotify.com/track/3MHBYSloK2tHDGAZ3ucA5I) | [Hayden Thorpe](https://open.spotify.com/artist/2oTq85rZFxkflPCbDUGs6d) | [Golden Ratio](https://open.spotify.com/album/3gBKFggMKS5mbwWWg6TdZp) | 4:27 |
 | 19 | [Black Cloud](https://open.spotify.com/track/7MkBQ0FuRr4R0mlKEdBW0W) | [Playwrite](https://open.spotify.com/artist/0EiT4C5JLoSGXyEpHAZpEN) | [Cathedrals](https://open.spotify.com/album/3OvoMUfySPeoCMn6CBDmRD) | 3:35 |
-| 20 | [Redeye](https://open.spotify.com/track/0dOhHUYXDhNzKWtsvaNv3R) | [Richard Orofino](https://open.spotify.com/artist/3xXUZ2bPGudLudm2eBE7I0) | [Redeye](https://open.spotify.com/album/3bMCftnYUVKzKd1QuJUV4m) | 3:51 |
+| 20 | [Redeye](https://open.spotify.com/track/4JBAXwWUQEB2qVJFBmVAIu) | [Richard Orofino](https://open.spotify.com/artist/3xXUZ2bPGudLudm2eBE7I0) | [Bella Notte](https://open.spotify.com/album/0ewRutFrDWZee6M7KiyPRg) | 3:51 |
 | 21 | [i don't know where i'm going but that's okay](https://open.spotify.com/track/5EXoQjNAotUspxZhPHiGE7) | [sarya](https://open.spotify.com/artist/1jIluixQm1CH6lBpeq46f5) | [take care of yourself](https://open.spotify.com/album/5PnmGxnNA1sR9MZVrFpvlA) | 4:42 |
 | 22 | [Ember](https://open.spotify.com/track/6dYcB7modGAixjXyjkk8Hn) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Ember](https://open.spotify.com/album/3pH3ulLQ0XIYNTEyrjV63f) | 2:40 |
 | 23 | [Music Again](https://open.spotify.com/track/4BVVSKWz1ABYE2mfPTD38b) | [Saint Etienne](https://open.spotify.com/artist/1N2FgBLehaq77UEdJhCt7f) | [I've Been Trying To Tell You](https://open.spotify.com/album/4lAlJDRobl1616M78q4lBj) | 5:45 |
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvQoIOFMFUT.md) - [plain]
 | 59 | [BABY](https://open.spotify.com/track/3ZpXjkbF60sdM56xe0gBGO) | [Winnie Raeder](https://open.spotify.com/artist/1QnifH4HAt0yWP9A9IcoMK) | [BABY](https://open.spotify.com/album/72SidVDUgWuk9EmejhPnth) | 3:24 |
 | 60 | [Mr\. Sot](https://open.spotify.com/track/5WpSqfPsqGH80xLwPh1oin) | [The Dawdler](https://open.spotify.com/artist/1RjoSjk4wI962W4HFGBdwx) | [Keith in Ballachulish](https://open.spotify.com/album/5AntAYzpR9pTxtMw9MoET9) | 3:39 |
 | 61 | [Casio](https://open.spotify.com/track/6C3RGG9kc1ojBoMsatHdfH) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M), [Kxrn](https://open.spotify.com/artist/7x5msB6JYdzIFNvmkMPXFs) | [A World Without Snooze, Vol\. 2](https://open.spotify.com/album/3Xr78pqMlMMeLMn3kQDYr2) | 2:08 |
-| 62 | [Dry Fantasy](https://open.spotify.com/track/7lABwF6gabjOLifJFuAaKi) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [As The Love Continues](https://open.spotify.com/album/4LjNbxlMmWNn5Yky9bfxRm) | 5:10 |
+| 62 | [Dry Fantasy](https://open.spotify.com/track/2oUXRX74mg3tByEamEIPIW) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [Ritchie Sacramento](https://open.spotify.com/album/7l4srAaJNA9IIQNBJj7eqA) | 5:10 |
 | 63 | [This Is Where It Ends](https://open.spotify.com/track/0wgwdUlMMSWeOKfdZ2X03E) | [Richard Walters](https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F) | [Big Joy](https://open.spotify.com/album/5NKUOGYLG35WcAVaisySTa) | 3:42 |
 | 64 | [In Uh Breeze](https://open.spotify.com/track/2HTObBIfTFYx6d7hReu8ff) | [Monica Riskey](https://open.spotify.com/artist/3JpHMpV3QOd4qrz7Jfkw7w) | [In Uh Breeze](https://open.spotify.com/album/5J7Q14CwfO0wkQXreGWa3R) | 2:18 |
 | 65 | [The Sun Is Up Forever](https://open.spotify.com/track/4i17ViZoevssgUvRifo0V5) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [The Sun Is Up Forever](https://open.spotify.com/album/47axSNTeQ43lYBoW3simcR) | 3:44 |
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvQoIOFMFUT.md) - [plain]
 | 70 | [Don't Forget About Me](https://open.spotify.com/track/5qUujOsbcVq8oo3ndNET6e) | [Alice Boman](https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt) | [Dream On](https://open.spotify.com/album/4EKA6cOPmM0VmjHigV03QH) | 3:06 |
 | 71 | [Alright](https://open.spotify.com/track/1MrUQX327aKDnOawrNnRUJ) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Simulcast](https://open.spotify.com/album/09kooFexe8JArV583iIkaj) | 4:02 |
 | 72 | [Chandelier](https://open.spotify.com/track/7w7X5rwDFXwHSqlxtsljP7) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [Chandelier](https://open.spotify.com/album/2Rm8OQ2XIg5jJjqzdKW2Gz) | 5:13 |
-| 73 | [David](https://open.spotify.com/track/6LXSmPnZczqqzYqVFHupHW) | [NIGHT FLIGHT](https://open.spotify.com/artist/2nMtboATQpmDWebmKRsqpE) | [White Noise EP](https://open.spotify.com/album/2ogVdcADw5gMNtKuccLQRw) | 3:52 |
+| 73 | [David](https://open.spotify.com/track/07QULx2fegQkAFzCxOAISy) | [NIGHT FLIGHT](https://open.spotify.com/artist/2nMtboATQpmDWebmKRsqpE) | [Up And Coming Groups](https://open.spotify.com/album/0GSB0dlJJpfvOseGwdvk1U) | 3:52 |
 | 74 | [Innocent Fallacy](https://open.spotify.com/track/2P6KUtMod1AtEWqTzGMMJV) | [nuriveben](https://open.spotify.com/artist/1IIdVNdiJ3ooW3K3AW28tr) | [Innocent Fallacy](https://open.spotify.com/album/2brcj8KuBs3PiNRIouSyIJ) | 7:06 |
 | 75 | [Glass Shards](https://open.spotify.com/track/2ZJk9T8MQLZsBVFlePHXn3) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Lonely City](https://open.spotify.com/album/4GyAthXR1rB5aTV4dY5DIP) | 4:08 |
 | 76 | [Jealous](https://open.spotify.com/track/4Z1JZSSUGZz0gPh3EuF9SU) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Sensitive Soul](https://open.spotify.com/album/16DsW178EtZBoVHGatdPoa) | 3:36 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvQoIOFMFUT.md) - [plain]
 | 99 | [I Know](https://open.spotify.com/track/4NmVOfj6JSxruDVrYW46AL) | [Khushi](https://open.spotify.com/artist/3Kyyw68V3tjQfwJ6ROuzrR) | [I Know](https://open.spotify.com/album/4dYC2w3OZtkW5xynPq6Jk2) | 2:34 |
 | 100 | [About You Now](https://open.spotify.com/track/0z4eTq4BtDiNN5IFQSUBau) | [Meadowlark](https://open.spotify.com/artist/3M8Mq1n1l1TRnTUw2MRSCs) | [Nocturnes](https://open.spotify.com/album/6Jzq1Fi63BPj4aMhXLQ5yH) | 3:47 |
 
-Snapshot ID: `MTYzNDI1MjQwMCwwMDAwMDAwMDljMzNlZDBkYmZiNWZkZjI3YmE5NzRmNmM5NDc4MWZm`
+Snapshot ID: `MTYzNDI1MjQwMCwwMDAwMDAwMDQwYjlhYjhiNWE5NTA1M2Q1ZDRmZjlkMGViZDBiZDdj`

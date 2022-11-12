@@ -1,12 +1,12 @@
 {
   "description": "The official 2020 VMAs playlist from MTV + Spotify. See more at <a href=\"http://www.mtv.com/vma\">vma.mtv.com</a> \ud83d\ude80",
-  "num_followers": 105738,
+  "num_followers": 105736,
   "original_name": "MTV VMAs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5ODMwNzU2OSwwMDAwMDAwMDgwZmIyNDdhZGMzZjQwN2QxODAzNjM0YWY2ZjM5MGQy",
+  "snapshot_id": "MTU5ODMwNzU2OSwwMDAwMDAwMGNhZmUyY2FkYTk3ZTUyODMwNDc0M2VjZjU3YTFiN2Uz",
   "tracks": [
     {
       "added_at": "2020-08-24 22:19:29",
@@ -591,22 +591,6 @@
     {
       "added_at": "2020-08-24 22:19:29",
       "album": {
-        "name": "What A Man Gotta Do",
-        "url": "https://open.spotify.com/album/3SgvmlSsTrMuqICaOTlo0p"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 180644,
-      "name": "What A Man Gotta Do",
-      "url": "https://open.spotify.com/track/4wNIkl5XGiAACjFBlDWuSd"
-    },
-    {
-      "added_at": "2020-08-24 22:19:29",
-      "album": {
         "name": "Blood Harmony",
         "url": "https://open.spotify.com/album/0qRnyZEgvqF96kGSZALooq"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 190348,
       "name": "Let's Fall in Love for the Night",
       "url": "https://open.spotify.com/track/6I0KEvFfWszVJiCy5hum4V"
+    },
+    {
+      "added_at": "2020-08-24 22:19:29",
+      "album": {
+        "name": "What A Man Gotta Do",
+        "url": "https://open.spotify.com/album/3SgvmlSsTrMuqICaOTlo0p"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 180644,
+      "name": "What A Man Gotta Do",
+      "url": "https://open.spotify.com/track/4wNIkl5XGiAACjFBlDWuSd"
     },
     {
       "added_at": "2020-08-24 22:19:29",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2020-08-24 22:19:29",
       "album": {
-        "name": "weird!",
-        "url": "https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 163861,
-      "name": "strawberry lipstick",
-      "url": "https://open.spotify.com/track/75ELnvpSiymLZVmYvqyvZJ"
-    },
-    {
-      "added_at": "2020-08-24 22:19:29",
-      "album": {
         "name": "If You\u2019re Too Shy (Let Me Know)",
         "url": "https://open.spotify.com/album/3yP8qjvxER61axf20pFfAP"
       },
@@ -1179,22 +1163,6 @@
     {
       "added_at": "2020-08-24 22:19:29",
       "album": {
-        "name": "The Bitter Truth",
-        "url": "https://open.spotify.com/album/4MYCjsaDaemi8Lmkj5PzkL"
-      },
-      "artists": [
-        {
-          "name": "Evanescence",
-          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
-        }
-      ],
-      "duration_ms": 264312,
-      "name": "Wasted On You",
-      "url": "https://open.spotify.com/track/6SeiHTSmnC6CJ9tGvVLdMR"
-    },
-    {
-      "added_at": "2020-08-24 22:19:29",
-      "album": {
         "name": "The Bigger Picture",
         "url": "https://open.spotify.com/album/7nUJ4h6X0vPXDPB8NYHuFr"
       },
@@ -1255,6 +1223,38 @@
       "duration_ms": 170026,
       "name": "Bigger Love",
       "url": "https://open.spotify.com/track/4kcJsfPTr7RCrLQRvW7cyj"
+    },
+    {
+      "added_at": "2020-08-24 22:19:29",
+      "album": {
+        "name": "Melhores M\u00fasicas Internacionais 2022",
+        "url": "https://open.spotify.com/album/44mM4AULWBACBm7CQnFi3R"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 208207,
+      "name": "Underdog",
+      "url": "https://open.spotify.com/track/64hFA0izhdwZKH3SRUNGCr"
+    },
+    {
+      "added_at": "2020-08-24 22:19:29",
+      "album": {
+        "name": "Songs From The Bitter Truth",
+        "url": "https://open.spotify.com/album/7sQN6pVY3NokHmFcdNA094"
+      },
+      "artists": [
+        {
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+        }
+      ],
+      "duration_ms": 264312,
+      "name": "Wasted On You",
+      "url": "https://open.spotify.com/track/6xP7wg1cz09H5mGnabltWY"
     }
   ],
   "unique_name": "MTV VMAs",

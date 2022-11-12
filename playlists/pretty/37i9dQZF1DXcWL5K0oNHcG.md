@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Reginald Chapman Artwork: Joy Yamusangie
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,844 likes - 65 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,927 likes - 65 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 54 | [Back to you](https://open.spotify.com/track/5JIktP5Tdr1Azs6xAQGssi) | [alici](https://open.spotify.com/artist/3xwrVmAg320G7DzTPkhOjX) | [Back to you](https://open.spotify.com/album/5iwR3OV9mPjCQH1GmDq1AF) | 4:08 |
 | 55 | [More Than You Know](https://open.spotify.com/track/1oxDxFQo9M6kIf8sKkmvbD) | [Micah Thomas](https://open.spotify.com/artist/1ocNmvgQknyDwriWQq3OrO) | [Piano Solo](https://open.spotify.com/album/58GE6YRRCq5t7w8MmxmCEu) | 7:14 |
 | 56 | [Formosa Chang](https://open.spotify.com/track/4rQLtYs901g3bZJ19RQUQ6) | [ken sato experience](https://open.spotify.com/artist/3WK7Kj23XT8zprUXg4dGWU), [Nishikata Horns](https://open.spotify.com/artist/1s1yvBWnY68qd33PfSVRYI) | [Formosa Chang](https://open.spotify.com/album/7qPJpUmS9RRUyTYoVbGS4P) | 1:59 |
-| 57 | [Bustle](https://open.spotify.com/track/7gGDN4NvoIv6WZKVRV6hmp) | [Gijs Levelt Spoken Quartet](https://open.spotify.com/artist/6d9jt84PyB3w2OFrGrDg9T), [Gijs Levelt](https://open.spotify.com/artist/5nLTrxd6gjY7MIfIoT9gM0) | [Bustle](https://open.spotify.com/album/0tfDJ7IjZ2pYVB3OPFYyPJ) | 3:43 |
+| 57 | [Bustle](https://open.spotify.com/track/7gGDN4NvoIv6WZKVRV6hmp) | [Gijs Levelt Spoken Quartet](https://open.spotify.com/artist/6d9jt84PyB3w2OFrGrDg9T), [Gijs Levelt](https://open.spotify.com/artist/5nLTrxd6gjY7MIfIoT9gM0), [Mark Haanstra](https://open.spotify.com/artist/6Rm8C5nESdJWDbwWJyXXQv), [Stefan Schmid](https://open.spotify.com/artist/6CWmupOPhtLCoPSun1SeLh), [Joost Lijbaart](https://open.spotify.com/artist/7E7tPSNlkKLV4hnzhC9KKu) | [Bustle](https://open.spotify.com/album/0tfDJ7IjZ2pYVB3OPFYyPJ) | 3:43 |
 | 58 | [Silhouettes](https://open.spotify.com/track/6WsJQKZ8ac2offKUVR33ji) | [Dougie Stu](https://open.spotify.com/artist/31rKKCEt98VDAxC4nxNHY1) | [Silhouettes](https://open.spotify.com/album/5fVHwE49tInDvD7G6vlJvg) | 4:18 |
 | 59 | [Solitude](https://open.spotify.com/track/4hfoCqOoqgRRfJqmyfvWEo) | [BrandonLee Cierley](https://open.spotify.com/artist/6TCS4quLkqSnAMbwfkKzAt), [Frances Cierley](https://open.spotify.com/artist/51Hm6WJrEpkCtYfpPuVOJb) | [Camaraderie](https://open.spotify.com/album/5pLP4yGt9TsJK1HqdHJ3oi) | 3:12 |
 | 60 | [Save the Phenomenon](https://open.spotify.com/track/14Ykc7zF64qrKVj1mMDoGE) | [Fievel Is Glauque](https://open.spotify.com/artist/0aCjVhVSBUMVwo7WRrdLiJ) | [Save the Phenomenon](https://open.spotify.com/album/2TcDBUuP9cpHPsBfVyRNIa) | 1:46 |

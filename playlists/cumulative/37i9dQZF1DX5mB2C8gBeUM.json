@@ -3638,6 +3638,24 @@
     },
     {
       "album": {
+        "name": "Mossy Oak",
+        "url": "https://open.spotify.com/album/73NsO8CqAGq4lykIq8nQYR"
+      },
+      "artists": [
+        {
+          "name": "Redferrin",
+          "url": "https://open.spotify.com/artist/4oCk0xbmAtqXZFzXtH3AgF"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110312,
+      "name": "Mossy Oak",
+      "url": "https://open.spotify.com/track/5UkFiwN3kpaXVddrSsy7gD"
+    },
+    {
+      "album": {
         "name": "Coyote Cry",
         "url": "https://open.spotify.com/album/5uQt9PVJIZvYjOL43EkOId"
       },
@@ -5635,7 +5653,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 216546,
       "name": "Wild Frontier",
       "url": "https://open.spotify.com/track/22B9J6s9aow7JYeECKXqUI"
@@ -5657,6 +5675,24 @@
       "duration_ms": 216546,
       "name": "Wild Frontier",
       "url": "https://open.spotify.com/track/57gjWu6xmWpk0XoNEIi08w"
+    },
+    {
+      "album": {
+        "name": "Wild Frontier",
+        "url": "https://open.spotify.com/album/0sapxQX0SyPrNUMT1N9Qi5"
+      },
+      "artists": [
+        {
+          "name": "Stephanie Quayle",
+          "url": "https://open.spotify.com/artist/2PuPNn5AuwwEweFONV7gol"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216546,
+      "name": "Wild Frontier",
+      "url": "https://open.spotify.com/track/7wSqcgvYMXyy8r2Lx49PLD"
     },
     {
       "album": {

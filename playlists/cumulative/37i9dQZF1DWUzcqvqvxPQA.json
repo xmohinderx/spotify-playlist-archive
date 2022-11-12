@@ -103,7 +103,7 @@
       ],
       "date_added": "2020-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": null,
       "duration_ms": 171520,
       "name": "All That Matters",
       "url": "https://open.spotify.com/track/7jpwM6pHEzCa3AsrHROJtT"
@@ -551,7 +551,7 @@
       ],
       "date_added": "2020-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 183383,
       "name": "Don't Feel Like Fighting",
       "url": "https://open.spotify.com/track/6NRGJserD825yXhwnnZ6ql"
@@ -939,7 +939,7 @@
       ],
       "date_added": "2020-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 177933,
       "name": "Glorify",
       "url": "https://open.spotify.com/track/40jbAp6vAlk9j2KIiGNgvE"
@@ -1171,7 +1171,7 @@
       ],
       "date_added": "2020-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 214000,
       "name": "He Still Does (Miracles)",
       "url": "https://open.spotify.com/track/6TcXTbYh4mHq994p3oOibU"
@@ -1803,7 +1803,7 @@
       ],
       "date_added": "2020-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 194686,
       "name": "Most High",
       "url": "https://open.spotify.com/track/18g3j7p3KTtdypNrJ1fU2V"
@@ -1973,6 +1973,24 @@
       "duration_ms": 208320,
       "name": "No Other Love",
       "url": "https://open.spotify.com/track/4jveLxOiXJJvGaqK6JhdWT"
+    },
+    {
+      "album": {
+        "name": "Miracles",
+        "url": "https://open.spotify.com/album/7BLdYEQPbahBMFF2E4ZUgU"
+      },
+      "artists": [
+        {
+          "name": "Hawk Nelson",
+          "url": "https://open.spotify.com/artist/4hj6ZZxaiKvG5GU3PYf7Gh"
+        }
+      ],
+      "date_added": "2020-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "No Such Thing",
+      "url": "https://open.spotify.com/track/0mCWJ0oX6wRVeIz5wLTJie"
     },
     {
       "album": {

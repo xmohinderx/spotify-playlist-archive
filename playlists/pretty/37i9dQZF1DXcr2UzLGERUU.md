@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcr2UzLGERUU.md) - [plain]
 
 > Wind down in moments of stress with these chilled songs for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,581 likes - 113 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,674 likes - 113 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcr2UzLGERUU.md) - [plain]
 | 69 | [Little Ripples](https://open.spotify.com/track/5ZENtH3HtG79O8iyCuaNPY) | [Little Ripples](https://open.spotify.com/artist/4GucBSEcHamouGFsjPnAbZ) | [Little Ripples](https://open.spotify.com/album/1KTUxhYigbkoHMT6MkQn8R) | 3:01 |
 | 70 | [All of Me](https://open.spotify.com/track/3U4isOIWM3VvDubwSI3y7a) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Love In The Future \(Expanded Edition\)](https://open.spotify.com/album/4OTAx9un4e6NfoHuVRiOrC) | 4:29 |
 | 71 | [Feel \(feat\. Lianne La Havas\)](https://open.spotify.com/track/7MGNHuYwmm9UjQgdVciO1v) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Djesse Vol\. 2](https://open.spotify.com/album/3zNi5dCpkbm4zv7h1vGOMy) | 6:30 |
-| 72 | [Blackbird](https://open.spotify.com/track/0FgkcJWhDUyqpHDcj0jzp2) | [The Beat Bugs](https://open.spotify.com/artist/2zaXzyRTG9N2adhmmnV31p), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [The Beat Bugs: Complete Season 1 \(Music From The Netflix Original Series\)](https://open.spotify.com/album/27avWEEaNMlHSAAe6KQzdm) | 2:32 |
+| 72 | [Blackbird](https://open.spotify.com/track/4ziOoNL9eXHiOWIXfun45t) | [The Beat Bugs](https://open.spotify.com/artist/2zaXzyRTG9N2adhmmnV31p), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Kids Songs: Quiet Time](https://open.spotify.com/album/7rYbYqzHSvmsHkN8x0MDDr) | 2:32 |
 | 73 | [Hold My Girl](https://open.spotify.com/track/42bbDWZ8WmXTH7PkYAlGLu) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Staying at Tamara's](https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj) | 3:31 |
 | 74 | [Lost Boy](https://open.spotify.com/track/0zMzyHAeMvwq5CRstru1Fp) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Safe Haven](https://open.spotify.com/album/6FgtuX3PtiB5civjHYhc52) | 4:36 |
 | 75 | [Waiting On the World to Change](https://open.spotify.com/track/5imShWWzwqfAJ9gXFpGAQh) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Continuum](https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM) | 3:21 |
@@ -112,7 +112,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcr2UzLGERUU.md) - [plain]
 | 102 | [Stop](https://open.spotify.com/track/4vg6b1c4gRUf3bbfw6foL5) | [Lisa Mitchell](https://open.spotify.com/artist/53f2OKMfVLTsHFkGyA5dnz) | [When They Play That Song](https://open.spotify.com/album/57IFR7Ra6B0nCTQAHhM7CO) | 3:45 |
 | 103 | [Songbird](https://open.spotify.com/track/1FgocYjwU9fhKJFobw6Kak) | [Shannon & Keast](https://open.spotify.com/artist/48hHNfz4xNPbsKEZOkNfmN) | [Dream a Little Dream](https://open.spotify.com/album/7JBOY0cc4ik0A4RbWAfl7r) | 2:49 |
 | 104 | [Halo](https://open.spotify.com/track/4JaoU6fL2Ifz2gDyFYtpiP) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm), [Linnea Olsson](https://open.spotify.com/artist/5URaqWGLWi0maxmjctj8I0) | [Rarities](https://open.spotify.com/album/1bvAlOqMbnWLwTcp65kSAP) | 3:52 |
-| 105 | [Lullaby](https://open.spotify.com/track/1G0TdnHQLeVY7X1rQJOb93) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3), [Matt Costa](https://open.spotify.com/artist/0EghvcisxKybq4CVO7rB5t) | [Jack Johnson And Friends: Sing\-A\-Longs And Lullabies For The Film Curious George](https://open.spotify.com/album/3Jl7i9Vo0Ht4co9SqTFjQy) | 2:47 |
+| 105 | [Lullaby](https://open.spotify.com/track/3koMMMP2Ra6KVPru8XMsXQ) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3), [Matt Costa](https://open.spotify.com/artist/0EghvcisxKybq4CVO7rB5t) | [Sing\-A\-Longs & Lullabies For The Film Curious George](https://open.spotify.com/album/0kYv61g7n6ZPe2TVaIBeeJ) | 2:47 |
 | 106 | [Someone You Loved](https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 3:02 |
 | 107 | [That's My Jam](https://open.spotify.com/track/7CB3LgsiVtE8cSyvPvgcVA) | [Gabe Bondoc](https://open.spotify.com/artist/6YloMIsWjpHzIRK8s5tzAr) | [That's My Jam](https://open.spotify.com/album/58FLYqIhOzYMgxN8MRCfaq) | 3:13 |
 | 108 | [Twinkle, Twinkle Little Star](https://open.spotify.com/track/5oIbsxShzRtKyjFZV778Nz) | [Jewel](https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP) | [Lullaby](https://open.spotify.com/album/6aDRCnCbuqY7NkerfUcyp7) | 3:04 |
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcr2UzLGERUU.md) - [plain]
 | 112 | [Rest Your Head On My Shoulder](https://open.spotify.com/track/07jFL6Z173J4zH2R2SGGRM) | [Seeker Lover Keeper](https://open.spotify.com/artist/18E9agcfYi1KIQlJivdEcX) | [Seeker Lover Keeper](https://open.spotify.com/album/1uEWX9bX1dnHFY4WUN5r9F) | 3:31 |
 | 113 | [If You Can't Sleep](https://open.spotify.com/track/7o2T5dYOjQf7qpmavRerQE) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Volume Two](https://open.spotify.com/album/47A8zr0CzKLILnYcrXh2Rc) | 2:48 |
 
-Snapshot ID: `MTY2MDIyNzkxOSwwMDAwMDAwMDMyNjFkNWIxMmIzMGU0OTdlMWY3MjlhMmViOGU5NzMz`
+Snapshot ID: `MTY2MDIyNzkxOSwwMDAwMDAwMDI0ZmEzYTBiZjVkYzMwZjBhODlkNmFlODc5ZmY0MGRk`

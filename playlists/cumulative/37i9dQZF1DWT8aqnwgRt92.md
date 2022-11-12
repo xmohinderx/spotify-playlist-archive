@@ -4,7 +4,7 @@
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-341 songs - 21 hr 50 min - [published](https://open.spotify.com/playlist/5ULXJOEd3FHsM9P8zWg9KC)
+342 songs - 21 hr 54 min - [published](https://open.spotify.com/playlist/5ULXJOEd3FHsM9P8zWg9KC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,7 +164,8 @@
 | [Sun Is Coming Up](https://open.spotify.com/track/3QF909rQu5LgpXxrPL81Nz) | [亜咲花](https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h) | [Sun Is Coming Up](https://open.spotify.com/album/69f1AKnu2Lr4CwbmWjfbQp) | 4:15 | 2022-07-05 | 2022-07-29 |
 | [Sun Is Coming Up](https://open.spotify.com/track/4Tzy19BN954GdgSiUH62jD) | [亜咲花](https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h) | [Sun Is Coming Up](https://open.spotify.com/album/6idCwCmUoXnX8ITg8PfHEj) | 4:15 | 2022-07-28 | 2022-08-17 |
 | [SUPER SHOCK \(with 羽多野 渉\)](https://open.spotify.com/track/7tFZu3Lr43csLBWNooNSd2) | [小野大輔](https://open.spotify.com/artist/4Zhv2MWk8LmJHgy1qSyss0), [Wataru Hatano](https://open.spotify.com/artist/01vVQFcDbtkS4TbHyttdoT) | [SUPER SHOCK \(with 羽多野 渉\)](https://open.spotify.com/album/4DLui1rvYIcnE5cu3YbU6Q) | 3:49 | 2022-09-27 | 2022-11-03 |
-| [Suzume](https://open.spotify.com/track/7LHAKF7pBqHch8o6Yo0ad5) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [Toaka](https://open.spotify.com/artist/3GzVC7GGbmO2SuBu92DqUn) | [Suzume](https://open.spotify.com/album/7HT4WPE6gHPxrRmgzhhTMr) | 3:56 | 2022-09-29 |  |
+| [Suzume](https://open.spotify.com/track/7LHAKF7pBqHch8o6Yo0ad5) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [Toaka](https://open.spotify.com/artist/3GzVC7GGbmO2SuBu92DqUn) | [Suzume](https://open.spotify.com/album/7HT4WPE6gHPxrRmgzhhTMr) | 3:56 | 2022-09-29 | 2022-11-12 |
+| [Suzume](https://open.spotify.com/track/1n1y2kFPISpF9WGD3JaFo5) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [Toaka](https://open.spotify.com/artist/3GzVC7GGbmO2SuBu92DqUn) | [Suzume \(Motion Picture Soundtrack\)](https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq) | 3:58 | 2022-11-10 |  |
 | [Take a chance](https://open.spotify.com/track/0RL7qleLwH9ASkAGpgDiRs) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v) | [Take a chance](https://open.spotify.com/album/0CvxXRNp8bS5fZme72JS8m) | 3:30 | 2022-06-07 | 2022-07-06 |
 | [TAXIDRIVER](https://open.spotify.com/track/7xl1B2jbBWpKsBX6MmcGTb) | [小戸川\(CV:花江夏樹\)](https://open.spotify.com/artist/6hSuI6670s3Jw5GZyWwg9Q) | [ODDTAXI CHARACTER SONG EP](https://open.spotify.com/album/71X44bA7wxYBDr0NwtlIE9) | 2:51 | 2022-07-05 | 2022-07-13 |
 | [TBD](https://open.spotify.com/track/6t4HZstA6tlgXyhTwcry6R) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [TVアニメ「SPY×FAMILY」オリジナル・サウンドトラック](https://open.spotify.com/album/3eTggf0BQGCCjSKTPehaHD) | 3:56 | 2022-05-28 | 2022-06-26 |

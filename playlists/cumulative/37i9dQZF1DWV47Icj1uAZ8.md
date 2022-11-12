@@ -4,7 +4,7 @@
 
 > Sophisticated palates only\. Curated by: <a href="https://twitter.com/kofi">Kofi Siriboe</a>
 
-55 songs - 4 hr 0 min - [published](https://open.spotify.com/playlist/0dZLSUN5pX03OUhjWfgaSX)
+57 songs - 4 hr 6 min - [published](https://open.spotify.com/playlist/0dZLSUN5pX03OUhjWfgaSX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,11 +38,13 @@
 | [Mine](https://open.spotify.com/track/1IxfE1rd0ngSFP8MSqYiv0) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As), [Jack Dine](https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE) | [Mine](https://open.spotify.com/album/0RJkdbyHeLAxKXCzIrpyOj) | 3:32 | 2022-10-01 |  |
 | [Ms\. Fat Booty](https://open.spotify.com/track/0IVAlb0cFCH1cQ974iR1TU) | [Mos Def](https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO) | [Black On Both Sides](https://open.spotify.com/album/5gK2l2LgWY0BA4p9uy27z6) | 3:43 | 2022-10-01 |  |
 | [Mutual Butterflies](https://open.spotify.com/track/531MBHrtGF6nAkK4zUafi9) | [Ryan Trey](https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX) | [august](https://open.spotify.com/album/7h1xc7a0GqmwkzOu29YbjD) | 3:03 | 2022-10-01 |  |
-| [N Side](https://open.spotify.com/track/12ILYlOEfWL8ei0BEgFJn0) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Apollo XXI](https://open.spotify.com/album/4hvsfS6cytmO16IfAptVA9) | 3:44 | 2022-10-01 |  |
+| [N Side](https://open.spotify.com/track/12ILYlOEfWL8ei0BEgFJn0) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Apollo XXI](https://open.spotify.com/album/4hvsfS6cytmO16IfAptVA9) | 3:44 | 2022-10-01 | 2022-11-12 |
 | [N Side](https://open.spotify.com/track/24G1PXBWoRgV0wDXZKwxzz) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Apollo XXI](https://open.spotify.com/album/3IhDL1HDvlujs6ZcIfL9gE) | 3:44 | 2022-10-01 | 2022-10-13 |
+| [N Side](https://open.spotify.com/track/3o8qt6r2OPf98KqXhNqVGD) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [N Side](https://open.spotify.com/album/5JHSkgh6NjwNJJSsjzzO1Z) | 3:44 | 2022-10-01 |  |
 | [Next Lifetime](https://open.spotify.com/track/6sIMSl1n3KDPr03Fw8mujd) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Baduizm](https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3) | 6:26 | 2022-10-01 |  |
 | [Nothing Even Matters \(feat\. D'Angelo\)](https://open.spotify.com/track/1Q0lOGB52skgfzdcq233vs) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl), [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 5:50 | 2022-10-01 |  |
-| [Piece Of Me](https://open.spotify.com/track/63hmrFUS4mvbiWzFP9u2LK) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Piece of Me](https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB) | 3:44 | 2022-10-01 |  |
+| [Picture Me Rollin'](https://open.spotify.com/track/06ztbFJIRt9jfabj16TmTx) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0) | [Slauson Boy 2](https://open.spotify.com/album/6pAP6aJ2SUmhE9VXB8bm02) | 2:13 | 2022-10-01 |  |
+| [Piece Of Me](https://open.spotify.com/track/63hmrFUS4mvbiWzFP9u2LK) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Piece of Me](https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB) | 3:44 | 2022-10-01 | 2022-11-12 |
 | [Prototype](https://open.spotify.com/track/1QJb6LWvPXZpTMiqqODqkH) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 5:26 | 2022-10-01 |  |
 | [Really Love](https://open.spotify.com/track/2RcanAJpudPNDkyIe9DzKS) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Black Messiah](https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6) | 5:44 | 2022-10-01 |  |
 | [Recognize Real \(with Gunna\)](https://open.spotify.com/track/2wSWcyp4Z8ObUaqlNMGd5h) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Punk](https://open.spotify.com/album/7IKkHmEk4It4cRdOYanyvW) | 2:51 | 2022-10-01 |  |

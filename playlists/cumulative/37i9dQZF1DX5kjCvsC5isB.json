@@ -3634,6 +3634,24 @@
     },
     {
       "album": {
+        "name": "Pretty Waste",
+        "url": "https://open.spotify.com/album/6NSmYBEztwHriWZF4huXPv"
+      },
+      "artists": [
+        {
+          "name": "BONES UK",
+          "url": "https://open.spotify.com/artist/16kd5X3pBMOtXdLlX5LcAw"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170500,
+      "name": "Pretty Waste",
+      "url": "https://open.spotify.com/track/2eRpD2BvnFAZCXN5fukXZz"
+    },
+    {
+      "album": {
         "name": "Bones UK",
         "url": "https://open.spotify.com/album/6YkF6eWFU0EhVHBnYzAgqv"
       },
@@ -3645,7 +3663,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 170500,
       "name": "Pretty Waste",
       "url": "https://open.spotify.com/track/71HZdwtSopDs87RvpI8ip2"
@@ -3818,6 +3836,24 @@
     },
     {
       "album": {
+        "name": "Motorbike",
+        "url": "https://open.spotify.com/album/1b2Vn8dIHKLdxUJ43E1boD"
+      },
+      "artists": [
+        {
+          "name": "Momma",
+          "url": "https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "Rockstar",
+      "url": "https://open.spotify.com/track/4J8u6uZshJECi35hwoHSxA"
+    },
+    {
+      "album": {
         "name": "Household Name",
         "url": "https://open.spotify.com/album/19trggALcFlGFsJDUiyVYn"
       },
@@ -3829,7 +3865,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 189000,
       "name": "Rockstar",
       "url": "https://open.spotify.com/track/5KYMIVT5vYyeI0OP97nS0Y"

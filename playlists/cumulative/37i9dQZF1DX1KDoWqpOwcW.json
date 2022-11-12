@@ -62,6 +62,24 @@
     },
     {
       "album": {
+        "name": "Noche de Rockola y Pola",
+        "url": "https://open.spotify.com/album/0y7QWi1zsUwbiZftLRXgVu"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arranke",
+          "url": "https://open.spotify.com/artist/1A773r2lVYAnmt8uwb5BOu"
+        }
+      ],
+      "date_added": "2022-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188661,
+      "name": "A Trav\u00e9s del Vaso",
+      "url": "https://open.spotify.com/track/2VVMspxwwDll5T082VPg13"
+    },
+    {
+      "album": {
         "name": "Me Dej\u00e9 Llevar",
         "url": "https://open.spotify.com/album/2XHw4PFHT6srg7dxA3yrKv"
       },
@@ -99,6 +117,24 @@
       "duration_ms": 213466,
       "name": "Adoro (with Armando Manzanero)",
       "url": "https://open.spotify.com/track/0DIDL9wmrSRMViRqsmZfmB"
+    },
+    {
+      "album": {
+        "name": "All The Way (Live In Chicago)",
+        "url": "https://open.spotify.com/album/6vHtPD5LZdjh5ZZJOfNZWm"
+      },
+      "artists": [
+        {
+          "name": "Eddie Vedder",
+          "url": "https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh"
+        }
+      ],
+      "date_added": "2022-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236693,
+      "name": "All The Way - Live In Chicago",
+      "url": "https://open.spotify.com/track/6wmZ8nqB6WKL8sOqFoaqk9"
     },
     {
       "album": {
@@ -424,6 +460,24 @@
     },
     {
       "album": {
+        "name": "Perreo On Fire",
+        "url": "https://open.spotify.com/album/0tIE049CaXlx8hsUS0cKeM"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        }
+      ],
+      "date_added": "2022-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206986,
+      "name": "Dile",
+      "url": "https://open.spotify.com/track/2H76zGXt2hHBeWWzbcgH1i"
+    },
+    {
+      "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
       },
@@ -471,7 +525,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 191000,
       "name": "El Baile del Gorila",
       "url": "https://open.spotify.com/track/23oUr08MMdYcn9jRz39wYV"
@@ -879,6 +933,24 @@
       "duration_ms": 210910,
       "name": "Jinetes en el Cielo",
       "url": "https://open.spotify.com/track/4SBMb814lP3UT0yG2ycJZa"
+    },
+    {
+      "album": {
+        "name": "Turbo (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/57oY3i5cyOsr4JsBidlAoh"
+      },
+      "artists": [
+        {
+          "name": "House Of Pain",
+          "url": "https://open.spotify.com/artist/0AuW7OCyKfFrsMbtHrYgIV"
+        }
+      ],
+      "date_added": "2022-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219666,
+      "name": "Jump Around",
+      "url": "https://open.spotify.com/track/3DjB1HJod8AA35UBqrC95A"
     },
     {
       "album": {
@@ -1315,7 +1387,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 192440,
       "name": "Laurita Garza",
       "url": "https://open.spotify.com/track/1kfKyCWFxNp4WHJDcPyYWS"
@@ -2061,10 +2133,28 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 232106,
       "name": "Seven Nation Army",
       "url": "https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR"
+    },
+    {
+      "album": {
+        "name": "Seven Nation Army",
+        "url": "https://open.spotify.com/album/2ntSwmOLAM0fMML87wtLKq"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "date_added": "2022-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232626,
+      "name": "Seven Nation Army",
+      "url": "https://open.spotify.com/track/03OGe1S2a7i35BmuKbWaHk"
     },
     {
       "album": {
@@ -2079,7 +2169,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 253880,
       "name": "Si Se\u00f1or",
       "url": "https://open.spotify.com/track/3MameTW9RiNTUpFEoadsA3"
@@ -2259,7 +2349,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 264306,
       "name": "The Rhythm of the Night",
       "url": "https://open.spotify.com/track/5IPJsGFKtxKDPCkT8lhEjN"

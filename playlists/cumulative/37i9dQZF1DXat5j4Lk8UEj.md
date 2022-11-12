@@ -4,7 +4,7 @@
 
 > A mix of electric roots rock and folk\-infused alternative\. Cover: Nathaniel Rateliff & the Night Sweats
 
-211 songs - 13 hr 25 min - [published](https://open.spotify.com/playlist/3TIa5auBD6glGxwEhYFQcx)
+213 songs - 13 hr 32 min - [published](https://open.spotify.com/playlist/3TIa5auBD6glGxwEhYFQcx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Don't Tell Our Friends About Me](https://open.spotify.com/track/4ktZEbOKEnx5svwITaKwqK) | [Blake Mills](https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR) | [Heigh Ho](https://open.spotify.com/album/05oav7mCaoTnTpuIFSv7T6) | 5:19 | 2021-12-09 |  |
 | [Doobie Bronson](https://open.spotify.com/track/4c57bsRSaFavDqPKxYW2nR) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [Yard Sale](https://open.spotify.com/album/64RqRL8VVYKW7wsh3KY7Oa) | 3:23 | 2021-12-09 |  |
 | [Down in the Country](https://open.spotify.com/track/53XNcCqYctEXLvT8XvumCC) | [Israel Nash](https://open.spotify.com/artist/5skM4jc4QoEpHiWWl6OoW7) | [Topaz](https://open.spotify.com/album/0jvcLSp8mVWIEgcoTVqeM2) | 3:34 | 2021-12-09 |  |
-| [Elastic Heart](https://open.spotify.com/track/2EqFvg1GaWik5nwCmnZVN1) | [Longfellow](https://open.spotify.com/artist/6sn1KjI14lIWWSd3IJm5bU) | [Elastic Heart](https://open.spotify.com/album/1Y50NzwC91YDY4fqTv3gpC) | 4:17 | 2022-02-17 |  |
+| [Elastic Heart](https://open.spotify.com/track/2EqFvg1GaWik5nwCmnZVN1) | [Longfellow](https://open.spotify.com/artist/6sn1KjI14lIWWSd3IJm5bU) | [Elastic Heart](https://open.spotify.com/album/1Y50NzwC91YDY4fqTv3gpC) | 4:17 | 2022-02-17 | 2022-11-12 |
 | [Electric Indigo](https://open.spotify.com/track/1erXDiGCnmUQvG6DZRqpuM) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [twelvefour](https://open.spotify.com/album/1f3jCFgt3cXyaPr854eQ2t) | 3:43 | 2022-02-17 |  |
 | [Electric Indigo](https://open.spotify.com/track/1xrYp1cdZYy8oBC41KTTTV) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Electric Indigo](https://open.spotify.com/album/3X19fwCSaApr7e34GZVV6p) | 3:43 | 2021-12-09 | 2022-07-27 |
 | [Evergreen](https://open.spotify.com/track/0rDOZAwa5hpOIFvej2yBIU) | [Bendigo Fletcher](https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM) | [Evergreen](https://open.spotify.com/album/00MHXpbaXylI2b4eQ5b5SB) | 4:40 | 2021-12-09 |  |
@@ -91,7 +91,8 @@
 | [I Don't Mind](https://open.spotify.com/track/5DA2AKGBLh6F37BEo217r0) | [Lindsey Buckingham](https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO) | [I Don't Mind](https://open.spotify.com/album/1Ny3qiqGxrdJujXB1nviYa) | 4:05 | 2021-12-09 | 2022-02-18 |
 | [I Need a Teacher](https://open.spotify.com/track/4C2yMWKNf2gLgXZgdhazzu) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Terms of Surrender](https://open.spotify.com/album/23h1Qs3UhemYK1ekqgw1uk) | 3:17 | 2021-12-09 | 2022-07-29 |
 | [I Need a Teacher](https://open.spotify.com/track/7nvAdiuXhFeHICyy2OzOcS) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Terms of Surrender](https://open.spotify.com/album/4eKRqA554vK2k4khe190Yu) | 3:17 | 2022-02-17 |  |
-| [I Of The Storm](https://open.spotify.com/track/3xGmbotxgSltJ5qHX7aZfe) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Beneath The Skin](https://open.spotify.com/album/2mD97VgxTRfwB8F5tvkwrL) | 4:36 | 2022-02-17 |  |
+| [I Of The Storm](https://open.spotify.com/track/3z8ypl55NHugzc6EDVVFdF) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Beneath The Skin \(Deluxe\)](https://open.spotify.com/album/1m3D8gkm3nOvIXNR1SvDFA) | 4:36 | 2022-02-17 |  |
+| [I Of The Storm](https://open.spotify.com/track/3xGmbotxgSltJ5qHX7aZfe) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Beneath The Skin](https://open.spotify.com/album/2mD97VgxTRfwB8F5tvkwrL) | 4:36 | 2022-02-17 | 2022-11-12 |
 | [I Shouldn't Go Anywhere](https://open.spotify.com/track/0nZitUFjpGHGpsi317SJFM) | [Jillette Johnson](https://open.spotify.com/artist/6k5S1Uz5IvsZDlhiONoBnH) | [It's A Beautiful Day And I Love You](https://open.spotify.com/album/1rdk7CWbwp2iRukflNGCZL) | 3:43 | 2021-12-09 | 2022-06-20 |
 | [I Wanna Make Promises \(That I Can't Keep\)](https://open.spotify.com/track/35XLYNIZL3ScKXvHQXnojt) | [Whitehorse](https://open.spotify.com/artist/3PSH5PsWfZQiD2wieKU0ss) | [I Wanna Make Promises \(That I Can't Keep\)](https://open.spotify.com/album/6kMp5OA2YIftfMXmfztVrx) | 4:51 | 2021-12-09 | 2022-07-29 |
 | [If I Was](https://open.spotify.com/track/5n6BdIWBSpkfjZ29JP7WzK) | [Susto](https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt) | [Ever Since I Lost My Mind](https://open.spotify.com/album/07Lss95oyQ0H0UP5i87G0A) | 4:26 | 2021-12-09 |  |
@@ -134,6 +135,7 @@
 | [Old Sob Story](https://open.spotify.com/track/7Akh76oQE1crm0aIz9B7IK) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [Old Sob Story](https://open.spotify.com/album/3fnFtGjNgtLYd0CSnYp3Z9) | 3:16 | 2021-12-09 |  |
 | [Only Songs \(Radio Edit\)](https://open.spotify.com/track/6oToe0shcqyTZ00Hgdl9ZB) | [The Wild Reeds](https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH) | [The World We Built](https://open.spotify.com/album/3Z7jF3AHU6lNKkqDFYCern) | 3:03 | 2021-12-09 | 2022-07-25 |
 | [Open up the Heavens](https://open.spotify.com/track/1dthu6dMsSfRe2k1nBTL36) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Open up the Heavens](https://open.spotify.com/album/6uNbLM4IL5OojfhAb8nISM) | 2:41 | 2021-12-09 | 2022-07-29 |
+| [Open up the Heavens](https://open.spotify.com/track/5N2DUST2UGPbE6EiWNpbd1) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Different Kinds of Light](https://open.spotify.com/album/1f1u0MpV823YGBjQBb8JJ9) | 2:41 | 2022-02-17 |  |
 | [Outwit the Devil](https://open.spotify.com/track/6W7CkWDUexJnzDBqC1a27c) | [Willy Mason](https://open.spotify.com/artist/2uYZJqMXH5Q6xvPU6BPySL) | [Already Dead](https://open.spotify.com/album/3b21RhhOLcTI7rY6JdeFIM) | 3:04 | 2021-12-09 | 2022-06-27 |
 | [Over Me](https://open.spotify.com/track/6a4MQYjKSAdN34HEP9s8uM) | [Beyries](https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn) | [Over Me](https://open.spotify.com/album/0xQyYIK2Kzj3Eu2bcs7jbz) | 2:55 | 2021-12-09 | 2022-07-29 |
 | [Pain Shifter](https://open.spotify.com/track/2A5fpEFPiljuW0a23kcDVf) | [W\. B\. Wooten](https://open.spotify.com/artist/5PM6kTcLdfwy9q1RVZjXQk) | [Pain Shifter](https://open.spotify.com/album/1KbqWbmHEfEFtFgGPTPWgt) | 3:44 | 2021-12-09 | 2022-07-29 |

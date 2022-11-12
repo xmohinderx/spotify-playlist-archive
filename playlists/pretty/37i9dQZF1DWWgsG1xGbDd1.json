@@ -1,18 +1,18 @@
 {
   "description": "You feel the sun on your face. ",
-  "num_followers": 91250,
+  "num_followers": 91324,
   "original_name": "Vintage Vibes: Sunny Reggae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxOTE3MTcwNCwwMDAwMDAwMGZhOTY2NjQyY2U4MWRmZDQ4Mzc5NDM3YTEwYjU5MWQ1",
+  "snapshot_id": "MTYxOTE3MTcwNCwwMDAwMDAwMGE1ZjE0YTJiYzVmZTAzM2E3NDAzODJkZTEyYjQxM2Vm",
   "tracks": [
     {
       "added_at": "2021-04-23 09:55:04",
       "album": {
-        "name": "Exodus",
-        "url": "https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S"
+        "name": "Confrontation",
+        "url": "https://open.spotify.com/album/5Rg4ZSwf1LPCuAMr0msdun"
       },
       "artists": [
         {
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
       ],
-      "duration_ms": 211000,
-      "name": "Jamming",
-      "url": "https://open.spotify.com/track/5LyfiK6iXEIBNEtcaGKohl"
+      "duration_ms": 255840,
+      "name": "Buffalo Soldier",
+      "url": "https://open.spotify.com/track/7BfW1eoDh27W69nxsmRicb"
     },
     {
       "added_at": "2021-04-23 09:55:04",
@@ -39,22 +39,6 @@
       "duration_ms": 197666,
       "name": "Get Up, Stand Up",
       "url": "https://open.spotify.com/track/25ugoarRZ6IaZegrjNxGOx"
-    },
-    {
-      "added_at": "2021-04-23 09:55:04",
-      "album": {
-        "name": "Freddie McGregor: The Anthology",
-        "url": "https://open.spotify.com/album/3LamMh1kBDsc516HnS0Iuf"
-      },
-      "artists": [
-        {
-          "name": "Freddie McGregor",
-          "url": "https://open.spotify.com/artist/30R9paG1c5BGtNGle59VPq"
-        }
-      ],
-      "duration_ms": 147600,
-      "name": "Bobby Babylon",
-      "url": "https://open.spotify.com/track/0VjZC2nsyapSm0pd5r4Jns"
     },
     {
       "added_at": "2021-04-23 09:55:04",
@@ -91,22 +75,6 @@
     {
       "added_at": "2021-04-23 09:55:04",
       "album": {
-        "name": "Confrontation",
-        "url": "https://open.spotify.com/album/5Rg4ZSwf1LPCuAMr0msdun"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 255840,
-      "name": "Buffalo Soldier",
-      "url": "https://open.spotify.com/track/7BfW1eoDh27W69nxsmRicb"
-    },
-    {
-      "added_at": "2021-04-23 09:55:04",
-      "album": {
         "name": "Foundation Ska",
         "url": "https://open.spotify.com/album/75ZvFVrbCvlXtjrMkyeRCZ"
       },
@@ -119,6 +87,22 @@
       "duration_ms": 144773,
       "name": "Addis Ababa",
       "url": "https://open.spotify.com/track/2WyHhnomczoCMPlG6SW50w"
+    },
+    {
+      "added_at": "2021-04-23 09:55:04",
+      "album": {
+        "name": "Kaya",
+        "url": "https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 271000,
+      "name": "Satisfy My Soul",
+      "url": "https://open.spotify.com/track/5Uv1YNz6uBepPLDdoFANKQ"
     },
     {
       "added_at": "2021-04-23 09:55:04",
@@ -171,22 +155,6 @@
     {
       "added_at": "2021-04-23 09:55:04",
       "album": {
-        "name": "Kaya",
-        "url": "https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 271000,
-      "name": "Satisfy My Soul",
-      "url": "https://open.spotify.com/track/5Uv1YNz6uBepPLDdoFANKQ"
-    },
-    {
-      "added_at": "2021-04-23 09:55:04",
-      "album": {
         "name": "Natural High: The Bongo Man Collection",
         "url": "https://open.spotify.com/album/09ThsD4R0KOVguZBScQH3S"
       },
@@ -199,6 +167,22 @@
       "duration_ms": 250543,
       "name": "Poco Tempo (aka Pocco Tempo)",
       "url": "https://open.spotify.com/track/3XsdL4mKkygWZpOcyt4vfp"
+    },
+    {
+      "added_at": "2021-04-23 09:55:04",
+      "album": {
+        "name": "Catch A Fire",
+        "url": "https://open.spotify.com/album/39kLAVdcgW7jbMcTEaY2qy"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 217800,
+      "name": "Stir It Up - Jamaican Version",
+      "url": "https://open.spotify.com/track/1XjUvJv6w3aTu8o6XszTHS"
     },
     {
       "added_at": "2021-04-23 09:55:04",
@@ -251,22 +235,6 @@
     {
       "added_at": "2021-04-23 09:55:04",
       "album": {
-        "name": "Catch A Fire",
-        "url": "https://open.spotify.com/album/39kLAVdcgW7jbMcTEaY2qy"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 217800,
-      "name": "Stir It Up - Jamaican Version",
-      "url": "https://open.spotify.com/track/1XjUvJv6w3aTu8o6XszTHS"
-    },
-    {
-      "added_at": "2021-04-23 09:55:04",
-      "album": {
         "name": "Dancing the Ska",
         "url": "https://open.spotify.com/album/6b2G79N6sJoKbg7Mw0Pubw"
       },
@@ -283,6 +251,22 @@
     {
       "added_at": "2021-04-23 09:55:04",
       "album": {
+        "name": "Natty Dread",
+        "url": "https://open.spotify.com/album/1d8lF3nZpEIFeEbWmAt9Ey"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 310426,
+      "name": "Lively Up Yourself",
+      "url": "https://open.spotify.com/track/2Xr3NXOz1qg5Jddkm8k4fr"
+    },
+    {
+      "added_at": "2021-04-23 09:55:04",
+      "album": {
         "name": "Original Jamaican Classics, Vol. 1",
         "url": "https://open.spotify.com/album/2pumKN2jSlSPdXjHe2veJg"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 199746,
       "name": "Declaration of Rights",
       "url": "https://open.spotify.com/track/72d00Av5BisHp8KZDjR3ie"
+    },
+    {
+      "added_at": "2021-04-23 09:55:04",
+      "album": {
+        "name": "Bobby Bobylon: Deluxe Edition",
+        "url": "https://open.spotify.com/album/4u8wLI8DPL2CJ8d9NyKX7g"
+      },
+      "artists": [
+        {
+          "name": "Freddie McGregor",
+          "url": "https://open.spotify.com/artist/30R9paG1c5BGtNGle59VPq"
+        }
+      ],
+      "duration_ms": 146526,
+      "name": "Bobby Bobylon",
+      "url": "https://open.spotify.com/track/5TjBwP3SZMJNvmh4aCfTMS"
     },
     {
       "added_at": "2021-04-23 09:55:04",
@@ -363,8 +363,8 @@
     {
       "added_at": "2021-04-23 09:55:04",
       "album": {
-        "name": "Natty Dread",
-        "url": "https://open.spotify.com/album/1d8lF3nZpEIFeEbWmAt9Ey"
+        "name": "Rastaman Vibration",
+        "url": "https://open.spotify.com/album/6Gdf5vvFmoEwcsEV61tXiT"
       },
       "artists": [
         {
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
       ],
-      "duration_ms": 310426,
-      "name": "Lively Up Yourself",
-      "url": "https://open.spotify.com/track/2Xr3NXOz1qg5Jddkm8k4fr"
+      "duration_ms": 213893,
+      "name": "Positive Vibration",
+      "url": "https://open.spotify.com/track/5722IiSQ4ZqzpwhwFeCz2u"
     },
     {
       "added_at": "2021-04-23 09:55:04",

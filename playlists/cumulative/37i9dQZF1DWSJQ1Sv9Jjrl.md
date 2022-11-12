@@ -4,7 +4,7 @@
 
 > Music from the Tall Girl films\. Watch Tall Girl 2 now on Netflix.
 
-45 songs - 2 hr 31 min - [published](https://open.spotify.com/playlist/7j6ZRuX0artzn2fcS33kVv)
+46 songs - 2 hr 34 min - [published](https://open.spotify.com/playlist/7j6ZRuX0artzn2fcS33kVv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [Be Who You Are](https://open.spotify.com/track/2Z7JAlG8RPvN277Y6bc6cM) | [Ava Michelle](https://open.spotify.com/artist/6euN0qAjCYkM3kcJYGMN2Z), [Jacaranda](https://open.spotify.com/artist/44inTD4saAbXecbkXmYYPr) | [Be Who You Are](https://open.spotify.com/album/2qbNPqksd5T8yjxuGUZsoc) | 2:35 | 2022-02-11 |  |
 | [Big Kid](https://open.spotify.com/track/01LHOmbVULmYKnWFanWJBI) | [Avonlea](https://open.spotify.com/artist/30Ddlk9YPm030og6lClMou) | [Big Kid](https://open.spotify.com/album/2B8GMNzIaujNhf6OBac2JY) | 2:59 | 2022-02-11 |  |
 | [Born for This](https://open.spotify.com/track/1eI5BMbva0iR0KzsV9wpck) | [Foxxi](https://open.spotify.com/artist/4Cojmi9XHgWlt7wuaY7YNA), [Natalie Major](https://open.spotify.com/artist/1s5IKI3WdVj337WYpi4GIZ) | [Born for This](https://open.spotify.com/album/2ZmL7NPS5bwagH4LsejkC2) | 3:16 | 2022-02-11 |  |
-| [Cool Kids](https://open.spotify.com/track/23mqkYQVVWeD4C3KINeLIs) | [Ethan Tucker](https://open.spotify.com/artist/7uSGJMQp1MzfM5VtkpeE0Y) | [Misunderstood](https://open.spotify.com/album/4Z0oPGZY9FQYzRC2bJQUet) | 3:25 | 2022-02-11 |  |
+| [Cool Kids](https://open.spotify.com/track/23mqkYQVVWeD4C3KINeLIs) | [Ethan Tucker](https://open.spotify.com/artist/7uSGJMQp1MzfM5VtkpeE0Y) | [Misunderstood](https://open.spotify.com/album/4Z0oPGZY9FQYzRC2bJQUet) | 3:25 | 2022-02-11 | 2022-11-12 |
+| [Cool Kids](https://open.spotify.com/track/4ReCnXg7yWNGonvj12O3WE) | [Ethan Tucker](https://open.spotify.com/artist/7uSGJMQp1MzfM5VtkpeE0Y) | [Misunderstood](https://open.spotify.com/album/6uwWys7brf74QrrHvZuken) | 3:25 | 2022-02-11 |  |
 | [Dance For The Hell Of It](https://open.spotify.com/track/1G8nKybzD7qlBxfZYFSybv) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Grown\-ish](https://open.spotify.com/album/4HsUtIgXcWzJetVBHPybg0) | 3:15 | 2022-02-11 |  |
 | [Delmar Drag](https://open.spotify.com/track/4a5jFpSidPpgH5Nvsvi8sX) | [Don Ewell Quartet](https://open.spotify.com/artist/3n4tB2FLZuG3fXSifkA5uI) | [Free 'n Easy!](https://open.spotify.com/album/0wDZBZ5HdV1NSok7vYx39w) | 3:58 | 2022-02-11 |  |
 | [Do Whatcha Wanna](https://open.spotify.com/track/5UqzRN9qi2oxmKWff9oIRC) | [Rebirth Brass Band](https://open.spotify.com/artist/6p9Qy71KocWwjmpUcHUTda) | [25th Anniversary](https://open.spotify.com/album/6DWA75mB8yXhnjVYLLpRlu) | 3:12 | 2022-02-11 |  |

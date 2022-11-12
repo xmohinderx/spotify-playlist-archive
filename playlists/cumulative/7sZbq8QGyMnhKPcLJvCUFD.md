@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds.
 
-130 songs - 6 hr 47 min - not published yet
+131 songs - 6 hr 50 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [No Way Back](https://open.spotify.com/track/4M5FGieNXYe8aZDnLehIJ8) | [SFRNG](https://open.spotify.com/artist/0PkBrqmi8Ma9hmKD0hB2W2), [MADZI](https://open.spotify.com/artist/3TfYPq0TUpyzE2QR4iEU8K), [Just Isac](https://open.spotify.com/artist/4WfRJXoLtLLCxbyOGBbzKV), [Custody](https://open.spotify.com/artist/7dzrpQi4ITF86WilQbPBr8) | [No Way Back](https://open.spotify.com/album/4rpSDrUxE8fzv247TUX9Da) | 2:39 | 2022-06-28 |  |
 | [Nobody](https://open.spotify.com/track/2wsH9mYlpO698u3NOsD6Xw) | [Zack Merci](https://open.spotify.com/artist/3c5mtZJ7qs1veWUI1DRpaI), [CRVN](https://open.spotify.com/artist/6Lk4en2wu5IjMxZWzJfJ28) | [Nobody](https://open.spotify.com/album/5CyvFcv9b2H2dRpQ3EzI2M) | 3:10 | 2022-07-07 |  |
 | [Not Enough](https://open.spotify.com/track/1dEud4LT7T7Yd7KMpo8Qz2) | [Near x Far](https://open.spotify.com/artist/3jHNFPilH4sebvSIGwdSmG) | [Not Enough](https://open.spotify.com/album/7Gy36oXepehl2yyRmhBsSb) | 3:40 | 2022-07-26 |  |
+| [Not Giving In](https://open.spotify.com/track/4BGisE3DH8PkP5ibmLkmQB) | [Culture Code](https://open.spotify.com/artist/2FF8wcGpikv5RFbAK1rvdZ) | [Not Giving In](https://open.spotify.com/album/7pIuUpNRFjdhvDjWoAWNxK) | 3:07 | 2022-11-11 |  |
 | [Old School](https://open.spotify.com/track/2H1M1zD08kZI5GuG4smljN) | [More Plastic](https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN) | [Old School](https://open.spotify.com/album/5TZ5biaTPYvsVqw1VPsQQ5) | 2:44 | 2022-07-08 |  |
 | [On & On](https://open.spotify.com/track/4B2kkxg3wKSTZw5JPaUtzQ) | [Cartoon](https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM), [Daniel Levi](https://open.spotify.com/artist/0cA0C4yBNRaN2EZsE2wT3Y) | [On & On](https://open.spotify.com/album/0Lt1PzvVZoslDNI2Jsq6pW) | 3:27 | 2022-06-23 |  |
 | [On & On \- Affe & Cole Phillips Remix](https://open.spotify.com/track/1tBZzzCSVUjOvC4adSDW6I) | [Cartoon](https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM), [Affe](https://open.spotify.com/artist/7LB3pyq7UlmNT12HFgmqL7), [Cole Phillips](https://open.spotify.com/artist/6w0DbMntYACzvgDcrWHk22), [Daniel Levi](https://open.spotify.com/artist/0cA0C4yBNRaN2EZsE2wT3Y) | [On & On Remixes](https://open.spotify.com/album/6RUi11xJz970QRSpPRsIEy) | 3:13 | 2022-05-12 |  |

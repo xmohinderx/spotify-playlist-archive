@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdPIbPNr916x.md) - [plain]
 
 > Your ultimate easy\-listening soundtrack for the autumn months.
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,029 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,077 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdPIbPNr916x.md) - [plain]
 | 13 | [Make You Feel My Love](https://open.spotify.com/track/6otXN6h5J6e49Lvse5yCwD) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Make You Feel My Love](https://open.spotify.com/album/4K1tS9SCKWJX4NQCcMUcUx) | 3:32 |
 | 14 | [Autumn](https://open.spotify.com/track/65EK5h5IS7wCkAeaatbdgg) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [These Streets](https://open.spotify.com/album/6L2FiSnFMisCgbhbag4KTl) | 2:49 |
 | 15 | [Skinny Love](https://open.spotify.com/track/6DCw1EGYF8KkLtSbWjqJVU) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Break Up Songs](https://open.spotify.com/album/2FRDG4xVPb9med42ldotMU) | 3:21 |
-| 16 | [This Year's Love](https://open.spotify.com/track/4X6F9xoYUyJh4OhnXbAZv2) | [David Gray](https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV) | [White Ladder](https://open.spotify.com/album/27h98zEMf4R8Q25uOkumGe) | 4:05 |
+| 16 | [This Year's Love \- 2020 Remaster](https://open.spotify.com/track/5LAAykvFusHpsTd03OgqPw) | [David Gray](https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV) | [White Ladder \(20th Anniversary Edition\)](https://open.spotify.com/album/3ng5VSbmPioTrHajoJgr4X) | 4:05 |
 | 17 | [Baby Can I Hold You](https://open.spotify.com/track/2DjWsDGgL1xNbhnr7f6t5F) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [Tracy Chapman](https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8) | 3:13 |
 | 18 | [Georgia](https://open.spotify.com/track/0eaZV56cVauvA5y1MdYi59) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Break Up Songs and Tearjerkers](https://open.spotify.com/album/6DB3MS2ShXjeNJwRIjin0E) | 3:50 |
 | 19 | [Ho Hey](https://open.spotify.com/track/0W4Kpfp1w2xkY3PrV714B7) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [The Lumineers](https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW) | 2:43 |
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdPIbPNr916x.md) - [plain]
 | 25 | [Dirty Paws](https://open.spotify.com/track/5g7rJvWYVrloJZwKiShqlS) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [My Head Is An Animal](https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy) | 4:38 |
 | 26 | [Chasing Cars](https://open.spotify.com/track/5hnyJvgoWiQUYZttV4wXy6) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [Eyes Open](https://open.spotify.com/album/3k7bXPw2u0C0SBKPMsgMS3) | 4:27 |
 | 27 | [Everything Has Changed](https://open.spotify.com/track/3Z1kZKYfRC8iRXnYeC5sCJ) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Red \(Big Machine Radio Release Special\)](https://open.spotify.com/album/4jTYApZPMapg56gRycOn0D) | 4:05 |
-| 28 | [You And Me](https://open.spotify.com/track/0815caqt2Lytro5EIzMufT) | [Lifehouse](https://open.spotify.com/artist/5PokPZn11xzZXyXSfnvIM3) | [Lifehouse](https://open.spotify.com/album/2hOY4rDu51XSBvtwfWgSmz) | 3:15 |
+| 28 | [You And Me](https://open.spotify.com/track/7pkmcSzzLlQYUkZDg5qJQQ) | [Lifehouse](https://open.spotify.com/artist/5PokPZn11xzZXyXSfnvIM3) | [Acoustic Classics](https://open.spotify.com/album/5LPCaJA9eWbpx4DQM2xXwm) | 3:15 |
 | 29 | [Drops of Jupiter \(Tell Me\)](https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Drops Of Jupiter](https://open.spotify.com/album/6j6Zgm7vzAZegr48UppFVT) | 4:19 |
 | 30 | [Teardrop](https://open.spotify.com/track/7JpgJ7b5sjvo3fUfPcRlq1) | [Newton Faulkner](https://open.spotify.com/artist/0pf1lcBxh6HiiHQAIzhTI5) | [Hand Built By Robots](https://open.spotify.com/album/3sa5wY7P025oIRRDvolUY5) | 3:08 |
 | 31 | [Green & Gold](https://open.spotify.com/track/2rXRkotF8QGGYirZsuxCqP) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Trending Hits](https://open.spotify.com/album/7M9oyLQcs7cvdNidQmasJT) | 4:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdPIbPNr916x.md) - [plain]
 | 49 | [She's Always A Woman \- Bonus Track](https://open.spotify.com/track/2u1u4wKiBhQOg4BjDNIfhD) | [Fyfe Dangerfield](https://open.spotify.com/artist/2WrVwQi8ez2O1Ds5Q7hLXa) | [Fly Yellow Moon](https://open.spotify.com/album/2B3iDb5OcdOlfVLk5SfFby) | 3:14 |
 | 50 | [Broken](https://open.spotify.com/track/1Bph2KY0MA2JUiX5uADWjZ) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [Jake Bugg](https://open.spotify.com/album/6b2BArDCfSvW3VFenLJatj) | 4:07 |
 
-Snapshot ID: `MTY2MzMzODUxNSwwMDAwMDAwMDNkNGY2NTE5OTg0ZTE5NDgyOGY5N2I2YThkZDAwMjI0`
+Snapshot ID: `MTY2MzMzODUxNSwwMDAwMDAwMDdmMGQ1N2M0Njk1NzgxMjc5ZTMzMjk0OWQ5NDcwMTQ3`

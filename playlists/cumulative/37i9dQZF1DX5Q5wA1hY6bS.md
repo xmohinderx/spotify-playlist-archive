@@ -4,7 +4,7 @@
 
 > the best things in life can't be contained.
 
-435 songs - 1 day 2 hr 28 min - [published](https://open.spotify.com/playlist/1JBI629TZ4Y1b4kQkDesCo)
+436 songs - 1 day 2 hr 32 min - [published](https://open.spotify.com/playlist/1JBI629TZ4Y1b4kQkDesCo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Alone but Not Alone](https://open.spotify.com/track/5L4FNK53OR0qlZHcZBtosH) | [Great Lake Swimmers](https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR) | [Alone but Not Alone](https://open.spotify.com/album/5DZTIAEVTJvKIaOVreuvs5) | 3:17 | 2019-05-26\* | 2022-06-01 |
 | [Amadeus](https://open.spotify.com/track/4F9jpNQDKRFoyM4Ebpni6S) | [Family and Friends](https://open.spotify.com/artist/2AmW5LU0vqfHoN2qvghRFe) | [XOXO](https://open.spotify.com/album/1SX20zgyjlyqjHSzOTmqxf) | 3:27 | 2019-05-26\* |  |
 | [Anchor](https://open.spotify.com/track/7qH9Z4dJEN0l9bidizW7fq) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Bathing Beach](https://open.spotify.com/album/4vGuMdwnxc6X8izbVS6MTN) | 4:17 | 2019-05-26\* |  |
+| [Angel](https://open.spotify.com/track/18SbC9qVTs8zuudDislTV5) | [Trudy and the Romance](https://open.spotify.com/artist/2eg89iLHG4JMEUZQmFaxou) | [Angel](https://open.spotify.com/album/5vi6pUjMmkdtABSiTPSuvF) | 4:02 | 2022-10-14 |  |
 | [Anywhere](https://open.spotify.com/track/11s7r8ffgXRZreqvMVPACS) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Revealer](https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D) | 3:48 | 2022-05-27 | 2022-11-11 |
 | [Anywhere](https://open.spotify.com/track/6TL8Mz1a5fYrY2eHpqa3jB) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Anywhere](https://open.spotify.com/album/0oHHPD6cPoNI8OKH5GQRqG) | 3:48 | 2022-05-27 | 2022-07-29 |
 | [Arizona](https://open.spotify.com/track/7hGeRC8nVfXI4a9sC8x8N7) | [Frances Cone](https://open.spotify.com/artist/5xKsfZBL84iULLWjvd4dWh) | [Arizona](https://open.spotify.com/album/4hiNrZKf4GuN3Djx0ngOkd) | 3:19 | 2019-05-26\* | 2022-06-23 |
@@ -315,7 +316,7 @@
 | [Rolling On](https://open.spotify.com/track/4kOLAEpK2YKpcMMnjVdiXy) | [Darling West](https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY) | [While I Was Asleep](https://open.spotify.com/album/7jQ7ceeE30vZUGibxHNWVc) | 3:58 | 2020-03-09 | 2022-07-21 |
 | [Rome](https://open.spotify.com/track/2ZwihAP8zB5XX1CmYIOBbF) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Without Fear](https://open.spotify.com/album/7jGNAMzrW5HMXdxl9XyBMG) | 3:22 | 2020-05-11 | 2021-11-03 |
 | [Run](https://open.spotify.com/track/511gSQKlJWacAINm3Ngn11) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Run](https://open.spotify.com/album/7ogQ7dkYeCTIUAAWCg13TM) | 3:16 | 2019-05-26\* | 2022-07-26 |
-| [Run](https://open.spotify.com/track/7xoDqnyrBDgusvQ1AHoOSx) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Run](https://open.spotify.com/album/0lBgdXhU3VUskJTGwOU2BT) | 3:16 | 2022-05-27 |  |
+| [Run](https://open.spotify.com/track/7xoDqnyrBDgusvQ1AHoOSx) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Run](https://open.spotify.com/album/0lBgdXhU3VUskJTGwOU2BT) | 3:16 | 2022-05-27 | 2022-11-12 |
 | [Run](https://open.spotify.com/track/2oqTwxhSYdxGBYBr0fiJzP) | [Jamie Lin Wilson](https://open.spotify.com/artist/4iOvWdVz71Xq2jgkUp1UNL) | [Jumping over Rocks](https://open.spotify.com/album/1ggyQgcurhryP0W6Xizswa) | 3:51 | 2020-03-09 | 2020-04-14 |
 | [Run\-down Neighborhood](https://open.spotify.com/track/4d75miZVKZd75MiAVWZvDa) | [Lindi Ortega](https://open.spotify.com/artist/0F8GZ29QxpnfOZvM25l7tJ) | [Faded Gloryville](https://open.spotify.com/album/5AmFYqUT1cu6JErSTHw5k6) | 3:06 | 2020-03-09 | 2020-07-10 |
 | [Runaway Town](https://open.spotify.com/track/2OFsbuDtlvlBzjc6Hh0D0U) | [Mary Bragg](https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj) | [Violets as Camouflage](https://open.spotify.com/album/0KCa9BfM1VLKSzfxfM4EPk) | 3:27 | 2020-03-09 | 2020-04-14 |

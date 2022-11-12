@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 
 > Celebrate Halloween at home with these fun tracks
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,865 likes - 140 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,831 likes - 140 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 | 35 | [Overture](https://open.spotify.com/track/2fp9PZRJEOCrP4qR8ZONGs) | [Orchestra](https://open.spotify.com/artist/21ND47q78JLAfDR1qpKQmj) | [The Addams Family \(Original Cast Recording\)](https://open.spotify.com/album/11oSgc7tukNbysMv0nOpW3) | 1:58 |
 | 36 | [Cruella De Vil \- From "101 Dalmatians"/Soundtrack Version](https://open.spotify.com/track/2tkIIkF3CPqsmYhsncNEGN) | [Bill Lee](https://open.spotify.com/artist/3UcnwnNwP6egaBs7DAgRdJ) | [101 Dalmatians](https://open.spotify.com/album/6hcQqEfqHDkQZl1bdgr4Vr) | 5:03 |
 | 37 | [Poor Unfortunate Souls \- From "The Little Mermaid" / Soundtrack Version](https://open.spotify.com/track/7yyTZAgwQUy1a5kDjQJJNN) | [Pat Carroll](https://open.spotify.com/artist/0Yy9u86cq66Se2pB9fYaiW), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [The Little Mermaid](https://open.spotify.com/album/4YTduhQWfS0pOzQC4o0HcG) | 4:51 |
-| 38 | [Somebody's Watching Me \- Single Version](https://open.spotify.com/track/6hci8n9UowepjRmCc6CKTv) | [Rockwell](https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP) | [Hitsville USA, The Motown Collection 1972\-1992](https://open.spotify.com/album/6nrCHETnE3ZWgwL0uYYWGP) | 3:58 |
+| 38 | [Somebody's Watching Me \- Single Version](https://open.spotify.com/track/6tUEdj7qGKPN3rV6GpBwuc) | [Rockwell](https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP) | [Halloween for Kids](https://open.spotify.com/album/7oYdF4y0Djq4nQpyHlcfYq) | 3:56 |
 | 39 | [Bump in the Night](https://open.spotify.com/track/7ax40vh2zp5UIwDzGf1cop) | [The Hit Crew Kids](https://open.spotify.com/artist/25WMrBRksXDi16Zjr23VUN) | [The Best Halloween Stories for Kids](https://open.spotify.com/album/1ksHEut4cKxzLXLBJemmrO) | 2:30 |
 | 40 | [Happy Happy Halloween](https://open.spotify.com/track/3RYEmRrhyNW8crprsaQDBh) | [Dad Jokes Duo](https://open.spotify.com/artist/4alPoOoReavkZAMBR5E4y0) | [Are We There Yet?](https://open.spotify.com/album/1WKVF97SZHVb7fAVkVHsoz) | 2:52 |
 | 41 | [Skeleton Dance](https://open.spotify.com/track/24DMFHfbCmdGFKj06O2zpw) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Halloween Kids Party With Little Baby Bum](https://open.spotify.com/album/3w0ggqSNDMTURl4QUMOkbW) | 2:06 |
@@ -113,7 +113,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 | 103 | [Gonna Get Me a Monster](https://open.spotify.com/track/5YaeRgZ2HFIoLGVHvO4JWK) | [Mr\. Singer & The Sharp Cookies](https://open.spotify.com/artist/2cNEUfwTvDZy45RQYjDlHv) | [Happy Haunted Halloween](https://open.spotify.com/album/13f41FYKOgFUuGKyHXWxHH) | 2:22 |
 | 104 | [It's Halloween](https://open.spotify.com/track/1cXBL3J7QtdYRuttYOHsFL) | [Lucy Kalantari](https://open.spotify.com/artist/48DitTEk1ItVK1K023w2S1) | [Big Things](https://open.spotify.com/album/6fJLE5P4cQ7Kelq7CRLzMf) | 3:35 |
 | 105 | [Smelloween](https://open.spotify.com/track/3vntT5h9WBgNOej8x0Oq3g) | [Mr Yipadee](https://open.spotify.com/artist/2EDBzZNew0M639G7RKCTsS), [Deano Yipadee](https://open.spotify.com/artist/7hQbFjNyMcJxjwmlieqPy1) | [Halloween Songs For Kids](https://open.spotify.com/album/5b83BDTJvUGohjOfy4cYWy) | 2:08 |
-| 106 | [We Love Halloween](https://open.spotify.com/track/40WjfvGm7cMJHdElsDwAVG) | [Pancake Manor](https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C) | [Boo! It's Halloween](https://open.spotify.com/album/6fWfpZA7c3puk13L7YfIt2) | 2:00 |
+| 106 | [We Love Halloween](https://open.spotify.com/track/73cRrnQ3VtwyXUK5gBW9j4) | [Pancake Manor](https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C) | [CoComelon & Friends Halloween](https://open.spotify.com/album/4vqE4T87hpSjIUdXOGnzMI) | 2:00 |
 | 107 | [Skeleton Inside!](https://open.spotify.com/track/5RYJpJXyhU4jxB5JPMKX7Q) | [The Aquabats!](https://open.spotify.com/artist/0WgiEOrXlaXJGHKhkd9s4s) | [Kooky Spooky..\. In Stereo!](https://open.spotify.com/album/1V2nJyNQSsEDRhP8xOOSDv) | 4:23 |
 | 108 | [This Is Halloween](https://open.spotify.com/track/01YROQCnF1AQm7SCWJmD2o) | [The Citizens of Halloween](https://open.spotify.com/artist/164hs3x1Tsp3FgJWNHee1r) | [Nightmare Before Christmas Special Edition](https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86) | 3:16 |
 | 109 | [The Simpsons \(Halloween Special Theme\)](https://open.spotify.com/track/3aa39YrzS0Hkl5h8yNM0pQ) | [Harajuku Nation](https://open.spotify.com/artist/4HG25gcGxUsLKlhPKyCods) | [The Ultimate Halloween Collection \- Spooky Anthems for your Haunted House](https://open.spotify.com/album/3ylBbGcMhglgc5APhOLIh4) | 1:24 |
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 | 139 | [Witch Doctor](https://open.spotify.com/track/36mtpa7tGI9mSB4yIG98Ni) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Spooktacular Hits 2021](https://open.spotify.com/album/2c1lxRoEyvJ7lYYE6X5xvO) | 2:25 |
 | 140 | [Scooby Doo, Where Are You?](https://open.spotify.com/track/4tHL2ARKN75Romnwr6nWiH) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop Halloween Hits!](https://open.spotify.com/album/41Whu3XN1DycyGPZYXz51K) | 1:40 |
 
-Snapshot ID: `MTY2NTQ5MDk1NCwwMDAwMDAwMDRjOThkNmVjNjFkMDE4MDVkZTY3NjJkOTM1ODFhZTkw`
+Snapshot ID: `MTY2NTQ5MDk1NCwwMDAwMDAwMDNjMDAxMTIwMzEyMDFiYzhhNmZhMWIyN2M3MjkwOTAw`

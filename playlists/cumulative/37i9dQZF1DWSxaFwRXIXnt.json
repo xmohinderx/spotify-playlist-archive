@@ -392,6 +392,24 @@
     },
     {
       "album": {
+        "name": "Javed Akhtar's - Bollywood Collection",
+        "url": "https://open.spotify.com/album/0t4Uy11wbt8f6fVPtaB00a"
+      },
+      "artists": [
+        {
+          "name": "Abhijeet",
+          "url": "https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314493,
+      "name": "Dhoom Dhoom Luck Luck (From \"Dillagi\")",
+      "url": "https://open.spotify.com/track/4LbdIVTg7jk4HIrXceFOA6"
+    },
+    {
+      "album": {
         "name": "Dil Se (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/54NUwj7U1MOhA1ZGbnhiMz"
       },
@@ -1218,6 +1236,36 @@
     },
     {
       "album": {
+        "name": "Shah Rukh Khan - Raja of Bollywood",
+        "url": "https://open.spotify.com/album/24QRpt2JtTr76etVIutFMV"
+      },
+      "artists": [
+        {
+          "name": "Shankar-Ehsaan-Loy",
+          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
+        },
+        {
+          "name": "Rahat Fateh Ali Khan",
+          "url": "https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0"
+        },
+        {
+          "name": "Shankar Mahadevan",
+          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+        },
+        {
+          "name": "Richa Sharma",
+          "url": "https://open.spotify.com/artist/2hgViyN0RqyQQpfjIb0g3W"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365706,
+      "name": "Sajdaa",
+      "url": "https://open.spotify.com/track/2ESn2DuOC3ehSlRq5D48R4"
+    },
+    {
+      "album": {
         "name": "My Name Is Khan (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5O06EpSaMFlN0DKqF8hRnK"
       },
@@ -1241,7 +1289,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 365706,
       "name": "Sajdaa",
       "url": "https://open.spotify.com/track/395gJWcJQK0C3GJfHAn7f6"
@@ -1289,7 +1337,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 314493,
       "name": "Suniye To",
       "url": "https://open.spotify.com/track/5VOnTAe9SMM6RBtq0C9wmf"

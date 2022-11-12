@@ -4,7 +4,7 @@
 
 > These women rock our worlds with their music and influence\. Cover: Alanis Morissette
 
-170 songs - 10 hr 31 min - [published](https://open.spotify.com/playlist/4puxHH16U8QMCFkFLBLCLa)
+173 songs - 10 hr 41 min - [published](https://open.spotify.com/playlist/4puxHH16U8QMCFkFLBLCLa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,8 +26,9 @@
 | [Blood In The Cut](https://open.spotify.com/track/3k3FEwVuaokMi13Ud4nnYm) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Crush Me](https://open.spotify.com/album/3kOuQ44yNHAUHyCiy9iTrT) | 3:08 | 2020-03-11 | 2022-03-09 |
 | [Bomb Through the Breeze](https://open.spotify.com/track/2lYTIEA8KJQWysrhXDogcD) | [Hannah Wicklund](https://open.spotify.com/artist/62GZbclGNlKcuW6O7l8TOU) | [Hannah Wicklund & The Steppin Stones](https://open.spotify.com/album/2GWRuo0azCjGlupKL5wY74) | 2:44 | 2020-03-11 | 2022-03-09 |
 | [Brass in Pocket \- 2006 Remaster](https://open.spotify.com/track/1QaJWSCk3UMKLotnPCIHh1) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Pretenders](https://open.spotify.com/album/6AFFu3ilmlEDz1I9ZaNOZw) | 3:05 | 2022-03-08 |  |
-| [Bring Me To Life](https://open.spotify.com/track/0COqiPhxzoWICwFCS4eZcp) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Fallen](https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm) | 3:55 | 2020-03-11 |  |
+| [Bring Me To Life](https://open.spotify.com/track/0COqiPhxzoWICwFCS4eZcp) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Fallen](https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm) | 3:55 | 2020-03-11 | 2022-11-12 |
 | [Bring Me To Life](https://open.spotify.com/track/2gpffYGJGvhgqgA0Aw8wKi) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Fallen](https://open.spotify.com/album/3nuLaHUml2Ul4Vu1hv7iT4) | 3:55 | 2020-03-11 | 2022-07-29 |
+| [Bring Me To Life](https://open.spotify.com/track/4RFOnev1uGYfaDkvSfOLW7) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Sad Songs Sing\-Along](https://open.spotify.com/album/53RP1ZPLTpJ2HHsSr6od6S) | 3:55 | 2020-03-11 |  |
 | [Bruise Violet](https://open.spotify.com/track/0o0fnK2CqZvI3jONRDv6ax) | [Babes In Toyland ](https://open.spotify.com/artist/3Xdna5z74yNICNKqdaNX9z) | [Fontanelle](https://open.spotify.com/album/3fbPYfpyJtow8IF3ho7o09) | 2:52 | 2022-03-08 |  |
 | [California Friends](https://open.spotify.com/track/6QKtCL5SUseSpvEMJpJPOa) | [The Regrettes](https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E) | [California Friends](https://open.spotify.com/album/1QZ812AcNas8yxLJuxFgJp) | 3:34 | 2020-03-11 | 2022-03-09 |
 | [Cannonball](https://open.spotify.com/track/05jUpJAbg7xtLzB5lsnm64) | [The Breeders](https://open.spotify.com/artist/1xgFexIwrf2QjbU0buCNnp) | [Cannonball](https://open.spotify.com/album/1syQ3F5kKN1JdqF6fbDMDc) | 3:33 | 2020-03-11 |  |
@@ -89,7 +90,8 @@
 | [I Love Rock 'N Roll](https://open.spotify.com/track/2Cdvbe2G4hZsnhNMKyGrie) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [I Love Rock 'N' Roll \(Expanded Edition\)](https://open.spotify.com/album/555qwe1qUgLdee80TZ2CQt) | 2:55 | 2020-03-11 |  |
 | [I Miss the Misery](https://open.spotify.com/track/3gmEzilP9BzF45wIMvA16l) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [The Strange Case of..\. \(Deluxe\)](https://open.spotify.com/album/4TyrGrbnsOVKOXVut2huz2) | 3:03 | 2020-03-11 |  |
 | [I Put A Spell On You](https://open.spotify.com/track/3sesq9P6ndjuqaq5om7sxT) | [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum) | [Nostalgia](https://open.spotify.com/album/1REqQsUK0WRYQVzsmdsj04) | 3:32 | 2020-03-11 | 2022-03-09 |
-| [I Want You to Want Me](https://open.spotify.com/track/3DcPLPvsZPcFcYfMPMfh4e) | [Letters To Cleo](https://open.spotify.com/artist/7E41j1yL9ZeTWfqe9bUGgw) | [When Did We Do That?](https://open.spotify.com/album/1c2pJwy1y3eSP2Nknt0rp8) | 3:26 | 2020-03-11 |  |
+| [I Want You To Want Me](https://open.spotify.com/track/5HWEu2neVmx4j9jeXvx5NA) | [Letters To Cleo](https://open.spotify.com/artist/7E41j1yL9ZeTWfqe9bUGgw) | [Back To School \- Pop Edition](https://open.spotify.com/album/7D7AsvzfRsK5le2DiV5ekP) | 3:25 | 2020-03-11 |  |
+| [I Want You to Want Me](https://open.spotify.com/track/3DcPLPvsZPcFcYfMPMfh4e) | [Letters To Cleo](https://open.spotify.com/artist/7E41j1yL9ZeTWfqe9bUGgw) | [When Did We Do That?](https://open.spotify.com/album/1c2pJwy1y3eSP2Nknt0rp8) | 3:26 | 2020-03-11 | 2022-11-12 |
 | [I Want You To Want Me \- Soundtrack](https://open.spotify.com/track/3oX3F14vpkCMJnFoF3DSEr) | [Letters To Cleo](https://open.spotify.com/artist/7E41j1yL9ZeTWfqe9bUGgw) | [10 Things I Hate About You](https://open.spotify.com/album/2wQ7olOHDHVpgKmKajOxDf) | 3:25 | 2020-03-11 | 2022-07-29 |
 | [I'm The Only One](https://open.spotify.com/track/4veE1jrMbVSy9FRCiYDGkD) | [Melissa Etheridge](https://open.spotify.com/artist/01Ppu7N8uYJI8SAONo2YZA) | [Yes I Am](https://open.spotify.com/album/1qzfqlEyzPD0VyCcSSQwZD) | 4:55 | 2022-03-08 |  |
 | [In A Spiral](https://open.spotify.com/track/290SZlJ3BPDbczcxLJ7nlb) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [In A Spiral](https://open.spotify.com/album/6hMd3DltJrhgLWM2nTWp7N) | 3:22 | 2020-03-11 | 2022-03-09 |
@@ -119,7 +121,8 @@
 | [Power Lines](https://open.spotify.com/track/7KJIL45j1D1aKhartXceUW) | [Tigress](https://open.spotify.com/artist/4wJ6pekF4hqpKdlXco2rJN) | [Power Lines](https://open.spotify.com/album/3cT2uVnhyfKyyLrWpgqKuN) | 3:04 | 2020-03-11 | 2022-03-09 |
 | [Pretend We're Dead](https://open.spotify.com/track/3z5ggGtcs4t8pizW521gW9) | [L7](https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h) | [Bricks Are Heavy](https://open.spotify.com/album/0z7Dc7FRsDH7E4kj32mKyM) | 3:55 | 2020-03-11 |  |
 | [Pretty Waste](https://open.spotify.com/track/1j6XqVdSE5KlgfOxfXwiGX) | [BONES UK](https://open.spotify.com/artist/16kd5X3pBMOtXdLlX5LcAw) | [Bones UK](https://open.spotify.com/album/3oGWjFc2ol3g4iIiCAXav3) | 2:50 | 2020-03-11 | 2022-11-06 |
-| [Pretty Waste](https://open.spotify.com/track/71HZdwtSopDs87RvpI8ip2) | [BONES UK](https://open.spotify.com/artist/16kd5X3pBMOtXdLlX5LcAw) | [Bones UK](https://open.spotify.com/album/6YkF6eWFU0EhVHBnYzAgqv) | 2:50 | 2020-03-11 |  |
+| [Pretty Waste](https://open.spotify.com/track/2eRpD2BvnFAZCXN5fukXZz) | [BONES UK](https://open.spotify.com/artist/16kd5X3pBMOtXdLlX5LcAw) | [Pretty Waste](https://open.spotify.com/album/6NSmYBEztwHriWZF4huXPv) | 2:50 | 2020-03-11 |  |
+| [Pretty Waste](https://open.spotify.com/track/71HZdwtSopDs87RvpI8ip2) | [BONES UK](https://open.spotify.com/artist/16kd5X3pBMOtXdLlX5LcAw) | [Bones UK](https://open.spotify.com/album/6YkF6eWFU0EhVHBnYzAgqv) | 2:50 | 2020-03-11 | 2022-11-12 |
 | [Proud Mary](https://open.spotify.com/track/6gJdDnF2TzfA1WPMXuCa3x) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [What's Love Got to Do with It?](https://open.spotify.com/album/5HmYiJnUkFuciiqRrAAv4o) | 5:27 | 2021-02-01 |  |
 | [Raise Hell](https://open.spotify.com/track/02Msss3kY3GSGgeY8oUGMF) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [Raise Hell](https://open.spotify.com/album/0igXZxXbAV5a5EkVcQdlxb) | 3:01 | 2020-03-11 | 2022-07-29 |
 | [Raise Hell](https://open.spotify.com/track/2NPHU2WJaI3rrtCNNuQ8L1) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [ROCKISDEAD](https://open.spotify.com/album/5AYoffF42E0cgDuuNgzYir) | 3:01 | 2020-03-11 | 2022-11-11 |

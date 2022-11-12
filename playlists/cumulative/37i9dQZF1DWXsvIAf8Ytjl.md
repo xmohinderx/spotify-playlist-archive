@@ -4,7 +4,7 @@
 
 > Focus on the drums, and your inner animal will come alive! In\-your\-face rock tracks where the drums can't be ignored.
 
-76 songs - 6 hr 25 min - [published](https://open.spotify.com/playlist/1TTpnQL8vDzEXrA1b6lsMg)
+77 songs - 6 hr 32 min - [published](https://open.spotify.com/playlist/1TTpnQL8vDzEXrA1b6lsMg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,8 @@
 | [I Want to Take You Higher](https://open.spotify.com/track/4qpIk2rvkmxJEVvt38tepd) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Stand](https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD) | 5:22 | 2018-12-10 | 2022-11-11 |
 | [I Want To Take You Higher](https://open.spotify.com/track/0GWiV9swb7Na78JxfzKVZJ) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Greatest Hits/There's A Riot Goin' On/Fresh \(3 Pak Longbox Version For Costco Only\)](https://open.spotify.com/album/5bG8pUXeQLeVm5G9PcC0sE) | 5:22 | 2018-12-10 | 2022-07-29 |
 | [In Memory Of Elizabeth Reed](https://open.spotify.com/track/1hFVbNUjzbnYwef4GLFdGg) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [Idlewild South](https://open.spotify.com/album/69p1Ktt4gkPB6Un6vnxj9g) | 6:58 | 2018-12-10 | 2022-07-29 |
-| [In Memory Of Elizabeth Reed](https://open.spotify.com/track/23KUlJNvJmKrRVmo3XBvxM) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [Idlewild South \(Deluxe Edition Remastered\)](https://open.spotify.com/album/1K9yhJFW4FR8Rc1VURWA5T) | 6:59 | 2018-12-10 |  |
+| [In Memory Of Elizabeth Reed](https://open.spotify.com/track/23KUlJNvJmKrRVmo3XBvxM) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [Idlewild South \(Deluxe Edition Remastered\)](https://open.spotify.com/album/1K9yhJFW4FR8Rc1VURWA5T) | 6:59 | 2018-12-10 | 2022-11-12 |
+| [In Memory Of Elizabeth Reed](https://open.spotify.com/track/3jN3HJsbuKDpfpYFq8H1Q8) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [Idlewild South](https://open.spotify.com/album/4hpZe4QmcWpl4dQjbbkvWA) | 6:59 | 2018-12-10 |  |
 | [Karn Evil 9 1st Impression, Pt\. 2 \- 2014 Remaster](https://open.spotify.com/track/0nDQu5i6B93GvUJH8iJ0y9) | [Emerson, Lake & Palmer](https://open.spotify.com/artist/0nCiidE5GgDrc5kWN3NZgZ) | [Brain Salad Surgery](https://open.spotify.com/album/1wTqdsmCCQQLCQjXZM3H59) | 4:45 | 2018-12-10 | 2022-11-11 |
 | [Karn Evil 9 1st Impression, Pt\. 2 \- 2014 Remaster](https://open.spotify.com/track/7kwH1GDFeVL01QNhGS2Ele) | [Emerson, Lake & Palmer](https://open.spotify.com/artist/0nCiidE5GgDrc5kWN3NZgZ) | [The Anthology](https://open.spotify.com/album/0frleTv0z2bVtd6ZwAr2LV) | 4:49 | 2018-12-10 |  |
 | [Karn Evil 9 1st Impression, Pt\. 2 \- Alternate Version](https://open.spotify.com/track/7dl8eQGk8e7ZN6vNLo4KAg) | [Emerson, Lake & Palmer](https://open.spotify.com/artist/0nCiidE5GgDrc5kWN3NZgZ) | [Brain Salad Surgery](https://open.spotify.com/album/1ktDHin7DUwgCxU463mz8n) | 4:48 | 2018-12-10 | 2022-10-14 |

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavxLjAz4XDv.md) - [plain]
 
 > Essential tracks from "Resident Evil" series\. 25周年を迎えたホラーゲームの金字塔、バイオハザードシリーズの音楽をプレイリストで。©CAPCOM CO., LTD\. ALL RIGHTS RESERVED.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,745 likes - 60 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,754 likes - 60 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Yearning for Dark Shadows](https://open.spotify.com/track/0ksImScAVXWxao9LK7mMGq) | [Brian D'Oliveira](https://open.spotify.com/artist/6Ma7ZBVsdilEALEnNl5Tgz) | [RESIDENT EVIL VILLAGE ORIGINAL SOUNDTRACK](https://open.spotify.com/album/0OmHth9izCltpC5ggqkLkA) | 6:02 |
 | 2 | [Go Tell Aunt Rhody \-Resident Evil\- \- Full Version](https://open.spotify.com/track/0pYJBNET8c1tFUlXxKaIBj) | [Michael A\. Levine](https://open.spotify.com/artist/7dTj1YCEqf3RiUfSTdvmND) | [BIOHAZARD 7 RESIDENT EVIL Best Track Collection](https://open.spotify.com/album/6snRTZSjEpxuVKBQnHDrpY) | 2:54 |
 | 3 | [Black Impact](https://open.spotify.com/track/1OIdhmZ2jyYRbuoweNgiik) | [Zhenlan Kang](https://open.spotify.com/artist/6kl3efW7tl5W2La5T9NElp) | [BIOHAZARD RE:2 Best Track Collection](https://open.spotify.com/album/2P9KYawcKVvzvhdOyF0Qfr) | 3:31 |
-| 4 | ["O vendetta di Dio"](https://open.spotify.com/track/7hH6LXm6mHr8g6Lyml8TRC) | [Takeshi Miura](https://open.spotify.com/artist/1Eii6MJjXMNyoRMvCiYDTN) | [Resident Evil: Revelations Original Soundtrack](https://open.spotify.com/album/2U6Zaj3bDEmxWKG3Nt3JDF) | 3:36 |
+| 4 | [“O vendetta di Dio”](https://open.spotify.com/track/3kkMktFCeUiSCqqLJ1lnio) | [Takeshi Miura](https://open.spotify.com/artist/1Eii6MJjXMNyoRMvCiYDTN) | [BIOHAZARD REVELATIONS Best Track Collection](https://open.spotify.com/album/6FirwiQDlNNtKaA2LLmf0x) | 3:36 |
 | 5 | [Secure Place](https://open.spotify.com/track/6u4G0ODRV9gzAoyinK1KAD) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [Resident Evil 2 Original Soundtrack](https://open.spotify.com/album/0oT3SZgFGCdQe4aazLx2at) | 0:56 |
 | 6 | [The Theme Of Alexia Type 2](https://open.spotify.com/track/7k452rLKL99ShJKRyK3YdQ) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [biohazard SOUND CHRONICLE BEST TRACK BOX](https://open.spotify.com/album/1MGsZkc3qudBr8rjhWu8k0) | 2:31 |
 | 7 | [Last Judgment](https://open.spotify.com/track/73nh3XXq3DwNAdPbgenrE1) | [中島健太郎](https://open.spotify.com/artist/38qCJ6vCoxPJYoJQbAm8T5) | [RESIDENTEVIL SOUND CHRONICLE III](https://open.spotify.com/album/04wI5TSN4crQGKGHnV9DTh) | 3:26 |
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavxLjAz4XDv.md) - [plain]
 | 22 | [Keeper of the Greenhouse Ⅰ](https://open.spotify.com/track/0xAR6Od5CQe3kjWaNn1N6e) | [堀論史](https://open.spotify.com/artist/4GK9wZWLLLgYSIgGJzHGPy) | [BIOHAZARD 7 RESIDENT EVIL Best Track Collection](https://open.spotify.com/album/6snRTZSjEpxuVKBQnHDrpY) | 2:44 |
 | 23 | [Main Menu](https://open.spotify.com/track/6aDXZpXycI6B2ezdISfyVv) | [Miwako Chinone](https://open.spotify.com/artist/5BrA9ihtQiD4QDpYGmult4) | [RESIDENTEVIL SOUND CHRONICLE III](https://open.spotify.com/album/04wI5TSN4crQGKGHnV9DTh) | 3:02 |
 | 24 | [The Beginning](https://open.spotify.com/track/5VZ6JwpIkipHeE2w6gwur9) | [内山修作](https://open.spotify.com/artist/6LuD4P86YYn8lP3sEvWdBP) | [BIOHAZARD RE:2 Best Track Collection](https://open.spotify.com/album/2P9KYawcKVvzvhdOyF0Qfr) | 2:46 |
-| 25 | [R.P.D\. Hall](https://open.spotify.com/track/70sKiW5IIhwcGtB1yFHYVE) | [Masami Ueda](https://open.spotify.com/artist/4Zc9ID5YsCSgTf2l00RmiU) | [Resident Evil 2 Original Soundtrack](https://open.spotify.com/album/2zyghKqvMQ5guwNLsnkMp2) | 3:28 |
+| 25 | [R.P.D\. Hall](https://open.spotify.com/track/16laXao2zlkpCNm2mI72fG) | [Masami Ueda](https://open.spotify.com/artist/4Zc9ID5YsCSgTf2l00RmiU) | [RESIDENTEVIL SOUND CHRONICLE III](https://open.spotify.com/album/04wI5TSN4crQGKGHnV9DTh) | 3:29 |
 | 26 | [Collapse](https://open.spotify.com/track/6szZAiaCyyIy0MNbP1Cfvz) | [Kentaro Nakajima](https://open.spotify.com/artist/1GXcJgf4RGI66ggGMkoA7F) | [Resident Evil 2 Original Soundtrack](https://open.spotify.com/album/2zyghKqvMQ5guwNLsnkMp2) | 2:51 |
 | 27 | [Looming Dread](https://open.spotify.com/track/4SkDyOrGKB2WKwDvkVvmao) | [中島健太郎](https://open.spotify.com/artist/38qCJ6vCoxPJYoJQbAm8T5) | [RESIDENTEVIL SOUND CHRONICLE III](https://open.spotify.com/album/04wI5TSN4crQGKGHnV9DTh) | 2:07 |
 | 28 | [Saudade](https://open.spotify.com/track/2Y5YohrT82M40vLuT6ZgAi) | [Cody Matthew JohnsonShim](https://open.spotify.com/artist/2BlLyiVSZagwGmH7Po9mz9) | [RESIDENTEVIL SOUND CHRONICLE III](https://open.spotify.com/album/04wI5TSN4crQGKGHnV9DTh) | 4:19 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavxLjAz4XDv.md) - [plain]
 | 59 | [Tofu on Fire](https://open.spotify.com/track/1JqGbX7D8Lh03W3WITm5VS) | [Shotaro Nakayama](https://open.spotify.com/artist/0qM6rCXSK4NRrB1Ucij1a1), [Taishuke Fujisawa](https://open.spotify.com/artist/08eE91OwwwZT0HriYw1xky) | [Resident Evil 2 Original Soundtrack](https://open.spotify.com/album/2zyghKqvMQ5guwNLsnkMp2) | 3:37 |
 | 60 | [Go Tell Aunt Rhody \-Dixiland Jazz\- \- Alternative Ver.](https://open.spotify.com/track/4WZG3vulG5PQLURWwc1uAE) | [堀諭史](https://open.spotify.com/artist/56JQzzYTLuEO1MvPct6Tfg) | [BIOHAZARD 7 RESIDENT EVIL Special Tracks](https://open.spotify.com/album/42ZIjUQqG1MHOkZg3KHK2L) | 4:01 |
 
-Snapshot ID: `MTYyOTI3MzY3OSwwMDAwMDAwMGE5YjFhYzY3MjBmZWRhM2Y2YzI3NjllNjcwZjQwYzJm`
+Snapshot ID: `MTYyOTI3MzY3OSwwMDAwMDAwMDZhMTlhY2UwZjdlYzY4MGE0YzYzYzQ2N2YxMDZhZmYx`

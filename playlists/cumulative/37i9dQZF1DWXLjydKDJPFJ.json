@@ -182,6 +182,24 @@
     },
     {
       "album": {
+        "name": "En Vivo Desde El Valle",
+        "url": "https://open.spotify.com/album/4uyoaM5Cw7jerrCZNzFAs9"
+      },
+      "artists": [
+        {
+          "name": "Grupo Zenzio",
+          "url": "https://open.spotify.com/artist/0phhTEgdg0vxSb5G3dPVsC"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212509,
+      "name": "Aguita De Melon ( En Vivo )",
+      "url": "https://open.spotify.com/track/3DT6kLTyizXVkQKnT3VHlE"
+    },
+    {
+      "album": {
         "name": "Algo De Mi",
         "url": "https://open.spotify.com/album/3B9MzXXUxN220d67ev3g6R"
       },
@@ -613,7 +631,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 163640,
       "name": "Compr\u00e9 Una Cantina",
       "url": "https://open.spotify.com/track/1hIycheRhA4vg4DD60uh9Y"
@@ -1039,7 +1057,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 224946,
       "name": "El Taxista",
       "url": "https://open.spotify.com/track/5ugABx5bnTbKl0j6iPwaku"
@@ -1137,7 +1155,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 221640,
       "name": "En Realidad",
       "url": "https://open.spotify.com/track/0hicPD6pe5ilVkgMWbRbZS"
@@ -1561,7 +1579,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-06",
+      "date_removed": null,
       "duration_ms": 180213,
       "name": "La calle de la amargura",
       "url": "https://open.spotify.com/track/4Pokg7TSQL2yPfHmEIvFhu"
@@ -2013,7 +2031,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 155802,
       "name": "Me La Avente",
       "url": "https://open.spotify.com/track/3ahvKiNH7l6EpnTnzkZpG1"
@@ -2053,6 +2071,24 @@
       "duration_ms": 170333,
       "name": "Mi Casa Nueva",
       "url": "https://open.spotify.com/track/0YqxST7jMa8B4Ecr1675u6"
+    },
+    {
+      "album": {
+        "name": "En Vivo... El Hombre Y Su Musica",
+        "url": "https://open.spotify.com/album/6CQHDMfFOGqspVTHRBZugx"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178586,
+      "name": "Mi Golondrina",
+      "url": "https://open.spotify.com/track/0U1HpcV2UChQzOIQGLZv7T"
     },
     {
       "album": {
@@ -2429,7 +2465,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 224253,
       "name": "No Me Conoces A\u00fan",
       "url": "https://open.spotify.com/track/27OazZsnF6N1Hp75pCmBNI"
@@ -2793,7 +2829,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 175293,
       "name": "Playa Sola",
       "url": "https://open.spotify.com/track/66LTMTY1gZmxJkJvIfFe6d"
@@ -3447,7 +3483,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 203440,
       "name": "Te Quiero Mucho",
       "url": "https://open.spotify.com/track/6PyD9wjBeQB2pFZJl14KsM"

@@ -4,7 +4,7 @@
 
 > Funk to these good ol' funky soul classics!
 
-110 songs - 8 hr 59 min - [published](https://open.spotify.com/playlist/1zjOq1oqEJezG95HP1aOeI)
+111 songs - 9 hr 3 min - [published](https://open.spotify.com/playlist/1zjOq1oqEJezG95HP1aOeI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,8 +103,9 @@
 | [The Cisco Kid](https://open.spotify.com/track/5DvGqOJAB0OUDc8R9cLN3H) | [War](https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I) | [Evolutionary](https://open.spotify.com/album/7rk4fjeq22xXAwhY7XL8yf) | 3:47 | 2020-04-15 | 2022-07-29 |
 | [The Cisco Kid](https://open.spotify.com/track/081VW4WQgow6Z6vq4M1TAX) | [War](https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I) | [Soul](https://open.spotify.com/album/1NE38A18BYfXoRTxWafoDi) | 3:48 | 2020-04-15 |  |
 | [The Jam](https://open.spotify.com/track/1xXNrpcZ7UyKVWiI6GEc75) | [Graham Central Station](https://open.spotify.com/artist/1OGcRXAY9iO4egWiIBqX8F) | [Ain't No 'Bout\-A\-Doubt It](https://open.spotify.com/album/5UcoqwPZQ0HBi4WgmDgEHs) | 8:12 | 2020-04-15 |  |
-| [The Payback](https://open.spotify.com/track/0YSE1fLSwXoGAb3CPzUgZm) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [70's Funk Classics](https://open.spotify.com/album/2qHJQ1SqVTUfN93ovRHjZc) | 3:33 | 2020-04-15 |  |
+| [The Payback](https://open.spotify.com/track/0YSE1fLSwXoGAb3CPzUgZm) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [70's Funk Classics](https://open.spotify.com/album/2qHJQ1SqVTUfN93ovRHjZc) | 3:33 | 2020-04-15 | 2022-11-12 |
 | [The Payback \- Part 1](https://open.spotify.com/track/0E4Tb9UvOHgI5v59yG50Wm) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Get On Up \- The James Brown Story \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6f8C6KCkU3ybGalzVqbXY8) | 3:33 | 2020-04-15 | 2022-07-29 |
+| [The Payback \- Pt\. 1](https://open.spotify.com/track/5W649n58BMtYondTG3XLYq) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [D.J\. Masters: Funk Classics](https://open.spotify.com/album/5ZGnytq7MQh4vWvWS1xj4s) | 3:33 | 2020-04-15 |  |
 | [Theme From "Shaft"](https://open.spotify.com/track/3UgWZwO5KqlfujQn53UW3I) | [Isaac Hayes](https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E) | [Top 50 Funk Hits](https://open.spotify.com/album/5OHvSXMjGR0uLscJgDiEuJ) | 4:36 | 2020-05-08 |  |
 | [Think](https://open.spotify.com/track/4yQw7FR9lcvL6RHtegbJBh) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Aretha Now](https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC) | 2:19 | 2020-05-08 |  |
 | [Think \(About It\)](https://open.spotify.com/track/1kG2PZ8geznbDA8I6iWeDi) | [Lyn Collins](https://open.spotify.com/artist/6XJPGyxrP66scKvIE9kpPN) | [Think \(About It\)](https://open.spotify.com/album/2197TH5e4lrSiZvYUPh3YE) | 3:24 | 2020-05-08 |  |

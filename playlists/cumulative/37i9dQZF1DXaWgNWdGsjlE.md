@@ -4,7 +4,7 @@
 
 > make a mess of it\. Cover: DeathbyRomy
 
-155 songs - 8 hr 41 min - [published](https://open.spotify.com/playlist/3yPNBCqDIplXzlh2PGS3eF)
+156 songs - 8 hr 44 min - [published](https://open.spotify.com/playlist/3yPNBCqDIplXzlh2PGS3eF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,8 +110,9 @@
 | [My Eyes](https://open.spotify.com/track/5Rinf7kiB6r1g1zZsPMMq0) | [The Anix](https://open.spotify.com/artist/6nFvVbL2RN5czSm7NZjE51) | [REVENGE \(Deluxe Edition\)](https://open.spotify.com/album/7KBCW1fhxbyk775NbSHjjg) | 5:12 | 2022-07-01 | 2022-11-11 |
 | [My Eyes](https://open.spotify.com/track/7bsshVqFu8ybiu6VgIChUb) | [The Anix](https://open.spotify.com/artist/6nFvVbL2RN5czSm7NZjE51) | [My Eyes](https://open.spotify.com/album/59IsfO40V1emIqykYrBpFr) | 5:12 | 2022-11-08 |  |
 | [My Eyes](https://open.spotify.com/track/1HM3k9oiGCQwNqG8kP35bt) | [The Anix](https://open.spotify.com/artist/6nFvVbL2RN5czSm7NZjE51) | [My Eyes](https://open.spotify.com/album/0o0QcBLeAhIGGwURLTDsEr) | 5:15 | 2022-04-08 | 2022-07-29 |
+| [My Own Summer](https://open.spotify.com/track/1RJQu4Pq5tZUJEJpo5zqOf) | [Brass Against](https://open.spotify.com/artist/25uPlxGvXMDy9eUX7oeDei) | [Brass Against III](https://open.spotify.com/album/2n8KXe2C9BNPSDAOOe8RVV) | 3:36 | 2022-11-08 |  |
 | [My Own Summer](https://open.spotify.com/track/1eyKn1c88LnydR6vsRdbVs) | [Brass Against](https://open.spotify.com/artist/25uPlxGvXMDy9eUX7oeDei), [Sophia Urista](https://open.spotify.com/artist/0ZOIPu5gy4F5VFvJrRfvVP) | [My Own Summer](https://open.spotify.com/album/1fMoIeLCqIDYNLd1zn4yKH) | 3:36 | 2022-04-08 | 2022-07-29 |
-| [My Own Summer](https://open.spotify.com/track/2XAn1jUbPqylVftkIBiIpY) | [Brass Against](https://open.spotify.com/artist/25uPlxGvXMDy9eUX7oeDei), [Sophia Urista](https://open.spotify.com/artist/0ZOIPu5gy4F5VFvJrRfvVP) | [Brass Against III](https://open.spotify.com/album/1qC10DV747Gmd9wlZGGkpB) | 3:37 | 2022-07-01 |  |
+| [My Own Summer](https://open.spotify.com/track/2XAn1jUbPqylVftkIBiIpY) | [Brass Against](https://open.spotify.com/artist/25uPlxGvXMDy9eUX7oeDei), [Sophia Urista](https://open.spotify.com/artist/0ZOIPu5gy4F5VFvJrRfvVP) | [Brass Against III](https://open.spotify.com/album/1qC10DV747Gmd9wlZGGkpB) | 3:37 | 2022-07-01 | 2022-11-12 |
 | [Narc](https://open.spotify.com/track/7uZHeWnTkO9KfQpvOJytEj) | [Cutouts](https://open.spotify.com/artist/6ZYpTpvAwv0T78s6Ueh5g1) | [Narc](https://open.spotify.com/album/6BsqNNzQzCB9pHwZJiOwc1) | 2:45 | 2022-09-27 |  |
 | [Ohio is for Lovers](https://open.spotify.com/track/78QULk7GWaRjHz15jPLPuQ) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe), [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [Ohio is for Lovers](https://open.spotify.com/album/3xCjB3Cd9KsxnLciMdE331) | 3:52 | 2022-04-08 |  |
 | [OHMAMI \- With Maggie Lindemann](https://open.spotify.com/track/1c7YvFPE0PWud0InScOX3r) | [Chase Atlantic](https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT), [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [OHMAMI \(With Maggie Lindemann\)](https://open.spotify.com/album/7nSsnVn4iG0gGnmXa7YkWG) | 3:46 | 2022-04-08 |  |

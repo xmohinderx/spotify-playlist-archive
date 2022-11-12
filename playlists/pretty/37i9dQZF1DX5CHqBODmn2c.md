@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CHqBODmn2c.md) - [plain]
 
 > Top of the top hits from Korean Pop Artists! Cover: <a href="spotify:artist:41MozSoPIsD1dJM0CLPjZF">BLACKPINK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 686,679 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 686,644 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CHqBODmn2c.md) - [plain]
 | 50 | [Scentist](https://open.spotify.com/track/1HybeCid417lV9ldlKGenl) | [VIXX](https://open.spotify.com/artist/5BkB3rXc0qIdUtuEnhbK0A) | [Reincarnation](https://open.spotify.com/album/6A2ahWJPDQl2n7bAtftT51) | 3:07 |
 | 51 | [Call me](https://open.spotify.com/track/6NE3fMuLpGWn86zbGGhmIL) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [THIS IS US](https://open.spotify.com/album/1JpC31overHSqPenjJieXv) | 3:16 |
 | 52 | [DINOSAUR](https://open.spotify.com/track/49KDK2ccYnOCYPeXfDO3YT) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [SUMMER EPISODE](https://open.spotify.com/album/6nvvOIQoyryvZjr7baMuXP) | 4:00 |
-| 53 | [SEE SEA](https://open.spotify.com/track/09Pp9Q9593vnr91Ldi4let) | [Hyolyn](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [SEE SEA](https://open.spotify.com/album/1t3IRZpNvtOD1tXfFLrLOe) | 3:20 |
+| 53 | [SEE SEA](https://open.spotify.com/track/6UMAXSwjuP9YPlObKugTO9) | [Hyolyn](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [SAY MY NAME](https://open.spotify.com/album/0ZqsXIBaGGO8I1AbCxAdyt) | 3:20 |
 | 54 | [Very Very Very](https://open.spotify.com/track/0BhMw9r3eOLMLXRFBLCt6O) | [I.O.I](https://open.spotify.com/artist/6RKnXXyprPjhBdCvL802Ku) | [miss me?](https://open.spotify.com/album/2YyowuE62RMWFtBSa2EO7r) | 3:23 |
 | 55 | [HER](https://open.spotify.com/track/4jQDaI7FRGaDB0llURpnNf) | [Block B](https://open.spotify.com/artist/4RnezwRV7VBJUCI1S0AE5u) | [HER](https://open.spotify.com/album/5wHs7NGuapCYtY4wWsYMi3) | 2:59 |
 | 56 | [I Will Go To You Like the First Snow](https://open.spotify.com/track/2BPXILn0MqOe5WroVXlvN1) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Guardian \(Original Television Soundtrack\), Pt\. 9](https://open.spotify.com/album/42jhVkCdzN4cuIvc0QyXbS) | 3:49 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CHqBODmn2c.md) - [plain]
 | 99 | [Only Then](https://open.spotify.com/track/7mFigNlS2dsKMhcmJyfpeg) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [Only Then](https://open.spotify.com/album/4erAMXv1Uin2wnf1vW4Eqq) | 4:08 |
 | 100 | [HOLUP!](https://open.spotify.com/track/0dkqqQAizwp3MHJKehq5ng) | [BOBBY](https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS) | [The MOBB](https://open.spotify.com/album/4t6fZKJ4OOVTNc3A8YFq7k) | 3:31 |
 
-Snapshot ID: `MTY1Nzc5MDAyNSwwMDAwMDAwMGQ3MDU1ZjA1ZGU5YzE4N2FlZjE3MTc4YmZkMGI0ZTA4`
+Snapshot ID: `MTY1Nzc5MDAyNSwwMDAwMDAwMDlmNDYxOTQ3OGY3YzQzZTkyNWU1OTZhZjYxOGRjZDM3`

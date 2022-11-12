@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nBpII.md) - [plain]
 
 > This is Green Day\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 919,268 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 919,577 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nBpII.md) - [plain]
 | 49 | [Youngblood](https://open.spotify.com/track/5JwuHzmJCmHuHGjP9W6KtK) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Revolution Radio](https://open.spotify.com/album/5a3LqvNt2nv1B4aRKXmgOV) | 2:32 |
 | 50 | [Nuclear Family](https://open.spotify.com/track/206n37mZTmloL45RYhmMlP) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [¡UNO!](https://open.spotify.com/album/6AFJIZmd1zWQDBBwHyeo9w) | 3:03 |
 
-Snapshot ID: `Mjc4MDE1OTIsMDAwMDAwMDBjYTc5ZDRiOWRmYTY2ZDY4ZDk4NDFlMzNkMWMwYzU5NQ==`
+Snapshot ID: `Mjc4MDMwMDAsMDAwMDAwMDA2YjZiYzJjMjk4NmViM2I0MjI5ZTlhZDkwMDFkNWQ1NQ==`

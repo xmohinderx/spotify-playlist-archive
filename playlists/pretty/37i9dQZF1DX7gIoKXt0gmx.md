@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gIoKXt0gmx.md) - [plain]
 
 > All the vibes\. All the feels\. 🫠
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,454,506 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,455,091 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gIoKXt0gmx.md) - [plain]
 | 29 | [Spread Thin](https://open.spotify.com/track/4MbzauKV2ydtZZjLsPcuTF) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Buckles Laboratories Presents: The Intermission](https://open.spotify.com/album/5ml8UPImaD5c3x3YwQTaeS) | 3:22 |
 | 30 | [Coaster](https://open.spotify.com/track/39KG4kom3enSx4GTThuDGt) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [American Teen](https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg) | 3:19 |
 | 31 | [Nobody But You](https://open.spotify.com/track/6VFKuuqSbA1GpMEosUgTwQ) | [Sonder](https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Nobody But You](https://open.spotify.com/album/0HaY1bBhaYUEXBOSva6Pf7) | 3:33 |
-| 32 | [Love Me](https://open.spotify.com/track/4qgMPzf9QOETWQFUcFkHD4) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Love Me](https://open.spotify.com/album/7hgekZLPc8OHgk8kAaPkel) | 3:27 |
-| 33 | [Talk 2 Me](https://open.spotify.com/track/6pPLhloHxLWiMlAT5Xn1gw) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 2:19 |
+| 32 | [Talk 2 Me](https://open.spotify.com/track/6pPLhloHxLWiMlAT5Xn1gw) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 2:19 |
+| 33 | [Love Me](https://open.spotify.com/track/4qgMPzf9QOETWQFUcFkHD4) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Love Me](https://open.spotify.com/album/7hgekZLPc8OHgk8kAaPkel) | 3:27 |
 | 34 | [While We're Young](https://open.spotify.com/track/4mL59LVbKgOpEACxraGYdr) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Trip](https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k) | 3:56 |
 | 35 | [Easily](https://open.spotify.com/track/0RnxpSzxzwZgFQ0NahQr9K) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [A Song For Every Moon](https://open.spotify.com/album/3IGPQEGAiZZI4Iba81GNq5) | 3:30 |
 | 36 | [PERSIAN RUGS](https://open.spotify.com/track/02UJ1sCanP94fS2MdsWafh) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYPACK](https://open.spotify.com/album/3CPGfq4GT326ZiecqegH2t) | 2:54 |
@@ -95,10 +95,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gIoKXt0gmx.md) - [plain]
 | 85 | [Coming Down \(with Ari Lennox\)](https://open.spotify.com/track/3p2HpO3ZgvFs97L15hGZOn) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [D\-Day: A Gangsta Grillz Mixtape](https://open.spotify.com/album/3tFjhFPqGhhLrCULnPu7Wy) | 2:36 |
 | 86 | [Take Care of You \(feat\. Syd\)](https://open.spotify.com/track/2ENxOXbxhfJ3lfItO0MFDv) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Take Care of You / Summertime](https://open.spotify.com/album/1TOxhqUtnHSJHnOqRlVxQa) | 3:34 |
 | 87 | [Don't Say](https://open.spotify.com/track/3zpV1pF29S3jPGNY1J8HZo) | [Jex Nwalor](https://open.spotify.com/artist/1D4bP2qFi4EcC4ZdBgH5F8) | [Don't Say](https://open.spotify.com/album/3t1AbuJrkCU4c8LnWLJMUZ) | 2:35 |
-| 88 | [Letter To Ur N\(ex\)t](https://open.spotify.com/track/4LjOVLoj6OrrNJktFTYPGK) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Letter To Ur Ex](https://open.spotify.com/album/4IHthCcvRUuVuKtlclVSBY) | 2:14 |
+| 88 | [Time Machine](https://open.spotify.com/track/37S1u9dpiGeBO80Lk9msLy) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 3:42 |
 | 89 | [What A Lie](https://open.spotify.com/track/1VI7GQmBBgdslV3tQRvsRD) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ) | [What A Lie](https://open.spotify.com/album/3YYUucEXwtTJC0FWcpqrB4) | 3:48 |
-| 90 | [Intoxicated Truth](https://open.spotify.com/track/52iaQGkgAtc4bwr1iAiVaq) | [Masati](https://open.spotify.com/artist/6Ca21SJ709vzZufDLMQakl) | [Intoxicated Truth](https://open.spotify.com/album/2XKDY407hdliXUT6i3Bcxm) | 2:56 |
-| 91 | [Time Machine](https://open.spotify.com/track/37S1u9dpiGeBO80Lk9msLy) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 3:42 |
+| 90 | [Letter To Ur N\(ex\)t](https://open.spotify.com/track/4LjOVLoj6OrrNJktFTYPGK) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Letter To Ur Ex](https://open.spotify.com/album/4IHthCcvRUuVuKtlclVSBY) | 2:14 |
+| 91 | [Intoxicated Truth](https://open.spotify.com/track/52iaQGkgAtc4bwr1iAiVaq) | [Masati](https://open.spotify.com/artist/6Ca21SJ709vzZufDLMQakl) | [Intoxicated Truth](https://open.spotify.com/album/2XKDY407hdliXUT6i3Bcxm) | 2:56 |
 | 92 | [Be the One \- Remix](https://open.spotify.com/track/63BNGz21SvLvqmcPLXPDqr) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo), [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc) | [Be the One \(Remix\) \(feat\. Col3trane\)](https://open.spotify.com/album/0Ty7JL2JlfjVR9jXtnKIdy) | 3:11 |
 | 93 | [Goofy](https://open.spotify.com/track/1A5hxo3hCF6FxBunEoKWcS) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Goofy](https://open.spotify.com/album/5JB8bhuOvIwo2CAYUPinmW) | 3:21 |
 | 94 | [Come and See Me \(feat\. Drake\)](https://open.spotify.com/track/5KdhJG3BXUmLoO4JdycCPw) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Come and See Me \(feat\. Drake\)](https://open.spotify.com/album/0kKVLuYfFt1VSxaFSP0Cxb) | 3:55 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gIoKXt0gmx.md) - [plain]
 | 99 | [Lifetime](https://open.spotify.com/track/0QZnyONVa7pEq115ZjkFNV) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [Lifetime](https://open.spotify.com/album/27qgpTqm1Zkhgnis7bgjjC) | 3:09 |
 | 100 | [Between The Lines](https://open.spotify.com/track/1xVXwe9tzL11euCkfupQES) | [Gwen Bunn](https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg), [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [Between The Lines](https://open.spotify.com/album/6lCouTlJCmzbCAysQCYXls) | 3:43 |
 
-Snapshot ID: `MTY2ODA5OTIyOSwwMDAwMDAwMDE2OTIwN2Y0ZmNmZjVkYzBlNzBjYmIyYmVjZjBhZTI2`
+Snapshot ID: `MTY2ODA5OTIyOSwwMDAwMDAwMDU2YmFjNzVkNDVhYmE1MzZlNDlkNTAwYWYwMWQ0MzJh`

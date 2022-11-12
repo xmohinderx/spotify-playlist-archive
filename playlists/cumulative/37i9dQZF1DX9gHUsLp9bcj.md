@@ -4,7 +4,7 @@
 
 > This is the Latin soundtrack of the 50s! Cover:  Pérez Prado
 
-76 songs - 3 hr 40 min - [published](https://open.spotify.com/playlist/2JLVudCCZX4xzcl0Sm4jlC)
+77 songs - 3 hr 43 min - [published](https://open.spotify.com/playlist/2JLVudCCZX4xzcl0Sm4jlC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,8 +76,9 @@
 | [Tu castigo \(live version, remastered\)](https://open.spotify.com/track/1DeQzgxICzRO0ALwlFNOqd) | [Lola Beltrán](https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p) | [Lola Beltrán En Directo Desde El Palacio De Bellas Artes De México](https://open.spotify.com/album/590WBW8HLOYjuvdeqOoYTW) | 3:11 | 2022-08-31 |  |
 | [Tú, solo tú](https://open.spotify.com/track/1sQ5nok0rccMPmAyGdQzvt) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [60 Rancheras Inmortales](https://open.spotify.com/album/7r20ZE4dXhmE7Ldc9sGeok) | 3:17 | 2022-01-01 |  |
 | [Usted](https://open.spotify.com/track/20NBwMxhtHrNgnWFIlNeP4) | [Los Tres Diamantes](https://open.spotify.com/artist/1xw1uyV0tzUHU2d850PAH1) | [Canciones De Amor](https://open.spotify.com/album/0aqqz67nPmidIqCUfaO69n) | 3:14 | 2022-01-01 |  |
-| [Vaya Con Dios](https://open.spotify.com/track/4qDzXNAvShqtZtG87bajiB) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Mexican Love Songs](https://open.spotify.com/album/6RVVjKPl18XM1KR5Hf8ldV) | 2:41 | 2022-01-01 |  |
+| [Vaya Con Dios](https://open.spotify.com/track/4qDzXNAvShqtZtG87bajiB) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Mexican Love Songs](https://open.spotify.com/album/6RVVjKPl18XM1KR5Hf8ldV) | 2:41 | 2022-01-01 | 2022-11-12 |
 | [Vaya Con Dios](https://open.spotify.com/track/2Do8R4fmmgDHkva5rl3hEx) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Trio los Panchos](https://open.spotify.com/album/0gv3injd2puX7pu6CMvBAq) | 2:41 | 2022-01-01 | 2022-07-29 |
+| [Vaya Con Dios \- Remastered](https://open.spotify.com/track/2ggwAeJfXcKaHHR1rsxpR7) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Aquellos Boleros \(Remastered\)](https://open.spotify.com/album/4QniKzfLDT06NGzEB5lGKf) | 2:44 | 2022-08-31 |  |
 | [Viajera](https://open.spotify.com/track/3Nsn3y2IpzcuDIKZDgS3oS) | [Luis Arcaraz Y Su Orquesta](https://open.spotify.com/artist/5XFKOAxf3r9rhqWOnVVVDg) | [Cita Con Luis Arcaraz](https://open.spotify.com/album/2yhhV6GIC9dLiSJ0olcUdE) | 3:17 | 2022-01-01 |  |
 | [Violetas Imperiales](https://open.spotify.com/track/1U9XfOxsCfuPk3J1Xak9QQ) | [Luis Mariano](https://open.spotify.com/artist/10bAcf3bvLnCoePvmT7fyG) | [Las Canciones de Luis Mariano](https://open.spotify.com/album/1bdNIETtvmNfOHGw08CMKR) | 3:31 | 2022-01-01 | 2022-11-11 |
 | [Violetas Imperiales](https://open.spotify.com/track/78AoGsUdZx3a4ymoSu465r) | [Luis Mariano](https://open.spotify.com/artist/10bAcf3bvLnCoePvmT7fyG) | [Exitos](https://open.spotify.com/album/25ZE2WbBSvLAJTxRNZqKHY) | 3:31 | 2022-01-01 | 2022-07-29 |

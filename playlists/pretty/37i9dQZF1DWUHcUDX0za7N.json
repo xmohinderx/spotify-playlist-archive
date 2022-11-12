@@ -1,12 +1,12 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover:<a href=\"https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W?si=EllDDQAVS4yqcJZIYteRcg\" > Blaqbonez </a> ",
-  "num_followers": 11793,
+  "num_followers": 11841,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzU0ODk2MiwwMDAwMDAwMDE5NGZlZWM3Mzg3YTE0NGRiZGZiZDdiZWFjODFkN2Iy",
+  "snapshot_id": "MTY2NzU0ODk2MiwwMDAwMDAwMDY1OTY4NzEzMzMwNTlhNzQ5MjZlMWViOWJlYzljZmNl",
   "tracks": [
     {
       "added_at": "2022-10-07 00:35:02",
@@ -597,26 +597,6 @@
       "url": "https://open.spotify.com/track/6qFHXH6EmEjL5t56fDNN73"
     },
     {
-      "added_at": "2022-09-01 23:00:00",
-      "album": {
-        "name": "Mama Maradona",
-        "url": "https://open.spotify.com/album/4ZtZwFfgzEMn4pyy5SuJ8y"
-      },
-      "artists": [
-        {
-          "name": "Vector",
-          "url": "https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1"
-        },
-        {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Mama Maradona",
-      "url": "https://open.spotify.com/track/11bQsRKQ9z0acI4klPQoQr"
-    },
-    {
       "added_at": "2022-06-09 23:00:00",
       "album": {
         "name": "Providence",
@@ -635,6 +615,26 @@
       "duration_ms": 186923,
       "name": "Afro Jigga",
       "url": "https://open.spotify.com/track/4z48XG61raE7WwbtJdIvqe"
+    },
+    {
+      "added_at": "2022-09-01 23:00:00",
+      "album": {
+        "name": "Mama Maradona",
+        "url": "https://open.spotify.com/album/4ZtZwFfgzEMn4pyy5SuJ8y"
+      },
+      "artists": [
+        {
+          "name": "Vector",
+          "url": "https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1"
+        },
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Mama Maradona",
+      "url": "https://open.spotify.com/track/11bQsRKQ9z0acI4klPQoQr"
     },
     {
       "added_at": "2022-06-23 23:00:00",

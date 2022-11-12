@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Music by female\-identifying musicians ONLY! Cover: <a href=“spotify:artist:1GDbiv3spRmZ1XdM1jQbT7”>Natti Natasha</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,387 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,456 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 20 | [Made You Look](https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 2:14 |
 | 21 | [Shirt](https://open.spotify.com/track/34ZAzO78a5DAVNrYIGWcPm) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Shirt](https://open.spotify.com/album/6Kqm5aSp69hTaOHTx38hsD) | 3:01 |
 | 22 | [Tomorrow 2 \(with Cardi B\)](https://open.spotify.com/track/7KXVIAuw3m2hxZanrpSXS3) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Tomorrow 2 \(with Cardi B\)](https://open.spotify.com/album/5o1xUBd8aM7qFhjlBXiIpb) | 3:29 |
-| 23 | [uh oh](https://open.spotify.com/track/6qmvAJSUfVGMubvI2awW7p) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [uh oh](https://open.spotify.com/album/0m9hqW0RDEHPNXxhiFUGSq) | 2:49 |
-| 24 | [i'm yours](https://open.spotify.com/track/37vVp2sWHuuIBOSl1NswP6) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [i'm yours](https://open.spotify.com/album/3Q25UtV9pHu7onNcKwmmZ3) | 2:25 |
+| 23 | [i'm yours](https://open.spotify.com/track/37vVp2sWHuuIBOSl1NswP6) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [i'm yours](https://open.spotify.com/album/3Q25UtV9pHu7onNcKwmmZ3) | 2:25 |
+| 24 | [uh oh](https://open.spotify.com/track/6qmvAJSUfVGMubvI2awW7p) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [uh oh](https://open.spotify.com/album/0m9hqW0RDEHPNXxhiFUGSq) | 2:49 |
 | 25 | [This Is Why](https://open.spotify.com/track/7z84Fwf1R3Z2BwHCP620CI) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/1BDj5lr0KVcSQpSNdyqJct) | 3:27 |
 | 26 | [Nonsense](https://open.spotify.com/track/6dgUya35uo964z7GZXM07g) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 2:43 |
 | 27 | [Locksmith](https://open.spotify.com/track/4HcARAxzsbIB3MqiEkejM6) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Locksmith](https://open.spotify.com/album/1XsMFyyPhYodMoE8V0SMkl) | 2:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 49 | [Out of My Head](https://open.spotify.com/track/0skzpcFSNcuEJitJrilsRM) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [A Feeling That Never Came](https://open.spotify.com/album/4YKGoja0xZXazCOIDFeLsF) | 3:33 |
 | 50 | [Magic](https://open.spotify.com/track/2TYjPIYOSoQ3Mu3ojzL0uD) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG), [Baby Sol](https://open.spotify.com/artist/2f6oNClshLxDWI8rrVm6wQ) | [Magic](https://open.spotify.com/album/0LOQJEGmChTbhp9SH5FpLc) | 2:39 |
 
-Snapshot ID: `MTY2NzQwNDE5OCwwMDAwMDAwMGMxNTc2ZTZiN2Y1MjhjNTI5YmUzOWE4ZTUxZmQ4ZmJj`
+Snapshot ID: `MTY2NzQwNDE5OCwwMDAwMDAwMDMzODhhZDliNjM2Nzg5YmUyNTljMzIyZmUxMDU3ZWUy`

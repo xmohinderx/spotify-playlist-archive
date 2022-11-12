@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdePw2uBvpYa.md) - [plain]
 
 > <a href="https://linktr.ee/PunkaBristol">Punka</a> creates a safe space for the alternative scene with their club night at the heart of Bristol’s LGBTQIA+ community.\. This is their sound of Pride\. Photography: Delirium and Proper Job Productions
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,113 likes - 52 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,116 likes - 52 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdePw2uBvpYa.md) - [plain]
 | 2 | [Deceptacon](https://open.spotify.com/track/5773KSWFzg9kCc8yazjbSt) | [Le Tigre](https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM) | [Le Tigre](https://open.spotify.com/album/0dSSZGzoukzrFBnG07J45i) | 3:04 |
 | 3 | [Standing In the Way of Control](https://open.spotify.com/track/0hd4rC19ldUBmabhSHxiwS) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [Standing in the Way of Control](https://open.spotify.com/album/7kT3bu386sQNmb8C6GS1Dr) | 4:16 |
 | 4 | [Love Someone Else](https://open.spotify.com/track/5v40kyxnNxfk3NZ4myxsyI) | [Skunk Anansie](https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF) | [Anarchytecture](https://open.spotify.com/album/2QXfiilYaHKvKk1Lqj3T97) | 3:31 |
-| 5 | [Let's Make Love and Listen to Death From Above](https://open.spotify.com/track/1Jd9W7k8DTnBSovDSxK77n) | [CSS](https://open.spotify.com/artist/2K13AVg3bFpHSxDM1vJ0qA) | [Cansei De Ser Sexy](https://open.spotify.com/album/4hE0UliYSCQiItKmKRDBaD) | 3:31 |
+| 5 | [Let's Make Love and Listen to Death From Above](https://open.spotify.com/track/5KLE0X8eNk19rORfCDoJgD) | [CSS](https://open.spotify.com/artist/2K13AVg3bFpHSxDM1vJ0qA) | [Let's Make Love And Listen To Death From Above](https://open.spotify.com/album/5iaa3h5dYAAZ4lmghf3syq) | 3:31 |
 | 6 | [Fall Asleep](https://open.spotify.com/track/0PZQWlZ4A8CSD1f9P9xoTx) | [Big Joanie](https://open.spotify.com/artist/39cxr26gqrCiUgIkz4lA8j) | [Sistahs](https://open.spotify.com/album/7pToEE1w4P0UAMqhaPxoQr) | 2:56 |
 | 7 | [Edge of Seventeen](https://open.spotify.com/track/2id8E4WvczfKHB4LHI7Np3) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Crystal Visions...The Very Best of Stevie Nicks](https://open.spotify.com/album/7q0dYnAjmqZBJLhMBre8aL) | 5:29 |
 | 8 | [Rebel Girl](https://open.spotify.com/track/0XyjtybwqSdqMAFfBEkmZf) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [The Punk Singer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7DoTlKAupC8rNAdb0tNmZ2) | 2:37 |
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdePw2uBvpYa.md) - [plain]
 | 19 | [On the Regular](https://open.spotify.com/track/4bjLjHXJWkDXL51QTEK349) | [Shamir](https://open.spotify.com/artist/7JgXEHI1oEiQICAMeCsKTj) | [Divines \(Bande originale du film\)](https://open.spotify.com/album/3hlsBIswjzNIdheMLnrGKU) | 2:58 |
 | 20 | [We Will Not Be Silenced](https://open.spotify.com/track/11SbBTZqnJdXMXNEVzR1ZU) | [BYENARY](https://open.spotify.com/artist/71oNWBlOliaNGbOIEsd8gj), [Chuck SJ](https://open.spotify.com/artist/6dR1uTMK72X8Nn1ElKaWyh) | [Byenary](https://open.spotify.com/album/43rIalSUK09aueuDllsari) | 5:09 |
 | 21 | [Oh Bondage! Up Yours!](https://open.spotify.com/track/7weMJXfu8leOPWd4COj2Qp) | [X\-Ray Spex](https://open.spotify.com/artist/5BgWMOdEUJYdUBH3WXfMWt) | [Germ Free Adolescents: The Anthology](https://open.spotify.com/album/0eafkMUkZUVKr02M9F4te9) | 2:51 |
-| 22 | [Heads Will Roll](https://open.spotify.com/track/4WiIscpBgQFm5qIyjoH7M4) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz!](https://open.spotify.com/album/4dBMwYZJ84lj8HRTdL8Toj) | 3:41 |
+| 22 | [Heads Will Roll](https://open.spotify.com/track/1YaOIrutGLebjpneXgQqol) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Spring Breakers 2021](https://open.spotify.com/album/3mc7YfYD6vojcREl0OA6Ly) | 3:41 |
 | 23 | [Spellbound](https://open.spotify.com/track/145n1vo3ytXLjgHMqeCKaE) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Halloween Songs](https://open.spotify.com/album/6gkjZRDaSatdlwp9ZMtIzu) | 3:17 |
 | 24 | [Bad Reputation](https://open.spotify.com/track/5UGCoJvoAyKkK51ShNcJS3) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Bad Reputation \(Music from the Original Motion Picture\)](https://open.spotify.com/album/46KKwNIi7LBEh5Nr5unCja) | 2:47 |
 | 25 | [Dancing On My Own](https://open.spotify.com/track/3Rc2ajBMInxeNGVkMPC92Y) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Body Talk Pt\. 1](https://open.spotify.com/album/4ektWErsV6EIxW0jBWq1Jn) | 4:45 |
@@ -55,10 +55,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdePw2uBvpYa.md) - [plain]
 | 45 | [Chickens](https://open.spotify.com/track/5hnktvtMR96jGKA54FEi7U) | [Forrest Flowers](https://open.spotify.com/artist/6dpJaK0AIrYLSHi4UFeeA8) | [Chickens](https://open.spotify.com/album/1aDGrlOO5aCxtArveJH8fI) | 4:20 |
 | 46 | [Feel Me?](https://open.spotify.com/track/1tK0yRqjlCvEJ46vouBg87) | [Beefywink](https://open.spotify.com/artist/1wpwwyRDliuWyKf7IEohjC) | [Dance in the Deluge](https://open.spotify.com/album/0nOkXiotfFqGlESwEofd2w) | 3:29 |
 | 47 | [Small Talk](https://open.spotify.com/track/2rfQjAZYGJU1VyED79QTI1) | [Grandmas House](https://open.spotify.com/artist/6BFppN7DZ1DR7zFyNTj7Nv) | [Always Happy / Small Talk](https://open.spotify.com/album/2Zj7Z47Sk8tzbJsm2H7cL0) | 1:36 |
-| 48 | [Somebody](https://open.spotify.com/track/4ygF0U1GZSmrvVnoKhBRur) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [Dream Wife](https://open.spotify.com/album/0fFlloNPNem2XOi4AeU5ty) | 3:29 |
+| 48 | [Somebody](https://open.spotify.com/track/6uRLeaoBrxr8AaTXnLSlgS) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [Somebody](https://open.spotify.com/album/45EqNmQsfluL4ePkiYiK2R) | 3:29 |
 | 49 | [Swimming](https://open.spotify.com/track/4WxxNEMDFe5wm1VVI0MqTJ) | [Sprints](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Swimming](https://open.spotify.com/album/6DSj1MDSdglIUOlo8RrZ5c) | 3:21 |
 | 50 | [the one](https://open.spotify.com/track/0c7IjvXMGszP0tlHpcc8p8) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [Any Human Friend](https://open.spotify.com/album/7bv80mLhewTyKFyHlUBYev) | 3:37 |
 | 51 | [The Best](https://open.spotify.com/track/6fekGHLJPWZQZQhPJgcJfl) | [Self Esteem](https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe) | [Compliments Please \(Deluxe\)](https://open.spotify.com/album/1HkSxzhUUhZBEhgLSYenex) | 3:50 |
 | 52 | [What's Up?](https://open.spotify.com/track/0jWgAnTrNZmOGmqgvHhZEm) | [4 Non Blondes](https://open.spotify.com/artist/0Je74SitssvJg1w4Ra2EK7) | [Bigger, Better, Faster, More !](https://open.spotify.com/album/2P8M5eo4zWFD0JJtH4D0iA) | 4:55 |
 
-Snapshot ID: `MTYyMjYzNjkwMSwwMDAwMDAwMDYyM2JhMmYxNjdhMDk4NDNhOWQ0OTk2Yzk4ZWY2M2Jk`
+Snapshot ID: `MTYyMjYzNjkwMSwwMDAwMDAwMDcwODg5YWUxZTUxMDQ5NjRhYjRkOGFmNjVlMTgxNjVl`

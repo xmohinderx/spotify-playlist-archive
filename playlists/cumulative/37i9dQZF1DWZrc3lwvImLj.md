@@ -4,7 +4,7 @@
 
 > Beautifully sad piano music
 
-237 songs - 10 hr 41 min - [published](https://open.spotify.com/playlist/0bGmdUzxwndch2yv1y7eLw)
+238 songs - 10 hr 43 min - [published](https://open.spotify.com/playlist/0bGmdUzxwndch2yv1y7eLw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,8 @@
 | [lei sogna di noi](https://open.spotify.com/track/2myAatrsAXWSYBCJzphYle) | [Zeppi](https://open.spotify.com/artist/1s7kBMoO84Vhl5aYQx4LOO) | [lei sogna di noi](https://open.spotify.com/album/6hEEE80InjpeOtNaMxFTu5) | 2:00 | 2021-12-14 |  |
 | [Leiting](https://open.spotify.com/track/1PX6YVAs4nULKjBpuFSrUR) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Leiting](https://open.spotify.com/album/0E0k45Lz3OaMJSwtI5cPSd) | 2:38 | 2022-04-22 |  |
 | [Like Before](https://open.spotify.com/track/4gh3kOpFSQPn6jGOI0gZPm) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Like Before](https://open.spotify.com/album/7KG32lDHhYrznuU2EXHJPp) | 2:15 | 2021-12-14 | 2022-04-15 |
-| [Lillian](https://open.spotify.com/track/5lcjalUNbHaaSvXRTtYd1p) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP), [Søren Tarding](https://open.spotify.com/artist/1bHfoau7ud3dvN33mMtzuj) | [Mursejler](https://open.spotify.com/album/4fQTzcMpCxxpajM3dMUqID) | 2:07 | 2022-07-28 |  |
+| [Lillian](https://open.spotify.com/track/4cwSFF1hXI78ZTmREh6Yww) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP), [Søren Tarding](https://open.spotify.com/artist/1bHfoau7ud3dvN33mMtzuj) | [Lillian](https://open.spotify.com/album/76qmoKhO9fwNsUh1BOcnPf) | 2:07 | 2022-09-23 |  |
+| [Lillian](https://open.spotify.com/track/5lcjalUNbHaaSvXRTtYd1p) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP), [Søren Tarding](https://open.spotify.com/artist/1bHfoau7ud3dvN33mMtzuj) | [Mursejler](https://open.spotify.com/album/4fQTzcMpCxxpajM3dMUqID) | 2:07 | 2022-07-28 | 2022-11-12 |
 | [Lillian](https://open.spotify.com/track/6DGMmL7Y0CG0OFEvRepJpq) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP), [Søren Tarding](https://open.spotify.com/artist/1bHfoau7ud3dvN33mMtzuj) | [Lillian](https://open.spotify.com/album/0E6zHfeSuibVbeFZQR5v4A) | 2:07 | 2021-12-14 | 2022-07-29 |
 | [Longing For Yesterday](https://open.spotify.com/track/6dHlvIZhsp3Ts3MUsyudKa) | [Charles Weathersby](https://open.spotify.com/artist/3PTjnqoKl6QVBWt7bSrhMz) | [Longing For Yesterday](https://open.spotify.com/album/05JFGW1xgW0McGf9EiQl0v) | 3:37 | 2021-12-14 | 2022-04-15 |
 | [Lost Time](https://open.spotify.com/track/1nJE8TEWK9hf9Bl0pekJCi) | [Javi Lobe](https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT) | [Lost Time](https://open.spotify.com/album/07lpIaggNhyyr47EJdGhDB) | 2:20 | 2021-12-14 | 2022-05-21 |

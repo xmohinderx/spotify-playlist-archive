@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96qtxaNwhT.md) - [plain]
 
 > Soak up the serenity with these beautiful melodies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,250 likes - 88 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,267 likes - 88 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,12 +83,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96qtxaNwhT.md) - [plain]
 | 73 | [see you later \(ten years\)](https://open.spotify.com/track/6tJ5lE3OZ4Rd7KYExupx66) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [Easy 20's](https://open.spotify.com/album/57zfO6YukeUdyQMR2rnpLx) | 3:08 |
 | 74 | [Sooner](https://open.spotify.com/track/45z1TVyovToPnkuEKSgTPx) | [Thomston](https://open.spotify.com/artist/0VQKssIfRKfSd7IfW3JIP1) | [Sooner](https://open.spotify.com/album/5786eFf3UrHXrA1KEnuYDM) | 2:38 |
 | 75 | [Drunk Sleeping In Taxis](https://open.spotify.com/track/6JsTJ7ScTRdqz2yotO5aNe) | [Valentina Ploy](https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e) | [Drunk Sleeping In Taxis](https://open.spotify.com/album/0SHth88PCHEHHhf2nysItm) | 3:33 |
-| 76 | [Sentimental](https://open.spotify.com/track/61VZLH1gv19xeKByFm8c0o) | [GRAACE](https://open.spotify.com/artist/4nqqGSsclFchZXaiafOYyV) | [Sentimental](https://open.spotify.com/album/3hIHz8gFHs3P1TTOE6WhAV) | 3:11 |
+| 76 | [Sentimental](https://open.spotify.com/track/6xO4jMsKnQgnbt7AMnsIh9) | [GRAACE](https://open.spotify.com/artist/4nqqGSsclFchZXaiafOYyV) | [Self Preservation](https://open.spotify.com/album/4F1hweOR3EvXq0VxMm6bUF) | 3:11 |
 | 77 | [Floating](https://open.spotify.com/track/0g0tS35UJaSLRqS025rZHw) | [Chevy](https://open.spotify.com/artist/0lhcAgqzhRZuhHTXJsilSc) | [Floating](https://open.spotify.com/album/1p02y0dX11Mpo3K6Qx7Sad) | 4:00 |
 | 78 | [that way \- with Jeremy Zucker](https://open.spotify.com/track/6W4SftknKhWj0iFoHN7aYU) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [that way \(with Jeremy Zucker\)](https://open.spotify.com/album/0XiGU8X2kdQscNbohqwyIs) | 2:54 |
 | 79 | [Movie](https://open.spotify.com/track/61iHQQn1NT0nqvqLdO5jjY) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [A World Gone By](https://open.spotify.com/album/1v6uXxqTdAlPttUpBFesB8) | 4:07 |
 | 80 | [Darling](https://open.spotify.com/track/39nc7C7C7iIJtVAlNznst7) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [If I Can’t Have Love, I Want Power](https://open.spotify.com/album/3sq0hRtlT2SYeYajr5Cx22) | 3:02 |
-| 81 | [Panic at the Party](https://open.spotify.com/track/24vkQwXidlMB5SEoZEU2pi) | [Ash Lune](https://open.spotify.com/artist/4qGkfdK3YS6jr5oIQ0AkQI) | [Panic at the Party](https://open.spotify.com/album/4b7o70zLLuzU6s304X3R2e) | 3:27 |
+| 81 | [Panic at the Party](https://open.spotify.com/track/4jHXM4Gl8Q1destKiqkvq8) | [Ash Lune](https://open.spotify.com/artist/4qGkfdK3YS6jr5oIQ0AkQI) | [Broken Science Experiments](https://open.spotify.com/album/3jkUlShc18penGegtaFT2g) | 3:27 |
 | 82 | [Here's Your Perfect](https://open.spotify.com/track/2aTKrdenCq5qBOoJPFdn4P) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Here's Your Perfect](https://open.spotify.com/album/6yNuKzr4GNs1c7Kpdf7c5w) | 2:38 |
 | 83 | [Hopeless Romantics](https://open.spotify.com/track/0zn5Sa8fRjpUo7XXUaNRTB) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Hopeless Romantics](https://open.spotify.com/album/4caqBOEvibGE77J3LaRrzK) | 2:59 |
 | 84 | [Let Go](https://open.spotify.com/track/6C4iAGKybEdevddZklaxpX) | [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K) | [Let Go](https://open.spotify.com/album/24lCE3skRS14egP6xhAIjr) | 3:02 |
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96qtxaNwhT.md) - [plain]
 | 87 | [happy for you](https://open.spotify.com/track/27KDaaYxMJgJcyixSP7oHO) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [happy for you](https://open.spotify.com/album/7ICy7rPZmqu9weXb8j5LrB) | 2:45 |
 | 88 | [Lose Myself](https://open.spotify.com/track/53luLYwmUbed7o5GyaapIo) | [Abby Wolfe](https://open.spotify.com/artist/3cawuvrU0C4K3p3trV7bPd) | [Lose Myself](https://open.spotify.com/album/6xebwTs10OktQp1jCuNpQ8) | 3:19 |
 
-Snapshot ID: `MTY2NzQ4MDQwMCwwMDAwMDAwMDIxNzUxY2JiZjExNTcxMzhkOWIxMzMwZmE3ZTdkNzgy`
+Snapshot ID: `MTY2NzQ4MDQwMCwwMDAwMDAwMDljYTYxYjJhMzQ1OGU2MDQ4MGRiMTcwMDgzZjJiMjY2`

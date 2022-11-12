@@ -1,12 +1,12 @@
 {
   "description": "Musica dance per le tue giornate di sole!",
-  "num_followers": 91557,
+  "num_followers": 91556,
   "original_name": "Voglia di Sole",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjMyNDg2MCwwMDAwMDAwMDQzYzJjNGMyOWI5ZTYzYzc3Y2E2NjFjNjVjN2E1MTk2",
+  "snapshot_id": "MTY2NjMyNDg2MCwwMDAwMDAwMDM2YjM5M2Y5M2ZjNGM4MzkzZWY4Zjk0ODA0MDg4Mjhk",
   "tracks": [
     {
       "added_at": "2022-10-21 04:01:00",
@@ -211,26 +211,6 @@
     {
       "added_at": "2022-10-21 04:01:00",
       "album": {
-        "name": "AEIOU",
-        "url": "https://open.spotify.com/album/4J8uihMqMcLWlhz6DsGdJK"
-      },
-      "artists": [
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        },
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        }
-      ],
-      "duration_ms": 161880,
-      "name": "AEIOU",
-      "url": "https://open.spotify.com/track/1c2vVx6knoiZHXbJJ9Mk8L"
-    },
-    {
-      "added_at": "2022-10-21 04:01:00",
-      "album": {
         "name": "Sick Boy",
         "url": "https://open.spotify.com/album/6ZvDJs17O3woQirttKRYCG"
       },
@@ -247,6 +227,26 @@
       "duration_ms": 197946,
       "name": "This Feeling",
       "url": "https://open.spotify.com/track/4NBTZtAt1F13VvlSKe6KTl"
+    },
+    {
+      "added_at": "2022-10-21 04:01:00",
+      "album": {
+        "name": "AEIOU",
+        "url": "https://open.spotify.com/album/4J8uihMqMcLWlhz6DsGdJK"
+      },
+      "artists": [
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "duration_ms": 161880,
+      "name": "AEIOU",
+      "url": "https://open.spotify.com/track/1c2vVx6knoiZHXbJJ9Mk8L"
     },
     {
       "added_at": "2022-10-21 04:01:00",
@@ -731,6 +731,22 @@
     {
       "added_at": "2022-10-21 04:01:00",
       "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/48rrtJw6xklCA9GIV3Eb2L"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        }
+      ],
+      "duration_ms": 193018,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/7HXBG0W8gFJwHUh5mVF9tf"
+    },
+    {
+      "added_at": "2022-10-21 04:01:00",
+      "album": {
         "name": "You Were Loved (with OneRepublic)",
         "url": "https://open.spotify.com/album/6fSPZKwEPxrHfQcdLz83EY"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 221885,
       "name": "You Were Loved (with OneRepublic)",
       "url": "https://open.spotify.com/track/4W1JavoraGzh83nluQHY6C"
-    },
-    {
-      "added_at": "2022-10-21 04:01:00",
-      "album": {
-        "name": "Rise",
-        "url": "https://open.spotify.com/album/48rrtJw6xklCA9GIV3Eb2L"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        }
-      ],
-      "duration_ms": 193018,
-      "name": "Rise",
-      "url": "https://open.spotify.com/track/7HXBG0W8gFJwHUh5mVF9tf"
     },
     {
       "added_at": "2022-10-21 04:01:00",
@@ -855,6 +855,26 @@
     {
       "added_at": "2022-10-21 04:01:00",
       "album": {
+        "name": "Caught Up (with Olivia O'Brien)",
+        "url": "https://open.spotify.com/album/39tWJL4zNgNhc8ndiUEaa6"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "Olivia O'Brien",
+          "url": "https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp"
+        }
+      ],
+      "duration_ms": 173214,
+      "name": "Caught Up (with Olivia O'Brien)",
+      "url": "https://open.spotify.com/track/0sPrs9vLFdRRTllqlwL4v1"
+    },
+    {
+      "added_at": "2022-10-21 04:01:00",
+      "album": {
         "name": "Malibu",
         "url": "https://open.spotify.com/album/4l4ahZ5gAr9b0uowo6am33"
       },
@@ -875,26 +895,6 @@
     {
       "added_at": "2022-10-21 04:01:00",
       "album": {
-        "name": "I Found You",
-        "url": "https://open.spotify.com/album/377h4vWvsEO8dcErH6z0DQ"
-      },
-      "artists": [
-        {
-          "name": "Cash Cash",
-          "url": "https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF"
-        },
-        {
-          "name": "Andy Grammer",
-          "url": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
-        }
-      ],
-      "duration_ms": 167307,
-      "name": "I Found You",
-      "url": "https://open.spotify.com/track/3wYOGJYD31sLRmBgCvWxa4"
-    },
-    {
-      "added_at": "2022-10-21 04:01:00",
-      "album": {
         "name": "Kissed by the Sun",
         "url": "https://open.spotify.com/album/5NRS1J7Ri5Ic1SAOx0xihE"
       },
@@ -911,22 +911,22 @@
     {
       "added_at": "2022-10-21 04:01:00",
       "album": {
-        "name": "Caught Up (with Olivia O'Brien)",
-        "url": "https://open.spotify.com/album/39tWJL4zNgNhc8ndiUEaa6"
+        "name": "I Found You",
+        "url": "https://open.spotify.com/album/377h4vWvsEO8dcErH6z0DQ"
       },
       "artists": [
         {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+          "name": "Cash Cash",
+          "url": "https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF"
         },
         {
-          "name": "Olivia O'Brien",
-          "url": "https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp"
+          "name": "Andy Grammer",
+          "url": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
         }
       ],
-      "duration_ms": 173214,
-      "name": "Caught Up (with Olivia O'Brien)",
-      "url": "https://open.spotify.com/track/0sPrs9vLFdRRTllqlwL4v1"
+      "duration_ms": 167307,
+      "name": "I Found You",
+      "url": "https://open.spotify.com/track/3wYOGJYD31sLRmBgCvWxa4"
     },
     {
       "added_at": "2022-10-21 04:01:00",
@@ -987,6 +987,22 @@
     {
       "added_at": "2022-10-21 04:01:00",
       "album": {
+        "name": "Broken & Beautiful",
+        "url": "https://open.spotify.com/album/5UHs9Jq0Vy5E3eUdkgcZvj"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "duration_ms": 218948,
+      "name": "Broken & Beautiful",
+      "url": "https://open.spotify.com/track/1Y9cAYTmyWJCcmfqdG2I29"
+    },
+    {
+      "added_at": "2022-10-21 04:01:00",
+      "album": {
         "name": "Leave A Little Love",
         "url": "https://open.spotify.com/album/7x6hV80YBk3pWE4of9Q23y"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 187029,
       "name": "Leave A Little Love",
       "url": "https://open.spotify.com/track/5pmbZWt1lYVMvZ12MSdtqF"
-    },
-    {
-      "added_at": "2022-10-21 04:01:00",
-      "album": {
-        "name": "Broken & Beautiful",
-        "url": "https://open.spotify.com/album/5UHs9Jq0Vy5E3eUdkgcZvj"
-      },
-      "artists": [
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        }
-      ],
-      "duration_ms": 218948,
-      "name": "Broken & Beautiful",
-      "url": "https://open.spotify.com/track/1Y9cAYTmyWJCcmfqdG2I29"
     },
     {
       "added_at": "2022-10-21 04:01:00",
@@ -1119,26 +1119,6 @@
       "duration_ms": 172143,
       "name": "i miss u (with Au/Ra)",
       "url": "https://open.spotify.com/track/7CH8J4ulT49UfZwSDSkSZA"
-    },
-    {
-      "added_at": "2022-10-21 04:01:00",
-      "album": {
-        "name": "Diplo Presents Thomas Wesley Chapter 1: Snake Oil",
-        "url": "https://open.spotify.com/album/24EiVoJXLPY9a6a7AqZNDg"
-      },
-      "artists": [
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 139809,
-      "name": "Lonely (with Jonas Brothers)",
-      "url": "https://open.spotify.com/track/6eXFl418w8hsxKcLgv1jwJ"
     },
     {
       "added_at": "2022-10-21 04:01:00",
@@ -1391,22 +1371,22 @@
     {
       "added_at": "2022-10-21 04:01:00",
       "album": {
-        "name": "Tears In Ibiza (feat. AR/CO)",
-        "url": "https://open.spotify.com/album/3j1gIUlWUvy3ihysDQUYpg"
+        "name": "NOTED...EP",
+        "url": "https://open.spotify.com/album/6AMjHESQyOiW52JfQC8PEm"
       },
       "artists": [
         {
-          "name": "The Stickmen Project",
-          "url": "https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY"
+          "name": "NOTD",
+          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
         },
         {
-          "name": "AR/CO",
-          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
+          "name": "kenzie",
+          "url": "https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg"
         }
       ],
-      "duration_ms": 143579,
-      "name": "Tears In Ibiza (feat. AR/CO)",
-      "url": "https://open.spotify.com/track/7A0xA68c4NiTvbWWAsIsoN"
+      "duration_ms": 158104,
+      "name": "Worst Thing",
+      "url": "https://open.spotify.com/track/1gfDK5vVyqja5EI6O3MJO9"
     },
     {
       "added_at": "2022-10-21 04:01:00",
@@ -1431,26 +1411,6 @@
     {
       "added_at": "2022-10-21 04:01:00",
       "album": {
-        "name": "NOTED...EP",
-        "url": "https://open.spotify.com/album/6AMjHESQyOiW52JfQC8PEm"
-      },
-      "artists": [
-        {
-          "name": "NOTD",
-          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
-        },
-        {
-          "name": "kenzie",
-          "url": "https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg"
-        }
-      ],
-      "duration_ms": 158104,
-      "name": "Worst Thing",
-      "url": "https://open.spotify.com/track/1gfDK5vVyqja5EI6O3MJO9"
-    },
-    {
-      "added_at": "2022-10-21 04:01:00",
-      "album": {
         "name": "Motion",
         "url": "https://open.spotify.com/album/0XrwWR8YPTfrboiAS3Dp8O"
       },
@@ -1463,6 +1423,26 @@
       "duration_ms": 187990,
       "name": "Motion",
       "url": "https://open.spotify.com/track/1YGVpvE7hKdqNArudG04Ll"
+    },
+    {
+      "added_at": "2022-10-21 04:01:00",
+      "album": {
+        "name": "Tears In Ibiza (feat. AR/CO)",
+        "url": "https://open.spotify.com/album/3j1gIUlWUvy3ihysDQUYpg"
+      },
+      "artists": [
+        {
+          "name": "The Stickmen Project",
+          "url": "https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY"
+        },
+        {
+          "name": "AR/CO",
+          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
+        }
+      ],
+      "duration_ms": 143579,
+      "name": "Tears In Ibiza (feat. AR/CO)",
+      "url": "https://open.spotify.com/track/7A0xA68c4NiTvbWWAsIsoN"
     },
     {
       "added_at": "2022-10-21 04:01:00",
@@ -1619,26 +1599,6 @@
     {
       "added_at": "2022-10-21 04:01:00",
       "album": {
-        "name": "Breathe (feat. kaspara)",
-        "url": "https://open.spotify.com/album/5MYFonEyI51lu0JHBpSRfK"
-      },
-      "artists": [
-        {
-          "name": "Syn Cole",
-          "url": "https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH"
-        },
-        {
-          "name": "Kaspara",
-          "url": "https://open.spotify.com/artist/4DTvSNQv43222tg1K7C8k2"
-        }
-      ],
-      "duration_ms": 175081,
-      "name": "Breathe (feat. kaspara)",
-      "url": "https://open.spotify.com/track/7pDdE5FLqcNCvjxzRzm80r"
-    },
-    {
-      "added_at": "2022-10-21 04:01:00",
-      "album": {
         "name": "Only For The Better",
         "url": "https://open.spotify.com/album/2YCkfABSqmSv2hW2v9w3Vl"
       },
@@ -1655,6 +1615,26 @@
       "duration_ms": 168297,
       "name": "Only For The Better",
       "url": "https://open.spotify.com/track/2XI5yPRHlAg2a2xZtlTbpI"
+    },
+    {
+      "added_at": "2022-10-21 04:01:00",
+      "album": {
+        "name": "Breathe (feat. kaspara)",
+        "url": "https://open.spotify.com/album/5MYFonEyI51lu0JHBpSRfK"
+      },
+      "artists": [
+        {
+          "name": "Syn Cole",
+          "url": "https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH"
+        },
+        {
+          "name": "Kaspara",
+          "url": "https://open.spotify.com/artist/4DTvSNQv43222tg1K7C8k2"
+        }
+      ],
+      "duration_ms": 175081,
+      "name": "Breathe (feat. kaspara)",
+      "url": "https://open.spotify.com/track/7pDdE5FLqcNCvjxzRzm80r"
     },
     {
       "added_at": "2022-10-21 04:01:00",
@@ -1951,6 +1931,26 @@
     {
       "added_at": "2022-10-21 04:01:00",
       "album": {
+        "name": "Better Day (feat. Aloe Blacc)",
+        "url": "https://open.spotify.com/album/5f5QrP11Otp3kH67kC9tTa"
+      },
+      "artists": [
+        {
+          "name": "Young Bombs",
+          "url": "https://open.spotify.com/artist/4LKB1IkCINDDjEX8iS7glI"
+        },
+        {
+          "name": "Aloe Blacc",
+          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
+        }
+      ],
+      "duration_ms": 191785,
+      "name": "Better Day (feat. Aloe Blacc)",
+      "url": "https://open.spotify.com/track/5NeFmsnXBy6xVbz8pesM5l"
+    },
+    {
+      "added_at": "2022-10-21 04:01:00",
+      "album": {
         "name": "Feel My Love (feat. Joe Taylor)",
         "url": "https://open.spotify.com/album/6AkPuZVT0sJXVCw8XFENnz"
       },
@@ -1975,22 +1975,18 @@
     {
       "added_at": "2022-10-21 04:01:00",
       "album": {
-        "name": "Better Day (feat. Aloe Blacc)",
-        "url": "https://open.spotify.com/album/5f5QrP11Otp3kH67kC9tTa"
+        "name": "Parrot Cay",
+        "url": "https://open.spotify.com/album/7I50ZlgGYtuzeag3GuR20S"
       },
       "artists": [
         {
-          "name": "Young Bombs",
-          "url": "https://open.spotify.com/artist/4LKB1IkCINDDjEX8iS7glI"
-        },
-        {
-          "name": "Aloe Blacc",
-          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
+          "name": "Deep Chills",
+          "url": "https://open.spotify.com/artist/12rBrcOPP50qIan8ew4iTP"
         }
       ],
-      "duration_ms": 191785,
-      "name": "Better Day (feat. Aloe Blacc)",
-      "url": "https://open.spotify.com/track/5NeFmsnXBy6xVbz8pesM5l"
+      "duration_ms": 160343,
+      "name": "Parrot Cay",
+      "url": "https://open.spotify.com/track/24CU3VcY0KpF4frH20OY4x"
     }
   ],
   "unique_name": "Voglia di Sole",

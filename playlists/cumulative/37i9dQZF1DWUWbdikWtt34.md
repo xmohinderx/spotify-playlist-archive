@@ -2,7 +2,7 @@
 
 ### [Dangdut Top](https://open.spotify.com/playlist/37i9dQZF1DWUWbdikWtt34)
 
-> Dendang Dangdut teratas\. Cover: Ndarboy Genk
+> Dendang Dangdut teratas\. Cover: Woro Widowati
 
 71 songs - 5 hr 23 min - [published](https://open.spotify.com/playlist/1yAqlhTjbO2NhUlQfp8LqL)
 

@@ -4,7 +4,7 @@
 
 > Bands from and songs about The Golden State\. Here's your playlist for California Dreamin'
 
-136 songs - 8 hr 42 min - [published](https://open.spotify.com/playlist/4SbwVdVItzfdu5SIZ5qyZY)
+138 songs - 8 hr 49 min - [published](https://open.spotify.com/playlist/4SbwVdVItzfdu5SIZ5qyZY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,10 +111,12 @@
 | [Pumped Up Kicks](https://open.spotify.com/track/7w87IxuO7BDcJ3YUqCyMTT) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Torches](https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT) | 3:59 | 2018-09-09 |  |
 | [Saints of Los Angeles](https://open.spotify.com/track/3X9dVZIEva7gODLCk3csnc) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Saints of Los Angeles](https://open.spotify.com/album/10fAGbgRYyt8gMk5QyPPXn) | 3:22 | 2022-02-04 |  |
 | [Saints of Los Angeles](https://open.spotify.com/track/4pruGLEd2plhfOmusGTGdq) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Saints of Los Angeles](https://open.spotify.com/album/1szPcdrUkYLmzFAtzt671u) | 3:22 | 2018-09-09 | 2022-07-29 |
-| [Santeria](https://open.spotify.com/track/2hnMS47jN0etwvFPzYk11f) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Sublime](https://open.spotify.com/album/14eK347GdWO4mBBx78tsut) | 3:02 | 2022-02-04 |  |
+| [Santeria](https://open.spotify.com/track/2hnMS47jN0etwvFPzYk11f) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Sublime](https://open.spotify.com/album/14eK347GdWO4mBBx78tsut) | 3:02 | 2022-02-04 | 2022-11-12 |
 | [Santeria](https://open.spotify.com/track/2Z2vOukzwOgqR4dkymRSWd) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Sublime](https://open.spotify.com/album/4R3tXoorBpHji6Jdms8a4Q) | 3:03 | 2018-09-09 | 2022-07-29 |
-| [Scars](https://open.spotify.com/track/1UREw2MCfU0xwBzCAjxlUD) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Getting Away With Murder](https://open.spotify.com/album/25wlsi7SWD8mFKxaEWGYuL) | 3:28 | 2022-02-04 |  |
+| [Santeria](https://open.spotify.com/track/0ARZGqAgmhfttwEgHTwrFt) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [90s Rock Hits](https://open.spotify.com/album/5DELeJnBojemtXbEgl1aIh) | 3:03 | 2022-02-04 |  |
+| [Scars](https://open.spotify.com/track/1UREw2MCfU0xwBzCAjxlUD) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Getting Away With Murder](https://open.spotify.com/album/25wlsi7SWD8mFKxaEWGYuL) | 3:28 | 2022-02-04 | 2022-11-12 |
 | [Scars](https://open.spotify.com/track/3To8Litlj8OXR4nZjkuKYx) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [To Be Loved: The Best Of Papa Roach \(Explicit Version\)](https://open.spotify.com/album/03n4EmWNweUARTWYtmlPqt) | 3:28 | 2018-09-09 | 2022-07-29 |
+| [Scars](https://open.spotify.com/track/0tTOJU73D6D4eIPUnRnssI) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Punk Music](https://open.spotify.com/album/3Pca1TfQuqUzUIhN0JjD0A) | 3:29 | 2022-02-04 |  |
 | [Semi\-Charmed Life](https://open.spotify.com/track/42et6fnHCw1HIPSrdPprMl) | [Third Eye Blind](https://open.spotify.com/artist/6TcnmlCSxihzWOQJ8k0rNS) | [Third Eye Blind](https://open.spotify.com/album/2gToC0XAblE9h3UZD6aAaQ) | 4:28 | 2018-09-09 |  |
 | [Something to Believe In](https://open.spotify.com/track/6L3VWDPDTQkQFkqvmpAUMU) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Home of the Strange](https://open.spotify.com/album/3PYk8e7eo2t5CA1Y3AvhaG) | 3:48 | 2018-09-09 |  |
 | [Somewhere I Belong](https://open.spotify.com/track/3agtg0x11wPvLIWkYR39nZ) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora](https://open.spotify.com/album/4Gfnly5CzMJQqkUFfoHaP3) | 3:33 | 2022-02-04 |  |

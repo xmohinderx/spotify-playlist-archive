@@ -1899,7 +1899,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 212531,
       "name": "Haja Ma Doum",
       "url": "https://open.spotify.com/track/5mLY8dRJv0jLTTJCJmDu1l"
@@ -3323,6 +3323,24 @@
       "duration_ms": 268590,
       "name": "Msh Ehna",
       "url": "https://open.spotify.com/track/7tUBGJe8TiaaxStkbDKO2W"
+    },
+    {
+      "album": {
+        "name": "Rehla",
+        "url": "https://open.spotify.com/album/1AKWEhi7d7BBKke6iT5lPp"
+      },
+      "artists": [
+        {
+          "name": "Shahd El Shaarawy",
+          "url": "https://open.spotify.com/artist/5AMkRmTIvyPJZl6qtP6wnP"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182662,
+      "name": "Msh Mestahla",
+      "url": "https://open.spotify.com/track/2Saem8GPcYbBbnaUaSHOAF"
     },
     {
       "album": {

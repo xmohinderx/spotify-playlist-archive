@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FZ2SWo5dTJ.md) - [plain]
 
 > Soundtrack your 2022 resolutions with Jeanette Jenkins.
 
-[Spotify](https://open.spotify.com/user/spotify) - 834 likes - 32 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 833 likes - 32 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FZ2SWo5dTJ.md) - [plain]
 | 21 | [This Woman's Work \- Remastered 2021](https://open.spotify.com/track/741OE401HO7ZCaPhEqCZ7w) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [Now](https://open.spotify.com/album/3Ul8Nyuzr2AEwE8iSrQepC) | 4:00 |
 | 22 | [Redemption Song](https://open.spotify.com/track/7MKcM6TfaGKQVFfhstCbOw) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Legend \- The Best Of Bob Marley And The Wailers](https://open.spotify.com/album/4jKeipwuUTjlx9USNYdhZn) | 3:47 |
 | 23 | [Welcome To Africa](https://open.spotify.com/track/2zKX7B5GyI813KejUGLIdL) | [African Tribal Orchestra](https://open.spotify.com/artist/2dDL0E2g6X3Mz7LFRDYw2K) | [African Dream Lounge \- Volume 2](https://open.spotify.com/album/32ylYbjhA0LV88jVRIOsyx) | 5:49 |
-| 24 | [Mavinga](https://open.spotify.com/track/6gFV9RfdDkn8OoS79XcbH4) | [Lulendo](https://open.spotify.com/artist/75lrOChDQcL9UxlunX6rFX) | [Soul of Africa](https://open.spotify.com/album/1gXlHPuQjK7K2nVuTTSoUk) | 3:43 |
+| 24 | [Mavinga](https://open.spotify.com/track/1pIZQi4p11qQDOcZfyrKm4) | [Lulendo](https://open.spotify.com/artist/75lrOChDQcL9UxlunX6rFX) | [Buddhattitude \- Alaafiya](https://open.spotify.com/album/5Ckzuy2ABABhHMUL6gkZ3n) | 3:40 |
 | 25 | [Sundown in Madagaskar](https://open.spotify.com/track/6YfJqxSdyTjeRuTAAH5fCq) | [African Tribal Orchestra](https://open.spotify.com/artist/2dDL0E2g6X3Mz7LFRDYw2K) | [Buddhattitude \- Alaafiya](https://open.spotify.com/album/5Ckzuy2ABABhHMUL6gkZ3n) | 5:29 |
 | 26 | [Back to Marrakech](https://open.spotify.com/track/3JbLisvckoTIFwjYOeND0m) | [Buddha\-Bar](https://open.spotify.com/artist/2X2QKxpUF4yemFqILMoZUQ), [Buddhattitude](https://open.spotify.com/artist/3ZcQ1oVtv460swtprVrxwO) | [Buddhattitude Horrya](https://open.spotify.com/album/39LpsyUElYlGzLmRQJU4k2) | 4:50 |
 | 27 | [Amon Ra](https://open.spotify.com/track/0loYWxAfmNvI0RVIwBAMDg) | [Buddha\-Bar](https://open.spotify.com/artist/2X2QKxpUF4yemFqILMoZUQ), [Buddhattitude](https://open.spotify.com/artist/3ZcQ1oVtv460swtprVrxwO) | [Buddhattitude Horrya](https://open.spotify.com/album/39LpsyUElYlGzLmRQJU4k2) | 4:04 |
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FZ2SWo5dTJ.md) - [plain]
 | 31 | [Freedom](https://open.spotify.com/track/7vBmjc8MZg1ocnYlBLfN3Q) | [Buddha\-Bar](https://open.spotify.com/artist/2X2QKxpUF4yemFqILMoZUQ) | [Buddhattitude Freedom](https://open.spotify.com/album/5JygNmF6F1JaV3qQnHBpDZ) | 3:51 |
 | 32 | [Ocean Waves for Meditating, Relaxing and Sleeping](https://open.spotify.com/track/5Si1Ymax4mrE3aHJE9vufU) | [Zen Meditations from a Sleeping Buddha](https://open.spotify.com/artist/0JrQmJVeNxqiV4M1bG5Wxz) | [Ocean Waves for Meditating, Relaxing and Sleeping](https://open.spotify.com/album/7gKWXrj6yIcGiRy9xcAxhA) | 15:12 |
 
-Snapshot ID: `MTY0MjAwMTI5NSwwMDAwMDAwMGRjMmQ3OWRlZjNhZWNlZGM5ODEyYjIyM2Q2NmJjYTk4`
+Snapshot ID: `MTY0MjAwMTI5NSwwMDAwMDAwMDc2MjhkN2Q2MWZiYzk1OTNjNjBhNjJhN2EyOWNlMDJj`

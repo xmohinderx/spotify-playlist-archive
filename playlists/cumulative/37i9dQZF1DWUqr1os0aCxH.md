@@ -4,7 +4,7 @@
 
 > POV: sipping tea in the parlour with your BFF.
 
-46 songs - 3 hr 33 min - [published](https://open.spotify.com/playlist/5DJYnYg7561mcPqgGsjcwT)
+47 songs - 3 hr 37 min - [published](https://open.spotify.com/playlist/5DJYnYg7561mcPqgGsjcwT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,8 @@
 | [Violin Concerto No\. 8 in A minor, Op\. 47 \(Im Form einer Gesangsszene\): 2\. Adagio \- Andante](https://open.spotify.com/track/4VhudZ7oYL1pglNrFbNrsR) | [Louis Spohr](https://open.spotify.com/artist/7MzxeLpsMxTk4HDBG6C7rq), [Hilary Hahn](https://open.spotify.com/artist/5JdT0LYJdlPbTC58p60WTX), [Swedish Radio Symphony Orchestra](https://open.spotify.com/artist/0K6ufQj8JzIZPPkvZrEwJS), [Eije Oue](https://open.spotify.com/artist/7l8HgcLsRg3x9IbeAQjaGz) | [Paganini / Spohr: Violin Concertos](https://open.spotify.com/album/25AXgepRf65ix0N6g7McZI) | 7:44 | 2022-06-29 | 2022-11-11 |
 | [Violin Concerto No.8 in A minor, Op.47 \(Im Form einer Gesangsszene\): 2\. Adagio \- Andante](https://open.spotify.com/track/0Y5N7jqHSVuRcjpxh8yldi) | [Louis Spohr](https://open.spotify.com/artist/7MzxeLpsMxTk4HDBG6C7rq), [Hilary Hahn](https://open.spotify.com/artist/5JdT0LYJdlPbTC58p60WTX), [Swedish Radio Symphony Orchestra](https://open.spotify.com/artist/0K6ufQj8JzIZPPkvZrEwJS), [Eije Oue](https://open.spotify.com/artist/7l8HgcLsRg3x9IbeAQjaGz) | [Paganini / Spohr: Violin Concertos incld\. Listening Guide](https://open.spotify.com/album/52A9oIcEgY9llf0hQ3d0Bb) | 7:44 | 2022-02-04 | 2022-07-29 |
 | [Wandering Jane \(feat\. Jack Liebeck\)](https://open.spotify.com/track/36SQrVxIeTBayrrFFyFTaB) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg), [Jack Liebeck](https://open.spotify.com/artist/4PwrerouUXvowe3ynAOWSP), [Benjamin Wallfisch](https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY) | [Jane Eyre \- Original Motion Picture Soundtrack](https://open.spotify.com/album/4EHO6nIhB0OCyOY2vQ8yqX) | 3:01 | 2022-02-04 | 2022-06-30 |
-| [Widmung, Op\. 25 No\. 1](https://open.spotify.com/track/2ml2xRwuFLv7NtDPzyssfL) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Martin James Bartlett](https://open.spotify.com/artist/6zWfzjBaMu0anAw2kHMW0O) | [Work \- Schumann](https://open.spotify.com/album/5NJMInZ0UluhhyLiIpwnWT) | 3:57 | 2022-06-29 |  |
+| [Widmung, Op\. 25 No\. 1](https://open.spotify.com/track/2ml2xRwuFLv7NtDPzyssfL) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Martin James Bartlett](https://open.spotify.com/artist/6zWfzjBaMu0anAw2kHMW0O) | [Work \- Schumann](https://open.spotify.com/album/5NJMInZ0UluhhyLiIpwnWT) | 3:57 | 2022-06-29 | 2022-11-12 |
+| [Widmung, Op\. 25 No\. 1](https://open.spotify.com/track/2rbB9tFpJdjAkO9XHf0AJZ) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Martin James Bartlett](https://open.spotify.com/artist/6zWfzjBaMu0anAw2kHMW0O) | [Sleep with Classical Music](https://open.spotify.com/album/4YgrKIpn8eZNvGSm4dz7xT) | 3:57 | 2022-10-03 |  |
 | [You Would Be My Wife](https://open.spotify.com/track/0ZqHBAapHJM5cj6jxeKg3i) | [Rachel Portman](https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR) | [Belle \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2WgjiEBqV1iHgCSKxp7k9K) | 2:19 | 2022-02-04 | 2022-07-29 |
 | [You Would Be My Wife](https://open.spotify.com/track/2RF6jQVYX0p1LhPwLuU6QN) | [Rachel Portman](https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR) | [Belle \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6lw4LFv3wp9ONOeMmGjARK) | 2:19 | 2022-06-29 |  |
 

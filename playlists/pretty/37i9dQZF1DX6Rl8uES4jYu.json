@@ -1,64 +1,28 @@
 {
   "description": "This fun, upbeat playlist will help get you up and ready to start your day! ",
-  "num_followers": 235711,
+  "num_followers": 235715,
   "original_name": "Ready for the Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzUzNDQwMCwwMDAwMDAwMGFkMjgwYzQyNWVkNGUwYjFkMDVhZTUyYjc0ZGJmOWEz",
+  "snapshot_id": "MTY2ODE0Mjg2MCwwMDAwMDAwMDU0ZGNlYjViNmI0N2FlNjRkYzg1NGEzZDlmYzk5MDA2",
   "tracks": [
     {
-      "added_at": "2022-11-04 04:00:00",
+      "added_at": "2022-11-11 05:01:00",
       "album": {
-        "name": "Never Gonna Not Dance Again",
-        "url": "https://open.spotify.com/album/6MCHSjoEVriUjWE6LERAaR"
+        "name": "Stop This Feeling",
+        "url": "https://open.spotify.com/album/7xss4hIieMAnRHZgz8k6bF"
       },
       "artists": [
         {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+          "name": "Jordin Sparks",
+          "url": "https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz"
         }
       ],
-      "duration_ms": 225789,
-      "name": "Never Gonna Not Dance Again",
-      "url": "https://open.spotify.com/track/6sZo5nJIsFWXefRCCexpx0"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Motion (with Yot Club)",
-        "url": "https://open.spotify.com/album/5qyXiUhjL3q4sVPtWHm6TR"
-      },
-      "artists": [
-        {
-          "name": "Smallpools",
-          "url": "https://open.spotify.com/artist/4iiQabGKtS2RtTKpVkrVTw"
-        },
-        {
-          "name": "Yot Club",
-          "url": "https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR"
-        }
-      ],
-      "duration_ms": 179695,
-      "name": "Motion (with Yot Club)",
-      "url": "https://open.spotify.com/track/1X0EgBQrXoMlOyWNjBWs2U"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Good Day",
-        "url": "https://open.spotify.com/album/1HSgWrfiiWkMNUr8abCu1c"
-      },
-      "artists": [
-        {
-          "name": "Jake Scott",
-          "url": "https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV"
-        }
-      ],
-      "duration_ms": 173983,
-      "name": "Good Day",
-      "url": "https://open.spotify.com/track/0FEXQUgIG0X2rhdT3nuQ3M"
+      "duration_ms": 178000,
+      "name": "Stop This Feeling",
+      "url": "https://open.spotify.com/track/2JRQQZzxZ9X0Mlq92q0jSy"
     },
     {
       "added_at": "2022-04-15 04:02:00",
@@ -153,6 +117,22 @@
       "url": "https://open.spotify.com/track/5XemvyG79fcKPl5lgbhplq"
     },
     {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Never Gonna Not Dance Again",
+        "url": "https://open.spotify.com/album/6MCHSjoEVriUjWE6LERAaR"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 225789,
+      "name": "Never Gonna Not Dance Again",
+      "url": "https://open.spotify.com/track/6sZo5nJIsFWXefRCCexpx0"
+    },
+    {
       "added_at": "2022-02-04 05:00:00",
       "album": {
         "name": "LAst dAy oN EaRTh",
@@ -183,22 +163,6 @@
       "duration_ms": 178780,
       "name": "I Can't Help But Feel",
       "url": "https://open.spotify.com/track/40gooTta3y4FgzXaMOGDJL"
-    },
-    {
-      "added_at": "2022-07-15 04:02:00",
-      "album": {
-        "name": "Special",
-        "url": "https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 187107,
-      "name": "2 Be Loved (Am I Ready)",
-      "url": "https://open.spotify.com/track/2rmwqU7yzTvzkiaRV53DpT"
     },
     {
       "added_at": "2022-07-15 04:02:00",
@@ -243,6 +207,22 @@
       "duration_ms": 187026,
       "name": "Kids Are Born Stars",
       "url": "https://open.spotify.com/track/2pD74s7WAlBWUXjrTsKgdS"
+    },
+    {
+      "added_at": "2022-07-15 04:02:00",
+      "album": {
+        "name": "Special",
+        "url": "https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 187107,
+      "name": "2 Be Loved (Am I Ready)",
+      "url": "https://open.spotify.com/track/2rmwqU7yzTvzkiaRV53DpT"
     },
     {
       "added_at": "2022-06-10 04:02:00",
@@ -343,6 +323,22 @@
       "duration_ms": 124592,
       "name": "What A Night",
       "url": "https://open.spotify.com/track/3FUlqltjiMMJdyEPaYAUqK"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Good Day",
+        "url": "https://open.spotify.com/album/1HSgWrfiiWkMNUr8abCu1c"
+      },
+      "artists": [
+        {
+          "name": "Jake Scott",
+          "url": "https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV"
+        }
+      ],
+      "duration_ms": 173983,
+      "name": "Good Day",
+      "url": "https://open.spotify.com/track/0FEXQUgIG0X2rhdT3nuQ3M"
     },
     {
       "added_at": "2022-06-10 04:02:00",
@@ -669,6 +665,22 @@
       "url": "https://open.spotify.com/track/3554a1PUfDZs7rKJzRhZmp"
     },
     {
+      "added_at": "2022-05-13 04:02:00",
+      "album": {
+        "name": "Automatic",
+        "url": "https://open.spotify.com/album/7rqgcPmIqrwJFbtKy165yo"
+      },
+      "artists": [
+        {
+          "name": "Jessica Mauboy",
+          "url": "https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673"
+        }
+      ],
+      "duration_ms": 217767,
+      "name": "Automatic",
+      "url": "https://open.spotify.com/track/7m9YbOeFNU0mpvGaPV53L3"
+    },
+    {
       "added_at": "2022-09-23 04:00:00",
       "album": {
         "name": "Moonlight",
@@ -687,38 +699,6 @@
       "duration_ms": 188853,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/5FMaHFAPTjeWvym1F3IoGb"
-    },
-    {
-      "added_at": "2022-05-13 04:02:00",
-      "album": {
-        "name": "Automatic",
-        "url": "https://open.spotify.com/album/7rqgcPmIqrwJFbtKy165yo"
-      },
-      "artists": [
-        {
-          "name": "Jessica Mauboy",
-          "url": "https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673"
-        }
-      ],
-      "duration_ms": 217767,
-      "name": "Automatic",
-      "url": "https://open.spotify.com/track/7m9YbOeFNU0mpvGaPV53L3"
-    },
-    {
-      "added_at": "2021-09-21 15:07:50",
-      "album": {
-        "name": "Friends",
-        "url": "https://open.spotify.com/album/1G3k89T6eKqTXU9qbDqmr6"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 204213,
-      "name": "Ashamed",
-      "url": "https://open.spotify.com/track/6V5dtTAY64G0bIzQAdxuEl"
     },
     {
       "added_at": "2021-09-21 15:07:50",
@@ -759,6 +739,26 @@
       "duration_ms": 137798,
       "name": "Making it Right",
       "url": "https://open.spotify.com/track/6Hjy33Aku74bDdbLWhe6U6"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Motion (with Yot Club)",
+        "url": "https://open.spotify.com/album/5qyXiUhjL3q4sVPtWHm6TR"
+      },
+      "artists": [
+        {
+          "name": "Smallpools",
+          "url": "https://open.spotify.com/artist/4iiQabGKtS2RtTKpVkrVTw"
+        },
+        {
+          "name": "Yot Club",
+          "url": "https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR"
+        }
+      ],
+      "duration_ms": 179695,
+      "name": "Motion (with Yot Club)",
+      "url": "https://open.spotify.com/track/1X0EgBQrXoMlOyWNjBWs2U"
     },
     {
       "added_at": "2022-02-18 05:02:00",
@@ -1025,50 +1025,6 @@
       "url": "https://open.spotify.com/track/5mdOo5OClzyz4kgdiek8Pu"
     },
     {
-      "added_at": "2021-09-21 15:07:50",
-      "album": {
-        "name": "WE ARE",
-        "url": "https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE"
-      },
-      "artists": [
-        {
-          "name": "Jon Batiste",
-          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
-        },
-        {
-          "name": "St. Augustine High School Marching 100",
-          "url": "https://open.spotify.com/artist/18SOXuqLqS1SPBOZ2t5ZJB"
-        },
-        {
-          "name": "David Gauthier",
-          "url": "https://open.spotify.com/artist/7ml0WXnfI7YHjgCec3GTgw"
-        },
-        {
-          "name": "Gospel Soul Children Choir",
-          "url": "https://open.spotify.com/artist/1gZIyZkzPR9wQ3AaBJTTNr"
-        },
-        {
-          "name": "Craig Adams",
-          "url": "https://open.spotify.com/artist/0DSPskXnLTDYCgSgPM63be"
-        },
-        {
-          "name": "Braedon Gautier",
-          "url": "https://open.spotify.com/artist/6k36C6obWyCGfI3r7sMojy"
-        },
-        {
-          "name": "Brennan Gautier",
-          "url": "https://open.spotify.com/artist/6cQDoD7Xsh6VW8j8GyfEGw"
-        },
-        {
-          "name": "Autumn Rowe",
-          "url": "https://open.spotify.com/artist/3gCzQpKxnHhJgOYpZRcEfH"
-        }
-      ],
-      "duration_ms": 264501,
-      "name": "WE ARE",
-      "url": "https://open.spotify.com/track/3CAUdHOsgijdnNsjO7o7Hd"
-    },
-    {
       "added_at": "2022-10-14 04:00:00",
       "album": {
         "name": "Trust the change",
@@ -1080,7 +1036,7 @@
           "url": "https://open.spotify.com/artist/2IEDOKhzkk1EKk93fZ759r"
         },
         {
-          "name": "J.Lamotta",
+          "name": "J.Lamotta Suzume",
           "url": "https://open.spotify.com/artist/76O0DRobXGao078KT0xci8"
         }
       ],
@@ -1113,22 +1069,6 @@
       "url": "https://open.spotify.com/track/7393MRjmgrJgTuOybJWFB6"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Cruiserweight",
-        "url": "https://open.spotify.com/album/50Yah9QKupPNZNyvbwb5pI"
-      },
-      "artists": [
-        {
-          "name": "The Jack Moves",
-          "url": "https://open.spotify.com/artist/6QR60hk0TiNHphDexqZ6Pp"
-        }
-      ],
-      "duration_ms": 267240,
-      "name": "Lionel Richie",
-      "url": "https://open.spotify.com/track/1EfF2gJNuksJeHXLevKoFf"
-    },
-    {
       "added_at": "2022-04-29 04:02:00",
       "album": {
         "name": "Power Station",
@@ -1147,6 +1087,22 @@
       "duration_ms": 218248,
       "name": "First Avenue",
       "url": "https://open.spotify.com/track/2ICzjmxUrrS0x5YgLqpXqh"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Cruiserweight",
+        "url": "https://open.spotify.com/album/50Yah9QKupPNZNyvbwb5pI"
+      },
+      "artists": [
+        {
+          "name": "The Jack Moves",
+          "url": "https://open.spotify.com/artist/6QR60hk0TiNHphDexqZ6Pp"
+        }
+      ],
+      "duration_ms": 267240,
+      "name": "Lionel Richie",
+      "url": "https://open.spotify.com/track/1EfF2gJNuksJeHXLevKoFf"
     },
     {
       "added_at": "2022-08-12 04:02:00",
@@ -1221,22 +1177,6 @@
       "url": "https://open.spotify.com/track/7Bu6XaIeytnFdLrpMEpdug"
     },
     {
-      "added_at": "2022-03-25 04:01:00",
-      "album": {
-        "name": "Sunset Drive - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/24tiks2kEOLQV4JcE45h74"
-      },
-      "artists": [
-        {
-          "name": "Dreamer Isioma",
-          "url": "https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i"
-        }
-      ],
-      "duration_ms": 193983,
-      "name": "Sunset Drive - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/6LAG03Nr7qRvPSdmrPC5JF"
-    },
-    {
       "added_at": "2021-09-21 15:07:50",
       "album": {
         "name": "Better Man",
@@ -1251,6 +1191,22 @@
       "duration_ms": 196038,
       "name": "Better Man",
       "url": "https://open.spotify.com/track/0V46zmNoXDwkefMNQhR87Q"
+    },
+    {
+      "added_at": "2022-03-25 04:01:00",
+      "album": {
+        "name": "Sunset Drive - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/24tiks2kEOLQV4JcE45h74"
+      },
+      "artists": [
+        {
+          "name": "Dreamer Isioma",
+          "url": "https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i"
+        }
+      ],
+      "duration_ms": 193983,
+      "name": "Sunset Drive - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/6LAG03Nr7qRvPSdmrPC5JF"
     },
     {
       "added_at": "2022-03-25 04:01:00",
@@ -1417,26 +1373,6 @@
       "url": "https://open.spotify.com/track/1s3cQmlsiqoDNsRGyWmUzX"
     },
     {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
-        "name": "Lost & Alive",
-        "url": "https://open.spotify.com/album/6DKdIrezZM0dA2zC8KrAPP"
-      },
-      "artists": [
-        {
-          "name": "Swatkins",
-          "url": "https://open.spotify.com/artist/0HnF3y5xRlNr6eGQmFZgjP"
-        },
-        {
-          "name": "Moorea Masa & the Mood",
-          "url": "https://open.spotify.com/artist/4Hs0J7IFJzXGJLhnytbCfR"
-        }
-      ],
-      "duration_ms": 181330,
-      "name": "Lost & Alive",
-      "url": "https://open.spotify.com/track/5x2BKKfwtydW0HO6NgH2Pi"
-    },
-    {
       "added_at": "2022-03-18 04:01:00",
       "album": {
         "name": "Sacred Place",
@@ -1475,6 +1411,42 @@
       "duration_ms": 241799,
       "name": "Overthinking",
       "url": "https://open.spotify.com/track/1fWCiAD2ZRN9LNdpzYwQo0"
+    },
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
+        "name": "Lost & Alive",
+        "url": "https://open.spotify.com/album/6DKdIrezZM0dA2zC8KrAPP"
+      },
+      "artists": [
+        {
+          "name": "Swatkins",
+          "url": "https://open.spotify.com/artist/0HnF3y5xRlNr6eGQmFZgjP"
+        },
+        {
+          "name": "Moorea Masa & the Mood",
+          "url": "https://open.spotify.com/artist/4Hs0J7IFJzXGJLhnytbCfR"
+        }
+      ],
+      "duration_ms": 181330,
+      "name": "Lost & Alive",
+      "url": "https://open.spotify.com/track/5x2BKKfwtydW0HO6NgH2Pi"
+    },
+    {
+      "added_at": "2022-05-06 04:02:00",
+      "album": {
+        "name": "closure",
+        "url": "https://open.spotify.com/album/41CSc4GOz0mCIjbNcBlVyb"
+      },
+      "artists": [
+        {
+          "name": "Wrabel",
+          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
+        }
+      ],
+      "duration_ms": 182574,
+      "name": "closure",
+      "url": "https://open.spotify.com/track/10B7inTJO0QRBskRuEZ6mr"
     },
     {
       "added_at": "2022-08-12 04:02:00",

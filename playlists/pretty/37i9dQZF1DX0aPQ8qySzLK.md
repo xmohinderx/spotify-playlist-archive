@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aPQ8qySzLK.md) - [plain]
 
 > Our editorial picks for Folk's best of 2021 in Canada\. Cover: Ocie Elliott
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,884 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,889 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aPQ8qySzLK.md) - [plain]
 | 6 | [To the Mountains](https://open.spotify.com/track/4jLxibvYRtzEAiTDvbL9fO) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor) | 3:13 |
 | 7 | [Grow into Love](https://open.spotify.com/track/52AthVA2opex8NcLSwtO8n) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Seasons of Change](https://open.spotify.com/album/74fRgN21qhhAQv43mbCJFq) | 2:42 |
 | 8 | [Soul Mate](https://open.spotify.com/track/4IOXp1xFiMh5FtSEGim4CO) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [our generation](https://open.spotify.com/album/5MEaV6TQEOzV4l3bhwySJx) | 3:57 |
-| 9 | [All the Time](https://open.spotify.com/track/7IkvPENG8NFXxptGXv4koL) | [Mattie Leon](https://open.spotify.com/artist/3hJTvfT20mDphCF1yJsnC0) | [In Natural Light](https://open.spotify.com/album/2rXqhLEZgf7uESXnpAhlMY) | 3:33 |
+| 9 | [All the Time](https://open.spotify.com/track/2ZEfUihEUaHyBEgutzEJeC) | [Mattie Leon](https://open.spotify.com/artist/3hJTvfT20mDphCF1yJsnC0) | [Hallelujah \(I Found You\)](https://open.spotify.com/album/6UAMIJESFsj1L8YfFP9Px7) | 3:33 |
 | 10 | [A Troubled Mind](https://open.spotify.com/track/3onPL6KjCPM0K8wZkDeU7y) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Cape Elizabeth](https://open.spotify.com/album/7rAXvbNQSxnAnVl3taoMLj) | 3:01 |
 | 11 | [The Dark](https://open.spotify.com/track/3s5IOxoe3yc0UINOcZs6n8) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [The Dark](https://open.spotify.com/album/0vthbGW16gu7KsSkEeVDIh) | 4:58 |
 | 12 | [Missing Piece](https://open.spotify.com/track/5YqdiryRmdAzYFlxo43hAJ) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Missing Piece](https://open.spotify.com/album/6zQCdokfVne8dFU5Z5BpS3) | 3:37 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aPQ8qySzLK.md) - [plain]
 | 99 | [Glenfern](https://open.spotify.com/track/1iMPbubqiY90hj16Y69d1D) | [Kathleen Edwards](https://open.spotify.com/artist/7x4So74vIUx3DaLk93JCFf) | [Total Freedom](https://open.spotify.com/album/4r9JtN20velFMF1kKXdey3) | 4:30 |
 | 100 | [Full Size Render](https://open.spotify.com/track/0eNHKjlypkRo1v9HZ8UOdM) | [j ember](https://open.spotify.com/artist/4UUDpbs7gikfzHz0CRvdnv) | [Full Size Render](https://open.spotify.com/album/0n7Wt3JEnLARfOgdCFnxIC) | 2:58 |
 
-Snapshot ID: `MTYzODM2NjMwMCwwMDAwMDAwMGRmODdjNDRhOWU1ZmNlMmY5NmNjY2E4N2NiNGEzNjky`
+Snapshot ID: `MTYzODM2NjMwMCwwMDAwMDAwMDU3Y2FmNmFlMWJhN2Q4NzcyNzg0NDkzYjc1NTRkMzkw`

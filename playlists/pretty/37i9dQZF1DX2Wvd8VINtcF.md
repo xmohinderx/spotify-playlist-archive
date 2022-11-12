@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > the pearls of an oyster.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,495 likes - 99 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,549 likes - 99 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 78 | [Water To The Moon](https://open.spotify.com/track/4OoD2oTiQdH9rQ4pPnIAfT) | [Moglii](https://open.spotify.com/artist/0lIIsJafIVVi3ruN2vFzpS), [Noraa](https://open.spotify.com/artist/3TB54cQWdcg0uDjBoTu6S2) | [Water To The Moon / ok](https://open.spotify.com/album/1q0SuNuVXxZpXdB0YomMBk) | 2:59 |
 | 79 | [SOCIAL MEDIA \(feat\. Trent the HOOLiGAN\)](https://open.spotify.com/track/2avHLHsmBA9QU97o0DrN02) | [MIA GLADSTONE](https://open.spotify.com/artist/6XoXNsXj8wck0oVUNwxcmF), [Trent the HOOLiGAN](https://open.spotify.com/artist/2LqdHOzQiJd0WRn0dcTDe9) | [SOCIAL MEDIA \(feat\. Trent the HOOLiGAN\)](https://open.spotify.com/album/40pw9GBH8CYNjb4tVeLOA8) | 2:39 |
 | 80 | [Dancing On My Grave](https://open.spotify.com/track/5X0z2b3zrMJ6m7KT87Oyze) | [Dresage](https://open.spotify.com/artist/5dFeAUPKdp9Id4E1RYqez2) | [Dancing On My Grave](https://open.spotify.com/album/2fLaEX7vBURZSWHghHdpJb) | 3:19 |
-| 81 | [M1](https://open.spotify.com/track/47WiZ1kbkYGhmKNKjy6cuv) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [COMETA](https://open.spotify.com/album/0RD14xtAc5iZMN8QHKw2Vn) | 3:01 |
+| 81 | [M1](https://open.spotify.com/track/3XhLn2Ed0UrCvkwjcKghxB) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [M1](https://open.spotify.com/album/7jS4q5FI3ZWqbHd8MR491t) | 3:01 |
 | 82 | [Fading Away](https://open.spotify.com/track/6MJz5kRadbyADILsgi9Km4) | [Elaine](https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx) | [Fading Away](https://open.spotify.com/album/2tv1vYb3kL8OENATe7bRFe) | 3:57 |
 | 83 | [Touchdown](https://open.spotify.com/track/6kqbiPlctyDu20K8juNgd1) | [NNAMDÏ](https://open.spotify.com/artist/6gACF5PEinqx3AzMLjiH90) | [Please Have A Seat](https://open.spotify.com/album/1yBhhNIe3FKYZA8J3ds0vf) | 2:09 |
 | 84 | [That's My Baby](https://open.spotify.com/track/0YmhNztwrZtE8Z9dBEhsVy) | [Teenage Priest](https://open.spotify.com/artist/4BzY7yI5iqNP7OmEtO0a34) | [That's My Baby](https://open.spotify.com/album/7sG9uqgduI2WH84fSr5fek) | 2:18 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 98 | [adios](https://open.spotify.com/track/3gfve6BgoTkZK3uBkqttz8) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [adios](https://open.spotify.com/album/3HfZG3EM11UpuzfQxWcHIK) | 3:23 |
 | 99 | [Swim Away](https://open.spotify.com/track/6B9tR5pGZ4xciYuBcGHAFF) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Swim Away](https://open.spotify.com/album/7LRJ2p6pZsXVfKIyZIfaHE) | 3:25 |
 
-Snapshot ID: `MTY2ODExNzYwMSwwMDAwMDAwMGFkOTlkMDE1ZjRmMmQ2ZTBmY2JmY2YxMTM0YTVkOTI5`
+Snapshot ID: `MTY2ODExNzYwMSwwMDAwMDAwMGIzMjEwYmE3MzI1NWNmOGUwNjIyZjU0YWE2M2QyOTRm`

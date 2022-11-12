@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZabLDQymgK1.md) - [plain]
 
 > <ahref="https://www.instagram.com/homoelectric/?hl=en">Homoelectric</a> is a legendary queer\-clubbing utopia, creating a safe space at the heart of Manchester’s LGBTQIA+ scene\. This is their sound of Pride.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,712 likes - 50 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,720 likes - 50 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZabLDQymgK1.md) - [plain]
 | 11 | [Beam Me Up \- Prins Thomas Diskomiks \- Single Edit](https://open.spotify.com/track/63o8AFj8EjvyUvR8Ez01C5) | [Midnight Magic](https://open.spotify.com/artist/3KuNrap7xPWVJCyBHAE4le), [Prins Thomas](https://open.spotify.com/artist/4rsEVNO1tGTY0beCnsnHi6) | [Beam Me Up \(Prins Thomas Diskomiks \- Single Edit\)](https://open.spotify.com/album/49dNYLSLbFUnguSK2XVqfl) | 5:00 |
 | 12 | [Eurodans](https://open.spotify.com/track/5k9kKIMceAfAUHLei43MeM) | [Todd Terje](https://open.spotify.com/artist/49gaZqfow2v8EEQmjGyEIw) | [Eurodans](https://open.spotify.com/album/3lc2aq9bjw8sEHepfcQ7U5) | 5:49 |
 | 13 | [This Time Baby \- Special 12" Version](https://open.spotify.com/track/1Ywkbr13F7cOzwHs8QKknI) | [Jackie Moore](https://open.spotify.com/artist/1EialtL6J5R7O0exgdgQ1w) | [Club Columbia](https://open.spotify.com/album/6g7JRPx6SdrEDLQS2fQcsI) | 7:13 |
-| 14 | [BOURGIE, BOURGIE](https://open.spotify.com/track/1LieR25D1qtdj3TdeCRAzY) | [John Davis & The Monster Orchestra](https://open.spotify.com/artist/4N81xA4vupQhBTvKFHCD36) | [The Monster Strikes Again](https://open.spotify.com/album/3pJ6NLQXBjbpOMw6xptsAR) | 6:12 |
+| 14 | [Bourgie, Bourgie \- Original Mix](https://open.spotify.com/track/1QWNYyZMTOCtrds6F6bH7L) | [John Davis & The Monster Orchestra](https://open.spotify.com/artist/4N81xA4vupQhBTvKFHCD36) | [Bourgie, Bourgie](https://open.spotify.com/album/23R8OiWrISAae5OtHjvccN) | 6:12 |
 | 15 | [Miura](https://open.spotify.com/track/7wu4CDoKfHqbaJCNO2qvza) | [Metro Area](https://open.spotify.com/artist/3KTzs16kNylBR78QZSkiyx) | [Metro Area \(15th Anniversary Edition\)](https://open.spotify.com/album/1sqdqvNwrtex7Y604obpcG) | 6:44 |
 | 16 | [Frank Sinatra](https://open.spotify.com/track/3mK7ll5qJEKgsV3IQtpJJP) | [Miss Kittin](https://open.spotify.com/artist/3QhNv79NoIvarU6N57GBzL), [The Hacker](https://open.spotify.com/artist/763V8ZisRsw5kCoquzKTUp) | [First Album \(2009 Reissue\)](https://open.spotify.com/album/4YSmNOiY47nx2VodZ8N1I8) | 3:55 |
 | 17 | [Washing Up \- Tiga Mix](https://open.spotify.com/track/44ivsSXs37MFy88D4eCU3p) | [Tomas Andersson](https://open.spotify.com/artist/4iSjTOvOgsgONqpSphYvUG) | [Washing Up](https://open.spotify.com/album/4rr8wQDnciFctXhLcq7bZI) | 5:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZabLDQymgK1.md) - [plain]
 | 49 | [Like a Prayer \(Churchapella\)](https://open.spotify.com/track/4UX7TUsMu6QVPoBdpBEEqB) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Like A Prayer](https://open.spotify.com/album/2qmMKmWqpPbsd6dKrZXgSV) | 6:08 |
 | 50 | [Say Hello, Wave Goodbye \- 7" Single Version](https://open.spotify.com/track/0Lx6O1tC3CPF1giLJIt5Jv) | [Soft Cell](https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc) | [Non\-Stop Erotic Cabaret](https://open.spotify.com/album/3KFWViJ1wIHAdOVLFTVzjD) | 5:23 |
 
-Snapshot ID: `MTYyMjY3MDk3NSwwMDAwMDAwMDQ4ZjAyMjU4ZWFlNmMxMWE1ZGYyM2QxZWJjNWY0YjI4`
+Snapshot ID: `MTYyMjY3MDk3NSwwMDAwMDAwMGRmMjQwNjNmN2QwMTFjYjUwYTRhMTdkN2NjYWU0OGE4`

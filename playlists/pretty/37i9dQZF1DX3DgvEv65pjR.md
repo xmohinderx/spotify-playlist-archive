@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DgvEv65pjR.md) - [plain]
 
 > Fancy Hagood co\-curates a list of the very best songs from LGBTQQIA+ artists and allies Music City has to offer!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,441 likes - 40 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,440 likes - 40 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,11 +42,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DgvEv65pjR.md) - [plain]
 | 32 | [Battles](https://open.spotify.com/track/44yKM9BdCTLyuSRWW2twxv) | [Emily West](https://open.spotify.com/artist/20YJEBSWm14EDzjbXNcwDA) | [All For You](https://open.spotify.com/album/4yOZivzG8tdyRPXdXooXRP) | 2:56 |
 | 33 | [Wild Turkey](https://open.spotify.com/track/4aX4dqpYXTxRMTcjekxPyp) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Wild Turkey](https://open.spotify.com/album/7iaq4ZxNNKZl9v92lOxQ7N) | 4:32 |
 | 34 | [Younger Me](https://open.spotify.com/track/5vyONuW3HK0kJQBkrSp25B) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Younger Me](https://open.spotify.com/album/1LQ7jQS8wOaIDcHqjcDet2) | 3:26 |
-| 35 | [look up](https://open.spotify.com/track/0oEji7lz6paMOdk97XEK4Z) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness](https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ) | 3:33 |
+| 35 | [look up](https://open.spotify.com/track/1XO1GBR7sTLAFGHKWuCfTM) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness \(complete\)](https://open.spotify.com/album/7yemOBr0RNb26tsE0lKaDB) | 3:33 |
 | 36 | [Walk Through Fire](https://open.spotify.com/track/3IvY3M6RYfVWTquUxrBudU) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Walk Through Fire \(Deluxe Edition\)](https://open.spotify.com/album/0XOpyZAAkGomyeXBSQcFiL) | 3:47 |
 | 37 | [Oh, What A World](https://open.spotify.com/track/5ToJzoVfLYyF7ohMOBNObi) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 4:01 |
 | 38 | [Oscar Nominated](https://open.spotify.com/track/2lbneLXRIBup57TVfxx3zD) | [James Droll](https://open.spotify.com/artist/3lPtB78D5puSWQ7ltAafQw), [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [Oscar Nominated](https://open.spotify.com/album/72GYmVYgAJg6bg1nTg4woV) | 3:24 |
 | 39 | [All My Worry](https://open.spotify.com/track/1MwEsNbSXgpjmfAN3JMzzS) | [Kate York](https://open.spotify.com/artist/5wONG6j4El6k5iOXQdA0Ha), [Joe Pisapia](https://open.spotify.com/artist/5b3G440uTn9vamEasYG0eH) | [Kate York & Joe Pisapia](https://open.spotify.com/album/05pNWaK791JPgmURl9kWRc) | 4:16 |
 | 40 | [All Good Cowboys](https://open.spotify.com/track/2tGGjVf9IAyXRv9XucKgCs) | [Mercy Bell](https://open.spotify.com/artist/66gM98dnEDRy8GkDmZt0EG) | [Mercy Bell](https://open.spotify.com/album/0DqRo10IE9EQwVM5Uva7l7) | 3:51 |
 
-Snapshot ID: `MTYyMjUyNzIwMCwwMDAwMDAwMDllMjIwMmMwN2Q3M2JkNmNmYzgzNzhjZjQ3ZjAwMGFh`
+Snapshot ID: `MTYyMjUyNzIwMCwwMDAwMDAwMDFlNWVhMDI3NzM1ZjZjMDI5YzMzNDllZjQzODA3YWU1`

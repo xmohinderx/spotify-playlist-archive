@@ -4,7 +4,7 @@
 
 > Questa è la tua notte, balla fino al mattino tra hit dance e ritmi latini.
 
-127 songs - 6 hr 13 min - [published](https://open.spotify.com/playlist/6uLKlMPypBwIRPBuUpYQaw)
+128 songs - 6 hr 17 min - [published](https://open.spotify.com/playlist/6uLKlMPypBwIRPBuUpYQaw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Freed From Desire](https://open.spotify.com/track/3u5N55tHf7hXATSQrjBh2q) | [Gala](https://open.spotify.com/artist/3OqTvcWgb0xaainosGVvuZ) | [Come Into My Life \(The Album\)](https://open.spotify.com/album/3vcwGUl0WiJVssOR1dXEbe) | 3:33 | 2022-07-15 |  |
 | [Friday \(feat\. Mufasa & Hypeman\) \- Dopamine Re\-Edit](https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Nightcrawlers](https://open.spotify.com/artist/1gALaWbNDnwS2ECV09sn2A), [Mufasa & Hypeman](https://open.spotify.com/artist/4L2dV3zY7RmkeiNO035Fi0), [Dopamine](https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN) | [Friday \(feat\. Mufasa & Hypeman\) \[Dopamine Re\-Edit\]](https://open.spotify.com/album/39qsmsNRXjVaFqTZj9af0j) | 2:49 | 2022-05-03 |  |
 | [Friendships \(Lost My Love\)](https://open.spotify.com/track/0lQ2obtzmAsJu9xk3D6FqH) | [Pascal Letoublon](https://open.spotify.com/artist/0oXTS2yHUnuji1R7kc9J9a), [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Friendships \(Lost My Love\)](https://open.spotify.com/album/6AVjuEsz5TVQrOoRGIaicN) | 3:02 | 2022-06-10 | 2022-07-29 |
+| [Giant \(with Rag'n'Bone Man\)](https://open.spotify.com/track/5itOtNx0WxtJmi1TQ3RuRd) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Giant \(with Rag'n'Bone Man\)](https://open.spotify.com/album/4PwXTHenZZx7ebgsnTM65K) | 3:49 | 2022-10-07 |  |
 | [Gimme! Gimme! Gimme! \(A Man After Midnight\)](https://open.spotify.com/track/3Ty6LPBgKjUtTmk14f2Ux4) | [HÄWK](https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady) | [Gimme! Gimme! Gimme! \(A Man After Midnight\)](https://open.spotify.com/album/4fSTEyul9jcFtfkEtgXikM) | 2:56 | 2022-05-03 | 2022-05-26 |
 | [GIRL LIKE ME](https://open.spotify.com/track/1zLBsSVxETQOfINOLYvT5m) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [TRANSLATION](https://open.spotify.com/album/0uxvuY8Ek2ojzHrWTg2PDc) | 3:42 | 2022-07-15 | 2022-08-30 |
 | [Give It To Me \- Full Vocal Mix](https://open.spotify.com/track/5ZduaRci3iNUiDfJbBfAaf) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS) | [Give It To Me \(Full Vocal Mix\)](https://open.spotify.com/album/1jbRY71konakrKvDUiW7Rp) | 1:42 | 2022-07-29 |  |
@@ -67,7 +68,7 @@
 | [In Da Getto](https://open.spotify.com/track/63aj87TQG6F3RVO5nbG2VQ) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [In Da Getto](https://open.spotify.com/album/2M7g0SNXnSq7j5BgYJYJsl) | 2:11 | 2022-07-15 |  |
 | [In My Mind](https://open.spotify.com/track/0E9ZjEAyAwOXZ7wJC0PD33) | [Dynoro](https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n), [Gigi D'Agostino](https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un) | [In My Mind](https://open.spotify.com/album/1c79SozES9Eb3Lzf9KVaIa) | 3:04 | 2022-07-15 |  |
 | [In the Dark](https://open.spotify.com/track/2lGzRg9ccRTa2gllTvy2w7) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [In the Dark](https://open.spotify.com/album/64d2NALUX5nTqpG1Vu3l7x) | 3:05 | 2022-05-03 | 2022-07-29 |
-| [Kings & Queens](https://open.spotify.com/track/7a53HqqArd4b9NF4XAmlbI) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 2:42 | 2022-07-15 |  |
+| [Kings & Queens](https://open.spotify.com/track/7a53HqqArd4b9NF4XAmlbI) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 2:42 | 2022-07-15 | 2022-11-12 |
 | [L'Amour Toujours](https://open.spotify.com/track/52LJ3hyknOijCrE5gCD0rE) | [Gigi D'Agostino](https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un) | [L'Amour Toujours](https://open.spotify.com/album/61hGQNFwmqGHXm5eeMkd4d) | 4:02 | 2022-10-07 |  |
 | [Lipstick](https://open.spotify.com/track/5vaOdnTldKw74qWjezLfRO) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d) | [Lipstick](https://open.spotify.com/album/5ZmMVvnLnqADYlyLcxLy6l) | 3:00 | 2022-05-03 | 2022-07-29 |
 | [Loco](https://open.spotify.com/track/6PDlkWmrq2ZKiUuFt2aQsH) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Loco](https://open.spotify.com/album/0Aq33KpcbXrHkuyfMhEORI) | 3:51 | 2022-05-09 |  |

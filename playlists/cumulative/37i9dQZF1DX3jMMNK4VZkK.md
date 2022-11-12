@@ -4,7 +4,7 @@
 
 > Who runs the world? GIRLS!
 
-136 songs - 8 hr 11 min - [published](https://open.spotify.com/playlist/02YbompUlncE5cgV47VrQg)
+137 songs - 8 hr 15 min - [published](https://open.spotify.com/playlist/02YbompUlncE5cgV47VrQg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,8 +59,9 @@
 | [Let It Go \- From "Frozen"/Soundtrack Version](https://open.spotify.com/track/0qcr5FMsEO85NAQjrlDRKo) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [Frozen \(Original Motion Picture Soundtrack / Deluxe Edition\)](https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0) | 3:43 | 2020-09-29 |  |
 | [Lights Up](https://open.spotify.com/track/3cAvlw0vBcO0td97UqwsQH) | [Jam Jr.](https://open.spotify.com/artist/1XCnotN3MszWUMW7BdXc1u), [SAPPHIRE](https://open.spotify.com/artist/3lszNiPaTVlTlfsGuLgX9J) | [Lights Up](https://open.spotify.com/album/0MbA8tm9TNqagrP5U5AlZW) | 2:41 | 2020-09-29 |  |
 | [Like a Prayer](https://open.spotify.com/track/1z3ugFmUKoCzGsI6jdY4Ci) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 5:42 | 2020-09-29 |  |
+| [Lose You To Love Me](https://open.spotify.com/track/0jCbc081EPMRXTfkfGUDay) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [soft songs to calm you down](https://open.spotify.com/album/7jk7DppYXXIMuQbXv9nc0J) | 3:26 | 2020-09-29 |  |
 | [Lose You To Love Me](https://open.spotify.com/track/1HfMVBKM75vxSfsQ5VefZ5) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Lose You To Love Me](https://open.spotify.com/album/3tBkjgxDqAwss76O1YHsSY) | 3:26 | 2020-09-29 | 2022-07-29 |
-| [Lose You To Love Me](https://open.spotify.com/track/4l0Mvzj72xxOpRrp6h8nHi) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rare](https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx) | 3:26 | 2020-09-29 |  |
+| [Lose You To Love Me](https://open.spotify.com/track/4l0Mvzj72xxOpRrp6h8nHi) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rare](https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx) | 3:26 | 2020-09-29 | 2022-11-12 |
 | [Lovefool](https://open.spotify.com/track/7aQjPecQdIuNd1sz3KCDhD) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [First Band On The Moon \(Remastered\)](https://open.spotify.com/album/56vFkneGivqQcoNQq362iZ) | 3:13 | 2020-09-29 |  |
 | [Loyal Brave True \- From "Mulan"](https://open.spotify.com/track/3gy8PSkBSyvPyWZazgQn0F) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Loyal Brave True \(From "Mulan"\)](https://open.spotify.com/album/4NWqx0yIq00Q7CosV0HUmU) | 2:46 | 2020-09-29 |  |
 | [Luka](https://open.spotify.com/track/5yMXAaSvxo12QkYU75Ixv0) | [Suzanne Vega](https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw) | [Solitude Standing](https://open.spotify.com/album/5w4IN5bPXAQD5iAVPNqvMg) | 3:51 | 2020-09-29 |  |

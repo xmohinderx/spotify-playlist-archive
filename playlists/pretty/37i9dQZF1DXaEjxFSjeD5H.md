@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaEjxFSjeD5H.md) - [plain]
 
 > Nada que un buen danzón no pueda curar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,389 likes - 75 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,423 likes - 75 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,15 +57,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaEjxFSjeD5H.md) - [plain]
 | 47 | [De Canela y Huevo](https://open.spotify.com/track/4vfGT2H5qXI8JTrxlBX51l) | [Alejandro Aguilar Alcántara](https://open.spotify.com/artist/4Dz6TV4oFEQGSK4B33MvCX) | [Danzón Inmortal](https://open.spotify.com/album/6IS3BzJEdTbFGzD6Dcy4TK) | 3:46 |
 | 48 | [La Margarita](https://open.spotify.com/track/5KPmUdqg6aJIXsyPLOQ8Yh) | [Los Mejores Danzones](https://open.spotify.com/artist/1pbqvBcJKRDg0kBwBjtb3s) | [Danzones Salon Mexico](https://open.spotify.com/album/5TfNAJMWwNTle3C3zjkorQ) | 2:59 |
 | 49 | [Ofelia](https://open.spotify.com/track/2coXrhZjBOV8jjwNbpLyf2) | [Mario Álvarez](https://open.spotify.com/artist/3ewwxi1gRlSoYfjaDF5ltV) | [Danzón Inmortal](https://open.spotify.com/album/6IS3BzJEdTbFGzD6Dcy4TK) | 3:31 |
-| 50 | [Murmurando \(Whispering\)](https://open.spotify.com/track/4dyo74hkzmo3r263Cjiw82) | [Luis Arcaraz Y Su Orquesta](https://open.spotify.com/artist/5XFKOAxf3r9rhqWOnVVVDg) | [RCA 100 Años De Musica](https://open.spotify.com/album/0hyUBRhHBjB52XcYczQeGV) | 2:15 |
+| 50 | [Zacatlán](https://open.spotify.com/track/1qtEFTcz3VAdjSEZBbyUbo) | [Carlos Campos](https://open.spotify.com/artist/1MzPCwoMg0jjn8sxGFzF6r) | [Danzón Solo Danzón](https://open.spotify.com/album/444QBsrf18U8O59Ahax2tS) | 4:06 |
 | 51 | [Angélica](https://open.spotify.com/track/0RWQSk38aQTalfBgGLXfCH) | [La Danzonera Joven De México Del "Chamaco Aguilar"](https://open.spotify.com/artist/1EWJ5nqFNqSOw5TmyG1y8W) | [La Danzonera Joven de Mexico del Chamaco Aguilar, Vol\. 2](https://open.spotify.com/album/60Naej3w02R25knHK4eZwr) | 3:37 |
-| 52 | [Emilio Amarra a Tu Perro](https://open.spotify.com/track/19Z4hjmS9nWTQAo1MzWHWC) | [Mariano Merceron](https://open.spotify.com/artist/7vgusS7tDPWgOQsZsfuBx0) | [Danzones a la Manera de...](https://open.spotify.com/album/1gbgLhLOjGK8I4REgPAbLB) | 3:07 |
+| 52 | [Murmurando \(Whispering\)](https://open.spotify.com/track/4dyo74hkzmo3r263Cjiw82) | [Luis Arcaraz Y Su Orquesta](https://open.spotify.com/artist/5XFKOAxf3r9rhqWOnVVVDg) | [RCA 100 Años De Musica](https://open.spotify.com/album/0hyUBRhHBjB52XcYczQeGV) | 2:15 |
 | 53 | [Mi Amigo Pancho](https://open.spotify.com/track/6FbidEnB86nMqQxzzmDirf) | [Orquesta DE Mariano Mercerón](https://open.spotify.com/artist/2QiP8UKq0d7RwNEsuZegjh) | [Centenario del Danzon, Vol\. 1](https://open.spotify.com/album/5QexXHLsuNXFD32m7WQezt) | 3:28 |
 | 54 | [Agustín Lara](https://open.spotify.com/track/3h7gEY56y4nddwrsqqHoPi) | [Danzonera Veracruz](https://open.spotify.com/artist/0oZxiriFYXViKwVXak46sD), [Vicente Labastida Velasco](https://open.spotify.com/artist/5xAmljqquK7Dy5rAIumX8C) | [El Embrujo del Danzón](https://open.spotify.com/album/1XWS6QyxlzoK02wfBvdOge) | 3:36 |
 | 55 | [Hay Que Echar Manteca](https://open.spotify.com/track/2gp3a4KYsboX8thnGHtpmH) | [Danzonera La Playa](https://open.spotify.com/artist/2ABK8pjegUNO3sW2ZXq2X2) | [Dios Mio Amparame](https://open.spotify.com/album/6thL8AWh901D4ACVXuNB6A) | 6:19 |
 | 56 | [El Fotografo de las Estrellas](https://open.spotify.com/track/03aE4kh3RkKnUd3XI6Q1uC) | [La Danzonera Joven De México Del "Chamaco Aguilar"](https://open.spotify.com/artist/1EWJ5nqFNqSOw5TmyG1y8W) | [Auténtico Danzón](https://open.spotify.com/album/1UNE8jXyivdeLYRGmUZbJL) | 2:40 |
-| 57 | [El Bodeguero](https://open.spotify.com/track/5GvH7ajEvnMSXna0r1g4vv) | [Orquesta Aragón](https://open.spotify.com/artist/2jXlqT8v9XIJnKQYRgLvSr) | [Serie 20 Exitos \- Los Grandes De La Musica Tropical](https://open.spotify.com/album/0G0HAGyEGjL9iWzQdaBCfV) | 3:01 |
-| 58 | [Zacatlán](https://open.spotify.com/track/1qtEFTcz3VAdjSEZBbyUbo) | [Carlos Campos](https://open.spotify.com/artist/1MzPCwoMg0jjn8sxGFzF6r) | [Danzón Solo Danzón](https://open.spotify.com/album/444QBsrf18U8O59Ahax2tS) | 4:06 |
+| 57 | [Emilio Amarra a Tu Perro](https://open.spotify.com/track/19Z4hjmS9nWTQAo1MzWHWC) | [Mariano Merceron](https://open.spotify.com/artist/7vgusS7tDPWgOQsZsfuBx0) | [Danzones a la Manera de...](https://open.spotify.com/album/1gbgLhLOjGK8I4REgPAbLB) | 3:07 |
+| 58 | [El Bodeguero](https://open.spotify.com/track/5GvH7ajEvnMSXna0r1g4vv) | [Orquesta Aragón](https://open.spotify.com/artist/2jXlqT8v9XIJnKQYRgLvSr) | [Serie 20 Exitos \- Los Grandes De La Musica Tropical](https://open.spotify.com/album/0G0HAGyEGjL9iWzQdaBCfV) | 3:01 |
 | 59 | [Egipto Heróico](https://open.spotify.com/track/01xlbAqU0ztqPLkuozMYuD) | [La Danzonera Joven De México Del "Chamaco Aguilar"](https://open.spotify.com/artist/1EWJ5nqFNqSOw5TmyG1y8W) | [La Danzonera Joven de Mexico del Chamaco Aguilar, Vol\. 2](https://open.spotify.com/album/60Naej3w02R25knHK4eZwr) | 4:20 |
 | 60 | [Kid Azteca](https://open.spotify.com/track/0gjzQGng626FCeJu9xFfrq) | [Los Mejores Danzones](https://open.spotify.com/artist/1pbqvBcJKRDg0kBwBjtb3s) | [Danzones Salon Mexico](https://open.spotify.com/album/5TfNAJMWwNTle3C3zjkorQ) | 4:33 |
 | 61 | [Los Timbales de Acerina](https://open.spotify.com/track/0GtJmLS2CQDmjT6ePxaBxy) | [Los Mejores Danzones](https://open.spotify.com/artist/1pbqvBcJKRDg0kBwBjtb3s) | [Danzones Salon Mexico](https://open.spotify.com/album/5TfNAJMWwNTle3C3zjkorQ) | 3:00 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaEjxFSjeD5H.md) - [plain]
 | 74 | [El Barbero de Sevilla](https://open.spotify.com/track/3svXZ65sNQsIwHNk4zjeSu) | [Acerina Y Su Danzonera](https://open.spotify.com/artist/3WsvaFzZ9DOpXr6YcrFkTh) | [Centenario del Danzon, Vol\. 2](https://open.spotify.com/album/7gpixh0TRC8da4k0spszfJ) | 3:16 |
 | 75 | [Elodia](https://open.spotify.com/track/17YaVYvTFsCwRbs4IokrAw) | [Carlos Campos Y Orquesta](https://open.spotify.com/artist/0IVPiyQ9QrdROHQs9hAFcU) | [Danzones a la Manera del Campeon Volumen 2](https://open.spotify.com/album/2hWEiNYl4fwtvULhcVZnvE) | 3:35 |
 
-Snapshot ID: `MTY1OTQ4MjkwMiwwMDAwMDAwMGJlMTEyMTI2NTc0OGI3OGY2M2RkNmMwNDA4YzExNGFk`
+Snapshot ID: `MTY1OTQ4MjkwMiwwMDAwMDAwMDc4MDhlYTAwYTFlM2VkODRlMzE5ZjVhYWYyYTlhMTYw`

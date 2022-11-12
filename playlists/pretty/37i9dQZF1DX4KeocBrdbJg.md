@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KeocBrdbJg.md) - [plain]
 
 > Pintamos toooda la casa, sin dejar caer una sola gota de pintura 💀
 
-[Spotify](https://open.spotify.com/user/spotify) - 795,082 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 795,608 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KeocBrdbJg.md) - [plain]
 | 7 | [Nothing Breaks Like a Heart \(feat\. Miley Cyrus\)](https://open.spotify.com/track/27rdGxbavYJeBphck5MZAF) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Nothing Breaks Like a Heart \(feat\. Miley Cyrus\)](https://open.spotify.com/album/2hBfao8GWZwHlUGDB8HVQO) | 3:37 |
 | 8 | [San Lucas](https://open.spotify.com/track/75UMtPC77vqKRwfSuYuNPO) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [San Lucas](https://open.spotify.com/album/5I20nnpF2Jj6GjUFsk9EG1) | 4:07 |
 | 9 | [10:10](https://open.spotify.com/track/6hd1qFV2nSAOeFprnZbHGp) | [Xavi Jordan](https://open.spotify.com/artist/5H1dqpna1LZM58Estbgg6B), [Katteyes](https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9) | [10:10](https://open.spotify.com/album/7b2yJGGSgLWMENS1LROLaN) | 3:10 |
-| 10 | [La flaca](https://open.spotify.com/track/0ll9JAIrM3NVBOMl45sxSX) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [La Flaca](https://open.spotify.com/album/1O5kJTerozuI2WLgzvIz2m) | 4:21 |
+| 10 | [La flaca](https://open.spotify.com/track/2sXknzW9MIR2RfZF6dgiUR) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [Latin Sensual Pop](https://open.spotify.com/album/2pIP9i4oiGTDnWmxMLRdR0) | 4:21 |
 | 11 | [Cool Kids](https://open.spotify.com/track/13P5rwmk2EsoFRIz9UCeh9) | [Echosmith](https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x) | [Talking Dreams \(Deluxe Edition\)](https://open.spotify.com/album/1oHY6eQmEG8skElDvFgKz2) | 3:57 |
 | 12 | [Butakera](https://open.spotify.com/track/60DHrnRAhNJMy4WeEf23NH) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni), [EL NOBA](https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav) | [Butakera](https://open.spotify.com/album/0LmZsaUKBzNRmVt9vC4Rv3) | 2:23 |
 | 13 | [Wapo y Mamón](https://open.spotify.com/track/4eg82YP4NxGNVqBmi7ajqH) | [Dan García](https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy) | [Wapo y Mamón](https://open.spotify.com/album/0G7rMvRLu7tPiKeti54UbE) | 2:16 |
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KeocBrdbJg.md) - [plain]
 | 57 | [Alors on danse \- Radio Edit](https://open.spotify.com/track/2GYHyAoLWpkxLVa4oYTVko) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [Cheese](https://open.spotify.com/album/4kEbcH3VT6NYfpv8Wkkk80) | 3:26 |
 | 58 | [Close Eyes](https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [Close Eyes](https://open.spotify.com/album/3G0b8ob9anYQl8a1t3GpOF) | 2:12 |
 | 59 | [love nwantiti \(feat\. Dj Yo 1 & AX'EL\) \- Remix](https://open.spotify.com/track/4gvrJnKCKIPiacNsWVQwEU) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Dj Yo 1](https://open.spotify.com/artist/3WGhf19UmmgF7CIrDRH06z), [AX'EL](https://open.spotify.com/artist/5fUXK5m3BNwoRgTyKq8tnz) | [love nwantiti \(feat\. Dj Yo 1 & AX'EL\) \[Remix\]](https://open.spotify.com/album/5NzoKSfocwLOb6o0lXfTM9) | 3:08 |
-| 60 | [Freaks](https://open.spotify.com/track/7EkWXAI1wn8Ii883ecd9xr) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Freaks](https://open.spotify.com/album/5WjaIWthUR3AjA0UYG3jR5) | 2:27 |
+| 60 | [Freaks](https://open.spotify.com/track/30rxF3hefnkCW2nXmgmnFN) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Light Switch \- Viral Now](https://open.spotify.com/album/3VG0ZnJQDa4TOZ5L8NcpIl) | 2:27 |
 | 61 | [Bones](https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Bones](https://open.spotify.com/album/1Q9SnHWPNEjVM0LrBFvJ1q) | 2:45 |
 | 62 | [Algo Me Gusta De Ti](https://open.spotify.com/track/3nDNXKBb5fRTuQXpeowWTT) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Líderes](https://open.spotify.com/album/6tOFRRXAis3nniv1wG6Nae) | 4:35 |
 | 63 | [Gypsy Woman \(She's Homeless\) \(La Da Dee La Da Da\) \- Radio Edit](https://open.spotify.com/track/0m2hF77uxLLgR9Rn4JcRZn) | [Crystal Waters](https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43) | [90s Summer Party](https://open.spotify.com/album/0MpXmfMGklcSxTUhQJi3EI) | 3:47 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KeocBrdbJg.md) - [plain]
 | 99 | [Ojos Marrones](https://open.spotify.com/track/7gwT3HGL84vF7bgtwL1N88) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Ojos Marrones](https://open.spotify.com/album/5cgqNq1Esd6F0D1vQ9uD63) | 3:18 |
 | 100 | [Efecto](https://open.spotify.com/track/5Eax0qFko2dh7Rl2lYs3bx) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:33 |
 
-Snapshot ID: `MTY2NzI0MjQxMiwwMDAwMDAwMDA4ZDE5NTYxYjQxNjQxZjE1YjkzMWUxZDFmMDEzMjk5`
+Snapshot ID: `MTY2NzI0MjQxMiwwMDAwMDAwMDQ2OWRiYmM3ZmEwNTAxMTNjMDU0OThiNzcxNjMwZmRh`

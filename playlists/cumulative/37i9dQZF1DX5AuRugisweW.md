@@ -4,7 +4,7 @@
 
 > Songs of the crossroads and "that old evil spirit"—from Robert Johnson to John Mayer, from early blues to new Americana.
 
-74 songs - 4 hr 13 min - [published](https://open.spotify.com/playlist/4QbJPlJtPYPvpuNwU9wxi8)
+75 songs - 4 hr 18 min - [published](https://open.spotify.com/playlist/4QbJPlJtPYPvpuNwU9wxi8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,8 +73,9 @@
 | [Seven Hells](https://open.spotify.com/track/1mpkTTUxWTB3FlO2OlRIB4) | [Brown Bird](https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP) | [Fits of Reason](https://open.spotify.com/album/7ea69Z9iyvseW29vS3bF4V) | 3:19 | 2020-11-13 |  |
 | [Shake Hands With The Devil](https://open.spotify.com/track/6N9EEC8c1I4X8FRMmyN4cu) | [Kenny Parker](https://open.spotify.com/artist/4hstkiGUdRmYQdoJllXPhR) | [Raise The Dead](https://open.spotify.com/album/0KWoKgu11Rk25DOdvDXMlR) | 6:49 | 2020-11-13 |  |
 | [She's Got The Devil In Her](https://open.spotify.com/track/2r6JhvSzpVZ2UaHPMptWRO) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Sweet Tea](https://open.spotify.com/album/7bkjnyiMG8mXzmEyfY49wD) | 5:10 | 2020-11-13 |  |
-| [Shoot The Devil](https://open.spotify.com/track/2Od65pY63Wszxh9KgGdJsk) | [David Jacobs\-Strain](https://open.spotify.com/artist/7KXqvbvlCJn6OAxsOru4wu) | [Ocean Or A Teardrop](https://open.spotify.com/album/6kDhcbz8oBrftXQENBXHjX) | 4:18 | 2020-11-13 |  |
+| [Shoot The Devil](https://open.spotify.com/track/2Od65pY63Wszxh9KgGdJsk) | [David Jacobs\-Strain](https://open.spotify.com/artist/7KXqvbvlCJn6OAxsOru4wu) | [Ocean Or A Teardrop](https://open.spotify.com/album/6kDhcbz8oBrftXQENBXHjX) | 4:18 | 2020-11-13 | 2022-11-12 |
 | [Shoot The Devil](https://open.spotify.com/track/4mtcFF6DUAsjMmGkVCOZIt) | [David Jacobs\-Strain](https://open.spotify.com/artist/7KXqvbvlCJn6OAxsOru4wu) | [Ocean Or A Teardrop](https://open.spotify.com/album/2eVVNuaxGvnZ4DV2ervlQq) | 4:18 | 2020-11-13 | 2022-07-29 |
+| [Shoot The Devil](https://open.spotify.com/track/75CzG25bgYcZiLUXVJXSPA) | [David Jacobs\-Strain](https://open.spotify.com/artist/7KXqvbvlCJn6OAxsOru4wu) | [Ocean or a Teardrop](https://open.spotify.com/album/0zTmCNjZInNKWTliMFndfk) | 4:18 | 2020-11-13 |  |
 | [Standing At The Crossroads](https://open.spotify.com/track/1e6qkPMUiaWZfVk7WdRByQ) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Shake Your Money Maker: The Best Of The Fire Sessions](https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu) | 2:58 | 2020-11-13 |  |
 | [Sweet Love and Evil Women](https://open.spotify.com/track/2Ug7RPzySjonBoV0FEzefC) | [Johnny Winter](https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO) | [Nothin' But The Blues](https://open.spotify.com/album/4ILAWjCe5fCCUmwjwmOmFM) | 2:56 | 2020-11-13 |  |
 | [The Devil Is A Busy Man](https://open.spotify.com/track/6Rt9vpmSBshbhQqLWDRTqQ) | [J.B\. Lenoir](https://open.spotify.com/artist/3enRG6NEAfCkJI2muGcnT1), [Sunnyland Slim](https://open.spotify.com/artist/5IrMTnoQ7OgoLpFfsisXX2) | [Live in '63](https://open.spotify.com/album/1wcEYzdh2ovnd2rPoB7LvO) | 4:47 | 2020-11-13 |  |

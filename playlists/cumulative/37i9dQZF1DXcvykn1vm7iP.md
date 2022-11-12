@@ -4,7 +4,7 @@
 
 > Beautiful, uplifting Ambient for being in the moment.
 
-97 songs - 4 hr 49 min - [published](https://open.spotify.com/playlist/4IVbdAUmvNe0Yl83P8wD6V)
+101 songs - 5 hr 1 min - [published](https://open.spotify.com/playlist/4IVbdAUmvNe0Yl83P8wD6V)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Equilibrium \- Loopable with No Fade](https://open.spotify.com/track/0xyrEAILLZmrkF2mHU1itT) | [Sweet Dreamer](https://open.spotify.com/artist/3zKs9aLmCunDoHMi4y2ld7) | [Atmospheres For Yoga And Meditation](https://open.spotify.com/album/0UzCrJH14dmIujSR2uynv8) | 2:54 | 2022-08-05 |  |
 | [Falling Autumn Leaves](https://open.spotify.com/track/5dXGR9SCZjX1a82NG87QKF) | [Roy Holtz](https://open.spotify.com/artist/7bmRaidlj0sx7EKFWBLnl2) | [Falling Autumn Leaves](https://open.spotify.com/album/2l8OjMwlL7qklDoJLhAT4S) | 2:14 | 2022-08-05 |  |
 | [Fèath](https://open.spotify.com/track/52dScVRoybs6acPSkmK6jc) | [Andy Kamman](https://open.spotify.com/artist/2bI9xKlbtS0cPS3rQ8x87y) | [Fèath](https://open.spotify.com/album/1uPNzg4SM9YYcclHGewiyC) | 3:26 | 2022-08-05 | 2022-10-15 |
+| [Following The Seasons](https://open.spotify.com/track/748k8Bk5Nousy75IFv6QQy) | [Aisha Akebono](https://open.spotify.com/artist/1lI0k1BiLHvfJub3QQfe72) | [Following The Seasons](https://open.spotify.com/album/22h16XP7CqXPQAzro1YXcb) | 3:31 | 2022-11-11 |  |
 | [gahara sapana गहरा सपना](https://open.spotify.com/track/3mima9lt5qBHwtEVzcRbwn) | [Gopali Swoo](https://open.spotify.com/artist/77IUPOfqdTIqqgrem0svOx) | [gahara sapana गहरा सपना](https://open.spotify.com/album/71vVNGE5ue2qBkajUCBmLP) | 2:01 | 2022-08-05 |  |
 | [Geodesic](https://open.spotify.com/track/79XI9zIPk3P4FICY1lC4PQ) | [Astral Wonder](https://open.spotify.com/artist/24JkKS4b8yp9usUXPL0I3G) | [Geodesic](https://open.spotify.com/album/2Fc1VN26UU4Zki3j99CRpR) | 2:53 | 2022-08-11 |  |
 | [Gravitational Waves](https://open.spotify.com/track/1i309cGCtJxtZ7h4XEHxYC) | [Ocean Mysteries](https://open.spotify.com/artist/1AZbxwiejbmkWYiVfbseXP) | [Immersions](https://open.spotify.com/album/3E3TWLQv6BXRxFJIq1Bdio) | 3:20 | 2022-08-05 |  |
@@ -96,13 +97,16 @@
 | [The Riddle of Dreams](https://open.spotify.com/track/5HfIHltHzu31DBzxJwoVQg) | [Carligo](https://open.spotify.com/artist/6rcMboN5jrM7OzqcqIfLwd) | [The Riddle of Dreams](https://open.spotify.com/album/5gBFJ8RLzPdObOk4pQTiKj) | 2:27 | 2022-08-05 |  |
 | [Through The Mist](https://open.spotify.com/track/77J5YZNzyRlIfmfx1iYGRE) | [The Sleep Crew](https://open.spotify.com/artist/2cwhQMikUipIptLocoKOMn) | [Through The Mist](https://open.spotify.com/album/3PctoISWbdLaP1LLaK8K6C) | 2:42 | 2022-10-21 |  |
 | [Transcendental Waves](https://open.spotify.com/track/0wHxhO1wW2Xa2sjszhpYfy) | [Hibiskus](https://open.spotify.com/artist/092ojOuOkibdb82lTdKhsJ) | [Transcendental Waves](https://open.spotify.com/album/0R9tXgiJeGYi2qrWGh01E8) | 2:20 | 2022-08-05 |  |
+| [Two Ways](https://open.spotify.com/track/2jtfOMMCIJrZgXbdnrVNDH) | [Monet Benitez](https://open.spotify.com/artist/4oQZmRxjpBOfuINrvgElwz) | [Two Ways](https://open.spotify.com/album/7lct65G1cVbNXZXY6zGjn4) | 3:04 | 2022-11-11 |  |
 | [Unconscious Hours](https://open.spotify.com/track/39ziD9wgBpKjA7lhuv9jPT) | [Insomnia Curator](https://open.spotify.com/artist/2KOGEdahm8S9YknCwiUIHf) | [Natural Events](https://open.spotify.com/album/5be1q5HZtRuUZtWLXB4TVB) | 3:28 | 2022-08-05 |  |
 | [Vaikne](https://open.spotify.com/track/2vu8kAPw2W0gVKrK68YR5P) | [Eyla Calmes](https://open.spotify.com/artist/3CAe04TEaKSxEMemLZqw3X) | [Vaikne](https://open.spotify.com/album/0iej0wwEJwhbKyUlYEhv5F) | 2:58 | 2022-08-05 |  |
 | [Vishuddha](https://open.spotify.com/track/6GjahJca66YcsCV5tjSPiX) | [Zen Meditation Garden](https://open.spotify.com/artist/1GgMneSlBsLrozz7hymmjl), [Solfeggio Guru](https://open.spotify.com/artist/4Mbgj0OkWxMGznGr0HT31c) | [Chakra Spiritual Solfeggios](https://open.spotify.com/album/5MnRMGDXySMazhyyIkQrvL) | 5:58 | 2022-10-01 |  |
 | [Vivid Imagination](https://open.spotify.com/track/4wV6irpJa9f21iaadadfrG) | [Heaven on Earth Instrumental Universe](https://open.spotify.com/artist/7aLueB60C95UX3TOvWgbAt) | [Psybient \(Psychedelic Ambient Music\)](https://open.spotify.com/album/0hXQHpXhx1EupvlaZC7tvM) | 3:16 | 2022-09-20 |  |
 | [Water Shapes](https://open.spotify.com/track/2BXn2oEXL6XD2iXzuSzd0g) | [Calil](https://open.spotify.com/artist/0wZ9TiIXE76xXjZUUbVmN7) | [Water Shapes](https://open.spotify.com/album/4gRZeAvNFnIQZvhUEPbf2H) | 3:20 | 2022-08-05 |  |
+| [Worry Not](https://open.spotify.com/track/7hS2ckejZtpQIompCdbczv) | [María Mojca](https://open.spotify.com/artist/39ZWSqegQ0BRppztA35wXU) | [Worry Not](https://open.spotify.com/album/79VOF59svdNCrRXatvtxNm) | 2:45 | 2022-11-11 |  |
 | [Y](https://open.spotify.com/track/2aO1Kx044UxkdUn9HMjsnY) | [Clip Aloe](https://open.spotify.com/artist/6CxgcvEFmR83qRXJmgZj67) | [Y](https://open.spotify.com/album/6HFV1kH4B3WPJWfhxF8CAF) | 3:29 | 2022-08-05 |  |
 | [Yalmi](https://open.spotify.com/track/4vbpZqfVsIz1lPEsMT0IkE) | [Merc La](https://open.spotify.com/artist/0bSzN4RWd1T5I0ICYR2LJS) | [Yalmi](https://open.spotify.com/album/5O6cASUJg7un5RD7kqO0UT) | 2:23 | 2022-08-05 |  |
+| [You're Filled With Courage](https://open.spotify.com/track/1yXCViJlRh40uDDaA3xOl0) | [Geneviève Corin](https://open.spotify.com/artist/2OZcj5SwwY93YZWnNdzD38) | [You're Filled With Courage](https://open.spotify.com/album/3lkh1bioKa9l6mBFgqm2Y2) | 2:37 | 2022-11-11 |  |
 | [Yuruku](https://open.spotify.com/track/4CgHKvMuIQRd5jcKaIPVR3) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [Bubun](https://open.spotify.com/album/0cs9smLSks52FjLb7yRWGy) | 3:02 | 2022-08-05 |  |
 | [Zeppelin See](https://open.spotify.com/track/5SxlRbsS4E5t0d76Cc0LHG) | [Montbretia](https://open.spotify.com/artist/7A9r37hE6RLqltWm7fgZOA) | [Zeppelin See](https://open.spotify.com/album/4x9XZ03dgMjcEjcxSm9aBa) | 2:59 | 2022-08-05 |  |
 

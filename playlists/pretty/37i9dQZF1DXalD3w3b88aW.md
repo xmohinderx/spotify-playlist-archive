@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXalD3w3b88aW.md) - [plain]
 
 > The emotional interludes we wish were longer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,909 likes - 76 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,918 likes - 76 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXalD3w3b88aW.md) - [plain]
 | 5 | [Fertilizer](https://open.spotify.com/track/6jypaMkKsoc5npsVzxhksl) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 0:39 |
 | 6 | [Big Boss \(Interlude\)](https://open.spotify.com/track/7EuktT4CgA637ci366IrYW) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR](https://open.spotify.com/album/6aW67R0sshdUwtbJEG2uQR) | 1:31 |
 | 7 | [All Of The Lights \(Interlude\)](https://open.spotify.com/track/4D6TpthzUVNTjWQqfBW5Kb) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [My Beautiful Dark Twisted Fantasy](https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv) | 1:02 |
-| 8 | [Wavy \(Interlude\) \(feat\. James Fauntleroy\)](https://open.spotify.com/track/3LcoHjgdNl4xtWVaJGSA1p) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [James Fauntleroy](https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT) | [Ctrl](https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh) | 1:15 |
-| 9 | [Good Heels \(feat\. Jazmine Sullivan\)](https://open.spotify.com/track/1BSZGNpIm2nBt1hWSK2bRp) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Ventura](https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY) | 1:38 |
+| 8 | [Good Heels \(feat\. Jazmine Sullivan\)](https://open.spotify.com/track/1BSZGNpIm2nBt1hWSK2bRp) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Ventura](https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY) | 1:38 |
+| 9 | [Wavy \(Interlude\) \(feat\. James Fauntleroy\)](https://open.spotify.com/track/3LcoHjgdNl4xtWVaJGSA1p) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [James Fauntleroy](https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT) | [Ctrl](https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh) | 1:15 |
 | 10 | [Bluff](https://open.spotify.com/track/3j7zwRLw8QEbYoOhSE0AOd) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Take Me Apart](https://open.spotify.com/album/6pw1XPub1bSMq03ASVqRVu) | 1:12 |
 | 11 | [Bria's Interlude \(feat\. Omarion\)](https://open.spotify.com/track/4i3GraNMzBKze1WsVl38DS) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Omarion](https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT) | [So Far Gone](https://open.spotify.com/album/1LShhEEKRT5MNPcO7jtYHh) | 2:19 |
 | 12 | [End](https://open.spotify.com/track/05tFLPSXJ1BbqIXy4Jeqfh) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 2:14 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXalD3w3b88aW.md) - [plain]
 | 40 | [The Roots \(Interlude\)](https://open.spotify.com/track/1Qr9uLQz5Z8sq39zBUnNnE) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo) | [Who Is Jill Scott? \- Words and Sounds, Vol\. 1](https://open.spotify.com/album/620y2xi6SkUb6IZlnnWxuG) | 0:57 |
 | 41 | [Can I Get a Witness\-Interlude](https://open.spotify.com/track/4lFuxxdGm2o6pbUgyQMoEl) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Crazysexycool](https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f) | 2:57 |
 | 42 | [Sexy You \(Interlude\)](https://open.spotify.com/track/7CBtCcTd3Zs6GS1RGKhOva) | [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [112](https://open.spotify.com/album/5lSLGYViKHz22S8gEXz9Vc) | 1:50 |
-| 43 | [Soul Intact \- Interlude](https://open.spotify.com/track/5vVopvbZhMboQVNVDgLv7o) | [SWV](https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa) | [New Beginning](https://open.spotify.com/album/0y9RVnTvpZa3LTlUUaD7l4) | 1:47 |
-| 44 | [You Are My Joy \(Interlude\)](https://open.spotify.com/track/2br377aSsnmO1ygH7eS6wJ) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [Faith](https://open.spotify.com/album/36G7gDkkRckUGU7lgG6nev) | 1:07 |
+| 43 | [You Are My Joy \(Interlude\)](https://open.spotify.com/track/2br377aSsnmO1ygH7eS6wJ) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [Faith](https://open.spotify.com/album/36G7gDkkRckUGU7lgG6nev) | 1:07 |
+| 44 | [Soul Intact \- Interlude](https://open.spotify.com/track/5vVopvbZhMboQVNVDgLv7o) | [SWV](https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa) | [New Beginning](https://open.spotify.com/album/0y9RVnTvpZa3LTlUUaD7l4) | 1:47 |
 | 45 | [My Life Interlude](https://open.spotify.com/track/0TOcyKzpOfxMhO7qVDrJZt) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [My Life](https://open.spotify.com/album/1OQ5l5rHKqUumPpn559zJC) | 1:15 |
 | 46 | [I Dedicate \(Pt\. 1\)](https://open.spotify.com/track/1q2JBhpO3REmsJDJdFQaAt) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Brandy](https://open.spotify.com/album/2yHJoGH0mIqYVAHUFKJcZ6) | 1:29 |
 | 47 | [Makings Of You \- Interlude](https://open.spotify.com/track/3FAM5Y7Hks9R3qtsUKdPJh) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Mahogany Soul](https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw) | 2:30 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXalD3w3b88aW.md) - [plain]
 | 57 | [J.L \(Interlude\)](https://open.spotify.com/track/5f2vIGTelDfdvHLOJkfeqW) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Ready is Always Too Late](https://open.spotify.com/album/5qhT4VwBKqLS3dUqRgBK0g) | 0:39 |
 | 58 | [I Surrender \- Interlude](https://open.spotify.com/track/4E0psyPzApbWOMI20ZU7gZ) | [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [Part III](https://open.spotify.com/album/6QlbqTqKJt1UnuH3PLz9mb) | 1:14 |
 | 59 | [Stay \(Interlude\)](https://open.spotify.com/track/2k6IeQ72mNLQolHIR5p1cA) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [Keep the Faith](https://open.spotify.com/album/2jQdDSxc2T21OFC72lAMYL) | 1:56 |
-| 60 | [Whoomp \(Interlude\)](https://open.spotify.com/track/5swrWMVnNCEvEaLTRGIAYr) | [Dwele](https://open.spotify.com/artist/7u6LfVyYpEzMpHLL7jTyvU) | [Subject](https://open.spotify.com/album/44knvMChf7CE5Jkg636gXy) | 3:36 |
-| 61 | [Woman In Me \- Interlude](https://open.spotify.com/track/043ZLCXdYqnD8TK0UkLBNK) | [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [Miss Thang](https://open.spotify.com/album/71mPApAzW9HkbUGdYzMQHb) | 1:37 |
+| 60 | [Woman In Me \- Interlude](https://open.spotify.com/track/043ZLCXdYqnD8TK0UkLBNK) | [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [Miss Thang](https://open.spotify.com/album/71mPApAzW9HkbUGdYzMQHb) | 1:37 |
+| 61 | [Whoomp \(Interlude\)](https://open.spotify.com/track/5swrWMVnNCEvEaLTRGIAYr) | [Dwele](https://open.spotify.com/artist/7u6LfVyYpEzMpHLL7jTyvU) | [Subject](https://open.spotify.com/album/44knvMChf7CE5Jkg636gXy) | 3:36 |
 | 62 | [Interlude](https://open.spotify.com/track/3vFubrcAel5283u4pFoBr2) | [Jaheim](https://open.spotify.com/artist/4sbB4Yy6Qig51pKCIKSLw3) | [Still Ghetto](https://open.spotify.com/album/10NYla7wqjbdNXNExgtRGa) | 0:48 |
 | 63 | [The Meaning \- Interlude](https://open.spotify.com/track/7oZN6bLVLwHQV2j1oxpCd2) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Discipline](https://open.spotify.com/album/5hDjUyxqB0g8uwn3M0g9MM) | 1:16 |
 | 64 | [Definition of a Bad Girl \(Interlude\)](https://open.spotify.com/track/7pCs7Zi5ya5NCwMPDC6Cuk) | [Total](https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7) | [Total](https://open.spotify.com/album/4uLoT81NWVFx09mkfnGCHb) | 1:10 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXalD3w3b88aW.md) - [plain]
 | 75 | [Truth or Dare \(Interlude\)](https://open.spotify.com/track/5OVOuE9dQ4BLM3A6jzjf9o) | [Total](https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7) | [Kima, Keisha & Pam](https://open.spotify.com/album/33s3ptUTggk4QrMygA60or) | 1:22 |
 | 76 | [So Much Love \- Interlude](https://open.spotify.com/track/1e7BgRrZ1uNwSzEuGRosuP) | [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [Room 112](https://open.spotify.com/album/2a9zJQA2ttMax51gVplZ2w) | 1:48 |
 
-Snapshot ID: `MTY2NjkyOTY2MCwwMDAwMDAwMDQ4YjA3ZjE0NzVkODllMDJhYmZmYzY1YzQ4NDFmZWQ3`
+Snapshot ID: `MTY2NjkyOTY2MCwwMDAwMDAwMGFjYjBiNmMxMjlhMWI5YWRkMjM4YzYxYjE1MjUzNDQy`

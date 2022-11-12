@@ -4,7 +4,7 @@
 
 > the pearls of an oyster.
 
-142 songs - 8 hr 11 min - not published yet
+143 songs - 8 hr 14 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,8 @@
 | [Long Long Time](https://open.spotify.com/track/5oYRFfnZIBbAx2hCAwZVJd) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Long Long Time](https://open.spotify.com/album/74aQ1lRxcW1LiE8KuSlxXx) | 5:08 | 2022-11-10 |  |
 | [Love Is My Condition](https://open.spotify.com/track/5b8JmtL7IhN8GF6wHgCzmt) | [Tasha Angela](https://open.spotify.com/artist/55icKM7WkjXWnyfvCTlqbk) | [Love Is My Condition](https://open.spotify.com/album/1Gybu76KwSDNNyK2K13PlK) | 3:08 | 2022-11-03 | 2022-11-05 |
 | [Love Is My Condition](https://open.spotify.com/track/7JMIWkV5UaYvXFjNk0Dw0B) | [Tasha Angela](https://open.spotify.com/artist/55icKM7WkjXWnyfvCTlqbk) | [Love Is My Condition / Away](https://open.spotify.com/album/5Yyqtdm1bLpOij6ISgvG8K) | 3:08 | 2022-11-03 |  |
-| [M1](https://open.spotify.com/track/47WiZ1kbkYGhmKNKjy6cuv) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [COMETA](https://open.spotify.com/album/0RD14xtAc5iZMN8QHKw2Vn) | 3:01 | 2022-10-28 |  |
+| [M1](https://open.spotify.com/track/3XhLn2Ed0UrCvkwjcKghxB) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [M1](https://open.spotify.com/album/7jS4q5FI3ZWqbHd8MR491t) | 3:01 | 2022-11-10 |  |
+| [M1](https://open.spotify.com/track/47WiZ1kbkYGhmKNKjy6cuv) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [COMETA](https://open.spotify.com/album/0RD14xtAc5iZMN8QHKw2Vn) | 3:01 | 2022-10-28 | 2022-11-12 |
 | [Mad Riches](https://open.spotify.com/track/0vA6Nhloi5UX2jmqX5Tvk9) | [Sonder](https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW) | [Too Late To Die Young](https://open.spotify.com/album/4MB6xXwCYtFbBW4ReqUWJn) | 1:56 | 2022-10-28 |  |
 | [maracuya massage](https://open.spotify.com/track/6puPeC2EToXfnPOcVGhNTh) | [Stuzzi](https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr) | [Le Fruit Disco](https://open.spotify.com/album/5iykZjKOnsFRkXPJrPZblc) | 3:35 | 2022-10-28 |  |
 | [Maybe So](https://open.spotify.com/track/2K5cJfIJ5nak7BPfnM6VHP) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Entergalactic](https://open.spotify.com/album/4aW4iDepQUl5ZCHd1Gli68) | 3:40 | 2022-10-28 | 2022-11-11 |

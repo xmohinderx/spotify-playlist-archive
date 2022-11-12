@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9osbRRf6xSX.md) - [plain]
 
 > Dos de los más grandes, frente a frente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,137 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,212 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9osbRRf6xSX.md) - [plain]
 | 34 | [La llorona](https://open.spotify.com/track/61KYwObLaFffX93vAI4rpo) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8) | [Digan Lo Que Digan: Banda Sonora Original De La Pe](https://open.spotify.com/album/1JrwqW8FRXsKH8GqS19uhJ) | 3:49 |
 | 35 | [Bamboleo](https://open.spotify.com/track/5SntNJKWY5EDXSpwywJdZs) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [My Life: The Greatest Hits](https://open.spotify.com/album/21GSy4UKShEpEfrojAEK9U) | 4:39 |
 | 36 | [Ámame O Déjame \- Remastered](https://open.spotify.com/track/1L6qvq6IHv2fjEg50zYexG) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8), [Monica Naranjo](https://open.spotify.com/artist/0zGM73sadbAOBLev02P8LO) | [50 Años Después, Raphael En Directo Y Al Completo \(Remastered\)](https://open.spotify.com/album/2VLShJKawECocT5HdibB4a) | 4:35 |
-| 37 | [Con la Misma Piedra](https://open.spotify.com/track/0SFZ2bE1hVX3k5tECWziYm) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Moments](https://open.spotify.com/album/6zic2LJXY3DaP2DWYVtCdT) | 3:57 |
+| 37 | [Con la Misma Piedra](https://open.spotify.com/track/6fQZlAs27dN6W2IF84KKAU) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Momentos](https://open.spotify.com/album/294b6XChJAN1TMQkQB3csC) | 3:58 |
 | 38 | [Cuando tú no estás](https://open.spotify.com/track/0duR2G7phML0me43RTS39Z) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8) | [Canta...Raphael](https://open.spotify.com/album/0cm8e4rwLQq30D5Yvzdy0g) | 3:38 |
 | 39 | [Como Han Pasado los Años \(with Julio Iglesias\)](https://open.spotify.com/track/5PuY7F2jpk1yuD3ZNvzT85) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB), [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Una Estrella En El Cielo](https://open.spotify.com/album/5BKMan1vEF6HtWpj8tNceY) | 3:30 |
 | 40 | [Madre](https://open.spotify.com/track/4X98k8vHnlqBt5TtkTY9ZN) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8) | [Una vida de canciones](https://open.spotify.com/album/1PFJDPnHZuEwSlIbDy4G2c) | 3:13 |
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9osbRRf6xSX.md) - [plain]
 | 48 | [Detenedla ya](https://open.spotify.com/track/1FLDVkWKAxBNlaZdOiw88c) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8) | [Una vida de canciones](https://open.spotify.com/album/1PFJDPnHZuEwSlIbDy4G2c) | 3:51 |
 | 49 | [Ella](https://open.spotify.com/track/1f5ZGmcirinCMFTQ8LfmiB) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5), [Sin Bandera](https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87) | [México & Amigos](https://open.spotify.com/album/7h8d8lu8w3Z6EombrGhlzt) | 3:45 |
 | 50 | [El día que me quieras](https://open.spotify.com/track/4uzGIYshAFuxVJtYU3oXw5) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8) | [Romance](https://open.spotify.com/album/6069Ox3OVsQKFI68jRtS4T) | 3:43 |
-| 51 | [Preguntale](https://open.spotify.com/track/7irpyYC0w4gCwQRmZce76M) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Begin the Beguine](https://open.spotify.com/album/5siSTOhozc4kGQxQgbFhvS) | 4:55 |
+| 51 | [Preguntale](https://open.spotify.com/track/43oJBwR79PyYfDJ97YD9fG) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Personalidad](https://open.spotify.com/album/2mvTdPihXIOm17QqGlkK3i) | 4:53 |
 | 52 | [Hablemos Del Amor](https://open.spotify.com/track/1jGnRoiQiVrEGhDW3KWfe7) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8) | [Resinphónico](https://open.spotify.com/album/25bWRKOloxTvRKHseRVszP) | 3:57 |
 | 53 | [Quiero](https://open.spotify.com/track/6Lujha28PPV5Af6wrmc0Z1) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [El Amor](https://open.spotify.com/album/5vejevOSlt0V2LUyliPM0w) | 2:48 |
 | 54 | [Estuve enamorado](https://open.spotify.com/track/2kDCQxUwn2i2ktESPreZ9X) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8) | [Grandes Éxitos: Raphael](https://open.spotify.com/album/7D8r6nBnVxK4mw87aWGYo5) | 2:21 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9osbRRf6xSX.md) - [plain]
 | 99 | [Abrazame](https://open.spotify.com/track/4nqRbvEeGuV9jLCzC5OrMf) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [El Amor](https://open.spotify.com/album/5vejevOSlt0V2LUyliPM0w) | 3:31 |
 | 100 | [Quiero Abrazarte Tanto \- Remastered](https://open.spotify.com/track/4PMo1Vf79zlwrQSTqWwJZ6) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8), [Ana Belén](https://open.spotify.com/artist/4NOZW7dBOmBMMAG9EGQd4t), [Víctor Manuel](https://open.spotify.com/artist/6cFqY5mkBqKqaIYunDg1k8) | [50 Años Después \(Remastered\)](https://open.spotify.com/album/48Yvne1x8AANcjxZvuPirC) | 3:35 |
 
-Snapshot ID: `MTYzMjkwNjM4OCwwMDAwMDAwMGU4N2E1Y2IzNzBhYmUyMzMzNjBmYWJmMmVjOGE3MDRj`
+Snapshot ID: `MTYzMjkwNjM4OCwwMDAwMDAwMDRkODEwNjRjMzllODc1NTA4NzI3NDgyNDE0NDk0ZDE4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6vmXrF8Shld.md) - [plain]
 
 > The best and finest '60s Funk\. Cover: The Meters.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,033 likes - 69 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,099 likes - 69 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,11 +71,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6vmXrF8Shld.md) - [plain]
 | 61 | [The Worm](https://open.spotify.com/track/1VsMIGb2CX63J2Yt1sa12v) | [Jimmy McGriff](https://open.spotify.com/artist/1A0QR12gcj2L5hYh1WWDeh) | [The Worm](https://open.spotify.com/album/494GVGQTYwB91lZ1Lrombr) | 3:20 |
 | 62 | [Jungle Strut](https://open.spotify.com/track/5uBhxCjIZbTYTlDnyPaG9t) | [Gene Ammons](https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK) | [The Boss Is Back!](https://open.spotify.com/album/737Arukc7X3Nc9F5FYuBmz) | 5:11 |
 | 63 | [Mustang Sally](https://open.spotify.com/track/5Sz09kaSzvpTC8lgm5W8Mt) | [Wilson Pickett](https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE) | [The Wicked Pickett](https://open.spotify.com/album/6tdCKyx1g6XV5uzOWmkxSC) | 3:07 |
-| 64 | [The Love of My Woman \- Single Version; Remastered](https://open.spotify.com/track/1eUfBAAMu5Sf3vF9H2QNfX) | [Darrell Banks](https://open.spotify.com/artist/5vWhw0XzIKRr5YUsYB2w3m) | [Atlantic Unearthed: Soul Brothers](https://open.spotify.com/album/4WFbdQVnAwE2shxmwMN0WN) | 2:53 |
+| 64 | [The Love of My Woman](https://open.spotify.com/track/4lbVeuIhptmBthLqpBqgQm) | [Darrell Banks](https://open.spotify.com/artist/5vWhw0XzIKRr5YUsYB2w3m) | [Rare & Soulful: The 60's](https://open.spotify.com/album/33fTwJxrf0ydlvA4Mydhyw) | 2:52 |
 | 65 | [It's Your Thing](https://open.spotify.com/track/5ECdtBtFPaOe1wMfLKMsro) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [Puzzle People](https://open.spotify.com/album/2CabyXUOSQqxUaPEw2FrnK) | 3:13 |
 | 66 | [I Can't Stand Myself \(When You Touch Me\)](https://open.spotify.com/track/2e8ydLYXuH7MEj9eGjqlaz) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [I Can't Stand Myself When You Touch Me](https://open.spotify.com/album/1degrSNPAklT7ypRV2Rc3D) | 3:22 |
 | 67 | [O' Baby \(I Believe I'm Losing You\)](https://open.spotify.com/track/6vJCfp5FWFiiLpp8l8azbp) | [Billy Hawks](https://open.spotify.com/artist/2898wTOnr0lo8QdnoBptfR) | [Heavy Soul!](https://open.spotify.com/album/7d7o4DqcDgLgfvxRv0OQe1) | 3:06 |
 | 68 | [No Way](https://open.spotify.com/track/6TlXKWSyZuHMS4qANLwVgE) | [Boogaloo Joe Jones](https://open.spotify.com/artist/4BEDs63hGcprptqZt11a3J) | [No Way!](https://open.spotify.com/album/4HgaispO1KpzuYAKljvrgM) | 7:17 |
 | 69 | [The Horse](https://open.spotify.com/track/2FCiuaXNE1kjwSoAvso4vT) | [Cliff Nobles](https://open.spotify.com/artist/0i0ELbteoVYQDbSNCU3Spz) | [The Phil\-LA of Soul Singles Collection 1968\-1972](https://open.spotify.com/album/5zXj6vdiMbqMXTL9oCqruD) | 2:26 |
 
-Snapshot ID: `MTY2NTU4MDIxMSwwMDAwMDAwMGJmODMyOTlhZDdkOTE2Zjg4OTE0NTI5NDA5MmE3MDRj`
+Snapshot ID: `MTY2NTU4MDIxMSwwMDAwMDAwMGVmNzI4OGIyZmU3NWNmODQ4ZWVkZjNjMDUxZjRmYmQ5`

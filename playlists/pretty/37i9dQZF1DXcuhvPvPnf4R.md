@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcuhvPvPnf4R.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/meaghansmom/">Monique Blake</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 949 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 976 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcuhvPvPnf4R.md) - [plain]
 | 45 | [The Greatest](https://open.spotify.com/track/0ScOAZW5rQbEreoK0h5r5S) | [Bounty Killer](https://open.spotify.com/artist/6UuT0BJZ9vF8Y1sxXnJl2s) | [Riddim Driven: Hydro](https://open.spotify.com/album/00z29AN17yDBugKpGv2XcZ) | 3:36 |
 | 46 | [Middle Finger](https://open.spotify.com/track/2M2zpLfK5GaNKA5PINPP0b) | [Cham](https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK) | [Reggae Gold 2002](https://open.spotify.com/album/6JPjYKnOWIzK5k6RlhUWMv) | 4:16 |
 | 47 | [Reverse Di Ting](https://open.spotify.com/track/2bxxNd0cXD5GopNFEhyHjr) | [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA) | [Ragga Ragga Ragga 2007](https://open.spotify.com/album/2EaSckIrSSr6wLPdKPYg4j) | 3:56 |
-| 48 | [Inner G](https://open.spotify.com/track/37tNZm4rc7JurO55X6xHTi) | [Jahnya](https://open.spotify.com/artist/6y09dM8DdPHYCtoIDxAHT2) | [Inner G](https://open.spotify.com/album/1u5uKl52hG6kODMImLNI8B) | 2:50 |
-| 49 | [Whuteva](https://open.spotify.com/track/62Yj2gjWP608eeG4AqLGfL) | [Remy Ma](https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6) | [There's Something About Remy\-Based On A True Story \(Edited\)](https://open.spotify.com/album/6Kr3XtJhMHtQfwxANOm4pg) | 3:46 |
+| 48 | [Whuteva](https://open.spotify.com/track/62Yj2gjWP608eeG4AqLGfL) | [Remy Ma](https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6) | [There's Something About Remy\-Based On A True Story \(Edited\)](https://open.spotify.com/album/6Kr3XtJhMHtQfwxANOm4pg) | 3:46 |
+| 49 | [Inner G](https://open.spotify.com/track/37tNZm4rc7JurO55X6xHTi) | [Jahnya](https://open.spotify.com/artist/6y09dM8DdPHYCtoIDxAHT2) | [Inner G](https://open.spotify.com/album/1u5uKl52hG6kODMImLNI8B) | 2:50 |
 | 50 | [Flex](https://open.spotify.com/track/2TajSezbrdFdex9g5L6wo9) | [Mad Cobra](https://open.spotify.com/artist/56MDhktp7hO6MqKCS9rSXT) | [Dancehall 101 Vol\. 3](https://open.spotify.com/album/2cGFEvfRv59zyj2E9BTkiH) | 3:50 |
 
-Snapshot ID: `MTY2NDY0MjU4MywwMDAwMDAwMGE2MDVkNWZjMDUzNDIzMjA0MmQ3MGVhZDVlY2JhZWRj`
+Snapshot ID: `MTY2NDY0MjU4MywwMDAwMDAwMGMyYTNjNmQ2YWM5MGFiNDIxMThiYjY0ODZlZjE3NzUx`

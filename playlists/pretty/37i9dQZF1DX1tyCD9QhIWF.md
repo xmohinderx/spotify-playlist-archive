@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tyCD9QhIWF.md) - [plain]
 
 > Big riffs and pounding drums to help you strut the streets.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,239,498 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,239,763 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tyCD9QhIWF.md) - [plain]
 | 20 | [The Way You Used To Do](https://open.spotify.com/track/52LL3IFB8N3PaJmoZ8Xii1) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Villains](https://open.spotify.com/album/7vuIN24G18PAUAvjnICyA6) | 4:34 |
 | 21 | [Boilermaker](https://open.spotify.com/track/6Ci6L6EeLqR6VHV1DBJy2S) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Boilermaker](https://open.spotify.com/album/0PNu9d50xKqwQbEwq9vqd7) | 3:29 |
 | 22 | [Wild Stare](https://open.spotify.com/track/6NZUOG0R0uxIBkcQ6BIqfq) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [ROOKERY](https://open.spotify.com/album/28WPMClVfDtMHaNrrjbPcX) | 3:14 |
-| 23 | [Ready For Something](https://open.spotify.com/track/0Tep6Kp3UHzpewyC0iSsDd) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [How Will I Know If Heaven Will Find Me?](https://open.spotify.com/album/5wtPiwfkmZQSbrMUODMD4f) | 3:57 |
+| 23 | [Ready For Something](https://open.spotify.com/track/7jxszj5PkDm69WQGda2S21) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [Ready For Something](https://open.spotify.com/album/0kybYEkeYAZJDCzxqmrtvE) | 3:57 |
 | 24 | [Weirdo](https://open.spotify.com/track/0wJyNSjuL5KU2HHjwwH1Kb) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Outside Voices](https://open.spotify.com/album/5tqZLKfkECxhy2LJKoviuD) | 3:45 |
 | 25 | [Longshot](https://open.spotify.com/track/1Yi8XPnCPoimWwqxwm3uz9) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [Longshot](https://open.spotify.com/album/6RsjG9ykQSkY3YMDSAwYs8) | 3:52 |
 | 26 | [Aye](https://open.spotify.com/track/5n7yP1qQiXs9uCE3m1eyGB) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Aye](https://open.spotify.com/album/1MNI54DBCm3plChv9rY7C3) | 3:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tyCD9QhIWF.md) - [plain]
 | 49 | [Apartment Complex on the Eastside](https://open.spotify.com/track/2M03xxhUHGN4WR0he4RKYf) | [Dylan Fraser](https://open.spotify.com/artist/6Awp6fgyzqQ2XuEvOMjq8D) | [Vampire \(with Alaska Reid\)](https://open.spotify.com/album/60qBRNYfiAbNa6nfqn34OW) | 4:07 |
 | 50 | [Black Roller Coming](https://open.spotify.com/track/5OLFlnmmC8gQHiFisYvrAh) | [Philip Sayce](https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h) | [Spirit Rising](https://open.spotify.com/album/3dQKiRCBLOnvRmfcTCJP0H) | 2:49 |
 
-Snapshot ID: `MTY2MzExMjEwNCwwMDAwMDAwMDUzZjZkODBlY2QwODZkM2Q0NmRmNGM0YWExN2U4Zjg5`
+Snapshot ID: `MTY2MzExMjEwNCwwMDAwMDAwMGNkMmQ5NDIzNzAyYTMyZDBlOWQyNmZhMGRmMzA1OGRl`

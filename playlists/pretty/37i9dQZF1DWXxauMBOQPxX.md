@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxauMBOQPxX.md) - [plain]
 
 > Heartbroken? These songs might just help...
 
-[Spotify](https://open.spotify.com/user/spotify) - 977,866 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 978,471 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Night We Met](https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS) | 3:28 |
 | 2 | [Someone Like You](https://open.spotify.com/track/1zwMYTA5nlNjZxYrvBB2pV) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL) | 4:45 |
 | 3 | [Someone You Loved](https://open.spotify.com/track/2TIlqbIneP0ZY1O0EzYLlc) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Breach](https://open.spotify.com/album/0NVQ9k3wKmuK6T02lLMl6y) | 3:02 |
-| 4 | [Lost Without You](https://open.spotify.com/track/3cWI6Hj9LQ0MfMuhw9uSMc) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Freya Ridings](https://open.spotify.com/album/3dcenoRctm8OAnqoCrQrLd) | 3:45 |
+| 4 | [Lost Without You](https://open.spotify.com/track/7nenN69yGXnrlOrjQrZSSw) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Valentines Day Songs](https://open.spotify.com/album/1aWzafCfTTaW1913Y0I3w3) | 3:45 |
 | 5 | [Let Her Go](https://open.spotify.com/track/1KxwZYyzWNyZSRyErj2ojT) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [All The Little Lights](https://open.spotify.com/album/52ukyDfkPmF4X6EcSYVfVJ) | 4:12 |
 | 6 | [Stay](https://open.spotify.com/track/4qaEPJ1S3GkITZRzuNgiwQ) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Mikky Ekko](https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V) | [Unapologetic \(Deluxe Version\)](https://open.spotify.com/album/7yjQZX94GxVyqDTehxBejk) | 4:00 |
 | 7 | [Say You Won't Let Go](https://open.spotify.com/track/5uCax9HTNlzGybIStD3vDh) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Back from the Edge](https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD) | 3:31 |
 | 8 | [Bruises](https://open.spotify.com/track/3sPjBNBJApK0ANyPGcei9Q) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Viral Hits Volume 9](https://open.spotify.com/album/2dFUs8Nzl15Htpw8IeUKaQ) | 3:40 |
 | 9 | [i hate u, i love u \(feat\. olivia o'brien\)](https://open.spotify.com/track/7vRriwrloYVaoAe3a9wJHe) | [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw), [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [us](https://open.spotify.com/album/3L0H4RjVXpEkwfDgi3XOdf) | 4:11 |
-| 10 | [Fingers Crossed](https://open.spotify.com/track/3yMC1KsTwh0ceXdIe4QQAQ) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Fingers Crossed](https://open.spotify.com/album/7i5dqey54xo8F2flVer0yY) | 2:55 |
+| 10 | [Fingers Crossed](https://open.spotify.com/track/00vGldARjYnPv2LPGUQHSC) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Pure Acoustic 2022](https://open.spotify.com/album/4DCIc6AsRGKdKLh2bDfQr0) | 2:55 |
 | 11 | [Photograph](https://open.spotify.com/track/1HNkqx9Ahdgi1Ixy2xkKkL) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Deluxe Edition\)](https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd) | 4:18 |
 | 12 | [Be Alright](https://open.spotify.com/track/3EPXxR3ImUwfayaurPi3cm) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Be Alright](https://open.spotify.com/album/0YZLXTaHLcgl5UdtKDiUXD) | 3:16 |
 | 13 | [Jealous](https://open.spotify.com/track/4G92yYrUs0cvY7G41YRI0z) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Jealous \- EP](https://open.spotify.com/album/6bsCl6iS6dvC4xaiBlecPv) | 4:47 |
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxauMBOQPxX.md) - [plain]
 | 23 | [Jar of Hearts](https://open.spotify.com/track/3aazRPGt7VI6uEIJbQ37ex) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [A Thousand Years \- Heartbreak Pop](https://open.spotify.com/album/5C6Xo723vqJhtXhA2WxvRQ) | 4:06 |
 | 24 | [Half A Man](https://open.spotify.com/track/6dICNXK0ioYOKqKe0QJdRv) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Long Distance Lovers](https://open.spotify.com/album/09JUDDqrdOTdLWIGDqlXkj) | 2:59 |
 | 25 | [drivers license](https://open.spotify.com/track/6xB99ltI6FjcqhKWYd1FcB) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [pov: he broke your heart](https://open.spotify.com/album/7q1bOea4TSOQ31pSRLswZr) | 4:02 |
-| 26 | [Too Good At Goodbyes](https://open.spotify.com/track/3VlbOrM6nYPprVvzBZllE5) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3XftSbguntyRTBQaGItmfK) | 3:21 |
+| 26 | [Too Good At Goodbyes](https://open.spotify.com/track/4opAt44ETgJBxu4EmbnwzA) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [HEARTBREAK](https://open.spotify.com/album/77B2EFOECywgfu96ws7NwZ) | 3:21 |
 | 27 | [Apologize](https://open.spotify.com/track/7g1l1BBpCQROeTHseapjYs) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Summer Chillout Songs](https://open.spotify.com/album/32OhOuHtz8VMHc6VBuGcWu) | 3:28 |
 | 28 | [Dancing On My Own](https://open.spotify.com/track/570NPFCzlYS5sA1i4DV11Z) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Sleeping Music 2020](https://open.spotify.com/album/5xx7Ea1pERX3v4kjvReNbs) | 4:20 |
 | 29 | [Chasing Cars](https://open.spotify.com/track/07753JNAvJgec2G9rlqtj7) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [Breakup Songs](https://open.spotify.com/album/6ckrkQmWQZhc8dX80L9MGb) | 4:27 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxauMBOQPxX.md) - [plain]
 | 44 | [The Best You Had](https://open.spotify.com/track/56obUa1h1AqF9DvxYrmJos) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [The Sun Will Come up, The Seasons Will Change & The Flowers Will Fall](https://open.spotify.com/album/4Wi489dcX4owpM21EcKKz7) | 2:56 |
 | 45 | [So Sick](https://open.spotify.com/track/0hHlzI4Pi9FS0s46AFNsD5) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Heartbreak Hits](https://open.spotify.com/album/0hAMF9GUZLcdxgKbZPGZZU) | 3:27 |
 | 46 | [Unfaithful](https://open.spotify.com/track/13xxBnXOuiBxVxJI458B0i) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [A Girl Like Me](https://open.spotify.com/album/2JdjS6jjOml7nt7Yjo0nnh) | 3:46 |
-| 47 | [September Song \- Guitar Acoustic](https://open.spotify.com/track/7bMkcxifc4EjIQKw49EC7h) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Raised Under Grey Skies \(Deluxe\)](https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo) | 3:32 |
+| 47 | [September Song \- Guitar Acoustic](https://open.spotify.com/track/4XzjPBdJgLeEBuyYBVAgV8) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Chillout Hits](https://open.spotify.com/album/05vxVDU2XMPOEPcmbIuI8Z) | 3:32 |
 | 48 | [Please Don't Go](https://open.spotify.com/track/3cNjgVBKTJ1SvKhunrCdVy) | [Joel Adams](https://open.spotify.com/artist/36jaGQtMj5UWD0eO1fCVdD) | [Please Don't Go](https://open.spotify.com/album/2SF8Wbc61u8hlQkZYGVCnx) | 3:30 |
 | 49 | [Consequences](https://open.spotify.com/track/7sTtHHrD0zDpmzQzH3zegz) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Camila](https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE) | 2:58 |
 | 50 | [Made to Love You](https://open.spotify.com/track/7xNQMVeEgXQf0xUsTlcpMP) | [Dan Owen](https://open.spotify.com/artist/3wrdNgjTSLLQZ382sPyoA5) | [Stay Awake with Me \(acoustic\)](https://open.spotify.com/album/5WriBFJjPRzc9YyHgRKJeZ) | 3:27 |
 
-Snapshot ID: `MTY0MjUwNjcxNSwwMDAwMDAwMDcwODVlNDY5NWVjMGVmMTFiMzhlZjk4MmEwYTE2NmVk`
+Snapshot ID: `MTY0MjUwNjcxNSwwMDAwMDAwMDI5MGNlMmUyZjAxZWUwNmMzOWVhYTNiMWM4Mjc1ZmY5`

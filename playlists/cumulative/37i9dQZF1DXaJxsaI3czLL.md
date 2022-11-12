@@ -4,7 +4,7 @@
 
 > 眠れない夜も音楽と一緒に。くつろぎながら、入眠効果のある音楽と素敵な夜をゆったりとお過ごし下さい。
 
-93 songs - 6 hr 40 min - not published yet
+95 songs - 6 hr 49 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,8 @@
 | [Separate Seasons](https://open.spotify.com/track/6B5YgFMDxPjWVuiOA1oid4) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb) | [Westbound EP](https://open.spotify.com/album/7KE6QLulOMXqVsN4XiJvxF) | 3:48 | 2022-10-20 |  |
 | [Skiffle Song](https://open.spotify.com/track/5NyhaNUwfFWrfu5TRGlgi1) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2) | [けものたちの名前](https://open.spotify.com/album/1wbLdEmioNHnFkV9Q7muxt) | 5:16 | 2022-10-20 | 2022-11-09 |
 | [Sleeping in Waking](https://open.spotify.com/track/2zx4apdK8SZeHqDLYLLfCe) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Sleeping in Waking](https://open.spotify.com/album/2EXjrlqsinxkPKguQMlbN2) | 3:53 | 2022-11-01 |  |
-| [Suzume](https://open.spotify.com/track/7LHAKF7pBqHch8o6Yo0ad5) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [Toaka](https://open.spotify.com/artist/3GzVC7GGbmO2SuBu92DqUn) | [Suzume](https://open.spotify.com/album/7HT4WPE6gHPxrRmgzhhTMr) | 3:56 | 2022-10-20 |  |
+| [Suzume](https://open.spotify.com/track/7LHAKF7pBqHch8o6Yo0ad5) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [Toaka](https://open.spotify.com/artist/3GzVC7GGbmO2SuBu92DqUn) | [Suzume](https://open.spotify.com/album/7HT4WPE6gHPxrRmgzhhTMr) | 3:56 | 2022-10-20 | 2022-11-12 |
+| [Suzume](https://open.spotify.com/track/1n1y2kFPISpF9WGD3JaFo5) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [Toaka](https://open.spotify.com/artist/3GzVC7GGbmO2SuBu92DqUn) | [Suzume \(Motion Picture Soundtrack\)](https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq) | 3:58 | 2022-11-10 |  |
 | [Sympathy](https://open.spotify.com/track/23Mcmg5O8rBKAOzxvrTjnD) | [Kitri](https://open.spotify.com/artist/2i9CbxfaMspiPMCYZgvgPW) | [Hikare Inochi](https://open.spotify.com/album/6UoFSfFtSDp97egQC3Vnas) | 3:30 | 2022-10-20 |  |
 | [Tell Me Why](https://open.spotify.com/track/6StniiGea66FWIPEO27Kcz) | [ReN](https://open.spotify.com/artist/22wa94PJF9zyFJMTp2BYus) | [LIFE SAVER](https://open.spotify.com/album/4yF5qFpQtH3DWlEW7uMQfI) | 4:48 | 2022-11-08 |  |
 | [Tsukihi](https://open.spotify.com/track/5G96ChqEFsCwZhJAx2I2zM) | [buoy](https://open.spotify.com/artist/0SoIfZImEkbzedoaM9AsPv) | [Tsukihi](https://open.spotify.com/album/4WRhOfyamvXkhiQikRxFrg) | 4:36 | 2022-10-20 | 2022-11-02 |
@@ -93,7 +94,8 @@
 | [深呼吸](https://open.spotify.com/track/67cJ60aXMxPR2e3cjplRAb) | [Hanare Gumi](https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte) | [SHINJITERU](https://open.spotify.com/album/17wK4RXzdKxK13VIyOyQHU) | 3:33 | 2022-10-20 | 2022-11-11 |
 | [灯火](https://open.spotify.com/track/03kdTvI72t9uFwrcgKHgON) | [Yuga](https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT) | [灯火](https://open.spotify.com/album/23A0oqlZ1VCZd7PrVwTcDM) | 3:39 | 2022-10-20 |  |
 | [猫村さんのうた](https://open.spotify.com/track/30G4STumh4gJ0aq2sU3h9t) | [松重豊](https://open.spotify.com/artist/3pHwaIplhKgtrVqaW16o50), [U\-zhaan](https://open.spotify.com/artist/0CDt5nfGQ8it4IerQwquMS), [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [猫村さんのうた](https://open.spotify.com/album/69O6a8s4FMk37vtSs4qjU0) | 2:46 | 2022-10-25 | 2022-11-09 |
-| [瑠璃色の地球\(「この地球の日々たちへ」バージョン\)](https://open.spotify.com/track/5I5ljQOKD3pQDCEDgRpXov) | [Aoi Teshima](https://open.spotify.com/artist/4FrFdi2hHpulQOxDihRIQD) | [Highlights from Aoi Works II](https://open.spotify.com/album/64FUZjyuDC5S9siqurAmcs) | 4:09 | 2022-11-01 |  |
+| [瑠璃色の地球 \- 「この地球の日々たちへ」バージョン](https://open.spotify.com/track/5nWMV6Tq8x5uTS7QKIr0qG) | [Aoi Teshima](https://open.spotify.com/artist/4FrFdi2hHpulQOxDihRIQD) | [東京](https://open.spotify.com/album/47uKJb5DLk9EEBeZbK7HMw) | 4:11 | 2022-11-10 |  |
+| [瑠璃色の地球\(「この地球の日々たちへ」バージョン\)](https://open.spotify.com/track/5I5ljQOKD3pQDCEDgRpXov) | [Aoi Teshima](https://open.spotify.com/artist/4FrFdi2hHpulQOxDihRIQD) | [Highlights from Aoi Works II](https://open.spotify.com/album/64FUZjyuDC5S9siqurAmcs) | 4:09 | 2022-11-01 | 2022-11-12 |
 | [眠れぬ羊 \- with TENDRE](https://open.spotify.com/track/4JMKCqPqhwM7haY0mO3ezj) | [Asako Toki](https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y), [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb) | [Twilight](https://open.spotify.com/album/5gfcLajeC6hAaslnzb0bxf) | 3:53 | 2022-10-25 | 2022-11-09 |
 | [知らない世界も見飽きた](https://open.spotify.com/track/1lY1S9iNCw3zj9mBO7lYkt) | [ikire](https://open.spotify.com/artist/4gKZDjiQ4rqit1cH2upaJc) | [知らない世界も見飽きた](https://open.spotify.com/album/4g1wD85mZX0n8RIz1th8NL) | 2:56 | 2022-10-20 |  |
 | [素晴らしい世界](https://open.spotify.com/track/09VONHJev5pvXazOBr7VVz) | [Naotaro Moriyama](https://open.spotify.com/artist/31VPfrPEa86aKpD2LT3Ued) | [素晴らしい世界](https://open.spotify.com/album/41kjvJsOSF46d9QIv8RuUy) | 7:37 | 2022-10-20 |  |

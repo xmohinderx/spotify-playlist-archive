@@ -4,7 +4,7 @@
 
 > in the evening the real me comes alive
 
-464 songs - 1 day 2 hr 20 min - [published](https://open.spotify.com/playlist/4uegMGWDoppa2uOkW5upmp)
+465 songs - 1 day 2 hr 24 min - [published](https://open.spotify.com/playlist/4uegMGWDoppa2uOkW5upmp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [All the Feels](https://open.spotify.com/track/0XGEJ2ggFFuD35Aj21kZJR) | [Scavenger Hunt](https://open.spotify.com/artist/2CJw5Z0VmlBMrS1J1dtG9Z) | [All the Feels](https://open.spotify.com/album/537eFZTXjHEPouGWY0ZY21) | 3:17 | 2022-07-15 | 2022-07-19 |
 | [All The Things She Said](https://open.spotify.com/track/4EWfxnUb6TPQlaUjFgxnym) | [Rebecca & Fiona](https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75) | [All The Things She Said](https://open.spotify.com/album/5ESAbhn6KetEUOmf5VOkkh) | 3:19 | 2022-01-01 | 2022-03-12 |
 | [altar](https://open.spotify.com/track/501mFwKeLnybf8JO3XL66O) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [altar](https://open.spotify.com/album/7aQ67hIkvYTPsXFEPL6CyI) | 4:03 | 2021-10-02 | 2022-04-17 |
-| [AMAN](https://open.spotify.com/track/5WJ3W0FYgcD9d3So3onSkQ) | [Amanda Tenfjord](https://open.spotify.com/artist/187i912U6kpq0F0Z9uOVXr), [Evangelia](https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK) | [AMAN](https://open.spotify.com/album/7lFqKeCpgi4Us8PGIfDSD5) | 3:10 | 2022-09-16 |  |
+| [AMAN](https://open.spotify.com/track/5WJ3W0FYgcD9d3So3onSkQ) | [Amanda Tenfjord](https://open.spotify.com/artist/187i912U6kpq0F0Z9uOVXr), [Evangelia](https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK) | [AMAN](https://open.spotify.com/album/7lFqKeCpgi4Us8PGIfDSD5) | 3:10 | 2022-09-16 | 2022-11-12 |
 | [America Online](https://open.spotify.com/track/2MnAs40kO1izWTF63MW5uM) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [America Online](https://open.spotify.com/album/7nUIXnRMkRFbyoduYKRnvF) | 5:49 | 2020-10-13\* | 2021-12-04 |
 | [AMERICAN GURL](https://open.spotify.com/track/1YYcaX7Mft6dVeSSwfyAuh) | [Kilo Kish](https://open.spotify.com/artist/7lsnwlX6puQ7lcpSEpJbZE) | [AMERICAN GURL](https://open.spotify.com/album/5LXmSrGzPSEmTEu3OIsotT) | 3:48 | 2022-04-15 | 2022-05-20 |
 | [Angel](https://open.spotify.com/track/4lHUHDjJCQ1KoBu6tPn3N6) | [Desire](https://open.spotify.com/artist/2OuSnRT9BKAvFuw0yoTim0) | [Angel](https://open.spotify.com/album/3TeE4aUIN4xID8Ao7rQZLm) | 3:56 | 2021-09-11 | 2022-05-19 |
@@ -440,6 +440,7 @@
 | [Traitor](https://open.spotify.com/track/13AxsHppGvU1LsftFSuAJV) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [Traitor](https://open.spotify.com/album/3pCnOxJezgI4KmcKMznAE7) | 2:57 | 2021-06-26 | 2022-01-08 |
 | [Treat Me Right](https://open.spotify.com/track/6NkOdTkgyQk5fSEtwGYpE6) | [TATYANA](https://open.spotify.com/artist/40SwTLJmxQgWXTFi4YUKyP) | [Treat Me Right](https://open.spotify.com/album/03hafzXxELqD67fD1siVhS) | 3:08 | 2022-03-31 | 2022-07-28 |
 | [Twennies](https://open.spotify.com/track/28LNs1oQ8met8Ul8p8RHbe) | [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n) | [Twennies](https://open.spotify.com/album/5rdmUTXVk9cVxOMknuSzUx) | 2:51 | 2022-09-09 | 2022-09-17 |
+| [Twennies \(feat\. The Knocks\) \- Remix](https://open.spotify.com/track/2udzkXs8wSPiRNDmzomieS) | [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC) | [Twennies \(feat\. The Knocks\) \[Remix\]](https://open.spotify.com/album/7kspnaid8DF0EbhsIVyv86) | 4:08 | 2022-11-11 |  |
 | [Twenty Something](https://open.spotify.com/track/6tn96Btxy5ysJADC6cXGz8) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [Twenty Something](https://open.spotify.com/album/51WevfxIZpP81UzN8t3h72) | 4:36 | 2020-10-13\* | 2021-11-20 |
 | [Twisted Mind](https://open.spotify.com/track/3Ofr27P70Y5D1dG9iwqFPD) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [Exotica \(Deluxe\)](https://open.spotify.com/album/4lPKHjh6OjSKP4SsIxXIsv) | 5:20 | 2022-03-11 | 2022-04-21 |
 | [V.C.R.](https://open.spotify.com/track/5PbgSubIzKFLBCI7Jp9ilH) | [Chey Rose](https://open.spotify.com/artist/1FLo8t5Xtr2OOWob1rXcOa) | [Even the Moon Goes Through Phases](https://open.spotify.com/album/31n7OYKnEojZZS9KIzLGIx) | 2:55 | 2021-07-20 | 2022-02-05 |

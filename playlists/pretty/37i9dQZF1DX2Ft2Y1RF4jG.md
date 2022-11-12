@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Ft2Y1RF4jG.md) - [plain]
 
 > pov: you're wearing a fluffy pink dress in a John Hughes movie
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,478 likes - 75 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,740 likes - 75 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Waiting for a Star to Fall](https://open.spotify.com/track/09huOVRryZNV2deKFZLJDC) | [Boy Meets Girl](https://open.spotify.com/artist/02Xpf8IlAGeelWAQZP33kQ) | [Reel Life \(Expanded Edition\)](https://open.spotify.com/album/239pbWGvEVRkGAmeiZYwtp) | 4:30 |
-| 2 | [Nothing's Gonna Stop Us Now](https://open.spotify.com/track/3X7uFMzJrEE0sxn62qd8Ch) | [Starship](https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf) | [No Protection](https://open.spotify.com/album/3nCQjsOzTmnWM6gnjIaT8J) | 4:30 |
+| 2 | [Nothing's Gonna Stop Us Now](https://open.spotify.com/track/6g8VJsF9fPZKKc6BUwLbbm) | [Starship](https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf) | [American Soft Rock](https://open.spotify.com/album/2SSQQYyYy6DYyDaV3eAkJ7) | 4:30 |
 | 3 | [Let's Hear It for the Boy \- From "Footloose" Soundtrack](https://open.spotify.com/track/78U9ftoV4Y5PmtHAzTZnFr) | [Deniece Williams](https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd) | [Footloose \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Tx8adY1323eMrMuvPILpl) | 4:20 |
 | 4 | [Jessie's Girl](https://open.spotify.com/track/5RsUlxLto4NZbhJpqJbHfN) | [Rick Springfield](https://open.spotify.com/artist/6IFXsrXBpwbIqtOUOiAa3p) | [Working Class Dog](https://open.spotify.com/album/4KKFWTePKtgb6mOwFDqxYa) | 3:14 |
 | 5 | [Tell It to My Heart](https://open.spotify.com/track/3YVPpVJvJG2EauXurPA90F) | [Taylor Dayne](https://open.spotify.com/artist/32lVGr0fSRGT6okLKHiP68) | [Tell It to My Heart \(Expanded Edition\)](https://open.spotify.com/album/2hlHv54WpTInFIRMk3Hwjk) | 3:40 |
-| 6 | [Don't You \(Forget About Me\)](https://open.spotify.com/track/3fH4KjXFYMmljxrcGrbPj9) | [Simple Minds](https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj) | [Once Upon A Time \(Super Deluxe\)](https://open.spotify.com/album/4YimfceN1R0nOS9CefIFhm) | 4:23 |
+| 6 | [Don't You \(Forget About Me\)](https://open.spotify.com/track/0ezckWxXZiimuW1qMo0Dv3) | [Simple Minds](https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj) | [Best 80s Hits](https://open.spotify.com/album/6Vg7x7zOtYon7HEE4m4oz0) | 4:20 |
 | 7 | [The Power Of Love](https://open.spotify.com/track/2olVm1lHicpveMAo4AUDRB) | [Huey Lewis & The News](https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6) | [Greatest Hits: Huey Lewis And The News](https://open.spotify.com/album/0u34k1ANjgZ47uQfG9yaLj) | 3:54 |
 | 8 | [Eternal Flame](https://open.spotify.com/track/4xiaE15ARCs5CVPA6J8gmC) | [The Bangles](https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC) | [Everything](https://open.spotify.com/album/6Zryl3gseZcPOYq3KnPXf9) | 3:55 |
 | 9 | [Wouldn't It Be Good](https://open.spotify.com/track/00FDHurakzVEiPutdUxXXq) | [Nik Kershaw](https://open.spotify.com/artist/7kCL98rPFsNKjAHDmWrMac) | [Human Racing](https://open.spotify.com/album/5cl4eOKYrrX0pcFFnEieYR) | 4:37 |
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Ft2Y1RF4jG.md) - [plain]
 | 19 | [Girls Just Want to Have Fun](https://open.spotify.com/track/2zjt2hHBbiv5SuxYg8Z7eP) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [She's So Unusual: A 30th Anniversary Celebration \(Deluxe Edition\)](https://open.spotify.com/album/4pox3k0CGuwwAknR9GtcoX) | 3:58 |
 | 20 | [Hungry Eyes \- From "Dirty Dancing" Soundtrack](https://open.spotify.com/track/31H6au3jhblhr6MMJiXnCq) | [Eric Carmen](https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU) | [The Definitive Collection](https://open.spotify.com/album/02CxAhdSRhzcm6XQ8m5RNp) | 4:11 |
 | 21 | [Don't Stop Believin'](https://open.spotify.com/track/4bHsxqR3GMrXTxEPLuK5ue) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Escape \(Bonus Track Version\)](https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0) | 4:10 |
-| 22 | [Heaven Is A Place On Earth \- Promo 7" Edit](https://open.spotify.com/track/3EvpaRZkKWxsgDIO2zMH7g) | [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U) | [Heaven On Earth \(Deluxe Edition\)](https://open.spotify.com/album/34SBayfOPJb9ztyCTvS3no) | 3:53 |
+| 22 | [Heaven Is A Place On Earth](https://open.spotify.com/track/4ximX972uTGJNyKDqqGItu) | [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U) | ['80s Pop Number 1's](https://open.spotify.com/album/5jiJM0tIbaoc33qGGkBAys) | 4:11 |
 | 23 | [Take My Breath Away \- Love Theme from "Top Gun"](https://open.spotify.com/track/15MJ5NThPjj6xhPcts8MiY) | [Berlin](https://open.spotify.com/artist/2aS6jYh7ysTL1ZUsHneNgM) | [Top Gun \- Motion Picture Soundtrack \(Special Expanded Edition\)](https://open.spotify.com/album/6K8iDZW8jPaoiqSzFFebJA) | 4:15 |
 | 24 | [Dancing In the Dark](https://open.spotify.com/track/7FwBtcecmlpc1sLySPXeGE) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 4:01 |
 | 25 | [Take on Me](https://open.spotify.com/track/2WfaOiMkCvy7F5fcp2zZ8L) | [a\-ha](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) | [Hunting High and Low](https://open.spotify.com/album/1ER3B6zev5JEAaqhnyyfbf) | 3:45 |
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Ft2Y1RF4jG.md) - [plain]
 | 47 | [Dancing On The Ceiling](https://open.spotify.com/track/0snPJPxkk0MbTc0xeUvAPt) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Dancing On The Ceiling \(Expanded Edition\)](https://open.spotify.com/album/5IvqScO5vIXQ2zrxtpCVHf) | 4:30 |
 | 48 | [True \- 2003 Remaster](https://open.spotify.com/track/10I09MLZCY4pK37XxAfkw0) | [Spandau Ballet](https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv) | [True \(Special Edition\)](https://open.spotify.com/album/2iGwIUZh0tNkhOtqoo812B) | 6:33 |
 | 49 | [It's My Life \- 1997 Remaster](https://open.spotify.com/track/4jhsuQCUCJKA5f0bXb6XdJ) | [Talk Talk](https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf) | [It's My Life](https://open.spotify.com/album/152Hw6E0tNz3EQNq9c1CDf) | 3:52 |
-| 50 | [Heaven](https://open.spotify.com/track/7Ewz6bJ97vUqk5HdkvguFQ) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Reckless \(30th Anniversary / Deluxe Edition\)](https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL) | 4:03 |
+| 50 | [Heaven](https://open.spotify.com/track/3Z2ZkcvjN4NP4iwkIsuI8p) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Valentin\-napi Retro Válogatás 2021](https://open.spotify.com/album/3FVx8KyZez2FCz3UQemuG0) | 4:04 |
 | 51 | [Just the Two of Us \(feat\. Bill Withers\)](https://open.spotify.com/track/1ko2lVN0vKGUl9zrU0qSlT) | [Grover Washington, Jr.](https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1), [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Anthology](https://open.spotify.com/album/1lKYaRbV0AayVPss9i4oOp) | 7:18 |
 | 52 | [Material Girl](https://open.spotify.com/track/22sLuJYcvZOSoLLRYev1s5) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 4:00 |
 | 53 | [I Want to Know What Love Is \- 1999 Remaster](https://open.spotify.com/track/1JLn8RhQzHz3qDqsChcmBl) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) | [Agent Provocateur](https://open.spotify.com/album/4oQhDQDKMeI6IMlwpXt3j8) | 5:04 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Ft2Y1RF4jG.md) - [plain]
 | 74 | [\(I've Had\) The Time Of My Life \- From "Dirty Dancing" Soundtrack](https://open.spotify.com/track/6W7ztLBiRzBN46ZaPAcQ0F) | [Bill Medley](https://open.spotify.com/artist/1XE70WwxhnrXNAJYQQ9ygx), [Jennifer Warnes](https://open.spotify.com/artist/1BwHztAQKypBuy5WBEdJnG) | [Dirty Dancing \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0mtLFaQ3hL371jsNraRo9g) | 4:50 |
 | 75 | [Don't Dream It's Over](https://open.spotify.com/track/7G7tgVYORlDuVprcYHuFJh) | [Crowded House](https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB) | [Crowded House](https://open.spotify.com/album/1dJpgn1rqvvr4yyNYLEYBG) | 3:56 |
 
-Snapshot ID: `MTY2NTM1OTUxNywwMDAwMDAwMDNjYTljY2JiYzI1ZDFlMjdlNjEwNmMzZmYxYTk3Mzcw`
+Snapshot ID: `MTY2NTM1OTUxNywwMDAwMDAwMDBjYmJhN2I5YmVlZjhhZDFiNGRjZjY0OTc0ZjM4NzI3`

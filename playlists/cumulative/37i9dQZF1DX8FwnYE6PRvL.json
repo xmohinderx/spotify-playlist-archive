@@ -854,6 +854,24 @@
     },
     {
       "album": {
+        "name": "Rumours",
+        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193346,
+      "name": "Don't Stop - 2004 Remaster",
+      "url": "https://open.spotify.com/track/4bEb3KE4mSKlTFjtWJQBqO"
+    },
+    {
+      "album": {
         "name": "Escape (Bonus Track Version)",
         "url": "https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0"
       },
@@ -901,7 +919,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 209413,
       "name": "Don't Stop Me Now - Remastered 2011",
       "url": "https://open.spotify.com/track/7hQJA50XrCWABAu5v6QZ4i"
@@ -1765,7 +1783,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 207093,
       "name": "In Too Deep",
       "url": "https://open.spotify.com/track/1HNE2PX70ztbEl6MLxrpNL"
@@ -2755,7 +2773,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 191946,
       "name": "Roxanne",
       "url": "https://open.spotify.com/track/3EYOJ48Et32uATr9ZmLnAo"
@@ -2971,10 +2989,28 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 258026,
       "name": "Sharp Dressed Man - 2008 Remaster",
       "url": "https://open.spotify.com/track/1UBQ5GK8JaQjm5VbkBZY66"
+    },
+    {
+      "album": {
+        "name": "Out Of Time (25th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6yEuIwTQpciH1qtj7mP5GK"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225786,
+      "name": "Shiny Happy People",
+      "url": "https://open.spotify.com/track/1v2zyAJrChw5JnfafSkwkJ"
     },
     {
       "album": {
@@ -3385,7 +3421,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 237026,
       "name": "Take Me Out",
       "url": "https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN"
@@ -3511,7 +3547,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 165853,
       "name": "The Middle",
       "url": "https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO"

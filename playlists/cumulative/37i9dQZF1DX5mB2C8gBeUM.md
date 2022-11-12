@@ -4,7 +4,7 @@
 
 > Country gone wild! You never know what you're gonna get\. Artist: Walker Hayes
 
-301 songs - 15 hr 22 min - [published](https://open.spotify.com/playlist/2NFX3fEEavFql8EoHSR8S8)
+303 songs - 15 hr 28 min - [published](https://open.spotify.com/playlist/2NFX3fEEavFql8EoHSR8S8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,6 +193,7 @@
 | [Mirror Mirror](https://open.spotify.com/track/056K0FrfQlXzBvmjUOirnQ) | [Love and Theft](https://open.spotify.com/artist/03a5eVjzFyQlR4XyVSwt4t) | [Mirror Mirror](https://open.spotify.com/album/72dQeejmZ6ewp4C8DTicwO) | 2:39 | 2021-12-10 | 2022-01-08 |
 | [Missing You](https://open.spotify.com/track/4yfSSCOrcAcgzcGAtc9LCW) | [Lauren Weintraub](https://open.spotify.com/artist/0eYsDVXAe2mc4F8QrBLHAq) | [Missing You](https://open.spotify.com/album/7AFjkjnNLLn6LIDJJls1lK) | 3:03 | 2022-03-18 |  |
 | [More Me](https://open.spotify.com/track/05ZbkONztKDhdE4tC4OJqB) | [Sophia Scott](https://open.spotify.com/artist/3lNLsfeVJSiSyjk2tXnPAp) | [More Me](https://open.spotify.com/album/4P9iA68PjGj5qZjZQZ2sDx) | 2:22 | 2022-05-20 |  |
+| [Mossy Oak](https://open.spotify.com/track/5UkFiwN3kpaXVddrSsy7gD) | [Redferrin](https://open.spotify.com/artist/4oCk0xbmAtqXZFzXtH3AgF) | [Mossy Oak](https://open.spotify.com/album/73NsO8CqAGq4lykIq8nQYR) | 1:50 | 2022-11-11 |  |
 | [Mountain Time](https://open.spotify.com/track/6ArYYQLIE72oFHGYcZ0fhW) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [Coyote Cry](https://open.spotify.com/album/5uQt9PVJIZvYjOL43EkOId) | 3:20 | 2021-12-10 | 2022-02-26 |
 | [Moving](https://open.spotify.com/track/0dDyKNYx6BMJcAG5Jw5FfM) | [Ian McConnell](https://open.spotify.com/artist/4cnccBVC82QHFHuOVxzqM1) | [Moving](https://open.spotify.com/album/4LVFhNajXj2ZZUYetJpzF6) | 2:43 | 2021-12-10 | 2022-07-09 |
 | [Mr\. Percocet](https://open.spotify.com/track/0kZfIS6tmcL7lSvUaa1D1D) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part](https://open.spotify.com/album/340COGAWuXWO66Qc4TxJuN) | 3:13 | 2022-10-07 | 2022-11-02 |
@@ -298,8 +299,9 @@
 | [Who Are You Kidding?](https://open.spotify.com/track/0MNRFOV4FnArjHK6Elx5uj) | [Matt Schuster](https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD) | [Who Are You Kidding?](https://open.spotify.com/album/5Jn4Ph14KfaiKLSaAtY6SK) | 3:27 | 2021-12-10 | 2022-06-04 |
 | [Why Can't Love Be The Reason \(feat\. Garzon\)](https://open.spotify.com/track/7iGCPgtU0Q7rX73u9rFdX9) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Garzon](https://open.spotify.com/artist/0Yf4uJcivvNFZD2casW6lf) | [Cowboys Live Forever, Outlaws Never Die](https://open.spotify.com/album/3QEQeBF0NJ5BvvPY8lyWsP) | 3:09 | 2022-10-07 |  |
 | [Why Should We](https://open.spotify.com/track/0h6qJZXkVGNUIoM4q8CrFH) | [CHASE WRIGHT](https://open.spotify.com/artist/4P70LmF7PJwBGS9BV5dk2c) | [Why Should We](https://open.spotify.com/album/506ax7XUl3ogqAfdnxc3Ad) | 2:52 | 2021-12-10 | 2022-01-08 |
-| [Wild Frontier](https://open.spotify.com/track/22B9J6s9aow7JYeECKXqUI) | [Stephanie Quayle](https://open.spotify.com/artist/2PuPNn5AuwwEweFONV7gol) | [Stephanie Quayle](https://open.spotify.com/album/1aEYhs7G0H42T0t36lzu4W) | 3:36 | 2022-07-22 |  |
+| [Wild Frontier](https://open.spotify.com/track/22B9J6s9aow7JYeECKXqUI) | [Stephanie Quayle](https://open.spotify.com/artist/2PuPNn5AuwwEweFONV7gol) | [Stephanie Quayle](https://open.spotify.com/album/1aEYhs7G0H42T0t36lzu4W) | 3:36 | 2022-07-22 | 2022-11-12 |
 | [Wild Frontier](https://open.spotify.com/track/57gjWu6xmWpk0XoNEIi08w) | [Stephanie Quayle](https://open.spotify.com/artist/2PuPNn5AuwwEweFONV7gol) | [Wild Frontier](https://open.spotify.com/album/2yG5wph6NJ77bHAAuNvBNG) | 3:36 | 2021-12-10 | 2022-07-29 |
+| [Wild Frontier](https://open.spotify.com/track/7wSqcgvYMXyy8r2Lx49PLD) | [Stephanie Quayle](https://open.spotify.com/artist/2PuPNn5AuwwEweFONV7gol) | [Wild Frontier](https://open.spotify.com/album/0sapxQX0SyPrNUMT1N9Qi5) | 3:36 | 2022-11-11 |  |
 | [Winning](https://open.spotify.com/track/5qEb5GTv9yy7Y7kLJCSMFN) | [Kyle Clark](https://open.spotify.com/artist/7mog8g5ixRhdaeCgIsiYtN) | [Winning](https://open.spotify.com/album/28HlFH22jF08ZKNMF15a0E) | 2:56 | 2021-12-10 |  |
 | [Worth A Shot \(feat\. Dierks Bentley\)](https://open.spotify.com/track/16Sdmdt7jpibASwEsO0s9j) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx), [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Worth A Shot \(feat\. Dierks Bentley\)](https://open.spotify.com/album/6BkvN6AfqiLF186w0SThQm) | 3:31 | 2022-05-13 |  |
 | [Y'all Life](https://open.spotify.com/track/1KHCFA1Wb1MYQi4WQIYqrm) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Y'all Life](https://open.spotify.com/album/50v40WMdEdqVFy9stzuW3y) | 3:12 | 2022-07-15 | 2022-10-15 |

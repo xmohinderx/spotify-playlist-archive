@@ -1,29 +1,13 @@
 {
   "description": "During the height of the 60s, no one knew how to convey the message of love and peace better than the Beatles.",
-  "num_followers": 293449,
+  "num_followers": 293506,
   "original_name": "All You Need Is Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU2OTUxMTQ5MywwMDAwMDAwMGYyMDVmYWI5OTZkYjgwYzlmMWJiNTcxNTAzMjIzYzky",
+  "snapshot_id": "MTU2OTUxMTQ5MywwMDAwMDAwMGVkNzYyNzU4ZTE4MTExZGJmNzY4MzFmNmJlNzVkY2Ez",
   "tracks": [
-    {
-      "added_at": "2019-09-26 09:28:59",
-      "album": {
-        "name": "Magical Mystery Tour (Remastered)",
-        "url": "https://open.spotify.com/album/2BtE7qm1qzM80p9vLSiXkj"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 230386,
-      "name": "All You Need Is Love - Remastered 2009",
-      "url": "https://open.spotify.com/track/68BTFws92cRztMS1oQ7Ewj"
-    },
     {
       "added_at": "2019-09-26 09:28:59",
       "album": {
@@ -36,9 +20,25 @@
           "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
         }
       ],
-      "duration_ms": 425653,
-      "name": "Hey Jude - Remastered 2015",
-      "url": "https://open.spotify.com/track/0aym2LBJBk9DAYuHHutrIl"
+      "duration_ms": 227760,
+      "name": "All You Need Is Love - Remastered 2015",
+      "url": "https://open.spotify.com/track/6KqiVlOLfDzJViJVAPym1p"
+    },
+    {
+      "added_at": "2019-09-26 09:28:59",
+      "album": {
+        "name": "The Beatles 1967 - 1970 (Remastered)",
+        "url": "https://open.spotify.com/album/1cTeNkeINtXiaMLlashAKs"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 431333,
+      "name": "Hey Jude - Remastered 2009",
+      "url": "https://open.spotify.com/track/3m7V717IKZqZLW5qUIOxdD"
     },
     {
       "added_at": "2019-09-26 09:28:59",
@@ -363,8 +363,8 @@
     {
       "added_at": "2019-09-26 09:28:59",
       "album": {
-        "name": "1 (Remastered)",
-        "url": "https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh"
+        "name": "Past Masters (Vols. 1 & 2 / Remastered)",
+        "url": "https://open.spotify.com/album/3GmCXW10kLxmZrEY0JpRlw"
       },
       "artists": [
         {
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
         }
       ],
-      "duration_ms": 140920,
-      "name": "She Loves You - Mono / Remastered",
-      "url": "https://open.spotify.com/track/6nEkxYIEnrbYH7h1hJ8Xn6"
+      "duration_ms": 141333,
+      "name": "She Loves You - Remastered 2009",
+      "url": "https://open.spotify.com/track/48JM82SHQTBYkhEYhMaOaa"
     },
     {
       "added_at": "2019-09-26 09:28:59",

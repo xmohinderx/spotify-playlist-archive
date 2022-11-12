@@ -1,12 +1,12 @@
 {
   "description": "Discover the music of Schumann.",
-  "num_followers": 34564,
+  "num_followers": 34597,
   "original_name": "This Is Schumann",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzU2NzgyMCwwMDAwMDAwMDFmYjY1NDc3MDliOGFmMmFjNWVmZTAzNzliOTY4Nzdm",
+  "snapshot_id": "MTY2NzU2NzgyMCwwMDAwMDAwMDM3YjQzY2ZjNzQxMGQyZjk0OGYyOTNiMGNiYWNjMTQx",
   "tracks": [
     {
       "added_at": "2022-11-04 13:17:00",
@@ -663,6 +663,38 @@
     {
       "added_at": "2022-11-04 13:17:00",
       "album": {
+        "name": "Schumann: Das Paradies und die Peri",
+        "url": "https://open.spotify.com/album/5qQbLaME0qmQ3RSUYtGLHd"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "London Symphony Chorus",
+          "url": "https://open.spotify.com/artist/7gCZfkXLOfuZozSItq6tCG"
+        },
+        {
+          "name": "Sir Simon Rattle",
+          "url": "https://open.spotify.com/artist/4GQwgdcDQwqtcHICjUNndp"
+        },
+        {
+          "name": "Simon Halsey",
+          "url": "https://open.spotify.com/artist/4Ip1bpjhIV8RKLDuKB0N2L"
+        }
+      ],
+      "duration_ms": 112520,
+      "name": "Das Paradies und die Peri, Op. 50, Erster Teil: No. 8 Weh, weh, er fehlte das Ziel",
+      "url": "https://open.spotify.com/track/690XpbTwwfD1pd6tw8rUGJ"
+    },
+    {
+      "added_at": "2022-11-04 13:17:00",
+      "album": {
         "name": "Schumann: Frage",
         "url": "https://open.spotify.com/album/1PY3eZFiACssW8rfkG1qMu"
       },
@@ -707,8 +739,8 @@
     {
       "added_at": "2022-11-04 13:17:00",
       "album": {
-        "name": "Schumann: Das Paradies und die Peri",
-        "url": "https://open.spotify.com/album/5qQbLaME0qmQ3RSUYtGLHd"
+        "name": "Mozart: Quintet in E-Flat & Trio in E-Flat - Schumann: M\u00e4rchenerz\u00e4hlungen & Fantasiest\u00fccke",
+        "url": "https://open.spotify.com/album/4ATmHy2jtryKewpgqLW1yR"
       },
       "artists": [
         {
@@ -716,25 +748,13 @@
           "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
         },
         {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
-        },
-        {
-          "name": "London Symphony Chorus",
-          "url": "https://open.spotify.com/artist/7gCZfkXLOfuZozSItq6tCG"
-        },
-        {
-          "name": "Sir Simon Rattle",
-          "url": "https://open.spotify.com/artist/4GQwgdcDQwqtcHICjUNndp"
-        },
-        {
-          "name": "Simon Halsey",
-          "url": "https://open.spotify.com/artist/4Ip1bpjhIV8RKLDuKB0N2L"
+          "name": "Nash Ensemble",
+          "url": "https://open.spotify.com/artist/4JxE9udapTtgj0yOFS4Se7"
         }
       ],
-      "duration_ms": 112520,
-      "name": "Das Paradies und die Peri, Op. 50, Erster Teil: No. 8 Weh, weh, er fehlte das Ziel",
-      "url": "https://open.spotify.com/track/690XpbTwwfD1pd6tw8rUGJ"
+      "duration_ms": 275466,
+      "name": "M\u00e4rchenerz\u00e4hlungen for Piano, Clarinet and Viola, Op. 132",
+      "url": "https://open.spotify.com/track/33kssi5UBcOtZIby6VxQhR"
     },
     {
       "added_at": "2022-11-04 13:17:00",
@@ -763,26 +783,6 @@
       "duration_ms": 475426,
       "name": "Cello Concerto in A minor, op. 129: III. Finale vivace - Sehr Lebhaft",
       "url": "https://open.spotify.com/track/01Q0yJSYeyoNFYxJXjWbQG"
-    },
-    {
-      "added_at": "2022-11-04 13:17:00",
-      "album": {
-        "name": "Mozart: Quintet in E-Flat & Trio in E-Flat - Schumann: M\u00e4rchenerz\u00e4hlungen & Fantasiest\u00fccke",
-        "url": "https://open.spotify.com/album/4ATmHy2jtryKewpgqLW1yR"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Nash Ensemble",
-          "url": "https://open.spotify.com/artist/4JxE9udapTtgj0yOFS4Se7"
-        }
-      ],
-      "duration_ms": 275466,
-      "name": "M\u00e4rchenerz\u00e4hlungen for Piano, Clarinet and Viola, Op. 132",
-      "url": "https://open.spotify.com/track/33kssi5UBcOtZIby6VxQhR"
     },
     {
       "added_at": "2022-11-04 13:17:00",
@@ -951,6 +951,26 @@
     {
       "added_at": "2022-11-04 13:17:00",
       "album": {
+        "name": "Schumann: Piano Trios",
+        "url": "https://open.spotify.com/album/2M0yWj2uwyyGiGJxKm8Nwx"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Leif Ove Andsnes",
+          "url": "https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL"
+        }
+      ],
+      "duration_ms": 478546,
+      "name": "Schumann: Piano Trio No. 1 in D Minor, Op. 63: IV. Mit Feuer",
+      "url": "https://open.spotify.com/track/5Nxjc7qVeZTcNv7lCNTiSS"
+    },
+    {
+      "added_at": "2022-11-04 13:17:00",
+      "album": {
         "name": "Schumann, R.: Dichterliebe, Op. 48 / Liederkreis, Op. 39",
         "url": "https://open.spotify.com/album/5En6DGCjjYAZqLZ39egU8A"
       },
@@ -971,26 +991,6 @@
       "duration_ms": 116200,
       "name": "Liederkreis, Op. 39: In der Fremde",
       "url": "https://open.spotify.com/track/4kStvokm1k1PFT5mTuoU1B"
-    },
-    {
-      "added_at": "2022-11-04 13:17:00",
-      "album": {
-        "name": "Schumann: Piano Trios",
-        "url": "https://open.spotify.com/album/2M0yWj2uwyyGiGJxKm8Nwx"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Leif Ove Andsnes",
-          "url": "https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL"
-        }
-      ],
-      "duration_ms": 478546,
-      "name": "Schumann: Piano Trio No. 1 in D Minor, Op. 63: IV. Mit Feuer",
-      "url": "https://open.spotify.com/track/5Nxjc7qVeZTcNv7lCNTiSS"
     },
     {
       "added_at": "2022-11-04 13:17:00",
@@ -1047,6 +1047,30 @@
     {
       "added_at": "2022-11-04 13:17:00",
       "album": {
+        "name": "Live from the Lugano Festival 2007",
+        "url": "https://open.spotify.com/album/1DuZ25ZGiTC2kAVIEubWgw"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Gabriela Montero",
+          "url": "https://open.spotify.com/artist/0zn66Km3MeK24VuWUZydgr"
+        },
+        {
+          "name": "Martha Argerich",
+          "url": "https://open.spotify.com/artist/66MvLAvLznk5UOvASVGjk4"
+        }
+      ],
+      "duration_ms": 808160,
+      "name": "Andante and Variation for two pianos, Op.46",
+      "url": "https://open.spotify.com/track/46g55JN50hOZNdaLH9s6VF"
+    },
+    {
+      "added_at": "2022-11-04 13:17:00",
+      "album": {
         "name": "Schumann: Missa sacra; 4 doppelch\u00f6rige Ges\u00e4nge",
         "url": "https://open.spotify.com/album/0hcRHKRzGfDrUmqOvVpPsC"
       },
@@ -1071,30 +1095,6 @@
       "duration_ms": 172186,
       "name": "Missa Sacra Op. 147: IV. Offertorium",
       "url": "https://open.spotify.com/track/01bUsrRqDL4L7UL2faL6VF"
-    },
-    {
-      "added_at": "2022-11-04 13:17:00",
-      "album": {
-        "name": "Live from the Lugano Festival 2007",
-        "url": "https://open.spotify.com/album/1DuZ25ZGiTC2kAVIEubWgw"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Gabriela Montero",
-          "url": "https://open.spotify.com/artist/0zn66Km3MeK24VuWUZydgr"
-        },
-        {
-          "name": "Martha Argerich",
-          "url": "https://open.spotify.com/artist/66MvLAvLznk5UOvASVGjk4"
-        }
-      ],
-      "duration_ms": 808160,
-      "name": "Andante and Variation for two pianos, Op.46",
-      "url": "https://open.spotify.com/track/46g55JN50hOZNdaLH9s6VF"
     },
     {
       "added_at": "2022-11-04 13:17:00",
@@ -1343,26 +1343,6 @@
     {
       "added_at": "2022-11-04 13:17:00",
       "album": {
-        "name": "Easy-Listening Piano Classics: Schumann",
-        "url": "https://open.spotify.com/album/7ESxx79sd53ukjQ2OH6w8v"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Kotaro Fukuma",
-          "url": "https://open.spotify.com/artist/2NXGOKB3pcM9r9W2poWyZK"
-        }
-      ],
-      "duration_ms": 416986,
-      "name": "Theme and Variations on the name Abegg, Op. 1",
-      "url": "https://open.spotify.com/track/3A5nVX9JxmxuKWRa4c5bVf"
-    },
-    {
-      "added_at": "2022-11-04 13:17:00",
-      "album": {
         "name": "Sleeping - Schumann",
         "url": "https://open.spotify.com/album/0c8aVgN6xStByn66KPdBf8"
       },
@@ -1383,6 +1363,26 @@
       "duration_ms": 460960,
       "name": "Piano Quintet in E-Flat Major, Op. 44: IV. Finale (Allegro ma non troppo)",
       "url": "https://open.spotify.com/track/2mDd07g7eJmsi9X74s1CLE"
+    },
+    {
+      "added_at": "2022-11-04 13:17:00",
+      "album": {
+        "name": "50 of the Best Classical Music: Schumann",
+        "url": "https://open.spotify.com/album/7eRCToL7a2bIvsBVmYsm5q"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Paul Gulda",
+          "url": "https://open.spotify.com/artist/3YhVnqwZFmH7JRoGrf6v6N"
+        }
+      ],
+      "duration_ms": 386893,
+      "name": "Blumenstuck in D-Flat Major, Op. 19",
+      "url": "https://open.spotify.com/track/68N0w5tWF1AGK3BDIlA2TN"
     }
   ],
   "unique_name": "This Is Schumann",

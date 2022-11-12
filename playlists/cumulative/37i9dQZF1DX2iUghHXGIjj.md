@@ -4,7 +4,7 @@
 
 > Raw, emotional, and acoustic\. Cover: Taj Mahal
 
-152 songs - 9 hr 35 min - [published](https://open.spotify.com/playlist/6OR1PRarcE5A0vVZdgyZgB)
+154 songs - 9 hr 41 min - [published](https://open.spotify.com/playlist/6OR1PRarcE5A0vVZdgyZgB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,8 @@
 | [Johnny law](https://open.spotify.com/track/50NxwJPlcjsT7IqFshyuYP) | [William Elliott Whitmore](https://open.spotify.com/artist/55N838yCXjxLVkBkIM5pnf) | [Animals In The Dark](https://open.spotify.com/album/5oD05jbDmF4rIENz7te94J) | 4:29 | 2020-08-11 |  |
 | [Kansas City Blues](https://open.spotify.com/track/58TQAkARupFHoHVQ00Yj9S) | [Steve Howell](https://open.spotify.com/artist/3xJEpa8iyCscYkG3XlIxBU), [Jason Weinheimer](https://open.spotify.com/artist/4SVe1RgQ8VnJ5Lgb6NodF3) | [A Hundred Years from Today](https://open.spotify.com/album/2h4vnUECqd75oUIBehBMYl) | 3:07 | 2020-08-11 |  |
 | [Keep Your Lamp Trimmed And Burning](https://open.spotify.com/track/1iilSLhyTDanY7cCPwZ3tl) | [Corey Harris](https://open.spotify.com/artist/1TQtbRQbaXw5CeN3mC0DJH) | [Between Midnight And Day](https://open.spotify.com/album/5Ac9bCzeHTohN8KxBwDkzl) | 2:54 | 2020-08-11 | 2022-07-29 |
-| [Keep Your Lamp Trimmed And Burning](https://open.spotify.com/track/5LTMzb6lrWkdgNl4CNwfwx) | [Corey Harris](https://open.spotify.com/artist/1TQtbRQbaXw5CeN3mC0DJH) | [Between Midnight And Day](https://open.spotify.com/album/6fuRNpnOE7QgyT1IcdvpED) | 2:54 | 2020-08-11 |  |
+| [Keep Your Lamp Trimmed And Burning](https://open.spotify.com/track/5LTMzb6lrWkdgNl4CNwfwx) | [Corey Harris](https://open.spotify.com/artist/1TQtbRQbaXw5CeN3mC0DJH) | [Between Midnight And Day](https://open.spotify.com/album/6fuRNpnOE7QgyT1IcdvpED) | 2:54 | 2020-08-11 | 2022-11-12 |
+| [Keep Your Lamp Trimmed And Burning](https://open.spotify.com/track/08CShCm5L8jopYYkpF6bVY) | [Corey Harris](https://open.spotify.com/artist/1TQtbRQbaXw5CeN3mC0DJH) | [Alligator Records 35th Anniversary Collection](https://open.spotify.com/album/5oNBMrK7Upa0tbWsmlDQAt) | 2:55 | 2020-08-11 |  |
 | [Lead Me On](https://open.spotify.com/track/6i7pokV2JiF1et71olScGO) | [Kelly Joe Phelps](https://open.spotify.com/artist/7MGPOWrHHrTJcviOWNbKEF) | [Lead Me On \(15 Year Anniversary Edition\)](https://open.spotify.com/album/4YQ7qU3Se2TBdFg7FpROPs) | 4:47 | 2020-08-11 |  |
 | [Let's Have Some Fun](https://open.spotify.com/track/4krvAl6zfhfDfWL1KdvQAa) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Black Wind Howlin'](https://open.spotify.com/album/7iVYk6SKIzwsUf11kxoNS6) | 4:27 | 2020-08-11 |  |
 | [Letter from Bluewater Man](https://open.spotify.com/track/0vsJuXrbsAhoLmvpfb1T44) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Letter from Bluewater Man](https://open.spotify.com/album/1SwZd4wIIN6tAMs0vPEMJK) | 2:24 | 2021-08-20 |  |
@@ -103,8 +104,9 @@
 | [Other Side of Goodbye](https://open.spotify.com/track/36C3122Qre8AjCMdCQNeAe) | [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5) | [Other Side of Goodbye](https://open.spotify.com/album/1tDJWBen4t2O0QHOHsChrQ) | 2:34 | 2022-01-14 |  |
 | [Outside In](https://open.spotify.com/track/2UkTauEJ6yPkVEVw9YuQKL) | [Chris Smither](https://open.spotify.com/artist/4PM86aECDhcdwuJNZNrR22) | [Train Home](https://open.spotify.com/album/6SEWmobZYy2j8oHGWC70na) | 4:11 | 2020-08-11 | 2022-06-18 |
 | [Pay Day](https://open.spotify.com/track/5oNiGRP6jxcK3uoF2U144o) | [The Blues Preachers](https://open.spotify.com/artist/3ikhKlxQA5V5LcZEos15Zb) | [Dry Long So](https://open.spotify.com/album/2St0nFT4MkzzFhTsFLI7nS) | 4:10 | 2020-08-11 |  |
+| [Play With Your Poodle](https://open.spotify.com/track/0yqFqZtH96Z8WPd9Q6AvJU) | [James Cotton](https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k) | [Harmonica Blues](https://open.spotify.com/album/3CcEEK5lIRYkBfObfCEmSj) | 3:39 | 2020-08-11 |  |
 | [Play With Your Poodle](https://open.spotify.com/track/2Q7j9wJk8DomZhKckPeHdy) | [James Cotton](https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k) | [Blowin' Harp Blues](https://open.spotify.com/album/1M0V9j5iTvdNT2hNGq5utx) | 3:39 | 2020-08-11 | 2022-07-29 |
-| [Play With Your Poodle](https://open.spotify.com/track/3HR1zeLxoPmGuFD8Qxu0Jq) | [James Cotton](https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k) | [Deep In The Blues](https://open.spotify.com/album/1oH2NSqTzggdoVlUcUxLvU) | 3:39 | 2020-08-11 |  |
+| [Play With Your Poodle](https://open.spotify.com/track/3HR1zeLxoPmGuFD8Qxu0Jq) | [James Cotton](https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k) | [Deep In The Blues](https://open.spotify.com/album/1oH2NSqTzggdoVlUcUxLvU) | 3:39 | 2020-08-11 | 2022-11-12 |
 | [Pray For Rain](https://open.spotify.com/track/1lE2aVjpBPUcDO1XlmD0yu) | [Walter Trout](https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq) | [Blues for the Modern Daze](https://open.spotify.com/album/7F73Pr637O5lVlXUsPgUFJ) | 3:14 | 2020-08-11 |  |
 | [Pray For Rain](https://open.spotify.com/track/6TTV5D4GL999sZZgDSHLQU) | [Walter Trout](https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq) | [Blues for the Modern Daze](https://open.spotify.com/album/6Hc2RIipiqxuxYD1C7DdAZ) | 3:14 | 2020-08-11 | 2022-07-29 |
 | [Prisoner](https://open.spotify.com/track/17fAhKyok3ZImAd3mcqtGx) | [Cary Morin](https://open.spotify.com/artist/51oTB1rGltPYEUj9WqBqgh) | [Together](https://open.spotify.com/album/0i7k4eoj7BaJTEckmsismQ) | 4:09 | 2020-08-11 |  |

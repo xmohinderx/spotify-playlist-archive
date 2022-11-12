@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkztttC1w38.md) - [plain]
 
 > Soothing classical music to help you relax while you read.
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,137 likes - 70 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,335 likes - 70 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkztttC1w38.md) - [plain]
 | 44 | [Salut d'amour, Op\. 12](https://open.spotify.com/track/2WZNkbVqATzXscJ6VgYJeo) | [Edward Elgar](https://open.spotify.com/artist/430byzy0c5bPn5opiu0SRd), [Charlie Siem](https://open.spotify.com/artist/3knr6OYOZpM3DI8pBOAfAS), [Paul Goodwin](https://open.spotify.com/artist/4GamZjZFOQyMp7LNx81GwZ) | [Under the Stars](https://open.spotify.com/album/21lNww10aD2NEIr6mR7JyJ) | 2:54 |
 | 45 | [Cello Suite No\. 1 in G Major, BWV 1007: I\. Prélude](https://open.spotify.com/track/61dYvvfIRtIDFuqZypPAta) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk) | [Bach: Unaccompanied Cello Suites \(Remastered\)](https://open.spotify.com/album/2OpnKgmVYPEN2GldgBponI) | 2:31 |
 | 46 | [Sleepless](https://open.spotify.com/track/3IIboL1W5mfWjzPZenvCVe) | [Ola Gjeilo](https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G) | [Sleepless](https://open.spotify.com/album/2VPWAuIYIPe988tW6llpml) | 3:05 |
-| 47 | [Goldberg Variations, BWV 988: Variatio 7 a 1 ovvero 2 Clav\. Al tempo di Giga](https://open.spotify.com/track/5fzzSHwK0iFGanI4suSuCA) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Bach: Goldberg Variations \(Extended Edt.\)](https://open.spotify.com/album/3syYFlKHyCm7zb4otxwD95) | 2:20 |
+| 47 | [Goldberg Variations, BWV 988: Variatio 7 a 1 ovvero 2 Clav\. Al tempo di Giga](https://open.spotify.com/track/0SFeEtT7B12lgXWn09gCef) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Study Classics: Bach](https://open.spotify.com/album/1ixqeGQw9jJBjkzT9YTMc8) | 2:20 |
 | 48 | [String Quartet No\. 5 in F Minor, Op\. 9, B\. 37: II\. Andante con moto quasi allegretto](https://open.spotify.com/track/1qrodRAeiSJUf1NKF34XXs) | [Antonín Dvořák](https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF), [Vlach Quartet Prague](https://open.spotify.com/artist/0Apnbohc6st5hulSIdnJsQ) | [Dvorak, A.: String Quartets, Vol\. 6 \(Vlach Quartet\) \- Nos\. 5, 7](https://open.spotify.com/album/06Sw3yH2kTQD2XOt2aMnev) | 8:13 |
 | 49 | [Goldberg Variations, BWV 988: Aria da capo \(Arr\. for Violin, Guitar & Cello by David Juritz\)](https://open.spotify.com/track/3k6MvrijJjZZXjBLbevjbr) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [David Juritz](https://open.spotify.com/artist/5Xyu14RdgJeW896p80XDFU), [Craig Ogden](https://open.spotify.com/artist/07pZelCNTBK93CD474588Q), [Tim Hugh](https://open.spotify.com/artist/1O6njeMdZ3Jm2lnR9s5lEk) | [J.S\. Bach: Goldberg Variations arranged for Violin, Guitar & Cello](https://open.spotify.com/album/6xHkcQexkgKAphQAB4M8DW) | 2:19 |
 | 50 | [Gnossienne No\. 1](https://open.spotify.com/track/5fdp9rXfEixCGLM1Og4EN1) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Alena Cherny](https://open.spotify.com/artist/5kgAnLGI2biBHvY7hDsF7P) | [Gnossienne No\. 1](https://open.spotify.com/album/4ZWDD7tNRRMB2eO4B5LsJh) | 4:56 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkztttC1w38.md) - [plain]
 | 69 | [Bluebird](https://open.spotify.com/track/6iL0pob2CNH1KNXPsSl9Fo) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Relaxing Classical](https://open.spotify.com/album/17tI0LEAubONuqyNfoDD12) | 3:24 |
 | 70 | [Debussy: Piano Trio in G Major, L\. 5: III\. Andante espressivo](https://open.spotify.com/track/7ipHx0jgei0eK8xn3xoKIL) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Bertrand Chamayou](https://open.spotify.com/artist/28Bn2PxtmXD8UbBSM968Fp) | [Debussy: Sonatas and Piano Trio](https://open.spotify.com/album/74uBG845eyHsFRbyxA2MpJ) | 3:47 |
 
-Snapshot ID: `MTY2NTcyMDA2MCwwMDAwMDAwMDQwNmUwMjdjMjc0NzJkNGQ0MTVmMjliOTYwNDk1MTBj`
+Snapshot ID: `MTY2NTcyMDA2MCwwMDAwMDAwMDdjMzUxODZhNWI1OWE2ZDZjNDlhNDI5NDJmNGQwYzEx`

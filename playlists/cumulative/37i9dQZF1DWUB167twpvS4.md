@@ -4,7 +4,7 @@
 
 > Be an ear\-witness to the music that gave birth to Country, Pop and Rock.
 
-93 songs - 3 hr 39 min - [published](https://open.spotify.com/playlist/49TY9RElDGcRdKuxPFwwYQ)
+95 songs - 3 hr 44 min - [published](https://open.spotify.com/playlist/49TY9RElDGcRdKuxPFwwYQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [Dixie Fried](https://open.spotify.com/track/67a41MrXPrrSM3OeqoxMkM) | [Carl Perkins](https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f) | [Original Golden Hits](https://open.spotify.com/album/6UYgHKeG16ICKNm52dVnJi) | 2:24 | 2020-10-11 | 2022-11-11 |
 | [Dixie Fried](https://open.spotify.com/track/5W07idwf58ahnvoPgYb2xI) | [Carl Perkins](https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f) | [Most Wanted 50s Rockabilly](https://open.spotify.com/album/69V0tr8soM6T7zu9ZviP5s) | 2:24 | 2020-10-11 |  |
 | [Dixie Fried](https://open.spotify.com/track/20IsGvRnqdzzotrQeJ6GRb) | [Carl Perkins](https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f) | [The 50 Best Rockabilly Songs Ever](https://open.spotify.com/album/0Nb8B0PNy4XnoZAPw2cSOU) | 2:27 | 2020-10-11 | 2022-07-29 |
-| [Drinkin' Wine Spo\-Dee\-O\-Dee](https://open.spotify.com/track/186zX1i9deC8ewXKMp1rDd) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [Monsters](https://open.spotify.com/album/3AISe8rp8zrbn6uaH02Dxr) | 2:35 | 2020-10-11 |  |
+| [Drinkin' Wine Spo\-Dee\-O\-Dee](https://open.spotify.com/track/4JozHIQp7ZuG9RGgCJCmzl) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [The Essential Jerry Lee Lewis \[The Sun Sessions\]](https://open.spotify.com/album/6OaajpAGeNsPJFkjyQvqHf) | 2:33 | 2020-10-11 |  |
+| [Drinkin' Wine Spo\-Dee\-O\-Dee](https://open.spotify.com/track/186zX1i9deC8ewXKMp1rDd) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [Monsters](https://open.spotify.com/album/3AISe8rp8zrbn6uaH02Dxr) | 2:35 | 2020-10-11 | 2022-11-12 |
 | [Drinkin' Wine Spo\-Dee\-O\-Dee](https://open.spotify.com/track/2mTiwXtRI0SdshJBbrNKzB) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [Monsters](https://open.spotify.com/album/7nxsWOkiQUX2lnIBedra1L) | 2:35 | 2020-10-11 | 2022-07-29 |
 | [Endless Sleep](https://open.spotify.com/track/7cb19X9Bavre8c1kUR1cGH) | [Jody Reynolds](https://open.spotify.com/artist/4j07I8NDDAMIy4BWc6aqOj) | [Presenting Jody Reynolds](https://open.spotify.com/album/5cCx980mGpn0PCzzodnK1d) | 2:23 | 2020-10-11 | 2022-11-11 |
 | [Endless Sleep](https://open.spotify.com/track/5Ug7n6LdrjmXuN33qO0HLT) | [Jody Reynolds](https://open.spotify.com/artist/4j07I8NDDAMIy4BWc6aqOj) | [Endless Sleep](https://open.spotify.com/album/6Klf8NkGN5oIfHPUQkGjRL) | 2:23 | 2020-10-11 |  |
@@ -97,8 +98,9 @@
 | [Three Alley Cats](https://open.spotify.com/track/1noc7sndwpn5ux9zgLibWK) | [Roy Hall](https://open.spotify.com/artist/2v9Vcnfs4nMntDbovgRrlO) | [Hot Rock \- A Full\-Throttle Rockabilly Anthology](https://open.spotify.com/album/7cQs3ix5kgvQwp6g9AuvCM) | 2:28 | 2020-10-11 | 2022-08-15 |
 | [Wake up Little Susie](https://open.spotify.com/track/11fNLqDB47gMKj7BHhR2Qr) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [The Very Best of The Everly Brothers](https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT) | 2:03 | 2020-10-11 |  |
 | [Who Slapped John?](https://open.spotify.com/track/081t37hdBbQVjWGuBd42z6) | [Gene Vincent & His Blue Caps](https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq) | [Blue Jean Bop](https://open.spotify.com/album/28VDX5GZcFakGBuh2Uf5En) | 1:58 | 2020-10-11 |  |
-| [Whole Lot Of Shakin' Going On \- Single Version](https://open.spotify.com/track/7Fyo9lTrk6pjT1rVW3GlBG) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [Original Golden Hits \- Volume 1 \(Vol\. 1\)](https://open.spotify.com/album/22cLZV8YJhDZzJ7lvJQXZj) | 2:53 | 2020-10-11 |  |
+| [Whole Lot Of Shakin' Going On \- Single Version](https://open.spotify.com/track/7Fyo9lTrk6pjT1rVW3GlBG) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [Original Golden Hits \- Volume 1 \(Vol\. 1\)](https://open.spotify.com/album/22cLZV8YJhDZzJ7lvJQXZj) | 2:53 | 2020-10-11 | 2022-11-12 |
 | [Whole Lotta Shakin' Goin' On](https://open.spotify.com/track/6hOUpZRMnj6xhAh3r1UyvF) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [The 50 Best Rockabilly Songs Ever](https://open.spotify.com/album/0Nb8B0PNy4XnoZAPw2cSOU) | 2:55 | 2020-10-11 | 2022-07-29 |
+| [Whole Lotta Shakin' Going on](https://open.spotify.com/track/78bUBAJE8G62Rj3B6qDspV) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [The Original Sun Recordings](https://open.spotify.com/album/3MOt6Q0Npv4YQe7pcJxgH7) | 2:55 | 2020-10-11 |  |
 | [Woo\-Hoo](https://open.spotify.com/track/0WzNOvVsACcCQXr8XJXSkG) | [The Rock\-A\-Teens](https://open.spotify.com/artist/4vbR9DeELloVAWieVRcN5O) | [Pecker](https://open.spotify.com/album/4iuzCjy7MH0IKaY7njmHXi) | 2:09 | 2020-10-11 |  |
 | [You Oughta See Grandma Rock](https://open.spotify.com/track/1RwS7W9aa6083IWOGCQg44) | [Skeets McDonald](https://open.spotify.com/artist/4MefoMHX012T3pRW0FzqAZ) | [Go Cat Go! The Rarities of Rockabilly](https://open.spotify.com/album/5r00PwvxC9GWi1GEFBAvHA) | 2:03 | 2020-10-11 |  |
 

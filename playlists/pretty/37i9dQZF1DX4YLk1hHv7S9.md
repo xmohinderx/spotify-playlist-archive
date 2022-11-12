@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YLk1hHv7S9.md) - [plain]
 
 > Sweet acoustic love songs for the perfect day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,319 likes - 85 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,317 likes - 85 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YLk1hHv7S9.md) - [plain]
 | 36 | [La Vie En Rose](https://open.spotify.com/track/2BAsBkA10fTRZhF5iMs0Dh) | [Emily Watts](https://open.spotify.com/artist/2xlXhojRv11o5sWDjOx8lp) | [La Vie En Rose](https://open.spotify.com/album/5Q4ygTh5Iv6FpNxcKE6uU5) | 2:37 |
 | 37 | [Lucky](https://open.spotify.com/track/0IktbUcnAGrvD03AWnz3Q8) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl), [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [We Sing\. We Dance\. We Steal Things.](https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5) | 3:09 |
 | 38 | [A Thousand Years](https://open.spotify.com/track/1QUpqu8865jfasDr8M3IKN) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [The Twilight Saga: Breaking Dawn \- Part 1 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1iGIqDBXm5HpTqHCvdc4QP) | 4:45 |
-| 39 | [Can't Help Falling in Love](https://open.spotify.com/track/6yIHGmQLJxWAUZ1ZkENemN) | [Haley Reinhart](https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q) | [Better](https://open.spotify.com/album/2jg7PvepCK9V7MyWM7pvzr) | 2:53 |
+| 39 | [Can't Help Falling in Love \- Single](https://open.spotify.com/track/6LmFlSjRJJNcfJSxZTdcTe) | [Haley Reinhart](https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q) | [Can't Help Falling in Love \- Single](https://open.spotify.com/album/02a8OXIKUP7imehACcKVOl) | 2:53 |
 | 40 | [Hold You in My Arms](https://open.spotify.com/track/1U1GtaJeYwGsPgqV9Me5bb) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Trouble](https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9) | 5:06 |
 | 41 | [Danny's Song](https://open.spotify.com/track/0ju1jP0cSPJ8tmojYBEI89) | [Loggins & Messina](https://open.spotify.com/artist/7emRV8AluG3d4e5T0DZiK9) | [The Best: Loggins & Messina Sittin' In Again](https://open.spotify.com/album/5BWgJaesMjpJWCTU9sgUPf) | 4:14 |
 | 42 | [Love Someone](https://open.spotify.com/track/2JqnpexlO9dmvjUMCaLCLJ) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Love Someone](https://open.spotify.com/album/0JcMyAnJRTisEjYf9xEwkf) | 3:25 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YLk1hHv7S9.md) - [plain]
 | 84 | [Come Rain or Come Shine](https://open.spotify.com/track/0EXNymkEOQIjd8ycSUT8yH) | [David Francey](https://open.spotify.com/artist/11NyMIq0N1ozgqhwdAdWIK) | [Skating Rink](https://open.spotify.com/album/0p8hnqZ7s7G3amuwO18hMY) | 3:00 |
 | 85 | [When I Fall in Love \(feat\. Chris Botti\)](https://open.spotify.com/track/7wwDhqPS3gxRDenfX2GtiT) | [Renee Olstead](https://open.spotify.com/artist/19B0pJt4UEl3fUijGTRzxB), [Chris Botti](https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a) | [Skylark \(Std\. Version\)](https://open.spotify.com/album/46FYQKraT48SZMaZRg7IOP) | 4:43 |
 
-Snapshot ID: `MTY1NTc2ODEzOCwwMDAwMDAwMGViNzNkNmJkMjYwODQ0NTk2ZGY2ZDE5Zjg2ZWU2NjIw`
+Snapshot ID: `MTY1NTc2ODEzOCwwMDAwMDAwMDY5NjhlOGRiOWI4MDBjOGY1NzUwZDgyZDJiYzJlNmU4`

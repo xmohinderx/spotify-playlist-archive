@@ -4,7 +4,7 @@
 
 > look up, dream on, drift off...
 
-137 songs - 8 hr 58 min - [published](https://open.spotify.com/playlist/4o6XO2GYxXq6UTestyjLGC)
+138 songs - 9 hr 1 min - [published](https://open.spotify.com/playlist/4o6XO2GYxXq6UTestyjLGC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,8 @@
 | [Still Blue](https://open.spotify.com/track/6qrRrLT4NGgnhjF0Ur4JnD) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy), [Enrico Belli](https://open.spotify.com/artist/1AFiIuKX5f27Pmlpa2KHYB) | [Still Blue](https://open.spotify.com/album/5oGorJ69YAgPT4PtECGLpR) | 6:14 | 2022-01-05 |  |
 | [Still Day](https://open.spotify.com/track/1505n8rEQ4XBoiEXDoSbLc) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo), [Scoring Berlin](https://open.spotify.com/artist/5aVO01MTGf8SFlZvNm98ke), [Christian Badzura](https://open.spotify.com/artist/4o4c7wie7O9R8ju7JWtHsQ) | [Rarities \- Piano](https://open.spotify.com/album/4uSxyDvTRZUvSElk9Rasza) | 2:23 | 2022-10-04 |  |
 | [Still Here \- Alexandra Hamilton\-Ayres Rework](https://open.spotify.com/track/1MMV0Uc1glON7yaEqmnig6) | [Hector Plimmer](https://open.spotify.com/artist/7K64vyGna9ILfEEWnLKFEV), [Alexandra Hamilton\-Ayres](https://open.spotify.com/artist/6o0pKKljrn7GYEZTQPFwKp) | [Still Here \(Alexandra Hamilton\-Ayres Rework\)](https://open.spotify.com/album/33GZsV7fErOWJMQBa9Qs9M) | 4:04 | 2022-01-05 |  |
-| [Stillness \(Reworked\)](https://open.spotify.com/track/17IbDcL196PgvTVrcUDut1) | [Poppy Ackroyd](https://open.spotify.com/artist/5q3wKuiaCK8BRPZQSvehFd) | [Stillness \(Reworked\)](https://open.spotify.com/album/33EbSiklkodrOqpCZn1JQD) | 3:30 | 2022-09-14 |  |
+| [Stillness \(Reworked\)](https://open.spotify.com/track/17IbDcL196PgvTVrcUDut1) | [Poppy Ackroyd](https://open.spotify.com/artist/5q3wKuiaCK8BRPZQSvehFd) | [Stillness \(Reworked\)](https://open.spotify.com/album/33EbSiklkodrOqpCZn1JQD) | 3:30 | 2022-09-14 | 2022-11-12 |
+| [Stillness \- Reworked](https://open.spotify.com/track/6Ud2z91pgiVSIQIgUnxfQZ) | [Poppy Ackroyd](https://open.spotify.com/artist/5q3wKuiaCK8BRPZQSvehFd) | [Pause \(Reworked\)](https://open.spotify.com/album/2OG0xIX2Uo2j2eHHtLATth) | 3:30 | 2022-10-04 |  |
 | [The Fertile Night](https://open.spotify.com/track/3hnQEIi6qxWltcnTM9TPr1) | [Danny Mulhern](https://open.spotify.com/artist/4tc9PdoWcfLTI5ZcNIhWuU) | [The Fertile Night](https://open.spotify.com/album/1jpdhVtNoFFZnk7oZErGKN) | 2:37 | 2022-09-14 |  |
 | [The Fig Tree](https://open.spotify.com/track/1drE1yyx3iSbTbn55SAGOT) | [Jakob Ahlbom](https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K) | [Elision](https://open.spotify.com/album/6orXM32rO2JFSt60ZWyp4p) | 2:35 | 2022-01-05 |  |
 | [The Garden](https://open.spotify.com/track/1QwnjxsFzruTTCbuuKQdnH) | [Doug Kaufman](https://open.spotify.com/artist/3Z9VXDrGAFUoyvXvI0aFbZ) | [Elva](https://open.spotify.com/album/7hdlF6vtbKZROuiJE99zKs) | 2:56 | 2022-01-05 |  |

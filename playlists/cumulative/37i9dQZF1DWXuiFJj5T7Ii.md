@@ -4,7 +4,7 @@
 
 > The Top Hot Country tracks for 2021 in one playlist\. Cover: Kelsea Ballerini
 
-118 songs - 6 hr 19 min - [published](https://open.spotify.com/playlist/2qOq3BPeaDYmoM3mA0lXRn)
+120 songs - 6 hr 25 min - [published](https://open.spotify.com/playlist/2qOq3BPeaDYmoM3mA0lXRn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [Fill Them Boots](https://open.spotify.com/track/4RBcYEl3yD9gYQE94LxFmE) | [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0) | [Fill Them Boots](https://open.spotify.com/album/1rhBNy4oRZFuh5CVME8snu) | 2:42 | 2021-12-01 |  |
 | [Forever After All](https://open.spotify.com/track/6IBcOGPsniK3Pso1wHIhew) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [What You See Ain't Always What You Get \(Deluxe Edition\)](https://open.spotify.com/album/25TJxI6ZH6XjT8geRQAFz5) | 3:52 | 2021-12-01 |  |
 | [Found It in You](https://open.spotify.com/track/0t0ODvxpVPS2dcGGTgsnq9) | [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1) | [Found It in You](https://open.spotify.com/album/3CWvXdSg4Q19ypUaOwB0SI) | 3:14 | 2021-12-01 | 2022-07-29 |
-| [Found It In You \- Demo](https://open.spotify.com/track/6PiD58522iUZHJETf0zbAu) | [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1) | [Tiera](https://open.spotify.com/album/50jNCjQGuhYEG5z6iVmzRC) | 3:14 | 2021-12-01 |  |
+| [Found It In You \- Demo](https://open.spotify.com/track/3fxdDyb210do0g53rbJ0tW) | [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1) | [Best Country Valentine's Day 2022](https://open.spotify.com/album/7IrYsuVvc201LLeuzLP85g) | 3:14 | 2021-12-01 |  |
+| [Found It In You \- Demo](https://open.spotify.com/track/6PiD58522iUZHJETf0zbAu) | [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1) | [Tiera](https://open.spotify.com/album/50jNCjQGuhYEG5z6iVmzRC) | 3:14 | 2021-12-01 | 2022-11-12 |
 | [Freedom Was A Highway](https://open.spotify.com/track/3J5jotqUAjU479WhAiNkpU) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Bettie James](https://open.spotify.com/album/7wftPNQFSMYlpxzNMPHo1h) | 3:32 | 2021-12-01 |  |
 | [Getting Over Him](https://open.spotify.com/track/3WqT52bSkjn8tG7N9rn3Ba) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv), [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Sitting Pretty On Top Of The World](https://open.spotify.com/album/50rJgPQvYLeiC3Ub9c5tGJ) | 2:46 | 2021-12-01 |  |
 | [Glad You Exist](https://open.spotify.com/track/3oV2RVOmwdWdf9BmGS4Oad) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Good Things](https://open.spotify.com/album/7L8IHgiomfEpxOm61vgPTm) | 2:24 | 2021-12-01 |  |
@@ -68,7 +69,8 @@
 | [justified](https://open.spotify.com/track/6IW4TUC3zHW4tpikDg1w7Y) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [justified](https://open.spotify.com/album/4d4qaLHCcfXzMbGa33Kpqg) | 3:00 | 2021-12-01 | 2022-07-29 |
 | [Knowing You](https://open.spotify.com/track/2EEfUuBRZA4Ax1vYcluFS0) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Here And Now](https://open.spotify.com/album/0t7ccDIa3CbqzFrL9rOpaw) | 3:46 | 2021-12-01 |  |
 | [Lady](https://open.spotify.com/track/3ySLzrN7950dpf1ncttONO) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Lady](https://open.spotify.com/album/6YjMnlV7GWmnUs4lN8bym9) | 3:13 | 2021-12-01 | 2022-07-29 |
-| [Lady](https://open.spotify.com/track/2fSuoIlA1uTERXunbshSWh) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Weekends Look A Little Different These Days](https://open.spotify.com/album/2JJ2v7A5nR6HaYxyO2T0PX) | 3:14 | 2021-12-01 |  |
+| [Lady](https://open.spotify.com/track/0ZlHQcfK5DdF6701ActNtv) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Country TikTok Hits](https://open.spotify.com/album/5AoVHg31qxaMGtwtEw61F0) | 3:14 | 2021-12-01 |  |
+| [Lady](https://open.spotify.com/track/2fSuoIlA1uTERXunbshSWh) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Weekends Look A Little Different These Days](https://open.spotify.com/album/2JJ2v7A5nR6HaYxyO2T0PX) | 3:14 | 2021-12-01 | 2022-11-12 |
 | [Like A Lady](https://open.spotify.com/track/5SulrwmIUDbU5TQQtoYHhL) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [What A Song Can Do \(Chapter One\)](https://open.spotify.com/album/1GMVHbMadbjNGFoOYXwnLb) | 3:01 | 2021-12-01 |  |
 | [Lil Bit \(feat\. Florida Georgia Line\)](https://open.spotify.com/track/33aow0AcXYvT1FoWNzMcqN) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Heartland](https://open.spotify.com/album/1a7BlXLCqjTxQh6X8L9JBL) | 3:15 | 2021-12-01 |  |
 | [Long Haul](https://open.spotify.com/track/7nERlpaH7QghaO7jC60Xtu) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [Coyote Cry](https://open.spotify.com/album/5uQt9PVJIZvYjOL43EkOId) | 3:51 | 2021-12-01 |  |

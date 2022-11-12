@@ -4,14 +4,14 @@
 
 > Where everything is lovely and snuggly <3
 
-204 songs - 12 hr 51 min - [published](https://open.spotify.com/playlist/3OzAg60NrwMQPfMtLjUuRG)
+206 songs - 12 hr 58 min - [published](https://open.spotify.com/playlist/3OzAg60NrwMQPfMtLjUuRG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Change Is Gonna Come](https://open.spotify.com/track/4jeEaCq9omzcX5cOFKhT5O) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [I Never Loved a Man the Way I Love You](https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V) | 4:20 | 2022-04-27 |  |
 | [A Sunday Kind Of Love](https://open.spotify.com/track/0zGLlXbHlrAyBN1x6sY0rb) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [At Last!](https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt) | 3:16 | 2021-10-18 |  |
 | [Adeline](https://open.spotify.com/track/0zGT1LYrHksqJkupsazmKb) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [Adeline](https://open.spotify.com/album/0FpjVDZbJCK19vglA6T8B1) | 3:08 | 2021-10-18 |  |
-| [Allocate](https://open.spotify.com/track/4dZbmjelsxodJVO5e2Nfkl) | [Damien Jurado](https://open.spotify.com/artist/79JJCxCCfJ8HufX6w8q2k4) | [The Horizon Just Laughed](https://open.spotify.com/album/7eyOb4RuYPBZZ4l3nCbraJ) | 4:42 | 2022-10-07 |  |
+| [Allocate](https://open.spotify.com/track/4dZbmjelsxodJVO5e2Nfkl) | [Damien Jurado](https://open.spotify.com/artist/79JJCxCCfJ8HufX6w8q2k4) | [The Horizon Just Laughed](https://open.spotify.com/album/7eyOb4RuYPBZZ4l3nCbraJ) | 4:42 | 2022-10-07 | 2022-11-12 |
 | [Alone](https://open.spotify.com/track/4k4mhm30I8pOn2k7O19pms) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Alone](https://open.spotify.com/album/4j8ZiT9TBNTylP578zuJRn) | 2:15 | 2021-10-18 | 2022-07-29 |
 | [Alone](https://open.spotify.com/track/6t5cacQjKUVzNqN4kJSaV2) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [The Shave Experiment \(Director's Cut\)](https://open.spotify.com/album/6Q3iHNU0fOwOxoCvyteue0) | 2:15 | 2022-04-27 | 2022-09-03 |
 | [Anyone Who Knows What Love Is \(Will Understand\)](https://open.spotify.com/track/5GWCndQ8ykzf6rYRvwrFcj) | [Irma Thomas](https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv) | [Take A Look](https://open.spotify.com/album/5yPYingqlUnFfEzbLPtrVS) | 2:56 | 2022-04-27 |  |
@@ -47,6 +47,7 @@
 | [Didn't I](https://open.spotify.com/track/6Dq2LzijkY9WNPwBGDah4L) | [Darondo](https://open.spotify.com/artist/4JfFdF9Row7UXtdsKtT6tc) | [Let My People Go](https://open.spotify.com/album/3nD9Oab8M4sCLNmqmwSOdA) | 3:29 | 2021-10-18 |  |
 | [Don't Bother Calling](https://open.spotify.com/track/133w2I6NKpvzmQ6XkrWfdN) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [Aromanticism](https://open.spotify.com/album/3GEa8PdRoag1vtVUQCAla1) | 3:59 | 2022-04-27 |  |
 | [Don't Bother Calling](https://open.spotify.com/track/5dqNCR3ANsOIMeQLpk54wU) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [Aromanticism](https://open.spotify.com/album/30WjNaR79shSTGB52IJTw0) | 3:59 | 2021-10-18 | 2022-07-29 |
+| [Don't Know Why](https://open.spotify.com/track/7umEMqK5YuVk9mJ9fLzdUJ) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [專注爵選 Jazz for Work & Study](https://open.spotify.com/album/1gdOZL2MqhUTdiIfzoZ262) | 3:06 | 2022-10-07 |  |
 | [Don't Know Why](https://open.spotify.com/track/1zNXF2svmdlNxfS5XeNUgr) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me \(Super Deluxe Edition\)](https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl) | 3:06 | 2022-04-27 | 2022-11-11 |
 | [Drift Away](https://open.spotify.com/track/6PhqFutjkq3tzchjqS5nF7) | [HAERTS](https://open.spotify.com/artist/7pww8JMPMj1SxUfJ8wN5Kt) | [Dream Nation](https://open.spotify.com/album/2bJ8k4Qe5vmC7uEBJ1sgOV) | 3:59 | 2021-10-18 | 2022-07-29 |
 | [Easily](https://open.spotify.com/track/2k9N4caeCIJLOWwWwssrEM) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [A Song For Every Moon](https://open.spotify.com/album/5UFBJXQtytWA9vfaO2DxLx) | 3:30 | 2021-10-18 | 2022-02-26 |
@@ -89,7 +90,7 @@
 | [iFeel](https://open.spotify.com/track/5ed0x7s2O191nQ9gfmAhHM) | [\(\(\( O \)\)\)](https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8), [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [iFeel](https://open.spotify.com/album/3pgkyPj3vSQ0TYCoGQJKaF) | 4:29 | 2021-10-18 | 2022-10-13 |
 | [iFeel](https://open.spotify.com/track/5sOft06wJLNSza2YwnE2MO) | [\(\(\( O \)\)\)](https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8), [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [\(\(\( 2 \)\)\)](https://open.spotify.com/album/3Oek1SjcuXDich2rfbRipZ) | 4:29 | 2022-10-07 | 2022-11-11 |
 | [In Loving Memory](https://open.spotify.com/track/17BBfm9oQzNsX1PjnsOgRG) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Love and Hate in a Different Time](https://open.spotify.com/album/1807UGT7j0EO6EhGXu9zrs) | 2:53 | 2021-10-18 | 2022-07-28 |
-| [It Is So Nice to Get Stoned](https://open.spotify.com/track/7xZOeV9Pa6SxH487LEoRxO) | [Ted Lucas](https://open.spotify.com/artist/6Ej6u8fvyHFFKn5GaQ5cPn) | [Ted Lucas](https://open.spotify.com/album/2CEQedK1AH7F8zcYM7o0Yd) | 4:21 | 2022-06-13 |  |
+| [It Is So Nice to Get Stoned](https://open.spotify.com/track/7xZOeV9Pa6SxH487LEoRxO) | [Ted Lucas](https://open.spotify.com/artist/6Ej6u8fvyHFFKn5GaQ5cPn) | [Ted Lucas](https://open.spotify.com/album/2CEQedK1AH7F8zcYM7o0Yd) | 4:21 | 2022-06-13 | 2022-11-12 |
 | [It's Our Love](https://open.spotify.com/track/2ZA4tDZvsxFO6Yw5OENin7) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Will I See You Again?](https://open.spotify.com/album/7yp4ZtP97mPJTdmRjHaiaH) | 3:47 | 2021-10-18 |  |
 | [Ivory](https://open.spotify.com/track/28R3W2pqBJOxztS2o6y53W) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y) | [Ivory](https://open.spotify.com/album/1bGw1aFP9vtUdNPjoh2cB0) | 2:13 | 2021-10-18 | 2022-07-29 |
 | [Jaywalker](https://open.spotify.com/track/2o8dpWlhalYijwqFQloIQI) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [Wilds](https://open.spotify.com/album/2IXuKQr2JhjocXGfkTmfPG) | 3:12 | 2021-10-18 |  |
@@ -171,6 +172,7 @@
 | [Sunblind](https://open.spotify.com/track/308prODCCD0O660tIktbUi) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3) | 4:13 | 2021-10-18 |  |
 | [Swimmer](https://open.spotify.com/track/6tXYijeguaEFXSok2BQy01) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Swimmer](https://open.spotify.com/album/0QddKPlPXH5Yb5TrCUGt8N) | 3:33 | 2022-02-25 |  |
 | [Take Me Where Your Heart Is](https://open.spotify.com/track/62kHSw6wBh4c6UemJCb5p6) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Take Me Where Your Heart Is](https://open.spotify.com/album/6XkgiL7F2lC1pnZgioUyYd) | 3:12 | 2021-10-18 | 2022-06-14 |
+| [Take Some Time](https://open.spotify.com/track/3C3KF3yVvF7iIsGxkmr6VB) | [Wilderado](https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI) | [Wilderado](https://open.spotify.com/album/4jPnb0rdxEawWMlO8RfzJP) | 3:30 | 2022-10-07 |  |
 | [Take Some Time](https://open.spotify.com/track/3DRF1vStcnkcf4tcgyf2OB) | [Wilderado](https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI) | [Take Some Time](https://open.spotify.com/album/2zH89zKWGrkkzRy5l8SyYM) | 3:30 | 2021-10-18 | 2022-07-29 |
 | [Take Some Time](https://open.spotify.com/track/7sgecWk9KRFYXk7lokoF4z) | [Wilderado](https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI) | [Wilderado](https://open.spotify.com/album/27PS3oqiVzOqqAT04Ku6at) | 3:30 | 2022-04-27 | 2022-11-09 |
 | [Tango](https://open.spotify.com/track/1cTPxRjuv4LE7N3unxy589) | [Rodrigo Amarante](https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg) | [Tango](https://open.spotify.com/album/3v85vwElHbbbgPIg9M56Cj) | 3:42 | 2021-10-18 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HwI3Crikcm.md) - [plain]
 
 > Relive last night's fun with jigs and reels out of Ireland – alongside trad tracks inspired and influenced by Celtic traditions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 312,087 likes - 86 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 312,219 likes - 86 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HwI3Crikcm.md) - [plain]
 | 76 | [Coleraine Jig medley](https://open.spotify.com/track/0mQySHWYmFJHBIX0fZihgC) | [DeDanann](https://open.spotify.com/artist/2ltISZj3PdBBWiJtQGGMBo) | [Celtic Soul: The Very Best Of Irish Music](https://open.spotify.com/album/3CxaruMfAhdVm4JweofPC9) | 5:39 |
 | 77 | [Dhá Pholca Dálaigh](https://open.spotify.com/track/6QC8MC3maNNp2uHsOMxxSP) | [Brendan Begley & Caoimhín Ó Raghallaigh](https://open.spotify.com/artist/6L8DJIpiJWVhKhYX5M6Rlu) | [A Moment of Madness](https://open.spotify.com/album/43XQxNecha4Lu72o3s3W48) | 2:46 |
 | 78 | [Sean Bhean Bhocht Selection](https://open.spotify.com/track/4dKyou2FEq48lieMjUOnXN) | [MacDara Ó Raghallaigh](https://open.spotify.com/artist/38Hpd6y4WVIEYtvO4eBTB8) | [Ego Trip](https://open.spotify.com/album/71vL8VA0AnnlkZYCtFLftu) | 10:25 |
-| 79 | [The Hillsbrook Reels](https://open.spotify.com/track/68TAV3FX665WLaLG9s1LPp) | [Michael McGoldrick](https://open.spotify.com/artist/6XLzyxxr88YdGmrCKrFI74) | [Wired](https://open.spotify.com/album/0mvalBzGImgKtH9BP71h95) | 4:18 |
+| 79 | [The Hillsbrook Reels](https://open.spotify.com/track/4u8J1CeW1VGEFxD6dyhqP5) | [Michael McGoldrick](https://open.spotify.com/artist/6XLzyxxr88YdGmrCKrFI74) | [Wired](https://open.spotify.com/album/0X6hTeNjhTyeCesXYb7UUq) | 4:18 |
 | 80 | [Branholm/Trip to Herve's](https://open.spotify.com/track/6GNpwVyyAdUb1FtTCL6ZjK) | [Flook](https://open.spotify.com/artist/3AtiX3mgmF2cKIeigOGyf6) | [Flook! Live!](https://open.spotify.com/album/1HfkYCf8l9gDm9q1dU1dSy) | 4:06 |
 | 81 | [The Hag's Purse/Connaughtman's Rambles](https://open.spotify.com/track/09ZGID7lltzhNuVGa171RI) | [Calath](https://open.spotify.com/artist/2z4bLQ6CVdQnOkxCc81uSl) | [Irish Celtic Music \(Musica Celta Irlandesa\)](https://open.spotify.com/album/2SYQFYP7JNoXO6DHuB9CtT) | 3:06 |
 | 82 | [Shandon Bells/Boys Of The Town/Rakes Of Clonmel/Girls Of The Town](https://open.spotify.com/track/5pqe0gd0C0k3Q636nWSrCs) | [Brendan Mulvihill and Donna Long](https://open.spotify.com/artist/2uj937Kr5x60lkZYWe4wG0) | [The Morning Dew](https://open.spotify.com/album/6N4l02XEjaECBhrK4ykqAn) | 4:38 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HwI3Crikcm.md) - [plain]
 | 85 | [Reels: Kylebrack Ramblers / Graf Spee](https://open.spotify.com/track/6tWVMFlSwTPVOgeWBQMapG) | [The Shaskeen Ceili Band](https://open.spotify.com/artist/6mgGW54iUPDPt07UwID5Kn) | [Pure Irish Céilí](https://open.spotify.com/album/0lVaM9oQ9SvE6K0P39vsNI) | 3:29 |
 | 86 | [Last Night's Fun / The Chattering Magpie / The Black Haired Lass / The Commodore](https://open.spotify.com/track/3FnKOidmaJJzdP52XBWZ5f) | [Billy McComiskey](https://open.spotify.com/artist/0NPDkWpnQnjowxXozNrWeR) | [The Girls Won't Leave The Boys Alone](https://open.spotify.com/album/45q1rezuYBdULvvO2Oh1Bn) | 4:53 |
 
-Snapshot ID: `MTYwNTA2MjQ1NSwwMDAwMDAwMDc4ZmM4M2NhOGE5YjU2MzU1Zjc2NDlhNDQ2M2Q0ZGNl`
+Snapshot ID: `MTYwNTA2MjQ1NSwwMDAwMDAwMGQ4YTRkMjMzYTU3YmU3MjQyM2ViZjQ0OTI5MWYyNmFh`

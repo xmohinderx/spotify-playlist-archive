@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OZgI1RIQZf.md) - [plain]
 
 > The best indie songs from all decades for your Halloween party
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,219 likes - 65 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,222 likes - 65 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,12 +30,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OZgI1RIQZf.md) - [plain]
 | 20 | [Halloween Parade](https://open.spotify.com/track/5Hb0p1Ti6nkeA3SSKfbvM2) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [New York](https://open.spotify.com/album/7xGqf9DddW89cg7m6zX88t) | 3:33 |
 | 21 | [They Are Night Zombies!! They Are Neighbors!! They Have Come Back From the Dead!! Ahhhh!](https://open.spotify.com/track/6pvwYMVs13EJ8jj4LMX0aV) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Illinois](https://open.spotify.com/album/1pOl0KEC1iQnA6F0XxV4To) | 5:09 |
 | 22 | [Devil Town](https://open.spotify.com/track/4eJ6pWefeAQjpMKTY6bwXV) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [Noise Floor \(Rarities: 1998\-2005\)](https://open.spotify.com/album/4ks71ffhGPem4EPQEyGj1D) | 3:03 |
-| 23 | [Scarecrow](https://open.spotify.com/track/1GcdexGpXcR9dZhhRj5zAr) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Guero](https://open.spotify.com/album/2EugWXUZjr78KJFqZavvZT) | 4:15 |
-| 24 | [We Only Come Out At Night \- Remastered 2012](https://open.spotify.com/track/4vkcU3UFjYsKuBibmYA3hL) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Mellon Collie And The Infinite Sadness \(Deluxe Edition\)](https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV) | 4:05 |
+| 23 | [We Only Come Out At Night \- Remastered 2012](https://open.spotify.com/track/4vkcU3UFjYsKuBibmYA3hL) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Mellon Collie And The Infinite Sadness \(Deluxe Edition\)](https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV) | 4:05 |
+| 24 | [Scarecrow](https://open.spotify.com/track/1GcdexGpXcR9dZhhRj5zAr) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Guero](https://open.spotify.com/album/2EugWXUZjr78KJFqZavvZT) | 4:15 |
 | 25 | [Killer](https://open.spotify.com/track/6yRqX9dZj1b09OpEe0QgE3) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Killer](https://open.spotify.com/album/7qmlNHyFmBSZQllaVRBQq7) | 2:50 |
 | 26 | [The Witch](https://open.spotify.com/track/18k49mXvNPtKlcT6Ky39pe) | [The Sonics](https://open.spotify.com/artist/2g3PKH7Z1Ofn5oGR6oDjLy) | [Introducing The Sonics](https://open.spotify.com/album/2EmUijeHFyILSHUC2kzxXv) | 2:38 |
-| 27 | [Dead Man's Bones](https://open.spotify.com/track/6vLgqz7K77h0kRraU31R5x) | [Dead Man's Bones](https://open.spotify.com/artist/66uU7VPJQ8eC06LAZyqYYk) | [Dead Man's Bones](https://open.spotify.com/album/4xGTfawtEfy5f2yGYtRqlr) | 3:00 |
-| 28 | [Right On, Frankenstein!](https://open.spotify.com/track/32XH0vxdpKpcJ80NSpRbbz) | [Death From Above 1979](https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj) | [The Physical World](https://open.spotify.com/album/22sYnou2SavBZHHFVUTmWs) | 3:05 |
+| 27 | [Right On, Frankenstein!](https://open.spotify.com/track/32XH0vxdpKpcJ80NSpRbbz) | [Death From Above 1979](https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj) | [The Physical World](https://open.spotify.com/album/22sYnou2SavBZHHFVUTmWs) | 3:05 |
+| 28 | [Dead Man's Bones](https://open.spotify.com/track/6vLgqz7K77h0kRraU31R5x) | [Dead Man's Bones](https://open.spotify.com/artist/66uU7VPJQ8eC06LAZyqYYk) | [Dead Man's Bones](https://open.spotify.com/album/4xGTfawtEfy5f2yGYtRqlr) | 3:00 |
 | 29 | [Halloween](https://open.spotify.com/track/3DN3nPW5VDyGa48ELeXPU0) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6) | [Bad Moon Rising](https://open.spotify.com/album/5qZwFWvjfQF6uqrtMaCbO6) | 5:11 |
 | 30 | [Hunting for Witches](https://open.spotify.com/track/64i71pjySnBlA7P46uSGZ7) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [A Weekend in the City](https://open.spotify.com/album/5qGqM14bpZCa1qQ7jt5W7R) | 3:30 |
 | 31 | [Black Magic](https://open.spotify.com/track/2Fka5bMBcXzrrUHaJjpqGq) | [Band Of Skulls](https://open.spotify.com/artist/4ddt8PPvmWrI9mJQy1VrIG) | [By Default](https://open.spotify.com/album/3CH5Y6IJPn5yXsOFjCn4wn) | 2:48 |
@@ -66,12 +66,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OZgI1RIQZf.md) - [plain]
 | 56 | [Omen](https://open.spotify.com/track/5q8fHfyTc63KlySBCP8DFH) | [The Dø](https://open.spotify.com/artist/2mcNCn1qbZUQ3J9KHapUxj) | [Shake, Shook, Shaken](https://open.spotify.com/album/3GGJlh7y7yWax4SY3n9cag) | 2:53 |
 | 57 | [Final Girl](https://open.spotify.com/track/0ED4kuByM2OBcERl32FgxC) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Screen Violence: Director’s Cut](https://open.spotify.com/album/4CGcdvmIwYXn7c65tOKQ4e) | 4:29 |
 | 58 | [Evil Eye](https://open.spotify.com/track/5GnHgtA5PUQo9Ifzj53gEM) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Evil Eye Remixes](https://open.spotify.com/album/3jY0cRA71NmPZCn1I3R2Xg) | 2:47 |
-| 59 | [Boris The Spider \- Remix](https://open.spotify.com/track/6G2n0YoqgcWxkGvowyYOBl) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Halloween Party Songs](https://open.spotify.com/album/1fuhAoWdCjTNFkAf0QyaHC) | 2:26 |
-| 60 | [So Haunted](https://open.spotify.com/track/3aerZL2vEJYNK7Zex54vO7) | [Cut Copy](https://open.spotify.com/artist/4EENT7N7rCBwrddM3s0vFS) | [So Haunted](https://open.spotify.com/album/3WXYeDDrhsJjniE1cKaKeR) | 4:23 |
-| 61 | [Skeleton Song](https://open.spotify.com/track/7IOUeLzg5UL627qnywJjBL) | [Kate Nash](https://open.spotify.com/artist/5vBKu1igxFo6g1sHADkIdg) | [2000s Halloween](https://open.spotify.com/album/1LOaZzDyslJNdSnSn1ygRW) | 5:07 |
+| 59 | [Wolf Like Me](https://open.spotify.com/track/0oHsGitHEZ9OB6AzAqARuq) | [TV On The Radio](https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR) | [Night Songs](https://open.spotify.com/album/6jWGTM4Zlg2RDD4QkupsQu) | 4:39 |
+| 60 | [Pet Sematary \(Single Version\)](https://open.spotify.com/track/4R0hIlQuvdDGoXBb8uo1nb) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Hardhitting Halloween Hits](https://open.spotify.com/album/2CHgEwkjnMNavROAqTA77Y) | 3:30 |
+| 61 | [Boris The Spider \- Remix](https://open.spotify.com/track/6G2n0YoqgcWxkGvowyYOBl) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Halloween Party Songs](https://open.spotify.com/album/1fuhAoWdCjTNFkAf0QyaHC) | 2:26 |
 | 62 | [MORBID FASCINATION](https://open.spotify.com/track/67SU4NdxJNBPikdeTP0Ydc) | [Blood Red Shoes](https://open.spotify.com/artist/3r6Sk3pYxdJk7MekhBGgMR) | [MORBID FASCINATIONS](https://open.spotify.com/album/0oAwfpXxKIa7CUDZiz2IOu) | 3:46 |
-| 63 | [Wolf Like Me](https://open.spotify.com/track/0oHsGitHEZ9OB6AzAqARuq) | [TV On The Radio](https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR) | [Night Songs](https://open.spotify.com/album/6jWGTM4Zlg2RDD4QkupsQu) | 4:39 |
-| 64 | [Zombie](https://open.spotify.com/track/6CTIg4upL3l8dfpDol9Wai) | [Jamie T](https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh) | [Alternative Hits](https://open.spotify.com/album/08Vvv6mW4DvU1Q3m8JdbNk) | 4:06 |
-| 65 | [Pet Sematary \(Single Version\)](https://open.spotify.com/track/4R0hIlQuvdDGoXBb8uo1nb) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Hardhitting Halloween Hits](https://open.spotify.com/album/2CHgEwkjnMNavROAqTA77Y) | 3:30 |
+| 63 | [Skeleton Song](https://open.spotify.com/track/7IOUeLzg5UL627qnywJjBL) | [Kate Nash](https://open.spotify.com/artist/5vBKu1igxFo6g1sHADkIdg) | [2000s Halloween](https://open.spotify.com/album/1LOaZzDyslJNdSnSn1ygRW) | 5:07 |
+| 64 | [So Haunted](https://open.spotify.com/track/3aerZL2vEJYNK7Zex54vO7) | [Cut Copy](https://open.spotify.com/artist/4EENT7N7rCBwrddM3s0vFS) | [So Haunted](https://open.spotify.com/album/3WXYeDDrhsJjniE1cKaKeR) | 4:23 |
+| 65 | [Zombie](https://open.spotify.com/track/6CTIg4upL3l8dfpDol9Wai) | [Jamie T](https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh) | [Alternative Hits](https://open.spotify.com/album/08Vvv6mW4DvU1Q3m8JdbNk) | 4:06 |
 
-Snapshot ID: `MTY2NzQyNTQ1MSwwMDAwMDAwMDJjNThhMjk3NWI1MjM0YWMxYWVmZjVmZTZkOGRhM2Fi`
+Snapshot ID: `MTY2NzQyNTQ1MSwwMDAwMDAwMDQzYzBhNjJiM2NjMzEwZmIxYThhZWNiYmFmMGNjMjY0`

@@ -4,7 +4,7 @@
 
 > Su música, como ellos, es eterna\. En portada: Juan Gabriel
 
-59 songs - 3 hr 46 min - not published yet
+61 songs - 3 hr 52 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,8 @@
 | [El Triste](https://open.spotify.com/track/5gu7Q6mpdYxVhpFYYE8ZPS) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [The Best Of \- Ultimate Collection \(All Time Hits\)](https://open.spotify.com/album/4u05OpDUVaKKaT7hV8c8KI) | 4:01 | 2022-10-24 |  |
 | [El Triste](https://open.spotify.com/track/6HgUhIiqCepGzgb4nuses6) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [15 Exitos De Oro](https://open.spotify.com/album/4OP48ZU8qUYanvwyTLAvrt) | 4:16 | 2022-10-24 | 2022-11-11 |
 | [El Último Trago \- Remastered](https://open.spotify.com/track/462NxL8bZEDNKQV8fCQ1Ks) | [Chavela Vargas](https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c) | [Obsesión \(Digitally Remastered\)](https://open.spotify.com/album/73aoI1tkGsSFBVyWYdzGwx) | 2:33 | 2022-10-24 |  |
-| [Eso Y Más](https://open.spotify.com/track/7HW5tUjaKxBUamSi7nnzPt) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Más Allá Del Sol](https://open.spotify.com/album/2xCw6KdAxnF1OBvsrLbKDM) | 2:39 | 2022-10-24 |  |
+| [Eso Y Más](https://open.spotify.com/track/7HW5tUjaKxBUamSi7nnzPt) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Más Allá Del Sol](https://open.spotify.com/album/2xCw6KdAxnF1OBvsrLbKDM) | 2:39 | 2022-10-24 | 2022-11-12 |
+| [Eso Y Más](https://open.spotify.com/track/1kmqX5Kr2QjUduxXicw0Gx) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Pedaleando un ratito](https://open.spotify.com/album/2vMmB7QDAEd4xSNRY72v9L) | 2:39 | 2022-10-24 |  |
 | [Everlong](https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [The Colour And The Shape](https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv) | 4:10 | 2022-10-24 |  |
 | [Guacarock Del Santo](https://open.spotify.com/track/5tHOJYiBkvOKdIl7sFkCuV) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Lo Pior Del Estuche De Peluche](https://open.spotify.com/album/0kyCl9EeEJJeg1D2YFxSvS) | 3:35 | 2022-10-24 |  |
 | [Heal the World](https://open.spotify.com/track/5zGsHa3XcLmDAsdt0LwYnu) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [HIStory \- PAST, PRESENT AND FUTURE \- BOOK I](https://open.spotify.com/album/3OBhnTLrvkoEEETjFA3Qfk) | 6:25 | 2022-10-24 |  |
@@ -61,7 +62,8 @@
 | [Piel Canela](https://open.spotify.com/track/5NYQS0JkqRRfhlliy0P3Dv) | [Eydie Gormé](https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z), [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Canta En Español Con Los Panchos](https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w) | 2:17 | 2022-10-24 |  |
 | [Puente](https://open.spotify.com/track/6gwaa6ElIixNTvu6RwkMyo) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Bocanada](https://open.spotify.com/album/2rIdWbXPjcq8K7BCccBhhC) | 4:33 | 2022-10-24 |  |
 | [Quimbara](https://open.spotify.com/track/6ydEhrdfzhI29D2NBAqUY1) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Celia & Johnny](https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1) | 4:51 | 2022-10-24 |  |
-| [Si Nos Dejan](https://open.spotify.com/track/3nuM254L7Ldb2n6UvY7JCK) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [Coleccion Original](https://open.spotify.com/album/3LuHAtGWeuUngugaJHkZ9K) | 2:24 | 2022-10-24 |  |
+| [Si Nos Dejan](https://open.spotify.com/track/60jflpTIoIoIsgXKSjTYAw) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [Mis Favoritas](https://open.spotify.com/album/7zoWgM0MDVPFFxX1Fn69g5) | 2:24 | 2022-10-24 |  |
+| [Si Nos Dejan](https://open.spotify.com/track/3nuM254L7Ldb2n6UvY7JCK) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [Coleccion Original](https://open.spotify.com/album/3LuHAtGWeuUngugaJHkZ9K) | 2:24 | 2022-10-24 | 2022-11-12 |
 | [Súbete a Mi Moto](https://open.spotify.com/track/1CNUozOLzsqVQxrct155hY) | [Menudo](https://open.spotify.com/artist/3Edq1eT7m7GX0PvHW7yEDF) | [Coleccion Original](https://open.spotify.com/album/2ysuZe6xyKlpVzuNKAJUuL) | 3:31 | 2022-10-24 |  |
 | [Tatuajes](https://open.spotify.com/track/57dG9il4j7Hi7G8Cqgi0Ts) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Joan Sebastian Con Mariachi](https://open.spotify.com/album/7Ml2mSF97d0zz3mDCKdx9M) | 3:31 | 2022-10-24 |  |
 | [Volveré](https://open.spotify.com/track/350kyj3PwTFlQMOpWzRd3O) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Diego En Los 70](https://open.spotify.com/album/1ohlNZAwfRCOaMQxKsQDIb) | 4:02 | 2022-10-24 |  |

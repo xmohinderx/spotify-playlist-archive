@@ -4,7 +4,7 @@
 
 > A young prince and a life\-changing choice \- love or duty? Watch Young Royals Season 2 Now On Netflix.
 
-59 songs - 3 hr 15 min - not published yet
+60 songs - 3 hr 21 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,8 @@
 | [James Dean](https://open.spotify.com/track/6i0KUmOdDvYjl4eNTEoMVO) | [Boye & Sigvardt](https://open.spotify.com/artist/5waIYqZSsMaTQqdL4QnqyR), [Electrick Village](https://open.spotify.com/artist/6oY0rvFRUyykIvmVTwcAGb) | [Night Addicts](https://open.spotify.com/album/43omyUGNwcR2bVYiByAqQt) | 3:01 | 2022-11-01 |  |
 | [Kitchen](https://open.spotify.com/track/0FFk2xCcqgmHdnjsWjJ6nK) | [Raghd](https://open.spotify.com/artist/5CIGqUkWQ0OY3U7HGlDlvw) | [Kitchen](https://open.spotify.com/album/4wcbwQRJuQKt9bHoR7AlXt) | 2:13 | 2022-11-01 |  |
 | [Lights](https://open.spotify.com/track/1dutX7b1fabgcMBZzWJAvw) | [Catalynx](https://open.spotify.com/artist/4cPEmrosnBbtt7XEuOsDxC) | [Galaxies EP](https://open.spotify.com/album/4V4byG2XaWjyO1tmscCQsu) | 9:39 | 2022-11-01 |  |
-| [Live And Die](https://open.spotify.com/track/48eeeQJmaA6PTs3hVPJbIE) | [Gina Dirawi](https://open.spotify.com/artist/2e7ujHEEu6FCr0BwZ6YDTO) | [Meet Me In Jannah](https://open.spotify.com/album/0NTNDTXu2KpTdXEQsUCGZ1) | 5:46 | 2022-11-01 |  |
+| [Live And Die](https://open.spotify.com/track/3768ZJKEyYp65B04dPi0mQ) | [Gina Dirawi](https://open.spotify.com/artist/2e7ujHEEu6FCr0BwZ6YDTO) | [Sunday/Live And Die](https://open.spotify.com/album/1AqHmizPRDAn3NUSdlv8p1) | 5:46 | 2022-11-01 |  |
+| [Live And Die](https://open.spotify.com/track/48eeeQJmaA6PTs3hVPJbIE) | [Gina Dirawi](https://open.spotify.com/artist/2e7ujHEEu6FCr0BwZ6YDTO) | [Meet Me In Jannah](https://open.spotify.com/album/0NTNDTXu2KpTdXEQsUCGZ1) | 5:46 | 2022-11-01 | 2022-11-12 |
 | [Lonely Ones](https://open.spotify.com/track/6Mb0OgMvbb7FYQejZ6rusz) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Grown\-ish](https://open.spotify.com/album/4HsUtIgXcWzJetVBHPybg0) | 3:07 | 2022-11-01 |  |
 | [Mirror](https://open.spotify.com/track/1eqzV7D24h0bLF5rJyO8It) | [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c) | [Ravage](https://open.spotify.com/album/6dvDfQcy2wY0G6sUjkfYpu) | 4:05 | 2022-11-01 |  |
 | [My Awe Sustains](https://open.spotify.com/track/2Hh8sSdW6fA9BnbBRxXwP8) | [ARY](https://open.spotify.com/artist/4FLA7MpTdP5nNUQfiaA3WM) | [For Evig](https://open.spotify.com/album/1WD76mtxpubTxXkuC7lN7o) | 4:26 | 2022-11-01 |  |

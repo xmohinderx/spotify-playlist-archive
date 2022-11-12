@@ -4,7 +4,7 @@
 
 > Larissa Lambert is our new RADAR artist to watch!
 
-177 songs - 9 hr 12 min - [published](https://open.spotify.com/playlist/04ix1C8A2r6zTd5sj7E8wt)
+179 songs - 9 hr 17 min - [published](https://open.spotify.com/playlist/04ix1C8A2r6zTd5sj7E8wt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,8 +81,9 @@
 | [How We Livin'](https://open.spotify.com/track/10bGyAjMw61JLTs1ma3jxL) | [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U), [Kapulet](https://open.spotify.com/artist/1ViLuYdL1yATbOu4NDKedh) | [How We Livin'](https://open.spotify.com/album/3sBHXOVi0l6EIoK03h9ggc) | 3:38 | 2021-10-15 | 2022-07-29 |
 | [How We Livin'](https://open.spotify.com/track/35KDwZwYeUx1BUgFINesrz) | [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U), [Kapulet](https://open.spotify.com/artist/1ViLuYdL1yATbOu4NDKedh) | [How We Livin'](https://open.spotify.com/album/1bDPrkh5p65SjANp8sqK6Q) | 3:38 | 2021-10-15 | 2022-08-16 |
 | [I Dunno Her](https://open.spotify.com/track/0JgmVPijLg1iPO1LJeZ4zB) | [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [I Dunno Her](https://open.spotify.com/album/2hIE5CUKfg4stBrq2TC0aR) | 4:48 | 2021-10-15 | 2022-08-16 |
+| [I LUV U](https://open.spotify.com/track/1acTXi35BL42XlNajWtmQn) | [Mia Rodriguez](https://open.spotify.com/artist/7Hsfh7YZzoyojYWQeMSHID) | [Brand New Pop](https://open.spotify.com/album/112ntdoaU3rZe4MQVm6Lb1) | 2:20 | 2022-11-10 |  |
 | [I LUV U](https://open.spotify.com/track/1f4hiNCEGip1N4B6QjCAJm) | [Mia Rodriguez](https://open.spotify.com/artist/7Hsfh7YZzoyojYWQeMSHID) | [I LUV U](https://open.spotify.com/album/1u14LWDFohYHEqptZhDo8i) | 2:20 | 2022-08-15 | 2022-11-11 |
-| [I LUV U](https://open.spotify.com/track/7qUwkG3UXNKvA6I9u7pU88) | [Mia Rodriguez](https://open.spotify.com/artist/7Hsfh7YZzoyojYWQeMSHID) | [New Pop Hits](https://open.spotify.com/album/2Bg8xP3QkxxHxgmKAYz7ct) | 2:20 | 2022-11-10 |  |
+| [I LUV U](https://open.spotify.com/track/7qUwkG3UXNKvA6I9u7pU88) | [Mia Rodriguez](https://open.spotify.com/artist/7Hsfh7YZzoyojYWQeMSHID) | [New Pop Hits](https://open.spotify.com/album/2Bg8xP3QkxxHxgmKAYz7ct) | 2:20 | 2022-11-10 | 2022-11-12 |
 | [I Should Be Home](https://open.spotify.com/track/5OpXp5NZvzcIrVuUaFlUHE) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [I Should Be Home](https://open.spotify.com/album/00btWJDLFEzJHq7EwuBQbM) | 3:00 | 2022-11-10 |  |
 | [I Want Control](https://open.spotify.com/track/3gaL0JEO7My2e1XksM9G2s) | [GRAZER](https://open.spotify.com/artist/66npZ0iLHcWmV2DAC8oYRF) | [I Want Control](https://open.spotify.com/album/0vjK1Vwge6tfcporOhIBVl) | 2:35 | 2022-08-15 | 2022-11-11 |
 | [I'll Be There](https://open.spotify.com/track/1rb3JMv4B08skOrLHhCVuo) | [Alisa Xayalith](https://open.spotify.com/artist/6yI9BJNdoOE6vjbZGoGyGz) | [I'll Be There](https://open.spotify.com/album/2cFaOuix1b5Qh2ySuqy14Y) | 3:11 | 2022-11-10 |  |
@@ -183,7 +184,8 @@
 | [Woah](https://open.spotify.com/track/1wkrmhQETrvqJ4nvO9NZ27) | [Donell Lewis](https://open.spotify.com/artist/6feZH59Dj4tl1bQ8D2gukz) | [Woah](https://open.spotify.com/album/1tRYUh3sL43QlfDdwRPHVS) | 2:33 | 2021-10-15 | 2022-08-16 |
 | [You Can Run](https://open.spotify.com/track/14q8xNdQVRRjdUD9dmhNqu) | [Jack Gray](https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw) | [You Can Run](https://open.spotify.com/album/2YK4GAgsaSuIPVYkIMuPh2) | 2:41 | 2022-08-15 | 2022-11-11 |
 | [You Don't Decide](https://open.spotify.com/track/1C3JCbvpq16SArd3dxZw5s) | [Blake](https://open.spotify.com/artist/6l1UuAf2YW3fTHB5TyBXVa) | [You Don't Decide](https://open.spotify.com/album/5S5U2QOZo3o38mY0gVhj59) | 2:41 | 2022-08-15 | 2022-10-17 |
-| [You Don't Decide](https://open.spotify.com/track/1VhH5roSzrRCsQ2ZLvfoj7) | [Blake](https://open.spotify.com/artist/6l1UuAf2YW3fTHB5TyBXVa) | [You Don't Decide](https://open.spotify.com/album/5PM3NjlqA6YBobSRy0nvP4) | 2:41 | 2022-08-28 |  |
+| [You Don't Decide](https://open.spotify.com/track/1VhH5roSzrRCsQ2ZLvfoj7) | [Blake](https://open.spotify.com/artist/6l1UuAf2YW3fTHB5TyBXVa) | [You Don't Decide](https://open.spotify.com/album/5PM3NjlqA6YBobSRy0nvP4) | 2:41 | 2022-08-28 | 2022-11-12 |
+| [You Don't Decide](https://open.spotify.com/track/2Q9V8KREGrMVIM4VLmVLXv) | [Blake](https://open.spotify.com/artist/6l1UuAf2YW3fTHB5TyBXVa) | [Skeptical](https://open.spotify.com/album/1jDy4AscIVvFQwNsGPhJ39) | 2:41 | 2022-11-10 |  |
 | [ZOOM IN](https://open.spotify.com/track/01MIWYWYzgkb0yBhbq95kC) | [KANADA THE LOOP](https://open.spotify.com/artist/0memvAGubR0iSAZmXnY4ta) | [ZOOM IN](https://open.spotify.com/album/1jyxoBLfZ6evWSP8BqwsF8) | 2:52 | 2021-10-15 | 2022-08-16 |
 
 \*This playlist was first scraped on 2022-01-02. Prior content cannot be recovered.

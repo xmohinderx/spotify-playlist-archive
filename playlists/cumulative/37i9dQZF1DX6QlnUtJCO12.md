@@ -4,7 +4,7 @@
 
 > Discover Trinidad & Tobago's rich musical history with these traditional Calypso tunes.
 
-60 songs - 3 hr 22 min - [published](https://open.spotify.com/playlist/7bIPeIf3ZZl1Rzq5h8DZnJ)
+61 songs - 3 hr 25 min - [published](https://open.spotify.com/playlist/7bIPeIf3ZZl1Rzq5h8DZnJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [Lieutnant Julian](https://open.spotify.com/track/351Zm4ZUKWT7qW7rXVoFkr) | [Sam Manning](https://open.spotify.com/artist/6MFvKHJHRpB6kWx3AMvvT4) | [Calypsonians \(1930 \- 1960\), Vol.1](https://open.spotify.com/album/4W7U6rL6f2eK4kPFk7XgHo) | 2:59 | 2021-04-23 |  |
 | [London is the Place for Me](https://open.spotify.com/track/1pETAnznla509bUKb34xnS) | [Lord Kitchener](https://open.spotify.com/artist/7FL6vuQ7VGJvOiZUukHAcK) | [8](https://open.spotify.com/album/5myiV8PzZ56eKshMLoTvVH) | 2:47 | 2021-04-23 |  |
 | [Madam Khan](https://open.spotify.com/track/5pwZEoz1Us2iRvKGDTANdQ) | [Caresser](https://open.spotify.com/artist/3yYR5E4CAkasdBgESRKjLN) | [Calypso \- Best Of Trinidad CD 1 1912\-1929](https://open.spotify.com/album/6jNpSx8r02ElxRnuoKCEDF) | 2:53 | 2021-04-23 | 2022-07-29 |
-| [Madame Khan](https://open.spotify.com/track/2wqPVJyOERhglMyV9TdMie) | [The Caresser](https://open.spotify.com/artist/24zY3nNJ7wJ560pBrq35lY) | [Calypso Carnival \(1914 \- 1940\)](https://open.spotify.com/album/1JVKJeE0ejC7lz0pnAnijm) | 2:54 | 2021-04-23 |  |
+| [Madam Khan](https://open.spotify.com/track/6muxRBXNg9DDVw2SBXC15o) | [Caresser](https://open.spotify.com/artist/3yYR5E4CAkasdBgESRKjLN) | [The Magic of Trinidad Sounds 1930\-39](https://open.spotify.com/album/1GTGYMM1ePRckARUd262UK) | 2:53 | 2021-04-23 |  |
+| [Madame Khan](https://open.spotify.com/track/2wqPVJyOERhglMyV9TdMie) | [The Caresser](https://open.spotify.com/artist/24zY3nNJ7wJ560pBrq35lY) | [Calypso Carnival \(1914 \- 1940\)](https://open.spotify.com/album/1JVKJeE0ejC7lz0pnAnijm) | 2:54 | 2021-04-23 | 2022-11-12 |
 | [Man Smart Woman Smarter](https://open.spotify.com/track/3MWSJVLc5BLOpFW9tb6wac) | [King Radio](https://open.spotify.com/artist/68qRklewuFhi50agtf76un) | [Calypso Legends](https://open.spotify.com/album/2hcNJdaOsTyGg9T7c54EBJ) | 3:05 | 2021-04-23 | 2022-07-29 |
 | [Man Smart, Woman Smarter](https://open.spotify.com/track/69oH5k21w7K0DfokV4zrfg) | [King Radio](https://open.spotify.com/artist/68qRklewuFhi50agtf76un) | [Man Smart, Woman Smarter](https://open.spotify.com/album/10B1IiL3qBkWUtby6bkEwa) | 3:03 | 2021-04-23 |  |
 | [Man Smart, Woman Smarter](https://open.spotify.com/track/5bjWqqJdM85zPvVHnXlEui) | [The Duke Of Iron](https://open.spotify.com/artist/24SUuBMfJRRKPZxkTJ8p81) | [Man Smart, Woman Smarter \(Remastered\)](https://open.spotify.com/album/7ueOZmQbgjo5U1wRn4gUAs) | 2:34 | 2021-04-23 |  |

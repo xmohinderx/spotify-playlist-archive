@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ptRQF1dOxS.md) - [plain]
 
 > Listen to women at full volume\. Cover: RAYE
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,549 likes - 51 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,590 likes - 51 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ptRQF1dOxS.md) - [plain]
 | 16 | [On God!](https://open.spotify.com/track/3AcH92WhF4cBsbUvoDgu30) | [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9) | [Fool Me Once](https://open.spotify.com/album/15moNc4Pg5E1qXrXHM2WNl) | 3:21 |
 | 17 | [our time](https://open.spotify.com/track/6WBacWkfkwZxteVJ7MMBLZ) | [AZA](https://open.spotify.com/artist/1TuDcLFLVVf4Acp0Ja5O9Z) | [introducing AZA](https://open.spotify.com/album/4mAejHwVXINF599ZZ9XPVo) | 3:23 |
 | 18 | [Stick Around](https://open.spotify.com/track/5uM8bC7dVn5v59zwQybe9d) | [ABISHA](https://open.spotify.com/artist/5NxlgxZ0yYlmCdy1jhUcDQ) | [Everything Falls Into Place](https://open.spotify.com/album/2R9HgibWqmnLNBlKSxxtiJ) | 2:19 |
-| 19 | [Crazy That You Love](https://open.spotify.com/track/4Z4lh6KduIfW4REI6XGnDw) | [Aurora Dee Raynes](https://open.spotify.com/artist/7MKfjytUX348ZtYEL8B4kg) | [Invisible Things](https://open.spotify.com/album/1RnirhqC0ZQjTfb18z0Wk6) | 3:29 |
+| 19 | [Crazy That You Love](https://open.spotify.com/track/2RmVdxI3jtgRBP8hKqjuqC) | [Aurora Dee Raynes](https://open.spotify.com/artist/7MKfjytUX348ZtYEL8B4kg) | [Tru Thoughts 2021](https://open.spotify.com/album/79GFITPeViIX4RIXK1PfQq) | 3:29 |
 | 20 | [cityscape](https://open.spotify.com/track/5o6vPmgz6iccUWnXJo3gMn) | [MaZz](https://open.spotify.com/artist/107O5LIqkinsrUzpFr9gu7) | [cityscape](https://open.spotify.com/album/1EKdEiHnk5mSXWUvJqFtdt) | 3:42 |
 | 21 | [good thing](https://open.spotify.com/track/6TuyZfx8LHlC5Tt1FbUgQP) | [emie nathan](https://open.spotify.com/artist/6vFlOaLfKZPqqJuJ3YWhAB) | [good thing](https://open.spotify.com/album/448Uhhw0zZBHdohVWZNCUJ) | 2:22 |
 | 22 | [Wonder](https://open.spotify.com/track/5sbNLpRqcGDphEaG2veqGT) | [Leah Weller](https://open.spotify.com/artist/5X0IIXf3Fm12IJ4YodiqMA) | [Freedom](https://open.spotify.com/album/0bqWMD6UAJ55uMmpgCJbdm) | 3:35 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ptRQF1dOxS.md) - [plain]
 | 50 | [Jaws](https://open.spotify.com/track/17TCTYGxieVPS1TBTUdQkc) | [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Jaws](https://open.spotify.com/album/0rdaz3LaQsaibiVA6iGtkn) | 3:20 |
 | 51 | [That Feeling](https://open.spotify.com/track/4w0FBEYmNAawFZd5HpBCWc) | [April](https://open.spotify.com/artist/4szhr7vkREIJ7DlW49pF5d) | [Starlane](https://open.spotify.com/album/17F3TzqAlvZy7mvRc5jdn9) | 2:58 |
 
-Snapshot ID: `MTY2NzM0NzIwMCwwMDAwMDAwMDZmNzA3NmFhODljZDIxZTQzMjM0ZTM4YjllNDQ2MDUz`
+Snapshot ID: `MTY2NzM0NzIwMCwwMDAwMDAwMDZkMTQwNGYxNmEzMjMzY2E1MzliMDNhMTQzNjFmOGIz`

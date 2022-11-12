@@ -4,7 +4,7 @@
 
 > 試著拋開所有煩惱，配上一點特意的小確幸，這一刻只屬於你...
 
-265 songs - 14 hr 35 min - [published](https://open.spotify.com/playlist/70F1v4zvuq5j5onBRYZuyS)
+266 songs - 14 hr 38 min - [published](https://open.spotify.com/playlist/70F1v4zvuq5j5onBRYZuyS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,11 +73,12 @@
 | [Displaced](https://open.spotify.com/track/0B05dpghF4FSxNoBr3qBUj) | [illmore](https://open.spotify.com/artist/6xLWs7PzOiPY2351KcoeGZ), [Joie Tan](https://open.spotify.com/artist/1kjkddXmDG9vdt7P8lwYUd) | [Displaced](https://open.spotify.com/album/14FGgHjVJqFgafDnuhBOpy) | 2:56 | 2022-06-06 | 2022-07-29 |
 | [Don't Call Me](https://open.spotify.com/track/6kcAvKkuO7UG2EwWRqluWD) | [BOYINSPACE](https://open.spotify.com/artist/5yqPOYPzvjkFuIDhv3iv0F) | [Don't Call Me](https://open.spotify.com/album/4wozgE783gUeKm5OZZ4Jib) | 3:45 | 2022-07-04 | 2022-07-08 |
 | [Don't Give In](https://open.spotify.com/track/62aWvmFONlusEPthH5CmA2) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Don't Give In](https://open.spotify.com/album/4nkVzPcDX2u2X9NDM2bTck) | 3:29 | 2022-07-25 | 2022-10-13 |
+| [Don't Trust Myself](https://open.spotify.com/track/1eiDjkNOwX9LeSkSAGCA5a) | [Robinson](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [Don't Trust Myself](https://open.spotify.com/album/2VOZerWeIVjsvO68fJAZ65) | 2:49 | 2022-10-24 |  |
 | [Don’t Matter](https://open.spotify.com/track/1y2ffEt2MDA3ghGwlJYuyh) | [Lydia Lee](https://open.spotify.com/artist/3PBcsYf74HPwGgOvyUSm5F) | [The House That I Live In](https://open.spotify.com/album/0rNvPsTkfRZap56kUJwnML) | 3:02 | 2022-06-06 | 2022-07-29 |
 | [Drive](https://open.spotify.com/track/1r5JnD5hiJrViG0DUG02Jv) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Drive](https://open.spotify.com/album/4s341L6xFYG4imA1aoCh19) | 3:10 | 2022-10-24 |  |
 | [Drowning](https://open.spotify.com/track/5yOy3vK27xjkWaqTS46gHN) | [Three Oscillators](https://open.spotify.com/artist/7sWAzQH4ktfR6aO0L2gwB7), [Karshni](https://open.spotify.com/artist/2krHp4TdZbPjAyN8atU6Ff) | [Drowning](https://open.spotify.com/album/4mdszm9ez7c8ohdLyG5n8v) | 3:36 | 2022-06-06 | 2022-07-29 |
 | [drunk](https://open.spotify.com/track/3KkVd7Xg0jCAZSOatzQ6Td) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [drunk](https://open.spotify.com/album/14vqR57z8khZzYex37NVg9) | 3:46 | 2022-06-06 | 2022-07-29 |
-| [drunk](https://open.spotify.com/track/6D6HVKe7Qu3imn4zzJD0W9) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [always](https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A) | 3:47 | 2022-07-25 |  |
+| [drunk](https://open.spotify.com/track/6D6HVKe7Qu3imn4zzJD0W9) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [always](https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A) | 3:47 | 2022-07-25 | 2022-11-12 |
 | [Dummy](https://open.spotify.com/track/5JbwQffYY41WnmZiRw39aw) | [Julian Jacob](https://open.spotify.com/artist/3hF7qPC3gzhtfaKANEhKB9) | [Dummy](https://open.spotify.com/album/4mvX5gtx89KvTmjGKS3YUK) | 3:03 | 2022-06-20 | 2022-06-28 |
 | [Eight](https://open.spotify.com/track/5T20empZEdKnAdIq26xtTA) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS), [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Eight](https://open.spotify.com/album/5R6BFu0xrBtlOXN8NR12c4) | 2:49 | 2022-10-03 |  |
 | [end of summer](https://open.spotify.com/track/41Y2sKD6964zZsVKcVdfIA) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O), [Nathania](https://open.spotify.com/artist/3GGFoDJb13etkq2DgQ4cMw) | [end of summer](https://open.spotify.com/album/0cPA5U89O8Zq7lS258nRSt) | 3:05 | 2022-07-04 | 2022-07-24 |
@@ -225,7 +226,7 @@
 | [Surrender](https://open.spotify.com/track/0ecC8p17cDNlxHXkuYqeR6) | [Natalie Taylor](https://open.spotify.com/artist/2WxjxdeF7GGdcCK276qViY) | [Surrender](https://open.spotify.com/album/5vplYu9dji5uOQdLutFfnf) | 3:03 | 2022-07-25 |  |
 | [Talk](https://open.spotify.com/track/0rTV5WefWd1J3OwIheTzxM) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Talk](https://open.spotify.com/album/58kvvQvx6OtLqEDhqYSzyM) | 3:17 | 2022-07-25 |  |
 | [Tatted](https://open.spotify.com/track/4SXEPh7ese9BmZGNwXlnUD) | [LATRO](https://open.spotify.com/artist/26EAmIgHn2rrSVgKd3ehWD) | [Tatted](https://open.spotify.com/album/5mcpz12xwHIsS6RGhoF5m4) | 3:05 | 2022-06-06 | 2022-07-21 |
-| [Tell Me About You \(feat\. Mishaal\)](https://open.spotify.com/track/1haZCYSR61JHOAivPNOuQH) | [Kina](https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF), [Mishaal](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [Tell Me About You \(feat\. Mishaal\)](https://open.spotify.com/album/5VxArOD8Qs6kmKR04wIshn) | 3:14 | 2022-07-25 |  |
+| [Tell Me About You \(feat\. Mishaal\)](https://open.spotify.com/track/1haZCYSR61JHOAivPNOuQH) | [Kina](https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF), [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [Tell Me About You \(feat\. Mishaal\)](https://open.spotify.com/album/5VxArOD8Qs6kmKR04wIshn) | 3:14 | 2022-07-25 |  |
 | [Tell Me Why](https://open.spotify.com/track/0qBV27lkQHQ3A4wGiSx7xB) | [RILEY](https://open.spotify.com/artist/38SHprY6NUd8O9LyWJ4hg4), [Loote](https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ) | [Tell Me Why](https://open.spotify.com/album/4L1Seg0eLOrj9fOhmyhEkc) | 3:17 | 2022-06-06 | 2022-07-29 |
 | [Temporary](https://open.spotify.com/track/2cRahCZ2Zg5J8AM49CsEv6) | [Tim Schaufert](https://open.spotify.com/artist/3PThWtcE0CEi5IUmfgTvrC) | [Temporary](https://open.spotify.com/album/7yrx1Kt6FdZXw7CBuj24TF) | 2:04 | 2022-07-25 | 2022-07-27 |
 | [The Angels](https://open.spotify.com/track/6XwDVNiqXI6WrhlVJYdPLu) | [JordanXL](https://open.spotify.com/artist/2GB80HjPXBHPNH6DoUC0bq) | [The Angels](https://open.spotify.com/album/1ZdaNHouyJBXKES1AxjFAV) | 3:33 | 2022-06-06 | 2022-07-25 |

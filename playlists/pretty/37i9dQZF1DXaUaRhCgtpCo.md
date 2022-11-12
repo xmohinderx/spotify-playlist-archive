@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUaRhCgtpCo.md) - [plain]
 
 > May the Force be with you\. Find more great Star Wars music <a href="https://open.spotify.com/user/official\_star\_wars">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 452,903 likes - 114 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 453,017 likes - 114 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,11 +32,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUaRhCgtpCo.md) - [plain]
 | 22 | [Stop That Train](https://open.spotify.com/track/7qYAX8yamoruNCCCYvjIVe) | [Joseph Shirley](https://open.spotify.com/artist/6QeQA8W6WZNwHfDU1mOA2e), [Ludwig Goransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [The Book of Boba Fett: Vol\. 1 \(Chapters 1\-4\) \[Original Soundtrack\]](https://open.spotify.com/album/36qgdmFn1KjBOSG55PB1Ju) | 4:06 |
 | 23 | [Fennec and Boba](https://open.spotify.com/track/2EgQoaZnFe59ST1PdgJbNH) | [Joseph Shirley](https://open.spotify.com/artist/6QeQA8W6WZNwHfDU1mOA2e), [Ludwig Goransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [The Book of Boba Fett: Vol\. 1 \(Chapters 1\-4\) \[Original Soundtrack\]](https://open.spotify.com/album/36qgdmFn1KjBOSG55PB1Ju) | 2:08 |
 | 24 | [Galactic Dreamer](https://open.spotify.com/track/6eukKVQ3OA8bsfAdTsX3lH) | [Nonpe](https://open.spotify.com/artist/18dBodXqnQFoktjaBtBrM0) | [Star Wars: Visions \- Tatooine Rhapsody \(Original Soundtrack\)](https://open.spotify.com/album/7MIHDMH37tfDgV4J1V5JZt) | 2:03 |
-| 25 | [Star Waver](https://open.spotify.com/track/5StLIeGsbmVPDsrUDXcaXJ) | [Yoshiaki Dewa](https://open.spotify.com/artist/2PNKwLhOHrL7hMidpRW43G) | [Star Wars: Visions \- Tatooine Rhapsody \(Original Soundtrack\)](https://open.spotify.com/album/7MIHDMH37tfDgV4J1V5JZt) | 0:52 |
+| 25 | [Star Waver](https://open.spotify.com/track/5StLIeGsbmVPDsrUDXcaXJ) | [Yoshiaki Dewa](https://open.spotify.com/artist/3NWiLtzfi2mh7EB2Fq9TyY) | [Star Wars: Visions \- Tatooine Rhapsody \(Original Soundtrack\)](https://open.spotify.com/album/7MIHDMH37tfDgV4J1V5JZt) | 0:52 |
 | 26 | [Battle Rela](https://open.spotify.com/track/5JniadiDSQ28PEvcUQDYmW) | [U\-zhaan](https://open.spotify.com/artist/0CDt5nfGQ8it4IerQwquMS) | [Star Wars: Visions \- AKAKIRI \(Original Soundtrack\)](https://open.spotify.com/album/2e1Qn8RDyLclqvLf0VINPR) | 1:12 |
 | 27 | [Float](https://open.spotify.com/track/2TveaBL9SwE5ERQP9HtwE5) | [U\-zhaan](https://open.spotify.com/artist/0CDt5nfGQ8it4IerQwquMS) | [Star Wars: Visions \- AKAKIRI \(Original Soundtrack\)](https://open.spotify.com/album/2e1Qn8RDyLclqvLf0VINPR) | 0:41 |
-| 28 | [The Empire](https://open.spotify.com/track/6qbtheuo2S7OfWxR8Xv1b4) | [Yoshiaki Dewa](https://open.spotify.com/artist/2PNKwLhOHrL7hMidpRW43G) | [Star Wars: Visions \- Lop & Ochō \(Original Soundtrack\)](https://open.spotify.com/album/691oSq9pczFEuW75oWesid) | 0:46 |
-| 29 | [For MY Family](https://open.spotify.com/track/6Jxe3v2gAydPT9dXG0TXPh) | [Yoshiaki Dewa](https://open.spotify.com/artist/2PNKwLhOHrL7hMidpRW43G) | [Star Wars: Visions \- Lop & Ochō \(Original Soundtrack\)](https://open.spotify.com/album/691oSq9pczFEuW75oWesid) | 3:16 |
+| 28 | [The Empire](https://open.spotify.com/track/6qbtheuo2S7OfWxR8Xv1b4) | [Yoshiaki Dewa](https://open.spotify.com/artist/3NWiLtzfi2mh7EB2Fq9TyY) | [Star Wars: Visions \- Lop & Ochō \(Original Soundtrack\)](https://open.spotify.com/album/691oSq9pczFEuW75oWesid) | 0:46 |
+| 29 | [For MY Family](https://open.spotify.com/track/6Jxe3v2gAydPT9dXG0TXPh) | [Yoshiaki Dewa](https://open.spotify.com/artist/3NWiLtzfi2mh7EB2Fq9TyY) | [Star Wars: Visions \- Lop & Ochō \(Original Soundtrack\)](https://open.spotify.com/album/691oSq9pczFEuW75oWesid) | 3:16 |
 | 30 | [The Duel](https://open.spotify.com/track/5zcAxtO4veMV9vq8SuHgKf) | [Keiji Inai](https://open.spotify.com/artist/1vTocDHu5XNwdgDU1WtS34) | [Star Wars: Visions \- The Duel \(Original Soundtrack\)](https://open.spotify.com/album/3H28Ci4oeaSmDaDkXw8iyV) | 3:47 |
 | 31 | [Ronin's Theme](https://open.spotify.com/track/0GLicEZFv5LCu2HBtNEEmu) | [Keiji Inai](https://open.spotify.com/artist/1vTocDHu5XNwdgDU1WtS34) | [Star Wars: Visions \- The Duel \(Original Soundtrack\)](https://open.spotify.com/album/3H28Ci4oeaSmDaDkXw8iyV) | 3:46 |
 | 32 | [The Ninth Jedi \- Prologue](https://open.spotify.com/track/2Vu0gB2LQJsHd9jdquA9Wu) | [Nobuko Toda](https://open.spotify.com/artist/57JOhTMAdbqeE4hVOrsOqJ), [Kazuma Jinnouchi](https://open.spotify.com/artist/2UM9kTNJPoOHuN4yeDT54i) | [Star Wars: Visions \- The Ninth Jedi \(Original Soundtrack\)](https://open.spotify.com/album/4KJ9vQBPgLLjgerzp8oPbg) | 2:07 |

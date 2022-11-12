@@ -4,7 +4,7 @@
 
 > The essential pop rock songs from the 2000s\. Cover: Kelly Clarkson.
 
-144 songs - 9 hr 32 min - [published](https://open.spotify.com/playlist/5K5umzcf3NGv3wuRSs39y0)
+146 songs - 9 hr 39 min - [published](https://open.spotify.com/playlist/5K5umzcf3NGv3wuRSs39y0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,9 +60,10 @@
 | [How to Save a Life](https://open.spotify.com/track/5fVZC9GiM4e8vu99W0Xf6J) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [How To Save A Life](https://open.spotify.com/album/1IM3GwptCGYjRkzCBolyFK) | 4:22 | 2020-10-28 |  |
 | [How You Remind Me](https://open.spotify.com/track/0gmbgwZ8iqyMPmXefof8Yf) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Silver Side Up](https://open.spotify.com/album/5fKL7vMTXvhR9tov8Kqt3u) | 3:43 | 2022-03-23 |  |
 | [Human](https://open.spotify.com/track/1sTsuZTdANkiFd7T34H3nb) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Day & Age \(Bonus Tracks\)](https://open.spotify.com/album/0Ug5scDXUIgGN8yanDBLQw) | 4:05 | 2020-10-28 |  |
+| [I Can't Stay](https://open.spotify.com/track/2zdpz8sk3rkh0fLYabLjmj) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Day & Age \(Bonus Tracks\)](https://open.spotify.com/album/0Ug5scDXUIgGN8yanDBLQw) | 3:05 | 2020-10-28 |  |
 | [I Don't Want to Be](https://open.spotify.com/track/6ich2xMH5AR39V85miIAN8) | [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Chariot \- Stripped](https://open.spotify.com/album/0Fm4Qx8IVHEEBYPeRzNUGI) | 3:37 | 2020-10-28 |  |
 | [I Thought I'd Seen Everything](https://open.spotify.com/track/0sx4smMhPl7RY0a2FAenEj) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [11](https://open.spotify.com/album/3ZJiY47Gal46S0QEgC1EEI) | 5:06 | 2020-10-28 | 2022-07-29 |
-| [I'll Keep Your Memory Vague](https://open.spotify.com/track/1RYy00jUPPA8Dr8nTuRb05) | [Finger Eleven](https://open.spotify.com/artist/0niJkG4tKkne3zwr7I8n9n) | [Them Vs\. You Vs\. Me \(Deluxe Edition\)](https://open.spotify.com/album/2pCfqddO9tLKRz3wzSNGsZ) | 3:46 | 2020-10-28 | 2022-07-29 |
+| [I'll Keep Your Memory Vague](https://open.spotify.com/track/1RYy00jUPPA8Dr8nTuRb05) | [Finger Eleven](https://open.spotify.com/artist/0niJkG4tKkne3zwr7I8n9n) | [Them Vs\. You Vs\. Me \(Deluxe Edition\)](https://open.spotify.com/album/2pCfqddO9tLKRz3wzSNGsZ) | 3:46 | 2020-10-28 |  |
 | [I'm A Believer](https://open.spotify.com/track/0C9jZPUv4SuaXkuEQw6L40) | [Smash Mouth](https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd) | [Smash Mouth](https://open.spotify.com/album/7KZkFAtkse1rKL9HdFTCuh) | 3:05 | 2021-12-22 | 2022-07-29 |
 | [I'm A Believer \- Radio Edit](https://open.spotify.com/track/1RC5Mb0VhnlhnMlFDnrvE0) | [Smash Mouth](https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd) | [Smash Mouth](https://open.spotify.com/album/0E0q3hPeALlDvoDvYztYeH) | 3:03 | 2021-12-22 | 2022-11-11 |
 | [I'm with You](https://open.spotify.com/track/1jlG3KJ3gdYmhfuySFfpO1) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Let Go](https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy) | 3:43 | 2020-10-28 |  |
@@ -97,7 +98,7 @@
 | [Over My Head \(Cable Car\)](https://open.spotify.com/track/1N62wozuHCvczCkY4QidpP) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [How To Save A Life](https://open.spotify.com/album/1IM3GwptCGYjRkzCBolyFK) | 3:56 | 2020-10-28 |  |
 | [Over You](https://open.spotify.com/track/7mXmxXLAnsvXKt4Q37KoMI) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot) | [Daughtry](https://open.spotify.com/album/7MEQdKzqoG2QJYcT2XEKsW) | 3:24 | 2020-10-28 |  |
 | [Photograph](https://open.spotify.com/track/3hb2ScEVkGchcAQqrPLP0R) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [All the Right Reasons](https://open.spotify.com/album/3eZd2XbhLyPcgbgcsLTZh3) | 4:18 | 2020-10-28 |  |
-| [Real Gone](https://open.spotify.com/track/45dGKmN6jw7PgK6Dw2rEp2) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Cars \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Xiz5kq12VOzTw9Kun7m0f) | 3:20 | 2020-10-28 |  |
+| [Real Gone](https://open.spotify.com/track/45dGKmN6jw7PgK6Dw2rEp2) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Cars \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Xiz5kq12VOzTw9Kun7m0f) | 3:20 | 2020-10-28 | 2022-11-12 |
 | [Real Gone](https://open.spotify.com/track/0JUaqijY6i3hBzOdHGMP9j) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Cars Original Soundtrack \(English Version\)](https://open.spotify.com/album/6FnSPeYlcIvo4Or4R4fQgr) | 3:21 | 2020-10-28 | 2022-07-27 |
 | [Sailed Away](https://open.spotify.com/track/7yj0jM8Q5Ylbtu4alGUqMN) | [Saving Abel](https://open.spotify.com/artist/2AVVj8ezW2mJ0v8u7XydiF) | [Saving Abel](https://open.spotify.com/album/6Nft5QnHcxYvLwAQc3mo8O) | 4:18 | 2020-10-28 | 2022-07-29 |
 | [Secrets](https://open.spotify.com/track/1NhPKVLsHhFUHIOZ32QnS2) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Waking Up](https://open.spotify.com/album/2pLAOZiilrhOrTQNqrF8qr) | 3:44 | 2020-10-28 |  |
@@ -118,7 +119,8 @@
 | [Someday](https://open.spotify.com/track/4PkJ7c9y1CwpuVOiJODnCZ) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [The Long Road](https://open.spotify.com/album/4fygErqiNgFUic5hU42Z3E) | 3:27 | 2020-10-28 |  |
 | [Sometimes You Can't Make It On Your Own](https://open.spotify.com/track/1AKfLYTm4RqfLKqgQmv9V2) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [How To Dismantle An Atomic Bomb](https://open.spotify.com/album/2nPJlUlcyQ24e1VdayD6TT) | 5:08 | 2020-10-28 | 2022-07-26 |
 | [Somewhere In Between](https://open.spotify.com/track/3VFO6bwk914T8esF1zAr4Q) | [Lifehouse](https://open.spotify.com/artist/5PokPZn11xzZXyXSfnvIM3) | [No Name Face](https://open.spotify.com/album/18ttJAJKeQvaAg8cpnn9uM) | 4:13 | 2020-10-28 | 2022-07-29 |
-| [Somewhere Only We Know](https://open.spotify.com/track/0ll8uFnc0nANY35E0Lfxvg) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Hopes And Fears](https://open.spotify.com/album/0qsT8HLvlWaSWIq8Rc95BI) | 3:56 | 2020-10-28 |  |
+| [Somewhere Only We Know](https://open.spotify.com/track/0ll8uFnc0nANY35E0Lfxvg) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Hopes And Fears](https://open.spotify.com/album/0qsT8HLvlWaSWIq8Rc95BI) | 3:56 | 2020-10-28 | 2022-11-12 |
+| [Somewhere Only We Know](https://open.spotify.com/track/7jxu1xilREQM8KAZlvr2iG) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [2000s Songs](https://open.spotify.com/album/0HvKpKZAJYcvfdKoD8UIoE) | 3:56 | 2020-10-28 |  |
 | [Somewhere Only We Know](https://open.spotify.com/track/1SKPmfSYaPsETbRHaiA18G) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Hopes And Fears](https://open.spotify.com/album/0MlTOiC5ZYKFGeZ8h3D4rd) | 3:57 | 2020-10-28 | 2022-07-29 |
 | [Speed of Sound](https://open.spotify.com/track/7clUVcSOtkNWa58Gw5RfD4) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [X&Y](https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6) | 4:47 | 2020-10-28 |  |
 | [Stacy's Mom](https://open.spotify.com/track/27L8sESb3KR79asDUBu8nW) | [Fountains Of Wayne](https://open.spotify.com/artist/1pgtr4nhBQjp9oCUBPyYWh) | [Welcome Interstate Managers](https://open.spotify.com/album/6TZp52tXShLQbq8yNMxqNT) | 3:17 | 2022-03-23 |  |
@@ -137,7 +139,7 @@
 | [The Man Who Can't Be Moved](https://open.spotify.com/track/4AFwnrH5atiJoAd5xS5QtR) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [The Script](https://open.spotify.com/album/2hWSBJTWE0ce0NqJv2vzCc) | 4:01 | 2020-10-28 | 2022-07-29 |
 | [The Middle](https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Bleed American](https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP) | 2:45 | 2022-03-23 |  |
 | [The Only Exception](https://open.spotify.com/track/3ZHfX6kbiY7JVsB63lLOLu) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Brand New Eyes](https://open.spotify.com/album/3CaQTJU2Cpx7GXTgenmb2r) | 4:27 | 2020-10-28 | 2022-07-29 |
-| [The Only Exception](https://open.spotify.com/track/7JIuqL4ZqkpfGKQhYlrirs) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Brand New Eyes](https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A) | 4:27 | 2020-10-28 |  |
+| [The Only Exception](https://open.spotify.com/track/7JIuqL4ZqkpfGKQhYlrirs) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Brand New Eyes](https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A) | 4:27 | 2020-10-28 | 2022-11-12 |
 | [The Reason](https://open.spotify.com/track/77loZpT5Y5PRP1S451P9Yz) | [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [The Reason \(15th Anniversary Deluxe\)](https://open.spotify.com/album/2zE1YKY7Okj10Tjl09jjth) | 3:52 | 2020-10-28 |  |
 | [The World We Live In](https://open.spotify.com/track/6QFjg371WnvjbBVCK1QBJ1) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Day & Age \(Bonus Tracks\)](https://open.spotify.com/album/0Ug5scDXUIgGN8yanDBLQw) | 4:38 | 2020-10-28 |  |
 | [This Is A Call](https://open.spotify.com/track/6g1lAe0by2tNDHrjpFeQ47) | [Thousand Foot Krutch](https://open.spotify.com/artist/6GfiCQDFYANz5wUkSmb3Dr) | [Phenomenon](https://open.spotify.com/album/2W0NcLRNl60IDHL5WUgyjM) | 3:49 | 2020-10-28 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Pe3b7DsbG.md) - [plain]
 
 > Um bom sambinha para acompanhar cada gole de caipirinha.
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,336 likes - 65 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,371 likes - 65 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Pe3b7DsbG.md) - [plain]
 | 47 | [O Sol Nascerá \(A Sorrir\)](https://open.spotify.com/track/4M2j1X47FwMozJrnJHnYNm) | [Cartola](https://open.spotify.com/artist/0RSWHhBUwW7lhCqXqxKxWN) | [Raizes Do Samba](https://open.spotify.com/album/0i9SwtLwZ8cOuH5qtkwTvT) | 1:37 |
 | 48 | [Chove e Não Molha](https://open.spotify.com/track/0DLLQHCiMG1HMljBqFU8KF) | [Elton Medeiros](https://open.spotify.com/artist/4kJdvLeXdVp1o5WjnrehLV) | [Quatro Grandes Do Samba](https://open.spotify.com/album/6qmP5pJpulEEaQK9YQtvI2) | 2:24 |
 | 49 | [Malandragem dá um Tempo](https://open.spotify.com/track/0rImThhPOV8wtgeyltD6no) | [Bezerra Da Silva](https://open.spotify.com/artist/3aqtJPuhfwxQ60jG1OAFQt) | [Alô Malandragem Maloca o Flagrante](https://open.spotify.com/album/37znmRInvE0JRX8rNkiXXO) | 3:52 |
-| 50 | [Coração Leviano](https://open.spotify.com/track/3Pz0EPURuJlpuUCRzgb7hQ) | [Paulinho Da Viola](https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls) | [Meus Momentos: Paulinho Da Viola](https://open.spotify.com/album/5DJ8Iu9nfpGykmggpCLsYu) | 2:52 |
+| 50 | [Coração Leviano](https://open.spotify.com/track/5M1SiL8Xl8lUW4VpjJtNsG) | [Paulinho Da Viola](https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls) | [Bis \- Paulinho Da Viola](https://open.spotify.com/album/6acEK03JM3ebF4QNJKS7wo) | 2:51 |
 | 51 | [Nas Asas da Canção](https://open.spotify.com/track/7gW3883SbE306v3X4pKTWN) | [Nelson Sargento](https://open.spotify.com/artist/0Ij2lGitwYszblscnFtglL) | [Versátil](https://open.spotify.com/album/6QLdS0DHJp6v493GZr9KOM) | 4:06 |
 | 52 | [Mulheres \- Ao Vivo No Rio De Janeiro / 2007](https://open.spotify.com/track/5oMUdUhM7kbUnQmxG2AK6j) | [Zeca Pagodinho](https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb), [Martinho Da Vila](https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E) | [Ao Vivo Com Os Amigos](https://open.spotify.com/album/5CPyXPaL9Qzv5Mpi2HQBug) | 3:23 |
 | 53 | [É Corpo, É Alma, É Religião \- Ao Vivo Na Lapa](https://open.spotify.com/track/1Titm76tFsIqqjjITUYRfx) | [Maria Rita](https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI) | [O Samba Em Mim \(Ao Vivo Na Lapa\)](https://open.spotify.com/album/2wv5WDVgqmtwqCcVok5eyr) | 3:46 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Pe3b7DsbG.md) - [plain]
 | 64 | [Clube do Samba](https://open.spotify.com/track/6NV8IxFmG9cPtnZqQwulAy) | [Diogo Nogueira](https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd), [Alcione](https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo), [Arlindo Cruz](https://open.spotify.com/artist/096an3uS6ZaK2XySae6SqP), [Beth Carvalho](https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3), [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA), [Dudu Nobre](https://open.spotify.com/artist/4Mw0vJsDXTZF7kn7EsdNoD), [Grupo Fundo De Quintal](https://open.spotify.com/artist/1WkZvxuA4zCcFF9GChK6Vr), [Gisa Nogueira](https://open.spotify.com/artist/5jJWOdj0Sn9Spis0JYZYRp), [Grupo Revelação](https://open.spotify.com/artist/7yQrcdkLdBAkV7yY9fF2Hw), [Hamilton De Holanda](https://open.spotify.com/artist/5Bn4jYRlfMfbxVwfPDGeL8), [Ivan Lins](https://open.spotify.com/artist/64neTfIIdYKNhJ9zxoz3jF), [Lenine](https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C), [Leny Andrade](https://open.spotify.com/artist/0cWAA0nMjRXh8o61j3hUgm), [Marcelo D2](https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL), [Mariene De Castro](https://open.spotify.com/artist/2MaqyTrc7HzuYvLnvfhxIN), [Mart'nália](https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX), [Martinho Da Vila](https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo), [Teresa Cristina](https://open.spotify.com/artist/2j5unrF80yCu3AF8MPE2VE) | [Sambabook João Nogueira, 2](https://open.spotify.com/album/72PzoPL30DnS51nE6UMzfH) | 4:38 |
 | 65 | [Ê Baiana](https://open.spotify.com/track/2Hxac1INWuYqvLEkL7QPbp) | [Clara Nunes](https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown) | [Samba na Pista](https://open.spotify.com/album/12pRCAQrjRjNcO1FPdfDZX) | 3:00 |
 
-Snapshot ID: `MTY0Njc3MDU2MCwwMDAwMDAwMGViMTQ5NmE0ZDZjNzM2ZjIxOTA1NzI5ZTc2YjljYjc2`
+Snapshot ID: `MTY0Njc3MDU2MCwwMDAwMDAwMGU4NDVjZWRiMGQ1YzQ1Y2VjMmJhNDhjZTMxM2EyMjBk`

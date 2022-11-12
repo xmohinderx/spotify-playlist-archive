@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFCN8nsm6zC.md) - [plain]
 
 > Rock for the road\. Cover: The Strokes
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,305 likes - 70 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,358 likes - 70 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,17 +66,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFCN8nsm6zC.md) - [plain]
 | 56 | [E\-Pro](https://open.spotify.com/track/01MBhRpvFkbeRwAp7gcF2W) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Guero](https://open.spotify.com/album/2EugWXUZjr78KJFqZavvZT) | 3:22 |
 | 57 | [Daft Punk Is Playing at My House](https://open.spotify.com/track/73mlvsfJM2qwlDUJxeaatI) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [LCD Soundsystem](https://open.spotify.com/album/6aSk2vxoY3xtz7cXKuY9EL) | 5:14 |
 | 58 | [Slow Hands](https://open.spotify.com/track/1VcIbyyDX8j0GNxSlsRFeJ) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [Antics](https://open.spotify.com/album/2OFkUKYNNFQ74kJOSc9gzz) | 3:04 |
-| 59 | [Figure It Out](https://open.spotify.com/track/6V0A3jkb9ntudO0kmcJ1xd) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Royal Blood](https://open.spotify.com/album/76fT51C9WtCgCcRJlt3PnG) | 3:03 |
-| 60 | [Sex And Candy](https://open.spotify.com/track/3hAaCXvutknQugsPFogh8H) | [Marcy Playground](https://open.spotify.com/artist/7AQzXO3NPNQsI7oNu5rC3r) | [Lunch, Recess & Detention](https://open.spotify.com/album/3TGtyfwv5KOmHENjkY8TQc) | 2:52 |
-| 61 | [Let Me Live / Let Me Die](https://open.spotify.com/track/0AVIswXP3Q5FnlorjU0DbI) | [Des Rocs](https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8) | [Let the Vultures In](https://open.spotify.com/album/0NvZagPSgA7PLFI7yydUTn) | 3:27 |
+| 59 | [Sex And Candy](https://open.spotify.com/track/3hAaCXvutknQugsPFogh8H) | [Marcy Playground](https://open.spotify.com/artist/7AQzXO3NPNQsI7oNu5rC3r) | [Lunch, Recess & Detention](https://open.spotify.com/album/3TGtyfwv5KOmHENjkY8TQc) | 2:52 |
+| 60 | [Let Me Live / Let Me Die](https://open.spotify.com/track/0AVIswXP3Q5FnlorjU0DbI) | [Des Rocs](https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8) | [Let the Vultures In](https://open.spotify.com/album/0NvZagPSgA7PLFI7yydUTn) | 3:27 |
+| 61 | [Figure It Out](https://open.spotify.com/track/6V0A3jkb9ntudO0kmcJ1xd) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Royal Blood](https://open.spotify.com/album/76fT51C9WtCgCcRJlt3PnG) | 3:03 |
 | 62 | [1979](https://open.spotify.com/track/3h5zik31hTTat9jmpCZZNC) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [\(Rotten Apples\) The Smashing Pumpkins Greatest Hits](https://open.spotify.com/album/1cUnNrx2TxvrpwPRtvpGwn) | 4:23 |
 | 63 | [All My Friends](https://open.spotify.com/track/2Ud3deeqLAG988pfW0Kwcl) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [Sound of Silver](https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X) | 7:42 |
 | 64 | [The Rat](https://open.spotify.com/track/2YIOkqKgg3jZEFoL5qcEPT) | [The Walkmen](https://open.spotify.com/artist/6kFay2DQ5aZfeu5OsrF3Pw) | [Bows + Arrows](https://open.spotify.com/album/4QR9jaNP6Ifh7eqXjhAHw2) | 4:22 |
-| 65 | [Trouble’s Coming](https://open.spotify.com/track/5eR6OS3joTAHJToyzehKfu) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Trouble’s Coming](https://open.spotify.com/album/7HZqhu4pOZcTAv7ROHhZSj) | 3:48 |
-| 66 | [New Fang](https://open.spotify.com/track/7uJLdyIAaYLGT0oLw7I6b3) | [Them Crooked Vultures](https://open.spotify.com/artist/4zYQWYmtimAEmI6WWEzGfO) | [Them Crooked Vultures](https://open.spotify.com/album/0Z6IBizcq7DLXpenjSHqF3) | 3:48 |
-| 67 | [Freeze Me](https://open.spotify.com/track/50jXnyrzW4mcBBqFTMEoAC) | [Death From Above 1979](https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj) | [Outrage! Is Now](https://open.spotify.com/album/4kKKH6cFBtNd9etSJzkMjZ) | 3:18 |
-| 68 | [Diane Young](https://open.spotify.com/track/10f0hrbCBiQk9STrFG3EU7) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Modern Vampires of the City](https://open.spotify.com/album/1GXMNFfoHF4sN7lG8gZq1j) | 2:40 |
-| 69 | [30](https://open.spotify.com/track/6nipZlJiUvI0I7lCf1Z7Li) | [Badflower](https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye) | [30](https://open.spotify.com/album/0LBrVo5mANVWJb1h247JRi) | 3:46 |
+| 65 | [New Fang](https://open.spotify.com/track/7uJLdyIAaYLGT0oLw7I6b3) | [Them Crooked Vultures](https://open.spotify.com/artist/4zYQWYmtimAEmI6WWEzGfO) | [Them Crooked Vultures](https://open.spotify.com/album/0Z6IBizcq7DLXpenjSHqF3) | 3:48 |
+| 66 | [Freeze Me](https://open.spotify.com/track/50jXnyrzW4mcBBqFTMEoAC) | [Death From Above 1979](https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj) | [Outrage! Is Now](https://open.spotify.com/album/4kKKH6cFBtNd9etSJzkMjZ) | 3:18 |
+| 67 | [30](https://open.spotify.com/track/6nipZlJiUvI0I7lCf1Z7Li) | [Badflower](https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye) | [30](https://open.spotify.com/album/0LBrVo5mANVWJb1h247JRi) | 3:46 |
+| 68 | [Trouble’s Coming](https://open.spotify.com/track/5eR6OS3joTAHJToyzehKfu) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Trouble’s Coming](https://open.spotify.com/album/7HZqhu4pOZcTAv7ROHhZSj) | 3:48 |
+| 69 | [Diane Young](https://open.spotify.com/track/10f0hrbCBiQk9STrFG3EU7) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Modern Vampires of the City](https://open.spotify.com/album/1GXMNFfoHF4sN7lG8gZq1j) | 2:40 |
 | 70 | [Get Over It](https://open.spotify.com/track/0SLOiJClXkAZluClYpke95) | [OK Go](https://open.spotify.com/artist/3hozsZ9hqNq7CoBGYNlFTz) | [OK Go](https://open.spotify.com/album/0pkXh1gRCwOAWbTuMdStyZ) | 3:16 |
 
-Snapshot ID: `MTY1NjYxNTMzNiwwMDAwMDAwMGRjYWQwMmE5NzcyYTI4MmFjZjFiYzRjYWMwM2U0Nzg1`
+Snapshot ID: `MTY1NjYxNTMzNiwwMDAwMDAwMGU4ZmVkOTYxN2UwZTY3MTM1NzVjNjlhMzVlMDg1NWM0`

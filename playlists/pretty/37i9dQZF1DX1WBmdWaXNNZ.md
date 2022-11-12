@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WBmdWaXNNZ.md) - [plain]
 
 > 音楽家、俳優、文筆家として幅広く活躍する星野源のオールタイム・ベスト！Check out all the essentials from superstar singer\-songwriter, Gen Hoshino!
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,791 likes - 57 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,829 likes - 57 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WBmdWaXNNZ.md) - [plain]
 | 11 | [Week End](https://open.spotify.com/track/5eZdmSbdCtO344dC0A3CB2) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [YELLOW DANCER](https://open.spotify.com/album/1vtIqjn25qHypqyoI21q8d) | 4:30 |
 | 12 | [Idea](https://open.spotify.com/track/0645JPZvbWYtwOIMSUBrXY) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Idea](https://open.spotify.com/album/2qiA2JQR9MpFuCGJ3Lwxfv) | 4:39 |
 | 13 | [Doraemon](https://open.spotify.com/track/2pcuXnZhTirLXsfXGVFTv2) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Doraemon](https://open.spotify.com/album/5VGCJPjawUCJhP4PG2IKtp) | 3:59 |
-| 14 | [Sakura no Mori](https://open.spotify.com/track/7eEvKU1yG1JaaBEjyV7ySN) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [YELLOW DANCER](https://open.spotify.com/album/1vtIqjn25qHypqyoI21q8d) | 5:10 |
+| 14 | [Sakura no Mori](https://open.spotify.com/track/3yBMzpbHGbQjxC9UwmRP02) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Crazy Crazy/Sakura no Mori](https://open.spotify.com/album/1a7bYgO5K7wzEhZgGlnZ23) | 5:12 |
 | 15 | [Tokiyo](https://open.spotify.com/track/588HgBgBK9Z2z3MMkGu7YN) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [YELLOW DANCER](https://open.spotify.com/album/1vtIqjn25qHypqyoI21q8d) | 4:15 |
 | 16 | [Kudaranai no Nakani](https://open.spotify.com/track/3jgeWUZGUO78fkKF0Q4oA4) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Kudaranai no Nakani](https://open.spotify.com/album/1MU427kNQa3hclVCxa5cKv) | 4:19 |
 | 17 | [Cube](https://open.spotify.com/track/0KS2Tet5hEKRYrsLJkVILV) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Cube](https://open.spotify.com/album/5PEW5e7jELgzt5QH0dHHpx) | 3:25 |
@@ -59,11 +59,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WBmdWaXNNZ.md) - [plain]
 | 49 | [Bakemono](https://open.spotify.com/track/1dHbm7QRN71DiFqwRAL963) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Stranger](https://open.spotify.com/album/7GJtALMajef2QQw7cyzXyx) | 2:27 |
 | 50 | [Kuse no Uta](https://open.spotify.com/track/2hNwpwWM7x1TfNgrbumlEF) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Baka no Uta](https://open.spotify.com/album/2tr63kOkJSfR8PRiIqWkXz) | 4:44 |
 | 51 | [Shiranai](https://open.spotify.com/track/4ZUP1sXvg3NESkF458HNQg) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Shiranai](https://open.spotify.com/album/7c3Bu72RPwlH8WcvVV0K5N) | 4:53 |
-| 52 | [Film](https://open.spotify.com/track/4heHCAVdN0df6wrtN6moAI) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Stranger](https://open.spotify.com/album/7GJtALMajef2QQw7cyzXyx) | 4:49 |
+| 52 | [Film](https://open.spotify.com/track/33aI7zjfWi9zuQdhVjFGuQ) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Film](https://open.spotify.com/album/20B8tfOi3zX4Fi1Qm3f5CY) | 4:51 |
 | 53 | [Mirai](https://open.spotify.com/track/1seHFXkqjgRsahTag8RbCU) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Episode](https://open.spotify.com/album/6gPzhi9DkK9XXbH9PZuDR8) | 3:18 |
 | 54 | [Tomato](https://open.spotify.com/track/23Vc7bWEZKZaTpb7gyxOhL) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [FUSHIGI/CREATE](https://open.spotify.com/album/1tUDKOZlY1s83HQ2D2AZxj) | 2:48 |
 | 55 | [Moshimo](https://open.spotify.com/track/0hFTQDCIK3CVSivCzBuM8v) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Film](https://open.spotify.com/album/20B8tfOi3zX4Fi1Qm3f5CY) | 3:27 |
 | 56 | [Comedy \(feat\. DJ Jazzy Jeff & Kaidi Tatham\)](https://open.spotify.com/track/55ACw2lzo3PvmuzRmoYVVQ) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs), [DJ Jazzy Jeff](https://open.spotify.com/artist/3nmiIgeri4vEY7y0VpbsCn), [Kaidi Tatham](https://open.spotify.com/artist/1x2aM48UiN5WoQL6ISEPvz) | [Comedy \(feat\. DJ Jazzy Jeff & Kaidi Tatham\)](https://open.spotify.com/album/39Iq6BG49jqLDli2On1ttE) | 3:54 |
 | 57 | [Nomad](https://open.spotify.com/track/753sRMieYWBC6HGodwtkjI) | [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby), [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Shang\-Chi and The Legend of The Ten Rings: The Album](https://open.spotify.com/album/2kAqjStKcwlDD59H0llhGC) | 3:24 |
 
-Snapshot ID: `MTY2MzI1NDAwMCwwMDAwMDAwMDMwZGM2ZGJiMjMwNTVlNTUyMDc2YWJjZWU3NGE2MWFh`
+Snapshot ID: `MTY2MzI1NDAwMCwwMDAwMDAwMGMwNTk1YTA4MjJlMjUzZjliNmE3Y2RjNTg1ZGY2MTMz`

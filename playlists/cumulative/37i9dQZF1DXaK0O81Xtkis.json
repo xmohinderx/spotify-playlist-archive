@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "make it pop! cover: The 1975",
+  "description": "make it pop! cover: Fitz & The Tantrums",
   "name": "soda",
   "published_playlist_ids": [
     "4WlZyLyAP1klcXFbRzSjzt"
@@ -253,6 +253,24 @@
       "duration_ms": 142636,
       "name": "After the Tone",
       "url": "https://open.spotify.com/track/3JK6Fyd3DjaThmIjDAUPBm"
+    },
+    {
+      "album": {
+        "name": "Again",
+        "url": "https://open.spotify.com/album/3SuZwz2B4DjWeL3JlAFmBG"
+      },
+      "artists": [
+        {
+          "name": "Emarosa",
+          "url": "https://open.spotify.com/artist/68tKVjVvcqUfKFFLr2j0Ek"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205905,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/4xdPgVt4AwYzVsYZ8TuFQB"
     },
     {
       "album": {
@@ -1074,6 +1092,24 @@
     },
     {
       "album": {
+        "name": "Where the Redwoods Meet the Sea",
+        "url": "https://open.spotify.com/album/3XPdCfPF5QctGxYqHGdqoH"
+      },
+      "artists": [
+        {
+          "name": "Windser",
+          "url": "https://open.spotify.com/artist/0G9ibJ5qs4Zl6iupdrVAG1"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219373,
+      "name": "Capsize",
+      "url": "https://open.spotify.com/track/3dVM8JotXWlRZ3TmMweoss"
+    },
+    {
+      "album": {
         "name": "Capsize",
         "url": "https://open.spotify.com/album/1iwBYzoshPBAXdBKD6DPS1"
       },
@@ -1085,7 +1121,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 219373,
       "name": "Capsize",
       "url": "https://open.spotify.com/track/7D27fovf8GDa5ZnJ5hyCqm"
@@ -2428,6 +2464,24 @@
     },
     {
       "album": {
+        "name": "Georgia",
+        "url": "https://open.spotify.com/album/5PLNgWXs7Hq6RHgFetDAtJ"
+      },
+      "artists": [
+        {
+          "name": "Thomas Headon",
+          "url": "https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174411,
+      "name": "Georgia",
+      "url": "https://open.spotify.com/track/7d4lvIqCYS2DGTCZAjmCHu"
+    },
+    {
+      "album": {
         "name": "Getting Better",
         "url": "https://open.spotify.com/album/3x9smhttMTYsCi0vTJxLxz"
       },
@@ -2695,7 +2749,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 158457,
       "name": "Handle with Care",
       "url": "https://open.spotify.com/track/6jzhyJiZn9bYHfzoHOzQKS"
@@ -3459,7 +3513,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 188507,
       "name": "I Don\u2019t Think That I Like Her",
       "url": "https://open.spotify.com/track/0Ts1lnK3lYa2dwE2orDJc5"
@@ -4535,7 +4589,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 233088,
       "name": "Let Us Die",
       "url": "https://open.spotify.com/track/5uDo40mspcWNHDCLlKTLoJ"
@@ -5104,6 +5158,24 @@
     },
     {
       "album": {
+        "name": "Moneymaker",
+        "url": "https://open.spotify.com/album/1K8g8sM4GzVOWBfYrlh41Y"
+      },
+      "artists": [
+        {
+          "name": "Fitz and The Tantrums",
+          "url": "https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137933,
+      "name": "Moneymaker",
+      "url": "https://open.spotify.com/track/5f18AcRmbxcTxd4ehOXuYI"
+    },
+    {
+      "album": {
         "name": "Moonrock",
         "url": "https://open.spotify.com/album/49J53goWppUwvbTn8Gcej5"
       },
@@ -5643,7 +5715,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 153442,
       "name": "Only Fan (feat. Cordae)",
       "url": "https://open.spotify.com/track/6514uhzGpeyocCHv5kBih4"
@@ -5730,6 +5802,24 @@
     },
     {
       "album": {
+        "name": "Return To Sender",
+        "url": "https://open.spotify.com/album/3jOzdF8WPsqwUp9OznStfw"
+      },
+      "artists": [
+        {
+          "name": "KAIRO",
+          "url": "https://open.spotify.com/artist/74fcIBekHLf4hucCT3My0v"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173966,
+      "name": "Over",
+      "url": "https://open.spotify.com/track/2DGYb5bV0disBNaC9KFQ3A"
+    },
+    {
+      "album": {
         "name": "Over",
         "url": "https://open.spotify.com/album/5JqFpeJ12d0fGEfUHGIuXM"
       },
@@ -5741,7 +5831,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 173966,
       "name": "Over",
       "url": "https://open.spotify.com/track/6kI1yeiuf4DbAhrRb4Hq4v"
@@ -6264,6 +6354,24 @@
     },
     {
       "album": {
+        "name": "Ruin My Life",
+        "url": "https://open.spotify.com/album/5kBzmnPiJAirnzMcSFPUmf"
+      },
+      "artists": [
+        {
+          "name": "Zolita",
+          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212946,
+      "name": "Ruin My Life",
+      "url": "https://open.spotify.com/track/60pE6cLRCZy6wgjhP0Wu8w"
+    },
+    {
+      "album": {
         "name": "Run For Your Money",
         "url": "https://open.spotify.com/album/0uAuIL6x1xZLWGnuyg4Hbq"
       },
@@ -6668,6 +6776,24 @@
     },
     {
       "album": {
+        "name": "Silver Tongues",
+        "url": "https://open.spotify.com/album/1uGtR2fbkl45slG5OyUtPt"
+      },
+      "artists": [
+        {
+          "name": "Louis Tomlinson",
+          "url": "https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205186,
+      "name": "Silver Tongues",
+      "url": "https://open.spotify.com/track/1nMglHq7NFuRLmKizMQajB"
+    },
+    {
+      "album": {
         "name": "i hate rollercoasters",
         "url": "https://open.spotify.com/album/0mOtflw3cAMTvFlAjn94A9"
       },
@@ -6773,6 +6899,24 @@
       "duration_ms": 176058,
       "name": "So Good",
       "url": "https://open.spotify.com/track/6kxaaIeowajN7w21PfMLbu"
+    },
+    {
+      "album": {
+        "name": "Sober",
+        "url": "https://open.spotify.com/album/51xoJomo3hvVg4BE7GHnHI"
+      },
+      "artists": [
+        {
+          "name": "jxdn",
+          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152375,
+      "name": "Sober",
+      "url": "https://open.spotify.com/track/7K3rRx00hcS6MpZmYGUFH2"
     },
     {
       "album": {
@@ -7157,7 +7301,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 164688,
       "name": "Stranger",
       "url": "https://open.spotify.com/track/3aUD2nXnCYiGd9V1UhfyRz"
@@ -8016,6 +8160,24 @@
     },
     {
       "album": {
+        "name": "Trouble With This Bed",
+        "url": "https://open.spotify.com/album/47sLITsveH5BfAQIAgLitj"
+      },
+      "artists": [
+        {
+          "name": "Beach Weather",
+          "url": "https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226884,
+      "name": "Trouble With This Bed",
+      "url": "https://open.spotify.com/track/5wLhOIYBr7i5k8MPaXJYjh"
+    },
+    {
+      "album": {
         "name": "HDTV",
         "url": "https://open.spotify.com/album/6TIzz9Z4n03E5USTDzBweS"
       },
@@ -8031,6 +8193,24 @@
       "duration_ms": 175613,
       "name": "TWO SUGARS",
       "url": "https://open.spotify.com/track/5rZrM1ppBHmHogxLcw8wtH"
+    },
+    {
+      "album": {
+        "name": "ugly",
+        "url": "https://open.spotify.com/album/0ZRgqGpF70vz7TZzwJyPa4"
+      },
+      "artists": [
+        {
+          "name": "Dylan Conrique",
+          "url": "https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180626,
+      "name": "ugly",
+      "url": "https://open.spotify.com/track/6BzSgXgzHxqPbGEb7aKAXb"
     },
     {
       "album": {
@@ -8461,7 +8641,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 143503,
       "name": "why u gotta be like that (feat. Nightly)",
       "url": "https://open.spotify.com/track/7CRThl2cGDh1o9p3ivaLbG"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkGXMGv9j4M.md) - [plain]
 
 > Weird year overall, but great for indie\. Editors' picks of the best tracks of the year\. Cover: Phoebe Bridgers
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,625 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,623 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,13 +39,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkGXMGv9j4M.md) - [plain]
 | 29 | [Stella Brown](https://open.spotify.com/track/4gwltSjdrzKtKz9dlk2Wja) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Stella Brown](https://open.spotify.com/album/5eCpoxWpC7zBCXLDbVyIzc) | 3:07 |
 | 30 | [peas](https://open.spotify.com/track/6DXRUAHQTwJuCXuhXyRU53) | [boylife](https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb) | [peas](https://open.spotify.com/album/0dUqhKzeJy8fteS8h3XSw0) | 3:54 |
 | 31 | [You and I](https://open.spotify.com/track/2np2e0pDBBmUgcdItVb6d3) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Suddenly](https://open.spotify.com/album/7Dl44V6YlpZ7apC87YAWnC) | 4:03 |
-| 32 | [Lifetime](https://open.spotify.com/track/023GoM1byudLGkMZDLweRJ) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Lifetime](https://open.spotify.com/album/3hD7HAJtGLF5BYDriRwbkZ) | 3:17 |
+| 32 | [Lifetime](https://open.spotify.com/track/2sA69gKpUk8dcF5SuqApyK) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Lifetime Remixes](https://open.spotify.com/album/4cfOKU0ncsVL4PYaZ1kkiy) | 3:17 |
 | 33 | [Both Of Us \- Edit](https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Both Of Us](https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA) | 3:49 |
 | 34 | [Fire](https://open.spotify.com/track/16swRkjDG1yjiGtt0JVCNc) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Saint Cloud +3](https://open.spotify.com/album/7kIdOOz6yIvEP6Z5RjhrCw) | 3:37 |
 | 35 | [10%](https://open.spotify.com/track/41SwdQIX8Hy2u6fuEDgvWr) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 3:06 |
 | 36 | [Now I'm In It \- Bonus Track](https://open.spotify.com/track/2cv62TyJl0cEQDaFjglRLY) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Don't Wanna](https://open.spotify.com/album/4iNDXOLDZma37m0iWPkf0x) | 3:24 |
 | 37 | [cat scratch](https://open.spotify.com/track/4quTh7pgKCPOqvEcI04WAb) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [ROSETTA](https://open.spotify.com/album/5IGHyiUiCvhZvPl1Vd1JCQ) | 1:59 |
-| 38 | [Take Me Where Your Heart Is](https://open.spotify.com/track/1RJl5cZ8kFpoVFOS2x6scI) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [The Shave Experiment \(Director's Cut\)](https://open.spotify.com/album/6Q3iHNU0fOwOxoCvyteue0) | 3:12 |
+| 38 | [Take Me Where Your Heart Is](https://open.spotify.com/track/4EcoXZhvbU3qS7ORWUEcVI) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [The Shave Experiment](https://open.spotify.com/album/0oHFSP4uqDes9sOZQu43Jz) | 3:12 |
 | 39 | [MODUS](https://open.spotify.com/track/5BibcbKVdZUuTttSG02JTp) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Nectar](https://open.spotify.com/album/6YKk4wlKdACRITGKmGnoIm) | 3:27 |
 | 40 | [Clear Bones](https://open.spotify.com/track/1BLoghXkY06sQvHdJ1vOWO) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Clear Bones](https://open.spotify.com/album/51umOKBluT7cy4wN07yNz2) | 2:46 |
 | 41 | [Ne Me Quitte Pas \(Don't Leave Me\)](https://open.spotify.com/track/7DYkWTA0ckaqm2MFfAIlQr) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Hold Space For Me](https://open.spotify.com/album/4Y9r8QQYroasHOYHUwCeSB) | 2:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkGXMGv9j4M.md) - [plain]
 | 99 | [Loner](https://open.spotify.com/track/40Pa7wCFSPRD5sOeExd5uo) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Loner](https://open.spotify.com/album/4SL4EVh9koAvjdDWx6eXiq) | 3:12 |
 | 100 | [For Props](https://open.spotify.com/track/3vF0yZnO7cHJKNKzE3gN99) | [Yves Jarvis](https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt) | [Sundry Rock Song Stock](https://open.spotify.com/album/7N3gPiUIMhiDEaB3SQtEIy) | 3:43 |
 
-Snapshot ID: `MTYwNjkyMTY0MywwMDAwMDAwMDgxMzU3ZTRkNDEzNjgxNjI2NjhjZTA1M2QxNWM0Nzdl`
+Snapshot ID: `MTYwNjkyMTY0MywwMDAwMDAwMGY3YjNlMzViMzY0YWNkZTYxYzQwNjg0MjBmYjYzNTU2`

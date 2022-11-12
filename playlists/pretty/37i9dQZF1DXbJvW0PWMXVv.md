@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbJvW0PWMXVv.md) - [plain]
 
 > Grandes hits da música pop pra agitar sua festa com os pequenos!
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,839 likes - 60 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,855 likes - 60 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbJvW0PWMXVv.md) - [plain]
 | 26 | [Piece Of Your Heart \- Alok Remix](https://open.spotify.com/track/6iW38RGqdDGOofmz2HeXLW) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Piece Of Your Heart \(Alok Remix\)](https://open.spotify.com/album/6RlifxGX8F3IijsJXkTIlq) | 2:46 |
 | 27 | [Chama Ela \(feat\. Pedro Sampaio\)](https://open.spotify.com/track/14kRWkCWBYfQqILflEcpSJ) | [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv), [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [Chama Ela \(feat\. Pedro Sampaio\)](https://open.spotify.com/album/5st5iXtyMBDo6OLBUBqSpW) | 2:00 |
 | 28 | [Feel Me](https://open.spotify.com/track/6XXYdF6pJR1K3wKvuxmu7n) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Feel Me](https://open.spotify.com/album/6gldP4RkBjKhVb6SgeVuFd) | 3:46 |
-| 29 | [Kings & Queens](https://open.spotify.com/track/7a53HqqArd4b9NF4XAmlbI) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 2:42 |
+| 29 | [Kings & Queens](https://open.spotify.com/track/00SyBVoq9zYcivUUYl1IbU) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [All Time Hits](https://open.spotify.com/album/6QsaW4ddxzbKj6S5JfnAEB) | 2:42 |
 | 30 | [We Will Rock You \- Remastered 2011](https://open.spotify.com/track/1jmX5Dojaopg8DT05Mw5Ig) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Queen 40 Limited Edition Collector's Box Set Vol\. 2](https://open.spotify.com/album/1PpNIByYpOjEhXhX6JT4AL) | 2:02 |
 | 31 | [Pesadão](https://open.spotify.com/track/2nPYWC7Jtd3gsd1iMQT3Vs) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes), [Marcelo Falcão](https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr) | [Dona de mim](https://open.spotify.com/album/6suxiZXNF0F1NC8nPCJG5C) | 3:19 |
 | 32 | [X](https://open.spotify.com/track/3s2C419Hcz7UxBIxyNCSC2) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Reggaetón 2020 \- Éxitos Urbanos](https://open.spotify.com/album/72cMrdnkM1mJfvvIxvv4ya) | 2:53 |
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbJvW0PWMXVv.md) - [plain]
 | 39 | [Love On Top](https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [4](https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ) | 4:27 |
 | 40 | [Pipa Voada \(feat\. Emicida\)](https://open.spotify.com/track/3oqC4Ta40ft6NnTJwcUTdi) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Lukinhas](https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Tão Real](https://open.spotify.com/album/083NpzlPOa5Q2mWOEkEaGw) | 3:05 |
 | 41 | [O Sol](https://open.spotify.com/track/1j5N75y26nH2l0uPa9JlKe) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Adrenalizou](https://open.spotify.com/album/7zI1acetTFBNiKnl5kBWQi) | 3:31 |
-| 42 | [Moves Like Jagger \- Studio Recording From "The Voice" Performance](https://open.spotify.com/track/7LcfRTgAVTs5pQGEQgUEzN) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Hands All Over](https://open.spotify.com/album/7strNUlU6xZqlVWBNUdOYv) | 3:21 |
+| 42 | [Moves Like Jagger \- Studio Recording From "The Voice" Performance](https://open.spotify.com/track/0gLJx0ZOcwgZuewbtBDQWI) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Millenium Hits](https://open.spotify.com/album/5hMbEwer0JAVUSJiLSTlVJ) | 3:22 |
 | 43 | [Bixinho](https://open.spotify.com/track/04RFAnuBZkyITGUNIbZHhb) | [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Sinto Muito](https://open.spotify.com/album/5fu7gooH6bp15cPuYGfGvx) | 3:25 |
 | 44 | [bad guy \(with Justin Bieber\)](https://open.spotify.com/track/3yNZ5r3LKfdmjoS3gkhUCT) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [bad guy \(with Justin Bieber\)](https://open.spotify.com/album/6lMlX68jJrx67hiCqdiDvW) | 3:14 |
 | 45 | [Beauty and the Beast](https://open.spotify.com/track/7wMPhUSe6CZga1vOMpLTJP) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Beauty and the Beast \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/3AhP76AusdcJ9sZ4XgUcEc) | 3:47 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbJvW0PWMXVv.md) - [plain]
 | 59 | [Señorita](https://open.spotify.com/track/6v3KW9xbzN5yKLt9YKDYA2) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Shawn Mendes \(Deluxe\)](https://open.spotify.com/album/0xzScN8P3hQAz3BT3YYX5w) | 3:10 |
 | 60 | [Passinho do Volante](https://open.spotify.com/track/3uMhLvDwnwYHW6J5nhPlzL) | [Furacão 2000](https://open.spotify.com/artist/22nkIVS7afh6A7hdd9Lze0), [Os Leleks](https://open.spotify.com/artist/48QyoqQgVaSaNJKn6J8Ltb) | [Os Melhores Funks da Furacão 2000, Vol\. 1](https://open.spotify.com/album/6xqOzAEPTAmNRkX9ghYZHG) | 2:54 |
 
-Snapshot ID: `MTY0NjQyODE4MCwwMDAwMDAwMDNhMDQ1NTdjOTM3Mjg1ZjNhYjlkNWNmNGJlM2I5NWI4`
+Snapshot ID: `MTY0NjQyODE4MCwwMDAwMDAwMDk2ZGRmZmNlMDAxNTBiMTRjNTdkMTc1MTgwMmNjZDA0`

@@ -4,7 +4,7 @@
 
 > Disfrutemos del amor en los tiempos del rock.
 
-136 songs - 8 hr 30 min - [published](https://open.spotify.com/playlist/5d9UavNO8FyfxzAd916POx)
+138 songs - 8 hr 38 min - [published](https://open.spotify.com/playlist/5d9UavNO8FyfxzAd916POx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,9 +24,11 @@
 | [Andar Conmigo](https://open.spotify.com/track/05iMQqncVBIm4AE26EvaTL) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Si](https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB) | 3:13 | 2022-01-28 |  |
 | [Arrullo De Estrellas](https://open.spotify.com/track/1p4rYrxjVkj6v2eMzRhLfA) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Programaton](https://open.spotify.com/album/3UZ0vtpq3mGcr4J0kjveSD) | 4:12 | 2022-01-28 |  |
 | [Azul Oscuro](https://open.spotify.com/track/0QN72F39qCxtXJnyBGoUvy) | [Zurdok](https://open.spotify.com/artist/2A2x3ZwZEOgWdSmSHZRIok) | [Gran Salto 1997\-2014](https://open.spotify.com/album/3Wag0awiCvOgN4Sj6BXSuy) | 4:20 | 2022-01-28 | 2022-07-29 |
-| [Azul Oscuro](https://open.spotify.com/track/2arKxdHBNpI1zwTJDNmjwn) | [Zurdok](https://open.spotify.com/artist/2A2x3ZwZEOgWdSmSHZRIok) | [Azul Oscuro](https://open.spotify.com/album/5iYmmcWr3mTo9xzQOXByPe) | 4:21 | 2022-01-28 |  |
+| [Azul Oscuro](https://open.spotify.com/track/0foav3p9d6BKaYhzFkGP7Y) | [Zurdok](https://open.spotify.com/artist/2A2x3ZwZEOgWdSmSHZRIok) | [Rock Latino Pa' Curar La Cruda](https://open.spotify.com/album/37g0WUTlL4p92pVKi9gRqg) | 4:21 | 2022-01-28 |  |
+| [Azul Oscuro](https://open.spotify.com/track/2arKxdHBNpI1zwTJDNmjwn) | [Zurdok](https://open.spotify.com/artist/2A2x3ZwZEOgWdSmSHZRIok) | [Azul Oscuro](https://open.spotify.com/album/5iYmmcWr3mTo9xzQOXByPe) | 4:21 | 2022-01-28 | 2022-11-12 |
 | [Brillando](https://open.spotify.com/track/0LWWuL2b4xRHe0AzerNRl6) | [Pehuenche](https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk), [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq) | [Brillando](https://open.spotify.com/album/3cpu7Bc6c6VQw6VBnHw6i6) | 4:31 | 2022-03-18 |  |
-| [Brillas](https://open.spotify.com/track/6OKmGZASRCmiKQKz4hCNrs) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Solstis \- De León Larregui](https://open.spotify.com/album/0UwCZ5d7AFISyHxrpHjbqZ) | 3:44 | 2022-01-28 |  |
+| [Brillas](https://open.spotify.com/track/0wVU74Grfynyrl7vlaCM0E) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Baladas Románticas Latinas](https://open.spotify.com/album/07EhDhHjge4hEJcXzUUq0j) | 3:44 | 2022-01-28 |  |
+| [Brillas](https://open.spotify.com/track/6OKmGZASRCmiKQKz4hCNrs) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Solstis \- De León Larregui](https://open.spotify.com/album/0UwCZ5d7AFISyHxrpHjbqZ) | 3:44 | 2022-01-28 | 2022-11-12 |
 | [Brillas](https://open.spotify.com/track/6VuUMo1TusnqBxLTnr3hOI) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Solstis \- De León Larregui](https://open.spotify.com/album/6XMk5rlnvEtbOUhUlIGl0R) | 3:46 | 2022-01-28 | 2022-07-29 |
 | [Brindis](https://open.spotify.com/track/3b1VxAMookNRGSKSWnghJ8) | [Technicolor Fabrics](https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl) | [Brindis](https://open.spotify.com/album/5tBWuTGdWhv5yziqu0wt4h) | 3:06 | 2022-01-28 |  |
 | [Brújula](https://open.spotify.com/track/1VhoDw3C8fgncrOliUMmqo) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x) | [Brújula](https://open.spotify.com/album/4SFSnrvdW1hIqUPR3qLobz) | 4:12 | 2022-01-28 | 2022-08-02 |

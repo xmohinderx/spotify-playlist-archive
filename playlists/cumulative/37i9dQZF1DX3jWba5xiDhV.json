@@ -139,7 +139,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 503920,
       "name": "Baby I Love You",
       "url": "https://open.spotify.com/track/0GpbUTVkLhMb200mH8WBOW"
@@ -381,7 +381,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 246106,
       "name": "Color My Love",
       "url": "https://open.spotify.com/track/5zjZoxnYK6stTB2AxL0Fzp"
@@ -1418,6 +1418,24 @@
     },
     {
       "album": {
+        "name": "Italo Disco Vol. 2",
+        "url": "https://open.spotify.com/album/1Akyh6zkWizFkp101VjwTK"
+      },
+      "artists": [
+        {
+          "name": "Gang",
+          "url": "https://open.spotify.com/artist/6w6I1RM8AvngUMogImmkxj"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313813,
+      "name": "KKK",
+      "url": "https://open.spotify.com/track/0exbk0My19GkSkpsz2SHqv"
+    },
+    {
+      "album": {
         "name": "Disco Manesco",
         "url": "https://open.spotify.com/album/5o0IKn2pP0Mpfm4uw3kW8X"
       },
@@ -2269,7 +2287,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 585374,
       "name": "Supernature",
       "url": "https://open.spotify.com/track/00RHrZB3i6B6PwX30ouZBK"

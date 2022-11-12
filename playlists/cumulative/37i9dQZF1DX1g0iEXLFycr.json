@@ -1648,6 +1648,24 @@
     },
     {
       "album": {
+        "name": "Pop para Trabalhar",
+        "url": "https://open.spotify.com/album/4tY8vHR2QnJ5UcrUmJmzcG"
+      },
+      "artists": [
+        {
+          "name": "MKTO",
+          "url": "https://open.spotify.com/artist/2l35CQqtYRh3d8ZIiBep4v"
+        }
+      ],
+      "date_added": "2020-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175426,
+      "name": "Classic",
+      "url": "https://open.spotify.com/track/2zSj1qCEpRPfmxvg27AOBd"
+    },
+    {
+      "album": {
         "name": "MKTO",
         "url": "https://open.spotify.com/album/5IenxFp0vpnXBUxPcwJtbE"
       },
@@ -1659,7 +1677,7 @@
       ],
       "date_added": "2019-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 175426,
       "name": "Classic",
       "url": "https://open.spotify.com/track/6FE2iI43OZnszFLuLtvvmg"
@@ -2048,6 +2066,24 @@
     },
     {
       "album": {
+        "name": "Pop Royalty",
+        "url": "https://open.spotify.com/album/15WQObBzFWbMEeoUjSjHYl"
+      },
+      "artists": [
+        {
+          "name": "Jessie J",
+          "url": "https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou"
+        }
+      ],
+      "date_added": "2020-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231093,
+      "name": "Domino",
+      "url": "https://open.spotify.com/track/5P7doOWGZOnz0tFvlQwcNA"
+    },
+    {
+      "album": {
         "name": "Who You Are (Platinum Edition)",
         "url": "https://open.spotify.com/album/3ga4adzUpLaS2LDcoqfs2r"
       },
@@ -2059,7 +2095,7 @@
       ],
       "date_added": "2020-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 231693,
       "name": "Domino",
       "url": "https://open.spotify.com/track/6MAdEUilV2p9RQUqE5bMAK"
@@ -4870,6 +4906,24 @@
     },
     {
       "album": {
+        "name": "summer songs we can all scream",
+        "url": "https://open.spotify.com/album/5W8VeZlcDbng3hSwqj3NMN"
+      },
+      "artists": [
+        {
+          "name": "Ronan Keating",
+          "url": "https://open.spotify.com/artist/3nlHsNqwCSvT988ZfSW1Yh"
+        }
+      ],
+      "date_added": "2020-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212160,
+      "name": "Lovin' Each Day",
+      "url": "https://open.spotify.com/track/5We8U1rJ1goAhxPRasZtK4"
+    },
+    {
+      "album": {
         "name": "Ronan",
         "url": "https://open.spotify.com/album/6BNUYhhSL5a4yrvrfasKcF"
       },
@@ -4899,7 +4953,7 @@
       ],
       "date_added": "2020-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 212973,
       "name": "Lovin' Each Day",
       "url": "https://open.spotify.com/track/61fUmn6wYvU7qS62wNvQFN"
@@ -5181,10 +5235,28 @@
       ],
       "date_added": "2020-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 230533,
       "name": "Movin' on Up",
       "url": "https://open.spotify.com/track/5Vx3e9PipiEceifVyBzCdj"
+    },
+    {
+      "album": {
+        "name": "We Love the 90s",
+        "url": "https://open.spotify.com/album/4vgQHB2rOCnCi3Ii6aDIZZ"
+      },
+      "artists": [
+        {
+          "name": "Primal Scream",
+          "url": "https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze"
+        }
+      ],
+      "date_added": "2020-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230533,
+      "name": "Movin' On Up",
+      "url": "https://open.spotify.com/track/6SfqfTcvlNDOMRe8N6FxOT"
     },
     {
       "album": {
@@ -5787,10 +5859,28 @@
       ],
       "date_added": "2020-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 205200,
       "name": "Paper Planes",
       "url": "https://open.spotify.com/track/1ixbwbeBi5ufN4noUKmW5a"
+    },
+    {
+      "album": {
+        "name": "Paper Planes - Homeland Security Remixes",
+        "url": "https://open.spotify.com/album/4GG44VSWcotck92vWZYpS5"
+      },
+      "artists": [
+        {
+          "name": "M.I.A.",
+          "url": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
+        }
+      ],
+      "date_added": "2020-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205200,
+      "name": "Paper Planes",
+      "url": "https://open.spotify.com/track/1lKrkGoVEsc1a4xcllm7S2"
     },
     {
       "album": {
@@ -8675,6 +8765,28 @@
     {
       "album": {
         "name": "7/27 (Deluxe)",
+        "url": "https://open.spotify.com/album/0pCPQnnke1GVs5KVmGX3Wq"
+      },
+      "artists": [
+        {
+          "name": "Fifth Harmony",
+          "url": "https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2020-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214480,
+      "name": "Work from Home (feat. Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/46eqQnyvItTxMsLXcCLg4Q"
+    },
+    {
+      "album": {
+        "name": "7/27 (Deluxe)",
         "url": "https://open.spotify.com/album/0pF0oyuPNdOObniB1Ng0kW"
       },
       "artists": [
@@ -8689,7 +8801,7 @@
       ],
       "date_added": "2019-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 214480,
       "name": "Work from Home (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/4tCtwWceOPWzenK2HAIJSb"

@@ -4,7 +4,7 @@
 
 > 2018 highlights from the home of indie music.
 
-119 songs - 7 hr 16 min - [published](https://open.spotify.com/playlist/0O1il5VUEFSUMZMrdTiUS0)
+120 songs - 7 hr 20 min - [published](https://open.spotify.com/playlist/0O1il5VUEFSUMZMrdTiUS0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Me and My Husband](https://open.spotify.com/track/3pANfZVFdtuVnJsE6xa5Ox) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Be the Cowboy](https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq) | 2:17 | 2022-03-08 |  |
 | [Narcissist \(feat\. The 1975\)](https://open.spotify.com/track/4qjLvvBh5ZeKEPyShKRf06) | [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd), [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [RIP Indo Hisashi](https://open.spotify.com/album/5l156gMmHiFQKaAqCWRkI4) | 3:15 | 2022-03-08 |  |
 | [Needs](https://open.spotify.com/track/0WKmVAD4VWk5EdTyCFILi4) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [Needs](https://open.spotify.com/album/1QP3qNaDwOJByK4D0WHOFE) | 2:57 | 2022-03-08 |  |
-| [Night Shift](https://open.spotify.com/track/1yYlpGuBiRRf33e1gY61bN) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Historian](https://open.spotify.com/album/0LqhbUfmHsxovfSirhEIGu) | 6:31 | 2022-03-08 |  |
+| [Night Shift](https://open.spotify.com/track/1yYlpGuBiRRf33e1gY61bN) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Historian](https://open.spotify.com/album/0LqhbUfmHsxovfSirhEIGu) | 6:31 | 2022-03-08 | 2022-11-12 |
 | [nightmares](https://open.spotify.com/track/6BxhzevDe4Mzrabj9Pa1eZ) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [life's a beach](https://open.spotify.com/album/2xOawu4iq9fwcdFNvGBTdl) | 3:27 | 2022-03-08 | 2022-11-11 |
 | [No Going Back](https://open.spotify.com/track/356aM3w6i5v1cltIzOnVTP) | [Yuno](https://open.spotify.com/artist/36BjLtXEXIifbRrfc1Rtqa) | [Moodie](https://open.spotify.com/album/4XMQDHZSKpEg1UReRiMuJC) | 3:28 | 2022-03-08 |  |
 | [Nobody](https://open.spotify.com/track/2P5yIMu2DNeMXTyOANKS6k) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Be the Cowboy](https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq) | 3:13 | 2022-03-08 |  |
@@ -105,6 +105,7 @@
 | [Summer Time High Time](https://open.spotify.com/track/7t5MUcFIIayP1M6TNhtWE0) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [Kwe$t](https://open.spotify.com/artist/7Llo2snfeOZSNoo5508aqk) | [Chiquito](https://open.spotify.com/album/6Bq9FHHUxCUZalaQ6YwGjy) | 3:28 | 2022-03-08 | 2022-10-14 |
 | [Superposition](https://open.spotify.com/track/67YPjbcxUypwNOwYBZquq1) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Mirror Master](https://open.spotify.com/album/6blMxezujKgPe8HjHNveuG) | 3:50 | 2022-03-08 |  |
 | [Swim](https://open.spotify.com/track/20PISOo4VbLz4yFH78Zv5R) | [Fickle Friends](https://open.spotify.com/artist/1nhSLEYdoBHG6cJ8NDwoF1) | [You Are Someone Else](https://open.spotify.com/album/7LdUzhm4SloDil5y0sRen0) | 3:17 | 2022-03-08 | 2022-10-17 |
+| [Swimming Pool Summer](https://open.spotify.com/track/477PCJRTtOZHVmP5ygdldS) | [Capital Cities](https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu) | [Solarize](https://open.spotify.com/album/0i38zdK4NoZLJmKPkzf1WB) | 3:33 | 2022-03-08 |  |
 | [Talia](https://open.spotify.com/track/53jbdPQBaH6WaQvW0zmGBs) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Talia](https://open.spotify.com/album/5Z9ThGv7MrUjdZJREO9GOF) | 3:27 | 2022-03-08 |  |
 | [The Reason](https://open.spotify.com/track/3UZjxHie58YFNRxO5B4s6w) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Sleeping with Roses](https://open.spotify.com/album/0ZJuaVZMvpdrlYnKHhvfRq) | 3:04 | 2022-03-08 | 2022-10-13 |
 | [The Reason](https://open.spotify.com/track/41nihGw6vE5iB5SjdyzadQ) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Sleeping with Roses](https://open.spotify.com/album/1wgg1RCgP9dCaCKnnwpQOW) | 3:04 | 2022-03-08 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RwLEp3x6W4.md) - [plain]
 
 > Travel back to the start, tracing the roots of what would become bluegrass through to some of it's early hits and gems\. Cover: Hazel Dickens & Alice Gerrard
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,020 likes - 56 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,044 likes - 56 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RwLEp3x6W4.md) - [plain]
 | 9 | [Bowling Green](https://open.spotify.com/track/4t1Sxqd7LPwmgmmqZYUC2X) | [The New Lost City Ramblers](https://open.spotify.com/artist/4fqd1tgX1D2YESwxzr2cvd), [Cousin Emmy](https://open.spotify.com/artist/7GcI4qqLnvVY1wlRdRixpx) | [New Lost City Ramblers with Cousin Emmy](https://open.spotify.com/album/0yLszzEelH2VYtBIJd96yY) | 1:50 |
 | 10 | [Rabbit In the Log \(with The Virginia Boys\)](https://open.spotify.com/track/6ASifFs9LjXe5sPOiCMGkW) | [Jim & Jesse](https://open.spotify.com/artist/4lCaf25RGJ4ZPz2fsGUVcq), [The Virginia Boys](https://open.spotify.com/artist/0a7GoDJVPmN1ThQg8Kmh31) | [Y'all Come: The Essential Jim & Jesse](https://open.spotify.com/album/0L7k1GF5r8pNMv5xXJ4ptD) | 2:40 |
 | 11 | [I've Endured](https://open.spotify.com/track/79FJlPAvPAQFUAfz9eN4uO) | [Ola Belle Reed](https://open.spotify.com/artist/0jUzzv49Ke4m0qqcuudBsw), [Bud Reed](https://open.spotify.com/artist/4DHyBVt8c56Yf6O2iXK57O), [David Reed](https://open.spotify.com/artist/3aPOHzWoJLndm8DWc66g8r) | [Rising Sun Melodies](https://open.spotify.com/album/1oAai33BPMT0OdEWNdJEHB) | 2:52 |
-| 12 | [Roll In My Sweet Baby's Arms](https://open.spotify.com/track/5R9inYplnZn9zAgoYLpUhV) | [Lester Flatt](https://open.spotify.com/artist/4UEb5ZsSyDWMAiBuOeKA6W), [Earl Scruggs](https://open.spotify.com/artist/4NEA48c6ajydrRzCbyll3M), [The Foggy Mountain Boys](https://open.spotify.com/artist/1pZEySHHPm2IBX9kFY6o94) | [Flatt & Scruggs \- The Complete Mercury Recordings](https://open.spotify.com/album/4IvY3gHM5dif8bN4FinTV6) | 2:37 |
+| 12 | [Roll In My Sweet Baby's Arms](https://open.spotify.com/track/3Wj2evCO1X1Z9rlpLrBNtX) | [Lester Flatt](https://open.spotify.com/artist/4UEb5ZsSyDWMAiBuOeKA6W), [Earl Scruggs](https://open.spotify.com/artist/4NEA48c6ajydrRzCbyll3M), [The Foggy Mountain Boys](https://open.spotify.com/artist/1pZEySHHPm2IBX9kFY6o94) | [Original Theme From Bonnie & Clyde](https://open.spotify.com/album/5qqgWOZq2pjDTPurbrC5Gx) | 2:39 |
 | 13 | [How Mountain Girls Can Love](https://open.spotify.com/track/5Q8WL1D8GwJThft1zogNQB) | [The Stanley Brothers](https://open.spotify.com/artist/0qqGnmHBX2yVvCITRAvuRD) | [Best Of The Best](https://open.spotify.com/album/3VI5iieIzI6cSQdPmb9JJW) | 2:08 |
 | 14 | [Molly & Tenbrooks \- 1957 Single Version](https://open.spotify.com/track/2IwObx0kyltn3kF4Ene9Mn) | [Bill Monroe & His Blue Grass Boys](https://open.spotify.com/artist/64vAECmFoB6mi7n1zTRwR8) | [Anthology](https://open.spotify.com/album/3jOrYZPtUL54bBR71yGixE) | 2:20 |
 | 15 | [Clinch Mountain Backstep](https://open.spotify.com/track/1JF6S7ZP0nmYo18qbsgPSF) | [The Stanley Brothers](https://open.spotify.com/artist/0qqGnmHBX2yVvCITRAvuRD) | [The Best Of King And Starday Bluegrass \- Volume 2](https://open.spotify.com/album/7CNYvqFSdSRcvN4Di5S96a) | 2:18 |
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RwLEp3x6W4.md) - [plain]
 | 45 | [Where The Soul Never Dies](https://open.spotify.com/track/4ag360fiy5rnd0cDvJTG1z) | [The Stanley Brothers](https://open.spotify.com/artist/0qqGnmHBX2yVvCITRAvuRD) | [What A Friend We Have In Jesus](https://open.spotify.com/album/0tGWVCyoIRSGBjUVg2xQFI) | 1:31 |
 | 46 | [Living The Right Life Now](https://open.spotify.com/track/6lnDortf9eL4jBMdFGUA0s) | [Molly O'Day](https://open.spotify.com/artist/0CUHmzvWVrpQTtAAPnazXW) | [Living Legend Of Country Music](https://open.spotify.com/album/1VDp8OpYH7JMNUAutFUgZt) | 2:17 |
 | 47 | [The One I Love is Gone](https://open.spotify.com/track/76QZOE3C7tgXHossRyvrye) | [Hazel Dickens](https://open.spotify.com/artist/2IEiSF4inDSwzQowcQjdfT), [Alice Gerrard](https://open.spotify.com/artist/3jw7tGSvkcf3nb1LWNnguT) | [Pioneering Women of Bluegrass](https://open.spotify.com/album/47foG5gtaTxSEmEM141ckO) | 3:11 |
-| 48 | [Think Of What You’ve Done](https://open.spotify.com/track/3CSBAuv1vUv6zWWmcEEbOS) | [The Stanley Brothers](https://open.spotify.com/artist/0qqGnmHBX2yVvCITRAvuRD) | [Choo Choo Coming](https://open.spotify.com/album/7Lxyzmm9LFsfi8GnHN905n) | 2:08 |
+| 48 | [Think Of What You've Done \- Original Gusto Recordings](https://open.spotify.com/track/46xJ1L8BnaglIjkosHa0Bp) | [The Stanley Brothers](https://open.spotify.com/artist/0qqGnmHBX2yVvCITRAvuRD) | [The Best Of The Best Of The Stanley Brothers \(Original Gusto Recordings\)](https://open.spotify.com/album/28jjeWAraz1Sm8TcWdbHFi) | 2:07 |
 | 49 | [Old Home Place](https://open.spotify.com/track/25EjMRIvbEaKLsiVKPHOom) | [Hubert Cox](https://open.spotify.com/artist/1LJXQEhFipR0ECM0cVCIGQ), [The Southern Grass](https://open.spotify.com/artist/4zud2hUuAzziOpICB4cwjr) | [Your Requests](https://open.spotify.com/album/0FAkZu0ecJAIBvbx744YIK) | 2:50 |
 | 50 | [Get in Line Brother](https://open.spotify.com/track/2GxivWUFL0TRT1nHce14MM) | [Flatt & Scruggs](https://open.spotify.com/artist/1iNNWK8bYjc5EK0waLk1J1) | [Foggy Mountain Gospel](https://open.spotify.com/album/65ZaQ13ccP8Tcht0jGiyJ9) | 2:21 |
 | 51 | [There Is a Time \- Recorded at the Mecca, Los Angeles](https://open.spotify.com/track/1xRgiVZdboVguGvZfFtAxr) | [The Dillards](https://open.spotify.com/artist/3WAkTbMThUvVRq5keECFtS) | [Live!!! Almost!!!](https://open.spotify.com/album/3To4mZbA6r26eZqt5xFfgu) | 2:48 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RwLEp3x6W4.md) - [plain]
 | 55 | [Brilliancy Medley](https://open.spotify.com/track/5dH5JqHaYSZhNsYiJLJ5Ty) | [Eck Robertson](https://open.spotify.com/artist/1CdShwwnkXvTy5avs5GGsK) | [Old Time Texas Fiddler](https://open.spotify.com/album/1frgWjs8tUTxPiubw9NYRL) | 2:57 |
 | 56 | [Whitehouse Blues](https://open.spotify.com/track/5JxJ1qkfZxbivjdusciKas) | [Doc Watson](https://open.spotify.com/artist/01N1aZStXA4yGvkz4vRXtJ) | [Bluegrass Blues](https://open.spotify.com/album/6LUb06ZNMDASuDgD6sHisX) | 1:39 |
 
-Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMGU5ODgxNDMwNTA3YTA2ZTMzM2QzNGIyYmE1NWFmYTdh`
+Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMGUzODYxYTBiYThlNDliNzNiYjgyYzgwYjY2Y2E4N2E0`

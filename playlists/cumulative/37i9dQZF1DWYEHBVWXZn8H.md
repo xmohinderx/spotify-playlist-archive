@@ -4,7 +4,7 @@
 
 > The essential tracks, all in one playlist.
 
-136 songs - 10 hr 26 min - [published](https://open.spotify.com/playlist/0oElCuxJ6tGmauIUa0OXSM)
+137 songs - 10 hr 30 min - [published](https://open.spotify.com/playlist/0oElCuxJ6tGmauIUa0OXSM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,8 +51,9 @@
 | [Girl In Amber](https://open.spotify.com/track/6nL1A5WUhZWCrPhz07yKtU) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Skeleton Tree](https://open.spotify.com/album/34xaLN7rDecGEK5UGIVbeJ) | 4:51 | 2021-02-24 | 2022-10-13 |
 | [Girl in Amber \- Live at Alexandra Palace, 2020](https://open.spotify.com/track/2eqgekiAkHxSJr0DfowhK2) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Idiot Prayer \(Nick Cave Alone at Alexandra Palace\)](https://open.spotify.com/album/7o6zfGW9eywRuc0eOdzJFK) | 4:31 | 2021-02-24 | 2022-10-13 |
 | [Girl in Amber \- Live at Alexandra Palace, 2020](https://open.spotify.com/track/4S1uc1TY67F09RK6VSqy1P) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Idiot Prayer \(Nick Cave Alone at Alexandra Palace\)](https://open.spotify.com/album/2q5FE0HvayCsZ0iz2CBjIp) | 4:31 | 2021-02-24 |  |
+| [Give Us a Kiss](https://open.spotify.com/track/5gM0aZK9iW8r92uqDIQVMo) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Give Us a Kiss](https://open.spotify.com/album/2XyULUK9a00BF3fcHjkDrq) | 3:31 | 2021-02-24 |  |
 | [Give Us a Kiss](https://open.spotify.com/track/6Qj27142tZoPcuZbzFDr1T) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Give Us a Kiss](https://open.spotify.com/album/1PhMYef0yI5YgybarsQXe9) | 3:31 | 2021-02-24 | 2022-10-14 |
-| [Give Us a Kiss](https://open.spotify.com/track/6Ey2XKLjRuyWE5U3pqedvR) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [B\-Sides & Rarities \(Part II\)](https://open.spotify.com/album/70BESZ62GkFlBw0O3mxKo9) | 3:33 | 2021-02-24 |  |
+| [Give Us a Kiss](https://open.spotify.com/track/6Ey2XKLjRuyWE5U3pqedvR) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [B\-Sides & Rarities \(Part II\)](https://open.spotify.com/album/70BESZ62GkFlBw0O3mxKo9) | 3:33 | 2021-02-24 | 2022-11-12 |
 | [Go Tell the Women](https://open.spotify.com/track/6hGQJxLMEFPmW29Ii8zI2G) | [Grinderman](https://open.spotify.com/artist/0IpDaO9A1OW1h0YChKzVaX) | [Grinderman](https://open.spotify.com/album/7H8mwwZrY0wptuWiIln2pp) | 3:24 | 2021-02-24 |  |
 | [Go Tell the Women](https://open.spotify.com/track/7nRxExZ44NG0qBQk45S9Sz) | [Grinderman](https://open.spotify.com/artist/0IpDaO9A1OW1h0YChKzVaX) | [Grinderman](https://open.spotify.com/album/1XoOjHBybK9RhUh1If9R5O) | 3:24 | 2021-02-24 | 2022-07-29 |
 | [God Is in the House](https://open.spotify.com/track/7fYGgIxMkN72otrha570z1) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [No More Shall We Part \(Remastered\)](https://open.spotify.com/album/4zdod6lsBznzFBYqQ7IR4I) | 5:44 | 2021-02-24 | 2022-07-29 |

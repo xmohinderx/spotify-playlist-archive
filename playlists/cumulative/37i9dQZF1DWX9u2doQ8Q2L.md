@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-390 songs - 1 day 0 hr 17 min - [published](https://open.spotify.com/playlist/16lfBzqcUXT8nJukNLWVkv)
+391 songs - 1 day 0 hr 21 min - [published](https://open.spotify.com/playlist/16lfBzqcUXT8nJukNLWVkv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -246,7 +246,8 @@
 | [Summer Breezin'](https://open.spotify.com/track/5UHa3acNN5TRlySTh7aKWx) | [Purple Drip](https://open.spotify.com/artist/57AcMFAHVRDjh4jQ192fQf) | [Summer Breezin'](https://open.spotify.com/album/0vkQzj9TlazS1ATRpdeq0I) | 5:12 | 2022-07-28 | 2022-09-07 |
 | [Summer Breezin’](https://open.spotify.com/track/7l0gkhracl0YHt0T5nivl2) | [Purple Drip](https://open.spotify.com/artist/57AcMFAHVRDjh4jQ192fQf) | [Summer Breezin’](https://open.spotify.com/album/4difJVvfZwNIaOEOC7jU7w) | 5:12 | 2022-06-28 | 2022-07-29 |
 | [Superpower \(KM Remix\)](https://open.spotify.com/track/7srrFIxUG3AqUwVf5GQS5K) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa) | [Superpower \(KM Remix\)](https://open.spotify.com/album/2MinXn5C1XQ9NN75AOTU1X) | 4:33 | 2022-07-19 | 2022-10-05 |
-| [Suzume](https://open.spotify.com/track/7LHAKF7pBqHch8o6Yo0ad5) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [Toaka](https://open.spotify.com/artist/3GzVC7GGbmO2SuBu92DqUn) | [Suzume](https://open.spotify.com/album/7HT4WPE6gHPxrRmgzhhTMr) | 3:56 | 2022-09-30 |  |
+| [Suzume](https://open.spotify.com/track/7LHAKF7pBqHch8o6Yo0ad5) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [Toaka](https://open.spotify.com/artist/3GzVC7GGbmO2SuBu92DqUn) | [Suzume](https://open.spotify.com/album/7HT4WPE6gHPxrRmgzhhTMr) | 3:56 | 2022-09-30 | 2022-11-12 |
+| [Suzume](https://open.spotify.com/track/1n1y2kFPISpF9WGD3JaFo5) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [Toaka](https://open.spotify.com/artist/3GzVC7GGbmO2SuBu92DqUn) | [Suzume \(Motion Picture Soundtrack\)](https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq) | 3:58 | 2022-11-10 |  |
 | [SWAM](https://open.spotify.com/track/3mUDs6V97GirTDSNLJr5z6) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [SWAM](https://open.spotify.com/album/07dVrbFzLZIszN5tGtSeVn) | 2:34 | 2022-09-29 |  |
 | [Sweet Escape \(feat\. ひかり\)](https://open.spotify.com/track/6Whj4AAx1Y2xSCJhpRvTpt) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [Sweet Escape \(feat\. ひかり\)](https://open.spotify.com/album/6QWulBLmOcERqXcs2tSxh6) | 3:53 | 2022-08-09 | 2022-09-07 |
 | [T](https://open.spotify.com/track/4RQ6cTPYksga7oaaENY2ZV) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2), [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g) | [Head In The Clouds Forever](https://open.spotify.com/album/0LxjjZ20pPOakBSYwrmbjv) | 4:09 | 2022-05-26 | 2022-06-15 |
@@ -274,7 +275,7 @@
 | [Trickster](https://open.spotify.com/track/4080qNZP4kWloqGH3ujVkp) | [FIVE NEW OLD](https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo) | [Departure : My New Me](https://open.spotify.com/album/6NFXKfWoqQFS1O22Pkvop0) | 3:42 | 2022-10-04 |  |
 | [Trip](https://open.spotify.com/track/3z3FInUn8TSfGKjPxOZ0VY) | [パジャマで海なんかいかない](https://open.spotify.com/artist/6FnK7XQ5Ldd4ymhgPirwac) | [Trip](https://open.spotify.com/album/5AAb2Ggk8How7c0Ye83dGp) | 4:35 | 2022-06-07 | 2022-07-20 |
 | [Troche](https://open.spotify.com/track/55npd4x5aJgUxgcfuuedSA) | [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6), [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG) | [Troche](https://open.spotify.com/album/664yPpos9jz8ONXwcAY84t) | 4:06 | 2022-07-28 | 2022-09-09 |
-| [Trust the Change](https://open.spotify.com/track/5dP49R640BUhgm94Q2jcwR) | [Snowk](https://open.spotify.com/artist/2IEDOKhzkk1EKk93fZ759r), [J.Lamotta](https://open.spotify.com/artist/76O0DRobXGao078KT0xci8) | [Trust the change](https://open.spotify.com/album/26RHkcqDWEtACz7jzUERXu) | 3:21 | 2022-10-11 |  |
+| [Trust the Change](https://open.spotify.com/track/5dP49R640BUhgm94Q2jcwR) | [Snowk](https://open.spotify.com/artist/2IEDOKhzkk1EKk93fZ759r), [J.Lamotta Suzume](https://open.spotify.com/artist/76O0DRobXGao078KT0xci8) | [Trust the change](https://open.spotify.com/album/26RHkcqDWEtACz7jzUERXu) | 3:21 | 2022-10-11 |  |
 | [U.F.O](https://open.spotify.com/track/01LxBtO7yAI4hpP6lxFW1j) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [U.F.O](https://open.spotify.com/album/73rI30alnLXFitAnxHeNG0) | 3:50 | 2022-09-27 |  |
 | [U.F.O](https://open.spotify.com/track/1z43YoQTKU3LfOqiMCwvWo) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [U.F.O](https://open.spotify.com/album/7uuke3GUh1KabuRDyoHEe0) | 3:50 | 2022-09-27 | 2022-09-29 |
 | [Utopia](https://open.spotify.com/track/3T0M0Q9hf9zwDtxICrnnHF) | [Group2](https://open.spotify.com/artist/6V7rXqQ6eNhJArV5K6RCMp) | [Utopia](https://open.spotify.com/album/30iuWckM7sIRzKGkQ6iWDZ) | 2:53 | 2022-08-18 | 2022-08-26 |

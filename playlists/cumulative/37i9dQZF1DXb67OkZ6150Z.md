@@ -4,7 +4,7 @@
 
 > Indie takes on songs others make\. Cover: Remi Wolf
 
-359 songs - 22 hr 10 min - [published](https://open.spotify.com/playlist/1xscuBe0hUgZ7Q0c20ddVX)
+361 songs - 22 hr 16 min - [published](https://open.spotify.com/playlist/1xscuBe0hUgZ7Q0c20ddVX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Colour Me In](https://open.spotify.com/track/2cfPy6b2eigFDwq7SjDBTJ) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Colour Me In](https://open.spotify.com/album/6TiU0NJrnQ5whKSrlSafzs) | 2:11 | 2021-07-21 | 2022-04-19 |
 | [Come Down In Time](https://open.spotify.com/track/5S4DOo2mn95jgzsqkWpgNB) | [Ed The Dog](https://open.spotify.com/artist/6GKzHklwb2dpXc1Pqg067x) | [Come Down In Time](https://open.spotify.com/album/1DvLTvqOSBdpXKBGxVyrBI) | 3:21 | 2021-10-08 | 2022-04-21 |
 | [Come Give Me Love](https://open.spotify.com/track/6lG3q4b7eoeplybJUqXP96) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Come Give Me Love](https://open.spotify.com/album/4Q2SIzTIZXzWykvl3DGVPK) | 3:59 | 2021-03-12 |  |
+| [Cooking](https://open.spotify.com/track/6QS1OLPLLjKiZsdIs9GUdi) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [Cooking](https://open.spotify.com/album/1a48ZfwsNdTMdy3NNrdeh7) | 2:51 | 2022-11-11 |  |
 | [Cornflake Girl \- Recorded At RAK Studios, London](https://open.spotify.com/track/0eJEcotVKze2Ioy4u0T7eR) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Spotify Singles](https://open.spotify.com/album/6MfeMJhhtj6Aas0rDfkHcO) | 4:41 | 2021-03-12 | 2022-04-21 |
 | [Crash into Me](https://open.spotify.com/track/22Gnce47RGM3cZZDPea2Up) | [Petey](https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA) | [Crash Into Me](https://open.spotify.com/album/4KErWwuPdnGOxE4ciibgxP) | 2:52 | 2021-03-12 | 2022-07-28 |
 | [Crazy](https://open.spotify.com/track/47jgSvqlKwGyBLPnMfeEZN) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Crazy](https://open.spotify.com/album/0hOdcKXM4riRXmpyo71SFs) | 4:02 | 2021-03-12 |  |
@@ -230,7 +231,7 @@
 | [No Surprises](https://open.spotify.com/track/4eXOqmr69p5v8mztsEeO1R) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [No Surprises](https://open.spotify.com/album/4h8UfmHaGPZDivrHVOjAQi) | 3:35 | 2021-03-12 | 2022-07-29 |
 | [Nothing Breaks Like A Heart](https://open.spotify.com/track/6n7cRyHASeWTLJv5LLQ1qi) | [Ten Fé](https://open.spotify.com/artist/3cohAS2UQTaOo80kCn8qjT) | [Nothing Breaks Like A Heart](https://open.spotify.com/album/0zBZokjXEln00OETFLesm2) | 3:16 | 2021-03-12 |  |
 | [Nothing Compares 2 U](https://open.spotify.com/track/54OkZltlupE2xB0i0lAfzi) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Nothing Compares 2 U](https://open.spotify.com/album/6E2uXissCsJ8HEh3ytJdOz) | 3:13 | 2021-03-12 | 2022-04-21 |
-| [Nothing Else Matters](https://open.spotify.com/track/1guCON9841cQwAlbNplLsY) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Nothing Else Matters](https://open.spotify.com/album/5cGlNs3L4C2mzMQiAfox41) | 4:34 | 2022-09-03 |  |
+| [Nothing Else Matters](https://open.spotify.com/track/1guCON9841cQwAlbNplLsY) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Nothing Else Matters](https://open.spotify.com/album/5cGlNs3L4C2mzMQiAfox41) | 4:34 | 2022-09-03 | 2022-11-12 |
 | [Nothing Else Matters](https://open.spotify.com/track/7HdDZScUII7zKRQKqXKUrH) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Nothing Else Matters](https://open.spotify.com/album/0bztigq9w8sLg2nHdmq4Td) | 4:34 | 2021-08-13 | 2022-07-28 |
 | [Novocaine For The Soul \(feat\. Sir Chloe\)](https://open.spotify.com/track/7uQcx4j0G4CJoOtz8Wt375) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T), [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Steal My Sunshine / Novocaine For The Soul](https://open.spotify.com/album/7tfjWfYOhPMyb5uu0mC5w1) | 2:40 | 2021-10-27 | 2022-04-17 |
 | [Ocean Eyes](https://open.spotify.com/track/21vCVeinc9agpAM7scu3Tx) | [The Darcys](https://open.spotify.com/artist/1kmnMzV27S3bXALqYnoGwH) | [Ocean Eyes](https://open.spotify.com/album/5tT6uMrOHLmZWam8b4LEwr) | 3:20 | 2021-03-12 | 2022-04-13 |
@@ -238,7 +239,7 @@
 | [On the Road Again](https://open.spotify.com/track/3PFjRx0ACVyWsA8161ovk2) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [On the Road Again](https://open.spotify.com/album/3qvgmE0KDwkAaiYZOGnuIl) | 2:25 | 2021-03-12 | 2022-07-18 |
 | [Only You](https://open.spotify.com/track/5w2CMzor2d578JophXar5e) | [Jake Wesley Rogers](https://open.spotify.com/artist/5lEF4Tt1uK7Kuk80ILMlE9) | [Only You](https://open.spotify.com/album/13VZdx2eNYVDTyE7avFEM3) | 3:15 | 2021-03-12 | 2022-04-19 |
 | [Orange Sky](https://open.spotify.com/track/45E6I2yNGDGkEqx2U2PWvs) | [Kat Cunning](https://open.spotify.com/artist/0THdxk7bYWo6wciF1gInBK) | [Looking for Alaska \(Music from the Original Series\)](https://open.spotify.com/album/4hRgz8S5EEyuVn2vUGwubS) | 4:58 | 2021-03-12 | 2022-06-12 |
-| [Our House](https://open.spotify.com/track/08sn2aLyHIGwUalxqkPmaO) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Our House](https://open.spotify.com/album/7yuswreCCTccvqWFuP974U) | 3:02 | 2021-07-21 |  |
+| [Our House](https://open.spotify.com/track/08sn2aLyHIGwUalxqkPmaO) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Our House](https://open.spotify.com/album/7yuswreCCTccvqWFuP974U) | 3:02 | 2021-07-21 | 2022-11-12 |
 | [Passionfruit \(triple j Like A Version\)](https://open.spotify.com/track/6fi8m0iBPSrTPHle0CEJev) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Passionfruit \(triple j Like A Version\)](https://open.spotify.com/album/3zVSYp1orCu1El55j05lkK) | 4:28 | 2021-03-12 | 2022-04-21 |
 | [Paul](https://open.spotify.com/track/2MjzsLWwEBqnJAdXtDlaz1) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Paul](https://open.spotify.com/album/1OlusNXiorsSM7tYlIG9Cy) | 3:07 | 2021-03-12 |  |
 | [Pink + White \- Live at Electric Lady](https://open.spotify.com/track/5uJK1i4LU4I5Ai5qCeHonu) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Live at Electric Lady](https://open.spotify.com/album/4BI9my41BKZdY4rYevmxSQ) | 3:53 | 2022-08-08 |  |
@@ -255,6 +256,7 @@
 | [Rid Of Me](https://open.spotify.com/track/2vVP0dYc6rjkXalTfPthfa) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Rid Of Me](https://open.spotify.com/album/6M1gUhD4vXvWeEJ49maP1U) | 3:37 | 2022-10-03 | 2022-10-22 |
 | [Romeo and Juliet](https://open.spotify.com/track/2Qp8gzkYvzANKwLreWj40d) | [Widowspeak](https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP) | [Romeo and Juliet](https://open.spotify.com/album/2A27vmxWEHF8HZ7tNJ7x2P) | 5:32 | 2021-03-12 | 2022-07-29 |
 | [Running Up That Hill](https://open.spotify.com/track/18yegkWg1YLPFCgif8XfaE) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3) | [Seeking Thrills \(The Ultimate Thrills Edition\)](https://open.spotify.com/album/59UBi9ajKLenloyKokbmmZ) | 3:08 | 2021-03-12 |  |
+| [Running Up That Hill \- Spotify Singles](https://open.spotify.com/track/3mn8Noyehq8qn2aOIz4HNR) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Running Up That Hill \- Spotify Singles](https://open.spotify.com/album/5yoGGNfGcVw8Eqlbg13a9v) | 3:40 | 2022-11-11 |  |
 | [Safety Dance](https://open.spotify.com/track/41iyTkS7vxn5sOJTMjOrL8) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Safety Dance](https://open.spotify.com/album/7rvR8Bfm6DbVDThl64aVD9) | 3:51 | 2021-08-20 | 2022-07-05 |
 | [Save a Prayer \- Acoustic](https://open.spotify.com/track/2TMLHRfHlVvj4ukwVoWBVQ) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Unplugged](https://open.spotify.com/album/5w8054iUeNxpJ8uN05ugx2) | 3:50 | 2021-03-12 | 2022-06-23 |
 | [Savior Complex](https://open.spotify.com/track/5cTlo1j9rEKQWRBynDcywn) | [Brandon](https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265) | [Savior Complex](https://open.spotify.com/album/2GRYhyTbRxrjwzJOcCfJUI) | 3:52 | 2021-07-21 | 2022-04-19 |

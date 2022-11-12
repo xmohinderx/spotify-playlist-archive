@@ -4,7 +4,7 @@
 
 > Från PJ Harvey via Jenny Wilson till Amanda Bergman och Slowgold\. Här hör du några av alla kvinnor som är med och skriver indiehistoria.
 
-165 songs - 10 hr 36 min - [published](https://open.spotify.com/playlist/2LxnqPYAd4vz9nI21uWtgg)
+167 songs - 10 hr 45 min - [published](https://open.spotify.com/playlist/2LxnqPYAd4vz9nI21uWtgg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,8 +93,9 @@
 | [Masseduction](https://open.spotify.com/track/4L7kaptgY6py2G3nRW9BVQ) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [MASSEDUCTION](https://open.spotify.com/album/4RoOGpdrgfiIUyv0kLaC4e) | 3:17 | 2021-06-15 |  |
 | [Min stad](https://open.spotify.com/track/1AHbCDFj5w7QWCfePQwCII) | [Frida Hyvönen](https://open.spotify.com/artist/58XdW0XyGukvmGatf7NC2R) | [Kvinnor och barn](https://open.spotify.com/album/5vvefHi9yyhwwyZhMsR1LZ) | 4:22 | 2021-06-15 |  |
 | [Min stad](https://open.spotify.com/track/5PDfImSWw17fU8dZdopdQQ) | [Frida Hyvönen](https://open.spotify.com/artist/58XdW0XyGukvmGatf7NC2R) | [Kvinnor och barn](https://open.spotify.com/album/1YstIrt6J1WpqqT2eJBEdb) | 4:22 | 2021-06-15 | 2022-07-29 |
-| [Mind](https://open.spotify.com/track/1As7Zf2pOE7cfGWbocErVW) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Love in the Milky Way](https://open.spotify.com/album/2d55NIkawwo5HMMendu9vI) | 4:10 | 2021-06-15 |  |
+| [Mind](https://open.spotify.com/track/1As7Zf2pOE7cfGWbocErVW) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Love in the Milky Way](https://open.spotify.com/album/2d55NIkawwo5HMMendu9vI) | 4:10 | 2021-06-15 | 2022-11-12 |
 | [Mind](https://open.spotify.com/track/25416pGgEeDoBm9qNGhuFw) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Love In The Milky Way](https://open.spotify.com/album/5eIpGFFgN0NpzsgqLBwrsx) | 4:10 | 2021-06-15 | 2022-07-29 |
+| [Mind](https://open.spotify.com/track/6le001QnP5N3OB9TNGkWPz) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Mind](https://open.spotify.com/album/3T9F85Fw1HB7latqhMRIUI) | 4:10 | 2021-06-15 |  |
 | [Monster Lead Me Home](https://open.spotify.com/track/0WSv8FOuqHmi659cunJGIn) | [Sara Hartman](https://open.spotify.com/artist/1Vx5fzRUd7A1j40B8E3Yqo) | [Satellite](https://open.spotify.com/album/0owIBHgG8RbVZ7o3px3n2K) | 3:57 | 2021-06-15 |  |
 | [Monster Lead Me Home](https://open.spotify.com/track/5LAnohaWXSFTIFZt8XB4yv) | [Sara Hartman](https://open.spotify.com/artist/1Vx5fzRUd7A1j40B8E3Yqo) | [Monster Lead Me Home](https://open.spotify.com/album/3riygse0VgPUp9tdIWLMyW) | 3:57 | 2021-06-15 | 2022-07-29 |
 | [Mouth to Mouth](https://open.spotify.com/track/5KxKFdP10B76t6R2JGiLuG) | [Sophia Somajo](https://open.spotify.com/artist/5T8zbK3dic52T9bFu0aY8z) | [Mouth to Mouth](https://open.spotify.com/album/6M6ZXKXa6cbrdLJkgJudTY) | 3:29 | 2021-06-15 |  |
@@ -171,7 +172,8 @@
 | [Youth](https://open.spotify.com/track/0UPMxtinlgA1dkne9PAKTW) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [If You Leave](https://open.spotify.com/album/2jI09gnkDzKp6EQg9VvnGM) | 4:13 | 2021-06-15 | 2022-11-11 |
 | [Youth](https://open.spotify.com/track/4AmcmraFjVzFb9SQDNTRyl) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [If You Leave](https://open.spotify.com/album/31LehqnrVyTuEBEKeXeqVx) | 4:13 | 2021-06-15 | 2022-10-13 |
 | [Youth](https://open.spotify.com/track/6tqzOYuE3lrNVPDgtF3MjM) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [If You Leave](https://open.spotify.com/album/6E76aabodIl5DW5BTEZPHG) | 4:13 | 2021-06-15 | 2022-07-29 |
-| [Årstavikens strand](https://open.spotify.com/track/56d4NuZxjcm3gNyByWCImM) | [Iiris Viljanen](https://open.spotify.com/artist/1IYVBUvVz1UbdQboARe43I) | [Mercedes](https://open.spotify.com/album/28HijYE8kCeXeQY7DXwRUS) | 4:44 | 2021-06-15 |  |
+| [Årstavikens strand](https://open.spotify.com/track/56d4NuZxjcm3gNyByWCImM) | [Iiris Viljanen](https://open.spotify.com/artist/1IYVBUvVz1UbdQboARe43I) | [Mercedes](https://open.spotify.com/album/28HijYE8kCeXeQY7DXwRUS) | 4:44 | 2021-06-15 | 2022-11-12 |
 | [Årstavikens strand](https://open.spotify.com/track/5oYcNUFWEn9sYHB2dEVD52) | [Iiris Viljanen](https://open.spotify.com/artist/1IYVBUvVz1UbdQboARe43I) | [Mercedes](https://open.spotify.com/album/5dJbYruKqC38JNvfjxV7xZ) | 4:44 | 2021-06-15 | 2022-07-29 |
+| [Årstavikens Strand](https://open.spotify.com/track/5eZ6RcjaBUWYYv7IcxHIPX) | [Iiris Viljanen](https://open.spotify.com/artist/1IYVBUvVz1UbdQboARe43I) | [Årstavikens Strand](https://open.spotify.com/album/37sCpqJO7Kl7AolTiQWQkU) | 4:50 | 2021-06-15 |  |
 
 \*This playlist was first scraped on 2022-01-21. Prior content cannot be recovered.

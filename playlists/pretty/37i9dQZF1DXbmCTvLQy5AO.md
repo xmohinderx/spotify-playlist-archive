@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmCTvLQy5AO.md) - [plain]
 
 > Empowered rhymes and vibes\. Cover: Queen B
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,340 likes - 69 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,653 likes - 69 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmCTvLQy5AO.md) - [plain]
 | 51 | [True Love](https://open.spotify.com/track/1rNVWAPDh9YZbjjTRY9ibt) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [True Love](https://open.spotify.com/album/6cFEBbV5uWZXhLAzBLRQpT) | 3:26 |
 | 52 | [I Like Dat \(feat\. BIA & Kehlani\)](https://open.spotify.com/track/3e1C4xcn4REvbAa7M6VshF) | [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [I Like Dat \(feat\. BIA & Kehlani\)](https://open.spotify.com/album/6j46dFtnzrjKNAmfcEtpKJ) | 4:43 |
 | 53 | [10%](https://open.spotify.com/track/41SwdQIX8Hy2u6fuEDgvWr) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 3:06 |
-| 54 | [altar](https://open.spotify.com/track/1DVgSm1FpFBT8usWhnC5vF) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [blue water road](https://open.spotify.com/album/1fZRXWVJVe07UcD4GowJ8j) | 4:04 |
+| 54 | [Altar](https://open.spotify.com/track/0m0axAMEyWEvzezaLwrLVE) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Twenties Playlist](https://open.spotify.com/album/5fQEyU8UFm6oPfFqhqGODI) | 4:03 |
 | 55 | [Woman](https://open.spotify.com/track/60GM1mA58L7SYD1bLQXBho) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW) | 4:29 |
 | 56 | [Stay Flo](https://open.spotify.com/track/6GCIYIWUBSLontW6divqsw) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [When I Get Home](https://open.spotify.com/album/4WF4HvVT7VjGnVjxjoCR6w) | 2:55 |
 | 57 | [Put It On You](https://open.spotify.com/track/7h4h6wl9unB1dIoRsxA1Yw) | [Alicai Harley](https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh) | [The Red Room Intro \(Yard Gyal Inna Britain\)](https://open.spotify.com/album/0x2r34IBmG1VXaOZK7TRTH) | 3:05 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmCTvLQy5AO.md) - [plain]
 | 68 | [Girlfriend](https://open.spotify.com/track/0jIUiSTrJuDxjkf7ddAEYy) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Language](https://open.spotify.com/album/1Savte5xUnDV7zXpzpf4AR) | 4:03 |
 | 69 | [Missing Out](https://open.spotify.com/track/5vvn5HATa05iKVql6oYULV) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Missing Out](https://open.spotify.com/album/1WteYNWIkmmgTfquwV0Mc4) | 3:59 |
 
-Snapshot ID: `MTY2Mzg4NzYwMCwwMDAwMDAwMGE0ZDcwMTYxNWIwNDFjZjVmZGU1NWVhNGM3MzM5M2M0`
+Snapshot ID: `MTY2Mzg4NzYwMCwwMDAwMDAwMGYyYWIyNWZiZjMzNDZhZGRjMTk3NzFmOTk4N2VkZTQ2`

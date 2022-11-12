@@ -2422,6 +2422,24 @@
     },
     {
       "album": {
+        "name": "Anxiety Angel",
+        "url": "https://open.spotify.com/album/55wxjvYCRXUNrjw6vD9p5d"
+      },
+      "artists": [
+        {
+          "name": "Elita",
+          "url": "https://open.spotify.com/artist/7ApzfFN0BmeeVJPsQBReRv"
+        }
+      ],
+      "date_added": "2022-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183423,
+      "name": "Satanic Slumber Party",
+      "url": "https://open.spotify.com/track/206BrVbravzDeIJrhyXW0p"
+    },
+    {
+      "album": {
         "name": "Satanic Slumber Party",
         "url": "https://open.spotify.com/album/2v4jEVLq0kmKeWCE7svpyq"
       },
@@ -2433,7 +2451,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 183423,
       "name": "Satanic Slumber Party",
       "url": "https://open.spotify.com/track/5TRDXiHPikN83orTXSmZBz"
@@ -3071,7 +3089,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 268800,
       "name": "Taker",
       "url": "https://open.spotify.com/track/1RlstRnDWwqLhOWtL16Iqy"
@@ -3093,6 +3111,24 @@
       "duration_ms": 268800,
       "name": "Taker",
       "url": "https://open.spotify.com/track/3V40bK1WdHFOFqYQa0Lla9"
+    },
+    {
+      "album": {
+        "name": "Taker",
+        "url": "https://open.spotify.com/album/6NIIGDCGRuTizmkQpxZDcM"
+      },
+      "artists": [
+        {
+          "name": "DIIV",
+          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
+        }
+      ],
+      "date_added": "2022-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268800,
+      "name": "Taker",
+      "url": "https://open.spotify.com/track/6bjzPmFPE4y9pnSYFjqdjj"
     },
     {
       "album": {

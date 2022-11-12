@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9ynY7YLqCC.md) - [plain]
 
 > Canciones directas y banderas al viento\. Foto: La 25.
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,773 likes - 80 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,845 likes - 80 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,18 +22,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9ynY7YLqCC.md) - [plain]
 | 12 | [Reyes de la Noche](https://open.spotify.com/track/3nnDwYz3dEd4p2ESdpS1G0) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o) | [Toro Rojo](https://open.spotify.com/album/5RQqvJeGRUrvVbvKGlMceO) | 4:10 |
 | 13 | [Ultra Free](https://open.spotify.com/track/2r3KSEga5xq8EsglHOep0o) | [Jóvenes Pordioseros](https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4) | [Ultra Free](https://open.spotify.com/album/00rJK2jvhkRho9npgLWL1w) | 3:00 |
 | 14 | [Avanti Morocha](https://open.spotify.com/track/411J3pP54W1K9PMo72Fg2w) | [Los Caballeros De La Quema](https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW) | [La Paciencia De La Araña](https://open.spotify.com/album/7urCdolaxQ3YUQlI8Bhj41) | 5:46 |
-| 15 | [Arde la Ciudad](https://open.spotify.com/track/3SyKG06yOK3omo29EwZ8dP) | [Mancha De Rolando](https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04) | [Viaje](https://open.spotify.com/album/795wm7ucRpHjqdyIPUAd0i) | 4:12 |
+| 15 | [Veneno](https://open.spotify.com/track/3qSsdVel7dNcpW4khZejHa) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Despedazado Por Mil Partes](https://open.spotify.com/album/0eH6ICTcUbNqjplgRISQEg) | 4:08 |
 | 16 | [El Viejo](https://open.spotify.com/track/7gKqjNMM4ikt7KFTRsgZgL) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [De Bichos Y Flores](https://open.spotify.com/album/0zDs3M8rUvhn1D6IFNJMgI) | 3:07 |
-| 17 | [Veneno](https://open.spotify.com/track/3qSsdVel7dNcpW4khZejHa) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Despedazado Por Mil Partes](https://open.spotify.com/album/0eH6ICTcUbNqjplgRISQEg) | 4:08 |
+| 17 | [Arde la Ciudad](https://open.spotify.com/track/3SyKG06yOK3omo29EwZ8dP) | [Mancha De Rolando](https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04) | [Viaje](https://open.spotify.com/album/795wm7ucRpHjqdyIPUAd0i) | 4:12 |
 | 18 | [Una Piba Con la Remera de Greenpeace](https://open.spotify.com/track/1kpfJ0SL830ZfK0IXaAnwd) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [Momo Sampler](https://open.spotify.com/album/4Evme9w1iDX33jAxbhPg48) | 3:40 |
 | 19 | [9 de Julio](https://open.spotify.com/track/04bg4edMdpKhsgkSzYqj55) | [Callejeros](https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw) | [Señales](https://open.spotify.com/album/573TG9cHInMww2QgBeKqTy) | 3:46 |
 | 20 | [Ruleta](https://open.spotify.com/track/3cTcRPhf3Kal3UOmtVpwKo) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Verde Paisaje del Infierno](https://open.spotify.com/album/5BXYr7iU56rEX24QQPYcjO) | 4:16 |
-| 21 | [Descontrolado](https://open.spotify.com/track/3KDClBkoakbdF0pSdF2PP7) | [Jóvenes Pordioseros](https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4) | [Vicio](https://open.spotify.com/album/5GhW2V4FEHOHEeVydU7TxS) | 2:54 |
-| 22 | [Solo voy](https://open.spotify.com/track/4saEiUudiabEQd8NFX02kb) | [La 25](https://open.spotify.com/artist/6UAMLsapd2AyfEAEVFaxmc) | [SHOC](https://open.spotify.com/album/42UGulXJ1NenBBDaVo3Vmz) | 4:15 |
+| 21 | [La Razón Que Te Demora](https://open.spotify.com/track/0ljyHIWERJQp8O5LKgKm1l) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Detonador de Sueños](https://open.spotify.com/album/7hHY77bNkcPikVZpC91hvZ) | 4:24 |
+| 22 | [Descontrolado](https://open.spotify.com/track/3KDClBkoakbdF0pSdF2PP7) | [Jóvenes Pordioseros](https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4) | [Vicio](https://open.spotify.com/album/5GhW2V4FEHOHEeVydU7TxS) | 2:54 |
 | 23 | [Va A Escampar](https://open.spotify.com/track/4MPwBYidOWnwpKlqQYJEzX) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [A Contraluz](https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL) | 4:41 |
-| 24 | [Par Mil](https://open.spotify.com/track/0wUFXsXHZc2h6wKRcmJNWF) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Narigón del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre](https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU) | 3:18 |
+| 24 | [Solo voy](https://open.spotify.com/track/4saEiUudiabEQd8NFX02kb) | [La 25](https://open.spotify.com/artist/6UAMLsapd2AyfEAEVFaxmc) | [SHOC](https://open.spotify.com/album/42UGulXJ1NenBBDaVo3Vmz) | 4:15 |
 | 25 | [Una Nueva Noche Fría](https://open.spotify.com/track/39KmBOGkD1ztCbVeo2uspA) | [Callejeros](https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw) | [Presión](https://open.spotify.com/album/3Pr88tREtqKF9srgl21jGT) | 4:37 |
-| 26 | [La Razón Que Te Demora](https://open.spotify.com/track/0ljyHIWERJQp8O5LKgKm1l) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Detonador de Sueños](https://open.spotify.com/album/7hHY77bNkcPikVZpC91hvZ) | 4:24 |
+| 26 | [Par Mil](https://open.spotify.com/track/0wUFXsXHZc2h6wKRcmJNWF) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Narigón del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre](https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU) | 3:18 |
 | 27 | [El Farolito](https://open.spotify.com/track/5QpdTr2fHXLF0Oj8TcGHmV) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [3er Arco](https://open.spotify.com/album/2tqxwMkehDRiz4gErUNZ0Q) | 4:13 |
 | 28 | [Chino](https://open.spotify.com/track/3i22RR1yUia5ShKujgQcX3) | [Mancha De Rolando](https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04) | [Espíritu](https://open.spotify.com/album/2ZG0Q9JOUIcQGyDOFTAKYm) | 3:22 |
 | 29 | [Sapo de Otro Pozo](https://open.spotify.com/track/1g0mhq4ZDQE3cTd1XLcYVf) | [Los Caballeros De La Quema](https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW) | [Fulanos de Nadie](https://open.spotify.com/album/5C5gMVVl97LxjXpbZEHYKB) | 4:19 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9ynY7YLqCC.md) - [plain]
 | 77 | [100 Años](https://open.spotify.com/track/7op5RCUvgqOJcKAs4rZw2N) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o) | [Toro Rojo](https://open.spotify.com/album/5RQqvJeGRUrvVbvKGlMceO) | 4:01 |
 | 78 | [Carolina](https://open.spotify.com/track/3dHDEm95M3UJb6KBuDufvK) | [Mancha De Rolando](https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04) | [A Cielo Abierto \- El año del tigre](https://open.spotify.com/album/6flD95j521iLXh4JVL3BNq) | 3:14 |
 | 79 | [El Balneario de los Doctores Crotos](https://open.spotify.com/track/1SmH3Jv3V73B8vPb3p0N3M) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Azul](https://open.spotify.com/album/0ryyNNi9K5iLu7v4uQSJ4c) | 4:04 |
-| 80 | [Lobo](https://open.spotify.com/track/6ZV5I5GntRTLOSNvSHQ1ia) | [Jóvenes Pordioseros](https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4) | [Pánico](https://open.spotify.com/album/1T53gREvUUPSwN2dP1SZRy) | 2:42 |
+| 80 | [Cielo De Un Solo Color](https://open.spotify.com/track/0KQQimYTGg3Rc1bISoSuXl) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Aunque Cueste Ver El Sol](https://open.spotify.com/album/0hIeX3j63GPq4UvoGcA67J) | 4:04 |
 
-Snapshot ID: `MTY2NzgzNjkyNiwwMDAwMDAwMDU5MTQyZTUzNzlmNTEyNTJlNGI0OGJhMGQ5YzI3NDYy`
+Snapshot ID: `MTY2NzgzNjkyNiwwMDAwMDAwMDBmYTRjZmY5YTZkNmUyNWMwYmRlYzBmZGQ4ZDUzNWJi`

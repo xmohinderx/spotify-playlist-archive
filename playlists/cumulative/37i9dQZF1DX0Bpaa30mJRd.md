@@ -4,7 +4,7 @@
 
 > 8/14\(日\)<a href="https://www.promax.co.jp/studiochizu\-inconcert/">オーケストラコンサート</a>初開催！「スタジオ地図」作品の音楽をひとつのプレイリストに。/Music from Studio Chizu's movies\. ©︎2021 スタジオ地図　©︎STUDIO CHIZU
 
-142 songs - 7 hr 23 min - [published](https://open.spotify.com/playlist/5sJWhFREn8Q7NkTPxPZzau)
+143 songs - 7 hr 28 min - [published](https://open.spotify.com/playlist/5sJWhFREn8Q7NkTPxPZzau)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [Future Nursery](https://open.spotify.com/track/3Ue4jSi0eiflQtorKdAgvs) | [Masakatsu Takagi](https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N) | [未来のミライ \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/0Bzynwzh2hAuMo6jGDqjDK) | 2:38 | 2022-06-07 | 2022-07-29 |
 | [Future Nursery](https://open.spotify.com/track/5J4QpLfLp5RyGt2epWw0ZU) | [Masakatsu Takagi](https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N) | [Mirai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3CVU0gY4r5hYuf23oLOszP) | 2:38 | 2022-07-23 |  |
 | [Gales of Song \- English Version](https://open.spotify.com/track/0jD2Fa9VjjtkeCOWyQftdt) | [Belle](https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40) | [Belle \(Original Motion Picture Soundtrack\) \[English Edition\]](https://open.spotify.com/album/7MK9ztclhDon7AgJroo6l4) | 3:59 | 2022-06-07 |  |
-| [Garnet](https://open.spotify.com/track/40jwSjLscs3wDOvYUpaJoB) | [Hanako Oku](https://open.spotify.com/artist/2tOwqfTtAMswbLySSaTRYR) | [Hanako Oku Best \~ My Letters \~](https://open.spotify.com/album/10S0x53VUJYn6Dcw7sY1fq) | 5:20 | 2022-07-23 |  |
+| [Garnet](https://open.spotify.com/track/2rZUu2qXb7SoUNktHKgfky) | [Hanako Oku](https://open.spotify.com/artist/2tOwqfTtAMswbLySSaTRYR) | [Garnet](https://open.spotify.com/album/1OU1yZN4pMh9IVn9YZVjCL) | 5:19 | 2022-08-31 |  |
+| [Garnet](https://open.spotify.com/track/40jwSjLscs3wDOvYUpaJoB) | [Hanako Oku](https://open.spotify.com/artist/2tOwqfTtAMswbLySSaTRYR) | [Hanako Oku Best \~ My Letters \~](https://open.spotify.com/album/10S0x53VUJYn6Dcw7sY1fq) | 5:20 | 2022-07-23 | 2022-11-12 |
 | [Gift](https://open.spotify.com/track/6ThlAevpehqH92HlrPcaz6) | [Masakatsu Takagi](https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N) | [The Boy and The Beast \(Original Soundtrack Album\)](https://open.spotify.com/album/7Ahkr6PnLvSmrwJugM4Bue) | 3:44 | 2022-07-23 |  |
 | [Happy End](https://open.spotify.com/track/2XMBlekDLXHs9e6CnzwGDP) | [Akihiko Matsumoto](https://open.spotify.com/artist/7npYxeGYDN9qZmbxYuzunM) | [Summer Wars \(Original Soundtrack Album\)](https://open.spotify.com/album/7rZZyd2AuWzrNIhJROA0GF) | 2:16 | 2022-07-23 |  |
 | [Happy End](https://open.spotify.com/track/6TNOeaUODaYyu76c06ezuu) | [Akihiko Matsumoto](https://open.spotify.com/artist/7npYxeGYDN9qZmbxYuzunM) | [サマーウォーズ オリジナル・サウンドトラック](https://open.spotify.com/album/17e9w6ZxwFroAAKP9Ybtqa) | 2:16 | 2022-06-07 | 2022-07-29 |

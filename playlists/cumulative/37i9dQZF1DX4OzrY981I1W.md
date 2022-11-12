@@ -4,7 +4,7 @@
 
 > every main character needs their soundtrack
 
-314 songs - 19 hr 4 min - [published](https://open.spotify.com/playlist/0qDhDetE9WNOVsWzIdwgFf)
+317 songs - 19 hr 15 min - [published](https://open.spotify.com/playlist/0qDhDetE9WNOVsWzIdwgFf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [alive](https://open.spotify.com/track/2CRs8EpAcyaEGounRabYQI) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [our little angel \- EP](https://open.spotify.com/album/1bbO5BrzT1CqhZuGh5qHn6) | 3:02 | 2021-03-26 | 2022-07-29 |
 | [All I Want Is You](https://open.spotify.com/track/2t0Ci12vaJaYzEmsJL2S1X) | [Barry Louis Polisar](https://open.spotify.com/artist/6MUxF4ehonXZ8Q6YMFI2xb) | [Naturally Sweetened](https://open.spotify.com/album/1hKnmfw153bNCqN37f7Qx3) | 2:37 | 2021-03-26 | 2022-04-20 |
 | [All These Things That I've Done](https://open.spotify.com/track/0kYUrLVQOfx21xuXu7OGrT) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/4undIeGmofnAYKhnDclN1w) | 5:01 | 2021-03-26 | 2022-07-29 |
-| [All These Things That I've Done](https://open.spotify.com/track/5vollujufHY0jMZxx77VWr) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg) | 5:01 | 2021-03-26 |  |
+| [All These Things That I've Done](https://open.spotify.com/track/5vollujufHY0jMZxx77VWr) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg) | 5:01 | 2021-03-26 | 2022-11-12 |
+| [All These Things That I've Done](https://open.spotify.com/track/65m5l8o19KawZ814Ky7SPl) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Chillax Hits](https://open.spotify.com/album/2FOGiB9hLtTBPpr69ocwaK) | 5:03 | 2022-10-13 |  |
 | [Alright](https://open.spotify.com/track/5xC8uOesnn0udeXAYlAnoY) | [Supergrass](https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU) | [I Should Coco](https://open.spotify.com/album/3YfIjaJEWqiSbKPguS9Bxd) | 3:00 | 2021-03-26 |  |
 | [Always Forever](https://open.spotify.com/track/2enPRFda84VE2wtI8c86Uf) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Static](https://open.spotify.com/album/6WnfWrfsfu7T9TXbHIFHX9) | 3:43 | 2021-03-26 |  |
 | [American Honey](https://open.spotify.com/track/2CG6oeuMEtbL5OvKsyT7JL) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [American Honey](https://open.spotify.com/album/3V9AjOHddNkAIx7fmX9UcP) | 4:13 | 2021-04-02 | 2022-07-16 |
@@ -193,13 +194,15 @@
 | [Mr\. Brightside](https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg) | 3:42 | 2021-03-26 | 2022-11-11 |
 | [Must Be a Cop](https://open.spotify.com/track/3EK8CQiAGRn8iXgzQO4J5Y) | [Husbands](https://open.spotify.com/artist/2FUIaEhxMNdiBpO8ykabdP) | [Must Be a Cop](https://open.spotify.com/album/4igY3gMllO1ThzJpZVjQzO) | 3:49 | 2021-06-11 | 2022-07-29 |
 | [My Girl](https://open.spotify.com/track/6RrXd9Hph4hYR4bf3dbM6H) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [The Temptations Sing Smokey](https://open.spotify.com/album/5H2rffw6MNKGWVKBNWNA4S) | 2:45 | 2021-07-28 | 2022-07-29 |
-| [My Girl](https://open.spotify.com/track/745H5CctFr12Mo7cqa1BMH) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [The Temptations Sing Smokey](https://open.spotify.com/album/45tweuKI0zdh8zgKo05cTw) | 2:45 | 2021-07-28 |  |
+| [My Girl](https://open.spotify.com/track/745H5CctFr12Mo7cqa1BMH) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [The Temptations Sing Smokey](https://open.spotify.com/album/45tweuKI0zdh8zgKo05cTw) | 2:45 | 2021-07-28 | 2022-11-12 |
+| [My Girl \- Single Version/Mono](https://open.spotify.com/track/7sMjzdbSUuhcJIFdR3D8pS) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [Love Songs & Chill](https://open.spotify.com/album/7oHVRFtPa3Tf6h8AAqczOK) | 2:55 | 2022-10-13 |  |
 | [My Type](https://open.spotify.com/track/2Iq6HhIquO7JKr0KfTNLzU) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [My Type EP](https://open.spotify.com/album/2r69WsAMyjbgLf8c4woaUr) | 3:24 | 2021-09-17 | 2022-04-21 |
 | [My Way](https://open.spotify.com/track/3spdoTYpuCpmq19tuD0bOe) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [My Way \(Expanded Edition\)](https://open.spotify.com/album/3IdNQBn7De23AVyv2V67wn) | 4:36 | 2022-02-20 |  |
 | [Never Tear Us Apart](https://open.spotify.com/track/1qQSRy9DjrGh3jtsSCU6B1) | [INXS](https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv) | [Kick](https://open.spotify.com/album/7cuwWzS0oiApEt2fpKafkX) | 3:05 | 2022-01-26 | 2022-04-21 |
 | [New Flesh](https://open.spotify.com/track/6HJxxqHWMdidwTVZmZWeHU) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [Wild Heart](https://open.spotify.com/album/3vYaHUkO7laqYdwUQbnsIP) | 2:47 | 2021-03-26 |  |
 | [New Flesh](https://open.spotify.com/track/6TEiFwaiHERpdfG6WnGed1) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [Wild Heart](https://open.spotify.com/album/2hwXntoP4IIoi7yxHbH7aL) | 2:47 | 2021-03-26 | 2022-04-19 |
 | [New Slang](https://open.spotify.com/track/5oUV6yWdDM0R9Q2CizRhIt) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Oh, Inverted World](https://open.spotify.com/album/34XlrJGfsDhvRDeJ8a6lie) | 3:51 | 2021-03-26 | 2022-04-18 |
+| [New Slang \- 2021 Remaster](https://open.spotify.com/track/0NslHuacjxQYfUTOW3HCIV) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Oh, Inverted World \(20th Anniversary Remaster\)](https://open.spotify.com/album/5XmhHMj5LZLWo32aA6ntKE) | 3:50 | 2022-10-13 |  |
 | [Next to You](https://open.spotify.com/track/3MwHZDGwAR8RjZZBriBqmx) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [Songs from the Valley](https://open.spotify.com/album/2SdtFo4v3o7xfyyEOnXlIH) | 4:16 | 2021-03-26 |  |
 | [Next to You](https://open.spotify.com/track/6KCwPQApuQNQEV0hw93duq) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Next to You](https://open.spotify.com/album/1TdEFwpJ5LAmfdFNSjdok3) | 3:52 | 2021-03-26 | 2022-07-29 |
 | [Nikes On](https://open.spotify.com/track/5z14e4rPImlgk40W33dt0U) | [Healy](https://open.spotify.com/artist/2Yhge9MsE7qKcV0eWsuuHM) | [Nikes On](https://open.spotify.com/album/1g3OgxosiUiccwisdf8mI1) | 2:42 | 2021-03-26 | 2022-04-21 |
@@ -225,7 +228,7 @@
 | [Red](https://open.spotify.com/track/30SZOv4pzwlLVjyom6jhV4) | [bennytheghost](https://open.spotify.com/artist/2RhVihxqFGSR3bDu32i9B2) | [Supersonic](https://open.spotify.com/album/5adPpmpeVycf5j3RtGLuCM) | 2:23 | 2021-06-25 | 2022-04-19 |
 | [RHODODENDRON](https://open.spotify.com/track/5gETHZhvjZ2kBmCwR4RqbY) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [RHODODENDRON](https://open.spotify.com/album/0jd1zjfrmUwnYgKaHU0WSp) | 3:34 | 2021-10-29 | 2022-04-12 |
 | [Ribs](https://open.spotify.com/track/0TEekvXTomKt3hdXDZxxeW) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine \(Extended\)](https://open.spotify.com/album/6rnzvZhe3PA57xKcKLRtJ6) | 4:18 | 2021-03-26 | 2022-07-29 |
-| [Ribs](https://open.spotify.com/track/2MvvoeRt8NcOXWESkxWn3g) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine](https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v) | 4:18 | 2021-03-26 |  |
+| [Ribs](https://open.spotify.com/track/2MvvoeRt8NcOXWESkxWn3g) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine](https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v) | 4:18 | 2021-03-26 | 2022-11-12 |
 | [Right Down the Line](https://open.spotify.com/track/2Xb6wJYGi0QXwURw5WWvI5) | [Gerry Rafferty](https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb) | [City to City](https://open.spotify.com/album/35yZZTWeSrszSKjRlFETwf) | 4:27 | 2022-01-27 |  |
 | [Robbers](https://open.spotify.com/track/06cCziAHtDg6pcsidZHu03) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975 \(Deluxe Version\)](https://open.spotify.com/album/0mkOUedmYlOzCC4tOm2v0c) | 4:14 | 2021-06-15 | 2022-07-03 |
 | [Rollercoaster](https://open.spotify.com/track/5L95vS64rG1YMIFm1hLjyZ) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Strange Desire](https://open.spotify.com/album/0cnNCK2xpudXjB8pzsrYy9) | 3:08 | 2021-03-26 | 2022-04-18 |

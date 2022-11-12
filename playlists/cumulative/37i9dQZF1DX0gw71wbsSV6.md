@@ -4,7 +4,7 @@
 
 > 忙しかった1日の終わりは、半身浴と心に沁みる音楽でゆったりリラックス。
 
-59 songs - 3 hr 29 min - not published yet
+60 songs - 3 hr 32 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Paris in the Rain](https://open.spotify.com/track/41CgzGD7xlgnJe14R4cqkL) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I met you when I was 18\. \(the playlist\)](https://open.spotify.com/album/7lqieLm717j9Z8JrG7POkS) | 3:24 | 2022-10-16 | 2022-11-02 |
 | [Promises](https://open.spotify.com/track/6aQ7nlAEOhhRnsHi6eY0zT) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Mother](https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR) | 4:24 | 2022-10-16 |  |
 | [Sashiiro](https://open.spotify.com/track/21lckxUcSbNjXvevhrEmqt) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Sashiiro](https://open.spotify.com/album/2N7EaA2edo7hIYqsAFmxbI) | 3:03 | 2022-10-16 |  |
+| [Slow Fade](https://open.spotify.com/track/3KAPg0XP3176meHGFGN16F) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Maybe I'll Find You Again](https://open.spotify.com/album/55B16U7z2wQTFlr27JKmdX) | 3:31 | 2022-11-08 |  |
 | [Slumber in Reminiscence](https://open.spotify.com/track/7tuHVPcFSZfnU49JowoEku) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [Slumber in Reminiscence](https://open.spotify.com/album/1BnKk4beQYpjPKqba2fTq0) | 4:58 | 2022-10-16 |  |
 | [someone will love you better](https://open.spotify.com/track/1wyAGxisJ8eiOdfFMSxBu7) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [someone will love you better](https://open.spotify.com/album/6j7jltAZFcJnnPPIJf9ZbP) | 2:51 | 2022-10-16 |  |
 | [Soul Mate](https://open.spotify.com/track/4IOXp1xFiMh5FtSEGim4CO) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [our generation](https://open.spotify.com/album/5MEaV6TQEOzV4l3bhwySJx) | 3:57 | 2022-10-16 |  |
@@ -53,7 +54,7 @@
 | [The Most Beautiful Thing](https://open.spotify.com/track/07koEqsKHZTlGVMC9eoEjO) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [To Let A Good Thing Die](https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz) | 3:55 | 2022-10-16 |  |
 | [The Will To Change](https://open.spotify.com/track/4cFcL2KdBYHJ5z57zcY4mx) | [Moons](https://open.spotify.com/artist/5KokGIQH9RETtCjw72hAt0) | [Best Kept Secret](https://open.spotify.com/album/6trMPOuRdh2cG8lnGaDICj) | 3:51 | 2022-10-16 | 2022-10-26 |
 | [This Town](https://open.spotify.com/track/0qvzXomUDJVaUboy2wMfiS) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Flicker \(Deluxe\)](https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p) | 3:52 | 2022-10-16 | 2022-11-11 |
-| [Throwaway \(with Clairo\)](https://open.spotify.com/track/2MnEG4htbbdfoUsyzxZ4BM) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Dawn](https://open.spotify.com/album/57TxOlFzG9yvAKEdjjm2yB) | 3:00 | 2022-10-16 |  |
+| [Throwaway \(with Clairo\)](https://open.spotify.com/track/2MnEG4htbbdfoUsyzxZ4BM) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Dawn](https://open.spotify.com/album/57TxOlFzG9yvAKEdjjm2yB) | 3:00 | 2022-10-16 | 2022-11-12 |
 | [U.F.O](https://open.spotify.com/track/01LxBtO7yAI4hpP6lxFW1j) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [U.F.O](https://open.spotify.com/album/73rI30alnLXFitAnxHeNG0) | 3:50 | 2022-10-16 |  |
 | [Undrunk](https://open.spotify.com/track/1Pj5oOFzLYELyyeh1IYRK0) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [you ruined new york city for me](https://open.spotify.com/album/4aGGhfTv8mJ9JAiz8dsa0L) | 3:03 | 2022-10-16 | 2022-11-11 |
 | [WFM](https://open.spotify.com/track/1DNA2z7Txysjk3cNz2nDLm) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [WFM](https://open.spotify.com/album/0bhFNhb3j8MRYLFXvnIXGp) | 2:16 | 2022-10-16 | 2022-10-31 |

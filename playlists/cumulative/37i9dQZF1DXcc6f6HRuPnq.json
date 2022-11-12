@@ -633,6 +633,24 @@
     {
       "album": {
         "name": "Me and Mr. Johnson",
+        "url": "https://open.spotify.com/album/3DgSNj2EanKS98ViJovfrh"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246493,
+      "name": "Kind Hearted Woman Blues",
+      "url": "https://open.spotify.com/track/3bDhok0xhx7ihIGWdt9Ft0"
+    },
+    {
+      "album": {
+        "name": "Me and Mr. Johnson",
         "url": "https://open.spotify.com/album/19Nhw4EECcCOj2379B8idV"
       },
       "artists": [
@@ -769,7 +787,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 380493,
       "name": "Luther's Blues",
       "url": "https://open.spotify.com/track/0GvTuG8uhF45s8yT3aYPH4"
@@ -1105,7 +1123,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 249626,
       "name": "Ships On The Ocean",
       "url": "https://open.spotify.com/track/28fsOjMzmiw6iphB2ty19x"
@@ -1213,7 +1231,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-19",
+      "date_removed": null,
       "duration_ms": 330733,
       "name": "Sweet Little Angel",
       "url": "https://open.spotify.com/track/14DtWZA10VU7PZLxM5vO6g"

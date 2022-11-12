@@ -4,7 +4,7 @@
 
 > So you think you got pocket? Cover: Nate Smith
 
-70 songs - 5 hr 54 min - [published](https://open.spotify.com/playlist/15lxGNaHMFbMSCk4fEh6qG)
+71 songs - 6 hr 2 min - [published](https://open.spotify.com/playlist/15lxGNaHMFbMSCk4fEh6qG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,8 @@
 | [Porky & Beans](https://open.spotify.com/track/6LcZLOWOzQGFQzRDtqefSq) | [Jeff Berlin](https://open.spotify.com/artist/4S6LWQMlfbLPNrXLY7RxI1) | [Aneurythms](https://open.spotify.com/album/6u8f8EVidJ6TJ3lRIZ4dMR) | 6:24 | 2022-06-01 |  |
 | [Rat Race](https://open.spotify.com/track/1n7F3VHwutsmLtIJkvApGF) | [Steve Gadd Band](https://open.spotify.com/artist/6fkgidiemSuq1JH28K50Mm), [Walt Fowler](https://open.spotify.com/artist/0zaC6HTwesZn36o2dLFo8p), [Kevin Hays](https://open.spotify.com/artist/2uOemiMYq8Lh6yzwELpb3J), [Jimmy Johnson](https://open.spotify.com/artist/4piaw0UhXEi9S0G5CyJo2B), [Michael Landau](https://open.spotify.com/artist/6kXe2uPLJcKyNrSUmR21Cw) | [Steve Gadd Band](https://open.spotify.com/album/5obQrSfICxA2t8evZPrrax) | 6:35 | 2022-06-01 |  |
 | [Schizophrenic](https://open.spotify.com/track/1LJGpXcyLRgdaq2x5WpqCc) | [Oz Noy](https://open.spotify.com/artist/0AM6acfaheGmY5egsH0shd), [Will Lee](https://open.spotify.com/artist/4yfYzng7htuuRXosAJYtun), [Anton Fig](https://open.spotify.com/artist/5xeqgtq9Fkg7XBHuPEm9pf), [Keith Carlock](https://open.spotify.com/artist/1YWzPk73P8Qa1sHvlBEadR), [Steve Lukather](https://open.spotify.com/artist/7vLNQciZsWdkYFCqY2osFM), [Ricky Peterson](https://open.spotify.com/artist/1SB2erkfFBYuaaQLuFmNLk) | [Schizophrenic](https://open.spotify.com/album/2HWoSy3RtGX0KzDWGtMY6e) | 7:12 | 2022-06-01 |  |
-| [Smack 'em](https://open.spotify.com/track/0vlHJxm2m5GUdUnhBl5WFK) | [Ghost\-Note](https://open.spotify.com/artist/55BOGnEb0pUuAgbxAwwbKV), [Brandon "TAZ" Niederauer](https://open.spotify.com/artist/2bmHKyjcdyqTMUxVbhZJth) | [Swagism](https://open.spotify.com/album/1nbt7NWLOOyx5uLo2j6Pwu) | 8:19 | 2022-06-01 |  |
+| [Smack 'em](https://open.spotify.com/track/0Sd3ETtCBWEEbZAn8P84OZ) | [Ghost\-Note](https://open.spotify.com/artist/55BOGnEb0pUuAgbxAwwbKV), [Brandon "TAZ" Niederauer](https://open.spotify.com/artist/1vHiRPRvebdIAqfoZWJNEZ) | [Swagism](https://open.spotify.com/album/1W3Ze7eoWkAw32AjCRx0Zt) | 8:19 | 2022-06-01 |  |
+| [Smack 'em](https://open.spotify.com/track/0vlHJxm2m5GUdUnhBl5WFK) | [Ghost\-Note](https://open.spotify.com/artist/55BOGnEb0pUuAgbxAwwbKV), [Brandon "TAZ" Niederauer](https://open.spotify.com/artist/2bmHKyjcdyqTMUxVbhZJth) | [Swagism](https://open.spotify.com/album/1nbt7NWLOOyx5uLo2j6Pwu) | 8:19 | 2022-06-01 | 2022-11-12 |
 | [Snake Soda](https://open.spotify.com/track/3CzE9dKwc3twdA6jFnytCY) | [Steve Smith](https://open.spotify.com/artist/7pnpCbCBCIHvkCqrXSib0z), [Scott Henderson](https://open.spotify.com/artist/7iqVI0BpCxVVHyVyGSfAmn), [Victor Wooten](https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj) | [Vital Techtones](https://open.spotify.com/album/6d7fOKSVvPBoTVIWPJB2Ed) | 5:35 | 2022-06-01 |  |
 | [Some Skunk Funk](https://open.spotify.com/track/4cJC5AjLjRUH2qtemrqLbD) | [The Brecker Brothers](https://open.spotify.com/artist/45rpaf8BR69NIPqmeAYb7l) | [The Brecker Bros](https://open.spotify.com/album/3mXY4gBVlEzTk4DVGhFTpZ) | 5:50 | 2022-06-01 |  |
 | [Soulfood](https://open.spotify.com/track/7hKYe97oY5C9mnAUtvou0Z) | [Benny Greb](https://open.spotify.com/artist/5hjhUiwzXZliQMmqqkYT81) | [Moving Parts](https://open.spotify.com/album/0VsSMSEd9tg01yrYIVJgh0) | 6:02 | 2022-06-01 |  |

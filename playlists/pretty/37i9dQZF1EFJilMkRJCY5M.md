@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4aaDnIu6X4bZwMQ2yc4YAg">Emily Falvey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82 likes - 72 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 83 likes - 72 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,10 +33,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 | 23 | [Ghost Of My Past](https://open.spotify.com/track/0zDftqIhxEhl9AfGiCvgGh) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Legacy](https://open.spotify.com/album/6NnwmqK1adZp3yXObpoD0W) | 3:36 |
 | 24 | [8 Months](https://open.spotify.com/track/0T5l2AP5TL84CK1KQ499B7) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [Born in July \(The Album\)](https://open.spotify.com/album/6Xz5OPkS6RCcmQ1hA7JUaO) | 2:40 |
 | 25 | [Side Of My Heart](https://open.spotify.com/track/1Ek06P8GYs1HF5ePUsW0mx) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Side Of My Heart](https://open.spotify.com/album/23EzioEmU2OX3sZOi6YgJb) | 3:13 |
-| 26 | [Numb](https://open.spotify.com/track/17XexdiAjHvTdNj24ayQle) | [Elephants Everywhere](https://open.spotify.com/artist/6BWEZz5zvfJGBjJZhlAWM5), [FOSTER](https://open.spotify.com/artist/4wl3djIA2tCPxv3pH7Rs0M) | [Numb](https://open.spotify.com/album/1MSGqY6VGYPektAZVtGosL) | 3:34 |
-| 27 | [lose a friend](https://open.spotify.com/track/0Cw21zwpYtEsRtX1ahlC5O) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [night, love you.](https://open.spotify.com/album/58J1HN0dJl1pkTwu1YGJSq) | 3:07 |
-| 28 | [I Didn't Love You](https://open.spotify.com/track/0PgPGluNJgg4Tzy9sTmTeq) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq) | [I Didn't Love You](https://open.spotify.com/album/0pdfobBNkrXR21XW204Sws) | 2:59 |
-| 29 | [Alabama Nights](https://open.spotify.com/track/0wKZraHIi51smdFZOjJgc5) | [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1) | [Alabama Nights](https://open.spotify.com/album/3oE0zEeUQbTKpnFyVUA1uj) | 3:10 |
+| 26 | [Alabama Nights](https://open.spotify.com/track/0wKZraHIi51smdFZOjJgc5) | [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1) | [Alabama Nights](https://open.spotify.com/album/3oE0zEeUQbTKpnFyVUA1uj) | 3:10 |
+| 27 | [Numb](https://open.spotify.com/track/17XexdiAjHvTdNj24ayQle) | [Elephants Everywhere](https://open.spotify.com/artist/6BWEZz5zvfJGBjJZhlAWM5), [FOSTER](https://open.spotify.com/artist/4wl3djIA2tCPxv3pH7Rs0M) | [Numb](https://open.spotify.com/album/1MSGqY6VGYPektAZVtGosL) | 3:34 |
+| 28 | [lose a friend](https://open.spotify.com/track/0Cw21zwpYtEsRtX1ahlC5O) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [night, love you.](https://open.spotify.com/album/58J1HN0dJl1pkTwu1YGJSq) | 3:07 |
+| 29 | [I Didn't Love You](https://open.spotify.com/track/0PgPGluNJgg4Tzy9sTmTeq) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq) | [I Didn't Love You](https://open.spotify.com/album/0pdfobBNkrXR21XW204Sws) | 2:59 |
 | 30 | [Mean To Me](https://open.spotify.com/track/0UzuBW8HXoez3hmI1AoN3J) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [Born in July](https://open.spotify.com/album/3Y22F7f6OISIYwTirf2E6R) | 3:01 |
 | 31 | [Hope](https://open.spotify.com/track/096ZnSaLLYkslAd9oVXtp4) | [Texada](https://open.spotify.com/artist/39PgoLIR1mXfy0AktyYumn) | [Hope](https://open.spotify.com/album/6cHlVeJ95y7fhhaSjARwyN) | 3:33 |
 | 32 | [Make You Stay](https://open.spotify.com/track/0v5XilXB3wnpwIbyxiIaOh) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq) | [Backseats and Burnt CDs](https://open.spotify.com/album/1OqREMCBqRnAvoe86lT30y) | 2:50 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 | 71 | [Are We Still Good](https://open.spotify.com/track/1E4lKGhLeldkoBiocnsptN) | [Forrest Finn](https://open.spotify.com/artist/4CHpwd1pdYUKJaGKbElg3m) | [Spotlight](https://open.spotify.com/album/7uj8AZOnobHVP6GEwGlCj0) | 2:57 |
 | 72 | [Parallel Universe](https://open.spotify.com/track/7Bjeh8lHQZMolHSm4kX2Ie) | [Navyhue](https://open.spotify.com/artist/1ab6W5waGBlE1nmkVtLdX5) | [Parallel Universe](https://open.spotify.com/album/00zC5ot02HOcq5pf9odGIw) | 3:32 |
 
-Snapshot ID: `Mjc4MDIxNjAsMDAwMDAwMDBiYzZhYWQ0NTgxZjgxNDVmZjdjNGYwOTI2MjhkN2E3ZA==`
+Snapshot ID: `Mjc4MDM4NDAsMDAwMDAwMDAxOTc3NzY0OWQzZGRjMDYzYmQ1MmI4ZjBiYTVlOGQ5Ng==`

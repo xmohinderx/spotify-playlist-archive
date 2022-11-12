@@ -1030,6 +1030,24 @@
     },
     {
       "album": {
+        "name": "Christmas Rock 2020",
+        "url": "https://open.spotify.com/album/5wyjx7FJDmA9puWO2tdHk3"
+      },
+      "artists": [
+        {
+          "name": "The Vamps",
+          "url": "https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135206,
+      "name": "Jingle Bell Rock",
+      "url": "https://open.spotify.com/track/0CkxfYH7Q7XMhxYQmsY2r9"
+    },
+    {
+      "album": {
         "name": "Meet The Vamps (Christmas Edition)",
         "url": "https://open.spotify.com/album/2uFYxUG2I67ddvtgP8W7Gt"
       },
@@ -1041,7 +1059,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 135206,
       "name": "Jingle Bell Rock",
       "url": "https://open.spotify.com/track/5WcBc2jpgWemNJFz5K5s2B"
@@ -1504,6 +1522,24 @@
     },
     {
       "album": {
+        "name": "Family Christmas Singalong",
+        "url": "https://open.spotify.com/album/66geHFCxf6P76sww1sCHHA"
+      },
+      "artists": [
+        {
+          "name": "The Crystals",
+          "url": "https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151093,
+      "name": "Rudolph the Red-Nosed Reindeer",
+      "url": "https://open.spotify.com/track/6CKN3aSdYCWAGE8VIxY2oI"
+    },
+    {
+      "album": {
         "name": "A Christmas Gift For You From Phil Spector",
         "url": "https://open.spotify.com/album/2kzkwgOFAtRsDsas5Hi0Qu"
       },
@@ -1515,7 +1551,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 151133,
       "name": "Rudolph the Red-Nosed Reindeer",
       "url": "https://open.spotify.com/track/24bMh8AF6XZsklVgnHwlrP"
@@ -1569,10 +1605,46 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 144013,
       "name": "Santa Claus Is Coming To Town",
       "url": "https://open.spotify.com/track/2QpN1ZVw8eJO5f7WcvUA1k"
+    },
+    {
+      "album": {
+        "name": "Weihnachtssongs",
+        "url": "https://open.spotify.com/album/2ShvJ5qGxzgHD7u2Ukj1Wq"
+      },
+      "artists": [
+        {
+          "name": "The Jackson 5",
+          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144080,
+      "name": "Santa Claus Is Coming To Town",
+      "url": "https://open.spotify.com/track/3eqD8kifaVLMNJS1zRk73b"
+    },
+    {
+      "album": {
+        "name": "\u015aWI\u0118TA, \u015aWI\u0118TA",
+        "url": "https://open.spotify.com/album/2Z0Yk8D7w4nj9thNNZSwub"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203931,
+      "name": "Santa Tell Me",
+      "url": "https://open.spotify.com/track/0un8vLp0hSudAJNLjImTEE"
     },
     {
       "album": {
@@ -1587,7 +1659,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 204093,
       "name": "Santa Tell Me",
       "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"

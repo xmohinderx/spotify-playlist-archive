@@ -4,24 +4,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11ghcIxjcjE.md) - [plain]
 
 > Grunge will live forever\. Cover: Eddie Vedder
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,347,662 likes - 60 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,348,567 likes - 60 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Alive](https://open.spotify.com/track/1L94M3KIu7QluZe63g64rv) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Ten](https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a) | 5:40 |
 | 2 | [Black Hole Sun](https://open.spotify.com/track/5C3u9qldqLoudrLuTFiKB2) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [ROCKOVÝ MEJDAN](https://open.spotify.com/album/31a2yL6LGznj4rBvOcxIw6) | 5:18 |
-| 3 | [Smells Like Teen Spirit](https://open.spotify.com/track/5ghIJDpPoe3CfHMGu71E6T) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 5:01 |
+| 3 | [Smells Like Teen Spirit \- Remastered 2021](https://open.spotify.com/track/4TMhakloPMPS84lNHNTSa3) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(30th Anniversary Super Deluxe\)](https://open.spotify.com/album/5eA0qtE7Yu29XiMlwoby2G) | 5:00 |
 | 4 | [Would? \(2022 Remaster\)](https://open.spotify.com/track/5sFDReWLrZHLFZFjHsjUTS) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Dirt \(2022 Remaster\)](https://open.spotify.com/album/58NXIEYqmq5dQHg9nV9duM) | 3:26 |
 | 5 | [Hunger Strike \- 25th Anniversary Mix](https://open.spotify.com/track/3CtphwpjC0XjIVpLFvGiQR) | [Temple Of The Dog](https://open.spotify.com/artist/0iHb0mCbqZTYeb4y9Pirrd) | [Temple Of The Dog \(Deluxe Edition\)](https://open.spotify.com/album/1mMy79IOzwQyoD6dg8568p) | 4:06 |
 | 6 | [Plush](https://open.spotify.com/track/5GOKfNUgDVWtcDg9DEIn5L) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [The 90s Album](https://open.spotify.com/album/6SzncloJo8iKpSEmDyRAIC) | 5:10 |
 | 7 | [Even Flow](https://open.spotify.com/track/6QewNVIDKdSl8Y3ycuHIei) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Ten](https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a) | 4:52 |
-| 8 | [All Apologies](https://open.spotify.com/track/1Ic9pKxGSJGM0LKeqf6lGe) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [In Utero \- 20th Anniversary Remaster](https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr) | 3:53 |
+| 8 | [All Apologies](https://open.spotify.com/track/7yaCciuyB1IhgMvLBE8Wa4) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [In Utero \- 20th Anniversary \- Deluxe Edition](https://open.spotify.com/album/6ohX7moZZnF1FwYrli1OJ6) | 3:50 |
 | 9 | [Man in the Box](https://open.spotify.com/track/6gZVQvQZOFpzIy3HblJ20F) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Facelift](https://open.spotify.com/album/5LbHbwejgZXRZAgzVAjkhj) | 4:45 |
 | 10 | [Fell On Black Days](https://open.spotify.com/track/23oLf1tHAx4B9L0xl4RteJ) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Cleaning At Home \- Rock Edition](https://open.spotify.com/album/0gV26aCaFuk8BUxD9NnBV8) | 4:43 |
 | 11 | [Interstate Love Song](https://open.spotify.com/track/3s24STboy0ePoq43WIciIo) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [Fm 90s Rock](https://open.spotify.com/album/65ZT1QAEuQqL9ZeGRfmviF) | 3:13 |
 | 12 | [Far Behind](https://open.spotify.com/track/3mhOmh4tRKsMfnRmgZfeBm) | [Candlebox](https://open.spotify.com/artist/3R6c2tWDBeYB1GncjLMn9n) | [Candlebox](https://open.spotify.com/album/401V2sVeZfq8bjBqojsPRb) | 4:59 |
 | 13 | [Nutshell](https://open.spotify.com/track/2JuasWPUodaUxf5nwNpciQ) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Jar Of Flies](https://open.spotify.com/album/4FCoFSNIFhK36holxHWCnc) | 4:19 |
-| 14 | [Heart\-Shaped Box](https://open.spotify.com/track/11LmqTE2naFULdEP94AUBa) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [In Utero \- 20th Anniversary \- Deluxe Edition](https://open.spotify.com/album/6ohX7moZZnF1FwYrli1OJ6) | 4:41 |
+| 14 | [Heart\-Shaped Box](https://open.spotify.com/track/144IMbY4x1EeUnjYr2uDcB) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [In Utero \- 20th Anniversary Super Deluxe](https://open.spotify.com/album/14VVqBoDw1SxoNLW3Cj3mN) | 4:41 |
 | 15 | [Jeremy](https://open.spotify.com/track/62nQ8UZVqR2RMvkJHkcO2o) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Ten](https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a) | 5:18 |
 | 16 | [Glycerine](https://open.spotify.com/track/7wpYSigAhQeZp3cdsMQ3Af) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [Sixteen Stone \(Remastered\)](https://open.spotify.com/album/5IJm0boSQuEBLiYNZJKV2Y) | 4:26 |
 | 17 | [Rooster \(2022 Remaster\)](https://open.spotify.com/track/0wvIGFIgbyz4JNwQhZgTv2) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Dirt \(2022 Remaster\)](https://open.spotify.com/album/58NXIEYqmq5dQHg9nV9duM) | 6:14 |
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11ghcIxjcjE.md) - [plain]
 | 19 | [Yellow Ledbetter](https://open.spotify.com/track/3bE5slaVEfaDreqARl6k4M) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Jeremy](https://open.spotify.com/album/1WJ3UbOi2QYGuRgXCc9FIV) | 5:03 |
 | 20 | [About A Girl](https://open.spotify.com/track/55yvzYuvJYG2RUEnMK78tr) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nirvana](https://open.spotify.com/album/5zBPRXCAc801vyHWoRurNZ) | 2:46 |
 | 21 | [River Of Deceit](https://open.spotify.com/track/3e2fDgC93LGc9Lbdvr6I9k) | [Mad Season](https://open.spotify.com/artist/0T7JQxpy1Li93vLNirbv0Z) | [Above](https://open.spotify.com/album/24eGklcEnMaVcGXzmJSeoD) | 5:02 |
-| 22 | [Creep \- 2017 Remaster](https://open.spotify.com/track/6dmueYtoihUhlQZlImBCmm) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [Core \(Super Deluxe Edition\)](https://open.spotify.com/album/5kxuokOacguIqDJRh1ZXRC) | 5:34 |
+| 22 | [Creep \- New Version; 2017 Remaster](https://open.spotify.com/track/0PYVTx3BHoEJ09TlTyamoF) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [Core \(Super Deluxe Edition\)](https://open.spotify.com/album/5kxuokOacguIqDJRh1ZXRC) | 5:34 |
 | 23 | [Daughter \- Remastered](https://open.spotify.com/track/53eJFr4Mfbw5PXJ01K6cFw) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Vs.](https://open.spotify.com/album/3BSOiAas8BpJOii3kCPyjV) | 3:54 |
 | 24 | [Spoonman](https://open.spotify.com/track/1jMaB19DiVR8OihLSuYFOt) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Superunknown \(20th Anniversary\)](https://open.spotify.com/album/4K8bxkPDa5HENw0TK7WxJh) | 4:06 |
 | 25 | [No Rain](https://open.spotify.com/track/6txWz9UapYHVxEd7dDIHXT) | [Blind Melon](https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd) | [Blind Melon](https://open.spotify.com/album/55jET4vDioHHd7ztX7OX3h) | 3:37 |
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11ghcIxjcjE.md) - [plain]
 | 27 | [Seasons](https://open.spotify.com/track/4QglwXpVgc088RhQOp42vx) | [Chris Cornell](https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I) | [Singles \- Original Motion Picture Soundtrack](https://open.spotify.com/album/58BEJ01sL8wK5LV3TPyngC) | 5:45 |
 | 28 | [Come As You Are \- Remastered 2021](https://open.spotify.com/track/1MsfdAHNRX2T1BWmkpj87C) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(30th Anniversary Super Deluxe\)](https://open.spotify.com/album/5eA0qtE7Yu29XiMlwoby2G) | 3:38 |
 | 29 | [Say Hello 2 Heaven \- 25th Anniversary Mix](https://open.spotify.com/track/6gpai6xL08vD5mQ4fXTwxL) | [Temple Of The Dog](https://open.spotify.com/artist/0iHb0mCbqZTYeb4y9Pirrd) | [Temple Of The Dog \(Deluxe Edition\)](https://open.spotify.com/album/1mMy79IOzwQyoD6dg8568p) | 6:24 |
-| 30 | [Rusty Cage \- Remastered](https://open.spotify.com/track/6hqIXyo6GxydAnoI8XeIrV) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Badmotorfinger \(25th Anniversary Remaster\)](https://open.spotify.com/album/2W6MaUiInBkna5DfBES4E3) | 4:26 |
+| 30 | [Rusty Cage \- Remastered](https://open.spotify.com/track/5s7H2WdiY7pnEX3rc8jDOK) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Chris Cornell \(Deluxe Edition\)](https://open.spotify.com/album/1BLVdtavgYFMQvzvX3oHpe) | 4:26 |
 | 31 | [I Don't Know Anything](https://open.spotify.com/track/5DRUgJmwLvCHQjiFzb4LSQ) | [Mad Season](https://open.spotify.com/artist/0T7JQxpy1Li93vLNirbv0Z) | [Above \(Deluxe Edition\)](https://open.spotify.com/album/1cqta2uSKVYdom7CRMGDwn) | 5:00 |
 | 32 | [Alone + Easy Target](https://open.spotify.com/track/5XUpAb2zC8G404RPkwb09H) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Foo Fighters](https://open.spotify.com/album/4EnNuo8fG7dMoxMefbApRY) | 4:05 |
 | 33 | [Sex Type Thing](https://open.spotify.com/track/09mOwyJzQCnD2Agh1n5Flq) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [Wake Up Rock](https://open.spotify.com/album/54Yda6MBsw8KAecP5rDD4B) | 3:38 |
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11ghcIxjcjE.md) - [plain]
 | 53 | [Start Choppin \- 2019 Remaster](https://open.spotify.com/track/6Rl7bI0f22xipMeYxZaSU7) | [Dinosaur Jr.](https://open.spotify.com/artist/267VY6GX5LyU5c9M85ECZQ) | [Where You Been \(Expanded & Remastered Edition\)](https://open.spotify.com/album/44rVuw00iGfIh28WcJMDyj) | 5:38 |
 | 54 | [Swallow My Pride](https://open.spotify.com/track/1LvJ1PFobtIm5DwzRrK0jG) | [Green River](https://open.spotify.com/artist/1XIIxzmo6BNRR4QkImSdsX) | [Dry as a Bone/Rehab Doll](https://open.spotify.com/album/1yfs3jV84tLJf7i3dSHEDU) | 2:59 |
 | 55 | [Leafy Incline](https://open.spotify.com/track/3YsG8BwqrJzM3DOqYpFLp0) | [Tad](https://open.spotify.com/artist/2mncWLPUUFpNvBLkHzTsDO) | [Inhaler](https://open.spotify.com/album/4WpEzQ3Vc4qG1Ro41EG88K) | 3:30 |
-| 56 | [This Is Shangrila](https://open.spotify.com/track/7lznzPjPyRFdcYaD9gN7a3) | [Mother Love Bone](https://open.spotify.com/artist/3XR64HmFo4OvexUUNW7TP0) | [Apple](https://open.spotify.com/album/29Z58CSd0WX6E03bRbhHAK) | 3:40 |
+| 56 | [This Is Shangrila](https://open.spotify.com/track/6lysobKPEYLbstdZs0F0VL) | [Mother Love Bone](https://open.spotify.com/artist/3XR64HmFo4OvexUUNW7TP0) | [Mother Love Bone](https://open.spotify.com/album/5ohJawP6UajQ6ZIjWxnvM6) | 3:42 |
 | 57 | [Losing Skin](https://open.spotify.com/track/36CTxkvfEPmhZ95y2le5F2) | [Seaweed](https://open.spotify.com/artist/4jzHHEC3qk1j4hnIWPUnsu) | [Four](https://open.spotify.com/album/6lVKbAVHamg1as6lEr7r1G) | 2:43 |
 | 58 | [Suck You Dry \- 2008 Remaster](https://open.spotify.com/track/3Fg4SlOiqKDodVJbAM2Gut) | [Mudhoney](https://open.spotify.com/artist/7LuYiSXiWs86rwWJjEEgB9) | [Piece Of Cake](https://open.spotify.com/album/3CNnWJLxLMowI9DYqgLLeq) | 2:34 |
 | 59 | [Jezebel Woman](https://open.spotify.com/track/5eXJylmFFCqixTxJGYKny8) | [Malfunkshun](https://open.spotify.com/artist/6iQ35vbjuK5T4QkhihmNih) | [Return To Olympus](https://open.spotify.com/album/10qfgSLG6xxI1OEQX9oZAE) | 4:31 |
 | 60 | [Six Foot Under](https://open.spotify.com/track/6AZFTXEbrftYn5Ca0PaKru) | [Blood Circus](https://open.spotify.com/artist/3RJbkbBAHUe5EEw7dpDVUV) | [Dead Beats](https://open.spotify.com/album/4OocizHrG47twaG6A7KDGA) | 3:52 |
 
-Snapshot ID: `MTY2NjA3NDc2OSwwMDAwMDAwMDg2ZDMxMjE5NDY0OTZhZjM0N2QxMmM1NmQ0MjU0Mjdk`
+Snapshot ID: `MTY2NjA3NDc2OSwwMDAwMDAwMDBjOTViZjNiODNiYzY5YjVlMmVjZTc4Y2QxNjNlMzk0`

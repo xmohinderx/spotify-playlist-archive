@@ -860,6 +860,24 @@
     },
     {
       "album": {
+        "name": "Blood Harmony",
+        "url": "https://open.spotify.com/album/0Xf5P65OiLJlSF9h6DmZqe"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199874,
+      "name": "Deep Stays Down",
+      "url": "https://open.spotify.com/track/4ludCkJK1UF7PbxsbQMHDg"
+    },
+    {
+      "album": {
         "name": "A Season On The Line",
         "url": "https://open.spotify.com/album/3WUZZCDyqL7k7TyOb2At4x"
       },
@@ -907,10 +925,28 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 184173,
       "name": "Don't",
       "url": "https://open.spotify.com/track/53gcrsL88v3wfNiNqTZpxt"
+    },
+    {
+      "album": {
+        "name": "Reskinned",
+        "url": "https://open.spotify.com/album/4UwbVHSo5yrp4jkOIrKsRo"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185186,
+      "name": "Don't",
+      "url": "https://open.spotify.com/track/4U1PmzXRzbWxF01hiNheF4"
     },
     {
       "album": {
@@ -3141,6 +3177,24 @@
     {
       "album": {
         "name": "Muchacho De Lujo (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1UOsSIa6LomFrd5Mcc7F7r"
+      },
+      "artists": [
+        {
+          "name": "Phosphorescent",
+          "url": "https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224906,
+      "name": "Ride On / Right On",
+      "url": "https://open.spotify.com/track/47UiG7oQsHiyu5UYu0nled"
+    },
+    {
+      "album": {
+        "name": "Muchacho De Lujo (Deluxe Edition)",
         "url": "https://open.spotify.com/album/19C3Ferv8ZiWTOpCfxN2S1"
       },
       "artists": [
@@ -3169,7 +3223,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 224906,
       "name": "Ride On / Right On",
       "url": "https://open.spotify.com/track/7Ep6MLL8ATx0fFczswsvR5"
@@ -4060,6 +4114,24 @@
     },
     {
       "album": {
+        "name": "That's How Rumors Get Started (Deluxe)",
+        "url": "https://open.spotify.com/album/4rEIEoPMRiqb6OW224VBhb"
+      },
+      "artists": [
+        {
+          "name": "Margo Price",
+          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211480,
+      "name": "Twinkle Twinkle",
+      "url": "https://open.spotify.com/track/6wAJPvzxvC5BVf9pxXkVyW"
+    },
+    {
+      "album": {
         "name": "That's How Rumors Get Started",
         "url": "https://open.spotify.com/album/0QFMgwRbj0jhGR8FEAmVdL"
       },
@@ -4071,7 +4143,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 211586,
       "name": "Twinkle Twinkle",
       "url": "https://open.spotify.com/track/4txC9c27Rw0GNtZzDKn1wW"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ziVCJnEm59.md) - [plain]
 
 > Curl up in your favorite spot with some sweet, mellow tunes...
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,019,924 likes - 125 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,020,649 likes - 125 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ziVCJnEm59.md) - [plain]
 | 62 | [Victory](https://open.spotify.com/track/1oqnATF6AFH93dCBrDqBTP) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [The Third Gleam](https://open.spotify.com/album/6qHVJFxoizJAdhB7CdbaV2) | 3:53 |
 | 63 | [True North](https://open.spotify.com/track/5vvuajXbTuucQDpcwvKKye) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [True North](https://open.spotify.com/album/1XGrCmcWifmmiKfpK4nwm2) | 2:17 |
 | 64 | [London's Song](https://open.spotify.com/track/1Mk9ou2m6hsEZJYuNRJFpO) | [Matt Hartke](https://open.spotify.com/artist/6OkqAt7MtIDPOadHr1gEkz) | [London's Song](https://open.spotify.com/album/7znWNtOhMKIQiYUldh2Rmr) | 2:58 |
-| 65 | [All Is Well](https://open.spotify.com/track/3KAQ4xe2sR6IiltZw8HSA5) | [Austin Basham](https://open.spotify.com/artist/3Dd1WVQvZUgyi9XEqOIPhA) | [You and Me for Now](https://open.spotify.com/album/5KPl7k36JzLxe4bisDG8S4) | 4:16 |
+| 65 | [All Is Well](https://open.spotify.com/track/27B803q0KBf9fmoAAK7V9h) | [Austin Basham](https://open.spotify.com/artist/3Dd1WVQvZUgyi9XEqOIPhA) | [Linton / / Oslo](https://open.spotify.com/album/7c88HZqfqsdRmc7XqYBGny) | 4:16 |
 | 66 | [Eye to Eye \(feat\. Sarah Jarosz\)](https://open.spotify.com/track/2Sid8tsyv4YOmlH3FL1UOz) | [John Smith](https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2), [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [The Fray](https://open.spotify.com/album/1r16zCSIhxkc5b9dSQ9DpT) | 3:51 |
 | 67 | [Love Brought Weight](https://open.spotify.com/track/66deoxrDAEK7Qg1p0Vioxe) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Old Sea Brigade](https://open.spotify.com/album/0uupKOJsjqW7JF3ridoy20) | 3:05 |
 | 68 | [I, Nietzsche \- acoustic](https://open.spotify.com/track/6MlkAE5cSjfgOch8zc2eK5) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [I, Nietzsche \(acoustic\)](https://open.spotify.com/album/4NYdXRJl3vHcjiay4yF7JW) | 2:34 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ziVCJnEm59.md) - [plain]
 | 124 | [Only Children](https://open.spotify.com/track/6BzU6BMqMd4qelkWTjLwKy) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [Reunions](https://open.spotify.com/album/5XIafkwTpyvL7jjLJx1xKz) | 3:57 |
 | 125 | [Going In](https://open.spotify.com/track/51Zo4yemKVPqpmRxOZfYiX) | [Wild Child](https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK), [The Song Confessional](https://open.spotify.com/artist/3zM0frH8HgM7cK5OXpHu4E) | [Going In](https://open.spotify.com/album/76LMmHE9JB7GDA0ihlRlpH) | 2:41 |
 
-Snapshot ID: `MTY1OTM3NDY4MiwwMDAwMDAwMDZmNjA0MTBlZmJjNTIxYmUyMDM2ZWE2NjM5Y2RmMGEy`
+Snapshot ID: `MTY1OTM3NDY4MiwwMDAwMDAwMDlhMTk1NmJlNzVkMjcwOTQwYjA5MTM4NmE2MzIxYTcw`

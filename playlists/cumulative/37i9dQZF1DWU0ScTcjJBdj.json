@@ -1198,6 +1198,28 @@
     },
     {
       "album": {
+        "name": "Getting It Right",
+        "url": "https://open.spotify.com/album/3zA17MmyBmEogW6WHIDsWj"
+      },
+      "artists": [
+        {
+          "name": "Caitlin Rose",
+          "url": "https://open.spotify.com/artist/41LGTx1fpA69G2ZAJKZntM"
+        },
+        {
+          "name": "Courtney Marie Andrews",
+          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170280,
+      "name": "Getting It Right",
+      "url": "https://open.spotify.com/track/3W2DvPUsPGyCbfBZEgqPn8"
+    },
+    {
+      "album": {
         "name": "Give Me The Reason (Stripped Acoustic)",
         "url": "https://open.spotify.com/album/3EtG50pcQ4QExmabzcHnzn"
       },
@@ -2322,6 +2344,24 @@
     },
     {
       "album": {
+        "name": "Voodoo",
+        "url": "https://open.spotify.com/album/21AHYRK63m0XxdQCeGKhzD"
+      },
+      "artists": [
+        {
+          "name": "Penny and Sparrow",
+          "url": "https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189282,
+      "name": "Need You",
+      "url": "https://open.spotify.com/track/1W12DZMEZi3mV3cTpkwGF2"
+    },
+    {
+      "album": {
         "name": "Olly Olly",
         "url": "https://open.spotify.com/album/6898mgjdVWLEBf9gCQpCAS"
       },
@@ -2351,7 +2391,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 189282,
       "name": "Need You",
       "url": "https://open.spotify.com/track/7f0PCIJFVw7U5tbuFH4rb0"

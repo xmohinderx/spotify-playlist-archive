@@ -4,7 +4,7 @@
 
 > Music from and inspired by The School for Good and Evil\. Watch now on Netflix.
 
-26 songs - 1 hr 24 min - not published yet
+27 songs - 1 hr 28 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [The Stymph](https://open.spotify.com/track/6neDaEkc7o1iJfCyr0kFpt) | [Theodore Shapiro](https://open.spotify.com/artist/6N1Kaz3CvRa9VLll5ahk9T) | [The School For Good And Evil \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/5VKymcbaHhj39nyPGUWZNk) | 3:02 | 2022-10-18 |  |
 | [They / Them / Theirs](https://open.spotify.com/track/5zpUjhFZWLZ7vCVk6ZpnRs) | [Worriers](https://open.spotify.com/artist/55Z2PiiE80rBOkkL1wyNPD) | [Imaginary Life](https://open.spotify.com/album/4Yb6CXNP2OjaRvPHLNVZfr) | 2:18 | 2022-10-18 |  |
 | [Thunderstruck](https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [The Razors Edge](https://open.spotify.com/album/4vu7F6h90Br1ZtYYaqfITy) | 4:52 | 2022-10-18 |  |
-| [Toxic](https://open.spotify.com/track/10VGirghK8scti9gNw2NTw) | [2WEI](https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc) | [Sequels](https://open.spotify.com/album/3cVAdcxaUZIvkV6Da2BTdC) | 3:57 | 2022-10-18 |  |
+| [Toxic](https://open.spotify.com/track/10VGirghK8scti9gNw2NTw) | [2WEI](https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc) | [Sequels](https://open.spotify.com/album/3cVAdcxaUZIvkV6Da2BTdC) | 3:57 | 2022-10-18 | 2022-11-12 |
+| [Toxic](https://open.spotify.com/track/1lhSumcZpcom7vrJRCefSt) | [2WEI](https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc) | [Toxic](https://open.spotify.com/album/01lXgHJJp8bcFZvq5lScUg) | 3:57 | 2022-10-18 |  |
 | [True Love](https://open.spotify.com/track/59LlVNnNW1YV0MHtyziRfm) | [Theodore Shapiro](https://open.spotify.com/artist/6N1Kaz3CvRa9VLll5ahk9T) | [The School For Good And Evil \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/5VKymcbaHhj39nyPGUWZNk) | 2:59 | 2022-10-18 |  |
 | [Venus as a Boy](https://open.spotify.com/track/5G9LvzXcBoIBXOd2jzdJTs) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Debut](https://open.spotify.com/album/3icT9XGrBfhlV8BKK4WEGX) | 4:42 | 2022-10-18 |  |
 | [Vision \(feat\. Zelooperz\)](https://open.spotify.com/track/79N9aDPDWEWND2oySCsTTa) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu), [Zelooperz](https://open.spotify.com/artist/5j93hwFBNo29RJMsWvtzj8) | [SICK!](https://open.spotify.com/album/51heTwkSfb4Z5dRIgwU2bd) | 4:14 | 2022-10-18 |  |

@@ -4,7 +4,7 @@
 
 > Rock that was on repeat during the summers of the 2000s.
 
-141 songs - 8 hr 55 min - [published](https://open.spotify.com/playlist/6dFdmMiL6Go999QqBaJzZR)
+144 songs - 9 hr 6 min - [published](https://open.spotify.com/playlist/6dFdmMiL6Go999QqBaJzZR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [Blurry](https://open.spotify.com/track/0FLBNqc5oAiTt4J2e3fe3y) | [Puddle Of Mudd](https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5) | [Come Clean](https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5) | 5:03 | 2021-04-09 |  |
 | [Boulevard of Broken Dreams](https://open.spotify.com/track/1hwJKpe0BPUsq6UUrwBWTw) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Boulevard of Broken Dreams](https://open.spotify.com/album/2sIWM1FzNqLCccNwXuC4SA) | 4:21 | 2021-04-09 | 2022-07-29 |
 | [Boulevard of Broken Dreams](https://open.spotify.com/track/5GorCbAP4aL0EJ16frG2hd) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Greatest Hits: God's Favorite Band](https://open.spotify.com/album/3id4t9IqRoB1f1smOERtrY) | 4:22 | 2021-04-09 |  |
-| [Brianstorm](https://open.spotify.com/track/5rTIpPWeO0IL4HWlGWrz5G) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Favourite Worst Nightmare \(Standard Version\)](https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw) | 2:50 | 2021-04-09 |  |
+| [Brianstorm](https://open.spotify.com/track/5rTIpPWeO0IL4HWlGWrz5G) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Favourite Worst Nightmare \(Standard Version\)](https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw) | 2:50 | 2021-04-09 | 2022-11-12 |
+| [Brianstorm](https://open.spotify.com/track/3diD9FCmSlagvI4OtGUzIe) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Brianstorm](https://open.spotify.com/album/5jFTTB7q8o1KYSugIF9iQN) | 2:52 | 2021-04-09 |  |
 | [Brianstorm](https://open.spotify.com/track/7f9I5WdyXm5q1XqnSYgQZb) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Favourite Worst Nightmare](https://open.spotify.com/album/1XkGORuUX2QGOEIL4EbJKm) | 2:52 | 2021-04-09 | 2022-07-29 |
 | [Bring Me To Life](https://open.spotify.com/track/0COqiPhxzoWICwFCS4eZcp) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Fallen](https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm) | 3:55 | 2021-04-09 |  |
 | [By the Way](https://open.spotify.com/track/1f2V8U1BiWaC9aJWmpOARe) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [By the Way \(Deluxe Edition\)](https://open.spotify.com/album/6deiaArbeoqp1xPEGdEKp1) | 3:36 | 2021-04-09 |  |
@@ -45,11 +46,13 @@
 | [Girlfriend](https://open.spotify.com/track/5HbCnVLXRyZVxnreOPgJCK) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [The Best Damn Thing](https://open.spotify.com/album/5dfbrFuG8lfC4Yi75J8NmK) | 3:36 | 2021-04-09 | 2022-07-29 |
 | [Girls & Boys](https://open.spotify.com/track/65mxB9IWpmVo4qUjdGSxRB) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [The Young and The Hopeless](https://open.spotify.com/album/5CTygC3aONv7l0klY4k3hc) | 3:03 | 2021-04-09 |  |
 | [Gives You Hell](https://open.spotify.com/track/5gb9UJkh8TfrNMRYOJNbew) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [When The World Comes Down](https://open.spotify.com/album/5doKZJ05r4UbAp9rmpDRDD) | 3:33 | 2021-04-09 |  |
-| [Hanging By A Moment](https://open.spotify.com/track/0wqOReZDnrefefEsrIGeR4) | [Lifehouse](https://open.spotify.com/artist/5PokPZn11xzZXyXSfnvIM3) | [No Name Face](https://open.spotify.com/album/1VKNHcrUppE8i5oAhg4o6k) | 3:36 | 2021-04-09 |  |
+| [Hanging By A Moment](https://open.spotify.com/track/0wqOReZDnrefefEsrIGeR4) | [Lifehouse](https://open.spotify.com/artist/5PokPZn11xzZXyXSfnvIM3) | [No Name Face](https://open.spotify.com/album/1VKNHcrUppE8i5oAhg4o6k) | 3:36 | 2021-04-09 | 2022-11-12 |
+| [Hanging By A Moment](https://open.spotify.com/track/1wNNrDonBDbFrDZQTR5g4j) | [Lifehouse](https://open.spotify.com/artist/5PokPZn11xzZXyXSfnvIM3) | [20 \#1’s: 00s](https://open.spotify.com/album/2BeZnjdRLRcw0OswEERuw5) | 3:36 | 2021-04-09 |  |
 | [Hanging By A Moment](https://open.spotify.com/track/6jWLyg8AuMQ9LtIB2UlfOF) | [Lifehouse](https://open.spotify.com/artist/5PokPZn11xzZXyXSfnvIM3) | [No Name Face](https://open.spotify.com/album/18ttJAJKeQvaAg8cpnn9uM) | 3:36 | 2021-04-09 | 2022-07-29 |
 | [Have A Nice Day](https://open.spotify.com/track/6JWddKPdqvDc2WkPEi9grC) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [Just Enough Education To Perform](https://open.spotify.com/album/51I2N3YcrmqOJfzywty3l4) | 3:25 | 2021-04-09 |  |
+| [Hella Good](https://open.spotify.com/track/1QpaUFTW7G8DAFw5y1OFwj) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Old Songs](https://open.spotify.com/album/1Y5ZSJrKqfZzl1GsyZXyso) | 4:02 | 2021-04-09 |  |
 | [Hella Good](https://open.spotify.com/track/3p9WUMN8SPfq3mUtUUnmE5) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Rock Steady](https://open.spotify.com/album/6ENy8DWFCnqF4dfaeH6352) | 4:02 | 2021-04-09 | 2022-07-29 |
-| [Hella Good](https://open.spotify.com/track/6AfLmKXzhEZjwiVPs5jhdV) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Rock Steady \(Expanded Edition\)](https://open.spotify.com/album/0KFPnm4Ow2L9BuivmWT3pu) | 4:02 | 2021-04-09 |  |
+| [Hella Good](https://open.spotify.com/track/6AfLmKXzhEZjwiVPs5jhdV) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Rock Steady \(Expanded Edition\)](https://open.spotify.com/album/0KFPnm4Ow2L9BuivmWT3pu) | 4:02 | 2021-04-09 | 2022-11-12 |
 | [Hero \(feat\. Josey Scott\)](https://open.spotify.com/track/779ooI3rBd0CLqCiiJmtVo) | [Chad Kroeger](https://open.spotify.com/artist/7fJYw1vK9yWb8o51I8qHin), [Josey Scott](https://open.spotify.com/artist/5mNloTgSaf5qCyk48t9NSP) | [Hero \(feat\. Josey Scott\)](https://open.spotify.com/album/4JLTenJ9u07tFnk3On1ypa) | 3:20 | 2021-04-09 |  |
 | [Hey There Delilah](https://open.spotify.com/track/4RCWB3V8V0dignt99LZ8vH) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [All That We Needed](https://open.spotify.com/album/4vUClKTFaDWnsHE8rK52GY) | 3:52 | 2021-04-09 |  |
 | [Higher](https://open.spotify.com/track/1ZozJfi8u9cO2Ob8KwiwNT) | [Creed](https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz) | [Human Clay](https://open.spotify.com/album/3Nyjm9NBEdiaiWr2BEaV46) | 5:16 | 2021-04-09 |  |

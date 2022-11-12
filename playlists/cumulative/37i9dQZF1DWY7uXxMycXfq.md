@@ -4,7 +4,7 @@
 
 > Women who experiment with electronic loops, strings, voice and other cosmic delights\. Cover: Loraine James
 
-105 songs - 8 hr 6 min - [published](https://open.spotify.com/playlist/34ALKhfWb0HiyjEM3uR89z)
+108 songs - 8 hr 19 min - [published](https://open.spotify.com/playlist/34ALKhfWb0HiyjEM3uR89z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,15 +96,18 @@
 | [Teta 7hz \(Tool\) \[feat\. DeForrest Brown Jr.\]](https://open.spotify.com/track/3nHU4KLvIBXCSfcrKmaJZW) | [Aïsha Devi](https://open.spotify.com/artist/4RtrEYqj2bINZ2HXWUG3j4) | [S.L.F.](https://open.spotify.com/album/0rZMYFmZZYdm3nfilk1SvV) | 3:33 | 2021-06-30 |  |
 | [The Archer](https://open.spotify.com/track/0uugjx8o1PE42p11EJTpvJ) | [Faten Kanaan](https://open.spotify.com/artist/6Jz6XSRQjWHHmdkR2myjjy) | [A Mythology of Circles](https://open.spotify.com/album/0nHy9AEVP4FZcAYHLQHSNz) | 6:01 | 2021-06-30 |  |
 | [The North Wind](https://open.spotify.com/track/7mc9nqCeNB2gBYoR891KVv) | [Faten Kanaan](https://open.spotify.com/artist/6Jz6XSRQjWHHmdkR2myjjy) | [A Mythology of Circles](https://open.spotify.com/album/0nHy9AEVP4FZcAYHLQHSNz) | 4:11 | 2021-06-30 |  |
-| [The Steady Heart](https://open.spotify.com/track/0ZRoGWrVDfK5J6nbZTywr2) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [The Mosaic of Transformation](https://open.spotify.com/album/2uacatJeUrWB2Fj3epyMgA) | 5:39 | 2021-06-30 |  |
+| [The Steady Heart](https://open.spotify.com/track/07b7wamvmtxZdHPRVjdQjW) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [The Steady Heart](https://open.spotify.com/album/7CGeLL2ynKNd5QRJAbrcgQ) | 5:39 | 2021-06-30 |  |
+| [The Steady Heart](https://open.spotify.com/track/0ZRoGWrVDfK5J6nbZTywr2) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [The Mosaic of Transformation](https://open.spotify.com/album/2uacatJeUrWB2Fj3epyMgA) | 5:39 | 2021-06-30 | 2022-11-12 |
 | [The Steady Heart](https://open.spotify.com/track/3wByr14kH9QHQ6n7MSudK1) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [Mosaic of Transformation](https://open.spotify.com/album/4yzxK85q3777m0q4ljE8aF) | 5:39 | 2021-06-30 | 2022-07-29 |
 | [TILT \- Edit](https://open.spotify.com/track/7rVPZhq7ua00rtERLs2mgM) | [KÁRYYN](https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI), [Young Paint](https://open.spotify.com/artist/2fhkMDN3asvYcvkWTh8x0w) | [TILT \(Edit\)](https://open.spotify.com/album/14CH2RyxHReGDZXwahEeRU) | 3:08 | 2021-06-30 | 2022-07-29 |
-| [TILT \- Single Edit](https://open.spotify.com/track/3Y7Y2OBvupVBPBUDU0FaFC) | [KÁRYYN](https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI), [Young Paint](https://open.spotify.com/artist/2fhkMDN3asvYcvkWTh8x0w) | [TILT](https://open.spotify.com/album/0dTcjoXoUdeFlXZgWLqd6E) | 3:08 | 2021-06-30 |  |
+| [TILT \- Single Edit](https://open.spotify.com/track/2egz3UsJqqcTPgg3cXcivE) | [KÁRYYN](https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI), [Young Paint](https://open.spotify.com/artist/2fhkMDN3asvYcvkWTh8x0w) | [TILT](https://open.spotify.com/album/2nSFDTb59uyMdMkh5p8Rzf) | 3:08 | 2021-06-30 |  |
+| [TILT \- Single Edit](https://open.spotify.com/track/3Y7Y2OBvupVBPBUDU0FaFC) | [KÁRYYN](https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI), [Young Paint](https://open.spotify.com/artist/2fhkMDN3asvYcvkWTh8x0w) | [TILT](https://open.spotify.com/album/0dTcjoXoUdeFlXZgWLqd6E) | 3:08 | 2021-06-30 | 2022-11-12 |
 | [Timbu Limbu And Her War Bass](https://open.spotify.com/track/44IESxtHXHjxYLUqoKKGK2) | [Machine Woman](https://open.spotify.com/artist/2a8NONYfrGgsdUUORy4rFa) | [Timbu Limbu And Her War Bass](https://open.spotify.com/album/3d9j0nWCz8AjqgBwuZ0ZUb) | 3:36 | 2021-06-30 | 2022-07-29 |
 | [Timbu Limbu And Her War Bass](https://open.spotify.com/track/6e0eVsUOcWSykyieIlpxrQ) | [Machine Woman](https://open.spotify.com/artist/2a8NONYfrGgsdUUORy4rFa) | [Timbu Limbu And Her War Bass](https://open.spotify.com/album/69zfdOF5MIl9a3dRezJwT7) | 3:36 | 2021-06-30 |  |
 | [Transparent, In Movement](https://open.spotify.com/track/5Q2XN3tPkxtDegL1T1dvPX) | [Felicia Atkinson](https://open.spotify.com/artist/5YQURNvswNpWWUWyeNT7we) | [Everything Evaporate](https://open.spotify.com/album/1wKKrYxulFvFe0JUtK5rzC) | 8:00 | 2021-06-30 |  |
-| [Tulpar](https://open.spotify.com/track/1vdlZbL65vnKLxCxiafNHx) | [Galya Bisengalieva](https://open.spotify.com/artist/5XT7fo7ijBPZAWWzXDEaRh) | [Tulpar](https://open.spotify.com/album/0cxD4j3Zp1Q0wSZnPIBgO2) | 3:25 | 2021-06-30 |  |
+| [Tulpar](https://open.spotify.com/track/1vdlZbL65vnKLxCxiafNHx) | [Galya Bisengalieva](https://open.spotify.com/artist/5XT7fo7ijBPZAWWzXDEaRh) | [Tulpar](https://open.spotify.com/album/0cxD4j3Zp1Q0wSZnPIBgO2) | 3:25 | 2021-06-30 | 2022-11-12 |
 | [Tulpar](https://open.spotify.com/track/2O5bsifaBuEHnnsllXNKkw) | [Galya Bisengalieva](https://open.spotify.com/artist/5XT7fo7ijBPZAWWzXDEaRh) | [Tulpar](https://open.spotify.com/album/2hcsvVURGEaPUL5BXCxNDZ) | 3:25 | 2021-06-30 | 2022-10-21 |
+| [Tulpar](https://open.spotify.com/track/32V0XnQJOsIQGI1xVlHUN5) | [Galya Bisengalieva](https://open.spotify.com/artist/5XT7fo7ijBPZAWWzXDEaRh) | [EP ONE](https://open.spotify.com/album/4KdAj9k6Xk1n8I0qkGlCtE) | 3:25 | 2021-06-30 |  |
 | [Two Halves Touching](https://open.spotify.com/track/63Ra6rlO5ybbsEDWOQ395S) | [Carmen Villain](https://open.spotify.com/artist/4Ps6q34DtWOueT2tJtwE5l) | [Sketch for Winter IX: Perlita](https://open.spotify.com/album/4v9uUlcfLWHzhZfmoTjAz8) | 3:50 | 2021-06-30 |  |
 | [Uncle](https://open.spotify.com/track/044d0lsKxvamvywQd7aZEC) | [Lucy Liyou](https://open.spotify.com/artist/0oGtixfxP0ukNPM6KVuwC1) | [Practice](https://open.spotify.com/album/3p2YnEe3fq3KIldwwvh7J8) | 2:29 | 2021-06-30 | 2022-07-29 |
 | [Uncle](https://open.spotify.com/track/1fU9dTU5eOXuFtdyT1H044) | [Lucy Liyou](https://open.spotify.com/artist/0oGtixfxP0ukNPM6KVuwC1) | [Welfare / Practice](https://open.spotify.com/album/2329qbh46SMwjMuprpj5eE) | 2:29 | 2021-06-30 |  |

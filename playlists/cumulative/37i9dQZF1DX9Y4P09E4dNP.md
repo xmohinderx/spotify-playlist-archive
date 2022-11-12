@@ -4,7 +4,7 @@
 
 > A fusion of highlife and hip\-hop, these hip\-life jams are undeniable.
 
-100 songs - 8 hr 8 min - [published](https://open.spotify.com/playlist/3Z2XtpSUEyDALyzM9IVooA)
+101 songs - 8 hr 13 min - [published](https://open.spotify.com/playlist/3Z2XtpSUEyDALyzM9IVooA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,8 @@
 | [Money No Dey](https://open.spotify.com/track/6PQJxml8tgrJ5Il51hEze7) | [O'baya](https://open.spotify.com/artist/4LJc5Bj4D2MtepUtCTALCO), [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Money No Dey](https://open.spotify.com/album/3dKx3WOSmj3uJpiTbxULPh) | 3:15 | 2022-03-31 |  |
 | [My Size](https://open.spotify.com/track/2fMtRigMAdE6hXHm2WrzlQ) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [Sounds of My World](https://open.spotify.com/album/2Mju5QRHhBPkUQajYKTUSH) | 3:45 | 2021-10-08 |  |
 | [Ngozi](https://open.spotify.com/track/1Vbx0DjX403mZOBIgoIYWz) | [Michael Dwamena](https://open.spotify.com/artist/2kgJbByQSqdAsyAJMh8o7c) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 5:31 | 2020-02-20 | 2022-07-29 |
-| [Ngozi](https://open.spotify.com/track/687b1ZxrRmzvodBCxrpBG4) | [Micheal Dwamena](https://open.spotify.com/artist/6sJP5qdmdznP6PrOkdPwAB) | [Owo Moti](https://open.spotify.com/album/5PcYQfVWxpa7WjjqGSWmYO) | 5:34 | 2020-02-20 |  |
+| [Ngozi](https://open.spotify.com/track/5xUsuJdA0m0mViZJ8yxPAT) | [Michael Dwamena](https://open.spotify.com/artist/2kgJbByQSqdAsyAJMh8o7c) | [Ngozi](https://open.spotify.com/album/0hE1qM4q2Hcbp3wuacPnXV) | 5:31 | 2020-02-20 |  |
+| [Ngozi](https://open.spotify.com/track/687b1ZxrRmzvodBCxrpBG4) | [Micheal Dwamena](https://open.spotify.com/artist/6sJP5qdmdznP6PrOkdPwAB) | [Owo Moti](https://open.spotify.com/album/5PcYQfVWxpa7WjjqGSWmYO) | 5:34 | 2020-02-20 | 2022-11-12 |
 | [Obaa No](https://open.spotify.com/track/1AfW3qEZUUn3GbiBEtJfz9) | [Okomfour Kwadee](https://open.spotify.com/artist/4ELqSlk9d15aZFqVzXfSjm) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 5:11 | 2020-02-20 | 2022-03-14 |
 | [Obaa Sweety](https://open.spotify.com/track/5veXakVB9V2uZmKM1cwK95) | [VIP](https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 5:05 | 2020-02-20 | 2022-07-29 |
 | [Obaa Sweety](https://open.spotify.com/track/6pgdGE0yxbrRYUOJN3fHR1) | [VIP](https://open.spotify.com/artist/1QD3WjCkoISjspUWbHR8Y5) | [Old School Hiplife Vol.1](https://open.spotify.com/album/0wfz1F4pEmtnUG06sr8OEW) | 5:05 | 2020-02-20 | 2022-10-16 |

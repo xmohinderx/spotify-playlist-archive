@@ -639,7 +639,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-26",
+      "date_removed": null,
       "duration_ms": 191396,
       "name": "Brother To You",
       "url": "https://open.spotify.com/track/0u9keTpHsXa73izEri7AJV"
@@ -1143,7 +1143,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 264980,
       "name": "Everything is Different (To Me)",
       "url": "https://open.spotify.com/track/6x3sun3UqxP4g0Juw7ZXx4"
@@ -1363,7 +1363,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 199480,
       "name": "Garden of Eden",
       "url": "https://open.spotify.com/track/2JMv10dhH1c63lwDF0wfud"
@@ -2343,6 +2343,24 @@
       "duration_ms": 188615,
       "name": "Mortals",
       "url": "https://open.spotify.com/track/3pa1oaOXwmoxLoDTn2oFVq"
+    },
+    {
+      "album": {
+        "name": "Flight Risk EP",
+        "url": "https://open.spotify.com/album/3WTRqQ60G0J3UEQPU57k1g"
+      },
+      "artists": [
+        {
+          "name": "Tommy Lefroy",
+          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188615,
+      "name": "Mortals",
+      "url": "https://open.spotify.com/track/6SxCb6DNwXShYd6F2KcyBE"
     },
     {
       "album": {

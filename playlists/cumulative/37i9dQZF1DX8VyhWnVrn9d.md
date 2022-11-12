@@ -4,7 +4,7 @@
 
 > Bailando de caballito, aunque se enoje tu mamá\. Mi Banda El Mexicano en portada.
 
-102 songs - 5 hr 19 min - [published](https://open.spotify.com/playlist/6lQGShtqHlUTR1KQhiWK9V)
+104 songs - 5 hr 25 min - [published](https://open.spotify.com/playlist/6lQGShtqHlUTR1KQhiWK9V)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,11 +91,13 @@
 | [Orgullosa María](https://open.spotify.com/track/1nZKtN7ZTkU3b49EtKW2Qj) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Mi Mexico Querido](https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1) | 3:27 | 2022-04-13 | 2022-11-11 |
 | [Orgullosa María](https://open.spotify.com/track/44jCTRKB5XefL8x3MSqdro) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Su Majestad Mi Banda El Mexicano Con Ustedes...](https://open.spotify.com/album/1s3BrMCfyfzqth3RzFdeSl) | 3:27 | 2022-04-13 |  |
 | [Pelotero A La Bola](https://open.spotify.com/track/3djM8QkIOjpzynd5MfaGMA) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [15 Exitos \- Mi Banda El Mexicano](https://open.spotify.com/album/4n4egdncbKUB4aZuU9ibla) | 2:49 | 2022-04-13 | 2022-07-29 |
-| [Pelotero A La Bola](https://open.spotify.com/track/4nkMHa8OAlBtSO1clxQqTm) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [16 Enormes Éxitos](https://open.spotify.com/album/0nzrY6r02nNFuJ4fiibB5w) | 2:51 | 2022-04-13 |  |
+| [Pelotero A La Bola](https://open.spotify.com/track/31aA5JDpywn1G35XwgOcPD) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [15 Éxitos](https://open.spotify.com/album/5scHTQG7vYBjhl4pC8GU89) | 2:51 | 2022-04-13 |  |
+| [Pelotero A La Bola](https://open.spotify.com/track/4nkMHa8OAlBtSO1clxQqTm) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [16 Enormes Éxitos](https://open.spotify.com/album/0nzrY6r02nNFuJ4fiibB5w) | 2:51 | 2022-04-13 | 2022-11-12 |
 | [Provócame](https://open.spotify.com/track/6NoG8gvg44g2IWaWt3bBfE) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Provócame](https://open.spotify.com/album/2hKjSZ3fbwKYWpYr5xTuTN) | 3:00 | 2022-04-13 | 2022-07-29 |
 | [Provócame](https://open.spotify.com/track/1L07qYzsQyoAH8yactEpLt) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Provócame](https://open.spotify.com/album/3OQXVUDVYWspLfqyUXcM1X) | 3:03 | 2022-04-13 |  |
 | [Ramito De Violetas](https://open.spotify.com/track/5SiAusJizzxkKXy0oowWyK) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Grupo El Mexicano](https://open.spotify.com/album/06QIUFuTgAr4DNUeuu9sX8) | 3:32 | 2022-04-13 | 2022-07-29 |
-| [Ramito De Violetas](https://open.spotify.com/track/6sRaqq9SYsSTPvrWkL1sRy) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Mi Mexico Querido](https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1) | 3:32 | 2022-04-13 |  |
+| [Ramito De Violetas](https://open.spotify.com/track/2IT6VVdTU4PT8hT4GTA6eg) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Primavera Bailando Quebraditas](https://open.spotify.com/album/7mygVUwyrmGlBekBsqxDCj) | 3:32 | 2022-04-13 |  |
+| [Ramito De Violetas](https://open.spotify.com/track/6sRaqq9SYsSTPvrWkL1sRy) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Mi Mexico Querido](https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1) | 3:32 | 2022-04-13 | 2022-11-12 |
 | [Regresando \- Regrabada](https://open.spotify.com/track/5w7vzEGjDc1AYKCM5ABIV6) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Primera Caida](https://open.spotify.com/album/15boYsAGlmRVDXxynT4M0y) | 2:43 | 2022-04-13 |  |
 | [Si Tu Boquita Fuera](https://open.spotify.com/track/4MeagrXRJb7XjSE8FK0n75) | [Banda R\-15](https://open.spotify.com/artist/5l0ZjUz8rAAFVm616in8YR) | [15 Grandes Exitos](https://open.spotify.com/album/1f0ASfbeUcjB2vEI8PNyuC) | 2:58 | 2022-04-13 |  |
 | [Tabaco Mascao](https://open.spotify.com/track/5Co1f3RoqnIVLr526pQG4Y) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Esa Chica Me Vacila](https://open.spotify.com/album/216Vvwkcgb3OR27a8Gwt7Q) | 2:04 | 2022-04-13 |  |

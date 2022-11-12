@@ -4,7 +4,7 @@
 
 > These women are on the rise, and are rocking our worlds right now / Cover: Maggie Lindemann
 
-279 songs - 14 hr 40 min - [published](https://open.spotify.com/playlist/1gH63Zpl7ewTwMhhkAimLS)
+281 songs - 14 hr 46 min - [published](https://open.spotify.com/playlist/1gH63Zpl7ewTwMhhkAimLS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,7 +203,8 @@
 | [pity party \(feat\. Royal & The Serpent\)](https://open.spotify.com/track/7A9JSq4XOYn9bhSFcGJxto) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh), [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [pity party \(feat\. Royal & The Serpent\)](https://open.spotify.com/album/6MGaZYL2sKeycUQhWepQms) | 2:41 | 2022-01-14 | 2022-03-05 |
 | [Potions](https://open.spotify.com/track/1cr9oWjJsQkozgf9YF6zPi) | [LYELL](https://open.spotify.com/artist/3aDih8lIm5GOfAaorpUg5Y) | [Potions](https://open.spotify.com/album/2xGVxlm41ungB9ZPzMJGuC) | 2:48 | 2021-07-30 | 2022-06-25 |
 | [Pretty Waste](https://open.spotify.com/track/1j6XqVdSE5KlgfOxfXwiGX) | [BONES UK](https://open.spotify.com/artist/16kd5X3pBMOtXdLlX5LcAw) | [Bones UK](https://open.spotify.com/album/3oGWjFc2ol3g4iIiCAXav3) | 2:50 | 2021-07-30 | 2022-11-06 |
-| [Pretty Waste](https://open.spotify.com/track/71HZdwtSopDs87RvpI8ip2) | [BONES UK](https://open.spotify.com/artist/16kd5X3pBMOtXdLlX5LcAw) | [Bones UK](https://open.spotify.com/album/6YkF6eWFU0EhVHBnYzAgqv) | 2:50 | 2022-10-07 |  |
+| [Pretty Waste](https://open.spotify.com/track/2eRpD2BvnFAZCXN5fukXZz) | [BONES UK](https://open.spotify.com/artist/16kd5X3pBMOtXdLlX5LcAw) | [Pretty Waste](https://open.spotify.com/album/6NSmYBEztwHriWZF4huXPv) | 2:50 | 2022-10-07 |  |
+| [Pretty Waste](https://open.spotify.com/track/71HZdwtSopDs87RvpI8ip2) | [BONES UK](https://open.spotify.com/artist/16kd5X3pBMOtXdLlX5LcAw) | [Bones UK](https://open.spotify.com/album/6YkF6eWFU0EhVHBnYzAgqv) | 2:50 | 2022-10-07 | 2022-11-12 |
 | [Psycho](https://open.spotify.com/track/29GKyMCkBY2Kc7M2VcAZJE) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [Psycho](https://open.spotify.com/album/4toEJiFEggtxsZPewZmLat) | 2:59 | 2022-08-19 |  |
 | [Pure Androgyny](https://open.spotify.com/track/0xPLAq2c7zycsDTddXoF7r) | [BEGINNERS](https://open.spotify.com/artist/3W8j0OhMMduqR1eNV6ktu3), [Torii Wolf](https://open.spotify.com/artist/3UQokJfoLRXZaSF111Vpyz) | [Pure Androgyny](https://open.spotify.com/album/6Hf0off8InwP1Y0cgT50dt) | 2:57 | 2022-06-24 |  |
 | [Queen Bitch](https://open.spotify.com/track/3TyAGCbaaiQIYKKj42WO9R) | [Kailee Morgue](https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0) | [Queen Bitch](https://open.spotify.com/album/6BVkRA0sAGmRoeEp6CCJBH) | 2:41 | 2022-10-07 |  |
@@ -213,7 +214,8 @@
 | [RICH$$$](https://open.spotify.com/track/0WJqGFXhuSV7UxjrvbcLdY) | [MONOWHALES](https://open.spotify.com/artist/6Ok8AIUj7YYGC981xWCbgQ) | [RICH$$$](https://open.spotify.com/album/5LPNhMtx4YfvNzZzHyv8YF) | 2:59 | 2022-08-19 |  |
 | [Roadkill](https://open.spotify.com/track/10jugZSxm3weVkTSSO8LFR) | [Starcrawler](https://open.spotify.com/artist/0ZhtrY2Lt1s9klwm03lu8i) | [Roadkill](https://open.spotify.com/album/4kvhcTgta9vq0hsjVfrHVJ) | 2:22 | 2022-08-19 |  |
 | [Rockstar](https://open.spotify.com/track/220FuxHU2wcLLqUNRDglzm) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Rockstar](https://open.spotify.com/album/10kinVEnlFkRub41F304V7) | 3:09 | 2022-03-04 | 2022-07-29 |
-| [Rockstar](https://open.spotify.com/track/5KYMIVT5vYyeI0OP97nS0Y) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Household Name](https://open.spotify.com/album/19trggALcFlGFsJDUiyVYn) | 3:09 | 2022-06-24 |  |
+| [Rockstar](https://open.spotify.com/track/4J8u6uZshJECi35hwoHSxA) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Motorbike](https://open.spotify.com/album/1b2Vn8dIHKLdxUJ43E1boD) | 3:09 | 2022-10-07 |  |
+| [Rockstar](https://open.spotify.com/track/5KYMIVT5vYyeI0OP97nS0Y) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Household Name](https://open.spotify.com/album/19trggALcFlGFsJDUiyVYn) | 3:09 | 2022-06-24 | 2022-11-12 |
 | [Roll The Dice](https://open.spotify.com/track/2q7RE1Csj30DPOXqO4sWqO) | [Sunflower Bean](https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8) | [Roll The Dice](https://open.spotify.com/album/4ujPS7j4S1xyRS4ZQh4VgN) | 3:14 | 2022-03-11 | 2022-04-02 |
 | [Rollercoaster](https://open.spotify.com/track/2tPsDUvaL1X5paJLcJF5wK) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Rollercoaster](https://open.spotify.com/album/0cxaJzqMj3I8TIuwoGGnnZ) | 3:34 | 2022-08-19 | 2022-10-08 |
 | [Rotoscope](https://open.spotify.com/track/3TV6XEPjXQhbSneiEXRNEr) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Rotoscope](https://open.spotify.com/album/0twOWaleSiQaUUSTFegpds) | 3:35 | 2022-06-24 |  |

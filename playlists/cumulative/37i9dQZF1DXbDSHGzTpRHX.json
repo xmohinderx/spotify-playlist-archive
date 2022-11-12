@@ -1710,6 +1710,24 @@
     },
     {
       "album": {
+        "name": "Then We Fall",
+        "url": "https://open.spotify.com/album/72WxeOsMAn01fWASxQ31m0"
+      },
+      "artists": [
+        {
+          "name": "Fintan",
+          "url": "https://open.spotify.com/artist/1JLB3JYl1p8ob8o5Y35bT6"
+        }
+      ],
+      "date_added": "2019-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200065,
+      "name": "Light Personified",
+      "url": "https://open.spotify.com/track/08RkaVOwN4k3wkaFVk4n8m"
+    },
+    {
+      "album": {
         "name": "Light Personified",
         "url": "https://open.spotify.com/album/7CNT44xDuQHv8gKnhd30SQ"
       },
@@ -1721,7 +1739,7 @@
       ],
       "date_added": "2019-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 200065,
       "name": "Light Personified",
       "url": "https://open.spotify.com/track/1AQlZoCOk9SHb4nIZF07uf"

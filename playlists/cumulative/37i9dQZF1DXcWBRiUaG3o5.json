@@ -77,7 +77,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 256680,
       "name": "All Is Well",
       "url": "https://open.spotify.com/track/3KAQ4xe2sR6IiltZw8HSA5"
@@ -1057,7 +1057,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 352240,
       "name": "Guiding Light",
       "url": "https://open.spotify.com/track/1rwFqSVH8k9ovPHgAxThkN"
@@ -1505,7 +1505,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 310733,
       "name": "In the Stream",
       "url": "https://open.spotify.com/track/6IERXwupEJDCOyz2Pc3jae"
@@ -1523,7 +1523,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 221426,
       "name": "Inferno",
       "url": "https://open.spotify.com/track/18wHQR3ZfXgVqMNGM8Cf1T"
@@ -2024,6 +2024,24 @@
     },
     {
       "album": {
+        "name": "Our Endless Numbered Days",
+        "url": "https://open.spotify.com/album/2diNeeePw7kIT2K4DYCdJx"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152613,
+      "name": "Naked as We Came",
+      "url": "https://open.spotify.com/track/4FuBIkfhZMoRgrDiHL6TYG"
+    },
+    {
+      "album": {
         "name": "Our Endless Numbered Days (Deluxe Edition)",
         "url": "https://open.spotify.com/album/169vCBCFaW2na816P8Ir7m"
       },
@@ -2035,7 +2053,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 152613,
       "name": "Naked as We Came",
       "url": "https://open.spotify.com/track/6UIxGIqWlO5wsddY44AV1R"
@@ -3011,7 +3029,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 255760,
       "name": "The Dream Song",
       "url": "https://open.spotify.com/track/4VzC9UCasqtH2lMsYNyLbF"
@@ -3177,7 +3195,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 241720,
       "name": "Tiger Striped Sky",
       "url": "https://open.spotify.com/track/4C2aiAVTTVyZbCQZst5Xu1"
@@ -3632,6 +3650,24 @@
     },
     {
       "album": {
+        "name": "Every Night",
+        "url": "https://open.spotify.com/album/5XTyozsmZrmKe9BzXjJ4Tl"
+      },
+      "artists": [
+        {
+          "name": "Lo-Fang",
+          "url": "https://open.spotify.com/artist/5EDkJDlRNcMs3ewliB24QA"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245865,
+      "name": "When We're Fire - Cello Version",
+      "url": "https://open.spotify.com/track/49DjTwHiPXkprSg6pvQPOd"
+    },
+    {
+      "album": {
         "name": "White Frost (Acoustic)",
         "url": "https://open.spotify.com/album/1o0ZTBBqkC13llPDW53GXr"
       },
@@ -3805,7 +3841,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 209266,
       "name": "Young Bodies",
       "url": "https://open.spotify.com/track/4BhEQsifqbzCdknLf52O1G"

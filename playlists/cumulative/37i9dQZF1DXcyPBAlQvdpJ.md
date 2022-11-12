@@ -4,7 +4,7 @@
 
 > Enjoy the hottest <a href="spotify:genre:funkbrazil">Brazilian Funk</a>\. Lo mejor del <a href="spotify:genre:funkbrazil">Funk de Brasil </a>! Cover: Mc Kevin O Chris
 
-77 songs - 4 hr 2 min - [published](https://open.spotify.com/playlist/0JfAREWmsf4OMLVBZTUBmc)
+78 songs - 4 hr 4 min - [published](https://open.spotify.com/playlist/0JfAREWmsf4OMLVBZTUBmc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,8 @@
 | [Papum](https://open.spotify.com/track/5tNnnptCfuLXLHnDqrL9ku) | [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi) | [Papum](https://open.spotify.com/album/4eiu7WQBepn2ALvWA9UdbM) | 2:19 | 2020-05-22 | 2022-07-29 |
 | [Pode Se Soltar](https://open.spotify.com/track/2mL3B5GilTm4dUT6P8LVpd) | [Jerry Smith](https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk) | [Pode Se Soltar](https://open.spotify.com/album/1n80hObcwA9Ic5k7TWqNNY) | 3:00 | 2020-05-22 | 2022-07-29 |
 | [Pode Se Soltar](https://open.spotify.com/track/3Je8dS5oCCvNNC4xBrrYpX) | [Jerry Smith](https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk) | [Pode Se Soltar](https://open.spotify.com/album/6epG2Rr6xc15ekjPDFt4YX) | 3:00 | 2020-05-22 |  |
-| [Qual Bumbum Mais Bate](https://open.spotify.com/track/1dcKjcmJvaoUaYhqFKzzfF) | [MC WM](https://open.spotify.com/artist/14D0I0RYqvIorkPL2EWoQh), [Os Cretinos](https://open.spotify.com/artist/64TmPY6gR7164wIueE4vo0) | [Nós É Pika](https://open.spotify.com/album/3v7t9wU4nH8yvKoYwP0RQn) | 2:42 | 2020-05-22 |  |
+| [Qual Bumbum Mais Bate](https://open.spotify.com/track/1dcKjcmJvaoUaYhqFKzzfF) | [MC WM](https://open.spotify.com/artist/14D0I0RYqvIorkPL2EWoQh), [Os Cretinos](https://open.spotify.com/artist/64TmPY6gR7164wIueE4vo0) | [Nós É Pika](https://open.spotify.com/album/3v7t9wU4nH8yvKoYwP0RQn) | 2:42 | 2020-05-22 | 2022-11-12 |
+| [Qual Bumbum Mais Bate](https://open.spotify.com/track/6A2y7od28bMgGgFiH0tP0E) | [Os Cretinos](https://open.spotify.com/artist/64TmPY6gR7164wIueE4vo0) | [Elas Balançam](https://open.spotify.com/album/5sp7mAvOY1pqvVX6IszpI5) | 2:44 | 2020-05-22 |  |
 | [Qual Bumbum Mais Bate, Qual Bumbum Mais Pula](https://open.spotify.com/track/4eZg3l8x5aMvgwsRHcZuIC) | [MC WM](https://open.spotify.com/artist/14D0I0RYqvIorkPL2EWoQh), [Os Cretinos](https://open.spotify.com/artist/64TmPY6gR7164wIueE4vo0) | [Qual Bumbum Mais Bate, Qual Bumbum Mais Pula](https://open.spotify.com/album/1YQGZVoU4WRqgUaHNyQtG1) | 2:42 | 2020-05-22 | 2022-07-29 |
 | [Quero Que Tu Vá \(International Mix\)](https://open.spotify.com/track/0PrEC7N82UwV79gg0mXPMX) | [Ananda](https://open.spotify.com/artist/3ocjm34azq21UtebolrtKj), [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ), [Joker Beats](https://open.spotify.com/artist/7tsmrNpbLkT4xL1nzRLpCu), [DaniLeigh](https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d) | [Quero Que Tu Vá \(International Mix\)](https://open.spotify.com/album/5NYFSmcnoYZIN74UwObK2i) | 2:19 | 2020-05-22 |  |
 | [Rap das Armas](https://open.spotify.com/track/0EHKSDnAqGYn8amrsT31kk) | [Cidinho & Doca](https://open.spotify.com/artist/2rwHPBK5IvPCDr0QjKlgQc) | [Rap das Armas](https://open.spotify.com/album/4oo4xaeKJGhiN0YzpUH5CG) | 4:52 | 2020-05-22 | 2022-11-11 |

@@ -497,10 +497,28 @@
       ],
       "date_added": "2021-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 211000,
       "name": "Jamming",
       "url": "https://open.spotify.com/track/5LyfiK6iXEIBNEtcaGKohl"
+    },
+    {
+      "album": {
+        "name": "Legend (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/04VRfesff9bgDA2Q8J2oDo"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "date_added": "2021-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212640,
+      "name": "Jamming",
+      "url": "https://open.spotify.com/track/0NDJeqkaT4a7WlC3Uj2ig5"
     },
     {
       "album": {

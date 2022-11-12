@@ -428,6 +428,24 @@
     },
     {
       "album": {
+        "name": "Bon Voyage",
+        "url": "https://open.spotify.com/album/4RNIu9tWTSeyO7FvDet105"
+      },
+      "artists": [
+        {
+          "name": "Chiiild",
+          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167979,
+      "name": "Bon Voyage",
+      "url": "https://open.spotify.com/track/4fwuSvvoxTClVM4QYQGA6C"
+    },
+    {
+      "album": {
         "name": "R Plus Seven",
         "url": "https://open.spotify.com/album/68PRq4zj7YXMwiUq6FNGvR"
       },
@@ -2706,6 +2724,24 @@
     },
     {
       "album": {
+        "name": "Penny",
+        "url": "https://open.spotify.com/album/4aTl0bLTNY0GMApLdUOlkt"
+      },
+      "artists": [
+        {
+          "name": "Chloe George",
+          "url": "https://open.spotify.com/artist/5VZn4mB8pS40aE0kujdX2Y"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165361,
+      "name": "Penny",
+      "url": "https://open.spotify.com/track/24wiwgyKLZ36y1HwL5M5Yw"
+    },
+    {
+      "album": {
         "name": "Ivory",
         "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
       },
@@ -2873,7 +2909,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 329295,
       "name": "Purple Hearts",
       "url": "https://open.spotify.com/track/1REVvAphiSTJyKQ1fDpHa4"
@@ -3051,7 +3087,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 258969,
       "name": "Ribs",
       "url": "https://open.spotify.com/track/2MvvoeRt8NcOXWESkxWn3g"
@@ -3935,7 +3971,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 146866,
       "name": "Unfair",
       "url": "https://open.spotify.com/track/0xD23i0X1WjqMSYIxRfO80"
@@ -4051,6 +4087,24 @@
       "duration_ms": 181573,
       "name": "Waves",
       "url": "https://open.spotify.com/track/3nAq2hCr1oWsIU54tS98pL"
+    },
+    {
+      "album": {
+        "name": "We're Here, My Dear",
+        "url": "https://open.spotify.com/album/4naOlfjveUWgj2Rwha6VDx"
+      },
+      "artists": [
+        {
+          "name": "Ging",
+          "url": "https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221720,
+      "name": "We're Here, My Dear",
+      "url": "https://open.spotify.com/track/28v1fbsigBUdGn0Lhcef1N"
     },
     {
       "album": {

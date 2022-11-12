@@ -4,7 +4,7 @@
 
 > Your favorite tunes from classic family movies.
 
-68 songs - 3 hr 43 min - [published](https://open.spotify.com/playlist/6RF2Jrfma0n8CnImt9lmPz)
+69 songs - 3 hr 49 min - [published](https://open.spotify.com/playlist/6RF2Jrfma0n8CnImt9lmPz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [If We Hold On Together](https://open.spotify.com/track/7J8Q7C82wTcgUYBxiS0A9x) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [The Best Songs From The Land Before Time](https://open.spotify.com/album/6LWEyANf5mvSWsgCSngXkg) | 4:02 | 2022-01-21 | 2022-07-29 |
 | [If We Hold On Together](https://open.spotify.com/track/5ygPz0KLBbndd8kSx79W0e) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [The Force Behind The Power](https://open.spotify.com/album/0LUUqIXjUnvGYZpubnHEqE) | 4:10 | 2022-01-21 |  |
 | [It's a Small World](https://open.spotify.com/track/0o4BDzJtzNvw7hsyvRmNeg) | [Richard M\. Sherman](https://open.spotify.com/artist/13Namx9iwUl1a57CcELGTb), [Robert B\. Sherman](https://open.spotify.com/artist/7n0XJOct9yv45fCWY3t0UJ) | [Disney Classics](https://open.spotify.com/album/6b4nBlM4ofUKA0mcb1b9oF) | 5:04 | 2022-01-21 | 2022-07-29 |
-| [It's a Small World \- From "It's a Small World"](https://open.spotify.com/track/6STSsfLEr567uyoK6EbvOc) | [Richard M\. Sherman](https://open.spotify.com/artist/13Namx9iwUl1a57CcELGTb), [Robert B\. Sherman](https://open.spotify.com/artist/7n0XJOct9yv45fCWY3t0UJ) | [Disney Classics](https://open.spotify.com/album/6zisUsluEUqL929AhNOXs0) | 5:04 | 2022-01-21 |  |
+| [It's a Small World \- From "It's a Small World"](https://open.spotify.com/track/6STSsfLEr567uyoK6EbvOc) | [Richard M\. Sherman](https://open.spotify.com/artist/13Namx9iwUl1a57CcELGTb), [Robert B\. Sherman](https://open.spotify.com/artist/7n0XJOct9yv45fCWY3t0UJ) | [Disney Classics](https://open.spotify.com/album/6zisUsluEUqL929AhNOXs0) | 5:04 | 2022-01-21 | 2022-11-12 |
+| [It's a Small World \- From It’s A Small World](https://open.spotify.com/track/3F3CAuKyWwevyhr0In3shM) | [Richard M\. Sherman](https://open.spotify.com/artist/13Namx9iwUl1a57CcELGTb), [Robert B\. Sherman](https://open.spotify.com/artist/7n0XJOct9yv45fCWY3t0UJ) | [NOW That's What I Call Disney 2](https://open.spotify.com/album/0d67Pj409SNbr94LsUTVPm) | 5:04 | 2022-01-21 |  |
 | [Journey to the Past \(From The "Anastasia" Soundtrack\)](https://open.spotify.com/track/5vvePm3qbRRatKssQ9K6OB) | [Liz Callaway](https://open.spotify.com/artist/4hcWMDrWJYyU66HA583nCb) | [The Essential Liz Callaway](https://open.spotify.com/album/74Yam0C0jB3OaQtOXeI9rR) | 2:55 | 2022-01-21 |  |
 | [Kung Fu Fighting](https://open.spotify.com/track/6LwjprBFV5NCDueLhLrS1O) | [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8), [Jack Black](https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T) | [Kung Fu Panda \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2fUdfKoSrzobcPZ4bCSmJR) | 2:30 | 2022-01-21 |  |
 | [Let's Get Together \- From "The Parent Trap"](https://open.spotify.com/track/6IOnUNpll37ONAgshDwa5B) | [Hayley Mills](https://open.spotify.com/artist/61g53RNwNxFue8DjFshq05) | [Let's Get Together With Hayley Mills](https://open.spotify.com/album/5qnHifHuv2R2pAamT34pK4) | 1:28 | 2022-01-21 |  |

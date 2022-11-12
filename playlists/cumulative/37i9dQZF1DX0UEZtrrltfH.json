@@ -168,6 +168,24 @@
     },
     {
       "album": {
+        "name": "Their Law The Singles 1990 - 2005",
+        "url": "https://open.spotify.com/album/0aZZ90ZakcGFzFiBMKHrCy"
+      },
+      "artists": [
+        {
+          "name": "The Prodigy",
+          "url": "https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336280,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/0PsRhMfKbjPblbu6Vd7ZGs"
+    },
+    {
+      "album": {
         "name": "The Fat of the Land",
         "url": "https://open.spotify.com/album/2qivROlvQ8BcUKTaCA7dL2"
       },
@@ -179,7 +197,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 336280,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/4ZtqsOdBbS6GoedzzRGSo9"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1UA045EoPG.md) - [plain]
 
 > Sunny beats and the latest heat to soundtrack your summer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,043 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,035 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1UA045EoPG.md) - [plain]
 | 6 | [Sky High](https://open.spotify.com/track/4KPTn94q9A0WsuypOrSzIV) | [Mr\. Goldenfold](https://open.spotify.com/artist/6FPuOcm8xqY362N137yZXi) | [Neighborhood](https://open.spotify.com/album/5LvMZHMGHz6w3N2nwVjdkB) | 2:55 |
 | 7 | [Easy Money](https://open.spotify.com/track/17FYfMKpJJP4uP6B8qv90o) | [Birocratic](https://open.spotify.com/artist/60b7IDlGflg5lgyfEGf9yB) | [Easy Money](https://open.spotify.com/album/3n2oIsnzSfEV3j5gnHQvC5) | 2:57 |
 | 8 | [Peach Jam](https://open.spotify.com/track/6dktyiCWz2JYGmcPQ5D5dY) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq), [BlocBoy JB](https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU) | [Head In The Clouds](https://open.spotify.com/album/6YFBWwUDdot8IjBZSYOacB) | 2:41 |
-| 9 | [Cool It](https://open.spotify.com/track/6jTJq11wBAeTptcybJHmgJ) | [Mars Today](https://open.spotify.com/artist/60jVpPkp3hgECctyeE9gWH) | [Bits & Pieces](https://open.spotify.com/album/2ORjqBygvY8oyEp6oVm8PB) | 3:42 |
+| 9 | [Cool It](https://open.spotify.com/track/1494vznW7AYTPnJePlyeS5) | [Mars Today](https://open.spotify.com/artist/60jVpPkp3hgECctyeE9gWH) | [Cool It](https://open.spotify.com/album/4agNBWoC6gSKsSPh96zfk7) | 3:42 |
 | 10 | [So Fine \(Feat\. Falcxne\)](https://open.spotify.com/track/6r3RoSEAZQMHCZqSS4aEL9) | [falcxne](https://open.spotify.com/artist/5pHwJakVgh9gOqUEoT9ZYz), [evän](https://open.spotify.com/artist/2VNtLWlwWghbNHvtPcM69G) | [Sundae Sauuce Presents: Chocolate Drizzle](https://open.spotify.com/album/0JpEaFsmduibGQhAEoIgXz) | 2:38 |
 | 11 | [Hate Me](https://open.spotify.com/track/31e0GKdA86PliYQ9xnbbtP) | [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv), [Miquela](https://open.spotify.com/artist/7licaqhcEBQUzz9FownRaJ) | [Hate Me](https://open.spotify.com/album/5o96HoZeovqDi3O61OThxA) | 2:26 |
 | 12 | [Slinky Man](https://open.spotify.com/track/0nVLAxfxzW9487k5LZpscC) | [Medasin](https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T) | [Irene](https://open.spotify.com/album/156TeTaPykSuBs9lh0h2vc) | 2:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1UA045EoPG.md) - [plain]
 | 49 | [Getaway](https://open.spotify.com/track/0SOg0VldvpnbaPZfS4ZXgJ) | [Shibo](https://open.spotify.com/artist/73BkLU3tOvi55IkQXWGFFy) | [Getaway](https://open.spotify.com/album/1RcahBHAZTy2HroE7F4F1f) | 2:16 |
 | 50 | [Left & Right](https://open.spotify.com/track/5N6d8ri3KFmAhVIXGydnLN) | [Bluestaeb](https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs), [Aréna](https://open.spotify.com/artist/7tVzCaZxXnF83cqVVcJ15j) | [Left & Right](https://open.spotify.com/album/7ELdoHPpEJ9uOdM02EzBXL) | 3:08 |
 
-Snapshot ID: `MTY2NDI2OTY3NCwwMDAwMDAwMGFlMmIyMDc0MzY3ZDNkZTEwMGMyMWNjZjJjZDZjZDBm`
+Snapshot ID: `MTY2NDI2OTY3NCwwMDAwMDAwMGZjMDEyNWI0ZGM0NmY5NTc5YWNmYWVlMmJkN2M2NjQx`

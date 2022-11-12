@@ -489,7 +489,7 @@
     {
       "album": {
         "name": "Handel: Dixit Dominus / Salve Regina / Nisi Dominus",
-        "url": "https://open.spotify.com/album/1MBPFCji7GQORO2bXUlUwS"
+        "url": "https://open.spotify.com/album/2uMMhv5wCu2TYTUwgkKidh"
       },
       "artists": [
         {
@@ -504,6 +504,28 @@
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 334466,
+      "name": "Dixit Dominus Domino meo",
+      "url": "https://open.spotify.com/track/0W9G1wEdZmG7yIWmaqMZo4"
+    },
+    {
+      "album": {
+        "name": "Handel: Dixit Dominus / Salve Regina / Nisi Dominus",
+        "url": "https://open.spotify.com/album/1MBPFCji7GQORO2bXUlUwS"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "The Scholars Baroque Ensemble",
+          "url": "https://open.spotify.com/artist/79zqMJ0Tc0wATqK0eszdsJ"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-12",
       "duration_ms": 334466,
       "name": "Dixit Dominus Domino meo",
       "url": "https://open.spotify.com/track/2m8EwexHkPVQCNpSTidgPf"
@@ -871,7 +893,7 @@
     {
       "album": {
         "name": "Ren\u00e9e Fleming - Handel Arias",
-        "url": "https://open.spotify.com/album/53QDC8TNL7CEHRhbwpuudB"
+        "url": "https://open.spotify.com/album/12nHQd8bo9cQKwNSwNKhQ4"
       },
       "artists": [
         {
@@ -894,6 +916,36 @@
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 292373,
+      "name": "Giulio Cesare / Act 2: \"V'adoro, pupille\"",
+      "url": "https://open.spotify.com/track/12ktimQujDhMiyagaxac6K"
+    },
+    {
+      "album": {
+        "name": "Ren\u00e9e Fleming - Handel Arias",
+        "url": "https://open.spotify.com/album/53QDC8TNL7CEHRhbwpuudB"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Ren\u00e9e Fleming",
+          "url": "https://open.spotify.com/artist/3SK3gLBgy1jRuA4VnLlcs8"
+        },
+        {
+          "name": "Orchestra of the Age of Enlightenment",
+          "url": "https://open.spotify.com/artist/1WWZAYN8d4n4iwjYALmmKB"
+        },
+        {
+          "name": "Harry Bicket",
+          "url": "https://open.spotify.com/artist/634i1ptyc5dA18xYg9hHL9"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-12",
       "duration_ms": 292373,
       "name": "Giulio Cesare / Act 2: \"V'adoro, pupille\"",
       "url": "https://open.spotify.com/track/1WlUctCmXbyC5eKbJZ8Un0"

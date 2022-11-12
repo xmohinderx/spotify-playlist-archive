@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe7NNfgnTcIC.md) - [plain]
 
 > Enjoy the world of <a href="http://caroleandtuesday.com/">CAROLE & TUESDAY</a> with great theme songs and soundtrack! ©ボンズ・渡辺信一郎／キャロル＆チューズデイ製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,654 likes - 60 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,684 likes - 60 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe7NNfgnTcIC.md) - [plain]
 | 36 | [Milky Way](https://open.spotify.com/track/2FooLzRRBu5TTFdIsYEQKm) | [GGK\(Vo\. Madison McFerrin\)](https://open.spotify.com/artist/2uNzdjKJNxFV5mrAiQBcxC) | [TVアニメ「キャロル&チューズデイ」VOCAL COLLECTION Vol.1](https://open.spotify.com/album/54hb2cgal71xCmoC9EB4IW) | 3:27 |
 | 37 | [True Colors](https://open.spotify.com/track/2A6yzRGMgSQCUapR2ptm6A) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [True Colors](https://open.spotify.com/album/31TRqoVBTQi0lzlPLtvINn) | 3:47 |
 | 38 | [Born to Run](https://open.spotify.com/track/6hTcuIQa0sxrrByu9wTD7s) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born To Run](https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu) | 4:29 |
-| 39 | [Fire and Rain \- 2019 Remaster](https://open.spotify.com/track/1oht5GevPN9t1T3kG1m1GO) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Sweet Baby James \(2019 Remaster\)](https://open.spotify.com/album/1HiG0ukRmFPN13EVcf98Jx) | 3:23 |
-| 40 | [Video Killed The Radio Star](https://open.spotify.com/track/6t1FIJlZWTQfIZhsGjaulM) | [The Buggles](https://open.spotify.com/artist/057gc1fxmJ2vkctjQJ7Tal) | [The Age Of Plastic](https://open.spotify.com/album/5KKpKvLOS4tCV7cSOwIOWF) | 4:13 |
+| 39 | [Fire and Rain](https://open.spotify.com/track/6zgeog6feHU0gpFeG8UbGa) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Calming Ballads](https://open.spotify.com/album/4nGVLxjxJZcgw5f6I4hqi0) | 3:20 |
+| 40 | [Video Killed The Radio Star](https://open.spotify.com/track/1XbbCWrCVM6Hv1eOzzgER0) | [The Buggles](https://open.spotify.com/artist/057gc1fxmJ2vkctjQJ7Tal) | [80's Hits](https://open.spotify.com/album/1RSowVgGWeG8hjKR5DtLeN) | 4:12 |
 | 41 | [Every Breath You Take](https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Synchronicity \(Remastered 2003\)](https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY) | 4:13 |
 | 42 | [Life Is A Carnival \- Remastered](https://open.spotify.com/track/3W8sGgTdlzmlOdhb4ugQgD) | [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA) | [Greatest Hits](https://open.spotify.com/album/5qSfqoD1O3P45CYysXlpOo) | 3:57 |
 | 43 | [Show Me The Way](https://open.spotify.com/track/6BD1X1PeV5UzYUdiVaD2yL) | [Peter Frampton](https://open.spotify.com/artist/0543y7yrvny4KymoaneT4W) | [Frampton](https://open.spotify.com/album/0mRXKbepKXO0Il8H1uMaaX) | 4:03 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe7NNfgnTcIC.md) - [plain]
 | 59 | [Don't Stop Believin'](https://open.spotify.com/track/4bHsxqR3GMrXTxEPLuK5ue) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Escape \(Bonus Track Version\)](https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0) | 4:10 |
 | 60 | [A Change Is Gonna Come](https://open.spotify.com/track/0KOE1hat4SIer491XKk4Pa) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Ain't That Good News](https://open.spotify.com/album/2NFd4ApYFitFtJhGTSfDdP) | 3:11 |
 
-Snapshot ID: `MTYyMjAwODk0MiwwMDAwMDAwMDE3YzQ4YTY1OTU5MjMxM2IzMTQ3OGVjNDI0YTRlMTIy`
+Snapshot ID: `MTYyMjAwODk0MiwwMDAwMDAwMGZmNDgzNmQ4MmM4NDhkYWEwYjk1MmQ5YTY0YjY3OWI3`

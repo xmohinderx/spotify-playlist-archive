@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ukraine.
 
-891 songs - 1 day 17 hr 32 min - [published](https://open.spotify.com/playlist/2khSqJzu5boGIN7vM3USHL)
+892 songs - 1 day 17 hr 35 min - [published](https://open.spotify.com/playlist/2khSqJzu5boGIN7vM3USHL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,7 @@
 | [Dark Side](https://open.spotify.com/track/6A8B1kJ9ZNHbl2uFPN6Wtm) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs) | [Dark Side](https://open.spotify.com/album/6Lzb7EjZXgtelxgBsZUhMS) | 2:57 | 2021-05-25 | 2021-06-01 |
 | [DAVID BECKHAM](https://open.spotify.com/track/6i1wYW9aYzrPTbqYfjamS8) | [OBLADAET](https://open.spotify.com/artist/1hwKCeSXpLrh4OQND6iQHw) | [PLAYERS CLUB](https://open.spotify.com/album/5sw0ehyM0UI5NX7BwPQlXI) | 2:51 | 2021-03-27 | 2021-04-02 |
 | [De Diepte](https://open.spotify.com/track/7uQ7e7nzbtyX87eIYHpj6Z) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [De Diepte](https://open.spotify.com/album/6XAKVt3CT7r1Zf0uiMWt7o) | 2:56 | 2022-05-16 | 2022-05-29 |
-| [Dead Inside](https://open.spotify.com/track/0EPK3XVvgbe8q0KrS7nEiY) | [АДЛИН](https://open.spotify.com/artist/3vw4wtxW7yv7yJSDqkIuUz) | [Dead Inside](https://open.spotify.com/album/5HwVMu4cxjViVqtg1wSYIN) | 2:04 | 2022-09-27 |  |
+| [Dead Inside](https://open.spotify.com/track/0EPK3XVvgbe8q0KrS7nEiY) | [АДЛИН](https://open.spotify.com/artist/3vw4wtxW7yv7yJSDqkIuUz) | [Dead Inside](https://open.spotify.com/album/5HwVMu4cxjViVqtg1wSYIN) | 2:04 | 2022-09-27 | 2022-11-12 |
 | [DEF JOINT 2](https://open.spotify.com/track/6puSUz6WFeWBk6PqZs6DG9) | [OBLADAET](https://open.spotify.com/artist/1hwKCeSXpLrh4OQND6iQHw) | [PLAYERS CLUB](https://open.spotify.com/album/5sw0ehyM0UI5NX7BwPQlXI) | 2:07 | 2021-03-27 | 2021-03-29 |
 | [Diamond](https://open.spotify.com/track/0hyBoVYAltzIX1iXcP7XZS) | [Кореш](https://open.spotify.com/artist/4JMt9C71qFOVZRzXj209Cp), [PINQ](https://open.spotify.com/artist/3xYxH7G5JimR1F1thIZYAQ) | [Diamond](https://open.spotify.com/album/5oAmmsRnwV6fvRAM060HL0) | 2:08 | 2022-11-05 | 2022-11-10 |
 | [DiE4u](https://open.spotify.com/track/2gT72HL4Y84K2Mle3miAMJ) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [DiE4u](https://open.spotify.com/album/4L4TlrXB94790rqWBprweP) | 3:27 | 2021-09-19 | 2021-09-20 |
@@ -380,6 +380,7 @@
 | [Softcore](https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Hard To Imagine The Neighbourhood Ever Changing](https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy) | 3:26 | 2022-01-14 | 2022-01-21 |
 | [Someday](https://open.spotify.com/track/6aDsgHPZsMztSbZernzlF8) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Human \(Deluxe\)](https://open.spotify.com/album/0SrskI3mHcu5MzKeZNv2f6) | 3:07 | 2021-08-29 | 2021-08-30 |
 | [Sonne](https://open.spotify.com/track/3gVhsZtseYtY1fMuyYq06F) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Mutter](https://open.spotify.com/album/1CtTTpKbHU8KbHRB4LmBbv) | 4:32 | 2022-10-04 |  |
+| [SPIT IN MY FACE!](https://open.spotify.com/track/2jkyPVk1nbpsZD0KAS98Zw) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/5wtEXxqlCbVuy7hxDsTX3K) | 2:27 | 2022-11-11 |  |
 | [STAY \(with Justin Bieber\)](https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [STAY \(with Justin Bieber\)](https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ) | 2:21 | 2021-07-11 | 2021-07-25 |
 | [STAY \(with Justin Bieber\)](https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [F\*CK LOVE 3: OVER YOU](https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2) | 2:21 | 2021-07-25 | 2022-02-26 |
 | [Stay Alive \(Prod\. SUGA of BTS\)](https://open.spotify.com/track/7CAdT0HdiQNlt1C7xk2hep) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [Stay Alive \(Prod\. SUGA of BTS\)](https://open.spotify.com/album/6nvSZLAsbg56fGSCVm8fL9) | 3:30 | 2022-02-12 | 2022-02-17 |

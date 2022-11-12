@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hungary.
 
-589 songs - 1 day 7 hr 10 min - [published](https://open.spotify.com/playlist/7svddjzxIPaFrTrcCSo8Qo)
+590 songs - 1 day 7 hr 14 min - [published](https://open.spotify.com/playlist/7svddjzxIPaFrTrcCSo8Qo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,7 @@
 | [Do It To It](https://open.spotify.com/track/20on25jryn53hWghthWWW3) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Do It To It](https://open.spotify.com/album/58cd90Jkrovggh556JPN9L) | 2:37 | 2021-11-04 | 2022-05-31 |
 | [Do They Know It's Christmas? \- 1984 Version](https://open.spotify.com/track/0247StOpd3AkeBQzANX4Zf) | [Band Aid](https://open.spotify.com/artist/35S20clEkkSNUo23ViaslZ) | [Do They Know It's Christmas?](https://open.spotify.com/album/0Q96oESySVI3gLFTkhttn5) | 3:42 | 2021-12-23 | 2021-12-27 |
 | [DOHÁNYBOLT](https://open.spotify.com/track/6VIRqekzE2sQOAvjDnOq2M) | [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y) | [DOHÁNYBOLT](https://open.spotify.com/album/2drwY2b9rgQBlMMhYu4pOf) | 2:56 | 2022-05-21 | 2022-05-28 |
-| [DOHÁNYBOLT](https://open.spotify.com/track/31876LYPTkqUlFWQAEBxd6) | [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y) | [PLAYBÁNIA](https://open.spotify.com/album/5xMzTHcRiGKdBhGj8PjV4h) | 2:56 | 2022-09-03 | 2022-10-27 |
+| [DOHÁNYBOLT](https://open.spotify.com/track/31876LYPTkqUlFWQAEBxd6) | [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y) | [PLAYBÁNIA](https://open.spotify.com/album/5xMzTHcRiGKdBhGj8PjV4h) | 2:56 | 2022-09-03 |  |
 | [Doja](https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Doja](https://open.spotify.com/album/6oECjagksATHu2UaclXrq1) | 1:37 | 2022-07-23 | 2022-10-27 |
 | [Don't Be Shy](https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Don't Be Shy](https://open.spotify.com/album/2TvfE8CY37OQIPVGcWYpEA) | 2:20 | 2021-09-15 | 2022-02-22 |
 | [Don't Go Yet](https://open.spotify.com/track/1058fW9H3fZA6QjYCdOBad) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Don't Go Yet](https://open.spotify.com/album/4gxhWdfO9qAogokjIc2bPZ) | 2:44 | 2021-07-28 | 2021-08-22 |
@@ -328,7 +328,7 @@
 | [Merry Christmas](https://open.spotify.com/track/0aoUM0zcu0kCX7Cv7O939I) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [= \(Christmas Edition\)](https://open.spotify.com/album/5ocpnIrbBOWWpHqk2uI1pa) | 3:28 | 2021-12-06 | 2021-12-29 |
 | [Merry Christmas Everyone](https://open.spotify.com/track/2TE4xW3ImvpltVU0cPcKUn) | [Shakin' Stevens](https://open.spotify.com/artist/0wi4yTYlGtEnbGo4ltZTib) | [Merry Christmas Everyone](https://open.spotify.com/album/2jCRKrNZVbG2lGMs0S9Opa) | 3:40 | 2021-12-23 | 2021-12-27 |
 | [messzi világ szerkezete](https://open.spotify.com/track/4Z55llsKV24VTRpncDWVu8) | [gyuris](https://open.spotify.com/artist/19w3KViMCX0eq1UjNic2W9) | [messzi világ szerkezete](https://open.spotify.com/album/1VBilL2lA80IoK7jhmw4XJ) | 2:17 | 2021-10-31 | 2022-01-31 |
-| [Mesélek a bornak](https://open.spotify.com/track/2uD4Fw5DjWGMffAs7RWSmd) | [4s Street](https://open.spotify.com/artist/3W75Q3HN7adHVSjjRJX1ap) | [Szebb napok](https://open.spotify.com/album/72ZAk4R78fcO8rP5JCWI7m) | 3:37 | 2022-10-31 |  |
+| [Mesélek a bornak](https://open.spotify.com/track/2uD4Fw5DjWGMffAs7RWSmd) | [4s Street](https://open.spotify.com/artist/3W75Q3HN7adHVSjjRJX1ap) | [Szebb napok](https://open.spotify.com/album/72ZAk4R78fcO8rP5JCWI7m) | 3:37 | 2022-10-31 | 2022-11-12 |
 | [Mi a Helyzet](https://open.spotify.com/track/3wS46yqQZRyYtvXlRF37pR) | [AKC Misi](https://open.spotify.com/artist/4pWRro00gdnq90CwBmSCtv), [AKC Kretta](https://open.spotify.com/artist/3NuMiSIG3kYlW4dGwljerz) | [Holdvilág Club Hotel & Casino](https://open.spotify.com/album/2jCvGyvuawW2wxDgfiDJUS) | 3:48 | 2022-04-23 | 2022-04-25 |
 | [Mi Lesz?](https://open.spotify.com/track/7HonFfDSgvZiGe0s8i7dwo) | [Carson Coma](https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6) | [Digitális/Analóg](https://open.spotify.com/album/3Esc3QxtrJhGTB1CWvl2sA) | 3:20 | 2022-03-12 | 2022-03-21 |
 | [Miafasz](https://open.spotify.com/track/7cU3vDXfkH4bAemYBxuoJT) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq), [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [A ló túloldalán](https://open.spotify.com/album/0TMeEvXP5MKfH34B5tBga7) | 3:13 | 2022-05-21 |  |
@@ -380,7 +380,7 @@
 | [Oh My God](https://open.spotify.com/track/3Kkjo3cT83cw09VJyrLNwX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:45 | 2021-11-21 | 2021-12-03 |
 | [Ok Ok](https://open.spotify.com/track/4VYEnxm7lmtG5sEEbcmORB) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:24 | 2021-09-01 | 2021-09-02 |
 | [Ok Ok pt 2](https://open.spotify.com/track/1QCqedB1ibmRO9x7Ikb5LI) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:24 | 2021-08-31 | 2021-09-01 |
-| [Okari](https://open.spotify.com/track/0qYWBLuP1HyzJv8WNsochH) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [A ló túloldalán](https://open.spotify.com/album/0TMeEvXP5MKfH34B5tBga7) | 4:09 | 2022-05-21 |  |
+| [Okari](https://open.spotify.com/track/0qYWBLuP1HyzJv8WNsochH) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [A ló túloldalán](https://open.spotify.com/album/0TMeEvXP5MKfH34B5tBga7) | 4:09 | 2022-05-21 | 2022-11-12 |
 | [Olyan Ő](https://open.spotify.com/track/0GsltzHgCGCiQvskZggDDj) | [Bagossy Brothers Company](https://open.spotify.com/artist/1vpC76RZf9ndFkOEB7agn9) | [Veled Utazom](https://open.spotify.com/album/5r58X4ClpnBIvBWm2XX63f) | 3:46 | 2021-03-27\* | 2021-10-26 |
 | [On BS](https://open.spotify.com/track/34tz0eDhGuFErIuW3q4mPX) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 4:21 | 2022-11-05 | 2022-11-07 |
 | [One Kiss \(with Dua Lipa\)](https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [One Kiss \(with Dua Lipa\)](https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581) | 3:34 | 2022-08-11 | 2022-08-17 |
@@ -454,6 +454,7 @@
 | [RÉT](https://open.spotify.com/track/7EQq2RCCbFOR7XnN5J1vTv) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq), [DESH](https://open.spotify.com/artist/5NydObjtRsTiElOzm5vmgs) | [RÉT](https://open.spotify.com/album/2a9vtUOCvapcSy7dWrWfij) | 3:10 | 2021-03-27\* | 2022-06-24 |
 | [rút](https://open.spotify.com/track/5bSRJo4Ox8mlk0JoOu5l7N) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [silbak](https://open.spotify.com/album/34GtFdoJSROHH0hrn9SyJJ) | 2:44 | 2022-08-11 | 2022-09-21 |
 | [Sacrifice](https://open.spotify.com/track/1nH2PkJL1XoUq8oE6tBZoU) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:08 | 2022-01-08 | 2022-01-23 |
+| [Sajnálom](https://open.spotify.com/track/1CyfvrQKRmkky5LzBemnPD) | [LUCA](https://open.spotify.com/artist/7JJvnCP92EaNcAr6ql0zIa), [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG) | [Sajnálom](https://open.spotify.com/album/2z8YdJt3Q5hFYhPN8zHsTq) | 3:45 | 2022-11-11 |  |
 | [Sajnálom](https://open.spotify.com/track/5FPk6JYK0tYzEWtqYgUvrA) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8) | [Idegen, Vol\. 1.](https://open.spotify.com/album/1cSCDIHlM4QbyRtEiNgPHk) | 2:32 | 2022-06-07 | 2022-06-20 |
 | [Salsa](https://open.spotify.com/track/2Pamnme5Gt63lWm2O5mhFI) | [ALEE](https://open.spotify.com/artist/0HtJHszzuucFjA33hHBJrT) | [Salsa](https://open.spotify.com/album/5LK37WntoowGRf97jDheDb) | 2:10 | 2021-12-10 | 2021-12-17 |
 | [Santa Baby](https://open.spotify.com/track/2SBr3MK1sdMs8IxdRcN6qz) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Kylie Christmas](https://open.spotify.com/album/0XRlr1kD7uPfLb0RxQKt6W) | 3:21 | 2021-12-24 | 2021-12-27 |

@@ -4,7 +4,7 @@
 
 > A perfect mix for your Mehendi evening.
 
-45 songs - 3 hr 42 min - [published](https://open.spotify.com/playlist/7oiZrfdRzIQ2ploR2YcUiu)
+46 songs - 3 hr 48 min - [published](https://open.spotify.com/playlist/7oiZrfdRzIQ2ploR2YcUiu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,8 @@
 | [Mehndi Ki Raat](https://open.spotify.com/track/6yyC676TchwgOyhVfOykxA) | [Models](https://open.spotify.com/artist/7rH3S7xMKRVSr0JrpqTUIZ) | [Jaana Hai Bollywood](https://open.spotify.com/album/1ZhKxioBc0HF6CDGYHXMpx) | 4:23 | 2022-03-14 |  |
 | [Mehndi Ki Raat](https://open.spotify.com/track/7y6GHj9Jc5ZT0pMNwkw95x) | [Shree Lekha](https://open.spotify.com/artist/1pjbVA2ocNjqiOaFbFvabI), [Sonali Das](https://open.spotify.com/artist/4D6r0qWAWcU9gzfTi6uinn), [Dipali](https://open.spotify.com/artist/2hbLXaqzGVQ2YLXuDMja39), [Anuja](https://open.spotify.com/artist/5V8DocXmZeYm3zZ3dYS8IF), [Bhushan Dua](https://open.spotify.com/artist/4PhJv48oy3YJMQ5hDt9BFu) | [Mehndi Ki Raat](https://open.spotify.com/album/3ZiZ9EigOAvzrAe24eE9sJ) | 45:51 | 2022-03-14 |  |
 | [Mere Wala Sardar](https://open.spotify.com/track/4lSSJcfptqRAv9cTzpherg) | [Jagraj Sandhu, Dr\. Shree](https://open.spotify.com/artist/3xnffjIEcOUvK7FUu38Mh9) | [Mere Wala Sardar](https://open.spotify.com/album/06RDH8jeLq7ySpetjFtr5I) | 5:16 | 2022-03-14 | 2022-07-29 |
-| [Mere Wala Sardar](https://open.spotify.com/track/3hCLDKPwRELWLnYF3nOY5J) | [Jugraj Sandhu](https://open.spotify.com/artist/60Lqd5e2bHRWKuCaHgzPvI) | [Mere Wala Sardar](https://open.spotify.com/album/4ak8uKr82XTB2QVh48CAkC) | 5:16 | 2022-03-14 |  |
+| [Mere Wala Sardar](https://open.spotify.com/track/3hCLDKPwRELWLnYF3nOY5J) | [Jugraj Sandhu](https://open.spotify.com/artist/60Lqd5e2bHRWKuCaHgzPvI) | [Mere Wala Sardar](https://open.spotify.com/album/4ak8uKr82XTB2QVh48CAkC) | 5:16 | 2022-03-14 | 2022-11-12 |
+| [Mere Wala Sardar](https://open.spotify.com/track/3ytXkORQXWSs4EKUj2T9z0) | [Jugraj Sandhu](https://open.spotify.com/artist/60Lqd5e2bHRWKuCaHgzPvI) | [Hits Of Dr\. Shree](https://open.spotify.com/album/6MurzRDPW3lMSMirQfAG24) | 5:16 | 2022-03-14 |  |
 | [Multan](https://open.spotify.com/track/2Qr6caRtWpQitY0t7qjsxi) | [Mannat Noor](https://open.spotify.com/artist/0TxBLummgAxRkxn21HrLDp) | [Multan](https://open.spotify.com/album/0QQwhLBFDqjzMiWYcQaiNi) | 4:05 | 2022-03-14 |  |
 | [Navrai Majhi](https://open.spotify.com/track/5ZLplBxO5OmotTmYY8920p) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Natali Di Luccio](https://open.spotify.com/artist/672316o5Y63QCzOkXIth5w), [Neelambari Kirkire](https://open.spotify.com/artist/6alTCEe35NN3busJ9xGAlU), [Swanand Kirkire](https://open.spotify.com/artist/4q7O0NIvhz0G1IgyfOmdcz) | [English Vinglish](https://open.spotify.com/album/65N0JAv4NbVtQHGQSegVRm) | 4:22 | 2022-03-14 | 2022-07-29 |
 | [Navrai Majhi](https://open.spotify.com/track/73b9wDijCUpicQUzrc47EY) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Swanand Kirkire](https://open.spotify.com/artist/4q7O0NIvhz0G1IgyfOmdcz), [Neelambari Kirkire](https://open.spotify.com/artist/6alTCEe35NN3busJ9xGAlU), [Natali Di Luccio](https://open.spotify.com/artist/672316o5Y63QCzOkXIth5w) | [English Vinglish](https://open.spotify.com/album/2uT4K3kAtYkmvzxVDNKc6U) | 4:22 | 2022-03-14 |  |

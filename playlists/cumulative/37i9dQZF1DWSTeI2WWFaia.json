@@ -536,6 +536,36 @@
     },
     {
       "album": {
+        "name": "Band of Brothers",
+        "url": "https://open.spotify.com/album/2OwdxUvQBCjolqKBZYXI0v"
+      },
+      "artists": [
+        {
+          "name": "38 Spesh",
+          "url": "https://open.spotify.com/artist/32cT1WQRSDg4xsReG7eqyT"
+        },
+        {
+          "name": "Harry Fraud",
+          "url": "https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S"
+        },
+        {
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+        },
+        {
+          "name": "Ransom",
+          "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
+        }
+      ],
+      "date_added": "2022-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171645,
+      "name": "Band of Brothers",
+      "url": "https://open.spotify.com/track/4UY8uzghtixlMhFR4JFqzF"
+    },
+    {
+      "album": {
         "name": "ROADRUNNER: NEW LIGHT, NEW MACHINE",
         "url": "https://open.spotify.com/album/6sPcgDto5EI6EBPc2jhDC7"
       },
@@ -1221,7 +1251,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 170373,
       "name": "Checkmate",
       "url": "https://open.spotify.com/track/3KYTIo9pu84SbLL53iGew4"
@@ -1436,6 +1466,28 @@
     },
     {
       "album": {
+        "name": "The Forever Story (Extended Version)",
+        "url": "https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g"
+      },
+      "artists": [
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "name": "Kenny Mason",
+          "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227555,
+      "name": "Dance Now (feat. Kenny Mason)",
+      "url": "https://open.spotify.com/track/2WrldKXSBVbNNm3A9vJryi"
+    },
+    {
+      "album": {
         "name": "The Forever Story",
         "url": "https://open.spotify.com/album/3QVjpIxcksDkJmOnvlOJjg"
       },
@@ -1451,7 +1503,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 227555,
       "name": "Dance Now (feat. Kenny Mason)",
       "url": "https://open.spotify.com/track/6wj7wjtegmkziorQ2tt5Pz"
@@ -2591,7 +2643,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 126114,
       "name": "Good Wine",
       "url": "https://open.spotify.com/track/16QxSt81FZSUynjfopa8pv"
@@ -4240,6 +4292,24 @@
     },
     {
       "album": {
+        "name": "King's Disease III",
+        "url": "https://open.spotify.com/album/3vQuGKQJMfdXmkjRKqUesk"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "date_added": "2022-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167724,
+      "name": "Michael & Quincy",
+      "url": "https://open.spotify.com/track/5MfCvL6jCTkxPCBQf3OkYH"
+    },
+    {
+      "album": {
         "name": "G.R.A.M.S.",
         "url": "https://open.spotify.com/album/1UQHTiRtuGTCTvwIFDcKkZ"
       },
@@ -4807,6 +4877,24 @@
       "duration_ms": 136500,
       "name": "Nobles (feat. Earl Sweatshirt & Navy Blue)",
       "url": "https://open.spotify.com/track/4BZYQk0qoFTnTKY90Q8iBZ"
+    },
+    {
+      "album": {
+        "name": "Note To Self",
+        "url": "https://open.spotify.com/album/6cRRJmCi1WIvTSEBmrjj6j"
+      },
+      "artists": [
+        {
+          "name": "Katori Walker",
+          "url": "https://open.spotify.com/artist/2ODTjg0iTHX1QxBeRNI6nT"
+        }
+      ],
+      "date_added": "2022-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144519,
+      "name": "Note To Self",
+      "url": "https://open.spotify.com/track/3d7aL2Z4Ovrwei3wevMEIt"
     },
     {
       "album": {
@@ -7427,7 +7515,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 282581,
       "name": "Vinyl Days (feat. DJ Premier)",
       "url": "https://open.spotify.com/track/4Red8fs87G5istv5L8S9kU"

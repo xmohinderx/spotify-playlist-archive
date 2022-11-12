@@ -4,7 +4,7 @@
 
 > Jazzy sounds with soft beats for relaxing and unwinding.
 
-219 songs - 13 hr 59 min - [published](https://open.spotify.com/playlist/6x5bLDuTDrk1dE08PCXWyO)
+220 songs - 14 hr 3 min - [published](https://open.spotify.com/playlist/6x5bLDuTDrk1dE08PCXWyO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [Koma Kaprifol](https://open.spotify.com/track/0hDZkmYKe6JJHnXPeAkEmM) | [Petter Eldh](https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx), [Koma Saxo](https://open.spotify.com/artist/28Ua0GwMz73dcNeUZIXDq8), [Sofia Jernberg](https://open.spotify.com/artist/0KzOF8uIL7271V6GgkwI3F), [Otis Sandsjö](https://open.spotify.com/artist/6diHo4GRFDIubnyPcfdt44), [Jonas Kullhammar](https://open.spotify.com/artist/3hHc4tqyPsRJOzzqaxkadB), [Mikko Innanen](https://open.spotify.com/artist/4HWtSGcRzJwM9qj21ODsIj), [Christian Lillinger](https://open.spotify.com/artist/4qSlZL1HI3eqZ5oFP0ZR26) | [Koma Kaprifol](https://open.spotify.com/album/2K6NzSo1DWgQsAenWfryBM) | 3:30 | 2022-02-17 | 2022-04-22 |
 | [Liberta](https://open.spotify.com/track/0lw9eOnzrOuC3yDNK8nwW7) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Viktor Minsky](https://open.spotify.com/artist/5mS3l0prvJ5cpqzx8zz4GH), [SP\-Mato](https://open.spotify.com/artist/1UirLyIwdIElsaGCp0W4Ym) | [Liberta](https://open.spotify.com/album/7CpXwOkmDbrYpnkFOlc5Ft) | 1:45 | 2022-10-27 |  |
 | [Life Of Leisure](https://open.spotify.com/track/0P88cwiU0x8rrYudwmO3Pj) | [Elusive](https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI) | [Excursions](https://open.spotify.com/album/39AhUDFW2KH9RHZWGuMdwo) | 2:48 | 2022-02-17 |  |
-| [limonene](https://open.spotify.com/track/3Apg6aI4J5OxeiF032ttYY) | [Jfab](https://open.spotify.com/artist/7jqOx7roPoSzHGnNWBFVqW) | [limonene](https://open.spotify.com/album/6SSMQdids0Iixj0xzSFFrJ) | 2:56 | 2022-05-13 |  |
+| [limonene](https://open.spotify.com/track/3Apg6aI4J5OxeiF032ttYY) | [Jfab](https://open.spotify.com/artist/7jqOx7roPoSzHGnNWBFVqW) | [limonene](https://open.spotify.com/album/6SSMQdids0Iixj0xzSFFrJ) | 2:56 | 2022-05-13 | 2022-11-12 |
 | [Lockdown Drive](https://open.spotify.com/track/1OMr7DcjwxiqbyMclrScD1) | [Jazzbois](https://open.spotify.com/artist/0jq1z5MQSlFtvpbnLzeEul) | [Jazzbois Goes Blunt II](https://open.spotify.com/album/0O3bdEWuD0AFkstEtfQOF3) | 5:20 | 2022-02-17 |  |
 | [Lofi Sauce](https://open.spotify.com/track/3bAUmGi6G9MNWIkTmap9WD) | [The Brothers Nylon](https://open.spotify.com/artist/5WLTGcENPt84BZtmx6rt50) | [Lofi Sauce](https://open.spotify.com/album/5Ea0SCW5c3zEukb5nKMp6p) | 3:23 | 2022-06-02 |  |
 | [Look Up](https://open.spotify.com/track/5OkkZtwYmuSLbAFxcqolw3) | [Raffy Bushman](https://open.spotify.com/artist/4xX2QeWsypmEv9w4u9P6xC) | [Look Up](https://open.spotify.com/album/6y4VhfTSv5cVpJHobgYybd) | 5:34 | 2022-04-22 |  |
@@ -158,6 +158,7 @@
 | [Sais \(Egypt\)](https://open.spotify.com/track/3bGbluKM6GBtr8tY9ij503) | [Chip Wickham](https://open.spotify.com/artist/62MkXCxcZ345tVUHsD9NK0) | [Astral Traveling](https://open.spotify.com/album/2SdYnjRWuQH00nX3d4FWZz) | 7:42 | 2022-06-22 |  |
 | [Satori Ways](https://open.spotify.com/track/1l27GB8qsdLvDIaNjmS7qO) | [Web Web](https://open.spotify.com/artist/4EmIrTN6q1uhLRL8hmhuHF), [Max Herre](https://open.spotify.com/artist/7IpWQKu80qQvyer3LO6SW3), [Brandee Younger](https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB) | [Satori Ways](https://open.spotify.com/album/2ddXqx3PYPz15XT9Np5ler) | 5:36 | 2022-02-17 | 2022-04-23 |
 | [Silver Lining](https://open.spotify.com/track/10hx4sKe98T1f4szHV5zru) | [J3PO](https://open.spotify.com/artist/0lSFr65zkY254m1qbHAb5k) | [MAINS](https://open.spotify.com/album/5kR7t1B8wTKFKi6kfyKyiv) | 3:42 | 2022-02-17 | 2022-11-02 |
+| [Silver Lining](https://open.spotify.com/track/13u3ooUx4eEn7vXJ9TFkBf) | [J3PO](https://open.spotify.com/artist/0lSFr65zkY254m1qbHAb5k) | [MAINS](https://open.spotify.com/album/4ffYTuxsKPUVL5eFJWjVHS) | 3:42 | 2022-11-10 |  |
 | [Siren Call](https://open.spotify.com/track/41cDyLUieQjGRsw9ezlECk) | [Toine Thys](https://open.spotify.com/artist/3zxSolAZlT84wysneC7GUU), [GURU.FARM](https://open.spotify.com/artist/7MB2t9SLvpvvbf0NahGVZg) | [Guédé](https://open.spotify.com/album/5uprZ4VBkK8SVYReHykGvZ) | 4:59 | 2022-02-17 | 2022-11-11 |
 | [SMiLE](https://open.spotify.com/track/5Pldw6q3Qa9tfWqXFWRSGY) | [DOMi & JD BECK](https://open.spotify.com/artist/4UpA1KitN1RgIZVyWDbZ0U) | [SMiLE](https://open.spotify.com/album/05C5mWohpPDcW8VmRBJHpk) | 3:11 | 2022-04-28 | 2022-05-25 |
 | [So What](https://open.spotify.com/track/265wSVvd8vDhT10eskjJS5) | [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC), [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH), [Epektase](https://open.spotify.com/artist/31jYTsfmnHqcK7ahdqlqmo), [Cool Cats Lofi](https://open.spotify.com/artist/6tchLnaQY0JmNKvYJ2riX3) | [So What](https://open.spotify.com/album/7DXMRH7UGYLZ6eSrqNxd3C) | 2:09 | 2022-03-11 | 2022-06-03 |

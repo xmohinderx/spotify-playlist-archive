@@ -4,7 +4,7 @@
 
 > One of the finest <a href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">voices</a> we've ever known\. Now hear her greatest songs.
 
-85 songs - 5 hr 1 min - [published](https://open.spotify.com/playlist/6NVVeBEdikyEMIP4XuAl13)
+86 songs - 5 hr 4 min - [published](https://open.spotify.com/playlist/6NVVeBEdikyEMIP4XuAl13)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,8 +78,9 @@
 | [Take Care Of Business](https://open.spotify.com/track/2YwjSPeznyCvkUYvqKbXa9) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [I Put A Spell On You](https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez) | 2:05 | 2022-04-27 | 2022-11-11 |
 | [Take Care Of Business](https://open.spotify.com/track/6sPLMFOMVgY4dMB2se17uY) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [I Put A Spell On You](https://open.spotify.com/album/13jolTb1DQl8IVPczYtQJ3) | 2:05 | 2021-04-07 | 2022-07-29 |
 | [The Look of Love](https://open.spotify.com/track/0EiGzshQIaM98eOXdKTGaD) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Silk & Soul \(Expanded Edition\)](https://open.spotify.com/album/2miVfa78vOd0o8Vbsgd7g3) | 2:22 | 2021-04-07 |  |
+| [The Other Woman \- Live In New York, 1964](https://open.spotify.com/track/3E40vFxUVm2RsfTOeZzYWF) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Spotlight on Nina Simone](https://open.spotify.com/album/6N4bEm9XVxGP3YdMwDjwoF) | 3:02 | 2022-10-27 |  |
 | [The Other Woman \- Live In New York/1964](https://open.spotify.com/track/2FyTJxPdcMJnrxcIWBSNce) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Let It All Out](https://open.spotify.com/album/3vBx19MVX89jILEWWE4syK) | 3:02 | 2021-04-07 | 2022-07-29 |
-| [The Other Woman \- Live Version \- Sept\. 1959](https://open.spotify.com/track/2kvYMbijT2djq5C0MnMI6h) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [At Town Hall](https://open.spotify.com/album/1F0tyYLIIxNnJuAgwLuIIn) | 3:01 | 2022-04-27 |  |
+| [The Other Woman \- Live Version \- Sept\. 1959](https://open.spotify.com/track/2kvYMbijT2djq5C0MnMI6h) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [At Town Hall](https://open.spotify.com/album/1F0tyYLIIxNnJuAgwLuIIn) | 3:01 | 2022-04-27 | 2022-11-12 |
 | [The Times They Are A\-Changin' \- Outtake](https://open.spotify.com/track/159F1pdX35fbRevVBbjTFw) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [A Single Woman \(Expanded\)](https://open.spotify.com/album/5pSGlGB1DVrSlvQBcvlPyB) | 0:58 | 2021-04-07 |  |
 | [The Twelveth of Never](https://open.spotify.com/track/7F0YrCETWyKpprlNJpYfWi) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Folksy Nina](https://open.spotify.com/album/15BJXpDCCpQCVOQWfAf7gC) | 3:27 | 2022-04-27 |  |
 | [The Twelveth of Never](https://open.spotify.com/track/7nG99BjC0xL4UAp7GBPxTm) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Folksy Nina](https://open.spotify.com/album/2yswGnEKfqStTVvG6VZZ55) | 3:27 | 2021-04-07 | 2022-07-29 |

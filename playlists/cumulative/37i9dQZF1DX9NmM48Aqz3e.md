@@ -4,7 +4,7 @@
 
 > Songs from Canadian artists that dominated the 1990s\. Cover: LEN
 
-77 songs - 5 hr 27 min - [published](https://open.spotify.com/playlist/6CgEUIUlkREuwgdQRBCDcG)
+79 songs - 5 hr 34 min - [published](https://open.spotify.com/playlist/6CgEUIUlkREuwgdQRBCDcG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,8 @@
 | [One More Astronaut](https://open.spotify.com/track/3l20bPHgAFsFPRogdTNXWS) | [I Mother Earth](https://open.spotify.com/artist/3zEJAyZ1qSHSx9936UfXuM) | [Drive Fast, Rock Hard](https://open.spotify.com/album/1q8qvlZHzXmrcG1LmdxvlL) | 5:24 | 2021-09-21 |  |
 | [One More Astronaut](https://open.spotify.com/track/3kJw8wpzrB5WLFcdmIvXew) | [I Mother Earth](https://open.spotify.com/artist/3zEJAyZ1qSHSx9936UfXuM) | [Scenery & Fish](https://open.spotify.com/album/2ghGUuQNwMOVl5HNIPSKeU) | 5:24 | 2020-10-29\* | 2022-07-29 |
 | [One Week](https://open.spotify.com/track/1C0pmryC2MdXfa7MZ9uIrU) | [Barenaked Ladies](https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79) | [Stunt](https://open.spotify.com/album/4FsibLgkGMV9AfbLtEqvxT) | 2:49 | 2020-10-29\* | 2022-07-29 |
-| [One Week](https://open.spotify.com/track/29hBRadFZf9QTGRHZmxm65) | [Barenaked Ladies](https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79) | [Stunt \(20th Anniversary Edition\)](https://open.spotify.com/album/0DuFDnZcj7B4R0Jik1aDmY) | 2:49 | 2021-09-21 |  |
+| [One Week](https://open.spotify.com/track/29hBRadFZf9QTGRHZmxm65) | [Barenaked Ladies](https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79) | [Stunt \(20th Anniversary Edition\)](https://open.spotify.com/album/0DuFDnZcj7B4R0Jik1aDmY) | 2:49 | 2021-09-21 | 2022-11-12 |
+| [One Week](https://open.spotify.com/track/2ovOA14yJnjBbLEsHjdeyQ) | [Barenaked Ladies](https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79) | [90's Mixtape](https://open.spotify.com/album/6tGAczC6MJsOqBr0w1R7LN) | 2:49 | 2021-09-21 |  |
 | [Out of My Head](https://open.spotify.com/track/1hdrmUDjFHPYigKYwf6aJC) | [Junkhouse](https://open.spotify.com/artist/7HTWYaZzuODnDc5dJN4EM3) | [Strays](https://open.spotify.com/album/7BKDjfyOFnHDbhguK5GZBO) | 3:47 | 2021-09-21 |  |
 | [Push](https://open.spotify.com/track/2qWEbBusFleCxKGTVaKEhZ) | [Moist](https://open.spotify.com/artist/405mr7FXn2Owukvhlid2Tz) | [Silver](https://open.spotify.com/album/5QcdaEgknPDT2CwsQ3fKMn) | 3:50 | 2021-09-21 |  |
 | [Push](https://open.spotify.com/track/3NN2VyGJUre8epa7bWr8jw) | [Moist](https://open.spotify.com/artist/405mr7FXn2Owukvhlid2Tz) | [Silver](https://open.spotify.com/album/6rzMckapLqcGs5GubjR8CA) | 3:50 | 2020-10-29\* | 2022-07-29 |
@@ -67,7 +68,7 @@
 | [Steal My Sunshine \- Remastered Version](https://open.spotify.com/track/6tsMn9okxcLBklFQ2Sc8Ar) | [LEN](https://open.spotify.com/artist/0nyc9SZGLITSOJASmTZsnZ) | [Steal My Sunshine \(Remixes, Vol\. 1\)](https://open.spotify.com/album/00nBnX92FEffzDHV1e84FL) | 3:31 | 2020-10-29\* |  |
 | [Sucks To Be You](https://open.spotify.com/track/3St0CuLCZghaJrT33e7RT5) | [Prozzak](https://open.spotify.com/artist/0xJDpKj8NVkSRawbaxRF6q) | [Hot Show](https://open.spotify.com/album/5UFAqjSyp85UfL30v4lpsz) | 3:21 | 2021-09-21 | 2022-07-29 |
 | [Sucks To Be You](https://open.spotify.com/track/6NtKwJUIVl213jNPoPW95Q) | [Prozzak](https://open.spotify.com/artist/0xJDpKj8NVkSRawbaxRF6q) | [Hot Show](https://open.spotify.com/album/586yBJiBN0KyDLAJFqPGwC) | 3:21 | 2021-09-21 | 2022-11-11 |
-| [Sucks To Be You](https://open.spotify.com/track/102E5Egk3W9IVvmNDwGTyj) | [Simon and Milo](https://open.spotify.com/artist/5DsWmqdGmwQnticIxppXuQ) | [Ready Ready Set Go](https://open.spotify.com/album/6yxRGtWQhpwLq8GegWYzEF) | 3:20 | 2021-09-21 |  |
+| [Sucks To Be You](https://open.spotify.com/track/102E5Egk3W9IVvmNDwGTyj) | [Simon and Milo](https://open.spotify.com/artist/5DsWmqdGmwQnticIxppXuQ) | [Ready Ready Set Go](https://open.spotify.com/album/6yxRGtWQhpwLq8GegWYzEF) | 3:20 | 2021-09-21 | 2022-11-12 |
 | [Summerlong](https://open.spotify.com/track/0b7bxGfiO1iz5J4VaNa1kz) | [Emm Gryner](https://open.spotify.com/artist/7MXEntILebAfX9ByW6MObM) | [Public](https://open.spotify.com/album/5fkfYGSKTOnx1JN8th9gzj) | 3:53 | 2020-10-29\* |  |
 | [Superman's Dead](https://open.spotify.com/track/1612JQ4JxS8bm5ky53N3bH) | [Our Lady Peace](https://open.spotify.com/artist/1lqW59DUEKqvcHc8mVWBtH) | [Clumsy](https://open.spotify.com/album/4qR92pgYZPRNV6GA9gC7OC) | 4:15 | 2021-09-21 | 2022-11-11 |
 | [Superman's Dead](https://open.spotify.com/track/5AqdEGne9bWAMPTI5UUmQY) | [Our Lady Peace](https://open.spotify.com/artist/1lqW59DUEKqvcHc8mVWBtH) | [Clumsy](https://open.spotify.com/album/4mWNf9f6fkznoMKchh2u1M) | 4:15 | 2020-10-29\* | 2022-07-29 |
@@ -75,6 +76,7 @@
 | [That Don't Impress Me Much](https://open.spotify.com/track/4FUfoWMypAyWbOavmYyeNu) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9) | 3:38 | 2021-09-21 | 2022-11-11 |
 | [That Don't Impress Me Much](https://open.spotify.com/track/0KvLsZYwodakWxOQUYAR5I) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/0vOj0JVKv2bobFBBUTjgQF) | 3:58 | 2020-10-29\* | 2022-07-29 |
 | [That Don't Impress Me Much](https://open.spotify.com/track/4I7DV3MIgxJGlObiy9s6nx) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over \(International Version\)](https://open.spotify.com/album/5MUiqH86VtEvtVIY1loBDi) | 3:58 | 2021-09-21 | 2022-07-31 |
+| [That Don't Impress Me Much](https://open.spotify.com/track/7eW4KmPAYFI8POeYeb7DTs) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [The Best Female Album In The World Ever](https://open.spotify.com/album/6QKuOeKG3mDXls32L84qoL) | 3:58 | 2021-09-21 |  |
 | [That Song](https://open.spotify.com/track/2XI1Ja1rRLgNuiZCvias4w) | [Big Wreck](https://open.spotify.com/artist/557SGrCJ59ysjCE1xjVZbS) | [In Loving Memory](https://open.spotify.com/album/0k4rjOvtXzqIP3sktiBvek) | 5:04 | 2020-10-29\* | 2022-07-29 |
 | [That Song](https://open.spotify.com/track/2hiMLnZ2iItT3WIMxY3hAB) | [Big Wreck](https://open.spotify.com/artist/557SGrCJ59ysjCE1xjVZbS) | [In Loving Memory Of \- 20th Anniversary Special Edition](https://open.spotify.com/album/6Agfrk7oe0H7WsXauqMPR6) | 5:04 | 2021-09-21 |  |
 | [The Future](https://open.spotify.com/track/5l8lYrnPEM1ln3J4XaTcy5) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [The Future](https://open.spotify.com/album/7E4FRoU4Pk0WuO1SQMV1Bo) | 6:41 | 2021-09-21 |  |

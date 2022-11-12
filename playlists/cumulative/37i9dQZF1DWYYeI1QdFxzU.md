@@ -4,14 +4,14 @@
 
 > A soundscape of chilled electronic and compositional ambient music, to help you unwind.
 
-106 songs - 7 hr 47 min - [published](https://open.spotify.com/playlist/6sRs5ZXRX0XP3quUNYTpL5)
+107 songs - 7 hr 50 min - [published](https://open.spotify.com/playlist/6sRs5ZXRX0XP3quUNYTpL5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [123](https://open.spotify.com/track/3sdLbza2Dux2AIp3BXjSZL) | [FERG](https://open.spotify.com/artist/4WUnl8sNbzqlJPZkX3Psnl) | [123](https://open.spotify.com/album/6goMNKPoqFMhx8TkWz2475) | 2:59 | 2021-10-15 | 2022-07-17 |
 | [1990 \- Edit](https://open.spotify.com/track/2tRnuEZU70qgyrmAEtzPx0) | [Lake Turner](https://open.spotify.com/artist/3Pg3shNdAUhMyxtVa3Gn0d) | [1990](https://open.spotify.com/album/6VajMzqk8hPSRupmSa4E7P) | 3:30 | 2021-10-15 | 2022-07-29 |
 | [365](https://open.spotify.com/track/6hj18wT1oKX0dmJuJOaXzS) | [Anthony Naples](https://open.spotify.com/artist/20bB5IFRjHw1EIAHvZ3tgd) | [Take Me With You](https://open.spotify.com/album/6IaBX5I6MLRDB9a10HU9Y1) | 3:09 | 2021-10-15 | 2022-06-30 |
-| [Adderall](https://open.spotify.com/track/0pAGo08jBvebuxMUoqvulX) | [Asierhans](https://open.spotify.com/artist/4hN3QFUZ6g9QKTvy5TI0qU) | [Day One](https://open.spotify.com/album/2ltWCghk7udj6KAhKxJZnb) | 4:56 | 2021-10-15 | 2022-10-31 |
+| [Adderall](https://open.spotify.com/track/0pAGo08jBvebuxMUoqvulX) | [Asierhans](https://open.spotify.com/artist/4hN3QFUZ6g9QKTvy5TI0qU) | [Day One](https://open.spotify.com/album/2ltWCghk7udj6KAhKxJZnb) | 4:56 | 2021-10-15 |  |
 | [Adderall](https://open.spotify.com/track/3IGKKAcwW7rGGRy1PvxGou) | [Asierhans](https://open.spotify.com/artist/4hN3QFUZ6g9QKTvy5TI0qU) | [Day One](https://open.spotify.com/album/0idk2ck3PCZBI5lccb3FMg) | 4:56 | 2021-10-15 | 2022-07-29 |
 | [Adrift](https://open.spotify.com/track/5yB7BgBbemoIBpfDSWtcBc) | [Fthmlss](https://open.spotify.com/artist/7v0VFJ0OHoYAVJ3F9Iapv3) | [Aloe](https://open.spotify.com/album/5cFRYNZhC80kwt2LV6Jbph) | 3:23 | 2021-10-15 | 2022-07-26 |
 | [All Armed](https://open.spotify.com/track/0ah4k1jXcRFprzr9MhLrI2) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [All Armed](https://open.spotify.com/album/6flex5uD7IKBXiNDNvUWwA) | 11:39 | 2021-10-15 | 2022-06-10 |
@@ -39,6 +39,7 @@
 | [Don't You Forget About Me](https://open.spotify.com/track/7IidnemjastTResAXISAK7) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Don't You Forget About Me](https://open.spotify.com/album/3PbktfrtKjsK7WMvqMIqyI) | 5:48 | 2021-10-15 |  |
 | [Douro](https://open.spotify.com/track/0YWm63Fld60fXms4TQ8M37) | [Liam Mour](https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0) | [Douro](https://open.spotify.com/album/72kFOHZQiZwAGekChA3LMY) | 3:45 | 2021-10-15 |  |
 | [Drown Me Slow](https://open.spotify.com/track/54KVbLZi755vI53RPEHI42) | [Christian Cohle](https://open.spotify.com/artist/17FYVu6ik77NQMZdl6zdsQ) | [Holy Trouble](https://open.spotify.com/album/4FRfrui9WYZE8wJpHbVzmt) | 4:31 | 2021-10-15 |  |
+| [Drowning](https://open.spotify.com/track/4c9obARU5PWbpIxAFhlg8D) | [PYRMDPLAZA](https://open.spotify.com/artist/7zYtmHNk7UfzvCWOHPdl6x) | [Drowning](https://open.spotify.com/album/41zd4PXMqkcthdkrU7cvgZ) | 3:00 | 2021-10-15 |  |
 | [Dune \- Single Version](https://open.spotify.com/track/4QQFYNshQlEkgQESyO3OCr) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [Dune](https://open.spotify.com/album/04NzBREuQBthxSpcoD6EbE) | 11:08 | 2021-10-15 |  |
 | [Eff Five](https://open.spotify.com/track/4M6norXzPA6tFElC65U9WD) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [Paspatou Remixed](https://open.spotify.com/album/6hHm6NZAMh2B5mK6mYQQPj) | 4:51 | 2021-10-15 | 2022-07-29 |
 | [Eff Five](https://open.spotify.com/track/5WHabC4LXrFeA0kobfktOF) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [Paspatou Remixed](https://open.spotify.com/album/4Q8A1blfOzDXykDdmu8Rgr) | 4:51 | 2021-10-15 |  |
@@ -54,7 +55,7 @@
 | [Fractal](https://open.spotify.com/track/6X8rafA2jNs00EYtlao12t) | [Thomas James White](https://open.spotify.com/artist/6Tn5oQhfKwtNMsOmV8Mzgy) | [Fractal](https://open.spotify.com/album/5MeltqrIcaTDQzfJAunW6m) | 3:42 | 2021-10-15 |  |
 | [Get Away](https://open.spotify.com/track/52x4EIYCNN2LXXgy8LQ7Tb) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Some Place Else](https://open.spotify.com/album/7G6KMFNhuWlwwn4zGZTmk9) | 3:07 | 2021-10-15 | 2022-10-13 |
 | [Grown Into You](https://open.spotify.com/track/2nOtqboltnadNSXWSFOdKT) | [Somni](https://open.spotify.com/artist/7qFssj4KoOxd1IOPfv9iT7) | [Grown Into You](https://open.spotify.com/album/3VqfUxHV8ZjcRJq9ihbBVr) | 3:42 | 2021-10-15 | 2022-07-29 |
-| [Grown Into You](https://open.spotify.com/track/3ITy1AfO27OqKCC8D5lFCy) | [Somni](https://open.spotify.com/artist/7qFssj4KoOxd1IOPfv9iT7) | [Home](https://open.spotify.com/album/6vSDLoq9qgSoEHKJm9tSLF) | 3:42 | 2021-10-15 |  |
+| [Grown Into You](https://open.spotify.com/track/3ITy1AfO27OqKCC8D5lFCy) | [Somni](https://open.spotify.com/artist/7qFssj4KoOxd1IOPfv9iT7) | [Home](https://open.spotify.com/album/6vSDLoq9qgSoEHKJm9tSLF) | 3:42 | 2021-10-15 | 2022-11-12 |
 | [Here](https://open.spotify.com/track/4vk5hhssPKQQBYNIQfteta) | [Jonas Munk](https://open.spotify.com/artist/6KPFlbSbh1zeN7x9QpgB4O), [Nicklas Sørensen](https://open.spotify.com/artist/3OXCO3AZeHHNudXu8Mftd7) | [Always Already Here](https://open.spotify.com/album/6Cly90UXXW9Hz851yq7mtM) | 3:28 | 2021-10-15 |  |
 | [Journey](https://open.spotify.com/track/070DusgGH4WJKyRIXrZz6u) | [Tim Schaufert](https://open.spotify.com/artist/3PThWtcE0CEi5IUmfgTvrC) | [Journey](https://open.spotify.com/album/0arLnM5zOVRFXCMpFPJi0p) | 4:00 | 2021-10-15 |  |
 | [Joyfulness](https://open.spotify.com/track/04l9bUZEsUkF6zy7hIjbbT) | [Hector Plimmer](https://open.spotify.com/artist/7K64vyGna9ILfEEWnLKFEV), [Alexa Harley](https://open.spotify.com/artist/7vgZqCNS2Nah7tlpo7ZjC4) | [Next to Nothing](https://open.spotify.com/album/5Kl4wtgRETX1aQU5prjKQO) | 3:36 | 2021-10-15 |  |
@@ -78,7 +79,7 @@
 | [On to You](https://open.spotify.com/track/03RRcUicMGAzQR5UR0NK88) | [ntvrme](https://open.spotify.com/artist/6tMt4DzgsFeCodM5Q1y5up) | [On to You](https://open.spotify.com/album/087M6lJSnq0SJq9Vnykf4J) | 2:16 | 2021-10-15 | 2022-07-14 |
 | [Opals](https://open.spotify.com/track/0g9lBzTwOmnx3zLUTR9x62) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Opals](https://open.spotify.com/album/6MBYve8rGo30nOvcnYMZ8x) | 2:24 | 2021-10-15 |  |
 | [Orange](https://open.spotify.com/track/0JIsc98iJvP4ySokSFFRY8) | [Daithí](https://open.spotify.com/artist/2N5V735dwftKHqBpx9YPrz), [Sinead White](https://open.spotify.com/artist/0bow8GsVd622Y1NEGOeEL0) | [L.O.S.S.](https://open.spotify.com/album/1RoBBAroy6tMbqXkkT4yyK) | 3:08 | 2021-10-15 | 2022-07-27 |
-| [Pink & Blue](https://open.spotify.com/track/1TJqHWEHHQ7Z5mJ0P6rXqq) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry), [Saint Sinner](https://open.spotify.com/artist/0DoWlk1NzQp1VWVFtZOb8Y) | [Weather](https://open.spotify.com/album/1mRyfDR7Dc55GbC8V3kVis) | 4:19 | 2021-10-15 |  |
+| [Pink & Blue](https://open.spotify.com/track/1TJqHWEHHQ7Z5mJ0P6rXqq) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry), [Saint Sinner](https://open.spotify.com/artist/0DoWlk1NzQp1VWVFtZOb8Y) | [Weather](https://open.spotify.com/album/1mRyfDR7Dc55GbC8V3kVis) | 4:19 | 2021-10-15 | 2022-11-12 |
 | [Pink & Blue](https://open.spotify.com/track/2XjRIFpALuD2lgQVxVUKwS) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry), [Saint Sinner](https://open.spotify.com/artist/0DoWlk1NzQp1VWVFtZOb8Y) | [Pink & Blue](https://open.spotify.com/album/1Qd8Dbca7apJiE4hKrFzwU) | 4:19 | 2021-10-15 | 2022-07-24 |
 | [Planet Hearth](https://open.spotify.com/track/1RvPfvzAg6jbzWsODpDILb) | [Calibre](https://open.spotify.com/artist/0sklgkoO5JeS7YNhHS5EmH) | [Planet Hearth](https://open.spotify.com/album/35WGtiXgUzM8ZANghXQxl3) | 4:17 | 2021-10-15 |  |
 | [Pulsar](https://open.spotify.com/track/2sgPuP6ZKso5wwIR055k3k) | [Lone](https://open.spotify.com/artist/5wZOrGWdg4hq7KIRMupJdI) | [Ambivert Tools, Vol\. 4](https://open.spotify.com/album/5Tk7z0XOX8FLfrPFztPIvw) | 7:40 | 2021-10-15 | 2022-07-21 |

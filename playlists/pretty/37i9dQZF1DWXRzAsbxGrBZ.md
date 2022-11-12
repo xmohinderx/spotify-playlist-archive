@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 
 > Deep House speaks to the soul\. Get revived with some of the best Deep House South Africa has to offer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,475 likes - 50 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,516 likes - 50 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 | 39 | [Ingoma \- Original Mix](https://open.spotify.com/track/7oyMweIaDux964WgeejCf7) | [DJ Couza](https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS), [Mr.Cantata](https://open.spotify.com/artist/3r1o9eEvpXFvToBB6Y5GR0), [Bikie](https://open.spotify.com/artist/4LwtgBxKUoIWPWOCdOA9yu) | [Ingoma](https://open.spotify.com/album/7FkJnT8Ve5hYmzVya06wF0) | 7:10 |
 | 40 | [Life](https://open.spotify.com/track/7LCVp1LIS1aYHlfvMUdJuD) | [STI T's Soul](https://open.spotify.com/artist/0rGRPxUGXalEwmI2wmepq2) | [Revolver, Vol\. 3 \(Compiled\)](https://open.spotify.com/album/2pbdhETHPvZOF5OlJhcQd6) | 6:59 |
 | 41 | [BAUHAUS](https://open.spotify.com/track/2GkdG7gxUvbDxcaVPTmlQ2) | [TimAdeep](https://open.spotify.com/artist/2mpzr6IuZYCp2rEVr3JPgq) | [BAUHAUS](https://open.spotify.com/album/6vzBGNFrmX28conXn3lj07) | 8:02 |
-| 42 | [Different You](https://open.spotify.com/track/7DKC7x1wGVEhex4r5b0FDC) | [DJ Hloni](https://open.spotify.com/artist/0zsgveyOjZ0R4EVtx4NjNu), [MacZito](https://open.spotify.com/artist/2thqWGNDvNBDTetSDqquhC), [YBE](https://open.spotify.com/artist/5M7Y8ONhBfgoR2nC5VuJvz) | [Different You](https://open.spotify.com/album/0EoAED2djxx2kPF6RgWk89) | 6:59 |
-| 43 | [Never Give Up](https://open.spotify.com/track/1bAAE1GJoBr2Ah4UbvaDNP) | [Zico SA](https://open.spotify.com/artist/67QYtLgWSPzbwkW25F0GEc) | [I Rise Again](https://open.spotify.com/album/1FM7SKxzPjCNjiirtfBYVg) | 9:16 |
+| 42 | [Never Give Up](https://open.spotify.com/track/1bAAE1GJoBr2Ah4UbvaDNP) | [Zico SA](https://open.spotify.com/artist/67QYtLgWSPzbwkW25F0GEc) | [I Rise Again](https://open.spotify.com/album/1FM7SKxzPjCNjiirtfBYVg) | 9:16 |
+| 43 | [Different You](https://open.spotify.com/track/7DKC7x1wGVEhex4r5b0FDC) | [DJ Hloni](https://open.spotify.com/artist/0zsgveyOjZ0R4EVtx4NjNu), [MacZito](https://open.spotify.com/artist/2thqWGNDvNBDTetSDqquhC), [YBE](https://open.spotify.com/artist/5M7Y8ONhBfgoR2nC5VuJvz) | [Different You](https://open.spotify.com/album/0EoAED2djxx2kPF6RgWk89) | 6:59 |
 | 44 | [Multiverse Theory](https://open.spotify.com/track/1tabH7lGvhTsrP2syfQXdU) | [Devine Maestro](https://open.spotify.com/artist/2IAkss2FMBjXDA0hdno7bg), [Ottis Blake](https://open.spotify.com/artist/2s9eHFCeuaSwc8dsHwGn02) | [Multiverse Theory](https://open.spotify.com/album/6LpiQbvd6KrJ6i6GKLHNG7) | 6:14 |
-| 45 | [Ndoyiswe](https://open.spotify.com/track/3qiZQ5AIGiG2KOo3OV9b4w) | [Hypaphonik](https://open.spotify.com/artist/6UL6IL0VVbVeCtvcemX7Io), [Bamtho Imbongi](https://open.spotify.com/artist/4LqkwXbr8GaGIinEcUhVUX) | [Ndoyiswe](https://open.spotify.com/album/5Rs7spRNUPw6Ao6XpyQGcq) | 5:25 |
-| 46 | [Push It](https://open.spotify.com/track/0vj7icU6h87yAnFsHMqaQs) | [Mizo4Real](https://open.spotify.com/artist/0J6MLBtnzv4y28omcmd97Y) | [Let It Rain](https://open.spotify.com/album/7gXMf35rmuaFwW1uWG4U0X) | 7:56 |
-| 47 | [Four Lessons](https://open.spotify.com/track/3RGbg9ENcRIYFGXpzLr8Xe) | [Dafro](https://open.spotify.com/artist/6gNmmm0Dyt4geB8W2Z4VXL) | [Dafrotone](https://open.spotify.com/album/5zNeFm1L1C6UALDQqnRg9N) | 7:33 |
+| 45 | [Push It](https://open.spotify.com/track/0vj7icU6h87yAnFsHMqaQs) | [Mizo4Real](https://open.spotify.com/artist/0J6MLBtnzv4y28omcmd97Y) | [Let It Rain](https://open.spotify.com/album/7gXMf35rmuaFwW1uWG4U0X) | 7:56 |
+| 46 | [Ndoyiswe](https://open.spotify.com/track/3qiZQ5AIGiG2KOo3OV9b4w) | [Hypaphonik](https://open.spotify.com/artist/6UL6IL0VVbVeCtvcemX7Io), [Bamtho Imbongi](https://open.spotify.com/artist/4LqkwXbr8GaGIinEcUhVUX) | [Ndoyiswe](https://open.spotify.com/album/5Rs7spRNUPw6Ao6XpyQGcq) | 5:25 |
+| 47 | [Something For Closure](https://open.spotify.com/track/5AcxLIJg935Ak4NwrfAyeR) | [Roque](https://open.spotify.com/artist/0T58iqONtkqeUUMUC8RkdQ) | [Something For Closure](https://open.spotify.com/album/7B2FPlCkJ5um6rC6VI8Bsf) | 6:51 |
 | 48 | [Sunday Showers](https://open.spotify.com/track/6LpP5t2AzDqpMsEcIi95a1) | [STI T's Soul](https://open.spotify.com/artist/0rGRPxUGXalEwmI2wmepq2) | [Old but New Last Episode](https://open.spotify.com/album/6Y1u7IbxK8uufy9akyjbv4) | 6:52 |
-| 49 | [Something For Closure](https://open.spotify.com/track/5AcxLIJg935Ak4NwrfAyeR) | [Roque](https://open.spotify.com/artist/0T58iqONtkqeUUMUC8RkdQ) | [Something For Closure](https://open.spotify.com/album/7B2FPlCkJ5um6rC6VI8Bsf) | 6:51 |
+| 49 | [Four Lessons](https://open.spotify.com/track/3RGbg9ENcRIYFGXpzLr8Xe) | [Dafro](https://open.spotify.com/artist/6gNmmm0Dyt4geB8W2Z4VXL) | [Dafrotone](https://open.spotify.com/album/5zNeFm1L1C6UALDQqnRg9N) | 7:33 |
 | 50 | [My Heartbeat For You](https://open.spotify.com/track/4L8xFcF5arDJURNdwfOULs) | [RoneeDeep](https://open.spotify.com/artist/2bcM94EIlBz4YUVfCTEkeO), [Zawadi](https://open.spotify.com/artist/0qdTYFtnAgZVgZqKMX3jnQ) | [My Heartbeat For You](https://open.spotify.com/album/34WV5aBk0og7jEVj5k5jF6) | 5:32 |
 
-Snapshot ID: `MTY2ODExNzU0MCwwMDAwMDAwMDM5YmQ1NmJhMDIzYWVjNmJlNmNkZmE4ZGJjY2MyYTZi`
+Snapshot ID: `MTY2ODExNzU0MCwwMDAwMDAwMGVjN2E0OGE0M2I0OWQzYjc2MGVlMjQ3OTY4ZTc0MjY3`

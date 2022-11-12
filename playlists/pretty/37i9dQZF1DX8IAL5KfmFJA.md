@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8IAL5KfmFJA.md) - [plain]
 
 > In loving memory of Marie Fredriksson.
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,081 likes - 52 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,218 likes - 52 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,11 +13,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8IAL5KfmFJA.md) - [plain]
 | 3 | [Listen To Your Heart](https://open.spotify.com/track/1qIKynV6YQZgocodkPdCy7) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Look Sharp!](https://open.spotify.com/album/487Xg1a57O6pDfkyYcbuFx) | 5:28 |
 | 4 | [It Must Have Been Love \- From the Film "Pretty Woman"](https://open.spotify.com/track/6qB7YcFpeBEQa0D6QO482y) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Don't Bore Us \- Get to the Chorus! Roxette's Greatest Hits](https://open.spotify.com/album/6Zd1OLqFX5geleqvJ9xtAL) | 4:18 |
 | 5 | [The Look](https://open.spotify.com/track/7akWKDSf4k0Q0AHGoG91hu) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Don't Bore Us \- Get to the Chorus! Roxette's Greatest Hits](https://open.spotify.com/album/6Zd1OLqFX5geleqvJ9xtAL) | 3:57 |
-| 6 | [Dressed For Success](https://open.spotify.com/track/7dOyP04azUFikPvAkhRBeJ) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Look Sharp!](https://open.spotify.com/album/487Xg1a57O6pDfkyYcbuFx) | 4:09 |
+| 6 | [Dressed for Success \- US Single Mix](https://open.spotify.com/track/7GqyxvYvcHPFqApCd43V1d) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [The Pop Hits](https://open.spotify.com/album/2ABfrAhcF6lsxmyzkKwqD2) | 4:11 |
 | 7 | [Fading Like A Flower \(Every Time You Leave\)](https://open.spotify.com/track/7qSd3WHSPUtmt6c36pwJaY) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Joyride \(Deluxe Version\)](https://open.spotify.com/album/5SwZnq5e3u7DkkNnSNHp5R) | 3:50 |
 | 8 | [Joyride \- Single Version](https://open.spotify.com/track/3Skwc4sh1QHUGcWrFBFWSF) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Don't Bore Us \- Get to the Chorus! Roxette's Greatest Hits](https://open.spotify.com/album/6Zd1OLqFX5geleqvJ9xtAL) | 4:01 |
 | 9 | [Spending My Time](https://open.spotify.com/track/47PQWnMc01EmIH0PD2UuGb) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Joyride \(Deluxe Version\)](https://open.spotify.com/album/5SwZnq5e3u7DkkNnSNHp5R) | 4:35 |
-| 10 | [Dangerous](https://open.spotify.com/track/7LwsqxyIqOCF9vbdHmdIvT) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Look Sharp!](https://open.spotify.com/album/487Xg1a57O6pDfkyYcbuFx) | 3:48 |
+| 10 | [Dangerous](https://open.spotify.com/track/61uXORSNIY7p03t5V7DH7z) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Look Sharp! \(Extended Version\)](https://open.spotify.com/album/4rQV5S9FhajZdyzFfcyYw9) | 3:48 |
 | 11 | [How Do You Do!](https://open.spotify.com/track/2D7GRdSAcRkBsDtXsnjh1v) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Don't Bore Us \- Get to the Chorus! Roxette's Greatest Hits](https://open.spotify.com/album/6Zd1OLqFX5geleqvJ9xtAL) | 3:09 |
 | 12 | [Sleeping in My Car \- Single Version](https://open.spotify.com/track/0CicjlSiN0HdzD2nigN9j4) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Don't Bore Us \- Get to the Chorus! Roxette's Greatest Hits](https://open.spotify.com/album/6Zd1OLqFX5geleqvJ9xtAL) | 3:34 |
 | 13 | [Things Will Never Be The Same](https://open.spotify.com/track/2jKycIEA5nZOJxviK83FAX) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Joyride](https://open.spotify.com/album/2s39oUayLt0O5uXkdgmheY) | 4:26 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8IAL5KfmFJA.md) - [plain]
 | 51 | [She's Got Nothing on \(But the Radio\)](https://open.spotify.com/track/5MyqtugXD2gTCDXKVGHM5c) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Greatest Hits](https://open.spotify.com/album/4htx3t5YHqgyTgHw3xinsf) | 3:34 |
 | 52 | [Why Dontcha?](https://open.spotify.com/track/2XoC5eg7dngMTiySchGYFU) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Good Karma](https://open.spotify.com/album/4oUOi5aKtbDx2PNln1aUzU) | 2:45 |
 
-Snapshot ID: `MTY1MTczNzg4NywwMDAwMDAwMGYxOWNlZjgyNmUyNTMyNDE0YTQ2MTYyMzk1OTk2NWMy`
+Snapshot ID: `MTY1MTczNzg4NywwMDAwMDAwMGY0MjAwZjk5NDZkNDEwMjM2YTIxOTVkMGNlZTUwYmY3`

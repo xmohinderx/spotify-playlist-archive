@@ -4,7 +4,7 @@
 
 > This is the Latin soundtrack of the 80s! Cover: Gloria Estefan
 
-67 songs - 4 hr 24 min - [published](https://open.spotify.com/playlist/1X3yVGrCiHqjCnSxESTAcM)
+68 songs - 4 hr 29 min - [published](https://open.spotify.com/playlist/1X3yVGrCiHqjCnSxESTAcM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,13 +67,14 @@
 | [Rhythm Is Gonna Get You](https://open.spotify.com/track/6302KY4zq4Bpx823hyk4Kk) | [Gloria Estefan And Miami Sound Machine](https://open.spotify.com/artist/2Gop8SbSVt5SaJzuaRFa7D), [Miami Sound Machine](https://open.spotify.com/artist/18xgcedCGxFbqLbIQn5R8F) | [Greatest Hits](https://open.spotify.com/album/5wkQo9u8qrKOdfGqoizWPo) | 3:55 | 2022-01-01 |  |
 | [Si No Es Ahora](https://open.spotify.com/track/1SugSbcbW78x4VAgixwiG0) | [Timbiriche](https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO) | [Timbiriche 7](https://open.spotify.com/album/5srfo2XTGJPW9EAiky3TdM) | 3:53 | 2022-01-01 |  |
 | [Simplemente Amigos](https://open.spotify.com/track/10PwPpr7BBxYon3pwS7k5G) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Tierra De Nadie](https://open.spotify.com/album/3gV3uvJ1HSYVM88Tsh1DHi) | 3:47 | 2022-01-01 |  |
-| [Soy Un Desastre](https://open.spotify.com/track/0AGS302RHJblyvmVHsVpGY) | [Timbiriche](https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO) | [e5](https://open.spotify.com/album/1jUH6kLNFJBgGxu4lPybQv) | 2:47 | 2022-01-01 |  |
+| [Soy Un Desastre](https://open.spotify.com/track/0AGS302RHJblyvmVHsVpGY) | [Timbiriche](https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO) | [e5](https://open.spotify.com/album/1jUH6kLNFJBgGxu4lPybQv) | 2:47 | 2022-01-01 | 2022-11-12 |
 | [Súbete a Mi Moto](https://open.spotify.com/track/1zHmnDfyTpYvu7KkCeqntZ) | [Menudo](https://open.spotify.com/artist/3Edq1eT7m7GX0PvHW7yEDF) | [15 Años De Historia](https://open.spotify.com/album/4b1Ou1qQJRq6SvS18o0Vyp) | 3:30 | 2022-01-01 |  |
 | [Toda la Vida](https://open.spotify.com/track/3bekxMTpuHXZXjvuGWtBx5) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Mis Favoritas](https://open.spotify.com/album/3y1nIDv3YFYPl0Z8ZdyQ9d) | 4:47 | 2022-01-01 |  |
 | [Toda la Vida](https://open.spotify.com/track/7M8sGCxjrx4tKV1m0g9JDA) | [Franco](https://open.spotify.com/artist/6wPdYdJaogSs1RYe6yx81C) | [Una Historia de Verdad](https://open.spotify.com/album/6wt6YQCPtGJBttgY5CFZCi) | 5:00 | 2022-01-01 |  |
 | [Tu Pirata Soy Yo](https://open.spotify.com/track/2bHEObIToIMkdZRXsC04Kt) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Chayanne](https://open.spotify.com/album/20LKBgzwk7zrSSn0N8ukFV) | 2:53 | 2022-01-01 |  |
 | [Ven Devórame Otra Vez](https://open.spotify.com/track/2HbmLkHkkI15eES8kpWRuI) | [Lalo Rodriguez](https://open.spotify.com/artist/5LmwELEKyxDFxrbZzR8K4U) | [Oro Salsero](https://open.spotify.com/album/21W5Yp75UyOaWI2QALA7PS) | 5:11 | 2022-01-01 | 2022-11-11 |
 | [Ven Devórame Otra Vez](https://open.spotify.com/track/40NEkTUBoVZFFhCRBuZY3V) | [Lalo Rodriguez](https://open.spotify.com/artist/5LmwELEKyxDFxrbZzR8K4U) | [Old School Salsa Classics Vol\. 2](https://open.spotify.com/album/7kWlbJGJbo2tXSLlqlVQwY) | 5:13 | 2022-01-01 | 2022-07-29 |
+| [Ven Devórame Otra Vez](https://open.spotify.com/track/3IB7Y3TB7RLEZbXPCT50vv) | [Lalo Rodriguez](https://open.spotify.com/artist/5LmwELEKyxDFxrbZzR8K4U) | [Romanticas para dedicar](https://open.spotify.com/album/7o1AvAiWDcgXcz0IHgwIBk) | 5:14 | 2022-08-31 |  |
 | [Venezia](https://open.spotify.com/track/1wncA7mz0ntqvZ8UzFokGk) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Hombres G \(Edición 30 Aniversario\)](https://open.spotify.com/album/2iMF2NlOZMfBTdHyubrg6y) | 4:30 | 2022-01-01 |  |
 
 \*This playlist was first scraped on 2022-04-19. Prior content cannot be recovered.

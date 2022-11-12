@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXchFDa0CQ44k.md) - [plain]
 
 > Form a circle and hold hands, it's time to Dabke! Cover: Mohammad Assaf.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,965 likes - 60 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,011 likes - 60 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXchFDa0CQ44k.md) - [plain]
 | 15 | [Wateeni](https://open.spotify.com/track/6YcoHlY6xqHd0OWciYDFee) | [Amjad Jomaa](https://open.spotify.com/artist/0R7TVEhwF9mlX4rHlVaTzU) | [Wateeni](https://open.spotify.com/album/0J5KOvgjIyCqDIXB1YQIjz) | 3:42 |
 | 16 | [Larmik b Balach](https://open.spotify.com/track/09vuGGGoOmI7M4dqlaAJFp) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Ya Samt](https://open.spotify.com/album/0o9QyQoKPSXnz8eiRtlhbS) | 3:11 |
 | 17 | [دلعونا](https://open.spotify.com/track/7sKRep0Z6sZnQjqc6qOvSH) | [Melhem Zein](https://open.spotify.com/artist/3pCdpK2DVRSs77L9RtxFy0) | [الجرح اللي بعدو](https://open.spotify.com/album/43YudfflH4ShSAe4FFX2OI) | 3:54 |
-| 18 | [Dabke Wdalouna](https://open.spotify.com/track/5XyULdxiS7pNVX8LR4amiv) | [Walid Sarkiss](https://open.spotify.com/artist/1Q9U9i2Hwtub6Ug9ITHlVS) | [Eid El Arz](https://open.spotify.com/album/4L4fxwLWcK7pyGIyyCPE1X) | 9:28 |
-| 19 | [Haremni](https://open.spotify.com/track/5g78UsbsNCCXTdBPcTEtGr) | [Roro Harb](https://open.spotify.com/artist/6elTvTRNhLBk1crtgxGGhb) | [Haremni](https://open.spotify.com/album/4phggOoR0RaxV9oM3pc9cg) | 3:57 |
+| 18 | [Haremni](https://open.spotify.com/track/5g78UsbsNCCXTdBPcTEtGr) | [Roro Harb](https://open.spotify.com/artist/6elTvTRNhLBk1crtgxGGhb) | [Haremni](https://open.spotify.com/album/4phggOoR0RaxV9oM3pc9cg) | 3:57 |
+| 19 | [Dabke Wdalouna](https://open.spotify.com/track/5XyULdxiS7pNVX8LR4amiv) | [Walid Sarkiss](https://open.spotify.com/artist/1Q9U9i2Hwtub6Ug9ITHlVS) | [Eid El Arz](https://open.spotify.com/album/4L4fxwLWcK7pyGIyyCPE1X) | 9:28 |
 | 20 | [Dak Almani Terashrash \(feat\. Hussam Jned, Dominique Hourani & Wael Jassar\)](https://open.spotify.com/track/61ij76waZnKpjgwPuvZ554) | [Nader Al Atat](https://open.spotify.com/artist/07nrRL2MtV5V54nMscozei), [Hussam Jned](https://open.spotify.com/artist/1lpnuWXZtFIG8zLE95mI9W), [Dominique Hourani](https://open.spotify.com/artist/0P3K3MbSflUxiPFmhxj2HD), [Wael Jassar](https://open.spotify.com/artist/5HczG7gdd89oDKY0CUyPof) | [Bawast Tyabik](https://open.spotify.com/album/7h12uU0N9i05mCSOPR9wXi) | 5:48 |
 | 21 | [فلسطيني](https://open.spotify.com/track/5XVJRGIoMGf2wp0oL3JNFw) | [Toni Qattan](https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO) | [فلسطيني](https://open.spotify.com/album/5P2ypwyHbXRZat8f5bD0la) | 3:16 |
 | 22 | [Yekhreb Baytak](https://open.spotify.com/track/0386Pg2s8ft0KITln5gbTQ) | [Najwa Karam](https://open.spotify.com/artist/5Nmm8A6gr93sRxz1SckQj1) | [Yekhreb Baytak](https://open.spotify.com/album/5xlO8W7WbuksQGbSIDrVTa) | 3:49 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXchFDa0CQ44k.md) - [plain]
 | 59 | [Bhebek Mn Baad Allah](https://open.spotify.com/track/1fvnhJoo1g3JPOvM7GEqmA) | [Anas Kareem](https://open.spotify.com/artist/03IOvKWtAnWAOVf5864dUS) | [Bhebek Mn Baad Allah](https://open.spotify.com/album/22CuVOKca1Ubxg1lInJCnN) | 4:17 |
 | 60 | [Chou Kan Badi](https://open.spotify.com/track/0hd6MqtUakXmv2kOHvrKw1) | [Naji Osta](https://open.spotify.com/artist/4bgldXaGu7WvZpkW1NfyBp) | [End of Summer Hits 2019](https://open.spotify.com/album/6Kg5OKceUsS1JuZxSt4plB) | 3:58 |
 
-Snapshot ID: `MTY0NDQ5MTYwMiwwMDAwMDAwMDcxN2JlYzA2MzMwODY0ODY3MmEzYTg0NmJlMDFiZjlh`
+Snapshot ID: `MTY0NDQ5MTYwMiwwMDAwMDAwMDJiNmUxOWQ2YzcwNzg0MmY3M2VlNThjZDMzZmY3ZjRh`

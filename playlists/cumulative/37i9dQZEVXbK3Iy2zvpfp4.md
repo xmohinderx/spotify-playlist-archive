@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Slovakia.
 
-472 songs - 1 day 0 hr 48 min - [published](https://open.spotify.com/playlist/5YNobSqpJ71QdqLAH2udAx)
+473 songs - 1 day 0 hr 51 min - [published](https://open.spotify.com/playlist/5YNobSqpJ71QdqLAH2udAx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Dicke Titten](https://open.spotify.com/track/5KTBaWu8IOczQ0sPWzZ7MY) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Zeit](https://open.spotify.com/album/75OE7M0wduJyffbffehHuR) | 3:38 | 2022-06-09 | 2022-06-13 |
 | [die first](https://open.spotify.com/track/21szgNA72iLwvBxHQLgwBh) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [die first](https://open.spotify.com/album/56raLTkxER12w8xejGTpSG) | 2:57 | 2022-07-19 | 2022-08-10 |
 | [Dni ako tieto](https://open.spotify.com/track/1qNOOrPgSBFhjg5gdbJOaf) | [Matej Straka](https://open.spotify.com/artist/4WB1NUL01OyTTuhNkdyljG), [Jerry Lee](https://open.spotify.com/artist/5TUkb2q1sX3DiWtwBPHErg), [Samey](https://open.spotify.com/artist/0p0V7LW8i3S22J7xErqdmt) | [Dni ako tieto](https://open.spotify.com/album/583lfLoJW2HZ8CAvjNzVUc) | 2:31 | 2022-08-09 | 2022-08-17 |
+| [Do It Again \(feat\. 2Rare\)](https://open.spotify.com/track/5gAwpwuchaCGnJLlBMGBzp) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ) | [Do It Again \(feat\. 2Rare\)](https://open.spotify.com/album/5qPgB3OSDv3KfALFg1PZwe) | 3:33 | 2022-11-11 |  |
 | [Doja](https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Doja](https://open.spotify.com/album/6oECjagksATHu2UaclXrq1) | 1:37 | 2022-08-16 | 2022-09-29 |
 | [Don’t Blame Me](https://open.spotify.com/track/1R0a2iXumgCiFb7HEZ7gUE) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [reputation](https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv) | 3:56 | 2022-06-12 | 2022-06-14 |
 | [DOPAMINE](https://open.spotify.com/track/5mwW4ZH86ZJD3pLHNV3HBp) | [Shimmi](https://open.spotify.com/artist/5QLfxY8Phcamadzx1r79ck), [Blako](https://open.spotify.com/artist/1H0gwYeVaW4An73wzykI3I), [Vercetti CG](https://open.spotify.com/artist/1JdsdDwTcng1Iw8IYEw4Ko), [Frayer Flexking](https://open.spotify.com/artist/6cu3kZ6CfnT6LF8USDmumJ), [Forest Blunt](https://open.spotify.com/artist/1VYGcdpoaFPzLGZIdST4u0), [Shaka CG](https://open.spotify.com/artist/6h21bjxQyGzWnFuHSgUuKg) | [DOPAMINE](https://open.spotify.com/album/65iXUuRIOeQWyRqGSufFCB) | 4:23 | 2022-06-17 | 2022-06-19 |
@@ -204,7 +205,7 @@
 | [Jinej druh](https://open.spotify.com/track/16Gcy3xa5XTuxvjgbstCWi) | [Meizyy](https://open.spotify.com/artist/6bfvcDuHhC8XKWj4r4VZ1o) | [Jinej druh](https://open.spotify.com/album/3pDLKURPfbv9LzObv2lKwH) | 3:26 | 2022-09-20 | 2022-10-05 |
 | [Jungle](https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Jungle](https://open.spotify.com/album/3iDLGLmecmdkmdxYmuol5d) | 3:18 | 2022-08-23 | 2022-08-26 |
 | [Just Dance \(HARDSTYLE SPED UP\)](https://open.spotify.com/track/1SoPDERrnrdM0Xy0eHud9a) | [Mirin Brah](https://open.spotify.com/artist/2DybmAta7ZL7nP6wUM9g6m), [KONGTILLFOLK1](https://open.spotify.com/artist/1f4iiDU9QjMMMsdZBrQHrm), [Ludvig Tankred](https://open.spotify.com/artist/0RjM7a0pa3Eu2wEZW8NM18) | [Just Dance \(HARDSTYLE SPED UP\)](https://open.spotify.com/album/54yYxrxlehbegPP9ra0ALt) | 2:58 | 2022-06-23 | 2022-07-18 |
-| [Just Dance \(Hardstyle\)](https://open.spotify.com/track/37OKETEWvDL52jaxCUlOaF) | [puremind](https://open.spotify.com/artist/2dFzw3ekT9cjNi1WYmKPfX) | [Just Dance \(Hardstyle\)](https://open.spotify.com/album/3KTVPuFQRIbtliBAsC7sA3) | 2:30 | 2022-11-10 |  |
+| [Just Dance \(Hardstyle\)](https://open.spotify.com/track/37OKETEWvDL52jaxCUlOaF) | [puremind](https://open.spotify.com/artist/2dFzw3ekT9cjNi1WYmKPfX) | [Just Dance \(Hardstyle\)](https://open.spotify.com/album/3KTVPuFQRIbtliBAsC7sA3) | 2:30 | 2022-11-10 | 2022-11-12 |
 | [Just Dance \(TikTok Edit\) \- Remix](https://open.spotify.com/track/7uDpnlxtGBylpKhQR6nVqU) | [EDITKINGS](https://open.spotify.com/artist/1xyF70wWUIIdwczzNKkxjI), [Verdun Remix](https://open.spotify.com/artist/3zrJz4p4LwQEpV5Yr8A4cH) | [Just Dance \(TikTok Edit\)](https://open.spotify.com/album/6yV9EQHImA16NvS0ZhvRYZ) | 1:54 | 2022-11-03 | 2022-11-09 |
 | [Just Pretend](https://open.spotify.com/track/3zb8S65LhiPPPH4vov8yV2) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [THE DEATH OF PEACE OF MIND](https://open.spotify.com/album/0auTn0kFZk71WAv3BbKVxQ) | 3:24 | 2022-10-30 | 2022-11-02 |
 | [Just Wanna Rock](https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Just Wanna Rock](https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg) | 2:03 | 2022-11-08 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAyGN1XM1YS.md) - [plain]
 
 > Back to the golden age of emo\. Cover: Thursday
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,397 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,502 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAyGN1XM1YS.md) - [plain]
 | 9 | [Hope For Us](https://open.spotify.com/track/2bhMvw4ZILdxeEVt9bXHAq) | [The Jealous Sound](https://open.spotify.com/artist/1ggwkSYO7sCaM9sBV4ldYf) | [Kill Them With Kindness \[Deluxe Reissue\]](https://open.spotify.com/album/2xsahntmompiEH4N7QQrWm) | 4:10 |
 | 10 | [Courage Was Confused](https://open.spotify.com/track/2kVc8s89MliCutzKkXXROb) | [Knapsack](https://open.spotify.com/artist/7kcgO0DTza7One0HqXRIH7) | [Day Three of My New Life](https://open.spotify.com/album/6xK0rYqqBtzcIiq0rY90Al) | 3:51 |
 | 11 | [The Casualty](https://open.spotify.com/track/5kgwBCYQtJ3vS0RpCrI6jG) | [Cursive](https://open.spotify.com/artist/1sylmUjlKYsLA49YtkNHW3) | [Cursive's Domestica](https://open.spotify.com/album/215RKfiHGpOXzOxftk3fqs) | 3:30 |
-| 12 | [Parking Lot](https://open.spotify.com/track/601akXTJgLQapZEBo23RQy) | [Mineral](https://open.spotify.com/artist/3N4eFtnZCCXfMs0hBQwujT) | [The Power of Failing](https://open.spotify.com/album/48MkEL1tt4TkZdpafXoj5R) | 3:51 |
+| 12 | [Parking Lot](https://open.spotify.com/track/4kt2HZaV0uMeMK0bG2GXr0) | [Mineral](https://open.spotify.com/artist/3N4eFtnZCCXfMs0hBQwujT) | [The Complete Collection \(1994\-1998\)](https://open.spotify.com/album/4kXgXFJH3Vn7cwHsYsfckI) | 3:51 |
 | 13 | [Action & Action](https://open.spotify.com/track/3rNRmQETcPHauTPFqS7z3T) | [The Get Up Kids](https://open.spotify.com/artist/54Bjxn26WsjfslQbNVtSCm) | [Something to Write Home About](https://open.spotify.com/album/3S0PabpZF2USPmwK8lIRZ8) | 4:05 |
 | 14 | [Napoleon Solo](https://open.spotify.com/track/34q1w3Eh0vocZj0FOtVQAS) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [In / Casino / Out](https://open.spotify.com/album/35qZXJifEQcpWnKP6E4oNv) | 4:48 |
 | 15 | [Mother Mary](https://open.spotify.com/track/37loR0ac9T655PNfPIpHmA) | [Far](https://open.spotify.com/artist/0GQXHlIz6zMT0IeXQq26Pt) | [Soon](https://open.spotify.com/album/2ripjHj9gBOBakmPftt58S) | 2:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAyGN1XM1YS.md) - [plain]
 | 49 | [This Afternoons Malady](https://open.spotify.com/track/0wHxHYnNvnhjX4f399sjMz) | [Jejune](https://open.spotify.com/artist/0dH7IS6J0rfzfMCyxG8b4V) | [Extreme Music Sampler](https://open.spotify.com/album/4m0GhiaLelgQ44HRnG14ow) | 4:21 |
 | 50 | [Earthquakes and Sharks](https://open.spotify.com/track/7jATtiR7Sjfke3qKdA5HEd) | [Brandtson](https://open.spotify.com/artist/4wlNIqMnqGY8g2lcFTkzsY) | [Hello, Control.](https://open.spotify.com/album/6vfntMjrhjePcDe48vXOwz) | 2:57 |
 
-Snapshot ID: `MTY1NDc4MjM2MSwwMDAwMDAwMGQ5OWNiOTUyMmNhMTU2YTI0NjdjY2E3ZWU5NmE2OWJl`
+Snapshot ID: `MTY1NDc4MjM2MSwwMDAwMDAwMDgxNThhMmRiZjE2OTNmM2YyODY1Mjk3NDA0MjQ5MWVm`

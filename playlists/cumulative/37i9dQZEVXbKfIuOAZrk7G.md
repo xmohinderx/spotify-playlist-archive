@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Canada.
 
-916 songs - 2 day 1 hr 38 min - [published](https://open.spotify.com/playlist/7wpwmjDxIyfeAPJQUP9XOc)
+917 songs - 2 day 1 hr 42 min - [published](https://open.spotify.com/playlist/7wpwmjDxIyfeAPJQUP9XOc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [5 Foot 9](https://open.spotify.com/track/6AqwH2Y9FJwhUE2dCSkw1u) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [5 Foot 9](https://open.spotify.com/album/5CTNA7y4WYhLcCd8ijsnRr) | 3:09 | 2022-06-14 | 2022-07-20 |
 | [556 \(Green Tip\)](https://open.spotify.com/track/34avwQb8IKQDlzbSwfktmv) | [iayze](https://open.spotify.com/artist/00msLVGU9crX0EC5McCiCa) | [Virtuous](https://open.spotify.com/album/1TFaFAKNXMlIeU65RasS9a) | 1:57 | 2022-03-15 | 2022-04-06 |
 | [8 O 8](https://open.spotify.com/track/2RfmwyP48VHVQHUQJBAgIU) | [J€AN\-MARC](https://open.spotify.com/artist/4fWycrqzvhT6RfU76M5kSh) | [8 O 8](https://open.spotify.com/album/0bsMDzBkn83MplomFKcG95) | 3:22 | 2022-09-14 | 2022-10-12 |
-| [90 Proof \(with J\. Cole\)](https://open.spotify.com/track/078lbDGGTqBuTKU3bypXxQ) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Luv 4 Rent](https://open.spotify.com/album/6dtDTbVBQ9QwsNaqEnjsOT) | 3:28 | 2022-10-29 |  |
+| [90 Proof \(with J\. Cole\)](https://open.spotify.com/track/078lbDGGTqBuTKU3bypXxQ) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Luv 4 Rent](https://open.spotify.com/album/6dtDTbVBQ9QwsNaqEnjsOT) | 3:28 | 2022-10-29 | 2022-11-12 |
 | [\_WORLD](https://open.spotify.com/track/3QwiidVHfeE9y5jl4n2MTC) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 4th Album Repackage 'SECTOR 17'](https://open.spotify.com/album/15pRJdCJtDyzQaY9tGs750) | 2:58 | 2022-08-16 | 2022-08-19 |
 | [A Gangster's Wife](https://open.spotify.com/track/6QNphn62YKaHG1hrnPSoHi) | [Ms Krazie](https://open.spotify.com/artist/1RhOh9I75vVWEDmzRVkRUz), [Chino Grande](https://open.spotify.com/artist/1DisOtNFBsfGAuifnt4o8j) | [Smile Now Cry Never](https://open.spotify.com/album/3alkenV3DutbhsbuFhqq79) | 3:49 | 2022-09-26 | 2022-11-03 |
 | [A Man Without Love](https://open.spotify.com/track/0oUBuOO4g9P4lREqfqR5nq) | [Engelbert Humperdinck](https://open.spotify.com/artist/17XXKfRBMCWvLrqGoNkJXm) | [A Man Without Love](https://open.spotify.com/album/2zQM1HOK5OnDGF1SSWExnE) | 3:23 | 2022-04-19 | 2022-06-08 |
@@ -231,7 +231,7 @@
 | [Dump It Dummy \(feat\. 2rare\)](https://open.spotify.com/track/7MODHYi60npkw5bgBStqV3) | [Zai1k](https://open.spotify.com/artist/2ORU5xiGsr9qfRKNvZ3UII), [Tre Oh Fie](https://open.spotify.com/artist/6cA0eTMEit4fD6ZbTNoG4p), [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ) | [Dump It Dummy \(feat\. 2rare\)](https://open.spotify.com/album/7KgNMvzNbOs0LtO0dduZlt) | 3:28 | 2022-09-14 | 2022-09-23 |
 | [Dutton Ranch Freestyle](https://open.spotify.com/track/0uWopULW6vBRuPoi7EjKMR) | [David Morris](https://open.spotify.com/artist/23Pb3oXBOQj9WEziS6laUW) | [Dutton Ranch Freestyle](https://open.spotify.com/album/7IWe39vVoSxisDY6jRmqmA) | 2:23 | 2022-08-30 | 2022-10-12 |
 | [Eazy](https://open.spotify.com/track/6Ab81Bs9fcOwaTYuBsUUpI) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Eazy](https://open.spotify.com/album/26LYxs49CqC9WUZWiEK3jT) | 3:54 | 2022-02-08 | 2022-02-16 |
-| [Ego Death \(feat\. Steve Vai\)](https://open.spotify.com/track/7xyvWSVkxaoLdSuEdgdhBe) | [Polyphia](https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ), [Steve Vai](https://open.spotify.com/artist/32Jb1X3wSmmoHj2epZReZA) | [Remember That You Will Die](https://open.spotify.com/album/1BJtoy1VgHMMvotBwvylJ5) | 5:50 | 2022-10-29 |  |
+| [Ego Death \(feat\. Steve Vai\)](https://open.spotify.com/track/7xyvWSVkxaoLdSuEdgdhBe) | [Polyphia](https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ), [Steve Vai](https://open.spotify.com/artist/32Jb1X3wSmmoHj2epZReZA) | [Remember That You Will Die](https://open.spotify.com/album/1BJtoy1VgHMMvotBwvylJ5) | 5:50 | 2022-10-29 | 2022-11-12 |
 | [Elevate](https://open.spotify.com/track/0nmW4fvqTwUDjlz13MNpJU) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [Elevate](https://open.spotify.com/album/4aKGX3kexucFfeBoNBxQcr) | 2:25 | 2022-02-02 | 2022-02-04 |
 | [ELEVEN](https://open.spotify.com/track/7n2FZQsaLb7ZRfRPfEeIvr) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [ELEVEN](https://open.spotify.com/album/1XMYvsHRt52sMi6wittWqI) | 2:58 | 2021-12-31 | 2022-01-20 |
 | [ELIMINATION](https://open.spotify.com/track/0yn5l5XgyEwEk2QXWYadOg) | [射击在后面](https://open.spotify.com/artist/2rJrI7lUJdbxoRrKHMB0P0) | [ELIMINATION](https://open.spotify.com/album/14xjLxCXRCMKPcQj2v0M0y) | 1:36 | 2022-05-14 | 2022-05-22 |
@@ -598,7 +598,7 @@
 | [Ojitos Lindos](https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:18 | 2022-05-31 | 2022-06-25 |
 | [Ojos Marrones](https://open.spotify.com/track/7gwT3HGL84vF7bgtwL1N88) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Ojos Marrones](https://open.spotify.com/album/5cgqNq1Esd6F0D1vQ9uD63) | 3:18 | 2022-07-21 | 2022-08-03 |
 | [Oklahoma Smokeshow](https://open.spotify.com/track/0OWhKvvsHptt6vnnNUSM9a) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Summertime Blues](https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA) | 3:31 | 2022-08-15 | 2022-09-15 |
-| [Old Love](https://open.spotify.com/track/3W4U7TEgILGpq0EmquurtH) | [yuji](https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW), [putri dahlia](https://open.spotify.com/artist/54nGORfHS6Uldjlr4QeN7g) | [Old Love](https://open.spotify.com/album/6mKwqGY2IS3qSs3mgs30A5) | 4:09 | 2022-09-15 | 2022-11-09 |
+| [Old Love](https://open.spotify.com/track/3W4U7TEgILGpq0EmquurtH) | [yuji](https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW), [putri dahlia](https://open.spotify.com/artist/54nGORfHS6Uldjlr4QeN7g) | [Old Love](https://open.spotify.com/album/6mKwqGY2IS3qSs3mgs30A5) | 4:09 | 2022-09-15 |  |
 | [One More Hour](https://open.spotify.com/track/0mO6oS60RST2sWmN2FKknP) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 7:12 | 2022-07-02 | 2022-07-11 |
 | [Oogie Boogie's Song](https://open.spotify.com/track/3LrhBpvdIs7cmwNAtKNk3I) | [Ed Ivory](https://open.spotify.com/artist/2Iv9xUxQZyMxknah773Sdw), [Ken Page](https://open.spotify.com/artist/5AAomuiyEWayklKG3qLv6U) | [The Nightmare Before Christmas](https://open.spotify.com/album/4YF2FhoRfaTLv2sMVLUrJm) | 3:17 | 2022-11-01 | 2022-11-06 |
 | [Original Sin](https://open.spotify.com/track/0fp6PDlnCkmdE0F3s0tfr6) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Original Sin](https://open.spotify.com/album/4DB6Xuvp4AlrNRNGRdhdEW) | 2:51 | 2022-03-02 | 2022-03-05 |
@@ -924,5 +924,6 @@
 | [新時代](https://open.spotify.com/track/28MATCYDctW5EiBa2repxb) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ウタの歌 ONE PIECE FILM RED](https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA) | 3:46 | 2022-11-09 |  |
 | [死ぬのがいいわ](https://open.spotify.com/track/0HYAsQwJIO6FLqpyTeD3l6) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT NEVER](https://open.spotify.com/album/03QiFOKDh6xMiSTkOnsmMG) | 3:05 | 2022-08-28 |  |
 | [残響散歌](https://open.spotify.com/track/7v8wKvNQQIxkugCFFjrkaO) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [残響散歌](https://open.spotify.com/album/1gfSftIuafqkGu28ely5z6) | 3:04 | 2022-01-09 | 2022-03-08 |
+| [逆光](https://open.spotify.com/track/78MS9OT9Flm2V78fhTw4rk) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ウタの歌 ONE PIECE FILM RED](https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA) | 3:57 | 2022-11-11 |  |
 
 \*This playlist was first scraped on 2022-01-01. Prior content cannot be recovered.

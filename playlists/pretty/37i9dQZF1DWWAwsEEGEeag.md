@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWAwsEEGEeag.md) - [plain]
 
 > Chansons pour ceux qui refusent de laisser l'été se terminer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,734 likes - 102 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,752 likes - 102 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWAwsEEGEeag.md) - [plain]
 | 55 | [Amour toujours](https://open.spotify.com/track/5HxAqfOufN3d1T5fThrIi5) | [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0) | [Amour toujours](https://open.spotify.com/album/1R8sdVJQG4WYemanpkJHdN) | 3:27 |
 | 56 | [Une métaphore pour l'amour](https://open.spotify.com/track/5cAqHLEWZnfUXfzCsCez9J) | [Zoo Baby](https://open.spotify.com/artist/5cwwkrAy5dg58se1CLKuFO) | [Zoo Baby](https://open.spotify.com/album/0Pq1sFQdyRea7Avv570y7T) | 4:06 |
 | 57 | [Nuit américaine](https://open.spotify.com/track/1cOIijnd1qHpJSLA2jBQMe) | [Jérôme Minière](https://open.spotify.com/artist/35QNxIS3w7AC2R2vrAlrhT), [NGABO](https://open.spotify.com/artist/73wyT5lSevGrU1bQhuDYdZ) | [Nuit américaine](https://open.spotify.com/album/00NbIUbjav9Sy89vKhPtLo) | 4:01 |
-| 58 | [No Mission](https://open.spotify.com/track/2qiKn7sxsU5ZW9Dca4uweM) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [No Mission](https://open.spotify.com/album/1gRkKQh0F7fC2cDLDEY8G0) | 5:17 |
+| 58 | [No Mission](https://open.spotify.com/track/78oyfpAOdzHzbbVx5SG7Dc) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [The Anjunadeep Edition 360 with James Grant](https://open.spotify.com/album/6I2fHGlEQtvEZ9AElRIyAW) | 5:17 |
 | 59 | [37°2 Le Matin](https://open.spotify.com/track/42D3APQYY0jZN7bO70oFsP) | [Malory](https://open.spotify.com/artist/4fWYaICAtJA5qKvfqOm1LZ), [Claire Laffut](https://open.spotify.com/artist/69zVBf7wk5vKWsTF7zE5CC) | [Métropole Blues](https://open.spotify.com/album/4mxmu0AwWUtVYmXyoExha6) | 3:14 |
 | 60 | [Bon Ami](https://open.spotify.com/track/6pEYLzi93TnYLa32J6chXA) | [Franky Fade](https://open.spotify.com/artist/7dzjLatIXL9tEJINuAk1pE) | [CONTRADICTIONS](https://open.spotify.com/album/54DM3A0nrfTNoR1HJqywrJ) | 3:12 |
 | 61 | [Samba do Boncy](https://open.spotify.com/track/5kHlvrvbP8aiLvijTSYN0y) | [Diogo Ramos](https://open.spotify.com/artist/1XMYWlil8WyEETnoC0E2XK), [Imposs](https://open.spotify.com/artist/7jAs3bSFCCU88rzme8E9fz), [Bïa](https://open.spotify.com/artist/5wd2VuNxYv2rZ3z6qY0Wvx), [Boogát](https://open.spotify.com/artist/2y2bEk3zCBVBMDkrXgA29R) | [Samba do Boncy](https://open.spotify.com/album/2eAOTb6xgbkI5ENfuRiYKg) | 3:24 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWAwsEEGEeag.md) - [plain]
 | 101 | [Stand Tall](https://open.spotify.com/track/5gTx28WqW30fEN1rEZFcDV) | [Synapson](https://open.spotify.com/artist/5EGOerlVYxwqxaTLEWumBR), [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Stand Tall](https://open.spotify.com/album/4aHhefASnscousZOaHk1OH) | 3:57 |
 | 102 | [bye bye again \- Bob Sinclar Remix](https://open.spotify.com/track/7uGd2sO212d36Ja4wMlTdJ) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh), [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN) | [bye bye again \(Bob Sinclar Remix\)](https://open.spotify.com/album/2QROzydHnLXAaKhAEVLVqn) | 2:40 |
 
-Snapshot ID: `MTY2NDU0Nzc5OSwwMDAwMDAwMDIwODNjNTE4MGM4MTA1ZTI2M2E2NjdhYjc0YjMxYTQ5`
+Snapshot ID: `MTY2NDU0Nzc5OSwwMDAwMDAwMGUzOWQ0ZDE2OTE2ZmFhMGMxMmE5MTI4MDNmY2RiMDAz`

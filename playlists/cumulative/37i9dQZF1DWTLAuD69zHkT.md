@@ -4,14 +4,15 @@
 
 > Slow, soft and sensual \- the laid back sounds of the Blues.
 
-82 songs - 6 hr 3 min - [published](https://open.spotify.com/playlist/5RO5a2jSnqzqLXwCB7WB9q)
+83 songs - 6 hr 7 min - [published](https://open.spotify.com/playlist/5RO5a2jSnqzqLXwCB7WB9q)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [3 O'Clock In The Morning Blues](https://open.spotify.com/track/7HbnGDwIxqv4AQ64QuLljx) | [Ike & Tina Turner](https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k) | [Bold Soul Sister: The Best Of The Blue Thumb Recordings](https://open.spotify.com/album/3o9NHT9ox7Is7ZzQXm2OE9) | 2:39 | 2022-07-13 |  |
 | [A Fool No More](https://open.spotify.com/track/2Qm98Rw4rdfvo14ZOUiZTN) | [Peter Green](https://open.spotify.com/artist/3y1DgnVXqckGJrbwOKchdU) | [In the Skies](https://open.spotify.com/album/2lN1smqF0snKbzvR6ZY7FJ) | 7:44 | 2022-07-13 |  |
 | [A Man and the Blues](https://open.spotify.com/track/6fT85JDHqhkQv26CW7apxG) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Slow Blues \- 25 Rare Blues Tracks](https://open.spotify.com/album/5IQlmcuc8I8RlY4h9ELihB) | 6:21 | 2022-07-13 |  |
-| [Ain't No Sunshine](https://open.spotify.com/track/1ebftgRZcnctL8GpBu0nu8) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Texas Cannonball](https://open.spotify.com/album/59wGnewkXsHCgDahKUPBqu) | 3:20 | 2022-07-13 |  |
+| [Ain't No Sunshine](https://open.spotify.com/track/1ebftgRZcnctL8GpBu0nu8) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Texas Cannonball](https://open.spotify.com/album/59wGnewkXsHCgDahKUPBqu) | 3:20 | 2022-07-13 | 2022-11-12 |
+| [Ain't No Sunshine](https://open.spotify.com/track/474v7dAYMQ922017Y8ZgZ9) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Blues for Breakfast](https://open.spotify.com/album/53U7Q4ep8kXfTcwOISAKah) | 3:20 | 2022-10-14 |  |
 | [Angel from Montgomery \- 2008 Remaster](https://open.spotify.com/track/6JssQFiBCi6ZcE6060S9A7) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Streetlights](https://open.spotify.com/album/3FEpG9aXxEwWfdpHeCScvO) | 3:59 | 2022-07-13 |  |
 | [Another Night to Cry](https://open.spotify.com/track/3nSk8UWlcrnI6mRKwPtAzk) | [Eilen Jewell](https://open.spotify.com/artist/7caMdiwqwg1WefL7Jjm23M) | [Down Hearted Blues](https://open.spotify.com/album/1fgrMWdgcvpS0MNEa7I4FU) | 2:53 | 2022-07-13 |  |
 | [As the Years Go Passing By](https://open.spotify.com/track/1kckU867bAQrTpIdNAwrGP) | [Fenton Robinson](https://open.spotify.com/artist/5WFeN8vtX0TYqv0IYVbWZT), [Malone](https://open.spotify.com/artist/7fBebCCi5DajdmGpG4Avja) | [Slow Blues \- 25 Rare Blues Tracks](https://open.spotify.com/album/5IQlmcuc8I8RlY4h9ELihB) | 4:48 | 2022-07-13 |  |

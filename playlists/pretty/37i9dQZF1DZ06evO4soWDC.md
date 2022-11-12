@@ -43,10 +43,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4soWDC.md) - [plain]
 | 33 | [Viva Tassie Cabrones](https://open.spotify.com/track/1oLRcjIjXKzp4WxBx35snX) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [Tassie](https://open.spotify.com/album/18NtphyUEcBYeorDyGHwXv) | 4:30 |
 | 34 | [Isaac Bowen](https://open.spotify.com/track/4KwCfSTIxcGWnOA53KdIRf) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [Extended Family](https://open.spotify.com/album/7966wZO0fRIORtU55s7PVd) | 2:42 |
 | 35 | [Death Rattle](https://open.spotify.com/track/0Sa9FnsVIulcfog5skN528) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [By a Thread](https://open.spotify.com/album/7fjdamLdDfPcoTyx5fhRyx) | 3:40 |
-| 36 | [In the Sight](https://open.spotify.com/track/7cPME77cqvQNrUvIQWuHzK) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [Loose Threads](https://open.spotify.com/album/1tmpr3ZW6dkXVN9pMZjcIR) | 3:07 |
+| 36 | [41 Degrees](https://open.spotify.com/track/6hcu3jshFcAQrTZG5AOiG0) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [Loose Threads](https://open.spotify.com/album/1tmpr3ZW6dkXVN9pMZjcIR) | 2:23 |
 | 37 | [Passed the Break](https://open.spotify.com/track/39dNS79yWZLw96FEemTSsO) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [Tassie](https://open.spotify.com/album/18NtphyUEcBYeorDyGHwXv) | 3:17 |
 | 38 | [Like a Charm](https://open.spotify.com/track/7egjZUjcF8YnCkVUDUWvRT) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [Extended Family](https://open.spotify.com/album/7966wZO0fRIORtU55s7PVd) | 3:27 |
-| 39 | [41 Degrees](https://open.spotify.com/track/6hcu3jshFcAQrTZG5AOiG0) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [Loose Threads](https://open.spotify.com/album/1tmpr3ZW6dkXVN9pMZjcIR) | 2:23 |
+| 39 | [In the Sight](https://open.spotify.com/track/7cPME77cqvQNrUvIQWuHzK) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [Loose Threads](https://open.spotify.com/album/1tmpr3ZW6dkXVN9pMZjcIR) | 3:07 |
 | 40 | [Devil's in the Detail](https://open.spotify.com/track/3pDS9rIhjPlHNED5OBh8Wh) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [Extended Family](https://open.spotify.com/album/7966wZO0fRIORtU55s7PVd) | 3:01 |
 
-Snapshot ID: `Mjc4MDE1OTIsMDAwMDAwMDA0OWQ2OWRhZDVlYWI3OWRjNDFlMTg2NjIzNTUzZDkwZg==`
+Snapshot ID: `Mjc4MDI5OTksMDAwMDAwMDBmNTg5ZjdiZTEyYWNlODlkZTc2M2VlNmM4MmJjZTNhMw==`

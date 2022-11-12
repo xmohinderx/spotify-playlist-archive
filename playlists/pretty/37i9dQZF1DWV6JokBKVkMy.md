@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6JokBKVkMy.md) - [plain]
 
 > The sound and soul that keeps Mauritius jamming
 
-[Spotify](https://open.spotify.com/user/spotify) - 270 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 271 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Dodo baba](https://open.spotify.com/track/6AYcQt8wmqPf93WExooomf) | [Sky to Be](https://open.spotify.com/artist/7uWVHfDA75struQziMT7Ch) | [Circonstances lavie](https://open.spotify.com/album/15Tc8HXEBIVbGw2s8YZsBv) | 6:02 |
-| 2 | [Li tourné \- Version ambiance](https://open.spotify.com/track/3TytI9LFOL2aByywkSKDvP) | [Alain Ramanisum](https://open.spotify.com/artist/3mKlu8EOxqgz8FGQzhoZI1) | [Suprem séga \(Li tourné / timbali\)](https://open.spotify.com/album/0BK5lSpjL5MLgi8U6J0QyD) | 4:02 |
-| 3 | [Tenpaw](https://open.spotify.com/track/2YNRG0rZhb2dbJdhWZGtLl) | [Junior](https://open.spotify.com/artist/5ZVc8t2irmJwaMSkDXY1Rj), [DJ SEBB](https://open.spotify.com/artist/6tWA0KYYzAiQzgKzImRQGF) | [Tenpaw](https://open.spotify.com/album/4x1VAiBDut2bgR1gJxETFr) | 3:24 |
+| 2 | [Tenpaw](https://open.spotify.com/track/2YNRG0rZhb2dbJdhWZGtLl) | [Junior](https://open.spotify.com/artist/5ZVc8t2irmJwaMSkDXY1Rj), [DJ SEBB](https://open.spotify.com/artist/6tWA0KYYzAiQzgKzImRQGF) | [Tenpaw](https://open.spotify.com/album/4x1VAiBDut2bgR1gJxETFr) | 3:24 |
+| 3 | [Li tourné \- Version ambiance](https://open.spotify.com/track/3TytI9LFOL2aByywkSKDvP) | [Alain Ramanisum](https://open.spotify.com/artist/3mKlu8EOxqgz8FGQzhoZI1) | [Suprem séga \(Li tourné / timbali\)](https://open.spotify.com/album/0BK5lSpjL5MLgi8U6J0QyD) | 4:02 |
 | 4 | [Roule Matak, Pt\. 1](https://open.spotify.com/track/1RQPzvQfwJlgCXL24cs3mj) | [Bigg Frankii](https://open.spotify.com/artist/2Xi6Sscx1ZPJ3opKWFm8ya), [Jor'dan](https://open.spotify.com/artist/5bfaXvOfbazvljanbZvHqu) | [Roule Matak](https://open.spotify.com/album/4v3b53w4gWZyHSUqBObEyf) | 2:23 |
 | 5 | [Pomper](https://open.spotify.com/track/2h7nEq7C0QwAQ75GAZzyhv) | [Gary Victor](https://open.spotify.com/artist/34uDf9D2S1QCyFIt8TNcm1) | [Elle danse](https://open.spotify.com/album/6Vzxd84ITvDqoJSZGchxYV) | 3:22 |
 | 6 | [Rev nou ancétres](https://open.spotify.com/track/2Bqtk3rEMJNCLGoGY52Xkd) | [Cassiya](https://open.spotify.com/artist/2OIKHs5XFIbEcwpLaIdLSo) | [Le meilleur de Cassiya avec Désiré François \(Best Of, vol\. 1\)](https://open.spotify.com/album/6KeVT9o7E0gqnyhugESYnh) | 4:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6JokBKVkMy.md) - [plain]
 | 49 | [SA FAM LA](https://open.spotify.com/track/7klLrUyJHtye2IxxvD1Zv6) | [Demaiko](https://open.spotify.com/artist/1UyUSYFkEpupx2tFIatBHD) | [SA FAM LA](https://open.spotify.com/album/2hzpC1T8nikTIB6j0fJbzb) | 3:35 |
 | 50 | [Touletemp \(feat\. Sista Queen\)](https://open.spotify.com/track/1fx4MLYw7whk15f4dvhqpX) | [Jah Mike](https://open.spotify.com/artist/5feVIF1cBHjeTWCFFVivoH), [Sista Queen](https://open.spotify.com/artist/7cI26ISQuWm0h8rlYL1so8) | [Enn lot kouler](https://open.spotify.com/album/3j1W3VSJEYDOJIK4V8RQok) | 3:57 |
 
-Snapshot ID: `MTY2MDIxMjMxNiwwMDAwMDAwMDc3ZjBhNzA1NmU1OGY5YmU0NTVmMWRkYmM3MDg0ZWRm`
+Snapshot ID: `MTY2MDIxMjMxNiwwMDAwMDAwMGZhMTc5NzhkMjg3NGJhZWRlMGJhNTU3MTdmMmYwZmI5`

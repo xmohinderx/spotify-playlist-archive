@@ -215,7 +215,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 197977,
       "name": "Artifice",
       "url": "https://open.spotify.com/track/7mp7xiw8cUpLPDTSZ1v5BS"
@@ -251,7 +251,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 194634,
       "name": "Avery",
       "url": "https://open.spotify.com/track/31DUl7XE3OzX1IcnVG94g4"
@@ -505,7 +505,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 177409,
       "name": "Bonafide (feat. Chiiild)",
       "url": "https://open.spotify.com/track/6AwhhAhVLPvaDYmfR4j3bQ"
@@ -1093,7 +1093,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 260338,
       "name": "Edge Of The Dark",
       "url": "https://open.spotify.com/track/5OLec5tme4i5o5pUXpiGop"
@@ -1332,6 +1332,28 @@
     },
     {
       "album": {
+        "name": "Polydans Remixes",
+        "url": "https://open.spotify.com/album/277wPb0R66H8K90bJMksyG"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        },
+        {
+          "name": "Gerd Janson",
+          "url": "https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239788,
+      "name": "Feels Right - Gerd Janson Remix - Radio Edit",
+      "url": "https://open.spotify.com/track/0x7IgG3pJHBUoULcsaPFpr"
+    },
+    {
+      "album": {
         "name": "Feels Right (Gerd Janson Remix)",
         "url": "https://open.spotify.com/album/5iamscXb0VlnJmEkBi33uP"
       },
@@ -1413,6 +1435,28 @@
       "duration_ms": 207499,
       "name": "Fluff",
       "url": "https://open.spotify.com/track/0dIjXvuRcRJKMqiofuFeyc"
+    },
+    {
+      "album": {
+        "name": "are we?",
+        "url": "https://open.spotify.com/album/4tl1xL2MeyURq8Vk3enaze"
+      },
+      "artists": [
+        {
+          "name": "slenderbodies",
+          "url": "https://open.spotify.com/artist/3S4d3YRNGg2OhnNm3QvfhA"
+        },
+        {
+          "name": "Tim Atlas",
+          "url": "https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207118,
+      "name": "focus (with Tim Atlas)",
+      "url": "https://open.spotify.com/track/24np6zeKNIU28oY3CAvQCh"
     },
     {
       "album": {
@@ -1641,7 +1685,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 203768,
       "name": "Gone",
       "url": "https://open.spotify.com/track/20aUwrJ5GXdwFW5YgEyUiP"
@@ -1699,7 +1743,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 216003,
       "name": "Haircut",
       "url": "https://open.spotify.com/track/3UY4s7F4Ard3T6vm7xcJxQ"
@@ -1845,7 +1889,7 @@
       ],
       "date_added": "2020-11-04",
       "date_added_asterisk": true,
-      "date_removed": "2021-10-20",
+      "date_removed": null,
       "duration_ms": 201223,
       "name": "Holy Soul",
       "url": "https://open.spotify.com/track/3iRIduYS85sZeCE66yPODE"
@@ -1953,7 +1997,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 192792,
       "name": "Hunger",
       "url": "https://open.spotify.com/track/4AXc3B0zpchnvWJ17htzeU"
@@ -2301,7 +2345,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 196000,
       "name": "Lemonade",
       "url": "https://open.spotify.com/track/0q6BSDsaOryg8o396XTC8g"
@@ -2381,6 +2425,24 @@
       "duration_ms": 164330,
       "name": "lockdown",
       "url": "https://open.spotify.com/track/652CTaKzVGhRewB8BfCCPk"
+    },
+    {
+      "album": {
+        "name": "Lose Your Head",
+        "url": "https://open.spotify.com/album/3GVvY4JcpKJcGt7yawKiAl"
+      },
+      "artists": [
+        {
+          "name": "London Grammar",
+          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199996,
+      "name": "Lose Your Head",
+      "url": "https://open.spotify.com/track/0lTNcrrVOlHJSuDXYNSkOH"
     },
     {
       "album": {
@@ -2745,10 +2807,36 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 199768,
       "name": "Never Gonna Forget (with Diplo feat. Elderbrook)",
       "url": "https://open.spotify.com/track/0JqY1VDNn7p92rsvUGs6m1"
+    },
+    {
+      "album": {
+        "name": "Never Gonna Forget (with Diplo feat. Elderbrook)",
+        "url": "https://open.spotify.com/album/0GqBHBdVgx0H48cON75KE4"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199768,
+      "name": "Never Gonna Forget (with Diplo feat. Elderbrook)",
+      "url": "https://open.spotify.com/track/12aAoKT43mVGdW1ofZVCwr"
     },
     {
       "album": {
@@ -2835,7 +2923,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 236173,
       "name": "No Time",
       "url": "https://open.spotify.com/track/1FG2lH6gxJCX94kOg2Sozp"
@@ -2915,7 +3003,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 229560,
       "name": "On the Lookout",
       "url": "https://open.spotify.com/track/4MDgmDaVN9UPyZ41Cxb3NV"
@@ -3219,6 +3307,24 @@
       "duration_ms": 218940,
       "name": "Purple Sand (My Home)",
       "url": "https://open.spotify.com/track/4knUlOyIeFGKH1ObRzfRcl"
+    },
+    {
+      "album": {
+        "name": "Size of Relief",
+        "url": "https://open.spotify.com/album/0DdOMiD6kPE0Kv119dNZCI"
+      },
+      "artists": [
+        {
+          "name": "Young & Sick",
+          "url": "https://open.spotify.com/artist/3pQXFWbvLit77NpvNmOo3k"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246118,
+      "name": "Queen of the Valley",
+      "url": "https://open.spotify.com/track/164PqKYitMXTrr8nMt7owN"
     },
     {
       "album": {
@@ -4275,7 +4381,7 @@
       ],
       "date_added": "2020-11-04",
       "date_added_asterisk": true,
-      "date_removed": "2021-10-20",
+      "date_removed": null,
       "duration_ms": 251294,
       "name": "Tunnels and Planes",
       "url": "https://open.spotify.com/track/4yjfM171SimZyctF5W3yoX"

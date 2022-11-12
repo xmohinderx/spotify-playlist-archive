@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 
 > All live, all blues\. Cover: Jackie Venson
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,161 likes - 60 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,234 likes - 60 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 | 9 | [Why Me \- Live](https://open.spotify.com/track/1xap6bAZwxNGs1hIYwEzWw) | [Albert Cummings](https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg) | [Feel So Good: Albert Cummings Live](https://open.spotify.com/album/1eiDms6tFvFwd4tNdTRnPm) | 3:07 |
 | 10 | [Summertime \(Live\)](https://open.spotify.com/track/2kBpoD0of0GlqHcnlqp5JE) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues From The Heart Live \(Live\)](https://open.spotify.com/album/3HhP20GmF6tYJWAkbc1Dvp) | 5:49 |
 | 11 | [Let Me Know](https://open.spotify.com/track/1HlAG7ceza8IDx7adue0Ch) | [Walter Trout and The Free Radicals](https://open.spotify.com/artist/6P8bt73AQV9FbkUMG2cjht) | [Live Trout Vol\. 1](https://open.spotify.com/album/7H9bJ8kBT9hV5zBl6Dp3f1) | 5:04 |
-| 12 | [Camp Washington Chile/If You Have To Know](https://open.spotify.com/track/2Z9bN4v0RG8TRkcgw3htap) | [Lonnie Mack](https://open.spotify.com/artist/52GxmJdAcByy1ZyPivpUns) | [Live \- Attack Of The Killer V](https://open.spotify.com/album/6XeZLDhgXBlqPAEVTV86UQ) | 7:34 |
-| 13 | [River of Tears \- Live at Staples Center, Los Angeles, CA, 8/18 \- 19/2001](https://open.spotify.com/track/2n6uDmFnyUBqXk652GUGNl) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [One More Car, One More Rider \(Live\)](https://open.spotify.com/album/4YJ93uAqs42dsEdxuvhzp6) | 8:59 |
+| 12 | [River of Tears \- Live at Staples Center, Los Angeles, CA, 8/18 \- 19/2001](https://open.spotify.com/track/2n6uDmFnyUBqXk652GUGNl) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [One More Car, One More Rider \(Live\)](https://open.spotify.com/album/4YJ93uAqs42dsEdxuvhzp6) | 8:59 |
+| 13 | [Camp Washington Chile/If You Have To Know](https://open.spotify.com/track/2Z9bN4v0RG8TRkcgw3htap) | [Lonnie Mack](https://open.spotify.com/artist/52GxmJdAcByy1ZyPivpUns) | [Live \- Attack Of The Killer V](https://open.spotify.com/album/6XeZLDhgXBlqPAEVTV86UQ) | 7:34 |
 | 14 | [Key To The Highway \- Live](https://open.spotify.com/track/7zX9fAnniTOdTsSV8eipxM) | [The Derek Trucks Band](https://open.spotify.com/artist/1YwfENKEZrowcmtR1nALZn) | [Roadsongs](https://open.spotify.com/album/31hfJ2wHUoRjqwNdZXU6u3) | 6:22 |
 | 15 | [Mad As A Hatter \- Live In Concert](https://open.spotify.com/track/0on0Y3tC9iHoPGYPBoJgFY) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm), [Nu Deco Ensemble](https://open.spotify.com/artist/4GYUlFINfLTLni6bN7SbAK) | [Paint The Roses \(Live In Concert\)](https://open.spotify.com/album/2rIe2vSV47OAhOBLNtCWmu) | 5:12 |
 | 16 | [Keep On Growing \- Live](https://open.spotify.com/track/1vkMtRDV3rtqwjM9KH9WIy) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [Live From The Fox Oakland](https://open.spotify.com/album/5N08TYY1GFOsd8apSoIeZ0) | 10:50 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 | 59 | [Night Train \- Live](https://open.spotify.com/track/3FDFofxSBPv1hzSZdKvAuh) | [Bernard Allison](https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI) | [Songs from the Road](https://open.spotify.com/album/59Z7Qnuk07Q0zWgV8RrvAo) | 4:58 |
 | 60 | [Ride On Josephine \- Live In Boston, Massachusetts / 1982](https://open.spotify.com/track/68OmRD31fk5wALO2AGF85X) | [George Thorogood & The Destroyers](https://open.spotify.com/artist/4n31svBA9GGIYxGxgrQaRK) | [Ride On Josephine \(Live In Boston / 1982\)](https://open.spotify.com/album/3vfLAhOmj5BvT69y8Y4CRP) | 8:21 |
 
-Snapshot ID: `MTY2NzUzNDQwMCwwMDAwMDAwMDBiMzIyMmRhOThmZGU3NjRmNDUxNTBhMWYxZDQzNTRi`
+Snapshot ID: `MTY2NzUzNDQwMCwwMDAwMDAwMDBiY2NmODI4ZGZhNWI1NDJmYThjOWYzOWNkN2Y0YjZm`

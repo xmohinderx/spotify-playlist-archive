@@ -4,7 +4,7 @@
 
 > This is Alan Hawkshaw\. The essential tracks, all in one playlist.
 
-92 songs - 4 hr 13 min - [published](https://open.spotify.com/playlist/28P9YuJcTLPFyCtcBLEXvl)
+93 songs - 4 hr 15 min - [published](https://open.spotify.com/playlist/28P9YuJcTLPFyCtcBLEXvl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Soul Organ Impromptu](https://open.spotify.com/track/7wRok4fwH4ygKr1AtrVFTF) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: Soul Organ Showcase](https://open.spotify.com/album/0igqSRlReNwphFAqsflrOZ) | 2:57 | 2022-05-31 |  |
 | [Speed Speed Speed](https://open.spotify.com/track/0trsIvjLUT4WOq9phJxSz0) | [Alan Parker](https://open.spotify.com/artist/0ZpOIHGVsM7vMZqPt4i214), [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: Music for a Young Generation](https://open.spotify.com/album/7DSXOfsLNItRe1nYDmAGpL) | 1:17 | 2022-08-29 |  |
 | [Speed Speed Speed](https://open.spotify.com/track/6KequWeuLVnMMf1engpVTa) | [Alan Parker](https://open.spotify.com/artist/0ZpOIHGVsM7vMZqPt4i214), [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [The Kpm 1000 Series \- Volume 1](https://open.spotify.com/album/1svikpX3DorNerwbCIGi6H) | 1:17 | 2022-05-31 | 2022-08-23 |
+| [Sportsworld](https://open.spotify.com/track/44YEssSEcZpd8ajr9XON8z) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Highlights](https://open.spotify.com/album/53lRdtLiHz3eDyVi5OXhCk) | 1:53 | 2022-11-11 |  |
 | [Strangelands](https://open.spotify.com/track/4EZF2uDziv2o3mgl1Z8Itu) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: The Road Forward](https://open.spotify.com/album/6xdnLajMDIof5HwgTokRLp) | 3:23 | 2022-05-29 | 2022-10-14 |
 | [Studio 69](https://open.spotify.com/track/2hETyXkSvWidMCtUAd5xFZ) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: The Big Beat](https://open.spotify.com/album/4KEAda0cN0G2cBoXHfd3uD) | 1:54 | 2022-05-29 |  |
 | [Sunflower](https://open.spotify.com/track/1h70v5iWJWPmLbmQjKoRvT) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: Happy Rainbows](https://open.spotify.com/album/5m8RDoxitluGPZH7Y3D0XH) | 2:25 | 2022-09-06 |  |
@@ -93,7 +94,7 @@
 | [The Executive](https://open.spotify.com/track/776mbKjVAft84zLUPqoluf) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T), [Brian Bennett](https://open.spotify.com/artist/0WP1sO0RYZHeJyd8PLSRBp) | [Kpm 1000 Series: Synthesis](https://open.spotify.com/album/6H9lWC3gxOefkRfDrxmlaB) | 3:32 | 2022-05-29 |  |
 | [The Feminine Scene](https://open.spotify.com/track/4T5WDDivphEVKFz2NmVmxn) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T), [Keith Mansfield](https://open.spotify.com/artist/5slh4AZGBwQKHeKZJCHEYH) | [Kpm 1000 Series: Beat Incidental](https://open.spotify.com/album/1wKRVl9kRVN879WQifzkYg) | 1:02 | 2022-06-03 |  |
 | [The Hawk Shuffle](https://open.spotify.com/track/67zZDu1rnFAQdp1zyryQWQ) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T), [Alessandro Rizzo](https://open.spotify.com/artist/6E3g7aS7Tngha3AtNeuc44), [Elliot Ireland](https://open.spotify.com/artist/3mDHOImVK3BjoclJQM8RXb) | [Vintage Remix Boutique \- Skeewiff vs Kpm](https://open.spotify.com/album/0omBhh34SdDB0XYUwWRG7S) | 3:01 | 2022-06-15 | 2022-08-10 |
-| [The Millionairess](https://open.spotify.com/track/1iqulavsMHGtmCXF57YbLU) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: Friendly Faces](https://open.spotify.com/album/224JifnNZ8kVboTgLkh1JW) | 3:07 | 2022-05-29 |  |
+| [The Millionairess](https://open.spotify.com/track/1iqulavsMHGtmCXF57YbLU) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: Friendly Faces](https://open.spotify.com/album/224JifnNZ8kVboTgLkh1JW) | 3:07 | 2022-05-29 | 2022-11-12 |
 | [The Speed of Sound](https://open.spotify.com/track/5yXMM4OEaGIbrAXFmrYx9s) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Bruton Vaults: Disco, Vol\. 1](https://open.spotify.com/album/68w7yR6DkhU0OL9EXeeEbK) | 2:49 | 2022-05-29 | 2022-10-12 |
 | [The Tense Scene](https://open.spotify.com/track/5E77JCBqo2tTFZecettFg7) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T), [Keith Mansfield](https://open.spotify.com/artist/5slh4AZGBwQKHeKZJCHEYH) | [Kpm 1000 Series: Beat Incidental](https://open.spotify.com/album/1wKRVl9kRVN879WQifzkYg) | 1:02 | 2022-07-22 |  |
 | [Undergroove](https://open.spotify.com/track/4xunh8bA57pylZRTBJMndo) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: Move with the Times](https://open.spotify.com/album/5sybNrceXTbwPviUEeXX2A) | 2:33 | 2022-06-05 | 2022-10-07 |

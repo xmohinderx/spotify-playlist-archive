@@ -4,7 +4,7 @@
 
 > The best and finest '60s Funk\. Cover: The Meters.
 
-73 songs - 3 hr 46 min - [published](https://open.spotify.com/playlist/2Q52D217xAp1HkZ1f7Otra)
+74 songs - 3 hr 48 min - [published](https://open.spotify.com/playlist/2Q52D217xAp1HkZ1f7Otra)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,8 @@
 | [Strokin](https://open.spotify.com/track/26lWSZtUQvUhTnjqokay5p) | [Clarence Carter](https://open.spotify.com/artist/7lffJlv0nRl0sIsHDmo0SB) | [I Got Rhythm](https://open.spotify.com/album/7JAvGHIPXh83xArPTYTmm7) | 4:35 | 2020-12-01 |  |
 | [Tell Mama](https://open.spotify.com/track/6eFgjBTF91pOZTQ8t7xBHv) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Tell Mama](https://open.spotify.com/album/4ReJ59T4YxC62WkfyVTWpr) | 2:24 | 2020-12-01 |  |
 | [The Horse](https://open.spotify.com/track/2FCiuaXNE1kjwSoAvso4vT) | [Cliff Nobles](https://open.spotify.com/artist/0i0ELbteoVYQDbSNCU3Spz) | [The Phil\-LA of Soul Singles Collection 1968\-1972](https://open.spotify.com/album/5zXj6vdiMbqMXTL9oCqruD) | 2:26 | 2020-12-01 |  |
-| [The Love of My Woman \- Single Version; Remastered](https://open.spotify.com/track/1eUfBAAMu5Sf3vF9H2QNfX) | [Darrell Banks](https://open.spotify.com/artist/5vWhw0XzIKRr5YUsYB2w3m) | [Atlantic Unearthed: Soul Brothers](https://open.spotify.com/album/4WFbdQVnAwE2shxmwMN0WN) | 2:53 | 2020-12-01 |  |
+| [The Love of My Woman](https://open.spotify.com/track/4lbVeuIhptmBthLqpBqgQm) | [Darrell Banks](https://open.spotify.com/artist/5vWhw0XzIKRr5YUsYB2w3m) | [Rare & Soulful: The 60's](https://open.spotify.com/album/33fTwJxrf0ydlvA4Mydhyw) | 2:52 | 2020-12-01 |  |
+| [The Love of My Woman \- Single Version; Remastered](https://open.spotify.com/track/1eUfBAAMu5Sf3vF9H2QNfX) | [Darrell Banks](https://open.spotify.com/artist/5vWhw0XzIKRr5YUsYB2w3m) | [Atlantic Unearthed: Soul Brothers](https://open.spotify.com/album/4WFbdQVnAwE2shxmwMN0WN) | 2:53 | 2020-12-01 | 2022-11-12 |
 | [The Watts Breakaway](https://open.spotify.com/track/2jE7FOj2T1zMy3XSLbeDd2) | [The Johnny Otis Show](https://open.spotify.com/artist/4pdM1TI8b1tZW3Jprzn5II) | [Cuttin Up](https://open.spotify.com/album/3CT70XoGyILn3j2gcNkbA9) | 2:34 | 2020-12-01 |  |
 | [The Worm](https://open.spotify.com/track/1VsMIGb2CX63J2Yt1sa12v) | [Jimmy McGriff](https://open.spotify.com/artist/1A0QR12gcj2L5hYh1WWDeh) | [The Worm](https://open.spotify.com/album/494GVGQTYwB91lZ1Lrombr) | 3:20 | 2020-12-01 |  |
 | [There Was A Time](https://open.spotify.com/track/3cEo5poFlZ9yen1ugTCbj0) | [The Dapps](https://open.spotify.com/artist/6kfQGlrjoxoyhzCr3BaKuk), [Alfred Ellis](https://open.spotify.com/artist/15iriNEg37RFdKlpW3XFGW) | [The Singles Vol\. 5: 1967\-1969](https://open.spotify.com/album/445ijS6GDbxbsGwt22yVY9) | 2:30 | 2020-12-01 |  |

@@ -4,14 +4,15 @@
 
 > The best indie rock/pop/punk/dance/hip hop/r&b of 2019\. Cover: Clairo
 
-84 songs - 5 hr 10 min - [published](https://open.spotify.com/playlist/5hz8Xvsg73JZ8spEinKWb8)
+86 songs - 5 hr 19 min - [published](https://open.spotify.com/playlist/5hz8Xvsg73JZ8spEinKWb8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [747](https://open.spotify.com/track/3Z50m8nGRisSWiLTEn83u2) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [Shepherd in a Sheepskin Vest](https://open.spotify.com/album/59hAqiqCmbfLBDtMzGCNpp) | 3:26 | 2019-12-09 |  |
 | [747](https://open.spotify.com/track/48YTF9XxJiiFdTa6IpCMpq) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [Shepherd in a Sheepskin Vest](https://open.spotify.com/album/7sfkWJ14gZywjyv3wtQ5WC) | 3:26 | 2019-12-09 | 2022-07-29 |
 | [A Palé](https://open.spotify.com/track/23zJcKwLf5CeaKVbFhrWgF) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [A Palé](https://open.spotify.com/album/6B2RRiDJFXHojfPxKja5Mx) | 2:23 | 2019-12-09 |  |
-| [All My Happiness is Gone](https://open.spotify.com/track/0oCpNIVoV1iJK51xmh59Yh) | [Purple Mountains](https://open.spotify.com/artist/1ll45mCZIveI9KHNZx2DdS) | [Purple Mountains](https://open.spotify.com/album/6YM4MpYgz6BhIeqQkxp3u4) | 4:20 | 2019-12-09 |  |
+| [All My Happiness is Gone](https://open.spotify.com/track/0oCpNIVoV1iJK51xmh59Yh) | [Purple Mountains](https://open.spotify.com/artist/1ll45mCZIveI9KHNZx2DdS) | [Purple Mountains](https://open.spotify.com/album/6YM4MpYgz6BhIeqQkxp3u4) | 4:20 | 2019-12-09 | 2022-11-12 |
+| [All My Happiness is Gone](https://open.spotify.com/track/3REGbJ5sl2RivUzgS2UZkF) | [Purple Mountains](https://open.spotify.com/artist/1ll45mCZIveI9KHNZx2DdS) | [All My Happiness is Gone](https://open.spotify.com/album/39FwK9nw1fyF39hZUkPUt2) | 4:20 | 2019-12-09 |  |
 | [All My Happiness is Gone](https://open.spotify.com/track/3NEeKJm8LcdaDG98oZwSZx) | [Purple Mountains](https://open.spotify.com/artist/1ll45mCZIveI9KHNZx2DdS) | [Purple Mountains](https://open.spotify.com/album/5NCdiiTgky5PbjmCtcgwtn) | 4:20 | 2019-12-09 | 2022-07-29 |
 | [Baby Blu](https://open.spotify.com/track/57BSFXytUc9trbqP9e3qrF) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Miss Universe](https://open.spotify.com/album/4ghm3TST2NwYOIAd5QHjbU) | 4:41 | 2019-12-09 | 2022-07-29 |
 | [Baby Blu](https://open.spotify.com/track/5TLMnMcFTlxa7on9ZltYzz) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Miss Universe](https://open.spotify.com/album/1kodX6YjT66DyInfVS6aGv) | 4:41 | 2019-12-09 |  |
@@ -77,7 +78,8 @@
 | [Song 32](https://open.spotify.com/track/7Duz1lXRfECWROhjHQ5dWk) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy) | [Song 32](https://open.spotify.com/album/2ZZWU7AAqHV9tXzNjPZrYJ) | 2:42 | 2019-12-09 |  |
 | [Song 32](https://open.spotify.com/track/7GWAIzOmt5iznpu8RbSiSI) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy) | [Song 32](https://open.spotify.com/album/7eVx4XXwY3KrIPGRrW66UI) | 2:42 | 2019-12-09 | 2022-09-09 |
 | [Spirit](https://open.spotify.com/track/3bCllR1v5AhEwm9Wl8kyBT) | [Jack Larsen](https://open.spotify.com/artist/1UGH6A3IionoSVLLmqtl4o) | [Spirit](https://open.spotify.com/album/48uz1gNCoyPJve0UcggHhj) | 4:48 | 2019-12-09 | 2022-08-18 |
-| [Spirit](https://open.spotify.com/track/0f9vhmR2FVZ75t69Lvo39b) | [Jack Larsen](https://open.spotify.com/artist/1UGH6A3IionoSVLLmqtl4o) | [Mildew](https://open.spotify.com/album/0Rl2oukHRhIEK48o5ZbJNu) | 4:49 | 2019-12-09 |  |
+| [Spirit](https://open.spotify.com/track/06TqjuJ7RwVqN6SsPId1ma) | [Jack Larsen](https://open.spotify.com/artist/1UGH6A3IionoSVLLmqtl4o) | [Spirit](https://open.spotify.com/album/0WN75oUaQCNadnMj0bIaQv) | 4:49 | 2019-12-09 |  |
+| [Spirit](https://open.spotify.com/track/0f9vhmR2FVZ75t69Lvo39b) | [Jack Larsen](https://open.spotify.com/artist/1UGH6A3IionoSVLLmqtl4o) | [Mildew](https://open.spotify.com/album/0Rl2oukHRhIEK48o5ZbJNu) | 4:49 | 2019-12-09 | 2022-11-12 |
 | [Stay Flo](https://open.spotify.com/track/6GCIYIWUBSLontW6divqsw) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [When I Get Home](https://open.spotify.com/album/4WF4HvVT7VjGnVjxjoCR6w) | 2:55 | 2019-12-09 |  |
 | [Summer Girl \- Bonus Track](https://open.spotify.com/track/1A8fAAVkRAE3IUxWdJ0sWm) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Don't Wanna](https://open.spotify.com/album/4iNDXOLDZma37m0iWPkf0x) | 3:25 | 2019-12-09 |  |
 | [Summer Girl \- Bonus Track](https://open.spotify.com/track/1GZH9Sv6zCIse2GKihRHKy) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Summer Girl \(Bonus Track\)](https://open.spotify.com/album/2U2dYHLwLrHSQ3m2YQcNHj) | 3:25 | 2019-12-09 | 2022-07-29 |

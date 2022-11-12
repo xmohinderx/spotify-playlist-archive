@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJ0TKGKfzgP.md) - [plain]
 
 > The best and finest '80s Funk\. Cover: Bootsy Collins.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,167 likes - 100 songs - 8 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,392 likes - 100 songs - 8 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJ0TKGKfzgP.md) - [plain]
 | 18 | [Shine\-O\-Mite \(Rag Poping\)](https://open.spotify.com/track/2C95qrzuEsW7o9ERQIArXS) | [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT) | [Glory B, Da Funk's On Me! The Bootsy Collins Anthology](https://open.spotify.com/album/1iMTvYmTL0GYXao1hMSz5b) | 4:33 |
 | 19 | [Freaks Come Out at Night](https://open.spotify.com/track/2vLOrivHqkIwYz5VkdQv8q) | [Whodini](https://open.spotify.com/artist/4dBOV77d0Fy9KcTZkieXcu) | [Greatest Hits](https://open.spotify.com/album/7yhX9XtHGIQcCb5R7YotJq) | 4:44 |
 | 20 | [What Have You Done For Me Lately](https://open.spotify.com/track/2eCTR3QiAaC9eEKuVdcePj) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [New Year's 80's Party](https://open.spotify.com/album/5RkJYICBkgoE539OSLKyWI) | 4:59 |
-| 21 | [Turn It On](https://open.spotify.com/track/7cr6MHjxCKQwqiiCyZrbpo) | [Level 42](https://open.spotify.com/artist/0L9xkvBPcEp1nrhDrodxc5) | [The Early Tapes / Level 42](https://open.spotify.com/album/3jNbBEmjeHSUyrqKpDgiw8) | 4:40 |
+| 21 | [Turn It On](https://open.spotify.com/track/6RwS8RX83Zh9yYQQ1hoTmv) | [Level 42](https://open.spotify.com/artist/0L9xkvBPcEp1nrhDrodxc5) | [Living It Up \(Deluxe\)](https://open.spotify.com/album/7Jc7f0Y43gY1ntV46cbqUG) | 4:39 |
 | 22 | [Destination](https://open.spotify.com/track/4scgGmqQvlsJsnOOL2tFOL) | [The Warriors](https://open.spotify.com/artist/3SQ9SxVUxmWPEmJcuVvGc1) | [Behind the Mask](https://open.spotify.com/album/5dZJvN5TUDuaXJYaz9bDEH) | 6:39 |
 | 23 | [Super Freak](https://open.spotify.com/track/2dCmGcEOQrMQhMMS8Vj7Ca) | [Rick James](https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL) | [Street Songs \(Deluxe Edition\)](https://open.spotify.com/album/2DBFUBBqJQvfXpodPi2WP5) | 3:25 |
 | 24 | [Just an Illusion](https://open.spotify.com/track/4QT3YKobBj4BI7xCYRLr9u) | [Imagination](https://open.spotify.com/artist/2CkhxuagMCG9uvlbKm5G3m) | [In the Heat of the Night](https://open.spotify.com/album/7FbF8LUVnfmJWkzYfBrvt6) | 6:27 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJ0TKGKfzgP.md) - [plain]
 | 99 | [Walkin' The Line](https://open.spotify.com/track/32ZRHR67bss5cpB7Dw2kYb) | [Brass Construction](https://open.spotify.com/artist/5jWuVnPLmjABrgCGianzs9) | [Best Of ..Movin' & Changin'](https://open.spotify.com/album/70mFuD9TrIvjUoZN45R4M0) | 5:45 |
 | 100 | [Baby Love](https://open.spotify.com/track/6TyPeZdVWsgnCqHS6azkv5) | [Aurra](https://open.spotify.com/artist/6f34Vi3DFJap7eJMDbpzEG) | [Live and Let Live](https://open.spotify.com/album/59mwpuFNItrOg2gAbmdKEJ) | 5:53 |
 
-Snapshot ID: `MTY2NDI4NDg0MCwwMDAwMDAwMGM1MjEzYWJiODhiZDViNjljZmJjNDY1NzMyMmFmZjE0`
+Snapshot ID: `MTY2NDI4NDg0MCwwMDAwMDAwMGIzMzY4MzRiZGU1NGNhYzZkOWIyYTZjODkyMzdkMTIz`

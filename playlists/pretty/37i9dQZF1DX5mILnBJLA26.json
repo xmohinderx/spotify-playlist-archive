@@ -1,13 +1,41 @@
 {
   "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l?si=zkS_fjAISWOKtjkri6dnmA\">DBN Gogo</a>",
-  "num_followers": 363777,
+  "num_followers": 364648,
   "original_name": "AmaPiano Grooves",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODExNzU0MCwwMDAwMDAwMGQwZDNjOTcxMzVjYjI5YTFmODllYTE3MmY1OTQ3M2Vh",
+  "snapshot_id": "MTY2ODE0NzkwMiwwMDAwMDAwMGIzMzRkZTdlNWNmY2Q3ZGUyNWU0YmJlZThlZmI4YTEy",
   "tracks": [
+    {
+      "added_at": "2022-11-11 06:25:02",
+      "album": {
+        "name": "Uyathandeka",
+        "url": "https://open.spotify.com/album/1xJnRQlIhkJsZSwLgZxEGp"
+      },
+      "artists": [
+        {
+          "name": "DBN Gogo",
+          "url": "https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l"
+        },
+        {
+          "name": "Stixx",
+          "url": "https://open.spotify.com/artist/3rIVgeRWFhGxhFF9wgJFC2"
+        },
+        {
+          "name": "BoiBizza",
+          "url": "https://open.spotify.com/artist/1eEtFWkyKW60yUyVwvAeuR"
+        },
+        {
+          "name": "MaWhoo",
+          "url": "https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9"
+        }
+      ],
+      "duration_ms": 471478,
+      "name": "Uyathandeka",
+      "url": "https://open.spotify.com/track/0YWnzJDkaCAuNgE74ktZD1"
+    },
     {
       "added_at": "2022-10-13 21:59:00",
       "album": {

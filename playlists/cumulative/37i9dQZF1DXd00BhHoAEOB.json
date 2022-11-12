@@ -964,6 +964,24 @@
     },
     {
       "album": {
+        "name": "D\u00e9jenme Llorar (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3cBtFZ5mqOn3dzzRyjzxgj"
+      },
+      "artists": [
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241626,
+      "name": "Hasta la Piel",
+      "url": "https://open.spotify.com/track/0CvnbqFHU1PlW9z4IHZXd4"
+    },
+    {
+      "album": {
         "name": "D\u00e9jenme Llorar",
         "url": "https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve"
       },
@@ -975,7 +993,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 241626,
       "name": "Hasta la Piel",
       "url": "https://open.spotify.com/track/5zu4MAEQblGCaTrbXtfpb8"

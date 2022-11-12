@@ -4,15 +4,16 @@
 
 > Vintage soul gems from the archives.
 
-179 songs - 9 hr 58 min - [published](https://open.spotify.com/playlist/2qsloYSmMKpXRTPmf7TGhq)
+180 songs - 10 hr 1 min - [published](https://open.spotify.com/playlist/2qsloYSmMKpXRTPmf7TGhq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(We'll Be\) United](https://open.spotify.com/track/5Dbnnnj3PKhA3z0hSQk5J2) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Super Hits](https://open.spotify.com/album/0IpED0lu5CdYg4LXzJgK3h) | 2:49 | 2021-07-20 |  |
 | [99 Lbs](https://open.spotify.com/track/6gCIPXJMKV9C036QkO9hzX) | [Ann Peebles](https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB) | [99 Lbs](https://open.spotify.com/album/6tewGtDU5aaFwzMhCJIPKV) | 2:19 | 2021-04-23 |  |
 | [A Bird In The Hand \(Is Worth Two In The Bush\) \- Single Version](https://open.spotify.com/track/6i9rWD8JX0agZcvZIX6K2B) | [The Velvelettes](https://open.spotify.com/artist/72Q7helEnjOptf8FAoZQTi) | [The Very Best Of The Velvelettes](https://open.spotify.com/album/4TYdNPupS05h9dZq3iF5M6) | 2:51 | 2021-04-23 |  |
+| [A Drop in the Bucket](https://open.spotify.com/track/5riN4PjlPLiYV2I5HDE5kE) | [The Deacons](https://open.spotify.com/artist/155as8cI348mUAB2F9TnNU) | [A Funky Trip \- Detroit Funk from the Dave Hamilton Archive](https://open.spotify.com/album/5Z1dJRvRGBIOfRs31t50Ac) | 2:52 | 2022-05-11 |  |
 | [A Drop in the Bucket](https://open.spotify.com/track/09JWEtc6o6jzKNw4zLMFi2) | [The Deacons](https://open.spotify.com/artist/155as8cI348mUAB2F9TnNU) | [The Detroit Funk Vaults](https://open.spotify.com/album/00yw2ya8oYl40IAb2xHA4m) | 2:56 | 2021-04-23 | 2022-07-29 |
-| [A Drop in the Bucket](https://open.spotify.com/track/5tr22uCdtY1ZoCOFwi0OAc) | [The Deacons](https://open.spotify.com/artist/155as8cI348mUAB2F9TnNU) | [The Detroit Funk Vaults](https://open.spotify.com/album/5TyaKsCaFybG3jMoc84iwE) | 2:56 | 2022-05-11 |  |
+| [A Drop in the Bucket](https://open.spotify.com/track/5tr22uCdtY1ZoCOFwi0OAc) | [The Deacons](https://open.spotify.com/artist/155as8cI348mUAB2F9TnNU) | [The Detroit Funk Vaults](https://open.spotify.com/album/5TyaKsCaFybG3jMoc84iwE) | 2:56 | 2022-05-11 | 2022-11-12 |
 | [A Lil' Lovin' Sometimes](https://open.spotify.com/track/2VVGLYIl32vJJojDHoi8pY) | [Alexander Patton](https://open.spotify.com/artist/2QYYQZ2HxBdx6uJ0TY7V84) | [The Soul Of Capitol Records: Rare & Well\-Done](https://open.spotify.com/album/5gMhwg6vHZ8Smi0FoKyOUb) | 2:22 | 2021-04-23 |  |
 | [A Love Reputation](https://open.spotify.com/track/38ckyTSXIQ0o7sC6efDG2j) | [Denise LaSalle](https://open.spotify.com/artist/0GVO1kqJHVxOarPgex9K15) | [Chess Soul: A Decade Of Chicago’s Finest](https://open.spotify.com/album/4c9TWEY7mW9Z2CWpc7MIlw) | 2:47 | 2021-04-23 |  |
 | [Ain't No Time Fa Nuthin' \- 12" Version](https://open.spotify.com/track/46FfqOCdZGEq3ihI6goIwc) | [The Futures](https://open.spotify.com/artist/2pvqnXr6K5FZmqbgvibDE3) | [Past, Present And The Futures](https://open.spotify.com/album/3Um2vd5uFwDN2eR131Ly0o) | 5:33 | 2021-07-20 |  |
@@ -111,8 +112,8 @@
 | [Merry Go Round](https://open.spotify.com/track/7ufWDOtatuX8McQDQoMDm5) | [The Joneses](https://open.spotify.com/artist/68e5cP09Ecpbvv5pm4zvxK) | [Movin' On \- The Early Years \(Remastered\)](https://open.spotify.com/album/7mIldRsXig3Qb5kpusP5ft) | 4:30 | 2021-04-23 |  |
 | [Mine All Mine](https://open.spotify.com/track/3jM1W9APJx3dG61sd89IEp) | [The Stylistics](https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3) | [Closer Than Close](https://open.spotify.com/album/6niA5WysdTshOMYsFAvkTz) | 4:30 | 2021-07-20 |  |
 | [Motor City \- Single Version](https://open.spotify.com/track/65gVO07fFP7eWFjJQiNX3r) | [The Satintones](https://open.spotify.com/artist/6CpK7aaneTdvYmRsPOlF25) | [The Complete Tamla And Motown Singles...Plus!](https://open.spotify.com/album/2FwTUXppv3Nt8N11zoxbRW) | 2:33 | 2021-04-23 |  |
-| [My Dream](https://open.spotify.com/track/3J3TOvFAjye5DX657x1w3l) | [The Softones](https://open.spotify.com/artist/520hQlhTLtgIORhwUxZfas) | [The Very Best Of The Softones](https://open.spotify.com/album/7tWOzSqax4E9GKknWXKHd2) | 3:16 | 2022-05-11 | 2022-09-27 |
-| [My Dream](https://open.spotify.com/track/7iVAuA7QEb2nkVkYZ55a0q) | [The Softones](https://open.spotify.com/artist/520hQlhTLtgIORhwUxZfas) | [The Softones](https://open.spotify.com/album/7D7eaBi0PcvV9QNHD934ah) | 3:16 | 2022-05-11 |  |
+| [My Dream](https://open.spotify.com/track/3J3TOvFAjye5DX657x1w3l) | [The Softones](https://open.spotify.com/artist/520hQlhTLtgIORhwUxZfas) | [The Very Best Of The Softones](https://open.spotify.com/album/7tWOzSqax4E9GKknWXKHd2) | 3:16 | 2022-05-11 |  |
+| [My Dream](https://open.spotify.com/track/7iVAuA7QEb2nkVkYZ55a0q) | [The Softones](https://open.spotify.com/artist/520hQlhTLtgIORhwUxZfas) | [The Softones](https://open.spotify.com/album/7D7eaBi0PcvV9QNHD934ah) | 3:16 | 2022-05-11 | 2022-11-12 |
 | [My Dream](https://open.spotify.com/track/6BUGXQsf7jRuyvgG2S7hZD) | [The Softones](https://open.spotify.com/artist/520hQlhTLtgIORhwUxZfas) | [The Very Best of the Softones](https://open.spotify.com/album/2YvN6bMhU9jsHTkhSFYOly) | 3:19 | 2021-04-23 | 2022-07-29 |
 | [My Heart](https://open.spotify.com/track/4twNXlWDeCf810QbdsxVsH) | [Tammi Terrell](https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8) | [A Cellarful Of Motown! \(Vol\. 2\)](https://open.spotify.com/album/4DvJfXChxxWBseHVBfVPfI) | 2:55 | 2021-04-23 |  |
 | [My Little Baby](https://open.spotify.com/track/4MKGbIJuSZQ8KFF0rGBXt0) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Maybe Tomorrow](https://open.spotify.com/album/1RhSU65eltYthavUXScSzB) | 2:56 | 2021-04-23 | 2022-07-29 |

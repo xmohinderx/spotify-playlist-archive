@@ -4,7 +4,7 @@
 
 > 2014 highlights from the home of indie music.
 
-112 songs - 7 hr 23 min - [published](https://open.spotify.com/playlist/5EHHG31d8jzCjYVOyv8FI1)
+114 songs - 7 hr 29 min - [published](https://open.spotify.com/playlist/5EHHG31d8jzCjYVOyv8FI1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Do You](https://open.spotify.com/track/08a6PhXyXeN3lv1DCKW9qY) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [They Want My Soul](https://open.spotify.com/album/55TZx6GWm1hlEbRgkGRjma) | 3:32 | 2021-09-03 |  |
 | [Do You Feel It?](https://open.spotify.com/track/3lOok0REf4j3790abX26PR) | [Chaos Chaos](https://open.spotify.com/artist/6D6rjLdxyE5vwhMlkuQq0E) | [Committed to the Crime](https://open.spotify.com/album/061IeHu2QcmToSRzRkzeqM) | 4:10 | 2021-09-03 |  |
 | [Don't Wanna Be Your Girl](https://open.spotify.com/track/3JBB92odunFru2gOvI91x9) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Wet](https://open.spotify.com/album/6mmsKRts1C4XuRJChx0Pyx) | 2:54 | 2021-09-03 |  |
+| [Drops](https://open.spotify.com/track/3qfqrPLjWLbIHEc5ZCrKmN) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Jungle](https://open.spotify.com/album/5dYCfDcz1KB5E9i2kgWXXr) | 2:53 | 2021-09-03 |  |
 | [Easy Money](https://open.spotify.com/track/0fPJXQm1HSCJYai87MPiIz) | [Johnny Marr](https://open.spotify.com/artist/2bA2YuQk2ID3PWNXUhQrWS) | [Playland](https://open.spotify.com/album/5CQVzrh6Ww643MWcZd7DIh) | 4:03 | 2021-09-03 |  |
 | [Empress](https://open.spotify.com/track/4xWqRo8GPwMQ02LjiaX4D8) | [Morningsiders](https://open.spotify.com/artist/5hPR4Atp3QY2ztiAcz1inl) | [A Little Lift](https://open.spotify.com/album/3roe3TTl1o2p9sZZ9HdeX2) | 3:19 | 2021-09-03 |  |
 | [Every Other Freckle](https://open.spotify.com/track/6BVBkKpZK09NmifUMZqj1z) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [This Is All Yours](https://open.spotify.com/album/4oktVvRuO1In9B7Hz0xm0a) | 3:36 | 2021-09-03 | 2022-11-11 |
@@ -50,10 +51,11 @@
 | [First Love / Late Spring](https://open.spotify.com/track/3sslYZcFKtUvIEWN9lADgr) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Bury Me At Makeout Creek](https://open.spotify.com/album/3I2KkX13lHXuYqfBjSOopo) | 4:38 | 2021-12-22 |  |
 | [Georgia](https://open.spotify.com/track/429EttO8gs0bDo2SQfUNSm) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:50 | 2021-09-03 | 2022-11-11 |
 | [Girls Chase Boys](https://open.spotify.com/track/3tInTDUq8wdIMw5ftohmqJ) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0) | [Lights Out](https://open.spotify.com/album/20vMfB4zgelkULugladUD3) | 3:41 | 2021-09-03 | 2022-11-11 |
+| [Go](https://open.spotify.com/track/6U6UC3Xg5ukTBQIy245bAo) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab), [Blood Diamonds](https://open.spotify.com/artist/4yuvRDaF5kWkFLq6q1Fev4) | [Go](https://open.spotify.com/album/1asVfKGYTD8QqMAVJC5beM) | 4:00 | 2021-09-03 |  |
 | [Gold](https://open.spotify.com/track/03qDVofuUUQSsSQCLWX0eF) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Built On Glass](https://open.spotify.com/album/6DwdzG4UGYLxJ2p7bd483v) | 4:45 | 2021-09-03 |  |
 | [Gooey](https://open.spotify.com/track/1gk3FhAV07q9Jg77UxnVjX) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [ZABA](https://open.spotify.com/album/14IOe7ahxQPTwUYUQX3IFi) | 4:49 | 2021-09-03 |  |
 | [Green Mountain State](https://open.spotify.com/track/0c7iF5fSBYxCuwsAv2z4iI) | [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8) | [Chapter Of The Forest](https://open.spotify.com/album/0Tt5WHP4RdkQemDgD1QItP) | 4:34 | 2021-09-03 |  |
-| [Hannah Hunt](https://open.spotify.com/track/6AY1M1akbsVaQN3ATVyzH7) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Modern Vampires of the City](https://open.spotify.com/album/1GXMNFfoHF4sN7lG8gZq1j) | 3:57 | 2021-09-03 |  |
+| [Hannah Hunt](https://open.spotify.com/track/6AY1M1akbsVaQN3ATVyzH7) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Modern Vampires of the City](https://open.spotify.com/album/1GXMNFfoHF4sN7lG8gZq1j) | 3:57 | 2021-09-03 | 2022-11-12 |
 | [Happy Idiot](https://open.spotify.com/track/63mnZ0zF5fBwJzYg2pDo9e) | [TV On The Radio](https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR) | [Seeds](https://open.spotify.com/album/2pJdnCpeXm3KVUlyuNSeRX) | 3:03 | 2021-09-03 |  |
 | [Hazey](https://open.spotify.com/track/0Zg4tjgfqw9qzq7lXX2sUM) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [ZABA](https://open.spotify.com/album/14IOe7ahxQPTwUYUQX3IFi) | 4:25 | 2021-09-03 |  |
 | [Holding on for Life](https://open.spotify.com/track/757PJjXAgywxrYkdhMkEV9) | [Broken Bells](https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG) | [After the Disco](https://open.spotify.com/album/0cjMGmZKB9ZWzcb0VcASpf) | 3:56 | 2021-09-03 |  |
@@ -101,7 +103,7 @@
 | [Step](https://open.spotify.com/track/607EA1HsuzrqqaPuxyNqpD) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Modern Vampires of the City](https://open.spotify.com/album/1GXMNFfoHF4sN7lG8gZq1j) | 4:11 | 2021-09-03 |  |
 | [Take Me to Church](https://open.spotify.com/track/0aOluBqXYd0rFSCsgDyAWX) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier](https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq) | 4:01 | 2021-09-03 |  |
 | [Take Me to Church](https://open.spotify.com/track/1CS7Sd1u5tWkstBhpssyjP) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Expanded Edition\)](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) | 4:01 | 2021-09-03 | 2022-11-11 |
-| [Talk Is Cheap](https://open.spotify.com/track/7jJsme36M90Cn6aYYC2l3t) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Built On Glass](https://open.spotify.com/album/6DwdzG4UGYLxJ2p7bd483v) | 3:38 | 2021-09-03 |  |
+| [Talk Is Cheap](https://open.spotify.com/track/7jJsme36M90Cn6aYYC2l3t) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Built On Glass](https://open.spotify.com/album/6DwdzG4UGYLxJ2p7bd483v) | 3:38 | 2021-09-03 | 2022-11-12 |
 | [Talking Backwards](https://open.spotify.com/track/0ZwlxoHAnvkCRjsOrHAleU) | [Real Estate](https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT) | [Atlas](https://open.spotify.com/album/5k7WCAZPSbJYzjW5SCQ5sn) | 3:07 | 2021-09-03 |  |
 | [Tiger Striped Sky](https://open.spotify.com/track/4C2aiAVTTVyZbCQZst5Xu1) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Little Giant](https://open.spotify.com/album/3ZTS2uxdWAkBnIXzsCY8PZ) | 4:01 | 2021-09-03 |  |
 | [Toes](https://open.spotify.com/track/754wVXWrtf1X3ZHQOFFsnR) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [ZABA](https://open.spotify.com/album/14IOe7ahxQPTwUYUQX3IFi) | 4:14 | 2021-09-03 |  |

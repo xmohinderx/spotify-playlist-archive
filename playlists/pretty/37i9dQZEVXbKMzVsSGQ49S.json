@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Iceland.",
-  "num_followers": 39738,
+  "num_followers": 39746,
   "original_name": "Top 50 - Iceland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzIxNDAxNDM3LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzIxNDg2MDgwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-11-10 13:17:17",
+      "added_at": "2022-11-11 12:48:00",
       "album": {
         "name": "Her Loss",
         "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N"
     },
     {
-      "added_at": "2022-11-10 13:17:17",
+      "added_at": "2022-11-11 12:48:00",
       "album": {
         "name": "T\u00e1rin falla h\u00e6gt",
         "url": "https://open.spotify.com/album/1gqsQjO45RmdqGsgl000qB"
@@ -49,7 +49,7 @@
       "url": "https://open.spotify.com/track/6Vd8hxisvvbtZloYVH5kAo"
     },
     {
-      "added_at": "2022-11-10 13:17:17",
+      "added_at": "2022-11-11 12:48:00",
       "album": {
         "name": "Unholy (feat. Kim Petras)",
         "url": "https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi"
@@ -69,7 +69,63 @@
       "url": "https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG"
     },
     {
-      "added_at": "2022-11-10 13:17:17",
+      "added_at": "2022-11-11 12:48:00",
+      "album": {
+        "name": "after the aftermath",
+        "url": "https://open.spotify.com/album/3RRf9bmNt0bmsIaZ8k2iN6"
+      },
+      "artists": [
+        {
+          "name": "Juan Minatta",
+          "url": "https://open.spotify.com/artist/5WkJyqwvQd2FrtMJ8uM4bO"
+        },
+        {
+          "name": "Micaela Blue",
+          "url": "https://open.spotify.com/artist/69zQqeEsgUXgMzarYp08qY"
+        }
+      ],
+      "duration_ms": 205821,
+      "name": "after the aftermath",
+      "url": "https://open.spotify.com/track/0oUztREtqL3BKDQY66Ngny"
+    },
+    {
+      "added_at": "2022-11-11 12:48:00",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 108901,
+      "name": "Dvel \u00e9g \u00ed draumah\u00f6ll",
+      "url": "https://open.spotify.com/track/3ovhC4v5a73S0afcOHhnu2"
+    },
+    {
+      "added_at": "2022-11-11 12:48:00",
+      "album": {
+        "name": "I'm Good (Blue)",
+        "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "duration_ms": 175238,
+      "name": "I'm Good (Blue)",
+      "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
+    },
+    {
+      "added_at": "2022-11-11 12:48:00",
       "album": {
         "name": "Her Loss",
         "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
@@ -93,23 +149,7 @@
       "url": "https://open.spotify.com/track/2KLwPaRDOB87XOYAT2fgxh"
     },
     {
-      "added_at": "2022-11-10 13:17:17",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 108901,
-      "name": "Dvel \u00e9g \u00ed draumah\u00f6ll",
-      "url": "https://open.spotify.com/track/3ovhC4v5a73S0afcOHhnu2"
-    },
-    {
-      "added_at": "2022-11-10 13:17:17",
+      "added_at": "2022-11-11 12:48:00",
       "album": {
         "name": "Her Loss",
         "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
@@ -129,27 +169,95 @@
       "url": "https://open.spotify.com/track/46s57QULU02Voy0Kup6UEb"
     },
     {
-      "added_at": "2022-11-10 13:17:17",
+      "added_at": "2022-11-11 12:48:00",
       "album": {
-        "name": "I'm Good (Blue)",
-        "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
       },
       "artists": [
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
         }
       ],
-      "duration_ms": 175238,
-      "name": "I'm Good (Blue)",
-      "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
+      "duration_ms": 152415,
+      "name": "Litlar stj\u00f6rnur",
+      "url": "https://open.spotify.com/track/1l2AHO7bb47QGFKJmXhXMz"
     },
     {
-      "added_at": "2022-11-10 13:17:17",
+      "added_at": "2022-11-11 12:48:00",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 99613,
+      "name": "\u00d3skasteinar",
+      "url": "https://open.spotify.com/track/5myQVDBhZvE7DIvsQICuKn"
+    },
+    {
+      "added_at": "2022-11-11 12:48:00",
+      "album": {
+        "name": "I'm actually happy again",
+        "url": "https://open.spotify.com/album/0lZADsHt5Xg4os3HmkJuSj"
+      },
+      "artists": [
+        {
+          "name": "CoopMalm",
+          "url": "https://open.spotify.com/artist/0Q0zExjVbhGsILsKbZeCTR"
+        },
+        {
+          "name": "Slowed Tunes",
+          "url": "https://open.spotify.com/artist/3GY9nwamgDdUpgWlCAKP9s"
+        },
+        {
+          "name": "Chill Beats Music",
+          "url": "https://open.spotify.com/artist/46d1ndWtnYj9kxd3IlQykV"
+        }
+      ],
+      "duration_ms": 242660,
+      "name": "I'm actually happy again - Slowed",
+      "url": "https://open.spotify.com/track/3DXZMOsAZUEL6husoz0zZE"
+    },
+    {
+      "added_at": "2022-11-11 12:48:00",
+      "album": {
+        "name": "St\u00f3r agnar\u00f6gn",
+        "url": "https://open.spotify.com/album/3kD0eb4wgmccYXYOhFZoL1"
+      },
+      "artists": [
+        {
+          "name": "BR\u00cdET",
+          "url": "https://open.spotify.com/artist/6opz1Ax3VqCmeQBGax1erx"
+        }
+      ],
+      "duration_ms": 199120,
+      "name": "D\u00fdr\u00f0 \u00ed dau\u00f0a\u00fe\u00f6gn",
+      "url": "https://open.spotify.com/track/5faV3B9PfIOabLD8PPUAxo"
+    },
+    {
+      "added_at": "2022-11-11 12:48:00",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 133050,
+      "name": "Sof\u00f0u unga \u00e1stin m\u00edn",
+      "url": "https://open.spotify.com/track/0Xh9sOCT7ZvmKg8KthRYnH"
+    },
+    {
+      "added_at": "2022-11-11 12:48:00",
       "album": {
         "name": "Her Loss",
         "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
@@ -169,91 +277,7 @@
       "url": "https://open.spotify.com/track/34tz0eDhGuFErIuW3q4mPX"
     },
     {
-      "added_at": "2022-11-10 13:17:17",
-      "album": {
-        "name": "after the aftermath",
-        "url": "https://open.spotify.com/album/3RRf9bmNt0bmsIaZ8k2iN6"
-      },
-      "artists": [
-        {
-          "name": "Juan Minatta",
-          "url": "https://open.spotify.com/artist/5WkJyqwvQd2FrtMJ8uM4bO"
-        },
-        {
-          "name": "Micaela Blue",
-          "url": "https://open.spotify.com/artist/69zQqeEsgUXgMzarYp08qY"
-        }
-      ],
-      "duration_ms": 205821,
-      "name": "after the aftermath",
-      "url": "https://open.spotify.com/track/0oUztREtqL3BKDQY66Ngny"
-    },
-    {
-      "added_at": "2022-11-10 13:17:17",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 152415,
-      "name": "Litlar stj\u00f6rnur",
-      "url": "https://open.spotify.com/track/1l2AHO7bb47QGFKJmXhXMz"
-    },
-    {
-      "added_at": "2022-11-10 13:17:17",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 99613,
-      "name": "\u00d3skasteinar",
-      "url": "https://open.spotify.com/track/5myQVDBhZvE7DIvsQICuKn"
-    },
-    {
-      "added_at": "2022-11-10 13:17:17",
-      "album": {
-        "name": "St\u00f3r agnar\u00f6gn",
-        "url": "https://open.spotify.com/album/3kD0eb4wgmccYXYOhFZoL1"
-      },
-      "artists": [
-        {
-          "name": "BR\u00cdET",
-          "url": "https://open.spotify.com/artist/6opz1Ax3VqCmeQBGax1erx"
-        }
-      ],
-      "duration_ms": 199120,
-      "name": "D\u00fdr\u00f0 \u00ed dau\u00f0a\u00fe\u00f6gn",
-      "url": "https://open.spotify.com/track/5faV3B9PfIOabLD8PPUAxo"
-    },
-    {
-      "added_at": "2022-11-10 13:17:17",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 133050,
-      "name": "Sof\u00f0u unga \u00e1stin m\u00edn",
-      "url": "https://open.spotify.com/track/0Xh9sOCT7ZvmKg8KthRYnH"
-    },
-    {
-      "added_at": "2022-11-10 13:17:17",
+      "added_at": "2022-11-11 12:48:00",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -269,107 +293,7 @@
       "url": "https://open.spotify.com/track/1MWg9aH6OhteqF1RXR3J5w"
     },
     {
-      "added_at": "2022-11-10 13:17:17",
-      "album": {
-        "name": "Her Loss",
-        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 236795,
-      "name": "Circo Loco",
-      "url": "https://open.spotify.com/track/7GeTsDIc5ykNB6lORO6Cee"
-    },
-    {
-      "added_at": "2022-11-10 13:17:17",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 197137,
-      "name": "Lj\u00f3s",
-      "url": "https://open.spotify.com/track/0RT86wBrufYQZSdN852Wjn"
-    },
-    {
-      "added_at": "2022-11-10 13:17:17",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 175403,
-      "name": "B\u00edum b\u00edum bambal\u00f3",
-      "url": "https://open.spotify.com/track/5pn6OskYybJrrqcdlNpBvk"
-    },
-    {
-      "added_at": "2022-11-10 13:17:17",
-      "album": {
-        "name": "Her Loss",
-        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 152961,
-      "name": "BackOutsideBoyz",
-      "url": "https://open.spotify.com/track/0wshkEEcJUQU33RSRBb5dv"
-    },
-    {
-      "added_at": "2022-11-10 13:17:17",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 191332,
-      "name": "\u00c6vint\u00fdral\u00f6nd",
-      "url": "https://open.spotify.com/track/1ZzSy8HeLFZAeuQi577bhB"
-    },
-    {
-      "added_at": "2022-11-10 13:17:17",
-      "album": {
-        "name": "Midnights",
-        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 200690,
-      "name": "Anti-Hero",
-      "url": "https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu"
-    },
-    {
-      "added_at": "2022-11-10 13:17:17",
+      "added_at": "2022-11-11 12:48:00",
       "album": {
         "name": "Lift Me Up (From Black Panther: Wakanda Forever - Music From and Inspired By)",
         "url": "https://open.spotify.com/album/3Zzv75PyROH6AMeXN1Yr1h"
@@ -385,7 +309,7 @@
       "url": "https://open.spotify.com/track/35ovElsgyAtQwYPYnZJECg"
     },
     {
-      "added_at": "2022-11-10 13:17:17",
+      "added_at": "2022-11-11 12:48:00",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -396,68 +320,60 @@
           "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
         }
       ],
-      "duration_ms": 132446,
-      "name": "G\u00f3\u00f0a n\u00f3tt",
-      "url": "https://open.spotify.com/track/7nzeIh8kUdieUBLPXch9wi"
+      "duration_ms": 197137,
+      "name": "Lj\u00f3s",
+      "url": "https://open.spotify.com/track/0RT86wBrufYQZSdN852Wjn"
     },
     {
-      "added_at": "2022-11-10 13:17:17",
+      "added_at": "2022-11-11 12:48:00",
       "album": {
-        "name": "Her Loss",
-        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 214588,
-      "name": "Spin Bout U",
-      "url": "https://open.spotify.com/track/2ZL7WZcjuYKi1KUDtp4kCC"
+      "duration_ms": 200690,
+      "name": "Anti-Hero",
+      "url": "https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu"
     },
     {
-      "added_at": "2022-11-10 13:17:17",
+      "added_at": "2022-11-11 12:48:00",
       "album": {
-        "name": "Her Loss",
-        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
         }
       ],
-      "duration_ms": 160821,
-      "name": "Privileged Rappers",
-      "url": "https://open.spotify.com/track/7l2nxyx7IkBX5orhkALg0V"
+      "duration_ms": 167303,
+      "name": "As It Was",
+      "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
     },
     {
-      "added_at": "2022-11-10 13:17:17",
+      "added_at": "2022-11-11 12:48:00",
       "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+        "name": "Takin' It Back",
+        "url": "https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs"
       },
       "artists": [
         {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
         }
       ],
-      "duration_ms": 99752,
-      "name": "S\u00f3lskin",
-      "url": "https://open.spotify.com/track/3LP5YM7IMwmffWXPE1VBf1"
+      "duration_ms": 134256,
+      "name": "Made You Look",
+      "url": "https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u"
     },
     {
-      "added_at": "2022-11-10 13:17:17",
+      "added_at": "2022-11-11 12:48:00",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -468,44 +384,12 @@
           "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
         }
       ],
-      "duration_ms": 125852,
-      "name": "Frost er \u00fati fuglinn minn",
-      "url": "https://open.spotify.com/track/1sgn8wmK2kuJrF9ppsnH2F"
+      "duration_ms": 175403,
+      "name": "B\u00edum b\u00edum bambal\u00f3",
+      "url": "https://open.spotify.com/track/5pn6OskYybJrrqcdlNpBvk"
     },
     {
-      "added_at": "2022-11-10 13:17:17",
-      "album": {
-        "name": "Merry Christmas",
-        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        }
-      ],
-      "duration_ms": 241106,
-      "name": "All I Want for Christmas Is You",
-      "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
-    },
-    {
-      "added_at": "2022-11-10 13:17:17",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 193282,
-      "name": "Sof\u00f0u",
-      "url": "https://open.spotify.com/track/51J0zLsmKb265vmylOJGMr"
-    },
-    {
-      "added_at": "2022-11-10 13:17:17",
+      "added_at": "2022-11-11 12:48:00",
       "album": {
         "name": "Miss You",
         "url": "https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo"
@@ -525,7 +409,139 @@
       "url": "https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5"
     },
     {
-      "added_at": "2022-11-10 13:17:17",
+      "added_at": "2022-11-11 12:48:00",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 132446,
+      "name": "G\u00f3\u00f0a n\u00f3tt",
+      "url": "https://open.spotify.com/track/7nzeIh8kUdieUBLPXch9wi"
+    },
+    {
+      "added_at": "2022-11-11 12:48:00",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 191332,
+      "name": "\u00c6vint\u00fdral\u00f6nd",
+      "url": "https://open.spotify.com/track/1ZzSy8HeLFZAeuQi577bhB"
+    },
+    {
+      "added_at": "2022-11-11 12:48:00",
+      "album": {
+        "name": "Merry Christmas",
+        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 241106,
+      "name": "All I Want for Christmas Is You",
+      "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
+    },
+    {
+      "added_at": "2022-11-11 12:48:00",
+      "album": {
+        "name": "Her Loss",
+        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 236795,
+      "name": "Circo Loco",
+      "url": "https://open.spotify.com/track/7GeTsDIc5ykNB6lORO6Cee"
+    },
+    {
+      "added_at": "2022-11-11 12:48:00",
+      "album": {
+        "name": "Her Loss",
+        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 152961,
+      "name": "BackOutsideBoyz",
+      "url": "https://open.spotify.com/track/0wshkEEcJUQU33RSRBb5dv"
+    },
+    {
+      "added_at": "2022-11-11 12:48:00",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 125852,
+      "name": "Frost er \u00fati fuglinn minn",
+      "url": "https://open.spotify.com/track/1sgn8wmK2kuJrF9ppsnH2F"
+    },
+    {
+      "added_at": "2022-11-11 12:48:00",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 193282,
+      "name": "Sof\u00f0u",
+      "url": "https://open.spotify.com/track/51J0zLsmKb265vmylOJGMr"
+    },
+    {
+      "added_at": "2022-11-11 12:48:00",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 99752,
+      "name": "S\u00f3lskin",
+      "url": "https://open.spotify.com/track/3LP5YM7IMwmffWXPE1VBf1"
+    },
+    {
+      "added_at": "2022-11-11 12:48:00",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -541,23 +557,7 @@
       "url": "https://open.spotify.com/track/5TBNZCGMR1NJtJrrg606m0"
     },
     {
-      "added_at": "2022-11-10 13:17:17",
-      "album": {
-        "name": "Harry's House",
-        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 167303,
-      "name": "As It Was",
-      "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
-    },
-    {
-      "added_at": "2022-11-10 13:17:17",
+      "added_at": "2022-11-11 12:48:00",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -573,7 +573,7 @@
       "url": "https://open.spotify.com/track/2q2cdTPrbgWSxLFFXjjaoO"
     },
     {
-      "added_at": "2022-11-10 13:17:17",
+      "added_at": "2022-11-11 12:48:00",
       "album": {
         "name": "Her Loss",
         "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
@@ -588,44 +588,12 @@
           "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
         }
       ],
-      "duration_ms": 225439,
-      "name": "Broke Boys",
-      "url": "https://open.spotify.com/track/45pUWUeEWGoSdH6UF162G8"
+      "duration_ms": 214588,
+      "name": "Spin Bout U",
+      "url": "https://open.spotify.com/track/2ZL7WZcjuYKi1KUDtp4kCC"
     },
     {
-      "added_at": "2022-11-10 13:17:17",
-      "album": {
-        "name": "Takin' It Back",
-        "url": "https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs"
-      },
-      "artists": [
-        {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-        }
-      ],
-      "duration_ms": 134256,
-      "name": "Made You Look",
-      "url": "https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u"
-    },
-    {
-      "added_at": "2022-11-10 13:17:17",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 135325,
-      "name": "\u00de\u00fa ert",
-      "url": "https://open.spotify.com/track/6xsUlQIjfduRdQt88yekZ5"
-    },
-    {
-      "added_at": "2022-11-10 13:17:17",
+      "added_at": "2022-11-11 12:48:00",
       "album": {
         "name": "Long Way Down",
         "url": "https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ"
@@ -641,7 +609,7 @@
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
     },
     {
-      "added_at": "2022-11-10 13:17:17",
+      "added_at": "2022-11-11 12:48:00",
       "album": {
         "name": "Her Loss",
         "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
@@ -656,12 +624,12 @@
           "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
         }
       ],
-      "duration_ms": 399153,
-      "name": "Hours In Silence",
-      "url": "https://open.spotify.com/track/0sSRLXxknVTQDStgU1NqpY"
+      "duration_ms": 160821,
+      "name": "Privileged Rappers",
+      "url": "https://open.spotify.com/track/7l2nxyx7IkBX5orhkALg0V"
     },
     {
-      "added_at": "2022-11-10 13:17:17",
+      "added_at": "2022-11-11 12:48:00",
       "album": {
         "name": "Honestly, Nevermind",
         "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
@@ -681,7 +649,23 @@
       "url": "https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe"
     },
     {
-      "added_at": "2022-11-10 13:17:17",
+      "added_at": "2022-11-11 12:48:00",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 135325,
+      "name": "\u00de\u00fa ert",
+      "url": "https://open.spotify.com/track/6xsUlQIjfduRdQt88yekZ5"
+    },
+    {
+      "added_at": "2022-11-11 12:48:00",
       "album": {
         "name": "I Ain\u2019t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
         "url": "https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2"
@@ -697,27 +681,7 @@
       "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
     },
     {
-      "added_at": "2022-11-10 13:17:17",
-      "album": {
-        "name": "Her Loss",
-        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 180098,
-      "name": "Treacherous Twins",
-      "url": "https://open.spotify.com/track/4Flfb4fGscN9kXPOduQLrv"
-    },
-    {
-      "added_at": "2022-11-10 13:17:17",
+      "added_at": "2022-11-11 12:48:00",
       "album": {
         "name": "Encore (Deluxe Version)",
         "url": "https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif"
@@ -733,23 +697,7 @@
       "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s"
     },
     {
-      "added_at": "2022-11-10 13:17:17",
-      "album": {
-        "name": "LAST CHRISTMAS",
-        "url": "https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ"
-      },
-      "artists": [
-        {
-          "name": "Wham!",
-          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
-        }
-      ],
-      "duration_ms": 262960,
-      "name": "Last Christmas",
-      "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
-    },
-    {
-      "added_at": "2022-11-10 13:17:17",
+      "added_at": "2022-11-11 12:48:00",
       "album": {
         "name": "EF \u00deEIR VILJA BEEF",
         "url": "https://open.spotify.com/album/6VgF4QhwQFLzp0WbSmAMDV"
@@ -769,7 +717,7 @@
       "url": "https://open.spotify.com/track/6uU1QhxwtrnOdALd4K1nBs"
     },
     {
-      "added_at": "2022-11-10 13:17:17",
+      "added_at": "2022-11-11 12:48:00",
       "album": {
         "name": "Esjan",
         "url": "https://open.spotify.com/album/1aQhp34AVKnJr5KR7ehLGU"
@@ -785,39 +733,7 @@
       "url": "https://open.spotify.com/track/1tCcIkkqlbgLoYGub8bNzV"
     },
     {
-      "added_at": "2022-11-10 13:17:17",
-      "album": {
-        "name": "Gemini Rights",
-        "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
-      },
-      "artists": [
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
-        }
-      ],
-      "duration_ms": 232066,
-      "name": "Bad Habit",
-      "url": "https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy"
-    },
-    {
-      "added_at": "2022-11-10 13:17:17",
-      "album": {
-        "name": "Kve\u00f0ja, Br\u00edet",
-        "url": "https://open.spotify.com/album/0TpuC67YQ11RHnMAUE0AZi"
-      },
-      "artists": [
-        {
-          "name": "BR\u00cdET",
-          "url": "https://open.spotify.com/artist/6opz1Ax3VqCmeQBGax1erx"
-        }
-      ],
-      "duration_ms": 228351,
-      "name": "R\u00f3legur k\u00fareki",
-      "url": "https://open.spotify.com/track/1Riv4d4nqpQVxArPLsk4s0"
-    },
-    {
-      "added_at": "2022-11-10 13:17:17",
+      "added_at": "2022-11-11 12:48:00",
       "album": {
         "name": "Her Loss",
         "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
@@ -826,14 +742,34 @@
         {
           "name": "Drake",
           "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
         }
       ],
-      "duration_ms": 356389,
-      "name": "Middle of the Ocean",
-      "url": "https://open.spotify.com/track/410TZrK18uRjtsTunG14cl"
+      "duration_ms": 225439,
+      "name": "Broke Boys",
+      "url": "https://open.spotify.com/track/45pUWUeEWGoSdH6UF162G8"
     },
     {
-      "added_at": "2022-11-10 13:17:17",
+      "added_at": "2022-11-11 12:48:00",
+      "album": {
+        "name": "LAST CHRISTMAS",
+        "url": "https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ"
+      },
+      "artists": [
+        {
+          "name": "Wham!",
+          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
+        }
+      ],
+      "duration_ms": 262960,
+      "name": "Last Christmas",
+      "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
+    },
+    {
+      "added_at": "2022-11-11 12:48:00",
       "album": {
         "name": "SMITHEREENS",
         "url": "https://open.spotify.com/album/2hEnymoejldpuxSdTnkard"
@@ -849,7 +785,75 @@
       "url": "https://open.spotify.com/track/4ewazQLXFTDC8XvCbhvtXs"
     },
     {
-      "added_at": "2022-11-10 13:17:17",
+      "added_at": "2022-11-11 12:48:00",
+      "album": {
+        "name": "Gemini Rights",
+        "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "duration_ms": 232066,
+      "name": "Bad Habit",
+      "url": "https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy"
+    },
+    {
+      "added_at": "2022-11-11 12:48:00",
+      "album": {
+        "name": "Her Loss",
+        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 399153,
+      "name": "Hours In Silence",
+      "url": "https://open.spotify.com/track/0sSRLXxknVTQDStgU1NqpY"
+    },
+    {
+      "added_at": "2022-11-11 12:48:00",
+      "album": {
+        "name": "Kve\u00f0ja, Br\u00edet",
+        "url": "https://open.spotify.com/album/0TpuC67YQ11RHnMAUE0AZi"
+      },
+      "artists": [
+        {
+          "name": "BR\u00cdET",
+          "url": "https://open.spotify.com/artist/6opz1Ax3VqCmeQBGax1erx"
+        }
+      ],
+      "duration_ms": 228351,
+      "name": "R\u00f3legur k\u00fareki",
+      "url": "https://open.spotify.com/track/1Riv4d4nqpQVxArPLsk4s0"
+    },
+    {
+      "added_at": "2022-11-11 12:48:00",
+      "album": {
+        "name": "J\u00f3la hva\u00f0?",
+        "url": "https://open.spotify.com/album/7K0zalN9K2k2bj4TAoCA6c"
+      },
+      "artists": [
+        {
+          "name": "Laddi",
+          "url": "https://open.spotify.com/artist/0PpNdAPMwg8OJTiNDYBDFp"
+        }
+      ],
+      "duration_ms": 201688,
+      "name": "Snj\u00f3korn falla",
+      "url": "https://open.spotify.com/track/0YNjSwEcA9mZjyVqHppnMX"
+    },
+    {
+      "added_at": "2022-11-11 12:48:00",
       "album": {
         "name": "SNAP PACK",
         "url": "https://open.spotify.com/album/2nzuzJvr3yowqbPaYjEYof"
@@ -865,24 +869,20 @@
       "url": "https://open.spotify.com/track/6zJejIfVYLgjud3lTk4DLB"
     },
     {
-      "added_at": "2022-11-10 13:17:17",
+      "added_at": "2022-11-11 12:48:00",
       "album": {
-        "name": "Her Loss",
-        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+        "name": "Kona",
+        "url": "https://open.spotify.com/album/4FyzzmUFi1NWMBuwUSmLru"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+          "name": "Bubbi Morthens",
+          "url": "https://open.spotify.com/artist/0MtTfq27LQu7CmE5t308Up"
         }
       ],
-      "duration_ms": 221406,
-      "name": "More M\u2019s",
-      "url": "https://open.spotify.com/track/29YW2xXlo6Pc6M0SBTCXYN"
+      "duration_ms": 297865,
+      "name": "R\u00f3me\u00f3 og J\u00fal\u00eda",
+      "url": "https://open.spotify.com/track/53UXY91LLMuISer0X8RsWq"
     }
   ],
   "unique_name": "Top 50 - Iceland",

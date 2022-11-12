@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0j8ATpV1eln.md) - [plain]
 
 > 2001年バンドSound Scheduleのメンバーとしてデビュー。ソロ名義「オーイシマサヨシ」およびユニットOxTでは、アニメ音楽シーンの立役者として知られる作曲家/アーティスト。
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,443 likes - 77 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,447 likes - 77 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0j8ATpV1eln.md) - [plain]
 | 23 | [The Show Must Go On! \(Four Seasons Medley\)](https://open.spotify.com/track/26fIBCBdYPoLKKAo2yxFi3) | [Mankai Company](https://open.spotify.com/artist/3iobaafFTMXhL9oAR13dFw) | [Mankai Stage "A3!" Mankai Selection Vol.1](https://open.spotify.com/album/1ohfVi5tqShxCUIbM98aJ2) | 4:06 |
 | 24 | [Hands](https://open.spotify.com/track/2PKGYVQikLr2uxVZCVVfr6) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Entertainer](https://open.spotify.com/album/4Xe4P2qe5ob7xiyl0apWFm) | 3:49 |
 | 25 | [Imperfect](https://open.spotify.com/track/2xaWvDPHhS5buartu52e9Q) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Imperfect](https://open.spotify.com/album/5w8YFmXK3uDI9RqgRWn9pi) | 3:47 |
-| 26 | [Role Playing](https://open.spotify.com/track/7AhXYCly0Z5vupZPEcLO0e) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Entertainer](https://open.spotify.com/album/4Xe4P2qe5ob7xiyl0apWFm) | 3:39 |
+| 26 | [Role Playing](https://open.spotify.com/track/3j43VMghE6nhgQ8rDFerhf) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Entertainer](https://open.spotify.com/album/0ZUMizpUDJ7FPhCY7ImpRu) | 3:39 |
 | 27 | [未来ノート](https://open.spotify.com/track/0OH9a0XlsXoEQPvd3CkeNx) | [May'n](https://open.spotify.com/artist/0JQH8OHvGdooprROP18Wg6) | [未来ノート](https://open.spotify.com/album/5CaxVa8rlkAi9zQr4RO6lJ) | 4:25 |
 | 28 | [Chance!](https://open.spotify.com/track/0qsCl2VGBKUq50K1gT184f) | [Suzuko Mimori](https://open.spotify.com/artist/0BNdkdR8pOiC1SYm415sYY) | [Chance!/Yugata](https://open.spotify.com/album/7h83mVTDGHwtGOli9lYNZg) | 3:36 |
 | 29 | [ヒーローインポッシボー](https://open.spotify.com/track/3EJO9ApZrY39AWSkIeMCRU) | [花江夏樹](https://open.spotify.com/artist/6bd1YR3Ogw2OGpjydfk2TP) | [青春は残酷じゃない](https://open.spotify.com/album/0poQ2GG7EViIoWCwWaE71d) | 4:25 |
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0j8ATpV1eln.md) - [plain]
 | 35 | [MANKAI☆開花宣言](https://open.spotify.com/track/75gvYlSaPYOx531zvolMSn) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [カバーアルバム「仮歌」](https://open.spotify.com/album/0302LeRxu3lj5CMsuyNv7o) | 3:49 |
 | 36 | [Kinkan no Uta 2020](https://open.spotify.com/track/3urAyAkiPUme9k0JnbvAU4) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Kinkan no Uta 2020](https://open.spotify.com/album/2OGZDPj72JphNcZXyPjjFj) | 3:28 |
 | 37 | [Numa](https://open.spotify.com/track/1IV8iXGRukHDsRQOmTNEhw) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Entertainer](https://open.spotify.com/album/4Xe4P2qe5ob7xiyl0apWFm) | 3:11 |
-| 38 | [Rakuen Toshi](https://open.spotify.com/track/2vOTY8M4Hb2gy72iI2ywSc) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Rakuen Toshi](https://open.spotify.com/album/11sAMfCkGSjIgHl4aKacKD) | 3:46 |
+| 38 | [Rakuen Toshi](https://open.spotify.com/track/3HmBK3OpEwgEZufskRq5UY) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Entertainer](https://open.spotify.com/album/4Xe4P2qe5ob7xiyl0apWFm) | 3:46 |
 | 39 | [Eiyu no Uta](https://open.spotify.com/track/0TDfyz6NnZaUiW5f3S29eS) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Sekai ga Kimi wo Hitsuyoutosuru Toki ga Kitanda / Eiyu no Uta](https://open.spotify.com/album/2NH1SQE6jRoYQqS71bnGM2) | 4:06 |
 | 40 | [Golden After School](https://open.spotify.com/track/6LSCy8FfW8l900nrNRAPJX) | [OxT](https://open.spotify.com/artist/2qaq1aaJNXMlqsdS50FDrW) | [Reunion](https://open.spotify.com/album/4fVup8ngSf93g2dg8LjImS) | 3:46 |
 | 41 | [Number One \- New Mix Ver.](https://open.spotify.com/track/3CE47jlR1gbJ66JTv3x7KB) | [OxT](https://open.spotify.com/artist/2qaq1aaJNXMlqsdS50FDrW) | [Reunion](https://open.spotify.com/album/4fVup8ngSf93g2dg8LjImS) | 3:58 |
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0j8ATpV1eln.md) - [plain]
 | 76 | [Moratorium Dance Floor \- Live](https://open.spotify.com/track/7hywbZcjkJIQTq1xf8zz1J) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Moratorium Dance Floor \(Live\)](https://open.spotify.com/album/5SjbnQPAaqkPfOOSoRJ45c) | 3:54 |
 | 77 | [Otomodachi Film \- Live](https://open.spotify.com/track/6YMWAFs84TJWbW0zBZAhQQ) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Masayoshi Oishi One\-Man Live Entertainer](https://open.spotify.com/album/4TQelLZa9wM5cW9OdWIdLM) | 3:33 |
 
-Snapshot ID: `MTY2MDY2MjAwMCwwMDAwMDAwMGVjZGUxNTFmOTA3YmVlMzhhYTNhYzk2MmE2OGFhOWMw`
+Snapshot ID: `MTY2MDY2MjAwMCwwMDAwMDAwMDRiYzIzMzRhOWE0MjU5M2M1Y2QyMmE4ZWYxY2ZlYWY0`

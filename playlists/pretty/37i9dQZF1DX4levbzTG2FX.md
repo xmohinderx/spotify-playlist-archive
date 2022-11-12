@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4levbzTG2FX.md) - [plain]
 
 > In partnership with CCLI, here are the top songs in church in the USA\. Updated monthly.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,434 likes - 50 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,439 likes - 50 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4levbzTG2FX.md) - [plain]
 | 45 | [Open The Eyes Of My Heart \- Live](https://open.spotify.com/track/4um6ZMnib1I7VuG3c6jGm5) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Worship](https://open.spotify.com/album/4uWr8fOgmNBCP5awR10dbs) | 5:21 |
 | 46 | [Jesus Paid It All](https://open.spotify.com/track/73EIpn5AcedCWPOmxWMxH9) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Passion: Everything Glorious](https://open.spotify.com/album/1plOtC0txpyPtkeb6tlixF) | 5:27 |
 | 47 | [One Thing Remains](https://open.spotify.com/track/1bVVKpdOuQ77Ti3kcTdfTy) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [One Thing Remains](https://open.spotify.com/album/7ssexdoSq9DKVkKXR0b4Sm) | 3:59 |
-| 48 | [Your Love Awakens Me](https://open.spotify.com/track/0jdWct4BgFwuZVWAtAg3DL) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Children of God](https://open.spotify.com/album/5Huo8k3PTFpQLlxNak5fMN) | 3:53 |
+| 48 | [Your Love Awakens Me](https://open.spotify.com/track/1gCh62f6QeSYjFWzSkLp31) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Children of God](https://open.spotify.com/album/4rmparyUPabjG5orBDOLZr) | 3:53 |
 | 49 | [At The Cross \(Love Ran Red\)](https://open.spotify.com/track/27uBwOJbW6kHsCbKGukxMK) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Love Ran Red](https://open.spotify.com/album/1I5FTCyGotvADiEmqPeWjY) | 4:10 |
 | 50 | [Everlasting God](https://open.spotify.com/track/1cUyNauQChHpZm4RIe2Yuy) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [See The Morning \(Special Edition\)](https://open.spotify.com/album/3VAqfKdNkk3em16aadExkd) | 4:22 |
 
-Snapshot ID: `MTU4NzE1MDAyMSwwMDAwMDAwMGU0ZDMxNjAwOTUwNjllY2NlMDVhMzFiZmZiOWRjMDA3`
+Snapshot ID: `MTU4NzE1MDAyMSwwMDAwMDAwMDZjYTMxZjc2YjRkY2Q2MWQ1YjNkN2UwNjk4Y2Q1MzEw`

@@ -4,7 +4,7 @@
 
 > dirty south szn
 
-672 songs - 1 day 5 hr 56 min - [published](https://open.spotify.com/playlist/1YkCPMAEafAvzqDRhr0Ocd)
+673 songs - 1 day 5 hr 59 min - [published](https://open.spotify.com/playlist/1YkCPMAEafAvzqDRhr0Ocd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [Blessed](https://open.spotify.com/track/5oU7uvacEa6PBClfzFMYRf) | [Jiggz](https://open.spotify.com/artist/4vmyAixlpiovF3wJ5MSxfJ) | [Blessed](https://open.spotify.com/album/6Vf0LVUtEDZhrqgci0GoTy) | 2:27 | 2022-06-17 | 2022-07-22 |
 | [Blessing](https://open.spotify.com/track/68QsNtxSwSrwn5kFa7SpQN) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [Robin Kadir](https://open.spotify.com/artist/4juMqlCDk4p6TrM7JXfSw2) | [Blessing](https://open.spotify.com/album/1UFZHmtfwLQ9kDcWPFS5H7) | 2:11 | 2022-10-27 |  |
 | [Bli nånting](https://open.spotify.com/track/23u2D3a9rcHqZOKvnuaS6J) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5) | [Bli nånting](https://open.spotify.com/album/0s8rBLM2MMwvHSt9YDsH1u) | 2:32 | 2021-12-16 | 2022-01-26 |
-| [BLICKA TILLBAKA](https://open.spotify.com/track/0GFwhFEGQ5fLKGMSjAD01u) | [DANO](https://open.spotify.com/artist/1qid2RAqbRe7NvZ8tCxbOS) | [BLICKA TILLBAKA](https://open.spotify.com/album/5Wnka168rFcyVOWpXYhcw9) | 2:48 | 2022-09-15 |  |
+| [BLICKA TILLBAKA](https://open.spotify.com/track/0GFwhFEGQ5fLKGMSjAD01u) | [DANO](https://open.spotify.com/artist/1qid2RAqbRe7NvZ8tCxbOS) | [BLICKA TILLBAKA](https://open.spotify.com/album/5Wnka168rFcyVOWpXYhcw9) | 2:48 | 2022-09-15 | 2022-11-12 |
 | [BLOCK](https://open.spotify.com/track/05yJ4zGSH2HP9cSVE4pfOW) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [AREA 36](https://open.spotify.com/album/5TtnZy1zAuJPcveJgGoHpP) | 2:20 | 2021-12-16 | 2022-03-11 |
 | [BLUE CHEESE](https://open.spotify.com/track/4wNOwxVpjmOUJM9Rf8wybr) | [La Rosy](https://open.spotify.com/artist/1pBol2ATUI6hXWOzZQnrcP) | [BLUE CHEESE](https://open.spotify.com/album/7cc4vxxrzIdT43dabK291s) | 2:34 | 2022-06-30 | 2022-07-15 |
 | [BLÖDER FRÅN SJÄLEN](https://open.spotify.com/track/1khruC7lTyH8MPLx1VYxYE) | [Sebastian Stakset](https://open.spotify.com/artist/46kV0QPO6PgUjtP69hvbfI), [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [BLÖDER FRÅN SJÄLEN](https://open.spotify.com/album/6GqB6rQR4LCVKcEZQFvOXv) | 2:50 | 2022-09-15 | 2022-11-04 |
@@ -668,6 +668,7 @@
 | [Woman – Spotify Studio 100 Recording](https://open.spotify.com/track/2NsStPAsAhgdVqFl67R56M) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [Woman – Spotify Studio 100 Recording](https://open.spotify.com/album/4qGxMmnCtIluxut29qDVUy) | 2:18 | 2022-02-10 |  |
 | [WORK](https://open.spotify.com/track/5OzdrftdnWSlMGe0DvClHQ) | [Artie](https://open.spotify.com/artist/6QRV4iTMBVKyGEjmer3xoE) | [WORK](https://open.spotify.com/album/2WS16GROWxzLYGZZ9hZ2uC) | 2:27 | 2022-08-12 | 2022-09-30 |
 | [Wrong](https://open.spotify.com/track/7v8xBtqysin09ZJydjvBrU) | [Luc1ano](https://open.spotify.com/artist/5FrvaIrf2vik2rktPWOrsN) | [Wrong](https://open.spotify.com/album/3EcMZZdQTERvCfqacWzDJY) | 2:22 | 2022-04-07 | 2022-05-13 |
+| [WYL](https://open.spotify.com/track/7mkiUW1z79Hpg2QtSs1J1u) | [Thrife](https://open.spotify.com/artist/6iNTGd6T0cxg1H8IIaZTlt) | [WYL](https://open.spotify.com/album/6s2vPgjP50wMj71WeUb7OV) | 2:32 | 2022-11-11 |  |
 | [X](https://open.spotify.com/track/3AJAmTxurgfdXiQ6ppZ16o) | [Denz](https://open.spotify.com/artist/3D0rwfKngK6Rr80niHDLP7) | [X](https://open.spotify.com/album/62BatDUk0pR2ytYCNViSV1) | 2:32 | 2021-12-16 | 2022-01-20 |
 | [Xatar](https://open.spotify.com/track/5MDEk3mfOcZs4BRgalCqyC) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [Selfmade \(Deluxe\)](https://open.spotify.com/album/1c3QSPsycCCADNQZopSJIV) | 2:04 | 2022-08-18 | 2022-11-11 |
 | [Ya habiba](https://open.spotify.com/track/6TmJczGUH3vjgnwZ78adyb) | [Abbadi](https://open.spotify.com/artist/30evSY1KEZxqkjWB3aphyn) | [Ya habiba](https://open.spotify.com/album/6s3AsuZptEdDEvtWgNP1Ju) | 2:30 | 2021-12-30 | 2022-01-28 |

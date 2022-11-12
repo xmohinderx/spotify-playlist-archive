@@ -4,7 +4,7 @@
 
 > Everyone's welcome\. Cover: Zolita
 
-76 songs - 4 hr 23 min - [published](https://open.spotify.com/playlist/2yx49MiwxFvtLINia2IeXm)
+79 songs - 4 hr 34 min - [published](https://open.spotify.com/playlist/2yx49MiwxFvtLINia2IeXm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,8 +12,9 @@
 | [All The Things She Said](https://open.spotify.com/track/4bJygwUKrRgq1stlNXcgMg) | [t.A.T.u.](https://open.spotify.com/artist/2Q3eZMfDQgT8MhPowKFXYO) | [200 KM/H In The Wrong Lane \(10th Anniversary Edition\)](https://open.spotify.com/album/4vyPN44zoiJXE6hruCCrGB) | 3:34 | 2022-05-06 |  |
 | [American Teenager](https://open.spotify.com/track/2k5D4U0IEcEW5eGyNtpXhH) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [American Teenager](https://open.spotify.com/album/5LFr8f5ZW3vhdaDKsIDh7a) | 4:18 | 2022-05-06 | 2022-10-13 |
 | [American Teenager](https://open.spotify.com/track/4ltqfN12ohaVZdM6C45gMg) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Preacher’s Daughter](https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8) | 4:18 | 2022-05-23 |  |
-| [Bloom](https://open.spotify.com/track/0oTyoTKEKMdF3rXcOLyEfN) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Bloom](https://open.spotify.com/album/3MYJYd73u0SatCnRVvRJ3M) | 3:42 | 2022-05-23 |  |
+| [Bloom](https://open.spotify.com/track/0oTyoTKEKMdF3rXcOLyEfN) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Bloom](https://open.spotify.com/album/3MYJYd73u0SatCnRVvRJ3M) | 3:42 | 2022-05-23 | 2022-11-12 |
 | [Bloom](https://open.spotify.com/track/1hSOt9IeshMkuKP9ri4hOf) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Bloom](https://open.spotify.com/album/2k7dz4vu8APcaIqI8dQiQw) | 3:42 | 2022-05-06 | 2022-07-29 |
+| [Bloom](https://open.spotify.com/track/4PwLT0KK81PWJ7gAEZn72I) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Best Pride Music](https://open.spotify.com/album/4XFlr6MaEZrNOoX8luMjRE) | 3:42 | 2022-05-23 |  |
 | [Born This Way](https://open.spotify.com/track/6r2BECwMgEoRb5yLfp0Hca) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Born This Way \(Special Edition\)](https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O) | 4:20 | 2022-05-06 |  |
 | [Boyfriend](https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Boyfriend](https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc) | 2:33 | 2022-05-06 |  |
 | [Boyfriend](https://open.spotify.com/track/0euRZeEKvdbptPpebwDtLc) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Love You to Death](https://open.spotify.com/album/0zqoBumDciJGNoOsvfTP5U) | 2:47 | 2022-05-06 |  |
@@ -45,15 +46,17 @@
 | [Kiss Me](https://open.spotify.com/track/754kgU5rWscRTfvlsuEwFp) | [Sixpence None The Richer](https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg) | [Sixpence None the Richer](https://open.spotify.com/album/0PrcwzkQVEy4y6JPvT5bix) | 3:28 | 2022-05-06 |  |
 | [Kiss The Boy](https://open.spotify.com/track/7aTY1ZcvGVPy8B9hqjeER5) | [Keiynan Lonsdale](https://open.spotify.com/artist/0tkkz8CmkHga4YZgSHEDVl) | [Kiss The Boy](https://open.spotify.com/album/6r99nrS4l5OKF1CD03WoNi) | 4:21 | 2022-05-06 | 2022-07-29 |
 | [Kiss the Boy](https://open.spotify.com/track/30LVVHovT76CEZUbexup1k) | [Keiynan Lonsdale](https://open.spotify.com/artist/0tkkz8CmkHga4YZgSHEDVl) | [Kiss the Boy](https://open.spotify.com/album/2RKImiNMGPKQYapmye17Fi) | 4:21 | 2022-05-23 |  |
+| [Malibu](https://open.spotify.com/track/02w1bcPNTPrF06IsMoQxUc) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Cold Heart](https://open.spotify.com/album/2ub4hh8QvhlDh9MzsAdzF3) | 3:11 | 2022-05-23 |  |
 | [Malibu](https://open.spotify.com/track/31k41EAntOsjbRBcAASfiL) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Malibu](https://open.spotify.com/album/7AiqBnEFt4gCA9XpKUoZRl) | 3:11 | 2022-05-06 | 2022-07-29 |
-| [Malibu](https://open.spotify.com/track/7G0tY4ErguYZpP6nQ6Qcnc) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Malibu](https://open.spotify.com/album/5wtQMwjNEy1x2OIkUIz5Lk) | 3:11 | 2022-05-23 |  |
+| [Malibu](https://open.spotify.com/track/7G0tY4ErguYZpP6nQ6Qcnc) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Malibu](https://open.spotify.com/album/5wtQMwjNEy1x2OIkUIz5Lk) | 3:11 | 2022-05-23 | 2022-11-12 |
 | [Maniac](https://open.spotify.com/track/6KfoDhO4XUWSbnyKjNp9c4) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:05 | 2022-05-06 |  |
 | [Mine](https://open.spotify.com/track/18uOcUO5mNEYHHigeXPgQM) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Mine](https://open.spotify.com/album/3SQr5VHmYRkAGGMTCBbbnP) | 2:39 | 2022-05-06 |  |
 | [Misery Business](https://open.spotify.com/track/3l9CW99AHtExIRV4hW2N5m) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Riot!](https://open.spotify.com/album/3UoOO8m0oxxvUHXUKf3qcZ) | 3:31 | 2022-05-06 | 2022-07-29 |
 | [Misery Business](https://open.spotify.com/track/6SpLc7EXZIPpy0sVko0aoU) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Riot!](https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc) | 3:31 | 2022-05-23 | 2022-11-11 |
 | [Misery Business](https://open.spotify.com/track/7bJL09djprfjLQ2G1zEVrC) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Cool Kids](https://open.spotify.com/album/1mLxjBgGgvsTHhFCr6xHE5) | 3:31 | 2022-05-23 |  |
 | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/track/32L05FkUrYfVlc0IwJ45ld) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/album/03t71EZD4QdMD6PI1QdZC2) | 2:17 | 2022-05-06 |  |
-| [My My My!](https://open.spotify.com/track/4NiehSBQthimPzRsVeOgCT) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Bloom](https://open.spotify.com/album/3MYJYd73u0SatCnRVvRJ3M) | 3:24 | 2022-05-23 |  |
+| [My My My!](https://open.spotify.com/track/4NiehSBQthimPzRsVeOgCT) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Bloom](https://open.spotify.com/album/3MYJYd73u0SatCnRVvRJ3M) | 3:24 | 2022-05-23 | 2022-11-12 |
+| [My My My!](https://open.spotify.com/track/5g2kzs4Ti0iZoaI9jNwjWT) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Kids Friendly Fun Pop](https://open.spotify.com/album/69S78rZcUEXlpNp74oYHN7) | 3:24 | 2022-05-23 |  |
 | [My My My!](https://open.spotify.com/track/71T7xF5wLbDRg76jxAwDqA) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [My My My!](https://open.spotify.com/album/6W9vAihnwRgnRJ7griWzLE) | 3:24 | 2022-05-06 | 2022-07-29 |
 | [Mystery of Love](https://open.spotify.com/track/5GbVzc6Ex5LYlLJqzRQhuy) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Mystery of Love](https://open.spotify.com/album/4wB3cRpb4YfnNyJORQe3Om) | 4:08 | 2022-05-06 | 2022-07-29 |
 | [Mystery of Love \(From the Original Motion Picture “Call Me by Your Name”\)](https://open.spotify.com/track/0oTtnnedK0C4unALxVTPhz) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Mystery of Love \(From the Original Motion Picture “Call Me by Your Name”\)](https://open.spotify.com/album/2uMaCzN7a35J3I3qceso0c) | 4:08 | 2022-05-23 |  |

@@ -4,7 +4,7 @@
 
 > Chestnuts roasting on an open fire..\. Timeless heart\-warming classics for the holiday season.
 
-97 songs - 4 hr 32 min - [published](https://open.spotify.com/playlist/2LrKZFCCLyYeh3IWx3jt2W)
+99 songs - 4 hr 40 min - [published](https://open.spotify.com/playlist/2LrKZFCCLyYeh3IWx3jt2W)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,12 +67,14 @@
 | [O Little Town Of Bethlehem](https://open.spotify.com/track/07grjb29wSIEwP4xKtZUjH) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song \(Expanded Edition\)](https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4) | 2:19 | 2021-12-25 |  |
 | [O Tannenbaum](https://open.spotify.com/track/1AuqctepNkbMGhlysf9VqX) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [A Charlie Brown Christmas \(Remastered & Expanded Edition\)](https://open.spotify.com/album/5IXrTfjX17PpdhgRJvQc7N) | 5:09 | 2021-12-25 | 2022-07-29 |
 | [O Tannenbaum](https://open.spotify.com/track/34rzJNfTd5e9s3TICFMPD0) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [A Charlie Brown Christmas \[2012 Remastered & Expanded Edition\]](https://open.spotify.com/album/7DuJYWu66RPdcekF5TuZ7w) | 5:09 | 2021-12-25 | 2022-09-19 |
-| [O Tannenbaum](https://open.spotify.com/track/4YhY2qHdBmSX33uj8ms0oq) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [A Charlie Brown Christmas \[2012 Remastered & Expanded Edition\]](https://open.spotify.com/album/2XnNY3GEkbWHor5kyvXLu4) | 5:09 | 2021-12-25 |  |
+| [O Tannenbaum](https://open.spotify.com/track/4YhY2qHdBmSX33uj8ms0oq) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [A Charlie Brown Christmas \[2012 Remastered & Expanded Edition\]](https://open.spotify.com/album/2XnNY3GEkbWHor5kyvXLu4) | 5:09 | 2021-12-25 | 2022-11-12 |
+| [O Tannenbaum](https://open.spotify.com/track/5IYTUm06pUdo1DHjtijVRW) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [Classic Christmas Hits 2022](https://open.spotify.com/album/7ILcxLRAchjzznQVoD0ESK) | 5:09 | 2022-10-23 |  |
 | [Please Come Home for Christmas \- 2013 Remaster](https://open.spotify.com/track/3QIoEi8Enr9uHffwInGIsC) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Please Come Home for Christmas / Funky New Year \(2013 Remaster\)](https://open.spotify.com/album/4QxtDUU3U7gCCyT9Lm3bg5) | 2:57 | 2021-12-25 |  |
 | [Rockin' Around The Christmas Tree](https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [Merry Christmas From Brenda Lee](https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG) | 2:06 | 2021-12-25 |  |
 | [Rudolph The Red\-Nosed Reindeer](https://open.spotify.com/track/47otoIkhx3fkdivEXL5OB6) | [Burl Ives](https://open.spotify.com/artist/0MHgLfmQdutffmvWe5XBTN) | [Have A Holly Jolly Christmas](https://open.spotify.com/album/6MvKUOSuPdfH0WLeQjR3eR) | 2:10 | 2021-12-25 |  |
+| [Run Rudolph Run](https://open.spotify.com/track/3CQa7Xu95cwlQVPd3UoiHB) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Noël 2020](https://open.spotify.com/album/0gbWx46O7msHBOfp6fYSkk) | 2:42 | 2022-10-23 |  |
 | [Run Rudolph Run](https://open.spotify.com/track/30WHma5z5Sty54jbtoxYEy) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Rockin' Little Christmas](https://open.spotify.com/album/5hZivEHAxRLhYfsaNdPzkU) | 2:44 | 2021-12-25 | 2022-07-29 |
-| [Run Rudolph Run](https://open.spotify.com/track/2pnPe4pJtq7689i5ydzvJJ) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Rock 'N' Roll Rarities](https://open.spotify.com/album/1DILNh7maaYyKxe15V9xLq) | 2:45 | 2021-12-25 |  |
+| [Run Rudolph Run](https://open.spotify.com/track/2pnPe4pJtq7689i5ydzvJJ) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Rock 'N' Roll Rarities](https://open.spotify.com/album/1DILNh7maaYyKxe15V9xLq) | 2:45 | 2021-12-25 | 2022-11-12 |
 | [Santa Baby](https://open.spotify.com/track/1vZKP9XURuqMp1SpXGnoyb) | [Eartha Kitt](https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC) | [The Essential Eartha Kitt](https://open.spotify.com/album/3YYxlTrYciDHu3j7E5wGrZ) | 3:26 | 2021-12-25 |  |
 | [Santa Claus Is Comin' to Town \- Live at C.W\. Post College, Greenvale, NY \- December 1975](https://open.spotify.com/track/6s2wpWPFPAgKg2LXxi1Oee) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Santa Claus Is Comin' to Town \(Live at C.W\. Post College, Greenvale, NY \- December 1975\)](https://open.spotify.com/album/6SEtGOi92yZM5TyAGlXlpZ) | 4:27 | 2021-12-25 |  |
 | [Santa Claus Is Coming To Town](https://open.spotify.com/track/2QpN1ZVw8eJO5f7WcvUA1k) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Christmas Album](https://open.spotify.com/album/5M8U1qYKvRQHJJVHmPY7QD) | 2:24 | 2021-12-25 | 2022-11-11 |

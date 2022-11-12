@@ -290,6 +290,24 @@
     },
     {
       "album": {
+        "name": "IDOL: The Coup (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5DOZEHtFldVC3FkryXko6g"
+      },
+      "artists": [
+        {
+          "name": "HANI",
+          "url": "https://open.spotify.com/artist/5quuAyAO2BQW2cjgfYPj0x"
+        }
+      ],
+      "date_added": "2022-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228413,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/1feGpI1UDH2HHvKwqtXzBp"
+    },
+    {
+      "album": {
         "name": "IDOL: The Coup (Original Television Soundtrack, Pt. 3)",
         "url": "https://open.spotify.com/album/3dElJrHIi81jpc32vyeCbI"
       },
@@ -319,7 +337,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 228413,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/3LP8X7wPZqU1FmkCSoxsqM"

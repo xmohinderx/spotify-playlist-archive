@@ -1080,6 +1080,32 @@
     },
     {
       "album": {
+        "name": "die 4 u",
+        "url": "https://open.spotify.com/album/12gAShAjb88fw6HOgyxRr8"
+      },
+      "artists": [
+        {
+          "name": "if found",
+          "url": "https://open.spotify.com/artist/39W8ER2QJe2x3pKLIXTiwK"
+        },
+        {
+          "name": "n\u00f8ll",
+          "url": "https://open.spotify.com/artist/5wtzhSRB6edfUruFWvLxpL"
+        },
+        {
+          "name": "damnboy!",
+          "url": "https://open.spotify.com/artist/3t96ooAg7YcJQF7lPpcMiU"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174800,
+      "name": "die 4 u",
+      "url": "https://open.spotify.com/track/01XP4DU82QE56hH3l16a7S"
+    },
+    {
+      "album": {
         "name": "Disappearing Now",
         "url": "https://open.spotify.com/album/5zdUWNPZwYmUn7M2aUu0Cz"
       },
@@ -1139,6 +1165,32 @@
       "duration_ms": 187294,
       "name": "Dodgeball",
       "url": "https://open.spotify.com/track/0zhh7NAHesDIGWK5b5DbUm"
+    },
+    {
+      "album": {
+        "name": "Gym Hardstyle",
+        "url": "https://open.spotify.com/album/4gcWcPH0gJEVCTbvJ2rkIm"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "EVAN GIIA",
+          "url": "https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205479,
+      "name": "Don't Let Me Let Go",
+      "url": "https://open.spotify.com/track/6uNY5uER78gzSa2FJSFxXM"
     },
     {
       "album": {
@@ -1462,6 +1514,28 @@
     },
     {
       "album": {
+        "name": "Endless (Best of Me)",
+        "url": "https://open.spotify.com/album/72LIl7Rlti55JL63E6UsmY"
+      },
+      "artists": [
+        {
+          "name": "Afinity",
+          "url": "https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf"
+        },
+        {
+          "name": "Nevve",
+          "url": "https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220800,
+      "name": "Endless (Best of Me)",
+      "url": "https://open.spotify.com/track/1UyiFox8VnAAFRweBDKhy0"
+    },
+    {
+      "album": {
         "name": "Enter REM",
         "url": "https://open.spotify.com/album/71hcjKcbu0W3A87LKeKQN7"
       },
@@ -1643,7 +1717,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 231440,
       "name": "Fall Into Me",
       "url": "https://open.spotify.com/track/1iA7DyrJbukpd4X2EcT9Xd"
@@ -4611,7 +4685,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 166681,
       "name": "Say The Word (with Billy Lockett)",
       "url": "https://open.spotify.com/track/3CFwx3qdGNrgUIS16PnoXn"
@@ -5689,7 +5763,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 218878,
       "name": "Underneath My Skin",
       "url": "https://open.spotify.com/track/26ZZUpJ2HO3aZUopW9b70h"

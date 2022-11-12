@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWTA1Ie7iu8r.md) - [plain]
 
 > Get your creep on with these freaky 'love' songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,956 likes - 56 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,958 likes - 56 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,19 +38,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWTA1Ie7iu8r.md) - [plain]
 | 28 | [No Running From Me](https://open.spotify.com/track/6jYHyOrSRGGLh3mI13sZ2J) | [Toulouse](https://open.spotify.com/artist/4Vy0AbsAmU5l3ZWOxhilzr) | [Fifty Shades Darker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5VML6S956h4YfoYPooqLEi) | 3:11 |
 | 29 | [Heart Killer](https://open.spotify.com/track/2InuluQy6REaPieZ2r5TKp) | [Gossling](https://open.spotify.com/artist/0NnyKz36MvIC2R3dFht35A) | [Intentional Living](https://open.spotify.com/album/4gtSfQzqmmYmwOVIVIYvFO) | 3:48 |
 | 30 | [Die For You](https://open.spotify.com/track/2Ch7LmS7r2Gy2kc64wv3Bz) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Starboy](https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe) | 4:20 |
-| 31 | [Hello](https://open.spotify.com/track/0mHyWYXmmCB9iQyK18m3FQ) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Can't Slow Down](https://open.spotify.com/album/3alZBOvPaK3hgMEEymw4Yr) | 4:11 |
+| 31 | [Hello](https://open.spotify.com/track/2ughUJ3d0vSXFMMiFSdSAp) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [西洋永恆情歌 Forever Love Songs](https://open.spotify.com/album/6mFoYw0OZJ1JWKhzrBImIy) | 4:08 |
 | 32 | [Alone](https://open.spotify.com/track/54b8qPFqYqIndfdxiLApea) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Bad Animals](https://open.spotify.com/album/56dfEbntfVTMCxjrjggL1e) | 3:38 |
 | 33 | [I Will Possess Your Heart](https://open.spotify.com/track/77vYwoC7e3pVoPq8BA9CuL) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Narrow Stairs](https://open.spotify.com/album/7G84Q2FcA43cjLeWBSIedv) | 8:25 |
 | 34 | [Let Me Put My Love Into You](https://open.spotify.com/track/5XeMsYb1rWxQL1bUUaZajn) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Back In Black](https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh) | 4:15 |
 | 35 | [Found Love in a Graveyard](https://open.spotify.com/track/7vD8m9ZzsvnnPYd1VpzgUO) | [Veronica Falls](https://open.spotify.com/artist/0mgbAj6btHW215UxhLq1AV) | [Veronica Falls](https://open.spotify.com/album/02oz6Rr7JK31RIRHtzUx2g) | 3:59 |
 | 36 | [Hungry Like the Wolf](https://open.spotify.com/track/2qeESyQyH7MRHCBotCQsNq) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Greatest](https://open.spotify.com/album/7xbWtTByfdMWFfxXmeFFl0) | 3:29 |
-| 37 | [\#1 Crush \- Nellee Hooper Mix](https://open.spotify.com/track/08L1WAtYQnsFBoZ3MEBkYV) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q), [Nellee Hooper](https://open.spotify.com/artist/1l7aiSjBGkQiyTuQYTigAP) | [Garbage \(20th Anniversary Deluxe Edition/Remastered\)](https://open.spotify.com/album/1Vze7jtjAVQOdIIQ8oO2X7) | 4:50 |
+| 37 | [\#1 Crush \- Nellee Hooper Mix](https://open.spotify.com/track/0AlrwMSZkinqQR7RTBhUW8) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q), [Nellee Hooper](https://open.spotify.com/artist/1l7aiSjBGkQiyTuQYTigAP) | [Garbage \(20th Anniversary Super Deluxe Edition/Remastered\)](https://open.spotify.com/album/6bRl7GS0ARZJMxQMWtVeRB) | 4:50 |
 | 38 | [Dead in the Water](https://open.spotify.com/track/2ZvRgpb9gf5ejw0eH5FcU0) | [SPELLES](https://open.spotify.com/artist/76UfJrb52tTTiDQNWEeCBY) | [Skeleton Coast I](https://open.spotify.com/album/7JeIC2EtoZvPqJfT4yXWOB) | 3:09 |
 | 39 | [Spooky](https://open.spotify.com/track/5z4iT44mMHyZozsTFy4A51) | [Classics IV](https://open.spotify.com/artist/6XGJvNG372fPJ2TV2OoN0Z) | [Best Of](https://open.spotify.com/album/1Tt7kLJ0EC4t8w3D4WyySr) | 2:55 |
 | 40 | [Where the Wild Roses Grow \- 2011 \- Remaster](https://open.spotify.com/track/4lKtuFVbBcQP7nwpLS0V8K) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Step Back In Time: The Definitive Collection \(Expanded\)](https://open.spotify.com/album/6dZIEsIXM2oY3aN0npklmB) | 3:55 |
 | 41 | [Father Figure](https://open.spotify.com/track/0SCk8WpBKSvK6QkSyixRAY) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Ladies And Gentlemen..\. The Best Of George Michael](https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl) | 5:40 |
 | 42 | [hell is where i dreamt of u and woke up alone](https://open.spotify.com/track/1PcU7Qy3VUgeYaByCThdm9) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [digital druglord](https://open.spotify.com/album/0a8WSH44kA5hR4MQ6LyFDB) | 2:48 |
-| 43 | [I'm Gonna Getcha Good](https://open.spotify.com/track/3wimPgsJv0hEgP5A3sQ7Ag) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Up! \(Green Version\)](https://open.spotify.com/album/4h6bh60fEl4GAZiPhmrgMx) | 4:29 |
+| 43 | [I'm Gonna Getcha Good \- Green Version](https://open.spotify.com/track/01KvgeHthhyyBoZzbNYrKJ) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [2000s Pop For Kids](https://open.spotify.com/album/2CavZRHh68rQEN8Epdg8AK) | 4:29 |
 | 44 | [Girlfriend in a Coma \- 2011 Remaster](https://open.spotify.com/track/01q4ccXbvPlCwZ1fPiFaeM) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Strangeways, Here We Come](https://open.spotify.com/album/7jfexk2w5aDI25njkN0UGg) | 2:02 |
 | 45 | [I Would Die For You](https://open.spotify.com/track/39vly7Z4VLImfggnEDEUzf) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Younger Now](https://open.spotify.com/album/5xG9gJcs9ut3qDWezHUlsX) | 2:53 |
 | 46 | [Necromancer](https://open.spotify.com/track/55MjmYId7nEVI8y1GDmmWR) | [Gnarls Barkley](https://open.spotify.com/artist/5SbkVQYYzlw1kte75QIabH) | [St\. Elsewhere](https://open.spotify.com/album/7p2aWivr9OLXocSTTKtG9B) | 2:57 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWTA1Ie7iu8r.md) - [plain]
 | 55 | [Love Song for a Vampire](https://open.spotify.com/track/3ik79qXV15D3ae33uveasw) | [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum) | [The Annie Lennox Collection](https://open.spotify.com/album/6VXTaHgpeG2fZDwyHsn6eJ) | 4:19 |
 | 56 | [Die, Die My Darling](https://open.spotify.com/track/4Rme8TxEaNV09wp64AWd2y) | [Misfits](https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey) | [Collection](https://open.spotify.com/album/4pEcCqGx1RFaXWJD0mrG10) | 3:09 |
 
-Snapshot ID: `MTU3MjQzMTA0NiwwMDAwMDAwMGMyN2E1ODZkMzczYTFkMDM0OTBjY2ZlMjlmMWQ4Njky`
+Snapshot ID: `MTU3MjQzMTA0NiwwMDAwMDAwMDY2Yzk3YzIxNWVjYjBkMGZjODJlZWExMWY5MDZhOTU5`

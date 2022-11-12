@@ -4,7 +4,7 @@
 
 > Revisit the year in Folk & Americana with the best songs released in 2021\. Cover: Brandi Carlile
 
-117 songs - 7 hr 3 min - [published](https://open.spotify.com/playlist/2g88U0CaHjq9ygfdz2xBlC)
+118 songs - 7 hr 7 min - [published](https://open.spotify.com/playlist/2g88U0CaHjq9ygfdz2xBlC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,8 +23,9 @@
 | [Bright Star](https://open.spotify.com/track/2GU7Yy8fZVbtmSafEOXcjQ) | [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Bright Star](https://open.spotify.com/album/2DqpMCRbrMb4VRb1GNtYXg) | 3:10 | 2021-12-01 | 2022-07-29 |
 | [Bright Star](https://open.spotify.com/track/2MzJjyG6MWkAY8wQIfDMSZ) | [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Anaïs Mitchell](https://open.spotify.com/album/1ZpLitOlsiSKy0Sdmhudi6) | 3:10 | 2021-12-01 | 2022-11-11 |
 | [Bright Star](https://open.spotify.com/track/3eMWAyf54iRQhCQVt8h2ny) | [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Anaïs Mitchell \(Deluxe\)](https://open.spotify.com/album/6tOEg8pBcr1IKImNngQHkc) | 3:10 | 2021-12-01 |  |
+| [BRIGHTSIDE](https://open.spotify.com/track/1TX0ImiGMYiikRash29a2b) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [BRIGHTSIDE](https://open.spotify.com/album/35oJ7lIOHpQtRxr4QiCK5j) | 3:49 | 2021-12-01 |  |
 | [BRIGHTSIDE](https://open.spotify.com/track/2mdkcujPED7xhV2MTtjYnD) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [BRIGHTSIDE](https://open.spotify.com/album/1rN1O6lNjyw1P3SNs3KZzs) | 3:49 | 2021-12-01 | 2022-07-29 |
-| [BRIGHTSIDE](https://open.spotify.com/track/55yQgka1wuEeSmrpW8NeG2) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [BRIGHTSIDE](https://open.spotify.com/album/3K8XmeN3jQvl6reRJcfakL) | 3:49 | 2021-12-01 |  |
+| [BRIGHTSIDE](https://open.spotify.com/track/55yQgka1wuEeSmrpW8NeG2) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [BRIGHTSIDE](https://open.spotify.com/album/3K8XmeN3jQvl6reRJcfakL) | 3:49 | 2021-12-01 | 2022-11-12 |
 | [Calling Me Home \(with Francesco Turrisi\)](https://open.spotify.com/track/2C6qZqsYHMFuY0GopknQRr) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM), [Francesco Turrisi](https://open.spotify.com/artist/4ds2NOrovBxUtTi29RWIBC) | [They're Calling Me Home \(with Francesco Turrisi\)](https://open.spotify.com/album/75qSKqLqEt7zOei7If7Lms) | 3:49 | 2021-12-01 |  |
 | [Can't Let Go](https://open.spotify.com/track/57nF5aaoeyHOBRnyjV6lCT) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Raise The Roof \(Deluxe Edition\)](https://open.spotify.com/album/48wFAtpgBV5rUTTDrNKCoN) | 3:41 | 2021-12-01 | 2022-07-29 |
 | [Can’t Let Go](https://open.spotify.com/track/6dQh60A0KlpwPT2p9ptJaY) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Raise The Roof](https://open.spotify.com/album/5CQ3SOj1ZgudhbsTLcTTI2) | 3:41 | 2021-12-01 |  |

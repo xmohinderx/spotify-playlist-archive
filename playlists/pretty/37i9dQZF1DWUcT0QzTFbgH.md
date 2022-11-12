@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcT0QzTFbgH.md) - [plain]
 
 > All the music from Michaela Coel’s new HBO series, I May Destroy You, now streaming on  <a href="https://open.spotify.com/user/zixjtyf5mcboj19z5t19kz8n5?si=vlwsJ4dMStuKjfmgq1AMhQ">HBO Max</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,113 likes - 80 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,135 likes - 80 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcT0QzTFbgH.md) - [plain]
 | 32 | [Truffle Butter](https://open.spotify.com/track/7e44z4wOjkllaD8eulUeMd) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [The Pinkprint \(Deluxe Edition\)](https://open.spotify.com/album/5qs8T6ZHSrnllnOuUk6muC) | 3:40 |
 | 33 | [Street Games](https://open.spotify.com/track/0eaLnYcHw5gndlyFyrUs6w) | [The Blackbyrds](https://open.spotify.com/artist/7uykqYYhDUugFJgKZWXIWq) | [Action](https://open.spotify.com/album/6LhMkSPNs1AVrAjdrJue98) | 4:24 |
 | 34 | [It's Gonna Rain](https://open.spotify.com/track/7fTZUgO8MO7m1w11RsGyVG) | [Rev\. Milton Brunson](https://open.spotify.com/artist/3Tiff2zKob5oG6m7AQpbis), [The Thompson Community Singers](https://open.spotify.com/artist/1MWWUdLJVnU7HryE29JNZI) | [The Ultimate Collection](https://open.spotify.com/album/2VcNLzv5XWWoMNpkn6nM9y) | 4:49 |
-| 35 | [Offence](https://open.spotify.com/track/255XENrbBfTCRz6XBL7jJR) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [GREY Area](https://open.spotify.com/album/3Z8Df4ghTJ7afEWkurB2I1) | 2:48 |
+| 35 | [Offence](https://open.spotify.com/track/3JJXrYlJWw2ruon5KP4mOJ) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Offence](https://open.spotify.com/album/6iXfpbB3SxBKoTnZHAxCnH) | 2:48 |
 | 36 | [The Universe Wakes Up](https://open.spotify.com/track/2zaHxMIRqvNZlpXNDuCA7i) | [The Comet Is Coming](https://open.spotify.com/artist/0Z5FMozvx15nUSUA6a9kkU) | [Trust In The Lifeforce Of The Deep Mystery](https://open.spotify.com/album/2mvz0NPBCPTbSEgRViuDLK) | 5:25 |
 | 37 | [Magic \(feat\. Bandokay & Double Lz\)](https://open.spotify.com/track/0YhJO6feKxyGjwVo5NSXPD) | [iLL BLU](https://open.spotify.com/artist/550Zxz0BTZi3yd8gX9QINw), [OFB](https://open.spotify.com/artist/0koPE9U3b5XYArKa7R2TLm), [Bandokay](https://open.spotify.com/artist/0CqfkYr7CBuSySa4wUBChE), [Double Lz](https://open.spotify.com/artist/4Al9wqYpl2Yi1XfUrDrZmS) | [Magic \(feat\. Bandokay & Double Lz\)](https://open.spotify.com/album/2VZCTJ1tjALGYfT6IjdSVZ) | 2:33 |
 | 38 | [Square 1](https://open.spotify.com/track/0ea9086ldqbhDObsvpmUqF) | [Redinho](https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB), [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) | [Square 1](https://open.spotify.com/album/3ktedcz4DO9wfB2Kb4xReb) | 3:33 |
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcT0QzTFbgH.md) - [plain]
 | 64 | [Energy](https://open.spotify.com/track/1j2X7HKGMq9PQbMeHlZDWW) | [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg) | [Energy](https://open.spotify.com/album/23ligJvcTldiV5m96WLaAr) | 2:18 |
 | 65 | [Babycakes](https://open.spotify.com/track/0dAn58pe2GWDTlqa2Th4mP) | [3 Of A Kind](https://open.spotify.com/artist/0WG74hoaVTaNb3hx3yRqb1) | [Babycakes](https://open.spotify.com/album/4sW39hh7uYqe8zDg7ylPAW) | 2:34 |
 | 66 | [Lizard Street](https://open.spotify.com/track/5WIlLs1q6Wb9RtSgF4Aa7V) | [Oscar Jerome](https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh) | [Lizard Street](https://open.spotify.com/album/1uQIwGKgyLr9xdGPUEQGY2) | 4:00 |
-| 67 | [The River Bend](https://open.spotify.com/track/12Z2y0wMqxRYqUyrYpqjfk) | [Subculture](https://open.spotify.com/artist/45CiOVzqS9wkh8pX59IOfx), [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [I Dream of Everything](https://open.spotify.com/album/6RZ9NVbq6VOEkcP7O33KFI) | 2:55 |
+| 67 | [The River Bend](https://open.spotify.com/track/2edqiavJ97Jo8X1f9BNk66) | [Subculture](https://open.spotify.com/artist/45CiOVzqS9wkh8pX59IOfx), [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [The River Bend](https://open.spotify.com/album/3cH9W5kkGahsfCJptOopVT) | 2:30 |
 | 68 | [Beautiful Day](https://open.spotify.com/track/41r8SzSjOsKtl9bVAL3syH) | [Tantsui](https://open.spotify.com/artist/1f9zMAEacpAEZO2iG5WQbX) | [Beautiful Day](https://open.spotify.com/album/17Dj48oeEqaJpULfOkLvFQ) | 7:25 |
 | 69 | [Give Me Your Love](https://open.spotify.com/track/7BZ7UeQl9Lces7CZRgcrpp) | [The Bricks](https://open.spotify.com/artist/1qwbhsGKeXLBBFaBIK4v8w) | [Change Gonna Come](https://open.spotify.com/album/1LMhfIi6KaluK1I2XpuT4M) | 3:23 |
 | 70 | [Tic Toc](https://open.spotify.com/track/5QcXxgS180PribkZXEyAOC) | [Eliza Legzdina](https://open.spotify.com/artist/0oehZWYTU3DazM5gV7i6Op), [Janelle Wynter](https://open.spotify.com/artist/75eWIFnC0plYZ2bS7eGOFI) | [IRON CURTAIN GOLDEN PUSSY](https://open.spotify.com/album/0pSlVrU1Sdci8xBwGKO1BO) | 2:54 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcT0QzTFbgH.md) - [plain]
 | 79 | [About Her](https://open.spotify.com/track/7iQDsonHSnaT6hNBJUaRe9) | [Phazz](https://open.spotify.com/artist/0kjZvGERXMvPFSs6DB5UFF) | [About Her](https://open.spotify.com/album/2oPrc4DfMZTI1Bh2ZrSgfF) | 3:31 |
 | 80 | [Dreaming About You](https://open.spotify.com/track/5voWjUklIhjnNQU5aZCIm4) | [The Blackbyrds](https://open.spotify.com/artist/7uykqYYhDUugFJgKZWXIWq) | [Action](https://open.spotify.com/album/6LhMkSPNs1AVrAjdrJue98) | 5:52 |
 
-Snapshot ID: `MTU5ODk4NjQzMCwwMDAwMDAwMDg1YmE5MjUwNWQ5NzhlMDQ5MmEwNzI5NjU4NTg0NDA2`
+Snapshot ID: `MTU5ODk4NjQzMCwwMDAwMDAwMGNjZTY3YzdlMTUzNjU5Y2E5YzE5NDUwNmJhZjE0OWEy`

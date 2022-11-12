@@ -4,7 +4,7 @@
 
 > Happy Pop\-Rock Tunes to start your day.
 
-193 songs - 11 hr 48 min - [published](https://open.spotify.com/playlist/3j9mauw5Zu7ivIgvltle7G)
+195 songs - 11 hr 56 min - [published](https://open.spotify.com/playlist/3j9mauw5Zu7ivIgvltle7G)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Bet On Me](https://open.spotify.com/track/2p56oIwLWTo2qh3c3SAZMk) | [Walk Off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX), [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo) | [Bet On Me](https://open.spotify.com/album/7KOzTHjJGfgrsw5DbP2UtY) | 2:52 | 2022-06-09 | 2022-06-19 |
 | [Better Together](https://open.spotify.com/track/6huS9u0BDfeQHq0lObNLPl) | [Us The Duo](https://open.spotify.com/artist/3QGKsAfhZdldQCLuLjk6zl) | [Better Together](https://open.spotify.com/album/0KAwOGS6XRZfVBx9qmSlMc) | 3:20 | 2022-06-07 | 2022-07-29 |
 | [Bitter Sweet Symphony](https://open.spotify.com/track/57iDDD9N9tTWe75x6qhStw) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [Urban Hymns \(Remastered 2016\)](https://open.spotify.com/album/52AeC4gwbxDfFlLHgK1ByD) | 5:57 | 2022-07-26 | 2022-08-05 |
+| [Bloom \- Bonus Track](https://open.spotify.com/track/1HMQmOWrkieKYWlFsjUP3D) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Woodland](https://open.spotify.com/album/1lq6KMHFACcE6GQZysxnSZ) | 3:30 | 2022-11-03 |  |
 | [Bones](https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Bones](https://open.spotify.com/album/1Q9SnHWPNEjVM0LrBFvJ1q) | 2:45 | 2022-07-26 |  |
 | [Brand New](https://open.spotify.com/track/07m8PuXxxv5J4qPEDq6ZkK) | [Ben Rector](https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI) | [Brand New](https://open.spotify.com/album/4XYWS04Kkk8X1NiUR08Cpi) | 4:03 | 2022-06-23 | 2022-06-26 |
 | [Brave](https://open.spotify.com/track/6Uy6K3KdmUdAfelUp0SeXn) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [The Blessed Unrest](https://open.spotify.com/album/7lpbyGc4fHsQkBTsfWVBhp) | 3:40 | 2022-07-21 | 2022-07-26 |
@@ -132,7 +133,7 @@
 | [No Matter Where You Are](https://open.spotify.com/track/2XW4AAjfBQTzp7Oe1tU702) | [Us The Duo](https://open.spotify.com/artist/3QGKsAfhZdldQCLuLjk6zl) | [No Matter Where You Are](https://open.spotify.com/album/1hwhGQoccUo1mO5TPRxE0D) | 2:58 | 2022-06-09 | 2022-07-26 |
 | [No Ordinary Love](https://open.spotify.com/track/0qKKE7sLRt9jqG0b04w7Es) | [Jennifer Love Hewitt](https://open.spotify.com/artist/2BZDbnjUHnL2XAPgkdqTpb) | [Jennifer Love Hewitt](https://open.spotify.com/album/1HtyaQKUJOkG8RlHgZyuxT) | 4:05 | 2022-06-23 | 2022-07-27 |
 | [On Your Way Home](https://open.spotify.com/track/4sFhD0PjpNgV8M8yIzt7C2) | [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3) | [State of the Heart](https://open.spotify.com/album/2kqqKq8hxUDp0i1n0GpsgX) | 2:45 | 2022-06-07 | 2022-07-26 |
-| [Ophelia](https://open.spotify.com/track/3d8y0t70g7hw2FOWl9Z4Fm) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Cleopatra](https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN) | 2:40 | 2022-07-26 |  |
+| [Ophelia](https://open.spotify.com/track/3d8y0t70g7hw2FOWl9Z4Fm) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Cleopatra](https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN) | 2:40 | 2022-07-26 | 2022-11-12 |
 | [Out of My League](https://open.spotify.com/track/4VoJCUgNmnqG2qF0peDBkw) | [Stephen Speaks](https://open.spotify.com/artist/0AvtzKTYleNqdJXoZasQWG) | [No More Doubt](https://open.spotify.com/album/7nRnVLbfj5ZAhK0xsZzIwo) | 3:38 | 2022-06-07 | 2022-11-04 |
 | [Over You](https://open.spotify.com/track/2R5uY1gbIKzGB1yAOH067s) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot) | [Daughtry \(Deluxe Edition\)](https://open.spotify.com/album/6ii8Ja21xLGkFH8CQ6bKjj) | 3:24 | 2022-07-05 | 2022-07-13 |
 | [Passenger Seat](https://open.spotify.com/track/5ZpSUdy5wL5Hvwsqz6JCAt) | [Stephen Speaks](https://open.spotify.com/artist/0AvtzKTYleNqdJXoZasQWG) | [Passenger Seat](https://open.spotify.com/album/6kfmY3SwNpSu8XrNeOVLd5) | 4:34 | 2022-06-07 |  |
@@ -183,6 +184,7 @@
 | [Tired](https://open.spotify.com/track/0hIsd9ajCyc904OHQUkMic) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Only Ticket Home](https://open.spotify.com/album/4xsgJS74UkFgI1DE71lnXX) | 3:47 | 2022-06-07 | 2022-06-27 |
 | [Tissues](https://open.spotify.com/track/0jRY4XO556pn1zHZAoY3ph) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Tissues](https://open.spotify.com/album/1LIAp7pyElYRzvlP0mXSew) | 3:35 | 2022-08-30 |  |
 | [To Begin Again](https://open.spotify.com/track/1iJBSr7s7jYXzM8EGcbK5b) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0), [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [To Begin Again](https://open.spotify.com/album/5rrWBCnnYiFaT5EoyCeikd) | 3:30 | 2022-06-07 | 2022-07-11 |
+| [Torn](https://open.spotify.com/track/1Jaah2tmN9Hv81A87KZ1MU) | [Natalie Imbruglia](https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP) | [Left Of The Middle](https://open.spotify.com/album/38alWeQVP9UUAGJvLptys9) | 4:04 | 2022-11-03 |  |
 | [True](https://open.spotify.com/track/0jdeV5dSB3kUBRqe1xQJbh) | [Ryan Cabrera](https://open.spotify.com/artist/3C4t1usFGoKHCSRdujm2GN) | [Take It All Away \(U.S\. Version\)](https://open.spotify.com/album/78IbgGcKueK33SETMOQfaj) | 3:24 | 2022-06-09 | 2022-07-29 |
 | [Try](https://open.spotify.com/track/0dSchkfNB8SzYj8Bx7bcCW) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [Gypsy Heart Side A](https://open.spotify.com/album/7JRXqBqGNs3cy5YhqbvNuu) | 3:44 | 2022-06-09 | 2022-07-29 |
 | [Tulog Na](https://open.spotify.com/track/0SXASazFDcMabUee9uP9TL) | [Sugarfree](https://open.spotify.com/artist/5I3uAFbAOhuVSKdrcG5mgy) | [Dramachine](https://open.spotify.com/album/5K9KzgsrA3b2rRX5XYKGqk) | 3:58 | 2022-06-09 | 2022-07-28 |
@@ -200,6 +202,6 @@
 | [Would It Kill You At All](https://open.spotify.com/track/1LOIGR5G6y2lqDpNQDdppm) | [Dream, Ivory](https://open.spotify.com/artist/0qZyvjwZauLmrobrpJmvib) | [Would It Kill You At All](https://open.spotify.com/album/169zbd4B9wyNVMcknh3zcC) | 2:47 | 2022-08-30 | 2022-10-05 |
 | [You & Me](https://open.spotify.com/track/1bQhZOoXYqjXs7u7rFXo0h) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Chapters](https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP) | 3:51 | 2022-06-07 | 2022-07-29 |
 | [You And Me](https://open.spotify.com/track/0815caqt2Lytro5EIzMufT) | [Lifehouse](https://open.spotify.com/artist/5PokPZn11xzZXyXSfnvIM3) | [Lifehouse](https://open.spotify.com/album/2hOY4rDu51XSBvtwfWgSmz) | 3:15 | 2022-06-09 | 2022-07-29 |
-| [You're Beautiful](https://open.spotify.com/track/0vg4WnUWvze6pBOJDTq99k) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Back to Bedlam](https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF) | 3:29 | 2022-11-03 |  |
+| [You're Beautiful](https://open.spotify.com/track/0vg4WnUWvze6pBOJDTq99k) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Back to Bedlam](https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF) | 3:29 | 2022-11-03 | 2022-11-12 |
 
 \*This playlist was first scraped on 2022-06-09. Prior content cannot be recovered.

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-27",
-  "description": "Novidades e hits do pop nacional pra te deixar mais leve! Foto: Tiago Iorc",
+  "description": "Novidades e hits do pop nacional pra te deixar mais leve! Foto: Lagum (Pedro Calais), Anavit\u00f3ria (Ana Caetano)",
   "name": "Pop Leve",
   "published_playlist_ids": [
     "5tkcffSh1F75PZZSEVmuv8"
@@ -580,6 +580,28 @@
     },
     {
       "album": {
+        "name": "CAIXA POSTAL",
+        "url": "https://open.spotify.com/album/3DXoL1hqiTstYZgFBtCo9c"
+      },
+      "artists": [
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        },
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185372,
+      "name": "CAIXA POSTAL",
+      "url": "https://open.spotify.com/track/6lJ1FbMTeRrmee0eqE7XPl"
+    },
+    {
+      "album": {
         "name": "caminhada",
         "url": "https://open.spotify.com/album/6LGr34aE3K72nW4Jm6d9nH"
       },
@@ -591,7 +613,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 129186,
       "name": "caminhada",
       "url": "https://open.spotify.com/track/5AZbqiteR8VtDDWi3BkqBk"
@@ -837,7 +859,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 201183,
       "name": "da primeira vez (from the first time)",
       "url": "https://open.spotify.com/track/63qOBLF8403qXWcfi4sAQx"
@@ -1037,6 +1059,24 @@
       "duration_ms": 198292,
       "name": "deixa que eu j\u00e1 vou",
       "url": "https://open.spotify.com/track/4td0kvJluzs9IeqnASVllo"
+    },
+    {
+      "album": {
+        "name": "Depois de Te Encontrar",
+        "url": "https://open.spotify.com/album/42HaJWNeppTw5TOS9xiLzB"
+      },
+      "artists": [
+        {
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193804,
+      "name": "Depois de Te Encontrar",
+      "url": "https://open.spotify.com/track/2at2wmtCtuioxPvb6gYgin"
     },
     {
       "album": {
@@ -1334,6 +1374,24 @@
     },
     {
       "album": {
+        "name": "Desajeito",
+        "url": "https://open.spotify.com/album/5Q6Owiw3e0533g0fmhZIBm"
+      },
+      "artists": [
+        {
+          "name": "Magi",
+          "url": "https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151384,
+      "name": "Eu Gosto de Voc\u00ea",
+      "url": "https://open.spotify.com/track/6YSRQs68P9ojKJm8YZuw2e"
+    },
+    {
+      "album": {
         "name": "solta",
         "url": "https://open.spotify.com/album/4DMZLRmAYZ3vDfD6Mv5cIy"
       },
@@ -1563,10 +1621,64 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 182645,
       "name": "feiti\u00e7o",
       "url": "https://open.spotify.com/track/6SB9mfvH0SoT3qoRbeOTlL"
+    },
+    {
+      "album": {
+        "name": "Unilateral",
+        "url": "https://open.spotify.com/album/2LzdiXVbmRVKg9oUV0xJKO"
+      },
+      "artists": [
+        {
+          "name": "Bruna Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "Fica l\u00e1 Com Ela",
+      "url": "https://open.spotify.com/track/0D4oKyrvWNp7ONO0H7xlc5"
+    },
+    {
+      "album": {
+        "name": "FICA PRO CAF\u00c9",
+        "url": "https://open.spotify.com/album/6eGxhWr9uSAKEUZawIQjId"
+      },
+      "artists": [
+        {
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150260,
+      "name": "FICA PRO CAF\u00c9",
+      "url": "https://open.spotify.com/track/4KGu7ymn1pQwN5yWoWascu"
+    },
+    {
+      "album": {
+        "name": "Fica um Pouco Mais",
+        "url": "https://open.spotify.com/album/1RIX9DAwLw8fNWNpVkLgYE"
+      },
+      "artists": [
+        {
+          "name": "Hotelo",
+          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184653,
+      "name": "Fica um Pouco Mais",
+      "url": "https://open.spotify.com/track/1eNPv3mdG8YqOMKpkbWm3m"
     },
     {
       "album": {
@@ -1760,6 +1872,24 @@
     },
     {
       "album": {
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/2yKMpfp6npVmfyjHVR08xQ"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168204,
+      "name": "Golden Hour",
+      "url": "https://open.spotify.com/track/4oDijncCNWBbS54GAqa9if"
+    },
+    {
+      "album": {
         "name": "gostosa",
         "url": "https://open.spotify.com/album/3snaKVq0ImC43u1ZYxxSYK"
       },
@@ -1935,6 +2065,36 @@
       "duration_ms": 172119,
       "name": "Maior Que N\u00f3s",
       "url": "https://open.spotify.com/track/3oiTGo0oNxtT1kQvZHMyCe"
+    },
+    {
+      "album": {
+        "name": "Mantra",
+        "url": "https://open.spotify.com/album/0456OTINWd9Kw0tE0P9JpR"
+      },
+      "artists": [
+        {
+          "name": "Org\u00e2nico",
+          "url": "https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf"
+        },
+        {
+          "name": "L\u00e9o Casa 1",
+          "url": "https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD"
+        },
+        {
+          "name": "VNegreen",
+          "url": "https://open.spotify.com/artist/6wqRhQBrvbrjle8kCuEDRG"
+        },
+        {
+          "name": "TK",
+          "url": "https://open.spotify.com/artist/3BZG7SUknCMhBAKY4Doe0j"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168346,
+      "name": "Mantra",
+      "url": "https://open.spotify.com/track/0ErdYERkkYToR3l7q1ebmL"
     },
     {
       "album": {
@@ -2305,7 +2465,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 189002,
       "name": "N\u00e3o Te Largo, N\u00e3o Te Troco",
       "url": "https://open.spotify.com/track/4aOjUCwa65AQ0uYoeQZS6Z"
@@ -2723,7 +2883,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 181000,
       "name": "Pontos de Exclama\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/2mlsK27VNUj8y08BvtIbXu"
@@ -2853,6 +3013,24 @@
       "duration_ms": 171989,
       "name": "Rockstar",
       "url": "https://open.spotify.com/track/7nkqdCmYskYjTElzcB7RsP"
+    },
+    {
+      "album": {
+        "name": "NJDDAMC",
+        "url": "https://open.spotify.com/album/6TLehgZQDQ4TcvBayNmN89"
+      },
+      "artists": [
+        {
+          "name": "Konai",
+          "url": "https://open.spotify.com/artist/12YpLBd0FvDYA0c4nsaxFp"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162861,
+      "name": "roda de bamba",
+      "url": "https://open.spotify.com/track/3p1sKst6UehseITknM5z1b"
     },
     {
       "album": {
@@ -3249,7 +3427,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 213500,
       "name": "Tudo Teu",
       "url": "https://open.spotify.com/track/21bbR1glUbV7Vvo8hIMC2W"
@@ -3329,7 +3507,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 138143,
       "name": "T\u00e3o Leve",
       "url": "https://open.spotify.com/track/2i2SzU9jZd6nNew4CJEKqw"
@@ -3351,6 +3529,28 @@
       "duration_ms": 181966,
       "name": "Um Pouco Mais",
       "url": "https://open.spotify.com/track/0E1ZqVJQeRembqvvniCS7E"
+    },
+    {
+      "album": {
+        "name": "universo de coisas que eu desconhe\u00e7o",
+        "url": "https://open.spotify.com/album/4mFGakNOCGgZxiXbfauonk"
+      },
+      "artists": [
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        },
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "universo de coisas que eu desconhe\u00e7o",
+      "url": "https://open.spotify.com/track/4f7phfIoOpIhSI8tIK11f6"
     },
     {
       "album": {

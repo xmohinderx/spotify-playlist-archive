@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0BlvV9acBN.md) - [plain]
 
 > Grandes sucessos e novidades do rock Cristão\. Foto: Brunão Morada
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,669 likes - 70 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,705 likes - 70 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,22 +50,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0BlvV9acBN.md) - [plain]
 | 40 | [Sempre Foi Deus](https://open.spotify.com/track/5aJiKvmw8KvEMhlxh3rTLj) | [Stone Worship](https://open.spotify.com/artist/5os8iRRBrrRuvfN85jnuIf) | [Sempre Foi Deus](https://open.spotify.com/album/7AFUISl2RmHPJFu3AGf1yX) | 3:25 |
 | 41 | [Sou Teu](https://open.spotify.com/track/73Ut3bFGmzXZbaf5LvEPlJ) | [David Quinlan](https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73) | [Sou Teu](https://open.spotify.com/album/47i2kk0tnCyY6VdjE3ZPZC) | 5:50 |
 | 42 | [O que o céu começa o céu termina \- Ao Vivo](https://open.spotify.com/track/2G8YIlCvrzyoTUxODWWWBw) | [Marcus Salles](https://open.spotify.com/artist/6IVEwGc6qJl8dsyWnMq1PI) | [O que o céu começa o céu termina \(Ao Vivo\)](https://open.spotify.com/album/3zfUPNwzbXglzAEsaOdQl9) | 4:11 |
-| 43 | [Cadê o Amor](https://open.spotify.com/track/2xk6oFh9AYosifwYnbrc1y) | [Rozeniltton](https://open.spotify.com/artist/0ZYS2lwZJgVcrsDeCgtOIS), [PG](https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM) | [Cadê o Amor](https://open.spotify.com/album/6rMHFQzDWTR36LTwAaJXG3) | 4:33 |
-| 44 | [Estrangeiro](https://open.spotify.com/track/2HdkGrK8kgT65oTqI2IyWU) | [Rosa de Saron](https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX), [Anjos de Resgate](https://open.spotify.com/artist/6NdqC1F1roz6KejkMjoIJK) | [Estrangeiro](https://open.spotify.com/album/3kI4PndJ7hoyt13PWIICpI) | 3:46 |
+| 43 | [Estrangeiro](https://open.spotify.com/track/2HdkGrK8kgT65oTqI2IyWU) | [Rosa de Saron](https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX), [Anjos de Resgate](https://open.spotify.com/artist/6NdqC1F1roz6KejkMjoIJK) | [Estrangeiro](https://open.spotify.com/album/3kI4PndJ7hoyt13PWIICpI) | 3:46 |
+| 44 | [Cadê o Amor](https://open.spotify.com/track/2xk6oFh9AYosifwYnbrc1y) | [Rozeniltton](https://open.spotify.com/artist/0ZYS2lwZJgVcrsDeCgtOIS), [PG](https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM) | [Cadê o Amor](https://open.spotify.com/album/6rMHFQzDWTR36LTwAaJXG3) | 4:33 |
 | 45 | [O Mundo ao Seu Redor](https://open.spotify.com/track/4NKYXoK9cY8l37UGyrws1a) | [O Maior Clichê do Mundo](https://open.spotify.com/artist/4fvOeE1bNOgK9e10xKwg4w) | [O Mundo ao Seu Redor](https://open.spotify.com/album/3Dxe0faYOB7cLrnxnyHq1K) | 3:08 |
 | 46 | [Náufrago](https://open.spotify.com/track/4S59qX21KI984gd80DhHCx) | [Arianne](https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1) | [Hoje](https://open.spotify.com/album/2ce7nhONsfJkhYvbdG302z) | 4:04 |
-| 47 | [Lado a Lado](https://open.spotify.com/track/0GTm4VBJFD2UXrgirOvAtE) | [Judas O Outro](https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT) | [Lado a Lado](https://open.spotify.com/album/3YjjJX4higvdh2gqKxHs9O) | 3:45 |
-| 48 | [Hoje Tem Cor](https://open.spotify.com/track/63ICcEPOOPlcSHXzQXQMDH) | [Salvaon](https://open.spotify.com/artist/1YbTEvDgGkTuBpMFtHDbgG) | [LIVE](https://open.spotify.com/album/3BVK1en3BkNnAhpJxULFD3) | 5:53 |
-| 49 | [Caminho Sem Volta](https://open.spotify.com/track/0KyqZzXWJSInwvSlCkFvUh) | [Stone Worship](https://open.spotify.com/artist/5os8iRRBrrRuvfN85jnuIf) | [Caminho Sem Volta](https://open.spotify.com/album/7mzXUBD7si5aoKWckv7gJR) | 3:35 |
-| 50 | [OH! Se Fendesses \- Ao Vivo](https://open.spotify.com/track/2DdXmwABkeRvYEwAttO5Gk) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [OH! Se Fendesses \(Ao Vivo\)](https://open.spotify.com/album/23W9YrV5f32i4boR90nsmj) | 6:22 |
+| 47 | [Hoje Tem Cor](https://open.spotify.com/track/63ICcEPOOPlcSHXzQXQMDH) | [Salvaon](https://open.spotify.com/artist/1YbTEvDgGkTuBpMFtHDbgG) | [LIVE](https://open.spotify.com/album/3BVK1en3BkNnAhpJxULFD3) | 5:53 |
+| 48 | [Lado a Lado](https://open.spotify.com/track/0GTm4VBJFD2UXrgirOvAtE) | [Judas O Outro](https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT) | [Lado a Lado](https://open.spotify.com/album/3YjjJX4higvdh2gqKxHs9O) | 3:45 |
+| 49 | [OH! Se Fendesses \- Ao Vivo](https://open.spotify.com/track/2DdXmwABkeRvYEwAttO5Gk) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [OH! Se Fendesses \(Ao Vivo\)](https://open.spotify.com/album/23W9YrV5f32i4boR90nsmj) | 6:22 |
+| 50 | [Caminho Sem Volta](https://open.spotify.com/track/0KyqZzXWJSInwvSlCkFvUh) | [Stone Worship](https://open.spotify.com/artist/5os8iRRBrrRuvfN85jnuIf) | [Caminho Sem Volta](https://open.spotify.com/album/7mzXUBD7si5aoKWckv7gJR) | 3:35 |
 | 51 | [Artifício](https://open.spotify.com/track/5UPGfXS8YBzGYlo6qjajAc) | [Marcelo Sissá](https://open.spotify.com/artist/5bcgyumeouaAtB9NlPL5X3) | [Artifício](https://open.spotify.com/album/1D0PrOO9NiviiCtDWCoLpC) | 3:12 |
 | 52 | [Pura Luz](https://open.spotify.com/track/4ueM9Lm7cMB68qkveLIFG0) | [Os Bravos](https://open.spotify.com/artist/1fR2eijp4FoQX7RmBUeyEm) | [Pura Luz](https://open.spotify.com/album/5dC3nxKgPPfZJD0ZJxTE5D) | 5:45 |
 | 53 | [João 1 \- VEC](https://open.spotify.com/track/4uruuwLWdKR34haz31Ptzk) | [verboemcarne](https://open.spotify.com/artist/1VroOoldHXjh6NJxDE4rSY) | [Vida/Eternidade](https://open.spotify.com/album/3upWhnmQOjNyyUyFnIO4PP) | 4:18 |
-| 54 | [Agora Eu Vivo Teu Amor](https://open.spotify.com/track/7xZmvwdTsv3Yn8iCTsaVl0) | [Stone Worship](https://open.spotify.com/artist/5os8iRRBrrRuvfN85jnuIf) | [Agora Eu Vivo Teu Amor](https://open.spotify.com/album/32ZRNqlaLU1i87f73nuEvO) | 3:10 |
-| 55 | [Mateus 6:6](https://open.spotify.com/track/2xRsrkp44Jcw3G2IgMiU8P) | [Abel Junho](https://open.spotify.com/artist/3oI345jxR8FTbMegl0N1mn) | [Mateus 6:6](https://open.spotify.com/album/68gKXAe1jppn328oF3ElLH) | 4:53 |
-| 56 | [Louco \(feat\. PG\)](https://open.spotify.com/track/6BFJMuXwEzGLWkjB0pOxDV) | [Fred Arrais](https://open.spotify.com/artist/4b6QClfbEvFpOu9Nuyun0Q), [PG](https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM) | [Louco \(feat\. PG\)](https://open.spotify.com/album/4yc5e16AJYtTFxCv4J0VTg) | 5:09 |
+| 54 | [Mateus 6:6](https://open.spotify.com/track/2xRsrkp44Jcw3G2IgMiU8P) | [Abel Junho](https://open.spotify.com/artist/3oI345jxR8FTbMegl0N1mn) | [Mateus 6:6](https://open.spotify.com/album/68gKXAe1jppn328oF3ElLH) | 4:53 |
+| 55 | [Louco \(feat\. PG\)](https://open.spotify.com/track/6BFJMuXwEzGLWkjB0pOxDV) | [Fred Arrais](https://open.spotify.com/artist/4b6QClfbEvFpOu9Nuyun0Q), [PG](https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM) | [Louco \(feat\. PG\)](https://open.spotify.com/album/4yc5e16AJYtTFxCv4J0VTg) | 5:09 |
+| 56 | [Recomeço](https://open.spotify.com/track/3TKsDD8fBxFjUmGVBu8pCp) | [ID2](https://open.spotify.com/artist/6gmPdxck5HrtNl6ahkoC12) | [Recomeço](https://open.spotify.com/album/3jbcS03ePcUE8WpIwexDEZ) | 3:45 |
 | 57 | [Meu Valor](https://open.spotify.com/track/4FnjAbTNsfIk1C0Byu1WGq) | [A Trilha](https://open.spotify.com/artist/3wHYVqzrG53DzO5mgwp0tk) | [Meu Valor](https://open.spotify.com/album/4geKNbzhHEZ8oCgBOvmLXu) | 2:53 |
-| 58 | [Recomeço](https://open.spotify.com/track/3TKsDD8fBxFjUmGVBu8pCp) | [ID2](https://open.spotify.com/artist/6gmPdxck5HrtNl6ahkoC12) | [Recomeço](https://open.spotify.com/album/3jbcS03ePcUE8WpIwexDEZ) | 3:45 |
+| 58 | [Agora Eu Vivo Teu Amor](https://open.spotify.com/track/7xZmvwdTsv3Yn8iCTsaVl0) | [Stone Worship](https://open.spotify.com/artist/5os8iRRBrrRuvfN85jnuIf) | [Agora Eu Vivo Teu Amor](https://open.spotify.com/album/32ZRNqlaLU1i87f73nuEvO) | 3:10 |
 | 59 | [Sua Glória](https://open.spotify.com/track/3LbpF0O7PyFNhz1pZyjFsB) | [Luzlive](https://open.spotify.com/artist/40kzfUaDe3Pq6r0evczeaa), [Jeff Damaceno](https://open.spotify.com/artist/3hGe1TAvsdAEQMcubxxpgQ), [Arthur Lemos](https://open.spotify.com/artist/5pOq7exRqZuoSibuUQa4dz) | [Sua Glória](https://open.spotify.com/album/6K1HD84eh9d8xLSEjOzyAU) | 7:53 |
 | 60 | [Te Seguirei](https://open.spotify.com/track/2mC1lYtVlPs8NEvqeszUh7) | [Tarik Mohallem](https://open.spotify.com/artist/1gRga6tLnfNeH5SvLkB4n5) | [Te Seguirei](https://open.spotify.com/album/6WJ9CUymLjKJ2Xs9vW1S3E) | 4:50 |
 | 61 | [Sobre as Águas](https://open.spotify.com/track/7KmvG8syUkJueaI8IlHO1d) | [Hugo Santos](https://open.spotify.com/artist/7Jtov6LgLwkFhRW3lpE3lb) | [Exílio](https://open.spotify.com/album/46lSrHXtNUI1LtRe0C6Bed) | 4:39 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0BlvV9acBN.md) - [plain]
 | 69 | [Essência](https://open.spotify.com/track/6NWnC1i5JJsuqcO94XkpzF) | [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd) | [Essência](https://open.spotify.com/album/4o9nv6ts5TjlhYSQXMIxJ7) | 4:29 |
 | 70 | [Aonde Está Deus](https://open.spotify.com/track/5uFP9ZbZG1aqJx1jbaFNqF) | [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd) | [Basic Session, Vol\. 1](https://open.spotify.com/album/2a0ofu5yp0e9WPLpYjUZN4) | 4:24 |
 
-Snapshot ID: `MTY2NTc1NjQ2MSwwMDAwMDAwMGI0YTc5ZjZmZGJhNGQwOTFkYjVkYTQ4ZTdlMTAzOWY4`
+Snapshot ID: `MTY2NTc1NjQ2MSwwMDAwMDAwMDJkYTJkN2NmZmIyYmY5MGZhYTQ5YzNhZDdlYTcxOTEy`

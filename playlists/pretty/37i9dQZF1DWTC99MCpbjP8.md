@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTC99MCpbjP8.md) - [plain]
 
 > Slow down and relax with a mix of calming music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,921 likes - 332 songs - 14 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,066 likes - 332 songs - 14 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -230,7 +230,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTC99MCpbjP8.md) - [plain]
 | 220 | [Weightless](https://open.spotify.com/track/3yXQyJLMVElujd88Gt4fAf) | [Norman Dück](https://open.spotify.com/artist/5v5UYx58FiFAcbWIjZ4kPB) | [Weightless](https://open.spotify.com/album/7xkqit6sN8sKvCfT62uw3s) | 2:18 |
 | 221 | [cold embrace](https://open.spotify.com/track/7edfdEV5G5gJUkiPP6g8AD) | [Gian Marco Castro](https://open.spotify.com/artist/3eKHhTJoTeSu0BNBls4ju6) | [cold embrace](https://open.spotify.com/album/6Bjg1HMdsEf532a4V3AHTF) | 2:57 |
 | 222 | [Colorado Nights](https://open.spotify.com/track/6CTYTP3Kb3TKDLurnsPcOP) | [Lander Jacobson](https://open.spotify.com/artist/3loblVZXbtYpTvNtkp4V1s) | [Colorado Nights](https://open.spotify.com/album/3CqYjTyGVynO1zpNagTctc) | 2:50 |
-| 223 | [Agonize](https://open.spotify.com/track/4iG6wXPpZIYIpOVkra8SCh) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm) | [The Self](https://open.spotify.com/album/5ULLBGQvMfWw2EeyLiVP56) | 2:51 |
+| 223 | [Agonize](https://open.spotify.com/track/47QI1Wamg93qBYV60nSjUn) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm) | [Agonize](https://open.spotify.com/album/0UhDXcyKJTmhdKQXJHxm4d) | 2:51 |
 | 224 | [Sunnebovals](https://open.spotify.com/track/0ob3wzPe3R3NpJtUEz0wUQ) | [Christian Peterson\-Bergling](https://open.spotify.com/artist/0jXPRVmiApahArJiibipfH) | [Sunnebovals](https://open.spotify.com/album/7HFD5GTgPyDOGNaFZKdecx) | 2:53 |
 | 225 | [In Reform](https://open.spotify.com/track/4Z3FuHB9SiTfOENBGlSxvI) | [Phileas Galle](https://open.spotify.com/artist/7LXOaqA9V8tLPULaZyYO68) | [In Reform](https://open.spotify.com/album/4anNfpO1diBCnuNgmNL1uL) | 2:35 |
 | 226 | [Glow](https://open.spotify.com/track/3lM1BCOR6zXKsvC7I3eABX) | [Michael Logozar](https://open.spotify.com/artist/3CdSdPQ1G7MjoUWr3Hm2P2) | [Glow](https://open.spotify.com/album/0XirurPx9hImK25nVbAGXo) | 2:23 |
@@ -341,4 +341,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTC99MCpbjP8.md) - [plain]
 | 331 | [A Bad Dream That Will Pass Away](https://open.spotify.com/track/6XTKYGyydndSUV3OHHDwZU) | [Luke Howard](https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf) | [A Bad Dream That Will Pass Away](https://open.spotify.com/album/4VCzs0bZIXVoNxQq5sGAnm) | 2:56 |
 | 332 | [Dear](https://open.spotify.com/track/7ICZkeodyeK8foAiGbJjOI) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3) | [Dear](https://open.spotify.com/album/6WtvQb9SmGvC3Gg7Jc0vDk) | 1:56 |
 
-Snapshot ID: `MTY2Mzk0MjQyMiwwMDAwMDAwMDI0YjQxOWI5NDhhMmQ4YjYzNjgwMzdiZDM4N2Y2ZDY0`
+Snapshot ID: `MTY2Mzk0MjQyMiwwMDAwMDAwMGYxYjIwYTYxOTJlYjMwNDY3MjU4ZjcxNjI4MjFjOTUy`

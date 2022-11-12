@@ -4,7 +4,7 @@
 
 > Mantras for meditation
 
-55 songs - 18 hr 46 min - [published](https://open.spotify.com/playlist/0ZArVYnALiXKBCImTtYEH2)
+56 songs - 18 hr 47 min - [published](https://open.spotify.com/playlist/0ZArVYnALiXKBCImTtYEH2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [Hari Om Tat Sat \- 108 Times](https://open.spotify.com/track/3eiRqZHxIzfKdorBTT9Hl0) | [Meditative Mind](https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7) | [9 Golden Mantras](https://open.spotify.com/album/13IRm41CPRStJifiLLyIw1) | 14:16 | 2022-01-24 | 2022-08-06 |
 | [Hari Om Tat Sat \- 108 Times](https://open.spotify.com/track/63iw2oXKHiwczTBAbZMxB7) | [Meditative Mind](https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7) | [9 Golden Mantras](https://open.spotify.com/album/5nQV0wq77XlLeRHXCregdk) | 14:16 | 2022-01-24 | 2022-07-29 |
 | [Kar Darshanam](https://open.spotify.com/track/2kavzWD9eedpa1ueYu79pW) | [Ravindra Sathe](https://open.spotify.com/artist/4I5QgST39jQbLzuWTgUKcX), [Sadhana Sargam](https://open.spotify.com/artist/1HGMG8RHvcu1mfdM9MeTek), [Harish Bhimani](https://open.spotify.com/artist/4Ue0breeduMNArt1jlqe7d), [Chorus](https://open.spotify.com/artist/2Bu3DMTHHdXW4jnhoWHhPa) | [Morning Mantras](https://open.spotify.com/album/08xbsX0guYMVjMe7oThBlp) | 1:01 | 2022-01-24 | 2022-07-29 |
-| [Kar Darshanam](https://open.spotify.com/track/46Uvk0oU8R4iQSM8OMCdVv) | [Sadhana Sargam](https://open.spotify.com/artist/1HGMG8RHvcu1mfdM9MeTek) | [Morning Mantras](https://open.spotify.com/album/7rZWkCmz3Eli2Q9WkOXV0W) | 1:01 | 2022-01-24 |  |
+| [Kar Darshanam](https://open.spotify.com/track/46Uvk0oU8R4iQSM8OMCdVv) | [Sadhana Sargam](https://open.spotify.com/artist/1HGMG8RHvcu1mfdM9MeTek) | [Morning Mantras](https://open.spotify.com/album/7rZWkCmz3Eli2Q9WkOXV0W) | 1:01 | 2022-01-24 | 2022-11-12 |
+| [Kar Darshanam](https://open.spotify.com/track/4fY8FE3Pd1VgIyMvrBcr61) | [Sadhana Sargam](https://open.spotify.com/artist/1HGMG8RHvcu1mfdM9MeTek) | [Sunrise to Sunset, Vol\. 1](https://open.spotify.com/album/4FDIr0MnhY9R9YKaqOwdBa) | 1:01 | 2022-08-05 |  |
 | [Krishna Mahamantra](https://open.spotify.com/track/6HaQSjTVMgoP8su4Pe7jOo) | [Vipin Aneja](https://open.spotify.com/artist/019iJ3BZtBNRA4y3ZmbGS1) | [Krishna Mahamantra](https://open.spotify.com/album/1355u11U7qgSL4pRBEVhKF) | 5:29 | 2022-01-24 |  |
 | [Lakshmi Kuber Mantra for Wealth](https://open.spotify.com/track/121hBveqClHdxGw2nFBkvH) | [Adarsh Kumar](https://open.spotify.com/artist/1K4uZRg2n9J2tglA7VrQSe) | [Lakshmi Kuber Mantra for Wealth \(Original\)](https://open.spotify.com/album/5lhFAsLy6Ym3Qiz03HUPr5) | 36:33 | 2022-01-24 | 2022-07-29 |
 | [Maha Mrityunjaya Mantra: 108 Times](https://open.spotify.com/track/3cplraVhxGkrXNROQD62ko) | [Meditative Mind](https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7) | [Maha Mrityunjaya Mantra: 108 Times](https://open.spotify.com/album/7rMORqnjuLaCsTBOtvitUr) | 49:36 | 2022-01-24 |  |

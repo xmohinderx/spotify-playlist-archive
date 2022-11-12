@@ -4,7 +4,7 @@
 
 > 作曲、編曲、プロデュースワークを中心に活動。ジャンルを超えた表現で三木鶏郎広告音楽賞等、数々のアワードを受賞。
 
-113 songs - 8 hr 4 min - [published](https://open.spotify.com/playlist/4DkdDOCbJszfCHw9VWkIi5)
+115 songs - 8 hr 11 min - [published](https://open.spotify.com/playlist/4DkdDOCbJszfCHw9VWkIi5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,10 +24,12 @@
 | [Eternal Memories](https://open.spotify.com/track/594TLPkEKLpd1qxts6aC9R) | [Crystal Kay](https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM) | [BEST of CRYSTAL KAY](https://open.spotify.com/album/7I8VJFB0SMwdrYiPpL44xh) | 5:08 | 2022-02-28 |  |
 | [Fly up in the air \~ Tension](https://open.spotify.com/track/09P81sHzg0kgGKtRtdBqcZ) | [MEMBERS OF ISRAEL](https://open.spotify.com/artist/3YuzaXle16gxckseOvaznO), [Philharmonic Orchestra](https://open.spotify.com/artist/4nUgYF7wmkUux1M9SdXM0h) | [「MACROSS PLUS」ORIGINAL SOUNDTRACK](https://open.spotify.com/album/5GAVQImOGSyQXvMQA3MqQ4) | 6:17 | 2022-02-28 | 2022-07-29 |
 | [Fly up in the air \~ Tension](https://open.spotify.com/track/57P8lukHho2QqRUsg9l9i1) | [MEMBERS OF ISRAEL](https://open.spotify.com/artist/3YuzaXle16gxckseOvaznO), [Philharmonic Orchestra](https://open.spotify.com/artist/4nUgYF7wmkUux1M9SdXM0h) | [MACROSS PLUS ORIGINAL SOUNDTRACK](https://open.spotify.com/album/13vrWwIfBEpGPJOfqfjNk8) | 6:17 | 2022-02-28 |  |
-| [Flying Dragon](https://open.spotify.com/track/7J5E5BotnQlI6K2rxUQ4tJ) | [Warsaw Philharmonic Orchestra](https://open.spotify.com/artist/3Wqs5ZgX7Orq4YKtPhHdED) | [The Vision of Escaflowne \(Original Motion Picture Soundtrack 1\)](https://open.spotify.com/album/4zBOySfThJ2wF4ZLhYroCR) | 2:39 | 2022-02-28 |  |
+| [Flying Dragon](https://open.spotify.com/track/7J5E5BotnQlI6K2rxUQ4tJ) | [Warsaw Philharmonic Orchestra](https://open.spotify.com/artist/3Wqs5ZgX7Orq4YKtPhHdED) | [The Vision of Escaflowne \(Original Motion Picture Soundtrack 1\)](https://open.spotify.com/album/4zBOySfThJ2wF4ZLhYroCR) | 2:39 | 2022-02-28 | 2022-11-12 |
+| [Flying Dragon](https://open.spotify.com/track/7voPXjubQFKfRrRv5psSWJ) | [Yoko Kanno](https://open.spotify.com/artist/0lbYsAt8JNKNjttbncKg8i) | [The Vision of Escaflowne \- Lovers Only](https://open.spotify.com/album/2v3idQTfuVOSyuC7meKSMO) | 2:39 | 2022-02-28 |  |
 | [FLYING DRAGON](https://open.spotify.com/track/6nTOZHixhtNixU56RnzKaa) | [ワルシャワ・フィルハーモニック・オーケストラ](https://open.spotify.com/artist/7l4pAVescIEdPRGT8WA53p) | [「天空のエスカフローネ」ORIGINAL SOUNDTRACK](https://open.spotify.com/album/71UWqGmTtpgFWn7m7anIr8) | 2:37 | 2022-02-28 | 2022-07-29 |
 | [Go Tight!](https://open.spotify.com/track/5sa9qL7gEN2CrL9BlN9rAO) | [AKINO](https://open.spotify.com/artist/4JPnS8d4UIBnRZf4FiOx6o) | [「創聖のアクエリオン」オープニングテーマ Go Tight!](https://open.spotify.com/album/50l3rfBJ0VpkXvHW63T4RL) | 4:40 | 2022-02-28 |  |
-| [Hashire Hashire](https://open.spotify.com/track/3Xa8rSFdoqXHmilkjbNsba) | [Kyoko Endo](https://open.spotify.com/artist/5xOKs0yqtUnyLnZcwtcyEQ) | [GOLDEN BEST Kagayakitai no \[Victor Years 1981\-1985 \(+'99\)\]](https://open.spotify.com/album/4s7IzBa4w9Ta87nZJlc7UW) | 4:35 | 2022-02-28 |  |
+| [Hashire Hashire](https://open.spotify.com/track/5BHPK7NJ7vewxIFA51Q6Vz) | [Kyoko Endo](https://open.spotify.com/artist/5xOKs0yqtUnyLnZcwtcyEQ) | [DAI GUARD Ending Theme Hashire Hashire](https://open.spotify.com/album/49XVUelIMkR0KQ2kCEVT7M) | 4:30 | 2022-02-28 |  |
+| [Hashire Hashire](https://open.spotify.com/track/3Xa8rSFdoqXHmilkjbNsba) | [Kyoko Endo](https://open.spotify.com/artist/5xOKs0yqtUnyLnZcwtcyEQ) | [GOLDEN BEST Kagayakitai no \[Victor Years 1981\-1985 \(+'99\)\]](https://open.spotify.com/album/4s7IzBa4w9Ta87nZJlc7UW) | 4:35 | 2022-02-28 | 2022-11-12 |
 | [i do](https://open.spotify.com/track/0a1lNJpEUI3bOTI5VEdgaP) | [Ilaria Graziano](https://open.spotify.com/artist/57WViMLL9KfooFkVKsyODr) | [攻殻機動隊 STAND ALONE COMPLEX O.S.T.2](https://open.spotify.com/album/6vnGlRzjCpJdnojTZZojMc) | 4:49 | 2022-02-28 |  |
 | [Iteza Gogo Kuji Don't be late](https://open.spotify.com/track/0kPsiiL5q1N54ywIbv1uaV) | [Sheryl Nome starring May'n](https://open.spotify.com/artist/5U8dcKsZ0mmeiUgbM0jvFC) | [MACROSS FRONTEER Ending Theme Diamond Crevasse / Iteza Gogo Kuji don't be late](https://open.spotify.com/album/66iUYxmg9mWPc4xbrpo9hq) | 5:43 | 2022-02-28 |  |
 | [Julia's Song \(feat\. Elena Satine\)](https://open.spotify.com/track/3ADTWncwDSDT5TvbRgI6vt) | [SEATBELTS](https://open.spotify.com/artist/3U3zr5PCRa9ty74uN46iBa), [Elena Satine](https://open.spotify.com/artist/1sj1fhz7j55cuyqrlYu2uP) | [COWBOY BEBOP \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/539jKDvQomLMWGBEkjyTWX) | 2:37 | 2022-02-28 |  |

@@ -752,6 +752,24 @@
     },
     {
       "album": {
+        "name": "Ultimate Irish Folk",
+        "url": "https://open.spotify.com/album/1VVCwLrGiiU3S5t0rzX185"
+      },
+      "artists": [
+        {
+          "name": "Tommy Makem",
+          "url": "https://open.spotify.com/artist/3oehGAh6rLM6LFdzM7E7zM"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204413,
+      "name": "The Butcher Boy",
+      "url": "https://open.spotify.com/track/4zOopTD0zKIinqgTTbefVS"
+    },
+    {
+      "album": {
         "name": "Songs of Tommy Makem",
         "url": "https://open.spotify.com/album/7bOc9jb25IV1noFgJjgT5g"
       },
@@ -763,7 +781,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 204426,
       "name": "The Butcher Boy",
       "url": "https://open.spotify.com/track/1QLPlGwxxd1xoMLAtKSMGU"

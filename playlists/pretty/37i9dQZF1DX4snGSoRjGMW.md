@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4snGSoRjGMW.md) - [plain]
 
 > Soul meets blues\. Cover: Bettye LaVette
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,653 likes - 60 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,671 likes - 60 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4snGSoRjGMW.md) - [plain]
 | 20 | [The High Road](https://open.spotify.com/track/36vAHOr65vVohDeyDOKbfN) | [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [I've Got My Own Hell To Raise](https://open.spotify.com/album/0JTNbX0ZE6zvhxk02nfLLC) | 4:29 |
 | 21 | [Money Is The Name Of The Game](https://open.spotify.com/track/2eXE8IO1M5lyu2H7Qyi7hL) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [Old School](https://open.spotify.com/album/36avF49BDsiQjdjMxo3nqF) | 6:48 |
 | 22 | [It's Harder Now \- Remix](https://open.spotify.com/track/1VXoeEb0rhalFjoSIde0vo) | [Wilson Pickett](https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE) | [It Ain't Easy: Essential Recordings](https://open.spotify.com/album/3OtKfYKnLZbmqdrBNCbkNU) | 3:42 |
-| 23 | [Bone It Like You Own It](https://open.spotify.com/track/1LhlJisWDjvYhmxtlXDXUT) | [Denise LaSalle](https://open.spotify.com/artist/0GVO1kqJHVxOarPgex9K15) | [Wanted](https://open.spotify.com/album/16fiGM53IxqzhvGusMmyEJ) | 4:47 |
+| 23 | [Stronger Than You Need To Be](https://open.spotify.com/track/111lEceXGPf5AX8yntrQaK) | [W.C\. Clark](https://open.spotify.com/artist/2eJojpx2Dv1QL3WBjJQXWi) | [Deep In The Heart](https://open.spotify.com/album/5uQXDTWnEd0roTdrSUN1ba) | 4:05 |
 | 24 | [Landslide](https://open.spotify.com/track/6JsbedmV8u4I6ZxxM14xhu) | [Walter Wolfman Washington](https://open.spotify.com/artist/60TxtNQBbDL8HKL0b6Gm3T) | [Doin' The Funky Thing](https://open.spotify.com/album/3Bht3SLGHo8rJVrYlSkc7v) | 5:13 |
-| 25 | [Stronger Than You Need To Be](https://open.spotify.com/track/111lEceXGPf5AX8yntrQaK) | [W.C\. Clark](https://open.spotify.com/artist/2eJojpx2Dv1QL3WBjJQXWi) | [Deep In The Heart](https://open.spotify.com/album/5uQXDTWnEd0roTdrSUN1ba) | 4:05 |
+| 25 | [Bone It Like You Own It](https://open.spotify.com/track/1LhlJisWDjvYhmxtlXDXUT) | [Denise LaSalle](https://open.spotify.com/artist/0GVO1kqJHVxOarPgex9K15) | [Wanted](https://open.spotify.com/album/16fiGM53IxqzhvGusMmyEJ) | 4:47 |
 | 26 | [Out Of Love](https://open.spotify.com/track/4eWh67wskXcVPXFdSSlrQS) | [Steve Cropper](https://open.spotify.com/artist/1gLCO8HDtmhp1eWmGcPl8S) | [Fire It Up](https://open.spotify.com/album/4Xsv6JN4IqEz3rXfPCBAkn) | 3:42 |
 | 27 | [I Know](https://open.spotify.com/track/1LSC4TKKoJCbpAEsyvRmkQ) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Makin Love is Good For You \(Expanded Edition\)](https://open.spotify.com/album/563MMooudFTTaYPBW4ODvY) | 3:49 |
 | 28 | [Kick My Cheatin' Habits](https://open.spotify.com/track/64NtFAXA4Ko81zOpX5IYKA) | [Little Milton](https://open.spotify.com/artist/0MPtuQaV2GiRdLjAkPOaan) | [Cheatin' Habit](https://open.spotify.com/album/6eeNKMUfztxq7CL6nYKyQc) | 4:41 |
@@ -54,19 +54,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4snGSoRjGMW.md) - [plain]
 | 44 | [Reckless Heart](https://open.spotify.com/track/2P4SDDe2O1sMNETDMK2NXF) | [Johnny Rawls](https://open.spotify.com/artist/7vuXCITiRilCLfuySIgZKM) | [Tiger in a Cage](https://open.spotify.com/album/2y2airR6ysuixHtrYfHpEG) | 4:25 |
 | 45 | [Girl Your Best Friend Done Took Your Place](https://open.spotify.com/track/7hpfCSScaK9u7Lq6pZRMvC) | [Joey Gilmore](https://open.spotify.com/artist/3plaeA9K4obOgZifz8qx64) | [Eccentric Soul: The Saadia Label](https://open.spotify.com/album/6qA44kTPPgHYcpphlPqMei) | 2:55 |
 | 46 | [Yes, I've Been Crying](https://open.spotify.com/track/3IVdACtG1mtDxxcpZGORWY) | [Lavelle White](https://open.spotify.com/artist/4GJ4yxV0hwx6Y1mfc3Qxwz) | [Miss Lavelle](https://open.spotify.com/album/1hJCYmBzQiuTMPoLMUxKDB) | 3:54 |
-| 47 | [Stop Doggin Me Around](https://open.spotify.com/track/4CI56rOk5ClZPhxgnvRcP7) | [Joyce Lawson](https://open.spotify.com/artist/0Hw5PTRTJMSYkLGnIqQeqW) | [Today I Sing The Blues](https://open.spotify.com/album/2FETHI04M6eFdnKaDBaiqF) | 4:35 |
+| 47 | [On The Surface](https://open.spotify.com/track/0qQTdGIA3YPcC1L3kaJpm4) | [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [I've Got My Own Hell To Raise](https://open.spotify.com/album/0JTNbX0ZE6zvhxk02nfLLC) | 3:26 |
 | 48 | [I Can't Stop](https://open.spotify.com/track/4zKzINcISloFWm2mh0yyFG) | [Syl Johnson](https://open.spotify.com/artist/6XItHNeKXecnFpkJHOn5JL) | [Back In The Game](https://open.spotify.com/album/1LJKmJgD6dS77Ud3MgEqsZ) | 4:17 |
-| 49 | [You're Only Good For One Thang Baby](https://open.spotify.com/track/0CLPTSldV2Dp016RKyBUqi) | [Sista Monica](https://open.spotify.com/artist/22FdZlPVKxIeNwRHvx74A7) | [People Love The Blues](https://open.spotify.com/album/7bfoTZkMiZ6GzNvTydX9ax) | 3:28 |
-| 50 | [On The Surface](https://open.spotify.com/track/0qQTdGIA3YPcC1L3kaJpm4) | [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [I've Got My Own Hell To Raise](https://open.spotify.com/album/0JTNbX0ZE6zvhxk02nfLLC) | 3:26 |
-| 51 | [I Won't Be Lonely](https://open.spotify.com/track/7nRPUUqMMwAt4sDBaoODA2) | [Willie Walker](https://open.spotify.com/artist/4ATDRGpJ9wi6e5FRYb8C2t), [The Butanes](https://open.spotify.com/artist/3zlUDjxwrKGcnAvgPG2c3L) | [Memphisapolis](https://open.spotify.com/album/6TEps2bRTcnlOVvIIhGutL) | 3:47 |
+| 49 | [I Won't Be Lonely](https://open.spotify.com/track/7nRPUUqMMwAt4sDBaoODA2) | [Willie Walker](https://open.spotify.com/artist/4ATDRGpJ9wi6e5FRYb8C2t), [The Butanes](https://open.spotify.com/artist/3zlUDjxwrKGcnAvgPG2c3L) | [Memphisapolis](https://open.spotify.com/album/6TEps2bRTcnlOVvIIhGutL) | 3:47 |
+| 50 | [Stop Doggin Me Around](https://open.spotify.com/track/4CI56rOk5ClZPhxgnvRcP7) | [Joyce Lawson](https://open.spotify.com/artist/0Hw5PTRTJMSYkLGnIqQeqW) | [Today I Sing The Blues](https://open.spotify.com/album/2FETHI04M6eFdnKaDBaiqF) | 4:35 |
+| 51 | [You're Only Good For One Thang Baby](https://open.spotify.com/track/0CLPTSldV2Dp016RKyBUqi) | [Sista Monica](https://open.spotify.com/artist/22FdZlPVKxIeNwRHvx74A7) | [People Love The Blues](https://open.spotify.com/album/7bfoTZkMiZ6GzNvTydX9ax) | 3:28 |
 | 52 | [You Got the Goods on You](https://open.spotify.com/track/5ad6BP0tSKEHMC2fOStbdj) | [Bobby Rush](https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi) | [Sitting on Top of the Blues](https://open.spotify.com/album/2Kf9UPahXKB2vrPUcw7M10) | 4:03 |
 | 53 | [Whisper Away](https://open.spotify.com/track/3ZUbWKDZxdFuI2HHGH8enX) | [Bobby Wayne](https://open.spotify.com/artist/1c7LcpebChhXtB7fzeu3NA) | [Hit That Thing](https://open.spotify.com/album/46rNncqCqYequ72xyfnD55) | 7:17 |
-| 54 | [Engines And Wings](https://open.spotify.com/track/5DKD8QtRqQbCwIQ7mTXPpl) | [Little Buster & the Soul Brothers](https://open.spotify.com/artist/6UN2nDyCut9rrFFhfrO1Qs) | [Right On Time!](https://open.spotify.com/album/0fasWjmufll2DjLombteEC) | 4:16 |
-| 55 | [Someday Baby](https://open.spotify.com/track/2SSqOWVTbKN0pTTKjgy6dg) | [Chick Willis](https://open.spotify.com/artist/0NrO6QCCIuFygHBeEN670A) | [From the Heart and Soul](https://open.spotify.com/album/3uwUrRcmhucNTtlNmaXtNn) | 4:42 |
+| 54 | [Someday Baby](https://open.spotify.com/track/2SSqOWVTbKN0pTTKjgy6dg) | [Chick Willis](https://open.spotify.com/artist/0NrO6QCCIuFygHBeEN670A) | [From the Heart and Soul](https://open.spotify.com/album/3uwUrRcmhucNTtlNmaXtNn) | 4:42 |
+| 55 | [Engines And Wings](https://open.spotify.com/track/5DKD8QtRqQbCwIQ7mTXPpl) | [Little Buster & the Soul Brothers](https://open.spotify.com/artist/6UN2nDyCut9rrFFhfrO1Qs) | [Right On Time!](https://open.spotify.com/album/0fasWjmufll2DjLombteEC) | 4:16 |
 | 56 | [You Push Me to My Limit](https://open.spotify.com/track/30FExzMY0ImrM8Rt80b4jF) | [Ellis Hooks](https://open.spotify.com/artist/34kbTdkDg4bV3RbJ4sf9ru) | [Black Market](https://open.spotify.com/album/1dkyqTdqIGnNc9etO4EroD) | 3:16 |
 | 57 | [Going to the Shack](https://open.spotify.com/track/7Edg1SdyEws5DfX5FEkME2) | [Billy Price](https://open.spotify.com/artist/509o7Fm0youPHjgcq5nCRI), [Otis Clay](https://open.spotify.com/artist/2jV8AcZ8W3TfiqInUGWwlL) | [This Time For Real](https://open.spotify.com/album/749QhTw8T5oHNNZ3MigsLQ) | 4:15 |
 | 58 | [I Can't Hold It](https://open.spotify.com/track/1YIEDMHFSa43AFA3fNtbk6) | [Lou Pride](https://open.spotify.com/artist/3AEOeIFNFooiCVzG5BD5kZ) | [Keep On Believing](https://open.spotify.com/album/1Ujf4A1kIy1BW6RqW9CJYN) | 4:25 |
 | 59 | [Cold This Winter](https://open.spotify.com/track/2UhYPOsrE0iluqm288o6l9) | [Ernie Johnson](https://open.spotify.com/artist/7rVOargGPV6QSrBZJ3JQLr) | [In The Mood](https://open.spotify.com/album/3GC2tIQGFII8o9Awi5SpUB) | 5:00 |
 | 60 | [Sweet Dynamite!](https://open.spotify.com/track/2UsMjBWTZftDuCmF5QGN0g) | [Syl Johnson](https://open.spotify.com/artist/6XItHNeKXecnFpkJHOn5JL) | [Talkin' About Chicago](https://open.spotify.com/album/2COElwuZipCYIYNPvxpdCj) | 4:31 |
 
-Snapshot ID: `MTY2NDUxMDQ2MCwwMDAwMDAwMDYxNWI1ZDE2YTJlYWZmNmU2OTA0YjBlZWI5ZWQ2MWM5`
+Snapshot ID: `MTY2NDUxMDQ2MCwwMDAwMDAwMGE5MDUxNGE0NzAwY2FiZjU2NzlhZmIxMzExYWExODIw`

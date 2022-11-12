@@ -126,6 +126,28 @@
     },
     {
       "album": {
+        "name": "BAILAR CONTIGO",
+        "url": "https://open.spotify.com/album/0WzsZzwIw15yVvkBHx3XRG"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "date_added": "2022-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223352,
+      "name": "BAILAR CONTIGO",
+      "url": "https://open.spotify.com/track/2GdHCkeAycTJ1RgMlptaRE"
+    },
+    {
+      "album": {
         "name": "Baloncito Viejo",
         "url": "https://open.spotify.com/album/6pXlVFGw6ydQu6aOCEUHDe"
       },
@@ -509,6 +531,32 @@
       "duration_ms": 198773,
       "name": "Danza Kuduro",
       "url": "https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw"
+    },
+    {
+      "album": {
+        "name": "Delincuente",
+        "url": "https://open.spotify.com/album/3QySYdsvCpB84Tvzkj24Ta"
+      },
+      "artists": [
+        {
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        }
+      ],
+      "date_added": "2022-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226490,
+      "name": "Delincuente",
+      "url": "https://open.spotify.com/track/2ROQe6QkIXODJRx0y8UjzV"
     },
     {
       "album": {
@@ -1041,7 +1089,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 210396,
       "name": "Hora Loca",
       "url": "https://open.spotify.com/track/2E5NKtMEuJoDkbWTRbRuXy"
@@ -1481,7 +1529,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 245098,
       "name": "Mambo (feat. Sean Paul, El Alfa, Sfera Ebbasta & Play-N-Skillz)",
       "url": "https://open.spotify.com/track/30U858jspmM5gcFlCGm3Ar"
@@ -1807,7 +1855,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 235603,
       "name": "Pa' La Cultura",
       "url": "https://open.spotify.com/track/3MR5Lnhd6uCIgLXSK7nmyX"
@@ -2223,6 +2271,28 @@
       "duration_ms": 218274,
       "name": "Qu\u00e9 Rico Fuera",
       "url": "https://open.spotify.com/track/7Bd1mIvqRkIXTPAzw2wBmT"
+    },
+    {
+      "album": {
+        "name": "Qu\u00e9date (Ti\u00ebsto Remix)",
+        "url": "https://open.spotify.com/album/5IZcEkLkf0oQNFlgFGocxr"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "date_added": "2022-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232498,
+      "name": "Qu\u00e9date - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/79wDq3jpGu0yew1ngQpAAi"
     },
     {
       "album": {

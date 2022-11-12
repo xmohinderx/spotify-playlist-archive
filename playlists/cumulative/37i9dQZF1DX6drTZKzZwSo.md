@@ -4,7 +4,7 @@
 
 > Classic funk.
 
-79 songs - 6 hr 4 min - [published](https://open.spotify.com/playlist/66zY7GIyu4yLAF1qxJVp8B)
+82 songs - 6 hr 19 min - [published](https://open.spotify.com/playlist/66zY7GIyu4yLAF1qxJVp8B)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,13 +31,15 @@
 | [Get Up \(I Feel Like Being A\) Sex Machine](https://open.spotify.com/track/2ivdsb1RcEJjIs5tuHkUC9) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Star Time](https://open.spotify.com/album/2yuTyv0L51qvYuI5RIktlA) | 5:16 | 2020-04-14 | 2022-11-11 |
 | [Get Up I Feel Like Being Like A Sex Machine, Pts\. 1 & 2](https://open.spotify.com/track/4QgCP0s10tng51kZq3VTf7) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW), [The Original J.B.s](https://open.spotify.com/artist/4GwjLszGqU37HqCgpBNPoU) | [Gold](https://open.spotify.com/album/35Xv40swznGmD4s6ro7XAd) | 5:16 | 2020-04-14 |  |
 | [Girl Watching](https://open.spotify.com/track/0W2KbxJQrbg9nVS8oEZ4Bb) | [T\-Connection](https://open.spotify.com/artist/4zLYrCC0iBYDV8QmEYzUFS) | [Classic Masters](https://open.spotify.com/album/5sEfCUF1xi7Xkl0LkLFq5z) | 4:53 | 2020-04-14 |  |
-| [Give Up The Funk \(Tear The Roof Off The Sucker\)](https://open.spotify.com/track/4XRkQloZFcRrCONN7ZQ49Y) | [Parliament](https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH) | [Mothership Connection](https://open.spotify.com/album/4q1HNSka8CzuLvC8ydcsD2) | 5:48 | 2020-04-14 |  |
+| [Give Up The Funk \(Tear The Roof Off The Sucker\)](https://open.spotify.com/track/3HTsLJIcpPi11wPUuDOJVs) | [Parliament](https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH) | [Funky Stuff: The Best Of Funk Essentials](https://open.spotify.com/album/0dtx0xhKKD5xFDoI6xSWZK) | 5:46 | 2020-04-14 |  |
+| [Give Up The Funk \(Tear The Roof Off The Sucker\)](https://open.spotify.com/track/4XRkQloZFcRrCONN7ZQ49Y) | [Parliament](https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH) | [Mothership Connection](https://open.spotify.com/album/4q1HNSka8CzuLvC8ydcsD2) | 5:48 | 2020-04-14 | 2022-11-12 |
 | [Got To Give It Up](https://open.spotify.com/track/1sRhJqRRQaSRAiFtkB1pMN) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [The Best Of Disco Funk \(Disco Nights Vol.2\)](https://open.spotify.com/album/58STS86oy7HcgvP6yt6mca) | 6:00 | 2020-04-14 |  |
 | [Got To Give It Up](https://open.spotify.com/track/4JmZyfkzXWN7pHJsJpN6XP) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Favorites](https://open.spotify.com/album/4cRB1vYHEoasDzu5HN5k2D) | 6:01 | 2020-04-14 | 2022-11-11 |
 | [Hair](https://open.spotify.com/track/4o1yx2u3jBmR360WIXZ3L0) | [Graham Central Station](https://open.spotify.com/artist/1OGcRXAY9iO4egWiIBqX8F) | [Graham Central Station](https://open.spotify.com/album/4ZYY6rKxpgH76mdF0u3hvj) | 4:55 | 2020-04-14 |  |
 | [Happy People](https://open.spotify.com/track/6dokyiv4HEy6WWxQCQcOkA) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [A Song For You](https://open.spotify.com/album/4GvCMazBPoxuazsfTFk6CU) | 3:36 | 2020-04-14 |  |
 | [Hollywood Swinging](https://open.spotify.com/track/6igsoAR6Co9u7Rq3U7mlOD) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Wild And Peaceful](https://open.spotify.com/album/3MRgojA0LfPka4RG7aRjsI) | 4:39 | 2021-08-10 |  |
-| [How Long Do I Have to Wait for You?](https://open.spotify.com/track/113bLFbp3F9MVN0w2KJ1ma) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Naturally](https://open.spotify.com/album/1xwNW7Q1daqJ8LNgymY04y) | 4:03 | 2020-04-14 |  |
+| [How Long Do I Have to Wait for You?](https://open.spotify.com/track/113bLFbp3F9MVN0w2KJ1ma) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Naturally](https://open.spotify.com/album/1xwNW7Q1daqJ8LNgymY04y) | 4:03 | 2020-04-14 | 2022-11-12 |
+| [How Long Do I Have to Wait for You?](https://open.spotify.com/track/3F2NnkVwQ7A7qCu2BUGp8q) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Daptone Records Singles Collection: Volume 2](https://open.spotify.com/album/5vu0XeLFtypEMTMc22gVpG) | 4:03 | 2020-04-14 |  |
 | [I Wish \- Single Edit](https://open.spotify.com/track/6Fk2d1IMWZ5yOqUOvLfKdg) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Number 1's](https://open.spotify.com/album/05IKjKz3leUEaULPbENUsy) | 4:31 | 2020-04-14 |  |
 | [I'll Be With You](https://open.spotify.com/track/1cH5gmAdX31JANDnooSbRB) | [Cameo](https://open.spotify.com/artist/545idYhdloaSlLGBY8E9u2) | [Ugly Ego](https://open.spotify.com/album/57X12hXatNE1Ipla9SjJh8) | 4:23 | 2020-04-14 |  |
 | [In the Stone](https://open.spotify.com/track/3qZHUZTQiTMfJXcUYzY5mT) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [I Am](https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt) | 4:48 | 2020-04-14 |  |
@@ -76,7 +78,8 @@
 | [Theme From "Which Way Is Up" \- Single Version](https://open.spotify.com/track/4Dc4hY6hmfdMmTnRg9rgmw) | [Stargard](https://open.spotify.com/artist/5ZvV5BO4R5dwEUPfRKXdUI) | ['70s Soul Number 1's](https://open.spotify.com/album/16DcO9zvZrL0yXSpoOY1HV) | 3:07 | 2020-04-14 |  |
 | [Theme From "Which Way Is Up" \- Single Version](https://open.spotify.com/track/4u5KfkBdLmCloPDTee9ZZV) | [Stargard](https://open.spotify.com/artist/5ZvV5BO4R5dwEUPfRKXdUI) | [Funked!: Volume 3 1977\-1980](https://open.spotify.com/album/5hf3GFwcrKcXNLXs0xgESo) | 3:09 | 2020-04-14 | 2022-11-11 |
 | [Till You Take My Love](https://open.spotify.com/track/6VtO5cZQzv8s3kCFjrXfhi) | [Harvey Mason](https://open.spotify.com/artist/2MNNVXEpagQ3QWiOkXjQyT) | [Funk In A Mason Jar](https://open.spotify.com/album/4FT9zMdYfx8kqaWszNrTxM) | 3:42 | 2020-04-14 |  |
-| [Too Hot Ta Trot](https://open.spotify.com/track/7sP4EhJqFnud6mrG6VbjQx) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [Live!](https://open.spotify.com/album/3rH7V9hbxMtbKyJgROlDvz) | 5:37 | 2020-04-14 |  |
+| [Too Hot Ta Trot](https://open.spotify.com/track/7sP4EhJqFnud6mrG6VbjQx) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [Live!](https://open.spotify.com/album/3rH7V9hbxMtbKyJgROlDvz) | 5:37 | 2020-04-14 | 2022-11-12 |
+| [Too Hot Ta Trot](https://open.spotify.com/track/2dm0eNGhVJ7kLOGvczqTu3) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [Hunk\-a\-Funk](https://open.spotify.com/album/35KR5e5EhWbVWgUq0cJ86q) | 5:37 | 2020-04-14 |  |
 | [Watching You](https://open.spotify.com/track/6QaOKUQLoExtstwVU1ZtM5) | [Slave](https://open.spotify.com/artist/5mtKpqeeaFavW15yIX4h5e) | [Dopamine](https://open.spotify.com/album/21GtIqlg2I5bxv9XKfur4f) | 3:28 | 2020-04-14 |  |
 | [Watching You \- Single Version](https://open.spotify.com/track/1Gde0bfBP6VJVBUkaFZMxz) | [Slave](https://open.spotify.com/artist/5mtKpqeeaFavW15yIX4h5e) | [Stone Jam](https://open.spotify.com/album/7COD6hL6iPGejF8vX9DeuC) | 3:28 | 2020-04-14 | 2022-11-11 |
 | [We Supply](https://open.spotify.com/track/15jrsi4n0S152zsrlWkT3v) | [Stanley Clarke](https://open.spotify.com/artist/1lGt9WgdYGpMnmwGkcCm05) | [The Bass\-ic Collection](https://open.spotify.com/album/7hgSfIM3LS53U3i122ErOM) | 4:10 | 2020-04-14 |  |

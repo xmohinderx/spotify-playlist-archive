@@ -718,6 +718,24 @@
     },
     {
       "album": {
+        "name": "Cafe in Bangkok",
+        "url": "https://open.spotify.com/album/3xiRTD8CdlPdTNaQbI9AyZ"
+      },
+      "artists": [
+        {
+          "name": "Madeleine Peyroux",
+          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237640,
+      "name": "Dance Me To The End Of Love",
+      "url": "https://open.spotify.com/track/0J3zm3hMLDQIOlWSSjJNpu"
+    },
+    {
+      "album": {
         "name": "Careless Love",
         "url": "https://open.spotify.com/album/4Kev9VMY5Ypfo19jRqK6bW"
       },
@@ -729,7 +747,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 237640,
       "name": "Dance Me To The End Of Love",
       "url": "https://open.spotify.com/track/13zjNPZUyWvzZC2dlYjW0L"

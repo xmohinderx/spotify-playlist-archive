@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX23YPJntYMnh.md) - [plain]
 
 > Funk\. But heavier\. Cover: Red Hot Chili Peppers
 
-[Spotify](https://open.spotify.com/user/spotify) - 451,612 likes - 60 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 451,691 likes - 60 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX23YPJntYMnh.md) - [plain]
 | 38 | [Shakey Ground](https://open.spotify.com/track/7426iYRovqN7S11kQdzVvd) | [Fishbone](https://open.spotify.com/artist/2X3pNc13eRGofTO9Yt3sMi) | [Fishbone & The Familyhood Nextperience Presents The Psychotic Friends Nuttwerx](https://open.spotify.com/album/74V4Nn19XGD3iILWataq8Y) | 3:44 |
 | 39 | [Anti Love Song](https://open.spotify.com/track/3zMVsONH6RZv528HANVm3Y) | [Betty Davis](https://open.spotify.com/artist/5Ryxgm3uLvQOsw4H5ZpHDn) | [Betty Davis](https://open.spotify.com/album/6fNx8ioP99WoRiLidrqrmz) | 4:32 |
 | 40 | [Water](https://open.spotify.com/track/307UYyg68MlszzxHBEzmL5) | [Pigeons Playing Ping Pong](https://open.spotify.com/artist/52NOvMXEjgf8MQl0qop2dl) | [Perspective](https://open.spotify.com/album/7f194oEr0tflRH7sUmtMyw) | 6:30 |
-| 41 | [Come Original](https://open.spotify.com/track/7LG5qAX1r73gafhxvzu28K) | [311](https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K) | [Greatest Hits '93 \- '03](https://open.spotify.com/album/0OsjlbBaSZFbZnXGAUysMG) | 3:42 |
+| 41 | [Tunnel Vision](https://open.spotify.com/track/1IuhMns4MRmjIlAdCDE1jR) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Circus](https://open.spotify.com/album/0WGH7xwdRoCCNLJEyQQ4Z0) | 4:19 |
 | 42 | [Tommy The Cat](https://open.spotify.com/track/1efp2bPw7ssJpCi0Almgsx) | [Primus](https://open.spotify.com/artist/64mPnRMMeudAet0E62ypkx) | [They Can't All Be Zingers](https://open.spotify.com/album/3eI0FhygfWcdgI3GZdLXFT) | 4:14 |
-| 43 | [Tunnel Vision](https://open.spotify.com/track/1IuhMns4MRmjIlAdCDE1jR) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Circus](https://open.spotify.com/album/0WGH7xwdRoCCNLJEyQQ4Z0) | 4:19 |
+| 43 | [Come Original](https://open.spotify.com/track/7LG5qAX1r73gafhxvzu28K) | [311](https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K) | [Greatest Hits '93 \- '03](https://open.spotify.com/album/0OsjlbBaSZFbZnXGAUysMG) | 3:42 |
 | 44 | [Tell Your Story Walkin'](https://open.spotify.com/track/2gBnKiNNXCIDLfqVptT6v6) | [Stevie Salas](https://open.spotify.com/artist/6fb78HXq6cKqNjjwZP9dax) | [Back from the Living](https://open.spotify.com/album/6J5Lg92qtxOwyrLrn1Zqfv) | 4:01 |
 | 45 | [Promenade](https://open.spotify.com/track/4KQlPYIchV2VWo8SaWOs9C) | [Street Sweeper Social Club](https://open.spotify.com/artist/1YghQU3PwfnDu94PRfE4pv) | [Street Sweeper Social Club](https://open.spotify.com/album/62R1tsiIXUb9Iq6MuRoaMp) | 2:31 |
 | 46 | [Please Excuse This Funk Up](https://open.spotify.com/track/2RPs5rAbwaMrjlguUC9jux) | [Infectious Grooves](https://open.spotify.com/artist/32R6YbLokiJpZpvFX9Ewo9) | [Mas Borracho](https://open.spotify.com/album/5DYPTOnwkK4f8qmuhoowKH) | 4:37 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX23YPJntYMnh.md) - [plain]
 | 59 | [Justice 2020](https://open.spotify.com/track/20Cq38WdpKCscYtTPTZy0J) | [Dumpstaphunk](https://open.spotify.com/artist/6LvO4vaTTJhCAdpITMpDvC), [Chali 2na](https://open.spotify.com/artist/1ZJlXFkFDBsjSuYyjVcMkk), [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR) | [Where Do We Go From Here](https://open.spotify.com/album/4fd3Nnb4bn3rERllCnKFxR) | 4:53 |
 | 60 | [Lock It In The Pocket](https://open.spotify.com/track/2uSTcrVUckp3k6FuMaEfiq) | [Infectious Grooves](https://open.spotify.com/artist/32R6YbLokiJpZpvFX9Ewo9) | [Mas Borracho](https://open.spotify.com/album/5DYPTOnwkK4f8qmuhoowKH) | 3:36 |
 
-Snapshot ID: `MTY2NjMyNDgwMCwwMDAwMDAwMDIwNGJhZWQ4NDQyZWJhZjcyMjM5M2UzNTk4ODBjYTY4`
+Snapshot ID: `MTY2NjMyNDgwMCwwMDAwMDAwMDkyZTMxNjkyNmZhYjBlNjFlZjY4NmQzMWNhMzBmMDY3`

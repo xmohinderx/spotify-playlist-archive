@@ -1,28 +1,68 @@
 {
-  "description": "De Tijuana a Tierra del Fuego, aqu\u00ed los que dominan el\u00a0juego. Foto: WOS",
-  "num_followers": 266108,
+  "description": "De Tijuana a Tierra del Fuego, aqu\u00ed los que dominan el\u00a0juego. Aleman y Nicki Nicole en portada. ",
+  "num_followers": 266271,
   "original_name": "Rap en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzgzOTg2NSwwMDAwMDAwMGQ0MTI5MGM1YjQ2Mjc3ODRhNjI1ODJkMTQ2Mjk0N2E1",
+  "snapshot_id": "MTY2ODE3ODYwMCwwMDAwMDAwMGFiZDllMzU2ZTQ4NDMyYmI0OTJkODYzYWZmZGJlOTBj",
   "tracks": [
     {
-      "added_at": "2022-11-07 16:51:05",
+      "added_at": "2022-11-11 14:56:40",
       "album": {
-        "name": "PUAJ (sesi\u00f3n)",
-        "url": "https://open.spotify.com/album/2NU5SWfJFO8IN7cvecZlww"
+        "name": "Grillz",
+        "url": "https://open.spotify.com/album/1YH8ILbFvKc6NK5iyblISg"
       },
       "artists": [
         {
-          "name": "WOS",
-          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
+          "name": "Aleman",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
         }
       ],
-      "duration_ms": 156665,
-      "name": "PUAJ (sesi\u00f3n)",
-      "url": "https://open.spotify.com/track/6fTxvdEyWl3zZg2XTWO4s8"
+      "duration_ms": 192526,
+      "name": "Grillz",
+      "url": "https://open.spotify.com/track/3NYmQgmnd2nDeRfq5vQbyu"
+    },
+    {
+      "added_at": "2022-11-07 16:51:05",
+      "album": {
+        "name": "Inmortales",
+        "url": "https://open.spotify.com/album/4EYOgNTo3rdmsmZaQSFbmV"
+      },
+      "artists": [
+        {
+          "name": "Bardero$",
+          "url": "https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G"
+        }
+      ],
+      "duration_ms": 190017,
+      "name": "Aquella Noche",
+      "url": "https://open.spotify.com/track/5H71u2ItpVo99e5KbLEvX9"
+    },
+    {
+      "added_at": "2022-11-07 16:51:05",
+      "album": {
+        "name": "BIEN O MAL",
+        "url": "https://open.spotify.com/album/1HeNYlqvbUDkP97DJ33Kjl"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        },
+        {
+          "name": "Victor Heredia",
+          "url": "https://open.spotify.com/artist/07S2B15CcvWG4jyfMhqx8X"
+        }
+      ],
+      "duration_ms": 237658,
+      "name": "TIERRA ZANTA",
+      "url": "https://open.spotify.com/track/73zQG7t3tZDyePEflVSqJJ"
     },
     {
       "added_at": "2022-11-07 16:51:05",
@@ -47,6 +87,38 @@
     {
       "added_at": "2022-11-07 16:51:05",
       "album": {
+        "name": "PUAJ (sesi\u00f3n)",
+        "url": "https://open.spotify.com/album/2NU5SWfJFO8IN7cvecZlww"
+      },
+      "artists": [
+        {
+          "name": "WOS",
+          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
+        }
+      ],
+      "duration_ms": 156665,
+      "name": "PUAJ (sesi\u00f3n)",
+      "url": "https://open.spotify.com/track/6fTxvdEyWl3zZg2XTWO4s8"
+    },
+    {
+      "added_at": "2022-11-11 14:56:40",
+      "album": {
+        "name": "Se Fue la Luz",
+        "url": "https://open.spotify.com/album/5OJeUsenPzsO2TYTZ18kKK"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 225542,
+      "name": "Se Fue la Luz",
+      "url": "https://open.spotify.com/track/3GnCAwwqk86N0zNP0FMOUU"
+    },
+    {
+      "added_at": "2022-11-07 16:51:05",
+      "album": {
         "name": "MAMA",
         "url": "https://open.spotify.com/album/2e1cjrIszuy4lI8BD4MGOO"
       },
@@ -59,22 +131,6 @@
       "duration_ms": 265116,
       "name": "MAMA",
       "url": "https://open.spotify.com/track/3aOmRscxeXJqnywqdjyoEN"
-    },
-    {
-      "added_at": "2022-11-07 16:51:05",
-      "album": {
-        "name": "Inmortales",
-        "url": "https://open.spotify.com/album/4EYOgNTo3rdmsmZaQSFbmV"
-      },
-      "artists": [
-        {
-          "name": "Bardero$",
-          "url": "https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G"
-        }
-      ],
-      "duration_ms": 190017,
-      "name": "Aquella Noche",
-      "url": "https://open.spotify.com/track/5H71u2ItpVo99e5KbLEvX9"
     },
     {
       "added_at": "2022-11-07 16:51:05",
@@ -135,26 +191,6 @@
       "duration_ms": 201952,
       "name": "Pensando en Ti",
       "url": "https://open.spotify.com/track/7MfrwUdFybdVfNHd1wcH63"
-    },
-    {
-      "added_at": "2022-11-07 16:51:05",
-      "album": {
-        "name": "BIEN O MAL",
-        "url": "https://open.spotify.com/album/1HeNYlqvbUDkP97DJ33Kjl"
-      },
-      "artists": [
-        {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
-        },
-        {
-          "name": "Victor Heredia",
-          "url": "https://open.spotify.com/artist/07S2B15CcvWG4jyfMhqx8X"
-        }
-      ],
-      "duration_ms": 237658,
-      "name": "TIERRA ZANTA",
-      "url": "https://open.spotify.com/track/73zQG7t3tZDyePEflVSqJJ"
     },
     {
       "added_at": "2022-11-07 16:51:05",
@@ -299,26 +335,6 @@
     {
       "added_at": "2022-11-07 16:51:05",
       "album": {
-        "name": "Cuando Todo Acaba",
-        "url": "https://open.spotify.com/album/6DBSL2wSLwqvbpBsgSyBKF"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        },
-        {
-          "name": "Rich Vagos",
-          "url": "https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU"
-        }
-      ],
-      "duration_ms": 175142,
-      "name": "Seguimos Controlando",
-      "url": "https://open.spotify.com/track/13JM0SByzyhK1RmpzvVWxH"
-    },
-    {
-      "added_at": "2022-11-07 16:51:05",
-      "album": {
         "name": "Pensando en Verte",
         "url": "https://open.spotify.com/album/40yd4gGPM83Kwde7EO79aW"
       },
@@ -423,26 +439,6 @@
       "duration_ms": 185870,
       "name": "Mar y Tierra",
       "url": "https://open.spotify.com/track/3lz3pZ0Jd5XtB4PfgvcHg1"
-    },
-    {
-      "added_at": "2022-11-07 16:51:05",
-      "album": {
-        "name": "Leyenda Viva",
-        "url": "https://open.spotify.com/album/27nbClc2d310EdLPCxwF2M"
-      },
-      "artists": [
-        {
-          "name": "Aczino",
-          "url": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
-        },
-        {
-          "name": "Jay de la Cueva",
-          "url": "https://open.spotify.com/artist/2PQW0MnXmZd19XKZQyoPgu"
-        }
-      ],
-      "duration_ms": 137160,
-      "name": "Leyenda Viva",
-      "url": "https://open.spotify.com/track/7pQ3dOGXwjBMqfC2z3cvNW"
     },
     {
       "added_at": "2022-11-07 16:51:05",

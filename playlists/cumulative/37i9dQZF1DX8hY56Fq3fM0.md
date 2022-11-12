@@ -4,7 +4,7 @@
 
 > Need to get your energy level up?
 
-249 songs - 14 hr 55 min - [published](https://open.spotify.com/playlist/6T6fNI28dK30V4yGA7f0oJ)
+250 songs - 14 hr 59 min - [published](https://open.spotify.com/playlist/6T6fNI28dK30V4yGA7f0oJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [10:36](https://open.spotify.com/track/1FPTtFzvWMtV1A7ouK78at) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [10:36](https://open.spotify.com/album/35YoDuTf68QG4Edvlrgvoz) | 3:15 | 2022-06-16 | 2022-08-06 |
 | [About Work The Dancefloor \- Edit](https://open.spotify.com/track/1SDN8Ax7liAvMCfmAM5k7X) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3) | [Started Out](https://open.spotify.com/album/2e7u7pHKqHy2sZJDMOzWd2) | 3:14 | 2022-03-16 | 2022-04-21 |
 | [Absolution Calling](https://open.spotify.com/track/5kiYaQaYacPeuJTYceHqvm) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Absolution Calling](https://open.spotify.com/album/1xU9dnLqBGMtnerrAI2SqK) | 4:37 | 2022-03-16 | 2022-04-21 |
-| [Adult Diversion](https://open.spotify.com/track/22cDldSuj9rgIMXwn4Ofn0) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Alvvays](https://open.spotify.com/album/4PrBMzWzzoMOwm55Bfo3dt) | 3:27 | 2021-11-25 |  |
+| [Adult Diversion](https://open.spotify.com/track/22cDldSuj9rgIMXwn4Ofn0) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Alvvays](https://open.spotify.com/album/4PrBMzWzzoMOwm55Bfo3dt) | 3:27 | 2021-11-25 | 2022-11-12 |
 | [Afterlife](https://open.spotify.com/track/7rL602DQps4QmrrjbinLzP) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Reflektor](https://open.spotify.com/album/2brwuyGZ2lLqWnBX6U4MQT) | 5:53 | 2022-03-16 |  |
 | [All I Want To Hear You Say](https://open.spotify.com/track/3X5PSHyFEfkkbIncpslasP) | [Sea Girls](https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe) | [All I Want To Hear You Say](https://open.spotify.com/album/3iJnbOet5ZH5zNxlAXeuG6) | 3:09 | 2021-11-25 | 2022-07-29 |
 | [All I Want To Hear You Say](https://open.spotify.com/track/7BZWTu4Pv77TxGmmsQaSXN) | [Sea Girls](https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe) | [All I Want To Hear You Say](https://open.spotify.com/album/1q1jS5K0GVUbJL7NySZM3F) | 3:10 | 2022-03-16 | 2022-11-11 |
@@ -194,6 +194,7 @@
 | [Saturday Sun](https://open.spotify.com/track/2RiBogNRfulkNf7fVbPOrJ) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Nation of Two](https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV) | 3:34 | 2021-11-25 |  |
 | [Scrawny](https://open.spotify.com/track/1pNUmVxDiE8t6P1XxcZAv8) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Nothing Happens](https://open.spotify.com/album/7eed9MBclFPjjjvotfR2e9) | 2:46 | 2021-11-25 |  |
 | [Seeing Stars](https://open.spotify.com/track/7HwoUfASF7xwt4vFEhkQF3) | [BØRNS](https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo) | [Candy](https://open.spotify.com/album/3QykM79uWpxMEc3e29D711) | 3:09 | 2021-11-25 | 2022-07-29 |
+| [Settle Down](https://open.spotify.com/track/36YLqJHsNHHODwX5gDPEBb) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975](https://open.spotify.com/album/33ZqJmmqFE8Z7Ak1Lxbnfb) | 3:59 | 2022-10-28 |  |
 | [Settle Down](https://open.spotify.com/track/06Qsdo6m545EBO4LXM9nHn) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975 \(Deluxe\)](https://open.spotify.com/album/74EKsgjD5GJOJpthJ59dhQ) | 3:59 | 2022-01-06 | 2022-07-28 |
 | [Seventeen](https://open.spotify.com/track/4gsR34XSIE2fUY4odwZqym) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [Seventeen](https://open.spotify.com/album/4BrJEabBSw59bwSjKZl25p) | 3:45 | 2021-11-25 |  |
 | [She Plays Bass](https://open.spotify.com/track/52zzYSu7RUsSFn8cZlVjWp) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [She Plays Bass](https://open.spotify.com/album/6aSy1zAuCiFQxUFITf3ymw) | 3:27 | 2021-11-25 |  |

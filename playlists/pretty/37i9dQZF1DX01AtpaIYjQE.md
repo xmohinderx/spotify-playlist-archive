@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01AtpaIYjQE.md) - [plain]
 
 > The essential tracks from LiSA\. アニメシーンから世界へと羽ばたく歌姫、LiSAのオールタイム・ベスト!
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,739 likes - 83 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,825 likes - 83 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01AtpaIYjQE.md) - [plain]
 | 14 | [Rising Hope](https://open.spotify.com/track/6cjLwn9Y6xm2laGb9BV3um) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [Rising Hope](https://open.spotify.com/album/2GMe4oDPk85ZVhF2aBhdkH) | 4:12 |
 | 15 | [白銀](https://open.spotify.com/track/2N1pcj1jkiRtDjpMwo0k4H) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [明け星 / 白銀](https://open.spotify.com/album/0Tucjk9hYUvIDUtsLw5DeV) | 4:24 |
 | 16 | [oath sign](https://open.spotify.com/track/1QgImCheZGHMqTsZ4kh09C) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LiSA BEST \-Way\-](https://open.spotify.com/album/6qkTX2PnlQkbKnnSWmROls) | 4:09 |
-| 17 | [だってアタシのヒーロー。](https://open.spotify.com/track/45UI1yzA7vjkWHoAUZ8nGp) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [だってアタシのヒーロー。](https://open.spotify.com/album/6RIrlLnU6kxuBnYXQVg25m) | 3:54 |
+| 17 | [だってアタシのヒーロー。](https://open.spotify.com/track/5u28x17ED7tP6pY327Bb2o) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LiSA BEST \-Day\-](https://open.spotify.com/album/0Ev8ierP0m0upnX26siq1I) | 3:54 |
 | 18 | [HADASHi NO STEP](https://open.spotify.com/track/7fABbNU3MdFKJxj3FTZysn) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [HADASHi NO STEP](https://open.spotify.com/album/4xyRzR05k9WWz5CmO99GLN) | 3:45 |
 | 19 | [Wake Me Up!](https://open.spotify.com/track/2AqHEeNCiY2Xq0E4YlCDWd) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [Wake Me Up!](https://open.spotify.com/album/73Sxwha7hL9gcl4GXyXCyH) | 4:43 |
 | 20 | [rapid lady ハレーション](https://open.spotify.com/track/4bJoYXbL2tf8LkdOWBF1Uh) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [HADASHi NO STEP](https://open.spotify.com/album/4xyRzR05k9WWz5CmO99GLN) | 3:20 |
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01AtpaIYjQE.md) - [plain]
 | 29 | [Another Great Day!!](https://open.spotify.com/track/04wHEljnaPozbpkyoRPNkU) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LADYBUG](https://open.spotify.com/album/1X7vvwD3illZKuq4lhZJqB) | 4:58 |
 | 30 | [ROCK\-mode](https://open.spotify.com/track/3pvwavXxyhx7lIBdYY5Mjq) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LOVER"S"MiLE](https://open.spotify.com/album/7hUK1JeViZx1M2lkgS3vPG) | 4:16 |
 | 31 | [Thrill, Risk, Heartless](https://open.spotify.com/track/5gf9xFlRXntw7hl3BBAeNp) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LiSA BEST \-Way\-](https://open.spotify.com/album/6qkTX2PnlQkbKnnSWmROls) | 4:16 |
-| 32 | [ASH](https://open.spotify.com/track/6zxywTNOcgQ4jRWe1qDtSC) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [ASH](https://open.spotify.com/album/0TAZXk1bXxW0Da0mukfzE3) | 3:55 |
+| 32 | [ASH](https://open.spotify.com/track/4Mo3Gxku2a200qAjNsrPCO) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LiSA BEST \-Way\-](https://open.spotify.com/album/6qkTX2PnlQkbKnnSWmROls) | 3:58 |
 | 33 | [BEAUTIFUL WORLD](https://open.spotify.com/track/4bKewsiRpYgAX7IV201coC) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LEO\-NiNE](https://open.spotify.com/album/6qi56zXbhq7PU5lvzWNXIO) | 5:12 |
 | 34 | [Believe in myself](https://open.spotify.com/track/1cls46C2JdaGNMO9wBs7dm) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [Letters to U](https://open.spotify.com/album/4ATTPvYUUlWFj4f4UDfCXZ) | 4:34 |
 | 35 | [Empty MERMAiD](https://open.spotify.com/track/6CZvlmGcUhpmbP6yYq0PcL) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LiSA BEST \-Day\-](https://open.spotify.com/album/0Ev8ierP0m0upnX26siq1I) | 3:41 |
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01AtpaIYjQE.md) - [plain]
 | 82 | [愛錠](https://open.spotify.com/track/567GpcEdlzyrjzWh4vfRzX) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LEO\-NiNE](https://open.spotify.com/album/6qi56zXbhq7PU5lvzWNXIO) | 4:05 |
 | 83 | [オレンジサイダー](https://open.spotify.com/track/55EbssrpWwFpfeB9xqG6PP) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [Rally Go Round](https://open.spotify.com/album/4n2lzLEgGWKrEkBUn0HGrn) | 4:29 |
 
-Snapshot ID: `MTY2Nzc4MjExOCwwMDAwMDAwMGFiMzAyMmI3OGE2OWZjZDJiMmM3ODFiMjQ1NzNiMTIz`
+Snapshot ID: `MTY2Nzc4MjExOCwwMDAwMDAwMDU1YjkzZjM3MzEzNjAwYjY0OTVmMGQ0ZTkyOTYxNjQ0`

@@ -4,7 +4,7 @@
 
 > Let these contemplative couplets take you away.
 
-66 songs - 6 hr 51 min - [published](https://open.spotify.com/playlist/6yqJqn3UTLFElfzmBKUDO9)
+68 songs - 7 hr 7 min - [published](https://open.spotify.com/playlist/6yqJqn3UTLFElfzmBKUDO9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,12 +27,14 @@
 | [Duniya Kisie Ke Pyar Mein](https://open.spotify.com/track/1xoxOHmcRZqygAmiXugPs5) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [Mehdi Hassan](https://open.spotify.com/album/70aqO6m7wDEb0vF3aWK2Kl) | 3:14 | 2021-12-01 |  |
 | [Faasla Is Kadar](https://open.spotify.com/track/4JgzQJSWLRfKVCbnozPHB8) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Zikr](https://open.spotify.com/album/2gQgk1hyNCIgaeOu4OSCZz) | 5:58 | 2021-12-01 |  |
 | [Hangama Hai Kiu Barbad](https://open.spotify.com/track/5BLW13IDABVJN5J0dS7AjG) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Dil Mein Ek Leher \- Ghulam Ali the Ghazal Maestro](https://open.spotify.com/album/6WtcRp4M2WaSBX3hza6efS) | 8:29 | 2021-12-01 | 2022-07-29 |
-| [Hangama Hai Kiyon Barbad](https://open.spotify.com/track/1M3NqMGpz82MZymh0bJSIx) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Dil Mein Ek Leher \- Ghulam Ali The Gazal Mastro](https://open.spotify.com/album/4MHSBOVdmXDu10EVMyfArU) | 8:36 | 2022-07-26 |  |
+| [Hangama Hai Kiyon Barbad](https://open.spotify.com/track/1M3NqMGpz82MZymh0bJSIx) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Dil Mein Ek Leher \- Ghulam Ali The Gazal Mastro](https://open.spotify.com/album/4MHSBOVdmXDu10EVMyfArU) | 8:36 | 2022-07-26 | 2022-11-12 |
+| [Hangama Hai Kiyon Barbad](https://open.spotify.com/track/33SsZaZgRY8vUI3suEPkEg) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Ghazal \- For The First Time Together \- Vol \- 1](https://open.spotify.com/album/5Hdhdp7Ouuz4c6lROJCofW) | 8:36 | 2022-11-09 |  |
 | [Har zulm tera yaad hai](https://open.spotify.com/track/3lz869qyZcRBATTT6r4omU) | [Sajjad Ali](https://open.spotify.com/artist/5THsb9SGB89ZN6mj7ZYVSD) | [Geet aur ghazlon ka haseen sangam](https://open.spotify.com/album/47nQ54mrT5meW6q0U3aaXU) | 5:43 | 2021-12-01 |  |
 | [Hoshwalon Ko Khabar Kya](https://open.spotify.com/track/5NbR7c5zrOZN3Dje3JVJEN) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Sarfarosh \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/55kjppMnPs20DEKXN7jaSF) | 5:07 | 2022-07-26 |  |
 | [Hoshwalon Ko Khabar Kya \(From "Sarfarosh"\)](https://open.spotify.com/track/03BvoVjiTrsFdBtOIzDsfy) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Romantic Evening with Jagjit Singh](https://open.spotify.com/album/33BrYdz37reGujAmhBPWQa) | 5:07 | 2021-12-01 | 2022-07-29 |
 | [Humko Kisike Gham Ne Maara](https://open.spotify.com/track/1ftMjWQH3eIxJkN3KjLKjD) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Best of Ghulam Ali: His 50 Greatest Ghazal Hits](https://open.spotify.com/album/5vsRAeRm6meFIQi2LWgVGz) | 7:18 | 2021-12-01 | 2022-07-29 |
-| [Humko Kisike Gham Ne Maara](https://open.spotify.com/track/5hZmZaExf8sG6wvoWpqs8m) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Enriching Ghazals](https://open.spotify.com/album/0reghrVnpLYtzSN8h9NstO) | 7:18 | 2022-07-26 |  |
+| [Humko Kisike Gham Ne Maara](https://open.spotify.com/track/3e2saSOAkc7ex0jhCwws4Y) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Top 10 Ghulam Ali](https://open.spotify.com/album/0eE9TMiCZp5VBEnBf3dQHg) | 7:18 | 2022-11-09 |  |
+| [Humko Kisike Gham Ne Maara](https://open.spotify.com/track/5hZmZaExf8sG6wvoWpqs8m) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Enriching Ghazals](https://open.spotify.com/album/0reghrVnpLYtzSN8h9NstO) | 7:18 | 2022-07-26 | 2022-11-12 |
 | [Hungama Hai Kyon Barpa](https://open.spotify.com/track/7fDOT7WW72bsyS2cY4tON0) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Hungama Hai Kyon Barpa](https://open.spotify.com/album/7uWXgcrOW9ZU4bkY3irIWD) | 8:28 | 2021-12-01 |  |
 | [Is Dil Pe Naaz Tha Mujhe](https://open.spotify.com/track/25VkJONJpEE1jFn5jdJfUh) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [25 Everlasting Ghazals By Mehdi Hassan](https://open.spotify.com/album/4o0t32M7pq69MgYcddWw28) | 4:47 | 2022-07-26 | 2022-11-11 |
 | [Is Dil Pe Naaz Tha Mujhe](https://open.spotify.com/track/1LhBqgSGz2URInfLJgdDex) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [Shehenshah\-E\-Ghazal Mehdi Hassan](https://open.spotify.com/album/6faBY021EEthCQiSUVyK4w) | 4:47 | 2022-11-09 |  |

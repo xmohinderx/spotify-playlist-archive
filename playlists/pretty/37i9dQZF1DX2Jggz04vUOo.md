@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Jggz04vUOo.md) - [plain]
 
 > <a href="spotify:artist:3iT6d90Vy630068736OgW8">Foxall</a>'s favorite tracks\. Updated regularly\. Curated by Foxall\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 401 likes - 70 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 402 likes - 70 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Jggz04vUOo.md) - [plain]
 | 54 | [Melodien für Triolen](https://open.spotify.com/track/7h2d1N9U9JZGYAJiQRREIi) | [kalupke](https://open.spotify.com/artist/0cIvZxLLintmeKg65N08be) | [Melodien für Triolen](https://open.spotify.com/album/7onLHz8y0jAgY4SyG420eq) | 6:05 |
 | 55 | [Mara](https://open.spotify.com/track/4CQzQYR534bYkZMFGWygWy) | [Sabda](https://open.spotify.com/artist/3FGyFRh2QtwZjgq3wrDbB9) | [Mind at Large, Pt\. I](https://open.spotify.com/album/0Opr1WBZu6gL4wAlYF6SYl) | 6:38 |
 | 56 | [Wave](https://open.spotify.com/track/2oXcyOjlXeYGxuYd94Xx6V) | [ulises](https://open.spotify.com/artist/0YQKl0V9vgk6HeFttX1aTv), [Jo.Ke](https://open.spotify.com/artist/0RKP3F2s1SHvGpckHuW4S7) | [Ritual Incognito](https://open.spotify.com/album/3GtAg5zcPLMx2eaGAQMSms) | 3:57 |
-| 57 | [Resiliencia](https://open.spotify.com/track/590gL4Fk4eHhLazuvVefLn) | [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR), [DJ Raff](https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2) | [Ramas](https://open.spotify.com/album/2s61LZqkxTwh3PNMxO6mYX) | 4:49 |
+| 57 | [Resiliencia](https://open.spotify.com/track/4ZTN0Dzbj3IsyNO7nSwLgn) | [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR), [DJ Raff](https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2) | [Resiliencia](https://open.spotify.com/album/52LUM6gnOCTiuTYTwzZPwa) | 4:49 |
 | 58 | [Peu a Peu \- Kermesse's Poco a Poco Remix](https://open.spotify.com/track/1icYndZsVkgF7FqQ9tAZ57) | [Dolph](https://open.spotify.com/artist/1Xw4E3IabrEFoiT1o4vJB1), [Kermesse](https://open.spotify.com/artist/6DPQIFnbvlnYf0QozkfiPw) | [Peu a Peu \(Kermesse's Poco a Poco Remix\)](https://open.spotify.com/album/25JvwwAWofb0OWsBmaZ6Xe) | 5:10 |
 | 59 | [Intellijel Bell \- Nutia Remix](https://open.spotify.com/track/5WDCdwgh4eTxlF3YXWKUrc) | [Acid Pauli](https://open.spotify.com/artist/3LHqODf1hGAgZ5LTw1Gf4C), [Nutia](https://open.spotify.com/artist/66znpbIBZzFtvn4iqGh2Lp) | [MOD Remixes](https://open.spotify.com/album/5k8QthOlc9CTW0TFAxkSkU) | 6:29 |
 | 60 | [Cosmosamba](https://open.spotify.com/track/19VtJkoau2GFsmMFeP4faP) | [Projeto Mujique](https://open.spotify.com/artist/7ygEGVpG4Y6WtOMV5iTzlN), [Thomash](https://open.spotify.com/artist/2NVvuhg7tKjsMeFfv8JQiQ) | [Cosmosamba](https://open.spotify.com/album/2IkOJqiLz0FEsVqoCi0ItM) | 7:56 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Jggz04vUOo.md) - [plain]
 | 69 | [Square Kids \- Anton Feine Remix](https://open.spotify.com/track/0efhQX2ijD72A4XHd43eRc) | [Kusht](https://open.spotify.com/artist/1GLyo3Rp9NTc8bJa65xLXg), [Anton Feine](https://open.spotify.com/artist/2IxXoB8qwqS9uwl3z1zt3o) | [Teapot](https://open.spotify.com/album/7vOUJ6FIStKWKhDwiJTbhV) | 6:31 |
 | 70 | [Easy Days](https://open.spotify.com/track/1qKOZtqBV8W0je2pPSpOzA) | [Coss](https://open.spotify.com/artist/3YdYc0Ewo5Vpejw0r3dV74), [Kleintierschaukel](https://open.spotify.com/artist/1IaccfV9FzIR8Iax4cZ5Fn) | [Easy Days](https://open.spotify.com/album/69vUFvbVj2b7oabEiP6h4d) | 5:39 |
 
-Snapshot ID: `MTY2NTc1NDYyMywwMDAwMDAwMDI5Y2RjMmQ1MWFmMjM1NGFlYWZhMmVhMjkxNGU5OTAx`
+Snapshot ID: `MTY2NTc1NDYyMywwMDAwMDAwMGM2YjdlZGYwMzRlOGM2NTllYzJmZmFiZjYyM2Q4NDNk`

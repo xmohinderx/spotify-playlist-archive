@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0N3eAirRjZ.md) - [plain]
 
 > From slack\-key masters to songwriting royals, Native Hawaiians have been behind the isles' most memorable music\. Cover: Keauhou
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,169 likes - 54 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,219 likes - 54 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0N3eAirRjZ.md) - [plain]
 | 38 | [Over the Rainbow](https://open.spotify.com/track/3oQomOPRNQ5NVFUmLJHbAV) | [Israel Kamakawiwo'ole](https://open.spotify.com/artist/4ogvuDRerGhZfSf7TtzHlr) | [Alone In Iz World](https://open.spotify.com/album/4aM85igbrBcoRZVt7L11Zn) | 3:31 |
 | 39 | [Poliahu](https://open.spotify.com/track/1ID6ZAYyyWb8HUwrhenIZl) | [Teresa Bright](https://open.spotify.com/artist/6zsIn96BUt3FjnorApFEH2) | [A Gallery](https://open.spotify.com/album/6BOkerDmpyiUNm8PaOc25k) | 4:22 |
 | 40 | [Aia I Niihau Kuu Pawehe](https://open.spotify.com/track/0HluOOcAWZWaEDzemP90Na) | [Kuana Torres Kahele](https://open.spotify.com/artist/7Eshpryyi2F9Jg0ixaysNn) | [Music for the Hawaiian Islands, Vol.2 \(Kahelelani, Niihau\)](https://open.spotify.com/album/4Mff6HYIsdgnedJYA5Bc5U) | 2:19 |
-| 41 | ['Ūlili E](https://open.spotify.com/track/3CyKFRT6jd0ADhxfDp7xif) | [Dennis Kamakahi](https://open.spotify.com/artist/2Ntbsut1zuMvsXBTDGj18Y), [David Kamakahi](https://open.spotify.com/artist/5802fcyYOOyqi780xWf2VK) | ['Ohana](https://open.spotify.com/album/38FeFAx49WBtJtC9hVg776) | 4:17 |
+| 41 | ['Ulili E \- The Wandering Tattler](https://open.spotify.com/track/7zyaeT1r2sjm9r1D74R6YR) | [Dennis Kamakahi](https://open.spotify.com/artist/2Ntbsut1zuMvsXBTDGj18Y), [David Kamakahi](https://open.spotify.com/artist/5802fcyYOOyqi780xWf2VK) | [Hawaiian Slack Key Guitar Masters, Vol\. 2](https://open.spotify.com/album/5qXmNWu8kCLrce2EkbkPrr) | 4:16 |
 | 42 | [Kawohikukapulani](https://open.spotify.com/track/169se8C2wnc9nSEspeNsag) | [Robi Kahakalau](https://open.spotify.com/artist/1qXPmO8voLWvytAkh7ffuP) | [Robi Calling](https://open.spotify.com/album/0TFTUwSIwkNZigONKD5ovm) | 2:36 |
 | 43 | [Hi'ilawe](https://open.spotify.com/track/7qTlRtGYNd9emAr8eB6xLk) | [Gabby Pahinui](https://open.spotify.com/artist/2Ju4D1DqBETuLI2hAsoqHu) | [Pure Gabby](https://open.spotify.com/album/2Ta9PRl0lN9Bz2SDttccd1) | 4:08 |
 | 44 | [Ahulili](https://open.spotify.com/track/5SmWyYdkX14Oj80WlRHnKY) | [Raiatea Helm](https://open.spotify.com/artist/3OmAmym7dLlhFhpAYt3bNC) | [Hawaiian Blossom](https://open.spotify.com/album/49HLATxWXEGjWyRHEIhrij) | 3:06 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0N3eAirRjZ.md) - [plain]
 | 53 | [Whee Ha Swing](https://open.spotify.com/track/6tZkisNMGuSuaH6WTylYPi) | [Ledward Kaapana](https://open.spotify.com/artist/4rbuIw9Fa3U8yCZuK2Ig1K) | [Hawaiian Slack Key Guitar Masters: Instrumental Collection, Vol\. 1](https://open.spotify.com/album/2EOjWFzzACQ0Q21rlTNu56) | 2:31 |
 | 54 | [Honolulu City Lights](https://open.spotify.com/track/7p7wUyiSlKhbBj6a4W5JQJ) | [Keola & Kapono Beamer](https://open.spotify.com/artist/3EzISrY4SedvUU2QWGaH4f) | [Honolulu City Lights](https://open.spotify.com/album/30Gr4mOBobnQqhMAVVmhS3) | 3:23 |
 
-Snapshot ID: `MTY2NTcyMDAwMCwwMDAwMDAwMDFkMTgyYTI0ZjVhNGZhNDhmYzY5MWQzM2U1ZTY5NDAx`
+Snapshot ID: `MTY2NTcyMDAwMCwwMDAwMDAwMDBjOTQ0ZWY2YmI1ZGI5OWNkYWVlZDI0Y2VhZWJlNDUw`

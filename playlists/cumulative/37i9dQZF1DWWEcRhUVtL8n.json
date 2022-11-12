@@ -2243,7 +2243,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-19",
+      "date_removed": null,
       "duration_ms": 247327,
       "name": "Be with You",
       "url": "https://open.spotify.com/track/2ECjeYPCdRNeuCzO0W1UMW"
@@ -6021,7 +6021,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-05",
+      "date_removed": null,
       "duration_ms": 218000,
       "name": "Deep End",
       "url": "https://open.spotify.com/track/0fQ6684L4dIVf4lvQ6uiFf"
@@ -7165,7 +7165,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 130731,
       "name": "easy",
       "url": "https://open.spotify.com/track/1Tsx0p2tR01ygNRbHx8NZA"
@@ -7707,7 +7707,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 206973,
       "name": "Factoury Girl",
       "url": "https://open.spotify.com/track/3b5NDASYtn3eGgTSYfUk2p"
@@ -9439,7 +9439,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-08",
+      "date_removed": null,
       "duration_ms": 134956,
       "name": "Grocery Store",
       "url": "https://open.spotify.com/track/5eGIOMy0V0r7neaaPve2kB"
@@ -10309,7 +10309,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 164348,
       "name": "hiccup",
       "url": "https://open.spotify.com/track/1NfqGbaWcZLor12cITE5Fv"
@@ -10976,6 +10976,24 @@
     },
     {
       "album": {
+        "name": "Hypotheticals",
+        "url": "https://open.spotify.com/album/0uhu6Qrq4NPI9fI8iO4D6c"
+      },
+      "artists": [
+        {
+          "name": "Fran Vasili\u0107",
+          "url": "https://open.spotify.com/artist/08xR1XU2SWgC2K0yx6lEYm"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228691,
+      "name": "Hypotheticals",
+      "url": "https://open.spotify.com/track/3JenOF4HdWxBhP2HrOPii4"
+    },
+    {
+      "album": {
         "name": "H\u00e9matome",
         "url": "https://open.spotify.com/album/61yjaZL3ObY87J2AkJ1SSU"
       },
@@ -11081,7 +11099,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 200213,
       "name": "I Can\u2019t Grow Up",
       "url": "https://open.spotify.com/track/5b2teiHzEXQQJJfa0btYpF"
@@ -12121,7 +12139,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 213121,
       "name": "If Nobody Likes U",
       "url": "https://open.spotify.com/track/7aHpcQcGlehH1LNJaTHUkW"
@@ -13593,7 +13611,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-08",
+      "date_removed": null,
       "duration_ms": 168253,
       "name": "Let U Go",
       "url": "https://open.spotify.com/track/7FEiuFp1Zo9rxehIquEtL2"
@@ -17645,7 +17663,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-05",
+      "date_removed": null,
       "duration_ms": 190320,
       "name": "Oxygen",
       "url": "https://open.spotify.com/track/3A0mdJS6ra4RJ9Eidtz2br"
@@ -18303,7 +18321,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 168000,
       "name": "Pink Champagne",
       "url": "https://open.spotify.com/track/5UTqjzpLvxlzxAUZBoe6mq"
@@ -19833,7 +19851,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 215520,
       "name": "Say It's Over",
       "url": "https://open.spotify.com/track/3mmOZNLF9RwO85BD37j4A1"
@@ -23721,7 +23739,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-08",
+      "date_removed": null,
       "duration_ms": 232506,
       "name": "Threads",
       "url": "https://open.spotify.com/track/2SJ0exVB6NRWLbdjCsNWAd"

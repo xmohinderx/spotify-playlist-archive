@@ -74,6 +74,36 @@
     },
     {
       "album": {
+        "name": "Ni\u00f1os A Bailar Vol. 1",
+        "url": "https://open.spotify.com/album/3ClwD62xRx4wGdoeh3f7hg"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        },
+        {
+          "name": "Lalo Ebratt",
+          "url": "https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj"
+        },
+        {
+          "name": "Horacio Palencia",
+          "url": "https://open.spotify.com/artist/7arK8QUX7X61NIkChn9no2"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221346,
+      "name": "Amor A Primera Vista",
+      "url": "https://open.spotify.com/track/2c2OQYGm65TucVmYrJZiYG"
+    },
+    {
+      "album": {
         "name": "De Buenos Aires Para El Mundo",
         "url": "https://open.spotify.com/album/6lWHI43OEAIWn0gfMxwvZE"
       },
@@ -1304,6 +1334,28 @@
     },
     {
       "album": {
+        "name": "Ni\u00f1os A Bailar Vol. 4",
+        "url": "https://open.spotify.com/album/4bAoIi4Ux7F5lGf3JQQTWn"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266613,
+      "name": "Nunca Es Suficiente",
+      "url": "https://open.spotify.com/track/6twHO7BEWWdBvYzJ1PAxPJ"
+    },
+    {
+      "album": {
         "name": "Olvidate",
         "url": "https://open.spotify.com/album/2RXjWfynHKQteGUCxDzmFW"
       },
@@ -1427,7 +1479,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 181333,
       "name": "Poco Asado, Mucho Humo",
       "url": "https://open.spotify.com/track/4KzcvEv1UFjbXDK9XADoN4"
@@ -1627,7 +1679,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 185516,
       "name": "Se\u00f1or Mentira",
       "url": "https://open.spotify.com/track/0Lwv86uXopDNobWyASNPLK"
@@ -1739,6 +1791,24 @@
       "duration_ms": 225720,
       "name": "Suavecito Suavecito",
       "url": "https://open.spotify.com/track/6cKWDVak6o362TElLvwtmU"
+    },
+    {
+      "album": {
+        "name": "20 Kilates",
+        "url": "https://open.spotify.com/album/7BQN3M9OwQGmM9XQMeHmys"
+      },
+      "artists": [
+        {
+          "name": "Laura Leon",
+          "url": "https://open.spotify.com/artist/1dON8KmX1N7ZPHCRyhK2hX"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226266,
+      "name": "Suavecito, Suavecito",
+      "url": "https://open.spotify.com/track/6lOSfxnf4BCGdECIW5agSO"
     },
     {
       "album": {
@@ -1869,7 +1939,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 204250,
       "name": "Vas a Llorar",
       "url": "https://open.spotify.com/track/0aEYM9dzRxkwZ1HElWjrIX"

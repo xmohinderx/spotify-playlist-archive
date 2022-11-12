@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-17",
-  "description": "Beyond genre, beyond language, beyond borders. Cover: Lola Marsh.",
+  "description": "Beyond genre, beyond language, beyond borders. Cover: Vanessa Zamora.",
   "name": "borderless",
   "published_playlist_ids": [
     "6bA5HVht0DRnYt7fu1eP5j"
@@ -943,7 +943,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 251428,
       "name": "Che sera",
       "url": "https://open.spotify.com/track/41JsNduRhAuFLEU7gy9ckf"
@@ -1167,7 +1167,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 165250,
       "name": "COCONUT PERFUME",
       "url": "https://open.spotify.com/track/7lMrIFrNAwSSdOrsk4glWa"
@@ -1419,7 +1419,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 114706,
       "name": "Deriva",
       "url": "https://open.spotify.com/track/4mq5Fc0p42DxzI05nF7DBE"
@@ -1868,6 +1868,24 @@
     },
     {
       "album": {
+        "name": "Egoli",
+        "url": "https://open.spotify.com/album/0d4CJBrpeu9hogzeyEogmg"
+      },
+      "artists": [
+        {
+          "name": "The Joy",
+          "url": "https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263717,
+      "name": "Egoli",
+      "url": "https://open.spotify.com/track/6XZ97WSZQETklH2YYG4Y3o"
+    },
+    {
+      "album": {
         "name": "Lo Que Siento",
         "url": "https://open.spotify.com/album/7g3d9jGbhx6AAulszHztyM"
       },
@@ -2063,7 +2081,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 123417,
       "name": "experimento.mp3",
       "url": "https://open.spotify.com/track/4gBYdUeR9pDuGDXQOECqVh"
@@ -2142,6 +2160,24 @@
     },
     {
       "album": {
+        "name": "Photograph",
+        "url": "https://open.spotify.com/album/4OlFnnZylFcZU5cYTKLXh6"
+      },
+      "artists": [
+        {
+          "name": "Alex Siegel",
+          "url": "https://open.spotify.com/artist/65FPMBREZBLfEDpkHlm8sS"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190714,
+      "name": "Fairweather Friends",
+      "url": "https://open.spotify.com/track/2sirBCpnHUKu87YIf9WwE7"
+    },
+    {
+      "album": {
         "name": "Fairweather Friends",
         "url": "https://open.spotify.com/album/2Bt3szvXc9Ujmw5r7egQl2"
       },
@@ -2171,7 +2207,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 190714,
       "name": "Fairweather Friends",
       "url": "https://open.spotify.com/track/7uvKESxV5cjsCDfq74rMyQ"
@@ -2696,6 +2732,24 @@
     },
     {
       "album": {
+        "name": "Golpe de suerte",
+        "url": "https://open.spotify.com/album/3vqwvxVeypA574JE5CZljA"
+      },
+      "artists": [
+        {
+          "name": "Ire",
+          "url": "https://open.spotify.com/artist/4ysRrzj3LSYDIhtty6ErKI"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161395,
+      "name": "Golpe de suerte",
+      "url": "https://open.spotify.com/track/5O3IFQOS34bR3QOp9Xdm8u"
+    },
+    {
+      "album": {
         "name": "Good Buy My Old Life",
         "url": "https://open.spotify.com/album/2X18O3Jbj1xmXlyOKFdWnu"
       },
@@ -2809,6 +2863,42 @@
       "duration_ms": 277608,
       "name": "Harlem River",
       "url": "https://open.spotify.com/track/6fWwLxUoiAZpZtqOFwG1KL"
+    },
+    {
+      "album": {
+        "name": "Hayat",
+        "url": "https://open.spotify.com/album/7Lujb5MhONtYgerC571nMS"
+      },
+      "artists": [
+        {
+          "name": "Kit Sebastian",
+          "url": "https://open.spotify.com/artist/5GSILaXo4yN4umwJK8eBBY"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248442,
+      "name": "Hayat",
+      "url": "https://open.spotify.com/track/6kZ8jdKDVVatjCTNQ2XQMj"
+    },
+    {
+      "album": {
+        "name": "worm food",
+        "url": "https://open.spotify.com/album/6esicDmiVKUGrff14ahfrK"
+      },
+      "artists": [
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206280,
+      "name": "heart attack",
+      "url": "https://open.spotify.com/track/08noUkx67pSwQuHnFhIcsF"
     },
     {
       "album": {
@@ -3098,6 +3188,28 @@
     },
     {
       "album": {
+        "name": "Panna Cotta",
+        "url": "https://open.spotify.com/album/28Ymo5sEs0gwOoZYdaLkNY"
+      },
+      "artists": [
+        {
+          "name": "Winston Surfshirt",
+          "url": "https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh"
+        },
+        {
+          "name": "DOPE LEMON",
+          "url": "https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241342,
+      "name": "I Want You (To Be My Woman) [feat. DOPE LEMON]",
+      "url": "https://open.spotify.com/track/68JBzSwTObjU1LXGZQpzm2"
+    },
+    {
+      "album": {
         "name": "I'm in Love",
         "url": "https://open.spotify.com/album/6YseWN0WpEHAOTqVzJfzLo"
       },
@@ -3367,7 +3479,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 202040,
       "name": "Just a moment",
       "url": "https://open.spotify.com/track/4B2duCzao3lvUAtex1R3CC"
@@ -3656,6 +3768,24 @@
     },
     {
       "album": {
+        "name": "M\u00e9tamorphose",
+        "url": "https://open.spotify.com/album/7xr77ACg7LvPSKQAzbVEQ6"
+      },
+      "artists": [
+        {
+          "name": "Vendredi sur Mer",
+          "url": "https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189333,
+      "name": "Le Lac",
+      "url": "https://open.spotify.com/track/5NPFe3DyuXa2BHQkqJ3tXj"
+    },
+    {
+      "album": {
         "name": "Le matin",
         "url": "https://open.spotify.com/album/1KBxSKZYkIDt7eIyXpLpHM"
       },
@@ -3667,7 +3797,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 168190,
       "name": "Le matin",
       "url": "https://open.spotify.com/track/5EOzaKdYpIBMOQS16iben7"
@@ -3797,7 +3927,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 305413,
       "name": "Libertad",
       "url": "https://open.spotify.com/track/1MMoSzv2oTgPNpsy54DKUR"
@@ -4596,6 +4726,24 @@
     },
     {
       "album": {
+        "name": "Moka",
+        "url": "https://open.spotify.com/album/2eOEkG7khZpeipSQzlreCt"
+      },
+      "artists": [
+        {
+          "name": "elito",
+          "url": "https://open.spotify.com/artist/4OSuHJobGRJFovPsbGCVgR"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196027,
+      "name": "Moka",
+      "url": "https://open.spotify.com/track/29wABTlHrUEAMfBprQnOrc"
+    },
+    {
+      "album": {
         "name": "Una Gran Decepci\u00f3n",
         "url": "https://open.spotify.com/album/3ajsC7V1eThE9y2Jg3FHTa"
       },
@@ -4889,7 +5037,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 213916,
       "name": "Nelumbo",
       "url": "https://open.spotify.com/track/2fy0n7GTkll5Zh4p3WEZFu"
@@ -5530,6 +5678,28 @@
     },
     {
       "album": {
+        "name": "paterson",
+        "url": "https://open.spotify.com/album/5URw6mtoVChP5GD5la6RbF"
+      },
+      "artists": [
+        {
+          "name": "gabriela arcos",
+          "url": "https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx"
+        },
+        {
+          "name": "Martina Lluvias",
+          "url": "https://open.spotify.com/artist/5x24CqyDaYbM6OUjxLYkUo"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282490,
+      "name": "paterson",
+      "url": "https://open.spotify.com/track/3DUKYkLS0M2kM6m7tzjipR"
+    },
+    {
+      "album": {
         "name": "Pearls",
         "url": "https://open.spotify.com/album/2KNjqcrm4ijeQAUqWQzyBj"
       },
@@ -5541,7 +5711,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 263823,
       "name": "Pearls",
       "url": "https://open.spotify.com/track/4t4DAOAR5YGGHycUfQjiDq"
@@ -5723,7 +5893,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 258031,
       "name": "Podr\u00eda Ser Peor",
       "url": "https://open.spotify.com/track/5F4KYrVRCX2Yt9dG3GR8vm"
@@ -6233,6 +6403,24 @@
       "duration_ms": 193813,
       "name": "Runaways",
       "url": "https://open.spotify.com/track/4oi3kXCodWzSAFoqPjdtpK"
+    },
+    {
+      "album": {
+        "name": "Running Up That Hill - Spotify Singles",
+        "url": "https://open.spotify.com/album/5yoGGNfGcVw8Eqlbg13a9v"
+      },
+      "artists": [
+        {
+          "name": "Neoma",
+          "url": "https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220005,
+      "name": "Running Up That Hill - Spotify Singles",
+      "url": "https://open.spotify.com/track/3mn8Noyehq8qn2aOIz4HNR"
     },
     {
       "album": {
@@ -6988,6 +7176,24 @@
     },
     {
       "album": {
+        "name": "DAMALEONA, VOL. 2",
+        "url": "https://open.spotify.com/album/3TTRrj2mJcy3okuQi7OVSv"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158492,
+      "name": "SUBCONSCIENTE",
+      "url": "https://open.spotify.com/track/4gSu8Zd82MehR4h8q0DAhH"
+    },
+    {
+      "album": {
         "name": "Sugar Rush",
         "url": "https://open.spotify.com/album/1VsDxN8jgziHdGxw2KfNDr"
       },
@@ -7434,6 +7640,24 @@
     },
     {
       "album": {
+        "name": "therapist",
+        "url": "https://open.spotify.com/album/5uEsbMorD1BkzjKuE4TGBZ"
+      },
+      "artists": [
+        {
+          "name": "Cupnoodle",
+          "url": "https://open.spotify.com/artist/2oxmVxoozyLgoIlPpz1QS2"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187166,
+      "name": "therapist",
+      "url": "https://open.spotify.com/track/40tM411ZxFU89VJmZoC22x"
+    },
+    {
+      "album": {
         "name": "Bar Mediterraneo",
         "url": "https://open.spotify.com/album/2OeKJLLD5jcYMgJAExURqS"
       },
@@ -7521,6 +7745,24 @@
       "duration_ms": 203684,
       "name": "Tocco di Lusso",
       "url": "https://open.spotify.com/track/0kxe9g9K1kdxzwRMNYfgIl"
+    },
+    {
+      "album": {
+        "name": "Quicksand",
+        "url": "https://open.spotify.com/album/2tvmzgCJ6ZYmBtUJl0RfRs"
+      },
+      "artists": [
+        {
+          "name": "Bialystocks",
+          "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174680,
+      "name": "Todai",
+      "url": "https://open.spotify.com/track/7M7R9d2XP1EfqpIq4D0Zlv"
     },
     {
       "album": {
@@ -8609,7 +8851,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 158769,
       "name": "\u200ecan't \u200eu \u200etell \u200e?",
       "url": "https://open.spotify.com/track/7fMflu8v00rdJAv05WmYKa"

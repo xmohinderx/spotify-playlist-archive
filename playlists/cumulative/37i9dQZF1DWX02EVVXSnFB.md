@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6mK0vAO13gT8jWYANyoXAl">Young Franco's </a> favourite tracks\.  Updated regularly\. Curated by Young Franco\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-56 songs - 3 hr 53 min - [published](https://open.spotify.com/playlist/32ANKGPpQYwIXwf7rAOEGQ)
+57 songs - 3 hr 59 min - [published](https://open.spotify.com/playlist/32ANKGPpQYwIXwf7rAOEGQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,8 @@
 | [Sunset Funk](https://open.spotify.com/track/0CCfUjVaA2321ao0TuRaor) | [MAM](https://open.spotify.com/artist/30TcH7sAEGnI1wVZhCgBfi) | [Modern Heat EP](https://open.spotify.com/album/6VScSyrcTNlmzshPBFBwV0) | 4:20 | 2022-03-23 |  |
 | [Take Your Time](https://open.spotify.com/track/7AMbZs3gWTlx2azi5sFwow) | [The S.O.S Band](https://open.spotify.com/artist/6pXCjxMOBcWtvULYkFPVW6) | [Dj Chabin présente : Fonky Funk planète](https://open.spotify.com/album/0DXei2VwBUwRf9T5jS17X2) | 7:45 | 2022-03-23 |  |
 | [The Blue \(feat\. Snoop Dogg\)](https://open.spotify.com/track/5Jw0Pi74l6A2jNG7k9CfNC) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Harlan & Alondra](https://open.spotify.com/album/5djciKtjqkY9ZQ1OhKICXN) | 3:25 | 2022-03-23 |  |
-| [The Sweetest Meditation](https://open.spotify.com/track/6Ds341awJUTMJ7Zmx3Gl1i) | [Lord Echo](https://open.spotify.com/artist/4SkLPRjzPXh6d5n32Vypy5), [Mara TK](https://open.spotify.com/artist/3GzJfrTYqGHMASNHNNN7hN) | [Harmonies](https://open.spotify.com/album/2l6MYrhN7T3DwsH05XsXxp) | 5:54 | 2022-03-23 |  |
+| [The Sweetest Meditation](https://open.spotify.com/track/02wV5Rj4zxYI6xp9SLb58e) | [Lord Echo](https://open.spotify.com/artist/4SkLPRjzPXh6d5n32Vypy5), [Mara TK](https://open.spotify.com/artist/3GzJfrTYqGHMASNHNNN7hN) | [Sweetest Meditation](https://open.spotify.com/album/3e6wUvHZ2zV5FCPpzFjTQ7) | 5:54 | 2022-03-23 |  |
+| [The Sweetest Meditation](https://open.spotify.com/track/6Ds341awJUTMJ7Zmx3Gl1i) | [Lord Echo](https://open.spotify.com/artist/4SkLPRjzPXh6d5n32Vypy5), [Mara TK](https://open.spotify.com/artist/3GzJfrTYqGHMASNHNNN7hN) | [Harmonies](https://open.spotify.com/album/2l6MYrhN7T3DwsH05XsXxp) | 5:54 | 2022-03-23 | 2022-11-12 |
 | [Underneath](https://open.spotify.com/track/4wyrc8IPFe1tE1ZPMnEx7C) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS) | [Underneath](https://open.spotify.com/album/0B7GgmnsWIqYN55jCk0pjJ) | 3:49 | 2022-03-23 |  |
 | [Watch Your Step \(Harvey Sutherland Remix\)](https://open.spotify.com/track/7G24eVWGQFcDP5DxXGgCSj) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM), [Harvey Sutherland](https://open.spotify.com/artist/4CxFlJDif0atTK3gZebcEf) | [ENERGY \(Special Edition\)](https://open.spotify.com/album/7zkGnjPwwQvjW7RCMnmPEz) | 3:50 | 2022-03-23 |  |
 | [Weekend Love](https://open.spotify.com/track/0X89tZvVGokJi9NDuz5tqN) | [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Mike Nasa](https://open.spotify.com/artist/7dA0IZAV5Wr4SjKCnI7Gx3), [Dana Williams](https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL) | [Weekend Love](https://open.spotify.com/album/1JkJernn4xd0y6AeJM9N07) | 3:39 | 2022-03-23 |  |

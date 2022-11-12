@@ -488,6 +488,28 @@
     },
     {
       "album": {
+        "name": "Chi Chi",
+        "url": "https://open.spotify.com/album/0KAQkSymREz5IzJ107vBds"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210725,
+      "name": "Chi Chi",
+      "url": "https://open.spotify.com/track/01I952VR9dTAPNr76YGxnN"
+    },
+    {
+      "album": {
         "name": "HiROQUEST: Genesis",
         "url": "https://open.spotify.com/album/0lF8VwXlAyOMFt1XQvCa5l"
       },
@@ -525,7 +547,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 210725,
       "name": "Chi Chi",
       "url": "https://open.spotify.com/track/6t8JfhZG9HV4mSI1FbVWff"

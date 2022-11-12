@@ -753,7 +753,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 209438,
       "name": "Dance Monkey",
       "url": "https://open.spotify.com/track/2N8m6CYs74qQO4mjVcXO30"
@@ -925,7 +925,7 @@
       ],
       "date_added": "2022-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 217288,
       "name": "Finesse - Remix; feat. Cardi B",
       "url": "https://open.spotify.com/track/3Vo4wInECJQuz9BIBMOu8i"
@@ -1603,7 +1603,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 231906,
       "name": "Malibu",
       "url": "https://open.spotify.com/track/1UZOjK1BwmwWU14Erba9CZ"
@@ -1739,7 +1739,7 @@
       ],
       "date_added": "2022-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 163870,
       "name": "Meant to Be (feat. Florida Georgia Line)",
       "url": "https://open.spotify.com/track/7iDa6hUg2VgEL1o1HjmfBn"
@@ -1859,6 +1859,24 @@
       "duration_ms": 223523,
       "name": "Never Really Over",
       "url": "https://open.spotify.com/track/5PYQUBXc7NYeI1obMKSJK0"
+    },
+    {
+      "album": {
+        "name": "Nevermind",
+        "url": "https://open.spotify.com/album/6c5gDwB7Xo58thk2vap4Ch"
+      },
+      "artists": [
+        {
+          "name": "Dennis Lloyd",
+          "url": "https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156600,
+      "name": "Nevermind",
+      "url": "https://open.spotify.com/track/63SevszngYpZOwf63o61K4"
     },
     {
       "album": {
@@ -2141,7 +2159,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 152913,
       "name": "Piece Of Your Heart",
       "url": "https://open.spotify.com/track/1DFD5Fotzgn6yYXkYsKiGs"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXea80XwOJRgD.md) - [plain]
 
 > Some heart and soul for those up late.
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,218 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,283 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXea80XwOJRgD.md) - [plain]
 | 9 | [Miracles](https://open.spotify.com/track/10g4esqFA2aVAWAYc0XQ5Z) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ), [Peter CottonTale](https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi) | [Music](https://open.spotify.com/album/3Yt6hyKUIgAeg6BIr7aPmK) | 4:51 |
 | 10 | [Love's Train](https://open.spotify.com/track/60gTdTwaNtGAzIxKfeGVfJ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Love's Train](https://open.spotify.com/album/6QKXGIgwWmWBMmIktMOchR) | 5:07 |
 | 11 | [Game Winner](https://open.spotify.com/track/5e2G1obaBBcDVUZajTsaGP) | [Joey Dosik](https://open.spotify.com/artist/3kANxNTLNOhxpOPoCbGq9E) | [Game Winner \- EP \(Deluxe Edition\)](https://open.spotify.com/album/2GU1XWyPDm4paAN9XQg8bw) | 4:40 |
-| 12 | [Run Deep](https://open.spotify.com/track/5K1QAv6t5t6C1rhfxqXjie) | [Deva Mahal](https://open.spotify.com/artist/74kTlA5KHbgVuvqOEeKON0), [Coco Peila](https://open.spotify.com/artist/2wqEUjDwdVypX7eCG9Yhnf) | [Run Deep](https://open.spotify.com/album/24uAA2v6yqB1gN6YCUL9ed) | 3:39 |
+| 12 | [Run Deep](https://open.spotify.com/track/1xu1FPEKZ5wC2npAfJg0Rj) | [Deva Mahal](https://open.spotify.com/artist/74kTlA5KHbgVuvqOEeKON0), [Coco Peila](https://open.spotify.com/artist/2wqEUjDwdVypX7eCG9Yhnf) | [Run Deep](https://open.spotify.com/album/6WlMXpQRCkdZZh1RCsVjNV) | 3:36 |
 | 13 | [Before You Go](https://open.spotify.com/track/2gMXnyrvIjhVBUZwvLZDMP) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent \(Extended Edition\)](https://open.spotify.com/album/2wiPF3m0ylst0JSk1IvZL8) | 3:35 |
 | 14 | [Stand up for Something \(feat\. Common\)](https://open.spotify.com/track/44r3hRXVBDA3ZeKxdFvm8l) | [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe), [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [Marshall \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3L4djDxGf9l7mF39CGlHOZ) | 3:44 |
 | 15 | [What Would It Take](https://open.spotify.com/track/5DSYSJvmhIWkPmfPfDct2m) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Fifty Shades Darker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5VML6S956h4YfoYPooqLEi) | 3:59 |
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXea80XwOJRgD.md) - [plain]
 | 28 | [After Last Night \(with Thundercat & Bootsy Collins\)](https://open.spotify.com/track/6jGAh1bFnXt1Muj9zeHveZ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT) | [An Evening With Silk Sonic](https://open.spotify.com/album/4VZ7jhV0wHpoNPCB7Vmiml) | 4:09 |
 | 29 | [Have You Heard Anything from the Lord Today](https://open.spotify.com/track/5OCwYvNcTGvP4XpaNNr9LN) | [Cody Chesnutt](https://open.spotify.com/artist/3sO8muEXafy2NGwUZByrTr), [Raphael Saadiq](https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo) | [My Love Divine Degree](https://open.spotify.com/album/1IsiXen1EXcsHlF5LVhUP0) | 3:21 |
 | 30 | [Made a Fool of Me](https://open.spotify.com/track/6mND5p3oGGyLe9d6flens2) | [Nicky Egan](https://open.spotify.com/artist/3hv0XXNWxgBu7S0df8xEMy) | [The 45 Homestead Project](https://open.spotify.com/album/1xWTWwjBHRcVELnZvdgvaS) | 4:35 |
-| 31 | [When They Fight, They Fight](https://open.spotify.com/track/0zqmyB1prgGGiOS10sjH8A) | [Generationals](https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL) | [Con Law](https://open.spotify.com/album/6JoADrFrfs62hhWAMzSA8A) | 3:20 |
+| 31 | [When They Fight, They Fight](https://open.spotify.com/track/2YMv5sibAHZzzMmNSYAgIv) | [Generationals](https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL) | [Our Idiot Brother \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2zzis85l9bKu77F69OgvB5) | 3:20 |
 | 32 | [Into The Deep](https://open.spotify.com/track/1ihtjid4pu4fMMnu6eQPjw) | [Galactic](https://open.spotify.com/artist/4rMUtWPGbE6waga7PQO0oQ), [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Into The Deep \(Deluxe Edition\)](https://open.spotify.com/album/4SYn1sKCxhkoO1vRqEqjoS) | 3:42 |
 | 33 | [Hanging Tree](https://open.spotify.com/track/0iz7cMoU81wtTzmeitpcQP) | [Elijah Blake](https://open.spotify.com/artist/65OtBLtkrifQrdTlKI90IR) | [Sankofa.org presents 17](https://open.spotify.com/album/4eXSMX2V9mpHakBpFaWMBe) | 3:10 |
 | 34 | [Someone You Loved](https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 3:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXea80XwOJRgD.md) - [plain]
 | 49 | [I'd Rather Go Blind](https://open.spotify.com/track/7xtpbJoe4D8NxpK6jMn88a) | [Leela James](https://open.spotify.com/artist/5sennRot4Ls82wfspEQuf2) | [Loving You More…In The Spirit Of Etta James](https://open.spotify.com/album/5SCIDpdnpyjDm2bjCj8cuF) | 4:11 |
 | 50 | [Falling](https://open.spotify.com/track/6oUMWq0hCCAdtpcp2GemLd) | [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT) | [NOW That's What I Call Music! Vol\. 74](https://open.spotify.com/album/6numEuZLppWcXTtfhRJQmd) | 2:34 |
 
-Snapshot ID: `MTY2NDcyNjM4MywwMDAwMDAwMDY1ODkxYjdlMjE1MzYwMzNlYTU1MTA3MDQ1MDRjYmQ2`
+Snapshot ID: `MTY2NDcyNjM4MywwMDAwMDAwMDdhMjYyNmU2MmNiMWQ4MDVkMWVjMmY1YjYzMmIwZWUx`

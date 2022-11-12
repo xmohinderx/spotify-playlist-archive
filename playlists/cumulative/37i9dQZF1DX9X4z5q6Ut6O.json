@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 189282,
       "name": "A Mi Me Interesa",
       "url": "https://open.spotify.com/track/1YZkwuliEh6c0rv7gmumCG"
@@ -689,6 +689,24 @@
       "duration_ms": 207586,
       "name": "Me Gustas",
       "url": "https://open.spotify.com/track/7jtbRKtXtGtsJOBMaBo72W"
+    },
+    {
+      "album": {
+        "name": "Me Interesa",
+        "url": "https://open.spotify.com/album/0DBgEMfzVpQMmoUTvbLkmC"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188316,
+      "name": "Me Interesa",
+      "url": "https://open.spotify.com/track/02CewGNR8uzOw1YUqtfsLk"
     },
     {
       "album": {

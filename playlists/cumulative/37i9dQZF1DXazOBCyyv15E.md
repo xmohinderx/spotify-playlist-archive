@@ -4,7 +4,7 @@
 
 > The home of the best new alternative music\. Cover: Rae Morris
 
-1,169 songs - 2 day 21 hr 9 min - [published](https://open.spotify.com/playlist/2P9CK2lB90NpmCPDPSex2G)
+1,170 songs - 2 day 21 hr 12 min - [published](https://open.spotify.com/playlist/2P9CK2lB90NpmCPDPSex2G)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -282,7 +282,8 @@
 | [Dirty Mouth](https://open.spotify.com/track/6zX3RXmaMLY28wlLRCrT7Q) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Dirty Mouth](https://open.spotify.com/album/3Puzt5jR3ERx1f2ku9Ivo8) | 2:54 | 2021-02-19 | 2021-04-30 |
 | [Disco Wings](https://open.spotify.com/track/0AgAWVg6gEvTuXR51UmzNu) | [Plastic Mermaids](https://open.spotify.com/artist/0K2bb637U0v3bBiwE7vtjQ) | [Disco Wings](https://open.spotify.com/album/4gdEAff1FonwLZQPAFR2rU) | 4:21 | 2021-09-10 | 2021-10-29 |
 | [Distraught](https://open.spotify.com/track/2xGhTbe6UI5TmTMJAFlYJK) | [Ethan P\. Flynn](https://open.spotify.com/artist/1c0MTVrGbnets3DTXAEa0z) | [Distraught](https://open.spotify.com/album/3tiSNX0H4fF1VQZ911FhAI) | 3:40 | 2022-03-11 | 2022-05-20 |
-| [Divebomb](https://open.spotify.com/track/4yDT02dRXXMIZEEYxBiSkE) | [The Go! Team](https://open.spotify.com/artist/6veTV9sF06FBf2KN0xAdvo) | [Divebomb](https://open.spotify.com/album/1YXKiRHBrBczUqXo7cWEC6) | 3:22 | 2022-09-29 |  |
+| [Divebomb](https://open.spotify.com/track/3OXpFoS8OktEEB8FSiO3xU) | [The Go! Team](https://open.spotify.com/artist/6veTV9sF06FBf2KN0xAdvo) | [Look Away, Look Away](https://open.spotify.com/album/0i4Zt5ln9MvSGkCeZvrqLM) | 3:22 | 2022-11-11 |  |
+| [Divebomb](https://open.spotify.com/track/4yDT02dRXXMIZEEYxBiSkE) | [The Go! Team](https://open.spotify.com/artist/6veTV9sF06FBf2KN0xAdvo) | [Divebomb](https://open.spotify.com/album/1YXKiRHBrBczUqXo7cWEC6) | 3:22 | 2022-09-29 | 2022-11-12 |
 | [Do It](https://open.spotify.com/track/3tsmNBJw8ovB3VS3cRmSvY) | [Rae Morris](https://open.spotify.com/artist/67xyhWIvYQK5qr6b0gElst) | [Someone Out There](https://open.spotify.com/album/3h30Uo7ctjnKADgYzcUj40) | 3:34 | 2021-03-08 | 2021-03-09 |
 | [Do We Really Care? Pt\. 1](https://open.spotify.com/track/6XtGd5hBVughrp1piyXWXR) | [Future Utopia](https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv), [Tia Carys](https://open.spotify.com/artist/6G5nZjv6YmdialJA071tD3) | [Do We Really Care?](https://open.spotify.com/album/4XXg2VwSGu9WGyb4IxEgFP) | 2:27 | 2020-10-02 | 2020-11-13 |
 | [Do You Want It All?](https://open.spotify.com/track/4PkxkGJ8393zzsgLC87esM) | [pinkpirate](https://open.spotify.com/artist/2C4qc4gKpneYW9QhGSeyCZ) | [Do You Want It All?](https://open.spotify.com/album/7FO5BmKZbsB0T25JudO5UC) | 3:12 | 2022-06-16 | 2022-08-19 |

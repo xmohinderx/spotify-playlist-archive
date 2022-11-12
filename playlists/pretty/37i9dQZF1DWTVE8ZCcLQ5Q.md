@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 
 > Descubra MC Paiva ZS e novos talentos brasileiros no horizonte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 421,342 likes - 60 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 421,365 likes - 60 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 | 13 | [Red de Maracujá](https://open.spotify.com/track/1Ox6cNiWa6diK3mIImaq1P) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U), [Kadu Martins](https://open.spotify.com/artist/57VQCKnZ9nhS7bvoviXuZK) | [Red de Maracujá](https://open.spotify.com/album/6vSJkKFM9XI4Pmy23P5MJO) | 2:22 |
 | 14 | [Incrivel Jogando a Potranca](https://open.spotify.com/track/1Kplq3MbmYv11tcud2ftHp) | [Mc Gabzin](https://open.spotify.com/artist/5RmXJq0g7MNmgtxXLGbd6K), [DJ Swat](https://open.spotify.com/artist/3JrsRa8z1Pngkkf4pDrokD) | [Incrivel Jogando a Potranca](https://open.spotify.com/album/5obmsxidcvFcoY8caNUwQ5) | 1:50 |
 | 15 | [Assalto Perigoso](https://open.spotify.com/track/49GdoM9fiTXVOx1a6JTokJ) | [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI) | [Assalto Perigoso](https://open.spotify.com/album/3wNuvSVXS49LSCNXGHaVzs) | 2:35 |
-| 16 | [Formosa](https://open.spotify.com/track/1QmupixsVNc0osesKXraZC) | [Kaio Viana](https://open.spotify.com/artist/2XGuDrQEuJXo3FfBQMeUn4), [MC CJ](https://open.spotify.com/artist/6JXRSEJa8jE6sxsjMFMozp) | [Formosa](https://open.spotify.com/album/4cEk2x8T69nPNXnryzvrJI) | 3:05 |
-| 17 | [Maresia](https://open.spotify.com/track/14MmpI6ZOB9QaetEIPSzqB) | [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR), [Cuper](https://open.spotify.com/artist/5nxSXjNaqM5nInGmULlfpG), [Zamba](https://open.spotify.com/artist/1tAUNTuJvXvyeVw88XTsEW), [Fredinho O Louco](https://open.spotify.com/artist/25EuS30LCi2tFM0DftRLyF) | [Maresia](https://open.spotify.com/album/0LeTsEVvfdJ86Hi7uE7CxK) | 2:24 |
-| 18 | [Desligado](https://open.spotify.com/track/2919vhmu3wuoNnUgcZBL6w) | [Yago Oproprio](https://open.spotify.com/artist/7HoPy2YmahCCaYaFSFq497), [Jean Tassy](https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU), [Zero](https://open.spotify.com/artist/1t58HpJzdyzWvRl2mo0ZIR) | [Desligado](https://open.spotify.com/album/0ZMqBtsnyJiSPmFVRC2pSC) | 2:02 |
+| 16 | [Maresia](https://open.spotify.com/track/14MmpI6ZOB9QaetEIPSzqB) | [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR), [Cuper](https://open.spotify.com/artist/5nxSXjNaqM5nInGmULlfpG), [Zamba](https://open.spotify.com/artist/1tAUNTuJvXvyeVw88XTsEW), [Fredinho O Louco](https://open.spotify.com/artist/25EuS30LCi2tFM0DftRLyF) | [Maresia](https://open.spotify.com/album/0LeTsEVvfdJ86Hi7uE7CxK) | 2:24 |
+| 17 | [Desligado](https://open.spotify.com/track/2919vhmu3wuoNnUgcZBL6w) | [Yago Oproprio](https://open.spotify.com/artist/7HoPy2YmahCCaYaFSFq497), [Jean Tassy](https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU), [Zero](https://open.spotify.com/artist/1t58HpJzdyzWvRl2mo0ZIR) | [Desligado](https://open.spotify.com/album/0ZMqBtsnyJiSPmFVRC2pSC) | 2:02 |
+| 18 | [Formosa](https://open.spotify.com/track/1QmupixsVNc0osesKXraZC) | [Kaio Viana](https://open.spotify.com/artist/2XGuDrQEuJXo3FfBQMeUn4), [MC CJ](https://open.spotify.com/artist/6JXRSEJa8jE6sxsjMFMozp) | [Formosa](https://open.spotify.com/album/4cEk2x8T69nPNXnryzvrJI) | 3:05 |
 | 19 | [Animais Traidores](https://open.spotify.com/track/0joR9BM1Y2ieSnl7bA2EHY) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [VEGA](https://open.spotify.com/artist/6x0SXnV5f1D9q5pHkwToub) | [Animais Traidores](https://open.spotify.com/album/6y2A0eRXjwkJ0b9VCaLkum) | 3:16 |
 | 20 | [Pra Gente Acordar](https://open.spotify.com/track/4uh2UmvDt2b8xrQPsWZhfv) | [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t) | [Pra Gente Acordar](https://open.spotify.com/album/2IoDCH4Y4KTTTm399IUwzI) | 2:50 |
 | 21 | [Colocando Nela](https://open.spotify.com/track/5uvEyd73MMFvW2WuEghabn) | [MC L da Vinte](https://open.spotify.com/artist/0lHB0Qc4pmD5RkTLlHeESo), [Mc Kaio](https://open.spotify.com/artist/34ZgtjHC9aNCr5ZTUs7bzx) | [Colocando Nela](https://open.spotify.com/album/1Q3x5tOOqIGGRLBjQlM0zs) | 2:20 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 | 59 | [Me liga](https://open.spotify.com/track/4ia06gVwN3wMDpZXRMFcX6) | [Big Bllakk](https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd), [Pedro Apoema](https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0), [Erick Di](https://open.spotify.com/artist/6ITlDmLtSRT8f36NVQQENS) | [Me liga](https://open.spotify.com/album/3VeZjOr9TbplcmNHzZ9xG7) | 2:30 |
 | 60 | [poderia ser pior](https://open.spotify.com/track/0ksL64x432xlpRa2ii0bqN) | [Number Teddie](https://open.spotify.com/artist/18TympJ9X4CQ45GYy7sORT) | [poderia ser pior](https://open.spotify.com/album/3vaeQA1qsbog2MZKhMbt1O) | 2:52 |
 
-Snapshot ID: `MTY2NTc3OTMxNywwMDAwMDAwMDZkOTI4Y2U3Y2U5ZDIxODY1OTQyMTdkNDMwNGNmNGNj`
+Snapshot ID: `MTY2NTc3OTMxNywwMDAwMDAwMDdiOTc2M2JhMzA4ZWJhNzc5YWUzYTgyODY1ZGUzZDA5`

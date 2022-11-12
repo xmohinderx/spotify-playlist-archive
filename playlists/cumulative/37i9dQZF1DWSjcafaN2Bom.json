@@ -192,6 +192,24 @@
     },
     {
       "album": {
+        "name": "The Very Best Of",
+        "url": "https://open.spotify.com/album/2C2EGu9hMaaZoyojiy8ArK"
+      },
+      "artists": [
+        {
+          "name": "The Colourfield",
+          "url": "https://open.spotify.com/artist/06Rbwc8jaQ1d5fDPZiasE0"
+        }
+      ],
+      "date_added": "2021-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "Can't Get Enough of You Baby",
+      "url": "https://open.spotify.com/track/31mU2yXgnzzh24mK1Onq6I"
+    },
+    {
+      "album": {
         "name": "Virgins and Philistines",
         "url": "https://open.spotify.com/album/3tdXINS9OVPtc3gNcXaF6r"
       },
@@ -203,7 +221,7 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 142000,
       "name": "Can't Get Enough of You Baby",
       "url": "https://open.spotify.com/track/3D3fjCGghjB8b8Ygy7ga8R"
@@ -838,6 +856,24 @@
     },
     {
       "album": {
+        "name": "Back To School - Pop Edition",
+        "url": "https://open.spotify.com/album/7D7AsvzfRsK5le2DiV5ekP"
+      },
+      "artists": [
+        {
+          "name": "Letters To Cleo",
+          "url": "https://open.spotify.com/artist/7E41j1yL9ZeTWfqe9bUGgw"
+        }
+      ],
+      "date_added": "2021-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205906,
+      "name": "I Want You To Want Me",
+      "url": "https://open.spotify.com/track/5HWEu2neVmx4j9jeXvx5NA"
+    },
+    {
+      "album": {
         "name": "When Did We Do That?",
         "url": "https://open.spotify.com/album/1c2pJwy1y3eSP2Nknt0rp8"
       },
@@ -849,7 +885,7 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 206216,
       "name": "I Want You to Want Me",
       "url": "https://open.spotify.com/track/3DcPLPvsZPcFcYfMPMfh4e"
@@ -1256,6 +1292,24 @@
     },
     {
       "album": {
+        "name": "90s Alternative Rock Driving Mix",
+        "url": "https://open.spotify.com/album/2HHkArbYcQSKso5XjN0BkY"
+      },
+      "artists": [
+        {
+          "name": "Harley's Studio Band",
+          "url": "https://open.spotify.com/artist/2YtlCd7k84kBjhnoqeFBPz"
+        }
+      ],
+      "date_added": "2021-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220333,
+      "name": "Semi-Charmed Life",
+      "url": "https://open.spotify.com/track/2YMT6pBts0m7U9wWJtk9Zh"
+    },
+    {
+      "album": {
         "name": "90s Throwback Party Playlist",
         "url": "https://open.spotify.com/album/3q8mzkYK9UbWXrIvgd8ZvZ"
       },
@@ -1267,7 +1321,7 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 220333,
       "name": "Semi-Charmed Life",
       "url": "https://open.spotify.com/track/5asLLto8NOl6LKSxrSmGsb"
@@ -1627,10 +1681,28 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 245680,
       "name": "When I Grow Up",
       "url": "https://open.spotify.com/track/21pySLskKIKrhDziCX5ojQ"
+    },
+    {
+      "album": {
+        "name": "Best of 00's - Anni Duemila",
+        "url": "https://open.spotify.com/album/41NuMd2a08Nx5ahbvgvlQZ"
+      },
+      "artists": [
+        {
+          "name": "The Pussycat Dolls",
+          "url": "https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ"
+        }
+      ],
+      "date_added": "2021-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245680,
+      "name": "When I Grow Up",
+      "url": "https://open.spotify.com/track/3mtvkmD4Jp2jaZxfwuwD9E"
     },
     {
       "album": {

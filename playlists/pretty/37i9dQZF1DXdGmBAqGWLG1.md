@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGmBAqGWLG1.md) - [plain]
 
 > Escuchá la banda de sonido de La Serie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,980 likes - 49 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,983 likes - 49 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [El regreso](https://open.spotify.com/track/3jW0FwFsOG2zJIH0a3Nhs6) | [El Bordo](https://open.spotify.com/artist/6U5QPaU2JpWfzInyd2g9zg) | [YACANTO](https://open.spotify.com/album/49f97tJOF5ZKTseAVoyKSR) | 5:23 |
-| 2 | [El 38](https://open.spotify.com/track/5Ywzb69fz015zVnTFMY22i) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Sin Roll no hay ROCK](https://open.spotify.com/album/0QHlimvlC1tLuERJYZJ3I2) | 2:29 |
+| 2 | [El 38](https://open.spotify.com/track/2qLmEdr1UoLetZUjPgSB9X) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [ROCK PESADO vol\. I](https://open.spotify.com/album/7raMr2V1jKqLN2c6sJZuGs) | 2:29 |
 | 3 | [El Final Es En Donde Partí](https://open.spotify.com/track/3PPG2ED8zN1qzEngtsatwc) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Grupo ROCK](https://open.spotify.com/album/439HEbHhuo0aWO4tpvmyqV) | 4:36 |
 | 4 | [Hey Joe](https://open.spotify.com/track/0NWPxcsf5vdjdiFUI8NgkP) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Are You Experienced](https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9) | 3:30 |
 | 5 | [Fortunate Son](https://open.spotify.com/track/4BP3uh0hFLFRb5cjsgLqDh) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Willy And The Poor Boys \(Expanded Edition\)](https://open.spotify.com/album/31q47gQszFt0CddSyMksgO) | 2:20 |
@@ -21,13 +21,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGmBAqGWLG1.md) - [plain]
 | 11 | [Come Together \- Remastered 2009](https://open.spotify.com/track/2EqlS6tkEnglzr7tkKAAYD) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered\)](https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN) | 4:19 |
 | 12 | [Casa Con Diez Pinos](https://open.spotify.com/track/2Ras7UcXvzenVmkyVMibdh) | [Manal](https://open.spotify.com/artist/10vtHOCA3qPLmrGylgO2F1) | [Manal](https://open.spotify.com/album/1VoglV38RPcTn7P9yZxO4C) | 4:14 |
 | 13 | [¿A dónde vas?](https://open.spotify.com/track/0T28vJFKjxSscEEavTeR4R) | [El Bordo](https://open.spotify.com/artist/6U5QPaU2JpWfzInyd2g9zg) | [Historias Perdidas](https://open.spotify.com/album/4QWS9kxQIVo6eHtuYaBfnX) | 3:43 |
-| 14 | [Ritmo y Blues con Armonica](https://open.spotify.com/track/6AH0CRRdj5R2WXUNP972Dq) | [Vox Dei](https://open.spotify.com/artist/1sTOtMflHQ1ULtuozST5RR) | [Jeremias Pies de Plomo](https://open.spotify.com/album/6DzIE4rk4DOu190o2UzeQ7) | 4:31 |
+| 14 | [Ritmo Y Blues Con Armónica](https://open.spotify.com/track/02bDSyJIoe89P0El2K2hju) | [Vox Dei](https://open.spotify.com/artist/1sTOtMflHQ1ULtuozST5RR) | [Jeremías Pies De Plomo](https://open.spotify.com/album/6ffmIHsB2FHxwL0c7ifNt6) | 4:31 |
 | 15 | [A Vos Amigo \- En Vivo](https://open.spotify.com/track/1tT0vUqzMakt7LNJlQTTTu) | [Almafuerte](https://open.spotify.com/artist/6qYd7xlmeeeDkPfx6mZ9PV) | [En Vivo: Obras 2001](https://open.spotify.com/album/1n0of2ZlRVRlLtkyZWPoGG) | 5:01 |
 | 16 | [Arnold Layne](https://open.spotify.com/track/2Dsy7Ls7OuvG1fpjrKI5AE) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Relics](https://open.spotify.com/album/361QTNnQcBcNJ38gn8ZWQw) | 2:56 |
 | 17 | [Dejar caer el sol](https://open.spotify.com/track/0CFGqMYIIzWWZAqaQakK3P) | [El Bordo](https://open.spotify.com/artist/6U5QPaU2JpWfzInyd2g9zg) | [YACANTO](https://open.spotify.com/album/49f97tJOF5ZKTseAVoyKSR) | 4:39 |
 | 18 | [Your Time Has Come](https://open.spotify.com/track/5Lng6l6r1P4KjYVs7AoOpc) | [Audioslave](https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn) | [Out of Exile](https://open.spotify.com/album/0HQhToIjonHnJRRPN4jeJU) | 4:15 |
-| 19 | [Hella Good](https://open.spotify.com/track/6AfLmKXzhEZjwiVPs5jhdV) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Rock Steady \(Expanded Edition\)](https://open.spotify.com/album/0KFPnm4Ow2L9BuivmWT3pu) | 4:02 |
-| 20 | [Smells Like Teen Spirit](https://open.spotify.com/track/5ghIJDpPoe3CfHMGu71E6T) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 5:01 |
+| 19 | [Hella Good](https://open.spotify.com/track/1QpaUFTW7G8DAFw5y1OFwj) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Old Songs](https://open.spotify.com/album/1Y5ZSJrKqfZzl1GsyZXyso) | 4:02 |
+| 20 | [Smells Like Teen Spirit \- Remastered 2021](https://open.spotify.com/track/4TMhakloPMPS84lNHNTSa3) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(30th Anniversary Super Deluxe\)](https://open.spotify.com/album/5eA0qtE7Yu29XiMlwoby2G) | 5:00 |
 | 21 | [Existir](https://open.spotify.com/track/55wzIOtPSkqN37jQB8WNDa) | [El Bordo](https://open.spotify.com/artist/6U5QPaU2JpWfzInyd2g9zg) | [Hermanos](https://open.spotify.com/album/4Y6sjWEwLfRco4b75rZmOW) | 3:43 |
 | 22 | [Houses of the Holy \- Remaster](https://open.spotify.com/track/0gJmT4VMZd6iYDvqfOou0A) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Physical Graffiti \(Remaster\)](https://open.spotify.com/album/4Q7cPyiP8cMIlUEHAqeYfd) | 4:04 |
 | 23 | [I Won't Back Down](https://open.spotify.com/track/7gSQv1OHpkIoAdUiRLdmI6) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Full Moon Fever](https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093) | 2:58 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGmBAqGWLG1.md) - [plain]
 | 48 | [Live And Let Die](https://open.spotify.com/track/0rFWuqFgHAfuzE8uSB9TWR) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion I](https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz) | 3:02 |
 | 49 | [Volviendo el sol](https://open.spotify.com/track/17ypCaGMiaf5zbsNztb6b9) | [El Bordo](https://open.spotify.com/artist/6U5QPaU2JpWfzInyd2g9zg) | [Un Grito en el Viento](https://open.spotify.com/album/6xk8lyhsmfeNZ2pf0uF9hg) | 7:53 |
 
-Snapshot ID: `MTYwMDQzNzc5MSwwMDAwMDAwMGY5MDIwYzcwM2M4YWU1ODQxYzViYzgxOTg2YjljYjQ1`
+Snapshot ID: `MTYwMDQzNzc5MSwwMDAwMDAwMDIyZTQyOWMxNTQ4Mzk1OGNiMDliMWYwNGM1ZDQ2ZjFk`

@@ -462,6 +462,24 @@
     },
     {
       "album": {
+        "name": "Woodland",
+        "url": "https://open.spotify.com/album/1lq6KMHFACcE6GQZysxnSZ"
+      },
+      "artists": [
+        {
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210080,
+      "name": "Bloom - Bonus Track",
+      "url": "https://open.spotify.com/track/1HMQmOWrkieKYWlFsjUP3D"
+    },
+    {
+      "album": {
         "name": "Bones",
         "url": "https://open.spotify.com/album/1Q9SnHWPNEjVM0LrBFvJ1q"
       },
@@ -2283,7 +2301,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 160097,
       "name": "Ophelia",
       "url": "https://open.spotify.com/track/3d8y0t70g7hw2FOWl9Z4Fm"
@@ -3214,6 +3232,24 @@
     },
     {
       "album": {
+        "name": "Left Of The Middle",
+        "url": "https://open.spotify.com/album/38alWeQVP9UUAGJvLptys9"
+      },
+      "artists": [
+        {
+          "name": "Natalie Imbruglia",
+          "url": "https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244666,
+      "name": "Torn",
+      "url": "https://open.spotify.com/track/1Jaah2tmN9Hv81A87KZ1MU"
+    },
+    {
+      "album": {
         "name": "Take It All Away (U.S. Version)",
         "url": "https://open.spotify.com/album/78IbgGcKueK33SETMOQfaj"
       },
@@ -3539,7 +3575,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 209493,
       "name": "You're Beautiful",
       "url": "https://open.spotify.com/track/0vg4WnUWvze6pBOJDTq99k"

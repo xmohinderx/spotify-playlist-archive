@@ -4,7 +4,7 @@
 
 > Elevate the moment and unwind with the lush sounds of these ethereal tracks.
 
-173 songs - 11 hr 18 min - [published](https://open.spotify.com/playlist/2sqAkZ7irgoKucdGgQUB0Y)
+175 songs - 11 hr 25 min - [published](https://open.spotify.com/playlist/2sqAkZ7irgoKucdGgQUB0Y)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,8 @@
 | [Pallid Eyes](https://open.spotify.com/track/5hmI1tgtDXpaSLYbyYZyIB) | [Emily Jane White](https://open.spotify.com/artist/2PqsalqLh5RT6FSy9DrGZh) | [They Moved In Shadow All Together](https://open.spotify.com/album/2SuFHw70l56dvXHijLQUK1) | 3:54 | 2021-10-22 |  |
 | [Petals](https://open.spotify.com/track/1TVd8FHpeg1Afa92kaO0kR) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [A Mineral Love](https://open.spotify.com/album/47riSLCeFOffFRi9BZ2eig) | 2:32 | 2021-10-22 |  |
 | [Plucky](https://open.spotify.com/track/3EJWBUjdvBYuXEaqOhIapA) | [Morly](https://open.spotify.com/artist/25IpNXDRxJS38E2rLJeCF3) | [Something More Holy EP](https://open.spotify.com/album/31M4xUpeSF5KYsPTJt1lfi) | 3:14 | 2021-10-22 | 2022-06-15 |
-| [Sapphire](https://open.spotify.com/track/6GqYyrBzHkrE8PJCO6nPId) | [Diamond Thug](https://open.spotify.com/artist/4mXcRr0lognLc6xSb1vUTX) | [Apastron](https://open.spotify.com/album/6C97cDlZPNtq0yl7aAcG1H) | 3:11 | 2021-10-22 |  |
+| [Sapphire](https://open.spotify.com/track/4Kbv92f2Ikx6i3djxiuU8T) | [Diamond Thug](https://open.spotify.com/artist/4mXcRr0lognLc6xSb1vUTX) | [Sapphire](https://open.spotify.com/album/6o1xiiPYHv7e8fxIpOxGDJ) | 3:11 | 2021-10-22 |  |
+| [Sapphire](https://open.spotify.com/track/6GqYyrBzHkrE8PJCO6nPId) | [Diamond Thug](https://open.spotify.com/artist/4mXcRr0lognLc6xSb1vUTX) | [Apastron](https://open.spotify.com/album/6C97cDlZPNtq0yl7aAcG1H) | 3:11 | 2021-10-22 | 2022-11-12 |
 | [Sapphire](https://open.spotify.com/track/2thyOEqaDSJwb9jaHvsa6F) | [Diamond Thug](https://open.spotify.com/artist/4mXcRr0lognLc6xSb1vUTX) | [Sapphire](https://open.spotify.com/album/0IA5VCej9UIVUNtcCD0oH8) | 3:12 | 2021-10-22 | 2022-07-29 |
 | [Saving Us a Riot](https://open.spotify.com/track/1jpMsR7pZ56267QsvCOhci) | [Phoria](https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm) | [Volition](https://open.spotify.com/album/5o5VHNjnZ5E5fb5cuoRzBZ) | 4:17 | 2021-10-22 |  |
 | [Seven Hours](https://open.spotify.com/track/1g9n3Y040NXNrDYZ3xo3yb) | [Little May](https://open.spotify.com/artist/0TjAAwE04BeoSeOpJIakYH) | [For The Company](https://open.spotify.com/album/4ruKhGgJSmLx5fGAZquEH2) | 3:41 | 2021-10-22 | 2022-11-11 |
@@ -173,8 +174,9 @@
 | [Want It Kept](https://open.spotify.com/track/54scWT6qDcZloe6CavVQuz) | [Many Voices Speak](https://open.spotify.com/artist/58F5GqfOMje69JMa2LIHD6) | [Want It Kept](https://open.spotify.com/album/2BHKtmjP8XIst4hvc1UTLa) | 4:08 | 2021-10-22 |  |
 | [When The Body Is Gone \- SA TA NA MA DEMO](https://open.spotify.com/track/32q6vxuceVf5FjUmCabNFf) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [When The Body Is Gone \(SA TA NA MA DEMO\)](https://open.spotify.com/album/5ZCG9vRnlb3BaMOB55yvWJ) | 4:05 | 2021-10-22 |  |
 | [Whiskey Whiskey](https://open.spotify.com/track/12oNWDCd6iK6NIsCZFg3B0) | [Joshua Burnside](https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV) | [Whiskey Whiskey](https://open.spotify.com/album/37vW9MedFrxDPmdQlKz5dB) | 2:49 | 2021-10-22 |  |
+| [You](https://open.spotify.com/track/0VmVQLYdFAL43dhrgaP1E2) | [Kyson](https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx) | [FOF10: You](https://open.spotify.com/album/2616kNRXDaKKozQDIuiuUA) | 3:56 | 2021-10-22 |  |
 | [You](https://open.spotify.com/track/66U9crEvM20SSWnRY3miP7) | [Kyson](https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx) | [You](https://open.spotify.com/album/3UgXoqZGnRDAYudI0SBvkH) | 3:56 | 2021-10-22 | 2022-07-29 |
-| [You](https://open.spotify.com/track/6mwHS78L18Da6HRO4HNo0i) | [Kyson](https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx) | [A Book Of Flying](https://open.spotify.com/album/1vXfSRXxuhqCWiVgA2Zzde) | 3:56 | 2021-10-22 |  |
+| [You](https://open.spotify.com/track/6mwHS78L18Da6HRO4HNo0i) | [Kyson](https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx) | [A Book Of Flying](https://open.spotify.com/album/1vXfSRXxuhqCWiVgA2Zzde) | 3:56 | 2021-10-22 | 2022-11-12 |
 | [You and I](https://open.spotify.com/track/7j9DRB3AzXxQNRHAY3RfAx) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [You and I](https://open.spotify.com/album/0H7AadTjFvdH0XYB2oVuCe) | 3:12 | 2021-10-22 |  |
 | [You're Somebody Else](https://open.spotify.com/track/1tweNeMlwxfeoOXklVibnf) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [Nothing Lasts Forever \(And It's Fine\)](https://open.spotify.com/album/6H5Gf3PNATQ6ufJQhM263o) | 3:38 | 2021-10-22 | 2022-07-29 |
 | [You're Somebody Else](https://open.spotify.com/track/1nNdmZ6ETjmvRqBG3ieTwt) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [Summer Hits of the 10s](https://open.spotify.com/album/3Cc3sTKGBCesLQcpNS3f3e) | 3:39 | 2021-10-22 |  |

@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 
 > Os padres e nomes que movem multidões pelo país\. Foto: Thiago Brado
 
-[Spotify](https://open.spotify.com/user/spotify) - 279,594 likes - 70 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 279,683 likes - 70 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Meu Mundo](https://open.spotify.com/track/712wkFgYgi6i6xJfFtBoNL) | [Thiago Brado](https://open.spotify.com/artist/7nhFPRuBTebusd2cBMAaEK) | [Meu Acampamento](https://open.spotify.com/album/7nFGxAkZ9iz7h5cho5xIqm) | 5:56 |
 | 2 | [Maria Passa à Frente \(feat\. Gusttavo Lima\)](https://open.spotify.com/track/1iLunZvT65nyHSRNPNii8H) | [Padre Marcelo Rossi](https://open.spotify.com/artist/0BLa22ZCJcTxW78hoNlFA9), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Maria Passa à Frente \(feat\. Gusttavo Lima\)](https://open.spotify.com/album/7KR81hHAFjA5SpC2JjVP4k) | 4:44 |
 | 3 | [Casa](https://open.spotify.com/track/52UwxcBnQeWh4HeMngkuVs) | [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1) | [Casa](https://open.spotify.com/album/0ii9sn33qDORUI8FZsWRFk) | 4:59 |
-| 4 | [Queima de Novo \- Live](https://open.spotify.com/track/3cSLVcoB6WLztIf8fqZxOq) | [Tony Allysson](https://open.spotify.com/artist/44bBAyEUlfLwzAe6bXoKGU) | [Deus É Poderoso pra Fazer: Live Session](https://open.spotify.com/album/3jXBzdhvrT6qURsIfDXnHm) | 8:38 |
-| 5 | [Jardim](https://open.spotify.com/track/5g5w8pq89QLOz0psHs8nyW) | [Fraternidade São João Paulo II](https://open.spotify.com/artist/3P2GN1O0yI6n84aDFOcvVt), [Ir\. Samuel Maria](https://open.spotify.com/artist/4kpNrXcguMoec72kBgTD5b) | [Jardim](https://open.spotify.com/album/0Lk5fABYuwO8rdGIIMv4BR) | 8:14 |
+| 4 | [Jardim](https://open.spotify.com/track/5g5w8pq89QLOz0psHs8nyW) | [Fraternidade São João Paulo II](https://open.spotify.com/artist/3P2GN1O0yI6n84aDFOcvVt), [Ir\. Samuel Maria](https://open.spotify.com/artist/4kpNrXcguMoec72kBgTD5b) | [Jardim](https://open.spotify.com/album/0Lk5fABYuwO8rdGIIMv4BR) | 8:14 |
+| 5 | [Queima de Novo \- Live](https://open.spotify.com/track/3cSLVcoB6WLztIf8fqZxOq) | [Tony Allysson](https://open.spotify.com/artist/44bBAyEUlfLwzAe6bXoKGU) | [Deus É Poderoso pra Fazer: Live Session](https://open.spotify.com/album/3jXBzdhvrT6qURsIfDXnHm) | 8:38 |
 | 6 | [Tudo É do Pai](https://open.spotify.com/track/37DyD8BoLPQUEYZHBTPkxK) | [Eliana Ribeiro](https://open.spotify.com/artist/7ffqgUujPJ2BxcFc8BmG5y) | [Tudo É do Pai](https://open.spotify.com/album/68YZx0zsiGT4nK4qMVCN4X) | 6:36 |
 | 7 | [Gratidão](https://open.spotify.com/track/4qp1XuMdwpxxwsJGvYrU0x) | [Rafa Gomes](https://open.spotify.com/artist/7F9ZF1WVkJHsD8t4iNtDh2), [Padre Reginaldo Manzotti](https://open.spotify.com/artist/7luES30fTO66nDk83NZCJV) | [Gratidão](https://open.spotify.com/album/2mR8N7U8tl7ABErUql5XH8) | 4:22 |
 | 8 | [Decididamente](https://open.spotify.com/track/3wWu0QLfTDfNa7ZVH6pQs8) | [Cassiano Menke](https://open.spotify.com/artist/6XEVCyhWv960rTzOHTkcv1), [Walmir Alencar](https://open.spotify.com/artist/5dPToGb1vTTAf0ZiKqCpSN) | [Decididamente](https://open.spotify.com/album/0mAKA1AGk8xqP2i4bfBPeN) | 4:18 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 | 69 | [Mãe, Me Defende do Mal](https://open.spotify.com/track/6rTctPkzfFketYUeht2DNl) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS), [Irmã Kelly Patrícia](https://open.spotify.com/artist/59QxXQdSzooggAKxCzWprV) | [Mãe, Me Defende do Mal](https://open.spotify.com/album/5B1AJ6eP1KI2BBy4qZLP2K) | 5:00 |
 | 70 | [Confio em Ti](https://open.spotify.com/track/0S4O7XVa5ijA9jQXYcIZEA) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS) | [Confio em Ti](https://open.spotify.com/album/2U294zEFql410JNg2dVPf9) | 4:23 |
 
-Snapshot ID: `MTY2NTcyNjg1NywwMDAwMDAwMGExZTZjZmRlYmIxMTJjYTU2MzgxN2MzZDllODk0ZjMz`
+Snapshot ID: `MTY2NTcyNjg1NywwMDAwMDAwMDE1YTg3ZWJlYzJkMTdlMzRkMjNmNzIyYTUzOWE5NmE4`

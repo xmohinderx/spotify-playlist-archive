@@ -298,6 +298,28 @@
     },
     {
       "album": {
+        "name": "A\u00f1o Nuevo, Vida Nueva",
+        "url": "https://open.spotify.com/album/5mUkfaaM8ioUFphoF0ewKE"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207173,
+      "name": "Ch\u00e9 Ch\u00e9 Col\u00e9",
+      "url": "https://open.spotify.com/track/5qpaGx8k2HKYzOqfYjTiwM"
+    },
+    {
+      "album": {
         "name": "Anthology",
         "url": "https://open.spotify.com/album/27RB4wbSSei1uyDJfrsxT2"
       },
@@ -375,7 +397,7 @@
       ],
       "date_added": "2020-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 250946,
       "name": "Con Salsa Y Sabor",
       "url": "https://open.spotify.com/track/6N4aFctccB3Zyz1hD0SpYs"
@@ -436,6 +458,24 @@
     },
     {
       "album": {
+        "name": "\u00c9xitos de la Salsa",
+        "url": "https://open.spotify.com/album/4dE8XD9VBh3UDOio2LsqKc"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 622520,
+      "name": "El Cantante",
+      "url": "https://open.spotify.com/track/166cUvnNBa5ZoFWLIsLZfU"
+    },
+    {
+      "album": {
         "name": "Comedia",
         "url": "https://open.spotify.com/album/7CBmznpnzPgLpBXFlB40B6"
       },
@@ -451,6 +491,28 @@
       "duration_ms": 626880,
       "name": "El Cantante",
       "url": "https://open.spotify.com/track/5Uve0jm1RgxKWzdSvncBDO"
+    },
+    {
+      "album": {
+        "name": "Salsa Navide\u00f1a Panam\u00e1",
+        "url": "https://open.spotify.com/album/4apbcZSdnSqYUKNRPdYBZa"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323266,
+      "name": "El D\u00eda De Mi Suerte",
+      "url": "https://open.spotify.com/track/084NhKQ5uxAFYJtGyTEzv1"
     },
     {
       "album": {
@@ -491,7 +553,7 @@
       ],
       "date_added": "2020-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 328786,
       "name": "El D\u00eda De Mi Suerte",
       "url": "https://open.spotify.com/track/7Kmfjms3yyhg2y56mN7EfZ"
@@ -531,7 +593,7 @@
       ],
       "date_added": "2020-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 213773,
       "name": "El Exigente",
       "url": "https://open.spotify.com/track/09j8C1kYNjY66EVtl4nhl0"
@@ -664,6 +726,36 @@
     },
     {
       "album": {
+        "name": "Salsa Navide\u00f1a Panam\u00e1",
+        "url": "https://open.spotify.com/album/4apbcZSdnSqYUKNRPdYBZa"
+      },
+      "artists": [
+        {
+          "name": "Sonora Ponce\u00f1a",
+          "url": "https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa"
+        },
+        {
+          "name": "Papo Lucca",
+          "url": "https://open.spotify.com/artist/1KbyKzIyGQig2K7sP5E7gv"
+        },
+        {
+          "name": "Luigui Gomez",
+          "url": "https://open.spotify.com/artist/7iY8Y06Ta3wYvBpH0fTHVQ"
+        },
+        {
+          "name": "Tito G\u00f3mez",
+          "url": "https://open.spotify.com/artist/6d5spDidb3nveGjwpybfdn"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283960,
+      "name": "Fuego En El 23",
+      "url": "https://open.spotify.com/track/0cxYw6qavU847HqwyO3Sg4"
+    },
+    {
+      "album": {
         "name": "Fuego en el 23!",
         "url": "https://open.spotify.com/album/0c3F6OlWKJnkRTb78nswUt"
       },
@@ -687,7 +779,7 @@
       ],
       "date_added": "2020-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 284640,
       "name": "Fuego En El 23",
       "url": "https://open.spotify.com/track/5EX3Q9GWGMtvvugQFkNTUb"
@@ -727,7 +819,7 @@
       ],
       "date_added": "2020-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 241640,
       "name": "Guisando",
       "url": "https://open.spotify.com/track/2H1VVvCqRoaBE5TGks5Bsj"
@@ -869,6 +961,28 @@
       "duration_ms": 456960,
       "name": "Juanito Alima\u00f1a",
       "url": "https://open.spotify.com/track/336Xdyzllb9WbJIC8XF90t"
+    },
+    {
+      "album": {
+        "name": "Salsa Brava & Vieja",
+        "url": "https://open.spotify.com/album/6HKcgjfdctL1drlchYrfHM"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        },
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 456960,
+      "name": "Juanito Alima\u00f1a",
+      "url": "https://open.spotify.com/track/6zwu9eVDWnwmKJxLDnYJbq"
     },
     {
       "album": {
@@ -1014,6 +1128,32 @@
     },
     {
       "album": {
+        "name": "Mix Latinos",
+        "url": "https://open.spotify.com/album/1CN9y1QYYbvDBcJyTh2hXy"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        },
+        {
+          "name": "Yomo Toro",
+          "url": "https://open.spotify.com/artist/112OOUPY3pq7Hr35s3po6E"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333520,
+      "name": "La Murga",
+      "url": "https://open.spotify.com/track/19H2WWw0j6t0gEuWPLbdq9"
+    },
+    {
+      "album": {
         "name": "Asalto Navide\u00f1o",
         "url": "https://open.spotify.com/album/4TnqBA58KybPV53g95LHLe"
       },
@@ -1094,6 +1234,24 @@
     },
     {
       "album": {
+        "name": "Latin Salsa",
+        "url": "https://open.spotify.com/album/2bWOqlThmgtq19WdOsYcs2"
+      },
+      "artists": [
+        {
+          "name": "Ismael Rivera",
+          "url": "https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244800,
+      "name": "Las Tumbas",
+      "url": "https://open.spotify.com/track/6GjepFkAPxlD6HmOrAyIsU"
+    },
+    {
+      "album": {
         "name": "Ismael Rivera - Greatest Hits",
         "url": "https://open.spotify.com/album/5YbhaAh0G06ElvNWvLvRor"
       },
@@ -1109,6 +1267,24 @@
       "duration_ms": 246813,
       "name": "Las Tumbas",
       "url": "https://open.spotify.com/track/3bnNDCQbLHvo7xPItA7jeG"
+    },
+    {
+      "album": {
+        "name": "Salsa y tareas",
+        "url": "https://open.spotify.com/album/1o4zxhSr5AOcrsqHEhUt4X"
+      },
+      "artists": [
+        {
+          "name": "Mon Rivera",
+          "url": "https://open.spotify.com/artist/0XnUt52wINQV3RGEWCeDFx"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177680,
+      "name": "Lluvia con Nieve",
+      "url": "https://open.spotify.com/track/15WX2LYmLXvIiDeP9SYdlG"
     },
     {
       "album": {
@@ -1199,7 +1375,7 @@
       ],
       "date_added": "2020-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 184346,
       "name": "Mas Salsa Que Pescado",
       "url": "https://open.spotify.com/track/6QbNFxPtXsHcDrS3eOkFS0"
@@ -1471,7 +1647,7 @@
       ],
       "date_added": "2020-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 277186,
       "name": "Qu\u00e9 L\u00edo",
       "url": "https://open.spotify.com/track/2jFbuXFDhtIfcRIz9GrG9w"
@@ -1751,7 +1927,7 @@
       ],
       "date_added": "2020-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 256349,
       "name": "Traigo Salsa",
       "url": "https://open.spotify.com/track/0NxgJNpQQ4Gw3HR67VySRJ"

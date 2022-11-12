@@ -4,14 +4,14 @@
 
 > Tesoros musicales del ayer.
 
-158 songs - 9 hr 14 min - [published](https://open.spotify.com/playlist/1j70WbpeB1BVZqorFbKNd4)
+159 songs - 9 hr 17 min - [published](https://open.spotify.com/playlist/1j70WbpeB1BVZqorFbKNd4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Esa](https://open.spotify.com/track/42QWOsW1f9uDu9zsoUAE73) | [Pimpinela](https://open.spotify.com/artist/7E7CVSqFdLyh0K4AE9uTMo) | [Personalidad](https://open.spotify.com/album/7KvMyEYFd70S7ywbxhzleY) | 3:08 | 2021-04-22 |  |
 | [A Que No Le Cuentas](https://open.spotify.com/track/3WDNKy17AbatmDeMwSjzbj) | [Ednita Nazario](https://open.spotify.com/artist/1Lvrnoz3ZKzzrBuZ446e6P) | [Lo Mejor De...](https://open.spotify.com/album/6HtnxyCP7gbCbrxVLY93Yj) | 4:12 | 2021-04-22 |  |
 | [Acariciame](https://open.spotify.com/track/5ZByeI0wKJsygP4PhbjTFp) | [Lupita D'Alessio](https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en) | [Las 15 Consagradas](https://open.spotify.com/album/1SmAYcSbwmZJmz01UBnKeF) | 4:51 | 2021-04-22 | 2022-07-28 |
-| [Acariciame](https://open.spotify.com/track/2Cg1fj6jAMXc3F9sobVfaR) | [Lupita D'Alessio](https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en) | [Las 15 Consagradas](https://open.spotify.com/album/6m5h3OTjm2V0Jo5I2ckwTa) | 4:52 | 2021-04-22 |  |
+| [Acariciame](https://open.spotify.com/track/2Cg1fj6jAMXc3F9sobVfaR) | [Lupita D'Alessio](https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en) | [Las 15 Consagradas](https://open.spotify.com/album/6m5h3OTjm2V0Jo5I2ckwTa) | 4:52 | 2021-04-22 | 2022-11-12 |
 | [Acaríciame](https://open.spotify.com/track/36AZfm9TMpqDe0a97eQHZ5) | [Maria Conchita Alonso](https://open.spotify.com/artist/6FUfgoFZ2v5kI19aG209J9) | [Lo Mejor De Maria Conchita Alonso](https://open.spotify.com/album/3jG74yZBWZx6bfyDCYk81x) | 4:18 | 2021-04-22 | 2022-07-29 |
 | [Acompáñame](https://open.spotify.com/track/3puWDsQy9x6GLKQMJjcrlj) | [Enrique Guzman](https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG) | [Leyendas Solamente Los Mejores](https://open.spotify.com/album/0jHKZrqqHTc6uZIwYgKZbJ) | 3:22 | 2021-04-22 |  |
 | [Adoro](https://open.spotify.com/track/00qP28OLPa3PQ7EmWBsaMK) | [Armando Manzanero](https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT) | [A Mi Amor Con Mi Amor](https://open.spotify.com/album/2UER4o2CMFxJ0qEG662gcu) | 2:21 | 2021-04-22 |  |
@@ -24,6 +24,7 @@
 | [Amor En El Aire](https://open.spotify.com/track/4SpymdQGOUzDEsOGSlwDR0) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Una Vida De Cine](https://open.spotify.com/album/6FkZm0HYNuPm4eEhLKVZ6r) | 2:15 | 2021-04-22 | 2022-07-29 |
 | [Amor, Amor](https://open.spotify.com/track/3mPsvF84MBbrwj0YEhODQq) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Amor Amor](https://open.spotify.com/album/6ULY5Bnnyu0VbMZY1i6TyJ) | 4:29 | 2021-04-22 |  |
 | [Asi Fue](https://open.spotify.com/track/419FFiitGchOUaIMEY7Dqi) | [Isabel Pantoja](https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo) | [Desde Andalucia](https://open.spotify.com/album/2z0nGeab4W4lk2AjxG3kbw) | 5:25 | 2021-04-22 |  |
+| [Bésame Mucho](https://open.spotify.com/track/1HlX3tDP7eJBs5CJx4XIIk) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Tesoros De Coleccion](https://open.spotify.com/album/5fvc3yXYkuFeutWruzxCTk) | 3:00 | 2021-04-22 |  |
 | [Bésame Mucho](https://open.spotify.com/track/5lqY7EmoAu9rwV4hHxhEzB) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Historia De Un Amor](https://open.spotify.com/album/6ZqE68apCVUrnZh0nRe5x5) | 3:00 | 2021-04-22 | 2022-07-18 |
 | [Cariñito Azucarado](https://open.spotify.com/track/4nDsWyejqWUNnz0j48scEr) | [Virginia Lopez](https://open.spotify.com/artist/3vEgzbeKwiwMKhpjdJ4xpS) | [Inspiraciones de Siempre](https://open.spotify.com/album/5WqiZbb9eQc94BodQYVaLI) | 2:47 | 2021-04-22 | 2022-06-23 |
 | [Castillos](https://open.spotify.com/track/1Wv08uEqny4IZk45kPH6rx) | [Amanda Miguel](https://open.spotify.com/artist/3v8mFhjLFa50QK8zDvAMYN) | [El Sonido Vol\. 2](https://open.spotify.com/album/2FR08dbmd2F3NNSwx92jzO) | 4:21 | 2021-04-22 |  |

@@ -4,7 +4,7 @@
 
 > The songs of the 1960s that will make you dance all summer long!
 
-87 songs - 4 hr 17 min - [published](https://open.spotify.com/playlist/4GhcyI9e0l5sIU72HEhwgi)
+88 songs - 4 hr 19 min - [published](https://open.spotify.com/playlist/4GhcyI9e0l5sIU72HEhwgi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Bad Moon Rising](https://open.spotify.com/track/20OFwXhEXf12DzwXmaV7fj) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Green River \(Expanded Edition\)](https://open.spotify.com/album/0i9mOB6mPGqwVvtJEXiwPG) | 2:21 | 2022-04-16 | 2022-11-11 |
 | [Black Magic Woman \- Single Version](https://open.spotify.com/track/4YMQXzscifAREG0a7KNGhB) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Santana's Greatest Hits](https://open.spotify.com/album/1YrdGK2y2Edq2R5gFja2ai) | 3:16 | 2022-04-16 |  |
 | [Born To Be Wild \- Single Version](https://open.spotify.com/track/3lN8PP6R2IxbLP05QpYXng) | [Steppenwolf](https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m) | [Steppenwolf](https://open.spotify.com/album/64q58AfjSrrX9Egp7Zryw8) | 3:32 | 2022-04-16 |  |
+| [Breaking Up Is Hard to Do](https://open.spotify.com/track/2x6pbpjVGjiWCcH89IK8AX) | [Neil Sedaka](https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL) | [Circulate \(Expanded Edition\)](https://open.spotify.com/album/66qxRQqOy7kVcsVpT0OVFZ) | 2:19 | 2022-04-16 |  |
 | [Brown Eyed Girl](https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Blowin' Your Mind!](https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC) | 3:03 | 2022-04-16 |  |
 | [Can't Take My Eyes off You](https://open.spotify.com/track/0bfvHnWWOeU1U5XeKyVLbW) | [Frankie Valli](https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD) | [Solo](https://open.spotify.com/album/4Sr5ckiFddtONS3KewaXyb) | 3:23 | 2022-04-16 |  |
 | [Chapel Of Love](https://open.spotify.com/track/7vVG9xbmNQrtdSPTi7KDUm) | [The Dixie Cups](https://open.spotify.com/artist/7ICvZfP4VHAPZ5Wdt03772) | [The Very Best of The Dixie Cups: Chapel of Love](https://open.spotify.com/album/3r8dNiqNnFU7hNmQH5Reb8) | 2:50 | 2022-04-16 | 2022-10-23 |
@@ -37,7 +38,7 @@
 | [Here Comes The Sun \- Remastered 2009](https://open.spotify.com/track/6dGnYIeXmHdcikdzNNDMm2) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered\)](https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN) | 3:05 | 2022-04-16 |  |
 | [Hey! Baby \- Remastered](https://open.spotify.com/track/0obIo2GEab6qqms6t3JaMY) | [Bruce Channel](https://open.spotify.com/artist/5Do19ow5oRPYYU46jqdkwh) | [Hey! Baby \(Deluxe Edition Remastered\)](https://open.spotify.com/album/09YAng6bZ2wJVcL3MWVCri) | 2:23 | 2022-04-16 |  |
 | [Honky Tonk Women](https://open.spotify.com/track/3fnPv1LRMxENr63afVhaz1) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Honky Tonk Women / You Can't Always Get What You Want](https://open.spotify.com/album/1bp4Aq0SnjhifrYaKbfSdS) | 3:02 | 2022-04-16 |  |
-| [House Of The Rising Sun](https://open.spotify.com/track/7BY005dacJkbO6EPiOh2wb) | [The Animals](https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP) | [The Animals](https://open.spotify.com/album/0Xwkx2TLFwRcoK0OWQ0Msa) | 4:31 | 2022-04-16 |  |
+| [House Of The Rising Sun](https://open.spotify.com/track/7BY005dacJkbO6EPiOh2wb) | [The Animals](https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP) | [The Animals](https://open.spotify.com/album/0Xwkx2TLFwRcoK0OWQ0Msa) | 4:31 | 2022-04-16 | 2022-11-12 |
 | [I Can't Help Myself \(Sugar Pie, Honey Bunch\)](https://open.spotify.com/track/6b6IMqP565TbtFFZg9iFf3) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [Four Tops Second Album](https://open.spotify.com/album/2jvkMPydCpLWwRothqJU1O) | 2:40 | 2022-04-16 |  |
 | [I Fought the Law \- Single Version](https://open.spotify.com/track/6Um3XCAxl9YfFmAnGl93xc) | [The Bobby Fuller Four](https://open.spotify.com/artist/5XoM6cP8fQykllfuK5V5TR) | [Never To Be Forgotten \- The Mustang Years](https://open.spotify.com/album/7KEDLBdqvyiV4D2uH9SgbV) | 2:18 | 2022-04-16 |  |
 | [I Get Around \(Mono\)](https://open.spotify.com/track/3v9xlH6BpmRbqL7hgNJhfT) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [All Summer Long \(Mono & Stereo\)](https://open.spotify.com/album/6GnzWMUyNEETCq6eftD98v) | 2:14 | 2022-04-16 |  |

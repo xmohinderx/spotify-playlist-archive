@@ -4,7 +4,7 @@
 
 > Some of the biggest artists, recorded live\. It’s \(almost\) like you were there.
 
-194 songs - 15 hr 13 min - [published](https://open.spotify.com/playlist/1gnHrTzwOKwLkCguLOL3Ry)
+195 songs - 15 hr 19 min - [published](https://open.spotify.com/playlist/1gnHrTzwOKwLkCguLOL3Ry)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Budapest \- Live from Spotify Stockholm](https://open.spotify.com/track/4HqU80xAozomP0XtgxAu6w) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Cassy O' \(EP\)](https://open.spotify.com/album/7maZrVJGD2VVevE5YJX68x) | 3:29 | 2022-04-14 |  |
 | [Candle In The Wind \- Live](https://open.spotify.com/track/6uaIVqaravhhG0rFBnexTE) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [One Night Only](https://open.spotify.com/album/1kurxs9vQ6MCevaoVeI0HY) | 3:45 | 2022-04-14 |  |
 | [Chasing Pavements \(Live at Hotel Cafe\)](https://open.spotify.com/track/5gcj6l37gMBeSAjFnSKeWh) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/2YO1F9DHVEzXPriA1JHoOQ) | 3:52 | 2022-04-14 | 2022-07-02 |
-| [Crazy \- Live](https://open.spotify.com/track/0amwBCPSbKOMq1C5EC687X) | [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [Soul Live](https://open.spotify.com/album/6bXqJuzljqzZo4MMhoECiT) | 7:21 | 2022-04-14 |  |
+| [Crazy \- Live](https://open.spotify.com/track/0amwBCPSbKOMq1C5EC687X) | [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [Soul Live](https://open.spotify.com/album/6bXqJuzljqzZo4MMhoECiT) | 7:21 | 2022-04-14 | 2022-11-12 |
 | [Crazy In Love \- Homecoming Live](https://open.spotify.com/track/10OaEuICuFoKLq48NoMblA) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [HOMECOMING: THE LIVE ALBUM](https://open.spotify.com/album/35S1JCj5paIfElT2GODl6x) | 2:47 | 2022-04-29 |  |
 | [Dancing Queen \- Live](https://open.spotify.com/track/7uCt8IA0PnfsEoTMk7By1Q) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Live At Wembley Arena](https://open.spotify.com/album/1mc8M9eR9ZIBxqWA2CA4Wo) | 5:52 | 2022-04-14 |  |
 | [DDU\-DU DDU\-DU \- Live](https://open.spotify.com/track/437Wn1icOBdhQaVnpJpl0F) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BLACKPINK 2018 TOUR 'IN YOUR AREA' SEOUL \(Live\)](https://open.spotify.com/album/4i0XmhtxZBPxwpgNeJ1Tvg) | 3:30 | 2022-04-14 |  |
@@ -176,6 +176,7 @@
 | [The Man \- Live From Paris](https://open.spotify.com/track/7FKbTRXXIWVFQmPH8zGfU0) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Man \(Live From Paris\)](https://open.spotify.com/album/6l7iXnb2Y4yDR9zag3kckA) | 3:39 | 2022-04-29 |  |
 | [The Man Who Can't Be Moved \- Live At The Aviva Stadium, Dublin](https://open.spotify.com/track/2xMVakxkbsjd8KI6QmG79Q) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [\#3 Deluxe Version](https://open.spotify.com/album/7JOCOjZTcLysDMkZGWlcIj) | 4:55 | 2022-04-14 |  |
 | [The Power Of Love \- Live à Paris](https://open.spotify.com/track/2nJKHm0UEvnXIxUWSOq26L) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Live à Paris](https://open.spotify.com/album/0mXmpNs70razpUGj8NEu4u) | 4:45 | 2022-04-14 | 2022-08-10 |
+| [The Strangest Thing \- Live](https://open.spotify.com/track/6tGDadVUsPiO7U4TmB8MPS) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Older \(Expanded Edition\)](https://open.spotify.com/album/6vrPb5bne9kMaRB22t1Rmn) | 6:05 | 2022-11-11 |  |
 | [Treat You Better \- Live](https://open.spotify.com/track/4LEtCNmFV5NyWcANGZC9si) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Live At Madison Square Garden](https://open.spotify.com/album/6kTIdOmlTbxh7vzNwb4n0L) | 4:16 | 2022-04-14 |  |
 | [True \- Live from the N.E.C.](https://open.spotify.com/track/0B8dJbFyc2SZgiolBwNQsM) | [Spandau Ballet](https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv) | [Live At The NEC](https://open.spotify.com/album/6wWteACsElSVowr1JzAMGf) | 5:58 | 2022-04-14 | 2022-07-29 |
 | [Up Where We Belong \- Live](https://open.spotify.com/track/0FpkKD9MzzOmYPUB15S4lz) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI) | [Fire It Up \- Live](https://open.spotify.com/album/5zAk411l61QmbdiyAbqCEK) | 6:03 | 2022-04-14 | 2022-07-28 |

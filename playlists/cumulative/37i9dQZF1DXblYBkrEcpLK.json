@@ -62,6 +62,24 @@
     },
     {
       "album": {
+        "name": "again",
+        "url": "https://open.spotify.com/album/2HyLlRf8I4km4ZgIdP8VtA"
+      },
+      "artists": [
+        {
+          "name": "YUI",
+          "url": "https://open.spotify.com/artist/5WBO8UyOuJ1l7ZBqqBimpO"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257506,
+      "name": "again",
+      "url": "https://open.spotify.com/track/7EUSByOz1UUx78lLDxfxRQ"
+    },
+    {
+      "album": {
         "name": "Against.",
         "url": "https://open.spotify.com/album/1DO72qXihnpuPTtD8ymBXK"
       },
@@ -98,6 +116,24 @@
     },
     {
       "album": {
+        "name": "Akuma no Ko",
+        "url": "https://open.spotify.com/album/1dcNDH0hCRrWPz5IGKr1tR"
+      },
+      "artists": [
+        {
+          "name": "Higuchi Ai",
+          "url": "https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227679,
+      "name": "Akuma no Ko",
+      "url": "https://open.spotify.com/track/5cRKj1kynNFqiliT2ndZ3y"
+    },
+    {
+      "album": {
         "name": "Saiaku Saiai",
         "url": "https://open.spotify.com/album/2CtsgdSCPlWeIdcdk2m2iQ"
       },
@@ -109,7 +145,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 229960,
       "name": "Akuma no Ko",
       "url": "https://open.spotify.com/track/4pw7EuK2WTWGHI51jCKuGJ"
@@ -1369,10 +1405,28 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 215984,
       "name": "Koko de Iki wo Shite",
       "url": "https://open.spotify.com/track/7cPYSzsrl6imQkzeO1HZ9b"
+    },
+    {
+      "album": {
+        "name": "Koko de Iki wo Shite",
+        "url": "https://open.spotify.com/album/37eKnOf4wa5owxHtsBZIho"
+      },
+      "artists": [
+        {
+          "name": "eill",
+          "url": "https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216672,
+      "name": "Koko de Iki wo Shite",
+      "url": "https://open.spotify.com/track/7LVsLHXVLscS5xY7q50TLT"
     },
     {
       "album": {
@@ -2691,10 +2745,32 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 236390,
       "name": "Suzume",
       "url": "https://open.spotify.com/track/7LHAKF7pBqHch8o6Yo0ad5"
+    },
+    {
+      "album": {
+        "name": "Suzume (Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        },
+        {
+          "name": "Toaka",
+          "url": "https://open.spotify.com/artist/3GzVC7GGbmO2SuBu92DqUn"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238560,
+      "name": "Suzume",
+      "url": "https://open.spotify.com/track/1n1y2kFPISpF9WGD3JaFo5"
     },
     {
       "album": {
@@ -3605,7 +3681,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 254093,
       "name": "\u306a\u3044\u306a\u3044",
       "url": "https://open.spotify.com/track/2lD8rPegYoYC1WucU3vU1W"

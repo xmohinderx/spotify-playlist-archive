@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX47rExFRJv8.md) - [plain]
 
 > The biggest songs in Latin America in 2018\. Cover: Bad Bunny
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,995 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,097 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX47rExFRJv8.md) - [plain]
 | 10 | [MIA \(feat\. Drake\)](https://open.spotify.com/track/116H0KvKr2Zl4RPuVBruDO) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [MIA \(feat\. Drake\)](https://open.spotify.com/album/0p0W4RXcnc59jgatcdZozO) | 3:30 |
 | 11 | [Madura](https://open.spotify.com/track/5n2XTRsYFlZwNBp06KAjDX) | [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Madura](https://open.spotify.com/album/4joZeRAHwOmcWtVc8s7z5t) | 3:10 |
 | 12 | [Amanece](https://open.spotify.com/track/1LiN0Z98FkR1t0m8KmLcAH) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Haze](https://open.spotify.com/artist/77iZVjeYoYSl5P0K9mIiUE) | [Amanece](https://open.spotify.com/album/464FQ8gr0oKlQ1a0TCK4Yj) | 3:10 |
-| 13 | [X](https://open.spotify.com/track/5YUyW9opqNsMSEzzecZih1) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Intimo](https://open.spotify.com/album/1CYQlkKE5Q0khU6eMwVAVt) | 2:52 |
-| 14 | [Vaina Loca](https://open.spotify.com/track/48zFZh27QU5qsrBjn4C2FA) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Aura](https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR) | 2:56 |
+| 13 | [Vaina Loca](https://open.spotify.com/track/48zFZh27QU5qsrBjn4C2FA) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Aura](https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR) | 2:56 |
+| 14 | [X](https://open.spotify.com/track/5YUyW9opqNsMSEzzecZih1) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Intimo](https://open.spotify.com/album/1CYQlkKE5Q0khU6eMwVAVt) | 2:52 |
 | 15 | [Calma \- Remix](https://open.spotify.com/track/5iwz1NiezX7WWjnCgY5TH4) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Calma \(Remix\)](https://open.spotify.com/album/1tFnP9PwIMeMIuj92mfswZ) | 3:58 |
 | 16 | [Loca \- Remix](https://open.spotify.com/track/2ECIwi1a7mfokdDkkJ08Ne) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Loca Remix](https://open.spotify.com/album/5EuK2rW0iPINmt21KPbIUQ) | 5:46 |
 | 17 | [Otra Noche en Miami](https://open.spotify.com/track/4vCAzANUWDE24URV6wQ4ra) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [X 100PRE](https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF) | 3:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX47rExFRJv8.md) - [plain]
 | 49 | [Asesina \- Remix](https://open.spotify.com/track/59PYgzOiOjGDzjDT5N5oOX) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Asesina \(Remix\)](https://open.spotify.com/album/3kszVyyPdSKYihlQkme1Vv) | 5:27 |
 | 50 | [Reggaeton](https://open.spotify.com/track/2D3z17LBMJ2HEHeBFFjTLi) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Reggaeton](https://open.spotify.com/album/5FMJB2xKTMGdM3w6DmC6L5) | 2:38 |
 
-Snapshot ID: `MTYzOTYxNzA5MiwwMDAwMDAwMDRmY2Q4NmUxNDQ5YzU3YzRjODYzODNhZTYxMjBiNWJm`
+Snapshot ID: `MTYzOTYxNzA5MiwwMDAwMDAwMGIzZTU2NzVmZWNkOTk5ZTRiZGYzNjdkZjkyZTJhNDhk`

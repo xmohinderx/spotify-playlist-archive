@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJxsaI3czLL.md) - [plain]
 
 > 眠れない夜も音楽と一緒に。くつろぎながら、入眠効果のある音楽と素敵な夜をゆったりとお過ごし下さい。
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,133 likes - 70 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,166 likes - 70 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [街路樹](https://open.spotify.com/track/1LvQW7xwIYdH2eCH028AGn) | [Tsuyoshi Nariyama](https://open.spotify.com/artist/2n0myr3J8YDZCPCfzoSE7Y) | [novelette](https://open.spotify.com/album/4azWqKZBnj24esWCVacaqk) | 5:01 |
 | 2 | [Furui Chizu \(Old Map\)](https://open.spotify.com/track/0cNzX9fSafdJQQuxNeUOFM) | [Miyuki Hatakeyama](https://open.spotify.com/artist/1EoUchyiJeXQqhGBANhbiI), [Kazuma Fujimoto](https://open.spotify.com/artist/20qDjhYBrYKWNCKmGgJIFH) | [Yoru no Niwa \(Night Garden\)](https://open.spotify.com/album/596yPS71AnU4gBjgzK4eKR) | 3:42 |
-| 3 | [Suzume](https://open.spotify.com/track/7LHAKF7pBqHch8o6Yo0ad5) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [Toaka](https://open.spotify.com/artist/3GzVC7GGbmO2SuBu92DqUn) | [Suzume](https://open.spotify.com/album/7HT4WPE6gHPxrRmgzhhTMr) | 3:56 |
+| 3 | [いつしか](https://open.spotify.com/track/7Lw2wccjg0QHvT7T634t6W) | [Daichi Miura](https://open.spotify.com/artist/4UTEZqrPqLDOhBfraPNciJ) | [いつしか](https://open.spotify.com/album/6x0XM8OMPAoUCt0uTmlCFq) | 4:00 |
 | 4 | [灯火](https://open.spotify.com/track/03kdTvI72t9uFwrcgKHgON) | [Yuga](https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT) | [灯火](https://open.spotify.com/album/23A0oqlZ1VCZd7PrVwTcDM) | 3:39 |
-| 5 | [いつしか](https://open.spotify.com/track/7Lw2wccjg0QHvT7T634t6W) | [Daichi Miura](https://open.spotify.com/artist/4UTEZqrPqLDOhBfraPNciJ) | [いつしか](https://open.spotify.com/album/6x0XM8OMPAoUCt0uTmlCFq) | 4:00 |
+| 5 | [Suzume](https://open.spotify.com/track/1n1y2kFPISpF9WGD3JaFo5) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [Toaka](https://open.spotify.com/artist/3GzVC7GGbmO2SuBu92DqUn) | [Suzume \(Motion Picture Soundtrack\)](https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq) | 3:58 |
 | 6 | [明日への手紙](https://open.spotify.com/track/2dUYxBbmtmNfanhSLbRcry) | [Aoi Teshima](https://open.spotify.com/artist/4FrFdi2hHpulQOxDihRIQD) | [Ren'dez\-vous](https://open.spotify.com/album/51M0Y7HBSSD6SggyRqGMFH) | 4:51 |
 | 7 | [旅立つ秋](https://open.spotify.com/track/6hXPsuOa4suL5A6NgdqIEX) | [Yumi Arai](https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz) | [MISSLIM](https://open.spotify.com/album/7tiG9XMFiw4BCDH19xn9TO) | 3:07 |
 | 8 | [メロディー](https://open.spotify.com/track/3WlNXip1Fm13r2YREQvKMR) | [Koji Tamaki](https://open.spotify.com/artist/5KLvrcsAUwqMOqxErwSJmD) | [Cafe Japan](https://open.spotify.com/album/69iMkz0yop4xe0MmptbDzb) | 4:40 |
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJxsaI3czLL.md) - [plain]
 | 11 | [Higashi Yoshino](https://open.spotify.com/track/5GbFjiN7n8UinsQG27YQVP) | [Oh Shu](https://open.spotify.com/artist/75XDEXxePvX7Hx4T3rUlVS), [Bioman](https://open.spotify.com/artist/5X9XmfNxSM6lP2QXQyYAWM) | [Villa Tereze](https://open.spotify.com/album/4OuUigPkJ1U6fB7k4X5GfV) | 1:18 |
 | 12 | [エイリアンズ \- 2018 Remaster](https://open.spotify.com/track/3doNZXJKsQpIj3RaatDwpS) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7) | [Melancholy Mellow Ⅰ \-甘い憂鬱\-19982002](https://open.spotify.com/album/5KLy2cmiAMHvMV7BROMyQR) | 6:03 |
 | 13 | [Sympathy](https://open.spotify.com/track/23Mcmg5O8rBKAOzxvrTjnD) | [Kitri](https://open.spotify.com/artist/2i9CbxfaMspiPMCYZgvgPW) | [Hikare Inochi](https://open.spotify.com/album/6UoFSfFtSDp97egQC3Vnas) | 3:30 |
-| 14 | [瑠璃色の地球\(「この地球の日々たちへ」バージョン\)](https://open.spotify.com/track/5I5ljQOKD3pQDCEDgRpXov) | [Aoi Teshima](https://open.spotify.com/artist/4FrFdi2hHpulQOxDihRIQD) | [Highlights from Aoi Works II](https://open.spotify.com/album/64FUZjyuDC5S9siqurAmcs) | 4:09 |
+| 14 | [瑠璃色の地球 \- 「この地球の日々たちへ」バージョン](https://open.spotify.com/track/5nWMV6Tq8x5uTS7QKIr0qG) | [Aoi Teshima](https://open.spotify.com/artist/4FrFdi2hHpulQOxDihRIQD) | [東京](https://open.spotify.com/album/47uKJb5DLk9EEBeZbK7HMw) | 4:11 |
 | 15 | [ため息の行方](https://open.spotify.com/track/6GSVtgBJ2bNRicSqQcXg99) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [ゆめ](https://open.spotify.com/album/4d0nnBfxKBJt3evaV4Yssh) | 4:28 |
 | 16 | [Bye for now,](https://open.spotify.com/track/4Y9QwoUwo9blH9R9C5DCnk) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [LOVE ALL SERVE ALL](https://open.spotify.com/album/7Ip9X7pnkhJ4cwDoBnvneD) | 3:50 |
 | 17 | [うたのけはい](https://open.spotify.com/track/2TNG5NxXZXBsLmhB8RGN2N) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [0](https://open.spotify.com/album/4yqm0ZLcphXs8M8cVvLKym) | 2:07 |
@@ -38,15 +38,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJxsaI3czLL.md) - [plain]
 | 28 | [同じ月を見ている](https://open.spotify.com/track/1f0WfgZV9JK1k0e8OpyqML) | [上野大樹](https://open.spotify.com/artist/5YPkOSqagMwjOWf7PLjHNF) | [瀬と瀬](https://open.spotify.com/album/5gWa4l4159qeKUNFDBbmhS) | 4:43 |
 | 29 | [マホロボシヤ](https://open.spotify.com/track/4HXShgD3c3dq65CtAqoqzh) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [マホロボシヤ](https://open.spotify.com/album/0UtJv0rHwQpBDFu2HAeLwd) | 5:44 |
 | 30 | [Sashiiro](https://open.spotify.com/track/21lckxUcSbNjXvevhrEmqt) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Sashiiro](https://open.spotify.com/album/2N7EaA2edo7hIYqsAFmxbI) | 3:03 |
-| 31 | [Moon Light Lover](https://open.spotify.com/track/0Iod4IHv2ZJy4tzxTDIM34) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [Young Love](https://open.spotify.com/album/21zTWxVyymD5AcyTbVjiw0) | 4:54 |
-| 32 | [Midnight Song](https://open.spotify.com/track/6BLHESk37BHiDksGxTCySj) | [The fin.](https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa) | [Acoustic Versions](https://open.spotify.com/album/5rH2O3z3h6ExXDe5H2ftKp) | 2:12 |
+| 31 | [Midnight Song](https://open.spotify.com/track/6BLHESk37BHiDksGxTCySj) | [The fin.](https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa) | [Acoustic Versions](https://open.spotify.com/album/5rH2O3z3h6ExXDe5H2ftKp) | 2:12 |
+| 32 | [Moon Light Lover](https://open.spotify.com/track/0Iod4IHv2ZJy4tzxTDIM34) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [Young Love](https://open.spotify.com/album/21zTWxVyymD5AcyTbVjiw0) | 4:54 |
 | 33 | [虹とカイト](https://open.spotify.com/track/6wKvOYzi6WBbF4WXC9J7Ey) | [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E) | [ohashiTrio best Too](https://open.spotify.com/album/7370BLhXSYfiIJ1S26expM) | 5:37 |
 | 34 | [サーカスナイト](https://open.spotify.com/track/335YvnNhNaFchhNCKBg9re) | [君島大空](https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ), [塩塚モエカ](https://open.spotify.com/artist/3KrEIB3yHbysKWhWixKYSr) | [サーカスナイト](https://open.spotify.com/album/219DmUsVHxUHtPjSSvGKAR) | 5:27 |
 | 35 | [ÿuni](https://open.spotify.com/track/4vvD5OUJZaMThV6X5CvjIS) | [中村佳穂](https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u) | [ÿuni](https://open.spotify.com/album/39r3Q8TGK1I0yXou6dXSIU) | 4:15 |
 | 36 | [Ruriiro no Chikyu \-Mirai eno Kokai Version\-](https://open.spotify.com/track/0lgRw4u5KMlocLsJCOtRWV) | [Aoi Teshima](https://open.spotify.com/artist/4FrFdi2hHpulQOxDihRIQD) | [Ruriiro no Chikyu \-Mirai eno Kokai Version\-](https://open.spotify.com/album/0em6bO9StjhA7BdMH8ZrLM) | 4:41 |
 | 37 | [この日のこと](https://open.spotify.com/track/4G7qeAp6SBwIUnmvzTUjSh) | [Kazumasa Oda](https://open.spotify.com/artist/2UzjSnmjccLgd1DkvAH5OR) | [early summer 2022](https://open.spotify.com/album/0mv2ejXiEERKAA2iDbGnTs) | 4:34 |
-| 38 | [hello](https://open.spotify.com/track/7Mk2nGXe7KtjLIA2ghL8kH) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [Amiko \(Original Soundtrack\)](https://open.spotify.com/album/2PsLFEBmhmYIgSMuZ3Gb3w) | 4:00 |
-| 39 | [新しい人](https://open.spotify.com/track/0S2xgn2Mrw109X4wPrQrbd) | [OGRE YOU ASSHOLE](https://open.spotify.com/artist/0X9vdekJ6sIKcUvwIgVsjW) | [新しい人](https://open.spotify.com/album/75EifDD2I7RqW00QqJOiT8) | 4:38 |
+| 38 | [新しい人](https://open.spotify.com/track/0S2xgn2Mrw109X4wPrQrbd) | [OGRE YOU ASSHOLE](https://open.spotify.com/artist/0X9vdekJ6sIKcUvwIgVsjW) | [新しい人](https://open.spotify.com/album/75EifDD2I7RqW00QqJOiT8) | 4:38 |
+| 39 | [hello](https://open.spotify.com/track/7Mk2nGXe7KtjLIA2ghL8kH) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [Amiko \(Original Soundtrack\)](https://open.spotify.com/album/2PsLFEBmhmYIgSMuZ3Gb3w) | 4:00 |
 | 40 | [素晴らしい世界](https://open.spotify.com/track/09VONHJev5pvXazOBr7VVz) | [Naotaro Moriyama](https://open.spotify.com/artist/31VPfrPEa86aKpD2LT3Ued) | [素晴らしい世界](https://open.spotify.com/album/41kjvJsOSF46d9QIv8RuUy) | 7:37 |
 | 41 | [苺](https://open.spotify.com/track/3Abgz2yPNmRG105Fj7BLyH) | [yonawo](https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ) | [Prescribing The...](https://open.spotify.com/album/0kbiI34d3E8pEtxP3nAcat) | 4:47 |
 | 42 | [intersolid](https://open.spotify.com/track/21gAd3WVNMqP0mSaM04CdZ) | [Toko Miura](https://open.spotify.com/artist/5nyjJRg5OdmKDdG2s9qljE) | [intersolid](https://open.spotify.com/album/31BTiDOOBfmQldZdl6vQgz) | 3:54 |
@@ -69,14 +69,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJxsaI3czLL.md) - [plain]
 | 59 | [Good Night Station](https://open.spotify.com/track/5BPYHGLP1DPo0nVfOUHTEJ) | [Yogee New Waves](https://open.spotify.com/artist/7kDTCZA56nH6fCdEY0rBgh) | [BLUEHARLEM](https://open.spotify.com/album/2uBQmsJvg2MKEWZRfFwAaQ) | 5:27 |
 | 60 | [Sleeping in Waking](https://open.spotify.com/track/2zx4apdK8SZeHqDLYLLfCe) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Sleeping in Waking](https://open.spotify.com/album/2EXjrlqsinxkPKguQMlbN2) | 3:53 |
 | 61 | [Beautiful Sleep](https://open.spotify.com/track/5ut9a0Dwd0XashJx7kda5A) | [Shinya Kiyozuka](https://open.spotify.com/artist/2acDvNu4hqCoCPlUdehoj2) | [眠るためのピアノアルバム\~beautiful sleep\~](https://open.spotify.com/album/7H191esP6oW2m58tzIDfhZ) | 4:02 |
-| 62 | [またたき](https://open.spotify.com/track/6K5HCzRSvOCViWBVCc3wYH) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [ビアリストックス](https://open.spotify.com/album/3bj0rxNiqW8FPj2exowDFQ) | 3:54 |
-| 63 | [ロマンチック2017](https://open.spotify.com/track/3yIW8q3fvfxPKY7XjhubP0) | [KENTA MAENO](https://open.spotify.com/artist/59R86qFiH8GAZ8yhVxS043) | [ロマンチック2017](https://open.spotify.com/album/77XckqI0BbVbg6BHtKIhiH) | 1:07 |
+| 62 | [ロマンチック2017](https://open.spotify.com/track/3yIW8q3fvfxPKY7XjhubP0) | [KENTA MAENO](https://open.spotify.com/artist/59R86qFiH8GAZ8yhVxS043) | [ロマンチック2017](https://open.spotify.com/album/77XckqI0BbVbg6BHtKIhiH) | 1:07 |
+| 63 | [またたき](https://open.spotify.com/track/6K5HCzRSvOCViWBVCc3wYH) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [ビアリストックス](https://open.spotify.com/album/3bj0rxNiqW8FPj2exowDFQ) | 3:54 |
 | 64 | [あなたがどこかで](https://open.spotify.com/track/5HcQ3l5sM9aFyd49UFwSoK) | [Anzen Chitai](https://open.spotify.com/artist/3EAqVJtaxnPcWYlHXkHcuC) | [あなたがどこかで](https://open.spotify.com/album/39ZsxUsASZ2XZKjUwMsIUF) | 4:40 |
-| 65 | [サンサーラ](https://open.spotify.com/track/0x26yM2rrvtoHGRXXzppx3) | [Takehara Pistol](https://open.spotify.com/artist/0IRFQcZbbHHpFY5EUNA2XA) | [リョウメンシダ/サンサーラ](https://open.spotify.com/album/1QzF3SU3BpVG8xCFqZXX7J) | 5:31 |
-| 66 | [つぐみ](https://open.spotify.com/track/2r4QuVAiy86mVpxzqoQCCQ) | [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E) | [THUNDERBIRD](https://open.spotify.com/album/7nNeG1szKiODPoXM2UC3Lg) | 3:58 |
+| 65 | [つぐみ](https://open.spotify.com/track/2r4QuVAiy86mVpxzqoQCCQ) | [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E) | [THUNDERBIRD](https://open.spotify.com/album/7nNeG1szKiODPoXM2UC3Lg) | 3:58 |
+| 66 | [サンサーラ](https://open.spotify.com/track/0x26yM2rrvtoHGRXXzppx3) | [Takehara Pistol](https://open.spotify.com/artist/0IRFQcZbbHHpFY5EUNA2XA) | [リョウメンシダ/サンサーラ](https://open.spotify.com/album/1QzF3SU3BpVG8xCFqZXX7J) | 5:31 |
 | 67 | [おあいこ](https://open.spotify.com/track/0ekuGQhxcrmTsFJbwNnNX6) | [Hanare Gumi](https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte) | [What are you looking for](https://open.spotify.com/album/1eRBqVnEPDWja7FBpfgFIh) | 6:41 |
 | 68 | [夜になると鮭は](https://open.spotify.com/track/5GXm9bflCSMH3ADala8uIU) | [cero](https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q) | [POLY LIFE MULTI SOUL](https://open.spotify.com/album/4ExqwHRD689BjDf0tUKGBM) | 2:08 |
-| 69 | [All My Love \- English Ver.](https://open.spotify.com/track/56JB3pqUaLaIozQ5j2tD7W) | [PARK BO GUM](https://open.spotify.com/artist/3wkl0GrYTJjWoTmGAJRosv) | [All My Love](https://open.spotify.com/album/0i4ymIcTfqV6virrQYNAat) | 3:23 |
-| 70 | [Weight](https://open.spotify.com/track/3J3bxrFCscf5KgNgBpQUo7) | [PAELLAS](https://open.spotify.com/artist/6ELS2XYR8tvJdQyEx8s3ZT) | [sequential souls](https://open.spotify.com/album/0ERZRcTZO8ZUAIKT9Aa87q) | 4:42 |
+| 69 | [Weight](https://open.spotify.com/track/3J3bxrFCscf5KgNgBpQUo7) | [PAELLAS](https://open.spotify.com/artist/6ELS2XYR8tvJdQyEx8s3ZT) | [sequential souls](https://open.spotify.com/album/0ERZRcTZO8ZUAIKT9Aa87q) | 4:42 |
+| 70 | [All My Love \- English Ver.](https://open.spotify.com/track/56JB3pqUaLaIozQ5j2tD7W) | [PARK BO GUM](https://open.spotify.com/artist/3wkl0GrYTJjWoTmGAJRosv) | [All My Love](https://open.spotify.com/album/0i4ymIcTfqV6virrQYNAat) | 3:23 |
 
-Snapshot ID: `MTY2ODA5MjQwMCwwMDAwMDAwMGZmMGRkZjAxNDMwYjg5ZDllYzU2YzhhMzk3N2EyOGJl`
+Snapshot ID: `MTY2ODA5MjQwMCwwMDAwMDAwMDUxZTVlYjA3NzM0ODE1MGIxODExOGQwZjBiZTg1ODcw`

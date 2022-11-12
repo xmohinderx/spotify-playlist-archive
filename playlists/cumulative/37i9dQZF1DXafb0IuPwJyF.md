@@ -4,7 +4,7 @@
 
 > The Hottest Hits in Japan right now\. 日本のポップシーンを彩る最新ベスト50。毎週月曜日更新。Cover:  Official髭男dism
 
-543 songs - 1 day 9 hr 51 min - [published](https://open.spotify.com/playlist/2sQ5Fh8iNKxcYtrG1CztwE)
+544 songs - 1 day 9 hr 55 min - [published](https://open.spotify.com/playlist/2sQ5Fh8iNKxcYtrG1CztwE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,7 +244,8 @@
 | [SuperCali](https://open.spotify.com/track/4pW4sNCWGUG9D9EjACfkvK) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [SuperCali](https://open.spotify.com/album/0Z8ddGt1kEMRBTY1engcvy) | 3:01 | 2022-10-03 | 2022-10-31 |
 | [Superpower](https://open.spotify.com/track/5lw4VMEvXNCpHNSRpxmkTC) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [Superpower](https://open.spotify.com/album/0ARB46NXMft2bVDQkOsgKp) | 3:22 | 2022-03-13 | 2022-04-18 |
 | [Sushi](https://open.spotify.com/track/6OpMRIjVFIAMC6T63wvFrP) | [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9), [Candee](https://open.spotify.com/artist/1L9s7TypQNTxmJ12OuG2yR), [Deech](https://open.spotify.com/artist/4TNIbTL8IpTGjM86BDHHV7) | [We Comin' \(f\*\*k dat s\*\*t\)](https://open.spotify.com/album/0Xj5HT1p3FjsoJdcXhQvGP) | 2:44 | 2022-02-27 | 2022-03-07 |
-| [Suzume](https://open.spotify.com/track/7LHAKF7pBqHch8o6Yo0ad5) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [Toaka](https://open.spotify.com/artist/3GzVC7GGbmO2SuBu92DqUn) | [Suzume](https://open.spotify.com/album/7HT4WPE6gHPxrRmgzhhTMr) | 3:56 | 2022-09-29 |  |
+| [Suzume](https://open.spotify.com/track/7LHAKF7pBqHch8o6Yo0ad5) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [Toaka](https://open.spotify.com/artist/3GzVC7GGbmO2SuBu92DqUn) | [Suzume](https://open.spotify.com/album/7HT4WPE6gHPxrRmgzhhTMr) | 3:56 | 2022-09-29 | 2022-11-12 |
+| [Suzume](https://open.spotify.com/track/1n1y2kFPISpF9WGD3JaFo5) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [Toaka](https://open.spotify.com/artist/3GzVC7GGbmO2SuBu92DqUn) | [Suzume \(Motion Picture Soundtrack\)](https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq) | 3:58 | 2022-11-06 |  |
 | [SWAM](https://open.spotify.com/track/3mUDs6V97GirTDSNLJr5z6) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [SWAM](https://open.spotify.com/album/07dVrbFzLZIszN5tGtSeVn) | 2:34 | 2022-10-02 | 2022-10-24 |
 | [Sweet Escape \(feat\. ひかり\)](https://open.spotify.com/track/6Whj4AAx1Y2xSCJhpRvTpt) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [Sweet Escape \(feat\. ひかり\)](https://open.spotify.com/album/6QWulBLmOcERqXcs2tSxh6) | 3:53 | 2022-08-14 | 2022-09-05 |
 | [SWITCH](https://open.spotify.com/track/3qDohuK6Lkke03J9t3csWZ) | [BLOOM VASE](https://open.spotify.com/artist/3jpPlA4ASvE9TlObazOIee) | [SWITCH](https://open.spotify.com/album/0xp4pmEaaOqqRoHRWx3rOE) | 3:23 | 2022-07-17 | 2022-08-01 |

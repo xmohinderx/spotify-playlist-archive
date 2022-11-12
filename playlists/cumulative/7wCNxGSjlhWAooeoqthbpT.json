@@ -187,7 +187,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 136051,
       "name": "ANXIETY",
       "url": "https://open.spotify.com/track/3zpKrqSpX2nr5N2fsAmqR5"
@@ -618,6 +618,24 @@
     },
     {
       "album": {
+        "name": "Destructive",
+        "url": "https://open.spotify.com/album/7DUr45mWco8HIZeJI7GfLR"
+      },
+      "artists": [
+        {
+          "name": "Bahari",
+          "url": "https://open.spotify.com/artist/0fs8oBR1rx7JIXZi75h7Uu"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193791,
+      "name": "Destructive",
+      "url": "https://open.spotify.com/track/0yDaLhw5vGnS5V4EaJyEFu"
+    },
+    {
+      "album": {
         "name": "Omens",
         "url": "https://open.spotify.com/album/6GCmzQESAIPAXbPsIMic3x"
       },
@@ -747,7 +765,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 196363,
       "name": "DON'T YOU WORRY",
       "url": "https://open.spotify.com/track/0gYXw7aPoybWFfB7btQ0eM"
@@ -769,6 +787,28 @@
       "duration_ms": 132171,
       "name": "DONT TOUCH MY MONEY",
       "url": "https://open.spotify.com/track/2F6AKAUokqFmRCfZxXZuYH"
+    },
+    {
+      "album": {
+        "name": "ELEVATION",
+        "url": "https://open.spotify.com/album/1mXYeysTByG8rC6YCFNwpn"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        },
+        {
+          "name": "J. Rey Soul",
+          "url": "https://open.spotify.com/artist/1OB278sOZVSFx5vXqYha83"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200191,
+      "name": "DOUBLE D'Z",
+      "url": "https://open.spotify.com/track/4u6G3AHLpiNZdpijHa07SV"
     },
     {
       "album": {
@@ -1461,7 +1501,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 168000,
       "name": "Link in the Ends",
       "url": "https://open.spotify.com/track/6LaiBYDgJ0nTGAldMQeg9Y"
@@ -1991,6 +2031,32 @@
       "duration_ms": 441402,
       "name": "Patient Number 9 (feat. Jeff Beck)",
       "url": "https://open.spotify.com/track/6kAOsnRUgp21bPiUoVZeuJ"
+    },
+    {
+      "album": {
+        "name": "No Borders: European Compilation Project",
+        "url": "https://open.spotify.com/album/3RE7S9ZwbNH3dPGY8rJdVP"
+      },
+      "artists": [
+        {
+          "name": "Headie One",
+          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
+        },
+        {
+          "name": "Pajel",
+          "url": "https://open.spotify.com/artist/1bpI6QDUqmfKmV0Tlhj0Jm"
+        },
+        {
+          "name": "Dezzie",
+          "url": "https://open.spotify.com/artist/24Ws1EeobHSyqDxQKfie7Q"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "Place",
+      "url": "https://open.spotify.com/track/109zbOmrUeunCHnZ76B0Kx"
     },
     {
       "album": {

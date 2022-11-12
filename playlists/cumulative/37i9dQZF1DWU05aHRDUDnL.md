@@ -4,7 +4,7 @@
 
 > Put your headphones on and enjoy your day.
 
-39 songs - 2 hr 26 min - [published](https://open.spotify.com/playlist/5HtQ5iF2YeYyvQtg5eHFJB)
+40 songs - 2 hr 29 min - [published](https://open.spotify.com/playlist/5HtQ5iF2YeYyvQtg5eHFJB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,8 +22,9 @@
 | [Figure It Out](https://open.spotify.com/track/6V0A3jkb9ntudO0kmcJ1xd) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Royal Blood](https://open.spotify.com/album/76fT51C9WtCgCcRJlt3PnG) | 3:03 | 2015-08-05 | 2022-11-11 |
 | [Figure It Out](https://open.spotify.com/track/0QdNZ4eqC6FMa7xZ7rYplc) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [So F\*\*kInG cOoL \- Alternative Hits](https://open.spotify.com/album/3W8va9bsPnWq2Ohph6Nqs8) | 3:04 | 2015-08-05 |  |
 | [Honky Tonk Women \- Mono Version](https://open.spotify.com/track/4z7OCDAAIZxfzQ6qyUSx1O) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Through The Past, Darkly \(Big Hits Vol\. 2\)](https://open.spotify.com/album/1Dsx0X79p4owIdoS0kTYgb) | 2:59 | 2015-08-05 |  |
+| [Jamie's Cryin'](https://open.spotify.com/track/511UpUlCkPLy1uiGvLCDdm) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [Howard Stern: Private Parts \(The Album\) \[Music from and Inspired By the Motion Picture\]](https://open.spotify.com/album/66mAZAAcVKgX9NEn99BgUN) | 3:26 | 2015-08-05 |  |
 | [Jamie's Cryin'](https://open.spotify.com/track/38GIXryQTvtuteKojD6YIv) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [Van Halen \(Reissue\)](https://open.spotify.com/album/7G2PY8yve3Db0PeGsosb4x) | 3:30 | 2015-08-05 | 2022-07-29 |
-| [Jamie's Cryin' \- 2015 Remaster](https://open.spotify.com/track/6MumccCPd4N6qBVdl0gSeM) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [Van Halen \(Remastered\)](https://open.spotify.com/album/7DdEbYFPKTZ8KB4z6L4UnQ) | 3:29 | 2015-08-05 |  |
+| [Jamie's Cryin' \- 2015 Remaster](https://open.spotify.com/track/6MumccCPd4N6qBVdl0gSeM) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [Van Halen \(Remastered\)](https://open.spotify.com/album/7DdEbYFPKTZ8KB4z6L4UnQ) | 3:29 | 2015-08-05 | 2022-11-12 |
 | [Nothing Else Matters](https://open.spotify.com/track/3ZFwuJwUpIl0GeXsvF1ELf) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica](https://open.spotify.com/album/37lWyRxkf3wQHCOlXM5WfX) | 6:28 | 2015-08-05 | 2022-07-29 |
 | [Nothing Else Matters \(Remastered\)](https://open.spotify.com/track/2CtemffYhT0DJWcT1XW047) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica \(Remastered\)](https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH) | 6:28 | 2015-08-05 | 2022-11-11 |
 | [Nothing Else Matters \(Remastered\)](https://open.spotify.com/track/387HyFFE8BOAi7lv9tIUJP) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica \(Remastered Deluxe Box Set\)](https://open.spotify.com/album/12nEtB2TU44qNHt6IsyIrZ) | 6:28 | 2015-08-05 |  |

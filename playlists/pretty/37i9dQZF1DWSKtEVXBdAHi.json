@@ -1,12 +1,12 @@
 {
   "description": "Utan bra musik blir det ingen bra AW. S\u00e5 enkel \u00e4r ekvationen.",
-  "num_followers": 27098,
+  "num_followers": 27100,
   "original_name": "After Work",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU4MjAzMjY5MCwwMDAwMDAwMDQxMWI5MGQ3MDI3YzhlYzYzMDA4OWQwYWEwMTZjYjFi",
+  "snapshot_id": "MTU4MjAzMjY5MCwwMDAwMDAwMGE5NzM0ZDdkYTU3YzNlMGYzOTVjZTVhZjBkZmJjNGQ3",
   "tracks": [
     {
       "added_at": "2020-02-18 13:31:30",
@@ -119,18 +119,26 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
-        "name": "Woodstock",
-        "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
+        "name": "No.6 Collaborations Project",
+        "url": "https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx"
       },
       "artists": [
         {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
         }
       ],
-      "duration_ms": 163253,
-      "name": "Feel It Still",
-      "url": "https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK"
+      "duration_ms": 204466,
+      "name": "South of the Border (feat. Camila Cabello & Cardi B)",
+      "url": "https://open.spotify.com/track/4vUmTMuQqjdnvlZmAH61Qk"
     },
     {
       "added_at": "2020-02-18 13:31:30",
@@ -155,30 +163,6 @@
       "duration_ms": 213309,
       "name": "Promises (with Sam Smith)",
       "url": "https://open.spotify.com/track/5N5k9nd479b1xpDZ4usjrg"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
-        "name": "No.6 Collaborations Project",
-        "url": "https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 204466,
-      "name": "South of the Border (feat. Camila Cabello & Cardi B)",
-      "url": "https://open.spotify.com/track/4vUmTMuQqjdnvlZmAH61Qk"
     },
     {
       "added_at": "2020-02-18 13:31:30",
@@ -315,42 +299,22 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
-        "name": "This Is Acting (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX"
+        "name": "Rather Be (feat. Jess Glynne)",
+        "url": "https://open.spotify.com/album/4UB0J5V3JsZZtNR360pZ6r"
       },
       "artists": [
         {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
         },
         {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+          "name": "Jess Glynne",
+          "url": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
         }
       ],
-      "duration_ms": 210226,
-      "name": "The Greatest (feat. Kendrick Lamar)",
-      "url": "https://open.spotify.com/track/7xHWNBFm6ObGEQPaUxHuKO"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
-        "name": "Giant (with Rag'n'Bone Man)",
-        "url": "https://open.spotify.com/album/4PwXTHenZZx7ebgsnTM65K"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Rag'n'Bone Man",
-          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
-        }
-      ],
-      "duration_ms": 229184,
-      "name": "Giant (with Rag'n'Bone Man)",
-      "url": "https://open.spotify.com/track/5itOtNx0WxtJmi1TQ3RuRd"
+      "duration_ms": 227833,
+      "name": "Rather Be (feat. Jess Glynne)",
+      "url": "https://open.spotify.com/track/3s4U7OHV7gnj42VV72eSZ6"
     },
     {
       "added_at": "2020-02-18 13:31:30",
@@ -375,6 +339,26 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
+        "name": "Giant (with Rag'n'Bone Man)",
+        "url": "https://open.spotify.com/album/4PwXTHenZZx7ebgsnTM65K"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        }
+      ],
+      "duration_ms": 229184,
+      "name": "Giant (with Rag'n'Bone Man)",
+      "url": "https://open.spotify.com/track/5itOtNx0WxtJmi1TQ3RuRd"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
         "name": "Youngblood",
         "url": "https://open.spotify.com/album/16Qs4jnIyXe7jprnMNRddy"
       },
@@ -387,26 +371,6 @@
       "duration_ms": 203417,
       "name": "Youngblood",
       "url": "https://open.spotify.com/track/55S2PQgSMYAhgoTCcGCDfw"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
-        "name": "Rather Be (feat. Jess Glynne)",
-        "url": "https://open.spotify.com/album/4UB0J5V3JsZZtNR360pZ6r"
-      },
-      "artists": [
-        {
-          "name": "Clean Bandit",
-          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
-        },
-        {
-          "name": "Jess Glynne",
-          "url": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
-        }
-      ],
-      "duration_ms": 227833,
-      "name": "Rather Be (feat. Jess Glynne)",
-      "url": "https://open.spotify.com/track/3s4U7OHV7gnj42VV72eSZ6"
     },
     {
       "added_at": "2020-02-18 13:31:30",
@@ -819,22 +783,6 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
-        "name": "Solo Dance",
-        "url": "https://open.spotify.com/album/7J6SYqcOQ705IYA0DUec38"
-      },
-      "artists": [
-        {
-          "name": "Martin Jensen",
-          "url": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
-        }
-      ],
-      "duration_ms": 174933,
-      "name": "Solo Dance",
-      "url": "https://open.spotify.com/track/3R6dPfF2yBO8mHySW1XDAa"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
         "name": "All the Time",
         "url": "https://open.spotify.com/album/4x79GTZCS7XsmxK9qxxMmV"
       },
@@ -847,6 +795,22 @@
       "duration_ms": 228111,
       "name": "All the Time",
       "url": "https://open.spotify.com/track/3OTSBoYKO7HzGVj8Bu2OH9"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
+        "name": "Solo Dance",
+        "url": "https://open.spotify.com/album/7J6SYqcOQ705IYA0DUec38"
+      },
+      "artists": [
+        {
+          "name": "Martin Jensen",
+          "url": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
+        }
+      ],
+      "duration_ms": 174933,
+      "name": "Solo Dance",
+      "url": "https://open.spotify.com/track/3R6dPfF2yBO8mHySW1XDAa"
     },
     {
       "added_at": "2020-02-18 13:31:30",
@@ -1067,26 +1031,6 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
-        "name": "Hurts 2B Human (feat. Khalid)",
-        "url": "https://open.spotify.com/album/3eQRZ9cftF0ezsRsynepNl"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        },
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 202640,
-      "name": "Hurts 2B Human (feat. Khalid)",
-      "url": "https://open.spotify.com/track/7c5h27Ju8JE5xWKTQ88KhL"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
         "name": "Pieces",
         "url": "https://open.spotify.com/album/6KylK197tTFjNoUD8YnIBE"
       },
@@ -1103,6 +1047,26 @@
       "duration_ms": 180000,
       "name": "Pieces",
       "url": "https://open.spotify.com/track/7zhT90M07NLqJb2MsaqWhM"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
+        "name": "Hurts 2B Human (feat. Khalid)",
+        "url": "https://open.spotify.com/album/3eQRZ9cftF0ezsRsynepNl"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 202640,
+      "name": "Hurts 2B Human (feat. Khalid)",
+      "url": "https://open.spotify.com/track/7c5h27Ju8JE5xWKTQ88KhL"
     },
     {
       "added_at": "2020-02-18 13:31:30",
@@ -1379,6 +1343,22 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
+        "name": "A Sweet but Psycho Halloween",
+        "url": "https://open.spotify.com/album/1SgQFgwjMyZG0B00SurN0T"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 187436,
+      "name": "Sweet but Psycho",
+      "url": "https://open.spotify.com/track/5UQe0mUQaoCJ60LHpOLrGR"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
         "name": "Bruised Not Broken (feat. MNEK & Kiana Led\u00e9)",
         "url": "https://open.spotify.com/album/0z4oE7Qw23PPTKR8Upu0Iu"
       },
@@ -1575,6 +1555,26 @@
       "duration_ms": 169781,
       "name": "Long Way Home",
       "url": "https://open.spotify.com/track/1zZPjx3m2M604sI7GpI2ZR"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/2Qf8hCpYFhiHI3sQcgse78"
+      },
+      "artists": [
+        {
+          "name": "End of the World",
+          "url": "https://open.spotify.com/artist/0b59cVa1STVENq3i7wkcHV"
+        },
+        {
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+        }
+      ],
+      "duration_ms": 217493,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/7Lw5FXm8nhQPvezIpA6jK5"
     }
   ],
   "unique_name": "After Work",

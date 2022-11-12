@@ -1,12 +1,12 @@
 {
   "description": "Dale play, y que los temazos no paren.",
-  "num_followers": 100188,
+  "num_followers": 100273,
   "original_name": "Enganchados: Latinos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzA0NDA5NCwwMDAwMDAwMDE1ZWI0ZTJjMTc3MWIwZjkxMTQzMmQ4OGQ5M2UxOTMy",
+  "snapshot_id": "MTY1NzA0NDA5NCwwMDAwMDAwMDU1NDRiYTViMTMxZjk1NDc3OGJiYmE0ZGU2ODA5MmEz",
   "tracks": [
     {
       "added_at": "2022-07-05 18:01:34",
@@ -183,6 +183,22 @@
     {
       "added_at": "2022-07-05 18:01:34",
       "album": {
+        "name": "Fijaci\u00f3n Oral, Vol. 1",
+        "url": "https://open.spotify.com/album/3zHPYwiMJqa3hTBgk695Ae"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 173133,
+      "name": "Dia de Enero",
+      "url": "https://open.spotify.com/track/0OEBOJhSObnFuHuasXdt52"
+    },
+    {
+      "added_at": "2022-07-05 18:01:34",
+      "album": {
         "name": "Te Vi",
         "url": "https://open.spotify.com/album/02XOoh8XrlCc466QkkjGk5"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 231848,
       "name": "Te Vi",
       "url": "https://open.spotify.com/track/059bcIhyc2SBwm6sw2AZzd"
-    },
-    {
-      "added_at": "2022-07-05 18:01:34",
-      "album": {
-        "name": "Fijaci\u00f3n Oral, Vol. 1",
-        "url": "https://open.spotify.com/album/3zHPYwiMJqa3hTBgk695Ae"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 173133,
-      "name": "Dia de Enero",
-      "url": "https://open.spotify.com/track/0OEBOJhSObnFuHuasXdt52"
     },
     {
       "added_at": "2022-07-05 18:01:34",
@@ -303,22 +303,6 @@
     {
       "added_at": "2022-07-05 18:01:34",
       "album": {
-        "name": "Donde Estan Los Ladrones",
-        "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 192866,
-      "name": "Inevitable",
-      "url": "https://open.spotify.com/track/78dbqYDvx6FOefROApu9w0"
-    },
-    {
-      "added_at": "2022-07-05 18:01:34",
-      "album": {
         "name": "Limon Y Sal",
         "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 187520,
       "name": "Me Voy",
       "url": "https://open.spotify.com/track/100Tm6z29RfHTdUQ6NIs0s"
+    },
+    {
+      "added_at": "2022-07-05 18:01:34",
+      "album": {
+        "name": "Donde Estan Los Ladrones",
+        "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 192866,
+      "name": "Inevitable",
+      "url": "https://open.spotify.com/track/78dbqYDvx6FOefROApu9w0"
     },
     {
       "added_at": "2022-07-05 18:01:34",
@@ -439,18 +439,18 @@
     {
       "added_at": "2022-07-05 18:01:34",
       "album": {
-        "name": "Limon Y Sal",
-        "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
+        "name": "Donde Estan Los Ladrones",
+        "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
       },
       "artists": [
         {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
         }
       ],
-      "duration_ms": 205413,
-      "name": "Lim\u00f3n y Sal",
-      "url": "https://open.spotify.com/track/7dITAq1YP5e0kTcaDq4YWI"
+      "duration_ms": 267826,
+      "name": "Ciega, Sordomuda",
+      "url": "https://open.spotify.com/track/7jxHeJLVpnP7S08JFF4GBi"
     },
     {
       "added_at": "2022-07-05 18:01:34",
@@ -475,18 +475,18 @@
     {
       "added_at": "2022-07-05 18:01:34",
       "album": {
-        "name": "Donde Estan Los Ladrones",
-        "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
+        "name": "Limon Y Sal",
+        "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
       },
       "artists": [
         {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
         }
       ],
-      "duration_ms": 267826,
-      "name": "Ciega, Sordomuda",
-      "url": "https://open.spotify.com/track/7jxHeJLVpnP7S08JFF4GBi"
+      "duration_ms": 205413,
+      "name": "Lim\u00f3n y Sal",
+      "url": "https://open.spotify.com/track/7dITAq1YP5e0kTcaDq4YWI"
     },
     {
       "added_at": "2022-07-05 18:01:34",
@@ -983,22 +983,6 @@
     {
       "added_at": "2022-07-05 18:01:34",
       "album": {
-        "name": "Coti",
-        "url": "https://open.spotify.com/album/1msFprmU8cqzLu66TOX4rf"
-      },
-      "artists": [
-        {
-          "name": "Coti",
-          "url": "https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj"
-        }
-      ],
-      "duration_ms": 208200,
-      "name": "Nada Fue Un Error",
-      "url": "https://open.spotify.com/track/5QhOF5HXgZ0OFUZSE5kEv1"
-    },
-    {
-      "added_at": "2022-07-05 18:01:34",
-      "album": {
         "name": "Mi Sangre",
         "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 217560,
       "name": "Volverte A Ver",
       "url": "https://open.spotify.com/track/2ZqFfDwNjKvPu3USx3onhO"
+    },
+    {
+      "added_at": "2022-07-05 18:01:34",
+      "album": {
+        "name": "Coti",
+        "url": "https://open.spotify.com/album/1msFprmU8cqzLu66TOX4rf"
+      },
+      "artists": [
+        {
+          "name": "Coti",
+          "url": "https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj"
+        }
+      ],
+      "duration_ms": 208200,
+      "name": "Nada Fue Un Error",
+      "url": "https://open.spotify.com/track/5QhOF5HXgZ0OFUZSE5kEv1"
     },
     {
       "added_at": "2022-07-05 18:01:34",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2022-07-05 18:01:34",
       "album": {
-        "name": "La Calle De Las Sirenas",
-        "url": "https://open.spotify.com/album/3Qe5Ldqub3nZPjq26sS1fS"
-      },
-      "artists": [
-        {
-          "name": "Kabah",
-          "url": "https://open.spotify.com/artist/61hAcjvvUS6EXMpeeHwaDi"
-        }
-      ],
-      "duration_ms": 236160,
-      "name": "La Calle De Las Sirenas",
-      "url": "https://open.spotify.com/track/1SVm64B4Ry7dqFSxHY8e65"
-    },
-    {
-      "added_at": "2022-07-05 18:01:34",
-      "album": {
         "name": "En Vivo en el Palacio de los Deportes - 25 Aniversario",
         "url": "https://open.spotify.com/album/7gSe5tBOrBERCFvQgR6TsC"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 234985,
       "name": "No Me Importa el Dinero (feat. Julieta Venegas) - Vivo en el Palacio de los Deportes",
       "url": "https://open.spotify.com/track/4wXjnoLIMTninCnKRgGsQc"
+    },
+    {
+      "added_at": "2022-07-05 18:01:34",
+      "album": {
+        "name": "La Calle De Las Sirenas",
+        "url": "https://open.spotify.com/album/3Qe5Ldqub3nZPjq26sS1fS"
+      },
+      "artists": [
+        {
+          "name": "Kabah",
+          "url": "https://open.spotify.com/artist/61hAcjvvUS6EXMpeeHwaDi"
+        }
+      ],
+      "duration_ms": 236160,
+      "name": "La Calle De Las Sirenas",
+      "url": "https://open.spotify.com/track/1SVm64B4Ry7dqFSxHY8e65"
     },
     {
       "added_at": "2022-07-05 18:01:34",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2022-07-05 18:01:34",
       "album": {
-        "name": "Tattoo",
-        "url": "https://open.spotify.com/album/2YRwWCfsk2Uf9ycGS7FRMV"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 202886,
-      "name": "Tattoo",
-      "url": "https://open.spotify.com/track/7na7Bk98usp84FaOJFPv3d"
-    },
-    {
-      "added_at": "2022-07-05 18:01:34",
-      "album": {
         "name": "Eres la Persona Correcta en el Momento Equivocado (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4yLZWoiV6At9flI5Qcyagr"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 206253,
       "name": "Caminar de Tu Mano (feat. Fonseca)",
       "url": "https://open.spotify.com/track/0IWBTieCc6wQZ0C4kCHP9q"
+    },
+    {
+      "added_at": "2022-07-05 18:01:34",
+      "album": {
+        "name": "Tattoo",
+        "url": "https://open.spotify.com/album/2YRwWCfsk2Uf9ycGS7FRMV"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 202886,
+      "name": "Tattoo",
+      "url": "https://open.spotify.com/track/7na7Bk98usp84FaOJFPv3d"
     },
     {
       "added_at": "2022-07-05 18:01:34",

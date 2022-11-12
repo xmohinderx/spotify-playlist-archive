@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX030FFx0YCXp.md) - [plain]
 
 > Crowdpleasing classics for an easy, carefree day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 374,750 likes - 125 songs - 8 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 374,757 likes - 125 songs - 8 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX030FFx0YCXp.md) - [plain]
 | 9 | [For What It's Worth](https://open.spotify.com/track/1qRA5BS78u3gME0loMl9AA) | [Buffalo Springfield](https://open.spotify.com/artist/3eskO5m0H4yiF64vRySBjr) | [Buffalo Springfield](https://open.spotify.com/album/3PkdGRruLnJ9zCtANiDrpB) | 2:33 |
 | 10 | [Hotel California \- 2013 Remaster](https://open.spotify.com/track/40riOy7x9W7GXjyGp4pjAv) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Hotel California \(2013 Remaster\)](https://open.spotify.com/album/2widuo17g5CEC66IbzveRu) | 6:31 |
 | 11 | [Go Your Own Way \- 2018 Remaster](https://open.spotify.com/track/1cu0UvpVauONcHUXLb8dks) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [70s FM Radio Waves Rider](https://open.spotify.com/album/5RoWDvTkhQB7ED7g8K45SR) | 3:39 |
-| 12 | [Small Town](https://open.spotify.com/track/2HsjJJL4DhPCzMlnaGv7ap) | [John Mellencamp](https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH) | [Scarecrow](https://open.spotify.com/album/1BYEhfr8qQGNhbqPAbfnxk) | 3:41 |
+| 12 | [Small Town](https://open.spotify.com/track/56JG2tE2m09KQxH2ohvO5q) | [John Mellencamp](https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH) | [Camping Songs](https://open.spotify.com/album/6IKpAFcUGvNO688HgIo7F5) | 3:41 |
 | 13 | [Ooh La La \- 2004 Remaster](https://open.spotify.com/track/6TNNMVpOgn8K5NoDC7alG6) | [Faces](https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL) | [The Best of Faces: Good Boys When They're Asleep](https://open.spotify.com/album/375DYMUVvk7xXyKq5IaUTR) | 3:34 |
 | 14 | [Layla \- Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2007 Remaster; Single Edit](https://open.spotify.com/track/4ibOxUxg1huJ9vZTgzY6Jl) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Complete Clapton](https://open.spotify.com/album/28Cz12vvLOxYkqzXNwAbnl) | 4:39 |
 | 15 | [Fast Car](https://open.spotify.com/track/2M9ro2krNb7nr7HSprkEgo) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [Tracy Chapman](https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8) | 4:56 |
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX030FFx0YCXp.md) - [plain]
 | 55 | [I Got a Name \- Stereo Version](https://open.spotify.com/track/2S0curmaVnRDRA4IBjigDb) | [Jim Croce](https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM) | [Greatest](https://open.spotify.com/album/3k55Aa9R0fBxP9iRkDrBuz) | 3:14 |
 | 56 | [Cumberland Gap](https://open.spotify.com/track/4rG7GtTipquzXDBHUcJQw1) | [David Rawlings](https://open.spotify.com/artist/01XgbvLicKQELx7NqHgi5G) | [Poor David's Almanack](https://open.spotify.com/album/2yohVBNjsgx36AC03RGyxM) | 2:55 |
 | 57 | [Free Bird](https://open.spotify.com/track/2bBPY5fdur2fYw3mIgKs2a) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Rock and polas](https://open.spotify.com/album/4rXxsUgjBswDQmUglENhZG) | 9:09 |
-| 58 | [Maybe I’m Amazed \- 2011 Remaster](https://open.spotify.com/track/1Qa0Y05al633fG8f9Peytc) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [McCartney \(Archive Collection\)](https://open.spotify.com/album/2lOll0xAGw8FPjwmwopAKT) | 3:49 |
+| 58 | [Maybe I’m Amazed](https://open.spotify.com/track/70B7IGHu2yer9GhnVSLRsK) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Pure McCartney \(Deluxe Edition\)](https://open.spotify.com/album/5ikljNZWFHqZP2M0kKvEWb) | 3:51 |
 | 59 | [Beautiful Day](https://open.spotify.com/track/1VuBmEauSZywQVtqbxNqka) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [All That You Can't Leave Behind](https://open.spotify.com/album/7gskILm9UyDvFlmmAoqn2g) | 4:06 |
 | 60 | [Change the World](https://open.spotify.com/track/3jYr59dZBKzFa7Ji7be6fT) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Phenomenon \(Music From The Motion Picture\)](https://open.spotify.com/album/7lRLCWZAAi6GPBGllbmmuV) | 3:54 |
 | 61 | [Shiny Happy People](https://open.spotify.com/track/4H5G4zCVeDg31QdBBec8nW) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Old But Gold 90's](https://open.spotify.com/album/1PzWrln9DIpVKFyHPe8eBR) | 3:45 |
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX030FFx0YCXp.md) - [plain]
 | 87 | [Ho Hey](https://open.spotify.com/track/0W4Kpfp1w2xkY3PrV714B7) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [The Lumineers](https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW) | 2:43 |
 | 88 | [Crazy Love \- 2013 Remaster](https://open.spotify.com/track/2hjAc6x8EoSLhGxRNg8KEw) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Moondance \(Expanded Edition\)](https://open.spotify.com/album/6yNYC35npMBHbxG0Vle83O) | 2:35 |
 | 89 | [Constant Craving](https://open.spotify.com/track/0wCrg1LhgPcGMw51qqpI6k) | [k.d\. lang](https://open.spotify.com/artist/6W1BHDF0T4a4KYcSwzD586) | [Recollection](https://open.spotify.com/album/22TXLyA5GOT19O9hIdAHLE) | 4:37 |
-| 90 | [Fire and Rain \- 2019 Remaster](https://open.spotify.com/track/1oht5GevPN9t1T3kG1m1GO) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Sweet Baby James \(2019 Remaster\)](https://open.spotify.com/album/1HiG0ukRmFPN13EVcf98Jx) | 3:23 |
+| 90 | [Fire and Rain](https://open.spotify.com/track/6zgeog6feHU0gpFeG8UbGa) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Calming Ballads](https://open.spotify.com/album/4nGVLxjxJZcgw5f6I4hqi0) | 3:20 |
 | 91 | [Time's Always Leaving](https://open.spotify.com/track/4TXiPzOZanpYIUXuNwHzlZ) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Time's Always Leaving](https://open.spotify.com/album/5kAHEuWi7anBhN7EgHpX1R) | 3:17 |
 | 92 | [Ramblin' Man](https://open.spotify.com/track/7Ap1oN1ZXSz6l686wfPLPN) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [Rockin' Blues](https://open.spotify.com/album/2UewN8ejNxZTOLHrPfh25T) | 4:48 |
 | 93 | [Wild World](https://open.spotify.com/track/7JS7F316cTGvEeiRUzsBfJ) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [70's Music \- I Grandi Successi](https://open.spotify.com/album/62SQumLuxmWJvXzIYul0pg) | 3:20 |
@@ -131,7 +131,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX030FFx0YCXp.md) - [plain]
 | 121 | [Turn to Stone](https://open.spotify.com/track/1Pd1h30mgU05QkWYhgFzwt) | [Electric Light Orchestra](https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk) | [Out of the Blue](https://open.spotify.com/album/3usnShwygMXVZB4IV5dwnU) | 3:49 |
 | 122 | [Glory Days](https://open.spotify.com/track/2Y90nL1ohB4sgYELDs7uNx) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 4:14 |
 | 123 | [Up Around The Bend](https://open.spotify.com/track/36gPq8WG7tDxrblyGVUCiT) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Cosmo's Factory \(Expanded Edition\)](https://open.spotify.com/album/4GLxEXWI3JiRKp6H7bfTIK) | 2:41 |
-| 124 | [Love the One You're With](https://open.spotify.com/track/0NnyYBnyStcNKDu7PejLPF) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [Givin' It Back](https://open.spotify.com/album/0xd0GqZYWh9wEA3TuqMy5h) | 3:43 |
+| 124 | [Love the One You're With](https://open.spotify.com/track/6JyVqkwKFTkvnp55b1NtGQ) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [The Essential Isley Brothers](https://open.spotify.com/album/6EgsYSfVYAygvcDvC1IO8v) | 3:38 |
 | 125 | [Rocky Mountain High](https://open.spotify.com/track/1ne9wOtDF2jM6Cm8WBkaER) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [Rocky Mountain High](https://open.spotify.com/album/2gEurk31djZjI3P3SY8ZcC) | 4:43 |
 
-Snapshot ID: `MTY1NTQwNjEyOSwwMDAwMDAwMDZhNmU3OGI3OWZkMDJjOWJjZTE0ODA0OWU3OTJhN2Qy`
+Snapshot ID: `MTY1NTQwNjEyOSwwMDAwMDAwMDFiMjljYmMwYjYzOTAzZjFiZmE0OTE4YmVkYTU1Yjg1`

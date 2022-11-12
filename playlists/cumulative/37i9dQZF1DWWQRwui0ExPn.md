@@ -4,7 +4,7 @@
 
 > The chillest beats to help you relax, study, code, and focus.
 
-4,308 songs - 6 day 20 hr 12 min - [published](https://open.spotify.com/playlist/5NoFcGR8fbqWzjFatWkJo3)
+4,309 songs - 6 day 20 hr 14 min - [published](https://open.spotify.com/playlist/5NoFcGR8fbqWzjFatWkJo3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1905,7 +1905,8 @@
 | [Jatoba](https://open.spotify.com/track/23YwIqf1aZd62i9Cr1PwT9) | [MagFi](https://open.spotify.com/artist/7cP4a4wJ4c2u9zTEi7g8xs), [David Armann](https://open.spotify.com/artist/3SICpa7mqqcHvQZDLxhSYV) | [Jatoba](https://open.spotify.com/album/3wH2JMVBtpzG6PQFSabex0) | 2:40 | 2022-05-27 | 2022-09-23 |
 | [Jaunt](https://open.spotify.com/track/4GKfKfhNYRCIqnhAzUII4q) | [Lizlov](https://open.spotify.com/artist/4Pw2vYKFHNUEacLKc6K4Fy) | [Coziness](https://open.spotify.com/album/6F8iQfdAzMB06WwGu8AYzy) | 2:06 | 2021-12-17 | 2022-07-01 |
 | [Jazz](https://open.spotify.com/track/3LkmrB45KwmI3pgBNv5qKX) | [Soulmade](https://open.spotify.com/artist/3Az7oMw6ipky9h1LJOxYMD), [Retrogott](https://open.spotify.com/artist/5tVBk9HCvx9dELxzEgQ2ll) | [One For: Two](https://open.spotify.com/album/1mrm4vTTNxy0c2caYq54NP) | 2:28 | 2022-07-29 | 2022-11-11 |
-| [Jazz Cafe](https://open.spotify.com/track/2adHWVld1fu2TkXm6ueTnH) | [Siesta](https://open.spotify.com/artist/6awqPfhaJwYe8ioLMRlvQP) | [Jazz Cafe](https://open.spotify.com/album/4Yo9jdV2Mk0YSo93TEOZsZ) | 1:51 | 2022-10-28 |  |
+| [Jazz Cafe](https://open.spotify.com/track/2adHWVld1fu2TkXm6ueTnH) | [Siesta](https://open.spotify.com/artist/6awqPfhaJwYe8ioLMRlvQP) | [Jazz Cafe](https://open.spotify.com/album/4Yo9jdV2Mk0YSo93TEOZsZ) | 1:51 | 2022-10-28 | 2022-11-12 |
+| [Jazz Cafe](https://open.spotify.com/track/3p6yYB2PMpQiCUdppk3Gqd) | [Siesta](https://open.spotify.com/artist/6awqPfhaJwYe8ioLMRlvQP) | [Study Music](https://open.spotify.com/album/5r6MDv1Z8oENNWiIkg0v0r) | 1:51 | 2022-11-11 |  |
 | [Jazz Cafe](https://open.spotify.com/track/4hTEdSxohydCBMSFHEqEHN) | [Siesta](https://open.spotify.com/artist/6awqPfhaJwYe8ioLMRlvQP) | [Jazz Cafe](https://open.spotify.com/album/4FyZ7JEoVLDiVykMUKnTAc) | 1:51 | 2022-09-02 | 2022-11-06 |
 | [Jazz Hands](https://open.spotify.com/track/5q2atGfcFptWfDwoHk7IYI) | [Remulak](https://open.spotify.com/artist/5epeii4aAE7NXFsBkqoJxB), [Low Cap Records](https://open.spotify.com/artist/2JE8UJ1kM38Jut3VGRhyEw) | [Jazz Hands](https://open.spotify.com/album/7zW0HkTUxyMojrd5x4LdAj) | 1:38 | 2022-10-14 |  |
 | [Jazz Heat](https://open.spotify.com/track/6ook1AIRMvfcqHpn74xgxs) | [Nicolas Kluzek](https://open.spotify.com/artist/0fUtDbK1RDdscZGRHqCHCs) | [Jazz Heat](https://open.spotify.com/album/7uHy3Dtd5gLSatgoJqJbN9) | 1:36 | 2022-07-08 | 2022-10-14 |

@@ -4,7 +4,7 @@
 
 > The best music with a Nashville flavour\. Cover: The Shires
 
-87 songs - 4 hr 46 min - [published](https://open.spotify.com/playlist/5MYHtRglmvJsgUyFpYLHKg)
+88 songs - 4 hr 50 min - [published](https://open.spotify.com/playlist/5MYHtRglmvJsgUyFpYLHKg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [Cowboy](https://open.spotify.com/track/6HvWvijSH9uJsBpWAY7s2C) | [Callie Twisselman](https://open.spotify.com/artist/3gF0ir2uNJSwtsQC4Voj8R) | [Closure](https://open.spotify.com/album/1qTlHA6p8yTmFV6FsvLNi2) | 3:13 | 2022-03-08 | 2022-03-09 |
 | [Crazy One More Time \- Revisited](https://open.spotify.com/track/0jy7nb2V8Twnk6aGz3hqCE) | [Kip Moore](https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM) | [Crazy One More Time \(Revisited\)](https://open.spotify.com/album/4qoFgtGcRTrdlfrIXcrwF9) | 3:51 | 2022-03-09 |  |
 | [Death Row](https://open.spotify.com/track/6SfrCSnhSoiJPzCJafw9m0) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V), [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Death Row](https://open.spotify.com/album/6MWy82eeVqcCSSBXeVPRVx) | 3:51 | 2022-03-09 |  |
-| [Diamond Studded Shoes](https://open.spotify.com/track/5SfM1f729pv1DdiEcyDiex) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Stand For Myself](https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV) | 3:24 | 2022-03-11 |  |
+| [Diamond Studded Shoes](https://open.spotify.com/track/40IKRcWQ7AmmLe0397l1Wb) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Festival Music 2022](https://open.spotify.com/album/4GWUWeGzDHP3J6hIKKrTB5) | 3:24 | 2022-03-11 |  |
+| [Diamond Studded Shoes](https://open.spotify.com/track/5SfM1f729pv1DdiEcyDiex) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Stand For Myself](https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV) | 3:24 | 2022-03-11 | 2022-11-12 |
 | [Diamond Studded Shoes](https://open.spotify.com/track/5vJzPLEkqOXaqKZqzsYt9r) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Diamond Studded Shoes](https://open.spotify.com/album/1hH8sinTRPta1RQMY8SFX5) | 3:24 | 2021-12-17 | 2022-07-29 |
 | [Don't Be a Stranger \(feat\. Cam\)](https://open.spotify.com/track/3olaYC5TAKtKdz0zhMwxyV) | [Ward Thomas](https://open.spotify.com/artist/0xBhUB0EfzvchYnaIWkdBw), [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Don't Be a Stranger \(feat\. Cam\)](https://open.spotify.com/album/1MtaySeGQhJpunJUa8dLei) | 3:15 | 2021-12-17 | 2022-03-09 |
 | [Downtown Baby](https://open.spotify.com/track/3NIMPlnySYOfVF5Vxr4Ae1) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Downtown Baby](https://open.spotify.com/album/2dbQaQFGQjxmQxicnp0701) | 2:47 | 2022-03-08 |  |

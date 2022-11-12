@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PFzdbtx1Us.md) - [plain]
 
 > Minimalism, electronica and modern classical to concentrate to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,226,313 likes - 73 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,226,266 likes - 73 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PFzdbtx1Us.md) - [plain]
 | 7 | [Footprints](https://open.spotify.com/track/3dxvqhGVXEkzBkLUapY1eW) | [Maree Docia](https://open.spotify.com/artist/2UjQMEOzrwt2v4L3dNrcqe) | [We Were Legends](https://open.spotify.com/album/07uVGssx4qgJDsJAgepdsO) | 2:19 |
 | 8 | [The Winding Paths](https://open.spotify.com/track/5VceRZmSDeW6y7ipxiwOvK) | [Regina Mira](https://open.spotify.com/artist/5TxyXnLkmonAVNpdgJ7z4C) | [October](https://open.spotify.com/album/3csL43PsskrOpVuXSRTw91) | 1:59 |
 | 9 | [October](https://open.spotify.com/track/7x8ILiGyZAFW3F0rPUPYxm) | [Regina Mira](https://open.spotify.com/artist/5TxyXnLkmonAVNpdgJ7z4C) | [October](https://open.spotify.com/album/3csL43PsskrOpVuXSRTw91) | 1:48 |
-| 10 | [Above It All](https://open.spotify.com/track/4BPjphA5WmmKaJk66jF3oB) | [August Wilhelmsson](https://open.spotify.com/artist/34hmgPKKRJX6fvkosRxDO7) | [I Was Arthur](https://open.spotify.com/album/414Z4UXOjGS0AdGEbPeJQw) | 2:11 |
+| 10 | [Above It All](https://open.spotify.com/track/4qAzoVYQQHDM4e4wDaMyt0) | [August Wilhelmsson](https://open.spotify.com/artist/34hmgPKKRJX6fvkosRxDO7) | [KEEN: Complete Concentration Vol\. 2](https://open.spotify.com/album/5TkBqGSUW9amp8A72oLyyz) | 2:11 |
 | 11 | [Mont Blanc](https://open.spotify.com/track/7v9FUpTcXP57BJTvC7r8GO) | [Henrik Janson](https://open.spotify.com/artist/5kIhxGyX6VtcsLk88dwYED) | [Piano Sessions: Vol 1](https://open.spotify.com/album/7vVkhgIpT4dUOH0eTviZow) | 2:12 |
 | 12 | [Dawn](https://open.spotify.com/track/1E0RGmeX5QjPeWTdd99mAh) | [Landwerm](https://open.spotify.com/artist/2YDG8LcPW20IKhL1GgQmDJ) | [Dawn](https://open.spotify.com/album/3j4pp3rJJGI43C1SbK0wnR) | 1:49 |
 | 13 | [17th December 2020 \(Waterloo Station\)](https://open.spotify.com/track/705EXk9IA9duuFiQ7ZugNP) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life Piano EP \(April 14 \- December 17 2020\)](https://open.spotify.com/album/77cR5kSztr2fcYtr0vsyes) | 3:40 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PFzdbtx1Us.md) - [plain]
 | 72 | [City Lights](https://open.spotify.com/track/041EqVueOI4pszWGJfKerh) | [Oliver Évilo](https://open.spotify.com/artist/6pr16671AS8qchaPqDDM0Y) | [City Lights](https://open.spotify.com/album/5edrSUkO57ts9EwVVjvPAx) | 2:06 |
 | 73 | [Allisone](https://open.spotify.com/track/43CBnlr309XH9gyu8cIHSl) | [Steven Windhaug](https://open.spotify.com/artist/49PC2thu4PsvOGs77fgXwA) | [Peacefulness](https://open.spotify.com/album/58J3xBeGSPRKHsuNV9mIRF) | 3:31 |
 
-Snapshot ID: `MTY1NzAxMzc0NSwwMDAwMDAwMDkzYzIwYmMzNjllMWFmNTRmNDUwZmMwZDY4YTNlZTIx`
+Snapshot ID: `MTY1NzAxMzc0NSwwMDAwMDAwMDdlNWRhZjg1OGZiYzRlNDhiN2Q1OGNmNDY0ODlmMTNi`

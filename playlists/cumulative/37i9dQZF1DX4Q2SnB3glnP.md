@@ -4,7 +4,7 @@
 
 > Music wellness for your soul.
 
-249 songs - 13 hr 20 min - [published](https://open.spotify.com/playlist/4mp9Oxx4e4HzTV82HU14u2)
+252 songs - 13 hr 30 min - [published](https://open.spotify.com/playlist/4mp9Oxx4e4HzTV82HU14u2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Finn roen](https://open.spotify.com/track/0NtkoVSkVKRmybx0Vau21E) | [Andrine Årdal](https://open.spotify.com/artist/4bxTOGvKxGPNTKqgbDsoIx) | [Finn roen](https://open.spotify.com/album/2eX9Kdyv7Pb6ro098w5yke) | 3:34 | 2021-12-08 | 2022-07-28 |
 | [First Ray of Sun](https://open.spotify.com/track/7lEws7eRAGDDUY39l8VlBH) | [Northern Lights](https://open.spotify.com/artist/0pJ7c6jclXmQmxW4Doz1Ny) | [Moto Perpetuo](https://open.spotify.com/album/5PiMD2EnpqjMBfQgCfLJ6C) | 2:19 | 2021-12-08 |  |
 | [Flucht](https://open.spotify.com/track/2mPQlLpYdr2HFROOunOKH4) | [Elias Dome](https://open.spotify.com/artist/0jrRKY6KdJnLLOmF1FPb6p) | [Flucht](https://open.spotify.com/album/2NNkB8re9TnYdfcRmbv7Fn) | 2:42 | 2022-02-03 |  |
+| [Following The Seasons](https://open.spotify.com/track/748k8Bk5Nousy75IFv6QQy) | [Aisha Akebono](https://open.spotify.com/artist/1lI0k1BiLHvfJub3QQfe72) | [Following The Seasons](https://open.spotify.com/album/22h16XP7CqXPQAzro1YXcb) | 3:31 | 2022-11-11 |  |
 | [From Above](https://open.spotify.com/track/3bmicq5CCRnFGlvZY8mQYP) | [Jack Rosslyn](https://open.spotify.com/artist/2NsHKcM4F9lLMEppqZnsM5) | [From Above](https://open.spotify.com/album/7rj2uybb1d4Q3WnjMCtn04) | 2:19 | 2021-12-08 |  |
 | [Frozen Grasslands](https://open.spotify.com/track/2QN55dmp583TNohDVITyfz) | [Cora Zea](https://open.spotify.com/artist/2GW7BMmmFwI0cDvop6sOWg) | [Legend Of Zea](https://open.spotify.com/album/0aovJaJL5ehp9AtwcSJtce) | 2:38 | 2021-12-08 |  |
 | [Gentle Cure](https://open.spotify.com/track/3a4HwrietoocD2toa1Pezg) | [Calma](https://open.spotify.com/artist/0yrywRgSz0i2hZCJHuP3iT) | [Essence](https://open.spotify.com/album/7vCCiQEhbRVYNOCsUraYlI) | 2:54 | 2021-12-08 |  |
@@ -169,6 +170,7 @@
 | [Portraits](https://open.spotify.com/track/3Vr1DtJ30TMsFZBs9WJIvM) | [For The Lost](https://open.spotify.com/artist/58WBGaTBnBHGIgn19HOnhZ) | [Portraits](https://open.spotify.com/album/2USBHDZHtyMBWFXFwCYW3V) | 3:13 | 2021-12-08 |  |
 | [Pura Armonía](https://open.spotify.com/track/5UQJ26jvwmcvlhlUSZCkG9) | [Calamantos](https://open.spotify.com/artist/4sk5GtqBchPEuDVcOASDXy) | [Relajación y Meditación](https://open.spotify.com/album/7lf9GNRElS8xe9isYjh3bL) | 3:24 | 2021-12-08 |  |
 | [Quantum](https://open.spotify.com/track/531T2IlqucxLsyDPtw6LSv) | [Matter and Energy](https://open.spotify.com/artist/4nI8wqhtfCFOYX3vvicEN0) | [Matter and Energy](https://open.spotify.com/album/2SPL4RRbxY3iq8hX08TXlm) | 2:55 | 2021-12-08 |  |
+| [Quiet Motions](https://open.spotify.com/track/5G5T4D1uFd2mjhuM5O7bXu) | [Spheres](https://open.spotify.com/artist/3c3ccZ0IYqJ9cfMdSfVt02) | [Quiet Motions](https://open.spotify.com/album/7JycG0PMs6yxJBgSmx1Cmr) | 3:15 | 2022-11-11 |  |
 | [Reaching](https://open.spotify.com/track/0KvgYjNjdjpgjanBhUnSfO) | [Chama Wijnen](https://open.spotify.com/artist/7ftRhte6NNzoF9MIKfKJsP) | [Reaching](https://open.spotify.com/album/1coFYbyXU2dxO3lrUsbdIy) | 2:56 | 2021-12-08 |  |
 | [Rebirth](https://open.spotify.com/track/4GlveryProx302jQ9hHjqe) | [Spirit Minds](https://open.spotify.com/artist/3GrOqlDYHDtloOS3v1cnvD) | [Awakening](https://open.spotify.com/album/3FsbKE5tluUBXyYygoxFYe) | 3:23 | 2021-12-08 |  |
 | [Receding Waves](https://open.spotify.com/track/5nkdxgonAeVjxg8NCptsuj) | [Tales from Jupiter](https://open.spotify.com/artist/0kY9PVjCD1q3Vfhp1Jjzzh) | [Adelaide](https://open.spotify.com/album/0yROHeSwgFi2suADVfGxvT) | 3:46 | 2021-12-08 |  |
@@ -239,6 +241,7 @@
 | [Towards Silence](https://open.spotify.com/track/25stZHn22KgYL9roXriBe9) | [Lugar](https://open.spotify.com/artist/6KPAXAMmjjuL3dlucR4I29) | [Towards Silence](https://open.spotify.com/album/4e3UJoorTIvwDfg8D4DDYr) | 2:54 | 2022-10-14 |  |
 | [Tranquil](https://open.spotify.com/track/5Vnav7uF10Y1lj7Rc8ZSPs) | [David Ripperton](https://open.spotify.com/artist/0wpChJY0eLNSdeIep3DCyy) | [Still](https://open.spotify.com/album/2swUDwU2w9c0As92jzfREY) | 3:12 | 2021-12-08 |  |
 | [Tranquility](https://open.spotify.com/track/3hEugJ3cU9p9gN5b6imbvX) | [IFEELU](https://open.spotify.com/artist/59TdBGgpKBf2dRrmguF06s) | [Effortless](https://open.spotify.com/album/6JBZgfycZAmFDdNdjT98hT) | 2:29 | 2021-12-08 |  |
+| [Two Ways](https://open.spotify.com/track/2jtfOMMCIJrZgXbdnrVNDH) | [Monet Benitez](https://open.spotify.com/artist/4oQZmRxjpBOfuINrvgElwz) | [Two Ways](https://open.spotify.com/album/7lct65G1cVbNXZXY6zGjn4) | 3:04 | 2022-11-11 |  |
 | [Un Lugar Tranquilo](https://open.spotify.com/track/5BMUIx6JMCKHK1BsWsYMmY) | [Micaela De León](https://open.spotify.com/artist/501O6IotIJIxYTcT7TXzNc) | [Un Lugar Tranquilo](https://open.spotify.com/album/6PxtxECBTrXamiB9EYO9IH) | 3:02 | 2022-06-16 |  |
 | [Une autre fois](https://open.spotify.com/track/33T4UVNjVx8pWAcWZG4lCn) | [Emmeline Ralph](https://open.spotify.com/artist/3ETsEsGHY5HlPjh1lxVtG8) | [Une autre fois](https://open.spotify.com/album/480hA9KU8gmNMMImvyaSZf) | 3:13 | 2022-07-15 |  |
 | [Unearth](https://open.spotify.com/track/6Xi8YlrC0eGYuyjnJHWUVR) | [Taylor Deupree](https://open.spotify.com/artist/4X3dUbGsTpVH6EbxtWnj6T) | [Fallen](https://open.spotify.com/album/52thnHxyMTyY56yHm8i6Sx) | 5:57 | 2021-12-08 |  |

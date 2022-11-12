@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 394133,
       "name": "(Everything I Do) I Do It For You",
       "url": "https://open.spotify.com/track/6eBK3edMW7bEzecF1eCezc"
@@ -181,7 +181,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 305426,
       "name": "Ahora Quien",
       "url": "https://open.spotify.com/track/1UhC65P18YWD02sW0GiyMl"
@@ -289,7 +289,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 353026,
       "name": "Always",
       "url": "https://open.spotify.com/track/2RChe0r2cMoyOvuKobZy44"
@@ -595,7 +595,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 208026,
       "name": "Chica de ayer",
       "url": "https://open.spotify.com/track/1aZc9YBrZpKCE1YqSMV5Vg"
@@ -871,7 +871,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 217146,
       "name": "Dos Hombres Y Un Destino",
       "url": "https://open.spotify.com/track/2TMhNVnegm2SMQ6lvhaxdm"
@@ -1005,7 +1005,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 268293,
       "name": "Endless Love - From \"The Endless Love\" Soundtrack",
       "url": "https://open.spotify.com/track/0rt0dZ11FVsvprbarag5tk"
@@ -1171,6 +1171,24 @@
       "duration_ms": 320266,
       "name": "Everybody Hurts",
       "url": "https://open.spotify.com/track/6PypGyiu0Y2lCDBN1XZEnP"
+    },
+    {
+      "album": {
+        "name": "The Best Of 25 Years",
+        "url": "https://open.spotify.com/album/6djIZD2d3HfAUuqfGF86Vb"
+      },
+      "artists": [
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220053,
+      "name": "Fields Of Gold",
+      "url": "https://open.spotify.com/track/1VI7sH93UcY0stZYVqvMoH"
     },
     {
       "album": {
@@ -2043,7 +2061,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 285000,
       "name": "One Moment in Time",
       "url": "https://open.spotify.com/track/5IDUGTWbntYwO9SNmhuSWf"
@@ -2451,7 +2469,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 236160,
       "name": "Somewhere Only We Know",
       "url": "https://open.spotify.com/track/0ll8uFnc0nANY35E0Lfxvg"
@@ -2619,7 +2637,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 236818,
       "name": "Te has perdido qui\u00e9n soy",
       "url": "https://open.spotify.com/track/17JMdToGDtwivW3pjMug9W"

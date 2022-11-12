@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8c93KtGDPub.md) - [plain]
 
 > Play these festive songs upon a winter's night, and have yourself a folksy little Christmas now\. Cover: She & Him
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,886 likes - 157 songs - 9 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,026 likes - 157 songs - 9 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8c93KtGDPub.md) - [plain]
 | 56 | [What Are You Doing New Years Eve](https://open.spotify.com/track/5HhcXgRU7kYszL7OQZtNlc) | [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [A Johnnyswim Christmas](https://open.spotify.com/album/4NVnwX1oas9B9zHSX8xwfD) | 2:53 |
 | 57 | [Snow](https://open.spotify.com/track/4yNKWjEFADa5f11RI1DaKC) | [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [At Swim](https://open.spotify.com/album/3c3n3uBTF0tgIPCNjucEAm) | 3:38 |
 | 58 | [Take Me Back to Toyland](https://open.spotify.com/track/7a9o50udnCEeGVfUdI084k) | [Grant\-Lee Phillips](https://open.spotify.com/artist/65xy6loxYxKy3M9uiRHzLv) | [Winterglow / Take Me Back to Toyland](https://open.spotify.com/album/4N1C0GAOeKcqMUrJSGPV3t) | 2:06 |
-| 59 | [White Winter Hymnal](https://open.spotify.com/track/0GegHVxeozw3rdjte45Bfx) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Fleet Foxes](https://open.spotify.com/album/5GRnydamKvIeG46dycID6v) | 2:27 |
+| 59 | [White Winter Hymnal](https://open.spotify.com/track/7II56zDppy5Zyj1oJhkkZ1) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [First Collection 2006\-2009](https://open.spotify.com/album/6ou9sQOsIY5xIIX417L3ud) | 2:27 |
 | 60 | [Carol of the Bells](https://open.spotify.com/track/0ooZTbadcxB1rWlFjQVMmB) | [Caroline Pennell](https://open.spotify.com/artist/0cZPTEmf3mlwj5kjVXR4po) | [December Songs](https://open.spotify.com/album/7IM5ffEXH19ulqrB8k3M8y) | 1:57 |
 | 61 | [Jingle Your Bells](https://open.spotify.com/track/27Y92XmoFMVeVVwJhOWczE) | [Hush Kids](https://open.spotify.com/artist/4XzsOuqFltgBcdHF3RZQbh) | [Jingle Your Bells](https://open.spotify.com/album/0t6BIKhlVZHdKv4ocFmqr6) | 3:53 |
 | 62 | [River](https://open.spotify.com/track/7hsERedGiD6KkxTJCzEjXY) | [Juniper Vale](https://open.spotify.com/artist/5ektKXWvSR9FjUExrpg1xK), [Allen & Bright](https://open.spotify.com/artist/4hf2dZmXqgZML1pmYbvf4y), [Lance Allen](https://open.spotify.com/artist/5KFXAufcOTSKibMfLnmyYC) | [River](https://open.spotify.com/album/0FldXHxPNVDhxVuioDqtOU) | 4:16 |
@@ -91,14 +91,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8c93KtGDPub.md) - [plain]
 | 81 | [Winter Eclipse](https://open.spotify.com/track/3li9TmbwGuoNoN4TjmW2yY) | [Beta Radio](https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB) | [The Songs the Season Brings, Vols\. 1\-4](https://open.spotify.com/album/6GLUn1i6c7EeyGemSgddOm) | 5:09 |
 | 82 | [O Holy Night](https://open.spotify.com/track/0NI13AjDx03bIKUG4pWW7f) | [Roses & Revolutions](https://open.spotify.com/artist/1EQiPk32D03HxHmExyCg9l) | [O Holy Night](https://open.spotify.com/album/6jMJTRRrt71X3uJZ98MT9h) | 3:39 |
 | 83 | [This Love Won't Break Your Heart](https://open.spotify.com/track/0rKjJB90TZ62o8npz8QEn3) | [Annalise Emerick](https://open.spotify.com/artist/4Kbdxhpo7iI1mEe69zxw3V) | [Starry\-Eyed](https://open.spotify.com/album/2FrFkBqF1fGQv4Rz84DcAK) | 4:48 |
-| 84 | [This Holiday](https://open.spotify.com/track/4lnCnaLrmoTWrlIzB7Zx4B) | [Brooke Annibale](https://open.spotify.com/artist/1JojxxteIsItgolTdalOb3) | [This Holiday](https://open.spotify.com/album/0QkbSvfIbbmzw429CnkdrU) | 4:33 |
+| 84 | [This Holiday](https://open.spotify.com/track/1LQlDaSXSYZGqSjMCOWiai) | [Brooke Annibale](https://open.spotify.com/artist/1JojxxteIsItgolTdalOb3) | [brokenhearted at christmas](https://open.spotify.com/album/1elM9otVitZPwvQtFems11) | 4:33 |
 | 85 | [This Christmas Is for Us](https://open.spotify.com/track/2bZFe1ofcf8XwudrXSGcaN) | [Shelby Earl](https://open.spotify.com/artist/6PIo5nhCQJbR0NfxPdGnGC) | [This Christmas Is for Us](https://open.spotify.com/album/4IgwaaTNfjvTACJedSKnZp) | 4:19 |
 | 86 | [Dear Mrs\. Claus](https://open.spotify.com/track/6FNwW9pRDdT81mCTtSuGIl) | [The Barr Brothers](https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7) | [Dear Mrs\. Claus](https://open.spotify.com/album/0MkhIufxDhyHnpj29ZLwSw) | 3:49 |
 | 87 | [Holiday](https://open.spotify.com/track/5o95cqHWLtaHToZnSS8j5Q) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Holiday](https://open.spotify.com/album/0esiV0ZlR14SjM9mdAvtAx) | 4:08 |
 | 88 | [We Three Kings](https://open.spotify.com/track/06jFpzCr6TfpIL4L0a5fmw) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Home For Christmas](https://open.spotify.com/album/1UB8y2zZGk6kxoDVY026zW) | 2:44 |
 | 89 | [Song for the Angels](https://open.spotify.com/track/4MIDnbVdmaa5sIbdR5BBTN) | [Great Lake Swimmers](https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR) | [Bodies and Minds](https://open.spotify.com/album/2Psey6KZhbYxogDvrqFlo6) | 5:19 |
 | 90 | [In Winter](https://open.spotify.com/track/537nPlvDmbCNzIjMRw5Kee) | [Matt Pond PA](https://open.spotify.com/artist/3JVgWZxQa78cVa2cUuAUQ4) | [Winter Lives](https://open.spotify.com/album/62hP0p3napMAE06DsYt2fg) | 4:03 |
-| 91 | [Winter Wonderland](https://open.spotify.com/track/1Eb21hL7z70CSuqIgMufBf) | [The Sweeplings](https://open.spotify.com/artist/3fTedgf4fh8D3s41dP0HWt) | [Sorted Noise Records: A Holiday Album, Vol\. 1](https://open.spotify.com/album/08dRs9SE1pmfV5pmGZsCwt) | 3:10 |
+| 91 | [Winter Wonderland](https://open.spotify.com/track/5AkIe4V7FlOVAIT6pBnrOL) | [The Sweeplings](https://open.spotify.com/artist/3fTedgf4fh8D3s41dP0HWt) | [Sorted Noise Records: A Holiday Album, Vol\. 1](https://open.spotify.com/album/4f4mGgtU9y8TRdqSLmATvk) | 3:10 |
 | 92 | [O Come, O Come, Emmanuel](https://open.spotify.com/track/3kVnoW7oDuuovp1SyMj9Kb) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [Holidays Rule](https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ) | 4:04 |
 | 93 | [Cathedrals](https://open.spotify.com/track/3ix3bHsj4H8ceIuMe4T5T9) | [Ruby Amanfu](https://open.spotify.com/artist/1lpu6LF7kS0bfnu43pi2u0) | [Standing Still](https://open.spotify.com/album/5dfqwRqPagZSKyB6qRTW2X) | 3:57 |
 | 94 | [Christmas Dream](https://open.spotify.com/track/0Jbz0UjC8LGkirwzM1x0fk) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Christmas Dream](https://open.spotify.com/album/3RJPGxbHnnRRiXAxWKDCV4) | 2:57 |
@@ -166,4 +166,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8c93KtGDPub.md) - [plain]
 | 156 | [7 O'clock News / Silent Night](https://open.spotify.com/track/0Va2A1oD5n0ezfvKqPOXaD) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Parsley, Sage, Rosemary And Thyme](https://open.spotify.com/album/1sh32o99zA04PJIUJUpEj7) | 2:00 |
 | 157 | [Happy Xmas \(War Is Over\)](https://open.spotify.com/track/0MV4MLZVeP4JvYVt3djxOX) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H), [The Plastic Ono Band](https://open.spotify.com/artist/4m2kfAHEnK7Z7qLGxeWtro), [The Harlem Community Choir](https://open.spotify.com/artist/0vneleczrRRNPF1vj0x0vy) | [Cozy Christmas](https://open.spotify.com/album/4qMWHviG4RoJGal19Kvh0M) | 3:32 |
 
-Snapshot ID: `MTY0MDMyMjAwMCwwMDAwMDAwMGM3NjRjMGNkODJkNDE3NGE2YmQwZTY5ZGZkZjQyNWY3`
+Snapshot ID: `MTY0MDMyMjAwMCwwMDAwMDAwMDQwMWE0YTI5NmY1YjkzOTkwOTZiYzA0MjBhOTAzYjZj`

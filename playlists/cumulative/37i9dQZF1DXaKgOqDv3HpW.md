@@ -4,13 +4,14 @@
 
 > Respira, inspira..\. Uma seleção musical ideal para você relaxar.
 
-195 songs - 9 hr 34 min - [published](https://open.spotify.com/playlist/04VqmIAE8iwyctfiRi2dWU)
+202 songs - 9 hr 54 min - [published](https://open.spotify.com/playlist/04VqmIAE8iwyctfiRi2dWU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A côté de toi](https://open.spotify.com/track/1Pr6ajOmxuhjmn4CwuBxle) | [Nuit Pluie](https://open.spotify.com/artist/6fPF7rV8SX0fysuJVs7mZb) | [A côté de toi](https://open.spotify.com/album/25AARypQIJKCdYgunYo0OS) | 2:56 | 2022-02-18 |  |
 | [A Day By The Sea](https://open.spotify.com/track/32caN3mL4dftJrVNKYwr1t) | [On Dunes](https://open.spotify.com/artist/6oMeZudDfeCsLbPHmZFt1x) | [A Day By The Sea](https://open.spotify.com/album/7D3GuuvNP5IwTYwZcN1g5j) | 3:41 | 2022-09-02 |  |
 | [A Free Mind](https://open.spotify.com/track/2W3IFaBdj4QzU6NSR9mCQ1) | [Jupos](https://open.spotify.com/artist/2lXry9UbuyQKv0yDP4qSFB) | [A Free Mind](https://open.spotify.com/album/0PVEmsVmGT0MKASkABJbEe) | 3:30 | 2022-06-16 |  |
+| [A Neutral Place](https://open.spotify.com/track/6Db6Cz42MGCRkM28KHivIy) | [Logan Docherty](https://open.spotify.com/artist/7amQ98BuFYDzaxShGajJ1e) | [A Neutral Place](https://open.spotify.com/album/5gQ1Y7dwVAIWwTwjzZNZho) | 2:49 | 2022-11-11 |  |
 | [A Night In Spring](https://open.spotify.com/track/6j6wtwEtxK5ZAXzRK47WED) | [Ardah](https://open.spotify.com/artist/6mQg8hTrGBvS36Jjl7Ajr2) | [A Night In Spring](https://open.spotify.com/album/7iLqhJMN4MlHHsp0JGbtJ6) | 2:31 | 2022-03-08 |  |
 | [A Whisper In The Dark](https://open.spotify.com/track/1JSfa72GZUWBydnIcI93k5) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Incomplete](https://open.spotify.com/album/3K2G1cnq8sUdsnzYx1JVww) | 2:19 | 2022-02-18 | 2022-07-29 |
 | [A Whisper In The Dark](https://open.spotify.com/track/2Z3fkveFoRRkkQZ3ow282m) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Incomplete](https://open.spotify.com/album/51596FWlrPFiD57Vz33g9A) | 2:19 | 2022-07-19 |  |
@@ -28,7 +29,8 @@
 | [Arriving](https://open.spotify.com/track/730JGpAFz7uj2i53ySidzR) | [Arctic Pulse](https://open.spotify.com/artist/3KFpB0Bu4nUJ4zkJ1JoPVi) | [Eternalis](https://open.spotify.com/album/3qZMZFTUJyvi0fOJuo31sx) | 3:12 | 2022-02-18 |  |
 | [Astral Distance](https://open.spotify.com/track/0pJqL2QSmybnABaFFTJtCs) | [Muni Yogi](https://open.spotify.com/artist/5VMpyeQNlYtPipmkNpxRt0) | [Astral Distance](https://open.spotify.com/album/6u40IEYn1dKNXC7rGBqM5N) | 2:05 | 2022-09-30 |  |
 | [At Day's End](https://open.spotify.com/track/0dE4epGWpmb0DB5mCZgN0T) | [Rebekah Bolton](https://open.spotify.com/artist/0W3cyXPYApFajrsJKSAcHQ) | [At Day's End](https://open.spotify.com/album/7L4cEWdKBXbOYzxtP46FVG) | 2:53 | 2022-08-15 |  |
-| [At Last](https://open.spotify.com/track/0awdCTFrzeyVtRlZnMtqlH) | [Martin Landh](https://open.spotify.com/artist/3h6h9sKnuag3EateK306Ew) | [Penumbra](https://open.spotify.com/album/1QKIFdGbgz7yenrQiKWp2J) | 2:48 | 2022-07-19 |  |
+| [At Last](https://open.spotify.com/track/0awdCTFrzeyVtRlZnMtqlH) | [Martin Landh](https://open.spotify.com/artist/3h6h9sKnuag3EateK306Ew) | [Penumbra](https://open.spotify.com/album/1QKIFdGbgz7yenrQiKWp2J) | 2:48 | 2022-07-19 | 2022-11-12 |
+| [At Last](https://open.spotify.com/track/0ghqKD2cL7KZGKq7rkyuex) | [Martin Landh](https://open.spotify.com/artist/3h6h9sKnuag3EateK306Ew) | [KEEN: Peace & Calm Vol\. 1](https://open.spotify.com/album/5ElKIzZRCQYV6AlyLHOmPj) | 2:48 | 2022-11-11 |  |
 | [At Last](https://open.spotify.com/track/3l8ILux1wF7VJt8MJXmLyN) | [Martin Landh](https://open.spotify.com/artist/3h6h9sKnuag3EateK306Ew) | [Penumbra](https://open.spotify.com/album/3K6jSzRzY3EfWv0gIVzEdV) | 2:48 | 2022-02-18 | 2022-07-29 |
 | [Atmosfären](https://open.spotify.com/track/2I4UIW7yyhAsbkqF3dWjF9) | [Corimbo](https://open.spotify.com/artist/5jQIczzAJzOzwnNLFOwoI6) | [Atmosfären](https://open.spotify.com/album/5XiYKgflBgfaKCwN5iAmFJ) | 2:32 | 2022-02-18 |  |
 | [Awakening](https://open.spotify.com/track/5db1SLjPimPV4jc5SkAZ2b) | [Alex Couture](https://open.spotify.com/artist/25G0894RyKrGyKDqdG1pGu) | [The Calm Sessions](https://open.spotify.com/album/7DZtrPv9CLOwvCuT7KSTdQ) | 2:37 | 2022-02-18 |  |
@@ -39,6 +41,7 @@
 | [Bagatelles](https://open.spotify.com/track/6KB73THoWtwrS9fMvHLqh0) | [Mia Strass](https://open.spotify.com/artist/2KhAW1n5DKiVmDcS2s0dIG) | [Mid\-Life](https://open.spotify.com/album/6aIv79Nb504XUjSjsuJm0w) | 2:14 | 2022-02-18 | 2022-10-01 |
 | [Beacon](https://open.spotify.com/track/2nFNxlIt3Y6Gw5BAu4bsFg) | [Krell](https://open.spotify.com/artist/0D6r7KnJpwcCFIbxUGJLkX) | [Beacon](https://open.spotify.com/album/0Pty5PD7hYWQ0HGnxS5WxV) | 4:06 | 2022-02-18 |  |
 | [Belief](https://open.spotify.com/track/2WG8l4UerGKdjZ9p07R29G) | [Jiao Ch'ien](https://open.spotify.com/artist/6cz6KGJs1Q28j0nknp9sck) | [Belief](https://open.spotify.com/album/1dEXj573JMf3OsdfuoV2MD) | 2:59 | 2022-02-18 |  |
+| [Beneath The Clouds](https://open.spotify.com/track/69JHzItxMyYakCOpqZhHUy) | [Nico Acosta](https://open.spotify.com/artist/4V4qWOu1lYx7qzhburyUXR) | [Beneath The Clouds](https://open.spotify.com/album/0PEH9bzRJzUDz2mTDTxliA) | 3:10 | 2022-11-11 |  |
 | [Black Light](https://open.spotify.com/track/0xCCENWuCBpUqk2xqsB4tU) | [Leon White](https://open.spotify.com/artist/72ScelHE6WamhCvVXl9lp2) | [Black Light](https://open.spotify.com/album/24edgUNsqMAL1fUvS04GQ4) | 3:17 | 2022-02-18 |  |
 | [Blue Mind](https://open.spotify.com/track/5MdTWbWwhsfrkvUj6lP4DW) | [Counting Tides](https://open.spotify.com/artist/40ojB8ApYVpcfLDCkoSLDV) | [Blue Mind](https://open.spotify.com/album/06PtEkISyyIb9cWlzQWuO8) | 2:56 | 2022-02-18 |  |
 | [Body & Soul](https://open.spotify.com/track/2reANGLp6a9iZvh1Q6qIS7) | [IFEELU](https://open.spotify.com/artist/59TdBGgpKBf2dRrmguF06s) | [Body & Soul](https://open.spotify.com/album/57SxIpC8RwW3ztJ3Rn4kIb) | 2:55 | 2022-02-18 | 2022-09-15 |
@@ -53,6 +56,7 @@
 | [Choices](https://open.spotify.com/track/4rnHitehqGrHlgr8TiTMYX) | [Alva Adler](https://open.spotify.com/artist/6SWtPjGME9m6Slzy5KmEWl) | [Choices](https://open.spotify.com/album/1ypEOpmaYFV46bpgf4HiuR) | 2:41 | 2022-02-18 |  |
 | [Cloudy Mountains](https://open.spotify.com/track/5uDs595iEmAkqkNfzGB6cl) | [Wolf Keller](https://open.spotify.com/artist/0nL3okOqVl6PvsOmtzWwkb) | [Cloudy Mountains](https://open.spotify.com/album/1VWWZQ49IFtLX1iWWVK1p5) | 2:39 | 2022-02-18 |  |
 | [Companion](https://open.spotify.com/track/1FgtKAO4lPSU7C83CLIOqu) | [Prescient Liquids](https://open.spotify.com/artist/7KoToKBUpived2ez8gxKT1) | [Snow Berries](https://open.spotify.com/album/13nTRdiXmI29GzOv0x0fJs) | 3:19 | 2022-10-14 |  |
+| [Consonance](https://open.spotify.com/track/6wumg3aZYgGbInRSN8S9g5) | [Blake Tyber](https://open.spotify.com/artist/4vbBZNG20uRReoBN64izRQ) | [Consonance](https://open.spotify.com/album/0yKguZ6t1oKjlFSDYkDuzF) | 3:02 | 2022-11-11 |  |
 | [Coral Reef](https://open.spotify.com/track/6BHSLFa3gVZQPYHcHsIWAY) | [Paradise Sunset](https://open.spotify.com/artist/0YvhzvrLHLXVPLQddmDj3m) | [Floating](https://open.spotify.com/album/3wffRTt5HgYmfdJV3gLFPM) | 3:45 | 2022-02-18 |  |
 | [Cross A Line](https://open.spotify.com/track/1IkrL2wE6aWYzOmWjZmNO9) | [Sean Altar](https://open.spotify.com/artist/3Jo70Smt1IRBEAGBeXnczk) | [Cross A Line](https://open.spotify.com/album/32PoI04cGJfCgmH003knVN) | 2:18 | 2022-03-21 |  |
 | [Cíes](https://open.spotify.com/track/1JuU4qEEZgSZbXotwMRpQF) | [Huma](https://open.spotify.com/artist/518pvehpCn4yp3oJJbr6zA) | [Cíes](https://open.spotify.com/album/3Ls0VL9UNb0CaLsJrPcyaC) | 2:35 | 2022-02-18 |  |
@@ -100,11 +104,13 @@
 | [Islets](https://open.spotify.com/track/7MH9IXZQ3Ykz3BVg6JpVy5) | [Gravitons](https://open.spotify.com/artist/2VlCnCbs8J939zLt0dB5RF) | [Islets](https://open.spotify.com/album/1xs3ykLMsmz9KYiAMTXOjL) | 3:11 | 2022-02-18 |  |
 | [Jij bent alles](https://open.spotify.com/track/0zkpPgcFpSXqjjWSLmSkDa) | [Dardan Leistra](https://open.spotify.com/artist/1iChBE5eMVIiJBpsUZ0rSH) | [In het licht van de maan](https://open.spotify.com/album/0UHBQoH5hrh3C81AdbXBpP) | 3:40 | 2022-06-24 |  |
 | [Jocelyn](https://open.spotify.com/track/1Vv5St0rzB3054EvkADdQi) | [Lost Wings](https://open.spotify.com/artist/5GneKGEamDH29m9tE0zzwo) | [Jocelyn](https://open.spotify.com/album/4WBRH5wwDwGnIHbuVHA1dO) | 2:26 | 2022-02-18 |  |
+| [Joie](https://open.spotify.com/track/1VmHLEPjlDmL3zCWQcygGC) | [Norah Wallentin](https://open.spotify.com/artist/1NGzUi7PsLrERtIIPY3Cm3) | [Joie](https://open.spotify.com/album/5VPBHff5jua2ebI7UIWquX) | 2:54 | 2022-11-11 |  |
 | [Kaleidoscopes](https://open.spotify.com/track/0Pkywn7CGwbUhk10iGPpou) | [Brief Moments](https://open.spotify.com/artist/20hwQJcC00dL9lcpmaoiXF) | [Kaleidoscopes](https://open.spotify.com/album/2aiyIySFX9CdtSAJC2jJy0) | 3:51 | 2022-02-18 |  |
 | [Kaprifol](https://open.spotify.com/track/6ibcCbsk0xLgLzU5iWgUhf) | [Folksaga](https://open.spotify.com/artist/3fRnbMogVMgEwoyHPx00nf) | [Kaprifol](https://open.spotify.com/album/4sM4dk1tO71zcuRSKwBPJG) | 4:29 | 2022-02-18 |  |
 | [Kustlijnen](https://open.spotify.com/track/6LT6ucr7adcngXzRlUdvgz) | [Ebba Dekker](https://open.spotify.com/artist/1IyHF3iElYVD2QGDF0zZKg) | [Kustlijnen](https://open.spotify.com/album/3Y9r2EA6hru4h1v8UEuZii) | 2:34 | 2022-02-18 |  |
 | [Leuchten](https://open.spotify.com/track/4KNuwSHlzgZIRuT9Ur1JCZ) | [Mystisse](https://open.spotify.com/artist/6IpbJpzWfnVDsdJG9fJHWp) | [Leuchten](https://open.spotify.com/album/6fLtePVdyqmM4WrnC85p9j) | 2:42 | 2022-04-21 |  |
 | [Levitation](https://open.spotify.com/track/0zQ2Qbxic7cXWOVv9Qy98n) | [Lulu Helensworth](https://open.spotify.com/artist/43qsbkyR2EgZ14k6eJXd3j) | [Levitation](https://open.spotify.com/album/5U7rGOt0KLvEF2HXnvE88J) | 2:36 | 2022-02-18 |  |
+| [Libre](https://open.spotify.com/track/0BCjtbFNaEJwVTIaho8CKp) | [Jovian Findlay](https://open.spotify.com/artist/5sG1B4jyp6nDdgZZlQW3O5) | [Libre](https://open.spotify.com/album/0m0XWF4ACGQ9a5AUvsrIaY) | 2:33 | 2022-11-11 |  |
 | [Light in the Dark](https://open.spotify.com/track/7I7vKYp5h3Xl5qQkNLyYEj) | [Joseph Alphane](https://open.spotify.com/artist/65IJPn3wYi35Qpov4MXcFr) | [Oxygen](https://open.spotify.com/album/5QTd2js25VRvD3ZK5DYWeu) | 2:35 | 2022-02-18 |  |
 | [Lithe](https://open.spotify.com/track/5V9qmxeatZwO8wctLXiZIR) | [Siona Swim](https://open.spotify.com/artist/666qwMCdAuZ7PEov9XXGTs) | [Lithe](https://open.spotify.com/album/70L8PU7byfp8KTSkYKNi6U) | 2:42 | 2022-06-16 |  |
 | [Longing](https://open.spotify.com/track/1ONolOLYjM977hgtqKzXmJ) | [Joaquin Mans](https://open.spotify.com/artist/5JBXyHBJYZCIHMQXee1sMm) | [Longing](https://open.spotify.com/album/2rK7rji9Qxafhao5PFXtu5) | 2:12 | 2022-02-18 |  |
@@ -174,6 +180,7 @@
 | [Speed of Light](https://open.spotify.com/track/34BSd3iWTdJ38hhTxUP5vw) | [Oliver Évilo](https://open.spotify.com/artist/6pr16671AS8qchaPqDDM0Y) | [Sleep](https://open.spotify.com/album/1tFb4gpyJ8AxTbAyvgMOob) | 2:01 | 2022-02-18 |  |
 | [Stillness of Mind](https://open.spotify.com/track/5NL5Ez564SBRCpaaxB89CP) | [Taylor Dawson](https://open.spotify.com/artist/7triIHgYSjbQ6ahcPBgicy) | [Stillness of Mind](https://open.spotify.com/album/479Isl9ZcoSHeZtKPB8bX4) | 3:08 | 2022-02-18 |  |
 | [Sueño tranquilo](https://open.spotify.com/track/7vCDAK4DJNr1GHYEG3Ylyp) | [Pedro Caceres](https://open.spotify.com/artist/61YOovGWdnYImyV9dgnaMA) | [Sueño tranquilo](https://open.spotify.com/album/7jstHQo9AWHr8buCOkbM1K) | 3:02 | 2022-02-18 |  |
+| [Supine](https://open.spotify.com/track/6xNDVglPOwn9YXDyCt33lS) | [Sandra Prime](https://open.spotify.com/artist/2iKoQTuF9oRjVWo6l3BPRc) | [Elucidate](https://open.spotify.com/album/6xKgXH4qCDgMn0IWb8aBI6) | 2:47 | 2022-11-11 |  |
 | [The Broken](https://open.spotify.com/track/5zYA6XdGJbTF5zJGbLyjL3) | [Juni](https://open.spotify.com/artist/68kbxgcI5HmdfhnfW3vkbv) | [The Broken](https://open.spotify.com/album/18FKM6nTXUBpyKRE5185Fb) | 3:03 | 2022-09-02 |  |
 | [The Day is Done](https://open.spotify.com/track/5cVKlN0vdJiXiwc3F4HcYX) | [Ellia Dunn](https://open.spotify.com/artist/4TxtbbN9ln1SgIcf9NAjBw) | [The Day is Done](https://open.spotify.com/album/5cC2JD0wxNRmC5fdRnCn0U) | 3:31 | 2022-07-15 |  |
 | [The Edge of Love](https://open.spotify.com/track/5awyHvXpb5txqlRuqUiHAl) | [Dawn Huntley](https://open.spotify.com/artist/6uyCGuIi7ItiVD9zVFaa4s) | [The Edge of Love](https://open.spotify.com/album/3pKPQzSHTrCBpUVsd00g5Y) | 2:02 | 2022-02-18 |  |

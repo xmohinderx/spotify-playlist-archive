@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahsxs9xh0fn.md) - [plain]
 
 > autumn leaves falling like pieces into place
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,988 likes - 110 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,432 likes - 110 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Blue Ridge Mountains](https://open.spotify.com/track/7bzzC7QIfflM9eEj2aqaYX) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Fleet Foxes](https://open.spotify.com/album/5GRnydamKvIeG46dycID6v) | 4:25 |
+| 1 | [Blue Ridge Mountains](https://open.spotify.com/track/501QhO1l2ORqdauGL1Gnpr) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [First Collection 2006\-2009](https://open.spotify.com/album/6ou9sQOsIY5xIIX417L3ud) | 4:25 |
 | 2 | [Bitter](https://open.spotify.com/track/2DkZisoN9h1dLa8Sn5sx0n) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [So Long Forever](https://open.spotify.com/album/6cmFNl8lllA6BGc7SKLy3y) | 3:53 |
 | 3 | [Change](https://open.spotify.com/track/3HFBqhotJeEKHJzMEW31jZ) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 4:55 |
 | 4 | [Chinese Translation](https://open.spotify.com/track/66bI8teVSntNwjQGv3pRtF) | [M\. Ward](https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI) | [Post\-War](https://open.spotify.com/album/7q74XeNS40vgLZhLrCdnuv) | 3:58 |
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahsxs9xh0fn.md) - [plain]
 | 84 | [This Time Tomorrow](https://open.spotify.com/track/1Cu8QneXq0Hq1HJqkZDPbN) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [In These Silent Days](https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f) | 3:26 |
 | 85 | [October Skies](https://open.spotify.com/track/77GRxATpswGNnEJIFvSrHr) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Delta](https://open.spotify.com/album/4TgzPAmjhR2Qkh7P6lIRnH) | 3:43 |
 | 86 | [Girl from the North Country](https://open.spotify.com/track/4K1imZQQ0yKtJ40vGmUajS) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX), [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Nashville Skyline](https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN) | 3:40 |
-| 87 | [Chin Up](https://open.spotify.com/track/1Q5gm2dsPwvJeQPQeNs2nv) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Chin Up](https://open.spotify.com/album/2W0l4M80ykkBI8WkPtHf7T) | 4:25 |
+| 87 | [Chin Up](https://open.spotify.com/track/1kjmhLKMpBj0SUdW1tvPXY) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Safe and Sound](https://open.spotify.com/album/6iakL77RPmp31AjNV7ENCB) | 4:25 |
 | 88 | [Just Because](https://open.spotify.com/track/2p26J9tpJ8kmbBd8AX7WnF) | [Cape Francis](https://open.spotify.com/artist/6tnCYugShRsCcfHNGIUSq3) | [Plateaus](https://open.spotify.com/album/15XVmpLlyeWXv5QINxWcwo) | 3:46 |
 | 89 | [Misty](https://open.spotify.com/track/58qd3nuwT6pse9UpUojZIQ) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Misty](https://open.spotify.com/album/1GRqKwM4H3FLbZq3Fudbtz) | 3:44 |
 | 90 | [Augusta](https://open.spotify.com/track/35h0oVv5uf0WPNMaFAmNXS) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 3:57 |
@@ -113,10 +113,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahsxs9xh0fn.md) - [plain]
 | 103 | [Autumn Sweater](https://open.spotify.com/track/19Qi2Cymjh7HDQESDrDBzs) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [I Can Hear The Heart Beating As One](https://open.spotify.com/album/3V18DIKvRuwdxc2LE4wuac) | 5:18 |
 | 104 | [Amoeba](https://open.spotify.com/track/0HAqq2GcQKyi3s87GuN7jU) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sling](https://open.spotify.com/album/32ium7Cxb1Xwp2MLzH2459) | 3:48 |
 | 105 | [Carthage](https://open.spotify.com/track/5T2rPvGAbs5Z6CLXXbh3jX) | [Hayden Pedigo](https://open.spotify.com/artist/4OR0gbDLGgJ4fxoXB0ZCYZ) | [Letting Go](https://open.spotify.com/album/46N1u5BuUGsZlj7pij2JRK) | 5:30 |
-| 106 | [Between the Bars](https://open.spotify.com/track/3mtIUX9LrCpIUiAAv9SD4a) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or](https://open.spotify.com/album/6KMdn9HDIqcBPaaok0K34K) | 2:21 |
+| 106 | [Between The Bars](https://open.spotify.com/track/3eLY8xMeyeJqlUG2UPcdEw) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Good Will Hunting](https://open.spotify.com/album/7EX07sDFRX9g2RRlXJB3dN) | 2:21 |
 | 107 | [I Am California](https://open.spotify.com/track/27ytYULTu6QSZBhGaOKq9i) | [John Craigie](https://open.spotify.com/artist/7ytgyYmtUPfxXHsXEvgObK), [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [No Rain, No Rose](https://open.spotify.com/album/2clhqrLkiHjHuFFNbaKtiE) | 5:13 |
 | 108 | [A Dream I Had in My Past Life](https://open.spotify.com/track/01nLwmCA68K6rqlVQwV6bs) | [Francisco Sola](https://open.spotify.com/artist/0ek16Ht9DeNuxjdwq9ODRu) | [A Dream I Had in My Past Life](https://open.spotify.com/album/6TZ0b8gl6YLKGYGaeMGbRO) | 1:32 |
 | 109 | [Unofferable](https://open.spotify.com/track/1yINrBHpUSfYkVyN77ASEC) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Spotify Sessions](https://open.spotify.com/album/0GlqIYAIGeib66oR1pyy4F) | 4:06 |
 | 110 | [Give Me Love](https://open.spotify.com/track/7fWXTD51PQ2W9B2lyYlZCN) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [The A Team](https://open.spotify.com/album/6iBvt4DAGNEJwIvM4vLPms) | 5:23 |
 
-Snapshot ID: `MTY2NjYyNzUzMCwwMDAwMDAwMDMxM2UzMzc2OGRjOGJlOTViYTBjMWI5MWY2OWU0Mjdk`
+Snapshot ID: `MTY2NjYyNzUzMCwwMDAwMDAwMDhjY2YxNjU4MTdiMzJkNTJmMDJkMTRhYmRmNWI5YWNm`

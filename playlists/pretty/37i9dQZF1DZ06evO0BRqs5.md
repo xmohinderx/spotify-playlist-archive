@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BRqs5.md) - [plain]
 
 > This is Eir Aoi\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,926 likes - 51 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,935 likes - 51 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,10 +33,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BRqs5.md) - [plain]
 | 23 | [春〜spring〜](https://open.spotify.com/track/6Qot77kbGLMMlNsDnEEyN0) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [BEST \-E\-](https://open.spotify.com/album/6rjMSW0RSSr82ferEWoA3A) | 4:23 |
 | 24 | [アトック](https://open.spotify.com/track/0vWlopeKCm1atNKaTv1Bhg) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [アトック](https://open.spotify.com/album/03nazQKVW3vGbmLAOYvnzO) | 4:11 |
 | 25 | [月を追う真夜中](https://open.spotify.com/track/44nPRe9D8i3BJiTcxYyfp3) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [月を追う真夜中](https://open.spotify.com/album/54WirG6n1l8Vg0uF26R0yJ) | 4:16 |
-| 26 | [GENESIS](https://open.spotify.com/track/5qXYkYpk5e5rS07lU3USCC) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [D'AZUR](https://open.spotify.com/album/7pwF54HCSkFDYcBqLJDrGr) | 4:38 |
-| 27 | [Dance with me](https://open.spotify.com/track/1G48etb0pwMYpqlCVpM955) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [心臓](https://open.spotify.com/album/0wpmbTY0B13k0r9zSeCGWm) | 3:48 |
-| 28 | [シリウス\(TV Size ver.\)](https://open.spotify.com/track/6qSXKVVqqHHw1BN9ctDn3s) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [シリウス\(TV Size ver.\)](https://open.spotify.com/album/5y9EoOfyfcOwi3fKenxlLj) | 1:29 |
-| 29 | [アクセンティア](https://open.spotify.com/track/0mLK9TPqJ92eRPoJjrJIi9) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [BEST \-A\-](https://open.spotify.com/album/2fVMvoKy9XWekpbdyyTFg5) | 4:36 |
+| 26 | [Dance with me](https://open.spotify.com/track/1G48etb0pwMYpqlCVpM955) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [心臓](https://open.spotify.com/album/0wpmbTY0B13k0r9zSeCGWm) | 3:48 |
+| 27 | [GENESIS](https://open.spotify.com/track/5qXYkYpk5e5rS07lU3USCC) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [D'AZUR](https://open.spotify.com/album/7pwF54HCSkFDYcBqLJDrGr) | 4:38 |
+| 28 | [アクセンティア](https://open.spotify.com/track/0mLK9TPqJ92eRPoJjrJIi9) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [BEST \-A\-](https://open.spotify.com/album/2fVMvoKy9XWekpbdyyTFg5) | 4:36 |
+| 29 | [シリウス\(TV Size ver.\)](https://open.spotify.com/track/6qSXKVVqqHHw1BN9ctDn3s) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [シリウス\(TV Size ver.\)](https://open.spotify.com/album/5y9EoOfyfcOwi3fKenxlLj) | 1:29 |
 | 30 | [KASUMI](https://open.spotify.com/track/3v1Y19mw44JozuYjBu6LxT) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [AUBE](https://open.spotify.com/album/2QEH6Q8uI01AyEn5GYAMcT) | 4:40 |
 | 31 | [HELLO HELLO HELLO \-TV size ver](https://open.spotify.com/track/4ZqNeWPINaNzPcQ7rZ10gd) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [HELLO HELLO HELLO](https://open.spotify.com/album/3mNG6uD9uUc2E28h7baqt6) | 1:31 |
 | 32 | [約束](https://open.spotify.com/track/28YoNQJtIp77Nn3h8fl5Dv) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [FRAGMENT \(Special Edition\)](https://open.spotify.com/album/6m8TwU9kiKfJXH3hMuLSrO) | 4:46 |
@@ -52,12 +52,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BRqs5.md) - [plain]
 | 42 | [フェイスレス](https://open.spotify.com/track/7nshgkx5EE57GFPKu89x4y) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [BLAU](https://open.spotify.com/album/6zZ0a3V5fbQtoMFHmM7kwq) | 4:26 |
 | 43 | [リンドウの花](https://open.spotify.com/track/3jfBeW2K8C2Fer7Eu3Reef) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [ラピスラズリ](https://open.spotify.com/album/2QieGS3vilhPJo88el8l8G) | 4:45 |
 | 44 | [泡沫](https://open.spotify.com/track/51zZOB0rwq7Hr304eY1pJd) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [IGNITE](https://open.spotify.com/album/4fGKgbMhkwR26lTC8GTFGB) | 5:00 |
-| 45 | [ツナガルオモイ](https://open.spotify.com/track/3VFdCj1qd29ODOSDvGxhOQ) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [D'AZUR](https://open.spotify.com/album/7pwF54HCSkFDYcBqLJDrGr) | 4:25 |
-| 46 | [UNLIMITED](https://open.spotify.com/track/0z6zShdYIiAJdT3I6FOl7q) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [FRAGMENT \(Special Edition\)](https://open.spotify.com/album/6m8TwU9kiKfJXH3hMuLSrO) | 4:36 |
-| 47 | [近未来交響曲](https://open.spotify.com/track/4hMcTL6kTCzIgmOxQJlqoz) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [AUBE](https://open.spotify.com/album/2QEH6Q8uI01AyEn5GYAMcT) | 4:30 |
-| 48 | [アヴァロン・ブルー](https://open.spotify.com/track/67D8rjvrqjb8XoF9S1Pak7) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [BLAU](https://open.spotify.com/album/6zZ0a3V5fbQtoMFHmM7kwq) | 4:49 |
+| 45 | [近未来交響曲](https://open.spotify.com/track/4hMcTL6kTCzIgmOxQJlqoz) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [AUBE](https://open.spotify.com/album/2QEH6Q8uI01AyEn5GYAMcT) | 4:30 |
+| 46 | [アヴァロン・ブルー](https://open.spotify.com/track/67D8rjvrqjb8XoF9S1Pak7) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [BLAU](https://open.spotify.com/album/6zZ0a3V5fbQtoMFHmM7kwq) | 4:49 |
+| 47 | [ツナガルオモイ](https://open.spotify.com/track/3VFdCj1qd29ODOSDvGxhOQ) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [D'AZUR](https://open.spotify.com/album/7pwF54HCSkFDYcBqLJDrGr) | 4:25 |
+| 48 | [UNLIMITED](https://open.spotify.com/track/0z6zShdYIiAJdT3I6FOl7q) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [FRAGMENT \(Special Edition\)](https://open.spotify.com/album/6m8TwU9kiKfJXH3hMuLSrO) | 4:36 |
 | 49 | [ユメセカイ](https://open.spotify.com/track/7MM3JGBeBLIK3zV6spGXji) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [虹の音](https://open.spotify.com/album/1yF6vfgTYetiqEG2DKqRX0) | 5:02 |
-| 50 | [SINGULARITY](https://open.spotify.com/track/0SD34sXHsm29Gm637omcuA) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [FRAGMENT \(Special Edition\)](https://open.spotify.com/album/6m8TwU9kiKfJXH3hMuLSrO) | 4:42 |
+| 50 | [Raspberry Moon](https://open.spotify.com/track/1UksXs7fzQh4CcpaknzGXH) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [ツナガルオモイ](https://open.spotify.com/album/5hnBLFUkkZQhquwedJ2tFZ) | 3:37 |
 | 51 | [Brainwash](https://open.spotify.com/track/07n5LpytLdZuKDAurEo1wp) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [IGNITE](https://open.spotify.com/album/4fGKgbMhkwR26lTC8GTFGB) | 3:18 |
 
-Snapshot ID: `Mjc4MDE1OTIsMDAwMDAwMDA1ZjVhZmZkZmRmYzg0MDk1OGExMGNmYjM5NjE0NjQ2MA==`
+Snapshot ID: `Mjc4MDI5OTksMDAwMDAwMDAyNjEzMDliODIzNDdlN2YzZDExNWI4MmZhMDc3NzA4Mw==`

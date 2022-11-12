@@ -4,7 +4,7 @@
 
 > groovy.
 
-117 songs - 8 hr 11 min - [published](https://open.spotify.com/playlist/3pt2XHEmoAsRNo2qzVm6m5)
+118 songs - 8 hr 14 min - [published](https://open.spotify.com/playlist/3pt2XHEmoAsRNo2qzVm6m5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Habbie Doobie](https://open.spotify.com/track/6IpcOV0Re2M1l8APgqkTrJ) | [The Texas Gentlemen](https://open.spotify.com/artist/6EuVxyAGrWCKJtj5pRSHaw) | [Habbie Doobie](https://open.spotify.com/album/1OQaOXq9ss7U8IA9a7GhEk) | 6:16 | 2021-10-08 |  |
 | [Heart Slows Down](https://open.spotify.com/track/7Js8VMfRprNih6qsOTmaqH) | [Aaron Lee Tasjan](https://open.spotify.com/artist/4PztbfCny3X9gBjlpgvjYo) | [Karma For Cheap](https://open.spotify.com/album/68dLi9hK6bq6R7jUmmkBFD) | 4:03 | 2021-10-08 | 2022-09-05 |
 | [Hey Man](https://open.spotify.com/track/2MN4zTUQgzsbHpD8XGpuVF) | [Liz Cooper](https://open.spotify.com/artist/58irgKwXTjCCuYQB58aXeH), [The Stampede](https://open.spotify.com/artist/6naWDjIIvxOhHfu99ubAC7) | [Window Flowers](https://open.spotify.com/album/0UTQ8hNHAhO8gsu7LT3OEY) | 3:56 | 2021-10-08 | 2022-07-29 |
-| [Hey Man](https://open.spotify.com/track/65wWFPx0DUi1QvRDAXxPsD) | [Liz Cooper](https://open.spotify.com/artist/58irgKwXTjCCuYQB58aXeH), [The Stampede](https://open.spotify.com/artist/6naWDjIIvxOhHfu99ubAC7) | [Window Flowers](https://open.spotify.com/album/799tX7gorQNl08X2e6Bdt8) | 3:56 | 2022-07-22 | 2022-08-11 |
+| [Hey Man](https://open.spotify.com/track/65wWFPx0DUi1QvRDAXxPsD) | [Liz Cooper](https://open.spotify.com/artist/58irgKwXTjCCuYQB58aXeH), [The Stampede](https://open.spotify.com/artist/6naWDjIIvxOhHfu99ubAC7) | [Window Flowers](https://open.spotify.com/album/799tX7gorQNl08X2e6Bdt8) | 3:56 | 2022-07-22 |  |
 | [Hippo](https://open.spotify.com/track/1suoH2qGw6E4wzG3T0JIIA) | [The Lazy Eyes](https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8) | [SongBook](https://open.spotify.com/album/1w73ipVNe04ERHc8bwEQG0) | 2:20 | 2022-07-22 |  |
 | [Hippo](https://open.spotify.com/track/62ik4X7W26bB7X9JtJcTjY) | [The Lazy Eyes](https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8) | [Hippo](https://open.spotify.com/album/1w2SKr8HERIcQbsP3kWEUB) | 2:20 | 2022-04-15 | 2022-07-27 |
 | [Hummingbird](https://open.spotify.com/track/6mgIfZWip9DpqFD6q2Gf4G) | [Tom West](https://open.spotify.com/artist/4IszB4IvfBur47pa0bm1sr) | [Vanishing Shores](https://open.spotify.com/album/1uUarXMkJvV1R2syV3cYnU) | 3:32 | 2021-10-08 |  |
@@ -110,7 +110,8 @@
 | [That's Why](https://open.spotify.com/track/11U2oE7JtimG9mtqSb4bNk) | [The Cave Singers](https://open.spotify.com/artist/4SjCvf9Ctuz369ZKAnjkZP) | [Banshee](https://open.spotify.com/album/31UJBB7T1tlLwqEXSjrUCt) | 4:13 | 2022-07-22 | 2022-11-11 |
 | [That's Why](https://open.spotify.com/track/1nKLrZDgmbj30gugpG9lrF) | [The Cave Singers](https://open.spotify.com/artist/4SjCvf9Ctuz369ZKAnjkZP) | [That's Why](https://open.spotify.com/album/5WNBrD6DSibb2yWPmC1Ys4) | 4:13 | 2021-10-08 | 2022-07-29 |
 | [The Last Dance](https://open.spotify.com/track/1l3SsMSAuxSv97ScbDfxF4) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Last Dance b/w 3000 AD Mass](https://open.spotify.com/album/2q4NYHzOGqQhbGuFh8ZE71) | 3:24 | 2021-10-08 | 2022-07-29 |
-| [The Last Dance](https://open.spotify.com/track/3Z9Xzfi7XDT3DVyfb8gRVp) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [The Alien Coast](https://open.spotify.com/album/6u9qHGvcKkavFaWp4Hwifl) | 3:24 | 2022-07-22 |  |
+| [The Last Dance](https://open.spotify.com/track/3Z9Xzfi7XDT3DVyfb8gRVp) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [The Alien Coast](https://open.spotify.com/album/6u9qHGvcKkavFaWp4Hwifl) | 3:24 | 2022-07-22 | 2022-11-12 |
+| [The Last Dance](https://open.spotify.com/track/4E2uNyCIUpK08njwoLQh02) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [The Last Dance b/w 3000 AD Mass](https://open.spotify.com/album/61xkcDOeRRSetouvqU2d3w) | 3:24 | 2022-07-22 |  |
 | [The Light Of Day](https://open.spotify.com/track/4vev473dJkBpiChkglAscC) | [Kacy & Clayton](https://open.spotify.com/artist/7oJ1EabmX7ejrie3NBzn0p) | [The Light Of Day](https://open.spotify.com/album/64tiQFJ0vMllTaFYDgWaRs) | 2:52 | 2021-10-08 | 2022-07-29 |
 | [The Roundabout](https://open.spotify.com/track/10QvTOyNpzBZpctcbP1tY1) | [Ryley Walker](https://open.spotify.com/artist/7xwppARWdjgnJSKLhbGzFc) | [The Roundabout](https://open.spotify.com/album/27gVRqHKsrlPniSNE4IPza) | 4:41 | 2022-07-22 |  |
 | [The Roundabout](https://open.spotify.com/track/1XJP5iLjFHrKwdNIRC4V4j) | [Ryley Walker](https://open.spotify.com/artist/7xwppARWdjgnJSKLhbGzFc) | [Golden Sings That Have Been Sung \(Deep Cuts Edition\)](https://open.spotify.com/album/65lq5gUdKOakCZjNaurgy6) | 4:41 | 2022-07-22 | 2022-11-11 |
@@ -119,7 +120,7 @@
 | [Trust Me](https://open.spotify.com/track/0pvrCp6dJ07yIqv10yGzT7) | [Barnaby Keen](https://open.spotify.com/artist/6D9DHfYu4mNuNgCe5kDnBA) | [Trust Me](https://open.spotify.com/album/17zWsw6bRbky5USG6OeO08) | 3:41 | 2022-04-15 | 2022-10-22 |
 | [Turn It On](https://open.spotify.com/track/1iqncvWXXg6jfrv6s9txe5) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB), [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Turn It On](https://open.spotify.com/album/2xvck6DiEtg3LqzDGJEn19) | 4:30 | 2022-10-21 |  |
 | [Waiting for an Invitation](https://open.spotify.com/track/71yh7sKS2R54c3qcGuRv2j) | [Benji Hughes](https://open.spotify.com/artist/1w4UUVXVsk63VT2vTwx1e1) | [A Love Extreme](https://open.spotify.com/album/2zQGpwdvHqZhw2BguUqb18) | 4:15 | 2022-04-15 |  |
-| [Washed Out](https://open.spotify.com/track/3tPJ5lnVg2dT3NqGCoOnOX) | [Timberwolf](https://open.spotify.com/artist/1EOuZ9k42Xpo2pGtpv986O) | [Íkaros](https://open.spotify.com/album/1Te304pis78wXeMCIawVuz) | 4:44 | 2022-07-22 |  |
+| [Washed Out](https://open.spotify.com/track/3tPJ5lnVg2dT3NqGCoOnOX) | [Timberwolf](https://open.spotify.com/artist/1EOuZ9k42Xpo2pGtpv986O) | [Íkaros](https://open.spotify.com/album/1Te304pis78wXeMCIawVuz) | 4:44 | 2022-07-22 | 2022-11-12 |
 | [Washed Out](https://open.spotify.com/track/6eRWiC37qNFG4p3IsLrst6) | [Timberwolf](https://open.spotify.com/artist/1EOuZ9k42Xpo2pGtpv986O) | [Íkaros](https://open.spotify.com/album/67M0ktUMgHOrZqDVdZLOfl) | 4:44 | 2021-10-08 | 2022-04-21 |
 | [Where Do You Go When You Dream](https://open.spotify.com/track/2bdDETZsaSuA00ctnPEnLX) | [Woods](https://open.spotify.com/artist/2sBPVEeMBXKNsZtYaJixnJ) | [Strange to Explain](https://open.spotify.com/album/6W3ljBUTGb9FhuOVZBPbQI) | 5:51 | 2022-04-15 |  |
 | [Wild Heart](https://open.spotify.com/track/2jhCa4f4eQmynH1IKJ5k5a) | [Kashena Sampson](https://open.spotify.com/artist/4tFBS73AOrz19igc1nTjUt) | [Wild Heart](https://open.spotify.com/album/0qnnjt02keWTODhegEvQ09) | 3:42 | 2021-10-08 | 2022-07-29 |

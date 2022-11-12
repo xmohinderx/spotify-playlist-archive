@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Heavy Metal forever. From classics to fresh new tracks, just play it loud! Cover: Powerwolf",
+  "description": "Heavy Metal forever. From classics to fresh new tracks, just play it loud! Cover: Judas Priest",
   "name": "Heavy Metal",
   "published_playlist_ids": [
     "6NpBTQ0b3N3b1zdtxQGNsV"
@@ -271,10 +271,28 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 166360,
       "name": "Ace of Spades",
       "url": "https://open.spotify.com/track/6EPRKhUOdiFSQwGBRBbvsZ"
+    },
+    {
+      "album": {
+        "name": "When Sparks Ignite",
+        "url": "https://open.spotify.com/album/0iUmUjywcNjBmkEumyWfV8"
+      },
+      "artists": [
+        {
+          "name": "Darkhaus",
+          "url": "https://open.spotify.com/artist/641WQSmg3lexnjloE0Encw"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248960,
+      "name": "After the Heartache",
+      "url": "https://open.spotify.com/track/02UQK3Jys06B9hwYWNbOuu"
     },
     {
       "album": {
@@ -433,7 +451,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 505146,
       "name": "Am I Evil?",
       "url": "https://open.spotify.com/track/1bqxO1wuMODj6x7fiCCovB"
@@ -2059,7 +2077,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-15",
+      "date_removed": null,
       "duration_ms": 292735,
       "name": "Construction of Souls",
       "url": "https://open.spotify.com/track/01tykAEjuZsAX5I1y0FLf8"
@@ -2243,7 +2261,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 275247,
       "name": "Cyberhex",
       "url": "https://open.spotify.com/track/2vNUATEUKbavRo2gMjHs2S"
@@ -3871,7 +3889,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-28",
+      "date_removed": null,
       "duration_ms": 264880,
       "name": "Get in the Ring",
       "url": "https://open.spotify.com/track/1UR4uh8g1YO3RxK4QBFf1m"
@@ -3979,7 +3997,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 300320,
       "name": "Gloryhammer",
       "url": "https://open.spotify.com/track/4vyrKBuBfgv390ItIC75Sw"
@@ -4613,7 +4631,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 368506,
       "name": "Highway Star",
       "url": "https://open.spotify.com/track/4gVTozEmzwAUXpwj3jEetX"
@@ -4963,7 +4981,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 246040,
       "name": "I Stand Alone",
       "url": "https://open.spotify.com/track/44NRdYQw7P0GWuiunRv3hr"
@@ -6184,6 +6202,24 @@
     },
     {
       "album": {
+        "name": "Stranger Things: Soundtrack from the Netflix Series, Season 4",
+        "url": "https://open.spotify.com/album/3Tij2oa4FJWd7Gk0pJaf0w"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 514479,
+      "name": "Master of Puppets",
+      "url": "https://open.spotify.com/track/799XxzSlWNYkuWJxUbuGnF"
+    },
+    {
+      "album": {
         "name": "Master Of Puppets (Remastered)",
         "url": "https://open.spotify.com/album/2Lq2qX3hYhiuPckC8Flj21"
       },
@@ -6213,7 +6249,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 515386,
       "name": "Master of Puppets (Remastered)",
       "url": "https://open.spotify.com/track/54bm2e3tk8cliUz3VSdCPZ"
@@ -6285,7 +6321,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 348099,
       "name": "Memento Mori",
       "url": "https://open.spotify.com/track/1flcnqrtVKsluQXLEPfGJW"
@@ -6577,7 +6613,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-05",
+      "date_removed": null,
       "duration_ms": 189895,
       "name": "More Than Dreaming",
       "url": "https://open.spotify.com/track/7Lx46Dt2A9Dr9cSsm2okk0"
@@ -6757,7 +6793,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 276200,
       "name": "Nemo",
       "url": "https://open.spotify.com/track/5OF7nhjVV0dmngqYjDrZGw"
@@ -7623,7 +7659,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-20",
+      "date_removed": null,
       "duration_ms": 255986,
       "name": "Presence of Mind",
       "url": "https://open.spotify.com/track/7kn8PMqB1Cx3qnzB0Slayd"
@@ -12161,6 +12197,24 @@
       "duration_ms": 192560,
       "name": "You Only Live Once",
       "url": "https://open.spotify.com/track/4Ku3OOZWR4tpKNCVFXILY8"
+    },
+    {
+      "album": {
+        "name": "Screaming For Vengeance (Expanded Edition)",
+        "url": "https://open.spotify.com/album/55MZQrenomrTq0aQneC7Pi"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310080,
+      "name": "You've Got Another Thing Coming",
+      "url": "https://open.spotify.com/track/4f3RDq9nYPBeR1yMSgnmBm"
     },
     {
       "album": {

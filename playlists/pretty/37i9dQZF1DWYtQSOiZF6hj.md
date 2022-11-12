@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtQSOiZF6hj.md) - [plain]
 
 > Great songs for your birthday! Let's celebrate!
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,289 likes - 44 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,338 likes - 44 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Celebration \- Single Version](https://open.spotify.com/track/6HIVJXpdvp1C1ubfnkFnz8) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Collected](https://open.spotify.com/album/2vBpHUDhVTInqSLxkw9Kx2) | 3:38 |
+| 1 | [Celebration \- Single Version](https://open.spotify.com/track/0CUEc6T65lrU6rVW3HVYsl) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [The Very Best Of Kool & The Gang \(Reissue\)](https://open.spotify.com/album/1rDjSDjjzVfpnsb3GgREFf) | 3:41 |
 | 2 | [Happy \- From "Despicable Me 2"](https://open.spotify.com/track/5H1ur8DKF9iTilrVlEdo0w) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [NOW That's What I Call Music!, Vol\. 60 \(Deluxe Edition\)](https://open.spotify.com/album/74BVAeJgcJjomcDq9HKii7) | 3:50 |
 | 3 | [Happy Birthday](https://open.spotify.com/track/6p8c6GUSBuBr05thevRLdD) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Kids Birthday Favs](https://open.spotify.com/album/5F3d3xhI5teyJaFppXQPX9) | 5:57 |
 | 4 | [Birthday](https://open.spotify.com/track/2xLOMHjkOK8nzxJ4r6yOKR) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM \(Deluxe\)](https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn) | 3:35 |
@@ -30,14 +30,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtQSOiZF6hj.md) - [plain]
 | 20 | [It's a Beautiful Day](https://open.spotify.com/track/0mvkwaZMP2gAy2ApQLtZRv) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [To Be Loved](https://open.spotify.com/album/4Yf5LJfqpjgl1a4TBiCi07) | 3:19 |
 | 21 | [Get Lucky \(feat\. Pharrell Williams & Nile Rodgers\) \- Radio Edit](https://open.spotify.com/track/2Foc5Q5nqNiosCNqttzHof) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Get Lucky \(feat\. Pharrell Williams & Nile Rodgers\) \[Radio Edit\]](https://open.spotify.com/album/2ePFIvZKMe8zefATp9ofFA) | 4:08 |
 | 22 | [Safe And Sound](https://open.spotify.com/track/2xJwrObFMYUuumisKeesRm) | [Capital Cities](https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu) | [Dinner with the Fam](https://open.spotify.com/album/39Y1tFTTANWGZczgmJ0QNC) | 3:12 |
-| 23 | [Lush Life](https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [So Good](https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B) | 3:21 |
+| 23 | [Lush Life](https://open.spotify.com/track/5BkMD6kh2K6PyC1LJmusmh) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Sommerparty 2022](https://open.spotify.com/album/4E9XTp15wqqP05OGapPIli) | 3:21 |
 | 24 | [Happy Birthday \(feat\. John Legend\)](https://open.spotify.com/track/5SAckbSHhNJ41b3bn5XwPL) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Cloud Nine](https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8) | 4:10 |
-| 25 | [Dance Monkey](https://open.spotify.com/track/2N8m6CYs74qQO4mjVcXO30) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Welcome To The Madhouse \(Deluxe\)](https://open.spotify.com/album/1AZjTOqvw2ZogWZxnDlhEN) | 3:29 |
+| 25 | [Dance Monkey](https://open.spotify.com/track/03OHZnpZoELFxS7Jn5mT6L) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Only Positive Energy](https://open.spotify.com/album/37eQtckqMN0s9eSNO7LyS9) | 3:29 |
 | 26 | [Celebration](https://open.spotify.com/track/5HktkLHDbjA6LTyRTBEzHy) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 3:35 |
-| 27 | [Party In The U.S.A.](https://open.spotify.com/track/5Q0Nhxo0l2bP3pNjpGJwV1) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [The Time Of Our Lives](https://open.spotify.com/album/64aKkqxc3Ur2LYIKeS5osS) | 3:22 |
+| 27 | [Party in the U.S.A.](https://open.spotify.com/track/65FLvpwtcMn2PHVOMcGNoG) | [Chelsea Heart](https://open.spotify.com/artist/2o3YvwaLj1ZcVAp0wYQKxL) | [4th July Bbq Grill Party Mix](https://open.spotify.com/album/7cNleXCYpNr2GhTBAy37Xz) | 3:24 |
 | 28 | [Diamonds](https://open.spotify.com/track/65YsalQBmQCzIPaay72CzQ) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Diamonds](https://open.spotify.com/album/2lRsZapxZxX43cmoDygp45) | 3:45 |
 | 29 | [Feel the Love \(feat\. John Newman\) \- Radio Edit](https://open.spotify.com/track/5crHvEPQ13FbQGQSscm5Ns) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [John Newman](https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf) | [Feel the Love \(feat\. John Newman\)](https://open.spotify.com/album/5hAJKdlLfFblwwmGR0a3Lk) | 3:39 |
-| 30 | [Don't Worry \(feat\. Ray Dalton\)](https://open.spotify.com/track/1XlRA078Zp2Q0IfWliK42q) | [Madcon](https://open.spotify.com/artist/6c4sUNBgdonFJz8Kx2VsGz), [Ray Dalton](https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13) | [Don't Worry \(feat\. Ray Dalton\)](https://open.spotify.com/album/6etykI54jWMVrshv5wCm4P) | 3:34 |
+| 30 | [Don't Worry \(with Ray Dalton\) \- Radio Edit](https://open.spotify.com/track/2AHZICZHpwfW0jGQnNUUlW) | [Madcon](https://open.spotify.com/artist/6c4sUNBgdonFJz8Kx2VsGz), [Ray Dalton](https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13) | [W drodze na wakacje](https://open.spotify.com/album/3Phx4ZCBjLcD8noU55Ved2) | 3:34 |
 | 31 | [Fascination](https://open.spotify.com/track/5AKQ1JHezaXDmN5SyMSpEr) | [Alphabeat](https://open.spotify.com/artist/7Defmv25Kj9knpobhHIghm) | [This Is Alphabeat](https://open.spotify.com/album/4dzRQNfbgCqWFHLJjgzBic) | 3:02 |
 | 32 | [Uptown Funk \(feat\. Bruno Mars\)](https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Uptown Special](https://open.spotify.com/album/3vLaOYCNCzngDf8QdBg2V1) | 4:29 |
 | 33 | [Shut Up and Dance](https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [TALKING IS HARD](https://open.spotify.com/album/3mNoFlD1wsoXfkljfFzExT) | 3:19 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtQSOiZF6hj.md) - [plain]
 | 43 | [Birthday](https://open.spotify.com/track/5L0AqUOKJmzDG3OAU5KZbE) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Come Around Sundown \(Expanded Edition\)](https://open.spotify.com/album/5xFZ4iElFbUFtOGX4lvdTM) | 3:15 |
 | 44 | [Happy Birthday Mr\. President](https://open.spotify.com/track/1Fk7y9wnhodbwJGcfxsPcC) | [Marilyn Monroe](https://open.spotify.com/artist/5sEocv1pFst7o3pam69obY) | [The Very Best Of](https://open.spotify.com/album/4tjvO958z1XIZEgNIAbZwj) | 0:44 |
 
-Snapshot ID: `MTY0NjkxNjIwMCwwMDAwMDAwMDJjNjAzMjJjYjVjNGM2NWVlNWUzNzA4YzViN2VkMzhj`
+Snapshot ID: `MTY0NjkxNjIwMCwwMDAwMDAwMDUyNzQwMzQ4YWY1Njg1MDIzMWI5ZDQwYzRjZWY4MTY0`

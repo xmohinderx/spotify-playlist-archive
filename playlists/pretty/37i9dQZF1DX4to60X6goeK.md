@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 
 > Go hard or go home\. Cover: Tsuki
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,339 likes - 55 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,360 likes - 55 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 | 31 | [Nightmares](https://open.spotify.com/track/6mzDDGA0c1eNIFRqMt6kB1) | [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t) | [Nightmares](https://open.spotify.com/album/2lQ23jZfDgcb2s4v47W1NK) | 3:01 |
 | 32 | [Transcend](https://open.spotify.com/track/1kL6yPur8rCHOahU3KUWNb) | [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7) | [Transcend](https://open.spotify.com/album/5EE5Ix18HkEAFFD5ZHJtxz) | 4:52 |
 | 33 | [Skillz](https://open.spotify.com/track/03F1wRaMhskWtit3JAaxUg) | [Grima x Azza](https://open.spotify.com/artist/0B7mOOI1XegN3bz45dbD0R), [Mr Traumatik](https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z), [Nu Elementz](https://open.spotify.com/artist/1byzCRSdDJzbi0RnRB4xgP), [MC Spyda](https://open.spotify.com/artist/2b4CwhkY6rAscPhxXVxDJl), [TNA](https://open.spotify.com/artist/5u6RylAtRAAxfm6Ahm2545) | [Skillz](https://open.spotify.com/album/1RpdC3AIXrHGQURbvUqswf) | 3:24 |
-| 34 | [Us](https://open.spotify.com/track/0gsSAPhBj4l9BdvqjLWxrh) | [Tesen](https://open.spotify.com/artist/0Z1k9vyIR05I1clIoH1wKP) | [Us / When the Lights Go](https://open.spotify.com/album/0iyETQNlcqOPMrpsIqOTKE) | 4:31 |
-| 35 | [You & I](https://open.spotify.com/track/0laSPpzgD2rNatLXQwTyM2) | [Andromedik](https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T), [Patch Edison](https://open.spotify.com/artist/0i592jj5zkb94alNCGfATI) | [Essence](https://open.spotify.com/album/3F4ar2rzrcFUzxRSSVoTD9) | 3:57 |
+| 34 | [You & I](https://open.spotify.com/track/0laSPpzgD2rNatLXQwTyM2) | [Andromedik](https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T), [Patch Edison](https://open.spotify.com/artist/0i592jj5zkb94alNCGfATI) | [Essence](https://open.spotify.com/album/3F4ar2rzrcFUzxRSSVoTD9) | 3:57 |
+| 35 | [Us](https://open.spotify.com/track/0gsSAPhBj4l9BdvqjLWxrh) | [Tesen](https://open.spotify.com/artist/0Z1k9vyIR05I1clIoH1wKP) | [Us / When the Lights Go](https://open.spotify.com/album/0iyETQNlcqOPMrpsIqOTKE) | 4:31 |
 | 36 | [Empire](https://open.spotify.com/track/4wVQ4W2jrhPNnsmlcO1u5g) | [Macky Gee](https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx) | [Empire](https://open.spotify.com/album/33h47MZRYtzLnHjLTIPIFn) | 6:07 |
 | 37 | [Ultralight](https://open.spotify.com/track/04LnHmJRweO8XIM0Uo5314) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Ultralight](https://open.spotify.com/album/4gXeehzyi205HkjcXKp9Oc) | 3:43 |
 | 38 | [Lady Petrol](https://open.spotify.com/track/0tpOXOSVJZl20YgoS5DOYa) | [Mozey](https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0) | [Lady Petrol](https://open.spotify.com/album/24e3IAndixmqYlExyKTldi) | 5:09 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 | 54 | [Come Alive](https://open.spotify.com/track/2QjcwXdj7h7ftIU4U93For) | [Deadbeat](https://open.spotify.com/artist/7DoljqvX8N0tjx7hC5ni7e), [Joey Illah](https://open.spotify.com/artist/6LqDmI7IuhPRe83EAdHAMV), [MR.O6OO](https://open.spotify.com/artist/6prEQtEIerqPBVuweTn39q) | [Come Alive](https://open.spotify.com/album/2FB5Jq7SWetNUBmr9w47lM) | 4:16 |
 | 55 | [Hazard](https://open.spotify.com/track/1qZZyFjwlAnb3RRYOO7y8Z) | [JMullaUK](https://open.spotify.com/artist/79ACLCWpSfLNDGbCBzMK3T), [Eksman](https://open.spotify.com/artist/2654RQ9MP4lxi0PLQY3ig7), [Exile](https://open.spotify.com/artist/021nLKqHhOqmUUMWt0EkDG) | [Hazard](https://open.spotify.com/album/59cjLdF8QxClRxM5S6s8a8) | 4:08 |
 
-Snapshot ID: `MTY2MDMyMjA5MSwwMDAwMDAwMGY1NmVhNTAzODhjMWFiNWM3ODAyNTM4NjZjODRmM2Rh`
+Snapshot ID: `MTY2MDMyMjA5MSwwMDAwMDAwMDA2MGI0NGQ2YTIwYjdkYTdjOTBhNTE1NWYwNjVmNjcz`

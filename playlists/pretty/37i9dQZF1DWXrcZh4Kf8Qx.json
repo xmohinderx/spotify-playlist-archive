@@ -1,12 +1,12 @@
 {
   "description": "All 70s, all ballads. Cover: Barbra Streisand",
-  "num_followers": 185636,
+  "num_followers": 185836,
   "original_name": "70s Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDg1Njk5NiwwMDAwMDAwMDdmM2Y4NjRiZjI3ZTY0MDc1YzFhOWQ4NGVlMmIyZDFm",
+  "snapshot_id": "MTY1MDg1Njk5NiwwMDAwMDAwMGE2M2FkOTMyZDk1NTljYTVlNzQ4NjM4MTQ5N2ZhZTZi",
   "tracks": [
     {
       "added_at": "2022-04-25 03:23:16",
@@ -171,22 +171,6 @@
     {
       "added_at": "2022-04-25 03:23:16",
       "album": {
-        "name": "Tea For The Tillerman (Remastered 2020)",
-        "url": "https://open.spotify.com/album/44VxbAytHpVi3Rq8hRhild"
-      },
-      "artists": [
-        {
-          "name": "Yusuf / Cat Stevens",
-          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
-        }
-      ],
-      "duration_ms": 221120,
-      "name": "Father And Son",
-      "url": "https://open.spotify.com/track/476V2d6iA2tWXgQboKmTtA"
-    },
-    {
-      "added_at": "2022-04-25 03:23:16",
-      "album": {
         "name": "The Stranger (Legacy Edition)",
         "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
       },
@@ -267,22 +251,6 @@
     {
       "added_at": "2022-04-25 03:23:16",
       "album": {
-        "name": "The Stranger (Legacy Edition)",
-        "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
-      },
-      "artists": [
-        {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-        }
-      ],
-      "duration_ms": 290573,
-      "name": "Just the Way You Are",
-      "url": "https://open.spotify.com/track/49MHCPzvMLXhRjDantBMVH"
-    },
-    {
-      "added_at": "2022-04-25 03:23:16",
-      "album": {
         "name": "Back Home Again",
         "url": "https://open.spotify.com/album/6zWmAA39H0c4SjnD4MB1Dm"
       },
@@ -295,22 +263,6 @@
       "duration_ms": 180693,
       "name": "Annie's Song",
       "url": "https://open.spotify.com/track/4J0DbyODwZJcmIAiTSJfMF"
-    },
-    {
-      "added_at": "2022-04-25 03:23:16",
-      "album": {
-        "name": "The Original Soundtrack",
-        "url": "https://open.spotify.com/album/1CMgmJjMFskwwmK8h8j1Oj"
-      },
-      "artists": [
-        {
-          "name": "10cc",
-          "url": "https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5"
-        }
-      ],
-      "duration_ms": 366640,
-      "name": "I'm Not In Love",
-      "url": "https://open.spotify.com/track/5HQEmiV2lKnSO6qa2fsR7x"
     },
     {
       "added_at": "2022-04-25 03:23:16",
@@ -331,6 +283,22 @@
     {
       "added_at": "2022-04-25 03:23:16",
       "album": {
+        "name": "The Original Soundtrack",
+        "url": "https://open.spotify.com/album/1CMgmJjMFskwwmK8h8j1Oj"
+      },
+      "artists": [
+        {
+          "name": "10cc",
+          "url": "https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5"
+        }
+      ],
+      "duration_ms": 366640,
+      "name": "I'm Not In Love",
+      "url": "https://open.spotify.com/track/5HQEmiV2lKnSO6qa2fsR7x"
+    },
+    {
+      "added_at": "2022-04-25 03:23:16",
+      "album": {
         "name": "Player",
         "url": "https://open.spotify.com/album/1uZ7slfpVTucDk922Btj5B"
       },
@@ -343,6 +311,22 @@
       "duration_ms": 255845,
       "name": "Baby Come Back",
       "url": "https://open.spotify.com/track/41sGGCCoHI2GLV9qadX80A"
+    },
+    {
+      "added_at": "2022-04-25 03:23:16",
+      "album": {
+        "name": "The Stranger (Legacy Edition)",
+        "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 290573,
+      "name": "Just the Way You Are",
+      "url": "https://open.spotify.com/track/49MHCPzvMLXhRjDantBMVH"
     },
     {
       "added_at": "2022-04-25 03:23:16",
@@ -363,22 +347,6 @@
     {
       "added_at": "2022-04-25 03:23:16",
       "album": {
-        "name": "Barry Manilow II",
-        "url": "https://open.spotify.com/album/0D6b0oLPjrrV4YA4bRSkks"
-      },
-      "artists": [
-        {
-          "name": "Barry Manilow",
-          "url": "https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Mandy",
-      "url": "https://open.spotify.com/track/6iXQrhhgBisdfvS34EMTZ3"
-    },
-    {
-      "added_at": "2022-04-25 03:23:16",
-      "album": {
         "name": "On the Waters",
         "url": "https://open.spotify.com/album/2eTrV6WUTJtKFzg5iznPJ7"
       },
@@ -391,6 +359,22 @@
       "duration_ms": 192200,
       "name": "Make It with You",
       "url": "https://open.spotify.com/track/7wWw7hBmErNg9u5w6Xx0vy"
+    },
+    {
+      "added_at": "2022-04-25 03:23:16",
+      "album": {
+        "name": "Barry Manilow II",
+        "url": "https://open.spotify.com/album/0D6b0oLPjrrV4YA4bRSkks"
+      },
+      "artists": [
+        {
+          "name": "Barry Manilow",
+          "url": "https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Mandy",
+      "url": "https://open.spotify.com/track/6iXQrhhgBisdfvS34EMTZ3"
     },
     {
       "added_at": "2022-04-25 03:23:16",
@@ -507,22 +491,6 @@
     {
       "added_at": "2022-04-25 03:23:16",
       "album": {
-        "name": "I Can Stand A Little Rain",
-        "url": "https://open.spotify.com/album/3pZNBYMFG6OSNuajvsdN4Q"
-      },
-      "artists": [
-        {
-          "name": "Joe Cocker",
-          "url": "https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI"
-        }
-      ],
-      "duration_ms": 159640,
-      "name": "You Are So Beautiful",
-      "url": "https://open.spotify.com/track/1gJOqXpRjz9GeEEwQpcujK"
-    },
-    {
-      "added_at": "2022-04-25 03:23:16",
-      "album": {
         "name": "Moondance (Expanded Edition)",
         "url": "https://open.spotify.com/album/6yNYC35npMBHbxG0Vle83O"
       },
@@ -555,6 +523,22 @@
     {
       "added_at": "2022-04-25 03:23:16",
       "album": {
+        "name": "The Very Best of The Everly Brothers",
+        "url": "https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT"
+      },
+      "artists": [
+        {
+          "name": "The Everly Brothers",
+          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
+        }
+      ],
+      "duration_ms": 143333,
+      "name": "All I Have to Do Is Dream",
+      "url": "https://open.spotify.com/track/7dblNGnRXEBrVJunazs2U5"
+    },
+    {
+      "added_at": "2022-04-25 03:23:16",
+      "album": {
         "name": "Atlantic Crossing",
         "url": "https://open.spotify.com/album/7vV3q5jE7DSuKsnHr7OmmN"
       },
@@ -571,18 +555,18 @@
     {
       "added_at": "2022-04-25 03:23:16",
       "album": {
-        "name": "The Very Best of The Everly Brothers",
-        "url": "https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT"
+        "name": "Goodbye Yellow Brick Road (Remastered)",
+        "url": "https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun"
       },
       "artists": [
         {
-          "name": "The Everly Brothers",
-          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
         }
       ],
-      "duration_ms": 143333,
-      "name": "All I Have to Do Is Dream",
-      "url": "https://open.spotify.com/track/7dblNGnRXEBrVJunazs2U5"
+      "duration_ms": 228932,
+      "name": "Candle In The Wind - Remastered 2014",
+      "url": "https://open.spotify.com/track/1L9fzw2pXprOqtemTwtxXF"
     },
     {
       "added_at": "2022-04-25 03:23:16",
@@ -647,22 +631,6 @@
       "duration_ms": 229826,
       "name": "Maybe I\u2019m Amazed - 2011 Remaster",
       "url": "https://open.spotify.com/track/1Qa0Y05al633fG8f9Peytc"
-    },
-    {
-      "added_at": "2022-04-25 03:23:16",
-      "album": {
-        "name": "Goodbye Yellow Brick Road (Remastered)",
-        "url": "https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 228932,
-      "name": "Candle In The Wind - Remastered 2014",
-      "url": "https://open.spotify.com/track/1L9fzw2pXprOqtemTwtxXF"
     },
     {
       "added_at": "2022-04-25 03:23:16",
@@ -807,6 +775,38 @@
       "duration_ms": 241746,
       "name": "Just When I Needed You Most",
       "url": "https://open.spotify.com/track/55wl56WlKI85UBNZoFxe9P"
+    },
+    {
+      "added_at": "2022-04-25 03:23:16",
+      "album": {
+        "name": "Closeup",
+        "url": "https://open.spotify.com/album/3joWv9r8FR0dudduAgEDbX"
+      },
+      "artists": [
+        {
+          "name": "Frankie Valli",
+          "url": "https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD"
+        }
+      ],
+      "duration_ms": 212013,
+      "name": "My Eyes Adored You",
+      "url": "https://open.spotify.com/track/2yDQVcj26tpi9IUJhw9xDs"
+    },
+    {
+      "added_at": "2022-04-25 03:23:16",
+      "album": {
+        "name": "Jolene",
+        "url": "https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 176093,
+      "name": "I Will Always Love You",
+      "url": "https://open.spotify.com/track/6nRvgo4ySezQKD1D7NIqAu"
     }
   ],
   "unique_name": "70s Ballads",

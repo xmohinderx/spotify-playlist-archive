@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 
 > The Hottest Hits in Japan right now\. 日本のポップシーンを彩る最新ベスト50。毎週月曜日更新。Cover:  Official髭男dism
 
-[Spotify](https://open.spotify.com/user/spotify) - 669,375 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 669,917 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 | 5 | [瞳惚れ](https://open.spotify.com/track/7ImXxPecExYBbjmDEvdd4z) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [瞳惚れ](https://open.spotify.com/album/4qVQrqIXH8XToBGY4SOOss) | 4:17 |
 | 6 | [Strawberry Margarita](https://open.spotify.com/track/6TsRIgK1wGPQDy5dsv36AF) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [Strawberry Margarita](https://open.spotify.com/album/5BLIyjQJxYW09jh0qh4QUQ) | 3:08 |
 | 7 | [Hontowane,](https://open.spotify.com/track/1G5cJCr6WwmiKRGlCbq6WS) | [ヤングスキニー](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [Hontowane,](https://open.spotify.com/album/0Kyfu9ZMYITiwDUngdTpJc) | 3:21 |
-| 8 | [Suzume](https://open.spotify.com/track/7LHAKF7pBqHch8o6Yo0ad5) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [Toaka](https://open.spotify.com/artist/3GzVC7GGbmO2SuBu92DqUn) | [Suzume](https://open.spotify.com/album/7HT4WPE6gHPxrRmgzhhTMr) | 3:56 |
+| 8 | [Suzume](https://open.spotify.com/track/1n1y2kFPISpF9WGD3JaFo5) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [Toaka](https://open.spotify.com/artist/3GzVC7GGbmO2SuBu92DqUn) | [Suzume \(Motion Picture Soundtrack\)](https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq) | 3:58 |
 | 9 | [SOUVENIR](https://open.spotify.com/track/7qOsSOpiL3R8RKyiBtIYNQ) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [SOUVENIR](https://open.spotify.com/album/62Rk2K7V2le9NBC75ANiX7) | 4:24 |
 | 10 | [祝福](https://open.spotify.com/track/7ajpbW6tBpqUI9foCtwlLw) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [祝福](https://open.spotify.com/album/7KS8ZZpgraGBazVoSeX6O4) | 3:16 |
 | 11 | [色彩](https://open.spotify.com/track/1uveEvgKX4irLcp1BUTIFD) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [色彩](https://open.spotify.com/album/3gQJWupAma6DdzcHVBQ9Bn) | 3:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 | 49 | [ムスクの香り](https://open.spotify.com/track/5N7gaC7e7eeOFe8Bgnzhti) | [the shes gone](https://open.spotify.com/artist/689D5sYXTKmpBXqAkAu0H7) | [ムスクの香り](https://open.spotify.com/album/3ytT7NqC0qAXHLAMp2R3lq) | 3:16 |
 | 50 | [ユメ ユメ ユメ](https://open.spotify.com/track/1eaOSQ4goYh0cvb48IPljJ) | [Awesome City Club](https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv) | [ユメ ユメ ユメ](https://open.spotify.com/album/4OgcwQkvzL2sQrAg9256W5) | 3:34 |
 
-Snapshot ID: `MTY2Nzc0NjgwMCwwMDAwMDAwMDdmNmM3YzQ3MTEzYTY4MTVhZjY5NTI5ZDE3MGU0MDI4`
+Snapshot ID: `MTY2Nzc0NjgwMCwwMDAwMDAwMGQyMzJmMTU0MzFiYzMwMjRhZjIzNDgxZjYyZmI5ZTYy`

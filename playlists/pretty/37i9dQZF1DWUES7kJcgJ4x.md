@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUES7kJcgJ4x.md) - [plain]
 
 > Modernas, rebeldes y divertidas, ¡Así son ellas!
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,633 likes - 50 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,643 likes - 50 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUES7kJcgJ4x.md) - [plain]
 | 37 | [Datemi un martello](https://open.spotify.com/track/3Zw6Chlu7EVxz55eQ6OX4G) | [Rita Pavone](https://open.spotify.com/artist/3xc8CD41vwsoBNkGXL3pS7) | [raRità!](https://open.spotify.com/album/2hBiHrGYrmQIsxwvBOwwFf) | 2:49 |
 | 38 | [The Born Loser's Theme](https://open.spotify.com/track/2K89nNrayOqbAWDlTwxsd4) | [The Sidewalk Sounds](https://open.spotify.com/artist/4CV3N7gi2jJZJDZJP0ib60) | [Born Losers](https://open.spotify.com/album/2O0v7b7SRw2YH2vRjaLVKx) | 1:47 |
 | 39 | [Me lo dijo Pérez](https://open.spotify.com/track/3ncN95x01VjT3FPm1ymMCc) | [Karina](https://open.spotify.com/artist/7kL7lbaqaHIUB3Ol5YU69a) | [Los EP's Originales, Vol\. 2](https://open.spotify.com/album/3BdHDRBRICbHKSx5d67PGR) | 2:11 |
-| 40 | [The "In" Crowd](https://open.spotify.com/track/3ymNc1wfndQY0ZVVudSdTh) | [Ramsey Lewis Trio](https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu) | [The Chess Story 1965\-1975](https://open.spotify.com/album/0ABa9KTBRl5kxBSkhitvRw) | 3:22 |
+| 40 | [The "In" Crowd](https://open.spotify.com/track/6Azalk48Fr7Y8eTYpwCWGT) | [Ramsey Lewis Trio](https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu) | [Legend \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/50skGUFIdiXUcybL1VanVq) | 3:19 |
 | 41 | [Muy Cerca de Tí](https://open.spotify.com/track/5f80txb4SYgEJtO6QTKS9l) | [Ana Belén](https://open.spotify.com/artist/4NOZW7dBOmBMMAG9EGQd4t) | [Cuando España Bailaba el Twist](https://open.spotify.com/album/1S1vdRlUTJVDMMNCEol9zU) | 2:32 |
 | 42 | [Snob Ye Ye](https://open.spotify.com/track/4D3FBC7IY6BPfDS2ujBHuX) | [Maleni Castro](https://open.spotify.com/artist/4ANgotw3bp4zcRUsl6tbRt) | [Una Guitarra Española](https://open.spotify.com/album/2WfpqizNpjBpzLEwHboLjp) | 2:05 |
 | 43 | [Tumbaloflesicodelicomicoso](https://open.spotify.com/track/1Ae5yrpad97frKpGWjRVVD) | [Chelo](https://open.spotify.com/artist/4IRgZYuKlqlD3BCEhb52ne) | [100% Mexican Groovy: Batalla Estelar](https://open.spotify.com/album/6hdSAnqtrTwNd8yzvlVmRr) | 2:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUES7kJcgJ4x.md) - [plain]
 | 49 | [Boogaloo Smith](https://open.spotify.com/track/1CYfqpy4TmfTBSZSll6Vhq) | [James Clarke](https://open.spotify.com/artist/5ooAHetwsdFoL1RaRcfDXG) | [Blow Up presents Exclusive Blend Volume 1](https://open.spotify.com/album/4cZe6XeALxQjhc2Mh778Sg) | 1:36 |
 | 50 | [El Juguete Extraordinario](https://open.spotify.com/track/3b7NqPaGppHqg5gubaJNen) | [Alicia Granados](https://open.spotify.com/artist/4MdLsOw1fEglZyW9qkEaft) | [Profesor](https://open.spotify.com/album/1bqkkVj2oGYrp9832YeIfc) | 2:08 |
 
-Snapshot ID: `MTYxMDk5NjI5MSwwMDAwMDAwMGQ5YTQyZjZkYjEyNjY4ZWVkZGQyYjMzNDJhODU2OTQz`
+Snapshot ID: `MTYxMDk5NjI5MSwwMDAwMDAwMGFmNzExZGQwOTZmZjI5MjBhNDJmYmJmOGUwY2NiY2Uz`

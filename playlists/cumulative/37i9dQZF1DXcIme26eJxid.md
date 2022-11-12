@@ -4,12 +4,12 @@
 
 > The most known Afro\-pop classics, all in one place! Cover: <a href="spotify:artist:18RkLKfeoUgZflWv9os25W">Miriam Makeba</a>
 
-54 songs - 5 hr 19 min - [published](https://open.spotify.com/playlist/04ehEU04TjgiUQcneleBic)
+56 songs - 5 hr 30 min - [published](https://open.spotify.com/playlist/04ehEU04TjgiUQcneleBic)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Agolo](https://open.spotify.com/track/0epThWIIEZZBBwDaHoMBBz) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Aye](https://open.spotify.com/album/1FmjOQhxwxC0flGj4PNdza) | 4:49 | 2019-06-28 |  |
-| [Akula Owu Onyeara](https://open.spotify.com/track/0X7mNbVv1YYJ8SrAk4AsiT) | [The Funkees](https://open.spotify.com/artist/6dqBherxR2n5xMfqAI0L2J) | [Dancing Time: The Best of Eastern Nigeria's Afro Rock Exponents 1973\-77](https://open.spotify.com/album/7bmfQqqmSOdIzdIW3Ye8F3) | 7:28 | 2019-06-28 |  |
+| [Akula Owu Onyeara](https://open.spotify.com/track/0X7mNbVv1YYJ8SrAk4AsiT) | [The Funkees](https://open.spotify.com/artist/6dqBherxR2n5xMfqAI0L2J) | [Dancing Time: The Best of Eastern Nigeria's Afro Rock Exponents 1973\-77](https://open.spotify.com/album/7bmfQqqmSOdIzdIW3Ye8F3) | 7:28 | 2019-06-28 | 2022-11-12 |
 | [Alo Mi Alo \(Parts 1 & 2\)](https://open.spotify.com/track/4ZAjQaFzbW5IbJJsjfCJJ4) | [Orlando Julius](https://open.spotify.com/artist/5nmP3vKUqynlECpm2ura7L), [The Afro Sounders](https://open.spotify.com/artist/6NJCN6KXFzP8YlfX4mFDx8) | [Nigeria 70 \- Funky Lagos](https://open.spotify.com/album/6vbhwiICICM9vQiUK62Me0) | 8:03 | 2019-06-28 |  |
 | [Asimbonanga \(Mandela\)](https://open.spotify.com/track/25u53mEJMoUkHcBWYavOVT) | [Johnny Clegg](https://open.spotify.com/artist/7idPv1alc0mcEhEsKlMV2O), [Savuka](https://open.spotify.com/artist/3UDSQSzFctmDSlmY75BWV7) | [Third World Child](https://open.spotify.com/album/1RIv8PQTIchFfs76YPeB9k) | 4:51 | 2020-04-07 | 2022-11-11 |
 | [Baby Kilode](https://open.spotify.com/track/0PYDivZavH4ndRJB6E5iUu) | [Dizzy K Falola](https://open.spotify.com/artist/4QebwA96fgRFgzeXzx9dmj) | [Ivory Music Classics, Vol\. 2](https://open.spotify.com/album/0Vhl9WUTA5hBUWy6L6MsmQ) | 4:25 | 2019-06-28 |  |
@@ -20,6 +20,8 @@
 | [Expensive Shit](https://open.spotify.com/track/2g72QoX5ZZlEqQpKfnOdrj) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [The Best Of The Black President 2](https://open.spotify.com/album/5Nx9r4mbuWkfPsVZIvqWx2) | 13:13 | 2019-06-28 |  |
 | [Fantastic Man](https://open.spotify.com/track/1ETZhP9orTkDclKEyt0xqm) | [William Onyeabor](https://open.spotify.com/artist/755pQSGUy6rtPrUCbnJTvi) | [World Psychedelic Classics 5: Who Is William Onyeabor?](https://open.spotify.com/album/5TTFe3hLqkfQf0xRUponX0) | 6:26 | 2019-06-28 |  |
 | [Greetings](https://open.spotify.com/track/03P5b745wtD0qS5IdNtrh9) | [Joni Haastrup](https://open.spotify.com/artist/4Mp7yETSzhsOZt0lm4TaRu) | [Nigeria 70 \- Funky Lagos](https://open.spotify.com/album/6vbhwiICICM9vQiUK62Me0) | 6:13 | 2019-06-28 |  |
+| [Guitar Boy](https://open.spotify.com/track/2Sj8A8FS3wiv0B5pIFklg9) | [Sir Victor Uwaifo](https://open.spotify.com/artist/2hCi6vXJyyTG9szd63b4LU), [His Titibitis](https://open.spotify.com/artist/76SmGMAqB730ySrA79c6hm) | [The Best Of Victor Uwaifo, Vol\. 1](https://open.spotify.com/album/6J90hIcZh9EsJZmQa1YfLD) | 5:53 | 2019-06-28 |  |
+| [Happy Birthday](https://open.spotify.com/track/6GkCK4jJhwQDOnGKXxmvmN) | [Evi\-Edna Ogholi](https://open.spotify.com/artist/0anRNdIauPbIhAdygRLJVL) | [Happy Birthday](https://open.spotify.com/album/02FKQ2rc5f7XmB03EcFN4m) | 5:39 | 2019-06-28 |  |
 | [Heaven](https://open.spotify.com/track/2GNzKVnqNE1E6VcHn9QjH7) | [Ebo Taylor](https://open.spotify.com/artist/1yDtHakLGMYiERfsHbXiv7) | [Afro Tropical Soundz, Vol\. 1](https://open.spotify.com/album/65bFwgGVr8WOlERe4kt5Gz) | 6:05 | 2019-06-28 |  |
 | [I Like Your Style](https://open.spotify.com/track/7b0bir8Z4KyyBwQfBIjmYY) | [Tony Wilson](https://open.spotify.com/artist/3nwZKsmOiJjn7x0fS3L5ZR) | [I Like Your Style](https://open.spotify.com/album/3N9BeN0UCTwyHADo59PI0g) | 3:05 | 2019-06-28 |  |
 | [In Your Eyes \- Live](https://open.spotify.com/track/4eaCU2oPnksTeuwsQmFr12) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [So \(25th Anniversary Deluxe Edition\)](https://open.spotify.com/album/1vJ8rCzq6BJtKGz9Yf6oT3) | 10:38 | 2019-06-28 | 2022-11-11 |
@@ -53,7 +55,7 @@
 | [Soul Makossa](https://open.spotify.com/track/21s0bjVrP7RtQskeUKZxOu) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Manu Dibango Anthology](https://open.spotify.com/album/4WDsHhoLJTSGVAt7ydCoPN) | 4:24 | 2019-06-28 |  |
 | [Special Star](https://open.spotify.com/track/1xMFHgilbKXS02lMSBlDvZ) | [Mango Groove](https://open.spotify.com/artist/2hvddonG8JzzHuYRbmI72J) | [Mango Groove](https://open.spotify.com/album/5snC2QWALNCAMl7FW521yb) | 5:53 | 2020-04-07 | 2022-09-25 |
 | [Special Star](https://open.spotify.com/track/549xBLH0dGz2e2jDultQQH) | [Mango Groove](https://open.spotify.com/artist/2hvddonG8JzzHuYRbmI72J) | [Mango Groove](https://open.spotify.com/album/30DrlbUcoHdqSwOrtpTNu3) | 5:53 | 2020-04-07 | 2022-10-14 |
-| [Special Star](https://open.spotify.com/track/5mxIhvGxDJ56wxOQnDNHnt) | [Mango Groove](https://open.spotify.com/artist/2hvddonG8JzzHuYRbmI72J) | [Mango Groove](https://open.spotify.com/album/0wv0MS5ETAzzzZdcsIBPBl) | 5:53 | 2020-04-07 |  |
+| [Special Star](https://open.spotify.com/track/5mxIhvGxDJ56wxOQnDNHnt) | [Mango Groove](https://open.spotify.com/artist/2hvddonG8JzzHuYRbmI72J) | [Mango Groove](https://open.spotify.com/album/0wv0MS5ETAzzzZdcsIBPBl) | 5:53 | 2020-04-07 | 2022-11-12 |
 | [Sugar Cnane Baby](https://open.spotify.com/track/5kFPItOjyYqGrNnqsROU42) | [Harry Mosco](https://open.spotify.com/artist/5xRUMq2gshg8BfuXR7QFWl) | [Ivory Music Classics, Vol\. 2](https://open.spotify.com/album/0Vhl9WUTA5hBUWy6L6MsmQ) | 5:31 | 2019-06-28 |  |
 | [Thathi Sgubu](https://open.spotify.com/track/6ue7mX2VMfHzMXYzjXDGiP) | [Bongo Maffin](https://open.spotify.com/artist/2eIjpwW853WkGtvIMukeRZ) | [Kalawa Jazmee Classics: Bongo Maffin](https://open.spotify.com/album/6OT33ayLWEbU1Gl6woOV7c) | 5:20 | 2020-04-07 | 2022-11-11 |
 | [The Warrior](https://open.spotify.com/track/1xjSFzaiaA1XCMyvq5fJKl) | [Osibisa](https://open.spotify.com/artist/12X85dtebfc7JTZ8iMBT2o) | [Ojah Awake](https://open.spotify.com/album/6bHGRYoRt21wn95Dlz4YSU) | 3:44 | 2019-06-28 |  |

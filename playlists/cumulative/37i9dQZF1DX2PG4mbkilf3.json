@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "This is R&B in Canada, elevate your aura with Dylan Sinclair. ",
+  "description": "This is R&B in Canada, elevate your aura with RAAHiiM. ",
   "name": "Mood Ring",
   "published_playlist_ids": [
     "5Scr3kl4jdyMwylCsvsI3D"
@@ -187,7 +187,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 146493,
       "name": "a little bit more",
       "url": "https://open.spotify.com/track/0OGOdBzUS945BSNP4zBjKD"
@@ -516,6 +516,24 @@
     },
     {
       "album": {
+        "name": "Angel Dust",
+        "url": "https://open.spotify.com/album/1SgKGoNrQdQartSZJN3U1S"
+      },
+      "artists": [
+        {
+          "name": "Kid Riz",
+          "url": "https://open.spotify.com/artist/3prhbrzge1TX4LaZRSfwme"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149779,
+      "name": "Angel Dust",
+      "url": "https://open.spotify.com/track/3zh9krWqUtV7THEJA4gnw5"
+    },
+    {
+      "album": {
         "name": "Anxiety",
         "url": "https://open.spotify.com/album/0fkIIczS0nBiX4Q4iGlSt2"
       },
@@ -661,7 +679,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 270259,
       "name": "Backinluv",
       "url": "https://open.spotify.com/track/0k3WtyxIG1Hvv5nn6BwhfX"
@@ -679,10 +697,28 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 219563,
       "name": "Bad Bad",
       "url": "https://open.spotify.com/track/1md6otYHFdOp8itdRp4r2h"
+    },
+    {
+      "album": {
+        "name": "Infinite",
+        "url": "https://open.spotify.com/album/0GagOm850EPgZJCDkztsYm"
+      },
+      "artists": [
+        {
+          "name": "Black Atlass",
+          "url": "https://open.spotify.com/artist/7AbKOHOvn27dK0FOiboAno"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231691,
+      "name": "Beautiful Stranger",
+      "url": "https://open.spotify.com/track/5OCxRvtrp2HNuj5bwGYphT"
     },
     {
       "album": {
@@ -1370,6 +1406,46 @@
     },
     {
       "album": {
+        "name": "Cool",
+        "url": "https://open.spotify.com/album/24TKXTHxvIxij7pyn2ml6q"
+      },
+      "artists": [
+        {
+          "name": "Pvrx",
+          "url": "https://open.spotify.com/artist/3tMGRYyYmK8LChGAnnmikZ"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169498,
+      "name": "Cool",
+      "url": "https://open.spotify.com/track/3BAgUIBHbUheqsunVZ4UDc"
+    },
+    {
+      "album": {
+        "name": "Cotton Candy",
+        "url": "https://open.spotify.com/album/67GE1vcqCV73yBvtDfYO27"
+      },
+      "artists": [
+        {
+          "name": "Jay Isaiah",
+          "url": "https://open.spotify.com/artist/0oMty0VPLJbB8WAQ8otDAs"
+        },
+        {
+          "name": "Kofi",
+          "url": "https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153652,
+      "name": "Cotton Candy",
+      "url": "https://open.spotify.com/track/7kFEzXF6szueVB1IeWMRT8"
+    },
+    {
+      "album": {
         "name": "513",
         "url": "https://open.spotify.com/album/6NDmSdY3c1glA8GPk3jYrn"
       },
@@ -1435,7 +1511,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 148205,
       "name": "Day Like This",
       "url": "https://open.spotify.com/track/2QZ0YOuXUtfLY3cilsD3qu"
@@ -1595,6 +1671,28 @@
       "duration_ms": 175826,
       "name": "Do You Wanna",
       "url": "https://open.spotify.com/track/57R8c5G1hnjCFNUHgdiFfC"
+    },
+    {
+      "album": {
+        "name": "DOLLA BILL",
+        "url": "https://open.spotify.com/album/15dVyqRAoOdrS1ADqD7zB6"
+      },
+      "artists": [
+        {
+          "name": "Fernie",
+          "url": "https://open.spotify.com/artist/5PemoTSZMQp59WnXZZ4EhI"
+        },
+        {
+          "name": "Magi Merlin",
+          "url": "https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223030,
+      "name": "DOLLA BILL",
+      "url": "https://open.spotify.com/track/60KAfeoYKcZxescGw4ZjkD"
     },
     {
       "album": {
@@ -3228,6 +3326,28 @@
     },
     {
       "album": {
+        "name": "Her Loss",
+        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399153,
+      "name": "Hours In Silence",
+      "url": "https://open.spotify.com/track/0sSRLXxknVTQDStgU1NqpY"
+    },
+    {
+      "album": {
         "name": "How Would You Feel",
         "url": "https://open.spotify.com/album/373W4hy5SMxKxICDMDynoX"
       },
@@ -3568,6 +3688,24 @@
     },
     {
       "album": {
+        "name": "In Love",
+        "url": "https://open.spotify.com/album/6Oz3FlOiQkQpcuwQaicra8"
+      },
+      "artists": [
+        {
+          "name": "Tasha Mac",
+          "url": "https://open.spotify.com/artist/2kZVyiRZ7W3bELWzLWD8PC"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135560,
+      "name": "In Love",
+      "url": "https://open.spotify.com/track/30me56RUdESaE3wRD4sBKH"
+    },
+    {
+      "album": {
         "name": "In My Bed",
         "url": "https://open.spotify.com/album/7Dw7n5YeIAb1IQ5klyRIae"
       },
@@ -3805,7 +3943,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 156173,
       "name": "Kauai",
       "url": "https://open.spotify.com/track/1eBtqzkwNl4vzpqkclynDw"
@@ -3917,7 +4055,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 232198,
       "name": "Laydown",
       "url": "https://open.spotify.com/track/2lN6vCYKKBtGRz0aSy69mu"
@@ -4433,7 +4571,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 172241,
       "name": "Medicine Man",
       "url": "https://open.spotify.com/track/5BetBdD10lVmf1Z8iV25ZK"
@@ -4749,7 +4887,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 204750,
       "name": "Movies",
       "url": "https://open.spotify.com/track/5duBEuuggu7EMMptOsH9Lc"
@@ -5157,6 +5295,24 @@
       "duration_ms": 161227,
       "name": "Notice",
       "url": "https://open.spotify.com/track/1d8NaDZjTmhrK37QPoEhQ8"
+    },
+    {
+      "album": {
+        "name": "OBSESI\u00d3N",
+        "url": "https://open.spotify.com/album/3FHjfLoqpmVn5W7ClTXJ8A"
+      },
+      "artists": [
+        {
+          "name": "BEBEBOY",
+          "url": "https://open.spotify.com/artist/3hBijYmf6uAE6PKfL9CNLk"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190909,
+      "name": "OBSESI\u00d3N",
+      "url": "https://open.spotify.com/track/7znw1Mi6sqrzTur0iw86kj"
     },
     {
       "album": {
@@ -5691,7 +5847,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 202451,
       "name": "Overdrive",
       "url": "https://open.spotify.com/track/7hRlTK3mgFTBEjX7DjqBsI"
@@ -5919,6 +6075,28 @@
       "duration_ms": 240937,
       "name": "Please Do Not Lean (feat. BADBADNOTGOOD)",
       "url": "https://open.spotify.com/track/5uXO1sjZ7VbNKexKaFRna3"
+    },
+    {
+      "album": {
+        "name": "Poison Ivy",
+        "url": "https://open.spotify.com/album/3ssj5GjOwObWF7eiAoYUl0"
+      },
+      "artists": [
+        {
+          "name": "K. Forest",
+          "url": "https://open.spotify.com/artist/1uaS3ZokV40ZrpzSRhx4Ol"
+        },
+        {
+          "name": "Skip Waiters",
+          "url": "https://open.spotify.com/artist/4VarNqx7kH5tBCBQwtixav"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237505,
+      "name": "Poison Ivy",
+      "url": "https://open.spotify.com/track/2UnIW0DQShzvsojtzGeF16"
     },
     {
       "album": {
@@ -6287,6 +6465,24 @@
       "duration_ms": 146080,
       "name": "RN Interlude",
       "url": "https://open.spotify.com/track/2neaD0EL4EqsWyLCefrytF"
+    },
+    {
+      "album": {
+        "name": "EGO",
+        "url": "https://open.spotify.com/album/6s7rkUQ60j8BI4CGDgmxBZ"
+      },
+      "artists": [
+        {
+          "name": "Liza",
+          "url": "https://open.spotify.com/artist/7CeUn1UNtIFSZIIBNXV8jk"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "Room",
+      "url": "https://open.spotify.com/track/35wU3ihUZ1RnFPW1Q5NGvT"
     },
     {
       "album": {
@@ -6873,6 +7069,24 @@
       "duration_ms": 162214,
       "name": "Spell on Me",
       "url": "https://open.spotify.com/track/2mdDWv8WriSYY8Z5XwzfC9"
+    },
+    {
+      "album": {
+        "name": "Spin the Block",
+        "url": "https://open.spotify.com/album/2eco2tXEVHu9oaI1uwxCYC"
+      },
+      "artists": [
+        {
+          "name": "RAAHiiM",
+          "url": "https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229052,
+      "name": "Spin the Block",
+      "url": "https://open.spotify.com/track/0IomPr5dBXw2sIkZKvZSSp"
     },
     {
       "album": {
@@ -8095,7 +8309,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 228075,
       "name": "Where Ya From",
       "url": "https://open.spotify.com/track/74kvijB0vU5BK44QnNb4Gt"
@@ -8171,7 +8385,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 152857,
       "name": "WILD",
       "url": "https://open.spotify.com/track/1uWRs1aJzqYENu4T5YLWve"

@@ -19,7 +19,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 172182,
       "name": "'Til I Found You",
       "url": "https://open.spotify.com/track/0LcCeKrpFTzqKrTAzNFIHo"
@@ -230,6 +230,24 @@
     },
     {
       "album": {
+        "name": "Only Positive Energy",
+        "url": "https://open.spotify.com/album/37eQtckqMN0s9eSNO7LyS9"
+      },
+      "artists": [
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+        }
+      ],
+      "date_added": "2020-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209438,
+      "name": "Dance Monkey",
+      "url": "https://open.spotify.com/track/03OHZnpZoELFxS7Jn5mT6L"
+    },
+    {
+      "album": {
         "name": "Welcome To The Madhouse (Deluxe)",
         "url": "https://open.spotify.com/album/1AZjTOqvw2ZogWZxnDlhEN"
       },
@@ -355,7 +373,7 @@
       ],
       "date_added": "2020-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 192000,
       "name": "Falling",
       "url": "https://open.spotify.com/track/4v9nRXzGgTFc2GuxWpG0Mg"
@@ -511,6 +529,28 @@
       "duration_ms": 187733,
       "name": "Grace Kelly",
       "url": "https://open.spotify.com/track/7dzUZec5MnWMyQnk5klnKR"
+    },
+    {
+      "album": {
+        "name": "So Sick - Trending 2022",
+        "url": "https://open.spotify.com/album/2F8IYHbkXSfseWu87SZSon"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "MNEK",
+          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+        }
+      ],
+      "date_added": "2021-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166028,
+      "name": "Head & Heart",
+      "url": "https://open.spotify.com/track/29BZPPHOPkAUnc8Fvb6VUI"
     },
     {
       "album": {
@@ -708,6 +748,32 @@
     },
     {
       "album": {
+        "name": "Totally Romantic Ballads",
+        "url": "https://open.spotify.com/album/3zeuHqBj3w0Hd4MPgUGCqi"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Silk Sonic",
+          "url": "https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr"
+        }
+      ],
+      "date_added": "2021-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242096,
+      "name": "Leave the Door Open",
+      "url": "https://open.spotify.com/track/1WQkIkrkEc0mydf6SVULgH"
+    },
+    {
+      "album": {
         "name": "Life Without Fantasies (Radio Edit)",
         "url": "https://open.spotify.com/album/2CbKkBdhAHKiKkZ8MrkdGf"
       },
@@ -853,7 +919,7 @@
       ],
       "date_added": "2019-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 260125,
       "name": "Oh My Soul (Bloukaas Remix)",
       "url": "https://open.spotify.com/track/6MpScQlifniy57CFLOxOCC"
@@ -923,6 +989,24 @@
       "duration_ms": 352493,
       "name": "Pluto - Live",
       "url": "https://open.spotify.com/track/59oBTOQ2aidtB5RRbfLdRz"
+    },
+    {
+      "album": {
+        "name": "Postcards",
+        "url": "https://open.spotify.com/album/3xAba1npkOgz18eO00d2Ft"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Loops",
+          "url": "https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g"
+        }
+      ],
+      "date_added": "2021-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229893,
+      "name": "Postcards",
+      "url": "https://open.spotify.com/track/3Xi27eCYtFFEqDOGCWr6T8"
     },
     {
       "album": {
@@ -1029,7 +1113,7 @@
       ],
       "date_added": "2021-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 182663,
       "name": "SHANGRI-LA - Radio Edit",
       "url": "https://open.spotify.com/track/04NEE6filobSes2pww809U"
@@ -1165,7 +1249,7 @@
       ],
       "date_added": "2021-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 197400,
       "name": "The Moment (feat. Jimmy Nevis & Emtee)",
       "url": "https://open.spotify.com/track/4dpNbUnGgP1f0C6B9XVXK8"
@@ -1231,7 +1315,7 @@
       ],
       "date_added": "2018-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 212598,
       "name": "Too Blessed To Be Stressed",
       "url": "https://open.spotify.com/track/6lXOFYka4axi7LezCcuQSo"
@@ -1285,7 +1369,7 @@
       ],
       "date_added": "2018-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 180066,
       "name": "Waves",
       "url": "https://open.spotify.com/track/1cgHWk3kQk8SbvaYHkfTkV"
@@ -1307,6 +1391,28 @@
       "duration_ms": 195096,
       "name": "We All Believe",
       "url": "https://open.spotify.com/track/2jMgqmkgXS0YDmFxavM8gZ"
+    },
+    {
+      "album": {
+        "name": "Sexy Songs 2020",
+        "url": "https://open.spotify.com/album/7HxknjzFr59SJZjFiUycUK"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2018-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199853,
+      "name": "What Lovers Do",
+      "url": "https://open.spotify.com/track/5rgVLR0OimYG1MogWahTH8"
     },
     {
       "album": {

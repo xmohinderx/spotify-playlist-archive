@@ -402,6 +402,24 @@
     },
     {
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/6a8nlV9V8kPUbTTCJNVSsh"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167373,
+      "name": "Flash - Remastered 2011",
+      "url": "https://open.spotify.com/track/4Xxra8s5kUaLy7CMRkw7mn"
+    },
+    {
+      "album": {
         "name": "Flash Gordon (Deluxe Edition 2011 Remaster)",
         "url": "https://open.spotify.com/album/4r9kNse038AoF2KfbqPUOS"
       },
@@ -431,7 +449,7 @@
       ],
       "date_added": "2019-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 168213,
       "name": "Flash - Single Version",
       "url": "https://open.spotify.com/track/6tYYT8zNxkadSCujCdR6Ur"

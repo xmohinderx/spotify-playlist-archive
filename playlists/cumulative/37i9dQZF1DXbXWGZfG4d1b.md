@@ -4,7 +4,7 @@
 
 > Rock independiente, pop alternativo y golden hour.
 
-387 songs - 22 hr 59 min - [published](https://open.spotify.com/playlist/5DJyLFy40DvmyjCdjcX5ce)
+388 songs - 23 hr 3 min - [published](https://open.spotify.com/playlist/5DJyLFy40DvmyjCdjcX5ce)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,6 +202,7 @@
 | [La Poesia Intermitente](https://open.spotify.com/track/5sEEsMp1Q2a0vccFrxSZkD) | [El Chacal & Los Alpes Floreados](https://open.spotify.com/artist/6vtp1NouNva4jvDI2IqQey), [Goyo Degano](https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf) | [Tranki Town](https://open.spotify.com/album/7EN6Gq75GPfuHvcptkuOsk) | 3:53 | 2022-06-03 |  |
 | [La Rompiente](https://open.spotify.com/track/36TbMvfNBbgqbMfKWcF3xL) | [Sr Tomate](https://open.spotify.com/artist/4H1MDie4DNcC292GeGPoZ8) | [Desde el Centro del Naufragio](https://open.spotify.com/album/6B2sBm6bjWWxWrx9V92rxP) | 6:24 | 2022-07-01 | 2022-07-29 |
 | [La Sorpresa](https://open.spotify.com/track/4uCjn3FvBY07DAYHBDrNiw) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH) | [La Sorpresa](https://open.spotify.com/album/5QhWdYNpz3GNWlMuwNoQ5P) | 2:35 | 2022-07-01 | 2022-09-09 |
+| [La Verdad](https://open.spotify.com/track/41e6XAUwzXXu9CcKqYtOoa) | [Elis Paprika](https://open.spotify.com/artist/7LVz7xRg5YcXb6bD5JZRtk) | [La Verdad](https://open.spotify.com/album/5liRXIIe5NXzgqR1c1qvjn) | 3:24 | 2022-11-11 |  |
 | [La Vida Que Te Embrolla](https://open.spotify.com/track/2P44uihCvrvH5M8KjeZLkE) | [Hojas Secas](https://open.spotify.com/artist/61kl8a9uwRmmNjBExAEqiH) | [Bailaló](https://open.spotify.com/album/55IaKU6yOzXlurVVfFHTV1) | 4:15 | 2022-07-01 | 2022-07-16 |
 | [Las Aguas](https://open.spotify.com/track/2UxLDnjULwrVw99Bkgv6Fu) | [Bosques](https://open.spotify.com/artist/7tyJ5HvQArW2FlxO9MKa89) | [Invocación](https://open.spotify.com/album/1dHH6lfeps2fuhZpvEfu0y) | 2:48 | 2022-07-01 | 2022-07-23 |
 | [Las Horas](https://open.spotify.com/track/6abYXckpkTk1tYFEJ6CW2s) | [Basual](https://open.spotify.com/artist/0RB7VDmgFkpoW9jLMArj9y) | [Las Horas / Lovercraft](https://open.spotify.com/album/38AfLq1iFJJLajO5z5nh5h) | 4:37 | 2022-07-15 | 2022-07-28 |
@@ -320,7 +321,7 @@
 | [Retrovisor](https://open.spotify.com/track/1M5T9vmjCQDUGSjkhcFHEq) | [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J), [Bruno Donato](https://open.spotify.com/artist/2J9KOh8KIZZjuGxo0e2zgq) | [Retrovisor](https://open.spotify.com/album/7meTS5glrfIKXr0zwg7e5K) | 3:09 | 2022-07-01 | 2022-07-29 |
 | [Revolución](https://open.spotify.com/track/7r8QlxThnI4K2tp071TchX) | [Chochin Galleguillo](https://open.spotify.com/artist/58p5WCIxNMmL9LT7ItSHIi) | [Revolución](https://open.spotify.com/album/5hDnjm1BU5AT3l9k8fiGwj) | 4:19 | 2022-07-15 | 2022-07-27 |
 | [Risa](https://open.spotify.com/track/2NbwznlC08MxzvesOSHQy3) | [Prietto Viaja al Cosmos con Mariano](https://open.spotify.com/artist/79KyjLxTR5a6vVpPvljowB) | [Crónicas](https://open.spotify.com/album/43nltoTfJ7OZsprDHEoAqP) | 3:17 | 2022-07-01 | 2022-07-29 |
-| [Romance Con la Luna](https://open.spotify.com/track/5cTIKVnQPW1qW7LioXEilJ) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G) | [Romance Con la Luna](https://open.spotify.com/album/035K8wr5lzZSvkYIUfb781) | 2:51 | 2022-06-03 |  |
+| [Romance Con la Luna](https://open.spotify.com/track/5cTIKVnQPW1qW7LioXEilJ) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G) | [Romance Con la Luna](https://open.spotify.com/album/035K8wr5lzZSvkYIUfb781) | 2:51 | 2022-06-03 | 2022-11-12 |
 | [Romántico](https://open.spotify.com/track/3xCJorDA7M5RVEwGlXV4ZC) | [Perez](https://open.spotify.com/artist/2useEnhlzYOXvuvIteaTed) | [Perez 2021](https://open.spotify.com/album/0oxsDoGOfkhyTwtKJ1v7WC) | 3:11 | 2022-07-01 | 2022-07-24 |
 | [Ruinas Circulares](https://open.spotify.com/track/0sMqiuWolXiUdkmHpnMqgL) | [Cuáles i Quiénes](https://open.spotify.com/artist/7nKsmOz9yJIo3w0SAD0qBq) | [Mañana Siempre es Tarde!](https://open.spotify.com/album/1XovlbyG0ylD7ODD3POfMY) | 5:00 | 2022-07-01 | 2022-07-16 |
 | [Sabes](https://open.spotify.com/track/7ldFXJQVQkyE4sYc3YJf4i) | [Los Tristes](https://open.spotify.com/artist/5QFSZNKhWVCHkA0ZlSYrbK) | [Sabes](https://open.spotify.com/album/52antku4m9Xw7CZceClUIg) | 3:35 | 2022-07-01 | 2022-07-21 |

@@ -4,7 +4,7 @@
 
 > Listen Korea's classic & old songs from 70's to 80's\. \(70\-80년대를 수 놓았던 노래들을 즐겨보세요!\)
 
-106 songs - 7 hr 37 min - [published](https://open.spotify.com/playlist/7vtCT9EARyoqRQSxtdctBN)
+110 songs - 7 hr 57 min - [published](https://open.spotify.com/playlist/7vtCT9EARyoqRQSxtdctBN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [내 마음에 비친 내 모습](https://open.spotify.com/track/4w5jHmaPBwNN2Q9rOuYHUC) | [Yoo Jae\-Ha](https://open.spotify.com/artist/2Qrs21XiQMxkddRognIjGC) | [사랑하기 때문에](https://open.spotify.com/album/2Kb78rmvg0suvhVPcjBtlm) | 4:53 | 2021-08-12 |  |
 | [내 마음에 주단을 깔고 Spread Silk On My Heart](https://open.spotify.com/track/4Jp6egGKfX94Mva9fEizTZ) | [Sanullim](https://open.spotify.com/artist/04cr7qH71klBu2x9H7c0Iw) | [제2집 Volume 2](https://open.spotify.com/album/4xmgXry7YcKghRyzDiJv38) | 5:57 | 2021-08-12 |  |
 | [내 사랑 내곁에](https://open.spotify.com/track/3gAxHUsVXzbPIYXdSRcAS4) | [Kim Hyunshik](https://open.spotify.com/artist/5tYHIUOTcoDw6xMUkLEtzv) | [김현식 6집](https://open.spotify.com/album/3gR5zi7mJjPmX54c4BE8UP) | 4:23 | 2021-08-12 | 2022-07-29 |
-| [내 사랑 내곁에](https://open.spotify.com/track/5BKRpouE6rMJiSIa3rlUGu) | [Kim Hyunshik](https://open.spotify.com/artist/5tYHIUOTcoDw6xMUkLEtzv) | [김현식 6집](https://open.spotify.com/album/2p3UEiaV7CfDmdqJ90nm7A) | 4:23 | 2021-08-12 |  |
+| [내 사랑 내곁에](https://open.spotify.com/track/5BKRpouE6rMJiSIa3rlUGu) | [Kim Hyunshik](https://open.spotify.com/artist/5tYHIUOTcoDw6xMUkLEtzv) | [김현식 6집](https://open.spotify.com/album/2p3UEiaV7CfDmdqJ90nm7A) | 4:23 | 2021-08-12 | 2022-11-12 |
+| [내 사랑 내곁에](https://open.spotify.com/track/3gDuKLWDJwL11e8QvFPwXP) | [Kim Hyunshik](https://open.spotify.com/artist/5tYHIUOTcoDw6xMUkLEtzv) | [우리 모두 여기에 5](https://open.spotify.com/album/7LSJZBxyyazs65q6z4RPQ5) | 4:25 | 2021-08-12 |  |
 | [내일](https://open.spotify.com/track/6gcEFFs1w5D2Ud91Qb37u2) | [김수철](https://open.spotify.com/artist/0EmfHeitNJW1MjPBVvy8uR) | [못다핀 꽃한송이](https://open.spotify.com/album/0OG7Sc2UuT3Im3tXeu1UMg) | 3:42 | 2021-08-12 |  |
 | [너무 아픈 사랑은 사랑이 아니었음을](https://open.spotify.com/track/3cWu4jWhiZ3LY27ztZ8nnt) | [Kim Kwang Seok](https://open.spotify.com/artist/0Sr5L3iWPn0k6KnDr8RYS8) | [김광석 4집 리마스터링앨범](https://open.spotify.com/album/4UWnmjUwwm1OcY58BKmREA) | 6:19 | 2021-08-12 | 2022-07-29 |
 | [너무 아픈 사랑은 사랑이 아니었음을](https://open.spotify.com/track/42cwRiFR25LYJG6CCsjWo9) | [Kim Kwang Seok](https://open.spotify.com/artist/0Sr5L3iWPn0k6KnDr8RYS8) | [김광석 4집 리마스터링앨범](https://open.spotify.com/album/1Yk9jrcx4JQpSmyqpvakvV) | 6:19 | 2021-08-12 |  |
@@ -71,7 +72,8 @@
 | [비처럼 음악처럼](https://open.spotify.com/track/6DVq2uRrYyQfChAlsTJ11g) | [Kim Hyunshik](https://open.spotify.com/artist/5tYHIUOTcoDw6xMUkLEtzv) | [김현식 3집](https://open.spotify.com/album/2kdSTc3C8HDnhRYu2U2B1x) | 4:37 | 2021-08-12 | 2022-07-29 |
 | [비처럼 음악처럼](https://open.spotify.com/track/6zMH0UAFuLt4JXVuEUIygG) | [Kim Hyunshik](https://open.spotify.com/artist/5tYHIUOTcoDw6xMUkLEtzv) | [김현식 3집](https://open.spotify.com/album/3Eggr8LCQGMCitwZzzaSbY) | 4:37 | 2021-08-12 | 2022-11-11 |
 | [사랑이 지나가면](https://open.spotify.com/track/1XwAV7ty94aIJgRXP7CETn) | [Lee Moon Sae](https://open.spotify.com/artist/2eVlgLy3Aym09gM3dqx6cq) | [이문세 4집](https://open.spotify.com/album/0otsHhxK7ZdzjsL2roT3VY) | 4:13 | 2021-08-12 | 2022-07-29 |
-| [사랑이 지나가면](https://open.spotify.com/track/4XwtIHrmFuMNwu3c35kh5B) | [Lee Moon Sae](https://open.spotify.com/artist/2eVlgLy3Aym09gM3dqx6cq) | [이문세 4집](https://open.spotify.com/album/031envKZiWUDD9cRdb0ZbX) | 4:13 | 2021-08-12 |  |
+| [사랑이 지나가면](https://open.spotify.com/track/4XwtIHrmFuMNwu3c35kh5B) | [Lee Moon Sae](https://open.spotify.com/artist/2eVlgLy3Aym09gM3dqx6cq) | [이문세 4집](https://open.spotify.com/album/031envKZiWUDD9cRdb0ZbX) | 4:13 | 2021-08-12 | 2022-11-12 |
+| [사랑이 지나가면](https://open.spotify.com/track/3qSDRmurviaPC86bzoAkit) | [Lee Moon Sae](https://open.spotify.com/artist/2eVlgLy3Aym09gM3dqx6cq) | [골든 15](https://open.spotify.com/album/578HBEVIW0fGO7jmOGS3RM) | 4:14 | 2021-08-12 |  |
 | [사랑일기](https://open.spotify.com/track/5NA0wgvnUinGTFdT3p5tnD) | [Towner & Town Chief](https://open.spotify.com/artist/3Qm5uwdUYz6Bz64XOqsiYD) | [푸른 돛](https://open.spotify.com/album/5ka1jbuOzofnAJUs5p02SQ) | 4:30 | 2021-08-12 |  |
 | [사랑하기 때문에](https://open.spotify.com/track/0I9vXVUpijjek2ULH4UUJw) | [Yoo Jae\-Ha](https://open.spotify.com/artist/2Qrs21XiQMxkddRognIjGC) | [사랑하기 때문에](https://open.spotify.com/album/2Kb78rmvg0suvhVPcjBtlm) | 6:20 | 2021-08-12 |  |
 | [사랑했지만](https://open.spotify.com/track/2Wusb5km1CAQRDvmujySNO) | [Kim Kwang Seok](https://open.spotify.com/artist/0Sr5L3iWPn0k6KnDr8RYS8) | [김광석 '나의 노래' BOX SET](https://open.spotify.com/album/3EzFLoUS1nKMqqS5FYhpsD) | 4:27 | 2021-08-12 |  |
@@ -89,7 +91,8 @@
 | [아니 벌써 Already Now](https://open.spotify.com/track/2eEfCqnMimAfOM4bicSemv) | [Sanullim](https://open.spotify.com/artist/04cr7qH71klBu2x9H7c0Iw) | [제1집 Volume 1](https://open.spotify.com/album/6GD1o3r43s94cUMDBB3vVH) | 5:34 | 2021-08-12 |  |
 | [아름다운 강산](https://open.spotify.com/track/2A8dLLThu2LqfhD8SNuGbc) | [Lee Sun Hee](https://open.spotify.com/artist/4ZQVfuvon3XnGYkjTSey1O) | [4집 사랑이 지는 이 자리](https://open.spotify.com/album/29wEhPMsnGjOGfHVpz1hln) | 5:47 | 2021-08-12 |  |
 | [아름다운 강산](https://open.spotify.com/track/1f0a2W5KRLRuKw2g8Qc2OR) | [Shin Joong Hyun](https://open.spotify.com/artist/4cFsZrYUW5rEHhT1IrYXag) | [오리지날 가요 베스트 Vol.3](https://open.spotify.com/album/0f1NbeSXquER4WndPwiCQB) | 6:15 | 2021-08-12 | 2022-07-29 |
-| [아름다운 강산](https://open.spotify.com/track/7qMFMdplBz3ySx7HdOOgDP) | [Shin Joong Hyun](https://open.spotify.com/artist/4cFsZrYUW5rEHhT1IrYXag) | [신중현 골든](https://open.spotify.com/album/0BnsLDVwgsCs1i5rEC0T3G) | 6:16 | 2021-08-12 |  |
+| [아름다운 강산](https://open.spotify.com/track/2PcJyD7fkbfUmmjL7cviOF) | [Shin Joong Hyun](https://open.spotify.com/artist/4cFsZrYUW5rEHhT1IrYXag) | [오리지날 가요 베스트 Vol.3](https://open.spotify.com/album/2TmEaBdiKg26EcCiAvAYao) | 6:15 | 2021-08-12 |  |
+| [아름다운 강산](https://open.spotify.com/track/7qMFMdplBz3ySx7HdOOgDP) | [Shin Joong Hyun](https://open.spotify.com/artist/4cFsZrYUW5rEHhT1IrYXag) | [신중현 골든](https://open.spotify.com/album/0BnsLDVwgsCs1i5rEC0T3G) | 6:16 | 2021-08-12 | 2022-11-12 |
 | [어느 60대 노부부 이야기](https://open.spotify.com/track/42VWQAEE0TlPiQ3wIM00GF) | [Kim Kwang Seok](https://open.spotify.com/artist/0Sr5L3iWPn0k6KnDr8RYS8) | [김광석 '나의 노래' BOX SET \(Remastered\)](https://open.spotify.com/album/3Gc1VEAlKtrlZqVeBUNor9) | 4:27 | 2021-08-12 | 2022-07-29 |
 | [어느 60대 노부부 이야기](https://open.spotify.com/track/68yWj8JpveUGUsZLasK3k0) | [Kim Kwang Seok](https://open.spotify.com/artist/0Sr5L3iWPn0k6KnDr8RYS8) | [김광석 다시 부르기 II](https://open.spotify.com/album/6tpfhrWAd4X5YQCBE2HKUk) | 4:28 | 2021-08-12 |  |
 | [언제나 그대 내곁에](https://open.spotify.com/track/44hldZaxIlzNDZ7VNhKKmC) | [Kim Hyunshik](https://open.spotify.com/artist/5tYHIUOTcoDw6xMUkLEtzv) | [김현식 4집 언제나 그대 내곁에](https://open.spotify.com/album/1YfgZy6iR55PEiFNJzUFgi) | 4:40 | 2021-08-12 | 2022-11-11 |
@@ -112,7 +115,8 @@
 | [카츄사의 노래](https://open.spotify.com/track/1X9Rw7AQdwJoR8q2dPn7ZC) | [은방울자매](https://open.spotify.com/artist/7bSbVUfkQBYgjK0G2Q6cMP) | [히트가요 컬렉션 VOL.2](https://open.spotify.com/album/79iJo6K8XWEF7HNgquDmD7) | 3:11 | 2021-08-12 |  |
 | [카츄사의 노래](https://open.spotify.com/track/7smEXqdnD6oDjbG9zECVDd) | [은방울자매](https://open.spotify.com/artist/7bSbVUfkQBYgjK0G2Q6cMP) | [히트가요 컬렉션 VOL.2](https://open.spotify.com/album/5o6ByXsWmlu1l0FQeFIQPd) | 3:11 | 2021-08-12 | 2022-07-29 |
 | [텅 빈 마음 Empty Heart](https://open.spotify.com/track/4KiYPYpm4ultIp247ftPlI) | [LEE SEUNG HWAN](https://open.spotify.com/artist/6LPV5KZBc1zBjX8AFZ2WWY) | [B.C 603](https://open.spotify.com/album/5NySygZgi6F7cBkjuFTBTa) | 4:09 | 2021-08-12 |  |
+| [흐린 가을 하늘에 편지를 써](https://open.spotify.com/track/2dp6Ebn1FrsTFWD8VlUaGl) | [Kim Kwang Seok](https://open.spotify.com/artist/0Sr5L3iWPn0k6KnDr8RYS8) | [김광석 '나의 노래' BOX SET](https://open.spotify.com/album/3EzFLoUS1nKMqqS5FYhpsD) | 4:44 | 2021-08-12 |  |
 | [흐린 가을 하늘에 편지를 써](https://open.spotify.com/track/6KF4FS8RygWKc3vESndYe1) | [Kim Kwang Seok](https://open.spotify.com/artist/0Sr5L3iWPn0k6KnDr8RYS8) | [김광석 '나의 노래' BOX SET \(Remastered\)](https://open.spotify.com/album/3Gc1VEAlKtrlZqVeBUNor9) | 4:44 | 2021-08-12 | 2022-07-29 |
-| [흐린 가을 하늘에 편지를 써](https://open.spotify.com/track/64cuomBVoSkO27t6hG4RSl) | [Kim Kwang Seok](https://open.spotify.com/artist/0Sr5L3iWPn0k6KnDr8RYS8) | [김광석 다시 부르기 I](https://open.spotify.com/album/6L9IGYuMWrWUMIVm3KFjUw) | 4:44 | 2021-08-12 |  |
+| [흐린 가을 하늘에 편지를 써](https://open.spotify.com/track/64cuomBVoSkO27t6hG4RSl) | [Kim Kwang Seok](https://open.spotify.com/artist/0Sr5L3iWPn0k6KnDr8RYS8) | [김광석 다시 부르기 I](https://open.spotify.com/album/6L9IGYuMWrWUMIVm3KFjUw) | 4:44 | 2021-08-12 | 2022-11-12 |
 
 \*This playlist was first scraped on 2022-04-20. Prior content cannot be recovered.

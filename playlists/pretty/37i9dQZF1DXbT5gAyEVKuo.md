@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 
 > The power of praise lives on LIVE! Get up on your feet and let the spirit move in your heart to these amazing performances.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,173 likes - 49 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,196 likes - 49 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,10 +20,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 | 10 | [Closer/Wrap Me In Your Arms](https://open.spotify.com/track/4ULyiYqodr8cjH1Y9HqudW) | [William McDowell](https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN) | [As We Worship Live](https://open.spotify.com/album/3Ainh78D6AeVHW9TvIbYvT) | 9:08 |
 | 11 | [Brighter Day](https://open.spotify.com/track/1QXhzptk3KMnO8xewGePhu) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Setlist: The Very Best Of Kirk Franklin Live](https://open.spotify.com/album/3pxNJpoQFVi4CBxEQdxTTU) | 5:40 |
 | 12 | [I'll Just Say Yes \- Live](https://open.spotify.com/track/74pDUf3R1hfRTED2ZzZHUZ) | [Brian Courtney Wilson](https://open.spotify.com/artist/5K2BdUwQNqXy70BX2L8BQx) | [Worth Fighting For \(Deluxe Edition/Live\)](https://open.spotify.com/album/2k0sC10qtMISosAn9xgvNe) | 6:59 |
-| 13 | [Total Praise \(with Vision\) \- Live](https://open.spotify.com/track/3eGrTHQnpSE0LRrNrMxMRr) | [Richard Smallwood](https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP), [Vision](https://open.spotify.com/artist/28vGUslhbTPQaqt8pmnK5m) | [Adoration](https://open.spotify.com/album/1wsXZGszbQUTJnfuJABlZp) | 4:59 |
+| 13 | [Work It Out \- Live](https://open.spotify.com/track/1SDaYLQD1C9twbdZYsNcbX) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Work It Out \(Live\)](https://open.spotify.com/album/5fcf47GvauNXh7yGACSXpQ) | 5:20 |
 | 14 | [This Is A Move \- Live](https://open.spotify.com/track/776imhCfnvp9NoIYJ8uj0G) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [This Is A Move \(Live\)](https://open.spotify.com/album/5SH3LZPcZVx5fr6uQ7R2pF) | 7:25 |
 | 15 | [We Fall Down \- Live](https://open.spotify.com/track/1HXzXYbhLDdpFkJyBxEjIF) | [Donnie McClurkin](https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra) | [Live in London and More ..](https://open.spotify.com/album/6A55aHMWgoZgzjLfsTJU6v) | 4:53 |
-| 16 | [Work It Out \- Live](https://open.spotify.com/track/1SDaYLQD1C9twbdZYsNcbX) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Work It Out \(Live\)](https://open.spotify.com/album/5fcf47GvauNXh7yGACSXpQ) | 5:20 |
+| 16 | [Total Praise \(with Vision\) \- Live](https://open.spotify.com/track/3eGrTHQnpSE0LRrNrMxMRr) | [Richard Smallwood](https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP), [Vision](https://open.spotify.com/artist/28vGUslhbTPQaqt8pmnK5m) | [Adoration](https://open.spotify.com/album/1wsXZGszbQUTJnfuJABlZp) | 4:59 |
 | 17 | [Miracle Worker \(feat\. Rich Tolbert Jr.\) \- Live](https://open.spotify.com/track/5ygojrfeLjr7BHp6nGh0XS) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0), [Rich Tolbert Jr.](https://open.spotify.com/artist/4fwBB2MOFR0Yr5KmnQURfb) | [Miracle Worker \(Live\)](https://open.spotify.com/album/0yi1ON4T3WTFh2zT80DxNw) | 6:42 |
 | 18 | [It's Yours](https://open.spotify.com/track/0xYwbNvw4TburjOJYs0GpQ) | [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [One Nation Under God](https://open.spotify.com/album/3fdcELLJcdrGFL2VJQu6VP) | 6:58 |
 | 19 | [In Spite Of Me \- Live](https://open.spotify.com/track/5JTcaitH5HSzkqFG4nX7Dk) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Royalty: Live At The Ryman](https://open.spotify.com/album/66hDxNOJJd54OLzt79Uvef) | 8:26 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 | 48 | [He Always Wins \(feat\. Erica Campbell & 1K Phew\) \- Live](https://open.spotify.com/track/6qU9oq8DIy11V5ILcAkii2) | [Anthony Brown & group therAPy](https://open.spotify.com/artist/4sgW8IRub0jAU29ecct87w), [Erica Campbell](https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp), [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl) | [He Always Wins \(feat\. Erica Campbell & 1K Phew\) \[Live\]](https://open.spotify.com/album/3FrRXhBBSF97k0leyU4fGO) | 7:02 |
 | 49 | [It's Not Over](https://open.spotify.com/track/4HY5Tyq3E7c7LlfSPUItRf) | [Karen Clark Sheard](https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1) | [The Best Of Gospel Superfest \(Live\)](https://open.spotify.com/album/7zXF8rjj6tDybn7aavDm6N) | 6:19 |
 
-Snapshot ID: `MTYyMzQ3MDc1NCwwMDAwMDAwMDIyZjQ4ODlhN2VlOWNlM2Y1MGRiZTI5YmE2M2Q0NTY5`
+Snapshot ID: `MTYyMzQ3MDc1NCwwMDAwMDAwMDQyOGViNmJiYjNiM2NmOWI5ZDFjMzM0ZWYzNGIzNDAy`

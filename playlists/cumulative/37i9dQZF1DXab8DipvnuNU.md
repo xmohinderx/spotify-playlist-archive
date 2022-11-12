@@ -4,7 +4,7 @@
 
 > Essential tunes for time with the family.
 
-78 songs - 6 hr 16 min - [published](https://open.spotify.com/playlist/0dYNpHRtzFloB9ZnDfgiL9)
+80 songs - 6 hr 26 min - [published](https://open.spotify.com/playlist/0dYNpHRtzFloB9ZnDfgiL9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [All Night Long](https://open.spotify.com/track/7iyjZ4paFWpTrJJenM0yZb) | [Mary Jane Girls](https://open.spotify.com/artist/7vRMMs8yrKf4PKUpUllMkr) | [In My House](https://open.spotify.com/album/4W5tAjZ4fF60N6a2v8EWnF) | 5:43 | 2021-07-01 |  |
 | [Angles \(feat\. Chris Brown\)](https://open.spotify.com/track/1rdTdOTRfGXjQ9Auwn1gzx) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Angles \(feat\. Chris Brown\)](https://open.spotify.com/album/1j97eqxFc3mF43hZ60NmnS) | 3:28 | 2021-07-01 |  |
 | [Around The Way Girl](https://open.spotify.com/track/6jL1SnyXcXiKOmw4M2RnmT) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [Mama Said Knock You Out](https://open.spotify.com/album/6dfYmbgWeJCgqJhnR4TfKb) | 4:08 | 2021-07-01 |  |
-| [Before I Let Go](https://open.spotify.com/track/6e9xnBJPs0y9omrSU3C3N4) | [Maze](https://open.spotify.com/artist/3DvdryKH4O95ZnsUZJKXpt), [Frankie Beverly](https://open.spotify.com/artist/6rXycobs8wkWicUGLtmB0n) | [Great R&B](https://open.spotify.com/album/0ToSKqQnHTBeIVybrONR8V) | 3:56 | 2021-07-01 |  |
+| [Before I Let Go](https://open.spotify.com/track/6WUSbDYeGsieoWyEpfgRAF) | [Maze](https://open.spotify.com/artist/3DvdryKH4O95ZnsUZJKXpt) | [Essence Music Festival, Vol\. 1: Songs From Our Triumphant Return to New Orleans](https://open.spotify.com/album/5Mz1QHTcG5xMha6mvcPkjz) | 3:55 | 2021-07-01 |  |
+| [Before I Let Go](https://open.spotify.com/track/6e9xnBJPs0y9omrSU3C3N4) | [Maze](https://open.spotify.com/artist/3DvdryKH4O95ZnsUZJKXpt), [Frankie Beverly](https://open.spotify.com/artist/6rXycobs8wkWicUGLtmB0n) | [Great R&B](https://open.spotify.com/album/0ToSKqQnHTBeIVybrONR8V) | 3:56 | 2021-07-01 | 2022-11-12 |
 | [Before I Let Go \- Edit/Remastered](https://open.spotify.com/track/5Cz3z2cS7vOafvQHgxbOjn) | [Maze](https://open.spotify.com/artist/3DvdryKH4O95ZnsUZJKXpt), [Frankie Beverly](https://open.spotify.com/artist/6rXycobs8wkWicUGLtmB0n) | [Greatest Hits: 35 Years Of Soul](https://open.spotify.com/album/3qQtlOHTQpAaHZoEkPS7pe) | 3:54 | 2021-07-01 | 2022-07-29 |
 | [Before I Let Go \- Homecoming Live Bonus Track](https://open.spotify.com/track/7LikBkHerFGZ58QHVOKp1t) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [HOMECOMING: THE LIVE ALBUM](https://open.spotify.com/album/35S1JCj5paIfElT2GODl6x) | 4:00 | 2021-07-01 |  |
 | [Bustin' Loose](https://open.spotify.com/track/2iXA7lqR3Ne3Enkcl1YDWO) | [Chuck Brown and the Soul Searchers](https://open.spotify.com/artist/1Y3CPuN46EPIT3wCTDzPZu) | [The Best of Chuck Brown](https://open.spotify.com/album/2GMvrVJXmEzu6SoDJKMNdg) | 7:41 | 2021-07-01 | 2022-07-29 |
@@ -74,8 +75,9 @@
 | [Shoop](https://open.spotify.com/track/4kmdGkuOADvkkzZihupF5J) | [Salt\-N\-Pepa](https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ) | [ICON](https://open.spotify.com/album/7zfonpZL5ifWI7OforkczO) | 4:06 | 2021-07-01 |  |
 | [Shoop](https://open.spotify.com/track/2c7H254xlKoGhmZT194C0T) | [Salt\-N\-Pepa](https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ) | [The Best Of Salt\-N\-Pepa 20th Century Masters The Millennium Collection](https://open.spotify.com/album/0UIuHgtBvcHduPDZSweVMi) | 4:07 | 2021-07-01 | 2022-07-29 |
 | [Shoop](https://open.spotify.com/track/0Pu71wxadDlB8fJXfjIjeJ) | [Salt\-N\-Pepa](https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ) | [Very Necessary](https://open.spotify.com/album/2W2EmEpud13QHlhCFS9P8g) | 4:08 | 2021-07-01 | 2022-11-11 |
-| [Square Biz](https://open.spotify.com/track/52bz3fOCyr6GgkJQsLK9PM) | [Teena Marie](https://open.spotify.com/artist/61UT1Zj9dFgPAjZfwnsqsb) | [Best Of/20th Century](https://open.spotify.com/album/0kCD8uT94URPZcr2vZOhW7) | 6:23 | 2021-07-01 |  |
+| [Square Biz](https://open.spotify.com/track/52bz3fOCyr6GgkJQsLK9PM) | [Teena Marie](https://open.spotify.com/artist/61UT1Zj9dFgPAjZfwnsqsb) | [Best Of/20th Century](https://open.spotify.com/album/0kCD8uT94URPZcr2vZOhW7) | 6:23 | 2021-07-01 | 2022-11-12 |
 | [Square Biz](https://open.spotify.com/track/5lAH3vLN4Gc3jDM25cMIgH) | [Teena Marie](https://open.spotify.com/artist/61UT1Zj9dFgPAjZfwnsqsb) | [20th Century Masters: The Millennium Collection: Best of Teena Marie](https://open.spotify.com/album/7rBP3Z4FX95gFPTXgs4MMo) | 6:25 | 2021-07-01 | 2022-07-29 |
+| [Square Biz](https://open.spotify.com/track/3k168scjk05AuB67bGXkJg) | [Teena Marie](https://open.spotify.com/artist/61UT1Zj9dFgPAjZfwnsqsb) | [Motown Queens](https://open.spotify.com/album/0g4hcfMoBKXPmMvNCHtlTC) | 6:27 | 2021-07-01 |  |
 | [Stomp \(Remix\)](https://open.spotify.com/track/27QTBSG6yn9Brmkvf4vPK6) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [God's Property from Kirk Franklin's Nu Nation](https://open.spotify.com/album/2MCmQvsAE0S5UYI413OC1E) | 5:05 | 2021-07-01 |  |
 | [Summer Breeze, Pts\. 1 & 2](https://open.spotify.com/track/7wcP2Aa2SliFhwi4SyfvfV) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [3+3](https://open.spotify.com/album/27eI33obJuyKebMTxAJJam) | 6:11 | 2021-07-01 |  |
 | [Summer Madness](https://open.spotify.com/track/2uMqG8w8oi09fB2YA2QLOm) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Light Of Worlds](https://open.spotify.com/album/46kA6zL7Cga656urk1nJNo) | 4:17 | 2021-07-01 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVleyMkaelTd.md) - [plain]
 
 > Soundtrack your cozy dinner with bossa nova jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,102 likes - 101 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,262 likes - 101 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,15 +53,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVleyMkaelTd.md) - [plain]
 | 43 | [Serenidad](https://open.spotify.com/track/1AFomBCec7hQLhPhgouIpQ) | [Emma dos Santos](https://open.spotify.com/artist/5BCrXE0QF0mUKYmQTk43gp) | [Serenidad](https://open.spotify.com/album/7aVycit4E2ZeTlVXU9J2xz) | 2:51 |
 | 44 | [Lembranças](https://open.spotify.com/track/4eGXFQEQGGxgYy6OFabfJV) | [Vitor José Fonseca](https://open.spotify.com/artist/4lmPgpLRyJHPseygyVBGTu) | [Lembranças](https://open.spotify.com/album/1uPZt0rwu5GK8wA9Qji4tW) | 4:04 |
 | 45 | [Arrow](https://open.spotify.com/track/0uVEYY44hSFpA7czgNooR9) | [Ennio Máno](https://open.spotify.com/artist/257NeKIWsdypZxr0j4xnOs) | [Sombre](https://open.spotify.com/album/4j8NxXtdsYzudnOzeEQwxm) | 3:33 |
-| 46 | [Light Dance](https://open.spotify.com/track/7wHsraPGARpUvcRW8holDn) | [Ennio Máno](https://open.spotify.com/artist/257NeKIWsdypZxr0j4xnOs) | [Light Dance](https://open.spotify.com/album/0M1TSMQxxvXzHdH4ZtgLkZ) | 3:39 |
-| 47 | [Búzios](https://open.spotify.com/track/0UvJGzL2FdEu5Mh37HtQrP) | [C\. Moreira](https://open.spotify.com/artist/3k0cZx5vqDLFwJFYJwbD02) | [Praia à noite](https://open.spotify.com/album/2qGrmHUuZHRkayn9YdZxH7) | 4:44 |
-| 48 | [Wave](https://open.spotify.com/track/36kfJw6wpEm34AcTrOQqpn) | [Quarteto ilha grande](https://open.spotify.com/artist/4FUgUq2s87clLndwIIqcO3) | [Once I Loved](https://open.spotify.com/album/4FX2RCNuuxdLzMiN1CtOxi) | 5:11 |
-| 49 | [Pôr Do Sol Perfeito](https://open.spotify.com/track/3dwbmNoBG2cGFeOtVtPJ8H) | [Jeferson Rios](https://open.spotify.com/artist/4PswPp5S57DQ5RJ39Y5Fj6) | [O Sabor Mais Doce](https://open.spotify.com/album/1sdxkpmLhPsz8JI1dunCFo) | 3:27 |
-| 50 | [Song for My Father](https://open.spotify.com/track/6m4SAo4N6YGD5JJCLFoPDU) | [Sydney Taylor Band](https://open.spotify.com/artist/2M3GH9JFk7Z62j2XarUJ1g) | [Killer Joe](https://open.spotify.com/album/27bI53AGLeovNbXmBzUnN2) | 3:42 |
-| 51 | [Ceora](https://open.spotify.com/track/44PaZQ3GpcmSaxyaxXmSM9) | [Soho Quartet](https://open.spotify.com/artist/3aTm2ir7MmRflowueIXZqA) | [Moontrane](https://open.spotify.com/album/33qv9JCJspR9SXs9nUqClp) | 2:26 |
-| 52 | [Triste](https://open.spotify.com/track/6PNnw3AFDCwNV6uDcNjnQ4) | [da Suécia](https://open.spotify.com/artist/4oOtPyWe8TK5mn4gKJDNse) | [Triste](https://open.spotify.com/album/1cWLEhykpxcgb1QABboKt1) | 3:12 |
-| 53 | [Bela Moça](https://open.spotify.com/track/1UR5ufGKOhG6sUpcTcsXB6) | [Davide Sosa](https://open.spotify.com/artist/6h3NI13Spsuh4zJEuDjeY4) | [Insônia](https://open.spotify.com/album/6HI3NhU2eJR1Ca1M5LEVPZ) | 3:16 |
-| 54 | [Drive\-Through Dinner](https://open.spotify.com/track/6xUyKTOx2LBGTlWz6Ndlvs) | [Magnus Ringblom](https://open.spotify.com/artist/01s2QB29sjjLunqBoPfgGb) | [Blue Night Bossa](https://open.spotify.com/album/6XmwjVSryg17GrpHl5eVx7) | 3:24 |
+| 46 | [Búzios](https://open.spotify.com/track/0UvJGzL2FdEu5Mh37HtQrP) | [C\. Moreira](https://open.spotify.com/artist/3k0cZx5vqDLFwJFYJwbD02) | [Praia à noite](https://open.spotify.com/album/2qGrmHUuZHRkayn9YdZxH7) | 4:44 |
+| 47 | [Wave](https://open.spotify.com/track/36kfJw6wpEm34AcTrOQqpn) | [Quarteto ilha grande](https://open.spotify.com/artist/4FUgUq2s87clLndwIIqcO3) | [Once I Loved](https://open.spotify.com/album/4FX2RCNuuxdLzMiN1CtOxi) | 5:11 |
+| 48 | [Pôr Do Sol Perfeito](https://open.spotify.com/track/3dwbmNoBG2cGFeOtVtPJ8H) | [Jeferson Rios](https://open.spotify.com/artist/4PswPp5S57DQ5RJ39Y5Fj6) | [O Sabor Mais Doce](https://open.spotify.com/album/1sdxkpmLhPsz8JI1dunCFo) | 3:27 |
+| 49 | [Song for My Father](https://open.spotify.com/track/6m4SAo4N6YGD5JJCLFoPDU) | [Sydney Taylor Band](https://open.spotify.com/artist/2M3GH9JFk7Z62j2XarUJ1g) | [Killer Joe](https://open.spotify.com/album/27bI53AGLeovNbXmBzUnN2) | 3:42 |
+| 50 | [Ceora](https://open.spotify.com/track/44PaZQ3GpcmSaxyaxXmSM9) | [Soho Quartet](https://open.spotify.com/artist/3aTm2ir7MmRflowueIXZqA) | [Moontrane](https://open.spotify.com/album/33qv9JCJspR9SXs9nUqClp) | 2:26 |
+| 51 | [Triste](https://open.spotify.com/track/6PNnw3AFDCwNV6uDcNjnQ4) | [da Suécia](https://open.spotify.com/artist/4oOtPyWe8TK5mn4gKJDNse) | [Triste](https://open.spotify.com/album/1cWLEhykpxcgb1QABboKt1) | 3:12 |
+| 52 | [Bela Moça](https://open.spotify.com/track/1UR5ufGKOhG6sUpcTcsXB6) | [Davide Sosa](https://open.spotify.com/artist/6h3NI13Spsuh4zJEuDjeY4) | [Insônia](https://open.spotify.com/album/6HI3NhU2eJR1Ca1M5LEVPZ) | 3:16 |
+| 53 | [Drive\-Through Dinner](https://open.spotify.com/track/6xUyKTOx2LBGTlWz6Ndlvs) | [Magnus Ringblom](https://open.spotify.com/artist/01s2QB29sjjLunqBoPfgGb) | [Blue Night Bossa](https://open.spotify.com/album/6XmwjVSryg17GrpHl5eVx7) | 3:24 |
+| 54 | [Light Dance](https://open.spotify.com/track/7wHsraPGARpUvcRW8holDn) | [Ennio Máno](https://open.spotify.com/artist/257NeKIWsdypZxr0j4xnOs) | [Light Dance](https://open.spotify.com/album/0M1TSMQxxvXzHdH4ZtgLkZ) | 3:39 |
 | 55 | [Falando de Amor](https://open.spotify.com/track/1JeTY5hPf1lTIVWPWkJXQe) | [Rosa Collins](https://open.spotify.com/artist/3ODYl7kPOjcfxnnjHz2zLe) | [Falando de Amor](https://open.spotify.com/album/4se4CC3WUJQfipHtTYg63y) | 4:16 |
 | 56 | [Cascata](https://open.spotify.com/track/38QZjaaJwTLwEpSjF5nVXY) | [Paulo Lucas](https://open.spotify.com/artist/6ojxO4yKau2YGdnIZOBwzV) | [Samba Rio](https://open.spotify.com/album/4hivZfrUKVeLoNMKDTGfoG) | 3:40 |
 | 57 | [Outra Vez](https://open.spotify.com/track/7ukeAw6TwDl3dZAnv57Irp) | [Adriana Arias](https://open.spotify.com/artist/2GhgatL5H573yU98hb14OK) | [Outra Vez](https://open.spotify.com/album/3PQfcnc1ZdNn7eTGTizZ2B) | 2:17 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVleyMkaelTd.md) - [plain]
 | 100 | [Bésame Mucho](https://open.spotify.com/track/7Kh9w5XOJqykS2IpTdZC8X) | [Cristiana Cunha](https://open.spotify.com/artist/3W5iyQ6JGJHqSgNtq86GrT) | [Bésame Mucho](https://open.spotify.com/album/0XpWh98WxM7rtw67TfHh38) | 3:26 |
 | 101 | [Só Tinha de Ser com Você](https://open.spotify.com/track/5KrmPhZXWsrn1xVey30806) | [Joao Silva Oliveira](https://open.spotify.com/artist/2H9tPIniwpdz9EvKYvRKFq) | [Só Tinha de Ser com Você](https://open.spotify.com/album/7nUM7a3z2pGH5pII2MEy8n) | 3:58 |
 
-Snapshot ID: `MTY2Nzk4NjYxNCwwMDAwMDAwMGM0OTc2YzJhOGFhZTYwNTlhOTQxM2M4ZjM4Y2U0ZGM3`
+Snapshot ID: `MTY2ODE3MTEyNywwMDAwMDAwMDFkYjM1ZjI3YzQzOTQ0Y2MwMjY4OTdjOGUzN2QzNGMy`

@@ -4,7 +4,7 @@
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/akademiks/">DJ Akademiks</a>
 
-51 songs - 2 hr 44 min - [published](https://open.spotify.com/playlist/60sBZKdSV24vK9LIntjawF)
+52 songs - 2 hr 48 min - [published](https://open.spotify.com/playlist/60sBZKdSV24vK9LIntjawF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,8 @@
 | [Off The Grid](https://open.spotify.com/track/6LNoArVBBVZzUTUiAX2aKO) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz) | 5:39 | 2022-10-01 | 2022-11-11 |
 | [Off The Map](https://open.spotify.com/track/6GNG0YQixWuLE0M5FtrRxY) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby) | [After Me](https://open.spotify.com/album/3cDBVusNMPK33eaTIE5QQg) | 2:21 | 2022-10-01 |  |
 | [Off\-White \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/6WSypNUxnt7YYXQ9iUGRR7) | [NGeeYL](https://open.spotify.com/artist/5Z9mvkWNEpiKVQ36xVkMfe), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Off\-White \(feat\. Lil Uzi Vert\)](https://open.spotify.com/album/1mQayAKgsYORLTbpvXdI5T) | 2:44 | 2022-10-01 |  |
-| [Ok Ok pt 2](https://open.spotify.com/track/5ad5uryyzVWs95bK3myGkw) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz) | 3:24 | 2022-10-01 |  |
+| [Ok Ok](https://open.spotify.com/track/4nqw8c0IQJu5rEo2529ymO) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda \(Deluxe\)](https://open.spotify.com/album/2Wiyo7LzdeBCsVZiRA6vVZ) | 3:24 | 2022-10-01 |  |
+| [Ok Ok pt 2](https://open.spotify.com/track/5ad5uryyzVWs95bK3myGkw) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz) | 3:24 | 2022-10-01 | 2022-11-12 |
 | [On Go \(feat\. Polo G\)](https://open.spotify.com/track/3Ho13bRS28xEvGvgW4LOFM) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [On Go \(feat\. Polo G\)](https://open.spotify.com/album/5d1WnOlcSun3ghG0H3dV7z) | 3:00 | 2022-10-01 |  |
 | [Outside \(Better Days\)](https://open.spotify.com/track/2AJvoUXSml9cDzQdsk1pEG) | [MO3](https://open.spotify.com/artist/44JEJiBvti7NiEhAfzWstv), [Og Bobby Billions](https://open.spotify.com/artist/6bS1ddLkqrK5Jl6GyKK4j2) | [Outside \(Better Days\)](https://open.spotify.com/album/3EeayWYuFnQuR49Euu1gjI) | 3:35 | 2022-10-01 |  |
 | [Over The Top \(feat\. Drake\)](https://open.spotify.com/track/3yaYgjEFkRw3PVjW9mV1TO) | [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Over The Top \(feat\. Drake\)](https://open.spotify.com/album/4ROMS3rcR9JepxAtDRpvc5) | 2:33 | 2022-10-01 |  |

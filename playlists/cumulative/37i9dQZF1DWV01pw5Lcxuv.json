@@ -318,6 +318,24 @@
     },
     {
       "album": {
+        "name": "Me Siento Tan Sola",
+        "url": "https://open.spotify.com/album/2KmUjMOR518g6yHp1TqpyG"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215640,
+      "name": "Con los Ojos Cerrados",
+      "url": "https://open.spotify.com/track/2YTKyc2ZppRHWTSI1Bf2Iz"
+    },
+    {
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/5wkQo9u8qrKOdfGqoizWPo"
       },
@@ -769,7 +787,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 225410,
       "name": "Fotografia",
       "url": "https://open.spotify.com/track/2ZZNEhPfLbc4sxhDwUwyk3"
@@ -949,7 +967,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 231560,
       "name": "Holiday",
       "url": "https://open.spotify.com/track/3ibAzRj9JnowdoLkyllk3n"
@@ -1021,7 +1039,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 198773,
       "name": "I Want To Break Free - Remastered 2011",
       "url": "https://open.spotify.com/track/6NAEpcvbmNdT0cWP3LFDcY"
@@ -1507,7 +1525,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 230213,
       "name": "Paso La Vida Pensando",
       "url": "https://open.spotify.com/track/47pC0Npm3kOILDrOuLU37A"
@@ -2009,7 +2027,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 253800,
       "name": "Video Killed The Radio Star",
       "url": "https://open.spotify.com/track/6t1FIJlZWTQfIZhsGjaulM"

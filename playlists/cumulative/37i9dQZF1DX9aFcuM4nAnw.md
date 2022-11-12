@@ -4,7 +4,7 @@
 
 > Immerse deeper into obscure alternate dimensions..\. 🦇🔮
 
-111 songs - 9 hr 24 min - [published](https://open.spotify.com/playlist/35JGd7xkZ4aXiacB1Wn3xh)
+112 songs - 9 hr 28 min - [published](https://open.spotify.com/playlist/35JGd7xkZ4aXiacB1Wn3xh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,8 +71,9 @@
 | [Lone Driver](https://open.spotify.com/track/7xsLiXMWiLrV5mcogcQp2J) | [MonoSix](https://open.spotify.com/artist/11ADiebojWtI5VDayDKhRW), [Ankh Wave](https://open.spotify.com/artist/3qFz7nPxtOKGsOs6Tx8msI) | [Lone Driver](https://open.spotify.com/album/6DjqLLCF5ykP7HOD9YBZgu) | 4:09 | 2022-07-06 | 2022-07-28 |
 | [Loneliness](https://open.spotify.com/track/2ttcbHh6jc3fil4h9BIs7A) | [New Risen Throne](https://open.spotify.com/artist/2PBztP9oVOgzWXiIrXONKi) | [Loneliness of Hidden Structures](https://open.spotify.com/album/5zmFF4XK5jiz9i8yNvMyiS) | 9:14 | 2022-07-06 |  |
 | [Mannequin Metric](https://open.spotify.com/track/2B32tq6y3LxOnV9OkCZLOe) | [Cavern of Anti\-Matter](https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt) | [In Fabric OST](https://open.spotify.com/album/17kJIlUTdZBateK6SysxZ1) | 4:14 | 2022-07-06 |  |
+| [Melancholia I](https://open.spotify.com/track/6GsXMqsYc6lpo6Ay0aeOMs) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [Coming Home by Pantha du Prince](https://open.spotify.com/album/43kzl72U8vM6i4t400YoJ2) | 3:22 | 2022-07-06 |  |
 | [Melancholia I](https://open.spotify.com/track/4358hwCWqusiLUmQth8Fi3) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [Melancholia](https://open.spotify.com/album/2mDwgIyil7jUI192RqJ1Lm) | 3:25 | 2022-07-06 | 2022-07-29 |
-| [Melancholia I](https://open.spotify.com/track/6mO6BqqwxzdzofedxrixBA) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [Melancholia](https://open.spotify.com/album/40PGXFDDAcsyKVFA3IcN4q) | 3:25 | 2022-07-06 |  |
+| [Melancholia I](https://open.spotify.com/track/6mO6BqqwxzdzofedxrixBA) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [Melancholia](https://open.spotify.com/album/40PGXFDDAcsyKVFA3IcN4q) | 3:25 | 2022-07-06 | 2022-11-12 |
 | [Melancholia II](https://open.spotify.com/track/0ALo5LHdF3hJiD8WFN770B) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [Melancholia](https://open.spotify.com/album/40PGXFDDAcsyKVFA3IcN4q) | 6:50 | 2022-07-06 |  |
 | [Melancholia II](https://open.spotify.com/track/2UZXQrEi0A8ySbDuyeuMt3) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [Melancholia](https://open.spotify.com/album/2mDwgIyil7jUI192RqJ1Lm) | 6:50 | 2022-07-06 | 2022-07-29 |
 | [Mogadon Coffee Morning](https://open.spotify.com/track/4qM00ki1r0Y94lqUkuedia) | [The Advisory Circle](https://open.spotify.com/artist/6W0YlZ9EupJ8kSsW97KG6S) | [Other Channels](https://open.spotify.com/album/5e8pjxQuuRyMf6FjjaQT3D) | 2:56 | 2022-07-06 |  |

@@ -4,7 +4,7 @@
 
 > Enjoy music from "NARUTO" series! / 音楽で辿る「NARUTO \-ナルト\-」シリーズの世界。<br/>©岸本斉史 スコット／集英社・テレビ東京・ぴえろ
 
-149 songs - 9 hr 48 min - [published](https://open.spotify.com/playlist/34zjMk59cqmuykb2g015hQ)
+154 songs - 10 hr 7 min - [published](https://open.spotify.com/playlist/34zjMk59cqmuykb2g015hQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,8 @@
 | [Broken Youth](https://open.spotify.com/track/2pjRFU0akiTgVCAkHVPCPV) | [NICO Touches the Walls](https://open.spotify.com/artist/16FpDRuy5xMHpuLYZV0Hkt) | [Broken Youth](https://open.spotify.com/album/0BgYclVGeCMvf9xWwXO3jQ) | 4:54 | 2021-10-04 |  |
 | [CLOSER](https://open.spotify.com/track/1e7E8dOJJPw2Y5krfkft71) | [Joe Inoue](https://open.spotify.com/artist/04q6GxPQU1OTqHGrUxeufd) | [CLOSER](https://open.spotify.com/album/3wmVPZ0DNAAMaq9BjQSjAL) | 3:28 | 2021-10-04 | 2022-07-29 |
 | [CLOSER](https://open.spotify.com/track/2Kld61w2NR7zPPXtaHeIii) | [Joe Inoue](https://open.spotify.com/artist/04q6GxPQU1OTqHGrUxeufd) | [CLOSER](https://open.spotify.com/album/6S6fn5MUmZdzlKrrdr2XcB) | 3:28 | 2021-10-04 |  |
-| [distance](https://open.spotify.com/track/17zGkwutNrdgAAfC61QLWF) | [Long Shot Party](https://open.spotify.com/artist/3JdNagrq4kPXQ3Coj6INjp) | [LONG SHOT PARTY](https://open.spotify.com/album/6LxMGTkHBLhdzgtN3oHJu2) | 3:07 | 2021-10-04 |  |
+| [distance](https://open.spotify.com/track/51GkuUEVKb17ctG5d6JYfI) | [Long Shot Party](https://open.spotify.com/artist/3JdNagrq4kPXQ3Coj6INjp) | [distance](https://open.spotify.com/album/6BggWKw3P610cfEvYfyWue) | 3:07 | 2021-10-04 |  |
+| [distance](https://open.spotify.com/track/17zGkwutNrdgAAfC61QLWF) | [Long Shot Party](https://open.spotify.com/artist/3JdNagrq4kPXQ3Coj6INjp) | [LONG SHOT PARTY](https://open.spotify.com/album/6LxMGTkHBLhdzgtN3oHJu2) | 3:07 | 2021-10-04 | 2022-11-12 |
 | [distance](https://open.spotify.com/track/7rx3LZul0v0qUlzfsOrWfU) | [Long Shot Party](https://open.spotify.com/artist/3JdNagrq4kPXQ3Coj6INjp) | [LONG SHOT PARTY](https://open.spotify.com/album/01yAW82JL7XNc7xpwstcKS) | 3:07 | 2021-10-04 | 2022-07-29 |
 | [Diver](https://open.spotify.com/track/3PcKYVcZNSsLqI1xzXV5Aq) | [NICO Touches the Walls](https://open.spotify.com/artist/16FpDRuy5xMHpuLYZV0Hkt) | [PASSENGER](https://open.spotify.com/album/2spjC5MxYOSbVC4sg19dTk) | 4:08 | 2021-10-04 | 2022-11-11 |
 | [Diver](https://open.spotify.com/track/7x0fMadka2HamhfLER14bN) | [NICO Touches the Walls](https://open.spotify.com/artist/16FpDRuy5xMHpuLYZV0Hkt) | [PASSENGER](https://open.spotify.com/album/4yCKMos9V6PoE7yqeMijkZ) | 4:08 | 2021-10-04 | 2022-07-29 |
@@ -96,8 +97,10 @@
 | [ピノキオ](https://open.spotify.com/track/7dDY3F4eAXs6Rp0olRzBN0) | [ORESKABAND](https://open.spotify.com/artist/56OQWVhAWYw1yRxD0R2HSR) | [WAO!!](https://open.spotify.com/album/0dyEtIksUU6PYFBsttExjk) | 2:19 | 2021-10-04 |  |
 | [ブラックナイトタウン](https://open.spotify.com/track/61xQj6eNjY8PnOVyueG4y5) | [Akihisa Kondo](https://open.spotify.com/artist/10AL5EKCNWyno8ugb8EG6w) | [ブラックナイトタウン](https://open.spotify.com/album/1Y0hpznWIb3qPnazFTWMEh) | 3:11 | 2021-10-04 |  |
 | [ブラッドサーキュレーター](https://open.spotify.com/track/1XXMOdwLSWwKlrm28AGp9K) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [BEST HIT AKG 2 \(2012\-2018\)](https://open.spotify.com/album/5xq9yBiaBQ7FWcUgtGzt0P) | 3:42 | 2021-10-04 | 2022-07-29 |
-| [ブラッドサーキュレーター](https://open.spotify.com/track/2sFBiCSUNc3ptKrCR8JABx) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [BEST HIT AKG 2 \(2012\-2018\)](https://open.spotify.com/album/1z1fiHGAKZmCXcZCRH1fma) | 3:42 | 2021-10-04 |  |
-| [ブルーバード](https://open.spotify.com/track/2XpV9sHBexcNrz0Gyf3l18) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [Chou Ikimonobakari Tennen Kinen Members Best Selection](https://open.spotify.com/album/6CM8A3Uhws8mAcNOxpBRNq) | 3:35 | 2021-10-04 |  |
+| [ブラッドサーキュレーター](https://open.spotify.com/track/2sFBiCSUNc3ptKrCR8JABx) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [BEST HIT AKG 2 \(2012\-2018\)](https://open.spotify.com/album/1z1fiHGAKZmCXcZCRH1fma) | 3:42 | 2021-10-04 | 2022-11-12 |
+| [ブラッドサーキュレーター](https://open.spotify.com/track/4ubg5I8l75BPuAffKFcRxX) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [ブラッドサーキュレーター](https://open.spotify.com/album/65Fx2KLDsAUCQ8Yq009qwD) | 3:43 | 2021-10-04 |  |
+| [ブルーバード](https://open.spotify.com/track/2XpV9sHBexcNrz0Gyf3l18) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [Chou Ikimonobakari Tennen Kinen Members Best Selection](https://open.spotify.com/album/6CM8A3Uhws8mAcNOxpBRNq) | 3:35 | 2021-10-04 | 2022-11-12 |
+| [ブルーバード](https://open.spotify.com/track/5XKMGlkK6Rvro9sinQpxxZ) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [いきものばかり〜メンバーズBESTセレクション〜](https://open.spotify.com/album/4cmwCfGQ5SMNJnEL4dKB2B) | 3:35 | 2021-10-04 |  |
 | [ブルーバード](https://open.spotify.com/track/7LY0Mdsj2esWkuO98LEAPl) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [My song Your song](https://open.spotify.com/album/2AOTzestyJAx9xheLCrGnm) | 3:38 | 2021-10-04 | 2022-07-29 |
 | [プリミティヴ・パワー](https://open.spotify.com/track/0AheXcpGrZ87YrnkyU7Tav) | [7!!](https://open.spotify.com/artist/3rJbSZv98yyWLNOvD6MsAV) | [ラヴァーズ](https://open.spotify.com/album/4tG3LqrNEgobkOqBxZOfmd) | 3:38 | 2021-10-04 |  |
 | [ホタルノヒカリ](https://open.spotify.com/track/7AffKWcNn5Zv7QFgScW2ox) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [ハジマリノウタ](https://open.spotify.com/album/4oBB0RXPFxpfgeIeFalAbx) | 4:04 | 2021-10-04 | 2022-11-11 |
@@ -120,12 +123,14 @@
 | [悲しみをやさしさに](https://open.spotify.com/track/3bNoiCd5xzjUd5jO5dQtnQ) | [Little by Little](https://open.spotify.com/artist/3zQx1Fk2lTUkSIdsL4oaxP) | [Sweet Noodle Pop](https://open.spotify.com/album/59UMkq0ZamcYgnYisMaD20) | 4:02 | 2021-10-04 | 2022-07-29 |
 | [悲しみをやさしさに](https://open.spotify.com/track/4fKjIzm80Rpf4EUAt96hW2) | [Little by Little](https://open.spotify.com/artist/3zQx1Fk2lTUkSIdsL4oaxP) | [Sweet Noodle Pop](https://open.spotify.com/album/1x5VbOwCWOBVRce8F8nBMM) | 4:02 | 2021-10-04 |  |
 | [旅立ちの唄](https://open.spotify.com/track/2uwemnWSqSTlurgPTuG5Vn) | [Ayumikurikamaki](https://open.spotify.com/artist/0UDiy9fLk3rtgfh5lDqRqu) | [旅立ちの唄](https://open.spotify.com/album/2JPWO6LZguL45Vh3dSPEsl) | 3:27 | 2021-10-04 |  |
-| [月の大きさ](https://open.spotify.com/track/4bY2oZGA5Br3pTE1Jd1IfY) | [Nogizaka46](https://open.spotify.com/artist/08lN7bm4Etec8ETFxaTUmq) | [バレッタ TypeD](https://open.spotify.com/album/2NkG7Ei5PObrNHHcTgXLgF) | 3:56 | 2021-10-04 |  |
+| [月の大きさ](https://open.spotify.com/track/4bY2oZGA5Br3pTE1Jd1IfY) | [Nogizaka46](https://open.spotify.com/artist/08lN7bm4Etec8ETFxaTUmq) | [バレッタ TypeD](https://open.spotify.com/album/2NkG7Ei5PObrNHHcTgXLgF) | 3:56 | 2021-10-04 | 2022-11-12 |
 | [月の大きさ](https://open.spotify.com/track/5zzfDKUAzsHns9KhQ24iQz) | [Nogizaka46](https://open.spotify.com/artist/08lN7bm4Etec8ETFxaTUmq) | [バレッタ TypeA](https://open.spotify.com/album/34VdNoUlGdLQUG6T7YEpO3) | 3:56 | 2021-10-04 | 2022-07-29 |
+| [月の大きさ](https://open.spotify.com/track/7rFFbn3v6eN0AP05lQ8ZuZ) | [Nogizaka46](https://open.spotify.com/artist/08lN7bm4Etec8ETFxaTUmq) | [バレッタ TypeA](https://open.spotify.com/album/4Cf115NeABti7qSFD3C68w) | 3:56 | 2021-10-04 |  |
 | [欲望を叫べ!!!!](https://open.spotify.com/track/6dJR3VCC5odLOUa0zPWukb) | [OKAMOTO'S](https://open.spotify.com/artist/3X1afU2VL6MV0AJacARH7T) | [欲望を叫べ!!!!](https://open.spotify.com/album/0STNVTXHQpfqp2Pm3qW4z8) | 3:43 | 2021-10-04 |  |
 | [沸き上がる闘志](https://open.spotify.com/track/7k9D5GUqhn0Jf3kBnfgQJ6) | [MUSASHI PROJECT](https://open.spotify.com/artist/1HNngbrg0LENVuq56iQo0m) | [NARUTO \-ナルト\- オリジナルサウンドトラック](https://open.spotify.com/album/6NrJzDuBPZvp3ZRXnIqs1P) | 1:36 | 2021-10-04 |  |
-| [波風サテライト](https://open.spotify.com/track/4OLVgNgoTslbcSAyR4PmCq) | [SNOWKEL](https://open.spotify.com/artist/12OSHhni6aZbqfUp7nzjKC) | [SNOWKEL SNORKEL](https://open.spotify.com/album/3mQPg4LfKeR0FYYqQ00oQv) | 4:11 | 2021-10-04 |  |
+| [波風サテライト](https://open.spotify.com/track/4OLVgNgoTslbcSAyR4PmCq) | [SNOWKEL](https://open.spotify.com/artist/12OSHhni6aZbqfUp7nzjKC) | [SNOWKEL SNORKEL](https://open.spotify.com/album/3mQPg4LfKeR0FYYqQ00oQv) | 4:11 | 2021-10-04 | 2022-11-12 |
 | [波風サテライト](https://open.spotify.com/track/2ytqDhgvsWd8Q6lLiIbpfa) | [SNOWKEL](https://open.spotify.com/artist/12OSHhni6aZbqfUp7nzjKC) | [波風サテライト](https://open.spotify.com/album/1BX328PWuRJ6GSS8YBN5IO) | 4:12 | 2021-10-04 | 2022-07-29 |
+| [波風サテライト](https://open.spotify.com/track/59TkuVpbtcJxcCneIzzVH4) | [SNOWKEL](https://open.spotify.com/artist/12OSHhni6aZbqfUp7nzjKC) | [波風サテライト](https://open.spotify.com/album/43z4dalSRVz5xz7gBinofh) | 4:12 | 2021-10-04 |  |
 | [流れ星 〜Shooting Star〜](https://open.spotify.com/track/0OlmKJGeZyigVtRaKeAL7n) | [Home Made Kazoku](https://open.spotify.com/artist/2KnTQRef7hcVlK7vO9wPzI) | [流れ星 〜Shooting Star〜](https://open.spotify.com/album/4XbW4UevuUiPxmCnZlZWq7) | 4:57 | 2021-10-04 |  |
 | [流星](https://open.spotify.com/track/2Wo44gmaFpyOKtE6aRkwnW) | [TiA](https://open.spotify.com/artist/7McY8NwWEwM49D53tGVoqp) | [流星](https://open.spotify.com/album/5NKIB6ChEqgKYbR92NKwk2) | 5:18 | 2021-10-04 |  |
 | [深呼吸](https://open.spotify.com/track/1y3ED9Dk1PdVDDmW1IU0j0) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [深呼吸](https://open.spotify.com/album/7CwfNkrr0WSqFqDxE4pHRq) | 4:43 | 2021-10-04 |  |

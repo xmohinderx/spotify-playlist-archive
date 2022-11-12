@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwPz6HmZIAM.md) - [plain]
 
 > スリーピースバンドの枠から自らを意識的に解き放ち、激しくも繊細な音世界を表現し続けるTK from 凛として時雨の軌跡がここに。Immerse yourself in the kaleidoscope world of TK from Ling tosite sigure.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,873 likes - 52 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,904 likes - 52 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Scratch](https://open.spotify.com/track/1ydPcEQXyiTD5FrK4oD7w8) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS), [Koshi Inaba](https://open.spotify.com/artist/0EvnQ89Ry2DPyn2xYAH9Ls) | [Scratch](https://open.spotify.com/album/0OXWfiuTWqxgavDwqPfSLC) | 4:25 |
 | 2 | [As long as I love](https://open.spotify.com/track/4Ffc5nmb7MkNyLLpSAH2er) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS), [Koshi Inaba](https://open.spotify.com/artist/0EvnQ89Ry2DPyn2xYAH9Ls) | [As long as I love / Scratch](https://open.spotify.com/album/0MSYKvvoxhGFpMykGLUCVF) | 4:10 |
-| 3 | [unravel](https://open.spotify.com/track/1rN9QoVxw5U7TJkyaUR8C1) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [Fantastic Magic](https://open.spotify.com/album/1jLua47U6YKYY4GyktVbBb) | 3:58 |
+| 3 | [unravel](https://open.spotify.com/track/07O7OKdNq6Cwc0SOHpybY2) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [unravel](https://open.spotify.com/album/6LhbD9furraNWBZVekFarx) | 4:00 |
 | 4 | [katharsis](https://open.spotify.com/track/7MtpXnAhLKdkXjoFaK95TB) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [katharsis](https://open.spotify.com/album/3Tpt5tvJSeZt48A3YGCCWG) | 4:26 |
 | 5 | [Future Tone Bender](https://open.spotify.com/track/5Ed03SNdYyL69YsW0pOfEz) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS), [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [egomaniac feedback](https://open.spotify.com/album/3XBNvPlVMRZkS10ssu1iRF) | 3:52 |
 | 6 | [Signal](https://open.spotify.com/track/4SupI9OXg3hwrymR85hkhL) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [Signal](https://open.spotify.com/album/5AcQnkQtPYbRCgVUNIccoJ) | 5:19 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwPz6HmZIAM.md) - [plain]
 | 51 | [fourth](https://open.spotify.com/track/1pnQ4KFFScTV4HalmIleIv) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [flowering](https://open.spotify.com/album/7wULYqTLG1Za5axSuhBefT) | 4:28 |
 | 52 | [daylily](https://open.spotify.com/track/5gfJrXcpdoLUJvzU4wb2rS) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [flowering](https://open.spotify.com/album/7wULYqTLG1Za5axSuhBefT) | 2:35 |
 
-Snapshot ID: `MTY0NzM1NjQwMCwwMDAwMDAwMDY2YzhmNzI5ZTQ0YjU3MjFkYzVjMmQ2ZGVjM2I5MTA4`
+Snapshot ID: `MTY0NzM1NjQwMCwwMDAwMDAwMDU1ZjRiNmJmZGNmNzM1MTAzZGRjMjQzODViNjdkNDU4`

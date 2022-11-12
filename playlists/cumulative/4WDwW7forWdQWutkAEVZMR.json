@@ -44,6 +44,28 @@
     },
     {
       "album": {
+        "name": "1 On 3 (feat. Rvssian)",
+        "url": "https://open.spotify.com/album/3F6GpeUViLprCorwucXYmQ"
+      },
+      "artists": [
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        },
+        {
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96000,
+      "name": "1 On 3 (feat. Rvssian)",
+      "url": "https://open.spotify.com/track/5APTC8XAiHLn89cpgWqrWl"
+    },
+    {
+      "album": {
         "name": "14",
         "url": "https://open.spotify.com/album/1XMoLibHe44yrlBxr77bWe"
       },
@@ -99,6 +121,24 @@
       "duration_ms": 109746,
       "name": "2 Slimed Out",
       "url": "https://open.spotify.com/track/32W3LRPntEXgODlqHZjaNi"
+    },
+    {
+      "album": {
+        "name": "CESSATION",
+        "url": "https://open.spotify.com/album/7ymsg0HvXgQtf9FgTsy3fa"
+      },
+      "artists": [
+        {
+          "name": "Jack Kays",
+          "url": "https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "28",
+      "url": "https://open.spotify.com/track/5IamsVoRYgCuO13ukiTtTN"
     },
     {
       "album": {
@@ -395,7 +435,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 162935,
       "name": "Birthday Girl (feat. Chris Lane)",
       "url": "https://open.spotify.com/track/1gIEdcLqIuIcG8k44bCnal"
@@ -667,7 +707,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 134466,
       "name": "Can't Deny",
       "url": "https://open.spotify.com/track/4oH24okkrQYSyHNL9FlPQj"
@@ -893,6 +933,24 @@
       "duration_ms": 226309,
       "name": "Creeps",
       "url": "https://open.spotify.com/track/0zOert4KpMDEf332FVRuxb"
+    },
+    {
+      "album": {
+        "name": "Creme Brulee",
+        "url": "https://open.spotify.com/album/5zQXPoLBDFCFGN4IPu14VG"
+      },
+      "artists": [
+        {
+          "name": "Cochise",
+          "url": "https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112207,
+      "name": "Creme Brulee",
+      "url": "https://open.spotify.com/track/3jvrZ6mIhVEH4XMpmqSTRI"
     },
     {
       "album": {
@@ -1135,7 +1193,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 170937,
       "name": "Divide",
       "url": "https://open.spotify.com/track/4cGpNrOWFOonEF9yt9Z1Xi"
@@ -1247,7 +1305,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 149587,
       "name": "Drive Me Crazy",
       "url": "https://open.spotify.com/track/2kF1ckubDNFobZKvn7WcV2"
@@ -1526,6 +1584,24 @@
     },
     {
       "album": {
+        "name": "Give You What You Want",
+        "url": "https://open.spotify.com/album/49OQ6tF3eo3Fdgp3GMhHep"
+      },
+      "artists": [
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159330,
+      "name": "Give You What You Want",
+      "url": "https://open.spotify.com/track/6PQK1Y3Dl6dym9pj0y9Chy"
+    },
+    {
+      "album": {
         "name": "Green Green Grass (Majestic Remix)",
         "url": "https://open.spotify.com/album/3kWWCohWkatO0uyYxXTQas"
       },
@@ -1719,7 +1795,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 142191,
       "name": "I Admit It",
       "url": "https://open.spotify.com/track/1maxWYnkqlo64OVdtkPZQn"
@@ -1879,7 +1955,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 164678,
       "name": "If I Died Last Night",
       "url": "https://open.spotify.com/track/2hlM7pRlEJuukvzCsJF6JF"
@@ -1981,7 +2057,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 225826,
       "name": "itch",
       "url": "https://open.spotify.com/track/5RZb7SkH0lDPWyIFgFTvxo"
@@ -2073,6 +2149,24 @@
       "duration_ms": 193274,
       "name": "Koo Koo Fun (feat. Tiwa Savage & DJ Maphorisa)",
       "url": "https://open.spotify.com/track/3mO0E6D3BsdBLjDCImi65H"
+    },
+    {
+      "album": {
+        "name": "IOTA",
+        "url": "https://open.spotify.com/album/3bHBzNSc5wHgedsW4m9Ykn"
+      },
+      "artists": [
+        {
+          "name": "Lous and The Yakuza",
+          "url": "https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178253,
+      "name": "La money",
+      "url": "https://open.spotify.com/track/3C0NbYg52qoQtUovS9lC3b"
     },
     {
       "album": {
@@ -2311,7 +2405,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 194259,
       "name": "Mine",
       "url": "https://open.spotify.com/track/1FYbKJI9kRofsRgOVYciic"
@@ -2449,7 +2543,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 164943,
       "name": "Nasze Domy (feat. Szpaku)",
       "url": "https://open.spotify.com/track/0CDm0PnFYUPlcskXvyQ9hc"
@@ -2595,7 +2689,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 202412,
       "name": "O Holy Night",
       "url": "https://open.spotify.com/track/2pPxYMrlAlXQlO9qqFlqcd"
@@ -2821,7 +2915,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 197093,
       "name": "Palomino",
       "url": "https://open.spotify.com/track/0zosLtbwbykpbPRyZMCeL5"
@@ -2869,6 +2963,24 @@
       "duration_ms": 130897,
       "name": "Paris to Tokyo",
       "url": "https://open.spotify.com/track/5QvW5lK6mkfTegpAK9JOO7"
+    },
+    {
+      "album": {
+        "name": "perfect",
+        "url": "https://open.spotify.com/album/0ua5B7cz95gaRzhasuBurK"
+      },
+      "artists": [
+        {
+          "name": "Zevia",
+          "url": "https://open.spotify.com/artist/6z9k3E8sR90LH0N4zyOxUu"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183870,
+      "name": "perfect",
+      "url": "https://open.spotify.com/track/1O2P4wYlTnQ44osWR5KABJ"
     },
     {
       "album": {
@@ -3505,7 +3617,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 241666,
       "name": "Today",
       "url": "https://open.spotify.com/track/6osru1Fx1n50mRD8QWI9m1"
@@ -3646,6 +3758,24 @@
     },
     {
       "album": {
+        "name": "Only the Strong Survive",
+        "url": "https://open.spotify.com/album/4XJaXh57G3rZtAzqeVZSfn"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187400,
+      "name": "Turn Back the Hands of Time",
+      "url": "https://open.spotify.com/track/1UqC0kvyqK0pk7f9MdjBZa"
+    },
+    {
+      "album": {
         "name": "TURN IT UP",
         "url": "https://open.spotify.com/album/6mdPxVCQqK8BssQRF0zNZh"
       },
@@ -3733,6 +3863,24 @@
       "duration_ms": 295866,
       "name": "venus fly trap",
       "url": "https://open.spotify.com/track/37IFFBgI7qnLKqGP15mmIu"
+    },
+    {
+      "album": {
+        "name": "Viene Amaneciendo (En Vivo)",
+        "url": "https://open.spotify.com/album/1fBCMDo3JzXSoDlsMGhclL"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238909,
+      "name": "Viene Amaneciendo - En Vivo",
+      "url": "https://open.spotify.com/track/71JTHs6WC8dCgFMA6nfugt"
     },
     {
       "album": {
@@ -3885,6 +4033,24 @@
       "duration_ms": 127293,
       "name": "While You're At It",
       "url": "https://open.spotify.com/track/0hfHF0FsMNyLoaqsvJmqfq"
+    },
+    {
+      "album": {
+        "name": "Who Else Would It Be",
+        "url": "https://open.spotify.com/album/25i87dAxFScrO1VjyyOLlm"
+      },
+      "artists": [
+        {
+          "name": "KayCyy",
+          "url": "https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91913,
+      "name": "Who Else Would It Be",
+      "url": "https://open.spotify.com/track/3WbusxungaQoyYLe33Yepv"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 
 > V\-Pop đã đơm hoa trên những khúc ca này\. Ảnh bìa: Tóc Tiên
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,441 likes - 58 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,523 likes - 58 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 | 36 | [Ánh Sao Và Bầu Trời](https://open.spotify.com/track/5iZHnufFUgATzrpGgH1K0W) | [T.R.I](https://open.spotify.com/artist/2rVYwIYNEsMxtt8j5yemHb) | [Ánh Sao Và Bầu Trời](https://open.spotify.com/album/1JLUfM3IFpFyBSyhNQWkYw) | 4:20 |
 | 37 | [Sài Gòn Hôm Nay Mưa](https://open.spotify.com/track/1xoadYaxtOp9gHDwgmPDuz) | [JSOL](https://open.spotify.com/artist/6EybZ5zwPNEtEngfrEMevN), [Hoàng Duyên](https://open.spotify.com/artist/3LbBKYlyMaATS8IIe7HJ0d) | [Sài Gòn Hôm Nay Mưa](https://open.spotify.com/album/3uvFlg7afslUUJh43G2xwX) | 4:07 |
 | 38 | [Thích Quá Rùi Nà](https://open.spotify.com/track/6jcG3yZ0e2CSI6omkYO1ut) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR), [Trung Trần](https://open.spotify.com/artist/2v14NO80QYditUms7sbEIZ) | [Thích Quá Rùi Nà](https://open.spotify.com/album/2Uejuvo8WwGMH3hUe8NGsO) | 2:58 |
-| 39 | [Dù Cho Mai Về Sau](https://open.spotify.com/track/4Iz5EWPCAT8jYNk4IpLoll) | [buitruonglinh](https://open.spotify.com/artist/7Cp2hGcriAaDUAWpXnSEwm) | [Dù Cho Mai Về Sau](https://open.spotify.com/album/38rXnQ4McNlZGTA3WNPNc1) | 3:53 |
+| 39 | [Dù Cho Mai Về Sau](https://open.spotify.com/track/6mGfDpzpCgaw0CSqbBQQOr) | [buitruonglinh](https://open.spotify.com/artist/7Cp2hGcriAaDUAWpXnSEwm) | [Dù Cho Mai Về Sau](https://open.spotify.com/album/3F7mY0fIvUaVWY8KLu3xlr) | 3:53 |
 | 40 | [Thích Em Hơi Nhiều](https://open.spotify.com/track/45Mswno1F7FoZkcmQkp7fi) | [Wren Evans](https://open.spotify.com/artist/5M3ffmRiOX9Q8Y4jNeR5wu) | [Thích Em Hơi Nhiều](https://open.spotify.com/album/0Xxw1ohJW7S8b3ezJorYHg) | 2:51 |
 | 41 | [3107 3](https://open.spotify.com/track/1EmMFSLRVkOszCa4ul9z0F) | [W/N](https://open.spotify.com/artist/6NF9Oa4ThQWCj6mogFSrVD), [Duongg](https://open.spotify.com/artist/3JkGKNawown8MgcJsDw1WT), [Nau](https://open.spotify.com/artist/38QautgC2LNYKiu10BB0sF), [titie](https://open.spotify.com/artist/2I8garg5B5BsdmetbsXsjG) | [3107 3 \(feat\. Nâu, titie, Dươngg\)](https://open.spotify.com/album/5fvs6ZOlCkfOa6zZ9jvXAb) | 4:00 |
 | 42 | [Có Em \(feat\. Low G\)](https://open.spotify.com/track/6Hs2xIgB8nzyGFDvVA8lFa) | [Madihu](https://open.spotify.com/artist/1OIYKbmhG0RxPXvVPNj3NN), [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe) | [Có Em \(feat\. Low G\)](https://open.spotify.com/album/7nvdYW7qe9f1DT7pZ1EXDg) | 3:38 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 | 57 | [Ghé Qua](https://open.spotify.com/track/0pQ67Kp2kED4ISy1ieGPEq) | [TaynguyenSound](https://open.spotify.com/artist/5ayWRfrcpObgDDlzheJ2Gr), [Tofu](https://open.spotify.com/artist/0Ux2qIQbEeqvv7uYLgHhDH), [PC](https://open.spotify.com/artist/3HD3V1nGFPwepBO7064Ij0), [Dick](https://open.spotify.com/artist/1tikl40deDgJWS57GTKiVh) | [Ghé Qua](https://open.spotify.com/album/5UFpxFhOmg3nb3wWd3p48D) | 3:57 |
 | 58 | [See Tình](https://open.spotify.com/track/3bZGGKrMQLDGg18y2QqKFF) | [Hoang Thuy Linh](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL) | [See Tình](https://open.spotify.com/album/1AttOIOFrGkOPNSq5mB4pd) | 3:05 |
 
-Snapshot ID: `MTY2NzgzMjk5OSwwMDAwMDAwMGE0Zjg5ZGE4MDUyMGYwNTQ1NDlmOGI3MjE2NGYyZjQy`
+Snapshot ID: `MTY2NzgzMjk5OSwwMDAwMDAwMGRlNDU5ZmZmY2FlYTcxMjg5ZWI5NzdjZDk3M2U4YzZj`

@@ -911,7 +911,7 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 152961,
       "name": "BackOutsideBoyz",
       "url": "https://open.spotify.com/track/0wshkEEcJUQU33RSRBb5dv"
@@ -1735,7 +1735,7 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 225439,
       "name": "Broke Boys",
       "url": "https://open.spotify.com/track/45pUWUeEWGoSdH6UF162G8"
@@ -8678,6 +8678,24 @@
     },
     {
       "album": {
+        "name": "Move On",
+        "url": "https://open.spotify.com/album/0C5iMIiwOot3zxjcbc0bTI"
+      },
+      "artists": [
+        {
+          "name": "Matthew Topper",
+          "url": "https://open.spotify.com/artist/2SCIZQ3ObhbM9mvisSD4B2"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161000,
+      "name": "Move On",
+      "url": "https://open.spotify.com/track/4dX6z84NG8Nta1IfwVh9k0"
+    },
+    {
+      "album": {
         "name": "Mr Reggae",
         "url": "https://open.spotify.com/album/17HsgjR6rhYGnDFsJVdiQw"
       },
@@ -12079,7 +12097,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-06",
+      "date_removed": null,
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"

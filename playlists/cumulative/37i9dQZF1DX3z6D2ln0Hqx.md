@@ -4,7 +4,7 @@
 
 > For Motown, diversity and equality wasn’t just a goal, it was the key to success\. These women brought Motown into the hearts of many.
 
-28 songs - 1 hr 48 min - [published](https://open.spotify.com/playlist/7J1j0tVrOs3h4FC5GiGdL6)
+29 songs - 1 hr 54 min - [published](https://open.spotify.com/playlist/7J1j0tVrOs3h4FC5GiGdL6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,8 +26,9 @@
 | [Sending My Love](https://open.spotify.com/track/7f5dRZ6W2Si4SoPLQxNHbm) | [Zhané](https://open.spotify.com/artist/6cjSmkVvMvyE6tCAo1M9Is) | [Pronounced Jah\-Nay](https://open.spotify.com/album/4Rj3sxQFk2chQQqfad4siz) | 3:40 | 2019-06-28 | 2022-11-11 |
 | [Sending My Love](https://open.spotify.com/track/2iFEJykQ895vembLmQNa67) | [Zhané](https://open.spotify.com/artist/6cjSmkVvMvyE6tCAo1M9Is) | [Bedroom Jams](https://open.spotify.com/album/4lDhUSlM0N1c4VUs9QoV0X) | 3:41 | 2019-06-28 |  |
 | [Sending My Love](https://open.spotify.com/track/5yMQERKmNx6ajo4qHi1KT2) | [Zhané](https://open.spotify.com/artist/6cjSmkVvMvyE6tCAo1M9Is) | [Pronounced Jah\-Nay](https://open.spotify.com/album/01FqJwpa24Vfb8DI6sZI6B) | 3:41 | 2019-06-28 | 2022-07-29 |
-| [Square Biz](https://open.spotify.com/track/52bz3fOCyr6GgkJQsLK9PM) | [Teena Marie](https://open.spotify.com/artist/61UT1Zj9dFgPAjZfwnsqsb) | [Best Of/20th Century](https://open.spotify.com/album/0kCD8uT94URPZcr2vZOhW7) | 6:23 | 2019-06-28 |  |
+| [Square Biz](https://open.spotify.com/track/52bz3fOCyr6GgkJQsLK9PM) | [Teena Marie](https://open.spotify.com/artist/61UT1Zj9dFgPAjZfwnsqsb) | [Best Of/20th Century](https://open.spotify.com/album/0kCD8uT94URPZcr2vZOhW7) | 6:23 | 2019-06-28 | 2022-11-12 |
 | [Square Biz](https://open.spotify.com/track/5lAH3vLN4Gc3jDM25cMIgH) | [Teena Marie](https://open.spotify.com/artist/61UT1Zj9dFgPAjZfwnsqsb) | [20th Century Masters: The Millennium Collection: Best of Teena Marie](https://open.spotify.com/album/7rBP3Z4FX95gFPTXgs4MMo) | 6:25 | 2019-06-28 | 2022-07-29 |
+| [Square Biz](https://open.spotify.com/track/3k168scjk05AuB67bGXkJg) | [Teena Marie](https://open.spotify.com/artist/61UT1Zj9dFgPAjZfwnsqsb) | [Motown Queens](https://open.spotify.com/album/0g4hcfMoBKXPmMvNCHtlTC) | 6:27 | 2019-06-28 |  |
 | [Steelo](https://open.spotify.com/track/5OQO6NEs89flntUWPtXUiG) | [702](https://open.spotify.com/artist/2S8UlyXW4JjjHcbeg8ddIo) | [No Doubt](https://open.spotify.com/album/5Zm0jwZc5J4jWk9rLmABKO) | 4:17 | 2019-06-28 |  |
 | [Take Me In Your Arms \(Rock Me A Little While\) \- Single Version](https://open.spotify.com/track/6Q5UkaoE4QpsSm4kykFhKc) | [Kim Weston](https://open.spotify.com/artist/71pUA2TXf3JHUPUgsjLtuL) | [Greatest Hits And Rare Classics](https://open.spotify.com/album/0mdl0s8BRDstRcSn8Zf7JD) | 2:55 | 2019-06-28 |  |
 | [Video](https://open.spotify.com/track/3H5pp4f0rvJ72AB7UHswY8) | [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC) | [Dinner Party](https://open.spotify.com/album/55BxFSeJAUHIIzctEAGBOb) | 4:06 | 2019-06-28 | 2022-11-11 |

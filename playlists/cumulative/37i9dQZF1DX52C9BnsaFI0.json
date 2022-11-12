@@ -494,6 +494,24 @@
     },
     {
       "album": {
+        "name": "Desolation Boulevard",
+        "url": "https://open.spotify.com/album/3PsFboiPeObjAc6gbQHt54"
+      },
+      "artists": [
+        {
+          "name": "Sweet",
+          "url": "https://open.spotify.com/artist/3JaAGmSTpJK35DqWrDUzBz"
+        }
+      ],
+      "date_added": "2021-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207666,
+      "name": "Fox On The Run",
+      "url": "https://open.spotify.com/track/4uip0lLkMKl1nwchsdXs1r"
+    },
+    {
+      "album": {
         "name": "They Only Come Out At Night",
         "url": "https://open.spotify.com/album/4CNEJF5wYGqhOYEKq8ciu8"
       },
@@ -685,7 +703,7 @@
       ],
       "date_added": "2021-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 179600,
       "name": "Killer Queen - Remastered 2011",
       "url": "https://open.spotify.com/track/7GqWnsKhMtEW0nzki5o0d8"
@@ -815,6 +833,24 @@
       "duration_ms": 285133,
       "name": "More Than a Feeling",
       "url": "https://open.spotify.com/track/1QEEqeFIZktqIpPI4jSVSF"
+    },
+    {
+      "album": {
+        "name": "Pearl (Legacy Edition)",
+        "url": "https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "date_added": "2021-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223826,
+      "name": "Move Over",
+      "url": "https://open.spotify.com/track/2bD9x9kN4wYyVoyckeqlLk"
     },
     {
       "album": {
@@ -991,7 +1027,7 @@
       ],
       "date_added": "2021-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 296493,
       "name": "Somebody To Love - Remastered 2011",
       "url": "https://open.spotify.com/track/6cFZ4PLC19taNlpl9pbGMf"

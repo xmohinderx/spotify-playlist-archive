@@ -336,6 +336,24 @@
     },
     {
       "album": {
+        "name": "Alternative Country Masterpieces",
+        "url": "https://open.spotify.com/album/5kJyeKSrgev5PyfsdYZUgP"
+      },
+      "artists": [
+        {
+          "name": "The Minus 5",
+          "url": "https://open.spotify.com/artist/7k8oHbK8ratXIVlYX7fVRU"
+        }
+      ],
+      "date_added": "2020-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264520,
+      "name": "Cigarettes Coffee and Booze",
+      "url": "https://open.spotify.com/track/3VbksD93GdhM8fB95GGAjR"
+    },
+    {
+      "album": {
         "name": "The Minus 5",
         "url": "https://open.spotify.com/album/2fX1V0fpifL0pfLBLtf6Fs"
       },
@@ -365,7 +383,7 @@
       ],
       "date_added": "2020-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 264520,
       "name": "Cigarettes Coffee and Booze",
       "url": "https://open.spotify.com/track/5sccRpcrBlsSIbIjSj4Xtt"
@@ -567,10 +585,28 @@
       ],
       "date_added": "2020-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 247515,
       "name": "Furr",
       "url": "https://open.spotify.com/track/2fgbsGWU2Dum08uifQHhiB"
+    },
+    {
+      "album": {
+        "name": "Furr (10th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1SOFyqJwYjVaxoKuDTlb9D"
+      },
+      "artists": [
+        {
+          "name": "Blitzen Trapper",
+          "url": "https://open.spotify.com/artist/72XY3HrDdFfZXNZFCT9Zh1"
+        }
+      ],
+      "date_added": "2020-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247515,
+      "name": "Furr",
+      "url": "https://open.spotify.com/track/5yI3EfQFC9vU3eMuvo9LbO"
     },
     {
       "album": {

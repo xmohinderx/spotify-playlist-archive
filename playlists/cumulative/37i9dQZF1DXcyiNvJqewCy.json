@@ -714,6 +714,24 @@
     },
     {
       "album": {
+        "name": "Even Now",
+        "url": "https://open.spotify.com/album/1ILknbSc8Ll0TqA8oJKkNV"
+      },
+      "artists": [
+        {
+          "name": "Barry Manilow",
+          "url": "https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193440,
+      "name": "Can't Smile Without You",
+      "url": "https://open.spotify.com/track/7qUTZEf6bgiApJEXpMAH5y"
+    },
+    {
+      "album": {
         "name": "Solo",
         "url": "https://open.spotify.com/album/4Sr5ckiFddtONS3KewaXyb"
       },
@@ -1561,7 +1579,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 214400,
       "name": "Friday I'm in Love",
       "url": "https://open.spotify.com/track/263aNAQCeFSWipk896byo6"
@@ -2001,6 +2019,24 @@
       "duration_ms": 163133,
       "name": "Ho Hey",
       "url": "https://open.spotify.com/track/0W4Kpfp1w2xkY3PrV714B7"
+    },
+    {
+      "album": {
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306200,
+      "name": "Hold You in My Arms",
+      "url": "https://open.spotify.com/track/1U1GtaJeYwGsPgqV9Me5bb"
     },
     {
       "album": {
@@ -2651,7 +2687,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 199396,
       "name": "Let's Stay Together",
       "url": "https://open.spotify.com/track/63xdwScd1Ai1GigAwQxE8y"
@@ -3247,7 +3283,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 258653,
       "name": "Myth",
       "url": "https://open.spotify.com/track/2NfxtzCIrpCmJX5Z2KMdD5"
@@ -4341,7 +4377,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": null,
       "duration_ms": 170892,
       "name": "Steeeam",
       "url": "https://open.spotify.com/track/09RamrocZneYcLYLRIxYha"
@@ -5045,7 +5081,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 222786,
       "name": "Used to Be in Love",
       "url": "https://open.spotify.com/track/290xSzR8Ee9fm82poMg4od"
@@ -5157,7 +5193,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 200560,
       "name": "Wild World",
       "url": "https://open.spotify.com/track/7mjSHL2Eb0kAwiKbvNNyD9"

@@ -4,7 +4,7 @@
 
 > Special songs for mothers of all kinds.
 
-82 songs - 5 hr 6 min - [published](https://open.spotify.com/playlist/1a0fGDCELopfNoDFPZZy5y)
+83 songs - 5 hr 9 min - [published](https://open.spotify.com/playlist/1a0fGDCELopfNoDFPZZy5y)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,8 @@
 | [Never Grow Up](https://open.spotify.com/track/74WBGgUnpKrJXt6TETfR6Z) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now \(Deluxe Edition\)](https://open.spotify.com/album/5EpMjweRD573ASl7uNiHym) | 4:50 | 2021-05-06 |  |
 | [Oh! My Mama](https://open.spotify.com/track/1cqVLq0ZAuJ8xVTqygJZJ4) | [Alela Diane](https://open.spotify.com/artist/2QIHd0B2VIKlmLyoq4lUr7) | [The Pirate's Gospel](https://open.spotify.com/album/4cbZ94wBTQCvivwA7VxKdb) | 3:14 | 2021-05-06 |  |
 | [Secret](https://open.spotify.com/track/34uHZgYc8LNN3iDv5JskUb) | [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [Secret](https://open.spotify.com/album/2uK2i63leQLKuDpfvHcszh) | 3:21 | 2021-05-06 | 2022-07-29 |
-| [Secret](https://open.spotify.com/track/4Py8X1NUwQjpwpOzsOqBAW) | [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [6: Commitment](https://open.spotify.com/album/6oO1IOd0bM6Bzk0Kzpi2v6) | 3:21 | 2022-05-03 |  |
+| [Secret](https://open.spotify.com/track/4Py8X1NUwQjpwpOzsOqBAW) | [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [6: Commitment](https://open.spotify.com/album/6oO1IOd0bM6Bzk0Kzpi2v6) | 3:21 | 2022-05-03 | 2022-11-12 |
+| [Secret](https://open.spotify.com/track/4uwYNnstKzowAVD4pbqDRY) | [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [10's Ballads](https://open.spotify.com/album/4ce3VjMCB8wKOWEtGQvKqt) | 3:21 | 2022-05-03 |  |
 | [She's Always a Woman](https://open.spotify.com/track/5RgFlk1fcClZd0Y4SGYhqH) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Stranger \(Legacy Edition\)](https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6) | 3:21 | 2022-05-03 |  |
 | [Somebody's Hero](https://open.spotify.com/track/2iVkOIwx8qzVGlju9Hy4yY) | [Jamie O'Neal](https://open.spotify.com/artist/6sQVeggRv1AhrMzuCjhCZe) | [Brave](https://open.spotify.com/album/2Xkv3hze4Ext0BO0FDyjOs) | 3:41 | 2021-05-06 |  |
 | [Superwoman](https://open.spotify.com/track/0r5u9i2GzrqzU2Pv0eIvVq) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [As I Am](https://open.spotify.com/album/0neqylYFL6s6Ikdf3UFmUo) | 4:34 | 2021-05-06 | 2022-07-29 |

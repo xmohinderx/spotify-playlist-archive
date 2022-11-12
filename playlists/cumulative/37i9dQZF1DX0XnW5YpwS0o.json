@@ -268,6 +268,28 @@
     },
     {
       "album": {
+        "name": "Aloha",
+        "url": "https://open.spotify.com/album/0N7Gsf3ENH7bPbUZDRCYOQ"
+      },
+      "artists": [
+        {
+          "name": "M\u00f8me",
+          "url": "https://open.spotify.com/artist/4lDXfIznmGueBgTjI3qGUX"
+        },
+        {
+          "name": "Merryn Jeann",
+          "url": "https://open.spotify.com/artist/6PwHyGcUfjwdjT9cdsaVWT"
+        }
+      ],
+      "date_added": "2021-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218400,
+      "name": "Aloha",
+      "url": "https://open.spotify.com/track/4uNDs2TBsv2KX9b4LIxfdt"
+    },
+    {
+      "album": {
         "name": "Cleopatra",
         "url": "https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN"
       },
@@ -459,7 +481,7 @@
       ],
       "date_added": "2021-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 237693,
       "name": "Coins",
       "url": "https://open.spotify.com/track/53I7CviVHhNYEKth717RLG"
@@ -701,6 +723,24 @@
       "duration_ms": 235988,
       "name": "Familiar",
       "url": "https://open.spotify.com/track/2EWnKuspetOzgfBtmaNZvJ"
+    },
+    {
+      "album": {
+        "name": "Fire",
+        "url": "https://open.spotify.com/album/4b7DQdQztY3wvk8DJB8bgz"
+      },
+      "artists": [
+        {
+          "name": "Diskopunk",
+          "url": "https://open.spotify.com/artist/5Ck4KWOZsbrSQpiLimooDp"
+        }
+      ],
+      "date_added": "2021-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197749,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/5jRJlGB5EP7HFKwYBKvlSA"
     },
     {
       "album": {
@@ -979,6 +1019,24 @@
       "duration_ms": 177493,
       "name": "Homage",
       "url": "https://open.spotify.com/track/7DcJ6fEBb7BaKuYKTwiDxK"
+    },
+    {
+      "album": {
+        "name": "Hoops",
+        "url": "https://open.spotify.com/album/6fW3GP3S8MqN0byG0fJ0Ut"
+      },
+      "artists": [
+        {
+          "name": "The Rubens",
+          "url": "https://open.spotify.com/artist/2hrWpLNoJcs1EnWSXvB6JI"
+        }
+      ],
+      "date_added": "2021-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158946,
+      "name": "Hoops",
+      "url": "https://open.spotify.com/track/4yUZPM6OfAY1KJik9rsveW"
     },
     {
       "album": {
@@ -1365,7 +1423,7 @@
       ],
       "date_added": "2021-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 207720,
       "name": "Old Friends",
       "url": "https://open.spotify.com/track/4ykQ18swXrkrrbwsZKxQo7"
@@ -1401,7 +1459,7 @@
       ],
       "date_added": "2021-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 160097,
       "name": "Ophelia",
       "url": "https://open.spotify.com/track/3d8y0t70g7hw2FOWl9Z4Fm"
@@ -1563,10 +1621,28 @@
       ],
       "date_added": "2021-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 248826,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/0TCmhnbMpw5zwPsTvlXTJi"
+    },
+    {
+      "album": {
+        "name": "Daydreaming",
+        "url": "https://open.spotify.com/album/6BBWLemGVJVtop45zlkLgY"
+      },
+      "artists": [
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        }
+      ],
+      "date_added": "2021-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251360,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/5rOXESESmE7NBhliRWmPUa"
     },
     {
       "album": {
@@ -1581,7 +1657,7 @@
       ],
       "date_added": "2021-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 194760,
       "name": "Running with the Wolves",
       "url": "https://open.spotify.com/track/20qtjUDcb8HH8ouF51BirQ"
@@ -1718,6 +1794,24 @@
     },
     {
       "album": {
+        "name": "Cleopatra (Deluxe)",
+        "url": "https://open.spotify.com/album/5fY8mYgYGkyaJ9XvVOzVQA"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "date_added": "2021-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211851,
+      "name": "Sleep On The Floor",
+      "url": "https://open.spotify.com/track/4uXDWsoGZXd39QP47NkGm5"
+    },
+    {
+      "album": {
         "name": "Cleopatra",
         "url": "https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN"
       },
@@ -1729,7 +1823,7 @@
       ],
       "date_added": "2021-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 211851,
       "name": "Sleep On The Floor",
       "url": "https://open.spotify.com/track/5MMZJtHOiH1RmQSSe3DJdg"
@@ -1983,6 +2077,24 @@
       "duration_ms": 236252,
       "name": "Sweet Dreams, TN",
       "url": "https://open.spotify.com/track/1W0OCrMsRP1SLTEdw3JwEz"
+    },
+    {
+      "album": {
+        "name": "Take It or Leave It",
+        "url": "https://open.spotify.com/album/73MbtLT9YW5OjklHAOg9a9"
+      },
+      "artists": [
+        {
+          "name": "Great Good Fine Ok",
+          "url": "https://open.spotify.com/artist/422RLznpwUa5FsQgnTlgUH"
+        }
+      ],
+      "date_added": "2021-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183468,
+      "name": "Take It or Leave It",
+      "url": "https://open.spotify.com/track/7LeIYh4gDj5l8mJ7kNsHIv"
     },
     {
       "album": {

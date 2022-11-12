@@ -248,6 +248,24 @@
     },
     {
       "album": {
+        "name": "Gallows (Deluxe)",
+        "url": "https://open.spotify.com/album/39qQxwP9x6D1dykekYEe3K"
+      },
+      "artists": [
+        {
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+        }
+      ],
+      "date_added": "2018-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211472,
+      "name": "Billy",
+      "url": "https://open.spotify.com/track/13smm18gVKXh38xMmoy92z"
+    },
+    {
+      "album": {
         "name": "Gallows",
         "url": "https://open.spotify.com/album/6xDWQZ20oAB26Aza1C0EbA"
       },
@@ -519,7 +537,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 213204,
       "name": "Every High",
       "url": "https://open.spotify.com/track/7kzz52nsw2wy0LPQ84ynHE"
@@ -1091,7 +1109,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-04",
+      "date_removed": null,
       "duration_ms": 157524,
       "name": "I'm Sorry",
       "url": "https://open.spotify.com/track/1XWLdjLUzNDxW7ggw8uQnM"
@@ -1113,7 +1131,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 157413,
       "name": "I'm sorry",
       "url": "https://open.spotify.com/track/6glTm9AIhMYhjZ3dZT7qSp"
@@ -1161,6 +1179,24 @@
       "duration_ms": 258842,
       "name": "In Silence",
       "url": "https://open.spotify.com/track/0BsFp2sJPOdtRg3oUVWuh8"
+    },
+    {
+      "album": {
+        "name": "In Silence",
+        "url": "https://open.spotify.com/album/16xXu0I4RB3tUBTKVUgCBL"
+      },
+      "artists": [
+        {
+          "name": "Thrupence",
+          "url": "https://open.spotify.com/artist/33WEbJHirq23bohapH3pI9"
+        }
+      ],
+      "date_added": "2018-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258842,
+      "name": "In Silence",
+      "url": "https://open.spotify.com/track/3xSDwNpuoAnenzHEXJRWZg"
     },
     {
       "album": {
@@ -2125,7 +2161,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 232312,
       "name": "Yellow Dust",
       "url": "https://open.spotify.com/track/2qyY0gUp1hpDjVQlDshWWX"

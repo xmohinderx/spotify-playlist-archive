@@ -4,7 +4,7 @@
 
 > Our editors' picks of the freshest finds of the year! Cover: Lil Tecca
 
-170 songs - 8 hr 44 min - [published](https://open.spotify.com/playlist/0aCAvaXo84V9CkN7hLiIX5)
+171 songs - 8 hr 47 min - [published](https://open.spotify.com/playlist/0aCAvaXo84V9CkN7hLiIX5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,8 @@
 | [Leaving Me](https://open.spotify.com/track/64RqCqBxhey5mGq950yyxc) | [Lucy Daydream](https://open.spotify.com/artist/0RQEMnWcCrVW4vkPFbAVsg) | [Awake & Dreaming](https://open.spotify.com/album/7mrAOwvegT4oMij1p23pBE) | 2:55 | 2019-12-10 |  |
 | [Liar](https://open.spotify.com/track/3RZrvN10qqiNa9BIVd0d8w) | [BigKlit](https://open.spotify.com/artist/0POkErJcpuhWNnCXAhgJoZ) | [Liar](https://open.spotify.com/album/1WGC3tZw74moco9cEfYKKw) | 2:26 | 2019-12-10 | 2022-07-29 |
 | [Liar](https://open.spotify.com/track/53yWQ1FObrwPlVYCZdR6es) | [BigKlit](https://open.spotify.com/artist/0POkErJcpuhWNnCXAhgJoZ) | [Liar](https://open.spotify.com/album/55aI0Y84kAkGiqk8Y7BPGp) | 2:26 | 2019-12-10 |  |
-| [Light Personified](https://open.spotify.com/track/1AQlZoCOk9SHb4nIZF07uf) | [Fintan](https://open.spotify.com/artist/1JLB3JYl1p8ob8o5Y35bT6) | [Light Personified](https://open.spotify.com/album/7CNT44xDuQHv8gKnhd30SQ) | 3:20 | 2019-12-10 |  |
+| [Light Personified](https://open.spotify.com/track/08RkaVOwN4k3wkaFVk4n8m) | [Fintan](https://open.spotify.com/artist/1JLB3JYl1p8ob8o5Y35bT6) | [Then We Fall](https://open.spotify.com/album/72WxeOsMAn01fWASxQ31m0) | 3:20 | 2019-12-10 |  |
+| [Light Personified](https://open.spotify.com/track/1AQlZoCOk9SHb4nIZF07uf) | [Fintan](https://open.spotify.com/artist/1JLB3JYl1p8ob8o5Y35bT6) | [Light Personified](https://open.spotify.com/album/7CNT44xDuQHv8gKnhd30SQ) | 3:20 | 2019-12-10 | 2022-11-12 |
 | [Light Personified](https://open.spotify.com/track/1qtRjq4lKqilxJCQErodW8) | [Fintan](https://open.spotify.com/artist/1JLB3JYl1p8ob8o5Y35bT6) | [Light Personified](https://open.spotify.com/album/7CcRPXoDJ6gDw3g27gjy8u) | 3:20 | 2019-12-10 | 2022-10-14 |
 | [Limbo](https://open.spotify.com/track/3QFoimz3M85b96Qo3UwfFN) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Limbo](https://open.spotify.com/album/0ZHHeDr94cRR3fitDONgge) | 3:44 | 2019-12-10 |  |
 | [Limbo](https://open.spotify.com/track/6VVr03DVlC6rqp8uFTPVUx) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Limbo](https://open.spotify.com/album/4ciSUimSqK6DSbeAuBDm5Q) | 3:44 | 2019-12-10 | 2022-10-13 |

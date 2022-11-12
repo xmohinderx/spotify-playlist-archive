@@ -4,7 +4,7 @@
 
 > Scopri i tuoi nuovi artisti italiani preferiti! Cover: TOMMY DALI
 
-79 songs - 3 hr 56 min - [published](https://open.spotify.com/playlist/4DfmxbBDAJRVZ9vLByCzL3)
+80 songs - 3 hr 58 min - [published](https://open.spotify.com/playlist/4DfmxbBDAJRVZ9vLByCzL3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,8 @@
 | [SERPENTI](https://open.spotify.com/track/0M23VPfGeVvHpBM1rYhULk) | [Caffellatte](https://open.spotify.com/artist/7xmNRoYqVgsIiyIwRxrlay) | [SERPENTI](https://open.spotify.com/album/5XUlQst8QXgZPheieGtDG8) | 2:14 | 2022-08-31 |  |
 | [Shakerando](https://open.spotify.com/track/4EC028SvtlC25iHQSG2OIa) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Shakerando](https://open.spotify.com/album/4ZF92wezwJWluQn4CQcXLJ) | 3:15 | 2022-08-31 |  |
 | [SO CHI SEI](https://open.spotify.com/track/3uNwqefXvTVJROzoGzOMCj) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [SO CHI SEI](https://open.spotify.com/album/7H4olKm9KSm2stKpSkih6N) | 3:41 | 2022-08-31 |  |
-| [SOLO CON ME \(con TOMMY DALI\)](https://open.spotify.com/track/6v03mGE1388jzs9Ufvivia) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [TOMMY DALI](https://open.spotify.com/artist/0dus12DVjr0hoFaUDOz9B5) | [TAXI DRIVER](https://open.spotify.com/album/4D04TN7Kw7Bq98kfDjUmgh) | 2:26 | 2022-08-31 |  |
+| [SOLO CON ME \(con TOMMY DALI\)](https://open.spotify.com/track/4oGM8IoI34tjt7v34MBqPx) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [TOMMY DALI](https://open.spotify.com/artist/0dus12DVjr0hoFaUDOz9B5) | [TAXI DRIVER](https://open.spotify.com/album/3mKwP54SGTWacqb1IakUDs) | 2:26 | 2022-11-07 |  |
+| [SOLO CON ME \(con TOMMY DALI\)](https://open.spotify.com/track/6v03mGE1388jzs9Ufvivia) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [TOMMY DALI](https://open.spotify.com/artist/0dus12DVjr0hoFaUDOz9B5) | [TAXI DRIVER](https://open.spotify.com/album/4D04TN7Kw7Bq98kfDjUmgh) | 2:26 | 2022-08-31 | 2022-11-12 |
 | [sottacqua](https://open.spotify.com/track/2Pdr33YqelbFwPepOAwBQy) | [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe), [rovere](https://open.spotify.com/artist/5epzSn98pqluCq6hyGu3ux) | [sottacqua](https://open.spotify.com/album/0zj4qpoGerASVYBsq8uy2z) | 3:21 | 2022-08-31 |  |
 | [sotto casa tua](https://open.spotify.com/track/1IRpiETZQGRNecgAfJOmHe) | [Frada](https://open.spotify.com/artist/1khPlpMPliiZeK53WWSWXY), [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [sotto casa tua](https://open.spotify.com/album/4kLQ38DsCUQ4RPDwmWweWu) | 2:42 | 2022-08-31 |  |
 | [Tasche Piene](https://open.spotify.com/track/6FDnLloftKFqfavEIxGJy2) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt), [Bigghie](https://open.spotify.com/artist/2nLSzxzEXcb6ZSqSjWNnul) | [Tasche Piene](https://open.spotify.com/album/1rqwu4TY5aQVaipvV6TED7) | 2:40 | 2022-08-31 |  |

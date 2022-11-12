@@ -744,6 +744,24 @@
     },
     {
       "album": {
+        "name": "My Hurricane",
+        "url": "https://open.spotify.com/album/5knuQLXo7V4YnODlay8oKy"
+      },
+      "artists": [
+        {
+          "name": "Jamie Scott",
+          "url": "https://open.spotify.com/artist/29QbBR0oTzA7A0kiOzrbbr"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241399,
+      "name": "Carry You Home",
+      "url": "https://open.spotify.com/track/282p5nzzWitBct4l5NXoYz"
+    },
+    {
+      "album": {
         "name": "Carry You Home",
         "url": "https://open.spotify.com/album/0pNYOy3vQH4yg3H8vN2VIz"
       },
@@ -1135,7 +1153,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 241625,
       "name": "Don't Tell Me",
       "url": "https://open.spotify.com/track/1MzaBCyq0TX0ScxSmG6Cd1"
@@ -1304,6 +1322,24 @@
     },
     {
       "album": {
+        "name": "Divinely Uninspired To A Hellish Extent (Extended Edition)",
+        "url": "https://open.spotify.com/album/2wiPF3m0ylst0JSk1IvZL8"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246053,
+      "name": "Fade",
+      "url": "https://open.spotify.com/track/5vb911FNE2t5YSFxIVSXWj"
+    },
+    {
+      "album": {
         "name": "Divinely Uninspired To A Hellish Extent",
         "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
       },
@@ -1391,7 +1427,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 237875,
       "name": "Feathers & Gasoline",
       "url": "https://open.spotify.com/track/3m7eo6EV3kkJwo6lmIBvkV"
@@ -1677,7 +1713,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 263573,
       "name": "Free Fallin' - Live at the Nokia Theatre, Los Angeles, CA - December 2007",
       "url": "https://open.spotify.com/track/4LloVtxNZpeh7q7xdi1DQc"
@@ -2723,7 +2759,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 198101,
       "name": "Just You and I - Acoustic",
       "url": "https://open.spotify.com/track/1vkUmedJVhScV9MmRsLGSY"
@@ -3005,7 +3041,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 225853,
       "name": "Lost Without You",
       "url": "https://open.spotify.com/track/3cWI6Hj9LQ0MfMuhw9uSMc"
@@ -3156,6 +3192,24 @@
     },
     {
       "album": {
+        "name": "Long Game",
+        "url": "https://open.spotify.com/album/3GP1FwVwl9fq1G8Dm02Wwg"
+      },
+      "artists": [
+        {
+          "name": "Gavin Haley",
+          "url": "https://open.spotify.com/artist/5pOYIshq4ZLnVBEuw8sF6f"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155322,
+      "name": "Low Beams",
+      "url": "https://open.spotify.com/track/5uxABvfZB7XLBZpD4iQBqb"
+    },
+    {
+      "album": {
         "name": "Lying To Myself",
         "url": "https://open.spotify.com/album/4vnyXmkgSgbduvuZOCbtLO"
       },
@@ -3239,7 +3293,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": true,
-      "date_removed": "2021-10-13",
+      "date_removed": null,
       "duration_ms": 181821,
       "name": "Make Me (Cry) - Acoustic",
       "url": "https://open.spotify.com/track/4J87Y0ggs18DNP7XMn3f0X"
@@ -4278,6 +4332,24 @@
     },
     {
       "album": {
+        "name": "Truth Is a Beautiful Thing (Deluxe)",
+        "url": "https://open.spotify.com/album/2czuN6tZcR5ebpuK9A1Vur"
+      },
+      "artists": [
+        {
+          "name": "London Grammar",
+          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269613,
+      "name": "Rooting For You",
+      "url": "https://open.spotify.com/track/0HFCw1viBRc2siCdkjL86P"
+    },
+    {
+      "album": {
         "name": "Runaway",
         "url": "https://open.spotify.com/album/4iioyYjn5y3TYGTdl7qdL5"
       },
@@ -4823,7 +4895,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 215320,
       "name": "Suitcase",
       "url": "https://open.spotify.com/track/6dQ1FEt4FByE6tU0dvQNmr"
@@ -4985,7 +5057,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 199133,
       "name": "The Best You Had - Acoustic Version",
       "url": "https://open.spotify.com/track/3DUuf2LE8BBuWZUFuwFGkf"
@@ -5123,7 +5195,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 174860,
       "name": "There's No Way",
       "url": "https://open.spotify.com/track/5ZpIsCmJtMAyTvz8Z3bGXX"
@@ -5319,6 +5391,24 @@
       "duration_ms": 196758,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/0nLIWDY8Zp9yWwLhaprVfF"
+    },
+    {
+      "album": {
+        "name": "Too Much To Ask",
+        "url": "https://open.spotify.com/album/3vhVJsjiAe3UAaHUTijAK5"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223043,
+      "name": "Too Much To Ask",
+      "url": "https://open.spotify.com/track/2NkbRmygVirMQFCjSkyY7Q"
     },
     {
       "album": {
@@ -5902,6 +5992,24 @@
     },
     {
       "album": {
+        "name": "Lukas Graham",
+        "url": "https://open.spotify.com/album/4rFrdkSWs0dtj0rWPzOk1v"
+      },
+      "artists": [
+        {
+          "name": "Lukas Graham",
+          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236853,
+      "name": "What Happened to Perfect",
+      "url": "https://open.spotify.com/track/67DNRQWjRLMFvekBRprYtW"
+    },
+    {
+      "album": {
         "name": "Lukas Graham (Blue Album)",
         "url": "https://open.spotify.com/album/6NQ2RNksdSKdtnlFOLJo24"
       },
@@ -6291,7 +6399,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 211400,
       "name": "You Make It Real",
       "url": "https://open.spotify.com/track/4Xvcx48q8khat7M1YUYaYW"

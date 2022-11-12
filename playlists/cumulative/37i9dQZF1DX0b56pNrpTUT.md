@@ -4,7 +4,7 @@
 
 > Sophisticated palates only\. Curated by: Eve Fairley\-Chickwe
 
-57 songs - 3 hr 0 min - [published](https://open.spotify.com/playlist/5v6HJgBAe39wmbvpUxa1an)
+58 songs - 3 hr 4 min - [published](https://open.spotify.com/playlist/5v6HJgBAe39wmbvpUxa1an)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [Call Your Name](https://open.spotify.com/track/2hwf6IE0V4MVqw9tbWY9FQ) | [Tora\-i](https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z) | [Call Your Name](https://open.spotify.com/album/6YefvGO0wSkfRa2DqWiF5K) | 3:16 | 2022-10-01 |  |
 | [Cashmere](https://open.spotify.com/track/6lU17eD72HITJQi6whfHH7) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Cashmere](https://open.spotify.com/album/3MSWBNsXCTc7U3lE8FDtY1) | 3:03 | 2022-10-01 |  |
 | [Cherries](https://open.spotify.com/track/13z7RLPmgupzRwQY9NiTZU) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [Girl Eats Sun](https://open.spotify.com/album/6Go01eX2LbvalYrTF8r8Ps) | 3:03 | 2022-10-01 |  |
-| [Collide \- From "Queen & Slim: The Soundtrack"](https://open.spotify.com/track/6mDz3yFi4hJeL2mP4lmg51) | [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Back At Sixes And Sevens](https://open.spotify.com/album/3QX0G9KLHXd84busDSiJxq) | 3:24 | 2022-10-01 |  |
+| [Collide \- From "Queen & Slim: The Soundtrack"](https://open.spotify.com/track/6mDz3yFi4hJeL2mP4lmg51) | [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Back At Sixes And Sevens](https://open.spotify.com/album/3QX0G9KLHXd84busDSiJxq) | 3:24 | 2022-10-01 | 2022-11-12 |
+| [Collide \- From "Queen & Slim: The Soundtrack"](https://open.spotify.com/track/7cAArLgLtdb9SwUB7K4DKs) | [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [At Sixes And Sevens Remixed](https://open.spotify.com/album/559YhMnVMWZoKJiqKN2PhX) | 3:24 | 2022-10-01 |  |
 | [Come We Bill Ehh](https://open.spotify.com/track/1KVkwvAEBH4Epf1Oc17LI0) | [Midas the Jagaban](https://open.spotify.com/artist/07MX7XJsNTn8JlgEcbZ7Fd) | [Rocks \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1gWLuBpsrzqXjyObZZdSZg) | 3:06 | 2022-10-01 |  |
 | [Evil Eye \- A COLORS SHOW](https://open.spotify.com/track/0X4OaqRlKPYdIFL2LZECHv) | [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [Evil Eye \- A COLORS SHOW](https://open.spotify.com/album/3uc0BBMDWAkDwxunNXZtJx) | 2:55 | 2022-10-01 |  |
 | [Flipside](https://open.spotify.com/track/3h1ivCOHhZXtR77nCaJLSl) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Flipside](https://open.spotify.com/album/5wlLGEGHLCR6IGwPa5T8Jg) | 3:11 | 2022-10-01 |  |

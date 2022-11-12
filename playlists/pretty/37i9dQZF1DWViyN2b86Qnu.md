@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViyN2b86Qnu.md) - [plain]
 
 > Removing the barriers of gender and genre, these are the brilliant sounds of transgender, non\-binary and gender\-fluid artists\. Cover: G Flip
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,098 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,129 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViyN2b86Qnu.md) - [plain]
 | 9 | [it's not that bad](https://open.spotify.com/track/6iUsnQ0gqehflExGxmICBG) | [Caroline & Claude](https://open.spotify.com/artist/31KYVnV5N4VuzjfBXPZMMl) | [It's Not That Bad](https://open.spotify.com/album/0aSAgvZV6LfEf9KVfcLXz8) | 2:40 |
 | 10 | [American Teenager](https://open.spotify.com/track/4ltqfN12ohaVZdM6C45gMg) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Preacher’s Daughter](https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8) | 4:18 |
 | 11 | [I Deserve to Bleed](https://open.spotify.com/track/27cw0tNJKQQW2CJMGcCfZb) | [Sushi Soucy](https://open.spotify.com/artist/1EbbJiG9LzlH2i7fCjhkvv) | [I Deserve to Bleed](https://open.spotify.com/album/4ckUf8kp5DxcJRRsy0yjXm) | 1:44 |
-| 12 | [Pretty Lady](https://open.spotify.com/track/77R5bq7AvzIevi8wicB3Oz) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Terra Firma](https://open.spotify.com/album/6CubvryZSNI5UsrftXJqhK) | 4:39 |
+| 12 | [Pretty Lady](https://open.spotify.com/track/4o21k4S4YoueaUfiKkImea) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Pretty Lady](https://open.spotify.com/album/6GvxhHWo3EyQLW94ftqtoz) | 4:37 |
 | 13 | [Wave](https://open.spotify.com/track/4uhSS1aE2C4j9lk7Ea7XiW) | [Mo’Ju](https://open.spotify.com/artist/08kSC3EyOASw4LU1BmBG6g) | [O.K.](https://open.spotify.com/album/2roZhR0fCZQbphZ0M7Ek01) | 2:44 |
 | 14 | [A Shitty Gay Song About You](https://open.spotify.com/track/7cA93NpGWT5pgyxNtsszSR) | [Ezra Williams](https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48) | [A Shitty Gay Song About You](https://open.spotify.com/album/5kPGmWHhhg25uk0lh3d229) | 1:55 |
 | 15 | [Mannish Boy](https://open.spotify.com/track/4P8w7rdtAHEibetAqD8aF9) | [imbi](https://open.spotify.com/artist/2IHmdcnsjh89cIaDcVxTuF) | [Mannish Boy](https://open.spotify.com/album/4bv0aDc9XUkx9UcxuzR4p2) | 4:47 |
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViyN2b86Qnu.md) - [plain]
 | 85 | [Serotonin Serenade](https://open.spotify.com/track/2Ff6Ghw8TRJGuAbJamtt4X) | [SuperKnova](https://open.spotify.com/artist/7om8BpNIYHtacdW2rDVHuD) | [American Queers](https://open.spotify.com/album/3HAKCGSBK2CdNR94iSKMLS) | 4:22 |
 | 86 | [Heels](https://open.spotify.com/track/3KscNimoarA53lRrC5JkWG) | [Sir Babygirl](https://open.spotify.com/artist/3Z9b1MnVKbJw8LpgQclsls) | [Crush on Me](https://open.spotify.com/album/2Nr6Y9RNI7eehIi4YeSZDu) | 3:15 |
 | 87 | [Yandere](https://open.spotify.com/track/6a9gDPGHaLfiM2XYrKXOVy) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Yandere](https://open.spotify.com/album/3Np4ztZJFfK4IGT72lzqUo) | 3:31 |
-| 88 | [Malibu](https://open.spotify.com/track/7G0tY4ErguYZpP6nQ6Qcnc) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Malibu](https://open.spotify.com/album/5wtQMwjNEy1x2OIkUIz5Lk) | 3:11 |
+| 88 | [Malibu](https://open.spotify.com/track/02w1bcPNTPrF06IsMoQxUc) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Cold Heart](https://open.spotify.com/album/2ub4hh8QvhlDh9MzsAdzF3) | 3:11 |
 | 89 | [Dysphøria](https://open.spotify.com/track/7EERmr3BgKN2AytN7wSiVp) | [Ezzy](https://open.spotify.com/artist/4Q5X4WCusKh5HIPcdN779z) | [Mother](https://open.spotify.com/album/6GVLNfMWPtOf4NYT1tRAbM) | 3:01 |
 | 90 | [Better Place](https://open.spotify.com/track/7HkjqnIkhZKRrByBReoNdz) | [Godford](https://open.spotify.com/artist/4pUwtnbS6FdBniLp410AOu) | [Better Place \(Super Flu Remix\)](https://open.spotify.com/album/56hJYPMJvT1VmVmpzYb9ve) | 3:46 |
 | 91 | [Perfect Day](https://open.spotify.com/track/07i5NWDPwpQN7UQu33Eq2B) | [RVG](https://open.spotify.com/artist/4a2c6VZMfp0CdNg1JgSPR9) | [Perfect Day](https://open.spotify.com/album/372ih46hVEhyul0HJvEJcQ) | 3:09 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViyN2b86Qnu.md) - [plain]
 | 99 | [Hire](https://open.spotify.com/track/6RiI88pDWXUBJcRPuNkjHK) | [Girlpool](https://open.spotify.com/artist/3BYXi96LqI8TwNljFKE0DZ) | [What Chaos Is Imaginary](https://open.spotify.com/album/58HB0yjdQE2MH5MrfWt4EO) | 2:55 |
 | 100 | [summer party 3019](https://open.spotify.com/track/45QTRSrFVSbfTJSpHNIlaP) | [In Love With a Ghost](https://open.spotify.com/artist/21tDFddcOFDYmiobTcls2O) | [Playful Spirits](https://open.spotify.com/album/6lLhOnxSvlUgzvm3a6kByS) | 3:06 |
 
-Snapshot ID: `MTY1Nzc3MDM2NiwwMDAwMDAwMGQ5NzJjOWRkNmYzYjMzZWQ0OTcyYmUyYTRjYjBlNGIz`
+Snapshot ID: `MTY1Nzc3MDM2NiwwMDAwMDAwMDEyMDkzNDhhZmZmMjU4NTc5ZTBkNDIwNWY3ZDlmZjYy`

@@ -4,7 +4,7 @@
 
 > The sweet sounds of Syria.
 
-77 songs - 6 hr 7 min - [published](https://open.spotify.com/playlist/1T0FUNSxflc8VN7roYu6Gu)
+78 songs - 6 hr 11 min - [published](https://open.spotify.com/playlist/1T0FUNSxflc8VN7roYu6Gu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Azmit Si'a](https://open.spotify.com/track/1XHLgUKyGLiVYLrNbmVcrl) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Azmit Si'a](https://open.spotify.com/album/5UU5rgdVhDUEro6sBHRpFp) | 3:41 | 2022-09-01 |  |
 | [Azmit Si'a \- Al Hayba Al Hassad](https://open.spotify.com/track/4UmFBsrFvdjsc3Z3SoljRz) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Azmit Si'a \(Al Hayba Al Hassad\)](https://open.spotify.com/album/6JfHJELRDNv27HDNrsH17j) | 3:41 | 2021-10-19 | 2022-07-29 |
 | [Ba'd Elly Saar](https://open.spotify.com/track/2pzOyjen1j1KRzhbeSljyK) | [Shahd Barmada](https://open.spotify.com/artist/6wwlkaIcFu0b2L2w6xtVRr) | [Ba'd Elly Saar](https://open.spotify.com/album/3smQLsJJVePTMMMcWrMFMG) | 4:44 | 2021-10-19 |  |
-| [Bahebak Mn Baad Allah](https://open.spotify.com/track/5oCE5R5foOBwF9B3IxzzQf) | [Anas Kareem](https://open.spotify.com/artist/03IOvKWtAnWAOVf5864dUS) | [Bahebak Mn Baad Allah](https://open.spotify.com/album/6SXj5pyRtUaSUUE1VjBb7w) | 4:17 | 2022-06-20 |  |
+| [Bahebak Mn Baad Allah](https://open.spotify.com/track/5oCE5R5foOBwF9B3IxzzQf) | [Anas Kareem](https://open.spotify.com/artist/03IOvKWtAnWAOVf5864dUS) | [Bahebak Mn Baad Allah](https://open.spotify.com/album/6SXj5pyRtUaSUUE1VjBb7w) | 4:17 | 2022-06-20 | 2022-11-12 |
 | [Bhebbik Men Baad Allah](https://open.spotify.com/track/4Sqi8djOYFInf9UHpacniN) | [Anas Kareem](https://open.spotify.com/artist/03IOvKWtAnWAOVf5864dUS) | [Bhebbik Men Baad Allah](https://open.spotify.com/album/04si7VoDyePF14eWHbhG9k) | 4:17 | 2021-10-19 | 2022-07-29 |
 | [Bi Rabbek](https://open.spotify.com/track/2chdDv7xxwZaMXaTbRKNHk) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Dance With Nassif Zeytoun](https://open.spotify.com/album/1TABHyMM46DStN9R57uUdE) | 3:53 | 2022-09-01 |  |
 | [Bi Rabbek](https://open.spotify.com/track/5XzclhGEjRodFYM54nSuDo) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Toul Al Yom](https://open.spotify.com/album/0fEk2u9h2WZa8tB6prjewu) | 3:53 | 2022-06-20 | 2022-11-11 |
@@ -60,6 +60,7 @@
 | [Mafi Shi Byijmana](https://open.spotify.com/track/60XhpaaRTAJEgRqMmu2OG8) | [Yousef Kekhia](https://open.spotify.com/artist/7EhcVdfydM4Hdfv5usdCRw) | [Monologue](https://open.spotify.com/album/1tZH9Nv3aLL1AxJTQNwDHr) | 5:28 | 2021-10-19 |  |
 | [Mahlaki](https://open.spotify.com/track/1BoO5X2MnrwnaN6fEKHo7Q) | [Hussein Al Deek](https://open.spotify.com/artist/1QxkWzg3QsYJv6xMXSuVMs) | [Mahlaki](https://open.spotify.com/album/7LYuHz535r0Prz2rXmEQ6n) | 4:14 | 2022-06-20 | 2022-11-11 |
 | [Mahlaki](https://open.spotify.com/track/5u7fv6kikvIUdtlQ2xqDu0) | [Hussein Al Deek](https://open.spotify.com/artist/1QxkWzg3QsYJv6xMXSuVMs) | [Mahlaki](https://open.spotify.com/album/2JBUKhBEh1KTFRUzS4kaMx) | 4:14 | 2021-10-19 | 2022-07-29 |
+| [Mahlaki](https://open.spotify.com/track/7E83hitgLXJ3gEeqMCXfpk) | [Hussein Al Deek](https://open.spotify.com/artist/1QxkWzg3QsYJv6xMXSuVMs) | [Midnight America](https://open.spotify.com/album/2VbNjsN8qdjQkhm08XoeAV) | 4:14 | 2022-09-01 |  |
 | [Malak Halle](https://open.spotify.com/track/6uOdpvk7I3RL92xbcbPt6q) | [Mais Harb](https://open.spotify.com/artist/4QanuerHBNrfWoC9x0ojk5) | [Malak Halle](https://open.spotify.com/album/1H8pbCWqU3lAmFmktdI3Tz) | 4:22 | 2022-08-14 |  |
 | [Masa Shamy](https://open.spotify.com/track/1eUoFO2RVoWogedFcU9xIT) | [Nurulez](https://open.spotify.com/artist/3Tpt01jawwzcAPkrjNLR7g) | [Apachi](https://open.spotify.com/album/5O905UHULciUjek70N7dmW) | 3:08 | 2021-10-19 |  |
 | [Metwadaa](https://open.spotify.com/track/47i3WNZ59Ch7cZrHXeYFhb) | [George Koubaily](https://open.spotify.com/artist/3J7vlOVLXXZRwex8Qt2nFT) | [Metwadaa](https://open.spotify.com/album/0rpKka1NxgkYEvogBStAj2) | 4:16 | 2021-10-19 |  |

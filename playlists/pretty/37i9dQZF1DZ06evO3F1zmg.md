@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3F1zmg.md) - [plain]
 
 > This is Saweetie\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,290 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,315 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3F1zmg.md) - [plain]
 | 5 | [Closer \(feat\. H.E.R.\)](https://open.spotify.com/track/1dKe9VEGUSNfzn5MDvm6SJ) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Closer \(feat\. H.E.R.\)](https://open.spotify.com/album/5IZ3qMtXKXAleWBxB7vWen) | 2:48 |
 | 6 | [HIT IT \(feat\. Saweetie & Lele Pons\)](https://open.spotify.com/track/3F450ZpnsuW5G7YMmjMLmi) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [Lele Pons](https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx) | [HIT IT \(feat\. Saweetie & Lele Pons\)](https://open.spotify.com/album/1xSMnmIJ4Eeqo7zTm84OO3) | 3:55 |
 | 7 | [Tap In](https://open.spotify.com/track/4Hpib09wXgD84w4uwTPnYD) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Tap In](https://open.spotify.com/album/3XpOIE22NDEl5VSguQGv2h) | 2:19 |
-| 8 | [Baby Boo \(with Saweetie\)](https://open.spotify.com/track/68aV83AuiEu1xeHDGulsyB) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Baby Boo](https://open.spotify.com/album/0DW558ZCBNQQ3hBzOqVeP4) | 2:32 |
-| 9 | [Back to the Streets \(feat\. Jhené Aiko\)](https://open.spotify.com/track/3MEruRteiUZXkStfTlZqRn) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Back to the Streets \(feat\. Jhené Aiko\)](https://open.spotify.com/album/5Qg2XXhV3sxOgfbXtAhU3N) | 3:09 |
+| 8 | [Back to the Streets \(feat\. Jhené Aiko\)](https://open.spotify.com/track/3MEruRteiUZXkStfTlZqRn) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Back to the Streets \(feat\. Jhené Aiko\)](https://open.spotify.com/album/5Qg2XXhV3sxOgfbXtAhU3N) | 3:09 |
+| 9 | [Baby Boo \(with Saweetie\)](https://open.spotify.com/track/68aV83AuiEu1xeHDGulsyB) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Baby Boo](https://open.spotify.com/album/0DW558ZCBNQQ3hBzOqVeP4) | 2:32 |
 | 10 | [Faking Love \(feat\. Saweetie\)](https://open.spotify.com/track/3V7jLMYvvg4BHi4tmDveNc) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Faking Love \(feat\. Saweetie\)](https://open.spotify.com/album/0keCRGjhQNl2Wba6nSwqgx) | 2:28 |
 | 11 | [Confetti \(feat\. Saweetie\)](https://open.spotify.com/track/4oXV7uPMrMNSZfLMYtiqIX) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Between Us \(The Mixers Edition\)](https://open.spotify.com/album/4pkTcvV4pTt3xDkdG4rcpz) | 3:05 |
 | 12 | [ICY GRL](https://open.spotify.com/track/1sl1cpix9GnwNwaVt04BIu) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [High Maintenance](https://open.spotify.com/album/4Sz0PugCLKo0CEA7zgPplW) | 1:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3F1zmg.md) - [plain]
 | 49 | [Baila Conmigo](https://open.spotify.com/track/2sJHeAvFZ58o3Z6CB56EdU) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Jenn Morel](https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a) | [Baila Conmigo](https://open.spotify.com/album/3pcIJIuMpyw7L2fxGETbzk) | 2:35 |
 | 50 | [Good Good](https://open.spotify.com/track/3KmUrUs6pqJaPqpswIKN6C) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [High Maintenance](https://open.spotify.com/album/4Sz0PugCLKo0CEA7zgPplW) | 3:21 |
 
-Snapshot ID: `Mjc4MDE1OTIsMDAwMDAwMDBkMDNkMjk3MjNmMmFkNmY0NjcyMzU2ZmI1NGJiMTNlMw==`
+Snapshot ID: `Mjc4MDI5OTksMDAwMDAwMDA3OTQ4MmJiNzA4NWQ4Njc4MWQ1MzYwOTQ2YWY2ZWY4Mw==`

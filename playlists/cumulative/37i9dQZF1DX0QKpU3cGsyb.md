@@ -4,7 +4,7 @@
 
 > Slow jams for the passionate.
 
-159 songs - 8 hr 49 min - [published](https://open.spotify.com/playlist/4iNBaLqDGJZwIsNTocNOfF)
+160 songs - 8 hr 51 min - [published](https://open.spotify.com/playlist/4iNBaLqDGJZwIsNTocNOfF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,8 +131,9 @@
 | [Slow Down \(feat\. Lucky Daye\)](https://open.spotify.com/track/6EsOT4Yq4BavQSJ4sEe9dw) | [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Slow Down \(feat\. Lucky Daye\)](https://open.spotify.com/album/3bP5HbrQemp8PQS9Z9gnCF) | 3:47 | 2021-11-09 |  |
 | [Sock It 2 Me](https://open.spotify.com/track/50djZgba5gDPdYp7aJG57w) | [LAYA](https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X) | [Sock It 2 Me](https://open.spotify.com/album/3SkBB3iH6FtsIx2PxqtO35) | 3:21 | 2022-06-17 | 2022-06-19 |
 | [SPF](https://open.spotify.com/track/1CONbh9I0awPEZ6VUVowW1) | [Felix Ames](https://open.spotify.com/artist/0UBIK7mjIJeYZ5qy6fUPG2) | [SPF](https://open.spotify.com/album/1hmZCRXu4CDl7DfxIOEo2U) | 2:43 | 2022-03-11 | 2022-07-04 |
+| [Spoon & Bang](https://open.spotify.com/track/2CQtm3HiUKwjKJ1pMnpnre) | [Kyle Dion](https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3) | [Spoon & Bang](https://open.spotify.com/album/27wmufyQeEqEBKik9A4USF) | 2:09 | 2022-07-15 |  |
 | [Spoon & Bang](https://open.spotify.com/track/2RkvnSmAzC49zlXmzKfisn) | [Kyle Dion](https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3) | [Spoon & Bang](https://open.spotify.com/album/4lBjA3mBpNpZpYh52mtvjF) | 2:09 | 2022-07-08 | 2022-10-13 |
-| [Spoon & Bang](https://open.spotify.com/track/65fTruLlZlBtPiZuEFUFN7) | [Kyle Dion](https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3) | [SASSY \(Deluxe\)](https://open.spotify.com/album/2FBmbNR9eJ6BY4QIWBRI38) | 2:09 | 2022-07-15 |  |
+| [Spoon & Bang](https://open.spotify.com/track/65fTruLlZlBtPiZuEFUFN7) | [Kyle Dion](https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3) | [SASSY \(Deluxe\)](https://open.spotify.com/album/2FBmbNR9eJ6BY4QIWBRI38) | 2:09 | 2022-07-15 | 2022-11-12 |
 | [SPUNK](https://open.spotify.com/track/6CY2Bg6y16n0OZ3NBdEqFY) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [MWWU](https://open.spotify.com/album/0NBaKfplyaTuveWlC1oB0z) | 3:44 | 2022-01-07 | 2022-05-21 |
 | [Sunset Eyes](https://open.spotify.com/track/43JDDAnJu7fyNToaRUsjGH) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Based On A Feeling](https://open.spotify.com/album/3PdyuqyxiDFTujJ8e2U2E2) | 2:26 | 2022-05-06 | 2022-05-20 |
 | [Surprise](https://open.spotify.com/track/3xcapG4WdzvsER4g70MjKc) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Surprise](https://open.spotify.com/album/2C3rUs6GnKWT0c101eBiQb) | 2:35 | 2022-06-17 |  |

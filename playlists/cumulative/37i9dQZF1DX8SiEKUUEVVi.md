@@ -4,7 +4,7 @@
 
 > Intoxicating, joyful pop captures the Pride spirit for the Austrian drag queen and Eurovision Song Contest 2014 winner.
 
-39 songs - 2 hr 21 min - [published](https://open.spotify.com/playlist/0QIWLBdDSfcQJjUD8rQpQ3)
+40 songs - 2 hr 25 min - [published](https://open.spotify.com/playlist/0QIWLBdDSfcQJjUD8rQpQ3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [Revolution \- Radio Edit](https://open.spotify.com/track/2DeEXfLtcC6TYMhOx5i24d) | [Elias](https://open.spotify.com/artist/0UCLbPGOhtnYf29U7qbfLf) | [Revolution](https://open.spotify.com/album/6IPacncZL1jOyXgnuePDR9) | 3:00 | 2017-06-08 |  |
 | [Shades of Blue](https://open.spotify.com/track/1qGi797wVdwu3DpsVGi6RJ) | [ESKA](https://open.spotify.com/artist/6pBfwu2Yt96wWprf96vhpg) | [Shades of Blue \- Single](https://open.spotify.com/album/4ABq2G5yLoXCguSvOMJ1S4) | 4:04 | 2017-06-08 | 2022-07-29 |
 | [Shades of Blue](https://open.spotify.com/track/3EQ1tsO3gLby0K294yTGEz) | [ESKA](https://open.spotify.com/artist/6pBfwu2Yt96wWprf96vhpg) | [ESKA](https://open.spotify.com/album/33ivVGguNH9c9nA223YAGc) | 4:04 | 2022-07-29 |  |
-| [What You Don't Do](https://open.spotify.com/track/0gorODYIUfyg83lBPnPbZs) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Blood](https://open.spotify.com/album/0OyUgwL97FT5MWpBLqL6br) | 3:40 | 2022-07-29 |  |
+| [What You Don't Do](https://open.spotify.com/track/0gorODYIUfyg83lBPnPbZs) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Blood](https://open.spotify.com/album/0OyUgwL97FT5MWpBLqL6br) | 3:40 | 2022-07-29 | 2022-11-12 |
+| [What You Don't Do](https://open.spotify.com/track/2txZKGnh75sFb3FFnuwjgF) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [What You Don't Do](https://open.spotify.com/album/54lLC6rMU62oNOYyyzUEVF) | 3:40 | 2022-11-12 |  |
 | [What You Don't Do](https://open.spotify.com/track/4mityPmJpqtHea3y9qZLg6) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Blood](https://open.spotify.com/album/1Fh5Y8ldo4PIW8Ija51BRK) | 3:40 | 2017-06-08 | 2022-07-29 |
 | [You Are Unstoppable](https://open.spotify.com/track/0ZZNnIX9FTmCufK0aZmq2I) | [Conchita Wurst](https://open.spotify.com/artist/1TGdxJ3UvFq055SVjwx49v) | [Conchita](https://open.spotify.com/album/3Fpq5QWmRxZtEE8h8bm04S) | 3:27 | 2017-06-08 |  |
 | [You're The One That I Want](https://open.spotify.com/track/0rONIAKyhhXXHxPfyc9dGf) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Big Jet Plane \(EP\)](https://open.spotify.com/album/1MqIFlrrhEh7lO6yZQjzUX) | 3:12 | 2017-06-08 | 2022-07-29 |

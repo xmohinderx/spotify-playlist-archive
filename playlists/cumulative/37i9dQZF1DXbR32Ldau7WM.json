@@ -3036,6 +3036,24 @@
     },
     {
       "album": {
+        "name": "Next Ex - Fresh Alt",
+        "url": "https://open.spotify.com/album/2x1hYSyeiOp0QvRGFWeDwo"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197995,
+      "name": "Save Yourself",
+      "url": "https://open.spotify.com/track/2FudXNJ5QUq21NeeMlb3lv"
+    },
+    {
+      "album": {
         "name": "Luxury Disease",
         "url": "https://open.spotify.com/album/7bR908SDBENoC7rqC0k4h4"
       },
@@ -3083,7 +3101,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 197995,
       "name": "Save Yourself - Japanese Version",
       "url": "https://open.spotify.com/track/5e1lq4ACnnVhiQb4g04ehq"

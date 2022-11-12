@@ -4,7 +4,7 @@
 
 > Beautiful classical Indian Ragas to soundtrack your Yoga session.
 
-54 songs - 7 hr 24 min - [published](https://open.spotify.com/playlist/5nvpEmZ7xtA24TRw5qVog0)
+56 songs - 7 hr 43 min - [published](https://open.spotify.com/playlist/5nvpEmZ7xtA24TRw5qVog0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [Peaceful Escape \(Raga Bhimpalasi\)](https://open.spotify.com/track/1iOJROLXHdQM4eOyFutqKw) | [G.S\. Sachdev](https://open.spotify.com/artist/6jGk8eDMQBWb1IjNLI51Yz) | [Whisper](https://open.spotify.com/album/5JbHzXUfSQuVXabVdaEuNr) | 5:03 | 2022-09-01 |  |
 | [Pilu](https://open.spotify.com/track/0fhMfRX1cNa5YqjADO581I) | [Hariprasad Chaurasia](https://open.spotify.com/artist/7CozfB3IEACZpAelpwkUon) | [The Raga Guide](https://open.spotify.com/album/6LX6cgc3VpmVozT2wz83yy) | 5:52 | 2022-09-01 |  |
 | [Prema Chakor](https://open.spotify.com/track/6pwSMTkChJf5uYM5vzjWKN) | [Debashish Bhattacharya](https://open.spotify.com/artist/1gluErp8xTWWbjs6kh3Qjb) | [Calcutta Slide\-Guitar](https://open.spotify.com/album/10xA7rIoH7opaKQHlG4SBv) | 9:20 | 2022-09-01 |  |
-| [Raag Bhairavi](https://open.spotify.com/track/58178J0qm8wByXjsnDx78v) | [Shruti Singh](https://open.spotify.com/artist/3ez3pRLzrPuiEhfwqJfWNn), [Navinder Singh](https://open.spotify.com/artist/4ckBtARZbKz0zNyewp9aoU), [Gurdev Singh](https://open.spotify.com/artist/3gsyCBPp33pNMK8P5iJNm3) | [Gurdev Singh: Art of the Indian Sarod](https://open.spotify.com/album/3rTQqOxvbVAAxGHHtIf0uo) | 9:13 | 2022-09-01 |  |
+| [Raag Bhairavi](https://open.spotify.com/track/7aIOCBQ4kc89DKdMMMJ94I) | [Shruti Singh](https://open.spotify.com/artist/3ez3pRLzrPuiEhfwqJfWNn) | [Rhythms of Asia](https://open.spotify.com/album/545RuKBGvnoxxLJwzSp4HH) | 9:13 | 2022-09-01 |  |
+| [Raag Bhairavi](https://open.spotify.com/track/58178J0qm8wByXjsnDx78v) | [Shruti Singh](https://open.spotify.com/artist/3ez3pRLzrPuiEhfwqJfWNn), [Navinder Singh](https://open.spotify.com/artist/4ckBtARZbKz0zNyewp9aoU), [Gurdev Singh](https://open.spotify.com/artist/3gsyCBPp33pNMK8P5iJNm3) | [Gurdev Singh: Art of the Indian Sarod](https://open.spotify.com/album/3rTQqOxvbVAAxGHHtIf0uo) | 9:13 | 2022-09-01 | 2022-11-12 |
 | [Raag Jan Sammohini](https://open.spotify.com/track/2YslUCc6hajPui3BwhUUQs) | [Baluji Shrivastav](https://open.spotify.com/artist/6W1YoudRbtmvymApgIb238) | [Baluji Shrivastav: Shadow of the Lotus \- Classical Indian Ragas](https://open.spotify.com/album/6f5DwByARxl4O8K3danrJ5) | 10:10 | 2022-09-01 |  |
 | [Raag Jhinjhoti](https://open.spotify.com/track/4ez9fZqF6ZZhLe9cWxXjQ5) | [Arnab Chakrabarty](https://open.spotify.com/artist/4Q71a45GZQftTkJRMYqtVn) | [De\-Stress Refresh](https://open.spotify.com/album/4KRf8I4ALrGL9vUrALCu2X) | 11:23 | 2022-09-01 |  |
 | [Raag Kedar](https://open.spotify.com/track/4T6cqFR1Kz0vHMHJNzXjXF) | [Ronu Majumdar](https://open.spotify.com/artist/2BtkOvKNQUqyBvK5pnSx3P) | [The Music Of YOG](https://open.spotify.com/album/0ak4eeLnwDMHIVUtXLWmAc) | 8:18 | 2022-09-01 |  |
@@ -34,7 +35,8 @@
 | [Raga Ahiri Todi \(gat in Vilambit Ektaal\)](https://open.spotify.com/track/2u9opkWyJ5KdA9OaJUzais) | [Benjamin Shrivastav Shanson](https://open.spotify.com/artist/3IKouO9Y74YNhaDsd65Ogl), [Partho Mukherjee](https://open.spotify.com/artist/1IftW1kiCpeNpYZLCIVk2j), [Baluji Shrivastav](https://open.spotify.com/artist/6W1YoudRbtmvymApgIb238) | [The Art of the Indian Dilruba](https://open.spotify.com/album/3sKpqE3Q8WOBeYobxeLO85) | 15:32 | 2022-09-01 |  |
 | [Raga Chayanat \- Alap](https://open.spotify.com/track/7CQ1mfQTmIJx8T1ZiYlICx) | [Ken Zuckerman](https://open.spotify.com/artist/0Qlqyvs4Clg3MhIRwxx5ku) | [Salon de Musique](https://open.spotify.com/album/2qGpTMsaE3KL0SsmtcbxQX) | 9:23 | 2022-09-01 |  |
 | [Raga Des Alap](https://open.spotify.com/track/4a5DylC4oxQbPV11a7kW1X) | [G.S\. Sachdev](https://open.spotify.com/artist/6jGk8eDMQBWb1IjNLI51Yz) | [Introspection](https://open.spotify.com/album/2pDuvSYsImOFjzdlMf7XpQ) | 3:55 | 2022-09-01 |  |
-| [Raga Dhani](https://open.spotify.com/track/3oYV5o683DdesdrU5WCnyW) | [Baluji Shrivastav](https://open.spotify.com/artist/6W1YoudRbtmvymApgIb238) | [Best of Baluji Shrivastav](https://open.spotify.com/album/3b0HAeRSfhgtVaa3KO7KB5) | 9:55 | 2022-09-01 |  |
+| [Raga Dhani](https://open.spotify.com/track/3oYV5o683DdesdrU5WCnyW) | [Baluji Shrivastav](https://open.spotify.com/artist/6W1YoudRbtmvymApgIb238) | [Best of Baluji Shrivastav](https://open.spotify.com/album/3b0HAeRSfhgtVaa3KO7KB5) | 9:55 | 2022-09-01 | 2022-11-12 |
+| [Raga Dhani \(gat in Madhya Laya Jhaptaal\)](https://open.spotify.com/track/4PFNmeSYL8RHGKyb8Kqjcf) | [Benjamin Shrivastav Shanson](https://open.spotify.com/artist/3IKouO9Y74YNhaDsd65Ogl), [Partho Mukherjee](https://open.spotify.com/artist/1IftW1kiCpeNpYZLCIVk2j), [Baluji Shrivastav](https://open.spotify.com/artist/6W1YoudRbtmvymApgIb238) | [The Art of the Indian Dilruba](https://open.spotify.com/album/3sKpqE3Q8WOBeYobxeLO85) | 10:01 | 2022-09-01 |  |
 | [Raga Hemavati \(Flute\)](https://open.spotify.com/track/5lSSnYTe9Fm2KsHSnybC4F) | [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg) | [Romantic Evening Ragas'](https://open.spotify.com/album/5nYb3oYwbDYkWyb85ShfyM) | 2:52 | 2022-09-01 |  |
 | [Raga Jhinjhoti \- Alap](https://open.spotify.com/track/5TwyVQzzKcTVSNqDC9ojWP) | [Satish Vyas](https://open.spotify.com/artist/5VjvnatSJPsJtYQIX2qOlV) | [Cutting Edge](https://open.spotify.com/album/5jrFE5JZsHBnC7UqRx9JV7) | 5:57 | 2022-09-01 |  |
 | [Raga Kalavati \- Alaap](https://open.spotify.com/track/38W5klddZEyd4qw1DpTuFt) | [Satish Vyas](https://open.spotify.com/artist/5VjvnatSJPsJtYQIX2qOlV) | [Dreamwaves](https://open.spotify.com/album/1Fli4PL8CCyZ3KuhF6GPan) | 9:25 | 2022-09-01 |  |

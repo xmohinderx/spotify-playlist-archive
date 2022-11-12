@@ -383,7 +383,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 101280,
       "name": "Corpus (Cuerpo)",
       "url": "https://open.spotify.com/track/3oPi04eaahmVpe7l3qJfMN"
@@ -755,7 +755,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 178693,
       "name": "El Capiro",
       "url": "https://open.spotify.com/track/7AvyNkfIIJ2r41fPkF0i15"
@@ -2575,7 +2575,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-07",
+      "date_removed": null,
       "duration_ms": 169133,
       "name": "La Ara\u00f1a",
       "url": "https://open.spotify.com/track/0qmJebeCyMlgrLZi24pGWV"
@@ -2665,7 +2665,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 168133,
       "name": "La culebra",
       "url": "https://open.spotify.com/track/335MnaMIi8Gz61nxR9nWMW"
@@ -2961,6 +2961,24 @@
       "duration_ms": 210466,
       "name": "La Llorona",
       "url": "https://open.spotify.com/track/5CNrHpTwIKMbqS4zZYJ79b"
+    },
+    {
+      "album": {
+        "name": "Las Ma\u00f1anitas",
+        "url": "https://open.spotify.com/album/6cGMHg7ykaPoGdCWFfBvEW"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Vargas De Tecalitl\u00e1n",
+          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154933,
+      "name": "La madrugada",
+      "url": "https://open.spotify.com/track/02jBqROiQvw1Uay014XMXE"
     },
     {
       "album": {
@@ -4343,7 +4361,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": null,
       "duration_ms": 87106,
       "name": "Region Anap (Regional)",
       "url": "https://open.spotify.com/track/2WfeaeMjAg8iAJ63QJ3ydR"
